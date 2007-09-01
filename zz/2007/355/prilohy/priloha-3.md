@@ -1,12 +1,12 @@
 Príloha č. 3 k zákonu č. 355/2007 Z. z.
 
-- Zoznam chemických látok, ktorých odborné využitie vyžaduje skúšku pred komisiou na preskúšanie odbornej spôsobilosti 1. | Kyselina kyanovodíková a jej rozpustné soli
+- ZOZNAM CHEMICKÝCH LÁTOK, NA KTORÝCH ODBORNÉ VYUŽÍVANIE SA NEVZŤAHUJÚ USTANOVENIA § 16 ODS. 19 A ODS. 24 PÍSM. A), C) A E) 1. | Kyselina kyanovodíková a jej rozpustné soli
 
 - 2. | Kyselina fluorovodíková a jej rozpustné soli
 
 - 3. | Akrylonitril
 
-- 4. | Skvapalnený amoniak (čpavok)
+- 4. | Tekuté stlačené amónium
 
 - 5. | Metylbromid
 
@@ -18,6 +18,6 @@ Príloha č. 3 k zákonu č. 355/2007 Z. z.
 
 - 9. | Sírouhlík
 
-- 10. | Chlorid uhličitý
+- 10. | Fluorid uhličitý
 
-- 11. | Trichlóracetonitril
+- 11. | Trichlóracetonistril

@@ -8,7 +8,7 @@ Príloha č. 5 k zákonu č. 355/2007 Z. z.
 
   - Skupina B – Ochorenie a podozrenie na ochorenie hlásené do 24 hodín:
 
-  - akútna chabá paréza, botulizmus, brušný týfus a paratýfus (vrátane novozisteného nosičstva), cholera, šigelóza, diftéria, bakteriálna meningitída a encefalitída, mumps, pertussis, rubeola, tetanus, besnota, kontakt a ohrozenie besnotou, hepatitída typu A (VHA), VHB, VHC, VHE, tuberkulóza, škvrnitý týfus, návratná horúčka, mor, legionelóza, akútne hnačkové ochorenia a otravy potravinami (kampylobakterióza, salmonelóza a iné), COVID-19
+  - akútna chabá paréza, botulizmus, brušný týfus a paratýfus (vrátane novozisteného nosičstva), cholera, šigelóza, diftéria, bakteriálna meningitída a encefalitída, mumps, pertussis, rubeola, tetanus, besnota, kontakt a ohrozenie besnotou, hepatitída typu A (VHA), VHB, VHC, VHE, tuberkulóza, škvrnitý týfus, návratná horúčka, mor, legionelóza, akútne hnačkové ochorenia a otravy potravinami (kampylobakterióza, salmonelóza a iné)
 
   - Skupina C – Ochorenia hlásené do 48 hodín: nozokomiálne infekcie, svrab, varicela, herpes zoster
 
