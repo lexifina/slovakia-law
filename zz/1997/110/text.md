@@ -72,6 +72,8 @@ Medzinárodnej organizácie práce, ktorých zmluvnou stranou bola Česká a Slo
 
 (Ženeva 29. júna 1933, č. 440/1990 Zb.)
 
+Podľa oznámenia č. 416/2007 Z. z. sa skončí platnosť Dohovoru Medzinárodnej organizácie práce o agentúrach zamestnania za úhradu č. 34 z roku 1933 25. júla 2008 v súlade s článkom 11 ods. 1 dohovoru.
+
 16. Dohovor Medzinárodnej organizácie práce o povinnom invalidnom poistení osôb zamestnávaných v priemyselných a obchodných podnikoch, v slobodných povolaniach a pracovníkov pracujúcich na objednávku a domáceho služobníctva č. 37/1933 (Convention of the International Labour Organization concerning Compulsory Invalidity Insurance for Persons Employed in Industrial or Commercial Undertakings, in the Liberal Professions, and for Outworkers and Domestic Servants No. 37/1933)
 
 (Ženeva 29. júna 1933, č. 469/1990 Zb.)
