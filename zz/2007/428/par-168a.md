@@ -1,0 +1,3 @@
+# § 168a Náhrada cestovných výdavkov z dôvodu účasti na pohrebe
+
+Náhradu preukázaných cestovných výdavkov za cestu do Slovenskej republiky a späť z dôvodu účasti na pohrebe člena rodiny<sup>49b</sup>) možno poskytnúť profesionálnemu vojakovi, ktorý je zaradený do prípravy na získanie osobitných predpokladov na výkon funkcie a na hodnosť alebo je vyslaný na stáž mimo územia Slovenskej republiky, profesionálnemu vojakovi vyslanému na plnenie úloh mimo územia Slovenskej republiky podľa § 66 ods. 1 a profesionálnemu vojakovi vyslanému na plnenie úloh mimo územia Slovenskej republiky podľa § 66 ods. 2 a 3, ak jeho vyslanie je dlhšie ako 30 dní a kratšie ako 6 mesiacov.
