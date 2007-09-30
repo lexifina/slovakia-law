@@ -198,67 +198,63 @@ XIX. Ortuť a jej zlúčeniny CAS č. 7439-97-6
 
 3. Bod 2 neplatí pre alkalické mangánové gombíkové články a batérie zložené z gombíkových batérií.
 
-XX. Arzén a jeho zlúčeniny
+XX. Zlúčeniny arzénu
 
-Nesmú sa používať ako látky a zložky prípravkov, ktoré sú určené
+1. Nesmú byť uvedené na trh ani použité ako látky a zložky prípravkov, ktoré sú určené na použitie na zabránenie usadzovaniu mikroorganizmov, rastlín a živočíchov na
 
-a) na zabránenie usadzovania mikroorganizmov, rastlín a živočíchov na
+a) trupoch lodí,
 
-1. trupoch člnov a lodí,
+b) klietkach, plavákoch, sieťach a všetkých iných pomôckach alebo zariadeniach používaných na chov rýb alebo vodných mäkkýšov,
 
-2. klietkach, plavákoch, bójach, sieťach a akýchkoľvek iných pomôckach alebo zariadeniach používaných pri chove rýb alebo mäkkýšov,
+c) všetkých pomôckach alebo zariadeniach, ktoré sú úplne alebo čiastočne ponorené do vody.
 
-3. akýchkoľvek pomôckach alebo zariadeniach úplne alebo čiastočne ponorených do vody,
+2. Nesmú byť uvedené na trh ani použité ako látky a zložky prípravkov, ktoré sú určené na ošetrenie úžitkovej vody, bez ohľadu na ich použitie.
 
-b) na konzervovanie dreva; okrem toho sa takto upravené drevo nesmie uvádzať na trh,
+3. Nesmú byť použité na konzerváciu dreva; drevo, ktoré je takto ošetrené, nesmie byť uvedené na trh s výnimkou uvedenou v bode 4.
 
-c) výnimka z písmena b) platí v súvislosti s
+4. Zákaz uvedenia na trh neplatí
 
-1. látkami a prípravkami na konzervovanie dreva;
+a) na látky a prípravky na konzerváciu dreva: tie sa môžu používať v priemyselných výrobných zariadeniach používajúcich vákuum, podtlak, tlak alebo pretlak na impregnáciu dreva, ak ide o roztoky anorganických zlúčenín medi, chrómu a arzénu (ďalej len „roztok CCA") typu C a ak sú povolené podľa článku 5 bodu 1 smernice 98/8/ES; takto ošetrené drevo sa nesmie uviesť na trh pred dokončením fixácie konzervačného prostriedku,
 
-tie sa môžu používať v priemyselných výrobných zariadeniach používajúcich vákuum (podtlak) alebo tlak (pretlak) na impregnáciu dreva, ak ide o roztoky anorganických zlúčenín medi, chrómu a arzénu (CCA) typu C; takto upravené drevo sa nesmie uviesť na trh pred dokončením fixácie konzervačného prostriedku,
+b) na drevo ošetrené roztokmi CCA v priemyselných zariadeniach podľa písmena a), ak sa uvádza na trh na odborné a priemyselné použitie za predpokladu, že z dôvodu ochrany bezpečnosti ľudí a zvierat sa vyžaduje štrukturálna integrita dreva a styk s pokožkou ľudí je nepravdepodobný:
 
-2. drevom upraveným roztokmi CCA v priemyselných zariadeniach podľa bodu 1;
+1. ako stavebné drevo vo verejných a poľnohospodárskych budovách, v úradných budovách a priemyselných objektoch,
 
-toto drevo sa môže uviesť na trh na ďalšie použitie, ak je zaistená bezpečnosť a ochrana zdravia pri práci, ochrana života a zdravia ľudí a ochrana životného prostredia a nie je pravdepodobné, že by sa počas svojej životnosti dostalo do styku s pokožkou osôb širokej verejnosti
+2. na mostoch a mostových konštrukciách,
 
-– ako stavebné drevo vo verejných a poľnohospodárskych budovách, úradných budovách a priemyselných zariadeniach,
+3. ako stavebné drevo v sladkých a poloslaných vodách, napríklad prístavné móla a mosty,
 
-– na mostoch a stavbe mostov,
+4. ako protihlukové bariéry,
 
-– ako stavebné drevo v sladkovodných oblastiach a poloslaných vodách, napr. na móla, prístavné hrádze a mosty,
+5. ako protilavínové zátarasy,
 
-– ako protihlukové bariéry,
+6. na bezpečnostné oplotenie a bariéry pri hlavných cestách,
 
-– ako protilavínové zátarasy,
+7. ako ohrady pre hospodárske zvieratá z guľatiny ihličnatých drevín zbavených kôry,
 
-– na bezpečnostné oplotenie a bariéry pri hlavných cestách,
+8. v konštrukciách zabraňujúcich zosuvu pôdy,
 
-– ako guľatina z ihličnatých drevín zbavená kôry, použitá v ohradách pre hospodárske zvieratá,
+9. ako stĺpy elektrického a telekomunikačného vedenia,
 
-– v konštrukciách zabraňujúcich zosuvom pôdy,
+10. ako podvaly podzemnej železnice, napríklad v metre, banskej koľajovej preprave a pod.,
 
-– ako stĺpy elektrického a telekomunikačného vedenia,
+c) bez toho, aby bolo dotknuté uplatňovanie ustanovení § 23 až 26 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch, všetko ošetrené drevo uvádzané na trh musí byť samostatne označené textom „Len na odbornú a priemyselnú aplikáciu a použitie, obsahuje arzén". Okrem toho sa všetko drevo uvádzané na trh v balení musí označiť textom „Pri manipulácii s týmto drevom použite rukavice. Pri rezaní alebo inom opracovávaní tohto dreva použite masku proti prachu a chránič očí. S odpadom z tohto dreva sa musí zaobchádzať ako s nebezpečným odpadom v zariadení, ktoré je na to oprávnené",
 
-– ako podvaly podzemnej železnice.
+d) ošetrené drevo uvedené v písmene a) sa nesmie používať
 
-Bez toho, aby boli dotknuté ostatné ustanovenia osobitného predpisu o klasifikácii, balení a označovaní nebezpečných látok a prípravkov,<sup>1a</sup>) akékoľvek ošetrené drevo uvádzané na trh musí byť osobitne označené textom „Len na použitie v priemyselných zariadeniach a na ošetrovanie dreva odborníkmi. Obsahuje arzén“.
+1. v bytových budovách alebo nebytových budovách bez ohľadu na účel,
 
-Okrem toho akékoľvek drevo dodávané na trh v balíkoch sa musí označiť nálepkou s textom „Pri manipulácii s týmto drevom používajte ochranné rukavice. Pri rezaní alebo inom opracúvaní tohto dreva používajte proti prachu osobné ochranné prostriedky na ochranu dýchacích orgánov a na ochranu zraku a tváre. Odpad z tohto dreva musí zneškodniť autorizovaný podnik ako nebezpečný odpad“.
+2. v žiadnom zariadení, kde hrozí riziko opakovaného styku s pokožkou,
 
-3. Upravené drevo uvedené v bodoch 1 a 2 sa nesmie používať
+3. v morskej vode,
 
-– v obytných alebo domácich stavbách bez ohľadu na účel,
+4. na iné poľnohospodárske účely, ako sú ohrady pre hospodárske zvieratá, a na stavebné použitie podľa písmena b),
 
-– v akýchkoľvek aplikáciách, keď hrozí riziko opakovaného styku s pokožkou,
+5. tam, kde by ošetrené drevo mohlo prísť do styku s polotovarmi alebo hotovými výrobkami určenými na ľudskú a živočíšnu spotrebu.
 
-– v morskej vode,
+5. Drevo ošetrené zlúčeninami arzénu, ktoré sa používalo pred 30. septembrom 2007 alebo sa uviedlo na trh v súlade s pravidlami tejto vyhlášky, sa môže naďalej používať na mieste, kde sa nachádza, po celú dobu jeho použiteľosti.
 
-– na iné poľnohospodárske účely, ako sú ohrady pre hospodárske zvieratá, a na stavebné použitie v súlade s bodom 2,
-
-– v akýchkoľvek aplikáciách, pri ktorých by upravené drevo mohlo prísť do styku s polotovarmi a hotovými výrobkami určenými na ľudskú a živočíšnu spotrebu.
-
-4. Nesmú sa používať ako látky a zložky prípravkov určených na použitie pri úprave úžitkovej vody bez ohľadu na jej použitie.
+6. Drevo ošetrené roztokmi CCA typu C, ktoré sa používalo pred 30. septembrom 2007 alebo ktoré sa uviedlo na trh v súlade s pravidlami tejto vyhlášky, sa môže uviesť na trh použitých výrobkov a použiť alebo opätovne použiť za podmienok týkajúcich sa jeho použitia, ktoré sú uvedené v bode 4 písm. b), c) a d).
 
 XXI. Organociničité zlúčeniny
 
