@@ -1,3 +1,3 @@
-# § 112a Krajský úrad
+# § 112a Obvodný úrad v sídle kraja
 
-Krajský úrad vydáva osobitné označenia vozidiel a preukazy osobitných označení vozidiel podľa § 41 ods. 4 a 5 a vedie ich evidenciu.
+Obvodný úrad v sídle kraja vydáva osobitné označenia vozidiel a preukazy osobitných označení vozidiel podľa § 41 ods. 4 a 5 a vedie ich evidenciu.
