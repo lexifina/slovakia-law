@@ -4,13 +4,13 @@
 
 # § 65a
 
-(1) Živnostenský úrad môže uložiť podnikateľovi pokutu až do 100 000 Sk, ak podnikateľ
+(1) Živnostenský úrad uloží podnikateľovi pokutu až do 100 000 Sk, ak podnikateľ
 
 - a) neustanoví v prípadoch, keď je povinný to urobiť, zodpovedného zástupcu pre koncesovanú živnosť,
 
 - b) nedodržiava podmienky ustanovené na prevádzkovanie koncesovanej živnosti (§ 27 ods. 3).
 
-(2) Živnostenský úrad môže podnikateľovi uložiť pokutu až do 50 000 Sk, ak podnikateľ
+(2) Živnostenský úrad uloží podnikateľovi pokutu až do 50 000 Sk, ak podnikateľ
 
 - a) neustanoví v prípadoch, keď je povinný to urobiť, zodpovedného zástupcu pre ohlasovaciu živnosť (§ 11 ods. 6 až 8),
 
@@ -18,7 +18,7 @@
 
 - c) nedodržiava podmienky podľa § 29 ods. 1; pokutu nemožno uložiť, ak iný orgán začal v rovnakej veci konanie o uloženie pokuty podľa osobitných predpisov.
 
-(3) Živnostenský úrad môže podnikateľovi uložiť pokutu až do 20 000 Sk, ak podnikateľ
+(3) Živnostenský úrad uloží podnikateľovi pokutu až do 20 000 Sk, ak podnikateľ
 
 - a) neohlási živnostenskému úradu, že ustanovil zodpovedného zástupcu, hoci nebol povinný to urobiť (§ 11 ods. 7 prvá veta),
 
@@ -26,12 +26,8 @@
 
 - c) neohlási zmeny údajov obsiahnutých v ohlásení (§ 49 ods. 1) alebo v žiadosti, na ktorej základe sa rozhodlo o udelení koncesie (§ 56 ods. 1),
 
-- d) nemá v prevádzkarni a na trhovom mieste autorizovanú inšpekčnú knihu,
+- d) poruší povinnosť podľa § 30 ods. 5,
 
-- e) poruší povinnosť podľa § 30 ods. 5,
+- e) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
 
-- f) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
-
-(4) Živnostenský úrad môže uložiť zodpovednému zástupcovi pokutu až do 20 000 Sk, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).
-
-(5) Živnostenský úrad môže osobe, ktorá nesplní povinnosť vrátiť živnostenský list alebo koncesnú listinu (§ 10 ods. 5), uložiť pokutu až do 10 000 Sk.
+(4) Živnostenský úrad uloží zodpovednému zástupcovi pokutu až do 20 000 Sk, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).

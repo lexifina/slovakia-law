@@ -1,18 +1,18 @@
 Príloha č. 4 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
-- ŽIVNOSTI, KTORÉ MÔŽU VYKONÁVAŤ IBA OSOBY S OSOBITNOU ODBORNOU SPÔSOBILOSŤOU
+- Činnosti, ktoré môžu vykonávať iba osoby s osobitnou odbornou spôsobilosťou
 
-  - A. Externe (u zákazníka) vykonávané remeselné živnosti
+  - A. Externe (u zákazníka) vykonávané činnosti
 
     - Vodoinštalatérstvo a kúrenárstvo
 
     - Inštalácia a opravy chladiacich zariadení
 
-    - Plynoinštalatérstvo
+    - Montáž, rekonštrukcia a údržba vyhradených technických zariadení
 
-  - B. Živnosti vykonávané v prevádzkarni alebo externe
+  - B. Činnosti vykonávané v prevádzkarni alebo externe (u zákazníka)
 
-    - Holičstvo a kaderníctvo
+    - Pánske, dámske a detské kaderníctvo
 
     - Kozmetické služby
 

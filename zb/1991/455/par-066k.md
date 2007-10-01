@@ -1,13 +1,13 @@
-# § 66k Odborná spôsobilosť pre živnosti zaradené v zozname V
+# § 66k Odborná spôsobilosť pre živnosti zaradené do zoznamu III
 
-(1) Odbornú spôsobilosť pre živnosti zaradené v zozname V osoby spoločenstva náhradným spôsobom preukazujú
+(1) Odbornú spôsobilosť pre živnosti zaradené do zoznamu III spĺňa osoba spoločenstva, ktorá vykonávala príslušnú činnosť nepretržite po dobu
 
-- a) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+- a) troch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra<sup>42b</sup>) alebo
 
-- b) dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+- b) dvoch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce vzdelanie, alebo
 
-- c) dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+- c) dvoch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že vykonávala príslušnú činnosť v postavení zamestnanca najmenej tri roky, alebo
 
-- d) dokladom o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní predchádzajúceho vzdelávania na príslušnú činnosť.
+- d) troch rokov v postavení zamestnanca, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce vzdelanie.
 
 (2) V prípadoch podľa odseku 1 písm. a) a c) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.

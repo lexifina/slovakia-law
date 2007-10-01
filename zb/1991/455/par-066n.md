@@ -1,9 +1,11 @@
+## HLAVA III
+
+## Finančná spoľahlivosť a poistenie
+
 # § 66n
 
-Za odbornú prax v postavení vedúceho podniku podľa § 66g až 66k sa považuje odborná prax vykonávaná v podniku zodpovedajúceho odvetvia
+(1) Splnenie podmienky finančnej spoľahlivosti môže osoba spoločenstva preukázať aj rovnocennými dokladmi vydanými bankami v členskom štáte.
 
-- a) v postavení vedúceho organizácie alebo organizačnej zložky podniku<sup>41c</sup>) alebo
+(2) Splnenie podmienky zákonného poistenia proti rizikám vyplývajúcim z prevádzkovania živnosti môžu osoby spoločenstva preukázať aj rovnocennými dokladmi vydanými poisťovňami iného členského štátu, z ktorých je zrejmé, že vo vzťahu k podmienkam a rozsahu zodpovedá poistenie podmienkam a rozsahu krytia podľa osobitných predpisov v Slovenskej republike.
 
-- b) v postavení (zodpovedného) zástupcu podnikateľa alebo vedúceho organizácie, ak je s týmto postavením spojená zodpovednosť rovnajúca sa zodpovednosti zastupovaného podnikateľa alebo vedúceho, alebo
-
-- c) vo vedúcej funkcii s povinnosťami obchodného alebo technického charakteru a so zodpovednosťou za jedno alebo viac oddelení podniku.
+(3) Doklady uvedené v odsekoch 1 a 2 nesmú byť pri ich predkladaní staršie ako tri mesiace a musia byť predložené spolu s úradne overeným prekladom do štátneho jazyka.
