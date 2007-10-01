@@ -66,8 +66,6 @@
 
 - 29) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.§ 12 zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
-- 30) § 30 ods. 6 zákona č. 455/1991 Zb. v znení neskorších predpisov.Vyhláška Ministerstva vnútra Slovenskej republiky č. 133/1994 Z. z. o inšpekčných knihách.Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
-
 - 31) § 5 ods. 2 a 3 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z.
 
 - 32) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení zákona Slovenskej národnej rady č. 417/1991 Zb. (úplné znenie č. 32/1992 Zb.), zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení zákona Slovenskej národnej rady č. 271/1991 Zb., zákon č. 87/1987 Zb. v znení zákona č. 239/1991 Zb. (úplné znenie č. 215/1992 Zb.), zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z., vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 246/1995 Z. z., zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z., zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
