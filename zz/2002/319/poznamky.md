@@ -2,7 +2,7 @@
 
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
-- 3) Zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
+- 3) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
 - 4) Zákon č. 153/2001 Z. z. o prokuratúre.
 
@@ -12,7 +12,11 @@
 
 - 7) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
-- 8) Čl. 102 ods. 1 písm. m) a čl. 119 písm. n) Ústavy Slovenskej republiky.Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z.§ 10 zákona č. 321/2002 Z. z.
+- 8) Čl. 102 ods. 1 písm. m) a čl. 119 písm. n) Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
+
+- Čl. 1 ods. 8, čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. v znení ústavného zákona č. 566/2005 Z. z.
+
+- § 10 zákona č. 321/2002 Z. z. v znení zákona č. 570/2005 Z. z.
 
 - 8a) Zákon č. 569 /2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
 
@@ -20,7 +24,7 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
-- 11) Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z.
+- 11) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
 
@@ -32,13 +36,13 @@
 
 - 15b) Napríklad zákon č. 570/2005 Z. z., zákon č. 569/2005 Z. z.
 
-- 16) § 4 zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 16) § 6 zákona č. 570/2005 Z. z.
 
-- 17) § 31 zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 17) § 17 zákona č. 570/2005 Z. z.
 
 - 18) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 19) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 19) § 33 písm. d) zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
