@@ -54,7 +54,7 @@
 
 - 14b) § 34, 36 a 38 zákona č. 220/2007 Z. z.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
+- 15) § 4 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 16) § 30 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 14/2006 Z. z.
 

@@ -332,23 +332,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 18
 
-  - a) Povolenie uzatvoriť manželstvo na inom než príslušnom matričnom<sup>15</sup>) úrade štátnymi občanmi Slovenskej republiky ....................................................................................... | 200 Sk
+  - a) Povolenie uzavrieť manželstvo pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnymi občanmi Slovenskej republiky | 500 Sk
 
-  - b) Uzatvorenie manželstva pred iným než príslušným matričným úradom<sup>15</sup>) štátnymi občanmi Slovenskej republiky ....................................................................................................... | 500 Sk
+  - b) Uzavretie manželstva pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnymi občanmi Slovenskej republiky | 500 Sk
 
-  - c) Povolenie uzatvoriť manželstvo štátnymi občanmi Slovenskej republiky mimo určenej doby | 300 Sk
+  - c) Povolenie uzavrieť manželstvo mimo určenej doby | 500 Sk
 
-  - d) Povolenie uzatvoriť manželstvo štátnymi občanmi Slovenskej republiky mimo úradne určenej miestnosti | 1 000 Sk
+  - d) Povolenie uzavrieť manželstvo mimo úradne určenej miestnosti<sup>15</sup>) | 2 000 Sk
 
-  - e) Uzatvorenie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 2 000 Sk
+  - e) Povolenie uzavrieť manželstvo pred iným než príslušným matričným úradom<sup>15</sup>) medzi štátnym občanom Slovenskej republiky a cudzincom alebo medzi cudzincami | 1 000 Sk
 
-  - f) Uzatvorenie manželstva medzi cudzincami | 5 000 Sk
+  - f) Uzavretie manželstva medzi štátnym občanom Slovenskej republiky a cudzincom | 2 000 Sk
 
-  - g) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt<sup>16</sup>) | 5 000 Sk
+  - g) Uzavretie manželstva medzi cudzincami | 5 000 Sk
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodené osoby, ktorých život je priamo ohrozený, občania s ťažkým zdravotným postihnutím a držitelia preukazu občana s ťažkým zdravotným postihnutím. 2. Od poplatku podľa písmen a) a b) tejto položky sú oslobodení snúbenci, ktorí uzatvárajú manželstvo na matričnom úrade príslušnom podľa miesta prechodného pobytu v mieste pracoviska jedného z nich. |
+  - h) Uzavretie manželstva, ak ani jeden zo snúbencov nemá na území Slovenskej republiky trvalý pobyt<sup>16</sup>) | 6 000 Sk
 
-  - Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Na území Slovenskej republiky sa orgánom štátu, pred ktorým sa manželstvo uzatvára, rozumie matričný úrad. 3. Ak sa vyberie poplatok podľa písmena g) tejto položky, poplatok podľa písmena e) alebo f) tejto položky sa nevyberie. 4. Ak sa uzatvorí manželstvo pred iným než príslušným matričným úradom, poplatok podľa písmena b) tejto položky vyberie príslušný (delegujúci) matričný úrad, ktorý pripravil podklady na uzatvorenie manželstva. |
+  - Oslobodenie |
+
+  - 1. Od poplatku podľa tejto položky sú oslobodené osoby, ktorých život je priamo ohrozený, a držitelia preukazu osoby s ťažkým zdravotným postihnutím. 2. Od poplatku podľa písmen a) a b) tejto položky sú oslobodení snúbenci, ktorí uzavierajú manželstvo pred matričným úradom podľa miesta prechodného pobytu jedného z nich. |
+
+  - | | Poznámky 1. Poplatok podľa tejto položky sa vyberie len od jedného zo snúbencov. 2. Poplatok podľa písmen f) až h) tejto položky vyberie matričný úrad, pred ktorým sa manželstvo v skutočnosti uzaviera a ktorý vykonáva zápis uzavretia manželstva do matriky. Ak sa manželstvo uzaviera pred orgánom registrovanej cirkvi alebo náboženskej spoločnosti, poplatok podľa písmen f) až h) tejto položky vyberie príslušný matričný úrad,<sup>15</sup>) ktorý pripravil podklady na uzavretie manželstva. 3. Ak sa vyberie poplatok podľa písmena h) tejto položky, poplatok podľa písmena f) alebo g) tejto položky sa nevyberie. 4. Poplatok podľa písmen a) a e) tejto položky vyberie matričný úrad, ktorý pripravil podklady na uzavretie manželstva (delegujúci matričný úrad). 5. Poplatok podľa písmen b) až d) tejto položky vyberie matričný úrad, pred ktorým sa manželstvo v skutočnosti uzaviera a ktorý vykonáva zápis uzavretia manželstva do matriky. |
 
     - Položka 19
 
@@ -356,27 +360,29 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) hanlivého alebo neosobného mena alebo hanlivého priezviska | 100 Sk
 
-  - b) priezviska maloletých detí | 1 100 Sk
+  - b) priezviska maloletých detí | 1 000 Sk
 
   - c) mena alebo priezviska v ostatných prípadoch | 3 000 Sk
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. 3. Od poplatku podľa tejto položky je oslobodená zmena priezviska, ku ktorej dochádza vyhlásením rozvedeného manžela, že prijíma opäť predošlé priezvisko, ak sa táto skutočnosť oznámila do troch mesiacov od právoplatnosti rozhodnutia o rozvode manželstva. 4. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska z dôvodu zmeny pohlavia, zmena mena a priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike a zapísanie priezviska osvojiteľa ako priezviska. |
+  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. |
 
   - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
     - Položka 20
 
-  - a) Udelenie štátneho občianstva Slovenskej republiky osobe nad 18 rokov ............................................. | 20 000 Sk
+  - a) Udelenie štátneho občianstva Slovenskej republiky osobe nad 18 rokov | 20 000 Sk
 
   - b) Udelenie štátneho občianstva Slovenskej republiky dieťaťu |
 
-  - 1. do 15 rokov ........................................................................................................................................................ | 3 000 Sk
+  - 1. do 15 rokov | 3 000 Sk
 
-  - 2. od 15 rokov do 18 rokov .................................................................................................................................. | 4 000 Sk
+  - 2. od 15 rokov do 18 rokov | 4 000 Sk
 
-  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom a reoptantom podľa medzinárodného práva ................................................................... | 500 Sk
+  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom a reoptantom podľa medzinárodného práva | 500 Sk
 
-  - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 ............................................................................................................................................................. | 500 Sk
+  - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 500 Sk
+
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov bol v čase jej narodenia československým štátnym občanom | 500 Sk
 
   - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl<sup>16a</sup>) a presídlenci z Ukrajiny z oblasti Černobyľu. |
 
@@ -400,11 +406,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 22
 
-  - Vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 100 Sk
+  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 300 Sk
 
-  - Oslobodenie Od poplatku podľa tejto položky je oslobodené vydanie osvedčenia o štátnom občianstve Slovenskej republiky na účely vydania prvého občianskeho preukazu. |
+  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky osoby ku dňu jej úmrtia alebo k inému dňu, ktorý predchádza dňu podania žiadosti | 300 Sk
 
-  - Poznámka Poplatok podľa tejto položky sa vyberie v polovičnej výške, ak ide o udelenie štátneho občianstva bývalým slovenským alebo československým štátnym občanom; poplatok podľa tejto položky sa vyberie vo výške dvojnásobku, ak sa osvedčenie o štátnom občianstve vydáva ihneď na výslovnú žiadosť poplatníka. |
+  - Oslobodenie Od poplatku podľa tejto položky je oslobodené konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky na účely vydania prvého občianskeho preukazu. |
 
     - Položka 22a
 
@@ -586,9 +592,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. politickej strany alebo politického hnutia .......................................................................................... | 20 000 Sk
 
-  - 2. združenia občanov ................................................................................................................................. | 1 000 Sk
+  - 2. združenia občanov ................................................................................................................................. | 2 000 Sk
 
-  - 3. nadácie .................................................................................................................................................... | 1 000 Sk
+  - 3. nadácie .................................................................................................................................................... | 2 000 Sk
 
   - 4. záujmového združenia právnických osôb .......................................................................................... | 2 000 Sk
 
@@ -596,9 +602,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 6. spoločenstva vlastníkov bytových a nebytových priestorov ............................................................. | 500 Sk
 
-  - 7. neinvestičného fondu ............................................................................................................................ | 1 000 Sk
+  - 7. neinvestičného fondu ............................................................................................................................ | 2 000 Sk
 
-  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ............................................ | 1 000 Sk
+  - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ............................................ | 2 000 Sk
 
   - b) Zmena stanov alebo štatútu, alebo nadačnej listiny, alebo údajov zapísaných do registra |
 
@@ -618,7 +624,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby ............................................. | 500 Sk
 
-  - c) Vyhotovenie stanov, nadačnej listiny a štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy, nadačnú listinu a štatút |
+  - c) Vyhotovenie stanov, nadačnej listiny alebo štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy, nadačnú listinu alebo štatút |
 
   - 1. politickej strany alebo politického hnutia ............................................................................................ | 1 000 Sk
 
@@ -636,7 +642,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby .............................................. | 500 Sk
 
-  - d) Vyhotovenie výpisu zo zoznamu politických strán alebo politických hnutí, z registra združení občanov, nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ................................ | 100 Sk
+  - d) Vyhotovenie výpisu z registra politických strán a politických hnutí, združení občanov, nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ................................ | 100 Sk
 
   - e) Vyhotovenie rozhodnutia ako náhrady za stratené, zničené, poškodené alebo odovzdané rozhodnutie o zápise do registra |
 
@@ -644,11 +650,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. pozemkového spoločenstva, spoločenstva vlastníkov bytových a nebytových priestorov .......... | 400 Sk
 
-  - f) Vyhotovenie písomnej informácie zo zoznamu politických strán alebo politických hnutí a združení občanov, z registra nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ............................................. | 100 Sk
+  - f) Vyhotovenie písomnej informácie z registra politických strán a politických hnutí, združení občanov, nadácií, záujmových združení právnických osôb, pozemkových spoločenstiev, spoločenstiev vlastníkov bytových a nebytových priestorov, neinvestičných fondov a neziskových organizácií poskytujúcich všeobecne prospešné služby ............................................. | 100 Sk
 
   - g) Výmaz |
 
-  - 1. politickej strany alebo politického hnutia zo zoznamu politických strán a politických hnutí ....... | 1 000 Sk
+  - 1. politickej strany alebo politického hnutia z registra politických strán a politických hnutí ........... | 1 000 Sk
 
   - 2. združenia občanov z registra združení občanov ................................................................................. | 500 Sk
 
@@ -664,15 +670,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra neziskových organizácií poskytujúcich všeobecne prospešné služby ........................................................................ | 1 000 Sk
 
-  - Poznámka Správny orgán vyberie poplatok podľa písmena b) tejto položky znížený o 50 %, ak sa v rámci zmeny údajov zapísaných do registra vykoná súčasne zmena názvu, sídla a štatutárneho orgánu. Za zmenu sídla vyznačenú v dôsledku premenovania názvu obcí a ulíc alebo za zmenu údajov v stanovách a v štatúte vyplývajúcu zo zmien v právnych predpisoch v oblasti združovania občanov sa poplatok nevyberie. |
-
     - Položka 35
 
-  - a) Podanie žiadosti o povolenie zriadiť organizáciu s medzinárodným prvkom alebo o povolenie vyvíjať činnosť alebo mať sídlo takej organizácie na území Slovenskej republiky ................................... | 2 000 Sk
+  - a) Podanie žiadosti o povolenie zriadiť organizáciu s medzinárodným prvkom alebo o povolenie vyvíjať činnosť alebo mať sídlo takej organizácie na území Slovenskej republiky............................................................ | 2 000 Sk
 
-  - b) Zmena stanov, štatútu a štatutárneho zástupcu organizácie s medzinárodným prvkom ................... | 500 Sk
+  - b) Zmena stanov, štatútu alebo štatutárneho zástupcu organizácie s medzinárodným prvkom................................ | 500 Sk
 
-  - c) Vyhotovenie stanov a štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy a štatút organizácie s medzinárodným prvkom ................................................................................ | 500 Sk
+  - c) Vyhotovenie stanov alebo štatútu ako náhrady za stratené, zničené, poškodené alebo odcudzené stanovy alebo štatút organizácie s medzinárodným prvkom...................................... | 500 Sk
 
     - Položka 36
 
@@ -1028,9 +1032,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 63a
 
-  - a) Podanie žiadosti o vydanie osobitného označenia vozidla a preukazu osobitného označenia vozidla<sup>19a</sup>) ................................................................................................................................ | 100 Sk
+  - a) Podanie žiadosti o vydanie osobitného označenia vozidla a preukazu osobitného označenia vozidla<sup>19a</sup>)............ | 100 Sk
 
-  - b) Podanie žiadosti o vydanie preukazu osobitného označenia vozidla<sup>19a</sup>) ako náhrady za zničený, stratený alebo poškodený preukaz osobitného označenia vozidla<sup>19a</sup>) ........................ | 30 Sk
+  - b) Podanie žiadosti o vydanie preukazu osobitného označenia vozidla<sup>19a</sup>) ako náhrady za zničený, stratený, odcudzený alebo poškodený preukaz osobitného označenia vozidla<sup>19a</sup>) | 30 Sk
 
     - Položka 64
 
@@ -2176,35 +2180,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 148
 
-  - a) Vydanie živnostenského listu .................................................................................................................................. | 1 000 Sk
+  - a) Vydanie živnostenského listu |
 
-  - b) Vydanie koncesnej listiny ......................................................................................................................................... | 2 000 Sk
+  - 1. na voľnú živnosť ..... | 100 Sk
 
-  - c) Žiadosť o nahliadnutie do živnostenského registra, za jedného podnikateľa ............................................... | 50 Sk
+  - 2. na remeselnú živnosť alebo viazanú živnosť ..... | 500 Sk
 
-  - d) Výpis zo živnostenského registra, za jedného podnikateľa ............................................................................... | 100 Sk
+  - b) Vydanie koncesnej listiny ..... | 1 000 Sk
 
-  - e) Vydanie náhradného živnostenského listu alebo koncesnej listiny náhradou za stratený, zničený, poškodený alebo odcudzený list alebo listinu ........................................................................................... | 300 Sk
+  - c) Výpis zo živnostenského registra za jedného podnikateľa ..... | 100 Sk
 
-  - f) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ..................................................................................................................................................................... | 200 Sk
+  - d) Vydanie náhradného živnostenského listu alebo koncesnej listiny náhradou za stratený, zničený, poškodený alebo odcudzený živnostenský list alebo koncesnú listinu ..... | 100 Sk
 
-  - g) Autorizácia inšpekčnej knihy .................................................................................................................................... | 50 Sk
+  - e) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ..... | 200 Sk
 
-  - h) Za vykonanie zmien v živnostenskom liste a zmien v koncesnej listine .......................................................... | 100 Sk
+  - f) Za vykonanie zmien v živnostenskom liste a zmien v koncesnej listine ..... | 100 Sk
 
-  - i) Zrušenie živnostenského oprávnenia na jednu alebo viac živností ................................................................... | 150 Sk
+  - g) Vydanie rozhodnutia o zrušení živnostenského oprávnenia na jednu alebo viac živností ..... | 150 Sk
 
-  - j) Žiadosť o pozastavenie prevádzkovania živnosti alebo o zmenu pozastavenia prevádzkovania živnosti ... | 200 Sk
+  - h) Pozastavenie prevádzkovania živnosti alebo zmena pozastavenia prevádzkovania živnosti ..... | 200 Sk
 
-  - k) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ................................................................................................................................................. | 200 Sk
+  - i) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ..... | 200 Sk
 
-  - l) Vydanie potvrdenia o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou ................................................ | 200 Sk
+  - j) Vydanie osvedčenia o splnení podmienok odbornej praxe ..... | 200 Sk
 
-  - m) Žiadosť o uznanie odbornej spôsobilosti občanov členských štátov Európskej únie na účely prevádzkovania živnosti v Slovenskej republike ........................................................................................ | 3 000 Sk
+  - k) Vydanie rozhodnutia o uznaní odbornej praxe ..... | 500 Sk
 
-  - n) Vydanie potvrdenia o tom, že v živnostenskom registri nie je zápis .................................................................. | 100 Sk
+  - l) Vydanie rozhodnutia o uznaní odbornej kvalifikácie občana členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou dohody o Európskom hospodárskom priestore, a Švajčiarskej konfederácie na účely prevádzkovania živnosti v Slovenskej republike ..... | 3 000 Sk
 
-  - Poznámky 1. Na poplatok podľa písmena h) nemá vplyv počet živnostenských listov a počet koncesných listín, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien. 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc, alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie. |
+  - m) Vydanie potvrdenia o tom, že v živnostenskom registri nie je zápis ..... | 100 Sk
+
+  - Poznámky 1. Na poplatok podľa písmena f) nemá vplyv počet živnostenských listov a počet koncesných listín, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien. 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie. |
 
     - Položka 149
 
@@ -3890,7 +3896,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 245
 
-  - Vydanie osvedčenia o štátnom občianstve Slovenskej republiky ..................................................... | 300 Sk
+  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 300 Sk
+
+  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky osoby ku dňu jej úmrtia alebo k inému dňu, ktorý predchádza dňu podania žiadosti | 300 Sk
 
     - Položka 246
 
@@ -3910,21 +3918,47 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 247
 
-  - a) Udelenie štátneho občianstva Slovenskej republiky osobe nad 18 rokov ................................................... | 20 000 Sk
+  - a) Udelenie štátneho občianstva Slovenskej republiky osobe nad 18 rokov | 20 000 Sk
 
   - b) Udelenie štátneho občianstva Slovenskej republiky dieťaťu |
 
-  - 1. do 15 rokov .............................................................................................................................................................. | 3 000 Sk
+  - 1. do 15 rokov | 3 000 Sk
 
-  - 2. od 15 rokov do 18 rokov ........................................................................................................................................ | 4 000 Sk
+  - 2. od 15 rokov do 18 rokov | 4 000 Sk
 
-  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom a reoptantom v zmysle medzinárodného práva ................................................................... | 500 Sk
+  - c) Udelenie štátneho občianstva Slovenskej republiky bývalým slovenským alebo československým štátnym občanom a reoptantom v zmysle medzinárodného práva | 500 Sk
 
-  - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 ...... | 500 Sk
+  - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 500 Sk
+
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov bol v čase jej narodenia československým štátnym občanom | 500 Sk
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
-    - Položka 248 - Zrušená od 1. 7. 2006.
+    - Položka 248
+
+  - Zmena |
+
+  - a) hanlivého alebo neosobného mena alebo hanlivého priezviska | 100 Sk
+
+  - b) priezviska maloletých detí | 1 000 Sk
+
+  - c) mena alebo priezviska v ostatných prípadoch | 5 000 Sk
+
+  - Oslobodenie |
+
+  - 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. |
+
+  - 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. |
+
+  - Poznámky |
+
+  - 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. |
+
+  - 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. |
+
+  - 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. |
+
+  - 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
     - Položka 249
 
