@@ -68,6 +68,8 @@
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
+- 29a) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
 - 30) § 25 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 31) Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
