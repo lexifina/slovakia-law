@@ -24,8 +24,6 @@
 
 - 13) § 11 ods. 3 a 5 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 14) § 27 Obchodného zákonníka.
-
 - 15) § 7 ods. 3 Obchodného zákonníka.
 
 - 16) Zákon č. 50/1976 Zb.
