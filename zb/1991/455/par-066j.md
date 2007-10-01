@@ -1,13 +1,17 @@
-# § 66j Odborná spôsobilosť pre živnosti zaradené v zozname IV
+# § 66j Odborná spôsobilosť pre živnosti zaradené do zoznamu II
 
-Odbornú spôsobilosť pre živnosti zaradené v zozname IV osoby spoločenstva náhradným spôsobom preukazujú
+(1) Odbornú spôsobilosť pre živnosti zaradené do zoznamu II spĺňa osoba spoločenstva, ktorá vykonávala príslušnú činnosť nepretržite po dobu
 
-- a) dokladom o nepretržitej päťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+- a) piatich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra<sup>42b</sup>) alebo
 
-- b) dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+- b) troch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie, alebo
 
-- c) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+- c) štyroch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej dvojročné vzdelanie, alebo
 
-  - d) dokladom o nepretržitej dvojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o trojročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
+- d) troch rokov ako samostatne zárobkovo činná osoba, ak súčasne preukáže, že vykonávala príslušnú činnosť v postavení zamestnanca najmenej päť rokov, alebo
 
-  - e) dokladom o nepretržitej trojročnej nesamostatnej odbornej praxi a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania.
+- e) piatich rokov v postavení zamestnanca, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie, alebo
+
+- f) šiestich rokov v postavení zamestnanca, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej dvojročné vzdelanie.
+
+(2) V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.

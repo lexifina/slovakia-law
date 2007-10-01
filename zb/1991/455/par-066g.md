@@ -1,17 +1,9 @@
-# § 66g Odborná spôsobilosť pre živnosti zaradené v zozname I
+## HLAVA II
 
-(1) Odbornú spôsobilosť pre živnosti zaradené v zozname I osoby spoločenstva náhradným spôsobom preukazujú
+## Odborná spôsobilosť
 
-- a) dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+# § 66g
 
-- b) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+(1) Odbornú spôsobilosť pre živnosti zaradené v prílohách č. 1 až 3 môže osoba spoločenstva preukázať aj rozhodnutím o uznaní odbornej praxe alebo rozhodnutím o uznaní odbornej kvalifikácie.
 
-- c) dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
-
-- d) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
-
-- e) dokladom o nepretržitej päťročnej praxi vo vedúcom postavení, z toho aspoň trojročnej praxi s plnením technických úloh a so zodpovednosťou najmenej za jedno oddelenie podniku, a dokladom o absolvovaní najmenej trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
-
-- f) dokladom o nepretržitej šesťročnej praxi vo vedúcom postavení, z toho aspoň trojročnej praxi s technickými úlohami a so zodpovednosťou najmenej za jedno oddelenie podniku, a dokladom o absolvovaní najmenej dvojročného predchádzajúceho vzdelávania na príslušnú činnosť.
-
-(2) V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+(2) Rozhodnutím o uznaní odbornej praxe možno preukázať odbornú spôsobilosť iba pre živnosti zaradené v prílohách č. 1 až 3 do zoznamov I až III.

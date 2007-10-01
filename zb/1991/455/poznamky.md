@@ -8,9 +8,9 @@
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
 
-- 2a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
+- 2a) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 2b) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
+- Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 25 ods. 1 zákona č. 87/1987 Zb. o veterinárnej starostlivosti v znení zákona č. 239/1991 Zb.
 
@@ -80,15 +80,11 @@
 
 - 14) Napríklad zákon č. 385/1999 Z. z. o kolektívnom investovaní v znení zákona č. 329/2000 Z. z..
 
-- 15) Zákon SNR č. 194/1990 Zb. o lotériách a iných podobných hrách.
-
-- Zákon ČNR č. 202/1990 Zb. o lotériách a iných podobných hrách.
+- 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
 - 17) § 5 ods. 2 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
-
-- 17a) § 14 zákona č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
 - 18) Zákon č. 61/1952 Zb. o námornej plavbe v znení zákona č. 42/1980 Zb.
 
@@ -100,7 +96,7 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 20) Zákon č. 195/2000 Z. z. o telekomunikáciách.
+- 20) Zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 21) § 62 ods. 2 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
 
@@ -152,12 +148,6 @@
 
 - 23n) § 7 ods. 1 zákona č. 76/1998 Z. z. o ochrane ozónovej vrstvy Zeme a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 23o) Vyhláška Ministerstva poľnohospodárstva a výživy Slovenskej republiky č. 155/1992 Zb., ktorou sa určujú podmienky oprávnenia na projektové práce v odbore pozemkových úprav.
-
-- 23p) § 14 ods. 2 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
-
-- 23pa) § 4 zákona č. 725/2004 Z. z.
-
 - 23pb) § 29 zákona č. 725/2004 Z. z.
 
 - 23pc) § 30 zákona č. 725/2004 Z. z.
@@ -178,15 +168,9 @@
 
 - 24) Napríklad § 73 ods. 4 a 5 a § 75 Zákonníka práce č. 65/1965 Zb. v znení zákona č. 231/1992 Zb., § 7 ods. 1 zákona č. 370/1997 Z. z. o vojenskej službe, § 23 ods. 2 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, § 48 ods. 6 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 207/1996 Z. z. o nadáciách v znení zákona č. 147/1997 Z. z.
 
-- 24a) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
+- 24a) § 3 a 5 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- 24b) Zákon Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení neskorších predpisov.
-
-- 24c) § 16 ods. 2 zákona č. 73/1995 Z. z.
-
-- 24d) Zákon Národnej rady Slovenskej republiky č. 283/1995 Z. z. o utečencoch v znení zákona č. 309/2000 Z. z.
-
-- Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+- 24b) § 36 až 39 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24e) § 69 a 70 Trestného zákona v znení neskorších predpisov.
 
@@ -194,7 +178,7 @@
 
 - 25) Zákon č. 498/1990 Zb. o utečencoch.
 
-- 26) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení zákona Národnej rady Slovenskej republiky č. 122/1993 Z. z.
+- 26) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27) § 5 zákona č. 328/1991 Zb.
 
@@ -204,6 +188,10 @@
 
 - 28a) § 21 Obchodného zákonníka.
 
+- 28aa) § 2a zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
+
+- 28ab) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
+
 - 28b) § 3 vyhlášky Úradu bezpečnosti práce Slovenskej republiky č. 74/1996 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci, bezpečnosti tlakových, zdvíhacích, elektrických a plynových technických zariadení a o odbornej spôsobilosti.
 
 - 29) § 175e ods. 1 Občianskeho súdneho poriadku.
@@ -212,31 +200,11 @@
 
 - 29b) Nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení zákona č. 142/2000 Z. z.
 
-- 30) § 14 a 14a zákona č. 227/1859 r. z. živnostenský poriadok v znení neskorších predpisov.
-
-- § 15 ods. 1 až 5 zákona č. 259/1924 Zb. živnostenský zákon pre územie Slovenska a Podkarpatskej Rusi.
-
-- § 3 ods. 2 vládneho nariadenia č. 186/1949 Zb. o dočasnej úprave výcviku učňov.
-
-- § 2 ods. 1 vládneho nariadenia č. 22/1952 Zb. o novej úprave učňovských skúšok.
-
-- § 19 zákona č. 89/1958 Zb. o výchove dorastu na povolanie v učebnom pomere (Učňovský zákon).
-
-- Vyhláška Ministerstva školstva ČSR č. 5/1981 Zb. o záverečných učňovských skúškach v učebných a študijných odboroch.
-
-- Vyhláška Ministerstva školstva SSR č. 16/1981 Zb. o záverečných učňovských skúškach v učebných a študijných odboroch.
-
-- Vyhláška Ministerstva školstva ČSR č. 31/1987 Zb. o ukončovaní štúdia na stredných školách a o ukončovaní prípravy v osobitných odborných učilištiach.
-
-- Vyhláška Ministerstva školstva SSR č. 38/1987 Zb. o ukončovaní štúdia na stredných školách a o ukončovaní prípravy v osobitných odborných učilištiach.
-
-- § 25 vyhlášky Ministerstva školstva, mládeže a športu SR č. 102/1991 Zb. o ukončovaní štúdia na stredných školách a ukončovaní prípravy v odborných učilištiach a učilištiach.
-
 - 31) § 9 ods. 1 a 2 a § 25 ods. 1 a 7 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 31a) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
+- 31a) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
 
-- 31b) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+- 31b) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 31c) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
@@ -252,23 +220,25 @@
 
 - Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. v znení vyhlášky č. 54/2000 Z. z.
 
-- 36a) Zákon č. 178/1998 Z. z. v znení neskorších predpisov.
-
-- 36b) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení zákona č. 389/1999 Z. z.
-
 - 36c) Zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji.
 
-- 36d) § 21 ods. 3 Obchodného zákonníka.
+- 36ca) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 36e) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
+- 36d) § 31 ods. 1 a 3 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 36f) § 71a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 37a) § 62 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
-- 37b) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 37b) § 10 ods. 4 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
+
+- 37c) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 37d) § 20 ods. 1 písm. e) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
+
+- 37e) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 38) Druhá časť a tretia časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
@@ -278,6 +248,12 @@
 
 - 41a) § 5 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
+- 41ab) Napríklad § 10 ods. 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41ac) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 7 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
 - 41b) Zmluva medzi Belgickým kráľovstvom, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Írskom, Talianskou republikou, Luxemburským veľkovojvodstvom, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Fínskou republikou, Švédskym kráľovstvom, Spojeným kráľovstvom Veľkej Británie a Severného Írska (členskými štátmi Európskej únie) a Českou republikou, Estónskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Maďarskou republikou, Maltskou republikou, Poľskou republikou, Slovinskou republikou, Slovenskou republikou o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Európskej únii.
 
 - 41ba) § 2 písm. k) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
@@ -286,9 +262,15 @@
 
 - 41c) § 7 ods. 1 a 2 Obchodného zákonníka.
 
-- 42) § 187 až 205b Zákonníka práce. Zákon SNR č. 24/1991 Zb.
+- 42) Dohoda o účasti Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky v Európskom hospodárskom priestore.
 
-- Zákon ČNR č. 185/1991 Zb.
+- 42a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+
+- 42b) § 2 písm. p) zákona č. 293/2007 Z. z.
+
+- 42c) § 19 a 20 zákona č. 293/2007 Z. z.
+
+- 42d) Napríklad § 42 ods. 5 a 6 a § 47 zákona č. 326/2005 Z. z. o lesoch, § 25 zákona č. 217/2004 Z. z. o lesnom reprodukčnom materiáli a o zmene niektorých zákonov v znení zákona č. 545/2004 Z. z.
 
 - 43) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb.
 

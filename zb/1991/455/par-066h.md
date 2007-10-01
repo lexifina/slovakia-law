@@ -1,17 +1,11 @@
-# § 66h Odborná spôsobilosť pre živnosti zaradené v zozname II
+# § 66h Uznávanie odbornej praxe
 
-(1) Odbornú spôsobilosť pre živnosti zaradené v zozname II osoby spoločenstva náhradným spôsobom preukazujú
+(1) Konanie o uznaní odbornej praxe sa začína dňom doručenia žiadosti o uznanie odbornej praxe na vykonávanie živnosti zaradenej v prílohách č. 1 až 3 do zoznamov I až III Ministerstvu vnútra Slovenskej republiky. Žiadosť musí byť doložená dokladom o štátnej príslušnosti žiadateľa a osvedčením o charaktere a dĺžke činnosti vydaným príslušným úradom alebo orgánom členského štátu, a ak to tento zákon ustanovuje, aj dokladmi o vzdelaní.<sup>42a</sup>) Doklady musia byť predložené spolu s úradne overeným prekladom do štátneho jazyka.
 
-- a) dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+(2) Odborná prax nadobudnutá na území Slovenskej republiky sa preukazuje dokladmi o skutočnom a zákonnom vykonávaní príslušnej odbornej činnosti.
 
-- b) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+(3) Ministerstvo vnútra Slovenskej republiky potvrdí prijatie žiadosti do jedného mesiaca od jej prijatia a v potvrdení informuje žiadateľa o všetkých chýbajúcich dokladoch a vyzve ho na ich doplnenie v určenej lehote.
 
-- c) dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+(4) Ak Ministerstvo vnútra Slovenskej republiky z predložených dokladov zistí, že sú splnené podmienky uvedené v § 66i, 66j alebo 66k, rozhodne o uznaní odbornej praxe, inak žiadosť zamietne.
 
-- d) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti, alebo
-
-- e) dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní najmenej trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
-
-- f) dokladom o šesťročnej nesamostatnej odbornej praxi v predmetnej činnosti a dokladom o absolvovaní najmenej dvojročného predchádzajúceho vzdelávania na príslušnú činnosť.
-
-(2) V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+(5) Ministerstvo vnútra Slovenskej republiky o žiadosti rozhodne do štyroch mesiacov odo dňa doručenia úplnej žiadosti.

@@ -1,13 +1,17 @@
-# § 66i Odborná spôsobilosť pre živnosti zaradené v zozname III
+# § 66i Odborná spôsobilosť pre živnosti zaradené do zoznamu I
 
-(1) Odbornú spôsobilosť pre živnosti zaradené v zozname III osoby spoločenstva náhradným spôsobom preukazujú
+(1) Odbornú spôsobilosť pre živnosti zaradené do zoznamu I spĺňa osoba spoločenstva, ktorá vykonávala príslušnú činnosť nepretržite po dobu
 
-- a) dokladom o nepretržitej šesťročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku alebo
+- a) šiestich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra<sup>42b</sup>) alebo
 
-- b) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň trojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+- b) troch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie, alebo
 
-- c) dokladom o nepretržitej štvorročnej odbornej praxi v postavení podnikateľa alebo vedúceho podniku a dokladom o absolvovaní aspoň dvojročného predchádzajúceho vzdelávania na príslušnú činnosť, alebo
+- c) štyroch rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej dvojročné vzdelanie, alebo
 
-- d) dokladom o nepretržitej trojročnej odbornej praxi v postavení podnikateľa a dokladom aspoň o päťročnej nesamostatnej odbornej praxi v predmetnej činnosti.
+- d) troch rokov ako samostatne zárobkovo činná osoba, ak súčasne preukáže, že vykonávala príslušnú činnosť v postavení zamestnanca najmenej päť rokov, alebo
+
+- e) piatich rokov vo vedúcom postavení, z toho najmenej tri roky vykonávala povinnosti technického charakteru a mala zodpovednosť za najmenej jedno oddelenie podniku, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie.
 
 (2) V prípadoch podľa odseku 1 písm. a) a d) nesmie byť vykonávanie príslušnej činnosti skončené viac ako desať rokov pred podaním žiadosti o živnostenské oprávnenie.
+
+(3) Ustanovenie odseku 1 písm. e) sa na živnosť Pánske, dámske a detské kaderníctvo neuplatňuje.
