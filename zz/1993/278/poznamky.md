@@ -30,11 +30,11 @@
 
 - 10a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
-- 11) Napr. § 135, 456, 462 a 628 Občianskeho zákonníka, § 185gObčianskeho súdneho poriadku, § 52 ods. 3 a § 55 ods. 3 zákona č. 140/1964 Zb. (Trestný zákon v znení neskorších predpisov.
+- 11) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon), zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) Napr. zákon č. 618/1992 Zb. (Colný zákon) v znení neskorších predpisov, zákon č. 238/1991 Zb. o odpadoch.
+- 12) Napríklad § 135, 456 a 462 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 185g Občianskeho súdneho poriadku v znení zákona č. 263/1992 Zb., § 59 a 60 Trestného zákona.
 
-- 12a) Príloha č. 1 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+- 12a) Príloha č. 2 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení vyhlášky č. 647/2004 Z. z.
 
 - 12b) § 116, 117 Občianskeho zákonníka.
 
@@ -45,6 +45,16 @@
 - 13aa) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 13ab) Zákon č. 231/1999 Z. z. o štátnej pomoci.
+
+- 13aba) § 13 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 13abb) § 132 až 142 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+
+- 13abc) § 584 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 13abd) § 462 Občianskeho zákonníka.
+
+- 13abe) § 585 až 587 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 13ac) § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -74,15 +84,11 @@
 
 - 17) § 588 a nasl., § 628 a nasl. a § 611 Občianskeho zákonníka.
 
-- 17a) § 2 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
+- 17a) § 2 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
 - 17b) § 39 Občianskeho zákonníka.
 
 - 17c) § 602 a § 603 ods. 2 a 3 Občianskeho zákonníka.
-
-- 17d) § 18 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
-
-- 17e) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty.
 
 - 18) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
@@ -126,6 +132,12 @@
 
 - 23baa) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
+- 23bab) Napríklad zákon č. 223/2001 Z. z. v znení neskorších predpisov.
+
+- 23bac) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z.
+
+- 23bad) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení zákona č. 387/2001 Z. z.
+
 - 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 
 - 23c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
@@ -143,3 +155,5 @@
 - § 3 až 5 zákona č. 446/2001 Z. z.
 
 - 27) Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 28) Zákon č. 254/2007 Z. z. o zrušení krajských úradov a o zmene a doplnení zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 263/2006 Z. z.

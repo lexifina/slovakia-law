@@ -1,6 +1,6 @@
 # § 8a Osobitné ponukové konanie
 
-(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v periodickej tlači s celoštátnou pôsobnosťou. Ponuka musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
+(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v periodickej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného nehnuteľného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
 
 (2) Správca
 
