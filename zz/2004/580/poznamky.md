@@ -38,6 +38,8 @@
 
 - 13a) § 16 ods. 5 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
+- 13aa) § 66ba ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+
 - 13b) § 16 ods. 1 písm. f) zákona č. 581/2004 Z. z.
 
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
@@ -193,6 +195,8 @@
 - 52a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 53) § 7 zákona č. 581/2004 Z. z.
+
+- 53a) § 49 ods. 1 a § 56 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 54) § 9 ods. 6 až 8 zákona č. 581/2004 Z. z.
 
