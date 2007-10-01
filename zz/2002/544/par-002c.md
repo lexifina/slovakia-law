@@ -16,4 +16,6 @@ Asociácia najmä
 
 - g) spolupracuje so štátnymi orgánmi pri tvorbe právnych predpisov týkajúcich sa horskej vodcovskej činnosti,
 
-- h) spolupracuje s obdobnými právnickými osobami v zahraničí.
+- h) spolupracuje s obdobnými právnickými osobami v zahraničí,
+
+- i) je oprávnená prostredníctvom svojich členov požadovať preukázanie totožnosti osôb pri porušení povinností vyplývajúcich z § 11 ods. 2 písm. a); pritom sa preukazujú preukazom člena asociácie.

@@ -2,7 +2,7 @@
 
 Národnej asociácie horských vodcov
 
-(1) Zriaďuje sa Národná asociácia horských vodcov Slovenskej republiky (ďalej len „asociácia”) so sídlom v Starom Smokovci.
+(1) Zriaďuje sa Národná asociácia horských vodcov Slovenskej republiky (ďalej len „asociácia”) so sídlom vo Vysokých Tatrách.
 
 (2) Asociácia je samosprávna neštátna stavovská inštitúcia, ktorej poslaním je presadzovať a chrániť práva a oprávnené záujmy svojich členov a ochraňovať ich stavovskú česť, podieľať sa na zvyšovaní ich odbornej úrovne a plniť ďalšie úlohy podľa tohto zákona.
 
