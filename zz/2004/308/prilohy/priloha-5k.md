@@ -4,4 +4,4 @@ Príloha č. 5 k nariadeniu vlády č. 308/2004 Z. z.
 
   - Týmto nariadením sa preberajú tieto právne akty:
 
-  - 1. Smernica Rady 73/23/EHS z 19. februára 1973 o aproximácii zákonov členských štátov týkajúcich sa elektrického zariadenia určeného na používanie v určitom rozsahu napätia v znení smernice 93/68/EHS.
+  - 1. Smernica Európskeho parlamentu a Rady 2006/95/ES z 12. decembra 2006 o harmonizácii právnych predpisov členských štátov týkajúcich sa elektrického zariadenia určeného na používanie v rámci určitých limitov napätia (kodifikované znenie) (Ú. v. EÚ L 374, 27. 12. 2006).
