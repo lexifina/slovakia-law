@@ -124,11 +124,19 @@
 
 - 9a) § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
+- 9b) § 5 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 9c) § 78a zákona č. 222/2004 Z. z. v znení zákona č. 215/2007 Z. z.
+
 - 10) § 6 ods. 2 zákona č. 595/2003 Z. z.
 
 - 10a) Napríklad zákon č. 595/2003 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 106/2004 Z. z. v znení neskorších predpisov.
 
 - 10b) § 5 a 6 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 10ba) § 66ba ods. 3 písm. b) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+
+- 10bb) § 49 ods. 1 a § 56 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 10c) § 90 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
