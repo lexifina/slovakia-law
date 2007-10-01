@@ -4,4 +4,4 @@
 
 (2) Správu podľa odseku 1 vydá ministerstvo do 15. decembra nasledujúceho roka. Príslušné ústredné orgány mu poskytnú podklady do 31. augusta nasledujúceho roka.
 
-(3) Správa podľa odseku 1 bude prístupná na Ministerstve životného prostredia Slovenskej republiky, na Slovenskej inšpekcii životného prostredia, ako aj na krajských úradoch a na okresných úradoch.
+(3) Správa podľa odseku 1 bude prístupná na Ministerstve životného prostredia Slovenskej republiky, na Slovenskej inšpekcii životného prostredia, ako aj na krajských úradoch životného prostredia a na obvodných úradoch životného prostredia.
