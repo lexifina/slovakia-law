@@ -14,6 +14,4 @@
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 9) Zákon Slovenskej národnej rady č. 135/1974 Zb. o štátnej správe vo vodnom hospodárstve v znení neskorších predpisov.
-
-- 10) Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 9) Zákon č. 666/2004 Z. z. o ochrane pred povodňami v znení zákona č. 332/2007 Z. z.
