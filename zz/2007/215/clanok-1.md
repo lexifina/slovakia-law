@@ -118,13 +118,51 @@ Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a 
 
 - „§ 14b
 
-- Obec alebo iná právnická osoba alebo fyzická osoba, ktorá vykonáva správu trhového miesta,<sup>9a</sup>) je povinná bezodkladne písomne informovať správcu dane, ktorým je daňový úrad príslušný podľa trhového miesta, o predávajúcom, ktorý nepoužíva elektronickú registračnú pokladnicu.<sup>4aa</sup>) V informácii sa uvedie meno, priezvisko, adresa trvalého pobytu fyzickej osoby alebo obchodné meno, sídlo právnickej osoby, identifikačné číslo organizácie a daňové identifikačné číslo alebo rodné číslo, ak fyzická osoba nemá povinnosť registrácie podľa tohto zákona alebo osobitného zákona.“.
+- Obec alebo iná právnická osoba alebo fyzická osoba, ktorá vykonáva správu trhového miesta,<sup>9a</sup>) je povinná bezodkladne písomne informovať správcu dane, ktorým je daňový úrad príslušný podľa trhového miesta, o predávajúcom, ktorý nepoužíva elektronickú registračnú pokladnicu.<sup>4aa</sup>) V informácii sa uvedie meno, priezvisko, adresa trvalého pobytu fyzickej osoby alebo obchodné meno, sídlo právnickej osoby, identifikačné číslo organizácie a daňové identifikačné číslo alebo rodné číslo, ak fyzická osoba nemá povinnosť registrácie podľa tohto zákona alebo osobitného zákona.
+
+- § 14c
+
+- (1)
+
+- Správca dane, ktorým je daňový úrad (§ 3 ods. 13), zabezpečí tovar zahraničnej osobe,<sup>9b</sup>) ktorá predáva tovar na trhovom mieste,<sup>9a</sup>) ak nepreukáže správcovi dane, ktorým je daňový úrad,
+
+- a)
+
+- osvedčenie o registrácii pre daň podľa osobitného zákona,<sup>9b</sup>)
+
+- b)
+
+- zaplatenie preddavku na daň ako platiteľ dane podľa osobitného zákona.<sup>9c</sup>)
+
+- (2)
+
+- Správca dane, ktorým je daňový úrad, bezodkladne na trhovom mieste spíše so zahraničnou osobou podľa odseku 1 zápisnicu o zabezpečení tovaru, v ktorej uvedie dôvody zabezpečenia tovaru a lehotu v závislosti od druhu tovaru na dodatočné splnenie povinností podľa odseku 1 písm. a) a b). V tejto zápisnici je správca dane povinný poučiť zahraničnú osobu podľa odseku 1 o následkoch nesplnenia týchto povinností; na túto zápisnicu sa primerane vzťahuje § 11.
+
+- (3)
+
+- Ak zahraničná osoba podľa odseku 1 v lehote určenej správcom dane v zápisnici o zabezpečení tovaru odstráni dôvody, ktoré viedli k zabezpečeniu tovaru, správca dane, ktorým je daňový úrad, vydá rozhodnutie o zrušení zabezpečenia tovaru. Rozhodnutie o zrušení zabezpečenia tovaru je právoplatné dňom jeho vydania a nemožno sa proti nemu odvolať. Ak zahraničná osoba podľa odseku 1 v lehote určenej správcom dane v zápisnici o zabezpečení tovaru neodstráni dôvody, ktoré viedli k zabezpečeniu tovaru, správca dane, ktorým je daňový úrad, vydá rozhodnutie o prepadnutí tohto tovaru v prospech štátu; proti tomuto rozhodnutiu, ktoré je právoplatné dňom jeho vydania, nemožno uplatniť mimoriadny opravný prostriedok.
+
+- (4)
+
+- Správca dane, ktorým je daňový úrad, zahraničnej osobe podľa odseku 1, ktorá odstráni dôvody, ktoré viedli k zabezpečeniu tovaru, vydá zabezpečený tovar, o čom spíše zápisnicu (§ 11). Uloženie pokuty podľa § 35 ods. 7 a vyrubenie sankčného úroku podľa § 35b ods. 1 písm. e) tým nie je dotknuté.
+
+- (5)
+
+- Na náklady súvisiace so zabezpečením tovaru sa primerane použije § 14a ods. 1 a na prepadnutý tovar sa použije primerane § 14a ods. 6 až 11.“.
 
   - Poznámky pod čiarou k odkazom 9a až 9c znejú:
 
   - „9a)
 
-  - § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.“.
+  - § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+  - 9b)
+
+  - § 5 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+  - 9c)
+
+  - § 78a zákona č. 222/2004 Z. z. v znení zákona č. 215/2007 Z. z.“.
 
 - 12. Poznámky pod čiarou k odkazom 6d a 6e sa vypúšťajú.
 
