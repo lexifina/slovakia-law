@@ -1,6 +1,6 @@
 # § 20c
 
-(1) Návrh na registráciu združenia obcí sa podáva krajskému úradu, v ktorého územnom obvode sa nachádza sídlo združenia.
+(1) Návrh na registráciu združenia obcí sa podáva obvodnému úradu v sídle kraja, v ktorého územnom obvode sa nachádza sídlo združenia.
 
 (2) K návrhu na registráciu sa prikladajú tieto doklady:
 
@@ -28,4 +28,4 @@
 
 (3) Názov združenia obcí sa musí líšiť od názvu právnickej osoby, ktorá už vyvíja činnosť na území Slovenskej republiky, a musí obsahovať slová „združenie obcí“.
 
-(4) Ak návrh na registráciu nemá náležitosti podľa odsekov 2 a 3 alebo ak údaje v ňom uvedené sú neúplné alebo nepresné, krajský úrad určí lehotu najviac 10 dní na odstránenie nedostatkov návrhu a konanie preruší. Ak navrhovateľ nedostatky návrhu na registráciu v určenej lehote neodstráni, krajský úrad konanie zastaví.
+(4) Ak návrh na registráciu nemá náležitosti podľa odsekov 2 a 3 alebo ak údaje v ňom uvedené sú neúplné alebo nepresné, obvodný úrad v sídle kraja určí lehotu najviac 10 dní na odstránenie nedostatkov návrhu a konanie preruší. Ak navrhovateľ nedostatky návrhu na registráciu v určenej lehote neodstráni, obvodný úrad v sídle kraja konanie zastaví.
