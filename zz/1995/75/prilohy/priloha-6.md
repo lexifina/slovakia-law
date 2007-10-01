@@ -2,7 +2,7 @@ Príloha č. 6 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
 - PREHĽAD DOKUMENTÁCIE PLÁNU EVAKUÁCIE
 
-  - 1. Krajský úrad a ostatné krajské orgány
+  - 1. Obvodný úrad v sídle kraja a ostatné krajské orgány
 
     - a) Textový a grafický zámer zabezpečenia, riadenia a vykonania evakuácie (celkový prehľad vykonania evakuácie po okresoch a ohrozených priestoroch, priestory umiestnenia evakuovaných, trasy presunov, druhy prepráv).
 

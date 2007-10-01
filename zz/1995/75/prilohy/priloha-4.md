@@ -4,13 +4,13 @@ Príloha č. 4 vyhlášky Ministerstva vnútra Slovenskej republiky č. 75/1995 
 
   - A. Evakuačná komisia kraja
 
-    - a) predseda komisie – zástupca prednostu krajského úradu,
+    - a) predseda komisie – zástupca prednostu obvodného úradu v sídle kraja,
 
-    - b) podpredseda komisie – vedúci odboru krízového riadenia krajského úradu,
+    - b) podpredseda komisie – vedúci odboru krízového riadenia obvodného úradu v sídle kraja,
 
-    - c) tajomník komisie – zamestnanec odboru krízového riadenia krajského úradu,
+    - c) tajomník komisie – zamestnanec odboru krízového riadenia obvodného úradu v sídle kraja,
 
-    - d) členovia komisie – možno ich vymenovať z odborných zamestnancov krajských orgánov, organizácií, z odborov a oddelení krajského úradu, právnických osôb a fyzických osôb
+    - d) členovia komisie – možno ich vymenovať z odborných zamestnancov krajských orgánov, organizácií, z odborov a oddelení obvodného úradu v sídle kraja, právnických osôb a fyzických osôb
 
       - 1. odboru krízového riadenia,
 
