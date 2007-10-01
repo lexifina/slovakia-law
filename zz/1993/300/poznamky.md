@@ -17,3 +17,5 @@
 - 4) § 10 Občianskeho zákonníka.
 
 - 5) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
+
+- 6) Napríklad zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 693/2006 Z. z., § 46 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
