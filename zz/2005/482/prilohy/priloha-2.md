@@ -1,6 +1,6 @@
 Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
-- ŠTATISTICKÉ ZISOVANIA ORGANIZOVANÉ A VYKONÁVANÉ MINISTERSTVAMI A OSTATNÝMI ÚSTREDNÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY A NIMI ZRIADENÝMI ORGANIZÁCIAMI A INÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY ZRIADENÝMI PODĽA OSOBITNÝCH PREDPISOV V ROKOCH 2006 AŽ 2008 [Prehľad zisťovaní](../assets/b3203b4cf13b768ea2d5e602624beadefc9dce8e7c39fb0df931cc58a1604c00.pdf)
+- ŠTATISTICKÉ ZISOVANIA ORGANIZOVANÉ A VYKONÁVANÉ MINISTERSTVAMI A OSTATNÝMI ÚSTREDNÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY A NIMI ZRIADENÝMI ORGANIZÁCIAMI A INÝMI ORGÁNMI ŠTÁTNEJ SPRÁVY ZRIADENÝMI PODĽA OSOBITNÝCH PREDPISOV V ROKOCH 2006 AŽ 2008 [Prehľad zisťovaní](../assets/027c1a990156147da81075e3db97118b8817cc245dbf14e594392e9385a22186.pdf)
 
 - Charakteristiky zisťovaní
 
@@ -174,7 +174,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-      - Použitá metóda: výberové zisťovanie.
+      - Použitá metóda: vyčerpávajúce zisťovanie.
 
       - Charakteristika navrhnutých ukazovateľov: počet vybraných zariadení sociálnych služieb, počet občanov, ktorým sa poskytli vybrané sociálne služby spolu s bežnými výdavkami, počet domov s opatrovateľskou službou a počet bytov v domoch s opatrovateľskou službou, počet poskytnutých sociálnych pôžičiek.
 
@@ -208,7 +208,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-      - Použitá metóda: výberové zisťovanie.
+      - Použitá metóda: vyčerpávajúce zisťovanie.
 
       - Charakteristika navrhnutých ukazovateľov: počet občanov, ktorým sa poskytla opatrovateľská služba, počet zariadení opatrovateľskej služby, štruktúra a počet zamestnancov poskytujúcich opatrovateľskú službu, vynaložené bežné výdavky na opatrovateľskú službu, príjmy z úhrad za opatrovateľskú službu, počet občanov, ktorým sa poskytla prepravná služba, počet automobilov prepravnej služby, vynaložené bežné výdavky na prepravnú službu, príjmy z úhrad za prepravnú službu a počet občanov zaradených do poradovníka čakateľov na poskytovanie starostlivosti vo vybraných zariadeniach sociálnych služieb.
 
@@ -460,7 +460,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o materskej škole podľa stavu k 30. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o materskej škole podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -476,7 +476,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 4. októbra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -910,7 +910,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o vysokých školách podľa stavu k 31. októbru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o vysokých školách podľa stavu k 30. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -926,7 +926,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 6. novembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. októbra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -940,7 +940,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o vekovej štruktúre študentov vysokých škôl podľa stavu k 31. októbru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o vekovej štruktúre študentov vysokých škôl podľa stavu k 30. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -956,7 +956,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 6. novembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. októbra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1030,7 +1030,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o zariadeniach výchovnej prevencie a zariadeniach náhradnej výchovy podľa stavu k 31. októbru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o zariadeniach výchovnej prevencie a zariadeniach náhradnej výchovy podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1046,7 +1046,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 6. novembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1060,7 +1060,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie slúžiace v pedagogickom procese na vytváranie podmienok na využívanie voľného času a na záujmovú činnosť detí a mládeže pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie slúžiace v pedagogickom procese na vytváranie podmienok na využívanie voľného času a na záujmovú činnosť detí a mládeže podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1076,7 +1076,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 6. novembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1106,7 +1106,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 7. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1136,7 +1136,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 8. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1150,7 +1150,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o jazykových školách podľa stavu k 30. novembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o jazykových školách podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1166,7 +1166,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 4. decembra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1226,7 +1226,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 6. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1330,7 +1330,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o základnej umeleckej škole podľa stavu k 15. októbru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o základnej umeleckej škole podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1346,7 +1346,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 17. októbra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1360,7 +1360,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o hudobnom odbore základnej umeleckej školy pre riadiacu činnosť a rozhodovaciu činnosť.
+      - Účelom štatistického zisťovania je získať informácie o hudobnom odbore základnej umeleckej školy podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1376,7 +1376,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 17. októbra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1390,7 +1390,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o strednom odbornom učilišti a o učilišti podľa stavu k 30. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
+      - Účelom štatistického zisťovania je získať informácie o strednom odbornom učilišti a o učilišti podľa stavu k 15. septembru sledovaného roka pre riadiacu činnosť a rozhodovaciu činnosť a na medzinárodné porovnanie.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1406,7 +1406,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 4. októbra sledovaného roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. septembra sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1534,7 +1534,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
-  - 51. Názov zisťovania: Výkaz o športovom stredisku pri škole
+  - 51. Názov zisťovania: Výkaz o športe pri škole a školskom zariadení
 
     - Značka štatistického formulára: Škol (MŠ SR) 30-01
 
@@ -1564,7 +1564,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
-  - 52. Názov zisťovania: Príloha k výkazu o športovom stredisku pri škole
+  - 52. Názov zisťovania: Príloha k výkazu o športe pri škole a školskom zariadení
 
     - Značka štatistického formulára: Škol (MŠ SR) 30a-01
 
@@ -1654,7 +1654,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
-  - 55. Názov zisťovania: Výkaz o počte žiakov (detí základnej umeleckej školy a školských zariadení v zriaďovateľskej pôsobnosti obce)
+  - 55. Názov zisťovania: Výkaz o počte žiakov (detí) základných umeleckých škôl, škôl a školských zariadení v územnej pôsobnosti obce
 
     - Značka štatistického formulára: Škol (MŠ SR) 40-01
 
@@ -1670,7 +1670,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Obce, ktoré sú zriaďovateľmi základných umeleckých škôl a školských zariadení.
+      - Obce, v ktorých územnej pôsobnosti sa nachádzajú obecné, súkromné a cirkevné základné umelecké školy, školy a školské zariadenia.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1731,6 +1731,36 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
     - c) Vymedzenie spravodajských jednotiek
 
       - Informačné centrá mládeže.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: ročne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo školstva Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
+
+  - 57a. Názov zisťovania: Výkaz o centrách talentovanej mládeže a zväzových centrách prípravy mládeže (CTM a ZCPM)
+
+    - Značka štatistického formulára: Mlad (MŠ SR) 3-01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie o zabezpečovaní športovej prípravy mládeže s predpokladmi výkonnostného rastu na vrcholovú úroveň vo vekovej kategórii žiactva a dorastu (kadeti, juniori) pre riadiacu činnosť a rozhodovaciu činnosť.
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: počty zamestnancov, odborná úroveň a vzdelanie zamestnancov, počty športovcov podľa vekových kategórií, dôvody príchodu a odchodu športovcov, ekonomické ukazovatele.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Centrá talentovanej mládeže a zväzové centrá prípravy mládeže.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -2416,7 +2446,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
-  - 80. Názov zisťovania: Ročný výkaz o činnosti oddelení Fakultnej nemocnice pre cudzokrajné choroby
+  - 80. Názov zisťovania: Ročný výkaz o činnosti oddelení Fakultnej nemocnice – infektológia a tropická medicína
 
     - Značka štatistického formulára: A (MZ SR) 16-01
 
@@ -3216,38 +3246,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
 
-  - 105. Názov zisťovania: Ročný výkaz o činnosti motorového parku
-
-    - Značka štatistického formulára: O DZ (MZ SR) 10-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o motorovom parku a prevoze pacientov. Získané údaje sa využijú na riadenie a rozhodovanie v zdravotníctve.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: počet vozidiel podľa druhu, spotreby pohonných látok, počet prevozov a personálne zabezpečenie v dopravnej službe.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
-
   - 106. Názov zisťovania: Ročný výkaz o vybraných ekonomických ukazovateľoch neštátnych poskytovateľov zdravotnej starostlivosti
 
     - Značka štatistického formulára: ON (MZ SR) 2-01
@@ -3344,7 +3342,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Fakultnej nemocnice s poliklinikou Bratislava, pracovisko Podunajské Biskupice.
 
-  - 111. Názov zisťovania: Ročný výkaz o sieti poskytovateľov zdravotnej starostlivosti (prevádzkovatelia ústavných zdravotníckych zariadení)
+  - 111. Názov zisťovania: Ročný výkaz o sieti poskytovateľov zdravotnej starostlivosti
 
     - Značka štatistického formulára: S (MZ SR) 1-01
 
@@ -3357,70 +3355,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
       - Charakteristika navrhnutých ukazovateľov: siete poskytovateľov zdravotnej starostlivosti, ich druhy, personálne zabezpečenie, vyšetrenia v organizačných útvaroch poskytovateľa zdravotnej starostlivosti a v návštevnej službe.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
-
-  - 112. Názov zisťovania: Ročný výkaz o sieti poskytovateľov zdravotnej starostlivosti (poskytovatelia ambulantnej a lekárenskej zdravotnej starostlivosti)
-
-    - Značka štatistického formulára: S (MZ SR) 2-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie poskytujúce prehľad o sieti poskytovateľov zdravotnej starostlivosti. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: siete poskytovateľov zdravotnej starostlivosti (ambulancií), ich druhy, personálne zabezpečenie, vyšetrenia v organizačných útvaroch poskytovateľa zdravotnej starostlivosti a v návštevnej službe.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Poskytovatelia zdravotnej starostlivosti bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
-
-    - – zdravotníctvo (OKEČ 85.1).
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo zdravotníctva Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo zdravotníctva Slovenskej republiky prostredníctvom Národného centra zdravotníckych informácií v Bratislave.
-
-  - 113. Názov zisťovania: Ročný výkaz o sieti zdravotníckych zariadení (posteľová časť)
-
-    - Značka štatistického formulára: S (MZ SR) 3-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o rozvoji siete zariadení ústavnej zdravotnej starostlivosti. Údaje sa využijú na riadenie a rozhodovanie v zdravotníctve a na publikačnú činnosť.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: siete zariadení ústavnej zdravotnej starostlivosti, ich vybavenie posteľami a zmeny v ich počte v sledovanom období podľa odborov poskytovaných služieb.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3572,7 +3506,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo kultúry Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky.
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky prostredníctvom Národného osvetového centra.
 
   - 118. Názov zisťovania: Ročný výkaz o kultúrno-osvetovej činnosti
 
@@ -4076,36 +4010,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky prostredníctvom Divadelného ústavu.
 
-  - 132a. Názov zisťovania: Ročný výkaz o obytných zoskupeniach – rómskych osídleniach
-
-    - Značka štatistického formulára: RI (ÚV SR) 1-01
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o stave obytných zoskupení, počte a type obydlí, infraštruktúre, počte obyvateľov a ich štruktúre v obytných zoskupeniach – rómskych osídleniach a o realizovaných projektoch a programoch pre rómske komunity. Výsledky štatistického zisťovania sa využijú na usmerňovanie sociálnej politiky a realizáciu programov vlády Slovenskej republiky, regionálnych a miestnych samospráv a mimovládnych organizácií vo vzťahu k rómskym komunitám.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: poloha zoskupenia vo vzťahu k územnému plánu a k obci, počet a typ obydlí v zoskupení, zdroj pitnej vody, kanalizácia, plyn, elektrina, verejné osvetlenie, odvoz odpadu, prístupová cesta, počet obyvateľov v zoskupení a ich štruktúra, počet žiakov podľa typov škôl, počet asistentov učiteľa, projekty a programy pre rómske komunity podľa druhu aktivity a zdrojov financovania.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Obce.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Úrad vlády Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Úrad vlády Slovenskej republiky.
-
   - 133. Názov zisťovania: Ročný výkaz o činnosti orgánov územnej samosprávy v správnom konaní
 
     - Značka štatistického formulára: ŠS (MV SR) 5-01
@@ -4360,6 +4264,42 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo hospodárstva Slovenskej republiky.
 
+  - 139a. Názov zisťovania: Ročný výkaz o spotrebe dreva na priemyselné spracovanie
+
+    - Značka štatistického formulára: Priem (MH SR) 3-01
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať základné informácie o spotrebe surového dreva na priemyselné spracovanie. Informácie sa využijú pri analytickej a koncepčnej činnosti za odvetvia drevospracujúceho priemyslu a pre potreby medzinárodných organizácií (Eurostat, FAO a ďalšie).
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: výberové zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: vlastná spotreba surového dreva na priemyselné spracovanie podľa kvalitatívnych tried v členení na ihličnaté a listnaté sortimenty.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Podniky zapísané v obchodnom a živnostenskom registri s ročnou spotrebou surového dreva 100 m<sup>3</sup> a viac s činnosťou podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - – pílenie dreva (OKEČ 20.10),
+
+    - – výroba dyhy, drevotrieskovej, drevovláknitej dosky a iných aglomerovaných materiálov (OKEČ 20.20),
+
+    - – výroba celulózy (OKEČ 21.11).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: ročne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo hospodárstva Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo hospodárstva Slovenskej republiky.
+
   - 140. Názov zisťovania: Mesačný výkaz pre rafinérie, ťažobné organizácie, skladovateľov, dovozcov a vývozcov palív
 
     - Značka štatistického formulára: Ropa (SŠHR SR) 1-12
@@ -4393,6 +4333,40 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
       - Periodicita zisťovania: mesačne.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Správa štátnych hmotných rezerv Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Správa štátnych hmotných rezerv Slovenskej republiky.
+
+  - 140a. Názov zisťovania: Týždenný výkaz predajcov pohonných látok
+
+    - Značka štatistického formulára: PPH (SŠHR SR) 1-52
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie na zostavenie medzinárodného dotazníka za Slovenskú republiku o maloobchodných predajných cenách vybraných ropných výrobkov na území Slovenskej republiky pre Európsku úniu.
+
+      - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>11a</sup>)
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: bilancia maloobchodného predaja ropných palív na území Slovenskej republiky z pohľadu vybraných ropných výrobkov núdzových zásob.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - – maloobchodný predaj pohonných látok (OKEČ 50.50).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: týždenne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: prvý pracovný deň po sledovanom období.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4506,7 +4480,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Slovenská správa ciest.
+      - Slovenská správa ciest, Národná diaľničná spoločnosť, samosprávne kraje.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -4802,7 +4776,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - – nehnuteľnosti, prenájom a obchodné činnosti (OKEČ 70 až 74),
 
-    - – vybrané trhové služby a cestovný ruch (OKEČ 70 až 74, 80, 90, 92, 93, 63.3).
+    - – vybrané trhové služby a cestovný ruch (OKEČ 70 až 74, 80, 90, 91, 92, 93, 63.3).
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -5094,13 +5068,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky.
 
-  - 163. Názov zisťovania: Mesačný výkaz o zdrojoch a použití mäsa
+  - 163. Názov zisťovania: Mesačný výkaz o zabití jatočných zvierat a hodnote ich nákupu podľa akostných tried
 
     - Značka štatistického formulára: BM (MP SR) 1-12
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie potrebné na spracovanie bilancie mäsa a pre potreby trhovej regulácie v poľnohospodárstve a potravinárstve, vypracovanie prognóz ponuky ošípaných spolu, teliat, jalovíc, kráv, býkov, volov, oviec a kôz a na zabezpečenie požiadaviek Európskeho štatistického systému.
+      - Účelom štatistického zisťovania je získať informácie potrebné na vypracovanie prognóz ponuky ošípaných spolu, teliat, jalovíc, kráv, býkov, volov, oviec a kôz, na sledovanie porážok a hodnoty nákupu jatočných zvierat podľa akostných tried a na zabezpečenie požiadaviek Európskeho štatistického systému.
 
       - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>16</sup>)
 
@@ -5108,9 +5082,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: zabitie vrátane osobitne naliehavého zabitia zvierat v tonách mŕtvej váhy a kusoch, výroba mäsa, nákup a predaj mäsa, ostatné zdroje a ostatné použitie.
+      - Charakteristika navrhnutých ukazovateľov: zabitie vrátane osobitne naliehavého zabitia zvierat v tonách jatočnej a živej hmotnosti a v kusoch, zabitia a hodnota nákupu podľa akostných tried a podľa jednotlivých druhov jatočných zvierat.
 
-      - Mŕtva váha sa sleduje za nasledujúce kategórie zvierat:
+      - Mŕtva váha sa sleduje za tieto kategórie zvierat:
 
     - – ošípané spolu,
 
@@ -5184,13 +5158,13 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
   - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
-  - 164. Názov zisťovania: Mesačný výkaz o rozdelení výrobkov z mäsa
+  - 164. Názov zisťovania: Mesačný výkaz o bilancii mäsa na kosti a výrobkov z mäsa
 
     - Značka štatistického formulára: RM (MP SR) 2-12
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie potrebné na vypracovanie bilancie mäsových výrobkov a pre potreby trhovej regulácie v poľnohospodárstve a potravinárstve a na zabezpečenie požiadaviek Európskeho štatistického systému.
+      - Účelom štatistického zisťovania je získať informácie potrebné na vypracovanie bilancie mäsa na kosti a bilancie mäsových výrobkov a pre potreby trhovej regulácie v poľnohospodárstve a potravinárstve a na zabezpečenie požiadaviek Európskeho štatistického systému.
 
       - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>17</sup>)
 
@@ -5198,7 +5172,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: zdroje a rozdelenie výrobkov z mäsa.
+      - Charakteristika navrhnutých ukazovateľov: výroba mäsa, nákup a predaj mäsa, ostatné zdroje a ostatné použitie, zdroje a rozdelenie výrobkov z mäsa.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -5222,21 +5196,21 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
-  - 165. Názov zisťovania: Mesačný výkaz o vývoji priemerných nákupných cien jatočných zvierat a odbytových cien výsekového mäsa a výrobkov
+  - 165. Názov zisťovania: Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
 
     - Značka štatistického formulára: CM (MP SR) 3-12
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie vývoja priemerných nákupných cien jatočných zvierat, počtu kusov jatočných zvierat a cien mäsa a mäsových výrobkov pre potreby Ministerstva pôdohospodárstva Slovenskej republiky a na zabezpečenie požiadaviek Európskeho štatistického systému.
+      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie vývoja odbytových cien vybraných druhov výsekového mäsa a mäsových výrobkov pre potreby Ministerstva pôdohospodárstva Slovenskej republiky a na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-      - Podrobný postup získavania týchto štatistických údajov ustanovujú osobitné predpisy.<sup>18</sup>)
+      - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>18</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: nákupné ceny jatočných zvierat podľa jednotlivých druhov a odbytové ceny vybraných druhov výsekového mäsa a výrobkov.
+      - Charakteristika navrhnutých ukazovateľov: odbytové ceny vybraných druhov výsekového mäsa a výrobkov.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -5456,9 +5430,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
-  - 171. Názov zisťovania: Mesačný výkaz o bilancii tovarov uskladnených vo verejnom sklade
+  - 171. Názov zisťovania: Štvrťročný výkaz o bilancii tovarov uskladnených vo verejnom sklade
 
-    - Značka štatistického formulára: Sklad (MP SR) 1-12
+    - Značka štatistického formulára: Sklad (MP SR) 1-04
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -5478,7 +5452,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-      - Periodicita zisťovania: mesačne.
+      - Periodicita zisťovania: štvrťročne.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po sledovanom období.
 
@@ -5488,9 +5462,9 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
 
-  - 172. Názov zisťovania: Štvrťročný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
+  - 172. Názov zisťovania: Mesačný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
 
-    - Značka štatistického formulára: VOH (MP SR) 7-04
+    - Značka štatistického formulára: VOH (MP SR) 7-12
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -5512,7 +5486,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-      - Periodicita zisťovania: štvrťročne.
+      - Periodicita zisťovania: mesačne.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po sledovanom období.
 
@@ -5720,8 +5694,6 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Právnické osoby a fyzické osoby bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
 
-    - – spracúvanie a konzervovanie rýb a výroba rybích výrobkov (OKEČ 15.2),
-
     - – výroba rastlinných a živočíšnych olejov a tukov (OKEČ 15.4),
 
     - – výroba stužených jedlých tukov (OKEČ 15.43),
@@ -5808,6 +5780,38 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra, Zvolen.
 
+  - 180a. Názov zisťovania: Štvrťročný výkaz o spracovaní produktov rybolovu a akvakultúry
+
+    - Značka štatistického formulára: Ryby (MP SR) 1-04
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie o vnútornom trhu pre potreby vývoja obchodu s rybími výrobkami. Informácie vo forme bilancií slúžia na tvorbu analýz, koncepcií a pri príprave a realizácii potravinárskej politiky, pri tvorbe pravidiel podpornej politiky štátu v oblasti potravinárskej výroby.
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: vlastná produkcia, nákup v Slovenskej republike, prijatie z členských štátov Európskej únie, dovoz z nečlenských krajín, predaj v Slovenskej republike, odoslanie do členských štátov Európskej únie, vývoz do nečlenských krajín, straty, výdaje celkom, stav zásob ku koncu sledovaného obdobia, celkové tržby a počty zamestnancov.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Právnické osoby a fyzické osoby bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - – spracúvanie a konzervovanie rýb a výroba rybích výrobkov (OKEČ 15.2).
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita zisťovania: štvrťročne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 18. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY, s. r. o., Bratislava.
+
   - 181. Názov zisťovania: Polročný výkaz o hospodárení v podnikoch potravinárskeho priemyslu
 
     - Značka štatistického formulára: Potrav (MP SR) 1-02
@@ -5836,7 +5840,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Periodicita zisťovania: polročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 25. júla a do 29. marca po skončení sledovaného obdobia.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 18. júla a do 29. marca po skončení sledovaného obdobia.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -6190,7 +6194,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Účelom štatistického zisťovania je získať informácie o odhade celkovej úrody jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, Pôdohospodárskej platobnej agentúry a na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-      - Podrobný postup zisťovania týchto štatistických informácií sa vykonáva podľa prebraného právneho aktu Európskeho spoločenstva a Európskej únie uvedeného v bode 11 prílohy č. 4.
+      - Podrobný postup zisťovania týchto štatistických informácií sa vykonáva podľa prebraného právneho aktu Európskeho spoločenstva a Európskej únie uvedeného v bode 10 prílohy č. 4.
 
       - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>30</sup>)
 
@@ -6226,7 +6230,7 @@ Príloha č. 2 k vyhláške č. 482/2005 Z. z.
 
       - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov jabĺk a hrušiek pre potreby Ministerstva pôdohospodárstva Slovenskej republiky, Pôdohospodárskej platobnej agentúry a na zabezpečenie požiadaviek Európskeho štatistického systému.
 
-      - Podrobný postup zisťovania týchto štatistických informácií sa vykonáva podľa prebraného právneho aktu Európskeho spoločenstva a Európskej únie uvedeného v bode 11 prílohy č. 4.
+      - Podrobný postup zisťovania týchto štatistických informácií sa vykonáva podľa prebraného právneho aktu Európskeho spoločenstva a Európskej únie uvedeného v bode 10 prílohy č. 4.
 
       - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>30</sup>)
 

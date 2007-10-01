@@ -1,6 +1,6 @@
 Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
-- ROZSAH A VYUŽÍVANIE ADMINISTRATÍVNYCH ZDROJOV ÚDAJOV NA ÚČELY ŠTÁTNEJ ŠTATISTIKY [Prehľad využívaných administratívnych zdrojov údajov](../assets/c7785654190f3a4f195d275f4f97e894a0c742c890de84d083818a056dd15fc1.pdf)
+- ROZSAH A VYUŽÍVANIE ADMINISTRATÍVNYCH ZDROJOV ÚDAJOV NA ÚČELY ŠTÁTNEJ ŠTATISTIKY [Prehľad využívaných administratívnych zdrojov údajov](../assets/0a8a262bc725563b8846147f095974091752a4a78352989a9c18de5b9a77067a.pdf)
 
 - Charakteristiky administratívnych zdrojov údajov
 
@@ -26,7 +26,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
         - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy, druhu vlastníctva a triedenia podľa počtu zamestnancov spravodajskej jednotky 0 až 19 a 20 a viac zamestnancov vrátane zoznamu spravodajských jednotiek podľa identifikačného čísla organizácie (ďalej len „IČO“), ktoré sú zahrnuté do spracovania.
 
-      - c) Periodicita: ročne.
+      - c) Periodicita: štvrťročne a ročne.
 
       - d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
@@ -46,7 +46,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
         - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy, druhu vlastníctva a triedenia podľa počtu zamestnancov spravodajskej jednotky 0 až 19 a 20 a viac zamestnancov vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
 
-      - c) Periodicita: ročne.
+      - c) Periodicita: štvrťročne a ročne.
 
       - d) Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
@@ -530,7 +530,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - Fin OST 4-04
 
-      - Výkaz o plnení rozpočtu ostatných subjektov, ktorých rozpočty sú súčasťou verejného rozpočtu
+      - Výkaz o plnení rozpočtu ostatných subjektov verejnej správy
 
       - a) Využitie administratívnych údajov
 
@@ -906,11 +906,13 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Mesačná bilancia aktív a pasív komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk v Slovenskej republike v plnom rozsahu, osobitne mesačná bilancia aktív a pasív Národnej banky Slovenska v plnom rozsahu vrátane zoznamu komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Mesačná bilancia aktív a pasív komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk v Slovenskej republike v plnom rozsahu, osobitne mesačná bilancia aktív a pasív Národnej banky Slovenska v plnom rozsahu vrátane zoznamu komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk podľa IČO, ktoré sú zahrnuté do spracovania. Mesačná bilancia aktív a pasív obchodníkov s cennými papiermi a pobočky zahraničných obchodníkov s cennými papiermi v plnom rozsahu.
 
       - c) Periodicita: stav k 1. januáru, mesačne, štvrťročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: stav k 1. januáru predbežné údaje do 28. februára a definitívne údaje do 16. apríla, mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: Banky a pobočky zahraničných bánk, Národná banka Slovenska: stav k 1. januáru predbežné údaje do 45. kalendárneho dňa po referenčnom období a definitívne údaje do 16. apríla, mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+        - Obchodníci s cennými papiermi a pobočky zahraničných obchodníkov s cennými papiermi: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 2. Označenie administratívneho zdroja:
 
@@ -926,11 +928,13 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Výkaz ziskov a strát komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk v Slovenskej republike v plnom rozsahu, osobitne výkaz ziskov a strát Národnej banky Slovenska v plnom rozsahu vrátane zoznamu komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Výkaz ziskov a strát komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk v Slovenskej republike v plnom rozsahu, osobitne výkaz ziskov a strát Národnej banky Slovenska v plnom rozsahu vrátane zoznamu komerčných bánk Slovenskej republiky a pobočiek zahraničných bánk podľa IČO, ktoré sú zahrnuté do spracovania. Výkaz ziskov a strát obchodníkov s cennými papiermi a pobočky zahraničných obchodníkov s cennými papiermi v plnom rozsahu.
 
       - c) Periodicita: mesačne, štvrťročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: Banky a pobočky zahraničných bánk, Národná banka Slovenska: mesačne a štvrťročne do 30. kalendárneho dňa po referenčnom období, ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+        - Obchodníci s cennými papiermi a pobočky zahraničných obchodníkov s cennými papiermi: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 3. Označenie administratívneho zdroja:
 
@@ -1574,87 +1578,147 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
     - 35. Označenie administratívneho zdroja:
 
-      - Súvaha Úč POI 1-04
+      - Kis (SPS) 13-04
 
-      - Priebežná súvaha poisťovne
+      - Výkaz o aktívach a pasívach správcovskej spoločnosti
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za finančné korporácie.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Sumár za všetky správcovské spoločnosti a pobočky zahraničných správcovských spoločností podľa druhu vlastníctva, právnej formy.
 
-      - c) Periodicita: štvrťročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 36. Označenie administratívneho zdroja:
 
-      - Výkaz ziskov a strát Úč POI 2-04
+      - Kis (SPS) 14-04
 
-      - Priebežný výkaz ziskov a strát poisťovne
+      - Výkaz o výnosoch a nákladoch správcovskej spoločnosti
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za finančné korporácie.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Sumár za všetky správcovské spoločnosti a pobočky zahraničných správcovských spoločností podľa druhu vlastníctva, právnej formy.
 
-      - c) Periodicita: štvrťročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 37. Označenie administratívneho zdroja:
 
-      - Súvaha Úč POI 1-01
+      - Kis (PF) 15-04
 
-      - Súvaha poisťovne overená audítorom
+      - Výkaz o aktívach a pasívach podielového fondu
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za finančné korporácie.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania. Kompletné údaje o jednotlivých aktívach a pasívach poisťovní v Slovenskej republike.
+        - Sumár za všetky podielové fondy peňažného trhu spolu a osobitne za podielové fondy iné ako fondy peňažného trhu.
 
-      - c) Periodicita: ročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 38. Označenie administratívneho zdroja:
 
-      - Výkaz ziskov a strát Úč POI 2-01
+      - Kis (PF) 16-04
 
-      - Výkaz ziskov a strát poisťovne overený audítorom
+      - Výkaz o výnosoch a nákladoch podielového fondu
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za finančné korporácie.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Sumár za všetky podielové fondy peňažného trhu spolu a osobitne za podielové fondy iné ako fondy peňažného trhu.
 
-      - c) Periodicita: ročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 39. Označenie administratívneho zdroja:
 
-      - VP (ÚFT) 1-04
+      - M (NBS) 81-04
+
+      - Štvrťročná štatistická bilancia
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov za finančné korporácie.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky faktoringové spoločnosti a spoločnosti splátkového financovania a lízingové spoločnosti vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: štvrťročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období a ročne predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+
+    - 40. Označenie administratívneho zdroja:
+
+      - Ppn (BIL) 01-04
+
+      - Bilancia aktív a pasív
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky poisťovníctva.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb – údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: štvrťročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
+
+    - 41. Označenie administratívneho zdroja:
+
+      - Ppn (VZS) 02-04
+
+      - Výkaz ziskov a strát
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky poisťovníctva.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb – údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: štvrťročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
+
+    - 42. Označenie administratívneho zdroja:
+
+      - Ppn (PTZ) 03-04
 
       - Výkaz o poistnom trhu životného poistenia
 
@@ -1662,19 +1726,19 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
         - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky poisťovníctva.
 
-        - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>6</sup>)
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce životné poistenie spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce len životné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce životné poistenie spolu a v triedení podľa druhu poskytovaných poisťovacích služieb – údaje za poisťovne poskytujúce len životné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
 
       - c) Periodicita: štvrťročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
-    - 40. Označenie administratívneho zdroja:
+    - 43. Označenie administratívneho zdroja:
 
-      - VP (ÚFT) 2-04
+      - Ppn (PTN) 04-04
 
       - Výkaz o poistnom trhu neživotného poistenia
 
@@ -1682,279 +1746,235 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
         - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky poisťovníctva.
 
-        - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>6</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce neživotné poistenie spolu a v triedení podľa druhu poskytovaných poisťovacích služieb, t. j. údaje za poisťovne poskytujúce len neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: štvrťročne a ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
-
-    - 41. Označenie administratívneho zdroja:
-
-      - VP (ÚFT) 3-04
-
-      - Výkaz o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne Slovenskej republiky spolu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
+        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce neživotné poistenie spolu a v triedení podľa druhu poskytovaných poisťovacích služieb – údaje za poisťovne poskytujúce len neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
 
-      - c) Periodicita: ročne.
+      - c) Periodicita: štvrťročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
-    - 42. Označenie administratívneho zdroja:
+    - 44. Označenie administratívneho zdroja:
 
-      - VP (ÚFT) 8-01
+      - Ppn (DRV) 14-01
 
-      - Výkaz špecifických údajov o poistnom trhu životného poistenia
+      - Výkaz o dosiahnutých ročných výnosoch
 
       - a) Využitie administratívnych údajov
 
         - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky poisťovníctva.
 
-        - Podrobný postup získavania týchto štatistických informácií ustanovujú osobitné predpisy.<sup>6</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce životné poistenie spolu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-    - 43. Označenie administratívneho zdroja:
-
-      - VP (ÚFT) 9-01
-
-      - Výkaz špecifických údajov o poistnom trhu neživotného poistenia
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>6</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Sumár za všetky poisťovne Slovenskej republiky poskytujúce neživotné poistenie spolu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
-
-    - 44. Označenie administratívneho zdroja:
-
-      - VP (ÚFT) 24-04
-
-      - Nekonsolidovaná bilancia finančných aktív a finančných pasív za poisťovne, zaisťovne, pobočky zahraničnej poisťovne a zahraničnej zaisťovne (stavy)
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne, zaisťovne, pobočky zahraničnej poisťovne a zahraničnej zaisťovne Slovenskej republiky spolu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania. Kompletné údaje o stavoch jednotlivých finančných aktív a pasív poisťovní a zaisťovní v Slovenskej republike.
+        - Sumár za všetky poisťovne Slovenskej republiky spolu a v triedení podľa druhu poskytovaných poisťovacích služieb – údaje za poisťovne poskytujúce životné poistenie, údaje za poisťovne poskytujúce neživotné poistenie a údaje za univerzálne poisťovne vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
 
-      - c) Periodicita: štvrťročne a ročne.
+      - c) Periodicita: ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
     - 45. Označenie administratívneho zdroja:
 
-      - VP (ÚFT) 25-04
+      - F (NBS) 24-04
 
-      - Nekonsolidovaná bilancia finančných aktív a finančných pasív za poisťovne, zaisťovne, pobočky zahraničnej poisťovne a zahraničnej zaisťovne (toky)
+      - Nekonsolidovaná bilancia finančných aktív a finančných pasív – stavy
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov poisťovníctva a dôchodkového sporenia.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Sumár za všetky poisťovne, zaisťovne, pobočky zahraničnej poisťovne a zahraničnej zaisťovne Slovenskej republiky spolu vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania. Kompletné údaje o tokoch jednotlivých finančných aktív a pasív poisťovní a zaisťovní v Slovenskej republike.
+        - Sumár za všetky poisťovne Slovenskej republiky, dôchodkové správcovské spoločnosti, doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
 
       - c) Periodicita: štvrťročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období, ročne do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
 
     - 46. Označenie administratívneho zdroja:
 
-      - H (DSS) 1-04
+      - F (NBS) 25-04
 
-      - Štvrťročné hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti
+      - Nekonsolidovaná bilancia finančných aktív a finančných pasív – toky
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov poisťovníctva a dôchodkového sporenia.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Individuálne údaje za jednotlivé dôchodkové správcovské spoločnosti Slovenskej republiky.
+        - Sumár za všetky poisťovne Slovenskej republiky, dôchodkové správcovské spoločnosti, doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: štvrťročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období a ročne do 30. júna po referenčnom období.
+
+    - 47. Označenie administratívneho zdroja:
+
+      - D (SUV) 09-04
+
+      - Bilancia aktív a pasív
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky dôchodkové správcovské spoločnosti, doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: polročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
+
+    - 48. Označenie administratívneho zdroja:
+
+      - D (VZS) 10-04
+
+      - Výkaz nákladov a výnosov
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky dôchodkové správcovské spoločnosti, doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+      - c) Periodicita: polročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
+
+    - 49. Označenie administratívneho zdroja:
+
+      - Dof (HMF) 03-02
+
+      - Správa o hospodárení s majetkom v dôchodkovom fonde
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky dôchodkové fondy, stav majetku v dôchodkovom fonde v členení podľa trhov, bánk, pobočiek zahraničných bánk a emitentov, hospodárenie s majetkom v dôchodkovom fonde (numerická časť).
+
+      - c) Periodicita: polročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
+
+    - 50. Označenie administratívneho zdroja:
+
+      - Dss (HVM) 04-02
+
+      - Správa o hospodárení s vlastným majetkom v dôchodkovej správcovskej spoločnosti
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky dôchodkové správcovské spoločnosti, informácia o vývoji hodnoty dôchodkovej jednotky a vývoji počtu sporiteľov dôchodkového fondu podľa stavov na konci kalendárnych mesiacov (časť „Počet klientov") a prehľad o cudzích zdrojoch dôchodkovej správcovskej spoločnosti (numerická časť).
+
+      - c) Periodicita: polročne a ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
+
+    - 51. Označenie administratívneho zdroja:
+
+      - Dss (PVZ) 01-04
+
+      - Hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Sumár za všetky dôchodkové správcovské spoločnosti.
 
       - c) Periodicita: štvrťročne.
 
       - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
 
-    - 47. Označenie administratívneho zdroja:
-
-      - Prílohy z polročnej správy dôchodkových správcovských spoločností o hospodárení s majetkom v dôchodkovom fonde
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Individuálne údaje za fondy každej dôchodkovej správcovskej spoločnosti Slovenskej republiky v rozsahu osobitného predpisu.<sup>7</sup>)
-
-      - c) Periodicita: polročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
-
-    - 48. Označenie administratívneho zdroja:
-
-      - Prílohy z ročnej správy dôchodkových správcovských spoločností o hospodárení s majetkom v dôchodkovom fonde
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Individuálne údaje za fondy každej dôchodkovej správcovskej spoločnosti Slovenskej republiky v rozsahu osobitného predpisu.<sup>8</sup>)
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
-
-    - 49. Označenie administratívneho zdroja:
-
-      - Prílohy z polročnej správy o hospodárení s vlastným majetkom dôchodkových správcovských spoločností
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Individuálne údaje za jednotlivé dôchodkové správcovské spoločnosti Slovenskej republiky v rozsahu osobitného predpisu.<sup>9</sup>)
-
-      - c) Periodicita: polročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
-
-    - 50. Označenie administratívneho zdroja:
-
-      - Prílohy z ročnej správy o hospodárení s vlastným majetkom dôchodkových správcovských spoločností
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Individuálne údaje za jednotlivé dôchodkové správcovské spoločnosti Slovenskej republiky v rozsahu osobitného predpisu.<sup>10</sup>)
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
-
-    - 51. Označenie administratívneho zdroja:
-
-      - Súvaha doplnkového dôchodkového fondu
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
-
-        - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Individuálne údaje za fondy každej doplnkovej dôchodkovej spoločnosti Slovenskej republiky v rozsahu prílohy č. 1 k opatreniu Ministerstva financií Slovenskej republiky č. MF/5292/2005-74, ktorým sa ustanovujú podrobnosti o usporiadaní a o označení položiek účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre finančné inštitúcie, ktoré nemajú v predmete svojho podnikania poisťovanie, a pre Fond ochrany vkladov a Garančný fond investícií.
-
-      - c) Periodicita: štvrťročne a ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
-
     - 52. Označenie administratívneho zdroja:
 
-      - Výkaz ziskov a strát doplnkového dôchodkového fondu
+      - Dds (PVZ) 02-04
+
+      - Hlásenie o primeranosti vlastných zdrojov doplnkovej dôchodkovej spoločnosti
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Individuálne údaje za fondy každej doplnkovej dôchodkovej spoločnosti Slovenskej republiky v rozsahu prílohy č. 2 k opatreniu Ministerstva financií Slovenskej republiky č. MF/5292/2005-74, ktorým sa ustanovujú podrobnosti o usporiadaní a o označení položiek účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre finančné inštitúcie, ktoré nemajú v predmete svojho podnikania poisťovanie, a pre Fond ochrany vkladov a Garančný fond investícií.
+        - Sumár za všetky doplnkové dôchodkové spoločnosti.
 
-      - c) Periodicita: štvrťročne a ročne.
+      - c) Periodicita: štvrťročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
 
     - 53. Označenie administratívneho zdroja:
 
-      - Súvaha doplnkovej dôchodkovej spoločnosti
+      - Dfo (HMF) 11-02
+
+      - Správa o hospodárení s majetkom v doplnkovom dôchodkovom fonde
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Individuálne údaje za jednotlivé doplnkové dôchodkové spoločnosti Slovenskej republiky v rozsahu prílohy č. 1 k opatreniu Ministerstva financií Slovenskej republiky č. MF/5292/2005-74, ktorým sa ustanovujú podrobnosti o usporiadaní a o označení položiek účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre finančné inštitúcie, ktoré nemajú v predmete svojho podnikania poisťovanie, a pre Fond ochrany vkladov a Garančný fond investícií.
+        - Sumár za všetky doplnkové dôchodkové fondy, stav majetku v doplnkovom dôchodkovom fonde v členení podľa trhov, bánk a pobočiek zahraničných bánk a emitentov, hospodárenie s majetkom v doplnkovom dôchodkovom fonde (numerická časť).
 
-      - c) Periodicita: štvrťročne a ročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
 
     - 54. Označenie administratívneho zdroja:
 
-      - Výkaz ziskov a strát doplnkovej dôchodkovej spoločnosti
+      - Dds (HVM) 12-02
+
+      - Správa o hospodárení s vlastným majetkom v doplnkovej dôchodkovej spoločnosti
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov.
+        - Administratívne zdroje údajov sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
 
         - Podrobný postup získavania týchto štatistických informácií ustanovuje osobitný predpis.<sup>1</sup>)
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Individuálne údaje za jednotlivé doplnkové dôchodkové spoločnosti Slovenskej republiky v rozsahu prílohy č. 2 k opatreniu Ministerstva financií Slovenskej republiky č. MF/5292/2005-74, ktorým sa ustanovujú podrobnosti o usporiadaní a o označení položiek účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre finančné inštitúcie, ktoré nemajú v predmete svojho podnikania poisťovanie, a pre Fond ochrany vkladov a Garančný fond investícií.
+        - Sumár za všetky doplnkové dôchodkové spoločnosti, prehľad o cudzích zdrojoch v doplnkovej dôchodkovej spoločnosti (numerická časť).
 
-      - c) Periodicita: štvrťročne a ročne.
+      - c) Periodicita: polročne a ročne.
 
-      - d) Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období a do 30. júna po referenčnom období.
+      - d) Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
 
     - 55. Označenie administratívneho zdroja:
 
@@ -2096,15 +2116,17 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - a) Využitie administratívnych údajov
 
-        - Administratívne zdroje údajov sa využijú na získanie informácií o počte žiadateľov o azyl a azylantov na území Slovenskej republiky.
+        - Administratívne zdroje údajov sa využijú na získanie informácií o počte žiadateľov o udelenie azylu a azylantov na území Slovenskej republiky.
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Údaje o azyle vykazované v dvoch hlavných kategóriách:
+        - Údaje o azyle vykazované v kategóriách:
 
-      - – žiadatelia o udelenie azylu, a to podľa pohlavia, veku, štátnej príslušnosti, rodinného stavu, ukončeného vzdelania, počet maloletých žiadateľov bez sprievodu o udelenie azylu,
+      - – žiadatelia o udelenie azylu, a to podľa pohlavia, veku, štátnej príslušnosti, počet maloletých žiadateľov bez sprievodu,
 
-      - – prehľad cudzincov s udeleným azylom podľa pohlavia, veku, štátnej príslušnosti, rodinného stavu, ukončeného vzdelania.
+      - – prehľad o cudzincoch s udeleným azylom, o cudzincoch, ktorým sa poskytla doplnková ochrana, a to podľa pohlavia, veku a štátnej príslušnosti,
+
+      - – prehľad o cudzincoch, žiadajúcich poskytnutie dočasného útočiska, a odídencoch.
 
       - c) Periodicita: mesačne a ročne.
 
@@ -2380,26 +2402,6 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
   - I. F Inštitúcia disponujúca administratívnym zdrojom:
 
-    - Ministerstvo školstva Slovenskej republiky
-
-    - 1. Označenie administratívneho zdroja:
-
-      - Škol (MŠ SR) 33-01
-
-      - Ročný výkaz o školských kluboch detí
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavenie štatistických publikácií o školstve, Štatistickej ročenky Slovenskej republiky a medzinárodných porovnaní.
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Ukazovatele týkajúce sa siete školských klubov detí, záujmových útvarov, počtu detí, počtu učiteľov a vychovávateľov, hospodárenia a pod.
-
-      - c) Periodicita: ročná.
-
-      - d) Lehota na odovzdávanie administratívnych údajov: do 30. júna nasledujúceho roka.
-
   - I. G Inštitúcia disponujúca administratívnym zdrojom:
 
     - Ministerstvo spravodlivosti Slovenskej republiky
@@ -2532,9 +2534,9 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
     - 8. Označenie administratívneho zdroja:
 
-      - V (MS SR) 7-02
+      - V (MS SR) 7-02/C
 
-      - Polročný výkaz o ústavnej a ochrannej výchove
+      - Polročný výkaz o ústavnej starostlivosti
 
       - a) Využitie administratívnych údajov
 
@@ -2542,7 +2544,25 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Údaje o ústavnej a ochrannej výchove podľa jednotlivých charakteristík.
+        - Údaje o ústavnej starostlivosti podľa jednotlivých charakteristík.
+
+      - c) Periodicita: ročne.
+
+      - d) Lehota odovzdania administratívnych údajov: do 31. mája nasledujúceho roka.
+
+    - 8a. Označenie administratívneho zdroja:
+
+      - V (MS SR) 7-02/T
+
+      - Polročný výkaz o ochrannej výchove
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú na zostavenie štatistických publikácií ako sociálna ročenka (Trendy sociálneho vývoja v Slovenskej republike), Štatistická ročenka Slovenskej republiky, na účely medzinárodných porovnaní a na poskytovanie údajov rôznym medzinárodným organizáciám na základe ich požiadaviek.
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Údaje o ochrannej výchove podľa jednotlivých charakteristík.
 
       - c) Periodicita: ročne.
 
@@ -2550,7 +2570,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
     - 9. Označenie administratívneho zdroja:
 
-      - Štatistický list C, O, T
+      - Štatistický list C, P, T, S, K, R, Od, I
 
       - Polročný štatistický prehľad o právoplatných výsledkoch súdneho konania
 
@@ -2570,11 +2590,11 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
     - Ministerstvo zdravotníctva Slovenskej republiky
 
-    - 1. Označenie administratívneho zdroja
+    - 1. Označenie administratívneho zdroja:
 
       - R (MZ SR) 1-99
 
-      - Hlásenie pre zápis neštátneho zdravotníckeho zariadenia do registra zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky predkladateľ – právnická osoba
+      - Hlásenie pre aktualizáciu údajov v Centrálnom registri poskytovateľov zdravotnej starostlivosti, pre potreby zdravotníckej štatistiky, predkladateľ – právnická osoba
 
       - a) Využitie administratívnych údajov
 
@@ -2588,11 +2608,11 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - d) Lehota na odovzdanie administratívnych údajov: do 31. marca po referenčnom období.
 
-    - 2. Označenie administratívneho zdroja
+    - 2. Označenie administratívneho zdroja:
 
       - R (MZ SR) 2-99
 
-      - Hlásenie pre zápis neštátneho zdravotníckeho zariadenia do registra zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky predkladateľ – fyzická osoba
+      - Hlásenie pre aktualizáciu údajov v Centrálnom registri poskytovateľov zdravotnej starostlivosti, pre potreby zdravotníckej štatistiky, predkladateľ – fyzická osoba
 
       - a) Využitie administratívnych údajov
 
@@ -2833,6 +2853,26 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
       - c) Periodicita: ročne.
 
       - d) Lehota na odovzdanie administratívnych údajov: do 28. februára po referenčnom období.
+
+        - I.J Inštitúcia disponujúca administratívnym zdrojom:
+
+        - Zdravotné poisťovne
+
+    - 1. Označenie administratívneho zdroja:
+
+      - Povinná dokumentácia zdravotnej poisťovne
+
+      - a) Využitie administratívnych údajov
+
+        - Administratívne zdroje údajov sa využijú pri príprave zdravotníckych štatistík podľa medzinárodnej metodiky Systému zdravotných účtov a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
+
+      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
+
+        - Údaje o zdravotnej starostlivosti úplne alebo čiastočne financovanej z verejného zdravotného poistenia podľa poskytovateľa zdravotnej starostlivosti v členení podľa kódu poskytovateľa a/alebo lekára a o úhradách za túto starostlivosť v členení podľa druhu zdravotnej starostlivosti. Údaje o poistencovi verejného zdravotného poistenia v členení podľa veku, pohlavia, trvalého bydliska (okres), skupín diagnóz, druhu poberanej zdravotnej starostlivosti, poskytovateľa zdravotnej starostlivosti a úhrad za túto starostlivosť.
+
+      - c) Periodicita: ročne.
+
+      - d) Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
   - II. Administratívne zdroje údajov, ktoré využíva:
 
@@ -3180,80 +3220,6 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
   - III. B Inštitúcia disponujúca administratívnym zdrojom:
 
-    - Všeobecná zdravotná poisťovňa
-
-    - 1. Označenie administratívneho zdroja:
-
-      - Dávka 137
-
-      - Lekárske predpisy
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ-605/2000 na poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
-
-    - 2. Označenie administratívneho zdroja:
-
-      - Dávka 148
-
-      - Vykazovanie kapitácie
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ-605/2000 na poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
-
-    - 3. Označenie administratívneho zdroja:
-
-      - Dávka 153
-
-      - Vykazovanie výkonov v ambulantnej starostlivosti
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ-605/2000 na poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
-
-    - 4. Označenie administratívneho zdroja:
-
-      - Dávka 173
-
-      - Vykazovanie výkonov v lôžkovej starostlivosti
-
-      - a) Využitie administratívnych údajov
-
-        - Administratívne zdroje údajov sa využijú na zostavovanie národných zdravotných účtov v súlade s požiadavkami OECD Health Policy Unit, EUROSTAT-u a na základe poverenia vedúceho úradu Ministerstva zdravotníctva Slovenskej republiky VÚ-605/2000 na poskytovanie a spracovávanie štatistických údajov týkajúcich sa zdravia a pre OECD.
-
-      - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
-
-        - Kompletné údaje za Slovensko spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov a štatistickej odvetvovej klasifikácie ekonomických činností (OKEČ) ustanovenej osobitným predpisom,<sup>2</sup>) právnej formy a druhu vlastníctva vrátane zoznamu spravodajských jednotiek podľa IČO, ktoré sú zahrnuté do spracovania.
-
-      - c) Periodicita: ročne.
-
-      - d) Lehota na odovzdanie administratívnych údajov: do 31. januára po referenčnom období.
-
   - III. C Inštitúcia disponujúca administratívnym zdrojom:
 
     - Sociálna poisťovňa
@@ -3322,7 +3288,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
     - 3. Označenie administratívneho zdroja:
 
-      - Prehľady v oblasti výberu poistného
+      - Prehľady v oblasti výberu poistného a príspevkov na starobné dôchodkové sporenie
 
       - a) Využitie administratívnych údajov
 
@@ -3330,7 +3296,7 @@ Príloha č. 3 k vyhláške č. 482/2005 Z. z.
 
       - b) Charakteristika triedení, odvetvovej, sektorovej alebo komoditnej skladby požadovaných administratívnych údajov
 
-        - Kompletné údaje o platbách a platiteľoch za Slovenskú republiku a okresy v členení podľa závodov (malé, veľké) a samostatne zárobkovo činných osôb.
+        - Kompletné údaje o platbách a platiteľoch za Slovenskú republiku a okresy v členení podľa jednotlivých typov platiteľov poistného – zamestnávatelia, zamestnanci, samostatne zárobkovo činné osoby a dobrovoľne poistené osoby.
 
       - c) Periodicita: mesačná.
 

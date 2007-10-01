@@ -21,3 +21,5 @@ Príloha č. 4 k vyhláške č. 482/2005 Z. z.
   - 9. Smernica Rady 97/77/ES zo 16. decembra 1997, ktorá mení a dopĺňa smernice 93/23/EHS, 93/24/EHS a 93/25/EHS o štatistických zisťovaniach, ktoré sa majú vykonávať ohľadne produkcie ošípaných, hovädzieho dobytka a oviec a kôz (Ú. v. ES L 010, 16. 1. 1998).
 
   - 10. Smernica Európskeho parlamentu a Rady 2001/109/ES z 19. decembra 2001 týkajúca sa štatistických zisťovaní vykonávaných členskými štátmi s cieľom stanovenia produkčného potenciálu sadov určitých druhov ovocných stromov (Ú. v. ES L 013, 16. 1. 2002).
+
+  - 11. Smernica Rady 2006/110/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú smernice 95/57/ES a 2001/109/ES v oblasti štatistiky (Ú. v. EÚ L 363, 20. 12. 2006).

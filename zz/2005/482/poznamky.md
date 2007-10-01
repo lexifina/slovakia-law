@@ -10,7 +10,7 @@
 
 - 4) Nariadenie Rady (EHS) č. 1612/1968 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci Spoločenstva (Ú. v. ES L 257, 19. 10. 1968) v platnom znení.
 
-- 5) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+- 5) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností a Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393/1, 30. 12. 2006).
 
 - 6) Opatrenie Štatistického úradu č. 16/1996 Z. z., ktorým sa vyhlasuje Klasifikácia odborov vzdelania.
 
@@ -21,6 +21,8 @@
 - 10) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie v znení vyhlášky Štatistického úradu Slovenskej republiky č. 460/2004 Z. z.
 
 - 11) § 7 ods. 3 zákona č. 170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze.
+
+- 11a) § 7 ods. 3 zákona č. 170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze, rozhodnutie Komisie z 26. júla 1999, ktorým sa vykonáva rozhodnutie Rady 1999/280/ES o postupe spoločenstva pri informovaní a konzultáciách ohľadom cien dodávok ropy a spotrebiteľských cien ropných výrobkov (oznámené pod číslom dokumentu C(1999) 1701) Text s významom pre EHP (Ú. v. ES L 216, 14. 8.1999.) a rozhodnutie Rady z 22. apríla 1999 o postupe spoločenstva pri informovaní a konzultáciách ohľadom cien dodávok ropy a spotrebiteľských cien ropných výrobkov (Ú. v. ES L 110, 28. 4. 1999.).
 
 - 12) Nariadenie Rady EHS č. 1108/70 zo 4. júna 1970, ktorým sa zavádza účtovný systém pre výdavky na infraštruktúru v súvislosti so železničnou, s cestnou a vnútrozemskou vodnou dopravou (vrátane nariadenia č. 1384/79/EHS, č. 3021/81/EHS a č. 3572/90/EHS) (Ú. v. ES L 130, 15. 6. 1970) a nariadenie Komisie (EHS) č. 2598/70 z 18. decembra 1970 ustanovujúce obsah rôznych položiek účtovnej osnovy podľa prílohy č. 1 k nariadeniu Rady (EHS) č. 1108/70 zo 4. júna 1970 (vrátane nariadenia č. 2116/78/EHS) (Ú. v. ES L 278, 23. 12. 1970).
 
@@ -62,7 +64,7 @@
 
 - 1) Nariadenie Rady (ES) č. 2223/96 z 25. júna 1996 o Európskom systéme národných a regionálnych účtov v Spoločenstve (Ú. v. ES L 310, 30. 11. 1996).
 
-- 2) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+- 2) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností a nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393/1, 30. 12. 2006).
 
 - 3) Nariadenie Rady (ES) č. 2223/96 o Európskom systéme národných a regionálnych účtov v Spoločenstve (Ú. v. ES L 310, 30. 11. 1996) a nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Ú. v. EÚ L 102, 7. 4. 2004).
 
