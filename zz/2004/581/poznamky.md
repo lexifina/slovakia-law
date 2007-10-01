@@ -98,6 +98,8 @@
 
 - 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
 - 36) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
