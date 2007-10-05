@@ -518,6 +518,8 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 6. „Commissioner of Maritime Affairs"; „Deputy Commissioner of Maritime Affairs" alebo „Special Agent of the Comissioner of Maritime Affairs"
 
+  - 7. IRI Corporate and Maritime Services (Switzerland) A.G., Office of the Deputy Registrar, Schifflande 22, CH-8001 Zurich, Switzerland
+
     - Maurícius
 
   - 1. „The Permanent Secretary of the Prime Minister’s Office"
