@@ -418,6 +418,8 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Area de Legalizaciones, Dirección: Transversal 17 A No. 98-55, Bogotá, D.C.
 
+    - Od 8. októbra 2007 sa používa nový typ apostily, ktorej pravosť možno overiť v e-Registri na internetovej stránke: www.cancilleria.gov.co/apostilla
+
     - Kórejská republika
 
   - 1. Ministerstvo zahraničných vecí a obchodu
