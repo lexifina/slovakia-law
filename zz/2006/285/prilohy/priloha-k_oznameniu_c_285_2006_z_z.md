@@ -174,6 +174,82 @@ K oznámeniu č. 285/2006 Z. z.
 
       - 4. Údaje presunuté podľa odseku 2 sa naďalej uchovávajú v colnom informačnom systéme jeden rok, ale bez toho, aby bol dotknutý článok 15, budú prístupné iba zástupcovi výboru uvedeného v článku 16 alebo dozorným orgánom uvedeným v článku 17 ods. 1 a článku 18 ods. 1. Počas tohto obdobia môžu tieto orgány nahliadnuť do údajov iba na účely kontroly ich správnosti a zákonnosti, po ktorej musia byť odstránené.
 
+  - KAPITOLA V A VYTVORENIE IDENTIFIKAČNEJ DATABÁZY COLNÝCH SPISOV
+
+    - Článok 12 A
+
+      - 1. Okrem údajov v súlade s článkom 3 obsahuje colný informačný systém údaje v súlade s touto kapitolou v osobitnej databáze (ďalej len „identifikačná databáza colných spisov"). Bez ohľadu na ustanovenia tejto kapitoly a kapitoly V B a V C všetky ustanovenia tohto dohovoru sa budú rovnako uplatňovať na identifikačnú databázu colných spisov.
+
+      - 2. Cieľom identifikačnej databázy colných spisov je umožniť národným orgánom zodpovedným za colné vyšetrovanie podľa článku 7, aby pri otváraní spisu o jednej alebo viacerých fyzických osobách alebo právnických osobách alebo pri jeho skúmaní zistili príslušné orgány iných členských štátov, ktoré vyšetrujú alebo vyšetrovali tieto fyzické osoby alebo právnické osoby, aby pomocou informácií o existencii vyšetrovacích spisov dosiahli cieľ uvedený v článku 2 ods. 2.
+
+      - 3. Na účely identifikačnej databázy colných spisov zašle každý členský štát ostatným členským štátom a výboru uvedenému v článku 16 zoznam závažných porušení jeho vnútroštátnych právnych predpisov.
+
+      - Zoznam bude obsahovať iba porušenia, za ktoré možno uložiť sankciu:
+
+      - – trest odňatia slobody alebo vydanie príkazu na zadržanie v rozsahu najmenej 12 mesiacov,
+
+      - – uloženie pokuty vo výške najmenej 15 000 EUR.
+
+      - 4. Ak členský štát, ktorý vyhľadáva údaje v identifikačnej databáze colných spisov, potrebuje ďalšie informácie o uloženom vyšetrovacom spise, ktorý sa týka fyzickej osoby alebo právnickej osoby, požiada o pomoc poskytujúci členský štát na základe platných nástrojov upravujúcich vzájomnú pomoc.
+
+  - KAPITOLA V B SPRÁVA A POUŽÍVANIE IDENTIFIKAČNEJ DATABÁZY COLNÝCH SPISOV
+
+    - Článok 12 B
+
+      - 1. Príslušné orgány vkladajú údaje z vyšetrovacích spisov do identifikačnej databázy colných spisov na účely uvedené v článku 12 A ods. 2. Údaje obsahujú iba tieto kategórie:
+
+        - (i) fyzická osoba alebo právnická osoba, ktorá je alebo bola predmetom vyšetrovacieho spisu otvoreného príslušným orgánom členského štátu a ktorá
+
+          - – je v súlade s vnútroštátnymi právnymi predpismi príslušného členského štátu podozrivá, že pácha alebo spáchala alebo sa zúčastňuje alebo sa zúčastňovala na závažnom porušení vnútroštátnych právnych predpisov, alebo
+
+          - – bola predmetom správy, podľa ktorej k takému porušeniu došlo, alebo
+
+          - – bola predmetom administratívnych alebo právnych sankcií za takéto porušenie,
+
+        - (ii) oblasť, ktorá je predmetom vyšetrovacieho spisu,
+
+        - (iii) meno, štátna príslušnosť a kontaktné informácie na príslušný orgán členského štátu, ktorý daný prípad vybavuje, spolu s číslom daného spisu.
+
+        - Údaje podľa bodov (i) až (iii) sa vložia samostatne pre každú fyzickú osobu alebo právnickú osobu. Vzájomné prepojenie medzi týmito údajmi nebude povolené.
+
+      - 2. Osobné údaje uvedené v odseku 1 bode (i) obsahujú iba:
+
+        - (i) vo vzťahu k fyzickým osobám: meno, rodné meno, krstné mená a prezývky, dátum a miesto narodenia, štátnu príslušnosť a pohlavie,
+
+        - (ii) vo vzťahu k právnickým osobám: obchodné meno, meno, pod ktorým sa vykonáva činnosť, sídlo a daňové identifikačné číslo.
+
+      - 3. Údaje sú vložené na obmedzené časové obdobie v súlade s článkom 12 E.
+
+    - Článok 12 C
+
+      - Členský štát nie je povinný vkladať záznamy podľa článku 12 B v žiadnom konkrétnom prípade, ak by to v danom období poškodzovalo jeho verejnú politiku alebo iný podstatný záujem, najmä v oblasti ochrany údajov.
+
+    - Článok 12 D
+
+      - 1. Vkladanie údajov do identifikačnej databázy colných spisov a ich konzultácia sú vyhradené pre orgány uvedené v článku 12 A ods. 2.
+
+      - 2. Akákoľvek konzultácia týkajúca sa identifikačnej databázy colných spisov sa bude vzťahovať na nasledujúce osobné údaje:
+
+        - (i) vo vzťahu k fyzickým osobám: krstné meno a/alebo priezvisko a/alebo rodné priezvisko a/alebo prezývky a/alebo dátum narodenia,
+
+        - (ii) vo vzťahu k právnickým osobám: obchodné meno a/alebo meno, pod ktorým sa vykonáva činnosť, a/alebo daňové identifikačné číslo.
+
+  - KAPITOLA V C DOBA UCHOVÁVANIA ÚDAJOV V IDENTIFIKAČNEJ DATABÁZE COLNÝCH SPISOV
+
+    - Článok 12 E
+
+      - 1. Doba uchovávania sa určí v súlade s vnútroštátnymi právnymi predpismi, opatreniami a administratívnymi postupmi toho členského štátu, ktorý vkladá údaje. V žiadnom prípade sa však neprekročia tieto lehoty, ktoré začínajú plynúť dňom vloženia údajov do databázy:
+
+        - (i) údaje týkajúce sa súčasných vyšetrovacích spisov sa neuchovávajú dlhšie ako tri roky, ak nebolo preukázané, že počas tejto doby došlo k porušeniu právnych predpisov; pred touto lehotou sa tieto údaje vymažú, ak uplynul jeden rok od posledného vyšetrovacieho úkonu,
+
+        - (ii) údaje týkajúce sa vyšetrovacích spisov, na ktorých základe bolo preukázané, že došlo k porušeniu právnych predpisov, ktoré však doteraz neviedli k usvedčeniu alebo k uloženiu pokuty, sa nebudú uchovávať dlhšie ako šesť rokov,
+
+        - (iii) údaje týkajúce sa vyšetrovacích spisov, na ktorých základe došlo k odsúdeniu alebo k uloženiu pokuty, sa nebudú uchovávať dlhšie ako desať rokov.
+
+      - 2. Vo všetkých štádiách vyšetrovania podľa odseku 1 bodov (i), (ii) a (iii), len čo je fyzická osoba alebo právnická osoba podľa článku 12 B vyradená z vyšetrovania v súlade s právnymi predpismi a administratívnymi postupmi poskytujúceho členského štátu, sa ihneď vymažú všetky údaje vzťahujúce sa na túto fyzickú osobu alebo právnickú osobu.
+
+      - 3. Údaje sa automaticky vymažú z identifikačnej databázy colných spisov, len čo sa prekročil deň maximálnej lehoty na uchovávanie údajov uvedenej v odseku 1.
+
   - HLAVA VI OCHRANA OSOBNÝCH ÚDAJOV
 
     - Článok 13
@@ -286,7 +362,7 @@ K oznámeniu č. 285/2006 Z. z.
 
     - Článok 20
 
-      - Príslušná colná správa uvedená v článku 10 ods. 1 tohto dohovoru je zodpovedná za bezpečnostné opatrenia uvedené v článku 19 v súvislosti s terminálmi nachádzajúcimi sa na území dotknutého členského štátu, za posudzovanie podľa článku 12 ods. 1 a 2, ako aj za správne uplatňovanie tohto dohovoru tak, ako je to nevyhnutné podľa vnútroštátnych právnych predpisov a administratívnych postupov tohto členského štátu.
+      - Príslušná colná správa uvedená v článku 10 ods. 1 tohto dohovoru je zodpovedná za bezpečnostné opatrenia uvedené v článku 19 v súvislosti s terminálmi nachádzajúcimi sa na území dotknutého členského štátu, za posudzovanie podľa článku 12 ods. 1 a 2 a článku 12 E, ako aj za správne uplatňovanie tohto dohovoru tak, ako je to nevyhnutné podľa vnútroštátnych právnych predpisov a administratívnych postupov tohto členského štátu.
 
     - HLAVA X ZODPOVEDNOSŤ A ZÁVÄZKY
 
