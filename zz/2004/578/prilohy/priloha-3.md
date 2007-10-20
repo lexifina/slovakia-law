@@ -1,14 +1,14 @@
-Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
+Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
 - UZNÁVANIE DIPLOMOV O ŠPECIALIZÁCII
 
   - A. Uznávanie diplomov o špecializácii v kategórii lekár
 
-    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov kvalifikácie uvedenej v tabuľke č. 1, sa uznáva ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 2,
+    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 2:
 
     - Tabuľka č. 1
 
-  - p. č. | Krajina | Názov kvalifikácie | Udeľujúci orgán
+  - P. č. | Krajina | Názov dokladu | Udeľujúci orgán
 
   - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van geneesheer-specialist/Titre professionnel particulier de médecin spécialiste | Minister bevoegd voor Volksgezondheid/Ministre de la Santé publique
 
@@ -22,19 +22,19 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 6 | Estónsko / Eesti | Residentuuri lõputunnistus eriarstiabi erialal | Tartu Ülikool
 
-  - 7 | Fínsko / Suomi / Finland | Erikoislääkärin tutkinto / specialläkarexamen | 1. Helsingin yliopisto / Helsingfors universitet 2. Kuopion yliopisto 3. Oulun yliopisto 4. Tampereen yliopisto 5. Turun yliopisto
+  - 7 | Fínsko / Suomi / Finland | Erikoislääkärin tutkinto / Specialläkarexamen | 1. Helsingin yliopisto / Helsingfors universitet 2. Kuopion yliopisto 3. Oulun yliopisto 4. Tampereen yliopisto 5. Turun yliopisto
 
-  - 8 | Francúzsko / France | 1. Certificat d'études spéciales de médecine 2. Attestation de médecin spécialiste qualifié 3. Certificat d'études spéciales de médecine 4. Diplôme d'études spécialisées ou spécialisation complémentaire qualifiante de médecine | 1. 3. 4. Universités 2. Conseil de l'Ordre des médecins
+  - 8 | Francúzsko / France | 1. Certificat d'études spéciales de médecine 2. Attestation de médecin spécialiste qualifié 3. Certificat d'études spéciales de médecine 4. Diplôme d'études spécialisées ou spécialisation complémentaire qualifiante de médecine | 1. Universités 2. Conseil de l'Ordre des médecins 3. Universités 4. Universités
 
   - 9 | Grécko / Ελλάς | Τίτλος Ιατρικής Ειδικότητας | 1. Νομαρχιακή Αυτοδιοίκηση 2. Νομαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving in een Specialistenregister | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst 2. Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst 3. Huisarts en Verpleeghuisarts Registratie Commissie (HVRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving in een Specialistenregister | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst 2. Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
 
   - 11 | Írsko / Ireland | Certificate of Specialist doctor | Competent authority
 
   - 12 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją | Universitetas
 
-  - 13 | Lotyšsko / Latvija | Sertifikāts – kompetentu iestāāžu izsniegts dokuments, kas apliecina, ka persona ir nokāārtojusi sertifikāācijas eksāāmenu specialitātē | Latvijas Ārstu biedrība Latvijas Ārstniecības personu profesionālo organizāciju savienība
+  - 13 | Lotyšsko / Latvija | „Sertifikāts“ – kompetentu iestāāžu izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu specialitātē | Latvijas Ārstu biedrība Latvijas Ārstniecības personu profesionālo organizāciju savienība
 
   - 14 | Luxembursko / Luxembourg | Certificat de médecin spécialiste | Ministre de la Santé publique
 
@@ -42,11 +42,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 16 | Malta / Malta | Ċertifikat ta' Speċjalista Mediku | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 17 | Nemecko / Deutschland | Fachärztliche Anerkennung | Countryesärztekammer
+  - 17 | Nemecko / Deutschland | Fachärztliche Anerkennung | Landesärztekammer
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych
 
-  - 19 | Portugalsko / Portugal | 1. Grau de assistente e/ou 2. Titulo de especialista | 1. Ministério da Saúde 2. Ordem dos Médicos
+  - 19 | Portugalsko / Portugal | 1. Grau de assistente 2. Titulo de especialista | 1. Ministério da Saúde 2. Ordem dos Médicos
 
   - 20 | Rakúsko / Österreich | Facharztdiplom | Österreichische Ärztekammer
 
@@ -62,19 +62,19 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training | Competent authority
 
-  - 27 | Island / Ísland | Sérfræðileayfi | Heilbrigðis og tryggingamálaráðuneyti
+  - 27 | Island / Ísland | Sérfræðileayfi | Heilbrigðis- og tryggingamálaráðuneyti
 
   - 28 | Lichtenštajnsko / Liechtenstein | diplomy ostatných krajín uvedené v tabuľke | príslušný orgán
 
   - 29 | Nórsko / Norge | Spesialistgodkjenning | Den norske lægeforening ihht. delegert myndighet
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Facharzt / spécialiste / specialista | Département fédéral de ľintérieur
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme de médecin spécialiste Diplom als Facharzt Diploma di medico specialista | Département fédéral de l'intérieur et Fédération des médecins suisses Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte Dipartimento federale dell'interno e Federazione dei medici svizzeri
 
     - Tabuľka č. 2
 
   - Por. číslo | Krajina | Názov špecializačného odboru v členskom štáte | Minimálna dĺžka prípravy v členskom štáte | Názov zodpovedajúceho špecializačného odboru v Slovenskej republike
 
-  - 1. 01 | Belgicko / Belgique / België / Belgien | Anesthésie-réanimation / Anesthesie reanimatie | 3 roky | anestéziológia a intenzívna medicína
+  - 1. 01 | Belgicko / Belgique / België / Belgien | Anesthésie-réanimation/Anesthesie reanimatie | 3 roky | anestéziológia a intenzívna medicína
 
   - 1. 02 | Bulharsko / България | Анестезиология и интензивно лечение | |
 
@@ -86,11 +86,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 1. 06 | Estónsko / Eesti | Anestesioloogia | |
 
-  - 1. 07 | Fínsko / Suomi / Finland | Anestesiologia ja tehohoito / anestesiologi och intensivvård | |
+  - 1. 07 | Fínsko / Suomi / Finland | Anestesiologia ja tehohoito/Anestesiologi och intensivvård | |
 
   - 1. 08 | Francúzsko / France | Anesthésiologie-Réanimation chirurgicale | |
 
-  - 1. 09 | Grécko / Ελλάς | Αναισθησιολογία | |
+  - 1. 09 | Grécko / Ελλάς | Αvαισθησιoλoγία | |
 
   - 1. 10 | Holandsko / Nederland | Anesthesiologie | |
 
@@ -126,15 +126,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 1. 26 | Veľká Británia a Severné Írsko / United Kingdom | Anaesthetics | |
 
-  - 1. 27 | Island / Ísland | Svæefinga- og gjörgæluæknisfræði | |
+  - 1. 27 | Island / Ísland | Svæfinga- og gjörgæslulæknisfræði | |
 
   - 1. 28 | Lichtenštajnsko / Liechtenstein | Anästhesiologie | |
 
   - 1. 29 | Nórsko / Norge | Anestesiologi | |
 
-  - 1. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anästhesiologie / anesthésiologie / anestesiologia | |
+  - 1. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anesthésiologie Anästhesiologie Anestesiologia | |
 
-  - 2. 01 | Belgicko / Belgique / België / Belgien | Chirurgie / Heelkunde | 5 rokov | chirurgia
+  - 2. 01 | Belgicko / Belgique / België / Belgien | Chirurgie/Heelkunde | 5 rokov | chirurgia
 
   - 2. 02 | Bulharsko / България | Хирургия | |
 
@@ -146,7 +146,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 2. 06 | Estónsko / Eesti | Üldkirurgia | |
 
-  - 2. 07 | Fínsko / Suomi / Finland | Yleiskirurgia / allmän kirurgi | |
+  - 2. 07 | Fínsko / Suomi / Finland | Yleiskirurgia/Allmän kirurgi | |
 
   - 2. 08 | Francúzsko / France | Chirurgie générale | |
 
@@ -154,7 +154,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 2. 10 | Holandsko / Nederland | Heelkunde | |
 
-  - 2. 11 | Írsko / Ireland | General surgery | |
+  - 2. 11 | Írsko / Ireland | Cirugía general | |
 
   - 2. 12 | Litva / Lietuva | Chirurgija | |
 
@@ -192,7 +192,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 2. 29 | Nórsko / Norge | Generell kirurgi | |
 
-  - 2. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie / chirurgie / chirurgia | |
+  - 2. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie Chirurgie Chirurgia | |
 
   - 3. 01 | Belgicko / Belgique / België / Belgien | Neurochirurgie | 5 rokov | neurochirurgia
 
@@ -206,7 +206,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 3. 06 | Estónsko / Eesti | Neurokirurgia | |
 
-  - 3. 07 | Fínsko / Suomi / Finland | Neurokirurgia / Neurokirurgi | |
+  - 3. 07 | Fínsko / Suomi / Finland | Neurokirurgia/Neurokirurgi | |
 
   - 3. 08 | Francúzsko / France | Neurochirurgie | |
 
@@ -214,7 +214,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 3. 10 | Holandsko / Nederland | Neurochirurgie | |
 
-  - 3. 11 | Írsko / Ireland | neurosurgery | |
+  - 3. 11 | Írsko / Ireland | Neurosurgery | |
 
   - 3. 12 | Litva / Lietuva | Neurochirurgija | |
 
@@ -252,13 +252,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 3. 29 | Nórsko / Norge | Nevrokirurgi | |
 
-  - 3. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie / neurochirurgie / neurochirurgia | |
+  - 3. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie Neurochirurgie Neurochirurgia | |
 
-  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie - obstétrique / gynaecologie en verloskunde | 4 roky | gynekológia a pôrodníctvo
+  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie — obstétrique/Gynaecologie en verloskunde | 4 roky | gynekológia a pôrodníctvo
 
   - 4. 02 | Bulharsko / България | Акушерство, гинекология и репродуктивна медицина | |
 
-  - 4. 03 | Cyprus / Κύπρος | Μαιευτική – Γυναικολογία | |
+  - 4. 03 | Cyprus / Κύπρος | Μαιευτική — Γυναικολογία | |
 
   - 4. 04 | Česko / Česká republika | Gynekologie a porodnictví | |
 
@@ -266,11 +266,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 4. 06 | Estónsko / Eesti | Sünnitusabi ja günekoloogia | |
 
-  - 4. 07 | Fínsko / Suomi / Finland | Naistentaudit ja synnytykset / kvinnosjukdomar och förlossningar | |
+  - 4. 07 | Fínsko / Suomi / Finland | Naistentaudit ja synnytykset/Kvinnosjukdomar och förlossningar | |
 
-  - 4. 08 | Francúzsko / France | Gynécologie - obstétrique | |
+  - 4. 08 | Francúzsko / France | Gynécologie — obstétrique | |
 
-  - 4. 09 | Grécko / Ελλάς | Μαιευτική-Γυναικoλoγία | |
+  - 4. 09 | Grécko / Ελλάς | Μαιευτική-Γυvαικoλoγία | |
 
   - 4. 10 | Holandsko / Nederland | Verloskunde en gynaecologie | |
 
@@ -280,7 +280,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 4. 13 | Lotyšsko / Latvija | Ginekoloģija un dzemdniecība | |
 
-  - 4. 14 | Luxembursko / Luxembourg | Gynécologie - obstétrique | |
+  - 4. 14 | Luxembursko / Luxembourg | Gynécologie — obstétrique | |
 
   - 4. 15 | Maďarsko / Magyarország | Szülészet-nőgyógyászat | |
 
@@ -312,9 +312,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 4. 29 | Nórsko / Norge | Fødselshjelp og kvinnesykdommer | |
 
-  - 4. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynäkologie und Geburtshilfe / gynécologie et obstétrique / ginecologia e ostetricia | |
+  - 4. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynécologie et obstétrique Gynäkologie und Geburtshilfe Ginecologia e ostetricia | |
 
-  - 5. 01 | Belgicko / Belgique/ België / Belgien | Médecine interne / inwendige geneeskunde | 5 rokov | vnútorné lekárstvo
+  - 5. 01 | Belgicko / Belgique/ België / Belgien | Médecine interne/Inwendige geneeskunde | 5 rokov | vnútorné lekárstvo
 
   - 5. 02 | Bulharsko / България | Вътрешни болести | |
 
@@ -326,7 +326,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 5. 06 | Estónsko / Eesti | Sisehaigused | |
 
-  - 5. 07 | Fínsko / Suomi / Finland | Sisätaudit / inre medicin | |
+  - 5. 07 | Fínsko / Suomi / Finland | Sisätaudit/Inre medicin | |
 
   - 5. 08 | Francúzsko / France | Médecine interne | |
 
@@ -360,7 +360,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 5. 23 | Španielsko / España | Medicina interna | |
 
-  - 5. 24 | Švédsko / Sverige | Internmedicin | |
+  - 5. 24 | Švédsko / Sverige | Internmedicine | |
 
   - 5. 25 | Taliansko / Italia | Medicina interna | |
 
@@ -372,13 +372,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 5. 29 | Nórsko / Norge | Indremedisin | |
 
-  - 5. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Innere Medizin / médecine interne / medicina interna | |
+  - 5. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine interne Innere Medizin Medicina interna | |
 
-  - 6. 01 | Belgicko / Belgique / België / Belgien | Ophtalmologie / oftalmologie | 3 roky | oftalmológia
+  - 6. 01 | Belgicko / Belgique / België / Belgien | Ophtalmologie/Oftalmologie | 3 roky | oftalmológia
 
   - 6. 02 | Bulharsko / България | Очни болести | |
 
-  - 6. 03 | Cyprus / Κύπρος | Οφθαλμολογία | |
+  - 6. 03 | Cyprus / Κύπρος | Οφθαλµολογία | |
 
   - 6. 04 | Česko / Česká republika | Oftalmologie | |
 
@@ -386,11 +386,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 6. 06 | Estónsko / Eesti | Oftalmoloogia | |
 
-  - 6. 07 | Fínsko / Suomi / Finland | Silmätaudit / Ögonsjukdomar | |
+  - 6. 07 | Fínsko / Suomi / Finland | Silmätaudit/Ögonsjukdomar | |
 
   - 6. 08 | Francúzsko / France | Ophtalmologie | |
 
-  - 6. 09 | Grécko / Ελλάς | Οφθαλμoλoγία | |
+  - 6. 09 | Grécko / Ελλάς | Οφθαλµoλoγία | |
 
   - 6. 10 | Holandsko / Nederland | Oogheelkunde | |
 
@@ -432,13 +432,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 6. 29 | Nórsko / Norge | øyesykdommer | |
 
-  - 6. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophtalmologie / ophtalmologie / oftalmologia | |
+  - 6. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophtalmologie Ophtalmologie Oftalmologia | |
 
-  - 7. 01 | Belgicko / Belgique / België / Belgien | Oto-rhino-laryngologie / otorhinolaryngologie | 3 roky | otorinolaryngológia
+  - 7. 01 | Belgicko / Belgique / België / Belgien | Oto-rhino-laryngologie/Otorhinolaryngologie | 3 roky | otorinolaryngológia
 
   - 7. 02 | Bulharsko / България | Ушно-носно-гърлени болести | |
 
-  - 7. 03 | Cyprus / Κύπρος | Ωτορινολαρυγγολογία | |
+  - 7. 03 | Cyprus / Κύπρος | Ωτορινολαρυγγολογία | |
 
   - 7. 04 | Česko / Česká republika | Otorinolaryngologie | |
 
@@ -446,11 +446,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 7. 06 | Estónsko / Eesti | Otorinolarüngoloogia | |
 
-  - 7. 07 | Fínsko / Suomi / Finland | Korva-, nenä- ja kurkkutaudit / öron-, näs- och halssjukdomar | |
+  - 7. 07 | Fínsko / Suomi / Finland | Korva-, nenä- ja kurkkutaudit/ Öron-, näs- och halssjukdomar | |
 
   - 7. 08 | Francúzsko / France | Oto-rhino-laryngologie | |
 
-  - 7. 09 | Grécko / Ελλάς | Ωτoρινoλαρυγγoλoγία | |
+  - 7. 09 | Grécko / Ελλάς | Ωτoριvoλαρυγγoλoγία | |
 
   - 7. 10 | Holandsko / Nederland | Keel-, neus- en oorheelkunde | |
 
@@ -476,7 +476,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 7. 21 | Rumunsko / România | Otorinolaringologie | |
 
-  - 7. 22 | Slovinsko / Slovenija | Otorinolaringologija | |
+  - 7. 22 | Slovinsko / Slovenija | Otorinolaringológija | |
 
   - 7. 23 | Španielsko / España | Otorrinolaringología | |
 
@@ -486,15 +486,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 7. 26 | Veľká Británia a Severné Írsko / United Kingdom | Otolaryngology | |
 
-  - 7. 27 | Island / Ísland | Háls, nef- og eyrnalækningar | |
+  - 7. 27 | Island / Ísland | Háls-, nef- og eyrnalækningar | |
 
   - 7. 28 | Lichtenštajnsko / Liechtenstein | Hals-, Nasen- und Ohrenkrankheiten | |
 
   - 7. 29 | Nórsko / Norge | øre-nese-halssykdommer | |
 
-  - 7. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto–Rhino–Laryngologie / oto–rhino-laryngologie / otorinolaringoiatria | |
+  - 7. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto-rhino-laryngologie Oto-rhino-laryngologie Otorinolaringoiatria | |
 
-  - 8. 01 | Belgicko / Belgique / België / Belgien | Pédiatrie / pediatrie | 4 roky | pediatria
+  - 8. 01 | Belgicko / Belgique / België / Belgien | Pédiatrie/Pediatrie | 4 roky | pediatria
 
   - 8. 02 | Bulharsko / България | Детски болести | |
 
@@ -506,7 +506,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 8. 06 | Estónsko / Eesti | Pediaatria | |
 
-  - 8. 07 | Fínsko / Suomi / Finland | Lastentaudit / barnsjukdomar | |
+  - 8. 07 | Fínsko / Suomi / Finland | Lastentaudit/Barnsjukdomar | |
 
   - 8. 08 | Francúzsko / France | Pédiatrie | |
 
@@ -526,19 +526,19 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 8. 16 | Malta / Malta | Pedjatrija | |
 
-  - 8. 17 | Nemecko / Deutschland | Kinder und Jugendmedizin | |
+  - 8. 17 | Nemecko / Deutschland | Kinder — und Jugendheilkunde | |
 
   - 8. 18 | Poľsko / Polska | Pediatria | |
 
   - 8. 19 | Portugalsko / Portugal | Pediatria | |
 
-  - 8. 20 | Rakúsko / Österreich | Kinder- und Jugendheilkunde | |
+  - 8. 20 | Rakúsko / Österreich | Kinder — und Jugendheilkunde | |
 
   - 8. 21 | Rumunsko / România | Pediatrie | |
 
   - 8. 22 | Slovinsko / Slovenija | Pediatrija | |
 
-  - 8. 23 | Španielsko / España | Pediatria y sus áreas especificas | |
+  - 8. 23 | Španielsko / España | Pediatría y sus áreas específicas | |
 
   - 8. 24 | Švédsko / Sverige | Barn- och ungdomsmedicin | |
 
@@ -552,13 +552,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 8. 29 | Nórsko / Norge | Barnesykdommer | |
 
-  - 8. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder- und Jugendmedezin / pédiatrie / pediatria | |
+  - 8. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pédiatrie Kinder- und Jugendmedizin Pediatria | |
 
   - 9. 01 | Belgicko / Belgique / België / Belgien | Pneumologie | 4 roky | pneumológia a ftizeológia
 
   - 9. 02 | Bulharsko / България | Пневмология и фтизиатрия | |
 
-  - 9. 03 | Cyprus / Κύπρος | Πνευμονολογία – Φυματιολογία | |
+  - 9. 03 | Cyprus / Κύπρος | Πνευµονολογία — Φυµατιολογία | |
 
   - 9. 04 | Česko / Česká republika | Tuberkulóza a respirační nemoci | |
 
@@ -566,11 +566,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 9. 06 | Estónsko / Eesti | Pulmonoloogia | |
 
-  - 9. 07 | Fínsko / Suomi / Finland | Keuhkosairaudet ja allergologia / lungsjukdomar och allergologi | |
+  - 9. 07 | Fínsko / Suomi / Finland | Keuhkosairaudet ja allergologia/Lungsjukdomar och allergologi | |
 
   - 9. 08 | Francúzsko / France | Pneumologie | |
 
-  - 9. 09 | Grécko / Ελλάς | Φυματιoλoγία-Πνευμoνoλoγία | |
+  - 9. 09 | Grécko / Ελλάς | Φυµατιoλoγία- Πνευµoνoλoγία | |
 
   - 9. 10 | Holandsko / Nederland | Longziekten en tuberculose | |
 
@@ -598,7 +598,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 9. 22 | Slovinsko / Slovenija | Pnevmologija | |
 
-  - 9. 23 | Španielsko / España | Neumologia | |
+  - 9. 23 | Španielsko / España | Neumología | |
 
   - 9. 24 | Švédsko / Sverige | Lungsjukdomar (pneumologi) | |
 
@@ -612,7 +612,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 9. 29 | Nórsko / Norge | Lungesykdommer | |
 
-  - 9. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pneumologie / pneumologie / pneumologia | |
+  - 9. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pneumologie Pneumologie Pneumologia | |
 
   - 10. 01 | Belgicko / Belgique / België / Belgien | Urologie | 5 rokov | urológia
 
@@ -626,7 +626,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 10. 06 | Estónsko / Eesti | Uroloogia | |
 
-  - 10. 07 | Fínsko / Suomi / Finland | Urologia / urologi | |
+  - 10. 07 | Fínsko / Suomi / Finland | Urologia/Urologi | |
 
   - 10. 08 | Francúzsko / France | Urologie | |
 
@@ -672,7 +672,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 10. 29 | Nórsko / Norge | Urologi | |
 
-  - 10. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Urologie / urologie / urologia | |
+  - 10. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Urologie Urologie Urologia | |
 
   - 11. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie orthopédique/ Orthopedische heelkunde | 5 rokov | ortopédia
 
@@ -686,7 +686,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 11. 06 | Estónsko / Eesti | Ortopeedia | |
 
-  - 11. 07 | Fínsko / Suomi / Finland | Ortopedia ja traumatologia / ortopedi och traumatologi | |
+  - 11. 07 | Fínsko / Suomi / Finland | Ortopedia ja traumatologia/Ortopedi och traumatologi | |
 
   - 11. 08 | Francúzsko / France | Chirurgie orthopédique et traumatologie | |
 
@@ -732,13 +732,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 11. 29 | Nórsko / Norge | Ortopedisk kirurgi | |
 
-  - 11. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Orthopädische Chirurgie / chirurgie orthopédique / chirurgia ortopedica | |
+  - 11. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie orthopédique et traumatologie de l'appareil locomoteur Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgia ortopedica e traumatologia del sistema motorio | |
 
-  - 12. 01 | Belgicko / Belgique/ België / Belgien | Anatomie pathologique / Pathologische anatomie | 4 roky | patologická anatómia
+  - 12. 01 | Belgicko / Belgique/ België / Belgien | Anatomie pathologique/ Pathologische anatomie | 4 roky | patologická anatómia
 
   - 12. 02 | Bulharsko / България | Обща и клинична патология | |
 
-  - 12. 03 | Cyprus / Κύπρος | Παθολογοανατομία – Ιστολογία | |
+  - 12. 03 | Cyprus / Κύπρος | Παθολογοανατοµία — Ιστολογία | |
 
   - 12. 04 | Česko / Česká republika | Patologická anatomie | |
 
@@ -746,15 +746,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 12. 06 | Estónsko / Eesti | Patoloogia | |
 
-  - 12. 07 | Fínsko / Suomi / Finland | Patologia / patologi | |
+  - 12. 07 | Fínsko / Suomi / Finland | Patologia/Patologi | |
 
   - 12. 08 | Francúzsko / France | Anatomie et cytologie pathologiques | |
 
-  - 12. 09 | Grécko / Ελλάς | Παθoλoγική Ανατoμική | |
+  - 12. 09 | Grécko / Ελλάς | Παθoλoγική Ανατoµική | |
 
   - 12. 10 | Holandsko / Nederland | Pathologie | |
 
-  - 12. 11 | Írsko / Ireland | histopathology | |
+  - 12. 11 | Írsko / Ireland | Morbid anatomy and histopathology | |
 
   - 12. 12 | Litva / Lietuva | Patologija | |
 
@@ -770,7 +770,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 12. 18 | Poľsko / Polska | Patomorfologia | |
 
-  - 12. 19 | Portugalsko / Portugal | Anatomia patológica | |
+  - 12. 19 | Portugalsko / Portugal | Anatomia patologica | |
 
   - 12. 20 | Rakúsko / Österreich | Pathologie | |
 
@@ -792,7 +792,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 12. 29 | Nórsko / Norge | Patologi | |
 
-  - 12. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pathologie / pathologie / patologia | |
+  - 12. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pathologie Pathologie Patologia | |
 
   - 13. 01 | Belgicko / Belgique / België / Belgien | Neurologie | 4 roky | neurológia
 
@@ -806,7 +806,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 13. 06 | Estónsko / Eesti | Neuroloogia | |
 
-  - 13. 07 | Fínsko / Suomi / Finland | Neurologia / neurologi | |
+  - 13. 07 | Fínsko / Suomi / Finland | Neurologia/Neurologi | |
 
   - 13. 08 | Francúzsko / France | Neurologie | |
 
@@ -852,9 +852,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 13. 29 | Nórsko / Norge | Nevrologi | |
 
-  - 13. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie / neurologie / neurologia | |
+  - 13. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie Neurologie Neurologia | |
 
-  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie | 4 roky | psychiatria
+  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie de l'adulte/Volwassen psychiatrie | 4 roky | psychiatria
 
   - 14. 02 | Bulharsko / България | Психиатрия | |
 
@@ -866,7 +866,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 14. 06 | Estónsko / Eesti | Psühhiaatria | |
 
-  - 14. 07 | Fínsko / Suomi / Finland | Psykiatria / psykiatri | |
+  - 14. 07 | Fínsko / Suomi / Finland | Psykiatria/Psykiatri | |
 
   - 14. 08 | Francúzsko / France | Psychiatrie | |
 
@@ -912,9 +912,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 14. 29 | Nórsko / Norge | Psykiatri | |
 
-  - 14. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie und Psychotherapie / psychiatrie et psychothérapie / psichiatria e psicoterapia | |
+  - 14. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie et psychothérapie Psychiatrie und Psychotherapie Psichiatria e psicoterapia | |
 
-  - 15. 01 | Belgicko / Belgique / België / Belgien | Radiodiagnostic / röntgendiagnose | 4 roky | rádiológia
+  - 15. 01 | Belgicko / Belgique / België / Belgien | Radiodiagnostic/Röntgendiagnose | 4 roky | rádiológia
 
   - 15. 02 | Bulharsko / България | Образна диагностика | |
 
@@ -926,11 +926,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 15. 06 | Estónsko / Eesti | Radioloogia | |
 
-  - 15. 07 | Fínsko / Suomi / Finland | Radiologia / radiologi | |
+  - 15. 07 | Fínsko / Suomi / Finland | Radiologia/Radiologi | |
 
   - 15. 08 | Francúzsko / France | Radiodiagnostic et imagerie médicale | |
 
-  - 15. 09 | Grécko / Ελλάς | Ακτινoδιαγνωστική | |
+  - 15. 09 | Grécko / Ελλάς | Ακτιvoδιαγvωστική | |
 
   - 15. 10 | Holandsko / Nederland | Radiologie | |
 
@@ -946,7 +946,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 15. 16 | Malta / Malta | Radjoloġija | |
 
-  - 15. 17 | Nemecko / Deutschland | Diagnostische Radiologie | |
+  - 15. 17 | Nemecko / Deutschland | (Diagnostische) Radiologie | |
 
   - 15. 18 | Poľsko / Polska | Radiologia i diagnostyka obrazowa | |
 
@@ -972,13 +972,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 15. 29 | Nórsko / Norge | Radiologi | |
 
-  - 15. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Medizinische Radiologie / Radiodiagnostik / radiologie médicale / radio–diagnostic / radiologia medica / radiodiagnostica | |
+  - 15. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radiologie Radiologie Radiologia | |
 
-  - 16. 01 | Belgicko / Belgique / België / Belgien | Radiothérapie-oncologie / radiotherapie-oncologie | 4 roky | radiačná onkológia
+  - 16. 01 | Belgicko / Belgique / België / Belgien | Radiothérapie-oncologie/Radiotherapie-oncologie | 4 roky | radiačná onkológia
 
   - 16. 02 | Bulharsko / България | Лъчелечение | |
 
-  - 16. 03 | Cyprus / Κύπρος | Ακτινοθεραπευτική | |
+  - 16. 03 | Cyprus / Κύπρος | Ακτινοθεραπευτική Ογκολογία | |
 
   - 16. 04 | Česko / Česká republika | Radiační onkologie | |
 
@@ -986,11 +986,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 16. 06 | Estónsko / Eesti | Onkoloogia | |
 
-  - 16. 07 | Fínsko / Suomi / Finland | Syöpätaudit / cancersjukdomar | |
+  - 16. 07 | Fínsko / Suomi / Finland | Syöpätaudit/Cancersjukdomar | |
 
   - 16. 08 | Francúzsko / France | Oncologie radiothérapique | |
 
-  - 16. 09 | Grécko / Ελλάς | Ακτινοθεραπευτική Ογκολογία | |
+  - 16. 09 | Grécko / Ελλάς | Ακτιvoθεραπευτική — Ογκολογία | |
 
   - 16. 10 | Holandsko / Nederland | Radiotherapie | |
 
@@ -1012,7 +1012,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 16. 19 | Portugalsko / Portugal | Radioterapia | |
 
-  - 16. 20 | Rakúsko / Österreich | Strahlentherapie / Radioonkologie | |
+  - 16. 20 | Rakúsko / Österreich | Strahlentherapie — Radioonkologie | |
 
   - 16. 21 | Rumunsko / România | Radioterapie | |
 
@@ -1030,11 +1030,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 16. 28 | Lichtenštajnsko/ Liechtenstein | Medizinische Radiologie / Radio-Onkologie | |
 
-  - 16. 29 | Nórsko / Norge | | |
+  - 16. 29 | Nórsko / Norge | - | |
 
-  - 16. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Medizinische Radiologie / Radio–Onkologie / radiologie médicale / radio–onkologie / radiologia medica / radio–oncologia | |
+  - 16. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radio-oncologie/radiothérapie Radio-Onkologie/Strahlentherapie Radio-oncologia/radioterapia | |
 
-  - 17. 01 | Belgicko / Belgique / België / Belgien | Biologie clinique / klinische biologie | 4 roky | laboratórna medicína
+  - 17. 01 | Belgicko / Belgique / België / Belgien | Biologie clinique/Klinische biologie | 4 roky | laboratórna medicína
 
   - 17. 02 | Bulharsko / България | Клинична лаборатория | |
 
@@ -1050,7 +1050,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 17. 08 | Francúzsko / France | Biologie médicale | |
 
-  - 17. 09 | Grécko / Ελλάς | - | |
+  - 17. 09 | Grécko / Ελλάς | Χειρουργική Θώρακος | |
 
   - 17. 10 | Holandsko / Nederland | - | |
 
@@ -1106,7 +1106,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 18. 06 | Estónsko / Eesti | - | |
 
-  - 18. 07 | Fínsko / Suomi / Finland | Kliininen mikrobiologia / klinisk mikrobiologi | |
+  - 18. 07 | Fínsko / Suomi / Finland | Kliininen mikrobiologia/Klinisk mikrobiologi | |
 
   - 18. 08 | Francúzsko / France | - | |
 
@@ -1146,7 +1146,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 18. 26 | Veľká Británia a Severné Írsko / United Kingdom | Medical microbiology and virology | |
 
-  - 18. 27 | Island / Ísland | Syklafræði | |
+  - 18. 27 | Island / Ísland | Sýklafræði | |
 
   - 18. 28 | Lichtenštajnsko/ Liechtenstein | - | |
 
@@ -1166,7 +1166,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 19. 06 | Estónsko / Eesti | - | |
 
-  - 19. 07 | Fínsko / Suomi / Finland | Kliininen kemia / klinisk kemi | |
+  - 19. 07 | Fínsko / Suomi / Finland | Kliininen kemia/Klinisk kemi | |
 
   - 19. 08 | Francúzsko / France | - | |
 
@@ -1192,7 +1192,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 19. 19 | Portugalsko / Portugal | - | |
 
-  - 19. 20 | Rakúsko / Österreich | Medizinische und chemische Labordiagnostik | |
+  - 19. 20 | Rakúsko / Österreich | Medizinische und Chemische Labordiagnostik | |
 
   - 19. 21 | Rumunsko / România | - | |
 
@@ -1234,7 +1234,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 20. 10 | Holandsko / Nederland | - | |
 
-  - 20. 11 | Írsko / Ireland | immunology (clinical and laboratory) | |
+  - 20. 11 | Írsko / Ireland | Immunology (clinical and laboratory) | |
 
   - 20. 12 | Litva / Lietuva | - | |
 
@@ -1272,9 +1272,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 20. 29 | Nórsko / Norge | Immunologi og transfusjonsmedisin | |
 
-  - 20. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie und klinische Immunologie / allergologie et immunologie clinique / allergologia e immunologia clinica | |
+  - 20. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | | |
 
-  - 21. 01 | Belgicko / Belgique / België / Belgien | Chirurgie plastique, reconstructrice et esthétique / plastische, reconstructieve en esthetische heelkunde | 5 rokov | plastická chirurgia
+  - 21. 01 | Belgicko / Belgique / België / Belgien | Chirurgie plastique, reconstructrice et esthétique/Plastische, reconstructieve en esthetische heelkunde | 5 rokov | plastická chirurgia
 
   - 21. 02 | Bulharsko / България | Пластично-възстановителна хирургия | |
 
@@ -1286,7 +1286,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 21. 06 | Estónsko / Eesti | Plastika- ja rekonstruktiivkirurgia | |
 
-  - 21. 07 | Fínsko / Suomi / Finland | Plastiikkakirurgia / plastikkirurgi | |
+  - 21. 07 | Fínsko / Suomi / Finland | Plastiikkakirurgia/Plastikkirurgi | |
 
   - 21. 08 | Francúzsko / France | Chirurgie plastique, reconstructrice et esthétique | |
 
@@ -1294,7 +1294,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 21. 10 | Holandsko / Nederland | Plastische chirurgie | |
 
-  - 21. 11 | Írsko / Ireland | Plastic, reconsructive and aesthetic surgery | |
+  - 21. 11 | Írsko / Ireland | Plastic, reconstructive and aesthetic surgery | |
 
   - 21. 12 | Litva / Lietuva | Plastinė ir rekonstrukcinė chirurgija | |
 
@@ -1314,7 +1314,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 21. 20 | Rakúsko / Österreich | Plastische Chirurgie | |
 
-  - 21. 21 | Rumunsko / România | Chirurgie plastică - microchirurgie reconstructivă | |
+  - 21. 21 | Rumunsko / România | Chirurgie plastică — microchirurgie reconstructivă | |
 
   - 21. 22 | Slovinsko / Slovenija | Plastična, rekonstrukcijska in estetska kirurgija | |
 
@@ -1332,9 +1332,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 21. 29 | Nórsko / Norge | Plastikkirurgi | |
 
-  - 21. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Plastische und Wiederherstellungschirurgie / chirurgie plastique et reconstructive / chirurgia plastica e ricostruttiva | |
+  - 21. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie plastique, reconstructive et esthétique Plastische, rekonstruktive und ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica | |
 
-  - 22. 01 | Belgicko / Belgique / België / Belgien | Chirurgie thoracique / heelkunde op de thorax | 5 rokov | hrudníková chirurgia
+  - 22. 01 | Belgicko / Belgique / België / Belgien | Chirurgie thoracique/Heelkunde op de thorax | 5 rokov | hrudníková chirurgia
 
   - 22. 02 | Bulharsko / България | Гръдна хирургия Кардиохирургия | |
 
@@ -1346,11 +1346,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 22. 06 | Estónsko / Eesti | Torakaalkirurgia | |
 
-  - 22. 07 | Fínsko / Suomi / Finland | Sydän-ja rintaelinkirurgia / Hjärt- och thoraxkirurgi | |
+  - 22. 07 | Fínsko / Suomi / Finland | Sydän-ja rintaelinkirurgia/Hjärt- och thoraxkirurgi | |
 
   - 22. 08 | Francúzsko / France | Chirurgie thoracique et cardiovasculaire | |
 
-  - 22. 09 | Grécko / Ελλάς | Χειρoυργική Θώρακoς | |
+  - 22. 09 | Grécko / Ελλάς | Χειρουργική Θώρακος | |
 
   - 22. 10 | Holandsko / Nederland | Cardio-thoracale chirurgie | |
 
@@ -1392,7 +1392,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 22. 29 | Nórsko / Norge | Thoraxkirurgi | |
 
-  - 22. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Herz- und thorakale Gefässchirurgie / chirurgie cardiaque et vasculaire thoracique / chirurgia del cuore e dei vasi toracici | |
+  - 22. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie cardiaque et vasculaire thoracique Herz- und thorakale Gefässchirurgie Chirurgia del cuore e dei vasi toracici | |
 
   - 23. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | detská chirurgia
 
@@ -1410,9 +1410,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 23. 08 | Francúzsko / France | Chirurgie infantile | |
 
-  - 23. 09 | Grécko / Ελλάς | Χειρoυργική Παίδων | |
+  - 23. 09 | Grécko / Ελλάς | Χειρoυργική Παίδωv | |
 
-  - 23. 10 | Holandsko / Nederland | | |
+  - 23. 10 | Holandsko / Nederland | - | |
 
   - 23. 11 | Írsko / Ireland | Paediatric surgery | |
 
@@ -1452,9 +1452,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 23. 29 | Nórsko / Norge | Barnekirurgi | |
 
-  - 23. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinderchirurgie / chirurgie pédiatrique / chirurgia pediatrica | |
+  - 23. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie pédiatrique Kinderchirurgie Chirurgia pediatrica | |
 
-  - 24. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie des vaisseaux / bloedvatenheelkunde | 5 rokov | cievna chirurgia
+  - 24. 01 | Belgicko / Belgique / België / Belgien | Chirurgie des vaisseaux/Bloedvatenheelkunde | 5 rokov | cievna chirurgia
 
   - 24. 02 | Bulharsko / България | Съдова хирургия | |
 
@@ -1466,7 +1466,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 24. 06 | Estónsko / Eesti | Kardiovaskulaarkirurgia | |
 
-  - 24. 07 | Fínsko / Suomi / Finland | Verisuonikirurgia / kärlkirurgi | |
+  - 24. 07 | Fínsko / Suomi / Finland | Verisuonikirurgia/Kärlkirurgi | |
 
   - 24. 08 | Francúzsko / France | Chirurgie vasculaire | |
 
@@ -1526,7 +1526,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 25. 06 | Estónsko / Eesti | Kardioloogia | |
 
-  - 25. 07 | Fínsko / Suomi / Finland | Kardiologia / kardiologi | |
+  - 25. 07 | Fínsko / Suomi / Finland | Kardiologia/Kardiologi | |
 
   - 25. 08 | Francúzsko / France | Pathologie cardio-vasculaire | |
 
@@ -1572,9 +1572,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 25. 29 | Nórsko / Norge | Hjertesykdommer | |
 
-  - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kardiologie / cardiologie / cardiologia | |
+  - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Cardiologie Kardiologie Cardiologia | |
 
-  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie / gastroenterologie | 4 roky | gastroenterológia
+  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie / Gastroenterologie | 4 roky | gastroenterológia
 
   - 26. 02 | Bulharsko / България | Гастроентерология | |
 
@@ -1582,15 +1582,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 26. 04 | Česko / Česká republika | Gastroenterologie | |
 
-  - 26. 05 | Dánsko / Danmark | Medicinsk gastroenterologi eller medicinske mave-tarm-sygdomme | |
+  - 26. 05 | Dánsko / Danmark | Medicinsk gastroenterologi eller medicinske mavetarmsygdomme | |
 
   - 26. 06 | Estónsko / Eesti | Gastroenteroloogia | |
 
-  - 26. 07 | Fínsko / Suomi / Finland | Gastroenterologia / gastroenterologi | |
+  - 26. 07 | Fínsko / Suomi / Finland | Gastroenterologia/Gastroenterologi | |
 
   - 26. 08 | Francúzsko / France | Gastro-entérologie et hépatologie | |
 
-  - 26. 09 | Grécko / Ελλάς | Γαστρεντερoλoγία | |
+  - 26. 09 | Grécko / Ελλάς | Γαστρεvτερoλoγία | |
 
   - 26. 10 | Holandsko / Nederland | Leer van maag-darm-leverziekten | |
 
@@ -1600,7 +1600,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 26. 13 | Lotyšsko / Latvija | Gastroenteroloģija | |
 
-  - 26. 14 | Luxembursko / Luxembourg | Gastro-entérologie | |
+  - 26. 14 | Luxembursko / Luxembourg | Gastro-enterologie | |
 
   - 26. 15 | Maďarsko / Magyarország | Gasztroenterológia | |
 
@@ -1632,13 +1632,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 26. 29 | Nórsko / Norge | Fordøyelsessykdommer | |
 
-  - 26. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastroenterologie / gastro-entérologie / gastroenterologia | |
+  - 26. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastro-entérologie Gastroenterologie Gastroenterologia | |
 
-  - 27. 01 | Belgicko / Belgique / België / Belgien | Rhumathologie / reumatologie | 4 roky | reumatológia
+  - 27. 01 | Belgicko / Belgique / België / Belgien | Rhumathologie/reumatologie | 4 roky | reumatológia
 
   - 27. 02 | Bulharsko / България | Ревматология | |
 
-  - 27. 03 | Cyprus / Κύπρος | Ρευματολογία | |
+  - 27. 03 | Cyprus / Κύπρος | Ρευµατολογία | |
 
   - 27. 04 | Česko / Česká republika | Revmatologie | |
 
@@ -1646,11 +1646,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 27. 06 | Estónsko / Eesti | Reumatoloogia | |
 
-  - 27. 07 | Fínsko / Suomi / Finland | Reumatologia / reumatologi | |
+  - 27. 07 | Fínsko / Suomi / Finland | Reumatologia/Reumatologi | |
 
-  - 27. 08 | Francúzsko / France | Rhumathologie | |
+  - 27. 08 | Francúzsko / France | Rhumatologie | |
 
-  - 27. 09 | Grécko / Ελλάς | Ρευματoλoγία | |
+  - 27. 09 | Grécko / Ελλάς | Ρευµατoλoγία | |
 
   - 27. 10 | Holandsko / Nederland | Reumatologie | |
 
@@ -1660,7 +1660,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 27. 13 | Lotyšsko / Latvija | Reimatoloģija | |
 
-  - 27. 14 | Luxembursko / Luxembourg | Rhumathologie | |
+  - 27. 14 | Luxembursko / Luxembourg | Rhumatologie | |
 
   - 27. 15 | Maďarsko / Magyarország | Reumatológia | |
 
@@ -1692,13 +1692,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 27. 29 | Nórsko / Norge | Revmatologi | |
 
-  - 27. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rheumatologie / rhumatologie / reumatologia | |
+  - 27. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rhumatologie Rheumatologie Reumatologia | |
 
   - 28. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | hematológia a transfúziológia
 
   - 28. 02 | Bulharsko / България | Трансфузионна хематология | |
 
-  - 28. 03 | Cyprus / Κύπρος | Αιματολογία | |
+  - 28. 03 | Cyprus / Κύπρος | Αιµατολογία | |
 
   - 28. 04 | Česko / Česká republika | Hematologie a transfúzní lékařství | |
 
@@ -1706,11 +1706,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 28. 06 | Estónsko / Eesti | Hematoloogia | |
 
-  - 28. 07 | Fínsko / Suomi / Finland | Kliininen hematologia / Klinisk hematologi | |
+  - 28. 07 | Fínsko / Suomi / Finland | Kliininen hematologia/Klinisk hematologi | |
 
   - 28. 08 | Francúzsko / France | - | |
 
-  - 28. 09 | Grécko / Ελλάς | Αιματoλoγία | |
+  - 28. 09 | Grécko / Ελλάς | Αιµατoλoγία | |
 
   - 28. 10 | Holandsko / Nederland | - | |
 
@@ -1752,7 +1752,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 28. 29 | Nórsko / Norge | Blodsykdommer | |
 
-  - 28. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hämatologie / hématologie / ematologia | |
+  - 28. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hématologie Hämatologie Ematologia | |
 
   - 29. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | endokrinológia
 
@@ -1766,11 +1766,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 29. 06 | Estónsko / Eesti | Endokrinoloogia | |
 
-  - 29. 07 | Fínsko / Suomi / Finland | Endokrinologia / endokrinologi | |
+  - 29. 07 | Fínsko / Suomi / Finland | Endokrinologia/Endokrinologi | |
 
   - 29. 08 | Francúzsko / France | Endocrinologie, maladies métaboliques | |
 
-  - 29. 09 | Grécko / Ελλάς | Ενδoκρινoλoγία | |
+  - 29. 09 | Grécko / Ελλάς | Εvδoκριvoλoγία | |
 
   - 29. 10 | Holandsko / Nederland | - | |
 
@@ -1812,9 +1812,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 29. 29 | Nórsko / Norge | Endokrinologi | |
 
-  - 29. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endokrinologie-Diabetologie / endocrinologie-diabétologie / endocrinologia-diabetologia | |
+  - 29. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endocrinologie-diabétologie Endokrinologie-Diabetologie Endocrinologia-diabetologia | |
 
-  - 30. 01 | Belgicko / Belgique / België / Belgien | Médecine physique et réadaptation / Fysische geneeskunde en revalidatie | 3 roky | fyziatria, balneológia a liečebná rehabilitácia
+  - 30. 01 | Belgicko / Belgique / België / Belgien | Médecine physique et réadaptation/Fysische geneeskunde en revalidatie | 3 roky | fyziatria, balneológia a liečebná rehabilitácia
 
   - 30. 02 | Bulharsko / България | Физикална и рехабилитационна медицина | |
 
@@ -1826,11 +1826,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 30. 06 | Estónsko / Eesti | Taastusravi ja füsiaatria | |
 
-  - 30. 07 | Fínsko / Suomi / Finland | Fysiatria / fysiatri | |
+  - 30. 07 | Fínsko / Suomi / Finland | Fysiatria/Fysiatri | |
 
   - 30. 08 | Francúzsko / France | Rééducation et réadaptation fonctionnelles | |
 
-  - 30. 09 | Grécko / Ελλάς | Φυσική Iατρική και πoκατάσταση | |
+  - 30. 09 | Grécko / Ελλάς | Φυσική Iατρική και Απoκατάσταση | |
 
   - 30. 10 | Holandsko / Nederland | Revalidatiegeneeskunde | |
 
@@ -1872,13 +1872,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 30. 29 | Nórsko / Norge | Fysikalsk medisin og rehabilitering | |
 
-  - 30. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Physikalische Medizin und Rehabilitation / médecine physique et réadaption / medicina fisica e riabilitazione | |
+  - 30. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine physique et réadaptation Physikalische Medizin und Rehabilitation Medicina fisica e riabilitatzione | |
 
   - 31. 01 | Belgicko / Belgique / België / Belgien | Neuropsychiatrie | 5 rokov | neuropsychiatria
 
   - 31. 02 | Bulharsko / България | - | |
 
-  - 31. 03 | Cyprus / Κύπρος | Νευρολογία – Ψυχιατρική | |
+  - 31. 03 | Cyprus / Κύπρος | Νευρολογία — Ψυχιατρική | |
 
   - 31. 04 | Česko / Česká republika | - | |
 
@@ -1890,9 +1890,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 31. 08 | Francúzsko / France | Neuropsychiatrie | |
 
-  - 31. 09 | Grécko / Ελλάς | Νευρoλoγία – Ψυχιατρική | |
+  - 31. 09 | Grécko / Ελλάς | Νευρoλoγία — Ψυχιατρική | |
 
-  - 31. 10 | Holandsko / Nederland | Zenuw- en zielsziekten | |
+  - 31. 10 | Holandsko / Nederland | Zenuw — en zielsziekten | |
 
   - 31. 11 | Írsko / Ireland | - | |
 
@@ -1922,7 +1922,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 31. 24 | Švédsko / Sverige | - | |
 
-  - 31. 25 | Taliansko / Italia | Neuropsichiatria (do 31.októbra 1999) | |
+  - 31. 25 | Taliansko / Italia | Neuropsichiatria | |
 
   - 31. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
@@ -1934,11 +1934,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 31. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
-  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie / dermato-venerologie | 3 roky | dermatovenerológia
+  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie/Dermato-venerologie | 3 roky | dermatovenerológia
 
   - 32. 02 | Bulharsko / България | Кожни и венерически болести | |
 
-  - 32. 03 | Cyprus / Κύπρος | Δερματολογία – Αφροδισιολογία | |
+  - 32. 03 | Cyprus / Κύπρος | ∆ερµατολογία — Αφροδισιολογία | |
 
   - 32. 04 | Česko / Česká republika | Dermatovenerologie | |
 
@@ -1946,11 +1946,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 32. 06 | Estónsko / Eesti | Dermatoveneroloogia | |
 
-  - 32. 07 | Fínsko / Suomi / Finland | Ihotaudit ja allergologia / hudsjukdomar och allergologi | |
+  - 32. 07 | Fínsko / Suomi / Finland | Ihotaudit ja allergologia/Hudsjukdomar och allergologi | |
 
   - 32. 08 | Francúzsko / France | Dermatologie et vénéréologie | |
 
-  - 32. 09 | Grécko / Ελλάς | Δερματoλoγία – Αφρoδισιoλoγία | |
+  - 32. 09 | Grécko / Ελλάς | ∆ερµατoλoγία — Αφρoδισιoλoγία | |
 
   - 32. 10 | Holandsko / Nederland | Dermatologie en venerologie | |
 
@@ -1988,11 +1988,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 32. 27 | Island / Ísland | Húð – og kynsjúkdómalækningar | |
 
-  - 32. 28 | Lichtenštajnsko/ Liechtenstein | Dermatologie und Venerologie | |
+  - 32. 28 | Lichtenštajnsko/ Liechtenstein | Dermatologie und Venereologie | |
 
   - 32. 29 | Nórsko / Norge | Hudsykdommer og veneriske sykdommer | |
 
-  - 32. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie und Venerologie / dermatologie et vénéréologie / dermatologia e venerologia | |
+  - 32. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venereologia | |
 
   - 33. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | tropická medicína
 
@@ -2052,9 +2052,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 33. 29 | Nórsko / Norge | - | |
 
-  - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Tropenmedezin / médecine tropicale / medicina tropicale | |
+  - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine tropicale et médecine des voyages Tropen- und Reisemedizin Medicina tropicale e medicina di viaggio | |
 
-  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie infantojunvénile/ Kinder en Jeugdpsychiatrie | 4 roky | detská psychiatria
+  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie infanto-juvénile/Kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
 
   - 34. 02 | Bulharsko / България | Детска психиатрия | |
 
@@ -2066,7 +2066,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 34. 06 | Estónsko / Eesti | - | |
 
-  - 34. 07 | Fínsko / Suomi / Finland | Lastenpsykiatria / barnpsykiatri | |
+  - 34. 07 | Fínsko / Suomi / Finland | Lastenpsykiatria/Barnpsykiatri | |
 
   - 34. 08 | Francúzsko / France | Pédo-psychiatrie | |
 
@@ -2082,11 +2082,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 34. 14 | Luxembursko / Luxembourg | Psychiatrie infantile | |
 
-  - 34. 15 | Maďarsko / Magyarország | Gyermek- és ifjúságpszichiátria | |
+  - 34. 15 | Maďarsko / Magyarország | Gyermek-és ifjúságpszichiátria | |
 
   - 34. 16 | Malta / Malta | - | |
 
-  - 34. 17 | Nemecko / Deutschland | Kinder- und Jugendpsychiatrie und –psychotherapie | |
+  - 34. 17 | Nemecko / Deutschland | Kinder- und Jugendpsychiatrie und -psychotherapie | |
 
   - 34. 18 | Poľsko / Polska | Psychiatria dzieci i młodzieży | |
 
@@ -2112,9 +2112,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 34. 29 | Nórsko / Norge | Barne – og ungdomspsykiatri | |
 
-  - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder– und Jugendpsychiatrie und –psychotherapie / psychiatrie et psychothérapie d'enfants et d'adolescents / psichiatria e psicoterapia infantile e dell'adolescenza | |
+  - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie et psychothérapie d’enfants et d’adolescents Kinder- und Jugendpsychiatrie und -psychotherapie Psichiatria e psicoterapia infantile e dell’adolescenza | |
 
-  - 35. 01 | Belgicko / Belgique / België / Belgien | | 4 roky | geriatria
+  - 35. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | geriatria
 
   - 35. 02 | Bulharsko / България | Гериатрична медицина | |
 
@@ -2126,7 +2126,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 35. 06 | Estónsko / Eesti | - | |
 
-  - 35. 07 | Fínsko / Suomi / Finland | Geriatria / geriatri | |
+  - 35. 07 | Fínsko / Suomi / Finland | Geriatria/Geriatri | |
 
   - 35. 08 | Francúzsko / France | - | |
 
@@ -2186,7 +2186,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 36. 06 | Estónsko / Eesti | Nefroloogia | |
 
-  - 36. 07 | Fínsko / Suomi / Finland | Nefrologia / nefrologi | |
+  - 36. 07 | Fínsko / Suomi / Finland | Nefrologia/Nefrologi | |
 
   - 36. 08 | Francúzsko / France | Néphrologie | |
 
@@ -2226,19 +2226,19 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 36. 26 | Veľká Británia a Severné Írsko / United Kingdom | Renal medicine | |
 
-  - 36. 27 | Island / Ísland | Nyrnalækningar | |
+  - 36. 27 | Island / Ísland | Nýrnalækningar | |
 
   - 36. 28 | Lichtenštajnsko/ Liechtenstein | Nephrologie | |
 
   - 36. 29 | Nórsko / Norge | Nyresykdommer | |
 
-  - 36. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Nephrologie / néphrologie / nefralogia | |
+  - 36. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Néphrologie Nephrologie Nefralogia | |
 
   - 37. 01 | Belgicko / Belgique/ België / Belgien | - | 4 roky | infektológia
 
   - 37. 02 | Bulharsko / България | Инфекциозни болести | |
 
-  - 37. 03 | Cyprus / Κύπρος | Λοιμώδη Νοσήματα | |
+  - 37. 03 | Cyprus / Κύπρος | Λοιµώδη Νοσήµατα | |
 
   - 37. 04 | Česko / Česká republika | Infekční lékařství | |
 
@@ -2246,7 +2246,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 37. 06 | Estónsko / Eesti | Infektsioonhaigused | |
 
-  - 37. 07 | Fínsko / Suomi / Finland | Infektiosairaudet / infektionssjukdomar | |
+  - 37. 07 | Fínsko / Suomi / Finland | Infektiosairaudet/Infektionssjukdomar | |
 
   - 37. 08 | Francúzsko / France | - | |
 
@@ -2288,7 +2288,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 37. 27 | Island / Ísland | Smitsjúkdómar | |
 
-  - 37. 28 | Lichtenštajnsko/ Liechtenstein | Infektologie | |
+  - 37. 28 | Lichtenštajnsko/ Liechtenstein | Infektiologie | |
 
   - 37. 29 | Nórsko / Norge | Infeksjonssykdommer | |
 
@@ -2296,9 +2296,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 38. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | verejné zdravotníctvo
 
-  - 38. 02 | Bulharsko / България | Социална медицина и здравен мениджмънт Комунална хигиена | |
+  - 38. 02 | Bulharsko / България | Социална медицина и здравен мениджмънт комунална хигиена | |
 
-  - 38. 03 | Cyprus / Κύπρος | Υγειονολογία/ Κοινοτική Ιατρική | |
+  - 38. 03 | Cyprus / Κύπρος | Υγειονολογία/Κοινοτική Ιατρική | |
 
   - 38. 04 | Česko / Česká republika | Hygiena a epidemiologie | |
 
@@ -2306,7 +2306,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 38. 06 | Estónsko / Eesti | - | |
 
-  - 38. 07 | Fínsko / Suomi / Finland | Terveydenhuolto / hälsovård | |
+  - 38. 07 | Fínsko / Suomi / Finland | Terveydenhuolto/Hälsovård | |
 
   - 38. 08 | Francúzsko / France | Santé publique et médecine sociale | |
 
@@ -2352,7 +2352,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 38. 29 | Nórsko / Norge | Samfunnsmedisin | |
 
-  - 38. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prävention und Gesundheitswesen / prévention et santé publique / prevenzione e salute pubblica | |
+  - 38. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prévention et santé publique Prävention und Gesundheitswesen Prevenzione e salute pubblica | |
 
   - 39. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická farmakológia
 
@@ -2366,7 +2366,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 39. 06 | Estónsko / Eesti | - | |
 
-  - 39. 07 | Fínsko / Suomi / Finland | Kliininen farmakologia ja lääkehoito / klinisk farmakologi och läkemedelsbehandling | |
+  - 39. 07 | Fínsko / Suomi / Finland | Kliininen farmakologia ja lääkehoito/Klinisk farmakologi och läkemedelsbehandling | |
 
   - 39. 08 | Francúzsko / France | - | |
 
@@ -2412,9 +2412,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 39. 29 | Nórsko / Norge | Klinisk farmakologi | |
 
-  - 39. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 39. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pharmacologie clinique et toxicologie Klinische Pharmakologie und Toxikologie Farmacologia clinica e tossicologia | |
 
-  - 40. 01 | Belgicko / Belgique / België / Belgien | Médecine du travail / arbeidsgeneeskunde | 4 roky | pracovné lekárstvo
+  - 40. 01 | Belgicko / Belgique / België / Belgien | Médecine du travail/Arbeidsgeneeskunde | 4 roky | pracovné lekárstvo
 
   - 40. 02 | Bulharsko / България | Трудова медицина | |
 
@@ -2426,11 +2426,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 40. 06 | Estónsko / Eesti | - | |
 
-  - 40. 07 | Fínsko / Suomi / Finland | Työterveyshuolto / företagshälsovård | |
+  - 40. 07 | Fínsko / Suomi / Finland | Työterveyshuolto/Företagshälsovård | |
 
   - 40. 08 | Francúzsko / France | Médecine du travail | |
 
-  - 40. 09 | Grécko / Ελλάς | Iατρική της Εργασίας | |
+  - 40. 09 | Grécko / Ελλάς | Iατρική thς Εργασίας | |
 
   - 40. 10 | Holandsko / Nederland | Arbeid en gezondheid, bedrijfsgeneeskunde Arbeid en gezondheid, verzekeringsgeneeskunde | |
 
@@ -2472,13 +2472,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 40. 29 | Nórsko / Norge | Arbeidsmedisin | |
 
-  - 40. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Arbeitsmedizin / médecine du travail / medicina del lavoro | |
+  - 40. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine du travail Arbeitsmedizin Medicina del lavoro | |
 
   - 41. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | klinická imunológia a alergológia
 
   - 41. 02 | Bulharsko / България | Клинична алергология | |
 
-  - 41. 03 | Cyprus / Κύπρος | Αλλεργιολογί α | |
+  - 41. 03 | Cyprus / Κύπρος | Αλλεργιολογία | |
 
   - 41. 04 | Česko / Česká republika | Alergologie a klinická imunologie | |
 
@@ -2486,7 +2486,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 41. 06 | Estónsko / Eesti | - | |
 
-  - 41. 07 | Fínsko / Suomi / Finland | | |
+  - 41. 07 | Fínsko / Suomi / Finland | - | |
 
   - 41. 08 | Francúzsko / France | - | |
 
@@ -2530,11 +2530,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 41. 28 | Lichtenštajnsko/ Liechtenstein | Allergologie und klinische Immunologie | |
 
-  - 41. 29 | Nórsko / Norge | | |
+  - 41. 29 | Nórsko / Norge | - | |
 
-  - 41. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie und klinische Immunologie / allergologie et immunologie clinique / allergologia e immunologia clinica | |
+  - 41. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie et immunologie clinique Allergologie und klinische Immunologie Allergologia e immunologia clinica | |
 
-  - 42. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie abdominale / heelkunde op het abdomen | 5 rokov | gastroenterologická chirurgia
+  - 42. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie abdominale/Heelkunde op het abdomen | 5 rokov | gastroenterologická chirurgia
 
   - 42. 02 | Bulharsko / България | - | |
 
@@ -2542,11 +2542,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 42. 04 | Česko / Česká republika | - | |
 
-  - 42. 05 | Dánsko / Danmark | Kirurgisk gastroenterologi eller kirurgiske mave-tarm-sygdomme | |
+  - 42. 05 | Dánsko / Danmark | Kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme | |
 
   - 42. 06 | Estónsko / Eesti | - | |
 
-  - 42. 07 | Fínsko / Suomi / Finland | Gastroenterologinen kirurgia / gastroenterologisk kirurgi | |
+  - 42. 07 | Fínsko / Suomi / Finland | Gastroenterologinen kirurgia/Gastroenterologisk kirurgi | |
 
   - 42. 08 | Francúzsko / France | Chirurgie viscérale et digestive | |
 
@@ -2582,7 +2582,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 42. 24 | Švédsko / Sverige | - | |
 
-  - 42. 25 | Taliansko / Italia | Chirurgia dell'aparato digestivo | |
+  - 42. 25 | Taliansko / Italia | Chirurgia dell'aparato digerente | |
 
   - 42. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
@@ -2590,11 +2590,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 42. 28 | Lichtenštajnsko/ Liechtenstein | - | |
 
-  - 42. 29 | Nórsko / Norge | - | |
+  - 42. 29 | Nórsko / Norge | Gastroenterologisk kirurgi | |
 
   - 42. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
-  - 42. 01 | Belgicko / Belgique/ België / Belgien | Médecine nucléaire / nucleaire geneeskunde | 4 roky | nukleárna medicína
+  - 43. 01 | Belgicko / Belgique/ België / Belgien | Médecine nucléaire/Nucleaire geneeskunde | 4 roky | nukleárna medicína
 
   - 43. 02 | Bulharsko / България | Нуклеарна медицина | |
 
@@ -2606,11 +2606,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 43. 06 | Estónsko / Eesti | - | |
 
-  - 43. 07 | Fínsko / Suomi / Finland | Kliininen fysiologia ja isotooppilääketiede / klinisk fysiologi och nukleärmedicin | |
+  - 43. 07 | Fínsko / Suomi / Finland | Kliininen fysiologia ja isotooppilääketiede/Klinisk fysiologi och nukleärmedicin | |
 
   - 43. 08 | Francúzsko / France | Médecine nucléaire | |
 
-  - 43. 09 | Grécko / Ελλάς | Πυρηνική Iατρική | |
+  - 43. 09 | Grécko / Ελλάς | Πυρηvική Iατρική | |
 
   - 43. 10 | Holandsko / Nederland | Nucleaire geneeskunde | |
 
@@ -2626,7 +2626,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 43. 16 | Malta / Malta | Mediċina Nukleari | |
 
-  - 43. 17 | Nemecko / Deutschland | Nuklerarmedizin | |
+  - 43. 17 | Nemecko / Deutschland | Nuklearmedizin | |
 
   - 43. 18 | Poľsko / Polska | Medycyna nuklearna | |
 
@@ -2652,7 +2652,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 43. 29 | Nórsko / Norge | Nukleærmedisin | |
 
-  - 43. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Medizinische Radiologie / Nuklearmedizin / radiologie médicale / médecine nucléaire / radiologia medica / medicina nucleare | |
+  - 43. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine nucléaire Nuklearmedizin Medicina nucleare | |
 
   - 44. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | úrazová chirurgia urgentná medicína
 
@@ -2752,7 +2752,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 45. 19 | Portugalsko / Portugal | Cirurgia maxilo-facial | |
 
-  - 45. 20 | Rakúsko / Österreich | Mund-, Kiefer- und Gesichtschirurgie | |
+  - 45. 20 | Rakúsko / Österreich | Mund- Kiefer- und Gesichtschirurgie | |
 
   - 45. 21 | Rumunsko / România | - | |
 
@@ -2768,109 +2768,175 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 45. 27 | Island / Ísland | - | |
 
-  - 45. 28 | Lichtenštajnsko/ Liechtenstein | | |
+  - 45. 28 | Lichtenštajnsko/ Liechtenstein | - | |
 
   - 45. 29 | Nórsko / Norge | - | |
 
-  - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie maxillo-faciale Kiefer- und Gesichtschirurgie Chirurgia mascello-facciale | |
 
-    - b) ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár sa uzná aj
+    - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár sa uzná aj
 
       - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
 
-        - 1.1 20. decembrom 1976 v Nemecku, Dánsku, Francúzsku, Írsku, Taliansku, Luxembursku, Holandsku, Belgicku a vo Veľkej Británii,
+        - 1.1. 20. decembrom 1976 v Nemecku, Dánsku, Francúzsku, Írsku, Taliansku, Luxembursku, Holandsku, Belgicku a vo Veľkej Británii,
 
-        - 1.2 1. januárom 1981 v Grécku,
+        - 1.2. 1. januárom 1981 v Grécku,
 
-        - 1.3 1. januárom 1986 v Španielsku alebo v Portugalsku,
+        - 1.3. 1. januárom 1986 v Španielsku alebo v Portugalsku,
 
-        - 1.4 1. januárom 1994 v Nórsku a na Islande,
+        - 1.4. 1. januárom 1994 v Nórsku a na Islande, v Rakúsku, vo Fínsku a vo Švédsku,
 
-        - 1.5 1. januárom 1994 v Rakúsku, Fínsku a vo Švédsku,
+        - 1.5. 1. májom 1995 v Lichtenštajnsku,
 
-        - 1.6 1. májom 1995 v Lichtenštajnsku,
+        - 1.6. 1. júnom 2002 vo Švajčiarsku,
 
-        - 1.7 1. júnom 2002 vo Švajčiarsku,
+        - 1.7. 1. májom 2004 v Česku, Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte a Cypre,
 
-        - 1.8 1. májom 2004 v Česku, Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte a Cypre,
+        - 1.8. 1. januárom 2007 v Bulharsku a Rumunsku;
 
-        - 1.9 1. januárom 2007 v Bulharsku a Rumunsku.
+        - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
-        - Ministerstvo zdravotníctva môže požadovať, aby takýto doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, ktorý potvrdzuje, že osoba bola v špecializačnej príprave v čase, ktorý je ekvivalentný dvojnásobku rozdielu medzi dĺžkou trvania špecializačnej prípravy v príslušnom členskom štáte a dĺžkou špecializačnej prípravy pre príslušný špecializačný odbor uvedenej v tabuľke. Ak však Slovenská republika pre špecializačnú prípravu v danom špecializačnom odbore vyžaduje kratšie obdobie, ako je uvedené v tabuľke, uvedený rozdiel možno určiť len so zreteľom na minimálne obdobie v príslušnom členskom štáte,
+      - 2. doklad vydaný v Španielsku pred 1. januárom 1995, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ak je doplnený o osvedčenie vydané príslušným orgánom Španielska, ktorým sa potvrdzuje, že osoba vykonala špecializačnú skúšku podľa osobitného predpisu č. 1497/99 s cieľom overiť úroveň vedomostí a spôsobilostí príslušnej osoby, ktorá má byť porovnateľná s vedomosťami lekárov s rovnakou kvalifikáciou získanou v Španielsku po 1. januári 1995,
 
-      - 2. doklad vydaný v Španielsku pred 1. januárom 1995, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ak je doplnený o osvedčenie vydané príslušnými španielskymi orgánmi, ktorým sa potvrdzuje, že osoba vykonala špecializačnú skúšku podľa osobitného predpisu č. 1497/99 s cieľom overenia úrovne vedomostí a spôsobilostí príslušnej osoby, ktorá má byť porovnateľná s vedomosťami lekárov s rovnakou kvalifikáciou získanou v Španielsku po tomto dátume,
+      - 3. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred 3. aprílom 1992 a oprávňuje osobu vykonávať činnosť v príslušnom špecializačnom odbore na celom území Spolkovej republiky Nemecko za rovnakých podmienok ako na základe dokladov o špecializáciách uvedených v tabuľke, vydaných príslušnými orgánmi v Spolkovej republike Nemecko. Ministerstvo zdravotníctva môže vyžadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
-      - 3. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred 3. aprílom 1992 a oprávňuje osobu vykonávať činnosť v príslušnom špecializačnom odbore na celom území Spolkovej republiky Nemecko za rovnakých podmienok ako na základe dokladov o špecializáciách uvedených v tabuľke vydaných príslušnými orgánmi v Spolkovej republike Nemecko. Ministerstvo zdravotníctva môže vyžadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa uvádza, že osoba vykonávala činnosť v príslušnom špecializačnom odbore v čase rovnajúcom sa dvojnásobku rozdielu medzi dĺžkou obdobia špecializačnej prípravy získanej na území Nemecka a najmenšou dĺžkou trvania prípravy uvedenej v tabuľke,
+      - 4. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Československa pred 1. januárom 1993, ak príslušný orgán Česka potvrdil, že táto odborná spôsobilosť má na území Česka rovnakú platnosť ako odborná spôsobilosť získaná v Česku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Česka, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Česka vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Česka najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 4. taký diplom udelený príslušnými orgánmi členských štátov, v ktorom príslušný členský štát už zastavil realizáciu špecializačnej prípravy, ale spĺňa podmienky uvedené v tabuľke, a to takto:
+      - 5. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 20. augustom 1991, ak príslušný orgán Estónska potvrdil, že táto odborná spôsobilosť má na území Estónska rovnakú platnosť ako odborná spôsobilosť získaná v Estónsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Estónska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Estónska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Estónska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-        - 4.1 diplom o špecializácii vydaný v Belgicku na odbor hrudná chirurgia pred 1. januárom 1983, na odbor cievna chirurgia pred 1. januárom 1983, na odbor neuropsychiatria pred 1. augustom 1987 okrem osôb, ktoré začali výcvik pred týmto dátumom, a na odbor gastroenterologická chirurgia vydaný pred 1. januárom 1983,
+      - 6. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 21. augustom 1991, ak príslušný orgán Lotyšska potvrdil, že táto odborná spôsobilosť má na území Lotyšska rovnakú platnosť ako odborná spôsobilosť získaná v Lotyšsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Lotyšska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Lotyšska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Lotyšska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-        - 4.2 diplom o špecializácii vydaný v Dánsku na odbor biologická hematológia pred 1. januárom 1983 okrem osôb, ktoré začali výcvik pred týmto dátumom a dokončili ho pred koncom roka 1988, na odbor fyzioterapia pred 1. januárom 1983 okrem osôb, ktoré začali výcvik pred týmto dátumom a dokončili ho pred koncom roka 1988, a na odbor tropická medicína pred 1. augustom 1987 okrem osôb, ktoré začali výcvik pred týmto dátumom,
+      - 7. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 11. marcom 1990, ak príslušný orgán Litvy potvrdil, že táto odborná spôsobilosť má na území Litvy rovnakú platnosť ako odborná spôsobilosť získaná v Litve, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Litvy, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Litvy vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Litvy najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-        - 4.3 diplom o špecializácii vydaný vo Francúzsku na odbor rádiológia pred 3. decembrom 1971 a na odbor neuropsychiatria pred 31. decembrom 1971,
+      - 8. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-        - 4.4 diplom alebo iný doklad o špecializácii vydaný v Luxembursku na odbor rádiológia alebo odbor neuropsychiatria pred 5. marcom 1982,
+      - 9. taký doklad udelený príslušnými orgánmi členských štátov, v ktorom príslušný členský štát už zastavil realizáciu špecializačnej prípravy, ale spĺňa podmienky uvedené v tabuľke, a to takto:
 
-        - 4.5 diplom o špecializácii vydaný v Holandsku na odbor rádiológia pred 8. júlom 1984 a na odbor neuropsychiatria pred 9. júlom 1984,
+        - 9.1. doklad vydaný v Belgicku v odbore hrudná chirurgia pred 1. januárom 1983, v odbore cievna chirurgia pred 1. januárom 1983, v odbore neuropsychiatria pred 1. augustom 1987 okrem osôb, ktoré začali výcvik pred 1. augustom 1987, a v odbore gastroenterologická chirurgia vydaný pred 1. januárom 1983,
 
-      - 5. diplom o špecializácii v kategórii lekár vydaný v Luxembursku podľa luxemburského zákona z roku 1939; vydanie dokladu o špecializácii sa podmieňuje preukázaním diplomu doktora medicíny, chirurgie a pôrodníctva vydaného Štátnou skúšobnou komisiou v Luxembursku. Tento diplom môže byť udelený len osobe, ktorá začala štúdium pred 20. decembrom 1976,
+        - 9. 2. doklad vydaný vo Francúzsku v odbore neuropsychiatria pred 31. decembrom 1971,
 
-      - 6. diplom o špecializácii v kategórii lekár v odbore všeobecné lekárstvo vydaný v Dánsku podľa osobitného predpisu a udeľovaný lekárskou fakultou niektorej dánskej univerzity v súlade s osobitným predpisom zo 14. mája 1970; vydanie dokladu o špecializácii sa podmieňuje preukázaním diplomu udeleného lekárskou fakultou niektorej dánskej univerzity; tento diplom môže byť udelený len osobe, ktorá začala štúdium pred 20. decembrom 1976,
+        - 9. 3. doklad vydaný v Luxembursku v odbore neuropsychiatria pred 5. marcom 1982,
 
-      - 7. diplom o špecializácii v kategórii lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Československa pred 1. januárom 1993, ak príslušný orgán Českej republiky potvrdil, že táto odborná spôsobilosť má na území Českej republiky rovnakú platnosť ako odborná spôsobilosť získaná v Českej republike uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Českej republiky, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Českej republiky vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Českej republiky najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+        - 9. 4. doklad vydaný v Holandsku v odbore neuropsychiatria pred 9. júlom 1984,
 
-      - 8. diplom o špecializácii v kategórii lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 20. augustom 1991, ak príslušný orgán Estónska potvrdil, že táto odborná spôsobilosť má na území Estónska rovnakú platnosť ako odborná spôsobilosť získaná v Estónsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Estónska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Estónska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Estónska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+        - 9. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999.
 
-      - 9. diplom o špecializácii v kategórii lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 21. augustom 1991, ak príslušný orgán Lotyšska potvrdil, že táto odborná spôsobilosť má na území Lotyšska rovnakú platnosť ako odborná spôsobilosť získaná v Lotyšsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Lotyšska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Lotyšska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Lotyšska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+    - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
-      - 10. diplom o špecializácii v kategórii lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 11. marcom 1990, ak príslušný orgán Litvy potvrdil, že táto odborná spôsobilosť má na území Litvy rovnakú platnosť ako odborná spôsobilosť získaná v Litve uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Litvy, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Litvy vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Litvy najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+    - Tabuľka č. 3
 
-      - 11. diplom o špecializácii v kategórii lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+  - P. č. | Krajina | Názov dokladu | Profesijný titul
 
-    - c) Ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár sa podľa tohto zákona neuznáva kvalifikácia felčiar![obrazok 001](../assets/16fb4b6c29ed8f9fdcc82735a14927030a4e1acae65892780f0669d18fd7a967.jpg) získaná v Bulharsku pred 31. decembrom 1999.
+  - 1 | Belgicko / Belgique / België / Belgien | Ministerieel erkenningsbesluit van huisarts / Arrêté ministériel d'agrément de médecin généraliste | Huisarts / Médecin généraliste
+
+  - 2 | Bulharsko / България | Свидетелство за призната спец- иалност по Обща медицина | Лекар-специалист по Обща медицина
+
+  - 3 | Cyprus / Κύπρος | Τίτλος Ειδικότητας Γενικής Ιατρικής | Ιατρός Γενικής Ιατρικής
+
+  - 4 | Česko / Česká republika | Diplom o specializaci „všeobecné lékařství“ | Všeobecný lékař
+
+  - 5 | Dánsko / Danmark | Tilladelse til at anvende betegnelsen alment praktiserende læge / Speciallæge i almen medicin | Alment praktiserende læge / Speciallæge I almen medicin
+
+  - 6 | Estónsko / Eesti | Diplom peremeditsiini erialal | Perearst
+
+  - 7 | Fínsko / Suomi / Finland | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta / Bevis om tilläggsutbildning av läkare i primärvård | Yleislääkäri / Allmänläkare
+
+  - 8 | Francúzsko / France | Diplôme d'Etat de docteur en médecine (avec document annexé attestant la formation spécifique en médecine générale) | Médecin qualifié en médecine générale
+
+  - 9 | Grécko / Ελλάς | Tίτλος ιατρικής ειδικότητας γενικής ιατρικής | Іατρός µε ειδικότητα γενικής ιατρικής
+
+  - 10 | Holandsko / Nederland | Certificaat van inschrijving in het register van erkende huisartsen van de Koninklijke Nederlandsche Maatschappij tot bevordering der geneeskunst | Huisarts
+
+  - 11 | Írsko / Ireland | Certificate of specific qualifications in general medical Praktice | General medical practitioner
+
+  - 12 | Litva / Lietuva | Šeimos gydytojo rezidentūros pažymėjimas | Šeimos medicinos gydytojas
+
+  - 13 | Lotyšsko / Latvija | Ăimenes ārsta sertifikāts | Ăimenes (vispārējās prakses) ārsts
+
+  - 14 | Luxembursko / Luxembourg | Diplôme de formation spécifique en medicine générale | Médecin généraliste
+
+  - 15 | Maďarsko / Magyarország | Háziorvostan szakorvosa bizonyítvány | Háziorvostan szakorvosa
+
+  - 16 | Malta / Malta | Tabib tal-familja | Mediëina tal-familja
+
+  - 17 | Nemecko / Deutschland | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin | Facharzt/Fachärztin für Allgemeinmedizin
+
+  - 18 | Poľsko / Polska | Diplôme: Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej | Specjalista w dziedzinie medycyny rodzinnej
+
+  - 19 | Portugalsko / Portugal | Diploma do internato complementar de clínica geral | Assistente de clínica geral
+
+  - 20 | Rakúsko / Österreich | Arzt für Allgemeinmedizin | Arzt für Allgemeinmedizin
+
+  - 21 | Rumunsko / România | Certificat de medic specialist medicină de familie | Medic specialist medicină de familie
+
+  - 22 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicine | Specialist družinske medicine/ Specialistka družinske medicine
+
+  - 23 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Especialista en medicina familiar y comunitaria
+
+  - 24 | Švédsko / Sverige | Bevis om kompetens som allmänpraktiserande läkare (Europaläkare) utfärdat av Socialstyrelsen | Allmänpraktiserande läkare (Europaläkare)
+
+  - 25 | Taliansko / Italia | Attestato di formazione specifica in medicina generale | Medico di medicina generale
+
+  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of prescribed/equivalent experience | General medical practitioner
+
+  - 27 | Island / Ísland | - | -
+
+  - 28 | Lichtenštajnsko / Liechtenstein | - | -
+
+  - 29 | Nórsko / Norge | - | -
+
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme de médecin praticien Diplom als praktischer Arzt/praktische Ärztin Diploma di medico generico | Médecin praticien Praktischer Arzt/praktische Ärztin Medico generico
+
+    - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v kategórii lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
+
+      - 1. 31. decembrom 1994 v Belgicku, Dánsku, Nemecku, Grécku, Španielsku, Francúzsku, Írsku, Taliansku, Luxembursku, Holandsku, Rakúsku, Portugalsku, vo Fínsku, Švédsku, Veľkej Británii,
+
+      - 2. 1. júnom 2002 vo Švajčiarsku,
+
+      - 3. 1. májom 2004 v Česku, Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte, Cypre a
+
+      - 4. 1. januárom 2007 v Bulharsku, Rumunsku.
 
   - B. Uznávanie diplomov o špecializácii v kategórii zubný lekár
 
-    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov kvalifikácie uvedenej v tabuľke č. 1, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore čeľustná ortopédia,
-
-    - b) diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov kvalifikácie uvedenej v tabuľke č. 2, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia,
+    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore čeľustná ortopédia:
 
     - Tabuľka č. 1
 
-  - p. č. | Krajina | Názov kvalifikácie | Udeľujúci orgán
+  - P. č. | Krajina | Názov dokladu | Udeľujúci orgán
 
-  - 1 | Belgicko / Belgique / België / Belgien | - | -
+  - 1 | Belgicko / Belgique / België / Belgien | Titre professionnel particulier de dentiste spécialiste en orthodontie/Bijzondere beroepstitel van tandarts specialist in de orthodontie | Ministre de la Santé publique/Minister bevoegd voor Volksgezondheid
 
-  - 2 | Bulharsko / България | Свидетелство за призната специалност по "Ортодонтия" | Факултет по дентална медицина към Медицински университет
+  - 2 | Bulharsko / България | Свидетелство за призната спец- иалност по “Ортодонтия” | Факултет по дентална медицина към Медицински университет
 
-  - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Ορθοδοντική | Οδοντιατρικό Συμβούλιο
+  - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδον- τιάτρου στην Ορθοδοντική | Οδοντιατρικό Συµβούλιο
 
   - 4 | Česko / Česká republika | - | -
 
-  - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som special- tandlæge i ortodonti | Sundhedsstyrelsen
+  - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som specialtandlæge i ortodonti | Sundhedsstyrelsen
 
   - 6 | Estónsko / Eesti | Residentuuri lõputunnistus ortodontia erialal | Tartu Ülikool
 
-  - 7 | Fínsko / Suomi / Finland | Erikoishammaslääkärin tutkinto, hampaiston oikomishoito / specialtandläkarexamen, tandreglering | 1. Helsingin yliopisto / Helsingfors universitet 2. Oulun yliopisto 3. Turun yliopisto
+  - 7 | Fínsko / Suomi / Finland | Erikoishammaslääkärin tutkinto, hampaiston oikomishoito/Specialtand-läkarexamen, tandreglering | — Helsingin yliopisto/Helsingfors universitet — Oulun yliopisto — Turun yliopisto
 
   - 8 | Francúzsko / France | Titre de spécialiste en orthodontie | Conseil National de l'Ordre des chirurgiens dentistes
 
-  - 9 | Grécko / Ελλάς | Τίτλος, Οδοντιατρικής ειδικότητας της ΟρJαδοωτικής | 1) Νομαρχιακή Αυτοδιοίκηση 2) Νομαρχία
+  - 9 | Grécko / Ελλάς | Τίτλoς Οδovτιατρικής ειδικότητας της Ορθoδov- τικής | — Νoµαρχιακή Αυτoδιoίκηση — Νoµαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving als orthodontist in het Specia- listenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving als orthodontist in het Specialistenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
 
   - 11 | Írsko / Ireland | Certificate of specialist dentist in orthodontics | Competent authority recognised for this purpose by the competent minister
 
   - 12 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo ortodonto profesinę kvalifikaciją | Universitetas
 
-  - 13 | Lotyšsko / Latvija | „Sertifikāāts“ – kompetentas iestāādes izsniegts dokuments, kas apliecina, ka persona ir nokāārtojusi sertifikāācijas eksāāmenu ortodontijāā | Latvijas Ārstu biedrība
+  - 13 | Lotyšsko / Latvija | ‘Sertifikāts’— kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu ortodontijā | Latvijas Ārstu biedrība
 
   - 14 | Luxembursko / Luxembourg | - | -
 
   - 15 | Maďarsko / Magyarország | Fogszabályozás szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
 
-  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fl-Ortodonzja | Kumitat ta' Approvazzjoni dwar Specjalisti
+  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fl-Ortodonzja | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
   - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Kieferorthopädie | Landeszahnärztekammer
 
@@ -2888,41 +2954,73 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 24 | Švédsko / Sverige | Bevis om specialistkompetens i tandreglering | Socialstyrelsen
 
-  - 25 | Taliansko / Italia | - | -
+  - 25 | Taliansko / Italia | Diploma di specialista in Ortognatodonzia | Università
 
   - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training in orthodontics | Competent authority recognised for this purpose
 
-  - 27 | Island / Ísland | |
+  - 27 | Island / Ísland | - | -
 
   - 28 | Lichtenštajnsko / Lichtenstein | - | -
 
-  - 29 | Nórsko / Norge | Bevis for gjennomgàtt spesialistutdanning ikjeveortopedi | Univerzitná fakulta zubného lekárstva
+  - 29 | Nórsko / Norge | Bevis for gjennomgått spesialistutdanning i kjeveortopedi | Odontologisk universitetsfakultet
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | diplôme fédéral d´orthodontiste, Diplom als Kieferorthopäde, diploma di ortodontista | Département fédéral de ľintérieur
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral d’orthodontiste Diplom für Kieferorthopädie Diploma di ortodontista | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
+
+    - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v kategórii zubný lekár sa uzná aj
+
+      - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
+
+        - 1.1. 28. januárom 1980 v Dánsku, Nemecku, Francúzsku, Írsku, Holandsku a vo Veľkej Británii,
+
+        - 1.2. 1. januárom 1981 v Grécku,
+
+        - 1.3. 1. januárom 1994 vo Fínsku a Švédsku,
+
+        - 1.4. 1. májom 2004 v Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte a Cypre,
+
+        - 1.5. 27. januárom 2005 v Belgicku,
+
+        - 1.6. 21. májom 2005 v Taliansku,
+
+        - 1.7. 1. januárom 2007 v Bulharsku;
+
+      - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 2. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 3. októbrom 1990, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Spolkovej republiky Nemecko za rovnakých podmienok ako doklad vydaný príslušnými nemeckými orgánmi, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 3. doklad získaný na území bývalého Sovietskeho zväzu, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 11. marcom 1990, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Litvy za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Litvy, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými litovskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 4. doklad získaný na území bývalého Sovietskeho zväzu, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 21. augustom 1991, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Lotyšska za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Lotyšska, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými lotyšskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 5. doklad získaný na území bývalého Sovietskeho zväzu, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 20. augustom 1991, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Estónska za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Estónska, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými estónskymi orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 6. doklad získaný na území bývalej Juhoslávie, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 25. júnom 1991, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Slovinska za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Slovinska, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými slovinskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia.
+
+    - b) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 2, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia:
 
     - Tabuľka č. 2
 
-  - p. č. | Krajina | Názov kvalifikácie | Udeľujúci orgán
+  - P. č. | Krajina | Názov dokladu | Udeľujúci orgán
 
   - 1 | Belgicko / Belgique / België / Belgien | - | -
 
-  - 2 | Bulharsko / България | Свидетелство за призната специалност по "Орална хирургия" | Факултет по дентална медицина към Медицински университет
+  - 2 | Bulharsko / България | Свидетелство за призната спец- иалност по “Орална хирургия” | Факултет по дентална медицина към Медицински университет
 
-  - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Στοματική Χειρουργική | Οδοντιατρικό Συμβούλιο
+  - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Στοµατική Χειρουργική | Οδοντιατρικό Συµβούλιο
 
   - 4 | Česko / Česká republika | - | -
 
-  - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som special- tandlæge i hospitalsodontologi | Sundhedsstyrelsen
+  - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som specialtandlæge i hospitalsodontologi | Sundhedsstyrelsen
 
   - 6 | Estónsko / Eesti | - | -
 
-  - 7 | Fínsko / Suomi / Finland | Erikoishammaslääkärin tutkinto, suu- ja leukakirurgia / specialtandlärkarexamen oral och maxillofacial kirurgi | 1. Helsingin yliopisto / Helsingfors universitet 2. Oulun yliopisto 3. Turun yliopisto
+  - 7 | Fínsko / Suomi / Finland | Erikoishammaslääkärin tutkinto, suu-ja leuka kirurgia/ Specialtandläkar-examen, oral och maxillofacial kirurgi | — Helsingin yliopisto/Helsingfors universitet — Oulun yliopisto — Turun yliopisto
 
   - 8 | Francúzsko / France | - | -
 
-  - 9 | Grécko / Ελλάς | Τίτλος, Οδοντιατρικής ειδικότητας της ΓναJοχειρουργικής | 1) Νομαρχιακή Αυτοδιοίκηση 2) Νομαρχία
+  - 9 | Grécko / Ελλάς | Τίτλoς Οδovτιατρικής ειδικότητας της Γvαθoχειρoυργικής (up to 31 December 2002) | — Νoµαρχιακή Αυτoδιoίκηση — Νoµαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving als kaakchirurg in het Specialis- tenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving als kaakchirurg in het Specialistenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
 
   - 11 | Írsko / Ireland | Certificate of specialist dentist in oral surgery | Competent authority recognised for this purpose by the competent minister
 
@@ -2934,9 +3032,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 15 | Maďarsko / Magyarország | Dento-alveoláris sebészet szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
 
-  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fil-Kirurġija tal-ħalq | Kumitat ta' Approvazzjoni dwar Specjalisti
+  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fil- Kirurġija tal-ħalq | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Oralchirurgie / Mundchirurgie | Landeszahnärztekammer
+  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Oralchirurgie/Mundchirurgie | Landeszahnärztekammer
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie chirurgii stomatologicznej | Centrum Egzaminów Medycznych
 
@@ -2944,42 +3042,46 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 272/2007 Z. z.
 
   - 20 | Rakúsko / Österreich | - | -
 
-  - 21 | Rumunsko / România | |
+  - 21 | Rumunsko / România | - | -
 
   - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
   - 23 | Španielsko / España | - | -
 
-  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i tandsystemets kirurgiska sjukdomar | Socialstyrelsen
+  - 24 | Švédsko / Sverige | Bevis om specialist-kompetens i tandsystemets kirurgiska sjukdomar | Socialstyrelsen
 
-  - 25 | Taliansko / Italia | - | -
+  - 25 | Taliansko / Italia | Diploma di specialista in Chirurgia Orale | Università
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of specialist training in oral surgery | Competent authority recognised for this purpose´
+  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of specialist training in oral surgery | Competent authority recognised for this purpose
 
-  - 27 | Island / Ísland | |
+  - 27 | Island / Ísland | - | -
 
-  - 28 | Lichtenštajnsko / Lichtenstein | - |
+  - 28 | Lichtenštajnsko / Lichtenstein | - | -
 
-  - 29 | Nórsko / Norge | Bevis for gjennomgàtt spesialistutdanning i oralkirurgi | Fakulta zubného lekárstva univerzity
+  - 29 | Nórsko / Norge | - | -
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | |
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral de chirurgie orale Diplom für Oralchirurgie Diploma di chirurgia orale | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
 
-    - c) ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii zubný lekár sa uzná aj
+    - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v kategórii zubný lekár sa uzná aj
 
-      - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, ktorý potvrdzuje, že osoba vykonávala špecializované zubnolekárske činnosti v čase, ktorý sa rovná dvojnásobku rozdielu medzi dĺžkou špecializačnej prípravy v príslušnom členskom štáte a najmenej trojročnou dĺžkou špecializačnej prípravy pre príslušný špecializačný odbor,
+      - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
 
-      - 2. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale príslušný členský štát potvrdil, že ho považuje za rovnocenný s dokladmi o špecializáciách uvedenými v jednej z tabuliek č. 1 a 2,
+        - 1.1. 28. januárom 1980 v Dánsku, Nemecku, Írsku, Holandsku a vo Veľkej Británii,
 
-      - 3. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o diplom o špecializácii v odbore stomatológia získaný pred 3. októbrom 1990, ktorý oprávňuje osobu vykonávať činnosť zubného lekára na celom území Spolkovej republiky Nemecko za rovnakých podmienok ako diplomy uvedené v tabuľkách č. 1 a 2. Ministerstvo zdravotníctva môže vyžadovať, aby taký doklad bol doplnený certifikátom vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa konštatuje, že osoba vykonávala činnosť v príslušnom špecializačnom odbore po dobu rovnajúcu sa dvojnásobku rozdielu medzi dĺžkou obdobia špecializačnej prípravy získanej na území Nemecka a najmenšou dĺžkou trvania prípravy ustanovenou v príslušnej tabuľke č. 1 alebo č. 2,
+        - 1. 2. 1. januárom 1994 vo Fínsku a vo Švédsku,
 
-      - 4. doklad získaný na území Rakúska najneskôr do 31. decembra 1998 alebo diplomy, osvedčenia a iné doklady o odbornej spôsobilosti v špecializovanej medicíne udelené v Rakúsku osobám, ktoré začali svoje univerzitné odborné vzdelávanie pred 1. januárom 1994, doložené osvedčením vydaným príslušnými rakúskymi úradmi, osvedčujúcim, že tieto osoby sa účinne, právoplatne a principiálne zaoberali v Rakúsku činnosťami špecifikovanými ako vykonávanie špecializovaných činností v príslušnom odbore najmenej tri po sebe nasledujúce roky v priebehu piatich rokov po vydaní osvedčenia a že sú tieto osoby oprávnené vykonávať uvedené činnosti za rovnakých podmienok ako držitelia diplomu, osvedčenia alebo iného dokladu o odbornej spôsobilosti v špecializovanej medicíne. Trojročná prax sa nevyžaduje, ak osoba úspešne absolvovala najmenej tri roky štúdia a takéto štúdium osvedčili príslušné orgány ako rovnocenné štúdiu požadovanému v Rakúsku,
+        - 1. 3. 1. januárom 2003 v Grécku,
 
-      - 5. doklad o vysokoškolskom vzdelaní, z ktorého vyplýva, že išlo o univerzitné špecializačné štúdium medicíny zamerané na stomatológiu, ktoré sa začalo na území bývalého Československa pred 1. januárom 1993 alebo na území Českej republiky pred 1. májom 2004 a nadväzovalo naň získanie špecializácie v odbore stomatológia doplnené osvedčením vydaným príslušným orgánom Českej republiky, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Českej republiky vykonávala činnosť zubného lekára na území Českej republiky najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia a že táto osoba je oprávnená vykonávať uvedené činnosti za rovnakých podmienok ako držitelia diplomov uvedených v tabuľke. Trojročná prax sa nevyžaduje, ak osoba úspešne absolvovala najmenej tri roky štúdia a takéto štúdium osvedčili príslušné orgány ako rovnocenné štúdiu uvedenému v tabuľke, alebo
+        - 1. 4. 1. májom 2004 v Maďarsku, Poľsku, Slovinsku, Litve, na Malte a Cypre,
 
-      - 6. diplom o špecializácii v kategórii zubný lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 20. augustom 1991, ak príslušný orgán Estónska potvrdil, že táto odborná spôsobilosť má na území Estónska rovnakú platnosť ako odborná spôsobilosť získaná v Estónsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Estónska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Estónska vykonávala príslušnú špecializovanú činnosť v povolaní zubný lekár na území Estónska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+        - 1. 5. 21. májom 2005 v Taliansku,
 
-      - 7. diplom o špecializácii v kategórii zubný lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 21. augustom 1991, ak príslušný orgán Lotyšska potvrdil, že táto odborná spôsobilosť má na území Lotyšska rovnakú platnosť ako odborná spôsobilosť získaná v Lotyšsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Lotyšska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Lotyšska vykonávala príslušnú špecializovanú činnosť v povolaní zubný lekár na území Lotyšska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+        - 1. 6. 1. januárom 2007 v Bulharsku;
 
-      - 8. diplom o špecializácii v kategórii zubný lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 11. marcom 1990, ak príslušný orgán Litvy potvrdil, že táto odborná spôsobilosť má na území Litvy rovnakú platnosť ako odborná spôsobilosť získaná v Litve uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Litvy, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Litvy vykonávala príslušnú špecializovanú činnosť v povolaní zubný lekár na území Litvy najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia, alebo
+      - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
-      - 9. diplom o špecializácii v kategórii zubný lekár, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v povolaní zubný lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+      - 2. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 3. októbrom 1990, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Spolkovej republiky Nemecko za rovnakých podmienok ako doklad vydaný príslušnými nemeckými orgánmi, uvedený v tabuľke č. 2. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 3. doklad získaný na území bývalého Sovietskeho zväzu, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 11. marcom 1990, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Litvy za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Litvy, uvedený v tabuľke č. 2. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými litovskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
+
+      - 4. doklad získaný na území bývalej Juhoslávie, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 25. júnom 1991, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Slovinska za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Slovinska, uvedený v tabuľke č. 2. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými slovinskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia.

@@ -40,13 +40,13 @@
 
 - 17) § 19 a 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 17a) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
-
 - 17b) § 35 ods. 1 a § 39a ods. 7 a 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 19) § 116 Občianskeho zákonníka.
 
-- 20) § 49 Trestného zákona.
+- 19a) § 3 zákona č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 20) § 61 Trestného zákona.
 
 - § 50 ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
@@ -60,6 +60,10 @@
 
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
+- 24a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24b) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
 - 25) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
 - 26) § 12 ods. 6 zákona č. 576/2004 Z. z.
@@ -67,6 +71,10 @@
 - 27) § 2 ods. 6 a § 21 zákona č. 576/2004 Z. z.
 
 - 28) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 445/2003 Z. z.
+
+- 28a) § 85 Zákonníka práce.
+
+- 28b) § 45b ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) § 62 ods. 1 Trestného zákona.
 
