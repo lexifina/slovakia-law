@@ -6,7 +6,7 @@ Príloha č. 3 k vyhláške č. 409/2003 Z. z.
 
     - Redukčný plán je súbor technických a organizačných opatrení na zníženie emisií prchavých organických zlúčenín pre určité zariadenia. Tento plán umožňuje prevádzkovateľovi zariadenia znížiť emisie v takej miere, ktorá by sa dosiahla uplatnením emisných limitov určených v prílohe č. 2. Na tento účel môže prevádzkovateľ zariadenia použiť akúkoľvek schému znižovania emisií vypracovanú špeciálne pre jeho zariadenie za predpokladu, že nakoniec dosiahne rovnaké zníženie emisií.
 
-  - 2. Návod na vypracovanie redukčného plánu
+  - 2. Návod na vypracovanie redukčného plánu pri aplikácii náterov
 
     - Pri aplikácii náterov, lakov, lepidiel alebo tlačiarenských farieb možno využiť nasledujúci redukčný plán. Ak nasledujúca metóda nie je vhodná, orgán ochrany ovzdušia môže prevádzkovateľovi zariadenia povoliť iný alternatívny plán, ktorý spĺňa uvedené princípy.
 

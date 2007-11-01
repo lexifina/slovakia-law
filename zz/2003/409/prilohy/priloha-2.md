@@ -10,25 +10,25 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok <sup>-1</sup> | mg.m<sup>-3</sup> | % |
 
-  - Tepelný ofset | 0,6 - 15<sup>4</sup>) | 120 | 30 | Poznámka <sup>3</sup>)
+  - Tepelný ofset | 0,6 - 15 | 120 | 30 | Poznámka <sup>3</sup>)
 
   - | > 15-25 | 100 | 30 |
 
   - | > 25 | 20 | 30 |
 
-  - Publikačná hĺbkotlač vrátane kníhtlače | 0,6 - 25<sup>4</sup>) | 120 | Nové zariadenia 10 Jestvujúce zariadenia 15 |
+  - Publikačná hĺbkotlač vrátane kníhtlače | 0,6 - 25 | 120 | Nové zariadenia 10 Jestvujúce zariadenia 15 |
 
   - | > 25 | 75 | Nové zariadenia 10 Jestvujúce zariadenia 15 |
 
-  - Ostatné hĺbkotlače, rotačná valcová sieťotlač, laminovacie a lakovacie jednotky a flexografia | 0,6 - 15<sup>4</sup>) | 120 | 25 |
+  - Ostatné hĺbkotlače, rotačná valcová sieťotlač, laminovacie a lakovacie jednotky a flexografia | 0,6 - 15 | 120 | 25 |
 
   - | > 15-25 | 100 | 25 |
 
   - | > 25 | 100 | 20 |
 
-  - Rotačná sieťotlač na lepenku a textil | 0,6 - 15<sup>4</sup>) | 120 | 25 |
+  - Rotačná sieťotlač na lepenku a textil | 0,6 - 15 | 120 | 25 |
 
-  - | > 15-30<sup>4</sup>) | 100 | 25 |
+  - | > 15-30 | 100 | 25 |
 
   - | > 30 | 100 | 20 |
 
@@ -40,15 +40,13 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 3) Zvyšky rozpúšťadiel v konečnom výrobku sa nepovažujú za súčasť fugitívnych emisií.
 
-    - 4) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
-
   - 2. Odmasťovanie a čistenie povrchov
 
     - Odmasťovanie kovových a nekovových materiálov sa môže vykonávať v osobitnom zariadení, ktoré je tvorené uzavretým priestorom s odsávaním odpadového plynu, alebo sa odmasťovanie vykonáva v priestore pre nástrek náterových látok (striekacie kabíny). Na takto vykonávané odmasťovanie je potrebné dodržovať emisné limity.
 
     - Odmasťovacie procesy uskutočňované mimo odmasťovacieho zariadenia sa musia vykonávať tak, aby emisie prchavých organických zlúčenín boli minimalizované. Odmasťovanie sa musí vykonávať vo vymedzených priestoroch s využitím odmasťovacích stolov alebo podobných zariadení.
 
-  - 2.1 Odmasťovanie a čistenie povrchu kovov, elektrosúčiastok a iných materiálov a výrobkov organickými rozpúšťadlami obsahujúcimi látky karcinogénne, mutagénne a toxické pre reprodukciu [§ 3 písm. a)] a halogénovanými rozpúšťadlami [§ 3 písm. b)]
+  - 2.1 Odmasťovanie a čistenie povrchu kovov, elektrosúčiastok a iných materiálov a výrobkov organickými rozpúšťadlami obsahujúcimi látky karcinogénne, mutagénne a toxické pre reprodukciu [§ 3 písm. a)] a látkami podľa § 3 písm. b)
 
   - 2.1.1 Odmasťovanie a čistenie povrchov látkami uvedenými v § 3 písm. a) a b) sa nesmie vykonávať mimo uzavretého priestoru s odsávaním odpadových plynov. Tieto zariadenia sa musia prevádzkovať ako uzavretý systém.
 
@@ -60,19 +58,17 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | %
 
-  - Odmasťovanie a čistenie povrchov halogénovanými rozpúšťadlami podľa § 3 písm. b) a látkami uvedenými v § 3 písm. a) | 0,1 - 1<sup>3</sup>) | halogénované rozpúšťadlá 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 15
+  - Odmasťovanie a čistenie povrchov halogénovanými rozpúšťadlami podľa § 3 písm. b) a látkami uvedenými v § 3 písm. a) | 0,1 - 1 | látky podľa § 3 písm. b) 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 15
 
-  - | > 1 -5 | halogénované rozpúšťadlá 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 15
+  - | > 1 -5 | látky podľa § 3 písm. b) 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 15
 
-  - | > 5 | halogénované rozpúšťadlá 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 10
+  - | > 5 | látky podľa § 3 písm. b) 20<sup>4</sup>) látky podľa § 3 písm. a) 2<sup>5</sup>) | 10
 
   - Poznámky:
 
     - 1) Koncentrácia vo vlhkom plyne pri štandardných stavových podmienkach.
 
     - 2) Podiel hmotnosti fugitívnych emisií a hmotnosti vstupných rozpúšťadiel.
-
-    - 3) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
 
     - 4) Koncentračný emisný limit platí pri hmotnostnom toku 100 g.h<sup>-1</sup>.
 
@@ -86,7 +82,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | %
 
-  - Odmasťovanie a čistenie povrchov organickými rozpúšťadlami podľa § 3 písm. c) | 0,6 - 2<sup>4</sup>) | 120<sup>3</sup>) | 20<sup>3</sup>)
+  - Odmasťovanie a čistenie povrchov organickými rozpúšťadlami podľa § 3 písm. c) | 0,6 - 2 | 120<sup>3</sup>) | 20<sup>3</sup>)
 
   - | > 2- 10 | 75<sup>3</sup>) | 20<sup>3</sup>)
 
@@ -99,8 +95,6 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
     - 2) Podiel hmotnosti fugitívnych emisií a hmotnosti vstupných rozpúšťadiel.
 
     - 3) Ak prevádzkovateľ preukáže, že priemerný obsah organických rozpúšťadiel v používaných materiáloch nepresiahne 30 % hmotnosti, môže orgán ochrany ovzdušia udeliť výnimku z uvedených emisných limitov.
-
-    - 4) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
 
   - 3. Chemické čistenie odevov a textílií
 
@@ -158,57 +152,53 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - Na obmedzenie emisií prchavých organických zlúčenín je potrebné použiť najlepšie dostupné techniky, ako napr. používanie lakovacích systémov s nízkym alebo žiadnym obsahom organických rozpúšťadiel, nanášanie lakovacích vrstiev s vysokou účinnosťou alebo čistenie odpadových plynov.
 
-  - 4.3 Nanášanie náterových látok na kovy, plasty, textil, film, papier, sklo a pod.
+  - 4.3 Nanášanie náterových látok na kovy, plasty, textil, tkaniny, film, papier a sklo
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
-  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit ako emisný faktor celkového organického uhlíka<sup>1</sup>) | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>2</sup>) | Emisný limit pre fugitívne emisie<sup>3</sup>) | Emisný limit TZL<sup>2</sup>) | Osobitné ustanovenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit TZL<sup>1</sup>) | Osobitné ustanovenia
 
-  - | t.rok<sup>-1</sup> | g.m<sup>-2</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup> |
+  - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup> |
 
-  - Nanášanie náterových látok | 0,6 - 5<sup>9</sup>) | - | 120 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
+  - Nanášanie náterových látok | 5 – 15 | 100 | 20 | 3<sup>4</sup>) | Poznámka<sup>3</sup>), <sup>5</sup>), <sup>6</sup>), <sup>8</sup>)
 
-  - Nanášanie náterových látok | > 5- 15 | - | 100 | 25 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
+  - Nanášanie náterových látok | >15 | 50/75<sup>7</sup>) | 20 | 3<sup>4</sup>) | Poznámka<sup>5</sup>), <sup>6</sup>), <sup>8</sup>)
 
-  - Nanášanie náterových látok | > 15 | - | 50/75<sup>5</sup>) | 20 | 3 | Poznámka <sup>4</sup>), <sup>6</sup>), <sup>7</sup>), <sup>8</sup>)
-
-  - Práškové lakovanie | - | - | 50 | - | 15 | Poznámka <sup>8</sup>), <sup>0</sup>)
+  - Práškové lakovanie | – | 50 | – | 15<sup>10</sup>) | Poznámka<sup>9</sup>)
 
   - Poznámky:
 
-    - 1) Merná výrobná emisia prchavých organických zlúčenín ako podiel množstva celkového organického uhlíka a veľkosti natretej plochy.
+    - 1) Koncentrácia vo vlhkom plyne pri štandardných stavových podmienkach.
 
-    - 2) Koncentrácia vo vlhkom plyne pri štandardných stavových podmienkach.
+    - 2) Podiel hmotnosti fugitívnych emisií a hmotnosti vstupných rozpúšťadiel.
 
-    - 3) Podiel hmotnosti fugitívnych emisií a hmotnosti vstupných rozpúšťadiel.
+    - 3) Emisný limit pre celkový organický uhlík v odpadových plynoch platí pre procesy nanášania a sušenia prevádzkované za riadených podmienok.
 
-    - 4) Emisný limit celkového organického uhlíka v odpadových plynoch platí pre procesy nanášania a sušenia prevádzkované za riadených podmienok.
+    - 4) Emisný limit pre tuhé znečisťujúce látky platí iba pre proces striekania.
 
-    - 5) Prvý emisný limit platí pre procesy sušenia, druhý pre procesy nanášania.
+    - 5) Pre zariadenia na nanášanie náterových látok na textil, ktoré používajú techniky, ktoré umožňujú opätovné použitie regenerovaných rozpúšťadiel, platí spoločne pre proces nanášania a proces sušenia emisný limit pre celkový organický uhlík v odpadových plynoch 150 mg.m<sup>-3</sup>.
 
-    - 6) Pre zariadenia na nanášanie náterových látok na textil, ktoré používajú techniky, ktoré umožňujú opätovné použitie regenerovaných rozpúšťadiel, platí spoločne pre proces nanášania a proces sušenia emisný limit pre celkový organický uhlík v odpadových plynoch 150 mg.m<sup>-3</sup>.
+    - 6) Pri nanášaní náterových látok, ktoré nemožno vykonávať za riadených podmienok, napríklad pri stavbe lodí, natieraní lietadiel, sa emisné limity pre odpadové plyny a fugitívne emisie v súlade s § 4 ods. 6 neuplatňujú.
 
-    - 7) Pri nanášaní náterových látok, ktoré nemožno vykonávať za riadených podmienok (ako napr. stavba lodí, natieranie lietadiel), sa emisné limity pre odpadové plyny a fugitívne emisie v súlade s § 4 ods. 6 neuplatňujú.
+    - 7) Prvý emisný limit platí pre procesy sušenia, druhý pre procesy nanášania.
 
-    - 8) V prípade aplikácie systémov nanášania náterových látok s nízkym alebo žiadnym obsahom rozpúšťadiel (t. j. menším ako 10 % hmotnosti), pri ktorých nie sú splnené emisné limity pre celkový organický uhlík v odpadových plynoch, sa môže na základe odborného posudku a s prihliadnutím na vlastnosti a hmotnostný tok emitovaných látok určiť iný emisný limit.
+    - 8) Pre rotačnú sieťotlač na potlač textilu sa uplatňujú emisné limity pre polygrafiu ustanovené v prvom bode.
 
-    - 9) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
+    - 9) Pri zariadeniach na práškové lakovanie sa prahová hodnota spotreby a bilancovanie rozpúšťadiel neuplatňujú.
 
-    - 10) Pri zariadeniach na práškové lakovanie sa prahová hodnota spotreby a bilancovanie rozpúšťadiel neuplatňujú.
+    - 10) Emisný limit platí pre procesy nanášania.
 
   - 4.4 Nanášanie náterov na drevené povrchy
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
-  - Činnosť | Prahová spotre- ba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit TZL<sup>1</sup>) | Osobitné usta- novenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit TZL<sup>1</sup>) | Osobitné ustanovenia
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup> |
 
-  - Nanášanie ná- terov na dreve- né povrchy | 0,6 - 15<sup>6</sup>) | 120 | 25 | 3 | Poznámka <sup>3</sup>), <sup>5</sup>)
+  - Nanášanie náterov na drevené povrchy | >15 – 25 | 100 | 25 | 3<sup>5</sup>) | Poznámka<sup>3</sup>)
 
-  - | > 15-25 | 100 | 25 | 3 | Poznámka <sup>3</sup>), <sup>5</sup>)
-
-  - | > 25 | 50/75<sup>4</sup>) | 20 | 3 | Poznámka <sup>3</sup>), <sup>5</sup>)
+  - | >25 | 50/75<sup>4</sup>) | 20 | 3<sup>5</sup>) | Poznámka<sup>3</sup>)
 
   - Poznámky:
 
@@ -220,9 +210,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 4) Prvý emisný limit platí pre procesy sušenia, druhý pre procesy nanášania.
 
-    - 5) V prípade aplikácie systémov nanášania náterových látok s nízkym alebo žiadnym obsahom rozpúšťadiel (t. j. menším ako 10 % hmotnosti), pri ktorých nie sú splnené emisné limity pre celkový organický uhlík v odpadových plynoch, sa môže na základe odborného posudku a s prihliadnutím na vlastnosti a hmotnostný tok emitovaných látok určiť iný emisný limit.
-
-    - 6) Pre nové zariadenia, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
+    - 5) Emisný limit pre tuhé znečisťujúce látky platí iba pre proces striekania.
 
   - 4.5 Nanášanie náterov na kožu
 
@@ -248,7 +236,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 3) Uvedený limit platí pre nátery bytových doplnkov a malých kožených predmetov (tašky, peňaženky, opasky a pod.).
 
-  - 5. Sériové lakovanie áut pri spotrebe rozpúšťadla menej ako 15 t za rok
+  - 5. Následná povrchová úprava vozidiel
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
@@ -318,17 +306,13 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
-  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celko- vého organického uhlíka v odpado- vých plynoch<sup>1</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný li- mit TZL<sup>1</sup>) | Osobitné usta- novenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit TZL<sup>1</sup>) | Osobitné ustanovenia
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | mg.m<sup>-3</sup> |
 
-  - Kontinuálne natieranie pásových plechov | 0,6 - 25<sup>6</sup>) | 50<sup>5</sup>) | 5 | 3 | Poznámka <sup>3</sup>)
+  - Kontinuálne natieranie pásových plechov | >25 | 50<sup>5</sup>) | 5 | 3<sup>6</sup>) | Poznámka<sup>3</sup>)
 
-  - | 0,6 - 25<sup>6</sup>) | 50<sup>5</sup>) | 10 | 3 | Poznámka <sup>4</sup>)
-
-  - | > 25 | 50<sup>5</sup>) | 5 | 3 | Poznámka <sup>3</sup>)
-
-  - | > 25 | 50<sup>5</sup>) | 10 | | Poznámka <sup>4</sup>)
+  - | >25 | 50<sup>5</sup>) | 10 | 3<sup>6</sup>) | Poznámka<sup>4</sup>)
 
   - Poznámky:
 
@@ -342,7 +326,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 5) Pre zariadenia, ktoré používajú technológie umožňujúce opätovné využitie regenerovaných rozpúšťadiel, platí emisný limit 150 mg.m<sup>-3</sup>.
 
-    - 6) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 0,6 – 25 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 7.
+    - 6) Emisný limit pre tuhé znečisťujúce látky platí iba pre proces striekania.
 
   - 8. Natieranie navíjaných drôtov
 
@@ -350,7 +334,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - Pre zariadenia s prahovou hodnotou spotreby rozpúšťadla 0,6 – 5 t.rok<sup>-1</sup> sa touto vyhláškou emisný limit nestanovuje. Ak ide o riziká ohrozenia zdravia ľudí a životného prostredia, určí sa emisný limit osobitne.
 
-  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit ako emisný faktor celko- vých prchavých orga- nických zlúčenín<sup>1</sup>) | Emisný limit TZL<sup>2</sup>) | Osobitné ustanovenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit ako emisný faktor celko- vých prchavých orga- nických zlúčenín<sup>1</sup>) | Emisný limit TZL | Osobitné ustanovenia
 
   - | t.rok<sup>-1</sup> | g.kg<sup>-1</sup> | mg.m<sup>-3</sup> |
 
@@ -361,8 +345,6 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
   - Poznámky:
 
     - 1) Podiel hmotnosti celkovej emisie organického rozpúšťadla a celkovej hmotnosti produktu.
-
-    - 2) Koncentrácia vo vlhkom plyne pri štandardných stavových podmienkach.
 
     - 3) Platí pre nátery drôtov s priemerom menším ako 0,1 mm.
 
@@ -378,7 +360,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - Nanášanie lepidiel | t.rok<sup>-1</sup> | mg. m<sup>3</sup> | % |
 
-  - | 0,6 - 5<sup>4</sup>) | 50<sup>3</sup>) | - |
+  - | 0,6 - 5 | 50<sup>3</sup>) | - |
 
   - | 5-15 | 50<sup>3</sup>) | 25 |
 
@@ -392,21 +374,15 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 3) Pre zariadenia, ktoré používajú technológiu umožňujúcu opätovné využitie regenerovaných rozpúšťadiel, platí emisný limit 150 mg.m<sup>-3</sup>.
 
-    - 4) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 0,6 – 5 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
-
-  - 10. Impregnácia dreva
+  - 10. Impregnovanie dreva
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
-    - Pre zariadenia s prahovou spotrebou rozpúšťadla 0,6 – 25 t.rok<sup>-1</sup> sa emisný limit pre fugitívne emisie a emisný limit ako emisný faktor celkových prchavých organických zlúčenín touto vyhláškou nestanovujú. Ak ide o riziká ohrozenia zdravia ľudí a životného prostredia, určí sa emisný limit osobitne.
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>), <sup>4</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit celkových emisií<sup>3</sup>)
 
-  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkového organického uhlíka v odpadových plynoch<sup>1</sup>), <sup>4</sup>) | Emisný limit pre fugitívne emisie<sup>2</sup>) | Emisný limit celkových emisii<sup>3</sup>) | Osobitné ustanovenia
+  - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | kg.m<sup>-3</sup>
 
-  - | t.rok<sup>-1</sup> | mg. m<sup>-3</sup> | % | kg.m<sup>-3</sup> |
-
-  - Impregnácia dreva | 0,6-25 | 120 | - | - |
-
-  - | > 25 | 100 | 45 | 11 |
+  - Impregnácia dreva | > 25 | 100 | 45 | 11
 
   - Poznámky:
 
@@ -418,7 +394,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 4) Neplatí pre zariadenia, kde sa používa na impregnáciu kreozot. Kreozot je zmes fenolov a krezolov získaných pri spracovaní čiernouhoľného a drevného dechtu.
 
-  - 11. Laminácia dreva, kovu, textilu, vlákien a plastov
+  - 11. Laminovanie dreva, kovu, textilu, vlákien a plastov
 
     - Prahová spotreba rozpúšťadiel a emisné limity
 
@@ -442,7 +418,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t. rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | % |
 
-  - Výroba náterových látok, lakov, tlačiarenských farieb a lepidiel | > 5 - 100<sup>5</sup>) | 150 | 5 | 5 | Poznámka <sup>4</sup>)
+  - Výroba náterových látok, lakov, tlačiarenských farieb a lepidiel | > 5 - 100 | 150 | 5 | 5 | Poznámka <sup>4</sup>)
 
   - | > 100 | 150 | 3 | 3 |
 
@@ -455,8 +431,6 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
     - 3) Podiel hmotnosti celkových emisií a celkovej hmotnosti spotrebovaného organického rozpúšťadla.
 
     - 4) Emisný limit pre fugitívne emisie nezahŕňa množstvo rozpúšťadla predaného alebo expedovaného ako súčasť náterových hmôt.
-
-    - 5) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 100 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
 
   - 13. Výroba obuvi
 
@@ -482,9 +456,9 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok<sup>-1</sup> | mg.m<sup>-3</sup> | % | % |
 
-  - Výroba farmaceutických prípravkov | 5 - 50<sup>8</sup>) | 20<sup>7</sup>) | 5 | 5 | Poznámka <sup>4</sup>), <sup>5</sup>)
+  - Výroba farmaceutických prípravkov | 5 - 50 | 20<sup>7</sup>) | 5 | 5 | Poznámka <sup>4</sup>), <sup>5</sup>)
 
-  - | 5 - 50<sup>8</sup>) | 20<sup>7</sup>) | 15 | 15 | Poznámka <sup>4</sup>), <sup>6</sup>)
+  - | 5 - 50 | 20<sup>7</sup>) | 15 | 15 | Poznámka <sup>4</sup>), <sup>6</sup>)
 
   - | > 50 | 20<sup>7</sup>) | 5 | 5 | Poznámka <sup>4</sup>), <sup>5</sup>)
 
@@ -506,8 +480,6 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 7) Pre zariadenia, ktoré používajú technológiu umožňujúcu opätovné využitie regenerovaných rozpúšťadiel, platí emisný limit 150 mg.m<sup>-3</sup>.
 
-    - 8) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 50 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
-
   - 15. Výroba a spracovanie gumy
 
     - Prahová spotreba rozpúšťadiel a emisné limity
@@ -518,7 +490,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
   - | t.rok<sup>-1</sup> | mg. m<sup>-3</sup> | % | % |
 
-  - Výroba a spra- covanie gumy | > 5 - 15<sup>6</sup>) | 20<sup>5</sup>) | 25 | 25 | Poznámka <sup>4</sup>)
+  - Výroba a spra- covanie gumy | > 5 - 15 | 20<sup>5</sup>) | 25 | 25 | Poznámka <sup>4</sup>)
 
   - | > 15 | 20<sup>5</sup>) | 25 | 25 | Poznámka <sup>4</sup>)
 
@@ -534,8 +506,6 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - 5) Pre zariadenia, ktoré používajú technológiu umožňujúcu opätovné využitie regenerovaných rozpúšťadiel, platí emisný limit 150 mg.m<sup>-3</sup>.
 
-    - 6) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 15 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.
-
   - 16. Extrakcia rastlinných olejov, živočíšnych tukov a rafinácia rastlinných olejov
 
   - 16.1 Všeobecné podmienky prevádzkovania
@@ -550,7 +520,7 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
 
     - Pre zariadenia s prahovou hodnotou spotreby rozpúšťadla 0,6 – 5 t.rok<sup>-1</sup> sa emisný limit touto vyhláškou nestanovuje. Ak ide o riziká ohrozenia zdravia ľudí a životného prostredia, určí sa emisný limit osobitne.
 
-  - Činnosť | Prahová spotreba rozpúšťadla<sup>3</sup>) | Emisný limit celkových emisií<sup>1</sup>) | Osobitné ustanovenia
+  - Činnosť | Prahová spotreba rozpúšťadla | Emisný limit celkových emisií<sup>1</sup>) | Osobitné ustanovenia
 
   - Výroba rastlinných olejov, živočíšnych tukov a rafinácia olejov z materiálov | t.rok<sup>-1</sup> | kg.t<sup>-1</sup> |
 
@@ -577,5 +547,3 @@ Príloha č. 2 k vyhláške č. 409/2003 Z. z.
     - 1) Podiel hmotnosti celkových emisií rozpúšťadla a celkovej hmotnosti spracovanej suroviny.
 
     - 2) Hodnoty celkových emisných limitov pre zariadenia spracúvajúce jednotlivé skupiny semien a ostatných rastlinných hmôt určí orgán ochrany ovzdušia pri zohľadnení najlepších dostupných techník.
-
-    - 3) Pre nové zariadenia s prahovou spotrebou rozpúšťadla 5 – 10 t.rok<sup>-1</sup>, pre ktoré sa začalo konanie o vydanie súhlasu na povolenie stavby do termínu nadobudnutia účinnosti tejto vyhlášky, platia do 31. októbra 2007 emisné limity podľa § 7 ods. 6.

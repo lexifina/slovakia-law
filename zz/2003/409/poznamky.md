@@ -4,8 +4,6 @@
 
 - 3) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 408/2003 Z. z. o monitorovaní emisií a kvality ovzdušia.
 
-- 4) § 19 ods. 1 písm. d) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší).§ 4 ods. 1 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 200/1999 Z. z. o požiadavkách na vedenie prevádzkovej evidencie zdrojov znečisťovania a o rozsahu ďalších údajov, ktoré sú prevádzkovatelia zdrojov znečisťovania povinní poskytovať orgánu ochrany ovzdušia.
-
-- 5) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 706/2002 Z. z. v znení vyhlášky č. 410/2003 Z. z.
+- 4) § 3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 61/2004 Z. z. o požiadavkách na vedenie prevádzkovej evidencie zdrojov znečisťovania a o rozsahu ďalších údajov, ktoré sú prevádzkovatelia zdrojov znečisťovania povinní poskytovať orgánu ochrany ovzdušia.
 
 - 1) Príloha č. 3 časť II body 4.2 a 4.3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 706/2002 Z. z.

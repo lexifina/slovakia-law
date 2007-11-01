@@ -60,7 +60,7 @@ Príloha č. 4 k vyhláške č. 409/2003 Z. z.
 
     - E = F + O1,
 
-    - kde F sú fugitívne emisie definované v bode 4.2.1. Na určenie množstva emisií na jednotku výroby sa údaj o množstve emisií vydelí príslušným parametrom výrobku.
+    - kde F sú fugitívne emisie definované v bode 3.2.1. Na určenie množstva emisií na jednotku výroby sa údaj o množstve emisií vydelí príslušným parametrom výrobku.
 
   - 3.1.3 Na posúdenie plnenia požiadaviek uvedených v § 4 ods. 15 písm. b) bode 2 sa bilancia rozpúšťadiel vykonáva pre každú činnosť a výsledný údaj sa porovnáva s celkovými emisiami, ktoré by boli relevantné v prípade splnenia emisných limitov pre každú činnosť zvlášť.
 

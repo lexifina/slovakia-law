@@ -52,7 +52,9 @@ Príloha č. 1 k vyhláške č. 409/2003 Z. z.
 
     - i) kožu.
 
-  - V. Prestriekavanie vozidiel – autoopravárstvo
+    - Nepatrí sem nanášanie substrátov s obsahom kovov za pomoci elektroforetických a chemických nanášacích techník (nanášanie striekaním alebo rozprašovaním). Ak je súčasťou natierania aj potlač na ten istý povrch bez ohľadu na to, aká technika sa použije, potom sa táto potlač považuje za súčasť natierania. Tlačiarenské činnosti, ktoré sa vykonávajú ako samostatná činnosť, do uvedených činností nepatria.
+
+  - V. Následná povrchová úprava vozidiel
 
   - Každá priemyselná alebo komerčná činnosť vo forme natierania a s tým súvisiaceho odmasťovania pri
 
