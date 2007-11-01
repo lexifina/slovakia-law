@@ -10,7 +10,7 @@
 
 - 5) Napríklad zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
-- 6) Napríklad zákon č. 594/2003 Z. z., zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+- 6) Napríklad zákon č. 594/2003 Z. z.
 
 - 7) § 21 ods. 3 a 4 a § 28 ods. 3 Obchodného zákonníka.
 
@@ -53,6 +53,8 @@
 - 20) § 25 až 49 zákona č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
 
 - 21) § 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona č. 242/1999 Z. z.
+
+- 22a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 23) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
