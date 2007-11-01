@@ -1,5 +1,7 @@
 - 1) § 5 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
+- 1a) § 99 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 3) Zákon č. 566/2001 Z. z.
@@ -22,9 +24,13 @@
 
 - 11a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
+- 11b) § 535 Občianskeho zákonníka.
+
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 13) § 8 písm. e) zákona č. 566/2001 Z. z.
+
+- 13a) § 71 až 71n zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -86,13 +92,33 @@
 
 - 35a) § 132a zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
 
+- 35aa) § 73b až 73m a § 73o až 73v zákona č. 566/2001 Z. z.
+
+- 35b) Články 30 a 32 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241/1, 2. 9. 2006).
+
+- 35c) Článok 17 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35d) Článok 29 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35e) Články 18 a 19 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35f) Článok 20 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35g) Článok 27 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35h) Články 29 a 32 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35i) Článok 28 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 35j) § 78 až 78b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 36) § 99 ods. 3 písm. h) a § 103 ods. 2 písm. k) zákona č. 566/2001 Z. z.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní v znení zákona č. 448/2001 Z. z.
 
 - 38) § 8 zákona Národnej rady Slovenskej republiky č. 218/1996 Z. z.
 
-- 39) Napríklad zákon č. 566/2001 Z. z., Obchodný zákonník, zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 594/2003 Z. z.
+- 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, Obchodný zákonník, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, nariadenie Komisie (ES) č. 1287/2006/ES.
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
