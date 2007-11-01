@@ -28,19 +28,23 @@
 
 - 14) § 5 ods. 2 až 5 Zákonníka práce.
 
-- 15) § 10 ods. 1 až 3 zákona č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
+- 15) Zákon č. 462/2007 Z. z. o organizácii pracovného času v doprave a o zmene a doplnení zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
 
+- 17a) § 37 zákona č. 462/2007 Z. z.
+
 - 18) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- § 12 zákona č. 121/2004 Z. z.
+- § 38 zákona č. 462/2007 Z. z.
 
 - § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z.
 
 - 18a) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 18aa) § 34 ods. 1 písm. f) zákona č. 462/2007 Z. z.
 
 - 18b) § 6 ods. 1 písm. h) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
@@ -50,7 +54,7 @@
 
 - 19) Napríklad § 17 Obchodného zákonníka, zákon č. 215/2004 Z. z.
 
-- 20) § 11 zákona č. 121/2004 Z. z.
+- 20) § 34 ods. 2 zákona č. 462/2007 Z. z.
 
 - 21) Napríklad § 19 ods. 6 zákona č. 124/2006 Z. z.
 
