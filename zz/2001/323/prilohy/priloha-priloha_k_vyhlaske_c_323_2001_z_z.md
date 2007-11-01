@@ -1,1 +1,1 @@
-Príloha k vyhláške č. 323/2001 Z. z. [Vzor - Osvedčenie o vykonaní kvalifikačnej skúšky](../assets/d91d62337cbfaf1314144362cbad5ccb3ec50b6485c9ae94df6231eb8d51f086.pdf)
+Príloha k vyhláške č. 323/2001 Z. z. [Osvedčenie o vykonaní kvalifikačnej skúšky - Vzor](../assets/0a18478ab4e5d7836e1d47c08b6f9f5024adad2cb0a9691d7f01b2aaac5d0eaf.pdf)
