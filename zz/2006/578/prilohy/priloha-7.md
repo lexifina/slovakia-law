@@ -26,9 +26,9 @@ Príloha č. 7 k vyhláške č. 578/2006 Z. z.
 
 - 5 | Meradlo na meranie dymivosti výfukových plynov | súčiniteľ absorpcie | m<sup>-1</sup> | | | c), d) | c), d) | (0 až 9,99) m<sup>-1</sup> | 0,01 m<sup>-1</sup> | do 2,5 m<sup>-1</sup> ±0,20 m<sup>-1</sup> nad 2,5 m<sup>-1</sup> ±0,40 m<sup>-1</sup> | kalibrácia | 1 rok
 
-- 6 | Detektor úniku plynu pre CNG | koncentrácia prítomnosti CH<sub>4</sub> | % | f) | | | | - | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
+- 6 | Detektor úniku plynu pre CNG | prítomnosť koncentrácie CH<sub>4</sub> | % | f) | | | | - | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
 
-- 7 | Detektor úniku plynu pre LPG | koncentrácia prítomnosti C<sub>3</sub>H<sub>8</sub> | % | f) | | | | - | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
+- 7 | Detektor úniku plynu pre LPG | prítomnosť koncentrácie C<sub>3</sub>H<sub>8</sub> | % | f) | | | | - | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
 
 - 1) Príloha č. 23 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov .
 

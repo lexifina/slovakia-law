@@ -12,6 +12,12 @@
 
 - 6) § 4 nariadenia vlády Slovenskej republiky č. 195/2006 Z. z.
 
+- 6a) Nariadenie vlády Slovenskej republiky č. 195/2006 Z. z.
+
+- 6b) Nariadenie vlády Slovenskej republiky č. 154/2006 Z. z. o používaní zariadení obmedzujúcich rýchlosť určitých kategórií motorových vozidiel.
+
+- 6c) Nariadenie vlády Slovenskej republiky č. 176/2003 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a o postupoch posudzovania zhody na prepravné tlakové zariadenia.
+
 - 7) § 17 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 8) § 92 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
