@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 462/2007 Z. z. [príloha](../assets/38ecfbd1f8761d393c4776dcfcef0b4c5b25cee9e432ec198e2aceae2e4bdad3.pdf)
+Príloha č. 4 k zákonu č. 462/2007 Z. z. [Vzor 04](../assets/c2d87bae1832b61838bde02aa46af3aee61a31e5114fd9bdc68eca40cd7dd615.pdf)
