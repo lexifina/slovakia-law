@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 480/2007 Z. z. [Vzor 01 - Osvedčenie o absolvovaní postgraduálneho vzdelávania úradného veterinárneho lekára](../assets/c89d688f0ade846589d2e407280b876e1a5c145cef9699ee0419dd307fc79c78.pdf)

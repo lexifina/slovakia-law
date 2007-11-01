@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 480/2007 Z. z. [Vzor 02 - Osvedčenie o absolvovaní ďalšieho vzdelávania úradného veterinárneho asistenta](../assets/aca90476d3c4dbc4fa92b42a9d1a7c93a9e4e115ed503ade682f93364794efba.pdf)
