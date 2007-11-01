@@ -40,7 +40,7 @@
 
 - 20a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 21) § 73 zákona č. 566/2001 Z. z.
+- 21) § 73 až 73v a 75 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 22) § 29 ods. 2 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
@@ -67,6 +67,8 @@
 - 30) § 27 až 34 Obchodného zákonníka.
 
 - 31) § 80 až 98 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 31a) § 71 až 71o zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 32) § 66 Obchodného zákonníka.
 

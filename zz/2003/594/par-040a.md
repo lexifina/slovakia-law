@@ -89,3 +89,5 @@
 - d) iných právnych skutočností.
 
 (11) Ak je podielový list v spoluvlastníctve viacerých majiteľov, nesmie byť spoluvlastnícky podiel na podielovom liste pripadajúci na jedného spolumajiteľa menší ako jeden podiel, ak štatút podielového fondu neurčí inak.
+
+(12) Ak je klientom správcovskej spoločnosti obchodník s cennými papiermi vykonávajúci obchody na účet svojich klientov, účet majiteľa obsahuje údaje podľa odseku 4 týkajúce sa tohto obchodníka s cennými papiermi. Tým nie je dotknuté ustanovenie § 21.
