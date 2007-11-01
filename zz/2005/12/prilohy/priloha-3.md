@@ -4,7 +4,7 @@ Príloha č. 3 k vyhláške č. 12/2005 Z. z.
 
   - A. Vzor preukazu odbornej spôsobilosti člena posádky plavidla
 
-  - [Vzor 03-1](../assets/eb69431b8e5ee36be7cdb22f4d5c71b150ee0235c2827e3751cc31fb06f23494.pdf)
+  - [Vzor 03-1](../assets/4b3dbf6be3bd4d5e52e61992372b013a2376bcce866e34d6ba5ed45819bb5d7e.pdf)
 
   - B. Vzor preukazu radarového navigátora
 

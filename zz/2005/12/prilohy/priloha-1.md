@@ -61,3 +61,35 @@ Príloha č. 1 k vyhláške č. 12/2005 Z. z.
 - Holandské kráľovstvo
 
 - Dollard, Eems, Waddenzee, Ijsselmeer, Východný Scheldt a Západný Scheldt.
+
+- Poľská republika
+
+- Zóna 1
+
+- Časť Pomoranskej zátoky na juh od trasy spájajúcej Nord Perd na Rujane a maják Niechorze.
+
+- Časť Gdanskej zátoky na juh od trasy spájajúcej maják Hel a vstupnú bóju prístavu Baltijsk.
+
+- Zóna 2
+
+- Štetínska zátoka.
+
+- Zátoka Kamień.
+
+- Zátoka Wisła.
+
+- Zátoka Puck.
+
+- Fínska republika
+
+- Saimaan kanavaSaima kanal,
+
+- Saimaan vesistöSaimens vattendrag.
+
+- Švédske kráľovstvo
+
+- Trollhätte kanal a Göta älv, Jazero Vänern, Jazero Mälaren, Södertälje kanal, Falsterbo kanal, Sotenkanalen.
+
+- Rumunsko
+
+- Dunaj: od Brăily (175 km) po Čierne more na prítoku Suliny.
