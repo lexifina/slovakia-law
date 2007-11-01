@@ -280,50 +280,124 @@ Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb. v znení nes
 
     - 26.2 Univerzitný diplom, ktorý udelili technické fakulty, ktorým sa udeľuje titul „univerzitetni diplomirani inženir (univ. dipl. inž.)/univerzitetna diplomirana inženirka“ doplnený právne uznaným osvedčením príslušného orgánu v oblasti architektúry, ktorým sa udeľuje právo vykonávať činnosti v oblasti architektúry.
 
-  - 27. Slovensko
+  - 27. Bulharsko
 
-    - 27.1 Diplom v študijnom odbore architektúra a pozemné staviteľstvo, ktorý udelila Slovenská vysoká škola technická v Bratislave v rokoch 1950 až 1952 (titul: Ing.).
+    - 27.1 Diplomy udelené akreditovanými vyššími vzdelávacími inštitúciami s kvalifikáciou architekt (архитект), stavebný inžinier (cтроителен инженер) alebo inžinier (инженер):
 
-    - 27.2 Diplom v študijnom odbore architektúra, ktorý udelila Fakulta architektúry a pozemného staviteľstva, Slovenská vysoká škola technická v Bratislave v rokoch 1952 až 1960 (titul: Ing. arch.).
+      - Univerzita architektúry, stavebného inžinierstva a geodézie — Sofia: odbory Urbanizmus a Architektúra‚ (Университет за архитектура, строителство и геодезия — София: специалности Урбанизъм и Архитектура) a všetky odbory stavebného inžinierstva v oblastiach: výstavba budov a konštrukcií (конструкции на сгради и съоръжения), cesty (пътища), doprava (транспорт), hydrotechnika a vodné stavby (хидротехника и водно строителство), zavlažovanie (мелиорации);
 
-    - 27.3 Diplom v študijnom odbore pozemné staviteľstvo, ktorý udelila Fakulta architektúry a pozemného staviteľstva, Slovenská vysoká škola technická v Bratislave v rokoch 1952 až 1960 (titul: Ing.).
+    - 27.2 Diplomy udelené vysokými školami technickými a vyššími stavebnými vzdelávacími inštitúciami v oblastiach:
 
-    - 27.4 Diplom v študijnom odbore architektúra, ktorý udelila Stavebná fakulta, Slovenská vysoká škola technická v Bratislave v rokoch 1961 až 1976 (titul: Ing. arch.).
+      - elektrotechnika a tepelná technika (електро-и топлотехника), telekomunikačná technika a technológie (съобщителна и комуникационна техника), stavebné technológie (строителни технологии), aplikovaná geodézia (приложна геодезия) a krajinné inžinierstvo (ландшафт) v oblasti stavebníctva.
 
-    - 27.5 Diplom v študijnom odbore pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská vysoká škola technická v Bratislave v rokoch 1961 až 1976 (titul: Ing.).
+    - 27.3 S cieľom vykonávať projektové činnosti v oblasti architektúry a stavebníctva musia byť diplomy doplnené osvedčením o právnej spôsobilosti na projektovanie (придружени от удостоверение за проектантска правоспособност) vydaným Komorou architektov (Камарата на архитектите) a Komorou stavebných inžinierov v oblasti investičných projektov (Камарата на инженерите в инвестиционного проектиране), ktorá priznáva právo vykonávať činnosti v oblasti investičných projektov.
 
-    - 27.6 Diplom v študijnom odbore architektúra, ktorý udelila Fakulta architektúry, Slovenská vysoká škola technická v Bratislave od roku 1977 (titul: Ing. arch.).
+  - 28. Rumunsko
 
-    - 27.7 Diplom v študijnom odbore urbanizmus, ktorý udelila Fakulta architektúry, Slovenská vysoká škola technická v Bratislave od roku 1977 (titul: Ing. arch.).
+    - 28.1 Univerzita architektúry a urbanizmu Ion Mincu Bukurešť (Universitatea de Arhitectur i Urbanism Ion Mincu Bucureti):
 
-    - 27.8 Diplom v študijnom odbore pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave v rokoch 1977 až 1997 (titul: Ing.).
+    - – 1953-1966 Inštitút architektúry Ion Mincu Bukurešť (Institutul de Arhitectură Ion Mincu Bucureşti), architekt (Arhitect),
 
-    - 27.9 Diplom v študijnom odbore architektúra a pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave od roku 1998 (titul: Ing.).
+    - – 1967-1974 Inštitút architektúry Ion Mincu Bukurešť (Institutul de Arhitectură Ion Mincu Bucureşti), Diplom s titulom architekt, špecializácia architektúra (Diplomă de Arhitect, Specialitatea Arhitectură),
 
-    - 27.91 Diplom v študijnom odbore pozemné stavby – špecializácia architektúra, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave v rokoch 2000 až 2001 (titul: Ing.).
+    - – 1975-1977 Inštitút architekúry Ion Mincu Bukurešť, Fakulta architektúry (Institutul de Arhitectură Ion Mincu Bucureşti, Facultatea de Arhitectură), Diplom s titulom architekt, špecializácia architektúra (Diplomă de Arhitect, Specializarea Arhitectură),
 
-    - 27.92 Diplom v študijnom odbore pozemné stavby a architektúra, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave od roku 2001 (titul: Ing.).
+    - – 1978-1991 Inštitút architektúry Ion Mincu Bukurešť, Fakulta architektúry a systematizácie (Institutul de Arhitectură Ion Mincu Bucureşti, Facultatea de Arhitectură şi Sistematizare), Diplom s titulom architekt, špecializácia architektúra a systematizácia (Diplomă de Arhitect, Specializarea Arhitectură şi Sistematizare),
 
-    - 27.93 Diplom v študijnom odbore architektúra, ktorý udelila Vysoká škola výtvarných umení v Bratislave od roku 1969 (titul: Akad. arch. do roku 1990, Mgr. v rokoch 1990 až 1992, Mgr. arch. v rokoch 1992 až 1996, Mgr. art. od roku 1997).
+    - – 1992-1993 Inštitút architektúry Ion Mincu Bukurešť, Fakulta architektúry a urbanizmu (Institutul de Arhitectură Ion Mincu Bucureşti, Facultatea de Arhitectură şi Urbanism), Diplom s titulom architekt, špecializácia architektúra a urbanizmus (Diplomă de Arhitect, specializarea Arhitectură şi Urbanism),
 
-    - 27.94 Diplom v študijnom odbore pozemné staviteľstvo, ktorý udelila Stavebná fakulta, Technická univerzita v Košiciach v rokoch 1981 až 1991 (titul: Ing.),
+    - – 1994-1997 Inštitút architektúry Ion Mincu Bukurešť, Fakulta architektúry a urbanizmu (Institutul de Arhitectură Ion Mincu Bucureşti, Facultatea de Arhitectură şi Urbanism), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1998-1999 Inštitút architektúry Ion Mincu Bukurešť, Fakulta architektúry (Institutul de Arhitectură Ion Mincu Bucureşti, Facultatea de Arhitectură), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – Od roku 2000 Univerzita architektúry a urbanizmu Ion Mincu — Bukurešť, Fakulta architektúry (Universitatea de Arhitectură şi Urbanism Ion Mincu Bucureşti, Facultatea de Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură);
+
+    - 28.2 Technická univerzita Cluj-Napoca (Universitatea Tehnică din Cluj-Napoca):
+
+    - – 1990-1992 Polytechnický inštitút Cluj-Napoca, Fakulta stavebného inžinierstva (Institutul Politehnic din Cluj-Napoca, Facultatea de Construcţii), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1993-1994 Technická univerzita Cluj-Napoca, Fakulta stavebného inžinierstva (Universitatea Tehnică din Cluj-Napoca, Facultatea de Construcţii), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1994-1997 Technická univerzita Cluj-Napoca, Fakulta stavebného inžinierstva (Universitatea Tehnică din Cluj-Napoca, Facultatea de Construcţi), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1998-1999 Technická univerzita Cluj-Napoca, Fakulta architektúry a urbanizmu (Universitatea Tehnică din Cluj-Napoca, Facultatea de Arhitectură şi Urbanism), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – Od roku 2000 Technická univerzita Cluj-Napoca, Fakulta architektúry a urbanizmu (Universitatea Tehnică din Cluj-Napoca, Facultatea de Arhitectură şi Urbanism), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură);
+
+    - 28.3 Technická univerzita Gh. Asachi Iaşi (Universitatea Tehnică Gh. Asachi Iaşi):
+
+    - – 1993 Technická univerzita Gh. Asachi Iaşi, Fakulta stavebného inžinierstva a architektúry (Universitatea Tehnică Gh. Asachi Iaşi, Facultatea de Construcţii şi Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1994-1999 Technická univerzita Gh. Asachi Iaşi, Fakulta stavebného inžinierstva a architektúry (Universitatea Tehnică Gh. Asachi Iaşi, Facultatea de Construcţii şi Arhitectură), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 2000-2003 Technická univerzita Gh. Asachi Iaşi, Fakulta stavebného inžinierstva a architektúry (Universitatea Tehnică Gh. Asachi Iaşi, Facultatea de Construcţii şi Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură),
+
+    - – Od roku 2004 Technická univerzita Gh. Asachi Iaşi, Fakulta architektúry (Universitatea Tehnică Gh. Asachi Iaşi, Facultatea de Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură);
+
+    - 28.4 Univerzita Politehnica Timişoara (Universitatea Politehnica din Timişoara):
+
+    - – 1993-1995 Technická univerzita Timişoara, Fakulta stavebného inžinierstva (Universitatea Tehnică din Timişoara, Facultatea de Construcţii), Diplom s titulom architekt, študijný odbor architektúra a urbanizmus, špecializácia všeobecná architektúra (Diplomă de Arhitect, profilul Arhitectură şi urbanism, specializarea Arhitectură generală),
+
+    - – 1995-1998 Univerzita Politehnica Timişoara, Fakulta stavebného inžinierstva (Universitatea Politehnica din Timişoara, Facultatea de Construcţii), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – 1998-1999 Univerzita Politehnica Timişoara, Fakulta stavebného inžinierstva a architektúry (Universitatea Politehnica din Timişoara, Facultatea de Construcţii şi Arhitectură), Diplom s titulom Licenţă, študijný odbor architektúra, špecializácia architektúra (Diplomă de Licenţă, profilul Arhitectură, specializarea Arhitectură),
+
+    - – Od roku 2000 Univerzita Politehnica Timişoara, Fakulta stavebného inžinierstva a architektúry (Universitatea Politehnica din Timişoara, Facultatea de Construcţii şi Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură);
+
+    - 28.5 Univerzita Oradea (Universitatea din Oradea):
+
+    - – 2002 Univerzita Oradea, Fakulta ochrany životného prostredia (Universitatea din Oradea, Facultatea de Protecţia Mediului), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură),
+
+    - – Od roku 2003 Fakulta architektúry a stavebného inžinierstva (Universitatea din Oradea, Facultatea de Arhitectură şi Construcţii), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură);
+
+    - 28.6 Univerzita Spiru Haret Bukurešť (Universitatea Spiru Haret Bucureşti):
+
+    - – Od roku 2002 Univerzita Spiru Haret Bukurešť, Fakulta architektúry (Universitatea Spiru Haret Bucureşti, Facultatea de Arhitectură), Diplom s titulom architekt, študijný odbor architektúra, špecializácia architektúra (Diplomă de Arhitect, profilul Arhitectură, specializarea Arhitectură).
+
+  - 29. Slovensko
+
+    - 29.1 Diplom v študijnom odbore architektúra a pozemné staviteľstvo, ktorý udelila Slovenská vysoká škola technická v Bratislave v rokoch 1950 až 1952 (titul: Ing.).
+
+    - 29.2 Diplom v študijnom odbore architektúra, ktorý udelila Fakulta architektúry a pozemného staviteľstva, Slovenská vysoká škola technická v Bratislave v rokoch 1952 až 1960 (titul: Ing. arch.).
+
+    - 29.3 Diplom v študijnom odbore pozemné staviteľstvo, ktorý udelila Fakulta architektúry a pozemného staviteľstva, Slovenská vysoká škola technická v Bratislave v rokoch 1952 až 1960 (titul: Ing.).
+
+    - 29.4 Diplom v študijnom odbore architektúra, ktorý udelila Stavebná fakulta, Slovenská vysoká škola technická v Bratislave v rokoch 1961 až 1976 (titul: Ing. arch.).
+
+    - 29.5 Diplom v študijnom odbore pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská vysoká škola technická v Bratislave v rokoch 1961 až 1976 (titul: Ing.).
+
+    - 29.6 Diplom v študijnom odbore architektúra, ktorý udelila Fakulta architektúry, Slovenská vysoká škola technická v Bratislave od roku 1977 (titul: Ing. arch.).
+
+    - 29.7 Diplom v študijnom odbore urbanizmus, ktorý udelila Fakulta architektúry, Slovenská vysoká škola technická v Bratislave od roku 1977 (titul: Ing. arch.).
+
+    - 29.8 Diplom v študijnom odbore pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave v rokoch 1977 až 1997 (titul: Ing.).
+
+    - 29.9 Diplom v študijnom odbore architektúra a pozemné stavby, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave od roku 1998 (titul: Ing.).
+
+    - 29.91 Diplom v študijnom odbore pozemné stavby – špecializácia architektúra, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave v rokoch 2000 až 2001 (titul: Ing.).
+
+    - 29.92 Diplom v študijnom odbore pozemné stavby a architektúra, ktorý udelila Stavebná fakulta, Slovenská technická univerzita v Bratislave od roku 2001 (titul: Ing.).
+
+    - 29.93 Diplom v študijnom odbore architektúra, ktorý udelila Vysoká škola výtvarných umení v Bratislave od roku 1969 (titul: Akad. arch. do roku 1990, Mgr. v rokoch 1990 až 1992, Mgr. arch. v rokoch 1992 až 1996, Mgr. art. od roku 1997).
+
+    - 29.94 Diplom v študijnom odbore pozemné staviteľstvo, ktorý udelila Stavebná fakulta, Technická univerzita v Košiciach v rokoch 1981 až 1991 (titul: Ing.),
 
     - – autorizačné osvedčenie vydané Slovenskou komorou architektov v Bratislave,
 
     - – autorizačné osvedčenie vydané Slovenskou komorou stavebných inžinierov v Bratislave v odbore „pozemné stavby“.
 
-  - 28. Iné osvedčenia a potvrdenia
+  - 30. Iné osvedčenia a potvrdenia
 
-    - 28.1 Osvedčenia vydané príslušnými úradmi Spolkovej republiky Nemecko, ktoré osvedčujú rovnocennosť dokladov o vzdelaní udelených do 8. mája 1945 a neskôr príslušnými úradmi Nemeckej demokratickej republiky s inými dokladmi o vzdelaní podľa tejto prílohy.
+    - 31.1 Osvedčenia vydané príslušnými úradmi Spolkovej republiky Nemecko, ktoré osvedčujú rovnocennosť dokladov o vzdelaní udelených do 8. mája 1945 a neskôr príslušnými úradmi Nemeckej demokratickej republiky s inými dokladmi o vzdelaní podľa tejto prílohy.
 
-    - 28.2 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Československu pred 1. januárom 1993, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice Rady 85/384/EHS (ďalej len „smernica“) za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak orgány Českej republiky potvrdia, že tieto kvalifikácie majú na jej území rovnaký účinok ako české kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Českej republiky počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.2 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Československu pred 1. januárom 1993, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice Rady 85/384/EHS (ďalej len „smernica“) za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak orgány Českej republiky potvrdia, že tieto kvalifikácie majú na jej území rovnaký účinok ako české kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Českej republiky počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
 
-    - 28.3 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 20. augustom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak estónske orgány potvrdia, že tieto kvalifikácie majú na území Estónska rovnaký účinok ako estónske kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Estónska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.3 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 20. augustom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak estónske orgány potvrdia, že tieto kvalifikácie majú na území Estónska rovnaký účinok ako estónske kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Estónska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
 
-    - 28.4 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 21. augustom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak lotyšské orgány potvrdia, že tieto kvalifikácie majú na území Lotyšska rovnaký účinok ako lotyšské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Lotyšska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.4 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 21. augustom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak lotyšské orgány potvrdia, že tieto kvalifikácie majú na území Lotyšska rovnaký účinok ako lotyšské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Lotyšska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
 
-    - 28.5 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 11. marcom 1990, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak litovské orgány potvrdia, že tieto kvalifikácie majú na území Litvy rovnaký účinok ako litovské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Litvy počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.5 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Sovietskom zväze pred 11. marcom 1990, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak litovské orgány potvrdia, že tieto kvalifikácie majú na území Litvy rovnaký účinok ako litovské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Litvy počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
 
-    - 28.6 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Československu pred 1. januárom 1993, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak slovenské orgány potvrdia, že tieto kvalifikácie majú na území Slovenska rovnaký účinok ako slovenské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Slovenska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.6 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v bývalom Československu pred 1. januárom 1993, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak slovenské orgány potvrdia, že tieto kvalifikácie majú na území Slovenska rovnaký účinok ako slovenské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Slovenska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
 
-    - 28.7 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v Juhoslávii pred 25. júnom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak slovinské orgány potvrdia, že tieto kvalifikácie majú na území Slovinska rovnaký účinok ako slovinské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Slovinska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
+    - 31.7 Ak ide o štátnych príslušníkov členských štátov, ktorým boli udelené diplomy, osvedčenia a iné doklady o formálnej kvalifikácii v oblasti architektúry alebo ktorých vzdelávanie sa začalo v Juhoslávii pred 25. júnom 1991, každý členský štát uzná, pokiaľ ide o prístup k výkonu a o výkon činností uvedených v článku 1 smernice za podmienok ustanovených v článku 23 smernice, tieto diplomy, osvedčenia a ďalšie doklady o formálnej kvalifikácii v oblasti architektúry, ak slovinské orgány potvrdia, že tieto kvalifikácie majú na území Slovinska rovnaký účinok ako slovinské kvalifikácie v architektúre uvedené v článku 11 smernice. K takémuto potvrdeniu sa musí priložiť osvedčenie vydané rovnakými orgánmi, ktoré preukazuje, že títo štátni príslušníci členských štátov účinne a v súlade s právnymi predpismi vykonávali činnosti v oblasti architektúry na území Slovinska počas najmenej troch po sebe nasledujúcich rokov v období piatich rokov predchádzajúcich dňu vydania tohto osvedčenia.
