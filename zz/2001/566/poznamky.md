@@ -30,7 +30,11 @@
 
 - 16) § 535 až 539 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 17) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 16a) § 39a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 16b) Čl. 38 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241, 2. 9. 2006).
+
+- 17) Čl. 38 a 39 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 18) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
 
@@ -50,9 +54,9 @@
 
 - 24a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
-- 24b) § 5 písm. j) zákona č. 594/2003 Z. z.
+- 24b) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
-- 24c) § 5 písm. e) zákona č. 594/2003 Z. z.
+- 24c) § 535 Občianskeho zákonníka.
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
@@ -116,7 +120,7 @@
 
 - 47g) § 151m ods. 1, 2 a 3 posledná veta, ods. 7 a 9 a § 151ma ods. 1 a 2 Občianskeho zákonníka.
 
-- 48) Napríklad zákon č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
+- 48) Napríklad zákon č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov.
 
 - 49) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -132,6 +136,8 @@
 
 - 52) § 30 zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
+- 52a) § 18a zákona č. 429/2002 Z. z.
+
 - 53) § 24 zákona č. 329/2000 Z. z.
 
 - 54) § 71/1967 Zb. o správnom konaní (správny poriadok).
@@ -140,7 +146,9 @@
 
 - 56) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 57) § 66 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 56a) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 58) § 65 Obchodného zákonníka.
 
@@ -160,6 +168,22 @@
 
 - 58h) § 23 a 55 zákona č. 428/2002 Z. z.
 
+- 58ha) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
+- 58hb) § 90 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
+
+- 58hc) § 4 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 58hd) Tabuľka 1 prílohy 1 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 58he) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z.
+
+- 58hf) Nariadenie Komisie (ES) č. 1287/2006/ES.
+
+- 58hg) § 22a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+
 - 58i) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 58j) § 31 až 33d zákona č. 483/2001 Z. z. v znení neskorších predpisov.
@@ -171,6 +195,40 @@
 - 60) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
 - 60a) § 19 ods. 1 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+
+- 60b) Článok 15 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60c) Článok 9 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60d) Článok 14 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60e) Článok 13 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60f) Článok 12 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60g) Článok 30 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60h) Článok 22 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60i) Článok 23 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60j) Článok 24 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60k) Článok 33 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60l) Články 29 a 32 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60m) Článok 26 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60n) Článok 25 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60o) Články 30 a 32 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60p) Článok 27 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 60r) § 13, 18a, 20, § 21 ods. 1, § 22a, 23 a 39a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 60s) § 11 zákona č. 483/2001 Z. z. v znení zákona č. 214/2006 Z. z.
 
 - 61) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
@@ -309,6 +367,10 @@
 - 107c) Napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
 - 107d) § 33 zákona č. 428/2002 Z. z.
+
+- 107e) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
+
+- § 75 zákona č. 215/2004 Z. z.
 
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 

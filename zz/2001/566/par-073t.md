@@ -1,0 +1,5 @@
+# § 73t
+
+(1) Ak ide o limitované pokyny klienta týkajúce sa akcií prijatých na obchodovanie na regulovanom trhu, ktoré nie sú hneď vykonané podľa prevládajúcich trhových podmienok, obchodník s cennými papiermi je povinný prijať, ak klient výslovne nevydá iné inštrukcie, opatrenia na umožnenie najskoršieho možného vykonania tohto pokynu okamžitým zverejnením tohto limitovaného pokynu klienta spôsobom, ktorý umožňuje ľahký prístup pre ostatných účastníkov trhu.<sup>58hf</sup>) Táto povinnosť sa považuje za splnenú, ak obchodník s cennými papiermi postúpi limitovaný pokyn klienta na regulovaný trh alebo na mnohostranný obchodný systém. Limitovaným pokynom sa rozumie pokyn kupovať alebo predávať finančný nástroj v rámci určeného cenového limitu alebo výhodnejšie a v určenom objeme.
+
+(2) Národná banka Slovenska je oprávnená udeliť výnimku z povinnosti zverejňovať informácie podľa odseku 1, ak ide o pokyny, ktoré sú veľké v porovnaní so štandardným trhovým objemom určeným podľa osobitného zákona.<sup>58hg</sup>)

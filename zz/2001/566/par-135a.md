@@ -1,6 +1,6 @@
 # § 135a
 
-(1) Národná banka Slovenska je povinná spolupracovať s príslušnými orgánmi členských štátov zodpovednými za dohľad nad finančným trhom, vymieňať si s nimi informácie na účely výkonu dohľadu a spolupracovať pri vyšetrovaní obchodovania s využitím dôverných informácií a manipulácie s trhom.
+(1) Národná banka Slovenska je povinná spolupracovať s príslušnými orgánmi členských štátov zodpovednými za dohľad nad finančným trhom, vymieňať si s nimi informácie na účely výkonu dohľadu a spolupracovať pri vyšetrovaní obchodovania s využitím dôverných informácií a manipulácie s trhom a na účely výkonu dohľadu nad obchodníkmi s cennými papiermi a trhmi s finančnými nástrojmi v súlade s osobitným predpisom.<sup>60b</sup>)
 
 (2) Ak príslušný orgán členského štátu požiada Národnú banku Slovenska o informácie na účely podľa odseku 1, Národná banka Slovenska je povinná bez zbytočného odkladu tejto žiadosti vyhovieť. Ak Národná banka Slovenska nemá k dispozícii požadované informácie a nemá oprávnenie ich získať, bez zbytočného odkladu oznámi žiadajúcemu orgánu túto skutočnosť.
 
@@ -14,13 +14,13 @@
 
 V takom prípade Národná banka Slovenska informuje o dôvodoch žiadajúci orgán členského štátu a poskytne mu informácie o konaní alebo rozsudku podľa písmena b) alebo c), ak ich má k dispozícii a ak je možné ich poskytnúť v súlade s osobitným zákonom.<sup>108a</sup>)
 
-(4) Ak Národná banka Slovenska dostala upozornenie príslušného orgánu členského štátu, že na území Slovenskej republiky sa koná alebo konalo v rozpore s ustanoveniami tohto zákona alebo právneho predpisu Európskej únie o obchodovaní s využitím dôverných informácií a o manipulácii s trhom, alebo že také konanie ovplyvňuje finančné nástroje, s ktorými sa obchoduje na regulovanom trhu nachádzajúcom sa v inom členskom štáte, Národná banka Slovenska je povinná vykonať dohľad. Národná banka Slovenska je povinná informovať príslušný orgán členského štátu, ktorý vykonal oznámenie, o podstatných predbežných krokoch prijatých Národnou bankou Slovenska pri preverovaní oznámenia a o výsledku konania.
+(4) Ak Národná banka Slovenska dostala upozornenie príslušného orgánu členského štátu, že na území Slovenskej republiky sa koná alebo konalo v rozpore s ustanoveniami tohto zákona, právnych predpisov Európskej únie upravujúcich činnosť obchodníkov s cennými papiermi a trhy s finančnými nástrojmi alebo právneho predpisu Európskej únie o obchodovaní s využitím dôverných informácií a o manipulácii s trhom, alebo že také konanie ovplyvňuje finančné nástroje, s ktorými sa obchoduje na regulovanom trhu nachádzajúcom sa v inom členskom štáte, Národná banka Slovenska je povinná vykonať dohľad. Národná banka Slovenska je povinná informovať príslušný orgán členského štátu, ktorý vykonal oznámenie, o podstatných predbežných krokoch prijatých Národnou bankou Slovenska pri preverovaní oznámenia a o výsledku konania.
 
 (5) Ak príslušný orgán členského štátu požiada Národnú banku Slovenska o vykonanie dohľadu na mieste na území Slovenskej republiky, Národná banka Slovenska je povinná tejto žiadosti vyhovieť. Pracovníci príslušného orgánu členského štátu sú oprávnení zúčastniť sa na tomto dohľade, ak o to príslušný orgán členského štátu požiadal. Národná banka Slovenska je oprávnená odmietnuť tieto žiadosti z dôvodov uvedených v odseku 3. V takom prípade Národná banka Slovenska informuje o dôvodoch žiadajúci orgán členského štátu a poskytne mu informácie o konaní alebo rozsudku podľa písmena b) alebo c).
 
 (6) Národná banka Slovenska je oprávnená požiadať príslušný orgán členského štátu o informácie na účely podľa odseku 1.
 
-(7) Ak má Národná banka Slovenska dôvodné podozrenie, že na území iného členského štátu sa koná alebo konalo v rozpore s ustanoveniami právnych predpisov Európskej únie o obchodovaní s využitím dôverných informácií a o manipulácii s trhom, alebo že také konanie ovplyvňuje finančné nástroje, s ktorými sa obchoduje na regulovanom trhu v Slovenskej republike, Národná banka Slovenska je povinná upozorniť na tieto skutočnosti príslušný orgán členského štátu.
+(7) Ak má Národná banka Slovenska dôvodné podozrenie, že na území iného členského štátu sa koná alebo konalo v rozpore s ustanoveniami právnych predpisov Európskej únie upravujúcimi činnosť obchodníkov s cennými papiermi a trhy s finančnými nástrojmi, o obchodovaní s využitím dôverných informácií a o manipulácii s trhom, alebo že také konanie ovplyvňuje finančné nástroje, s ktorými sa obchoduje na regulovanom trhu v Slovenskej republike, Národná banka Slovenska je povinná upozorniť na tieto skutočnosti príslušný orgán členského štátu.
 
 (8) Národná banka Slovenska je oprávnená požiadať príslušný orgán členského štátu o vykonanie dohľadu na mieste na území členského štátu a o účasť zamestnancov Národnej banky Slovenska na vykonaní tohto dohľadu.
 
@@ -29,3 +29,9 @@ V takom prípade Národná banka Slovenska informuje o dôvodoch žiadajúci org
 (10) Na informácie, ktoré prijala Národná banka Slovenska od príslušného orgánu členského štátu, sa rovnako vzťahuje povinnosť mlčanlivosti podľa osobitného zákona.<sup>20</sup>)
 
 (11) Ak žiadosť Národnej banky Slovenska podľa odsekov 6 až 8 príslušný orgán členského štátu zamietne bez uvedenia dôvodov alebo z dôvodov, ktoré nie sú v súlade s ustanoveniami smernice Európskej únie o obchodovaní s využitím dôverných informácií a o manipulácii s trhom, alebo tejto žiadosti Národnej banky Slovenska nevyhovie v rámci primeranej lehoty, Národná banka Slovenska je oprávnená na túto skutočnosť upozorniť Výbor európskych regulátorov cenných papierov.
+
+(12) Národná banka Slovenska vytvorí s príslušným orgánom iného členského štátu vhodný systém spolupráce pri výkone dohľadu, ak ide o regulované trhy zo Slovenskej republiky, ktoré sprístupnili vybavenie v tomto členskom štáte alebo regulovaných trhov z tohto iného členského štátu, ktoré sprístupnili vybavenie v Slovenskej republike, ak majú operácie na týchto regulovaných trhoch podstatný význam pre fungovanie trhov s cennými papiermi a ochranu investorov v Slovenskej republike alebo v tomto členskom štáte.
+
+(13) Ak sa Národná banka Slovenska pri výkone dohľadu nad regulovaným trhom obrátila priamo na zahraničného obchodníka s cennými papiermi so sídlom v členskom štáte, ktorý je členom burzy cenných papierov s prístupom na diaľku, je povinná o tejto skutočnosti informovať príslušný orgán domovského členského štátu.
+
+(14) Národná banka Slovenska je oprávnená využiť svoje právomoci na účely spolupráce aj v prípadoch, aj keď vyšetrovaný prípad sa netýka porušenia všeobecne záväzného právneho predpisu v Slovenskej republike.
