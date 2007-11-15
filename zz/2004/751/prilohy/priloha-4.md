@@ -1,410 +1,400 @@
 Príloha č. 4 k nariadeniu vlády č. 751/2004 Z. z.
 
-- Prepočet stanovenej minimálnej siete pre lôžka poskytovateľov ústavnej zdravotnej starostlivosti v príslušných špecializačných odboroch na územie Slovenskej republiky a príslušných krajov Slovenskej republiky Slovenská republika:
+- Prepočet určenej minimálnej siete pre lôžka poskytovateľov ústavnej zdravotnej starostlivosti v príslušných špecializačných odboroch na územie Slovenskej republiky a príslušných krajov Slovenskej republiky Slovenská republika:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 463
+- Akútne lôžka | 22240
 
-- | Cievna chirurgia | 61
+- Chronické lôžka | 3211
 
-- | Dermatovenerológia | 487
+- Psychiatrické lôžka | 3629
 
-- | Diabetológia, poruchy látkovej premeny a výživy | 100
+- Spolu | 29080
 
-- | Endokrinológia | 64
+- Vnútorné lekárstvo | 3340
 
-- | Foniatria | 18
+- Infektológia | 588
 
-- | Gastroenterológia | 39
+- Pneumológia a ftizeológia | 956
 
-- | Geriatria | 701
+- Neurológia | 1510
 
-- | Chirurgia | 3 379
+- Psychiatria | 3008
 
-- | Intenzívna starostlivosť v pediatrii | 31
+- Klinické pracovné lekárstvo a klinická toxikológia | 76
 
-- | Kardiochirurgia | 99
+- Pediatria | 1841
 
-- | Kardiológia | 285
+- Gynekológia a pôrodníctvo | 2500
 
-- | Klinická farmakológia | 20
+- Chirurgia | 3428
 
-- | Klinická hematológia a transfúziológia | 93
+- Ortopédia | 735
 
-- | Klinická imunológia | 30
+- Urológia | 510
 
-- | Klinická onkológia | 514
+- Úrazová chirurgia | 659
 
-- | Nefrológia | 24
+- Otorinolaryngológia | 612
 
-- | Neurochirurgia | 277
+- Oftalmológia | 294
 
-- | Neurológia | 1 663
+- Maxilofaciálna chirurgia | 69
 
-- | Nukleárna medicína | 33
+- Dermatovenerológia | 280
 
-- | Oftalmológia | 496
+- Klinická onkológia | 465
 
-- | Ortopédia | 727
+- Anestéziológia a intenzívna medicína | 475
 
-- | Ortopedická protetika | 31
+- Algeziológia | 75
 
-- | Otorinolaryngológia | 698
+- Fyziatria, balneológia a liečebná rehabilitácia | 674
 
-- | Pediatria | 1 874
+- Neurochirurgia | 204
 
-- | Plastická chirurgia | 150
+- Plastická chirurgia | 128
 
-- | Pľúcna chirurgia | 68
+- Ortopedická protetika | 28
 
-- | Popáleninové | 46
+- Radiačná onkológia | 311
 
-- | Infektológia | 709
+- Foniatria | 8
 
-- | Klinické pracovné lekárstvo a toxikológia | 95
+- Reumatológia | 90
 
-- | Rádioterapia | 301
+- Nukleárna medicína | 35
 
-- | Reumatológia | 94
+- Gastroenterológia | 19
 
-- | Transplantačné | 27
+- Kardiológia | 236
 
-- | Traumatológia | 783
+- Diabetológia, poruchy látkovej premeny a výživy | 82
 
-- | Pneumológia a ftizeológia* | 505
+- Neonatológia a novorodenecké postele | 1219
 
-- | Urológia | 642
+- Geriatria | 1053
 
-- | Vnútorné lekárstvo | 4 043
+- Nefrológia | 8
 
-- | Gynekológia a pôrodníctvo | 2 676
+- Endokrinológia | 32
 
-- | Neonatológia | 647
+- Cievna chirurgia | 120
 
-- | Maxilofaciálna chirurgia | 100
+- Kardiochirurgia | 169
 
-- Akútne spolu | | 23 093
+- Liečba alkoholizmu a iných toxikománií | 374
 
-- Chronické | Dlhodobo chorých | 1 783
+- Gerontopsychiatria | 247
 
-- | Doliečovacie | 754
+- Popáleninové | 51
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 922
+- Doliečovacie | 586
 
-- | Paliatívne | 158
+- Ošetrovateľské | 80
 
-- | Pneumológia a ftizeológia** | 1 691
+- Dlhodobo chorých | 1571
 
-- Chronické spolu | | 5 308
+- Transplantačné | 20
 
-- Psychiatrické | Gerontopsychiatria | 171
+- Klinická hematológia | 94
 
-- | Drogové závislosti | 379
+- Paliatívna starostlivosť | 160
 
-- | Psychiatria | 3 385
-
-- Psychiatrické spolu | | 3 935
-
-- Celkový súčet | | 32 334
-
-- * v nemocniciach
-
-- ** v liečebniach
+- Hrudníková chirurgia | 60
 
 - Bratislavský kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 120
+- Akútne lôžka | 2498
 
-- | Cievna chirurgia | 37
+- Chronické lôžka | 345
 
-- | Dermatovenerológia | 85
+- Psychiatrické lôžka | 455
 
-- | Diabetológia, poruchy látkovej premeny a výživy | 3
+- Spolu | 3298
 
-- | Foniatria | 9
+- Vnútorné lekárstvo | 372
 
-- | Gastroenterológia | 26
+- Infektológia | 66
 
-- | Geriatria | 120
+- Pneumológia a ftizeológia | 106
 
-- | Chirurgia | 485
+- Neurológia | 168
 
-- | Kardiochirurgia | 61
+- Psychiatria | 385
 
-- | Kardiológia | 119
+- Klinické pracovné lekárstvo a klinická toxikológia | 8
 
-- | Klinická farmakológia | 20
+- Pediatria | 205
 
-- | Klinická hematológia sa transfúziológia | 41
+- Gynekológia a pôrodníctvo | 278
 
-- | Klinická imunológia | 20
+- Chirurgia | 382
 
-- | Klinická onkológia | 56
+- Ortopédia | 82
 
-- | Neurochirurgia | 70
+- Urológia | 57
 
-- | Neurológia | 248
+- Úrazová chirurgia | 73
 
-- | Nukleárna medicína | 14
+- Otorinolaryngológia | 68
 
-- | Oftalmológia | 72
+- Oftalmológia | 33
 
-- | Ortopédia | 145
+- Maxilofaciálna chirurgia | 8
 
-- | Ortopedická protetika | 26
+- Dermatovenerológia | 31
 
-- | Otorinolaryngológia | 86
+- Klinická onkológia | 52
 
-- | Pediatria | 145
+- Anestéziológia a intenzívna medicína | 53
 
-- | Plastická chirurgia | 74
+- Algeziológia | 25
 
-- | Pľúcna chirurgia | 26
+- Fyziatria, balneológia a liečebná rehabilitácia | 75
 
-- | Popáleninové | 26
+- Neurochirurgia | 23
 
-- | Infektológia | 92
+- Plastická chirurgia | 14
 
-- | Klinické pracovné lekárstvo a toxikológia | 21
+- Ortopedická protetika | 3
 
-- | Rádioterapia | 90
+- Radiačná onkológia | 35
 
-- | Transplantačné | 12
+- Foniatria | 1
 
-- | Traumatológia | 80
+- Nukleárna medicína | 15
 
-- | Pneumológia a ftizeológia* | 114
+- Gastroenterológia | 2
 
-- | Urológia | 141
+- Kardiológia | 26
 
-- | Vnútorné lekárstvo | 634
+- Neonatológia a novorodenecké postele | 136
 
-- | Gynekológia a pôrodníctvo | 326
+- Geriatria | 117
 
-- | Neonatológia | 82
+- Cievna chirurgia | 15
 
-- | Maxilofaciálna chirurgia | 42
+- Kardiochirurgia | 19
 
-- Akútne spolu | | 3 632
+- Liečba alkoholizmu a iných toxikománií | 42
 
-- Chronické | Dlhodobo chorých | 172
+- Gerontopsychiatria | 28
 
-- | Doliečovacie | 41
+- Popáleninové | 6
 
-- | Paliatívne | 19
+- Doliečovacie | 65
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 165
+- Ošetrovateľské | 10
 
-- Chronické spolu | | 397
+- Dlhodobo chorých | 175
 
-- Psychiatrické | Gerontopsychiatria | 98
+- Transplantačné | 2
 
-- | Drogové závislosti | 128
+- Klinická hematológia | 10
 
-- | Psychiatria | 563
+- Paliatívna starostlivosť | 20
 
-- Psychiatrické spolu | | 789
-
-- Celkový súčet | | 4 932
-
-- * v nemocniciach
+- Hrudníková chirurgia | 7
 
 - Trnavský kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 27
+- Akútne lôžka | 2103
 
-- | Dermatovenerológia | 19
+- Chronické lôžka | 320
 
-- | Geriatria | 115
+- Psychiatrické lôžka | 313
 
-- | Chirurgia | 258
+- Spolu | 2736
 
-- | Klinická onkológia | 26
+- Vnútorné lekárstvo | 342
 
-- | Neurológia | 170
+- Infektológia | 60
 
-- | Oftalmológia | 31
+- Pneumológia a ftizeológia | 98
 
-- | Ortopédia | 98
+- Neurológia | 155
 
-- | Otorinolaryngológia | 57
+- Psychiatria | 288
 
-- | Paliatívne | 9
+- Pediatria | 189
 
-- | Pediatria | 134
+- Gynekológia a pôrodníctvo | 256
 
-- | Infektológia | 64
+- Chirurgia | 351
 
-- | Reumatológia | 94
+- Ortopédia | 75
 
-- | Traumatológia | 38
+- Urológia | 52
 
-- | Pneumológia a ftizeológia* | 26
+- Úrazová chirurgia | 68
 
-- | Urológia | 51
+- Otorinolaryngológia | 63
 
-- | Vnútorné lekárstvo | 299
+- Oftalmológia | 30
 
-- | Gynekológia a pôrodníctvo | 208
+- Dermatovenerológia | 29
 
-- | Neonatológia | 28
+- Klinická onkológia | 48
 
-- Akútne spolu | | 1 742
+- Anestéziológia a intenzívna medicína | 49
 
-- Chronické | Dlhodobo chorých | 286
+- Fyziatria, balneológia a liečebná rehabilitácia | 69
 
-- | Doliečovacie | 36
+- Reumatológia | 10
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 105
+- Neonatológia a novorodenecké postele | 120
 
-- Chronické spolu | | 427
+- Geriatria | 108
 
-- Psychiatrické | Psychiatria | 116
+- Gerontopsychiatria | 25
 
-- Psychiatrické spolu | | 116
+- Doliečovacie | 60
 
-- Celkový súčet | | 2 285
+- Ošetrovateľské | 10
 
-- * v nemocniciach
+- Dlhodobo chorých | 161
 
-- Trenčiansky kraj:
+- Paliatívna starostlivosť | 20
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Trenčiansky kraj:*
 
-- Akútne | Anestéziológia a intenzívna medicína | 34
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- | Dermatovenerológia | 58
+- Akútne lôžka | 2303
 
-- | Geriatria | 68
+- Chronické lôžka | 349
 
-- | Chirurgia | 434
+- Psychiatrické lôžka | 337
 
-- | Klinická onkológia | 41
+- Spolu | 2989
 
-- | Neurológia | 162
+- Vnútorné lekárstvo | 376
 
-- | Oftalmológia | 38
+- Infektológia | 66
 
-- | Ortopédia | 87
+- Pneumológia a ftizeológia | 108
 
-- | Otorinolaryngológia | 74
+- Neurológia | 170
 
-- | Pediatria | 227
+- Psychiatria | 309
 
-- | Infektológia | 77
+- Pediatria | 207
 
-- | Traumatológia | 38
+- Gynekológia a pôrodníctvo | 281
 
-- | Pneumológia a ftizeológia* | 88
+- Chirurgia | 386
 
-- | Urológia | 58
+- Ortopédia | 83
 
-- | Vnútorné lekárstvo | 519
+- Urológia | 57
 
-- | Gynekológia a pôrodníctvo | 294
+- Úrazová chirurgia | 74
 
-- | Neonatológia | 81
+- Otorinolaryngológia | 69
 
-- Akútne spolu | | 2 377
+- Oftalmológia | 33
 
-- Chronické | Dlhodobo chorých | 81
+- Dermatovenerológia | 32
 
-- | Doliečovacie | 159
+- Klinická onkológia | 52
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 33
+- Anestéziológia a intenzívna medicína | 53
 
-- | Paliatívne | 9
+- Fyziatria, balneológia a liečebná rehabilitácia | 76
 
-- | Pneumológia a ftizeológia** | 17
+- Neonatológia a novorodenecké postele | 138
 
-- Chronické spolu | | 298
+- Geriatria | 118
 
-- Psychiatrické | Psychiatria | 204
+- Gerontopsychiatria | 28
 
-- Psychiatrické spolu | | 204
+- Doliečovacie | 66
 
-- Celkový súčet | | 2 879
+- Ošetrovateľské | 10
 
-- * v nemocniciach
+- Dlhodobo chorých | 177
 
-- ** v liečebniach
+- Paliatívna starostlivosť | 20
+
+- * Do lôžkového fondu Trenčianskeho kraja sa nezahŕňajú počty lôžok v Nemocnici pre obvinených a odsúdených v Trenčíne.
 
 - Nitriansky kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 58
+- Akútne lôžka | 2822
 
-- | Cievna chirurgia | 9
+- Chronické lôžka | 405
 
-- | Dermatovenerológia | 82
+- Psychiatrické lôžka | 482
 
-- | Geriatria | 98
+- Spolu | 3709
 
-- | Chirurgia | 399
+- Vnútorné lekárstvo | 443
 
-- | Kardiológia | 13
+- Infektológia | 78
 
-- | Klinická onkológia | 77
+- Pneumológia a ftizeológia | 127
 
-- | Neurochirurgia | 34
+- Neurológia | 200
 
-- | Neurológia | 168
+- Psychiatria | 399
 
-- | Oftalmológia | 43
+- Pediatria | 244
 
-- | Ortopédia | 77
+- Gynekológia a pôrodníctvo | 332
 
-- | Otorinolaryngológia | 68
+- Chirurgia | 455
 
-- | Pediatria | 241
+- Ortopédia | 97
 
-- | Plastická chirurgia | 9
+- Urológia | 68
 
-- | Infektológia | 81
+- Úrazová chirurgia | 87
 
-- | Rádioterapia | 65
+- Otorinolaryngológia | 81
 
-- | Traumatológia | 94
+- Oftalmológia | 39
 
-- | Pneumológia a ftizeológia* | 60
+- Maxilofaciálna chirurgia | 6
 
-- | Urológia | 75
+- Dermatovenerológia | 37
 
-- | Vnútorné lekárstvo | 520
+- Klinická onkológia | 62
 
-- | Gynekológia a pôrodníctvo | 326
+- Anestéziológia a intenzívna medicína | 63
 
-- | Neonatológia | 89
+- Fyziatria, balneológia a liečebná rehabilitácia | 89
 
-- Akútne spolu | | 2 686
+- Neurochirurgia | 27
 
-- Chronické | Dlhodobo chorých | 160
+- Plastická chirurgia | 17
 
-- | Doliečovacie | 57
+- Radiačná onkológia | 41
 
-- | Paliatívne | 21
+- Neonatológia a novorodenecké postele | 163
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 37
+- Geriatria | 140
 
-- | Pneumológia a ftizeológia** | 125
+- Cievna chirurgia | 15
 
-- Chronické spolu | | 400
+- Liečba alkoholizmu a iných toxikománií | 50
 
-- Psychiatrické | Gerontopsychiatria | 47
+- Gerontopsychiatria | 33
 
-- | Drogové závislosti | 67
+- Doliečovacie | 78
 
-- | Psychiatria | 632
+- Ošetrovateľské | 10
 
-- Psychiatrické spolu | | 745
+- Dlhodobo chorých | 208
 
-- Celkový súčet | | 3 831
+- Paliatívna starostlivosť | 20
 
 - * v nemocniciach
 
@@ -412,334 +402,336 @@ Príloha č. 4 k nariadeniu vlády č. 751/2004 Z. z.
 
 - Žilinský kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 33
+- Akútne lôžka | 2821
 
-- | Cievna chirurgia | 9
+- Chronické lôžka | 394
 
-- | Dermatovenerológia | 54
+- Psychiatrické lôžka | 467
 
-- | Diabetológia, poruchy látkovej premeny a výživy | 98
+- Spolu | 3682
 
-- | Endokrinológia | 64
+- Vnútorné lekárstvo | 430
 
-- | Gastroenterológia | 14
+- Infektológia | 76
 
-- | Chirurgia | 346
+- Pneumológia a ftizeológia | 123
 
-- | Intenzívna starostlivosť v pediatrii | 7
+- Neurológia | 194
 
-- | Kardiológia | 16
+- Psychiatria | 387
 
-- | Klinická hematológia a transfúziológia | 18
+- Klinické pracovné lekárstvo a klinická toxikológia | 10
 
-- | Klinická onkológia | 38
+- Pediatria | 237
 
-- | Neurochirurgia | 99
+- Gynekológia a pôrodníctvo | 322
 
-- | Neurológia | 190
+- Chirurgia | 441
 
-- | Nukleárna medicína | 13
+- Ortopédia | 95
 
-- | Oftalmológia | 49
+- Urológia | 66
 
-- | Ortopédia | 109
+- Úrazová chirurgia | 85
 
-- | Otorinolaryngológia | 109
+- Otorinolaryngológia | 79
 
-- | Pediatria | 241
+- Oftalmológia | 38
 
-- | Plastická chirurgia | 11
+- Maxilofaciálna chirurgia | 9
 
-- | Infektológia | 77
+- Dermatovenerológia | 36
 
-- | Klinické pracovné lekárstvo a toxikológia | 26
+- Klinická onkológia | 60
 
-- | Rádioterapia | 53
+- Anestéziológia a intenzívna medicína | 61
 
-- | Traumatológia | 162
+- Fyziatria, balneológia a liečebná rehabilitácia | 87
 
-- | Pneumológia a fätizeológia* | 116
+- Neurochirurgia | 25
 
-- | Urológia | 91
+- Plastická chirurgia | 17
 
-- | Vnútorné lekárstvo | 422
+- Radiačná onkológia | 40
 
-- | Gynekológia a pôrodníctvo | 322
+- Nukleárna medicína | 10
 
-- | Neonatológia | 99
+- Gastroenterológia | 2
 
-- | Maxilofaciálna chirurgia | 13
+- Kardiológia | 30
 
-- Akútne spolu | | 2 896
+- Diabetológia, poruchy látkovej premeny a výživy | 11
 
-- Chronické | Dlhodobo chorých | 193
+- Neonatológia a novorodenecké postele | 158
 
-- | Doliečovacie | 82
+- Geriatria | 135
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 20
+- Endokrinológia | 4
 
-- | Paliatívne | 30
+- Cievna chirurgia | 15
 
-- Chronické spolu | | 325
+- Liečba alkoholizmu a iných toxikománií | 48
 
-- Psychiatrické | Drogové závislosti | 9
+- Gerontopsychiatria | 32
 
-- | Psychiatria | 433
+- Doliečovacie | 75
 
-- Psychiatrické spolu | | 442
+- Ošetrovateľské | 10
 
-- Celkový súčet | | 3 663
+- Dlhodobo chorých | 202
 
-- * v nemocniciach
+- Klinická hematológia | 12
+
+- Paliatívna starostlivosť | 20
 
 - Banskobystrický kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 51
+- Akútne lôžka | 2715
 
-- | Cievna chirurgia | 8
+- Chronické lôžka | 378
 
-- | Dermatovenerológia | 43
+- Psychiatrické lôžka | 446
 
-- | Foniatria | 9
+- Spolu | 3539
 
-- | Geriatria | 68
+- Vnútorné lekárstvo | 411
 
-- | Chirurgia | 455
+- Infektológia | 72
 
-- | Intenzívna starostlivosť v pediatrii | 11
+- Pneumológia a ftizeológia | 118
 
-- | Kardiochirurgia | 12
+- Neurológia | 186
 
-- | Kardiológia | 52
+- Psychiatria | 370
 
-- | Klinická hematológia a transfúziológia | 27
+- Klinické pracovné lekárstvo a klinická toxikológia | 9
 
-- | Klinická onkológia | 69
+- Pediatria | 227
 
-- | Neurochirurgia | 26
+- Gynekológia a pôrodníctvo | 308
 
-- | Neurológia | 183
+- Chirurgia | 422
 
-- | Oftalmológia | 89
+- Ortopédia | 90
 
-- | Ortopédia | 32
+- Urológia | 63
 
-- | Ortopedická protetika | 5
+- Úrazová chirurgia | 81
 
-- | Otorinolaryngológia | 57
+- Otorinolaryngológia | 75
 
-- | Pediatria | 275
+- Oftalmológia | 36
 
-- | Plastická chirurgia | 20
+- Dermatovenerológia | 34
 
-- | Infektológia | 82
+- Klinická onkológia | 57
 
-- | Klinické pracovné lekárstvo a toxikológia | 11
+- Anestéziológia a intenzívna medicína | 58
 
-- | Rádioterapia | 29
+- Algeziológia | 25
 
-- | Traumatológia | 98
+- Fyziatria, balneológia a liečebná rehabilitácia | 83
 
-- | Pneumológia a ftizeológia* | 74
+- Neurochirurgia | 25
 
-- | Urológia | 54
+- Plastická chirurgia | 16
 
-- | Vnútorné lekárstvo | 517
+- Ortopedická protetika | 3
 
-- | Gynekológia a pôrodníctvo | 311
+- Radiačná onkológia | 38
 
-- | Neonatológia | 28
+- Kardiológia | 29
 
-- | Maxilofaciálna chirurgia | 4
+- Neonatológia a novorodenecké postele | 151
 
-- Akútne spolu | | 2 698
+- Geriatria | 130
 
-- Chronické | Dlhodobo chorých | 298
+- Cievna chirurgia | 15
 
-- | Doliečovacie | 48
+- Kardiochirurgia | 21
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 205
+- Liečba alkoholizmu a iných toxikománií | 46
 
-- | Pneumológia a ftizeológia** | 34
+- Gerontopsychiatria | 30
 
-- Chronické spolu | | 585
+- Doliečovacie | 72
 
-- Psychiatrické | Drogové závislosti | 149
+- Ošetrovateľské | 10
 
-- | Psychiatria | 378
+- Dlhodobo chorých | 193
 
-- Psychiatrické spolu | | 527
+- Transplantačné | 3
 
-- Celkový súčet | | 3 810
+- Klinická hematológia | 12
 
-- * v nemocniciach
-
-- ** v liečebniach
+- Paliatívna starostlivosť | 20
 
 - Prešovský kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 76
+- Akútne lôžka | 3023
 
-- | Dermatovenerológia | 46
+- Chronické lôžka | 586
 
-- | Geriatria | 152
+- Psychiatrické lôžka | 438
 
-- | Chirurgia | 490
+- Spolu | 4047
 
-- | Kardiológia | 28
+- Vnútorné lekárstvo | 490
 
-- | Klinická hematológia a transfúziológia | 7
+- Infektológia | 86
 
-- | Klinická imunológia | 10
+- Pneumológia a ftizeológia | 140
 
-- | Klinická onkológia | 89
+- Neurológia | 222
 
-- | Neurológia | 301
+- Psychiatria | 402
 
-- | Oftalmológia | 95
+- Klinické pracovné lekárstvo a klinická toxikológia | 11
 
-- | Ortopédia | 75
+- Pediatria | 270
 
-- | Otorinolaryngológia | 107
+- Gynekológia a pôrodníctvo | 367
 
-- | Pediatria | 347
+- Chirurgia | 503
 
-- | Pľúcna chirurgia | 43
+- Ortopédia | 108
 
-- | Infektológia | 114
+- Urológia | 75
 
-- | Klinické pracovné lekárstvo a toxikológia | 8
+- Úrazová chirurgia | 97
 
-- | Rádioterapia | 24
+- Otorinolaryngológia | 90
 
-- | Traumatológia | 133
+- Oftalmológia | 43
 
-- | Pneumológia a ftizeológia* | 39
+- Maxilofaciálna chirurgia | 10
 
-- | Urológia | 83
+- Dermatovenerológia | 41
 
-- | Vnútorné lekárstvo | 583
+- Klinická onkológia | 68
 
-- | Gynekológia a pôrodníctvo | 499
+- Anestéziológia a intenzívna medicína | 70
 
-- | Neonatológia | 114
+- Fyziatria, balneológia a liečebná rehabilitácia | 99
 
-- | Maxilofaciálna chirurgia | 10
+- Plastická chirurgia | 19
 
-- Akútne spolu | | 3 471
+- Radiačná onkológia | 46
 
-- Chronické | Dlhodobo chorých | 252
+- Kardiológia | 35
 
-- | Doliečovacie | 193
+- Neonatológia a novorodenecké postele | 179
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 131
+- Geriatria | 155
 
-- | Pneumológia a ftizeológia** | 1 401
+- Cievna chirurgia | 15
 
-- | Paliatívne | 30
+- Gerontopsychiatria | 36
 
-- Chronické spolu | | 2 007
+- Doliečovacie | 86
 
-- | Psychiatria | 385
+- Ošetrovateľské | 10
 
-- Psychiatrické spolu | | 385
+- Dlhodobo chorých | 231
 
-- Celkový súčet | | 5 863
+- Klinická hematológia | 14
 
-- * v nemocniciach
+- Paliatívna starostlivosť | 20
 
-- ** v liečebniach
+- Hrudníková chirurgia | 9
 
 - Košický kraj:
 
-- Typ lôžok | Oddelenia | Minimálna sieť lôžok
+- Názov oddelenia/Typ lôžok | Minimálna potreba lôžok
 
-- Akútne | Anestéziológia a intenzívna medicína | 64
+- Akútne lôžka | 3154
 
-- | Dermatovenerológia | 101
+- Chronické lôžka | 434
 
-- | Geriatria | 81
+- Psychiatrické lôžka | 556
 
-- | Chirurgia | 513
+- Spolu | 4144
 
-- | Intenzívna starostlivosť v pediatrii | 14
+- Vnútorné lekárstvo | 476
 
-- | Kardiochirurgia | 26
+- Infektológia | 84
 
-- | Kardiológia | 58
+- Pneumológia a ftizeológia | 136
 
-- | Klinická hematológia a transfúziológia | 20
+- Neurológia | 215
 
-- | Klinická onkológia | 119
+- Psychiatria | 468
 
-- | Nefrológia | 24
+- Klinické pracovné lekárstvo a klinická toxikológia | 11
 
-- | Neurochirurgia | 48
+- Pediatria | 262
 
-- | Neurológia | 241
+- Gynekológia a pôrodníctvo | 356
 
-- | Nukleárna medicína | 6
+- Chirurgia | 488
 
-- | Oftalmológia | 77
+- Ortopédia | 105
 
-- | Ortopédia | 104
+- Urológia | 72
 
-- | Otorinolaryngológia | 141
+- Úrazová chirurgia | 94
 
-- | Pediatria | 265
+- Otorinolaryngológia | 87
 
-- | Plastická chirurgia | 36
+- Oftalmológia | 42
 
-- | Popáleninové | 20
+- Maxilofaciálna chirurgia | 10
 
-- | Infektológia | 123
+- Dermatovenerológia | 40
 
-- | Klinické pracovné lekárstvo a toxikológia | 30
+- Klinická onkológia | 66
 
-- | Rádioterapia | 40
+- Anestéziológia a intenzívna medicína | 68
 
-- | Transplantačné | 15
+- Algeziológia | 20
 
-- | Traumatológia | 139
+- Fyziatria, balneológia a liečebná rehabilitácia | 96
 
-- | Pneumológia a ftizeológia* | 104
+- Neurochirurgia | 29
 
-- | Urológia | 89
+- Plastická chirurgia | 18
 
-- | Vnútorné lekárstvo | 547
+- Radiačná onkológia | 44
 
-- | Gynekológia a pôrodníctvo | 389
+- Nukleárna medicína | 10
 
-- | Neonatológia | 125
+- Kardiológia | 34
 
-- | Maxilofaciálna chirurgia | 31
+- Neonatológia a novorodenecké postele | 174
 
-- Akútne spolu | | 3 590
+- Geriatria | 150
 
-- Chronické | Dlhodobo chorých | 343
+- Nefrológia | 1
 
-- | Doliečovacie | 139
+- Cievna chirurgia | 15
 
-- | Fyziatria, balneológia a liečebná rehabilitácia | 228
+- Kardiochirurgia | 24
 
-- | Paliatívne | 42
+- Liečba alkoholizmu a iných toxikománií | 53
 
-- Chronické spolu | | 778
+- Gerontopsychiatria | 35
 
-- Psychiatrické | Drogové závislosti | 26
+- Popáleninové | 7
 
-- | Gerontopsychiatria | 26
+- Doliečovacie | 84
 
-- | Psychiatria | 675
+- Ošetrovateľské | 10
 
-- Psychiatrické spolu | | 701
+- Dlhodobo chorých | 224
 
-- Celkový súčet | | 5 069
+- Transplantačné | 3
 
-- * v nemocniciach
+- Klinická hematológia | 13
+
+- Paliatívna starostlivosť | 20
