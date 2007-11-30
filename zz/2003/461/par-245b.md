@@ -2,7 +2,7 @@
 
 (1) Hlavného kontrolóra volí a odvoláva dozorná rada.
 
-(2) Za hlavného kontrolóra môže byť zvolená fyzická osoba, ktorá má skončené vysokoškolské vzdelanie druhého stupňa ekonomického alebo právnického zamerania, má najmenej desať rokov praxe v oblasti finančnej kontroly a vnútorného auditu a spĺňa predpoklady výkonu práce vo verejnom záujme podľa osobitného predpisu.<sup>69</sup>)
+(2) Za hlavného kontrolóra môže byť zvolená fyzická osoba, ktorá má skončené vysokoškolské vzdelanie druhého stupňa, má najmenej desať rokov praxe v oblasti finančnej kontroly a vnútorného auditu a spĺňa predpoklady výkonu práce vo verejnom záujme podľa osobitného predpisu.<sup>69</sup>)
 
 (3) Na zvolenie hlavného kontrolóra je potrebný súhlas nadpolovičnej väčšiny všetkých členov dozornej rady.
 
