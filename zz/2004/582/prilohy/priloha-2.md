@@ -1,4 +1,4 @@
-Príloha č. 2 k zákonu č. 582/2004 Z. z. Obec s počtom obyvateľov | Hodnota v SK za m<sup>2</sup> | | |
+Príloha č. 2 k zákonu č. 582/2004 Z. z. Obec s počtom obyvateľov k 1. januáru príslušného zdaňovacieho obdobia | Hodnota v SK za m<sup>2</sup> | | |
 
 | stavebné pozemky | záhrady | zastavané plochy a nádvoria | ostatné plochy s výnimkou stavebných pozemkov
 

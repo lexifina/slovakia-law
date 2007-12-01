@@ -20,9 +20,13 @@
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
-- 11) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
+- 11) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
-- 12) § 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 500/2001 Z. z.
+- 11a) § 43b ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 11b) § 139b zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 12) § 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 13) § 17 vyhlášky Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve.
 
@@ -46,9 +50,11 @@
 
 - 21) Napríklad zákon č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 23) § 30 ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
+- 22a) Napríklad Občiansky zákonník, Obchodný zákonník.
+
+- 23) § 2 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
 
 - 24) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 450/2003 Z. z.
 
@@ -88,29 +94,39 @@
 
 - 38) § 3 ods. 3 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
-- 39) § 2 písm. at) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 39) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 40) § 2 zákona č. 513/1991 Zb. v znení neskorších predpisov.
+- 40) § 96 zákona č. 315/1996 Z. z.
 
-- § 6 ods. 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 659/2004 Z. z.
+- 41) § 3 ods. 1 zákona č. 725/2004 Z. z.
 
-- 40a) § 94 až 96 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 42) § 23 a 112 zákona č. 725/2004 Z. z.
 
-- 41) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 43) § 16 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 42) § 8 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+- § 21 Obchodného zákonníka.
 
-- 43) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
+- 44) § 8 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 44) § 3 ods. 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. v znení neskorších predpisov.
+- 45) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 351/2005 Z. z.
 
-- 45) § 91 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 45a) Nariadenie vlády Slovenskej republiky č. 367/2006 Z. z. o technických požiadavkách na zníženie emisií zo zážihových motorov a vznetových motorov motorových vozidiel v znení nariadenia vlády č. 179/2007 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 583/2006 Z. z. o technických požiadavkách na zníženie emisií znečisťujúcich látok zo vznetových motorov a zo zážihových motorov poháňaných zemným plynom alebo skvapalneným ropným plynom v znení nariadenia vlády č. 165/2007 Z. z.
+
+- Vyhláška Ministra zahraničných vecí č. 176/1960 Zb. o Dohode o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel.
+
+- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčasti motorových vozidiel.
+
+- 45b) § 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 46) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- 46b) § 3 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 47) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
