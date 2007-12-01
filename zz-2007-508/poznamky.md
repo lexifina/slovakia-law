@@ -1,0 +1,1 @@
+- 1) Zmluva medzi Slovenskou republikou a Českou republikou o sociálnom zabezpečení (oznámenie č. 318/1994 Z. z.).
