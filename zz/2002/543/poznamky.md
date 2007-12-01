@@ -36,7 +36,7 @@
 
 - 18) Napríklad Dohovor o mokradiach majúcich medzinárodný význam najmä ako biotopy vodného vtáctva a Protokol o jeho zmene (registrovaný v čiastke 67/1990 Zb.), Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (oznámenie č. 159/1991 Zb.), Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov (oznámenie č. 91/1998 Z. z.), Dohovor o ochrane európskych voľne žijúcich organizmov a prírodných stanovíšť (oznámenie č. 93/1998 Z. z.).
 
-- 19) § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 152/1996 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
+- 19) § 139a ods. 8 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 20) § 415 až 450 Občianskeho zákonníka.
 
@@ -92,6 +92,8 @@
 
 - 45) § 1 ods. 2 až 4 zákona č. 135/1961 Zb.
 
+- 45a) § 9 písm. b) až e) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
 - 46) Bod A.1. 6 písm. a) až c) prílohy č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
 - 47) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov.
@@ -131,6 +133,8 @@
 - 63) Čl. 4 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení neskorších predpisov.
+
+- 64a) § 4 ods. 1 a 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
 - 65) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
@@ -250,11 +254,17 @@
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 114) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 114) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka, zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
+- 114a) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
 - 115) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
 - Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 115a) Napríklad § 20h Občianskeho zákonníka, § 6 ods. 2 písm. c) zákona č. 83/1990 Zb.
+
+- 115b) § 28 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 116) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
