@@ -1,245 +1,243 @@
-- POPLATKOVÝ PORIADOK z 20. októbra 1977
+- POPLATKOVÝ PORIADOK K DOHOVORU O UDEĽOVANÍ EURÓPSKYCH PATENTOV (Európsky patentový dohovor) z 20. októbra 1977
 
-- naposledy zmenený rozhodnutím Správnej rady Európskej patentovej organizácie zo dňa 13. októbra 1999
-
-- SPRÁVNA RADA EURÓPSKEJ PATENTOVEJ ORGANIZÁCIE S PRIHLIADNUTÍM NA EURÓPSKY PATENTOVÝ DOHOVOR A NAJMÄ NA JEHO ČLÁNOK 33 ODSEK 2(D) PRIJALA TENTO POPLATKOVÝ PORIADOK
+- novelizovaný rozhodnutím Správnej rady Európskej patentovej organizácie zo 7. decembra 2006
 
 - Článok 1
 
 - Všeobecné ustanovenia
 
-- V súlade s ustanoveniami tohto poriadku sú vyberané:
+- V súlade s ustanoveniami tohto poriadku sa vyberajú:
 
-- a) poplatky, ktoré sa platia Európskemu patentovému úradu (ďalej len „Úrad") na základe Dohovoru a vykonávacieho predpisu, ako aj poplatky a náklady, ktoré stanoví prezident úradu podľa článku 3 odsek 1;
+- a) poplatky, ktoré sa platia Európskemu patentovému úradu (ďalej len „Úrad“) na základe Dohovoru a vykonávacieho predpisu, ako aj poplatky a náklady, ktoré stanoví prezident Úradu podľa článku 3 odsek 1;
 
-- b) poplatky a náklady podľa Zmluvy o patentovej spolupráci (ďalej len „Zmluva"), výšku ktorých môže stanoviť úrad.
+- b) poplatky a náklady podľa Zmluvy o patentovej spolupráci (ďalej len „Zmluva“), ktorých výšku môže stanoviť Úrad.
 
 - Článok 2
 
+- Poplatky stanovené v Dohovore a vo vykonávacom predpise
+
 - Poplatky, ktoré sa platia Úradu podľa článku 1, sú:
 
-- Poplatky, ktoré sa platia úradu podľa článku 1, sú: | EUR
+- | | | EUR
 
-- 1. Poplatok za prihlášku (článok 78 odsek 2), základný národný poplatok [pravidlo 106 písmeno (a)], kde |
+- 1. | Prihlasovací poplatok (článok 78 odsek 2), kde | |
 
-- - európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) je podaný on-line | 95
+- | – | európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) je podaná on-line | 95
 
-- - európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) je podaný v papierovej forme | 170
+- | – | európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) nie je podaný on-line | 170
 
-- 2. Poplatok za rešerš |
+- 2. | Poplatok za rešerš | |
 
-- - za európsku alebo za dodatočnú európsku rešerš prihlášky podanej 1. júla 2005 alebo po tomto dni [článok 78 odsek 2, pravidlo 44 písmeno (a), pravidlo 46 odsek 1 a pravidlo 112, článok 157 odsek 2 písmeno (b)] | 1 000
+- | – | za európsku alebo doplnkovú európsku rešerš prihlášky podanej 1. júla 2005 alebo po tomto dni (článok 78 odsek 2, pravidlo 62, pravidlo 64 odsek 1, článok 153 odsek 7) | 1 000
 
-- - za dodatočnú európsku rešerš na prihlášku podanú pred 1. júlom 2005 [článok 157 odsek 2 písmeno (b)] | 720
+- | – | za európsku alebo doplnkovú európsku rešerš na prihlášku podanú pred 1. júlom 2005 (článok 78 odsek 2, pravidlo 64 odsek 1, článok 153 odsek 7) | 720
 
-- - za medzinárodnú rešerš (pravidlo 16.1 PCT a pravidlo 105 odsek 1) | 1 615
+- | – | za medzinárodnú rešerš (pravidlo 16.1 PCT a pravidlo 158 odsek 1) | 1 615
 
-- 3. Poplatok za určenie za každý určený zmluvný štát (článok 79 odsek 2), poplatok za určenie do všetkých zmluvných štátov sa považuje za zaplatený v prípade, že prihlasovateľ zaplatí 7-násobok tohto poplatku | 80
+- 3. | Určovací poplatok za každý určený zmluvný štát (článok 79 odsek 2); určovacie poplatky za všetky zmluvné štáty sa považujú za zaplatené v prípade, že prihlasovateľ zaplatí 7-násobok tohto poplatku | | 80
 
-- 3a. Poplatok za spoločné určenie Švajčiarskej konfederácie a Lichtenštajnského kniežatstva | 80
+- 3a. | Poplatok za spoločné určenie Švajčiarskej konfederácie a Lichtenštajnského kniežatstva | | 80
 
-- 3b. Príplatok za neskoré zaplatenie poplatku za podanie, poplatku za rešerš alebo poplatku za určenie [pravidlo 85 písmeno (a)] | 50 % príslušného poplatku alebo poplatkov, najviac však celkom 680 EUR
+- 4. | Udržiavacie poplatky za európske patentové prihlášky (článok 86 odsek 1), počítané v každom prípade odo dňa podania prihlášky | |
 
-- 3c. Príplatok za oneskorené podanie prekladu medzinárodnej prihlášky alebo žiadosti o prieskum alebo za oneskorené zaplatenie základného národného poplatku, poplatku za rešerš alebo poplatku za určenie (pravidlo 108 odseky 3 a 4) | 50 % príslušných poplatkov, ale najmenej 520 EUR za oneskorené podanie prekladu maximálne do sumy 1 820 EUR
+- | – | za tretí rok | 400
 
-- 4. Udržiavacie poplatky za európske patentové prihlášky (článok 86 odsek 1), počítané v každom prípade odo dňa podania prihlášky |
+- | – | za štvrtý rok | 425
 
-- - za tretí rok | 400
+- | – | za piaty rok | 450
 
-- - za štvrtý rok | 425
+- | – | za šiesty rok | 745
 
-- - za piaty rok | 450
+- | – | za siedmy rok | 770
 
-- - za šiesty rok | 745
+- | – | za ôsmy rok | 800
 
-- - za siedmy rok | 770
+- | – | za deviaty rok | 1 010
 
-- - za ôsmy rok | 800
+- | – | za desiaty a každý ďalší rok | 1 065
 
-- - za deviaty rok | 1 010
+- 5. | Príplatok za oneskorenú platbu udržiavacieho poplatku za európsku patentovú prihlášku (článok 51 odsek 2) | | 10 % z udržiavacieho poplatku plateného s oneskorením
 
-- - za desiaty a každý ďalší rok | 1 065
+- 6. | Poplatok za prieskum (článok 94 odsek 2) za | |
 
-- 5. Príplatok za oneskorenú platbu udržiavacieho poplatku za európsku patentovú prihlášku (článok 86 odsek 2) | 10 % z udržiavacieho poplatku plateného s oneskorením
+- | – | prihlášku podanú pred 1. júlom 2005 | 1 490
 
-- 6. Poplatok za prieskum (článok 94 odsek 2) za |
+- | – | prihlášku podanú 1. júla 2005 alebo po tomto dni | 1 335
 
-- - prihlášku podanú pred 1. júlom 2005 | 1 490
+- | – | medzinárodnú prihlášku podanú 1. júla 2005 alebo po tomto dni, pre ktorú nebola vypracovaná doplnková správa o európskej rešerši (článok 153 odsek 7) | 1 490
 
-- - prihlášku podanú 1. júla 2005 alebo po tomto dni | 1 335
+- 7. | Poplatok za udelenie vrátane poplatku za tlač európskeho patentového spisu (pravidlo 71 odsek 3), ak podklady prihlášky určené na tlač obsahujú: | |
 
-- - medzinárodnú prihlášku podanú 1. júla 2005 alebo po tomto dni, pre ktorú nebola vypracovaná dodatočná európska rešeršná správa [článok 157 odsek 3 písmeno (a)] | 1 490
+- 7.1 | najviac 35 strán | | 750
 
-- 7. Príplatok za oneskorené podanie žiadosti o prieskum [pravidlo 85 písmeno (b)] | 50 % poplatku za prieskum
+- 7.2 | viac ako 35 strán | | 750 plus 11 EUR za 36. a za každú ďalšiu stranu
 
-- 8. Poplatok za udelenie vrátane poplatku za tlač európskeho patentového spisu [článok 97 odsek 2 písmeno (b)], ak podklady prihlášky určené na tlač obsahujú: |
+- 8. | Poplatok za tlač nového európskeho patentového spisu (pravidlo 82 odsek 2, pravidlo 95 odsek 3) | |
 
-- 8.1 najviac 35 strán | 750
+- | – | paušálny poplatok | 55
 
-- 8.2 viac ako 35 strán | 750 plus 11 EUR za 36. a každú ďalšiu stranu
+- 9. | Príplatok za neskoré vykonanie úkonov požadovaných na udržanie európskeho patentu v zmenenej forme (pravidlo 82 odsek 3, pravidlo 95 odsek 3) | |
 
-- 9. Poplatok za tlač nového európskeho patentového spisu [článok 102 odsek 3 písmeno (b)] |
+- | – | paušálny poplatok | 100
 
-- - paušálny poplatok | 55
+- 10. | Poplatok za podanie námietok (článok 99 odsek 1 a článok 105 odsek 2) | | 635
 
-- 10. Poplatok za podanie námietok (článok 99 odsek 1 a článok 105 odsek 2) | 635
+- 10a. | Poplatok za obmedzenie alebo zrušenie (článok 105a odsek 1) | |
 
-- 11. Poplatok za sťažnosť (článok 108) | 1 065
+- | – | žiadosť o obmedzenie | 1 000
 
-- 12. Poplatok za pokračovanie v konaní (článok 121 odsek 2) | 210
+- | – | žiadosť o zrušenie | 450
 
-- 13. Poplatok za uvedenie do predošlého stavu (článok 122 odsek 3) | 365
+- 11 | | Poplatok za sťažnosť (článok 108) | 1 065
 
-- 14. Poplatok za zmenu (článok 136 odsek 1 a článok 140) | 55
+- 11a. | | Poplatok za žiadosť o preskúmanie (článok 112a odsek 4) | 2 500
 
-- 15. Poplatok za nároky za jedenásty a každý ďalší nárok (pravidlo 31 odsek 1, pravidlo 51 odsek 7 a pravidlo 110 odsek 1) | 45
+- 12 | | Poplatok za pokračovanie v konaní (pravidlo 135 odsek 1) | 210
 
-- 16. Poplatok za určenie nákladov (pravidlo 63 odsek 3) | 55
+- | – | v prípade neskorej platby poplatku | 50 % z príslušného poplatku
 
-- 17. Poplatok za zabezpečenie dôkazu (pravidlo 75 odsek 3) | 55
+- | – | v prípade neskorého vykonania úkonov požadovaných podľa pravidla 71 odsek 3 | 210
 
-- 18. Poplatok za odovzdanie medzinárodnej prihlášky (článok 152 odsek 3) | 105
+- | – | v ostatných prípadoch | 210
 
-- 19. Poplatok za predbežný prieskum medzinárodnej prihlášky (pravidlo 58 PCT a pravidlo 105 odsek 2) | 1 595
+- 13. | Poplatok za uvedenie do predošlého stavu/poplatok za žiadosť o uvedenie do predošlého stavu [pravidlo 136 odsek 1, pravidlo 26 bis.3(d) PCT, pravidlo 49ter.2(d) PCT] | | 550
 
-- 20. Poplatok za technickú expertízu (článok 25) | 3 185
+- 14. | Poplatok za zmenu (článok 135 odsek 3 a článok 140) | | 55
 
-- 21. Poplatok za sťažnosť [pravidlo 40 odsek 2 písmeno (e) a pravidlo 68 odsek 3 písmeno (e) PCT, pravidlo 105 odsek 3] | 1 065
+- 14a. | Poplatok za neskoré predloženie sekvenčného protokolu (pravidlo 30 odsek 3) | | 200
+
+- 15. | Poplatok za patentové nároky za jedenásty a každý ďalší patentový nárok (pravidlo 45 odsek 1, pravidlo 71 odsek 7 a pravidlo 162 odsek 1) | | 45
+
+- 16. | Poplatok za určenie nákladov (pravidlo 88 odsek 3) | | 55
+
+- 17. | Poplatok za uchovanie dôkazu (pravidlo 123 odsek 3) | | 55
+
+- 18. | Poplatok za odovzdanie medzinárodnej prihlášky (článok 157 odsek 4) | | 105
+
+- 19. | Poplatok za predbežný prieskum medzinárodnej prihlášky (pravidlo 58 PCT a pravidlo 158 odsek 2) | | 1 595
+
+- 20. | Poplatok za technický posudok (článok 25) | | 3 185
+
+- 21. | Poplatok za sťažnosť [pravidlo 40.2 (e) a 68.3 (e) PCT] | |
+
+- | – | za medzinárodné prihlášky v konaní (k 13. decembru 2007) | 1 065
+
+- | – | za medzinárodné prihlášky podané 13. decembra 2007 alebo po tomto dátume (pravidlo158 odsek 3) | 750
 
 - Článok 3
 
 - Poplatky, náklady a ceny stanovené prezidentom Úradu
 
-- 1. Prezident Úradu stanoví výšku správnych poplatkov uvedených vo vykonávacom predpise a prípadne aj výšku poplatkov a nákladov za iné služby poskytované úradom, ako sú uvedené v článku 2.
+- 1. Prezident Úradu stanoví výšku správnych poplatkov uvedených vo vykonávacom predpise a prípadne aj výšku poplatkov a nákladov za iné služby poskytované Úradom, ako sú uvedené v článku 2.
 
-- 2. Prezident úradu stanoví aj ceny publikácií uvedených v článkoch 93, 98, 103 a 129 Dohovoru.
+- 2. Prezident Úradu stanoví aj ceny publikácií uvedených v článkoch 93, 98, 103 a 129 Dohovoru.
 
-- 3. Poplatky uvedené v článku 2 a poplatky a náklady stanovené podľa odseku 1 sa zverejnia v úradnom vestníku Európskeho patentového úradu.
+- 3. Výška poplatkov uvedených v článku 2 a výška poplatkov a nákladov stanovených podľa odseku 1 bude uverejnená v Úradnom vestníku a na webovej stránke Európskeho patentového úradu.
 
 - Článok 4
 
 - Splatnosť poplatkov
 
-- 1. Poplatky, ktorých splatnosť nie je uvedená v ustanoveniach Dohovoru alebo Zmluvy alebo vo vykonávacom predpise, sú splatné v deň prijatia žiadosti o službu, za ktorú sa poplatok platí.
+- 1. Poplatky, ktorých splatnosť nie je uvedená v ustanoveniach Dohovoru alebo PCT, alebo vo vykonávacom predpise, sú splatné v deň prijatia žiadosti o službu, za ktorú sa poplatok platí.
 
-- 2. Prezident úradu môže rozhodnúť, že poskytnutie služieb v zmysle odseku 1 nie je podmienené zaplatením príslušného poplatku vopred.
+- 2. Prezident Úradu môže rozhodnúť, že poskytnutie služieb v zmysle odseku 1 nie je podmienené zaplatením príslušného poplatku vopred.
 
 - Článok 5
 
 - Platenie poplatkov
 
-- 1. Úrad prijíma poplatky v EUR nasledujúcim spôsobom:
+- 1. Poplatky splatné Úradu sa platia v EUR:
 
 - a) platbou alebo prevodom na bankový účet Úradu;
 
-- b) platbou alebo prevodom na žírový účet Úradu;
+- b) platbou alebo prevodom na žírový účet Úradu alebo
 
 - c) podaním alebo odoslaním šeku splatného v prospech Úradu.
 
-- 2. Prezident Úradu môže pripustiť aj iné spôsoby platenia poplatkov, než aké sú uvedené v odseku 1.
+- 2. Prezident Úradu môže pripustiť aj iné spôsoby platenia poplatkov, ako sú uvedené v odseku 1.
 
-- Článok 7
+- Článok 6
 
 - Údaje o platbách
 
-- 1. Každá platba musí obsahovať meno platcu a musí obsahovať nevyhnutné údaje, aby Úrad mohol ihneď zistiť účel platby.
+- 1. Každá platba musí obsahovať meno platcu a nevyhnutné údaje, aby Úrad mohol ihneď zistiť účel platby.
 
-- 2. Ak účel platby nie je možné ihneď zistiť, vyzve úrad platcu, aby v lehote, ktorú mu stanoví, tento účel písomne oznámil. Ak tejto výzve v lehote nevyhovie, predpokladá sa, že platba nebola uskutočnená.
+- 2. Ak účel platby nie je možné ihneď zistiť, Úrad vyzve platcu, aby v lehote, ktorú mu stanoví, tento účel písomne oznámil. Ak tejto výzve platca nevyhovie včas, predpokladá sa, že sa platba neuskutočnila.
 
-- Článok 8
+- Článok 7
 
-- Deň vykonania platby
+- Deň, ktorý sa považuje za deň vykonania platby
 
-- 1. Deň, ktorý sa považuje za deň vykonania platby voči Úradu, je
+- 1. Deň, ktorý sa považuje za deň vykonania platby v prospech Úradu, je:
 
-- a) v prípadoch uvedených v článku 5 odseku 1(a) a (b) deň, v ktorom je čiastka platby alebo prevodu skutočne pripísaná na bankový alebo žírový účet Úradu;
+- a) v prípadoch uvedených v článku 5 odsek 1 (a) a (b): deň, v ktorom je suma platby alebo prevodu skutočne pripísaná na bankový alebo žírový účet Úradu;
 
-- b) v prípadoch uvedených v článku 5 odseku 1(c) deň prijatia čiastky šekom Úradom za predpokladu, že šek je krytý.
+- b) v prípadoch uvedených v článku 5 odsek 1 (c): deň prijatia šeku Úradom, za predpokladu, že šek je krytý.
 
-- 2. Ak prezident Úradu na základe článku 5 odseku 2 pripustí aj iné spôsoby platenia poplatkov, než sú uvedené v článku 5 odseku 1, potom určí aj deň, ktorý sa považuje za deň vykonania platby.
+- 2. Ak prezident Úradu na základe článku 5 odsek 2 pripustí aj iné spôsoby platenia poplatkov, ako sú uvedené v článku 5 odsek 1, potom určí aj deň, ktorý sa považuje za deň vykonania platby.
 
-- 3. Ak sa na základe ustanovenia odsekov 1 a 2 platba nepovažuje za uskutočnenú až do uplynutia lehoty, v rámci ktorej mala byť vykonaná, lehota sa považuje za dodržanú, ak bol Úradu predložený dôkaz o tom, že platca
+- 3. Ak sa na základe ustanovení odsekov 1 a 2 platba nepovažuje za uskutočnenú až do uplynutia lehoty, v rámci ktorej mala byť vykonaná; lehota sa považuje za dodržanú, ak bol Úradu predložený dôkaz o tom, že platca:
 
 - a) v lehote, v ktorej mala byť platba uskutočnená, splnil v zmluvnom štáte niektorú z uvedených podmienok:
 
 - i) uskutočnil platbu prostredníctvom bankovej inštitúcie alebo pošty;
 
-- ii) riadne vystavil príkaz bankovej inštitúcii alebo pošte, aby čiastku previedla;
+- ii) riadne vystavil príkaz bankovej inštitúcii alebo pošte, aby sumu previedla;
 
-- iii) odoslal na pošte list s adresou Úradu, ktorý obsahoval šek v zmysle článku 5 odseku 1(d), ak je tento šek krytý, a
+- iii) odoslal na pošte list s adresou Úradu, ktorý obsahoval šek v zmysle článku 5 odsek 1 (d), za predpokladu, že je tento šek krytý, a
 
-- b) zaplatil príplatok 10 % príslušného poplatku alebo poplatkov, najviac však 150 EUR; príplatok sa neplatí, ak podmienka uvedená v pododseku (a) bola splnená najneskôr desať dní pred uplynutím lehoty na zaplatenie.
+- b) zaplatil príplatok 10 % príslušného poplatku alebo poplatkov, najviac však 150 EUR; príplatok sa neplatí, ak podmienka uvedená v pododseku a) bola splnená najneskôr desať dní pred uplynutím lehoty na zaplatenie.
 
-- 4. Úrad môže požiadať platcu, aby predložil dôkaz o tom, v ktorom dni bola splnená podmienka uvedená v odseku 3(a), a aby prípadne zaplatil príplatok uvedený v odseku 3(b) v lehote, ktorú mu stanoví. Ak sa tejto výzve nevyhovie alebo dôkaz nie je dostatočný, prípadne ak nebol včas zaplatený príplatok, lehota na zaplatenie sa považuje za nedodržanú.
+- 4. Úrad môže požiadať platcu, aby predložil dôkaz o tom, v ktorý deň bola splnená podmienka uvedená v odseku 3 (a), a aby prípadne zaplatil príplatok uvedený v odseku 3 (b) v lehote, ktorú mu stanoví. Ak tejto výzve nevyhovie alebo dôkaz nie je dostatočný, alebo ak nebol požadovaný príplatok zaplatený včas, lehota na zaplatenie sa považuje za nedodržanú.
+
+- Článok 8
+
+- Platba v nedostatočnej výške
+
+- 1. Lehota na zaplatenie sa v zásade považuje za dodržanú iba vtedy, ak bol poplatok zaplatený včas a v plnej výške. Ak poplatok nie je zaplatený v plnej výške, po uplynutí lehoty na zaplatenie sa táto suma vráti. Úrad však môže, ak je to v čase po uplynutí lehoty možné, dať platcovi možnosť chýbajúcu sumu doplatiť. Rovnako môže v odôvodnených prípadoch chýbajúcu malú sumu prehliadnuť bez toho, že sa to dotkne práv platcu.
+
+- 2. Ak zaplatená suma určovacieho poplatku nie je dostatočná na pokrytie určovacích poplatkov pre všetky zmluvné štáty, zaplatená suma sa použije podľa spresnenia prihlasovateľa poskytnutého najneskôr pri platení. Ak prihlasovateľ pri platení neposkytne žiadne spresnenie, poplatky sa považujú za zaplatené iba na toľko určení, na koľko daná suma postačuje, a to v takom poradí, v akom sú určené zmluvné štáty uvedené v žiadosti o udelenie.
 
 - Článok 9
 
-- Platbe v nedostatočnej výške
+- Vrátenie poplatku za rešerš
 
-- 1. Lehota na zaplatenie sa v zásade považuje za dodržanú iba vtedy, ak bol poplatok zaplatený včas a v plnej výške. Ak poplatok nie je zaplatený v plnej výške, čiastka zaplatená po uplynutí lehoty sa vráti. Úrad však môže, ak je to v čase po uplynutí lehoty možné, poskytnúť platcovi príležitosť chýbajúcu čiastku doplatiť. Rovnako môže v odôvodnených prípadoch chýbajúcu malú čiastku prehliadnuť, bez toho, že sa to dotkne práv platcu.
+- 1. Poplatok za európsku alebo za doplnkovú európsku rešerš sa vráti v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo sa považuje za vzatú späť v čase, keď Úrad ešte nezačal vypracovávať rešeršnú správu.
 
-- 2. Ak je v žiadosti o udelenie európskeho patentu určených podľa článku 79 odsek 1 Dohovoru viac zmluvných štátov a zaplatená čiastka nestačí na pokrytie všetkých poplatkov za určenie, zaplatená čiastka sa použije podľa spresnenia, ktoré poskytol prihlasovateľ pri platení. Ak prihlasovateľ pri platení nevykoná žiadne spresnenie, má sa za to, že poplatky boli zaplatené iba na toľko určení, na koľko daná čiastka postačuje, a to v takom poradí, v akom sú určené zmluvné štáty uvedené v žiadosti.
+- 2. Keď je správa o európskej rešerši založená na skoršej správe, ktorú vypracoval Úrad na prihlášku, ktorej priorita sa uplatňuje, alebo na skoršej prihláške v zmysle článku 76 Dohovoru alebo pravidla 17 Dohovoru, Úrad vráti prihlasovateľovi, podľa rozhodnutia prezidenta, sumu, ktorá bude závisieť od typu skoršej rešerše a od rozsahu, v ktorom Úrad bude môcť pri spracúvaní nasledujúcej rešerše čerpať zo skoršej rešeršnej správy.
 
 - Článok 10
 
-- Vrátenie poplatku za správu o európskej rešerši
+- Vrátenie poplatku za technický posudok
 
-- 1. Poplatok za európsku rešerš alebo za dodatočnú európsku rešerš sa vracia v plnej výške, ak je európska patentová prihláška vzatá späť alebo zamietnutá, alebo je považovaná za vzatú späť v čase, keď úrad ešte nezačal s vyhotovením správy o rešerši.
-
-- 2. Ak je správa o európskej rešerši založená na skoršej rešeršnej správe, ktorú Úrad už spracoval pre prihlášku, na základe ktorej sa uplatňuje právo prednosti alebo ktorá je pôvodnou prihláškou v zmysle článku 76 Dohovoru alebo pôvodnou prihláškou v zmysle pravidla 15 Vykonávacieho predpisu, Úrad vráti prihlasovateľovi v súlade s rozhodnutím prezidenta sumu, ktorá závisí od typu skoršej rešerše a od miery, v akej Úrad čerpá zo skoršej rešeršnej správy pri uskutočňovaní nasledujúcej rešerše.
-
-- Článok 10a
-
-- Vrátenie poplatku za technickú expertízu
-
-- Čiastka rovnajúca sa 75 % poplatku za technickú expertízu podľa článku 25 Dohovoru sa vracia, ak je žiadosť o technickú expertízu vzatá späť v dobe, keď Úrad ešte nezačal vyhotovovať technickú expertízu.
-
-- Článok 10b
-
-- Vrátenie poplatku za prieskum
-
-- Poplatok za prieskum sa podľa článku 94 odsek 2 Dohovoru vracia:
-
-- a) v celej výške, ak je európska patentová prihláška vzatá späť, zamietnutá alebo sa považuje za vzatú späť pred tým, ako prešla do kompetencie prieskumových oddelení;
-
-- b) do výšky 75 %, ak je európska patentová prihláška vzatá späť, zamietnutá alebo sa považuje za vzatú späť po tom, ako prešla do kompetencie prieskumových oddelení, ale ešte pred začatím vecného prieskumu.
-
-- Článok 10c
-
-- Vrátenie malých čiastok
-
-- Ak sa pri úhrade poplatku zaplatí príliš vysoká čiastka, preplatok sa nevracia, ak ide o malú čiastku a príslušný účastník nepožiadal výslovne o jej vrátenie. Prezident úradu určí, čo sa považuje za malú čiastku.
-
-- Článok 10d
-
-- Vrátenie poplatku za medzinárodný predbežný prieskum
-
-- Ak prihlasovateľ v čase prípravy medzinárodného predbežného prieskumu nepožiadal o vyhotovenie podrobného predbežného prieskumu alebo nepodal zmeny podľa článku 19 alebo článku 34 odseku 2 Zmluvy o patentovej spolupráci alebo iné námietky, Úrad vráti prihlasovateľovi dve tretiny poplatku za medzinárodný predbežný prieskum. O podrobnostiach vrátenia poplatku za medzinárodný predbežný prieskum rozhodne prezident Úradu.
+- Suma rovnajúca sa 75 % z poplatku za technický posudok podľa článku 25 Dohovoru sa vracia, ak je žiadosť o technický posudok vzatá späť v čase, keď ešte Úrad nezačal vyhotovovať technický posudok.
 
 - Článok 11
 
-- Rozhodnutie o výške nákladov, proti ktorým možno podať sťažnosť
+- Vrátenie poplatku za prieskum
 
-- V súlade s článkom 106 odsek 1 Dohovoru možno proti rozhodnutiam, ktorými sa určuje výška nákladov „NÁMIETKOVÉHO" konania, podať sťažnosť, ak táto výška presahuje čiastku rovnajúcu sa poplatku za sťažnosť.
+- Poplatok za prieskum sa podľa článku 94 odsek 1 Dohovoru vracia:
+
+- a) v plnej výške, ak je európska patentová prihláška vzatá späť, zamietnutá alebo sa považuje za vzatú späť predtým, ako prešla do kompetencie prieskumových oddelení;
+
+- b) vo výške 75 %, ak je európska patentová prihláška vzatá späť, zamietnutá alebo sa považuje za vzatú späť potom, ako prešla do kompetencie prieskumových oddelení, ale ešte pred začatím vecného prieskumu.
 
 - Článok 12
 
-- Zníženie poplatkov
+- Vrátenie malých súm
 
-- 1. Zníženie poplatkov podľa pravidla 6 odseku 3 vykonávacieho predpisu predstavuje 20 % prihlasovacieho poplatku, poplatku za prieskum, poplatku za námietku a poplatku za sťažnosť.
-
-- 2. Zníženie podľa pravidla 107 odseku 2 vykonávacieho predpisu predstavuje 50 % poplatku za prieskum. K zníženiu poplatok nedôjde, ak Úrad ako orgán pre medzinárodný predbežný prieskum vrátil poplatok za predbežný prieskum podľa článku 10d.
+- Ak sa pri úhrade poplatku zaplatí príliš vysoká suma, preplatok sa nevracia, ak ide o malú sumu a príslušný účastník nepožiadal výslovne o jej vrátenie. Prezident Úradu určí, čo sa považuje za malú sumu.
 
 - Článok 13
 
-- Oznámenie
+- Rozhodnutia, ktoré určujú výšku nákladov, proti ktorým možno podať sťažnosť
 
-- Prezident Európskeho patentového úradu zašle otvorenú kópiu tohto poplatkového poriadku všetkým signatárskym štátom Dohovoru, ako aj štátom, ktoré k nej pristúpia.
+- V súlade s pravidlom 97 odsek 2 Dohovoru možno proti rozhodnutiam, ktorými sa určuje výška nákladov konania o námietkach, podať sťažnosť, ak táto výška presahuje sumu rovnajúcu sa poplatku za sťažnosť.
 
 - Článok 14
 
-- Nadobudnutie platnosti
+- Zníženie poplatkov
 
-- Tento poriadok nadobudne platnosť 20. októbra 1977.
+- 1. Zníženie poplatkov podľa pravidla 6 odsek 3 Dohovoru predstavuje 20 % prihlasovacieho poplatku, poplatku za prieskum, poplatku za námietku, poplatku za sťažnosť, poplatku za žiadosť o preskúmanie alebo poplatku za obmedzenie alebo za zrušenie.
 
-- V Mníchove 20. októbra 1977.
+- 2. Ak Európsky patentový úrad vypracoval medzinárodnú predbežnú rešeršnú správu, poplatok za rešerš sa zníži o 50 %. Ak správa bola vyhotovená na určité časti medzinárodnej prihlášky podľa článku 34 odsek 3 (c) PCT, poplatok nebude znížený, ak sa skúma predmet vynálezu, ktorý nebol zahrnutý do správy.

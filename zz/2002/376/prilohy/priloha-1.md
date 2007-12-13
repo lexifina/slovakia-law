@@ -4,7 +4,7 @@ O UDEĽOVANÍ EURÓPSKYCH PATENTOV (EURÓPSKY PATENTOVÝ DOHOVOR)
 
 z 5. októbra 1973
 
-text v znení aktu revidujúceho článok 63 EPD zo 17. decembra 1991 a rozhodnutí Správnej rady Európskej patentovej organizácie z 21. decembra 1978, 13. decembra 1994, 20. októbra 1995, 5. decembra 1996 a 10. decembra 1998
+text v znení aktu revidujúceho článok 63 EPD zo 17. decembra 1991 a aktu revidujúceho EPD z 29. novembra 2000
 
 PREAMBULA
 
@@ -14,7 +14,7 @@ Zmluvné štáty,
 
 želajúc si, aby takúto ochranu bolo možné v týchto štátoch získať na základe jednotného konania o udelení patentu a zavedení určitých jednotných pravidiel upravujúcich takto udelené patenty;
 
-želajúc si na tento účel uzavrieť Dohovor, ktorým sa zakladá Európska patentová organizácia a ktorý predstavuje osobitnú dohodu v zmysle článku 19 Dohovoru o ochrane priemyselného vlastníctva, podpísaného v Paríži 20. marca 1883 a naposledy revidovaného 14. júla 1967, ako i zmluvu o regionálnom patente podľa článku 45 odsek 1 Zmluvy o patentovej spolupráci z 19. júna 1970,
+želajúc si na tento účel uzavrieť Európsky patentový dohovor (ďalej len „Dohovor“), ktorým sa zakladá Európska patentová organizácia a ktorý predstavuje osobitnú dohodu podľa článku 19 Dohovoru o ochrane priemyselného vlastníctva podpísaného v Paríži 20. marca 1883 a naposledy revidovaného 14. júla 1967, ako aj Zmluvu o regionálnom patente podľa článku 45 ods. 1 Zmluvy o patentovej spolupráci z 19. júna 1970,
 
 dohodli sa takto:
 
@@ -28,9 +28,9 @@ VŠEOBECNÉ USTANOVENIA
 
 Článok 1
 
-Európske právo na udeľovanie patentov
+Európsky zákon o udeľovaní patentov
 
-Týmto Dohovorom sa vytvára právo na udeľovanie patentov na vynálezy spoločné pre všetky zmluvné štáty.
+Týmto Dohovorom sa ustanovuje systém zákonov na udeľovanie patentov na vynálezy spoločný pre všetky zmluvné štáty.
 
 Článok 2
 
