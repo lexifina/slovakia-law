@@ -34,7 +34,9 @@ Príloha k nariadeniu vlády č. 158/2007 Z. z.
 
   - – nariadenia Rady (ES) č. 2012/2006 z 19. decembra 2006 (Ú. v. EÚ L 384, 29. 12. 2006),
 
-  - – nariadenia Rady (ES) č. 2013/2006 z 19. decembra 2006, ktorým sa menia a dopĺňajú nariadenia (EHS) č. 404/93, (ES) č. 1782/2003 a (ES) č. 247/2006, pokiaľ ide o odvetvie banánov (Ú. v. EÚ L 384, 29. 12. 2006).
+  - – nariadenia Rady (ES) č. 2013/2006 z 19. decembra 2006, ktorým sa menia a dopĺňajú nariadenia (EHS) č. 404/93, (ES) č. 1782/2003 a (ES) č. 247/2006, pokiaľ ide o odvetvie banánov (Ú. v. EÚ L 384, 29. 12. 2006),
+
+  - – nariadenie Komisie (ES) č. 552/2007 z 22. mája 2007 (Ú. v. EÚ L 131, 23. 5. 2007).
 
   - 2. Nariadenie Komisie (ES) č. 796/2004 z 21. apríla 2004, ktoré ustanovuje podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadení Rady (ES) č. 1782/2003, ktorým sa stanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44) v znení
 
@@ -54,7 +56,9 @@ Príloha k nariadeniu vlády č. 158/2007 Z. z.
 
   - – nariadenie Komisie (ES) č. 1187/2006 z 3. augusta 2006 (Ú. v. EÚ L 214, 4. 8. 2006),
 
-  - – nariadenia Komisie (ES) č. 2025/2006 z 22. decembra 2006 (Ú. v. EÚ L 384, 29. 12. 2006).
+  - – nariadenia Komisie (ES) č. 2025/2006 z 22. decembra 2006 (Ú. v. EÚ L 384, 29. 12. 2006),
+
+  - – nariadenie Komisie (ES) č. 381/2007 zo 4. apríla 2007 (Ú. v. EÚ L 95, 5. 4. 2007).
 
   - 3. Nariadenie Komisie (ES) č. 1973/2004 z 29. októbra 2004, ustanovujúce podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1782/2003 o schémach podpory stanovených v hlavách IV a IVa tohto nariadenia a využití pozemkov vyňatých z produkcie na výrobu surovín (Ú. v. EÚ L 345, 20. 11. 2004) v znení
 
@@ -74,4 +78,6 @@ Príloha k nariadeniu vlády č. 158/2007 Z. z.
 
   - – nariadenia Komisie (ES) č. 1250/2006 z 18. augusta 2006 (Ú. v. EÚ L 227, 19. 8. 2006),
 
-  - – nariadenia Komisie (ES) č. 1679/2006 zo 14. novembra 2006 (Ú. v. EÚ L 314, 15. 11. 2006).
+  - – nariadenia Komisie (ES) č. 1679/2006 zo 14. novembra 2006 (Ú. v. EÚ L 314, 15. 11. 2006),
+
+  - – nariadenie Komisie (ES) č. 270/2007 z 23. apríla 2007 (Ú. v. EÚ L 115, 3. 5. 2007).

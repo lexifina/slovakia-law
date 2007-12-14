@@ -20,6 +20,8 @@
 
 - 10) Čl. 23 písm. e) nariadenia (ES) č. 1973/2004 v platnom znení.
 
+- 10a) Čl. 37 nariadenia (ES) č. 1973/2004 v platnom znení.
+
 - 11) Čl. 33 ods. 2 písm. b) nariadenia (ES) č. 1973/2004 v platnom znení.
 
 - 12) Čl. 26 ods. 2 nariadenia (ES) č. 1973/2004 v platnom znení.
@@ -38,11 +40,19 @@
 
 - 17) Napríklad čl. 31 nariadenia (ES) č. 1973/2004 v platnom znení, nariadenie (ES) č. 796/2004 v platnom znení, čl. 6 a 7 nariadenia (ES) č. 1782/2003 v platnom znení.
 
-- 18) Čl. 35 nariadenia (ES) č. 1973/2004 v platnom znení.
+- 18) Čl. 37 ods. 2 nariadenia (ES) č. 1973/2004 v platnom znení.
+
+- 18a) Napríklad § 7 ods. 1 písm. p) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka, nariadenie (ES) č. 796/2004 v platnom znení, čl. 37 ods. 3 nariadenia (ES) č. 1973/2004 v platnom znení.
 
 - 19) Čl. 34 ods. 3 nariadenia (ES) č. 1973/2004 v platnom znení.
 
 - 20) Čl. 39 ods. 1 nariadenia (ES) č. 1973/2004 v platnom znení.
+
+- 20a) Čl. 32 nariadenia (ES) č. 1973/2004 v platnom znení.
+
+- 20b) Čl. 37 ods. 4 a 5 nariadenia (ES) č. 1973/2004 v platnom znení.
+
+- § 7 ods. 1 písm. p) zákona č. 543/2007 Z. z.
 
 - 21) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 81/2007 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou jednotnej platby na plochu.
 
