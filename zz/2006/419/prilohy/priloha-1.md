@@ -12,7 +12,7 @@ Príloha č. 1 k vyhláške č. 419/2006 Z. z.
 
     - pobočka colného úradu Bratislava – prístav, Horárska 12
 
-  - 3. Colný úrad Čierna nad Tisou
+  - 3. Colný úrad Michalovce
 
     - pobočka colného úradu Michalovce, Priemyselná 2
 
