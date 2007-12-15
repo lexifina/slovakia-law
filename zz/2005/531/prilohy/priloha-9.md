@@ -201,3 +201,7 @@ Príloha č. 9
   - 31. Smernica Komisie 2007/25/ES z 23. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimetoát, dimetomorf, glufozinát, metribuzin, fosmet a propamokarb medzi účinné látky (Ú. v. EÚ L 106, 24. 4. 2007).
 
   - 32. Smernica Komisie 2007/31/ES z 31. mája 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia pre rozšírenie používania účinnej látky fostiazat (Ú. v. EÚ L 140, 1. 6. 2007).
+
+  - 33. Smernica Komisie 2007/50/ES z 2. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť beflubutamid a jadrový mnohostenný vírus Spodoptera exigua medzi účinné látky (Ú. v. EÚ L 202, 3. 8. 2007).
+
+  - 34. Smernica Komisie 2007/52/ES zo 16. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť etoprofos, pirimifos-metyl a fipronil do zoznamu účinných látok (Ú. v. EÚ L 214, 17. 8. 2007).

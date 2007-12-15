@@ -4,6 +4,10 @@
 
 - 1a) § 2 písm. u) zákona č. 193/2005 Z. z.
 
+- 1c) Napríklad nariadenie Komisie (ES) č. 1490/2002 zo 14. augusta 2002, stanovujúce ďalšie podrobné pravidlá na vykonanie tretej etapy pracovného programu uvedeného v článku 8 ods. 2 smernice Rady 91/414/EHS a ktorým sa mení a dopĺňa nariadenie (ES) č. 451/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 36) v platnom znení, nariadenie Komisie (ES) č. 2076/2002 z 20. novembra 2002, ktorým sa predlžuje časová lehota uvedená v článku 8 ods. 2 smernice Rady 91/414/EHS a ktorá sa týka nezaradenia určitých účinných látok do prílohy I uvedenej smernice a zrušenia povolení pre prípravky na ochranu rastlín obsahujúcich tieto látky (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 37) v platnom znení, nariadenie Komisie (ES) č. 2229/2004 z 3. decembra 2004, ktorým sa stanovujú podrobné pravidlá na vykonanie štvrtej etapy pracovného programu, na ktorý sa vzťahuje článok 8 ods. 2 smernice Rady 91/414/EHS (Ú. v. EÚ, L 379, 24. 12. 2004) v znení nariadenia Komisie (ES) č. 647/2007 z 12. júna 2007 (Ú. v. EÚ, L 151, 13. 6. 2007).
+
+- 1d) § 11 ods. 12 zákona č. 193/2005 Z. z.
+
 - 2) § 10 ods. 5 zákona č. 193/2005 Z. z.
 
 - 3) § 11 ods. 7 písm. a) body 3 až 5 zákona č. 193/2005 Z. z.

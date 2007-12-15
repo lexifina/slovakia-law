@@ -16,7 +16,7 @@
 
 - e) obsah a charakter jeho formulantov sa významne nelíšia od obsahu a charakteru formulantov referenčného prípravku.
 
-(2) Žiadateľ o registráciu súbežného prípravku (ďalej len „žiadateľ”) predkladá kontrolnému ústavu
+(2) Žiadateľ o registráciu súbežného prípravku, ktorý chce uvádzať na trh, predkladá kontrolnému ústavu
 
 - a) žiadosť podľa prílohy č. 7b,
 
@@ -24,7 +24,13 @@
 
 - c) etiketu súbežného prípravku alebo jej fotokópiu, s ktorou sa súbežný prípravok uvádza na trh v štáte, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
 
-(3) Kontrolný ústav počas registrácie súbežného prípravku<sup>10b</sup>)
+(3) Žiadateľ o registráciu súbežného prípravku na vlastné použitie predkladá kontrolnému ústavu
+
+- a) žiadosť podľa prílohy č. 7b,
+
+- b) etiketu súbežného prípravku alebo jej fotokópiu, s ktorou sa súbežný prípravok uvádza na trh v štáte, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore.
+
+(4) Kontrolný ústav počas registrácie súbežného prípravku<sup>10b</sup>)
 
 - a) spolupracuje s príslušnými úradmi členských štátov alebo štátov, ktoré sú zmluvnou stranou Dohody o Európskom hospodárskom priestore,
 
@@ -34,13 +40,13 @@
 
 - d) požiada, ak je to potrebné, so súhlasom žiadateľa držiteľa registrácie referenčného prípravku o zaslanie údajov o zložení referenčného prípravku.
 
-(4) Žiadateľovi sa vydá rozhodnutie o registrácii súbežného prípravku, ak súbežný prípravok spĺňa podmienky ustanovené osobitným predpisom<sup>10b</sup>) a zároveň sa neskončila alebo nezrušila registrácia referenčného prípravku z dôvodu ochrany života, zdravia ľudí, zvierat a životného prostredia.
+(5) Žiadateľovi sa vydá rozhodnutie o registrácii súbežného prípravku, ak súbežný prípravok spĺňa podmienky ustanovené osobitným predpisom<sup>10b</sup>) a zároveň sa neskončila alebo nezrušila registrácia referenčného prípravku z dôvodu ochrany života, zdravia ľudí, zvierat a životného prostredia.
 
-(5) Doba platnosti registrácie súbežného prípravku nesmie presahovať dobu platnosti registrácie referenčného prípravku. Ak sa registrácia referenčného prípravku skončila alebo zrušila z iného dôvodu, ako je ochrana života a zdravia ľudí, zvierat a životného prostredia, kontrolný ústav zaregistruje súbežný prípravok najviac na obdobie dvoch rokov.
+(6) Doba platnosti registrácie súbežného prípravku nesmie presahovať dobu platnosti registrácie referenčného prípravku. Ak sa registrácia referenčného prípravku skončila alebo zrušila z iného dôvodu, ako je ochrana života a zdravia ľudí, zvierat a životného prostredia, kontrolný ústav zaregistruje súbežný prípravok najviac na obdobie dvoch rokov.
 
-(6) Rozsah použitia súbežného prípravku musí zodpovedať rozsahu použitia referenčného prípravku a musí byť určený pre rovnaké kategórie používateľov.
+(7) Rozsah použitia súbežného prípravku musí zodpovedať rozsahu použitia referenčného prípravku a musí byť určený pre rovnaké kategórie používateľov.
 
-(7) Súbežný prípravok možno uvádzať na trh len
+(8) Súbežný prípravok možno uvádzať na trh len
 
 - a) v obaloch uvedených v rozhodnutí o registrácii,
 
@@ -48,4 +54,4 @@
 
 - c) s etiketou, ktorá musí byť rovnaká ako etiketa referenčného prípravku; etiketa sa môže líšiť len v bodoch 1, 2, 4, 5 a 6 prílohy č. 7.
 
-(8) Ten, kto uvádza na trh súbežné prípravky, je povinný viesť záznamy o číslach šarží a registračných číslach všetkých dovezených súbežných prípravkov. Tieto záznamy vedie počas obdobia troch rokov od dátumu ich dovozu a na požiadanie ich predloží kontrolnému ústavu.
+(9) Ten, kto uvádza na trh súbežné prípravky, je povinný viesť záznamy o číslach šarží a registračných číslach všetkých dovezených súbežných prípravkov. Tieto záznamy vedie počas obdobia troch rokov od dátumu ich dovozu a na požiadanie ich predloží kontrolnému ústavu.
