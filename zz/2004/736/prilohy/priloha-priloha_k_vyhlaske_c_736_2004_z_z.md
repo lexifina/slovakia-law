@@ -14,7 +14,7 @@ Príloha k vyhláške č. 736/2004 Z. z.
 
 - | | Okres
 
-- Čierna nad Tisou | Čierna nad Tisou | Michalovce Sobrance Snina Trebišov
+- Michalovce | Michalovce | Michalovce Sobrance Snina Trebišov
 
 - | | Okres
 
