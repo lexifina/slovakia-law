@@ -1,0 +1,1 @@
+Ján Počiatek v. r.
