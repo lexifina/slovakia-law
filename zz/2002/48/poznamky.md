@@ -8,7 +8,7 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
-- 4) § 69 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 4) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú.v. ES L 239, 22. 9. 2000) v platnom znení.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
@@ -71,6 +71,8 @@
 - 21) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
 
 - 21a) Dohovor o právach dieťaťa (oznámenie č. 104/1991 Zb.).
+
+- 21aa) Dohovor, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 o postupnom zrušení kontrol na spoločných hraniciach, podpísaný v Schengene 19. júna 1990 (Mimoriadne vydanie Ú. v. EÚ, kap.19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
 
 - 22) § 41 ods. 2 Trestného zákona v znení zákona č. 175/1990 Zb.
 
