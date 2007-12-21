@@ -23,3 +23,69 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 - Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti.
 
 - Správny orgán môže vybrať poplatok podľa písmena f) tejto položky až do výšky štvornásobku sadzby, ak sa vydáva doklad o pobyte pre cudzinca na území Slovenskej republiky po druhýkrát, prípadne viackrát do jedného roka od vydania predošlého dokladu.“.
+
+- 6. V sadzobníku správnych poplatkov položka 26 vrátane oslobodenia a splnomocnenia znie:
+
+- „Položka 26
+
+- Udelenie víza na hraničnom priechode ........... 60 EUR.
+
+- Oslobodenie
+
+- 1.
+
+- Od poplatku podľa tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>)
+
+- 2.
+
+- Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky.
+
+- Splnomocnenie
+
+- Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť.“.
+
+  - Poznámka pod čiarou k odkazu 16b znie:
+
+  - „16b)
+
+  - Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.“.
+
+- 7. V sadzobníku správnych poplatkov položka 240 vrátane oslobodenia a splnomocnenia znie:
+
+- „Položka 240
+
+- a)
+
+- žiadosť o udelenie letiskového tranzitného víza ..................................... 60 EUR,
+
+- b)
+
+- žiadosť o udelenie tranzitného víza ............ 60 EUR,
+
+- c)
+
+- žiadosť o udelenie krátkodobého víza ......... 60 EUR,
+
+- d)
+
+- žiadosť o udelenie skupinového víza............................................... 60 EUR + 1 EURO za každú osobu,
+
+- e)
+
+- žiadosť o udelenie víza s obmedzenou územnou platnosťou .............................................. 60 EUR,
+
+- f)
+
+- žiadosť o udelenie dlhodobého víza ........... 5 000 Sk,
+
+- g)
+
+- žiadosť o udelenie dlhodobého víza platného zároveň ako krátkodobé vízum ... 5 000 Sk.
+
+- Oslobodenie
+
+- Od poplatku podľa tejto položky sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>)
+
+- Splnomocnenie
+
+- Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu, v záujmoch zahraničnej politiky, rozvojovej politiky, kultúrnych záujmov a humanitárnych dôvodov poplatok znížiť alebo upustiť od jeho vybratia.“.
