@@ -60,6 +60,8 @@
 
 - 16a) § 22 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
+- 16b) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
+
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
 - 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.

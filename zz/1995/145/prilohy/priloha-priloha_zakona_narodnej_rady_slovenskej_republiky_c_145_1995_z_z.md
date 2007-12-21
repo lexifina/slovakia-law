@@ -494,13 +494,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 26
 
-  - a) Udelenie víza Slovenskej republiky na hraničnom priechode | 4 000 Sk
+  - Udelenie víza na hraničnom priechode.................................................................................................................60 EUR.
 
-  - b) Zrušené od 15. 12. 2005. |
+  - Oslobodenie
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. Od poplatku podľa tejto položky sú oslobodení aj rodinní príslušníci občana členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore a Švajčiarskej konfederácie. |
+  - 1. Od poplatku podľa tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>)
 
-  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch a z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť vo vzťahu k cudzincovi. |
+  - 2. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky.
+
+  - Splnomocnenie
+
+  - Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť.
 
     - Položka 27
 
@@ -3830,25 +3834,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 240
 
-  - a) Žiadosť o udelenie letiskového víza ................................................................ | 1 200 Sk
+  - a) žiadosť o udelenie letiskového tranzitného víza | 60 EUR,
 
-  - b) Žiadosť o udelenie tranzitného víza na jeden vstup .................................... | 1 200 Sk
+  - b) žiadosť o udelenie tranzitného víza | 60 EUR,
 
-  - c) Žiadosť o udelenie tranzitného víza na dva vstupy ....................................... | 1 500 Sk
+  - c) žiadosť o udelenie krátkodobého víza | 60 EUR,
 
-  - d) Žiadosť o udelenie tranzitného víza na viac vstupov .................................... | 3 000 Sk
+  - d) žiadosť o udelenie skupinového víza | 60 EUR + 1 EURO za každú osobu,
 
-  - e) Žiadosť o udelenie krátkodobého víza na jeden vstup ................................. | 1 200 Sk
+  - e) žiadosť o udelenie víza s obmedzenou územnou platnosťou | 60 EUR,
 
-  - f) Žiadosť o udelenie krátkodobého víza na viac vstupov ................................. | 3 000 Sk
+  - f) žiadosť o udelenie dlhodobého víza | 5 000 Sk,
 
-  - g) Žiadosť o udelenie dlhodobého víza ................................................................ | 5 000 Sk
+  - g) žiadosť o udelenie dlhodobého víza platného zároveň ako krátkodobé vízum | 5 000 Sk.
 
-  - h) Žiadosť o udelenie skupinového víza .............................................................. | 60 % príslušnej sadzby určenej podľa písmen a) až g)
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - Oslobodenie Od poplatku za udelenie víza sa oslobodzujú 1. držitelia diplomatických a služobných pasov, ak je zachovaná vzájomnosť, 2. osoby mladšie ako 15 rokov, 3. občania štátov, s ktorými Slovenská republika uzavrela dohody o bezplatnom udeľovaní víz, jednostranne zrušila vízové poplatky alebo na základe vzájomnosti, 4. novinári, ktorí sú akreditovaní v Slovenskej republike, na základe predloženia platného novinárskeho preukazu vydaného ministerstvom zahraničných vecí, 5. osoby, ktorým bolo priznané postavenie zahraničného Slováka,6. osoby, ktorým bolo udelené krátkodobé vízum na jeden vstup na účel prevzatia povolenia na pobyt. |
-
-  - Splnomocnenie Správny orgán vyberie poplatky podľa tejto položky vo výške dvojnásobku príslušnej sadzby, ak ide o prednostné udelenie víza. |
+  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu, v záujmoch zahraničnej politiky, rozvojovej politiky, kultúrnych záujmov a humanitárnych dôvodov poplatok znížiť alebo upustiť od jeho vybratia. |
 
     - Položka 241
 
