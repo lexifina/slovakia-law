@@ -84,6 +84,10 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - Vstup nemožno odoprieť cudzincovi, ktorý má povolený pobyt v Slovenskej republike.“.
 
+- 8. V § 10 sa vypúšťa odsek 3.
+
+- 9. V § 11 sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
+
 - 10. V § 13 ods. 1 sa vypúšťa slovo „osobne“.
 
 - 11. V § 13 ods. 4 sa slová „doklad o zdravotnom poistení na úhradu nákladov spojených s poskytovaním zdravotnej starostlivosti cudzincovi na území Slovenskej republiky (ďalej len „doklad o zdravotnom poistení")“ nahrádzajú slovami „doklad o zdravotnom poistení na úhradu nákladov, ktoré môžu vzniknúť v súvislosti s jeho repatriáciou z dôvodu choroby a s poskytovaním neodkladnej zdravotnej starostlivosti na území Slovenskej republiky v minimálnej výške 30 000 euro“.
@@ -91,6 +95,8 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 - 12. V § 14 ods. 2 sa slová „policajným útvarom“ nahrádzajú slovami „útvarom Policajného zboru (ďalej len „policajný útvar")“.
 
 - 13. V § 14 ods. 3 sa slová „Ministerstva vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra")“ nahrádzajú slovami „ministerstva vnútra“.
+
+- 14. V § 14 ods. 8 sa na konci pripája táto veta: „Dôvod neudelenia víza sa cudzincovi neoznamuje.“.
 
 - 15. V § 14a sa vkladá nový odsek 1, ktorý znie:
 
