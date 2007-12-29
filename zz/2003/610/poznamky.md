@@ -2,6 +2,8 @@
 
 - 1a) Napríklad zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z., zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
 
+- 1b) § 2 ods. 2 písm. c) Obchodného zákonníka.
+
 - 2) § 43a ods. 3 písm. h) a i), § 55 ods. 2 a § 139a ods. 10 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
@@ -72,7 +74,17 @@
 
 - 24b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 25) Zákon č. 166/2003 Z. z.§ 88 ods. 9 a 10 Trestného poriadku.
+- 24c) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
+- Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 25) Zákon č. 166/2003 Z. z.
+
+- § 115 Trestného poriadku.
+
+- 25a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov.
 
 - 26) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
@@ -85,6 +97,12 @@
 - 29) § 35 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam.
 
 - 30) § 35 ods. 1 a § 60 zákona č. 50/1976 Zb.
+
+- 30a) Čl. 4 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007 o roamingu vo verejných mobilných telefónnych sieťach v rámci Spoločenstva a o zmene a doplnení smernice 2002/21/ES (Ú. v. EÚ L 171, 29. 6. 2007).
+
+- 30b) Čl. 3 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007.
+
+- 30c) Čl. 6 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007.
 
 - 31) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
