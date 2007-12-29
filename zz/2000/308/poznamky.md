@@ -127,3 +127,5 @@
 - 50) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 51) § 24 ods. 3 zákona č. 220/2007 Z. z.
+
+- 52) § 68 zákona č. 220/2007 Z. z.
