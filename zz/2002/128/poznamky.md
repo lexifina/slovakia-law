@@ -1,4 +1,4 @@
-- 1) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z., zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 67/1997 Z. z. o ochrane nefajčiarov v znení zákona č. 147/2001 Z. z., zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji, zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
+- 1) Občiansky zákonník, zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z., zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov, zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z., zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
@@ -23,6 +23,8 @@
 - 9a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
+
+- 10a) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 11) Napríklad § 25 a 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
 
@@ -53,6 +55,8 @@
 - 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
 
 - 18aa) § 12 ods. 4 a 6 zákona č. 725/2004 Z. z.
+
+- 18b) § 7 až 9 zákona č. 250/2007 Z. z.
 
 - 19) § 8 ods. 3 písm. c) zákona č. 264/1999 Z. z.
 
