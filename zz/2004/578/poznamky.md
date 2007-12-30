@@ -176,20 +176,6 @@
 
 - 65) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
-- 66) § 5 a 59 ods. 4 Obchodného zákonníka.
-
-- 67) § 477 ods. 3 časť vety za čiarkou a § 478 Obchodného zákonníka.
-
-- 67a) § 59 ods. 2 tretia veta a § 60 Obchodného zákonníka.
-
-- 68) § 34 a 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
-- 69) § 483 ods. 3 Obchodného zákonníka.
-
-- 70) § 151n až 151p Občianskeho zákonníka.
-
-- 71) § 58 ods. 1 Obchodného zákonníka.
-
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 73) Zákon č. 219/2002 Z. z. v znení neskorších predpisov.
