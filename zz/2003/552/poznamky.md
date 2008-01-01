@@ -14,9 +14,7 @@
 
 - 8) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. v znení neskorších predpisov.
 
-- 9) Zákon č. 140/1961 Zb. Trestný zákon.
-
-- 10) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
