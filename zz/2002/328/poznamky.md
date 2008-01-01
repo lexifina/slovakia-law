@@ -1,26 +1,40 @@
-- 1) § 2 ods. 2 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
+- 1) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- 2) § 2 písm. e) zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
-- 3) § 10 zákona č. 320/2002 Z. z. o brannej povinnosti.
+- 3a) § 84 ods. 2 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- 3a) § 84 ods. 1 písm. a) až m) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.§ 79 ods. 1 písm. a) až l) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- § 79 ods. 2 zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- 3b) § 3 ods. 2 písm. a) až e) a i) až t) zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
+- § 103 ods. 4 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení zákona č. 519/2007 Z. z.
 
-- 3c) § 65 ods. 1 písm. a), b), e) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 1 ods. 2 písm. a), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+- 3b) § 138 ods. 2, § 208 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 3d) § 93 ods. 1 písm. a), písm. b) bod 1., 3. až 7., písm. c) bod 1. až 3., 7. a 8. zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.§ 1 ods. 2 písm. b), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+- 3c) § 65 ods. 1 písm. a), b), e) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 138 ods. 5 zákona č. 346/2005 Z. z.
+
+- 3d) § 93 ods. 1 písm. a), písm. b) bod 1., 3. až 7., písm. c) bod 1. až 3., 7. a 8. zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
+- § 138 ods. 5 zákona č. 346/2005 Z. z.
 
 - 3e) § 78 ods. 1 písm. a) až e), i) až l) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 1 ods. 2 písm. a) a b), § 8 a 18 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+- § 138 ods. 5 zákona č. 346/2005 Z. z.
+
+- 3ea) § 149 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 3eb) § 15k zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
+
+- 3ec) § 15l zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
+
+- 3ed) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 3ee) § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
 
 - 3f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 3g) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
-- 3h) § 152 ods. 2 zákona č. 73/1998 Z. z.
+- 3h) § 116 zákona č. 346/2005 Z. z., § 166 až 169 Zákonníka práce.
 
 - 4) § 22 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
 
@@ -34,53 +48,49 @@
 
 - 7) § 109 ods. 1 a 2 zákona č. 73/1998 Z. z.§ 119 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
 
-- 8) Zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení zákona č. 563/2001 Z. z.
+- 8) § 138 ods. 2 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 9) § 3 ods. 2 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
+- 9) § 208 zákona č. 346/2005 Z. z.
 
-- 10) § 4 písm. a) zákona č. 380/1997 Z. z.
+- 10) Zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
-- 11) Zákon č. 311/2001 Z. z.
+- 11) § 138 ods. 5 zákona č. 346/2005 Z. z.
 
-- 12) § 1 a 8 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
+- 12) § 65 ods. 1 písm. a) až c) a e) zákona č. 385/ 2000 Z. z.
 
-- 13) Zákon Slovenskej národnej rady č. 420/1991 Zb. o platových pomeroch sudcov a justičných čakateľov v znení neskorších predpisov.
+- 13) § 65 ods. 1 písm. d) zákona č. 385/2000 Z. z.
 
-- 14) § 2 zákona Slovenskej národnej rady č. 420/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 148/1993 Z. z.
+- 14) Zákon č. 154/2001 Z. z. v znení neskorších predpisov.
 
-- 15) Zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov.
+- 15) § 58 a § 93 ods. 1 písm. a), b) prvý až šiesty bod a písmeno c) zákona č. 154/2001 Z. z.
 
-- 16) § 2 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 66/1994 Z. z. v znení neskorších predpisov.
+- 16) § 3 ods. 1 písm. b) siedmy bod zákona č. 154/2001 Z. z.
 
-- 17) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 17) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
-- 18) § 78 ods. 1 písm. a) až l) zákona č. 312/2001 Z. z.
+- 18) § 78 ods. 1 písm. a) až l) a § 96 ods. 3 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
-- 19) § 98 zákona č. 312/2001 Z. z.
-
-- 20) § 29 zákona č. 380/1997 Z. z.
-
-- 21) Napríklad § 9 zákona Slovenskej národnej rady č. 420/1991 Zb., § 15 zákona Národnej rady Slovenskej republiky č. 66/1994 Z. z.
-
-- 22) Napríklad § 95 zákona č. 312/2001 Z. z.
+- 19) § 15j až 15p zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
 
 - 23) § 35 ods. 9, § 43 ods. 3 a § 46 ods. 3 zákona č. 73/1998 Z. z.
 
 - § 34 ods. 6, § 40 ods. 2 až 4 a § 42 ods. 3 zákona č. 200/1998 Z. z.
 
-- 24) § 35 a 36 zákona č. 380/1997 Z. z. v znení neskorších predpisov.
+- 23a) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 25) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z.
+- § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
 
-- 26) § 65 ods. 1 písm. a) až e) zákona č. 385/2000 Z. z.
+- 24) § 46 ods. 4 zákona č. 73/1998 Z. z.
 
-- 27) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
+- § 65 ods. 9 a 10 zákona č. 346/2005 Z. z.
 
-- 28) § 93 ods. 1 písm. a) až c) zákona č. 154/2001 Z. z.
+- 25) § 81 zákona č. 73/1998 Z. z. v znení zákona č. 201/2004 Z. z.
+
+- § 104 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 29a) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 29a) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29b) § 43 ods. 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
@@ -88,7 +98,23 @@
 
 - 30) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
-- 31d) § 32 ods. 2 písm. d) zákona č. 370/1997 Z. z. v znení neskorších predpisov.
+- 31) § 63 ods. 1 písm. c) zákona č. 315/2001 Z. z.
+
+- 31a) § 63 ods. 1 písm. j) zákona č. 315/2001 Z. z. v znení zákona č. 519/2007 Z. z.
+
+- 31b) § 196 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 31c) § 70 ods. 1 písm. d) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 31d) § 10 ods. 1 písm. b) Trestného zákona.
+
+- 31e) § 11 Trestného zákona.
+
+- 31f) § 13 ods. 1 písm. f) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 31g) § 13 ods. 1 písm. f) až h) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 31h) § 119 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 32) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov, zákon č. 370/1997 Z. z. v znení neskorších predpisov.
 
@@ -96,9 +122,21 @@
 
 - § 24 ods. 1 až 3 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
+- 33a) § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení zákona č. 561/2005 Z. z.
+
+- 33b) § 62 ods. 3 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 33c) § 65 ods. 3 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 33d) Napríklad § 35 ods. 10 a § 43 ods. 5 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 34 ods. 8 a § 40 ods. 4 zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov, § 52 ods. 5 zákona č. 315/2001 Z. z., § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 33e) § 261 ods. 3 a § 293l ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
+
 - 34) § 4 zákona č. 238/1998 Z. z. o príspevku na pohreb.
 
 - 35) Napríklad vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 46/1985 Zb. o postupe pri úmrtí a o pohrebníctve v znení zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
+
+- 35a) § 58 ods. 1 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -120,7 +158,7 @@
 
 - 39aa) § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení zákona č. 534/2002 Z. z.
 
-- 39b) § 84 ods. 1 zákona č. 73/1998 Z. z.
+- 39b) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom.
 
 - 40) § 76 zákona č. 380/1997 Z. z.
 
@@ -134,9 +172,11 @@
 
 - Zákon č. 154/2001 Z. z.
 
-- 41a) § 119 zákona č. 370/1997 Z. z.
+- 41a) § 97 a 98 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 42) Napríklad § 28 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z., § 94 ods. 1 písm. a) a b) zákona č. 312/2001 Z. z.
+- § 48 zákona č. 385/2000 Z. z. v znení neskorších predpisov. § 59 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
+
+- 42) Napríklad § 79 ods. 1 písm. a) zákona č. 385/2000 Z. z. v znení neskorších predpisov, § 94 ods. 1 písm. a) a b) zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 148 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 43) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -144,11 +184,21 @@
 
 - 45) § 44 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 46) § 124 zákona č. 370/1997 Z. z.
+- 45a) § 51 ods. 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- 47) § 25 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
+- 45b) § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
+
+- 46) § 63 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 47) § 65 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- § 46 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- § 42 zákona č. 200/1998 Z. z. v znení zákona č. 258/2005 Z. z.
 
 - 47a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
+- 47b) § 52 ods. 4 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
 - 48) § 8a ods. 1 písm. r) zákona č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 158/2001 Z. z.
 
@@ -172,9 +222,7 @@
 
 - 53) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
-- 54) § 54 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
-
-- 55) Zákon č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 54) § 53 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2003 Z. z.
 
 - 56) Zákon č. 131/2002 Z. z.
 
@@ -195,3 +243,9 @@
 - 64) § 266 ods. 1 a 2 zákona č. 200/1998 Z. z.
 
 - 65) § 109 ods. 1 zákona č. 131/2002 Z. z.
+
+- 65a) § 160 ods. 2 zákona č. 315/2001 Z. z.
+
+- 65b) § 111 ods. 2 zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
+
+- 65c) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
