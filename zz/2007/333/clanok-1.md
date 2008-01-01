@@ -24,6 +24,8 @@ Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330
 
 - § 10 zákona č. 321/2002 Z. z. v znení zákona č. 570/2005 Z. z.“.
 
+- 4. V § 7 písm. f) sa za slová „orgánmi miestnej štátnej správy,“ vkladajú slová „a koordinuje a kontroluje v rozsahu svojej pôsobnosti plnenie úloh obrany štátu“ a vypúšťajú sa slová „Vyššou vojenskou správou podľa § 13,“.
+
 - 5. § 7 sa dopĺňa písmenami l) až n), ktoré znejú:
 
 - „l)
@@ -32,7 +34,11 @@ Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330
 
 - m)
 
-- vykonáva v druhom stupni štátnu správu na úseku obrany vo veciach, v ktorých v správnom konaní v prvom stupni konajú obvodné úrady,“.
+- vykonáva v druhom stupni štátnu správu na úseku obrany vo veciach, v ktorých v správnom konaní v prvom stupni konajú obvodné úrady,
+
+- n)
+
+- vykonáva v druhom stupni štátnu správu na úseku obrany vo veciach, v ktorých v prvom stupni konajú územné vojenské správy.“.
 
 - 6. § 9 sa vypúšťa.
 
@@ -84,7 +90,15 @@ Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.“.
 
 - 13. V § 12 ods. 1 písm. a) sa slová „krajským úradom“ nahrádzajú slovami „obvodným úradom v sídle kraja“.
 
+- 14. V § 12 ods. 1 písm. c) sa vypúšťajú slová „vyššou vojenskou správou a“.
+
+- 15. § 13 vrátane nadpisu sa vypúšťa.
+
 - 16. V § 14 písm. c) sa vypúšťajú slová „v súčinnosti s krajskými úradmi“.
+
+- 17. § 14 sa vypúšťa.
+
+- 18. V § 15 ods. 5 sa na konci pripájajú tieto slová: „Slovenskej republiky“.
 
 - 19. V § 16 písm. c) sa slová „evidovaných občanov“ nahrádzajú slovom „ich“.
 
@@ -120,11 +134,45 @@ Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.“.
 
   - 27. V § 25 ods. 4 sa slová „s výhľadom na 4 až 6 rokov“ nahrádzajú slovami „s výhľadom na 3 až 6 rokov“.
 
+  - 28. Za § 34a sa vkladá § 34b, ktorý znie:
+
+  - „§ 34b
+
+  - Zrušuje sa Vyššia vojenská správa.“.
+
 - 29. Za § 35a sa vkladá § 35b, ktorý vrátane nadpisu znie:
 
 - „§ 35b
 
 - Prechodné ustanovenia k úpravám účinným od 1. januára 2008
+
+- (1)
+
+- Práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov štátnych zamestnancov, ktorí k 31. decembru 2007 vykonávali štátnu službu vo Vyššej vojenskej správe, prechádzajú od 1. januára 2008 na ministerstvo.
+
+- (2)
+
+- Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov zamestnancov pri výkone práce vo verejnom záujme, ktorí k 31. decembru 2007 vykonávali verejnú službu vo Vyššej vojenskej správe, prechádzajú od 1. januára 2008 na ministerstvo.
+
+- (3)
+
+- Nehnuteľný majetok štátu, ktorý mala v správe Vyššia vojenská správa k 31. decembru 2007, prechádza od 1. januára 2008 do správy ministerstva.
+
+- (4)
+
+- Hnuteľný majetok štátu vrátane nehmotného majetku štátu, ktorý mala v správe Vyššia vojenská správa do 31. decembra 2007, prechádza od 1. januára 2008 do správy ministerstva.
+
+- (5)
+
+- Pohľadávky a záväzky Vyššej vojenskej správy prechádzajú od 1. januára 2008 na ministerstvo.
+
+- (6)
+
+- Práva a povinnosti Vyššej vojenskej správy z majetkovoprávnych vzťahov a iných vzťahov vzniknuté do 31. decembra 2007 prechádzajú od 1. januára 2008 na ministerstvo.
+
+- (7)
+
+- Konanie, v ktorom sa rozhoduje o právach, právom chránených záujmoch alebo povinnostiach fyzických osôb, fyzických osôb oprávnených na podnikanie a právnických osôb, začaté Vyššou vojenskou správou do 31. decembra 2007, dokončí ministerstvo.
 
 - (8)
 
