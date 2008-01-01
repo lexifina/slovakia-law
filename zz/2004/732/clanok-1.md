@@ -212,11 +212,123 @@ Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zm
 
 - 23. V § 29 ods. 3, § 58 ods. 2, § 71 ods. 2, § 85 ods. 1 písm. a), § 87 ods. 1 písm. c) a § 88 ods. 1 písm. b) sa slová „§ 7 ods. 2“ nahrádzajú slovami „§ 7 ods. 3“.
 
+- 24. § 31 a 32 znejú:
+
+- „§ 31
+
+- (1)
+
+- Výsluhový príspevok patrí v rozsahu a za podmienok ustanovených týmto zákonom
+
+- a)
+
+- policajtovi, ktorého služobný pomer sa skončil
+
+- 1.
+
+- uvoľnením,
+
+- 2.
+
+- prepustením, ak pre neho v dôsledku zníženia početných stavov Policajného zboru schválených vládou Slovenskej republiky nie je iné služobné zaradenie,
+
+- 3.
+
+- prepustením, ak podľa rozhodnutia lekárskej komisie stratil dlhodobo zo zdravotných dôvodov spôsobilosť vykonávať akúkoľvek funkciu v Policajnom zbore alebo spôsobilosť vykonávať doterajšiu funkciu a nemožno ho previesť ani preložiť na inú funkciu v štátnej službe, ktorej výkon by nebol na ujmu jeho zdravia,
+
+- 4.
+
+- prepustením z iných dôvodov ustanovených osobitným predpisom,<sup>31a</sup>)
+
+- 5.
+
+- uplynutím dočasnej štátnej služby,
+
+- b)
+
+- profesionálnemu vojakovi, ktorého služobný pomer sa skončil prepustením,
+
+- 1.
+
+- ak je zdravotne nespôsobilý na výkon profesionálnej služby,
+
+- 2.
+
+- ak je zdravotne nespôsobilý na výkon zastávanej funkcie a nie je preňho iné vhodné zaradenie,
+
+- 3.
+
+- ak v dôsledku zníženia početných stavov ozbrojených síl alebo v dôsledku organizačných zmien nie je preňho iné vhodné zaradenie,
+
+- 4.
+
+- ak splnil prevzatý záväzok na dočasný služobný pomer a nebol prijatý do stáleho služobného pomeru,
+
+- 5.
+
+- z iných dôvodov ustanovených osobitným predpisom.<sup>31b</sup>)
+
+- (2)
+
+- Výsluhový príspevok podľa odseku 1 písm. a) prvého bodu a štvrtého bodu a písm. b) piateho bodu patrí odo dňa nasledujúceho po dni skončenia služobného pomeru, najdlhšie počas šiestich mesiacov, ak služobný pomer trval najmenej tri roky, ale menej ako 15 rokov.
+
+- (3)
+
+- Výsluhový príspevok podľa odseku 1 písm. a) druhého bodu, tretieho bodu a piateho bodu a podľa odseku 1 písm. b) prvého bodu až štvrtého bodu patrí odo dňa nasledujúceho po dni skončenia služobného pomeru najdlhšie
+
+- a)
+
+- 6 mesiacov, ak služobný pomer trval najmenej 3 roky, ale menej ako 5 rokov,
+
+- b)
+
+- 1 rok, ak služobný pomer trval najmenej 5 rokov, ale menej ako 9 rokov,
+
+- c)
+
+- 2 roky, ak služobný pomer trval najmenej 9 rokov, ale menej ako 12 rokov,
+
+- d)
+
+- 3 roky, ak služobný pomer trval najmenej 12 rokov, ale menej ako 15 rokov.
+
+- § 32
+
+- (1)
+
+- Výsluhový príspevok patrí policajtovi a profesionálnemu vojakovi podľa § 31 ods. 1 najdlhšie počas šiestich mesiacov vo výške 50 % základu zisteného podľa § 60, ak je zaradený do evidencie uchádzačov o zamestnanie úradu práce, sociálnych vecí a rodiny podľa osobitného predpisu<sup>31c</sup>) (ďalej len „evidencia uchádzačov o zamestnanie").
+
+- (2)
+
+- Výsluhový príspevok patrí policajtovi a profesionálnemu vojakovi podľa § 31 ods. 3 písm. b) až d) za každý skončený rok trvania služobného pomeru vo výške 2 % základu zisteného podľa § 60, a to odo dňa
+
+- a)
+
+- jeho vyradenia z evidencie uchádzačov o zamestnanie alebo
+
+- b)
+
+- nasledujúceho po dni skončenia služobného pomeru.
+
+- (3)
+
+- Nárok na výsluhový príspevok podľa odseku 1 zaniká jeho poberateľovi vždy dňom vyradenia z evidencie uchádzačov o zamestnanie alebo dňom priznania starobného dôchodku. Nárok na výsluhový príspevok podľa odseku 2 zaniká jeho poberateľovi uplynutím doby uvedenej v § 31 ods. 3 alebo dňom priznania starobného dôchodku. Nárok na výsluhový príspevok podľa odsekov 1 a 2 nevzniká policajtovi a profesionálnemu vojakovi, ktorí splnili podmienky nároku na starobný dôchodok.“.
+
+- Poznámky pod čiarou k odkazom 31a až 31c znejú:
+
 - „31a)
 
 - § 192 ods. 1 písm. c) až g) zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- § 183 ods. 1 písm. d) až h) zákona č. 200/1998 Z. z.“.
+- § 183 ods. 1 písm. d) až h) zákona č. 200/1998 Z. z.
+
+- 31b)
+
+- § 32 ods. 1 písm. d), e), g) až j) a ods. 2 zákona č. 370/1997 Z. z. v znení neskorších predpisov.
+
+- 31c)
+
+- Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 25. V § 33 ods. 2 sa na konci pripájajú tieto slová: „najdlhšie však do 30 rokov trvania služobného pomeru“.
 
