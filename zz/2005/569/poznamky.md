@@ -20,9 +20,13 @@
 
 - 10) § 7 zákona č. 570/2005 Z. z.
 
+- 10a) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
+
 - 11) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 12) § 14 zákona č. 570/2005 Z. z.
+
+- 12a) § 116 Občianskeho zákonníka.
 
 - 13) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
@@ -54,11 +58,13 @@
 
 - 25) Nariadenie vlády Slovenskej republiky č. 504/2002 Z. z. o podmienkach poskytovania osobných ochranných prostriedkov.
 
-- 26) Napríklad zákon č. 311/2001 Z. z. v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 26) § 139 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 27) § 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
 - 28) Zákon č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 28a) § 15f ods. 1 a 3 zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
 
 - 29) § 92, 93 a § 96 ods. 1 a 2 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
