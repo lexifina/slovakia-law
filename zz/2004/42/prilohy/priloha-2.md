@@ -12,7 +12,7 @@ Príloha č. 2 k nariadeniu vlády č. 42/2004 Z. z.
 
 - Rozhodnutia o privatizácii | bezodplatne |
 
-- Údaje týkajúce sa poskytovania štátnej po- moci podľa osobitného zákona<sup>2</sup>) | bezodplatne, ak je poskytovateľom štátnej pomoci orgán verejnej moci |
+- Údaje týkajúce sa poskytovania štátnej pomoci podľa osobitného zákona<sup>2</sup>) | bezodplatne, ak je poskytovateľom štátnej pomoci orgán verejnej moci |
 
 - | 600 Sk v ostatných prípadoch | 01
 
@@ -72,7 +72,7 @@ Príloha č. 2 k nariadeniu vlády č. 42/2004 Z. z.
 
 - | 300 Sk za zverejnenie zmeny v údajoch o zriadení mediačného centra | 30
 
-- Údaje zverejňované správcom alebo súdnym exekútorom podľa osobitných predpisov<sup>1a</sup>) | bezodplatne |
+- Údaje zverejňované správcom a súdnym exekútorom podľa osobitných predpisov<sup>1a</sup>) alebo údaje zverejňované dražobníkom podľa osobitného predpisu<sup>1b</sup>) | bezodplatne |
 
 - Údaje o verejných súťažiach | bezodplatne, ak je vyhlasovateľom verejnej súťaže orgán verejnej moci |
 
