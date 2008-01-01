@@ -8,6 +8,10 @@ Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone pr
 
 - plat za neaktívnu časť pracovnej pohotovosti na pracovisku.“.
 
+- 2. V § 7 ods. 10 sa slová „1. júla“ nahrádzajú slovami „1. januára“ a slová „30. júnu“ nahrádzajú slovami „31. decembru“.
+
+- 3. V § 7 ods. 11 sa slová „30. júnu“ nahrádzajú slovami „31. decembru“.
+
 - 4. Za § 7 sa vkladá § 7a, ktorý vrátane nadpisu znie:
 
 - „§ 7a
