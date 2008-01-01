@@ -4,7 +4,7 @@
 
 (2) Výkon práv a povinností vyplývajúcich zo služobného pomeru musí byť v súlade s dobrými mravmi. Nikto nesmie tieto práva a povinnosti zneužívať na škodu druhého. Policajt nesmie byť v súvislosti s výkonom štátnej služby prenasledovaný ani inak postihovaný za to, že podá na iného policajta alebo nadriadeného sťažnosť, žalobu alebo návrh na začatie trestného stíhania.
 
-(3) Občan pri vstupe do štátnej služby alebo policajt, ktorí sa domnievajú, že ich práva alebo právom chránené záujmy boli dotknuté nedodržaním zásady rovnakého zaobchádzania, môžu sa obrátiť na súd a domáhať sa právnej ochrany ustanovenej osobitným zákonom.<sup>1</sup>)
+(3) Občan pri vstupe do štátnej služby alebo po jej skončení alebo policajt, ktorý sa domnieva, že jeho právo alebo právom chránený záujem bol dotknutý nedodržaním zásady rovnakého zaobchádzania, môže sa obrátiť na súd a domáhať sa právnej ochrany ustanovenej osobitným zákonom.<sup>1</sup>)
 
 (4) Služobný úrad alebo nadriadený nesmie policajta postihovať alebo znevýhodňovať preto, že policajt uplatňuje svoje práva vyplývajúce zo služobného pomeru.
 

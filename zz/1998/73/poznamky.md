@@ -14,11 +14,15 @@
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
-- 7) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
-
-- 7a) § 11 ods. 7 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+- 7) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
 - 8) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 8a) Napríklad zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti)v znení zákona č. 330/2007 Z. z., zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8b) § 39a ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 490/2001 Z. z.
+
+- 8c) § 11 ods. 7 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 9) § 116 zákona č. 40/1964 Zb. Občiansky zákonník.
 
@@ -33,6 +37,10 @@
 - 10c) § 20 zákona č. 328/2002 Z. z.
 
 - 10d) § 117 Trestného poriadku.
+
+- 10e) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -52,11 +60,9 @@
 
 - 13ab) Napríklad § 3 ods. 1 písm. a) a § 12 až 18 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
-- 13ac) Napríklad § 7 ods. 7, § 10 ods. 3 a 14 zákona č. 96/2002 Z. z.
+- 13aba) § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 13ad) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
-- 13ae) Zákon č. 96/2002 Z. z.
+- 13ac) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
 - 13b) § 143a Občianskeho zákonníka.
 
@@ -74,17 +80,31 @@
 
 - 15c) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, zákon č. 152/1998 Z. z. o sťažnostiach, zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov a zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky.
 
-- 16) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
-
 - 17) Zákon Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
 
 - 17a) § 10 zákona č. 328/2002 Z. z.
 
-- 18) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 18) Nariadenie vlády Slovenskej republiky č. 338/2006 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou biologickým faktorom pri práci.
 
-- 18a) Zákon č. 328/2002 Z. z.
+- 18a) Napríklad nariadenie vlády Slovenskej republiky č. 340/2006 Z. z. o ochrane zdravia osôb pred nepriaznivými účinkami ionizujúceho žiarenia pri lekárskom ožiarení v znení nariadenia vlády Slovenskej republiky č.85/2007 Z. z., nariadenie vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením, nariadenie vlády Slovenskej republiky č. 348/2006 Z. z. o požiadavkách na zabezpečenie kontroly vysokoaktívnych žiaričov a opustených žiaričov.
 
-- 19) Zákon č. 88/l968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.Zákon č. 382/l990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
+- 18b) Nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 300/2007 Z. z.
+
+- 18c) Napríklad nariadenie vlády Slovenskej republiky č. 115/2006 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou hluku v znení nariadenia vlády Slovenskej republiky č. 555/2006 Z. z.
+
+- 18d) Nariadenie vlády Slovenskej republiky č. 356/2006 Z. z. o ochrane zdravia zamestnancov pred rizikami súvisiacimi s expozíciou karcinogénnym a mutagénnym faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 301/2007 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 253/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou azbestu pri práci.
+
+- 18e) Nariadenie vlády Slovenskej republiky č. 329/2006 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou elektromagnetickému poľu.
+
+- 18f) Nariadenie vlády Slovenskej republiky č. 393/2006 Z. z. o minimálnych požiadavkách na zaistenie bezpečnosti a ochrany zdravia pri práci vo výbušnom prostredí.
+
+- 18g) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 19) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 19a) Zákon č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 20) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení zákona č. 47/1991 Zb.Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
@@ -100,11 +120,11 @@
 
 - 25b) § 18 až 32 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
-- 26) § 5 ods. 1 zákona č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 26) § 5 ods. 2 zákona č. 283/2002 Z. z.
 
-- 27) § 7 ods. 2 zákona č. 119/1992 Zb.
+- 27) § 7 ods. 2, 3 a 7 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
-- 28) § 7 ods. 4 zákona č. 119/1992 Zb.
+- 28) § 7 ods. 4 až 7 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
 - 29) § 13 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
@@ -114,15 +134,17 @@
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
-- 33) Zákon č. 40/1964 Zb. v znení neskorších predpisov.
+- 32a) Napríklad zákon č. 29/1984 Zb. v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
+
+- 33) Nariadenie vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia.
 
 - 34) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34a) § 4 až 8 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona č. 256/2003 Z. z.
 
-- 34b) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+- 34aa) § 30 zákona č. 355/2007 Z. z.
 
-- 34c) Zákon č. 272/1994 Z. z. v znení neskorších predpisov.
+- 34b) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 35) § 9 zákona č. 328/2002 Z. z.
 
@@ -164,12 +186,12 @@
 
 - 48a) § 85 zákona č. 328/2002 Z. z.
 
-- 49) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+- 48b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 50) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, zákon č. 100/1988 Zb. v znení neskorších predpisov.
+- 49) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 51) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení neskorších predpisov.
 
 - 52) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 53) § 15 zákona č. 32/1957 Zb.
+- 53) § 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.

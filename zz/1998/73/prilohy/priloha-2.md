@@ -2,120 +2,76 @@ Príloha č. 2
 
 - k zákonu č. 73/1998 Z. z.
 
-  - PRVÁ ČASŤ POLICAJNÝ ZBOR 1. Ministerstvo vnútra Slovenskej republiky | |
+- PRÍPLATOK ZA RIADENIE
+
+  - PRVÁ ČASŤ POLICAJNÝ ZBOR Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
+
+  - 1.01. | prezident Policajného zboru | 30 % až 70 %
+
+  - 1.02. | generálny riaditeľ sekcie, rektor Akadémie Policajného zboru v Bratislave, viceprezident Policajného zboru | 20 % až 60 %
+
+  - 1.03. | riaditeľ úradu ministerstva, biskupský vikár, zástupca generálneho riaditeľa sekcie, prorektor Akadémie Policajného zboru v Bratislave, riaditeľ krajského riaditeľstva | 15 % až 50 %
+
+  - 1.04. | riaditeľ odboru, riaditeľ (vedúci) organizácie a zariadenia ministerstva, zástupca riaditeľa úradu ministerstva, zástupca biskupského vikára, zástupca riaditeľa krajského riaditeľstva, riaditeľ okresného riaditeľstva | 10 % až 40 %
+
+  - 1.05. | vedúci samostatného oddelenia, zástupca riaditeľa odboru, vedúci katedry Akadémie Policajného zboru v Bratislave, zástupca riaditeľa (vedúceho) organizácie a zariadenia, riaditeľ odboru krajského riaditeľstva, zástupca riaditeľa okresného riaditeľstva | 9 % až 35 %
+
+  - 1.06. | zástupca riaditeľa odboru krajského riaditeľstva, riaditeľ odboru okresného riaditeľstva, vedúci predmetovej skupiny strednej odbornej školy Policajného zboru, vedúci ročníka Akadémie Policajného zboru v Bratislave, riaditeľ základného útvaru | 8 % až 30 %
+
+  - 1.07. | vedúci oddelenia, zástupca riaditeľa odboru okresného riaditeľstva, zástupca riaditeľa základného útvaru, vedúci samostatného oddelenia okresného riaditeľstva, veliteľ jednotky | 7 % až 27 %
+
+  - 1.08. | zástupca vedúceho oddelenia, vedúci skupiny, vedúci zmeny, zástupca veliteľa jednotky, veliteľ čaty, zástupca veliteľa čaty | 5 % až 20 %
+
+  - DRUHÁ ČASŤ ZBOR VÄZENSKEJ A JUSTIČNEJ STRÁŽE
+
+    - 1. Generálne riaditeľstvo
 
   - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
 
-  - 1.01. | prezident Policajného zboru, generálny riaditeľ sekcie | 30 % až 57 %
+  - 1.01. | generálny riaditeľ zboru | 30 % až 70 %
 
-  - 1.02. | riaditeľ úradu, viceprezident Policajného zboru, zástupca generálneho riaditeľa sekcie | 20 % až 46 %
+  - 1.02. | námestník generálneho riaditeľa zboru | 20 % až 60 %
 
-  - 1.03. | riaditeľ odboru, zástupca riaditela úradu | 15 % až 40 %
+  - 1.03. | riaditeľ (náčelník) odboru, riaditeľ Útvaru sociálneho zabezpečenia | 15 % až 50 %
 
-  - 1.04. | vedúci samostatného oddelenia, zástupca riaditeľa odboru | 10 % až 32 %
+  - 1.04. | vikár, zástupca riaditeľa odboru | 10 % až 35 %
 
-  - 1.05. | vedúci oddelenia, zástupca vedúceho oddelenia | 7 % až 26 %
+  - 1.05. | vedúci úseku | 8 % až 30 %
 
-  - 2. Akadémia Policajného zboru, organizácie a zariadenia riadené Ministerstvom vnútra Slovenskej republiky | |
-
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 2.01. | rektor Akadémie Policajného zboru | 20 % až 45 %
-
-  - 2.02. | riaditeľ (vedúci) organizácie a zariadenia, prorektor Akadémie Policajného zboru | 15 % až 38 %
-
-  - 2.03. | vedúci katedry, zástupca riaditeľa (vedúceho) organizácie a zariadenia, vedúci predmetovej skupiny, vedúci oddelenia | 8 % až 26 %
-
-  - 3. Výkonné útvary Policajného zboru | |
+  - 2. Ústavy na výkon väzby, ústavy na výkon trestu odňatia slobody, ústav na výkon trestu odňatia slobody pre mladistvých a nemocnica pre obvinených a odsúdených
 
   - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
 
-  - 3.01. | riaditeľ krajského riaditeľstva | 20 % až 45 %
+  - 2.01. | riaditeľ ústavu (nemocnice) | 15 % až 50 %
 
-  - 3.02. | riaditeľ okresného riaditelstva, zástupca riaditeľa krajského riadltelstva | 15 % až 42 %
+  - 2.02. | zástupca riaditeľa ústavu (nemocnice) | 10 % až 40 %
 
-  - 3.03. | riaditeľ odboru krajského riaditeľstva, zástupca riaditeľa okresného riaditeľstva | 10 % až 36 %
+  - 2.03. | vedúci účelového zariadenia zboru | 8 % až 30 %
 
-  - 3.04. | riaditeľ odboru okresného riaditeľstva, zástupca riaditeľa odboru krajského riaditeľstva, riaditeľ základného útvaru | 9 % až 33 %
-
-  - 3.05. | zástupca riaditeľa odboru okresného riaditeľstva, vedúci samostatného oddelenia | 7 % až 31 %
-
-  - 3.06. | vedúci oddelenia, skupiny | 5 % až 27 %
-
-  - DRUHÁ ČASŤ ZBOR VÄZENSKEJ A JUSTIČNEJ STRÁŽE 1. Generálne riaditeľstvo | |
-
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 1.01. | generálny riaditeľ zboru | 30 % až 57 %
-
-  - 1.02. | námestník generálneho riaditela zboru | 20 % až 46 %
-
-  - 1.03. | riaditeľ (náčelník) odboru, riaditeľ Útvaru sociálneho zabezpečenia | 15 % až 37 %
-
-  - 1.04. | vedúci samostatného úseku, vikár, zástupca riaditeľa (náčelníka) odboru | 10 % až 30 %
-
-  - 1.05. | vedúci oddelenia, vedúci (skupiny) úseku | 7 % až 26 %
-
-  - 2. Ústavy na výkon väzby, ústavy na výkon trestu odňatia slobody, ústav na výkon trestu odňatia slobody pre mladistvých a nemocnica pre obvinených a odsúdených | |
-
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 2.01. | riaditeľ ústavu (nemocnice) | 15 % až 45 %
-
-  - 2.02. | zástupca riaditeľa ústavu (nemocnice) | 10 % až 30 %
-
-  - 2.03. | riaditeľ (vedúci) účelového zariadenia zboru | 6 % až 27 %
-
-  - 2.04. | vedúci (náčelník) oddelenia, zástupca vedúceho (náčelníka) oddelenia, vedúci skupiny (úseku) | 5 % až 22 %
+  - 2.04. | vedúci oddelenia, zástupca vedúceho oddelenia, vedúci skupiny (úseku) | 5 % až 25 %
 
   - TRETIA ČASŤ NÁRODNÝ BEZPEČNOSTNÝ ÚRAD A SLOVENSKÁ INFORMAČNÁ SLUŽBA Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
 
-  - 1.01. | riaditeľ, námestník riaditeľa, riaditeľ sekcie, riaditeľ priamo riadeného odboru | 30 % až 57 %
+  - 1.01 | riaditeľ, námestník riaditeľa, riaditeľ sekcie, riaditeľ priamo riadeného odboru | 30 % až 70 %
 
-  - 1.02. | zástupca riadlteľa sekcie, zástupca riaditeľa priamo riadeného odboru | 20 % až 46 %
+  - 1.02 | zástupca riaditeľa sekcie, zástupca riaditeľa priamo riadeného odboru | 20 % až 60 %
 
-  - 1.03. | riaditeľ odboru, vedúci samostatného oddelenia, vedúci oddelenia, vedúci zariadenia | 15 % až 40 %
+  - 1.03 | riaditeľ odboru, vedúci samostatného oddelenia | 15 % až 50 %
 
-  - 1.04. | zástupca riaditeľa odboru, zástupca vedúceho samostatného oddelenia, zástupca vedúceho oddelenia, zástupca vedúceho zariadenia | 10 % až 32 %
+  - 1.04 | zástupca riaditeľa odboru, zástupca vedúceho samostatného oddelenia, vedúci oddelenia, vedúci zariadenia | 10 % až 40 %
 
-  - 1.05. | vedúci skupiny | 5 % až 26 %
+  - 1.05 | zástupca vedúceho oddelenia, zástupca vedúceho zariadenia, vedúci skupiny | 5 % až 35 %
 
-  - ŠTVRTÁ ČASŤ ŽELEZNIČNÁ POLÍCIA 1. Generálne riaditeľstvo Železničnej polície | |
+  - ŠTVRTÁ ČASŤ ŽELEZNIČNÁ POLÍCIA Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
 
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
+  - 1.01. | generálny riaditeľ Železničnej polície | 30 % až 70 %
 
-  - 1.01. | generálny riaditeľ | 30 % až 57 %
+  - 1.02. | námestník generálneho riaditeľa Železničnej polície | 25 % až 50 %
 
-  - 1.02. | námestník generálneho riaditeľa | 20 % až 46 %
+  - 1.03. | riaditeľ oblastnej správy, riaditeľ odboru generálneho riaditeľstva | 18 % až 42 %
 
-  - 1.03. | riaditeľ odboru generálneho riaditeľstva | 15 % až 37 %
+  - 1.04. | zástupca riaditeľa oblastnej správy, zástupca riaditeľa odboru a vedúci samostatného oddelenia generálneho riaditeľstva, riaditeľ odboru Železničnej polície | 15 % až 37 %
 
-  - 1.04. | zástupca riaditeľa odboru generálneho riaditeľstva | 10 % až 30 %
+  - 1.05. | vedúci oddelenia generálneho riaditeľstva, zástupca riaditeľa odboru Železničnej polície, vedúci oddelenia oblastnej správy a vedúci oddelenia odboru Železničnej polície | 7 % až 26 %
 
-  - 1.05. | vedúci samostatného oddelenia generálneho riaditeľstva | 7 % až 26 %
-
-  - 1.06. | vedúci oddelenia generálneho riaditeľstva | 5 % až 22 %
-
-  - 2. Oblastné správy Železničnej polície | |
-
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 2.01. | riaditeľ oblastnej správy | 18 % až 42 %
-
-  - 2.02. | zástupca riaditeľa oblastnej správy | 15 % až 37 %
-
-  - 2.03. | vedúci oddelenia | 7 % až 25 %
-
-  - 2.04. | zástupca vedúceho oddelenia, vedúci skupiny | 5 % až 20 %
-
-  - 3. Odbory Železničnej polície | |
-
-  - Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 3.01. | riaditeľ odboru | 15 % až 35 %
-
-  - 3.02. | zástupca riaditeľa odboru | 10 % až 25 %
-
-  - 3.03. | vedúci oddelenia | 7 % až 22 %
-
-  - 3.04. | zástupca vedúceho oddelenia, vedúci skupiny | 5 % až 15 %
+  - 1.06. | zástupca vedúceho oddelenia a vedúci skupiny generálneho riaditeľstva, zástupca vedúceho oddelenia a vedúci skupiny oblastnej správy, zástupca vedúceho oddelenia a vedúci skupiny odboru Železničnej polície | 5 % až 22 %

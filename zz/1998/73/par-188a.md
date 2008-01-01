@@ -6,4 +6,4 @@
 
 (3) V priamej súvislosti s výkonom štátnej služby sú úkony potrebné na výkon štátnej služby a úkony počas služby obvyklé alebo potrebné pred začiatkom služby alebo po jej skončení. Nepatrí sem stravovanie, ošetrenie, prípadne vyšetrenie v zdravotníckom zariadení s výnimkou lekárskeho vyšetrenia konaného na rozkaz alebo na pokyn nadriadeného alebo ošetrenia pri prvej pomoci a cesta na ne a späť.
 
-(4) Za činnosť v priamej súvislosti s výkonom štátnej služby sa považuje aj školenie policajtov na zvýšenie ich odbornej pripravenosti organizované služobným úradom.
+(4) Za činnosť v priamej súvislosti s výkonom štátnej služby sa považuje aj prehlbovanie kvalifikácie policajtov na zvýšenie ich odbornej pripravenosti organizované služobným úradom.
