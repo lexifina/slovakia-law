@@ -18,7 +18,7 @@
 
 - 6) § 116 Občianskeho zákonníka.
 
-- 7) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov.
+- 7) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov, zákon č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
 - 7a) Napríklad § 24 až 39 zákona č. 220/2007 Z. z.
 
@@ -70,6 +70,8 @@
 
 - Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
 
+- § 17 a 46 zákona č. 343/2007 Z. z.
+
 - 26a) § 27 zákona č. 220/2007 Z. z.
 
 - 26b) § 3 ods. 4 zákona č. 220/2007 Z. z.
@@ -79,6 +81,10 @@
 - 27) § 23a zákona č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov.
 
 - 28) § 2 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
+
+- 28a) § 12 zákona č. 343/2007 Z. z.
+
+- 28b) § 37 zákona č. 343/2007 Z. z.
 
 - 30) Napríklad § 23 zákona Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, § 15 zákona č. 46/1999 Z. z.
 
