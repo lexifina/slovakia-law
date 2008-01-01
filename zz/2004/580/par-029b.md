@@ -22,4 +22,4 @@
 
 (5) Ak sa poistenec považuje za zamestnanca podľa § 11 ods. 3 z viacerých dôvodov u toho istého zamestnávateľa, posudzuje sa akoby bol u tohto zamestnávateľa zamestnancom iba raz.
 
-(6) Preukazovanie skutočností podľa § 11 ods. 8 písm. b), d), e), o) a q) sa upraví dohodou, ktorú uzatvorí Sociálna poisťovňa s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
+(6) Preukazovanie skutočností podľa § 11 ods. 8 písm. b), d), e), n) a p) sa upraví dohodou, ktorú uzatvorí Sociálna poisťovňa s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.

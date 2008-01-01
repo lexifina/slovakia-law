@@ -2,6 +2,8 @@
 
 - 2) § 788 až 791 Občianskeho zákonníka.
 
+- 2a) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -76,8 +78,6 @@
 
 - 27d) § 5 ods. 1 písm. d) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 28) § 54 ods. 18 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 29) § 29 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 30) § 29a ods. 1 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
@@ -144,12 +144,6 @@
 
 - 39s) § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 39t) § 6 ods. 3 zákona č. 595/2003 Z. z.
-
-- 39ta) § 43 zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
-
-- 39tb) § 43 ods. 3 písm. j) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
-
 - 39u) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 39v) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
@@ -190,6 +184,14 @@
 
 - 49) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
 
+- 50) § 6 ods. 3 zákona č. 595/2003 Z. z.
+
+- 51) § 43 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 51a) § 43 ods. 3 písm. j) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
+
+- 51b) § 223 až 228a Zákonníka práce.
+
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
 - 52a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -197,6 +199,16 @@
 - 53) § 7 zákona č. 581/2004 Z. z.
 
 - 53a) § 49 ods. 1 a § 56 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 53aa) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+
+- 53ab) § 39 ods. 7 zákona č. 140/1998 Z. z. v znení zákona č. 633/2004 Z. z.
+
+- 53ac) § 12 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+
+- 53b) § 267 zákona č. 73/1998 Z. z.
+
+- § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 54) § 9 ods. 6 až 8 zákona č. 581/2004 Z. z.
 
