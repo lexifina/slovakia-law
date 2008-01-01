@@ -1,1 +1,0 @@
-Ľudovít Kaník v. r.
