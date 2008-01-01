@@ -16,7 +16,7 @@
 
 - 9) § 2 ods. 4 zákona č. 95/2002 Z. z. v znení zákona č. 186/2004 Z. z.
 
-- 10) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
+- 10) § 14 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 11) § 5 ods. 2 písm. d) zákona č. 95/2002 Z. z. v znení zákona č. 186/2004 Z. z.
 
