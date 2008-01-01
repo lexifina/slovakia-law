@@ -1,1 +1,0 @@
-Roman Kováč v. r.
