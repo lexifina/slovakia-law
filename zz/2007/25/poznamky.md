@@ -2,6 +2,8 @@
 
 - 2) § 6 ods. 2 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
+- 2a) § 3d ods. 1 zákona č. 135/1961 Zb. v znení neskorších predpisov, § 8 ods. 4 zákona č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z.
+
 - 3) § 12 ods. 1 zákona č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z.
 
 - 4) § 8 ods. 1 zákona č. 135/1961 Zb. v znení neskorších predpisov.
