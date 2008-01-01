@@ -16,7 +16,7 @@
 
 - 9) § 173 Trestného zákona.
 
-- 10) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 11) § 89 ods. 11 Trestného zákona.
 
