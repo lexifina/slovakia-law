@@ -28,7 +28,7 @@
 
 - 8d) § 74 zákona č. 461/2003 Z. z.
 
-- 9) Zákon č. 600/2003 Z. z.
+- 9) Zákon č. 600/2003 Z. z. v znení zákona č. 532/2007 Z. z.
 
 - 10) § 3 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
