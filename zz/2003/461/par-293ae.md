@@ -1,0 +1,3 @@
+# § 293ae
+
+Ak nárok na výplatu vdovského dôchodku a vdoveckého dôchodku vznikol v období od 1. augusta 2006 do 31. decembra 2007 z dôvodu vychovania aspoň troch detí alebo z dôvodu dovŕšenia veku 52 rokov a vychovania dvoch detí, vdovský dôchodok a vdovecký dôchodok sa vypláca po 31. decembri 2007 podľa zákona účinného do 31. decembra 2007. To platí aj vtedy, keď nárok na vdovský dôchodok alebo vdovecký dôchodok vznikol v období od 1. augusta 2006 do 31. decembra 2007 a vdova alebo vdovec splnili podmienku vychovania troch detí alebo podmienku dovŕšenia 52 rokov a vychovania dvoch detí pred vznikom nároku na vdovský dôchodok alebo vdovecký dôchodok alebo počas jedného roka od smrti manžela alebo manželky.

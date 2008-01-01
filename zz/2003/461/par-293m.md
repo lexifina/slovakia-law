@@ -9,3 +9,5 @@
 (4) Ak poberateľ starobného dôchodku, na ktorý bol prekvalifikovaný invalidný dôchodok, splní podmienky nároku na výplatu starobného dôchodku po 31. júli 2006, vypláca sa dôchodok, ktorý je vyšší. Pri rovnakej sume týchto dôchodkov vypláca sa dôchodok, ktorý si poistenec zvolil. Dňom úpravy výplaty dôchodkov pre súbeh nárokov na ich výplatu zaniká nárok na dôchodok, ktorý sa nevypláca.
 
 (5) Ak nárok na sirotský dôchodok vznikol pred 1. januárom 2008 a nárok na tento dôchodok trvá aj po 31. decembri 2007, nárok na tento dôchodok po 31. decembri 2007 nezaniká z dôvodu, že zomretý by pred 1. januárom 2008 dovŕšil dôchodkový vek.
+
+(6) Ustanovenia odsekov 1 až 5 sa od 1. januára 2008 nepoužijú.

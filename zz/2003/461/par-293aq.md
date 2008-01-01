@@ -1,0 +1,3 @@
+# § 293aq
+
+Príplatok k starobnému dôchodku, invalidnému dôchodku, čiastočnému invalidnému dôchodku, výsluhovému dôchodku a invalidnému výsluhovému dôchodku priznaný oprávnenej osobe podľa osobitného predpisu,<sup>117</sup>) ktorý sa k 31. decembru 2007 nevyplácal z dôvodu, že spolu s dôchodkom presiahol najvyššiu výmeru ustanovenú predpisom účinným pred 1. januárom 2004 alebo sa z tohto dôvodu vyplácal v nižšej sume, sa uvoľní odo dňa splátky splatnej po 31. decembri 2007 v sume, v akej by sa vyplácal k tomuto dňu bez obmedzenia z tohto dôvodu. O sume dôchodku podľa prvej vety Sociálna poisťovňa rozhodne najneskôr do 30. júna 2008.

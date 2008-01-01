@@ -4,7 +4,13 @@
 
 - Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
-- Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z.
+- Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
+- 1b) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
+
+- 1c) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
 - 2) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -14,7 +20,7 @@
 
 - 5) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) Napríklad zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+- 6) Napríklad zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
 
 - 7) § 226 ods. 2 Obchodného zákonníka.
 
@@ -27,8 +33,6 @@
 - 10) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
 
 - 11) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- 12) § 54 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
 - 13) § 29 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 450/2000 Z. z.
 
@@ -82,13 +86,9 @@
 
 - 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
-- 37) § 51 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
-
 - 38) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 39) Zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z.
-
-- 40) § 10 ods. 2 písm. d) zákona č. 320/2002 Z. z.
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
@@ -99,8 +99,6 @@
 - 42a) Zákon č. 331/2003 Z. z. o voľbách do Európskeho parlamentu v znení neskorších predpisov.
 
 - 43) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
-- 43a) § 24 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 44) Napríklad § 136 ods. 1 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
@@ -116,8 +114,6 @@
 
 - 48) § 122 Občianskeho zákonníka.
 
-- 49) § 37 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
-
 - 50) § 11 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí.
 
 - 51) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
@@ -129,8 +125,6 @@
 - 55) § 40 až 45 a § 101 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 56) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
-
-- 57) Napríklad zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -148,6 +142,8 @@
 
 - 64) § 196 ods. 3 zákona č. 311/2001 Z. z.
 
+- 65) § 22 Zákonníka práce.
+
 - 66) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 67) § 2 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
@@ -160,7 +156,7 @@
 
 - 69b) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
-- 70) Opatrenie Štatistického úradu Slovenskej republiky č. 236/1993 Z. z., ktorým sa ustanovujú klasifikácie, číselník a register v oblasti štátnej štatistiky v znení opatrenia Štatistického úradu Slovenskej republiky č. 16/2001 Z. z.
+- 70) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 71) Napríklad zákon č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb., zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. a zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
@@ -204,9 +200,9 @@
 
 - 91) § 94 ods. 1 písm. c) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 91a) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+- § 67 ods. 2 a 3 zákona č. 328/2002 Z. z. v znení zákona č. 519/2007 Z. z.
 
-- 91b) § 115 ods. 4 zákona č. 43/2004 Z. z.
+- 91a) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 91c) § 31 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
@@ -244,8 +240,6 @@
 
 - 102) Občiansky súdny poriadok.
 
-- 103) Čl. I § 7 zákona Národnej rady Slovenskej republiky č. 374/1994 Z. z. o niektorých opatreniach na zabezpečenie hospodárenia Slovenskej republiky v roku 1995 a o zmene a doplnení niektorých zákonov.
-
 - 104) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 105) Napríklad § 8 ods. 1 Trestného poriadku, zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
@@ -276,4 +270,12 @@
 
 - 113a) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
 
+- 113b) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom.
+
 - 114) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+
+- 115) § 123f zákona č. 43/2004 Z. z. v znení zákona č. 555/2007 Z. z.
+
+- 116) Zákon č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 117) Zákon č. 305/1999 Z. z. o zmiernení niektorých krívd osobám deportovaným do nacistických koncentračných táborov a zajateckých táborov v znení neskorších predpisov.

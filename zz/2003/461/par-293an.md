@@ -1,5 +1,3 @@
-## Prechodné ustanovenia k úpravám účinným od 1. januára 2008
-
 # § 293an
 
 (1) Správny fond sa tvorí v rokoch 2008 a 2009
@@ -21,3 +19,5 @@
 - h) z pokuty uloženej za porušenie povinností ustanovených v § 228 ods. 1 až 3, § 231 ods. 1 písm. a), písm. b) prvom bode, písm. f) a písm. m),
 
 - i) z ostatných príjmov.
+
+(2) V roku 2008 sa správny fond tvorí najviac vo výške 3 % aj zo sumy, ktorá sa podľa § 293ab ods. 1 považuje za poistné zaplatené na starobné poistenie.

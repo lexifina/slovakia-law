@@ -1,0 +1,9 @@
+# § 293ar Prechodné ustanovenia účinné od 1. januára 2008
+
+(1) Suma dávky, na ktorú vznikol nárok predo dňom zavedenia eura v Slovenskej republike (ďalej len „deň zavedenia eura") a o ktorej nebolo právoplatne rozhodnuté do dňa bezprostredne predchádzajúceho dňu zavedenia eura, sa určí v slovenských korunách a za obdobie od vzniku nároku na výplatu dávky do dňa bezprostredne predchádzajúceho dňu zavedenia eura sa prepočíta na sumu v eurách podľa konverzného kurzu. Suma dávky určená v slovenských korunách patriaca odo dňa zavedenia eura sa prepočíta na sumu v eurách podľa konverzného kurzu a zaokrúhli sa na 10 eurocentov nahor.
+
+(2) Na účely § 11 ods. 2, § 63 ods. 10, § 66 ods. 8, § 68 ods. 6, § 84 ods. 3 a § 103 ods. 3 sa suma všeobecného vymeriavacieho základu ustanovená v slovenských korunách prepočíta na sumu v eurách podľa konverzného kurzu.
+
+(3) Ak v rozhodujúcom období na určenie výšky nemocenskej dávky podľa § 54 ods. 1 a 2, úrazovej dávky podľa § 84 a dávky v nezamestnanosti podľa § 108 sú vymeriavacie základy určené v slovenských korunách, súčet vymeriavacích základov v slovenských korunách sa prepočíta na sumu v eurách podľa konverzného kurzu. To platí aj pre dávku garančného poistenia, ak suma potvrdených nárokov podľa § 102 písm. a) až h), znížená podľa § 103 ods. 1, bola vyjadrená v slovenských korunách.
+
+(4) Ak v rozhodujúcom období na určenie sumy dôchodkovej dávky podľa § 261, 262, 263a, 263b, § 273 ods. 2, § 274 ods. 2 a § 293k, o ktorej sa rozhoduje po dni bezprostredne predchádzajúcom dňu zavedenia eura podľa právnych predpisov účinných do dňa bezprostredne predchádzajúceho dňu zavedenia eura, sú aj kalendárne roky predo dňom zavedenia eura, suma dôchodkovej dávky sa určí v eurách a hrubé zárobky na určenie priemerného mesačného zárobku za tieto roky sa prepočítajú na sumu v eurách podľa konverzného kurzu.
