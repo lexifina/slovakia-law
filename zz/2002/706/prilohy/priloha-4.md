@@ -580,9 +580,9 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.9.4.2 Odchylne od bodu 1.9.4.1 môže obvodný úrad životného prostredia za podmienok, ak nedôjde k celkovému zvýšeniu množstva emisií, upraviť emisný limit pre oxidy síry takto:
 
-      - a) 1 000 mg.m<sup>-3</sup> pre všetky zariadenia na spaľovanie palív uvedené v bodoch 1.2.1, 1.2.2 a 1.2.3 v rámci jednej rafinérie,
+      - a) 1 000 mg.m<sup>-3</sup> v priemere pre všetky zariadenia na spaľovanie palív uvedené v bodoch 1.2.1, 1.2.2 a 1.2.3 v rámci jednej rafinérie,
 
-      - b) 600 mg.m<sup>-3</sup> pre zariadenia uvedené v bode 1.2.4 v rámci jednej rafinérie.
+      - b) 600 mg.m<sup>-3</sup> v priemere pre zariadenia uvedené v bode 1.2.4 v rámci jednej rafinérie.
 
     - 1.9.5 Súčasné spaľovanie viacerých druhov palív v rôznych typoch stacionárnych zariadení na spaľovanie palív
 
@@ -620,7 +620,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 1.13 Platnosť emisných limitov pri obmedzenom počte prevádzkových hodín
 
-    - 1.13.1 Pre zariadenia uvedené v bode 1.2.1, ktoré na základe záväzku prevádzkovateľa nebudú v období od 1. januára 2008 do 31. decembra 2015 prevádzkované viac ako 20 000 hodín, sa emisné limity platné pre uvedené zariadenia od 1. januára 2008 neuplatňujú, pričom naďalej platia emisné limity platné do 31. decembra 2007. Podmienkou na takéto uplatňovanie emisných limitov je písomný záväzok prevádzkovateľa, ktorý sa musí predložiť obvodného úradu životného prostredia najneskôr do 30. júna 2004. Prevádzkovateľ predloží každoročne správu, v ktorej uvedie počet využitých prevádzkových hodín za uplynulý rok a počet zvyšných prevádzkových hodín, ktoré ostávajú do vyčerpania časového limitu.
+    - 1.13.1 Pre zariadenia uvedené v bode 1.2.1, ktoré sa na základe písomného záväzku prevádzkovateľa nebudú od 1. januára 2008 do 31. decembra 2015 prevádzkovať viac ako 20 000 hodín, sa od 1. januára 2008 neuplatňujú emisné limity. Písomný záväzok sa predkladá do 15. januára 2008 obvodnému úradu životného prostredia, a ak sa na zariadenie vzťahuje osobitný predpis,<sup>2a</sup>) aj Slovenskej inšpekcii životného prostredia. Správu o počte využitých prevádzkových hodín za uplynulý rok a o počte prevádzkových hodín, ktoré ostávajú do vyčerpania časového limitu tohto zariadenia, prevádzkovateľ predkladá každoročne do 15. februára počnúc rokom 2009.
 
     - 1.13.2 Pre zariadenia uvedené v bode 1.2.1 až 1.2.3 s menovitým tepelným príkonom 400 MW a vyšším, ktoré od lehôt uvedených v bodoch 1.6.3.1, 1.6.3.2, 1.7.3.1 a 1.7.3.2 nebudú v prevádzke viac ako 2 000 h/r do 31. decembra 2015 a 1 500 h/r od 1. januára 2016 (prevádzkový priemer v období piatich rokov), platí emisný limit pre oxidy síry 800 mg.m<sup>-3.</sup>
 

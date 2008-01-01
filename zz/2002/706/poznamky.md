@@ -8,6 +8,8 @@
 
 - 2) § 8 ods. 7 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 2 ods. 4 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 474/2000 Z. z. o zisťovaní množstva vypúšťaných znečisťujúcich látok, o spôsobe a podmienkach zisťovania, sledovania a preukazovania údajov o dodržaní určených emisných limitov a všeobecných podmienok prevádzkovania a o požiadavkách na technické prostriedky na monitorovanie emisií a imisií.
 
 - 4) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 705/2002 Z. z. o kvalite ovzdušia.
