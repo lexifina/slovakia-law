@@ -4,6 +4,8 @@
 
 - 3) § 39 Zákonníka práce.
 
+- 3a) § 5 ods. 2, § 12 ods. 2, § 13 ods. 3 a § 14 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) § 2 ods. 2 Obchodného zákonníka.
 
 - 5) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
