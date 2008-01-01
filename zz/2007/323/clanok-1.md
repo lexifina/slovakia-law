@@ -34,9 +34,25 @@ Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmen
 
 - Právnické osoby a fyzické osoby sú povinné na žiadosť orgánu oprávneného na výkon kontroly podľa osobitného predpisu<sup>47</sup>) preukázať účel použitia dotácie poskytnutej zo štátneho rozpočtu listinnými dôkazmi, ktorých obsah dokazuje skutočnosti vzťahujúce sa na použitie dotácie.“.
 
+- 5. V § 9 ods. 1 písmeno e) znie:
+
+- „e)
+
+- Kancelárie Ústavného súdu Slovenskej republiky,“.
+
 - 6. V § 9 ods. 5 prvej vete sa vypúšťajú slová „a Generálna prokuratúra Slovenskej republiky“ a v druhej vete sa vypúšťajú slová „a Generálnej prokuratúry Slovenskej republiky“ dvakrát.
 
 - 7. V § 10 ods. 3 poslednej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „prostriedky podľa odseku 2 písm. c) možno použiť aj prostredníctvom samostatných mimorozpočtových účtov ministerstva financií a Ministerstva pôdohospodárstva Slovenskej republiky.“.
+
+- 8. V § 14 odsek 6 znie:
+
+- „(6)
+
+- Subjekty verejnej správy a právnické osoby a fyzické osoby, ktorým sa poskytujú prostriedky štátneho rozpočtu, sú povinné predkladať bezplatne na žiadosť ministerstva financií spôsobom určeným ministerstvom financií a v ním určenom rozsahu, štruktúre a termíne údaje potrebné na účely zostavenia rozpočtu verejnej správy a hodnotenia plnenia rozpočtu verejnej správy.“.
+
+- 9. V § 15 ods. 1 prvej vete sa na konci pripájajú tieto slová: „a na prostriedky Európskej únie a prostriedky štátneho rozpočtu určené na financovanie spoločných programov Slovenskej republiky a Európskej únie vrátené na príjmový účet platobnej jednotky, určené na ďalšie použitie.“.
+
+- 10. V § 16 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak ide o presuny rozpočtových prostriedkov v rámci rozpočtu organizácie, ktorej príjmy a výdavky sú súčasťou rozpočtu kapitoly Všeobecná pokladničná správa, zabezpečí také presuny rozpočtových prostriedkov vedúci tejto organizácie.“.
 
 - 11. V § 18 ods. 2 sa vypúšťa písmeno f).
 
@@ -55,6 +71,8 @@ Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmen
 - „(11)
 
 - Ustanovenia odsekov 8 až 10 sa nepoužijú na poskytovanie preddavkov obci a vyššiemu územnému celku a pri hospodárení s prostriedkami na financovanie spoločných programov Slovenskej republiky a Európskej únie.“.
+
+- 17. V § 19 ods. 12 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „verejná vysoká škola môže prijímať úvery za podmienok ustanovených osobitným zákonom.<sup>4</sup>)“.
 
 - 18. Poznámka pod čiarou k odkazu 24 znie :
 
@@ -81,6 +99,8 @@ Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmen
 - „31)
 
 - Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 75 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 24. V § 24 ods. 10 sa vypúšťa druhá veta.
 
 - 25. V § 26 ods. 5 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „rozpočtu obce alebo rozpočtu vyššieho územného celku.“.
 
