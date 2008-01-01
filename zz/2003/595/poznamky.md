@@ -14,7 +14,7 @@
 
 - 5) Napríklad § 460 až 487 Občianskeho zákonníka.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+- 6) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 7) § 208 Obchodného zákonníka.
 
@@ -49,6 +49,16 @@
 - 22) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
+
+- 23a) § 27 písm. a), d) a e) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
+
+- 23b) § 39a ods. 1 písm. d) a ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- § 1 ods. 1 a 4 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 31/2006 Z. z. o výške úhrady zdravotníckeho pracovníka za ďalšie vzdelávanie.
+
+- 23c) § 40, § 101 ods. 1 a § 101a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 23d) § 39a ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 24) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
@@ -108,9 +118,7 @@
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
-- 47) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 380/1997 Z. z. o peňažných náležitostiach vojakov v znení neskorších predpisov.
-
-- 48) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 47) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49) Napríklad zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
@@ -168,7 +176,7 @@
 
 - 73) § 27 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 74) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 74) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
@@ -209,6 +217,8 @@
 - 88) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 385/1999 Z. z. v znení neskorších predpisov.
+
+- 88a) § 23 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
 - 89) Zákonník práce.
 
@@ -310,6 +320,12 @@
 
 - Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z.
 
+- 120a) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
+
+- 120b) § 8 zákona č. 561/2007 Z. z.
+
+- 120c) § 11 ods. 1 zákona č. 561/2007 Z. z.
+
 - 121) § 24 ods. 2 zákona č. 431/2002 Z. z.
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
@@ -356,6 +372,8 @@
 
 - 136a) § 61 ods. 1 a § 75 ods. 1 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
+- 136aa) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 136b) § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 534/2005 Z. z.
 
 - 137) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
@@ -370,13 +388,13 @@
 
 - 142) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 157/1989 Zb.
 
+- 142a) § 7 písm. a) a b) zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
 - 143) Zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
 
 - 144) § 10 zákona Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.
 
 - 145) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
-
-- 146) § 47 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 146a) § 35 a 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
@@ -389,3 +407,5 @@
 - 149) § 68 až 75 zákona č. 581/2004 Z. z.
 
 - 150) § 74 ods. 2 zákona č. 581/2004 Z. z.
+
+- 151) § 10 zákona č. 530/1990 Zb. v znení neskorších predpisov.
