@@ -216,7 +216,17 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 42. V § 69 ods. 1 sa slová „sa vypláca“ nahrádzajú slovami „bol priznaný“.
 
+- 43. V § 70 ods. 1 sa slová „nesplnil podmienky nároku na starobný dôchodok“ nahrádzajú slovami „nedovŕšil dôchodkový vek“.
+
 - 44. V § 71 ods. 8 prvá veta znie: „Mieru poklesu schopnosti vykonávať zárobkovú činnosť určenú podľa odseku 6 možno zvýšiť najviac o 10 %, ak závažnosť ostatných zdravotných postihnutí ovplyvňuje pokles schopnosti vykonávať zárobkovú činnosť.“.
+
+- 45. Za § 73 sa vkladá § 73a, ktorý vrátane nadpisu znie:
+
+- „§ 73a
+
+- Zánik nároku na invalidný dôchodok
+
+- Nárok na invalidný dôchodok zaniká dňom dovŕšenia dôchodkového veku alebo dňom priznania predčasného starobného dôchodku.“.
 
 - 46. V § 74 ods. 3 sa za písmeno b) vkladajú nové písmená c) a d), ktoré znejú:
 
@@ -240,6 +250,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 48. V § 75 ods. 5 sa slová „1 až 3“ nahrádzajú slovami „1 až 4“.
 
+- 49. § 76 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Nárok na sirotský dôchodok, ktorého suma bola určená z invalidného dôchodku zomretého rodiča alebo osvojiteľa dieťaťa, zaniká aj dňom, v ktorom by zomretý rodič alebo osvojiteľ dieťaťa dovŕšil dôchodkový vek. Nárok na sirotský dôchodok vznikne znovu, ak zomretý rodič alebo osvojiteľ dieťaťa uvedený v prvej vete by splnil ku dňu dovŕšenia dôchodkového veku podmienky nároku na starobný dôchodok.“.
+
 - 50. V § 77 ods. 1 až 3 sa slová „30 %“ nahrádzajú slovami „40 %“.
 
 - 51. V § 77 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
@@ -259,6 +275,12 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - 55. V § 80 sa vypúšťa odsek 2.
 
   - Súčasne sa zrušuje označenie odseku 1.
+
+- 56. V § 81 odsek 1 znie:
+
+- „(1)
+
+- Ak sú súčasne splnené podmienky nároku na invalidný dôchodok podľa § 70 ods. 1 a 2 alebo podľa § 70 ods. 1 a § 266, vypláca sa invalidný dôchodok, ktorý je vyšší. Pri rovnakej sume invalidných dôchodkov sa vypláca invalidný dôchodok, ktorý si poistenec zvolil. Dňom úpravy výplaty invalidných dôchodkov pre súbeh týchto nárokov zaniká nárok na invalidný dôchodok, ktorý sa nevypláca.“.
 
 - 57. V § 82 ods. 6 prvej vete sa vypúšťajú slová „alebo z dôvodu výkonu zárobkovej činnosti“.
 
