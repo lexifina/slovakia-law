@@ -6,9 +6,9 @@
 
 - 4) § 2 ods. 9 a 10 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
-- 5) § 2 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č.1/1996 Z. z.
+- 5) § 2 ods. 1 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
-- 6) § 2 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č.1/1996 Z. z.
+- 6) § 2 ods. 15 zákona č. 343/2007 Z. z.
 
 - 7) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.Obchodný zákonník v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z.Zákon č. 81/1966 Zb. v znení neskorších predpisov.
 
