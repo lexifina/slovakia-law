@@ -32,6 +32,10 @@
 
 - 10aa) § 22 ods. 2 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
 
+- 10ab) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 10ac) § 21 ods. 3 zákona č. 527/2002 Z. z. v znení zákona č. 568/2007 Z. z.
+
 - 10b) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 10c) § 62 až 69 zákona č. 71/1967 Zb.
