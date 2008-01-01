@@ -12,7 +12,41 @@
 
 - 2c) Príloha A časť 1 kapitola 1.1 bod 1.1.3.6. Európskej dohody o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 243/1996 Z. z.).
 
-- 3) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 3) Obchodný zákonník v znení neskorších predpisov.
+
+- 3a) § 2 ods. 6 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 260/2001 Z. z.
+
+- 3b) § 8 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 3c) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 68 Obchodného zákonníka.
+
+- 3d) § 663 až 723 Občianskeho zákonníka.
+
+- 3e) § 42 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 255/2001 Z. z.
+
+- 3f) § 4 ods. 1, § 5 ods. 3 a § 38 až 40 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 3g) § 5 Obchodného zákonníka.
+
+- 3h) § 13a ods. 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení zákona č. 277/2007 Z. z.
+
+- 3i) § 5, § 59 ods. 4 a § 487 Obchodného zákonníka.
+
+- 3j) § 477 ods. 3 časti vety za čiarkou a § 478 Obchodného zákonníka.
+
+- 3k) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
+- 3l) § 59 ods. 2 tretia veta, § 60 a § 483 ods. 3 Obchodného zákonníka.
+
+- 3m) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 3n) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 3o) § 58 ods. 1 Obchodného zákonníka.
+
+- 3p) § 68 až 75a a § 218 až 220a Obchodného zákonníka.
+
+- 3r) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
 
