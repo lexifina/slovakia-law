@@ -1,1 +1,0 @@
-Robert Fico v. r.
