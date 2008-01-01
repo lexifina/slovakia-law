@@ -45,3 +45,5 @@
 - 12) § 75 správneho poriadku.
 
 - 13) § 244 a nasl. Občianskeho súdneho poriadku (úplné znenie č. 78/1983 Zb.).
+
+- 14) Napríklad zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
