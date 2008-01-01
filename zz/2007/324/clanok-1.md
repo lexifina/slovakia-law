@@ -34,6 +34,14 @@ Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o 
 
 - hodnotenie plnenia programov obce a programov vyššieho územného celku.“.
 
+- 10. V § 17 ods. 8 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Do celkovej sumy dlhu obce alebo vyššieho územného celku sa nezapočítavajú záväzky z návratných zdrojov financovania prijatých na zabezpečenie predfinancovania spoločných programov Slovenskej republiky a Európskej únie najviac v sume nenávratného finančného príspevku poskytnutého na základe zmluvy uzatvorenej medzi obcou alebo vyšším územným celkom a orgánom podľa osobitného predpisu.<sup>23aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 23aa znie:
+
+  - „23aa)
+
+  - § 13a zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/ 2004 Z. z.“.
+
 - 11. Poznámka pod čiarou k odkazu 23a znie:
 
 - „23a)
