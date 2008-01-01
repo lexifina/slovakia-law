@@ -10,7 +10,7 @@
 
 - 6) § 2 ods. 1 písm. g) zákona č. 634/1992 Zb. v znení zákona č. 310/1999 Z. z.
 
-- 7) § 17 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+- 7) § 17 zákona č. 455/1991 Zb. v znení neskorších predpisov, zákon č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
 - 8) § 2 ods. 1 písm. a) zákona č. 178/1998 Z. z. v znení zákona č. 310/1999 Z. z.
 
@@ -40,7 +40,7 @@
 
 - 21) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
-- 22) § 5 ods. 8 a § 35 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+- 22) Napríklad § 5 ods. 2, 8, 23 a 24 a § 7 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon), § 2 ods. 1 až 4 a 8 až 10 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
 - 23) Zákon č. 128/2002 Z. z. v znení neskorších predpisov.
 
