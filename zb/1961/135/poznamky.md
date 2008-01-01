@@ -12,7 +12,7 @@
 
 - 2) § 120 zákona č. 50/1976 Zb. o územnom konaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 2a) Napríklad § 2 zákona Slovenskej národnej rady č.138/1991 Zb. o majetku obcí v znení zákona Slovenskej národnej rady č. 306/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 43/1993 Z. z.
+- 2a) Napríklad § 2 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z .
 
 - 2aa) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
@@ -28,7 +28,9 @@
 
 - 2cb) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 2cba) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 2cba) § 14, 15 a § 66 až 69 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
+- 2cbb) § 6 ods. 1 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 664/2007.
 
 - 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
 
@@ -46,7 +48,7 @@
 
 - 2f) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 2fa) Zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z.
+- 2fa) Zákon č. 639/2004 Z. z. v znení neskorších predpisov.
 
 - 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
