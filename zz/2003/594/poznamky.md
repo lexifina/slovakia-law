@@ -136,6 +136,8 @@
 
 - 56d) § 16 zákona č. 566/2001 Z. z.
 
+- 56e) Napríklad § 2 ods. 2 až 4 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, nariadenie Rady (ES) č. 1103/97 zo 17. júna 1997 o určitých ustanoveniach týkajúcich sa zavedenia eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení, nariadenie Rady (ES) č. 2866/98 z 31. decembra 1998 o výmenných kurzoch medzi eurom a menami členských štátov zavádzajúcich euro (Ú. v. ES L 359, 31. 12. 1998) v platnom znení, nariadenie Rady (ES) č. 974/98 z 3. mája 1998 o zavedení eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení.
+
 - 57) Zákon č. 367/2000 Z. z.
 
 - 58) § 105 zákona č. 566/2001 Z. z.
@@ -216,6 +218,8 @@
 
 - 84d) § 143b písm. b) zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
 
+- 84e) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z.
+
 - 85) Napríklad § 138 zákona č. 566/2001 Z. z.
 
 - 86) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
@@ -237,3 +241,5 @@
 - 94) § 157 ods. 6 a § 158 zákona č. 566/2001 Z. z.
 
 - 95) § 8 písm. g) zákona č. 566/2001 Z. z.
+
+- 96) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
