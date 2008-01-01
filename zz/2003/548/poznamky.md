@@ -4,8 +4,6 @@
 
 - 2a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 3) Trestný zákon.
-
 - 4) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 5) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
