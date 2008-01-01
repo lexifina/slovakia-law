@@ -55,3 +55,11 @@
 - Zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
 - Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 5/1995 Z. z. o hospodárskej úprave lesov.
+
+- 22) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- Zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- 23) § 2 písm. q) zákona č. 326/2005 Z. z.
+
+- 24) Napríklad § 62 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
