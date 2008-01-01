@@ -41,3 +41,5 @@
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 9) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10) Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
