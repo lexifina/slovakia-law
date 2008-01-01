@@ -1,25 +1,53 @@
 Príloha č. 6 k nariadeniu vlády č. 594/2006 Z. z.
 
-- MINIMÁLNE POŽIADAVKY PRI NOTIFIKÁCII PRÁVNICKÝCH OSÔB
+- POSTUP PRI POSUDZOVANÍ SUBSYSTÉMOV
 
-  - 1. Právnická osoba, jej riaditeľ a zamestnanci zodpovední za vykonávanie kontrolných činností nesmú byť zapojení priamo alebo ako splnomocnení zástupcovia do projektovania, výroby, konštrukcie, údržby alebo prevádzky komponentov interoperability alebo subsystémov či obchodovania s nimi. To nebráni možnosti výmeny technických informácií medzi výrobcom alebo konštruktérom a takýmto orgánom.
+  - 1. ES OVEROVANIE
 
-  - 2. Právnická osoba a jej zamestnanci zodpovední za kontroly musia vykonávať kontrolnú činnosť s najvyšším stupňom profesionálnej integrity a technickej spôsobilosti nesmú byť vystavení nátlaku ani pohnútkam, najmä finančným, ktoré môžu ovplyvniť ich úsudok alebo výsledky ich práce hlavne zo strany osôb alebo skupín, ktoré majú záujem na výsledku kontrol.
+  - 1.1 ES overovanie je postup, pri ktorom notifikovaná osoba na žiadosť výrobcu, zhotoviteľa alebo prevádzkovateľa kontroluje a potvrdzuje, že subsystém spĺňa požiadavky tohto nariadenia vlády, požiadavky špecifikácií interoperability a požiadavky európskych špecifikácií a že sa môže uviesť do prevádzky.
 
-    - Právnická osoba a jej zamestnanci zodpovední za kontroly musia byť funkčne nezávislí na orgánoch určených na vydávanie povolení na uvedenie do prevádzky v rámci tohto nariadenia vlády, licencií a bezpečnostných osvedčení v rámci zákona a európskych predpisov a na orgánoch poverených vyšetrovaním v prípade nehôd.
+    - Súčasťou ES overovania je aj monitorovanie, ktoré vykonáva notifikovaná osoba.
 
-  - 3. Právnická osoba disponuje nevyhnutným personálom a potrebným vybavením umožňujúcim riadne plniť technické a administratívne úlohy spojené s vykonávaním kontrol; má tiež prístup k zariadeniu potrebnému na výkon špeciálnych kontrol.
+  - 1.2 Etapy overovania
 
-  - 4. Zamestnanci zodpovední za kontroly musia mať
+    - Overovanie zhody subsystému sa vykonáva pri každej z nasledujúcich etáp
 
-    - a) dôkladný technický a odborný výcvik,
+    - a) projektová dokumentácia,
 
-    - b) dostatočné vedomosti o požiadavkách na vykonávanie kontrol a primerané skúsenosti s vykonávaním týchto kontrol,
+    - b) výroba, ktorá zahŕňa výstavbu subsystému vrátane napríklad stavebných činností, výroby, montáže komponentov a celkového nastavenia,
 
-    - c) spôsobilosť vystavovať osvedčenia, záznamy a správy vyžadované na zaznamenanie vykonanej kontroly.
+    - c) záverečné odskúšanie subsystému.
 
-  - 5. Právnická osoba zaručuje nestrannosť zamestnancov zodpovedných za kontroly. Odmeňovanie zamestnanca nezávisí od počtu vykonaných kontrol ani od výsledkov týchto kontrol.
+      - Výrobca, zhotoviteľ alebo prevádzkovateľ vyberá zo skupiny modulov uvedenej v príslušnej špecifikácii interoperability modul, ktorý sa aplikuje na ES overenie.
 
-  - 6. Právnická osoba musí byť poistená pre prípad zodpovednosti za škodu okrem prípadov, ak štát priamo zodpovedá za kontroly.
+      - Notifikovaná osoba môže počas ES overovania uplatniť výhrady proti postupu výroby.
 
-  - 7. Zamestnanci právnickej osoby sú viazaní mlčanlivosťou o všetkých informáciách získaných pri vykonávaní svojich úloh s výnimkou vzťahu ku kompetentným orgánom štátnej správy na základe tohto nariadenia vlády a iných právnych predpisov.
+  - 1.3 Súbor technickej dokumentácie obsahuje najmä
+
+    - a) pre železničnú infraštruktúru najmä stavebné plány, záznam o schválení výkopu a výstuží, záznamy o testovaní a kontrole betónu,
+
+    - b) pre iné subsystémy najmä celkové a podrobné výkresy, elektrické a hydraulické schémy, schémy kontrolných okruhov, opis systémov spracúvania dát a automatických systémov, návody na prevádzku a údržbu,
+
+    - c) zoznam komponentov interoperability tvoriacich daný subsystém,
+
+    - d) kópie ES vyhlásení o zhode alebo ES vyhlásení o vhodnosti používania pre komponenty tvoriace daný subsystém, ku ktorým sú podľa potreby priložené zodpovedajúce podklady o výpočtoch a kópie záznamov o testoch a skúškach, ktoré vykonali notifikované osoby na základe európskych špecifikácií,
+
+    - e) potvrdenia o čiastkovom overení subsystému a ES vyhlásenia o čiastkovej zhode subsystému vydané na jeho základe, ak boli vydané,
+
+    - f) certifikát o overení subsystému.
+
+  - 1.4 Monitorovanie
+
+  - 1.4.1 ES monitorovaním sa sleduje dodržiavanie postupov, parametrov a iných špecifikácií vyplývajúcich zo súboru technickej dokumentácie.
+
+  - 1.4.2 Notifikovaná osoba zodpovedná za kontrolu výroby musí mať prístup na staveniská, do výrobných dielní, skladových priestorov, na prefabrikačné alebo testovacie zariadenia a do iných objektov, ktoré uzná za potrebné. Ten, kto požiadal notifikovanú osobu o ES overenie, musí predložiť potrebné dokumenty, najmä realizačné plány a technické záznamy. Notifikovaná osoba zodpovedná za záverečné odskúšanie subsystému musí v pravidelných intervaloch vykonávať kontroly. Môže požadovať svoju účasť v etape výroby. Notifikovaná osoba je oprávnená vykonať náhodne úplnú alebo čiastočnú kontrolu. Notifikovaná osoba poskytne tomu, kto požiadal o ES overenie, správu o kontrole.
+
+  - 1.5 Notifikovaná osoba pravidelne uverejňuje na svojej internetovej stránke informácie
+
+    - a) o prijatých žiadostiach o ES overenie subsystému,
+
+    - b) o vydaných potvrdeniach o čiastkovom overení subsystému alebo o ich nevydaní,
+
+    - c) o vydaných certifikátoch o overení subsystému alebo o ich nevydaní.
+
+  - 1.6 Záznamy a korešpondencia o ES overovaní musia byť napísané v úradnom jazyku členského štátu, v ktorom má ten, kto požiadal o ES overenie, sídlo, alebo v dohodnutom jazyku.
