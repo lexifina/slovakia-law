@@ -1,1 +1,0 @@
-- 1) § 4 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.
