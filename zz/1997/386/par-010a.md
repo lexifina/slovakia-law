@@ -9,3 +9,5 @@
 (4) Osvedčenia vydané absolventom akreditovaných vzdelávacích aktivít vzdelávacími ustanovizňami, ktorým bol doklad o akreditácii – kredit vydaný podľa odsekov 2 a 3, zostávajú v platnosti.
 
 (5) Osvedčenia vydané absolventom akreditovaných vzdelávacích aktivít vzdelávacími ustanovizňami, ktorým bolo vydané potvrdenie o akreditácii od 1. júna 1998 do 31. decembra 2001, zostávajú v platnosti.
+
+(6) Potvrdenia o akreditácii kurzu prvej pomoci vydané do 31. decembra 2007 sa považujú za osvedčenia o akreditácii kurzu prvej pomoci podľa osobitného predpisu,<sup>14</sup>) najdlhšie do času uvedeného v potvrdení o akreditácii podľa § 7 ods. 4. Potvrdenia o akreditácii kurzu inštruktorov prvej pomoci vydané do 31. decembra 2007 sa považujú za osvedčenia o akreditácii kurzu inštruktorov prvej pomoci podľa osobitného predpisu,<sup>14</sup>) najdlhšie do času uvedeného v potvrdení o akreditácii podľa § 7 ods. 4.
