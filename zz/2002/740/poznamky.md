@@ -6,8 +6,6 @@
 
 - 3) § 28 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 3a) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
 - 4) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 5) § 22 ods. 7 zákona č. 595/2003 Z. z.
