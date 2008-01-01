@@ -12,7 +12,7 @@
 
 - 5a) § 69 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
 
-- 6) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 6) § 14 ods. 3 písm. e) šiesty bod zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
@@ -31,6 +31,8 @@
 - 11c) § 4 ods. 1 písm. a) zákona č. 283/2002 Z. z. o cestovných náhradách.
 
 - 11d) § 20 zákona č. 328/2002 Z. z. v znení zákona č. 732/2004 Z. z.
+
+- 11e) § 18 až 33a zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
