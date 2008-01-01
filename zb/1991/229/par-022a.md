@@ -12,7 +12,7 @@
 
 (6) S lesnými pozemkami vydanými alebo ktoré sa vydajú vlastníkom podľa § 9, 22 a 22a alebo podľa osobitného predpisu<sup>23i</sup>) možno bezodplatne odovzdať aj investičné lesné cesty alebo ich časti.
 
-(7) Investičné lesné cesty alebo ich časti odovzdá do vlastníctva štátna organizácia lesného hospodárstva, ktorá ich spravuje, na základe žiadosti vlastníka pozemku dohodou o vydaní majetku.
+(7) Investičné lesné cesty alebo ich časti odovzdá do vlastníctva správca, ktorý ich spravuje, na základe žiadosti vlastníka pozemku dohodou o vydaní majetku.
 
 (8) Žiadosť o vydanie vlastníctva investičnej lesnej cesty alebo jej časti uplatní oprávnená osoba podľa osobitného predpisu<sup>23i</sup>) súčasne s uplatnením práva na navrátenie vlastníctva k lesnému pozemku.
 

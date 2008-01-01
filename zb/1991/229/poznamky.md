@@ -54,6 +54,8 @@
 
 - 10c) § 14 ods. 4 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
+- 10d) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
 - 11) § 8 zákona č. 169/1949 Zb. o vojenských obvodoch.
 
 - 12) § 6 a 7 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon).
@@ -80,11 +82,15 @@
 
 - Zákon Slovenskej národnej rady č. 11/1949 Zb. SNR o Tatranskom národnom parku.
 
-- 16a) § 11 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov. Vyhláška Federálneho ministerstva financií č. 119/1988 Zb. o hospodárení s národným majetkom v znení neskorších predpisov.
+- 16a) § 50 ods. 3 zákona č. 326/2005 Z. z. o lesoch.
+
+- Nariadenie vlády Slovenskej republiky č. 58/2003 Z. z., ktorým sa vyhlasuje Tatranský národný park.
 
 - 16aa) § 5 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
 
 - 17) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby.Zákon Slovenskej národnej rady č. 330/1991 Zb.
+
+- 17a) § 2 písm. q) zákona č. 326/2005 Z. z.
 
 - 18) § 46 zákona č. 162/1990 Zb.
 
