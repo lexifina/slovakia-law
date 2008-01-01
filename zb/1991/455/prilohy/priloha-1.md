@@ -1,89 +1,37 @@
-Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov Por. č. | Živnosť | Zoznam
+Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
-SKUPINA 101 - Výroba kovov a kovových výrobkov | |
+- REMESELNÉ ŽIVNOSTI Por. č. | Živnosť | Zoznam
 
-1. | Zámočníctvo | I
+- SKUPINA | 101 - Výroba kovov a kovových výrobkov |
 
-2. | Nástrojárstvo | I
+- 1. 2. 3. 4. 5. | Zámočníctvo Nástrojárstvo Kovoobrábanie Galvanizácia kovov Smaltovanie | I I I I I
 
-3. | Kovoobrábanie | I
+- SKUPINA | 103 - Výroba motorových a ostatných dopravných prostriedkov |
 
-4. | Galvanizácia kovov | I
+- 6. 7. 8. | Opravy pracovných strojov Diagnostika a opravy cestných motorových vozidiel Opravy karosérií | I I I
 
-5. | Smaltovanie | I
+- SKUPINA | 104 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín |
 
-SKUPINA 103 - Výroba motorových a ostatných dopravných prostriedkov | |
+- 9. 10. 11. | Výroba a opravy protetických výrobkov Výroba a opravy ortopedickej obuvi Hodinárstvo | I I
 
-6. | Opravy pracovných strojov | I
+- SKUPINA | 106 - Výroba a spracovanie kameniva a zemín, keramika |
 
-7. | Opravy cestných motorových vozidiel | I
+- 12. | Kamenárstvo | I
 
-8. | Opravy karosérií | I
+- SKUPINA | 108 - Výroba potravín a nápojov |
 
-SKUPINA 104 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | |
+- 13. 14. 15. 16. | Mäsiarstvo Výroba piva a sladu Výroba mliečnych výrobkov Výroba pekárskych a cukrárskych výrobkov | I I I I
 
-9. | Výroba a opravy protetických výrobkov | I
+- SKUPINA | 111 - Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov |
 
-10. | Výroba a opravy ortopedickej obuvi |
+- 17. 18. | Stolárstvo Zlatníctvo a klenotníctvo | I I
 
-11. | Hodinárstvo | I
+- SKUPINA | 113 - Stavebníctvo |
 
-SKUPINA 106 - Výroba a spracovanie kameniva a zemín, keramika | |
+- 19. 20. 21. 22. 23. 24. 25. 26. 27. | Murárstvo Tesárstvo Pokrývačstvo Klampiarstvo Izolatérstvo Vodoinštalatérstvo a kúrenárstvo Inštalácia a opravy chladiarenských zariadení Podlahárstvo Montáž, rekonštrukcia a údržba vyhradených technických zariadení | I I I I I I I I I
 
-12. | Kamenárstvo | I
+- 28. | Kachliarstvo | I
 
-SKUPINA 108 - Výroba potravín a nápojov | |
+- SKUPINA | 114 - Ostatné |
 
-13. | Mäsiarstvo a údenárstvo | I
-
-14. | Výroba piva a sladu | I
-
-15. | Výroba mliečnych výrobkov | I
-
-16. | Výroba pekárskych a cukrárskych výrobkov | I
-
-SKUPINA 110 - Výroba kože, kožených výrobkov (vrátane obuvi), výroba gumových výrobkov a výrobkov z plastických látok | |
-
-17. | Kožušníctvo | I
-
-SKUPINA 111 - Výroba drevárska, výroba nábytku, hudobných nástrojov a ostatných výrobkov | |
-
-18. | Stolárstvo | I
-
-19. | Zlatníctvo a klenotníctvo | I
-
-SKUPINA 112 - Výroba papierenská a polygrafická | |
-
-20. | Polygrafická výroba | I
-
-SKUPINA 113 - Stavebníctvo | |
-
-21. | Murárstvo | I
-
-22. | Tesárstvo | I
-
-23. | Pokrývačstvo | I
-
-24. | Klampiarstvo | I
-
-25. | Izolatérstvo | I
-
-26. | Vodoinštalatérstvo a kúrenárstvo | I
-
-27. | Inštalácia a opravy chladiarenských zariadení |
-
-28. | Podlahárstvo | I
-
-29. | Plynoinštalatérstvo |
-
-29a. | Kachliarstvo | I
-
-SKUPINA 114 - Ostatné | |
-
-30. | Holičstvo a kaderníctvo | III
-
-31. | Kozmetické služby | V
-
-32. | Pohostinská činnosť | V
-
-33. | Čistenie a kontrola komínov | V
+- 29. 30. 31. 32. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál pre výdajne Čistenie a kontrola komínov | I III III III

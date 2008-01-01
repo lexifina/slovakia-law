@@ -10,9 +10,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 2. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | 1. oprávnenie alebo 2. doklad o odbornej spôsobilosti | § 15 ods. 1 a 9 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
 
-- 3. | Montáž, opravy a rekonštrukcie vyhradených tlakových, zdvíhacích a plynových zariadení a vykonávanie revízií a skúšok týchto zariadení*) | oprávnenie | § 4 ods. 1 vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhlášky č. 485/1990 Zb.§ 4 ods. 1 vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhlášky č. 486/1990 Zb.§ 4 ods. 1 vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti v znení vyhlášky č. 488/1990 Zb.*) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+- 3. | Montáž, oprava, vykonávanie revízií a skúšok vyhradených technických zariadení*) | oprávnenie | § 8a ods. 3 písm. b) zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona č. 577/2007 Z. z. *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
-- 4. | Revízia vyhradených elektrických zariadení*) | osvedčenie | § 9 vyhlášky Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1978 o odbornej spôsobilosti v elektrotechnike*) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+- 4. | Zrušená od 1. 1. 2008. | | |
 
 - SKUPINA 204 - Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
@@ -26,7 +26,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 213 - Stavebníctvo | | | |
 
-- 9. | Vypracovanie dokumentácie a projektu jednoduchých stavieb, drobných stavieb a zmien týchto stavieb | vysokoškolské alebo úplné stredo- školské odborné vzdelanie príslušného technického smeru | § 45 ods. 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov |
+- 9. | Vypracovanie dokumentácie a projektu jednoduchých stavieb, drobných stavieb a zmien týchto stavieb | vysokoškolské alebo úplné stredoškolské odborné vzdelanie príslušného technického smeru | § 45 ods. 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov |
 
 - 10. | Obstarávanie územnoplánovacích podkladov a územnoplánovacej dokumentácie | preukaz odbornej spôsobilosti | § 2a ods. 5 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z. |
 
@@ -50,7 +50,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 19. | Inštruktor autoškoly | inštruktorský preukaz | § 10 zákona č. 93/2005 Z. z. |
 
-- 20. | Vyučovanie v odbore cudzích jazykov, prekladateľské a tlmočnícke služby*) | dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky, alebo preukázanie aspoň desaťročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať, prekladať alebo tlmočiť | *nevzťahuje sa na výkon činnosti tlmočníkov a prekladateľov podľa zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 93/2006 Z. z. |
+- 20. | Vyučovanie v odbore cudzích jazykov, prekladateľské a tlmočnícke služby*) | dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky, alebo preukázanie aspoň desaťročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať, prekladať alebo tlmočiť | *) nevzťahuje sa na výkon činnosti tlmočníkov a prekladateľov podľa zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 93/2006 Z. z. |
 
 - 21. | Vyučovanie v odbore umenia | dokončené štúdium na príslušnej umeleckej škole alebo spôsobilosť preukázaná desaťročnou praktickou činnosťou v odbore | |
 
@@ -80,19 +80,21 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 34. | Zber, spracúvanie, skladovanie, pestovanie a uvádzanie do obehu reprodukčného materiálu lesných drevín | osvedčenie o odbornej spôsobilosti | § 24 zákona č. 217/2004 Z. z. o lesnom reprodukčnom materiáli a o zmene niektorých zákonov v znení zákona č. 545/2004 Z. z. |
 
-- 35. | Činnosť vykonávaná banským spôsobom*) | osvedčenie o odbornej spôsobilosti | § 5 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom*) v rozsahu § 3 písm. c) až i) zákona č. 51/1988 Zb. |
+- 35. | Činnosť vykonávaná banským spôsobom*) aleboProjektovanie a navrhovanie objektov, zariadení a prác, ktoré sú súčasťou banskej činnosti**) a činnosti vykonávanej banským spôsobom***) alebo Projektovanie trhacích prác veľkého rozsahu | osvedčenie o odbornej spôsobilosti | § 5 ods. 3 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z.§ 5 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom *) v rozsahu § 3 písm. c) až i) zákona č. 51/1988 Zb.**) v rozsahu § 2 písm. b) až h) zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. ***) v rozsahu § 3 písm. a) zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. |
 
-- 36. | Ničenie a zneškodňovanie výbušnín a vyhľadávanie nevybuchnutej munície | preukaz pyrotechnika skupiny C, vek 21 rokov | § 35 ods. 3 zákona č. 51/1988 Zb. |
+- 35a. | Výroba a spracovanie výbušnín vrátane pyrotechnických výrobkov alebo vykonávanie výskumu, vývoja alebo pokusnej výroby výbušnín | vysokoškolské alebo postgraduálne vzdelanie s vyučovacím predmetom výroba výbušnín v rozsahu najmenej dvoch semestrov alebo štyroch trimestrov | § 23 ods. 1 písm. d) a § 36b ods. 1 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. | I
+
+- 36. | Ničenie a zneškodňovanie výbušnín pri výskume, vývoji, výrobe a spracovaní | preukaz pyrotechnika skupiny C, vek 21 rokov | § 35 ods. 3 zákona č. 51/1988 Zb. |
 
 - 37. | Vykonávanie ohňostrojných prác | preukaz odpaľovača ohňostrojov | § 4 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
 
-- 38. | Predaj pyrotechnických predmetov tried II a III a podtriedy T1 | doklad o odbornej spôsobilosti podľa osobitných predpisov*) | *) § 8 ods. 2 vyhlášky Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch v znení nariadenia vlády Slovenskej republiky č. 398/1999 Z. z. | III
+- 38. | Predaj pyrotechnických predmetov tried II a III a podtriedy T<sub>1</sub> | 1. oprávnenie– pyrotechnika alebo – strelmajstra alebo – odpaľovača ohňostrojovalebo 2. potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 36d ods. 12 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. | III
 
 - 39. | Prevádzkovanie cestovnej kancelárie | 1. vysokoškolské vzdelanie ekonomického alebo právnického smeru a dva roky praxe v odbore alebo2. vyššie odborné vzdelanie v odbore a tri roky praxe v odbore alebo3. úplné stredné vzdelanie v odbore alebo v ekonomickom odbore a päť rokov praxe v odbore | | II
 
 - 40. | Prevádzkovanie cestovnej agentúry | 1. vysokoškolské vzdelanie ekonomického alebo právnického smeru a jeden rok praxe v odbore alebo2. vyššie odborné vzdelanie v odbore a dva roky praxe v odbore alebo3. úplné stredné vzdelanie v odbore alebo v ekonomickom odbore a tri roky praxe v odbore | | II
 
-- 41. | Sprievodca cestovného ruchu | osvedčenie | § 8 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z. |
+- 41. | Sprievodca cestovného ruchu | osvedčenie | § 8 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996Z. z. o zamestnanosti v znení zákonač. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z. |
 
 - 42. | Masérske služby | 1. absolvovanie strednej zdravotníckej školy alebo2. absolvovanie masérskeho kurzu zakončeného skúškou, organizovaného inštitúciou akreditovanou príslušným ústredným orgánom štátnej správy alebo3. absolvovanie lekárskej fakulty alebo4. absolvovanie vysokej školy telovýchovného smeru | |
 
