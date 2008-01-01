@@ -2,15 +2,19 @@
 
 - 1a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 1b) § 69aa ods. 1 písm. d) Obchodného zákonníka.
+
 - 2) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) § 59 ods. 3 a § 59a Obchodného zákonníka.
+- 4) § 59 ods. 3, § 59a a § 59b Obchodného zákonníka.
 
 - 5) § 60 ods. 4 Obchodného zákonníka.
 
-- 5a) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+- 5a) § 69aa ods. 2 Obchodného zákonníka.
+
+- 5aa) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
@@ -19,6 +23,8 @@
 - 6b) § 2 písm. h) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 6c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 25/2004 Z. z., ktorou sa ustanovujú vzory tlačív na podávanie návrhov na zápis do obchodného registra a zoznam listín, ktoré je potrebné k návrhu na zápis priložiť v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 563/2004 Z. z.
+
+- 6d) Napríklad § 768e Obchodného zákonníka, § 9 ods. 5 a § 10 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, poznámka 5 k položke 17 v prílohe zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 7) § 78 ods. 1 Obchodného zákonníka.
 
@@ -62,7 +68,15 @@
 
 - 15) § 218l ods. 1 Obchodného zákonníka.
 
-- 15a) § 68 ods. 3 písm. d) Obchodného zákonníka.
+- 15a) § 69aa ods. 1 písm. e) druhá veta Obchodného zákonníka.
+
+- 15aa) § 69 až 69aa a § 218a až 218lk Obchodného zákonníka.
+
+- 15ab) § 69aa ods. 7 Obchodného zákonníka.
+
+- 15ac) § 218la až 218lk Obchodného zákonníka.
+
+- 15ad) § 68 ods. 3 písm. d) Obchodného zákonníka.
 
 - 15b) § 68 ods. 8 Obchodného zákonníka.
 
@@ -75,3 +89,5 @@
 - 19) § 53 Občianskeho súdneho poriadku.
 
 - 21) § 7 ods. 2 zákona č. 275/2006 Z. z.
+
+- 21a) § 7 a 8 zákona č. 275/2006 Z. z.

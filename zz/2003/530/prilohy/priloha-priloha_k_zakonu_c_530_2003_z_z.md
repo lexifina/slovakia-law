@@ -15,3 +15,7 @@ Príloha k zákonu č. 530/2003 Z. z.
   - 6. Dvanásta smernica Rady 89/667/EHS z 21. decembra 1989 o spoločnostiach s ručením obmedzeným s jediným spoločníkom (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 395, 30. 12. 1989) v znení Aktu o podmienkach pristúpenia Rakúskej republiky, Fínskej republiky a Švédskeho kráľovstva a o doplnení zmlúv (Ú. v. ES L 241, 29. 8. 1994) a Aktu o podmienkach pristúpenia Slovenskej republiky pripojeného k Zmluve o pristúpení k Európskej únii (Ú. v. EÚ L 236, 23. 9. 2003, oznámenie č. 185/2004 Z. z.).
 
   - 7. Smernica Európskeho parlamentu a Rady 2003/58/ES z 15. júla 2003, ktorou sa mení a dopĺňa smernica Rady 68/151/EHS v súvislosti s požiadavkami na zverejňovanie s ohľadom na určité typy spoločností (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. EÚ L 221, 4. 9. 2003).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2005/56/ES z 26. októbra 2005 o cezhraničných zlúčeniach alebo splynutiach kapitálových spoločností (Ú. v. EÚ L 310/zv. 1, 25. 11. 2005).
+
+  - 9. Smernica Európskeho parlamentu a Rady 2006/46/ES zo 14. júna 2006, ktorou sa mení a dopĺňa smernica Rady 78/660/EHS o ročnej účtovnej závierke niektorých typov spoločností, smernica Rady 83/349/EHS o konsolidovaných účtovných závierkach, smernica Rady 86/635/EHS o ročnej účtovnej závierke a konsolidovaných účtoch bánk a iných finančných inštitúcií a smernica Rady 91/674/EHS o ročných účtovných závierkach a konsolidovaných účtovných závierkach poisťovní (Ú. v. EÚ L 224/zv. 1, 16. 8. 2006).
