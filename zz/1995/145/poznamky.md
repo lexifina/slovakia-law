@@ -4,6 +4,8 @@
 
 - 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 1c) § 5 ods. 1 zákona č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
+
 - 2) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
@@ -47,6 +49,10 @@
 - 12a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 13) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+
+- 13a) § 5, 7 a 9 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
+
+- 13b) § 39 zákona č. 343/2007 Z. z.
 
 - 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
@@ -218,8 +224,6 @@
 
 - 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
 
-- 36o) Zákon č. 271/2001 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru.
-
 - 36p) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 36r) § 26 ods. 10 zákona č. 163/2001 Z. z.
@@ -286,13 +290,9 @@
 
 - 41) § 20 ods. 9 zákona č. 130/1998 Z. z.
 
-- 42) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+- 42) § 6 ods. 1 písm. d) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
-- 43) § 5 vyhlášky Slovenského úradu bezpečnosti práce č. 66/1989 Zb. na zaistenie bezpečnosti technických zariadení v jadrovej energetike v znení vyhlášky č. 31/1991 Zb.
-
-- 44) § 10 vyhlášky Slovenského úradu bezpečnosti práce č. 66/1989 Zb. v znení vyhlášky č. 31/1991 Zb.
-
-- 45) Vyhláška Slovenského úradu bezpečnosti práce č. 66/1989 Zb. v znení vyhlášky č. 31/1991 Zb.
+- 42a) § 7 ods. 3 písm. d) zákona č. 125/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
@@ -310,7 +310,7 @@
 
 - 46g) § 12 a 13 zákona č. 656/2004 Z. z.
 
-- 47) § 19 ods. 11 zákona č. 70/1998 Z. z.
+- 47) Nariadenie Rady (EHS) č. 1768/92 z 18. júna 1992 o vytvorení dodatkového ochranného osvedčenia na liečivá v platnom znení (Mimoriadne vydanie Ú. v. EÚ kap.13/ zv. 11; Ú. v. ES L 182, 2. 7. 1992).
 
 - 47a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
