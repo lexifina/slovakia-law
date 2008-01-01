@@ -54,6 +54,8 @@
 
 - 23a) § 66 a 97 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
+- 23aa) § 13a zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/ 2004 Z. z.
+
 - 24) § 829 až 841 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 25) § 1 až 13, § 14 ods. 2, § 15 až 17, § 24 až 26, § 31 až 47, § 51 až 70, § 81 až 85 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
