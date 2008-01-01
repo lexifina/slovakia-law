@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 588/2007 Z. z.
+
+- OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH MINERÁLNYCH ZDROJOV V BUDIŠI ![Obrázok 02](../assets/ae4378389cc02e509c78889e779f488fbbf92a7b58c98b9a72f60bd414250b40.png)
