@@ -96,6 +96,8 @@
 
 - 15ad) § 38 ods. 3 písm. d) a e) zákona č. 577/2004 Z. z.
 
+- 15ae) § 45 zákona č. 577/2004 Z. z.
+
 - 15b) § 2 ods. 1 a § 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 15c) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
@@ -106,15 +108,17 @@
 
 - 15da) § 2 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
 
-- 15e) § 10 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+- 15e) § 10 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 15f) § 116 Občianskeho zákonníka.
+- 15f) § 2 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
 
-- 15g) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- § 79a ods. 1 písm. a) zákona č. 578/2004 Z. z.
 
-- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 15g) § 33 a 34 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
-- 15h) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 15h) § 8 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 660/2005 Z. z.
+
+- 15ha) § 116 Občianskeho zákonníka.
 
 - 15i) Zákon č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
@@ -125,6 +129,8 @@
 - 18) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 18b) § 13 a 15 zákona č. 577/2004 Z. z.
 
 - 19) § 27 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 

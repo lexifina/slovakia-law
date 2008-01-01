@@ -24,4 +24,4 @@
 
 (10) Lekáreň zverejní na verejne prístupnom mieste v lekárni platný zoznam liekov uhrádzaných na základe verejného zdravotného poistenia.<sup>15</sup>)
 
-(11) Zoznam ATC skupín liekov, pri ktorých je možné postupovať podľa odseku 8, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+(11) Zoznam anatomicko-terapeuticko-chemických skupín liečiv, pri ktorých nie je možné postupovať podľa odseku 8, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
