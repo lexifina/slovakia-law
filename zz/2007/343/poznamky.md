@@ -18,15 +18,13 @@
 
 - 10) § 5 ods. 8 zákona č. 618/2003 Z. z.
 
-- 10a) § 3 písm. c) zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
-
 - 11) § 5 ods. 2, § 6 zákona č. 618/2003 Z. z. v znení zákona č. 84/2007 Z. z.
 
 - 12) § 5 ods. 18 zákona č. 618/2003 Z. z.
 
 - 13) § 6 zákona č. 618/2003 Z. z.
 
-- 14) § 20 ods. 3 až 5 zákona č. 308/2000 Z. z. v znení zákona č. 373/2013 Z. z.
+- 14) § 20 ods. 5 a 6 zákona č. 308/2000 Z. z. v znení zákona č. 343/2007 Z. z.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
@@ -34,11 +32,9 @@
 
 - Čl. 11 Medzinárodného dohovoru o ochrane výkonných umelcov, výrobcov zvukových záznamov a rozhlasových organizácií (vyhláška ministra zahraničných vecí č. 192/1964 Zb.).
 
-- 16a) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
-
 - 17) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 18) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov.
+- 18) § 23 ods. 2 zákona č. 16/2004 Z. z. o Slovenskej televízii.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
@@ -59,6 +55,14 @@
 - 26) Napríklad § 72 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27) § 3 písm. f) zákona č. 308/2000 Z. z.
+
+- 28) Zákon č. 16/2004 Z. z. v znení neskorších predpisov.
+
+- 29) § 5 ods. 1 písm. l) zákona č. 16/2004 Z. z.
+
+- 30) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
+
+- 31) § 5 ods. 1 písm. n) a o) zákona č. 619/2003 Z. z.
 
 - 32) § 747 až 753 Občianskeho zákonníka.
 
