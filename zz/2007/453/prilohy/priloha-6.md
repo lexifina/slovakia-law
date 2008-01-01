@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 453/2007 Z. z. [Vzor 06 - PÍSOMNÝ SÚHLAS NA PRENÁŠANIE UTAJOVANEJ PÍSOMNOSTI](../assets/a20807344ea537563bc0d319de86bc805c354bc36e22fe69ff07b9823d6ab261.pdf)

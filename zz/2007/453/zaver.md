@@ -1,0 +1,1 @@
+František Blanárik v. r.
