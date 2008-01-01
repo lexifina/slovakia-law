@@ -42,6 +42,8 @@
 
 - 12a) § 4a zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
+- 12aa) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
+
 - 12b) § 10 ods. 1 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 533/2004 Z. z.
 
 - 13) § 32 zákona č. 50/1976 Zb.
@@ -87,6 +89,8 @@
 - 16h) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z.
 
 - 16i) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 16j) § 33 až 35 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
 
 - 16k) § 17 ods. 2 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení zákona č. 419/2002 Z. z.
 

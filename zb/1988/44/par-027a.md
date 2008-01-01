@@ -1,6 +1,6 @@
 # § 27a Konanie o prevod dobývacieho priestoru pri nečinnosti organizácie
 
-(1) Ak zaniknú práva organizácie k dobývaciemu priestoru podľa § 27 ods. 13, obvodný banský úrad začne konanie o prevod dobývacieho priestoru na inú organizáciu.
+(1) Ak zaniknú práva organizácie k dobývaciemu priestoru podľa § 27 ods. 13, obvodný banský úrad začne výberové konanie o prevod dobývacieho priestoru na inú organizáciu.
 
 (2) Základné údaje, ktoré obvodný banský úrad v rámci oznámenia o začatí výberového konania uverejňuje v Úradnom vestníku Európskej únie a v Obchodnom vestníku podľa predchádzajúceho odseku, sú:
 
@@ -50,7 +50,7 @@
 
 (5) Člen komisie pri práci v komisii postupuje podľa § 24 ods. 10.
 
-(6) Komisia pri vyhodnocovaní návrhov na prevod dobývacieho priestoru na inú organizáciu postupuje podľa § 24 ods. 10 až 18 a na základe žiadosti organizácií, ktoré do výberového konania podali návrh na prevod dobývacieho priestoru, im umožní v rámci vyhodnocovania návrhov jednotlivým zástupcom organizácií obhájiť svoje návrhy. Žiadosť o obhajobu návrhov predkladajú navrhovatelia spolu s návrhom podľa § 24 ods. 4.
+(6) Komisia pri vyhodnocovaní návrhov na prevod dobývacieho priestoru na inú organizáciu postupuje podľa § 24 ods. 10 až 18.
 
 (7) Obvodný banský úrad na základe výsledkov výberového konania oznámi organizácii, ktorej návrh sa umiestnil na prvom mieste, že jej návrh do výberového konania bol úspešný, a ostatným účastníkom výberového konania oznámi, že ich návrhy vo výberovom konaní neuspeli. Obvodný banský úrad do 30 dní od oznámenia výsledkov výberového konania účastníkom výberového konania a od márneho uplynutia lehoty na podanie sťažnosti podľa odseku 10 prevedie dobývací priestor na organizáciu, ktorej návrh bol vo výberovom konaní určený ako prvý, vykonaním zápisu do evidencie dobývacích priestorov, čo oznámi organizácii, na ktorú previedol dobývací priestor.
 
