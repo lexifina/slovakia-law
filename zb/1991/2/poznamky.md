@@ -42,14 +42,4 @@
 
 - 11) § 373 a nasledujúce Obchodného zákonníka. § 420 a nasledujúce Občianskeho zákonníka.
 
-- 12) § 15 ods. 1, § 16 a § 25 ods. 1 zákona č. 54/1956 Zb. o nemocenskom poistení zamestnancov v znení neskorších predpisov.
-
-- 13) § 12 ods. 7 a 9 vyhlášky Federálneho ministerstva práce a sociálnych vecí č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení.
-
-- 14) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
-
-- Nariadenie vlády ČSSR č. 117/1988 Zb. o zariaďovaní zamestnaní do I. a II. pracovnej kategórie na účely dôchodkového zabezpečenia.
-
-- 15) § 139 vyhlášky č. 149/1988 Zb.
-
 - 16) § 142 Zákonníka práce.
