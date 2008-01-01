@@ -152,6 +152,8 @@
 
 - Nariadenie Rady (ES) č. 659/1999 z 22. marca 1999, ktorým sa ustanovujú podrobné pravidlá uplatňovania článku 93 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 083, 27. 3. 1999).
 
+- 59b) § 2 ods. 2 zákona č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
+
 - 60) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
