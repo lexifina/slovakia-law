@@ -1,5 +1,7 @@
 - 1) § 2 Obchodného zákonníka.
 
+- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 2a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
@@ -7,6 +9,8 @@
 - 3) Napríklad § 386, § 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
 - 4) Čl. 29 až 31 a čl. 45 až 49 Nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúceho systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
+
+- 4a) § 115 Občianskeho zákonníka.
 
 - 5) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov.
 
@@ -29,6 +33,10 @@
 - 13) § 459a zákona č. 238/2001 Z. z. v znení zákona č. 464/2003 Z. z.
 
 - § 65b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+
+- 13a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
@@ -61,5 +69,7 @@
 - 25a) Vyhláška Ministerstva financií Slovenskej republiky č. 182/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolnej známky na označovanie spotrebiteľského balenia cigariet a o jej grafických prvkoch a údajoch.
 
 - 25b) Napríklad § 14a ods. 11 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 25c) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 26) § 29 zákona č. 431/2002 Z. z.
