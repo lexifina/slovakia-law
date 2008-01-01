@@ -108,9 +108,13 @@
 
 - 11) § 53 až 62 zákona č. 483/2001 Z. z.
 
-- 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12a) § 2 až 30 zákona č. 510/2002 Z. z.
+
+- 12aa) § 248 písm. d) Občianskeho súdneho poriadku.
 
 - 13) § 15 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
@@ -148,9 +152,11 @@
 
 - 15g) Napríklad zákon č. 431/2002 Z. z., zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
-- 15h) § 6 ods. 2 až 6 a § 46 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 15h) § 8 ods. 1 písm. i) a ods. 2 a § 13 ods. 1 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 13 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+- § 8 až 13 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 15ha) § 18, 19, 23 a § 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 15i) § 2 ods. 3 a § 8 až 13 zákona č. 386/2002 Z. z.
 
