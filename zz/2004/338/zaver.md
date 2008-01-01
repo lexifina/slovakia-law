@@ -1,1 +1,0 @@
-Aurel Ugor v. r.
