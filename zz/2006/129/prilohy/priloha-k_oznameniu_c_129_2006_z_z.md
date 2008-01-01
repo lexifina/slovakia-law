@@ -128,9 +128,13 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Bosna a Hercegovina
 
-  - 1. mestské súdy Republiky Bosny a Hercegoviny a Republiky Srbskej
+    - prvostupňové súdy Bosny a Hercegoviny, ktorými sú:
 
-  - 2. osvedčenia orgánov uvedených v bode 1 musia byť ďalej overené Ministerstvom občianskych vecí a komunikácií Republiky Bosny a Hercegoviny a Ministerstvom zahraničných vecí Republiky Bosny a Hercegoviny
+  - 1. obecné („obćinske“) súdy Federácie Bosny a Hercegoviny
+
+  - 2. základné („osnovne“) súdy Republiky srbskej v Bosne
+
+  - 3. základné („osnovne“) súdy dištriktu Brčko v Bosne a Hercegovine
 
     - Botswana
 
