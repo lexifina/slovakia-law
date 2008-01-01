@@ -42,6 +42,8 @@
 
 - 17a) Čl. 8 ods. 2 až 4 nariadenia Komisie (ES) č. 1891/2004.
 
+- 17b) Čl. 14e nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993).
+
 - 18) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
 
 - 19) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 21/2007 Z. z.
@@ -49,6 +51,8 @@
 - 20) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 21) § 59 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 21a) Napríklad čl. 14l a 14m, čl. 14p až 14r, čl. 14t až 14x nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
 - 22) Napríklad § 71 a 72 a § 80 až 84 zákona č. 199/2004 Z. z.
 
@@ -75,6 +79,10 @@
 - 31) Článok 11 Dohovoru Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.).
 
 - 32) Napríklad § 15, 29 a 46 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 32a) Napríklad čl. 14h až 14k nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
+
+- 32b) Napríklad čl. 29 ods. 1 nariadenia Komisie (ES) č. 1277/2005 z 27. júla 2005, ktorým sa ustanovujú vykonávacie pravidlá pre nariadenie Európskeho parlamentu a Rady (ES) č. 273/2004 o prekurzoroch drog a pre nariadenie Rady (ES) č. 111/2005, ktorým sa stanovujú pravidlá sledovania obchodu s drogovými prekurzormi medzi Spoločenstvom a tretími krajinami (Ú. v. EÚ L 202, 3. 8. 2005).
 
 - 33) § 72 ods. 1 písm. l) zákona č. 199/2004 Z. z.
 
