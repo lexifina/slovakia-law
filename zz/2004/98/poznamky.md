@@ -10,6 +10,10 @@
 
 - 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 4b) § 4 ods. 1 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- 4c) Napríklad § 3 zákona č. 315/2001 Z. z. v znení zákona č. 438/2002 Z. z.
+
 - 5) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov (oznámenie č. 324/1997 Z. z.).
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11–15).
