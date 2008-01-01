@@ -4,9 +4,13 @@
 
 - 1b) § 5 písm. f) zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
-- 3) § 2 ods. 2 Obchodného zákonníka.
+- 2) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení neskorších predpisov.
 
-- 3a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+- 3) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 3a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
+
+- 3aa) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 3b) § 63 a 64 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -16,13 +20,15 @@
 
 - 3d) § 116 a 117 Občianskeho zákonníka.
 
-- 4) Zákon č. 100/1988 Zb. o sociálnom zabezpečení v znení neskorších predpisov.
+- 4) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov v znení neskorších predpisov.
-
-- Zákon č. 413/2002 Z. z. o sociálnom poistení v znení zákona č. 639/2002 Z. z.
+- Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 4a) § 374 Obchodného zákonníka.
+
+- 4b) § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 4c) § 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
 
 - 5) § 151a až 151g a § 546 až 558 Občianskeho zákonníka,
 
