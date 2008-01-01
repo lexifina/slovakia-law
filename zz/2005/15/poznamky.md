@@ -38,7 +38,7 @@
 
 - Čl. 2 ods. 4 a príloha IV k nariadeniu Komisie (ES) č. 1808/2001.
 
-- 16) § 181c Trestného zákona.
+- 16) § 305 zákona č. 300/2005 Z. z. Trestný zákon.
 
 - 17) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -98,11 +98,21 @@
 
 - 43) Čl. 9 ods. 1 nariadenia Rady (ES) č. 338/97.
 
+- 43a) Nariadenie Rady (ES) č. 338/97.
+
+- Nariadenie Komisie (ES) č. 865/2006 zo 4. mája 2006, ktorým sa ustanovujú podrobné pravidlá týkajúce sa vykonávania nariadenia Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. EÚ L 166, 19. 6. 2006 ).
+
 - 44) § 74 a 75 zákona č. 199/2004 Z. z.
 
 - 45) § 45 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
+- 45a) Čl. 66 ods. 7 nariadenia Komisie (ES) č. 865/2006.
+
 - 46) Zákon č. 488/ 2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
+
+- 46a) Čl. 8 ods. 3 písm. a), b), c), d), f), h) nariadenia Rady (ES) č. 338/97.
+
+- Čl. 48 nariadenia Komisie (ES) č. 865/2006.
 
 - 47) Čl. 36 ods. 1, ods. 2 a 5 nariadenia Komisie (ES) č. 1808/2001.
 
@@ -135,6 +145,8 @@
 - 58) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 530/2004 Z. z.
 
 - 59) § 10 a § 11 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 59a) § 125 ods. 1 zákona č. 300/2005 Z. z. Trestný zákon.
 
 - 60) Čl. 11 ods. 3 nariadenia Rady (ES) č. 338/97.
 
