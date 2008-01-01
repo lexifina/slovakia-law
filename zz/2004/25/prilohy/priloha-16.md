@@ -1,1 +1,1 @@
-Príloha č. 16 k vyhláške č. 25/2004 Z. z. [Vzor 16 - Návrh na zápis zmeny zapísaných údajov o podniku zahraničnej osoby/o organizačnej zložke podniku zahraničnej osoby do obchodného registra](../assets/0f7a0bd40180b55f3f529c1fc888d31f0c7e83c48268e6022ea48fd0a352b894.pdf)
+Príloha č. 16 k vyhláške č. 25/2004 Z. z. [Vzor 16 - Návrh na zápis zmeny zapísaných údajov o podniku zahraničnej osoby / o organizačnej zložky podniku zahraničnej osoby do obchodného registra](../assets/bfb909508cd76be77c042a0fa9db9e1c2892f032e85d53b230215047ac731e50.pdf)

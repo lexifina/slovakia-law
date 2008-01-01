@@ -1,3 +1,1 @@
-Príloha č. 24 k vyhláške č. 25/2004 Z. z. Vzor 24 - Návrh na zápis zmeny zapísaných údajov o európskej spoločnosti do obchodného registra
-
-(Poznámka redacie: Novela č. 150/2007 Z. z. zmenila vzor Návrhu na zápis zmeny zapísaných údajov o európskej spoločnosti do obchodného registra s účinnosťou od 1. apríla 2007 a nové znenie návrhu nebolo v Zbierke zákonov Slovenskej republiky publikované.)
+Príloha č. 24 k vyhláške č. 25/2004 Z. z. [Vzor 24 - Návrh na zápis zmeny zapísaných údajov o Európskej spoločnosti do obchodného registra](../assets/ff55616314d771a0da1c196ccc3f979d491b0a1da75ab3d1f7a2c207bdba2b2b.pdf)

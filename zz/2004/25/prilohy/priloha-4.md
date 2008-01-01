@@ -1,3 +1,1 @@
-Príloha č. 4 k vyhláške č. 25/2004 Z. z. Vzor 04 - Návrh na zápis zmeny zapísaných údajov o verejnej obchodnej spoločnosti do obchodného registra
-
-(Poznámka redacie: Novela č. 150/2007 Z. z. zmenila vzor Návrhu na zápis zmeny zapísaných údajov o verejnej obchodnej spoločnosti do obchodného registra s účinnosťou od 1. apríla 2007 a nové znenie návrhu nebolo v Zbierke zákonov Slovenskej republiky publikované.)
+Príloha č. 4 k vyhláške č. 25/2004 Z. z. [Vzor 04 - Návrh na zápis zmeny zapísaných údajov o verejnej obchodnej spoločnosti do obchodného registra](../assets/0b5b519427cf39dc74e65329352a737384134c4258b38f840bfc4f9c78f2d80c.pdf)

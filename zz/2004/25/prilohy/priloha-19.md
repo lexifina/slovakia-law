@@ -1,1 +1,1 @@
-Príloha č. 19 k vyhláške č. 25/2004 Z. z. [Vzor 19 - Návrh na výmaz zapísanej osoby z obchodného registra](../assets/0696bf06e34f76b5e3784e09391dbd0f5b440183917da3a17b0a7a84e01b9a54.pdf)
+Príloha č. 19 k vyhláške č. 25/2004 Z. z. [Vzor 19 - Návrh na výmaz zapísanej osoby z obchodného registra](../assets/a2f6afbc2896d6807a2af6bcba1b16ef6d2d685811c7833a3f5bb6e5bbb7a415.pdf)

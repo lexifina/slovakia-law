@@ -4,7 +4,9 @@
 
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
-- 2a) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Ú. v. ES L 199, 31. 07. 1985).
+- 2a) § 59b ods. 3 Obchodného zákonníka.
+
+- 2aa) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Ú. v. ES L 199, 31. 07. 1985).
 
 - 2b) Článok 25 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Ú. v. ES L 294, 10. 11. 2001).
 
@@ -52,8 +54,12 @@
 
 - 5) § 69a ods. 3 písm. c) Obchodného zákonníka.
 
-- 6) § 218k ods. 1 Obchodného zákonníka.
+- 6) § 218k ods. 1 a 5 Obchodného zákonníka.
+
+- 6a) § 69aa ods. 7 Obchodného zákonníka.
+
+- 6b) § 218la až 218lk Obchodného zákonníka.
 
 - 7) § 218o ods. 1 Obchodného zákonníka.
 
-- 8) § 68 ods. 9 druhá veta Obchodného zákonníka.
+- 8) § 68 ods. 10 Obchodného zákonníka.

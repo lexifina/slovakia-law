@@ -1,3 +1,1 @@
-Príloha č. 21 k vyhláške č. 25/2004 Z. z. Vzor 21 - Návrh na zápis zmeny zapísaných údajov o európskom zoskupení hospodárskych záujmov do obchodného registra
-
-(Poznámka redacie: Novela č. 150/2007 Z. z. zmenila vzor Návrhu na zápis zmeny zapísaných údajov o európskom zoskupení hospodárskych záujmov do obchodného registra s účinnosťou od 1. apríla 2007 a nové znenie návrhu nebolo v Zbierke zákonov Slovenskej republiky publikované.)
+Príloha č. 21 k vyhláške č. 25/2004 Z. z. [Vzor 21 - Návrh na zápis zmeny zapísaných údajov o Európskom zoskupení hospodárskych záujmov do obchodného registra](../assets/28023795dda5d7c05bd6b535a1d2b7119a0b4ad46bd526a62b45f6285fd49c17.pdf)

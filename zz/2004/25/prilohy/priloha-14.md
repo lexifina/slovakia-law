@@ -1,3 +1,1 @@
-Príloha č. 14 k vyhláške č. 25/2004 Z. z. Vzor 14 - Návrh na zápis zmeny zapísaných údajov o štátnom podniku do obchodného registra
-
-(Poznámka redacie: Novela č. 150/2007 Z. z. zmenila vzor Návrhu na zápis zmeny zapísaných údajov o štátnom podniku do obchodného registra s účinnosťou od 1. apríla 2007 a nové znenie návrhu nebolo v Zbierke zákonov Slovenskej republiky publikované.)
+Príloha č. 14 k vyhláške č. 25/2004 Z. z. [Vzor 14 - Návrh na zápis zmeny zapísaných údajov o štátnom podniku do obchodného registra](../assets/b920e5988e0604a754610ce043b9d630757b2c4e55879c1cfbd782f1e67ed639.pdf)
