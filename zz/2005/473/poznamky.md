@@ -18,7 +18,7 @@
 
 - 9) § 9 ods. 2 Obchodného zákonníka.
 
-- 10) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 10) § 14 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
