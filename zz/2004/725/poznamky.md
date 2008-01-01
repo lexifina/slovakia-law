@@ -18,7 +18,7 @@
 
 - 8) § 2 ods. 1 písm. c) zákona č. 534/2003 Z. z. o organizácii štátnej správy na úseku cestnej dopravy a pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
-- 8a) § 54 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+- 8a) § 54 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) § 8 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
