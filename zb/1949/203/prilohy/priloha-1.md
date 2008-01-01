@@ -1,1 +1,0 @@
-- Kresba pamätnej stokoruny: ![Obrázok 01](../assets/300b3be44037ec670593d41e08fef584b4b22ac25c203033f7064c213e1eea32.png)
