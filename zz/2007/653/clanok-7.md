@@ -1,0 +1,3 @@
+# Čl. VII
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 720/2004 Z. z., zákonom č. 351/2005 Z. z., zákonom č. 538/2005 Z. z., zákonom č. 282/2006 Z. z., zákonom č. 527/2006 Z. z., zákonom č. 673/2006 Z. z., zákonom č. 272/2007 Z. z., zákonom č. 330/2007 Z. z., zákonom č. 464/2007 Z. z. a týmto zákonom.
