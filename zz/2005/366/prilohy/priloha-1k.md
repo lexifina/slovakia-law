@@ -127,3 +127,5 @@ Príloha č. 1 k vyhláške č. 366/2005 Z. z.
 - 3 mesiace | 20 | 20 | 8 | 8 | 8 | 8 | 8 | 8 | 8
 
   - 18. Za preukázané úspešné absolvovanie akreditovaného študijného programu dištančného vzdelávania<sup>5</sup>) realizovaného prostredníctvom počítačových sietí<sup>6</sup>) sa absolventovi po predložení príslušného dokladu<sup>7</sup>) priznajú kredity podľa dĺžky trvania vzdelávacej aktivity podľa tabuľky č. 3.
+
+  - 19. Kredity sa zdravotníckemu pracovníkovi priznávajú podľa tabuľky č. 3 aj za úspešné absolvovanie Ministerstvom zdravotníctva Slovenskej republiky akreditovaného programu sústavného vzdelávania zdravotníckych pracovníkov uskutočneného prezenčnou alebo kombinovanou metódou sústavného vzdelávania.

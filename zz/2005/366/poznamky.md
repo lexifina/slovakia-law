@@ -35,3 +35,5 @@
 - 6) Príloha č. 5 časť B bod 7 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
 
 - 7) § 41 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 10a) § 21a ods. 1 nariadenia vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení nariadenia vlády Slovenskej republiky č. 324/2006 Z. z.
