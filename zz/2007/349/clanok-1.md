@@ -6,6 +6,8 @@ Zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 
 - 2. V poznámke pod čiarou k odkazu 1a sa citácia „§ 10 ods. 10 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.“ nahrádza citáciou „§ 8 zákona č. 523/2004 Z. z. v znení neskorších predpisov.“.
 
+- 3. V § 3 ods. 1 písm. d) sa slovo „banke“ nahrádza slovami „Štátnej pokladnici“.
+
 - 4. V § 3 sa vypúšťa odsek 2.
 
   - Súčasne sa zrušuje označenie odseku 1.
@@ -303,6 +305,10 @@ Zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č
 - 50. Za § 18a sa vkladá § 18b, ktorý znie:
 
 - „§ 18b
+
+- (1)
+
+- Právne vzťahy vyplývajúce zo zmluvy s bankou vykonávajúcou finančné operácie súvisiace s použitím prostriedkov fondu podľa § 4 ods. 1 písm. a) prechádzajú z fondu na Štátnu pokladnicu.
 
 - (2)
 
