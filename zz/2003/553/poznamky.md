@@ -10,8 +10,6 @@
 
 - 6) § 26 ods. 5 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 450/2000 Z. z.
 
-- 7) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe.
-
 - 8) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 
 - 9) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
