@@ -2,6 +2,8 @@
 
 Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení zákona č. 291/2002 Z. z., zákona č. 510/2002 Z. z., zákona č. 162/2003 Z. z., zákona č. 594/2003 Z. z., zákona č. 43/2004 Z. z., zákona č. 635/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 7/2005 Z. z., zákona č. 266/2005 Z. z., zákona č. 336/2005 Z. z. a zákona č. 213/2006 Z. z. sa mení a dopĺňa takto:
 
+- 1. Slová „všeobecne záväzný právny predpis, ktorý vydá Národná banka Slovenska“ sa v celom texte zákona nahrádzajú slovami „opatrenie, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov“.
+
 - 2. V § 8 písm. h) tretí bod znie:
 
 - „3.
