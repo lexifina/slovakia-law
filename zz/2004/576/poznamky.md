@@ -2,9 +2,15 @@
 
 - 2) § 33 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 4) Zákon č. 578/2004 Z. z.
+
+- 4a) § 103 zákona č. 36/2005 Z. z.
+
+- § 75 a 75a Občianskeho súdneho poriadku.
 
 - 5) § 27 Občianskeho zákonníka.
 
@@ -15,6 +21,8 @@
 - 6) § 72 Trestného zákona.
 
 - 7) § 5 zákona č. 578/2004 Z. z.
+
+- 7a) Zákon č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 8) § 27 zákona č. 578/2004 Z. z.
 
@@ -54,7 +62,7 @@
 
 - 26) § 10 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
-- 26a) § 12 zákona č. 570/2005 Z. z.
+- 26a) § 12 ods. 7 a 8 zákona č. 570/2005 Z. z.
 
 - 27) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
 
@@ -70,7 +78,7 @@
 
 - 30) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
@@ -100,13 +108,17 @@
 
 - § 116 ods. 2 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 38a) § 19 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+- 38a) § 14 ods. 4 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- § 106a zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 38b) § 15 a 16 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 38c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 39) Zákon č. 95/2002 o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 581/2004 Z. z.
+
+- 39a) § 3 ods. 1 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 352/2005 Z. z.
 
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
@@ -116,6 +128,8 @@
 
 - 41a) § 13 až 15 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 41aa) § 48 ods. 4 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 41b) § 79 a 79a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 42) § 17 zákona č. 581/2004 Z. z.
@@ -124,13 +138,19 @@
 
 - 44) § 39 ods. 3 zákona č. 578/2004 Z. z.
 
-- 45) Zákon Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
+- 44a) § 2 písm. k) a § 13 zákona č. 540/2001 Z. z.
 
-- 46) § 18 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 45) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
+
+- 46) § 5 a 6 zákona č. 355/2007 Z. z.
 
 - 47) § 11 ods. 2 zákona č. 578/2004 Z. z.
 
+- 47a) § 2 zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
 - 48) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- 48a) § 15 ods. 2 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
 - 49) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -144,8 +164,18 @@
 
 - 52a) § 12a zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
+- 52aa) § 28 písm. f) zákona č. 293 /2007 Z. z. o uznávaní odborných kvalifikácií.
+
 - 52b) § 71 až 73 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 
+- 53a) § 4 zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
+
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 1) § 80 ods. 5 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2) Vyhláška Štatistického úradu Slovenskej republiky Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
+
+- 3) § 4 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.

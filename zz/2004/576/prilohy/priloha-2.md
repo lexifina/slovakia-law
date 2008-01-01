@@ -1,669 +1,521 @@
-Príloha č. 2 k zákonu č. 576/2004 Z. z.
+Príloha č. 2 k zákonu č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
-- ZOZNAM osobných údajov, účel ich spracúvania, podmienky ich získavania a okruh dotknutých osôb
+- NÁRODNÉ REGISTRE A ZISŤOVANIA S UVEDENÍM ZOZNAMU OSOBNÝCH ÚDAJOV, ÚČELU ICH SPRACOVÁVANIA A OKRUHU DOTKNUTÝCH OSÔB
 
-  - A. Štatistické zisťovania
+  - A. Národné administratívne registre
 
-    - 1. Názov zisťovania: Záznam o prijatí do ústavnej starostlivosti
+    - Účelom spracovávania osobných údajov v administratívnych registroch ako základných integračných nástrojoch pre štatistické zisťovania v rezorte zdravotníctva je zabezpečiť a udržiavať v aktuálnom stave základné identifikačné údaje o prijímateľoch zdravotnej starostlivosti pre potreby vedenia zdravotnej dokumentácie v elektronickej forme, údaje o poskytovateľoch zdravotnej starostlivosti a údaje o zdravotníckych pracovníkoch.
 
-      - a) Zoznam osobných údajov
+    - 1. Národný register prijímateľov zdravotnej starostlivosti
 
-        - Rodné číslo, kód obce trvalého bydliska v Slovenskej republike, kód zamestnania, kódy diagnóz podľa MKCH-10 (odporučenie na prijatie, prijatie pacienta, základné ochorenie, pre ktoré bol pacient hospitalizovaný, hlavná choroba, ktorá najviac ohrozuje zdravie alebo život chorého, základná príčina smrti), v tomto roku prijatý do ústavnej starostlivosti v ktoromkoľvek zariadení ústavnej starostlivosti po prvýkrát alebo opakovane, druh vykonanej liečby, spôsob ukončenia, dátumy prijatia a ukončenia, kód zdravotnej poisťovne, dátum, hodina a minúta prijatia a ukončenia hospitalizácie. V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+      - a) Zoznam spracovávaných osobných údajov
 
-      - b) Účel ich spracúvania
+        - Meno a priezvisko, rodné meno, rodné číslo, dátum a miesto narodenia, kód obce trvalého pobytu v Slovenskej republike, adresa trvalého pobytu, identifikačné údaje príslušnej zdravotnej poisťovne, identifikačné údaje poskytovateľov, ktorí vedú zdravotnú dokumentáciu podľa tohto zákona.
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
+      - b) Účel spracovávania osobných údajov
 
-      - c) Podmienky ich získavania
+        - Účelom spracovávania osobných údajov je zabezpečiť a udržiavať v aktuálnom stave základné identifikačné údaje o prijímateľoch zdravotnej starostlivosti s cieľom umožniť poskytovateľom viesť zdravotnú dokumentáciu v elektronickej forme a kvalitnejšie, účinnejšie a bezpečnejšie kontinuálne poskytovať zdravotnú starostlivosť.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti (každé posteľové oddelenie).
+        - Prevádzkovateľovi registra poskytne údaje úrad pre dohľad z databázy poistencov a Štatistický úrad Slovenskej republiky zo štátnych štatistických zisťovaní – List o prehliadke mŕtveho a štatistické hlásenie o úmrtí (formulár Obyv. 3-12). Údaje budú verifikované a aktualizované z administratívnych zdrojov poskytnutých matrikami.
 
-        - Periodicita: mesačne (do 20. kalendárneho dňa po sledovanom období).
+      - c) Okruh dotknutých osôb
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Všetci prijímatelia zdravotnej starostlivosti.
 
-        - Získavanie osobných údajov: v elektronickej forme.
+      - d) Účel poskytovania osobných údajov
 
-      - d) Okruh dotknutých osôb
+        - Osobné údaje z registra je možné poskytnúť len na účely poskytnutia zdravotnej starostlivosti.
 
-        - Prijatí do ústavnej starostlivosti v zdravotníckych zariadeniach ústavnej starostlivosti.
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
 
-    - 2. Názov zisťovania: Správa o rodičke
+        - Meno a priezvisko, rodné meno, rodné číslo, dátum a miesto narodenia, kód obce trvalého pobytu v Slovenskej republike, adresa trvalého pobytu, identifikačné údaje príslušnej zdravotnej poisťovne, identifikačné údaje poskytovateľa, ktorý vedie zdravotnú dokumentáciu ako celok podľa tohto zákona.
 
-      - a) Zoznam osobných údajov
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
 
-        - Informácie týkajúce sa rodičky (rodné číslo, kód okresu trvalého a prechodného bydliska v Slovenskej republike, rodinný stav, vzdelanie), informácie týkajúce sa jej predchádzajúcich tehotenstiev (počet pôrodov – vaginálnych, SC, predčasných, detí – živo narodených, mŕtvo narodených, žijúcich, detí zomretých od 0 – 6 ukončených dní, detí zomretých od 7 – 27 ukončených dní, potratov – spontánnych, UPT, GEU), informácie týkajúce sa tehotenstva [fajčenie, alkohol, abúzus drogy, prenatálna starostlivosť (začiatok – týždeň, počet kontrol), ultrazvukové vyšetrenia (počet, týždeň – prvé, posledné), ultrazvukové vyšetrenia (pre malformácie, zistené viacplodové tehotenstvo), antenatálne steroidy, výsledky vyšetrení (CVS, AFP, amniocentéza, cordocentéza, CTG, prietoky), predpokladaný dátum pôrodu spoľahlivo podľa PM, podľa UZV, diabetes, výskyt vybraných komplikácií v tehotenstve, dokončený týždeň tehotenstva], informácie týkajúce sa pôrodu [začiatok pôrodu, výskyt vybraných príznakov rizika (patologický nález), plodová voda (odtok > 12 h pred pôrodom, množstvo plodovej vody), výskyt intraamniálnej infekcie, CTG, transfúzia krvi, spôsob pôrodu (indikácia na SC – diagnózy podľa MKCH-10), výskyt vybraných komplikácií počas pôrodu a po pôrode (analgézia, anestézia, pôrod viedol, prítomnosť otca pri pôrode, dátum pôrodu, prepustenie, dátum prepustenia)], informácie týkajúce sa narodeného dieťaťa (vitalita, pohlavie), pôrodné údaje (pôrodná hmotnosť a dĺžka, apgar skóre v 1. a 5. minúte, pH). V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+        - Poskytovatelia poskytujúci zdravotnú starostlivosť dotknutej osobe v rozsahu ustanovenom osobitným predpisom.<sup>1</sup>)
 
-      - b) Účel ich spracúvania
+    - 2. Národný register poskytovateľov zdravotnej starostlivosti
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o zdravotnom stave rodičky a o poskytnutí zdravotnej starostlivosti žene počas tehotenstva, ako aj počas pôrodu. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+      - a) Zoznam spracovávaných osobných údajov
 
-      - c) Podmienky ich získavania
+        - Rodné číslo, meno a priezvisko, pohlavie, dátum narodenia, dátum úmrtia, tituly pred menom a za menom, štátne občianstvo, štát a miesto trvalého pobytu, ak je miesto trvalého pobytu mimo územia Slovenskej republiky, potom aj miesto prechodného pobytu na území Slovenskej republiky, obchodné meno, začiatok a ukončenie výkonu funkcie štatutárneho zástupcu a odborného zástupcu, kategória zdravotníckeho pracovníka, povolanie, študijný odbor, špecializačný odbor, certifikovaná pracovná činnosť.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – gynekologicko-pôrodnícke oddelenia.
+      - b) Účel spracovávania osobných údajov
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa druhého nasledujúceho mesiaca po narodení dieťaťa).
+        - Naplnenie identifikačnej, registračnej, integračnej, informačnej a štatistickej funkcie registra na národnej a medzinárodnej úrovni; tvorba a vyhodnocovanie štatistických výstupov vrátane demografických, a to na základe požiadaviek oprávnených tuzemských a zahraničných užívateľov.
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+      - c) Okruh dotknutých osôb
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+        - Organizácie-fyzické osoby a právnické osoby, ktoré získali oprávnenie na poskytovanie zdravotnej alebo lekárenskej starostlivosti, poskytovanie služieb súvisiacich s poskytovaním zdravotnej starostlivosti, poskytovanie služieb súvisiacich so zabezpečovaním starostlivosti o poistencov, ktorá nadväzuje na zdravotnú starostlivosť, vybrané organizácie registrované na účely štatistického zisťovania v rezorte zdravotníctva, fyzické osoby vo funkcii štatutárneho a odborného zástupcu.
 
-      - d) Okruh dotknutých osôb
+      - d) Účel poskytovania osobných údajov
 
-        - Ženy, ktoré rodili v ústavnom zdravotníckom zariadení alebo boli ošetrené v ústavnom zdravotníckom zariadení následne po pôrode mimo ústavného zdravotníckeho zariadenia.
+        - Budovanie a funkčnosť jednotného informačného systému v oblasti zdravotníctva v súčinnosti s tretími stranami ako nástroja pre riadiacu a kontrolnú činnosť ministerstva zdravotníctva a priebežná aktualizácia údajov spravodajskými jednotkami.
 
-    - 3. Názov zisťovania: Správa o novorodencovi
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
 
-      - a) Zoznam osobných údajov
+        - Rodné číslo, meno a priezvisko, pohlavie, dátum narodenia, dátum úmrtia, tituly pred menom a za menom, štátne občianstvo, štát a miesto trvalého pobytu, ak je miesto trvalého pobytu mimo územia Slovenskej republiky, potom aj miesto prechodného pobytu na území Slovenskej republiky, obchodné meno, začiatok a ukončenie výkonu funkcie štatutárneho zástupcu a odborného zástupcu, kategória zdravotníckeho pracovníka, povolanie, študijný odbor, špecializačný odbor, certifikovaná pracovná činnosť.
 
-        - Informácie týkajúce sa rodičky (rodné číslo, kód okresu trvalého a prechodného bydliska v Slovenskej republike), informácie týkajúce sa dieťaťa (rodné číslo, ohrozená skupina), informácie týkajúce sa dieťaťa na pôrodnej sále (antenatálne steroidy, Clifford, spôsob pôrodu, trofika, dátum a čas narodenia, pôrodná hmotnosť, dĺžka a gestačný vek, vitalita, pohlavie, apgar skóre v 1. a 5. minúte, pH, BE, vyšetrená krv, vybraná liečba na sále), informácie týkajúce sa dieťaťa na oddelení (dátum a čas prijatia, na úsek/počet dní, SNAP II a NBRS skóre, prevencia, ošetrované s matkou, výskyt vybraných chorôb a komplikácií, liečba, skríning), informácie týkajúce sa prepustenia, prekladu, úmrtia dieťaťa (dátum a čas, hmotnosť, obvod hlavy, výživa, dôvod ukončenia SON, odporučené sledovať, prevoz, skóre, realizácia prevozu, diagnózy pri prepustení, preklade, úmrtí – diagnózy podľa zoznamu vybraných alebo účelovo pozmenených diagnóz a diagnóz s rozšírením kódu MKCH-10 o piaty znak, ak sa nevyskytujú, potom len podľa MKCH-10), informácie týkajúce sa úmrtia dieťaťa (pitva, patologicko-anatomické diagnózy podľa MKCH-10, etiológia exitu perinatologická, etiológia exitu neonatologická). V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
 
-      - b) Účel ich spracúvania
+        - Ministerstvo zdravotníctva, Štatistický úrad Slovenskej republiky, úrad pre dohľad, stavovské organizácie v zdravotníctve, zdravotné poisťovne, Ministerstvo obrany Slovenskej republiky, Ministerstvo vnútra Slovenskej republiky, Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Ministerstvo spravodlivosti Slovenskej republiky, Sociálna poisťovňa a vyššie územné celky.
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o zdravotnom stave novorodenca a o poskytnutí zdravotnej starostlivosti do 28. dňa veku alebo pri kontinuálnej hospitalizácii až do troch mesiacov veku dieťaťa. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+    - 3. Národný register zdravotníckych pracovníkov
 
-      - c) Podmienky ich získavania
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – neonatologické pracoviská.
+        - Rodné číslo, meno a priezvisko, pohlavie, dátum narodenia, dátum úmrtia, tituly pred menom a za menom, štátne občianstvo, štát a miesto trvalého pobytu, odbor(y) a rok(y) získanej odbornej spôsobilosti a prípravy na odbornú spôsobilosť, kategória zdravotníckeho pracovníka, kód lekára a vybraného pracovníka v zdravotníctve pridelený úradom pre dohľad, registračné číslo a začiatok a ukončenie registrácie v stavovskej organizácii v zdravotníctve, druh úväzku, úväzok, zaradenie do evidenčného počtu a začiatok a ukončenie právneho vzťahu umožňujúceho poskytovať zdravotnú starostlivosť, zdravotnícke povolanie, odbor, poskytovanie zdravotnej starostlivosti, funkcia, úväzok, začiatok a ukončenie poskytovania zdravotnej starostlivosti, odborný útvar a miesto výkonu práce.
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa druhého nasledujúceho mesiaca po narodení dieťaťa).
+      - b) Účel spracovávania osobných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Naplnenie identifikačnej, registračnej, integračnej, informačnej a štatistickej funkcie registra na národnej a medzinárodnej úrovni; tvorba a vyhodnocovanie štatistických výstupov vrátane demografických, a to na základe požiadaviek oprávnených tuzemských a zahraničných užívateľov.
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+      - c) Okruh dotknutých osôb
 
-      - d) Okruh dotknutých osôb
+        - Fyzické osoby, ktoré získali odbornú spôsobilosť na výkon zdravotníckeho povolania a v určených právnych vzťahoch pôsobia alebo pôsobili v organizáciách poskytovateľov zdravotnej alebo lekárenskej starostlivosti, organizáciách poskytovateľov služieb súvisiacich s poskytovaním zdravotnej starostlivosti, organizáciách poskytovateľov služieb súvisiacich so zabezpečovaním starostlivosti o poistencov, ktorá nadväzuje na zdravotnú starostlivosť, a vo vybraných organizáciách registrovaných na účely štatistického zisťovania v rezorte zdravotníctva.
 
-        - Rodičky a ich živo narodené deti, narodené v ústavnom zdravotníckom zariadení alebo narodené mimo ústavného zdravotníckeho zariadenia a následne hospitalizované na novorodeneckom pracovisku, mŕtvo narodené deti s pôrodnou hmotnosťou vyššou ako 1 000 gramov.
+      - d) Účel poskytovania osobných údajov
 
-    - 4. Názov zisťovania: Hlásenie vrodenej chyby
+        - Budovanie a zabezpečenie funkčnosti jednotného informačného systému v oblasti zdravotníctva a jeho priebežná aktualizácia v súčinnosti s tretími stranami ako nástroja pre riadiacu a kontrolnú činnosť Ministerstva zdravotníctva Slovenskej republiky.
 
-      - a) Zoznam osobných údajov
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
 
-        - Rodné číslo dieťaťa s vrodenou chybou, pohlavie, informácie týkajúce sa tehotenstva (týždeň tehotenstva, počet plodov v tehotenstve, uskutočnené prenatálne vyšetrenie, vrodená chyba plodu zistená prenatálne, vrodená chyba plodu zistená prenatálne v týždni tehotenstva, prerušenie tehotenstva z dôvodu prenatálne zistenej vrodenej chyby plodu, dátum prerušenia tehotenstva), informácie o dieťati (pôrodná hmotnosť, pôrodná dĺžka, stav dieťaťa, záchytnosť vrodenej chyby), informácie o matke (rodné číslo, rodinný stav, ekonomická aktivita, predchádzajúce tehotenstvá, kód okresu trvalého bydliska v Slovenskej republike), informácie o otcovi (rok narodenia, ekonomická aktivita), informácie týkajúce sa vrodenej chyby (diagnózy vrodených chýb dieťaťa podľa MKCH – 10, kombinovaná vrodená chyba, výskyt vrodenej chyby v príbuzenstve dieťaťa). V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+        - Rodné číslo, meno a priezvisko, pohlavie, dátum narodenia, dátum úmrtia, tituly pred menom a za menom, štátne občianstvo, štát a adresa trvalého pobytu, odbor(y) a rok(y) získanej odbornej spôsobilosti a prípravy na odbornú spôsobilosť, kategória zdravotníckeho pracovníka, kód lekára a vybraného pracovníka v zdravotníctve pridelený úradom pre dohľad, registračné číslo a začiatok a ukončenie registrácie v stavovskej organizácii v zdravotníctve, druh úväzku, úväzok, zaradenie do evidenčného počtu a vymedzujúce dátumy právneho vzťahu k spravodajskej jednotke, zdravotnícke povolanie, odbor, poskytovanie zdravotnej starostlivosti, funkcia, úväzok, začiatok a ukončenie poskytovania zdravotnej starostlivosti, odborný útvar a miesto výkonu práce.
 
-      - b) Účel ich spracúvania
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o výskyte vrodených chýb u živo narodených, mŕtvo narodených detí a o počte vykonaných umelých prerušení tehotenstva z dôvodu prenatálne zistenej vrodenej chyby plodu. Spracované údaje sa využijú na vykonanie etiologickej analýzy vrodených chýb, na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+        - Ministerstvo zdravotníctva, Slovenská zdravotnícka univerzita, stavovské organizácie v zdravotníctve, Štatistický úrad Slovenskej republiky, úrad pre dohľad, zdravotné poisťovne, Ministerstvo obrany Slovenskej republiky, Ministerstvo vnútra Slovenskej republiky, Ministerstvo spravodlivosti Slovenskej republiky, Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky a Sociálna poisťovňa.
 
-      - c) Podmienky ich získavania
+  - B. Národné zdravotné registre
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – novorodenecké oddelenia, gynekologické oddelenia, gynekologicko-pôrodnícke oddelenia.
+    - Účelom spracovávania osobných údajov v národných zdravotných registroch je získať informácie pre štatistickú analýzu zdravotného stavu populácie Slovenskej republiky, podklady pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva. Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat. Prevádzkovateľovi registra poskytnú údaje poskytovatelia formou príslušných tlačových formulárov alebo im zodpovedajúcou elektronickou formou, ktorých podrobnosti určí národné centrum. Na účely štatistickej analýzy úmrtnosti obyvateľov sú využívané ako administratívny zdroj údajov List o prehliadke mŕtveho a štatistické hlásenia o úmrtí (formulár Obyv. 3-12), ktorého prostredníctvom je Štatistický úrad Slovenskej republiky oprávnený zisťovať meno a priezvisko, rodné číslo, obec trvalého pobytu, adresu trvalého pobytu a príčiny smrti zomretých a poskytovať ich v elektronickej forme národnému centru. Pre rovnaké účely zisťuje meno, priezvisko, rodné číslo, obec trvalého pobytu, adresu trvalého pobytu a záverečné diagnózy podľa vykonanej pitvy u pitvaných osôb úrad pre dohľad a poskytuje ich v elektronickej forme národnému centru. Zisťovanie údajov je realizované formou príslušných tlačových formulárov alebo im zodpovedajúcou elektronickou formou. Podrobnosti formy a spôsob komunikácie určí národné centrum.
 
-        - Periodicita: mesačne (do 25. kalendárneho dňa po sledovanom období).
+    - 1. Národný register základných zdravotných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa trvalého pobytu, údaje o poučení a informovanom súhlase, anamnestické údaje vrátane výskytu rizikových faktorov u osoby a v jej rodine, údaje o chorobe osoby, o výsledkoch preventívnych výkonov a vyšetrení o priebehu liečby a ďalších významných okolnostiach súvisiacich so zdravotným stavom osoby a s postupom pri poskytovaní zdravotnej starostlivosti, kódy diagnóz podľa MKCH, špecifikácia diagnóz, dátum prvých príznakov, údaje o rozsahu poskytnutej zdravotnej starostlivosti, súhrnné hodnotenie zdravotného stavu, priebehu ochorenia a liečby (epikríza), epidemiologicky závažné skutočnosti, v prípade smrti osoby, dátum smrti, príčina smrti, patologicko-anatomické diagnózy, identifikačné údaje príslušnej zdravotnej poisťovne, identifikačné údaje poskytovateľov.
 
-      - d) Okruh dotknutých osôb
+      - b) Účel spracovávania osobných údajov
 
-        - Živo narodené a mŕtvo narodené deti s vrodenou chybou, ženy, ktorým sa narodili deti s vrodenou chybou a ženy, ktorým bolo vykonané UPT z dôvodu prenatálne zistenej vrodenej chyby plodu.
+        - Účelom spracovávania osobných údajov je zabezpečiť jednoznačné a aktuálne údaje pre potreby vedenia zdravotnej dokumentácie v elektronickej forme a elektronickej preskripcie na účely umožnenia prístupu poskytovateľom k vybraným aktuálnym údajom s cieľom umožniť kvalitnejšie, účinnejšie a bezpečnejšie poskytovať neodkladnú starostlivosť.
 
-    - 5. Názov zisťovania: Žiadosť o umelé prerušenie tehotenstva a hlásenie potratu
+      - c) Okruh dotknutých osôb
 
-      - a) Zoznam osobných údajov
+        - Všetci prijímatelia zdravotnej starostlivosti.
 
-        - Rodné číslo ženy, kód obce trvalého bydliska v Slovenskej republike, rodinný stav, vzdelanie, ekonomická aktivita, pracovisko, údaje o doterajšom počte pôrodov, spontánnych potratov a UPT, o počte živo narodených detí pred terajším potratom, vnútromaternicová antikoncepcia, údaje o terajšom druhu potratu vrátane indikácie (diagnóza podľa MKCH-10), ktorá je zdravotným dôvodom na vykonanie UPT, dátum potratu, vek plodu, u plodu nad 16 týždňov – hmotnosť, stanovenie poplatku za UPT.
+      - d) Účel poskytovania osobných údajov
 
-      - b) Účel ich spracúvania
+        - Osobné údaje z registra je možné poskytnúť len poskytovateľom na účely zabezpečenia a poskytovania zdravotnej starostlivosti podľa pravidiel a spôsobom upraveným týmto zákonom.
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o spontánnych potratoch, o umelom prerušení tehotenstva (UPT) vrátane umelého prerušenia tehotenstva zo zdravotných dôvodov a ostatných potratoch. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva, na demografickú štatistiku a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
 
-      - c) Podmienky ich získavania
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa trvalého pobytu, údaje o poučení a informovanom súhlase, anamnestické údaje vrátane výskytu rizikových faktorov u osoby a v jej rodine, údaje o chorobe osoby, o výsledkoch preventívnych výkonov a vyšetrení o priebehu liečby a ďalších významných okolnostiach súvisiacich so zdravotným stavom osoby a s postupom pri poskytovaní zdravotnej starostlivosti, kódy diagnóz podľa MKCH, špecifikácia diagnóz, dátum prvých príznakov, údaje o rozsahu poskytnutej zdravotnej starostlivosti, súhrnné hodnotenie zdravotného stavu, priebehu ochorenia a liečby (epikríza), epidemiologicky závažné skutočnosti, v prípade smrti osoby, dátum smrti, príčina smrti, patologicko-anatomické diagnózy, identifikačné údaje príslušnej zdravotnej poisťovne, identifikačné údaje poskytovateľov.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – gynekologické oddelenia, gynekologicko-pôrodnícke oddelenia.
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+        - Poskytovatelia poskytujúci zdravotnú starostlivosť dotknutej osobe v rozsahu ustanovenom osobitným predpisom.<sup>1</sup>)
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+    - 2. Národný register pacientov s onkologickým ochorením
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+      - a) Zoznam spracovávaných osobných údajov
 
-      - d) Okruh dotknutých osôb
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu v Slovenskej republike, adresa, anamnestické údaje vrátane výskytu rizikových faktorov u pacienta, profesia, SK NACE,<sup>2</sup>) zamestnávateľ a jeho prevažujúca činnosť, vyšetrenia vedúce k stanoveniu diagnózy, dátum prvých príznakov, kódy diagnóz podľa MKCH, špecifikácia diagnózy podľa topografického kódu MKCH-O, TNM klasifikácia ochorenia, klinický rozsah nádoru, histologický nález, cytologický nález, plán primárnej liečby, dátum a typ operácie, údaje o terapii, súhrnné hodnotenie liečby, dátum smrti u zomretých, príčina smrti, patologicko-anatomické diagnózy podľa MKCH.
 
-        - Ženy, ktoré spontánne potratili alebo ktorým bolo vykonané UPT vrátane UPT zo zdravotných dôvodov.
+      - b) Účel spracovávania osobných údajov
 
-    - 6. Názov zisťovania: Hlásenie pohlavnej choroby
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie onkologických ochorení na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - a) Zoznam osobných údajov
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-        - Rodné číslo, kód okresu trvalého a prechodného bydliska v Slovenskej republike, rodinný stav, pracovný stav, skupina pacienta, informácie týkajúce sa ochorenia na pohlavnú chorobu (dátum prijatia na liečbu, ochorenie, druh liečby, zdroj nákazy, gravidita, mesiac gravidity, diagnózy podľa MKCH–10, potvrdenie diagnózy).
+      - c) Okruh dotknutých osôb
 
-      - b) Účel ich spracúvania
+        - Osoby s onkologickým ochorením.
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o populácii s ochorením na pohlavné choroby prenosné sexuálnym stykom. Spracované údaje sa využijú na mapovanie epidemiologickej situácie a sú predpokladom na prijímanie epidemiologických opatrení, ako aj na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+    - 3. Národný register pacientov s diabetes mellitus 1. typu
 
-      - c) Podmienky ich získavania
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – dermatovenerologické oddelenia a ambulancie.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, dátum zistenia diagnózy DM, výskyt diabetu v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, posledný infekt pred ochorením (diagnóza, liečba), prvé klinické príznaky, vybrané biochemické výsledky (glykémia bazálna a postprandiálna, glykozúria, ketoacidóza, HbAlc), liečba (denná dávka inzulínu, typ inzulínu, diéta), stav pacienta ku dňu hlásenia, trvanie remisie, hospitalizácie (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta a zákonných zástupcov pri liečebnom režime.
 
-        - Periodicita: mesačne (do 25. kalendárneho dňa po sledovanom období).
+      - b) Účel spracovávania osobných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie diabetu 1. typu na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-      - d) Okruh dotknutých osôb
+      - c) Okruh dotknutých osôb
 
-        - Osoby s ochorením na pohlavné choroby prenosné sexuálnym stykom.
+        - Osoby s diabetes mellitus 1. typu.
 
-    - 7. Názov zisťovania: Hlásenie choroby z povolania alebo ohrozenia chorobou z povolania
+    - 4. Národný register pacientov s vrodenou chybou srdca
 
-      - a) Zoznam osobných údajov
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Typ choroby, špecifikácia choroby, rodné číslo, kód okresu trvalého bydliska v Slovenskej republike, organizácia, kde choroba z povolania vznikla (kód obce, IČO), zamestnanie poškodeného, ekonomická aktivita zamestnávateľa, položka zo zoznamu chorôb z povolania, diagnóza podľa MKCH-10, závažnosť choroby z povolania pri jej priznaní, závažnosť choroby, dátum prvého zistenia, dátum priznania, expozícia – príčinný faktor, expozícia – produkt podľa použitia, schopnosť doterajšieho výkonu práce.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa zákonného zástupcu, dátum zistenia srdcovej chyby, klinické diagnózy (kódy diagnóz podľa MKCH a kódy podľa špecifického číselníka VCHS), výskyt vrodených chýb srdca v rodine, údaje o tehotenstve a pôrode, kontakt matky so škodlivinami prostredia, spôsob korekcie chyby vrátane dátumu, pracovisko, ktoré korekciu vykonalo, dátum smrti u zomretých, patologicko-anatomická diagnóza, zhodnosť klinickej a patologickej diagnózy (kódy podľa MKCH).
 
-      - b) Účel ich spracúvania
+      - b) Účel spracovávania osobných údajov
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o pracovných podmienkach a pracovnom prostredí s cieľom poskytnúť prehľad o novopriznaných chorobách z povolania alebo ohrozeniach chorobou z povolania. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie vrodených chýb srdca na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - c) Podmienky ich získavania a poskytovania
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – kliniky/oddelenia pracovného lekárstva a toxikológie.
+      - c) Okruh dotknutých osôb
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+        - Osoby s vrodenou chybou srdca.
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+    - 5. Národný register pacientov so srdcovocievnym ochorením
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+      - a) Zoznam spracovávaných osobných údajov
 
-      - d) Okruh dotknutých osôb
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH, začiatok akútnych príznakov, miesto začatia liečby, klinické príznaky, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas začatia, podané lieky, realizované výkony), efekt liečby, dátum smrti u zomretých, patologicko-anatomické diagnózy podľa MKCH.
 
-        - Osoby, ktorým bola novopriznaná choroba z povolania alebo ohrozenie chorobou z povolania.
+      - b) Účel spracovávania osobných údajov
 
-    - 8. Názov zisťovania: Štatistický lístok pacienta prijatého do ústavnej starostlivosti v psychiatrickom zariadení
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie srdcovocievnych ochorení na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - a) Zoznam osobných údajov
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-        - Rodné číslo, kód okresu trvalého a prechodného bydliska v Slovenskej republike, občianstvo, rodinný stav, charakter kontaktu (dátum prijatia, prijatie pacienta – s jeho súhlasom/bez jeho súhlasu, vôbec prvé, prvé v sledovanom roku, opakované v sledovanom roku, prijatý z predchádzajúceho obdobia, kontakt s týmto zariadením, čas od predchádzajúcej hospitalizácie), sociálno-ekonomické informácie (spôsob života – s kým, spôsob života – kde, najvyššia úroveň ukončeného vzdelania, pracovný stav), informácie týkajúce sa liečby (kód hlavnej psychiatrickej diagnózy, diagnózy vedúcej bezprostredne k prijatiu, inej nepsychiatrickej diagnózy súvisiacej s duševnou poruchou podľa MKCH-10), druh psychiatrickej liečby (psychofarmaká, iná liečba/lieky, psychoterapia, psychosociálna rehabilitácia)), informácie týkajúce sa prepustenia/prekladu/úmrtia, starostlivosť (psychiatrická) po prepustení/preklade, prepustenie pacienta do konca sledovaného roka, dátum prepustenia/prekladu/úmrtia.
+      - c) Okruh dotknutých osôb
 
-      - b) Účel ich spracúvania a poskytovania
+        - Osoby so srdcovocievnym ochorením.
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o populácii hospitalizovanej v psychiatrických zdravotníckych zariadeniach a o požiadavkách na ďalšiu starostlivosť. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+    - 6. Národný register pacientov s cievnym ochorením mozgu
 
-      - c) Podmienky ich získavania
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – posteľové psychiatrické, gerontopsychiatrické, pedopsychiatrické oddelenia, oddelenia pre liečbu drogových závislostí a toxikománie.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH, typ mozgovej príhody, začiatok akútnych príznakov, miesto začatia liečby, výskyt typických klinických príznakov, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas začatia liečby, podané lieky, realizované výkony), dátum smrti u zomretých, patologicko-anatomické diagnózy podľa MKCH.
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+      - b) Účel spracovávania osobných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie cievnych ochorení mozgu na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-      - d) Okruh dotknutých osôb
+      - c) Okruh dotknutých osôb
 
-        - Prijatí do ústavnej starostlivosti v psychiatrických zdravotníckych zariadeniach ústavnej starostlivosti.
+        - Osoby s cievnou mozgovou príhodou.
 
-    - 9. Názov zisťovania: Hlásenie príčin a okolností úmyselného sebapoškodenia
+    - 7. Národný register pacientov s chronickým ochorením pľúc
 
-      - a) Zoznam osobných údajov
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Rodné číslo, kód okresu trvalého a prechodného bydliska v Slovenskej republike, občianstvo, rodinný stav, najvyššia úroveň ukončeného vzdelania, pracovný stav, informácie týkajúce sa úmyselného sebapoškodenia (druh úmyselného sebapoškodenia, vykonanie činu – dátum vykonania činu, deň v týždni, hodina, spôsob vykonania činu – kódy diagnóz podľa MKCH–10, kód psychiatrickej diagnózy podľa MKCH-10, motív činu, opakovaný pokus, demonštratívny pokus, prítomnosť alkoholu alebo návykovej látky – psychotropnej látky, laboratórne potvrdenie, psychiatrická liečba pred terajším samovražedným pokusom v anamnéze pacienta, vykonaná pitva v prípade samovraždy).
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, dátum zistenia diagnózy, výskyt chronických ochorení pľúc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, klinické príznaky, vybrané biochemické výsledky, liečba, realizované výkony, stav pacienta ku dňu hlásenia, hospitalizácia (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta pri liečebnom režime, dátum smrti u zomretých, patologicko-anatomická diagnóza podľa MKCH.
 
-      - b) Účel ich spracúvania
+      - b) Účel spracovávania osobných údajov
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie na rozbor príčin a okolností úmyselného sebapoškodenia (samovraždy alebo samovražedného pokusu). Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu, OECD a Eurostat v agregovanom tvare.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie chronických ochorení pľúc na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - c) Podmienky ich získavania
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – v prípade samovražedného pokusu psychiatrické, gerontopsychiatrické, pedopsychiatrické oddelenia a ambulancie a v prípade samovraždy kliniky/oddelenia súdneho lekárstva.
+      - c) Okruh dotknutých osôb
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+        - Osoby s chronickým ochorením pľúc.
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+    - 8. Národný transplantačný register
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+      - a) Zoznam spracovávaných osobných údajov
 
-      - d) Okruh dotknutých osôb
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, telefónny kontakt, zdravotná poisťovňa, kódy diagnóz podľa MKCH, výskyt rizikových faktorov u pacienta, medicínske údaje súvisiace s odberom a transplantáciou orgánov, tkanív a buniek, dátum vyjadrenia prípadného nesúhlasu s vykonaním pitvy po svojej smrti alebo s odobratím orgánov, tkanív a buniek po svojej smrti, dátum smrti u zomretých, patologicko-anatomická diagnóza podľa MKCH.
 
-        - Osoby, ktorým bola poskytnutá zdravotná starostlivosť v psychiatrických zdravotníckych zariadeniach po samovražednom pokuse a telo osoby po vykonanej dokonanej samovražde po súdnolekárskej alebo súdnej pitve.
+      - b) Účel spracovávania osobných údajov
 
-    - 10. Názov zisťovania: Hlásenie o ukončenej kúpeľnej liečbe
+        - Účelom spracovávania osobných údajov je registrácia čakateľov na transplantáciu orgánov, tkanív a buniek, registrácia darcov orgánov, tkanív a buniek a registrácia pacientov po transplantácii, ako aj osôb, ktoré počas svojho života vyjadrili nesúhlas s vykonaním pitvy po svojej smrti alebo s odobratím orgánov, tkanív a buniek po svojej smrti.
 
-      - a) Zoznam osobných údajov
+      - c) Okruh dotknutých osôb
 
-        - Rodné číslo, kód okresu trvalého bydliska v Slovenskej republike/prechodného bydliska v Slovenskej republike, kód krajiny, pracovný stav, poisťovňa/platca, druh starostlivosti, dĺžka pobytu, indikačná skupina pre kúpeľnú starostlivosť, kód diagnózy podľa MKCH-10, výsledok liečenia, dátum ukončenia kúpeľnej liečby.
+        - Osoby so základným ochorením, pre ktoré transplantácia predstavuje účinnú formu liečby, potenciálni darcovia orgánov, tkanív a buniek, osoby ktoré podstúpili transplantáciu, osoby, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov a tkanív po smrti.
 
-      - b) Účel ich spracúvania
+      - d) Účel poskytovania osobných údajov
 
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o ukončenej kúpeľnej liečbe v prírodných liečebných kúpeľoch. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva.
+        - Osobné údaje z registra je možné poskytnúť na účely transplantácie vybratým poskytovateľom (transplantačné centrá, tkanivové banky, dialyzačné centrá) a do európskych a svetových registrov čakateľov na transplantáciu a registrov darcov orgánov, tkanív a buniek.
 
-      - c) Podmienky ich získavania
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
 
-        - Vymedzenie spravodajských jednotiek: prírodné liečebné kúpele
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, telefónny kontakt, zdravotná poisťovňa, kódy diagnóz podľa MKCH, výskyt rizikových faktorov u pacienta, medicínske údaje súvisiace s odberom a transplantáciou orgánov, tkanív a buniek, dátum vyjadrenia prípadného nesúhlasu s odobratím orgánov po smrti, dátum smrti u zomretých, patologicko-anatomická diagnóza podľa MKCH.
 
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Vybraní poskytovatelia (transplantačné centrá, tkanivové banky, dialyzačné centrá) a európske a svetové registre čakateľov na transplantáciu a registre darcov orgánov, tkanív a buniek.
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+    - 9. Národný register pacientov s tuberkulózou
 
-      - d) Okruh dotknutých osôb
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Osoby, ktorým bola poskytnutá kúpeľná starostlivosť v prírodných liečebných kúpeľoch.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, dátum zistenia diagnózy, forma ochorenia, kontakty, výskyt tbc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, údaje o vakcinácii, klinické príznaky, vybrané biochemické a mikrobiologické výsledky, údaje o liečbe, klinický stav pacienta, hospitalizácie, úroveň spolupráce pacienta pri liečebnom režime, dátum smrti u zomretých, patologicko-anatomická diagnóza podľa MKCH.
 
-    - 11. Názov zisťovania: Hlásenie liečby užívateľa drog
+      - b) Účel spracovávania osobných údajov
 
-      - a) Zoznam osobných údajov
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie tuberkulózy na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-        - Rodné číslo (kód klienta), vek klienta, pohlavie, občianstvo, rodinný stav, kód okresu trvalého bydliska v Slovenskej republike/prechodného bydliska v Slovenskej republike, bydlisko v zahraničí (kód krajiny), charakter kontaktu (dátum prijatia na liečbu, liečený kedykoľvek predtým, kontakt s týmto zariadením), sociálno-ekonomické informácie (spôsob života – s kým, klient žije s osobou užívajúcou drogy, spôsob života – kde, najvyššia úroveň ukončeného vzdelania, pracovný stav), informácie týkajúce sa drog (vek pri prvom užití akejkoľvek drogy, kód primárnej drogy (P) podľa Pompiduovej skupiny, kód psychiatrickej diagnózy podľa MKCH-10, spôsob podávania a frekvencia užívania primárnej drogy (P), vek pri prvom užití primárnej drogy (P), substitučná liečba, kód sekundárnej drogy podľa Pompiduovej skupiny (S1–S4), rizikové faktory – použitie injekčnej striekačky, použitie spoločnej injekčnej striekačky a ihly s iným užívateľom drog, vyšetrenie HIV a vírusovej hepatitídy, zahájenie liečby užívateľa drog – len pre zdravotnícke zariadenia Ministerstva spravodlivosti Slovenskej republiky).
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD, Eurostat, Central Intelligence System for Infectious Diseases vo WHO a EUROTB.
 
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je získať informácie o liečených užívateľoch drog. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva a na medzinárodné porovnanie pre Svetovú zdravotnícku organizáciu a prostredníctvom Európskeho monitorovacieho centra pre drogy a drogovú závislosť pre členské štáty Európskej únie, Európsky parlament a Európsku komisiu v agregovanom tvare.
-
-      - c) Podmienky ich získavania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – posteľové a ambulantné špecializované a nešpecializované pracoviská poskytujúce liečbu drogovo závislým.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Užívatelia drog, ktorým bola poskytnutá medicínska liečba v súvislosti s užívaním drog.
-
-  - B. Štatistické registre
-
-    - 12. Názov zisťovania: Hlásenie o vzniku a zmenách poskytovateľa
-
-      - a) Zoznam osobných údajov
-
-        - Rodné číslo, meno a priezvisko, tituly, dátum menovania do funkcie.
-
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je aktualizácia Centrálneho registra zdravotníckych zariadení v časti štátne zdravotnícke zariadenia. Register slúži na podporu riadenia na úseku zdravotníctva a ako základný integračný nástroj pre štatistické zisťovania v rezorte zdravotníctva.
-
-      - c) Podmienky ich získavania
-
-        - Vymedzenie spravodajských jednotiek: všetky štátne zdravotnícke zariadenia, ako aj ďalšie organizácie, ktorých činnosť súvisí so zdravotníctvom (napr. cirkevné stredné zdravotnícke školy, zdravotné poisťovne, lekárske komory a pod.) a iné vybrané organizácie, ktoré nie sú predmetom sledovania v registri neštátnych zdravotníckych zariadení a majú uzatvorený pracovný alebo služobný vzťah s lekárom alebo farmaceutom.
-
-        - Periodicita: ročná (do 10 kalendárnych dní od obdržania tlačiva).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Štatutárni zástupcovia organizácie (riaditelia zdravotníckych zariadení, prípadne vedúci začlenených zdravotníckych zariadení).
-
-    - 13. Názov zisťovania: Hlásenie pre zápis neštátneho zdravotníckeho zariadenia do registra zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky; predkladateľ – právnická osoba
-
-      - a) Zoznam osobných údajov
-
-      - – podľa zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov: obchodné meno, sídlo, právnu formu, identifikačné číslo, meno a priezvisko, miesto trvalého pobytu, rodné číslo odborného zástupcu a štatutárneho orgánu, druh zdravotníckeho zariadenia a rozsah činnosti, ako aj miesto výkonu činnosti, deň začatia činnosti, dátum vydania povolenia a údaj o zaradení zdravotníckeho zariadenia do siete zdravotníckych zariadení,
-
-      - – podľa zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona NR SR č. 220/1996 Z. z. o reklame: obchodné meno, sídlo, právnu formu, identifikačné číslo, ako aj meno a priezvisko, miesto trvalého pobytu a rodné číslo osoby alebo osôb, ktoré sú štatutárnym orgánom, a meno a priezvisko, miesto trvalého pobytu, rodné číslo odborného zástupcu, druh a rozsah zaobchádzania, ako aj miesto výkonu činnosti, deň začatia činnosti a dátum vydania povolenia.
-
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je aktualizácia registra zdravotníckych zariadení vyšších územných celkov Slovenskej republiky v časti právnické osoby s cieľom aktualizovať Centrálny register zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky (ďalej len Centrálny register). Centrálny register poskytuje základné informácie charakterizujúce zdravotnícke zariadenia právnických osôb vrátane ich organizačnej štruktúry a územného rozmiestnenia. Centrálny register slúži na podporu riadenia zdravotníctva Slovenskej republiky. Je základným integračným nástrojom, ktorý slúži na vymedzenie spravodajskej povinnosti v sektore zdravotníctva, na zabezpečenie štatistických zisťovaní. Údaje z Centrálneho registra slúžia aj pre potreby zahraničných organizácií pôsobiacich v zdravotníctve, Štatistickému úradu Slovenskej republiky a územným orgánom Slovenskej republiky.
-
-      - c) Podmienky ich získania
-
-        - Vymedzenie spravodajských jednotiek: právnické osoby, ktorým bolo vydané povolenie na poskytovanie zdravotnej starostlivosti podľa zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov a podľa zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona NR SR č. 220/1996 Z. z. o reklame.
-
-        - Periodicita: neperiodické (do 8. dňa po zahájení činnosti alebo nadobudnutia účinnosti zmeny štatisticky významných údajov o zdravotníckych zariadeniach právnickej osoby).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Osoby, ktoré sú uvedené v povolení podľa príslušných zákonov uvedených v bode c).
-
-    - 14. Názov zisťovania: Hlásenie pre zápis neštátneho zdravotníckeho zariadenia do registra zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky; predkladateľ – fyzická osoba
-
-      - a) Zoznam osobných údajov
-
-      - – podľa zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov: meno a priezvisko, miesto trvalého pobytu, rodné císlo, druh zdravotníckeho zariadenia a rozsah činnosti, miesto výkonu činnosti, deň začatia činnosti, dátum vydania povolenia a údaj o zaradení zdravotníckeho zariadenia do siete zdravotníckych zariadení,
-
-      - – podľa zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona NR SR č. 220/1996 Z. z. o reklame: meno a priezvisko, miesto trvalého pobytu, rodné číslo, obchodné meno, identifikačné číslo, druh a rozsah činnosti, miesto výkonu činnosti, deň začatia činnosti a dátum vydania povolenia. Ak bol ustanovený odborný zástupca, obsahuje jeho meno a priezvisko, miesto trvalého pobytu a rodné číslo.
-
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je aktualizácia registra zdravotníckych zariadení vyšších územných celkov Slovenskej republiky v časti fyzické osoby s cieľom aktualizovať Centrálny register zdravotníckych zariadení Ministerstva zdravotníctva Slovenskej republiky (ďalej len Centrálny register). Centrálny register poskytuje základné informácie charakterizujúce zdravotnícke zariadenia fyzických osôb vrátane ich organizačnej štruktúry a územného rozmiestnenia. Centrálny register slúži na podporu riadenia zdravotníctva Slovenskej republiky. Je základným integračným nástrojom, ktorý slúži na vymedzenie spravodajskej povinnosti v sektore zdravotníctva, na zabezpečenie štatistických zisťovaní. Údaje z Centrálneho registra slúžia aj pre potreby zahraničných organizácií pôsobiacich v zdravotníctve, Štatistickému úradu Slovenskej republiky a územným orgánom Slovenskej republiky.
-
-      - c) Podmienky ich získania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: fyzické osoby, ktorým bolo vydané povolenie na poskytovanie zdravotnej starostlivosti podľa zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov a podľa zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona NR SR č. 220/1996 Z. z. o reklame.
-
-        - Periodicita: neperiodické (do 8. dňa po zahájení činnosti alebo nadobudnutia účinnosti zmeny štatisticky významných údajov o zdravotníckych zariadeniach fyzickej osoby).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Osoby, ktoré sú uvedené v povolení podľa príslušných zákonov uvedených v bode c).
-
-    - 15. Názov zisťovania: Register lekárov a farmaceutov
-
-      - a) Zoznam osobných údajov
-
-        - Rodné číslo, meno a priezvisko, štátna príslušnosť, adresa trvalého bydliska, vzdelanie, rok promócie, tituly, kvalifikačné atestácie, špecializačná príprava, odbor vykonávanej činnosti, adresa výkonu činnosti.
-
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je registrácia nového – ďalšieho právneho vzťahu lekára/farmaceuta k zamestnávateľskej organizácii a hlásenie zmien v údajoch už registrovaného právneho vzťahu lekára/ farmaceuta k organizácii. Spracované údaje sú podkladom pre riadiacu činnosť Ministerstva zdravotníctva Slovenskej republiky.
-
-      - c) Podmienky ich získavania
-
-        - Vymedzenie spravodajských jednotiek: všetci lekári/farmaceuti, ktorí majú právny vzťah k organizáciám, ktoré sú uvedené v Centrálnom registri zdravotníckych zariadení.
-
-        - Periodicita: neperiodické.
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Osoby, ktoré sú uvedené v predmetnom registri.
-
-  - C. Národné zdravotnícke registre
-
-    - 16. Názov registra: Národný register pacientov s onkologickým ochorením
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, zamestnávateľ a zamestnanie, anamnestické údaje vrátane výskytu rizikových faktorov u pacienta, vyšetrenia vedúce k stanoveniu diagnózy, dátum prvých príznakov, kódy diagnóz podľa MKCH-10, špecifikácia diagnózy podľa topografického kódu MKCH-O, TNM klasifikácia ochorenia, klinický rozsah nádoru, histologický nález, cytologický nález, plán primárnej liečby, dátum a typ operácie, údaje o terapii, súhrnné hodnotenie liečby, dátum smrti, príčina smrti, patologicko-anatomické diagnózy.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine onkologických ochorení výrazne ovplyvňujúcej úroveň zdravotného stavu obyvateľstva, ukazovateľov chorobnosti a úmrtnosti, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia, poskytovatelia zdravotnej starostlivosti.
-
-        - Periodicita: priebežne najneskôr do troch mesiacov od stanovenia diagnózy.
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári (Hlásenie zhubného nádoru) alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Pacienti s onkologickým ochorením.
-
-    - 17. Názov registra: Národný register pacientov s vrodenou chybou srdca
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa zákonného zástupcu, PSČ, dátum zistenia srdcovej chyby, klinické diagnózy (kódy diagnóz podľa MKCH-10 a kódy podľa špecifického číselníka VCHS), výskyt vrodených chýb srdca v rodine, údaje o tehotenstve a pôrode, kontakt matky so škodlivinami prostredia, spôsob korekcie chyby vrátane dátumu, pracovisko, ktoré korekciu vykonalo, dátum exitu u exitovaných, patologicko-anatomická diagnóza, zhodnosť klinickej a patologickej diagnózy (kódy podľa MKCH-10).
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine vrodených chýb výrazne ovplyvňujúcej úroveň novorodeneckej a dojčenskej úmrtnosti, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – neonatologické a pediatrické oddelenia, ambulancie detskej kardiológie, detské kardiocentrá.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Deti s vrodenou chybou srdca.
-
-    - 18. Názov registra: Národný register pacientov so srdcovocievnym ochorením
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, začiatok akútnych príznakov, miesto začatia liečby, klinické príznaky, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas zahájenia, podané lieky, realizované výkony), efekt liečby, dátum smrti, patologicko-anatomické diagnózy.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – lôžkové koronárne a interné oddelenia.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Pacienti s akútnou koronárnou príhodou vo vekovej skupine nad 25 rokov.
-
-    - 19. Názov registra: Národný register pacientov s cievnou mozgovou príhodou
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, najvyššie ukončené vzdelanie, charakter prevažujúcej práce, kódy diagnóz podľa MKCH-10, typ mozgovej príhody, začiatok akútnych príznakov, miesto zahájenia liečby, výskyt typických klinických príznakov, výskyt ochorení srdca a ciev v rodine, výskyt rizikových faktorov u pacienta, liečba (čas začatia liečby, podané lieky, realizované výkony), dátum smrti, patologicko-anatomické diagnózy podľa MKCH-10.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia ústavnej starostlivosti – právne subjekty (posteľové neurologické, interné a geriatrické oddelenia, JIS).
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Pacienti s cievnou mozgovou príhodou bez vekového obmedzenia.
-
-    - 20. Názov registra: Národný register pacientov s diabetes mellitus typ l
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy DM, výskyt diabetu v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, posledný infekt pred ochorením (diagnóza, liečba), prvé klinické príznaky, vybrané biochemické výsledky (glykémia bazálna a postprandiálna, glykozúria, ketoacidóza, HbAlc), liečba (denná dávka inzulínu, typ inzulínu, diéta), stav pacienta ku dňu hlásenia, trvanie remisie, hospitalizácie (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta a zákonných zástupcov pri liečebnom režime.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnom ochorení hromadného výskytu, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia (projekt EURODIAB), OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – diabetologické ambulancie, detské oddelenia, interné oddelenia.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Pacienti s diabetes mellitus typ 1.
-
-    - 21. Názov registra: Národný register pacientov s chronickým ochorením pľúc
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy, výskyt chronických ochorení pľúc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, klinické príznaky, vybrané biochemické výsledky, liečba, realizované výkony, stav pacienta ku dňu hlásenia, hospitalizácia (miesto hospitalizácie, počet hospitalizácií, počet kontrol), úroveň spolupráce pacienta pri liečebnom režime, dátum smrti, patologicko-anatomická diagnóza podľa MKCH-10.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je získať informácie pre trvalé zlepšenie poskytovania zdravotnej starostlivosti zmenou klinickej praxe s využitím faktov na zlepšenie zdravotníckych služieb (Evidence Based Medicine), skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnej skupine ochorení výrazne ovplyvňujúcej úroveň chorobnosti a úmrtnosti populácie, ako aj na hodnotenie zdravotného stavu obyvateľstva. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia, poskytovatelia zdravotnej starostlivosti.
-
-        - Periodicita: mesačne (do 10. kalendárneho dňa po sledovanom období).
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-        - Osoby s vybranými chronickými ochoreniami pľúc.
-
-    - 22. Názov registra: Národný transplantačný register
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, telefónny kontakt, zdravotná poisťovňa, kódy diagnóz podľa MKCH-10, výskyt rizikových faktorov u pacienta, medicínske údaje súvisiace s odberom a transplantáciou orgánov, tkanív a buniek, dátum vyjadrenia prípadného nesúhlasu s odobratím orgánov po smrti.
-
-      - b) Účel ich spracúvania
-
-        - Účelom štatistického zisťovania a spracúvania je registrácia čakateľov na transplantáciu orgánov, tkanív a buniek, darcov orgánov, tkanív a buniek a transplantácií s následnou možnosťou poskytovania údajov vybratým poskytovateľom (transplantačné centrá, tkanivové banky, dialyzačné centrá) a do európskych a svetových registrov, ako aj osôb, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov po smrti.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: poskytovatelia zdravotnej starostlivosti, osoby spôsobilé na právne úkony a zákonní zástupcovia osôb nespôsobilých dať informovaný súhlas.
-
-        - Periodicita: priebežný zber údajov.
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
-
-      - – pacienti so základným ochorením, pre ktoré transplantácia predstavuje účinnú formu liečby,
-
-      - – potenciálni darcovia orgánov, tkanív a buniek,
-
-      - – osoby, ktoré počas svojho života vyjadrili nesúhlas s odobratím orgánov a tkanív po smrti,
-
-      - – pacienti, ktorí podstúpili transplantáciu.
-
-    - 23. Názov registra: Národný register pacientov s prenosným ochorením
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, vzdelanie, zamestnanie, kódy diagnóz sledovaných infekčných ochorení podľa MKCH-10, forma ochorenia, začiatok ochorenia, dátum hlásenia, etiológia, miesto nákazy, profesionalita ochorenia, údaje o vakcinácii, doplnkové údaje (miesto a čas zahájenia liečby, hospitalizácia, výskyt klinických príznakov, kontakty, výskyt rizikových faktorov u pacienta), liečba (čas začatia liečby, podané lieky), výsledok liečby, špecifické údaje o nemocničných nákazách (miesto hospitalizácie, výkony, rizikové faktory), laboratórne výsledky, mikrobiologické výsledky, dátum smrti, patologicko-anatomické diagnózy.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je analyzovať epidemiologické charakteristiky prenosných ochorení vrátane HIV/AIDS a tbc a na ich základe prijímať opatrenia preventívneho alebo represívneho charakteru a hodnotiť ich účinnosť.
-
-        - Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat v agregovanom tvare. V zmysle smerníc EÚ sú vybrané prenosné ochorenia hlásené do siete WHO a EU aj na individuálnej úrovni.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: poskytovatelia zdravotnej starostlivosti (povinné hlásenie), regionálne úrady verejného zdravotníctva, Úrad verejného zdravotníctva Slovenskej republiky.
-
-        - Periodicita: priebežný zber údajov.
-
-        - Použitá metóda: vyčerpávajúce zisťovanie, aktívna surveillance.
-
-        - Získavanie osobných údajov: v tlačovom formulári (Hlásenie o prenosnom ochorení), v elektronickej forme, v prípadoch určených zákonom aj telefonicky, osobne alebo poslom.
-
-      - d) Okruh dotknutých osôb
-
-        - Osoby s vybranými prenosnými ochoreniami, nosiči choroboplodných mikroorganizmov na území Slovenskej republiky.
-
-    - 24. Názov registra: Národný register pacientov s tuberkulózou
-
-      - a) Zoznam osobných údajov
-
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, adresa, PSČ, dátum zistenia diagnózy, forma ochorenia, kontakty, výskyt tbc v rodine, výskyt iných ochorení v rodine, prekonané ochorenia, údaje o vakcinácii, klinické príznaky, vybrané biochemické a mikrobiologické výsledky, liečba, klinický stav pacienta, hospitalizácie, úroveň spolupráce pacienta pri liečebnom režime, dátum smrti, patologicko-anatomická diagnóza podľa MKCH-10.
-
-      - b) Účel ich spracúvania
-
-        - Účelom zberu údajov do registra a ich spracúvania je mapovanie výskytu tuberkulózy v Slovenskej republike, skvalitnenie preventívnych opatrení, zlepšenie zdravotného stavu občanov a rozvoj epidemiologických poznatkov o závažnom ochorení, ako aj hodnotenie zdravotného stavu obyvateľstva. Sleduje sa výskyt tuberkulózy, jej bakteriologický status, liečba a výsledky liečby. Sledované údaje sú podkladom pre riadiacich pracovníkov odboru TaRCH pri dohľade nad tuberkulózou. Spracované údaje sú podkladom na medzinárodné porovnanie a využíva ich Svetová zdravotnícka organizácia, OECD, Central Intelligence System for Infectious Diseases vo WHO pre potreby EUROTB a Eurostat v agregovanom tvare.
-
-      - c) Podmienky ich získavania a poskytovania
-
-        - Vymedzenie spravodajských jednotiek: sieť ambulantných oddelení TaRCH v Slovenskej republike, myko-bakteriologické laboratóriá.
-
-        - Periodicita: priebežný zber údajov.
-
-        - Použitá metóda: vyčerpávajúce zisťovanie.
-
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
-
-      - d) Okruh dotknutých osôb
+      - c) Okruh dotknutých osôb
 
         - Osoby s diagnostikovanou tuberkulózou.
 
-    - 25. Názov registra: Národný artroplastický register
+    - 10. Národný register pacientov s prenosnými ochoreniami
 
-      - a) Zoznam osobných údajov
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého bydliska v Slovenskej republike, zdravotná poisťovňa, adresa, pracovisko, dátum operácie, primárna diagnóza, predchádzajúce operácie, operačný prístup, použité profylaktické antibiotiká s dávkovaním, typ endoprotézy, operovaná strana, spôsob fixácie endoprotézy, použitý cement, cementovacia technika, typ a veľkosť komponentov endoprotézy, dátum primárnej implantácie, pracovisko, kde bola vykonaná primárna implantácia, dôvod revízie, revidované časti.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, vzdelanie, zamestnanie, kódy diagnóz sledovaných infekčných ochorení podľa MKCH, forma ochorenia, začiatok ochorenia, dátum hlásenia, etiológia, miesto nákazy, profesionalita ochorenia, údaje o vakcinácii, doplnkové údaje (miesto a čas začatia liečby, hospitalizácia, výskyt klinických príznakov, kontakty, výskyt rizikových faktorov u pacienta), liečba (čas začatia liečby, podané lieky), výsledok liečby, špecifické údaje o nemocničných nákazách (miesto hospitalizácie, výkony, rizikové faktory), laboratórne výsledky, mikrobiologické výsledky, dátum smrti u zomretých, patologicko-anatomické diagnózy podľa MKCH.
 
-      - b) Účel ich spracúvania
+      - b) Účel spracovávania osobných údajov
 
-        - Účelom zberu údajov je sledovanie prežívania jednotlivých typov endoprotéz, sledovanie počtu revízii na jednotlivých pracoviskách a ich pomerné zastúpenie, evaluácia jednotlivých parametrov a ich súvis s revíznou operáciou, poskytnutie údajov o primoimplantácii pracovisku v prípade, ak bude vykonávať revíznu operáciu, sledovanie úspešnosti prežívania na jednotlivých pracoviskách.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie infekčných ochorení vrátane HIV/AIDS na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - c) Podmienky ich získavania a poskytovania
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD, Eurostat.
 
-        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – traumatologické a ortopedické oddelenia.
+      - c) Okruh dotknutých osôb
 
-        - Periodicita: mesačne.
+        - Osoby s vybranými prenosnými ochoreniami, nosiči choroboplodných mikroorganizmov.
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+      - d) Účel poskytovania osobných údajov
 
-        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej podobe.
+        - Vybrané osobné údaje z registra je možné poskytnúť do siete WHO a EU.
 
-      - d) Okruh dotknutých osôb
+    - 11. Národný artroplastický register
 
-        - Pacienti po totálnej endoprotéze bedrového kĺbu, pacienti po endoprotéze kolenného kĺbu.
+      - a) Zoznam spracovávaných osobných údajov
 
-    - 26. Názov registra: Národný register tkanivových zariadení
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa, pracovisko, dátum operácie, primárna diagnóza, predchádzajúce operácie, operačný prístup, použité profylaktické antibiotiká s dávkovaním, typ endoprotézy, operovaná strana, spôsob fixácie endoprotézy, použitý cement, cementovacia technika, typ a veľkosť komponentov endoprotézy, dátum primárnej implantácie, pracovisko, kde bola vykonaná primárna implantácia, dôvod revízie, revidované časti, dátum smrti u zomretých, patologicko-anatomické diagnózy podľa MKCH.
 
-      - a) Zoznam osobných údajov
+      - b) Účel spracovávania osobných údajov
 
-        - Neuvádzajú sa.
+        - Účelom spracovávania osobných údajov je na základe poznania výskytu a distribúcie vykonaných implantácií endoprotéz na účely hodnotenia zdravotného stavu pacientov s implantátom získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-      - b) Účel ich spracúvania
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-        - Účelom zberu údajov je zavedenie registra všetkých tkanivových zariadení, ktoré boli zriadené a ktoré získali na svoju činnosť oprávnenie v členskom štáte.
+      - c) Okruh dotknutých osôb
 
-      - c) Podmienky ich získavania a poskytovania
+        - Osoby po totálnej endoprotéze bedrového kĺbu a osoby po endoprotéze kolenného kĺbu.
 
-        - Vymedzenie spravodajských jednotiek: tkanivové zariadenia, ako napríklad tkanivové banky, banky krvotvorných zárodočných buniek, odberové centrá pre tkanivá a bunky, spracovateľské centrá pre tkanivá a bunky, banky pupočníkovej krvi, banky zárodočných buniek, banky kmeňových a embryonálnych buniek, centrá asistovanej reprodukcie.
+    - 12. Národný register pacientov s vrodenou vývojovou chybou
 
-        - Periodicita: pri udelení a zrušení oprávnenia a všetkých zmenách, ktoré sa týkajú oprávnenia.
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu, adresa zákonného zástupcu, dátum zistenia vrodenej vývojovej chyby, klinické diagnózy (kódy diagnóz podľa MKCH a kódy podľa špecifických číselníkov, výskyt vrodených chýb v rodine, údaje o matke (rodné číslo, rodinný stav, ekonomická aktivita, kód obce trvalého pobytu v Slovenskej republike, predchádzajúce tehotenstvá), informácie o otcovi (rok narodenia, ekonomická aktivita), údaje o tehotenstve a pôrode (dĺžka tehotenstva, počet plodov, prenatálne vyšetrenie, vrodená chyba plodu zistená prenatálne, zistenie vrodenej chyby plodu, spôsob ukončenia tehotenstva, kontakt matky so škodlivinami prostredia), údaje o dieťati (pôrodná hmotnosť, pôrodná dĺžka, stav dieťaťa, vrodená chyba podľa MKCH, spôsob korekcie chyby vrátane dátumu, pracovisko, ktoré korekciu vykonalo), dátum smrti u zomretých, patologicko-anatomická diagnóza, zhodnosť klinickej a patologickej diagnózy podľa MKCH.
 
-        - Získavanie osobných údajov: nie okrem uvedenia mena zodpovednej osoby.
+      - b) Účel spracovávania osobných údajov
 
-      - d) Okruh dotknutých osôb
+        - Účelom spracovávania osobných údajov je získať informácie o výskyte vrodených vývojových chýb u živo narodených a mŕtvo narodených detí, o počte prenatálne diagnostikovaných vrodených vývojových chýb a o vykonaných umelých prerušeniach tehotenstva z dôvodu prenatálne zistenej vrodenej chyby plodu. Na základe poznania výskytu a distribúcie vrodených vývojových chýb získať informácie na účely hodnotenia zdravotného stavu populácie, pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
 
-        - Nie sú okrem uvedenia mena zodpovednej osoby.
+        - Spracované údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-    - 27. Názov registra: Národný register biobánk
+      - c) Okruh dotknutých osôb
 
-      - a) Zoznam osobných údajov
+        - Živo narodené a mŕtvo narodené deti s vrodenou vývojovou chybou, ženy, ktorým sa narodili deti s vrodenou vývojovou chybou, a ženy, ktorým bolo vykonané UPT z dôvodu prenatálne zistenej vrodenej vývojovej chyby plodu.
 
-        - Neuvádzajú sa.
+  - C. Zisťovania udalostí charakterizujúcich zdravotný stav populácie
 
-      - b) Účel ich spracúvania
+    - Zisťovania udalostí charakterizujúcich zdravotný stav populácie sú zisťovania, ktoré zbierajú a spracovávajú údaje súvisiace s poskytovaním zdravotnej starostlivosti na účely štatistickej analýzy zdravotného stavu populácie a hodnotenia jeho vývoja, ako aj pre poznania parametrov poskytovanej zdravotnej starostlivosti, pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných zlepšovanie zdravotného stavu obyvateľstva. Na účely štatistickej analýzy úmrtnosti obyvateľov sú využívané ako administratívny zdroj údajov List o prehliadke mŕtveho a štatistické hlásenia o úmrtí (formulár Obyv. 3-12), ktorého prostredníctvom je Štatistický úrad Slovenskej republiky oprávnený zisťovať meno a priezvisko, rodné číslo, obec trvalého pobytu, adresu trvalého pobytu a príčiny smrti zomretých a poskytovať ich v elektronickej forme národnému centru. Pre rovnaké účely zisťuje meno, priezvisko, rodné číslo, obec trvalého pobytu, adresu trvalého pobytu a záverečné diagnózy podľa vykonanej pitvy u pitvaných osôb úrad pre dohľad a poskytuje ich v elektronickej forme národnému centru. Zisťovania sú realizované formou príslušných tlačových formulárov hlásenia alebo správy, alebo im zodpovedajúcou elektronickou formou. Podrobnosti formy a spôsob komunikácie určí národné centrum.
 
-        - Účelom zberu údajov je zavedenie registra všetkých biobánk, ktoré boli zriadené a ktoré získali na svoju činnosť oprávnenie v členskom štáte.
+    - 1. Hlásenie o úmrtí a príčinách smrti
 
-      - c) Podmienky ich získavania a poskytovania
+      - a) Zoznam spracovávaných osobných údajov
 
-        - Vymedzenie spravodajských jednotiek: biobanky.
+        - Údaje o zomretej osobe (meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu), zdravotná poisťovňa, dátum, hodina a minúta úmrtia, miesto úmrtia, kde nastalo úmrtie, dátum narodenia, rodné číslo zomretého, miesto narodenia (okres, obec), pohlavie, štátne občianstvo, národnosť, trvalý pobyt (okres, obec, ulica a číslo, štát), povolenie pohrebu, (u detí zomretých do 1 roka života aj dĺžka života, kde nastalo úmrtie, pôrodná hmotnosť, údaje o pitve), bezprostredná príčina smrti, predchádzajúce príčiny smrti, prvotná príčina smrti, iné závažné choroby a stavy, úraz/násilná smrť, mechanizmus smrti, miesto prehliadky, dátum a čas prehliadky, prehliadajúci lekár (meno a kód), výsledky pitvy (bezprostredná príčina smrti, predchádzajúce príčiny smrti, prvotná príčina smrti, iné závažné choroby a stavy, mechanizmus smrti), miesto pitvy, dátum a čas pitvy, lekár vykonávajúci pitvu (meno a kód), kód štatistického spracovania príčiny smrti.
 
-        - Periodicita: pri udelení a zrušení oprávnenia a všetkých zmenách, ktoré sa týkajú oprávnenia.
+      - b) Účel spracovávania osobných údajov
 
-        - Použitá metóda: vyčerpávajúce zisťovanie.
+        - Účelom spracovávania osobných údajov je získať podrobné informácie o úmrtnosti a príčinách smrti klasifikovanej podľa MKCH, získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, pre skvalitnenie prevencie, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva. Údaje sú doplňujúcimi údajmi pre národné zdravotné registre, podkladom pre rezortné analýzy úmrtnosti a príčin smrti. Na účely štatistickej analýzy zdravotného stavu obyvateľov sú využívané ako administratívny zdroj údajov List o prehliadke mŕtveho a štatistické hlásenie o úmrtí a dátové súbory so zoznamom zomretých, vrátane všeobecne použiteľných identifikátorov, verifikovaným matrikami, ktoré pre národné centrum zbiera a poskytne Štatistický úrad Slovenskej republiky.
 
-        - Získavanie osobných údajov: nie okrem uvedenia mena zodpovednej osoby.
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
 
-      - d) Okruh dotknutých osôb
+      - c) Okruh dotknutých osôb
 
-        - Nie sú okrem uvedenie mena zodpovednej osoby.
+        - Zomreté osoby a príbuzní zomretých osôb.
+
+      - d) Účel poskytovania osobných údajov
+
+        - Osobné údaje je možné poskytnúť iným prevádzkovateľom a sprostredkovateľom národných zdravotných registrov na účely zisťovania zomretých registrovaných osôb, pre registráciu osôb na základe určenej príčiny smrti (DCO prípady) a na zisťovanie úmrtnosti na registrované ochorenia.
+
+      - e) Zoznam osobných údajov, ktoré možno poskytnúť
+
+        - Meno a priezvisko, rodné meno, rodné číslo zomretého, kód obce trvalého pobytu v Slovenskej republike, dátum úmrtia, dátum narodenia, miesto narodenia (okres, obec), u detí zomretých do 1 roka života aj dĺžka života a pôrodná hmotnosť, bezprostredná príčina smrti, predchádzajúce príčiny smrti, prvotná príčina smrti, iné závažné choroby a stavy, úraz/násilná smrť, mechanizmus smrti, prehliadajúci lekár (meno a kód), výsledky pitvy (bezprostredná príčina smrti, predchádzajúce príčiny smrti, prvotná príčina smrti, iné závažné choroby a stavy, mechanizmus smrti), miesto pitvy, dátum pitvy, lekár vykonávajúci pitvu (meno a kód), kód štatistického spracovania príčiny smrti.
+
+      - f) Tretie strany, ktorým sa osobné údaje poskytujú
+
+        - Prevádzkovatelia a sprostredkovatelia<sup>3</sup>) národných zdravotných registrov podľa tohto zákona.
+
+    - 2. Hlásenie o prijatí do ústavnej starostlivosti
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (meno a priezvisko, rodné meno, rodné číslo, kód obce trvalého pobytu), kód zamestnania, kódy diagnóz podľa MKCH, odporúčanie na prijatie, prijatie pacienta, základné ochorenie, hlavná choroba, ktorá najviac ohrozuje zdravie alebo život chorého, dátum a čas prijatia a ukončenia hospitalizácie, poradie prijatia do ústavnej starostlivosti v roku, druh vykonanej liečby, spôsob ukončenia, v prípade smrti, príčiny smrti, kód zdravotnej poisťovne. V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je na základe poznania parametrov hospitalizácie na účely hodnotenia zdravotného stavu populácie získať informácie pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby prijaté do ústavnej starostlivosti v zdravotníckych zariadeniach ústavnej starostlivosti.
+
+    - 3. Správa o rodičke
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o rodičke (meno a priezvisko, rodné číslo, kód obce trvalého a prechodného pobytu, rodinný stav, vzdelanie), anamnestické údaje o predchádzajúcich tehotenstvách a pôrodoch (počet tehotenstiev, počet pôrodov, typ pôrodu, priebeh a výsledok predchádzajúcich tehotenstiev a pôrodov), údaje o tehotenstve (riziká, priebeh, zdravotná starostlivosť, preventívne a skríningové vyšetrenia, farmakoterapia), výsledky laboratórnych a funkčných vyšetrení, výskyt komplikácií, údaje o pôrode (termín, časové údaje súvisiace s pôrodom, prítomné riziká, priebeh, spôsob, komplikácie, indikácie k operačnému pôrodu, farmakoterapia počas pôrodu, priebeh popôrodného obdobia, dátum prepustenia), údaje o narodenom dieťati (vitalita, pohlavie, pôrodná hmotnosť a dĺžka, Apgarovej skóre, prítomný patologický nález).
+
+        - V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o zdravotnom stave žien počas tehotenstva, pôrodu a po pôrode a o poskytnutej zdravotnej starostlivosti a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby – ženy, ktoré rodili v ústavnom zdravotníckom zariadení alebo boli ošetrené v ústavnom zdravotníckom zariadení následne po pôrode mimo ústavného zdravotníckeho zariadenia.
+
+    - 4. Správa o novorodencovi
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o narodenom dieťati (meno a priezvisko, rodné číslo, dátum a čas narodenia, vitalita, trofika, pohlavie, pôrodná hmotnosť a dĺžka, Apgarovej skóre, gestačný vek, prítomný patologický nález, liečba, ošetrenie), údaje o pobyte dieťaťa na oddelení (dátum a čas prijatia, zdravotný stav, spôsob ošetrovania, výživa, výsledky laboratórnych, funkčných a skríningových vyšetrení, psychomotorický vývoj, očkovanie, patologické nálezy, liečba), údaje o prepustení, preklade a prevoze alebo úmrtí (dátum a čas prepustenia, prekladu alebo úmrtia vrátane diagnóz podľa MKCH, odporúčania, patologicko-anatomické diagnózy).
+
+        - Údaje o matke (rodné číslo, kód obce trvalého a prechodného pobytu, rodinný stav, vzdelanie), údaje o pôrode (termín, časové údaje súvisiace s pôrodom, prítomné riziká, priebeh, spôsob, komplikácie, indikácie k operačnému pôrodu, farmakoterapia počas pôrodu, priebeh).
+
+        - V prípade ženy, ktorá písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom, sa neuvádzajú jej identifikačné údaje.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o zdravotnom stave detí v perinatálnom a novorodeneckom období a o poskytnutej zdravotnej starostlivosti a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby – živo narodené deti, narodené v ústavnom zdravotníckom zariadení alebo narodené mimo ústavného zdravotníckeho zariadenia a následne hospitalizované na novorodeneckom pracovisku, mŕtvo narodené deti s pôrodnou hmotnosťou vyššou ako 1 000 gramov, ženy – rodičky.
+
+    - 5. Hlásenie o spontánnom potrate a umelom prerušení tehotenstva
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého pobytu, rodinný stav, vzdelanie, ekonomická aktivita, pracovisko), údaje o doterajšom počte pôrodov, spontánnych potratov a UPT, o počte živo narodených detí pred terajším potratom, vnútromaternicová antikoncepcia, údaje o terajšom druhu potratu vrátane indikácie (diagnóza podľa MKCH), ktorá je zdravotným dôvodom na vykonanie UPT, výsledky prenatálnej diagnostiky, dátum potratu, vek plodu, u plodu nad 16 týždňov hmotnosť.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o výskyte spontánnych potratov, o umelom prerušení tehotenstva (UPT) vrátane umelého prerušenia tehotenstva zo zdravotných dôvodov a ostatných potratoch a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby – ženy, ktoré spontánne potratili alebo ktorým bolo vykonané UPT vrátane UPT zo zdravotných dôvodov.
+
+    - 6. Hlásenie pohlavnej choroby
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého a prechodného pobytu, rodinný stav, pracovný stav, skupina pacienta), údaje o ochorení (dátum prijatia na liečbu, diagnóza ochorenia, druh liečby, zdroj nákazy, gravidita, mesiac gravidity, diagnózy podľa MKCH-10, potvrdenie diagnózy).
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o výskyte chorôb prenášaných sexuálnym stykom a použiť ich pre prijímanie epidemiologických opatrení a pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby s chorobami prenášanými sexuálnym stykom.
+
+    - 7. Hlásenie choroby z povolania alebo ohrozenia chorobou z povolania
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého pobytu v Slovenskej republike, zamestnanie), údaje o chorobe (typ choroby, špecifikácia choroby, položka zo zoznamu chorôb z povolania, diagnóza podľa MKCH, závažnosť choroby z povolania pri jej priznaní, závažnosť choroby, dátum prvého zistenia, dátum priznania, expozícia – príčinný faktor, expozícia – produkt podľa použitia, schopnosť doterajšieho výkonu práce), údaje o organizácii, kde choroba z povolania vznikla (IČO, kód obce, poškodeného, ekonomická aktivita zamestnávateľa).
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o pracovných podmienkach a pracovnom prostredí s cieľom poskytnúť prehľad o novopriznaných chorobách z povolania alebo ohrozeniach chorobou z povolania. a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby, ktorým bola novopriznaná choroba z povolania alebo ohrozenie chorobou z povolania.
+
+    - 8. Hlásenie o pacientovi v ústavnej psychiatrickej starostlivosti
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého a prechodného pobytu, občianstvo, rodinný stav), charakter kontaktu (dátum prijatia, prijatie pacienta – s jeho súhlasom/bez jeho súhlasu, vôbec prvé, prvé v sledovanom roku, opakované v sledovanom roku, prijatý z predchádzajúceho obdobia, kontakt s týmto zariadením, čas od predchádzajúcej hospitalizácie), sociálno-ekonomické údaje (spôsob života, najvyššia úroveň ukončeného vzdelania, pracovný stav), údaje týkajúce sa liečby (kód hlavnej psychiatrickej diagnózy, diagnózy vedúcej bezprostredne k prijatiu, inej nepsychiatrickej diagnózy súvisiacej s duševnou poruchou podľa MKCH), druh psychiatrickej liečby (psychofarmaká, iná liečba/lieky, psychoterapia, psychosociálna rehabilitácia), údaje týkajúce sa prepustenia, prekladu a úmrtia, starostlivosť po prepustení, preklade, prepustenie pacienta do konca sledovaného roka, dátum prepustenia, prekladu alebo úmrtia.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o osobách hospitalizovaných v psychiatrických zdravotníckych zariadeniach a o požiadavkách na ďalšiu starostlivosť a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby prijaté do ústavnej starostlivosti v psychiatrických zdravotníckych zariadeniach ústavnej starostlivosti.
+
+    - 9. Hlásenie príčin a okolností úmyselného sebapoškodenia
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého a prechodného pobytu, občianstvo, rodinný stav, najvyššia úroveň ukončeného vzdelania, pracovný stav), informácie týkajúce sa úmyselného sebapoškodenia (druh úmyselného sebapoškodenia, vykonanie činu – dátum vykonania činu, deň v týždni, hodina, spôsob vykonania činu – kódy diagnóz podľa MKCH, kód psychiatrickej diagnózy podľa MKCH-10, motív činu, opakovaný pokus, demonštratívny pokus, prítomnosť alkoholu alebo návykovej látky – psychotropnej látky, laboratórne potvrdenie, psychiatrická liečba pred terajším samovražedným pokusom v anamnéze pacienta, vykonaná pitva v prípade samovraždy).
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o príčinách a okolnostiach úmyselného sebapoškodenia (samovraždy alebo samovražedného pokusu) a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby, ktorým bola poskytnutá zdravotná starostlivosť v psychiatrických zdravotníckych zariadeniach po samovražednom pokuse, a príbuzní osoby po vykonanej dokonanej samovražde po súdnej pitve.
+
+    - 10. Hlásenie o ukončenej kúpeľnej liečbe
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého pobytu, kód prechodného pobytu, kód krajiny), pracovný stav, poisťovňa, platca, druh starostlivosti, dĺžka pobytu, indikačná skupina pre kúpeľnú starostlivosť, kód diagnózy podľa MKCH, výsledok liečenia, dátum ukončenia kúpeľnej liečby.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o ukončenej kúpeľnej liečbe v prírodných liečebných kúpeľoch a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby, ktorým bola poskytnutá kúpeľná starostlivosť v prírodných liečebných kúpeľoch.
+
+    - 11. Hlásenie o užívateľovi drog liečenom zo závislosti
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe [rodné číslo, kód klienta, vek klienta, pohlavie, občianstvo, rodinný stav, kód obce trvalého/prechodného pobytu v Slovenskej republike, bydlisko v zahraničí (kód krajiny)], charakter kontaktu (dátum prijatia na liečbu, liečený predtým, kontakt s týmto zariadením), sociálno-ekonomické údaje (spôsob života, najvyššia úroveň ukončeného vzdelania, pracovný stav), údaje o droge (vek pri prvom užití akejkoľvek drogy, kód primárnej drogy podľa Pompiduovej skupiny, kód psychiatrickej diagnózy podľa MKCH, spôsob podávania a frekvencia užívania primárnej drogy, vek pri prvom užití primárnej drogy, poskytnutá substitučná liečba, kód sekundárnej drogy podľa Pompiduovej skupiny, rizikové faktory – použitie injekčnej striekačky, použitie spoločnej injekčnej striekačky a ihly s iným užívateľom drog, vyšetrenie HIV a vírusovej hepatitídy, začatie liečby užívateľa drog).
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je získať informácie o liečených užívateľoch drog a použiť ich pre tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky, údaje v agregovanom tvare sú podkladom na medzinárodné porovnania a prostredníctvom Európskeho monitorovacieho centra pre drogy a drogovú závislosť ich využíva Európsky parlament, Európska komisia, Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Užívatelia drog, ktorým bola poskytnutá medicínska liečba v súvislosti s užívaním drog.
+
+    - 12. Hlásenie úrazu
+
+      - a) Zoznam spracovávaných osobných údajov
+
+        - Údaje o osobe (rodné číslo, kód obce trvalého a prechodného pobytu, občianstvo, rodinný stav, najvyššia úroveň ukončeného vzdelania, pracovný stav), informácie týkajúce sa úrazu (dátum a čas úrazu, typ úrazu, miesto úrazu, kódy diagnóz podľa MKCH, rozsah poškodenia, prítomnosť alkoholu alebo návykovej psychotropnej látky, mechanizmus úrazu), informácie týkajúce sa ošetrenia úrazu (miesto a spôsob ošetrenia, druh liečby vrátane rehabilitácie, následky úrazu), dátum smrti u zomretých, príčiny smrti, patologicko-anatomická diagnóza podľa MKCH.
+
+      - b) Účel spracovávania osobných údajov
+
+        - Účelom spracovávania osobných údajov je na základe poznania údajov o výskyte, druhu a mechanizme úrazov na účely hodnotenia zdravotného stavu populácie získať informácie na tvorbu a výkon štátnej zdravotnej politiky, zefektívnenie a trvalé zvyšovanie kvality zdravotnej starostlivosti a trvalé zlepšovanie zdravotníckych služieb a pre návrh, realizáciu a kontrolu opatrení zameraných na zlepšovanie zdravotného stavu obyvateľstva.
+
+        - Spracované údaje sú využívané štátnou štatistikou vykonávanou Štatistickým úradom Slovenskej republiky a v agregovanom tvare sú podkladom na medzinárodné porovnania a využíva ich Svetová zdravotnícka organizácia, OECD a Eurostat.
+
+      - c) Okruh dotknutých osôb
+
+        - Osoby, ktorým bola poskytnutá zdravotná starostlivosť v súvislosti s úrazom, a príbuzní osôb zomretých v dôsledku úrazu.
