@@ -24,7 +24,7 @@
 
 - 12) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 13) Zákon č. 483/2001 Z. z. o bankách a zmene a doplnení niektorých zákonov.
+- 13) § 2 ods. 1, 5, 7 a 8 a § 11 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13a) § 2 ods. 1 a § 3 až 11 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
 
