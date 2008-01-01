@@ -1,0 +1,11 @@
+## Zodpovednosť služobného úradu pri služobných úrazoch a chorobách z povolania
+
+# § 135a
+
+(1) Ak pri výkone štátnej služby alebo v priamej súvislosti s ním došlo k poškodeniu zdravia príslušníka alebo k jeho smrti úrazom (ďalej len „služobný úraz"), zodpovedá za škodu tým vzniknutú služobný úrad. Služobným úrazom nie je úraz, ktorý sa príslušníkovi stal na ceste do služby a späť, okrem, ak bol mimoriadne povolaný na miesto výkonu štátnej služby alebo iné dohodnuté miesto nadriadeným.
+
+(2) Ako služobný úraz sa posudzuje aj úraz, ktorý príslušník utrpel pre výkon štátnej služby.
+
+(3) Za škodu spôsobenú príslušníkovi chorobou z povolania zodpovedá služobný úrad, ak v ňom príslušník vykonával štátnu službu naposledy pred jej zistením za podmienok, z ktorých vzniká choroba z povolania, ktorou bol postihnutý.
+
+(4) Ako choroba z povolania sa odškodňuje aj choroba vzniknutá pred jej zaradením do zoznamu chorôb z povolania, a to od jej zaradenia do zoznamu, ale iba za dobu najviac troch rokov pred jej zaradením do zoznamu.

@@ -26,6 +26,8 @@
 
 - 9) § 2 ods. 2 a § 44 ods. 1 zákona č. 314/2001 Z. z.
 
+- 9a) § 4 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 567/2005 Z. z.
+
 - 10) Zákon č. 313/2001 Z. z. o verejnej službe.
 
 - 10a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
@@ -36,13 +38,19 @@
 
 - 12) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
+- 12a) Napríklad § 92 zákona č. 300/2005 Z. z. Trestný zákon.
+
 - 13) Zákon č. 311/1999 Z. z. o registri trestov.
 
-- 14) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 14a) § 12 zákona č. 544/2002 Z. z. v znení neskorších predpisov.
 
 - 15) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - Zákon č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
+
+- 15a) § 58 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16) § 116 Občianskeho zákonníka.
 
@@ -62,9 +70,21 @@
 
 - 18) § 143 a 143a Občianskeho zákonníka.
 
+- 18a) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+
+- 18b) Napríklad § 13 ods. 7 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z., § 22 ods. 1 a 2 zákona č. 502/2001 Z. z.
+
 - 19) § 115 Občianskeho zákonníka.
 
 - 20) § 26 zákona č. 351/1997 Z. z. Branný zákon.
+
+- 20a) Napríklad zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 20b) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 20c) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 20d) § 11 ods. 7 zákona č. 576/2004 Z. z.
 
 - 20e) § 85 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
@@ -76,9 +96,7 @@
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
 
-- 24) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov, zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z.
-
-- 24a) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+- 24a) § 4 ods. 1 písm. a), e) a f) zákona č. 544/2002 Z. z.
 
 - 25) Občiansky zákonník.
 
@@ -94,7 +112,7 @@
 
 - 28) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
-- 29) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+- 29) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
 

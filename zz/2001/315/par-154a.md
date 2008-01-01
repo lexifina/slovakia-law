@@ -8,7 +8,7 @@
 
 (4) Odvolací orgán preskúma napadnuté rozhodnutie v celom rozsahu; ak je to nevyhnutné, doterajšie konanie doplní, prípadne zistené chyby odstráni. Odvolací orgán je povinný rozhodnúť o odvolaní najneskôr do 60 dní odo dňa doručenia odvolania prvostupňovému orgánu, a to po predchádzajúcom prerokovaní v poradnej odvolacej komisii.
 
-(5) Prerokovanie odvolania v poradnej odvolacej komisii podľa odseku 4 sa nevzťahuje na hlavnú lekársku komisiu.
+(5) Prerokovanie odvolania v poradnej odvolacej komisii podľa odseku 4 sa nevzťahuje na ústrednú lekársku komisiu.
 
 (6) Ak sú na to dôvody, odvolací orgán rozhodnutie zmení alebo zruší, inak odvolanie zamietne a rozhodnutie potvrdí.
 

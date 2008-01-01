@@ -8,4 +8,8 @@ Vylúčenie z prejednávania a rozhodovania vo veci sa nevzťahuje na
 
 - c) predsedu lekárskej komisie,
 
-- d) predsedu hlavnej lekárskej komisie.
+- d) predsedu ústrednej lekárskej komisie,
+
+- e) ministra, ak koná a rozhoduje vo veci príslušníka, ktorému nie je vedúcim služobného úradu,
+
+- f) prezidenta zboru, ak koná a rozhoduje vo veci príslušníka, ktorému nie je vedúcim služobného úradu.

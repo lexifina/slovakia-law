@@ -1,6 +1,6 @@
 Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
-- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE NADRIADENÝM V HASIČSKOM A ZÁCHRANNOM ZBORE 1. Ministerstvo - Prezídium Hasičského a záchranného zboru |
+- PERCENTUÁLNY PODIEL PRÍPLATKU ZA RIADENIE NADRIADENÝM V HASIČSKOM A ZÁCHRANNOM ZBORE A V HORSKEJ ZÁCHRANNEJ SLUŽBE 1. Ministerstvo - Prezídium Hasičského a záchranného zboru |
 
 - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
@@ -59,3 +59,15 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 - 4.4 vedúci oddelenia | 6 - 12
 
 - 4.5 riaditeľ | 10 - 20“.
+
+- 5. Horská záchranná služba |
+
+- Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
+
+- 5.1 Riaditeľ strediska | 5 - 20
+
+- 5.2 Vedúci oddelenia | 10 - 15
+
+- 5.3 Zástupca riaditeľa | 20 - 36
+
+- 5.4 Riaditeľ | 30 - 47
