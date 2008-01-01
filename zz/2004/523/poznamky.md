@@ -90,6 +90,8 @@
 
 - § 33a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 596/2003 Z. z.
 
+- 35a) § 8 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 36) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 37) Zákon č. 191/1950 Zb. zákon zmenkový a šekový.
