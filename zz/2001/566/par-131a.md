@@ -42,4 +42,4 @@
 
 (4) Manipulácia s trhom sa zakazuje.
 
-(5) Všeobecne záväzný právny predpis, ktorý vydá Národná banka Slovenska, môže ustanoviť ďalšie podrobnosti o tom, čo sa rozumie manipuláciou s trhom a kritériá na posudzovanie, či určité konanie možno považovať za manipuláciu s trhom.
+(5) Opatrenie, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, môže ustanoviť ďalšie podrobnosti o tom, čo sa rozumie manipuláciou s trhom a kritériá na posudzovanie, či určité konanie možno považovať za manipuláciu s trhom.

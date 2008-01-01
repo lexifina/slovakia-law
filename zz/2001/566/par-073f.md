@@ -16,4 +16,4 @@
 
 (5) Informácie o investičných cieľoch klienta alebo potenciálneho klienta podľa odseku 1 zahŕňajú informácie o dĺžke obdobia, počas ktorého plánuje klient investovať, o jeho preferenciách týkajúcich sa podstupovaného rizika, jeho rizikovom profile a o účeloch investície.
 
-(6) Ak obchodník s cennými papiermi nezíska pri poskytovaní investičnej služby riadenia portfólia informácie podľa odseku 1, nesmie odporúčať klientovi alebo potenciálnemu klientovi investičné služby ani finančné nástroje.
+(6) Ak obchodník s cennými papiermi nezíska pri poskytovaní investičného poradenstva alebo investičnej služby riadenia portfólia informácie podľa odseku 1, nesmie odporúčať klientovi alebo potenciálnemu klientovi investičné služby ani finančné nástroje.

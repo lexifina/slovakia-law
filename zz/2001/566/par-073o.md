@@ -18,4 +18,4 @@
 
 (5) Miestom výkonu sa rozumie regulovaný trh, mnohostranný obchodný systém, systematický internalizátor, tvorca trhu, iný poskytovateľ likvidity alebo osoba vykonávajúca obdobné činnosti v nečlenskom štáte.
 
-(6) Systematickým internalizátorom sa rozumie obchodník s cennými papiermi, ktorý na organizovanom, opakovanom a systematickom základe obchoduje na vlastný účet tak, že vykonáva pokyny klienta mimo regulovaného trhu alebo mimo mnohostranného obchodného systému.
+(6) Systematickým internalizátorom sa rozumie obchodník s cennými papiermi, ktorý na organizovanom, opakovanom a systematickom základe obchoduje na vlastný účet tak, že vykonáva pokyny klienta mimo regulovaného trhu alebo mimo mnohostranného obchodného systému. Na určovanie toho, či obchodník s cennými papiermi je systematickým internalizátorom, sa použije ustanovenie osobitného predpisu.<sup>58hf</sup>)

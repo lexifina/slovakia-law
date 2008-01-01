@@ -10,7 +10,7 @@
 
 (3) Obchodník s cennými papiermi je povinný poskytnúť klientovi na jeho žiadosť informácie o stave jeho pokynu.
 
-(4) V prípade pokynov neprofesionálnych klientov, ktoré sa týkajú podielových listov otvorených podielových fondov alebo cenných papierov zahraničných subjektov kolektívneho investovania a ktoré sú vykonávané pravidelne, obchodník s cennými papiermi je povinný zaslať klientovi oznam podľa odseku 1 písm. b), ak aspoň raz za šesť mesiacov poskytne neprofesionálnemu klientovi informácie podľa odseku 5, ktoré sa týkajú týchto obchodov.
+(4) V prípade pokynov neprofesionálnych klientov, ktoré sa týkajú podielových listov podielových fondov alebo cenných papierov zahraničných subjektov kolektívneho investovania a ktoré sú vykonávané pravidelne, povinnosť obchodníka s cennými papiermi podľa odseku 1 písm. b) sa považuje za splnenú, ak aspoň raz za šesť mesiacov poskytne neprofesionálnemu klientovi informácie podľa odseku 5, ktoré sa týkajú týchto obchodov.
 
 (5) Oznámenie podľa odseku 1 písm. b) obsahuje v súlade s osobitným predpisom<sup>58hd</sup>) tieto údaje:
 

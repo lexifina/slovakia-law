@@ -1,6 +1,6 @@
 # § 73h
 
-(1) Ustanovenie § 73g sa nepoužije, ak obchodník s cennými papiermi poskytuje investičné služby podľa § 6 ods. 1 písm. a) a ak sú splnené tieto podmienky:
+(1) Ustanovenie § 73g sa nepoužije, ak obchodník s cennými papiermi poskytuje investičné služby podľa § 6 ods. 1 písm. a) alebo b) a ak sú splnené tieto podmienky:
 
 - a) poskytované investičné služby sa týkajú
 

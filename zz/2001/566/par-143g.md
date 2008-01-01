@@ -2,7 +2,7 @@
 
 (1) Obchodník s cennými papiermi, ktorý je súčasťou finančného konglomerátu, je povinný zabezpečiť, aby na úrovni finančného konglomerátu bola dodržaná dostatočná výška vlastných zdrojov a aby na úrovni finančného konglomerátu boli prijaté pravidlá zabezpečujúce dodržiavanie dostatočnej výšky vlastných zdrojov. Vlastné zdroje finančného konglomerátu sú dostatočné, ak rozdiel medzi vlastnými zdrojmi na úrovni finančného konglomerátu a súčtom minimálnej výšky vlastných zdrojov za finančný konglomerát je nula alebo kladné číslo.
 
-(2) Obchodník s cennými papiermi, ktorý je súčasťou finančného konglomerátu, je povinný vykonávať výpočty dostatočnej výšky vlastných zdrojov podľa jednej z metód ustanovených všeobecne záväzným právnym predpisom, ktorý vydá Národná banka Slovenska podľa odseku 9.
+(2) Obchodník s cennými papiermi, ktorý je súčasťou finančného konglomerátu, je povinný vykonávať výpočty dostatočnej výšky vlastných zdrojov podľa jednej z metód ustanovených opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov podľa odseku 9.
 
 (3) Národná banka Slovenska po vyjadrení príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, je oprávnený z vlastného podnetu alebo na žiadosť regulovanej osoby alebo zmiešanej finančnej holdingovej spoločnosti podľa odseku 4 oznámiť regulovanej osobe alebo zmiešanej finančnej holdingovej spoločnosti, ktorá z metód výpočtu dostatočnej výšky vlastných zdrojov ustanovených všeobecne záväzným právnym predpisom podľa odseku 9 sa použije.
 
@@ -22,7 +22,7 @@
 
 (8) Ustanovením odseku 4 nie je dotknutá povinnosť dotknutých osôb poskytovať informácie na účely výkonu doplňujúceho dohľadu ani oprávnenie orgánov dohľadu poskytovať informácie o týchto osobách na účely výkonu doplňujúceho dohľadu alebo dohľadu nad finančnými konglomerátmi v inom členskom štáte.
 
-(9) Všeobecne záväzný právny predpis, ktorý vydá Národná banka Slovenska, ustanoví na účely výpočtu dostatočnej výšky vlastných zdrojov na úrovni finančného konglomerátu,
+(9) Opatrenie, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, ustanoví na účely výpočtu dostatočnej výšky vlastných zdrojov na úrovni finančného konglomerátu,
 
 - a) čo tvorí vlastné zdroje na úrovni finančného konglomerátu a spôsob ich výpočtu vrátane vlastných zdrojov zmiešanej finančnej holdingovej spoločnosti,
 

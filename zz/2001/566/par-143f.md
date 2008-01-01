@@ -6,7 +6,7 @@
 
 - b) jeho materskou spoločnosťou je zmiešaná finančná holdingová spoločnosť, ktorej sídlo sa nachádza v členskom štáte,
 
-- c) je prepojený s právnickou osobou iného finančného sektora vzťahom ovládania podľa § 138 ods. 5 písm. n) tretieho bodu alebo
+- c) je prepojený s právnickou osobou iného finančného sektora vzťahom ovládania podľa § 143b písm. d) tretieho bodu alebo
 
 - d) jeho materská spoločnosť je regulovaná osoba alebo zmiešaná finančná holdingová spoločnosť so sídlom v štáte, ktorý nie je členským štátom, ak je v tomto štáte vykonávaný dohľad nad finančnými konglomerátmi, ktorý je rovnocenný doplňujúcemu dohľadu.
 

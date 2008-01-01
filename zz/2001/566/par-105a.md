@@ -18,7 +18,7 @@
 
 - d) dátum a čas príslušného účtového zápisu na tomto držiteľskom účte.
 
-(3) Centrálny depozitár môže zriadiť držiteľský účet len pre centrálneho depozitára, zahraničnú právnickú osobu s obdobným predmetom činnosti, obchodníka s cennými papiermi alebo zahraničného obchodníka s cennými papiermi s oprávnením na výkon vedľajšej služby držiteľská správa. Centrálny depozitár môže zriadiť pre jednu osobu aj viac držiteľských účtov.
+(3) Centrálny depozitár môže zriadiť držiteľský účet len pre centrálneho depozitára, zahraničnú právnickú osobu s obdobným predmetom činnosti, obchodníka s cennými papiermi, zahraničného obchodníka s cennými papiermi, banku alebo zahraničnú banku s oprávnením na výkon vedľajšej služby držiteľská správa. Centrálny depozitár môže zriadiť pre jednu osobu aj viac držiteľských účtov.
 
 (4) Centrálny depozitár zriadi držiteľský účet na základe písomnej žiadosti osoby podľa odseku 3 a v súlade s ustanoveniami prevádzkového poriadku.
 

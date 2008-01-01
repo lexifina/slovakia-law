@@ -100,7 +100,7 @@
 
 - 44) Napríklad § 19 zákona č. 191/1950 Zb.
 
-- 45) § 24 ods. 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
+- 45) Napríklad § 18, 19 a 24 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 46) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -119,6 +119,10 @@
 - 47f) § 32 ods. 4 zákona č. 510/2002 Z. z.
 
 - 47g) § 151m ods. 1, 2 a 3 posledná veta, ods. 7 a 9 a § 151ma ods. 1 a 2 Občianskeho zákonníka.
+
+- 47h) § 18, 19 a 23 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- Čl. 18 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 48) Napríklad zákon č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov.
 
@@ -268,7 +272,11 @@
 
 - 75) § 8 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
-- 76) Zákon č. 71/1967 Zb.
+- 76) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 76a) § 248 písm. d) Občianskeho súdneho poriadku.
 
 - 77) Napríklad § 23 zákona č. 530/1990 Zb.
 
@@ -302,6 +310,12 @@
 
 - 88) Napríklad zákon č. 563/1991 Zb. v znení neskorších predpisov.
 
+- 88a) § 8 ods. 1 písm. i) a ods. 2 a § 13 ods. 1 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 8 až 13 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 88b) § 18, 19, 23 a 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
 - 89) § 156 Obchodného zákonníka v znení neskorších predpisov.
 
 - 90) § 158 a 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
@@ -312,11 +326,15 @@
 
 - 93) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- Zákon č. 747/2004 Z. z.Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+- Zákon č. 747/2004 Z. z.
+
+- Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov.
+- Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov,
+
+- čl. 17, 18, 21, 23, 24 a 25 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 94) § 2 ods. 1 písm. d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
@@ -326,9 +344,11 @@
 
 - 97) § 71 až 80 zákona č. 71/1967 Zb.
 
-- 97a) § 17 písm. b), § 18 a 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 97a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 97b) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+- 97b) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
+
+- § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -394,7 +414,9 @@
 
 - 110d) § 35 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
-- 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov.
+- 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
 - 112) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
@@ -425,3 +447,5 @@
 - § 65 ods. 7 zákona č. 483/2001 Z. z.
 
 - 124) § 6 ods. 3 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
+
+- 125) Zákon č. 659/2007 Z. z.

@@ -8,7 +8,7 @@
 
 (4) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najdôležitejším finančným sektorom vo finančnom konglomeráte sektor investičných služieb, vzťahujú sa na koncentráciu rizík sektora investičných služieb a zmiešanej finančnej holdingovej spoločnosti primerane ustanovenia § 74.
 
-(5) Všeobecne záväzný právny predpis, ktorý vydá Národná banka Slovenska, ustanoví na účely zisťovania koncentrácie rizík podrobnosti o
+(5) Opatrenie, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, ustanoví na účely zisťovania koncentrácie rizík podrobnosti o
 
 - a) majetkovej angažovanosti finančného konglomerátu a jej výpočte,
 

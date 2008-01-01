@@ -6,7 +6,7 @@
 
 (3) Ak obchodník s cennými papiermi plní konkrétne inštrukcie svojho klienta pri vykonávaní pokynu alebo jeho postupovaní na vykonanie tretej osobe, považuje sa povinnosť podľa odseku 1 za splnenú.
 
-(4) Obchodník s cennými papiermi je povinný na účely plnenia povinnosti podľa odseku 2 zaviesť a dodržiavať stratégiu postupovania pokynov. Stratégia postupovania pokynov musí obsahovať pre každý druh finančného nástroja tretie osoby, ktorým sa pokyny zadávajú alebo ktorým obchodník s cennými papiermi postupuje pokyny klientov na ich vykonanie. Tieto subjekty musia mať investičnú stratégiu, ktorá umožní obchodníkovi s cennými papiermi dodržať jeho povinnosti podľa tohto zákona pri realizovaní alebo postupovaní pokynov na tento subjekt na ich vykonanie.
+(4) Obchodník s cennými papiermi je povinný na účely plnenia povinnosti podľa odseku 2 zaviesť a dodržiavať stratégiu postupovania pokynov. Stratégia postupovania pokynov musí obsahovať pre každý druh finančného nástroja tretie osoby, ktorým sa pokyny zadávajú alebo ktorým obchodník s cennými papiermi postupuje pokyny klientov na ich vykonanie. Tieto tretie osoby musia mať zavedené postupy vykonávania pokynov, ktoré umožnia obchodníkovi s cennými papiermi dodržať povinnosti podľa tohto zákona pri umiestnení alebo postúpení pokynov na ich vykonanie týmto tretím osobám.
 
 (5) Obchodník s cennými papiermi je povinný poskytnúť klientovi príslušné informácie o stratégii postupovania pokynov.
 
