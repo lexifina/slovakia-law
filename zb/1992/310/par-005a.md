@@ -4,4 +4,4 @@
 
 (2) Ministerstvo môže, okrem opatrenia podľa odseku 1, uložiť stavebnej sporiteľni podľa závažnosti porušenia povinnosti a dĺžky trvania protiprávneho stavu pokutu až do výšky dvojnásobku neoprávnene použitej sumy štátnej prémie; táto pokuta je príjmom štátneho rozpočtu.
 
-(3) Na konanie podľa odsekov 1 a 2 sa vzťahujú ustanovenia všeobecného predpisu o správnom konaní.<sup>3a</sup>)
+(3) Na konanie podľa odsekov 1 a 2 sa vzťahujú ustanovenia všeobecného predpisu o správnom konaní.<sup>3aa</sup>)
