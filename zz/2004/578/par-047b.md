@@ -1,0 +1,5 @@
+# § 47b Slovenská komora laborantov, asistentov a technikov
+
+(1) Slovenská komora laborantov, asistentov a technikov združuje technikov laboratórnej medicíny, medicínsko-technických laborantov, zdravotníckych laborantov, farmaceutických laborantov, laborantov pre zdravotnícke pomôcky, verejných zdravotníkov, rádiologických asistentov, zdravotníckych záchranárov, dentálne hygieničky, asistentov hygieny a epidemiológie, asistentov výživy, masérov, sanitárov, zdravotníckych asistentov, optometristov a očných optikov.
+
+(2) Členom Slovenskej komory laborantov, asistentov a technikov sa môže stať fyzická osoba, ktorá je odborne spôsobilá na výkon povolania technika laboratórnej medicíny, medicínsko-technického laboranta, zdravotníckeho laboranta, farmaceutického laboranta, laboranta pre zdravotnícke pomôcky, verejného zdravotníka, rádiologického asistenta, zdravotníckeho záchranára, dentálnej hygieničky, asistenta hygieny a epidemiológie, asistenta výživy, maséra, sanitára, zdravotníckeho asistenta, optometristu a očného optika a je bezúhonná (§ 38), ak požiada o zápis do zoznamu členov.

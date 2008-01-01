@@ -10,6 +10,6 @@
 
 (5) Ordinačné hodiny schválené podľa doterajších predpisov sa považujú za ordinačné hodiny schválené podľa tohto zákona.
 
-(6) Lekári, ktorí vykonávajú lekársku posudkovú činnosť na inom mieste ako v zdravotníckom zariadení, sú oprávnení vykonávať lekársku posudkovú činnosť bez licencie na výkon lekárskej posudkovej činnosti [§ 68 ods. 1 písm. d)] najneskôr do 31. decembra 2007.
+(6) Lekári, ktorí vykonávajú lekársku posudkovú činnosť na inom mieste ako v zdravotníckom zariadení, sú oprávnení vykonávať lekársku posudkovú činnosť bez licencie na výkon lekárskej posudkovej činnosti [§ 68 ods. 1 písm. d)] najneskôr do 31. decembra 2009.
 
 (7) Ustanovenie odseku 6 sa nevzťahuje na lekárov, ktorí vykonávajú lekársku posudkovú činnosť v ozbrojených silách a v ozbrojených zboroch (§ 7a ods. 2).

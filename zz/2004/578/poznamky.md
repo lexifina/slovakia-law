@@ -1,6 +1,6 @@
 - 1) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
-- 2) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 2) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 3) Napríklad zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -34,7 +34,7 @@
 
 - 14a) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z.
 
-- 15) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
+- 15) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z.
 
 - 16) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
@@ -56,8 +56,6 @@
 
 - 23) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 23a) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
 - 24a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -76,11 +74,11 @@
 
 - 28b) § 45b ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 29) § 62 ods. 1 Trestného zákona.
+- 29) § 11 Trestného zákona.
 
-- 30) § 160 až 162 Trestného zákona.
+- 30) § 328 až 336 Trestného zákona.
 
-- 31) § 9 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 31) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 31a) § 19 ods. 2 písm. c) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -89,6 +87,10 @@
 - 31c) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32) § 4 ods. 1 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
+
+- 32a) § 29 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 51 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 33) Zákon č. 401/2002 Z. z. o zriadení Slovenskej zdravotníckej univerzity a o doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2002 Z. z. v znení zákona č. 528/2003 Z. z.
 
@@ -120,7 +122,7 @@
 
 - 45) § 39 a 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- § 6 až 17 a § 26 až 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- § 6 až 17 a § 26 až 41 a § 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - § 44 ods. 1 zákona č. 577//2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
 
@@ -143,6 +145,8 @@
 - 54) § 7 ods. 4 písm. a) druhý bod a ods. 5 až 8 zákona č. 581/2004 Z. z.
 
 - 55) § 3 ods. 5 zákona č. 577/2004 Z. z.
+
+- 55a) § 42 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
