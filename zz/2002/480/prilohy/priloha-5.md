@@ -7,3 +7,5 @@ Príloha č. 5 k zákonu č. 480/2002 Z. z.
   - 2. Smernica Rady 2003/9/ES z 27. januára 2003, ktorou sa ustanovujú minimálne štandardy pre prijímanie žiadateľov o azyl (Ú. v. EÚ L 31, 06. 02. 2003).
 
   - 3. Smernica Rady 2004/83/ES z 29. apríla 2004 o minimálnych ustanoveniach pre oprávnenie a postavenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva ako utečencov alebo osôb, ktoré inak potrebujú medzinárodnú ochranu a obsah poskytovanej ochrany (Ú. v. EÚ L 304, 30. 09. 2004, Mimoriadne vydanie Ú. v. EÚ, 19/zv. 7).
+
+  - 4. Smernica Rady 2005/85/ES z 1. decembra 2005 o minimálnych štandardoch pre konanie v členských štátoch o priznávaní a odnímaní postavenia utečenca (Ú. v. EÚ L 326, 13. 12. 2005).

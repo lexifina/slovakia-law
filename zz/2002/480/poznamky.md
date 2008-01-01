@@ -38,7 +38,7 @@
 
 - 11) § 250n Občianskeho súdneho poriadku.
 
-- 11a) § 16 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
+- 11a) Napríklad Trestný poriadok.
 
 - 11ab) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -63,6 +63,8 @@
 - 19) § 41 ods. 2 Trestného zákona.
 
 - 20) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 20a) Napríklad zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 221/2006 Z. z. o výkone väzby.
 
 - 21) § 43 ods. 2 druhá veta zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 

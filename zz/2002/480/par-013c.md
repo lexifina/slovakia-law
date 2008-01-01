@@ -8,9 +8,11 @@
 
 - b) spáchal obzvlášť závažný zločin,<sup>7a</sup>)
 
-- c) je vinný za činy, ktoré sú v rozpore s cieľmi a zásadami Organizácie Spojených národov,<sup>2</sup>) alebo
+- c) je vinný za činy, ktoré sú v rozpore s cieľmi a zásadami Organizácie Spojených národov,<sup>2</sup>)
 
-- d) predstavuje nebezpečenstvo pre spoločnosť alebo bezpečnosť Slovenskej republiky.
+- d) predstavuje nebezpečenstvo pre bezpečnosť Slovenskej republiky alebo
+
+- e) predstavuje nebezpečenstvo pre spoločnosť.
 
 (3) Ustanovenie odseku 2 sa vzťahuje aj na účastníkov činov uvedených v odseku 2 písm. a) až c), ako aj na osoby, ktoré sa na týchto činoch inak podieľali.
 
