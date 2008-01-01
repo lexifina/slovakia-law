@@ -12,13 +12,13 @@
 
 - 6) § 39 ods. 1 zákona č. 576/2004 Z. z.
 
-- 7) § 4 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 6a) § 3 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 7) § 12 zákona č. 355/2007 Z. z.
 
 - 8) § 2 ods. 3 zákona č. 576/2004 Z. z.
 
 - 10) § 6 ods. 1 písm. h) zákona č. 581/2004 Z. z.
-
-- 10a) § 11 písm. c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 11) Príloha č. 1 zákona č. 576/2004 Z. z.
 
@@ -34,11 +34,29 @@
 
 - 17) § 22 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
-- 18) § 22 ods. 4 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 17a) Nariadenie Rady (EHS) č. 2658/87 z 23. júla 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 2; Ú. v. ES L 256, 7. 9. 1987) v platnom znení.
 
-- 19) § 22 ods. 9 a 10 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 17b) § 22 ods. 8 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 18) § 22 ods. 4 až 7 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
+- 19) § 22 ods. 16 zákona č. 140/1998 Z. z. v znení zákona č. 342/2006 Z. z.
+
+- 19a) § 11 a 20 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
+- 19b) Príloha č. 1 bod 13 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok.
+
+- Príloha č. 1 bod 2.8 nariadenia vlády Slovenskej republiky č. 569/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody diagnostických zdravotníckych pomôcok in vitro.
+
+- Príloha č. 1 body 2.10 a 2.11 nariadenia vlády Slovenskej republiky č. 570/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.
 
 - 20) § 9 a 12 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 20a) § 17 ods. 3 zákona č. 264/1999 Z. z. v znení zákona č. 254/2003 Z. z.
+
+- 20b) § 27 ods. 12 a 13 zákona č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+
+- 21) § 3 ods. 1 a § 30 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona č. 195/2007 Z. z.
 
 - 22) § 11 ods. 2 písm. h) zákona č. 578/2004 Z. z.
 

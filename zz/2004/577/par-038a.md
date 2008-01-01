@@ -26,4 +26,6 @@
 
 - e) za pobyt sprievodcu v ústavnej starostlivosti [§ 38 ods. 3 písm. f)] za každý deň pobytu je najviac 2,8 % zo sumy životného minima,
 
-- f) za dopravu [§ 38 ods. 3 písm. g)] za jeden kilometer jazdy je najviac 0,085 % zo sumy životného minima.
+- f) za dopravu [§ 38 ods. 3 písm. g)] za jeden kilometer jazdy je najviac 0,085 % zo sumy životného minima,
+
+- g) za poskytnutie výpisu zo zdravotnej dokumentácie (§ 38 ods. 11) najviac 3 % zo sumy životného minima.

@@ -184,9 +184,9 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Okruh poistencov: | všetci |
 
-- Periodicita: | 1) U poistencov, ktorí ešte nedosiahli 18 rokov veku, dvakrát v kalendárnom roku, najskôr však po uplynutí 4 mesiace od ukončenej sanácie. |
+- Periodicita: | 1) U poistencov, ktorí ešte nedosiahli 18 rokov veku, dvakrát v kalendárnom roku. |
 
-- | 2) U poistencov, ktorí dosiahli 18 rokov veku, jedenkrát v kalendárnom roku, najskôr však po uplynutí 4 mesiace od ukončenej sanácie konzervatívno-chirurgickej |
+- | 2) U poistencov, ktorí dosiahli 18 rokov veku, jedenkrát v kalendárnom roku. |
 
 - | 3) U tehotných poistenkýň dva razy počas toho istého tehotenstva, a to na začiatku prvého a na začiatku tretieho trimestra. |
 
@@ -200,79 +200,43 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna gynekologická prehliadka | |
 
-- Obsah: | Preventívna gynekologická prehliadka je zameraná na včasnú diagnostiku onkologického ochorenia u ženy. Súčasťou preventívnej prehliadky je aj poskytnutie potrebného poradenstva. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
+- Obsah | Preventívna gynekologická prehliadka je komplexné gynekologické vyšetrenie zamerané na vyhľadávanie a včasnú diagnostiku organických a funkčných porúch ženských pohlavných orgánov. Súčasťou prehliadky je dôkladná anamnéza a odborné poradenstvo v otázkach antikoncepcie, hormonálnej substitučnej liečby, prevencie sexuálne prenosných ochorení a poučenie o zvýšenom riziku gynekologických malignít v súvislosti s pozitívnou rodinnou anamnézou a prítomnosťou ďalších rizikových faktorov u ženy. Doklad o absolvovaní preventívnej gynekologickej prehliadky je podmienkou kompletizácie preventívnej prehliadky u praktického lekára. |
 
-- Vykonáva: | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo |
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo |
 
-- Okruh poistencov: | ženy od 18 rokov veku alebo od prvého tehotenstva |
+- Okruh poistencov | ženy vo veku od 18 rokov alebo prvého tehotenstva |
 
-- Periodicita: | raz ročne |
+- Periodicita | raz za rok |
 
-- Z o z n a m v ý k o n o v | |
+- Zoznam výkonov | |
 
 - | Názov výkonu | Indikačné obmedzenie
 
-- | Základné gynekologické vyšetrenie vrátane palpačného vyšetrenia prsníkov |
+- | Podrobná anamnéza a jej priebežná aktualizácia |
 
-- | Vaginoskopia |
+- | Odborné poradenstvo a poučenie |
 
-- | Kolposkopia |
+- | Komplexné gynekologické vyšetrenie vrátane palpačného vyšetrenia prsníkov |
 
-- | Odber venóznej krvi (otvorený odberový systém) | raz za rok od 30. roku veku
+- | Ultrasonografia transvaginálna, abdominálna |
 
-- | Odber venóznej krvi (uzatvorený odberový systém) | raz za rok od 30. roku veku
+- | Ultrasonografia prsníkov | raz za 2 roky
 
-- | Odber kapilárnej krvi | raz za rok od 30. roku veku
+- | Tumor marker Ca 125 | u žien s dokázanou mutáciou BRCA 1 génu raz za 6 mesiacov od veku 30 rokov u žien s pozitívnou rodinnou anamnézou karcinómu ovária raz za rok vo veku od 35 rokov
 
-- | Odber biologického materiálu na mikroskopické vyšetrenie | raz za rok od 30. roku veku
+- | Cytológia z krčka maternice | v intervaloch a vekovom rozmedzí stanovených v skríningu
 
-- | Močový sediment (semikvantitatívne) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
+- | RTG mamografia | v intervaloch a vekovom rozmedzí stanovených v skríningu
 
-- | Základné patologické súčasti moču (nekompletný dôkaz) | raz za rok od 30. roku veku
+- Skríning rakoviny krčka maternice a prsníka | |
 
-- | Alanínaminotransferáza | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
+- Obsah | Skríning rakoviny krčka maternice a prsníka je zameraný na aktívne a organizované vyhľadávanie rakoviny krčka maternice a prsníka. Skríning vyhodnocuje Referenčné skríningové centrum. |
 
-- | Alanínaminotransferáza v kapilárnej krvi (REP) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo Cytologické stery z krčka maternice vyhodnocujú certifikované cytologické laboratóriá. |
 
-- | Glukóza (ENZ) | raz za rok od 30. roku veku
+- Okruh poistencov | skríning rakoviny krčka maternice: ženy vo veku 23 – 64 rokov skríning rakoviny prsníka: ženy vo veku 40 – 69 rokov |
 
-- | Glukóza (ECH) | raz za rok od 30. roku veku
-
-- | Glukóza v kapilárnej krvi (REP) | raz za rok od 30. roku veku
-
-- | Uhľohydrátový antigénny determinant Ca 125 | raz za rok od 30. roku veku
-
-- | Erytrocyty - počet (MICC) | raz za rok od 30. roku veku
-
-- | Hemoglobín (PHOT) | raz za rok od 30. roku veku
-
-- | Hemogram 5 parametrový | raz za rok od 30. roku veku
-
-- | Leukocyty - počet (MICC) | raz za rok od 30. roku veku
-
-- | Sedimentácia erytrocytov - FW | raz za rok od 30. roku veku
-
-- | Trombocyty - počet (MICC) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Fibrinogén antigén kvalitatívne (IEPH) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Fibrinogén antigén kvantitatívne (EID) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Fibrinogén podľa Claussa (COAG) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Protrombínový čas (Quick) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Trombínový čas (COAG) | od 18. roku veku pri užívaní hormonálnej antikoncepcie, raz za rok od 30. roku veku
-
-- | Mikrobiálny obraz pošvový (MICR) |
-
-- | Cytológia krčka maternice (CYTOL) |
-
-- | Natívna mamografia oboch prsníkov | raz za 2 roky od 40. roku veku; v prípade pozitívnej rodinnej anamnézy raz za rok, v prípade patologického nálezu podľa potreby
-
-- | US vyšetrenie oboch prsníkov vrátane regionálnych LU | raz za 2 roky
-
-- | US vyšetrenie malej panvy intravaginálne alebo transrektálne |
+- Periodicita | Skríning rakoviny krčka maternice: prvé dva odbery cytológie v ročnom intervale. V prípade negativity týchto dvoch cytologických výsledkov pokračovať v 3-ročnom intervale do veku 64 rokov. Uvedená periodicita platí aj pre poistenkyňu, u ktorej sa začal skríning aj neskôr ako v 23. roku života. Skríning sa vo veku 64 rokov ukončí, ak budú posledné 3 cytologické nálezy negatívne. Skríning rakoviny prsníka: raz za 2 roky. |
 
 - Preventívna starostlivosť v materstve | |
 

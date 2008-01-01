@@ -2,7 +2,7 @@ Príloha č. 4 k zákonu č. 577/2004 Z. z.
 
 - ZOZNAM ANATOMICKO-TERAPEUTICKO-CHEMICKÝCH SKUPÍN LIEČIV Kód ATC | Názov 3-miestnej skupiny | Názov | Cesta podania
 
-- A02BA | Antacidá, lieky na liečbu peptického vredu a flatulencie | Antagonisty H2-receptorov | p.o.
+- A02BC | Antacidá, lieky na liečbu peptického vredu a flatulencie | Inhibítory protónovej pumpy | p.o.
 
 - A03BA | Spazmolytiká, anticholinergiká a propulzíva | Semisyntetlcké alkaloidy beladony, organické amóniové zlúčeniny | parent.
 
@@ -66,8 +66,6 @@ Príloha č. 4 k zákonu č. 577/2004 Z. z.
 
 - C03CA | Diuretiká | Slučkové diuretiká | parent.
 
-- C03DB | Diuretiká | Iné diuretiká šetriace draslík | p.o.
-
 - C07AA | Betablokátory | Neselektívne betablokátory | p.o.
 
 - C07AB | Betablokátory | Selektívne blokátory | p.o.
@@ -84,8 +82,6 @@ Príloha č. 4 k zákonu č. 577/2004 Z. z.
 
 - D07AB | Kortikosteroidy, dermatologické prípravky | Kortikosteroidy II. triedy, stredne účinné | loc.
 
-- G02CA | Iné gynekologiká | Tokolytiká zo skupiny sympatomimetík | p.o.
-
 - G02CB | Iné gynekologiká | Inhibítory prolaktínu | p.o.
 
 - G03CA | Pohlavné hormóny a modulátory pohlavného systému | Prirodzené a semisyntetické estrogény | p.o.
@@ -93,8 +89,6 @@ Príloha č. 4 k zákonu č. 577/2004 Z. z.
 - G03CA | Pohlavné hormóny a modulátory pohlavného systému | Prirodzené a semisyntetické estrogény | parent.
 
 - G03DC | Pohlavné hormóny a modulátory pohlavného systému | Gestagény, deriváty estrénu | p.o.
-
-- G04AC | Urologiká | Nitrofuránové deriváty | p.o.
 
 - H02AA | Kortikosteroidy na systémové použitie | Mineralokortikoidy | p.o.
 
