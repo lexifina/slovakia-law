@@ -50,11 +50,9 @@
 
       - (xvi) „vyznačená zmluvná strana“ znamená zmluvnú stranu, pre ktorú sa žiadalo rozšírenie ochrany („územné rozšírenie“) podľa článku 3 ter(1) alebo (2) dohody alebo podľa článku 3 ter(1) alebo (2) protokolu, alebo pre ktorú bolo takéto rozšírenie zapísané do medzinárodného registra;
 
-      - (xvii) „zmluvná strana vyznačená podľa dohody“ znamená vyznačenú zmluvnú stranu, pre ktorú bolo rozšírenie ochrany („územné rozšírenie“) požadované podľa článku 3 ter(1) alebo (2) dohody zapísané do medzinárodného registra;
+      - (xvii) „zmluvná strana vyznačená podľa dohody“ znamená vyznačenú zmluvnú stranu, pre ktorú je rozšírenie ochrany („územné rozšírenie“) požadované podľa článku 3 ter(1) alebo (2) dohody,
 
-    - (xviibis) „zmluvná strana, ktorej vyznačenie sa riadi dohodou“ znamená zmluvnú stranu vyznačenú podľa dohody, alebo ak bola zapísaná zmena majiteľa a ak zmluvná strana majiteľa je viazaná dohodou, znamená vyznačenú zmluvnú stranu viazanú dohodou;
-
-      - (xviii) „zmluvná strana vyznačená podľa protokolu“ znamená zmluvnú stranu, pre ktorú bolo rozšírenie ochrany („územné rozšírenie“) požadované podľa článku 3 ter(1) alebo (2) protokolu zapísané do medzinárodného registra;
+      - (xviii) „zmluvná strana vyznačená podľa protokolu“ znamená zmluvnú stranu, pre ktorú je rozšírenie ochrany („územné rozšírenie“) požadované podľa článku 3 ter(1) alebo (2) protokolu;
 
       - (xix) „oznámenie o predbežnom odmietnutí“ znamená vyhlásenie úradu vyznačenej zmluvnej strany podľa článku 5(1) dohody alebo článku 5(1) protokolu;
 
@@ -89,6 +87,20 @@
       - (xxx) „medzinárodný úrad“ znamená Medzinárodný úrad Svetovej organizácie duševného vlastníctva;
 
       - (xxxi) „administratívne pokyny“ znamenajú administratívne pokyny uvedené v pravidle 41.
+
+    - Pravidlo 1bis Vyznačenia podliehajúce dohode a vyznačenia podliehajúce protokolu
+
+      - (1) Všeobecné princípy a výnimky
+
+      - Vyznačenie zmluvnej strany podlieha dohode alebo protokolu v závislosti na tom, či zmluvná strana je vyznačená podľa dohody alebo protokolu. Avšak,
+
+        - (i) ak pre daný medzinárodný zápis sa prestala uplatňovať dohoda medzi zmluvnou stranou majiteľa a zmluvnou stranou, ktorej vyznačenie podlieha dohode, vyznačenie tejto zmluvnej strany bude podliehať protokolu, a to k dátumu skončenia platnosti dohody, čiže k dátumu, keď zmluvná strana majiteľa a vyznačená zmluvná strana sú zmluvnými stranami protokolu, a
+
+        - (ii) ak pre daný medzinárodný zápis sa prestal uplatňovať protokol medzi zmluvnou stranou majiteľa a zmluvnou stranou, ktorej vyznačenie podlieha protokolu, vyznačenie tejto zmluvnej strany bude podliehať dohode, a to k dátumu skončenia platnosti protokolu, čiže k dátumu, keď zmluvná strana majiteľa a vyznačená zmluvná strana sú zmluvnými stranami dohody.
+
+      - (2) Zápis
+
+        - Medzinárodný úrad zapíše do medzinárodného registra, ktorej zmluve podliehajú jednotlivé vyznačenia.
 
     - Pravidlo 2 Styk s medzinárodným úradom
 
@@ -1024,9 +1036,7 @@
 
         - (b) S výhradou písmena (c) žiadosť musí podať majiteľ alebo úrad zmluvnej strany majiteľa; ale žiadosť o zápis zmeny majiteľa môže podať úrad zmluvnej strany alebo jednej zo zmluvných strán uvedených v tejto žiadosti podľa odseku (2)(a)(iv).
 
-        - (c) Žiadosť o zápis vzdania sa alebo výmazu nemôže podať priamo majiteľ, ak sa vzdanie alebo výmaz týka zmluvnej strany vyznačenej podľa dohody.
-
-        - (d) Ak žiadosť podáva majiteľ, musí ju aj podpísať. V prípade, že žiadosť podáva úrad, žiadosť podpíše úrad, a ak to úrad vyžaduje, aj majiteľ. V prípade, že žiadosť podáva úrad, ktorý nevyžaduje, no pripúšťa, aby ju majiteľ podpísal, majiteľ môže túto žiadosť podpísať.
+        - (c) Žiadosť o zápis vzdania sa alebo výmazu nemôže podať priamo majiteľ, ak sa vzdanie alebo výmaz týka zmluvnej strany, ktorá je k dátumu doručenia žiadosti medzinárodnému úradom vyznačená podľa dohody.
 
       - (2) Obsah žiadosti
 
@@ -1190,7 +1200,7 @@
 
       - (4) Obdobie, za ktoré sa platia poplatky za obnovu zápisu
 
-        - Poplatky za každú obnovu sa platia na obdobie desiatich rokov bez ohľadu na to, či medzinárodný zápis obsahuje v zozname vyznačených zmluvných strán iba zmluvné strany vyznačené podľa dohody alebo iba zmluvné strany vyznačené podľa protokolu, alebo zmluvné strany vyznačené podľa dohody a podľa protokolu zároveň. Pokiaľ ide o platby podľa dohody, platba na obdobie desiatich rokov sa bude považovať za desaťročnú splátku.
+        - Poplatky za každú obnovu sa platia na obdobie desiatich rokov bez ohľadu na to, či medzinárodný zápis obsahuje v zozname vyznačených zmluvných strán iba zmluvné strany, ktorých vyznačenie podlieha dohode, alebo iba zmluvné strany, ktorých vyznačenie podlieha protokolu, alebo zmluvné strany, ktorých vyznačenie podlieha dohode a protokolu zároveň. Ak ide o platby podľa dohody, platba na obdobie desiatich rokov sa bude považovať za desaťročnú splátku.
 
     - Pravidlo 31 Zápis obnovy; oznámenie a osvedčenie
 
