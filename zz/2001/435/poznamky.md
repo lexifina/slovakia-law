@@ -10,9 +10,13 @@
 
 - 6) Vyhláška ministra zahraničných vecí č. 64/1975 Zb. o Parížskom dohovore na ochranu priemyselného vlastníctva z 20. marca 1883, revidovanom v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Štokholme 14. júla 1967 v znení vyhlášky č. 81/1985 Zb.
 
+- 6a) Článok 14 nariadenia Rady (ES) č. 2100/94 z 27. júla 1994 o právach spoločenstva k odrodám rastlín (Mimoriadne vydanie Ú. v. EÚ, 03/ zv. 16 Ú. v. ES L 227, 1. 9. 1994.).
+
 - 7) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 152/2000 Z. z. o uzavretí Dohody o založení Svetovej obchodnej organizácie.
 
 - 8) Článok 27 Zmluvy o medzinárodnom civilnom letectve zo 7. decembra 1944 (vyhláška č. 147/1947 Zb.).
+
+- 8a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
 - 9) § 136 až 142 Občianskeho zákonníka.
 
@@ -26,9 +30,13 @@
 
 - 13a) Občiansky zákonník.
 
+- 13b) § 10 zákona č. 132/1989 Zb. v znení neskorších predpisov.
+
 - 14) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
 
 - 15) Vyhláška ministra zahraničných vecí č. 212/1989 Zb. o Budapeštianskej zmluve o medzinárodnom uznávaní uloženia mikroorganizmov na účely patentového konania a Vykonávacieho predpisu k nej.
+
+- 15a) Článok 5bis ods. 1 Parížskeho dohovoru na ochranu priemyselného vlastníctva (vyhláška ministra zahraničných vecí č. 64/1975 Zb. o Parížskom dohovore na ochranu priemyselného vlastníctva z 20. marca 1883, revidovanom v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Stockholme 14. júla 1967 v znení vyhlášky ministra zahraničných vecí č. 81/1985 Zb.).
 
 - 16) Vyhláška Federálneho úradu pre vynálezy č. 350/1991 Zb. o odmeňovaní patentových zástupcov.
 
