@@ -8,7 +8,7 @@
 
 - b) vtedy, ak nevyhovujú podmienkam využiteľnosti zásob výhradného ložiska (§ 13 ods. 2), alebo
 
-- c) vtedy, ak ide o zásoby, ktorých dobývanie by ohrozilo dôležité verejné záujmy, najmä ochranu životného prostredia, a význam ochrany prevyšuje záujem na vydobytí týchto zásob.
+- c) vtedy, ak ide o zásoby, ktorých dobývanie by ohrozilo dôležité verejné záujmy, najmä ochranu životného prostredia, a význam ochrany prevyšuje záujem na vydobytí týchto zásob význam ochrany prevyšujúcej záujem na vydobytí týchto zásob preukáže príslušné ministerstvo obvodnému banskému úradu prostredníctvom Ministerstva hospodárstva Slovenskej republiky. Ministerstvo hospodárstva Slovenskej republiky túto skutočnosť potvrdí záväzným stanoviskom po jeho posúdení najmä z hľadiska uskutočňovania surovinovej politiky.
 
 (3) Návrh na odpis zásob výhradného ložiska vypracuje organizácia, ktorá má určený dobývací priestor, alebo organizácia, ktorá výhradné ložisko eviduje (§ 10 ods. 2), len čo zistí, že zásoby nie je možné alebo účelné vydobyť z dôvodov uvedených v odseku 2.
 
