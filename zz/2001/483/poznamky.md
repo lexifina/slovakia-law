@@ -142,7 +142,7 @@
 
 - Zákon č. 594/2003 Z. z.
 
-- 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+- 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 47) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
@@ -216,11 +216,13 @@
 
 - 72a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 73) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
+- 73) Zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 693/2006 Z. z.
 
-- Zákon č. 381/1997 Z. z. o cestovných dokladoch.
+- Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 74) Zákon č. 367/2000 Z. z.
 
@@ -260,7 +262,7 @@
 
 - 86) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.), Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.), Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.), Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.), Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
 
-- 86a) § 17 písm. b), § 18 a 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 86a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 86b) § 2 a 4 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
@@ -313,3 +315,5 @@
 - 93) Trestný poriadok v znení neskorších predpisov, § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení zákona č. 116/2000 Z. z.
 
 - 94) § 163 ods. 1 a 6 a § 163a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 95) Zákon č. 659/2007 Z. z.
