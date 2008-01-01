@@ -20,6 +20,8 @@
 
 - 11) Napríklad § 76 ods. 2, § 175r, § 305 písm. a) a § 307 ods. 2 Občianskeho súdneho poriadku v znení neskorších predpisov, § 96 ods. 3 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 83a ods. 6 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, § 78 ods. 3 a 4 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
+- 11a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1781/2006 z 15. novembra 2006 o údajoch o príkazcovi, ktoré sprevádzajú prevody finančných prostriedkov (Ú. v. EÚ L 345, 8. 12. 2006).
+
 - 12) Napríklad § 711 ods. 2 a § 719a Obchodného zákonníka, § 778 až 787 Občianskeho zákonníka.
 
 - 12a) § 5 písm. a) zákona č. 483/2001 Z. z.
@@ -130,7 +132,7 @@
 
 - 37) § 2 zákona č. 211/2000 Z. z.
 
-- 38) § 8 zákona č. 311/1999 Z. z. o registri trestov.
+- 38) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 39) Napríklad § 50 až 64 zákona č. 483/2001 Z. z. v znení zákona č. 430/2002 Z. z.
 
