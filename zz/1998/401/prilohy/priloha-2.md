@@ -152,15 +152,13 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>ELN</sub> – koeficient emisného limitu pri nezistení údajov o dodržaní emisného limitu
 
-- [Príloha 02](../assets/9244ad683c0a17ef4b63da5a60226328b253cc48fa68bc0d8c3de6ec2a7fada7.pdf)
+- [Príloha 02](../assets/50509d8fd27b83cd39a38526c8f96aae1da474e61458341d51f1586479668c74.pdf)
 
   - Tabuľka č. 3:
 
-  - Koeficienty emisného limitu, koeficienty prekročenia emisnej kvóty a kompenzačné koeficienty pre všetky znečisťujúce látky podliehajúce poplatkovej povinnosti pre všetkých znečisťovateľov ovzdušia, ktorí užívajú hnedé uhlie v množstve nad 30 % ročnej spotreby majúce pôvod na území Slovenskej republiky
+  - Koeficienty emisného limitu, koeficienty prekročenia emisnej kvóty a kompenzačné koeficienty pre všetky znečisťujúce látky podliehajúce poplatkovej povinnosti pre všetkých znečisťovateľov ovzdušia, ktorí používajú hnedé uhlie v množstve nad 30 % ročnej spotreby, majúce pôvod na území Slovenskej republiky
 
-- | | Trieda A a B EQ prekročená | EL dodržaný | Trieda A<sup>4</sup>) EL prekročený | Údaje nezistené (§ 5 ods. 2) | Trieda B<sup>2</sup>)
-
-- Rok | KK | Ko | KELD | Kelp | Keln | KELB
+- Rok | K<sub>K</sub> | Trieda A a B EQ prekročená K<sub>Q</sub> | EL dodržaný K<sub>ELD</sub> | Trieda A<sup>4</sup>) EL prekročený K<sub>ELP</sub> | Údaje nezistené (§ 5 ods. 2) K<sub>ELN</sub> | Trieda B<sup>2</sup>) K<sub>ELB</sub>
 
 - 2001 | 0,60 | 3,0 | 1,0 | 4,0 | 1,5 | 1,3
 
@@ -176,15 +174,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
 - 2007 | 0,65 | 3,0 | 1,0 | 4,0 | 1,5 | 1,35
 
-- 2008 | 0,70 | 3,0 | 1,0 | 4,0 | 1,5 | 1,40
-
-- 2009 | 0,75 | 3,0 | 1,0 | 4,0 | 1,5 | 1,45
-
-- 2010 | 0,80 | 3,0 | 1,0 | 4,0 | 1,5 | 1,50
-
-- 2011 | 0,85 | 3,0 | 1,0 | 4,0 | 1,5 | -
-
-- a neskôr | | | | | |
+- 2008 a neskôr | 0,70 | 3,0 | 1,0 | 4,0 | 1,5 | –
 
   - Tabuľka č. 4:
 
