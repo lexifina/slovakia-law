@@ -78,6 +78,10 @@
 
 - 36) § 5 ods. 8 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
 
+- 36a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
+- 36b) Zákon č. 330/2007 Z. z.
+
 - 37) Dohovor o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
 - 38) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
