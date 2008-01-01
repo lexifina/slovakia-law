@@ -2,34 +2,46 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 
 - ZOZNAM TOVAROV SO ZNÍŽENOU SADZBOU DANE Číselné kódy Spoločného colného sadzobníka<sup>1</sup>) | | Opis tovaru
 
-- ex2844 40 | | - Rádioaktívne prvky a izotopy a zlúčeniny, iné ako podpoložiek 2844 10, 2844 20 alebo 2844 30; zliatiny, disperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne zvyšky - len pre zdravotníctvo
+- ex2844 40 | | – Rádioaktívne prvky a izotopy a zlúčeniny, iné ako podpoložiek 2844 10, 2844 20 alebo 2844 30; zliatiny, disperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne zvyšky - len pre zdravotníctvo
 
-- 2925 11 00 | | - Sacharín a jeho soli
+- 2925 11 00 | | – Sacharín a jeho soli
 
-- 2941 | | - Antibiotiká
+- 2941 | | – Antibiotiká
 
-- 30 | | - Farmaceutické výrobky
+- 30 | | – Farmaceutické výrobky
 
-- 3822 00 00 | | - Diagnostické alebo laboratórne reagencie na podložke a pripravené diagnostické alebo laboratór- ne reagencie, tiež na podložke, iné ako v položke 3002 alebo 3006; certifikované referenčné mate- riály
+- 3822 00 00 | | – Diagnostické alebo laboratórne reagencie na podložke a pripravené diagnostické alebo laboratórne reagencie, tiež na podložke, iné ako v položke 3002 alebo 3006; certifikované referenčné materiály
 
-- ex3922 90 00 | | - Ostatné sanitárne výrobky z plastov - len sedačka do vane na použitie pre ťažko zdravotne postih- nutých občanov
+- ex3922 90 00 | | – Ostatné sanitárne výrobky z plastov - len sedačka do vane na použitie pre ťažko zdravotne postihnutých občanov
 
-- 6115 93 10 ex6602 00 00 | | - Pančuchy na kŕčové žily- Vychádzkové palice, palice so sedadielkom, biče, jazdecké bičíky a podobné výrobky - len pre nevi- diace a čiastočne vidiace osoby
+- 4818 40 | | – Hygienické vložky a tampóny, detské plienky a podobné hygienické výrobky – len na použitie pri inkontinencii
 
-- 7015 10 00 | | - Okuliarové sklá korekčné
+- 4901 | | – Tlačené knihy, brožúry, letáky a podobné tlačiarenské výrobky, tiež v jednotlivých listoch, okrem kníh, brožúr, letákov a podobných tlačiarenských výrobkov, tiež v jednotlivých listoch, v ktorých reklama a inzercia predstavujú jednotlivo alebo spolu viac ako 50 % celkového obsahu výrobku
 
-- ex8428 90 97 | | - Ostatné zdvíhacie, manipulačné, nakladacie alebo vykladacie stroje a zariadenia - len vaňo- vý zdvihák na použitie pre občanov s ťažkým zdravotným postihnutím
+- 4903 00 00 | | – Obrázkové knižky, predlohy na kreslenie alebo maľovanie, pre deti
 
-- ex8471 49 00 | | - Ostatné digitálne zariadenia na automatické spracovanie údajov, predkladané vo forme systé- mu - len zariadenia s hlasovým alebo hmatovým výstupom pre nevidiacich a slabozrakých
+- 4904 00 00 | | – Hudobniny, tlačené alebo v rukopise, tiež viazané alebo ilustrované
 
-- ex8518 40 | | - Ostatné elektrické nízkofrekvenčné zosilňovače - len individuálne zosilňovače pre nedoslýcha- vých, zosilňovače pre indukčné slučky pre nedoslýchavých, indukčné slučky pre nedoslýchavých, skupinové zosilňovače pre vyučovanie sluchovo postihnutých detí
+- 6115 10 ex6602 00 00 | | – Pančuchový tovar s odstupňovanou kompresiou (napr. pančuchy na kŕčové žily) – Vychádzkové palice, palice so sedadielkom, biče, jazdecké bičíky a podobné výrobky - len pre nevidiace a čiastočne vidiace osoby
 
-- ex8531 80 95 | | - Ostatné elektrické akustické alebo vizuálne signalizačné prístroje - len pre osoby so sluchovým a zrakovým postihnutím
+- ex8428 90 95 | | – Ostatné zdvíhacie, manipulačné, nakladacie alebo vykladacie stroje a zariadenia – len vaňový zdvihák na použitie pre občanov s ťažkým zdravotným postihnutím
 
-- 8713 | | - Vozíky pre telesne postihnuté osoby, tiež motorizované alebo s iným mechanickým pohonom
+- ex8471 49 00 | | – Ostatné zariadenia na automatické spracovanie údajov, predkladané vo forme systému - len zariadenia s hlasovým alebo hmatovým výstupom pre nevidiacich a slabozrakých
 
-- 8714 20 00 | | - Časti, súčasti a príslušenstvá vozíkov pre telesne postihnuté osoby
+- ex8518 40 | | – Elektrické nízkofrekvenčné zosilňovače (audiofrekvenčné) – len individuálne zosilňovače pre nedoslýchavých, zosilňovače pre indukčné slučky pre nedoslýchavých, indukčné slučky pre nedoslýchavých, skupinové zosilňovače pre vyučovanie sluchovo postihnutých detí
 
-- 9021 | | - Ortopedické zariadenia vrátane bariel, liečebných a chirurgických pásov a bandáží; dlahy a ostat- né pomôcky na liečenie zlomenín; umelé časti tela; načúvacie pomôcky a ostatné zariadenia nose- né alebo dopravované na tele alebo v tele implantované, na kompenzovanie nejakej chyby alebo neschopnosti.
+- ex8531 80 95 | | – Ostatné elektrické akustické alebo vizuálne signalizačné prístroje (iné ako položky 8512 alebo 8530) – len pre osoby so sluchovým a zrakovým postihnutím
+
+- 8713 | | – Vozíky pre telesne postihnuté osoby, tiež motorizované alebo s iným mechanickým pohonom
+
+- 8714 20 00 | | – Časti, súčasti a príslušenstvá vozíkov pre telesne postihnuté osoby
+
+- 9001 30 00 | | – Kontaktné šošovky
+
+- 9001 40 | | – Okuliarové šošovky zo skla
+
+- 9001 50 | | – Okuliarové šošovky z ostatných materiálov
+
+- 9021 | | – Ortopedické zariadenia vrátane bariel, liečebných a chirurgických pásov a bandáží; dlahy a ostatné pomôcky na liečenie zlomenín; umelé časti tela; načúvacie pomôcky a ostatné zariadenia nosené alebo dopravované na tele alebo v tele implantované, na kompenzovanie nejakej chyby alebo neschopnosti.
 
   - 1) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku v znení nariadenia Rady (EHS) č. 3528/89 z 23. 11. 1989, nariadenia Rady (EHS) č. 3845/89 z 18.12. 1989, nariadenia Rady (EHS) č. 2913/92 z 12. 10. 1992, nariadenia Rady (EHS) č. 1969/93 z 19. 7. 1993, nariadenia Rady (ES) č. 254/2000 z 31. 1. 2000.

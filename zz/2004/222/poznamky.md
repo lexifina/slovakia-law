@@ -12,6 +12,10 @@
 
 - 6a) Zákon č. 610/2003 Z. z. o elektronických komunikáciách.
 
+- 6aa) § 7 ods. 1 a 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov.
+
+- 6ab) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 732/2002 Z. z. o zozname zálohovaných obalov, ktoré nie sú opakovane použiteľné, a o výške zálohy za ne a o výške zálohy za zálohované opakovane použiteľné obaly.
+
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -66,6 +70,8 @@
 
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
+- 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
+
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 29a) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
@@ -79,3 +85,5 @@
 - 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 34) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime v znení oznámenia č. 193/2003 Z. z.
+
+- 35) § 29 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
