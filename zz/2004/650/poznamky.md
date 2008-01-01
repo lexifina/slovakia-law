@@ -64,6 +64,8 @@
 
 - 27) § 116 Občianskeho zákonníka.
 
+- 27a) § 8 písm. h) zákona č. 566/2001 Z. z.
+
 - 28) § 138 až 143 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - § 44 zákona č. 483/2001 Z. z. o bankách a o z mene a doplnení niektorých zákonov v znení zákona č. 603/2003 Z. z.
@@ -118,6 +120,8 @@
 
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
+- 45a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
 - 46) § 178 ods. 1 a 2 Obchodného zákonníka.
 
 - 47) § 178 ods. 3 Obchodného zákonníka.
@@ -129,3 +133,5 @@
 - 50) § 3 zákona č. 530/2003 Z. z. v znení zákona č. 432/2004 Z. z.
 
 - 51) § 27 Zákonníka práce.
+
+- 52) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
