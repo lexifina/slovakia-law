@@ -2,6 +2,10 @@
 
 - Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
+- Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
 - 2) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
 - 3) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
@@ -18,45 +22,33 @@
 
 - 9) § 51 Občianskeho zákonníka.
 
-- 10) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 11) § 15 ods. 1 písm. c) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
 - 12) § 15 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
 - 12a) § 15 ods. 1 písm. e) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
-- 13) § 65 ods. 2 až 10 zákona č. 461/2003 Z. z.
-
 - 14) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
-
-- 15) § 20 zákona č. 461/2003 Z. z.
-
-- 16) § 21 zákona č. 461/2003 Z. z.
-
-- 17) § 22 zákona č. 461/2003 Z. z.
-
-- 18) § 23 zákona č. 461/2003 Z. z.
 
 - 19) § 26 zákona č. 461/2003 Z. z.
 
-- 20) § 138 ods. 15 písm. a) zákona č. 461/2003 Z. z.
+- 20) § 138 ods. 13 a 15 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 21) § 138 ods. 8 a 10 zákona č. 461/2003 Z. z.
+- 21) § 138 ods. 6 a 7 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 22) § 138 ods. 9 zákona č. 461/2003 Z. z.
+- 22) § 138 ods. 8 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 23) § 138 ods. 11 a 12 zákona č. 461/2003 Z. z.
+- 23) § 138 ods. 9 a 10 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 24) § 138 ods. 13 zákona č. 461/2003 Z. z.
+- 24) § 138 ods. 11 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 25) § 138 ods. 17 zákona č. 461/2003 Z. z.
+- 25) § 138 ods. 19 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 26) § 138 ods. 18 zákona č. 461/2003 Z. z.
+- 26) § 138 ods. 20 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 27) § 138 ods. 19 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
+- 27) § 138 ods. 23 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
-- 28) § 138 ods. 21 a 22 zákona č. 461/2003 Z. z.
+- 28) § 138 ods. 21 a 22 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
 - 29) § 139 zákona č. 461/2003 Z. z.
 
@@ -182,6 +174,8 @@
 
 - 78) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 78a) § 5 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 79) § 113 zákona č. 566/2001 Z. z.
 
 - 79a) § 6 ods. 16 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -218,6 +212,8 @@
 
 - 93) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
+- 93a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
 - 94) Napríklad Trestný poriadok, Zákonník práce.
 
 - 95) § 178 ods. 1 a 2 Obchodného zákonníka.
@@ -225,3 +221,5 @@
 - 96) § 178 ods. 3 Obchodného zákonníka.
 
 - 97) § 28 zákona č. 566/2001 Z. z.
+
+- 98) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.

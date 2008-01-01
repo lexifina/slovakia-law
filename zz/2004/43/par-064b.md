@@ -4,7 +4,7 @@
 
 (2) Akceptačný list podľa odseku 1 vydá bez zbytočného odkladu pobočka Sociálnej poisťovne príslušná podľa miesta pobytu sporiteľa, ktorý má záujem prestúpiť do inej dôchodkovej správcovskej spoločnosti a osobne požiada o vydanie akceptačného listu, ak
 
-- a) ku dňu vydania akceptačného listu uplynuli najmenej dva roky odo dňa zápisu prvej zmluvy o starobnom dôchodkovom sporení do registra zmlúv alebo odo dňa prestupu do dôchodkovej správcovskej spoločnosti, z ktorej sporiteľ prestupuje, a
+- a) ku dňu vydania akceptačného listu uplynuli najmenej dva roky odo dňa zápisu prvej zmluvy o starobnom dôchodkovom sporení do registra zmlúv, odo dňa určenia dôchodkovej správcovskej spoločnosti Sociálnou poisťovňou alebo odo dňa prestupu do dôchodkovej správcovskej spoločnosti, z ktorej sporiteľ prestupuje, a
 
 - b) sporiteľ zaplatil Sociálnej poisťovni poplatok za vydanie akceptačného listu v hotovosti vo výške 500 Sk.
 
