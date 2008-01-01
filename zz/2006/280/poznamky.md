@@ -4,6 +4,8 @@
 
 - 3) § 2 ods. 1 písm. c) a § 3 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov.
 
+- 3a) § 40 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 653/2007 Z. z.
+
 - 4) § 3 zákona č. 93/2005 Z. z.
 
 - 5) Nariadenie Európskeho parlamentu a Rady (ES) 484/2002 z 1. marca 2002, ktorým sa menia a dopĺňajú nariadenia Rady (EHS) 881/92 a (EHS) 3118/93 na účely zavedenia vodičského osvedčenia (Ú. v. ES L 76, 19. 3. 2002).
