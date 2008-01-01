@@ -18,8 +18,6 @@
 
 - 8b) § 23 ods. 3 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení zákona č. 587/2004 Z. z.
 
-- 8c) § 25 ods. 4 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
-
 - 9) § 58 ods. 3 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
