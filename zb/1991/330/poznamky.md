@@ -4,7 +4,9 @@
 
 - 1aa) § 151a až 151n a § 602 Občianskeho zákonníka.
 
-- 1ab) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+- 1aaa) § 3 ods. 2 písm. a) a § 8 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 1ac) § 2 ods. 9 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
 - 2) § 21b ods. 1 zákona č. 229/1991 Zb. v znení neskorších predpisov.
 
@@ -12,9 +14,7 @@
 
 - 3) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
-- 3a) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
-
-- Zákon č. 64/1997 Z. z. v znení nálezu Ústavného súdu Slovenskej republiky č. 224/2001 Z. z.
+- 3a) Napríklad zákon Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži v znení zákona č. 571/2007 Z. z., zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov, zákon č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkových osadách a vyporiadaní vlastníctva k nim v znení neskorších predpisov, § 4 ods. 3 a 5 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
 - 3b) Zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 471/2001 Z. z.
 
@@ -22,15 +22,17 @@
 
 - 5) § 17 zákona č. 229/1991 Zb.
 
-- 5a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+- 5a) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch.
 
 - 5b) § 34 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
-- 6) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 6) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
 - 6a) Zákon Slovenskej národnej rady č. 100/1977 Zb.
+
+- 6aa) § 2 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení zákona č. 217/2004 Z. z.
+
+- 6ab) § 20 ods. 3 zákona č. 181/1995 Z. z.
 
 - 6b) § 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
@@ -44,7 +46,21 @@
 
 - 6f) § 139a zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
+- 6fa) § 7 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 6fb) Príloha č. 2 k vyhláške č. 79/1996 Z. z.
+
+- 6fc) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
 - 6g) § 108 ods. 2 písm. b), d) a k) zákona č. 50/1976 Zb.
+
+- 6h) § 39a zákona č. 50/1976 Zb.
+
+- 6i) § 39b zákona č. 50/1976 Zb.
+
+- 6j) § 9 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 6k) § 7 zákona č. 326/2005 Z. z.
 
 - 7) § 7 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
@@ -54,13 +70,15 @@
 
 - 7c) Zákon Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení zákona č. 217/2004 Z. z.
 
-- 7d) Zákon č. 64/1997 Z. z. v znení nálezu Ústavného súdu Slovenskej republiky č. 224/2001 Z. z.
+- 7d) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 38/2005 Z. z. o určení hodnoty pozemkov a porastov na nich na účely pozemkových úprav.
 
 - 7e) § 19 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení zákona č. 419/2002 Z. z.
 
 - 7f) § 108 zákona č. 50/1976 Zb.
 
 - 7g) § 2 ods. 2 písm. a) zákona č. 543/2002 Z. z.
+
+- 7ga) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 322/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 7h) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -102,6 +120,8 @@
 
 - 16b) § 14 ods. 3 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 16ba) § 3 ods. 1 písm. a) zákona č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
 - 16c) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 17) § 52 až 58 vyhlášky FMTIR č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení vyhlášky FMTIR č. 45/1979 Zb.
@@ -124,7 +144,7 @@
 
 - 22b) § 18 zákona č. 229/1991 Zb.§ 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.§ 6 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
 
-- 22c) § 2 zákona č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
+- 22c) § 3 zákona č. 326/2005 Z. z.
 
 - 23) Napríklad § 11, 17, 18 a § 22 ods. 4 zákona č. 229/1991 Zb., zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. v znení neskorších predpisov, zákon č. 61/1977 Zb. v znení neskorších predpisov.
 
@@ -133,6 +153,8 @@
 - Zákon č. 50/1976 Zb.
 
 - Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+
+- Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 23a) § 22 a 22a zákona č. 229/1991 Zb.
 
@@ -153,6 +175,8 @@
 - 23g) § 40 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 23h) § 16 ods. 1 písm. b) a c) zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
+
+- 23ha) Príloha č. 3, časť E.3.1 k vyhláške č. 492/2004 Z. z.
 
 - 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
 
@@ -247,3 +271,5 @@
 - 56) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
 - Zákon č. 503/2003 Z. z. v znení zákona č. 217/2004 Z. z.
+
+- 57) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
