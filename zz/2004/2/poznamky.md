@@ -18,6 +18,8 @@
 
 - 12b) § 5 ods. 6 písm. a) zákona č. 596/2003 Z. z.
 
+- 12c) § 2 ods. 4 nariadenia vlády Slovenskej republiky č. 238/2004 Z. z. o rozsahu vyučovacej činnosti a výchovnej činnosti pedagogických zamestnancov.
+
 - 15) § 35 zákona č. 596/2003 Z. z.
 
 - 16) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.

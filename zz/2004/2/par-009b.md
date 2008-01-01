@@ -14,8 +14,24 @@
 
 (5) Na určenie normatívneho príspevku pre špeciálne školské zariadenia podľa odseku 1 písm. a) sa započítava dieťa alebo žiak<sup>12a</sup>) vo veku od narodenia do ukončenia prvej prípravy na povolanie prijatý do školského zariadenia podľa osobitného predpisu<sup>12b</sup>).
 
-(6) Objem finančných prostriedkov pre liečebno-výchovné sanatóriá, reedukačné detské domovy, reedukačné domovy pre mládež a diagnostické centrá sa určí na bežný kalendárny rok v závislosti od skutočného priemerného prepočítaného denného počtu žiakov a zodpovedajúceho normatívneho príspevku.
+(6) Objem finančných prostriedkov
 
-(7) Normatív na dieťa špeciálnej materskej školy je 250 % normatívu na dieťa materskej školy určenej podľa § 8. Tieto údaje sa zohľadnia pri výpočte normatívov podľa § 3 ods. 5, 16 a 17. Normatív na dieťa materskej školy alebo špeciálnej materskej školy pri zdravotníckom zariadení je 150 % normatívu na dieťa materskej školy určenej podľa § 8, pri výpočte normatívneho príspevku sa dieťa započítava s koeficientom 1,5. Objem finančných prostriedkov pre materskú školu alebo špeciálnu materskú školu pri zdravotníckom zariadení sa určí na bežný kalendárny rok v závislosti od skutočného priemerného prepočítaného denného počtu detí a zodpovedajúceho normatívneho príspevku.
+- a) pre diagnostické centrum, liečebno-výchovné sanatórium, reedukačný detský domov a reedukačný domov pre mládež sa určí na bežný kalendárny rok v závislosti od
 
-(8) Normatív na dieťa ubytované v špeciálnej materskej škole internátnej je 500 % normatívu na žiaka ubytovaného v domove mládeže, pri výpočte tohto normatívu sa dieťa započítava s koeficientom 5,0.
+  - 1. dvoch tretín priemerného denného počtu žiakov - chovancov v predchádzajúcom školskom roku,
+
+  - 2. jednej tretiny priemerného denného počtu žiakov - chovancov v novom školskom roku, ktorý začal v predchádzajúcom kalendárnom roku, a
+
+  - 3. zodpovedajúceho normatívneho príspevku,
+
+- b) pre novovzniknuté diagnostické centrum, liečebno-výchovné sanatórium, reedukačný detský domov a reedukačný domov pre mládež sa určí v závislosti od priemerného denného počtu žiakov - chovancov a zodpovedajúceho normatívneho príspevku.
+
+(7) Normatív na dieťa špeciálnej materskej školy je 250 % normatívu na dieťa materskej školy určenej podľa § 8. Tieto údaje sa zohľadnia pri výpočte normatívov podľa § 3 ods. 5, 16 a 17.
+
+(8) Normatív na dieťa materskej školy alebo špeciálnej materskej školy pri zdravotníckom zariadení, vrátane tried materských škôl alebo tried špeciálnych materských škôl pri zdravotníckom zariadení,
+
+- a) pri detskej psychiatrickej liečebni, psychiatrickom, neurologickom alebo foniatrickom, onkologickom a infekčnom oddelení a pri zdravotníckom zariadení s lôžkovým oddelením, kde výchova a vzdelávanie dieťaťa sa uskutočňuje na lôžku, je 200 % normatívu na dieťa materskej školy určeného podľa § 8; pri výpočte normatívneho príspevku sa dieťa započítava s koeficientom 2,0,
+
+- b) pri oddeleniach zdravotníckych zariadení okrem oddelení podľa písmena a) je 100 % normatívneho príspevku na dieťa materskej školy určeného podľa § 8; pri výpočte normatívneho príspevku sa dieťa započítava s koeficientom 1,0.
+
+(9) Normatív na dieťa špeciálnej materskej školy internátnej sa skladá z normatívu na dieťa špeciálnej materskej školy podľa odseku 7 a normatívu na ubytovanie dieťaťa. Normatív na ubytovanie dieťaťa je 500 % normatívu na žiaka domova mládeže. Pri výpočte tohto normatívu sa ubytované dieťa započítava s koeficientom 5,0.
