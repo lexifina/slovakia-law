@@ -7,3 +7,5 @@ Príloha č. 1 k nariadeniu vlády č. 23/2003 Z. z.
   - 2. Smernica Rady 73/44/EHS z 26. februára 1973 o aproximácii zákonov členských štátov, ktoré sa vzťahujú na kvantitatívnu analýzu ternárnych zmesí vlákien (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 1.).
 
   - 3. Smernica Komisie 2006/2/ES zo 6. januára 2006, ktorou sa z dôvodu prispôsobenia technickému pokroku mení a dopĺňa príloha II k smernici Európskeho parlamentu a Rady 96/73/ES o určitých metódach na kvantitatívnu analýzu binárnych zmesí textilných vlákien (Ú. v. EÚ L 5, 10. 1. 2006).
+
+  - 4. Smernica Komisie 2007/4/ES z 2. februára 2007, ktorou sa na účely prispôsobenia technickému pokroku mení a dopĺňa príloha II k smernici Európskeho parlamentu a Rady 96/73/ES o určitých metódach na kvantitatívnu analýzu binárnych zmesí textilných vlákien (Ú. v. EÚ L 28, 3. 2. 2007).
