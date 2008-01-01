@@ -44,8 +44,14 @@
 
 - 18) Občiansky zákonník.
 
+- 18a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 19) § 1 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 
 - 20) § 476 až 488 Obchodného zákonníka.
 
 - 21) Napríklad Trestný zákon, Zákonník práce, Občiansky zákonník, Obchodný zákonník.
+
+- 22) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 23) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
