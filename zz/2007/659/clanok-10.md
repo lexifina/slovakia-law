@@ -2,8 +2,6 @@
 
 Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2002 Z. z., zákona č. 510/2002 Z. z., zákona č. 165/2003 Z. z., zákona č. 603/2003 Z. z., zákona č. 215/2004 Z. z., zákona č. 554/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 69/2005 Z. z., zákona č. 340/2005 Z. z., zákona č. 341/2005 Z. z., zákona č. 214/2006 Z. z., zákona č. 644/2006 Z. z. a zákona č. 209/2007 Z. z. sa mení a dopĺňa takto:
 
-- 1. V § 2 ods. 2 písm. c) prvom bode a druhom bode, § 38 ods. 1, § 67 ods. 2 a § 87 ods. 2 písm. d) sa slová „slovenských korunách“ nahrádzajú slovami „eurách“.
-
 - 2. V § 2 ods. 2 písm. n) sa slová „hypotekárne obchody“ nahrádzajú slovami „osobitné hypotekárne obchody (ďalej len “hypotekárny obchod„)“.
 
 - 3. V § 2 ods. 5 sa slovo „Činnosti“ nahrádzajú slovami „Bankové činnosti“.
@@ -19,18 +17,6 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 - 8. V § 41 ods. 4 sa na konci pripájajú tieto slová: „a pred financovaním terorizmu“.
 
 - 9. V poznámke pod čiarou k odkazu 46 sa na konci bodka nahrádza čiarkou a pripája sa táto citácia: „zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.“.
-
-- 10. V § 84 ods. 2 a § 85a ods. 2 sa na konci pripája táto veta: „Štátna prémia sa zaokrúhľuje na celé eurocenty nahor.“.
-
-- 11. V § 84 ods. 3 a § 85a ods. 4 sa slová „kurzom vyhláseným Národnou bankou Slovenska,<sup>31</sup>) platným“ nahrádzajú slovami „referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>31</sup>) ktorý je platný“.
-
-  - Poznámka pod čiarou k odkazu 31 znie:
-
-  - „<sup>31</sup>) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
-
-  - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.“.
-
-- 12. V § 87 ods. 2 písm. i) sa slová „slovenskej mene“ nahrádzajú slovami „eurách“.
 
 - 13. V § 89 ods. 2 prvej vete sa slová „totožnosti klienta<sup>73</sup>)“ nahrádzajú slovami „totožnosti klienta podľa osobitných predpisov o dokladoch totožnosti,<sup>73</sup>)“.
 

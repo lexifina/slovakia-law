@@ -2,8 +2,6 @@
 
 Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení zákona č. 458/2000 Z. z., zákona č. 559/2001 Z. z., zákona č. 385/2004 Z. z., zákona č. 261/2006 Z. z. a zákona č. 199/2007 Z. z. sa mení a dopĺňa takto:
 
-- 1. V § 5 sa vypúšťa odsek 6 vrátane poznámky pod čiarou k odkazu 3.
-
 - 2. Za § 24a sa vkladá § 24b, ktorý vrátane nadpisu znie:
 
 - „§ 24b

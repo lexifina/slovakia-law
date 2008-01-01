@@ -4,8 +4,6 @@ Zákon č. 191/1950 Zb. zmenkový a šekový sa mení a dopĺňa takto:
 
 - 1. V čl. I § 41 ods. 3 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.
 
-- 2. V čl. I § 48 ods. 2 sa slová „úradnej diskontnej sadzby Štátnej banky Československej“ nahrádzajú slovami „základnej úrokovej sadzby Európskej centrálnej banky“.
-
 - 3. V čl. I § 69 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.
 
 - 4. V čl. II § 36 ods. 3 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento zákon neustanovuje inak.“.

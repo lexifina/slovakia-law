@@ -20,10 +20,6 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 3. V § 3 ods. 2 písm. c) treťom bode sa slovo „cudzej“ nahrádza slovom „inej“.
 
-- 4. V § 3 ods. 2 písm. c) sa vypúšťa prvý bod.
-
-  - Zároveň sa druhý a tretí bod označujú ako prvý a druhý bod.
-
 - 5. Za § 4 sa vkladá § 4a, ktorý vrátane nadpisu znie:
 
 - „§ 4a
@@ -226,16 +222,6 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 34. V § 75 ods. 5 sa na konci pripája táto veta: „Opatrením, ktoré môže vydať Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia podrobnosti o vedení obchodnej knihy obchodníka s cennými papiermi.“.
 
-- 35. V § 76 ods. 2 sa slová „slovenské koruny podľa kurzu vyhláseného Národnou bankou Slovenska<sup>60</sup>) platného“ nahrádzajú slovami „eurá podľa referenčného výmenného kurzu určeného a vyhláseného Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>60</sup>) ktorý je platný“.
-
-  - Poznámka pod čiarou k odkazu 60 znie:
-
-  - „60)
-
-  - Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
-
-  - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.“.
-
 - 36. V § 79a ods. 2 sa za slovo „Ustanovenia “ vkladajú slová „§ 61a ods. 1, 2, 4 až 9,“.
 
 - 37. V § 84 sa vypúšťa odsek 6.
@@ -243,8 +229,6 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - Doterajšie odseky 7 až 10 sa označujú ako odseky 6 až 9.
 
 - 38. V § 84 ods. 7 prvej vete a druhej vete sa slová „odseku 7“ nahrádzajú slovami „odseku 6“.
-
-- 39. V § 85 ods. 4 druhej vete sa slová „kurz vyhlásený Národnou bankou Slovenska“ nahrádzajú slovami „referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>60</sup>) ktorý je platný“ a slová „ods. 7“ sa nahrádzajú slovami „ods. 6“.
 
 - 40. V § 86 ods. 5 sa slovo „konaní.<sup>76</sup>)“ nahrádza slovami „konaní;<sup>76</sup>) proti tomuto rozhodnutiu nemožno podať opravný prostriedok a toto rozhodnutie nie je preskúmateľné súdom.<sup>76a</sup>) Na rozhodovanie podľa odseku 3 je príslušná Banková rada Národnej banky Slovenska.“.
 
@@ -259,12 +243,6 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - 76a)
 
   - § 248 písm. d) Občianskeho súdneho poriadku.“.
-
-- 41. V § 87 ods. 2 prvej vete sa slová „sumy, ktorá sa rovná prepočtu 20 000 EUR na slovenské koruny podľa kurzu vyhláseného Národnou bankou Slovenska ku dňu, keď sa klientsky majetok u obchodníka s cennými papiermi stal nedostupným podľa § 82 ods. 1“ nahrádzajú slovami „20 000 eur“ a zároveň sa vypúšťa druhá veta.
-
-- 42. V § 87 ods. 3 poslednej vete sa slovo „koruny“ nahrádza slovom „eurá“.
-
-- 43. V § 88 ods. 8 sa slová „kurzu vyhláseného Národnou bankou Slovenska“ nahrádzajú slovami „referenčného výmenného kurzu určeného a vyhláseného Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>60</sup>) ktorý je platný“.
 
 - 44. V § 91 ods. 1 písm. b) sa slová „cenných papierov, ktorých emitentom je Slovenská republika (ďalej len “štátne cenné papiere„),“ nahrádzajú slovami „štátnych cenných papierov“.
 
@@ -379,5 +357,3 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
   - „125)
 
   - Zákon č. 659/2007 Z. z.“.
-
-- 63. V celom texte zákona okrem prechodných ustanovení sa slová „slovenská mena“ vo všetkých tvaroch nahrádzajú slovom „eurá“ v príslušnom gramatickom tvare.
