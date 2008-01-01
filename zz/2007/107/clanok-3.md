@@ -60,6 +60,18 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 
 - uzatvoriť zmluvu o dodávke plynu na vymedzenom území s každým, kto o to požiada, ak sú splnené technické podmienky a obchodné podmienky dodávateľa plynu, je k dispozícii dostatočná prepravná, distribučná a uskladňovacia kapacita a dostatočné množstvo plynu. Povinnosť dodávateľa uzatvoriť zmluvu o dodávke plynu sa nevzťahuje na odberateľa, ktorý za posledných 12 mesiacov hrubo porušil zmluvu o dodávke plynu alebo neoprávnene odoberal plyn,“.
 
+- 11. V § 54 sa za odsek 3 vkladajú nové odseky 4 a 5, ktoré znejú:
+
+- „(4)
+
+- Dodané a odobraté množstvo plynu sa vyhodnocuje ako množstvo energie vyjadrené v energetických jednotkách.
+
+- (5)
+
+- Základom účtovania dodávky plynu medzi dodávateľom a odberateľom je dodané množstvo energie. Toto množstvo energie je súčinom spaľovacieho tepla objemového za účtovacie obdobie a dodaného objemu plynu. Podrobnosti zásad prepočtu objemových jednotiek množstva na energiu a podmienky, za ktorých sa vykonáva stanovenie objemu plynu a spaľovacieho tepla objemového, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
+- Doterajšie odseky 4 až 7 sa označujú ako odseky 6 až 9.
+
 - 12. V § 66 ods. 1 sa vkladá nové písmeno a), ktoré znie:
 
 - „a)
