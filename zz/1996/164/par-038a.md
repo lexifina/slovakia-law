@@ -16,7 +16,7 @@
 
 (2) K žiadosti o udelenie licencie žiadateľ pripojí
 
-- a) odpis z registra trestov všetkých členov štatutárneho orgánu nie starší ako tri mesiace,
+- a) výpis z registra trestov všetkých členov štatutárneho orgánu nie starší ako tri mesiace,
 
 - b) výpis z obchodného registra,
 
