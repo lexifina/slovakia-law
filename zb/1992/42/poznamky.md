@@ -44,13 +44,13 @@
 
 - 12) Vlastníctvo možno preukázať napríklad kúpnou zmluvou, potvrdením notárstva o nadobudnutí dedičstva, dokladom, že družstvo prevzalo majetok, členskou prihláškou do družstva, výpisom z pozemkovej knihy a pod.
 
-- 12a) § 1 ods. 1 písm. m) zákona č. 600/1992 Zb. o cenných papieroch v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z.
+- 12a) § 2 ods. 2 písm. p) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
-- 12b) § 3 zákona č. 600/1992 Zb.
+- 12b) § 11 zákona č. 566/2001 Z. z.
 
-- 12c) § 1 ods. 2 a 4 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+- 12c) § 10 ods. 1 zákona č. 566/2001 Z. z.
 
-- 12d) Zákon č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 88/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z. a zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
+- 12d) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 12e) § 5 ods. 5 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z.
 
@@ -67,8 +67,6 @@
 - 12j) § 25 zákona č. 214/1992 Zb. o burze cenných papierov a § 50 ods. 4 zákona č. 600/1992 Zb. v znení zákona Národnej rady Slovenskej republiky č. 246/1994 Z. z.
 
 - 12k) § 6 ods. 3 Obchodného zákonníka.
-
-- 12kk) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
 - 12l) § 107 a 108 zákona č. 566/2001 Z. z.
 
