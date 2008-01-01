@@ -36,6 +36,10 @@
 
 - 15) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
+- 15a) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 15b) § 20 ods. 2 a 3 a § 24 ods. 7 zákona č. 659/2007 Z. z.
+
 - 16) § 451 a nasl. Občianskeho zákonníka.
 
 - 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
