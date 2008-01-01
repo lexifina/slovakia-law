@@ -92,6 +92,8 @@
 
 - 34) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 34a) Opatrenie Ministerstva financií Slovenskej republiky z 30. novembra 2005 č. MF/22930/2005-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre zdravotné poisťovne (oznámenie č. 592/2005 Z. z.).
+
 - 35) § 20 ods. 4 zákona č. 431/2002 Z. z.
 
 - 35a) § 9 ods. 3 zákona č. 580/2004 Z. z.
@@ -146,7 +148,7 @@
 
 - 46) § 41 ods. 2 a § 116 až 152 Trestného zákona.
 
-- 47) § 7 a 9 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 47) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 48) § 13 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
