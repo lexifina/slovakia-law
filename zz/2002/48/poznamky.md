@@ -38,7 +38,7 @@
 
 - 11) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 11a) Článok 1 bod 1 písm. c) Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z. ).
+- 11a) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.).
 
 - 11b) § 22 ods. 5 zákona č. 5/2004 Z. z. v znení zákona č. 1/2005 Z. z.
 
