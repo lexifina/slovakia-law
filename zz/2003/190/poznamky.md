@@ -28,11 +28,7 @@
 
 - 15) Zákon č. 179/1998 Z. z. v znení neskorších predpisov.
 
-- 16) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
-
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
-
-- 18) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
 - 19) § 41 ods. 2 Trestného zákona.
 
@@ -41,6 +37,8 @@
 - 21) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
 
 - 21a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 21aa) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 22) Nariadenie vlády Slovenskej republiky č. 460/2000 Z. z. o dĺžke trvania a rozsahu odbornej prípravy zamestnancov obecnej polície a o ustanovení a zložení odborných komisií Policajného zboru.
 
