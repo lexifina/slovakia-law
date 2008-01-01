@@ -4,7 +4,7 @@ podpredseda vlády a minister financií
 
 Príloha č. 1 k opatreniu č. 20 359/2002-92
 
-[Rámcová účtová osnova pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy](assets/7479c59eaed9bd9dcd6ea81645e56a49ffc7f5deb099b1c11953f474a344564f.pdf)
+[Rámcová účtová osnova pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností](assets/ad28c144eb509e3a24b4fa2be0339e60b328447967ea85d35b6e2a8d7117fc0c.pdf)
 
 Príloha č. 2 k opatreniu č. 20 359/2002-92
 
