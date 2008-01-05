@@ -5,3 +5,7 @@ Príloha č. 5 k nariadeniu vlády č. 135/2006 Z. z.
 - 2. Smernica Komisie 2006/28/ES zo 6. marca 2006, ktorou sa mení a dopĺňa na účely prispôsobenia sa technickému pokroku smernica Rady 72/245/EHS týkajúca sa rádiového odrušenia (elektromagnetickej kompatibility) vozidiel a smernica 70/156/EHS o aproximácii právnych predpisov členských štátov o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel (Ú. v. EÚ L 65/27, 7. 3. 2006).
 
 - 3. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
+
+- 4. Smernica Európskeho parlamentu a Rady 2006/40/ES zo 17. mája 2006 o emisiách z klimatizačných systémov v motorových vozidlách, ktorou sa mení a dopĺňa smernica Rady 70/156/EHS (Ú. v. EÚ L 161, 14. 6. 2006).
+
+- 5. Smernica Komisie 2007/37/ES z 21. júna 2007, ktorou sa menia a dopĺňajú prílohy I a III k smernici Rady 70/156/EHS o aproximácii právnych predpisov členských štátov o typovom schválení motorových vozidiel a ich prípojných vozidiel (Ú. v. EÚ L 161, 22. 6. 2007).
