@@ -1714,6 +1714,8 @@ K oznámeniu č. 129/2006 Z. z.
 
   - Genčve | Departement de justice, police et sécurité Service des passeports et de la nationalité Légalisations Rue Henri-Fazy 2 Case postale 3962 CH- 1211 Genčve 3 tel.: +41 22 327 06 24/3 fax: +41 22 327 23 50 | patrick.pm.muller @ eta.ge.ch
 
+  - Geneve | Département des Institutions Légalisation 14, rue de l`Hôtel-de-Ville CH-1211 Geneve 3 |
+
   - Glaris | Regierungskanzlei des Kantons Glarus Rathaus CH - 8750 Glarus tel.: +41 55 646 69 63/64 fax: +41 55 646 69 91 | regierungskanzlei@gl.ch
 
   - Grisons | Standeskanzlei Graubúnden Legalisationen/ Beglaubigungen Julius Maissen Reichgasse 35 CH- 7001 Chur tel.: +41 81 257 22 28 fax: +41 81 257 21 41 | julius.maissen@staka.gr.ch
