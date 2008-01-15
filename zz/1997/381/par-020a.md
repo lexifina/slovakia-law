@@ -1,3 +1,0 @@
-# § 20a
-
-Proti rozhodnutiu o odopretí vydania cestovného dokladu a proti rozhodnutiu o odňatí cestovného dokladu možno podať opravný prostriedok na súde.<sup>13a</sup>) Podanie opravného prostriedku proti rozhodnutiu o odňatí cestovného dokladu nemá odkladný účinok.
