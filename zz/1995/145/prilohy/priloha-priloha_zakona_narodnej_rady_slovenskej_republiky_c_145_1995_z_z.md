@@ -432,23 +432,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 1000 Sk
 
-  - Oslobodenie Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie prvého občianskeho preukazu a nového občianskeho preukazu podľa § 7 ods. 2 a § 17 ods. 4 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov. |
+  - Oslobodenie 1. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie prvého občianskeho preukazu a nového občianskeho preukazu podľa § 7 ods. 2 a § 17 ods. 4 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov. 2. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. 3. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. |
 
     - Položka 23
 
-  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca ....................................................... | 1 000 Sk
+  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe staršej ako 13 rokov | 1 000 Sk
 
-  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe od 5 rokov do 15 rokov . | 400 Sk
+  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe od 5 do 13 rokov | 400 Sk
 
-  - c) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 5 rokov ..... | 250 Sk
+  - c) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 5 rokov | 250 Sk
 
-  - d) Vydanie cestovného preukazu alebo preukazu na prekračovanie štátnych hraníc ........................ | 200 Sk
+  - d) Predĺženie platnosti alebo vykonanie zmeny údajov v cestovnom doklade, za každý úkon | 100 Sk
 
-  - e) Predĺženie platnosti alebo vykonanie zmeny v cestovnom doklade, za každý úkon ....................... | 100 Sk
+  - Splnomocnenie Správny orgán vyberie poplatok podľa tejto položky vo výške štvornásobku príslušnej sadzby pri prvej strate alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške osemnásobku príslušnej sadzby pri druhej strate alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch a vo výške desaťnásobku príslušnej sadzby pri tretej strate alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch. Správny orgán vyberie poplatok v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov alebo ak ide o osobu mladšiu ako 15 rokov. Správny orgán vyberie poplatok vo výške štvornásobku príslušnej sadzby, ak vydáva cestovný doklad urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
 
-  - Splnomocnenie Správny orgán vyberie poplatok podľa tejto položky až do výšky desaťnásobku príslušnej sadzby, ak vydáva cestovný doklad ako náhradu za stratený, zničený alebo poškodený cestovný doklad vydaný od 1. 4. 1994, s výnimkou osoby mladšej ako 15 rokov a až do výšky štvornásobku príslušnej sadzby, ak vydáva cestovný doklad urýchlene na výslovnú žiadosť poplatníka. Správny orgán vyberie poplatok v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov. |
-
-  - Poznámka Poplatok podľa tejto položky sa nevyberie, ak sa vydáva náhradou za platný cestovný doklad pri zmene rodného čísla nezavinenej občanom, z dôvodu chybného zápisu rodného čísla v matrike alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. |
+  - Oslobodenie 1. Od poplatku podľa písmen a) až c) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmena d) tejto položky sú oslobodené osoby, ktorým sa vykonáva zmena údajov o ťažkom zdravotnom postihnutí alebo obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. |
 
     - Položka 24
 
@@ -1027,6 +1025,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 2. za odcudzený preukaz | 200 Sk
 
   - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osobitným právnym predpisom.<sup>19</sup>) |
+
+  - Splnomocnenie Pri vydávaní vodičského preukazu vyberie správny orgán poplatok do výšky štvornásobku príslušnej sadzby, ak vydáva vodičský preukaz urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
 
     - Položka 63a
 
@@ -3878,15 +3878,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 243
 
-  - a) Žiadosť o vydanie cestovného pasu ..... | 1 000 Sk
+  - a) Žiadosť o vydanie cestovného pasu osobe staršej ako 13 rokov | 1 000 Sk
 
-  - b) Žiadosť o vydanie cestovného pasu osobe od 5 rokov do 15 rokov ..... | 400 Sk
+  - b) Žiadosť o vydanie cestovného pasu osobe od 5 do 13 rokov | 400 Sk
 
-  - c) Žiadosť o vydanie cestovného pasu osobe mladšej ako 5 rokov ..... | 250 Sk
+  - c) Žiadosť o vydanie cestovného pasu osobe mladšej ako 5 rokov | 250 Sk
 
-  - d) Vykonanie zmeny v cestovnom doklade, za každý úkon ..... | 100 Sk
+  - d) Žiadosť o vydanie cestovného preukazu | 200 Sk
 
-  - Splnomocnenie Správny orgán vyberie poplatok podľa písmena a) tejto položky vo výške dvojnásobku príslušnej sadzby, ak prijíma žiadosť o vydanie cestovného pasu ako náhrady za stratený, zničený alebo poškodený cestovný pas vydaný od 1. apríla 1994. Poznámka Poplatok podľa tejto položky sa nevyberie, ak sa vydáva náhradou za platný cestovný doklad pri zmene rodného čísla nezavinenej občanom, z dôvodu chybného zápisu rodného čísla v matrike alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. |
+  - e) Vykonanie zmeny údajov v cestovnom doklade, za každý úkon | 100 Sk
+
+  - Splnomocnenie Poplatok podľa tejto položky sa vyberie vo výške štvornásobku príslušnej sadzby pri prvej strate alebo poškodení cestovného pasu v dobe jeho platnosti, vo výške osemnásobku príslušnej sadzby pri druhej strate alebo poškodení cestovného pasu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch a vo výške desaťnásobku príslušnej sadzby pri tretej strate alebo poškodení cestovného pasu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch. Poplatok sa vyberie v základnej sadzbe, ak ide o osobu mladšiu ako 15 rokov. Oslobodenie Od poplatku podľa písmen a) až c) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný pas ako náhrada za platný cestovný pas pri zmene nezavinenej občanom, alebo ak bola v cestovnom pase zistená chyba zapríčinená výrobcom cestovného pasu alebo chyba zapríčinená orgánom, ktorý cestovný pas vydal. |
 
     - Položka 244
 
