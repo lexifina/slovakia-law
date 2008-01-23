@@ -51,5 +51,3 @@ Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niekto
 - e)
 
 - prehlbovania kvalifikácie, čerpania študijného voľna pri zvyšovaní kvalifikácie.“.
-
-- 2. V čl. IV sa slová „1. januára 2005“ nahrádzajú slovami „1. januára 2006“.
