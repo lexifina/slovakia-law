@@ -186,6 +186,14 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 2. konzulárny odbor ministerstva zahraničných vecí pre všetky ostatné listiny
 
+    - Čiernohorská republika
+
+  - 1. Prvostupňové súdy:
+
+    - Základný (osnovny) súd v mestách: Bar, Berane, Bijelo Polje, Danilovgrad, Žabljak, Kolašin, Kotor, Nikšič, Plav, Pljevlja, Podgorica, Rožaje, Ulcinj, Herceg Novi, Cetinje.
+
+  - 2. Ministerstvo spravodlivosti pre listiny vydané orgánmi prvostupňových súdov, ak sú k dispozícii ich podpisové vzory a vzory pečiatok.
+
     - Čína (len zvláštne správne jednotky Hong Kong a Macao)
 
     - I. pre Hong Kong Special Administrative Region:
