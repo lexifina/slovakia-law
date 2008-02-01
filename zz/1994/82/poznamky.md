@@ -12,6 +12,8 @@
 
 - 4a) Zákon č. 170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze.
 
+- 4b) § 269 Obchodného zákonníka.
+
 - 5b) Zákon č. 473/2003 Z. z. o pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5d) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
