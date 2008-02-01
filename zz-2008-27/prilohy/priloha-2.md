@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 27/2008 Z. z.
+
+- ZOZNAM SÚRADNÍC LOMOVÝCH BODOV HRANICE CHRÁNENÉHO VTÁČIEHO ÚZEMIA [Tabuľka 02](../assets/66e14880b0c490cbd938641703494cd3b5ea4be2fad1958f8e5c87ac9354f9c8.pdf)
