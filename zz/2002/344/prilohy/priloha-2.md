@@ -397,3 +397,17 @@
   - 3. Podľa článku 29 dohovoru Albánska republika určila ústredný orgán:
 
   - Ministerstvo spravodlivosti Albánskej republiky
+
+  - Ukrajina
+
+  - a) Dohovor pre Ukrajinu nadobudol platnosť 1. februára 2008.
+
+  - b) Listina o prístupe Ukrajiny k dohovoru obsahuje tieto výhrady a vyhlásenie:
+
+  - 1. „Podľa článku 60 ods. 1 dohovoru si Ukrajina vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým vo vzťahu k takému majetku jej orgánmi, ako ustanovuje článok 55 dohovoru.“.
+
+  - 2. „Podľa článku 45 ods. 2 dohovoru Ukrajina vyhlasuje, že žiadosti podľa článku 34 ods. 1 sa smú zasielať jej orgánom len prostredníctvom ústredného orgánu.“.
+
+  - 3. „Podľa článku 29 a 44 dohovoru Ukrajina určila ústredný orgán:
+
+  - Ministerstvo spravodlivosti Ukrajiny.“.
