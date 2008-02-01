@@ -86,8 +86,6 @@ LB.S. | Služby k listovým zásielkam a balíkom | |
 
 LB.S.1 | Doporučene (článok 22 PP) | | 15,00
 
-LB.S.2 | Doporučene s potvrdením dodania (článok 22 PP) | | 23,00
-
 LB.S.5 | Poistenie do 1 000 Sk pri listoch (článok 25 PP) | | 16,00
 
 LB.S.6.1 | Poistenie do 1 000 Sk pri balíkoch (článok 25 PP) | | 6,00
@@ -170,7 +168,7 @@ Položka LB.1.1.2 | - ak ktorýkoľvek rozmer listu presahuje príslušný najv�
 
 Položka LB.1.2.2 | - ak ktorýkoľvek rozmer listu presahuje príslušný najväčší rozmer listovej zásielky plochého pravouhlého tvaru (dĺžka 235 mm, šírka 165 mm, hrúbka 5 mm) určený PP podľa článku 3 ods. 13 alebo je list podaný v doručenkovej obálke, ktorá nespĺňa podmienku podľa článku 26 PP ods. 7, uplatní sa cena podľa položky LB. 1.2.3.
 
-Položka LB.2.1 | - k slepeckej zásielke možno využiť bezplatne aj služby podliehajúce štátnej cenovej regulácii LB.S.1 Doporučene, LB.S.2 Doporučene s potvrdením dodania, LB.S.8.1 Doručenka*, LB.S.9.3 Do vlastných rúk*.
+Položka LB.2.1 | – k slepeckej zásielke možno využiť bezplatne aj služby podliehajúce štátnej cenovej regulácii LB.S.1 Doporučene, LB.S.8.1 Doručenka*, LB.S.9.3 Do vlastných rúk*.
 
 Položka LB.4.1.2 | - ak ktorýkoľvek rozmer reklamnej adresovanej zásielky presahuje príslušný najväčší rozmer listovej zásielky plochého pravouhlého tvaru (dĺžka 235 mm, šírka 165 mm, hrúbka 5 mm) určený PP podľa článku 3 ods.13, uplatní sa cena podľa položky LB.4.1.3.
 
