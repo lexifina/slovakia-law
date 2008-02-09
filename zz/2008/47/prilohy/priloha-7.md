@@ -1,0 +1,1 @@
+- Dohovor o udeľovaní európskych patentov (Európsky patentový dohovor) - anglické znenie [Anglické znenie textu](../assets/62fd5d381ed7f772beaf97a76d553e6b7ac84ac0bed1549b3a664a0b5865b8a8.pdf)
