@@ -1,0 +1,11 @@
+# Čl. I
+
+Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 559/2007 Z. z., ktorou sa ustanovujú podrobnosti zásad prepočtu objemových jednotiek množstva plynu na energiu a podmienky, za ktorých sa vykonáva stanovenie objemu plynu a spaľovacieho tepla objemového sa mení takto:
+
+- Príloha k vyhláške znie:
+
+- „Príloha k vyhláške č. 559/2007 Z. z.
+
+- NADMORSKÁ VÝŠKA OBCE/MESTA (V METROCH) ZA OBCE/MESTÁ SLOVENSKEJ REPUBLIKY A HODNOTA OBJEMOVÉHO PREPOČÍTAVACIEHO ČÍSLA
+
+- [Tabuľka](assets/0cdf769874bdd4ea09812474c2b0da99aa914761cb8c7f7174c9aca8db5d4fc9.pdf)“.
