@@ -6,13 +6,11 @@
 
 (3) Príspevok na bývanie nemožno priznať policajtovi,
 
-- a) ktorému je poskytované ubytovanie nepretržite aspoň po dobu jedného mesiaca v ubytovacom zariadení služobného úradu v mieste výkonu štátnej služby alebo v mieste, z ktorého môže denne dochádzať do miesta výkonu štátnej služby,
+- a) ktorému sa poskytujú náhrady výdavkov pri prijatí alebo preložení na inú funkciu podľa § 113,
 
-- b) ktorému sa poskytujú náhrady výdavkov pri prijatí alebo preložení na inú funkciu podľa § 113,
+- b) ktorý je zaradený do činnej zálohy z dôvodu vyslania na výkon štátnej služby v zahraničí,
 
-- c) ktorý je zaradený do činnej zálohy z dôvodu vyslania na výkon štátnej služby v zahraničí,
-
-- d) ktorý je vyslaný na služobnú cestu alebo na zahraničnú služobnú cestu trvajúcu nepretržite aspoň po dobu jedného mesiaca.
+- c) ktorý je vyslaný na služobnú cestu alebo na zahraničnú služobnú cestu trvajúcu nepretržite aspoň po dobu jedného mesiaca.
 
 (4) Príspevok na bývanie nepatrí policajtovi počas doby dočasného pozbavenia výkonu štátnej služby, výkonu väzby, zaradenia do neplatenej zálohy, zaradenia do zálohy pre prechodne nezaradených policajtov, ak táto doba trvá nepretržite aspoň jeden mesiac.
 

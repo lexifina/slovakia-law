@@ -6,7 +6,7 @@
 
 - b) splnenie mimoriadnej služobnej úlohy alebo významnej služobnej úlohy, alebo vopred určenej služobnej úlohy, prípadne jej ucelenej etapy.
 
-(2) Policajtovi možno udeliť odmenu za dlhodobé dosahovanie veľmi dobrých výsledkov vo výkone štátnej služby až do výšky služobného príjmu podľa § 84 ods. 1 písm. a) až m) pri
+(2) Policajtovi možno udeliť odmenu za dlhodobé dosahovanie veľmi dobrých výsledkov vo výkone štátnej služby až do výšky služobného príjmu podľa § 84 ods. 1 písm. a) až m) a ak ide o príslušníka Policajného zboru podľa § 84 ods. 2 písm. a) až m) pri
 
 - a) dosiahnutí 50 rokov veku,
 

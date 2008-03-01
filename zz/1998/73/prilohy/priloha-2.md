@@ -6,21 +6,21 @@ Príloha č. 2
 
   - PRVÁ ČASŤ POLICAJNÝ ZBOR Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
 
-  - 1.01. | prezident Policajného zboru | 30 % až 70 %
+  - 1.01. | prezident Policajného zboru | 30 % až 90 %
 
-  - 1.02. | generálny riaditeľ sekcie, rektor Akadémie Policajného zboru v Bratislave, viceprezident Policajného zboru | 20 % až 60 %
+  - 1.02. | generálny riaditeľ sekcie, rektor Akadémie Policajného zboru v Bratislave, viceprezident Policajného zboru | 20 % až 77 %
 
-  - 1.03. | riaditeľ úradu ministerstva, biskupský vikár, zástupca generálneho riaditeľa sekcie, prorektor Akadémie Policajného zboru v Bratislave, riaditeľ krajského riaditeľstva | 15 % až 50 %
+  - 1.03. | riaditeľ úradu ministerstva, biskupský vikár, zástupca generálneho riaditeľa sekcie, prorektor Akadémie Policajného zboru v Bratislave, riaditeľ krajského riaditeľstva | 15 % až 64 %
 
-  - 1.04. | riaditeľ odboru, riaditeľ (vedúci) organizácie a zariadenia ministerstva, zástupca riaditeľa úradu ministerstva, zástupca biskupského vikára, zástupca riaditeľa krajského riaditeľstva, riaditeľ okresného riaditeľstva | 10 % až 40 %
+  - 1.04. | riaditeľ odboru, riaditeľ (vedúci) organizácie a zariadenia ministerstva, zástupca riaditeľa úradu ministerstva, zástupca biskupského vikára, zástupca riaditeľa krajského riaditeľstva, riaditeľ okresného riaditeľstva | 10 % až 51 %
 
-  - 1.05. | vedúci samostatného oddelenia, zástupca riaditeľa odboru, vedúci katedry Akadémie Policajného zboru v Bratislave, zástupca riaditeľa (vedúceho) organizácie a zariadenia, riaditeľ odboru krajského riaditeľstva, zástupca riaditeľa okresného riaditeľstva | 9 % až 35 %
+  - 1.05. | vedúci samostatného oddelenia, zástupca riaditeľa odboru, vedúci katedry Akadémie Policajného zboru v Bratislave, zástupca riaditeľa (vedúceho) organizácie a zariadenia, riaditeľ odboru krajského riaditeľstva, zástupca riaditeľa okresného riaditeľstva | 9 % až 45 %
 
-  - 1.06. | zástupca riaditeľa odboru krajského riaditeľstva, riaditeľ odboru okresného riaditeľstva, vedúci predmetovej skupiny strednej odbornej školy Policajného zboru, vedúci ročníka Akadémie Policajného zboru v Bratislave, riaditeľ základného útvaru | 8 % až 30 %
+  - 1.06. | zástupca riaditeľa odboru krajského riaditeľstva, riaditeľ odboru okresného riaditeľstva, vedúci predmetovej skupiny strednej odbornej školy Policajného zboru, vedúci ročníka Akadémie Policajného zboru v Bratislave, riaditeľ základného útvaru | 8 % až 39 %
 
-  - 1.07. | vedúci oddelenia, zástupca riaditeľa odboru okresného riaditeľstva, zástupca riaditeľa základného útvaru, vedúci samostatného oddelenia okresného riaditeľstva, veliteľ jednotky | 7 % až 27 %
+  - 1.07. | vedúci oddelenia, zástupca riaditeľa odboru okresného riaditeľstva, zástupca riaditeľa základného útvaru, vedúci samostatného oddelenia okresného riaditeľstva, veliteľ jednotky | 7 % až 35 %
 
-  - 1.08. | zástupca vedúceho oddelenia, vedúci skupiny, vedúci zmeny, zástupca veliteľa jednotky, veliteľ čaty, zástupca veliteľa čaty | 5 % až 20 %
+  - 1.08. | zástupca vedúceho oddelenia, vedúci skupiny, vedúci zmeny, zástupca veliteľa jednotky, veliteľ čaty, zástupca veliteľa čaty | 5 % až 26 %
 
   - DRUHÁ ČASŤ ZBOR VÄZENSKEJ A JUSTIČNEJ STRÁŽE
 
