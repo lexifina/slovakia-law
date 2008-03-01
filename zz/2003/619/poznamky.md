@@ -30,6 +30,8 @@
 
 - 14) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
+- 14a) § 10 zákona č. 68/2008 Z. z. o úhrade za služby verejnosti poskytované Slovenskou televíziou a Slovenským rozhlasom a o zmene a doplnení niektorých zákonov.
+
 - 15) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 16) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
