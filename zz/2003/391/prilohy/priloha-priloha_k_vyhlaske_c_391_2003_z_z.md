@@ -1,4 +1,4 @@
-Príloha č. 3 k vyhláške č. 391/2003 Z. z.
+Príloha k vyhláške č. 391/2003 Z. z.
 
 - KATEGÓRIE PRIEMYSELNÝCH ČINNOSTÍ A KÓDY NOSE-P* Činnosti podľa prílohy č. 1 zákona | Kategórie priemyselných činností | NOSE-P | Zaradenie do skupín NOSE-P
 

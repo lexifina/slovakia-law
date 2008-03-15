@@ -2,4 +2,8 @@
 
 - 2) Položka 171b prílohy zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 245/2003 Z. z.
 
-- 3) Napríklad vyhláška Ministerstva životného prostredia Slovenskej republiky č. 474/2000 Z. z. o zisťovaní množstva vypúšťaných znečisťujúcich látok, o spôsobe a podmienkach zisťovania, sledovania a preukazovania údajov o dodržaní určených emisných limitov a všeobecných podmienok prevádzkovania a o požiadavkách na technické prostriedky na monitorovanie emisií a imisií, výnos Ministerstva životného prostredia Slovenskej republiky z 15. mája 2003 č. 1/2003 o technickom zabezpečení oprávnených meraní a metodikách monitorovania emisií a kvality ovzdušia (oznámenie č. 204/2003 Z. z.), nariadenie vlády Slovenskej republiky č. 491/2002 Z. z., ktorým sa ustanovujú kvalitatívne ciele povrchových vôd a limitné hodnoty ukazovateľov znečistenia odpadových vôd a osobitných vôd, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 556/2002 Z. z. o vykonaní niektorých ustanovení vodného zákona.
+- 3) Čl. 5 ods. 1 a príloha II nariadenia Európskeho parlamentu a Rady (ES) č. 166/2006 z 18. januára 2006 o zriadení Európskeho registra uvoľňovania a prenosov znečisťujúcich látok, ktorým sa menia a dopĺňajú smernice Rady 91/689/EHS a 96/61/ES (Ú. v. EÚ L 33, 4. 2. 2006).
+
+- 4) Príloha II nariadenia Európskeho parlamentu a Rady (ES) č. 166/2006.
+
+- 5) § 3 ods. 3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 411/2007 Z. z., ktorou sa vykonáva zákon č. 205/2004 Z. z. o zhromažďovaní, uchovávaní a šírení informácií o životnom prostredí a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2006 Z. z.
