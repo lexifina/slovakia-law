@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 84/2008 Z. z.
+
+- MATERIÁLY POUŽITÉ V HLAVNÝCH ČASTIACH OBUVI, ICH OPIS, PIKTOGRAMY A PÍSOMNÉ OZNAČENIE [Príloha 02](../assets/5ff80ac2f1d4cf6bc93b12f51c5aec5c784260e1d29f2148aa9263e3a2653f2c.pdf)
