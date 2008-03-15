@@ -1,0 +1,1 @@
+Marian Janušek v. r.
