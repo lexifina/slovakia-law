@@ -1,1 +1,0 @@
-Arpád Gonda v. r.
