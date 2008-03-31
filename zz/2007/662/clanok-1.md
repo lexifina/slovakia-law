@@ -12,7 +12,19 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 3. V § 2 sa za odsek 21 vkladajú nové odseky 22 až 26, ktoré znejú:
 
-- „(25)
+- „(22)
+
+- Zdravotný obvod je administratívne určenie časti územia Slovenskej republiky poskytovateľovi všeobecnej ambulantnej starostlivosti pre dospelých, poskytovateľovi všeobecnej ambulantnej starostlivosti pre deti a dorast, poskytovateľovi špecializovanej gynekologickej ambulantnej starostlivosti a poskytovateľovi špecializovanej zubno-lekárskej ambulantnej starostlivosti v rozsahu verejnej minimálnej siete.<sup>7</sup>)
+
+- (23)
+
+- Zdravotný obvod určí poskytovateľovi ambulantnej starostlivosti podľa odseku 22 orgán príslušný na vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia.<sup>2a</sup>) Zdravotný obvod tvorí zoznam určených obcí, ulíc, prípadne popisných čísel domov.
+
+- (24)
+
+- Poskytnutie ambulantnej zdravotnej starostlivosti osobe z iného ako určeného zdravotného obvodu sa posudzuje ako poskytnutie ambulantnej zdravotnej starostlivosti osobe z určeného zdravotného obvodu.
+
+- (25)
 
 - Špecializovaná zdravotná starostlivosť je zdravotná starostlivosť, ktorá sa poskytuje v iných špecializačných odboroch ako všeobecné lekárstvo.
 
@@ -108,6 +120,10 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - lekárenská starostlivosť.
 
+- (2)
+
+- Všeobecná ambulantná starostlivosť podľa odseku 1 písm. a) bodov 1.1 a 1.2 a špecializovaná ambulantná starostlivosť podľa odseku 1 písm. a) bodov 2.1 a 2.2 sa vykonáva v určenom zdravotnom obvode podľa § 2 ods. 23.
+
 - (3)
 
 - V rámci všeobecnej ambulantnej starostlivosti a v rámci špecializovanej zubno-lekárskej ambulantnej starostlivosti sa poskytuje lekárska služba prvej pomoci najmenej v rozsahu verejnej minimálnej siete poskytovateľov.<sup>7</sup>)
@@ -151,6 +167,14 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - „b)
 
 - osobný vzťah zdravotníckeho pracovníka k osobe, ktorej sa má zdravotnú starostlivosť poskytovať, alebo k jej zákonnému zástupcovi nezaručuje objektívne hodnotenie jej zdravotného stavu alebo“.
+
+- 14. V § 12 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Dôvody ustanovené v odseku 2 písm. a) sa nevzťahujú na osobu, ktorá má trvalý pobyt alebo prechodný pobyt v určenom zdravotnom obvode poskytovateľa ambulantnej starostlivosti podľa § 7 ods. 1 písm. a) bodov 1 a 2.“.
+
+- Doterajšie odseky 4 až 10 sa označujú ako odseky 5 až 11.
 
 - 15. V § 12 odsek 10 znie:
 
@@ -507,6 +531,12 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - Doterajšie písmená a) až j) sa označujú ako písmená b) až k).
 
 - 38. V § 46 ods. 1 písm. c) sa slová „(§ 12 ods. 4)" nahrádzajú slovami „(§ 12 ods. 5)".
+
+- 39. V § 46 sa odsek 1 dopĺňa písmenom l), ktoré znie:
+
+- „l)
+
+- určuje rozsah zdravotného obvodu vrátane zoznamov obcí, menného zoznamu ulíc, prípadne popisných čísel domov.“.
 
 - 40. Príloha č. 2 vrátane nadpisu znie:
 
