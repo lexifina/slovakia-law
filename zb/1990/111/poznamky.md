@@ -40,7 +40,7 @@
 
 - 6j) § 20 zákona č. 431/2002 Z. z. o účtovníctve.
 
-- 6k) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6k) § 2a ods. 1 písm. m) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 348 Hospodárskeho zákonníka č. 109/1964 Zb. v znení neskorších predpisov.
 
