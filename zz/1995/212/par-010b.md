@@ -1,3 +1,0 @@
-# § 10b
-
-Na platiteľa poplatkov (§ 3), ktorý zaplatí najneskôr do 60 dní po nadobudnutí účinnosti tohto zákona všetky nedoplatky na poplatkoch, ktoré mu vznikli do nadobudnutia účinnosti tohto zákona, ak ho na ich zaplatenie vyberateľ poplatku (§ 5) alebo príjemca poplatku (§ 4) vyzval podľa § 8 ods. 2, sa ustanovenie § 9 ods. 2 platné do nadobudnutia účinnosti tohto zákona neuplatní. Na nedoplatky na poplatkoch, ktoré vznikli od nadobudnutia účinnosti tohto zákona platiteľovi poplatkov (§ 3), ktorého na ich zaplatenie vyberateľ poplatku (§ 5) alebo príjemca poplatku (§ 4) nevyzval do nadobudnutia účinnosti tohto zákona, sa ustanovenie § 9 ods. 2 platné do nadobudnutia účinnosti tohto zákona neuplatní.
