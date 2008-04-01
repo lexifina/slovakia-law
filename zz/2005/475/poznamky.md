@@ -10,7 +10,7 @@
 
 - 5) § 68 ods. 3 zákona č. 4/2001 Z. z.
 
-- 6) Napríklad § 11 písm. c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení neskorších predpisov, zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6) Napríklad § 51 ods.1 písm. d) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení neskorších predpisov, zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 130 ods. 5 zákona č. 300/2005 Z. z.
 
@@ -22,11 +22,17 @@
 
 - 11) § 13e zákona č. 272/1994 Z. z. v znení neskorších predpisov.
 
+- 11a) Zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov.
+
 - 12) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
 
 - 13) § 4 ods. 6 zákona č. 507/2001 Z. z. o poštových službách.
+
+- 13a) § 2 ods. 10 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
+- 13a) § 116 a 117 Občianskeho zákonníka.
 
 - 14) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
@@ -34,11 +40,15 @@
 
 - Zákon č. 576/2004 Z. z.
 
+- 15a) § 2 ods. 2 zákona č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 13 ods. 1 písm. a) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 15b) § 13 ods. 3 písm. a) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 15c) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 16) Napríklad zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 29 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 17) § 278 Občianskeho súdneho poriadku v znení zákona č. 451/2002 Z. z.
-
-- § 1 ods. 1 písm. a) nariadenia vlády Slovenskej republiky č. 89/1997 Z. z. o rozsahu zrážok zo mzdy povinného pri nútenom výkone rozhodnutia.
+- 17) § 1 ods. 1 nariadenia vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia.
 
 - 18) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
@@ -46,9 +56,7 @@
 
 - Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 19) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
-
-- 20) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
+- 20) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 355/2007 Z. z., vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. v znení vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 54/2000 Z. z.
 
 - 21) Zákon č. 576/2004 Z. z.
 
@@ -64,9 +72,13 @@
 
 - 27) § 4 ods. 1 písm. d) zákona č. 4/2001 Z. z.
 
-- 28) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov.
+- 27a) § 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
 
-- 29) Napríklad Občiansky súdny poriadok, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 28) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov.
+
+- 29) § 293 až 295 Občianskeho súdneho poriadku v znení neskorších predpisov.
+
+- 29a) Napríklad § 293 až 296 Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 30) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -81,6 +93,8 @@
 - 35) § 10 zákona č. 301/2005 Z. z.
 
 - 36) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 152/1998 Z. z. o sťažnostiach, zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z., zákon č. 4/2001 Z. z. v znení neskorších predpisov.
+
+- 36a) Napríklad § 70 Trestného poriadku.
 
 - 37) § 66 a 67 zákona č. 300/2005 Z. z.
 
