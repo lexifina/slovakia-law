@@ -7,3 +7,5 @@
 (3) Za správnosť údajov podľa odseku 1 zodpovedá veriteľ.
 
 (4) Rozsah, štruktúru, lehoty a spôsob predkladania údajov o novoposkytnutých spotrebiteľských úveroch a spôsob a lehoty zverejňovania informácií o týchto údajoch ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+(4) Rozsah, štruktúru údajov o novoposkytnutých spotrebiteľských úveroch, lehoty a spôsob predkladania týchto údajov, obsah informácií z týchto údajov, spôsob a lehoty zverejňovania týchto informácií ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
