@@ -100,8 +100,6 @@
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
-- 23a) § 7 ods. 6 písm. c) zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
-
 - 24) Napríklad zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
 - 25) § 13 zákona č. 140/1961 Zb.
