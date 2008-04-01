@@ -8,7 +8,7 @@
 
 (4) Vlastník alebo ním poverený žiadateľ predkladá ministerstvu žiadosť o povolenie na trvalý vývoz predmetu múzejnej hodnoty alebo galerijnej hodnoty, ktorý nie je zachovávaný v múzeu alebo v galérii, v troch vyhotoveniach na tlačive, ktorého vzor je uvedený v prílohe č. 6. Vlastník alebo ním poverený žiadateľ je povinný na požiadanie ministerstva umožniť obhliadku predmetu múzejnej hodnoty alebo galerijnej hodnoty alebo predložiť znalecký posudok. Ministerstvo rozhodne o žiadosti do 60 dní od jej doručenia.
 
-(5) Ak predmet nemá múzejnú hodnotu alebo galerijnú hodnotu, ministerstvo v žiadosti potvrdí, že sa na predmet nevzťahuje osobitný režim právnej ochrany vo vzťahu k zahraničiu, a colný orgán prepustí takýto predmet do režimu trvalého vývozu bez vývozného povolenia.
+(5) Ak predmet nemá múzejnú hodnotu alebo galerijnú hodnotu, ministerstvo potvrdí, že sa na predmet nevzťahuje osobitný režim právnej ochrany vo vzťahu k zahraničiu, a colný orgán prepustí takýto predmet do režimu trvalého vývozu bez vývozného povolenia.
 
 (6) Ak predmet má múzejnú hodnotu alebo galerijnú hodnotu a ministerstvo s jeho trvalým vývozom súhlasí, vydá povolenie na trvalý vývoz.
 
@@ -18,7 +18,7 @@
 
 - a) ministerstvo môže so súhlasom vlastníka zapísať predmet do Registra predmetov múzejnej hodnoty a galerijnej hodnoty, ak doteraz nebol zapísaný,
 
-- b) ministerstvo môže navrhnúť predmet na vyhlásenie za kultúrnu pamiatku podľa osobitného predpisu<sup>8c</sup>) alebo
+- b) predmet múzejnej hodnoty alebo galerijnej hodnoty môže byť vyhlásený za národnú kultúrnu pamiatku podľa osobitného predpisu,<sup>8c</sup>)
 
 - c) múzeum alebo galéria zapísané v Registri múzeí a galérií môže navrhnúť vlastníkovi odkúpenie predmetu.
 

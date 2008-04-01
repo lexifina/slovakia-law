@@ -1,1 +1,1 @@
-Príloha č. 7 k zákonu č. 115/1998 Z. z. v znení zákona č. 387/2001 Z. z. [Vzor 07](../assets/e8b944c1857e172d3a4031c6c4c5e96466ad9240abf84b29e9889fa29581c814.pdf)
+Príloha č. 7 k zákonu č. 115/1998 Z. z. v znení zákona č. 94/2008 Z. z. [Príloha 07](../assets/469e7a960865a3b4382bd0c361f2b3ab115608da110c9a80a4affbd4a2284507.pdf)

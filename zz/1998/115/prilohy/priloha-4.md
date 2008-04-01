@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 115/1998 Z. z. v znení zákona č. 387/2001 Z. z. [Vzor 04](../assets/60a6ef9614e18273a14015697275d9ac2c5e02e48d25e923e37a93b1c1918af5.pdf)
+Príloha č. 4 k zákonu č. 115/1998 Z. z. v znení zákona č. 94/2008 Z. z. [Príloha 04](../assets/e6f9a4b2b23da221b469fab5fc2b3a3c482392a89f6976098cb93f7e8d7f109c.pdf)

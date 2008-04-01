@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 115/1998 Z. z. v znení zákona č. 387/2001 Z. z. [Vzor 03](../assets/ba90b2043c43621c0a86cde78e3bd6933a086670c5b770569b0972527df79f24.pdf)
+Príloha č. 3 k zákonu č. 115/1998 Z. z. v znení zákona č. 94/2008 Z. z. [Príloha 03](../assets/096cfa028cd65e7d76c0ff1377615a5d7a397353b5085e3d21ad20b74b4ed654.pdf)
