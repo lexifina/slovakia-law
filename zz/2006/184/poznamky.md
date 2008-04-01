@@ -1,4 +1,4 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 291/1996 Z. z. o odrodách a osivách v znení neskorších predpisov.
+- 1) Nariadenie vlády Slovenskej republiky č. 50/2007 Z. z. o registrácii odrôd pestovaných rastlín v znení nariadenia vlády č. 315/2007 Z. z.
 
 - 2) Zákon č. 421/2004 Z. z. o ekologickom poľnohospodárstve.
 
