@@ -76,7 +76,7 @@
 
 - 32) § 54 ods. 2, 3, 4, a 6 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 33) Zákon Národnej rady Slovenskej republiky č. 212/1995 Z. z. o koncesionárskych poplatkoch a o zmene zákona č. 468/1991 Zb. o prevádzkovaní rozhlasového a televízneho vysielania v znení neskorších predpisov.
+- 33) Zákon č. 68/2008 Z. z.
 
 - 34) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -85,6 +85,8 @@
 - 36) § 829 až 841 Občianskeho zákonníka.
 
 - 37) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku v znení neskorších predpisov.
+
+- 37a) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38) Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 22502/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnovy pre účtovné jednotky, ktoré nie sú založené alebo zriadené za účelom podnikania (oznámenie č. 734/2002 Z. z.)
 
