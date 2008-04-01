@@ -2,7 +2,7 @@
 
 (1) Pravidlá pre fungovanie trhu s elektrinou a plynom upravujú práva a povinnosti účastníkov trhu a podmienky potrebné na nediskriminačné a transparentné organizovanie trhu s elektrinou a plynom (ďalej len „pravidlá trhu").
 
-(2) Pravidlá trhu ustanovujú najmä podmienky
+(2) Pravidlá trhu ustanovujú najmä podmienky a spôsob uplatnenia
 
 - a) prístupu do sústavy a do siete,<sup>1</sup>)
 
@@ -24,7 +24,7 @@
 
 - j) dodávky regulačnej elektriny,
 
-- k) poskytovania systémových služieb v elektroenergetike,
+- k) poskytovania systémových služieb v elektroenergetike a ich úhrady,
 
 - l) dodávky elektriny a plynu domácnostiam,
 
@@ -48,17 +48,17 @@
 
 - f) podmienok použitia typových diagramov odberu elektriny alebo plynu,<sup>1</sup>)
 
-- g) rozsahu, spôsobu a postupu pri uverejňovaní informácií prevádzkovateľom prenosovej sústavy a siete,
+- g) rozsahu, spôsobu a postupu pri uverejňovaní informácií prevádzkovateľom národnej prenosovej sústavy a prepravnej siete,
 
 - h) spôsobu uverejňovania informácií o využití kapacity cezhraničnej výmeny elektriny, využitia kapacity národnej sústavy a siete.<sup>1k</sup>)
 
 (4) Pravidlá trhu zahrnujú aj obchodné podmienky pre účastníkov trhu s elektrinou a plynom, ktoré obsahujú najmä
 
-- a) podmienky za dodávky elektriny vrátane dodávky regulačnej elektriny a dodávky elektriny domácnostiam,
+- a) podmienky dodávky elektriny vrátane dodávky regulačnej elektriny a dodávky elektriny domácnostiam,
 
 - b) podmienky za poskytnutie podporných služieb a systémových služieb,
 
-- c) podmienky za dodávky elektriny vyrobenej z obnoviteľných zdrojov energie, kombinovanou výrobou elektriny a tepla a elektriny vyrobenej z domáceho uhlia,
+- c) podmienky dodávky elektriny vyrobenej z obnoviteľných zdrojov energie, kombinovanou výrobou elektriny a tepla a elektriny vyrobenej z domáceho uhlia,
 
 - d) podmienky vyúčtovania za dodávky elektriny a plynu vrátane dodávky regulačnej elektriny a dodávky elektriny a plynu domácnostiam,
 
@@ -73,3 +73,5 @@
 (5) Pravidlá trhu podľa odsekov 1 až 4 na návrh úradu ustanoví vláda nariadením do troch mesiacov od nadobudnutia účinnosti tohto zákona.
 
 (6) Prevádzkovateľ sústavy a siete a prevádzkovateľ zásobníka plynu je povinný zapracovať pravidlá trhu vydané podľa odseku 5 do prevádzkového poriadku a predložiť na schválenie úradu najneskôr do dvoch mesiacov od účinnosti nariadenia vlády vydaného podľa odseku 5. Úradom schválený prevádzkový poriadok je záväzný pre účastníkov trhu.
+
+(7) Úrad vydá a na svojej internetovej stránke zverejní vzorový prevádzkový poriadok prevádzkovateľov distribučnej sústavy, ku ktorej je pripojených menej ako 100 000 odberných miest a distribučnej sústavy, ktorej distribúcia elektriny je nižšia ako 1 500 000 MWh. Tento prevádzkový poriadok je záväzný pre účastníkov trhu pripojených na túto distribučnú sústavu. V prípade osobitných podmienok prevádzky takejto sústavy úrad vydá rozhodnutie o podmienkach a spôsobe prevádzkovania takejto sústavy.

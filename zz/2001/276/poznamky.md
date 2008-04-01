@@ -44,6 +44,10 @@
 
 - 1nb) Článok 6 ods. 6 a článok 7 nariadenia Európskeho parlamentu a Rady (ES) č. 1228/2003.
 
+- 1nc) § 21 ods. 3, § 27 ods. 5 a § 28 ods. 4 zákona č. 656/2004 Z. z.
+
+- 1nd) § 5 ods. 5 zákona č. 656/2004 Z. z.
+
 - 1o) § 116 Občianskeho zákonníka.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
@@ -60,6 +64,10 @@
 
 - 6c) Článok 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 1775/2005.
 
+- 6d) § 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
+- 6e) § 4 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 7) § 14 zákona č. 656/2004 Z. z.§ 28 zákona č. 657/2004 Z. z.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
@@ -69,5 +77,7 @@
 - 11) § 244 až 250k Občianskeho súdneho poriadku.
 
 - 11a) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
+
+- 11aa) § 2 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 11b) § 6 ods. 4 písm. a) a § 6 ods. 5 písm. a) zákona č. 442/2002 Z. z.
