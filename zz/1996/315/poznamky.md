@@ -60,8 +60,6 @@
 
 - 23a) § 23 ods. 1 zákona č. 725/2004 Z. z.
 
-- 23b) § 7 ods. 6 písm. c) zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
-
 - 24) § 3 ods. 2 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
 - § 7 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky.
