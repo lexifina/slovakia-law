@@ -46,4 +46,4 @@
 
 - 13) § 244 a nasl. Občianskeho súdneho poriadku (úplné znenie č. 78/1983 Zb.).
 
-- 14) Napríklad zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
+- 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
