@@ -2176,6 +2176,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie povolenia Ministerstvom financií Slovenskej republiky na predaj tovaru spotrebného charakteru bez dane z pridanej hodnoty fyzickým osobám v tranzitnom priestore letísk a prístavov, na palubách lietadiel zahraničných liniek slovenských leteckých spoločností a na palubách lodí zahraničných liniek slovenských plavebných spoločností ............................... | 500 Sk
 
+    - Položka 147a
+
+  - Udelenie povolenia na vznik a činnosť komoditnej burzy ................................... | 20 000 Sk.
+
     - Položka 148
 
   - a) Vydanie živnostenského listu |
@@ -3332,9 +3336,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. na výrobu elektriny |
 
-  - a) nad 5 do 50 MWe | 50 000 Sk
+  - a) nad 1 do 5 MWe | 1 000 Sk
 
-  - b) nad 50 MWe | 75 000 Sk
+  - b) nad 5 do 50 MWe | 50 000 Sk
+
+  - c) nad 50 MWe | 75 000 Sk
 
   - 2. na výrobu plynu |
 
@@ -3382,7 +3388,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) na prevádzkovanie zariadenia na plnenie tlakových nádob ........................................................ | 10 000 Sk
 
-  - f) na dodávku elektriny a na dodávku plynu ........................................................................................ | 50 000 Sk
+  - f) na dodávku elektriny alebo dodávku plynu ........................................................................................ | 50 000 Sk.
 
   - XIV. ČASŤ HOSPODÁRSKA SÚŤAŽ
 
