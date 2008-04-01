@@ -84,7 +84,7 @@
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
 
-- 17) § 5 ods. 2 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
+- 17) § 5 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
 - 18) Zákon č. 61/1952 Zb. o námornej plavbe v znení zákona č. 42/1980 Zb.
 
