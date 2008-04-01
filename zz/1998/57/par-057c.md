@@ -6,4 +6,4 @@
 
 (3) Železničná polícia v prípade zistenia nepravdivých údajov oznámi žiadateľovi, že ich zlikvidovala; v prípade zistenia nepresných údajov žiadateľovi oznámi, že ich opravila a v ostatných prípadoch oznámi, že jeho žiadosť sa preverila.
 
-(4) Na konanie podľa odsekov 1 až 3 sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>11</sup>)
+(4) Na konanie podľa odsekov 1 až 3 sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>6b</sup>)

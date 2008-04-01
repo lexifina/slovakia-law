@@ -1,5 +1,9 @@
 - 1) § 3 a 4 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 1a) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1b) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 413/2007 Z. z., ktorou sa vymedzujú úseky diaľnic, ciest pre motorové vozidlá a ciest I. triedy s elektronickým výberom mýta.“.
+
 - 2) § 12 ods. 2 Trestného poriadku.
 
 - 2a) Zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. v znení zákona č. 470/2000 Z. z.
@@ -14,9 +18,13 @@
 
 - § 68 ods. 4 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
+- 5a) Napríklad § 9 ods. 2 a 3 zákona č. 124/1992 Zb. o Vojenskej polícii, § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
 - 6) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 6a) § 90 ods. 3 a § 98 Trestného poriadku.
+
+- 6b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 7) § 116 Občianskeho zákonníka.
 
@@ -30,13 +38,15 @@
 
 - 10) § 2 Obchodného zákonníka.
 
-- 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 11a) § 4 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+
+- 12) Napríklad zákon č. 124/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
 
 - 13) § 89 ods. 14 Trestného zákona.
 
 - 13a) § 1a písm. j) prvý bod zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona č. 191/2004 Z. z.
 
-- 15) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov; zákon č. 513/1991 Zb. v znení neskorších predpisov; zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave.
+- 15) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov; zákon č. 513/1991 Zb. v znení neskorších predpisov; zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 16) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov.
 
