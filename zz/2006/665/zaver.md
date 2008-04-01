@@ -1,1 +1,0 @@
-Ivan Šramko v. r.
