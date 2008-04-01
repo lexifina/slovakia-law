@@ -612,7 +612,7 @@ Pravidlo 45
 
 Patentové nároky podliehajúce poplatkom
 
-(1) Keď európska patentová prihláška obsahuje viac ako desať patentových nárokov, platí sa za každý ďalší patentový nárok poplatok za nárok.
+(1) Ak európska patentová prihláška obsahuje viac ako 15 patentových nárokov, platí sa za šestnásty a každý ďalší patentový nárok poplatok za nárok podľa Poplatkového poriadku.
 
 (2) Poplatky za nároky sú splatné do jedného mesiaca od podania prvého súboru nárokov. Ak poplatky neboli zaplatené včas, môžu byť zaplatené ešte v lehote jedného mesiaca od doručenia oznámenia o nedodržaní lehoty.
 
@@ -1008,7 +1008,7 @@ Prieskumové konanie
 
 (5) Ak prieskumové oddelenie nesúhlasí so zmenou alebo opravou požadovanou podľa odseku 4, pred rozhodnutím dá prihlasovateľovi možnosť predložiť v stanovenej lehote svoje poznámky a akékoľvek zmeny, ktoré prieskumové oddelenie pokladá za nevyhnutné, a ak sú patentové nároky zmenené, preklad zmenených patentových nárokov. Ak prihlasovateľ predloží tieto zmeny, bude sa predpokladať, že súhlasí s udelením takto zmeneného patentu. Ak je európska patentová prihláška zamietnutá, vzatá späť alebo sa považuje za vzatú späť, poplatky za udelenie a tlač a akékoľvek poplatky za patentové nároky zaplatené podľa odseku 6 budú vrátené.
 
-(6) Ak európska patentová prihláška v znení, v akom prieskumové oddelenie mieni udeliť európsky patent, obsahuje viac ako desať patentových nárokov, vyzve prieskumové oddelenie prihlasovateľa, aby v lehote uvedenej v odseku 3, prípadne v odseku 5 zaplatil poplatky za patentové nároky za každý ďalší patentový nárok, ak neboli tieto poplatky už zaplatené v súlade s pravidlom 45 alebo pravidlom 162.
+(6) Ak európska patentová prihláška v znení, v akom prieskumové oddelenie mieni udeliť európsky patent, obsahuje viac ako 15 patentových nárokov, vyzve prieskumové oddelenie prihlasovateľa, aby v lehote uvedenej v odseku 3, prípadne v odseku 5 zaplatil poplatky za patentové nároky za každý ďalší patentový nárok, ak neboli tieto poplatky už zaplatené v súlade s pravidlom 45 alebo pravidlom 162.
 
 (7) Európska patentová prihláška sa považuje za vzatú späť, ak poplatok za udelenie, poplatok za tlač alebo poplatky za patentové nároky neboli zaplatené včas alebo ak preklad nebol podaný včas.
 
@@ -2106,7 +2106,7 @@ Pravidlo 162
 
 Spoplatnené patentové nároky
 
-(1) Ak prihláška, na ktorej je založené udelenie európskeho patentu, obsahuje viac ako 10 patentových nárokov, platí sa poplatok za jedenásty a každý ďalší patentový nárok v lehote určenej pravidlom 159 odsek 1.
+(1) Ak prihláška, na ktorej je založené udelenie európskeho patentu, obsahuje viac ako 15 patentových nárokov, platí sa poplatok za šestnásty a každý ďalší patentový nárok podľa Poplatkového poriadku v lehote určenej pravidlom 159 odsekom 1.
 
 (2) Ak nie sú poplatky za patentové nároky uhradené včas, môžu byť stále uhradené v lehote jedného mesiaca od doručenia oznámenia týkajúceho sa nedodržania lehoty. Ak sú v tejto lehote podané zmenené patentové nároky, poplatky za ne sa vypočítajú na základe týchto zmenených patentových nárokov.
 
