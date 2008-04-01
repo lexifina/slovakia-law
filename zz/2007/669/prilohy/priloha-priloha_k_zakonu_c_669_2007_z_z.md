@@ -9,3 +9,5 @@ Príloha k zákonu č. 669/2007 Z. z.
   - D1 – Fričovce – Svinia
 
   - R1 – Nitra-západ – Hronský Beňadik
+
+  - R1 – Banská Bystrica – severný obchvat
