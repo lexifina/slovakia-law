@@ -48,6 +48,10 @@
 
 - 23) § 2 písm. k) vyhlášky Ministerstva financií Slovenskej republiky č. 559/2002 Z. z.
 
+- 23a) Príloha č. 1 časť Agresívne obchodné praktiky bod 6 k zákonu č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 23b) § 7 zákona č. 250/2007 Z. z.
+
 - 24) § 574 ods. 2 Občianskeho zákonníka.
 
 - 25) Napríklad § 3 ods. 1 písm. a) zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 36 ods. 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 2 písm. i) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení zákona č. 635/2004 Z. z., zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z., zákon č. 258/2001 Z. z., zákon č. 22/2004 Z. z.
