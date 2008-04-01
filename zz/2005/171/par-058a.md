@@ -21,5 +21,3 @@
 (10) Daňový úrad podľa § 24 ods. 1 v znení účinnom od 1. januára 2008 prvýkrát oznámi ministerstvu počet vydaných identifikačných kariet prevádzkovateľovi hazardných hier po udelení licencie na prevádzkovanie hazardných hier prostredníctvom výherných prístrojov na rok 2009.
 
 (11) Na konanie o zrušení vinkulácie finančnej zábezpeky a použití finančnej zábezpeky pri prevádzkovaní hazardných hier prostredníctvom výherných prístrojov vinkulovanej v prospech obce sa použijú doterajšie predpisy.
-
-Prechodné ustanovenia k úpravám účinným od 1. apríla 2008
