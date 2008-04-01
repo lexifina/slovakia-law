@@ -36,4 +36,4 @@
 
 - 16) Zákon č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 17) Civilný sporový poriadok.
+- 17) Občiansky súdny poriadok.
