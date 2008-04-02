@@ -13,5 +13,3 @@ Zákon č.16/2004 Z. z. o Slovenskej televízii v znení zákona č. 588/2006 Z.
 - Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 3. V § 21 ods. 2 sa na konci pripája táto veta: „Ak sa stane Slovenská televízia klientom Štátnej pokladnice, na finančné prostriedky Slovenskej televízie sa vzťahuje osobitný predpis.<sup>37a</sup>)“.
-
-- „Prechodné ustanovenie k úpravám účinným od 2. apríla 2008“.
