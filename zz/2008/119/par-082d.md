@@ -1,0 +1,9 @@
+# § 82d
+
+(1) Ak platiteľ mzdy vypláca mesačnú mzdu po častiach, môže primerané zrážky zo mzdy vykonať daňovému dlžníkovi aj z časti mzdy. Odvod zrážok správcovi dane vykoná vždy po uplynutí príslušného kalendárneho mesiaca.
+
+(2) Ak sa daňový exekučný príkaz doručí platiteľovi mzdy po tom, keď bola časť mesačnej mzdy daňovému dlžníkovi vyplatená, neprihliada sa na vykonanú výplatu a zrážky sa vykonajú tak, ako keby daňový dlžník mal za celý kalendárny mesiac právo len na mzdu, ktorá mu ešte nebola vyplatená.
+
+(3) Ak sa preddavok vypláca za obdobie dlhšie ako jeden kalendárny mesiac, vypočíta sa, koľko pripadá z poskytnutého preddavku na jednotlivé mesiace, a z takto vypočítaného mesačného preddavku sa daňovému dlžníkovi vykonávajú zrážky. Mzda daňového dlžníka za uplynulý kalendárny rok sa rozpočíta na jednotlivé mesiace. Z mesačnej mzdy sa vypočítavajú s konečnou platnosťou zrážky a správcovi dane sa vyplatí rozdiel medzi sumami, ktoré sa mali daňovému dlžníkovi zraziť v jednotlivých mesiacoch, a sumami, ktoré sa z preddavkov správcovi dane už vyplatili.
+
+(4) Ak sa vypláca mzda za niekoľko mesiacov naraz, treba vypočítať zrážky za každý kalendárny mesiac osobitne.

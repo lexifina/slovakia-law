@@ -1,0 +1,3 @@
+# § 84f Predaj hnuteľných vecí na dražbe
+
+Správca dane predá spísané hnuteľné veci na dražbe; pri výkone dražby postupuje podľa tohto zákona.

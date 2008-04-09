@@ -1,0 +1,3 @@
+# § 101a
+
+Na účely správy daní sú správca dane, daňové riaditeľstvo, colné riaditeľstvo a ministerstvo oprávnené spracúvať osobné údaje daňových subjektov, zástupcov daňových subjektov a tretích osôb v súlade s osobitným predpisom;<sup>20a</sup>) údaje možno sprístupniť len obci, ako správcovi dane,<sup>20b</sup>) daňovým orgánom,<sup>20c</sup>) colným orgánom,<sup>20d</sup>) ministerstvu a v súvislosti so správou daní a plnením úloh podľa osobitného predpisu<sup>20e</sup>) aj právnickej osobe alebo fyzickej osobe, súdu a orgánom činným v trestnom konaní. V informačných systémoch<sup>20a</sup>) možno spracúvať meno a priezvisko fyzickej osoby, adresu jej trvalého pobytu a rodné číslo, ak jej nebolo pridelené daňové identifikačné číslo (§ 31 ods. 11).

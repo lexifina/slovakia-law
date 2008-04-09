@@ -1,0 +1,5 @@
+# § 84l Opätovná dražba
+
+(1) Pri výkone opätovnej dražby hnuteľných vecí sa správca dane riadi ustanoveniami tohto zákona o prvej dražbe.
+
+(2) Na účely opätovnej dražby správca dane určí vyvolávaciu cenu najmenej vo výške 70 % z ceny určenej podľa § 84g ods. 1 a 2; rozhodnutie o určení vyvolávacej ceny správca dane nevydáva.
