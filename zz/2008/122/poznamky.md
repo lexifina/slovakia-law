@@ -1,0 +1,5 @@
+- 1) Ustanovenie poslednej vety prvého odseku článku 6 sa tiež použije na úpravu článku 4 ods. 3 dohody medzi Nórskym kráľovstvom a Európskym spoločenstvom o Nórskom finančnom mechanizme na obdobie 2004 – 2009 (Ú. v. EÚ L 130, 29. 4. 2004, s. 81).
+
+- 1) Ustanovenie článku 6 ods. 1 poslednej vety sa tiež použije na úpravu článku 4 ods. 3 dohody medzi Nórskym kráľovstvom a Európskym spoločenstvom o Nórskom finančnom mechanizme na obdobie 2004 – 2009 (Ú. v. EÚ L 130, 29. 4. 2004, s. 81).
+
+- 1) Dodatočná bezcolná kvóta. Ak sa táto kvóta v plnej miere do konca roka 2007 nevyčerpá, zvyšný objem bude prenesený do roku 2008. Z tohto dôvodu bude využitie tejto kvóty uplatniteľnej v roku 2007 zastavené druhý pracovný deň v Komisii po 1. apríli 2008. V nasledujúci pracovný deň bude nevyužitý zostatok colnej kvóty pre rok 2007 prenesený do príslušnej colnej kvóty platnej pre rok 2008. Od tohto dňa nebude možné vykonať žiadne využitie alebo vrátenie v súvislosti s touto colnou kvótou platnou v roku 2007.
