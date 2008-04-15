@@ -26,17 +26,23 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - Položka 2 |
 
-- Úradné označenie tovaru puncovou značkou alebo iným spôsobom a) za každý kus tovaru |
+- Úradné označenie tovaru puncovou značkou alebo iným spôsobom |
 
-- 1. strieborného | 3 Sk,
+- a) za každú značku na |
 
-- 2. zlatého | 5 Sk,
+- 1. strieborný tovar | 3 Sk,
 
-- 3. platinového | 10 Sk,
+- 2. zlatý tovar | 5 Sk,
+
+- 3. platinový tovar | 10 Sk,
 
 - b) za každú značku pri jej oprave, doznačení alebo storne značky | 3 Sk,
 
-- c) za zavesenie plomby, za každú plombu | 6 Sk.
+- c) za zavesenie plomby, za každú plombu | 6 Sk,
+
+- d) vydanie osvedčenia | 20 Sk,
+
+- e) za každú laserom vypálenú puncovú značku na zlatý, strieborný alebo platinový tovar alebo doznačenie tovaru zodpovednostnou značkou, výrobnou značkou alebo rýdzostným číslom | 8 Sk.
 
 - Položka 3 |
 
@@ -48,7 +54,7 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - Položka 4 |
 
-- Približné určenie rýdzosti zliatin drahých kovov na skúšobnom kameni, za každý kus tovaru |
+- Približné určenie obsahu drahých kovov v predložených predmetoch z drahých kovov a zlomkoch za každý kus alebo za každú voľne oddeliteľnú časť predmetu |
 
 - a) strieborného | 30 Sk,
 
@@ -58,11 +64,9 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - Položka 5 |
 
-- Chemické skúšky rýdzosti drahých kovov v registrovaných klenotníckych zliatinách, minciach |
+- Chemické stanovenie rýdzosti drahých kovov v klenotníckych zliatinách, minciach a dentálnych zliatinách |
 
-- a dentálnych zliatinách |
-
-- a) striebro titráciou alebo kupeláciou | 50 Sk,
+- a) striebro titráciou | 50 Sk,
 
 - b) zlato kupeláciou | 200 Sk,
 
@@ -84,17 +88,7 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - Ostatné analýzy drahých kovov |
 
-- a) v kovových odpadoch |
-
-- 1. určenie striebra | 300 Sk,
-
-- 2. určenie zlata kupeláciou | 500 Sk,
-
-- 3. určenie zlata a striebra kupeláciou | 700 Sk,
-
-- 4. určenie zlata mokrou cestou | 600 Sk,
-
-- 5. určenie platiny a platinových kovov, za každý kov | 1 000 Sk,
+- a) v kovových materiáloch a odpadoch, |
 
 - b) v steroch |
 
@@ -106,7 +100,7 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - 4. určenie platiny v platinovom katalyzátore na nosiči | 3 000 Sk,
 
-- c) metódou AAS |
+- c) určenie obsahu kovov metódou AAS |
 
 - 1. za jeden kov | 2 000 Sk,
 
@@ -162,9 +156,17 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - Položka 8 |
 
-- Overenie pravosti puncovej značky |
+- a) overenie pravosti puncovej značky, |
 
-- za každú značku | 100 Sk.
+- za každú značku | 100 Sk,
+
+- b) vyhotovenie odborného posudku, |
+
+- za každú začatú hodinu | 500 Sk,
+
+- c) identifikácia drahých kameňov, |
+
+- za každú začatú hodinu | 500 Sk
 
 - Položka 9 |
 
@@ -172,12 +174,10 @@ Príloha k vyhláške č. 102/2004 Z. z.
 
 - a) vyhľadanie predmetu pri strate dokladu | 50 Sk,
 
-- b) vydanie náhradného dokladu o vykonanom úkone | 100 Sk,
-
-- c) vyhotovenie odborného posudku, za každú začatú hodinu | 500 Sk.
+- b) vydanie náhradného dokladu o vykonanom úkone | 100 Sk.
 
 - Položka 10 |
 
-- Odborná príprava skúšobných kyselín na drahé kovy za každých 100 ml |
+- Odborná príprava skúšobných kyselín na drahé kovy za každých 50 ml |
 
-- | 60 Sk.
+- | 50 Sk.
