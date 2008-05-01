@@ -10,7 +10,7 @@
 
 (5) Vysoké školy zosúladia poskytovanie študijných programov v dennej forme štúdia s § 60 ods. 2 najneskôr do vykonania ich najbližšej komplexnej akreditácie, ktorá sa uskutoční po 1. septembri 2008.
 
-(6) Pracovnoprávne vzťahy, ktoré vznikli pred 1. septembrom 2007, sa zosúladia s § 74 ods. 3 do 31. decembra 2007. Pracovnoprávne vzťahy uzatvorené na funkciu hosťujúceho docenta pred 1. septembrom 2007 zostávajú v platnosti, najdlhšie do doby skončenia ich platnosti.
+(6) Pracovnoprávne vzťahy uzatvorené na funkciu hosťujúceho docenta pred 1. septembrom 2007 zostávajú v platnosti, najdlhšie do doby skončenia ich platnosti.
 
 (7) Ak občan študoval v tom istom stupni vysokoškolského štúdia súbežne vo viacerých študijných programoch v jednom akademickom roku alebo v jeho časti, zohľadní sa mu v celkovej dobe štúdia na účely odsekov 10 až 13 a § 92 štúdium v každom študijnom programe pred 1. septembrom 2008 osobitne, ak študoval v niektorom zo študijných programov len časť akademického roka, na účely odsekov 10 až 13 a § 92 sa táto doba zaokrúhľuje na celý akademický rok.
 
