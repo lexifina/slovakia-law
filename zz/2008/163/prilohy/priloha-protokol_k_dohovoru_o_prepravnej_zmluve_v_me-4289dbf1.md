@@ -1,0 +1,1 @@
+Protokol k Dohovoru o prepravnej zmluve v medzinárodnej cestnej nákladnej doprave (CMR) - anglické znenie [Anglické znenie textu](../assets/e803e07ae18daa2819a4b80751e2f7aaf90b379fb29af459276e861437fdbec6.pdf)
