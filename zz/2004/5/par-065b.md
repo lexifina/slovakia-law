@@ -1,0 +1,3 @@
+# § 65b Administratívne činnosti súvisiace s poskytovaním príspevkov a s plnením povinností pri zamestnávaní občanov so zdravotným postihnutím
+
+Administratívne činnosti súvisiace s poskytovaním príspevkov podľa § 46, § 47, § 49, § 49a, § 50, § 50a, § 50c, § 51, § 51a, § 52, § 52a, § 53a, § 53b, § 53c, § 53d, § 54, § 55a, § 56, § 56a, § 57, § 57a, § 59, § 60 a s plnením povinností zamestnávateľa pri zamestnávaní občanov so zdravotným postihnutím podľa § 63, § 64, § 64a, § 65 zabezpečuje ústredie, úrad alebo právnická osoba alebo fyzická osoba, ktorú ústredie alebo úrad na tento účel vybral podľa osobitného predpisu.<sup>18aa</sup>)
