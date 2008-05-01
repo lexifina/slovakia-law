@@ -1,0 +1,3 @@
+# § 40a Dôkazné prostriedky
+
+V konaní o disciplinárnom previnení je dôkazným prostriedkom všetko, čo môže prispieť k objasneniu skutku, najmä vlastné zistenia príslušníka zboru alebo zamestnanca zboru, výpoveď obvineného alebo inej osoby, veci, listiny a obhliadka. Dôkazy musia byť označené konkrétne a to takým spôsobom, aby ich bolo možno preveriť. Ak je dôkazným prostriedkom výpoveď svedka, uvedie sa stručný obsah výpovede s jeho vlastnoručným podpisom. Ak je to potrebné na objasnenie skutku, príslušník zboru je oprávnený zaistiť vec alebo listinu na nevyhnutne potrebnú dobu. Priznanie obvineného nezbavuje príslušníkov zboru povinnosti preskúmať a dostupnými prostriedkami preveriť všetky okolnosti skutku.
