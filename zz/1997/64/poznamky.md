@@ -32,7 +32,7 @@
 
 - 17) Napríklad § 80 písm. c) Občianskeho súdneho poriadku, § 7 a 11 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
 
-- 18) § 244 a nasl. Občianskeho súdneho poriadku.
+- 18) § 247 až 250k Občianskeho súdneho poriadku.
 
 - 19) § 6 ods.1 nariadenia vlády Slovenskej republiky č. 152/1996 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
