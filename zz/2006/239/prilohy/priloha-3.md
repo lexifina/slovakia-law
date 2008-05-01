@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 239/2006 Z. z. [Vzor 03 - Ročné zúčtovanie poistného na verejné zdravotné poistenie platiteľa poistného podľa § 11 ods. 2 zákona za rok 2006](../assets/b2efc9d138d34011a209d5609a8320b75a9b6c12a16af64cb94fe438b60dd693.pdf)
+Príloha č. 3 k vyhláške č. 161/2008 Z. z. [Vzor 03](../assets/5608b9a7f0779c37f48b8d94c1d84bbce0188e592c128b78c311c5a88d5ab9ad.pdf)

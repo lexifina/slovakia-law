@@ -1,3 +1,3 @@
-Príloha č. 15 k vyhláške č. 239/2006 Z. z.
+Príloha č. 15 k vyhláške č. 161/2008 Z. z.
 
-[Vzor 15 - Žiadosť 2006](../assets/e46ce77f1f9fdb198e1ec16d8937390a0d98928faedd21d7b9a386ac157b9fa0.pdf)
+[Vzor 15](../assets/806ac5e64cc8d0ed39267148aa85273a3fff7e13d50b7bc5c379eff3727b08ec.pdf)

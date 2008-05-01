@@ -1,1 +1,1 @@
-Príloha č. 5 k vyhláške č. 239/2006 Z. z. [Vzor 05 - List SA - zamestnanec a zamestnávateľ](../assets/c89979dd3c0b6f1144dafcd77001208c5a0c3e92678de48a80d0f5745ccf7825.pdf)
+Príloha č. 5 k vyhláške č. 161/2008 Z. z. [Vzor 05](../assets/a75f2fc7a810ebb1c187caf65fc3e17292fc8d34d35110571afb3e78ae53f1c8.pdf)

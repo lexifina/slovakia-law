@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 239/2006 Z. z. [Vzor 04 - Ročné zúčtovanie poistného na verejné zdravotné poistenie poistenca, ktorý mal viacerých platiteľov za rok 2006](../assets/07a545d3ad89879adc2079cc9f8af9d4cf25b304f0a57ca39d1615d99b453f7c.pdf)
+Príloha č. 4 k vyhláške č. 161/2008 Z. z. [Vzor 04](../assets/567a8e279fdd35903fb2f395214b63fd18fd15f31a23a319d5c9408a6a9b4a69.pdf)

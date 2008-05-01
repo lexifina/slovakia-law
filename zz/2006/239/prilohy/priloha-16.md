@@ -1,1 +1,1 @@
-Príloha č. 16 k vyhláške č. 239/2006 Z. z. [Vzor 16 - Časť A - Doklad o výške príjmu a o preddavkoch na poistné za rok 2006 + Časť B - Oznámenie o nedoplatku alebo preplatku zamestnávateľa za rok 2006](../assets/b7323141bf67e8605031b911c11016f79ccfae0c6f47c5e4e4eb67ee82de730a.pdf)
+Príloha č. 16 k vyhláške č. 161/2008 Z. z. [Vzor 16](../assets/42c447f7cb51875fefed8b9627e39289ccae2469960928ec0cd27dcbc1d29cbc.pdf)

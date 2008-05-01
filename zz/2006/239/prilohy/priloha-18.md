@@ -1,1 +1,1 @@
-Príloha č. 18 k vyhláške č. 239/2006 Z. z. [Vzor 18 - Časť A - Potvrdenie o podaní ročného zúčtovania poistného na verejné zdravotné poistenie za rok 2006 + Časť B - Odpis z ročného zúčtovania poistného](../assets/328d0117889716a0a21bf0e3ebad030db848bd91651dbc7f3c113b748680d431.pdf)
+Príloha č. 18 k vyhláške č. 161/2008 Z. z. [Vzor 18](../assets/7be730e281497b9511073db9f87719ef0b9792d5606fe0530b612e6604d1ae2a.pdf)

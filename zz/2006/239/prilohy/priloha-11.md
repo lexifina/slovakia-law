@@ -1,1 +1,1 @@
-Príloha č. 11 k vyhláške č. 239/2006 Z. z. [Vzor 11 - List XB - samostatne zárobkovo činná osoba](../assets/50d53e42ca6ba91538df33ba59125fec5813107684de5edbc133e2cf210def8b.pdf)
+Príloha č. 11 k vyhláške č. 161/2008 Z. z. [Vzor 11](../assets/653611e744c683d36e6323464e6b1cf7f92737f8bed8fcbf3188c80468b732de.pdf)
