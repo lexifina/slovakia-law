@@ -42,15 +42,21 @@
 
 - Vyhláška Ministerstva školstva Slovenskej socialistickej republiky, Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky č. 88/1984 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakov gymnázií a stredných odborných škôl.
 
-- 13a) § 32 ods. 10 písm. d) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
+- 13a) § 32 ods. 12 písm. d) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 13b) § 43 ods. 7 zákona č. 5/2004 Z. z.
 
-- 13c) § 46 ods. 4 zákona č. 5/2004 Z. z.
+- 13c) § 46 ods. 6 zákona č. 5/2004 Z. z.
 
-- 13d) § 46 ods. 5 zákona č. 5/2004 Z. z.
+- 13d) § 46 ods. 9 zákona č. 5/2004 Z. z.
 
-- 13e) § 51 ods. 4 zákona č. 5/2004 Z. z.
+- 13e) § 51 ods. 5 zákona č. 5/2004 Z. z.
+
+- 13ea) § 48b zákona č. 5/2004 Z. z.
+
+- 13eb) § 49a zákona č. 5/2004 Z. z.
+
+- 13ec) § 52a zákona č. 5/2004 Z. z.
 
 - 13f) § 33 zákona č. 595/2003 Z. z.
 
@@ -88,7 +94,7 @@
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 25a) § 51 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
+- 25a) § 48b, § 49a, § 51 a 52a zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
 
 - 25b) § 717 Občianskeho zákonníka.
 
