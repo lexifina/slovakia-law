@@ -76,13 +76,17 @@
 
 - 33) § 47 ods. 3 písm. b) prvý bod a písm. c) druhý bod a § 63 ods. 4 zákona č. 305/2005 Z. z.
 
-- 34) Napríklad nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci.
+- 34) Napríklad nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 300/2007 Z. z.
 
-- 35) § 26 zákona č. 124/2006 Z. z.
+- 35) § 26 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
-- 36) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení nariadenia vlády Slovenskej republiky č. 589/2006 Z. z.
+- 35a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov, zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti) v znení zákona č. 330/2007 Z. z.
 
-- 37) § 16 ods. 1 písm. a) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+- 36) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+
+- 37) § 16 ods. 1 písm. a) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 37a) § 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 38) § 11 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
 
