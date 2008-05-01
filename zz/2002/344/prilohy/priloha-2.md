@@ -398,6 +398,18 @@
 
   - Ministerstvo spravodlivosti Albánskej republiky
 
+  - Arménska republika
+
+  - a) Dohovor pre Arménsku republiku nadobudol platnosť 1. mája 2008.
+
+  - b) Listina o prístupe Arménskej republiky k dohovoru obsahuje tieto výhrady a vyhlásenie:
+
+  - 1. „Podľa článku 60 ods. 1 dohovoru Arménska republika vylučuje použitie francúzštiny v zmysle článku 54 ods. 2 dohovoru.
+
+  - Podľa článku 60 ods. 1 dohovoru si Arménska republika vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území a je zapísaný v katastri, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým vo vzťahu k takému majetku jej orgánmi, ako ustanovuje článok 55 dohovoru.“.
+
+  - 2. „Podľa článku 45 ods. 2 dohovoru Arménska republika vyhlasuje, že žiadosti podľa článku 34 ods. 1 sa smú zasielať jej orgánom len prostredníctvom ústredného orgánu.“.
+
   - Ukrajina
 
   - a) Dohovor pre Ukrajinu nadobudol platnosť 1. februára 2008.
