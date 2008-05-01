@@ -2,6 +2,6 @@ Príloha č. 2 k nariadeniu vlády č. 369/2007 Z. z.
 
 - VZOR
 
-  - KALKULÁCIA PREDPOKLADANÝCH OPRÁVNENÝCH NÁKLADOV CHOVATEĽA ALEBO PESTOVATEĽA
+  - Kalkulácia predpokladaných oprávnených nákladov
 
-- [Vzor 02](../assets/2b7326cd66646c5bd7bf0195740ddb43b22c63d7af24621b3870f7a5233727b1.pdf)
+- [Vzor 02](../assets/4b2eb5309e5ac41b4236f381b22b522f5e4039c9098a04318e33eb6682996f58.pdf)

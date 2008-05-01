@@ -1,5 +1,5 @@
 Príloha č. 30 k nariadeniu vlády č. 369/2007 Z. z.
 
-- VZOR ŽIADOSŤ O POSKYTNUTIE DOTÁCIE
+- VZOR Žiadosť o poskytnutie dotácie
 
-- [Vzor 30](../assets/75c5223567cb25f6f8295e934f15252d2aad7b4e3bc61f6b3c9eec6d0d42babd.pdf)
+- [Vzor 30](../assets/7d92e0b33b21632cd8ea587cf59be0f07b1e568c85ad8f8c92dc6df7dd8425c8.pdf)

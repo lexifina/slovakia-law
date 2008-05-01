@@ -1,10 +1,12 @@
-- 1) Príloha I k nariadeniu Komisie (ES) č. 70/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 zmluvy o založení Európskeho spoločenstva na štátnu pomoc malým a stredným podnikom (Mimoriadne vydanie Ú. v. EÚ kap. 8/zv. 2).
+- 1) § 56 a 221 Obchodného zákonníka.§ 18 a 20f Občianskeho zákonníka.§ 6 zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 2) § 56 a 221 Obchodného zákonníka.
+- 2) Čl.1 ods. 1 nariadenia Komisie (ES) č. 1857/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy o štátnej pomoci pre malé a stredné podniky (MSP) pôsobiace v poľnohospodárskej výrobe, ktorým sa mení a dopĺňa nariadenie (ES) č. 70/2001 (Ú. v. EÚ L 358, 16. 12. 2006).
 
-- § 18 a 20f Občianskeho zákonníka.
+- 2a) § 2 ods. 4 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 3) Čl. 3 ods. 2 nariadenia Komisie (ES) č. 1860/2004 zo 6. októbra 2004 o uplatňovaní článkov 87 a 88 zmluvy o ES, pokiaľ ide o pomoc de minimis v sektore poľnohospodárstva a rybného hospodárstva (Ú. v. EÚ L 325, 28. 10. 2004).
+- 2b) Nariadenie Komisie (ES) č. 1535/2007 z 20. decembra 2007 o uplatňovaní článkov 87 a 88 Zmluvy o ES na pomoc de minimis v sektore poľnohospodárskej výroby (Ú. v. EÚ L 337, 21. 12. 2007).Nariadenie Komisie (ES) č. 875/2007 z 24. júla 2007 o uplatňovaní článkov 87 a 88 Zmluvy o ES, pokiaľ ide o pomoc de minimis v sektore rybného hospodárstva, ktorým sa mení a dopĺňa nariadenie (ES) č. 1860/2004 (Ú. v. EÚ L 193, 25. 7. 2007).
+
+- 3) Čl. 3 ods. 2 nariadenia (ES) č. 1535/2007 (Ú. v. EÚ L 337, 21. 12. 2007).
 
 - 4) § 2 ods. 14 zákona č. 194/1998 Z. z. o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -25,6 +27,10 @@
 - § 9 ods. 2 písm. a) zákona č. 194/1998 Z. z.
 
 - 12) § 9 ods. 1 a § 10 ods. 1 zákona č. 194/1998 Z. z.
+
+- 12a) § 19 ods. 1 zákona č. 39/2007 Z. z.
+
+- 12b) § 6 ods. 5 zákona č. 194/1998 Z. z.
 
 - 13) Čl. 87 ods. 2 písm. b) Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
 
@@ -84,6 +90,8 @@
 
 - 41) Čl. 32 nariadenia Rady (ES) č. 1198/2006 z 29. júla 2006 o Európskom fonde pre rybné hospodárstvo (Ú. v. L 223, 15. 8. 2006).
 
+- 41a) § 31 ods. 5 zákona č. 139/2002 Z. z. o rybárstve.
+
 - 42) Čl. 37 písm. a) nariadenia (ES) č. 1198/2006.
 
 - 43) § 31 ods. 5 zákona č. 139/2002 Z. z. o rybárstve.
@@ -99,6 +107,8 @@
 - 48) § 12b zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
 - 49) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
+- 49a) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 50) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 

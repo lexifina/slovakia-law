@@ -1,0 +1,7 @@
+Príloha č. 29a k nariadeniu vlády č. 369/2007 Z. z.
+
+- VZOR
+
+  - VÝPOČET DOTÁCIE NA ERADIKÁCIU A PREVENCIU OCHORENÍ ZVIERAT ALEBO RÝB
+
+- [Vzor 29a](../assets/9d5cff48d4ef764a15584495216f2b3cf385117ee75210401f92252e02318aa0.pdf)
