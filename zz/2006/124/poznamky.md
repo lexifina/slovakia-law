@@ -14,7 +14,7 @@
 
 - 6) § 146 ods. 2 Zákonníka práce.
 
-- 6a) Zákon č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
+- 6a) § 30 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
 
 - 7) Napríklad Zákonník práce, zákon č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
 
@@ -76,6 +76,10 @@
 
 - 28) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
+- 28a) § 31 zákona č. 355/2007 Z. z.
+
+- 28b) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
 - 30) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
@@ -84,4 +88,4 @@
 
 - 32) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 1) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+- 33) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z. , ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
