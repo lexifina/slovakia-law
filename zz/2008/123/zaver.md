@@ -1,0 +1,1 @@
+Zdenka Kramplová v. r.
