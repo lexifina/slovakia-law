@@ -64,7 +64,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
         - 1.3.1 Vlnová dĺžka lasera je vlnová dĺžka monochromatického svetelného lúča žiarenia generovaného cestným laserovým rýchlomerom.
 
-        - 1.3.2 Uhlová šírka laserového zväzku je rozbiehavosť svetelného lúča v horizontálnej aj vo vertikálnej rovine.
+        - 1.3.2 Priestorový uhol vyžarovania laserového zväzku je rozbiehavosť vyžarovaného svetelného lúča lasera – vrcholový uhol svetelného kužeľa meraný v horizontálnej aj vo vertikálnej rovine.
 
         - 1.3.3 Výkon lasera je výkon svetelného lúča vyžiareného laserom.
 
@@ -82,7 +82,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
       - 2.3 Rýchlomer sa vybavuje zariadením, ktoré indikuje pokles napájacieho napätia pod hodnotu, pri ktorej chyba merania prekročí najväčšiu dovolenú chybu merania rýchlosti. Zariadenie upozorní obsluhu na nesprávne meranie alebo samo zariadenie nedovolí vykonať chybné meranie.
 
-      - 2.4 Ak sa súčasne s meraním vyhotovuje aj záznam situácie (fotografický obrázok, videozáznam a pod.), potom sa zabezpečuje správne nastavenie optickej osi záznamu a osi vyžarovacej charakteristiky antény. Postup nastavenia sa opisuje v technickej dokumentácii rýchlomera.
+      - 2.4 Ak sa súčasne s meraním vyhotovuje aj záznam situácie vo forme fotografického obrázka, videozáznamu a podobne, potom sa zabezpečuje správne nastavenie optickej osi záznamu a osi vyžarovacej charakteristiky antény alebo osi vyžarovaného svetelného lúča lasera. Postup nastavenia sa opisuje v technickej dokumentácii rýchlomera.
 
       - 2.5 Ak sa rýchlomer používa bez optického záznamového zariadenia, potom indikovaná hodnota meranej rýchlosti vozidla zostáva viditeľná dovtedy, kým operátor hodnotu manuálne nevymaže nulovaním. Indikovaná hodnota nesmie byť prepísaná novým prejazdom vozidla alebo zrušená akýmkoľvek obslužným úkonom okrem vymazania nulovaním alebo vypnutia celého zariadenia z činnosti.
 
@@ -186,7 +186,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
       - 3.4 Metrologické požiadavky vzťahujúce sa na cestné laserové rýchlomery
 
-        - 3.4.1 Uhlová šírka laserového zväzku je stanovená v technickej dokumentácii výrobcu a nesmie byť väčšia ako 5 mrad.
+        - 3.4.1 Priestorový uhol vyžarovania laserového zväzku je uvedený v technickej dokumentácii výrobcu a nesmie byť väčší ako 5 mrad meraný ako rovinný uhol pre horizontálnu a vertikálnu rovinu na úrovni 50 % poklesu vyžarovaného výkonu.
 
         - 3.4.2 Výkon lasera rýchlomera musí vyhovovať požiadavkám bezpečnosti a ochrany zdravia pre triedu 1 pri jeho používaní.<sup>1</sup>)
 
@@ -212,7 +212,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
         - 4.2.1 Pomôcky na skúšanie cestných radarových rýchlomerov
 
-          - 4.2.1.1 Mikrovlnný elektronický čítač merajúci v rozsahu vstupných frekvencií vysielača cestného radarového rýchlomera (pásmo 34 GHz) s kombinovanou štandardnou neistotou merania frekvencie menšou ako 2 x 10<sup>-4</sup>.
+          - 4.2.1.1 Mikrovlnný elektronický čítač merajúci v rozsahu vstupných frekvencií vysielača cestného radarového rýchlomera (pásmo 34 GHz) s kombinovanou štandardnou neistotou merania frekvencie menšou ako 2 x 10<sup>-5</sup>.
 
           - 4.2.1.2 Merač mikrovlnného výkonu s meracou anténou pre výkonové a frekvenčné pásmo vysielača cestného radarového rýchlomera (pásmo 34 GHz) s kombinovanou štandardnou neistotou merania výkonu menšou ako 6 %.
 
@@ -232,7 +232,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
             - Kombinovaná štandardná neistota frekvencie generátora Dopplerových frekvencií je menšia ako 1 x 10<sup>-5</sup>.
 
-          - 4.2.1.5 Etalónové zariadenie na meranie rýchlosti motorových vozidiel v teréne s meracím rozsahom rýchlostí od 20 km.h<sup>-1</sup> do 130 km.h<sup>-1</sup>, s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,3 km.h<sup>-1</sup> do rozsahu merania rýchlosti 100 km.h<sup>-1</sup>a s kombinovanou štandardnou neistotou merania rýchlosti 0,3 % z hodnoty meranej rýchlosti pre rozsah rýchlosti nad 100 km.h<sup>-1</sup>.
+          - 4.2.1.5 Etalónové zariadenie na meranie rýchlosti motorového vozidla v teréne s meracím rozsahom rýchlostí od 20 km <sup>.</sup>h<sup>-1</sup> do 130 km <sup>.</sup>h<sup>-1</sup> s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,5 km <sup>.</sup> h<sup>-1</sup> do rozsahu merania rýchlosti 100 km <sup>.</sup>h<sup>-1</sup> a s kombinovanou štandardnou neistotou merania rýchlosti 0,5 % z hodnoty meranej rýchlosti pre rozsah rýchlosti nad 100 km <sup>.</sup>h<sup>-1</sup>.
 
           - 4.2.1.6 Nastaviteľný stabilizovaný zdroj jednosmerného napätia do 20 V. Skutočná hodnota napätia zdroja sa meria voltmetrom s kombinovanou štandardnou neistotou menšou ako 0,1 %.
 
@@ -248,9 +248,11 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
           - 4.2.2.4 Etalónové zariadenie so snímačmi na meranie času prejazdu skúšobného vozidla kontrolnými bodmi skúšobnej dráhy. Kombinovaná štandardná neistota merania času nemá byť horšia ako 1 x 10<sup>-5</sup> s.
 
-            - Zariadenie umožňuje meranie rýchlosti motorových vozidiel v teréne od 20 km.h<sup>-1</sup> do 130 km.h<sup>-1</sup> s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,3 km.h<sup>-1</sup> do rozsahu merania rýchlosti 100 km.h<sup>-1</sup>a s kombinovanou štandardnou neistotou merania rýchlosti 0,3 % z hodnoty meranej rýchlosti pre rozsah rýchlosti nad 100 km.h<sup>-1</sup>.
+            - Zariadenie umožňuje meranie rýchlosti motorového vozidla v teréne od 20 km <sup>.</sup>h<sup>-1</sup> do 130 km <sup>.</sup>h<sup>-1</sup> s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,5 km <sup>.</sup>h<sup>-1</sup> do rýchlosti 100 km <sup>.</sup>h<sup>-1</sup>a s kombinovanou štandardnou neistotou merania rýchlosti 0,5 % z hodnoty meranej rýchlosti pre rýchlosti nad 100 km <sup>.</sup>h<sup>-1</sup>.
 
-          - 4.2.2.5 Skúšobné motorové vozidlo
+          - 4.2.2.5 Etalónové zariadenie na simulovanie rýchlosti vozidla – simulátor rýchlosti v rozsahoch frekvencie impulzov a oneskorenia impulzov zodpovedajúcich meraciemu rozsahu rýchlomera s kombinovanou štandardnou neistotou simulovania rýchlosti nepresahujúcou 0,5 km <sup>.</sup>h<sup>-1</sup> pri simulácii rýchlostí do 100 km <sup>.</sup>h<sup>-1</sup> a 0,5 % z hodnoty rýchlosti pre rýchlosti nad 100 km <sup>.</sup>h<sup>-1</sup>.
+
+          - 4.2.2.6 Skúšobné motorové vozidlo
 
       - 4.3 Technické skúšky pri schvaľovaní typu
 
@@ -326,7 +328,11 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
             - Skúškou na skúšobnej dráhe sa etalónovým skúšobným zariadením a skúšobným vozidlom zisťuje chyba rýchlomera. Rýchlomer a etalónové zariadenie sa inštalujú podľa predpisu výrobcu. Skúška sa vykoná najmenej pri troch hodnotách rýchlosti v rozsahu do 130 km.h<sup>-1</sup>v smere prichádzajúceho skúšobného vozidla a pri troch hodnotách rýchlosti v rozsahu do 130 km.h<sup>-1</sup> v smere odchádzajúceho skúšobného vozidla a vypočíta sa kombinovaná štandardná neistota merania rýchlosti.
 
-          - 4.3.4.5 Skúška relatívnej citlivosti rýchlomera
+          - 4.3.4.5 Skúška správnosti rýchlomera simuláciou rýchlosti v laboratóriu
+
+            - Skúškou správnosti rýchlomera simulátorom rýchlosti sa zisťuje chyba rýchlomera v laboratóriu. Rýchlomer a simulátor rýchlosti sa inštalujú podľa predpisu výrobcu. Skúška sa vykoná najmenej pri troch hodnotách rýchlosti v rozsahu do 130 km <sup>.</sup>h<sup>-1</sup>v smere prichádzajúceho vozidla a pri troch hodnotách rýchlosti v rozsahu do 130 km <sup>.</sup>h<sup>-1</sup> v smere odchádzajúceho vozidla a vypočíta sa kombinovaná štandardná neistota merania rýchlosti.
+
+          - 4.3.4.6 Skúška relatívnej citlivosti rýchlomera
 
             - Skúška sa vykoná meraním rýchlosti skúšobného vozidla pohybujúceho sa voči skúšanému rýchlomeru v najväčšej vzdialenosti, ktorú udáva výrobca rýchlomera. Meranie sa vykoná najmenej dvakrát pre prichádzajúce vozidlo a dvakrát pre odchádzajúce vozidlo. Rýchlosť vozidla sa nevyhodnocuje, kontroluje sa len správnosť funkcie rýchlomera.
 
@@ -336,13 +342,13 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
         - 4.4.2 Pri následnom overovaní cestných radarových rýchlomerov sa kontroluje zhoda predloženého rýchlomera so schváleným typom a vykonajú sa skúšky v laboratóriu podľa bodov 4.3.1 písm. c), 4.3.2.1 až 4.3.2.6, 4.3.2.8 a 4.3.3.2. Pri skúškach podľa bodov 4.3.2.2 až 4.3.2.6 sa prihliada na rozhodnutie o schválení typu rýchlomera.
 
-        - 4.4.3 Pri prvotnom a následnom overení cestných laserových rýchlomerov sa kontroluje zhoda predloženého rýchlomera so schváleným typom a vykonajú sa skúšky podľa bodov 4.3.1 a 4.3.4.
+        - 4.4.3 Pri prvotnom overení cestných laserových rýchlomerov sa kontroluje zhoda predloženého rýchlomera so schváleným typom a vykonajú sa skúšky podľa bodov 4.3.1, 4.3.4.3 a skúška podľa bodov 4.3.4.4 alebo 4.3.4.5. Ak sa vykonáva skúška podľa bodu 4.3.4.5, musí sa vykonať aj skúška podľa bodu 4.3.4.4 aspoň pri jednej hodnote rýchlosti prichádzajúceho skúšobného vozidla a pri jednej hodnote rýchlosti odchádzajúceho skúšobného vozidla. Pri následnom overení cestných laserových rýchlomerov sa kontroluje zhoda predloženého rýchlomera so schváleným typom a vykonajú sa skúšky podľa bodov 4.3.1, 4.3.4.3 a 4.3.4.5.
 
       - 4.5 Vyhodnotenie nameraných údajov
 
         - 4.5.1 Pri cestných radarových rýchlomeroch sa namerané hodnoty rýchlosti pri meraní elektronickým generátorom Dopplerových frekvencií a v teréne vyhodnotia podľa metodiky stanovenej výrobcom rýchlomera a rozhodnutia o schválení typu rýchlomera.
 
-        - 4.5.2 Pri cestných laserových rýchlomeroch sa hodnoty rýchlosti namerané skúšaným rýchlomerom porovnajú s hodnotami rýchlosti skúšobného vozidla vypočítanými zo vzdialenosti kontrolných bodov na skúšobnej dráhe a príslušných časových intervalov prechodu vozidla týmito bodmi.
+        - 4.5.2. Pri cestných laserových rýchlomeroch sa hodnoty rýchlosti namerané skúšaným rýchlomerom porovnajú s hodnotami rýchlosti skúšobného vozidla vypočítanými zo vzdialenosti kontrolných bodov na skúšobnej dráhe a príslušných časových intervalov prechodu vozidla týmito bodmi alebo s hodnotami indikovanými simulátorom rýchlosti.
 
     - 5. Overenie
 

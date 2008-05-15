@@ -28,6 +28,8 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.1.7 | Automatické hladinomery<sup>2</sup>),<sup>3</sup>) | nie | áno | 1 rok | 68
 
+    - 1.1.8 | Prístroje na meranie viacerých rozmerov<sup>2</sup>),<sup>3</sup>) | <sup>13</sup>) | po vykonanej oprave<sup>14</sup>) | 2 roky | <sup>20</sup>)
+
     - 1.2 Plošný obsah
 
     - 1.2.1 | Meracie zariadenia na meranie plošného obsahu usní<sup>2</sup>) | áno | áno | 1 rok | 39
@@ -109,6 +111,8 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
     - 1.3.22 | Meradlá pretečeného objemu vody s voľnou hladinou | podľa prílohy č. 64 | áno | 2 roky | 64
 
     - 1.3.23 | Obaly spotrebiteľsky balených výrobkov klasifikované ako odmerné nádoby<sup>8</sup>) | nie | nie | - | Vyhl. č. 207/2000 Z. z. v znení vyhl. č. 420/2001 Z. z.
+
+    - 1.3.24 | Meracie zostavy na lieh<sup>2</sup>),<sup>3</sup>) | Podľa prílohy č. 72 | Podľa prílohy č. 72 | 1 rok | 72
 
   - 2. MECHANICKÉ VELIČINY
 
@@ -290,28 +294,30 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 7.5.1 | Analyzátory výfukových plynov motorových vozidiel so zážihovým motorom<sup>3</sup>) | áno | áno | 1 rok | 23
 
-    - 7.5.2 | Analyzátory dychu<sup>3</sup>) | áno | áno | 1 rok s výnimkou analyzátorov dychu pracujúcich na elektrochemickom princípe a uvedených na trh do 31. 12. 2000, kde je 6 mesiacov | 25
+    - 7.5.2 | Analyzátory dychu<sup>3</sup>) | áno | áno | 1 rok s výnimkou analyzátorov dychu pracujúcich na elektrochemickom princípe a analyzátorov dychu uvedených na trh do 31. 12. 2000, kde je 6 mesiacov | 25
+
+    - 7.5.3 | Plynové chromatografy na stanovenie energetickej hodnoty zemného plynu<sup>2</sup>) | áno | áno | 1 rok | 73
 
   - 8. VELIČINY ATÓMOVEJ A JADROVEJ FYZIKY
 
     - Meradlá uvedené v položkách 8.2, 8.3, 8.4 a 8.9 podliehajú pred uvedením na trh alebo do používania posúdeniu zhody podľa osobitného predpisu<sup>13</sup>) a počas používania následnému overeniu. Po oprave podliehajú prvotnému overeniu.
 
-  - 8.1 | Meradlá na kontrolu dodržiavania prevádzkových limitov a na kontrolu referenčných úrovní aktivity a objemovej aktivity z vypustí jadrových zariadení, zo zariadení na ťažbu alebo úpravu rádioaktívnych surovín, spracovanie alebo aplikáciu rádioaktívnych materiálov a z úpravní rádioaktívneho odpadu a na stanovenie radiačnej záťaže z vypustí<sup>3</sup>) | áno | áno | 2 roky | 43
+  - 8.1 | Meradlá na kontrolu dodržiavania prevádzkových limitov a na kontrolu referenčných úrovní aktivity a objemovej aktivity z výpustí jadrových zariadení, zo zariadení na ťažbu alebo úpravu rádioaktívnych surovín, spracovanie alebo aplikáciu rádioaktívnych materiálov a z úpravní rádioaktívneho odpadu a na stanovenie radiačnej záťaže z výpustí<sup>3</sup>) | áno | áno | 2 roky | 43<sup>19</sup>)
 
-  - 8.2 | Meradlá aktivity diagnostických a terapeutických preparátov aplikovaných pacientom in vivo<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 1 rok | 43<sup>19</sup>)
+  - 8.2 | Meradlá aktivity diagnostických a terapeutických preparátov aplikovaných pacientom in vivo<sup>3</sup>),<sup>4</sup>) | – | po oprave<sup>14</sup>) | 1 rok | 43<sup>19</sup>)
 
-  - 8.3 | Meradlá používané na určenie terapeuticky absorbovaných dávok ionizujúceho žiarenia aplikovaných pacientom<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 1 rok | 41<sup>19</sup>)
+  - 8.3 | Meradlá používané na určenie terapeuticky absorbovaných dávok ionizujúceho žiarenia aplikovaných pacientom<sup>3</sup>),<sup>4</sup>) | – | po oprave<sup>14</sup>) | 1 rok | 41<sup>19</sup>)
 
-  - 8.4 | Meradlá vnútornej rádioaktívnej kontaminácie osôb<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 43<sup>19</sup>)
+  - 8.4 | Meradlá vnútornej rádioaktívnej kontaminácie osôb<sup>3</sup>),<sup>4</sup>) | – | po oprave<sup>14</sup>) | 2 roky | 43<sup>19</sup>)
 
-  - 8.5 | Meradlá objemovej aktivity radónu 222 vo vzduchu a vo vode a ekvivalentnej objemovej aktivity radónu 222 vo vzduchu<sup>3</sup>) | nie | áno | 1 rok | 43
+  - 8.5 | Meradlá objemovej aktivity radónu 222 vo vzduchu a vo vode a ekvivalentnej objemovej aktivity radónu 222 vo vzduchu<sup>3</sup>) | nie | áno | 1 rok | 43<sup>19</sup>)
 
-  - 8.6 | Zostavy na meranie dozimetrických veličín používané v osobnej dozimetrii<sup>3</sup>) | áno | áno | 1 rok | 41
+  - 8.6 | Zostavy na meranie dozimetrických veličín používané v osobnej dozimetrii<sup>3</sup>) | áno | áno | 1 rok | 41<sup>19</sup>)
 
-  - 8.7 | Meradlá a zostavy na meranie veličín rádioaktívnej premeny a dozimetrických veličín používané na kontrolu dodržiavania limitov v oblasti radiačnej ochrany alebo radiačnej bezpečnosti a na dôkazové meranie v rámci radiačnej monitorovacej siete<sup>3</sup>) | áno | áno | 2 roky | 41 43
+  - 8.7 | Meradlá a zostavy na meranie veličín rádioaktívnej premeny a dozimetrických veličín používané na kontrolu dodržiavania limitov v oblasti radiačnej ochrany alebo radiačnej bezpečnosti a na dôkazové meranie v rámci radiačnej monitorovacej siete<sup>3</sup>) | áno | áno | 2 roky | 41<sup>19</sup>) 43<sup>19</sup>)
 
-  - 8.8 | Priamo odčítacie osobné dozimetre a osobné dozimetre signalizujúce prekročenie vopred nastavenej úrovne dozimetrických veličín, ktoré sa nepoužívajú súčasne s určenými meradlami uvedenými v položke 8.6<sup>3</sup>) | áno | áno | 2 roky | 41
+  - 8.8 | Priamo odčítacie osobné dozimetre a osobné dozimetre signalizujúce prekročenie vopred nastavenej úrovne dozimetrických veličín, ktoré sa nepoužívajú súčasne s určenými meradlami uvedenými v položke 8.6<sup>3</sup>) | áno | áno | 2 roky | 41<sup>19</sup>)
 
-  - 8.9 | Meradlá kvality zväzkov a zdrojov röntgenového žiarenia<sup>3</sup>),<sup>4</sup>) | - | po oprave<sup>14</sup>) | 2 roky | 41<sup>19</sup>)
+  - 8.9 | Meradlá kvality zväzkov a zdrojov röntgenového žiarenia<sup>3</sup>),<sup>4</sup>) | – | po oprave<sup>14</sup>) | 2 roky | 41<sup>19</sup>)
 
-  - 8.10 | Stacionárne meradlá používané na vyhľadávanie skrytej rádioaktivity v osobnej a nákladnej preprave | nie | áno | 2 roky | 43
+  - 8.10 | Stacionárne meradlá používané na vyhľadávanie skrytej rádioaktivity v osobnej a nákladnej preprave | nie | áno | 2 roky | 43<sup>19</sup>)

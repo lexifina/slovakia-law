@@ -1,3 +1,3 @@
 Príloha č. 58 k vyhláške č. 210/2000 Z. z.
 
-- DÁVKOVACIE OBJEMOVÉ MERADLÁ NA KVAPALINY [Príloha 58](../assets/6fde1176208cc57f62dd3e998d61152fa255a28c520309ec07f85c673ec0ba5c.pdf)
+- DÁVKOVACIE OBJEMOVÉ MERADLÁ NA KVAPALINY [Príloha 58](../assets/9529306fe7e6eccc2d331d69c8f69e32d4f8a7ff7290b3c62db785e7311a5b2b.pdf)

@@ -1,3 +1,3 @@
 Príloha č. 49 k vyhláške č. 210/2000 Z. z.
 
-- MERACIE MIKROFÓNY [Príloha č. 49 k vyhláške č. 210/2000 Z. z.](../assets/6245f8b5e5d7ce96776bd5869ed6246b5c847689fb49f777faef3a9be2884cbd.pdf)
+- MERACIE MIKROFÓNY [Príloha č. 49 k vyhláške č. 210/2000 Z. z.](../assets/322e0a211588b0b66c9afcd51e2dfb26255bc33b4c9cef2793e2279a6c502d9d.pdf)

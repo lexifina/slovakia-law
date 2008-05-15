@@ -18,7 +18,9 @@
 
 - 6) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení (Ú. v. ES L 204, 21. 7. 1998).
 
-- 7) Smernica Európskeho parlamentu a Rady z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v znení smernice 98/48/ES, zákon č. 264/1999 Z. z., nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
+- 7) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v platnom znení.
+
+- Zákon č. 264/1999 Z. z.Nariadenie vlády Slovenskej republiky č. 453/2002 Z. z. o postupoch pri poskytovaní informácií v oblasti technických predpisov a technických noriem.
 
 - 8) Napríklad nariadenie vlády Slovenskej republiky č. 399/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na váhy s neautomatickou činnosťou v znení nariadenia vlády Slovenskej republiky č. 150/2002 Z. z., nariadenie vlády Slovenskej republiky č. 294/2005 Z. z.
 
@@ -58,4 +60,6 @@
 
 - 18) Overenie podľa prílohy č. 44 a STN EN 60645-1.
 
-- 19) Overenie podľa slovenských technických noriem.
+- 19) Overenie podľa technických noriem.
+
+- 20) Overenie podľa harmonizovaných noriem alebo normatívnych dokumentov podľa § 13 nariadenia vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách.
