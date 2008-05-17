@@ -1,0 +1,5 @@
+# § 263b
+
+(1) Poistencovi, ktorému bol priznaný invalidný dôchodok alebo čiastočný invalidný dôchodok podľa predpisov účinných do 31. decembra 2003, tento dôchodok sa mu vypláca k 1. októbru 2006 a v období od 1. januára 2004 do 30. septembra 2006 nebolo mu preskúmané trvanie invalidity podľa § 263 ods. 2 účinného do 18. júla 2006, Sociálna poisťovňa po 30. septembri 2006 preskúmava trvanie invalidity alebo čiastočnej invalidity podľa predpisov účinných do 31. decembra 2003 a rozhoduje o nároku na invalidný dôchodok a čiastočný invalidný dôchodok podľa predpisov účinných do 31. decembra 2003. To platí aj vtedy, ak dôjde k zmene invalidity poistenca na čiastočnú invaliditu alebo k zmene čiastočnej invalidity poistenca na invaliditu. Sociálna poisťovňa rozhodne podľa druhej vety bez žiadosti.
+
+(2) Za zamestnanie podľa zákona účinného do 31. decembra 2003 sa považuje aj obdobie dôchodkového poistenia získané po 31. decembri 2003 a za hrubý zárobok na určenie priemerného mesačného zárobku podľa zákona účinného do 31. decembra 2003 sa považuje aj vymeriavací základ na platenie poistného na starobné poistenie po 31. decembri 2003.
