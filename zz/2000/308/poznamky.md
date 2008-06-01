@@ -58,6 +58,10 @@
 
 - 21c) Napríklad § 3 zákona č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z.
 
+- 21d) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, § 20 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve, § 80 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, § 23 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.
+
+- 21e) Napríklad § 19 ods. 2 zákona č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní, o jeho odvolaní a o doplnení niektorých ďalších zákonov.
+
 - 22) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. v znení neskorších predpisov, zákon č. 46/1999 Z. z.
 
 - 23) § 5 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
