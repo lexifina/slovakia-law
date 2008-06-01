@@ -20,13 +20,15 @@
 
 - 10) Článok 119 Ústavy Slovenskej republiky.
 
+- 10a) Napríklad čl. 802 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993) v platnom znení.
+
 - 11) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 11a) Napríklad § 41 a 42 zákona č. 199/2004 Z. z.
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 13) Napríklad § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov, § 2, 5 a 7 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.
+- 13) Napríklad § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov, § 2, 5 a 7 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.čl. 4 a 5, čl. 7 ods. 2 a 4 nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 61, 3. 3. 1997) v platnom znení
 
 - 14) § 196 Trestného poriadku.
 
@@ -45,6 +47,8 @@
 - 17b) Čl. 14e nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993).
 
 - 18) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
+
+- 18a) Napríklad čl. 197, 228, 308a, 308d a čl. 458 nariadenia Komisie (EHS) č. 2454/93 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993) v platnom znení.
 
 - 19) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 21/2007 Z. z.
 
