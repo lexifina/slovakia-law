@@ -13,3 +13,5 @@
 - 7) § 1 ods. 1 zákona č. 21/1992 Zb. o bankách v znení neskorších predpisov.
 
 - 8) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
+
+- 9) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
