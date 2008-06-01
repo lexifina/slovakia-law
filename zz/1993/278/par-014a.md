@@ -4,11 +4,11 @@
 
 # § 14a
 
-(1) Ministerstvo financií a správy finančnej kontroly kontrolujú dodržiavanie ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej správcami uvedenými v § 1 ods. 1, zriaďovateľmi pri udeľovaní súhlasu podľa tohto zákona a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami alebo právnickými osobami.
+(1) Ministerstvo financií a správy finančnej kontroly vykonávajú vládny audit dodržiavania ustanovení tohto zákona a osobitných predpisov pri správe majetku štátu vykonávanej správcami uvedenými v § 1 ods. 1, okrem Najvyššieho kontrolného úradu Slovenskej republiky, zriaďovateľmi pri udeľovaní súhlasu podľa tohto zákona a dodržiavania povinností uložených týmto zákonom pri nakladaní s majetkom štátu prevedeným, prenajatým alebo vypožičaným fyzickým osobám a právnickým osobám.
 
-(2) V pôsobnosti ministerstva financií podľa odseku 1 je kontrola dodržiavania ustanovení tohto zákona a osobitných zákonov pri správe majetku štátu vykonávanej ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23ba</sup>) pri udeľovaní súhlasu ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky ako zriaďovateľmi a kontrola dodržiavania ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami alebo právnickými osobami, ktoré nadobudli majetok štátu od ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky.<sup>23ba</sup>)
+(2) V pôsobnosti ministerstva financií je vykonávanie vládneho auditu dodržiavania ustanovení tohto zákona a osobitných predpisov pri správe majetku štátu vykonávanej ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23a</sup>) pri udeľovaní súhlasu ministerstvami a ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky ako zriaďovateľmi a vládny audit dodržiavania ustanovení tohto zákona fyzickými osobami alebo právnickými osobami, ktoré nadobudli majetok štátu za cenu nižšiu než primeranú alebo majú majetok štátu v nájme alebo vo výpožičke od ministerstiev a ostatných ústredných orgánov štátnej správy.<sup>23a</sup>)
 
-(3) Správy finančnej kontroly<sup>23bb</sup>) kontrolujú správcov a zriaďovateľov, ktorí nie sú uvedení v odseku 2, a dodržiavanie ustanovení § 11 ods. 4 a § 13 ods. 10 až 12 fyzickými osobami a právnickými osobami, ktoré nadobudli majetok štátu od správcov, ktorí nie sú uvedení v odseku 2.
+(3) Správy finančnej kontroly<sup>23bb</sup>) vykonávajú vládny audit dodržiavania ustanovení tohto zákona a osobitných predpisov pri správe majetku štátu vykonávanej správcami, ktorí nie sú uvedení v odseku 2, a dodržiavania ustanovení tohto zákona fyzickými osobami a právnickými osobami, ktoré nadobudli majetok štátu za cenu nižšiu než primeranú alebo majú majetok štátu v nájme alebo vo výpožičke od správcov, ktorí nie sú uvedení v odseku 2.
 
 (4) V prípade zistenia porušenia ustanovení tohto zákona a osobitných zákonov môžu ministerstvo financií a správy finančnej kontroly podľa závažnosti porušenia uložiť pokutu
 
@@ -22,4 +22,4 @@
 
 (6) Na konanie o pokutách podľa tohto zákona sa vzťahujú všeobecné predpisy o správnom konaní.<sup>8</sup>)
 
-(7) Na kontrolu podľa odseku 1 sa vzťahujú základné pravidlá kontrolnej činnosti podľa osobitného predpisu.<sup>23c</sup>) Pôsobnosť orgánov kontroly upravená osobitnými predpismi<sup>10a</sup>) nie je týmto zákonom dotknutá.
+(7) Na vládny audit podľa odseku 1 sa vzťahujú základné pravidlá vládneho auditu podľa osobitného predpisu.<sup>23c</sup>) Pôsobnosť orgánov kontroly upravená osobitnými predpismi<sup>10a</sup>) nie je týmto zákonom dotknutá.

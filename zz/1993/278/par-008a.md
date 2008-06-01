@@ -1,6 +1,6 @@
 # § 8a Osobitné ponukové konanie
 
-(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v periodickej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného nehnuteľného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
+(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v dennej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného nehnuteľného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
 
 (2) Správca
 
@@ -12,7 +12,7 @@
 
 - d) je povinný akceptovať cenovú ponuku vyjadrenú len jednou pevnou sumou.
 
-(3) Správca písomne pozve na vyhodnotenie cenových ponúk všetkých záujemcov najneskôr päť dní pred konaním vyhodnotenia; neúčasť niektorého záujemcu nie je prekážkou uskutočnenia ich vyhodnotenia. Správca je povinný vyhodnotiť cenové ponuky záujemcov v komisii, ktorej členov vymenúva štatutárny orgán správcu. Pri rovnosti cenových ponúk je správca povinný vyzvať na vyhodnotení zúčastnených záujemcov na zvýšenie cenovej ponuky. Osobitné ponukové konanie je úspešné, ak najmenej jeden záujemca ponúkne primeranú cenu.
+(3) Správca písomne pozve na vyhodnotenie cenových ponúk všetkých záujemcov najneskôr päť dní pred konaním vyhodnotenia; neúčasť niektorého záujemcu nie je prekážkou uskutočnenia ich vyhodnotenia. Správca je povinný otvoriť obálky a vyhodnotiť cenové ponuky záujemcov v komisii, ktorej členov vymenúva štatutárny orgán správcu. Pri rovnosti cenových ponúk je správca povinný vyzvať na vyhodnotení zúčastnených záujemcov na zvýšenie cenovej ponuky. Osobitné ponukové konanie je úspešné, ak najmenej jeden záujemca ponúkne primeranú cenu.
 
 (4) Správca prevedie majetok štátu záujemcovi, ktorý v osobitnom ponukovom konaní ponúkne najvyššiu cenu. Ak záujemca, ktorý ponúkol v osobitnom ponukovom konaní najvyššiu cenovú ponuku, odstúpi od uzavretia zmluvy o prevode majetku štátu, správca môže vyzvať na uzavretie zmluvy o prevode majetku štátu v poradí ďalšieho záujemcu s cenovou ponukou vo výške aspoň primeranej ceny. Ak cenová ponuka žiadneho záujemcu nedosiahne výšku primeranej ceny, je správca povinný opakovať osobitné ponukové konanie.
 
@@ -28,7 +28,7 @@
 
 - d) podielu majetku štátu, ktorým sa realizuje zákonné predkupné právo<sup>13c</sup>) alebo prednostné právo na prevod správy podielu majetku štátu v spoločnej správe podľa § 10 ods. 1,
 
-- e) majetku štátu na účely poskytovania starostlivosti zariadeniu sociálnych služieb,<sup>13d</sup>) zdravotníckemu zariadeniu,<sup>13e</sup>) škole alebo školskému zariadeniu,<sup>13f</sup>) ak ide o právnickú osobu, ktorá nie je podnikateľom<sup>13g</sup>) a preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadení sociálnych služieb,<sup>13d</sup>) v zdravotníckom zariadení<sup>13e</sup>) alebo je najmenej jeden rok zaradené do siete škôl a školských zariadení,<sup>13f</sup>)
+- e) majetku štátu na účely poskytovania starostlivosti alebo výchovy a vzdelávania zariadeniu sociálnych služieb,<sup>13d</sup>) poskytovateľovi zdravotnej starostlivosti,<sup>13e</sup>) škole alebo školskému zariadeniu,<sup>13f</sup>) ak ide o právnickú osobu, ktorá nie je podnikateľom<sup>13g</sup>) a preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadení sociálnych služieb,<sup>13d</sup>) najmenej jeden rok poskytuje zdravotnú starostlivosť<sup>13e</sup>) alebo je najmenej jeden rok zaradená do siete škôl a školských zariadení,<sup>13f</sup>)
 
 - f) nehnuteľnej veci štátu určenej pre potreby diplomatického zastúpenia cudzích štátov,
 
@@ -40,7 +40,7 @@
 
 - a) obci alebo vyššiemu územnému celku za podmienok uvedených v odseku 6 písm. c),
 
-- b) zariadeniu sociálnych služieb, zdravotníckemu zariadeniu, škole alebo školskému zariadeniu za podmienok uvedených v odseku 6 písm. e),
+- b) zariadeniu sociálnych služieb, poskytovateľovi zdravotnej starostlivosti, škole alebo školskému zariadeniu za podmienok uvedených v odseku 6 písm. e),
 
 - c) pre potreby diplomatického zastúpenia cudzích štátov.
 
