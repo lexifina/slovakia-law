@@ -22,4 +22,4 @@
 
 - 9a) Napríklad § 55 zákona č. 50/1976 Zb., § 16 ods. 2 zákona č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov, § 5 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
-- 10) § 6a zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení zákona č. 264/1999 Z. z.
+- 10) § 5 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení zákona č. 672/2006 Z. z.“.

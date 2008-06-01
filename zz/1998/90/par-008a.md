@@ -20,9 +20,7 @@
 
 - a) opis a kontrolu vstupných surovín a polotovarov alebo len ich častí, alebo zložiek,
 
-- b) kontrolu používaného výrobného zariadenia, najmä nastavenie strojov a ich vybavenie, v medzistupňoch výroby stavebného výrobku, ako aj vykonávanie plánovaných skúšok v priebehu výroby stavebného výrobku (§ 6 ods. 2 písm. b),
-
-- c) overovanie a vykonávanie plánovaných skúšok hotových stavebných výrobkov.
+- b) kontrolu používaného výrobného zariadenia, najmä nastavenie strojov a ich vybavenie, v medzistupňoch výroby stavebného výrobku.
 
 (4) Uplatňovanie vnútropodnikovej kontroly musí výrobca organizovať tak, aby výrobu opustili len stavebné výrobky, ktoré prešli všetkými kontrolnými postupmi určenými v prevádzkových predpisoch. Ak stavebný výrobok výrobu opustil a bol expedovaný skôr, než výrobca zistil všetky výsledky kontrolných postupov, neodkladne o tom upovedomí odberateľa.
 

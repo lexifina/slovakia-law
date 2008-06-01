@@ -8,7 +8,7 @@
 
 - b) údaje o stavebnom výrobku, najmä jeho druhové označenie, obchodný názov, označenie typov a variantov vyrábaných rovnakou technológiou,
 
-- c) údaj o účele a spôsobe použitia stavebného výrobku v stavbe podľa technickej špecifikácie,
+- c) údaje o účele a spôsobe použitia stavebného výrobku v stavbe podľa technickej špecifikácie,
 
 - d) informácie o nevhodnosti použitia stavebného výrobku, o obmedzeniach jeho použitia v stavbe a o spôsobe jeho trvalého a pevného zabudovania do stavby,
 
@@ -18,9 +18,11 @@
 
 - g) dátum začiatku platnosti vyhlásenia,
 
-- h) meno, priezvisko a podpis oprávnenej osoby výrobcu.
+- h) meno, priezvisko a podpis oprávnenej osoby výrobcu,
 
-(3) Ak prestal platiť certifikát zhody alebo certifikát vnútropodnikovej kontroly, ktoré boli základom vyhlásenia zhody, alebo ak výrobca sám zistil nezhodu stavebného výrobku alebo systému vnútropodnikovej kontroly s technickou špecifikáciou, alebo ak technická špecifikácia stratila platnosť, výrobca je povinný
+- i) údaje o splnomocnenom zástupcovi (§ 29 ods. 2) zahraničného výrobcu, ak je ustanovený, a meno, priezvisko a podpis oprávnenej osoby zástupcu.
+
+(3) Ak prestal platiť certifikát vnútropodnikovej kontroly alebo ak výrobca sám zistil nezhodu stavebného výrobku alebo systému vnútropodnikovej kontroly s technickou špecifikáciou, alebo ak technická špecifikácia stratila platnosť, výrobca je povinný
 
 - a) zastaviť uvádzanie stavebného výrobku na trh,
 
@@ -30,4 +32,4 @@
 
 - d) účinným spôsobom informovať verejnosť, ak použitie stavebného výrobku ohrozuje bezpečnosť a zdravie.
 
-(4) Výrobca je povinný uchovávať vyhlásenie zhody a všetky podkladové písomnosti desať rokov odo dňa skončenia uvádzania stavebného výrobku na trh a na požiadanie ich poskytnúť oprávnenému kontrolnému orgánu podľa osobitných predpisov.<sup>4a</sup>) To neplatí, ak ide o podkladové písomnosti k vyhláseniu zhody dovezeného stavebného výrobku označeného značkou zhody CE.
+(4) Výrobca je povinný uchovávať vyhlásenie zhody a všetky podkladové písomnosti desať rokov odo dňa skončenia uvádzania stavebného výrobku na trh a na požiadanie ich poskytnúť oprávnenému kontrolnému orgánu podľa osobitných predpisov.<sup>4a</sup>) To neplatí, ak ide o podkladové písomnosti k vyhláseniu zhody dovezeného stavebného výrobku označeného označením CE.
