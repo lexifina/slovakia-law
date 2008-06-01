@@ -10,6 +10,4 @@ Uplynutím 31. decembra 1992 sa zrušujú:
 
 - 4. § 4 ods. 2 zákonného opatrenia Predsedníctva Národného zhromaždenia č. 1/1967 Zb. o zmenách v organizácii a pôsobnosti niektorých ústredných orgánov v znení neskorších predpisov;
 
-- 5. § 1 písm. a) zákona č. 136/1991 Zb. o rozdelení pôsobnosti medzi Českou a Slovenskou Federatívnou Republikou a Českou republikou a Slovenskou republikou vo veciach tlače a iných informačných prostriedkov;
-
 - 6. zákon č. 310/1991 Zb., ktorým sa mení a dopĺňa zákon č. 123/1965 Zb. o Československej tlačovej kancelárii.
