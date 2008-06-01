@@ -86,6 +86,8 @@
 
 - 16) Zákon č. 195/2000 Z. z. o telekomunikáciách.
 
+- 16a) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 12/2005 Z. z., ktorou sa ustanovujú podrobnosti o kvalifikačných predpokladoch, o overovaní odbornej spôsobilosti člena posádky plavidla a vodcu malého plavidla a vzory preukazov odbornej spôsobilosti členov posádky plavidla v znení neskorších predpisov.
+
 - 17) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 359/2002 Z. z. o podpísaní Dohody medzi vládou Slovenskej republiky a vládou Chorvátskej republiky o vnútrozemskej plavbe, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 274/2000 Z. z. o potvrdení stavu zmluvnej základne medzi Slovenskou republikou a Ruskou federáciou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky a po sukcesii Ruskej federácie do zmlúv bývalého Zväzu sovietskych socialistických republík.
 
 - 17a) Príloha č. 2 Skupina 214 – Ostatné zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -109,6 +111,10 @@
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 24a) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
+
+- 24b) Napríklad zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 24c) Regionálna dohoda o rádiotelefónnej službe na vnútrozemských vodných cestách (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 7/2006 Z. z.), nariadenie Komisie (ES) č. 415/2007 z 13. marca 2007 týkajúce sa technických špecifikácií lokalizácie plavidiel a sledovania ich dráhy, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
 
 - 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

@@ -1,4 +1,4 @@
-Príloha k zákonu č. 338/2000 Z. z.
+Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
@@ -19,3 +19,7 @@ Príloha k zákonu č. 338/2000 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2005/33/ES zo 6. júla 2005, ktorou sa mení a dopĺňa smernica 1999/32/ES vzhľadom na obsah síry v lodných palivách (Ú. v. EÚ L 191, 22. 7. 2005).
 
   - 9. Smernica Európskeho parlamentu a Rady 2000/18/ES zo 17. apríla 2000 o minimálnych požiadavkách na skúšky bezpečnostných poradcov pre prepravu nebezpečného tovaru cestnou, železničnou alebo vnútrozemskou vodnou dopravou (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 5; Ú. v. ES L 118, 19. 5. 2000).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2005/44/ES zo 7. septembra 2005 o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v Spoločenstve (Ú. v. EÚ L 255, 30. 09. 2005).
+
+  - 11. Smernica Rady 2006/103/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti dopravnej politiky (Ú. v. EÚ L 363, 20. 12. 2006).
