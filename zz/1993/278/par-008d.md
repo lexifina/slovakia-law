@@ -22,4 +22,4 @@
 
 - b) pri právnických osobách názov, sídlo a identifikačné číslo.
 
-(4) Správca je povinný predložiť žiadosť o zápis do registra najneskôr v deň zverejnenia ponuky v periodickej tlači s celoštátnou pôsobnosťou. Žiadosť musí obsahovať údaje podľa odseku 2 písm. a) až d). Správca je povinný požiadať o zápis údajov podľa odseku 2 písm. e) do piatich pracovných dní od vyhodnotenia osobitného ponukového konania a údajov podľa odseku 2 písm. f) do piatich pracovných dní od uzavretia kúpnej zmluvy.
+(4) Správca je povinný predložiť žiadosť o zápis do registra najneskôr v deň zverejnenia ponuky v dennej tlači s celoštátnou pôsobnosťou. Žiadosť musí obsahovať údaje podľa odseku 2 písm. a) až d). Správca je povinný požiadať o zápis údajov podľa odseku 2 písm. e) do piatich pracovných dní od vyhodnotenia osobitného ponukového konania a údajov podľa odseku 2 písm. f) do piatich pracovných dní od uzavretia kúpnej zmluvy.

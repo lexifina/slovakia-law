@@ -64,9 +64,13 @@
 
 - 13c) Napr. § 140 Občianskeho zákonníka.
 
-- 13d) § 18 ods. 2 až 4 a ods. 5 písm. c) zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov
+- 13d) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 330/2007 Z. z.
 
-- 13e) § 24 ods. 1 písm. a) až r) zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13e) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13f) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
@@ -96,11 +100,15 @@
 
 - 18b) Výnos Ministerstva financií Slovenskej republiky z 27. februára 1996 č. 41/59/1996, ktorým sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách (oznámenie č. 66/1996 Z. z.) v znení výnosu Ministerstva financií Slovenskej republiky z 24. júna 1997 č. 28145/1996/41 (oznámenie č. 194/1997 Z. z.).
 
+- 18c) Napríklad zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 19) § 35 ods. 1 Občianskeho súdneho poriadku.
 
 - 20) § 663 a nasl. Občianskeho zákonníka.
 
 - 20a) Napríklad zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
+
+- 20aa) § 676 ods. 2 Občianskeho zákonníka.
 
 - 20b) Výmer Ministerstva financií Slovenskej republiky z 12. marca 1996 č. R-1/1996, ktorým sa určuje rozsah tovaru s regulovanými cenami (oznámenie č. 89/1996 Z. z.) v znení neskorších predpisov.
 
