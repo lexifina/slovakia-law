@@ -50,7 +50,7 @@
 
 - § 63a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
-- 21) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 21) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -59,6 +59,8 @@
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
+
+- 24a) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
@@ -115,6 +117,8 @@
 - 45) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 502/2001 Z. z., zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
 
 - 46) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+
+- 46a) Nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005).
 
 - 47) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
