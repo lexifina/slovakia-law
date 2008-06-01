@@ -16,6 +16,8 @@
 
 - § 4 ods. 1 zákona č. 200/1998 Z. z.
 
+- 4ca) Napríklad § 4 ods. 1 zákona č. 200/1998 Z. z.
+
 - 4d) § 6 ods. 2 písm. a) zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
 - 5) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 143 ods. 5 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z., zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení zákona č. 166/2003 Z. z., zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
