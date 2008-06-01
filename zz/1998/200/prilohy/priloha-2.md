@@ -2,7 +2,7 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 
 - PRÍPLATOK ZA RIADENIE
 
-  - 1. Colné riaditeľstvo SR
+  - 1. Colné riaditeľstvo
 
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
@@ -18,7 +18,7 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 
 - 1.05 Vedúci oddelenia | 7 % až 16 %
 
-- 1.06 Zástupca vedúceho oddelenia | 5 % až 14 %
+- 1.06 Zástupca vedúceho oddelenia Zástupca vedúceho samostatného oddelenia | 5 % až 14 %
 
 - 2. Colné úrady
 
@@ -42,4 +42,4 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
-- 3.01 Riaditeľ colného kriminálneho úradu 3.02 Námestník riaditeľa colného kriminálneho úradu 3.03 Vedúci pobočky colného kriminálneho úradu 3.04 Zástupca vedúceho pobočky colného kriminálneho úradu 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %
+- 3.01 Riaditeľ colného kriminálneho úradu 3.02 Námestník riaditeľa colného kriminálneho úradu 3.03 Vedúci pobočky colného kriminálneho úradu 3.04 Zástupca vedúceho pobočky colného kriminálneho úradu 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia Vedúci zmeny | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %

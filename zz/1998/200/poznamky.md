@@ -2,6 +2,8 @@
 
 - 1a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
+- 1aa) Napríklad § 9 ods. 2 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 3) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -42,23 +44,17 @@
 
 - 14a) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhrad za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
-- 14aa) § 3 ods. 1 písm. a) a § 12 až 18 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 36 a 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+- 14aa) § 36 a 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - § 6 ods. 2 a § 15 až 19 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - § 13 až 25 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 14ab) § 7 ods. 7, § 10 ods. 3 a 14 zákona č. 96/2002 Z. z.
-
-- § 16 ods. 2, § 20 ods. 2 a § 25 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 14ab) § 16 ods. 2 a § 20 ods. 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 93 ods. 3 a § 95 ods. 2 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 14ac) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
-
-- 14ad) Zákon č. 96/2002 Z. z. v znení neskorších predpisov.
 
 - 14b) § 143a Občianskeho zákonníka.
 
@@ -79,6 +75,8 @@
 - Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
 - 20) § 2 ods. 5 zákona č. 131/2002 Z. z. v znení zákona č. 528/2003 Z. z.
+
+- 21) § 10 ods. 8 písm. a) Trestného poriadku.
 
 - 21a) Napríklad § 40 zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja.
 

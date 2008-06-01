@@ -56,7 +56,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako šesť rokov.
 
-    - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov pre rozhodnutia v otázkach spadajúcich do rozsahu kompetencie CR SR, tvorba opatrení v príslušnom odbore colnej správy s celospoločenským dosahom, kontrolná a inšpekčná činnosť vrátane vydávania rozhodnutí v príslušnom odbore colnej správy, koncepčná a koordinačná činnosť v odbore štátnej služby colníctva s dôsledkami na územie regiónu.
+    - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov pre rozhodnutia v otázkach spadajúcich do rozsahu kompetencie colného riaditeľstva a colného kriminálneho úradu, tvorba opatrení v príslušnom odbore colnej správy s celospoločenským dosahom, kontrolná a inšpekčná činnosť vrátane vydávania rozhodnutí v príslušnom odbore colnej správy, koncepčná a koordinačná činnosť v odbore štátnej služby colníctva s dôsledkami na územie regiónu.
 
   - 8. PLATOVÁ TRIEDA
 
@@ -64,7 +64,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako deväť rokov.
 
-    - Koncepčné alebo metodické činnosti na úrovni CR, koordinácia úsekov štátnej služby a časti zložitých systémov na úrovni CR, kontrolná a inšpekčná činnosť s celospoločenským dosahom, normotvorná činnosť vo vymedzenej oblasti v príslušnom odbore na úrovni CR, koncepčná systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie kraja.
+    - Koncepčné alebo metodické činnosti na úrovni colného riaditeľstva, koordinácia úsekov štátnej služby a časti zložitých systémov na úrovni colného riaditeľstva, kontrolná a inšpekčná činnosť s celospoločenským dosahom, normotvorná činnosť vo vymedzenej oblasti v príslušnom odbore na úrovni colného riaditeľstva, koncepčná systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie kraja.
 
   - 9. PLATOVÁ TRIEDA
 
