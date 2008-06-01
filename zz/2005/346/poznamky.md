@@ -106,6 +106,10 @@
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
+- 33a) § 4, 9 a § 12 ods. 1 písm. d) a e) zákona č. 321/2002 Z. z.
+
+- 33b) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
+
 - 34) Napríklad zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 720/2004 Z. z., zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 720/2004 Z. z.
 
 - 35) Napríklad zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
@@ -125,6 +129,8 @@
 - 42) § 27 zákona č. 578/2004 Z. z.
 
 - 43) Nariadenie vlády Slovenskej republiky č. 743/2004 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
+
+- 43a) § 12 ods. 1 písm. a) zákona č. 321/2002 Z. z.
 
 - 44) § 12 ods. 1 písm. d) zákona č. 321/2002 Z. z.
 
