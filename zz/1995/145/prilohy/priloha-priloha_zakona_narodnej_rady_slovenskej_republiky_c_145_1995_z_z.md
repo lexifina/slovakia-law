@@ -244,9 +244,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 12
 
-  - a) Vydanie potvrdenia o registrácii periodickej tlače<sup>13</sup>) .................................... | 200 Sk
+  - a) Zápis do zoznamu periodickej tlače<sup>13</sup>) ............................................................................................ | 300 Sk
 
-  - b) Vykonanie zmeny názvu a zmeny vydavateľa periodickej tlače ................... | 100 Sk
+  - b) Zápis zmeny v zozname periodickej tlače<sup>13</sup>) pri zmene vydavateľa periodickej tlače alebo názvu periodickej tlače ................................................................................................................ | 200 Sk
 
     - Položka 12a
 

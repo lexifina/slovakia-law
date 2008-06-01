@@ -48,7 +48,7 @@
 
 - 12a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
-- 13) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+- 13) § 11 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
 
 - 13a) § 5, 7 a 9 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
