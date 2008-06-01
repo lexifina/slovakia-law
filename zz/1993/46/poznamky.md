@@ -14,6 +14,8 @@
 
 - 1d) Napríklad § 3 a 11 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
+- 1e) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 54/1992 Zb. o jednorazovom mimoriadnom odškodnení za ujmu na zdraví alebo smrť v súvislosti s pomocou poskytnutou Policajnému zboru Slovenskej republiky.
