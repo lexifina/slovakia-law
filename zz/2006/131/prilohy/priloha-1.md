@@ -1,4 +1,4 @@
-Príloha k vyhláške 131/2006 Z. z.
+Príloha č. 1 k vyhláške 131/2006 Z. z.
 
 - Celkové množstvo kvót oxidov síry vyjadrených ako oxid siričitý na roky 2007 a 2008 Okres | Emisné kvóty v t/rok |
 
