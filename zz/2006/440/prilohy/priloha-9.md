@@ -17,3 +17,7 @@ Príloha č. 9 k nariadeniu vlády č. 440/2006 Z. z.
   - 7. Smernica Komisie 82/475/EHS z 23. júna 1982, ktorou sa ustanovujú kategórie zložiek kŕmnych zmesí, ktoré možno používať na účely označovania kŕmnych zmesí pre spoločenské zvieratá (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 5) v znení smernice Komisie 91/334/EHS (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 11) a v znení smernice Komisie 98/67/ES (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 33).
 
   - 8. Smernica Komisie 86/174/EHS z 9. apríla 1986, ktorá stanovuje metódu výpočtu energetickej hodnoty kŕmnej zmesi pre hydinu (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 23).
+
+  - 9. Smernica Komisie 2008/4/ES z 9. januára 2008, ktorou sa mení a dopĺňa smernica 94/39/ES, pokiaľ ide o krmivá určené na zníženie rizika popôrodného uľahnutia (Ú. v. EÚ L 6, 10. 1. 2008).
+
+  - 10. Rozhodnutie Európskeho parlamentu a Rady č. 623/2007/ES z 23. mája 2007, ktorým sa mení a dopĺňa smernica 2002/2/ES, ktorou sa mení a dopĺňa smernica Rady 79/373/EHS o uvádzaní kŕmnych zmesí do obehu (Ú. v. EÚ L 154, 14. 6. 2007).

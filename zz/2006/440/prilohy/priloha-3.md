@@ -38,9 +38,13 @@ Príloha č. 3 k nariadeniu vlády č. 440/2006 Z. z.
 
 - Podpora funkcie kože, ak ide o dermatózy a veľké straty srsti | Vysoký obsah esenciálnych mastných kyselín | Psy, mačky | Obsah esenciálnych mastných kyselín | Až do dvoch mesiacov | Na obale musí byť uvedené: „Pred použitím sa odporúča konzultácia s veterinárnym lekárom.“
 
-- Zníženie rizika vzniku popôrodného uľahnutia | Nízky obsah vápnika a/alebo | Dojnice | Vápnik Fosfor Horčík | Jeden až štyri týždne pred otelením | Na obale musí byť uvedené: „Nesmie sa skrmovať po otelení.“
+- Zníženie rizika vzniku popôrodného uľahnutia | Nízky obsah vápnika alebo | Dojnice | Vápnik Fosfor Horčík | Jeden až štyri týždne pred otelením | V návode na použitie uveďte text: „Po otelení skrmovanie treba ukončiť.“.
 
-- | úzky pomer katiónov k aniónom | | Vápnik Fosfor Draslík Sodík Síra Chloridy, ako Cl<sup>-</sup> | |
+- | úzky pomer katiónov a aniónov alebo | | Vápnik Fosfor Sodík Draslík Chloridy Síra | Jeden až štyri týždne pred otelením | V návode na použitie uveďte text: „Po otelení skrmovanie treba ukončiť.“.
+
+- | vysoký obsah zeolitu (syntetického kremičitanu hlinitosodného) alebo | | Obsah syntetického kremičitanu hlinitosodného | Dva týždne pred otelením | V návode na použitie uveďte text: „Množstvo krmiva treba obmedziť tak, aby denný príjem kremičitanu hlinitosodného nepresiahol 500 g.“. „Po otelení skrmovanie treba ukončiť.“.
+
+- | vysoký obsah vápnika vo forme dobre využiteľných vápenatých solí | | Celkový obsah vápnika, zdroje vápnika a množstvo vápnika z jednotlivých zdrojov | Od prvých príznakov pôrodu až do dvoch dní po pôrode | Na obale, nádobe alebo štítku uveďte: 1. Návod na použitie, t. j. počet podaní, obdobie pred otelením a obdobie po otelení. 2. Text: „Pred použitím odporúčame konzultovať s odborníkom na výživu.“.
 
 - Zníženie rizika vzniku ketózy (acetoneamia)<sup>6</sup>) | Kŕmne suroviny, ktoré sú glukogénnym zdrojom energie | Dojnice, bahnice | Kŕmne suroviny, ktoré sú zdrojom glukogénnej energie 1,2 propandiol, ak bol pridaný ako prekurzor glukózy Glycerín, ak bol pridaný ako prekurzor glukózy | Tri až šesť týždňov po otelení, posledných šesť týždňov pred obahnením a prvé tri týždne po obahnení |
 
