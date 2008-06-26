@@ -1,0 +1,1 @@
+- *) Spoločne prijaté na zvolanej diplomatickej konferencii Ústrednej komisie pre plavbu na Rýne, Dunajskej komisie a Európskej hospodárskej komisie Organizácie Spojených národov, ktorá sa konala od 25. septembra 2000 do 3. októbra 2000 v Budapešti.
