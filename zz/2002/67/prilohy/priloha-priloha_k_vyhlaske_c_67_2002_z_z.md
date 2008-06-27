@@ -1137,3 +1137,27 @@ LIa. Ftaláty alebo iné čísla CAS a EC týkajúce sa tejto látky:
 Nesmú sa použiť ako látky alebo zložky prípravkov v hračkách a vo výrobkoch určených na starostlivosť o dieťa, ktoré si deti môžu vkladať do úst, v koncetrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu.
 
 Hračky a výrobky určené na starostlivosť o dieťa obsahujúce tieto ftaláty v koncentrácii vyššej ako 0,1 hmotnostného % mäkčeného materiálu sa nesmú uvádzať na trh.
+
+LII. Perfluóroktánsulfonáty | C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X
+
+(ďalej len „PFOS") | [X = OH, soľkovov (O-M+), halogenid, amid a iné deriváty vrátane polymérov]
+
+1. Nesmú sa uvádzať na trh alebo používať ako látka alebo zložka prípravkov v koncentrácii 0,005 hmotnostných % alebo vyššej, ak nie je ďalej uvedené inak.
+
+2. Nesmú sa uvádzať na trh v polotovaroch alebo vo výrobkoch, alebo v ich častiach, ak je koncentrácia PFOS 0,1 hmotnostných % alebo vyššia ako vypočítaná z hmotnosti štruktúrne alebo mikroštruktúrne samostatných častí, ktoré obsahujú PFOS, alebo v prípade textílií alebo iných materiálov s povrchovou vrstvou, ak je množstvo PFOS 1 µg/m<sup>2</sup> pokrytého materiálu alebo vyššie.
+
+3. Body 1 a 2 sa neuplatňujú na
+
+a) fotorezistenty alebo antireflexné nátery pre fotolitografické procesy,
+
+b) fotografické nátery, ktoré sa používajú na filmy, papiere alebo tlačiarenské platne,
+
+c) prísady proti zahmlievaniu pre nedekoratívne hrubé pochrómovanie šesťmocným chrómom a zvlhčovače používané v kontrolovaných systémoch elektrického pokovovania, v ktorých sa množstvo PFOS uvoľňovaných do životného prostredia minimalizuje úplným uplatňovaním príslušných najlepších dostupných technológií vypracovaných podľa osobitného predpisu,<sup>1</sup>)
+
+d) hydraulické kvapaliny pre letectvo,
+
+ani na látky a prípravky potrebné na ich výrobu.
+
+4. Hasiace peny, ktoré boli uvedené na trh pred 27. júnom 2008, sa môžu používať do 27. júna 2011.
+
+5. Bodmi 1 a 2 nie je dotknutý osobitný predpis.<sup>2</sup>)
