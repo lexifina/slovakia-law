@@ -10,7 +10,7 @@
 
 - 4b) § 43c ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
-- 4c) § 14 zákona Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
+- 4c) § 13 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov.
 
 - 4d) § 114 až 118 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
@@ -22,7 +22,7 @@
 
 - 5a) § 146 ods. 2 a § 705a Občianskeho zákonníka v znení zákona č. 526/2002 Z. z.
 
-- 6) § 2 zákona Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
+- 6) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7) § 46 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
 
@@ -32,9 +32,13 @@
 
 - 9) § 754 až 759 Občianskeho zákonníka.
 
+- 9a) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
 - 10) Napríklad Trestný poriadok, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona Národnej rady Slovenskej republiky č. 72/1995 Z. z., zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 11) § 11 ods. 1 písm. b) a ods. 3 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z.
+
+- § 11 ods. 1 písm. b) a ods. 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z.
 
 - 11a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
