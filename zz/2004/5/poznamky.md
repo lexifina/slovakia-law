@@ -82,6 +82,8 @@
 
 - 24aa) § 38 ods. 1 písm. b) prvý bod zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
+- 24b) § 22 ods. 2 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+
 - 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
 - 27) § 2 písm. e) zákona č. 480/2002 Z. z.
