@@ -1,3 +1,3 @@
 Príloha č. 1 k nariadeniu vlády č. 329/2006 Z. z.
 
-- Definície pojmov [Příloha 01](../assets/41afbe4aeb1e26a6a2868337a001420de85e50d1220f44c2ab72c8dd98da9c0a.pdf)
+- Definície pojmov [Příloha 01](../assets/0f81923c61f28277381ec17e3f61d4b4e5cfe61e3fac22e4a73c34d6b6fda7da.pdf)
