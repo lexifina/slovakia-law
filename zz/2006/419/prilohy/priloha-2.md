@@ -160,6 +160,10 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Vypĺňa sa.
 
+    - Odsek 38 tlačiva Vlastná hmotnosť
+
+      - Uvádza sa hmotnosť tovaru v celých kilogramoch, ak je vyššia ako jeden kilogram. Ak je hmotnosť tovaru nižšia ako jeden kilogram, uvádza sa s presnosťou na tri desatinné miesta. Pri zaokrúhľovaní hmotnosti tovaru presahujúcej celý kilogram sa desatinné čísla od 0,001 do 0,499 zaokrúhľujú smerom nadol a desatinné čísla od 0,5 do 0,999 sa zaokrúhľujú smerom nahor.
+
     - Odsek 40 tlačiva Súhrnná deklarácia/predchádzajúci doklad
 
       - Uvádza sa odkaz na doklad, ktorým sa preukazuje colný status tovaru, postavenie v colnom režime alebo odkaz na obchodný doklad (predchádzajúce colné vyhlásenie, predbežné colné vyhlásenie, zápis do účtovnej evidencie a iné). Uvádzajú sa kódy dokladov uvedené v osobitnom predpise.<sup>2</sup>) Ak je potrebné uviesť viacero dokladov, uvádza sa poznámka „Rôzne“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam dokladov.
@@ -214,7 +218,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 49 tlačiva Označenie skladu
 
-      - Vypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.
+      - Vypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a pri colne schválenom určení alebo použití spätný vývoz alebo pri colných režimoch, ktoré nasledujú po umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade alebo po colnom režime colné uskladňovanie. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.
 
   - B. COLNÉ FORMALITY PRI DOVOZE
 
@@ -248,7 +252,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 8 tlačiva Príjemca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Príjemcom je osoba so sídlom alebo trvalým pobytom na colnom území Spoločenstva, ktorá je zmluvnou stranou obchodnej zmluvy pri dovoze tovaru. Ak zmluvná strana nie je známa v čase podania colného vyhlásenia alebo príjemcom je osoba so sídlom alebo trvalým pobytom mimo colného územia Spoločenstva, uvádza sa adresa určenia na colnom území Spoločenstva. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
 
     - Odsek 12 tlačiva Údaje o hodnote
 
@@ -256,7 +260,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 14 tlačiva Deklarant/zástupca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo. Ak platiteľ dane z pridanej hodnoty pri dovoze tovaru nie je zhodný s osobou deklaranta alebo príjemcu, uvádza sa pod identifikačné číslo deklaranta identifikačné číslo platiteľa dane z pridanej hodnoty.
 
       - Ak dovozcu pri uplatnení oslobodenia od dane zastupuje daňový zástupca,<sup>8</sup>) uvádza sa pod identifikačné číslo deklaranta osobitné identifikačné číslo daňového zástupcu.
 
@@ -347,6 +351,10 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
     - Odsek 37 tlačiva Režim
 
       - V pravej časti odseku sa uvádzajú kódy na bližšie špecifikovanie navrhovaného colného režimu. Na uplatnenie požiadavky na oslobodenie dovážaného tovaru od dovozného cla a dane z pridanej hodnoty sa uvádzajú kódy podľa osobitného predpisu<sup>2</sup>) a kódy uvedené v prílohe č. 3.
+
+    - Odsek 38 tlačiva Vlastná hmotnosť
+
+      - Uvádza sa hmotnosť tovaru v celých kilogramoch, ak je vyššia ako jeden kilogram. Ak je hmotnosť tovaru nižšia ako jeden kilogram, uvádza sa s presnosťou na tri desatinné miesta. Pri zaokrúhľovaní hmotnosti tovaru presahujúcej celý kilogram sa desatinné čísla od 0,001 do 0,499 zaokrúhľujú smerom nadol a desatinné čísla od 0,5 do 0,999 sa zaokrúhľujú smerom nahor.
 
     - Odsek 39 tlačiva Kontingent
 
@@ -474,4 +482,4 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 49 tlačiva Označenie skladu
 
-      - Vypĺňa sa pri colnom režime colné uskladňovanie. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.
+      - Vypĺňa sa pri colnom režime colné uskladňovanie a pri colných režimoch, ktoré nasledujú po colnom režime colné uskladňovanie. Uvádza sa číslo povolenia na prevádzkovanie colného skladu.

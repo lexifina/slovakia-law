@@ -6,11 +6,11 @@ Príloha č. 6 k vyhláške č. 419/2006 Z. z.
 
 - Banská Bystrica | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko
 
-- Bratislava | Kopčianska Žabí majer, nácestné stredisko Letisko, ak ide o textilný tovar a obuv prepravené letecky | Prístav
+- Bratislava | Kopčianska Letisko, ak ide o textilný tovar a obuv prepravené letecky | Prístav
 
 - Michalovce | Michalovce Dobrá, terminál kombinovanej dopravy | Michalovce
 
-- Košice | Haniska pri Košiciach, nácestné stredisko Košice-Šaca Rožňava Košice, letisko Košice-mesto Spišská Nová Ves | Košice-Šaca
+- Košice | Haniska pri Košiciach, nácestné stredisko Rožňava Košice, letisko Košice-mesto Spišská Nová Ves | Haniska pri Košiciach, nácestné stredisko
 
 - Nitra | Nitra Topoľčany Komárno Nové Zámky, nácestné stredisko | Nitra Komárno Nové Zámky, nácestné stredisko
 

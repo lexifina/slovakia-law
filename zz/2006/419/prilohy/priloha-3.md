@@ -210,6 +210,10 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - U307 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. g) zákona č. 98/2004 Z. z. v znení zákona č. 223/2006 Z. z.,
 
+      - U308 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. h) zákona č. 98/2004 Z. z. v znení zákona č. 609/2007 Z. z.,
+
+      - U309 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. i) zákona č. 98/2004 Z. z. v znení zákona č. 609/2007 Z. z.,
+
       - U401 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. a) zákona č. 98/2004 Z. z.,
 
       - U402 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. b) zákona č.98/2004 Z. z.,
@@ -224,9 +228,9 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - U407 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. i) zákona č. 98/2004 Z. z. v znení zákona č. 223/2006 Z. z.,
 
-      - U408 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 2 písm. j) zákona č. 98/2004 Z. z. v znení zákona č. 223/2006 Z. z.,
-
       - U409 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 4 zákona č. 98/2004 Z. z. v znení zákona č. 672/2006 Z. z.
+
+      - U410 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 3 zákona č. 98/2004 Z. z. v znení zákona č. 609/2007 Z. z.,
 
     - b) kódy používané pri spotrebnej dani z vína:
 
@@ -368,7 +372,37 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - R450 – ak ide o pivo oslobodené od spotrebnej dane podľa § 8 ods. 2 písm. h) zákona č. 107/2004 Z. z.,
 
-    - f) ostatné kódy:
+    - f) kódy používané pri spotrebnej dani z uhlia:
+
+      - Q010 – ak ide o uhlie uvedené v § 16 zákona č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, dovážané právnickou osobou alebo fyzickou osobou inou ako koncovým odberateľom uhlia v domácnosti, výrobcom uhlia alebo obchodníkom s uhlím, na ktorej účet bolo predložené colné vyhlásenie na prepustenie uhlia do colného režimu voľný obeh, ak na colný režim voľný obeh nenadväzuje oslobodenie od spotrebnej dane, a na ktoré je ustanovená sadzba spotrebnej dane v § 18 zákona č. 609/2007 Z. z.,
+
+      - Q020 – ak ide o uhlie uvedené v § 16 zákona č. 609/2007 Z. z., dovážané koncovým odberateľom uhlia v domácnosti, ktorý nie je daňovým dlžníkom podľa § 22 zákona č. 609/2007 Z. z.,
+
+      - Q030 – ak ide o uhlie uvedené v § 16 zákona č. 609/2007 Z. z., dovážané výrobcom uhlia, na ktorého účet bolo predložené colné vyhlásenie na prepustenie uhlia do colného režimu voľný obeh, ak na colný režim voľný obeh nenadväzuje oslobodenie od spotrebnej dane,
+
+      - Q040 – ak ide o uhlie uvedené v § 16 zákona č. 609/2007 Z. z., dovážané obchodníkom s uhlím, na ktorého účet bolo predložené colné vyhlásenie na prepustenie uhlia do colného režimu voľný obeh, ak na colný režim voľný obeh nenadväzuje oslobodenie od spotrebnej dane,
+
+      - Q301 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. a) zákona č. 609/2007 Z. z.,
+
+      - Q302 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. b) zákona č. 609/2007 Z. z.,
+
+      - Q303 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. c) zákona č. 609/2007 Z. z.,
+
+      - Q304 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. d) zákona č. 609/2007 Z. z.,
+
+      - Q305 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. e) zákona č. 609/2007 Z. z.,
+
+      - Q306 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. f) zákona č. 609/2007 Z. z.,
+
+      - Q307 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. g) zákona č. 609/2007 Z. z.,
+
+      - Q308 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. h) zákona č. 609/2007 Z. z.,
+
+      - Q309 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. i) zákona č. 609/2007 Z. z.,
+
+      - Q310 – ak ide o uhlie oslobodené od spotrebnej dane podľa § 19 písm. j) zákona č. 609/2007 Z. z.,
+
+    - g) ostatné kódy:
 
       - XPNS – ak ide o tovar, na ktorý si deklarant uplatňuje požiadavku na zatriedenie do podpoložky kombinovanej nomenklatúry s najvyššou sadzbou cla podľa osobitného predpisu.<sup>16</sup>)
 
