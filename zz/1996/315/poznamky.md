@@ -118,8 +118,6 @@
 
 - 41a) § 23 ods. 8, 9 a 11 písm. a) zákona č. 725/2004 Z. z.
 
-- 42) § 52 písm. b) zákona Slovenskej národnej rady č. 372/1990 Zb.
-
 - 43) Zákon č. 71/1967 Zb.
 
 - 44) § 6 zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
