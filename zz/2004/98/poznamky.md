@@ -4,6 +4,8 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
+- 2a) Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+
 - 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
 
 - 4) STN 65 6082 Stanovenie obsahu farebných látok a indikačnej látky v plynovom oleji.
@@ -14,6 +16,8 @@
 
 - 4c) Napríklad § 3 zákona č. 315/2001 Z. z. v znení zákona č. 438/2002 Z. z.
 
+- 4d) Nariadenie Rady (EHS) 3037/90 z 9. októbra 1990 o štatistickej klasifikácii ekonomických činností v Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4, Ú. v. ES L 293, 24. 10. 1990) v platnom znení.
+
 - 5) Napríklad Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov (oznámenie č. 324/1997 Z. z.).
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008, 11/01/1996, s. 11–15).
@@ -21,8 +25,6 @@
 - 6a) § 50 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
-
-- 7a) § 2 písm. c) bod 16 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
