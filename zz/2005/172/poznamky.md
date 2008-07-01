@@ -16,6 +16,10 @@
 
 - 9) § 2 ods. 2 Obchodného zákonníka.
 
+- 9a) § 56 ods. 1 Obchodného zákonníka.
+
+- 9b) § 39a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 10) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
 - 11) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
@@ -48,13 +52,17 @@
 
 - 24) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
 
-- 25) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 718/2004 Z. z.
+- 24a) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 25) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 27) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 28) § 226 Zákonníka práce.
+- 27a) § 2 písm. a) zákona č. 523/2004 Z. z.
+
+- 28) § 226 a 228a Zákonníka práce.
 
 - 29) § 23 ods. 1 zákona č. 231/1999 Z. z. v znení neskorších predpisov.
 
@@ -68,7 +76,21 @@
 
 - 34) Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
 
+- 34a) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
+
+- 34b) § 2 písm. k) a § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
 - 35) Napríklad zákon č. 203/2001 Z. z. o Agentúre na podporu vedy a techniky v znení zákona č. 132/2002 Z. z., zákon č. 132/2002 Z. z. o vede a technike v znení zákona č. 528/2003 Z. z.
+
+- 35a) Zákon č. 435/2001 Z. z. v znení neskorších predpisov.
+
+- 35b) § 84 zákona č. 131/2002 Z. z. v znení neskorších predpisov. Zákon č. 133/2002 Z. z.
+
+- 35c) § 60 ods. 4 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 35d) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
+- 35e) § 22 ods. 2 zákona č. 48/2002 Z. z. v znení zákona č. 693/2006 Z. z.
 
 - 36) § 136 ods. 1 Zákonníka práce.
 
