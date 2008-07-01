@@ -22,6 +22,8 @@
 
 - 10) § 151n až 151p Občianskeho zákonníka.
 
+- 10a) § 8 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 11) § 34 a 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 11a) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 664/2007 Z. z.
