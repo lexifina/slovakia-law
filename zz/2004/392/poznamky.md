@@ -1,1 +1,0 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 249/2003 Z. z., ktorým sa ustanovujú citlivé oblasti a zraniteľné oblasti.
