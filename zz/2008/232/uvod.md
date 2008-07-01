@@ -1,0 +1,9 @@
+## 232
+
+ZÁKON
+
+z 21. mája 2008,
+
+## ktorým sa mení a dopĺňa zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a o zmene a doplnení niektorých zákonov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
