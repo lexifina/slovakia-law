@@ -64,7 +64,7 @@
 
     - Pravidlo 4 Žiadosť (obsah)
 
-      - 4.1 Povinný a fakultatívny obsah. Podpis.
+      - 4.1 Povinný a fakultatívny obsah; podpis
 
         - (a) Žiadosť musí obsahovať
 
@@ -76,17 +76,17 @@
 
           - (iv) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo aspoň jedného z určených štátov požaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky.
 
-        - (b) Žiadosť prípadne obsahuje
+        - (b) Žiadosť prípadne obsahuje:
 
           - (i) uplatnenie priority;
 
-          - (ii) odkaz na prvšiu medzinárodnú rešerš alebo na prvšiu rešerš medzinárodného typu alebo na inú rešerš;
+          - (ii) údaje týkajúce sa skoršej rešerše podľa pravidla 4.12(i) a 12bis.1(c) a (f),
 
           - (iii) odkaz na základnú prihlášku alebo základný patent
 
           - (iv) údaj o prihlasovateľovej voľbe príslušného orgánu pre medzinárodnú rešerš.
 
-        - (c) Žiadosť môže obsahovať
+        - (c) Žiadosť môže obsahovať:
 
           - (i) údaje týkajúce sa vynálezcu, ak národné zákonodarstvo žiadneho z určených štátov nepožaduje, aby sa meno vynálezcu uviedlo pri podaní národnej prihlášky;
 
@@ -96,7 +96,9 @@
 
           - (iv) vyhlásenie podľa pravidla 4.18,
 
-          - (v) žiadosť o obnovenie práva na prioritu
+          - (v) žiadosť o obnovenie práva na prioritu,
+
+          - (vi) vyhlásenie podľa pravidla 4.12(ii).
 
         - (d) Žiadosť musí byť podpísaná.
 
@@ -190,21 +192,25 @@
 
         - (d) Ak 29. septembra 1999 nie sú zmenené odseky (a) a (b), ktoré nadobudnú platnosť od 1. januára 2000, v súlade s platnou národnou legislatívou určeného úradu budú sa tieto odseky uplatňovať aj po tomto dátume ďalej tak, ako sú v platnosti do 31. decembra 1999, vzhľadom na určený úrad tak dlho, pokiaľ uvedené odseky, tak ako sú zmenené, nebudú v súlade s platnou národnou legislatívou, za predpokladu, že uvedený úrad o tom upovedomí Medzinárodný úrad do 31. októbra 1999. Medzinárodný úrad urýchlene zverejní prijaté informácie vo Vestníku.
 
-      - 4.11 Odkaz na skoršiu rešerš, pokračovanie, alebo čiastkové pokračovanie alebo základnú prihlášku, alebo udelenie
+      - 4.11 Odkaz na pokračovanie alebo čiastkové pokračovanie, alebo základnú prihlášku, alebo udelenie
 
         - (a) Ak
 
-          - (i) sa vyžiadala medzinárodná rešerš alebo typ medzinárodnej rešerše na prihlášku podľa článku 15(5);
+          - (i) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(a) alebo (b), že si praje, aby medzinárodná prihláška bola spracovaná v každom určenom štáte ako prihláška dodatkového patentu, dodatkového osvedčenia, dodatkového autorského osvedčenia na vynález alebo dodatkového osvedčenia na úžitkový vzor, alebo
 
-          - (ii) si prihlasovateľ praje, aby orgán pre medzinárodnú rešerš založil celú medzinárodnú rešeršnú správu úplne alebo čiastočne na výsledkoch rešerše inej než medzinárodnej alebo na rešerši medzinárodného typu vykonanej národným úradom alebo medzivládnou organizáciou, ktorá je kompetentným medzinárodným rešeršným orgánom pre medzinárodnú prihlášku;
+          - (ii) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(d), že si želá, aby medzinárodná prihláška bola spracovaná v každom určenom štáte ako prihláška, ktorá je pokračovaním alebo čiastkovým pokračovaním skoršej prihlášky,
 
-          - (iii) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(a) alebo (b), že si praje, aby medzinárodná prihláška bola spracovaná v každom určenom štáte ako prihláška dodatkového patentu, dodatkového osvedčenia, dodatkového autorského osvedčenia na vynález alebo dodatkového osvedčenia na úžitkový vzor, alebo
+        - musí to uviesť v žiadosti a identifikovať relevantnú základnú prihlášku alebo základný patent alebo iné základné udelenie.
 
-          - (iv) prihlasovateľ zamýšľa označiť podľa pravidla 49bis.1(c), že si želá, aby medzinárodná prihláška bola spracovaná v ktoromkoľvek určenom štáte ako prihláška, ktorá je „pokračovaním“ alebo „čiastkovým pokračovaním“ skoršej prihlášky;
+        - (b) Zahrnutie označenia do žiadosti podľa odseku (a) nemá vplyv na použitie pravidla 4.9.
 
-        - musí to uviesť v žiadosti, prípadne identifikovať prihlášku, na ktorú bola skoršia rešerš vykonaná, alebo inak identifikovať rešerš, alebo označiť relevantnú hlavnú prihlášku, alebo hlavný patent, alebo iný udelený patent.
+      - 4.12 Vzatie výsledkov skoršej rešerše do úvahy
 
-        - (b) Zahrnutie označenia do žiadosti podľa odseku (a)(iii) alebo (iv) nemá vplyv na použitie pravidla 4.9.
+      - Ak si prihlasovateľ želá, aby orgán pre medzinárodnú rešerš pri vykonávaní medzinárodnej rešerše vzal do úvahy výsledky skoršej medzinárodnej rešerše, typ medzinárodnej rešerše alebo národnej rešerše vykonanej tým istým alebo iným orgánom pre medzinárodnú rešerš alebo národným úradom („skoršia rešerš“),
+
+        - (i) musí to v žiadosti uviesť a špecifikovať príslušný orgán alebo úrad a prihlášku, na ktorú sa skoršia rešerš vykonala,
+
+        - (ii) žiadosť môže obsahovať vyhlásenie, ak sa vyžaduje na tento účel, že ide o tú istú prihlášku alebo v podstate o tú istú prihlášku, na ktorú bola vykonaná skoršia rešerš, alebo že medzinárodná prihláška je tá istá alebo v podstate tá istá ako skoršia prihláška s výnimkou, že bola podaná v inom jazyku.
 
       - 4.14 bis Voľba orgánu pre medzinárodnú rešerš
 
@@ -610,6 +616,30 @@
 
         - (e) Za predloženie prekladu po uplynutí lehoty podľa odseku (a) môže prijímací úrad požadovať vo svoj prospech zaplatenie poplatku za oneskorené predloženie prekladu vo výške 25 % poplatku za medzinárodné podanie, ktorý je uvedený v sadzobníku poplatkov v bode 1, neberúc do úvahy poplatok za každú stranu medzinárodnej prihlášky nad 30 strán.
 
+    - Pravidlo 12bis Kópia výsledkov skoršej rešerše a skoršej prihlášky, preklad
+
+      - 12bis.1 Kópia výsledkov skoršej rešerše a skoršej prihlášky; preklad
+
+        - (a) Ak prihlasovateľ požiadal podľa pravidla 4.12 orgán pre medzinárodnú rešerš, aby vzal do úvahy výsledky skoršej rešerše vykonanej ním samým alebo iným orgánom pre medzinárodnú rešerš alebo národným úradom, prihlasovateľ musí s výnimkou odsekov (c) až (f) predložiť prijímaciemu úradu spolu s medzinárodnou prihláškou kópiu výsledkov skoršej rešerše v akejkoľvek forme (napríklad vo forme rešeršnej správy, zoznamu citovaného známeho stavu techniky alebo správy o prieskume), ktoré vykonal príslušný orgán alebo úrad.
+
+        - (b) Orgán pre medzinárodnú rešerš môže s výnimkou odsekov (c) až (f) vyzvať prihlasovateľa, aby mu v lehote primeranej okolnostiam predložil:
+
+          - (i) kópiu príslušnej skoršej prihlášky,
+
+          - (ii) ak je skoršia prihláška v jazyku, ktorý orgán pre medzinárodnú rešerš neakceptuje, preklad skoršej prihlášky do jazyka, ktorý tento orgán akceptuje,
+
+          - (iii) ak výsledky skoršej rešerše sú v jazyku, ktorý orgán pre medzinárodnú rešerš neakceptuje, preklad týchto výsledkov do jazyka, ktorý tento orgán akceptuje,
+
+          - (iv) kópiu každého dokumentu citovaného vo výsledkoch skoršej rešerše.
+
+        - (c) Ak skoršiu rešerš vykonal ten istý úrad, ktorý koná ako prijímací úrad, prihlasovateľ môže miesto predloženia kópií uvedených v odsekoch (a) až (b)(i) a (iv) uviesť, že si želá, aby ich prijímací úrad pripravil a zaslal orgánu pre medzinárodnú rešerš. Takáto požiadavka sa musí urobiť v žiadosti a môže byť spoplatnená v prospech prijímacieho úradu.
+
+        - (d) Ak skoršiu rešerš vykonal orgán pre medzinárodnú rešerš alebo ten istý úrad, ktorý koná ako orgán pre medzinárodnú rešerš, nevyžaduje sa, aby sa kópie alebo preklad podľa odsekov (a) a (b) predložili v zmysle uvedených odsekov.
+
+        - (e) Ak žiadosť obsahuje vyhlásenie podľa pravidla 4.12(ii), že medzinárodná prihláška je tá istá alebo v podstate tá istá ako skoršia prihláška, na ktorú bola vykonaná skoršia rešerš, alebo že medzinárodná prihláška je tá istá alebo v podstate tá istá ako skoršia prihláška s výnimkou, že bola podaná v inom jazyku, nevyžaduje sa, aby sa kópia alebo preklad podľa odsekov (b)(i) a (ii) predložili v zmysle uvedených odsekov.
+
+        - (f) Ak je kópia alebo preklad podľa odsekov (a) a (b) k dispozícii orgánu pre medzinárodnú rešerš vo forme a spôsobom pre neho prijateľným, napríklad prostredníctvom digitálnej knižnice alebo vo forme prioritného dokladu a prihlasovateľ to uvedie v žiadosti, nevyžaduje sa predloženie kópie alebo prekladu podľa týchto odsekov.
+
     - PRAVIDLO 13 JEDNOTNOSŤ VYNÁLEZU
 
       - 13.1 Požiadavka
@@ -792,7 +822,7 @@
 
       - 16.3 Čiastočné vrátenie poplatku
 
-        - Ak sa v medzinárodnej prihláške uplatňuje priorita z prvšej medzinárodnej prihlášky, ktorá bola predmetom medzinárodnej rešerše na rovnakom orgáne pre medzinárodnú rešerš, vráti tento orgán rešeršový poplatok zaplatený v súvislosti s neskoršou medzinárodnou prihláškou v rozsahu a za podmienok uvedených v dohode podľa článku 16 (3) (b), pokiaľ možno medzinárodnú rešeršovú správu pre neskoršiu prihlášku úplne alebo sčasti oprieť o výsledky medzinárodnej rešerše vykonanej pre prvšiu medzinárodnú prihlášku.
+        - Ak orgán pre medzinárodnú rešerš vzal podľa pravidla 41.1 do úvahy výsledky skoršej rešerše pri vykonávaní medzinárodnej rešerše, tento orgán musí vo vzťahu k medzinárodnej prihláške vrátiť zaplatený rešeršný poplatok v takom rozsahu a za podmienok uvedených v dohode podľa článku 16(3)(b).
 
     - Pravidlo 16bis Predĺženie lehoty na zaplatenie poplatkov
 
@@ -1224,7 +1254,7 @@
 
         - (c) Ak sa uplatnenie priority vzhľadom ku skoršej prihláške neuplatňuje v medzinárodnej prihláške, prihlasovateľ musí predložiť v príslušnej lehote podľa odseku (e) oznámenie podľa pravidla 26bis.1(a) doplňujúce uplatnenie priority.
 
-        - (d) Predloženie žiadosti podľa odseku (a) môže prijímací úrad spoplatniť vo svoj prospech. Poplatok za žiadosť o obnovenie práva na prioritu je splatný v lehote podľa odseku (e). Výšku príslušného poplatku určí prijímací úrad.
+        - (d) Predloženie žiadosti podľa odseku (a) môže prijímací úrad podriadiť vo svoj prospech poplatku za žiadosť o obnovenie, ktorý je splatný v lehote podľa odseku (e). Výšku poplatku, ak nejaký je, musí stanoviť prijímací úrad. Lehota na zaplatenie poplatku sa môže predĺžiť podľa vôle prijímacieho úradu najviac o dva mesiace od uplynutia lehoty podľa odseku (e).
 
         - (e) Lehota uvedená v odsekoch (b)(i), (c) a (d) bude dva mesiace od dátumu uplynutia obdobia priority za predpokladu, že ak prihlasovateľ požiada o skoršie zverejnenie podľa článku 21(2)(b), každá žiadosť podľa odseku (a) alebo každé predložené oznámenie uvedené v odseku (c), alebo poplatok uvedený v odseku (d) zaplatený po ukončení technických príprav na zverejnenie sa bude považovať za nepredložené alebo poplatok za nezaplatený včas.
 
@@ -1276,7 +1306,7 @@
 
       - 29.1 Zistenie prijímacieho úradu
 
-        - Ak prijímací úrad vydá uznesenie podľa článku 14(1)(b) a pravidla 26.5 (opomenutie opravy určitých nedostatkov) alebo podľa článku 14(3)(a) [nezaplatenie predpísaných poplatkov podľa pravidla 27.1(a)], alebo podľa článku 14(4) [neskoršie zistenie, že neboli splnené požiadavky uvedené v bodoch (i) až (iii) článku 11(1)], alebo pravidla 12.3(d), alebo 12.4(d) (opomenutie predloženia prekladu alebo prípadne poplatku za neskorú platbu), alebo podľa pravidla 92.4(g)(i) (opomenutie predloženia originálu dokladu), že medzinárodná prihláška sa považuje za späťvzatú.
+      - Ak prijímací úrad vydá uznesenie, podľa článku 14(1)(b) a pravidla 26.5 (opomenutie opravy určitých nedostatkov) alebo podľa článku 14(3)(a) [nezaplatenie poplatkov podľa pravidla 27.1(a)], alebo podľa článku 14(4) [neskoršie zistenie, že neboli splnené požiadavky podľa bodov (i) až (iii) článku 11(1)], alebo podľa pravidla 12.3(d) alebo 12.4(d) (nepredloženie požadovaného prekladu alebo prípadne nezaplatenie poplatku za neskoré predloženie), alebo podľa pravidla 92.4(g)(i) (nepredloženie originálu dokumentu), taká medzinárodná prihláška sa považuje za späťvzatú:
 
         - (i) odovzdá archívne vyhotovenia (pokiaľ sa už neodovzdalo) a každú opravu navrhnutú prihlasovateľom Medzinárodnému úradu;
 
@@ -1284,7 +1314,9 @@
 
         - (iii) neodovzdá rešeršové vyhotovenie podľa pravidla 23, a ak toto vyhotovenie už odovzdal, oznámi orgánu pre medzinárodnú rešerš svoje uznesenie;
 
-        - (iv) Medzinárodný úrad nemusí oznámiť prihlasovateľovi, že došlo archívne vyhotovenie.
+        - (iv) nebude sa od medzinárodného úradu vyžadovať, aby zaslal prihlasovateľovi oznámenie o prijatí archívnej kópie,
+
+        - (v) medzinárodné zverejnenie medzinárodnej prihlášky sa neuskutoční, ak medzinárodný úrad prijal oznámenie o uvedenom vyhlásení zaslané prijímacím úradom pred ukončením technických príprav na medzinárodné zverejnenie.
 
       - 29.2 zrušené
 
@@ -1506,11 +1538,15 @@
 
         - (e) Preskúmanie sťažnosti uvedenej v odseku (c) môže vykonať orgán pre medzinárodnú rešerš za poplatok za sťažnosť, ktorý prihlasovateľ zaplatí v jeho prospech. Ak prihlasovateľ v lehote podľa pravidla 40.1(iii) nezaplatil požadovaný poplatok za sťažnosť, bude sa sťažnosť považovať za nepodanú, ak orgán pre medzinárodnú rešerš tak rozhodne. Poplatok za sťažnosť sa vráti prihlasovateľovi, ak kontrolný orgán uvedený v odseku (c) zistí, že sťažnosť bola celkom oprávnená.
 
-    - PRAVIDLO 41 PREDCHÁDZAJÚCA NEMEDZINÁRODNÁ REŠERŠ
+    - Pravidlo 41 Vzatie výsledkov skoršej rešerše do úvahy
 
-      - 41.1 Povinnosť využiť výsledky; vrátenie poplatku
+      - 41.1 Vzatie výsledkov skoršej rešerše do úvahy
 
-      - Ak je v žiadosti odkaz vo forme ustanovenej pravidlom 4.11 na rešerš medzinárodného typu vykonanú podľa článku 15 (5) alebo na rešerš, ktorá nie je ani medzinárodná ani medzinárodného typu, použije orgán pre medzinárodnú rešerš pokiaľ možno výsledok spomenutej rešerše pri spracovaní medzinárodnej rešeršovej správy k medzinárodnej prihláške. Orgán pre medzinárodnú rešerš vráti rešeršový poplatok v rozsahu a za podmienok ustanovených buď v dohode podľa článku 16 (3) (b), alebo v oznámení zaslanom Medzinárodnému úradu a zverejnenom vo Vestníku, a to v prípade, že medzinárodnú rešeršovú správu bolo možné úplne alebo sčasti založiť na výsledkoch spomenutej rešerše.
+      - Ak prihlasovateľ požiadal podľa pravidla 4.12 orgán pre medzinárodnú rešerš, aby vzal do úvahy výsledky skoršej rešerše a vyhovel pravidlu 12bis.1, a:
+
+        - (i) skoršia rešerš bola vykonaná tým istým orgánom pre medzinárodnú rešerš alebo tým istým úradom, ktorý koná ako orgán pre medzinárodnú rešerš, orgán pre medzinárodnú rešerš musí, pokiaľ je to možné, vziať do úvahy tieto výsledky pri vykonávaní medzinárodnej rešerše,
+
+        - (ii) skoršia rešerš, ktorá bola vykonaná iným orgánom pre medzinárodnú rešerš alebo iným úradom než takým, ktorý koná ako orgán pre medzinárodnú rešerš, orgán pre medzinárodnú rešerš môže vziať tieto výsledky do úvahy pri vykonávaní medzinárodnej rešerše.
 
     - PRAVIDLO 42 LEHOTA PRE MEDZINÁRODNÚ REŠERŠ
 
