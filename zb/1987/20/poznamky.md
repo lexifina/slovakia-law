@@ -57,5 +57,3 @@
 - 29) § 198 a násl. občanského zákoníku.
 
 - 30) § 132a občanského zákoníku.
-
-- 31) Správní řád.
