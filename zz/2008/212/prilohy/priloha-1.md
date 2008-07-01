@@ -1,0 +1,7 @@
+Príloha k vyhláške č. 212/2008 Z. z.
+
+VZOR
+
+SPOTREBNÁ DAŇ Z MINERÁLNEHO OLEJA
+
+[VZOR 01](../assets/ea823c1fc1cdab234737d4fc0a19d66314faf15f63d99493d4c41dd7b3751291.pdf)
