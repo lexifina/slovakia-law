@@ -1,0 +1,7 @@
+Príloha č. 3 k vyhláške č. 211/2008 Z. z.
+
+VZOR
+
+SPOTREBNÁ DAŇ ZO ZEMNÉHO PLYNU
+
+[VZOR 03](../assets/d198ce0896678852b6de42384d013ec068a9e28323fbc35868bcd2f1135f0bc3.pdf)
