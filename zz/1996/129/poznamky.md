@@ -14,7 +14,7 @@
 
 - 7) § 17 zákona č. 220/2004 Z. z.
 
-- 8) § 4 ods. 2 zákona č. 61/1977 Zb. o lesoch.§ 26 ods.1 písm. c) a § 33 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva.
+- 8) § 7 ods. 2 zákona č. 326/2005 Z. z. o lesoch.
 
 - 9) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
