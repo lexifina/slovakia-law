@@ -1,0 +1,1 @@
+- 1) § 1 ods. 2 písm. g) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
