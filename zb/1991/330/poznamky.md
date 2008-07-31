@@ -178,6 +178,18 @@
 
 - 23ha) Príloha č. 3, časť E.3.1 k vyhláške č. 492/2004 Z. z.
 
+- 23hb) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. v znení neskorších predpisov.
+
+- 23hc) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
+
+- 23hd) § 11 ods. 2 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- § 6 ods. 2 zákona č. 503/2003 Z. z. v znení neskorších predpisov.
+
 - 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
 
 - 23j) § 21 ods. 1 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
@@ -199,6 +211,14 @@
 - 23r) § 5 zákona Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
 
 - § 4 vyhlášky Ministerstva financií Slovenskej republiky č. 58/1993 Z. z., ktorou sa vykonáva zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností.
+
+- 23s) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
+- 23t) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23u) Druhá časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
+- 23v) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 24) Zákon SNR č. 253/1991 Zb. o pôsobnosti vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
