@@ -334,6 +334,22 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. Ministerstvo práce, zdravotníctva a sociálnych vecí
 
+    - Helénska republika
+
+  - 1. prefekt pre všetky listiny vydané správnymi orgánmi prefektúry
+
+  - 2. generálny tajomník kraja:
+
+    - a) pre všetky listiny vydané orgánmi ,Nómos' alebo ,Nomarchia', ktoré nepodliehajú prefektúre
+
+    - b) pre všetky listiny vydané verejnými orgánmi
+
+    - c) pre všetky listiny vydané miestnou správou
+
+    - d) pre všetky listiny vydané matričnými orgánmi
+
+  - 3. súd prvého stupňa pre justičné listiny vydané orgánom v jeho obvode
+
     - Holandsko
 
   - 1. pre kráľovstvo v Európe | súdny tajomník („registrar") súdov prvého stupňa
