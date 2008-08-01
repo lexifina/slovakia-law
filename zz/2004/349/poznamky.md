@@ -16,6 +16,8 @@
 
 - 9) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 9a) Zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
+
 - 10) § 27 Zákonníka práce.
 
 - 11) Obchodný zákonník.
