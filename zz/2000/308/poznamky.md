@@ -126,6 +126,8 @@
 
 - 46) § 460 ods. 1 Občianskeho zákonníka.
 
+- 46a) Napríklad § 67 zákona č. 220/2007 Z. z.
+
 - 47) § 37 ods. 13 zákona č. 195/2000 Z. z.
 
 - 48) Napríklad § 69 ods. 1 a 2 zákona č. 220/2007 Z. z.
