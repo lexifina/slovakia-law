@@ -1,4 +1,4 @@
-- 1) § 2 ods. 2 a § 5 ods. 1 zákona č. 507/2001 Z. z. o poštových službách.
+- 1) § 4 ods. 2 písm. d), § 4 ods. 8 a § 27 zákona č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov.
 
 - 2) § 720 až 724 Obchodného zákonníka.
 
@@ -12,7 +12,7 @@
 
 - 7) Napríklad zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 8) § 2 písm. l) a písm. o) bod 2 a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 8) § 2 písm. l) a písm. n) bod 2 a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 9) § 31 ods. 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
@@ -50,7 +50,7 @@
 
 - 20) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov, § 38 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z., § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 55 ods. 5 a § 104 ods. 1 písm. a) zákona č. 483/2001 Z. z.
 
-- 21) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 21) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
 - 22) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení zákona č. 291/2002 Z. z.
 
@@ -74,13 +74,13 @@
 
 - 27e) § 7 ods. 19 zákona č. 483/2001 Z. z.
 
-- 27f) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
+- 27f) § 13 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 27g) § 6 ods. 13 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - § 8 písm. c) zákona č. 566/2001 Z. z.§ 5 písm. n) zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
-- § 3 písm. b) zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- § 3 písm. b) zákona č. 8/2008 Z. z.
 
 - 27ga) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
 
@@ -90,7 +90,7 @@
 
 - § 6 ods. 10 a 11 zákona č. 594/2003 Z. z.
 
-- § 3 písm. a) zákona č. 95/2002 Z. z.
+- § 3 písm. a) zákona č. 8/2008 Z. z.
 
 - 27i) § 20 a 21 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -119,6 +119,8 @@
 - Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 32) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení zákona č. 215/2002 Z. z.
+
+- 32a) § 273 ods. 1 Obchodného zákonníka.
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
