@@ -6,6 +6,8 @@
 
 - 3a) § 12 ods. 2 zákona č. 276/2001 Z. z. v znení zákona č. 107/2007 Z. z.
 
+- 3aa) § 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 3b) § 12 ods. 6 zákona č. 276/2001 Z. z. v znení zákona č. 107/2007 Z. z.
 
 - 4) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
@@ -25,6 +27,8 @@
 - 7) § 151n až 151p Občianskeho zákonníka.
 
 - 7a) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 7b) § 39 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
 - 8) § 35 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -57,6 +61,8 @@
 - 16c) § 12a ods. 6 zákona č. 276/2001 Z. z. v znení zákona č. 658/2004 Z. z.
 
 - 17) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+
+- 17a) § 5 ods. 7 zákona č. 276/2001 Z. z. v znení zákona č. 283/2008 Z. z.
 
 - 18) § 12 zákona č. 276/2001 Z. z. v znení neskorších predpisov.
 
