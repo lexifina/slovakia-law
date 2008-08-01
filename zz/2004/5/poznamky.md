@@ -152,6 +152,8 @@
 
 - 59ab) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
+- 59aba) § 5 a 6 zákona č. 561/2007 Z. z.
+
 - 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
 
 - 60) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
