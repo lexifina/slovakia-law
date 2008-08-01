@@ -1826,6 +1826,12 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. Ministerstvo zahraničných vecí Ukrajiny pre všetky ostatné listiny
 
+    - Vanuatská republika
+
+  - 1. ,The Department of Foreign Affairs'
+
+  - 2. ,The Vanuatu Financial Services Commission' pre verejné listiny vydané v jej kompetencii
+
     - Veľká Británia
 
   - 1. pre Veľkú Britániu
