@@ -114,9 +114,9 @@ Príloha k vyhláške č. 13/2008 Z. z.
 
     - f) ostatné tovary a služby súvisiace s výdavkami uvedenými v písmenách a) až e).
 
-  - 13. Výdavkami na priznanú mzdu zamestnanca alebo jej pomernú časť a náhradu mzdy sú výdavky na zamestnanca, ktorý je zaradený na pracovnom mieste v organizačnej štruktúre subjektu hospodárskej mobilizácie podľa § 4 písm. d) zákona, ktorým je podnikateľ, a subjektu hospodárskej mobilizácie podľa § 4 písm. e) a f) zákona, ktorý vykonáva činnosti plnenia opatrení hospodárskej mobilizácie. Subjekt hospodárskej mobilizácie podľa § 4 písm. a) zákona hradí zo štátneho rozpočtu výdavky na priznanú mzdu zamestnanca alebo jej pomernú časť a náhradu mzdy zamestnanca za dovolenku a náhradu mzdy za sviatok.
+  - 13. Výdavkami na priznanú mzdu zamestnanca alebo jej pomernú časť a náhradu mzdy sú výdavky na zamestnanca, ktorý je zaradený na pracovnom mieste v organizačnej štruktúre subjektu hospodárskej mobilizácie podľa § 4 písm. d) zákona, ktorým je podnikateľ, príspevková organizácia, verejná vysoká škola alebo nezisková organizácia poskytujúca všeobecne prospešné služby, a subjektu hospodárskej mobilizácie podľa § 4 písm. e) a f) zákona, ktorý vykonáva činnosti plnenia opatrení hospodárskej mobilizácie. Subjekt hospodárskej mobilizácie podľa § 4 písm. a) zákona hradí zo štátneho rozpočtu výdavky na priznanú mzdu zamestnanca alebo jej pomernú časť a náhradu mzdy zamestnanca za dovolenku a náhradu mzdy za sviatok.
 
-  - 14. Výdavkami subjektu hospodárskej mobilizácie podľa § 4 písm. d) zákona, ktorým je podnikateľ, a subjektu hospodárskej mobilizácie podľa § 4 písm. e) a f) zákona sú odvody za zamestnanca podľa § 1 písm. n).
+  - 14. Výdavkami subjektu hospodárskej mobilizácie podľa § 4 písm. d) zákona, ktorým je podnikateľ, príspevková organizácia, verejná vysoká škola alebo nezisková organizácia poskytujúca všeobecne prospešné služby, a subjektu hospodárskej mobilizácie podľa § 4 písm. e) a f) zákona sú odvody za zamestnanca podľa § 1 písm. n).
 
   - 15. Výdavkami na pracovné cesty zamestnanca v rozsahu podľa osobitného predpisu<sup>2</sup>) sú výdavky na pracovné cesty zamestnanca subjektu hospodárskej mobilizácie, ktorý vykonáva činnosti súvisiace s plnením opatrení hospodárskej mobilizácie.
 
