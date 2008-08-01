@@ -10,7 +10,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: základné policajné vzdelanie
 
-    - Samostatné rutinné opakujúce sa činnosti, rutinné odborné činnosti podľa presných postupov a pokynov s bežnou psychickou a fyzickou záťažou, s pracovnými vzťahmi v rámci jedného pracovného kolektívu.
+    - Samostatné rutinné činnosti s premenlivými informáciami zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu so stanovenými výstupmi s bežnou psychickou a fyzickou záťažou, s pracovnými vzťahmi v rámci jedného pracovného kolektívu; príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci správneho konania; štúdium na účel získania policajného vzdelania.
 
   - 2. PLATOVÁ TRIEDA
 
@@ -18,7 +18,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: základné policajné vzdelanie
 
-    - Samostatné rutinné opakujúce sa činnosti s premenlivými informáciami zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu s presne stanovenými výstupmi, so zodpovednosťou za výsledky práce ovplyvňujúce činnosť základného pracovného kolektívu. Zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu.
+    - Samostatné rutinné odborné činnosti s premenlivými informáciami zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu so stanovenými výstupmi; príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend; zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu; štúdium na účel získania vysokoškolského vzdelania prvého a druhého stupňa na Akadémii Policajného zboru; riadenie a organizácia čiastkových úsekov so zodpovednosťou za výsledky práce ovplyvňujúce činnosť pracovného kolektívu.
 
   - 3. PLATOVÁ TRIEDA
 
@@ -26,7 +26,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Samostatné odborné činnosti pri príprave rozhodnutí alebo pri príprave správneho konania alebo samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sa spracúvajú podľa zásadných postupov, alebo riadenia čiastkových úsekov, činnosti vyžadujúce spoluprácu v rámci služobného úradu i mimo neho, so zodpovednosťou za výsledky činnosti s dôsledkami na iné úseky v rámci služobného úradu.
+    - Samostatné odborné činnosti pri príprave podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend; samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sa spracúvajú podľa štandardizovaných postupov, vyžadujúce spoluprácu v rámci služobného úradu i mimo neho; riadenie a organizácia rámcových úsekov so zodpovednosťou za výsledky činnosti s dôsledkami na iné úseky v rámci služobného úradu.
 
   - 4. PLATOVÁ TRIEDA
 
@@ -34,7 +34,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Samostatné odborné činnosti, riadenie a organizácia rámcových úsekov alebo samostatný výkon ucelených agend s rozhodovacou právomocou, riadenie a organizácia rámcových úsekov, činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, ktoré sa vykonávajú podľa metodických predpisov s presne stanovenými výstupmi, so zodpovednosťou za rozhodnutia a výsledky práce s dôsledkami na úseky v rámci služobného úradu i mimo neho; príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku služobných úradov; príprava rozhodnutí v druhom stupni správneho konania vrátane účasti na kontrole.
+    - Samostatné odborné činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, vykonávané podľa metodických predpisov so stanovenými výstupmi; príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend vo vymedzenom úseku služobných činností v služobných úradoch; výkon kontroly; riadenie a organizácia rámcových úsekov so zodpovednosťou za rozhodovanie a výsledky práce s dôsledkami na úseky v rámci služobného úradu i mimo neho.
 
   - 5. PLATOVÁ TRIEDA
 
@@ -42,7 +42,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Samostatné odborné činnosti, riadenie a organizácia rámcových úsekov, prípadne činnosti, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie; analytická a hodnotiaca činnosť pri príprave podkladov na rozhodovanie; príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku služobných úradov; samostatné odborné spracúvanie rozhodnutí v druhom stupni správneho konania vrátane účasti na kontrole.
+    - Samostatné odborné činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, vykonávané podľa metodických predpisov so stanovenými výstupmi, vyžadujúce spoluprácu pri riešení rôznorodých úloh v rámci služobného úradu i mimo neho alebo s dôsledkami na služobný úrad i mimo neho; príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend vo vymedzenom úseku služobných činností v služobných úradoch; tvorba opatrení v príslušnom odbore podľa zákonných splnomocnení s regionálnou pôsobnosťou; riadenie a organizácia špecializovaných činností, prípadne činností, ktoré sú dôležitou súčasťou širších procesov; výkon kontroly.
 
   - 6. PLATOVÁ TRIEDA
 
@@ -50,7 +50,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Samostatné odborné činnosti vykonávané podľa individuálne stanovených postupov vopred neurčeným spôsobom, koordinácia a riadenie určených častí zložitých systémov vyžadujúce špeciálne konzultácie a osobitné podklady, systémové činnosti so samostatným výberom postupov a spôsobov riešení majúce dôsledky na viaceré subjekty; samostatné spracovanie rozhodnutí a výkon kontroly; riadenie, koordinácia a usmerňovanie aktivít vo vymedzenom okruhu služobných úradov; rozhodovanie v druhom stupni správneho konania.
+    - Samostatné odborné špecializované činnosti vykonávané podľa individuálne stanovených postupov vopred neurčeným spôsobom, vyžadujúce špeciálne konzultácie v rámci služobného úradu i mimo neho; činnosti vyžadujúce systémový prístup so samostatným výberom postupov a spôsobov riešení, majúce dôsledky na viaceré subjekty; príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí vo vymedzenom úseku služobných činností v služobných úradoch; tvorba opatrení podľa zákonných splnomocnení s regionálnou pôsobnosťou; riadenie, organizácia a koordinácia častí zložitých systémov vyžadujúce špeciálne konzultácie v rámci služobného úradu i mimo neho; výkon kontroly.
 
   - 7. PLATOVÁ TRIEDA
 
@@ -58,7 +58,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov na rozhodnutia v otázkach patriacich do rozsahu kompetencie ústredného orgánu; samostatné odborné špecializované činnosti s rozsiahlymi väzbami medzi rôznymi úsekmi činnosti; výkon individuálnych technických a technologických vysoko odborných činností; tvorba opatrení v príslušnom odbore s celospoločenským dosahom; kontrolná a inšpekčná činnosť vrátane vydávania rozhodnutí; tvorba právnych predpisov podľa zákonných splnomocnení s regionálnou pôsobnosťou; tvorba a koordinácia koncepcií a programov rozvoja s dôsledkami na územie okresu.
+    - Samostatné odborné špecializované činnosti spočívajúce najmä v zložitej analytickej činnosti, pri príprave podkladov na rozhodovanie, príprave rozhodnutí a vydávanie rozhodnutí; samostatné odborné špecializované činnosti s rozsiahlymi väzbami medzi rôznymi úsekmi činnosti; normotvorná a metodická činnosť na úrovni ústredného orgánu; kontrolná alebo inšpekčná činnosť na úrovni ústredného orgánu; riadenie, organizácia a koordinácia zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami s dôsledkami za rozhodovanie.
 
   - 8. PLATOVÁ TRIEDA
 
@@ -66,7 +66,7 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Vysoko špecializované odborné činnosti alebo zložité analytické činnosti, ktorých výsledkom sú riešenia zásadného charakteru; koncepčné alebo metodické činnosti na úrovni ústredného orgánu; koordinácia úsekov a častí zložitých systémov na úrovni ústredného orgánu; kontrolná a inšpekčná činnosť s celospoločenským dosahom; riadenie a koordinácia komplexu zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami; normotvorná činnosť vo vymedzenej oblasti na úrovni ústredného orgánu; koncepčná, systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie kraja.
+    - Vysoko špecializované odborné činnosti alebo zložité analytické činnosti s medzinárodným prvkom pri príprave podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí; koncepčné, metodické a koordinačné činnosti na úrovni ústredného orgánu, výsledkom ktorých sú riešenia zásadného charakteru s celoštátnym alebo medzinárodným dosahom; normotvorná činnosť legislatívnych opatrení na úrovni ústredného orgánu; kontrolná a inšpekčná činnosť na úrovni ústredného orgánu vrátane vydávania rozhodnutí; riadenie, organizácia a koordinácia komplexu zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami s dôsledkami za rozhodovanie.
 
   - 9. PLATOVÁ TRIEDA
 
@@ -74,4 +74,4 @@ Príloha č. 1a
 
     - Kvalifikačná požiadavka policajného vzdelania: špecializované policajné vzdelanie
 
-    - Tvorba štátnej politiky v príslušnej oblasti na úrovni ústredného orgánu, koordinácia celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom; koncepčná a normotvorná činnosť zásadných legislatívnych opatrení (zákonov) na ústrednom orgáne; riadenie, organizácia a koordinácia najzložitejších systémov s veľmi vysokým počtom rôznych spôsobov riešenia.
+    - Tvorba štátnej politiky vrátane riadiacej, koncepčnej a normotvornej činnosti, organizácia a koordinácia celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s vydávaním rozhodnutí s celoštátnym alebo medzinárodným dosahom v príslušnej oblasti na úrovni ústredného orgánu.
