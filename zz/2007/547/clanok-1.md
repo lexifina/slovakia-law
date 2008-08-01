@@ -398,11 +398,19 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Vydanie tabakových výrobkov oslobodených od dane musí byť doložené kópiou povolenia na nákup tabakových výrobkov oslobodených od dane v daňovom sklade pre zahraničných zástupcov a kópiou odpisového listu, ak sa vydávajú tabakové výrobky oslobodené od dane podľa § 33a.“.
 
+- 40. § 36 sa vypúšťa.
+
 - 41. V § 39 ods. 1 sa za slovo „výrobkov,“ vkladajú slová „tlačou a distribúciou kontrolných známok,“.
 
 - 42. V 39 ods. 3 písm. g) sa vypúšťajú slová „a užívateľských podnikoch, ktoré používajú tabakové výrobky oslobodené od dane podľa § 7 ods. 2“.
 
 - 43. V § 39 ods. 5 sa vypúšťajú slová „a v užívateľských podnikoch“.
+
+- 44. V § 40 ods. 1 sa za slovami „zahraničných zástupcov“ vypúšťa čiarka a slová „užívateľských podnikov“.
+
+- 45. V § 40 ods. 2 sa vypúšťa písmeno d).
+
+- Doterajšie písmená e) až i) sa označujú ako písmená d) až h).
 
 - 46. V § 40 ods. 4 druhá veta znie: „Najpredávanejšia cenová kategória cigariet je kategória cigariet, z ktorej najväčšie množstvo cigariet s rovnakou cenou cigariet prepočítanou na tisíc kusov cigariet a rovnakou dĺžkou jednej cigarety bolo uvedených do daňového voľného obehu na daňovom území za obdobie podľa prvej vety.“.
 
