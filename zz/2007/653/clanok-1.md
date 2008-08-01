@@ -300,6 +300,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Poznámka pod čiarou k odkazu 32a znie:
 
+  - „32a)
+
+  - § 29 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - § 51 zákona č. 131/2002 Z. z. v znení neskorších predpisov.“.
+
 - 27. V § 41 sa odsek 1 dopĺňa písmenom d), ktoré znie:
 
 - „d)
