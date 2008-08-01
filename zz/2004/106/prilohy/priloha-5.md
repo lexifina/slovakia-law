@@ -1,1 +1,1 @@
-Príloha č. 5 k zákonu č. 106/2004 Z. z. [VZOR 05-1](../assets/b2390bbf6116afdc6f486817d40db0e8dc56bfed9638e6a3f4c63ecb1ddc4f25.pdf)
+Príloha č. 5 k zákonu č. 106/2004 Z. z. [VZOR 05-1](../assets/21ae9370cdde90ecd2bc4b0032108c4b683c1d6874e8e2475ad361cb88c501f1.pdf)
