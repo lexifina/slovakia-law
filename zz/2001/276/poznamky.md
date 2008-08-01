@@ -44,9 +44,11 @@
 
 - 1nb) Článok 6 ods. 6 a článok 7 nariadenia Európskeho parlamentu a Rady (ES) č. 1228/2003.
 
-- 1nc) § 21 ods. 3, § 27 ods. 5 a § 28 ods. 4 zákona č. 656/2004 Z. z.
+- 1nc) § 21 ods. 3, § 27 ods. 6 a § 28 ods. 4 zákona č. 656/2004 Z. z. v znení zákona č. 283/2008 Z. z.
 
 - 1nd) § 5 ods. 5 zákona č. 656/2004 Z. z.
+
+- 1ne) § 19 ods. 4 zákona č. 656/2004 Z. z. v znení zákona č. 283/2008 Z. z.
 
 - 1o) § 116 Občianskeho zákonníka.
 
@@ -67,6 +69,8 @@
 - 6d) § 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 6e) § 4 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 6f) § 19 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
 
 - 7) § 14 zákona č. 656/2004 Z. z.§ 28 zákona č. 657/2004 Z. z.
 
