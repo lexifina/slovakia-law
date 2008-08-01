@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 255/2008 Z. z.
+
+OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH LIEČIVÝCH ZDROJOV V BOJNICIACH
+
+[mapa 01](../assets/7b5a63bb3056b9521c2804ad51842de49b7c370d99f033d40684cd44732aef8d.pdf)
