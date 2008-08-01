@@ -30,7 +30,7 @@
 
 (2) Na náležitosti predbežnej čiastkovej správy sa vzťahuje odsek 1 rovnako.
 
-(3) Na náležitosti správy z vládneho auditu sa vzťahuje odsek 1 písm. a) až f), i), l) a m) rovnako. Okrem týchto náležitostí správa z vládneho auditu obsahuje
+(3) Na náležitosti správy z vládneho auditu sa vzťahuje odsek 1 písm. a) až f), i), j), l) a m) rovnako. Okrem týchto náležitostí správa z vládneho auditu obsahuje
 
 - a) dátum doručenia predbežnej správy auditovanej osobe,
 
@@ -40,7 +40,7 @@
 
 - d) spôsob vysporiadania námietok podľa § 35d ods. 5 písm. a),
 
-- e) náležitosti uvedené v odseku 1 písm. g) a h) so zohľadnením výsledkov prerokovania predbežnej správy uvedených v zápisnici z tohto prerokovania,
+- e) náležitosti uvedené v odseku 1 písm. g) a h) so zohľadnením výsledkov prerokovania predbežnej správy uvedených v zápisnici z tohto prerokovania, pričom prílohou správy z vládneho auditu sú účtovné doklady, iné doklady a písomnosti preukazujúce nedostatky zistené vládnym auditom,
 
 - f) lehotu na prijatie opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku,
 
@@ -52,6 +52,6 @@
 
 (6) Správa z vládneho auditu alebo čiastková správa sa považuje za doručenú, aj ak ju auditovaná osoba odmietne prevziať, a to dňom odmietnutia jej prevzatia.
 
-(7) Auditujúci orgán je povinný vypracovať ročnú správu o výsledkoch vládneho auditu, v ktorej uvedie najmä údaje o počte ním vykonaných vládnych auditov, nedostatkoch zistených vládnym auditom, odporúčaniach na zlepšenie finančného riadenia a iných činností vykonávaných auditovanou osobou a o opatreniach na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku, a zaslať ju ministerstvu financií do konca februára za predchádzajúci kalendárny rok.
+(7) Auditujúci orgán je povinný vypracovať ročnú správu o výsledkoch vládneho auditu, v ktorej uvedie najmä údaje o počte ním vykonaných vládnych auditov, nedostatkoch zistených vládnym auditom, odporúčaniach na zlepšenie finančného riadenia a iných činností vykonávaných auditovanou osobou a o opatreniach na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku, a zaslať ju ministerstvu financií do konca februára za predchádzajúci kalendárny rok. Ak auditujúci orgán, ktorým je správa finančnej kontroly, vykonáva následnú finančnú kontrolu, je povinný vypracovať ročnú správu o výsledkoch vládneho auditu, ktorej súčasťou sú aj údaje o vykonaných následných finančných kontrolách v rozsahu podľa § 6 ods. 6.
 
 (8) Podrobnosti o obsahu ročnej správy o výsledkoch vládneho auditu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo financií.

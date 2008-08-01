@@ -22,7 +22,7 @@
 
 - 12) § 22 ods. 2 zákona č. 523/2004 Z. z.
 
-- 12a) § 14a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.§ 19 ods. 1 a § 24 ods. 1 zákona č. 231/1999 Z. z. o štátnej pomoci v znení zákona č. 203/2004 Z. z.
+- 12a) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
 
 - 12b) Napríklad zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
