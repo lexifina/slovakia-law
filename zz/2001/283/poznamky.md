@@ -42,9 +42,11 @@
 
 - 22) § 5 zákona č. 17/1992 Zb. o životnom prostredí.
 
-- 23) § 20 zákona Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie.
+- 23) § 37 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
-- 23a) Príloha bod 2.1.2. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
+- 23a) § 29 zákona č. 24/2006 Z. z.
+
+- 23b) Príloha bod 2.1.2. k rozhodnutiu Rady EÚ z 19. decembra 2002, ktorým sa stanovujú kritériá a postupy pre prijímanie odpadu na skládky odpadu podľa článku 16 a prílohy II k smernici 1999/31/ES (Ú. v. EÚ L 011, 16. 1. 2003).
 
 - 24) § 2 ods. 13 a príloha č. 4 k zákonu č. 223/2001 Z. z.
 
