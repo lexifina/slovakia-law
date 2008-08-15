@@ -1,14 +1,18 @@
 - 1) § 2 ods. 14 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Rozhodnutie Komisie č. 701/2003/ES z 29. septembra 2003, ktorým sa podľa smernice 2001/18/ES Európskeho parlamentu a Rady ustanovuje formát na predkladanie výsledkov zámerného uvoľňovania geneticky modifikovaných vyšších rastlín na iné účely, ako je uvedenie na trh (Ú. v. ES L 254 2003, s. 21 – 28).
+- 2) Rozhodnutie Komisie č. 701/2003/ES z 29. septembra 2003, ktorým sa podľa smernice 2001/18/ES Európskeho parlamentu a Rady ustanovuje formát na predkladanie výsledkov zámerného uvoľňovania geneticky modifikovaných vyšších rastlín na iné účely, ako je uvedenie na trh (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 7).
 
-- 3) § 2 ods. 5 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) § 7 ods. 1 písm. g) zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
 
-- 4) § 37 ods. 4 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
+- 4) § 19 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- § 27 ods. 5 zákona č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 4a) § 6 zákona č. 223/2001 Z. z.
 
-- 5) § 19 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 5) § 13 ods. 4 písm. a) a h) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- § 39 ods. 1 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
+
+- 5a) Napríklad § 2 ods. 2 Obchodného zákonníka, § 19a ods. 2 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 6) Rozhodnutie Rady 2002/813/ES z 3. októbra 2002, ktorým sa podľa smernice 2001/18/ES Európskeho parlamentu a Rady zavádza súhrnný ohlasovací informačný formát na hlásenia týkajúce sa zámerného uvoľňovania geneticky modifikovaných organizmov na iné účely, ako je uvádzanie na trh (Ú. v. ES L 280 2002, s. 62 – 83).
 

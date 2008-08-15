@@ -34,7 +34,7 @@ Príloha č. 1 k vyhláške č. 399/2005 Z. z.
 
 - 13 | Sprcha | nevyžaduje sa | nevyžaduje sa | voliteľné | | vyžaduje sa
 
-- 14 | Ochranný odev | vhodný ochranný odev | vhodný ochranný odev a (voliteľné) obuv | vhodný ochranný odev | | úplná výmena odevu a obuvi pred vstupom i výstupom
+- 14 | Ochranný odev | vhodný ochranný odev | vhodný ochranný odev | vhodný ochranný odev a (voliteľné) obuv | | úplná výmena odevu a obuvi pred vstupom i výstupom
 
 - 15 | Rukavice | nevyžaduje sa | voliteľné | vyžaduje sa | | vyžaduje sa
 
