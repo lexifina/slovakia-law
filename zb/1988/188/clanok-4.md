@@ -2,8 +2,6 @@
 
 Zrušujú sa:
 
-- 1. § 66, 68 a 69 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon),
-
 - 2. II. časť vyhlášky ministerstiev zdravotníctva a zahraničných vecí č. 75/1967 Zb. o dodatkovej dovolenke pracovníkov, ktorí vykonávajú zdraviu škodlivé alebo zvlášť obťažné práce, a o náhrade za stratu na zárobku po skončení pracovnej neschopnosti pri niektorých chorobách z povolania,
 
 - 3. bod 12 ods. 1 časť vety za bodkočiarkou vyhlášky Ministerstva práce a sociálnych vecí č. 63/1968 Zb. o zásadách pre skracovanie týždenného pracovného času a pre zavádzanie prevádzkových a pracovných režimov s päťdenným pracovným týždňom, ktorá znie: „z vážnych prevádzkových, technických alebo dopravných dôvodov, alebo kde to bude vyžadovať všeobecný záujem, prípadne",
