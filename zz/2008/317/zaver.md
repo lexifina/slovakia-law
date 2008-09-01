@@ -1,0 +1,1 @@
+Jozef Holjenčík v. r.
