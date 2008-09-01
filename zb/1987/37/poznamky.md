@@ -1,1 +1,0 @@
-- 6) § 6 ods. 6 a § 13 ods. 3 vyhlášky č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy v znení neskorších predpisov.
