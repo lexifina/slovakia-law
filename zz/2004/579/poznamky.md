@@ -22,10 +22,12 @@
 
 - 12) § 2 ods. 10 zákona č. 576/2004 Z. z.
 
+- 12a) § 52 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
+
 - 13) § 27 Občianskeho zákonníka.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 15) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 16) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
