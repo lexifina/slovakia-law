@@ -1,4 +1,4 @@
-# § 29a Oprávnenie pri odhaľovaní daňových únikov, nezákonných finančných operácií a legalizácie príjmov z trestnej činnosti
+# § 29a Oprávnenie pri odhaľovaní daňových únikov, nezákonných finančných operácií, legalizácie príjmov z trestnej činnosti a financovania terorizmu
 
 (1) Policajt služby finančnej polície a služby kriminálnej polície pri odhaľovaní daňových únikov a nezákonných finančných operácií alebo legalizácie príjmov z trestnej činnosti s predpokladanou značnou škodou alebo škodou veľkého rozsahu<sup>11c</sup>) je oprávnený
 
@@ -14,4 +14,4 @@
 
 (4) Pri odhaľovaní daňových únikov alebo nezákonných finančných operácií alebo legalizácie príjmov z trestnej činnosti a s nimi súvisiacich trestných činov a ich páchateľov podľa § 2 ods. 1 písm. b) a c) je policajt služby finančnej polície a služby kriminálnej polície oprávnený písomne žiadať od bánk a pobočiek zahraničných bánk správy, ktoré sa týkajú klientov bánk alebo pobočiek zahraničných bánk, aj keď sú predmetom bankového tajomstva.<sup>11f</sup>)
 
-(5) Policajti služby finančnej polície uplatňujú oprávnenia pri predchádzaní legalizácii a pri odhaľovaní legalizácie príjmov z trestnej činnosti podľa osobitného predpisu.<sup>11g</sup>)
+(5) Osobitný útvar služby finančnej polície plní úlohy pri predchádzaní a odhaľovaní legalizácie príjmov z trestnej činnosti a financovania terorizmu podľa osobitného predpisu.<sup>1</sup>)
