@@ -190,6 +190,8 @@
 
 - 74) § 420 až 450 Občianskeho zákonníka.
 
+- 74a) Napríklad § 6 ods. 7, § 9 ods. 3 až 5 a ods. 8 zákona č. 581/2004 Z. z. v znení neskorších predpisov, § 11, 19 a 20 zákona č. 577/2004 Z. z. v znení neskorších predpisov, § 25 ods. 1 písm. d) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 75) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - Zákon č. 13/2002 Z. z. v znení neskorších predpisov.
