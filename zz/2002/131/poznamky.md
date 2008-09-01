@@ -60,15 +60,15 @@
 
 - 28a) § 7 ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
+- 28aa) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 29) § 17 až 19 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
 - 29a) Zákon č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 29aa) § 70 a 75 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 29b) § 4 zákona č. 455/2004 Z. z.
-
-- 30) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore, zákon č. 370/1997 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 30) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 31) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, § 54 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení zákona č. 118/2002 Z. z.
 
