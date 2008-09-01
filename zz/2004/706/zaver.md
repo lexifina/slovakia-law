@@ -1,1 +1,0 @@
-Martin Fronc v. r.
