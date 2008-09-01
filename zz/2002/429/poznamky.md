@@ -48,8 +48,6 @@
 
 - 20) § 47 ods. 2 zákona č. 96/2002 Z. z.
 
-- 21) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 566/2001 Z. z.
-
 - 22) § 66 ods. 3 Obchodného zákonníka.
 
 - 23) Občiansky súdny poriadok.
