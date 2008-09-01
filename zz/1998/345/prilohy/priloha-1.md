@@ -22,7 +22,7 @@
 
       - – štátu, ktorý je viazaný dohodou, ale nie protokolom, alebo
 
-      - – štátu, ktorý je viazaný dohodou a zároveň aj protokolom, ak všetky štáty vyznačené v medzinárodnej prihláške sú viazané dohodou (bez ohľadu na to, či tieto štáty sú zároveň viazané aj protokolom alebo nie);
+      - – štátu, ktorý je viazaný dohodou a zároveň protokolom, ak v medzinárodnej prihláške sú vyznačené len štáty a všetky tieto štáty sú viazané len dohodou a nie protokolom,
 
       - (ix) „medzinárodná prihláška podliehajúca výlučne protokolu“ znamená medzinárodnú prihlášku, pričom úrad pôvodu je úradom
 
@@ -30,13 +30,13 @@
 
       - – zmluvnej organizácie, alebo
 
-      - – štátu, ktorý je viazaný dohodou a zároveň aj protokolom, ak v medzinárodnej prihláške nie je vyznačený ani jeden štát viazaný dohodou;
+      - – štátu, ktorý je viazaný dohodou a zároveň protokolom, ak v medzinárodnej prihláške nie je vyznačený ani jeden štát viazaný dohodou, ale nie protokolom,
 
       - (x) „medzinárodná prihláška podliehajúca dohode a protokolu zároveň“ znamená medzinárodnú prihlášku, pričom úrad pôvodu je úradom štátu viazaného dohodou a zároveň aj protokolom a je založená na zápise a je v nej vyznačený
 
-      - – aspoň jeden štát, ktorý je viazaný dohodou (bez ohľadu na to, či je alebo nie je tento štát viazaný aj protokolom), a
+      - – aspoň jeden štát, ktorý je viazaný dohodou, ale nie protokolom, a
 
-      - – aspoň jeden štát, ktorý je viazaný protokolom, ale nie dohodou, alebo aspoň jedna zmluvná organizácia;
+      - – aspoň jeden štát, ktorý je viazaný protokolom, bez ohľadu na to, či je tento štát viazaný aj dohodou, alebo aspoň jedna zmluvná organizácia,
 
       - (xi) „prihlasovateľ“ znamená fyzickú osobu alebo právnickú osobu, v ktorej mene sa podáva medzinárodná prihláška;
 
@@ -222,35 +222,29 @@
 
       - (1) Medzinárodná prihláška
 
-        - (a) Každá medzinárodná prihláška podliehajúca výlučne dohode bude vo francúzskom jazyku.
-
-        - (b) Každá medzinárodná prihláška podliehajúca výlučne protokolu alebo dohode a protokolu zároveň bude v anglickom, vo francúzskom alebo v španielskom jazyku podľa toho, ktorý jazyk stanoví úrad pôvodu, s tým, že úrad pôvodu umožní prihlasovateľovi vybrať si medzi anglickým, francúzskym a španielskym jazykom.
+        - Medzinárodná prihláška je v anglickom, vo francúzskom alebo v španielskom jazyku podľa toho, ktorý jazyk ustanoví úrad pôvodu, s tým, že úrad pôvodu umožní prihlasovateľovi vybrať si medzi anglickým, francúzskym a španielskym jazykom.
 
       - (2) Oznamy, ktoré nie sú medzinárodnou prihláškou
 
-        - (a) Každý oznam týkajúci sa medzinárodnej prihlášky podliehajúcej výlučne dohode alebo týkajúci sa medzinárodného zápisu z nej vzniknutého musí byť s výhradou pravidla 17(2)(v) a (3) vo francúzskom jazyku; ak sa však vykonáva alebo sa vykonalo pri medzinárodnom zápise vzniknutom z medzinárodnej prihlášky podliehajúcej výlučne dohode následné vyznačenie podľa protokolu, postupuje sa podľa ustanovenia písmena (b).
-
-        - (b) Každý oznam týkajúci sa medzinárodnej prihlášky podliehajúcej výlučne protokolu alebo dohode a protokolu zároveň, ako aj oznam týkajúci sa medzinárodného zápisu z nej vzniknutého musí byť s výhradou pravidla 17(2)(v) a (3)
+        - Každý oznam týkajúci sa medzinárodnej prihlášky, ako aj oznam týkajúci sa medzinárodného zápisu musí byť s výhradou pravidla 17(2)(v) a (3)
 
           - (i) v anglickom, vo francúzskom alebo v španielskom jazyku, ak takýto oznam zasiela medzinárodnému úradu prihlasovateľ alebo majiteľ, alebo úrad,
 
           - (ii) v jazyku podľa pravidla 7(2), ak je predmetom oznamu vyhlásenie o úmysle používať ochrannú známku, ktoré je pripojené k medzinárodnej prihláške podľa pravidla 9(5)(f) alebo k následnému vyznačeniu podľa pravidla 24(3)(b)(i),
 
-          - (iii) v jazyku medzinárodnej prihlášky, ak ide o oznam, ktorý zasiela medzinárodný úrad úradu, okrem prípadov, keď tento úrad oznámil medzinárodnému úradu, že všetky takéto oznámenia musia byť vo francúzskom, v anglickom alebo v španielskom jazyku; ak sa oznámenie zasielané medzinárodným úradom týka medzinárodného zápisu do medzinárodného registra, oznámenie musí obsahovať určenie jazyka, v ktorom bola príslušná medzinárodná prihláška doručená medzinárodnému úradu,
+          - (iii) v jazyku medzinárodnej prihlášky, ak ide o oznam, ktorý zasiela medzinárodný úrad úradu, okrem prípadov, keď tento úrad oznámil medzinárodnému úradu, že všetky takéto oznámenia musia byť v anglickom, vo francúzskom alebo v španielskom jazyku; ak sa oznámenie zasielané medzinárodným úradom týka medzinárodného zápisu do medzinárodného registra, oznámenie musí obsahovať určenie jazyka, v ktorom bola príslušná medzinárodná prihláška doručená medzinárodnému úradu,
 
           - (iv) v jazyku medzinárodnej prihlášky, ak ide o oznam, ktorý zasiela medzinárodný úrad prihlasovateľovi alebo majiteľovi, okrem prípadov, keď prihlasovateľ alebo majiteľ oznámil medzinárodnému úradu, že si praje dostávať takéto oznámenia v anglickom, vo francúzskom alebo v španielskom jazyku.
 
       - (3) Zápis a zverejnenie
 
-        - (a) Ak medzinárodná prihláška podlieha výlučne dohode, zápis do medzinárodného registra a zverejnenie medzinárodného zápisu z nej vzniknutého vo Vestníku a všetkých údajov týkajúcich sa tohto zápisu, ktoré sú zároveň zapisované a zverejňované v zmysle tohto vykonávacieho predpisu, budú vo francúzskom jazyku.
+        - (a) Zápis do medzinárodného registra a zverejnenie medzinárodného zápisu vo Vestníku a všetkých údajov týkajúcich sa zápisu, ktoré sú zároveň zapisované a zverejňované v zmysle tohto vykonávacieho predpisu, budú v anglickom, vo francúzskom a v španielskom jazyku. V zápise a vo zverejnení medzinárodného zápisu bude uvedený jazyk, v ktorom medzinárodný úrad dostal medzinárodnú prihlášku.
 
-        - (b) Ak medzinárodná prihláška podlieha výlučne protokolu alebo dohode a protokolu zároveň, zápis do medzinárodného registra a zverejnenie medzinárodného zápisu z nej vzniknutého vo Vestníku a všetkých údajov týkajúcich sa tohto zápisu, ktoré sú zároveň zapisované a zverejňované v zmysle tohto vykonávacieho predpisu, budú v anglickom, vo francúzskom a v španielskom jazyku. V zápise a vo zverejnení medzinárodného zápisu bude uvedený jazyk, v ktorom medzinárodný úrad dostal medzinárodnú prihlášku.
-
-        - (c) Keď prvé následné vyznačenie je uskutočnené podľa protokolu a týka sa medzinárodného zápisu, ktorý bol zverejnený len vo francúzskom jazyku alebo len vo francúzskom a v anglickom jazyku, medzinárodný úrad zverejní vo Vestníku spolu s týmto následným vyznačením buď príslušný medzinárodný zápis v anglickom a v španielskom jazyku a súčasne s ním znovu aj vo francúzskom jazyku, alebo príslušný medzinárodný zápis v španielskom jazyku a súčasne s ním znovu aj v anglickom a vo francúzskom jazyku. Toto následné vyznačenie je potom zapísané do medzinárodného registra v anglickom, vo francúzskom a v španielskom jazyku. Zápis v medzinárodnom registri a zverejnenie všetkých údajov týkajúcich sa tohto zápisu vo Vestníku, ktoré majú byť zapísané a zverejnené v zmysle tohto vykonávacieho predpisu, budú potom vo francúzskom, v anglickom a v španielskom jazyku.
+        - (b) Keď je uskutočnené prvé následné vyznačenie týkajúce sa medzinárodného zápisu, ktorý bol podľa predchádzajúceho znenia tohto pravidla zverejnený len vo francúzskom jazyku alebo len vo francúzskom a v anglickom jazyku, medzinárodný úrad zverejní vo Vestníku spolu s týmto následným vyznačením buď príslušný medzinárodný zápis v anglickom a v španielskom jazyku a súčasne s ním znovu aj vo francúzskom jazyku, alebo príslušný medzinárodný zápis v španielskom jazyku a súčasne s ním znovu aj v anglickom a vo francúzskom jazyku. Toto následné vyznačenie je potom zapísané do medzinárodného registra v anglickom, vo francúzskom a v španielskom jazyku.
 
       - (4) Preklad
 
-        - (a) Preklady, ktoré sú potrebné v súvislosti s oznámeniami podľa odseku (2)(b)(iii) a (iv), zápismi a zverejneniami podľa odseku (3)(b) a (c), vykoná medzinárodný úrad. Prihlasovateľ alebo majiteľ môže pripojiť k medzinárodnej prihláške alebo k žiadosti o zápis následného vyznačenia alebo zmeny návrh prekladu ktorejkoľvek časti textu medzinárodnej prihlášky alebo žiadosti o zápis. Ak medzinárodný úrad nepovažuje navrhovaný preklad za správny, urobí jeho opravu po tom, ako vyzval prihlasovateľa alebo majiteľa, aby sa v lehote jedného mesiaca o navrhnutej oprave vyjadril.
+        - (a) Preklady, ktoré sú potrebné v súvislosti s oznámeniami podľa odseku (2)(iii) a (iv), zápismi a zverejneniami podľa odseku (3), vykoná medzinárodný úrad. Prihlasovateľ alebo majiteľ môže pripojiť k medzinárodnej prihláške alebo k žiadosti o zápis následného vyznačenia alebo zmeny návrh prekladu ktorejkoľvek časti textu medzinárodnej prihlášky alebo žiadosti o zápis. Ak medzinárodný úrad nepovažuje navrhovaný preklad za správny, urobí jeho opravu po tom, ako vyzval prihlasovateľa alebo majiteľa, aby sa v lehote jedného mesiaca k navrhnutej oprave vyjadril.
 
         - (b) Napriek ustanoveniu písmena (a) medzinárodný úrad nebude prekladať ochrannú známku. Ak v súlade s pravidlom 9(4)(b)(iii) alebo pravidlom 24(3)(c) prihlasovateľ alebo majiteľ predloží preklad alebo preklady ochrannej známky, medzinárodný úrad nebude kontrolovať správnosť týchto prekladov.
 
@@ -338,7 +332,7 @@
 
           - (ii) ak je prihlasovateľ právnická osoba, údaje týkajúce sa právnej formy tejto právnickej osoby a štát, prípadne územný celok v tom štáte, podľa právneho systému ktorého alebo ktorých bola právnická osoba založená,
 
-          - (iii) ak ochranná známka pozostáva úplne alebo čiastočne z jedného slova alebo viacerých slov, ktoré možno preložiť, preklad tohto slova alebo slov do francúzskeho jazyka, ak medzinárodná prihláška podlieha výlučne dohode, alebo do anglického, francúzskeho alebo španielskeho jazyka, ak medzinárodná prihláška podlieha výlučne protokolu alebo podlieha dohode a protokolu zároveň,
+          - (iii) ak ochranná známka pozostáva úplne alebo čiastočne z jedného slova alebo z viacerých slov, ktoré možno preložiť, preklad tohto slova alebo slov do anglického, francúzskeho a španielskeho jazyka alebo do akéhokoľvek jedného alebo dvoch z týchto jazykov,
 
           - (iv) ak si prihlasovateľ nárokuje farbu ako rozlišovací prvok ochrannej známky, slovný opis každej farby hlavných častí ochrannej známky, ktoré majú túto farbu,
 
@@ -414,9 +408,9 @@
 
         - (a) Ak úrad pôvodu dostane žiadosť o podanie medzinárodnej prihlášky podliehajúcej výlučne dohode medzinárodnému úradu ešte predtým, ako ochranná známka, ktorej sa žiadosť týka, bola zapísaná do registra úradu pôvodu, táto medzinárodná prihláška sa bude považovať za prijatú na účely článku 3(4) dohody v deň, keď bola známka zapísaná do registra úradu pôvodu.
 
-        - (b) Ak úrad pôvodu dostane žiadosť o podanie medzinárodnej prihlášky podliehajúcej dohode a protokolu zároveň medzinárodnému úradu ešte predtým, ako ochranná známka, ktorej sa žiadosť týka, bola zapísaná do registra úradu pôvodu, táto medzinárodná prihláška sa bude považovať za medzinárodnú prihlášku podanú výlučne podľa protokolu a úrad pôvodu zruší vyznačenie každej zmluvnej strany viazanej dohodou, ak písmeno (c) neustanovuje inak.
+        - (b) Ak úrad pôvodu dostane žiadosť o podanie medzinárodnej prihlášky podliehajúcej dohode a protokolu zároveň medzinárodnému úradu ešte predtým, ako ochranná známka, ktorej sa žiadosť týka, bola zapísaná do registra úradu pôvodu, táto medzinárodná prihláška sa bude považovať za medzinárodnú prihlášku podanú výlučne podľa protokolu a úrad pôvodu zruší vyznačenie každej zmluvnej strany viazanej dohodou, ale nie protokolom, ak písmeno (c) neustanovuje inak.
 
-        - (c) Ak je k žiadosti podľa písmena (b) priložená výslovná požiadavka, aby sa prihláška považovala za medzinárodnú prihlášku podliehajúcu dohode a protokolu zároveň v okamihu zápisu ochrannej známky do registra úradu pôvodu, tento úrad nezruší vyznačenie každej zmluvnej strany viazanej dohodou. Žiadosť o podanie prihlášky sa bude považovať za prijatú úradom na účely článku 3(4) dohody a článku 3(4) protokolu v deň, keď bola známka zapísaná do registra úradu pôvodu.
+        - (c) Ak je k žiadosti podľa písmena (b) priložená výslovná požiadavka, aby sa prihláška považovala za medzinárodnú prihlášku podliehajúcu dohode a protokolu zároveň v okamihu zápisu ochrannej známky do registra úradu pôvodu, tento úrad nezruší vyznačenie každej zmluvnej strany viazanej dohodou, ale nie protokolom. Žiadosť o podanie prihlášky sa bude považovať za prijatú úradom na účely článku 3(4) dohody a článku 3(4) protokolu v deň, keď bola známka zapísaná do registra úradu pôvodu.
 
       - (2) Nedostatky, ktorých oprava prislúcha prihlasovateľovi
 
@@ -568,13 +562,13 @@
 
         - Vo všetkých ostatných prípadoch je dátum medzinárodného zápisu určený podľa článku 3(4) dohody a článku 3(4) protokolu.
 
-  - 4. KAPITOLA SKUTOČNOSTI TÝKAJÚCE SA ZMLUVNÝCH STRÁN OVPLYVŇUJÚCE MEDZINÁRODNÉ ZÁPISY
+  - 4. KAPITOLA SKUTOČNOSTI TÝKAJÚCE SA ZMLUVNÝCH STRÁN OVPLYVUJÚCE MEDZINÁRODNÉ ZÁPISY
 
     - Pravidlo 16 Lehota na oznámenie predbežného odmietnutia v prípade námietok
 
       - (1) Informácie o prípadných námietkach
 
-        - (a) Ak zmluvná strana urobila vyhlásenie podľa článku 5(2) (b) a (c) prvej vety protokolu, úrad zmluvnej strany bude informovať medzinárodný úrad o čísle a mene majiteľa medzinárodného zápisu, ak je pri danom medzinárodnom zápise vyznačujúcom túto zmluvnú stranu zrejmé, že lehota na podanie námietky uplynie príliš neskoro na to, aby predbežné odmietnutie založené na námietkach bolo oznámené medzinárodnému úradu v 18-mesačnej lehote uvedenej v článku 5(2) (b).
+        - (a) S výhradou článku 9sexies(1)(b) protokolu, ak zmluvná strana urobila vyhlásenie podľa článku 5(2)(b) a (c) prvej vety protokolu, úrad zmluvnej strany bude informovať medzinárodný úrad o čísle a mene majiteľa medzinárodného zápisu, ak je pri danom medzinárodnom zápise vyznačujúcom túto zmluvnú stranu zrejmé, že lehota na podanie námietky uplynie príliš neskoro na to, aby predbežné odmietnutie založené na námietkach bolo oznámené medzinárodnému úradu v 18-mesačnej lehote uvedenej v článku 5(2)(b).
 
         - (b) Ak v čase oznámenia podľa písmena (a) sú známe dátumy začiatku a konca lehoty na podanie námietok, tieto dátumy treba uviesť v oznámení. Ak tieto dátumy nie sú v danom čase známe, oznámia sa medzinárodnému úradu najneskôr v tom istom čase ako každé oznámenie o predbežnom odmietnutí založenom na námietkach.
 
@@ -692,7 +686,7 @@
 
       - (2) Zmluvná strana vyznačená podľa protokolu
 
-        - (a) Odsek (1) sa rovnako použije v prípade oznámenia o predbežnom odmietnutí, ktoré oznámil úrad zmluvnej strany vyznačenej podľa protokolu, s tým, že lehotou podľa odseku (1)(a)(iii) sa rozumie lehota podľa článku 5(2)(a), (b) alebo (c)(ii) protokolu.
+        - (a) Odsek (1) sa rovnako použije v prípade oznámenia o predbežnom odmietnutí, ktoré oznámil úrad zmluvnej strany vyznačenej podľa protokolu, s tým, že lehotou podľa odseku (1)(a)(iii) sa rozumie lehota podľa článku 5(2)(a) alebo s výhradou článku 9sexies(1)(b) protokolu podľa článku 5(2)(b) alebo (c)(ii) protokolu.
 
         - (b) Odsek (1) sa použije pri vyznačení, či sa dodržala lehota, pred ktorej uplynutím úrad zmluvnej strany je povinný poskytnúť medzinárodnému úradu informácie podľa článku 5(2)(c)(i) protokolu. Ak sa takáto informácia poskytne po uplynutí tejto lehoty, platí, že sa neposkytla, a medzinárodný úrad o tom bude informovať úrad.
 
@@ -920,9 +914,9 @@
 
         - (a) Zmluvná strana môže byť vyznačená následne po medzinárodnom zápise (ďalej len „následné vyznačenie“), ak majiteľ v okamihu vyznačenia spĺňa náležitosti podľa článkov 1(2) a 2 dohody alebo článku 2 protokolu, aby mohol byť majiteľom medzinárodného zápisu.
 
-        - (b) Ak je zmluvná strana majiteľa viazaná dohodou, môže majiteľ vyznačiť v súlade s dohodou zmluvnú stranu, ktorá je dohodou viazaná.
+        - (b) Ak je zmluvná strana majiteľa viazaná dohodou, môže majiteľ vyznačiť v súlade s dohodou zmluvnú stranu, ktorá je dohodou viazaná, s podmienkou, že uvedené zmluvné strany nie sú viazané tiež protokolom.
 
-        - (c) Ak je zmluvná strana majiteľa viazaná protokolom, môže majiteľ vyznačiť v súlade s protokolom zmluvnú stranu, ktorá je viazaná protokolom, s podmienkou, že obe uvedené zmluvné strany nie sú viazané dohodou.
+        - (c) Ak je zmluvná strana majiteľa viazaná protokolom, môže majiteľ vyznačiť v súlade s protokolom zmluvnú stranu, ktorá je viazaná protokolom, bez ohľadu na to, či sú, alebo nie sú obidve strany tiež viazané dohodou.
 
       - (2) Podanie; formulár a podpis
 
@@ -1468,9 +1462,17 @@
 
         - (e) Medzinárodný úrad oznámi registračným úradom príslušných vyznačených zmluvných strán skutočnosť, že platba týkajúca sa druhej časti desaťročného obdobia sa uskutočnila, prípadne že sa neuskutočnila. Zároveň bude medzinárodný úrad informovať aj majiteľa.
 
-      - (4) Prechodné ustanovenia týkajúce sa jazykov
+      - (4) Prechodné ustanovenia týkajúce sa jazykov.
 
-      - Pravidlo 6, tak ako bolo v platnosti pred 1. aprílom 2004, sa použije na všetky medzinárodné prihlášky prijaté alebo v súlade s pravidlom 11(1)(a) alebo (c) považované za prijaté úradom pôvodu pred uvedeným dátumom, ako aj na každý z toho vyplývajúci medzinárodný zápis a každú s tým súvisiacu korešpondenciu. Pravidlo 6, tak ako bolo v platnosti pred 1. aprílom 2004, sa nepoužije na prvé následné vyznačenie podľa protokolu podané priamo na medzinárodný úrad alebo podané na úrad zmluvnej strany majiteľa v uvedenom alebo po uvedenom dátume za predpokladu, že by toto následné vyznačenie bolo zapísané do medzinárodného registra.
+        - (a) Pravidlo 6 v znení platnom pred 1. aprílom 2004 sa použije na všetky medzinárodné prihlášky podané pred uvedeným dátumom a na medzinárodné prihlášky podliehajúce výlučne dohode, podané v čase od uvedeného dátumu do 31. augusta 2008 vrátane, na každú s tým súvisiacu korešpondenciu a na akúkoľvek korešpondenciu, na zápis do medzinárodného registra alebo zverejnenie vo Vestníku vyplývajúce z medzinárodného zápisu, ak
+
+          - (i) medzinárodný zápis bol predmetom následného vyznačenia podľa protokolu v období medzi 1. aprílom 2004 a 31. augustom 2008 alebo
+
+          - (ii) medzinárodný zápis je predmetom následného vyznačenia k 1. septembru 2008 alebo po tomto dátume a
+
+          - (iii) následné vyznačenie je zapísané v medzinárodnom registri.
+
+        - (b) Na účely tohto odseku je medzinárodná prihláška považovaná za podanú k dátumu, keď je žiadosť o predloženie medzinárodnej prihlášky medzinárodnému úradu doručená alebo považovaná za doručenú úradom pôvodu podľa pravidla 11(1)(a) alebo (c) a medzinárodný zápis je považovaný za predmet následného vyznačenia k dátumu, keď bolo následné vyznačenie podané medzinárodnému úradu, ak je podané priamo majiteľom, alebo k dátumu, keď bola žiadosť na predloženie následného vyznačenia prijatá úradom zmluvnej strany majiteľa, ak je podaná týmto úradom.
 
     - Pravidlo 41 Administratívne pokyny
 
@@ -1496,7 +1498,7 @@
 
   - SADZOBNÍK POPLATKOV
 
-    - (platný od 1. januára 2006)
+    - (platný od 1. septembra 2008)
 
   - | | | švajčiarske franky
 
@@ -1508,9 +1510,9 @@
 
   - | | 1.1.1 ak žiadne vyhotovenie známky nie je vo farbe 1.1.2 ak niektoré z vyhotovení známky je vo farbe | 653 903
 
-  - | 1.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(b) dohody] | 73
+  - | 1.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(b) dohody] | 100
 
-  - | 1.3 | Doplnkový poplatok za vyznačenie každej zmluvnej krajiny [článok 8(2)(c) dohody] | 73
+  - | 1.3 | Doplnkový poplatok za vyznačenie každej zmluvnej krajiny [článok 8(2)(c) dohody] | 100
 
   - 2. | Medzinárodná prihláška podliehajúca výlučne Protokolu | |
 
@@ -1522,11 +1524,11 @@
 
   - | | 2.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
 
-  - | 2.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(ii) protokolu] okrem prípadu, keď sú vyznačené výlučne zmluvné strany,ktorých povinnosťou je zaplatiť individuálne poplatky (pozri 2.4)[článok 8(7)(a)(i) protokolu] | 73
+  - | 2.2 | Dodatkový poplatok za každú triedu výrobkov a služieb presahujúcu tri triedy [článok 8(2)(ii) protokolu] okrem prípadu, keď sú vyznačené výlučne zmluvné strany, za ktoré sa platia individuálne poplatky [pozri článok 8(7)(a)(i) protokolu] | 100
 
-  - | 2.3 | Doplnkový poplatok za vyznačenie každej zmluvnej strany [článok 8(2)(iii) protokolu]okrem prípadu, ak je vyznačená zmluvná strana, ktorej povinnosťou je platiť individuálny poplatok(pozri 2.4) [pozri článok 8(7)(a)(ii) protokolu] | 73
+  - | 2.3 | Doplnkový poplatok za vyznačenie každej zmluvnej strany [článok 8(2)(iii) protokolu] okrem prípadu, ak je vyznačená zmluvná strana, za ktorú sa platí individuálny poplatok (pozri bod 2.4) [pozri článok 8(7)(a)(ii) protokolu] | 100
 
-  - | 2.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálny poplatok(a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]; výšku individuálneho poplatku si určí každádotknutá zmluvná strana. |
+  - | 2.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, za ktorú sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu], s výnimkou, ak vyznačená zmluvná strana je štátom podliehajúcim (tiež) dohode a úrad pôvodu je úradom štátu podliehajúcim (tiež) dohode (za takúto zmluvnú stranu sa platí doplnkový poplatok): výšku individuálneho poplatku si určí každá dotknutá zmluvná strana |
 
   - 3. | Medzinárodná prihláška podliehajúca dohode a Protokolu | |
 
@@ -1538,11 +1540,11 @@
 
   - | | 3.1.2 ak niektoré z vyhotovení známky je vo farbe | 903
 
-  - | 3.2 | Dodatkový poplatok pre každú triedu výrobkov a služieb presahujúcu tri triedy | 73
+  - | 3.2 | Dodatkový poplatok pre každú triedu výrobkov a služieb presahujúcu tri triedy | 100
 
-  - | 3.3 | Doplnkové poplatky za vyznačenie každej zmluvnej strany, pri ktorej nie je povinnosťou platiť individuálny poplatok | 73
+  - | 3.3 | Doplnkové poplatky za vyznačenie každej zmluvnej strany, za ktorú sa neplatí individuálny poplatok (pozri bod 3.4) |
 
-  - | 3.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, pri ktorej sa platí individuálny poplatok [pozri článok 8(7)(a) protokolu] okrem prípadu, akje vyznačená krajina viazaná aj dohodou a úrad pôvodu je úradom v krajine, ktorá je viazaná takisto dohodou. V prípade takej krajiny sa platí doplnkovýpoplatok. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 3.4 | Individuálny poplatok za vyznačenie každej zmluvnej strany, za ktorú sa platí individuálny poplatok [pozri článok 8(7)(a) protokolu], okrem prípadu, ak je vyznačená zmluvná strana viazaná (tiež) dohodou a úrad pôvodu je úradom krajiny, ktorá je viazaná (tiež) dohodou (za takúto zmluvnú stranu sa platí doplnkový poplatok): výšku individuálneho poplatku si určí každá dotknutá zmluvná strana |
 
   - 4. | Nedostatky týkajúce sa zatriedenia výrobkov a služieb | |
 
@@ -1560,9 +1562,9 @@
 
   - | 5.1 | Základný poplatok | 300
 
-  - | 5.2 | Doplnkový poplatok za každú z vyznačených zmluvných strán uvedených v samotnej požiadavke, pričom pri tejto zmluvnej strane neexistuje povinnosť platiť individuálny poplatok (poplatokpokrýva zvyšnú časť obdobia v dĺžke desiatich rokov) | 73
+  - | 5.2 | Doplnkový poplatok za každú z vyznačených zmluvných strán uvedených v tej istej žiadosti, pričom za takúto zmluvnú stranu sa neplatí individuálny poplatok (pozri bod 5.3) | 100
 
-  - | 5.3 | Individuálny poplatok za každú z vyznačených zmluvných strán, pri ktorej sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 5.3 | Individuálny poplatok za každú z vyznačených zmluvných strán, za ktorú sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a)protokolu] s výnimkou, ak vyznačená zmluvná strana je štátom podliehajúcim (tiež) dohode a úrad pôvodu je úradom štátu podliehajúcim (tiež) dohode (za takúto zmluvnú stranu sa platí doplnkový poplatok): výšku individuálneho poplatku si určí každá dotknutá zmluvná strana |
 
   - 6. | Obnova | |
 
@@ -1570,11 +1572,11 @@
 
   - | 6.1 | Základný poplatok | 653
 
-  - | 6.2 | Dodatkový poplatok okrem prípadov, ak by sa obnova uskutočnila výlučne pre vyznačenúzmluvnú stranu, pri ktorej existuje povinnosť platiť individuálne poplatky | 73
+  - | 6.2 | Dodatkový poplatok okrem prípadov, ak by sa obnova uskutočnila výlučne pre vyznačenú zmluvnú stranu, za ktorú sa platia individuálne poplatky (pozri bod 6.4) | 100
 
-  - | 6.3 | Doplnkový poplatok za každú z vyznačených zmluvných strán, pri ktorej nieje povinnosťouplatiť individuálny poplatok | 73
+  - | 6.3 | Doplnkový poplatok za každú z vyznačených zmluvných strán, za ktorú sa neplatí individuálny poplatok (pozri bod 6.4) | 100
 
-  - | 6.4 | Individuálny poplatok na vyznačenie každej z vyznačených zmluvných strán, pri ktorej sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu]. Výšku individuálneho poplatku si určí každá dotknutá zmluvná strana. |
+  - | 6.4 | Individuálny poplatok za vyznačenie každej z vyznačených zmluvných strán, za ktorú sa platí individuálny poplatok (a nie doplnkový poplatok) [pozri článok 8(7)(a) protokolu] s výnimkou, ak vyznačená zmluvná strana je štátom podliehajúcim (tiež) dohode a úrad pôvodu je úradom štátu podliehajúcim (tiež) dohode (za takúto zmluvnú stranu sa platí doplnkový poplatok): výšku individuálneho poplatku si určí každá dotknutá zmluvná strana |
 
   - | 6.5 | Príplatok za využitie odkladnej lehoty | 50 % z výšky poplatkupodľa položky 6.1
 
