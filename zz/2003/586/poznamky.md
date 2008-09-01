@@ -30,6 +30,8 @@
 
 - 13) Napríklad § 30 a 31 Občianskeho súdneho poriadku, § 38 až 40a Trestného poriadku.
 
+- 13a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
+
 - 14) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) Napríklad § 25 Občianskeho súdneho poriadku, § 35 Trestného poriadku.
