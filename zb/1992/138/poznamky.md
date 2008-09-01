@@ -1,22 +1,12 @@
-- 1) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb.
+- 1) Príloha č. 2 položka 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
-- Vyhláška Štátnej komisie pre vedeckotechnický a investičný rozvoj č. 186/1990 Zb. o oprávnení na projektovú činnosť.
-
-- 2) § 23 a príloha č. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
-
-- § 2 a 5 vyhlášky č. 186/1990 Zb.
+- 2) § 3 ods. 1 písm. d) ôsmy bod zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 3) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
 
-- 4) § 3 ods. 1 písm. c) bod 8 zákona č. 455/1991 Zb.
-
-- 4a) § 14 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
-
-- § 4 písm. c) zákona č. 413/2002 Z. z. o sociálnom poistení.
-
 - 4b) § 44 ods. 2 a § 46b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
-- 5) § 847 a nasl. Občianskeho zákonníka.
+- 5) § 847 a nasl. Občianskeho zákonníka, § 104 až 107 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 6) Napr. § 635 ods. 3, § 638 ods. 1 a 2 a § 642 ods. 1 Občianskeho zákonníka.
 
@@ -32,7 +22,7 @@
 
 - 13) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
-- 13a) § 244 a nasl. Občianskeho súdneho poriadku.
+- 13a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 14) § 49 ods. 1 a 2 Trestného zákona.
 
