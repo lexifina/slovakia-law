@@ -6,8 +6,6 @@
 
 - 4) § 8 až 12 Obchodného zákonníka.
 
-- 5) § 3 zákona č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 6) § 99 ods. 1 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 7) § 2 ods. 1 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
