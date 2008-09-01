@@ -1,1 +1,0 @@
-- 1) Čl. 42 ods. 2 Ústavy Slovenskej republiky.
