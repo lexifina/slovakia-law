@@ -165,3 +165,7 @@
 - 27) Zákon č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 28) Zákon č. 254/2007 Z. z. o zrušení krajských úradov a o zmene a doplnení zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 263/2006 Z. z.
+
+- 29) § 15 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov a v znení neskorších predpisov.
+
+- 30) Napríklad nariadenie Európskeho parlamentu a Rady 1081/2006/ES z 5. júla 2006 o Európskom sociálnom fonde, ktorým sa zrušuje nariadenie 1784/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006), nariadenie Rady 1083/2006/ES z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie 1260/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006).
