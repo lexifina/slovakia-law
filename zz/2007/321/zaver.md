@@ -1,1 +1,0 @@
-Viera Tomanová v. r.
