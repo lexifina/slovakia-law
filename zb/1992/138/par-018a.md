@@ -1,18 +1,18 @@
 # § 18a Obsah registra
 
-(1) Do registra sa o hosťujúcom architektovi zapisujú tieto údaje:
+(1) Do registra sa zapisujú tieto údaje:
 
 - a) meno a priezvisko s titulmi v znení, v akom mu boli udelené,
 
 - b) dátum narodenia,
 
-- c) adresa pobytu v členskom štáte a adresa pobytu na území Slovenskej republiky,
+- c) adresa pobytu v domovskom členskom štáte a adresa pobytu na území Slovenskej republiky,
 
-- d) označenie a adresa sídla komory alebo iného registračného orgánu členského štátu, v ktorom je usadený,
+- d) označenie a adresa sídla regulačného orgánu domovského členského štátu,
 
 - e) údaje o vzdelaní a odbornej praxi,
 
-- f) rozsah oprávnenia podľa práva štátu, v ktorom je usadený,
+- f) rozsah oprávnenia podľa práva domovského členského štátu,
 
 - g) lehota, na ktorú je zapísaný v registri,
 
