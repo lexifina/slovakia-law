@@ -218,6 +218,16 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Ministerstvo zahraničných vecí
 
+    - Demokratická republika Svätého Tomáša a Princovho ostrova
+
+    - Kancelária ministra a konzulárne oddelenie Ministerstva zahraničných vecí, spolupráce a spoločenstiev
+
+    - Avenida Amilcar Cabral
+
+    - CP 201
+
+    - Săo Tomé
+
     - Dominika (Dominické spoločenstvo)
 
   - 1. „the Attorney General“
