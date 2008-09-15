@@ -2,6 +2,8 @@
 
 - 2) Čl. 36 písm. a) bod V nariadenia Rady (ES) č. 1698/2005 (Ú. v. EÚ L 277, 21. 10. 2005) v platnom znení.
 
+- 2a) § 2 ods. 2 písm. a) a d) Obchodného zákonníka.
+
 - 3) Nariadenie vlády Slovenskej republiky č. 245/2007 Z. z. o podmienkach výberu žiadostí o zaradenie do opatrenia životné podmienky zvierat.
 
 - 4) Čl. 2 písm. c) nariadenia Rady (ES) č. 1782/2003 z 29. septembra 2003, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov a ktorým sa menia a dopĺňajú nariadenia (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/94, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
