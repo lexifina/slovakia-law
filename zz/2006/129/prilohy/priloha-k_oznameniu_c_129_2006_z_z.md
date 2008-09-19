@@ -36,19 +36,17 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Andorrské kniežatstvo
 
-  - 1. Ministre/a d’Afers Exteriors, Cultura i Cooperació
+  - 1. ,El/la ministre/a ďAfers Exteriors
 
-  - 2. Ministre/a de Justícia i Interior
+  - 2. ,El/la ministre/a de Presidencia i Finances'
 
-  - 3. Ministre/a d’Economia
+  - 3. ,El/la ministre/a de Justícia i Interior'
 
-  - 4. Director/a d’afers bilaterals i Unió Europea
+  - 4. ,El/la director/a ďAfers Bilaterals, Consular i Unió Europea'
 
-  - 5. Director/a d’afers multilaterals i cooperació al desenvolupament
+  - 5. ,El/la director/a ďAfers Multilaterals i Cooperació'
 
-  - 6. Director/a d’afers jurídics i consulars
-
-  - 7. Cap d’Area d’afers generals del Ministeri d’Afers Exteriors, Cultura i Cooperació
+  - 6. ,El/la Cap ďÁrea ďAfers Generals i Jurídics del Ministeri ďAfers Exteriors'
 
     - Antigua a Barbuda
 
