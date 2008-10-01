@@ -2,9 +2,9 @@
 
 (1) Subjekt, ktorý dočasne nemôže použiť pokladnicu z dôvodov uvedených v § 3a, môže použiť
 
-- a) vlastnú náhradnú pokladnicu, na ktorú bol vydaný certifikát<sup>3</sup>) a daňový kód pridelený správcom dane a ktorá nemá určené stále miesto prevádzky,
+- a) vlastnú náhradnú pokladnicu, na ktorú bolo výrobcom, jeho splnomocnencom alebo dovozcom vydané vyhlásenie o zhode s technickými predpismi<sup>3</sup>) a akreditovanou osobou<sup>3</sup>) vydaný certifikát o splnení požiadaviek vyplývajúcich z tejto vyhlášky, ktorej bol pridelený daňový kód pokladnice a ktorá nemá určené stále miesto prevádzky,
 
-- b) náhradnú pokladnicu, na ktorú bol vydaný certifikát,<sup>3</sup>) ktorá má daňový kód a ktorú poskytne servisná organizácia.
+- b) náhradnú pokladnicu, na ktorú bolo výrobcom, jeho splnomocnencom alebo dovozcom vydané vyhlásenie o zhode s technickými predpismi<sup>3</sup>) a akreditovanou osobou<sup>3</sup>) vydaný certifikát o splnení požiadaviek vyplývajúcich z tejto vyhlášky, ktorej bol pridelený daňový kód pokladnice a ktorú poskytne servisná organizácia.
 
 (2) Subjekt zaznačí v knihe pokladnice tej pokladnice, ktorá je mimo prevádzky, obdobie dočasného použitia náhradnej pokladnice (vlastnej alebo poskytnutej od servisnej organizácie) podľa § 3a ods. 3.
 
