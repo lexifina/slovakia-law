@@ -52,6 +52,10 @@
 
 - 8b) Napríklad § 4 písm. c) zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
+- 8c) § 8a ods. 4 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+
+- 8d) § 250zfa ods. 6 Občianskeho súdneho poriadku.
+
 - 9) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 9a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
