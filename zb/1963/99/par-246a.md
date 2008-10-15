@@ -5,3 +5,5 @@
 (2) V konaní podľa tretej hlavy tejto časti je miestne príslušný všeobecný súd navrhovateľa alebo krajský súd, v ktorého obvode je tento súd.
 
 (3) Namiesto súdu príslušného podľa odseku 2 je na konanie príslušný súd, v obvode ktorého je nehnuteľnosť, ak sa konanie týka práva k nej.
+
+(4) Ak preskúmanie zákonnosti rozhodnutia a postupu správneho orgánu je už predmetom konania začatého na súde príslušnom podľa všeobecného súdu navrhovateľa, na konanie o žalobe prokurátora je príslušný krajský súd, v ktorého obvode je všeobecný súd navrhovateľa.

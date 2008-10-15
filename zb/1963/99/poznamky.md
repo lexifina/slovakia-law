@@ -12,6 +12,8 @@
 
 - 6) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
+- 6b) § 194 ods. 1 Exekučného poriadku.
+
 - 7) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
 - Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 001, 4.1. 2003).
@@ -22,6 +24,8 @@
 
 - 10) § 22 ods. 6 zákona č. 136/2001 Z. z. v znení zákona č. 204/2004 Z. z.
 
+- 10a) Napríklad Obchodný zákonník, zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 11) § 108 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 12) Čl. 234 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
@@ -30,15 +34,25 @@
 
 - 13a) § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe.
 
+- 13aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 861/2007 z 11. júla 2007, ktorým sa ustanovuje Európske konanie vo veciach s nízkou hodnotou sporu.
+
 - 14) § 161 ods. 5 Obchodného zákonníka.
 
 - 15) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení vyhlášky Ministerstva spravodlivosti Slovenskej repubilky č. 279/2005 Z. z.
 
 - 16) § 12 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov.
 
-- 17) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov v znení zákona č. 526/2002 Z. z.
+- 16a) Napríklad zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 62 ods. 3 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006.
+
+- 17) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 18) § 150 Občianskeho zákonníka.
+
+- 18a) § 707 ods. 2 Občianskeho zákonníka.
+
+- § 22 a 23 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 19) § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv do katastra nehnuteľností (katastrálny zákon) v znení neskorších predpisov.
 
@@ -53,6 +67,8 @@
 - 23) § 52 ods. 6, § 55 ods. 2, § 98 až 104 zákona č. 36/2005 Z. z.
 
 - 24) § 102 ods. 1 zákona č. 36/2005 Z. z.
+
+- 24a) § 73k zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 25) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -85,6 +101,10 @@
 - 35) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
 
 - 36) Zákon č. 85/2005 Z. z. o politických stranách a politických hnutiach.
+
+- 36a) Čl. 68 Ústavy Slovenskej republiky. § 6 ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov. § 8 ods. 1 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+
+- 36b) Čl. 71 ods. 2 Ústavy Slovenskej republiky.§ 6 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.§ 8 ods. 2 zákona č. 302/2001 Z. z. v znení neskorších predpisov.
 
 - 37) Zákon č. 65/2001 Z. z. v znení neskorších predpisov.
 

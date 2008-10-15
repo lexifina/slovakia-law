@@ -20,4 +20,6 @@
 
 - b) v spore vzniknutom z medzinárodného obchodného styku,
 
-- c) v spore, ktorý účastníci nemôžu skončiť súdnym zmierom.
+- c) v spore, ktorý účastníci nemôžu skončiť súdnym zmierom,
+
+- d) v spore, v ktorom sa uplatňuje právo na zaplatenie peňažnej sumy zo spotrebiteľskej zmluvy a odporcom je spotrebiteľ, ak zmluva obsahuje neprijateľné podmienky.

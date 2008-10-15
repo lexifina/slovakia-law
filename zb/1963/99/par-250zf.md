@@ -2,7 +2,7 @@
 
 (1) Ak obecné zastupiteľstvo, mestské zastupiteľstvo, miestne zastupiteľstvo alebo zastupiteľstvo vyššieho územného celku nezruší na základe protestu prokurátora svoje uznesenie, ktoré je v rozpore so zákonom, môže prokurátor podať na súd návrh na zrušenie tohto uznesenia.
 
-(2) Účastníkmi konania sú obec, mesto, mestská časť alebo vyšší územný celok a ten, kto podal návrh na začatie konania.
+(2) Účastníkmi konania sú obec, mesto, mestská časť alebo vyšší územný celok a prokurátor.
 
 (3) Príslušný na rozhodnutie je krajský súd, v ktorého obvode sa nachádza obec, mesto, mestská časť alebo sídlo vyššieho územného celku.
 

@@ -2,7 +2,7 @@
 
 (1) Notár poverený súdom (§ 38 ods. 1) vydá so súhlasom účastníkov osvedčenie o dedičstve, ak
 
-- a) dedičstvo nadobudol jediný dedič, ktorý nesmie byť maloletý, ani osobou, ktorá musí mať opatrovníka podľa zákona,
+- a) dedičstvo nadobudol jediný dedič,
 
 - b) dedičstvo, ktoré nenadobudol žiadny dedič, pripadlo štátu,
 
@@ -24,15 +24,17 @@
 
 - f) ak ide o spoluvlastníkov, výšku ich spoluvlastníckych podielov vyjadrených zlomkom z celku,
 
-- g) ďalšie údaje, najmä údaje potrebné na zápis práva k nehnuteľnosti do katastra nehnuteľností,<sup>19</sup>)
+- g) údaj o odmene notára a o jeho hotových výdavkoch,
 
-- h) podpisy účastníkov a ich vyhlásenie, že súhlasia s obsahom osvedčenia,
+- h) ďalšie údaje, najmä údaje potrebné na zápis práva k nehnuteľnosti do katastra nehnuteľností,<sup>19</sup>)
 
-- i) poučenie o tom, že účastník konania môže do 15 dní od prevzatia osvedčenia o dedičstve požiadať súd o pokračovanie v konaní o dedičstve podľa § 175l až 175z,
+- i) podpisy účastníkov a ich vyhlásenie, že súhlasia s obsahom osvedčenia,
 
-- j) miesto a dátum vydania osvedčenia o dedičstve,
+- j) poučenie o tom, že účastník konania môže do 15 dní od prevzatia osvedčenia o dedičstve požiadať súd o pokračovanie v konaní o dedičstve podľa § 175l až 175z,
 
-- k) odtlačok úradnej pečiatky notára a jeho podpis.
+- k) miesto a dátum vydania osvedčenia o dedičstve,
+
+- l) odtlačok úradnej pečiatky notára a jeho podpis.
 
 (3) Pri vydávaní osvedčenia o dedičstve sa postupuje primerane podľa § 175b až 175q. Osvedčenie o dedičstve vydá notár prítomným účastníkom alebo ich zástupcom.
 
@@ -41,3 +43,5 @@
 (5) Účastník sa môže vzdať práva na podanie žiadosti podľa odseku 4. V tomto prípade dňom vzdania sa práva na podanie žiadosti všetkými účastníkmi nadobudne osvedčenie o dedičstve účinky právoplatného uznesenia o dedičstve.
 
 (6) Na opravu osvedčenia o dedičstve sa primerane použijú ustanovenia osobitného predpisu.<sup>20</sup>)
+
+(7) Písomnosti, ktoré je potrebné doručiť účastníkom konania, doručuje notár. To neplatí pre rozhodnutia, ktoré môže vydať iba súd.

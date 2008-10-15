@@ -8,4 +8,4 @@
 
 (4) Na opakované námietky zaujatosti podané z toho istého dôvodu súd neprihliadne, ak už o nich rozhodol nadriadený súd; v tomto prípade sa vec nadriadenému súdu nepredkladá.
 
-(5) Ak sa námietka zaujatosti týka len okolností, ktoré spočívajú v postupe sudcu v konaní o prejednávanej veci (§ 14 ods. 3), súd na námietku zaujatosti neprihliada; v tomto prípade sa vec nadriadenému súdu nepredkladá.
+(5) Ak sa námietka zaujatosti týka len okolností ustanovených v § 14 ods. 3, súd na námietku zaujatosti neprihliada; v tomto prípade sa vec nadriadenému súdu nepredkladá.
