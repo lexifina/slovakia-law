@@ -44,6 +44,8 @@
 
 - 10e) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 10ea) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení zákona č. 568/2007 Z. z.
+
 - 10f) § 152 ods. 1, § 159, § 167 ods. 2 a § 175zca ods. 4 Občianskeho súdneho poriadku.
 
 - 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
