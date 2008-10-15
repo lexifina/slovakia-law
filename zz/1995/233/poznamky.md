@@ -130,7 +130,9 @@
 
 - 17b) § 2 ods. 1 zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 17ba) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
+- 17ba) § 49a Občianskeho súdneho poriadku.
+
+- 17bb) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
 
 - 17c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
