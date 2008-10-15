@@ -52,6 +52,8 @@
 
 - 26) Čl. 4 nariadenia (ES) č. 1782/2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
 
+- 26a) Čl. 62 ods. 3 písm. e) nariadenia (ES) č. 1974/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
+
 - 27) Čl. 2 ods. 22 nariadenia (ES) č. 796/2004 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení.
 
 - 28) Čl. 2 ods. 23 nariadenia (ES) č. 796/2004 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení.
@@ -100,6 +102,8 @@
 
 - 49) Čl. 18 nariadenia (ES) č. 1975/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
 
+- 49a) Čl. 23 nariadenia (ES) č. 1975/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
+
 - 50) Čl. 16 nariadenia (ES) č. 1975/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
 
 - 51) Čl. 17 nariadenia (ES) č. 1975/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
@@ -107,6 +111,8 @@
 - 52) § 19 ods. 10 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 53) Nariadenie vlády Slovenskej republiky č. 239/2007 Z. z. o podmienkach výberu žiadostí o zaradenie do agroenvironmentálneho opatrenia.
+
+- 54) Čl. 7 a 11 nariadenia Komisie (ES) č. 1913/2006 z 20. decembra 2006, ktorým sa ustanovujú podrobné pravidlá uplatňovania poľnohospodárskeho menového systému pre euro v poľnohospodárstve a ktorým sa menia a dopĺňajú určité nariadenia (Ú. v. EÚ L 365, 21. 12. 2006) v znení nariadenia Komisie (ES) č. 873/2007 z 24. júla 2007 (Ú. v. EÚ L 193, 25. 7. 2007).
 
 - 1) § 17 písm. c) zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
 

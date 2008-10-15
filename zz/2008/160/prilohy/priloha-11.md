@@ -1,221 +1,141 @@
 Príloha č. 11 k nariadeniu vlády č. 160/2008 Z. z.
 
-A. Sumy agroenvironmentálnych platieb
+A. Sumy agroenvironmentálnych platieb na podopatrenie
 
-1. Agroenvironmentálne platby na podopatrenie základná podpora sú:
+1. Základná podpora:
 
-a) pre ornú pôdu 1 964 Sk/ha,
+a) pre ornú pôdu 55,41 eura/ha,
 
-b) pre trvalé trávne porasty 1 449 Sk/ha.
+b) pre trvalé trávne porasty 40,88 eura/ha.
 
-2. Agroenvironmentálne platby na podopatrenie integrovaná produkcia sú:
+2. Integrovaná produkcia:
 
-a) 18 944 Sk/ha vo vinohradníctve,
+a) 534,50 eura/ha vo vinohradníctve,
 
-b) 16 624 Sk/ha v ovocinárstve,
+b) 469 eur/ha v ovocinárstve,
 
-c) 14 966 Sk/ha pri zelenine.
+c) 422,26 eura/ha pri zelenine.
 
-3. Agroenvironmentálne platby na podopatrenie ekologické poľnohospodárstvo sú:
+3. Ekologické poľnohospodárstvo:
 
 a) v období konverzie
 
-1. 6 571 Sk/ha pre ornú pôdu,
+1. 185,40 eura/ha pre ornú pôdu,
 
-2. 14 694 Sk/ha na zeleninu, liečivé, koreninové a aromatické rastliny,
+2. 414,60 eura/ha na zeleninu, liečivé, koreninové a aromatické rastliny,
 
-3. 28 884 Sk/ha na ovocné sady a vinohrady,
+3. 814,96 eura/ha na ovocné sady a vinohrady,
 
-4. 4 139 Sk/ha pre trvalé trávne porasty,
+4. 116,78 eura/ha pre trvalé trávne porasty,
 
 b) v období po konverzii
 
-1. 4 600 Sk/ha pre ornú pôdu,
+1. 129,79 eura/ha pre ornú pôdu,
 
-2. 15 950 Sk/ha na zeleninu, liečivé, koreninové a aromatické rastliny,
+2. 320,23 eura/ha na zeleninu, liečivé, koreninové a aromatické rastliny,
 
-3. 11 350 Sk/ha na ovocné sady a vinohrady,
+3. 570,47 eura/ha na ovocné sady a vinohrady,
 
-4. 2 897 Sk/ha pre trvalé trávne porasty.
+4. 81,74 eura/ha pre trvalé trávne porasty.
 
-4. Agroenvironmentálne platby na podopatrenie ochrana proti erózii na ornej pôde sú:
+4. Ochrana proti erózii na ornej pôde:
 
-a) 4 750 Sk/ha pri zabezpečení stabilizačného osevného postupu,
+a) 134,02 eura/ha pri zabezpečení stabilizačného osevného postupu,
 
-b) 1 365 Sk/ha pri zabezpečení prijateľnej veľkosti parcely.
+b) 38,51 eura/ha pri zabezpečení prijateľnej veľkosti parcely.
 
-5. Agroenvironmentálne platby na podopatrenie ochrana proti erózii vo vinohradoch sú:
+5. Ochrana proti erózii vo vinohradoch:
 
-a) 2 185 Sk/ha pri priemernej svahovitosti dielu pôdneho bloku od 3<sup>o</sup> do 10<sup>o</sup>,
+a) 61,65 eura/ha pri priemernej svahovitosti dielu pôdneho bloku od 3<sup>o</sup> do 10<sup>o</sup>,
 
-b) 2 623 Sk/ha pri priemernej svahovitosti dielu pôdneho bloku od 10<sup>o</sup> do 18<sup>o</sup>,
+b) 74,01 eura/ha pri priemernej svahovitosti dielu pôdneho bloku od 10<sup>o</sup> do 18<sup>o</sup>,
 
-c) 3 128 Sk/ha pri priemernej svahovitosti dielu pôdneho bloku nad 18<sup>o</sup>.
+c) 88,26 eura/ha pri priemernej svahovitosti dielu pôdneho bloku nad 18<sup>o</sup>.
 
-6. Agroenvironmentálne platby na podopatrenie ochrana proti erózii v ovocných sadoch sú:
+6. Ochrana proti erózii v ovocných sadoch:
 
-a) 2 185 Sk/ha pri priemernej svahovitosti dielu pôdneho bloku od 3<sup>o</sup> do 10<sup>o</sup>,
+a) 61,65 eura/ha pri priemernej svahovitosti dielu pôdneho bloku od 3<sup>o</sup> do 10<sup>o</sup>,
 
-b) 2 623 Sk/ha pri priemernej svahovitosti dielu pôdneho bloku nad 10<sup>o</sup>.
+b) 74,01 eura/ha pri priemernej svahovitosti dielu pôdneho bloku nad 10<sup>o</sup>.
 
-7. Agroenvironmentálna platba podľa odsekov 5 a 6 sa neposkytne na plochy vinohradov, na ktoré má byť poskytnutá podpora podľa odseku 2 písm. a), alebo ovocných sadov, na ktoré má byť poskytnutá podpora<sup>1</sup>) podľa odseku 2 písm. b).
+7. Podľa bodu 5 sa neposkytne na plochy vinohradov, na ktoré sa poskytuje podpora podľa bodu 2 písm. a).
 
-8. Agroenvironmentálna platba na podopatrenie zatrávňovanie ornej pôdy je 4 355 Sk/ha.
+8. Zatrávňovanie ornej pôdy je 122,87 eura/ha.
 
-9. Agroenvironmentálne platby na podopatrenie ochrana biotopov trávnych porastov sú:
+9. Ochrana biotopov trávnych porastov:
 
-a) 3 188 Sk/ha na teplo a suchomilné trávne porasty,
+a) 89,95 eura/ha na teplo a suchomilné trávne porasty,
 
-b) 2 643 Sk/ha na mezofilné trávne porasty,
+b) 74,57 eura/ha na mezofilné trávne porasty,
 
-c) 4 568 Sk/ha na horské kosné lúky,
+c) 128,88 eura/ha na horské kosné lúky,
 
-d) 2 643 Sk/ha na vlhkomilné porasty nižších polôh,
+d) 74,57 eura/ha na vlhkomilné porasty nižších polôh,
 
-e) 1 869 Sk/ha na nížinné aluviálne lúky,
+e) 52,73 eura/ha na nížinné aluviálne lúky,
 
-f) 5 621 Sk/ha na vlhkomilné porasty vyšších polôh, slatinné a bezkolencové lúky,
+f) 158,60 eura/ha na vlhkomilné porasty vyšších polôh, slatinné a bezkolencové lúky,
 
-g) 5 342 Sk/ha na vysokohorské trávne porasty.
+g) 150,72 eura/ha na vysokohorské trávne porasty.
 
-10. Agroenvironmentálne platby na podopatrenie ochrana biotopov vybraných druhov vtákov sú:
+10. Ochrana biotopov vybraných druhov vtákov:
 
 a) nížinné a kotlinové oblasti
 
-1. 2 693 Sk/ha pre orné pôdy,
+1. 75,98 eura/ha pre orné pôdy,
 
-2. 1 445 Sk/ha pre trvalé trávne porasty,
+2. 40,77 eura/ha pre trvalé trávne porasty,
 
 b) horské a podhorské oblasti
 
-1. 2 028 Sk/ha pre orné pôdy,
+1. 57,22 eura/ha pre orné pôdy,
 
-2. 1 657 Sk/ha pre trvalé trávne porasty.
+2. 46,75 eura/ha pre trvalé trávne porasty.
 
-11. Agroenvironmentálne platby na podopatrenie chov a udržanie ohrozených druhov hospodárskych zvierat sú:
+11. Chov a udržanie ohrozených druhov hospodárskych zvierat sú:
 
-a) 7 088 Sk/VDJ na hovädzí dobytok, kone, sliepky a husi,
+a) 200 eur/DJ na hovädzí dobytok, kone, sliepky a husi,
 
-b) 7 070 Sk/VDJ na ovce a kozy.
+b) 199,50 eura/DJ na ovce a kozy.
 
 B. Agroenvironmentálne platby pri možnej kombinácii podopatrení
 
 Kombinácia podopatrení ekologického poľnohospodárstva s ochranou biotopov vybraných druhov vtákov
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov vybraných druhov vtákov pre trvalé trávne porasty | 4 845 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov vybraných druhov vtákov pre orné pôdy | 204,53 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 3 603 Sk/ha po konverzii EP
+| 148,92 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov vybraných druhov vtákov pre orné pôdy | 7 249 Sk/ha v období konverzie ekologického poľnohospodárstva (ďalej len „EP“)
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov vybraných druhov vtákov pre trvalé trávne porasty | 159,15 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 5 278 Sk/ha po konverzii EP
+| 101,66 eura/ha po konverzii ekologického poľnohospodárstva
 
 Kombinácia podopatrení ekologického poľnohospodárstva s ochranou biotopov trávnych porastov
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (A) | 5 800 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (A) | 163,65 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 4 558 Sk/ha po konverzii EP
+| 128,60 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (B) | 5 289 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (B) | 149,23 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 4 047 Sk/ha po konverzii EP
+| 114,18 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (C) | 7 204 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (C) | 203,26 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 5 962 Sk/ha po konverzii EP
+| 168,22 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (D) | 5 289 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (D) | 149,23 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 4 047 Sk/ha po konverzii EP
+| 114,18 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (E) | 4 505 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (E) | 127,11 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 3 263 Sk/ha po konverzii EP
+| 92,06 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (F) | 8 227 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (F) | 232,12 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 6 985 Sk/ha po konverzii EP
+| 197,08 eura/ha po konverzii ekologického poľnohospodárstva
 
-Maximálna platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (G) | 7 978 Sk/ha v období konverzie EP
+Najvyššia platba pri kombinácii ekologického poľnohospodárstva s ochranou biotopov trávnych porastov (G) | 225,10 eura/ha v období konverzie ekologického poľnohospodárstva
 
-| 6 736 Sk/ha po konverzii EP
-
-C: Rozdelenie chránených vtáčích území podľa typu územia
-
-| Názov územia | Typ územia
-
-SKCHVU001 | Boheľovské rybníky | nížinné a kotlinové
-
-SKCHVU002 | Bukovské vrchy | podhorské a horské
-
-SKCHVU003 | Cerová vrchovina – Porimavie | podhorské a horské
-
-SKCHVU004 | Dolné Pohronie | nížinné a kotlinové
-
-SKCHVU005 | Dolné Považie | nížinné a kotlinové
-
-SKCHVU006 | Dubnické štrkovisko | nížinné a kotlinové
-
-SKCHVU007 | Dunajské luhy | nížinné a kotlinové
-
-SKCHVU008 | Horná Orava | podhorské a horské
-
-SKCHVU009 | Košická kotlina | nížinné a kotlinové
-
-SKCHVU010 | Kráľová | nížinné a kotlinové
-
-SKCHVU011 | Laborecká vrchovina | podhorské a horské
-
-SKCHVU012 | Lehnice | nížinné a kotlinové
-
-SKCHVU013 | Malá Fatra | podhorské a horské
-
-SKCHVU014 | Malé Karpaty | podhorské a horské
-
-SKCHVU015 | Medzibodrožie | nížinné a kotlinové
-
-SKCHVU016 | Záhorské Pomoravie | nížinné a kotlinové
-
-SKCHVU017 | Muránska planina – Stolica | podhorské a horské
-
-SKCHVU018 | Nízke Tatry | podhorské a horské
-
-SKCHVU019 | Ostrovné lúky | nížinné a kotlinové
-
-SKCHVU020 | Parížske močiare | nížinné a kotlinové
-
-SKCHVU021 | Poiplie | nížinné a kotlinové
-
-SKCHVU022 | Poľana | podhorské a horské
-
-SKCHVU023 | Úľanská mokraď | nížinné a kotlinové
-
-SKCHVU024 | Senianske rybníky | nížinné a kotlinové
-
-SKCHVU025 | Slanské vrchy | podhorské a horské
-
-SKCHVU026 | Sĺňava | nížinné a kotlinové
-
-SKCHVU027 | Slovenský kras | podhorské a horské
-
-SKCHVU028 | Strážovské vrchy | podhorské a horské
-
-SKCHVU029 | Sysľovské polia | nížinné a kotlinové
-
-SKCHVU030 | Tatry | podhorské a horské
-
-SKCHVU031 | Tribeč | nížinné a kotlinové
-
-SKCHVU032 | Trnavské rybníky | nížinné a kotlinové
-
-SKCHVU033 | Veľká Fatra | podhorské a horské
-
-SKCHVU034 | Veľkoblahovské rybníky | nížinné a kotlinové
-
-SKCHVU035 | Vihorlatské vrchy | podhorské a horské
-
-SKCHVU036 | Volovské vrchy | podhorské a horské
-
-SKCHVU037 | Ondavská rovina | nížinné a kotlinové
-
-SKCHVU038 | Žitavský luh | nížinné a kotlinové
+| 190,05 eura/ha po konverzii ekologického poľnohospodárstva
