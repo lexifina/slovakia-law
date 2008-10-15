@@ -20,6 +20,8 @@
 
 - 10) Čl. 7 ods. 2 a čl. 120 ods. 2 Ústavy Slovenskej republiky.
 
+- 10a) § 250zfa ods. 6 Občianskeho súdneho poriadku.
+
 - 11) Zákon č. 431/2001 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 12) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
