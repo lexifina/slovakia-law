@@ -16,6 +16,8 @@
 
 - § 15 zákona č. 90/1998 Z. z. v znení neskorších predpisov.
 
+- 7a) § 625 Občianskeho zákonníka.
+
 - 8) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 58 až 66a zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
@@ -28,17 +30,23 @@
 
 - § 33 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
-- 9) § 52 až 60 Občianskeho zákonníka.
+- 9) § 52 až 54 Občianskeho zákonníka.
+
+- 9a) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva hospodárstva Slovenskej republiky č. 97/2008 Z. z. o podrobnostiach duálneho zobrazovania pre oblasť ochrany spotrebiteľov.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) Napríklad § 10 a 11 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov, výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.).
 
+- 11a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
 - 12) Napríklad zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov.
 
-- 13) § 5 ods. 1 písm. k) zákona č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov.
+- 12a) § 2 ods. 1 písm. g) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
-- § 5 ods. 1 písm. j) zákona č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
+- 13) § 5 ods. 1 písm. l) zákona č. 16/2004 Z. z. o Slovenskej televízii v znení zákona č. 220/2007 Z. z.
+
+- § 5 ods. 1 písm. j) zákona č. 619/2003 Z. z. o Slovenskom rozhlase.
 
 - 14) § 623 Občianskeho zákonníka.
 
@@ -50,19 +58,71 @@
 
 - 18) § 3 zákona č. 142/2000 Z. z.
 
+- 18a) Napríklad vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení v znení neskorších predpisov.
+
+- 18b) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18c) § 13 zákona č. 18/1996 Z. z.
+
 - 19) § 17 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 19a) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
 
 - 20) § 2 ods. 1 písm. a) zákona č. 178/1998 Z. z. v znení zákona č. 524/2005 Z. z.
 
 - 21) § 3 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 22) § 625 Občianskeho zákonníka.
+- 22) § 622 a 623 Občianskeho zákonníka.
+
+- 22a) § 9 zákona č. 108/2000 Z. z. v znení neskorších predpisov.
+
+- 22b) Napríklad § 44 zákona č. 610/2003 Z. z. o elektronických komunikáciách, § 66 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z., § 741i Občianskeho zákonníka, § 30 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 22c) Zákon č. 294/1999 Z. z. o zodpovednosti za škodu spôsobenú vadným výrobkom v znení zákona č. 451/2004 Z. z.
+
+- 22d) § 3 zákona č. 128/2002 Z. z.
+
+- § 64 zákona č. 140/1998 Z. z.§ 4 ods. 2 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.§ 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.§ 4 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.§ 21 ods. 1 písm. c) zákona č. 152/1995 Z. z.
 
 - 23) Nariadenie Európskeho parlamentu a Rady (ES) č. 1107/2006 z 5. júla 2006 o právach zdravotne postihnutých osôb a osôb so zníženou pohyblivosťou v leteckej doprave (Ú. v. EÚ L 204, 26. 7. 2006).
 
 - 24) Nariadenie Európskeho parlamentu a Rady (ES) č. 2006/2004 z 27. októbra 2004 o spolupráci medzi národnými orgánmi zodpovednými za vynucovanie právnych predpisov na ochranu spotrebiteľa („nariadenie o spolupráci v oblasti ochrany spotrebiteľa“) (Ú. v. EÚ L 364, 9. 12. 2004) v platnom znení.
 
+- 24a) Nariadenie Európskeho parlamentu a Rady (ES) č. 2006/2004 v znení neskorších predpisov.
+
+- 24b) Čl. 3 písm. b) nariadenia Európskeho parlamentu a Rady (ES) č. 2006/2004 v znení neskorších predpisov.
+
+- 24c) Zákon č. 147/2001 Z. z.
+
+- Zákon č. 108/2000 Z. z.
+
+- Zákon č. 258/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 22/2004 Z. z. v znení zákona č. 160/2005 Z. z.
+
+- Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 261/2004 z 11. februára 2004, ktorým sa ustanovujú spoločné pravidlá systému náhrad a pomoci cestujúcim pri odmietnutí nástupu do lietadla, v prípade zrušenia alebo veľkého meškania letov a ktorým sa zrušuje nariadenie (EHS) č. 295/91 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 8; Ú. v. EÚ L 46, 17. 2. 2004).
+
+- Zákon č. 140/1998 Z. z.
+
+- Zákon č. 308/2000 Z. z. v znení neskorších predpisov.
+
+- § 52 až 62 Občianskeho zákonníka.
+
+- 24d) Čl. 3 písm. k) nariadenia Európskeho parlamentu a Rady (ES) č. 2006/2004 v znení neskorších predpisov.
+
+- 24e) Čl. 3 písm. e) nariadenia Európskeho parlamentu a Rady (ES) č. 2006/2004 v znení neskorších predpisov.
+
 - 25) Nariadenie Rady (EHS) č. 339/93 z 8. februára 1993 o kontrole zhody výrobkov dovážaných z tretích krajín s právnymi predpismi o bezpečnosti výrobkov (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 12; Ú. v. ES L 40, 17. 2. 1993) v platnom znení.
+
+- 25a) § 2 písm. d) nariadenia vlády Slovenskej republiky č. 404/2007 Z. z. o všeobecnej bezpečnosti výrobkov.
+
+- 25b) § 2 písm. c) nariadenia vlády Slovenskej republiky č. 404/2007 Z. z.
+
+- 25c) § 5 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 108/2000 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 147/2001 Z. z. v znení neskorších predpisov, zákon č. 18/1996 Z. z. v znení neskorších predpisov, zákon č. 90/1998 Z. z. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 1107/2006.
 
