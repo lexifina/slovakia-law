@@ -1,5 +1,3 @@
-# § 4a
+# § 4a Prechodné ustanovenie účinné od 1. novembra 2008
 
-(1) Predmetom prevodu vlastníctva majetku štátu podľa § 1a môžu byť stavby a pozemky tvoriace so stavbami jeden funkčný celok, ktoré slúžili na ochranu štátnych hraníc na štátnej hranici so štátmi, ktoré sú dnes súčasťou Európskej únie.
-
-(2) Pri prevode vlastníctva majetku štátu podľa odseku 1 sa primerane použijú ustanovenia § 3 a 4.
+Na postup pri nakladaní s majetkom štátu, ktorý do 1. novembra 2008 bol ponúknutý obci alebo vyššiemu územnému celku, sa vzťahujú ustanovenia tohto zákona účinné do 1. novembra 2008.
