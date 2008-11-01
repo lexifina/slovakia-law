@@ -1,72 +1,88 @@
-- 1) § 2 ods. 2 písm. a) až c) Obchodného zákonníka.
+- 1) Čl. 3 ods. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006 z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a 2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006).
 
-- Čl. 2 ods. 10 nariadenia Európskeho parlamentu a Rady (ES) č. 648/2004 z 31. marca 2004 o detergentoch (Ú. v. EÚ L 104, 8. 4. 2004).
+- 2) Čl. 3 ods. 10 nariadenia (ES) č. 1907/2006.
 
-- 2) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.Zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 70/2000 Z. z.
+- 3) Čl. 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 689/2008 zo 17. júna 2008 o vývoze a dovoze nebezpečných chemikálií (Ú. v. EÚ L 204, 31. 7. 2008).
 
-- 3) Zákon č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon).
+- 4) Čl. 3 ods. 2 nariadenia (ES) č. 1907/2006.
 
-- 4) Zákon č. 136/2000 Z. z. o hnojivách.
+- Čl. 2 ods. 4 nariadenia (ES) č. 648/2004.
+
+- Čl. 3 ods. 2 nariadenia (ES) č. 689/2008.
 
 - 4a) Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov.
 
-- 5) § 15 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.§ 9 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+- 5) Čl. 3 ods. 3 nariadenia (ES) č. 1907/2006.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona Národnej rady Slovenskej republiky č. 290/1996 Z. z.Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.).
+- 6) Čl. 3 ods. 12 nariadenia (ES) č. 1907/2006.
 
-- 7) Zákon č. 238/1991 Zb. o odpadoch v znení zákona Národnej rady Slovenskej republiky č. 255/1993 Z. z.
+- 7) § 2 ods. 2 písm. a) až c) Obchodného zákonníka.
 
-- 8) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, vyhláška Slovenského banského úradu č. 71/1988 Zb. o výbušninách, zákon č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive v znení neskorších predpisov, zákon č.139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z., zákon č. 268/2000 Z. z. o zaobchádzaní s prekurzormi omamných látok a psychotropných látok a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 129/1998 Z. z. o zákaze chemických zbraní a o zmene a doplnení niektorých zákonov, zákon č. 76/1998 Z. z. o ochrane ozónovej vrstvy Zeme a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 8) Čl. 3 ods. 4, 7, 9, 11, 13, 14, 32 až 35 nariadenia (ES) č. 1907/2006.
 
-- 9) Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
+- Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
 
-- Vyhláška ministra zahraničných vecí Československej socialistickej republiky č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR).
+- 9) Nariadenie (ES) č. 1907/2006.
+
+- 10) Nariadenie (ES) č. 648/2004.
+
+- 11) Nariadenie (ES) č. 689/2008.
+
+- 12) Nariadenie (ES) č. 1907/2006.
+
+- Nariadenie (ES) č. 648/2004.
+
+- Nariadenie (ES) č. 689/2008.
+
+- 13) Čl. 2 nariadenia (ES) č. 1907/2006.
+
+- Čl. 3 nariadenia (ES) č. 689/2008.
+
+- 13a) Čl. 3 ods. 21 nariadenia (ES) č. 1907/2006.
+
+- 13b) Čl. 3 ods. 5 nariadenia (ES) č. 1907/2006.
+
+- 13c) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13d) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+
+- 13e) Zákon č. 271/2005 Z. z. o výrobe, uvádzaní na trh a používaní krmív (krmivársky zákon).
+
+- 13f) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+
+- 13g) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
-- 10) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 58/1997 Z. z.Vyhláška ministra zahraničných vecí Československej socialistickej republiky č. 8/1985 Zb. o Dohovore o medzinárodnej železničnej preprave (COTIF).
+- Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
+- Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov.
+- Zákon č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov.
 
-- 13) Zákon č. 435/2000 Z. z. o námornej plavbe.
+- Vyhláška ministra zahraničných vecí č. 8/1985 Zb. o Dohovore o medzinárodnej železničnej preprave (COTIF).
 
-- 14) § 99 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
+- Vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR).
+
+- 13h) Čl. 31 nariadenia (ES) č. 1907/2006.
+
+- 13i) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 584/2005 Z. z.
 
 - 14a) Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
-- 14b) Nariadenie Komisie (ES) č. 1179/94 z 25. mája 1994 týkajúce sa prvého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 131, 26. 5. 1994).
-
-- Nariadenie Komisie (ES) č. 2268/95 z 27. septembra 1995 týkajúce sa druhého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 231, 28. 9. 1995).
-
-- Nariadenie Komisie (ES) č. 143/97 z 27. januára 1997 týkajúce sa tretieho zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 025, 28. 1. 1997).
-
-- Nariadenie Komisie (ES) č. 2364/2000 z 25. októbra 2000 týkajúce sa štvrtého zoznamu prioritných látok, ako ich predpokladá nariadenie Komisie (EHS) č. 793/93 (Ú. v. ES L 273, 26. 10. 2000).
-
-- 15) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
-
 - 16) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
-
-- 17) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
-- 18) Nariadenie vlády Slovenskej republiky č. 395/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na hračky.
-
-- 19) § 22 až 29 zákona č. 264/1999 Z. z.
-
-- 20) Zákon Národnej rady Slovenskej republiky č. 115/1995 Z. z. o ochrane zvierat.
-
-- 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 22) § 17 až 20 Obchodného zákonníka.
 
 - 23) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
-- 23a) Príloha č. II nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004 o perzistentných organických znečisťujúcich látkach, ktorým sa mení a dopĺňa smernica 79/117/EHS (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8; Ú. v. EÚ L 158, 30. 4. 2004) v znení nariadenia Rady (ES) č. 1195/2006 z 18. júla 2006 (Ú. v. EÚ L 217, 8. 8. 2006).
+- 23a) Čl. 67 nariadenia (ES) č. 1907/2006.
 
-- 23b) Príloha č. I nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004.
+- Príloha č. I a II nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004 z 29. apríla 2004 o perzistentných organických znečisťujúcich látkach, ktorým sa mení a dopĺňa smernica 79/117/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 8; Ú. v. ES L 33, 8. 2. 1979) v platnom znení.
 
-- 23c) Čl. 2 ods. 10 nariadenia (ES) č. 648/2004.
+- 23b) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z., výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky, ktorým sa vydáva prvá časť a prvá, druhá a tretia hlava druhej časti Potravinového kódexu Slovenskej republiky (oznámenie č. 195/1996 Z. z.), zákon č. 76/1998 Z. z. o ochrane ozónovej vrstvy Zeme a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 129/1998 Z. z. o zákaze chemických zbraní a o zmene a doplnení niektorých zákonov, zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov, zákon č. 140/1998 Z. z., zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov, zákon č. 271/2005 Z. z., zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 23c) Čl. 12 a 13 nariadenia (ES) č. 1907/2006.
 
 - 23d) Čl. 11 nariadenia (ES) č. 648/2004.
 
@@ -75,6 +91,14 @@
 - 23f) Čl. 4 ods. 2 a čl. 5 nariadenia (ES) č. 648/2004.
 
 - 23fa) Nariadenie (ES) č. 648/2004.
+
+- 23faa) Napríklad zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov, § 7 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
+
+- 23fab) § 5 ods. 1, 2 a 5 a príloha č. 1 k zákonu č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23fac) Nariadenie vlády Slovenskej republiky č. 298/2007 Z. z., ktorým sa ustanovujú podrobnosti o činnostiach testovacích pracovísk, pracovných náplniach zamestnancov v nich zamestnaných a podrobnosti o činnostiach a pracovných náplniach inšpektorov vykonávajúcich inšpekcie a overovanie dodržiavania zásad správnej laboratórnej praxe.
+
+- 23fad) § 17 až 20 Obchodného zákonníka.
 
 - 23fb) § 591 až 600 Obchodného zákonníka.
 
@@ -92,30 +116,76 @@
 
 - Zákon č. 193/2005 Z. z. o rastlinolekárskej starostlivosti.
 
+- 23fca) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 23fcb) Čl. 9 nariadenia (ES) č. 689/2008.
+
+- 23fcc) Príloha I časť 2 a 3 nariadenia (ES) č. 689/2008.
+
 - 23g) Nariadenie Európskeho parlamentu a Rady (ES) č. 304/2003 z 28. januára 2003 o vývoze a dovoze nebezpečných chemikálií.
 
 - Rozhodnutie Rady 2003/106/ES z 19. decembra 2002 o schválení, v mene Európskeho spoločenstva, Rotterdamského dohovoru o udeľovaní predbežného súhlasu po predchádzajúcom oznámení pre určité nebezpečné chemikálie a prípravky na ochranu rastlín v medzinárodnom obchode (Ú. v. EÚ L 063, 6. 3. 2003).
 
-- 23h) Nariadenie (ES) č. 648/2004.
+- 23h) Čl. 121 nariadenia (ES) č. 1907/2006.
 
-- 23i) Čl. 15 ods. 1 nariadenia (ES) č. 648/2004.
+- Čl. 8 ods. 1 nariadenia (ES) č. 648/2004.
 
-- 23j) Čl. 12 nariadenia (ES) č. 648/2004.
+- 23ha) Čl. 3 ods. 18 a čl. 75 nariadenia (ES) č. 1907/2006.
 
-- 23k) Čl. 5 ods. 3 nariadenia (ES) č. 648/2004.
+- Čl. 4 nariadenia (ES) č. 689/2008
 
-- 23l) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+- 23hb) Čl. 122 až 124 nariadenia (ES) č. 1907/2006.
 
-- 23m) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 23i) Čl. 117 a čl. 121 nariadenia (ES) č. 1907/2006.
 
-- 23n) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+- 23j) § 2 ods. 1 písm. f) zákona č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení zákona č. 587/2004 Z. z.
 
-- 24) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
+- 23k) Čl. 129 nariadenia (ES) 1907/2006.
 
-- 24a) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a zmene a doplnení niektorých zákonov.
+- 23l) Čl. 9 ods. 3 a 8, čl. 16, čl. 20 ods. 4, čl. 22 ods. 1 a 2, čl. 36, čl. 41 až 45, čl. 46 ods. 1, 3 a 4, čl. 48 až 50, čl. 51 ods. 1 a 2, čl. 59 ods. 1 až 3 a 5, čl. 64 ods. 5, čl. 66 ods. 2, čl. 69 ods. 4 a 5, čl. 72 ods. 3, čl. 73 ods. 2, čl. 87 ods. 1, čl. 103 ods. 3, čl. 111, čl. 115, čl. 117 ods. 1, čl. 121 až 124 nariadenia (ES) č. 1907/2006.
 
-- 25) Napríklad zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 70/1986 Zb. o Slovenskej poľnohospodárskej a potravinárskej inšpekcii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
+- 23la) Čl. 85 ods. 1 až 3 nariadenia (ES) č. 1907/2006.
 
-- 25a) § 4 až 9 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 23m) Napríklad zákon č. 355/2007 Z. z., zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 525/2003 Z. z., zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 26) Napríklad nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 285/1995 Z. z., vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 33/1999 Z. z. o prípravkoch na ochranu rastlín.
+- 23n) Čl. 86 ods. 1 nariadenia (ES) č. 1907/2006.
+
+- 23o) Zákon č. 128/2002 Z. z.
+
+- 23p) Nariadenie (ES) č. 1907/2006.
+
+- Nariadenie (ES) č. 648/2004.
+
+- Nariadenie (ES) č. 689/2008.
+
+- Príloha č. I nariadenia (ES) č. 850/2004.
+
+- 23r) Čl. 125 nariadenia (ES) č. 1907/2006.
+
+- 23s) § 5, 6, 12, 30 a 54 zákona č. 355/2007 Z. z.
+
+- 23t) Príloha XV nariadenia (ES) č. 1907/2006.
+
+- 23u) Zákon č. 525/2003 Z. z. v znení neskorších predpisov.
+
+- 23v) § 9 zákona č. 525/2003 Z. z. v znení neskorších predpisov.
+
+- 23w) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23x) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 23y) § 40 a 41 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 23z) Nariadenie (ES) č. 1907/2006.
+
+- Nariadenie (ES) č. 689/2008.
+
+- 24) Čl. 3 ods. 20 nariadenia (ES) č. 1907/2006.
+
+- 25) Čl. 67 nariadenia (ES) č. 1907/2006.
+
+- Príloha XVII nariadenia č. 1907/2006.
+
+- Čl. 3 nariadenia (ES) č. 850/2004.
+
+- 26) § 3 písm. a) zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov.

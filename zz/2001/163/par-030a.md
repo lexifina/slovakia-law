@@ -1,6 +1,6 @@
 # § 30a Testovacie pracovisko
 
-(1) Testovacie pracovisko podľa § 2 písm. l, ktoré chce požiadať o vydanie osvedčenia o dodržiavaní zásad správnej laboratórnej praxe (ďalej len „osvedčenie"), musí mať organizačnú štruktúru, v rámci ktorej zabezpečuje dodržiavanie zásad správnej laboratórnej praxe, vrátane
+(1) Testovacie pracovisko podľa § 2 písm. c), ktoré chce požiadať o vydanie osvedčenia o dodržiavaní zásad správnej laboratórnej praxe (ďalej len „osvedčenie"), musí mať organizačnú štruktúru, v rámci ktorej zabezpečuje dodržiavanie zásad správnej laboratórnej praxe, vrátane
 
 - a) prehľadu o osobách, ktoré zabezpečujú povinnosti vedenia testovacieho pracoviska a chod testovacieho pracoviska, vrátane prehľadu o vedúcich neklinických štúdií a hlavných výskumníkoch a opis ich pracovnej náplne,
 
