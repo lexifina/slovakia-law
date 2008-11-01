@@ -2,9 +2,11 @@
 
 - 1a) Nariadenie vlády Slovenskej republiky č. 180/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a o postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
 
-- 1b) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
+- 1c) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 51/1993 Z. z. o štandarde prezidenta Slovenskej republiky.
+
+- 1b) Napríklad Medzinárodný dohovor o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov, Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
@@ -20,9 +22,21 @@
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 95/2000 Z. z., § 132 až 138 Zákonníka práce v znení neskorších predpisov.
 
-- 6a) Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+- 6a) Kapitola XI Medzinárodného dohovoru o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 6b) Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
 - 7) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov.
+
+- 7a) Príloha I Medzinárodného dohovoru o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 7b) Príloha II Medzinárodného dohovoru o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 7c) Čl. 2 Medzinárodného dohovoru o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 7d) Medzinárodný dohovor o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 7e) Časť III oddiel 2 Dohovoru Organizácie spojených národov o morskom práve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 242/1996 Z. z.).
 
 - 8) Trestný poriadok.
 

@@ -19,3 +19,5 @@ Príloha k zákonu č. 435/2000 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2001/96/ES zo 4. decembra 2001 stanovujúca harmonizované požiadavky a postupy pri bezpečnej nakládke a vykládke lode na hromadný náklad (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 6; Ú. v. ES L 13, 16. 1. 2002) v znení smernice Európskeho parlamentu a Rady 2002/84/ES z 5. novembra 2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 7; Ú. v. ES L 324, 29. 11. 2002).
 
   - 9. Smernica Európskeho parlamentu a Rady 2005/45/ES zo 7. septembra 2005 o vzájomnom uznávaní osvedčení námorníkov vydávaných v členských štátoch a o zmene a doplnení smernice 2001/25/ES (Ú. v. EÚ L 255, 30. 9. 2005).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2005/35/ES zo 7. septembra 2005 o znečisťovaní mora z lodí a o zavedení sankcií za porušenia (Ú. v. EÚ L 255, 30. 9. 2005) v znení korigend (Ú. v. EÚ L 33, 4. 2. 2006 a Ú. v. EÚ L 105, 13. 4. 2006).
