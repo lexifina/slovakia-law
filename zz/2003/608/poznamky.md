@@ -14,4 +14,8 @@
 
 - 6a) § 117a zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 6b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 6c) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
 - 7) § 13 ods. 4 zákona č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č. 536/2004 Z. z.
