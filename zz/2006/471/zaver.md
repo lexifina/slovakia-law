@@ -1,1 +1,0 @@
-Ľubomír Jahnátek v. r.
