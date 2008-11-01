@@ -2552,6 +2552,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. každú ďalšiu kombináciu účinnej látky a typ výrobku na účely jej zaradenia medzi účinné látky vyhovujúce na zaradenie do biocídnych výrobkov alebo medzi účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 1 250 000 Sk
 
+    - k) vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh
+
+    - podľa § 33 ods. 2 zákona č. 217/2003 Z. z. ............................... 5 000,- Sk.
+
     - Položka 154
 
   - a) Vydanie úradného povolenia na dovoz alebo vývoz licencovaného tovaru (dovozná alebo vývozná licencia) okrem povolenia na dovoz alebo vývoz kontrolovaného tovaru v rámci autolimitačných medzivládnych dohôd, z hodnoty tovaru povolenej v licencii .............................................................................. | 0,1 % najmenej 1 000 Sk
