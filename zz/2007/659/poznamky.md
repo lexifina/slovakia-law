@@ -16,9 +16,11 @@
 
 - Čl. 1 písm. c) a čl. 3 nariadenia Rady (ES) č. 974/98.
 
-- 6) Čl. 123 ods. 5 a čl. 249, 253 a 254 Zmluvy o založení Európskeho spoločenstva v platnom znení.
+- 6) Čl. 123 ods. 5 a čl. 249, 253 a 254 Zmluvy o založení Európskeho spoločenstva v platnom znení. Nariadenie Rady (ES) č. 694/2008 z 8. júla 2008, ktorým sa mení a dopĺňa nariadenie (ES) č. 2866/98, pokiaľ ide o prevodný kurz eura pre Slovensko (Ú. v. EÚ L 195, 24. 7. 2008).
 
-- 7) Čl. 122 ods. 2 a čl. 249, 253 a 254 Zmluvy o založení Európskeho spoločenstva v platnom znení.
+- 7) Čl. 122 ods. 2 a čl. 249, 253 a 254 Zmluvy o založení Európskeho spoločenstva v platnom znení. Rozhodnutie Rady č. 2008/608/ES z 8. júla 2008 v súlade s článkom 122 ods. 2 Zmluvy o prijatí jednotnej meny Slovenskom 1. januára 2009 (Ú. v. EÚ L 195, 24. 7. 2008).
+
+- Nariadenie Rady (ES) č. 693/2008 z 8. júla 2008, ktorým sa mení a dopĺňa nariadenie (ES) č. 974/98, pokiaľ ide o zavedenie eura na Slovensku (Ú. v. EÚ L 195, 24. 7. 2008).
 
 - 8) Napríklad § 1 ods. 1, § 2 ods. 1 a 2 a § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov, § 589 Občianskeho zákonníka, § 19 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 14 ods. 2 a 4 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave, § 13 ods. 2 písm. o) zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení zákona č. 658/2005 Z. z., § 37 ods. 1 a 3 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 41 ods. 1 a 2 písm. a) zákona č. 610/2003 Z. z. o elektronických komunikáciách, § 4 ods. 1 písm. c) a d), § 8 ods. 6 písm. c), § 14 a 16 ods. 1 písm. e) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -48,7 +50,7 @@
 
 - 21) Čl. 15 ods. 2 nariadenia Rady (ES) č. 974/98 v platnom znení.
 
-- 22) Napríklad § 89 zákona č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 1781/2006 z 15. novembra 2006 o údajoch o príkazcovi, ktoré sprevádzajú prevody finančných prostriedkov (Ú. v. EÚ L 345, 8. 12. 2006).
+- 22) Napríklad § 89 zákona č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov, nariadenie Európskeho parlamentu a Rady (ES) č. 1781/2006 z 15. novembra 2006 o údajoch o príkazcovi, ktoré sprevádzajú prevody finančných prostriedkov (Ú. v. EÚ L 345, 8. 12. 2006).
 
 - 23) § 1 písm. c), § 7 a 8 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
@@ -78,7 +80,7 @@
 
 - 36) Napríklad zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov, § 6 ods. 10 a 11 a § 17 ods. 1 písm. c) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 37) Napríklad § 58, § 59 ods. 1, § 93 ods. 2 a 3, § 105 ods. 1, § 108 ods. 1, § 109 ods. 1, § 154 ods. 1, § 157 ods. 1, § 162 ods. 3, § 223 ods. 1 až 3 Obchodného zákonníka, § 13 ods. 2 písm. e) zákona č. 111/1990 Zb. o štátnom podniku, § 1 ods. 1 a § 40 ods. 1 zákona č. 229/1992 Zb. o komoditných burzách, § 2 ods. 12 zákona č. 429/2002 Z. z. o burze cenných papierov, § 7 ods. 2 písm. a) zákona č. 483/2001 Z. z., § 54 ods. 11 až 13, § 61 ods. 5 písm. a) a § 100 ods. 2 písm. a) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 47 ods. 8 zákona č. 43/2004 Z. z., § 22 ods. 8 zákona č. 650/2004 Z. z., § 4 ods. 12 až 15 a § 11 ods. 8 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov, § 33 ods. 1 písm. a) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov, § 3 ods. 2 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+- 37) Napríklad § 58, § 59 ods. 1, § 93 ods. 2 a 3, § 105 ods. 1, § 108 ods. 1, § 109 ods. 1, § 154 ods. 1, § 157 ods. 1, § 162 ods. 3, § 223 ods. 1 až 3 Obchodného zákonníka, § 13 ods. 2 písm. e) zákona č. 111/1990 Zb. o štátnom podniku, § 5 ods. 1, § 44 ods. 3 a § 45 zákona č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, § 2 ods. 12 zákona č. 429/2002 Z. z. o burze cenných papierov, § 7 ods. 2 písm. a) zákona č. 483/2001 Z. z., § 54 ods. 11 až 13, § 61 ods. 5 písm. a) a § 100 ods. 2 písm. a) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 47 ods. 8 zákona č. 43/2004 Z. z., § 22 ods. 8 zákona č. 650/2004 Z. z., § 4 ods. 9 až 14 a § 6 ods. 8 a 9 zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov, § 33 ods. 1 písm. a) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov, § 3 ods. 2 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
 - 38) Napríklad § 5 ods. 1, 5 a 6 a § 7 ods. 16 zákona č. 530/2003 Z. z. v znení zákona č. 657/2007 Z. z., § 13 ods. 1 a ods. 2 písm. e) zákona č. 111/1990 Zb., § 12 ods. 7, § 99 ods. 3 písm. a) a l), § 103 ods. 2 písm. a) a § 107 ods. 4 písm. c) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 11 ods. 2 zákona č. 34/2002 Z. z.
 
@@ -94,11 +96,11 @@
 
 - 44) Napríklad § 12 ods. 7, § 111 ods. 1 písm. a) bod 5 a § 125a zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 184 ods. 3, § 202 ods. 2, § 212 a § 769 Obchodného zákonníka, § 3 ods. 5 tretia veta zákona č. 530/1990 Zb. v znení neskorších predpisov, § 22 ods. 1 a 2 a § 37 ods. 2, 3, 7, 10 a 11 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 45) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+- 45) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky. Časť 3.1.2 prílohy I usmernenia Európskej centrálnej banky č. ECB/2000/7 (2000/776/ES) z 31. augusta 2000 o nástrojoch a postupoch menovej politiky Eurosystému (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1) v platnom znení.
 
 - 46) § 28 ods. 2 a § 49ab ods. 6 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
 
-- 47) Napríklad § 18 zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z., § 4a zákona č. 507/2001 Z. z. v znení zákona č. 15/2004 Z. z., § 9 zákona č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, vyhláška Ministerstva financií Slovenskej republiky č. 284/2007 Z. z. o kolkových známkach, § 1 ods. 4 písm. b) vyhlášky Ministerstva financií Slovenskej republiky č. 182/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolnej známky na označovanie spotrebiteľského balenia cigariet a o jej grafických prvkoch a údajoch.
+- 47) Napríklad § 18 zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z., § 4a zákona č. 507/2001 Z. z. v znení zákona č. 15/2004 Z. z., § 9 zákona č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov, § 1 ods. 4 písm. b) vyhlášky Ministerstva financií Slovenskej republiky č. 182/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolnej známky na označovanie spotrebiteľského balenia cigariet a o jej grafických prvkoch a údajoch.
 
 - 48) Napríklad zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach v znení neskorších predpisov, § 14b druhá veta zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
@@ -117,3 +119,9 @@
 - 55) Napríklad § 3 ods. 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. v znení zákona č. 520/2003 Z. z., § 74 zákona č. 510/2002 Z. z.
 
 - 56) Napríklad § 15 až 17h zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, vyhláška Národnej banky Slovenska č. 465/2001 Z. z., ktorou sa ustanovujú podrobnosti o postupe pri prijímaní zákonných peňazí a pri nakladaní s nimi a podrobnosti o poskytovaní náhrad za necelé bankovky alebo za inak poškodené bankovky a mince.
+
+- 57) § 5 zákona č. 610/2003 Z. z. v znení neskorších predpisov.
+
+- 58) § 1 písm. g) a príloha MI-007 nariadenia vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách.
+
+- 59) § 1 písm. e) a príloha MI-005 nariadenia vlády Slovenskej republiky č. 294/2005 Z. z.
