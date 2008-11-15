@@ -279,3 +279,5 @@
 - 116) Zákon č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 117) Zákon č. 305/1999 Z. z. o zmiernení niektorých krívd osobám deportovaným do nacistických koncentračných táborov a zajateckých táborov v znení neskorších predpisov.
+
+- 118) § 123m zákona č. 43/2004 Z. z. v znení zákona č. 434/2008 Z. z.
