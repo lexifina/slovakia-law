@@ -1,0 +1,5 @@
+PRÍLOHA III
+
+- O preprave obstarávanej orgánmi verejnej správy Spojených štátov
+
+  - Letecké spoločnosti Spoločenstva majú právo prepravovať cestujúcich a náklad pravidelnými a charterovými letmi, v súvislosti s ktorými civilné ministerstvá a agentúry vlády Spojených štátov alebo organizácie zriadené vládou Spojených štátov 1) obstarajú dopravu pre seba alebo pri vykonávaní dojednania, na ktorého základe platbu uskutočňuje vláda alebo sa na platbu použijú finančné prostriedky poskytnuté vláde, alebo 2) zabezpečujú dopravu do zahraničnej krajiny alebo pre zahraničnú krajinu alebo medzinárodnú alebo inú organizáciu bez náhrady finančných prostriedkov, pričom ide o dopravu a) medzi ktorýmkoľvek bodom v Spojených štátoch a členskom štáte okrem – jedine v prípade cestujúcich – dopravy medzi bodmi, v súvislosti s ktorými existuje platná zmluva o výške cestovného za dopravu medzi dvoma mestami, alebo b) medzi ktorýmikoľvek dvoma bodmi mimo Spojených štátov. Tento odsek sa nevzťahuje na dopravu, ktorú zaobstará alebo hradí minister obrany alebo minister odvetvia obrany.
