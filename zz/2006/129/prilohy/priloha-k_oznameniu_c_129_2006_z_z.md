@@ -1168,13 +1168,15 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 2. Ministerstvo vnútra Ruskej federácie
 
-  - 3. Federálny register obyvateľov (Rosregistratsia) a jemu územne podriadené orgány Ruskej federácie
+  - 3. Ministerstvo spravodlivosti a jeho územné riaditeľstvá
 
-  - 4. matriky Ruskej federácie
+  - 4. Matriky Ruskej federácie
 
   - 5. Federálna inšpekcia pre školstvo a vedu
 
   - 6. Federálny archív a orgány poverené archivovaním v Ruskej federácii
+
+  - 7. Ministerstvo obrany Ruskej federácie pre listiny z archívu vojenskej služby v Armáde Ruskej federácie, Armáde ZSSR a Armáde Spoločenstva nezávislých štátov vydaných v Ruskej federácii
 
     - Salvádor
 
