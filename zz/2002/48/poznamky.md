@@ -6,13 +6,13 @@
 
 - 2a) § 2 ods. 1 zákona č. 298/1999 Z. z. o správe štátnych hraníc v znení zákona č. 515/2003 Z. z.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 3) § 5 ods. 6 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú.v. ES L 239, 22. 9. 2000) v platnom znení.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
-- 5a) § 10 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 5a) § 10 a 13b zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -63,6 +63,8 @@
 - 17b) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.
+
+- 18a) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
 - 19) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
 
