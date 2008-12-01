@@ -24,6 +24,8 @@
 
 - 6a) § 50 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
+- 6b) § 115 Občianskeho zákonníka.
+
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.

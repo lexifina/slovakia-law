@@ -7,3 +7,5 @@ Príloha č. 1 k zákonu č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.
   - 2. Smernica Rady 2003/96/ES z 27. októbra 2003 o reštrukturalizácii právneho rámca Spoločenstva pre zdaňovanie energetických výrobkov a elektriny (Ú. v. EÚ L 283, 31. 10. 2003) v znení smernice Rady 2004/74/ES z 29. apríla 2004 (Ú. v. EÚ L 195, 2. 6. 2004) a smernice Rady 2004/75/ES z 29. apríla 2004 (Ú. v. EÚ L 157, 30. 4. 2004).
 
   - 3. Smernica Rady 95/60/ES z 27. novembra 1995 o daňovom označovaní plynových olejov a petroleja (Ú. v. ES L 291, 6.12.1995).
+
+  - 4. Smernica Rady 2007/74/ES z 20. decembra 2007 o oslobodení tovaru, ktorý dovážajú osoby cestujúce z tretích krajín, od dane z pridanej hodnoty a spotrebnej dane (Ú. v. EÚ L 346, 29. 12. 2007).
