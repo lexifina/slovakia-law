@@ -12,7 +12,9 @@
 
 - e) uvedie nepravdivé údaje v žiadosti o výrobu destilátu,<sup>30</sup>)
 
-- f) poruší § 19 ods. 13.
+- f) poruší § 19 ods. 13,
+
+- g) použije lieh oslobodený od dane podľa § 7 ods. 2 písm. j) alebo § 7a ods. 2 na iný ako určený účel.
 
 (2) Colný úrad uloží pokutu
 
@@ -26,7 +28,9 @@
 
 - e) do 5 000 Sk za priestupok podľa odseku 1 písm. e),
 
-- f) vo výške dane vypočítanej ako súčin základnej sadzby dane a množstva liehu ponúkaného na predaj alebo inak uvádzaného na trh, najmenej však 10 000 Sk, za priestupok podľa odseku 1 písm. f).
+- f) vo výške dane vypočítanej ako súčin základnej sadzby dane a množstva liehu ponúkaného na predaj alebo inak uvádzaného na trh, najmenej však 10 000 Sk, za priestupok podľa odseku 1 písm. f),
+
+- g) za priestupok podľa odseku 1 písm. g) vo výške 50 % dane pripadajúcej na množstvo liehu oslobodeného od dane podľa § 7 ods. 2 písm. j) alebo § 7a ods. 2 použitého na iný ako určený účel, najmenej však 5 000 Sk.
 
 (3) Pri určovaní výšky pokuty prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 

@@ -46,8 +46,6 @@
 
 - 13) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskych spoločenstiev L 008 z 11/01/1996, strany 11 – 15) v znení neskorších zmien a doplnkov.
 
-- 14) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúceho systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
-
 - 15) § 2 ods. 2 písm. f) zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh.
 
 - 15a) § 2 ods. 2 písm. m) zákona č. 467/2002 Z. z.
