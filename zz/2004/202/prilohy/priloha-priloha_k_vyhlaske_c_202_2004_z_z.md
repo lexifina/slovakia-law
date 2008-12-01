@@ -22,9 +22,9 @@ Príloha k vyhláške č. 202/2004 Z. z.
 
 - 9. | dietylftalát | 500 mg | 50 g | 500 g | na použitie v kozmetickom priemysle |
 
-- 10. | etyl-terc-butyléter (ETBE) | 8g | 0,8 kg | 8kg | na výrobu ETBE ako komponentu pri vý- robe automobilových benzínov |
+- 10. | etyl-terc-butyléter (ETBE) | 8g | 0,8 kg | 8kg | na výrobu ETBE ako komponentu pri výrobe automobilových benzínov a na použitie ako komponentu pri výrobe zmesí automobilových benzínov a bioetanolu |
 
-- 11. | metyl-terc-butyl- éter (MTBE) | 8g | 0,8 kg | 8kg | na výrobu ETBE ako komponentu pri vý- robe automobilových benzínov |
+- 11. | metyl-terc-butyl- éter (MTBE) | 8g | 0,8 kg | 8kg | na výrobu ETBE ako komponentu pri výrobe automobilových benzínov a na použitie ako komponentu pri výrobe zmesí automobilových benzínov a bioetanolu |
 
 - 12. | fenol | 4g | 0,4 kg | 4kg | na výrobu fenolformaldehydových živíc, výrobu fotopapiera, filmov, korkových do- siek a tesnenia |
 
