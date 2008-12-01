@@ -141,3 +141,9 @@
 - 19) § 244 až 250k Občianskeho súdneho poriadku.
 
 - 20) § 102c zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 527/2006 Z. z.
+
+- 21) § 1 ods. 1 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 70/2008 Z. z.
+
+- 22) § 1 ods. 2 písm. f) a § 3 a nasl. zákona č. 659/2007 Z. z.
+
+- 23) § 1 ods. 2 písm. e) zákona č. 659/2007 Z. z.
