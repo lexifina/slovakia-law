@@ -504,17 +504,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 26
 
-  - Udelenie víza na hraničnom priechode.................................................................................................................60 EUR.
+  - a) Udelenie víza na hraničnom priechode ..... | 60 EUR
 
-  - Oslobodenie
+  - b) predĺženie krátkodobého víza na území Slovenskej republiky .... | 60 eur
 
-  - 1. Od poplatku podľa tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>)
+  - Oslobodenie 1. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - 2. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky.
+  - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. |
 
-  - Splnomocnenie
+  - 3. Od poplatku podľa písmena b) tejto položky sú oslobodení cudzinci, ktorí požiadali o predĺženie krátkodobého víza z dôvodu živelnej pohromy alebo z humanitárneho dôvodu. |
 
-  - Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť.
+  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť. |
 
     - Položka 27
 
@@ -3842,21 +3842,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - 2. Zastupiteľský úrad Slovenskej republiky môže vybrať popri poplatku aj náhradu skutočných výdavkov spojených s vykonaním úkonu; v odôvodnených prípadoch paušálnou sumou podľa určenia zastupiteľského úradu Slovenskej republiky.
 
+    - 3. Výška poplatku môže byť zmenená alebo môže byť upustené od jeho vybratia, ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná.
+
     - Položka 240
 
-  - a) žiadosť o udelenie letiskového tranzitného víza | 60 EUR,
+  - a) žiadosť o udelenie letiskového tranzitného víza ..... | 60 EUR,
 
-  - b) žiadosť o udelenie tranzitného víza | 60 EUR,
+  - b) žiadosť o udelenie tranzitného víza ..... | 60 EUR,
 
-  - c) žiadosť o udelenie krátkodobého víza | 60 EUR,
+  - c) žiadosť o udelenie krátkodobého víza ..... | 60 EUR,
 
-  - d) žiadosť o udelenie skupinového víza | 60 EUR + 1 EURO za každú osobu,
+  - d) žiadosť o udelenie skupinového víza..... | 60 EUR + 1 EURO za každú osobu,
 
-  - e) žiadosť o udelenie víza s obmedzenou územnou platnosťou | 60 EUR,
+  - e) žiadosť o udelenie víza s obmedzenou územnou platnosťou ..... | 60 EUR,
 
-  - f) žiadosť o udelenie dlhodobého víza | 5 000 Sk,
+  - f) žiadosť o udelenie dlhodobého víza ..... | 3 000 Sk,
 
-  - g) žiadosť o udelenie dlhodobého víza platného zároveň ako krátkodobé vízum | 5 000 Sk.
+  - g) žiadosť o udelenie dlhodobého víza platného zároveň ako krátkodobé vízum ..... | 3 000 Sk,
+
+  - h) žiadosť o udelenie dlhodobého víza v súvislosti s plnením záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv alebo ak je to v záujme Slovenskej republiky ..... | 1 000 Sk,
+
+  - i) žiadosť o udelenie dlhodobého víza v súvislosti s udelením povolenia na pobyt v Slovenskej republike ..... | 300 Sk.
 
   - Oslobodenie Od poplatku podľa tejto položky sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
@@ -3902,11 +3908,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 244
 
-  - a) Vyhotovenie cestovného preukazu ................................................................................ | 200 Sk
-
-  - b) Vykonanie zmeny v cestovnom doklade, za každý úkon ............................................ | 100 Sk
-
-  - c) Vystavenie sprievodného listu na prepravu telesných pozostatkov zosnulého .... | 300 Sk
+  - Vystavenie sprievodného listu na prepravu telesných pozostatkov zosnulého .... | 300 Sk
 
     - Položka 245
 
@@ -4086,15 +4088,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 265
 
-  - a) Vydanie potvrdenia o skončení vojenskej prezenčnej služby ...................................................................... | 300 Sk
+  - a) Vydanie potvrdenia o skončení vojenskej prezenčnej služby .................................................................... | 300 Sk
 
-  - b) Podanie žiadosti o výpis alebo odpis z registra trestov ................................................................................. | 150 Sk
+  - b) Podanie žiadosti o výpis alebo odpis z registra trestov ............................................................................. | 150 Sk
 
-  - c) Žiadosť o vydanie preukazu zahraničného Slováka<sup>47a</sup>) ................................................................................ | 300 Sk
+  - c) Žiadosť o vydanie osvedčenia Slováka žijúceho v zahraničí<sup>47a</sup>) ............................. | 300 Sk
 
-  - d) Vydanie preukazu zahraničného Slováka ako náhrady za stratený, zničený alebo poškodený preukaz | 500 Sk
+  - d) Vydanie osvedčenia Slováka žijúceho v zahraničí ako náhrady za stratené, zničené alebo poškodené osvedčenie........... | 500 Sk
 
-  - e) Vydanie nového preukazu zahraničného Slováka v prípade zápisu zmien a doplnkov ............................ | 300 Sk
+  - e) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 300 Sk
 
   - XIX. ČASŤ ŠTATISTIKA
 

@@ -312,6 +312,6 @@
 
 - 47) Nariadenie Rady (EHS) č. 1768/92 z 18. júna 1992 o vytvorení dodatkového ochranného osvedčenia na liečivá v platnom znení (Mimoriadne vydanie Ú. v. EÚ kap.13/ zv. 11; Ú. v. ES L 182, 2. 7. 1992).
 
-- 47a) Zákon č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+- 47a) § 7 až 9 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
