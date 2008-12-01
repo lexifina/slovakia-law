@@ -1,0 +1,3 @@
+# Čl. XVI
+
+Tento zákon nadobúda účinnosť 1. decembra 2008 okrem ustanovení čl. I, čl. II, čl. III bodu 1. [§ 53 ods. 1], bodu 2. [§ 53 ods. 2], bodu 6. [§ 250b ods. 4], bodu 7. [§ 250u], bodu 8. [§ 273 ods. 1] a bodu 9. [§ 279 ods. 1], čl. IV, čl. V bodu 1. [§ 12 ods. 1 písm. c)], bodu 2. [§ 71 ods. 1], bodu 3. [§ 104], bodu 4. [§ 115 ods. 2 písm. d)], bodu 5. [§ 115 ods. 2 písm. h)], bodu 6. [§ 122], bodu 7. [§ 192 ods. 1], bodu 8. [§ 221 ods. 1 písm. c)] a bodu 9. [§ 221 ods. 2 písm. b)], čl. VI, čl. VII, čl. VIII, čl. IX, čl. X, čl. XI bodu 1. [§ 11 ods. 1], bodu 2. [§ 11 ods. 2] a bodu 5. [§ 15c], čl. XII, čl. XIII, čl. XIV, čl. XV, ktoré nadobudnú účinnosť 1. januára 2009.
