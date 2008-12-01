@@ -91,3 +91,9 @@
 - 21) § 7 ods. 2 zákona č. 275/2006 Z. z.
 
 - 21a) § 7 a 8 zákona č. 275/2006 Z. z.
+
+- 22) § 10 a nasl. zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 70/2008 Z. z.
+
+- Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
+
+- 23) Napríklad § 10 ods. 3 a 4 , § 11 ods. 1 až 3, § 12 ods. 1 zákona č. 659/2007 Z. z.
