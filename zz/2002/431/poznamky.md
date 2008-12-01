@@ -130,4 +130,12 @@
 
 - 47a) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 47aa) § 1 ods. 2 písm. e) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 47ab) § 1 ods. 2 písm. c) zákona č. 659/2007 Z. z.
+
+- 47ac) Vyhláška Ministerstva financií Slovenskej republiky č. 75/2008 Z. z., ktorou sa ustanovujú pravidlá vykazovania, prepočtu a zaokrúhľovania peňažných súm v súvislosti s prechodom na menu euro na účely účtovníctva, daní a colné účely.
+
+- 47ad) § 1 ods. 2 písm. f) zákona č. 659/2007 Z. z.
+
 - 48) § 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
