@@ -1,10 +1,16 @@
 - 1) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
+- 1b) § 2 písm. h) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1c) § 2 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 1d) § 13a a 13b zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
+
 - 2) § 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení opatrenia Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 372/2004 Z. z.
 
 - 3) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 4) § 87 ods. 2 zákona č. 586/2003 Z. z. v znení zákona č. 327/2005 Z. z.
+- 4) § 87 ods. 2 a 3 zákona č. 586/2003 v znení neskorších predpisov.
 
 - 5) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
@@ -35,3 +41,5 @@
 - 18) § 142 až 151a Občianskeho súdneho poriadku.
 
 - 19) Čl. 59 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o súdnej právomoci, uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Ú. v. ES L 012, 16. 1. 2001).
+
+- 19a) § 19 ods. 1 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
