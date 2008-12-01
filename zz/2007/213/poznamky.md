@@ -10,6 +10,8 @@
 
 - 5) § 2 písm. a) zákona č. 274/2006 Z. z. o podpore v pôdohospodárstve a rozvoji vidieka.
 
+- 5a) Čl. 7 a 11 nariadenia Komisie (ES) č. 1913/2006 z 20. decembra 2006, ktorým sa ustanovujú podrobné pravidlá uplatňovania poľnohospodárskeho menového systému pre euro v poľnohospodárstve a ktorým sa menia a dopĺňajú určité nariadenia (Ú. v. EÚ L 365, 21. 12. 2006) v znení nariadenia Komisie (ES) č. 873/2007 z 24. júla 2007 (Ú. v. EÚ L 193, 25. 7. 2007).
+
 - 6) Čl. 2 písm. c) nariadenia Rady (ES) č. 1782/2003 z 29. septembra 2003, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov a ktorým sa menia a dopĺňajú nariadenia (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/94, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
 
 - § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
