@@ -60,6 +60,8 @@
 
 - 24) Napríklad vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
+- 24a) § 115 Občianskeho zákonníka.
+
 - 25) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách v znení neskorších predpisov.
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
