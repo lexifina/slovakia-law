@@ -1,6 +1,6 @@
 # § 20a
 
-(1) Rozhodnutie v konaní o azyle sa doručuje účastníkovi konania v mieste a čase určenom ministerstvom; ak má účastník konania zákonného zástupcu alebo opatrovníka, doručuje sa rozhodnutie len zákonnému zástupcovi alebo opatrovníkovi. Ak má osoba uvedená v prvej vete zástupcu na celé konanie na základe plnomocenstva, doručuje sa rozhodnutie len tomuto zástupcovi.
+(1) Rozhodnutie v konaní o azyle sa doručuje účastníkovi konania v mieste a čase určenom ministerstvom; ak má účastník konania zákonného zástupcu alebo opatrovníka, doručuje sa rozhodnutie len zákonnému zástupcovi alebo opatrovníkovi. Ak má osoba uvedená v prvej vete zástupcu na celé konanie na základe plnomocenstva, doručuje sa rozhodnutie len tomuto zástupcovi. Ak má účastník konania právo na poskytnutie právnej pomoci podľa osobitného predpisu,<sup>8d</sup>) doručuje sa rozhodnutie len Centru právnej pomoci.
 
 (2) Účastník konania, jeho zákonný zástupca alebo opatrovník, ktorému sa v konaní o azyle doručuje rozhodnutie, musí byť pri prevzatí rozhodnutia oboznámený s rozhodnutím v jazyku, ktorému rozumie.
 

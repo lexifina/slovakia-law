@@ -30,9 +30,11 @@
 
 - 8b) § 16 ods. 2 zákona č. 71/1967 Zb.
 
-- 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 8c) § 5 zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
-- 9a) § 58 ods. 1 a 2 zákona č. 48/2002 Z. z. v znení zákona č. 480/2002 Z. z.
+- 8d) § 24a zákona č. 327/2005 Z. z. v znení zákona č. 451/2008 Z. z.
+
+- 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 10) § 250l Občianskeho súdneho poriadku.
 
