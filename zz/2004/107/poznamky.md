@@ -14,7 +14,7 @@
 
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
-- 8) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady č. 918/83/EHS z 28. marca 1983 ustanovujúce systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
+- 8) § 115 Občianskeho zákonníka.
 
 - 9) Čl. 45, 46 a 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce v Európskom spoločenstve systém oslobodení od cla (Úradný vestník Európskych spoločenstiev, L 105, 23/04/1983, str. 1 – 37) v znení neskorších zmien a doplnkov.
 
