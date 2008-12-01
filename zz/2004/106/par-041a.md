@@ -8,7 +8,7 @@
 
 - c) nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakových výrobkov u nej zistených, ktoré sa u nej nachádzajú alebo ktoré sa u nej nachádzali, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovými výrobkami ako s vlastnými,
 
-- d) použije tabakové výrobky oslobodené od dane podľa § 7 písm. f) na iný ako určený účel.
+- d) použije tabakové výrobky oslobodené od dane podľa § 7 písm. f) alebo § 8 ods. 2 na iný ako určený účel.
 
 (2) Colný úrad uloží pokutu
 
@@ -18,7 +18,7 @@
 
 - c) za priestupok podľa odseku 1 písm. c) do 1 000 000 Sk, najmenej však 2 000 Sk, a také tabakové výrobky zabezpečí,<sup>3</sup>)
 
-- d) za priestupok podľa odseku 1 písm. d) vo výške 50 % dane pripadajúcej na množstvo tabakových výrobkov oslobodených od dane podľa § 7 písm. f) použitých na iný ako určený účel, najmenej však 5 000 Sk.
+- d) za priestupok podľa odseku 1 písm. d) vo výške 50 % dane pripadajúcej na množstvo tabakových výrobkov oslobodených od dane podľa § 7 písm. f) alebo § 8 ods. 2 použitých na iný ako určený účel, najmenej však 5 000 Sk.
 
 (3) Pri určovaní výšky pokuty podľa odseku 2 písm. a) a c) prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 
