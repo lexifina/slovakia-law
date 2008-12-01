@@ -16,7 +16,7 @@
 
 - 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
 
-- 8) Čl. 29 až 31 a čl. 45 až 49 nariadenia Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce systém Spoločenstva pre oslobodenie od cla (Ú. v. ES L 105, 23. 4. 1983) v platnom znení.
+- 8) § 115 Občianskeho zákonníka.
 
 - 9) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl v znení ďalších dodatkových protokolov.
 
