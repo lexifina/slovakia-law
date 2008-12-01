@@ -86,6 +86,8 @@
 
 - 30) § 181 Obchodného zákonníka.
 
+- 30a) § 2 a 3 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
+
 - 31) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 32) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
