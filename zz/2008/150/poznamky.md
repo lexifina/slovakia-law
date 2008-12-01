@@ -62,4 +62,4 @@
 
 - 31) Čl. 44 nariadenia Komisie (ES) č. 1974/2006.
 
-- 1) Čl. 31 ods. 3 nariadenia Komisie (ES) č. 1974/2006 z 15. decembra 2006, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1698/2005 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
+- 1) Čl. 31 ods. 3 nariadenia (ES) č. 1974/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
