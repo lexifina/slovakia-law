@@ -1,13 +1,15 @@
-Príloha č. 7 k nariadeniu vlády č. 155/2008 Z. z. VÝŠKA PLATIEB PRE OPATRENIE ŽIVOTNÉ PODMIENKY ZVIERAT
+Príloha č. 7 k nariadeniu vlády č. 155/2008 Z. z.
 
-1. Platba pre opatrenie zlepšenie životných podmienok v chove hydiny je 2 272 Sk/DJ.
+VÝŠKA PLATIEB NA OPATRENIE ŽIVOTNÉ PODMIENKY ZVIERAT
 
-2. Platba pre opatrenie zlepšenie prirodzeného správania zvierat voľným chovom ustajnených kráv je 2 488 Sk/DJ.
+1. Platba na opatrenie zlepšenie životných podmienok v chove hydiny je 64,10 eura/DJ.
 
-3. Platba pre opatrenie zlepšenie prirodzeného správania zvierat maštaľným výkrmom dobytka je 631 Sk/DJ.
+2. Platba na opatrenie zlepšenie prirodzeného správania zvierat voľným chovom ustajnených kráv je 70,20 eura/DJ.
 
-4. Platba pre opatrenie zlepšenie prirodzeného materského správania kráv je 10 129 Sk/DJ.
+3. Platba na opatrenie zlepšenie prirodzeného správania zvierat maštaľným výkrmom dobytka je 17,80 eura/DJ.
 
-5. Platba pre opatrenie zlepšenie životných podmienok v chove ošípaných je 3 657 Sk/DJ.
+4. Platba na opatrenie zlepšenie prirodzeného materského správania kráv je 285,80 eura/DJ.
 
-6. Platba pre opatrenie zlepšenie životných podmienok v chove oviec je 2 412 Sk/DJ.
+5. Platba na opatrenie zlepšenie životných podmienok v chove ošípaných je 103,20 eura/DJ.
+
+6. Platba na opatrenie zlepšenie životných podmienok v chove oviec je 68,05 eura/DJ.
