@@ -111,3 +111,13 @@
 - 39) Napríklad § 355 Obchodného zákonníka.
 
 - 40) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
+- 41) § 20 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 75/2008 Z. z., ktorou sa ustanovujú pravidlá vykazovania, prepočtu a zaokrúhľovania peňažných súm v súvislosti s prechodom na menu euro na účely účtovníctva, daní a colné účely.
+
+- 42) Vyhláška Ministerstva práce sociálnych vecí a rodiny Slovenskej republiky č. 251/2008 Z. z., ktorou sa ustanovujú ďalšie podrobné pravidlá pre duálne zobrazovanie a pre prepočty a zaokrúhľovanie cien, jednotkových cien, platieb a iných hodnôt pri prechode zo slovenskej meny na menu euro pre oblasť miezd, platov a ostatného odmeňovania za prácu, oblasť cestovných náhrad, oblasť služieb zamestnanosti, oblasť sociálneho poistenia a starobného dôchodkového sporenia, sociálnych dávok sociálnej pomoci, pomoci v hmotnej núdzi a inej sociálnej podpory a pre oblasť sociálnych služieb.
+
+- 43) Zákon č. 111/1990 Zb.
+
+- 44) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 45) § 11 ods. 5 zákona č. 659/2007 Z. z.
