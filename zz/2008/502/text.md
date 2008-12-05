@@ -1,0 +1,15 @@
+## 502
+
+OZNÁMENIE
+
+Ministerstva financií Slovenskej republiky
+
+Ministerstvo financií Slovenskej republiky vydalo podľa § 4 ods. 2 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov
+
+opatrenie z 27. novembra 2008 č. MF/24101/2008-74, ktorým sa mení a dopĺňa opatrenie Ministerstva financií Slovenskej republiky z 13. decembra 2007 č. MF/27076/2007-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky pre účtovné jednotky účtujúce v sústave jednoduchého účtovníctva, ktoré podnikajú alebo vykonávajú inú samostatnú zárobkovú činnosť, ak preukazujú svoje výdavky vynaložené na dosiahnutie, zabezpečenie a udržanie príjmov na účely zistenia základu dane z príjmov.
+
+Týmto opatrením sa mení a dopĺňa opatrenie Ministerstva financií Slovenskej republiky z 13. decembra 2007 č. MF/27076/2007-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky pre účtovné jednotky účtujúce v sústave jednoduchého účtovníctva, ktoré podnikajú alebo vykonávajú inú samostatnú zárobkovú činnosť, ak preukazujú svoje výdavky vynaložené na dosiahnutie, zabezpečenie a udržanie príjmov na účely zistenia základu dane z príjmov (oznámenie č. 628/2007 Z. z. )
+
+Opatrenie nadobúda účinnosť 5. decembra 2008 okrem bodov 2, 11, 14 až 20, bodu 22 § 23a ods. 3 až 5 a bodov 23 až 25, ktoré nadobúdajú účinnosť 1. januára 2009.
+
+Opatrenie je uverejnené vo Finančnom spravodajcovi č.11/2008 a možno doň nazrieť na Ministerstve financií Slovenskej republiky.
