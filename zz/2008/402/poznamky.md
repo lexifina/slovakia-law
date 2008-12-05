@@ -1,1 +1,0 @@
-- 1) Čl. 31 ods. 3 nariadenia (ES) č. 1974/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
