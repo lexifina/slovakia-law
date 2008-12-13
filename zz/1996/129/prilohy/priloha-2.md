@@ -33,3 +33,7 @@ Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 129/1996 Z. z. 
   - R 6 Beluša – Púchov – štátna hranica s Českou republikou
 
   - R 7 Bratislava – Nové Zámky – Lučenec
+
+  - R1 Banská Bystrica – Ružomberok
+
+  - R8 Partizánske – Topoľčany – Nitra
