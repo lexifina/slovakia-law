@@ -77,3 +77,7 @@
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
 - 32) § 151me Občianskeho zákonníka.
+
+- 33) § 72, 74, 76 a 77 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- § 16 ods. 3 až 7 a § 20 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
