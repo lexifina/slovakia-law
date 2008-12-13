@@ -150,6 +150,8 @@
 
 - 15) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 657/2004 Z. z. o tepelnej energetike, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
+- 15a) § 85 ods. 6 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 454/2007 Z. z.
+
 - 17) § 2 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 
 - 17a) Napríklad zákon č. 169/1949 Zb.,
