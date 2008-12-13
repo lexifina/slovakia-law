@@ -10,7 +10,7 @@
 
 - a) písomne oznámiť fondu a Národnej banke Slovenska presný dátum zmeny svojej účasti na systéme ochrany vkladov a preukázať im, že táto zmena sa uskutoční bez zníženia rozsahu ochrany vkladov v porovnaní s ochranou vkladov podľa tohto zákona,
 
-- b) písomne uzavrieť s každým vkladateľom, na vklady ktorého sa vzťahuje zmena systému ochrany vkladov, osobitnú zmluvu, ktorou sa upravia všetky dôsledky vyplývajúce pre vkladateľa a jeho vklady zo zmeny systému ochrany vkladov; ak sa vkladateľ rozhodne vybrať svoje vklady alebo previesť ich inde, banka je povinná umožniť mu to bez uplatňovania akýchkoľvek sankcií voči vkladateľovi, a to aj pri vkladoch, ktoré nie sú splatné,
+- b) každému vkladateľovi, na vklady ktorého sa vzťahuje zmena systému ochrany vkladov, doručiť osobitné písomné oznámenie o tejto zmene, ktoré musí obsahovať aj dátum tejto zmeny a informácie o všetkých dôsledkoch vyplývajúcich pre vkladateľa a jeho vklady zo zmeny systému ochrany vkladov; ak sa vkladateľ rozhodne vybrať svoje vklady alebo previesť ich inde, banka je povinná umožniť mu to bez uplatňovania akýchkoľvek sankcií voči vkladateľovi, a to aj pri vkladoch, ktoré nie sú splatné,
 
 - c) preukázateľne uhradiť fondu neuhradený ročný príspevok alebo neuhradenú časť ročného príspevku za kalendárny rok, v ktorom dochádza k zmene účasti banky na systéme ochrany vkladov podľa odseku 1,
 
