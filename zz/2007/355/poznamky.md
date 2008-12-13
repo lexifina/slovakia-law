@@ -40,6 +40,8 @@
 
 - 20) § 2 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
 
+- 20a) § 140b ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 540/2008 Z. z.
+
 - 21) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 22) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
