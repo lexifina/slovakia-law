@@ -30,6 +30,8 @@
 
 - 11) § 22 až 26 a 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 12b) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+
 - 12) § 11 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 13) Zákon č. 518/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov a o zmene niektorých zákonov.
