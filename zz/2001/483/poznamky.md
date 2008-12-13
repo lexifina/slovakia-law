@@ -190,6 +190,8 @@
 
 - 64) § 18 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
+- 64a) Napríklad § 8, § 28 ods. 2, § 69 a § 176 až 196 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
 - 65) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 66) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
@@ -317,3 +319,5 @@
 - 94) § 163 ods. 1 a 6 a § 163a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 95) Zákon č. 659/2007 Z. z.
+
+- 97) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
