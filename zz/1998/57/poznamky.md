@@ -80,6 +80,8 @@
 
 - 31) § 11 a 12 Trestného zákona v znení neskorších predpisov.
 
+- 31a) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
 - 32) § 4 ods. 2 a 3 zákona č. 428/2002 Z. z.
 
 - 33) Napríklad zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov a zákon č. 381/1997 Z. z. v znení neskorších predpisov.

@@ -14,4 +14,4 @@
 
 (3) K poskytovaným osobným údajom musia byť pripojené informácie o právoplatných rozhodnutiach orgánov činných v trestnom konaní, ak s týmito údajmi súvisia.
 
-(4) Do zahraničia možno poskytovať osobné údaje i bez písomnej žiadosti, ak tak ustanoví medzinárodná zmluva, ktorou je Slovenská republika viazaná.
+(4) Do zahraničia možno poskytovať osobné údaje i bez písomnej žiadosti, ak tak ustanovuje zákon alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná.
