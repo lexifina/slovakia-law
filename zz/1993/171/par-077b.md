@@ -2,7 +2,7 @@
 
 (1) Policajt je oprávnený pôsobiť na území iného štátu
 
-- a) podľa podmienok, v rozsahu a spôsobom ustanoveným medzinárodnou zmluvou, ktorou je Slovenská republika viazaná,
+- a) podľa podmienok, v rozsahu a spôsobom ustanoveným medzinárodnou zmluvou, ktorou je Slovenská republika viazaná alebo osobitným predpisom,<sup>28ja</sup>)
 
 - b) na základe rozhodnutia vlády Slovenskej republiky o účasti na mierových operáciách podľa rozhodnutia medzinárodnej organizácie, ktorej je Slovenská republika členom alebo s ktorou má uzatvorené príslušné dohody, alebo
 

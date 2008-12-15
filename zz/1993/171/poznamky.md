@@ -1,6 +1,6 @@
 - 1) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
-- 1a) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+- 1a) Trestný poriadok.
 
 - 1aa) Napríklad § 34 ods. 6 a 8 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19e ods. 1 a 3 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení zákona č. 458/2003 Z. z., § 55j ods. 1 a 3 zákona č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., § 25 ods. 2 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
 
@@ -16,11 +16,13 @@
 
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 4a) Napríklad § 105 až 111 Trestného poriadku.
+- 4a) Napríklad § 141 až 152 Trestného poriadku.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov v znení zákona č. 481/2002 Z. z.
 
-- 6) § 15a Trestného poriadku.
+- 6) § 14 Trestného poriadku.
+
+- 6a) § 10 ods. 8 písm. a) a b) a ods. 10 Trestného poriadku.
 
 - 7) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
@@ -28,21 +30,21 @@
 
 - 8) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
-- 8a) Napríklad § 52 Občianskeho súdneho poriadku v znení neskorších predpisov, § 90 ods. 3 a § 98 Trestného poriadku v znení neskorších predpisov, § 42 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 8a) Napríklad § 52 Občianskeho súdneho poriadku v znení neskorších predpisov, § 120 ods. 3 a § 128 Trestného poriadku, § 42 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 9) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 10a) § 742 zákona č. 40/1964 Zb. Občiansky zákonník v znení zákona č. 509/1991 Zb.
+- 10a) § 742 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 10aa) § 3 ods. 5 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 69/2000 Z. z.
 
 - 10ab) § 12 ods. 2 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. v znení zákona č. 69/2000 Z. z.
 
-- 11) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+- 10b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 11a) § 2 Obchodného zákonníka.
+- 11) § 2 Obchodného zákonníka.
 
 - 11b) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
@@ -54,7 +56,17 @@
 
 - 11bd) Napríklad Trestný poriadok.
 
-- 11c) § 89 ods. 14 Trestného zákona v znení neskorších predpisov.
+- 11be) § 76 ods. 1 písm. g) Občianskeho súdneho poriadku.
+
+- 11bf) § 1 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
+
+- 11bg) § 47 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
+
+- 11bh) § 75b Občianskeho súdneho poriadku.
+
+- 11bi) Šiesta časť zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
+- 11c) § 125 Trestného zákona.
 
 - 11d) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
@@ -76,17 +88,17 @@
 
 - 17) Vyhláška č. 145/1956 Ú. v. o premávke na cestách v znení neskorších predpisov.
 
-- 18) § 41 ods. 2 zákona č. 140/1961 Zb.
+- 18) § 11 ods. 1 Trestného zákona.
 
-- 18a) § 88a Trestného poriadku v znení neskorších predpisov.
+- 18a) § 111 Trestného poriadku.
 
 - 18aa) Dohovor, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 o postupnom zrušení kontrol na spoločných hraniciach, podpísaný v Schengene 19. júna 1990 v platnom znení. Mimoriadne vydanie Ú. v. EÚ, zv. 2/19.
 
 - 18ab) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 18b) § 88b ods. 2 Trestného poriadku v znení neskorších predpisov.
+- 18b) § 117 ods. 3 Trestného poriadku.
 
-- 18c) § 101 ods. 7 Trestného poriadku.
+- 18c) § 136 ods. 5 Trestného poriadku.
 
 - 18d) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
@@ -102,9 +114,9 @@
 
 - 24) Napríklad zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
-- 25) § 13 zákona č. 140/1961 Zb.
+- 25) § 25 Trestného zákona.
 
-- 26) § 14 zákona č. 140/1961 Zb.
+- 26) § 24 Trestného zákona.
 
 - 27a) § 3 písm. c) zákona č. 52/1998 Z. z.
 
@@ -114,7 +126,15 @@
 
 - 27c) § 8 a 9 zákona č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z.
 
-- 27d) § 11 a 12 Trestného zákona v znení neskorších predpisov.
+- 27d) § 22 a 23 Trestného zákona.
+
+- 27e) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
+- 27f) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
+- 27g) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
+
+- 27h) § 2 ods. 1 písm. e) prvý bod až tretí bod zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 28) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
 
@@ -130,8 +150,10 @@
 
 - 28h) § 1 zákona č. 610/2003 Z. z.
 
-- 28i) § 5 a § 55 ods. 1 písm. b) a c) zákona č. 610/2003 Z. z.
+- 28i) § 55 ods. 1 písm. b) a c) zákona č. 610/2003 Z. z.
 
 - 28j) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 28ja) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 863/2007 z 11. júla 2007, ktorým sa ustanovuje mechanizmus na zriadenie rýchlych pohraničných zásahových tímov a ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 2007/2004, pokiaľ ide o tento mechanizmus, a ktorým sa regulujú úlohy a právomoci prizvaných príslušníkov pohraničnej stráže (Ú. v. EÚ L 199/30, 31. 7. 2007).
 
 - 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.

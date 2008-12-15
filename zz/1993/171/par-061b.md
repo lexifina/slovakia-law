@@ -1,6 +1,6 @@
 # § 61b Použitie lietadiel
 
-(1) Policajný zbor je oprávnený použiť lietadlo pri služobnej činnosti a služobných zákrokoch proti páchateľom obzvlášť závažných trestných činov na
+(1) Policajný zbor je oprávnený použiť lietadlo pri služobnej činnosti a služobných zákrokoch proti páchateľom zločinov na
 
 - a) vykonávanie služobného zákroku,
 

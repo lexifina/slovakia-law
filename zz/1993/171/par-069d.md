@@ -16,4 +16,4 @@
 
 (4) Príjemca údajov podľa odsekov 1 až 3 je oprávnený spracúvať osobné údaje na iný účel, než na aký sa poskytli, len s predchádzajúcim súhlasom Policajného zboru.
 
-(5) Do zahraničia možno poskytovať osobné údaje i bez písomnej žiadosti, ak tak ustanoví medzinárodná zmluva, ktorou je Slovenská republika viazaná.
+(5) Do zahraničia možno poskytovať osobné údaje i bez písomnej žiadosti, ak tak ustanovuje zákon alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná.
