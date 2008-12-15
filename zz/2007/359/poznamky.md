@@ -26,6 +26,8 @@
 
 - 14) § 15 až 22 zákona č. 151/2002 Z. z. v znení zákona č. 77/2005 Z. z.
 
+- 14a) § 3 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
+
 - 15) Čl. 2 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 566/2005 Z. z.
 
 - 16) Čl. 3 ústavného zákona č. 227/2002 Z. z. v znení ústavného zákona č. 566/2005 Z. z.
