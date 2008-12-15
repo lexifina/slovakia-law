@@ -48,6 +48,8 @@
 
 - 18) § 40 zákona č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
 
+- 18a) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
 - 19) § 273 až 295 zákona č. 140/1961 Zb. v znení neskorších predpisov.
 
 - 20) Zákon č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
