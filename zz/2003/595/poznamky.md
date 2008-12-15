@@ -258,6 +258,8 @@
 
 - 101) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
+- 101a) § 14 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
+
 - 102) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
 - 102a) § 17 ods. 7 a § 19 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
