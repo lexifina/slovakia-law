@@ -75,3 +75,5 @@
 - 7b) § 12 ods. 1 až 7 a 10 zákona č. 321/2002 Z. z.
 
 - 7c) § 66 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 8) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
