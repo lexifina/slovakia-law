@@ -7,3 +7,7 @@
 - 4) Články 5, 7 a 8 rozhodnutia Rady č. 1999/468/ES z 28. 6. 1999, ktorým sa ustanovujú postupy pre výkon vykonávacích právomocí prenesených na Komisiu (Ú. v. ES L 184, 17. 7. 1999).
 
 - 5) § 4 ods. 2 nariadenia vlády Slovenskej republiky č. 661/2005 Z. z. o ohlasovaní udalostí v civilnom letectve.
+
+- 1) § 49 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
+
+- 2) Nariadenie Komisie (ES) č. 768/2006 z 19. mája 2006, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2004/36/ES vzhľadom na zhromažďovanie a výmenu informácií o bezpečnosti lietadiel, ktoré využívajú letiská Spoločenstva a o riadení informačného systému (Ú. v. EÚ L 134 , 20. 5. 2006).
