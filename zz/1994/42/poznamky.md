@@ -54,7 +54,9 @@
 
 - § 29 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
-- 18a) Napríklad § 10 ods. 1 písm. p) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, § 18 ods. 1 zákona č. 261/2002 Z. z., § 6 ods. 1 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z.
+- 18a) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 18b) Napríklad § 10 ods. 1 písm. p) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, § 18 ods. 1 zákona č. 261/2002 Z. z., § 6 ods. 1 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z., § 6 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
 - 19) Napr. Slovenský Červený kríž, Zväz civilnej ochrany Slovenskej republiky.
 
