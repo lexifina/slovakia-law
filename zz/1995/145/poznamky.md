@@ -282,7 +282,7 @@
 
 - 39m) § 3 ods. 3 zákona č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
 
-- 39n) § 5 ods. 1 písm. c) zákona č. 359/2007 Z. z.
+- 39n) § 4 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
 - 39o) § 29 ods. 1 zákona č. 359/2007 Z. z.
 

@@ -2972,6 +2972,22 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Od poplatku podľa tejto položky je oslobodené vydanie rozhodnutia, ak výhradné ložisko je výsledkom geologickej úlohy financovanej zo štátneho rozpočtu a vzťahuje sa na neho § 10 ods. 2 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov. |
 
+    - Položka 172a
+
+    - Vydanie rozhodnutia o zaradení odkaliska do zodpovedajúcej kategórie<sup>39n</sup>) .......................... | 15 eur
+
+    - Položka 172b
+
+    - Vydanie rozhodnutia o povolení zriadenia, užívania, zmeny a uzavretia odkaliska<sup>39n</sup>) .......................... | 35 eur
+
+    - Položka 172c
+
+    - Vydanie súhlasu s uzavretím odkaliska<sup>39n</sup>).......................... | 15 eur
+
+    - Položka 172d
+
+    - Vydanie súhlasu s čerpaním prostriedkov z účelovej finančnej rezervy<sup>39n</sup>) ......................... | 35 eur
+
     - Položka 173
 
   - a) Vydanie rozhodnutia o |
@@ -3149,6 +3165,30 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 194
 
   - Vydanie predchádzajúceho súhlasného stanoviska, schválenia, potvrdenia, povolenia, zaradenia alebo zrušenia uvedených v banských predpisoch ...................................................................................... | 300 Sk
+
+    - Položka 194a
+
+  - Vydanie povolenia výnimky niektorých ustanovení zákona o nakladaní s odpadom z ťažobného priemyslu<sup>39n</sup>) ................................................................................................................. | 35 eur
+
+    - Položka 194b
+
+  - Vydanie rozhodnutia o schválení plánu nakladania s ťažobným odpadom<sup>39n</sup>) ................................. | 15 eur
+
+    - Položka 194c
+
+  - Vydanie rozhodnutia o povolení zriadenia, užívania, zmeny a uzavretia odvalu<sup>39n</sup>) .......................... | 35 eur
+
+    - Položka 194d
+
+  - Vydanie súhlasu s uzavretím odvalu<sup>39n</sup>) ............................................................................................. | 15 eur
+
+    - Položka 194e
+
+  - Vydanie súhlasu s čerpaním prostriedkov z účelovej finančnej rezervy<sup>39n</sup>) ........................................ | 35 eur
+
+    - Položka 194f
+
+  - Vydanie rozhodnutia o zaradení odvalu do zodpovedajúcej kategórie<sup>39n</sup>) .......................................... | 15 eur
 
   - XII. ČASŤ JADROVÁ BEZPEČNOSŤ
 
