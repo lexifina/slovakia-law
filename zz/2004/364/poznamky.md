@@ -72,6 +72,8 @@
 
 - 36) § 76 ods. 1 a § 120 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 36a) § 7 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
+
 - 37) Štvrtá časť zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 38) § 2 ods. 3 zákona č. 313/1999 Z. z.
