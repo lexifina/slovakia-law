@@ -12,6 +12,8 @@
 
 - 6) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
+- 6a) § 27a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 6b) § 194 ods. 1 Exekučného poriadku.
 
 - 7) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
