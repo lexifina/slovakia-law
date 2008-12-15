@@ -1,0 +1,23 @@
+# § 27a Oprávnenie vykázať zo spoločného obydlia
+
+(1) Policajt je oprávnený vykázať z bytu alebo domu alebo iného priestoru spoločne obývaného s ohrozenou osobou a aj z jeho bezprostredného okolia (ďalej len „spoločné obydlie“) osobu, u ktorej možno na základe zistených skutočností očakávať útok na život, zdravie, slobodu alebo zvlášť závažný útok na ľudskú dôstojnosť ohrozenej osoby, najmä vzhľadom na predchádzajúce takéto útoky; súčasťou vykázania zo spoločného obydlia je aj zákaz vstupu vykázanej osobe do spoločného obydlia počas 48 hodín od vykázania. Policajt je oprávnený vykázať zo spoločného obydlia takúto osobu aj počas jej neprítomnosti.
+
+(2) Vykázanie zo spoločného obydlia oznámi policajt ústne. Vykázanej osobe policajt presne oznámi priestor, na ktorý sa vykázanie zo spoločného obydlia vzťahuje. Rozsah priestoru policajt určí podľa potreby preventívnej ochrany osoby, ktorá je ohrozená útokom podľa odseku 1.
+
+(3) Policajt vyhotoví potvrdenie o vykázaní zo spoločného obydlia, ktoré odovzdá vykázanej osobe a ohrozenej osobe. V potvrdení o vykázaní zo spoločného obydlia policajt uvedie meno, priezvisko, dátum narodenia vykázanej osoby a ohrozenej osoby, priestor, na ktorý sa vykázanie zo spoločného obydlia vzťahuje a čas, kedy policajt osobu zo spoločného obydlia vykázal. Súčasne s vydaním potvrdenia o vykázaní, vykázaná osoba oznámi policajtovi adresu a prípadne telefónne číslo, na ktorom bude zastihnuteľná počas trvania účinkov vykázania, až do vydania rozhodnutia súdu o predbežnom opatrení.<sup>11be</sup>) Telefónne číslo poskytne prípadne policajtovi tiež ohrozená osoba. Ak vykázaná osoba alebo ohrozená osoba odmietne potvrdenie o vykázaní zo spoločného obydlia prevziať, policajt túto skutočnosť uvedie v úradnom zázname.
+
+(4) Ak je s vykázaním zo spoločného obydlia spojené ohrozenie prevádzky objektu alebo znemožnenie výkonu zamestnania vykázanej osoby podľa osobitného predpisu,<sup>11bf</sup>) útvar Policajného zboru o tejto skutočnosti bezodkladne vyrozumie zamestnávateľa alebo prevádzkovateľa objektu, ktorý prijme príslušné opatrenia na náhradné zaistenie prevádzky objektu.
+
+(5) Policajt vyzve vykázanú osobu na vydanie kľúčov od spoločného obydlia, poučí ju o následkoch neuposlúchnutia tejto výzvy<sup>11bg</sup>) a súčasne vykázanej osobe umožní vziať si zo spoločného obydlia veci slúžiace výlučne jej osobným potrebám, osobné cennosti a dokumenty a prípadne v lehote do 24 hodín od oznámenia vykázania zo spoločného obydlia aj ďalšie osobné veci a veci nevyhnutné pre jej podnikanie alebo výkon povolania. Policajt vykázanej osobe poskytne informácie o možnostiach ubytovania a písomné poučenie o ďalšom postupe a následkoch nedostavenia sa na súdne pojednávanie o predbežnom opatrení, vrátane spôsobu predvolávania na súdne pojednávanie a spôsobu doručenia súdneho rozhodnutia.<sup>11bh</sup>) Písomné poučenie poskytne policajt tiež ohrozenej osobe.
+
+(6) Policajt je povinný poučiť ohrozenú osobu o možnosti podať návrh na vydanie predbežného opatrenia podľa osobitného predpisu<sup>11be</sup>) a podľa možnosti poskytnúť jej v písomnej forme informácie o organizáciách na pomoc poškodeným, vrátane informácií o službách nimi poskytovaných a poskytnúť kontakt na organizácie poskytujúce pomoc obetiam domáceho násilia.
+
+(7) Na vykonanie úkonov súvisiacich s vykázaním zo spoločného obydlia policajt zabezpečí prítomnosť nezúčastnenej osoby; nemusí tak urobiť, ak by mohlo dôjsť k ohrozeniu života alebo zdravia alebo ak hrozí nebezpečenstvo z omeškania.
+
+(8) Vykázanie zo spoločného obydlia končí uplynutím 48 hodín od vykázania zo spoločného obydlia, ak ďalej nie je ustanovené inak. Doručením návrhu na vydanie predbežného opatrenia na súd<sup>11be</sup>) počas vykázania zo spoločného obydlia sa trvanie vykázania zo spoločného obydlia predlžuje až do nadobudnutia vykonateľnosti rozhodnutia súdu o tomto návrhu, o čom sa vykázaná osoba upovedomí v rámci poučenia podľa odseku 5; útvar Policajného zboru poskytne ohrozenej osobe súčinnosť pri doručovaní návrhu predbežného opatrenia.
+
+(9) Ak sa počas vykázania zo spoločného obydlia zistí, že neboli splnené podmienky vykázania zo spoločného obydlia podľa odseku 1, vykázanie zo spoločného obydlia útvar Policajného zboru ukončí, o čom sa ohrozená osoba a vykázaná osoba neodkladne upovedomí.
+
+(10) Útvar Policajného zboru preveruje dodržiavanie vykázania zo spoločného obydlia.
+
+(11) O vykonanom postupe podľa odsekov 1 až 10 policajt spíše neodkladne úradný záznam. Ak je ohrozenou osobou dieťa, kópia záznamu sa zašle orgánu sociálnoprávnej ochrany detí a sociálnej kurately.<sup>11bi</sup>)
