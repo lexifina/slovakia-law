@@ -122,6 +122,8 @@
 
 - 46a) Napríklad nariadenie Rady (ES) č. 515/1997 z 13. marca 1997 o vzájomnej pomoci medzi správnymi orgánmi členských štátov a o spolupráci medzi správnymi orgánmi členských štátov a Komisiou pri zabezpečovaní riadneho uplatňovania predpisov o colných a poľnohospodárskych záležitostiach (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 8; Ú. v. ES L 82, 22. 3. 1997) v platnom znení.
 
+- 46b) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
 - 47) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 48) Napríklad zákon č. 199/2004 Z. z., zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon č. 98/2004 Z. z.
