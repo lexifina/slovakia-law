@@ -270,6 +270,8 @@
 
 - 15) § 8 ods. 10 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 171/2005 Z. z.
 
+- 15a) § 14 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
+
 - 16) Napríklad § 323 Obchodného zákonníka, § 558 Občianskeho zákonníka.
 
 - 16a) § 1 písm. b) zákona č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov.
