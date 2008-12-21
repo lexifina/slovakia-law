@@ -54,6 +54,8 @@
 
 - 9beh) Nariadenie Rady (EHS) č. 2377/90 z 26. júna 1990, ktorým sa stanovuje postup spoločenstva na určenie maximálnych limitov rezíduí veterinárnych liečiv v potravinách živočíšneho pôvodu (Ú. v. ES L 224, 18. 8. 1990) v platnom znení.
 
+- 9bei) Nariadenie Európskeho parlamentu a Rady (ES) č. 726/2004 z 31. marca 2004, ktorým sa stanovujú postupy Spoločenstva pri povoľovaní liekov na humánne použitie a na veterinárne použitie a pri vykonávaní dozoru nad týmito liekmi, a ktorým sa zriaďuje Európska agentúra pre lieky (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34; Ú. v. EÚ L 136, 30. 4. 2004) v platnom znení. Nariadenie (ES) č. 1394/2007.
+
 - 10) § 8 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
 - 10a) Nariadenie Európskeho parlamentu a Rady (ES) č. 141/2000 zo 16. decembra 1999 o liekoch na ojedinelé ochorenia (Ú. v. ES L 18, 22. 1. 2000).

@@ -42,7 +42,7 @@
 
 - d) doklad preukazujúci, že rozdiely nemajú negatívny vplyv na kvalitu, účinnosť a bezpečnosť súbežne dovážaného lieku, ak súbežne dovážaný liek nie je svojím zložením totožný s referenčným dovážaným liekom; v prípade rozdielneho zloženia pomocných látok sa rozdiely uvedú v písomnej informácii pre používateľov na vonkajšom obale a na vnútornom obale súbežne dovážaného lieku,
 
-- e) písomný súhlas majiteľa ochrannej známky, ak referenčný dovážaný liek má právoplatnú ochrannú známku.
+- e) doklad potvrdzujúci, že žiadateľ upovedomil majiteľa ochrannej známky o svojom zámere súbežne dovážať liek v upravenom balení.
 
 (5) K žiadosti podľa odseku 4 sa prikladá
 
@@ -70,7 +70,7 @@
 
 - d) zabezpečiť, aby balenie, označovanie a ďalšie povolené úpravy súbežne dovážaného lieku vykonávali iba držitelia platného povolenia na výrobu liekov,
 
-- e) označiť vonkajší obal a vnútorný obal nápisom „Súbežne dovážaný liek" a identifikačnými údajmi o držiteľovi povolenia na súbežný dovoz lieku a o výrobcoch uvedených v odseku 5 písm. d),
+- e) označiť vonkajší obal a vnútorný obal nápisom „Súbežne dovážaný liek" a identifikačnými údajmi o držiteľovi povolenia na súbežný dovoz lieku a o výrobcoch uvedených v odseku 5 písm. d) tak, aby úplne alebo čiastočne neprekryl ochrannú známku,
 
 - f) oznámiť začiatok súbežného dovozu lieku držiteľovi rozhodnutia o registrácii referenčného dovážaného lieku v Slovenskej republike a poskytnúť mu, ak ho držiteľ rozhodnutia o registrácii referenčného dovážaného lieku o to požiada, vzorku súbežne dovážaného lieku v balení, v akom sa bude v Slovenskej republike uvádzať na trh,
 

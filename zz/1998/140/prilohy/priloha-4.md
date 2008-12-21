@@ -19,3 +19,7 @@ Príloha č. 4 k zákonu č. 140/1998 Z. z.
   - 8. Smernica Komisie 2005/61/ES z 30. septembra 2005, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2002/98/ES, pokiaľ ide o požiadavky na sledovanie krvi a oznamovanie závažných nežiaducich reakcií a udalostí (Ú. v. EÚ L 256, 1. 10. 2005).
 
   - 9. Smernica Komisie 2005/62/ES z 30. septembra 2005, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2002/98/ES, pokiaľ ide o normy a špecifikácie spoločenstva súvisiace so systémom kvality v transfúznych zariadeniach (Ú. v. EÚ L 256, 1. 10. 2005).
+
+  - 10. Smernica Európskeho parlamentu a Rady č. 2007/47/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 90/380/EHS o aproximácii právnych predpisov členských štátov o aktívnych implantovateľných zdravotníckych pomôckach, smernica Rady 93/42/EHS o zdravotníckych pomôckach a smernica 98/8/ES o uvádzaní biocídnych výrobkov na trh (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 11. Smernica Európskeho parlamentu a Rady č. 2007/51/ES z 25. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 76/769/EHS v súvislosti s obmedzeniami uvádzania na trh určitých meracích prístrojov obsahujúcich ortuť (Ú. v. EÚ L 257, 3. 10. 2007).
