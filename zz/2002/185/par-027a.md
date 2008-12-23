@@ -4,9 +4,9 @@
 
 # § 27a
 
-(1) Návrh na vymenovanie predsedu Najvyššieho súdu Slovenskej republiky (ďalej len „predseda najvyššieho súdu") alebo podpredsedu Najvyššieho súdu Slovenskej republiky (ďalej len „podpredseda najvyššieho súdu") predkladá súdna rada prezidentovi na základe výsledkov ňou uskutočnených volieb; voľby sa konajú na verejnom zasadnutí súdnej rady.
+(1) Návrh na vymenovanie predsedu Najvyššieho súdu Slovenskej republiky (ďalej len „predseda najvyššieho súdu") alebo podpredsedu Najvyššieho súdu Slovenskej republiky (ďalej len „podpredseda najvyššieho súdu") predkladá súdna rada bez zbytočného odkladu prezidentovi na základe výsledkov ňou uskutočnených volieb; voľby sa konajú na verejnom zasadnutí súdnej rady.
 
-(2) Kandidátov na predsedu najvyššieho súdu a podpredsedu najvyššieho súdu môže súdnej rade navrhnúť člen súdnej rady, sudcovské rady, stavovské organizácie sudcov, zhromaždenie sudcov Najvyššieho súdu Slovenskej republiky, sudca Najvyššieho súdu Slovenskej republiky a minister spravodlivosti Slovenskej republiky (ďalej len „navrhovateľ").
+(2) Kandidátov na predsedu najvyššieho súdu a podpredsedu najvyššieho súdu môže súdnej rade navrhnúť člen súdnej rady, sudcovské rady, stavovské organizácie sudcov, plénum sudcov Najvyššieho súdu Slovenskej republiky, sudca Najvyššieho súdu Slovenskej republiky a minister spravodlivosti Slovenskej republiky (ďalej len „navrhovateľ").
 
 (3) Deň a čas konania volieb vyhlasuje predseda súdnej rady najneskôr 45 dní pred ich konaním. Predseda súdnej rady oznámi všetkým navrhovateľom vyhlásenie volieb s výzvou na predloženie kandidátov na predsedu najvyššieho súdu alebo podpredsedu najvyššieho súdu v lehote, ktorá nesmie byť kratšia ako 15 dní odo dňa doručenia oznámenia o vyhlásení volieb.
 

@@ -1,9 +1,7 @@
 # § 27d Nová voľba
 
-(1) Ak ani v opakovanej voľbe nebol zvolený kandidát na predsedu najvyššieho súdu alebo podpredsedu najvyššieho súdu, vykonajú sa nové voľby na ďalšom zasadnutí súdnej rady.
+(1) Ak ani v opakovanej voľbe nebol zvolený kandidát na predsedu najvyššieho súdu alebo podpredsedu najvyššieho súdu, vykoná sa najneskôr do 120 dní na zasadnutí súdnej rady nová voľba.
 
-(2) Súdna rada ihneď po bezvýslednej opakovanej voľbe určí deň a čas konania novej voľby.
+(2) Na novej voľbe sa nemôžu zúčastniť kandidáti, o ktorých sa už hlasovalo v predchádzajúcich voľbách.
 
-(3) Na novej voľbe bezprostredne nasledujúcej po bezvýslednej opakovanej voľbe sa nemôžu zúčastniť kandidáti, o ktorých sa už hlasovalo.
-
-(4) Pri novej voľbe sa postupuje podľa § 27a až 27c.
+(3) Pri novej voľbe sa postupuje primerane podľa § 27a až 27c.
