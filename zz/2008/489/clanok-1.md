@@ -6,6 +6,20 @@ Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákon
 
 - 2. V § 2 ods. 2 sa za slová „príprava transfúznych liekov,“ vkladajú slová „príprava liekov na inovatívnu liečbu,“.
 
+- 7. V § 7 ods. 1 sa za slová „transfúznych liekov,“ vkladajú slová „na individuálnu prípravu liekov na inovatívnu liečbu,<sup>6aba</sup>)“.
+
+Poznámka pod čiarou k odkazu 6aba znie:
+
+„<sup>6aba</sup>) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1394/2007 z 13. novembra 2007 o liekoch na inovatívnu liečbu, ktorým sa mení a dopĺňa smernica 2001/83/ES a nariadenie (ES) č. 726/2004 (Ú. v. EÚ L 324, 10. 12. 2007).“.
+
+8.
+
+V § 19 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+„d)
+
+lieky na inovatívnu liečbu pripravované individuálne.<sup>6aba</sup>)“.
+
 9. V § 20 ods. 1 písmeno c) znie:
 
 „c)
@@ -27,6 +41,56 @@ Po nadobudnutí právoplatnosti rozhodnutia o registrácii lieku zapíše štát
 Štátny ústav predkladá komisii a ministerstvu zdravotníctva oznámenie o registrácii, o predĺžení registrácie, o zmene v registrácii, o zrušení registrácie alebo o pozastavení registrácie, ktoré ministerstvo zdravotníctva zverejňuje vo Vestníku Ministerstva zdravotníctva Slovenskej republiky.“.
 
 12. V § 27 ods. 5 sa v prvej vete slová „zdravotnícka pomôcka“ nahrádzajú slovami „diagnostická zdravotnícka pomôcka in vitro“.
+
+18. Za § 29a sa vkladá § 29b, ktorý vrátane nadpisu znie:
+
+„§ 29b
+
+Osobitné podmienky na individuálnu prípravu liekov na inovatívnu liečbu
+
+(1)
+
+Zdravotnícke zariadenie ústavnej zdravotnej starostlivosti môže individuálne pripravovať lieky na inovatívnu liečbu,<sup>6aba</sup>) ak okrem podmienok ustanovených v § 3 a 6 preukáže, že
+
+a)
+
+priestory na prípravu liekov na inovatívnu liečbu spĺňajú požiadavky správnej výrobnej praxe vzťahujúce sa na lieky na inovatívnu liečbu,
+
+b)
+
+má vlastné kontrolné laboratórium alebo zmluvné kontrolné laboratórium,
+
+c)
+
+určilo odborného zástupcu zodpovedného za individuálnu prípravu liekov na inovatívnu liečbu, ktorým je osoba s vysokoškolským vzdelaním a s vedeckou kvalifikáciou v odbore vzťahujúcom sa na druh individuálne pripravovaných liekov na inovatívnu liečbu a má prax najmenej dva roky v laboratóriu na prípravu takýchto liekov,
+
+d)
+
+určilo odborného zástupcu zodpovedného za zabezpečovanie kvality liekov na inovatívnu liečbu, ktorým je osoba s vysokoškolským vzdelaním a s vedeckou kvalifikáciou v odbore vzťahujúcom sa na druh individuálne pripravovaných liekov na inovatívnu liečbu a má prax najmenej dva roky v laboratóriu na kontrolu kvality takýchto liekov,
+
+e)
+
+odborný zástupca zodpovedný za individuálnu prípravu liekov na inovatívnu liečbu a odborný zástupca zodpovedný za zabezpečovanie kvality liekov na inovatívnu liečbu nie sú vo vzájomnej riadiacej pôsobnosti.
+
+(2)
+
+Správna výrobná prax, ktorá sa vzťahuje na lieky na inovatívnu liečbu, je súbor osobitných noriem kvality a požiadaviek na prípravu, kontrolu, uchovávanie a distribúciu liekov na inovatívnu liečbu.
+
+(3)
+
+Požiadavky na správnu výrobnú prax, ktoré sa vzťahujú na lieky na inovatívnu liečbu, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+
+(4)
+
+Lieky na inovatívnu liečbu, ktoré sa individuálne pripravujú podľa osobitne vystaveného lekárskeho predpisu, sú určené pre jedného pacienta a môžu sa použiť len v zdravotníckych zariadeniach ústavnej zdravotnej starostlivosti pod odbornou zodpovednosťou lekára, ktorý lekársky predpis vystavil.
+
+(5)
+
+Na zdravotnícke zariadenie ústavnej zdravotnej starostlivosti, ktoré individuálne pripravuje lieky na inovatívnu liečbu, sa primerane vzťahujú povinnosti výrobcu, ktoré sú uvedené v § 30 ods. 1 písm. a) až c), g), h), j) až m).
+
+(6)
+
+Na odborného zástupcu na individuálnu prípravu liekov na inovatívnu liečbu, ktorý je uvedený v odseku 1 písm. c) a d), sa primerane vzťahujú povinnosti odborného zástupcu na prípravu transfúznych liekov uvedené v § 31.“.
 
 21. V § 33a ods. 4 písmeno e) znie:
 
