@@ -18,6 +18,8 @@
 
 - 6aa) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
+- 6aba) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1394/2007 z 13. novembra 2007 o liekoch na inovatívnu liečbu, ktorým sa mení a dopĺňa smernica 2001/83/ES a nariadenie (ES) č. 726/2004 (Ú. v. EÚ L 324, 10. 12. 2007).
+
 - 6b) § 49 a 50 Trestného zákona.
 
 - 6ba) Občiansky súdny poriadok.
