@@ -99,3 +99,9 @@ Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení 
 - (2)
 
 - Cenové kontrolné orgány vykonávajú od 1. marca 2005 kontrolu v rozsahu kompetencií ustanovených v § 20 ods. 2 až 5 a podľa § 11 ods. 2 aj za obdobie pred 1. marcom 2005.“.
+
+- 12. Za § 24a sa vkladá § 24b, ktorý znie:
+
+- „§ 24b
+
+- Zrušuje sa výnos Ministerstva výstavby a regionálneho rozvoja Slovenskej republiky z 22. decembra 2003 č. V-1/2003 o regulácii cien nájmu bytov (oznámenie č. 4/2004 Z. z.).“.
