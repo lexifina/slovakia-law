@@ -73,3 +73,5 @@
 - 25c) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 26) § 29 zákona č. 431/2002 Z. z.
+
+- 27) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

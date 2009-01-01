@@ -12,13 +12,13 @@
 
 (2) Colný úrad uloží pokutu
 
-- a) za priestupok podľa odseku 1 písm. a) do 1 000 000 Sk, najmenej však 2 000 Sk, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
+- a) za priestupok podľa odseku 1 písm. a) do 33 193,91 eura, najmenej však 66,38 eura, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
 
-- b) za priestupok podľa odseku 1 písm. b) vo výške dane pripadajúcej na množstvo cigariet v spotrebiteľskom balení cigariet označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 50 000 Sk, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
+- b) za priestupok podľa odseku 1 písm. b) vo výške dane pripadajúcej na množstvo cigariet v spotrebiteľskom balení cigariet označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 1 659,69 eura, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
 
-- c) za priestupok podľa odseku 1 písm. c) do 1 000 000 Sk, najmenej však 2 000 Sk, a také tabakové výrobky zabezpečí,<sup>3</sup>)
+- c) za priestupok podľa odseku 1 písm. c) do 33 193,91 eura, najmenej však 66,38 eura, a také tabakové výrobky zabezpečí,<sup>3</sup>)
 
-- d) za priestupok podľa odseku 1 písm. d) vo výške 50 % dane pripadajúcej na množstvo tabakových výrobkov oslobodených od dane podľa § 7 písm. f) alebo § 8 ods. 2 použitých na iný ako určený účel, najmenej však 5 000 Sk.
+- d) za priestupok podľa odseku 1 písm. d) vo výške 50 % dane pripadajúcej na množstvo tabakových výrobkov oslobodených od dane podľa § 7 písm. f) alebo § 8 ods. 2 použitých na iný ako určený účel, najmenej však 165,96 eura.
 
 (3) Pri určovaní výšky pokuty podľa odseku 2 písm. a) a c) prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 
@@ -26,4 +26,4 @@
 
 (5) Tabakové výrobky, ktoré colný úrad zabezpečí a ktoré sa dňom nadobudnutia právoplatnosti rozhodnutia o prepadnutí tabakových výrobkov stanú majetkom štátu,<sup>3</sup>) je colný úrad povinný zničiť. Na postup pri ničení tabakových výrobkov sa primerane použije osobitný predpis.<sup>25b</sup>)
 
-(6) Za priestupok podľa odseku 1 písm. a) a c) môže colný úrad uložiť pokutu v blokovom konaní do výšky 5 000 Sk. Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>25c</sup>)
+(6) Za priestupok podľa odseku 1 písm. a) a c) môže colný úrad uložiť pokutu v blokovom konaní do výšky 165,96 eura. Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>25c</sup>)
