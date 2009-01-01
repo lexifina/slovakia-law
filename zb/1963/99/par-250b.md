@@ -6,6 +6,6 @@
 
 (3) Súd postupuje podľa odseku 2, len ak od vydania rozhodnutia, ktoré nebolo žalobcovi doručené, neuplynula lehota troch rokov.
 
-(4) Ak správny orgán nedodrží súdom určenú lehotu na doručenie správneho rozhodnutia alebo ak vec nepredloží súdu na konanie ani po opakovanej výzve, súd môže rozhodnúť o uložení pokuty správnemu orgánu až do 50 000 Sk, a to aj opakovane. Proti rozhodnutiu o uložení pokuty je prípustné odvolanie.
+(4) Ak správny orgán nedodrží súdom určenú lehotu na doručenie správneho rozhodnutia alebo ak vec nepredloží súdu na konanie ani po opakovanej výzve, súd môže rozhodnúť o uložení pokuty správnemu orgánu až do 1 640 eur, a to aj opakovane. Proti rozhodnutiu o uložení pokuty je prípustné odvolanie.
 
 (5) Prokurátor môže žalobu podať do dvoch mesiacov od právoplatnosti rozhodnutia, ktorým nebolo vyhovené protestu.
