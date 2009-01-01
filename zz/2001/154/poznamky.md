@@ -104,7 +104,7 @@
 
 - 47) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z.
 
-- 48) § 18 až 59a zákona č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
+- 48) § 33 až 37 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
@@ -112,7 +112,7 @@
 
 - 50) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
-- 51) Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
+- 51) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 52) Zákon č. 71/1967 Zb.
 
