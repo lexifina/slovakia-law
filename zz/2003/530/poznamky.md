@@ -97,3 +97,7 @@
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
 
 - 23) Napríklad § 10 ods. 3 a 4 , § 11 ods. 1 až 3, § 12 ods. 1 zákona č. 659/2007 Z. z.
+
+- 24) § 12 ods. 6 zákona č. 659/2007 Z. z.
+
+- 25) § 9 ods. 7 zákona č. 659/2007 Z. z.
