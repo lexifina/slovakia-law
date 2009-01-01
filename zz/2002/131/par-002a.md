@@ -1,6 +1,6 @@
 # § 2a
 
-(1) Ministerstvo školstva Slovenskej republiky (ďalej len „ministerstvo") uloží právnickej osobe, ktorá poskytuje, organizuje alebo zabezpečuje vysokoškolské vzdelávanie na území Slovenskej republiky a nie je vysokou školou (§ 2 ods. 2) alebo nie je nevysokoškolskou inštitúciou (§ 2 ods. 4), pokutu v rozsahu od 500 000 Sk do 15 000 000 Sk.
+(1) Ministerstvo školstva Slovenskej republiky (ďalej len „ministerstvo") uloží právnickej osobe, ktorá poskytuje, organizuje alebo zabezpečuje vysokoškolské vzdelávanie na území Slovenskej republiky a nie je vysokou školou (§ 2 ods. 2) alebo nie je nevysokoškolskou inštitúciou (§ 2 ods. 4), pokutu v rozsahu od 16 596,50 eura do 497 908,50 eura.
 
 (2) Pokuta podľa odseku 1 je splatná do 30 dní odo dňa právoplatnosti rozhodnutia o uložení pokuty.
 
