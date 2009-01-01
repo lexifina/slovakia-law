@@ -16,11 +16,23 @@
 
 - 5a) § 29 ods. 1 zákona č. 36/2005 Z. z.
 
+- 5b) § 33, 102 až 105 Trestného zákona.
+
+- 5c) § 45 zákona č. 36/2005 Z. z.
+
+- 5d) § 48 zákona č. 36/2005 Z. z.
+
+- 5e) § 97 zákona č. 36/2005 Z. z.
+
+- 5f) § 103 zákona č. 36/2005 Z. z.
+
+- 5g) § 75 a 75a Občianskeho súdneho poriadku.
+
+- 5h) § 56 ods. 2 zákona č. 36/2005 Z. z.
+
 - 6) Napríklad § 45 ods. 1 a § 78 zákona č. 94/1963 Zb. v znení neskorších predpisov.
 
-- 7) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
-
-- Zákon č. 195/1998 Z. z. o sociálnej pomoci.
+- 7) Napríklad § 49 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 121 a 122 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 8) § 45 ods. 3 zákona č. 94/1963 Zb. v znení zákona č. 132/1982 Zb. a § 46 zákona č. 94/1963 Zb.
 
