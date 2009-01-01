@@ -12,4 +12,4 @@
 
 (6) Dokument podľa odseku 5 sa predkladá Národnej banke Slovenska a zverejňuje po zverejnení účtovnej závierky emitenta. Ak dokument odkazuje na informácie, uvedie sa, kde tieto informácie možno získať.
 
-(7) Ustanovenia odsekov 5 a 6 sa nevzťahujú na emitentov nekapitálových cenných papierov, ktorých menovitá hodnota na jeden cenný papier je najmenej 50 000 EUR.
+(7) Ustanovenia odsekov 5 a 6 sa nevzťahujú na emitentov nekapitálových cenných papierov, ktorých menovitá hodnota na jeden cenný papier je najmenej 50 000 eur.

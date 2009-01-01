@@ -18,7 +18,7 @@
 
 - 9) § 99 zákona č. 566/2001 Z. z.
 
-- 10) § 66b Obchodného zákonníka.
+- 10) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
 
@@ -37,6 +37,10 @@
 - 15) § 9 ods. 3 Zákonníka práce.
 
 - 16) § 144 ods. 7 zákona č. 566/2001 Z. z.§ 50 ods. 2 zákona č. 483/2001 Z. z.§ 48 ods. 6 zákona č. 95/2002 Z. z.
+
+- 16a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 16b) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -170,7 +174,7 @@
 
 - 58a) § 5 ods. 1 písm. a), d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 58b) § 132 ods. 1 až 3 zákona č. 566/2001 Z. z. v znení zákona č. 635/2004 Z. z.
+- 58b) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 

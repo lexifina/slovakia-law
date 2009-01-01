@@ -15,3 +15,5 @@ Príloha k zákonu č. 429/2002 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 2005/1/ES z 9. marca 2005, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 85/611/EHS, 91/675/EHS, 92/49/EHS a 93/6/EHS a smernice Európskeho parlamentu a Rady 94/19/ES, 98/78/ES, 2000/12/ES, 2001/34/ES, 2002/83/ES a 2002/87/ES s cieľom vytvoriť novú organizačnú štruktúru výborov pre finančné služby (Ú. v. EÚ L 79, 24. 3. 2005).
 
   - 7. Smernica Európskeho parlamentu a Rady 2006/31/ES z 5. apríla 2006, ktorou sa mení a dopĺňa smernica 2004/39/ES o trhoch s finančnými nástrojmi s ohľadom na určité termíny (Ú. v. EÚ L 114, 27. 4. 2006).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
