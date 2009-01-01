@@ -1,21 +1,21 @@
 Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 38/1993 Z. z.
 
-- PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII ÚSTAVNÉHO SÚDU SLOVENSKEJ REPUBLIKY (Sk mesačne) Platová trieda | Platová tarifa
+- PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII ÚSTAVNÉHO SÚDU SLOVENSKEJ REPUBLIKY (eur mesačne) Platová trieda | Platová tarifa
 
-- 1. | 9 700
+- 1. | 404
 
-- 2. | 10 300
+- 2. | 429,50
 
-- 3. | 11 300
+- 3. | 470,50
 
-- 4. | 12 100
+- 4. | 504
 
-- 5. | 14 500
+- 5. | 603,50
 
-- 6. | 15 600
+- 6. | 649
 
-- 7. | 17 500
+- 7. | 728
 
-- 8. | 20 900
+- 8. | 869,50
 
-- 9. | 24 200.
+- 9. | 1006,50

@@ -6,7 +6,7 @@
 
 - b) má nárok na výplatu starobného dôchodku, predčasného starobného dôchodku alebo invalidného dôchodku.
 
-(2) Sudcovi patrí príplatok za výkon funkcie sudcu vo výške 33,3 % základného platu sudcu zaokrúhlený nahor na celých 100 Sk, začínajúc prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom splnil podmienky ustanovené v odseku 1.
+(2) Sudcovi patrí príplatok za výkon funkcie sudcu vo výške 33,3 % základného platu sudcu zaokrúhlený nahor na celé euro, začínajúc prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom splnil podmienky ustanovené v odseku 1.
 
 (3) Sudcovi patrí iba jeden príplatok za výkon funkcie sudcu bez ohľadu na počet funkčných období, v ktorých vykonával funkciu sudcu.
 
