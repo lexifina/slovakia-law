@@ -6,6 +6,6 @@
 
 (3) Ak požičané zásoby hmotných rezerv neboli vrátené Správe rezerv ani po druhej písomnej výzve doručenej dlžníkovi, zábezpeka prepadá v prospech Správy rezerv.
 
-(4) Pri poskytnutí pôžičky Správa rezerv dlžníkovi vyúčtuje úroky za dočasné prenechanie zásob hmotných rezerv.<sup>5f</sup>) Úrok je najviac vo výške dvojnásobku diskontnej úrokovej sadzby ustanovenej Národnou bankou Slovenska<sup>5g</sup>) v čase uzatvorenia zmluvy o pôžičke. Úrok je príjmom štátneho rozpočtu.
+(4) Pri poskytnutí pôžičky Správa rezerv dlžníkovi vyúčtuje úroky za dočasné prenechanie zásob hmotných rezerv.<sup>5f</sup>) Úrok je najviac vo výške dvojnásobku základnej úrokovej sadzby Európskej centrálnej banky<sup>5g</sup>) platnej v čase uzatvorenia zmluvy o pôžičke. Úrok je príjmom štátneho rozpočtu.
 
 (5) Predĺženie dohodnutej doby pôžičky Správa rezerv povoľuje iba v odôvodnených prípadoch na základe žiadosti dlžníka.

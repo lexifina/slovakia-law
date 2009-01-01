@@ -16,6 +16,8 @@
 
 - 5b) Zákon č. 473/2003 Z. z. o pôdohospodárskej platobnej agentúre, o podpore podnikania v pôdohospodárstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5c) § 3 ods. 2 písm. v) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení zákona č. 601/2008 Z. z.
+
 - 5d) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
 
 - 5e) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 638/2005 Z. z.
@@ -24,7 +26,7 @@
 
 - 5f) § 658 ods. 2 Občianskeho zákonníka.
 
-- 5g) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+- 5g) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 5ga) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 

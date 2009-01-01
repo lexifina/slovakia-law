@@ -4,7 +4,7 @@
 
 (2) Žiadosť o pôžičku suroviny, materiálu a výrobkov mobilizačných rezerv alebo jej predĺženie sa predkladá Správe rezerv a vecne príslušnému ústrednému orgánu štátnej správy.
 
-(3) Za pôžičku uhrádza dlžník úroky<sup>5f</sup>) vo výške dvojnásobku základnej úrokovej sadzby určenej Národnou bankou Slovenska v čase uzatvorenia zmluvy z oceneného predmetu zmluvy.
+(3) Za pôžičku uhrádza dlžník úroky<sup>5f</sup>) vo výške dvojnásobku základnej úrokovej sadzby Európskej centrálnej banky<sup>5g</sup>) platnej v čase uzatvorenia zmluvy z oceneného predmetu zmluvy.
 
 (4) Pri poskytnutí pôžičky zásob je dlžník povinný
 
