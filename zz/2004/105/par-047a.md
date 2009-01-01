@@ -18,19 +18,19 @@
 
 (2) Colný úrad uloží pokutu
 
-- a) vo výške 50 % dane pripadajúcej na množstvo liehu v spotrebiteľskom balení, ktoré nie je označené v súlade s týmto zákonom, najmenej však 10 000 Sk, za priestupok podľa odseku 1 písm. a), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
+- a) vo výške 50 % dane pripadajúcej na množstvo liehu v spotrebiteľskom balení, ktoré nie je označené v súlade s týmto zákonom, najmenej však 331,93 eura, za priestupok podľa odseku 1 písm. a), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
 
-- b) vo výške dane pripadajúcej na množstvo liehu v spotrebiteľskom balení označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 50 000 Sk, za priestupok podľa odseku 1 písm. b), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
+- b) vo výške dane pripadajúcej na množstvo liehu v spotrebiteľskom balení označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 1 659,69 eura, za priestupok podľa odseku 1 písm. b), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
 
-- c) vo výške 50 % dane pripadajúcej na množstvo zisteného liehu, najmenej však 50 000 Sk, za priestupok podľa odseku 1 písm. c), a taký lieh zabezpečí,<sup>11</sup>)
+- c) vo výške 50 % dane pripadajúcej na množstvo zisteného liehu, najmenej však 1 659,69 eura, za priestupok podľa odseku 1 písm. c), a taký lieh zabezpečí,<sup>11</sup>)
 
-- d) vo výške dane pripadajúcej na množstvo vyrobeného liehu, najmenej však 100 000 Sk, za priestupok podľa odseku 1 písm. d), a taký lieh zabezpečí,<sup>11</sup>)
+- d) vo výške dane pripadajúcej na množstvo vyrobeného liehu, najmenej však 3 319,39 eura, za priestupok podľa odseku 1 písm. d), a taký lieh zabezpečí,<sup>11</sup>)
 
-- e) do 5 000 Sk za priestupok podľa odseku 1 písm. e),
+- e) do 165,96 eura za priestupok podľa odseku 1 písm. e),
 
-- f) vo výške dane vypočítanej ako súčin základnej sadzby dane a množstva liehu ponúkaného na predaj alebo inak uvádzaného na trh, najmenej však 10 000 Sk, za priestupok podľa odseku 1 písm. f),
+- f) vo výške dane vypočítanej ako súčin základnej sadzby dane a množstva liehu ponúkaného na predaj alebo inak uvádzaného na trh, najmenej však 331,93 eura, za priestupok podľa odseku 1 písm. f),
 
-- g) za priestupok podľa odseku 1 písm. g) vo výške 50 % dane pripadajúcej na množstvo liehu oslobodeného od dane podľa § 7 ods. 2 písm. j) alebo § 7a ods. 2 použitého na iný ako určený účel, najmenej však 5 000 Sk.
+- g) za priestupok podľa odseku 1 písm. g) vo výške 50 % dane pripadajúcej na množstvo liehu oslobodeného od dane podľa § 7 ods. 2 písm. j) alebo § 7a ods. 2 použitého na iný ako určený účel, najmenej však 165,96 eura.
 
 (3) Pri určovaní výšky pokuty prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 
