@@ -1,1 +1,0 @@
-- 1) Vyhláška Národnej banky Slovenska č. 182/1995 Z. z. o vydaní bankoviek po 200 Sk vzoru 1995 v znení vyhlášky č. 219/1997 Z. z.
