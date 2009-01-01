@@ -24,7 +24,7 @@
 
 - 2e) § 2 písm. c) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
-- 2f) § 6 ods. 3 písm. d) zákona č. 566/2001 Z. z.
+- 2f) § 6 ods. 1 písm. f) a g) a ods. 2 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 2g) § 160 Obchodného zákonníka.
 
