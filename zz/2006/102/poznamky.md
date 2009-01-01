@@ -1,5 +1,7 @@
 - 1) § 4 ods. 1 a 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- § 3 ods. 2 písm. c) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 2) § 4 ods. 3 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - § 5 ods. 4 písm. h) až j) a l) až s) zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -19,6 +21,18 @@
 - 8) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Napríklad § 24 zákona č. 36/2005 Z. z. o rodine a o zmene a o doplnení niektorých zákonov.
+
+- 9a) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
+
+- 9b) § 51 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 9c) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+
+- 9d) § 115 Občianskeho zákonníka.
+
+- 9e) Zákon č. 36/2005 Z. z. v znení neskorších predpisov.
+
+- 9f) § 4 zákona č. 600/2003 Z. z.
 
 - 10) § 2 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
