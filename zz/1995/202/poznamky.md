@@ -46,7 +46,7 @@
 
 - 16b) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
 
-- 16c) Napríklad zákon č. 507/2001 Z. z. o poštových službách.
+- 16c) Napríklad zákon č. 507/2001 Z. z. o poštových službách, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
 - 17) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -79,5 +79,3 @@
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
 - 30) § 12 až 34 zákona č. 747/2004 Z. z.
-
-- 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
