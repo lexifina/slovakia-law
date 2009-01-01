@@ -14,21 +14,21 @@
 
 - 4a) § 2 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
-- 5) § 51 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 5) § 2 ods. 3 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 5a) § 44 až 47 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5b) Napríklad zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+- 5b) § 2 ods. 3 písm. d) zákona č. 561/2008 Z. z. o príspevku na starostlivosť o dieťa a o zmene a doplnení niektorých zákonov.
 
-- 5c) Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5c) § 223 až 228a Zákonníka práce.
 
-- 5d) Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
-
-- 5e) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov.
+- 5d) § 58 ods. 2 písm. c) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 5f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5g) Zákon č. 561/2008 Z. z.
 
 - 6) § 5 a § 6 ods. 1, 2 a 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
