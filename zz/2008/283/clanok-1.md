@@ -208,6 +208,24 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 
 - 19. V § 20 ods. 4 sa slovo „stanovených“ nahrádza slovom „určených“.
 
+- 20. V § 20 ods. 7 sa na konci vety pripájajú slová „vrátane ich číselného vyjadrenia“ a na konci sa pripája táto veta: „Informácia o skladbe jednotlivých zložiek ceny za dodávku elektriny alebo za dodávku plynu obsahuje najmä cenu za
+
+  - a) nákup elektriny alebo plynu,
+
+  - b) obchodnú činnosť dodávateľa elektriny alebo dodávateľa plynu,
+
+  - c) prepravu plynu,
+
+  - d) distribúciu elektriny vrátane prenosu alebo distribúciu plynu,
+
+  - e) skladovanie plynu,
+
+  - f) straty pri prenose elektriny a distribúcii elektriny,
+
+  - g) systémové služby v elektroenergetike,
+
+  - h) prevádzkovanie systému v elektroenergetike.“.
+
 - 21. V § 21 odseky 3 a 4 znejú:
 
 - „(3)
