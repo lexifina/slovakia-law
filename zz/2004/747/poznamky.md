@@ -10,7 +10,9 @@
 
 - Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+- Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -42,7 +44,7 @@
 
 - 10) § 2 zákona č. 429/2002 Z. z.
 
-- 11) Napríklad § 8 až 9a zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+- 11) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 8 až 9a zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 12) Napríklad § 2 ods. 1 a § 15 zákona č. 466/2002 Z. z.
 
@@ -124,6 +126,8 @@
 
 - 49) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 49a) § 248 písm. d) Občianskeho súdneho poriadku.
+
 - 50) § 517 ods. 2 Občianskeho zákonníka.
 
 - § 3 nariadenia vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
@@ -132,7 +136,11 @@
 
 - 51) Napríklad § 251 Občianskeho súdneho poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
+- 51a) § 41 ods. 2 písm. g) a i) a § 45 ods. 5 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
 - 52) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
+
+- 52a) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 53) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
