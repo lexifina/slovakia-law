@@ -1,1 +1,0 @@
-- 1) Vyhláška Národnej banky Slovenska č. 159/1996 Z. z. o vydaní bankoviek po 100 Sk vzoru 1996 do obehu v znení vyhlášky č. 219/1997 Z. z.
