@@ -140,6 +140,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - k čiastočnému zaplateniu pohľadávky, upraví o časť opravnej položky podľa § 20.“.
 
+- 26. V § 18 ods. 1 sa na konci pripájajú tieto vety: „O použitej metóde je daňovník povinný viesť dokumentáciu. Obsah dokumentácie o použitej metóde ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
 - 27. V § 19 ods. 2 písm. e) sa za slová „pohonné látky“ vkladajú slová „podľa cien platných v čase ich nákupu“.
 
 - 28. V § 19 ods. 2 písmeno h) znie:
