@@ -70,4 +70,8 @@
 
 - 25) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
+- 25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
+
+- 25b) § 4 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
 - 26) § 2 písm. p) zákona č. 245/2008 Z. z.
