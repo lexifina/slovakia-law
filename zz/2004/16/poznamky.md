@@ -94,4 +94,6 @@
 
 - 40) § 38 ods. 1 zákona č. 308/2000 Z. z.
 
+- 40a) Zákon č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov.
+
 - 41) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
