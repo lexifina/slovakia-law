@@ -22,11 +22,11 @@
 
 (3) Oslobodenie od dane podľa odseku 2 sa okrem tovaru uvedeného v odsekoch 6 až 12 uplatní na dovoz tovaru, ak jeho hodnota celkom nepresahuje
 
-- a) 9 037,80 Sk na osobu inú ako uvedenú v písmenách b) a c),
+- a) 300 eur na osobu inú ako uvedenú v písmenách b) a c),
 
-- b) 12 954,20 Sk na osobu, ak cestuje leteckou dopravou,
+- b) 430 eur na osobu, ak cestuje leteckou dopravou,
 
-- c) 4 518,90 Sk na osobu mladšiu ako 15 rokov bez ohľadu na dopravný prostriedok.
+- c) 150 eur na osobu mladšiu ako 15 rokov bez ohľadu na dopravný prostriedok.
 
 (4) Na účely uplatňovania peňažných limitov podľa odseku 3 sa hodnota jednotlivého tovaru nemôže rozdeliť.
 
