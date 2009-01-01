@@ -52,6 +52,6 @@
 
 - 26) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 157/1989 Zb.
 
-- 27) § 14 ods. 3 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- 27) § 35 písm. g) zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
