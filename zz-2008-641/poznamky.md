@@ -1,0 +1,1 @@
+- 1) Zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
