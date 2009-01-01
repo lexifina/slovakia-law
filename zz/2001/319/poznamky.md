@@ -1,1 +1,0 @@
-- 1) § 18 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení zákona Slovenskej národnej rady č. 571/1991 Zb.
