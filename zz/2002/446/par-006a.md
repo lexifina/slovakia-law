@@ -1,6 +1,6 @@
 # § 6a Postup pri vymáhaní pohľadávky
 
-(1) Pohľadávka iného zmluvného štátu sa vymáha rovnako ako pohľadávka Slovenskej republiky; pohľadávka iného zmluvného štátu sa vymáha v slovenskej mene.
+(1) Pohľadávka iného zmluvného štátu sa vymáha rovnako ako pohľadávka Slovenskej republiky; pohľadávka iného zmluvného štátu sa vymáha v eurách.
 
 (2) Na účely vymáhania pohľadávky sa písomnosti vydané podľa právneho poriadku zmluvného štátu považujú za písomnosti vydané podľa právneho poriadku Slovenskej republiky, ak ďalej nie je ustanovené inak.
 
@@ -22,10 +22,10 @@
 
 (11) Ak zmena sumy vymáhanej pohľadávky znamená jej zvýšenie, príslušný orgán Slovenskej republiky pokračuje v jej vymáhaní na základe novej žiadosti o vymáhanie pohľadávky; na tú žiadosť sa vzťahujú ustanovenia tohto zákona o žiadosti o vymáhanie pohľadávky.
 
-(12) Na prepočet zmenenej sumy vymáhanej pohľadávky na menu príslušného zmluvného štátu použije príslušný orgán Slovenskej republiky kurz vyhlásený Národnou bankou Slovenska platný ku dňu podpísania pôvodnej žiadosti o vymáhanie pohľadávky osobou oprávnenou konať za príslušný úrad zmluvného štátu.
+(12) Ak príslušný orgán Slovenskej republiky zníži sumu pohľadávky uvedenej v žiadosti o vymáhanie pohľadávky, na prepočet tejto zmenenej sumy vymáhanej pohľadávky na menu príslušného zmluvného štátu, použije príslušný orgán Slovenskej republiky referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska<sup>15b</sup>) v deň predchádzajúci dňu podpísania žiadosti o vymáhanie pohľadávky.
 
 (13) Príslušný orgán Slovenskej republiky zabezpečí zastavenie vymáhania pohľadávky, ak mu bola doručená písomná informácia od príslušného úradu zmluvného štátu o tom, že pominuli dôvody na vymáhanie pohľadávky.
 
 (14) Príslušný orgán Slovenskej republiky bezodkladne písomne informuje príslušný úrad zmluvného štátu o vykonaných úkonoch súvisiacich s poukázaním vymoženej sumy pohľadávky alebo s poukázaním vymoženej spornej pohľadávky.
 
-(15) Vymoženú sumu pohľadávky príslušný orgán Slovenskej republiky poukazuje príslušnému úradu zmluvného štátu v slovenskej mene na účet uvedený v žiadosti o vymáhanie pohľadávky do jedného mesiaca odo dňa jej vymoženia.
+(15) Vymoženú sumu pohľadávky príslušný orgán Slovenskej republiky poukazuje príslušnému úradu zmluvného štátu v eurách na účet uvedený v žiadosti o vymáhanie pohľadávky do jedného mesiaca odo dňa jej vymoženia.

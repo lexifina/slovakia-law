@@ -40,6 +40,12 @@
 
 - 15a) § 17 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
+- 15b) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
+
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).“.
+
 - 16) Napríklad § 71 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon č. 199/2004 Z. z. Colný zákon.
 
 - 17) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
