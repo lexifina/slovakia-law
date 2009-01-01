@@ -64,6 +64,8 @@
 
 - 18d) § 65 zákona č. 461/2003 Z. z.
 
+- 18e) § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
+
 - 19) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19a) § 45 ods. 1 zákona č. 305/2005 Z. z.
