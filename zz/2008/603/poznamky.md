@@ -1,0 +1,1 @@
+- 1) Čl. 27 Nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 z 29. apríla 2004 o úradných kontrolách uskutočňovaných s cieľom zabezpečiť overenie dodržiavania potravinového a krmivového práva a predpisov o zdraví zvierat a o starostlivosti o zvieratá (Ú. v. EÚ L 191, 28. 5. 2004) v platnom znení.
