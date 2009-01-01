@@ -2,7 +2,7 @@
 
 (1) Na účely započítania daňových pohľadávok sa za daňovú pohľadávku považuje daňový nedoplatok. Ak má daňový úrad alebo colný úrad daňovú pohľadávku voči daňovému dlžníkovi a daňový dlžník má zároveň pohľadávku voči štátnej rozpočtovej organizácii, možno tieto pohľadávky navzájom započítať. Započítaním takéto pohľadávky zaniknú vo výške, v ktorej sa kryjú, a to dňom doručenia potvrdenia daňového riaditeľstva alebo colného riaditeľstva o započítaní pohľadávky daňovému dlžníkovi.
 
-(2) Započítať možno len nepremlčané pohľadávky, ak výška pohľadávky v jednotlivom prípade presiahne 10 000 Sk.
+(2) Započítať možno len nepremlčané pohľadávky, ak výška pohľadávky v jednotlivom prípade presiahne 331,94 eura.
 
 (3) Úkonom daňového dlžníka smerujúcim k započítaniu daňových pohľadávok je žiadosť o započítanie. Takúto žiadosť podáva daňový dlžník na príslušnom daňovom úrade alebo colnom úrade a musí obsahovať
 

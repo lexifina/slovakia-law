@@ -18,7 +18,7 @@
 
 - g) snubný prsteň a obrúčka,
 
-- h) hotové peniaze do sumy 5 000 Sk,
+- h) hotové peniaze do sumy 165,97 eura,
 
 - i) študijná literatúra.
 
