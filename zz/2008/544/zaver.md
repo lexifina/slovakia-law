@@ -1,0 +1,1 @@
+Štefan Harabin v. r.
