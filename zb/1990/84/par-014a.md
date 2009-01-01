@@ -1,6 +1,6 @@
 # § 14a Iné správne delikty
 
-(1) Obec uloží pokutu do 20 000 Sk právnickej osobe, ktorá ako zvolávateľ
+(1) Obec uloží pokutu do 663 eur právnickej osobe, ktorá ako zvolávateľ
 
 - a) zvolala alebo usporiadala zhromaždenie bez toho, aby si splnila oznamovaciu povinnosť;
 
