@@ -198,8 +198,6 @@ Kód | Zhromažďovanie odpadov
 
 Z | Zhromažďovanie odpadov je dočasné uloženie odpadov pred ďalším nakladaním s nimi na mieste vzniku
 
-O | Odovzdanie odpadov inému subjektu na ďalšiu úpravu alebo zhodnotenie
-
 DO | Odovzdanie odpadu na využitie v domácnosti
 
 - Tabuľka 2B
