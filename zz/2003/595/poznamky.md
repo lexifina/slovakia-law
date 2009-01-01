@@ -180,6 +180,8 @@
 
 - 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
+- 74aa) § 15 ods. 6 zákona č. 581/2004 Z. z. v znení zákona č. 530/2007 Z. z.
+
 - 75) § 68 Obchodného zákonníka.
 
 - 76) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
@@ -198,7 +200,9 @@
 
 - 81) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
-- 82) Napríklad § 38 a 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 82) § 15 a 15b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 82a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 83) Napríklad § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 375/1996 Z. z.
 
@@ -328,11 +332,15 @@
 
 - 120c) § 11 ods. 1 zákona č. 561/2007 Z. z.
 
-- 121) § 24 ods. 2 zákona č. 431/2002 Z. z.
+- 121) § 24 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
+
+- 122b) § 50a zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 139/2008 Z. z.
+
+- 122c) § 223 Zákonníka práce v znení neskorších predpisov.
 
 - 123) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
