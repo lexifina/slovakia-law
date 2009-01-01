@@ -1,3 +1,3 @@
 Príloha č. 6 k vyhláške č. 490/2004 Z. z.
 
-- PREKLADATEĽSKÁ DOLOŽKA [Vzor 06](../assets/144390a4e4dbe285bfbce1af6ee53b05b6ede7e1c87199b6c286b7df0ce693ea.pdf)
+- PREKLADATEĽSKÁ DOLOŽKA [Vzor 06](../assets/1850e7880c604fe416ba1cbd89504cd90aa6656909f1f89692a15f7be0e05666.pdf)
