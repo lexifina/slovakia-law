@@ -10,7 +10,7 @@
 
 (2) Správne delikty podľa odseku 1 prejednávajú obvodné úrady dopravy.
 
-(3) Za správny delikt podľa odseku 1 uloží obvodný úrad dopravy pokutu vo výške 500 000 Sk.
+(3) Za správny delikt podľa odseku 1 uloží obvodný úrad dopravy pokutu vo výške 16 595 eur.
 
 (4) Pokuta je splatná do 30 dní od nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
 
