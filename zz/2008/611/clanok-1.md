@@ -1,0 +1,69 @@
+# Čl. I
+
+Nariadenie vlády Slovenskej republiky č. 299/2007 Z. z. o úprave osobných požitkov poskytovaných duchovným cirkví a náboženských spoločností v znení nariadenia vlády Slovenskej republiky č. 610/2007 Z. z. sa mení takto:
+
+- 1. V § 2 odsek 2 znie:
+
+- „(2)
+
+- Hodnostný prídavok duchovného, ktorý vykonáva funkciu zaradenú do skupiny
+
+- a)
+
+- C, je 6,64 až 23,24 eura mesačne,
+
+- b)
+
+- D, je 16,60 až 39,84 eura mesačne,
+
+- c)
+
+- E, je 26,56 až 66,39 eura mesačne,
+
+- d)
+
+- F, je 43,16 až 99,59 eura mesačne,
+
+- e)
+
+- G, je 66,39 až 165,97 eura mesačne.“.
+
+- 2. Príloha č. 1 znie:
+
+- „Príloha č. 1
+
+- k nariadeniu vlády č. 299/2007 Z. z.
+
+- Stupnica základných platov duchovných
+
+- (v eurách mesačne)
+
+- Platový stupeň | Započítateľná doba vykonávania duchovenskej činnosti v rokoch | Stupnica základných platov podľa zaradenia do skupiny a započítateľnej doby vykonávania duchovenskej činnosti | | | | | |
+
+- | | S k u p i n a | | | | | |
+
+- | | A | B | C | D | E | F | G
+
+- 1 | do 3 | 248,84 | 273,60 | 302,09 | 334,34 | 369,95 | 408,93 | 452,89
+
+- 2 | od 3 do 6 | 259,32 | 285,72 | 315,52 | 348,55 | 386,26 | 427,35 | 472,14
+
+- 3 | od 6 do 9 | 270,27 | 297,46 | 328,47 | 362,85 | 402,20 | 445,76 | 491,85
+
+- 4 | od 9 do 12 | 280,71 | 309,22 | 342,29 | 377,06 | 418,16 | 464,22 | 512,38
+
+- 5 | od 12 do 15 | 291,61 | 321,33 | 355,68 | 392,19 | 434,88 | 481,80 | 532,52
+
+- 6 | od 15 do 18 | 302,90 | 333,10 | 369,49 | 406,86 | 451,65 | 499,81 | 552,60
+
+- 7 | od 18 do 21 | 314,23 | 345,21 | 382,93 | 422,31 | 468,42 | 517,39 | 572,69
+
+- 8 | od 21 do 24 | 325,56 | 356,96 | 396,77 | 437,79 | 484,71 | 535,43 | 593,25
+
+- 9 | od 24 do 27 | 336,86 | 369,49 | 410,60 | 453,32 | 501,48 | 553,86 | 613,78
+
+- 10 | od 27 do 30 | 348,18 | 382,10 | 423,98 | 468,80 | 518,25 | 572,33 | 634,28
+
+- 11 | nad 30 | 359,88 | 394,26 | 437,79 | 484,33 | 535,00 | 591,16 | 656,08
+
+- “.
