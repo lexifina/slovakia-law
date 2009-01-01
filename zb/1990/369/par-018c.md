@@ -24,7 +24,7 @@ i) | | nad | 100 000 obyvateľov | 2,78
 
 (3) Ak hlavný kontrolór obce vykonáva činnosť pre viaceré obce, každá obec mu určí plat podľa odseku 1 v závislosti od dĺžky dohodnutého pracovného času.
 
-(4) Plat hlavného kontrolóra obce je zaokrúhľovaný na celé stovky korún smerom hore.
+(4) Plat hlavného kontrolóra obce je zaokrúhľovaný na celé eurá smerom hore.
 
 (5) Obecné zastupiteľstvo môže hlavnému kontrolórovi schváliť mesačnú odmenu až do výšky 30 % z mesačného platu hlavného kontrolóra podľa odseku 1.
 
