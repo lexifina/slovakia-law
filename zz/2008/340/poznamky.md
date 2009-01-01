@@ -32,6 +32,8 @@
 
 - 16) § 40 ods. 3 písm. b) zákona č. 182/2005 Z. z. v znení zákona č. 283/2007 Z. z.
 
+- 16a) § 9 až 11 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.§ 3 zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 360/2007 Z. z.
+
 - 17) § 7 zákona č. 543/2007 Z. z.
 
 - 18) Hlava II články 3 až 7 nariadenia Rady (ES) č. 1782/2003 z 29. septembra 2003, ktorým sa stanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov a ktorým sa menia a dopĺňajú nariadenia (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/94, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
