@@ -264,6 +264,28 @@ Držiteľ povolenia na vývoz ľudskej plazmy prijme opatrenia potrebné na zabe
 
 27. V § 64 ods. 2 písm. d) sa slová „schválených zdravotníckych pomôcok“ nahrádzajú slovami „zoznam zdravotníckych pomôcok, ktoré spĺňajú požiadavky na uvedenie na trh alebo do prevádzky“.
 
+28. V § 67 ods. 2 písm. a) sa slová „1 000 000 Sk“ nahrádzajú slovami „33 193 eur“.
+
+29. V § 67 ods. 2 písm. b) sa slová „1 000 000 Sk“ nahrádzajú slovami „33 193 eur“.
+
+30. V § 67 ods. 2 písm. c) sa slová „1 000 000 Sk“ nahrádzajú slovami „33 193 eur“.
+
+31. V § 67 ods. 3 sa za slová „uložených v“ vkladajú slová „§ 27 ods. 2, 3, 7, 19, 20 a 22, § 28 ods. 2,“ a slová „500 000 Sk“ sa nahrádzajú slovami „16 596 eur“.
+
+32. V § 67 ods. 4 sa za slová „§ 36 ods. 6“ vkladá čiarka a slová „§ 40 ods. 1 písm. f), § 40 ods. 2, 3, 13 až 15, § 43 ods. 2“ a slová „200 000 Sk“ sa nahrádzajú slovami „6 638 eur“.
+
+33. V § 67 ods. 5 sa slová „1 000 000 Sk“ nahrádzajú slovami „33 193 eur“.
+
+34. V § 67 ods. 6 sa slová „500 000 Sk“ nahrádzajú slovami „16 596 eur“.
+
+35. V § 67 ods. 7 sa slová „200 000 Sk“ nahrádzajú slovami „6 638 eur“.
+
+36. V § 67 ods. 8 sa slová „50 000 Sk“ nahrádzajú slovami „1 659 eur“.
+
+37. V § 67 ods. 9 sa slová „100 000 Sk“ nahrádzajú slovami „3 319 eur“.
+
+38. V § 67 ods. 10 sa slová „100 000 Sk“ nahrádzajú slovami „3 319 eur“ a slová „500 000 Sk“ sa nahrádzajú slovami „16 596 eur“.
+
 39. Príloha č. 4 sa dopĺňa bodmi 10 a 11, ktoré znejú:
 
 „10.
