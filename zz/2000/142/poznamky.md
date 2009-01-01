@@ -10,6 +10,10 @@
 
 - 6a) Napríklad zákon č. 215/1995 Z. z. o geodézii a kartografii v znení zákona č. 423/2003 Z. z.
 
+- 6b) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6c) § 9 ods. 4 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+
 - 7) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 8) Napríklad § 2 ods. 2 písm. a) zákona Slovenskej národnej rady č. 134/1992 Zb. o štátnej správe ochrany ovzdušia v znení neskorších predpisov.
