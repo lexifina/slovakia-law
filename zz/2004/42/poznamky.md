@@ -6,11 +6,11 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 1b) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1991 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+- 1b) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 1) Podľa poznámok k položke 17 zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov je úhrada za zverejnenie údajov zapísaných do obchodného registra (oznámení o uložení listín do zbierky listín) súčasťou súdneho poplatku za podanie návrhu na zápis do obchodného registra (uloženie listiny do zbierky listín).
 
-- 2) Zákon č. 231 /1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+- 2) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 3) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase.
 
