@@ -4,11 +4,11 @@ Príloha k vyhláške č. 101/2008 Z. z.
 
   - Hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti
 
-- [Vzor](../assets/bfdb11c7a0d94049b5c7fdcb1e149eca333d9ff288da98895cf8a502c29e7e6f.pdf)
+- [Vzor](../assets/54b6a1eee48075a10c7f5b15ed7c4485b1ab89368e0609f1fb348b8790c6e94d.pdf)
 
   - Vysvetlivky k vypracovaniu hlásenia Dss (PVZ) 01-04
 
-  - 1. Vykazované údaje sa uvádzajú v tisícoch slovenských korún.
+  - 1. Vykazované údaje sa uvádzajú v tisícoch eur.
 
   - 2. V záhlaví v ľavom rohu v časti „Názov dôchodkovej správcovskej spoločnosti“ sa uvádza obchodné meno dôchodkovej správcovskej spoločnosti podľa platného povolenia na výkon činnosti.
 
@@ -61,5 +61,3 @@ Príloha k vyhláške č. 101/2008 Z. z.
 - Skratka | opis
 
 - čís. r. | číslo riadka
-
-- Sk | slovenská koruna
