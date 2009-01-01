@@ -14,4 +14,4 @@
 
 - b) 7 % hodnostného platu prvého platového stupňa hodnosti vojak 2. stupňa,<sup>24</sup>) ak vykonával mimoriadnu službu v čase vojny alebo vojnového stavu.
 
-(3) Príspevok sa zaokrúhľuje na celé desiatky korún nahor.
+(3) Príspevok sa zaokrúhľuje na celé euro nahor.
