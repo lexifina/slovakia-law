@@ -1,6 +1,6 @@
 # § 54a Ochrana osobných údajov
 
-(1) Na účely identifikácie sporiteľov, poberateľov dôchodkov starobného dôchodkového sporenia a oprávnených osôb uvedených v § 40 ods. 2, uzatvárania, vykonávania a následnej kontroly zmlúv o starobnom dôchodkovom sporení a na účely uvedené v odseku 3 sú sporitelia a oprávnené osoby uvedené v § 40 ods. 2 aj bez súhlasu dotknutých osôb<sup>58a</sup>) povinní pri každom uzatváraní zmluvy o starobnom dôchodkovom sporení dôchodkovej správcovskej spoločnosti na jej žiadosť
+(1) Na účely identifikácie sporiteľov, poberateľov dôchodkov starobného dôchodkového sporenia a oprávnených osôb uvedených v § 40 ods. 1, uzatvárania, vykonávania a následnej kontroly zmlúv o starobnom dôchodkovom sporení a na účely uvedené v odseku 3 sú sporitelia a oprávnené osoby uvedené v § 40 ods. 1 aj bez súhlasu dotknutých osôb<sup>58a</sup>) povinní pri každom uzatváraní zmluvy o starobnom dôchodkovom sporení dôchodkovej správcovskej spoločnosti na jej žiadosť
 
 - a) poskytnúť
 

@@ -26,7 +26,9 @@
 
 - 12) § 15 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
-- 12a) § 15 ods. 1 písm. e) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
+- 12a) § 15 ods. 1 písm. e) zákona č. 461/2003 Z. z. v znení neskorších predpisov
+
+- 12b) § 128 ods. 5 zákona č. 461/2003 Z. z. v znení zákona č. 449/2008 Z. z.
 
 - 14) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -71,6 +73,10 @@
 - 38) § 50a Občianskeho zákonníka.
 
 - 39) § 9 a 10 zákona č. 461/2003 Z. z.
+
+- 39a) § 74 ods. 5 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 39b) § 76 ods. 4 a 5 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 40) § 117 ods. 3 zákona č. 461/2003 Z. z.
 
@@ -166,19 +172,21 @@
 
 - 74) Napríklad zákon č. 594/2003 Z. z., zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
 
-- 75) § 2 zákona č. 566/2001 Z. z.
+- 75) § 8 písm. m) zákona č. 566/2001 Z. z.
 
-- 76) § 7 ods. 3 zákona č. 566/2001 Z. z.
+- 76) § 8 písm. n) zákona č. 566/2001 Z. z.
 
-- 77) § 7 ods. 1 zákona č. 566/2001 Z. z.
+- 77) § 5 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 78) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+- 77a) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 78a) § 5 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 77b) § 1 ods. 2 písm. b) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
-- 79) § 113 zákona č. 566/2001 Z. z.
+- 78) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 79a) § 6 ods. 16 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 79) § 41 a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 79a) § 6 ods. 16 písm. e) zákona č. 483/2001 Z. z.
 
 - 80) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z.
 

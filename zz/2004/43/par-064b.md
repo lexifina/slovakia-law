@@ -2,11 +2,7 @@
 
 (1) Sporiteľ môže prestúpiť z dôchodkovej správcovskej spoločnosti do inej dôchodkovej správcovskej spoločnosti, ak dôchodkovej správcovskej spoločnosti, do ktorej vstupuje a s ktorou uzatvorí zmluvu o starobnom dôchodkovom sporení, predloží originál akceptačného listu. Zmluva o starobnom dôchodkovom sporení podľa prvej vety musí obsahovať aj výslovný písomný prejav vôle sporiteľa prestúpiť do inej dôchodkovej správcovskej spoločnosti.
 
-(2) Akceptačný list podľa odseku 1 vydá bez zbytočného odkladu pobočka Sociálnej poisťovne príslušná podľa miesta pobytu sporiteľa, ktorý má záujem prestúpiť do inej dôchodkovej správcovskej spoločnosti a osobne požiada o vydanie akceptačného listu, ak
-
-- a) ku dňu vydania akceptačného listu uplynuli najmenej dva roky odo dňa zápisu prvej zmluvy o starobnom dôchodkovom sporení do registra zmlúv, odo dňa určenia dôchodkovej správcovskej spoločnosti Sociálnou poisťovňou alebo odo dňa prestupu do dôchodkovej správcovskej spoločnosti, z ktorej sporiteľ prestupuje, a
-
-- b) sporiteľ zaplatil Sociálnej poisťovni poplatok za vydanie akceptačného listu v hotovosti vo výške 500 Sk.
+(2) Akceptačný list podľa odseku 1 vydá bez zbytočného odkladu pobočka Sociálnej poisťovne príslušná podľa miesta pobytu sporiteľa, ktorý má záujem prestúpiť do inej dôchodkovej správcovskej spoločnosti a osobne požiada o vydanie akceptačného listu. Ak ku dňu vydania akceptačného listu neuplynul najmenej jeden rok odo dňa zápisu prvej zmluvy o starobnom dôchodkovom sporení do registra zmlúv alebo odo dňa prestupu do dôchodkovej správcovskej spoločnosti, z ktorej sporiteľ prestupuje, zaplatí sporiteľ Sociálnej poisťovni poplatok za vydanie akceptačného listu vo výške 16 eur.
 
 (3) Akceptačný list obsahuje najmä meno a priezvisko sporiteľa, adresu jeho trvalého pobytu, identifikačné číslo sociálneho zabezpečenia sporiteľa a vyjadrenie Sociálnej poisťovne, že sporiteľ splnil podmienky podľa odseku 2.
 
