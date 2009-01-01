@@ -36,6 +36,12 @@
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 14a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 607/2003 Z. z. v znení neskorších predpisov, zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov, zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z., zákon č. 238/2006 Z. z. v znení neskorších predpisov, zákon č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
+
+- 14b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
+
+- 14c) § 7 ods. 3 písm. n) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 16) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
@@ -62,6 +68,8 @@
 
 - 24a) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
+- 24aa) Čl. 5 nariadenia Rady (ES, Euratom) č. 1605/2002 z 25. júna 2002 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Európskych spoločenstiev v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
+
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
 - 25) Opatrenie Ministerstva financií Slovenskej republiky z 25. februára 2003 č. 1407/2003 – 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky, termíny a miesto predkladania účtovnej závierky pre rozpočtové organizácie, štátne fondy, obce, vyššie územné celky, príspevkové organizácie a niektoré iné právnické osoby, ktorých hlavným predmetom činnosti nie je podnikanie (oznámenie č. 88/2003 Z. z.) v znení neskorších predpisov.
@@ -80,7 +88,7 @@
 
 - 31) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 75 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 32) § 92 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+- 32) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov. § 2 ods. 1 písm. c) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 564/2004 Z. z.
 
 - 33) Napríklad zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -88,7 +96,7 @@
 
 - 35) § 3 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
 
-- § 2 ods. 1 písm. f) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení.
+- § 2 ods. 1 písm. f) zákona č. 597/2003 Z. z. v znení zákona č. 564/2004 Z. z.
 
 - § 33a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 596/2003 Z. z.
 
@@ -109,6 +117,8 @@
 - 42) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 42a) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+
+- 42aa) Napríklad § 3 písm. d) zákona č. 607/2003 Z. z. v znení zákona č. 349/2007 Z. z., § 5 ods. 1 písm. c) a § 6 ods. 1 písm. c) zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
 - 43) Napríklad zákon č. 311/2001 Z. z. Zákonník práce, zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
