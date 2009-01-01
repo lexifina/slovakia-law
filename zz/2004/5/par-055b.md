@@ -18,7 +18,7 @@
 
 (2) Za oprávnené náklady právnickej osoby alebo fyzickej osoby podľa § 55a ods. 5, ak nie sú zahrnuté v oprávnených nákladoch uvedených v odseku 1, sa považujú aj
 
-- a) náklady na potrebnú výbavu účastníkov zaškolenia alebo prípravy na prácu, učebnicami a učebnými pomôckami najviac vo výške 1 500 Sk na jedného účastníka zaškolenia alebo prípravy na prácu,
+- a) náklady na potrebnú výbavu účastníkov zaškolenia alebo prípravy na prácu, učebnicami a učebnými pomôckami najviac vo výške 49,80 eura na jedného účastníka zaškolenia alebo prípravy na prácu,
 
 - b) náklady na osobné ochranné pracovné prostriedky, umývacie, čistiace a dezinfekčné prostriedky a ochranné nápoje podľa osobitného predpisu<sup>46d</sup>) poskytnuté účastníkom zaškolenia alebo prípravy na prácu,
 

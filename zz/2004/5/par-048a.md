@@ -8,6 +8,6 @@
 
   - a) preukázané cestovné výdavky na cestu hromadnými dopravnými prostriedkami z miesta trvalého pobytu alebo prechodného pobytu fyzickej osoby do miesta konania vzdelávania a prípravy pre trh práce a späť, ak sa vzdelávanie a príprava pre trh práce uskutočňuje mimo obce trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, záujemcom o zamestnanie alebo zamestnancom,
 
-  - b) preukázané výdavky fyzickej osoby na ubytovanie počas vzdelávania a prípravy pre trh práce, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, záujemcom o zamestnanie alebo zamestnancom, najviac vo výške 1 000 Sk na deň,
+  - b) preukázané výdavky fyzickej osoby na ubytovanie počas vzdelávania a prípravy pre trh práce, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, záujemcom o zamestnanie alebo zamestnancom, najviac vo výške 33,20 eura na deň,
 
   - c) stravné fyzickej osoby podľa osobitného predpisu<sup>21</sup>) v dňoch účasti na vzdelávaní a príprave pre trh práce, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, záujemcom o zamestnanie alebo zamestnancom.

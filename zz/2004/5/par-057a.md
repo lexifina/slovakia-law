@@ -1,6 +1,6 @@
 # § 57a Príspevok na obnovu alebo technické zhodnotenie hmotného majetku chránenej dielne alebo chráneného pracoviska
 
-(1) Zamestnávateľovi, ktorý prevádzkuje chránenú dielňu alebo chránené pracovisko alebo občanovi so zdravotným postihnutím, ktorý prevádzkuje alebo vykonáva samostatnú zárobkovú činnosť v chránenej dielni alebo na chránenom pracovisku, môže úrad na základe písomnej žiadosti poskytnúť príspevok na obnovu alebo technické zhodnotenie hmotného majetku<sup>60ab</sup>) chránenej dielne alebo chráneného pracoviska (ďalej len „príspevok“). Ak žiadosť predkladá platiteľ dane z pridanej hodnoty, musí byť vstupná cena hmotného majetku bez dane z pridanej hodnoty vyššia ako 30 000 Sk.
+(1) Zamestnávateľovi, ktorý prevádzkuje chránenú dielňu alebo chránené pracovisko alebo občanovi so zdravotným postihnutím, ktorý prevádzkuje alebo vykonáva samostatnú zárobkovú činnosť v chránenej dielni alebo na chránenom pracovisku, môže úrad na základe písomnej žiadosti poskytnúť príspevok na obnovu alebo technické zhodnotenie hmotného majetku<sup>60ab</sup>) chránenej dielne alebo chráneného pracoviska (ďalej len „príspevok“). Ak žiadosť predkladá platiteľ dane z pridanej hodnoty, musí byť vstupná cena hmotného majetku bez dane z pridanej hodnoty vyššia ako 995,82 eura.
 
 (2) Obnovou hmotného majetku sa rozumie zakúpenie nového hmotného majetku. Technickým zhodnotením hmotného majetku je jeho technické zhodnotenie podľa osobitných predpisov.<sup>60ac</sup>)
 

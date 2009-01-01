@@ -4,7 +4,7 @@
 
 - (1) Dávka sa poskytuje za kalendárny mesiac vo výške sumy životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného predpisu<sup>46e</sup>) platnej k prvému dňu kalendárneho mesiaca, v ktorom uchádzač o zamestnanie nastúpil na vzdelávanie a prípravu pre trh práce alebo občan so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, nastúpil na prípravu na pracovné uplatnenie.
 
-- (2) Ak sú splnené podmienky na poskytovanie dávky iba počas časti kalendárneho mesiaca, patrí dávka v pomernej výške zodpovedajúcej počtu kalendárnych dní, v ktorých podmienky na poberanie dávky boli splnené. Výsledná suma sa zaokrúhľuje na celé koruny smerom nahor.
+- (2) Ak sú splnené podmienky na poskytovanie dávky iba počas časti kalendárneho mesiaca, patrí dávka v pomernej výške zodpovedajúcej počtu kalendárnych dní, v ktorých podmienky na poberanie dávky boli splnené. Výsledná suma sa zaokrúhľuje na najbližší eurocent nahor.
 
 - (3) Dávka je splatná pozadu za mesačné obdobie, a to najneskôr do konca nasledujúceho kalendárneho mesiaca.
 

@@ -8,7 +8,7 @@
 
   - a) preukázané cestovné výdavky na cestu hromadnými dopravnými prostriedkami z miesta trvalého pobytu alebo prechodného pobytu fyzickej osoby do miesta konania zaškolenia alebo prípravy na prácu a späť, ak sa zaškolenie alebo príprava na prácu uskutočňujú mimo obce trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím,
 
-  - b) preukázané výdavky na ubytovanie počas zaškolenia alebo prípravy na prácu, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, najviac vo výške 1 000 Sk na deň,
+  - b) preukázané výdavky na ubytovanie počas zaškolenia alebo prípravy na prácu, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím, najviac vo výške 33,20 eura na deň,
 
   - c) stravné fyzickej osoby podľa osobitného predpisu<sup>21</sup>) v dňoch jej účasti na zaškolení alebo príprave na prácu, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu občana so zdravotným postihnutím.
 

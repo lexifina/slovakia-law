@@ -4,7 +4,7 @@
 
 (2) Príspevok poskytuje úrad na základe uzatvorenej písomnej dohody počas 12 kalendárnych mesiacov najviac vo výške 50 % z celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje. Príspevok sa neposkytuje na zamestnávanie znevýhodneného uchádzača o zamestnanie, na ktorého zamestnanie bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50a, § 51a, § 56 a 56a.
 
-(3) Úrad poskytne na základe uzatvorenej písomnej dohody príspevok aj po uplynutí 12 kalendárnych mesiacov, ak sa zamestnanec, na podporu zamestnania ktorého bol poskytnutý príspevok podľa odseku 2, neumiestnil na otvorenom trhu práce. Príspevok sa poskytuje najviac vo výške 40 % z celkovej ceny práce podľa § 49 ods. 4 vypočítanej za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa predlžuje poskytovanie príspevku, najdlhšie počas 12 kalendárnych mesiacov.
+(3) Úrad poskytne na základe uzatvorenej písomnej dohody príspevok aj po uplynutí 12 kalendárnych mesiacov, ak sa zamestnanec, na podporu zamestnania ktorého bol poskytnutý príspevok podľa odseku 2, neumiestnil na otvorenom trhu práce. Príspevok sa poskytuje najviac vo výške 40 % z celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa predlžuje poskytovanie príspevku, najdlhšie počas 12 kalendárnych mesiacov.
 
 (4) Dohoda uzatvorená podľa odseku 2 alebo 3 obsahuje
 

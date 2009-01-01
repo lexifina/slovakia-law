@@ -1,6 +1,6 @@
 # § 53a Príspevok na presťahovanie za prácou
 
-(1) Príspevok na presťahovanie za prácou (ďalej len „príspevok“) je náhrada časti preukázaných výdavkov súvisiacich s presťahovaním uchádzača o zamestnanie z miesta jeho trvalého pobytu v súvislosti so získaním zamestnania vo výške najviac 40 000 Sk, ak miesto jeho nového trvalého pobytu na území Slovenskej republiky, do ktorého sa presťahoval v súvislosti so získaním zamestnania, je vzdialené od miesta pôvodného trvalého pobytu najmenej 50 km.
+(1) Príspevok na presťahovanie za prácou (ďalej len „príspevok“) je náhrada časti preukázaných výdavkov súvisiacich s presťahovaním uchádzača o zamestnanie z miesta jeho trvalého pobytu v súvislosti so získaním zamestnania vo výške najviac 1 327,76 eura, ak miesto jeho nového trvalého pobytu na území Slovenskej republiky, do ktorého sa presťahoval v súvislosti so získaním zamestnania, je vzdialené od miesta pôvodného trvalého pobytu najmenej 50 km.
 
 (2) Výdavky súvisiace s presťahovaním za prácou sú aj preukázané výdavky na prvé nájomné a na prvé platby súvisiace s užívaním bytu.
 

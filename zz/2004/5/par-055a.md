@@ -20,7 +20,7 @@
 
 (7) Na zaškolenie alebo prípravu na prácu občana so zdravotným postihnutím môže úrad poskytnúť príspevok na úhradu oprávnených nákladov na zaškolenie alebo prípravu na prácu a úhradu oprávnených nákladov súvisiacich so zaškolením alebo prípravou na prácu občana so zdravotným postihnutím podľa § 55b a 55c na základe uzatvorenej písomnej dohody podľa odseku 10.
 
-(8) Počas zaškolenia alebo prípravy na prácu, ktoré trvajú najviac jeden mesiac, má občan so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie alebo záujemcom o zamestnanie, nárok na náhradu výdavkov v rozsahu podľa § 46 ods. 4 až 7 a 9. Občanovi so zdravotným postihnutím, ktorý je zamestnancom, počas zaškolenia alebo počas prípravy na prácu, ktoré trvajú najviac jeden mesiac, patrí mzda, plat, náhrada mzdy alebo náhrada platu.
+(8) Počas zaškolenia alebo prípravy na prácu má občan so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie alebo záujemcom o zamestnanie, nárok na náhradu výdavkov v rozsahu podľa § 46 ods. 4 až 7 a 9. Občanovi so zdravotným postihnutím, ktorý je zamestnancom, počas zaškolenia alebo počas prípravy na prácu patrí mzda, plat, náhrada mzdy alebo náhrada platu.
 
 (9) Ak zaškolenie alebo príprava na prácu občana so zdravotným postihnutím, ktorý je uchádzačom o zamestnanie, trvá dlhšie ako jeden kalendárny mesiac, má nárok na dávku počas prípravy na pracovné uplatnenie občana so zdravotným postihnutím podľa § 48b.
 

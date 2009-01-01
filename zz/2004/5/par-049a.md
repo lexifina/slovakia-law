@@ -10,7 +10,7 @@
 
 (5) Zapracovanie znevýhodneného uchádzača o zamestnanie sa vykonáva u poskytovateľa zapracovania najdlhšie počas troch kalendárnych mesiacov v rozsahu najviac 30 hodín týždenne, okrem týždňa, v ktorom sa zapracovanie začalo vykonávať. Začiatok denného času zapracovania a jeho rozvrh určuje poskytovateľ zapracovania.
 
-(6) Úrad poskytne znevýhodnenému uchádzačovi o zamestnanie príspevok na zapracovanie (ďalej len „príspevok“) mesačne vo výške sumy životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného predpisu.<sup>46e</sup>) Ak znevýhodnený uchádzač o zamestnanie zapracovanie nevykonával celý kalendárny mesiac, príspevok sa mu poskytne v pomernej výške zodpovedajúcej počtu pracovných hodín. Výsledná čiastka sa zaokrúhľuje na celé koruny smerom nahor.
+(6) Úrad poskytne znevýhodnenému uchádzačovi o zamestnanie príspevok na zapracovanie (ďalej len „príspevok“) mesačne vo výške sumy životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného predpisu.<sup>46e</sup>) Ak znevýhodnený uchádzač o zamestnanie zapracovanie nevykonával celý kalendárny mesiac, príspevok sa mu poskytne v pomernej výške zodpovedajúcej počtu pracovných hodín. Výsledná suma sa zaokrúhľuje na najbližší eurocent nahor.
 
 (7) Príspevok sa poskytuje najneskôr do 30 dní po uplynutí predchádzajúceho kalendárneho mesiaca.
 
@@ -18,7 +18,7 @@
 
 - a) cestovné výdavky z miesta trvalého pobytu alebo prechodného pobytu na miesto vykonávania zapracovania a späť a výdavky na stravovanie podľa osobitného predpisu,<sup>21</sup>)
 
-- b) preukázané výdavky na ubytovanie počas zapracovania, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu znevýhodneného uchádzača o zamestnanie, najviac vo výške 1 000 Sk na deň,
+- b) preukázané výdavky na ubytovanie počas zapracovania, ktoré sa koná mimo miesta trvalého pobytu alebo prechodného pobytu znevýhodneného uchádzača o zamestnanie, najviac vo výške 33,20 eura na deň,
 
 - c) výdavky na služby pre rodinu s deťmi podľa § 46 ods. 9,
 
