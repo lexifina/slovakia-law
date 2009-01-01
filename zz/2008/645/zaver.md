@@ -1,0 +1,1 @@
+Jaroslav Baška v. r.
