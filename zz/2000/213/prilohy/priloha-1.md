@@ -32,133 +32,131 @@ vashegyit
 
 CHRÁNENÉ NERASTY A ICH SPOLOČENSKÁ HODNOTA
 
-Názov | Vymedzenie | Sk
+Názov | Vymedzenie | Euro
 
-akantit | kryštál nad 7 mm | 2 000,- až 4 000,-
+-------------------------------------------------------------------------------------------------------------------------------- | |
 
-achát | prírodný alebo nabrúsený nad 25 cm<sup>2</sup> | 1 100,- až 1 800,-
+akantit | kryštál nad 7 mm | 66,38 –132,77
 
-ametyst | kryštál nad 8 cm | 1 200,- až 2 000,-
+achát | prírodný alebo nabrúsený nad 25 cm<sup>2</sup> | 36,51 – 59,74
 
-ametyst holubníkovitý | kryštál nad 5 cm | 1 600,- až 3 000,-
+ametyst | kryštál nad 8 cm | 39,83 – 66,38
 
-antimón | zrnitý agregát nad 12 cm<sup>2</sup> | 1 000,- až 2 000,-
+ametyst holubníkovitý | kryštál nad 5 cm | 53,11 – 99,58
 
-antimonit | kryštál nad 8 cm | 2 700,- až 5 000,-
+antimón | zrnitý agregát nad 12 cm<sup>2</sup> | 33,19 – 66,38
 
-antlerit | agregát kryštálov nad 10 cm<sup>2</sup> | 800,- až 1 500,-
+antimonit | kryštál nad 8 cm | 89,62 – 165,96
 
-apjohnit | agregát kryštálov nad 5 cm<sup>2</sup> | 1 200,- až 2 000,-
+antlerit | agregát kryštálov nad 10 cm<sup>2</sup> | 26,55 – 49,79
 
-aragonit | kryštál nad 15 cm | 1 000,- až 5 000,-
+apjohnit | agregát kryštálov nad 5 cm<sup>2</sup> | 39,83 – 66,38
 
-| formy aragonitovej výplne v jaskyniach a priepastiach | 1 000,- až 15 000,-
+aragonit | kryštál nad 15 cm formy aragonitovej výplne v jaskyniach a priepastiach | 33,19 – 165,96 33,19 – 497,90
 
-arzenolit | agregát kryštálov nad 5 cm<sup>2</sup> | 1 100,- až 2 000,-
+arzenolit | agregát kryštálov nad 5 cm<sup>2</sup> | 36,51 – 66,38
 
-baryt | kryštál nad 5 cm | 900,- až 1 500,-
+baryt | kryštál nad 5 cm | 29,87 – 49,79
 
-botryogén | agregát kryštálov nad 5 cm<sup>2</sup> | 1 600,- až 3 000,-
+botryogén | agregát kryštálov nad 5 cm<sup>2</sup> | 53,11 – 99,58
 
-camerolait | agregát kryštálov nad 6 cm<sup>2</sup> | 1 000,- až 2 000,-
+camerolait | agregát kryštálov nad 6 cm<sup>2</sup> | 33,19 – 66,38
 
-celestín | kryštál nad 1 cm, agregát kryštálov nad 5 cm<sup>2</sup> | 1 300,- až 2 500,-
+celestín | kryštál nad 1 cm, agregát kryštálov nad 5 cm<sup>2</sup> | 43,15 – 82,98
 
-claudetit | agregát kryštálov nad 5 cm<sup>2</sup> | 1 400,- až 3 000,-
+claudetit | agregát kryštálov nad 5 cm<sup>2</sup> | 46,47 – 99,58
 
-devillín | kryštál nad 7 mm, agregát kryštálov nad 10 cm<sup>2</sup> | 1 000,- až 2 000,-
+devillín | kryštál nad 7 mm, agregát kryštálov nad 10 cm<sup>2</sup> | 33,19 – 66,38
 
-diaspór | agregát kryštálov nad 15 cm<sup>2</sup> | 900,- až 2 000,-
+diaspor | agregát kryštálov nad 15 cm<sup>2</sup> | 29,87 – 66,38
 
-euchroit | kryštál nad 2 cm, agregát kryštálov nad 8 cm<sup>2</sup> | 2 200,- až 4 400,-
+euchroit | kryštál nad 2 cm, agregát kryštálov nad 8 cm<sup>2</sup> | 73,02 – 146,05
 
-evansit | nátekový agregát nad 20 cm<sup>2</sup> | 1 500,- až 3 000,-
+evansit | nátekový agregát nad 20 cm<sup>2</sup> | 49,79 – 99,58
 
-evenkit | agregát kryštálov nad 10 cm<sup>2</sup> | 1 300,- až 2 600,-
+evenkit | agregát kryštálov nad 10 cm<sup>2</sup> | 43,15 – 86,30
 
-F-zunyit | zrnitý agregát nad 25 cm<sup>2</sup> | 800,- až 2 000,-
+F-zunyit | zrnitý agregát nad 25 cm<sup>2</sup> | 26,55 – 66,38
 
-galenit | kryštál nad 5 cm | 1 000,- až 6 000,-
+galenit | kryštál nad 5 cm | 33,19 – 199,16
 
-hauerit | kryštál nad 5 mm | 1 500,- až 3 000,-
+hauerit | kryštál nad 5 mm | 49,79 – 99,58
 
-hodrušit | kryštál nad 5 mm, agregát kryštálov nad 5 cm<sup>2</sup> | 1 700,- až 3 000,-
+hodrušit | kryštál nad 5 mm, agregát kryštálov nad 5 cm<sup>2</sup> | 56,42 – 99,58
 
-chalcedón | náteky nad 50 cm<sup>2</sup> | 800,- až 3 500,-
+chalcedón | náteky nad 50 cm<sup>2</sup> | 26,55 – 116,17
 
-chalkofylit | agregát kryštálov nad 8 cm<sup>2</sup> alebo kryštál nad 0,5 cm | 1 200,- až 2 400,-
+chalkofylit | agregát kryštálov nad 8 cm<sup>2</sup> alebo kryštál nad 0,5 cm | 39,83 – 79,66
 
-chalkopyrit | kryštál nad 4 cm | 1 500,- až 3 000,-
+chalkopyrit | kryštál nad 4 cm | 49,79 – 99,58
 
-idrialit (idrialín) | agregát kryštálov nad 10 cm<sup>2</sup> | 1 000,- až 2 000,-
+idrialit (idrialín) | agregát kryštálov nad 10 cm<sup>2</sup> | 33,19 – 66,38
 
-kalcit | kryštál nad 15 cm | 800,- až 2 000,-
+kalcit | kryštál nad 15 cm sintrové formy v jaskyniach a priepastiach | 26,55 – 66,38 26,55 – 331,93
 
-| sintrové formy v jaskyniach a priepastiach | 800,- až 10 000,-
+kermezit | kryštál nad 5 cm, agregát kryštálov nad 50 cm<sup>2</sup> | 33,19 – 298,74
 
-kermezit | kryštál nad 5 cm, agregát kryštálov nad 50 cm<sup>2</sup> | 1 000,- až 9 000,-
+kornelit* | | 33,19 – 66,38
 
-kornelit* | | 1 000,- až 2 000,-
+kremeň holubníkovitý | kryštál nad 12 cm | 59,74 – 116,17
 
-kremeň holubníkovitý | kryštál nad 12 cm | 1 800,- až 3 500,-
+krištáľ | kryštál nad 10 cm | 33,19 – 66,38
 
-krištáľ | kryštál nad 10 cm | 1 000,- až 2 000,-
+krištáľ holubníkovitý | kryštál nad 6 cm, agregát kryštálov nad 60 cm<sup>2</sup> | 33,19 – 199,16
 
-krištáľ holubníkovitý | kryštál nad 6 cm, agregát kryštálov nad 60 cm<sup>2</sup> | 1 000,- až 6 000,-
+langit | kryštál nad 5 mm, agregát kryštálov nad 20 cm<sup>2</sup> | 26,55 – 66,38
 
-langit | kryštál nad 5 mm, agregát kryštálov nad 20 cm<sup>2</sup> | 800,- až 2 000,-
+libethenit | kryštál nad 7 mm | 53,11 – 99,58
 
-libethenit | kryštál nad 7 mm | 1 600,- až 3 000,-
+meď | agregát kryštálov a plieškov nad 20 cm<sup>2</sup> | 46,47 – 66,38
 
-meď | agregát kryštálov a plieškov nad 20 cm<sup>2</sup> | 1 400,- až 2 000,-
+mrázekit | kryštál nad 3 mm, agregát kryštálov nad 4 cm<sup>2</sup> | 66,38 – 132,77
 
-mrázekit | kryštál nad 3 mm, agregát kryštálov nad 4 cm<sup>2</sup> | 2 000,- až 4 000,-
+opál drahý | hniezda nad 10 cm<sup>2</sup> | 66,38 – 531,10
 
-opál drahý | hniezda nad 10 cm<sup>2</sup> | 2 000,- až 16 000,-
+polybázit | kryštál nad 1 cm | 49,79 – 99,58
 
-polybázit | kryštál nad 1 cm | 1 500,- až 3 000,-
+posnjakit | agregát kryštálov nad 8 cm<sup>2</sup> | 26,55 – 53,11
 
-posnjakit | agregát kryštálov nad 8 cm<sup>2</sup> | 800,- až 1 600,-
+pseudomalachit | kôry, náteky nad 15 cm<sup>2</sup> | 29,87 – 66,38
 
-pseudomalachit | kôry, náteky nad 15 cm<sup>2</sup> | 900,- až 2 000,-
+pyrargyrit | kryštál nad 1 cm | 59,74 – 119,49
 
-pyrargyrit | kryštál nad 1 cm | 1 800,- až 3 600,-
+pyrit | kryštál nad 10 cm | 33,19 – 66,38
 
-pyrit | kryštál nad 10 cm | 1 000,- až 2 000,-
+romboklas* | | 46,47 – 92,94
 
-romboklas* | | 1 400,- až 2 800,-
+rumelka | kryštál nad 8 mm | 39,83 – 79,66
 
-rumelka | kryštál nad 8 mm | 1 200,- až 2 400,-
+rutil | kryštál nad 5 cm | 26,55 – 53,11
 
-rutíl | kryštál nad 5 cm | 800,- až 1 600,-
+sfalerit | kryštál nad 5 cm | 26,55 – 99,58
 
-sfalerit | kryštál nad 5 cm | 800,- až 3 000,-
+schafarzikit* | | 66,38 – 99,58
 
-schafarzikit* | | 2 000,- až 3 000,-
+skinnerit | kryštál nad 1 cm | 43,15 – 82,98
 
-skinnerit | kryštál nad 1 cm | 1 300,- až 2 500,-
+stefanit | kryštál nad 1 cm | 66,38 – 132,77
 
-stefanit | kryštál nad 1 cm | 2 000,- až 4 000,-
+strašimirit | agregát kryštálov nad 15 cm<sup>2</sup> | 26,55 – 53,11
 
-strašimirit | agregát kryštálov nad 15 cm<sup>2</sup> | 800,- až 1 600,-
+striebro | agregát kryštálov, drôtikov a plieškov nad 10 cm<sup>2</sup> | 99,58 – 199,16
 
-striebro | agregát kryštálov, drôtikov a plieškov nad 10 cm<sup>2</sup> | 3 000,- až 6 000,-
+szomolnokit* | | 33,19 – 66,38
 
-szomolnokit* | | 1 000,- až 2 000,-
+tetradymit | kryštál nad 5 mm | 46,47 – 92,94
 
-tetradymit | kryštál nad 5 mm | 1 400,- až 2 800,-
+tetraedrit | kryštál nad 2 cm | 33,19 – 66,38
 
-tetraedrit | kryštál nad 2 cm | 1 000,- až 2 000,-
+valentinit | kryštál nad 2 cm, agregát kryštálov nad 10 cm<sup>2</sup> | 59,74 – 119,49
 
-valentinit | kryštál nad 2 cm, agregát kryštálov nad 10 cm<sup>2</sup> | 1 800,- až 3 600,-
+vashegyit | zrnitý agregát nad 10 cm<sup>2</sup> | 46,47 – 92,94
 
-vashegyit | zrnitý agregát nad 10 cm<sup>2</sup> | 1 400,- až 2 800,-
+voltait | kryštál nad 5 mm, agregát kryštálov nad 5 cm<sup>2</sup> | 69,70 – 139,41
 
-voltait | kryštál nad 5 mm, agregát kryštálov nad 5 cm<sup>2</sup> | 2 100,- až 4 200,-
+záhneda | kryštál nad 15 cm | 66,38 – 132,77
 
-záhneda | kryštál nad 15 cm | 2 000,- až 4 000,-
-
-zlato, elektrum | agregát kryštálov, drôtikov a plieškov nad 5 cm<sup>2</sup> | 5 000,- až 15 000,-
+zlato, elektrum | agregát kryštálov, drôtikov a plieškov nad 5 cm<sup>2</sup> | 165,96 – 497,90
 
 Poznámky:
 
@@ -1556,80 +1554,82 @@ Príloha č. 3 k vyhláške č. 213/2000 Z. z.
 
 CHRÁNENÉ SKAMENELINY A ICH SPOLOČENSKÁ HODNOTA
 
-Kmeň: CHORDATA | |
-
-Podkmeň: VERTEBRATA | |
+Kmeň: CHORDATAPodkmeň: VERTEBRATA
 
 Trieda: CHONDRICHTHYES | |
 
-| zuby a tŕne žralokov, rají a chimér staršie ako neogén | 500,- až 1 000,-
+| zuby a tŕne žralokov, rají a chimér staršie ako neogén | 16,59 – 33,19 eur
 
 Trieda: ACTINOPTERYGII | |
 
-| a) lebka - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| a) lebka – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
 Trieda: SARCOPTERYGII | |
 
-| a) lebka - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| a) lebka – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
 Trieda: AMPHIBIA | |
 
-| a) lebka - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| a) lebka – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
 Trieda: REPTILIA | |
 
-| a) lebka - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| a) lebka – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| c) odtlačky stupají | 5 000,- až 10 000,-
+| c) odtlačky stupají | 165,96 – 331,93 eur
 
 Trieda: AVES | |
 
-| a) lebka - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| a) lebka – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 70 % | 1 000,- až 5 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 70 % | 33,19 – 165,96 eur
 
 Trieda: MAMMALIA | |
 
-| a) lebka - stav zachovania viac ako 70 % | 2 000,- až 15 000,-
+| a) lebka – stav zachovania viac ako 70 % | 66,38 – 497,90 eur
 
-| b) postkraniálny skelet jedinca - stav zachovania viac ako 50 % | 2 000,- až 50 000,-
+| b) postkraniálny skelet jedinca – stav zachovania viac ako 50 % | 66,38 – 1 659,69 eur
 
 Kmeň: ARTHROPODA | |
 
 Trieda: TRILOBITA | |
 
-| - stav zachovania viac ako 50 % | 1 000,- až 10 000,-
+| – stav zachovania viac ako 50 % | 33,19 – 331,93 eur
 
 Kmeň: ECHINODERMATA | |
 
-| - stav zachovania viac ako 70 % a staršie ako treťohorné | 1 000,- až 5 000,-
+| – stav zachovania viac ako 70 % a staršie ako treťohorné | 33,19 – 165,96 eur
 
 Kmeň: HEMICHORDATA | |
 
 Trieda: GRAPTOLITHINA | |
 
-| - stav zachovania umožňujúci jednoznačnú determináciu | 1 000,- až 5 000,-
+| – stav zachovania umožňujúci jednoznačnú determináciu | 33,19 – 165,96 eur
 
 TELOMOPHYTAE | |
 
 Oddelenie: POLYPODIOPHYTA PRVOHORNÉHO VEKU | |
 
-| - stav zachovania umožňujúci jednoznačnú determináciu | 1 000,- až 5 000,-
+| – stav zachovania umožňujúci jednoznačnú determináciu | 33,19 – 165,96 eur
 
 Oddelenie: PTERIDOSPERMOPHYTA | |
 
-| - stav zachovania umožňujúci jednoznačnú determináciu | 1 000,- až 5 000,-
+| – stav zachovania umožňujúci jednoznačnú determináciu | 33,19 – 165,96 eur
 
-Poznámka:1. Pod postkraniálnym skeletom sa rozumejú kosti trupu a končatín jedného jedinca (okrem lebky), ktoré sa pri určitom stupni zachovania považujú za vzácne z vedeckého alebo múzejného hľadiska a z hľadiska ochrany prírodného dedičstva.2. Spoločenská hodnota je vyjadrená v slovenských korunách.
+Poznámky:
+
+1. Pod postkraniálnym skeletom sa rozumejú kosti trupu a končatín jedného jedinca (okrem lebky), ktoré sa pri určitom stupni zachovania považujú za vzácne z vedeckého alebo múzejného hľadiska a z hľadiska ochrany prírodného dedičstva.
+
+2. Spoločenská hodnota je vyjadrená v eurách.
 
 Príloha č. 4 k vyhláške č. 213/2000 Z. z.
 
-[Vzor 04](../assets/cc0178556f319b9be4a59761962caa343266b7ea6f21ec058f9d65206e4eef6b.pdf)
+[Vzor 04](../assets/d35d5d1fe1f5999cdb1985c1953cf7b11440150ae54c9a9230e0282a5fc01417.pdf)
