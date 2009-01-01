@@ -40,7 +40,7 @@
 
 - Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 17) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 17) § 6a a 7b zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení zákona č. 535/2008 Z. z.
 
 - 18) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -131,3 +131,5 @@
 - 47) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 48) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- 49) § 2 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
