@@ -8,7 +8,7 @@
 
 - c) poruší inú povinnosť ustanovenú týmto zákonom.
 
-(2) Za priestupok podľa odseku 1 možno uložiť pokutu do 50 000 Sk a zákaz činnosti až na dva roky.
+(2) Za priestupok podľa odseku 1 možno uložiť pokutu do 1 650 eur a zákaz činnosti až na dva roky.
 
 (3) Priestupok podľa odseku 1 možno prejednať len na návrh postihnutej osoby, jej zákonného zástupcu alebo opatrovníka (ďalej len „navrhovateľ"). Navrhovateľ je účastníkom konania o priestupku.
 
