@@ -30,9 +30,17 @@
 
 - 16) § 175za Občianskeho súdneho poriadku.
 
+- 16a) Zákon č. 385/2000 Z. z.
+
 - 17) § 17 ods. 1 Trestného poriadku.
 
 - 18) § 116 ods. 2 písm. c) zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 18a) § 30 zákona č. 385/2000 Z. z.
+
+- Občiansky súdny poriadok.
+
+- Trestný poriadok.
 
 - 19) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
 
@@ -87,5 +95,3 @@
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 44) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
-
-- 45) § 5 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
