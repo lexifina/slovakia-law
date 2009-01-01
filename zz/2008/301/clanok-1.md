@@ -101,3 +101,5 @@ Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 283/2001
 - (3)
 
 - Žiadosť o súhlas na spracovanie odpadu z elektrozariadení okrem náležitostí podľa § 36 obsahuje aj spôsob zabezpečenia prepravy a spracovania odpadu z elektrozariadení.“.
+
+- 14. V prílohe č. 4 tabuľke 2A sa vypúšťa kód „O Odovzdanie odpadov inému subjektu na ďalšiu úpravu alebo zhodnotenie“.
