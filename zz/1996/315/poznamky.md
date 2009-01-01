@@ -22,7 +22,11 @@
 
 - 10) § 3d zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
-- 10a) § 17 ods. 1 písm. a), b) a c) zákona č. 195/1998 Z. z. o sociálnej pomoci.
+- 10a) § 17 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 10b) § 15 zákona č. 447/2008 Z. z.
+
+- 10c) § 52 zákona č. 447/2008 Z. z.
 
 - 11) § 20 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
 
@@ -119,5 +123,7 @@
 - 41a) § 23 ods. 8, 9 a 11 písm. a) zákona č. 725/2004 Z. z.
 
 - 43) Zákon č. 71/1967 Zb.
+
+- 43a) Zákon č. 447/2008 Z. z.
 
 - 44) § 6 zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách.
