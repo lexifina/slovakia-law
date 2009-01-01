@@ -16,6 +16,8 @@
 
 - 6a) § 62 ods. 1 písm. a) zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
+- 6b) § 63 zákona č. 305/2005 Z. z. v znení zákona č. 466/2008 Z. z.
+
 - 7) § 4 zákona č. 601/2003 Z. z.
 
 - 8) § 5 zákona č. 595/2003 Z. z.
@@ -33,6 +35,8 @@
 - 10) § 3 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 11) § 8 ods. 1 písm. a) zákona č. 595/2003 Z. z.
+
+- 11a) § 226 Zákonníka práce.
 
 - 12) § 2 písm. a) zákona č. 601/2003 Z. z.
 
@@ -58,7 +62,7 @@
 
 - 13ec) § 52a zákona č. 5/2004 Z. z.
 
-- 13f) § 33 zákona č. 595/2003 Z. z.
+- 13f) § 32a a 33 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 14) § 57 ods. 1 a 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -81,6 +85,12 @@
 - Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
 - 20a) § 2 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
+
+- 20b) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+
+- 20c) § 23 zákona č. 245/2008 Z. z.
+
+- 20d) § 12 ods. 2 zákona č. 600/2003 Z. z.
 
 - 21) § 46 a 54 zákona č. 5/2004 Z. z.
 
