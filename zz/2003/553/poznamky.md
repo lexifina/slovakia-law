@@ -6,15 +6,17 @@
 
 - 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) Napríklad § 9 ods. 1 písm. a) až c) zákona č. 384/1997 Z. z. o divadelnej činnosti, § 6 ods. 1 písm. a) až c) zákona č. 385/1997 Z. z. o Slovenskom národnom divadle.
+- 5) § 52 ods. 1 a § 62 ods. 3 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
-- 6) § 26 ods. 5 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 450/2000 Z. z.
+- 6) Nariadenie Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Ú. v. ES L 315, 28. 11. 2003) v platnom znení.
 
 - 8) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 
-- 9) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 9) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 9a) Napríklad § 9 ods. 1 písm. a) až c) zákona č. 384/1997 Z. z. o divadelnej činnosti.
 
 - 10) § 143 ods. 8 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
@@ -42,7 +44,9 @@
 
 - 19) § 14 ods. 2 písm. b) až d) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
-- 20) Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+- 20) § 120, § 130 ods. 2 písm. a) a b) a odsek 3 písm. b) a c) zákona č. 245/2008 Z. z.
+
+- 20a) § 73 zákona č. 305/2005 Z. z.
 
 - 21) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov.
 
@@ -66,19 +70,37 @@
 
 - 29a) Napríklad zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov, vyhláška Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z. o ďalšom vzdelávaní pedagogických pracovníkov.
 
-- 30) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 29aa) § 24 ods. 5 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 30) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
 
 - 31) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 32a) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- 32b) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
+
 - 33) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 33a) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z. o uzavretí Dohovoru, ktorým sa definuje štatút Európskych škôl.
+- 33a) § 138 a 141 Zákonník práce.
 
-- 34) Nariadenie vlády Slovenskej republiky č. 164/2002 Z. z. o spôsobe výpočtu platovej relácie na výpočet časti platu v peňažných prostriedkoch v inej ako slovenskej mene a o obsahu cenovej dokumentácie na určenie platového koeficientu.
+- 33b) § 131 Zákonník práce.
 
-- 35) Nariadenie vlády Slovenskej republiky č. 336/2002 Z. z., ktorým sa ustanovujú podrobnosti na poskytovanie zahraničného príspevku.
+- 33c) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 33d) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 33e) Dohovor, ktorým sa definuje štatút európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
+
+- 34) § 99 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+
+- 35) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
+
+- 35a) § 41 ods. 5 zákona č. 131/2002 Z. z.
 
 - 36) § 2 ods. 3 písm. d) zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 

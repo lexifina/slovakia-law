@@ -58,18 +58,18 @@ Príloha č. 1 k zákonu č. 553/2003 Z. z.
 
   - 12. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie tretieho stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Vysokošpecializované odborné práce alebo zložité analytické a syntetické činnosti, ktorých výsledkom sú riešenia zásadného charakteru. Koordinovanie komplexov systémov s nárokmi na mimoriadne schopnosti, najmä tvorivé, komunikačné a podobne. Výskumné a vývojové práce pri tvorbe nových riešení s cieľom dosiahnutia značného pokroku na príslušnom úseku činnosti. Tvorivá interpretácia umeleckého diela.
 
   - 13. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie tretieho stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Tvorivé riešenie úloh rozvoja vedy a techniky principiálne novým, originálnym spôsobom, ktoré si vyžaduje vysoko koncepčné a tvorivé myslenie a schopnosť analýzy veľmi zložitých problémov a syntetické myslenie s cieľom dosiahnuť značný kvalitatívny pokrok v danom odbore činnosti. Koordinovanie celoštátnych alebo medzištátnych systémov so širokými vonkajšími a vnútornými väzbami. Tvorivá príprava a naštudovanie umeleckého diela.
 
   - 14. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie tretieho stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Tvorivé a vedecké práce pri spracúvaní úplne nových nekompletných informácií s nadväznosťami medzi vednými odbormi, zamerané na vypracúvanie hypotéz, nových originálnych riešení s nešpecifikovanými výstupmi. Experimentálne alebo teoretické práce zamerané na získavanie nových poznatkov a ich prenášanie do praxe napríklad v oblasti medicíny alebo umenia.
