@@ -60,8 +60,6 @@
 
 - 25) § 17 až 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
 
-- 26) § 57 zákona č. 43/2004 Z. z.
-
 - 27) § 116 Občianskeho zákonníka.
 
 - 27a) § 8 písm. h) zákona č. 566/2001 Z. z.
@@ -84,31 +82,25 @@
 
 - 33a) § 5 zákona č. 566/2001 Z. z.
 
+- 33b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 34) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 35) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 36) § 80 až 86 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
+- 36) § 8 písm. m) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 36a) § 82 ods. 5 zákona č. 43/2004 Z. z. v znení zákona č. 439/2004 Z. z.
+- 37) § 8 písm. k) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 36b) § 87 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
+- 38) § 5 písm. j) zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
-- 36c) § 88 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
+- 39) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 36d) § 89 zákona č. 43/2004 Z. z.
+- 40) § 73a zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
-- 36e) § 90 zákona č. 43/2004 Z. z.
+- 40a) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 36f) § 91 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
-
-- 38) § 113 zákona č. 566/2001 Z. z.
-
-- 39) § 88 zákona č. 43/2004 Z. z.
-
-- 39a) § 81 ods. 1 písm. h) zákona č. 43/2004 Z. z.
-
-- 40) § 82 ods. 8 zákona č. 43/2004 Z. z.
+- 40b) § 66a Obchodného zákonníka.
 
 - 41) § 99 až § 103 ods. 1 až 3 a § 104 zákona č. 43/2004 Z. z.
 

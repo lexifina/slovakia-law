@@ -1,3 +1,3 @@
-# § 67a Informačná povinnosť voči Národnému inšpektorátu práce
+# § 67a Poskytnutie súčinnosti Národnému inšpektorátu práce
 
-Doplnková dôchodková spoločnosť je povinná predložiť na požiadanie Národnému inšpektorátu práce informácie o doplnkovom dôchodkovom sporení zamestnancov uvedených v § 5 ods. 2.
+Doplnková dôchodková spoločnosť je povinná poskytnúť na požiadanie Národnému inšpektorátu práce súčinnosť pri výkone dozoru nad dodržiavaním ustanovení tohto zákona upravujúcich doplnkové dôchodkové sporenie zamestnancov uvedených v § 5 ods. 2.
