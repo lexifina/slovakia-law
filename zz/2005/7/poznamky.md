@@ -14,6 +14,8 @@
 
 - 8) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
+- 8a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006). § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
 - 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
@@ -64,7 +66,9 @@
 
 - Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 28) § 31 až 58 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 28) § 31 až 37 a § 61 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 28a) § 1 a § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 29) § 65 ods. 1 zákona č. 510/2002 Z. z.
 
