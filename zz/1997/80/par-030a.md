@@ -10,7 +10,7 @@
 
   - 2. technickú rezervu na poistné plnenie,
 
-  - 3. technickú rezervu na vyrovnávanie mimoriadnych rizík,
+  - 3. technickú rezervu na vyrovnávanie mimoriadnych rizík v poisťovaní vývozných úverov,
 
   - 4. ďalšie technické rezervy,
 

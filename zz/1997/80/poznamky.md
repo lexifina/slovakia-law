@@ -1,14 +1,16 @@
-- 1) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+- Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
+
+- 1a) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 2) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 zákona č. 483/2001 Z. z.
 
 - 4) § 2 ods. 5 zákona č. 483/2001 Z. z.
 
-- 5) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
-
-- 6) § 2 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+- 6) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
@@ -18,13 +20,25 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 11) § 5 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 12) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 12a) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
+
+- 12b) § 20 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 12c) § 8a ods. 8 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
+
 - 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 13a) § 21 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
+- 16) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - 17) § 91 ods. 4 zákona č. 483/2001 Z. z.
 
