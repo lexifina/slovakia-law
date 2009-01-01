@@ -1192,9 +1192,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - Jestvujúce zdroje | | |
 
-    - - rotačné pece | | | 2 500
-
-    - - ostatné typy pecí | | | 1 500
+    - - všetky typy pecí | | | 2 500
 
     - Vypaľovanie žiaruvzdorných tvárnic - jestvujúce aj nové zdroje | | 500 1 500<sup>3</sup>) | 1 500
 
@@ -1206,7 +1204,7 @@ Príloha č. 4 k vyhláške č. 704/2002 Z. z.
 
     - 4.3 Platnosť emisného limitu pre jestvujúce zdroje
 
-      - Emisný limit pre oxidy dusíka vyjadrené ako NO<sub>2</sub> pre rotačné pece pri výpale slinku z tuhých prachových a briketovaných odpadov z čistenia odpadových plynov určený pre nové zdroje platí pre jestvujúce zdroje od 1. januára 2009.
+      - Emisný limit pre oxidy dusíka vyjadrené ako NO<sub>2</sub> pre rotačné pece pri výpale slinku z tuhých prachových a briketovaných odpadov z čistenia odpadových plynov určený pre nové zdroje platí pre jestvujúce zdroje od 1. januára 2012.
 
     - 5. VÝROBA SKLA A SKLÁRSKYCH VÝROBKOV A SKLENENÝCH VLÁKEN
 
