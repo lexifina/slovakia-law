@@ -50,7 +50,7 @@
 
 - y) nevráti povolenie, ktoré nepoužil.
 
-(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 1 000 000 Sk, za priestupok podľa odseku 1 písm. e) až j) pokutu do 500 000 Sk, za priestupok podľa odseku 1 písm. k) až p) pokutu do 100 000 Sk a za priestupok podľa odseku 1 písm. r) až y) pokutu do 50 000 Sk.
+(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až y) pokutu do 1659 eur.
 
 (3) Priestupky podľa tohto zákona prejednáva ministerstvo.
 
