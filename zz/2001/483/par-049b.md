@@ -30,7 +30,7 @@ Na účely tohto zákona sa rozumie
 
   - 1. banka, inštitúcia elektronických peňazí, iná finančná inštitúcia podľa § 6 ods. 15 alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
-  - 2. poisťovňa, zaisťovňa alebo právnická osoba ovládajúca finančný konsolidovaný celok podľa osobitného predpisu;<sup>45a</sup>) tieto tvoria sektor poisťovníctva,
+  - 2. poisťovňa, zaisťovňa alebo poisťovacia holdingová spoločnosť podľa osobitného predpisu;<sup>45a</sup>) tieto tvoria sektor poisťovníctva,
 
   - 3. obchodník s cennými papiermi alebo iná finančná inštitúcia podľa § 6 ods. 15 okrem inštitúcie elektronických peňazí; tieto tvoria sektor investičných služieb,
 

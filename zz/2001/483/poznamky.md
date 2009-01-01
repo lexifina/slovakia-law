@@ -54,11 +54,15 @@
 
 - 21) § 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona č. 242/1999 Z. z.
 
+- 21a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
+
 - 22a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 23) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
-- 24) § 7 zákona č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 23a) § 41a a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 24) § 10 až 12 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 24a) § 8 písm.b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z.
 
@@ -78,6 +82,8 @@
 
 - 27) Zákonník práce.
 
+- 27a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
 - 28) § 476 až 488 Obchodného zákonníka.
 
 - 29) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
@@ -94,9 +100,9 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 o uplatňovaní medzinárodných účtovných noriem.
 
-- 30e) Napríklad zákon č. 619/2003 Z. z. o Slovenskom rozhlase, zákon č. 16/2004 Z. z. o Slovenskej televízii.
+- 31) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 31) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -132,7 +138,7 @@
 
 - 45) § 36 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
-- 45a) § 43 ods. 6 zákona č. 95/2002 Z. z.
+- 45a) § 49 ods. 5 písm. c) zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
 - 45b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -157,6 +163,8 @@
 - 49b) Napríklad § 9 ods. 1 prvá veta Zákonníka práce, § 20 ods. 1 Občianskeho zákonníka.
 
 - 50) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- § 35 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 585/2006 Z. z.
 
 - Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
@@ -226,7 +234,7 @@
 
 - Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 74) Zákon č. 367/2000 Z. z.
+- 73a) § 6 ods. 1 a 2, § 8 až 8b a § 10 ods. 4 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 74a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
@@ -278,6 +286,8 @@
 
 - 87aa) § 75 ods. 12 zákona č. 7/2005 Z. z.
 
+- 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
+
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
 
 - 88) Zákon č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
@@ -319,5 +329,7 @@
 - 94) § 163 ods. 1 a 6 a § 163a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 95) Zákon č. 659/2007 Z. z.
+
+- 96) Usmernenie Európskej centrálnej banky č. ECB/2006/9 (2006/525/ES) zo 14. júla 2006 o niektorých prípravách na prechod na hotovostné euro a o predzásobovaní a druhotnom predzásobovaní eurobankovkami a euromincami mimo eurozóny (Ú.v. EÚ L 207, 28. 7. 2006).
 
 - 97) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.

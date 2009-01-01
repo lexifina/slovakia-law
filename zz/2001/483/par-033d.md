@@ -4,7 +4,7 @@
 
 (2) Požiadavka na vlastné zdroje na operačné riziko podľa prístupu základného indikátora je percentuálna hodnota príslušného ukazovateľa.
 
-(3) Na účely určenia požiadavky na vlastné zdroje na operačné riziko podľa štandardizovaného prístupu pre operačné riziko zaradí banka svoje činnosti do organizačných útvarov. Potom požiadavka na vlastné zdroje na operačné riziko podľa štandardizovaného prístupu pre operačné riziko je suma požiadaviek na vlastné zdroje na pokrytie operačného rizika pre všetky organizačné útvary.
+(3) Na účely určenia požiadavky na vlastné zdroje na operačné riziko podľa štandardizovaného prístupu pre operačné riziko zaradí banka svoje činnosti do obchodných línií. Potom požiadavka na vlastné zdroje na operačné riziko podľa štandardizovaného prístupu pre operačné riziko je suma požiadaviek na vlastné zdroje na pokrytie operačného rizika pre všetky obchodné línie.
 
 (4) Pokročilý prístup merania je založený na vlastných interných systémoch banky na meranie operačného rizika.
 
@@ -12,7 +12,7 @@
 
 (6) Banka, ktorá používa pokročilý prístup merania, môže opäť začať používať prístup základného indikátora alebo štandardizovaný prístup pre operačné riziko len na základe predchádzajúceho súhlasu Národnej banky Slovenska vydaného na žiadosť banky v odôvodnených prípadoch, ak úmyslom opätovného používania prístupu základného indikátora alebo štandardizovaného prístupu pre operačné riziko nie je zníženie alebo obídenie požiadavky na vlastné zdroje a takýto postup nie je sprevádzaný neplnením kvalitatívnych požiadaviek na výpočet operačného rizika; odôvodneným prípadom sa na tento účel rozumie prirodzený zánik možnosti využívania pokročilého prístupu, napríklad z dôvodu výraznej zmeny činnosti banky, alebo nedostatok údajov na výpočty.
 
-(7) Banka môže na základe predchádzajúceho súhlasu Národnej banky Slovenska používať kombináciu pokročilého prístupu merania s prístupom základného indikátora alebo so štandardizovaným prístupom pre operačné riziko; Národná banka Slovenska vopred schvaľuje aj časový harmonogram prechodu banky z kombinácie základného indikátora a štandardizovaného prístupu pre operačné riziko na štandardizovaný prístup pre operačné riziko.
+(7) Banka môže na základe predchádzajúceho súhlasu Národnej banky Slovenska používať kombináciu pokročilého prístupu merania s prístupom základného indikátora alebo so štandardizovaným prístupom pre operačné riziko, a to vrátane schválenia časového harmonogramu prístupu pre operačné riziko alebo prístupu základného indikátora s pokročilým prístupom merania na pokročilý prístup merania. Národná banka Slovenska vopred schvaľuje časový harmonogram prechodu banky z kombinácie základného indikátora a štandardizovaného prístupu pre operačné riziko na štandardizovaný prístup pre operačné riziko.
 
 (8) Národná banka Slovenska na základe žiadosti o predchádzajúci súhlas
 

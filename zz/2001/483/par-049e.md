@@ -10,7 +10,7 @@
 
 (3) Najmenší finančný sektor vo finančnom konglomeráte je finančný sektor, ktorého priemer z podielov podľa odseku 2 je najnižší; najvýznamnejší finančný sektor vo finančnom konglomeráte je finančný sektor, ktorého priemer z podielov podľa odseku 2 je najvyšší. Na účely výpočtu priemeru z podielov podľa odseku 2 na meranie najmenšieho a najvýznamnejšieho finančného sektora sa bankový sektor a sektor investičných služieb považujú za jeden sektor.
 
-(4) Ak skupina nedosiahne hodnotu priemeru podľa odseku 2 z podielov podľa odseku 2, ale celkové aktíva najmenšieho finančného sektora v skupine sú vyššie ako 6 mld. EUR, Národná banka Slovenska je oprávnená určiť po dohode s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, že skupina sa nebude považovať za finančný konglomerát alebo že sa nebudú uplatňovať ustanovenia § 49g až 49j, ak vykonávanie doplňujúceho dohľadu nie je vhodné z hľadiska cieľov doplňujúceho dohľadu, najmä ak
+(4) Ak skupina nedosiahne hodnotu priemeru podľa odseku 2 z podielov podľa odseku 2, ale celkové aktíva najmenšieho finančného sektora v skupine sú vyššie ako 6 mld. eur, Národná banka Slovenska je oprávnená určiť po dohode s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, že skupina sa nebude považovať za finančný konglomerát alebo že sa nebudú uplatňovať ustanovenia § 49g až 49j, ak vykonávanie doplňujúceho dohľadu nie je vhodné z hľadiska cieľov doplňujúceho dohľadu, najmä ak
 
 - a) priemer z podielov podľa odseku 2 nepresiahne 5 % alebo
 
@@ -34,7 +34,7 @@
 
 (9) Ak hodnota podielu podľa odseku 1 klesne pod 40 % alebo hodnota priemeru z podielov podľa odseku 2 klesne pod 10 % v prípade finančných konglomerátov, na ktoré sa už vzťahuje doplňujúci dohľad, na nasledujúce tri roky platí pri výpočte podľa odseku 1 hodnota podielu 35 % a pri výpočte podľa odseku 2 hodnota priemeru z podielov 8 %.
 
-(10) Ak v prípade skupiny, nad ktorou sa už vykonáva doplňujúci dohľad, celkové aktíva najmenšieho finančného sektora skupiny klesnú pod 6 mld. EUR, na nasledujúce tri roky platí pri výpočte podľa odseku 4 suma 5 mld. EUR.
+(10) Ak v prípade skupiny, nad ktorou sa už vykonáva doplňujúci dohľad, celkové aktíva najmenšieho finančného sektora skupiny klesnú pod 6 mld. eur, na nasledujúce tri roky platí pri výpočte podľa odseku 4 suma 5 mld. eur.
 
 (11) Národná banka Slovenska môže so súhlasom príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu, počas obdobia ustanoveného v odsekoch 7 až 10 určiť, že prestanú platiť nižšie hodnoty podielov alebo nižšia suma ustanovená v odsekoch 7 až 10 pre finančné konglomeráty podliehajúce doplňujúcemu dohľadu.
 
