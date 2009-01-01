@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 98/2004 Z. z. [Vzor 04](../assets/029644e98ef9f26a781eded6ebc6885435fd38f44ab32e0ebd993a0e31641d69.pdf)
+Príloha č. 4 k zákonu č. 98/2004 Z. z. [Vzor 04](../assets/eab561b58214fbe9f9fec07d877b8967a0dd1a6c47370ec676a8ccc97884bd46.pdf)
