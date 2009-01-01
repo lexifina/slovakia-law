@@ -8,7 +8,7 @@
 
 - b) počet poistencov podľa pohlavia a veku za rozhodujúce obdobie.
 
-(3) Základom ročného prerozdeľovania poistného je 85,5 % povinného poistného podľa odseku 2 písm. a) (ďalej len „základ ročného prerozdeľovania”).
+(3) Základom ročného prerozdeľovania poistného je 95 % povinného poistného podľa odseku 2 písm. a) (ďalej len „základ ročného prerozdeľovania”).
 
 (4) Štandardizovaný príjem na účely ročného prerozdeľovania na jedného prepočítaného poistenca (§ 28 ods. 1) je podiel celkového základu ročného prerozdeľovania a celkového počtu prepočítaných poistencov. Celkový základ ročného prerozdeľovania je súčet základov ročného prerozdeľovania za všetky zdravotné poisťovne. Celkový počet prepočítaných poistencov je súčet prepočítaných poistencov všetkých zdravotných poisťovní.
 

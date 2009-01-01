@@ -8,10 +8,6 @@
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3a) § 7 ods. 1 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 3b) § 29 ods. 1 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
-
 - 4) § 2 písm. d) a § 54 ods. 4 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
 
 - 5) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
@@ -139,8 +135,6 @@
 - 39p) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 39q) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 39r) Nariadenie Rady (EHS) č. 1408/71 zo 14. júna 1971 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Ú. v. ES L 28, 30. 1. 1977) v platnom znení.Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa stanovuje postup na vykonávanie nariadenia (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Ú. v. ES L 28, 30. 1. 1997) v platnom znení.
 
 - 39s) § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
