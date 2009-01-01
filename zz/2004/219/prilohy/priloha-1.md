@@ -1,3 +1,0 @@
-![Obrázek 01](../assets/90c1051d8873785b2155a4da22dced657c7881b7ff09c546ef675e12ff24f645.tiff)
-
-![Obrázek 02](../assets/102e2ec6a5b08c032b9282dddc129ea1970eff2e80a7009e5243952cec986ab4.tiff)
