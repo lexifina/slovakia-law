@@ -16,17 +16,17 @@
 
 - b) označenie nehnuteľnosti, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a cenu jej obstarania,<sup>13a</sup>)
 
-- c) údaj o hnuteľnej veci, ktorej hodnota presahuje 200 000 Sk, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a ocenenie tejto veci,
+- c) údaj o hnuteľnej veci, ktorej hodnota presahuje 6638,78 eura, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a ocenenie tejto veci,
 
-- d) údaj o majetkovom práve alebo inej majetkovej hodnote, ktorých hodnota presahuje 200 000 Sk, právny dôvod ich nadobudnutia, dátum ich nadobudnutia a ocenenie tohto majetkového práva alebo inej majetkovej hodnoty,
+- d) údaj o majetkovom práve alebo inej majetkovej hodnote, ktorých hodnota presahuje 6638,78 eura, právny dôvod ich nadobudnutia, dátum ich nadobudnutia a ocenenie tohto majetkového práva alebo inej majetkovej hodnoty,
 
-- e) údaj o hnuteľných veciach, majetkových právach a iných majetkových hodnotách, aj keď ich hodnota jednotlivo nepresahuje 200 000 Sk, ak ich súhrnná hodnota presahuje 500 000 Sk.
+- e) údaj o hnuteľných veciach, majetkových právach a iných majetkových hodnotách, aj keď ich hodnota jednotlivo nepresahuje 6638,78 eura, ak ich súhrnná hodnota presahuje 16 596,95 eura.
 
-(4) Za majetok podľa odseku 3 písm. b) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 3 písm. c) sa považujú aj peňažné prostriedky v hotovosti v slovenskej mene a v cudzej mene, vklady v bankách a v pobočkách zahraničných bánk v slovenskej mene a v cudzej mene a vklady v bankách so sídlom v zahraničí.
+(4) Za majetok podľa odseku 3 písm. b) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 3 písm. c) sa považujú aj peňažné prostriedky v hotovosti v eurách a v cudzej mene, vklady v bankách, pobočkách zahraničných bánk alebo zahraničných bankách v eurách alebo v cudzej mene.
 
 (5) Cena obstarania pri odplatnom nadobudnutí majetku podľa odseku 3 písm. b) je dohodnutá kúpna cena, pri bezodplatnom nadobudnutí takého majetku cena podľa osobitného predpisu;<sup>13a</sup>) pri majetku podľa odseku 3 písm. b) obstaranom vlastnou výstavbou sú cenou obstarania výdavky na obstaranie takého majetku.
 
-(6) Majetok podľa odseku 3 písm. c) a d) sa na účely majetkového priznania ocení cenou obvyklou okrem peňažných prostriedkov v hotovosti v slovenskej mene, vkladov v bankách a v pobočkách zahraničných bánk v slovenskej mene a vkladov v bankách so sídlom v zahraničí v slovenskej mene. Peňažné prostriedky v cudzej mene v hotovosti, vklady v bankách a v pobočkách zahraničných bánk v cudzej mene a vklady v bankách so sídlom v zahraničí v cudzej mene sa prepočítajú na slovenskú menu kurzom vyhláseným Národnou bankou Slovenska, platným k poslednému kalendárnemu dňu mesiaca, ktorý predchádza mesiacu, v ktorom sa podáva majetkové priznanie. Cenou obvyklou sa na účely majetkového priznania rozumie cena, za ktorú sa v určitom čase a na určitom mieste taký majetok obvykle predáva.
+(6) Majetok podľa odseku 3 písm. c) a d) sa na účely majetkového priznania ocení cenou obvyklou okrem peňažných prostriedkov v hotovosti v eurách, vkladov v bankách, pobočkách zahraničných bánk alebo zahraničných bankách v eurách. Peňažné prostriedky v hotovosti v cudzej mene, vklady v bankách, pobočkách zahraničných bánk alebo zahraničných bankách v cudzej mene sa prepočítajú na eurá podľa referenčného výmenného kurzu určeného a vyhláseného Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>13aa</sup>) ktorý je platný k poslednému kalendárnemu dňu mesiaca bezprostredne predchádzajúceho mesiacu, v ktorom sa podáva majetkové priznanie. Cenou obvyklou sa na účely majetkového priznania rozumie cena, za ktorú sa v určitom čase a na určitom mieste taký majetok obvykle predáva.
 
 (7) Majetok v bezpodielovom spoluvlastníctve manželov sa na účely odseku 3 delí rovnakým dielom, ak osobitný predpis neustanovuje inak.<sup>13b</sup>)
 

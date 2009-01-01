@@ -56,7 +56,9 @@
 
 - § 7 a 8 zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
-- 13aa) Napríklad zákon č. 280/1997 Z. z. o Spoločnej zdravotnej poisťovni v znení neskorších predpisov.
+- 13aa) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 13ab) Napríklad § 3 ods. 1 písm. a) a § 12 až 18 zákona č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
@@ -116,7 +118,7 @@
 
 - 24a) § 38 zákona č. 328/2002 Z. z.
 
-- 25) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 25) § 99 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 131/2002 Z. z.
 
 - 25b) § 18 až 32 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
