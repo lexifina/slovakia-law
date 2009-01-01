@@ -1,1 +1,0 @@
-- 1) Vyhláška Národnej banky Slovenska č. 218/1993 Z. z. o vydaní bankoviek po 100 Sk do obehu a o stiahnutí okolkovaných bankoviek po 100 Kčs z obehu.
