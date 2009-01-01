@@ -94,7 +94,9 @@
 
 - 8) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
 
-- 9) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+- 9) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 9a) § 517 ods. 2 Občianskeho zákonníka.
 
@@ -115,8 +117,6 @@
 - 12a) § 2 až 30 zákona č. 510/2002 Z. z.
 
 - 12aa) § 248 písm. d) Občianskeho súdneho poriadku.
-
-- 13) § 15 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
 
 - 13a) § 101 a 785 Občianskeho zákonníka v znení neskorších predpisov.
 
