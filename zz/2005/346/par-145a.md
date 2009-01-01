@@ -4,4 +4,4 @@
 
 (2) Výšku príplatku podľa odseku 1 ustanoví služobný predpis, ktorý vydá minister.
 
-(3) Príplatok podľa odseku 1 sa zaokrúhľuje na celé desiatky korún nahor.
+(3) Príplatok podľa odseku 1 sa zaokrúhľuje na 50 eurocentov nahor.

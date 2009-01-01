@@ -1,6 +1,6 @@
 # § 145b Príplatok za vyvedenie vojsk do výcvikového priestoru
 
-(1) Profesionálnemu vojakovi, ktorý sa bezprostredne zúčastňuje na sústredenom výcviku jednotiek a útvarov počas vyvedenia vojsk do vojenského výcvikového priestoru alebo počas sústredeného výcviku v inom poľnom výcvikovom zariadení alebo takýto sústredený výcvik vo výcvikovom priestore alebo v inom poľnom výcvikovom zariadení bezprostredne riadi, patrí príplatok vo výške 300 Sk za každý deň vyvedenia.
+(1) Profesionálnemu vojakovi, ktorý sa bezprostredne zúčastňuje na sústredenom výcviku jednotiek a útvarov počas vyvedenia vojsk do vojenského výcvikového priestoru alebo počas sústredeného výcviku v inom poľnom výcvikovom zariadení alebo takýto sústredený výcvik vo výcvikovom priestore alebo v inom poľnom výcvikovom zariadení bezprostredne riadi, patrí príplatok vo výške 10 eur za každý deň vyvedenia.
 
 (2) Sústredený výcvik jednotiek a útvarov na účely tohto zákona je vyvedenie vojsk do vojenského výcvikového priestoru alebo iného poľného výcvikového zariadenia.
 

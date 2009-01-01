@@ -52,6 +52,10 @@
 
 - Zákon č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov.
 
+- 20a) Príloha č. 2 k nariadeniu vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
+
+- 20b) § 7 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
 - 20c) Zákon č. 321/2002 Z. z. v znení neskorších predpisov.
 
 - 21) Napríklad § 12 ods. 1 písm. a) až c), e) a f) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -128,7 +132,9 @@
 
 - 40) § 25 zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
-- 41) § 11 a príloha č. 7 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
+- 41) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 41a) § 11 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 42) § 27 zákona č. 578/2004 Z. z.
 
@@ -144,7 +150,11 @@
 
 - 47) Zákon č. 328/2002 Z. z.
 
-- 48) § 99 ods. 4 zákona č. 312/2001 Z. z.
+- 47a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29.12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+
+- 48) Nariadenie Rady (EHS, Euratom, ESUO) č. 259/68 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok úradníkov a Podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev (Služobný poriadok) (Mimoriadne vydanie Ú. V. EÚ, kap. 01/zv. 02) v platnom znení.
 
 - 49) § 12 zákona č. 283/2002 Z. z.
 
