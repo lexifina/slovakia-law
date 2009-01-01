@@ -1,4 +1,4 @@
-Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df89e483c9f4bac09f7b457b8faf10c21db25476308fb2357ce70006f.pdf)
+Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/6a792a8ae25524f546e16d8a1386008afa42663c2518a03996bb5aac0a407cd9.pdf)
 
 - Metodika poskytovania informácie Ddf (DIT) 07-98
 
@@ -14,7 +14,7 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
 - 6. V záhlaví v pravom rohu v časti „Stav ku dňu“ sa uvádza dátum, ku ktorému bola informácia vykázaná.
 
-- 7. Pri prepočte súm z cudzej meny na slovenskú menu sa používa kurz NBS platný pre príslušnú menu v deň uskutočnenia transakcie.
+- 7. Pri prepočte súm z cudzej meny na menu euro sa používa referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska platný pre príslušnú menu v deň uskutočnenia transakcie. Referenčné výmenné kurzy k cudzím menám sa určujú a vyhlasujú podľa čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojeného k Zmluve o založení Európskeho spoločenstva (Ú. v. EÚ C 321E, 29. 12. 2006) alebo podľa § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 8. Pri transakciách na bežnom účte alebo termínovanom vklade sa uvádza každé nakladanie s vkladom v príslušný pracovný deň. Transakcie sa vykazujú jednotlivo, vzájomne sa nespočítavajú ani nezapočítavajú.
 
@@ -26,9 +26,9 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - b) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - c) v stĺpci „Objem v CM“ sa uvádza objem transakcie v cudzej mene; ak ide o výber, uvádza sa hodnota so záporným znamienkom; ak ide o transakciu v slovenskej mene, uvádza sa „0“,
+  - c) v stĺpci „Objem v CM“ sa uvádza objem transakcie v cudzej mene; ak ide o výber, uvádza sa hodnota so záporným znamienkom; ak ide o transakciu v mene euro, uvádza sa „0“,
 
-  - d) v stĺpci „Objem v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o výber, uvádza sa hodnota so záporným znamienkom.
+  - d) v stĺpci „Objem v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o výber, uvádza sa hodnota so záporným znamienkom.
 
 - 11. V časti s názvom „Termínovaný vklad“
 
@@ -38,9 +38,9 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - c) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - d) v stĺpci „Objem v CM“ sa uvádza objem transakcie v cudzej mene; ak ide o transakciu v slovenskej mene, uvádza sa „0“,
+  - d) v stĺpci „Objem v CM“ sa uvádza objem transakcie v cudzej mene; ak ide o transakciu v mene euro, uvádza sa „0“,
 
-  - e) v stĺpci „Objem v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene,
+  - e) v stĺpci „Objem v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro,
 
   - f) v stĺpci „Dátum – začiatok trvania TV“ sa uvádza začiatok doby platnosti termínovaného vkladu v tvare d.m.rrrr,
 
@@ -86,15 +86,15 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - c) v stĺpci „Mena 1“ sa uvádza hlavná mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - d) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - d) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - e) v stĺpci „Objem – mena 1 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - e) v stĺpci „Objem – mena 1 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - f) v stĺpci „Mena 2“ sa uvádza vedľajšia mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - g) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - g) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - h) v stĺpci „Objem – mena 2 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - h) v stĺpci „Objem – mena 2 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - i) v stĺpci „Kurz“ sa uvádza dohodnutý spotový alebo forwardový kurz,
 
@@ -110,15 +110,15 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - c) v stĺpci „Mena 1“ sa uvádza hlavná mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - d) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola transakcia uskutočnená v slovenskej mene, uvádza sa „0“,
+  - d) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola transakcia uskutočnená v mene euro, uvádza sa „0“,
 
-  - e) v stĺpci „Objem – mena 1 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - e) v stĺpci „Objem – mena 1 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - f) v stĺpci „Mena 2“ sa uvádza vedľajšia mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - g) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - g) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - h) v stĺpci „Objem – mena 2 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - h) v stĺpci „Objem – mena 2 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - i) v stĺpci „Kurz“ sa uvádza dohodnutý spotový alebo forwardový kurz,
 
@@ -138,15 +138,15 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - d) pod názvom stĺpca „Mena 1“ sa uvádza hlavná mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - e) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - e) v stĺpci „Objem – mena 1“ sa uvádza objem transakcie v hlavnej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - f) v stĺpci „Objem – mena 1 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - f) v stĺpci „Objem – mena 1 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - g) v stĺpci „Mena 2“ sa uvádza vedľajšia mena v menovom páre podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - h) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - h) v stĺpci „Objem – mena 2“ sa uvádza objem transakcie vo vedľajšej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - i) v stĺpci „Objem – mena 2 v Sk“ sa uvádza objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
+  - i) v stĺpci „Objem – mena 2 v euro“ sa uvádza objem transakcie v mene euro alebo protihodnota v mene euro; ak ide o predaj meny, uvádza sa hodnota so záporným znamienkom,
 
   - j) v stĺpci „Realizačný kurz opcie“ sa uvádza vopred dohodnutý realizačný menový kurz (strike price),
 
@@ -154,9 +154,9 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - l) v stĺpci „Mena prémie“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - m) v stĺpci „Opčná prémia v CM“ sa uvádza objem opčnej prémie v príslušnej cudzej mene; ak ide o transakciu v slovenskej mene, uvádza sa „0“,
+  - m) v stĺpci „Opčná prémia v CM“ sa uvádza objem opčnej prémie v príslušnej cudzej mene; ak ide o transakciu v mene euro, uvádza sa „0“,
 
-  - n) v stĺpci „Opčná prémia v Sk“ sa uvádza objem opčnej prémie v slovenskej mene alebo protihodnota v slovenskej mene,
+  - n) v stĺpci „Opčná prémia v euro“ sa uvádza objem opčnej prémie v mene euro alebo protihodnota v mene euro,
 
   - o) v stĺpci „Dátum – valuta – prémia“ sa uvádza dátum vyrovnania prémie v tvare d.m.rrrr,
 
@@ -176,13 +176,13 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - f) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - g) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus akcie alebo podielového listu v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - g) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus akcie alebo podielového listu v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - h) v stĺpci „Cena/ks v Sk“ sa uvádza nákupná alebo predajná cena za jeden kus akcie alebo podielového listu v slovenskej mene,
+  - h) v stĺpci „Cena/ks v euro“ sa uvádza nákupná alebo predajná cena za jeden kus akcie alebo podielového listu v mene euro,
 
-  - i) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - i) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - j) v stĺpci „Objem obchodu spolu v Sk“ sa uvádza celkový objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene,
+  - j) v stĺpci „Objem obchodu spolu v euro“ sa uvádza celkový objem transakcie v mene euro alebo protihodnota v mene euro,
 
   - k) v stĺpci „Dátum – valuta“ sa uvádza dátum vyrovnania obchodu v tvare d.m.rrrr,
 
@@ -206,13 +206,13 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - g) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - h) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus dlhopisu v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - h) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus dlhopisu v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - i) v stĺpci „Cena/ks v Sk“ sa uvádza nákupná alebo predajná cena za jeden kus dlhopisu v slovenskej mene alebo protihodnota v slovenskej mene,
+  - i) v stĺpci „Cena/ks v euro“ sa uvádza nákupná alebo predajná cena za jeden kus dlhopisu v mene euro alebo protihodnota v mene euro,
 
-  - j) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - j) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - k) v stĺpci „Objem obchodu spolu v Sk“ sa uvádza celkový objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene,
+  - k) v stĺpci „Objem obchodu spolu v euro“ sa uvádza celkový objem transakcie v mene euro alebo protihodnota v mene euro,
 
   - l) v stĺpci „Sadzba v %“ sa uvádza úroková sadzba, na ktorú dlhopis znie; pri variabilnej úrokovej sadzbe sa uvádza hodnota úrokovej sadzby, ktorá je súčtom jej fixnej a variabilnej zložky platnej pre príslušné obdobie,
 
@@ -238,13 +238,13 @@ Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/da742d1df8
 
   - g) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - h) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus cenného papiera v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - h) v stĺpci „Cena/ks v CM “ sa uvádza nákupná alebo predajná cena za jeden kus cenného papiera v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - i) v stĺpci „Cena/ks v Sk“ sa uvádza nákupná alebo predajná cena za jeden kus cenného papiera v slovenskej mene alebo protihodnota v slovenskej mene,
+  - i) v stĺpci „Cena/ks v euro“ sa uvádza nákupná alebo predajná cena za jeden kus cenného papiera v mene euro alebo protihodnota v mene euro,
 
-  - j) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v slovenskej mene, uvádza sa „0“,
+  - j) v stĺpci „Objem obchodu spolu v CM“ sa uvádza celkový objem transakcie v cudzej mene; ak bola uskutočnená transakcia v mene euro, uvádza sa „0“,
 
-  - k) v stĺpci „Objem obchodu spolu v Sk“ sa uvádza celkový objem transakcie v slovenskej mene alebo protihodnota v slovenskej mene,
+  - k) v stĺpci „Objem obchodu spolu v euro“ sa uvádza celkový objem transakcie v mene euro alebo protihodnota v mene euro,
 
   - l) v stĺpci „Sadzba v %“ sa uvádza úroková sadzba, na ktorú cenný papier znie; pri variabilnej úrokovej sadzbe sa uvádza hodnota úrokovej sadzby, ktorá je súčtom jej fixnej a variabilnej zložky platnej pre príslušné obdobie,
 
@@ -261,8 +261,6 @@ Použité skratky |
 skratka | opis
 
 Čís. r. | číslo riadka
-
-Sk | slovenské koruny
 
 CM | cudzia mena
 

@@ -1,4 +1,4 @@
-Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1eae835bcdfda403d5d370c1dac78eb1c20f2d0168ba957f9e33f790.pdf)
+Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/e8e5ce460ccb9ac465495d2744e1a3b62a79d1b149d20b14f9ff0253aba33fb6.pdf)
 
 - Metodika poskytovania informácie Ddf (DIS) 08-98
 
@@ -12,7 +12,7 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
 - 5. V záhlaví v pravom rohu v časti „Stav ku dňu“ sa uvádza dátum, ku ktorému bola informácia vykázaná.
 
-- 6. Pri prepočte súm z cudzej meny na slovenskú menu sa používa kurz NBS platný pre príslušnú menu v deň uskutočnenia transakcie.
+- 6. Pri prepočte súm z cudzej meny na menu euro sa používa referenčný výmenný kurz určený a vyhlásený Európskou centrálnou bankou alebo Národnou bankou Slovenska platný pre príslušnú menu v deň uskutočnenia transakcie. Referenčné výmenné kurzy k cudzím menám sa určujú a vyhlasujú podľa čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojeného k Zmluve o založení Európskeho spoločenstva (Ú. v. EÚ C 321E, 29. 12. 2006) alebo podľa § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 7. Bežné účty, termínované vklady, pohľadávky a záväzky sa vykazujú jednotlivo, vzájomne sa nespočítavajú ani nezapočítavajú.
 
@@ -24,15 +24,15 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - a) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - b) v stĺpci „Objem v CM“ sa uvádza aktuálny stav peňažných prostriedkov v cudzej mene; ak ide o bežný účet vedený v slovenskej mene, uvádza sa „0“,
+  - b) v stĺpci „Objem v CM“ sa uvádza aktuálny stav peňažných prostriedkov v cudzej mene; ak ide o bežný účet vedený v mene euro, uvádza sa „0“,
 
-  - c) v stĺpci „Objem v Sk“ sa uvádza aktuálny stav peňažných prostriedkov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - c) v stĺpci „Objem v euro“ sa uvádza aktuálny stav peňažných prostriedkov v mene euro alebo protihodnota v mene euro,
 
   - d) v stĺpci „% úročenia BÚ“ sa uvádza úroková sadzba úročenia bežného účtu,
 
-  - e) v stĺpci „Pohľadávky z pripísaných úrokov na BÚ v CM“ sa uvádza alikvotná časť úrokov z bežného účtu v cudzej mene očistená o daň; ak ide o bežný účet vedený v slovenskej mene, uvádza sa „0“,
+  - e) v stĺpci „Pohľadávky z pripísaných úrokov na BÚ v CM“ sa uvádza alikvotná časť úrokov z bežného účtu v cudzej mene očistená o daň; ak ide o bežný účet vedený v mene euro, uvádza sa „0“,
 
-  - f) v stĺpci „Pohľadávky z pripísaných úrokov na BÚ v Sk“ sa uvádza alikvotná časť úrokov z bežného účtu v slovenskej mene alebo protihodnota v slovenskej mene očistená o daň,
+  - f) v stĺpci „Pohľadávky z pripísaných úrokov na BÚ v euro“ sa uvádza alikvotná časť úrokov z bežného účtu v mene euro alebo protihodnota v mene euro očistená o daň,
 
   - g) v stĺpci „Číselný kód BÚ“ sa uvádza identifikácia bežného účtu v tvare „číslo účtu/kód banky“, napríklad 123456789/07200,
 
@@ -44,13 +44,13 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - b) v stĺpci „ID obchodu“ sa uvádza identifikácia obchodu vnútorným alfanumerickým kódom,
 
-  - c) v stĺpci „Objem v CM“ sa uvádza aktuálny stav peňažných prostriedkov v cudzej mene; ak ide o termínovaný vklad vedený v slovenskej mene, uvádza sa „0“,
+  - c) v stĺpci „Objem v CM“ sa uvádza aktuálny stav peňažných prostriedkov v cudzej mene; ak ide o termínovaný vklad vedený v mene euro, uvádza sa „0“,
 
-  - d) v stĺpci „Objem v Sk“ sa uvádza aktuálny stav peňažných prostriedkov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - d) v stĺpci „Objem v euro“ sa uvádza aktuálny stav peňažných prostriedkov v mene euro alebo protihodnota v mene euro,
 
-  - e) v stĺpci „Pohľadávky z pripísaných úrokov na TV v CM“ sa uvádza alikvotná časť úrokov z termínovaného vkladu v cudzej mene očistená o daň; ak ide o termínovaný vklad vedený v slovenskej mene, uvádza sa „0“,
+  - e) v stĺpci „Pohľadávky z pripísaných úrokov na TV v CM“ sa uvádza alikvotná časť úrokov z termínovaného vkladu v cudzej mene očistená o daň; ak ide o termínovaný vklad vedený v mene euro, uvádza sa „0“,
 
-  - f) v stĺpci „Pohľadávky z pripísaných úrokov na TV v Sk“ sa uvádza alikvotná časť úrokov z termínovaného vkladu v slovenskej mene alebo protihodnota v slovenskej mene očistená o daň,
+  - f) v stĺpci „Pohľadávky z pripísaných úrokov na TV v euro“ sa uvádza alikvotná časť úrokov z termínovaného vkladu v mene euro alebo protihodnota v mene euro očistená o daň,
 
   - g) v stĺpci „Číselný kód TV“ sa uvádza identifikácia termínovaného vkladu v tvare „číslo účtu/kód banky“, napríklad 123456789/07200,
 
@@ -66,13 +66,13 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - d) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - e) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o cenné papiere denominované v slovenskej mene, uvádza sa „0“,
+  - e) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o cenné papiere denominované v mene euro, uvádza sa „0“,
 
-  - f) v stĺpci „Trhová cena/ks v Sk“ sa uvádza trhová cena za jeden kus cenného papiera v slovenskej mene alebo protihodnota v slovenskej mene,
+  - f) v stĺpci „Trhová cena/ks v euro“ sa uvádza trhová cena za jeden kus cenného papiera v mene euro alebo protihodnota v mene euro,
 
-  - g) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o cenné papiere denominované v slovenskej mene, uvádza sa „0“,
+  - g) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o cenné papiere denominované v mene euro, uvádza sa „0“,
 
-  - h) v stĺpci „Objem v Sk“ sa uvádza celkový objem príslušných cenných papierov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - h) v stĺpci „Objem v euro“ sa uvádza celkový objem príslušných cenných papierov v mene euro alebo protihodnota v mene euro,
 
   - i) v stĺpci „Bloomberg ticker/Reuters RIC“ sa uvádza kód akcie alebo podielového listu zo systému Bloomberg alebo Reuters.
 
@@ -88,17 +88,17 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - e) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - f) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o dlhopisy denominované v slovenskej mene, uvádza sa „0“,
+  - f) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o dlhopisy denominované v mene euro, uvádza sa „0“,
 
-  - g) v stĺpci „Trhová cena/ks v Sk“ sa uvádza trhová cena za jeden kus cenného papiera v slovenskej mene alebo protihodnota v slovenskej mene,
+  - g) v stĺpci „Trhová cena/ks v euro“ sa uvádza trhová cena za jeden kus cenného papiera v mene euro alebo protihodnota v mene euro,
 
-  - h) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o dlhopisy denominované v slovenskej mene, uvádza sa „0“,
+  - h) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o dlhopisy denominované v mene euro, uvádza sa „0“,
 
-  - i) v stĺpci „Objem v Sk“ sa uvádza celkový objem príslušných cenných papierov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - i) v stĺpci „Objem v euro“ sa uvádza celkový objem príslušných cenných papierov v mene euro alebo protihodnota v mene euro,
 
-  - j) v stĺpci „AÚV z dlhopisu v CM“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie dlhopisov v cudzej mene; ak ide o dlhopisy denominované v slovenskej mene, uvádza sa „0“,
+  - j) v stĺpci „AÚV z dlhopisu v CM“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie dlhopisov v cudzej mene; ak ide o dlhopisy denominované v mene euro, uvádza sa „0“,
 
-  - k) v stĺpci „AÚV z dlhopisu v Sk“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie dlhopisov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - k) v stĺpci „AÚV z dlhopisu v euro“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie dlhopisov v mene euro alebo protihodnota v mene euro,
 
   - l) v stĺpci „Menovitá hodnota CP“ sa uvádza peňažná suma, na ktorú jeden kus cenného papiera znie,
 
@@ -152,17 +152,17 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - e) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - f) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o cenné papiere denominované v slovenskej mene, uvádza sa „0“,
+  - f) v stĺpci „Trhová cena/ks v CM“ sa uvádza trhová cena za jeden kus cenného papiera v cudzej mene; ak ide o cenné papiere denominované v mene euro, uvádza sa „0“,
 
-  - g) v stĺpci „Trhová cena/ks v Sk“ sa uvádza trhová cena za jeden kus cenného papiera v slovenskej mene alebo protihodnota v slovenskej mene,
+  - g) v stĺpci „Trhová cena/ks v euro“ sa uvádza trhová cena za jeden kus cenného papiera v mene euro alebo protihodnota v mene euro,
 
-  - h) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o cenné papiere denominované v slovenskej mene, uvádza sa „0“,
+  - h) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných cenných papierov v cudzej mene; ak ide o cenné papiere denominované v mene euro, uvádza sa „0“,
 
-  - i) v stĺpci „Objem v Sk“ sa uvádza celkový objem príslušných cenných papierov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - i) v stĺpci „Objem v euro“ sa uvádza celkový objem príslušných cenných papierov v mene euro alebo protihodnota v mene euro,
 
-  - j) v stĺpci „AÚV z CP v CM“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie cenných papierov v cudzej mene; ak ide o cenné papiere denominované v slovenskej mene, uvádza sa „0“,
+  - j) v stĺpci „AÚV z CP v CM“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie cenných papierov v cudzej mene; ak ide o cenné papiere denominované v mene euro, uvádza sa „0“,
 
-  - k) v stĺpci „AÚV z CP v Sk“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie cenných papierov v slovenskej mene alebo protihodnota v slovenskej mene,
+  - k) v stĺpci „AÚV z CP v euro“ sa uvádza alikvotná časť úrokového výnosu príslušnej emisie cenných papierov v mene euro alebo protihodnota v mene euro,
 
   - l) v stĺpci „Menovitá hodnota CP“ sa uvádza peňažná suma, na ktorú jeden kus cenného papiera znie,
 
@@ -180,25 +180,25 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - b) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - c) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných opcií v cudzej mene získaný stanovením hodnoty menovej opcie podľa vyhlášky; ak ide o opcie v slovenskej mene, uvádza sa „0“,
+  - c) v stĺpci „Objem v CM“ sa uvádza celkový objem príslušných opcií v cudzej mene získaný stanovením hodnoty menovej opcie podľa vyhlášky; ak ide o opcie v mene euro, uvádza sa „0“,
 
-  - d) v stĺpci „Objem v Sk“ sa uvádza celkový objem príslušných opcií v slovenskej mene alebo protihodnota v slovenskej mene získaná stanovením hodnoty menovej opcie podľa vyhlášky.
+  - d) v stĺpci „Objem v euro“ sa uvádza celkový objem príslušných opcií v mene euro alebo protihodnota v mene euro získaná stanovením hodnoty menovej opcie podľa vyhlášky.
 
 - 17. V časti s názvom „Pôžičky“
 
   - a) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - b) v stĺpci „Objem v CM“ sa uvádza zostatková hodnota pôžičky v cudzej mene, ktorá bola prijatá v prospech majetku v dôchodkovom fonde na dočasné preklenutie nedostatku likvidity majetku v dôchodkovom fonde; ak ide o pôžičky v slovenskej mene, uvádza sa „0“,
+  - b) v stĺpci „Objem v CM“ sa uvádza zostatková hodnota pôžičky v cudzej mene, ktorá bola prijatá v prospech majetku v dôchodkovom fonde na dočasné preklenutie nedostatku likvidity majetku v dôchodkovom fonde; ak ide o pôžičky v mene euro, uvádza sa „0“,
 
-  - c) v stĺpci „Objem v Sk“ sa uvádza zostatková hodnota pôžičky v slovenskej mene alebo protihodnota v slovenskej mene, ktorá bola prijatá v prospech majetku v dôchodkovom fonde na dočasné preklenutie nedostatku likvidity majetku v dôchodkovom fonde.
+  - c) v stĺpci „Objem v euro“ sa uvádza zostatková hodnota pôžičky v mene euro alebo protihodnota v mene euro, ktorá bola prijatá v prospech majetku v dôchodkovom fonde na dočasné preklenutie nedostatku likvidity majetku v dôchodkovom fonde.
 
 - 18. V časti s názvom „Pohľadávky v súvislosti s výplatou dividend“
 
   - a) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - b) v stĺpci „Dividendy za CP v CM“ sa uvádza objem dividend v cudzej mene; ak sú pohľadávky vedené v slovenskej mene, uvádza sa „0“,
+  - b) v stĺpci „Dividendy za CP v CM“ sa uvádza objem dividend v cudzej mene; ak sú pohľadávky vedené v mene euro, uvádza sa „0“,
 
-  - c) v stĺpci „Dividendy za CP v Sk“ sa uvádza objem dividend v slovenskej mene alebo protihodnota v slovenskej mene,
+  - c) v stĺpci „Dividendy za CP v euro“ sa uvádza objem dividend v mene euro alebo protihodnota v mene euro,
 
   - d) v stĺpci „ISIN“ sa uvádza číselný kód emisie cenného papiera, na ktorý sa viaže nárok na výplatu dividend.
 
@@ -208,9 +208,9 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - b) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - c) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky za dodanie podkladového aktíva v cudzej mene; ak sú pohľadávky vedené v slovenskej mene, uvádza sa „0“,
+  - c) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky za dodanie podkladového aktíva v cudzej mene; ak sú pohľadávky vedené v mene euro, uvádza sa „0“,
 
-  - d) v stĺpci „Objem pohľadávky v Sk“ sa uvádza objem pohľadávky za dodanie podkladového aktíva v slovenskej mene alebo protihodnota v slovenskej mene.
+  - d) v stĺpci „Objem pohľadávky v euro“ sa uvádza objem pohľadávky za dodanie podkladového aktíva v mene euro alebo protihodnota v mene euro.
 
 - 20. V časti s názvom „Pohľadávky v súvislosti so zmenou portfólia“
 
@@ -220,9 +220,9 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - c) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - d) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky v cudzej mene; ak sú pohľadávky vedené v slovenskej mene, uvádza sa „0“,
+  - d) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky v cudzej mene; ak sú pohľadávky vedené v mene euro, uvádza sa „0“,
 
-  - e) v stĺpci „Objem pohľadávky v Sk“ sa uvádza objem pohľadávky v slovenskej mene alebo protihodnota v slovenskej mene,
+  - e) v stĺpci „Objem pohľadávky v euro“ sa uvádza objem pohľadávky v mene euro alebo protihodnota v mene euro,
 
   - f) v stĺpci „ISIN“ sa uvádza číselný kód emisie cenného papiera, na ktorý sa viaže príslušná pohľadávka.
 
@@ -238,9 +238,9 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - d) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberie zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - e) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky v cudzej mene; ak sú pohľadávky vedené v slovenskej mene, uvádza sa „0“,
+  - e) v stĺpci „Objem pohľadávky v CM“ sa uvádza objem pohľadávky v cudzej mene; ak sú pohľadávky vedené v mene euro, uvádza sa „0“,
 
-  - f) v stĺpci „Objem pohľadávky v Sk“ sa uvádza objem pohľadávky v slovenskej mene alebo protihodnota v slovenskej mene.
+  - f) v stĺpci „Objem pohľadávky v euro“ sa uvádza objem pohľadávky v mene euro alebo protihodnota v mene euro.
 
   - Ostatné pohľadávky predstavujú všetky ostatné pohľadávky dôchodkového fondu, ktoré neboli vykázané predtým.
 
@@ -250,9 +250,9 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - b) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - c) v stĺpci „Objem záväzku v CM“ sa uvádza objem záväzku za dodanie podkladového aktíva v cudzej mene; ak sú záväzky vedené v slovenskej mene, uvádza sa „0“,
+  - c) v stĺpci „Objem záväzku v CM“ sa uvádza objem záväzku za dodanie podkladového aktíva v cudzej mene; ak sú záväzky vedené v mene euro, uvádza sa „0“,
 
-  - d) v stĺpci „Objem záväzku v Sk“ sa uvádza objem záväzku za dodanie podkladového aktíva v slovenskej mene alebo protihodnota v slovenskej mene.
+  - d) v stĺpci „Objem záväzku v euro“ sa uvádza objem záväzku za dodanie podkladového aktíva v mene euro alebo protihodnota v mene euro.
 
 - 23. V časti s názvom „Záväzky v súvislosti so zmenou portfólia“
 
@@ -262,9 +262,9 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - c) v stĺpci „Mena“ sa uvádza kód meny podľa medzinárodných štandardov ISO 4217, kód príslušnej meny sa vyberá zo zoznamu prípustných kódov číselníka MENA, ktorý sa nachádza v APS STATUS DFT/C. Číselníky/C.7 Číselníky kódov,
 
-  - d) v stĺpci „Objem záväzku v CM“ sa uvádza objem záväzku v cudzej mene; ak sú záväzky vedené v slovenskej mene, uvádza sa „0“,
+  - d) v stĺpci „Objem záväzku v CM“ sa uvádza objem záväzku v cudzej mene; ak sú záväzky vedené v mene euro, uvádza sa „0“,
 
-  - e) v stĺpci „Objem záväzku v Sk“ sa uvádza objem záväzku v slovenskej mene alebo protihodnota v slovenskej mene,
+  - e) v stĺpci „Objem záväzku v euro“ sa uvádza objem záväzku v mene euro alebo protihodnota v mene euro,
 
   - f) v stĺpci „ISIN“ sa uvádza číselný kód emisie cenného papiera, na ktorý sa viaže príslušný záväzok.
 
@@ -274,15 +274,15 @@ Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/f7b0ceff1e
 
   - a) v stĺpci „Typ“ sa uvádzajú tieto záväzky: „SPR“ pre záväzky za správu, „VU“ pre záväzky za vedenie osobného dôchodkového účtu, „I“ pre iné záväzky, „PRESTUP“ pre záväzky dôchodkového fondu, ktoré súvisia s prestupom klientov medzi dôchodkovými fondmi alebo dôchodkovými správcovskými spoločnosťami,
 
-  - b) v stĺpci „Objem záväzku v Sk“ sa uvádza objem záväzku v slovenskej mene.
+  - b) v stĺpci „Objem záväzku v euro“ sa uvádza objem záväzku v mene euro.
 
   - Ostatné záväzky predstavujú všetky ostatné záväzky dôchodkového fondu, ktoré neboli vykázané predtým.
 
 - 25. V časti s názvom „NAV“
 
-  - a) v riadku „Čistá hodnota majetku v dôchodkovom fonde“ a v stĺpci „Hodnota“ sa uvádza čistá hodnota majetku v dôchodkovom fonde, ktorá predstavuje rozdiel medzi hodnotou majetku v dôchodkovom fonde a jeho záväzkami, vykazuje sa v slovenskej mene s presnosťou na dve desatinné miesta,
+  - a) v riadku „Čistá hodnota majetku v dôchodkovom fonde“ a v stĺpci „Hodnota“ sa uvádza čistá hodnota majetku v dôchodkovom fonde, ktorá predstavuje rozdiel medzi hodnotou majetku v dôchodkovom fonde a jeho záväzkami, vykazuje sa v mene euro s presnosťou na dve desatinné miesta,
 
-  - b) v riadku „Aktuálna hodnota dôchodkovej jednotky“ a v stĺpci „Hodnota“ sa uvádza aktuálna hodnota dôchodkovej jednotky, ktorá je určená ako podiel čistej hodnoty majetku v dôchodkovom fonde a počtu všetkých dôchodkových jednotiek evidovaných na osobných dôchodkových účtoch všetkých sporiteľov dôchodkového fondu v deň výpočtu, vykazuje sa v slovenskej mene s presnosťou na štyri desatinné miesta,
+  - b) v riadku „Aktuálna hodnota dôchodkovej jednotky“ a v stĺpci „Hodnota“ sa uvádza aktuálna hodnota dôchodkovej jednotky, ktorá je určená ako podiel čistej hodnoty majetku v dôchodkovom fonde a počtu všetkých dôchodkových jednotiek evidovaných na osobných dôchodkových účtoch všetkých sporiteľov dôchodkového fondu v deň výpočtu, vykazuje sa v mene euro s presnosťou na šesť desatinných miest,
 
   - c) v riadku „Počet dôchodkových jednotiek“ a v stĺpci „Hodnota“ sa uvádza počet dôchodkových jednotiek , ktorý je súčtom všetkých dôchodkových jednotiek evidovaných na osobných dôchodkových účtoch všetkých sporiteľov dôchodkového fondu v deň výpočtu, vykazuje sa s presnosťou na štyri desatinné miesta.
 
@@ -291,8 +291,6 @@ Použité skratky |
 skratka | opis
 
 Čís. r. | číslo riadka
-
-Sk | slovenské koruny
 
 NBS | Národná banka Slovenska
 
