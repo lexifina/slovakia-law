@@ -10,6 +10,18 @@ Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých z�
 
 - 2. V poznámke pod čiarou k odkazu 8 sa citácia „§ 2 písm. l) a písm. o)“ nahrádza citáciou „§ 2 písm. l) a písm. n)“.
 
+- 3. V § 3 ods. 2 sa na konci pripájajú tieto slová: „alebo prostredníctvom európskeho platobného systému“.
+
+- 4. V § 4 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Ak ide o prevodný príkaz na tuzemský prevod, ktorý vykonávacia inštitúcia vykonáva prostredníctvom európskeho platobného systému, sa za bankové spojenie podľa odseku 4 písm. a) považuje aj medzinárodné bankové číslo účtu, ak sa vykonávacia inštitúcia a klient nedohodnú inak. Takýto prevodný príkaz môže obsahovať ďalšie údaje na vykonanie prevodu, a to na základe rozhodnutia vykonávacej inštitúcie príkazcu.“.
+
+- Doterajšie odseky 5 a 6 sa označujú ako odseky 6 a 7.
+
+- 5. V § 4 ods. 7 sa slová „odseku 5“ nahrádzajú slovami „odsekov 5 alebo 6“.
+
 - 6. V § 5 ods. 1 tretej vete sa vypúšťajú slová „a sprostredkujúcim inštitúciám“.
 
 - 7. Poznámka pod čiarou k odkazu 21 znie:
@@ -17,6 +29,12 @@ Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých z�
 - „21)
 
 - Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.“.
+
+- 8. V § 7 ods. 2 písm. c) sa slová „§ 31 ods. 3“ nahrádzajú slovami „§ 31 ods. 2 a 4“.
+
+- 9. V § 16 ods. 1 sa na konci pripájajú tieto vety:
+
+- „Ak sa vykonáva cezhraničný prevod prostredníctvom európskeho platobného systému, vykonávacia inštitúcia príkazcu odpíše sumu prevodu v deň splatnosti podľa § 7 ods. 2. Ak sa vykonáva cezhraničný prevod prostredníctvom európskeho platobného systému, vykonávacia inštitúcia príjemcu pripíše sumu prevodu na účet príjemcu bez zbytočného odkladu v ten istý bankový pracovný deň, kedy bola suma prevodu pripísaná na účet vykonávacej inštitúcie príjemcu.“.
 
 - 10. V § 21 sa odsek 2 dopĺňa písmenom e), ktoré znie:
 
@@ -60,6 +78,8 @@ Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých z�
 
 - Národná banka Slovenska dohliada na dodržiavanie podmienok, za ktorých bolo povolenie vydané. Ak Národná banka Slovenska zistí, že vydavateľ opakovane závažne porušuje podmienky, za ktorých bolo povolenie vydané, môže toto povolenie odobrať.“.
 
+- 16. Vo štvrtej časti sa vypúšťa označenie „Prvá hlava“ a nadpis „Všeobecné ustanovenia“.
+
 - 17. V § 31 ods. 1 písm. a) prvom a druhom bode sa slová „okrem účastníkov“ nahrádzajú slovami „okrem osôb“.
 
 - 18. V § 31 ods. 1 písmeno d) znie:
@@ -68,17 +88,47 @@ Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých z�
 
 - vykonáva príkazy účastníkov platobného systému a zabezpečuje ich zúčtovanie u zúčtovacieho agenta podľa pravidiel ustanovených týmto zákonom a podľa štandardných postupov dohodnutých medzi účastníkmi platobného systému (ďalej len „pravidlá platobného systému“),“.
 
+- 19. V § 31 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Platobným systémom je aj európsky platobný systém, ktorým sa rozumie platobný systém tvoriaci súčasť Transeurópskeho automatizovaného expresného systému hrubého zúčtovania platieb v reálnom čase (TARGET2) podľa osobitného predpisu<sup>27p</sup>).“.
+
+- Doterajšie odseky 2 až 7 sa označujú ako odseky 3 až 8.
+
+- Poznámka pod čiarou k odkazu 27p znie:
+
+- „<sup>27p</sup>) Usmernenie Európskej centrálnej banky z 26. apríla 2007 o Transeurópskom automatizovanom expresnom systéme hrubého zúčtovania platieb v reálnom čase (TARGET2) (ECB/2007/2) (2007/600/ES) (Ú. v. EÚ L 237, 8. 9. 2007, s. 1 – 70).“.
+
+- 20. V § 31 odsek 7 znie:
+
+- „(7)
+
+- Na platobné systémy uvedené v odseku 6 sa vzťahujú všeobecné ustanovenia o platobných systémoch.“.
+
 - 21. V § 32 ods. 1 písm. f) sa vypúšťajú slová „a zúčtovanie“.
 
 - 22. V § 32 ods. 3 sa vypúšťajú slová „v platobnom systéme“.
 
 - 23. V § 32 ods. 4 sa vypúšťajú slová „a príkazov zúčtovacieho agenta platobného systému“.
 
+- 24. V § 32 ods. 5 sa slová „§ 31 ods. 2 písm. a)“ nahrádzajú slovami „§ 31 ods. 3 písm. a)“ a za slová „sa zúčtovávajú podľa“ sa vkladá slovo „priority,“.
+
+- 25. V § 32 ods. 6 sa slová „§ 31 ods. 2 písm. b)“ nahrádzajú slovami „§ 31 ods. 3 písm. b)“.
+
+- 26. § 32 sa dopĺňa odsekom 10, ktorý znie:
+
+- „(10)
+
+- Ak je podnik pomocných bankových služieb účastníkom európskeho platobného systému, odovzdáva výsledky spracovania dát pri prevodoch zúčtovaciemu agentovi tohto platobného systému, ktorý zabezpečuje ich zúčtovanie na zúčtovacích účtoch.“.
+
 - 27. V § 35 ods. 2 sa slová „platobného systému alebo“ nahrádzajú slovami „platobného systému a ani povolením reštrukturalizácie,“.
 
 - 28. V § 35 ods. 3 úvodnej vete sa za slová „majetok účastníka platobného systému“ vkladá čiarka a slová „povolením reštrukturalizácie“ a v písmenách a) a b) sa za slová „vyhlásenie konkurzu“ vo všetkých tvaroch vkladá čiarka a slová „povolenie reštrukturalizácie“ v príslušnom gramatickom tvare.
 
 - 29. V § 35 ods. 5 sa za slová „majetok účastníka platobného systému“ vkladá čiarka a slová „povolením reštrukturalizácie“.
+
+- 30. V § 36 ods. 7 sa slová „§ 31 ods. 5 písm. a)“ nahrádzajú slovami „§ 31 ods. 6 písm. a)“.
 
 - 31. § 37 znie:
 
@@ -164,7 +214,11 @@ Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých z�
 
 - § 273 ods. 1 Obchodného zákonníka.“.
 
+- 32. Vo štvrtej časti sa vypúšťajú druhá hlava a tretia hlava vrátane nadpisov.
+
 - 33. V § 59 ods. 2 sa slová „nie je prejednávanie a“ nahrádzajú slovami „nie je“.
+
+- 34. V § 61 ods. 2 písm. b) sa slová „§ 31 ods. 2“ nahrádzajú slovami „§ 31 ods. 3“.
 
 - 35. V § 65 ods. 4 úvodnej vete sa za slová „zastavení platieb,“ vkladajú slová „o povolení reštrukturalizácie,“ a v písmene a) sa za slovo „platieb“ vkladá čiarka a slovo „reštrukturalizácia“.
 
