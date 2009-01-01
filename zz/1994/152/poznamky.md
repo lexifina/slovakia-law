@@ -6,7 +6,13 @@
 
 - 3) Napríklad § 118 ods. 2 Zákonníka práce, § 84 ods. 1 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 78 ods. 1 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 4 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
-- 4) Napríklad § 109 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 101a zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 98 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 22 zákona č. 553/2003 Z. z. v znení neskorších predpisov, § 147 a 149 zákona č. 346/2005 Z. z.
+- 4) Napríklad § 98 zákona č. 312/2001 Z. z., § 22 ods. 2 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4a) Napríklad § 109 ods. 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 101a ods. 4 zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 138 ods. 2 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+
+- 4b) § 99 zákona č. 312/2001 Z. z.
+
+- 4c) § 23 zákona č. 553/2003 Z. z. v znení zákona č. 474/2008 Z. z.
 
 - 5) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
