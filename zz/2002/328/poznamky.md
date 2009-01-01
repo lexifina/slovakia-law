@@ -112,6 +112,8 @@
 
 - 31f) § 13 ods. 1 písm. f) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
+- 31fa) § 63 ods. 1 písm. d) zákona č. 315/2001 Z. z. v znení neskorších predpisov.
+
 - 31g) § 13 ods. 1 písm. f) až h) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 31h) § 119 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
@@ -249,3 +251,5 @@
 - 65b) § 111 ods. 2 zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
 
 - 65c) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
+
+- 66) Zákon č. 305/1999 Z. z. o zmiernení niektorých krívd osobám deportovaným do nacistických koncentračných táborov a zajateckých táborov.
