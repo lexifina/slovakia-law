@@ -1,8 +1,6 @@
-- 1) § 45b ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) § 35 až 37b zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Napríklad zákon č. 39/2007 Z. z. o veterinárnej starostlivosti, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, § 30 až 55 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení zákona č. 644/2006 Z. z.
-
-- 3) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, § 30 až 55 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 99/2008 Z. z.
 
 - 4) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -30,6 +28,10 @@
 
 - 16) § 36 a 37 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 16a) § 57 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona č. 397/2000 Z. z.
+
+- 16b) Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov Sadzobník správnych poplatkov, I. časť, Všeobecná správa, Položka 2, písm. e) a h).
+
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 18) Napríklad zákon č. 39/2007 Z. z., zákon č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -40,6 +42,6 @@
 
 - 2) Len na účely audítorskej činnosti.
 
-- 1) S účinnosťou od 1. júna 1994 je názov odboru „Krankengymnast(in)“ nahradený termínom „Physiotherapeut(in)“. Odborníci, ktorí diplom získali pred uvedeným dátumom, môžu však aj naďalej používať predchádzajúci názov „Krankengymnast(in)“, ak si tak želajú.
+- 1) S účinnosťou od 1. júna 1994 je názov odboru „Krankengymnast(in)“ nahradený termínom „Physiotherapeut(in)“. Avšak odborníci, ktorí diplom získali pred uvedeným dátumom, môžu i naďalej používať predchádzajúci názov „Krankengymnast(in)“, ak si tak želajú.
 
 - 1) Minimálna dĺžka sa môže skrátiť z troch rokov na dva roky, ak má dotyčná osoba kvalifikáciu potrebnú na prijatie na univerzitu („Abitur“), t. j. trinásť rokov predchádzajúceho štúdia a odbornej prípravy, alebo kvalifikáciu potrebnú na prijatie na „Fachhochschule“ („Fachhochschulreife“), t. j. dvanásť rokov predchádzajúceho vzdelávania a odbornej prípravy.
