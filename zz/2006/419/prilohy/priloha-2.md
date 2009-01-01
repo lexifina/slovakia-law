@@ -176,11 +176,11 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-      - Pri spätnom vývoze tovaru z colného režimu aktívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru, ktorý mal status tovaru Spoločenstva, a príslušný kód takto: „Pridaná hodnota AZS – X – V0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime aktívny zušľachťovací styk v slovenských korunách.
+      - Pri spätnom vývoze tovaru z colného režimu aktívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru, ktorý mal status tovaru Spoločenstva, a príslušný kód takto: „Pridaná hodnota AZS – X – V0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime aktívny zušľachťovací styk v eurách.
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s vývozom tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu – X – V0800“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách.
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s vývozom tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu – X – V0800“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách.
 
-      - Príslušné sumy v tomto odseku sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nahor.
+      - Príslušné sumy v tomto odseku sa uvádzajú v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
 
       - Uplatnenie žiadosti o vyplatenie vývoznej náhrady sa uvádza takto: „Žiadosť o vyplatenie vývoznej náhrady – X – V0900“, kde X vyjadruje registračné číslo žiadateľa o vyplatenie vývoznej náhrady pridelené Pôdohospodárskou platobnou agentúrou.
 
@@ -208,7 +208,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Štatistická hodnota tovaru používaného ako hmotný nosič informácií (napríklad diskety, počítačové pásky, filmy, plány, audiokazety, videokazety, kompaktné disky), ktorý obsahuje informácie, ktoré sú predmetom obchodu, zahŕňa celkové náklady tovaru, a to súčet hodnoty hmotného nosiča informácií a hodnoty informácií, ktoré hmotný nosič informácií nesie.
 
-      - Štatistická hodnota sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor. Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
+      - Štatistická hodnota sa uvádza v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor. Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
 
       - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva a colnom režime tranzit.
 
@@ -380,15 +380,15 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie Spoločenstva a príslušný kód sa uvádzajú takto: „Náklady na dopravu C – X – D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie Spoločenstva a príslušný kód sa uvádzajú takto: „Náklady na dopravu C – X – D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie Spoločenstva po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D – X – D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie Spoločenstva po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D – X – D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu S – X – D0620“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v slovenských korunách. Tieto náklady sa uvádzajú aj vtedy, ak sú zahrnuté vo fakturovanej cene.
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu S – X – D0620“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tieto náklady sa uvádzajú aj vtedy, ak sú zahrnuté vo fakturovanej cene.
 
-      - Pri spätnom dovoze tovaru z colného režimu pasívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru a príslušný kód takto: „Pridaná hodnota PZS – X – D0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime pasívny zušľachťovací styk v slovenských korunách.
+      - Pri spätnom dovoze tovaru z colného režimu pasívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru a príslušný kód takto: „Pridaná hodnota PZS – X – D0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime pasívny zušľachťovací styk v eurách.
 
-      - Príslušné sumy v tomto odseku sa uvádzajú v celých slovenských korunách zaokrúhlene smerom nahor.
+      - Príslušné sumy v tomto odseku sa uvádzajú v eurách zaokrúhlene na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor; sumy pri kódoch D0620 a D0700 sa uvádzajú v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
 
       - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Spoločenstva). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
 
@@ -434,7 +434,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Štatistická hodnota tovaru používaného ako hmotný nosič informácií (napríklad diskety, počítačové pásky, filmy, plány, audiokazety, videokazety, kompaktné disky), ktorý obsahuje informácie, ktoré sú predmetom obchodu, zahŕňa celkové náklady tovaru, a to súčet hodnoty hmotného nosiča informácií a hodnoty informácií, ktoré hmotný nosič informácií nesie.
 
-      - Štatistická hodnota sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor.
+      - Štatistická hodnota sa uvádza v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
 
       - Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
 
@@ -462,7 +462,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
         - Ak tovar podlieha spotrebnej dani, uvádza sa aj základ na vymeranie spotrebnej dane.
 
-        - Základ na výpočet cla s použitím valorických colných sadzieb sa uvádza v celých slovenských korunách zaokrúhlene smerom nahor. Základ na výpočet cla s použitím špecifických colných sadzieb sa uvádza s presnosťou na štyri desatinné miesta v mernej jednotke uvedenej v odseku 31. Základ na vymeranie dane a vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>13</sup>)
+        - Základ na výpočet cla s použitím valorických colných sadzieb sa uvádza v eurách zaokrúhlene na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor. Základ na výpočet cla s použitím špecifických colných sadzieb sa uvádza s presnosťou na štyri desatinné miesta v mernej jednotke uvedenej v odseku 31. Základ na vymeranie dane a vypočítaná daň sa zaokrúhľujú podľa osobitných predpisov.<sup>13</sup>)
 
       - Pododsek Sadzba
 
