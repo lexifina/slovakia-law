@@ -42,8 +42,8 @@ c) závažné poškodenie alebo znečistenie vodonosnej vrstvy (kolektora) alebo
 
 4. Škoda na majetku
 
-a) na území podniku najmenej 90 000 000 Sk,
+a) na území podniku najmenej 2 987 452,70 eura,
 
-b) mimo územia podniku najmenej 22 500 000 Sk.
+b) mimo územia podniku najmenej 746 863,18 eura.
 
 5. Každá závažná havária s cezhraničnými účinkami na územie iného štátu.
