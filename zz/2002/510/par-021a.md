@@ -6,7 +6,7 @@
 
 - a) žiadateľ je akciovou spoločnosťou,<sup>27b</sup>)
 
-- b) splatený peňažný vklad do základného imania žiadateľa najmenej vo výške 1 000 000 EUR alebo ekvivalentu tejto sumy v prepočte na slovenskú menu podľa kurzu Národnej banky Slovenska platného ku dňu splatenia peňažného vkladu,
+- b) splatený peňažný vklad do základného imania žiadateľa najmenej vo výške 1 000 000 EUR,
 
 - c) priehľadný, dôveryhodný a zákonný pôvod peňažného vkladu do základného imania a ďalších finančných zdrojov žiadateľa a jeho akcionárov,
 

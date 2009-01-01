@@ -12,7 +12,9 @@
 
 - 7) Napríklad zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 8) § 2 písm. l) a písm. n) bod 2 a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 8) § 2 písm. l) a písm. n) druhý bod a § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 80/1997 Z. z. v znení neskorších predpisov.
 
 - 9) § 31 ods. 1 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
@@ -108,6 +110,12 @@
 
 - 27o) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce v znení zákona č. 210/2003 Z. z.
 
+- 27oa) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27ob) Napríklad § 34a a 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 27p) Usmernenie Európskej centrálnej banky z 26. apríla 2007 o Transeurópskom automatizovanom expresnom systéme hrubého zúčtovania platieb v reálnom čase (TARGET2) (ECB/2007/2) (2007/600/ES) (Ú. v. EÚ L 237, 8. 9. 2007, s. 1 – 70).
+
 - 28) Napríklad zákon č. 566/2001 Z. z. v znení zákona č. 291/2002 Z. z. a zákon č. 80/1997 Z. z. v znení neskorších predpisov.
 
 - 29) § 25 ods. 7 zákona č. 483/2001 Z. z.
@@ -137,6 +145,8 @@
 - 38) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 39) Napríklad § 50 až 64 zákona č. 483/2001 Z. z. v znení zákona č. 430/2002 Z. z.
+
+- 39a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 40) § 7 ods. 2 nariadenia vlády Slovenskej republiky č. 100/1993 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 50/1998 Z. z.
 
