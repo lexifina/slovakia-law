@@ -32,11 +32,7 @@
 
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
-- 17a) § 12 ods. 5 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
-
-- 17b) § 17 ods. 3 písm. c) a § 18 ods. 5 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
-
-- 18) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
 - 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
@@ -98,6 +94,10 @@
 
 - 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 35aaa) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- § 217 Obchodného zákonníka.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
@@ -124,7 +124,9 @@
 
 - 41a) § 42 ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
-- 41b) § 3 ods. 1 písm. a) zákona č. 578/2004 Z. z.
+- 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41b) § 4 zákona č. 578/2004 Z. z.
 
 - 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -144,6 +146,10 @@
 
 - 45) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 45a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
 - 46) § 41 ods. 2 a § 116 až 152 Trestného zákona.
 
 - 47) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
@@ -162,7 +168,7 @@
 
 - 53) § 3 ods. 1 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
-- 54) § 4 a 11 zákona č. 95/2002 Z. z.
+- 54) § 4 a 6 zákona č. 8/2008 Z. z.
 
 - 55) Zákon č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

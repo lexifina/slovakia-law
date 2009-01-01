@@ -1,17 +1,19 @@
 # § 20a
 
-(1) Zamestnanec úradu nesmie
+Zamestnanec úradu nesmie
 
-- a) poskytovať zdravotnú starostlivosť,<sup>41b</sup>)
+a)
 
-- b) zaobchádzať s liekmi a so zdravotníckymi pomôckami,<sup>41c</sup>)
+byť poskytovateľom zdravotnej starostlivosti,<sup>41b</sup>)
 
-- c) byť štatutárnym orgánom alebo členom štatutárneho orgánu, odborným zástupcom alebo spoločníkom právnickej osoby, ktorá je držiteľom povolenia na prevádzkovanie zdravotníckeho zariadenia<sup>41d</sup>) alebo povolenia na zaobchádzanie s liekmi a so zdravotníckymi pomôckami,<sup>41e</sup>)
+b)
 
-- d) byť zamestnancom držiteľa povolenia podľa písmena c),
+zaobchádzať s liekmi a so zdravotníckymi pomôckami,<sup>41c</sup>)
 
-- e) vykonávať lekársku posudkovú činnosť,<sup>41f</sup>)
+c)
 
-- f) byť členom predstavenstva, členom dozornej rady, prokuristom alebo zamestnancom zdravotnej poisťovne.
+byť štatutárnym orgánom alebo členom štatutárneho orgánu, odborným zástupcom alebo spoločníkom právnickej osoby, ktorá je držiteľom povolenia na prevádzkovanie zdravotníckeho zariadenia<sup>41d</sup>) alebo povolenia na zaobchádzanie s liekmi a so zdravotníckymi pomôckami,<sup>41e</sup>)
 
-(2) Ustanovenie odseku 1 písm. a) sa nevzťahuje na zamestnancov úradu, ktorí vykonávajú pitvy.
+d)
+
+byť členom predstavenstva, členom dozornej rady, prokuristom alebo zamestnancom zdravotnej poisťovne.

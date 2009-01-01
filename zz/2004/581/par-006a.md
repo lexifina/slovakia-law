@@ -28,7 +28,7 @@
 
 (5) Ustanovenia odsekov 1 až 4 sa nevzťahujú na použitie
 
-- a) vlastných zdrojov zdravotnej poisťovne pri zabezpečení minimálnej miery platobnej schopnosti (§ 14),
+- a) vlastných zdrojov zdravotnej poisťovne,
 
 - b) peňažných prostriedkov, ktoré zdravotná poisťovňa získala v príslušnom kalendárnom roku z predaja nepotrebného majetku zdravotnej poisťovne,
 
