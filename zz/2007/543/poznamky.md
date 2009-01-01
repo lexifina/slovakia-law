@@ -38,6 +38,14 @@
 
 - Nariadenie Komisie (ES) č. 885/2006.
 
+- 12a) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 12b) § 4 ods. 5 zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
+
+- 12c) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. v znení neskorších predpisov.
+
+- 12d) § 11 zákona č. 144/1998 Z. z.
+
 - 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 14) Nariadenie Rady (EHS) č. 79/1965 z 15. júna 1965 o zriadení siete na zber účtovných údajov o príjmoch a o hospodárskej činnosti poľnohospodárskych podnikov v EHS (Ú. v. ES 109, 23. 6. 1965, Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 1).
