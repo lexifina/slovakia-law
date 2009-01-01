@@ -12,6 +12,10 @@ Zákon č. 530/1990 Zb. o dlhopisoch v znení zákona č. 600/1992 Zb., zákona 
 
 - 2. V § 3 ods. 1 písm. c) treťom bode sa slovo „cudzej“ nahrádza slovom „inej“.
 
+- 3. V § 3 ods. 1 písm. c) sa vypúšťa prvý bod.
+
+  - Zároveň sa druhý a tretí bod označujú ako prvý a druhý bod.
+
 - 4. V § 3 ods. 4 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak tento alebo osobitný zákon neustanovuje inak.“.
 
 - 5. V § 3 ods. 5 druhej vete sa slovo „Úrad“ nahrádza slovami „Národná banka Slovenska“ a v časti vety za bodkočiarkou sa slovo „emitent“ nahrádza slovami „a uhrádza emitent, ak osobitný predpis neustanovuje inak“.

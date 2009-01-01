@@ -2,6 +2,8 @@
 
 Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z. a zákona č. 568/2007 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 2 písm. e) sa vypúšťajú slová „hodnoty v Sk zodpovedajúcej“ a slová „hodnotu v Sk zodpovedajúcu“.
+
 - 2. § 3 sa dopĺňa odsekom 11, ktorý znie:
 
 - „(11)

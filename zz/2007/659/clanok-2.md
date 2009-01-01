@@ -4,6 +4,20 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
 - 1. V § 1 ods. 1 sa na konci pripája táto veta: „Národná banka Slovenska je súčasťou Európskeho systému centrálnych bánk; Národná banka Slovenska sa odo dňa zavedenia eura v Slovenskej republike (ďalej len „deň zavedenia eura") stáva aj súčasťou Eurosystému ako systému centrálneho bankovníctva eurozóny v rámci Európskeho systému centrálnych bánk.“.
 
+- 2. V § 2 ods. 1 písmená a) a b) znejú:
+
+- „a)
+
+- podieľa sa na spoločnej menovej politike, ktorú určuje Európska centrálna banka pre eurozónu (ďalej len „spoločná európska menová politika"),
+
+- b)
+
+- vydáva eurobankovky a euromince podľa osobitných predpisov platných v eurozóne pre vydávanie eurobankoviek a euromincí,<sup>1aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 1aa znie:
+
+  - „<sup>1aa</sup>) Napríklad čl. 106 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006), čl. 16 a 44 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).“.
+
 - 3. V § 2 ods. 1 písm. c) sa na začiatok vkladajú tieto slová: „podporuje plynulé fungovanie platobných systémov a zúčtovacích systémov,“.
 
 - 4. V § 2 ods. 1 sa za písmeno c) vkladá nové písmeno d), ktoré znie:
@@ -40,11 +54,53 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
   - Čl. 3, 6, 9 ods. 9.2, čl. 10 ods. 10.1 a 10.3, čl. 12 ods. 12.1, čl. 14 ods. 14.3, čl. 16 až 20, čl. 22, 23, čl. 26 ods. 26.2, čl. 27, čl. 30 až 34, čl. 44, 50 a 52 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení.“.
 
+- 6. § 3 znie:
+
+- „§ 3
+
+- (1)
+
+- Národná banka Slovenska zverejňuje informácie a správy Európskej centrálnej banky o činnosti Európskeho systému centrálnych bánk a o spoločnej európskej menovej politike, pričom postupuje podľa pravidiel platných pre Európsky systém centrálnych bánk.
+
+- (2)
+
+- Národná banka Slovenska predkladá a zverejňuje správy o stave a vývoji finančného trhu podľa osobitného predpisu.<sup>1c</sup>)“.
+
 - 7. V § 4 ods. 2 sa slovo „zastupuje“ nahrádza slovami „môže zastupovať“ a vypúšťajú sa slová „súvisiacich s plnením menovej politiky“.
+
+- 8. § 4 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ustanoveniami odsekov 1 a 2 nie je dotknutá pôsobnosť a právomoci Európskej centrálnej banky ani iných inštitúcií a orgánov Európskej únie na medzinárodnej úrovni.<sup>1ca</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 1ca znie:
+
+  - „1ca)
+
+  - Napríklad čl. 111 ods. 4 a 5, čl. 249 až 256 Zmluvy o založení Európskeho spoločenstva v platnom znení, čl. 6 ods. 6.1 a 6.2, čl. 21 ods. 21.2, čl. 23, 31 a 34 a čl. 43 ods. 43.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.“.
+
+- 9. V § 6 ods. 1 písmeno a) znie:
+
+- „a)
+
+- zásady postupu Národnej banky Slovenska a jej organizačných zložiek pri uskutočňovaní spoločnej európskej menovej politiky podľa osobitných predpisov a pravidiel platných pre spoločnú európsku menovú politiku,<sup>1cb</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 1cb znie:
+
+  - „1cb)
+
+  - Napríklad usmernenie Európskej centrálnej banky č. ECB/2000/7 (2000/776/ES) z 31. augusta 2000 o nástrojoch menovej politiky a postupoch Eurosystému (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení.“.
 
 - 10. V § 6 ods. 1 písm. b) sa slovo „rozhoduje“ nahrádza slovami „vo veciach dohľadu zvereného Národnej banke Slovenska rozhoduje“.
 
 - 11. V § 6 ods. 2 písm. b) sa vypúšťajú slová „(§ 38)“.
+
+- 12. V § 6 ods. 2 písmeno e) znie:
+
+- „e)
+
+- rozhoduje o postupe Národnej banky Slovenska a jej organizačných zložiek pri vydávaní eurobankoviek a euromincí vrátane pamätných euromincí a zberateľských euromincí, a to podľa osobitných predpisov platných v eurozóne pre vydávanie eurobankoviek a euromincí,<sup>1aa</sup>)“.
 
 - 13. V § 6 ods. 2 písm. j) sa na konci pripájajú tieto slová: „ako aj schvaľuje návrhy zákonov, ktoré vláde predkladá alebo spolupredkladá Národná banka Slovenska,“.
 
@@ -146,6 +202,28 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
   - Napríklad rozhodnutie Rady (ES) č. 98/415/ES z 29. júna 1998 o poradení sa vnútroštátnych orgánov s Európskou centrálnou bankou ohľadom návrhov právnych predpisov (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 01).“.
 
+- 28. § 15 znie:
+
+- „§ 15
+
+- (1)
+
+- Národná banka Slovenska má v súlade s osobitnými predpismi<sup>1aa</sup>) právo vydávať eurobankovky a euromince vrátane pamätných euromincí, ktoré sú zákonným platidlom v eurozóne a v zúčastnených tretích štátoch, ktoré sú určené na peňažný obeh a ktoré vo svojej nominálnej hodnote slúžia na uhrádzanie peňažných záväzkov. Národná banka Slovenska má v súlade s osobitnými predpismi<sup>1aa</sup>) aj právo vydávať zberateľské euromince, ktoré sú zákonným platidlom vo svojej nominálnej hodnote len v Slovenskej republike a ktoré nie sú primárne určené na peňažný obeh, zreteľne sa odlišujú od euromincí určených na peňažný obeh a uvádza sa na nich iná nominálna hodnota v eurách alebo eurocentoch ako na eurominciach určených na peňažný obeh. Okrem vydávania eurobankoviek a euromincí v súlade s osobitnými predpismi<sup>1aa</sup>) žiadna právnická osoba ani žiadna fyzická osoba v Slovenskej republike nesmie vydávať bankovky ani mince.
+
+- (2)
+
+- Národná banka Slovenska pri vydávaní eurobankoviek a euromincí postupuje podľa osobitných predpisov a rozhodnutí platných pre eurobankovky a euromince.<sup>3</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 3 znie:
+
+  - „3)
+
+  - Napríklad čl. 106 Zmluvy o založení Európskeho spoločenstva v platnom znení, čl. 16 a čl. 44 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, nariadenie Rady (ES) č. 974/98 z 3. mája 1998 o zavedení eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení, nariadenie Rady (ES) č. 1103/97 zo 17. júna 1997 o určitých ustanoveniach týkajúcich sa zavedenia eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení, nariadenie Rady (ES) č. 975/98 z 3. mája 1998 o nominálnych hodnotách a technických špecifikáciách euromincí určených do obehu (Mimoriadne vydanie Ú. v. EÚ, kap.10/zv. 01) v znení nariadenia Rady (ES) č. 423/1999 z 22. februára 1999 (Mimoriadne vydanie Ú. v. EÚ, kap.10/zv. 01), rozhodnutie Európskej centrálnej banky č. ECB/2001/15 (2001/913/ES) zo 6. decembra 2001 o vydaní eurobankoviek (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 03) v platnom znení, rozhodnutie Európskej centrálnej banky č. ECB/2003/4 (2003/205/ES) z 20. marca 2003 o nominálnych hodnotách, špecifikáciách, reprodukcii, výmene a sťahovaní eurobankoviek z obehu (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 03), usmernenie Európskej centrálnej banky č. ECB/2006/10 (2006/549/ES) z 24. júla 2006 o výmene po neodvolateľnom stanovení výmenných kurzov v súvislosti so zavedením eura (Ú. v. EÚ L 215, 5. 8. 2006).“.
+
+- 29. V § 16 sa vypúšťa odsek 1, súčasne sa zrušuje označenie odseku 2 a slová „v slovenských korunách ani v halieroch“ sa nahrádzajú slovami „v eurách, centoch ani eurocentoch“.
+
+- 30. V § 17 ods. 1 sa slovo „riadi“ nahrádza slovami „podľa osobitných predpisov platných pre eurobankovky a euromince<sup>3</sup>) riadi v Slovenskej republike“.
+
 - 31. V § 17 ods. 3 sa slová „analýzu a monitorovanie falzifikátov eurových bankoviek a eurových mincí.“ nahrádzajú slovami „analýzu, monitorovanie a archivovanie falšovaných bankoviek a mincí alebo pozmenených bankoviek a mincí, pričom postupuje podľa osobitných predpisov na ochranu proti falšovaniu bankoviek a mincí.<sup>3a</sup>) Národná banka Slovenska zašle Európskej centrálnej banke každý nový typ podozrivej sfalšovanej eurobankovky, ktorý zodpovedá kritériám prijatým Európskou centrálnou bankou.“.
 
   - Poznámka pod čiarou k odkazu 3a znie:
@@ -195,6 +273,16 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 - (5)
 
 - Národná banka Slovenska môže v súlade s právnymi aktmi Európskeho spoločenstva<sup>3g</sup>) vydať všeobecne záväzný právny predpis, ktorý odo dňa zavedenia eura ustanoví v Slovenskej republike požiadavky na zisťovanie pravosti, testovanie a triedenie euromincí a na manipuláciu s euromincami nevhodnými do peňažného obehu, zisťovanie a vyčísľovanie výšky náhrad a postup pri poskytovaní náhrad za poškodené euromince ich výmenou za nepoškodené euromince, postup pri odoberaní poškodených euromincí, za ktoré sa neposkytuje náhrada, postup pri odoberaní falšovaných euromincí a iných podobných predmetov a postup pri sťahovaní euromincí nevhodných do peňažného obehu a ich predkladaní do Národnej banky Slovenska.
+
+- § 17c
+
+- (1)
+
+- Ak príslušná inštitúcia alebo orgán Európskej únie<sup>3e</sup>) prijme rozhodnutie o stiahnutí určitej nominálnej hodnoty, typu alebo série eurobankoviek alebo euromincí z peňažného obehu a určí obdobie na ich výmenu, pri výmenách sťahovaných eurobankoviek a euromincí sa postupuje podľa príslušného rozhodnutia a ďalších pravidiel pre výmenu príslušných eurobankoviek alebo euromincí.
+
+- (2)
+
+- Národná banka Slovenska a banky sú v Slovenskej republike povinné odo dňa zavedenia eura počas určeného obdobia na výmenu a podľa ďalších pravidiel pre výmenu uskutočňovať bezodplatnú výmenu eurobankoviek a euromincí, ktoré sú sťahované z peňažného obehu, pričom výmena sa uskutočňuje vo forme vkladu na vkladnú knižku alebo na bankový účet vedený bankou v eurách, prípadne vo forme výmeny v hotovosti za iné platné eurobankovky a euromince. Pri výmene vo forme vkladu na vkladnú knižku alebo na bežný účet alebo vkladový účet vedený bankou sa pripíše suma vkladu v celej výške nominálnej hodnoty vymieňaných eurobankoviek a euromincí. Žiadateľ o výmenu je povinný preukázať svoju totožnosť dokladom totožnosti. Výmena poškodených eurobankoviek a euromincí, ktoré sú sťahované z peňažného obehu, za iné platné eurobankovky a euromince sa uskutočňuje podľa pravidiel pre výmenu poškodených eurobankoviek a euromincí. Banky bezodkladne odovzdávajú Národnej banke Slovenska všetky stiahnuté eurobankovky a euromince, za ktoré poskytli náhradu, spolu s písomnými dokladmi o vyčíslení a výške poskytnutej náhrady. Národná banka Slovenska skontroluje správnosť poskytnutia náhrad a banke uhradí sumu vo výške správne poskytnutých náhrad.
 
 - § 17d
 
@@ -398,6 +486,8 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
   - Napríklad § 4 ods. 2 a 3 a § 6 ods. 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.“.
 
+- 34. V § 17h ods. 2 sa vypúšťa písmeno a) a písmená c) až g) a súčasne sa zrušuje označenie písmena b).
+
 - 35. Nadpis piatej časti znie: „OBCHODY NÁRODNEJ BANKY SLOVENSKA“.
 
 - 36. § 18 a 19 vrátane nadpisu nad § 18 znejú:
@@ -443,6 +533,22 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
   - Čl. 102 Zmluvy o založení Európskeho spoločenstva v platnom znení.
 
   - Nariadenie Rady (ES) č. 3604/93 z 13. decembra 1993, ktorým sa stanovujú definície na uplatňovanie zákazu zvýhodneného prístupu, uvedeného v článku 104a zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01).“.
+
+- 37. § 20 a 21 znejú:
+
+- „§ 20
+
+- Národná banka Slovenska podľa pravidiel platných pre Eurosystém vykonáva činnosti, ktoré súvisia s určovaním a udržiavaním povinných minimálnych rezerv podľa osobitného predpisu.<sup>4ad</sup>)
+
+- § 21
+
+- Národná banka Slovenska je podľa pravidiel platných pre Eurosystém oprávnená ukladať a uplatňovať aj sankcie súvisiace s povinnými minimálnymi rezervami, s obchodmi alebo s inými operáciami menovej politiky podľa osobitného predpisu.<sup>4ad</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 4ad znie:
+
+  - „4ad)
+
+  - Napríklad čl. 9 ods. 9.2, čl. 12 ods. 12.1, čl. 14 ods. 14.3 a čl. 19, 20 a 42 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, nariadenie Rady (ES) č. 2531/98 z 23. novembra 1998, ktoré sa týka uplatnenia minimálnych rezerv Európskou centrálnou bankou (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03) v znení nariadenia Rady (ES) č. 134/2002 z 22. januára 2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 04), nariadenie Rady (ES) č. 2532/98 z 23. novembra 1998 týkajúce sa právomocí Európskej centrálnej banky ukladať sankcie (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03), nariadenie Európskej centrálnej banky č. 1745/2003 (ECB/2003/9) z 12. septembra 2003 o povinných minimálnych rezervách (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03).“.
 
 - 38. Označenie a nadpis šiestej časti sa vypúšťa.
 
@@ -506,6 +612,28 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
 - 44. V nadpise šiestej časti sa slová „DEVÍZOVOM HOSPODÁRSTVE“ nahrádzajú slovami „DEVÍZOVEJ OBLASTI“.
 
+- 45. § 28 znie:
+
+- „§ 28
+
+- (1)
+
+- Národná banka Slovenska má v úschove a spravuje devízové rezervy v zlate a v devízových hodnotách, disponuje s nimi a uskutočňuje devízové operácie, pričom odo dňa zavedenia eura pri uskutočňovaní operácií v rámci Eurosystému postupuje podľa pravidiel platných pre operácie Eurosystému.<sup>4e</sup>)
+
+- (2)
+
+- Národná banka Slovenska môže určovať a vyhlasovať referenčné výmenné kurzy eura k cudzím menám, s ktorými sa v Slovenskej republike aktívne obchoduje alebo sa inak využívajú a pre ktoré Európska centrálna banka neurčuje a nevyhlasuje referenčný výmenný kurz.<sup>4f</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 4e a 4f znejú:
+
+  - „4e)
+
+  - Napríklad čl. 23 a 31 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+
+  - 4f)
+
+  - Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.“.
+
 - 46. V § 29 sa vypúšťajú písmená a) a c).
 
   - Doterajšie písmená b), d), e) a f) sa označujú ako písmená a), b), c) a d).
@@ -528,6 +656,14 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 
   - Napríklad čl. 5, čl. 106, čl. 107 ods. 5 a 6, čl. 110 ods. 1 a 2, čl. 122 ods. 2, čl. 123 ods. 4 a 5 a čl. 249 až 256 Zmluvy o založení Európskeho spoločenstva v platnom znení, čl. 5 ods. 5.4, čl. 12 ods. 12.1, čl. 16, čl. 18 ods. 18.2, čl. 19 ods. 19.1, čl. 22, čl. 26 ods. 26.4, čl. 31 ods. 31.3, čl. 34 ods. 34.1 a 34.2 a čl. 42 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení.“.
 
+- 51. V § 31 ods. 1 časti vety pred bodkočiarkou sa za slová „Národná banka Slovenska“ vkladajú slová „v súlade s nariadeniami Európskej centrálnej banky<sup>5aa</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 5aa znie:
+
+  - „5aa)
+
+  - Čl. 22 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.“.
+
 - 52. V § 33 ods. 2 sa slová „zabezpečuje spoluprácu“ nahrádzajú slovami „sa podieľa na spolupráci“.
 
 - 53. V § 34a ods. 1 sa slovo „zákonov;<sup>5g</sup>)“ nahrádza slovom „predpisov;<sup>5g</sup>)“ a na konci poznámky pod čiarou k odkazu 5g sa bodka nahrádza čiarkou a pripájajú sa tieto slová: „čl. 5 ods. 5.1 a 5.2 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, nariadenie Rady (ES) č. 2533/98 z 23. novembra 1998 o zbere štatistických informácií Európskou centrálnou bankou (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03).“.
@@ -543,6 +679,70 @@ Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Sl
 - 56. V § 35 sa slovo „nevyhnutnom“ nahrádza slovom „potrebnom“.
 
 - 57. V nadpise deviatej časti sa na začiatok vkladajú slová „ÚČTOVNÍCTVO A“.
+
+- 58. § 38 a 39 znejú:
+
+- „§ 38
+
+- (1)
+
+- Národná banka Slovenska odo dňa zavedenia eura vedie účtovníctvo a zostavuje účtovnú závierku podľa osobitných predpisov platných pre Eurosystém.<sup>7d</sup>)
+
+- (2)
+
+- Účtovnú závierku Národnej banky Slovenska overuje nezávislý externý audítor určený podľa osobitných predpisov platných pre Eurosystém.<sup>8</sup>)
+
+- (3)
+
+- Národná banka Slovenska zostavuje a zverejňuje svoje výročné správy podľa osobitných predpisov platných pre Eurosystém.<sup>7d</sup>)
+
+- (4)
+
+- Národná banka Slovenska spracúva a poskytuje na zverejnenie bilanciu aktív a pasív Národnej banky Slovenska.
+
+- § 39
+
+- (1)
+
+- Národnej banke Slovenska patrí podiel na kapitáli Európskej centrálnej banky v rozsahu a za podmienok určených podľa osobitných predpisov platných pre Európsky systém centrálnych bánk.<sup>8a</sup>)
+
+- (2)
+
+- Národná banka Slovenska prevádza do Európskej centrálnej banky devízové rezervy v rozsahu a za podmienok určených podľa osobitných predpisov platných pre Eurosystém.<sup>8b</sup>)
+
+- (3)
+
+- Aktíva a pasíva Národnej banky Slovenska, ktoré spadajú pod Eurosystém, sa vedú a vykazujú podľa osobitných predpisov platných pre Eurosystém.<sup>9</sup>) Národná banka Slovenska sa podieľa na rozdeľovaní menových príjmov v rámci Eurosystému a na rozdeľovaní čistého zisku a strát Európskej centrálnej banky v rozsahu a za podmienok určených podľa osobitných predpisov platných pre Eurosystém.<sup>9</sup>)
+
+- (4)
+
+- Výsledkom hospodárenia Národnej banky Slovenska za účtovné obdobie je vytvorený zisk alebo strata. Národná banka Slovenska používa vytvorený zisk na prídely do rezervného fondu a ďalších fondov vytváraných zo zisku, prípadne na úhradu straty z minulých rokov. Stratu vytvorenú v účtovnom období Národná banka Slovenska môže uhradiť z rezervného fondu alebo z iných fondov. Strata, o ktorej banková rada rozhodne, že zostane neuhradená, sa prevedie do nasledujúceho účtovného obdobia.
+
+- (5)
+
+- Národná banka Slovenska predkladá ročnú správu o výsledku svojho hospodárenia na prerokovanie Národnej rade Slovenskej republiky do troch mesiacov po skončení kalendárneho roka; okrem údajov o účtovnej závierke Národnej banky Slovenska a o výroku audítora o jej overení sa v tejto správe osobitne uvádzajú údaje o nákladoch na činnosť Národnej banky Slovenska. Ak o to Národná rada Slovenskej republiky požiada, Národná banka Slovenska je povinná do šiestich týždňov podľa jej požiadavky doplniť informácie alebo podať vysvetlenie k predloženej ročnej správe o výsledku hospodárenia Národnej banky Slovenska.“.
+
+  - Poznámky pod čiarou k odkazom 7d, 8, 8a, 8b a 9 znejú:
+
+  - „7d)
+
+  - Napríklad čl. 26 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, usmernenie Európskej centrálnej banky č. ECB/2006/16 (2006/887/ES) z 10. novembra 2006 o právnom rámci pre účtovníctvo a finančné výkazníctvo v Európskom systéme centrálnych bánk (Ú. v. EÚ L 348, 11. 12. 2006), § 17b zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+  - 8)
+
+  - Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+
+  - 8a)
+
+  - Čl. 28, 29, 48 a 49 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+
+  - 8b)
+
+  - Čl. 30 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+
+  - 9)
+
+  - Čl. 26, 32 a 33 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.“.
 
 - 59. V § 41 na konci poslednej vety sa nad slovo „bánk.“ umiestňuje odkaz 9aa.
 

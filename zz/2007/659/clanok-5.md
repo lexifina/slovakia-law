@@ -10,4 +10,8 @@ Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení
 
 - 4. V § 14 ods. 8 sa slovo „rozklad“ nahrádza slovami „opravný prostriedok“.
 
+- 5. V § 40 ods. 10 sa slová „slovenskej mene“ nahrádzajú slovom „eurách“.
+
 - 6. V § 42 ods. 6 sa slová „100 Sk“ nahrádzajú slovami „celkové finančné náklady potrebné na vrátenie prostredníctvom platobného styku (§ 41 ods. 3)“.
+
+- 7. V § 42 ods. 7 sa slová „slovenskej mene“ nahrádzajú slovom „eurách“.

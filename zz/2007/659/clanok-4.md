@@ -4,7 +4,21 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 
 - 1. V § 93 ods. 3 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „alebo 250 eur, ak je hodnota vkladu vyjadrená v eurách.“.
 
+- 2. V § 93 ods. 3 prvá veta znie: „Komanditista je povinný vložiť do spoločnosti vklad vo výške určenej spoločenskou zmluvou, najmenej však vo výške 250 eur.“.
+
 - 3. V § 97 ods. 4 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak zákon neustanovuje inak.“.
+
+- 4. V § 108 odsek 1 znie:
+
+- „(1)
+
+- Hodnota základného imania spoločnosti musí byť aspoň 5 000 eur.“.
+
+- 5. V § 109 odsek 1 znie:
+
+- „(1)
+
+- Hodnota vkladu spoločníka musí byť aspoň 750 eur.“.
 
 - 6. V § 109 ods. 2 druhej vete sa slová „musí byť však deliteľná tisícom“ nahrádzajú slovami „musí však byť vyjadrená kladným celým číslom, ak osobitný zákon neustanovuje inak“.
 
@@ -32,6 +46,14 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 
 - 12. V § 157 ods. 1 tretej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak osobitný zákon neustanovuje inak.“.
 
+- 13. V § 157 ods. 1 štvrtá veta znie: „Menovitá hodnota akcií sa vyjadruje v eurách, ak osobitný zákon neustanovuje inak.“.
+
+- 14. V § 162 odsek 3 znie:
+
+- „(3)
+
+- Hodnota základného imania spoločnosti musí byť aspoň 25 000 eur.“.
+
 - 15. V § 187 ods. 1 písmeno a) znie:
 
 - „a)
@@ -39,6 +61,8 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 - zmena stanov, ak zákon neustanovuje inak,“.
 
 - 16. V § 223 ods. 2 sa na konci pripájajú tieto vety: „Výška členského vkladu sa môže pre jednotlivých členov určiť rozdielne, musí však byť vyjadrená kladným celým číslom, ak zákon neustanovuje inak. Celkový súčet menovitých hodnôt členských vkladov do družstva sa musí rovnať menovitej hodnote základného imania družstva.“.
+
+- 17. V § 223 ods. 3 druhá veta znie: „Zapisované základné imanie musí byť najmenej 1 250 eur.“.
 
 - 18. V § 226 ods. 3 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak zákon neustanovuje inak.“.
 
@@ -49,6 +73,8 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 - „a)
 
 - zmena stanov, ak zákon neustanovuje inak,“.
+
+- 21. V § 369 ods. 1 prvej vete a druhej vete sa slová „Národnej banky Slovenska“ nahrádzajú slovami „Európskej centrálnej banky“.
 
 - 22. Za § 768d sa vkladá § 768e, ktorý vrátane nadpisu znie:
 

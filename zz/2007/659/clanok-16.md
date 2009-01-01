@@ -4,6 +4,8 @@ Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnen
 
 - 1. V § 28 ods. 1 sa na konci pripájajú tieto slová: „a pred financovaním terorizmu“.
 
+- 2. V celom § 61 sa slová „slovenských korunách“ nahrádzajú slovami „eurách“.
+
 - 3. V § 70 ods. 3 sa slová „nie sú spory“ nahrádzajú slovami „nie je rozhodovanie sporov“.
 
 - 4. V § 71 ods. 1 úvodnej vete sa nad slová „osobitných predpisoch“ umiestňuje odkaz 45a.

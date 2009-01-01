@@ -2,6 +2,18 @@
 
 Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z. z., zákona č. 600/2003 Z. z., zákona č. 5/2004 Z. z., zákona č. 43/2004 Z. z., zákona č. 186/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 391/2004 Z. z., zákona č. 439/2004 Z. z., zákona č. 523/2004 Z. z., zákona č. 721/2004 Z. z., zákona č. 82/2005 Z. z., zákona č. 244/2005 Z. z., zákona č. 351/2005 Z. z., zákona č. 534/2005 Z. z., zákona č. 584/2005 Z. z., zákona č. 310/2006 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 460/2006 Z. z., zákona č. 529/2006 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 566/2006 Z. z., zákona č. 592/2006 Z. z., zákona č. 677/2006 Z. z., zákona č. 274/2007 Z. z., zákona č. 519/2007 Z. z. a zákona č. 555/2007 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 56 ods. 1 sa slová „slovenské koruny“ nahrádzajú slovom „eurocenty“.
+
+- 2. V § 64 ods. 5 sa slovo „dve“ nahrádza slovom „štyri“.
+
+- 3. V § 116 ods. 8 sa slová „celé slovenské koruny“ nahrádzajú slovami „10 eurocentov“.
+
+- 4. V § 129 ods. 2 sa slová „celé slovenské koruny nahor“ nahrádzajú slovami „10 eurocentov nadol“.
+
+- 5. V § 138 ods. 1 písm. a) sa slová „slovenskej mene“ nahrádzajú slovom „eurách“ a slová „slovenskú menu“ sa nahrádzajú slovom „eurá“.
+
+- 6. V § 138 ods. 25 sa slová „slovenské koruny“ nahrádzajú slovom „eurocenty“.
+
 - 7. V § 168 ods. 2 sa za písmeno c) vkladá nové písmeno d), ktoré znie:
 
 - „d)

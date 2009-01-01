@@ -2,6 +2,10 @@
 
 Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z., zákona č. 439/2004 Z. z., zákona č. 721/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 310/2006 Z. z., zákona č. 644/2006 Z. z., zákona č. 677/2006 Z. z., zákona č. 209/2007 Z. z., zákona č. 519/2007 Z. z. a zákona č. 555/2007 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 23 ods. 11 sa slová „slovenské koruny“ nahrádzajú slovom „eurocenty“.
+
+- 2. V § 75 ods. 2 sa slová „slovenských korunách“ nahrádzajú slovami „eurách“ a slová „štyri desatinné miesta“ sa nahrádzajú slovami „šesť desatinných miest“.
+
 - 3. V § 114 ods. 3 sa slová „nie sú spory“ nahrádzajú slovami „nie je rozhodovanie sporov“.
 
 - 4. V § 115 ods. 1 úvodnej vete sa nad slová „osobitných predpisoch“ umiestňuje odkaz 93a.
