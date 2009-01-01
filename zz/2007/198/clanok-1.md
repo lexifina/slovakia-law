@@ -308,7 +308,35 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - 28. V § 21 ods. 5 sa za slová „v tom istom rozsahu a“ vkladajú slová „v tej istej lehote“.
 
+- 29. V § 22 ods. 3 úvodnej vete sa slová „alebo družstvom“ nahrádzajú slovami „družstvom alebo účtovnou jednotkou verejnej správy, “.
+
 - 30. V § 22 ods. 11 sa číslo „ 9“ nahrádza číslom „ 8“.
+
+- 31. Za § 22 sa vkladá § 22a, ktorý vrátane nadpisu znie:
+
+- „§ 22a
+
+- Konsolidovaná účtovná závierka účtovnej jednotky verejnej správy, konsolidovaná účtovná závierka ústrednej správy a súhrnná účtovná závierka verejnej správy
+
+- (1)
+
+- Konsolidovanú účtovnú závierku účtovnej jednotky verejnej správy zostavuje správca kapitoly štátneho rozpočtu (ďalej len „kapitola"), obec alebo vyšší územný celok za nimi zriadené rozpočtové organizácie, príspevkové organizácie alebo dcérske účtovné jednotky podľa § 22 ods. 4 na základe ich individuálnych účtovných závierok.
+
+- (2)
+
+- Konsolidovanú účtovnú závierku ústrednej správy zostavuje ministerstvo za všetky kapitoly na základe konsolidovaných účtovných závierok podľa odseku 1 zostavených správcami kapitol. Ak správca kapitoly nie je povinný zostaviť konsolidovanú účtovnú závierku podľa odseku 1, použije sa ako základ na zostavenie konsolidovanej účtovnej závierky ústrednej správy individuálna účtovná závierka správcu kapitoly.
+
+- (3)
+
+- Súhrnnú účtovnú závierku verejnej správy zostavuje ministerstvo na základe konsolidovanej účtovnej závierky ústrednej správy podľa odseku 2, konsolidovaných účtovných závierok obcí a konsolidovaných účtovných závierok vyšších územných celkov. Ak obec alebo vyšší územný celok nie sú povinné zostaviť konsolidovanú účtovnú závierku podľa odseku 1, použije sa ako základ na zostavenie súhrnnej účtovnej závierky verejnej správy individuálna účtovná závierka obce alebo individuálna účtovná závierka vyššieho územného celku.
+
+- (4)
+
+- Konsolidované účtovné závierky účtovných jednotiek verejnej správy, konsolidovaná účtovná závierka ústrednej správy a súhrnná účtovná závierka verejnej správy sa zostavujú podľa metód a zásad konsolidácie ustanovených podľa § 4 ods. 2.
+
+- (5)
+
+- Konsolidované účtovné závierky účtovných jednotiek verejnej správy, konsolidovanú účtovnú závierku ústrednej správy a súhrnnú účtovnú závierku verejnej správy overuje audítor.“.
 
 - 32. Poznámka pod čiarou k odkazu 33 znie:
 
