@@ -26,6 +26,12 @@
 
 - Zákon Slovenskej národnej rady č. 323/1992 Zb.
 
+- 10a) § 116 ods. 2 a 3 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 517/2008 Z. z.
+
+- 10b) § 105 ods. 2 zákona č. 385/2000 Z. z.
+
 - 11) Napríklad Zákonník práce, zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
 - 12) Občiansky zákonník v znení neskorších predpisov.
+
+- 13) § 1 ods. 2 písm. c) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 70/2008 Z. z.
