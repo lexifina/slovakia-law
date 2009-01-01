@@ -1,24 +1,24 @@
 # § 37a Správne delikty
 
-(1) Obec uloží pokutu do 10 000 Sk zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý ohrozil jeho výchovu a vzdelávanie alebo zanedbal starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlásil na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechalo viac ako 60 vyučovacích hodín v príslušnom školskom roku.
+(1) Obec uloží pokutu do 331,50 eura zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý ohrozil jeho výchovu a vzdelávanie alebo zanedbal starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlásil na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechalo viac ako 60 vyučovacích hodín v príslušnom školskom roku.
 
-(2) Školský inšpektor uloží pokutu do 10 000 Sk zodpovednému zamestnancovi, ktorý
+(2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý
 
 - a) nevytvoril podmienky na výkon inšpekčnej činnosti,
 
 - b) neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
 
-(3) Hlavný školský inšpektor uloží pokutu do 20 000 Sk zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
+(3) Hlavný školský inšpektor uloží pokutu do 663,50 eura zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
 
 (4) Krajský školský úrad uloží pokutu
 
-- a) do 20 000 Sk
+- a) do 663,50 eura
 
   - 1. obci, ktorá nezabezpečila činnosti podľa § 6 ods. 3,
 
   - 2. samosprávnemu kraju, ktorý nezabezpečil činnosti podľa § 9 ods. 4,
 
-- b) do 50 000 Sk
+- b) do 1 659,50 eura
 
   - 1. obci, ktorá neplnila povinnosti podľa § 6 ods. 13,
 
@@ -28,9 +28,9 @@
 
 (5) Ministerstvo uloží pokutu
 
-- a) do 100 000 Sk zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom,
+- a) do 3 319,00 eur zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom,
 
-- b) do 1 000 000 Sk zriaďovateľovi, ktorý
+- b) do 33 193,50 eura zriaďovateľovi, ktorý
 
   - 1. zriadil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich zaradení do siete,
 
