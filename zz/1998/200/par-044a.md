@@ -16,19 +16,19 @@
 
 - b) označenie nehnuteľnosti, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a cenu jej obstarania,<sup>14a</sup>)
 
-- c) označenie hnuteľnej veci, ktorej hodnota presahuje 200 000 Sk, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a ocenenie tejto veci,
+- c) označenie hnuteľnej veci, ktorej hodnota presahuje 6 638,78 eura, právny dôvod jej nadobudnutia, dátum jej nadobudnutia a ocenenie tejto veci,
 
-- d) označenie majetkového práva alebo inej majetkovej hodnoty, ktorých hodnota presahuje 200 000 Sk, právny dôvod ich nadobudnutia, dátum ich nadobudnutia a ocenenie majetkového práva alebo inej majetkovej hodnoty,
+- d) označenie majetkového práva alebo inej majetkovej hodnoty, ktorých hodnota presahuje 6 638,78 eura, právny dôvod ich nadobudnutia, dátum ich nadobudnutia a ocenenie majetkového práva alebo inej majetkovej hodnoty,
 
-- e) označenie hnuteľných vecí, majetkových práv a iných majetkových hodnôt, aj keď ich hodnota jednotlivo nepresahuje 200 000 Sk, ak ich súhrnná hodnota presahuje 500 000 Sk,
+- e) označenie hnuteľných vecí, majetkových práv a iných majetkových hodnôt, aj keď ich hodnota jednotlivo nepresahuje 6 638,78 eura, ak ich súhrnná hodnota presahuje 16 596,96 eura,
 
-- f) údaj o príjme z vykonávania činností uvedených v § 44 ods. 7, ak tento príjem presahuje 50 000 Sk za kalendárny rok.
+- f) údaj o príjme z vykonávania činností uvedených v § 44 ods. 7, ak tento príjem presahuje 1 659,70 eura za kalendárny rok.
 
-(4) Za majetok podľa odseku 3 písm. b) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 3 písm. c) sa považujú aj peňažné prostriedky v hotovosti v slovenskej mene a v cudzej mene, vklady v bankách a v pobočkách zahraničných bánk v slovenskej mene a v cudzej mene a vklady v zahraničných bankách.
+(4) Za majetok podľa odseku 3 písm. b) sa považujú aj byty a nebytové priestory. Za majetok podľa odseku 3 písm. c) sa považujú aj peňažné prostriedky v hotovosti v eurách a v cudzej mene, vklady v bankách a v pobočkách zahraničných bánk v eurách a v cudzej mene a vklady v zahraničných bankách.
 
 (5) Cena obstarania pri odplatnom nadobudnutí majetku podľa odseku 3 písm. b) je dohodnutá kúpna cena, pri bezodplatnom nadobudnutí takého majetku cena podľa osobitného predpisu;<sup>14a</sup>) pri majetku podľa odseku 3 písm. b) obstaranom vlastnou výstavbou sú cenou obstarania výdavky na obstaranie takého majetku.
 
-(6) Majetok podľa odseku 3 písm. c) a d) sa na účely majetkového priznania ocení cenou obvyklou s výnimkou peňažných prostriedkov v hotovosti v slovenskej mene, vkladov v bankách a v pobočkách zahraničných bánk v slovenskej mene a vkladov v zahraničných bankách v slovenskej mene. Peňažné prostriedky v cudzej mene v hotovosti, vklady v bankách a v pobočkách zahraničných bánk v cudzej mene a vklady v zahraničných bankách v cudzej mene sa prepočítajú na slovenskú menu kurzom vyhláseným Národnou bankou Slovenska, platným k poslednému dňu kalendárneho mesiaca, ktorý predchádza mesiacu, v ktorom sa podáva majetkové priznanie. Cenou obvyklou sa na účely majetkového priznania rozumie cena, za ktorú sa v určitom čase a na určitom mieste taký majetok obvykle predáva.
+(6) Majetok podľa odseku 3 písm. c) a d) sa na účely majetkového priznania ocení cenou obvyklou s výnimkou peňažných prostriedkov v hotovosti v eurách, vkladov v bankách a v pobočkách zahraničných bánk v eurách a vkladov v zahraničných bankách v eurách. Peňažné prostriedky v cudzej mene v hotovosti, vklady v bankách a v pobočkách zahraničných bánk v cudzej mene a vklady v zahraničných bankách v cudzej mene sa prepočítajú na eurá referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska<sup>14ad</sup>) v deň predchádzajúci poslednému dňu kalendárneho mesiaca, ktorý predchádza mesiacu, v ktorom sa podáva majetkové priznanie. Cenou obvyklou sa na účely majetkového priznania rozumie cena, za ktorú sa v určitom čase a na určitom mieste taký majetok obvykle predáva.
 
 (7) Majetok v bezpodielovom spoluvlastníctve manželov sa na účely odseku 3 delí rovnakým dielom, ak osobitný predpis neustanovuje inak.<sup>14b</sup>)
 

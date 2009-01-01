@@ -8,7 +8,7 @@
 
 - c) fyzikálnych vplyvov.
 
-(2) Príplatok patrí colníkovi v závislosti od zaradenia sťažujúceho a zdraviu škodlivého vplyvu do skupín uvedených v prílohe č. 3. V I. skupine je príplatok 100 Sk až 800 Sk mesačne a v II. skupine je príplatok 300 Sk až 1 500 Sk mesačne. Príplatok podľa miery rizika, intenzity a doby pôsobenia sťažujúcich a zdraviu škodlivých vplyvov v priebehu výkonu činností určí nadriadený.
+(2) Príplatok patrí colníkovi v závislosti od zaradenia sťažujúceho a zdraviu škodlivého vplyvu do skupín uvedených v prílohe č. 3. V I. skupine je príplatok 3,50 eura až 27 eur mesačne a v II. skupine je príplatok 10 eur až 50 eur mesačne. Príplatok podľa miery rizika, intenzity a doby pôsobenia sťažujúcich a zdraviu škodlivých vplyvov v priebehu výkonu činností určí nadriadený.
 
 (3) Ak colník vykonáva rôzne činnosti podľa prílohy č. 3 zaradené do I. a II. skupiny, patrí mu príplatok najmenej vo výške spodnej hranice rozpätia pre II. skupinu.
 

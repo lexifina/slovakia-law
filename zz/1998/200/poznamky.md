@@ -60,6 +60,10 @@
 
 - 14c) § 115 Občianskeho zákonníka.
 
+- 14ad) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
+
 - 15) § 10 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 16) § 14 a 15 zákona Slovenskej národnej rady č. 372/1990 Zb.
@@ -85,6 +89,8 @@
 - 23) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
 - 23a) § 99 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23aa) § 1 ods. 2 písm. b) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 23b) § 18 až 32 zákona č. 283/2002 Z. z. v znení zákona č. 81/2005 Z. z.
 
