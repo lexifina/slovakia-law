@@ -60,6 +60,10 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 24. | Odborné poradenské služby pre uchádzačov a záujemcov o zamestnanie | vysokoškolské vzdelanie druhého stupňa | § 43 ods. 9 zákona č. 5/2004 Z. z. |
 
+- 24a | Poskytovanie sociálnych služieb | výpis z registra | § 65 ods. 3 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
+
+- 24b | Ďalšie vzdelávanie v oblasti sociálnych služieb | rozhodnutie o udelení akreditácie vzdelávacieho programu | § 87 ods. 1 zákona č. 448/2008 Z. z. |
+
 - 25. | Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti telesnej kultúry | potvrdenie o akreditácii | § 11 ods. 4 zákona č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 26. | Výkon špecializovaných činností v oblasti telesnej kultúry okrem horskej vodcovskej činnosti | doklad o odbornej spôsobilosti | § 2 ods. 1 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 257/1998 Z. z. o podmienkach získavania odbornej spôsobilosti na vykonávanie špecializovaných činností v oblasti telesnej kultúry v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 300/2000 Z. z. |
@@ -102,7 +106,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 44. | Reštaurovanie s výnimkou kultúrnych pamiatok a zbierkových predmetov, ktoré sú dielami výtvarného umenia (§ 3 ods. 1 písm. d) desiaty bod) | 1. stredoškolské vzdelanie reštaurátorského zamerania a tri roky praxe v odbore reštaurovania alebo2. úplné stredné vzdelanie príbuzného odboru a päť rokov praxe v odbore reštaurovania alebo3. vysokoškolské umelecké vzdelanie reštaurátorského zamerania alebo príbuzného odboru a jeden rok praxe v odbore reštaurovania | | I
 
-- 45. | Činnosť vodohospodára | 1. vysokoškolské vzdelanie 2. stupňa v odbore technických vied alebo prírodných vied a najmenej trojročná odborná prax alebo2. úplné stredné odborné vzdelanie technického smeru a najmenej šesťročná odborná prax, prípadne3. vysokoškolské vzdelanie 1. stupňa v odbore technických vied alebo prírodných vied a najmenej štvorročná odborná prax | § 70 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov Odborná prax je prax vodohospodárskeho smeru, chemickotechnologického smeru alebo iného príbuzného smeru |
+- 45. | Činnosť vodohospodára | 1. vysokoškolské vzdelanie 2. stupňa v odbore technických vied alebo prírodných vied a najmenej trojročná odborná prax alebo2. úplné stredné odborné vzdelanie technického smeru a najmenej šesťročná odborná prax, prípadne3. vysokoškolské vzdelanie 1. stupňa v odbore technických vied alebo prírodných vied a najmenej štvorročná odborná prax | § 70 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb.o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov Odborná prax je prax vodohospodárskeho smeru, chemickotechnologického smeru alebo iného príbuzného smeru |
 
 - 46. | Činnosť bezpečnostného poradcu | osvedčenie | § 20 ods. 9 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov § 29a ods. 5 a 6 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov § 5 ods. 4 zákona č. 338/2000 Z. z. |
 

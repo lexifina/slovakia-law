@@ -132,8 +132,6 @@
 
 - 23g) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 58/1997 Z. z.
 
-- 23h) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
 - 23ha) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
 - 23i) Zákon č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov v znení zákona č. 234/2000 Z. z.
