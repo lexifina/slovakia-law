@@ -28,7 +28,11 @@
 
 - 13) § 3a ods. 1 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 14) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
+- 14) § 54 zákona č. 131/2002 Z. z. o vysokých školách v znení neskorších predpisov.
+
+- Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+
+- Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 14a) § 2 ods. 2 písm. i) zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
