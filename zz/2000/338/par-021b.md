@@ -1,6 +1,6 @@
 # § 21b Účty vnútrozemskej vodnej dopravy
 
-(1) Ak nosnosť plavidiel zapísaných v registri plavidiel podľa § 24 dosiahne viac ako 100 000 ton, ministerstvo zriaďuje a spravuje osobitné bežné účty vnútrozemskej vodnej dopravy (ďalej len „účty“) podľa osobitného predpisu<sup>12c</sup>) v Štátnej pokladnici vedené v slovenskej mene.
+(1) Ak nosnosť plavidiel zapísaných v registri plavidiel podľa § 24 dosiahne viac ako 100 000 ton, ministerstvo zriaďuje a spravuje osobitné bežné účty vnútrozemskej vodnej dopravy (ďalej len „účty“) podľa osobitného predpisu<sup>12c</sup>) v Štátnej pokladnici vedené v eurách.
 
 (2) Na tvorbu a použitie účtov sa vzťahuje osobitný predpis.<sup>12c</sup>)
 
