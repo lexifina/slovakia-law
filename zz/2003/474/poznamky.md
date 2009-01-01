@@ -1,1 +1,0 @@
-- 1) Vyhláška Národnej banky Slovenska č. 123/1999 Z. z. o vydaní bankoviek po 5 000 Sk vzoru 1999 do obehu.
