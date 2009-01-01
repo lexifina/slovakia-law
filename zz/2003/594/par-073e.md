@@ -4,7 +4,7 @@
 
 - a) nadobúdanie nehnuteľností vrátane príslušenstva,
 
-- b) prenájom nehnuteľností s poskytovaním iných než základných služieb spojených s prenájmom,
+- b) správa nehnuteľností, prenájom nehnuteľností s poskytovaním základných a iných ako základných služieb spojených s prenájmom nehnuteľností, obstarávateľské služby spojené s prenájmom nehnuteľností, obstarávanie služieb spojených so správou, prevádzkou a údržbou nehnuteľností,
 
 - c) sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť),
 

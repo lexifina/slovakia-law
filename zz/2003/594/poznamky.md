@@ -2,13 +2,15 @@
 
 - 2) Obchodný zákonník.
 
-- 3) § 6 ods. 2 písm. d) zákona č. 566/2001 Z. z.
+- 3) § 6 ods. 1 písm. d) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 4) § 5 zákona č. 566/2001 Z. z.
 
-- 5) § 6 ods. 3 písm. e) zákona č. 566/2001 Z. z.
+- 5) § 6 ods. 1 písm. e) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 6) § 54 ods. 2 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 6a) § 54 ods. 3 písm. b) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 7) Napríklad zákon č. 566/2001 Z. z.
 
@@ -56,11 +58,15 @@
 
 - 25) § 8 písm. j) zákona č. 566/2001 Z. z.
 
-- 26) § 35 zákona č. 96/2002 Z. z.
+- 26) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 27) § 476 až 488 Obchodného zákonníka.
 
-- 28) § 66b Obchodného zákonníka.
+- 28) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 28a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 28b) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 29) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z.
 
@@ -74,9 +80,13 @@
 
 - 33) Zákon č. 431/2002 Z. z. o účtovníctve.
 
+- 33a) § 19 ods. 1 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
 - 34) § 75 zákona č. 566/2001 Z. z.
 
 - 34a) § 7 ods. 10 zákona č. 566/2001 Z. z.
+
+- 34aa) § 8 písm. s) zákona č. 566/2001 Z. z. v znení zákona č. 552/2008 Z. z.
 
 - 35) § 116 Občianskeho zákonníka.
 
@@ -87,8 +97,6 @@
 - § 43 zákona č. 95/2002 Z. z.
 
 - 37) Napríklad § 133 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 25 zákona č. 483/2001 Z. z. v znení zákona č. 510/2002 Z. z.
-
-- 38) § 74 ods.1 zákona č. 566/2001 Z. z.
 
 - 39) § 3 ods. 4 zákona č. 429/2002 Z. z.
 
@@ -138,8 +146,6 @@
 
 - 56e) Napríklad § 2 ods. 2 až 4 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, nariadenie Rady (ES) č. 1103/97 zo 17. júna 1997 o určitých ustanoveniach týkajúcich sa zavedenia eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení, nariadenie Rady (ES) č. 2866/98 z 31. decembra 1998 o výmenných kurzoch medzi eurom a menami členských štátov zavádzajúcich euro (Ú. v. ES L 359, 31. 12. 1998) v platnom znení, nariadenie Rady (ES) č. 974/98 z 3. mája 1998 o zavedení eura (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení.
 
-- 57) Zákon č. 367/2000 Z. z.
-
 - 58) § 105 zákona č. 566/2001 Z. z.
 
 - 59) Zákon č. 483/2001 Z. z.
@@ -150,7 +156,7 @@
 
 - 62) § 113 zákona č. 566/2001 Z. z.
 
-- 62a) § 6 ods. 2 písm. e) a písm. f) zákona č. 566/2001 Z. z.
+- 62a) § 6 ods. 1 písm. f) a g) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 63) § 100 ods. 2 zákona č. 566/2001 Z. z.
 
@@ -159,8 +165,6 @@
 - 64a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
 - 64b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
-
-- 65) § 6 ods. 2 písm. e) a f) zákona č. 566/2001 Z. z.
 
 - 66) § 54 zákona č. 566/2001 Z. z.
 
@@ -174,13 +178,11 @@
 
 - 70) § 44 až 52 Obchodného zákonníka.
 
-- 71) § 41 až 57 zákona č. 429/2002 Z. z.
+- 71) § 120 až 125h zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 72) § 130 zákona č. 566/2001 Z. z.
 
 - 72a) § 17 ods. 3 písm. c) zákona č. 431/2002 Z. z.
-
-- 73) § 77 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 74) Zákon č. 747/2004 Z. z.
 
@@ -230,7 +232,7 @@
 
 - 89) § 28 zákona č. 566/2001 Z. z.
 
-- 90) § 34 zákona č. 96/2002 Z. z.
+- 90) § 25 zákona č. 747/2004 Z. z.
 
 - 91) § 147 až 155 zákona č. 566/2001 Z. z.
 

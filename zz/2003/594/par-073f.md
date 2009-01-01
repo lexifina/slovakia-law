@@ -26,7 +26,7 @@
 
 - e) správcovská spoločnosť má pri znížení alebo zániku majetkovej účasti ktoréhokoľvek akcionára tejto realitnej spoločnosti zabezpečené prednostné právo na odkúpenie jeho majetkovej účasti do majetku v špeciálnom podielovom fonde nehnuteľností.
 
-(4) Podmienky uvedené v odseku 1 písm. c), e) a f) a v odseku 2 písm. e) musia byť splnené najneskôr do šiestich mesiacov od nadobudnutia majetkovej účasti v realitnej spoločnosti do majetku v špeciálnom podielovom fonde nehnuteľností. Ak nie sú tieto podmienky splnené do šiestich mesiacov od nadobudnutia majetkovej účasti v realitnej spoločnosti, musí správcovská spoločnosť predať túto majetkovú účasť v realitnej spoločnosti do šiestich mesiacov od uplynutia lehoty na splnenie týchto podmienok.
+(4) Podmienky uvedené v odseku 1 písm. c) a e) a v odseku 3 písm. b) a e) musia byť splnené najneskôr do šiestich mesiacov od nadobudnutia majetkovej účasti v realitnej spoločnosti do majetku v špeciálnom podielovom fonde nehnuteľností. Ak nie sú tieto podmienky splnené do šiestich mesiacov od nadobudnutia majetkovej účasti v realitnej spoločnosti, musí správcovská spoločnosť predať túto majetkovú účasť v realitnej spoločnosti do šiestich mesiacov od uplynutia lehoty na splnenie týchto podmienok.
 
 (5) Hodnota majetkovej účasti v majetku v špeciálnom podielovom fonde nehnuteľností v jednej realitnej spoločnosti môže tvoriť v dobe jej nadobudnutia najviac 30 % hodnoty majetku v špeciálnom podielovom fonde nehnuteľností.
 
