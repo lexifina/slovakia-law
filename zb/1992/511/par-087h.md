@@ -4,7 +4,7 @@
 
 (1) Na začiatku dražby správca dane oboznámi prítomných s nehnuteľnosťami, ich vyvolávacími cenami a poradím, v akom budú dražené. Oznámi, ktoré nehnuteľnosti nebudú dražené z dôvodu nezloženia dražobnej zábezpeky, či ide o prvú, opakovanú alebo opätovnú dražbu.
 
-(2) Po vyvolaní ceny sa prihlasujú dražitelia, ktorí zložili dražobnú zábezpeku na draženú vec, zdvihnutím dražobného čísla a oznámením sumy podania. Dražitelia môžu zvyšovať podanie najmenej o 1 000 Sk.
+(2) Po vyvolaní ceny sa prihlasujú dražitelia, ktorí zložili dražobnú zábezpeku na draženú vec, zdvihnutím dražobného čísla a oznámením sumy podania. Dražitelia môžu zvyšovať podanie najmenej o 33,19 eura.
 
 (3) Dražba pokračuje dovtedy, kým dražitelia zvyšujú podania. Ak nie je vyššie podanie, správca dane opakuje posledné podanie so slovami „po prvé“, „po druhé“ a s upozornením, že ak nebude ponúknuté vyššie podanie, po slovách „po tretie“ ukončí príklepom licitáciu draženej nehnuteľnosti.
 

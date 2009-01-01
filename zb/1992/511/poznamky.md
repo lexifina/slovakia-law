@@ -162,6 +162,8 @@
 
 - 11aea) § 69 ods. 5 zákona č. 222/2004 Z. z.
 
+- 11aeb) § 38 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 11af) Napríklad zákon č. 595/2003 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 104/2004 Z. z. v znení neskorších predpisov, zákon č. 105/2004 Z. z. v znení neskorších predpisov.
 
 - 11ag) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.

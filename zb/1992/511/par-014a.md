@@ -12,7 +12,7 @@
 
 (6) Prepadnutý tovar, vec a dopravný prostriedok sa ocenia cenou bežne používanou v mieste a v čase ocenenia prepadnutého tovaru, veci a dopravného prostriedku.
 
-(7) Správca dane je oprávnený prepadnutý tovar, veci a dopravný prostriedok predať v dražbe<sup>6c</sup>). Ak je prepadnutý tovar alebo vec nepatrnej hodnoty, správca dane je oprávnený takýto tovar alebo vec predať v komisionálnom predaji; hodnota tovaru a veci nepatrnej hodnoty nesmie byť vyššia ako 5 000 Sk.
+(7) Správca dane je oprávnený prepadnutý tovar, veci a dopravný prostriedok predať v dražbe<sup>6c</sup>). Ak je prepadnutý tovar alebo vec nepatrnej hodnoty, správca dane je oprávnený takýto tovar alebo vec predať v komisionálnom predaji; hodnota tovaru a veci nepatrnej hodnoty nesmie byť vyššia ako 165,97 eura.
 
 (8) Zabezpečený tovar a veci rýchlo podliehajúce skaze alebo živé zvieratá môže správca dane predať ihneď.
 
