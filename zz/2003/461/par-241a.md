@@ -10,6 +10,8 @@
 
 - a) za obdobie odo dňa, v ktorom bola zmluva o starobnom dôchodkovom sporení zapísaná do registra zmlúv o starobnom dôchodkovom sporení podľa osobitného predpisu<sup>1</sup>) do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola zmluva o starobnom dôchodkovom sporení zapísaná do tohto registra,
 
-- b) za obdobie odo dňa vzniku prvej účasti na starobnom dôchodkovom sporení podľa osobitného predpisu<sup>1</sup>) do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola zmluva o starobnom dôchodkovom sporení zapísaná do registra zmlúv o starobnom dôchodkovom sporení podľa osobitného predpisu<sup>1</sup>) alebo do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom Sociálna poisťovňa určila fyzickej osobe dôchodkovú správcovskú spoločnosť,
+- b) za obdobie odo dňa vzniku prvej účasti na starobnom dôchodkovom sporení podľa osobitného predpisu<sup>1</sup>) do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola zmluva o starobnom dôchodkovom sporení zapísaná do registra zmlúv o starobnom dôchodkovom sporení podľa osobitného predpisu,<sup>1</sup>)
 
-- c) za obdobie, za ktoré nepostúpila príspevky na starobné dôchodkové sporenie alebo tieto príspevky postúpila v nižšej sume z dôvodu, že zamestnávateľ nesplnil povinnosť ustanovenú v § 231 ods. 1 písm. f).
+- c) za obdobie, za ktoré nepostúpila príspevky na starobné dôchodkové sporenie alebo tieto príspevky postúpila v nižšej sume z dôvodu, že zamestnávateľ nesplnil povinnosť ustanovenú v § 231 ods. 1 písm. f),
+
+- d) za obdobie odo dňa, v ktorom vznikol sporiteľovi nárok na materské, do dňa, v ktorom sporiteľ splní oznamovaciu povinnosť podľa osobitného predpisu.<sup>102a</sup>)

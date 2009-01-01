@@ -82,7 +82,9 @@
 
 - 34) § 7 ods. 1 až 3, 5 a 6 zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
 
-- 35) § 64a zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 35) § 19 ods. 1 písm. n) a § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 35a) § 20 zákona č. 447/2008 Z. z.
 
 - 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -210,8 +212,6 @@
 
 - 93) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 94) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
 - 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
@@ -240,6 +240,8 @@
 
 - 102) Občiansky súdny poriadok.
 
+- 102a) § 64 ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 449/2008 Z. z.
+
 - 104) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 105) Napríklad § 8 ods. 1 Trestného poriadku, zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
@@ -247,8 +249,6 @@
 - 106) Zákon č. 241/2001 Z. z. v znení zákona č. 418/2002 Z. z.
 
 - 106a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
-
-- 106b) § 64 ods. 4 zákona č. 43/2004 Z. z.
 
 - 106c) § 64a a 64b zákona č. 43/2004 Z. z.
 
