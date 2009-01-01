@@ -1,1 +1,0 @@
-Vladimír Masár v. r.
