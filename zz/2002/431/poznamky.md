@@ -60,6 +60,8 @@
 
 - 24a) § 18 zákona č. 540/2007 Z. z.
 
+- 24aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
 - 25) Napríklad § 40 zákona č. 483/2001 Z. z., § 35 ods. 4 zákona č. 34/2002 Z. z.
 
 - 26) § 50 zákona č. 595/2003 Z. z.
@@ -91,6 +93,12 @@
 - 32) Zákon č. 429/2002 Z. z. o burze cenných papierov.
 
 - 33) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
+
+- 33a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
+
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 34) Napríklad zákon č. 483/2001 Z. z., zákon č. 566/2001 Z. z.
 

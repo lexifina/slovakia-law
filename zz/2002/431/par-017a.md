@@ -4,9 +4,9 @@
 
 (2) Podľa odseku 1 postupuje aj účtovná jednotka neuvedená v odseku 1, ak je obchodnou spoločnosťou, ktorá najmenej dve po sebe idúce účtovné obdobia spĺňa aspoň dve z týchto podmienok:
 
-- a) celková suma majetku presiahla 5 000 000 000 Sk, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
+- a) celková suma majetku presiahla 165 969 594,40 eura, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
 
-- b) čistý obrat presiahol 5 000 000 000 Sk,
+- b) čistý obrat presiahol 165 969 594,40 eura,
 
 - c) priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
 
