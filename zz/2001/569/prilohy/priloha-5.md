@@ -1,16 +1,16 @@
 Príloha č. 5 k nariadeniu vlády č. 569/2001 Z. z.
 
-- TYPOVÁ SKÚŠKA
+- ES SKÚŠKA TYPU
 
-  - 1. Typová skúška je časťou postupu, pri ktorom autorizovaná osoba zisťuje a osvedčuje, že reprezentatívna vzorka pripravovanej (zamýšľanej) výroby spĺňa príslušné ustanovenia nariadenia.
+  - 1. ES skúška typu je časťou postupu, pri ktorom notifikovaná osoba zisťuje a osvedčuje, že reprezentatívna vzorka pripravovanej (zamýšľanej) výroby spĺňa príslušné ustanovenia nariadenia.
 
-  - 2. Žiadosť o typovú skúšku, ktorú podáva výrobca alebo jeho splnomocnenec autorizovanej osobe, obsahuje
+  - 2. Žiadosť o ES skúšku typu, ktorú podáva výrobca alebo jeho splnomocnenec notifikovanej osobe, obsahuje
 
     - a) meno a adresu výrobcu, a ak je žiadosť podávaná prostredníctvom splnomocnenca, aj jeho meno a adresu,
 
-    - b) dokumentáciu uvedenú v bode 3, potrebnú na posúdenie zhody s požiadavkami tohto nariadenia, reprezentatívnu vzorku predmetnej výroby (ďalej len „typ“); žiadateľ dáva typ k dispozícii autorizovanej osobe, ktorá môže požadovať podľa potreby ďalšie vzorky,
+    - b) dokumentáciu uvedenú v bode 3, potrebnú na posúdenie zhody s požiadavkami tohto nariadenia, reprezentatívnu vzorku predmetnej výroby (ďalej len „typ“); žiadateľ dáva typ k dispozícii notifikovanej osobe, ktorá môže požadovať podľa potreby ďalšie vzorky,
 
-    - c) písomné vyhlásenie o tom, že žiadateľ nepredložil rovnakú žiadosť na ten istý typ inej autorizovanej osobe.
+    - c) písomné vyhlásenie o tom, že žiadateľ nepredložil rovnakú žiadosť na ten istý typ inej notifikovanej osobe.
 
   - 3. Dokumentácia musí umožniť pochopenie navrhovania, výroby a funkčnosti výrobku a musí obsahovať
 
@@ -20,7 +20,7 @@ Príloha č. 5 k nariadeniu vlády č. 569/2001 Z. z.
 
     - c) v prípade pomôcok určených na samodiagnostiku informácie uvedené v prílohe č. 3 bode 6.1.
 
-  - 4. Autorizovaná osoba
+  - 4. Notifikovaná osoba
 
   - 4.1 Skúma a posudzuje dokumentáciu a overuje, či typ pomôcky sa vyrobil v zhode s touto dokumentáciou, vypracúva zoznam prvkov navrhnutých v súlade s aplikovateľnými ustanoveniami noriem uvedených v § 3 a zoznam prvkov, ktorých návrh sa neopiera o príslušné ustanovenia uvedených noriem.
 
@@ -30,10 +30,10 @@ Príloha č. 5 k nariadeniu vlády č. 569/2001 Z. z.
 
   - 4.4 Dohodne so žiadateľom miesto, na ktorom sa vykonajú potrebné preskúmania a skúšky.
 
-  - 5. Keď typ vyhovuje ustanoveniam nariadenia, autorizovaná osoba vydá žiadateľovi osvedčenie o typovej skúške. Osvedčenie obsahuje meno a adresu výrobcu, závery preskúmania, podmienky platnosti a údaje potrebné na identifikáciu schváleného typu. Náležité časti dokumentácie sa pripájajú k osvedčeniu a jednu kópiu si uchováva autorizovaná osoba.
+  - 5. Keď typ vyhovuje ustanoveniam nariadenia, notifikovaná osoba vydá žiadateľovi osvedčenie o ES skúške typu. Osvedčenie obsahuje meno a adresu výrobcu, závery preskúmania, podmienky platnosti a údaje potrebné na identifikáciu schváleného typu. Náležité časti dokumentácie sa pripájajú k osvedčeniu a jednu kópiu si uchováva notifikovaná osoba.
 
-  - 6. Ak výrobca získa informácie o zmenách patogénneho agensa a markérov vyhľadávanej infekcie, bez meškania o tom informuje autorizovanú osobu, najmä z hľadiska komplexnosti a biologickej premenlivosti. Výrobca oznámi autorizovanej osobe, či táto zmena môže mať vplyv na výkon príslušnej pomôcky in vitro.
+  - 6. Ak výrobca získa informácie o zmenách patogénneho agensa a markérov vyhľadávanej infekcie, bez meškania o tom informuje notifikovanú osobu, najmä z hľadiska biologickej komplexnosti a premenlivosti. Výrobca oznámi notifikovanej osobe, či táto zmena môže mať vplyv na výkon príslušnej pomôcky in vitro.
 
-  - 6.1 Zmeny schváleného výrobku dodatočne schváli autorizovaná osoba, ktorá vydala osvedčenie o typovej skúške, ak tieto zmeny môžu vyvolať pochybnosti o zhode s technickými požiadavkami tohto nariadenia alebo s predpísanými podmienkami použitia pomôcky. Žiadateľ informuje autorizovanú osobu, ktorá vydala osvedčenie o typovej skúške, o všetkých zmenách tohto druhu schválenej pomôcky. Toto nové schválenie má formu dodatku k pôvodnému osvedčeniu o typovej skúške.
+  - 6.1 Zmeny schváleného výrobku dodatočne schváli notifikovaná osoba, ktorá vydala osvedčenie o ES skúške typu, ak tieto zmeny môžu vyvolať pochybnosti o zhode s technickými požiadavkami tohto nariadenia alebo s predpísanými podmienkami použitia pomôcky. Žiadateľ informuje notifikovanú osobu, ktorá vydala osvedčenie o ES skúške typu, o všetkých zmenách tohto druhu schválenej pomôcky. Toto nové schválenie má formu dodatku k pôvodnému osvedčeniu o ES skúške typu.
 
-  - 7. Ostatné autorizované osoby môžu dostať kópiu osvedčení o typovej skúške alebo ich dodatkov. Prílohy k osvedčeniam sú k dispozícii iným autorizovaným osobám na základe ich odôvodnenej žiadosti a po predchádzajúcom informovaní výrobcu.
+  - 7. Ostatné notifikované osoby môžu dostať kópiu osvedčení o ES skúške typu alebo ich dodatkov. Prílohy k osvedčeniam sú k dispozícii iným notifikovaným osobám na základe ich odôvodnenej žiadosti a po predchádzajúcom informovaní výrobcu.

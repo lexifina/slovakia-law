@@ -14,6 +14,6 @@ Príloha č. 8 k nariadeniu vlády č. 569/2001 Z. z.
 
     - e) vyhlásenie potvrdzujúce, že pomôcka spĺňa požiadavky nariadenia vlády nezávisle od aspektov pokrytých hodnotením a aspektov osobitne uvedených vo vyhlásení a že všetky upozornenia na opatrnosť boli prijaté na ochranu zdravia a bezpečnosti pacienta, používateľa a iných osôb.
 
-  - 2. Výrobca sa zaväzuje dať k dispozícii autorizovanej osobe dokumentáciu umožňujúcu pochopiť návrh, výrobu a funkčnosť výrobku vrátane očakávaných výkonov, aby sa umožnilo posudzovanie zhody s požiadavkami tohto nariadenia. Táto dokumentácia sa uchováva päť rokov od skončenia hodnotenia výkonu. Výrobca prijme všetky potrebné opatrenia, aby výrobné postupy zaručovali zhodu vyrobených výrobkov s dokumentáciou uvedenou v bode 1.
+  - 2. Výrobca sa zaväzuje dať k dispozícii notifikovanej osobe dokumentáciu umožňujúcu pochopiť návrh, výrobu a funkčnosť výrobku vrátane očakávaných výkonov, aby sa umožnilo posudzovanie zhody s požiadavkami tohto nariadenia. Táto dokumentácia sa uchováva päť rokov od skončenia hodnotenia výkonu. Výrobca prijme všetky potrebné opatrenia, aby výrobné postupy zaručovali zhodu vyrobených výrobkov s dokumentáciou uvedenou v bode 1.
 
   - 3. Pri pomôckach určených na hodnotenie funkčnosti sa použijú ustanovenia § 5 ods. 1.
