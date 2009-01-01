@@ -2,11 +2,11 @@ Príloha č. 9 k vyhláške č. 285/2007 Z. z.
 
 - VZOR Výkaz o sprotredkovaní poistenia
 
-- [Vzor 09](../assets/06135ce031113c3e77804bdf5cef0d16965fe6a15208e3e785c076771e0d1d88.pdf)
+- [Vzor 09](../assets/1976c4b2c68bf8923e71f07fcf92dfa1e04c6dab42498114c8f0b02d24cbbee6.pdf)
 
 - Vysvetlivky k Výkazu Psp (VSP) 40-01
 
-- Výkaz sa vypĺňa v tisícoch Sk, prípadne v kusoch podľa kontextu, za činnosť vykonávanú tak na území Slovenskej republiky, ako aj na území iných členských štátov, a to spolu.
+- Výkaz sa vypĺňa v tisícoch eur, prípadne v kusoch podľa kontextu, za činnosť vykonávanú tak na území Slovenskej republiky, ako aj na území iných členských štátov, a to spolu.
 
 - Polia označené znakom „x“ sa nevypĺňajú.
 

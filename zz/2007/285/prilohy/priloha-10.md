@@ -4,11 +4,11 @@ Príloha č. 10 k vyhláške č. 285/2007 Z. z.
 
   - Výkaz o sprostredkovaní zaistenia
 
-- [Vzor 10](../assets/f5f9951510c81fd37b3685055b971016d83e0fb7237d1c89f87d33ae1eac9972.pdf)
+- [Vzor 10](../assets/013c406a4bbc78dd43301ea5cb6a18be3d40e85efd0639d0050408c6afabe641.pdf)
 
   - Vysvetlivky k Výkazu Psp (VSZ) 41-01
 
-  - Výkaz sa vypĺňa v tisícoch Sk, prípadne v kusoch podľa kontextu, za činnosť vykonávanú na území Slovenskej republiky, ako aj na území iných členských štátov, a to spolu.
+  - Výkaz sa vypĺňa v tisícoch eur, prípadne v kusoch podľa kontextu, za činnosť vykonávanú na území Slovenskej republiky, ako aj na území iných členských štátov, a to spolu.
 
   - Polia označené znakom „x“ sa nevypĺňajú.
 
