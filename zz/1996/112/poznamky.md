@@ -1,1 +1,0 @@
-- 1) Vyhláška Národnej banky Slovenska č. 137/1993 Z. z. o vydaní mincí po 50 halieroch vzoru 1993.
