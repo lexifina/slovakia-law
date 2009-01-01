@@ -10,7 +10,7 @@
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
-- 7) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z.
+- 7) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. v znení neskorších predpisov.
 
