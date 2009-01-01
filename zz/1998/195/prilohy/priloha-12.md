@@ -1,1 +1,0 @@
-[Prehľad](../assets/e367ada8474cb969124cf5045657cb40ccd508fb9e4d57961949bc48319711cc.pdf)
