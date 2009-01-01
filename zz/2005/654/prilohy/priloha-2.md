@@ -8,27 +8,27 @@ Príloha č. 2 k výnosu č. 654/2005 Z. z.
 
     - A. vlakmi na dopravu osôb
 
-    - | Maximálna cena v Sk bez dane z pridanej hodnoty | |
+    - | Maximálna cena v eurách bez dane z pridanej hodnoty | |
 
-    - Kategória trate | za vlkm (C<sub>z</sub>) | za tisíc hrtkm (C<sub>d</sub>) | za vlak (C<sub>p</sub>)
+    - Kategória trate | za vlkm (C<sub>z</sub>) | za tis. hrtkm (C<sub>d</sub>) | za vlak (C<sub>p</sub>)
 
-    - 1. | 48,74 | 22,69 | 178,15
+    - 1. | 1,6179 | 0,7532 | 5,9135
 
-    - 2. | 47,90 | 20,17 | 178,15
+    - 2. | 1,5900 | 0,6695 | 5,9135
 
-    - 3. | 42,86 | 17,65 | 178,15
+    - 3. | 1,4227 | 0,5859 | 5,9135
 
     - B. vlakmi na dopravu nákladov
 
-    - | Maximálna cena v Sk bez dane z pridanej hodnoty | |
+    - | Maximálna cena v eurách bez dane z pridanej hodnoty | |
 
-    - Kategória trate | za vlkm (C<sub>z</sub>) | za tisíc hrtkm (C<sub>d</sub>) | za vlak (C<sub>p</sub>)
+    - Kategória trate | za vlkm (C<sub>z</sub>) | za tis. hrtkm (C<sub>d</sub>) | za vlak (C<sub>p</sub>)
 
-    - 1. | 286,55 | 23,53 | 1428,57
+    - 1. | 9,5117 | 0,7811 | 47,4198
 
-    - 2. | 285,71 | 21,85 | 1428,57
+    - 2. | 9,4838 | 0,7253 | 47,4198
 
-    - 3. | 196,64 | 18,49 | 1428,57
+    - 3. | 6,5273 | 0,6138 | 47,4198
 
       - Maximálna cena za použitie železničnej dopravnej cesty vo vnútroštátnej doprave vlakmi na dopravu osôb alebo vlakmi na dopravu nákladov sa vypočítava podľa tohto vzorca:
 
@@ -36,11 +36,11 @@ Príloha č. 2 k výnosu č. 654/2005 Z. z.
 
     - C. samostatnými hnacími dráhovými vozidlami všetkých typov, ktorých pohyb po dráhe súvisí
 
-    - | Maximálna cena v Sk bez dane z pridanej hodnoty za vlkm pre všetky kategórie tratí (C<sub>s</sub>)
+    - | Maximálna cena v eurách bez dane z pridanej hodnoty za vlkm pre všetky kategórie tratí (C<sub>s</sub>)
 
-    - 1. s vlakmi na dopravu osôb | 48,74
+    - 1. s vlakmi na dopravu osôb | 1,6179
 
-    - 2. s vlakmi na dopravu nákladov | 126,05
+    - 2. s vlakmi na dopravu nákladov | 4,1841
 
       - Maximálna cena za použitie železničnej dopravnej cesty vo vnútroštátnej doprave pre samostatné hnacie dráhové vozidlá všetkých typov sa pre všetky kategórie tratí vypočítava podľa tohto vzorca:
 
