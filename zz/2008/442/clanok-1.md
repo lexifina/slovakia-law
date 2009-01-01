@@ -28,6 +28,14 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 
 - Doterajší odsek 7 sa označuje ako odsek 8.
 
+- 29. V § 113 ods. 2 sa vypúšťa posledná veta.
+
+- 30. V § 113 odsek 3 znie:
+
+- „(3)
+
+- Úrad vydáva vestník v elektronickej podobe.“.
+
 - 31. V § 136 ods. 1 sa vypúšťa písmeno g).
 
 - 32. V § 136 ods. 3 sa vypúšťa písmeno g).
