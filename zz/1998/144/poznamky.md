@@ -38,7 +38,7 @@
 
 - 21) Zákon č. 229/1992 Zb. o komoditných burzách v znení neskorších predpisov.
 
-- 22) § 4 až 12 zákona č. 18/1996 Z. z. o cenách.
+- 22) § 4 až 12 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 23) Čl. I. § 13 ods. 2 zákona č. 191/1950 Zb.
 
