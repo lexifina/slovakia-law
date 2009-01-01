@@ -1,0 +1,15 @@
+Príloha č. 8 k nariadeniu vlády č. 630/2008 Z. z.
+
+- Klasifikácia žiakov so zdravotným znevýhodnením a všeobecným intelektovým nadaním v špeciálnych základných školách, v špeciálnych triedach základných škôl a v bežných triedach základných škôl pre výpočet koeficientu personálnej náročnosti skupina | koetirient pre špeciálne základné školy | Koeficient pre špeciálne triedy v základných školách a pre individuálne začlenených žiakov v triedach základných škôl | Zaradenie žiaka do skupiny podľa zdravotného znevýhodnenia a všeobecnéhointelektového nadania
+
+- 1. | 1,000 | 1,36 | žiak so všeobecným intelektovým nadaním (§ 103 ods. 1 písm. a) prvý bod zákona č. 245/2008 Z. z.), žiak s vývinovou poruchou učenia (§ 94 ods. 2 písm. i) zákona č. 245/2008 Z. z.),
+
+- 2. | 1,236 | 1,75 | žiak s mentálnym postihnutím vzdelávaný podľa variantu A (§ 94 ods. 2 písm. a) a § 97 ods. 5 písm. a) zákona č. 245/2008 Z. z.), žiak s mentálnym postihnutím vzdelávaný podľa variantu B (§ 94 ods. 2 písm. a) a § 97 ods. 5 písm. b) zákona č. 245/2008 Z. z.), žiak s poruchou správania (§ 128 ods. 1 zákona č. 245/2008 Z. z.), žiak s poruchou aktivity a pozomosti (§ 2 písm. n) zákona č. 245/2008 Z. z.),
+
+- 3. | 1,500 | 2,06 | žiak s narušenou komunikačnou schopnosťou (§ 94 ods. 2 písm. e) zákona č. 245/2008 Z. z.), žiak telesným postihnutím (§ 94 ods. 2 písm. d) zákona č. 245/2008 Z. z.), slabozraký žiak, žiak so zvyškami zraku a žiak s poruchou binokulárneho videnia (§ 3 ods. 2 písm. a), b) a d) vyhlášky č. 322/2008 Z. z.),
+
+- 4. | 1,300 | 2,47 | žiak so sluchovým postihnutím (§ 94 ods. 2 písm b) zákona č. 245/2008 Z. z.), nevidiaci žiak (§ 3 ods. 2 písm. c) vyhlášky č. 322/2008 Z. z.), nehovoriaci žiak s mentálnym postihnutím (§ 3 ods. 3 písm. a) a ods. 5 vyhlášky č. 322/2008 Z. z.), žiak s poruchou reči s mentálnym postihnutím (§ 3 ods. 3 písm. b) a ods. 5 vyhlášky č. 322/2008 Z. z.), telesne postihnutý žiak s mentálnym postihnutím (§ 3 ods. 5 vyhlášky č. 322/2008 Z. z.),
+
+- 5. | 2,250 | 3,09 | žiak so zvyškami zraku s mentálnym postihnutím (§ 3 ods. 2 písm b) a ods. 5 vyhlášky č. 322/2008 Z. z.), sluchovo postihnutý žiak s mentálnym postihnutím (§ 3 ods. 5 vyhlášky č. 322/2008 Z. z.), nevidiaci žiak s mentálnym postihnutím (§ 3 ods. 2 písm. c) a ods. 5 vyhlášky č. 322/2008 Z. z.), žiak s autizmom alebo ďalšími pervazívnymi vývinovými poruchami bez mentálneho postihnutia (§ 94 ods. 2 písm. f) zákona č. 245/2008 Z. z.),
+
+- 6. | 4,500 | 6,18 | žiak s ťažkým stupňom alebo hlbokým stupňom mentálneho postihnutia a žiak s viacnásobným postihnutím vkombinácii s ťažkým stupňom alebo hlbokým stupňom mentálneho postihnutia - variant C vzdelávaný podľa individuálneho vzdelávacieho programu (§ 97 ods. 5 písm. c) zákona č. 245/2008 Z. z.), žiak s autizmom alebo ďalšími pervazívnymi vývinovými poruchami s mentálnym postihnutím (§ 94 ods. 2 písm f) zákona č. 245/2008 Z. z.), hluchoslepý žiak (§ 94 ods. 2 písm h) zákona č. 245/2008 Z. z.), nechodiaci žiak s telesným postihnutím (5 ods. 2 písm d) tretí a štvrtý bod vyhlášky č. 322/2008 Z. z.).
