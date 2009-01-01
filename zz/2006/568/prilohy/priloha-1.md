@@ -1,3 +1,3 @@
 Príloha č. 1 k vyhláške č. 568/2006 Z. z.
 
-- VZOR Informácie o majetku v doplnkovom dôchodkovom fonde [Vzor 01](../assets/f8939234a831a6d978adf6011dfb5726a082f5d1a7362843a28243fd3acdc303.pdf)
+- VZOR Informácie o majetku v doplnkovom dôchodkovom fonde [Vzor 01](../assets/85553833ddd1d0492aef4ee1eb9659757a5b005e855267684906af1e22bcab63.pdf)
