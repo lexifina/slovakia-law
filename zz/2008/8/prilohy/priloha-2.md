@@ -31,3 +31,5 @@ Príloha č. 2 k zákonu č. 8/2008 Z. z.
   - 14. Smernica Rady 2004/113/ES z 13. decembra 2004 o vykonávaní zásady rovnakého zaobchádzania medzi mužmi a ženami v prístupe k tovaru a službám a k ich poskytovaniu (Ú. v. EÚ L 373, 21. 12. 2004).
 
   - 15. Smernica Európskeho parlamentu a Rady 2005/68/ES zo 16. novembra 2005 o zaistení, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 92/49/EHS, ako aj smernice 98/78/ES a 2002/83/ES (Ú. v. EÚ L 323, 9. 12. 2005).
+
+  - 16. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).

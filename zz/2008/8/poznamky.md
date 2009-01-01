@@ -38,6 +38,8 @@
 
 - 18) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 18a) § 41 a 42 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
+
 - 19) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 20) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
@@ -96,6 +98,12 @@
 
 - 43) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 43a) § 19 ods. 1 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 43b) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 43c) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
+
 - 44) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, v znení neskorších predpisov.
 
 - 45) § 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
@@ -116,6 +124,8 @@
 
 - 53) § 2 písm. c) zákona č. 340/2005 Z. z.
 
+- 53a) § 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 54) § 5 písm. p) zákona č. 483/2001 Z. z. v znení zákona č. 644/2006 Z. z.
 
 - 55) § 6 ods. 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
@@ -124,7 +134,7 @@
 
 - 57) § 35 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 58) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+- 58) Napríklad zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 297/2008 Z. z.
 
 - 59) Zákon č. 381/2001 Z. z. v znení neskorších predpisov.
 
@@ -151,5 +161,7 @@
 - 70) § 68 ods. 7 Obchodného zákonníka v znení neskorších predpisov.
 
 - 71) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
+
+- 71a) § 41 ods. 8 zákona č. 594/2003 Z. z.
 
 - 72) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
