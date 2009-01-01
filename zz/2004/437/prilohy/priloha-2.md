@@ -1,3 +1,3 @@
 Príloha č. 2 k zákonu č. 437/2004 Z. z.
 
-[Vzor lekárskeho posudku](../assets/30b50aa38d62b9bc279684fc5cd0118e9926180b66b826ec69283223daf9d159.pdf)
+[Vzor lekárskeho posudku](../assets/37c8237ed98b4f83c100d8f1db313a737e8143847b3149a554eec74f57b51e87.pdf)
