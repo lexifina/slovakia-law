@@ -1,0 +1,5 @@
+# § 85e Prepočet základného imania
+
+(1) Pri premene menovitej hodnoty základného imania zo slovenských korún na eurá sa vzniknutý rozdiel medzi menovitou hodnotou základného imania alebo kmeňového imania<sup>43)</sup> ako začiatočného stavu účtu 411 – Základné imanie v eurách a menovitou hodnotou základného imania alebo kmeňového imania zapísaného do obchodného registra v eurách, v deň zápisu menovitej hodnoty základného imania alebo kmeňového imania do obchodného registra v eurách, účtuje v súlade s osobitným predpisom<sup>44)</sup>. Pri zaokrúhľovaní smerom nahor sa vzniknutý rozdiel účtuje na ťarchu príslušného účtu vlastného imania so súvzťažným zápisom v prospech účtu 411 – Základné imanie. Pri zaokrúhľovaní smerom nadol sa vzniknutý rozdiel účtuje na ťarchu účtu 411 – Základné imania a so súvzťažným zápisom v prospech účtu 417 – Zákonný rezervný fond alebo 418 – Nedeliteľný fond.
+
+- 2) Rozdiel vzniknutý z dôvodu odchýlenia sa od podmienok zaokrúhľovania podľa osobitného predpisu<sup>45)</sup>, sa účtuje ako zvýšenie alebo zníženie základného imania.

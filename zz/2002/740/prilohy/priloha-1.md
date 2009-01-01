@@ -610,6 +610,8 @@
 
 - 710 – Účet ziskov a strát
 
+- 711 – Začiatočný účet nákladov a výnosov
+
 - 75 až 79 – Podsúvahové účty
 
 - Účtové triedy 8 a 9 – Vnútroorganizačné účtovníctvo
