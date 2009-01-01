@@ -12,6 +12,6 @@
 
 - d) fotokópiu dokladu preukazujúceho totožnosť.
 
-(3) Ministerstvo zdravotníctva rozhodne o uznaní certifikátu do štyroch mesiacov odo dňa podania žiadosti podľa odseku 2.
+(3) Ministerstvo zdravotníctva rozhodne o uznaní certifikátu do štyroch mesiacov odo dňa doručenia kompletnej žiadosti podľa odseku 2.
 
 (4) Ak má ministerstvo zdravotníctva pochybnosti o pravosti predloženého certifikátu, požiada príslušný orgán dotknutého štátu o potvrdenie pravosti dokladu.

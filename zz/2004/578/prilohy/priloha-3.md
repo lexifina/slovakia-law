@@ -754,7 +754,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 12. 10 | Holandsko / Nederland | Pathologie | |
 
-  - 12. 11 | Írsko / Ireland | Morbid anatomy and histopathology | |
+  - 12. 11 | Írsko / Ireland | Histopathology | |
 
   - 12. 12 | Litva / Lietuva | Patologija | |
 
@@ -1050,7 +1050,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 17. 08 | Francúzsko / France | Biologie médicale | |
 
-  - 17. 09 | Grécko / Ελλάς | Χειρουργική Θώρακος | |
+  - 17. 09 | Grécko / Ελλάς | - | |
 
   - 17. 10 | Holandsko / Nederland | - | |
 
@@ -1110,7 +1110,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18. 08 | Francúzsko / France | - | |
 
-  - 18. 09 | Grécko / Ελλάς | 1. Iατρική Βιoπαθoλoγία 2. Μικρoβιoλoγία | |
+  - 18. 09 | Grécko / Ελλάς | – Iατрιқή βιoπαӨoλoγíα – Mιқрoβιoλoγíα | |
 
   - 18. 10 | Holandsko / Nederland | Medische microbiologie | |
 
@@ -1382,7 +1382,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22. 24 | Švédsko / Sverige | Thoraxkirurgi | |
 
-  - 22. 25 | Taliansko / Italia | Chirurgia toracica; Cardiochirurgia | |
+  - 22. 25 | Taliansko / Italia | – Chirurgia toracica – Cardiochirurgia | |
 
   - 22. 26 | Veľká Británia a Severné Írsko / United Kingdom | Cardo-thoracic surgery | |
 
@@ -1574,7 +1574,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Cardiologie Kardiologie Cardiologia | |
 
-  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie / Gastroenterologie | 4 roky | gastroenterológia
+  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie/Gastro-enterologie | 4 roky | gastroenterológia
 
   - 26. 02 | Bulharsko / България | Гастроентерология | |
 
@@ -1850,7 +1850,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 18 | Poľsko / Polska | Rehabilitacja medyczna | |
 
-  - 30. 19 | Portugalsko / Portugal | Fisiatria ou Medicina física e de reabilitação | |
+  - 30. 19 | Portugalsko / Portugal | – Fisiatria – Medicina física e de reabilitaçăo | |
 
   - 30. 20 | Rakúsko / Österreich | Physikalische Medizin | |
 
@@ -2298,7 +2298,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 38. 02 | Bulharsko / България | Социална медицина и здравен мениджмънт комунална хигиена | |
 
-  - 38. 03 | Cyprus / Κύπρος | Υγειονολογία/Κοινοτική Ιατρική | |
+  - 38. 03 | Cyprus / Κύπρος | – Yγειovoλoγíα – Koιvoτιқή Iατрιқή | |
 
   - 38. 04 | Česko / Česká republika | Hygiena a epidemiologie | |
 
@@ -2660,7 +2660,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 03 | Cyprus / Κύπρος | - | |
 
-  - 44. 04 | Česko / Česká republika | Traumatologie Urgentní medicína | |
+  - 44. 04 | Česko / Česká republika | – Traumatologie – Urgentní medicína | |
 
   - 44. 05 | Dánsko / Danmark | - | |
 

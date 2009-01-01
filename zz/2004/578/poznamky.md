@@ -58,7 +58,7 @@
 
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
-- 24a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24a) § 22 ods. 7 písm. h) prvý bod zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24b) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -72,7 +72,11 @@
 
 - 28a) § 85 Zákonníka práce.
 
-- 28b) § 45b ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 28aa) § 154 Zákonníka práce.
+
+- 28ab) § 140 Zákonníka práce.
+
+- 28b) Napríklad § 52 ods. 5, § 53 ods. 5 prvá veta, ods. 6 prvá veta, ods. 7 prvá veta a ods. 8 okrem písm. d) a f), § 54 ods. 15 prvá veta a § 76 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov, § 8 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 29) § 11 Trestného zákona.
 
@@ -181,6 +185,8 @@
 - 65) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 72a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 73) Zákon č. 219/2002 Z. z. v znení neskorších predpisov.
 
