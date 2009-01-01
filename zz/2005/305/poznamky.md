@@ -16,6 +16,10 @@
 
 - 9) Napríklad zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 36/2005 Z. z.
 
+- 9a) § 179,180 a 367 Trestného zákona.
+
+- 9b) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
+
 - 10) § 37 ods. 3 zákona č. 36/2005 Z. z.
 
 - 11) Napríklad § 44 zákona č. 36/2005 Z. z.
@@ -48,6 +52,10 @@
 
 - 22) § 102 ods. 4 zákona č. 36/2005 Z. z.
 
+- 22a) § 11 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 22b) § 102 ods. 1 písm. b) a c) zákona č. 36/2005 Z. z.
+
 - 23) § 33 ods. 3 zákona č. 36/2005 Z. z.
 
 - 24) § 57 ods. 3 zákona č. 36/2005 Z. z.
@@ -78,9 +86,15 @@
 
 - 36) § 5 ods. 8 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
 
-- 36a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 36a) § 102 ods. 1 písm. c) zákona č. 36/2005 Z. z.
 
-- 36b) Zákon č. 330/2007 Z. z.
+- 36b) § 11 ods. 10 zákona č. 576/2004 Z. z.
+
+- 36c) § 11 ods. 11 zákona č. 576/2004 Z. z.
+
+- 36d) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
+- 36e) Zákon č. 330/2007 Z. z.
 
 - 37) Dohovor o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
@@ -96,11 +110,19 @@
 
 - 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
+- 42a) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 532/2007 Z. z.
+
 - 43) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
 
 - 44) § 50, 101 a 102 zákona č. 36/2005 Z. z.
 
+- 44a) § 62 zákona č. 36/2005 Z. z.
+
+- 44b) Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich skratiek viažucich sa na odbornú spôsobilosť na výkon zdravotníckeho povolania.
+
 - 45) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- 45a) § 33 a 34 zákona č. 36/2005 Z. z.
 
 - 46) § 2 písm. a) zákona č. 601/2003 Z. z.
 
@@ -111,6 +133,8 @@
 - 48) Napríklad Dohovor o právomoci, rozhodnom práve, uznávaní a výkone a spolupráci v oblasti rodičovských práv a povinností a opatrení na ochranu dieťaťa (oznámenie č. 344/2002 Z. z.). Nariadenie Rady (ES) č. 2201/2003 z 27. novembra 2003 o súdnej právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie (ES) č. 1347/2000 (Ú. v. EÚ L 338, 23. 12. 2003) v znení jeho zmien a doplnkov nariadením rady (ES) č. 2116/2004 z 2. decembra 2004 (Ú. v. EÚ L 367, 14. 12. 2004).
 
 - 49) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 49a) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
 - 50) Napríklad Trestný zákon, Trestný poriadok, Občiansky súdny poriadok.
 
@@ -123,8 +147,6 @@
 - 54) § 96 zákona č. 36/2005 Z. z.
 
 - 55) § 38 a 39 zákona č. 36/2005 Z. z.
-
-- 56) § 37 ods. 3 zákona č. 36/2005 Z. z.
 
 - 57) Vyhláška ministra zahraničných vecí č. 33/1959 Zb. o Dohovore o vymáhaní výživného v cudzine.
 
@@ -156,9 +178,7 @@
 
 - 61) Dohovor o právomoci, rozhodnom práve, uznávaní a výkone a spolupráci v oblasti rodičovských práv a povinností a opatrení na ochranu dieťaťa (oznámenie č. 344/2002 Z. z.).
 
-- 62) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov.
-
-- 63) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
+- 62) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov, § 93 ods. 2 Občianskeho súdneho poriadku.
 
 - 64) Čl. 4 Dohovoru o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
