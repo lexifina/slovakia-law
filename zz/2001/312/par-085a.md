@@ -8,4 +8,4 @@
 
 (4) Zníženie alebo odobratie osobitného príplatku podľa odseku 3 sa uplatní od prvého dňa kalendárneho mesiaca nasledujúceho po služobnom hodnotení do najbližšieho služobného hodnotenia.
 
-(5) Suma príplatku podľa odsekov 1 až 3 sa zaokrúhľuje na celé desiatky korún nahor.
+(5) Suma príplatku podľa odsekov 1 až 3 sa zaokrúhľuje na 50 eurocentov nahor.

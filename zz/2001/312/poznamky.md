@@ -92,6 +92,16 @@
 
 - 20ac) § 63 ods. 1 a § 68 ods. 1 písm. b) a ods. 3 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
+- 20b) § 31 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 20c) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 20d) Článok 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 20e) Nariadenie Rady č. 259/68 z 29. februára 1968 upravujúce Služobný poriadok úradníkov Európskych spoločenstiev a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev (Služobný poriadok úradníkov) (Ú. v. ES L 56, 4. 3. 1968) v platnom znení.
+
 - 21) § 2 ods. 3 písm. c) zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 22) Napríklad zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov, zákon č. 315/2001 Z. z. v znení neskorších predpisov.
