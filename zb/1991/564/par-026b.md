@@ -1,6 +1,6 @@
 # § 26b Pokuty
 
-(1) Krajské riaditeľstvo Policajného zboru (ďalej len „krajské riaditeľstvo") môže uložiť pokutu do 50 000 Sk obci, ktorá nepredloží v lehote ustanovenej týmto zákonom
+(1) Krajské riaditeľstvo Policajného zboru (ďalej len „krajské riaditeľstvo") môže uložiť pokutu do 1659 eur obci, ktorá nepredloží v lehote ustanovenej týmto zákonom
 
 - a) správu o činnosti obecnej polície,
 
