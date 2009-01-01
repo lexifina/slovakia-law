@@ -38,9 +38,15 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 
 - 6. V § 4 ods. 2 písm. a) a c) sa suma „154 000 EUR“ nahrádza sumou „133 000 EUR“.
 
+- 7. V § 4 ods. 3 sa suma „2 000 000 Sk“ nahrádza sumou „60 000 EUR“ a suma „12 000 000 Sk“ sa nahrádza sumou „360 000 EUR“.
+
+- 8. V § 4 ods. 4 sa suma „1 000 000 Sk“ nahrádza sumou „30 000 EUR“ a suma „4 000 000 Sk“ sa nahrádza sumou „120 000 EUR“.
+
 - 9. V § 6 ods. 2 písm. a) sa za slovo „alebo“ vkladajú slová „z väčšej“.
 
 - 10. V § 7 písm. a) druhom bode sa suma „154 000 EUR“ nahrádza sumou „206 000 EUR“.
+
+- 11. V § 7 písm. b) sa suma „4 000 000 Sk“ nahrádza sumou „120 000 EUR“ a suma „1 000 000 Sk“ sa nahrádza sumou „30 000 EUR“.
 
 - 12. V § 8 ods. 1 písm. b) sa slová „obstarávateľ podľa písmena a)“ v celom texte ustanovenia nahrádzajú slovami „verejný obstarávateľ“.
 
@@ -186,6 +192,10 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 
 - Verejný obstarávateľ môže vyhradiť právo účasti len záujemcom, ktorí majú štatút chránenej dielne alebo chráneného pracoviska.“.
 
+- 31. V § 97 ods. 1 sa suma „12 000 000 Sk“ nahrádza sumou „360 000 EUR“.
+
+- 32. V § 98 ods. 1 sa suma „12 000 000 Sk“ nahrádza sumou „360 000 EUR“.
+
 - 33. V § 99 odsek 3 znie:
 
 - „(3)
@@ -241,6 +251,10 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 - Odkladný účinok námietok na konanie kontrolovaného podľa odseku 10 alebo 11 nemá vplyv na povinnosti kontrolovaného pri uplatnení revíznych postupov podľa tohto zákona.“.
 
 - Doterajšie odseky 12 až 18 sa označujú ako odseky 13 až 19.
+
+- 45. V § 138 ods. 17 písm. a) sa suma „60 000 Sk“ nahrádza sumou „1 800 EUR“, suma „250 000 Sk“ sa nahrádza sumou „7 500 EUR, suma „20 000 Sk“ sa nahrádza sumou „600 EUR“ a suma „120 000 Sk“ sa nahrádza sumou „3 600 EUR“.
+
+- 46. V § 138 ods. 17 písm. b) sa suma „20 000 000 Sk“ nahrádza sumou „600 000 EUR“.
 
 - 47. V § 138 odsek 18 znie:
 
@@ -303,6 +317,8 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 - Doterajšie odseky 3 a 4 sa označujú ako odseky 4 a 5 .
 
 - 54. V § 147 ods. 1 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „týmto nie sú dotknuté oprávnenia úradu a iných kontrolných orgánov.“.
+
+- 55. V § 149 sa sumy „500 000 Sk“ nahrádzajú sumami „15 000 EUR“ a suma „10 000 Sk“ sa nahrádza sumou „300 EUR“.
 
 - 56. V § 149 ods. 4 sa na konci pripája táto veta: „Za deň, kedy sa úrad dozvedel o porušení zákona, sa považuje deň prerokovania protokolu o výkone kontroly.“.
 
