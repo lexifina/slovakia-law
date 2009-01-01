@@ -62,7 +62,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>Q</sub> - koeficient prekročenia emisnej kvóty zo zdroja znečisťovania ovzdušia
 
-  - Poplatok prevádzkovateľa veľkého alebo stredného zdroja za jeden zdroj (Z) sa vypočíta ako súčet poplatkov za jednotlivé znečisťujúce látky (i) podliehajúce poplatkovej povinnosti podľa vzťahu č. 7. Podľa § 3 ods. 1 sa poplatok za zdroj P<sub>Z</sub> zaokrúhľuje na celých 100 Sk smerom nadol.
+  - Poplatok prevádzkovateľa veľkého alebo stredného zdroja za jeden zdroj (Z) sa vypočíta ako súčet poplatkov za jednotlivé znečisťujúce látky (i) podliehajúce poplatkovej povinnosti podľa vzťahu č. 7. Podľa § 3 ods. 1 sa poplatok za zdroj P<sub>Z</sub> zaokrúhľuje na celé euro smerom nadol.
 
 - 7. P<sub>Z</sub> = | Σ P<sub>ZLi</sub>
 
@@ -88,25 +88,25 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - Tabuľka č. 1: Základné poplatky pre znečisťujúce látky podliehajúce poplatkovej povinnosti
 
-- Znečisťujúca látka | ZP [Sk.t<sup>-</sup><sup>1</sup>]
+- Znečisťujúca látka | ZP [€.t<sup>–1</sup>]
 
-- Tuhé znečisťujúce látky | 5 000
+- Tuhé znečisťujúce látky | 165,9695
 
-- Oxid siričitý | 2 000
+- Oxid siričitý | 66,3878
 
-- Oxidy dusíka | 1 500
+- Oxidy dusíka | 49,7908
 
-- Oxid uhoľnatý | 1 000
+- Oxid uhoľnatý | 33,1939
 
-- ΣC | 4 000
+- suma C | 132,7756
 
-- 1. trieda | 40 000
+- 1. trieda | 1 327,7567
 
-- 2. trieda | 20 000
+- 2. trieda | 663,8783
 
-- 3. trieda | 10 000
+- 3. trieda | 331,9391
 
-- 4. trieda | 2 000
+- 4. trieda | 66,3878
 
   - ZP – základný poplatok
 
@@ -152,7 +152,7 @@ Príloha č. 2 k zákonu č. 401/1998 Z. z.
 
   - K<sub>ELN</sub> – koeficient emisného limitu pri nezistení údajov o dodržaní emisného limitu
 
-- [Príloha 02](../assets/50509d8fd27b83cd39a38526c8f96aae1da474e61458341d51f1586479668c74.pdf)
+- [Príloha 02](../assets/42c8407a36e4106c2f02c4faf0d58d70022d92a1fe32e1397b31953a2f3ba7e6.pdf)
 
   - Tabuľka č. 3:
 
