@@ -4,7 +4,7 @@
 
 (1) Ustanovenia § 45 ods. 3 a 4, § 46, § 50 ods. 3, § 51 ods. 4 až 7 sa nepoužijú pri záložnom práve k cenným papierom, ak záložný veriteľ a záložca patria medzi tieto osoby:
 
-- a) orgány verejnej moci členského štátu,
+- a) orgány verejnej moci členského štátu, Európskej únie alebo iného zmluvného štátu Európskeho hospodárskeho priestoru (ďalej len „členský štát“),
 
 - b) Národná banka Slovenska alebo centrálna banka iného štátu, Európska centrálna banka, Medzinárodný menový fond, Európska investičná banka, medzinárodná rozvojová banka<sup>47a</sup>) a Banka pre medzinárodné zúčtovanie,
 

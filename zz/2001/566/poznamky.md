@@ -24,13 +24,15 @@
 
 - 13) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
-- 14) § 54 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
+- 14) § 2 ods. 2 a § 3 ods. 1 písm. c) a ods. 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 468/2005 Z. z.
 
 - 15) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 535 až 539 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 16a) § 39a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 16aa) § 3, 8, 12,18 a 19 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 16b) Čl. 38 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241, 2. 9. 2006).
 
@@ -48,11 +50,13 @@
 
 - 22) § 3 zákona č. 594/2003 Z. z.
 
-- 23) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
+- 23) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24) Zákon č. 650/2004 Z. z. v znení neskorších predpisov.
 
 - 24a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+
+- 24aa) § 41 a 42 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 24b) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
@@ -92,7 +96,7 @@
 
 - 40) Napríklad § 313 Občianskeho súdneho poriadku.
 
-- 41) Napríklad zákon č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z., zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
+- 41) Napríklad zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 42) § 131 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
 
@@ -142,11 +146,13 @@
 
 - 52a) § 18a zákona č. 429/2002 Z. z.
 
-- 53) § 24 zákona č. 329/2000 Z. z.
+- 53) § 29 zákona č. 747/2004 Z. z.
 
-- 54) § 71/1967 Zb. o správnom konaní (správny poriadok).
+- 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
-- 55) § 66b Obchodného zákonníka v znení neskorších predpisov.
+- 55) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 55a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 56) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -196,9 +202,11 @@
 
 - 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
-- 60) § 28 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb.
+- 60) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 60a) § 19 ods. 1 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 60a) § 19 ods. 1 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 60b) Článok 15 nariadenia Komisie (ES) č. 1287/2006/ES.
 
@@ -320,6 +328,8 @@
 
 - 90) § 158 a 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
+- 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
 - 91) Občiansky súdny poriadok v znení neskorších predpisov.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
@@ -372,13 +382,9 @@
 
 - 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
 
-- 103b) § 5 písm. e) zákona č. 594/2003 Z. z.
-
 - 104) § 23 ods. 6 písm. d) zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 106) § 3 zákona č. 483/2001 Z. z.
-
-- 107) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 107a) Napríklad § 2 ods. 1 zákona č. 107/2004 Z. z. o spotrebnej dani z piva.
 
@@ -395,6 +401,8 @@
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
 - 108a) Zákon č. 428/2002 Z. z.
+
+- 108aa) § 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
@@ -424,7 +432,9 @@
 
 - 114) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
 
-- 115) § 22 zákona č. 329/2000 Z. z.
+- 114a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 115) § 25 zákona č. 747/2004 Z. z.
 
 - 116) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 

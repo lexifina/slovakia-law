@@ -33,3 +33,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 15. Smernica Európskeho parlamentu a Rady 2006/49/ES zo 14. júna 2006 o kapitálovej primeranosti investičných spoločností a úverových inštitúcií (Ú. v. EÚ L 177, 30. 6. 2006).
 
   - 16. Smernica Komisie 2006/73/ES z 10. augusta 2006, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2004/39/ES, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 241, 2. 9. 2006).
+
+  - 17. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).

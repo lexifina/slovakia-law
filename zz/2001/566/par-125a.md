@@ -14,7 +14,7 @@
 
 - e) sprístupnenie v elektronickej forme na internetovej stránke Národnej banky Slovenska, ak sa Národná banka Slovenska rozhodla poskytovať takúto službu.
 
-(3) Emitent, ktorý zverejnil prospekt podľa odseku 2 písm. a) alebo b), je povinný zverejniť prospekt aj spôsobom podľa odseku 2 písm. c), ak sú predmetom verejnej ponuky cenné papiere v celkovej hodnote vyššej ako 20 000 000 EUR.
+(3) Emitent, ktorý zverejnil prospekt podľa odseku 2 písm. a) alebo b), je povinný zverejniť prospekt aj spôsobom podľa odseku 2 písm. c), ak sú predmetom verejnej ponuky cenné papiere v celkovej hodnote vyššej ako 20 000 000 eur.
 
 (4) V prípadoch podľa odseku 2 písm. b) až e) je emitent, vyhlasovateľ verejnej ponuky cenných papierov alebo osoba žiadajúca o prijatie na obchodovanie na regulovanom trhu povinná oznámiť v dennej tlači s celoštátnou pôsobnosťou alebo dostatočným rozšírením v členských štátoch, v ktorých sa verejná ponuka cenných papierov uskutočňuje alebo sa žiada o prijatie na obchodovanie na regulovanom trhu, zverejnenie prospektu a miesto, kde ho možno získať.
 
@@ -24,6 +24,6 @@
 
 (7) Znenie a formát prospektu a dodatkov k prospektu zverejnených alebo verejne sprístupnených musí byť zhodné so znením prospektu schváleným Národnou bankou Slovenska.
 
-(8) Ak sa prospekt sprístupní zverejnením v elektronickej forme, emitent, vyhlasovateľ cenných papierov, osoba žiadajúca o prijatie na obchodovanie alebo finančné inštitúcie umiestňujúce alebo predávajúce cenné papiere sú povinní investorovi na jeho žiadosť bezplatne poskytnúť prospekt v listinnej podobe.
+(8) Ak sa prospekt sprístupní zverejnením v elektronickej forme, emitent, vyhlasovateľ verejnej ponuky cenných papierov, osoba žiadajúca o prijatie na obchodovanie alebo finančné inštitúcie umiestňujúce alebo predávajúce cenné papiere sú povinní investorovi na jeho žiadosť bezplatne poskytnúť prospekt v listinnej podobe.
 
 (9) Ustanoveniami odsekov 1 až 6 nie sú dotknuté ustanovenia osobitného predpisu.<sup>103a</sup>)

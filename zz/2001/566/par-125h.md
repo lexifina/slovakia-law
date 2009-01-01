@@ -24,20 +24,20 @@
 
 - g) nezastupiteľné majetkové podiely, ktorých hlavným účelom je zabezpečiť držiteľovi právo užívať byt alebo inú nehnuteľnosť alebo jej časť, pričom tieto podiely nemôže ďalej predať bez toho, aby sa držiteľ tohto práva vzdal,
 
-- h) nekapitálové cenné papiere vydávané priebežne alebo opakovane bankami alebo zahraničnými bankami, ak je celková hodnota ponuky nižšia ako 50 000 000 EUR, pričom limit sa vypočíta za obdobie 12 mesiacov, ak tieto cenné papiere
+- h) nekapitálové cenné papiere vydávané priebežne alebo opakovane bankami alebo zahraničnými bankami, ak je celková hodnota ponuky nižšia ako 50 000 000 eur, pričom limit sa vypočíta za obdobie 12 mesiacov, ak tieto cenné papiere
 
   - 1. nepredstavujú podriadené dlhy alebo nie sú vymeniteľné,
 
   - 2. neoprávňujú na upísanie alebo získanie iných druhov cenných papierov a nie sú spojené s derivátovým nástrojom,
 
-- i) cenné papiere, ktoré sú predmetom verejnej ponuky cenných papierov, ktorej celková hodnota je nižšia ako 2 500 000 EUR za obdobie 12 mesiacov,
+- i) cenné papiere, ktoré sú predmetom verejnej ponuky cenných papierov, ktorej celková hodnota je nižšia ako 2 500 000 eur za obdobie 12 mesiacov,
 
-- j) cenné papiere, ktoré nie sú prevoditeľnými cennými papiermi podľa osobitného zákona,<sup>103b</sup>)
+- j) cenné papiere, ktoré nie sú prevoditeľnými cennými papiermi,
 
 - k) cenné papiere, ktoré sú nástrojmi peňažného trhu (§ 8).
 
 (2) Ustanovením odseku 1 nie je dotknuté právo emitenta, vyhlasovateľa verejnej ponuky cenných papierov alebo osoby žiadajúcej o prijatie na obchodovanie na regulovanom trhu vypracovať prospekt pre cenné papiere podľa odseku 1 písm. b), d), h) a i) pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie na regulovanom trhu.
 
-(3) Na cenné papiere podľa odseku 1 písm. i), pri ktorých celková hodnota verejnej ponuky cenných papierov je vyššia ako 100 000 EUR a zároveň nižšia ako 2 500 000 EUR za obdobie 12 mesiacov, vzťahujú sa ustanovenia § 120 až 125c.
+(3) Na cenné papiere podľa odseku 1 písm. i), pri ktorých celková hodnota verejnej ponuky cenných papierov je vyššia ako 100 000 eur a zároveň nižšia ako 2 500 000 eur za obdobie 12 mesiacov, vzťahujú sa ustanovenia § 120 až 125c.
 
 (4) Národná banka Slovenska je oprávnená povoliť zúženie prospektu cenného papiera podľa odseku 3 o údaje, ktoré majú vzhľadom na rozsah verejnej ponuky cenných papierov a povahu cenných papierov a ich emitenta len nepatrný význam pre správne hodnotenie aktív a pasív, finančnej situácie, ziskov a strát a vyhliadok emitenta, alebo nie je ich uvedenie v prospekte podstatné, najmä vzhľadom na obmedzenie verejnej ponuky cenných papierov na územie Slovenskej republiky, a ak neuvedenie týchto údajov nebude zavádzať investorov.

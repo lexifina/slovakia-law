@@ -2,7 +2,7 @@
 
 # § 73b
 
-(1) Obchodník s cennými papiermi je povinný konať pri poskytovaní investičných služieb alebo vedľajších služieb a vykonávaní investičných činností v súlade so zásadami poctivého obchodného styku s odbornou starostlivosťou v záujme svojich klientov. Obchodník s cennými papiermi je povinný vykonávať svoju činnosť tak, aby nedochádzalo k narušeniu bezpečnosti finančného systému, a nesmie vykonávať žiadne činnosti smerujúce k manipulácii kurzov cenných papierov.
+(1) Obchodník s cennými papiermi je povinný konať pri poskytovaní investičných služieb alebo vedľajších služieb a vykonávaní investičných činností v súlade so zásadami poctivého obchodného styku s odbornou starostlivosťou v záujme svojich klientov. Obchodník s cennými papiermi je povinný vykonávať svoju činnosť tak, aby nedochádzalo k narušeniu bezpečnosti finančného systému, a nesmie vykonávať žiadne činnosti smerujúce k manipulácii trhu.
 
 (2) Za konanie obchodníka s cennými papiermi, ktoré je v rozpore s odsekom 1, sa považuje aj to, ak obchodník s cennými papiermi v súvislosti s poskytovaním investičnej služby alebo vedľajšej služby klientovi hradí alebo prijíma poplatok alebo províziu, alebo poskytuje alebo prijíma nepeňažné plnenie s výnimkou
 

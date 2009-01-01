@@ -4,7 +4,7 @@
 
 (2) Na výpočet podielu na hlasovacích právach podľa odseku 1 sa postupuje ako pri výpočte podielu na hlasovacích právach spojených s akciami emitenta cenných papierov prijatých na obchodovanie na regulovanom trhu na účely plnenia oznamovacej povinnosti.
 
-(3) Navrhovateľ, ktorý rozhodol o tom, že uplatní právo výkupu, je povinný toto rozhodnutie vrátane skutočností, na základe ktorých mu toto právo vzniklo, bez zbytočného odkladu oznámiť cieľovej spoločnosti, Národnej banke Slovenska a všetkým zostávajúcim akcionárom cieľovej spoločnosti. Centrálny depozitár poskytne navrhovatelovi na jeho písomnú žiadost na tento účel zoznam akcionárov príslušného emitenta a ich záložných veriteľov; ustanovenie § 107 ods. 13 sa použije primerane.
+(3) Navrhovateľ, ktorý rozhodol o tom, že uplatní právo výkupu, je povinný toto rozhodnutie vrátane skutočností, na základe ktorých mu toto právo vzniklo, bez zbytočného odkladu oznámiť cieľovej spoločnosti, Národnej banke Slovenska a všetkým zostávajúcim akcionárom cieľovej spoločnosti. Centrálny depozitár poskytne navrhovatelovi na jeho písomnú žiadost na tento účel zoznam akcionárov príslušného emitenta a ich záložných veriteľov; ustanovenie § 107 ods. 11 sa použije primerane.
 
 (4) Právo výkupu je voči dotknutým akcionárom účinné iba po udelení súhlasu Národnou bankou Slovenska. Národná banka Slovenska udelí navrhovateľovi súhlas, iba ak sú splnené podmienky na uplatnenie tohto práva. Na konanie o žiadosti o súhlas na uplatnenie práva výkupu sa primerane použijú ustanovenia § 117. Navrhovateľ môže súčasne s podaním žiadosti o udelenie súhlasu uplatniť právo výkupu voči akcionárom. Súčasne so zaslaním návrhu zmluvy o kúpe akcií a v prípade, že sa ponúka výmena za iné cenné papiere aj návrh zmluvy o výmene akcií za iné cenné papiere, im musí zaslať upozornenie, že toto jeho právo je podmienené udelením súhlasu Národnej banky Slovenska. Národná banka Slovenska súhlas neudelí, ak návrh zmluvy neobsahuje výhradu vlastníctva.
 
@@ -22,7 +22,7 @@
 
 (8) Povinná osoba je povinná prijať návrh zmluvy v lehote uvedenej v návrhu zmluvy, inak v lehote desiatich pracovných dní od udelenia súhlasu Národnej banky Slovenska podľa odseku 4.
 
-(9) Ak povinná osoba návrh v tejto lehote neprijme, môže sa navrhovateľ domáhať na súde, aby prijatie návrhu nahradil súdnym rozhodnutím.<sup>102aa</sup>) Toto právo musí navrhovateľ uplatniť proti všetkým povinným osobám, ktoré návrh neprijali v jednom konaní do troch mesiacov od uplynutia lehoty podľa odseku 8, inak zaniká. Navrhovateľ je povinný poskytnúť znalecký posudok na žiadosť povinnej osoby.
+(9) Ak povinná osoba návrh v tejto lehote neprijme, môže sa navrhovateľ domáhať na súde, aby prijatie návrhu nahradil súdnym rozhodnutím.<sup>102aa</sup>) Toto právo musí navrhovateľ uplatniť proti všetkým povinným osobám, ktoré návrh neprijali v jednom konaní do troch mesiacov od uplynutia lehoty podľa odseku 8, inak zaniká. Navrhovateľ je povinný poskytnúť k nahliadnutiu znalecký posudok na žiadosť povinnej osoby.
 
 (10) Ak v konaní podľa odseku 9 navrhovateľ súhlasí s vyšším protiplnením oproti návrhu zmluvy, navrhovateľ a povinné osoby uzavrú nové zmluvy zohľadňujúce túto vyššiu výšku protiplnenia a navrhovateľ je povinný zostávajúcim akcionárom vyrovnať protiplnenie.
 

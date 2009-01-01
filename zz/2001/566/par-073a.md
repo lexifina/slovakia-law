@@ -18,7 +18,7 @@
 
   - 2. ďalšie údaje z dokladov preukazujúcich údaje, na ktoré sa vzťahuje písmeno a) druhý až štvrtý bod.
 
-(2) Na účely uzatvárania, vykonávania a následnej kontroly obchodov s klientmi, na účel identifikácie klientov a na ďalšie účely uvedené v odseku 3 je obchodník s cennými papiermi oprávnený pri každom obchode požadovať od klienta a jeho zástupcu údaje podľa odseku 3 písm. a) a získať ich spôsobom podľa odseku 3 písm. b).
+(2) Na účely uzatvárania, vykonávania a následnej kontroly obchodov s klientmi, na účel identifikácie klientov a na ďalšie účely uvedené v odseku 3 je obchodník s cennými papiermi oprávnený pri každom obchode požadovať od klienta a jeho zástupcu údaje podľa odseku 1 písm. a) a získať ich spôsobom podľa odseku 1 písm. b).
 
 (3) Na účely uzatvárania, vykonávania a následnej kontroly obchodov medzi obchodníkom s cennými papiermi a klientmi, na účel identifikácie klientov a ich zástupcov, na účel ochrany a domáhania sa práv obchodníka s cennými papiermi voči klientom, na účel zdokumentovania činnosti obchodníka s cennými papiermi, na účely výkonu dohľadu a na plnenie si úloh a povinností obchodníka s cennými papiermi podľa tohto zákona alebo osobitných predpisov<sup>58c</sup>) je obchodník s cennými papiermi aj bez súhlasu a informovania dotknutých osôb<sup>58d</sup>) oprávnený zisťovať, získavať, zaznamenávať, uchovávať, využívať a inak spracúvať<sup>58e</sup>) osobné údaje a iné údaje v rozsahu podľa odseku 1; pritom je obchodník s cennými papiermi oprávnený s použitím automatizovaných alebo neautomatizovaných prostriedkov vyhotovovať kópie dokladov totožnosti a spracúvať rodné čísla a ďalšie údaje a doklady podľa odseku 1.
 

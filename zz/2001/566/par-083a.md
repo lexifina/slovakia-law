@@ -12,7 +12,7 @@
 
 - a) písomne oznámiť fondu a Národnej banke Slovenska presný dátum zmeny svojej účasti na systéme ochrany klientov a preukázať im, že táto zmena sa uskutoční bez zníženia rozsahu ochrany klientskeho majetku v porovnaní s ochranou klientskeho majetku podľa tohto zákona,
 
-- b) písomne uzavrieť s každým klientom, na ktorého klientsky majetok sa vzťahuje zmena systému ochrany klientov, osobitnú zmluvu, ktorou sa upravia dôsledky vyplývajúce pre klienta a jeho klientsky majetok zo zmeny systému ochrany klientov; ak sa klient rozhodne vybrať svoj klientsky majetok alebo previesť ho inde, obchodník s cennými papiermi je povinný umožniť mu to bez uplatňovania akýchkoľvek sankcií,
+- b) každému klientovi, na ktorého klientsky majetok sa vzťahuje zmena systému ochrany klientov, doručiť osobitné písomné oznámenie o tejto zmene, ktoré musí obsahovať aj dátum tejto zmeny a informácie o všetkých dôsledkoch vyplývajúcich pre klienta a jeho klientsky majetok zo zmeny systému ochrany klientov; ak sa klient rozhodne vybrať svoj klientsky majetok alebo previesť ho inde, obchodník s cennými papiermi je povinný umožniť mu to bez uplatňovania akýchkoľvek sankcií,
 
 - c) preukázateľne uhradiť fondu neuhradený ročný príspevok alebo neuhradenú časť ročného príspevku za kalendárny rok, v ktorom dochádza k zmene účasti obchodníka s cennými papiermi na systéme ochrany klientov podľa odseku 1,
 
@@ -26,4 +26,4 @@
 
 (5) Ak členmi orgánov fondu sú zástupcovia obchodníka s cennými papiermi, ktorému zanikla účasť na systéme ochrany klientov podľa tohto zákona, dňom zániku tejto účasti zaniká aj členstvo zástupcov tohto obchodníka s cennými papiermi v orgánoch fondu.
 
-(6) Informáciu pre klientov podľa odseku 2 písm. b) je povinný vo všetkých svojich prevádzkových priestoroch na území Slovenskej republiky zverejniť aj zahraničný obchodník s cennými papiermi, ktorý poskytuje investičné služby na území Slovenskej republiky podľa § 65 alebo § 66, pričom sa nezúčastňoval ani sa nezúčastňuje na ochrane klientskeho majetku podľa tohto zákona.
+(6) Informáciu pre klientov podľa odseku 2 písm. b) je povinný vo všetkých svojich prevádzkových priestoroch na území Slovenskej republiky zverejniť aj zahraničný obchodník s cennými papiermi, ktorý poskytuje investičné služby na území Slovenskej republiky podľa § 65 alebo § 67, pričom sa nezúčastňoval ani sa nezúčastňuje na ochrane klientského majetku podľa tohto zákona.

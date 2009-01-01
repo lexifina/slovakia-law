@@ -28,6 +28,6 @@
 
 - g) cenu a objem obchodu.
 
-(3) Oznámenie podľa odseku 1 sa nemusí vykonať, ak celkový objem obchodov podľa odseku 1 neprekročil 5 000 EUR za kalendárny rok. Celkový objem obchodov sa určí spočítaním obchodov vykonaných na vlastný účet osoby podľa odseku 1 písm. a) a b) s obchodmi vykonanými na vlastný účet osoby podľa odseku 1 písm. c) až e).
+(3) Oznámenie podľa odseku 1 sa nemusí vykonať, ak celkový objem obchodov podľa odseku 1 neprekročil 5 000 eur za kalendárny rok. Celkový objem obchodov sa určí spočítaním obchodov vykonaných na vlastný účet osoby podľa odseku 1 písm. a) a b) s obchodmi vykonanými na vlastný účet osoby podľa odseku 1 písm. c) až e).
 
 (4) V prípade obchodov s akciami emitentov so sídlom v inom členskom štáte alebo s finančnými nástrojmi súvisiacimi s týmito akciami sú osoby podľa odseku 1 povinné vykonať oznámenie podľa právnych predpisov tohto členského štátu príslušnému orgánu dohľadu tohto členského štátu. Ak emitent nemá sídlo v členskom štáte, oznámenie sa vykoná príslušnému orgánu dohľadu členského štátu, voči ktorému je tento emitent povinný plniť informačné povinnosti.

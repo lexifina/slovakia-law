@@ -2,7 +2,7 @@
 
 (1) Ustanovenia § 74 ods. 1 až 10 sa do 31. decembra 2010 nevzťahujú na obchodníka s cennými papiermi, ktorý poskytuje investičné služby a investičné činnosti len vo vzťahu k opciám, futures, swapom a iným derivátovým nástrojom vzťahujúcim sa na komodity a k finančným rozdielovým zmluvám.
 
-(2) Obchodník s cennými papiermi, na ktorého sa nevzťahuje § 74 ods. 12 a ktorého celkové pozície v obchodnej knihe nepresahujú 50 miliónov EUR a ktorého priemerný počet zamestnancov v priebehu finančného roku neprekročí 100, môže nahradiť do 31. decembra 2011 požiadavku na vlastné zdroje podľa § 74 ods. 5 písm. d) nižšou z týchto hodnôt:
+(2) Obchodník s cennými papiermi, na ktorého sa nevzťahuje § 74 ods. 12 a ktorého celkové pozície v obchodnej knihe nepresahujú 50 miliónov eur a ktorého priemerný počet zamestnancov v priebehu finančného roku neprekročí 100, môže nahradiť do 31. decembra 2011 požiadavku na vlastné zdroje podľa § 74 ods. 5 písm. d) nižšou z týchto hodnôt:
 
 - a) požiadavka podľa § 74 ods. 5 písm. d),
 
@@ -10,7 +10,7 @@
 
   - 1. súčet požiadaviek na vlastné zdroje podľa § 74 ods. 5 písm. a) až c) a
 
-  - 2. požiadavka na vlastné zdroje podľa § 76 ods. 6, bez ohľadu na skutočnosť, či sa uplatňuje výnimka podľa § 74 ods. 12.
+  - 2. požiadavka na vlastné zdroje podľa § 74 ods. 6, bez ohľadu na skutočnosť, či sa uplatňuje výnimka podľa § 74 ods. 12.
 
 (3) Ak sa uplatňuje odsek 2 písm. b) druhý bod, uplatní sa dodatočné zvýšenie podľa § 74 ods. 6 najmenej raz ročne. V prípade uplatnenia odchýlky podľa odseku 2 nesmú vlastné zdroje pre obchodníka s cennými papiermi klesnúť pod úroveň vypočítanú v súlade s právnymi predpismi platnými k 31. decembru 2006; to neplatí, ak takéto zníženie je odôvodnené znížením rozsahu činnosti obchodníka s cennými papiermi.
 
