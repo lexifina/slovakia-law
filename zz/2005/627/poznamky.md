@@ -44,6 +44,8 @@
 
 - 20) § 58 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
+- 20a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006). § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
 - 21) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
