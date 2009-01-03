@@ -1,6 +1,6 @@
 - 1) Príloha č. 1 k zákonu č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
-- 2) Nariadenie vlády Slovenskej republiky č. 367/2006 Z. z. o technických požiadavkách na zníženie emisií zo zážihových motorov a vznetových motorov motorových vozidiel.
+- 2) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 715/2007 z 20. júna 2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 171, 29. 6. 2007).
 
 - 3) Nariadenie vlády Slovenskej republiky č. 369/2006 Z. z. o technických požiadavkách na výkon motorov motorových vozidiel.
 
