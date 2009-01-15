@@ -12,6 +12,8 @@
 
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
+- 7a) § 19 zákona č. 473/2005 Z. z. v znení zákona č. 598/2008 Z. z.
+
 - 8) Zákon č. 530/2004 Z. z. o zastúpení Slovenskej republiky v Eurojuste a o zmene a doplnení niektorých zákonov v znení zákona č. 236/2007 Z. z., rozhodnutie Rady 2002/187/SVV z 28. februára 2002, ktorým sa zriaďuje Eurojust s cieľom posilniť boj proti závažným trestným činom (Mimoriadne vydanie Ú. v. EÚ kap. 19/zv. 4; Ú. v. ES L 63, 6. 3. 2002) v znení rozhodnutia Rady 2003/659/SVV z 18. júna 2003 (Mimoriadne vydanie Ú. v. kap. 19/zv. 6; Ú. v. EÚ L 245, 23. 9. 2003).
 
 - 9) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
