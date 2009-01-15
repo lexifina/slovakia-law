@@ -58,6 +58,8 @@
 
 - 29) Napríklad zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. v znení neskorších predpisov, § 5 zákona č. 381/1997 Z. z. v znení neskorších predpisov.
 
+- 29a) § 12 ods. 2 písm. l) zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
+
 - 30) § 27 ods. 1 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
 
 - 31) § 85 ods. 2 Trestného poriadku.
