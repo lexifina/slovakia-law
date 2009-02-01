@@ -90,6 +90,8 @@
 
 - 40) § 11 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
 
+- 40a) Napríklad článok 13 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 715/2007 z 20. júna 2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 171, 29. 6. 2007).
+
 - 41) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov, zákon č. 128/2002 Z. z.
 
 - 42) Zákon č. 71/1967 Zb. v znení neskorších predpisov.

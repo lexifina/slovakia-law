@@ -14,6 +14,10 @@
 
 - c) ak jednotlivo dovezené vozidlo bolo vyradené z evidencie vozidiel v inom štáte z dôvodu jeho recyklovateľnosti,
 
-- d) ak jednotlivo dovezené vozidlo má iným štátom udelené výnimky z technických požiadaviek pre osvetlenie a signalizáciu vozidiel, ak ide o zmenu farby svetla.
+- d) ak jednotlivo dovezené vozidlo má iným štátom udelené výnimky z technických požiadaviek pre osvetlenie a signalizáciu vozidiel, ak ide o zmenu farby svetla,
+
+- e) ak jednotlivo dovezené vozidlo vybavené špeciálnou nadstavbou bolo vyrobené na vojenské účely,
+
+- f) ak jednotlivo dovezené vozidlo je historickým vozidlom alebo športovým vozidlom.
 
 (3) Podrobnosti o technických požiadavkách, ktoré musí jednotlivo dovezené vozidlo z tretích krajín spĺňať z hľadiska konštrukcie a podrobnosti o činnosti obvodného úradu dopravy pri odňatí osvedčenia o evidencii z iného členského štátu a o informovaní tohto štátu o odňatí osvedčenia o evidencii ustanoví všeobecne záväzný právny predpis.
