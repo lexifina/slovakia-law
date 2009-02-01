@@ -8,7 +8,7 @@ používať základnú bázu údajov geografického informačného systému na b
 
 b)
 
-bezplatne poskytnúť údaje o vzniku, zmene alebo zániku základných vlastností objektov a javov, ktoré sú obsahom základnej bázy údajov pre geografický informačný systém právnickej osobe zriadenej úradom,
+bezplatne poskytnúť údaje o objektoch a ich vlastnostiach podľa katalógu tried objektov právnickej osobe zriadenej úradom; raz ročne poskytovať aktualizáciu údajov o objektoch, ktoré sú obsahom základnej bázy údajov pre geografický informačný systém, ktorých podrobnú evidenciu atribútov zabezpečuje iný subjekt ako úrad,
 
 c)
 
