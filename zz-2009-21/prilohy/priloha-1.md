@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 21/2009 Z. z. VZOR
+
+VÝKAZ O VÝSLEDKOCH NÁSLEDNÝCH FINANČNÝCH KONTROL ZA ROK
+
+[Vzor 01](../assets/8d9aa94a3b63bc0b29970d0a358e890a2b93b74329f4608f2d2142d3e1c50692.pdf)

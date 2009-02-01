@@ -1,0 +1,5 @@
+Príloha č. 2 k vyhláške č. 21/2009 Z. z. VZOR
+
+VÝKAZ O ČINNOSTI ÚTVARU VNÚTORNÉHO AUDITU ZA ROK
+
+[Vzor 02](../assets/67483aaa89628bf12fb438350412798500e5fd8d7133501f470d4035b7b57e10.pdf)
