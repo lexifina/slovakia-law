@@ -6,15 +6,17 @@
 
 - 4) Zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
 
-- 5) § 22 zákona SNR č. 372/1990 Zb.
+- 5) § 22 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+- 6) Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
 - 7) § 89 ods. 9 Trestného zákona.
 
 - 8) § 19 ods. 2 zákona SNR č. 369/1990 Zb.
 
 - 9) § 76 ods. 2 Trestného poriadku.
+
+- 9a) Napríklad § 9 ods. 2 a 3 zákona č. 124/1992 Zb. o Vojenskej polícii, § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 10) § 116 Občianskeho zákonníka.
 
@@ -23,6 +25,8 @@
 - 11) § 15 zákona SNR č. 372/1990 Zb.
 
 - 12) § 16 zákona SNR č. 372/1990 Zb.
+
+- 12a) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
 - 13) § 2 ods. 3 a § 8 ods. 1 Trestného poriadku.
 
