@@ -28,15 +28,15 @@
 
 - 13) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 13a) Občiansky zákonník.
+- 13a) Zákon č. 495/2008 Z. z. o poplatku za udržiavanie platnosti patentu, o poplatku za udržiavanie platnosti európskeho patentu s účinkami pre Slovenskú republiku a o poplatku za udržiavanie platnosti dodatkového ochranného osvedčenia na liečivá a výrobky na ochranu rastlín a o zmene a doplnení niektorých zákonov.
+
+- 13aa) Občiansky zákonník.
 
 - 13b) § 10 zákona č. 132/1989 Zb. v znení neskorších predpisov.
 
 - 14) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
 
 - 15) Vyhláška ministra zahraničných vecí č. 212/1989 Zb. o Budapeštianskej zmluve o medzinárodnom uznávaní uloženia mikroorganizmov na účely patentového konania a Vykonávacieho predpisu k nej.
-
-- 15a) Článok 5bis ods. 1 Parížskeho dohovoru na ochranu priemyselného vlastníctva (vyhláška ministra zahraničných vecí č. 64/1975 Zb. o Parížskom dohovore na ochranu priemyselného vlastníctva z 20. marca 1883, revidovanom v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Stockholme 14. júla 1967 v znení vyhlášky ministra zahraničných vecí č. 81/1985 Zb.).
 
 - 16) Vyhláška Federálneho úradu pre vynálezy č. 350/1991 Zb. o odmeňovaní patentových zástupcov.
 
