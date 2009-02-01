@@ -24,6 +24,8 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 4. V § 6 ods. 10 sa slová „cenným papierom“ nahrádzajú slovami „finančným nástrojom“ a slová „cenného papiera“ sa nahrádzajú slovami „finančného nástroja“.
 
+- 5. V § 7 ods. 9 a § 53a ods. 3 sa vypúšťajú slová „a c)“.
+
 - 6. Poznámka pod čiarou k odkazu 23 znie:
 
 - „23)
@@ -72,6 +74,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - Doterajšie odseky 7 a 8 sa označujú ako odseky 8 a 9.
 
+- 12. V § 10 ods. 4 sa vypúšťa písmeno b). Doterajšie písmeno c) sa označuje ako písmeno b).
+
+- Poznámka pod čiarou k odkazu 26 sa vypúšťa.
+
 - 13. V § 12 ods. 4 sa slová „vzťahuje § 3 ods. 2.“ nahrádzajú slovami „vzťahujú ustanovenia osobitného zákona.<sup>16aa</sup>)“.
 
 - 14. Poznámka pod čiarou k odkazu 41 znie:
@@ -79,6 +85,8 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - „41)
 
 - Napríklad zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.“.
+
+- 15. V § 29 sa vypúšťa odsek 1. Súčasne sa zrušuje označenie odseku 2.
 
 - 16. V § 30 ods. 2 sa vypúšťajú slová „(§ 73)“.
 
@@ -508,7 +516,13 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - (3)
 
-- Za klientsky majetok chránený podľa tohto zákona, ktorý sa stal neodstupným predo dňom účinnosti tohto zákona, sa poskytuje náhrada podľa predpisov účinných do dňa účinnosti tohto zákona; tým nie je dotknuté ustanovenie § 169 ods. 4.“.
+- Za klientsky majetok chránený podľa tohto zákona, ktorý sa stal neodstupným predo dňom účinnosti tohto zákona, sa poskytuje náhrada podľa predpisov účinných do dňa účinnosti tohto zákona; tým nie je dotknuté ustanovenie § 169 ods. 4.
+
+- § 173k
+
+- Prechodné ustanovenie k úpravám účinným od 1. februára 2009
+
+- Centrálny register krátkodobých cenných papierov, ktorý viedla Národná banka Slovenska podľa doterajších predpisov, sa zrušuje od 1. februára 2009.“.
 
 - 111. V celom texte zákona sa slovo „EUR“ nahrádza slovom „eur“ a v celom texte zákona okrem § 73c ods. 4 písm. e) sa slová „iná mena“ vo všetkých tvaroch nahrádzajú slovami „cudzia mena“ v príslušnom gramatickom tvare.
 
