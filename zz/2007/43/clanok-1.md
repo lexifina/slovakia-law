@@ -118,6 +118,10 @@ Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave 
 
 - V rozhodnutí o udelení dopravnej licencie možno žiadateľovi uložiť tiež povinnosť
 
+- a)
+
+- vykonávať dopravu určeným druhom autobusu, ktorý nemôže byť starší ako 16 rokov,
+
 - b)
 
 - zabezpečiť vedenie spoja v nadväznosti na iný druh dopravy,
