@@ -1,4 +1,4 @@
-Príloha č. 3 k zákonu č. 106/2004 Z. z. [VZOR 03-1](../assets/b96c82b841e879306a8b86f2affc509a91723f2367e2122138453dde2fb2096e.pdf)
+Príloha č. 3 k zákonu č. 106/2004 Z. z. [VZOR 03-1](../assets/67285b61c9322c5127d31bc61bfb0dcecca0a3904b6e2e6a3a896711abfed9e1.pdf)
 
 Vysvetlivky
 
