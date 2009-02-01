@@ -1,3 +1,0 @@
-# § 88b
-
-Okresný dopravný inšpektorát prihlási motorové vozidlo, ktoré je novým dopravným prostriedkom podľa osobitného predpisu<sup>18b</sup>) nadobudnutým v tuzemsku z iného členského štátu Európskej únie, do evidencie vozidiel len po predložení potvrdenia vydaného daňovým úradom o zaplatení dane z pridanej hodnoty v tuzemsku z nadobudnutia nového dopravného prostriedku. Toto potvrdenie sa nevyžaduje, ak vlastník vozidla predloží osvedčenie o registrácii pre daň z pridanej hodnoty a potvrdenie daňového úradu o tom, že informoval daňový úrad o nadobudnutí nového dopravného prostriedku z iného členského štátu Európskej únie.
