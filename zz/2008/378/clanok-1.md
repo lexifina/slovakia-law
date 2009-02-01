@@ -8,6 +8,16 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Na účely výpočtu dane podľa § 11 ods. 2 písm. a) základom dane pri cigaretách, ktoré nie sú označené kontrolnou známkou a ktoré sa nedodávajú pod rovnakým obchodným názvom na daňové územie, je počet kusov cigariet v takomto spotrebiteľskom balení cigariet a cena najpredávanejšej cenovej kategórie cigariet (§ 40 ods. 4) prepočítaná na počet kusov cigariet v takomto spotrebiteľskom balení cigariet.“.
 
+- 2. V § 6 ods. 2 sa slová „1,41 Sk/kus“ nahrádzajú slovami „52,44 eur/1 000 kusov“.
+
+- 3. V § 6 ods. 3 sa slová „2,10 Sk/kus“ nahrádzajú slovami „81,32 eur/1 000 kusov“.
+
+- 4. § 6 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Platnosť sadzby dane z cigariet sa na kontrolnej známke vyjadruje znakom, ktorým je veľké písmeno abecedy (bez diakritiky) v abecednom poradí.“.
+
 - 5. V § 7 písmeno f) znie:
 
 - „f)
@@ -83,6 +93,12 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - (4)
 
 - Oslobodenie od dane podľa odseku 2 sa neuplatní, ak cestujúcim je osoba mladšia ako 17 rokov.“.
+
+- 7. V § 9 ods. 4 sa za slová „(ďalej len “registračné odberné číslo„),“ vkladajú slová „znaku pre platnosť sadzby spotrebnej dane,“.
+
+- 8. V § 9 ods. 4 druhá veta znie:
+
+- „Kontrolná známka sa nalepí na spotrebiteľské balenie cigariet na časti určenej na otvorenie tak, aby sa cigarety nemohli vybrať bez viditeľného poškodenia kontrolnej známky alebo spotrebiteľského balenia cigariet a aby aspoň jedna časť kontrolnej známky, kde je uvedené registračné odberné číslo a cena cigariet, ostala nepoškodená.“.
 
 - 9. V § 9 ods. 30 písmeno c) znie:
 
