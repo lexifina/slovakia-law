@@ -1,0 +1,9 @@
+Príloha č. 3 k vyhláške č. 15/2009 Z. z.
+
+EVIDENČNÝ LIST CHMELIARSKEHO SUBJEKTU
+
+[Vzor 01](../assets/f1faebf7222c978dbc08519ad63805158b41adb0d7e8b7c42242c2b13df360ca.pdf)
+
+EVIDENČNÝ LIST CHMEĽNICE
+
+[Vzor 02](../assets/1ac2c89c73011357a180d092e82ae7bb88d03c6c0162c5fe4bf208234cd94c29.pdf)
