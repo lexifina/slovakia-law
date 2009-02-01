@@ -21,3 +21,5 @@ Príloha č. 9 k nariadeniu vlády č. 440/2006 Z. z.
   - 9. Smernica Komisie 2008/4/ES z 9. januára 2008, ktorou sa mení a dopĺňa smernica 94/39/ES, pokiaľ ide o krmivá určené na zníženie rizika popôrodného uľahnutia (Ú. v. EÚ L 6, 10. 1. 2008).
 
   - 10. Rozhodnutie Európskeho parlamentu a Rady č. 623/2007/ES z 23. mája 2007, ktorým sa mení a dopĺňa smernica 2002/2/ES, ktorou sa mení a dopĺňa smernica Rady 79/373/EHS o uvádzaní kŕmnych zmesí do obehu (Ú. v. EÚ L 154, 14. 6. 2007).
+
+  - 11. Smernica Komisie 2008/82/ES z 30. júla 2008, ktorou sa mení a dopĺňa smernica 2008/38/ES, pokiaľ ide o krmivá zamýšľané na podporu funkcie obličiek pri chronickej obličkovej nedostatočnosti (Ú. v. EÚ L 202, 31. 7. 2008).

@@ -4,7 +4,9 @@ Príloha č. 3 k nariadeniu vlády č. 440/2006 Z. z.
 
 - 1 | 2 | 3 | 4 | 5 | 6
 
-- Podpora funkcie obličiek pri ich chronickej nedostatočnosti<sup>1) 2</sup>) | Nízky obsah fosforu, nízky obsah, ale vysokokvalitných bielkovín | Psy, mačky | Zdroje bielkovín Vápnik Fosfor Draslík Sodík Obsah esenciálnych mastných kyselín, ak boli pridané | Pri prvom podávaní do šiestich mesiacov | Na označení musí byť uvedené: „Pred použitím a pred predĺžením doby použitia sa odporúča konzultácia s veterinárnym lekárom.“ V návode na použitie sa uvedie: „Voda na pitie musí byť stále k dispozícii.“
+- Podpora funkcie obličiek pri ich chronickej nedostatočnosti<sup>1</sup>)<sup>2</sup>) | Nízky obsah fosforu, obmedzený obsah vysokokvalitných bielkovín | Psy, mačky | Zdroje bielkovín Vápnik Fosfor Draslík Sodík Obsah esenciálnych mastných kyselín, ak boli pridané | Pri prvom podávaní do šiestich mesiacov | Na označení sa uvedie: „Pred použitím a pred predĺžením obdobia používania sa odporúča vyžiadať si stanovisko veterinárneho lekára.“ V návode na použitie sa uvedie: „Voda na pitie musí byť stále k dispozícii.“
+
+- | Znížená absorpcia fosforu prostredníctvom pridania uhličitanu lantanitého oktahydrátu | Dospelé mačky | Zdroje bielkovín Vápnik Fosfor Draslík Sodík Uhličitan lantanitý oktahydrát Obsah esenciálnych mastných kyselín, ak boli pridané | Pri prvom podávaní do šiestich mesiacov | Na označení sa uvedie: „Pred použitím a pred predĺžením obdobia používania sa odporúča vyžiadať si stanovisko veterinárneho lekára.“ V návode na použitie sa uvedie: „Voda na pitie musí byť stále k dispozícii.“
 
 - Rozpúšťanie struvitových kameňov<sup>3</sup>) | Nízky obsah horčíka, nízky obsah, ale vysokokvalitných bielkovín, schopnosť okysľovať moč | Psy | Zdroje bielkovín Vápnik Fosfor Draslík Sodík Horčík Chloridy, ako Cl<sup>-</sup> Síra Látky okysľujúce moč | Päť až dvanásť týždňov | Na obale musí byť uvedené: „Pred použitím sa odporúča konzultácia s veterinárnym lekárom.“ „Počas skrmovania treba podávať dostatok vody.“
 
