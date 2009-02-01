@@ -14,13 +14,13 @@
 
 - Rozkaz ministra spravodlivosti Slovenskej socialistickej republiky č. 12/1973, ktorým sa vydáva úplné znenie Poriadku pre výkon trestu odňatia slobody v nápravnovýchovných ústavoch (reg. čiastka 2/1974 Zb.), v znení rozkazov č. 11/1975 a č. 4/1976.
 
-- 3a) § 15 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
+- 3a) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
-- 3b) § 51 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+- 3b) § 65 a § 66 ods. 2 písm. d) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 3c) § 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
+- 3c) § 16 zákona č. 8/2009 Z. z.
 
-- 3d) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 3d) § 137 ods. 2 písm. g) až o) a q) zákona č. 8/2009 Z. z.
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -47,3 +47,5 @@
 - 13) § 244 a nasl. Občianskeho súdneho poriadku (úplné znenie č. 78/1983 Zb.).
 
 - 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
+
+- 15) § 524 až 530 Občianskeho zákonníka.
