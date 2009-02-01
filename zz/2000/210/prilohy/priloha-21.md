@@ -1,3 +1,3 @@
 Príloha č. 21 k vyhláške č. 210/2000 Z. z.
 
-- ODMERNÉ NÁDRŽE NA PLAVIDLÁCH [Príloha 21](../assets/f779ba1f8de29c9ab7c894b787662757753ce5244ea4b88b3a3b3424ceea3bca.pdf)
+- ODMERNÉ NÁDRŽE NA PLAVIDLÁCH [Príloha 21](../assets/ffad57124be03508e6a0f8e66c2b912661645d3620d4a74747f9ebb78bd96892.pdf)

@@ -246,9 +246,7 @@ Príloha č. 31 k vyhláške č. 210/2000 Z. z.
 
           - 4.2.2.3 Meracie pásmo na vytýčenie kontrolných bodov skúšobnej dráhy. Kombinovaná štandardná neistota kalibrácie meracieho pásma nemá byť horšia ako (20 + 30 . L) µm, kde L je dĺžka v metroch.
 
-          - 4.2.2.4 Etalónové zariadenie so snímačmi na meranie času prejazdu skúšobného vozidla kontrolnými bodmi skúšobnej dráhy. Kombinovaná štandardná neistota merania času nemá byť horšia ako 1 x 10<sup>-5</sup> s.
-
-            - Zariadenie umožňuje meranie rýchlosti motorového vozidla v teréne od 20 km <sup>.</sup>h<sup>-1</sup> do 130 km <sup>.</sup>h<sup>-1</sup> s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,5 km <sup>.</sup>h<sup>-1</sup> do rýchlosti 100 km <sup>.</sup>h<sup>-1</sup>a s kombinovanou štandardnou neistotou merania rýchlosti 0,5 % z hodnoty meranej rýchlosti pre rýchlosti nad 100 km <sup>.</sup>h<sup>-1</sup>.
+          - 4.2.2.4 Etalónové zariadenie so snímačmi na meranie času prejazdu skúšobného vozidla kontrolnými bodmi skúšobnej dráhy. Kombinovaná štandardná neistota merania času nemá byť väčšia ako 1 <sub>x</sub> 10<sup>-5</sup> s. Zariadenie umožňuje meranie rýchlosti motorového vozidla v teréne od 20 km <sup>.</sup> h<sup>-1</sup> do 130 km<sup>.</sup> h<sup>-1</sup> s kombinovanou štandardnou neistotou merania rýchlosti menšou ako 0,5 km<sup>.</sup> h<sup>-1</sup> do rýchlosti 100 km <sup>.</sup> h<sup>-1</sup> a s kombinovanou štandardnou neistotou merania rýchlosti 0,5 % z hodnoty meranej rýchlosti pre rýchlosti nad 100 km <sup>.</sup> h<sup>-1</sup>.
 
           - 4.2.2.5 Etalónové zariadenie na simulovanie rýchlosti vozidla – simulátor rýchlosti v rozsahoch frekvencie impulzov a oneskorenia impulzov zodpovedajúcich meraciemu rozsahu rýchlomera s kombinovanou štandardnou neistotou simulovania rýchlosti nepresahujúcou 0,5 km <sup>.</sup>h<sup>-1</sup> pri simulácii rýchlostí do 100 km <sup>.</sup>h<sup>-1</sup> a 0,5 % z hodnoty rýchlosti pre rýchlosti nad 100 km <sup>.</sup>h<sup>-1</sup>.
 

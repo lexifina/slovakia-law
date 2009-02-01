@@ -1,3 +1,3 @@
 Príloha č. 42 k vyhláške č. 210/2000 Z. z.
 
-- MERADLÁ AKUSTICKÉHO TLAKU [Príloha 42](../assets/931a0b5557f7576912625bbf3bed040c0e0be9726f6738b64c437dad800f7a60.pdf)
+- MERADLÁ AKUSTICKÉHO TLAKU [Príloha 42](../assets/292eddd238b9fe38cb9a2bd9c6ab85edc17b28aa03af57969ff0f423b2ce314b.pdf)

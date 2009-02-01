@@ -1,3 +1,3 @@
 Príloha č. 20 k vyhláške č. 210/2000 Z. z.
 
-- OBILNÉ SKÚŠAČE [Príloha 20](../assets/3aa8b7f234e69e224e9e10206234e98fd88eda1624214704d1268508b57bcf66.pdf)
+- OBILNÉ SKÚŠAČE [Príloha 20](../assets/52c16387d05c4795234e5b5f70dbde72a81e7a552f0d05bb2ff3d9cfab0385cf.pdf)

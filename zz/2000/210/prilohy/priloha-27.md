@@ -1,3 +1,3 @@
 Príloha č. 27 k vyhláške č. 210/2000 Z. z.
 
-- VÝČAPNÉ NÁDOBY [Príloha 27](../assets/f41677fb83190f2ba6660cd31781022f78a4d7e956b702b5dbefd9aabf0e6e8d.pdf)
+- VÝČAPNÉ NÁDOBY [Príloha 27](../assets/d0bcfd80987f029d4b70436fd2234fc578eb38aebe6519b8357d2fc07ab621e6.pdf)

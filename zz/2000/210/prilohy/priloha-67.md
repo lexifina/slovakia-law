@@ -1,3 +1,3 @@
 Príloha č. 67 k vyhláške č. 210/2000 Z. z.
 
-- REFRAKTOMETRE [Príloha 67](../assets/7780ba9bb9e8739098fd7c83d19d62396c95a3201d32195ba0767282c83a77eb.pdf)
+- REFRAKTOMETRE [Príloha 67](../assets/5902a6a580b85ad865c69f6be4831b9f49cba8dba11ecd5ecc2b3dae76d4479b.pdf)

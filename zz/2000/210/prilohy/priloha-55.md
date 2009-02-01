@@ -1,3 +1,3 @@
 Príloha č. 55 k vyhláške č. 210/2000 Z. z.
 
-- ODMERNÉ SKLO [Príloha č. 55 k vyhláške č. 210/2000 Z. z.](../assets/b5b3c521881eab6cfe4f2c8d161049232bea3bae95ff042b47385afd223192c3.pdf)
+- ODMERNÉ SKLO [Príloha č. 55 k vyhláške č. 210/2000 Z. z.](../assets/50b512dd75200e038139ecf5fda7951c6f16e3ba97bbd62ac1d1ae79c216e394.pdf)
