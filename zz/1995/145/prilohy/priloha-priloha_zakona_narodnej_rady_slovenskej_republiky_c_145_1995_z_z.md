@@ -1022,8 +1022,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. za odcudzený preukaz | 6,50 eura
 
-  - Oslobodenie Od poplatku je oslobodené vydanie nového vodičského preukazu po skončení skúšobnej lehoty určenej osobitným právnym predpisom.<sup>19</sup>) |
-
   - Splnomocnenie Pri vydávaní vodičského preukazu vyberie správny orgán poplatok do výšky štvornásobku príslušnej sadzby, ak vydáva vodičský preukaz urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
 
     - Položka 63a
@@ -1034,13 +1032,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 64
 
-  - Povolenie výnimky<sup>20</sup>) z právnych predpisov na úseku bezpečnosti a plynulosti cestnej premávky |
+  - Povolenie výnimky<sup>20</sup>) z právnych predpisov na úseku bezpečnosti a plynulosti cestnej premávky, | |
 
-  - 1. okresným dopravným inšpektorátom ...................................................................................................... | 9,50 eura
+  - a) ktorá nepresahuje územie okresu | |
 
-  - 2. krajským dopravným inšpektorátom ........................................................................................................ | 16,50 eura
+  - | 1. na dobu do jedného roka | 15 eur
 
-  - 3. Ministerstvom vnútra Slovenskej republiky ............................................................................................. | 16,50 eura
+  - | 2. na dobu dlhšiu ako jeden rok | 30 eur
+
+  - b) ktorá presahuje územie okresu a nepresahuje územie kraja | |
+
+  - | 1. na dobu do jedného roka | 20 eur
+
+  - | 2. na dobu dlhšiu ako jeden rok | 60 eur
+
+  - c) ktorá presahuje územie kraja | |
+
+  - | 1. na dobu do jedného roka | 30 eur
+
+  - | 2. na dobu dlhšiu ako jeden rok | 100 eur.
 
     - Položka 65
 
@@ -1056,11 +1066,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 66
 
-  - Žiadosť o vydanie štatistických údajov z evidencie vozidiel v písomnej alebo digitálnej forme na pamäťovom médiu, ktoré neobsahujú osobné údaje držiteľa vozidla |
-
-  - 1. okresným dopravným inšpektorátom ................................................................................................ | 16,50 eura
-
-  - 2. Ministerstvom vnútra Slovenskej republiky ....................................................................................... | 16,50 eura
+  - Podanie žiadosti o vydanie štatistických údajov z evidencie vozidiel alebo z evidencie dopravných nehôd v písomnej alebo elektronickej podobe, ktoré neobsahujú osobné údaje držiteľa vozidla alebo účastníka dopravnej nehody | 16,5 eur
 
     - Položka 67
 
@@ -1132,6 +1138,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Podanie žiadosti o zmenu alebo predĺženie platnosti v udelenom typovom schválení alebo typovom schválení ES cestného vozidla alebo zvláštneho vozidla, v udelenom viacstupňovom typovom schválení alebo typovom schválení ES dokončeného cestného vozidla alebo zvláštneho vozidla, v udelenom typovom schválení alebo typovom schválení ES systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla, v udelenej správe o homologizácii typu systému, komponentu alebo samostatnej technickej jednotky cestného vozidla alebo zvláštneho vozidla, v udelenom schválení hromadnej prestavby typu cestného vozidla alebo zvláštneho vozidla, v základných technických opisoch cestného vozidla alebo zvláštneho vozidla ............................................................................... | 33 eur
 
+    - Položka 69a
+
+  - Povolenie evidencie, uvedenia na trh alebo uvedenia do prevádzky v premávke na pozemných komunikáciách nových vozidiel zhodných s typom vozidla, ktorého typové schválenie alebo typové schválenie ES už stratilo platnosť (vozidlá končiacich sérií) podľa osobitných predpisov,<sup>21a</sup>) a to za každé povolené vozidlo.................. | 33 eur
+
     - Položka 70
 
   - a) Schválenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 995,50 eura
@@ -1178,11 +1188,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 73
 
-  - a) Podanie žiadosti o dočasné vyradenie cestného vozidla alebo zvláštneho vozidla z premávky na pozemných komunikáciách..................................................................................................................... | 3 eurá
+  - a) Podanie žiadosti o dočasné vyradenie cestného vozidla alebo zvláštneho vozidla z premávky na pozemných komunikáciách |
 
-  - b) Podanie žiadosti o povolenie výnimky podľa osobitného predpisu<sup>22ac</sup>).................................................................... | 16,50 eura
+  - 1. v lehote do 1 roka........................................................................................... | 3 eurá
 
-  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie.................................. | 1,50 eura
+  - 2. v lehote od 1 roka do 2 rokov............................................................................. | 16,5 eur
+
+  - 3. v lehote od 2 rokov do 4 rokov........................................................................... | 33 eur
+
+  - 4. v lehote od 4 rokov do 6 rokov............................................................................ | 66 eur
+
+  - 5. v lehote od 6 rokov do 10 rokov............................................................................. | 165,5 eur
+
+  - 6. v lehote nad 10 rokov............................................................................................. | 3 31,5 eur
+
+  - b) Podanie žiadosti o povolenie výnimky podľa osobitného predpisu<sup>22ac)</sup>..................... | 16,50 eura
+
+  - c) Podanie žiadosti o trvalé vyradenie motorového vozidla alebo prípojného vozidla z evidencie.......... | 1,50 eura
+
+  - d) podanie žiadosti o pridelenie náhradného identifikačného čísla vozidla VIN................ | 16,5 eur
 
   - Poznámka |
 
@@ -1232,13 +1256,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Zápis zmeny v dokladoch .................................................................................................................................... | 4,50 eura
 
-  - c) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku ................................................... | 16,50 eura
+  - c) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku ................. | 16,5 eur
 
-  - d) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku ........................................................................................................................................................ | 16,50 eura
+  - d) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku ... | 16,50 eura
 
-  - e) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku ........................................................................................................................................................ | 33 eur
+  - e) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku ..... | 33 eur
 
-  - f) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku ........................................................................................................................................................ | 165,50 eura
+  - f) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku .... | 165,5 eur
+
+  - g) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla ....................................... | 182 eur
+
+  - h) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov .............. | 66 eur
 
   - Poznámky 1. Poplatok podľa písmena b) tejto položky zahŕňa aj vydanie tohto dokladu. 2. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. |
 
@@ -1382,87 +1410,119 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. nadrozmerná preprava |
 
-  - 1.1. pri prekročení prípustnej šírky<sup>24</sup>) vrátane nákladu (vyjadrené v cm) je |
+  - 1.1. pri prekročení prípustnej šírky<sup>24</sup>) vrátane nákladu (vyjadrené vcm) je |
 
-  - do 300,0 ........................................................................................................................................................................ | 16,50 eura
+  - do 300,0 ..... | 16,50 eura
 
-  - od 300,1 do 350,0 ........................................................................................................................................................ | 26,50 eura
+  - od 300,1 do 350,0 ..... | 26,50 eura
 
-  - od 350,1 do 400,0 ........................................................................................................................................................ | 33 eur
+  - od 350,1 do 400,0 ..... | 33 eur
 
-  - od 400,1 do 500,0 ........................................................................................................................................................ | 66 eur
+  - od 400,1 do 500,0 ..... | 66 eur
 
-  - a za každých ďalších aj začatých 10 cm ................................................................................................................... | 16,50 eura
+  - za každých ďalších aj začatých 10 cm ..... | 16,50 eura
 
   - 1.2. pri prekročení prípustnej výšky<sup>24</sup>) vrátane nákladu (vyjadrené v cm) je |
 
-  - do 400,0 ......................................................................................................................................................................... | 16,50 eura
+  - do 400,0 ..... | 16,50 eura
 
-  - od 400,1 do 450,0 ........................................................................................................................................................ | 33 eur
+  - od 400,1 do 450,0 ..... | 33 eur
 
-  - od 450,1 do 500,0 ........................................................................................................................................................ | 99,50 eura
+  - od 450,1 do 500,0 ..... | 99,50 eura
 
-  - a za každých ďalších aj začatých 10 cm ................................................................................................................... | 16,50 eura
+  - a za každých ďalších aj začatých 10 cm ..... | 16,50 eura
 
   - 1.3. pri prekročení prípustnej celkovej dĺžky<sup>24</sup>) vrátane nákladu, ak celková dĺžka jednotlivého vozidla alebo jazdnej súpravy (vyjadrené v m) je |
 
-  - do 12,00 ......................................................................................................................................................................... | 16,50 eura
+  - do 12,00 ..... | 16,50 eura
 
-  - od 12,01 do 22,00 ........................................................................................................................................................ | 99,50 eura
+  - od 12,01 do 22,00 ..... | 99,50 eura
 
-  - nad 22,01 ....................................................................................................................................................................... | 165,50 eura
+  - nad 22,01 ..... | 165,50 eura
 
-  - a za každých ďalších aj začatých 5,0 m ..................................................................................................................... | 49,50 eura
+  - za každých ďalších aj začatých 5,0 m ..... | 49,50 eura
 
   - 2. nadmerná preprava |
 
-  - 2.1. pri prekročení prípustnej celkovej hmotnosti,<sup>25</sup>) ak celková hmotnosť vrátane nákladu(vyjadrené v t) je |
+  - 2.1. pri prekročení prípustnej celkovej hmotnosti,<sup>25</sup>) ak celková hmotnosť vrátane nákladu (vyjadrené v t) je |
 
-  - do 20,00 ........................................................................................................................................................................... | 99,50 eura
+  - do 20,00 ..... | 99,50 eura
 
-  - od 20,01 do 30,00 .......................................................................................................................................................... | 165,50 eura
+  - od 20,01 do 30,00 ..... | 165,50 eura
 
-  - od 30,01 do 50,00 .......................................................................................................................................................... | 265,50 eur
+  - od 30,01 do 50,00 ..... | 265,50 eura
 
-  - a za každých ďalších aj začatých 10 t .......................................................................................................................... | 66 eur
+  - za každých ďalších aj začatých 10 t ..... | 66 eur
 
-  - 2.2. pri prekročení prípustnej hmotnosti na nápravu<sup>25</sup>) ( nápravové zaťaženie) bez rozdielu,o akú nápravu ide, ak preťaženie (vyjadrené v %) je |
+  - 2.2. pri prekročení prípustnej hmotnosti na nápravu<sup>25a</sup>) ( nápravové zaťaženie) bez rozdielu,o akú nápravu ide, ak preťaženie (vyjadrené v %) je |
 
-  - od 3,01 do 5,00 .............................................................................................................................................................. | 82,50 eura
+  - od 3,01 do 5,00 ..... | 82,50 eura
 
-  - od 5,01 do 10,00 ............................................................................................................................................................ | 132,50 eura
+  - od 5,01 do 10,00 ..... | 132,50 eura
 
-  - od 10,01 do 15,00 .......................................................................................................................................................... | 232 eur
+  - od 10,01 do 15,00 ..... | 232 eur
 
-  - od 15,01 do 20,00 .......................................................................................................................................................... | 331,50 eura
+  - od 15,01 do 20,00 ..... | 331,50 eura
 
-  - a za každých ďalších aj začatých 5 % ......................................................................................................................... | 165,50 eura
+  - za každých ďalších aj začatých 5 % ..... | 165,50 eura
 
   - b) za každú jednotlivú tranzitnú prepravu cez územie Slovenskej republiky |
 
-  - 1. nadrozmerná preprava .................................................................................................................................................. | 165,50 eura
+  - 1. nadrozmerná preprava ..... | 165,50 eura
 
-  - 2. ostatné prípady ................................................................................................................................................................ | 331,50 eura
+  - 2. ostatné prípady ..... | 331,50 eura
 
   - c) za prepravu nadmerného alebo nadrozmerného stavebného mechanizmu po vlastnej osi alebo na podvozku |
 
   - 1. za každú jednotlivú prepravnú trasu a prepravný zámer, ak celková hmotnosť stavebného mechanizmu vrátane podvozku a ťahača |
 
-  - 1.1. neprekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m a nie sú prekročené prípustné hmotnosti na nápravu .......................................................................................................................................................... | 99,50 eura
+  - 1.1. neprekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m a nie sú prekročené prípustné hmotnosti na nápravu ..... | 99,50 eura
 
-  - 1.2. prekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m alebo sú prekročené hmotnosti na jednu nápravu .................................................................................................................................................................. | 199 eur
+  - 1.2. prekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m alebo sú prekročené hmotnosti na jednu nápravu ..... | 199 eur
 
   - 2. za prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac troch mesiacov |
 
-  - 2.1. pri splnení podmienok podľa bodu 1.1. ................................................................................................................ | 497,50 eura
+  - 2.1. pri splnení podmienok podľa bodu 1.1. ..... | 497,50 eura
 
-  - 2.2. pri splnení podmienok podľa bodu 1.2. ................................................................................................................ | 995,50 eura
+  - 2.2. pri splnení podmienok podľa bodu 1.2. ..... | 995,50 eura
 
   - Oslobodenie Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti so žatevnými a zberovými prácami. |
 
-  - Splnomocnenie 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. 2. Poplatok vyberaný správcom komunikácie za nadrozmernú a nadmernú prepravu na mieste merania vozidla sa zvýši na dvojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. 3. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu sa zvýši na trojnásobok, ak dopravca nezaplatil poplatok na mieste merania vozidla. 4. Správny orgán môže pri nadrozmerných alebo nadmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. |
+  - Splnomocnenie |
 
-  - Poznámky 1. Poplatok podľa tejto položky na hraničných priechodoch vyberá správca priľahlého úseku diaľnice alebo cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky na mieste merania vozidla na území Slovenskej republiky s výnimkou hraničných priechodov vyberá správca pozemnej komunikácie. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>),<sup>25</sup>) 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške, alebo v dĺžke. 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj tlačné alebo pomocné motorové vozidlá, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty. 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1.], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1. (1.1. až 1.3.). 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave. Poplatok sa určí z tých hmotností, z ktorých vychádza vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá. 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel. 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá. 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1. a 2.2. 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1. a 2. 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a) ešte sadzba podľa písmena b). 13. Poplatky podľa písmena c) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania. |
+  - 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. |
+
+  - 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. |
+
+  - 3. Správny orgán môže pri nadrozmerných alebo nadmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. |
+
+  - Poznámky |
+
+  - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. |
+
+  - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>). |
+
+  - 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške, alebo v dĺžke.. |
+
+  - 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj tlačné alebo pomocné motorové vozidlá, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty.. |
+
+  - 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1.], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1. (1.1. až 1.3.).. |
+
+  - 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave. Poplatok sa určí z tých hmotností, z ktorých vychádza vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá.. |
+
+  - 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel.. |
+
+  - 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá.. |
+
+  - 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony.. |
+
+  - 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1. a 2.2.. |
+
+  - 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1. a 2.. |
+
+  - 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a) ešte sadzba podľa písmena b).. |
+
+  - 13. Poplatky podľa písmena c) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania. |
 
     - Položka 80a
 
@@ -3492,62 +3552,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Poznámka Ak podania podľa písmen a) až d) sú predložené do 5 dní od písomného podania na riadne označenej 3,5 palcovej diskete, CD, DVD, alebo zaslané elektronickou poštou, príslušné súbory sú označené zodpovedajúcim číslom patentovej prihlášky a upravené vo formáte „doc", alebo vo formáte „rtf" s použitými základnými typmi písma, prípadným predložením obrazových častí vo formáte „tiff" s rozlíšením 300 alebo 600 dpi, vyberie sa poplatok vo výške dvoch tretín príslušnej sadzby. |
 
-      - Položka 218
-
-    - 1. Udržiavanie platnosti patentu, európskeho patentu za |
-
-    - a) 3. rok | 66 eur
-
-    - b) 4. rok | 82,50 eura
-
-    - c) 5. rok | 99,50 eura
-
-    - d) 6. rok | 116 eur
-
-    - e) 7. rok | 132,50 eura
-
-    - f) 8. rok | 149 eur
-
-    - g) 9. rok | 165,50 eura
-
-    - h) 10. rok | 199 eur
-
-    - i) 11. rok | 232 eur
-
-    - j) 12. rok | 265,50 eura
-
-    - k) 13. rok | 298,50 eura
-
-    - l) 14. rok | 331,50 eura
-
-    - m) 15. rok | 365 eur
-
-    - n) 16. rok | 398 eur
-
-    - o) 17. rok | 464,50 eura
-
-    - p) 18. rok | 531 eur
-
-    - q) 19. rok | 597 eur
-
-    - r) 20. rok | 663,50 eura
-
-    - 2. Udržiavanie platnosti dodatkového ochranného osvedčenia za |
-
-    - a) 1. rok | 995,50 eura
-
-    - b) 2. rok | 1 327,50 eura
-
-    - c) 3. rok | 1 659,50 eura
-
-    - d) 4. rok | 1 991,50 eura
-
-    - e) 5. rok | 2 323,50 eura
-
-    - 3. Udržiavanie platnosti dodatkového ochranného osvedčenia počas doby predĺženej podľa osobitného predpisu<sup>47</sup>) | 829,50 eura
-
-    - Poznámky 1. Poplatky za udržiavanie patentu v platnosti sa platia za roky trvania patentu počítané odo dňa podania patentovej prihlášky. 2. Poplatky za udržiavanie európskeho patentu v platnosti sa platia za roky trvania platnosti európskeho patentu počítané odo dňa podania európskej patentovej prihlášky. 3. Poplatky za udržiavanie dodatkového ochranného osvedčenia v platnosti sa platia za roky počítané odo dňa podania patentovej prihlášky alebo podania európskej patentovej prihlášky, ktoré nadväzujú na posledný rok platnosti patentu alebo platnosti európskeho patentu. 4. Prvý poplatok za udržiavanie platnosti patentu sa platí vo výške ustanovenej zákonom platným v čase rozhodnutia o udelení patentu a je splatný najneskôr do troch mesiacov odo dňa nadobudnutia právoplatnosti rozhodnutia o udelení patentu. V rozhodnutí o udelení patentu sa uvedie údaj o výške poplatku. 5. Prvý poplatok za udržiavanie platnosti európskeho patentu sa platí bez výzvy až za rok, ktorý nasleduje po roku, v ktorom bolo udelenie európskeho patentu oznámené v Európskom patentovom vestníku a je splatný najneskôr dňa, ktorý je zhodný s dňom a mesiacom podania európskej patentovej prihlášky, v roku, v ktorom bolo udelenie európskeho patentu oznámené v Európskom patentovom vestníku alebo do 2 mesiacov odo dňa oznámenia o udelení európskeho patentu v Európskom patentovom vestníku podľa toho, ktorá z týchto lehôt uplynie neskôr. 6. Prvý poplatok za udržiavanie platnosti dodatkového ochranného osvedčenia je splatný bez výzvy pred uplynutím posledného roku platnosti patentu alebo európskeho patentu alebo do 2 mesiacov odo dňa nadobudnutia právoplatnosti rozhodnutia o udelení dodatkového ochranného osvedčenia podľa toho, ktorá z týchto lehôt uplynie neskôr. 7. Poplatok za udržiavanie platnosti patentu, európskeho patentu, dodatkového ochranného osvedčenia za každý ďalší nasledujúci rok sa platí bez výzvy a je splatný v predchádzajúcom roku platnosti patentu, európskeho patentu, dodatkového ochranného osvedčenia, najneskôr dňa, v ktorom uplynie predchádzajúci rok platnosti patentu, európskeho patentu, dodatkového ochranného osvedčenia. 8. Ak sa poplatok nezaplatí v lehotách uvedených v druhom až siedmom bode, môže sa zaplatiť ešte v ďalšej lehote šiestich mesiacov. V tomto prípade sa poplatok zvyšuje na dvojnásobok. 9. Za udržiavanie platnosti patentu, európskeho patentu alebo dodatkového ochranného osvedčenia, na ktoré dal majiteľ ponuku licencie sa platia poplatky vo výške 50 % príslušnej sadzby. |
-
     - Položka 220
 
   - Za úkony úradu spojené s podaním medzinárodnej prihlášky podľa Zmluvy o patentovej spolupráci ................. | 66 eur
@@ -3592,7 +3596,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - d) Podanie žiadosti o prepis majiteľa úžitkového vzoru ..... | 33 eur
 
-    - Poznámka Ak podania podľa písmen a) a b) sú predložené do 5 dní od písomného podania na riadne označenej 3,5 palcovej diskete, CD, DVD, alebo zaslané elektronickou poštou, príslušné súbory sú označené zodpovedajúcim číslom prihlášky úžitkového vzoru a upravené vo formáte „doc", alebo vo formáte „rtf" s použitými základnými typmi písma, prípadným predložením obrazových častí vo formáte „tiff" s rozlíšením 300 alebo 600 dpi, vyberie sa poplatok vo výške dvoch tretín príslušnej sadzby. |
+    - Poznámka Ak podania podľa písmen a) až c) sú predložené do 5 dní od písomného podania na riadne označenej 3,5 palcovej diskete, CD, DVD, alebo zaslané elektronickou poštou, príslušné súbory sú označené zodpovedajúcim číslom prihlášky úžitkového vzoru a upravené vo formáte „doc", alebo vo formáte „rtf" s použitými základnými typmi písma, prípadným predložením obrazových častí vo formáte „tiff" s rozlíšením 300 alebo 600 dpi, vyberie sa poplatok vo výške dvoch tretín príslušnej sadzby. |
 
       - Položka 223
 

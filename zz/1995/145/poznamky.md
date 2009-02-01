@@ -96,11 +96,13 @@
 
 - 19a) § 41 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 510/2003 Z. z.
 
-- 20) § 127 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+- 20) § 140 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
 - 20a) § 61 zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 21) § 14, 18 a 19 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek, § 11 nariadenia vlády Slovenskej republiky č. 135/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES motorových vozidiel a ich prípojných vozidiel a § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
 
 - 22) § 4 zákona č. 725/2004 Z. z.
 
@@ -118,11 +120,11 @@
 
 - 23) § 23 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov.
 
-- 24) § 6 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách.
+- 24) Bod 1 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z. o najväčších prípustných rozmeroch a najväčšej prípustnej hmotnosti niektorých vozidiel.
 
-- 25) § 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
+- 25) Bod 2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
 
-- 25a) § 3 ods. 3 písm. m) zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+- 25a) Bod 3 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
 
 - 25b) § 39 ods. 1 písm. e) zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
