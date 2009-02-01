@@ -64,8 +64,6 @@
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
-- 26) § 31 ods. 6 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
-
 - 26a) § 40 ods. 5 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 27) Napríklad § 22 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 2 ods. 3 zákona č. 144/1998 Z. z.
