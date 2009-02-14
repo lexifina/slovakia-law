@@ -1,0 +1,1 @@
+Pavol Paška v. r.
