@@ -182,6 +182,20 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 
 - - smernice Komisie 2008/70/ES z 11. júla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tritosulfuron medzi účinné látky (Ú. v. EÚ L 185, 12. 7. 2008),
 
+- – smernice Komisie 2008/91/ES z 29. septembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť diurón medzi účinné látky (Ú. v. EÚ L 262, 1. 10. 2008),
+
+- – smernica Komisie 2008/107/ES z 25. novembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť abamektín, epoxikonazol, fenpropimorf, fenpyroximát a tralkoxydim ako účinné látky (Ú. v. EÚ L 316, 26. 11. 2008),
+
+- – smernice Komisie 2008/108/ES z 26. novembra 2008, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť flutolanil, benfluralín, fluazinam, fuberidazol a mepikvat medzi účinné látky (Ú. v. EÚ L 317, 27. 11. 2008),
+
+- – smernica Komisie 2008/113/ES z 8. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré mikroorganizmy ako účinné látky (Ú. v. EÚ L 330, 9. 12. 2008),
+
+- – smernica Komisie 2008/116/ES z 15. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky aklonifen, imidakloprid a metazachlór ako účinné látky (Ú. v. EÚ L 337, 16. 12. 2008),
+
+- – smernica Komisie 2008/125/ES z 19. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 344, 20. 12. 2008),
+
+- – smernica Komisie 2008/127/ES z 18. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré účinné látky (Ú. v. EÚ L 344, 20. 12. 2008).
+
 - 2. Smernica Komisie 2004/63/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/79/ES, pokiaľ ide o stanovené termíny (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
 
 - 3. Smernica Komisie 2004/64/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/84/ES o časových obmedzeniach (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
