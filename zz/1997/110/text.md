@@ -98,10 +98,6 @@ Podľa oznámenia č. 416/2007 Z. z. sa skončí platnosť Dohovoru Medzinárodn
 
 (Ženeva 21. júna 1934, č. 353/1938 Zb.)
 
-22. Dohovor Medzinárodnej organizácie práce o zamestnávaní žien pod zemou v baniach akéhokoľvek druhu č. 45/1935 (Convention of the International Labour Organization concerning the Employment of Women on Underground Work in Mines of All Kinds No. 45/1935)
-
-(Ženeva 21. júna 1935, č. 441/1990 Zb.)
-
 23. Dohovor Medzinárodnej organizácie práce o skrátení pracovného času v sklárňach na výrobu fliaš č. 49/1935 (Convention of the International Labour Organization concerning the Reduction of Hours of Work in Glass-Bottle Works No. 49/1935)
 
 (Ženeva 25. júna 1935, č. 354/1938 Zb.)
