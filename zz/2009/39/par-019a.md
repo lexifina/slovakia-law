@@ -1,0 +1,3 @@
+# § 19a Plat za neaktívnu časť pracovnej pohotovosti na pracovisku
+
+Ak je zamestnancovi nariadená alebo s ním dohodnutá pracovná pohotovosť na pracovisku, patrí mu za každú hodinu neaktívnej časti pracovnej pohotovosti 50 %, a ak ide o deň pracovného pokoja 100 % hodinovej sadzby jeho funkčného platu. Za neaktívnu časť pracovnej pohotovosti na pracovisku zamestnancovi nepatrí príplatok podľa § 16 až 18 a plat za prácu nadčas podľa § 19. Ak sa zamestnávateľ so zamestnancom dohodnú na poskytnutí náhradného voľna za neaktívnu časť pracovnej pohotovosti na pracovisku, patrí zamestnancovi plat podľa prvej vety a za hodinu tejto pracovnej pohotovosti hodina náhradného voľna; za čas čerpania náhradného voľna zamestnancovi nepatrí funkčný plat.
