@@ -1,313 +1,223 @@
 Príloha č. 1 k zákonu č. 595/2003 Z. z.
 
-- ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN Odpisová skupina 1 | |
+- ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN | | Odpisová skupina 1
 
-- Položka<sup>1</sup>) | KP<sup>2</sup>) | Názov<sup>3</sup>)
+- Položka | KP | Názov
 
-- 1-1 | 01.21.11 | Hovädzí dobytok plemenný a chovný
+- 1-1 | 01.41.10 | Dojnice živé
 
-- 1 -2 | 01.22.11 | Ovce plemenné a chovné
+- 1-2 | 01.42.11 | Ostatný hovädzí dobytok a byvoly okrem teliat živé
 
-- 1 -3 | 01.22.12 | Kozy plemenné a chovné
+- 1-3 | 01.43.10 | Len: ostatné koňovité zvieratá živé
 
-- 1 -4 | 01.22.13 | Len: somáre, muly a mulice plemenné
+- 1-4 | 01.45.1 | Ovce a kozy živé
 
-- 1 -5 | 01.23.10 | Ošípané plemenné a chovné
+- 1-5 | 01.46.10 | Ošípané živé
 
-- 1 -6 | 01.24.1 | Hydina plemenná a chovná: len husi a gunáre
+- 1-6 | 01.47.13 | Husi živé
 
-- 1-7 | 25.24.25 | Ochranné pokrývky hlavy: klobúky a iné pokrývky z kaučuku alebo plastov
+- 1-7 | 13.92.22 | Nepremokavé plachty, ochranné a tieniace plachty; lodné plachty na člny, na dosky na plachtenie na vode alebo na súši, stany a kempingový tovar
 
-- 1 -8 | 25.24.27 | Kancelárske a školské potreby z plastov
+- 1-8 | 22.29 | Ostatné výrobky z plastov
 
-- 1 -9 | 26.15.23 | Laboratórne sklo, sklo pre zdravotníctvo a farmaceutické účely
+- 1-9 | 23.19.2 | Technické a ostatné sklo
 
-- 1 - 10 | 26.24.1 | Laboratórna chemická alebo iná technická keramika
+- 1-10 | 23.44 | Ostatné keramické výrobky na technické účely
 
-- 1-11 | 26.81.11 | Mlynské kamene, brúsne kamene, brúsne kotúče a podobné výrobky
+- 1-11 | 23.9 | Ostatné nekovové minerálne výrobky
 
-- 1-12 | 28.62 | Nástroje, okrem 28.62.50 - ostatné nástroje
+- 1-12 | 25.73 | Nástroje okrem: – 25.73.5 – Formy; formovacie rámy pre zlievarne kovov; formovacie základne; modely na formy – 25.73.6 – Ostatné nástroje
 
-- 1 - 13 | 29.32.14 | Rozmetávače hnoja a umelých hnojív
+- 1-13 | 26.2 | Počítače a periférne zariadenia
 
-- 1-14 | 29.32.4 | Mechanické prístroje na striekanie, rozstrekovanie a rozprašovanie kvapalín alebo práškov pre poľnohospodárstvo alebo záhradníctvo
+- 1-14 | 26.3 | Komunikačné zariadenia
 
-- 1 - 15 | 29.32.5 | Samonakladacie alebo samovýklopné prívesy a návesy na poľnohospodárske účely
+- 1-15 | 26.4 | Spotrebná elektronika
 
-- 1 - 16 | 29.32.65 | Stroje a prístroje pre poľnohospodárstvo, záhradníctvo, lesníctvo, hydinárstvo a včelárstvo inde nezaradené
+- 1-16 | 26.51 | Meracie, testovacie a navigačné zariadenia
 
-- 1-17 | 29.41.1 | Ručné náradie pneumatické alebo so vstavaným motorom
+- 1-17 | 26.7 | Optické a fotografické prístroje a zariadenia
 
-- 1 - 18 | 30.0 | Kancelárske stroje a počítače
+- 1-18 | 28.23 | Kancelárske stroje a zariadenia okrem počítačov a periférnych zariadení
 
-- 1 - 19 | 32.20.11 | Vysielacie prístroje pre rádiotelefóniu, rádiotelegrafiu, rozhlasové alebo televízne vysielanie
+- 1-19 | 28.24 | Ručné nástroje
 
-- 1 -20 | 32.20.12 | Televízne kamery
+- 1-20 | 28.29.3 | Technické a domáce váhy a ostatné prístroje a zariadenia na váženie a meranie
 
-- 1-21 | 32.20.20 | Elektrické prístroje pre drôtové telefóny a telegrafiu
+- 1-21 | 28.3 | Stroje pre poľnohospodárstvo a lesníctvo
 
-- 1-22 | 32.30.11 | Rozhlasové prijímače okrem autorádií fungujúcich bez vonkajšieho zdroja energie
+- 1-22 | 28.93 | Stroje na výrobu potravín, nápojov a na spracovanie tabaku
 
-- 1 -23 | 32.30.44 | Prijímacie prístroje pre rádiotelefóniu alebo rádiotelegrafiu inde neuvedené
+- 1-23 | 28.94 | Stroje pre textilný, odevný a kožiarsky priemysel
 
-- 1-24 | 33.2 | Meracie, kontrolné, testovacie, navigačné a iné prístroje a zariadenia
+- 1-24 | 29.10.2 | Osobné automobily
 
-- 1-25 | 33.3 | Zariadenia na riadenie výrobných procesov
+- 1-25 | 29.10.3 | Motorové vozidlá na prepravu desať a viac osôb (autobusy) okrem trolejbusov a elektrobusov
 
-- 1 -26 | 33.40.22 | Binokulárne, monokulárne ďalekohľady a ostatné optické teleskopy, ostatné astronomické prístroje
+- 1-26 | 29.10.4 | Motorové vozidlá na prepravu nákladu
 
-- 1-27 | 34.10.2 | Ostatné automobily (vrátane dodávkových do užitočného zaťaženia 1,5 t)
+- 1-27 | 30.92 | Bicykle a vozíky pre invalidov
 
-- 1-28 | 34.10.3 | Motorové vozidlá na prepravu 10 a viac osôb (autobusy) okrem trolejbusov a elektrobusov
+- 1-28 | 32.40 | Hry a hračky okrem: – 32.40.4 – Ostatné hry
 
-- 1 -29 | 34.10.4 | Motorové vozidlá pre nákladnú dopravu s užitočným zaťažením nad 1,5 t
+- 1-29 | 32.9 | Výrobky inde nezaradené
 
-- 1-30 | 34.10.53 | Motorové vozidlá na jazdu na snehu, špeciálne vozidlá na prepravu osôb na golfových ihriskách a pod., s motorom
+- | | Odpisová skupina 2
 
-- 1 -31 | 35.42 | Bicykle
+- Položka | KP | Názov
 
-- 1 -32 | 36.5 | Hry a hračky: okrem 36.50.4 výrobky pre lunaparky, stolové alebo spoločenské hry
+- 2-1 | 01.43.10 | Len: kone – živé
 
-- 1 -33 | 36.63.2 | Písacie potreby
+- 2-2 | 13.9 | Ostatné textílie okrem:
 
-- 1 -34 | 36.63.72 | Kočíky
+- | | – 13.92.22 – Nepremokavé plachty, ochranné a tieniace plachty; lodné plachty na člny, na dosky na plachtenie na vode alebo na súši; stany a kempingový tovar
 
-- 1 -35 | 36.63.74 | Nástroje, prístroje a modely určené na predvádzacie účely
+- 2-3 | 15 | Usne a výrobky z usní
 
-- 1 -36 | 36.63.76 | Umelé kvety, lístie, ovocie a ich súčasti
+- 2-4 | 16.23.2 | Montované stavby z dreva, ak nie sú samostatnými stavebnými objektmi pripojenými na inžinierske siete
 
-- 1-37 | 36.63.77 | Ostatné rozličné výrobky inde neuvedené
+- 2-5 | 22.23.2 | Montované stavby z plastov, ak nie sú samostatnými stavebnými objektmi pripojenými na inžinierske siete
 
-- Odpisová skupina 2 | |
+- 2-6 | 25.21 | Radiátory a kotly ústredného kúrenia
 
-- Položka<sup>1</sup>) | KP<sup>2</sup>) | Názov<sup>3</sup>)
+- 2-7 | 25.7 | Nožiarske výrobky, nástroje a železiarsky tovar okrem:
 
-- 2- 1 | 01.22.13 | Len: kone plemenné, úžitkové a chovné
+- | | – 25.71.15 – Meče, tesáky, bodáky, kopije a podobné zbrane a ich časti
 
-- 2-2 | 17.40.2 | Ostatné konfekčné výrobky
+- | | – 25.73 – Nástroje
 
-- 2-3 | 17.51.1 | Koberce a dlážkové textílie
+- 2-8 | 25.9 | Ostatné hotové kovové výrobky okrem: – 25.99.2 – Ostatné výrobky zo základných kovov
 
-- 2-4 | 17.52 | Povraznícke výrobky, šnúry, laná, sieťoviny, motúzy
+- 2-9 | 26.52 | Hodiny a hodinky
 
-- 2-5 | 17.54 | Ostatné textílie inde neuvedené
+- 2-10 | 26.6 | Prístroje na ožarovanie, elektromedicínske a elektroterapeutické prístroje
 
-- 2-6 | 19.2 | Brašnárske a sedlárske výrobky a iné výrobky z kože
+- 2-11 | 27.11.31 | Generátorové agregáty s piestovým vznetovým motorom s vnútorným spaľovaním
 
-- 2-7 | 20.30.2 | Montované stavby z dreva: ak nie sú samostatnými stavebnými objektmi alebo technologickým zariadením (podlá rozhodnutia príslušného úradu životného prostredia)
+- 2-12 | 27.2 | Batérie a akumulátory
 
-- 2-8 | 22.1 | Knihy, noviny a ostatné tlačiarenské materiály a záznamové mediá
+- 2-13 | 27.3 | Drôty a elektroinštalačné zariadenia
 
-- 2-9 | 25.23.2 | Montované stavby z plastov (prefabrikované bunky), ak nie sú samostatnými stavebnými objektmi alebo technologickým zariadením (podľa rozhodnutia príslušného úradu životného prostredia)
+- 2-14 | 27.4 | Elektrické svietidlá
 
-- 2-10 | 25.24 | Ostatné výrobky z plastov okrem: - 25.24.25 - Ochranné pokrývky hlavy - 25.24.27 - Kancelárske a školské potreby z plastov
+- 2-15 | 27.5 | Prístroje pre domácnosť
 
-- 2-11 | 28.61 | Nožiarsky tovar
+- 2-16 | 27.9 | Ostatné elektrické zariadenia
 
-- 2-12 | 28.63 | Zámky a kovanie
+- 2-17 | 28.11.11 | Závesné lodné motory
 
-- 2-13 | 28.71 | Oceľové sudy a podobné nádoby
+- 2-18 | 28.12 | Zariadenia na kvapalný pohon
 
-- 2-14 | 28.72 | Nádoby z ľahkých kovov
+- 2-19 | 28.13 | Ostatné čerpadlá a kompresory
 
-- 2-15 | 29.11.11 | Prívesné lodné motory
+- 2-20 | 28.22 | Zdvíhacie a manipulačné zariadenia
 
-- 2-16 | 29.12 | Čerpadlá a kompresory
+- 2-21 | 28.25.13 | Chladiace a mraziace zariadenia a tepelné čerpadlá okrem typov pre domácnosti
 
-- 2-17 | 29.22.14 | Len: žeriavy stavebné (konštruované pre stavebníctvo)
+- 2-22 | 28.29 | Ostatné stroje a zariadenia na všeobecné účely inde neuvedené okrem: – 28.29.1 – Plynové generátory, destilačné a filtračné prístroje
 
-- 2-18 | 29.22.15 | Vidlicové stohovacie vozíky, iné vozíky vybavené zdvíhacím a manipulačným zariadením, malé ťahače používané na železničných staniciach
+- | | – 28.29.3 – Technické a domáce váhy a ostatné prístroje a zariadenia na váženie a meranie
 
-- 2-19 | 29.22.17 | Pneumatické a ostatné elevátory a dopravníky na nepretržité premiestňovanie tovaru a materiálov
+- 2-23 | 28.4 | Stroje na tvarovanie kovov a obrábanie
 
-- 2-20 | 29.22.18 | Ostatné zdvíhacie, manipulačné, nakladacie alebo vykladacie zariadenia
+- 2-24 | 28.92 | Stroje pre hlbinnú a povrchovú ťažbu a pre stavebníctvo
 
-- 2-21 | 29.23.13 | Chladiace a mraziace stroje, tepelné čerpadlá okrem zariadení pre domácnosť
+- 2-25 | 28.95 | Stroje a prístroje na výrobu papiera a lepenky
 
-- 2-22 | 29.24.2 | Stroje a prístroje na čistenie alebo sušenie fliaš, balenie a váženie, striekacie a rozstrekovacie prístroje, kovoplastické tesnenia
+- 2-26 | 28.96 | Stroje na výrobu plastov a gumy
 
-- 2-23 | 29.24.3 | Odstredivky, kalandre a predajné automaty
+- 2-27 | 28.99 | Ostatné stroje a prístroje na špeciálne účely inde neuvedené
 
-- 2-24 | 29.24.4 | Stroje, prístroje a laboratórne zariadenia inde neuvedené na spracovanie materiálu výrobnými postupmi spočívajúcimi v zmene teploty
+- 2-28 | 29.10.3 | Len: trolejbusy a elektrobusy
 
-- 2-25 | 29.24.6 | Umývačky riadu priemyselného charakteru
+- 2-29 | 29.10.5 | Motorové vozidlá na špeciálne účely
 
-- 2-26 | 29.31 | Traktory pre poľnohospodárstvo a lesníctvo
+- 2-29 | 29.2 | Karosérie motorových vozidiel; prívesy a návesy
 
-- 2-27 | 29.32 | Ostatné stroje pre poľnohospodárstvo a lesníctvo okrem:
+- 2-30 | 30.12 | Rekreačné a športové člny
 
-- | | - 29.32.14 - Rozmetávače hnoja a umelých hnojív
+- 2-31 | 30.20.33 | Len: vozidlá koľajové banské a lokálky (železnice osobitného určenia)
 
-- | | - 29.32.4 - Mechanické prístroje na striekanie, rozstrekovanie, alebo rozprašovanie kvapalín alebo práškov pre poľnohospodárstvo alebo záhradníctvo
+- 2-32 | 30.3 | Lietadlá a kozmické lode a podobné zariadenia
 
-- | | - 29.32.5 - Samonakladacie alebo samovýklopné prívesy a návesy na poľnohospodárske účely
+- 2-33 | 30.91.1 | Motocykle a prívesné vozíky
 
-- | | - 29.32.65 - Stroje a prístroje pre poľnohospodárstvo, záhradníctvo, lesníctvo, hydinárstvo a včelárstvo
+- 2-34 | 30.99 | Ostatné dopravné zariadenia inde neuvedené
 
-- 2-28 | 29.4 | Obrábacie stroje okrem 29.41.1 - ručné náradie pneumatické alebo so vstavaným motorom
+- 2-35 | 31.0 | Nábytok
 
-- 2-29 | 29.52.1 | Stroje na hlbinnú ťažbu
+- 2-36 | 32.2 | Hudobné nástroje
 
-- 2-30 | 29.52.2 | Stroje na premiestňovanie zeminy a povrchovú ťažbu s vlastným pohonom okrem kolesových rýpadiel a nakladačov
+- 2-37 | 32.3 | Športové výrobky
 
-- 2-31 | 29.52.3 | Ostatné stroje na povrchovú ťažbu
+- 2-38 | 32.40.4 | Ostatné hry
 
-- 2-32 | 29.52.4 | Stroje a zariadenia na triedenie, rozdrvenie, zmiešavanie a jednoduché spracovanie zeminy, kameňa, rúd a ostatných nerastných látok
+- 2-39 | 32.5 | Lekárske a stomatologické nástroje a potreby
 
-- 2-33 | 29.52.5 | Pásové traktory
+- 2-40 | | Technické zhodnotenie nehnuteľnej kultúrnej pamiatky
 
-- 2-34 | 29.53.1 | Stroje pre potravinársky priemysel a spracovanie tabaku
+- 2-41 | | Jednotlivé oddeliteľné súčasti zabudované v stavbách určené na samostatné odpisovanie (§ 22 ods. 15): – rozvody počítačových sietí
 
-- 2-35 | 29.54 | Stroje pre textilný, odevný a kožiarsky priemysel
+- | | Odpisová skupina 3
 
-- 2-36 | 29.56 | Ostatné účelové stroje
+- Položka | KP | Názov
 
-- 2-37 | 29.6 | Zbrane a munícia
+- 3-1 | 23.61.20 | Montované budovy z betónu, ak nie sú samostatnými stavebnými objektmi pripojenými na inžinierske siete
 
-- 2-38 | 29.7 | Prístroje pre domácnosť inde nedefinované
+- 3-2 | 25.11.10 | Montované budovy z kovov, ak nie sú samostatnými stavebnými objektmi pripojenými na inžinierske siete
 
-- 2-39 | 31.10.31 | Elektrické generátorové agregáty s piestovým vznetovým motorom s vnútorným spaľovaním
+- 3-3 | 25.29 | Ostatné nádrže, zásobníky a kontajnery z kovov
 
-- 2-40 | 31.4 | Akumulátory, galvanické články a batérie
+- 3-4 | 25.3 | Parné kotly okrem kotlov na centrálny ohrev teplej vody
 
-- 2-41 | 31.5 | Elektrické zdroje svetla a svietidlá
+- 3-5 | 25.4 | Zbrane a munícia
 
-- 2-42 | 31.62 | Ostatné elektrické vybavenie
+- 3-6 | 25.71.15 | Meče, tesáky, bodáky, kopije a podobné zbrane a ich časti
 
-- 2-43 | 32.20 | Televízne a rozhlasové vysielače, drôtové telefóny a ďalekopisné prístroje okrem:
+- 3-7 | 25.99.2 | Ostatné výrobky zo základných kovov
 
-- | | - 32.20. 1 1 - Vysielacie prístroje pre rádiotelefóniu, rádiotelegrafiu, rozhlasové alebo televízne vysielanie
+- 3-8 | 27.1 | Elektrické motory, generátory a transformátory a elektrické rozvodné a ovládacie zariadenia okrem: – 27.11.31 – Generátorové agregáty s piestovým vznetovým motorom s vnútorným spaľovaním
 
-- | | - 32.20. 12 - Televízne kamery
+- 3-9 | 28.11.12 | Zážihové spaľovacie lodné motory, ostatné motory
 
-- | | - 32.20.20 - Elektrické prístroje pre drôtové telefóny a telegrafiu
+- 3-10 | 28.11.13 | Ostatné piestové vznetové motory s vnútorným spaľovaním
 
-- 2-44 | 32.30 | Televízne a rozhlasové prijímače, prístroje na záznam a reprodukciu zvuku alebo obrazu okrem:
+- 3-11 | 28.11.2 | Turbíny
 
-- | | - 32.20. 1 1 - Rozhlasové prijímače okrem autorádií fungujúcich bez vonkajšieho zdroja energie
+- 3-12 | 28.21.1 | Pece, horáky a ich časti
 
-- | | - 32.30.44 - Prijímacie prístroje pre rádiotelefóniu alebo rádiotelegrafiu
+- 3-13 | 28.25 | Chladiace a vetracie zariadenia okrem zariadení pre domácnosť a okrem: – 28.25.13 – Chladiace a mraziace zariadenia a tepelné čerpadlá okrem typov pre domácnosti
 
-- 2-45 | 33.10 | Zdravotnícke a chirurgické zariadenia, prístroje na ortopedické účely
+- 3-14 | 28.29.1 | Plynové generátory, destilačné a filtračné prístroje
 
-- 2-46 | 33.20.3 | Presné váhy, kresliace, rysovacie, počítacie, meracie prístroje a nástroje a pod.
+- 3-15 | 28.91 | Stroje pre metalurgiu
 
-- 2-47 | 33.4 | Optické nástroje a fotografické zariadenia okrem: - 33.40.22 - Binokulárne, monokulárne ďalekohľady a ostatné optické teleskopy, ostatné astronomické prístroje, optické mikroskopy
+- 3-16 | 30.11 | Lode a plavidlá
 
-- 2-48 | 33.50.1 | Hodiny a hodinky
+- 3-17 | 30.2 | Železničné lokomotívy a vozový park okrem: – 30.20.33 – Vozidlá koľajové banské a lokálky (železnice osobitného určenia)
 
-- 2-49 | 34.10.3 | Len: trolejbusy a elektrobusy
+- 3-18 | 30.4 | Vojenské bojové vozidlá
 
-- 2-50 | 34.10.51 | Terénne vyklápacie vozy (dampery)
+- 3-19 | | Pestovateľské celky trvalých porastov s časom plodnosti dlhším ako tri roky
 
-- 2-51 | 34.10.52 | Žeriavové automobily
+- 3-20 | | 2213 KS – Diaľkové telekomunikačné siete a vedenia
 
-- 2-52 | 34.10.54 | Motorové vozidlá na špeciálne účely inde neuvedené
+- 3-21 | | 2224 KS – Miestne elektrické a telekomunikačné rozvody a vedenia
 
-- 2-53 | 34.20.2 | Prívesy a návesy: kontajnery
+- 3-22 | | Drobné stavby vymedzené osobitným predpisom<sup>107)</sup> okrem § 22 ods. 2 písm. b) druhého bodu
 
-- 2-54 | 34.30.20 | Ostatné samostatné predmety pre motorové vozidlá
+- 3-33 | | Jednotlivé oddeliteľné súčasti zabudované v stavbách určené na samostatné odpisovanie (§ 22 ods. 15): – klimatizačné zariadenia
 
-- 2-55 | 35.12 | Rekreačné a športové člny
+- | | – osobné a nákladné výťahy
 
-- 2-56 | 35.20.33 | Len: vozidlá koľajové banské a lokálky (železnice osobitného určenia)
+- | | – eskalátory a pohyblivé chodníky
 
-- 2-57 | 35.3 | Lietadlá a kozmické lode
+- | | Odpisová skupina 4
 
-- 2-58 | 35.41.1 | Motocykle a prívesné vozíky k motocyklom
-
-- 2-59 | 35.43 | Vozíky pre invalidov
-
-- 2-60 | 35.50.1 | Ostatné dopravné zariadenia inde neuvedené
-
-- 2-61 | 36.1 | Nábytok
-
-- 2-62 | 36.3 | Hudobné nástroje
-
-- 2-63 | 36.4 | Športové výrobky
-
-- 2-64 | 36.50.4 | Výrobky pre lunaparky, pre stolové alebo spoločenské hry
-
-- 2-65 | 36.63.1 | Kolotoče, hojdačky, strelnice a ostatné lunaparkové atrakcie
-
-- 2-66 | | Technické zhodnotenie nehnuteľnej kultúrnej pamiatky
-
-- Odpisová skupina 3 | |
-
-- Položka<sup>1</sup>) | KP<sup>2</sup>) | Názov<sup>3</sup>)
-
-- 3- 1 | 26.61.20 | Montované stavby z betónu (prefabrikované bunky), ak nie sú samostatnými stavebnými objektmi alebo technologickým zariadením (podľa rozhodnutia príslušného úradu životného prostredia)
-
-- 3-2 | 28.11.10 | Montované stavby z kovov (prefabrikované bunky plechové), ak nie sú samostatnými stavebnými objektmi alebo technologickým zariadením (podľa rozhodnutia príslušného úradu životného prostredia)
-
-- 3-3 | 28.21 | Nádrže, cisterny, kade a podobné zásobníky z kovov
-
-- 3-4 | 28.30 | Generátory na výrobu pary okrem kotlov na centrálny ohrev teplej vody
-
-- 3-5 | 28.75.21 | Pancierové a spevnené skrine, pancierové priehradky a dvere z obyčajných kovov
-
-- 3-6 | 28.75.22 | Kartotékové skrine, zoraďovače spisov a pod.
-
-- 3-7 | 28.75.24 | Sošky a podobné dekoračné predmety, rámy na obrazy a zrkadlá
-
-- 3-8 | 28.75.27 | Ostatné výrobky z obyčajných kovov inde neuvedené
-
-- 3-9 | 28.75.3 | Meče, tesáky, bodáky, kopije a podobné sečné a bodné zbrane
-
-- 3-10 | 29.11.12 | Zážihové spaľovacie piestové lodné motory, ostatné motory
-
-- 3-11 | 29.11.13 | Piestové vznetové motory s vnútorným zapaľovaním
-
-- 3-12 | 29.11.2 | Turbíny
-
-- 3-13 | 29.21.1 | Pece, horáky a ich súčasti
-
-- 3-14 | 29.22 | Zdvíhacie a dopravné zariadenia
-
-- 3-15 | 29.23.11 | Výmenníky tepla, prístroje a zariadenia na skvapalňovanie vzduchu alebo iných plynov
-
-- 3-16 | 29.23.12 | Klimatizačné zariadenia
-
-- 3-17 | 29.23.14 | Stroje a prístroje na filtrovanie a čistenie plynov inde neuvedené
-
-- 3-18 | 29.23.2 | Ventilátory (okrem stolových)
-
-- 3-19 | 29.24.1 | Plynové generátory, destilačné, filtračné alebo rektifikačné prístroje
-
-- 3-20 | 29.51 | Stroje pre metalurgiu
-
-- 3-21 | 29.52.2 | Len: rýpadlá a kolesové nakladače
-
-- 3-22 | 31.10 | Elektromotory, generátory a transformátory
-
-- 3-23 | 31.2 | Elektrické rozvodné a spínacie zariadenia
-
-- 3-24 | 35.11 | Lode
-
-- 3-25 | 35.20 | Železničné a električkové lokomotívy, vozňový park a ich súčasti okrem:
-
-- | | -35.20.33 - Vozidlá koľajové banské a lokálky (železnice osobitného určenia)
-
-- 3-26 | | Pestovateľské celky trvalých porastov s časom plodnosti dlhším ako tri roky
-
-- 3-27 | | 2213 KS – Diaľkové telekomunikačné siete a vedenia 2224 KS – Miestne elektrické a telekomunikačné rozvody a vedenia
-
-- 3-28 | | Drobné stavby vymedzené osobitným predpisom<sup>107</sup>) s výnimkou uvedenou v § 22 ods. 2 písm. b) druhom bode
-
-- Odpisová skupina 4 | |
-
-- Položka<sup>1</sup>) | KS<sup>4</sup>) | Názov<sup>3</sup>)
+- Položka | KS | Názov
 
 - 4-1 | 1 | Budovy
 
-- 4-2 | 2 | Inžinierske stavby s výnimkou kódov uvedených v odpisovej skupine 3
+- 4-2 | 2 | Inžinierske stavby okrem kódov uvedených v odpisovej skupine 3 a okrem jednotlivých oddeliteľných súčastí uvedených v odpisových skupinách 2 a 3
 
-- Poznámky:
-
-- <sup>1</sup>) Položka - označuje číslo odpisovej skupiny (1 až 4) a poradové číslo položky v príslušnej odpisovej skupine.
-
-- <sup>2</sup>) KP - kód klasifikácie produkcie vydanej vyhláškou Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorý je rozhodujúci na zaradenie hmotného majetku do odpisovej skupiny. Ak pre stručnosť textácie je názov vymedzený inak, rozhodujúci je kód KP.
-
-- <sup>3</sup>) Názov - obsahové vymedzenie jednotlivých položiek a kódov prevažne s použitím textácie KP, prípadne textácie KS.
-
-- <sup>4</sup>) KS - kód klasifikácie stavieb vyhlásený opatrením Štatistického úradu Slovenskej republiky č. 128/2000 Z. z., ktorým sa vyhlasuje Klasifikácia stavieb.
+- Poznámky:1) Položka – označuje číslo odpisovej skupiny (1 až 4) a poradové číslo položky v príslušnej odpisovej skupine.2) KP – kód štatistickej klasifikácie produktov podľa činností (CPA) vydanej nariadením Európskeho parlamentu a Rady (ES) č. 451/2008 z 23. apríla 2008, ktorý je rozhodujúci na zaradenie hmotného majetku do odpisovej skupiny. Ak pre stručnosť textácie je názov vymedzený inak, rozhodujúci je kód KP.3) Názov – obsahové vymedzenie jednotlivých položiek a kódov prevažne s použitím textácie KP, prípadne textácie KS.4) KS – kód klasifikácie stavieb vyhlásený opatrením Štatistického úradu Slovenskej republiky č.128/2000 Z. z., ktorým sa vyhlasuje Klasifikácia stavieb.

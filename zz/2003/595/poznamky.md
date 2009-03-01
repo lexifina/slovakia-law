@@ -150,6 +150,8 @@
 
 - 59a) § 18 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
+- 59b) Napríklad § 141 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 60) § 149 až 151 Občianskeho zákonníka.
 
 - 61) § 137 až 142 Občianskeho zákonníka.
@@ -197,6 +199,10 @@
 - 79) Napríklad § 369 Obchodného zákonníka.
 
 - 80) Napríklad § 664 až 669 Občianskeho zákonníka.
+
+- 80a) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 81) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
@@ -304,6 +310,10 @@
 
 - 111) Zákon č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
+- 111a) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
+
+- 111b) § 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 112) § 69 Obchodného zákonníka.
 
 - 113) § 2 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu.
@@ -318,11 +328,11 @@
 
 - 117) § 833 Občianskeho zákonníka.
 
-- 118) § 25 ods. 4 zákona č. 431/2002 Z. z.
+- 118) § 25 ods. 5 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 119) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
-- 120) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
+- 120) Nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008 z 23. apríla 2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93 (Ú. v. EÚ L 145, 4. 6. 2008).
 
 - Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z.
 
