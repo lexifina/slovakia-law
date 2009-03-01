@@ -62,6 +62,10 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
+- 19a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 20) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - § 313 až 322 Obchodného zákonníka.
