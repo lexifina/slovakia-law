@@ -824,9 +824,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) Vzájomné uznanie prípravku na ochranu rastlín alebo iného prípravku | 33 eur
 
-  - n) Udelenie výnimky z požívania prípravku na ochranu rastlín podľa osobitného predpisu<sup>17d</sup>) | 33 eur
+  - n) Vydanie poverenia na vykonávanie skúšok biologickej účinnosti | 165,50 eura
 
-  - o) Vydanie poverenia na vykonávanie skúšok biologickej účinnosti | 165,50 eura
+  - o) Vydanie rozšírenia poverenia na vykonávanie skúšok biologickej účinnosti | 33 eur
+
+  - p) prehodnotenie registrovaného prípravku na ochranu rastlín s obsahom účinnej látky zaradenej do zoznamu povolených účinných látok | 33 eur
 
     - Položka 48
 
