@@ -54,6 +54,8 @@
 
 - 15c) Vyhláška Ministerstva financií Slovenskej republiky č. 202/2004 Z. z. o povolených denaturačných prostriedkoch, ich ustanovených množstvách na denaturáciu liehu, o požiadavkách na denaturáciu liehu a manipuláciu s denaturovaným liehom, o požiadavkách na jeho vlastnosti a o určenom účele použitia denaturovaného liehu v znení neskorších predpisov.
 
+- 15d) Napríklad nariadenie Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 02/zv. 04).
+
 - 16) Napríklad § 4 ods. 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 2745/2002-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca označovanie potravín (oznámenie č. 634/2002 Z. z.), § 21 ods. 2 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení v znení vyhlášky č. 420/2001 Z. z.
 
 - 16a) Vyhláška Ministerstva financií Slovenskej republiky č. 206/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolných známok na označovanie spotrebiteľského balenia liehu a o grafických prvkoch a údajoch na kontrolnej známke.
@@ -101,6 +103,10 @@
 - 32) § 19 zákona č. 431/2002 Z. z.
 
 - § 39 Obchodného zákonníka.
+
+- 32a) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
