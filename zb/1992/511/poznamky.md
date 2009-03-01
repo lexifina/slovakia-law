@@ -20,7 +20,7 @@
 
 - 4a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2002 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
-- 4aa) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
+- 4aa) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 5) § 2 písm. a) zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
@@ -120,6 +120,8 @@
 
 - 8na) Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2005 Z. z.
 
+- 8nb) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov, zákon č. 215/2004 Z. z. v znení neskorších predpisov.
+
 - 9) § 2 ods. 1 a 2 Obchodného zákonníka.
 
 - 9a) § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
@@ -174,7 +176,63 @@
 
 - 11b) § 58 zákona č. 455/1991 Zb. Živnostenský zákon v znení neskorších predpisov.
 
-- 11c) § 3, 3a a 3b vyhlášky Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. v znení neskorších predpisov.
+- 11c) § 4 ods. 1 až 3 zákona č. 289/2008 Z. z.
+
+- 11ca) § 10 ods. 4 zákona č. 289/2008 Z. z.
+
+- 11cb) § 8 ods. 1 zákona č. 289/2008 Z. z.
+
+- 11cc) § 8 ods. 1 a § 10 ods. 4 zákona č. 289/2008 Z. z.
+
+- 11cd) § 3 ods. 3 zákona č. 289/2008 Z. z.
+
+- 11ce) § 3 ods. 4 zákona č. 289/2008 Z. z.
+
+- 11cf) § 4 ods. 7 zákona č. 289/2008 Z. z.
+
+- 11cg) § 8 ods. 3 zákona č. 289/2008 Z. z.
+
+- 11ch) § 8 ods. 4 zákona č. 289/2008 Z. z.
+
+- 11ci) § 9 zákona č. 289/2008 Z. z.
+
+- 11cj) § 10 ods. 1 zákona č. 289/2008 Z. z.
+
+- 11ck) § 10 ods. 5 zákona č. 289/2008 Z. z.
+
+- 11cl) § 11 ods. 2 zákona č. 289/2008 Z. z.
+
+- 11cm) § 12 ods. 1 zákona č. 289/2008 Z. z.
+
+- 11cn) § 13 zákona č. 289/2008 Z. z.
+
+- 11co) § 14 zákona č. 289/2008 Z. z.
+
+- 11cp) § 15 ods. 2 zákona č. 289/2008 Z. z.
+
+- 11cr) § 10 ods. 1 a 3 zákona č. 289/2008 Z. z.
+
+- 11cs) § 5 ods. 1 zákona č. 289/2008 Z. z.
+
+- 11ct) § 5 ods. 2 písm. a) zákona č. 289/2008 Z. z.
+
+- 11cu) § 5 ods. 2 písm. b) zákona č. 289/2008 Z. z.
+
+- 11cv) § 5 ods. 2 písm. c) zákona č. 289/2008 Z. z.
+
+- 11cw) § 5 ods. 2 písm. d) zákona č. 289/2008 Z. z.
+
+- 11cx) § 6 ods. 5 zákona č. 289/2008 Z. z.
+
+- 11cy) § 7 ods. 5 zákona č. 289/2008 Z. z.
+
+- 11cz) § 16 ods. 4 zákona č. 289/2008 Z. z.
+
+- 11caa) § 16 ods. 5 zákona č. 289/2008 Z. z.
+
+- 11cab) § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 a 3, § 15 ods. 1 zákona č. 289/2008 Z. z.
+
+- 11cac) § 6 zákona č. 289/2008 Z. z.
 
 - 11d) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -360,9 +418,9 @@
 
 - 25) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 26) § 43b ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+- 26) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
-- 27) § 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z.
+- 27) § 18 ods. 1 zákona č. 289/2008 Z. z.
 
 - 28) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
