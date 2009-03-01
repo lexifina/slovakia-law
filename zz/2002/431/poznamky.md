@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
+- 4a) § 6 ods. 14 a 15 zákona č. 595/2003 Z. z. v znení zákona č. 60/2009 Z. z.
+
 - 5) § 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7a) Napríklad § 69 ods. 6 písm. d) Obchodného zákonníka.
@@ -67,6 +69,8 @@
 - 26) § 50 zákona č. 595/2003 Z. z.
 
 - 26a) § 2 ods. 1 a § 21 ods. 4 zákona č. 540/2007 Z. z.
+
+- 26aa) Napríklad § 25 zákona č. 147/1997 Z. z., § 34 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 2 zákona č. 34/2002 Z. z.
 
