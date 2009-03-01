@@ -22,9 +22,7 @@
 
 - 10) § 7 ods. 1 písm. h) zákona č. 274/2006 Z. z.
 
-- 11) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 81 /2007 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou jednotnej platby na plochu.
-
-- 12) § 3 ods. 2 nariadenia vlády Slovenskej republiky č. 81/2007 Z. z.
+- 11) § 9 ods. 3 nariadenia vlády Slovenskej republiky č. 20/2009 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb.
 
 - 13) § 19 ods. 2 písm. d) zákona č. 39/2007 Z. z.
 
