@@ -333,3 +333,7 @@
 - 96) Usmernenie Európskej centrálnej banky č. ECB/2006/9 (2006/525/ES) zo 14. júla 2006 o niektorých prípravách na prechod na hotovostné euro a o predzásobovaní a druhotnom predzásobovaní eurobankovkami a euromincami mimo eurozóny (Ú.v. EÚ L 207, 28. 7. 2006).
 
 - 97) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
+
+- 98) Napríklad § 17a a § 17b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 99) § 3 ods. 4 až 9 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
