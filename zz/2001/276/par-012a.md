@@ -8,7 +8,7 @@
 
 - b) cezhraničnej výmeny elektriny podľa osobitného predpisu,<sup>1k</sup>)
 
-- c) prístupu do zásobníka plynu a prístupu k akumulácii plynu,<sup>1</sup>)
+- c) prístupu do zásobníka plynu, uskladňovania plynu a prístupu k akumulácii plynu,<sup>1</sup>)
 
 - d) prístupu a pripojenia nových výrobcov elektriny a plynu do sústavy alebo do siete,
 
@@ -48,7 +48,7 @@
 
 - f) podmienok použitia typových diagramov odberu elektriny alebo plynu,<sup>1</sup>)
 
-- g) rozsahu, spôsobu a postupu pri uverejňovaní informácií prevádzkovateľom národnej prenosovej sústavy a prepravnej siete,
+- g) rozsahu, spôsobu a postupu pri uverejňovaní informácií prevádzkovateľom národnej prenosovej sústavy, prepravnej siete a prevádzkovateľom zásobníka,
 
 - h) spôsobu uverejňovania informácií o využití kapacity cezhraničnej výmeny elektriny, využitia kapacity národnej sústavy a siete.<sup>1k</sup>)
 

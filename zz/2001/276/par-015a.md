@@ -4,11 +4,13 @@
 
 - a) dodržiavanie zákonov, všeobecne záväzných právnych predpisov a vydaných rozhodnutí v oblasti regulácie sieťových odvetví,
 
-- b) overovanie správnosti a pravdivosti dokladov predkladaných na účely vyhodnocovania vývoja cien, regulácie cien a na konanie o porušení tohto zákona, všeobecne záväzných právnych predpisov a vydaných rozhodnutí v oblasti regulácie sieťových odvetví,
+- b) overovanie správnosti a pravdivosti dokladov predkladaných úradu,
 
 - c) overovanie plnenia uložených opatrení na nápravu zistených nedostatkov,
 
-- d) overovanie primeranosti nákladov<sup>11aa</sup>) súvisiacich s činnosťami v sieťových odvetviach.
+- d) overovanie primeranosti nákladov<sup>11aa</sup>) súvisiacich s činnosťami v sieťových odvetviach,
+
+- e) overovanie skutočností potrebných na vykonávanie pôsobnosti úradu podľa § 5.
 
 (2) Kontrola sa začína dňom, keď zamestnanec kontroly predloží kontrolovanému subjektu písomné poverenie na vykonanie kontroly.
 
