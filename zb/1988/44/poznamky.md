@@ -1,5 +1,11 @@
 - 1) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
+- 1a) § 4a zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
+
+- 1b) § 14 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
+
+- 1c) § 41 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 2a) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
