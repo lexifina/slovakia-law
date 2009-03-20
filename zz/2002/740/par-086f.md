@@ -1,0 +1,11 @@
+# § 86f Prechodné ustanovenia k úpravám účinným od 20. marca 2009
+
+(1) Ustanovenie § 33 ods. 1 v znení účinnom od 20. marca 2009 sa prvýkrát použije pri účtovaní stavby uvedenej do užívania z dôvodu vydania povolenia na predčasné užívanie stavby alebo rozhodnutia o dočasnom užívaní stavby na skúšobnú prevádzku v účtovnom období, ktoré končí po 28. februári 2009.
+
+(2) Opravná položka tvorená z dôvodu vydania povolenia na predčasné užívanie stavby alebo rozhodnutia o dočasnom užívaní stavby na skúšobnú prevádzku sa zúčtuje na ťarchu účtu 094 – Opravná položka k nedokončenému dlhodobému hmotnému majetku so súvzťažným zápisom v prospech účtu 081 – Oprávky k stavbám. Pri tvorbe odpisového plánu v účtovnom období, ktoré končí po 28. februári 2009, sa zohľadní zníženie hodnoty majetku o zúčtovanú opravnú položku.
+
+(3) Dlhodobý nehmotný majetok, ktorým sú zriaďovacie náklady, sa vyradí z účtovníctva pri zostavovaní účtovnej závierky po 20. marci 2009, ktorá sa zostavuje k 1. marcu 2009 a neskôr. Vyradenie tohto majetku z účtovníctva sa účtuje na ťarchu účtu 071 – Oprávky k zriaďovacím nákladom so súvzťažným zápisom v prospech účtu 011 – Zriaďovacie náklady. V účtovnej jednotke, ktorá prvýkrát zostavuje účtovnú závierku, sa zostatková hodnota dlhodobého nehmotného majetku, ktorým sú zriaďovacie náklady, účtuje na ťarchu účtu 551 – Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného majetku so súvzťažným zápisom v prospech účtu 071 – Oprávky k zriaďovacím nákladom. V ostatných prípadoch sa zostatková hodnota dlhodobého nehmotného majetku, ktorým sú zriaďovacie náklady, účtuje na ťarchu účtu 428 – Nerozdelený zisk minulých rokov alebo 429 – Neuhradená strata minulých rokov so súvzťažným zápisom v prospech účtu 071 – Oprávky k zriaďovacím nákladom.
+
+(4) Dlhodobý hmotný majetok, vrátane technického zhodnotenia podľa § 32 ods. 2 písm. c), uvedený do užívania najneskôr 28.februára 2009, ktorého ocenenie sa rovná sume alebo je nižšie ako suma ustanovená osobitným predpisom<sup>9</sup>), sa považuje za dlhodobý hmotný majetok a pokračuje sa v jeho odpisovaní.
+
+(5) Dlhodobý nehmotný majetok uvedený do užívania najneskôr 28. februára 2009, ktorého ocenenie sa rovná sume alebo je nižšie ako suma ustanovená osobitným predpisom<sup>5</sup>), sa považuje za dlhodobý nehmotný majetok a pokračuje sa v jeho odpisovaní.

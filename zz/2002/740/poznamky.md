@@ -52,13 +52,11 @@
 
 - 22) § 659 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 23) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
+- 23) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23a) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
 
 - 23b) § 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 23c) § 76 zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 24) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 o vodách a zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon), v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -95,6 +93,8 @@
 - 31) Napríklad zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
 - 32) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 32a) § 7a výnosu Ministerstva hospodárstva Slovenskej republiky z 1. marca 2005 č. 1/2005 o poskytovaní dotácií v pôsobnosti Ministerstva hospodárstva Slovenskej republiky (oznámenie č. 88/2005 Z. z.) v znení výnosu zo 4. marca 2009 č. 2 /2009 (oznámenie č. 80/2009 Z. z.).
 
 - 34) § 157 Obchodného zákonníka v znení neskorších predpisov.
 

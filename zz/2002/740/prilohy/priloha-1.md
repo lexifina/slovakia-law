@@ -6,8 +6,6 @@
 
 - 01 – Dlhodobý nehmotný majetok
 
-- 011 – Zriaďovacie náklady
-
 - 012 – Aktivované náklady na vývoj
 
 - 013 – Softvér
@@ -69,8 +67,6 @@
 - 069 – Ostatný dlhodobý finančný majetok
 
 - 07 – Oprávky k dlhodobému nehmotnému majetku
-
-- 071 – Oprávky k zriaďovacím nákladom
 
 - 072 – Oprávky k aktivovaným nákladom na vývoj
 
