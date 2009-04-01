@@ -14,6 +14,8 @@
 
 - 8) § 25 ods. 1 a ods. 2 písm. a) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8a) § 16 ods. 2 Trestného poriadku.
+
 - 9) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 113/2004 Z. z.
 
 - 10) Čl. 1 ods. 8 ústavného zákona č. 227/2002 Z. z.
@@ -94,4 +96,4 @@
 
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 44) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
+- 44) Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
