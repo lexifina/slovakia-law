@@ -1,6 +1,6 @@
 - 1) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
-- 2) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 2) § 2 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
 - 3) Napríklad zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
