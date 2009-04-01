@@ -2,7 +2,7 @@
 
 (1) Na rozhodovanie o použití informačno-technických prostriedkov podľa tohto zákona je vecne príslušný
 
-- a) Vyšší vojenský súd vo vzťahu k vojenským objektom, vojenským zariadeniam, osobám vykonávajúcim vojenskú službu a civilným zamestnancom v pôsobnosti Ministerstva obrany Slovenskej republiky v súvislosti s ich pracovnou činnosťou alebo ak je žiadateľom Vojenské spravodajstvo; to neplatí, ak ide o vec patriacu do právomoci Špeciálneho súdu,
+- a) krajský súd s pôsobnosťou podľa osobitného predpisu<sup>6</sup>) vo vzťahu k vojenským objektom, vojenským zariadeniam, osobám vykonávajúcim vojenskú službu a civilným zamestnancom v pôsobnosti Ministerstva obrany Slovenskej republiky v súvislosti s ich pracovnou činnosťou alebo ak je žiadateľom Vojenské spravodajstvo; to neplatí, ak ide o vec patriacu do právomoci Špeciálneho súdu,
 
 - b) krajský súd v ostatných prípadoch.
 

@@ -18,6 +18,8 @@
 
 - 5) § 5 zákona č. 195/2000 Z. z.
 
+- 6) § 16 ods. 2 Trestného poriadku.
+
 - 7) § 18 ods. 1 zákona č. 58/1969 Zb. o zodpovednosti štátu za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
 
 - 8) § 158, 178 a 257a zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
