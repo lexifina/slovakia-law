@@ -28,7 +28,7 @@
 
 - 15) § 3, 15 a 16 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
 
-- 16) Čl. 18 a 23 nariadenia Komisie (ES) č. 1975/2006 zo 7. decembra 2006, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
+- 16) Čl. 16, 18 a 23 nariadenia Komisie (ES) č. 1975/2006 zo 7. decembra 2006, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
 
 - Nariadenie Komisie (ES) č. 796/2004 z 21. apríla 2004, ktoré ustanovuje podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadení Rady (ES) č. 1782/2003, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory v rámci spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení.
 
@@ -182,7 +182,7 @@
 
 - 89) Čl. 2 nariadenia (ES) č. 1975/2006.
 
-- 90) § 69 Obchodného zákonníka.
+- 90) § 69 a 476 až 488 Obchodného zákonníka.
 
 - 91) § 7 ods. 1 zákona č. 543/2007 Z. z.
 

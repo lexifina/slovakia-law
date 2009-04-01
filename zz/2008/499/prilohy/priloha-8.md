@@ -1,14 +1,18 @@
-Príloha č. 8 k nariadeniu vlády č. 499/2008 Z. z. Možné transformácie agroenvironmentálnych podopatrení z Plánu rozvoja vidieka Slovenskej republiky 2004 – 2006 do agroenvironmentálnych podopatrení Programu rozvoja vidieka Slovenskej republiky 2007 – 2013
+Príloha č. 8 k nariadeniu vlády č. 499/2008 Z. z.
 
-Programovacie obdobie 2004 – 2006 | Programovacie obdobie 2007 – 2013
+Možné transformácie agroenvironmentálnych podopatrení z Plánu rozvoja vidieka Slovenskej republiky 2004 – 2006 do agroenvironmentálnych podopatrení
 
-Základná schéma – orná pôda | • Základná podpora (orná pôda) • Ochrana biotopov vtákov (orná pôda) • Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
+Programu rozvoja vidieka Slovenskej republiky 2007 – 2013
 
-Základná schéma – trvalé trávne porasty (TTP) | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP )
+Programovacie obdobie 2004 – 2006 | • Programovacie obdobie 2007 – 2013
 
-Základná schéma – ovocné sady a vinice* | • Integrovaná produkcia (ovocné sady) • Integrovaná produkcia (vinohrady) • Ekologické poľnohospodárstvo (ovocné sady) • Ekologické poľnohospodárstvo (vinohrady)
+Základná schéma – orná pôda | • Základná podpora (orná pôda) • Ochrana biotopov vtákov (orná pôda) • Integrovaná produkcia (zelenina) • Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
 
-Ochrana proti erózii na ornej pôde | • Ochrana proti erózii na ornej pôde + Základná podpora (orná pôda) • Ochrana proti erózii na ornej pôde + Ochrana biotopov vtákov (orná pôda) • Ochrana proti erózii na ornej pôde + Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
+Základná schéma – trvalé trávne porasty (TTP) | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
+
+Základná schéma – ovocné sady a vinice<sup>x)</sup> | • Integrovaná produkcia (ovocné sady) • Integrovaná produkcia (vinohrady) • Ekologické poľnohospodárstvo (ovocné sady) • Ekologické poľnohospodárstvo (vinohrady)
+
+Ochrana proti erózii na ornej pôde | • Ochrana proti erózii na ornej pôde + Základná podpora (orná pôda) • Ochrana proti erózii na ornej pôde + Ochrana biotopov vtákov (orná pôda) • Ochrana proti erózii na ornej pôde + Ekologické poľnohospodárstvo (orná pôda) • Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
 
 Ochrana proti erózii vo vinohradoch | • Integrovaná produkcia (vinohrady) • Ekologické poľnohospodárstvo (vinohrady)
 
@@ -18,12 +22,12 @@ Zatrávňovanie ornej pôdy | • Základná podpora (TTP) • Ochrana biotopov 
 
 Ochrana biotopov poloprírodných a prírodných trávnych porastov | • Ochrana biotopov poloprírodných a prírodných trávnych porastov • Ekologické poľnohospodárstvo (TTP) + Ochrana biotopov poloprírodných a prírodných trávnych porastov
 
-Nelesná drevinová vegetácia* | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
+Nelesná drevinová vegetácia<sup>x</sup> | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
 
-Ochrana vodných a mokraďových biotopov* | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
+Ochrana vodných a mokraďových biotopov<sup>x</sup> | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
 
 Chov a udržanie ohrozených druhov zvierat | • Chov a udržanie ohrozených druhov zvierat (žiadateľ môže vstúpiť do všetkých kombinovateľných plošných záväzkov)
 
 Ekologické poľnohospodárstvo | • Ekologické poľnohospodárstvo • Ekologické poľnohospodárstvo (TTP) + Ochrana biotopov poloprírodných a prírodných trávnych porastov • Ekologické poľnohospodárstvo + Ochrana biotopov vtákov
 
-* Podopatrenia sa v programovacom období 2007 – 2013 nerealizujú.
+<sup>x</sup>) Podopatrenia sa v programovacom období 2007 – 2013 nerealizujú.
