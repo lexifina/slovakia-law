@@ -1,14 +1,14 @@
-- 1) Nariadenie Komisie (ES) č. 1628/2006 z 24. októbra 2006 o uplatňovaní článkov 87 a 88 zmluvy na národnú regionálnu investičnú pomoc (Ú. v. EÚ L 302, 1. 11. 2006).
+- 1) Nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
 
 - 2) § 5 ods. 3 zákona č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
-- 3) Čl. 2 bod 1 písm. c) nariadenia (ES) č. 1628/2006.
+- 3) Čl. 2 bod 1 nariadenia (ES) č. 800/2008.
 
-- 4) Čl. 2 bod 1 písm. m) nariadenia (ES) č. 1628/2006.
+- 4) Čl. 2 bod 14 nariadenia (ES) č. 800/2008.
 
-- 5) Čl. 2 bod 1 písm. e) nariadenia (ES) č. 1628/2006.
+- 5) Čl. 2 bod 10 nariadenia (ES) č. 800/2008.
 
-- 6) Čl. 2 bod 1 písm. f) nariadenia (ES) č. 1628/2006.
+- 6) Čl. 2 bod 11 nariadenia (ES) č. 800/2008.
 
 - 7) § 30a zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 561/2007 Z. z.
 
@@ -28,8 +28,6 @@
 
 - 15) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16) Kapitola 90 prílohy č. 1 nariadenia (EHS) č. 2658/87.
-
 - 17) § 6 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 18) § 19 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
@@ -40,9 +38,9 @@
 
 - § 54 ods. 2 písm. h) zákona č. 5/2004 Z. z. v znení zákona č. 561/2007 Z. z.
 
-- 21) Čl. 3 nariadenia (ES) č. 1628/2006, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
+- 21) Čl. 3 nariadenia (ES) č. 800/2008, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 22) Čl. 7 nariadenia (ES) č. 1628/2006, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
+- 22) Čl. 6 nariadenia (ES) č. 800/2008, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - 23) Nariadenie Komisie (ES) č. 794/2004 z 21. apríla 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 659/1999, ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, 8/zv. 4) v znení nariadenia Komisie (ES) č. 1627/2006 z 24. októbra 2006 (Ú. v. EÚ L 302, 1. 11. 2006).
 
