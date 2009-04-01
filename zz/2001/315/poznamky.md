@@ -6,7 +6,11 @@
 
 - 2b) Napríklad zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva vnútra Slovenskej republiky č. 334/2009 Z. z., ktorou sa ustanovujú určujúce znaky a minimálne požiadavky na personálne zabezpečenie a materiálno-technické vybavenie zdravotníckych zariadení v pôsobnosti Ministerstva vnútra Slovenskej republiky.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.§ 27 ods. 2 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.§ 5 ods. 3 písm. g) a § 6 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+- 3) § 5 ods. 5, § 8 a 12 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
+
+- § 35 ods. 3 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
+
+- § 2 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
 
 - 3b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
@@ -22,6 +26,8 @@
 
 - 7b) Napríklad § 21 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb., § 2 ods. 1 písm. b) vyhlášky Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch.
 
+- 7c) § 16 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) § 2 ods. 1 písm. b) zákona č. 314/2001 Z. z.
 
 - 9) § 2 ods. 2 a § 44 ods. 1 zákona č. 314/2001 Z. z.
@@ -33,6 +39,14 @@
 - 10a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 10a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 10b) § 3 a 4 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 10c) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10d) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- § 9 ods. 3 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
 - 11) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
@@ -68,6 +82,8 @@
 
 - 17aaaa) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 17b) § 4 písm. o) zákona č. 314/2001 Z. z. v znení zákona č. 562/2005 Z. z.
+
 - 18) § 143 a 143a Občianskeho zákonníka.
 
 - 18a) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
@@ -98,7 +114,7 @@
 
 - 24a) § 4 ods. 1 písm. a), e) a f) zákona č. 544/2002 Z. z.
 
-- 25) Občiansky zákonník.
+- 25) Nariadenie vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia v znení nariadenia vlády Slovenskej republiky č. 469/2008 Z. z.
 
 - 25a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
@@ -110,6 +126,8 @@
 
 - 27a) § 7 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
+- § 70 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
 - 28) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 29) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
@@ -119,8 +137,6 @@
 - 31) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 31a) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
-
-- 32) § 3 ods. 1 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 33) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 

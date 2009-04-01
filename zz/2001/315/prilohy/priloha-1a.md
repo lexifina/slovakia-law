@@ -36,7 +36,7 @@ Príloha č. 1a k zákonu č. 315/2001 Z. z.
 
   - 6. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, špecializovaná odborná spôsobilosť podľa osobitného predpisu. Odborná prax viac ako tri roky.
+    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, osobitný kvalifikačný predpoklad podľa osobitného predpisu. Odborná prax viac ako tri roky.
 
     - Samostatné vykonávanie ucelených agend s rozhodovacou právomocou na zverenom úseku. Riadenie, koordinovanie a usmerňovanie aktivít v činnostiach súvisiacich so záchranárskou prácou v horskom teréne.
 

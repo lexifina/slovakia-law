@@ -4,13 +4,13 @@ Príloha č. 1 k zákonu č. 315/2001 Z. z.
 
   - 1. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: úplné stredné vzdelanie.
 
     - Rutinné činnosti pri príprave rozhodnutí spravidla s úplnými informáciami spracúvanými podľa presných postupov a podrobných pokynov pod odborným dozorom s bežnou psychickou záťažou, prípadne výkon štátnej služby vyžadujúci zvýšenú fyzickú záťaž so vzťahmi v rámci jedného kolektívu.
 
   - 2. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie, odborná prax viac ako dva roky a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: úplné stredné vzdelanie, odborná prax viac ako jeden rok a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Samostatné rutinné opakujúce sa činnosti s premenlivými informáciami spracúvanými podľa rámcových pokynov alebo zaužívaného postupu s presne určenými výstupmi, so zodpovednosťou za výsledky ovplyvňujúce činnosť kolektívu. Zabezpečovanie časti zverenej agendy vyžadujúce koordinovanie činnosti v rámci organizačného útvaru.
 
