@@ -62,6 +62,10 @@
 
 - 30) Zákon č. 370/1997 Z. z. v znení neskorších predpisov.
 
+- 30a) § 16 ods. 2 Trestného poriadku.
+
+- § 14a zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
+
 - 31) § 9 až 11 a § 84 až 89a Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - § 13 až 26 zákona č. 141/1961 Zb. v znení neskorších predpisov.
