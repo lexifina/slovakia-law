@@ -102,7 +102,7 @@
 
 - 31a) § 63 ods. 1 písm. j) zákona č. 315/2001 Z. z. v znení zákona č. 519/2007 Z. z.
 
-- 31b) § 196 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 31b) § 196 a 215e zákona č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 31c) § 70 ods. 1 písm. d) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
@@ -133,6 +133,10 @@
 - 33d) Napríklad § 35 ods. 10 a § 43 ods. 5 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 34 ods. 8 a § 40 ods. 4 zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov, § 52 ods. 5 zákona č. 315/2001 Z. z., § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 33e) § 261 ods. 3 a § 293l ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
+
+- 33f) § 2 zákona č. 463/2003 Z. z. o vojnových veteránoch a o doplnení zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
+
+- 33g) § 10 ods. 2 zákona č. 219/2006 Z. z. o protikomunistickom odboji v znení zákona č. 58/2009 Z. z.
 
 - 34) § 4 zákona č. 238/1998 Z. z. o príspevku na pohreb.
 
@@ -253,3 +257,5 @@
 - 65c) Zákon č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.
 
 - 66) Zákon č. 305/1999 Z. z. o zmiernení niektorých krívd osobám deportovaným do nacistických koncentračných táborov a zajateckých táborov.
+
+- 67) § 215e zákona č. 346/2005 Z. z. v znení zákona č. 59/2009 Z. z.
