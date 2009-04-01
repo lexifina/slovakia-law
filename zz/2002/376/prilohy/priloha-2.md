@@ -196,7 +196,7 @@ Podanie novej európskej patentovej prihlášky oprávnenou osobou
 
 (2) Prihlasovací poplatok a rešeršný poplatok musia byť uhradené do jedného mesiaca od podania novej prihlášky. Ak prihlasovací alebo rešeršný poplatok nie je uhradený včas, prihláška sa pokladá za vzatú späť.
 
-(3) Poplatky za určenie môžu byť uhradené do šiestich mesiacov odo dňa, keď bolo v Európskom patentovom vestníku oznámené zverejnenie európskej rešeršnej správy pre novú prihlášku. Platí pravidlo 39 odseky 2 a 3.
+(3) Určovací poplatok musí byť zaplatený do šiestich mesiacov odo dňa, keď bolo v Európskom patentovom vestníku oznámené zverejnenie európskej rešeršnej správy pre novú prihlášku. Platí pravidlo 39 odseky 2 a 3.
 
 Pravidlo 18
 
@@ -468,7 +468,7 @@ Európske vylúčené prihlášky
 
 (3) Prihlasovací poplatok a rešeršný poplatok za vylúčenú prihlášku musia byť zaplatené do jedného mesiaca od jej podania. Ak nie je v stanovenej lehote prihlasovací alebo rešeršný poplatok uhradený, prihláška sa považuje za vzatú späť.
 
-(4) Určovacie poplatky musia byť uhradené do šiestich mesiacov od dátumu zverejnenia európskej rešeršnej správy v Európskom patentovom vestníku, ktorá sa týka vylúčenej prihlášky. Uplatní sa pravidlo 39 odseky 2 a 3.
+(4) Určovací poplatok musí byť zaplatený do šiestich mesiacov odo dňa, keď bolo v Európskom patentovom vestníku oznámené zverejnenie európskej rešeršnej správy pre vylúčenú prihlášku. Platí pravidlo 39 odseky 2 a 3.
 
 Pravidlo 37
 
@@ -486,19 +486,21 @@ Pravidlo 38
 
 Prihlasovací poplatok a rešeršný poplatok
 
-Prihlasovací poplatok a rešeršný poplatok musia byť uhradené do jedného mesiaca od podania európskej patentovej prihlášky.
+(1) Prihlasovací poplatok a rešeršný poplatok musia byť zaplatené do jedného mesiaca od podania európskej patentovej prihlášky.
+
+(2) Ak prihláška obsahuje viac ako 35 strán, môžu pravidlá týkajúce sa poplatkov ustanoviť príplatok ako súčasť prihlasovacieho poplatku.
+
+(3) Príplatok podľa odseku 2 musí byť zaplatený do jedného mesiaca od podania európskej patentovej prihlášky alebo do jedného mesiaca od podania prvého súboru nárokov, alebo do jedného mesiaca od podania overenej kópie podľa pravidla 40 odseku 3 podľa toho, ktorá lehota uplynie ako posledná.
 
 Pravidlo 39
 
 Určovacie poplatky
 
-(1) Určovacie poplatky musia byť uhradené do šiestich mesiacov od dátumu zverejnenia európskej rešeršnej správy v Európskom patentovom vestníku.
+(1) Určovací poplatok musí byť zaplatený do šiestich mesiacov odo dňa, keď bolo v Európskom patentovom vestníku oznámené zverejnenie európskej rešeršnej správy.
 
-(2) Ak nie je určovací poplatok uhradený včas vzhľadom na akýkoľvek zmluvný štát, určenie daného štátu sa považuje za vzaté späť.
+(2) Ak nie je určovací poplatok zaplatený včas alebo sú určenia všetkých zmluvných štátov vzaté späť, európska patentová prihláška sa považuje za vzatú späť.
 
-(3) Ak nie sú určovacie poplatky uhradené včas alebo ak sú určenia všetkých zmluvných štátov vzaté späť, európska patentová prihláška sa považuje za vzatú späť.
-
-(4) S výhradou ustanovenia pravidla 37 odsek 2 druhá veta určovacie poplatky nebudú refundované.
+(3) Okrem ustanovenia pravidla 37 odseku 2 druhej vety sa určovací poplatok nevracia.
 
 Pravidlo 40
 
@@ -694,7 +696,7 @@ Všeobecné ustanovenia o vonkajšej úprave prihlášky
 
 (2) Písomnosti prihlášky sa predkladajú v takej forme, ktorá umožní ich elektronickú a priamu reprodukciu na neobmedzený počet kópií, a zvlášť skenovaním, fotograficky, elektrostatickým postupom, ofsetovou tlačou a mikrofilmom. Listy musia byť bez trhlín, bez záhybov a nesmú byť pokrčené. Použije sa len jedna strana listu.
 
-(3) Písomnosti prihlášky musia byť na ohybnom, silnom, bielom, hladkom, matnom a trvanlivom papieri formátu A4 (29,7 cm x 21 cm). Podľa odseku 10 a pravidla 46 odsek 2 písmeno h) sa každý list použije tak, aby kratšie strany boli hore a dolu (zvisle).
+(3) Písomnosti prihlášky musia byť na ohybnom, silnom, bielom, hladkom, matnom a trvanlivom papieri formátu A4 (29,7 cm 21 cm). Podľa odseku 9 a pravidla 46 odseku 2 písmena h) sa každý list použije tak, aby kratšie strany boli hore a dolu (zvisle).
 
 (4) Každá časť písomnosti prihlášky (žiadosť, opis, patentové nároky, výkresy a anotácia) sa začína na novom liste. Všetky listy sú spojené tak, aby sa dali ľahko obracať, oddeliť a znovu spojiť.
 
@@ -726,7 +728,7 @@ spodný okraj 3 cm.
 
 (9) Žiadosť o udelenie európskeho patentu, opis, patentové nároky a anotácia neobsahujú výkresy. Opis, nároky a anotácia môžu obsahovať chemické a matematické vzorce. Opis a anotácia môžu obsahovať tabuľky. Patentové nároky môžu obsahovať tabuľky iba vtedy, ak ich predmet použitie tabuliek vyžaduje. Tabuľky a chemické alebo matematické vzorce môžu byť na liste umiestnené na šírku, pokiaľ nemôžu byť uspokojivo uvedené v zvislej polohe. Tabuľky alebo chemické alebo matematické vzorce uvedené na šírku sa umiestnia tak, aby horné časti tabuliek alebo vzorcov boli na ľavej strane listu.
 
-(10) Hodnoty sa vyjadrujú v jednotkách v súlade s medzinárodnými štandardmi, pokiaľ možno v metrickom systéme s použitím jednotiek SI. Všetky údaje, ktoré nespĺňajú tieto požiadavky, sa vyjadria aj v jednotkách v súlade s medzinárodnými štandardmi. Používajú sa len technické pojmy, konvencie, vzorce, značky a symboly, ktoré sú v danej oblasti všeobecne uznávané.
+(10) Hodnoty sa vyjadrujú v jednotkách v súlade s medzinárodnými štandardmi, pokiaľ možno v metrickom systéme s použitím jednotiek SI. Všetky údaje, ktoré nespĺňajú túto požiadavku, sa vyjadria aj v jednotkách v súlade s medzinárodnými štandardmi. Používajú sa len technické výrazy, vzorce, značky a symboly, ktoré sú v danej oblasti všeobecne uznávané.
 
 (11) Terminológia a značky musia byť jednotné v celej európskej patentovej prihláške.
 
@@ -750,7 +752,7 @@ Pravidlo 51
 
 Platenie udržiavacích poplatkov
 
-(1) Udržiavací poplatok za európsku patentovú prihlášku za nasledujúci rok je splatný posledný deň mesiaca, ktorý sa svojím názvom zhoduje s mesiacom, v ktorom bola podaná európska patentová prihláška. Udržiavacie poplatky nemôžu byť zaplatené skôr ako jeden rok pred ich splatnosťou.
+(1) Udržiavací poplatok za európsku patentovú prihlášku za nasledujúci rok je splatný v posledný deň mesiaca, ktorý sa svojím názvom zhoduje s mesiacom, v ktorom bola podaná európska patentová prihláška. Udržiavacie poplatky nemôžu byť platne zaplatené skôr ako tri mesiace pred ich splatnosťou.
 
 (2) Ak nie je udržiavací poplatok zaplatený včas, stále môže byť zaplatený do šiestich mesiacov od dátumu splatnosti za predpokladu, že príplatok je tiež zaplatený v danej lehote.
 
@@ -872,7 +874,7 @@ h) tam, kde je to vhodné, boli splnené požiadavky článku 133 odsek 2;
 
 i) prihláška spĺňa požiadavky stanovené v pravidle 46 a v pravidle 49 odseky 1 až 9 a 12;
 
-j) prihláška spĺňa požiadavky stanovené v pravidle 30 alebo v pravidle 163 odsek 3.
+(j) prihláška spĺňa požiadavky ustanovené v pravidle 30.
 
 Pravidlo 58
 
@@ -1002,21 +1004,21 @@ Prieskumové konanie
 
 (2) Oznámenie podľa článku 94 odsek 3 má obsahovať odôvodnené vyhlásenie zahŕňajúce v prípade potreby všetky dôvody, ktoré bránia udeleniu európskeho patentu.
 
-(3) Predtým, ako prieskumové oddelenie rozhodne o udelení európskeho patentu, informuje prihlasovateľa o znení textu, v akom zamýšľa európsky patent udeliť, a vyzve ho, aby zaplatil poplatky za udelenie a vytlačenie a predložil preklad patentových nárokov v dvoch iných úradných jazykoch Európskeho patentového úradu, ako je jazyk konania, v lehote štyroch mesiacov. Ak prihlasovateľ zaplatí poplatky a predloží preklad v tejto lehote, bude sa predpokladať, že prihlasovateľ súhlasí s textom zamýšľaným na udelenie patentu.
+(3) Predtým, ako prieskumové oddelenie rozhodne o udelení európskeho patentu, informuje prihlasovateľa o znení textu, v akom zamýšľa európsky patent udeliť, a vyzve ho, aby zaplatil poplatok za udelenie a zverejnenie európskeho patentu a aby podal preklad patentových nárokov v dvoch iných úradných jazykoch Európskeho patentového úradu, ako je jazyk konania, v lehote štyroch mesiacov. Ak prihlasovateľ zaplatí poplatky a podá preklad v tejto lehote, bude sa predpokladať, že prihlasovateľ súhlasí so znením zamýšľaným na udelenie patentu.
 
 (4) Ak prihlasovateľ v lehote stanovenej v odseku 3 požaduje zmeny podľa pravidla 137 odsek 3 alebo opravy chýb podľa pravidla 139, musí predložiť, ak boli patentové nároky zmenené alebo opravené, preklad zmenených alebo opravených patentových nárokov. Ak prihlasovateľ zaplatí poplatky a predloží preklad v tejto lehote, bude sa predpokladať, že súhlasí s udelením takto zmeneného alebo opraveného patentu.
 
-(5) Ak prieskumové oddelenie nesúhlasí so zmenou alebo opravou požadovanou podľa odseku 4, pred rozhodnutím dá prihlasovateľovi možnosť predložiť v stanovenej lehote svoje poznámky a akékoľvek zmeny, ktoré prieskumové oddelenie pokladá za nevyhnutné, a ak sú patentové nároky zmenené, preklad zmenených patentových nárokov. Ak prihlasovateľ predloží tieto zmeny, bude sa predpokladať, že súhlasí s udelením takto zmeneného patentu. Ak je európska patentová prihláška zamietnutá, vzatá späť alebo sa považuje za vzatú späť, poplatky za udelenie a tlač a akékoľvek poplatky za patentové nároky zaplatené podľa odseku 6 budú vrátené.
+(5) Ak prieskumové oddelenie nesúhlasí so zmenou alebo opravou požadovanou podľa odseku 4, pred rozhodnutím dá prihlasovateľovi možnosť predložiť v stanovenej lehote svoje poznámky a akékoľvek zmeny, ktoré prieskumové oddelenie pokladá za nevyhnutné; ak sú patentové nároky zmenené aj preklad zmenených patentových nárokov. Ak prihlasovateľ predloží tieto zmeny, bude sa predpokladať, že súhlasí s udelením takto zmeneného patentu. Ak je európska patentová prihláška zamietnutá, vzatá späť alebo sa považuje za vzatú späť, poplatok za udelenie a zverejnenie a všetky poplatky za patentové nároky zaplatené podľa odseku 6 budú vrátené.
 
 (6) Ak európska patentová prihláška v znení, v akom prieskumové oddelenie mieni udeliť európsky patent, obsahuje viac ako 15 patentových nárokov, vyzve prieskumové oddelenie prihlasovateľa, aby v lehote uvedenej v odseku 3, prípadne v odseku 5 zaplatil poplatky za patentové nároky za každý ďalší patentový nárok, ak neboli tieto poplatky už zaplatené v súlade s pravidlom 45 alebo pravidlom 162.
 
-(7) Európska patentová prihláška sa považuje za vzatú späť, ak poplatok za udelenie, poplatok za tlač alebo poplatky za patentové nároky neboli zaplatené včas alebo ak preklad nebol podaný včas.
+(7) Európska patentová prihláška sa považuje za vzatú späť, ak poplatok za udelenie, poplatok za zverejnenie alebo poplatky za patentové nároky neboli zaplatené včas alebo ak preklad nebol včas podaný.
 
-(8) Ak sa určovací poplatok stane splatným po oznámení podľa odseku 3, nebude oznámenie o udelení európskeho patentu zverejnené, pokiaľ nie je určovací poplatok zaplatený. Prihlasovateľ bude o tom informovaný.
+(8) Ak sa určovací poplatok stane splatným po oznámení podľa odseku 3, oznámenie o udelení európskeho patentu nebude zverejnené, pokiaľ nie je určovací poplatok zaplatený. Prihlasovateľ bude o tom informovaný.
 
 (9) Ak sa udržiavací poplatok stane splatným po oznámení podľa odseku 3 a pred ďalším možným dátumom zverejnenia oznámenia o udelení európskeho patentu nebude oznámenie zverejnené, pokiaľ nebude zaplatený udržiavací poplatok. Prihlasovateľ bude o tom informovaný.
 
-(10) V oznámení podľa odseku 3 sa uvedú určené zmluvné štáty, ktoré požadujú preklad podľa článku 65 odsek 1.
+(10) V oznámení podľa odseku 3 sa uvedie odkaz na internetovú stránku Európskeho patentového úradu, kde je zverejnená informácia týkajúca sa požiadaviek na preklad v zmluvných štátoch podľa článku 65 odseku 1.
 
 (11) V rozhodnutí o udelení európskeho patentu sa uvedie, ktoré znenie európskej patentovej prihlášky tvorí základ pre rozhodnutie.
 
@@ -1130,7 +1132,7 @@ Zachovanie patentu v zmenenej podobe
 
 (1) Predtým, ako námietkové oddelenie rozhodne o zachovaní zmeneného európskeho patentu, oznámi účastníkom konania znenie, v ktorom mieni patent zachovať, a vyzve ich, aby podali svoje pripomienky do dvoch mesiacov, ak so znením nesúhlasia.
 
-(2) Ak účastník konania so znením, ktoré bolo oznámené námietkovým oddelením, nesúhlasí, môže pokračovať prieskum námietok. V opačnom prípade námietkové oddelenie po uplynutí lehoty uvedenej v odseku 1 vyzve majiteľa patentu, aby do troch mesiacov zaplatil predpísaný poplatok a podal preklad zmenených patentových nárokov v oboch úradných jazykoch Európskeho patentového úradu, ktoré neboli jazykom konania. Táto výzva musí obsahovať aj určené zmluvné štáty, pre ktoré sa vyžaduje preklad podľa článku 65 odsek 1.
+(2) Ak účastník konania so znením oznámeným námietkovým oddelením nesúhlasí, môže pokračovať prieskum námietok. V opačnom prípade námietkové oddelenie po uplynutí lehoty uvedenej v odseku 1 vyzve majiteľa patentu, aby do troch mesiacov zaplatil predpísaný poplatok a podal preklad zmenených patentových nárokov do úradných jazykov Európskeho patentového úradu iných, ako je jazyk konania. V tejto výzve sa uvedie odkaz na internetovú stránku Európskeho patentového úradu, kde je zverejnená informácia týkajúca sa požiadaviek na preklad v zmluvných štátoch podľa článku 65 odseku 1.
 
 (3) Ak úkony požadované podľa odseku 2 nie sú vykonané včas, možno ich ešte uskutočniť do dvoch mesiacov od doručenia oznámenia, ktorým sa upozorňuje, že nebola dodržaná lehota, pokiaľ je v tejto dvojmesačnej lehote zaplatený príplatok. Inak bude patent zrušený.
 
@@ -1208,7 +1210,7 @@ Pravidlo 92
 
 Náležitosti žiadosti
 
-(1) Žiadosť o obmedzenie alebo zrušenie európskeho patentu musí byť podaná písomne. Časť III vykonávacieho predpisu primerane platí pre podklady podané v konaní o obmedzení alebo zrušení patentu.
+(1) Žiadosť o obmedzenie alebo zrušenie európskeho patentu musí byť podaná písomne v jednom z úradných jazykov Európskeho patentového úradu. Môže byť tiež podaná v úradnom jazyku zmluvného štátu za predpokladu, že v lehote ustanovenej v pravidle 6 odseku 2 bude podaný preklad do jedného z úradných jazykov Európskeho patentového úradu. Pre písomnosti podané v konaní o obmedzení alebo zrušení primerane platí časť III vykonávacieho predpisu.
 
 (2) Žiadosť musí obsahovať:
 
@@ -1244,7 +1246,7 @@ Rozhodnutie o žiadosti
 
 (2) Ak je žiadosť o obmedzenie prípustná, prieskumové oddelenie preskúma, či zmenené patentové nároky tvoria obmedzenie proti patentovým nárokom udeleným alebo zmeneným v námietkovom konaní alebo v konaní o obmedzenie a spĺňa náležitosti článku 84 a článku 123 odseky 2 a 3. Ak žiadosť nespĺňa tieto požiadavky, prieskumové oddelenie poskytne žiadateľovi možnosť odstrániť zaznamenané nedostatky a zmeniť patentové nároky a ak je to nevyhnutné, opis a výkresy v lehote, ktorú stanoví.
 
-(3) Ak je žiadosť o obmedzenie prípustná podľa odseku 2, prieskumové oddelenie to oznámi žiadateľovi a vyzve ho, aby zaplatil predpísaný poplatok a aby podal preklad zmenených nárokov v úradných jazykoch Európskeho patentového úradu iných, ako je jazyk konania, v lehote troch mesiacov; pravidlo 82 odsek 3 prvá veta platí primerane. Ak žiadateľ splní tieto požiadavky včas, prieskumové oddelenie patent obmedzí.
+(3) Ak je žiadosť o obmedzenie prípustná podľa odseku 2, prieskumové oddelenie to oznámi žiadateľovi a vyzve ho, aby zaplatil predpísaný poplatok a aby podal preklad zmenených nárokov do úradných jazykov Európskeho patentového úradu iných, ako je jazyk konania v lehote troch mesiacov; pravidlo 82 odsek 3 prvá veta platí primerane. Ak žiadateľ vykoná tieto úkony včas, prieskumové oddelenie patent obmedzí. Výzva musí obsahovať odkaz na internetovú stránku Európskeho patentového úradu, kde je zverejnená informácia týkajúca sa požiadaviek na preklad v zmluvných štátoch podľa článku 65 odsek 1.
 
 (4) Ak žiadateľ neodpovie včas na oznámenie vydané podľa odseku 2 alebo ak nie je žiadosť o obmedzenie prípustná, alebo ak žiadateľ nesplní včas požiadavky podľa odseku 3, prieskumové oddelenie žiadosť zamietne.
 
@@ -1986,7 +1988,7 @@ b) všeobecnej plnej moci.
 
 Pravidlo 153
 
-Právo zástupcu odmietnuť výpoveď
+Právo zástupcu klienta odmietnuť výpoveď
 
 (1) Ak sa vyžaduje rada od patentového zástupcu v jeho funkcii ako takej, všetky kontakty medzi patentovým zástupcom a jeho klientom alebo inou osobou týkajúce sa daného zámeru a spadajúce pod článok 2 Disciplinárneho poriadku pre patentových zástupcov sú neustále chránené pred zverejnením v konaní pred Európskym patentovým úradom, kým sa tejto ochrany klient výslovne nevzdá.
 
@@ -2074,7 +2076,7 @@ b) určí dokumenty patriace k prihláške ako dokumenty pôvodne podané a zmen
 
 c) zaplatí prihlasovací poplatok v zmysle pravidla 78 odsek 2;
 
-d) zaplatí určovací poplatok, ak lehota podľa pravidla 39 uplynula skôr;
+(d) zaplatí určovací poplatok, ak lehota podľa pravidla 39 uplynula skôr;
 
 e) zaplatí poplatok za rešerš, ak má byť vyhotovená dodatočná správa o európskej rešerši;
 
@@ -2090,11 +2092,9 @@ Pravidlo 160
 
 Dôsledky nesplnenia určitých požiadaviek
 
-(1) Ak nie je preklad medzinárodnej prihlášky alebo žiadosť o prieskum podaná včas alebo nie je včas zaplatený prihlasovací poplatok alebo poplatok za rešerš, alebo nie je včas zaplatený určovací poplatok, európska patentová prihláška sa bude považovať za vzatú späť.
+(1) Ak nie je včas podaný preklad medzinárodnej prihlášky ani žiadosť o prieskum alebo nie je včas zaplatený prihlasovací poplatok, poplatok za rešerš alebo určovací poplatok, považuje sa európska patentová prihláška za vzatú späť.
 
-(2) Určenie zmluvného štátu, pre ktorý nebol včas zaplatený určovací poplatok, sa bude považovať za vzaté späť.
-
-(3) Ak Európsky patentový úrad zistí, že prihláška alebo určenie zmluvného štátu bolo vzaté späť podľa odseku 1 alebo 2, oznámi to prihlasovateľovi. Primerane platí pravidlo 112 odsek 2.
+(2) Ak Európsky patentový úrad zistí, že sa prihláška považuje za vzatú späť podľa odseku 1, oznámi to prihlasovateľovi. Primerane platí pravidlo 112 odsek 2.
 
 Pravidlo 161
 
@@ -2120,7 +2120,7 @@ Prieskum určitých formálnych náležitostí Európskym patentovým úradom
 
 (1) Ak nebol určený vynálezca podľa pravidla 19 odsek 1, v lehote podľa pravidla 159 odsek 1 vyzve Európsky patentový úrad prihlasovateľa, aby určil vynálezcu v lehote dvoch mesiacov.
 
-(2) Ak sa uplatňuje právo prednosti skoršej prihlášky a číslo podania predchádzajúcej prihlášky alebo jeho kópia podľa pravidla 52 odsek 1 a pravidla 53 nebolo v lehote podľa pravidla 159 odsek 1 ešte predložené, Európsky patentový úrad vyzve prihlasovateľa, aby toto číslo alebo jeho kópiu v lehote dvoch mesiacov predložil. Platí pravidlo 53 odseky 2 a 3.
+(3) Ak sa uplatňuje právo prednosti zo skoršej prihlášky a číslo podania predchádzajúcej prihlášky alebo jej kópia podľa pravidla 52 odseku 1 a pravidla 53 nebolo v lehote podľa pravidla 159 odseku 1 ešte predložené, vyzve Európsky patentový úrad prihlasovateľa, aby toto číslo alebo jeho kópiu v lehote dvoch mesiacov predložil. Platí pravidlo 53 odsek 2.
 
 (3) Ak v prípade uplynutia lehoty podľa pravidla 159 odsek 1 Európsky patentový úrad nemá k dispozícii sekvenčný protokol vyhovujúci štandardu uvedeného v administratívnych inštrukciách Zmluvy o patentovej spolupráci, prihlasovateľ bude vyzvaný, aby podal sekvenčný protokol vyhovujúci pravidlám predpísaným prezidentom Európskeho patentového úradu v lehote dvoch mesiacov. Primerane platí pravidlo 30 odseky 2 a 3.
 
