@@ -4,7 +4,7 @@
 
 # § 22a Pokuty
 
-Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 1 000 000 Sk právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
+Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33 190 eur právnickej osobe alebo fyzickej osobe oprávnenej na podnikanie podľa osobitných predpisov,<sup>9</sup>) ak
 
 - a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 

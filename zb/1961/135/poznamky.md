@@ -48,6 +48,8 @@
 
 - 2fa) Zákon č. 639/2004 Z. z. v znení neskorších predpisov.
 
+- 2faa) Zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
+
 - 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 2gb) § 4 ods. 2 písm. b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z. v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 414/2000 Z. z.
@@ -74,7 +76,9 @@
 
 - 7) Napríklad zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb., zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 8) § 56 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
+- 8) § 56 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore,
+
+- § 48 a 48a zákona č. 57/1998 Z. z. v znení neskorších predpisov.
 
 - 9) § 2 zákona Slovenskej národnej rady č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) (úplné znenie č. 105/1995 Z. z.).
 
