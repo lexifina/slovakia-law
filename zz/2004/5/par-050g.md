@@ -1,6 +1,6 @@
 # § 50g Príspevok na podporu samostatnej zárobkovej činnosti
 
-(1) Príspevok na podporu samostatnej zárobkovej činnosti (ďalej len „príspevok“) sa poskytuje uchádzačovi o zamestnanie, ktorý bol vedený v evidencii uchádzačov o zamestnanie najmenej 3 mesiace, bol poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi a ktorý začne a bude vykonávať alebo prevádzkovať samostatnú zárobkovú činnosť nepretržite najmenej 24 mesiacov, ak o príspevok písomne požiada. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 49 a 50h.
+(1) Príspevok na podporu samostatnej zárobkovej činnosti (ďalej len „príspevok“) sa poskytuje uchádzačovi o zamestnanie, ktorý bol vedený v evidencii uchádzačov o zamestnanie najmenej 3 mesiace, bol poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi a ktorý začne a bude vykonávať alebo prevádzkovať samostatnú zárobkovú činnosť nepretržite najmenej 24 mesiacov, ak o príspevok písomne požiada. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 49, 50h a § 57.
 
 (2) Príspevok sa poskytuje na úhradu
 

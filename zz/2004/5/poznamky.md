@@ -197,3 +197,5 @@
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 65) § 20f Občianskeho zákonníka.

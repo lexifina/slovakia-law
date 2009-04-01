@@ -1,6 +1,6 @@
 # § 50h Príspevok na samostatnú zárobkovú činnosť v oblasti spracovania poľnohospodárskych výrobkov a obchodovania s nimi
 
-(1) Príspevok na samostatnú zárobkovú činnosť v oblasti spracovania poľnohospodárskych výrobkov a obchodovania s nimi (ďalej len „príspevok“) sa poskytuje občanovi, ktorý bol vedený v evidencii uchádzačov o zamestnanie najmenej 3 mesiace a ktorý začne a bude vykonávať alebo prevádzkovať samostatnú zárobkovú činnosť v oblasti spracovania poľnohospodárskych výrobkov a obchodovania s nimi<sup>52</sup>) nepretržite najmenej 24 mesiacov, ak o príspevok písomne požiada. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 49 a 50g.
+(1) Príspevok na samostatnú zárobkovú činnosť v oblasti spracovania poľnohospodárskych výrobkov a obchodovania s nimi (ďalej len „príspevok“) sa poskytuje občanovi, ktorý bol vedený v evidencii uchádzačov o zamestnanie najmenej 3 mesiace a ktorý začne a bude vykonávať alebo prevádzkovať samostatnú zárobkovú činnosť v oblasti spracovania poľnohospodárskych výrobkov a obchodovania s nimi<sup>52</sup>) nepretržite najmenej 24 mesiacov, ak o príspevok písomne požiada. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 49, 50g a § 57.
 
 (2) Príspevok sa poskytuje na úhradu
 

@@ -1,6 +1,6 @@
 # § 50c
 
-(1) Príspevok na podporu vytvárania a udržania pracovných miest v sociálnom podniku (ďalej len „príspevok“) pre zamestnancov, ktorí pred prijatím do pracovného pomeru boli znevýhodnenými uchádzačmi o zamestnanie, poskytuje sociálnemu podniku úrad, v ktorého územnom obvode sociálny podnik vykonáva predmet svojej činnosti. Podmienkou poskytnutia príspevku je uzatvorenie pracovného pomeru na dobu určitú so znevýhodneným uchádzačom o zamestnanie.
+(1) Príspevok na podporu vytvárania a udržania pracovných miest v sociálnom podniku (ďalej len „príspevok“) pre zamestnancov, ktorí pred prijatím do pracovného pomeru boli znevýhodnenými uchádzačmi o zamestnanie, poskytuje sociálnemu podniku úrad, v ktorého územnom obvode sociálny podnik vykonáva predmet svojej činnosti. Podmienkou poskytnutia príspevku je uzatvorenie pracovného pomeru na dobu určitú v rozsahu najmenej polovice ustanoveného týždenného pracovného času so znevýhodneným uchádzačom o zamestnanie.
 
 (2) Príspevok poskytuje úrad na základe uzatvorenej písomnej dohody počas 12 kalendárnych mesiacov najviac vo výške 50 % z celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje. Príspevok sa neposkytuje na zamestnávanie znevýhodneného uchádzača o zamestnanie, na ktorého zamestnanie bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50a, § 51a, § 56 a 56a.
 

@@ -40,9 +40,7 @@
 
 - e) preukázanie materiálneho vybavenia na vykonávanie predmetu činnosti sociálneho podniku,
 
-- f) okruh spolupracujúcich subjektov,
-
-- g) personálne zabezpečenie výkonu predmetu činnosti sociálneho podniku.
+- f) okruh spolupracujúcich subjektov.
 
 (8) Register sociálnych podnikov vedie ústredie. Zápis do registra sociálnych podnikov vykoná ústredie ku dňu uvedenému v žiadosti o priznanie postavenia sociálneho podniku. Ak žiadosť neobsahuje deň, ku ktorému právnická osoba alebo fyzická osoba žiada priznať postavenie sociálneho podniku alebo ak rozhodnutie o priznaní postavenia sociálneho podniku je vydané neskôr ako je deň uvedený v žiadosti o priznanie postavenia sociálneho podniku, ústredie vykoná zápis do registra sociálnych podnikov dňom uvedeným v rozhodnutí o priznaní postavenia sociálneho podniku. Register sociálnych podnikov ústredie zverejňuje na svojej internetovej stránke.
 
