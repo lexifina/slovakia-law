@@ -38,6 +38,6 @@
 
 - e) sa týkalo trestného činu, za ktorý možno uložiť trest odňatia slobody s hornou hranicou trestnej sadzby jeden rok alebo menej.
 
-(10) Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky oznámi Rade Európskej únie a Európskej komisii medzinárodné zmluvy týkajúce sa výmeny informácií a osobných údajov do troch mesiacov od ich podpisu.
+(10) Ministerstvo vnútra Slovenskej republiky oznámi Rade Európskej únie a Európskej komisii medzinárodné zmluvy týkajúce sa výmeny informácií a osobných údajov do troch mesiacov od ich podpisu.
 
 (11) Podrobnosti o vymieňaní informácií a osobných údajov s orgánmi členských štátov Európskej únie ustanovuje všeobecne záväzný právny predpis, ktorý vydá Ministerstvo vnútra Slovenskej republiky.

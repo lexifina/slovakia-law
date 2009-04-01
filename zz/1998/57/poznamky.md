@@ -1,8 +1,8 @@
 - 1) § 3 a 4 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 1a) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1a) § 6 a 8 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 1b) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 413/2007 Z. z., ktorou sa vymedzujú úseky diaľnic, ciest pre motorové vozidlá a ciest I. triedy s elektronickým výberom mýta.“.
+- § 7 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
 
 - 2) § 12 ods. 2 Trestného poriadku.
 
@@ -71,6 +71,8 @@
 - 25) § 13 Trestného zákona.
 
 - 26) § 14 Trestného zákona.
+
+- 26a) § 63 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
 - 27) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
