@@ -66,6 +66,8 @@
 
 - 22) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 23a) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 24) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
@@ -86,10 +88,6 @@
 
 - 30) Občiansky súdny poriadok.
 
-- 31) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 32) Zákon č. 351/1997 Z. z. Branný zákon.
-
 - 32a) § 4 až 8 zákona č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
 
 - 32b) § 12 až 14 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -103,3 +101,7 @@
 - 36) § 64 zákona č. 335/1991 Zb. v znení neskorších predpisov.
 
 - 37) § 101 zákona č. 757/2004 Z. z. v znení zákona č. 517/2008 Z. z.
+
+- 38) § 18g zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
+
+- 39) § 26 ods. 4 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
