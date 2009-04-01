@@ -1,6 +1,6 @@
 - 1) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
-- 2) Napríklad § 25 ods. 1 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 3 ods. 4 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, § 1 ods. 1 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+- 2) Napríklad § 3 ods. 4 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, § 1 ods. 1 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
 - 3) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
@@ -32,13 +32,11 @@
 
 - 13) Napríklad Základná zmluva medzi Slovenskou republikou a Svätou stolicou (oznámenie č. 326/2001 Z. z.), Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie č. 648/2002 Z. z.), Zmluva č. 250/2002 Z. z. medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami.
 
-- 15) Napríklad zákon č. 385/2000 Z. z., zákon č. 154/2001 Z. z., zákon č. 321/2002 Z. z. zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 15) Napríklad zákon č. 154/2001 Z. z., zákon č. 321/2002 Z. z. zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15a) § 7 ods. 5 a 6 zákona č. 321/2002 Z. z.
 
-- 16) Zákon č. 385/2000 Z. z.
-
-- Zákon č. 154/2001 Z. z.
+- 16) Zákon č. 154/2001 Z. z. v znení neskorších predpisov.
 
 - 17) Zákon č. 215/2004 Z. z.
 
@@ -86,7 +84,7 @@
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 28a) Napríklad § 6 zákona č. 385/2000 Z. z. v znení zákona č. 185/2002 Z. z., § 8 ods. 2 zákona č. 154/2001 Z. z., § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z.
+- 28a) Napríklad § 8 ods. 2 zákona č. 154/2001 Z. z., § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z.
 
 - 28b) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
