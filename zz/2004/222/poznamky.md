@@ -6,7 +6,19 @@
 
 - 4) § 476 až 488 Obchodného zákonníka.
 
-- 5) Napríklad zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+- 4a) § 66a Obchodného zákonníka.
+
+- 5) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+
+- Zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.
+
+- Zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
+
+- Zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.
+
+- Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov.
 
 - 5a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
 
@@ -83,6 +95,10 @@
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 29a) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 29b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 30) § 25 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
