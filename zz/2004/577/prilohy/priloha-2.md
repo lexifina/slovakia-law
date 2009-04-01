@@ -2,7 +2,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - NÁPLŇ PREVENTÍVNYCH PREHLIADOK Preventívna starostlivosť o deti a dorast | |
 
-- Obsah: | Komplexné pediatrické vyšetrenie zahŕňajúce poradenstvo rodičom. Pravidelné povinné očkovanie je možné vykonať aj mimo preventívnej prehliadky. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
+- Obsah: | Komplexné pediatrické vyšetrenie zahŕňajúce poradenstvo rodičom. Pravidelné povinné očkovanie je možné vykonať počas alebo mimo preventívnej prehliadky. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. |
 
 - Vykonáva: | lekár so špecializáciou v špecializačnom odbore pediatria |
 
@@ -28,37 +28,27 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | US vyšetrenie bedrových kĺbov u dojčiat | vykonáva sa v 8. až 10. týždni života
 
-- | 5. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť bedrových kĺbov. Vyšetrí sa psychomotorický vývin. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 1. dávka DiTePer, Hib, VHB | vykonáva sa v 3. až 4. mesiaci života
+- | 5. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť bedrových kĺbov. Vyšetrí sa psychomotorický vývin. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. | vykonáva sa v 3. až 4. mesiaci života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 3. až 4. mesiaci života
-
-- | 6. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch, reakcie očí a moč. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. Očkovanie: 2. dávka DiTePer, Hib, VHB | vykonáva sa v 5. až 6. mesiaci života
+- | 6. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch, reakcie očí a moč. Poskytne sa poradenstvo rodičom, podporí sa laktačný program. | vykonáva sa v 5. až 6. mesiaci života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 5. až 6. mesiaci života
 
 - | Močový sediment (semikvantitatívne) | vykonáva sa v 5. až 6. mesiaci života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 5. až 6. mesiaci života
-
 - | 7. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 7. až 8. mesiaci života
 
 - | 8. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 9. až 10. mesiaci života
 
-- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 3. dávka DiTePer, Hib, VHB | vykonáva sa v 11. až 12. mesiaci života
+- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 11. až 12. mesiaci života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 11. až 12. mesiaci života
+- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 15. mesiaci života
 
-- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. Očkovanie: 1. dávka MMR | vykonáva sa v 15. mesiaci života
-
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 15. mesiaci života
-
-- | 11. preventívna prehliadka Výkon zahŕňa: anamnézu od rodičov so zameraním na nové anamneastické údaje. Vyšetrenie celkového stavu, antropometrické merania. Kompletné pediatrické vyšetrenie. Overenie laterality, znalosť farby, odmeranie krvného tlaku, vyšetrenie moču, vyšetrenie reči, slovnej zásoby, vyšetrenie sluchu, kontrola chrbtice, genitálu. Odoslanie dieťaťa na potrebné odborné vyšetrenie. Posúdenie psychického vývoja. Zhodnotenie sociálnej situácie. Poskytne sa poradenstvo rodičom vrátane výživy. Očkovanie: DiTePer | vykonáva sa v 3. roku života
+- | 11. preventívna prehliadka Výkon zahŕňa: anamnézu od rodičov so zameraním na nové anamneastické údaje. Vyšetrenie celkového stavu, antropometrické merania. Kompletné pediatrické vyšetrenie. Overenie laterality, znalosť farby, odmeranie krvného tlaku, vyšetrenie moču, vyšetrenie reči, slovnej zásoby, vyšetrenie sluchu, kontrola chrbtice, genitálu. Odoslanie dieťaťa na potrebné odborné vyšetrenie. Posúdenie psychického vývoja. Zhodnotenie sociálnej situácie. Poskytne sa poradenstvo rodičom vrátane výživy. | vykonáva sa v 3. roku života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 3. roku života
 
 - | Močový sediment (semikvantitatívne) | vykonáva sa v 3. roku života
-
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 3. roku života
 
 - | 12. preventívna prehliadka Výkon zahŕňa: rozhovor s rodičmi zameraný na nové anamnestické údaje. Antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Hodnotenie psychomotorického vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Vyšetrenie znalosti farieb, ich slovné označenie. Udržiavanie telesnej čistoty. Posúdenie zaradenia dieťaťa do kolektívu v predškolskom období. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom vrátane výživy. | vykonáva sa v 5. roku života
 
@@ -66,9 +56,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Močový sediment (semikvantitatívne) | vykonáva sa v 5. roku života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 5. roku života
-
-- | 13. preventívna prehliadka Výkon zahŕňa: rozhovor s rodičmi zameraný na nové anamnestické údaje. Antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Hodnotenie psychomotorického vývoja. Vyšetrenie tlaku krvi, moču. Vyšetrenie znalosti farieb, ich slovné označenie. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Posúdenie školskej zrelosti. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom. Preočkovanie DiTePeR. Očkovanie s.c.,i.m. Súčasťou výkonu je kontrola zdravotného stavu poistenca po podaní očkovacej látky. | vykonáva sa v 6. roku života alebo v 7. roku, ak poistenec nenastúpil školskú dochádzku
+- | 13. preventívna prehliadka Výkon zahŕňa: rozhovor s rodičmi zameraný na nové anamnestické údaje. Antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Hodnotenie psychomotorického vývoja. Vyšetrenie tlaku krvi, moču. Vyšetrenie znalosti farieb, ich slovné označenie. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Posúdenie školskej zrelosti. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom. | vykonáva sa v 6. roku života alebo v 7. roku, ak poistenec nenastúpil školskú dochádzku
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 6. roku života alebo v 7. roku, ak poistenec nenastúpil školskú dochádzku
 
@@ -80,7 +68,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Močový sediment (semikvantitatívne) | vykonáva sa v 9. roku života
 
-- | 15. preventívna prehliadka Výkon zahŕňa: antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Vyšetrenie zamerané na deformity chrbtice, deformity nôh, posúdenie pohlavného vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Poruchy správania. Zhodnotenie sociálnej situácie. Vyšetrenie hladiny celkového cholesterolu. Pravidelné poradenstvo rodičom. Očkovanie: 2. dávka MMR, očkovanie proti hepatitíde VHB1, VHB2, VHB3 | vykonáva sa v 11. roku života
+- | 15. preventívna prehliadka Výkon zahŕňa: antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Vyšetrenie zamerané na deformity chrbtice, deformity nôh, posúdenie pohlavného vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Poruchy správania. Zhodnotenie sociálnej situácie. Vyšetrenie hladiny celkového cholesterolu. Pravidelné poradenstvo rodičom. | vykonáva sa v 11. roku života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 11. roku života
 
@@ -98,15 +86,11 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Sedimentácia erytrocytov - FW | vykonáva sa v 11. roku života
 
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 11. roku života
-
-- | 16. preventívna prehliadka Výkon zahŕňa: antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Vyšetrenie zamerané na deformity chrbtice, deformity nôh, posúdenie pohlavného vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Pohovor s rodičmi o otázke vhodnej voľby povolania a posúdenie prípadnej zmeny pracovnej schopnosti. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom. Očkovanie: DiTe | vykonáva sa v 13. roku života
+- | 16. preventívna prehliadka Výkon zahŕňa: antropometrické merania. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie. Vyšetrenie zamerané na deformity chrbtice, deformity nôh, posúdenie pohlavného vývoja. Vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi, moču. Posúdenie zdravotnej schopnosti vo vzťahu k povinnej školskej telesnej výchove. Pohovor s rodičmi o otázke vhodnej voľby povolania a posúdenie prípadnej zmeny pracovnej schopnosti. Zhodnotenie sociálnej situácie. Pravidelné poradenstvo rodičom. | vykonáva sa v 13. roku života
 
 - | Základné patologické súčasti moču (kompletný dôkaz) | vykonáva sa v 13. roku života
 
 - | Močový sediment (semikvantitatívne) | vykonáva sa v 13. roku života
-
-- | Očkovanie s.c., i.m. Súčasťou výkonu je kontrola zdravotného stavu pacienta po podaní očkovacej látky. | vykonáva sa v 13. roku života
 
 - | 17. preventívna prehliadka Výkon zahŕňa: antropometrické merania. Zhodnotenie kompletného zdravotného stavu. Vyšetrenie spočívajúce z posúdenia celkového stavu dieťaťa. Kompletné pediatrické fyzikálne vyšetrenie so záverom. Posúdenie pohlavného vývoja, vyšetrenie zrakovej ostrosti, vyšetrenie sluchu. Vyšetrenie tlaku krvi a moču. Záverečné hodnotenie celkového zdravotného stavu, spísanie epikrízy a odchýlok a porúch od normy. Pravidelné poradenstvo. | vykonáva sa v 15. roku života
 
@@ -391,6 +375,40 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 - | Sedimentácia erytrocytov - FW |
 
 - | US vyšetrenie malej panvy muža transabdominálne |
+
+- Preventívna gastroenterologická prehliadka | |
+
+- 1. Preventívne vykonanie dychového testu na Helicobacter pylori | |
+
+- Obsah | preventívna prehliadka poistenca s vykonaním dychového testu na Helicobacter pylori |
+
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gastroenterológia, detská gastroenterológia alebo lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo |
+
+- Okruh poistencov | poistenci od 19 do 20 rokov veku |
+
+- Periodicita | jeden raz |
+
+- 2. Preventívna prehliadka konečníka a hrubého čreva kolonoskopom | |
+
+- Obsah | preventívna prehliadka konečníka a hrubého čreva kolonoskopom spočíva vo vykonaní kolonoskopického vyšetrenia od análneho otvoru po cékum. Vyšetrenie je zamerané na vyhľadávanie polypov a včasných štádií rakoviny hrubého čreva a konečníka. Pri zistení nádoru alebo polypu sa z jeho povrchu odoberá vzorka tkaniva, ktorá sa odosiela na histologické vyšetrenie. V priebehu toho istého vyšetrenia sa vykonáva odstránenie polypu. Získaný polyp sa odosiela na histologické vyšetrenie. |
+
+- Vykonáva | lekár so špecializáciou v špecializačnom odbore gastroenterológia alebo lekár s certifikátom v certifikačnej pracovnej činnosti – diagnostická a intervenčná kolonoskopia |
+
+- Okruh poistencov | poistenci vo veku nad 50 rokov; u poistencov so zvýšeným rizikom ochorenia na rakovinu hrubého čreva a konečníka sa preventívna kolonoskopická prehliadka konečníka a hrubého čreva vykonáva bez vekového obmedzenia |
+
+- Periodicita | raz za desať rokov; pri negativite prvej preventívnej kolonoskopickej prehliadky konečníka a hrubého čreva u poistencov so zvýšeným rizikom ochorenia na rakovinu hrubého čreva a konečníka sa vykonáva ďalšia preventívna kolonoskopická prehliadka konečníka a hrubého čreva v periodicite raz za päť rokov |
+
+- Zoznam výkonov | |
+
+- | Názov výkonu | Indikačné obmedzenie
+
+- | kolonoskopické vyšetrenie od análneho otvoru po cékum |
+
+- | odber vzorky tkaniva pri zistení nádoru alebo polypu |
+
+- | endoskopické odstránenie polypu |
+
+- | odoslanie biologického materiálu na histologické vyšetrenie |
 
 - Preventívna prehliadka nariadená orgánmi na ochranu zdravia na predchádzanie prenosným ochoreniam |
 

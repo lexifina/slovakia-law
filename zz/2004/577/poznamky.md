@@ -40,7 +40,7 @@
 
 - 18) § 22 ods. 4 až 7 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 19) § 22 ods. 16 zákona č. 140/1998 Z. z. v znení zákona č. 342/2006 Z. z.
+- 19) § 22 ods. 16 a 17 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 19a) § 11 a 20 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -55,6 +55,10 @@
 - 20a) § 17 ods. 3 zákona č. 264/1999 Z. z. v znení zákona č. 254/2003 Z. z.
 
 - 20b) § 27 ods. 12 a 13 zákona č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+
+- 20c) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
+
+- § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) § 3 ods. 1 a § 30 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení zákona č. 195/2007 Z. z.
 
