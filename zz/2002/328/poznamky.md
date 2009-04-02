@@ -10,8 +10,6 @@
 
 - 3b) § 138 ods. 2, § 208 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 3c) § 65 ods. 1 písm. a), b), e) zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.§ 138 ods. 5 zákona č. 346/2005 Z. z.
-
 - 3d) § 93 ods. 1 písm. a), písm. b) bod 1., 3. až 7., písm. c) bod 1. až 3., 7. a 8. zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
 
 - § 138 ods. 5 zákona č. 346/2005 Z. z.
