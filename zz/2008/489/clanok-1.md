@@ -42,6 +42,8 @@ Po nadobudnutí právoplatnosti rozhodnutia o registrácii lieku zapíše štát
 
 12. V § 27 ods. 5 sa v prvej vete slová „zdravotnícka pomôcka“ nahrádzajú slovami „diagnostická zdravotnícka pomôcka in vitro“.
 
+14. V § 27 ods. 14 sa na konci pripája táto veta: „Zakazuje sa uvádzať na trh ortuťové teplomery, ktoré sú určené na meranie telesnej teploty.“.
+
 18. Za § 29a sa vkladá § 29b, ktorý vrátane nadpisu znie:
 
 „§ 29b
