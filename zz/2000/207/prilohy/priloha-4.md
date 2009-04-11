@@ -1,173 +1,75 @@
-Príloha č. 4 k vyhláške č. 207/2000 Z. z.
+Príloha č. 4
 
-- RAD MENOVITÝCH MNOŽSTIEV OBSAHU OZNAČENÝCH SPOTREBITEĽSKÝCH BALENÍ 1. Potravinárske výrobky predávané podľa hmotnosti
+k vyhláške č. 207/2000 Z. z.
 
-- (množstvo v g)
+POŽIADAVKY NA ODMERNÉ NÁDOBY
 
-- 1.1 Maslo, margarín a neemulgované rastlinné tuky alebo zmesné tuky vrátane nízkotučných nátierok
+1. Odmerné nádoby sa charakterizujú nasledujúcimi objemami, ktoré sa špecifikujú vždy pri teplote 20 <sup>o</sup>C:
 
-- 125 - 250 - 500 -1 000 - 1 500 - 2 000 - 2 500 - 5 000.
+1.1 Menovitý objem V<sub>n</sub> je objem vyznačený na nádobe. Je to objem kvapaliny, ktorý má nádoba obsahovať, ak je naplnená za podmienok použitia, pre ktoré je určená.
 
-- 1.2 Čerstvé syry okrem "petits suisses" a iné syry ponúkané na predaj rovnakým spôsobom
+- 1.2 Celkový objem nádoby je objem kvapaliny v nádobe naplnenej po okraj. Rozdiel medzi celkovým objemom nádoby a menovitým objemom nádoby sa nazýva expanzný objem.
 
-- 62,5 - 125 - 250 - 500 - 1 000 - 2 000 - 5 000.
+1.3 Skutočný objem nádoby je objem kvapaliny, ktorý nádoba skutočne obsahuje, keď je naplnená presne za podmienok zodpovedajúcich teoreticky menovitému objemu.
 
-- 1.3 Stolová a kuchynská soľ
+1.4 Hĺbka hladiny je zvislá vzdialenosť hladiny zodpovedajúcej menovitému objemu od horného okraja nádoby.
 
-- 125 - 250 - 500 - 750 - 1 000 - 1 500 - 5 000.
+- 2. Odmerné nádoby sa plnia na
 
-- 1.4 Práškový cukor, čiastočne rafinovaný cukor alebo čiastočne nerafinovaný cukor, alebo nerafinovaný cukor
+a) konštantnú hĺbku hladiny alebo
 
-- 125 - 250 - 500 - 750 - 1 000 - 1 500 - 2 000 - 2 500 - 3 000 - 4000 - 5000.
+b) konštantný expanzný priestor.
 
-- 1.5 Výrobky z obilia (okrem potravín pre dojčatá)
+Všetky nádoby rovnakého typu, t. j. všetky nádoby vyrobené podľa toho istého návrhu, musia mať hĺbku hladiny, ako aj veľkosť expanzného objemu dostatočne konštantnú.
 
-- 1.5.1 Obilninová múka, krúpy, vločky a ovsená múka a drvené obilie, ovsené vločky (okrem výrobkov uvedených v 1.5.4)
+- 3. Aby bolo možné za predpokladu bežných neistôt pri plnení merať objem obsahu odmernej nádoby s dostatočne malou neistotou a najmä s neistotou požadovanou v prílohe č. 2 k tejto vyhláške, odmerné nádoby musia spĺňať požiadavku najväčšej dovolenej chyby. Najväčšie dovolené chyby objemu odmernej nádoby, t. j. najväčšie dovolené rozdiely medzi menovitým objemom Vn a skutočným objemom nádoby pri teplote 20 <sup>o</sup>C a za podmienok kontroly ustanovených v prílohe č. 5 sú uvedené v tejto tabuľke:
 
-- 125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 2 500<sup>1</sup>) - 5 000 - 10 000.
+Menovitý objem V<sub>n</sub> v ml | | | | Najväčšie dovolené chyby |
 
-- 1.5.2 Cestoviny
+| | | | v % z V<sub>n</sub> | v ml
 
-- 125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 3 000 - 4 000 - 5 000 - 10 000.
+od | 50 | do | 100 | - | ± 3
 
-- 1.5.3 Ryža
+od | 100 | do | 200 | ± 3 | -
 
-- 125 - 250 - 500 - 1 000 - 2 000 - 2 500 - 5 000.
+od | 200 | do | 300 | - | ± 6
 
-- 1.5.4 Upravené potraviny získané podobnými spôsobmi, ako je napučanie alebo praženie obilnín alebo obilninových výrobkov (burizony, pražené kukuričné vločky a podobné výrobky)
+od | 300 | do | 500 | ± 2 | -
 
-- 250 - 375 - 500 - 750 - 1 000 - 1 500 - 2 000.
+od | 500 | do | 1 000 | - | ± 10
 
-- 1.6 Sušená zelenina,<sup>2</sup>) sušené ovocie
+od | 1 000 | do | 5000 | ± 1 | -
 
-- 125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 5 000 - 7 500 - 10 000.
+Najväčšia dovolená chyba celkového objemu nádoby je rovnaká ako najväčšia dovolená chyba zodpovedajúceho menovitého objemu.
 
-- 1.7 Mletá alebo nemletá pražená káva, cigória a náhradky kávy
+4. V praxi sa skutočný objem nádoby kontroluje určením množstva vody pri teplote 20 <sup>o</sup>C, ktoré nádoba skutočne obsahuje, ak je naplnená po hladinu teoreticky zodpovedajúcu menovitému objemu. Kontrolu možno vykonať aj nepriamo ekvivalentnou metódou.
 
-- 125 - 250 - 500 - 1 000 - 2 000 - 3 000 - 4 000 - 5 000 - 10 000.
+5. Každý výrobca odmerných nádob predkladá úradu na schválenie značku, ktorá umožňuje jeho identifikáciu.
 
-- 1.8 Mrazené výrobky
+Úrad schválenie značky oznamuje orgánom Európskych spoločenstiev a členským štátom Európskych spoločenstiev, ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná.
 
-- 1.8.1 Ovocie a zelenina a predsmažené zemiakové hranolčeky
+Výrobca na svoju zodpovednosť umiestňuje značku Európskych spoločenstiev označujúcu meradlo, ktoré nepodlieha schváleniu typu. Značka musí byť vysoká minimálne 3 mm.
 
-- 150 - 300 - 450 - 600 - 750 - 1 000 - 1 500 - 2 000 - 2 500.
+6. Slovenský metrologický inšpektorát (ďalej len „metrologický inšpektorát“) kontroluje, či odmerné nádoby vyhovujú ustanoveniam tejto vyhlášky. Kontrola sa vykonáva odoberaním vzoriek odmerných nádob priamo u výrobcu alebo v prevádzke dovozcu.
 
-- 1.8.2 Rybie filé a porciované ryby, obaľované alebo neobaľované
+Táto štatistická kontrola vzoriek sa vykonáva v súlade s prijatými metódami kontroly kvality. Jej účinnosť má byť porovnateľná s účinnosťou kontroly vykonanej referenčnou metódou špecifikovanou v prílohe č. 5.
 
-- 100 - 200 - 300 - 400 - 500 - 600 - 800 - 1 000 - 2 000.
+7. Výkonom dozoru metrologickým inšpektorátom nie je dotknutá pôsobnosť ostatných orgánov štátnej správy vykonávať kontrolu odmerných nádob v ľubovoľnej etape uvádzania na trh podľa osobitných predpisov.
 
-- 1.8.3 Rybie prsty
+8. Na odmerných nádobách musia byť vyznačené nezmazateľné, viditeľné a ľahko čitateľné tieto údaje:
 
-- 150 - 300 - 450 - 600 - 900 - 1 200 - 1 500 - 1 800.
+8.1 Na boku, na spodnom okraji alebo na dne:
 
-- 2. Potraviny predávané podľa objemu
+8.1.1 Údaj o menovitom objeme vyjadrený v litroch, centilitroch alebo mililitroch vyznačený číslicami s výškou najmenej 6 mm, ak je menovitý objem väčší ako 100 cl, 4 mm, ak je v rozsahu nad 20 cl do 100 cl vrátane, a 3 mm, ak je menovitý objem do 20 cl vrátane. Za touto číslicou nasleduje symbol jednotky, prípadne jej názov.
 
-- (množstvo v ml)
+8.1.2 Identifikačná značka výrobcu.
 
-- 2.1 Zmrzlina vo väčších množstvách ako 250 ml
+8.1.3 Značka Európskych spoločenstiev označujúca meradlo, ktoré nepodlieha schváleniu typu, je uvedená v osobitnom predpise.
 
-- (okrem akejkoľvek zmrzliny, ktorej objem nie je určený tvarom obalovej nádoby)
+8.2 Na dne alebo na spodnom okraji musia byť vyznačené ďalšie údaje v závislosti od metódy alebo metód plnenia, na ktorú je odmerná nádoba určená, a to tak, aby nedošlo k ich zámene s údajmi o menovitom objeme, pričom číslice vyznačujúce tieto údaje musia byť minimálne také vysoké ako číslice menovitého objemu:
 
-- 300 - 500 - 750 - 1 000 - 1 500 - 2 000 - 2 500 - 3 000 - 4 000 - 5 000.
+8.2.1 Hodnota celkového objemu vyjadrená v centilitroch, avšak bez symbolu „cl“ a/alebo
 
-- 3. Suché krmivo pre psov a mačky<sup>3</sup>)
+- 8.2.2 Hodnota hĺbky hladiny vyjadrená v milimetroch, za ktorou nasleduje symbol „mm“.
 
-- (množstvo v g)
-
-- 200 - 300 - 400 - 500 - 600 - 800 - 1 000 - 1 500 - 2 000 - 3 000 - 5 000 - 7 500 - 10 000.
-
-- 4. Náterové farby a látky pripravené na použitie<sup>4</sup>)
-
-- (s prídavkom alebo bez prídavku rozpúšťadla s výnimkou dispergovaných farbív a roztokov; množstvo v ml)
-
-- 25 - 50 - 125 - 250 - 375 - 500 - 750 - 1 000 - 2 000 - 2 500 - 4 000 - 5 000 - 10 000.
-
-- 5. Tuhé alebo práškové lepidlá a pojivá<sup>4</sup>)
-
-- (množstvo v g)
-
-- 25 - 50 - 125 - 250 - 500 - 1 000 - 2 500 - 5 000 - 8 000 - 10 000.
-
-- 6. Čistiace prostriedky<sup>4</sup>)
-
-- (tuhé a práškové látky - množstvo v g; tekuté látky a pasty - množstvo v ml)
-
-- okrem iného prípravky na kožu a obuv, na drevo a podlahové krytiny, na rúry na pečenie a kovy vrátane použitia na automobily, na okná a zrkadlá vrátane použitia na automobily, prípravky na odstraňovanie škvŕn, na apretáciu a farbenie v domácnosti, prostriedky proti domácemu hmyzu, prípravky na odstraňovanie vodného kameňa, dezodoranty pre domácnosť, nefarmaceutické dezinfekčné prostriedky
-
-- 25 - 50 - 75 - 100 - 150 - 200 - 250 - 375 - 500 - 750 - 1 000 - 1 500 - 2 000 - 5 000 - 10 000.
-
-- 7. Kozmetika: skrášľovacie a toaletné prípravky
-
-- (tuhé a práškové látky - množstvo v g; tekuté látky a pasty - množstvo v ml)
-
-- 7.1 Prípravky na ošetrovanie pokožky a hygienu ústnej dutiny
-
-- holiace krémy, univerzálne krémy a kozmetické vody, krémy a vody na ruky, prípravky na opaľovanie, prípravky používané pri hygiene ústnej dutiny (okrem zubnej pasty)
-
-- 15 - 30 - 40 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300 - 400 - 500 - 1 000.
-
-- 7.2 Zubná pasta
-
-- 25 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300.
-
-- 7.3 Výrobky na ošetrovanie vlasov (okrem farieb) a prípravky do kúpeľa
-
-- lak, šampóny, prípravky na oplachovanie a tužidlá, brilantíny, vlasový krém (okrem vlasových vôd, ktoré sú uvedené v 7.4), peny do kúpeľa a iné penivé výrobky do kúpeľa a na sprchovanie
-
-- 25 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300 - 400 - 500 - 750 - 1 000 - 2 000.
-
-- 7.4 Prípravky na báze alkoholu
-
-- obsahujúce menej ako 3 % prírodného alebo syntetického voňavého oleja podľa objemu a menej ako 70 % čistého etylalkoholu podľa objemu: parfumy vody, vlasové vody, vody používané pred holením a po holení
-
-- 15 - 25 - 30 - 40 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300 - 400 - 500 - 750 - 1 000.
-
-- 7.5 Dezodoranty a výrobky na osobnú hygienu
-
-- 20 - 25 - 30 - 40 - 50 - 75 - 100 - 150 - 200.
-
-- 7.6 Kozmetické púdre
-
-- 50 - 75 - 100 - 150 - 200 - 250 - 500 - 1 000.
-
-- 8. Prostriedky na umývanie a pranie<sup>4</sup>)
-
-- 8.1 Tuhé toaletné a pracie mydlá (množstvo v g)
-
-- 25 - 50 - 75 - 100 - 150 - 200 - 250 - 300 - 400 - 500 - 1 000.
-
-- 8.2 Mazľavé mydlá (množstvo v g)
-
-- 125 - 250 - 500 - 750 - 1 000 - 5 000 - 10 000.
-
-- 8.3 Mydlové vločky a podobne (množstvo v g)
-
-- 250 - 500 - 750 - 1 000 - 3 000 - 5 000 - 10 000.
-
-- 8.4 Tekuté prostriedky na umývanie, pranie, čistenie a plákanie a pomocné prostriedky a chlórnanové prípravky<sup>4</sup>) (okrem prostriedkov, ktoré sú uvedené v bode 6) (množstvo v ml)
-
-- 125 - 250 - 500 - 750 - 1 000 - 1 250 - 1 500 - 2 000 - 3 000 - 4 000 - 5 000 - 6 000 - 7 000 - 10 000.
-
-- 8.5 Pracie prášky<sup>4</sup>) (množstvo v g)
-
-- 250 - 500 - 750 - 1 000 - 10 000.
-
-- 8.6 Prášky na predpieranie a namáčanie v práškovej forme<sup>4</sup>) (množstvo v g)
-
-- 250 - 500 - 1 000 - 2 000 - 5 000 - 10 000.
-
-- 9. Rozpúšťadlá<sup>4</sup>) (množstvo v ml)
-
-- 25 - 50 - 75 - 125 - 250 - 500 - 1 000 - 1 500 - 2 500 - 5 000 - 10 000.
-
-- 10. Mazacie oleje<sup>4</sup>) (množstvo v ml)
-
-- 125 - 250 - 500 - 1 000 - 2 000 - 2 500 - 3 000 - 4 000 - 5 000 - 10 000.
-
-- 11. Pletacie priadze (množstvo v g)
-
-- vyrobené z prírodných vlákien (živočíšnych, rastlinných alebo minerálnych), z chemických vlákien alebo z ich zmesí.
-
-- Hodnota v gramoch znamená suchú hmotnosť priadze upravenú pomocou zmluvných prirážok
-
-- 10 - 20 - 50 - 100 - 150 - 200 - 250 - 300 - 350 - 400 - 450 - 500 - 1 000.
+8.3 Na nádobe môžu byť vyznačené aj iné údaje za predpokladu, že nespôsobia zámenu s povinnými údajmi.

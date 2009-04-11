@@ -4,7 +4,7 @@ Príloha č. 2 k vyhláške č. 207/2000 Z. z.
 
 - Skutočný obsah označených spotrebiteľských balení možno merať buď priamo vážením, alebo objemovými meradlami, alebo v prípade kvapalín nepriamo, zistením hmotnosti zabaleného výrobku a jeho hustoty.
 
-- Nezávisle od použitej metódy chyba merania skutočného obsahu označeného spotrebiteľského balenia nesmie byť väčšia ako jedna pätina dovolenej zápornej chyby pre menovité množstvo označeného spotrebiteľského balenia.
+- Nezávisle od použitej metódy rozšírená kombinovaná štandardná neistota merania (k = 2) skutočného obsahu označeného spotrebiteľského balenia nesmie byť väčšia ako jedna pätina dovolenej zápornej chyby pre menovité množstvo označeného spotrebiteľského balenia.
 
 - 2. Požiadavky na kontrolu dávok označených spotrebiteľských balení
 

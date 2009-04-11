@@ -6,7 +6,7 @@ Príloha č. 1 k vyhláške č. 207/2000 Z. z.
 
 - 1.2 Skutočný obsah označeného spotrebiteľského balenia je množstvo (hmotnosť alebo objem) výrobku, ktoré v skutočnosti obsahuje. Vo všetkých operáciách pri kontrole množstva výrobku vyjadreného v jednotkách objemu musí byť hodnota, ktorú má skutočný obsah, meraná pri teplote 20 <sup>o</sup>C alebo korigovaná na teplotu 20 <sup>o</sup>C bez ohľadu na to, pri akej teplote sa vykonáva balenie alebo kontrola. Toto pravidlo neplatí pre hlboko zmrazené alebo mrazené výrobky, ktorých množstvo je vyjadrené v jednotkách objemu.
 
-- 1.3 Záporná chyba označeného spotrebiteľského balenia je množstvo, o ktoré je skutočný obsah označeného spotrebiteľského balenia menší ako menovité množstvo.
+- 1.3 Záporná chyba obsahu označeného spotrebiteľského balenia (ďalej len „záporná chyba“) je množstvo, o ktoré je skutočný obsah označeného spotrebiteľského balenia menší ako menovité množstvo.
 
 - 2. Požiadavky na označené spotrebiteľské balenia
 
@@ -48,7 +48,7 @@ Príloha č. 1 k vyhláške č. 207/2000 Z. z.
 
 - 3.2 Značku alebo nápis umožňujúci kontrolnému orgánu zistiť baliareň alebo dovozcu.
 
-- 3.3 Značku „e“ s výškou minimálne 3 mm umiestnenú na tom istom mieste ako označenie menovitej hmotnosti alebo menovitého objemu, ktorou baliareň alebo dovozca zaručuje, že označené spotrebiteľské balenie spĺňa požiadavky tejto vyhlášky.
+- 3.3 Značku „e“ s výškou minimálne 3 mm umiestnenú na tom istom mieste ako označenie menovitej hmotnosti alebo menovitého objemu, ktorou baliareň alebo dovozca zaručuje, že označené spotrebiteľské balenie spĺňa požiadavky tejto vyhlášky. Grafické znázornenie značky „e“ je v prílohe č. 6.
 
 - 3.4 Ak je však obalom odmerná nádoba spĺňajúca požiadavky podľa prílohy č. 6 k tejto vyhláške a ak je údaj o menovitom objeme viditeľný za bežných podmienok vystavovania výrobku, vyznačenie menovitého objemu výrobku podľa bodu 3.1 nie je nevyhnutné.
 
