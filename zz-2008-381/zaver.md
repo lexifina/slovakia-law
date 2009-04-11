@@ -1,0 +1,1 @@
+Peter Lukáč v. r.
