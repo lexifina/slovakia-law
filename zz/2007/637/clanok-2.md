@@ -1,3 +1,0 @@
-# Čl. II
-
-Toto nariadenie vlády nadobúda účinnosť 5. januára 2008.
