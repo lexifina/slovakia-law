@@ -6,9 +6,13 @@
 
 - 4) § 13 a 16 zákona 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
 
+- 4a) § 16 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+
 - 5) Napríklad STN 33 0300 Prostredia pre elektrické zariadenia. Určovanie vonkajších vplyvov, STN 33 0300 Elektrotechnické predpisy. Druhy prostredí pre elektrické zariadenia, STN 33 2000-5-51 Elektrické inštalácie budov. Časť 5: Výber a stavba elektrických zariadení. Kapitola 51: Spoločné pravidlá.
 
 - 6) § 14 zákona č. 124/2006 Z. z.
+
+- 6a) STN 33 1500 Elektrotechnické predpisy. Revízie elektrických zariadení.
 
 - 7) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov v znení smernice 98/48/ES.
 
@@ -30,7 +34,7 @@
 
 - 12) STN EN 61241-14 Elektrické zariadenia do priestorov s horľavým prachom. Časť 14: Výber a inštalácia.
 
-- 13) Vyhláška Ministerstva vnútra Slovenskej republiky č. 95/2004 Z. z., ktorou sa ustanovujú technické podmienky a požiadavky protipožiarnej bezpečnosti pri inštalácii a prevádzkovaní palivových spotrebičov, elektrotepelných spotrebičov a zariadení ústredného vykurovania a pri výstavbe a používaní komínov a dymovodov.
+- 13) Vyhláška Ministerstva vnútra Slovenskej republiky č. 401/2007 Z. z. o technických podmienkach a požiadavkách na protipožiarnu bezpečnosť pri inštalácii a prevádzkovaní palivového spotrebiča, elektrotepelného spotrebiča a zariadenia ústredného vykurovania a pri výstavbe a používaní komína a dymovodu a o lehotách ich čistenia a vykonávania kontrol.
 
 - 14) Napríklad nariadenie vlády Slovenskej republiky č. 117/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zariadení a ochranných systémov určených na použitie v prostredí s nebezpečenstvom výbuchu v znení nariadenia vlády Slovenskej republiky č. 296/2002 Z. z., STN EN 50281-1-1 Elektrické zariadenia do priestorov s horľavým prachom. Časť 1-1: Elektrické zariadenia chránené krytom. Konštrukcia a skúšanie, STN EN 50281-1-2 Elektrické zariadenia do priestorov s horľavým prachom. Časť 1-2: Elektrické zariadenia chránené krytom. Výber, inštalácia a údržba, STN EN 50281-3 Zariadenia do priestorov s horľavým prachom. Časť 3: Určovanie priestorov s možnosťou výskytu horľavých prachov, STN EN 61241-17 Elektrické zariadenia do priestorov s horľavým prachom. Časť 17: Prehliadka a údržba elektrických inštalácií v priestoroch s nebezpečenstvom výbuchu (okrem baní).
 

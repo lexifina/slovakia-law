@@ -6,7 +6,7 @@ Príloha č. 4 k vyhláške č. 605/2007 Z. z.
 
   - b) prestup elektrického rozvodu cez stavebné konštrukcie obsahujúce v mieste prestupu materiály triedy reakcie na oheň A2, B, C, D, E a F je vyhotovený nehorľavými prestupovými systémami, napríklad v nehorľavých tepelnoizolačných rúrkach,
 
-  - c) elektrické zariadenie namontované na stavebné konštrukcie obsahujúce materiály triedy reakcie na oheň A2, B, C, D, E a F spĺňa technické požiadavky podľa technickej normy,<sup>24</sup>)
+  - c) elektrické zariadenie namontované na stavebné konštrukcie obsahujúce materiály triedy reakcie na oheň A2, B, C, D, E a F spĺňa technické požiadavky podľa technickej normy,<sup>20</sup>)
 
   - d) elektrický vodič alebo kábel, ktorý nemá izoláciu odolnú proti šíreniu plameňa, je namontovaný tak, aby sa nedotýkal konštrukčných prvkov obsahujúcich materiály triedy reakcie na oheň A2, B, C, D, E a F,
 
