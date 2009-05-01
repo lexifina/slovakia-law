@@ -11,3 +11,9 @@
 - 6) Článok 7 ods. 2 nariadenia č. 21/2004.
 
 - 7) § 6 ods. 2 písm. i) piaty bod zákona č. 39/2007 Z. z.
+
+- 8) § 5 písm. k) zákona č. 39/2007 Z. z.
+
+- 9) Príloha časť B bod 2 nariadenia Rady (ES) č. 21/2004.
+
+- 10) Čl. 5 ods. 3 a čl. 6 ods. 3 nariadenia Rady (ES) č. 21/2004.
