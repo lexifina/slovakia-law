@@ -1,0 +1,1 @@
+- 1) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
