@@ -93,3 +93,5 @@ Príloha č. 4 k nariadeniu vlády č. 20/2009 Z. z.
   - – nariadenia Komisie (ES) č. 993/2007 z 27. augusta 2007 (Ú. v. EÚ L 222, 28. 8. 2007),
 
   - – nariadenia Komisie (ES) č. 1548/2007 z 20. decembra 2007 (Ú. v. EÚ L 337, 21. 12. 2007).
+
+  - 4. Nariadenie Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009).

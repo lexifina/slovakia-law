@@ -1,18 +1,18 @@
-- 1) Čl. 2 písm. d) nariadenia Rady (ES) č. 1782/2003 z 29. septembra 2003, ktorým sa stanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov a ktorým sa menia a dopĺňajú nariadenia (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/94, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
+- 1) Čl. 2 písm. d) nariadenia Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009).
 
-- 2) Čl. 143b nariadenia (ES) č. 1782/2003.
+- 2) Čl. 121 nariadenia (ES) č. 73/2009.
 
 - 3) Čl. 88 až 92 nariadenia (ES) č. 1782/2003.
 
-- 4) Čl. 143ba nariadenia (ES) č. 1782/2003.
+- 4) Čl. 126 nariadenia (ES) č. 73/2009.
 
-- 5) Čl. 143bb nariadenia (ES) č. 1782/2003.
+- 5) Čl. 127 nariadenia (ES) č. 73/2009.
 
-- 6) Čl. 143bc nariadenia (ES) č. 1782/2003.
+- 6) Čl. 128 nariadenia (ES) č. 73/2009.
 
-- 7) Čl. 2 písm. a) nariadenia (ES) č. 1782/2003.
+- 7) Čl. 2 písm. a) nariadenia (ES) č. 73/2009.
 
-- 8) Čl. 2 písm. c) nariadenia (ES) č. 1782/2003.
+- 8) Čl. 2 písm. c) nariadenia (ES) č. 73/2009.
 
 - 9) § 2 písm. c) a § 7 ods. 1 písm. i) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
@@ -60,11 +60,11 @@
 
 - 30) Hlava III nariadenia Rady (ES) č. 1182/2007 z 26. septembra 2007, ktorým sa stanovujú osobitné pravidlá pre sektor ovocia a zeleniny a menia a dopĺňajú smernice 2001/112/ES a 2001/113/ES a nariadenia (EHS) č. 827/68, (ES) č. 2200/96, (ES) č. 2201/96, (ES) č. 2826/2000, (ES) č. 1782/2003 a (ES) č. 318/2006 a zrušuje nariadenie (ES) č. 2202/96 (Ú. v. EÚ L 273/1, 17. 10. 2007).
 
-- 31) Čl. 3 a čl. 5 hlava II kap. I nariadenia (ES) č. 1782/2003.
+- 31) Čl. 4 až 6 nariadenia (ES) č. 73/2009.
 
 - 32) Hlava III kap. III nariadenia (ES) č. 796/2004.
 
-- 33) Čl. 6 ods. 3 nariadenia (ES) č. 1782/2003.
+- 33) Čl. 23 ods. 2 nariadenia (ES) č. 73/2009.
 
 - 34) Čl. 2 ods. 11 a hlava II kap. I nariadenia (ES) č. 796/2004.
 
@@ -80,11 +80,11 @@
 
 - 39) Čl. 74 nariadenia (ES) č. 796/2004.
 
-- 40) Čl. 40 ods. 4 nariadenia (ES) č. 1782/2003.
+- 40) Čl. 31 nariadenia (ES) č. 73/2009.
 
 - 41) Čl. 72 nariadenia (ES) č. 796/2004.
 
-- 42) Napríklad nariadenie (ES) č. 1782/2003, nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní Spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005) v platnom znení, § 3 ods. 2 písm. b) zákona č. 543/2007 Z. z.
+- 42) Napríklad nariadenie (ES) č. 73/2009, nariadenie Rady (ES) č. 1290/2005 z 21 júna 2005 o financovaní Spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005) v platnom znení, § 3 ods. 2 písm. b) zákona č. 543/2007 Z. z.
 
 - 43) § 9 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -94,10 +94,10 @@
 
 - 46) Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 338/2005 Z. z., ktorou sa ustanovujú podrobnosti o postupe pre odber pôdnych vzoriek, spôsobe a rozsahu vykonávania agrochemického skúšania pôd, zisťovania pôdnych vlastností lesných pozemkov a o vedení evidencie hnojenia pôdy a stavu výživy rastlín na poľnohospodárskej pôde a na lesných pozemkoch.
 
-- 47) Nariadenie vlády Slovenskej republiky č. 305/2003 Z. z. o identifikácii a registrácii zvierat v znení nariadenia vlády č. 429/2005 Z. z.
+- 47) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 407/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii ošípaných v znení neskorších predpisov.
 
-- 48) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 407/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii ošípaných.
+- 48) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 372/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii hovädzieho dobytka a o zmene vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 206/2007 Z. z. o klasifikácii jatočne opracovaných tiel hovädzieho dobytka, jatočne opracovaných tiel oviec, o odbornej príprave a o osvedčení o odbornej spôsobilosti.
 
-- 49) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 372/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii hovädzieho dobytka a o zmene vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 206/2007 Z. z. o klasifikácii jatočne opracovaných tiel hovädzieho dobytka, jatočne opracovaných tiel oviec, o odbornej príprave a o osvedčení o odbornej spôsobilosti.
+- 49) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 371/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii oviec a kôz.
 
 - 50) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 371/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii oviec a kôz.
