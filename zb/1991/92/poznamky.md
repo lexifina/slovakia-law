@@ -56,6 +56,8 @@
 
 - 8b) Zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení zákona Slovenskej národnej rady č. 501/1991 Zb., zákona Slovenskej národnej rady č. 29/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z.
 
+- 8ba) § 54 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
 - 8c) § 15 a 16 ods. 1 zákona Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.§ 7 písm. b), § 10 ods. 3 a § 22 ods. 3 zákona č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
 
 - 8ca) § 49b ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 348/1999 Z. z.
@@ -71,6 +73,10 @@
 - 8ga) Napríklad zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
 
 - 8h) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
+
+- 8i) § 105 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 8j) § 22 zákona č. 566/2001 Z. z. v znení zákona č. 644/2006 Z. z.
 
 - 9) § 163 ods. 1 písm. e) Obchodného zákonníka.
 
