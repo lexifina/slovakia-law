@@ -84,6 +84,8 @@
 
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
+- 17a) § 99 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
 - 18) § 3a, § 9 ods. 4 a § 21 ods. 7 až 9 Obchodného zákonníka.
 
 - 19) § 53 Občianskeho súdneho poriadku.
