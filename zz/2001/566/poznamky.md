@@ -358,6 +358,8 @@
 
 - § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
+- 97c) § 29 ods. 11 písm. a) zákona č. 92/1991 Zb. v znení zákona č. 160/2009 Z. z.
+
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 99) § 276 až 279 Obchodného zákonníka.
