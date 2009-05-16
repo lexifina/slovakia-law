@@ -1,1 +1,5 @@
-Príloha č. 1 k vyhláške č. 161/2008 Z. z. [Vzor 01](../assets/aa1ad953951f6e1a8e5f0b7ca524027678f58a9a37cbb3576dbe9300c9efe3f0.pdf)
+Príloha č. 1 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné") zamestnanca za rok 2008
+
+TYP A
+
+[Vzor 01](../assets/806892998131dbbb390dd2e1449dac61cacfb9a32eb11c413ea97359fbae565a.pdf)

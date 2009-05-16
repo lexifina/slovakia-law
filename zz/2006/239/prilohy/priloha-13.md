@@ -1,1 +1,3 @@
-Príloha č. 13 k vyhláške č. 161/2008 Z. z. [Vzor 13](../assets/b7109c4fa0981afae2a1247b714f4b5e1ef96a2f6da3e2bc60fc5b5d3e16ea3e.pdf)
+Príloha č. 13 k vyhláške č. 239/2006 Z. z. LIST XD - zamestanec s príjmami podľa § 13 ods. 5 zákona
+
+[Vzor 13](../assets/10580de461f0ef35f75be99cefe6c322bd707e0e398e8cd6484df15542f247f5.pdf)

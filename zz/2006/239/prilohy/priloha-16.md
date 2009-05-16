@@ -1,1 +1,3 @@
-Príloha č. 16 k vyhláške č. 161/2008 Z. z. [Vzor 16](../assets/42c447f7cb51875fefed8b9627e39289ccae2469960928ec0cd27dcbc1d29cbc.pdf)
+Príloha č. 16 k vyhláške č. 239/2006 Z. z. DOKLAD O VÝŠKE PRÍJMU A O PREDDAVKOCH NA POISTNÉ NA ROK 2008<sup>1)</sup>
+
+[Vzor 16](../assets/da2d62b55edb0ab0ed130bacabdaa56553a8958b7d9668e8274ed02da863d336.pdf)

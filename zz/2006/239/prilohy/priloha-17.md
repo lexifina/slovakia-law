@@ -1,1 +1,3 @@
-Príloha č. 17 k vyhláške č. 161/2008 Z. z. [Vzor 17](../assets/d076fa60116d4778eec58551a88e7f8686bfe256f99a86f5c5e3bccda2b77bc0.pdf)
+Príloha č. 17 k vyhláške č. 239/2006 Z. z. OZNÁMENIE O NEDOPLATLU ALEBO PREPLATKU ZAMESTNÁVATEĽA ZA ROK 2008
+
+[Vzor 17](../assets/42eb825f654be3705f302fa7fa0d031d729ba4e4738ff7f4934789108fa72c06.pdf)

@@ -1,1 +1,3 @@
-Príloha č. 7 k vyhláške č. 161/2008 Z. z. [Vzor 07](../assets/f5363d067b30b35ca97f912481eae96ee0f0167cf508a0f9745f78ca373fc31a.pdf)
+Príloha č. 7 k vyhláške č. 239/2006 Z. z. LIST SC - platiteľ poistného podľa § 11 ods. 2 zákona
+
+[Vzor 07](../assets/efdbc0b9ba607e16516f655a6a7bd873220c6c53b6b11058c10f582ec26bf3e3.pdf)

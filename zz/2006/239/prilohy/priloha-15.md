@@ -1,3 +1,5 @@
-Príloha č. 15 k vyhláške č. 161/2008 Z. z.
+Príloha č. 15 k vyhláške č. 239/2006 Z. z.
 
-[Vzor 15](../assets/806ac5e64cc8d0ed39267148aa85273a3fff7e13d50b7bc5c379eff3727b08ec.pdf)
+ŽIADOSŤ 2008
+
+[Vzor 15](../assets/d3e846fcc5a9220658cbb15c0da56fc291682388972c12e0d8b3230d0bdbc586.pdf)

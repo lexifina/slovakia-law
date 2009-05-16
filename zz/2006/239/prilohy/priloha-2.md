@@ -1,1 +1,5 @@
-Príloha č. 2 k vyhláške č. 161/2008 Z. z. [Vzor 02](../assets/cb82b0a85c6555ff22e596e6ca782509a53740ba6ae1f86b6f2f779fb2fc3a39.pdf)
+Príloha č. 2 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné") samostatne zárobkovo činnej osoby za rok 2008
+
+TYP B
+
+[Vzor 02](../assets/5af11b5f194606ecdec073358d9dca70aacdb4ffa8bdae28d15cd7c8482261da.pdf)
