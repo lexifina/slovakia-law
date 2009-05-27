@@ -122,6 +122,16 @@
 
 - 50) § 77 až 79 zákona č. 566/2001 Z. z.
 
+- 50a) § 7 a 8 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 50b) § 13 zákona č. 186/2009 Z. z.
+
+- 50c) § 8a ods. 4 zákona č. 566/2001 Z. z.
+
+- 50d) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 50e) § 22 zákona č. 186/2009 Z. z.
+
 - 51) § 158 zákona č. 566/2001 Z. z.
 
 - 52) § 136 až 142 Občianskeho zákonníka.
@@ -132,7 +142,7 @@
 
 - 54) § 11 zákona č. 566/2001 Z. z.
 
-- 55) § 10 ods. 4 písm. a) a c) zákona č. 566/2001 Z. z.
+- 55) § 10 ods. 4 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 56) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
