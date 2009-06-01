@@ -25,3 +25,5 @@
 - c) lehota podľa § 27a ods. 10 do 31. decembra 2008.
 
 (3) Ročné zúčtovanie za rok 2007 sa vykoná podľa tohto zákona.
+
+(4) Ročné zúčtovanie poistného nevykonávajú poistenci zdravotnej poisťovne za rok, v ktorom jej zanikla platnosť povolenia z iného dôvodu ako pre zrušenie povolenia. Preddavky na poistné, ktoré mali byť zaplatené za rozhodujúce obdobie, sa pokladajú za poistné podľa tohto zákona.

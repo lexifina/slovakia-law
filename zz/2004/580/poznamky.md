@@ -186,6 +186,8 @@
 
 - 51b) § 223 až 228a Zákonníka práce.
 
+- 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
 - 52a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
