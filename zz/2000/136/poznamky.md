@@ -28,6 +28,8 @@
 
 - 7b) § 44 ods. 1 zákona č. 326/2005 Z. z. o lesoch.
 
+- 7c) § 2 písm. f) a g) zákona č. 188/2003 Z. z.
+
 - 8) § 3 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
