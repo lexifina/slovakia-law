@@ -44,31 +44,49 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
       - e) nadpis „Vzor Európskych spoločenstiev“ v štátnom jazyku Slovenskej republiky a záhlavie „kvalifikačná karta vodiča“ v ostatných jazykoch členských štátov vytlačený modrou farbou tak, aby tvorili pozadie karty, a to
 
-        - kvalifikačná karta vodiča,
+        - tarjeta de cualificación del conductor
 
-        - tarjeta de cualificación del conductor,
+        - карта за квалификация на водача
 
-        - chaufforuddannelsesbevis,
+        - osvědčení profesní způsobilosti řidiče
 
-        - Fahrerqualifizierungsnachweis,
+        - chaufføruddannelsesbevis
 
-        - ...............................................,
+        - Fahrerqualifizierungsnachweis
 
-        - driverqualification card,
+        - juhi ametipädevuse kaart
 
-        - carte de qualification de conducteur,
+        - δελτίο επιμόρφωσης οδηγού
 
-        - cárta cáílíochta tiomána,
+        - driver qualification card
 
-        - carta di qualificazione del conducente,
+        - carte de qualification de conducteur
 
-        - kwalificatierkaart bestuurder,
+        - cárta cáilíochta tiomána
 
-        - carta de qualificacao do motorista,
+        - carta di qualificazione del conducente
 
-        - kuljettajan ammattipätevyyskortti,
+        - vadītāja kvalifikācijas apliecība
 
-        - yrkeskompetensbevis for forare,
+        - vairuotojo kvalifikacinė kortelė
+
+        - gépjárművezetői képesítési igazolvány
+
+        - karta ta’ kwalifikazzjoni tas-sewwieq
+
+        - kwalificatiekaart bestuurder
+
+        - karta kwalifikacji kierowcy
+
+        - carta de qualificação do motorista
+
+        - Cartela de pregătire profesională a conducătorului auto
+
+        - kartica o usposobljenosti voznika
+
+        - kuljettajan ammattipätevyyskortti
+
+        - yrkeskompetensbevis för förare.
 
       - f) referenčné farby:
 
@@ -98,4 +116,4 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
   - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
 
-- [Obrázok 02-1](../assets/d7e2678ee0f75c5f923d64fef0ceffbd55baf8ae306c8c9d7925e55798f2ccaf.pdf)
+- [Obrázok 02-1](../assets/6dc6403948bb9872b154cf29d57d2e6044a938fd6ded5c6541da3141ab20fd24.pdf)

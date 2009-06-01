@@ -106,7 +106,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
     - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí uvedených v oddiele 1 v rozsahu 280 hodín.
 
-    - Každý účastník kurzov musí v rámci praktického výcviku osobne viesť aspoň 20 hodín výcvikové vozidlo v sprievode inštruktora autoškoly, ktorý musí byť zamestnancom prevádzkovateľa autoškoly, v ktorej sa vykonávajú kurzy.
+    - Každý účastník kurzov musí v rámci praktického výcviku osobne viesť aspoň 20 hodín výcvikové vozidlo v sprievode inštruktora školiaceho strediska, ktorý musí byť zamestnancom prevádzkovateľa školiaceho strediska, v ktorej sa vykonávajú kurzy.
 
     - Každý účastník kurzu môže z 20 hodín praktického výcviku viesť výcvikové vozidlo najviac osem hodín v špeciálnom teréne alebo na výkonnom trenažéri tak, aby sa mohlo zhodnotiť racionálne vedenie vozidla založené na bezpečnostných predpisoch, najmä z hľadiska ovládania vozidla v rôznych podmienkach cestnej premávky a pri rôznom stave vozovky podľa poveternostných podmienok, ako aj nočného alebo denného času.
 
@@ -118,7 +118,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
     - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí vedomostí uvedených v oddiele 1 v rozsahu 140 hodín.
 
-    - Každý účastník kurzu musí v rámci praktického výcviku osobne viesť aspoň 10 hodín výcvikové vozidlo v sprievode inštruktora autoškoly, ktorý musí byť zamestnancom prevádzkovateľa autoškoly.
+    - Každý účastník kurzu musí v rámci praktického výcviku osobne viesť aspoň 10 hodín výcvikové vozidlo v sprievode inštruktora školiaceho strediska, ktorý musí byť zamestnancom prevádzkovateľa školiaceho strediska.
 
     - Každý účastník kurzu môže z 10 hodín praktického výcviku viesť výcvikové vozidlo najviac štyri hodiny v špeciálnom teréne alebo na výkonnom trenažéri tak, aby sa mohlo zhodnotiť racionálne vedenie vozidla založené na bezpečnostných predpisoch, najmä z hľadiska ovládania vozidla v rôznych podmienkach cestnej premávky a pri rôznom stave vozovky podľa poveternostných podmienok, ako aj nočného alebo denného času.
 
@@ -130,26 +130,4 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
     - Kurz musí obsahovať výučbu teórie zo všetkých cieľov uvedených v oddieli 1 v rozsahu 35 hodín v sedemhodinových denných sústredeniach, a to raz za päť rokov.
 
-    - Praktické jazdy možno uskutočniť pod dohľadom inštruktora autoškoly na výcvikovom vozidle na autocvičisku alebo v cestnej premávke a sčasti aj na trenažéri.
-
-  - Oddiel 5: Registrácia na vykonávanie kurzov základnej kvalifikácie a pravidelného výcviku.
-
-    - 5.1 Prevádzkovateľ autoškoly v písomnej žiadosti uvedie okrem náležitostí podľa § 3 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov
-
-    - 5.1.1 primeraný program kvalifikácie a výcviku, v ktorom budú špecifikované oblasti vyučovaných tém, ako aj vykonávací plán a učebné metódy,
-
-    - 5.1.2 údaje o kvalifikácii inštruktorov autoškoly a oblasti činnosti,
-
-    - 5.1.3 údaje o technickej základni autoškoly, najmä o priestore, v ktorom sa uskutočnia kurzy, o učebných pomôckach, o zdrojoch, ktoré sú k dispozícii na praktickú činnosť, a o použiteľnom parku výcvikových vozidiel,
-
-    - 5.1.4 údaje o počtoch účastníkov kurzov a ich účasti.
-
-    - 5.2 V rozhodnutí o registrácii autoškoly na kurz základnej kvalifikácie a pravidelného výcviku sa uvedú okrem všeobecných náležitostí rozhodnutia aj tieto podmienky:
-
-    - 5.2.1 výcvik v kurzoch sa musí uskutočniť v súlade s dokumentmi priloženými k žiadosti,
-
-    - 5.2.2 musí byť umožnený výkon štátneho odborného dozoru a monitoring technickej základne autoškoly z hľadiska používaných zdrojov a riadneho priebehu výcviku v kurzoch a na skúškach,
-
-    - 5.2.3 možnosť zmeny alebo zrušenia registrácie, ak nie sú splnené podmienky uložené v rozhodnutí o registrácii.
-
-      - Vyučovací program musí byť v súlade so schválením a musí obsahovať oblasti vedomostí uvedené v oddiele 1.
+    - Praktické jazdy možno uskutočniť pod dohľadom inštruktora školiaceho strediska na výcvikovom vozidle na špeciálnom autocvičisku alebo v cestnej premávke a sčasti aj na trenažéri.
