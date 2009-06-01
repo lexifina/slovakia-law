@@ -1290,6 +1290,18 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámky 1. Poplatok podľa písmena a) sa vyberie za každú skupinu samostatne. Ak sa jedna registrácia týka viacerých skupín, poplatky uvedené za jednotlivé skupiny sa zrátajú; to neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 2. Poplatok podľa písmena b) sa nevyberie, ak ide o zmenu registrácie na základe úradného rozhodnutia, napr. v dôsledku zmeny názvu ulice alebo číslovania domov. |
 
+    - Položka 77a
+
+  - a) | Registrácia na vykonávanie kurzu základnej kvalifikácie alebo pravidelného výcviku | 60 eur
+
+  - b) | Vydanie osvedčenia o základnej kvalifikácii alebo osvedčenia o pravidelnom výcviku vodiča | 5 eur
+
+  - c) | Vydanie kvalifikačnej karty vodiča | 50 eur
+
+  - d) | Vykonanie skúšky základnej kvalifikácie ..... | 50 eur.
+
+  - Splnomocnenie Pri podaní prihlášky o opakovanú skúšku podľa písmena d) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. | |
+
     - Položka 78
 
   - a) Podanie žiadosti o udelenie povolenia na zriadenie |
@@ -1866,223 +1878,255 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 94
 
-  - a) Vydanie lodného osvedčenia |
+  - a) Vydanie lodného osvedčenia a vykonanie prehliadky prevádzkovej spôsobilosti plavidla |
 
   - 1. pre malé plavidlá s dĺžkou do 7 m |
 
-  - 1.1. bez vlastného strojného pohonu ..... | 33 eur
+  - 1.1. bez vlastného strojného pohonu | 33 eur
 
-  - 1.2. s vlastným strojným pohonom ..... | 53 eur
+  - 1.2. s vlastným strojným pohonom | 53 eur
 
   - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
 
-  - 2.1. bez vlastného strojného pohonu ..... | 66 eur
+  - 2.1. bez vlastného strojného pohonu | 66 eur
 
-  - 2.2. s vlastným strojným pohonom ..... | 99,50 eura
+  - 2.2. s vlastným strojným pohonom | 99,50 eura
 
   - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
 
-  - 3.1. bez vlastného strojného pohonu ..... | 165,50 eura
+  - 3.1 bez vlastného strojného pohonu | 250 eur
 
-  - 3.2. s vlastným strojným pohonom ..... | 331,50 eura
+  - 3.2 s vlastným strojným pohonom | 500 eur
 
   - b) Predĺženie platnosti lodného osvedčenia, vykonanie zmien v lodnom osvedčení alebo vydanie jeho duplikátu |
 
   - 1. pre malé plavidlá s dĺžkou do 7 m |
 
-  - 1.1. bez vlastného strojného pohonu ..... | 16,50 eura
+  - 1.1. bez vlastného strojného pohonu | 16,50 eura
 
-  - 1.2. s vlastným strojným pohonom ..... | 26,50 eura
+  - 1.2. s vlastným strojným pohonom | 26,50 eura
 
   - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
 
-  - 2.1. bez vlastného strojného pohonu ..... | 33 eur
+  - 2.1. bez vlastného strojného pohonu | 33 eur
 
-  - 2.2. s vlastným strojným pohonom ..... | 49,50 eura
+  - 2.2. s vlastným strojným pohonom | 49,50 eura
 
   - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
 
-  - 3.1. bez vlastného strojného pohonu ..... | 82,50 eura
+  - 3.1. bez vlastného strojného pohonu | 165 eur
 
-  - 3.2. s vlastným strojným pohonom ..... | 165,50 eura
+  - 3.2. s vlastným strojným pohonom | 330 eur
 
   - c) Vykonanie technickej prehliadky |
 
   - 1. malého plavidla s dĺžkou do 7 metrov |
 
-  - 1.1 bez vlastného strojného pohonu ..... | 6,50 eura
+  - 1.1 bez vlastného strojného pohonu | 6,50 eura
 
-  - 1.2 s vlastným strojným pohonom ..... | 9,50 eura
+  - 1.2 s vlastným strojným pohonom | 9,50 eura
 
   - 2. malého plavidla s dĺžkou väčšou ako 7 metrov |
 
-  - 2.1 bez vlastného strojného pohonu ..... | 33 eur
+  - 2.1 bez vlastného strojného pohonu | 33 eur
 
-  - 2.2 s vlastným strojným pohonom ..... | 49,50 eura
+  - 2.2 s vlastným strojným pohonom | 49,50 eura
 
-  - d) Vydanie alebo rozšírenie medzinárodného osvedčenia pre malé plavidlá alebo vystavenie jeho duplikátu ..... | 16,50 eura
+  - d) Vydanie alebo rozšírenie medzinárodného osvedčenia pre malé plavidlá alebo vystavenie jeho duplikátu | 16,50 eura
 
-  - e) Vydanie osobitného povolenia na jednotlivú plavbu ..... | 66 eur
+  - e) Vydanie dočasného lodného osvedčenia | 65 eur
 
-  - f) Vydanie osobitného povolenia na osobitnú prepravu ..... | 49,50 eura
+  - f) Vydanie osobitného povolenia na prevádzku plavidla | 49,50 eura
 
   - g) Vydanie ciachového preukazu pre plavidlá |
 
-  - 1. určené na prepravu cestujúcich alebo nákladov ..... | 165,50 eura
+  - 1. určené na prepravu cestujúcich alebo nákladov | 165,50 eura
 
-  - 2. neurčené na prepravu cestujúcich alebo nákladov ..... | 99,50 eura
+  - 2. neurčené na prepravu cestujúcich alebo nákladov | 99,50 eura
 
   - h) Predĺženie platnosti ciachového preukazu, vykonanie zmien alebo vystavenie duplikátu pre plavidlá |
 
-  - 1. určené na prepravu cestujúcich alebo nákladov ..... | 56 eur
+  - 1. určené na prepravu cestujúcich alebo nákladov | 56 eur
 
-  - 2. neurčené na prepravu cestujúcich alebo nákladov ..... | 33 eur
+  - 2. neurčené na prepravu cestujúcich alebo nákladov | 33 eur
 
   - i) Zápis do registra plavidiel Slovenskej republiky |
 
-  - 1. malých plavidiel ..... | 16,50 eura
+  - 1. malých plavidiel | 16,50 eura
 
-  - 2. plavidiel, ktoré nie sú malými plavidlami ..... | 33 eur
+  - 2. plavidiel, ktoré nie sú malými plavidlami | 33 eur
 
-  - j) Výpis z registra plavidiel Slovenskej republiky ..... | 16,50 eura
+  - j) Výpis z registra plavidiel Slovenskej republiky | 16,50 eura
 
   - k) Výmaz plavidla z registra plavidiel Slovenskej republiky |
 
-  - 1. malých plavidiel ..... | 6,50 eura
+  - 1. malých plavidiel | 6,50 eura
 
-  - 2. plavidiel, ktoré nie sú malými plavidlami ..... | 33 eur
+  - 2. plavidiel, ktoré nie sú malými plavidlami | 33 eur
 
-  - l) Zápis zmeny názvu plavidla do registra plavidiel Slovenskej republiky alebo iného údaja týkajúceho sa plavidla ..... | 16,50 eura
+  - l) Zápis zmeny názvu plavidla do registra plavidiel Slovenskej republiky alebo iného údaja týkajúceho sa plavidla | 16,50 eura
 
-  - m) Zápis zmeny vlastníka plavidla do registra plavidiel Slovenskej republiky ..... | 16,50 eura
+  - m) Zápis zmeny vlastníka plavidla alebo zápis zmeny adresy vlastníka do registra plavidiel Slovenskej republiky | 16,50 eura
 
-  - Oslobodenie 1. Od poplatku podľa písmena d) tejto položky je oslobodené vydanie osobitného povolenia na skúšobnú plavbu. 2. Od poplatku podľa písmena k) tejto položky je oslobodený výmaz plavidla, o ktorého trvalom vyradení z prevádzky rozhodla Štátna plavebná správa. |
+  - Oslobodenie 1. Od poplatku podľa písmen e) a f) tejto položky je oslobodené vydanie osobitného povolenia na skúšobnú plavbu. 2. Od poplatku podľa písmena k) tejto položky je oslobodený výmaz plavidla, o ktorého trvalom vyradení z prevádzky rozhodla Štátna plavebná správa. |
 
-  - Poznámky 1. Za vykonanie zmien v lodnom osvedčení podľa písmena a) tejto položky a za vykonanie zmien v ciachovom preukaze podľa písmena f) tejto položky správny orgán vyberie poplatok vo výške 50 % príslušnej sadzby. 2. Za vykonanie zmien v lodnom osvedčení podľa písmena a) tejto položky a za vykonanie zmien v ciachovom preukaze podľa písmena g) tejto položky z dôvodov nezavinených ich držiteľom správny orgán poplatok nevyberá. 3. Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
+  - Poznámky 1. Za vykonanie zmien v lodnom osvedčení podľa písmena b) tejto položky a za vykonanie zmien v ciachovom preukaze podľa písmena h) tejto položky z dôvodov nezavinených ich držiteľom správny orgán poplatok nevyberá. 2. Poplatky podľa tejto položky sa vzťahujú iba na vnútrozemskú plavbu. |
 
     - Položka 95
 
-  - a) Vydanie osobitného povolenia na státie plávajúcich zariadení, ktoré podliehajú evidencii, alebo vystavenie jeho duplikátu |
+  - a) Vydanie osobitného povolenia na státie plávajúcich zariadení, ktoré podliehajú registrácii, alebo vystavenie jeho duplikátu |
 
-  - 1. s dĺžkou menšou ako 20 m | 33 eur
+  - 1. s dĺžkou rovnou alebo menšou ako 20 m | 33 eur
 
   - 2. s dĺžkou väčšou ako 20 m | 66 eur
 
-  - b) Schválenie technickej dokumentácie na individuálnu stavbu jedného malého plavidla a vydanie povolenia na jeho stavbu | 82,50 eura
+  - b) Schválenie technickej dokumentácie na individuálnu stavbu malého plavidla alebo na rekonštrukciu malého plavidla a na vydanie povolenia na jeho stavbu alebo rekonštrukciu | 165 eur
 
   - c) Schválenie typovej dokumentácie a vydanie typového osvedčenia malého plavidla | 99,50 eura
 
   - d) Povolenie stavby malého plavidla podľa schválenej typovej dokumentácie | 16,50 eura
 
-  - e) Schválenie technickej dokumentácie na stavbu a rekonštrukciu ostatných plavidiel | 165,50 eura
-
-  - f) Povolenie na zriadenie požičovne malých plavidiel |
+  - e) Povolenie na zriadenie požičovne plavidiel |
 
   - 1. plavidlá s vlastným strojným pohonom | 132,50 eura
 
   - 2. plavidlá bez vlastného strojného pohonu | 33 eur
 
-  - g) Vydanie stanoviska na vykonávanie činnosti na vodnej ceste alebo v jej blízkosti v súvislosti s bezpečnosťou a plynulosťou plavby | 116 eur
+  - f) Vydanie stanoviska na vykonávanie činnosti na vodnej ceste alebo v jej blízkosti v súvislosti s bezpečnosťou a plynulosťou plavby | 116 eur
 
-  - h) Vydanie záväzného stanoviska podľa osobitného predpisu<sup>25b</sup>) | 132,50 eura
+  - g) Vydanie záväzného stanoviska podľa osobitného predpisu<sup>25b</sup>) | 132,50 eura
 
-  - i) Vydanie povolenia na usporiadanie športových podujatí a slávností na vode | 16,50 eura
+  - h) Vydanie povolenia na usporiadanie športového podujatia alebo slávnosti na vode, ktoré sa koná na sledovanej vodnej ceste alebo na výhľadovo sledovanej vodnej ceste | 20 eur
 
-  - j) Povolenie výnimky z predpisov v oblasti vnútrozemskej plavby | 16,50 eura
+  - i) Povolenie výnimky z predpisov v oblasti vnútrozemskej plavby | 16,50 eura
 
-  - k) Udelenie dopravnej licencie |
+  - j) Udelenie dopravnej licencie |
 
   - 1. na medzinárodnú verejnú vodnú dopravu, za každý aj začatý rok | 165,50 eura
 
   - 2. na vnútroštátnu verejnú vodnú dopravu, za každý aj začatý rok | 99,50 eura
 
-  - l) Udelenie dopravnej licencie na dobu neurčitú | 995,50 eura
+  - k) Udelenie dopravnej licencie na dobu neurčitú | 995,50 eura
 
-  - m) Vykonanie zmeny v dopravnej licencii udelenej podľa písmen l) a m) tejto položky | 33 eur
+  - l) Vykonanie zmeny v dopravnej licencii udelenej podľa písmen l) a m) tejto položky | 33 eur
 
-  - n) Vydanie ďalšieho originálu dopravnej licencie | 66 eur
+  - m) Vydanie ďalšieho originálu dopravnej licencie | 66 eur
 
-  - o) Vydanie duplikátu dopravnej licencie | 66 eur
-
-  - Poznámka Poplatky podľa písmena j) tejto položky sa vyberajú za vydanie povolenia na usporiadanie športových podujatí na jednotlivej vodnej ploche, vodnej ceste za rovnakých podmienok pre jedného usporiadateľa na jeden rok. |
+  - n) Vydanie duplikátu dopravnej licencie | 66 eur
 
     - Položka 96
 
-  - a) Vydanie námorníckej knižky ........................................................................................................... | 16,50 eura
+  - a) Vydanie námorníckej knižky ..... | 30 eur
 
-  - b) Vydanie preukazu odbornej spôsobilosti námorného dôstojníka .......................................... | 33 eur
+  - b) Vydanie preukazu odbornej spôsobilosti veliteľa námornej lode a prvého strojného dôstojníka ..... | 140 eur
 
-  - c) Vydanie preukazu odbornej spôsobilosti veliteľa námornej lode a 1. strojného dôstojníka | 76 eur
+  - c) Vydanie preukazu odbornej spôsobilosti námorného dôstojníka ..... | 70 eur
 
-  - d) Vydanie preukazu odbornej spôsobilosti člena lodného mužstva ........................................ | 13 eur
+  - d) Vydanie potvrdenia preukazu odbornej spôsobilosti ..... | 70 eur
 
-  - e) Vydanie potvrdenia preukazu odbornej spôsobilosti ................................................................ | 33 eur
+  - e) Vydanie potvrdenia o uznaní preukazu odbornej spôsobilosti vydaného príslušným orgánom cudzieho štátu ..... | 70 eur
 
-  - f) Vydanie potvrdenia o uznaní preukazu odbornej spôsobilosti vydaného príslušným orgánom cudzieho štátu ..................................................................................................................... | 33 eur
+  - f) Vydanie dočasného potvrdenia o uznaní preukazu odbornej spôsobilosti vydaného príslušným orgánom cudzieho štátu ..... | 30 eur
 
-  - g) Vydanie preukazu spôsobilosti po absolvovaní bezpečnostného výcviku alebo doplnkového odborného výcviku ................................................................................................................................ | 13 eur
+  - f) Vydanie preukazu spôsobilosti člena lodného mužstva ..... | 30 eur
 
-  - h) Vydanie duplikátu dokladov uvedených v písmenách a) až g) .................................................. | 13 eur
+  - g) Vydanie preukazu spôsobilosti po absolvovaní kurzu bezpečnostného výcviku alebo doplnkového odborného výcviku ..... | 30 eur
 
-  - Poznámky 1. Poplatky podľa tejto položky sa vzťahujú len na námornú plavbu. 2. Za vykonanie zmien v dokladoch podľa písmen a) až g) tejto položky z úradnej povinnosti sa poplatok nevyberie. |
+  - h) Vydanie duplikátu dokladov uvedených v písmenách a) až g) ..... | 30 eur
+
+  - Poznámky |
+
+  - 1. Poplatky podľa tejto položky sa vzťahujú len na námornú plavbu. |
+
+  - 2. Za vykonanie zmien v dokladoch podľa písmen a), d), e) tejto položky z úradnej povinnosti sa poplatok nevyberie. |
 
     - Položka 97
 
   - a) Zápis námornej lode do námorného registra (registrácia námornej lode) vrátane vydania registračného listu |
 
-  - 1. s hrubou priestornosťou do 5 000 RT ...................................................................................................... | 995,50 eura
+  - 1. nesamohybného plavidla ..... | 1 600 eur
 
-  - 2. s hrubou priestornosťou od 5 001 RT do 15 000 RT ........................................................................... | 1 659,50 eura
+  - 2. s hrubou priestornosťou do 5 000 RT ..... | 2 000 eur
 
-  - 3. s hrubou priestornosťou viac ako 15 001 RT ........................................................................................ | 2 655,50 eura
+  - 3. s hrubou priestornosťou od 5 001 RT do 15 000 RT ..... | 3 000 eur
 
-  - b) Predĺženie registrácie námornej lode vrátane vydania registračného listu |
+  - 4. s hrubou priestornosťou viac ako 15 001 RT ..... | 4 000 eur
 
-  - 1. s hrubou priestornosťou do 5 000 RT .................................................................................................... | 663,50 eura
+  - b) Ročný registračný poplatok alebo opakovaný zápis námornej lode do námorného registra (predĺženie registrácie námornej lode) |
 
-  - 2. s hrubou priestornosťou od 5 001 RT do 15 000 RT ........................................................................... | 1 327,50 eura
+  - 1. nesamohybného plavidla ..... | 1 500 eur
 
-  - 3. s hrubou priestornosťou viac ako 15 001 RT ........................................................................................ | 2 323,50 eura
+  - 2. s hrubou priestornosťou do 5 000 RT ..... | 1 700 eur
 
-  - c) Výmaz námornej lode z námorného registra ............................................................................................ | 331,50 eura
+  - 3. s hrubou priestornosťou od 5 001 RT do 15 000 RT ..... | 2 700 eur
 
-  - d) Zmena mena námornej lode ...................................................................................................................... | 331,50 eura
+  - 4. s hrubou priestornosťou viac ako 15 001 RT ..... | 3 700 eur
 
-  - e) Iný zápis v námornom registri ..................................................................................................................... | 165,50 eura
+  - c) Ročný poplatok za členstvo v Medzinárodnej námornej organizácii (IMO) |
 
-  - f) Zápis nesamohybného plavidla do námorného registra (registrácia nesamohybného plavidla) vrátane vydania registračného listu ................................................................................................................ | 165,50 eura
+  - 1. nesamohybného plavidla ..... | 300 eur
 
-  - g) Predĺženie registrácie nesamohybného plavidla vrátane vydania registračného listu ..................... | 66 eur
+  - 2. s hrubou priestornosťou do 5 000 RT ..... | 350 eur
 
-  - h) Výmaz nesamohybného plavidla z námorného registra ......................................................................... | 66 eur
+  - 3. s hrubou priestornosťou od 5 001 RT do 15 000 RT ..... | 400 eur
 
-  - i) Zápis námornej lode podľa písmena a) a predĺženie registrácie podľa písmena b) pre tankové, špeciálne a osobné lode ................................................................................................................................... | 50 % príslušnej sadzby
+  - 4. s hrubou priestornosťou viac ako 15 001 RT ..... | 500 eur
 
-  - j) Vydanie preukazu odbornej spôsobilosti veliteľa námorného rekreačného plavidla ....................... | 26,50 eura
+  - d) Výmaz nesamohybného plavidla z námorného registra ..... | 500 eur
 
-  - k) Vykonanie zmien v preukaze odbornej spôsobilosti veliteľa námorného rekreačného plavidla .... | 13 eur
+  - e) Výmaz námornej lode z námorného registra ..... | 500 eur
 
-  - l) Vydanie medzinárodného osvedčenia pre námorné rekreačné plavidlo ............................................ | 26,50 eura
+  - f) Zmena mena námornej lode ..... | 500 eur
 
-  - m) Zápis námorného rekreačného plavidla do registra námorných rekreačných plavidiel vrátane registračného listu .............................................................................................................................................. | 99,50 eura
+  - g) Zmena vlastníka námornej lode ..... | 500 eur
 
-  - n) Vykonanie zmien v registri námorných rekreačných plavidiel ............................................................... | 13 eur
+  - h) Zápis záložného práva námornej lode zapísanej v námornom registri ..... | 350 eur
 
-  - o) Výmaz námorného rekreačného plavidla z registra námorných rekreačných plavidiel ................... | 26,50 eura
+  - i) Výmaz záložného práva námornej lode zapísanej v námornom registri ...... | 350 eur
 
-  - p) Vydanie duplikátu dokladov uvedených v písmenách j), l) a m) ............................................................ | 13 eur
+  - j) Iný zápis v námornom registri ..... | 250 eur
 
-  - Poznámka Poplatky podľa tejto položky sa vzťahujú na námornú plavbu. |
+  - k) Kontrolná prehliadka námornej lode ..... | 1 500 eur
+
+  - l) Dočasný zápis rozostavanej námornej lode do námorného registra (dočasná registrácia) vrátane vydania registračného listu ..... | 130 eur
+
+  - m) Zápis a výmaz záložného práva rozostavanej námornej lode ..... | 130 eur
+
+  - n) Zápis námornej lode podľa písmena a), ročný registračný poplatok alebo opakovaný zápis podľa písmena b) a ročný poplatok za členstvo v Medzinárodnej námornej organizácii (IMO) podľa písmena c) pre tankové a špeciálne námorné lode ..... | 150 % z príslušnej sadzby
+
+  - o) Vydanie preukazu odbornej spôsobilosti veliteľa námorného rekreačného plavidla ..... | 40 eur
+
+  - p) Vydanie medzinárodného osvedčenia pre námorné rekreačné plavidlo ..... | 40 eur
+
+  - r) Zápis námorného rekreačného plavidla s celkovou dĺžkou do 12 metrov do registra námorných rekreačných plavidiel vrátane vydania registračného listu ..... | 140 eur
+
+  - s) Zápis námorného rekreačného plavidla s celkovou dĺžkou 12 metrov a viac do registra námorných rekreačných plavidiel vrátane vydania registračného listu ..... | 350 eur
+
+  - t) Zápis námornej jachty do námorného registra vrátane vydania registračného listu ..... | 1 000 eur
+
+  - u) Vykonanie zmien v registri námorných rekreačných plavidiel alebo v preukaze odbornej spôsobilosti veliteľa námorného rekreačného plavidla ..... | 30 eur
+
+  - v) Výmaz námorného rekreačného plavidla z registra námorných rekreačných plavidiel ..... | 40 eur
+
+  - w) Výmaz námornej jachty z námorného registra ..... | 500 eur
+
+  - x) Vydanie duplikátu dokladov uvedených v písmenách o) až t) ..... | 30 eur
+
+  - Poznámky |
+
+  - Poplatky podľa tejto položky sa vzťahujú len na námornú plavbu. |
 
     - Položka 98
 
-  - a) Vydanie dočasného registračného listu .................................................................... | 66 eur
+    - a) Vydanie dočasného registračného listu ............................................................ | 140 eur
 
-  - b) Vydanie lodnej listiny inej ako registračný list ........................................................... | 66 eur
+    - b) Vydanie lodnej listiny inej ako registračný list ............................................. | 250 eur
 
-  - c) Vydanie duplikátu akejkoľvek lodnej listiny vrátane registračného listu ............. | 66 eur
+    - c) Vydanie lodnej listiny inej ako registračný list pre rozostavanú námornú loď ......... | 140 eur
 
-  - Poznámka Poplatky podľa tejto položky sa vzťahujú iba na námornú plavbu. |
+    - d) Vydanie duplikátu akejkoľvek lodnej listiny .................................................................. | 140 eur
+
+    - Poznámky Poplatky podľa tejto položky sa vzťahujú len na námornú plavbu. |
 
   - VII. ČASŤ ELEKTRONICKÉ KOMUNIKÁCIE
 
