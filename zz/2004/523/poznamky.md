@@ -62,6 +62,8 @@
 
 - 22a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
 
+- 22b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
