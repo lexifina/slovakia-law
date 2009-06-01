@@ -1,7 +1,5 @@
 - 1) Napríklad § 7 zákona č. 507/2001 Z. z. o poštových službách, § 5 a 7 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
-- 1a) Napríklad § 2 písm. b) zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 10 zákona č. 195/2000 Z. z. o telekomunikáciách, § 13 ods. 1 zákona č. 507/2001 Z. z.
-
 - 1aa) Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy o založení Európskeho spoločenstva (Úradný vestník Európskych spoločenstiev L 001, 4/1/2003).
 
 - 2) § 2 Obchodného zákonníka.
@@ -28,9 +26,13 @@
 
 - 14) § 14 zákona č. 111/1990 Zb. o štátnom podniku v znení zákona Národnej rady Slovenskej republiky č. 317/1996 Z. z.
 
+- 14a) Napríklad § 114 a nasl. zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
 - 15) Položka 212 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 16) § 281 až 288 Obchodného zákonníka.
+
+- 16a) Napríklad zákon č. 566/2001 Z. z., zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 17) § 71 až 78 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
 
