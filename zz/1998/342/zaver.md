@@ -1,1 +1,0 @@
-Ivan Hudec v. r.
