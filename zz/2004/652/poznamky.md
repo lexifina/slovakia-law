@@ -102,6 +102,8 @@
 
 - 38) § 6 a 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 38a) § 3, 4 a 6 zákona č. 207/2009 Z. z. o podmienkach vývozu a dovozu predmetu kultúrnej hodnoty a o doplnení zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 39) § 64 zákona č. 199/2004 Z. z.
 
 - 40) Napríklad § 64 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
