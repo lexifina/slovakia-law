@@ -18,9 +18,9 @@
 
 - b) podľa odseku 1 písm. e) a ďalšie informácie týkajúce sa klimatických podmienok na vodných cestách Slovenský hydrometeorologický ústav,
 
-- c) o polohe plavidla, náklade na plavidle, mimoriadnych udalostiach na plavidle a na vodnej ceste prevádzkovateľ plavidla alebo vodca plavidla.
+- c) o polohe plavidla, náklade na plavidle, mimoriadnych udalostiach na plavidle a na vodnej ceste vodca plavidla.
 
-(3) Vodca plavidla alebo prevádzkovateľ plavidla podáva Štátnej plavebnej správe hlásenia z lode, ktoré obsahujú údaje o plavidle v zostave, náklade, posádke a cestujúcich.
+(3) Vodca plavidla, ktoré nie je malým plavidlom, podáva Štátnej plavebnej správe hlásenia z lode, ktoré obsahujú údaje o plavidle v zostave, náklade, posádke a cestujúcich.
 
 (4) Za správne a včasné poskytovanie informácií podľa odseku 2 zodpovedá ten, kto ich poskytuje.
 

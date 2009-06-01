@@ -80,6 +80,10 @@
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
+- 13a) Nariadenie vlády Slovenskej republiky č. 417/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na plavidlá určené na rekreačné účely v znení nariadenia vlády Slovenskej republiky č. 86/2006 Z. z.
+
+- 13b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 14) § 7 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 
 - 15) Oznámenie Federálneho ministerstva zahraničných vecí o Dohovore o ciachovaní lodí vnútrozemskej plavby dojednanom 15. februára 1966 v Ženeve (registrované v čiastke 5/1976 Zb).
@@ -115,6 +119,10 @@
 - 24b) Napríklad zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 24c) Regionálna dohoda o rádiotelefónnej službe na vnútrozemských vodných cestách (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 7/2006 Z. z.), nariadenie Komisie (ES) č. 415/2007 z 13. marca 2007 týkajúce sa technických špecifikácií lokalizácie plavidiel a sledovania ich dráhy, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
+
+- 24d) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z. Trestný poriadok.
+
+- 24e) Výnos Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky z 15. októbra 2001 č. 1740/M-2001, ktorým sa vydávajú Pravidlá bezpečnosti prevádzky plavidla po vnútrozemských vodných cestách Slovenskej republiky (oznámenie č. 417/2001 Z. z.).
 
 - 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
