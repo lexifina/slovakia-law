@@ -234,6 +234,8 @@
 
 - 100aa) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 100aaa) § 6 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
+
 - 100b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
