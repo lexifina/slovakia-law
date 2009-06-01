@@ -1,6 +1,6 @@
 Príloha č. 3 k zákonu č. 188/2003 Z. z.
 
-- Medzné hodnoty koncentrácie rizikových látok v dnových sedimentoch Parameter | Medzné hodnoty koncentrácie mg/ kg sušiny
+- Limitné hodnoty koncentrácie rizikových látok v dnových sedimentoch Parameter | Limitné hodnoty koncentrácie mg/ kg sušiny
 
 - Arzén<sup>1</sup>) | 20
 

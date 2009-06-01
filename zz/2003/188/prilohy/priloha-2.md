@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 188/2003 Z. z.
 
-- Medzné hodnoty koncentrácie rizikových látok v čistiarenskom kale Ukazovateľ | Medzné hodnoty koncentrácie mg/ kg sušiny
+- Limitné hodnoty koncentrácie rizikových látok v čistiarenskom kale Ukazovateľ | Limitné hodnoty koncentrácie mg/ kg sušiny
 
 - Arzén<sup>1</sup>) | 20
 
@@ -20,7 +20,7 @@ Príloha č. 2 k zákonu č. 188/2003 Z. z.
 
 - Mikrobiologické kritériá pre čistiarenský kal
 
-- Ukazovateľ | Medzné hodnoty KTJ/g sušiny
+- Ukazovateľ | Limitné hodnoty KTJ/g sušiny
 
 - Termotolerantné koliformné baktérie | 2.10<sup>6</sup>)
 
