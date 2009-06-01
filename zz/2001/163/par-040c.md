@@ -68,6 +68,8 @@
 
 - f) nezabezpečí, aby expozícia látkou bola minimalizovaná,
 
+- g) nezabezpečí preskúmanie platnej autorizácie pre použitie látky v ustanovenom termíne,
+
 - h) neuvedie na nálepke alebo etikete alebo štítku číslo autorizácie pred uvedením látky alebo prípravku obsahujúceho látku, pre ktorej použitie získal autorizáciu,
 
 - i) neinformuje agentúru o použití látky,

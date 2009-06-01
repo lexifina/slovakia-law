@@ -12,6 +12,8 @@ Podnikateľ sa dopustí správneho deliktu porušením osobitných predpisov, ak
 
 - e) neposkytne na žiadosť Európskej komisie informácie podľa osobitného predpisu,<sup>23p</sup>)
 
+- f) poruší pri vývoze látky ustanovené podmienky,<sup>12</sup>)
+
 - g) vyvezie látku neskôr ako 6 mesiacov pred ukončením jej použiteľnosti,<sup>12</sup>)
 
 - h) nezabezpečí, aby pri vývoze prostriedku na ochranu rastlín nálepka alebo etiketa alebo štítok obsahovali špecifické informácie podľa osobitného predpisu,<sup>9</sup>)
