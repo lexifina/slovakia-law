@@ -1,23 +1,25 @@
 # § 102c
 
-Z exekúcií podľa osobitného predpisu<sup>80</sup>) sa vylučuje do 31. decembra 2007
+(1) Z exekúcií podľa osobitného predpisu<sup>80</sup>) sa vylučuje do 31. decembra 2007
 
-a)
+- a) majetok v správe štátnej organizácie, ktorá bola zriadená podľa osobitného predpisu<sup>61</sup>) na poskytovanie zdravotnej starostlivosti a nebola ku dňu účinnosti tohto zákona prevedená podľa osobitného predpisu,<sup>65</sup>)
 
-majetok v správe štátnej organizácie, ktorá bola zriadená podľa osobitného predpisu<sup>61</sup>) na poskytovanie zdravotnej starostlivosti a nebola ku dňu účinnosti tohto zákona prevedená podľa osobitného predpisu,<sup>65</sup>)
+- b) majetok neziskovej organizácie, ktorá vznikla premenou podľa osobitného predpisu<sup>63</sup>) zo štátnej organizácie uvedenej v písmene a),
 
-b)
+- c) majetok obce v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
 
-majetok neziskovej organizácie, ktorá vznikla premenou podľa osobitného predpisu<sup>63</sup>) zo štátnej organizácie uvedenej v písmene a),
+- d) majetok samosprávneho kraja v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
 
-c)
+- e) finančné prostriedky na účtoch organizácií uvedených v písmenách a) až d) a finančné prostriedky, ktoré sú určené pre organizácie uvedené v písmenách a) až d) na poskytovanie zdravotnej starostlivosti, služieb súvisiacich s poskytovaním zdravotnej starostlivosti a služieb súvisiacich so zabezpečovaním zdravotnej starostlivosti.
 
-majetok obce v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
+(2) Z exekúcií podľa osobitného predpisu<sup>80</sup>) sa vylučuje do 31. decembra 2009
 
-d)
+- a) majetok v správe štátnej organizácie, ktorá bola zriadená podľa osobitného predpisu<sup>61</sup>) na poskytovanie zdravotnej starostlivosti a nebola ku dňu účinnosti tohto zákona prevedená podľa osobitného predpisu,<sup>65</sup>)
 
-majetok samosprávneho kraja v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
+- b) majetok neziskovej organizácie, ktorá vznikla premenou podľa osobitného predpisu<sup>63</sup>) zo štátnej organizácie uvedenej v písmene a),
 
-e)
+- c) majetok obce v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
 
-finančné prostriedky na účtoch organizácií uvedených v písmenách a) až d) a finančné prostriedky, ktoré sú určené pre organizácie uvedené v písmenách a) až d) na poskytovanie zdravotnej starostlivosti, služieb súvisiacich s poskytovaním zdravotnej starostlivosti a služieb súvisiacich so zabezpečovaním zdravotnej starostlivosti.
+- d) majetok samosprávneho kraja v správe rozpočtovej alebo príspevkovej organizácie zriadenej na poskytovanie zdravotnej starostlivosti,
+
+- e) finančné prostriedky na účtoch organizácií uvedených v písmenách a) až d) a finančné prostriedky, ktoré sú určené pre organizácie uvedené v písmenách a) až d) na poskytovanie zdravotnej starostlivosti, služieb súvisiacich s poskytovaním zdravotnej starostlivosti a služieb súvisiacich so zabezpečovaním zdravotnej starostlivosti.

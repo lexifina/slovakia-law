@@ -4,10 +4,12 @@ Z doterajšej Slovenskej komory iných zdravotníckych pracovníkov, asistentov,
 
 - a) Slovenská komora laborantov, asistentov a technikov,
 
-- b) Slovenská komora zubných technikov,
+- b) Slovenská komora fyzioterapeutov,
 
-- c) Slovenská komora ortopedických technikov,
+- c) Slovenská komora zubných technikov,
 
-- d) Slovenská komora iných zdravotníckych pracovníkov,
+- d) Slovenská komora ortopedických technikov,
 
-- e) Slovenská komora psychológov.
+- e) Slovenská komora iných zdravotníckych pracovníkov,
+
+- f) Slovenská komora psychológov.

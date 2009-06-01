@@ -28,6 +28,8 @@
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 12a) § 45 ods. 1 písm. b) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 13) § 53 písm. b) zákona č. 538/2005 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
@@ -55,6 +57,8 @@
 - 22) § 50 ods. 3 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 23) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 23a) § 27 ods. 1 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2008 Z. z.
 
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
@@ -152,6 +156,8 @@
 
 - 55a) § 42 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
+- 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
@@ -171,6 +177,8 @@
 - 60a) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 60b) § 18 ods. 1 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
+
+- 60c) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 

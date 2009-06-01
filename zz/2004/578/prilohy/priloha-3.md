@@ -2,9 +2,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
 - UZNÁVANIE DIPLOMOV O ŠPECIALIZÁCII
 
-  - A. Uznávanie diplomov o špecializácii v kategórii lekár
+  - A. Uznávanie diplomov o špecializácii v povolaní lekár
 
-    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 2:
+    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 2:
 
     - Tabuľka č. 1
 
@@ -2774,7 +2774,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie maxillo-faciale Kiefer- und Gesichtschirurgie Chirurgia mascello-facciale | |
 
-    - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v kategórii lekár sa uzná aj
+    - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár sa uzná aj
 
       - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
 
@@ -2800,15 +2800,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
       - 3. doklad získaný na území bývalej Nemeckej demokratickej republiky, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred 3. aprílom 1992 a oprávňuje osobu vykonávať činnosť v príslušnom špecializačnom odbore na celom území Spolkovej republiky Nemecko za rovnakých podmienok ako na základe dokladov o špecializáciách uvedených v tabuľke, vydaných príslušnými orgánmi v Spolkovej republike Nemecko. Ministerstvo zdravotníctva môže vyžadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými nemeckými orgánmi alebo organizáciami, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
-      - 4. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Československa pred 1. januárom 1993, ak príslušný orgán Česka potvrdil, že táto odborná spôsobilosť má na území Česka rovnakú platnosť ako odborná spôsobilosť získaná v Česku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Česka, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Česka vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Česka najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
+      - 4. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Československa pred 1. januárom 1993, ak príslušný orgán Česka potvrdil, že táto odborná spôsobilosť má na území Česka rovnakú platnosť ako odborná spôsobilosť získaná v Česku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Česka, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Česka vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Česka najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 5. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 20. augustom 1991, ak príslušný orgán Estónska potvrdil, že táto odborná spôsobilosť má na území Estónska rovnakú platnosť ako odborná spôsobilosť získaná v Estónsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Estónska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Estónska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Estónska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
+      - 5. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 20. augustom 1991, ak príslušný orgán Estónska potvrdil, že táto odborná spôsobilosť má na území Estónska rovnakú platnosť ako odborná spôsobilosť získaná v Estónsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Estónska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Estónska vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Estónska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 6. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 21. augustom 1991, ak príslušný orgán Lotyšska potvrdil, že táto odborná spôsobilosť má na území Lotyšska rovnakú platnosť ako odborná spôsobilosť získaná v Lotyšsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Lotyšska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Lotyšska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Lotyšska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
+      - 6. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 21. augustom 1991, ak príslušný orgán Lotyšska potvrdil, že táto odborná spôsobilosť má na území Lotyšska rovnakú platnosť ako odborná spôsobilosť získaná v Lotyšsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Lotyšska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Lotyšska vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Lotyšska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 7. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 11. marcom 1990, ak príslušný orgán Litvy potvrdil, že táto odborná spôsobilosť má na území Litvy rovnakú platnosť ako odborná spôsobilosť získaná v Litve, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Litvy, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Litvy vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Litvy najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
+      - 7. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalého Sovietskeho zväzu pred 11. marcom 1990, ak príslušný orgán Litvy potvrdil, že táto odborná spôsobilosť má na území Litvy rovnakú platnosť ako odborná spôsobilosť získaná v Litve, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Litvy, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Litvy vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Litvy najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 8. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v kategórii lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
+      - 8. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
       - 9. taký doklad udelený príslušnými orgánmi členských štátov, v ktorom príslušný členský štát už zastavil realizáciu špecializačnej prípravy, ale spĺňa podmienky uvedené v tabuľke, a to takto:
 
@@ -2822,7 +2822,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 9. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999.
 
-    - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v kategórii lekár získaný v Slovenskej republike podľa tabuľky č. 3:
+    - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
     - Tabuľka č. 3
 
@@ -2888,7 +2888,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme de médecin praticien Diplom als praktischer Arzt/praktische Ärztin Diploma di medico generico | Médecin praticien Praktischer Arzt/praktische Ärztin Medico generico
 
-    - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v kategórii lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
+    - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
 
       - 1. 31. decembrom 1994 v Belgicku, Dánsku, Nemecku, Grécku, Španielsku, Francúzsku, Írsku, Taliansku, Luxembursku, Holandsku, Rakúsku, Portugalsku, vo Fínsku, Švédsku, Veľkej Británii,
 
@@ -2898,9 +2898,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
       - 4. 1. januárom 2007 v Bulharsku, Rumunsku.
 
-  - B. Uznávanie diplomov o špecializácii v kategórii zubný lekár
+  - B. Uznávanie diplomov o špecializácii v povolaní zubný lekár
 
-    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore čeľustná ortopédia:
+    - a) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 1, sa uznáva ako diplom o špecializácii v povolaní zubný lekár získaný v Slovenskej republike v odbore čeľustná ortopédia:
 
     - Tabuľka č. 1
 
@@ -2966,7 +2966,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral d’orthodontiste Diplom für Kieferorthopädie Diploma di ortodontista | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
 
-    - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v kategórii zubný lekár sa uzná aj
+    - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v povolaní zubný lekár sa uzná aj
 
       - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
 
@@ -2996,7 +2996,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
       - 6. doklad získaný na území bývalej Juhoslávie, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale ide o doklad, ktorého získavanie sa začalo pred 25. júnom 1991, ktorý oprávňuje držiteľa na výkon príslušných špecializovaných činností na území Slovinska za rovnakých podmienok ako doklad vydaný príslušnými orgánmi Slovinska, uvedený v tabuľke č. 1. Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávnenými slovinskými orgánmi alebo organizáciami, v ktorom sa konštatuje, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia.
 
-    - b) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 2, sa uznáva ako diplom o špecializácii v kategórii zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia:
+    - b) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu a obsahuje názov dokladu uvedeného v tabuľke č. 2, sa uznáva ako diplom o špecializácii v povolaní zubný lekár získaný v Slovenskej republike v odbore maxilofaciálna chirurgia:
 
     - Tabuľka č. 2
 
@@ -3062,7 +3062,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral de chirurgie orale Diplom für Oralchirurgie Diploma di chirurgia orale | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
 
-    - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v kategórii zubný lekár sa uzná aj
+    - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v povolaní zubný lekár sa uzná aj
 
       - 1. doklad, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise, ale špecializačná príprava osoby sa začala pred
 
