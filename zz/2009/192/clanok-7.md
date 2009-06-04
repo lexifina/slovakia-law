@@ -2,6 +2,10 @@
 
 Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 718/2004 Z. z., zákona č. 305/2005 Z. z., zákona č. 352/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 282/2006 Z. z., zákona č. 522/2006 Z. z., zákona č. 673/2006 Z. z., zákona č. 358/2007 Z. z., zákona č. 518/2007 Z. z., zákona č. 530/2007 Z. z., zákona č. 594/2007 Z. z., zákona č. 461/2008 Z. z. a zákona č. 581/2008 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 11 ods. 3 písm. d) sa vypúšťajú slová „a poslanec Európskeho parlamentu, ktorý bol zvolený za Slovenskú republiku<sup>25</sup>)“ a súčasne sa vypúšťa poznámka pod čiarou k odkazu 25.
+
+- 2. V § 11 ods. 5 písm. d) sa vypúšťajú slová „a pre poslanca Európskeho parlamentu, ktorý bol zvolený za Slovenskú republiku,<sup>25</sup>) Kancelária Národnej rady Slovenskej republiky“.
+
 - 3. Za § 17 sa vkladá § 17a, ktorý vrátane nadpisu znie:
 
 - „§ 17a
@@ -91,3 +95,15 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - „(4)
 
 - Ročné zúčtovanie poistného nevykonávajú poistenci zdravotnej poisťovne za rok, v ktorom jej zanikla platnosť povolenia z iného dôvodu ako pre zrušenie povolenia. Preddavky na poistné, ktoré mali byť zaplatené za rozhodujúce obdobie, sa pokladajú za poistné podľa tohto zákona.“.
+
+- 5. Za § 33 sa vkladá § 34, ktorý znie:
+
+- „§ 34
+
+- Poslanec Európskeho parlamentu, ktorý bol zvolený na území Slovenskej republiky, je zamestnancom a Kancelária Národnej rady Slovenskej republiky je zamestnávateľom, ak tento poslanec bol poslancom Európskeho parlamentu v období pred začiatkom volebného obdobia Európskeho parlamentu v roku 2009, bol znovuzvolený za poslanca Európskeho parlamentu vo volebnom období Európskeho parlamentu, ktoré začne v roku 2009 a zvolí si podľa osobitného predpisu<sup>61</sup>) na celé obdobie trvania mandátu uplatňovanie tohto zákona.“.
+
+- Poznámka pod čiarou k odkazu 61 znie:
+
+- „61)
+
+- Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).“.
