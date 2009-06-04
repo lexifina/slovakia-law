@@ -60,8 +60,6 @@
 
 - 24) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
 
-- 25) Zákon č. 331/2003 Z. z. o voľbách do Európskeho parlamentu v znení neskorších predpisov.
-
 - 26) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
 - 27) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
@@ -219,3 +217,5 @@
 - 59) § 9 ods. 2 zákona č. 365/2004 Z. z.
 
 - 60) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
+
+- 61) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
