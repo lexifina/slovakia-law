@@ -4,4 +4,4 @@ Vzor
 
 Osobitné tlačivo veterinárneho lekárskeho predpisu označené šikmým modrým pruhom
 
-[Vzor 02](../assets/ed431bd57bcef83d58a00d02ae6bc0a4c69be4570de6f230de0cde8017133605.pdf)
+[Vzor 02](../assets/5d27eb9d4ecdc0044943aae22b3939897b3e6698ddf61cae8ed916a0f99b5b41.pdf)
