@@ -2,9 +2,9 @@
 
 - 2) § 26 ods. 4 písm. d) zákona č. 596/2003 Z. z.
 
-- 3) § 25 ods. 10 a 11 zákona č. 596/2003 Z. z.
+- 3) § 25 ods. 9 a 10 zákona č. 596/2003 Z. z. v znení zákona č. 245/2008 Z. z.
 
-- 4) § 25 ods. 10 zákona č. 596/2003 Z. z.
+- 4) § 25 ods. 9 zákona č. 596/2003 Z. z. v znení zákona č. 245/2008 Z. z.
 
 - 5) § 20 zákona č. 596/2003 Z. z.
 
