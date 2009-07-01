@@ -26,7 +26,7 @@
 
 - 12) § 30 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 13) § 3a ods. 1 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+- 13) § 35a ods. 1 písm. j) zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 54 zákona č. 131/2002 Z. z. o vysokých školách v znení neskorších predpisov.
 
