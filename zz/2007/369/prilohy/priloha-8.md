@@ -1,7 +1,0 @@
-Príloha č. 8 k nariadeniu vlády č. 369/2007 Z. z.
-
-- VZOR
-
-  - VÝPOČET PREDPOKLADANEJ HODNOTY APLIKOVANÝCH VITAMÍNOV, ESENCIÁLNYCH AMINOKYSELÍN A MIKROPRVKOV
-
-- [Vzor 08](../assets/0bb12fd26ec73011a5759cb844fb4de77cf013b51d50fc5d3ab2b4d4d917ce0f.pdf)

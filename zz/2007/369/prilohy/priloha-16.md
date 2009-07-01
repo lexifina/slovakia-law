@@ -1,7 +1,0 @@
-Príloha č. 16 k nariadeniu vlády č. 369/2007 Z. z.
-
-- VZOR
-
-  - KALKULÁCIA PREDPOKLADANEJ HODNOTY SUBVENCOVANEJ SLUŽBY
-
-- [Vzor 16](../assets/320129b338e723576062a3d1df1c638dbcf73cbf5a74535231c4dac1d7d48818.pdf)

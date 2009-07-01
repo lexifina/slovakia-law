@@ -1,7 +1,0 @@
-Príloha č. 19 k nariadeniu vlády č. 369/2007 Z. z.
-
-- VZOR
-
-  - KALKULÁCIA PREDPOKLADANÝCH OPRÁVNENÝCH NÁKLADOV NA OBNOVU LESA A ZALESŇOVANIE
-
-  - [Vzor 19](../assets/9e4db870d5731c83bd4437f0e46ad02520281b6b6df67dd6b02e6a046d7ee502.pdf)

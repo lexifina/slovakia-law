@@ -1,7 +1,0 @@
-Príloha č. 7 k nariadeniu vlády č. 369/2007 Z. z.
-
-- VZOR
-
-  - KALKULÁCIA PREDPOKLADANÝCH NÁKLADOV NA NÁKUP A INŠTALÁCIU TECHNOLÓGIE SPAĽOVNE
-
-- [Vzor 07](../assets/74bff384a9c50029527b21c5b10babd29f5d7f97b66d66425d7e12459a72c29e.pdf)
