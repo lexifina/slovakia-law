@@ -2,7 +2,7 @@ Príloha č. 8 k vyhláške č. 121/2002 Z. z.
 
 - OBSAH POSUDZOVANIA STAVBY A ZOZNAM DOKLADOV V KOLAUDAČNOM KONANÍ
 
-  - I. Obsahom posudzovania stavby v kolaudačnom konaní sú najmä
+  - I. Obsahom posudzovania stavby v kolaudačnom konaní je preverenie uskutočnenia stavby podľa schválenej projektovej dokumentácie, a to najmä
 
     - a) konštrukčné a dispozičné riešenie stavby
 
@@ -30,15 +30,21 @@ Príloha č. 8 k vyhláške č. 121/2002 Z. z.
 
       - 1. overenie skutočného vyhotovenia požiarnotechnického zariadenia, a to
 
-      - 1b. pri vodnej clone treba overiť systém spúšťania a či sa nachádza v systéme voda,
+      - 1a. pri vodnej clone treba overiť systém spúšťania a či sa nachádza v systéme voda,
 
-      - 2b. pri zariadení na odvod tepla a splodín horenia treba overiť systém spúšťania, nadväznosť na iné zariadenia, či sú súčasťou zariadenia závesy rozdeľujúce priestor pod stropom, v ktorom sú umiestnené dymové klapky,
+      - 1b. pri zariadení na odvod tepla a splodín horenia treba overiť systém spúšťania, nadväznosť na iné zariadenia, či sú súčasťou zariadenia dymové zásteny rozdeľujúce priestor pod stropom, v ktorom sú umiestnené dymové klapky,
 
-      - 3b. pri elektrickej požiarnej signalizácii treba overiť umiestnenie ústredne elektrickej požiarnej signalizácie, druh a umiestnenie hlásičov požiarov a ovládanie zariadení, ktoré sú na elektrickú signalizáciu napojené,
+      - 1c. pri zariadení na odvod tepla a splodín horenia treba pri jeho kontrole postupovať v súlade s technickými podmienkami určenými výrobcom zariadenia,
 
-      - 4b. pri zariadení na hasenie iskier v pneumatických dopravníkoch treba overiť systém spúšťania, zabezpečenie dostatočnej zásoby hasiacej látky a ohlásenie spustenia zariadenia v mieste trvalej obsluhy,
+      - 1d. pri elektrickej požiarnej signalizácii treba overiť umiestnenie ústredne elektrickej požiarnej signalizácie, druh a umiestnenie hlásičov požiarov a ovládanie zariadení, ktoré sú na elektrickú signalizáciu napojené,
 
-      - 5b. pri zariadení na odvod tepla a splodín horenia treba pri jeho kontrole postupovať v súlade s technickými podmienkami určenými výrobcom zariadenia,
+      - 1e. pri zariadení na hasenie iskier v pneumatických dopravníkoch treba overiť systém spúšťania, zabezpečenie dostatočnej zásoby hasiacej látky a ohlásenie spustenia zariadenia v mieste trvalej obsluhy,
+
+      - 1f. pri stabilnom hasiacom zariadení je potrebné overiť rozmiestnenie vypúšťacích armatúr, situovanie strojovne stabilného hasiaceho zariadenia, ventilových staníc, umiestnenie hasiacej látky, umiestnenie náhradného zdroja vrátane umiestnenia pohonných látok,
+
+      - 2. kontrola funkčnosti a súčinnosti požiarnotechnických zariadení,
+
+      - 3. kontrola uchytenia požiarnotechnických zariadení o strešný plášť,
 
     - c) vybavenie stavby zariadeniami na protipožiarny zásah
 
@@ -60,7 +66,7 @@ Príloha č. 8 k vyhláške č. 121/2002 Z. z.
 
       - 3. zabezpečenie kontroly a údržby technologického zariadenia alebo technického zariadenia podľa dokumentácie vyhotovenej ich výrobcom.
 
-  - II. Zoznam dokladov v kolaudačnom konaní:
+  - II. Zoznam dokladov v kolaudačnom konaní
 
     - a) osobitné oprávnenie o odbornej spôsobilosti na montáž a kontrolu požiarnotechnického zariadenia,
 
@@ -72,8 +78,10 @@ Príloha č. 8 k vyhláške č. 121/2002 Z. z.
 
     - e) doklad o preukázaní zhody požiarnotechnických vlastností stavebných výrobkov,
 
-    - f) doklad o preukázaní zhody technických a technologických zariadení,
+    - f) doklad o preukázaní zhody technických zariadení a technologických zariadení,
 
-    - g) doklad o súvisiacich rokovaniach a rozhodnutiach podľa osobitného predpisu<sup>3</sup>) alebo na požiadavky štátneho požiarneho dozoru podľa osobitného predpisu,<sup>4</sup>)
+    - g) sprievodná dokumentácia a doklady o kontrole a odborných skúškach a prehliadkach požiarnotechnických zariadení a technických zariadení podľa osobitných predpisov<sup>11</sup>) na úseku ochrany pred požiarmi,
 
-    - h) sprievodná dokumentácia a doklady o kontrole a odborných skúškach a prehliadkach požiarnotechnických zariadení a technických zariadení podľa osobitných predpisov<sup>13</sup>) na úseku ochrany pred požiarmi.
+    - h) záznam o kontrole zariadení na dodávku vody na hasenie požiarov,
+
+    - i) potvrdenie o vykonaní preskúšania komína.

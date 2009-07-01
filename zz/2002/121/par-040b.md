@@ -1,6 +1,6 @@
 # § 40b Stavebné konanie
 
-(1) V textovej časti projektovej dokumentácie v stavebnom konaní sa preveruje požiarnobezpečnostné riešenie podľa druhu a účelu stavby, a to najmä
+(1) V textovej časti projektovej dokumentácie v stavebnom konaní sa preveruje riešenie protipožiarnej bezpečnosti stavby podľa jej druhu a účelu, a to najmä
 
 - a) požiarnotechnická charakteristika stavby,
 
@@ -24,11 +24,11 @@
 
 - k) zhodnotenie zdrojov plynu a rozvodov plynu,
 
-- l) riešenie protipožiarnej bezpečnosti technologických zariadení,
+- l) riešenie protipožiarnej bezpečnosti pri umiestňovaní technologického zariadenia alebo technického zariadenia,
 
 - m) posúdenie dokladov o vhodnosti použitia stavebných výrobkov.<sup>8</sup>)
 
-(2) Obsah požiarnobezpečnostného riešenia stavby je uvedený v prílohe č. 7.
+(2) Obsah riešenia protipožiarnej bezpečnosti stavby je uvedený v prílohe č. 7.
 
 (3) Vo výkresovej časti projektovej dokumentácie stavby sa preverujú najmä
 
@@ -42,7 +42,7 @@
 
 - e) stabilné hasiace zariadenia a zariadenia na odvod dymu a tepla,
 
-- f) hasiace prístroje, hadicové zariadenia, vodné clony a stanice na zvyšovanie tlaku vody,
+- f) hasiace prístroje, odberné miesta, vodné clony a stanice na zvyšovanie tlaku vody,
 
 - g) požiarne rebríky a únikové rebríky, požiarne prostriedky a podobne,
 
