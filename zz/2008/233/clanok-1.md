@@ -244,6 +244,8 @@ Zákon č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a 
 
 - 19. V § 12 ods. 7 druhá veta znie: „Poskytnutie finančných prostriedkov na riešenie projektu v rámci programu agentúry schvaľuje rada agentúry na základe posúdenia projektu podľa § 19 najviac na štyri roky, ak doba riešenia programu agentúry je päť rokov; v ostatných prípadoch na dobu najviac tri roky.“.
 
+- 20. V § 16 ods. 1 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Podmienkou poskytnutia finančných prostriedkov zo štátneho rozpočtu na účelovú formu podpory podľa odseku 2 písm. a) je osvedčenie o spôsobilosti vykonávať výskum a vývoj (ďalej len „osvedčenie o spôsobilosti“) podľa § 26a ods. 11 alebo 12 alebo doklad o spôsobilosti vykonávať výskum a vývoj vydaný príslušným orgánom podľa právnych predpisov členského štátu.“.
+
 - 21. V § 16 sa odsek 4 dopĺňa písmenom c), ktoré znie:
 
 - „c)
@@ -286,7 +288,11 @@ Zákon č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a 
 
 - 28. V § 18 ods. 2 sa za písmeno e) vkladajú nové písmená f) až h), ktoré znejú:
 
-- „g)
+- „f)
+
+- požiadavku na preukázanie osvedčenia o spôsobilosti žiadateľa a ďalších spolupríjemcov na vykonávanie výskumu a vývoja podľa § 26a ods. 11 alebo 12,
+
+- g)
 
 - požiadavku na preukázanie zmluvy o budúcej zmluve o využití výsledkov riešenia projektu v praxi medzi žiadateľom a odberateľom výsledkov riešenia projektu pri projektoch, ktorých riešenie bude mať priame využitie v praxi,
 
