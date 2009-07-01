@@ -2,7 +2,7 @@
 
 (1) Do vlastníctva vyššieho územného celku prechádzajú z majetku štátu veci v správe
 
-- a) právnických osôb v oblasti sociálnej pomoci, zdravotníctva a školstva, ku ktorým prechádza zriaďovateľská funkcia na vyšší územný celok podľa osobitných predpisov,<sup>1</sup>)
+- a) právnických osôb v oblasti sociálnej pomoci, zdravotníctva a školstva, ku ktorým prechádza zriaďovateľská funkcia na vyšší územný celok podľa osobitných predpisov,<sup>1b</sup>)
 
 - b) zriaďovateľov zariadení sociálnych služieb bez právnej subjektivity v užívaní týchto zariadení, ku ktorým prechádza zriaďovateľská funkcia na vyšší územný celok podľa osobitného predpisu,<sup>3</sup>)
 
