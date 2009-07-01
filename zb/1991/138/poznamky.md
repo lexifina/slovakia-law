@@ -1,6 +1,10 @@
 - 1) Čl. 4 ods. 7 ústavného zákona č. 143/1968 Zb. o československej federácii v znení neskorších predpisov.
 
-- 2) § 8 zákona SNR č. 369/1990 Zb. o obecnom zriadení.
+- 2) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, Obchodný zákonník, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2a) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Zákon SNR č. 369/1990 Zb.
 
@@ -36,6 +40,12 @@
 
 - 11f) Napríklad zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
+- 11g) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 11h) § 18d ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení zákona č. 161/2003 Z. z.
+
+- 11i) § 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
 - 12) Napr. čl. 10 Ústavy ČSFR č. 100/1960 Zb. v znení neskorších ústavných zákonov, § 11a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 171/1990 Zb. a zákona č. 522/1990 Zb., § 46a zákona SNR č. 126/1985 Zb. o požiarnej ochrane v znení zákona SNR č. 525/1990 Zb.
 
 - 13) § 198 a nasl. Občianskeho zákonníka.
@@ -58,19 +68,19 @@
 
 - 17) Napr. § 12 a nasl. Hospodárskeho zákonníka a § 136 a nasl. Občianskeho zákonníka.
 
-- 18) § 2 ods. 2 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
+- 18) § 21 zákona č. 523/2004 Z. z. v znení zákona č. 584/2005 Z. z.
 
-- § 2 ods. 2 zákona SNR č. 401/1990 Zb.
+- 19) § 2 ods. 2 zákona Slovenskej národnej rady č. 377/1990 Zb. v znení neskorších predpisov.
 
-- 19) § 56 Obchodného zákonníka.
+- § 2 ods. 2 zákona Slovenskej národnej rady č. 401/1990 Zb. v znení neskorších predpisov.
 
-- 19a) Napríklad zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
+- 19a) § 56 Obchodného zákonníka.
 
-- 19b) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 19b) Napríklad § 56 Obchodného zákonníka, zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
 
-- 19c) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+- 19c) § 21 ods. 9 písm. g) zákona č. 523/2004 Z. z. v znení zákona č. 584/2005 Z. z.
 
-- 20) Čl. 4 ods. 3 ústavného zákona č. 143/1968 Zb. v znení neskorších predpisov.
+- 19d) § 43 až 51 Občianskeho zákonníka.
 
 - 21) Zákon č. 431/2002 Z. z. o účtovníctve.
 
@@ -94,9 +104,13 @@
 
 - 22b) § 281 až 288 Obchodného zákonníka.
 
-- 22c) § 116 Občianskeho zákonníka.
+- 22c) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 22d) Napríklad § 140 Občianskeho zákonníka.
+- 22d) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 22e) § 116 Občianskeho zákonníka.
+
+- 22f) Napríklad § 140 Občianskeho zákonníka.
 
 - 23) § 2 zákona SNR č. 369/1990 Zb.
 

@@ -1,6 +1,6 @@
 # § 7a
 
-(1) Obec je povinná zachovať účelové určenie majetku, ktorý nadobudla podľa § 2b ods. 1 a § 2c a ktorý ku dňu prechodu majetku Slovenskej republiky na obec slúži na výchovno-vzdelávací proces v oblasti vzdelávania a výchovy a činnosti s nimi bezprostredne súvisiace<sup>19c</sup>) a na zabezpečenie sociálnej pomoci a zdravotnej starostlivosti.
+(1) Obec je povinná zachovať účelové určenie majetku, ktorý nadobudla podľa § 2b ods. 1 a § 2c a ktorý ku dňu prechodu majetku Slovenskej republiky na obec slúži na výchovno-vzdelávací proces v oblasti vzdelávania a výchovy a činnosti s nimi bezprostredne súvisiace a na zabezpečenie sociálnej pomoci a zdravotnej starostlivosti.
 
 (2) Povinnosť podľa odseku 1 sa skončí na základe rozhodnutia obecného zastupiteľstva
 
@@ -10,7 +10,7 @@
 
 - c) o prebytočnosti nehnuteľnej veci uvedenej v odseku 1,
 
-- d) o prebytočnosti alebo neupotrebiteľnosti hnuteľnej veci uvedenej v odseku 1, ak jej zostatková cena je vyššia ako 100 000 Sk; pri nižšej zostatkovej cene o prebytočnosti alebo o neupotrebiteľnosti takejto hnuteľnej veci rozhoduje zamestnanec určený zásadami prijatými podľa § 9 ods. 1.
+- d) o prebytočnosti alebo neupotrebiteľnosti hnuteľnej veci uvedenej v odseku 1, ak jej zostatková cena je vyššia ako 3 500 eur; pri nižšej zostatkovej cene o prebytočnosti alebo o neupotrebiteľnosti takejto hnuteľnej veci rozhoduje zamestnanec určený zásadami prijatými podľa § 9 ods. 1.
 
 (3) Ak prejde do vlastníctva obcí majetok Slovenskej republiky podľa § 2b ods. 2, môže účelové určenie majetku ustanoviť osobitný zákon.
 
