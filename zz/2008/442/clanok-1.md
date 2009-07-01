@@ -4,6 +4,20 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 
 - 1. V § 1 ods. 2 písm. a) sa slovo „prevádzkovanie“ nahrádza slovom „využívanie“.
 
+- 2. V § 23 odsek 1 znie:
+
+- „(1)
+
+- Verejný obstarávateľ a obstarávateľ vypracuje a pošle oznámenia používané vo verejnom obstarávaní publikačnému úradu a úradu elektronicky vo formáte a postupmi na prenos dostupnými na webovom sídle publikačného úradu a na webovom sídle úradu.“.
+
+- 3. V § 23 ods. 3 sa za slovo „deň“ vkladá slovo „bezprostredne“.
+
+- 4. V § 23 odsek 6 znie:
+
+- „(6)
+
+- Oznámenie vypracované a poslané podľa odseku 1 uverejní úrad najneskôr do šiestich dní odo dňa odoslania oznámenia publikačnému úradu.“.
+
 - 5. V § 42 ods. 1 sa vypúšťajú slová „na predmet zákazky“.
 
 - 6. V § 45 ods. 2 sa slová „ak nebola podaná žiadosť o nápravu“ nahrádzajú slovami „ak nebola doručená žiadosť o nápravu alebo ak žiadosť o nápravu bola doručená po uplynutí lehoty podľa § 136 ods. 3.“.
@@ -27,6 +41,88 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 - Ak boli podané námietky podľa § 138 ods. 2 písm. g), verejný obstarávateľ a obstarávateľ môže uzavrieť zmluvu alebo rámcovú dohodu s úspešným uchádzačom alebo uchádzačmi najskôr v deň nasledujúci po doručení upovedomenia úradu o nevydaní predbežného opatrenia verejnému obstarávateľovi alebo obstarávateľovi. Ak úrad vydal rozhodnutie o predbežnom opatrení, verejný obstarávateľ a obstarávateľ môže uzavrieť zmluvu alebo rámcovú dohodu s úspešným uchádzačom alebo uchádzačmi najskôr štrnásty deň po doručení rozhodnutia úradu o námietkach alebo v deň nasledujúci po dni doručenia výsledku konania úradu. Tým nie sú dotknuté ustanovenia odsekov 2 až 6.“.
 
 - Doterajší odsek 7 sa označuje ako odsek 8.
+
+- 12. V § 51 ods. 2 písm. a) sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 13. V § 52 ods. 3 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 14. V § 52 ods. 4 písm. b) sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 15. V § 56 ods. 3 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 16. V § 56 ods. 4 písm. b) sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 17. V § 58 odsek 2 znie:
+
+- „(2)
+
+- Verejný obstarávateľ vypracuje a pošle oznámenie o začatí rokovacieho konania bez zverejnenia podľa odseku 1 úradu spôsobom podľa § 23 ods. 1 bezodkladne po odoslaní výzvy na rokovanie, ale najneskôr 14 dní pred uzavretím zmluvy. V oznámení uvedie najmä
+
+- a)
+
+- názov, adresu, identifikačné číslo organizácie (IČO), kontaktnú osobu, telefónne číslo, faxové číslo, elektronickú adresu a zatriedenie verejného obstarávateľa,
+
+- b)
+
+- názov a stručný opis predmetu zákazky,
+
+- c)
+
+- predpokladanú hodnotu zákazky,
+
+- d)
+
+- podmienku použitia podľa odseku 1 a jej odôvodnenie,
+
+- e)
+
+- predchádzajúce oznámenie použité vo verejnom obstarávaní týkajúce sa zákazky, ak sa uplatnilo,
+
+- f)
+
+- názov, adresu, kontaktnú osobu, telefónne číslo, faxové číslo, elektronickú adresu záujemcu alebo záujemcov, ktorých vyzval na rokovanie,
+
+- g)
+
+- meno a priezvisko, telefónne číslo, faxové číslo, elektronickú adresu a registračné číslo odborne spôsobilej osoby na verejné obstarávanie, ktoré sa nezverejňujú.“.
+
+- 18. V § 60 ods. 5 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 19. V § 67 ods. 2 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 20. V § 71 ods. 2 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 21. V § 81 ods. 3 sa vypúšťa posledná veta.
+
+- 22. V § 82 odsek 3 znie:
+
+- „(3)
+
+- Lehota na predloženie žiadostí o účasť nesmie byť kratšia ako 37 dní odo dňa odoslania oznámenia o vyhlásení verejného obstarávania alebo pravidelného informatívneho oznámenia s výzvou na súťaž publikačnému úradu. Ak sa oznámenie o vyhlásení verejného obstarávania alebo pravidelné informatívne oznámenie s výzvou na súťaž posiela podľa § 23 ods. 1, lehota na predloženie žiadostí o účasť nesmie byť kratšia ako 15 dní.“.
+
+- 23. V § 82 ods. 4 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 24. V § 85 odsek 3 znie:
+
+- „(3)
+
+- Lehota na predloženie žiadostí o účasť nesmie byť kratšia ako 37 dní odo dňa odoslania oznámenia o vyhlásení verejného obstarávania alebo pravidelného informatívneho oznámenia s výzvou na súťaž publikačnému úradu. Ak sa oznámenie o vyhlásení verejného obstarávania alebo pravidelné informatívne oznámenie s výzvou na súťaž posiela podľa § 23 ods. 1, lehota na predloženie žiadostí o účasť nesmie byť kratšia ako 15 dní.“.
+
+- 25. V § 85 ods. 4 sa slová „elektronickými prostriedkami“ nahrádzajú slovami „podľa § 23 ods. 1“.
+
+- 26. V § 88 odsek 2 znie:
+
+- „(2)
+
+- Obstarávateľ vypracuje a pošle oznámenie o začatí rokovacieho konania bez zverejnenia podľa odseku 1 okrem písmen d) a h) úradu spôsobom podľa § 23 ods. 1 bezodkladne po odoslaní výzvy na rokovanie, ale najneskôr 14 dní pred uzavretím zmluvy. Oznámenie obsahuje náležitosti podľa § 58 ods. 2.“.
+
+- 27. § 93 znie:
+
+- „§ 93
+
+- Verejný obstarávateľ vypracuje a pošle oznámenia používané vo verejnom obstarávaní úradu spôsobom podľa § 23 ods. 1. Takto vypracované a poslané oznámenie uverejní úrad do siedmich dní odo dňa odoslania oznámenia. Dátum odoslania oznámenia preukazuje verejný obstarávateľ.“.
+
+- 28. V § 101 ods. 1 úvodnej vete sa za slovo „zmluvy“ vkladajú slová „spôsobom podľa § 23 ods. 1“.
 
 - 29. V § 113 ods. 2 sa vypúšťa posledná veta.
 
