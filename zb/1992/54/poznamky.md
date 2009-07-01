@@ -1,1 +1,0 @@
-- 1) § 200 ods. 1 Zákonníka práce.
