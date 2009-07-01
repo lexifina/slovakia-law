@@ -1,12 +1,20 @@
 - 1) § 2 zákona č. 17/1992 Zb. o životnom prostredí v znení zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z.
 
-- 2) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+- 2) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 3) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 4) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona.
 
 - 5) Zákon č. 161/1998 Z. z. o Komore kominárov Slovenska a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 5a) Zákon č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
+- 5b) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch.
+
+- 5c) § 2 písm. p) zákona č. 326/2005 Z. z.
+
+- 5d) § 3 ods. 2 písm. a) zákona č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 252/2001 Z. z.
 
 - 6) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -48,8 +56,6 @@
 
 - 23) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 24) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
 - 25) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
 - 26) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z. a zákon č. 435/2000 Z. z. o námornej plavbe v znení zákona č. 581/2003 Z. z.
@@ -58,6 +64,6 @@
 
 - 28) § 114 a 115 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení niektorých zákonov.
 
-- 29) Zákon č. 71/1967 Zb.
+- 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 30) Napríklad vyhláška Ministerstva vnútra Slovenskej republiky č. 84/1997 Z. z., ktorou sa ustanovujú technické podmienky a požiadavky požiarnej bezpečnosti pri inštalácii a prevádzkovaní palivových spotrebičov, elektrotepelných spotrebičov a zariadení ústredného vykurovania a pri výstavbe a používaní komínov a dymovodov, vyhláška Ministerstva vnútra Slovenskej republiky č. 86/1999 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
