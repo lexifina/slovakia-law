@@ -1302,7 +1302,7 @@
 
         - (b) Prijímací úrad postupuje podľa článku 14 (1) (b) a pravidla 26, ibaže s touto mienkou nesúhlasí.
 
-    - Pravidlo 29 Medzinárodné prihlášky považované za späťvzaté
+    - Pravidlo 29 Medzinárodné prihlášky, ktoré sa považujú za späťvzaté
 
       - 29.1 Zistenie prijímacieho úradu
 
@@ -1324,9 +1324,13 @@
 
         - Ak sa Medzinárodný úrad alebo orgán pre medzinárodnú rešerš domnieva, že by prijímací úrad mal rozhodnúť podľa článku 14 (4), upozorní prijímací úrad na podstatné skutočnosti.
 
-      - 29.4 Oznámenie o úmysle vydať uznesenie podľa článku 14 (4)
+      - 29.4 Oznámenie o úmysle vydať uznesenie podľa článku 14(4)
 
-      - Skôr, než prijímací úrad vydá uznesenie podľa článku 14 (4), oznámi prihlasovateľovi svoj úmysel a uvedie dôvody. Ak prihlasovateľ nesúhlasí s úmyslom prijímacieho úradu, môže proti nemu podať námietky v lehote jedného mesiaca od oznámenia.
+        - (a) Skôr než prijímací úrad vydá uznesenie podľa článku 14(4), oznámi prihlasovateľovi svoj úmysel vydať takéto uznesenie a uvedie dôvody. Ak prihlasovateľ nesúhlasí s úmyslom prijímacieho úradu, môže proti nemu podať námietky v lehote dvoch mesiacov od oznámenia.
+
+        - (b) Ak prijímací úrad zamýšľa vydať uznesenie podľa článku 14(4), pokiaľ ide o prvky uvedené v článku 11(1)(iii)(d) alebo (e), prijímací úrad musí v oznámení uvedenom v odseku (a) tohto pravidla vyzvať prihlasovateľa, aby potvrdil v súlade s pravidlom 20.6(a), že je prvok včlenený odkazom podľa pravidla 4.18. Na účely pravidla 20.7(a)(i) výzva zaslaná prihlasovateľovi podľa tohto odseku sa bude považovať za výzvu podľa pravidla 20.3(a)(ii).
+
+        - (c) Odsek (b) sa nepoužije, ak prijímací úrad informoval Medzinárodný úrad v súlade s pravidlom 20.8(a) o nezlučiteľnosti pravidiel 20.3(a)(ii) a (b)(ii) a 20.6 s národným zákonodarstvom platným pre úrad.
 
     - PRAVIDLO 30 LEHOTA PODĽA ČLÁNKU 14 (4)
 
@@ -1854,7 +1858,7 @@
 
         - (c) Obmedzenia uvedené v odseku (a) môžu napríklad obsahovať obmedzenia, pokiaľ ide o predmet, na ktorý sa bude vykonávať doplnková medzinárodná rešerš, okrem tých, ktoré by sa uplatnili podľa článku 17(2) na medzinárodnú rešerš, a obmedzenia, pokiaľ ide o celkový počet doplnkových medzinárodných rešerší, ktoré budú vykonané v danom období.
 
-    - PRAVIDLO 46 ÚPRAVA NÁROKOV V KONANÍ PRED MEDZINÁRODNÝM ÚRADOM
+    - Pravidlo 46 Úprava nárokov v konaní na Medzinárodnom úrade
 
       - 46.1 Lehota
 
@@ -1876,9 +1880,13 @@
 
       - 46.5 Forma úprav
 
-        - Prihlasovateľ predloží náhradný list za každý list nárokov, ktorý sa v dôsledku úpravy alebo úprav podľa článku 19 líši od pôvodne podaného listu. V sprievodnom liste upozorní na rozdiely medzi pôvodnými a náhradnými listami. Pokiaľ má niektorá úprava za následok vypustenie celého listu, oznámi sa taká úprava listom.
+        - (a) Ak prihlasovateľ vykoná úpravy podľa článku 19, musí predložiť náhradný list alebo listy obsahujúce kompletný súbor nárokov, ktorý nahrádza všetky pôvodne podané nároky.
 
-        - (b) a (c) zrušené
+        - (b) Spolu s náhradným listom alebo listami musí byť predložený sprievodný list, ktorý
+
+          - (i) musí označiť nároky, ktoré sa v dôsledku úprav líšia od pôvodne podaných nárokov, a musí upozorniť na rozdiely medzi pôvodne podanými a upravenými nárokmi,
+
+          - (ii) musí označiť pôvodne podané nároky, ktoré sú v dôsledku zmien zrušené.
 
     - Pravidlo 47 Postúpenie určeným úradom
 
@@ -2736,9 +2744,11 @@
 
       - 66.8 Forma úprav
 
-        - (a) S výnimkou odseku (b) prihlasovateľ predloží náhradný list za každý list medzinárodnej prihlášky, ktorý sa v dôsledku úpravy odlišuje od listu, ktorý bol pôvodne podaný. List, ktorý sprevádza náhradné listy, musí upozorniť na rozdiely medzi nahradzovanými listami a náhradnými listami a mal by tiež vysvetliť dôvody úprav.
+        - (a) Ak sa okrem odseku (b) zmenil opis alebo obrázky, prihlasovateľ musí predložiť náhradný list za každý list medzinárodnej prihlášky, ktorý sa v dôsledku úpravy líši od skôr podaného listu. Spolu s náhradným listom alebo listami musí byť predložený sprievodný list, ktorý musí upozorniť na rozdiely medzi nahradzovanými listami a náhradnými listami a predovšetkým musí tiež vysvetliť dôvody úprav.
 
         - (b) Ak úprava spočíva vo vypustení niektorých častí alebo v menších zmenách alebo v dodatkoch, náhradným listom podľa odseku (a) môže byť kópia príslušného listu medzinárodnej prihlášky obsahujúca zmeny alebo dodatky za predpokladu, že nebudú nepriaznivo ovplyvňovať jasnosť a spôsobilosť na priamu reprodukciu. Ak niektorá úprava spočíva v zrušení celého listu, uvedie sa taká úprava v liste, v ktorom sa vysvetlia aj dôvody úpravy.
+
+        - (c) Ak sa menia nároky, pravidlo 46.5 sa použije mutatis mutandis. Súbor nárokov predložený podľa pravidla 46.5, použitého na základe tohto odseku, musí nahrádzať všetky pôvodne podané nároky alebo nároky už skôr zmenené podľa článku 19 alebo 34, podľa toho, o aký prípad ide.
 
       - 66.9 Jazyk úprav
 
@@ -2848,7 +2858,7 @@
 
         - (iii) šesť mesiacov od dátumu, keď orgán pre medzinárodný predbežný prieskum prijal preklad predložený podľa pravidla 55.2.
 
-    - Pravidlo 70 Medzinárodná predbežná správa o patentovateľnosti vyhotovená orgánom pre medzinárodný predbežný prieskum (správa o medzinárodnom predbežnom prieskume)
+    - Pravidlo 70 Správa o medzinárodnom predbežnom prieskume na patentovateľnosť vypracovaná orgánom pre medzinárodný predbežný prieskum (Správa o medzinárodnom predbežnom prieskume)
 
       - 70.1 Vymedzenie
 
@@ -2944,11 +2954,13 @@
 
         - (b) Správa bude mať názov „Správa o medzinárodnom predbežnom prieskume na patentovateľnosť (hlava II Zmluvy o patentovej spolupráci)“ spolu s uvedením, že správu o medzinárodnom predbežnom prieskume vypracoval orgán pre medzinárodný predbežný prieskum.
 
-      - 70.16 Prílohy ku správe
+      - 70.16 Prílohy k správe
 
-        - (a) Každý náhradný list podľa pravidla 66.8(a) alebo (b) a každý náhradný list obsahujúci úpravy podľa článku 19 bude priložený k správe, ak nie je nahradený neskoršími náhradnými listami alebo úpravami, ktoré spočívajú v zrušení celých listov podľa pravidla 66.8(b). Neprikladajú sa náhradné listy obsahujúce úpravy podľa článku 19, ktoré sa považujú za zrušené úpravami podľa článku 34, a listy podľa pravidla 66.8.
+        - (a) K správe bude priložený každý náhradný list podľa pravidla 66.8 (a) alebo (b), ak nie je nahradený neskoršími náhradnými listami podľa pravidla 66.8 (a) alebo (b) alebo úpravami, ktoré spočívajú v zrušení celých listov podľa pravidla 66.8(b).
 
-        - (b) Napriek odseku (a) každý nahradený alebo zrušený náhradný list uvedený v tomto odseku sa prikladá k správe, ak orgán pre medzinárodný predbežný prieskum posúdi, že príslušná náhrada alebo zrušenie úpravy presahuje obsah medzinárodnej prihlášky, ako bola podaná, a správa obsahuje dotyčný údaj podľa pravidla 70.2(c). V takomto prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
+      - (a-bis) Ak náhradné listy podľa pravidla 46.5(a) nie sú nahradené alebo považované za zrušené náhradnými listami podľa pravidla 66.8(c), musia byť priložené k správe. Ak náhradné listy podľa pravidla 66.8(c) nie sú nahradené neskôr predloženými listami podľa pravidla 66.8(c), musia byť priložené k správe. Sprievodné listy podľa pravidla 46.5 (b) alebo pravidla 66.8(a) alebo (c) sa k správe neprikladajú.
+
+        - (b) Ak napriek odsekom (a) a (a-bis) orgán pre medzinárodný predbežný prieskum usúdi, že príslušná úprava smerujúca k nahradeniu alebo zrušeniu presahuje rozsah opisu vynálezu pri podaní medzinárodnej prihlášky a správa obsahuje údaj podľa pravidla 70.2(c), každý nahradený alebo zrušený náhradný list uvedený v týchto odsekoch sa musí tiež priložiť k správe. V takomto prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
 
       - 70.17. Jazyky vyhotovenia správy a príloh
 
