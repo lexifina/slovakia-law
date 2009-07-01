@@ -140,11 +140,11 @@
 
 - 13a) § 151n až 151p Občianskeho zákonníka.
 
-- 13b) Napríklad zákon č. 79/1957 Zb.,
+- 13b) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov,
 
-- zákon č. 67/1960 Zb. v znení neskorších predpisov,
+- zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov,
 
-- zákon č. 138/1973 Zb. v znení neskorších predpisov.
+- zákon č. 66/2009 Z. z. o niektorých opatreniach pri majetkovoprávnom usporiadaní pozemkov pod stavbami, ktoré prešli z vlastníctva štátu na obce a vyššie územné celky a o zmene a doplnení niektorých zákonov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
 
