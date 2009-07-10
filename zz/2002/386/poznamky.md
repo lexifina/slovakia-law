@@ -22,6 +22,8 @@
 
 - 9) § 116 a 117 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
+- Zákon č. 276/2009 Z. z. o opatreniach na zmiernenie vplyvov globálnej finančnej krízy na bankový sektor a o zmene a doplnení niektorých zákonov.
+
 - 10) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
 - 11) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
@@ -29,3 +31,5 @@
 - 12) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 13) § 23 ods. 1 zákona č. 291/2002 Z. z.
+
+- 13a) § 13 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
