@@ -18,6 +18,10 @@
 
 - 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
+- 9a) § 31 ods. 2 písm. c) zákona č. 483/2001 Z. z. v znení zákona č. 644/2006 Z. z.
+
+- 9b) § 8 písm. o) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
 - 10) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 11) § 156 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
