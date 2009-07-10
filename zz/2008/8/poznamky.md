@@ -124,7 +124,7 @@
 
 - 53) § 2 písm. c) zákona č. 340/2005 Z. z.
 
-- 53a) § 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+- 53a) Napríklad zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení zákona č. 445/2008 Z. z.
 
 - 54) § 5 písm. p) zákona č. 483/2001 Z. z. v znení zákona č. 644/2006 Z. z.
 
@@ -134,21 +134,19 @@
 
 - 57) § 35 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 58) Napríklad zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 297/2008 Z. z.
-
 - 59) Zákon č. 381/2001 Z. z. v znení neskorších predpisov.
 
 - 60) Napríklad Obchodný zákonník v znení neskorších predpisov.
 
-- 61) § 13, 14 a 15 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 61) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
+
+- § 2 ods. 3, § 10 a 25 zákona č. 540/2007 Z. z.
 
 - 62) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 63) § 154 až 229 Obchodného zákonníka v znení neskorších predpisov.
 
 - 64) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
-
-- 65) § 566 až 576 Obchodného zákonníka.
 
 - 66) Zákonník práce v znení neskorších predpisov.
 
