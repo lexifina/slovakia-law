@@ -40,6 +40,6 @@
 
 (12) Výpočty týkajúce sa celkových aktív sa robia súhrnom údajov o celkových aktívach osôb v skupine z ich ročných účtovných závierok. Na účely tohto výpočtu sa pre osoby, v ktorých je nadobudnutá majetková účasť, berie do úvahy výška podielu nadobudnutého v danej osobe. Ak boli zostavené konsolidované účtovné závierky, použijú sa tieto namiesto súhrnu údajov.
 
-(13) Minimálnou výškou vlastných zdrojov bánk na účely doplňujúceho dohľadu sa rozumejú požiadavky na vlastné zdroje bánk.
+(13) Minimálnou výškou vlastných zdrojov bánk na účely doplňujúceho dohľadu sa rozumie taká výška vlastných zdrojov, pri ktorej banka udržiava svoje vlastné zdroje minimálne na úrovni súčtu hodnôt zodpovedajúcich požiadavkám na vlastné zdroje podľa § 30 ods. 5, pričom hodnota rizík sa nemení.
 
 (14) Požiadavky na minimálnu výšku vlastných zdrojov regulovaných osôb iných ako banka, ktoré sa zahŕňajú do výpočtov podľa odsekov 2 až 6, sa určia podľa osobitných predpisov,<sup>45b</sup>) ktoré sa vzťahujú na určenie požiadaviek na vlastné zdroje, výšky vlastných zdrojov a solventnosti príslušnej regulovanej osoby.

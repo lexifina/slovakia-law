@@ -100,6 +100,10 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 o uplatňovaní medzinárodných účtovných noriem.
 
+- 30f) § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
 - 31) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
@@ -156,9 +160,9 @@
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 49a) §13, 14 a 15 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 49a) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
-- § 2 ods. 5, § 6 ods. 2 a § 8 zákona č. 466/2002 Z. z.
+- § 2 ods. 3, § 10 a 25 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 49b) Napríklad § 9 ods. 1 prvá veta Zákonníka práce, § 20 ods. 1 Občianskeho zákonníka.
 
@@ -321,6 +325,8 @@
 - 88m) Zákon č. 244/2002 Z. z.
 
 - 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
+
+- 89a) Zákon č. 276/2009 Z. z. o opatreniach na zmiernenie vplyvov globálnej finančnej krízy na bankový sektor a o zmene a doplnení niektorých zákonov.
 
 - 92) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 

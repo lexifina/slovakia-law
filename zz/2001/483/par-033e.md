@@ -74,7 +74,13 @@
 
 (7) Materská banka podľa § 44 ods. 2 písm. a) je povinná zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti banky za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 44 ods. 2 písm. a), neberú do úvahy.
 
-(8) Národná banka Slovenska je na účely posudzovania majetkovej angažovanosti oprávnená vyňať osobu zo skupiny hospodársky spojených osôb, ak sa na všetky osoby v tejto skupine vrátane banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu.
+(8) Národná banka Slovenska je oprávnená umožniť banke, na základe jej písomnej žiadosti s uvedením vecných dôvodov, na účely posudzovania majetkovej angažovanosti podľa
+
+- a) odseku 1 vyňať osobu zo skupiny hospodársky spojených osôb, ak sa na všetky osoby v tejto skupine vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom,
+
+- b) odseku 1 písm. a) bodu 1b a písm. b) bodu 1b považovať expozície voči svojej dcérskej spoločnosti za expozície voči inej osobe podľa odseku 1, ak sa na túto dcérsku spoločnosť vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu nad bankou overovať hodnotu expozícií voči jej dcérskej spoločnosti podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu výboru pre bankovníctvo,
+
+- c) odseku 1 písm. a) bodu 1d a písm. b) bodu 1d vyňať tie expozície voči svojej dcérskej spoločnosti, na ktoré sa vzťahuje umožnenie Národnej banky Slovenska podľa písmena b); Národná banka Slovenska je povinná pri výkone dohľadu nad bankou overovať hodnotu expozícií voči skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti tejto banky, ak sa na skupinu hospodársky spojených osôb uplatňuje umožnenie Národnej banky Slovenska podľa tohto písmena, a to najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu výboru pre bankovníctvo.
 
 (9) Majetkovou angažovanosťou banky sa na účely tohto zákona rozumie súhrn
 
@@ -109,3 +115,15 @@
 - f) podrobnosti o výpočte dodatočných požiadaviek na vlastné zdroje banky podľa odseku 4 písm. b),
 
 - g) pomery majetkovej angažovanosti podľa odseku 5 a rozsah, v akom týmto pravidlám podliehajú pobočky zahraničných bánk podľa odseku 6.
+
+(13) Postup podľa odseku 8 písm. b) a c) sa pri výpočte majetkovej angažovanosti za konsolidovaný celok na účely odseku 7 a na účely ôsmej časti neuplatňuje.
+
+(14) Možnosť podľa odseku 8 písm. a), b) alebo c) zaniká
+
+- a) uplynutím 180 kalendárnych dní od doručenia oznámenia Národnej banky Slovenska banke, že nesmie využívať možnosť podľa odseku 8 písm. a), b) alebo c),
+
+- b) ak pominuli vecné dôvody na jej uplatňovanie, ktoré boli uvedené v písomnej žiadosti banky, alebo
+
+- c) ak nie sú splnené všetky podmienky podľa odseku 8 písm. a), b) alebo c).
+
+(15) Na postup podľa odseku 8 alebo 14 sa nevzťahujú ustanovenia o konaní vo veciach dohľadu nad finančným trhom ani všeobecné predpisy o správnom konaní.<sup>30f</sup>)
