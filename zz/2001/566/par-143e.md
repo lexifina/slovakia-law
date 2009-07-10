@@ -40,6 +40,6 @@
 
 (12) Výpočty týkajúce sa celkových aktív sa robia súhrnom celkových aktív osôb v skupine z ich ročných účtovných závierok. Na účel tohto výpočtu sa pre osoby, v ktorých je nadobudnutá majetková účasť, berie do úvahy výška podielu nadobudnutého v danej osobe. Ak boli zostavené konsolidované účtovné závierky, tieto sa použijú namiesto súhrnu údajov.
 
-(13) Minimálnou výškou vlastných zdrojov obchodníkov s cennými papiermi sa na účely doplňujúceho dohľadu rozumejú požiadavky na vlastné zdroje obchodníkov s cennými papiermi.
+(13) Minimálnou výškou vlastných zdrojov obchodníkov s cennými papiermi na účely doplňujúceho dohľadu sa rozumie taká výška vlastných zdrojov, pri ktorej obchodník s cennými papiermi udržiava svoje vlastné zdroje minimálne na úrovni súčtu hodnôt zodpovedajúcich požiadavkám na vlastné zdroje podľa § 74 ods. 5, pričom hodnota rizík sa nemení.
 
 (14) Požiadavky na minimálnu výšku vlastných zdrojov regulovaných osôb iných ako obchodník s cennými papiermi, ktoré sa zahŕňajú do výpočtov podľa odsekov 2 až 6, sa určia podľa osobitných predpisov,<sup>110c</sup>) ktoré sa vzťahujú na výpočet primeranosti vlastných zdrojov, výšky vlastných zdrojov a solventnosti príslušnej regulovanej osoby.

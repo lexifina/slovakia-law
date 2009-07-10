@@ -110,6 +110,10 @@
 
 - 47a) § 2 písm. l) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).
 
+- 47aa) § 408a Obchodného zákonníka.
+
+- § 46 a § 95 ods. 2 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 276/2009 Z. z.
+
 - 47b) § 2 ods. 1 písm. b) alebo ods. 2 zákona č. 483/2001 Z. z.
 
 - 47c) Napríklad zákon č. 594/2003 Z. z.
@@ -402,8 +406,6 @@
 
 - 108a) Zákon č. 428/2002 Z. z.
 
-- 108aa) § 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
-
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
 - 109a) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
@@ -435,6 +437,10 @@
 - 114a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
+
+- 115a) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
+
+- § 2 ods. 3, § 10 a 25 zákona č. 540/2007 Z. z.
 
 - 116) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
