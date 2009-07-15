@@ -16,7 +16,7 @@ Príloha č. 5 k vyhláške č. 370/2008 Z. z.
 
   - 7. Ochranné návleky na rukávy
 
-  - 8. Rukávniky iné než z vlasových materiálov (kožušín)
+  - 8. Rukávniky iné než z vlasových materiálov
 
   - 9. Umelé kvety
 
@@ -40,11 +40,11 @@ Príloha č. 5 k vyhláške č. 370/2008 Z. z.
 
   - 19. Cestovné potreby z textilných materiálov
 
-  - 20. Ručne vyšívané tapisérie, dokončené alebo na dokončenie, a materiály na ich výrobu vrátane vyšívacích nití
+  - 20. Ručne vyšívané tapisérie, dokončené alebo na dokončenie, a materiály na ich výrobu vrátane vyšívacích nití predávané samostatne od plachtovín a špeciálne prezentované na použitie s takýmito tapisériami
 
   - 21. Zipsy
 
-  - 22. Gombíky a sponky
+  - 22. Gombíky a sponky pokryté textilnými materiálmi
 
   - 23. Obaly na knihy z textilných materiálov
 

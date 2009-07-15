@@ -60,9 +60,9 @@ Príloha č. 1 k vyhláške č. 370/2008 Z. z.
 
 - 29 | Modakryl<sup>2</sup>) | vlákno z lineárnych makromolekúl, ktoré majú v reťazci min. 50 % a max. 85 % (hmotnostných) akrylonitrilových jednotiek
 
-- 30 | Polyamid alebo nylon<sup>2</sup>) | vlákno z lineárnych makromolekúl, ktoré majú v reťazci opakujúce sa amidové skupiny; najmenej 85 % z nich je pripojených k alifatickým alebo cykloalifatickým jednotkám
+- 30 | Polyamid alebo nylon<sup>2</sup>) | vlákno zo syntetických lineárnych makromolekúl, ktoré majú v reťazci opakujúce sa amidové skupiny; najmenej 85 % z nich je pripojených k alifatickým alebo cykloalifatickým jednotkám
 
-- 31 | Aramid | vlákno skladajúce sa z lineárnych makromolekúl zložených z aromatických skupín, spojených amidovými alebo imidovými väzbami, z ktorých najmenej 85 % je napojených priamo na dva aromatické cykly, a s počtom imidových väzieb nepresahujúcim počet amidových väzieb
+- 31 | Aramid | vlákno zo syntetických lineárnych makromolekúl zložených z aromatických skupín spojených amidovými alebo imidovými väzbami, z ktorých najmenej 85 % je pripojených priamo na dve aromatické jadrá, a ak sa vyskytujú imidové väzby, ich počet nepresahuje počet amidových väzieb
 
 - 32 | Polyimid | vlákno skladajúce sa zo syntetických lineárnych makromolekúl majúcich v reťazci opakujúce sa imidové jednotky
 
