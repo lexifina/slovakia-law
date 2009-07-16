@@ -1,0 +1,7 @@
+# § 148a Návrh na určenie neplatnosti koncesnej zmluvy
+
+(1) Návrh na určenie neplatnosti koncesnej zmluvy súdom môže podať úrad do 30 dní odo dňa uverejnenia oznámenia o výsledku verejného obstarávania v Úradnom vestníku Európskej únie. Návrh na určenie neplatnosti dodatku ku koncesnej zmluve môže podať úrad do 30 dní odo dňa uverejnenia informácie o uzavretí dodatku ku koncesnej zmluve vo vestníku.
+
+(2) Neplatnosti koncesnej zmluvy sa môže dovolávať pred súdom len uchádzač, záujemca alebo osoba, ktorá mohla mať záujem o získanie koncesie a ktorej práva alebo právom chránené záujmy boli alebo mohli byť dotknuté postupom verejného obstarávateľa alebo obstarávateľa, a to do 30 dní odo dňa uverejnenia oznámenia o výsledku verejného obstarávania v Úradnom vestníku Európskej únie, ak sú splnené podmienky podľa osobitného predpisu.<sup>23a</sup>) Neplatnosti dodatku ku koncesnej zmluve sa môže dovolávať pred súdom len uchádzač, záujemca alebo osoba, ktorá mohla mať záujem o získanie koncesie a ktorej práva alebo právom chránené záujmy boli alebo mohli byť dotknuté postupom verejného obstarávateľa alebo obstarávateľa, a to do 30 dní odo dňa uverejnenia informácie o uzavretí dodatku ku koncesnej zmluve vo vestníku, ak sú splnené podmienky podľa osobitného predpisu.<sup>23a</sup>) Ustanovenie odseku 1 tým nie je dotknuté.
+
+(3) Návrh, ktorým sa osoby podľa odsekov 1 a 2 dovolávajú pred súdom neplatnosti koncesnej zmluvy alebo dodatku ku koncesnej zmluve, musí byť doručený na súd v lehotách podľa odsekov 1 a 2, inak súd konanie zastaví.

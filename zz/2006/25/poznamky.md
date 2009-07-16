@@ -56,6 +56,8 @@
 
 - 23) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
+- 23a) Napríklad § 80 písm. c) Občianskeho súdneho poriadku.
+
 - 24) § 22 až 29 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
 - 25) Čl. 226 a 227 Zmluvy o založení Európskeho spoločenstva.
