@@ -78,8 +78,6 @@
 
 - 35) § 25 ods. 3 písm. e) zákona č. 428/2002 Z. z.
 
-- 36) § 15a zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
-
 - 37) § 24a až 24e zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
 
 - 38) § 24a a 24b zákona č. 154/2001 Z. z. v znení zákona č. 458/2003 Z. z.
