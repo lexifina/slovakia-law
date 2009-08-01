@@ -8,6 +8,8 @@
 
 - 1b) Napríklad Medzinárodný dohovor o zabránení znečisťovania z lodí (MARPOL 1973) v znení neskorších predpisov, Medzinárodný dohovor o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
+- 1ba) Nariadenie Európskeho parlamentu a Rady (ES) č. 391/2009 z 23. apríla 2009 o spoločných pravidlách a normách pre organizácie vykonávajúce inšpekcie a prehliadky lodí (Ú. v. EÚ L 131, 28. 5. 2009).
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 2a) Nariadenie vlády Slovenskej republiky č. 243/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na námorné vybavenie v znení nariadenia vlády Slovenskej republiky č. 307/2002 Z. z.
