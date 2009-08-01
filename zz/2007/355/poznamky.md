@@ -2,6 +2,8 @@
 
 - 2) Príloha č. 1 časť A bod 39 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
 
+- 2a) § 6 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
+
 - 3) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 4) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -77,6 +79,8 @@
 - 32) § 52 ods. 1 zákona č. 305/2005 Z. z.
 
 - 33) § 47 ods. 3 písm. b) prvý bod a písm. c) druhý bod a § 63 ods. 4 zákona č. 305/2005 Z. z.
+
+- 33a) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) Napríklad nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 300/2007 Z. z.
 
@@ -162,7 +166,7 @@
 
 - 72) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 73) Príloha 1 kategória „A“ písm. d) ods. 4, 9, 10, 11, 43 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z.
+- 73) Príloha č. 1 kategória „A“ písm. d) body 4, 9, 10, 11, 43 nariadenia vlády Slovenskej republiky č. 322/2006 Z. z.
 
 - 74) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
