@@ -78,8 +78,6 @@
 
 - 11) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 271/1994 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohovoru o zjednotení niektorých pravidiel o medzinárodnej leteckej preprave vykonávanej inou osobou ako zmluvným dopravcom, dopĺňajúceho Varšavský dohovor.
 
-- 11a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
 - 11b) Zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov.
 
 - 11ba) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -87,6 +85,10 @@
 - 11c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 1592/2002 z 15. júla 2002 o spoločných pravidlách v oblasti civilného letectva a zriadení Európskej agentúry pre bezpečnosť letectva (EASA) (Úradný vestník Európskych spoločenstiev L 240, 07. 09. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1643/2003 z 22. júla 2003 (Úradný vestník Európskej únie L 245, 29. 09. 2003), nariadenie Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskych spoločenstiev L 355, 30. 12. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 849/2004 z 29. apríla 2004 (Úradný vestník Európskej únie L 158, 30. 04. 2004), nariadenie Komisie (ES) č. 622/2003 zo 4. apríla 2003 o ustanovení opatrení na vykonávanie spoločných základných noriem bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 10, 16. 01. 2004) v znení nariadenia Komisie (ES) č. 68/2004 z 15. januára 2004 (Úradný vestník Európskej únie L 10, 16. 01. 2004).
 
 - 11d) Napríklad nariadenie Komisie (ES) č. 1486/2003 z 22. augusta 2003, ustanovujúce postupy pre vykonávanie inšpekcií Komisie v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 213, 23. 08. 2003).
+
+- 11e) Čl. 5 ods. 2 nariadenia Komisie (ES) č. 1794/2006 zo 6. decembra 2006, ktorým sa stanovuje spoločný systém spoplatňovania leteckých navigačných služieb (Ú. v. EÚ L 341, 7. 12. 2006).
+
+- 11f) § 23 ods. 1 a 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
