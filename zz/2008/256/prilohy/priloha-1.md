@@ -82,6 +82,8 @@ Uvedú sa údaje o plodinách, skupinách plodín, rastlinách alebo rastlinnýc
 
 2.7 Odporúčané postupy a bezpečnostné opatrenia týkajúce sa manipulácie, skladovania, dopravy alebo požiaru
 
+2.8 Reziduálne štúdie podľa osobitného predpisu,<sup>1a</sup>) ak účinná látka nie je uvedená v osobitnom predpise.<sup>1b</sup>)
+
 ČASť B
 
 Dokumentačný súbor údajov pre účinnú látku prípravku na ochranu rastlín (na báze feromónu), ktorý je určený na plošnú aplikáciu
@@ -1139,6 +1141,12 @@ Ak sú navrhnuté ďalšie metódy na likvidáciu prípravku, obalov a kontamino
 5. Údaje o účinnosti
 
 Predložia sa údaje o účinnosti a selektivite prípravku.
+
+6.
+
+Reziduálne štúdie
+
+Štúdie sa predkladajú, ak nie je možná extrapolácia z údajov predložených v časti A bode 2.8 a ak účinná látka, ktorú prípravok na ochranu rastlín obsahuje, nie je uvedená v osobitnom predpise.<sup>1b</sup>)
 
 ČASť D
 
@@ -4341,3 +4349,25 @@ Prípravky sú vylúčené z použitia vo vnútornej časti 2. pásma hygienicke
 PHO<sup>5</sup>
 
 Prípravky sú vylúčené z použitia z celého 2. pásma hygienickej ochrany zdrojov podzemných a povrchových vôd a z 3. pásma hygienickej ochrany vodárenských nádrží. Prípravky sa tiež neaplikujú v blízkosti miest zásobovaných studničnou vodou (posudzuje miestne príslušný vodohospodársky orgán). Prípravky sa nepoužijú na pozemkoch určených na pestovanie surovín (vrátane krmív), ktoré budú použité na výrobu detskej výživy. Aplikáciu možno podľa daných miestnych podmienok povoliť v dávke na dolnej hranici. Aplikácia sa nepovolí na pozemkoch, ktoré sú spádované k vodným tokom a vodným nádržiam.
+
+Časť M
+
+Dokumentačný súbor údajov pre iný prípravok, ktorý nepatrí do rozsahu definície prípravku na ochranu rastlín a nie je ani iným prípravkom uvedeným v častiach F až K.
+
+1. Identita prípravku a účinnej látky, ak ju prípravok obsahuje.
+
+2. Uvedie sa výrobca účinnej látky, ak ju prípravok obsahuje a výrobca prípravku, obchodný názov prípravku, informácia o kvalitatívnom a kvantitatívnom zložení prípravku (pre jednotlivé zložky aj účinnú látku sa uvedú názvy podľa ISO a čísla CIPAC a čísla EC, ak sú k dispozícii).
+
+3. Fyzikálny stav prípravku (typ a kód prípravku podľa typov formulácií alebo úplný opis fyzikálnej povahy a fyzikálny stav prípravku).
+
+4. Metóda výroby prípravku a metóda na analýzu prípravku alebo podniková norma.
+
+5. Údaje o použití
+
+Uvedie sa funkcia prípravku, navrhovaná oblasť použitia, aplikačná dávka, podmienky a metódy použitia, spôsob aplikácie, návod na použitie.
+
+6. Informácie o obale.
+
+7. Údaje o účinnosti.
+
+8. Dostupné relevantné toxikologické a ekotoxikologické údaje a údaje týkajúce sa vplyvu na životné prostredie.
