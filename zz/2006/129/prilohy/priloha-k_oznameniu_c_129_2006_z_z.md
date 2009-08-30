@@ -236,6 +236,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. „the Deputy Registrar“
 
+    - Dominikánska republika
+
+    - Oddelenie legalizácie konzulárneho odboru Ministerstva zahraničných vzťahov Dominikánskej republiky
+
     - Ekvádor
 
     - „Ministerio de Relaciones Exteriores
