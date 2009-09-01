@@ -1,3 +1,0 @@
-Minister:
-
-Mestek v. r.
