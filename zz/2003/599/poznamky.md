@@ -64,6 +64,10 @@
 
 - 13f) § 32a a 33 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
+- 13g) § 12 ods. 4 až 6 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
+- 13h) § 13 zákona č. 184/2009 Z. z.
+
 - 14) § 57 ods. 1 a 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 15) § 85 a 86 a § 91 a 92 Zákona o rodine.
