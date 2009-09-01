@@ -1,3 +1,0 @@
-Príloha č. 8 k vyhláške č. 231/2005 Z. z.
-
-- VZOR OZNÁMENIE O ZAČATÍ A SKONČENÍ VÝROBY VINÁRSKYCH PRODUKTOV A ICH UVÁDZANÍ DO OBEHU [Vzor 08](../assets/c91555921b8b55f5687cca07aa14d9fed1af149d160f71ee06d24834cc3ce6c1.pdf)

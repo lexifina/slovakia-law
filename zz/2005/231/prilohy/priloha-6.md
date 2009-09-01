@@ -1,3 +1,0 @@
-Príloha č. 6 k vyhláške č. 231/2005 Z. z.
-
-- VZOR EVIDENCIA ZÁSOB VÍNA (V LITROCH) [Vzor 06](../assets/27f763329831b012680b8d05fa6c59aa27f113fe8f625367723f752927919b46.pdf)

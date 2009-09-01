@@ -1,5 +1,0 @@
-Príloha č. 14 k vyhláške č. 231/2005 Z. z.
-
-- VZOR HLÁSENIE O STAVE ZÁSOB VÍNA A MUŠTU (V HEKTOLITROCH)
-
-- [Vzor 14](../assets/a54c56375456de3c1219b52242be491aa5a7b81585b7d5306ba71f3b79278893.pdf)
