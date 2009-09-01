@@ -24,9 +24,15 @@
 
 - 6) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
+- 6a) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 6b) § 139 ods. 3 zákona č. 50/1976 Zb.
+
 - 7) § 151n až 151p Občianskeho zákonníka.
 
 - 7a) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 7ab) § 34 a 35 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 7b) § 39 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
@@ -68,7 +74,13 @@
 
 - 18a) § 19 ods. 6 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
-- 19) Zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.Zákon č. 17/2007 Z. z. o pravidelnej kontrole kotlov, vykurovacích sústav a klimatizačných systémov a o zmene a doplnení niektorých zákonov.§ 10 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.Nariadenie vlády Slovenskej republiky č. 246/2006 Z. z. o minimálnom množstve pohonných látok vyrobených z obnoviteľných zdrojov v motorových benzínoch a motorovej nafte uvádzaných na trh Slovenskej republiky.
+- 19) Zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
+
+- Zákon č. 17/2007 Z. z. o pravidelnej kontrole kotlov, vykurovacích sústav a klimatizačných systémov a o zmene a doplnení niektorých zákonov.
+
+- § 10 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie vlády Slovenskej republiky č. 246/2006 Z. z. o minimálnom množstve pohonných látok vyrobených z obnoviteľných zdrojov v motorových benzínoch a motorovej nafte uvádzaných na trh Slovenskej republiky.Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
