@@ -1,5 +1,0 @@
-Príloha č. 1 k vyhláške č. 232/2005 Z. z. VZOR
-
-PRIHLÁŠKA HROZNA Z VINOHRADNÍCKEJ OBLASTI TOKAJ NA OSVEDČENIE
-
-[Vzor 01](../assets/c73e8e9cb11b52629ee6aa3f7211c993ab03b0e4aa1aa43a29ed35214e41f696.pdf)
