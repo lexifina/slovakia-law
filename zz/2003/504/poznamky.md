@@ -8,7 +8,7 @@
 
 - 4) § 4 zákona č. 139/2002 Z. z. o rybárstve.
 
-- 5) § 3 a 14 zákona č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov.
+- 5) Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov.
 
 - 6) § 8 ods. 1 zákona č. 215/2001 Z. z. o ochrane genetických zdrojov rastlín pre výživu a poľnohospodárstvo.
 
