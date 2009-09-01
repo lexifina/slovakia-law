@@ -5,3 +5,7 @@
 - 3) § 8 ods. 3 písm. a) zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 4) § 5 zákona č. 274/2006 Z. z. o podpore v pôdohospodárstve a rozvoji vidieka.
+
+- 5) Napríklad § 71 až 80 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, § 36 až 61b zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 6) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

@@ -40,6 +40,18 @@ Príloha č. 1 k nariadeniu vlády č. 422/2007 Z. z.
 
     - 18. Ekologický chov včiel.
 
+    - 19. Spracovanie včelích produktov
+
+    - 20. Senzorické hodnotenie medu
+
+    - 21. Využitie výpočtovej techniky vo včelárskej evidencii
+
+    - 22. Využitie výpočtovej techniky vo vzdelávaní včelárov
+
+    - 23. Laboratórne metódy stanovenia kvality včelích produktov
+
+    - 24. Laboratórna diagnostika chorôb včiel
+
   - Časť B: Zoznam technických pomôcok, na ktoré možno poskytnúť podporu v rámci opatrenia podľa § 2 ods. 1 písm. i)
 
     - 1. Zariadenie na vytáčanie medu – medomet.
