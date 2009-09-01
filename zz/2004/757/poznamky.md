@@ -78,6 +78,8 @@
 
 - 34) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
+- 34a) § 3 a 7 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
 - 35) Napríklad § 31 zákona č. 215/2004 Z. z.
 
 - 36) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
