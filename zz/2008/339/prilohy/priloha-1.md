@@ -1,59 +1,63 @@
 Príloha č. 1 k nariadeniu vlády č. 339/2008 Z. z.
 
-- Zoznam mliečnych výrobkov podľa § 2 ods. 2 Por. číslo | Názov výrobku | Druh a veľkosť balenia | Kat.* | Množstvo na žiaka a deň | Podpora z národných zdrojov bez DPH (Euro) | Najvyššia úhrada platená žiakom s DPH (Euro)
+- Zoznam mliečnych výrobkov podľa § 2 ods. 2 Poradové číslo | Názov výrobku | Druh a veľkosť balenia | Kategória podľa prílohy I nariadenia Komisie (ES) č. 657/2008 | Množstvo na žiaka a deň | Podpora z národných zdrojov s DPH v eurách | Najvyššia úhrada platená žiakom s DPH v eurách
 
-- 1 | Jogurt biely | téglik 150 g | I. | 150 g | 0,0640 | 0,24
+- 1. | jogurt biely | téglik 150 g | I | 150 g | 0,0528 | 0,25
 
-- 2 | Jogurt biely | téglik 125 g | I. | 125 g | 0,0488 | 0,18
+- 2. | jogurt biely | téglik 125 g | I | 125 g | 0,0473 | 0,25
 
-- 3 | Mlieko plnotučné neochutené | kartón 1 000 ml | I. | 250 ml | 0,0928 | 0,06
+- 3. | mlieko plnotučné neochutené | kartón 1 l | I | 250 ml | 0,0913 | 0,05
 
-- 4 | Mlieko plnotučné neochutené | fólia - vrecko 1 000 ml | I. | 250 ml | 0,0721 | 0,06
+- 4. | mlieko plnotučné neochutené | fólia-vrecko 1 l | I | 250 ml | 0,0913 | 0,05
 
-- 5 | Mlieko plnotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 1 000 ml | I. | 250 ml | 0,1078 | 0,09
+- 5. | mlieko plnotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 1 l | I | 250 ml | 0,0913 | 0,05
 
-- 6 | Mlieko plnotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka, ultravysokotepelne ohriate (UHT) | kartón 250 ml | I. | 250 ml | 0,1305 | 0,24
+- 6. | mlieko polotučné neochutené | fólia-vrecko 1 l | I | 250 ml | 0,0913 | 0,02
 
-- 7 | Mlieko polotučné neochutené | fólia - vrecko 1000 ml | I. | 250 ml | 0,0607 | 0,06
+- 7. | mlieko polotučné neochutené | PE fľaša 1 l | I | 250 ml | 0,0913 | 0,03
 
-- 8 | Mlieko polotučné neochutené | PE fľaša | I. | 250 ml | 0,0703 | 0,06
+- 8. | mlieko polotučné neochutené | kartón 1 l | I | 250 ml | 0,0913 | 0,05
 
-- 9 | Mlieko polotučné neochutené | kartón 1 000 ml | I. | 250 ml | 0,0990 | 0,06
+- 9. | mlieko polotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 1 l | I | 250 ml | 0,0913 | 0,02
 
-- 10 | Mlieko polotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 1 000 ml | I. | 250 ml | 0,1102 | 0,06
+- 10. | mlieko polotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 250 ml | I | 250 ml | 0,1133 | 0,14
 
-- 11 | Mlieko polotučné neochutené, ultravysokotepelne ohriate (UHT) | kartón 250 ml | I. | 250 ml | 0,1315 | 0,16
+- 11. | mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka, ultravysokotepelne ohriate (UHT) | kartón 250 ml | I | 250 ml | 0,1163 | 0,23
 
-- 12 | Mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka, ultravysokotepelne ohriate (UHT) | kartón 250 ml | I. | 250 ml | 0,1309 | 0,21
+- 12. | mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka | téglik 200 ml | I | 200 ml | 0,1076 | 0,23
 
-- 13 | Mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka | téglik 200 ml | I. | 200 ml | 0,1483 | 0,23
+- 13. | mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka, ultravysokotepelne ohriate (UHT) (distribúcia cez automaty) | téglik 200 ml | I | 200 ml | 0,1426 | 0,29
 
-- 14 | Kyslomliečny výrobok neochutený obsahujúci 3,6 % hmotnosti tuku | kartón 500 ml | I. | 250 ml | 0,0928 | 0,14
+- 14. | kyslomliečny výrobok ochutený obsahujúci 1 % hmotnosti tuku (distribúcia cez automaty) | téglik 250 g | II | 250 g | 0,1561 | 0,33
 
-- 15 | Kyslomliečny výrobok neochutený obsahujúci 3,6 % hmotnosti tuku | téglik 230 ml | I. | 230 ml | 0,0816 | 0,19
+- 15. | jogurtový nápoj s probiotickou kultúrou neochutený | plastová fľaštička 4 x 100 g | I | 200 g | 0,0787 | 0,71
 
-- 16 | Kyslomliečny výrobok neochutený obsahujúci 3,5 % hmotnosti tuku | téglik 400 ml | I. | 200 ml | 0,0665 | 0,21
+- 16. | jogurtový nápoj s probiotickou kultúrou ochutený | plastová fľaštička 4 x 100 g | II | 200 g | 0,0723 | 0,72
 
-- 17 | Kyslomliečny výrobok neochutený obsahujúci 1,0 % hmotnosti tuku | kartón 400 ml | I. | 200 ml | 0,0714 | 0,14
+- 17. | jogurtový nápoj s probiotickou kultúrou ochutený | plastová fľaštička 240 g | II | 240 g | 0,0908 | 0,46
 
-- 18 | Kyslomliečny výrobok ochutený obsahujúci 3,1 % hmotnosti tuku | kartón 400 ml | II. | 200 ml | 0,0616 | 0,24
+- 18. | kyslomliečny výrobok neochutený | téglik 200 ml | I | 200 ml | 0,0826 | 0,12
 
-- 19 | Kyslomliečny výrobok ochutený obsahujúci 1,5 % hmotnosti tuku | téglik 400 ml | II. | 200 ml | 0,0659 | 0,23
+- 19. | kyslomliečny výrobok neochutený | téglik 200 g | I | 200 g | 0,0837 | 0,12
 
-- 20 | Čerstvý a tavený syr obsahujúci najmenej 90 % hmotnosti syra | črievko 100 g | III. | 85 g | 0,0875 | 0,38
+- 20. | smotanový jogurt ochutený | téglik 150 ml | II | 150 ml | 0,0548 | 0,29
 
-- 21 | Ochutený a neochutený syr obsahujúci najmenej 90 % hmotnosti syra | škatuľka 80 g | V. | 33 g | 0,0906 | 0,28
+- 21. | smotanový jogurt ochutený | téglik 125 g | II | 125 g | 0,0496 | 0,26
 
-- 22 | Ochutený a neochutený syr obsahujúci najmenej 90 % hmotnosti syra | škatuľka 120 g | V. | 33 g | 0,0965 | 0,19
+- 22. | smotanový jogurt ochutený | téglik 150 g | II | 150 g | 0,0565 | 0,31
 
-- 23 | Mlieko polotučné ochutené obsahujúce najmenej 90 % hmotnosti mlieka, ultravysokotepelne ohriate (UHT) ** | téglik 200 ml | I. | 200 ml | 0,1509 | 0,24
+- 23. | jogurtové mlieko ochutené | téglik 200 ml | II | 200 ml | 0,0783 | 0,20
 
-- 24 | Kyslomliečny výrobok neochutený ** | téglik 250 g | I. | 250 g | 0,0901 | 0,31
+- 24. | jogurt ochutený | téglik 150 g | II | 150 g | 0,0515 | 0,22
 
-- 25 | Kyslomliečny výrobok ochutený a neochutený obsahujúci 3,6 % hmotnosti tuku ** | téglik 250 g | II. | 250 g | 0,0879 | 0,36
+- 25. | acidofilné mlieko | téglik 250 ml | I | 250 ml | 0,1063 | 0,21
 
-- 26 | Kyslomliečny výrobok ochutený a neochutený obsahujúci 1 % hmotnosti tuku ** | téglik 250 g | II. | 250 g | 0,0819 | 0,34
+- 26. | kyslomliečny výrobok s probiotickou kultúrou biely | téglik 120 g | I | 120 g | 0,0482 | 0,28
 
-  - * Kategória výrobkov podľa prílohy I nariadenia Komisie (ES) č. 657/2008, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní mlieka a určitých mliečnych výrobkov žiakom vo vzdelávacích inštitúciách.
+- 27. | kyslomliečny výrobok s probiotickou kultúrou biely | téglik 125 g | I | 125 g | 0,0473 | 0,30
 
-  - ** Distribúcia cez automaty.
+- 28. | kyslomliečny výrobok s probiotickou kultúrou ochutený | téglik 120 g | II | 120 g | 0,0504 | 0,31
+
+- 29. | kyslomliečny výrobok s probiotickou kultúrou ochutený | téglik 125 g | II | 125 g | 0,0496 | 0,33
+
+- 30. | kyslomliečny výrobok neochutený obsahujúci 1 % hmotnosti tuku (distribúcia cez automaty) | téglik 250 g | I | 250 g | 0,1806 | 0,25
