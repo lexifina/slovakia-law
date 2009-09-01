@@ -1,4 +1,4 @@
-- 1) § 3 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky. § 3 ods. 4 zákona Slovenskej národnej rady č. 428/1990 Zb. o úradnom jazyku v Slovenskej republike.
+- 1) § 3 zákona Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky. § 3a zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení zákona č. 318/2009 Z. z.
 
 - 2) § 4 ods. 2 písm. b) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
