@@ -408,6 +408,30 @@ Príloha č. 2 k zákonu č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
 
         - Osoby – ženy, ktoré spontánne potratili alebo ktorým bolo vykonané UPT vrátane UPT zo zdravotných dôvodov.
 
+    - 5a. Názov zisťovania: Hlásenie o poskytnutí informácií o umelom prerušení tehotenstva
+
+      - a) Zoznam osobných údajov
+
+        - Rodné číslo ženy, kód obce trvalého bydliska v Slovenskej republike, rodinný stav, vek plodu.
+
+      - b) Účel ich spracúvania
+
+        - Účelom štatistického zisťovania a spracúvania je získať informácie o včasnom poskytnutí komplexných informácií o umelom prerušení tehotenstva (UPT) vrátane umelého prerušenia tehotenstva zo zdravotných dôvodov. Spracované údaje sa využijú na hodnotenie zdravotného stavu obyvateľstva, na demografickú štatistiku a kontrolu.
+
+      - c) Podmienky ich získavania
+
+        - Vymedzenie spravodajských jednotiek: zdravotnícke zariadenia – gynekologické oddelenia, gynekologicko-pôrodnícke oddelenia.
+
+        - Periodicita: v deň poskytnutia informácií o umelom prerušení tehotenstva.
+
+        - Použitá metóda: vyčerpávajúce zisťovanie.
+
+        - Získavanie osobných údajov: v tlačovom formulári alebo v elektronickej forme.
+
+      - d) Okruh dotknutých osôb
+
+        - Ženy, ktorým má byť vykonané UPT, vrátane žien ktoré požiadali o UPT.
+
     - 6. Hlásenie pohlavnej choroby
 
       - a) Zoznam spracovávaných osobných údajov

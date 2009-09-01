@@ -20,6 +20,14 @@
 
 - 6) § 72 Trestného zákona.
 
+- 6a) § 13 ods. 5 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
+
+- 6b) § 102 ods. 1 písm. b) zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+
+- § 180a ods. 1, § 180a ods. 6 a § 181 ods. 5 Občianskeho súdneho poriadku.
+
+- 6c) § 4 zákona Slovenskej národnej rady č. 73/1986 Zb. o umelom prerušení tehotenstva v znení zákona č. 419/1991 Zb.
+
 - 7) § 5 zákona č. 578/2004 Z. z.
 
 - 7a) Zákon č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
