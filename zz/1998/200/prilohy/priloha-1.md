@@ -1,75 +1,75 @@
 Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
-- CHARAKTERISTIKA PLATOVÝCH TRIED VRÁTANE KVALIFIKAČNÝCH PREDPOKLADOV
+- CHARAKTERISTIKA PLATOVÝCH TRIED
 
   - 1. PLATOVÁ TRIEDA
 
-    - Funkcia: colný čakateľ
+    - Kvalifikačný predpoklad vzdelania: úplné stredné vzdelanie
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie.
+    - Kvalifikačný predpoklad colníckeho vzdelania: základné colnícke vzdelanie
 
-    - Rutinné činnosti podľa presných postupov a pokynov s bežnou psychickou a fyzickou záťažou pod odborným dozorom.
+    - Rutinné odborné činnosti podľa presných postupov a pokynov s bežnou psychickou a fyzickou záťažou s pracovnými vzťahmi v rámci jedného pracovného kolektívu.
 
   - 2. PLATOVÁ TRIEDA
 
-    - Funkcia: colný referent
+    - Kvalifikačný predpoklad vzdelania: úplné stredné vzdelanie
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie, základné colnícke vzdelanie, odborná prax viac ako dva roky.
+    - Kvalifikačný predpoklad colníckeho vzdelania: základné colnícke vzdelanie
 
-    - Samostatné činnosti s premenlivými informáciami spracovávanými podľa rámcových pokynov alebo podľa zaužívaných postupov s presne stanovenými výstupmi, so zodpovednosťou za výsledky ovplyvňujúce činnosť kolektívu, zabezpečovanie časti zverenej agendy vyžadujúce koordináciu činnosti v rámci organizačného útvaru.
+    - Samostatné rutinné opakujúce sa činnosti s premenlivými informáciami, zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu s presne stanovenými výstupmi, so zodpovednosťou za výsledky práce ovplyvňujúce činnosť základného pracovného kolektívu. Zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu. Príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend, zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu.
 
   - 3. PLATOVÁ TRIEDA
 
-    - Funkcia: samostatný colný referent
+    - Kvalifikačný predpoklad vzdelania: úplné stredné vzdelanie
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, základné colnícke vzdelanie, odborná prax viac ako štyri roky.
+    - Kvalifikačný predpoklad colníckeho vzdelania: základné colnícke vzdelanie
 
-    - Odborné činnosti pri príprave rozhodnutí alebo pri príprave správneho konania zvládnuteľné v rámci existujúcich štandardov alebo samostatné zabezpečovanie menej zložitých agend na príslušnom úseku colnej správy so značným rozsahom väzieb v rámci súboru vykonávaných činností.
+    - Samostatné odborné činnosti pri príprave podkladov na rozhodovanie, príprava rozhodnutí v rámci ucelených agend; samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sa spracúvajú podľa štandardizovaných postupov vyžadujúce spoluprácu v rámci služobného úradu i mimo neho.
 
   - 4. PLATOVÁ TRIEDA
 
-    - Funkcia: odborný colný referent
+    - Kvalifikačný predpoklad vzdelania: úplné stredné vzdelanie, vyššie odborné vzdelanie
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako šesť rokov.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Samostatné odborné činnosti alebo samostatný výkon ucelených agend s rozhodovacou právomocou na príslušnom úseku colnej správy, rozhodovanie na prvom stupni správneho konania, samostatné činnosti vyžadujúce spoluprácu aj s inými organizačnými útvarmi.
+    - Samostatné odborné činnosti alebo samostatný výkon ucelených agend s rozhodovacou právomocou, riadenie a organizácia rámcových úsekov, činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, ktoré sa vykonávajú podľa metodických predpisov s presne stanovenými výstupmi so zodpovednosťou za rozhodnutia a výsledky práce s dôsledkami na úseky v rámci služobného úradu i mimo neho.
 
   - 5. PLATOVÁ TRIEDA
 
-    - Funkcia: hlavný colný referent
+    - Kvalifikačný predpoklad vzdelania: vysokoškolské vzdelanie prvého stupňa
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborné colnícke vzdelanie.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku colnej správy v rámci colného úradu, príprava rozhodnutí v druhom stupni správneho konania na príslušnom úseku colnej správy vrátane účasti na kontrole.
+    - Samostatné odborné činnosti, riadenie a organizácia rámcových úsekov, prípadne činnosti, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie; analytická a hodnotiaca činnosť pri príprave podkladov na rozhodovanie; príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku služobného úradu; príprava rozhodnutí v druhom stupni správneho konania; výkon kontroly.
 
   - 6. PLATOVÁ TRIEDA
 
-    - Funkcia: colný špecialista
+    - Kvalifikačný predpoklad vzdelania: vysokoškolské vzdelanie prvého stupňa alebo druhého stupňa
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako dva roky.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Samostatné odborné spracovanie rozhodnutí a výkon kontroly, rozhodovanie na druhom stupni správneho konania, samostatné ucelené odborné činnosti v príslušnom odbore colnej správy alebo na príslušnom úseku colnej správy, riadenie, koordinácia a usmerňovanie aktivít vo vymedzenom úseku colnej správy.
+    - Samostatné odborné činnosti vykonávané podľa individuálne stanovených postupov vopred neurčeným spôsobom, koordinácia a riadenie určených častí zložitých systémov vyžadujúce špeciálne konzultácie a osobitné podklady, systémové činnosti so samostatným výberom postupov a spôsobov riešení majúce dôsledky na viaceré subjekty; samostatné spracovanie rozhodnutí; kontrolná a inšpekčná činnosť na úrovni regiónu; riadenie, koordinácia a usmerňovanie aktivít vo vymedzenom okruhu služobných úradov; vydávanie rozhodnutí v prvom a druhom stupni správneho konania.
 
   - 7. PLATOVÁ TRIEDA
 
-    - Funkcia: vedúci colný špecialista
+    - Kvalifikačný predpoklad vzdelania: vysokoškolské vzdelanie druhého stupňa
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako šesť rokov.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov pre rozhodnutia v otázkach spadajúcich do rozsahu kompetencie colného riaditeľstva a colného kriminálneho úradu, tvorba opatrení v príslušnom odbore colnej správy s celospoločenským dosahom, kontrolná a inšpekčná činnosť vrátane vydávania rozhodnutí v príslušnom odbore colnej správy, koncepčná a koordinačná činnosť v odbore štátnej služby colníctva s dôsledkami na územie regiónu.
+    - Samostatné odborné špecializované činnosti spočívajúce najmä v analytickej činnosti, vo vyhodnocovaní výsledkov a v príprave podkladov na rozhodnutia v otázkach patriacich do rozsahu kompetencie orgánu štátnej správy; samostatné odborné špecializované činnosti s rozsiahlymi väzbami medzi rôznymi úsekmi činnosti; výkon individuálnych technických a technologických vysoko odborných činností; tvorba opatrení v príslušnom odbore s celospoločenským dosahom; normotvorná činnosť vo vymedzenej oblasti na úrovni orgánu štátnej správy; kontrolná a inšpekčná činnosť vrátane vydávania rozhodnutí; koncepčná a koordinačná činnosť v oblasti colníctva s dôsledkami na územie regiónu.
 
   - 8. PLATOVÁ TRIEDA
 
-    - Funkcia: colný tajomník
+    - Kvalifikačný predpoklad vzdelania: vysokoškolské vzdelanie druhého stupňa
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako deväť rokov.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Koncepčné alebo metodické činnosti na úrovni colného riaditeľstva, koordinácia úsekov štátnej služby a časti zložitých systémov na úrovni colného riaditeľstva, kontrolná a inšpekčná činnosť s celospoločenským dosahom, normotvorná činnosť vo vymedzenej oblasti v príslušnom odbore na úrovni colného riaditeľstva, koncepčná systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie kraja.
+    - Vysoko špecializované odborné činnosti alebo zložité analytické činnosti, ktorých výsledkom sú riešenia zásadného charakteru; koncepčné alebo metodické činnosti orgánu štátnej správy; koordinácia úsekov a častí zložitých systémov na úrovni orgánu štátnej správy, kontrolná a inšpekčná činnosť s celospoločenským dosahom; riadenie a koordinácia komplexu zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami; koncepčná, systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie územného obvodu orgánu colnej správy.
 
   - 9. PLATOVÁ TRIEDA
 
-    - Funkcia: colný riaditeľ
+    - Kvalifikačný predpoklad vzdelania: vysokoškolské vzdelanie druhého stupňa
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborné colnícke vzdelanie, odborná prax viac ako deväť rokov.
+    - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Koordinácia celoštátneho colného systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami rozhodnutí s celoštátnym alebo s medzinárodným dosahom.
+    - Koordinácia celoštátneho colného systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami na rozhodnutia s celoštátnym alebo medzinárodným dosahom; riadenie, organizácia a koordinácia najzložitejších systémov s vysokým počtom rôznych spôsobov riešenia.

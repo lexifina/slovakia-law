@@ -1,6 +1,6 @@
-# § 90a Príplatok za štátnu službu v sťažených a zdraviu škodlivých podmienkach
+# § 90a Príplatok za štátnu službu v sťaženom a zdraviu škodlivom pracovnom prostredí
 
-(1) Colníkovi patrí príplatok za štátnu službu v sťažených a zdraviu škodlivých podmienkach, ak vykonáva činnosti, pri ktorých dochádza k ohrozeniu života alebo zdravia z dôvodu
+(1) Colníkovi patrí príplatok za štátnu službu v sťaženom a zdraviu škodlivom pracovnom prostredí, ak vykonáva činnosti, pri ktorých dochádza k ohrozeniu života alebo zdravia z dôvodu
 
 - a) ionizujúceho žiarenia a neionizujúceho žiarenia,
 
