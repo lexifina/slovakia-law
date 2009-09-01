@@ -18,6 +18,14 @@
 
 - 5) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 396/2005 z 23. februára 2005 o maximálnych hladinách rezíduí pesticídov na alebo v potravinách a krmivách rastlinného a živočíšneho pôvodu a o zmene a doplnení smernice Rady 91/414/EHS (Ú. v. EÚ L 070, 16. 3. 2005) v znení nariadenia Rady (ES) č. 178/2006 (Ú. v. EÚ L 29, 2. 2. 2006).
 
+- 5a) § 25 písm. a) zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 45/2009 Z. z.
+
+- 5b) § 25 písm. w) zákona č. 193/2005 Z. z. v znení zákona č. 45/2009 Z. z.
+
+- 5c) Nariadenie vlády Slovenskej republiky č. 298/2007 Z. z., ktorým sa ustanovujú podrobnosti o činnostiach testovacích pracovísk, pracovných náplniach zamestnancov v nich zamestnaných a podrobnosti o činnostiach a pracovných náplniach inšpektorov vykonávajúcich inšpekcie a overovanie dodržiavania zásad správnej laboratórnej praxe.
+
+- § 30 až 30g zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
+
 - 6) Príloha č. 1 časť A alebo B nariadenia vlády Slovenskej republiky č. 316/2007 Z. z., ktorým sa ustanovujú požiadavky na dokumentačný súbor údajov účinných látok a prípravkov na ochranu rastlín a jednotné zásady na odborné posudzovanie a registráciu prípravkov na ochranu rastlín.
 
 - 7) Príloha č. 1 časť C alebo D nariadenia vlády Slovenskej republiky č. 316/2007 Z. z.

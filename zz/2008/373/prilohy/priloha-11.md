@@ -235,3 +235,11 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 7. Smernica Komisie 2009/11/ES z 18. februára 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť bensulfuron, nátrium-5-nitroguajakolát, nátrium-2-nitrofenolát, nátrium-4-nitrofenolát a tebufenpyrad ako účinné látky (Ú. v. EÚ L 48, 19. 2. 2009),
 
 - 8. Smernica Komisie 2009/25/ES z 2. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky pyraklostrobín (Ú. v. EÚ L 91, 3. 4. 2009).
+
+- 9. Smernica Komisie 2009/37/ES z 23. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórmekvát, zlúčeniny medi, propachizafop, chizalofop-P, teflubenzurón a zeta-cypermetrín medzi účinné látky (Ú. v. EÚ L 104, 24. 4. 2009).
+
+- 10. Smernica Komisie 2009/51/ES z 25. mája 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky nicosulfurón (Ú. v. EÚ L 127, 26. 5. 2009).
+
+- 11. Smernica Komisie 2009/70/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť difenakum, didecyl(dimetyl)amónium-chlorid a síru medzi účinné látky (Ú. v. EÚ L 164, 26. 6. 2009).
+
+- 12. Smernica Komisie 2009/77/ES z 1. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórsulfurón, cyromazín, dimetachlór, etofenprox, lufenurón, penkonazol, tri-alát a triflusulfurón medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2009).
