@@ -36,6 +36,8 @@
 
 - 15) Napríklad zákon č. 283/2002 Z. z. o cestovných náhradách.
 
+- 15a) § 53 Zákonníka práce.
+
 - 16) Napríklad § 18 až 33 zákona č. 283/2002 Z. z.
 
 - 17) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
@@ -128,6 +130,8 @@
 
 - 51) Napríklad vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej republiky č. 326/1990 Zb. o poskytovaní štipendií študentom vysokých škôl v znení neskorších predpisov.
 
+- 51a) § 12 ods. 2 a 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
 - 52) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
@@ -151,6 +155,8 @@
 - 59a) § 18 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
 - 59b) Napríklad § 141 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 59c) § 13 ods. 2 zákona č. 184/2009 Z. z.
 
 - 60) § 149 až 151 Občianskeho zákonníka.
 
@@ -221,6 +227,10 @@
 - Zákon Národnej rady Slovenskej republiky č. 272/1994 Zb. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 86a) Napríklad § 152 Zákonníka práce.
+
+- 86aa) § 12 a 13 zákona č. 184/2009 Z. z.
+
+- 86ab) Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
 
 - 87) Zákon č. 283/2002 Z. z.
 
