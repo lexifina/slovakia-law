@@ -14,7 +14,7 @@
 
 - 6) Trestný zákon.
 
-- 7) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 7) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) § 21 Obchodného zákonníka.
 
@@ -33,6 +33,8 @@
 - 13a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 14) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14a) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
 
 - 15) Napríklad § 25 Občianskeho súdneho poriadku, § 35 Trestného poriadku.
 
