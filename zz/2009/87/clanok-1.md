@@ -86,7 +86,11 @@ Zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorý
 
 - „g)
 
-- v úradných budovách, v uzavretých verejne prístupných priestoroch všetkých typov predajní, v divadlách, v kinách, na výstaviskách, v múzeách a galériách,“.
+- v úradných budovách, v uzavretých verejne prístupných priestoroch všetkých typov predajní, v divadlách, v kinách, na výstaviskách, v múzeách a galériách,
+
+- h)
+
+- v zariadeniach spoločného stravovania, okrem zariadení, ktoré majú pre nefajčiarov vyhradených minimálne 50 % z plochy, ktorá je stavebne oddelená od časti pre fajčiarov, pričom priestor pre nefajčiarov musí byť umiestnený pri vstupe do zariadenia,“.
 
 - 11. V § 7 ods. 1 písmeno i) znie:
 
