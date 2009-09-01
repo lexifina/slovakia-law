@@ -6,7 +6,7 @@
 
 - b) umožniť porovnanie údajov uvádzaných v dokladoch vozidla priamo s údajmi na vozidle.
 
-(2) Obvodný úrad dopravy nesmie uznať typové schválenie ES jednotlivo dovezeného vozidla z členského štátu alebo iného zmluvného štátu, uznať schválenie jednotlivo dovezeného vozidla z členského štátu alebo iného zmluvného štátu, ani schváliť jednotlivo dovezené vozidlo z tretej krajiny
+(2) Obvodný úrad dopravy nesmie uznať typové schválenie ES jednotlivo dovezeného vozidla z členského štátu alebo iného zmluvného štátu, uznať schválenie jednotlivo dovezeného vozidla z členského štátu alebo iného zmluvného štátu, ani schváliť jednotlivo dovezené vozidlo z tretieho štátu
 
 - a) s riadením na pravej strane alebo v strede vozidla; to neplatí, ak ide o vozidlo jednoúčelového využitia, ktoré vyžaduje také umiestnenie riadenia, alebo
 
@@ -20,4 +20,4 @@
 
 - f) ak jednotlivo dovezené vozidlo je historickým vozidlom alebo športovým vozidlom.
 
-(3) Podrobnosti o technických požiadavkách, ktoré musí jednotlivo dovezené vozidlo z tretích krajín spĺňať z hľadiska konštrukcie a podrobnosti o činnosti obvodného úradu dopravy pri odňatí osvedčenia o evidencii z iného členského štátu a o informovaní tohto štátu o odňatí osvedčenia o evidencii ustanoví všeobecne záväzný právny predpis.
+(3) Podrobnosti o technických požiadavkách, ktoré musí jednotlivo dovezené vozidlo z tretích štátov spĺňať z hľadiska konštrukcie a podrobnosti o činnosti obvodného úradu dopravy pri odňatí osvedčenia o evidencii z iného členského štátu a o informovaní tohto štátu o odňatí osvedčenia o evidencii ustanoví všeobecne záväzný právny predpis.
