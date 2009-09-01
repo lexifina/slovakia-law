@@ -6,10 +6,8 @@
 
 (3) Obnova katastrálneho operátu novým mapovaním spočíva v zisťovaní priebehu hraníc územno-správnych jednotiek, hraníc katastrálnych území, hraníc pozemkov vymedzených právami k nehnuteľnostiam, hraníc druhov pozemkov a pôdorysov stavieb (ďalej len „zisťovanie priebehu hraníc“).
 
-(4) Katastrálny operát alebo jeho časť možno obnoviť skrátenou formou, ak katastrálna mapa vyhovuje svojou presnosťou a ak je potrebné doplniť ju o jej číselné vyjadrenie. Pri obnove katastrálneho operátu alebo jeho časti skrátenou formou sa nezisťuje priebeh hraníc a nevykonávajú sa geodetické činnosti v teréne. Katastrálny operát alebo jeho časť možno obnoviť skrátenou formou len so súhlasom úradu.
+(4) Ak sa katastrálny operát alebo jeho časť stanú nespôsobilými na ďalšie používanie v dôsledku opotrebovania a právny stav ani skutočný stav sa nezmenili a nie sú ani iné dôvody na obnovu katastrálneho operátu novým mapovaním katastrálny operát alebo jeho časť sa obnovia vyhotovením duplikátu platného stavu.
 
-(5) Ak sa katastrálny operát alebo jeho časť stanú nespôsobilými na ďalšie používanie v dôsledku opotrebovania a právny stav ani skutočný stav sa nezmenili a nie sú ani iné dôvody na obnovu katastrálneho operátu novým mapovaním alebo na obnovu katastrálneho operátu alebo jeho časti skrátenou formou, katastrálny operát alebo jeho časť sa obnovia vyhotovením duplikátu platného stavu.
+(5) Obnovu katastrálneho operátu novým mapovaním začne správa katastra oznámením obci, na ktorej území sa obnova katastrálneho operátu bude vykonávať.
 
-(6) Obnovu katastrálneho operátu novým mapovaním, prípadne skrátenou formou, začne správa katastra oznámením obci, na ktorej území sa obnova katastrálneho operátu bude vykonávať.
-
-(7) Obnova katastrálneho operátu nadväzuje na platný katastrálny operát. Výsledok obnovy katastrálneho operátu nemá vplyv na vznik, zmenu ani na zánik práv k nehnuteľnostiam.
+(6) Obnova katastrálneho operátu nadväzuje na platný katastrálny operát. Výsledok obnovy katastrálneho operátu nemá vplyv na vznik, zmenu ani na zánik práv k nehnuteľnostiam.

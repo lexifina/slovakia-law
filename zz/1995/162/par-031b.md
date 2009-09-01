@@ -24,4 +24,8 @@ v určenej lehote nebol zaplatený správny poplatok,
 
 f)
 
-účastník konania v určenej lehote neodstránil nedostatky návrhu na vklad, prípadne jeho príloh.
+účastník konania v určenej lehote neodstránil nedostatky návrhu na vklad, prípadne jeho príloh,
+
+g)
+
+vo veci koná iná príslušná správa katastra.

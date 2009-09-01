@@ -24,13 +24,7 @@
 
 - 9a) § 5 a 16 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
-- 10) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.§ 18 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 151/1995 Z. z. a zákona č. 173/1999 Z. z.
-
-- 10a) Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
-
-- Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
-
-- 10aa) § 22 ods. 2 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z.
+- 10) Napr. § 50, § 425 zákona č. 301/2005 Z. z. Trestný poriadok.
 
 - 10ab) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
@@ -46,13 +40,9 @@
 
 - 10ea) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení zákona č. 568/2007 Z. z.
 
-- 10f) § 152 ods. 1, § 159, § 167 ods. 2 a § 175zca ods. 4 Občianskeho súdneho poriadku.
-
 - 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
 
 - 12) Napríklad zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
-- 13a) Zákon č. 64/1997 Z. z. o užívaní pozemkov v zriadených záhradkových osadách a o vyporiadaní vlastníctva k nim v znení zákona č. 224/2001 Z. z.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
 
@@ -61,8 +51,6 @@
 - 16) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 17) Nariadenie Zboru povereníkov č. 128/1945 Zb. SNR o výstavbe miest a obcí na Slovensku.
-
-- 18) Zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
 - 19) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
@@ -73,6 +61,8 @@
 - Vyhláška Slovenského úradu geodézie a kartografie č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
 
 - 21a) § 8 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 21b) § 7 ods. 2 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 

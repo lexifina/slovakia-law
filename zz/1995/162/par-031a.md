@@ -10,4 +10,6 @@ Konanie o návrhu na vklad sa preruší, ak
 
 - d) to zhodne navrhli všetci účastníci konania, a to najdlhšie na 60 dní,
 
-- e) bolo účastníkovi predbežným opatrením nariadené, aby nenakladal s určitou nehnuteľnosťou.
+- e) bolo účastníkovi predbežným opatrením nariadené, aby nenakladal s určitou nehnuteľnosťou,
+
+- f) právo nakladať s nehnuteľnosťou je obmedzené podľa osobitného predpisu.<sup>10</sup>)
