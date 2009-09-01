@@ -98,11 +98,11 @@
 
 - 20) § 140 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 20a) § 61 zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2009 Z. z.
 
 - 21) § 14, 18 a 19 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
-- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek, § 11 nariadenia vlády Slovenskej republiky č. 135/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES motorových vozidiel a ich prípojných vozidiel a § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
+- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek, § 30 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá a § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
 
 - 22) § 4 zákona č. 725/2004 Z. z.
 
