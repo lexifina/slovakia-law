@@ -34,7 +34,9 @@
 
   - 1. zriadil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich zaradení do siete,
 
-  - 2. zrušil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich vyradení zo siete.
+  - 2. zrušil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich vyradení zo siete,
+
+- c) od 100 eur do 3000 eur zriaďovateľovi, ktorý údaje podľa § 35a neposkytol alebo poskytol nepravdivé údaje.
 
 (6) Pokutu možno uložiť do jedného roka odo dňa, keď správny orgán zistil porušenie povinností, najneskôr však do troch rokov odo dňa, keď k porušeniu povinností došlo.
 

@@ -110,6 +110,8 @@
 
 - 41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.
 
+- 41b) § 27 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
 - 42) Zákon č. 152/1998 Z. z.
 
 - 43) Zákon č. 85/1990 Zb. v znení neskorších predpisov.
@@ -153,6 +155,8 @@
 - 53a) § 57a a 57b zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 53b) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
+
+- 53c) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 54) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
 
