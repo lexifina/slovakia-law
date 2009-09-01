@@ -2,19 +2,19 @@ Príloha č. 1 k nariadeniu vlády č. 340/2008 Z. z.
 
 Najvyššie sumy podpôr na jednotlivé opatrenia
 
-P. č. | Opatrenie | Podpora v euro/ha | | Straty z príjmu v euro/ha
+P. č. | Opatrenie | Podpora v eurách/ha | | | Straty z príjmu v eurách/ha
 
-| | Bratislavský kraj | Ostatné kraje |
+| | Bratislavský kraj | | Ostatné kraje |
 
-1. | Zmena odrôd | 12 500 | 18 750 | 700
+1. | Zmena odrôd | 10 500 | | 15 000 | 550
 
-2. | Zmena počtu krov | 13 000 | 19 500 | 700
+2. | Zmena počtu krov | 11 000 | | 16 500 | 550
 
-3. | Podsadba | 1/štep | 1,5/štep | –
+3. | Podsadba | 0,9/štep | | 1,0/štep | –
 
-4. | Presun vinohradu | 15 000 | 22 500 | 700
+4. | Presun vinohradu | 13 000 | | 18 500 | 550
 
-5. | Vyklèovanie | 2 200 | 3 300 | –
+5. | Vyklčovanie | 2 000 | | 3 000 | –
 
 Žiadateľovi je poskytnutá podpora vo výške 50 % pre Bratislavský kraj alebo 75 % pre ostatné kraje oprávnených vecných nákladov doložených účtovnými dokladmi, najviac do sumy uvedenej v tabuľke.
 

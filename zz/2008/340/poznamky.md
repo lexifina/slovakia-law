@@ -14,7 +14,7 @@
 
 - 7) Čl. 10 ods. 4 nariadenia (ES) č. 479/2008 (Ú. v. EÚ L 148, 6. 6. 2008).
 
-- 8) Nariadenie Komisie (ES) č. 1282/2001 z 28. júna 2001, ktoré stanovuje podrobné pravidlá pre uplatňovanie nariadenia Rady (ES) č. 1493/1999, pokiaľ ide o zhromažďovanie informácií na identifikáciu výrobkov z vína a na monitorovanie trhu s vínom, a ktorým sa mení a dopĺňa nariadenie (ES) č. 1623/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 32) v platnom znení.
+- 8) Nariadenie Komisie (ES) č. 436/2009 z 26. mája 2009 o podrobných pravidlách uplatňovania nariadenia Rady (ES) č. 479/2008, pokiaľ ide o vinohradnícky register, povinné nahlasovanie a zhromažďovanie informácií na účely monitorovania trhu, sprievodné doklady na prepravu výrobkov a evidenciu, ktorú treba viesť v sektore vinohradníctva a vinárstva (Ú. v. EÚ L 128, 27. 5. 2009).
 
 - 9) Príloha I nariadenia (ES) č. 479/2008 (Ú. v. EÚ L 148, 6. 6. 2008).
 
@@ -36,9 +36,13 @@
 
 - 17) § 7 zákona č. 543/2007 Z. z.
 
-- 18) Hlava II články 3 až 7 nariadenia Rady (ES) č. 1782/2003 z 29. septembra 2003, ktorým sa stanovujú spoločné pravidlá režimov priamej podpory v rámci Spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov a ktorým sa menia a dopĺňajú nariadenia (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/94, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 40) v platnom znení.
+- 18) Hlava II čl. 4 až 6 a 23 až 24 nariadenia Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009).
 
 - 19) Čl. 37 nariadenia (ES) č. 555/2008 (Ú. v. EÚ L 170, 30. 6. 2008).
+
+- 19a) § 16 nariadenia vlády Slovenskej republiky č. 369/2007 Z. z. o niektorých podporných opatreniach v pôdohospodárstve v znení nariadenia vlády Slovenskej republiky č. 159/2008 Z. z.
+
+- 19b) Čl. 34 nariadenia (ES) č. 479/2008 (Ú. v. EÚ L 148, 6. 6. 2008).
 
 - 20) Čl. 17 a 18 nariadenia (ES) č. 555/2008 (Ú. v. EÚ L 170, 30. 6. 2008).
 
