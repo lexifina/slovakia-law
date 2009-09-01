@@ -4,7 +4,7 @@
 
 (2) Vecne príslušný ústredný orgán štátnej správy zašle stanovisko k návrhu na vyčlenenie mobilizačných rezerv ochraňovateľovi a na vedomie Správe rezerv. Na základe stanoviska vykoná ochraňovateľ nové ocenenie určené znaleckým posudkom alebo odbornou komisiou vymenovanou štatutárnym orgánom ochraňovateľa.
 
-(3) Nové ocenenie odbornou komisiou sa vykoná pri vyčlenení zásob, ktorých ocenenie v účtovníctve nepresahuje 50 000 Sk za jednu mernú jednotku.
+(3) Nové ocenenie odbornou komisiou sa vykoná pri vyčlenení zásob, ktorých ocenenie v účtovníctve nepresahuje 1 659 eur za jednu mernú jednotku.
 
 (4) Správa rezerv s prihliadnutím na nové ocenenie vydá rozhodnutie o vyčlenení mobilizačných rezerv, určí spôsob a termín jeho skončenia.
 

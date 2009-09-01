@@ -29,5 +29,3 @@
 (8) Dopravca prevzatie pohotovostných zásob zo skladu ochraňovateľa alebo skladu Správy rezerv potvrdí na výdajke o poskytnutí pohotovostných zásob.
 
 (9) Za prevzatie a pridelenie postihnutým osobám a zamedzenie zneužitia pohotovostných zásob zodpovedá štatutárny orgán príslušného orgánu krízového riadenia, ktorý požiadavku uplatnil.
-
-(10) Daň z pridanej hodnoty z poskytnutých pohotovostných zásob Správa rezerv vyrovná s príslušným daňovým úradom.
