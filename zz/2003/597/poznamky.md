@@ -28,6 +28,10 @@
 
 - 17) § 35 a 36 zákona č. 596/2003 Z. z. v znení neskorších predpisov.§ 23 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
+- 17a) § 7 Zákonníka práce.
+
+- § 3 ods. 2 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
+
 - 18) Napríklad § 24 zákona č. 523/2004 Z. z. v znení neskorších predpisov, § 476 až 480 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 19) § 8 ods. 2 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
@@ -68,7 +72,11 @@
 
 - 24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
 
-- 25) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+- 24d) § 2 zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2005 Z. z.
+
+- § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
+
+- 25) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
 

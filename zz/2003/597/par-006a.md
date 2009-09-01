@@ -6,7 +6,7 @@
 
 (3) Ministerstvo zníži zriaďovateľovi súkromnej školy objem finančných prostriedkov na príslušný kalendárny rok, ak v priebehu kalendárneho roka v poslednej správe o výsledku inšpekčnej činnosti Štátnou školskou inšpekciou<sup>23e</sup>)
 
-- a) bolo zistené porušenie školských vzdelávacích programov, ktoré sa uplatňujú v porovnateľnom druhu a type školy,
+- a) bol zistený nesúlad školského vzdelávacieho programu so štátnym vzdelávacím programom,
 
 - b) bol zistený vyšší počet žiakov v triedach škôl,<sup>1</sup>) ako stanovuje osobitný právny predpis,<sup>23f</sup>)
 

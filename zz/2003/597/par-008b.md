@@ -22,16 +22,24 @@
 
 - j) za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3 pokutu od 331,50 eura do 3 319,00 eur,
 
-- k) za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 331,50 eura do 33 193,50 eura,
+- k) za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3 pokutu od 331,50 eura do 33 193,50 eura,
 
-- l) za nedodržanie lehoty na rozpis finančných prostriedkov pridelených prostredníctvom dohodovacieho konania na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 8c ods. 6 pokutu od 331,50 eura do 3 319,00 eur.
+- l) za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 331,50 eura do 33 193,50 eura,
 
-(2) Ministerstvo pri určení pokuty prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie, ako aj na mieru zavinenia.
+- m) za nedodržanie lehoty na rozpis finančných prostriedkov pridelených prostredníctvom dohodovacieho konania na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 8c ods. 6 pokutu od 331,50 eura do 3 319,00 eur.
 
-(3) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
+(2) Ministerstvo uloží škole, školskému zariadeniu alebo obci pokutu
 
-(4) Výnosy z pokút sú príjmom štátneho rozpočtu.
+- a) 300 eur za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12,
 
-(5) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+- b) od 30 eur do 3 000 eur za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12.
 
-(6) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo zistilo porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+(3) Ministerstvo pri určení pokuty prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie, ako aj na mieru zavinenia.
+
+(4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
+
+(5) Výnosy z pokút sú príjmom štátneho rozpočtu.
+
+(6) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+
+(7) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo zistilo porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.

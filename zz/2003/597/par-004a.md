@@ -6,11 +6,7 @@
 
 - b) náklady na mzdy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním<sup>22c</sup>) vrátane poistného a príspevku zriaďovateľa do poisťovní.
 
-(2) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä
-
-- a) počet dní prítomnosti žiaka v škole,
-
-- b) výšku cestovných nákladov na dopravu žiaka do školy z miesta trvalého bydliska a späť.
+(2) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje údaj o výške cestovných nákladov na dopravu žiaka do školy z miesta bydliska a späť.
 
 (3) Žiadosť zriaďovateľa podľa odseku 1 písm. b) obsahuje najmä
 
