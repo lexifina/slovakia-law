@@ -86,7 +86,13 @@
 
 - 32a) Napríklad čl. 14h až 14k nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
+- 32aa) Napríklad Dohovor vypracovaný na základe článku K. 3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami podpísaný v Bruseli 18. 12. 1997 (Ú. v. ES C 24, 23. 1. 1998) v platnom znení.
+
 - 32b) Napríklad čl. 29 ods. 1 nariadenia Komisie (ES) č. 1277/2005 z 27. júla 2005, ktorým sa ustanovujú vykonávacie pravidlá pre nariadenie Európskeho parlamentu a Rady (ES) č. 273/2004 o prekurzoroch drog a pre nariadenie Rady (ES) č. 111/2005, ktorým sa stanovujú pravidlá sledovania obchodu s drogovými prekurzormi medzi Spoločenstvom a tretími krajinami (Ú. v. EÚ L 202, 3. 8. 2005).
+
+- 32c) § 10 ods. 8 písm. b) Trestného poriadku.
+
+- 32d) § 10 ods. 8 písm. g) Trestného poriadku.
 
 - 33) § 72 ods. 1 písm. l) zákona č. 199/2004 Z. z.
 
@@ -115,6 +121,8 @@
 - 42a) § 113 ods. 1 a 2 Trestného poriadku.
 
 - 43) § 111 Trestného poriadku.
+
+- 43a) § 40 ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 44) § 25 Trestného zákona.
 
