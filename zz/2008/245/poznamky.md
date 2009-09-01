@@ -10,6 +10,8 @@
 
 - 6) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
 
+- 6a) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
 - 7) § 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 8) § 16 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -102,8 +104,6 @@
 
 - 50) § 10 odsek 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 51) Napríklad zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 52) § 13 ods. 11 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - § 45 ods. 1 písm. f) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
@@ -167,6 +167,8 @@
 - 79) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. v znení neskorších predpisov.
 
 - 80) Čl. 42 Ústavy Slovenskej republiky.
+
+- 80a) § 17 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 81) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z., zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
