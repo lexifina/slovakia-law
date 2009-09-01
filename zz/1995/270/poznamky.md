@@ -4,46 +4,66 @@
 
 - 3) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
-- 4) Napríklad zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov, zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
+- 4) Napríklad § 18 Občianskeho súdneho poriadku v znení zákona č. 341/2005 Z. z., zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín, zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín, § 5 ods. 1 písm. e) zákona č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov, § 5 ods. 1 písm. g) zákona č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov, § 2 ods. 20 Trestného poriadku, § 2 ods. 2 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon), § 11 ods. 2, § 12 ods. 3 a § 18 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 5) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
+- 5) Napríklad § 120 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 2 zákona č. 619/2003 Z. z. v znení neskorších predpisov, § 2 zákona č. 16/2004 Z. z. v znení neskorších predpisov, § 2 a 17 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5a) § 3 a 3a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 5a) § 12 zákona č. 245/2008 Z. z.
 
-- 5b) § 11 zákona Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov.
+- 5aa) Zákon č. 184/1999 Z. z.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z.
+- 5b) § 18 ods. 3 zákona č. 245/2008 Z. z.
 
 - 6a) Napríklad § 3 ods. 6 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2007 Z. z.
 
+- 6b) Napríklad § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 11 zákona č. 200/1997 Z. z. o Študentskom pôžičkovom fonde v znení zákona č. 231/2000 Z. z., § 2 ods. 3 zákona č. 184/1999 Z. z., § 109 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov, § 11 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
+
 - 7) § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku.
 
-- 8) § 3 a 3a zákona č. 29/1984 Zb. v znení zákona č. 171/1990 Zb. a zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z.
+- 7a) § 1a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
 
-- 8a) § 3 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+- 7b) § 18 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov.
 
-- 8b) § 11a zákona Slovenskej národnej rady č. 542/1990 Zb. v znení neskorších predpisov.
+- 7c) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z.
 
-- 9) § 40 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+- Zákon č. 184/1999 Z. z.
 
-- Nariadenie vlády Slovenskej republiky č. 282/1994 Z. z. o používaní učebníc a učebných textov.
+- 8a) § 12 ods. 5 zákona č. 245/2008 Z. z.
 
-- 10) § 3 ods. 3 zákona Slovenskej národnej rady č. 254/1991 Zb. v znení neskorších predpisov.
+- 8b) § 11 ods. 2 zákona č. 245/2008 Z. z.
 
-- § 5 zákona Slovenskej národnej rady č. 255/1991 Zb. v znení neskorších predpisov.
+- 9) § 13 zákona č. 245/2008 Z. z.
 
-- 11) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+- 9a) § 2 ods. 5 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
-- 12) § 18 Občianskeho súdneho poriadku.
+- 10) § 5 ods. 1 písm. k) zákona č. 619/2003 Z. z.
 
-- § 2 ods. 14 zákona č. 141/1961 Zb. Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+- 11) § 5 ods. 1 písm. e) zákona č. 619/2003 Z. z.
 
-- Vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch v znení neskorších predpisov.
+- 11a) § 17 ods. 5 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
 
-- 13) § 9 ods. 1 a 2 a § 11 zákona č. 634/1992 Zb. o ochrane spotrebiteľa.
+- 11b) § 46 ods. 6 zákona č. 343/2007 Z. z.
 
-- Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách.
+- 11c) § 2 ods. 8 zákona č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, neperiodických publikácií a rozmnoženín audiovizuálnych diel.
 
-- 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 11d) § 2 ods. 1 a 4 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
 
-- 15) Zákon Slovenskej národnej rady č. 95/1991 Zb. o štátnom fonde kultúry Pro Slovakia v znení neskorších predpisov.
+- 11e) § 2 ods. 3 zákona č. 212/1997 Z. z.
+
+- 11f) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z.
+
+- 12) Napríklad § 18 Občianskeho súdneho poriadku v znení zákona č. 341/2005 Z. z., zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 20 Trestného poriadku.
+
+- 13) Napríklad § 9 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 24 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov, § 13 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 15) § 2 ods. 2 zákona č. 184/1999 Z. z.
+
+- 16) § 3 ods. 6 a § 11 ods. 3 písm. b) zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 16 písm. g) a § 67 ods. 2 písm. m) zákona č. 308/2000 Z. z. v znení neskorších predpisov.
+
+- 17) § 8 až 13 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 18) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.

@@ -1,0 +1,3 @@
+# § 11a Prechodné ustanovenia k úpravám účinným od 1. septembra 2009
+
+Orgány a právnické osoby podľa § 3 ods. 1, právnické osoby, fyzické osoby podnikatelia a fyzické osoby sú povinné do 31. decembra 2009 odstrániť stav odporujúci ustanoveniam § 3 ods. 3 písm. d), § 5 ods. 5 a 7 a § 8 ods. 6. Ak ide o nápis na pamätníku, pomníku alebo pamätnej tabuli s textom v jazyku národnostnej menšiny, ktorý bol umiestnený na pamätníku, pomníku alebo pamätnej tabuli pred 1. septembrom 2009, a nasleduje po ňom obsahovo totožný text v štátnom jazyku s rovnakým alebo väčším písmom ako text v jazyku národnostnej menšiny, nevzťahuje sa na taký nápis povinnosť uvedená v predchádzajúcej vete.
