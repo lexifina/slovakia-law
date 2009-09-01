@@ -28,7 +28,7 @@
 
 - 1h) § 52 zákona č. 656/2004 Z. z.
 
-- 1j) § 32 zákona č. 656/2004 Z. z.
+- 1j) Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
 
 - 1k) Nariadenie Európskeho parlamentu a Rady (ES) č. 1228/2003 zo dňa 26. júna 2003 o podmienkach pre prístup do siete pre cezhraničné výmeny elektriny (Úradný vestník Európskej únie L 176, 15. 07. 2003) v znení nariadenia Rady (ES) č. 1223/2004 zo dňa 28. júna 2004 (Úradný vestník Európskej únie L 233, 02. 07. 2004).
 
@@ -49,6 +49,8 @@
 - 1nd) § 5 ods. 5 zákona č. 656/2004 Z. z.
 
 - 1ne) § 19 ods. 4 zákona č. 656/2004 Z. z. v znení zákona č. 283/2008 Z. z.
+
+- 1nf) § 13 zákona č. 309/2009 Z. z.
 
 - 1o) § 116 Občianskeho zákonníka.
 

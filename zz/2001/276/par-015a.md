@@ -28,4 +28,4 @@
 
 - f) odtlačok pečiatky úradu a meno, priezvisko, funkciu a podpis zamestnanca úradu oprávneného na udelenie poverenia.
 
-(4) Úrad, zamestnanci kontroly a prizvané osoby a kontrolované subjekty pri výkone kontroly podľa odseku 1 postupujú podľa základných pravidiel kontrolnej činnosti ustanovených v osobitnom predpise.<sup>11a</sup>)
+(4) Úrad, zamestnanci kontroly a prizvané osoby a kontrolované subjekty pri výkone kontroly podľa odseku 1 postupujú primerane podľa základných pravidiel kontrolnej činnosti ustanovených v osobitnom predpise.<sup>11a</sup>)
