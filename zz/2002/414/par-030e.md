@@ -6,6 +6,6 @@
 
 (3) Ak sa s majetkom štátu určeným na účely hospodárskej mobilizácie nenaloží podľa odseku 2, potom spôsob naloženia s ním písomne určí správca majetku štátu, kde uvedie aj skutočnosti vedúce k záveru, že určený spôsob nakladania s dotknutým majetkom štátu je pre správcu majetku štátu najvýhodnejší.
 
-(4) Majetok štátu určený na účely hospodárskej mobilizácie alebo majetok podľa § 30 ods. 2 nemožno postihnúť exekúciou ani výkonom rozhodnutia.
+(4) Majetok štátu určený na účely hospodárskej mobilizácie alebo majetok podľa § 30 ods. 3 nemožno postihnúť exekúciou ani výkonom rozhodnutia.
 
-(5) Na majetok štátu určený na účely hospodárskej mobilizácie alebo na majetok podľa § 30 ods. 2 nemožno zriadiť záložné právo.
+(5) Na majetok štátu určený na účely hospodárskej mobilizácie alebo na majetok podľa § 30 ods. 3 nemožno zriadiť záložné právo.
