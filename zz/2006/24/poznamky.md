@@ -58,7 +58,7 @@
 
 - 24) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
-- 25) § 15a zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 25) § 14 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
 - 26) Zákon č. 245/2003 Z. z. v znení neskorších predpisov.
 
@@ -83,6 +83,8 @@
 - 34b) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
 - 35) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 35a) § 16 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 207/2008 Z. z.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
