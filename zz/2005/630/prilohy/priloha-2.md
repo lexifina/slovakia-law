@@ -1,23 +1,27 @@
-Príloha č. 2 k vyhláške č. 630/2005 Z. z Doporučené koeficienty k. zohľadňujúce nepriaznivú polohu miestnosti v objekte rozpočítavania: |
+Príloha č. 2 k vyhláške č. 630/2005 Z. z.
 
-miestnosť s dvoma vonkajšími stenami (rohová miestnosť) | 0,90
+- Koeficienty zohľadňujúce nepriaznivú polohu miestnosti
 
-miestnosť s dvoma vonkajšími stenami, z ktorých jedna smeruje na sever alebo východ | 0,82
+  - (1) Koeficienty ki zohľadňujúce nepriaznivú polohu miestnosti v objekte rozpočítavania:
 
-tretia stena susediaca s vonkajším prostredím | 0,93
+- a) | miestnosť s dvomi vonkajšími stenami (rohová miestnosť) | 0,90,
 
-najvyššie podlažie - plochá strecha | 0,80
+- b) | miestnosť s dvomi vonkajšími stenami, z ktorých jedna smeruje na sever alebo východ | 0,82,
 
-najvyššie podlažie - pod nevykurovanou, neupravenou povalou | 0,85
+- c) | tretia stena susediaca s vonkajším prostredím | 0,93,
 
-najnižšie podlažie - nad terénom, nevykurovanou pivnicou | 0,80
+- d) | najvyššie podlažie – plochá strecha | 0,80,
 
-Pri prípadnej kombinácii nepriaznivých polôh sa výsledný koeficient k zohľadňujúci nepriaznivú polohu miestnosti vypočíta podľa vzorca
+- e) | najvyššie podlažie – pod nevykurovanou povalou | 0,85,
 
-![Vzorec](../assets/6d1243ffc5add025b39ee98ab96945ee5bae69ccc56953d77d6e22d922c85f03.png)
+- f) | najnižšie podlažie – nad terénom alebo nevykurovanou pivnicou | 0,80.
 
-kde
+  - (2) Pri prípadnej kombinácii nepriaznivých polôh sa výsledný koeficient zohľadňujúci nepriaznivú polohu miestnosti vypočíta podľa vzorca
 
-k - výsledný koeficient zohľadňujúci nepriaznivú polohu miestnosti,
+- ![Vzorec](../assets/c3f08e4a41ebbac0cd5c7a351d6ef7eda2ea504d3f6f112df1d0a60cb23c2280.png)
 
-k<sub>i</sub> - koeficient zohľadňujúci jednu nepriaznivú polohu miestnosti.
+- kde predstavuje
+
+- k - výsledný koeficient zohľadňujúci nepriaznivú polohu miestnosti,
+
+- k<sub>i</sub> - koeficient zohľadňujúci jednu nepriaznivú polohu miestnosti.
