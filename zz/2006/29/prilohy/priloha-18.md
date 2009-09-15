@@ -1,3 +1,3 @@
 Príloha č. 18 k vyhláške č. 29/2006 Z. z.
 
-- VZOR TLAČIVA Protokol o montáži plynového zariadenia CNG retrofitný systém [Vzor 18](../assets/5fe8375a25e7f22df3012aede809b7657af61790ccd25c034a2f61d6718a0845.pdf)
+- VZOR TLAČIVA Protokol o montáži plynového zariadenia CNG retrofitný systém [Vzor 18](../assets/ab29fd4a9f4e205f3fa02e6daee045f3da307dfdb365d6a07376cd918bcb7c3e.pdf)

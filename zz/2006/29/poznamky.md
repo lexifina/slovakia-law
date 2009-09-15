@@ -18,6 +18,8 @@
 
 - 10) § 85 ods. 1 zákona č. 725/2004 Z. z.
 
+- 10a) § 85b ods. 1 zákona č. 725/2004 Z. z. v znení zákona č. 307/2009 Z. z.
+
 - 11) § 85 ods. 2 a 3 zákona č. 725/2004 Z. z.
 
 - 12) § 97 ods. 1 a 3 zákona č. 725/2004 Z. z.
