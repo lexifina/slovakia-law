@@ -94,7 +94,35 @@
 
 - 34) Čl. 2 ods. 8 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
 
-- 35) Čl. 4 ods. 3, 5 až 7 a 10 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+- 35) Čl. 4 ods. 2 písm. a) nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35a) Čl. 4 ods. 2 písm. b) nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35b) Čl. 13 nariadenia (ES) č. 800/2008 (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 35c) Čl. 4 ods. 4 a 7 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35d) § 29 zákona č. 595/2003 Z. z.o dani z príjmov v znení neskorších predpisov.
+
+- 35e) Čl. 4 ods. 3 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35f) Nariadenie (ES) č. 800/2008 (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 35g) Čl. 4 ods. 7 písm. a) až d) a ods. 10 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35h) Čl. 4 ods. 5 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 35i) Čl. 1 ods. 6 písm. c) nariadenia (ES) č. 800/2008 (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 35j) § 8 ods. 2 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35k) Čl. 4 až 6 nariadenia Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009.
+
+- Príloha č. 2 nariadenia vlády Slovenskej republiky č. 20/2009 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb.
+
+- 35l) § 4a zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh v znení zákona č. 467/2008 Z. z.
+
+- 35m) § 54 až 70 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 36) Nariadenie Komisie (ES) č. 1998/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy na pomoc de minimis (Ú. v. EÚ L 379, 28. 12. 2006).
 
@@ -167,6 +195,10 @@
 - 69) § 46 zákona č. 39/2007 Z. z.
 
 - 70) Čl. 2 ods. 18 a 19 a čl. 40 nariadenia Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 70a) Nariadenie vlády Slovenskej republiky č. 294/2009 Z. z. o podmienkach prideľovania kvót mlieka.
+
+- 70b) § 5 ods. 4 písm. m) a § 13 ods. 4 písm. c) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 71) § 12b zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
