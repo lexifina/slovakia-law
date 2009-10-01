@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 367/2009 Z. z.
+
+- OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÝCH MINERÁLNYCH ZDROJOV V SOCOVCIACH [Obrázok 02](../assets/2e9e09a5a60282c5d9c21ffc40f1ae532b93cba47d500f6a1f98975e8fd22e38.pdf)

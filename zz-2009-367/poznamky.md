@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 51/2008 Z. z., ktorou sa vykonáva geologický zákon.
