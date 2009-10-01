@@ -36,7 +36,7 @@ Príloha k vyhláške č. 736/2004 Z. z.
 
 - | | Okres
 
-- Trnava | Senica | Trnava Dunajská Streda Galanta Hlohovec Piešťany Senica Skalica
+- Trnava | Trnava | Trnava Dunajská Streda Galanta Hlohovec Piešťany Senica Skalica
 
 - | | Okres
 
