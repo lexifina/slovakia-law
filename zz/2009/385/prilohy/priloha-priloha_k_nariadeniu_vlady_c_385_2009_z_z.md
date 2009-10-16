@@ -1,0 +1,5 @@
+Príloha k nariadeniu vlády č. 385/2009 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+
+  - Smernica Rady 76/756/EHS z 27. júla 1976 o aproximácii právnych predpisov členských štátov týkajúcich sa osvetlenia a svetelných signalizačných zariadení na motorových a ich prípojných vozidlách (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 3) v znení smernice Komisie 80/233/EHS z 21. novembra 1979 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 6), smernice Komisie 82/244/EHS zo 17. marca 1982 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 6), smernice Rady 83/276/EHS z 26. mája 1983 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 7), smernice Komisie 84/8/EHS zo 14. decembra 1983 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 7), smernice Komisie 89/278/EHS z 28. marca 1989 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 9), smernice Komisie 91/663/EHS z 10. decembra 1991 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 11), smernice Komisie 97/28/ES z 11. júna 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 19), smernice Komisie 2007/35/ES z 18. júna 2007 (Ú. v. EÚ L 157, 19. 6. 2007) a smernice Komisie 2008/89/ES z 24. septembra 2008 (Ú. v. EÚ L 257, 25. 9. 2008).
