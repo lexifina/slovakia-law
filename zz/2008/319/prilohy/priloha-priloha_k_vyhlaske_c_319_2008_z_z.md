@@ -28,7 +28,7 @@ Príloha k vyhláške č. 319/2008 Z. z.
 
 - Vybraná inštitúcia a jej sídlo | Jazykový certifikát | Úroveň jazykovej náročnosti podľa Spoločného európskeho referenčného rámca
 
-- Bundesverwaltungsamt (Zentralstelle für das Auslandsschulwesen) Barbarastraße 1 50735 Köln Deutschland, zastúpenie v Slovenskej republike: Fachberater/Koordinator der Zentralstelle für Auslandsschulwesen in Bratislava Haydnova 23 811 02 Bratislava | Deutsches Sprachdiplom Stufe II/KMK | C1
+- Bundesverwaltungsamt (Zentralstelle für das Auslandsschulwesen) Barbarastraße 1 50735 Köln Deutschland, zastúpenie v Slovenskej republike: Fachberater/Koordinator der Zentralstelle für Auslandsschulwesen in Bratislava Haydnova 23 811 02 Bratislava | Deutsches Sprachdiplom Stufe II/KMK Deutsches Sprachdiplom Stufe II/KMK | C1 B2
 
 - Goethe-Institut e. V. Dachauer Straße 122 80637 München Deutschland, zastúpenie v Slovenskej republike: Goetheho inštitút Panenská 33 814 82 Bratislava | Goethe – Zertifikat B1 (Zertifikat Deutsch ZD) Goethe – Zertifikat B2 Test Deutsch als Fremdsprache (TestDaF) – Niveau 3 Goethe – Zertifikat C1 Test Deutsch als Fremdsprache (TestDaF) – Niveau 4 Goethe – Zertifikat C2: Zentrale Oberstufenprüfung (ZOP) Kleines Deutsches Sprachdiplom (KDS) | B1 B2 B2 C1 C1 C2 C2
 
