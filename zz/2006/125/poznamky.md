@@ -2,13 +2,13 @@
 
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
 - 3) § 39 Zákonníka práce.
 
 - 3a) § 5 ods. 2, § 12 ods. 2, § 13 ods. 3 a § 14 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 2 ods. 2 Obchodného zákonníka.
-
-- 5) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 52, § 223 až 228 Zákonníka práce.
 
@@ -32,6 +32,8 @@
 
 - 15) Zákon č. 462/2007 Z. z. o organizácii pracovného času v doprave a o zmene a doplnení zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
+- 15a) § 3 písm. l) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
+
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
@@ -54,6 +56,8 @@
 
 - 18d) § 133 ods. 3 Zákonníka práce.
 
+- 18e) § 3 Trestného poriadku.
+
 - 19) Napríklad § 17 Obchodného zákonníka, zákon č. 215/2004 Z. z.
 
 - 20) § 34 ods. 2 zákona č. 462/2007 Z. z.
@@ -61,6 +65,8 @@
 - 21) Napríklad § 19 ods. 6 zákona č. 124/2006 Z. z.
 
 - 22) Napríklad Obchodný zákonník, Občiansky zákonník.
+
+- 22a) Príloha č. 1 k zákonu č. 124/2006 Z. z. v znení neskorších predpisov.
 
 - 23) § 235 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
 
