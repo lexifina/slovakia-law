@@ -6,10 +6,6 @@
 
 - 1c) § 71 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 1d) § 24a až 24c zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 1e) § 10 ods. 2 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
-
 - 2) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
 - 3) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
