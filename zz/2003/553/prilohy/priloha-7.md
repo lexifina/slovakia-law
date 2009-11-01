@@ -1,21 +1,37 @@
-Príloha č. 7 k zákonu č. 553/2003 Z. z.
+Príloha č. 7 k zákonu č. 553/2003 Z. z. v znení zákona č. 317/2009 Z. z.
 
-- PLATOVÉ TARIFY PEDAGOGICKÝCH ZAMESTNANCOV
+- PLATOVÉ TARIFY PEDAGOGICKÝCH ZAMESTNANCOV A ODBORNÝCH ZAMESTNANCOV
 
-  - (euro mesačne)
+  - v eurách mesačne
 
-- Platová trieda | Platová tarifa
+- Stupnica platových taríf | |
 
-- 6 | 359,00
+- Platová trieda | Pracovná trieda | Platová tarifa
 
-- 7 | 398,00
+- 6 | 1 | 359,00
 
-- 8 | 441,50
+- | 2 | 384,00
 
-- 9 | 494,00
+- 7 | 1 | 398,00
 
-- 10 | 539,00
+- | 2 | 426,00
 
-- 11 | 575,00
+- 8 | 1 | 441,50
 
-- 12 | 615,50
+- | 2 | 471,00
+
+- 9 | 1 | 494,00
+
+- | 2 | 527,00
+
+- 10 | 1 | 539,00
+
+- | 2 | 575,00
+
+- 11 | 1 | 575,00
+
+- | 2 | 615,50
+
+- 12 | 1 | 632,50
+
+- | 2 | 676,50

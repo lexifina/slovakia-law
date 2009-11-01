@@ -6,11 +6,17 @@
 
 - 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 4a) § 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+
+- 4b) § 19 ods. 2 písm. d) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4c) § 19 ods. 2 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
 - 5) § 52 ods. 1 a § 62 ods. 3 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
 - 6) Nariadenie Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Ú. v. ES L 315, 28. 11. 2003) v platnom znení.
 
-- 8) Napríklad vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
+- 8) Napríklad zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania a zákon č. 459/2002 Z. z. o odbornej príprave zamestnancov prokuratúry.
 
 - 9) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
@@ -22,7 +28,17 @@
 
 - 11) § 27a ods. 2 zákona č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
 
-- 11a) § 50 ods. 1 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+- 11a) § 3 a 4 zákona č. 317/2009 Z. z.
+
+- 11aa) § 27 ods. 2 a § 34 zákona č. 317/2009 Z. z.
+
+- 11ab) § 7 zákona č. 317/2009 Z. z.
+
+- 11ac) Zákon č. 305/2005 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- § 4 a § 19 až 24 zákona č. 317/2009 Z. z.
 
 - 12) Napríklad zákon č. 320/2002 Z. z. o brannej povinnosti v znení zákona č. 512/2002 Z. z.
 
@@ -43,8 +59,6 @@
 - 17) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
 - 19) § 14 ods. 2 písm. b) až d) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
-
-- 20) § 120, § 130 ods. 2 písm. a) a b) a odsek 3 písm. b) a c) zákona č. 245/2008 Z. z.
 
 - 20a) § 73 zákona č. 305/2005 Z. z.
 
@@ -68,11 +82,19 @@
 
 - 29) Vládne nariadenie č. 96/1953 Zb. o Hydrometeorologickom ústave.
 
-- 29a) Napríklad zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov, vyhláška Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z. o ďalšom vzdelávaní pedagogických pracovníkov.
-
 - 29aa) § 24 ods. 5 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 30) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
+
+- 30a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 30b) Zákon č. 317/2009 Z. z.
+
+- 30c) § 46 a 47 zákona č. 317/2009 Z. z.
+
+- 30d) § 46 ods. 5 zákona č. 317/2009 Z. z.
+
+- 30e) § 50 ods. 1 zákona č. 317/2009 Z. z.
 
 - 31) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
