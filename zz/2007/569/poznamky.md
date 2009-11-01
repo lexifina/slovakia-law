@@ -8,6 +8,8 @@
 
 - 5) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
+- 5a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 7) § 7 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
@@ -43,6 +45,8 @@
 - 22) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 23) Zákon č. 281/1997 Z. z. v znení zákona č. 172/2003 Z. z.
+
+- 23a) Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24) § 32 zákona č. 50/1976 Zb.
 
