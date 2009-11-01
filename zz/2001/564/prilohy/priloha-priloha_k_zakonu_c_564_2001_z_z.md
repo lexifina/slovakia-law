@@ -8,7 +8,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: radca
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 5.01 Odborná činnosť súvisiaca s tvorbou rozhodnutí VOP vo vecne vymedzených oblastiach.
 
@@ -22,7 +22,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: samostatný radca
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa alebo vysokoškolské vzdelanie druhého stupňa, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 6.01 Samostatná odborná činnosť súvisiaca s tvorbou rozhodnutí VOP vo vecne vymedzených oblastiach.
 
@@ -38,7 +38,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: odborný radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 7.01 Samostatná odborná činnosť súvisiaca s tvorbou rozhodnutí VOP.
 
@@ -64,7 +64,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: hlavný radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 8.01 Koordinačná a metodická odborná činnosť súvisiaca s tvorbou rozhodnutí VOP.
 
@@ -132,7 +132,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Funkcia: štátny radca
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - 9.01 Koordinačná a metodická odborná činnosť súvisiaca s tvorbou rozhodnutí VOP s medzinárodným dosahom.
 
@@ -286,7 +286,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 8. PLATOVÁ TRIEDA
 
-      - Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+      - Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
       - Činnosti:
 
@@ -318,7 +318,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 9. PLATOVÁ TRIEDA
 
-      - Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+      - Kvalifikačné predpoklady: úplné stredné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
       - Činnosti:
 
@@ -372,7 +372,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 10. PLATOVÁ TRIEDA
 
-      - Kvalifikačné predpoklady: bakalárske vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+      - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom, alebo vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
       - Činnosti:
 
@@ -420,7 +420,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 11. PLATOVÁ TRIEDA
 
-      - Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+      - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
       - Činnosti:
 
@@ -464,7 +464,7 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - 12. PLATOVÁ TRIEDA
 
-      - Kvalifikačné predpoklady: vysokoškolské vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+      - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
       - Činnosti:
 
@@ -662,27 +662,27 @@ Príloha k zákonu č. 564/2001 Z. z.
 
       - 6.05 Kontrola činnosti centrálneho regulačného systému, opravy, nastavovanie hodnôt zložitých regulačných obvodov, diaľkové meranie, registrácia ovládacích centier a meracích ústrední vrátane uvedenia do prevádzky, komplexného odskúšania a konečného nastavenia.
 
-    - PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII VEREJNÉHO OCHRANCU PRÁV (Sk mesačne)
+    - PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII VEREJNÉHO OCHRANCU PRÁV (v eurách mesačne)
 
-    - Platová trieda Platová tarifa
+    - Platová trieda | Platová tarifa
 
-    - 1. 9 700
+    - 1. | 420,50
 
-    - 2. 10 300
+    - 2. | 447,00
 
-    - 3. 11 300
+    - 3. | 489,50
 
-    - 4. 12 100
+    - 4. | 524,50
 
-    - 5. 14 500
+    - 5. | 628,00
 
-    - 6. 15 600
+    - 6. | 675,00
 
-    - 7. 17 500
+    - 7. | 757,50
 
-    - 8. 20 900
+    - 8. | 904,50
 
-    - 9. 24 200.
+    - 9. | 1 047,00
 
     - STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV PRI VYKONÁVANÍ VEREJNEJ SLUŽBY
 
