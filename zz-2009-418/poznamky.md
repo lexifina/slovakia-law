@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
