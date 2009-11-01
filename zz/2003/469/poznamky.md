@@ -12,9 +12,11 @@
 
 - 6) Lisabonská dohoda o ochrane označení pôvodu a ich medzinárodného zápisu z 31. októbra 1958 revidovaná v Štokholme 14. júla 1967 uverejnená vo vyhláške ministra zahraničných vecí č. 67/1975 Zb. v znení vyhlášky č. 79/1985 Zb.
 
-- 7) Nariadenie Rady (ES) č. 510/2006 z 20. marca 2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006).
+- 6a) Čl. 5 ods. 1 a 2 nariadenia Rady (ES) č. 510/2006 z 20. marca 2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006).
 
-- Nariadenie Komisie (ES) č. 1898/2006 zo 14. decembra 2006, ktorým sa ustanovujú podrobné pravidlá implementácie nariadenia Rady (ES) č. 510/2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 369, 23. 12. 2006).
+- 7) Nariadenie Rady (ES) č. 510/2006 v platnom znení.
+
+- Nariadenie Komisie (ES) č. 1898/2006 zo 14. decembra 2006, ktorým sa ustanovujú podrobné pravidlá implementácie nariadenia Rady (ES) č. 510/2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 369, 23. 12. 2006) v znení nariadenia Komisie (ES) č. 628/2008 z 2. júla 2008 (Ú. v. EÚ L 173, 3. 7. 2008).
 
 - 7a) Čl. 3 až 5 nariadenia Rady (ES) č. 510/2006.
 
@@ -27,6 +29,20 @@
 - 8a) Čl. 5 ods. 6 nariadenia Rady (ES) č. 510/2006.
 
 - 8b) Čl. 7 ods. 1 nariadenia Rady (ES) č. 510/2006.
+
+- 8c) Čl. 118e nariadenia Rady (ES) č. 1234/2007 z 22. októbra 2007 o vytvorení spoločnej organizácie poľnohospodárskych trhov a o osobitných ustanoveniach pre určité poľnohospodárske výroby (nariadenie o jednotnej spoločnej organizácii trhov) (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+
+- 8d) Nariadenie Rady (ES) č. 1234/2007 v platnom znení.
+
+- 8e) Čl. 118n nariadenia Rady (ES) č. 1234/2007.
+
+- 8f) Čl. 118c ods. 2 nariadenia Rady (ES) č. 1234/2007.
+
+- 8g) Čl. 118f ods. 5 písm. b) nariadenia Rady (ES) č. 1234/2007.
+
+- 8h) Nariadenie Európskeho parlamentu a Rady (ES) č. 110/2008 z 15. januára 2008 o definovaní, popise, prezentácii, označovaní a ochrane zemepisných označení liehovín a o zrušení nariadenia (EHS) č. 1576/89 (Ú. v. EÚ L 39, 13. 2. 2008) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1334/2008 zo 16. decembra 2008 (Ú. v. EÚ L 354, 31. 12. 2008).
+
+- 8i) Čl. 17 ods. 2 nariadenia Rady (ES) č. 110/2008.
 
 - 9) Parížsky dohovor na ochranu priemyslového vlastníctva z 20. marca 188 revidovaný v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Štokholme 14. júla 1967 uverejnený vo vyhláške ministra zahraničných vecí č. 64/1975 Zb. v znení vyhlášky č. 81/1985 Zb.
 
