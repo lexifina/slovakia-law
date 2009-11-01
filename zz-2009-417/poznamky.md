@@ -1,0 +1,1 @@
+- ) * Uvedie sa výsledok sonografického vyšetrenia, dĺžka tehotenstva a vývojové štádium embrya alebo plodu.
