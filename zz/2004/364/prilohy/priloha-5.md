@@ -4,7 +4,7 @@ Príloha č. 5 k zákonu č. 364/2004 Z. z.
 
   - A. KÓDEX SPRÁVNEJ POĽNOHOSPODÁRSKEJ PRAXE
 
-    - 1. Kódex správnej poľnohospodárskej praxe, ktorého cieľom je zníženie znečistenia dusičnanmi a zohľadnenie podmienok v rôznych regiónoch, musí obsahovať tieto opatrenia:
+    - 1. Kódex správnej poľnohospodárskej praxe, ktorého cieľom je zníženie znečisťovania dusičnanmi a zohľadnenie podmienok v rôznych regiónoch, musí obsahovať tieto opatrenia:
 
     - 1. obdobie, keď je aplikácia hnojív na pozemky nevhodná,
 
@@ -22,7 +22,7 @@ Príloha č. 5 k zákonu č. 364/2004 Z. z.
 
     - 1. hospodárenie na pozemkoch vrátane používania systémov striedania plodín a pomeru plôch pozemkov vyhradených na trvalé plodiny k jednoročným plodinám,
 
-    - 2. udržiavanie aspoň minimálneho vegetačného porastu na pozemkoch, najmä počas daždivých období, ktorý odoberá z pôdy dusík;<sup>2</sup>) v opačnom prípade môže dochádzať k znečisteniu vôd dusičnanmi,
+    - 2. udržiavanie aspoň minimálneho vegetačného porastu na pozemkoch, najmä počas daždivých období, ktorý odoberá z pôdy dusík;<sup>2</sup>) v opačnom prípade môže dochádzať k znečisťovaniu vôd dusičnanmi,
 
     - 3. vypracovanie plánov hnojenia pre jednotlivé subjekty hospodáriace na pozemkoch a vedenie záznamov o použití hnojív,
 

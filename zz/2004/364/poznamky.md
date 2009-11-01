@@ -20,9 +20,21 @@
 
 - 11) § 21 ods. 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 12) Napríklad zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení neskorších predpisov.
+- 11a) § 31 ods. 6 zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 360/2007 Z. z.
 
-- 13) Napríklad § 17 až 20 Obchodného zákonníka v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 11b) § 25 ods. 3 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
+
+- 11c) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
+
+- 11d) Napríklad zákon č. 281/1997 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12) Napríklad § 2, 3, 16 a 21 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
+
+- 13) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 13a) Občiansky zákonník.
 
 - 14) § 17 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -34,9 +46,11 @@
 
 - 17) § 13c ods. 10 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona č. 514/2001 Z. z.
 
-- 18) § 13d zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
+- 18) § 19 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 19) § 20 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona č. 578/2003 Z. z.
+- Nariadenie vlády Slovenskej republiky č. 87/2008 Z. z. o požiadavkách na prírodné kúpaliská.
+
+- 19) § 5 ods. 1 nariadenia vlády Slovenskej republiky č. 87/2008 Z. z.
 
 - 20) § 31 zákona č.139/2002 Z. z. o rybárstve.
 
@@ -96,9 +110,9 @@
 
 - 46) § 2 až 4 a prílohy č. 1 až 3 nariadenia vlády Slovenskej republiky č. 184/2003 Z. z. o podrobnostiach obsahu žiadosti o úhradu náhrady za obmedzenie bežného obhospodarovania a o spôsobe výpočtu náhrady.
 
-- 47) § 37 zákona č. 442/2002 Z. z. v znení zákona č. 525/2003 Z. z.
+- 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 48) § 4 zákona č. 313/1999 Z. z.
+- 48) § 4 zákona č. 569/2007 Z. z.
 
 - 49) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -116,7 +130,7 @@
 
 - 56) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 57) Šiesta časť zákona Slovenskej národnej rady č. 135/1974 Zb. o štátnej správe vo vodnom hospodárstve.
+- 57) Zákon č. 666/2004 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
 - 58) Zákon č. 338/2000 Z. z. v znení zákona č. 580/2003 Z. z.
 
@@ -127,6 +141,8 @@
 - 60) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 61) § 13 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 61a) § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 62) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
@@ -152,7 +168,7 @@
 
 - 70) § 2 písm. a) piaty bod zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení zákona č. 442/2002 Z. z.
 
-- 71) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení zákona č. 440/2002 Z. z.
+- 71) Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 72) § 1 ods. 2 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 

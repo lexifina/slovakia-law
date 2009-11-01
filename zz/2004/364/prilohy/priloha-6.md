@@ -31,3 +31,7 @@ Príloha č. 6 k zákonu č. 364/2004 Z. z.
   - 14. Smernica Rady 98/83/EHS z 3. novembra 1998 o kvalite vody určenej pre ľudskú spotrebu (pitná voda) (Úradný vestník Európskych spoločenstiev L 330, 05.12.1998) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Úradný vestník Európskej únie L 284, 31.10. 2003).
 
   - 15. Smernica 2000/60/ES Európskeho parlamentu a Rady z 23. októbra 2000 ustanovujúca rámec pôsobnosti spoločenstva v oblasti vodnej politiky (Úradný vestník Európskych spoločenstiev L 327, 22.12. 2000).
+
+  - 16. Smernica Európskeho parlamentu a Rady 2006/118/ES z 12. decembra 2006 o ochrane podzemných vôd pred znečistením a zhoršením kvality (Ú. v. EÚ L 372, 27. 12. 2006).
+
+  - 17. Smernica Európskeho parlamentu a Rady 2006/7/ES z 15. februára 2006 o riadení kvality vody určenej na kúpanie, ktorou sa zrušuje smernica 76/160/EHS (Ú. v. EÚ L 64, 4. 3. 2006).

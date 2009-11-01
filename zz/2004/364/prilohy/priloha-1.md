@@ -20,7 +20,7 @@ Príloha č. 1 k zákonu č. 364/2004 Z. z.
 
   - 3. Organické zlúčeniny cínu
 
-  - 4. Látky, ktoré majú vo vodnom prostredí alebo pôsobením vodného prostredia karcinogénne, mutagénne alebo teratogénne účinky
+  - 4. Látky a prípravky alebo produkty ich rozkladu, ktoré majú dokázateľné karcinogénne alebo mutagénne vlastnosti alebo vlastnosti, ktoré môžu vo vodnom prostredí alebo prostredníctvom vodného prostredia ovplyvniť tvorbu steroidov štítnej žľazy alebo iné endokrinné funkcie
 
   - 5. Ortuť a jej zlúčeniny
 
@@ -76,106 +76,106 @@ Príloha č. 1 k zákonu č. 364/2004 Z. z.
 
   - 8. Silážne šťavy, priemyselné a organické hnojivá a ich tekuté zložky
 
-  - ZOZNAM III
+- | ZOZNAM III | Prioritné látky | |
 
-- Prioritné látky | | |
+- | CAS číslo<sup>1</sup>) | EU číslo<sup>2</sup>) | Názov prioritnej látky<sup>3</sup>) | Prioritná látka identifikovaná ako nebezpečná
 
-- | CAS číslo<sup>1</sup>) | EU číslo<sup>2</sup>) | Názov prioritnej látky
+- (1) | 15972-60-8 | 240-110-8 | Alachlór |
 
-- (1) | 15972-60-8 | 240-110-8 | 2 -chlór-2,6, -dietylfenyl-N-metoxymetyl-acetanilíd (Alachlór)
+- (2) | 120-12-7 | 204-371-1 | Antracén | X
 
-- (2) | 120-12-7 | 204-371-1 | Antracén
+- (3) | 1912-24-9 | 217-617-8 | Atrazín |
 
-- (3) | 1912-24-9 | 217-617-8 | Atrazín
+- (4) | 71-43-2 | 200-753-7 | Benzén |
 
-- (4) | 71-43-2 | 200-753-7 | Benzén
+- (5) | neuplatňuje sa | neuplatňuje sa | Brómované difenylétery<sup>4</sup>) | X<sup>5</sup>)
 
-- (5) | nepoužíva sa | nepoužíva sa | Brómované difenylétery
+- | 32534-81-9 | neuplatňuje sa | Difenyléter, pentabrómdifenyléter (čísla kongenérov 28, 47, 99, 100, 153, 154) |
 
-- (6) | 7440-43-9 | 231-152-8 | Kadmium a jeho zlúčeniny
+- (6) | 7440-43-9 | 231-152-8 | Kadmium a jeho zlúčeniny | X
 
-- (7) | 85535-84-8 | 287-476-5 | C<sub>10-13</sub>-chlóralkány
+- (7) | 85535-84-8 | 287-476-5 | C10-13-chlóralkány<sup>4</sup>) | X
 
-- (8) | 470-90-6 | 207-432-0 | Chlórfenvinfos
+- (8) | 470-90-6 | 207-432-0 | Chlórfenvinfos |
 
-- (9) | 2921-88-2 | 220-864-4 | Chlórpyrifos
+- (9) | 2921-88-2 | 220-864-4 | Chlórpyrifos |
 
-- (10) | 107-06-2 | 203-458-1 | 1,2-dichlóretán
+- (10) | 107-06-2 | 203-458-1 | 1, 2-dichlóretán |
 
-- (11) | 75-09-2 | 200-838-9 | Dichlórmetán
+- (11) | 75-09-2 | 200-838-9 | Dichlórmetán |
 
-- (12) | 117-81-7 | 204-211-0 | Di(2-etylhexyl)ftalát (DEHP)
+- (12) | 117-81-7 | 204-211-0 | Di(2-etylhexyl)ftalát (DEHP) |
 
-- (13) | 330-54-1 | 206-354-4 | Diurón
+- (13) | 330-54-1 | 206-354-4 | Diurón |
 
-- (14) | 115-29-7 | 204-079-4 | Endosulfán
+- (14) | 115-29-7 | 204-079-4 | Endosulfán | X
 
-- | 959-98-8 | nepoužíva sa | (alfa-endosulfán)
+- (15) | 206-44-0 | 205-912-4 | Fluorantén<sup>6</sup>) |
 
-- (15) | 206-44-0 | 205-912-4 | Fluorantén
+- (16) | 118-74-1 | 204-273-9 | Hexachlórbenzén | X
 
-- (16) | 118-74-1 | 204-273-9 | Hexachlórbenzén
+- (17) | 87-68-3 | 201-765-5 | Hexachlór-1, 3-butadién | X
 
-- (17) | 87-68-3 | 201-765-5 | Hexachlór-1,3-butadién
+- (18) | 608-73-1 | 210-158-9 | Hexachlórcyklohexán | X
 
-- (18) | 608-73-1 | 210-158-9 | Hexachlórcyklohexán (lindán)
+- (19) | 34123-59-6 | 251-835-4 | Izoproturón |
 
-- | 58-89-9 | 200-401-2 | 1,2,3,4,5,6-hexachlórcyklohexán
+- (20) | 7439-92-1 | 231-100-4 | Olovo a jeho zlúčeniny |
 
-- (19) | 34123-59-6 | 251-835-4 | 3-(4-izopropylfenyl)-1,1 -dimetylmočovina (izoproturon)
+- (21) | 7439-97-6 | 231-106-7 | Ortuť a jej zlúčeniny | X
 
-- (20) | 7439-92-1 | 231-100-4 | Olovo a jeho zlúčeniny
+- (22) | 91-20-3 | 202-049-5 | Naftalén |
 
-- (21) | 7439-97-6 | 231-106-7 | Ortuť a jej zlúčeniny
+- (23) | 7440-02-0 | 231-111-4 | Nikel a jeho zlúčeniny |
 
-- (22) | 91-20-3 | 202-049-5 | Naftalén
+- (24) | 25154-52-3 | 246-672-0 | Nonylfenoly | X
 
-- (23) | 7440-02-0 | 231-111-4 | Nikel a jeho zlúčeniny
+- | 104-40-5 | 203-199-4 | (4-nonylfenol) | X
 
-- (24) | 25154-52-3 | 246-672-0 | Nonylfenoly
+- (25) | 1806-26-4 | 217-302-5 | Oktylfenoly |
 
-- | 104-40-5 | 203-199-4 | (4-nonylfenol)
+- | 140-66-9 | neuplatňuje sa | (4-(1, 1, 3, 3-tetrametylbutyl)fenol) |
 
-- (25) | 1806-26-4 | 217-302-5 | Oktylfenoly
+- (26) | 608-93-5 | 210-172-5 | Pentachlórbenzén | X
 
-- | 140-66-9 | nepoužíva sa | (1,1,3,3-tetrametylbutyl)fenol
+- (27) | 87-86-5 | 231-152-8 | Pentachlórfenol |
 
-- (26) | 608-93-5 | 210-172-5 | Pentachlórbenzén
+- (28) | neuplatňuje sa | neuplatňuje sa | Polyaromatické uhľovodíky | X
 
-- (27) | 87-86-5 | 201-778-6 | Pentachlórfenol
+- | 50-32-8 | 200-028-5 | (Benzo(a)pyrén) | X
 
-- (28) | nepoužíva sa | nepoužíva sa | Polyaromatické uhľovodíky
+- | 205-99-2 | 205-911-9 | (Benzo(b)fluorantén) | X
 
-- | 50-32-8 | 200-028-5 | (Benzo(a)pyrén)
+- | 191-24-2 | 205-883-8 | (Benzo(g, h, i)perylén) | X
 
-- | 205-99-2 | 205-911-9 | (Benzo(b)fluorantén)
+- | 207-08-9 | 205-916-6 | (Benzo(k)fluorantén) | X
 
-- | 191-24-2 | 205-883-8 | (Benzo(g,h,i)perylén)
+- | 193-39-5 | 205-893-2 | (Indeno(1, 2, 3-cd)pyrén) | X
 
-- | 207-08-9 | 205-916-6 | (Benzo(k)fluorantén)
+- (29) | 122-34-9 | 204-535-2 | Simazín |
 
-- | 193-39-5 | 205-893-2 | (Indeno(l ,2,3-cd)pyrén)
+- (30) | neuplatňuje sa | neuplatňuje sa | Zlúčeniny tributylcínu | X
 
-- (29) | 122-34-9 | 204-535-2 | Simazín
+- | 36643-28-4 | neuplatňuje sa | (Katión tributylcínu) | X
 
-- (30) | 688-73-3 | 211-704-4 | Tributylstanium-hydrid zlúčeniny
+- (31) | 12002-48-1 | 234-413-4 | Trichlórbenzény |
 
-- | 36643-28-4 | nepoužíva sa | (Tributyltin-katión)
+- (32) | 67-66-3 | 200-663-8 | Trichlórmetán(Chloroform) |
 
-- (31) | 12002-48-1 | 234-413-4 | Trichlórbenzény
-
-- | 120-82-1 | 204-428-0 | (1,2,4-trichlórbenzén)
-
-- (32) | 67-66-3 | 200-663-8 | Trichlórmetán
-
-- | | | (Chloroform)
-
-- (33) | 1582-09-8 | 216-428-8 | Trifluralín
+- (33) | 1582-09-8 | 216-428-8 | Trifluralín |
 
 - Vysvetlivky:
 
-  - 1) CAS-číslo: Chemical Abstract Services.
+  - 1) CAS číslo: Chemical Abstract Services.
 
-  - 2) EU-číslo: Európsky zoznam existujúcich komerčných chemických látok [European Inventory of Existing Commercial Chemical Substances (EINECS)] alebo Európsky zoznam notifikovaných chemických látok [European List of Notified Chemical Substances (ELINCS)].
+  - 2) EU číslo: Európsky zoznam existujúcich komerčných chemických látok [European Inventory of Existing Commercial Chemical Substances (EINECS)] alebo Európsky zoznam notifikovaných chemických látok [European List of Notified Chemical Substances (ELINCS)].
+
+  - 3) V prípadoch, keď sa vybrali skupiny látok, sa uvádzajú jednotliví typickí zástupcovia ako indikatívne ukazovatele (v zátvorkách a bez čísla). Pre tieto skupiny látok sa indikatívny ukazovateľ musí určiť prostredníctvom analytickej metódy.
+
+  - 4) Do týchto skupín látok obvykle patrí značný počet jednotlivých zlúčenín. V súčasnosti nemožno uviesť vhodné indikatívne parametre.
+
+  - 5) Len difenyléter, pentabrómdifenyléter (číslo CAS: 32534-81-9).
+
+  - 6) Fluorantén je na zozname ako indikátor iných, nebezpečnejších polyaromatických uhľovodíkov.
 
   - 1) Naradenie vlády Slovenskej republiky č. 491/2002 Z. z., ktorým sa ustanovujú kvalitatívne ciele povrchových vôd a limitné hodnoty ukazovateľov znečistenia odpadových vôd a osobitných vôd.
