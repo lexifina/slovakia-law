@@ -24,9 +24,15 @@
 
 - 11a) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
+- 11b) § 16 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
 - 12) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
-- 13) § 13 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+- 12a) § 7 ods. 4 zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
+
+- 12b) § 2 ods. 2 písm. a) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 13) § 7 zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
 - 14) Obchodný zákonník.
 
@@ -36,11 +42,15 @@
 
 - 17) § 11 ods. 4 zákona č. 61/1977 Zb. v znení neskorších predpisov.
 
+- 17a) § 2 písm. h) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
 - 18) Zákon č. 61/1977 Zb. v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
 
 - 19) § 13 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 19a) Napríklad čl. 2 písm. c) nariadenia Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009), nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. o podmienkach poskytovania podpory podľa programu rozvoja vidieka, nariadenie vlády Slovenskej republiky č. 20/2009 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
 
 - 20) § 22 ods. 1 a 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 

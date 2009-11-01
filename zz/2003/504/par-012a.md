@@ -27,3 +27,7 @@
 (10) Podnájomný vzťah vzniknutý podľa odsekov 1 až 7 je nájomca povinný oznámiť vlastníkovi pozemku, na ktorý vznikol podnájomný vzťah, do 30 dní odo dňa užívania pozemkov.
 
 (11) Náklady spojené s vytýčením hraníc pôvodného pozemku, ak sú pozemky prístupné, hradí ich vlastník.
+
+(12) Ak o postup podľa odseku 1 alebo odseku 5 žiadajú podieloví spoluvlastníci, musia v súlade s § 139 ods. 2 Občianskeho zákonníka predložiť k výzve na vrátenie a prevzatie pozemku ich vzájomnú písomnú dohodu o spoločnom obhospodarovaní pozemku.
+
+(13) Ak ide o pozemok doterajšieho prenajímateľa podľa odseku 1 s výmerou menšou ako 400 m<sup>2</sup>, nepostupuje sa podľa odseku 1 alebo odseku 5, ak by vznikol pozemok, ktorého užívanie by bolo možné len s neprimeranými ťažkosťami alebo náklady na jeho vymeranie by boli vyššie ako hodnota pozemku; to neplatí, ak vlastníci pozemkov s jednotlivými výmerami pozemkov menšími ako 400 m<sup>2</sup> požiadajú o postup podľa odseku 1 alebo odseku 5 spoločne.
