@@ -18,6 +18,10 @@ Príloha k zákonu č. 194/1998 Z. z.
 
   - 8. Smernica Rady 90/427/EHS z 26. júna 1990 o zootechnických a genealogických podmienkach platiacich pre obchod s equidae v rámci Spoločenstva (Úradný vestník Európskych spoločenstiev L 224, 18. 8. 1990).
 
-  - 9. Smernica Rady 91/174/EHS z 25. marca 1991, ktorou sa ustanovujú zootechnické požiadavky a požiadavky na pôvod pri obchode s čistokrvnými zvieratami a ktorou sa menia a dopĺňajú smernice 77/504/EHS a 90/425/EHS (Úradný vestník Európskych spoločenstiev L 085, 5. 4. 1991).
+  - 9. Smernica Rady 90/428/EHS z 26. júna 1990 o obchode so zvieratami čeľade koňovitých equidae určených na pretekanie a stanovenie podmienok na účasť na pretekoch (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 10; Ú. v. ES L 224, 18. 8. 1990).
 
-  - 10. Smernica Rady 94/28/ES z 23. júna 1994, ktorou sa určujú zásady vzťahujúce sa na zootechnické a genealogické podmienky uplatniteľné pri dovozoch zvierat, semena, vajíčok a embryí z tretích krajín a ktorou sa mení a dopĺňa smernica 77/504/EHS týkajúca sa čistokrvného plemenného hovädzieho dobytka (Úradný vestník Európskych spoločenstiev L 178, 12. 7. 1994).
+  - 10. Smernica Rady 91/174/EHS z 25. marca 1991, ktorou sa ustanovujú zootechnické požiadavky a požiadavky na pôvod pri obchode s čistokrvnými zvieratami a ktorou sa menia a dopĺňajú smernice 77/504/EHS a 90/425/EHS (Úradný vestník Európskych spoločenstiev L 085, 5. 4. 1991).
+
+  - 11. Smernica Rady 94/28/ES z 23. júna 1994, ktorou sa určujú zásady vzťahujúce sa na zootechnické a genealogické podmienky uplatniteľné pri dovozoch zvierat, semena, vajíčok a embryí z tretích krajín a ktorou sa mení a dopĺňa smernica 77/504/EHS týkajúca sa čistokrvného plemenného hovädzieho dobytka (Úradný vestník Európskych spoločenstiev L 178, 12. 7. 1994).
+
+  - 12. Smernica Rady 2008/73/ES z 15. júla 2008, ktorou sa zjednodušujú postupy zostavovania zoznamov a uverejňovania informácií vo veterinárnej a zootechnickej oblasti a ktorou sa menia a dopĺňajú smernice 64/432/EHS, 77/504/EHS, 88/407/EHS, 88/661/EHS, 89/361/EHS, 89/556/EHS, 90/426/EHS, 90/427/EHS, 90/428/EHS, 90/429/EHS, 90/539/EHS, 91/68/EHS, 91/496/EHS, 92/35/EHS, 92/65/EHS, 92/66/EHS, 92/119/EHS, 94/28/ES, 2000/75/ES, rozhodnutie 2000/258/ES a smernice 2001/89/ES, 2002/60/ES a 2005/94/ES (Ú. v. EÚ L 219, 14. 8. 2008).

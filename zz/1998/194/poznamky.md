@@ -68,6 +68,10 @@
 
 - 12a) Napríklad príloha č. 2 časť B písm. h) nariadenia vlády Slovenskej republiky č. 291/2003 Z. z. o podmienkach zdravia zvierat pri výmene embryí hovädzieho dobytka a ich dovoze z tretích krajín.
 
+- 12b) § 4 ods. 2 nariadenia vlády Slovenskej republiky č. 342/2004 Z. z. o požiadavkách na obchod s koňovitými zvieratami určenými na súťaženie a o ustanovení podmienok účasti na pretekoch.
+
+- 12c) § 4 ods. 3 a 4 nariadenia vlády Slovenskej republiky č. 342/2004 Z. z.
+
 - 13) § 21 ods. 1 zákona č. 488/2002 Z. z.
 
 - 14) Zákon č. 19/2002 Z. z., ktorým sa ustanovujú podmienky vydávania aproximačných nariadení vlády Slovenskej republiky v znení zákona č. 207/2002 Z. z.
