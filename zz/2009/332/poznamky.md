@@ -1,0 +1,1 @@
+- 1) STN EN 60529:1993+A1:2002. Stupne ochrany krytom (krytie – IP kód).
