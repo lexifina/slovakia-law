@@ -1,21 +1,21 @@
 Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 16/1993 Z. z.
 
-- PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV V KANCELÁRII PREZIDENTA SLOVENSKEJ REPUBLIKY (Sk mesačne) Platová trieda | Platová tarifa
+- Platové tarify štátnych zamestnancov v Kancelárii prezidenta Slovenskej republiky (v eurách mesačne) Platová trieda | Platová tarifa
 
-- 1. | 9 700
+- 1. | 420,50
 
-- 2. | 10 300
+- 2. | 447,00
 
-- 3. | 11 300
+- 3. | 489,50
 
-- 4. | 12 100
+- 4. | 524,50
 
-- 5. | 14 500
+- 5. | 628,00
 
-- 6. | 15 600
+- 6. | 675,00
 
-- 7. | 17 500
+- 7. | 757,50
 
-- 8. | 20 900
+- 8. | 904,50
 
-- 9. | 24 200.
+- 9. | 1 047,00
