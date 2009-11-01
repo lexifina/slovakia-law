@@ -26,11 +26,11 @@
 
 - 4) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
-- 4a) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 4b) § 78 až 106, § 159 a 159b zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+- 4b) § 81 až 114, § 132 až 134 zákona č. 400/2009 Z. z.
 
-- 4c) § 105 zákona č. 312/2001 Z. z. v znení zákona č. 551/2003 Z. z.
+- 4c) § 113 zákona č. 400/2009 Z. z.
 
 - 5) § 14 až 22 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 

@@ -4,7 +4,7 @@ Príloha č. 1 k zákonu č. 39/1993 Z. z.
 
   - 3. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Funkcia: odborný referent
 
@@ -20,7 +20,7 @@ Príloha č. 1 k zákonu č. 39/1993 Z. z.
 
   - 4. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: úplné stredné vzdelanie alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
+    - Kvalifikačné predpoklady: úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie alebo vyššie odborné vzdelanie a osobitný kvalifikačný predpoklad, ak je ustanovený osobitným predpisom.
 
     - Funkcia: hlavný referent
 
