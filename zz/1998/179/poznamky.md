@@ -2,7 +2,7 @@
 
 - 2) § 289 Obchodného zákonníka.
 
-- 3) Zákon č. 547/1990 Zb. o nakladaní s niektorými druhmi tovaru a technológií a o ich kontrole.
+- 3) Zákon č. 21/2007 Z. z. o tovare a technológiách dvojakého použitia a o zmene a doplnení niektorých zákonov v znení zákona č. 218/2007 Z. z.
 
 - 3a) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
 
@@ -10,15 +10,17 @@
 
 - 3b) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 4) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 3c) § 35 ods. 5 a § 58 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov.
+
+- 4) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Napríklad Dohovor o zákaze vývoja, výroby, hromadenia a použitia chemických zbraní a o ich zničení (oznámenie č. 276/1997 Z. z.).
 
-- 5a) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 5a) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 36 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
-- 7) Nariadenie vlády Slovenskej republiky č. 390/1997 Z. z., ktorým sa vydáva colný sadzobník.
+- 7) Nariadenie Rady (EHS) č. 2658/1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 2) v platnom znení.
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
@@ -32,6 +34,6 @@
 
 - 14) § 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
 
-- 15) Napríklad zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. v znení neskorších predpisov.
+- 15) Napríklad zákon č. 199/2004 Z. z. v znení neskorších predpisov.
 
 - 16) Príloha č. 3 zákona č. 455/1991 Zb. zákon o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.

@@ -6,9 +6,9 @@ Držiteľ povolenia na sprostredkovateľskú činnosť je povinný
 
 - b) umožniť kontrolu podľa § 23,
 
-- c) informovať ministerstvo hospodárstva v lehotách a v rozsahu určených ministerstvom hospodárstva v povolení na sprostredkovateľskú činnosť o počte a rozsahu sprostredkovateľských činností v danom období,
+- c) informovať ministerstvo obrany v lehotách a v rozsahu určených ministerstvom obrany v povolení na sprostredkovateľskú činnosť o počte a rozsahu sprostredkovateľských činností v danom období,
 
-- d) informovať ministerstvo hospodárstva o zmenách v údajoch uvedených v § 9 ods. 1 písm. a) až c) do 15 dní od ich vzniku; v prípade zániku držiteľa povolenia na sprostredkovateľskú činnosť je tento povinný ho vrátiť najneskôr do troch dní odo dňa zániku,
+- d) informovať ministerstvo obrany o zmenách v údajoch uvedených v § 9 ods. 1 písm. a) až c) do 15 dní od ich vzniku; v prípade zániku držiteľa povolenia na sprostredkovateľskú činnosť je tento povinný ho vrátiť najneskôr do troch dní odo dňa zániku,
 
 - e) zdržať sa sprostredkovateľskej činnosti s vojenským materiálom, ak by viedla k poškodeniu zahraničnopolitických, bezpečnostných alebo obchodných záujmov Slovenskej republiky, medzinárodných záväzkov Slovenskej republiky alebo k poškodzovaniu záujmov medzinárodných organizácií a inštitúcií, ktorých je Slovenská republika členom alebo ktoré Slovenská republika na základe mnohostranných a dvojstranných dohôd uznáva,
 
