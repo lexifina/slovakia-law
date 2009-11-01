@@ -10,6 +10,8 @@
 
 - 6) Napríklad zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov a zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 6a) Napríklad Nariadenie Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva Nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 02/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
+
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
 - 7a) § 19 zákona č. 473/2005 Z. z. v znení zákona č. 598/2008 Z. z.
@@ -51,6 +53,8 @@
 - 25) § 3 ods. 1 až 5 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 26) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení zákona č. 757/2004 Z. z.
+
+- 26a) § 19 ods. 4 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 27) Napríklad § 2 ods. 3, § 34a ods. 2, § 36 a 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 7 ods. 15 písm. a) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 3 písm. a) bod prvý zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 21a ods. 14 písm. a) a § 61 ods. 8 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 48 ods. 12 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 ods. 12 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 ods. 1 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, § 2 písm. e) bod prvý zákona č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení zákona č. 644/2006 Z. z.
 
