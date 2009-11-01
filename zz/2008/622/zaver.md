@@ -1,1 +1,0 @@
-Ján Kubiš v. r.
