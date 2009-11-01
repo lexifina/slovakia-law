@@ -70,6 +70,8 @@
 
 - 30) Zákonník práce v znení neskorších predpisov.
 
+- 30a) § 2 zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
+
 - 31) Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
 - 32) Zákon č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním).
