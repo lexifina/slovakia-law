@@ -1,17 +1,17 @@
-Príloha č. 2 k zákonu č. 39/1993 Z. z.
+Príloha č. 2 k zákonu Národnej rady Slovenskej republiky č. 39/1993 Z. z.
 
-- Platové tarify štátnych zamestnancov na Najvyššom kontrolnom úrade Slovenskej republiky (Sk mesačne) Platová trieda | Platová tarifa
+- PLATOVÉ TARIFY ŠTÁTNYCH ZAMESTNANCOV NA NAJVYŠŠOM KONTROLNOM ÚRADE SLOVENSKEJ REPUBLIKY (v eurách mesačne) Platová trieda | Platová tarifa
 
-- 3. | 13 220
+- 3. | 489,50
 
-- 4. | 14 150
+- 4. | 524,50
 
-- 5. | 16 960
+- 5. | 628,00
 
-- 6. | 18 240
+- 6. | 675,00
 
-- 7. | 20 460
+- 7. | 757,50
 
-- 8. | 24 440
+- 8. | 904,50
 
-- 9. | 28 290
+- 9. | 1 047,00
