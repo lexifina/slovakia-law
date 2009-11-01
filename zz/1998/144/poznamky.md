@@ -10,13 +10,11 @@
 
 - 6) § 10 a § 33 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 7) § 4 ods. 2 zákona č. 563/1991 Zb. o účtovníctve.
+- 7) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 8) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z., zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
 - 9) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
-
-- 10) Zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore.
 
 - 11) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
