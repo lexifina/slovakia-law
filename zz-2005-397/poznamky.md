@@ -1,0 +1,1 @@
+- 1) Text písaný kurzívou obsahuje neoficiálny slovenský preklad pôvodných názvov sankcionovaných právnických osôb.
