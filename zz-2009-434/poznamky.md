@@ -1,0 +1,1 @@
+- 1) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
