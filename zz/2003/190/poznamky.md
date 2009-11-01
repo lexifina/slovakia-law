@@ -30,7 +30,11 @@
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 19) § 41 ods. 2 Trestného zákona.
+- 19) § 122 ods. 3 Trestného zákona.
+
+- 19a) § 122 ods. 7 Trestného zákona.
+
+- 19b) § 122 ods. 8 Trestného zákona.
 
 - 20) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
