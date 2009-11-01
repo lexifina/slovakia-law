@@ -1,24 +1,26 @@
-- 1) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 1) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 52 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
 - 3) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov.
 
-- 4) § 2 Obchodného zákonníka.
+- 4) § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 5) § 57 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 5a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+- 5a) § 2 písm. s) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
 - 6) Napríklad § 13 až 16 Obchodného zákonníka.
 
 - 7) Napríklad zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z.
 
-- 8) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+- 7a) § 17 zákona č. 355/2007 Z. z.
 
-- 9) Napríklad zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
 
-- 10) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z. o opatreniach na predchádzanie prenosným ochoreniam v znení vyhlášky č. 54/2000 Z. z.
+- 9) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z., zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákon č. 276/2001 Z. z. v znení neskorších predpisov.
+
+- 10) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení.
 
 - 11) Zákon č. 364/2004 Z. z. v znení zákona č. 587/2004 Z. z.
 
@@ -26,13 +28,15 @@
 
 - 13) § 108 až 116 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 13a) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 14) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 15) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 16) § 420 a nasl. Občianskeho zákonníka.
 
-- 17) Napríklad zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z. a zákona č. 276/2001 Z. z., vyhláška Ministerstva financií Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení vyhlášky č. 375/1999 Z. z.
+- 17) Napríklad zákon č. 276/2001 Z. z., výnos Úradu pre reguláciu sieťových odvetví z 18. júna 2008 č. 1/2008 o rozsahu cenovej regulácie v sieťových odvetviach a spôsobe jej vykonania (oznámenie č. 226/2008 Z. z.), výnos Úradu pre reguláciu sieťových odvetví z 23. júla 2008 č. 3/2008, ktorým sa ustanovuje regulácia cien za výrobu, distribúciu a dodávku pitnej vody verejným vodovodom a za odvedenie a čistenie odpadovej vody verejnou kanalizáciou (oznámenie č. 295/2008 Z. z.).
 
 - 18) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
@@ -45,8 +49,6 @@
 - 22) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 396/2002 Z. z.
-
-- 24) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov.
 
 - 25) Zákon č. 302/2001 Zb. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
 
@@ -63,3 +65,5 @@
 - 30) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 31) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
+
+- 32) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
