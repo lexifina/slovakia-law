@@ -28,7 +28,7 @@ Príloha k vyhláške č. 202/2004 Z. z.
 
 - 12. | fenol | 4g | 0,4 kg | 4kg | na výrobu fenolformaldehydových živíc, výrobu fotopapiera, filmov, korkových do- siek a tesnenia |
 
-- 13. | glycerín | 100 g | 10 kg | 100 kg | na výrobu brzdových kvapalín, autokoz- metiky a na iné konkrétne použitie v che- mickom priemysle |
+- 13. | etylénglykol | 100 g | 10 kg | 100 kg | na výrobu brzdových kvapalín, autokoz- metiky a na iné konkrétne použitie v che- mickom priemysle |
 
 - 14. | izopropylalkohol technický | 100 ml | 10 l | 100 l | na výrobu katalyzátorov, na použitie v kozmetickom priemysle na výrobu čistiacich prostriedkov, leštiacich prostriedkov |
 
@@ -46,8 +46,4 @@ Príloha k vyhláške č. 202/2004 Z. z.
 
 - 21. | izopropylalkohol a terc-butylalkohol | 50 ml a 780 mg | 5 l a 78 g | 50 l a 780 g | na použitie v kozmetickom priemysle |
 
-- <sup>14</sup>) Príloha č. 3 k vyhláške Ministerstva zdravotníctva Slovenskej republiky č. 156/2004 Z. z., ktorou sa ustanovujú požiadavky na kozmetické výrobky.
-
-- Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 15. marca 2004 č. 608/7/2004-100, ktorým sa vydáva hlava Potravinového kódexu upravujúca arómy.
-
-- <sup>15</sup>) Príloha č. 3 k vyhláške Ministerstva zdravotníctva Slovenskej republiky č. 156/2004 Z. z.
+- 22. | terc-butylalkohol a denatoniumbenzoát | 0,78 g a 0,008 g | 78 g a 0,8 g | 780 g a 8 g | na použitie v kozmetickom priemysle |
