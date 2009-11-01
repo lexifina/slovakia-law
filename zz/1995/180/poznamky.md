@@ -12,6 +12,10 @@
 
 - 7) § 14 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 7a) § 8 zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7b) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
 - 8) Zákon č. 71/1967 Zb.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
@@ -94,17 +98,15 @@
 
 - 39b) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
-- 42) § 8 zákona Slovenskej národnej rady č. 307/1992 Zb.
+- 42) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 4 ods. 4 zákona č. 61/1977 Zb.
-
-- 43) Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.Zákon Slovenskej národnej rady č. 307/1992 Zb.
-
-- 44) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
-
-- 45) § 34 ods. 3 písm. b) zákona Slovenskej národnej rady č. 330/1991 Zb.
+- Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 46) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 608/1992 Zb. a vyhlášky č. 265/1993 Z. z.
+
+- 46a) § 34 ods. 4 písm. b) zákona Slovenskej národnej rady č. 330/1991 Zb.
+
+- 46b) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 47) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
