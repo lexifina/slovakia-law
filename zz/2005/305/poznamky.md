@@ -202,7 +202,9 @@
 
 - 73) § 12 ods. 2 až 4 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
 
-- 74) § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 74) § 12 a 19 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
+
+- 74a) Zákon č. 317/2009 Z. z.
 
 - 75) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
