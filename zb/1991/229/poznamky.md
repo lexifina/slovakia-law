@@ -76,12 +76,6 @@
 
 - § 2, 4 a 5 zákona SNR č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
 
-- § 5 a 6 zákona č. 40/1956 Zb. v znení neskorších predpisov.
-
-- § 7 a 8 zákona SNR č. 1/1955 Zb. SNR v znení neskorších predpisov.
-
-- Zákon Slovenskej národnej rady č. 11/1949 Zb. SNR o Tatranskom národnom parku.
-
 - 16a) § 50 ods. 3 zákona č. 326/2005 Z. z. o lesoch.
 
 - Nariadenie vlády Slovenskej republiky č. 58/2003 Z. z., ktorým sa vyhlasuje Tatranský národný park.
