@@ -1,0 +1,5 @@
+# § 6c
+
+(1) Plynárenský dispečing vyhodnocuje denne úroveň dostupných zdrojov plynu a očakávanú spotrebu plynu na vymedzenom území.
+
+(2) Plyn na účely zabezpečenia štandardov bezpečnosti dodávok pre domácnosti, ktorý bol použitý na dodávku plynu pre domácnosti, vysporiada s prevádzkovateľom distribučnej siete príslušný dodávateľ plynu v takom objeme, v akom bol tento plyn dodaný odberateľom v domácnosti v období od vyhlásenia stavu núdze do odvolania stavu núdze. Podmienky vysporiadania plynu dohodne dodávateľ plynu s prevádzkovateľom distribučnej siete podľa kapacitných možností používaných nástrojov na zabezpečenie štandardov bezpečnosti dodávok plynu pre odberateľov plynu v domácnosti.

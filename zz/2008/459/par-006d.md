@@ -1,0 +1,3 @@
+# § 6d
+
+Pri vyhlásení obmedzujúcich opatrení v plynárenstve odberateľ plynu nie je oprávnený prekročiť hodnotu odberu stanovenú pre jednotlivé obmedzujúce odberové stupne alebo obmedzujúce vykurovacie krivky.

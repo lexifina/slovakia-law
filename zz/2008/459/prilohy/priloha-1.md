@@ -22,6 +22,8 @@ g) obmedzujúci odberový stupeň 6 nariaďuje znížiť spotrebu elektriny odbe
 
 3. Obmedzenia odberu elektrického výkonu pri obmedzujúcich odberových stupňoch 5 a 6 sú realizované znížením odoberaného výkonu na hodnotu bezpečnostného minima.
 
-4. Rozsah výkonovej náplne obmedzujúcich odberových stupňov vzťahujúci sa na obmedzujúce stupne 1 až 4 pre každého odberateľa je najmenej 37 % z dohodnutej najväčšej rezervovanej kapacity. Uvedenú hodnotu obmedzenia možno rozložiť do väčšieho počtu obmedzujúcich odberových stupňov.
+4.
+
+Rozsah výkonovej náplne obmedzujúcich odberových stupňov vzťahujúci sa na obmedzujúce stupne 1 až 4 pre každého odberateľa je najmenej 37 % z hodnoty rezervovaného výkonu. Uvedenú hodnotu obmedzenia možno rozložiť do väčšieho počtu obmedzujúcich odberových stupňov.
 
 5. Obmedzujúce odberové stupne 5 a 6, pri ktorých dochádza k obmedzeniu dodávky elektriny až na hodnotu bezpečnostného minima, možno uplatniť po vyčerpaní všetkých možností riešenia stavu núdze.
