@@ -1,0 +1,1 @@
+- 1) § 102 ods. 2 písm. s) zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Vyhláška Ministerstva školstva Slovenskej republiky č. 581/2007 Z. z. o doplňujúcom pedagogickom štúdiu.
