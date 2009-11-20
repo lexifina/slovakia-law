@@ -115,5 +115,3 @@ Príloha č. 9 k vyhláške č. 578/2006 Z. z.
     - 5. interný blesk,
 
     - 6. makrorežim maximálne od 10 cm,
-
-    - 7. prepojenie s PC aj prostredníctvom WiFi.

@@ -20,7 +20,7 @@ Príloha č. 3 k vyhláške č. 578/2006 Z. z.
 
 - 6 | meradlo teploty varu brzdovej kvapali- ny | k) | | | (100 až 170) °C | ±6 °C | kalibrácia | 1 rok
 
-- 7 | meradlo hádzavosti kolies | l) | | | (-6 až +6) mm | ±0,25 mm | kalibrácia | 1 rok
+- 7 | Meradlo hĺbky dezénovej drážky | l) | l) | f) | (0 až +5) mm | ± 0,15 | kalibrácia | 4 roky
 
 - 8 | meradlo parametrov geometrie riadenej nápravy vozidla | m) | | | zb. (-1,5 až +1,5)° | ±15' | kalibrácia | 1 rok
 
@@ -48,7 +48,7 @@ Príloha č. 3 k vyhláške č. 578/2006 Z. z.
 
 - 14 | meradlo priemerov čapov zariadení na spájanie vozidiel | | r) | | (30 až 55) mm | ± 0,15 mm | kalibrácia | 1 rok
 
-- 15 | meradlo ovládacieho tlaku vzduchu brzdovej sústavy s hadicou a spojko- vou hlavicou | | | c) | (0 až 1) MPa | ±15 kPa; ±2,5 % z mer. odn.<sup>3</sup>) | kalibrácia | 1 rok
+- 15 | meradlo ovládacieho tlaku vzduchu brzdovej sústavy s hadicou a spojko- vou hlavicou | | v) | c) | (0 až 1) MPa | ±15 kPa; ±2,5 % z mer. odn.<sup>3</sup>) | kalibrácia | 1 rok
 
 - 16 | meradlo spomalenia vozidla | | | d) | (0 až 10) m s<sup>-2</sup> | ±0,15 m s<sup>-2</sup> | kalibrácia | 1 rok
 

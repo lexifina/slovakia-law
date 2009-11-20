@@ -16,7 +16,7 @@ Príloha č. 11 k vyhláške č. 578/2006 Z. z.
 
 - 3 | detektor úniku plynu pre LPG | koncentrácia prítomnosti C<sub>3</sub>H<sub>8</sub> | % | d) | d) | - | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
 
-- 4 | meradlo para- metrov nasta- venia svetlome- tov | - | - | c) | c) | (0 až -40) cm/10 m | - | ±2 cm/ 10 m | kalibrácia | 1 rok
+- 4 | meradlo para- metrov nasta- venia svetlome- tov | - | - | - | c) | (0 až -40) cm/10 m | - | ±2 cm/ 10 m | kalibrácia | 1 rok
 
 - 1) Príloha č. 23 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov .
 

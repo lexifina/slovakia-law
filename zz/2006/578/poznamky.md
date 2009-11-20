@@ -2,7 +2,7 @@
 
 - 1a) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 143/2009 Z. z., ktorou sa ustanovujú druhy lekárničiek a obsah lekárničiek pre cestnú dopravu.
 
-- 2) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel (vyhláška č. 176/1960 Zb.). Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel uzavretej 20. marca 1958 v Ženeve.
+- 2) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel (vyhláška ministra zahraničných vecí č. 176/1960 Zb.).
 
 - 3) Napríklad STN EN 3-3 Prenosné hasiace prístroje. Časť 3: Konštrukcia, tlaková odolnosť, mechanické skúšky, STN EN 3-6 Prenosné hasiace prístroje. Časť 6: Ustanovenia o potvrdení zhody prenosných hasiacich prístrojov podľa EN 3 Časť 1 až Časť 5, STN EN 3-6/A1 Prenosné hasiace prístroje. Časť 6: Ustanovenia o potvrdení zhody prenosných hasiacich prístrojov podľa EN 3 Časť 1 až Časť 5, STN EN 3-7 Prenosné hasiace prístroje. Časť 7: Charakteristiky, prevádzkové požiadavky a skúšobné metódy.
 
@@ -73,5 +73,7 @@
 - 22) Čl. 4, čl. 13 ods. 1 a čl. 14 ods. 1 nariadenia Rady (EHS) č. 3820/85 z 20. decembra 1985 o zosúlaďovaní právnych predpisov v sociálnej oblasti, ktoré sa týkajú cestnej dopravy (Ú. v. EÚ L 370, 31. 12. 1985).
 
 - 23) § 90 ods. 4 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
+
+- 23a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 24) § 85 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
