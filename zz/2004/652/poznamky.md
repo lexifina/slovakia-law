@@ -22,6 +22,12 @@
 
 - 10a) Napríklad čl. 802 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993) v platnom znení.
 
+- 10aa) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami podpísaný v Bruseli 18. decembra 1997 (oznámenie č. 245/2009 Z. z.), Zmluva medzi Slovenskou republikou a Rakúskou republikou o policajnej spolupráci (oznámenie č. 252/2005 Z. z.), Zmluva medzi Slovenskou republikou a Maďarskou republikou o spolupráci pri predchádzaní cezhraničnej trestnej činnosti a v boji proti organizovanej trestnej činnosti (oznámenie č. 248/2007 Z. z.).
+
+- 10ab) Zákon č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním) v znení neskorších predpisov.
+
+- 10ac) § 150 až 179 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
+
 - 11) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 11a) Napríklad § 41 a 42 zákona č. 199/2004 Z. z.
@@ -50,6 +56,8 @@
 
 - 18a) Napríklad čl. 197, 228, 308a, 308d a čl. 458 nariadenia Komisie (EHS) č. 2454/93 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993) v platnom znení.
 
+- 18b) Napríklad Dohoda medzi vládou Slovenskej republiky a vládou Macedónskej republiky o spolupráci a vzájomnej pomoci v colných otázkach (oznámenie č. 488/2008 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Azerbajdžanskej republiky o spolupráci a vzájomnej pomoci v colných otázkach (oznámenie č. 65/2009 Z. z.).
+
 - 19) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 21/2007 Z. z.
 
 - 20) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
@@ -77,6 +85,8 @@
 - 28) Čl. 78 Nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
 - 29) Napríklad Nariadenie Rady (EHS) č. 4045/89 z 21. decembra 1989 o kontrole opatrení tvoriacich súčasť systému financovania záručnej sekcie Európskeho poľnohospodárskeho usmerňovacieho a záručného fondu (EPUZF), vykonávaných členskými štátmi, a o zrušení smernice č. 77/435/EHS v platnom znení (Ú. v. ES L 388, 30. 12. 1989), Nariadenie Rady (EHS) č. 386/90 z 12. februára 1990 o monitorovaní vykonávanom v čase vývozu poľnohospodárskych produktov, na ktoré sú poskytované náhrady alebo iné finančné čiastky (Ú. v. ES L 042, 16. 02. 1990) v znení nariadenia Rady (EHS) č. 163/94 z 24. januára 1994 (Ú. v. ES L 024, 29. 01. 1994) v znení nariadenia Komisie (ES) č. 2090/2002 z 26. novembra 2002, ktoré ustanovuje podrobné pravidlá na uplatňovanie nariadenia Rady (EHS) č. 386/90 (Ú. v. ES L 322, 27. 11. 2002).
+
+- 29a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
 - 30) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami (podpísaný v Bruseli 18. 12. 1997), Dohovor vypracovaný na základe článku K. 3 Zmluvy o Európskej únii o používaní informačných technológií na colné účely (podpísaný v Bruseli dňa 26. 7. 1995) v znení doplňujúceho protokolu vzťahujúceho sa na utvorenie databáz colných identifikačných súborov (podpísaný v Bruseli 8. mája 2003).
 
@@ -110,6 +120,8 @@
 
 - 38a) § 3, 4 a 6 zákona č. 207/2009 Z. z. o podmienkach vývozu a dovozu predmetu kultúrnej hodnoty a o doplnení zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 38aa) § 12 až 24 zákona č. 200/2004 Z. z. v znení neskorších predpisov.
+
 - 39) § 64 zákona č. 199/2004 Z. z.
 
 - 40) Napríklad § 64 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
@@ -118,19 +130,23 @@
 
 - 42) Napríklad zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
-- 42a) § 113 ods. 1 a 2 Trestného poriadku.
+- 42a) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami podpísaný v Bruseli 18. decembra 1997 (oznámenie č. 245/2009 Z. z.), Zmluva medzi Slovenskou republikou a Českou republikou o spolupráci v boji proti trestnej činnosti, pri ochrane verejného poriadku a pri ochrane štátnej hranice (oznámenie č. 35/2005 Z. z.), Zmluva medzi Slovenskou republikou a Rakúskou republikou o policajnej spolupráci (oznámenie č. 252/2005 Z. z.), Zmluva medzi Slovenskou republikou a Maďarskou republikou o spolupráci pri predchádzaní cezhraničnej trestnej činnosti a v boji proti organizovanej trestnej činnosti (oznámenie č. 248/2007 Z. z.).
 
 - 43) § 111 Trestného poriadku.
 
-- 43a) § 40 ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+- 43a) Trestný poriadok v znení neskorších predpisov.
 
 - 44) § 25 Trestného zákona.
 
 - 45) § 24 Trestného zákona.
 
+- 45a) § 19 ods. 4 zákona č. 200/1998 Z. z.
+
 - 46) Napríklad § 58 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 46a) Napríklad nariadenie Rady (ES) č. 515/1997 z 13. marca 1997 o vzájomnej pomoci medzi správnymi orgánmi členských štátov a o spolupráci medzi správnymi orgánmi členských štátov a Komisiou pri zabezpečovaní riadneho uplatňovania predpisov o colných a poľnohospodárskych záležitostiach (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 8; Ú. v. ES L 82, 22. 3. 1997) v platnom znení.
+
+- 46aa) § 4 ods. 1 písm. r) zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 46b) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
 
