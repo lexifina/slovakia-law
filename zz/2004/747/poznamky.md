@@ -24,11 +24,15 @@
 
 - § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 21a až 21c a § 73 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 63 až 87 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - § 2 ods. 1 písm. d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - § 18 ods. 2 a 5 a § 29 ods. 3 až 5 zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
+- 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
 
 - 2) § 7 a 15 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
