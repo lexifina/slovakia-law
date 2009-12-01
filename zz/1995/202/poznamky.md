@@ -50,7 +50,7 @@
 
 - 17) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 17a) § 5 ods. 1 písm. a) až c) zákona č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 17a) Zákon č. 297/2008 Z. z. ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17b) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
 
@@ -78,4 +78,12 @@
 
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
-- 30) § 12 až 34 zákona č. 747/2004 Z. z.
+- 30) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- § 1 ods. 3, § 6 ods. 2 písm. c) a k), § 8, 34a, 34b, 36, 37 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 31) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 32) § 41 a 42 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 33) Napríklad zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
