@@ -4,13 +4,19 @@
 
 - 1a) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 1aa) § 2 ods. 1 Obchodného zákonníka.
+
 - 2) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 zákona č. 483/2001 Z. z.
 
 - 4) § 2 ods. 5 zákona č. 483/2001 Z. z.
 
-- 6) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+- 5) § 91 a 92 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- § 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 747/2004 Z. z.
+
+- 6) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
