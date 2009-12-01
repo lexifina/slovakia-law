@@ -2,12 +2,12 @@ Príloha č. 1 k vyhláške č. 413/2007 Z. z.
 
 - VZOR DODATKOVÝCH TABÚĽ
 
-  - PRE ÚSEKY CIEST I. TRIEDY, KTORÉ MOŽNO UŽÍVAŤ LEN PO ÚHRADE MÝTA
+  - PRE ÚSEKY CIEST I. TRIEDY, KTORÉ MOŽNO UŽÍVAŤ S ÚHRADOU MÝTA
 
-  - [Vzor 01-1](../assets/a6b6e20b0c96682553409fb0a4671b35b08dfaafdff56c1c4452da408eb45141.pdf)
+  - [Vzor 01-1](../assets/3fe7ed47a9e08d7aa3aa9c4cc802b2ad3735c1b11272d578ebaf366031482b6c.pdf)
 
   - VZOR DODATKOVÝCH TABÚĽ
 
     - PRE ÚSEKY DIAĽNÍC A CIEST PRE MOTOROVÉ VOZIDLÁ, KTORÉ MOŽNO UŽÍVAŤ BEZ ÚHRADY MÝTA
 
-  - [Vzor 01-2](../assets/43f967f12b3ed3a39ba126789577203623fbdb0ea574ebfb266e2b830b22121c.pdf)
+  - [Vzor 01-2](../assets/7c84e3cbe52aa7d8a018b7599ac559f1fc86e403bb1f572c5939396a48798ec0.pdf)
