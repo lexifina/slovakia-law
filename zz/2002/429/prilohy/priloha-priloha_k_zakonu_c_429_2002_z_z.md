@@ -17,3 +17,5 @@ Príloha k zákonu č. 429/2002 Z. z.
   - 7. Smernica Európskeho parlamentu a Rady 2006/31/ES z 5. apríla 2006, ktorou sa mení a dopĺňa smernica 2004/39/ES o trhoch s finančnými nástrojmi s ohľadom na určité termíny (Ú. v. EÚ L 114, 27. 4. 2006).
 
   - 8. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 9. Smernica Európskeho parlamentu a Rady 2007/36/ES z 11. júla 2007 o výkone určitých práv akcionárov spoločností registrovaných na regulovanom trhu (Ú. v. EÚ L 184/17, 14. 7. 2007).

@@ -160,6 +160,8 @@
 
 - 53e) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 53f) § 176b ods. 2 Obchodného zákonníka.
+
 - 54) § 130 zákona č. 566/2001 Z. z.
 
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
@@ -175,6 +177,8 @@
 - 58a) § 5 ods. 1 písm. a), d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 58b) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 59) § 184 ods. 3 a 4, § 184a ods. 1 a 2 a § 190f ods. 1 Obchodného zákonníka.
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
