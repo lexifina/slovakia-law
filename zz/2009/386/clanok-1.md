@@ -628,6 +628,10 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - označovať batérie a akumulátory symbolom uvedeným v prílohe č. 7, ktorý označuje separovaný zber pre batérie a akumulátory,
 
+- b)
+
+- uvádzať na automobilových a prenosných batériách a akumulátoroch viditeľne, čitateľne a neodstrániteľne údaj o ich kapacite,
+
 - c)
 
 - označovať batérie, akumulátory a gombíkové články s obsahom ortuti vyšším ako 0,0005 % chemickou značkou Hg, s obsahom kadmia vyšším ako 0,002 % chemickou značkou Cd alebo s obsahom olova vyšším ako 0,004 % chemickou značkou Pb; chemická značka uvádzajúca obsah ťažkých kovov sa uvedie pod symbolom podľa písmena a) a musí dosahovať rozmery najmenej štvrtiny veľkosti symbolu podľa písmena a),
