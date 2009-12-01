@@ -14,6 +14,8 @@
 
 - 6aa) § 10 ods. 5 zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
 
+- 6b) § 6 ods. 12 písm. b) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
 - 7) Nariadenie (ES) Európskeho parlamentu a Rady č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Ú. v. EÚ L 340, 16. decembra 2002, s. 1) v znení nariadenia Komisie č. 2151/2003 zo 16. decembra 2003 (Ú. v. EÚ L 329, 16. decembra 2003, s. 1).
 
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
