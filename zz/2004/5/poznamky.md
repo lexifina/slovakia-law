@@ -146,6 +146,8 @@
 
 - 50) § 142 ods. 4 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
+- 50a) § 63 ods. 1 písm. a) a b) zákona č. 311/2001 Z. z.
+
 - 51) § 138 ods. 9 zákona č. 461/2003 Z. z.
 
 - § 13 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
