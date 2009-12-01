@@ -40,7 +40,7 @@
 
 - 18) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
 
-- 19) § 8 zákona č. 311/1999 Z. z. o registri trestov.
+- 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
@@ -139,6 +139,10 @@
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 50a) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+
+- 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 50ab) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
 

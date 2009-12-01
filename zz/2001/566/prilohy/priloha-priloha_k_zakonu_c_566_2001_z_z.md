@@ -35,3 +35,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 16. Smernica Komisie 2006/73/ES z 10. augusta 2006, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2004/39/ES, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 241, 2. 9. 2006).
 
   - 17. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 18. Smernica Európskeho parlamentu a Rady 2007/36/ES z 11. júla 2007 o výkone určitých práv akcionárov spoločností registrovaných na regulovanom trhu (Ú. v. EÚ L 184/17, 14. 7. 2007).
