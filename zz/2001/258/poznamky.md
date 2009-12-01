@@ -2,6 +2,8 @@
 
 - 2) § 663 Občianskeho zákonníka.
 
+- 2a) Napríklad zákon č. 200/1997 Z. z. o Študentskom pôžičkovom fonde v znení neskorších predpisov, zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, § 37e zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2009 Z. z., § 88a až 88d zákona č. 483/2001 Z. z. v znení zákona č. 492/2009 Z. z.
+
 - 3) § 2 ods. 2 Obchodného zákonníka.
 
 - 4) § 2 zákona č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov.
