@@ -26,8 +26,16 @@
 
 - e) odborný zástupca zodpovedný za prípravu transfúznych liekov a odborný zástupca zodpovedný za zabezpečovanie kvality transfúznych liekov nie sú vo vzájomnej riadiacej pôsobnosti.
 
-(2) Správna prax prípravy transfúznych liekov je súbor požiadaviek na výber a vyšetrenie darcov krvi, na odber ľudskej krvi, jej spracovanie a na prípravu, kontrolu, skladovanie a distribúciu transfúznych liekov. Požiadavky na správnu prax prípravy transfúznych liekov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+(2) Zdravotnícke zariadenie môže vykonávať činnosť v rozsahu výber a vyšetrenie darcov krvi, odber ľudskej krvi a zložky z krvi, ak okrem podmienok uvedených v § 3 a 6 preukáže, že
 
-(3) Zdravotnícke zariadenie, ktoré pripravuje transfúzne lieky, môže dodávať transfúzne lieky aj iným zdravotníckym zariadeniam.
+- a) priestory na vyšetrovanie darcov krvi, odber krvi a zložiek z krvi a skladovacie priestory spĺňajú požiadavky správnej praxe prípravy transfúznych liekov,
 
-(4) Na zdravotnícke zariadenie, ktoré pripravuje transfúzne lieky, sa primerane vzťahujú povinnosti výrobcu uvedené v § 30 ods. 1 písm. a) až c), g), h), j) až m).
+- b) určilo odborného zástupcu zodpovedného za odber krvi a zložky z krvi, ktorým môže byť lekár so špecializáciou v odbore hematológia a transfuziológia alebo farmaceut so špecializáciou v odbore farmaceutická technológia, alebo iný zdravotnícky pracovník so špecializáciou v odbore farmaceutické technologické postupy,
+
+- c) má uzatvorenú zmluvu so spracovateľom krvi, ktorým je držiteľ povolenia na prípravu transfúznych liekov alebo držiteľ povolenia na výrobu liekov z ľudskej krvi.
+
+(3) Správna prax prípravy transfúznych liekov je súbor požiadaviek na výber a vyšetrenie darcov krvi, na odber ľudskej krvi, jej spracovanie a na prípravu, kontrolu, skladovanie a distribúciu transfúznych liekov. Požiadavky na správnu prax prípravy transfúznych liekov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.
+
+(4) Zdravotnícke zariadenie, ktoré pripravuje transfúzne lieky, môže dodávať transfúzne lieky aj iným zdravotníckym zariadeniam.
+
+(5) Na zdravotnícke zariadenie, ktoré pripravuje transfúzne lieky, sa primerane vzťahujú povinnosti výrobcu uvedené v § 30 ods. 1 písm. a) až c), g), h), j) až m).

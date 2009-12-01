@@ -24,15 +24,13 @@
 
   - 1. zabezpečovať výrobu v súlade s údajmi poskytnutými podľa § 21 ods. 4 písm. f),
 
-  - 2. vykonávať kontrolu v súlade s údajmi poskytnutými podľa § 21 ods. 4 písm. i),
-
-- j) liek alebo liečivo obsiahnuté v lieku nie je chránené patentom alebo dodatkovým ochranným osvedčením.<sup>11</sup>)
+  - 2. vykonávať kontrolu v súlade s údajmi poskytnutými podľa § 21 ods. 4 písm. i).
 
 (3) Štátny ústav môže podrobiť liek, liečivá a pomocné látky použité na jeho výrobu a v prípade potreby jeho medziprodukty alebo technické pomocné látky skúšaniu v úradne určenom laboratóriu na kontrolu liečiv alebo v laboratóriu, ktoré štátny ústav určil na tento účel, aby si overil, či kontrolné metódy použité výrobcom a opísané v údajoch poskytnutých podľa § 21 ods. 4 písm. i) sú vyhovujúce.
 
-(4) Štátny ústav pri posudzovaní, či liek alebo liečivo obsiahnuté v lieku nie je chránené patentom alebo dodatkovým ochranným osvedčením,<sup>11</sup>) si v sporných prípadoch vyžiada stanovisko Úradu priemyselného vlastníctva Slovenskej republiky.
+(4) Ak štátny ústav zistí, že žiadosť o registráciu lieku je už v štádiu posudzovania v inom členskom štáte, odmietne posudzovanie žiadosti o registráciu lieku a oznámi žiadateľovi, aby postupoval v súlade s § 22a.
 
-(5) Ak generický výrobca podal štátnemu ústavu žiadosť o registráciu lieku chráneného patentom alebo dodatkovým ochranným osvedčením, štátny ústav o podaní žiadosti informuje držiteľa patentu alebo dodatkového ochranného osvedčenia.
+(5) Ak štátny ústav zistí, že iný členský štát už vydal rozhodnutie o registrácii lieku, ktorý je predmetom žiadosti o registráciu lieku podanej štátnemu ústavu, rozhodne o zamietnutí tejto žiadosti, ak nebola podaná v súlade s § 22a.
 
 (6) Žiadateľ pri podaní žiadosti o registráciu, o zmenu registrácie alebo o predĺženie platnosti registrácie uhradí správny poplatok podľa osobitného predpisu.<sup>12</sup>)
 
@@ -52,8 +50,4 @@
 
 - f) vyváženosť prínosov a rizík spojených s používaním lieku je nepriaznivá.
 
-(9) Ak štátny ústav zistí, že žiadosť o registráciu lieku je už v štádiu posudzovania v inom členskom štáte, odmietne posudzovanie žiadosti o registráciu lieku a oznámi žiadateľovi, aby postupoval v súlade s § 22a.
-
-(10) Ak štátny ústav zistí, že iný členský štát už vydal rozhodnutie o registrácii lieku, ktorý je predmetom žiadosti o registráciu lieku podanej štátnemu ústavu, rozhodne o zamietnutí tejto žiadosti, ak nebola podaná v súlade s § 22a.
-
-(11) Ak štátny ústav rozhodne o tom, že tradičný rastlinný liek spĺňa požiadavky na registráciu podľa § 21, nebudú sa na tento liek vzťahovať ustanovenia § 21b.
+(9) Ak štátny ústav rozhodne o tom, že tradičný rastlinný liek spĺňa požiadavky na registráciu podľa § 21, nebudú sa na tento liek vzťahovať ustanovenia § 21b.
