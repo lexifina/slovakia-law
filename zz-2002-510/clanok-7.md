@@ -1,0 +1,3 @@
+# Čl. VII Účinnosť
+
+Tento zákon nadobúda účinnosť 1. januára 2003 s výnimkou ustanovení čl. III bodov 1 až 10, 12, 14 a 17 až 22 a čl. VI, ktoré nadobúdajú účinnosť 1. septembra 2002, a s výnimkou ustanovení čl. I § 12 ods. 2, § 13 ods. 3, § 15 ods. 2, § 16 ods. 1 prvej vety a ods. 3 druhej vety, § 19, § 20 druhej vety, § 25 ods. 2 a 3, § 36 ods. 6 a § 65 ods. 1 písm. b) a ods. 3 a 6, ustanovení čl. III bodu 13, § 99 ods. 16 druhej vety a bodu 16, § 107a ods. 8 a ustanovení čl. IV bodu 4 § 14 ods. 7, ktoré nadobúdajú účinnosť dňom nadobudnutia platnosti zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám a Európskej únii.
