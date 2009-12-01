@@ -60,7 +60,13 @@
 
 - 25) § 2 písm. f) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
-- 26) Vyhláška Ministerstva vnútra Slovenskej republiky č. 300/1996 Z. z. o zabezpečení ochrany obyvateľstva pri výrobe, preprave, skladovaní a manipulácii s nebezpečnými škodlivinami.
+- 25a) § 2 písm. f) prvý bod zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
+
+- 25b) § 5 ods. 3 písm. b) a c) a § 19 ods. 1 zákona č. 541/2004 Z. z.
+
+- 25c) § 4 ods. 1 písm. e) a § 28 ods. 5 zákona č. 541/2004 Z. z. v znení zákona č. 335/2007 Z. z.
+
+- 25d) Zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26a) § 54a ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
 
