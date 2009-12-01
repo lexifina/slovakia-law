@@ -2882,13 +2882,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - g) Žiadosť o povolenie zjednodušeného postupu oslobodenia od povinnosti zabezpečenia v spoločnom tranzitnom režime | 16,50 eura
 
-  - h) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného odosielateľa a použitia osobitných uzáver v spoločnom tranzitnom režime | 16,50 eura
+  - h) Žiadosť o zjednodušený postup na colnom úrade odoslania na vykonanie tranzitných operácií v rámci colného územia (schválený odosielateľ) | 16,50 eura
 
-  - i) Žiadosť o povolenie zjednodušeného postupu udelenia štatútu schváleného príjemcu v spoločnom tranzitnom režime | 16,50 eura
+  - i) Žiadosť o zjednodušený postup na colnom úrade určenia v rámci colného územia (schválený príjemca) | 16,50 eura
 
-  - j) Žiadosť o zjednodušený postup na colnom úrade odoslania na vykonanie tranzitných operácií v rámci colného územia (schválený odosielateľ) | 16,50 eura
+  - j) Žiadosť o predĺženie platnosti alebo zmenu povolenia zjednodušeného postupu na colnom úrade odoslania na vykonanie tranzitných operácií v rámci colného územia (schválený odosielateľ) | 6,50 eura
 
-  - k) Žiadosť o zjednodušený postup na colnom úrade určenia v rámci colného územia (schválený príjemca) | 16,50 eura
+  - k) Žiadosť o predĺženie platnosti alebo zmenu povolenia zjednodušeného postupu na colnom úrade určenia v rámci colného územia (schválený príjemca) | 6,50 eura
 
   - Oslobodenie |
 
