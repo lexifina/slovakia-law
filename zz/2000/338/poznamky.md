@@ -76,7 +76,9 @@
 
 - 12d) Čl. 4 nariadenia Rady (ES) č. 718/1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4.).
 
-- 12e) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12e) Čl. 2 nariadenia Rady (EHS) č. 3921/91 zo dňa 16. decembra 1991, ktorým sa stanovujú podmienky, za ktorých môžu dopravcovia z iných štátov vykonávať prepravu tovaru alebo osôb vnútrozemskou vodnou dopravou v rámci členského štátu (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 001;Ú. v. ES L 373, 31. 12. 1991).
+
+- 12f) § 22 ods. 3 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
@@ -95,6 +97,10 @@
 - 17) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 359/2002 Z. z. o podpísaní Dohody medzi vládou Slovenskej republiky a vládou Chorvátskej republiky o vnútrozemskej plavbe, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 274/2000 Z. z. o potvrdení stavu zmluvnej základne medzi Slovenskou republikou a Ruskou federáciou po sukcesii Slovenskej republiky do zmlúv bývalej Českej a Slovenskej Federatívnej Republiky a po sukcesii Ruskej federácie do zmlúv bývalého Zväzu sovietskych socialistických republík.
 
 - 17a) Príloha č. 2 Skupina 214 – Ostatné zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 17b) § 12 ods. 7 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17c) § 2 ods. 6 a § 21 zákona č. 576/2004 Z. z.
 
 - 18) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení.
 

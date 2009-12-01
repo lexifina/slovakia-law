@@ -26,7 +26,7 @@
 
 - j) prevádzkovateľovi plavidla, ak porušil povinnosti týkajúce sa zápisu a zmeny údajov v registri plavidiel,
 
-- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky,
+- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky.
 
 (4) Štátna plavebná správa uloží pokutu od 165 eur do 1 660 eur
 

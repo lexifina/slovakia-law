@@ -28,10 +28,12 @@
 
 - d) zoznam lektorov a doklady o ich kvalifikácii a praxi v oblasti prepravy, nakládky a vykládky nebezpečného tovaru.
 
-(8) Štátna plavebná správa vytvorí na základe zoznamov skúšobných otázok katalóg otázok, ktorý predkladá raz za dva roky ministerstvu. Ministerstvo zasiela katalóg otázok Európskej komisii.
+(8) Ak ministerstvo zistí, že poverená osoba nemá miesto podnikania alebo sídlo na území Slovenskej republiky alebo podniká v oblasti prepravy nebezpečného tovaru odníme jej poverenie.
 
-(9) Skúška podľa odseku 5 sa vykoná pred skúšobnou komisiou. Skúšobnú komisiu zriaďuje a predsedu a ostatných členov skúšobnej komisie vymenúva a odvoláva poverená osoba. Skúšobná komisia je trojčlenná vrátane predsedu. Najmenej dvaja členovia skúšobnej komisie musia mať odborné znalosti v oblasti prepravy, nakládky a vykládky nebezpečného tovaru. Najmenej jeden člen skúšobnej komisie musí byť zamestnancom Štátnej plavebnej správy.
+(9) Štátna plavebná správa vytvorí na základe zoznamov skúšobných otázok katalóg otázok, ktorý predkladá raz za dva roky ministerstvu. Ministerstvo zasiela katalóg otázok Európskej komisii.
 
-(10) Žiadateľ o vydanie osvedčenia podáva Štátnej plavebnej správe žiadosť, ktorá obsahuje meno, priezvisko, adresu trvalého pobytu, dátum a miesto narodenia žiadateľa. K žiadosti priloží doklad o úspešnom ukončení úplného stredného odborného vzdelania alebo úplného stredného vzdelania, potvrdenie o absolvovaní školenia a protokol o vykonaní skúšky. Potvrdenie o absolvovaní školenia a protokol o vykonaní skúšky vydáva poverená osoba.
+(10) Skúška podľa odseku 5 sa vykoná pred skúšobnou komisiou. Skúšobnú komisiu zriaďuje a predsedu a ostatných členov skúšobnej komisie vymenúva a odvoláva poverená osoba. Skúšobná komisia je trojčlenná vrátane predsedu. Najmenej dvaja členovia skúšobnej komisie musia mať odborné znalosti v oblasti prepravy, nakládky a vykládky nebezpečného tovaru. Najmenej jeden člen skúšobnej komisie musí byť zamestnancom Štátnej plavebnej správy.
 
-(11) Náležitosti žiadosti o absolvovanie školenia, žiadosti o vykonanie skúšky a o obsahu, rozsahu a priebehu školení, o činnosti skúšobných komisií, o obsahu, rozsahu a priebehu skúšky a vzor osvedčenia podľa odseku 4 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(11) Žiadateľ o vydanie osvedčenia podáva Štátnej plavebnej správe žiadosť, ktorá obsahuje meno, priezvisko, adresu trvalého pobytu, dátum a miesto narodenia žiadateľa. K žiadosti priloží doklad o úspešnom ukončení úplného stredného odborného vzdelania alebo úplného stredného vzdelania, potvrdenie o absolvovaní školenia a protokol o vykonaní skúšky. Potvrdenie o absolvovaní školenia a protokol o vykonaní skúšky vydáva poverená osoba.
+
+(12) Náležitosti žiadosti o absolvovanie školenia, žiadosti o vykonanie skúšky a o obsahu, rozsahu a priebehu školení, o činnosti skúšobných komisií, o obsahu, rozsahu a priebehu skúšky a vzor osvedčenia podľa odseku 4 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
