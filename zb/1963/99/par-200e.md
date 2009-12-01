@@ -10,7 +10,7 @@
 
 - d) o neplatnosti obchodnej spoločnosti,<sup>28</sup>)
 
-- e) o vymenovaní audítora na posúdenie návrhu zmluvy o splynutí, zmluvy o zlúčení alebo projektu rozdelenia obchodnej spoločnosti podľa osobitného zákona,<sup>29</sup>)
+- e) o vymenovaní nezávislého experta na posúdenie návrhu zmluvy o splynutí, zmluvy o zlúčení alebo projektu rozdelenia obchodnej spoločnosti podľa osobitného zákona,<sup>29</sup>)
 
 - f) o poverení zvolať valné zhromaždenie podľa osobitného zákona.<sup>30</sup>)
 
