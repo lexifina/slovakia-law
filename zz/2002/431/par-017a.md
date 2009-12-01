@@ -1,6 +1,6 @@
 # § 17a
 
-(1) Individuálnu účtovnú závierku podľa osobitných predpisov<sup>22a</sup>) zostavuje účtovná jednotka, ktorou je banka, pobočka zahraničnej banky, Exportno-importná banka Slovenskej republiky, správcovská spoločnosť, pobočka správcovskej spoločnosti, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) pobočka zahraničnej poisťovne, zaisťovňa, pobočka zahraničnej zaisťovne, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť a Burza cenných papierov; rovnako postupuje aj účtovná jednotka zriadená osobitným predpisom.<sup>22aaa</sup>)
+(1) Individuálnu účtovnú závierku podľa osobitných predpisov<sup>22a</sup>) zostavuje účtovná jednotka, ktorou je banka, pobočka zahraničnej banky, Exportno-importná banka Slovenskej republiky, správcovská spoločnosť, pobočka správcovskej spoločnosti, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) pobočka zahraničnej poisťovne, zaisťovňa, pobočka zahraničnej zaisťovne, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť, Burza cenných papierov a platobná inštitúcia;<sup>22ad</sup>) rovnako postupuje aj účtovná jednotka zriadená osobitným predpisom.<sup>22aaa</sup>)
 
 (2) Podľa odseku 1 postupuje aj účtovná jednotka neuvedená v odseku 1, ak je obchodnou spoločnosťou, ktorá najmenej dve po sebe idúce účtovné obdobia spĺňa aspoň dve z týchto podmienok:
 

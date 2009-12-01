@@ -52,6 +52,8 @@
 
 - 22ac) Medzinárodný účtovný štandard 27 bod 37, Medzinárodné účtovné štandardy 28 a 31, Nariadenie Komisie (ES) č. 2238/2004 z 29. decembra 2004, ktorým sa mení a dopĺňa nariadenie (ES) č. 1725/2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002, pokiaľ ide o IFRS 1, IAS 1 až 10, 12 až 17, 19 až 24, 27 až 38, 40 a 41 a SIC 1 až 7, 11 až 14, 18 až 27, 30 až 33 (Ú. v. EÚ L 394, 31. 12. 2004).
 
+- 22ad) § 63 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
 - 22c) § 2 ods. 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
