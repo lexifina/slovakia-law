@@ -22,6 +22,8 @@
 
 - 3d) § 137 ods. 2 písm. g) až o) a q) zákona č. 8/2009 Z. z.
 
+- 3e) § 49a zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2009 Z. z.
+
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 4a) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
