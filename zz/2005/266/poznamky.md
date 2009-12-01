@@ -32,6 +32,8 @@
 
 - 15) Napríklad zákon č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 258/2001 Z. z.
 
+- 15a) § 31 ods. 5, § 35 ods. 1 až 5, § 38 ods. 2 až 4 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+
 - 16) § 788 až 828a Občianskeho zákonníka.
 
 - 17) § 8 písm. k) zákona č. 566/2001 Z. z.
