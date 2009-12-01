@@ -30,6 +30,8 @@
 
 - 16) § 2 písm. b) 17. bod zákona č. 656/2004 Z. z.
 
+- 16a) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 17) § 39 ods. 1 zákona č. 656/2004 Z. z. v znení zákona č. 107/2007 Z. z.
 
 - 18) § 19 ods. 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
