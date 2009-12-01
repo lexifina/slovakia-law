@@ -2,6 +2,8 @@
 
 - 1a) § 6 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch).
 
+- 1aa) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+
 - 2) § 313 až 322 Obchodného zákonníka.
 
 - 3) § 682 až 691 Obchodného zákonníka.
@@ -16,13 +18,13 @@
 
 - 8) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 9) Zákon č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení zákona č. 604/2003 Z. z.
+- 9) Zákon č. 492/2009 Z. z.
 
 - 10) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 124/1996 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
 
-- 12) Napríklad zákon č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z., zákon č. 507/2001 Z. z. o poštových službách.
+- 12) Napríklad zákon č. 492/2009 Z. z., zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov.
 
 - 13) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
@@ -48,6 +50,8 @@
 
 - 18) Napríklad § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 18a) § 63 zákona č. 492/2009 Z. z.
+
 - 19) § 21 ods. 2 písm. d) a § 21a až 21c zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
 
 - 20) § 25 až 49 zákona č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
@@ -62,7 +66,7 @@
 
 - 23a) § 41a a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 24) § 10 až 12 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 24) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 24a) § 8 písm.b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z.
 
@@ -73,6 +77,8 @@
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
+
+- 24d) § 29 ods. 3 zákona č. 297/2008 Z. z.
 
 - 25) § 173 a 174 Obchodného zákonníka.
 
@@ -123,6 +129,8 @@
 - 37) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 37a) § 5 zákona č. 566/2001 Z. z.
+
+- 37aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
 - 38) § 2 ods. 4 písm. a) a b) a § 24 až 29 zákona č. 431/2002 Z. z.
 
@@ -318,7 +326,9 @@
 
 - 88j) § 4 ods. 1 a 2 zákona č. 244/2002 Z. z.
 
-- 88k) § 67 ods. 1 zákona č. 510/2002 Z. z.Zákon č. 244/2002 Z. z.
+- 88k) § 90 ods. 1 zákona č. 492/2009 Z. z.
+
+- Zákon č. 244/2002 Z. z. v znení neskorších predpisov.
 
 - 88l) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 

@@ -1,6 +1,6 @@
 # § 93b
 
-(1) Banky a pobočky zahraničných bánk sú povinné ponúknuť svojim klientom neodvolateľný návrh na uzavretie rozhodcovskej zmluvy<sup>88j</sup>) o tom, že ich prípadné vzájomné spory z obchodov [§ 5 písm. i)] budú rozhodnuté v rozhodcovskom konaní stálym rozhodcovským súdom zriadeným podľa osobitného zákona.<sup>88k</sup>)
+(1) Banky a pobočky zahraničných bánk sú povinné ponúknuť svojim klientom neodvolateľný návrh na uzavretie rozhodcovskej zmluvy<sup>88j</sup>) o tom, že ich prípadné vzájomné spory z obchodov [§ 5 písm. i)] budú rozhodnuté v rozhodcovskom konaní stálym rozhodcovským súdom zriadeným podľa osobitného zákona,<sup>88k</sup>) a to tak, aby klient mal možnosť voľby, či prijme alebo neprijme predložený návrh na uzavretie rozhodcovskej zmluvy. Banka a pobočka zahraničnej banky sú pri predložení návrhu na uzavretie rozhodcovskej zmluvy tiež povinné preukázateľne poučiť klienta o dôsledkoch uzavretia navrhovanej rozhodcovskej zmluvy na riešenie ich vzájomných sporov z obchodov.
 
 (2) Návrh rozhodcovskej zmluvy podľa odseku 1 sú banky a pobočky zahraničných bánk povinné predložiť svojim klientom najneskôr pri uzatváraní obchodu, na ktorý sa nevzťahuje už uzavretá rozhodcovská zmluva. Klient nie je povinný prijať návrh rozhodcovskej zmluvy predložený podľa odseku 1; ak klient neprijme návrh rozhodcovskej zmluvy predložený podľa odseku 1, tak prípadné spory z obchodu s takýmto klientom sa riešia postupom podľa osobitných predpisov.<sup>88l</sup>)
 
