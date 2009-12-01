@@ -4,7 +4,7 @@
 
 - 2a) § 2 ods. 1 a 2 a § 23 ods. 4 zákona č. 483/2001 Z. z.
 
-- 2b) § 2 ods. 1 a 6 a § 21 ods. 1 prvá veta zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
+- 2b) § 2 ods. 2 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - § 780 ods. 1 Občianskeho zákonníka.
 
@@ -30,19 +30,19 @@
 
 - 5d) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 5da) § 2 ods. 8 zákona č. 510/2002 Z. z.
+- 5da) § 81 zákona č. 492/2009 Z. z.
 
-- 5db) § 2 ods. 9 zákona č. 510/2002 Z. z.
+- 5db) § 63 zákona č. 492/2009 Z. z.
 
-- 5dc) § 21 ods. 2 zákona č. 510/2002 Z. z.
+- 5dc) § 2 ods. 3 zákona č. 492/2009 Z. z.
 
 - 5dd) § 31 ods. 1 písm. c) a ods. 5, § 38 ods. 1, § 48 ods. 1 a 3 a § 61 zákona č. 510/2002 Z. z.
 
-- 5de) § 31 ods. 7, § 32 ods. 1 až 4, § 40 ods. 1 a 2 a § 50 ods. 1 a 2 zákona č. 510/2002 Z. z.
+- 5de) § 45 ods. 1 a 3, § 47, § 52 ods. 2, § 53, § 54 ods. 1 a § 55 zákona č. 492/2009 Z. z.
 
-- 5df) § 99 až 111 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+- 5df) § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 5dg) § 99 ods. 3 písm. h) a ods. 15 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+- 5dg) § 99 ods. 3 písm. h) a ods. 15 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 5e) Zákon č. 429/2002 Z. z. o burze cenných papierov.
 
@@ -54,15 +54,13 @@
 
 - 5h) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
-- 5i) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
-
 - 5ia) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 5j) § 2 ods. 2 a § 5 zákona č. 507/2001 Z. z. o poštových službách.
 
-- 5k) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
+- 5k) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 a 4 a § 163 ods. 1 a 6 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z., § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z., § 4 ods. 5 a 6 a § 11 ods. 5 a 6 zákona č. 95/2002 Z. z., § 30 zákona Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z.
+- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 až 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z. v znení neskorších predpisov, § 2 ods. 2 až 5 a ods. 8 až 11 zákona č. 8/2008 Z. z.
 
 - 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 3 a 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -86,7 +84,7 @@
 
 - 7d) § 25 ods. 1 až 3 č. 429/2002 Z. z.
 
-- 7e) § 5 a 6 a § 8 písm. d) zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
+- 7e) § 5 a 6 a § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 7f) § 80 ods. 1, § 81 ods. 1 a 2 a § 82 ods. 1 zákona č. 566/2001 Z. z.
 
@@ -114,7 +112,7 @@
 
 - Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12a) § 2 až 30 zákona č. 510/2002 Z. z.
+- 12a) § 2 ods. 2 zákona č. 492/2009 Z. z.
 
 - 12aa) § 248 písm. d) Občianskeho súdneho poriadku.
 
