@@ -46,7 +46,7 @@
 
 - 16) § 19 ods. 1 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
-- 17) § 6, 45 a 46 zákona č. 39/2007 Z. z.
+- 17) § 45 a 46 zákona č. 39/2007 Z. z.
 
 - 18) Príloha č. 3 k zákonu č. 39/2007 Z. z.
 
@@ -83,6 +83,12 @@
 - 28) § 4 ods. 2 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 45/2009 Z. z.
 
 - 29) § 2 písm. f) zákona č. 193/2005 Z. z.
+
+- 29a) Čl. 2 ods. 8 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 29b) Čl. 11 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
+
+- 29c) Čl. 11 ods. 2 až 4 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
 
 - 30) Čl. 12 nariadenia (ES) č. 1857/2006 (Ú. v. EÚ L 358, 16. 12. 2006).
 
@@ -176,9 +182,9 @@
 
 - Čl. 32 nariadenia Rady (ES) č. 1198/2006 z 29. júla 2006 o Európskom fonde pre rybné hospodárstvo (Ú. v. EÚ L 223, 15. 8. 2006).
 
-- 61) Nariadenie (ES) č. 875/2007 (Ú. v. EÚ L 193, 25. 7. 2007).
+- 61) Napríklad nariadenie (ES) č. 875/2007 (Ú. v. EÚ L 193, 25. 7. 2007), nariadenie (ES) č. 1535/2007 (Ú. v. EÚ L 337, 21. 12. 2007).
 
-- 62) § 31 ods. 5 zákona č. 139/2002 Z. z. o rybárstve.
+- 62) § 19a ods. 1 zákona č. 194/1998 Z. z.
 
 - 63) Čl. 37 písm. a) nariadenia (ES) č. 1198/2006 (Ú. v. EÚ L 223, 15. 8. 2006).
 
@@ -186,9 +192,17 @@
 
 - 65) § 4 ods. 3 až 6 zákona č. 139/2002 Z. z.
 
-- 66) Čl. 30 ods. 2 písm. a) nariadenia (ES) č. 1198/2006 (Ú. v. EÚ L 223, 15. 8. 2006).
+- 66) § 2 ods. 2 písm. d) zákona č. 139/2002 Z. z.
 
-- 67) § 2 ods. 2 písm. e) zákona č. 139/2002 Z. z.
+- 67) § 31 ods. 2 zákona č. 139/2002 Z. z.
+
+- 67a) § 31 ods. 1 zákona č. 139/2002 Z. z. Čl. 2 písm. g) nariadenia (ES) č. 736/2008 (Ú. v. EÚ L 201, 30. 7. 2008). § 2 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
+
+- 67b) Čl. 12 nariadenia (ES) č. 736/2008 (Ú. v. EÚ L 201, 30. 7. 2008).
+
+- 67c) § 19a ods.1 zákona č. 194/1998 Z. z.
+
+- 67d) § 49 ods. 4 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
 
 - 68) § 17 ods. 4 zákona č. 39/2007 Z. z.
 
