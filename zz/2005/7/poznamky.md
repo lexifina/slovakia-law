@@ -66,21 +66,23 @@
 
 - 27) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 28) § 31 až 37 a § 61 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 28) § 45 ods. 3 písm. b) a § 46 písm. b) zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 28a) § 1 a § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 29) § 65 ods. 1 zákona č. 510/2002 Z. z.
+- 28b) § 63 až 79 zákona č. 492/2009 Z. z.
+
+- 28c) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29) § 54 ods. 1 písm. a) zákona č. 492/2009 Z. z.
 
 - Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 30) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 31) § 35 zákona č. 510/2002 Z. z.
+- 31) § 51 zákona č. 492/2009 Z. z.
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
