@@ -34,6 +34,8 @@
 
 - 15a) § 26 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 15aa) § 35a zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+
 - 16) § 20 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 17) § 2 ods. 1 až 3 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
