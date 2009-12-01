@@ -243,3 +243,11 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 11. Smernica Komisie 2009/70/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť difenakum, didecyl(dimetyl)amónium-chlorid a síru medzi účinné látky (Ú. v. EÚ L 164, 26. 6. 2009).
 
 - 12. Smernica Komisie 2009/77/ES z 1. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórsulfurón, cyromazín, dimetachlór, etofenprox, lufenurón, penkonazol, tri-alát a triflusulfurón medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2009).
+
+- 13. Smernica Rady 2009/82/ES z 13. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tetrakonazol medzi účinné látky (Ú. v. EÚ L 196, 28. 7. 2009),
+
+- 14. Smernica Komisie 2009/115/ES z 31. augusta 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metomyl ako účinnú látku (Ú. v. EÚ L 228, 1. 9. 2009),
+
+- 15. Smernica Rady 2009/116/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínové oleje č. CAS 64742-46-7, č. CAS 72623-86-0 a č. CAS 97862-82-3 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009),
+
+- 16. Smernica Rady 2009/117/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínový olej č. CAS 8042-47-5 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009).
