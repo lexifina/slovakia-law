@@ -1,6 +1,6 @@
 - 1) § 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 2) § 21 ods. 1 a 2 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2) § 2 ods. 2 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 3) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -24,19 +24,15 @@
 
 - 11) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z.
 
-- 12) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 12) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) § 2 ods. 1, 5, 7 a 8 a § 11 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 13a) § 2 ods. 1 a § 3 až 11 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov.
-
-- 13b) § 2 ods. 1 a § 12 až 20 zákona č. 510/2002 Z. z.
 
 - 14) Napríklad zákon č. 540/ 2001 Z. z. o štátnej štatistike, § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
 - 14a) § 4 ods. 8 a § 5 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
-- 14b) § 4 ods. 3 zákona č. 510/2002 Z. z.
+- 14b) § 3 ods. 2 zákona č. 492/2009 Z. z.
 
 - 15) § 4 ods. 4 zákona č. 523/2004 Z. z.
 
@@ -86,7 +82,13 @@
 
 - 28b) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 29a) § 38 až 58 zákona č. 510/2002 Z. z.
+- 29a) § 45 až 62 zákona č. 492/2009 Z. z.
+
+- 29b) § 91 a 92 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- § 88 ods. 1 a 2 zákona č. 492/2009 Z. z.
+
+- § 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 747/2004 Z. z.
 
 - 30) § 25 a 26 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 

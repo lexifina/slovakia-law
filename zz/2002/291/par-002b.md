@@ -12,7 +12,7 @@
 
 - c) schvaľuje na základe návrhu Štátnej pokladnice koncepciu Štátnej pokladnice, ktorá vymedzuje služby poskytované klientom,
 
-- d) usmerňuje riadenie zostatkov peňažných prostriedkov na účtoch Štátnej pokladnice v Národnej banke Slovenska, v banke alebo pobočke zahraničnej banky,
+- d) usmerňuje riadenie zostatkov finančných prostriedkov na účtoch Štátnej pokladnice v Národnej banke Slovenska, v banke alebo pobočke zahraničnej banky,
 
 - e) buduje a udržiava informačný systém pre systém štátnej pokladnice (ďalej len „informačný systém”) a zabezpečuje, aby informačný systém spĺňal kritériá bezpečnosti, spoľahlivosti a primeranosti,
 
@@ -30,6 +30,8 @@
 
 - l) schvaľuje na základe návrhu agentúry stratégiu riadenia štátneho dlhu a vykonáva kontrolu jej realizácie; na tieto účely zabezpečuje spoluprácu so zahraničnými ratingovými agentúrami pri určovaní ratingu Slovenskej republiky, ktorým sa rozumie posudzovanie a hodnotenie schopnosti a pripravenosti Slovenskej republiky uhrádzať svoje finančné záväzky,
 
-- m) vydáva predchádzajúci písomný súhlas podľa § 2c ods. 6.
+- m) vydáva predchádzajúci písomný súhlas podľa § 2c ods. 6,
+
+- n) môže určiť priority realizácie výdavkov klienta uvedeného v § 2a ods. 1 písm. a) v prípade nesúladu medzi príjmami štátneho rozpočtu a výdavkami štátneho rozpočtu.
 
 (2) Usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy predkladaných subjektmi verejnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.

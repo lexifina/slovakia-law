@@ -8,7 +8,7 @@
 
 - a) z finančných operácii na finančnom trhu,
 
-- b) súvisiace s chybnými platbami vyplývajúcimi z ich nesprávneho poukázania,
+- b) súvisiace s chybnými platobnými operáciami vyplývajúcimi z ich nesprávneho poukázania,
 
 - c) súvisiace s činnosťou agentúry.
 
@@ -20,9 +20,9 @@
 
 - c) z finančných operácií na finančnom trhu vrátane finančných operácií s finančnými derivátmi,
 
-- d) vyplývajúce z realizácie platobného styku klienta Štátny dlh,
+- d) vyplývajúce z realizácie platobnej operácie klienta Štátny dlh,
 
-- e) súvisiace s chybnými platbami vyplývajúcimi z ich nesprávneho poukázania,
+- e) súvisiace s chybnými platobnými operáciami vyplývajúcimi z ich nesprávneho poukázania,
 
 - f) vyplývajúce z finančných operácií vykonávaných agentúrou.
 

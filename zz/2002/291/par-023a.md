@@ -12,4 +12,4 @@
 
 (2) Klient podľa § 9 ods. 1 a klient, ktorým je štátna príspevková organizácia, verejná vysoká škola a štátny fond, môže mať súbežne otvorené účty aj v banke, najdlhšie však do 31. decembra 2005.
 
-(3) Štátna pokladnica odsúhlasuje finančný plán realizácie výdavkov, žiadosť o vstup do záväzku a žiadosť o realizáciu platby klienta podľa § 8, žiadosť o vstup do záväzku a žiadosť o realizáciu platby klienta podľa § 10 a žiadosť o realizáciu platby klienta podľa § 9 od 1. januára 2005. Týmto nie sú dotknuté povinnosti klienta podľa § 8 až 10.
+(3) Štátna pokladnica odsúhlasuje finančný plán realizácie výdavkov, žiadosť o vstup do záväzku a žiadosť o realizáciu platobnej operácie klienta podľa § 8, žiadosť o vstup do záväzku a žiadosť o realizáciu platobnej operácie klienta podľa § 10 a žiadosť o realizáciu platobnej operácie klienta podľa § 9 od 1. januára 2005. Týmto nie sú dotknuté povinnosti klienta podľa § 8 až 10.

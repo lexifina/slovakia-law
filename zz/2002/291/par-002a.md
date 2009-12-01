@@ -39,3 +39,11 @@
 (6) Rizikom na účely tohto zákona sa rozumie kreditné riziko, trhové riziko, riziko likvidity, operačné riziko, refinančné riziko a ďalšie riziká, ktoré môžu spôsobiť finančnú stratu pre štátny rozpočet a ktoré vyplývajú z činnosti systému štátnej pokladnice.
 
 (7) Riadením rizík na účely tohto zákona sa rozumie súhrn činností, ktorých cieľom je predchádzať možným finančným stratám pre štátny rozpočet v rozsahu určenom ministerstvom podľa tohto zákona.
+
+(8) Tuzemským prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v mene euro na území Slovenskej republiky.
+
+(9) Cezhraničným prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v
+
+- a) cudzej mene na území Slovenskej republiky,
+
+- b) cudzej mene a v mene euro do iného štátu.
