@@ -1,1 +1,0 @@
-Imrich Horňanský v. r.
