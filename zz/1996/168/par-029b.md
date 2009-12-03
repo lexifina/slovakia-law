@@ -6,7 +6,7 @@ Samosprávny kraj pri výkone samosprávy
 
 - b) schvaľuje cestovné poriadky vnútroštátnej autobusovej dopravy,
 
-- c) uzaviera s dopravcom zmluvu o výkone vo verejnom záujme a poskytuje dopravcovi náhradu preukázanej straty,
+- c) uzaviera s dopravcom zmluvu o službách a poskytuje dopravcovi úhrady za služby vo verejnom záujme,
 
 - d) vykonáva odborný dozor nad cestnou dopravou v kraji, ak ide o pravidelnú autobusovú dopravu,
 

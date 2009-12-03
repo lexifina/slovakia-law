@@ -46,19 +46,23 @@
 
 - 14) § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.
 
-- 15) § 2 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
+- 14a) Čl. 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007 z 23. októbra 2007 o službách vo verejnom záujme v železničnej a cestnej osobnej doprave, ktorým sa zrušujú nariadenia Rady (EHS) č. 1191/69 a (EHS) č. 1107/70 (Ú. v. EÚ L 315, 3. 12. 2007).
 
 - 16) § 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
-- 17) § 344 Obchodného zákonníka.
+- 17) Čl. 5 ods. 4 a 5 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007.
 
-- 18) § 352 ods. 2 Obchodného zákonníka.
+- 18) § 24 ods.1 písm. a), § 135 až 149 a § 152 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) § 353 a 374 Obchodného zákonníka.
+- 19) Čl. 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007.
 
-- 20) § 68 a 70 Obchodného zákonníka.
+- 20) Čl. 6 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007.
 
 - 20a) § 56 Obchodného zákonníka.
+
+- 20b) § 2 ods. 2 zákona č. 2/1991 Zb.o kolektívnom vyjednávaní v znení neskorších predpisov.
+
+- 20c) Čl. 4 ods. 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007.
 
 - 21) § 151n a nasl. Občianskeho zákonníka.
 
