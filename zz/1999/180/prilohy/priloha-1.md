@@ -58,11 +58,9 @@
 
     - 2. Každá zmluvná strana poskytne na území svojho štátu investorom štátu druhej zmluvnej strany, ak ide o riadenie, udržiavanie, užívanie, využívanie ich investícií alebo nakladanie s nimi, riadne a spravodlivé zaobchádzanie, ktoré nie je menej priaznivé, než aké poskytuje vlastným investorom alebo investorom ktoréhokoľvek tretieho štátu, ktoré je výhodnejšie.
 
-    - 3. Ustanovenia odsekov 1 a 2 nemožno vysvetľovať tak, že zaväzujú jednu zmluvnú stranu poskytovať investorom štátu druhej zmluvnej strany také zaobchádzanie, výhody alebo výsady, aké môže jedna zmluvná strana poskytovať podľa
+    - 3. Ustanovenia odseku 1 a 2 tohto článku nemožno vykladať tak, že zaväzujú jednu zmluvnú stranu poskytovať investorom druhej zmluvnej strany také zaobchádzanie, výhody alebo výsady, ktoré môže jedna zmluvná strana poskytovať podľa medzinárodnej dohody alebo zmluvy týkajúcej sa výlučne alebo prevažne zdanenia.
 
-      - a) colnej únie alebo zóny voľného obchodu, alebo menovej únie, alebo podľa podobných medzinárodných dohôd vedúcich k takým úniám alebo inštitúciám, alebo podľa iných foriem regionálnej spolupráce, ktorých každá zmluvná strana je alebo môže byť členom,
-
-      - b) medzinárodnej dohody alebo zmluvy týkajúcej sa výlučne alebo prevažne zdanenia.
+    - 4. Ustanovenia o nediskriminácii, národnom zaobchádzaní a doložke najvyšších výhod tejto dohody sa nebudú aplikovať na všetky súčasné alebo budúce výhody poskytované ktoroukoľvek zmluvnou stranou na základe svojho členstva alebo asociácie v colnej, hospodárskej alebo menovej únii, spoločnom trhu alebo zóne voľného obchodu svojim vlastným investorom, investorom členských štátov takejto únie, spoločného trhu, zóny voľného obchodu alebo akejkoľvek tretej krajiny.
 
   - Článok 4 Náhrada strát
 
@@ -99,6 +97,8 @@
       - f) príjmy fyzických osôb cudzej štátnej príslušnosti pracujúcich na území štátu zmluvnej strany v súvislosti s investíciou.
 
     - 2. Prevody sa vykonajú bez zbytočného omeškania, v ľubovoľnej voľne zameniteľnej mene, v trhovom výmennom kurze aplikovanom v deň prevodu, ak sa nedohodlo inak.
+
+    - 3. Ustanovenia odsekov 1 a 2 tohto článku sa použijú bez dopadov na opatrenia prijaté Európskym spoločenstvom.
 
   - Článok 7 Postúpenie práv
 
