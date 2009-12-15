@@ -2,7 +2,7 @@
 
 (1) Sťažnosť na porušenie tohto zákona sa podáva rade písomne, telefaxom alebo elektronickou formou.
 
-(2) Zo sťažnosti musí byť zrejmé, čím mal byť porušený tento zákon. Ak sa namieta porušenie tohto zákona odvysielaním programu alebo programovej zložky, sťažnosť musí obsahovať aj dátum a približný čas odvysielania tohto programu alebo programovej zložky a názov programovej služby, v ktorej rámci mal byť tento zákon porušený.
+(2) Zo sťažnosti musí byť zrejmé, čím mal byť porušený tento zákon. Ak sa namieta porušenie tohto zákona odvysielaním alebo poskytnutím programu, zložky programovej služby alebo zložky audiovizuálnej mediálnej služby na požiadanie, sťažnosť musí obsahovať aj dátum a približný čas odvysielania alebo poskytnutia tohto programu, zložky programovej služby alebo zložky audiovizuálnej mediálnej služby na požiadanie a názov programovej služby alebo audiovizuálnej mediálnej služby na požiadanie, v rámci ktorej mal byť tento zákon porušený.
 
 (3) Doručené sťažnosti eviduje kancelária v osobitnej evidencii. Evidencia obsahuje
 
