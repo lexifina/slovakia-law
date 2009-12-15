@@ -36,6 +36,8 @@
 
 - 4ea) Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 (Ú. v. EÚ L 143, 30. 4. 2004).
 
+- 4eaa) § 8 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
+
 - 4eb) Napríklad zmluva medzi Československou socialistickou republikou a Zväzom sovietskych socialistických republík o právnej pomoci a právnych vzťahoch v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 95/1983 Zb.), zmluva medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o úprave právnych vzťahov v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 207/1964 Zb.).
 
 - 4f) § 5 ods. 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 288/1995 Z. z. o odmenách a náhradách súdnych exekútorov.
