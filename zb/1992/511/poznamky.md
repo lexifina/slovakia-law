@@ -174,6 +174,16 @@
 
 - 11ah) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
+- 11ai) § 4 ods. 4 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
+
+- 11aj) § 8 zákona č. 466/2009 Z. z.
+
+- 11ak) § 3 písm. a) prvý až ôsmy bod zákona č. 466/2009 Z. z.
+
+- 11al) § 2 písm. c) prvý bod zákona č. 466/2009 Z. z.
+
+- 11am) Zákon č. 466/2009 Z. z.
+
 - 11b) § 58 zákona č. 455/1991 Zb. Živnostenský zákon v znení neskorších predpisov.
 
 - 11c) § 4 ods. 1 až 3 zákona č. 289/2008 Z. z.
@@ -262,6 +272,8 @@
 
 - 12a) Napríklad zákon Slovenskej národnej rady č. 544/1990 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. v znení neskorších predpisov.
 
+- 12aa) § 9 ods. 8 zákona č. 466/2009 Z. z.
+
 - 12b) § 544 až 558 Občianskeho zákonníka.
 
 - 12c) § 48 zákona č. 366/1999 Z. z. o daniach z príjmov.
@@ -307,6 +319,8 @@
 - 14c) § 15 zákona č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 14ca) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov, zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon).
+
+- 14cb) § 9 ods. 5 zákona č. 466/2009 Z. z.
 
 - 14d) § 40 až 45 zákona č. 195/1998 Z. z. o sociálnej pomoci.
 
