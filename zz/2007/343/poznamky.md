@@ -18,6 +18,8 @@
 
 - 10) § 5 ods. 8 zákona č. 618/2003 Z. z.
 
+- 10a) § 3 písm. c) zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
+
 - 11) § 5 ods. 2, § 6 zákona č. 618/2003 Z. z. v znení zákona č. 84/2007 Z. z.
 
 - 12) § 5 ods. 18 zákona č. 618/2003 Z. z.
@@ -31,6 +33,8 @@
 - 16) Čl. III Všeobecného dohovoru o autorskom práve revidovaného v Paríži 24. júla 1971 (vyhláška ministra zahraničných vecí č. 134/1980 Zb.).
 
 - Čl. 11 Medzinárodného dohovoru o ochrane výkonných umelcov, výrobcov zvukových záznamov a rozhlasových organizácií (vyhláška ministra zahraničných vecí č. 192/1964 Zb.).
+
+- 16a) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 17) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
