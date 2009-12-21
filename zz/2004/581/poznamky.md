@@ -287,3 +287,7 @@
 - 98a) § 566 až 576 Obchodného zákonníka.
 
 - 99) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
+
+- 100) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- § 156 ods. 7 Obchodného zákonníka.
