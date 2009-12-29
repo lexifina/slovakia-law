@@ -16,11 +16,13 @@ Príloha č. 1 k nariadeniu vlády č. 571/2001 Z. z.
 
   - 1.1 Ak existuje príslušné nebezpečenstvo a nie je uvedené v tejto prílohe, platia na výťah a bezpečnostnú časť požiadavky podľa prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia a zákona č. 90/1998 Z. z. Požiadavky bodu 1.1.2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 391/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na strojové zariadenia sa musia uplatniť v každom prípade.
 
-  - 1.2 Klietka výťahu
+  - 1.2 Nosná plošina
 
-    - Klietka výťahu je navrhnutá a vyrobená tak, aby jej priestor a pevnosť zodpovedali maximálnemu počtu osôb a nosnosti výťahu, ktoré určil dodávateľ.
+    - Nosnou plošinou každého výťahu musí byť klietka.
 
-    - Ak to rozmery umožňujú, klietka výťahu určeného na prepravu osôb je navrhnutá a vyrobená tak, aby jej konštrukcia neprekážala alebo nebránila prístupu a použitiu výťahu osobám s obmedzenou schopnosťou pohybu a aby umožňovala všetky vhodné úpravy, ktoré uľahčujú jeho používanie takým osobám.
+    - Klietka výťahu musí byť navrhnutá a vyrobená tak, aby jej priestor a pevnosť zodpovedali maximálnemu počtu osôb a nosnosti výťahu, ktoré určil dodávateľ.
+
+    - Ak to rozmery výťahu umožňujú, klietka výťahu určeného na prepravu osôb musí byť navrhnutá a vyrobená tak, aby jej konštrukcia neprekážala alebo nebránila prístupu a použitiu výťahu osobám s obmedzenou schopnosťou pohybu a aby umožňovala všetky vhodné úpravy, ktoré uľahčujú jeho používanie týmto osobám.
 
   - 1.3 Závesné a podporné zariadenia
 
