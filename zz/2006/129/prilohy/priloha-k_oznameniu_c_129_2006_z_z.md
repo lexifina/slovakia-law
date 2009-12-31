@@ -862,6 +862,10 @@ K oznámeniu č. 129/2006 Z. z.
 
     - MC 98015 Monaco Cedex
 
+    - Mongolsko
+
+    - Ministerstvo zahraničných veci a obchodu Mongolska
+
     - Namíbijská republika
 
   - 1. „Registrar“ a „Assistant Registrar of the High Court“ a
