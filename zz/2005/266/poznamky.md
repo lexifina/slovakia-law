@@ -18,8 +18,6 @@
 
 - 9) § 4 ods. 5 zákona č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
 
-- 10) Napríklad § 21 zákona č. 483/2001 Z. z.
-
 - 11) § 9, § 10 ods. 2 písm. d) a § 37e zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
 - 12) Napríklad zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
@@ -51,6 +49,10 @@
 - 23) § 2 písm. k) vyhlášky Ministerstva financií Slovenskej republiky č. 559/2002 Z. z.
 
 - 23a) Príloha č. 1 časť Agresívne obchodné praktiky bod 6 k zákonu č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 23aa) § 12 ods. 6 zákona č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji.
+
+- § 58 Občianskeho zákonníka.
 
 - 23b) § 7 zákona č. 250/2007 Z. z.
 
