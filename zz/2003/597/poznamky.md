@@ -72,6 +72,10 @@
 
 - 24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
 
+- 24ba) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
+- 24c) § 19 ods. 2 písm. a) až d) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
 - 24d) § 2 zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2005 Z. z.
 
 - § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
@@ -81,5 +85,7 @@
 - 25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
 
 - 25b) § 4 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
+- 25c) § 90 ods. 11 zákona č. 245/2008 Z. z. v znení zákona č. 462/2008 Z. z.
 
 - 26) § 2 písm. p) zákona č. 245/2008 Z. z.

@@ -30,4 +30,4 @@
 
 (6) Zriaďovateľ do 15 dní po doručení oznámenia krajského školského úradu podľa odseku 1 rozpíše finančné prostriedky na kalendárny rok pre jednotlivé školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti.
 
-(7) Podrobnosti prideľovania finančných prostriedkov zriaďovateľom podľa odseku 1 písm. b) ustanoví ministerstvo všeobecne záväzným právnym predpisom.
+(7) Ministerstvo zverejní na svojej internetovej stránke do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte výšku nákladov podľa osobitného predpisu<sup>25c</sup>) na príslušný kalendárny rok.
