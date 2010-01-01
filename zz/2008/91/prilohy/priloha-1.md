@@ -1,4 +1,4 @@
-Príloha č. 1 k vyhláške č. 91/2008 Z. z. [Príloha 01](../assets/68debf803ebb8b8b822e63516e345e6ee4a984a56ba14d00fb0ae55704fe965c.pdf)
+Príloha č. 1 k vyhláške č. 91/2008 Z. z. [Príloha 01](../assets/47841b45e99eb36941cb273c497ad5bd7bdb7e24a1552d04f14879f5676ce2ff.pdf)
 
 - Metodika poskytovania informácie Dss (DIT) 05-98
 

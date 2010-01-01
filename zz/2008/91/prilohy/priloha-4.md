@@ -1,4 +1,4 @@
-Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/e8e5ce460ccb9ac465495d2744e1a3b62a79d1b149d20b14f9ff0253aba33fb6.pdf)
+Príloha č. 4 k vyhláške č. 91/2008 Z. z. [Príloha 04](../assets/1152fe4132124673e6231581de0c36876fed05a518cf7b9c9fc122b9eb776f2c.pdf)
 
 - Metodika poskytovania informácie Ddf (DIS) 08-98
 

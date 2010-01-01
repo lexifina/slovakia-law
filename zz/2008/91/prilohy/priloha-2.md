@@ -1,4 +1,4 @@
-Príloha č. 2 k vyhláške č. 91/2008 Z. z. [Príloha 02](../assets/03e5b34f7a506e219e9c0b16d3e8abd01162c4599cf818973c88bbb014ff0646.pdf)
+Príloha č. 2 k vyhláške č. 91/2008 Z. z. [Príloha 02](../assets/e037abb30c3b1654e7f418d202ca7285e2a1e9282e13e0df278ff84fd25ccc01.pdf)
 
 - Metodika poskytovania informácie Dss (DIS) 06-98
 

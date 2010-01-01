@@ -1,4 +1,4 @@
-Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/6a792a8ae25524f546e16d8a1386008afa42663c2518a03996bb5aac0a407cd9.pdf)
+Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/0caa04e34f11d6aa83bf7013108c77ff87abb6a5bfb1eb0ea58317c5601db467.pdf)
 
 - Metodika poskytovania informácie Ddf (DIT) 07-98
 
