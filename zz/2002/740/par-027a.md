@@ -1,0 +1,11 @@
+# § 27a Účtovanie nepeňažných vkladov
+
+(1) Pri nepeňažnom vklade, ktorým je podnik alebo časť podniku (ďalej len „vklad podniku“), sa v účtovníctve prijímateľa vkladu podniku účtujú prijímané jednotlivé zložky majetku a záväzkov tvoriace vklad podniku na vecne príslušné účty v ocenení podľa § 27 ods. 2 zákona. Identifikovaný a spoľahlivo oceniteľný dlhodobý nehmotný majetok vytvorený vlastnou činnosťou vkladateľa sa u prijímateľa vkladu podniku účtuje na príslušný účet dlhodobého nehmotného majetku.
+
+(2) V účtovníctve prijímateľa vkladu podniku sa rozdiel medzi reálnou hodnotou jednotlivých zložiek majetku a záväzkov tvoriacich vklad podniku a hodnotou nepeňažného vkladu započítanou na vklad spoločníka<sup>19aa</sup>) (ďalej len „uznaná hodnota vkladu“), účtuje podľa charakteru ako goodwill alebo ako záporný goodwill na účet 015 – Goodwill.
+
+(3) V účtovníctve vkladateľa vkladu podniku sa vyradia z účtovníctva jednotlivé zložky majetku a záväzkov v účtovnej hodnote so súvzťažným zápisom na účet 367 – Záväzky z upísaných a nesplatených cenných papierov a vkladov. Rozdiel medzi uznanou hodnotou vkladu a účtovnou hodnotou vkladaných jednotlivých zložiek majetku a záväzkov sa účtuje podľa charakteru na ťarchu účtu 568 – Ostatné finančné náklady alebo v prospech účtu 668 – Ostatné finančné výnosy. Suma uznanej hodnoty vkladu sa účtuje na príslušný účet účtovej skupiny 06 – Dlhodobý finančný majetok so súvzťažným zápisom v prospech účtu 367 – Záväzky z upísaných a nesplatených cenných papierov a vkladov.
+
+(4) V účtovníctve vkladateľa nepeňažného vkladu, ktorým sú jednotlivé zložky majetku, sa z účtovníctva vyradí majetok v účtovnej hodnote so súvzťažným zápisom na účet 367 – Záväzky z upísaných a nesplatených cenných papierov a vkladov. Rozdiel medzi uznanou hodnotou vkladu a účtovnou hodnotou vkladaného majetku sa účtuje podľa charakteru na ťarchu účtu 568 – Ostatné finančné náklady alebo v prospech účtu 668 – Ostatné finančné výnosy. Suma uznanej hodnoty vkladu sa účtuje na príslušný účet účtovej skupiny 06 – Dlhodobý finančný majetok so súvzťažným zápisom v prospech účtu 367 – Záväzky z upísaných a nesplatených cenných papierov a vkladov.
+
+(5) V účtovníctve prijímateľa nepeňažného vkladu, ktorým sú jednotlivé zložky majetku, sa účtuje na jednotlivé vecne príslušné účty majetku majetok v uznanej hodnote vkladu.

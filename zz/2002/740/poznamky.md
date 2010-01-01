@@ -42,7 +42,13 @@
 
 - 17) § 7 zákona č. 368/1999 Z. z. o rezervách a opravných položkách na zistenie základu dane z príjmov.
 
+- 18) § 61 Obchodného zákonníka.
+
+- 19) § 120 ods. 3 Obchodného zákonníka.
+
 - 19a) § 2 písm. s) prvý bod zákona č. 595/2003 Z. z. v znení zákona č. 659/2004 Z. z.
+
+- 19aa) § 59 ods. 3 Obchodného zákonníka.
 
 - 19b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
 
@@ -62,7 +68,7 @@
 
 - 25) Napríklad zákon č. 17/1992 Zb. o životnom prostredí v znení neskorších predpisov.
 
-- 26) Zákon č. 70/1998 Z. z. v znení neskorších predpisov.
+- 26) Zákon č. 656/2004 Z. z. o energetike a zmene niektorých zákonov v znení neskorších predpisov.
 
 - 27) Napríklad zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -74,7 +80,7 @@
 
 - 30a) § 43 ods. 7 zákona č. 595/2003 Z. z.
 
-- 30aa) Napríklad zákon č. 595/2004 Z. z. v znení neskorších predpisov.
+- 30aa) Napríklad zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 30b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
@@ -88,7 +94,11 @@
 
 - 30g) § 50 ods. 4 zákona č. 222/2004 Z. z. v znení zákona č. 523/2005 Z. z.
 
-- 30h) § 50 ods. 5 zákona č. 222/2004 Z. z.
+- 30h) § 50 ods. 4 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 30i) § 54 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 30j) § 81 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
 
 - 31) Napríklad zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
