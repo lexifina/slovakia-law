@@ -10,6 +10,8 @@
 
 - 5) Napríklad § 456 Občianskeho zákonníka.
 
+- 5a) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
 - 6) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
 - 6a) § 27a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
@@ -40,7 +42,9 @@
 
 - 14) § 161 ods. 5 Obchodného zákonníka.
 
-- 15) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení vyhlášky Ministerstva spravodlivosti Slovenskej repubilky č. 279/2005 Z. z.
+- 15) § 15 zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
+- § 14a až 14e vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
 - 16) § 12 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov.
 
