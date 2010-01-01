@@ -160,6 +160,8 @@
 
 - 68) Trestný zákon.
 
+- 68a) § 226 ods. 1 písm. k) zákona č. 461/2003 Z. z. v znení zákona č. 572/2009 Z. z.
+
 - 69) § 4 zákona č. 328/1991 Zb.
 
 - 70) § 5 zákona č. 566/2001 Z. z.
