@@ -13,3 +13,7 @@ Týmto opatrením sa mení a dopĺňa opatrenie Ministerstva financií Slovenske
 Opatrenie nadobúda účinnosť 31. decembra 2009, s výnimkou čl. I bodov 1, 2 (§ 26 ods. 3 až 9), bodov 3 až 10 a bodu 12, ktoré nadobúdajú účinnosť 1. januára 2010.
 
 Opatrenie je uverejnené vo Finančnom spravodajcovi č. 14/2009 a možno doň nazrieť na Ministerstve financií Slovenskej republiky a v elektronickej forme na internetovej stránke www.finance.gov.sk.
+
+Opatrenie Ministerstva financií Slovenskej republiky z 3. decembra 2009 č. MF/26312/ 2009-74, ktorým sa mení a dopĺňa opatrenie Ministerstva financií Slovenskej republiky zo 16. decembra 2002 č. 23054/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre podnikateľov účtujúcich v sústave podvojného účtovníctva v znení neskorších predpisov
+
+Ministerstvo financií Slovenskej republiky podľa § 4 ods. 2 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov ustanovuje:
