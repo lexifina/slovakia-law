@@ -680,7 +680,11 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - „t)
 
-- spracúva štatistické zisťovania a administratívne zdroje<sup>49a</sup>) z oblasti sociálnoprávnej ochrany detí a sociálnej kurately,“.
+- spracúva štatistické zisťovania a administratívne zdroje<sup>49a</sup>) z oblasti sociálnoprávnej ochrany detí a sociálnej kurately,
+
+- u)
+
+- prevádzkuje a rozvíja v rámci jednotného informačného systému v oblasti sociálnych vecí a služieb zamestnanosti jednotný prepojený systém zhromažďovania, spracovávania a prenosu informácií, ako aj sledovania procesov v oblasti sprostredkovania náhradnej rodinnej starostlivosti,“.
 
 - Doterajšie písmeno t) sa označuje ako písmeno v).
 
@@ -1041,6 +1045,10 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 - „(7)
 
 - Mediáciu na riešenie sporov vo veciach sociálnoprávnej ochrany detí a sociálnej kurately môžu vykonávať len fyzické osoby, ktoré skončili odbornú akreditovanú prípravu mediátora.
+
+- (8)
+
+- Program supervízie na účely sociálnoprávnej ochrany detí a sociálnej kurately môžu vykonávať len fyzické osoby, ktoré skončili odbornú akreditovanú prípravu supervízora v oblasti sociálnej práce alebo poradenskej práce.
 
 - (9)
 
