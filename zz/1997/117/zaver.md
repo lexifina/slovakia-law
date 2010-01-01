@@ -1,1 +1,0 @@
-Martin Hudoba v. r.
