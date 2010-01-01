@@ -13,3 +13,5 @@
 (6) Odplata za postúpenie daňovej pohľadávky podľa odseku 2 je príjmom štátneho rozpočtu.
 
 (7) Na postúpenie daňovej pohľadávky podľa tohto zákona sa osobitný predpis<sup>13ee</sup>) nepoužije.
+
+(8) Daňový úrad alebo colný úrad postúpi aj nevymožiteľný daňový nedoplatok podľa § 61 ods. 6, u ktorého uplynulo viac ako päť rokov od konca roka, v ktorom vznikol; pri postúpení tohto daňového nedoplatku sa použije postup podľa odsekov 1 až 7.

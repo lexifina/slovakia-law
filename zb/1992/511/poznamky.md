@@ -194,6 +194,8 @@
 
 - 11cc) § 8 ods. 1 a § 10 ods. 4 zákona č. 289/2008 Z. z.
 
+- 11cca) § 2 písm. zc) zákona č. 289/2008 Z. z.
+
 - 11cd) § 3 ods. 3 zákona č. 289/2008 Z. z.
 
 - 11ce) § 3 ods. 4 zákona č. 289/2008 Z. z.
@@ -256,6 +258,10 @@
 
 - 11dad) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11dae) § 17b ods. 2 a 7 zákona č. 595/2003 Z. z. v znení zákona č. 504/2009 Z. z.
+
+- 11daf) § 30 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 11db) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch v znení zákona č. 241/2001 Z. z.
 
 - 11dc) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
@@ -293,6 +299,8 @@
 - 13e) Napríklad zákon č. 286/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 87/1994 Z. z. v znení neskorších predpisov.
 
 - 13ea) Zákon č. 582/2004 Z. z. v znení neskorších predpisov.
+
+- 13eaa) § 4b zákona č. 222/2004 Z. z. v znení zákona č. 83/2009 Z. z.
 
 - 13eb) § 68 ods. 2 Obchodného zákonníka.
 
@@ -419,6 +427,12 @@
 - 20d) § 2 ods. 2 zákona č. 652/2004 Z. z.
 
 - 20e) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 20f) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 20g) § 21 ods. 13 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 21) § 30 ods. 2 zákona SNR č. 139/1984 Zb. o notárskych poplatkoch.
 
