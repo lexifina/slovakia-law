@@ -174,8 +174,6 @@
 
 - 48) Napríklad § 136, § 139 až § 141 Zákonníka práce.
 
-- 49) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
-
 - 50) § 6 ods. 3 zákona č. 595/2003 Z. z.
 
 - 51) § 43 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
