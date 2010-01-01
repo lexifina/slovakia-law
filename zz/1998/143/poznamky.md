@@ -100,6 +100,12 @@
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 84/2000 Z. z. o pristúpení Slovenskej republiky k Medzinárodnému dohovoru EUROCONTROL týkajúceho sa spolupráce v záujme bezpečnosti letovej prevádzky, zmeneného a doplneného v Bruseli v roku 1981.
 
+- 14a) Čl. 87 až 89 Zmluvy o založení Európskeho spoločenstva v platnom znení.
+
+- Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 14b) § 8a zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
+
 - 15) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 16) Zákon č. 136/2004 Z. z. o letiskových spoločnostiach a o zmene a doplnení zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
