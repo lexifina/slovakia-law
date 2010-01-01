@@ -2,7 +2,7 @@ Príloha č. 3 k nariadeniu vlády č. 350/2007 Z. z.
 
 - Spôsob výpočtu mýta
 
-  - Mýto je úhrada vypočítanej sumy podľa kategórie vozidla za prejazdenú vzdialenosť po vymedzenom úseku ciest.
+  - Mýto je úhrada vypočítanej sumy podľa kategórie vozidla, emisnej triedy vozidla EURO a počtu náprav za prejazdenú vzdialenosť po vymedzenom úseku ciest.
 
   - Sadzba mýta vychádza z jednotkových nákladov na infraštruktúru v členení na investičné náklady, náklady na údržbu, stavebné opravy a náklady na vybudovanie, prevádzku, riadenie a výber mýta.
 
@@ -57,13 +57,3 @@ Príloha č. 3 k nariadeniu vlády č. 350/2007 Z. z.
 - EURO IV, V, EEV | 100 % | 100 % | 100 %
 
   - Diferenciácia vozidiel na „EURO IV“ a „EURO V a viac“ nie je potrebná, pretože emisné limity oboch kategórií sú štatisticky približne zhodné.
-
-- Príplatky k sadzbe mýta v Sk/km
-
-- | Najviac 3 nápravy | Najmenej 4 nápravy | Autobusy
-
-- EURO O - II | 0,529 | 0,536 | 0,440
-
-- EURO III | 0,114 | 0,114 | 0,095
-
-- EURO IV, V, EEV | 0,000 | 0,000 | 0,000
