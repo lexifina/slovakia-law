@@ -1,3 +1,0 @@
-Príloha č. 6 k vyhláške č. 250/1997 Z. z. ZÁKLADNÉ NÁVESTI A CHROMATICKOSŤ FARIEB NÁVESTNÝCH SVETIEL
-
-[Príloha 06](../assets/2f61db48c3793c172e8a13a5361ba7fb88a533114fac1ba9485fc5258d718679.pdf)
