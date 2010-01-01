@@ -804,6 +804,10 @@ Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektor�
 
 - fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky,
 
+- l)
+
+- prevádzkovateľovi plavidla, ak použil lodné palivo určené na spálenie počas prevádzky plavidla s obsahom síry vyšším ako 0,1 % hmotnostného.
+
 - (4)
 
 - Štátna plavebná správa uloží pokutu od 165 eur do 1 660 eur
