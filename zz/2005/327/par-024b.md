@@ -8,4 +8,6 @@
 
 (4) Ak si žiadateľ po podaní žiadosti o právnu pomoc zvolí svojho právneho zástupcu na konanie, v ktorom požiadal o poskytnutie právnej pomoci podľa tohto zákona, považuje sa to za späťvzatie žiadosti.
 
-(5) Centrum zasiela žiadateľovi písomnosti v jazyku, o ktorom sa predpokladá, že mu rozumie.
+(5) Ak bol žiadateľ z územia Slovenskej republiky vyhostený, centrum je oprávnené vziať podaný opravný prostriedok späť.
+
+(6) Centrum zasiela žiadateľovi písomnosti v jazyku, o ktorom sa predpokladá, že mu rozumie.

@@ -6,7 +6,11 @@
 
 - 1d) § 13a a 13b zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
 
+- 1e) § 30 Občianskeho súdneho poriadku.
+
 - 2) § 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení opatrenia Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 372/2004 Z. z.
+
+- 2a) § 3 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
 - 3) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
@@ -34,12 +38,18 @@
 
 - 15) § 8 zákona č. 599/2003 Z. z.
 
+- 15a) Napríklad Obchodný zákonník, zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
+
 - 16) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 17) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb.
 
 - 18) § 142 až 151a Občianskeho súdneho poriadku.
 
+- 18a) § 14a až 14f vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
+
 - 19) Čl. 59 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o súdnej právomoci, uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Ú. v. ES L 012, 16. 1. 2001).
 
 - 19a) § 19 ods. 1 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 20) Občiansky súdny poriadok.
