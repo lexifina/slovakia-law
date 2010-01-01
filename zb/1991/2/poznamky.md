@@ -10,13 +10,21 @@
 
 - 4a) Položka 2 písm. a) zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 
-- 4aa) Vyhláška Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+- 4aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 259/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
 
-- 4ab) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+- 4ab) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 4ac) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+
+- 4ad) § 40 ods. 8 Zákonníka práce.
+
+- 4ae) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 4b) Zákon č. 311/1999 Z. z. o registri trestov.
 
 - 4c) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
+
+- 4d) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 

@@ -1,15 +1,15 @@
 # § 7a
 
-Záväznosť kolektívnej zmluvy vyššieho stupňa nemožno rozšíriť na zamestnávateľa,
+- Kolektívna zmluva vyššieho stupňa rozšírená všeobecne záväzným právnym predpisom podľa § 7 ods. 1 sa nevzťahuje na zamestnávateľa,
 
-- a) na ktorého sa ku dňu účinnosti právneho predpisu vzťahuje záväznosť inej kolektívnej zmluvy vyššieho stupňa,
+- a) na ktorého sa ku dňu účinnosti rozšírenia vzťahuje záväznosť inej kolektívnej zmluvy vyššieho stupňa,
 
-- b) na ktorého je ku dňu účinnosti právneho predpisu vyhlásený konkurz,
+- b) ktorý je ku dňu účinnosti rozšírenia v úpadku podľa osobitného predpisu,<sup>4ac</sup>)
 
-- c) ktorý je ku dňu účinnosti právneho predpisu v likvidácii,
+- c) ktorý je ku dňu účinnosti rozšírenia v likvidácii,
 
-- d) ktorý ku dňu účinnosti právneho predpisu zamestnáva menej ako 20 zamestnancov,
+- d) ktorý zamestnáva menej ako 20 zamestnancov podľa priemerného evidenčného počtu zamestnancov vypočítaného za kalendárny mesiac predchádzajúci kalendárnemu mesiacu, v ktorom rozšírenie nadobudlo účinnosť,
 
-- e) ktorý ku dňu účinnosti právneho predpisu zamestnáva viac ako 10 % osôb so zdravotným postihnutím,
+- e) ktorý zamestnáva viac ako 10 % osôb so zdravotným postihnutím<sup>4ad</sup>) z priemerného evidenčného počtu zamestnancov vypočítaného za kalendárny mesiac predchádzajúci kalendárnemu mesiacu, v ktorom rozšírenie nadobudlo účinnosť,
 
-- f) ktorého ku dňu účinnosti právneho predpisu postihla mimoriadna udalosť,<sup>4ab</sup>) ktorej následky trvajú.
+- g) ktorý ku dňu účinnosti rozšírenia vykonáva podnikateľskú činnosť po dobu kratšiu ako 24 mesiacov, ak nejde o právneho nástupcu iného zamestnávateľa.
