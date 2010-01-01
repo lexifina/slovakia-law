@@ -51,3 +51,11 @@
 - 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
 
 - 15) § 524 až 530 Občianskeho zákonníka.
+
+- 16) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov.
+
+- 17) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 18) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19) Zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení zákona č. 445/2008 Z. z., ktorým sa menia a dopĺňajú niektoré zákony v pôsobnosti Ministerstva vnútra Slovenskej republiky v súvislosti so zavedením meny euro v Slovenskej republike. Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
