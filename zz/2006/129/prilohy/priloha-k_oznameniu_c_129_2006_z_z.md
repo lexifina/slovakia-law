@@ -244,21 +244,9 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Departamento de Legalizaciones“
 
-    - Estónsko
+    - Estónska republika
 
-  - 1. „Välisministeerium, konsulaarosakonna öigusbüroo“, Islandi väljak 1, 15049 Tallinn, phone: +372 6317 440, fax: +372 631 7454
-
-  - 2. „Haridusministeerium, haldusosakond“, Tönismägi 11, EE0100 Tallin, phone: +372 6 281 243, fax: +372 6 281 390
-
-  - 3. „Haridusministeerium, haldusosakond“, Munga 18, EE 2400 Tartu, phone: +372 7 350 252, fax: +372 7 350 250
-
-  - 4. „Haridusministeerium, järelevalve osakond“, Munga 18, Tartu, phone: +372 7 350 231, fax: +372 7 350 250
-
-  - 5. „Justiitsministeerium, kohtute osakond“, Tartu mnt 85, EE0100 Tallinn, phone: +372 612 7810, fax: +372 612 7811
-
-  - 6. „Siseministeerium, üldosakond“, Lai 40 , EE0100 Tallinn, phone: +372 612 5199, fax: +372 5198
-
-  - 7. „Sotsiaalministeerium, avalike suhete ja koolituse osakond“, Gonsiori 29, EE0100 Tallinn, phone: +372 626 9875, fax: +372 699 2209
+    - Notári v správe Ministerstva spravodlivosti
 
     - Fidži
 
