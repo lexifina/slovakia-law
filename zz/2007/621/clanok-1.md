@@ -282,7 +282,11 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 41. V § 21 sa odsek 2 dopĺňa písmenami k) a l), ktoré znejú:
 
-- „l)
+- „k)
+
+- úroky platené daňovníkom poskytovateľovi z úverov a pôžičiek, ak poskytovateľ má na základnom imaní tohto daňovníka priamy podiel alebo nepriamy podiel najmenej 25 %, alebo ak tento daňovník má na základnom imaní poskytovateľa priamy podiel alebo nepriamy podiel najmenej 25 %, a to vo výške úrokov zo sumy, o ktorú priemerný stav úverov a pôžičiek od týchto osôb počas zdaňovacieho obdobia presahuje šesťnásobok výšky vlastného imania<sup>1</sup>) vykázaného ku koncu zdaňovacieho obdobia, ktoré predchádza zdaňovaciemu obdobiu, za ktoré je výška úrokov vyčísľovaná, a u daňovníka, ktorý vznikol v priebehu zdaňovacieho obdobia, sa namiesto vlastného imania použije výška základného imania vykázaná ku koncu prvého zdaňovacieho obdobia, pričom tento postup sa použije, iba ak vypočítaný priemerný stav úverov a pôžičiek presahuje 100 000 000 Sk; priemerný stav úverov a pôžičiek sa vypočíta zo stavu úverov a pôžičiek vykázaných k poslednému dňu kalendárneho mesiaca alebo zo stavu úverov a pôžičiek vykázaných k poslednému dňu kalendárneho štvrťroka,
+
+- l)
 
 - rozdiel medzi hodnotou pohľadávky a nižším príjmom z jej postúpenia pri postúpení nadobudnutej pohľadávky ďalšiemu postupníkovi okrem postúpenej pohľadávky alebo jej nesplatenej časti, ak táto pohľadávka spĺňa podmienku na tvorbu opravnej položky uznanej za daňový výdavok podľa § 20 ods. 10 až 12.“.
 
