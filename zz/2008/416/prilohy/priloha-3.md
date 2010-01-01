@@ -148,7 +148,7 @@ I.B | Inštitúcia disponujúca administratívnym zdrojom: Národná banka Slove
 
 19. | M (NBS) 5-04 | Štvrťročný rozpis súvahových položiek podľa štátov
 
-20. | M (NBS) 6-04 | Štvrťročný výkaz o sekuritizovaných úveroch
+20. | M (NBS) 6-12 | Mesačný výkaz o sekuritizovaných úveroch
 
 21. | M (NBS) 10-12 | Mesačný výkaz o nových úveroch poskytnutých v aktuálnom mesiaci v eurách a o výške dohodnutých priemerných úrokových mier
 
@@ -276,7 +276,7 @@ I.F | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo práce, 
 
 8. | | Dávky štátnej sociálnej podpory
 
-9. | | Účelové dávky a peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých
+9. | | Peňažné príspevky na kompenzáciu sociálnych dôsledkov ťažkého zdravotného postihnutia
 
 10. | | Náhradné výživné
 
@@ -1880,9 +1880,9 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
 
-- 20. Názov administratívneho zdroja: Štvrťročný výkaz o sekuritizovaných úveroch
+- 20. Názov administratívneho zdroja: Mesačný výkaz o sekuritizovaných úveroch
 
-- Značka administratívneho zdroja: M (NBS) 6-04
+- Značka administratívneho zdroja: M (NBS) 6-12
 
 - a) Účel a využitie administratívnych údajov
 
@@ -1896,9 +1896,9 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
-- Periodicita poskytovania administratívnych údajov: štvrťročne.
+- Periodicita poskytovania administratívnych údajov: mesačne.
 
-- Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
+- Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru – predbežné údaje do 25. februára a definitívne údaje do 30. apríla po referenčnom období.
 
 - 21. Názov administratívneho zdroja: Mesačný výkaz o nových úveroch poskytnutých v aktuálnom mesiaci v eurách a o výške dohodnutých priemerných úrokových mier
 
@@ -3070,17 +3070,17 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: štvrťročne do 25. kalendárneho dňa po referenčnom období, ročne do 31. marca po referenčnom období.
 
-- 9. Názov administratívneho zdroja: Účelové dávky a peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých
+- 9. Názov administratívneho zdroja: Peňažné príspevky na kompenzáciu sociálnych dôsledkov ťažkého zdravotného postihnutia
 
 - Značka administratívneho zdroja: –
 
 - a) Účel a využitie administratívnych údajov
 
-- Administratívne údaje o dávkach a peňažných príspevkoch na kompenzáciu pre ťažko zdravotne postihnutých sa využijú pri príprave štvrťročných národných a regionálnych účtov, pre potreby európskeho systému štatistík sociálnej ochrany a na analytické účely v publikáciách Štatistického úradu Slovenskej republiky.
+- Administratívne údaje o peňažných príspevkoch na kompenzáciu sociálnych dôsledkov ťažkého zdravotného postihnutia sa využijú pri príprave štvrťročných národných a regionálnych účtov, pre potreby európskeho systému štatistík sociálnej ochrany, na analytické účely a v publikáciách Štatistického úradu Slovenskej republiky.
 
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
-- Výdavky na dávky a peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých a počet a štruktúra poberateľov dávok a príspevkov v triedení podľa charakteristík poberateľov dávok a príspevkov za Slovenskú republiku a podľa samosprávnych krajov.
+- Výdavky na peňažné príspevky na kompenzáciu sociálnych dôsledkov ťažkého zdravotného postihnutia, počet a štruktúra ich poberateľov v triedení podľa charakteristík poberateľov za Slovenskú republiku a podľa samosprávnych krajov.
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -3538,7 +3538,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
-- Priemerný evidenčný počet zamestnancov, z toho pedagogických zamestnancov, dohody o prácach vykonávaných mimo pracovného pomeru a štruktúra mzdových prostriedkov podľa typu školy a školského zariadenia a okresov.
+- Priemerný evidenčný počet zamestnancov, z toho pedagogických zamestnancov, dohody o prácach vykonávaných mimo pracovného pomeru a štruktúra mzdových prostriedkov podľa typu školy a školského zariadenia a podľa krajov a typu zriaďovateľa.
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -3574,7 +3574,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
-- Priemerný evidenčný počet žiakov základných umeleckých škôl, detí materských škôl a školských zariadení a poslucháčov jazykových škôl v územnej pôsobnosti obce podľa stavu k 15. septembru sledovaného roka podľa územnosprávnych celkov, zriaďovateľa a druhu školy a školského zariadenia.
+- Počet žiakov základných umeleckých škôl, detí materských škôl a školských zariadení a poslucháčov jazykových škôl v územnej pôsobnosti obce podľa stavu k 15. septembru sledovaného roka podľa územnosprávnych celkov, zriaďovateľa a druhu školy a školského zariadenia.
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -3954,7 +3954,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Periodicita poskytovania administratívnych údajov: ročne.
 
-- Lehota na odovzdanie administratívnych údajov: do 31. júla po referenčnom období.
+- Lehota na odovzdanie administratívnych údajov: do 31. júla dva roky po referenčnom období.
 
 - 3. Názov administratívneho zdroja: Výkaz o kvalite ovzdušia
 
@@ -3970,9 +3970,9 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
-- Periodicita poskytovania administratívnych údajov: štvrťročne.
+- Periodicita poskytovania administratívnych údajov: ročne.
 
-- Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+- Lehota na odovzdanie administratívnych údajov: do 31. júla po referenčnom období.
 
 - 4. Názov administratívneho zdroja: Výkaz o kvalite vody
 

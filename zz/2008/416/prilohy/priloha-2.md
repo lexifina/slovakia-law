@@ -12,7 +12,7 @@ Príloha č. 2 k vyhláške č. 416/2008 Z. z.
 
   - 1. | ISCP (MPSVR SR) 1-04 | Štvrťročný výkaz o cene práce
 
-  - 2. | PM (MPSVR SR) 1-04 | Štvrťročný výkaz o pracovných miestach u podnikateľov
+  - 2. | PM (MPSVR SR) 1-04 | Štvrťročný výkaz opracovných miestach u samostatne zárobkovo činných osôb
 
   - 3. | Platy (MPSVR SR) 1-02 | Polročný výkaz o platoch zamestnancov v štátnej službe a zamestnancov pri výkone prác vo verejnom záujme
 
@@ -184,19 +184,11 @@ Príloha č. 2 k vyhláške č. 416/2008 Z. z.
 
   - 84. | Kult (MK SR) 17-01 | Ročný výkaz o divadelných festivaloch a prehliadkach
 
-  - ÚRAD VLÁDY SLOVENSKEJ REPUBLIKY | |
-
-  - 85. | RI (ÚV SR) 1-01 | Ročný výkaz o obytných zoskupeniach – rómskych osídleniach (rok zisťovania 2010)
-
   - MINISTERSTVO VNÚTRA SLOVENSKEJ REPUBLIKY | |
 
   - 86. | PO (MV SR) 1-01 | Ročný výkaz o hasičskej jednotke
 
 III. Ekonomické štatistiky
-
-MINISTERSTVO HOSPODÁRSTVA SLOVENSKEJ REPUBLIKY | |
-
-87. | Priem (MH SR) 3-01 | Ročný výkaz o spotrebe dreva na priemyselné spracovanie
 
 SPRÁVA ŠTÁTNYCH HMOTNÝCH REZERV SLOVENSKEJ REPUBLIKY | |
 
@@ -284,13 +276,7 @@ MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY | |
 
 125. | ML (MP SR) 6-01 | Ročný výkaz o produkcii a využití mlieka v mliekarniach
 
-126. | Les (MP SR) 5-01 | Ročný výkaz o činnosti a hospodárení v neštátnych lesoch
-
-127. | Les (MP SR) 7-01 | Ročný výkaz o nákladoch a výnosoch v lesníckej činnosti
-
-128. | Les (MP SR) 8-01 | Ročný výkaz o stavebnej činnosti v lesníctve
-
-129. | Les (MP SR) 9-01 | Ročný výkaz o stave a využití vlastných mechanizačných prostriedkov v lesnom hospodárstve
+126. | Les (MP SR) 5-01 | Ročný výkaz o stave vybraných ukazovateľov obhospodarovania lesa
 
 130. | Sad (MP SR) 11-01 | Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
 
@@ -298,11 +284,13 @@ MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY | |
 
 132. | Včelár (MP SR) 1-01 | Ročný výkaz o včelárstve
 
-133. | Odh (MP SR) 1-99 | Odhad úrody ovocia
+133. | Odh (MP SR) 1-99 | Odhad úrody ovocia a produkcia ovocia
 
 134. | Usk (MP SR) 3-99 | Výkaz o uskladnení jabĺk a hrušiek
 
 135. | ENERG (MP SR) 1-01 | Ročný výkaz o spotrebe palív, energie a ich cene (rok zisťovania 2011)
+
+135a. | Drevo (MP SR) 1-01 | Ročný výkaz o spracovaní dreva
 
 V. Štatistika týkajúca sa viacerých oblastí | |
 
@@ -330,7 +318,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Podniky zapísané v obchodnom registri, rozpočtové organizácie, príspevkové organizácie a iné neziskové organizácie bez ohľadu na počet zamestnancov a hlavnú činnosť do 250 zamestnancov výberovo, nad 250 zamestnancov vyčerpávajúco.
+- Podniky zapísané v obchodnom registri, rozpočtové organizácie, príspevkové organizácie, samosprávne kraje, obce a neziskové organizácie bez ohľadu na hlavnú činnosť do 100 zamestnancov výberovo, nad 100 zamestnancov vyčerpávajúco.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -344,7 +332,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky v spolupráci so Štatistickým úradom Slovenskej republiky prostredníctvom TREXIMA Bratislava.
 
-- 2. Názov štatistického zisťovania: Štvrťročný výkaz o pracovných miestach u podnikateľov
+- 2. Názov štatistického zisťovania: Štvrťročný výkaz o pracovných miestach u samostatne zárobkovo činných osôb
 
 - Značka štatistického zisťovania: PM (MPSVR SR) 1-04
 
@@ -360,7 +348,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Fyzické osoby zapísané v obchodnom registri a v živnostenskom registri.
+- Podnikatelia – fyzické osoby podnikajúce podľa živnostenského zákona a podnikajúce na základe iného ako živnostenského zákona a samostatne hospodáriaci roľníci.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3018,36 +3006,6 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo kultúry Slovenskej republiky prostredníctvom Divadelného ústavu.
 
-- 85. Názov štatistického zisťovania: Ročný výkaz o obytných zoskupeniach – rómskych osídleniach
-
-- Značka štatistického zisťovania: RI (ÚV SR) 1-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o stave obytných zoskupení, počte a type obydlí, infraštruktúre, výstavbe bytov nižšieho štandardu, počte obyvateľov podľa vekovej vzdelanostnej a jazykovej štruktúre v obytných zoskupeniach – rómskych osídleniach a o realizovaných projektoch a programoch pre rómske komunity. Výsledky zisťovania sa využijú na usmerňovanie politiky vlády a realizáciu programov vlády Slovenskej republiky, regionálnych a miestnych samospráv a mimovládnych organizácií vo vzťahu k rómskym komunitám.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: poloha zoskupenia vo vzťahu k územnému plánu a k obci, počet a typ obydlí v zoskupení, zdroj pitnej vody, kanalizácia, plyn, elektrina, verejné osvetlenie, odvoz odpadu, prístupová cesta, počet obyvateľov v zoskupení a ich veková štruktúra, počet žiakov podľa typov škôl, počet asistentov učiteľa, projekty a aktuálne programy pre rómske komunity podľa druhu aktivity a zdrojov financovania.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Obce.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: jednorazovo (rok zisťovania 2010).
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára 2010.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Úrad vlády Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Úrad vlády Slovenskej republiky.
-
 - 86. Názov štatistického zisťovania: Ročný výkaz o hasičskej jednotke
 
 - Značka štatistického zisťovania: PO (MV SR) 1-01
@@ -3077,42 +3035,6 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo vnútra Slovenskej republiky.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo vnútra Slovenskej republiky prostredníctvom okresných a krajských riaditeľstiev Hasičského a záchranného zboru.
-
-- 87. Názov štatistického zisťovania: Ročný výkaz o spotrebe dreva na priemyselné spracovanie
-
-- Značka štatistického zisťovania: Priem (MH SR) 3-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať základné informácie o spotrebe surového dreva na priemyselné spracovanie. Výsledky zisťovania sa využijú pri analytickej a koncepčnej činnosti v odvetví drevospracujúceho priemyslu a pre potreby medzinárodných organizácií.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: výberové zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: vlastná spotreba surového dreva na priemyselné spracovanie podľa kvalitatívnych tried v členení na ihličnaté a listnaté sortimenty.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Podniky zapísané v obchodnom registri a fyzické osoby zapísané v živnostenskom registri s ročnou spotrebou surového dreva 100 m<sup>3</sup>a viac s činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
-
-- 16.1 – Pilovanie a hobľovanie dreva,
-
-- 16.2 – Výroba výrobkov z dreva, korku, slamy a prúteného materiálu a
-
-- 17.11 – Výroba celulózy.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka po sledovanom období.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo hospodárstva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo hospodárstva Slovenskej republiky.
 
 - 88. Názov štatistického zisťovania: Týždenný výkaz predajcov pohonných látok a palív
 
@@ -3550,7 +3472,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Prevádzkovatelia verejnej železničnej a vodnej dopravy bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
 
-- 49.1 – Osobná železničná doprava, medzimestská.
+- 49.1 – Osobná železničná doprava, medzimestská a
+
+- 50.3 – Vnútrozemská osobná vodná doprava.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3678,7 +3602,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Periodicita štatistického zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára po skončení sledovaného obdobia.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3710,7 +3634,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Periodicita štatistického zisťovania: ročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára po skončení sledovaného obdobia.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3758,31 +3682,13 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Účelom štatistického zisťovania je získať informácie potrebné na vypracovanie prognóz ponuky ošípaných, teliat, jalovíc, kráv, býkov, volov, oviec a kôz na sledovanie porážok a hodnoty nákupu jatočných zvierat podľa akostných tried na zabezpečenie požiadaviek európskeho štatistického systému.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>47a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: zabitie vrátane osobitne naliehavého zabitia zvierat v tonách jatočnej a živej hmotnosti a v kusoch, zabitia a hodnota nákupu podľa akostných tried a podľa jednotlivých druhov jatočných zvierat.
-
-- Mŕtva váha sa sleduje za tieto kategórie zvierat:
-
-– ošípané spolu,
-
-– teľatá,
-
-– jalovice,
-
-– kravy,
-
-– býky,
-
-– voly,
-
-– ovce spolu,
-
-– z toho jahňatá,
-
-– kozy spolu.
+- Charakteristika navrhnutých ukazovateľov: zabitie vrátane osobitne naliehavého zabitia zvierat v tonách jatočnej a živej hmotnosti, v kusoch zabitia, v hodnote nákupu, podľa akostných tried a jednotlivých druhov jatočných zvierat.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -3792,33 +3698,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- 1. Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: mesačne.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 7. kalendárneho dňa po sledovanom období.
-
-- 2. Termíny predkladania orgánom Európskej únie Štatistickým úradom Slovenskej republiky:
-
-– porážky ošípaných, hovädzieho dobytka, oviec a kôz do dvoch mesiacov nasledujúcich po príslušnom mesiaci,
-
-– prognózy ponuky:
-
-- a) ošípané
-
-– do 15. februára, pokiaľ ide o prognózy do tretieho štvrťroka daného roku (vrátane),
-
-– do 15. júna, pokiaľ ide o prognózy do prvého štvrťroka nasledujúceho roku,
-
-– do 15. októbra, pokiaľ ide o prognózy do druhého štvrťroka nasledujúceho roku,
-
-- b) hovädzí dobytok
-
-– do 15. februára, pokiaľ ide o prognózy do prvých šiestich mesiacov nasledujúceho roku,
-
-– do 1. októbra, pokiaľ ide o prognózy do ďalších šiestich mesiacov nasledujúceho roku,
-
-- c) ovce a kozy
-
-– do 1. marca nasledujúceho po zisťovaní, pokiaľ ide o dve šesťmesačné obdobia daného roku.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4444,23 +4326,23 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY Bratislava.
 
-- 126. Názov štatistického zisťovania: Ročný výkaz o činnosti a hospodárení v neštátnych lesoch
+- 126. Názov štatistického zisťovania: Ročný výkaz o stave vybraných ukazovateľov obhospodarovania lesa
 
 - Značka štatistického zisťovania: Les (MP SR) 5-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať základné informácie o lesnej výrobe realizovanej v neštátnych subjektoch lesného hospodárstva na účely štátnej štatistiky. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva, na zostavenie súhrnného lesníckeho ekonomického účtu.
+- Účelom štatistického zisťovania je získať základné informácie o stave vybraných ukazovateľov obhospodarovania lesa v štátnych organizáciách a neštátnych subjektoch lesného hospodárstva na účely štátnej štatistiky. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva, na zostavenie súhrnného lesníckeho ekonomického účtu a pre potreby medzinárodných organizácií.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: výberové zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: vybrané výkony pestovateľskej činnosti, ťažbovej činnosti a prác celospoločenského významu, počet zamestnancov, mzdy zamestnancov, stav a využitie vlastných mechanizačných prostriedkov.
+- Charakteristika navrhnutých ukazovateľov: objem, náklady a výnosy vybraných výkonov v lesníckej a nelesníckej činnosti, druh a hodnota realizovaných investícií, priemerný počet zamestnancov, mzdy zamestnancov, stav a výkon vlastných mechanizačných prostriedkov, doplnkové ekonomické a finančné ukazovatele.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Súkromní vlastníci a obhospodarovatelia lesov, pozemkové spoločenstvá, družstvá, subjekty obhospodarujúce mestské, obecné a cirkevné lesy bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+- Lesy Slovenskej republiky, Banská Bystrica, Štátne lesy Tatranského národného parku, Tatranská Lomnica, Lesopoľnohospodársky majetok Ulič a vybrané neštátne subjekty lesného hospodárstva bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
 
 - 02 – Lesníctvo a ťažba dreva.
 
@@ -4469,96 +4351,6 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 - Periodicita štatistického zisťovania: ročne.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. februára nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra Zvolen.
-
-- 127. Názov štatistického zisťovania: Ročný výkaz o nákladoch a výnosoch v lesníckej činnosti
-
-- Značka štatistického zisťovania: Les (MP SR) 7-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o nákladoch a výnosoch v štátnych organizáciách lesného hospodárstva podľa jednotlivých výkonov lesníckej činnosti. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva, na zostavenie súhrnného lesníckeho ekonomického účtu a na medzinárodné porovnania.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: objem jednotlivých druhov výkonov realizovaný vlastnými prostriedkami a dodávateľským spôsobom, materiálové náklady, odpisy, mzdové náklady, ostatné priame náklady, podiel režijných nákladov, úplné náklady, tržby a výnosy podľa jednotlivých druhov výkonov lesníckej činnosti.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Lesy Slovenskej republiky Banská Bystrica, Štátne lesy Tatranského národného parku, Tatranská Lomnica, Lesopoľnohospodársky majetok Ulič.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra Zvolen.
-
-- 128. Názov štatistického zisťovania: Ročný výkaz o stavebnej činnosti v lesníctve
-
-- Značka štatistického zisťovania: Les (MP SR) 8-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o stavebnej činnosti v štátnych organizáciách lesného hospodárstva. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: investičná výstavba, stavebné rekonštrukcie, opravy a údržba lesných ciest, skladov dreva, objektov zahrádzania bystrín, objektov lesníckych meliorácií, zariadení slúžiacich lesnému hospodárstvu a bytových jednotiek. Ukazovatele sa sledujú v členení na realizované vlastnými prostriedkami a dodávateľským spôsobom v technických jednotkách a v cenách bežného roka.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Lesy Slovenskej republiky Banská Bystrica, Štátne lesy Tatranského národného parku, Tatranská Lomnica, Lesopoľnohospodársky majetok Ulič.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra Zvolen.
-
-- 129. Názov štatistického zisťovania: Ročný výkaz o stave a využití vlastných mechanizačných prostriedkov v lesnom hospodárstve
-
-- Značka štatistického zisťovania: Les (MP SR) 9-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o stave a využití vlastných mechanizačných prostriedkov v štátnych organizáciách lesného hospodárstva. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva a na medzinárodné porovnania.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: inventárny počet a priemerný stav vlastných mechanizačných prostriedkov, počet hodín v prevádzke, celkový výkon a prepravný výkon jednotlivých druhov mechanizačných prostriedkov, doplnkové ukazovatele ťažbových technológií, mechanizácia prác v lesných škôlkach a ostatné doplnkové ukazovatele.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Lesy Slovenskej republiky Banská Bystrica, Štátne lesy Tatranského národného parku, Tatranská Lomnica, Lesopoľnohospodársky majetok Ulič.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4662,25 +4454,27 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Slovenského zväzu včelárov, Spolku včelárov Slovenska a RADELY Bratislava.
 
-- 133. Názov štatistického zisťovania: Odhad úrody ovocia
+- 133. Názov štatistického zisťovania: Odhad úrody ovocia a produkcia ovocia
 
 - Značka štatistického zisťovania: Odh (MP SR) 1-99
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
-- Účelom štatistického zisťovania je získať informácie o odhade celkovej úrody jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
+- Účelom štatistického zisťovania je získať informácie o odhade celkovej úrody jabĺk, hrušiek, broskýň a marhúľ a o produkcii ovocia podľa ovocných druhov a odrôd jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch. Výsledky zisťovania sa využívajú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-- Použitá metóda: vyčerpávajúce zisťovanie.
+- Použitá metóda: vyčerpávajúce zisťovanie
 
-- Charakteristika navrhnutých ukazovateľov: odhad úrody jabĺk, hrušiek, broskýň a marhúľ podľa jednotlivých odrôd, produkčná plocha a celková úroda.
+- Charakteristika navrhnutých ukazovateľov: výmera produkčnej plochy a odhad úrody jabĺk, hrušiek, broskýň a marhúľ podľa jednotlivých odrôd a produkcia ovocia podľa druhov a odrôd jabĺk, hrušiek, broskýň a marhúľ.
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby, ktoré sa zaoberajú ovocinárskou výrobou a produkujú ovocie v sadoch s výmerou 0,15 hektára a viac, z ktorých sa očakáva úroda pre trh, bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+- Právnické osoby, fyzické osoby a samostatne hospodáriaci roľníci, ktorí sa zaoberajú ovocinárskou výrobou a produkujú ovocie v sadoch s výmerou 0,15 hektára a viac, z ktorých sa očakáva úroda pre trh bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom: <sup>5</sup>)
 
-- 01.24 – Pestovanie jadrového a kôstkového ovocia.
+- 01.24 – Pestovanie jadrového a kôstkového ovocia a
+
+- 01.25 – Pestovanie ostatného stromového a kríkového ovocia a orechov.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -4692,7 +4486,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
-- Orgán zabezpečujúci jeho spracovanie: Ústredný kontrolný a skúšobný ústav poľnohospodársky v Bratislave.
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho v Bratislave.
 
 - 134. Názov štatistického zisťovania: Výkaz o uskladnení jabĺk a hrušiek
 
@@ -4765,6 +4559,42 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
 
 - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom RADELY Bratislava.
+
+- 135a. Názov štatistického zisťovania: Ročný výkaz o spracovaní dreva
+
+- Značka štatistického formulára: Drevo (MP SR) 1-01
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať základné informácie o spotrebe drevnej suroviny na priemyselné spracovanie. Výsledky zisťovania sa využijú na účely štátnej štatistiky a pri analytickej, prognostickej a koncepčnej činnosti za odvetvie spracovania dreva.
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: spotreba surového dreva na priemyselné spracovanie podľa kvalitatívnych tried v členení na ihličnaté a listnaté sortimenty.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Podniky zapísané v obchodnom registri a fyzické osoby zapísané v živnostenskom registri s ročnou spotrebou surového dreva 100 m<sup>3</sup> a viac s činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+
+- 16.1 – Pilovanie a hobľovanie dreva,
+
+- 16.2 – Výroba výrobkov z dreva, korku, slamy a prúteného materiálu a
+
+- 17.11 – Výroba celulózy.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita štatistického zisťovania: ročne.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva Slovenskej republiky prostredníctvom Národného lesníckeho centra Zvolen.
 
 - 136. Názov štatistického zisťovania: Výkaz o stave a zmenách zásob výhradných ložísk
 

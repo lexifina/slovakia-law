@@ -14,7 +14,7 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 5. | Org SP 1-01 | Ročný výkaz o skupinách podnikov
 
-- II. DEMOGRAFICKÁ A SOCIÁLNA ŠTATISTIKA Obyvateľstvo | |
+- II. DEMOGRAFICKÁ A SOCIÁLNA ŠTATISTIKAObyvateľstvo | |
 
 - 6. | Obyv 1-12 | Hlásenie o uzavretí manželstva
 
@@ -38,9 +38,7 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 15. | Práca 5-99 | Výkaz o štrajku (výluke)
 
-- 16. | Práca 6-99 | Zisťovanie o práci za obce a samosprávne kraje, (rok zisťovania 2010)
-
-- 17. | Práca 3-01 | Ročný výkaz o práci
+- 16. | Práca 6-99 | Zisťovanie o práci za obce a samosprávne kraje, (rok zisťovania 2011)
 
 - 18. | ÚNP 1-01 | Ročný výkaz o úplných nákladoch práce
 
@@ -117,10 +115,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - 50. | Priem P 6-01 | Ročný podnikový výkaz o výrobe priemyselných výrobkov a priemyselných službách
 
 - 51. | Oceľ 1-01 | Ročný výkaz o oceli a železe
-
-- Vodné hospodárstvo | |
-
-- 52. | Vod 1-01 | Ročný výkaz o prevádzke vodovodov a kanalizácií
 
 - Stavebníctvo | |
 
@@ -760,41 +754,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: raz za štyri roky, (rok zisťovania 2010).
+- Periodicita štatistického zisťovania: raz za štyri roky, (rok zisťovania 2011).
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 14. júla sledovaného roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Košiciach.
-
-- 17. Názov štatistického zisťovania: Ročný výkaz o práci
-
-- Značka štatistického zisťovania: Práca 3-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o vývoji a štruktúre zamestnanosti a miezd podľa okresov Slovenskej republiky pre potreby regionálnych prehľadov, pre úpravy v sociálnej oblasti, o vývoji na trhu práce a podobne.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>9</sup>)
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: evidenčný počet zamestnancov k poslednému dňu roka spolu, z toho ženy, priemerný evidenčný počet zamestnancov za rok, z toho ženy, vyplatené mzdy a náhrady mzdy za organizáciu podľa sídla pracovísk, z toho vyplatené ženám, priemerný počet obsadených pracovných miest za rok, priemerný počet voľných (neobsadených) pracovných miest za rok, priemerný počet obsadených pracovných miest za rok a priemerný počet voľných (neobsadených) pracovných miest za rok podľa tried Klasifikácie zamestnaní ustanovenej osobitným predpisom.<sup>8</sup>)
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Podniky zapísané v obchodnom registri, s počtom zamestnancov 20 a viac, organizácie s počtom zamestnancov 0 až 19 s ročnými tržbami za vlastné výkony a tovar 5 miliónov eur a viac, príspevkové organizácie, samosprávne kraje, miestne orgány štátnej správy, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie poskytujúce verejnoprospešné služby, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske združenia, stavovské organizácie – profesné komory, komory, záujmové združenia právnických osôb, organizácie a združenia s medzinárodným prvkom, bez ohľadu na počet zamestnancov a hlavnú činnosť, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 5. februára nasledujúceho roka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2130,40 +2092,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Banskej Bystrici.
 
-- 52. Názov štatistického zisťovania: Ročný výkaz o prevádzke vodovodov a kanalizácií
-
-- Značka štatistického zisťovania: Vod 1-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o správe a prevádzke vodovodov a kanalizácií vo vlastníctve obcí a vo vlastníctve všetkých subjektov zaoberajúcich sa výrobou, úpravou a rozvodom vody, resp. odvádzaním a čistením vody. Výsledky zisťovania sa využijú na analytické účely štatistiky, pri tvorbe štatistických ročeniek a publikácií.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: vodovody a kanalizačná sieť, kalové hospodárstvo, počet vodovodov, dĺžka vodovodnej siete, kapacita vodných zdrojov, voda vyrobená, prevzatá, odovzdaná a fakturovaná, počet a kapacita vodojemov, dĺžka kanalizácie, množstvo vypúšťaných vôd do kanalizačnej siete, počet čistiarní odpadových vôd.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Obce a podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
-
-- 36 – Zber, úprava a dodávka vody a
-
-- 37 – Čistenie a odvod odpadových vôd.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trnave.
-
 - 53. Názov štatistického zisťovania: Mesačný podnikový výkaz v stavebníctve
 
 - Značka štatistického zisťovania: Stav P 1-12
@@ -2322,6 +2250,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o výrobe elektriny a tepla ako podklad na zostavenie predbežnej energetickej bilancie. Výsledky zisťovania sa využijú pre potreby medzinárodných organizácií.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
@@ -2351,6 +2281,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o zdrojoch a dodávkach tuhých palív a vybraných plynných palív ako podklad na zostavenie predbežnej energetickej bilancie. Výsledky zisťovania sa využijú pre potreby medzinárodných organizácií.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -2392,13 +2324,123 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o cenách elektriny pre konečných spotrebiteľov, spotrebe elektriny, počte spotrebiteľov a ukazovateľoch zaťaženia podľa kategórií. Výsledky zisťovania sa využijú v publikačnom systéme Štatistického úradu Slovenskej republiky, pre potreby Eurostatu a medzinárodných organizácií.
 
-- Získavanie informácií ustanovuje osobitný predpis.<sup>21</sup>)
-
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: výberové zisťovanie.
 
 - Charakteristika navrhnutých ukazovateľov: priemerná cena elektriny, počet spotrebiteľov, ročná spotreba a ukazovatele zaťaženia v jednotlivých kategóriách spotrebiteľov.
+
+- Ceny elektrickej energie účtované koncovým priemyselným odberateľom sa zisťujú a spracúvajú takto:
+
+- a) ceny, ktoré sa majú vykazovať, sú ceny platené koncovými priemyselnými odberateľmi, ktorí nakupujú elektrickú energiu pre vlastnú potrebu,
+
+- b) do úvahy sa berú všetky spôsoby priemyselného využitia elektrickej energie,
+
+- c) zaznamenané ceny sú založené na systéme štandardných spotrebiteľských pásiem vymedzených rozsahom ročnej spotreby elektrickej energie,
+
+- d) ceny sa budú zisťovať dvakrát ročne, na začiatku každého šesťmesačného obdobia (január a júl), a budú sa vzťahovať na priemerné ceny platené koncovými priemyselnými odberateľmi za elektrickú energiu odobratú v predchádzajúcich šiestich mesiacoch; prvé oznámenie údajov o cenách Eurostatu sa bude týkať stavu k 1. januáru 2008,
+
+- e) ceny sa vyjadria v eurách za kWh,
+
+- f) ceny budú zahŕňať všetky splatné poplatky: sieťové poplatky a poplatky za spotrebovanú energiu po odpočítaní všetkých rabatov alebo prémií a iné poplatky (kapacitné poplatky, uvádzanie na trh, prenájom merača a ostatné s tým súvisiace); poplatky za počiatočné zapojenie sa nezapočítavajú,
+
+- g) ceny sa zaznamenávajú ako priemerné ceny,
+
+- h) vypracujú a zavedú sa nákladovo efektívne postupy s cieľom zaistiť reprezentatívny systém zostavovania údajov, ktorý je založený na týchto pravidlách:
+
+- 1. ceny budú predstavovať vážený priemer cien, pričom ako váhové faktory sa použijú trhové podiely štatisticky skúmaných podnikov dodávajúcich elektrickú energiu; aritmetický priemer cien sa použije iba vtedy, keď nemožno vypočítať vážené hodnoty, aby sa štatistické zisťovanie vzťahovalo na reprezentatívny podiel vnútroštátneho trhu,
+
+- 2. trhové podiely by sa mali zakladať na množstve elektrickej energie, ktoré dodávajúce podniky fakturujú koncovým priemyselným odberateľom; trhové podiely sa vypočítajú podľa možnosti oddelene pre každé pásmo a informácie používané na výpočet váženého priemeru budú podliehať správe, pričom sa budú dodržiavať pravidlá dôvernosti údajov,
+
+- 3. v záujme zachovania dôvernosti ochrany údajov sa údaje týkajúce sa cien budú môcť oznamovať len vtedy, ak budú aspoň traja koncoví odberatelia v každej z kategórií, ktoré sú uvedené v písmene j),
+
+- i) ustanovia sa tri cenové úrovne:
+
+- 1. ceny bez daní a odvodov,
+
+- 2. ceny bez DPH a iných daní s nárokom na odpočet,
+
+- 3. ceny vrátane všetkých daní, odvodov a DPH,
+
+- j) štatistické zisťovanie cien elektrickej energie sa uskutoční pre tieto kategórie koncových priemyselných odberateľov:
+
+- 1. koncový priemyselný odberateľ (ročná spotreba elektriny v MWh),
+
+- 2. najnižšia (najvyššia)
+
+- pásmo IA (do 20)
+
+- pásmo IB (od 20 do 500)
+
+- pásmo IC (od 500 do 2 000)
+
+- pásmo ID (od 2 000 do 20 000)
+
+- pásmo IE (od 20 000 do 70 000)
+
+- pásmo IF (od 70 000 do 150 000),
+
+- k) raz za dva roky sa Eurostatu oznámia spoločne s januárovou správou o cenách aj informácie o používanom systéme zostavovania údajov, najmä opis štatistického zisťovania a jeho rozsah (počet štatisticky skúmaných dodávateľských podnikov, súhrnný percentuálny podiel týkajúci sa zastúpeného trhu a podobne), a kritériá používané na výpočet váženého priemeru cien, ako aj súhrnné údaje o objeme spotreby pre každé pásmo; prvé oznámenie zostavovania údajov sa bude týkať stavu k 1. januáru 2008,
+
+- l) raz ročne sa Eurostatu oznámia spoločne s januárovou správou o cenách aj informácie o hlavných priemerných charakteristikách a faktoroch ovplyvňujúcich oznamované ceny pre každé spotrebiteľské pásmo; informácie budú zahŕňať:
+
+- 1. priemerné faktory zaťaženia pri koncových priemyselných odberateľoch pre každé spotrebiteľské pásmo, ktoré sa vypočítajú na základe celkového množstva dodanej energie a priemerného maximálneho dopytu,
+
+- 2. tabuľku s uvedením rozmedzia napätia,
+
+- 3. opis stálych poplatkov, poplatkov za prenájom merača a ostatných poplatkov,
+
+- m) raz ročne sa spolu s januárovou správou budú vykazovať aj informácie o sadzbách a metódach výpočtu, ako aj opis daní z predaja elektriny koncovým priemyselným odberateľom; opis bude zahŕňať všetky odvody nedaňovej povahy vzťahujúce sa na systémové poplatky a záväzky služby vo verejnom záujme,
+
+- n) opis daní bude obsahovať tri časti:
+
+- 1. dane, odvody a poplatky neuvedené vo faktúrach, ktoré dostávajú koncoví priemyselní odberatelia; položky opísané v tomto bode budú zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny bez daní a odvodov,
+
+- 2. dane a odvody uvedené vo faktúrach, ktoré dostávajú koncoví priemyselní odberatelia a považujú sa za dane a odvody bez nároku na odpočet; položky opísané v tomto bode budú zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny bez DPH a ostatných daní s nárokom na odpočet,
+
+- 3. daň z pridanej hodnoty a ostatné dane s nárokom na odpočet uvedené vo faktúrach, ktoré dostávajú koncoví priemyselní odberatelia; položky opísané v tomto bode budú zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny vrátane všetkých daní, odvodov a DPH,
+
+- o) medzi dane, odvody a poplatky, ktoré možno uplatniť, patrí:
+
+- 1. daň z pridanej hodnoty,
+
+- 2. koncesné poplatky vzťahujúce sa na licencie a poplatky za využívanie pôdy a verejného alebo súkromného majetku a na účely sietí alebo iných zariadení,
+
+- 3. environmentálne dane alebo odvody vzťahujúce sa na podporu obnoviteľných zdrojov energie, kombinovanej výroby elektriny a tepla alebo na poplatky za CO<sub>2</sub>, SO<sub>2</sub> alebo emisie iných látok v súvislosti so zmenou klímy,
+
+- 4. dane za jadrovú energiu a iné dane za inšpekciu, ako sú poplatky za vyradenie jadrových zariadení z prevádzky, poplatky za inšpekciu a poplatky za jadrové zariadenia a podobne,
+
+- 5. ostatné dane alebo odvody súvisiace s odvetvím energetiky, ako sú záväzky a poplatky za služby vo verejnom záujme, odvody na financovanie energetických regulačných orgánov a podobne,
+
+- 6. ostatné dane alebo odvody nesúvisiace s odvetvím energetiky, ako sú vnútroštátne, miestne alebo regionálne dane za spotrebovanú energiu, dane za distribúciu elektriny a podobne,
+
+- p) dane z príjmu, dane týkajúce sa majetku, spotrebné dane za ropné produkty a palivá na iné účely, ako je výroba elektriny, dane z pohonných látok do motorových vozidiel, cestné dane, dane za telekomunikačné, rozhlasové a reklamné licencie, poplatky za licencie, dane z odpadu a podobne sa nebudú zohľadňovať,
+
+- r) raz ročne sa Eurostatu oznámi spoločne s januárovou správou o cenách aj rozpis cien za elektrinu s uvedením ich hlavných prvkov; rozpis cien elektriny na hlavné prvky sa bude vykonávať takto:
+
+- 1. plnou cenou za elektrinu v spotrebiteľskom pásme je celková suma sieťových cien a cien za energiu a dodávku (od výroby po uvedenie na trh s výnimkou sietí) a všetkých daní a odvodov:
+
+- 1a. sieťová cena predstavuje pomer medzi výnosom súvisiacim so sadzbami za prenos a rozvod, zodpovedajúci objemom v kWh v spotrebiteľskom pásme; ak nie sú dostupné údaje o individuálnych objemoch v kWh v pásme, budú poskytnuté odhady,
+
+- 1b. cena za energiu a dodávku je celková cena po odpočítaní sieťovej ceny a všetkých daní a odvodov,
+
+- 1c. dane a odvody pri sieťových cenách,
+
+- 1d. dane a odvody pri cenách za energiu a dodávku,
+
+- 1e. DPH a iné dane s nárokom na odpočet,
+
+- 2. ak sú doplnkové služby označené oddelene, možno ich pripojiť k jednému z dvoch hlavných prvkov takto:
+
+- 2a. sieťová cena bude zahŕňať náklady, sadzby za prenos a rozvod, straty pri prenose a rozvode, sieťové náklady, služby po predaji, náklady na systémové služby a prenájom merača,
+
+- 2b. cena za energiu a dodávku bude zahŕňať náklady, výrobu, akumuláciu, vyrovnávajúcu energiu, náklady na dodanú energiu, služby zákazníkom, riadenie služieb po predaji, meranie a iné náklady na dodávku,
+
+- 2c. iné špecifické náklady, ako sú náklady, ktoré nie sú ani sieťovými nákladmi, ani nákladmi na energiu a dodávku, ani daňami, sa budú vykazovať oddelene,
+
+- s) ak priemyselné predaje pokrýva jedna spoločnosť, môže informácie oznamovať táto spoločnosť; ak tieto predaje pokrýva viac ako jedna spoločnosť, tieto informácie oznamuje Štatistický úrad Slovenskej republiky,
+
+- t) medzi koncových priemyselných odberateľov môžu patriť aj iní nerezidentní odberatelia.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -2424,13 +2466,101 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o cenách zemného plynu pre konečných spotrebiteľov, spotrebe, počte spotrebiteľov a zaťažení podľa kategórií. Výsledky zisťovania sa využijú v publikačnom systéme Štatistického úradu Slovenskej republiky, pre potreby Eurostatu a medzinárodných organizácií.
 
-- Získavanie informácií ustanovuje osobitný predpis.<sup>21</sup>)
-
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: výberové zisťovanie.
 
 - Charakteristika navrhnutých ukazovateľov: priemerná cena zemného plynu, počet spotrebiteľov, ročná spotreba a zaťaženie v jednotlivých kategóriách spotrebiteľov.
+
+- Ceny plynu pre koncových priemyselných odberateľov sa zisťujú a spracúvajú takto:
+
+- a) ceny, ktoré treba oznámiť, sú ceny platené priemyselnými koncovými odberateľmi, ktorí nakupujú zemný plyn distribuovaný prostredníctvom sietí na vlastnú potrebu,
+
+- b) do úvahy sa berú všetky spôsoby priemyselného využitia plynu; z tohto systému sú vyňatí spotrebitelia, ktorí používajú plyn:
+
+- 1. na výrobu elektriny v elektrárňach alebo v kogeneračných zariadeniach,
+
+- 2. na neenergetické účely, napríklad v chemickom priemysle,
+
+- 3. v množstve vyššom ako 4 000 000 gigajoulov ročne,
+
+- c) zaznamenané ceny budú vychádzať zo systému štandardných spotrebiteľských pásiem vymedzených rozsahom ročnej spotreby plynu,
+
+- d) ceny sa budú zisťovať dvakrát ročne, na začiatku každého šesťmesačného obdobia (január a júl), a budú sa vzťahovať na priemerné ceny platené koncovými priemyselnými odberateľmi za plyn odobratý v predchádzajúcich šiestich mesiacoch; prvé oznámenie údajov o cenách Eurostatu sa bude týkať stavu k 1. januáru 2008,
+
+- e) ceny sa musia vyjadriť v eurách za gigajoul; jednotka spotrebovanej energie sa meria na základe spaľovacieho tepla,
+
+- f) ceny musia zahŕňať všetky splatné poplatky: sieťové poplatky a poplatky za spotrebovanú energiu po odpočítaní všetkých rabatov alebo prémií a iné poplatky (prenájom merača, stále poplatky a ostatné s tým súvisiace); poplatky za počiatočné zapojenie sa nezapočítavajú,
+
+- g) ceny sa zaznamenávajú ako vnútroštátne priemerné ceny,
+
+- h) členské štáty vypracujú a zavedú nákladovo efektívne postupy s cieľom zaistiť reprezentatívny systém zostavovania údajov, ktorý je založený na týchto pravidlách:
+
+- 1. ceny budú predstavovať vážený priemer cien, pričom ako váhové faktory sa použijú trhové podiely štatisticky skúmaných podnikov dodávajúcich plyn; aritmetický priemer cien sa použije iba vtedy, keď nemožno vypočítať vážené hodnoty, aby sa štatistické zisťovanie vzťahovalo na reprezentatívny podiel vnútroštátneho trhu,
+
+- 2. trhové podiely sa zakladajú na množstve plynu, ktoré dodávajúce podniky fakturujú koncovým priemyselným odberateľom a budú sa vypočítavať oddelene pre každé pásmo; na informácie používané na výpočet váženého priemeru sa vzťahujú pravidlá o dôvernosti údajov,
+
+- 3. v záujme zachovania dôvernosti sa údaje o cenách oznámia len vtedy, ak budú aspoň traja koncoví odberatelia v každej z kategórií, ktoré sú uvedené v písmene j),
+
+- i) ustanovia sa tri cenové úrovne:
+
+- 1. ceny bez daní a odvodov,
+
+- 2. ceny bez DPH a iných daní s nárokom na odpočet,
+
+- 3. ceny vrátane všetkých daní, odvodov a DPH,
+
+- j) štatistické zisťovanie cien plynu sa uskutoční pre tieto kategórie koncových priemyselných odberateľov:
+
+- 1. koncový priemyselný odberateľ (ročná spotreba plynu v gigajouloch),
+
+- 2. najnižšia (najvyššia)
+
+- pásmo I1 (do 1 000)
+
+- pásmo I2 (od 1 000 do 10 000)
+
+- pásmo I3 (od 10 000 do 100 000)
+
+- pásmo I4 (od 100 000 do 1 000 000)
+
+- pásmo I5 (od 1 000 000 do 4 000 000),
+
+- k) raz za dva roky sa Eurostatu oznámia spoločne s januárovou správou o cenách aj informácie o používanom systéme zostavovania údajov, najmä opis štatistického zisťovania a jeho rozsah (počet štatisticky skúmaných dodávateľských podnikov, súhrnný percentuálny podiel týkajúci sa zastúpeného trhu a podobne) a kritériá používané na výpočet váženého priemeru cien, ako aj súhrnné údaje o objeme spotreby pre každé pásmo; prvé oznámenie zostavovania údajov sa bude týkať stavu k 1. januáru 2008,
+
+- l) raz ročne sa Eurostatu oznámia spoločne s januárovou správou o cenách aj informácie o hlavných priemerných charakteristikách a faktoroch ovplyvňujúcich oznamované ceny pre každé spotrebiteľské pásmo; informácie budú zahŕňať:
+
+- 1. priemerné faktory zaťaženia koncových priemyselných odberateľov pre každé spotrebiteľské pásmo, ktoré sa vypočítajú na základe celkového množstva dodanej energie a priemerného maximálneho dopytu,
+
+- 2. opis zliav poskytovaných, ak ide o prerušiteľné dodávky,
+
+- 3. opis stálych poplatkov, poplatkov za prenájom merača alebo všetkých ostatných poplatkov s významom na vnútroštátnej úrovni,
+
+- m) raz ročne sa spolu s januárovou správou o cenách budú oznamovať aj informácie o sadzbách a metódach výpočtu, ako aj opis daní z predaja plynu koncovým priemyselným odberateľom; opis zahŕňa všetky odvody nedaňovej povahy vzťahujúce sa na systémové poplatky a služby vo verejnom záujme; opis daní bude obsahovať tri časti:
+
+- 1. dane, odvody, odvody nedaňovej povahy, poplatky a všetky ostatné fiškálne poplatky, ktoré nie sú uvedené vo faktúrach predložených koncovým priemyselným odberateľom; položky uvedené v tomto bode budú zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny bez daní a odvodov,
+
+- 2. dane a odvody uvedené vo faktúrach predložených koncovým priemyselným odberateľom a považované za dane a odvody bez nároku na odpočet; položky opísané v tomto bode budú preto zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny bez DPH a ostatných daní s nárokom na odpočet,
+
+- 3. DPH a ostatné dane s nárokom na odpočet uvedené vo faktúrach predložených koncovým priemyselným odberateľom; položky opísané v tomto bode budú zahrnuté do údajov vykazovaných pri cenovej úrovni ako ceny vrátane všetkých daní, odvodov a DPH,
+
+- n) medzi dane, odvody a poplatky patrí:
+
+- 1. daň z pridanej hodnoty,
+
+- 2. koncesné poplatky vzťahujúce sa na licencie a poplatky za využívanie pôdy a verejného alebo súkromného majetku a na účely sietí či iných zariadení,
+
+- 3. environmentálne dane alebo odvody vzťahujúce sa na podporu obnoviteľných zdrojov energie, kombinovanej výroby elektriny a tepla alebo ak ide o poplatky za CO<sub>2</sub>, SO<sub>2</sub>alebo emisie iných látok v súvislosti so zmenou klímy,
+
+- 4. ostatné dane alebo odvody súvisiace s odvetvím energetiky sú služby vo verejnom záujme a poplatky za ne, odvody na financovanie energetických regulačných orgánov a podobne,
+
+- 5. ostatné dane alebo odvody nesúvisiace s odvetvím energetiky sú miestne alebo regionálne dane za spotrebovanú energiu, dane za distribúciu plynu a podobne,
+
+- o) dane z príjmu, majetku, dane z pohonných látok do motorových vozidiel, cestné dane, dane za telekomunikačné, rozhlasové a reklamné licencie, poplatky za licencie, dane z odpadu a podobne sú z tohto opisu vyňaté, pretože sú súčasťou prevádzkových nákladov a vzťahujú sa aj na iné odvetvia alebo činnosti,
+
+- p) ak priemyselné predaje pokrýva jedna spoločnosť, môže informácie oznamovať táto spoločnosť; ak pokrýva tieto predaje viac ako jedna spoločnosť, tieto informácie oznamuje Štatistický úrad Slovenskej republiky,
+
+- r) medzi koncových priemyselných odberateľov môžu patriť aj iní nerezidentní odberatelia.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -2455,6 +2585,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o procesoch výroby kvapalných palív z ropy pre energetickú bilanciu Slovenskej republiky a pre potreby medzinárodných organizácií.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -2486,6 +2618,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o výrobe a spotrebe obnoviteľných druhov palív a o výrobe elektriny a tepla z týchto zdrojov. Výsledky zisťovania sa využijú ako podklad na energetickú bilanciu Slovenskej republiky a pre potreby medzinárodných organizácií.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
@@ -2516,6 +2650,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Účelom štatistického zisťovania je získať informácie o výrobe elektriny a tepla, o počte a druhoch agregátov vrátane ich inštalovaného výkonu a o počte kotlov vrátane ich výkonov ako podklad na zabezpečenie energetickej bilancie Slovenskej republiky a pre potreby medzinárodných organizácií.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
@@ -2545,6 +2681,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o predaji a zásobách tuhých palív v maloobchodnej sieti ako podklad na energetickú bilanciu Slovenskej republiky a pre potreby medzinárodných organizácií.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -2577,6 +2715,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o zdrojoch, potrebách a rozdelení palív a energie. Výsledky zisťovania sa využijú ako podklad na zostavenie energetickej bilancie Slovenskej republiky a pre potreby medzinárodných organizácií.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>20a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -3926,6 +4066,8 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Účelom štatistického zisťovania je získať informácie o oseve jednotlivých druhov poľnohospodárskych plodín k 20. máju. Výsledky zisťovania sa využijú pre časové rady ukazovateľov, publikácie Štatistického úradu Slovenskej republiky, medzinárodné štatistiky, pre správy o vývoji národného hospodárstva, na spracovanie odhadov úrod a na informovanie verejnosti.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>31a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
@@ -3964,6 +4106,8 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Účelom štatistického zisťovania je získať informácie o odhadoch hektárových úrod vybraných poľnohospodárskych plodín podľa stavu k 20. júnu. Výsledky zisťovania sa využijú na organizovanie trhu s poľnohospodárskymi plodinami, pre publikácie Štatistického úradu Slovenskej republiky, pre potreby Eurostatu a na informovanie verejnosti.
 
+- Získavanie informácií ustanovuje osobitný predpis.<sup>31a</sup>)
+
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
 - Použitá metóda: výberové zisťovanie.
@@ -3992,7 +4136,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Nitre.
 
 - 101. Názov štatistického zisťovania: Odhad úrody vybraných poľnohospodárskych plodín podľa stavu k 15. augustu
 
@@ -4001,6 +4145,8 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o odhadoch hektárových úrod vybraných poľnohospodárskych plodín podľa stavu k 15. augustu. Výsledky zisťovania sa využijú na organizovanie trhu s poľnohospodárskymi plodinami, pre publikácie Štatistického úradu Slovenskej republiky, pre potreby Eurostatu a na informovanie verejnosti.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>31a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -4030,7 +4176,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Nitre.
 
 - 102. Názov štatistického zisťovania: Odhad úrody vybraných poľnohospodárskych plodín podľa stavu k 15. septembru
 
@@ -4039,6 +4185,8 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 - a) Účel a využitie výsledkov štatistického zisťovania
 
 - Účelom štatistického zisťovania je získať informácie o odhadoch hektárových úrod vybraných poľnohospodárskych plodín podľa stavu k 15. septembru. Výsledky zisťovania sa využijú na organizovanie trhu s poľnohospodárskymi plodinami, pre publikácie Štatistického úradu Slovenskej republiky, pre potreby Eurostatu a na informovanie verejnosti.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>31a</sup>)
 
 - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -4068,7 +4216,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Nitre.
 
 - 103. Názov štatistického zisťovania: Polročný výkaz o bilancii plodín
 
@@ -4122,107 +4270,11 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - Získavanie informácií ustanovuje osobitný predpis.<sup>32</sup>)
 
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+- b) Vecná (obsahová) charakteristika a postup realizácie štatistického zisťovania
 
 - Použitá metóda: vyčerpávajúce zisťovanie.
 
-- Charakteristika navrhnutých ukazovateľov: zberové plochy a úroda jednotlivých druhov plodín, úroda vybraných druhov ovocia, plocha a vek vinohradov, spotreba hnojív podľa druhov, výmera plôch osiatych oziminami, zámer jarného osevu vybraných plodín, využitie pôdy, počet strojov a zariadení a počet a kapacita ustajňovacích a skladovacích objektov k 31. decembru 2010. Stavy hospodárskych zvierat k 31. decembru podľa druhov - ošípané (domáce zvieratá patriace k druhu Sus), hovädzí dobytok (domáce zvieratá patriace k druhom Bos taurus, Bubalus bubalus a Beefalo), ovce (domáce zvieratá patriace k druhu Ovis), kozy (domáce zvieratá patriace k druhu Capra), hydina a kone, podľa pohlavia, veku a hmotnosti na regionálnej úrovni (územná jednotka NUTS 2).
-
-- Stavy jednotlivých druhov zvierat sa členia podľa nasledujúcich kategórií:
-
-- 1. Ošípané
-
-- a) odstavčatá so živou hmotnosťou menej ako 20 kg,
-
-- b) ošípané so živou hmotnosťou 20 kg a viac, avšak menej ako 50 kg,
-
-- c) ošípané vo výkrme vrátane vyradených kancov a prasníc so živou hmotnosťou:
-
-- 1. 50 kg a viac, avšak menej ako 80 kg,
-
-- 2. 80 kg a viac, avšak menej ako 110 kg,
-
-- 3. 110 kg a viac,
-
-- d) chovné ošípané so živou hmotnosťou 50 kg a viac:
-
-- 1. kance,
-
-- 2. pripustené prasnice, z toho:
-
-- 2a) prasnice, ktoré boli pripustené prvý raz,
-
-- 3. ostatné prasnice, z toho:
-
-- 3a) prasničky, ktoré ešte neboli pripustené.
-
-- 2. Hovädzí dobytok:
-
-- a) hovädzí dobytok do jedného roka veku:
-
-- 1. jatočné teľce,
-
-- 2. ostatné:
-
-- 2a) býčky,
-
-- 2b) jalovičky,
-
-- b) hovädzí dobytok vo veku medzi prvým a druhým rokom:
-
-- 1. býčky,
-
-- 2. jalovičky:
-
-- 2a) jatočný dobytok,
-
-- 2b) ostatné,
-
-- c) hovädzí dobytok vo veku dvoch rokov a viac:
-
-- 1. býky,
-
-- 2. jalovice a kravy:
-
-- 2a) jalovice:
-
-- 2aa) jatočné jalovice,
-
-- 2ab) ostatné,
-
-- 2b) kravy:
-
-- 2ba) dojné,
-
-- 2bb) ostatné,
-
-- d) byvoly:
-
-- 1. chovné byvolie samice,
-
-- 2. ostatné byvoly.
-
-- 3. Ovce:
-
-- a) pripustené bahnice a jahnice:
-
-- 1. pripustené dojné bahnice a dojné
-
-- jahnice,
-
-- 2. ostatné pripustené bahnice a jahnice,
-
-- b) ostatné ovce.
-
-- 4. Kozy:
-
-- a) kozy, ktoré už rodili, a kozy, ktoré už boli pripustené:
-
-- 1. kozy, ktoré už rodili,
-
-- 2. kozy, ktoré boli pripustené prvýkrát,
-
-- b) ostatné kozy.
+- Charakteristika navrhnutých ukazovateľov: zberové plochy a úroda jednotlivých druhov plodín, plocha a vek vinohradov, spotreba hnojív podľa druhov, výmera plôch osiatych oziminami, zámer jarného osevu vybraných plodín, využitie pôdy, počet strojov a zariadení a počet a kapacita ustajňovacích a skladovacích objektov k 31. decembru 2010. Stavy hospodárskych zvierat k 31. decembru podľa druhov (ošípané, hovädzí dobytok, ovce, kozy, hydina a kone), pohlavia, veku a hmotnosti na regionálnej úrovni.
 
 - c) Vymedzenie spravodajských jednotiek
 
@@ -4238,27 +4290,11 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - 01.5 – Zmiešané hospodárstvo.
 
-- d) Periodicita a lehoty na poskytovanie administratívnych údajov:
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- 1. Periodicita štatistického zisťovania: ročne.
+- Periodicita štatistického zisťovania: ročne.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. januára nasledujúceho roka.
-
-- 2. Termíny predkladania orgánom Európskej únie Štatistickým úradom Slovenskej republiky:
-
-– predbežné výsledky stavov
-
-- a) ošípané do 15. februára po referenčnom období,
-
-- b) hovädzí dobytok do 15. februára po referenčnom období,
-
-- c) ovce a kozy do 1. marca po referenčnom období,
-
-– definitívne výsledky stavov ošípaných, hovädzieho dobytka, oviec a kôz do 1. apríla po referenčnom období,
-
-– regionálne členenie stavov ošípaných, hovädzieho dobytka, oviec a kôz do 15. mája po referenčnom období,
-
-– členenie stavov ošípaných, hovädzieho dobytka, oviec a kôz podľa veľkostných tried v nepárnych rokoch do 15. mája po referenčnom období
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
