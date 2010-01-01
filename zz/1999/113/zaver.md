@@ -1,1 +1,0 @@
-Gabriel Palacka v. r.
