@@ -50,6 +50,50 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 12. V § 68 ods. 7 sa slová „za kalendárny rok“ nahrádzajú slovami „v kalendárnom roku“.
 
+- 13. § 72 znie:
+
+- „§ 72
+
+- (1)
+
+- Počet rokov dôchodkového poistenia na vznik nároku na invalidný dôchodok poistenca vo veku
+
+- a)
+
+- do 20 rokov je menej ako jeden rok,
+
+- b)
+
+- nad 20 rokov do 24 rokov je najmenej jeden rok,
+
+- c)
+
+- nad 24 rokov do 28 rokov je najmenej dva roky,
+
+- d)
+
+- nad 28 rokov do 34 rokov je najmenej päť rokov,
+
+- e)
+
+- nad 34 rokov do 40 rokov je najmenej osem rokov,
+
+- f)
+
+- nad 40 rokov do 45 rokov je najmenej 10 rokov,
+
+- g)
+
+- nad 45 rokov je najmenej 15 rokov.
+
+- (2)
+
+- Počet rokov dôchodkového poistenia na vznik nároku na invalidný dôchodok sa zisťuje z obdobia pred vznikom invalidity.
+
+- (3)
+
+- Poistencovi, ktorý sa stal invalidný v dôsledku pracovného úrazu alebo choroby z povolania, a fyzickej osobe, ktorá sa stala invalidná v období, v ktorom je nezaopatrené dieťa alebo doktorand v dennej forme štúdia a nedovŕšila 26 rokov veku, sa podmienka počtu rokov dôchodkového poistenia uvedená v odseku 1 považuje za splnenú.“.
+
 - 14. V § 74 sa vypúšťa odsek 4.
 
   - Doterajšie odseky 5 až 7 sa označujú ako odseky 4 až 6.
@@ -245,6 +289,32 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - (2)
 
 - O sume starobného dôchodku podľa odseku 1 Sociálna poisťovňa rozhodne najneskôr do 31. decembra 2010.
+
+- § 293ax
+
+- (1)
+
+- Poistencovi, ktorému nevznikol nárok na invalidný dôchodok alebo čiastočný invalidný dôchodok podľa predpisov účinných pred 1. januárom 2010 z dôvodu nezískania potrebného počtu rokov dôchodkového poistenia a ktorý nesplnil podmienky nároku na starobný dôchodok alebo nebol mu priznaný predčasný starobný dôchodok, Sociálna poisťovňa na jeho žiadosť znovu posúdi dlhodobo nepriaznivý zdravotný stav a rozhodne o nároku na invalidný dôchodok a o jeho sume podľa zákona účinného od 1. januára 2010.
+
+- (2)
+
+- Ak po posúdení dlhodobo nepriaznivého zdravotného stavu po 31. decembri 2009 je poistenec uznaný invalidný, vznik invalidity sa znovu určí najskôr od 1. januára 2010.
+
+- (3)
+
+- Počet rokov dôchodkového poistenia na vznik nároku na invalidný dôchodok sa zisťuje z obdobia predo dňom, od ktorého bol určený vznik invalidity po 31. decembri 2009.
+
+- (4)
+
+- Rozhodujúcim obdobím na zistenie priemerného osobného mzdového bodu sú kalendárne roky pred rokom, v ktorom boli splnené podmienky nároku na invalidný dôchodok podľa zákona účinného od 1. januára 2010.
+
+- (5)
+
+- Na účely určenia sumy invalidného dôchodku poistenca sa do obdobia dôchodkového poistenia získaného ku dňu vzniku nároku na invalidný dôchodok pripočíta obdobie od vzniku nároku na invalidný dôchodok do dovŕšenia dôchodkového veku podľa zákona účinného od 1. januára 2010.
+
+- (6)
+
+- Ak poistenec uvedený v odseku 1 splní podmienky nároku na invalidný dôchodok podľa zákona účinného od 1. januára 2010, invalidný dôchodok sa prizná odo dňa vzniku invalidity najskôr od 1. januára 2010.
 
 - § 293ay
 
