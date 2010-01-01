@@ -336,6 +336,16 @@ Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektor�
 
 - Doterajšie písmená e) až n) sa označujú ako písmená g) až p).
 
+- 15. V § 39 sa odsek 1 dopĺňa písmenami r) a s), ktoré znejú:
+
+- „r)
+
+- zabezpečuje odoberanie vzoriek lodných palív určených na spálenie počas prevádzky plavidla na náklady kontrolovaných subjektov a zabezpečuje ich analýzy; toto ustanovenie sa nevzťahuje na plavidlá, ktoré počas státia v prístave vypnú všetky motory a používajú pobrežnú elektrickú energiu a plavidiel, ktoré podľa uverejneného cestovného poriadku stoja v prístave menej ako dve hodiny,
+
+- s)
+
+- na základe odberov vzoriek lodných palív a ich analýz zasiela ministerstvu správu o počte vykonaných kontrol, o počte a množstve testovaných vzoriek a o priemernom obsahu síry v lodných palivách každoročne do 31. mája.“.
+
 - 16. V § 39 odsek 4 znie:
 
 - „(4)
@@ -347,6 +357,14 @@ Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektor�
   - „24a)
 
   - Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.“.
+
+- 17. V § 40 sa vkladá nový odsek 1, ktorý znie:
+
+- „(1)
+
+- Ministerstvo uloží pokutu od 5 000 Sk do 50 000 Sk dopravcovi, ak poruší oznamovaciu povinnosť podľa § 21a ods. 4.“.
+
+- Doterajšie odseky 1 až 8 sa označujú ako odseky 2 až 9.
 
 - 18. V § 40 ods. 3 v úvodnej vete sa slová „môže uložiť" nahrádzajú slovom „uloží".
 
