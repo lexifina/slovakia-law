@@ -94,6 +94,16 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Poznámky:Ak odvolanie smeruje iba proti výroku o výchove a výžive maloletého dieťaťa, poplatok sa neplatí. |
 
+- Položka 9a |
+
+- Za konanie |
+
+- a) vo veciach určenia neplatnosti zmluvy alebo rámcovej dohody podľa osobitného predpisu<sup>3</sup>) | 15 000 eur
+
+- b) vo veciach určenia neplatnosti zmluvy alebo rámcovej dohody podľa osobitného predpisu,<sup>3</sup>) ak ide o zákazku na uskutočnenie stavebných prác | 100 000 eur
+
+- c) vo veciach určenia neplatnosti koncesnej zmluvy na práce podľa osobitného predpisu<sup>3</sup>) | 100 000 eur.
+
 - Položka 10 |
 
 - a) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy na základe žaloby | 66 eur

@@ -8,7 +8,7 @@
 
 - 2) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
-- 3) Zákon č. 757/2004 Z. z.
+- 3) § 148a zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3a) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
