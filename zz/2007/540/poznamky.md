@@ -8,6 +8,8 @@
 
 - 5) § 17a ods. 2 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
 
+- 5a) § 22 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 6) § 17a ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 7) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
