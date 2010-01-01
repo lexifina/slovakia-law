@@ -242,6 +242,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - Ďalšie vzdelávanie zdravotníckeho pracovníka zahŕňa špecializačné štúdium na výkon špecializovaných pracovných činností, certifikačnú prípravu na výkon certifikovaných pracovných činností a sústavné vzdelávanie. Ďalšie vzdelávanie iného zdravotníckeho pracovníka podľa § 27 ods. 2 zahŕňa aj prípravu na výkon práce v zdravotníctve. Požiadavka prípravy na výkon práce v zdravotníctve neplatí, ak iný zdravotnícky pracovník podľa § 27 ods. 2 získal vysokoškolské vzdelanie, ktorému predchádzalo získanie odbornej spôsobilosti na výkon zdravotníckeho povolania podľa § 27 ods. 1.“.
 
+- 13. § 40 sa dopĺňa odsekom 21, ktorý znie:
+
+- „(21)
+
+- Minimálne požiadavky na kurzy a skúšky inštruktorov prvej pomoci a minimálne požiadavky na kurzy prvej pomoci a skúšky z poskytovania prvej pomoci ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s Ministerstvom vnútra Slovenskej republiky.“.
+
 - 14. V § 41 ods. 3 sa slová „[§ 27 písm. i)]“ nahrádzajú slovami „podľa § 27 ods. 2“.
 
 - 15. § 41 sa dopĺňa odsekom 6, ktorý znie:
