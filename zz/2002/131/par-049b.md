@@ -2,21 +2,23 @@
 
 (1) Zahraničná vysoká škola je povinná
 
-- a) každoročne vypracovať, predložiť ministerstvu a zverejniť výročnú správu o činnosti zahraničnej vysokej školy na území Slovenskej republiky (ďalej len „výročná správa o činnosti zahraničnej vysokej školy") v termíne a formou, ktorú určí ministerstvo,
+- a) udržiavať a zverejniť zoznam uskutočňovaných akreditovaných študijných programov zahraničnej vysokej školy podľa tohto zákona; zahraničná vysoká škola zaradí nový študijný program do zoznamu akreditovaných študijných programov zahraničnej vysokej školy po priznaní práva udeľovať absolventom tohto študijného programu akademický titul podľa § 83 ods. 1,
 
-- b) vypracovať a predložiť ministerstvu dlhodobý zámer pôsobenia na území Slovenskej republiky v termíne určenom ministerstvom,
+- b) každoročne vypracovať, predložiť ministerstvu a zverejniť výročnú správu o činnosti zahraničnej vysokej školy na území Slovenskej republiky (ďalej len „výročná správa o činnosti zahraničnej vysokej školy") v termíne a formou, ktorú určí ministerstvo,
 
-- c) bezplatne poskytovať ministerstvu a Akreditačnej komisii na ich žiadosť v určených termínoch informácie potrebné na ich činnosť podľa tohto zákona,
+- c) vypracovať a predložiť ministerstvu dlhodobý zámer pôsobenia na území Slovenskej republiky v termíne určenom ministerstvom,
 
-- d) písomne poskytovať ministerstvu do 30. apríla údaje o príjmoch a výdavkoch, výnosoch a nákladoch vynaložených na vzdelávanie za predchádzajúci kalendárny rok v súvislosti s ich pôsobením v Slovenskej republike,
+- d) bezplatne poskytovať ministerstvu a Akreditačnej komisii na ich žiadosť v určených termínoch informácie potrebné na ich činnosť podľa tohto zákona,
 
-- e) poskytovať a aktualizovať údaje do centrálneho registra študentov o študentoch študujúcich na území Slovenskej republiky (§ 73),
+- e) písomne poskytovať ministerstvu do 30. apríla údaje o príjmoch a výdavkoch, výnosoch a nákladoch vynaložených na vzdelávanie za predchádzajúci kalendárny rok v súvislosti s ich pôsobením v Slovenskej republike,
 
-- f) poskytovať a aktualizovať údaje do registra zamestnancov o zamestnancoch pôsobiacich na území Slovenskej republiky (§ 80aa),
+- f) poskytovať a aktualizovať údaje do centrálneho registra študentov o študentoch študujúcich na území Slovenskej republiky (§ 73),
 
-- g) oznámiť ministerstvu zrušenie zahraničnej vysokej školy a
+- g) poskytovať a aktualizovať údaje do registra zamestnancov o zamestnancoch pôsobiacich na území Slovenskej republiky (§ 80aa),
 
-- h) informovať ministerstvo o skončení poskytovania vysokoškolského vzdelávania na základe oprávnenia.
+- h) oznámiť ministerstvu zrušenie zahraničnej vysokej školy a
+
+- i) informovať ministerstvo o skončení poskytovania vysokoškolského vzdelávania na základe oprávnenia.
 
 (2) Na obsah výročnej správy o činnosti zahraničnej vysokej školy sa primerane vzťahuje § 20 ods. 2.
 

@@ -26,6 +26,12 @@
 
 - 10) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z. v znení zákona č. 581/2004 Z. z.
 
+- 11) § 663 až 684 a § 720 až 723 Občianskeho zákonníka.
+
+- 12) § 659 až 662 Občianskeho zákonníka.
+
+- 13) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
+
 - 15) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
 - 16) Zákon č. 431/2002 Z. z.
