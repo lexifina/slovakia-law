@@ -16,7 +16,7 @@
 
   - 3. brigádny generál až generál vymenúva alebo povyšuje prezident Slovenskej republiky.
 
-(3) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. h) štvrtom bode v hodnostnom zbore
+(3) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. g) štvrtom bode v hodnostnom zbore
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
@@ -28,7 +28,7 @@
 
   - 2. brigádny generál až generál, vymenúva alebo povyšuje prezident Slovenskej republiky.
 
-(4) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. h) piatom bode v hodnostnom zbore
+(4) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. g) piatom bode v hodnostnom zbore
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
