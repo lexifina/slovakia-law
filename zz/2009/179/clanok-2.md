@@ -8,6 +8,46 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
 - Rada školy pri základných školách zriadených podľa § 6 ods. 1 vyzve príslušný krajský školský úrad a Štátnu školskú inšpekciu na delegovanie svojich zástupcov do rady školy na účely výberového konania s riadnym hlasom. Rada školy pri stredných školách zriadených podľa § 9 ods. 1 vyzve príslušný krajský školský úrad, Štátnu školskú inšpekciu a jedného delegovaného zástupcu samosprávneho kraja s riadnym hlasom; v stredných zdravotníckych školách zriadených podľa § 9 ods. 1 je prizývaný delegovaný zástupca Ministerstva zdravotníctva Slovenskej republiky.“.
 
+- 2. V § 6 sa odsek 12 dopĺňa písmenami c) až g), ktoré znejú:
+
+- „c)
+
+- poskytuje každoročne zriaďovateľom podľa písmena b) finančné prostriedky na kalendárny rok podľa
+
+- 1.
+
+- počtu žiakov základných umeleckých škôl, poslucháčov jazykových škôl a detí materských škôl<sup>30b</sup>) a školských zariadení podľa stavu k 15. septembru predchádzajúceho kalendárneho roka; v školských zariadeniach výchovného poradenstva a prevencie podľa počtu evidovaných detí za uplynulý školský rok, v špeciálnych výchovných zariadeniach, v materských školách<sup>30b</sup>) pri zdravotníckom zariadení a v školských kluboch detí pri zdravotníckom zariadení podľa skutočného priemerného denného počtu detí za uplynulý školský rok a v zariadeniach školského stravovania podľa počtu všetkých žiakov školy, a
+
+- 2.
+
+- výšky dotácie na žiaka základnej umeleckej školy, poslucháča jazykovej školy, dieťa materskej školy<sup>30b</sup>) a dieťa školského zariadenia na príslušný kalendárny rok,
+
+- d)
+
+- určí výšku dotácie na prevádzku a mzdy na žiaka základnej umeleckej školy, poslucháča jazykovej školy, dieťa materskej školy<sup>30b</sup>) a dieťa školského zariadenia na príslušný kalendárny rok všeobecne záväzným nariadením,<sup>30d</sup>)
+
+- e)
+
+- oznámi zriaďovateľom podľa písmena b) výšku dotácie na kalendárny rok najneskôr do 30 pracovných dní po nadobudnutí zákona o štátnom rozpočte,
+
+- f)
+
+- poskytuje každoročne zriaďovateľom podľa písmena b) finančné prostriedky na kalendárny rok podľa osobitného predpisu,<sup>30e</sup>)
+
+- g)
+
+- v období rokov 2010 a 2011 poskytne na žiaka cirkevnej základnej umeleckej školy, poslucháča cirkevnej jazykovej školy, dieťa cirkevnej materskej školy<sup>30b</sup>) a dieťa cirkevného školského zariadenia dotáciu vo výške najmenej 88 % z dotácie na žiaka základnej umeleckej školy, poslucháča jazykovej školy, dieťa materskej školy<sup>30b</sup>) a dieťa školského zariadenia v zriaďovateľskej pôsobnosti obce.“.
+
+- Poznámky pod čiarou k odkazom 30d a 30e znejú:
+
+- „30d)
+
+- § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
+
+- 30e)
+
+- Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 3. V § 8 odsek 7 znie:
 
 - „(7)
@@ -19,6 +59,42 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 - „(9)
 
 - Z prostriedkov štátneho rozpočtu sa môžu uhradiť zákonnému zástupcovi žiaka s trvalým pobytom v obci, ktorá nemá zriadenú základnú školu, cestovné náklady na dopravu žiaka do najbližšej cirkevnej základnej školy. Z prostriedkov štátneho rozpočtu sa môžu uhradiť zákonnému zástupcovi žiaka cirkevnej základnej školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami cestovné náklady na dopravu žiaka do najbližšej cirkevnej základnej školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami s príslušným zdravotným znevýhodnením alebo nadaním, ak v mieste trvalého pobytu žiaka nie je zriadená základná škola pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami s príslušným zdravotným znevýhodnením alebo nadaním v zriaďovateľskej pôsobnosti iného zriaďovateľa.“.
+
+- 5. V § 9 sa odsek 12 dopĺňa písmenami c) až g), ktoré znejú:
+
+- „c)
+
+- poskytuje každoročne zriaďovateľom podľa písmena b) finančné prostriedky na kalendárny rok podľa
+
+- 1.
+
+- počtu žiakov základných umeleckých škôl, poslucháčov jazykových škôl a detí školských zariadení podľa stavu k 15. septembru predchádzajúceho kalendárneho roka; v školských zariadeniach výchovného poradenstva a prevencie podľa počtu evidovaných detí za uplynulý školský rok, v špeciálnych výchovných zariadeniach podľa skutočného priemerného denného počtu detí za uplynulý školský rok a v zariadeniach školského stravovania podľa počtu všetkých žiakov školy, a
+
+- 2.
+
+- výšky dotácie na žiaka základnej umeleckej školy, poslucháča jazykovej školy a dieťa školského zariadenia na príslušný kalendárny rok,
+
+- d)
+
+- určí výšku dotácie na prevádzku a mzdy na žiaka základnej umeleckej školy, poslucháča jazykovej školy a dieťa školského zariadenia na príslušný kalendárny rok všeobecne záväzným nariadením,<sup>30f</sup>)
+
+- e)
+
+- oznámi zriaďovateľom podľa písmena b) výšku dotácie na kalendárny rok najneskôr do 30 pracovných dní po nadobudnutí zákona o štátnom rozpočte,
+
+- f)
+
+- poskytuje každoročne zriaďovateľom podľa písmena b) finančné prostriedky na kalendárny rok podľa osobitného predpisu,<sup>30e</sup>)
+
+- g)
+
+- v období rokov 2010 a 2011 poskytne na žiaka cirkevnej základnej umeleckej školy, poslucháča cirkevnej jazykovej školy a dieťa cirkevného školského zariadenia dotáciu vo výške najmenej 88 % z dotácie na žiaka základnej umeleckej školy, poslucháča jazykovej školy a dieťa školského zariadenia v zriaďovateľskej pôsobnosti samosprávneho kraja.“.
+
+- Poznámka pod čiarou k odkazu 30f znie:
+
+- „30f)
+
+- § 8 zákona č. 302/2001 Z. z. v znení neskorších predpisov.“.
 
 - 6. § 10 sa dopĺňa odsekom 18, ktorý znie:
 
