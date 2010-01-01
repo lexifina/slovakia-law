@@ -10,15 +10,13 @@
 
 - 5) § 10 až 12 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 6) § 6 zákona č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+- 6) § 7 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
-- 7) § 7 zákona č. 340/2005 Z. z.
+- 7) § 10 zákona č. 186/2009 Z. z.
 
-- 8) § 9 zákona č. 340/2005 Z. z.
+- 8) § 8 zákona č. 186/2009 Z. z.
 
-- 9) § 4 zákona č. 340/2005 Z. z. v znení zákona č. 644/2006 Z. z.
-
-- 10) § 5 zákona č. 340/2005 Z. z. v znení zákona č. 644/2006 Z. z.
+- 9) § 9 zákona č. 186/2009 Z. z.
 
 - 11) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -74,9 +72,15 @@
 
 - 33) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
+- 33a) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 33b) § 22 zákona č. 186/2009 Z. z.
+
+- 33c) § 2 ods. 1 a 4 zákona č. 186/2009 Z. z.
+
 - 34) § 66 Obchodného zákonníka v znení neskorších predpisov.
 
-- 35) Zákon č. 340/2005 Z. z. v znení zákona č. 644/2006 Z. z.
+- 35) § 6 až 10 zákona č. 186/2009 Z. z.
 
 - 36) Občiansky súdny poriadok v znení neskorších predpisov.
 
@@ -121,8 +125,6 @@
 - 51) § 7 ods. 6 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 52) § 23 a 55 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
-
-- 53) § 2 písm. c) zákona č. 340/2005 Z. z.
 
 - 53a) Napríklad zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení zákona č. 445/2008 Z. z.
 
