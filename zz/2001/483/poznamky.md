@@ -10,9 +10,11 @@
 
 - 4) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
 
+- 4a) § 2 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
 - 5) Napríklad zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
-- 6) Napríklad zákon č. 594/2003 Z. z.
+- 6) Napríklad zákon č. 594/2003 Z. z., zákon č. 186/2009 Z. z.
 
 - 7) § 21 ods. 3 a 4 a § 28 ods. 3 Obchodného zákonníka.
 
@@ -88,7 +90,15 @@
 
 - 27) Zákonník práce.
 
-- 27a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+- 27a) § 7 a 8 zákona č. 186/2009 Z. z.
+
+- 27b) § 13 zákona č. 186/2009 Z. z.
+
+- 27c) § 5 ods. 3 zákona č. 186/2009 Z. z.
+
+- 27d) § 21ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 27e) § 22 zákona č. 186/2009 Z. z.
 
 - 28) § 476 až 488 Obchodného zákonníka.
 
