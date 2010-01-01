@@ -1,1 +1,0 @@
-Darina Kyliánová v. r.
