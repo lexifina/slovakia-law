@@ -1226,39 +1226,67 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 70
 
-  - a) Schválenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 995,50 eura
+  - a) Schválenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h <sub>.....</sub> | 995,50 eura
 
-  - b) Schválenie podstatnej zmeny dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 265,50 eura
+  - b) Schválenie podstatnej zmeny dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h <sub>.....</sub> | 265,50 eura
 
-  - c) Schválenie typu ťahaného dráhového vozidla pre železničnú dráhu..... | 331,50 eura
+  - c) Schválenie typu ťahaného dráhového vozidla pre železničnú dráhu <sub>.....</sub> | 331,50 eura
 
-  - d) Schválenie podstatnej zmeny ťahaného dráhového vozidla pre železničnú dráhu ..... | 99,50 eura
+  - d) Schválenie podstatnej zmeny ťahaného dráhového vozidla pre železničnú dráhu <sub>.....</sub> | 99,50 eura
 
-  - e) Schválenie typu výstroja alebo súčasti dráhového vozidla ..... | 66 eur
+  - e) Schválenie typu výstroja alebo súčasti dráhového vozidla <sub>.....</sub> | 66 eur
 
-  - f) Schválenie typu dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy..... | 331,50 eura
+  - f) Schválenie typu dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy <sub>.....</sub> | 331,50 eura
 
-  - g) Schválenie podstatnej zmeny dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy ..... | 99,50 eura
+  - g) Schválenie podstatnej zmeny dráhového vozidla pre električkové dráhy, trolejbusové dráhy alebo existujúce špeciálne dráhy <sub>.....</sub> | 99,50 eura
 
-  - h) Schválenie typu dráhového vozidla pre lanové dráhy ..... | 66 eur
+  - h) Schválenie typu dráhového vozidla pre lanové dráhy <sub>.....</sub> | 66 eur
+
+  - i) Povolenie skúšky koľajového vozidla pre železničné dráhy počas chodu (jazdy) <sub>.....</sub> | 15 eur;
+
+  - j) Vydanie druhého originálu dokladu o schválení typu podľa písmen a) až h) <sub>.....</sub> | 7 eur.
 
   - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d) a g) tejto položky bez zreteľa na počet odchýlok od schváleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie len vtedy, ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. |
 
     - Položka 71
 
-  - a) Vydanie technického preukazu dráhového vozidla pre železničnú dráhu alebo pre špeciálnu dráhu |
+  - a) | Vydanie technického preukazu dráhového vozidla pre železničnú dráhu alebo pre špeciálnu dráhu |
 
-  - 1. nového alebo rekonštruovaného .................................................................................................................... | 33 eur
+  - | 1. nového alebo rekonštruovaného | 33 eur
 
-  - 2. prevádzkovaného ku dňu 1. 10. 1997 ............................................................................................................ | 16,50 eura
+  - | 2. prevádzkovaného ku dňu 1. 10. 1997 | 16,50 eura
 
-  - b) Vydanie technického preukazu dráhového vozidla pre lanovú dráhu ........................................................ | 16,50 eura
+  - b) | Vydanie technického preukazu dráhového vozidla pre lanovú dráhu | 16,50 eura
 
-  - c) Vydanie technického preukazu dráhového vozidla pre električkovú dráhu alebo trolejbusovú dráhu ......... | 23 eur
+  - c) | Vydanie technického preukazu dráhového vozidla pre električkovú dráhu alebo trolejbusovú dráhu | 23 eur
 
-  - d) Zmena údajov v technickom preukaze dráhového vozidla .......................................................................... | 6,50 eura
+  - d) | Zmena údajov v technickom preukaze dráhového vozidla | 6,50 eura
 
-  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmena b) tejto položky len za prvé dráhové vozidlo schváleného typu bez zreteľa na celkový počet dráhových vozidiel. 2. Príslušným dráhovým úradom pre električkové dráhy alebo trolejbusové dráhy je miestne príslušný vyšší územný celok. |
+  - e) | Pridelenie skratky vlastníka železničného vozidla | 115 eur;
+
+  - f) | Zmena registračných údajov vlastníka železničného vozidla | 40 eur;
+
+  - g) | Zrušenie skratky vlastníka železničného vozidla | 20 eur;
+
+  - h) | Povolenie na uvedenie dráhového vozidla do prevádzky | 40 eur;
+
+  - i) | Zmena povolenia na uvedenie dráhového vozidla do prevádzky | 15 eur;
+
+  - j) | Pridelenie evidenčného čísla železničnému vozidlu | 40 eur;
+
+  - k) | Zmena alebo zrušenie evidenčného čísla železničného vozidla | 15 eur;
+
+  - l) | Zaevidovanie železničného vozidla do národného registra železničných vozidiel | 40 eur;
+
+  - m) | Dodatočné povolenie na uvedenie železničného vozidla do prevádzky, ktoré má povolenie na uvedenie do prevádzky v železničnom systéme vydané v inom členskom štáte | 65 eur;
+
+  - n) | Zmena alebo zrušenie dodatočného povolenia podľa písmena m) | 20 eur;
+
+  - o) | Vydanie duplikátu dokladu podľa písmen e) až k) a písmen m) a n) | 7 eur.
+
+  - Poznámky | |
+
+  - 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmena b) tejto položky len za prvé dráhové vozidlo schváleného typu bez zreteľa na celkový počet dráhových vozidiel. 2. Príslušným dráhovým úradom pre električkové dráhy alebo trolejbusové dráhy je miestne príslušný vyšší územný celok. | |
 
     - Položka 72
 
@@ -1352,9 +1380,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie preukazu na vedenie dráhového vozidla na všetkých dráhach okrem lanových dráh | 6,50 eura
 
-  - b) Vykonanie zmeny v preukaze na vedenie dráhového vozidla ....................................................... | 3 eurá
+  - b) Vykonanie zmeny v preukaze na vedenie dráhového vozidla | 3 eurá
 
-  - c) Vydanie bezpečnostného osvedčenia pre dopravcu na celoštátnej alebo regionálnej dráhe | 99,50 eura
+  - c) Vydanie bezpečnostného osvedčenia pre železničný podnik | 99,50 eura
+
+  - d) Vydanie bezpečnostného povolenia pre manažéra infraštruktúry | 200 eur;
+
+  - e) Zmena alebo zrušenie bezpečnostného osvedčenia podľa písmena c), alebo bezpečnostného povolenia podľa písmena d) | 15 eur;
+
+  - f) Vydanie preukazu rušňovodiča | 30 eur;
+
+  - g) Zmena alebo zrušenie preukazu rušňovodiča podľa písmena f) | 15 eur;
+
+  - i) Vydanie duplikátu podľa písmen c) až g) | 7 eur.
 
     - Položka 76
 
@@ -1760,49 +1798,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 89
 
-  - a) Vydanie povolenia na prevádzkovanie |
+  - a) | Vydanie povolenia na prevádzkovanie |
 
-  - 1. regionálnej železničnej dráhy s celkovou dĺžkou do 30 km vrátane ............................................. | 1 659,50 eura
+  - | 1. železničnej trate <sub>.....</sub> | 500 eur;
 
-  - 2. regionálnej železničnej dráhy s celkovou dĺžkou nad 30 km ........................................................ | 2 323,50 eura
+  - | 2. špeciálnej dráhy, lanovej dráhy <sub>.....</sub> | 500 eur;
 
-  - 3. systému vlečiek, zaústeného do jednej železničnej stanice ......................................................... | 995,50 eura
+  - | 3. električkovej dráhy, trolejbusovej dráhy a siete týchto dráh <sub>.....</sub> | 500 eur;
 
-  - 4. jednoduchej železničnej vlečky ........................................................................................................... | 497,50 eura
+  - | 4. vlečky <sub>.....</sub> | 200 eur;
 
-  - 5. existujúcej špeciálnej dráhy ................................................................................................................ | 497,50 eura
+  - b) | Udelenie licencie na prevádzkovanie dopravy |
 
-  - 6. siete električkových dráh alebo trolejbusových dráh ...................................................................... | 995,50 eura
+  - | 1. na železničných tratiach <sub>.....</sub> | 500 eur;
 
-  - b) Udelenie licencie na prevádzkovanie dopravy |
+  - | 2. na špeciálnej dráhe, lanovej dráhe <sub>.....</sub> | 300 eur;
 
-  - 1. na celej sieti celoštátnych železničných dráh .................................................................................... | 59 749 eur
+  - | 3. na sieti električkových dráh trolejbusových dráh <sub>.....</sub> | 300 eur;
 
-  - 2. na jednom traťovom úseku celoštátnych železničných dráh ......................................................... | 8 298 eur
+  - | 4. na jednej linke električkovej dráhy alebo trolejbusovej dráhy <sub>.....</sub> | 100 eur.
 
-  - 3. na regionálnej železničnej dráhe s celkovou dĺžkou do 30 km vrátane ....................................... | 1 659,50 eura
+  - c) | Vydanie povolenia na prevádzkovanie lanovej dráhy vrátane licencie <sub>.....</sub> | 995,50 eura
 
-  - 4. na regionálnej železničnej dráhe s celkovou dĺžkou nad 30 km ................................................... | 2 323,50 eura
+  - d) | Vykonanie zmeny vo vydanom povolení na prevádzkovanie dráhy alebo udelenej licencii na prevádzkovanie dopravy na dráhe <sub>.....</sub> | 66 eur
 
-  - 5. na vlečkovom systéme vrátane obsluhy v prípojovej stanici .......................................................... | 995,50 eura
+  - e) | Vydanie druhého a ďalšieho rovnopisu povolenia alebo licencie <sub>.....</sub> | 6,50 eura
 
-  - 6. na jednoduchej vlečke vrátane obsluhy v prípojovej stanici ........................................................... | 497,50 eura
+  - f) | Zrušenie povolenia na prevádzkovanie dráhy alebo licencie na prevádzkovanie dopravy na dráhe na žiadosť držiteľa <sub>.....</sub> | 33 eur
 
-  - 7. na existujúcej špeciálnej dráhe ............................................................................................................ | 497,50 eura
+  - Poznámka | |
 
-  - 8. na sieti električkových dráh alebo trolejbusových dráh .................................................................... | 995,50 eura
-
-  - 9. na jednej linke električkovej dráhy alebo trolejbusovej dráhy ........................................................ | 331,50 eura
-
-  - c) Vydanie povolenia na prevádzkovanie lanovej dráhy vrátane licencie ............................................ | 995,50 eura
-
-  - d) Vykonanie zmeny vo vydanom povolení na prevádzkovanie dráhy alebo udelenej licencii na prevádzkovanie dopravy na dráhe ......................................................................................................... | 66 eur
-
-  - e) Vydanie druhého a ďalšieho rovnopisu povolenia alebo licencie .................................................. | 6,50 eura
-
-  - f) Zrušenie povolenia na prevádzkovanie dráhy alebo licencie na prevádzkovanie dopravy na dráhe na žiadosť držiteľa ........................................................................................................................ | 33 eur
-
-  - Poznámka Povolenie na prevádzkovanie električkových dráh alebo trolejbusových dráh a licencie na prevádzkovanie dopravy na týchto dráhach vydávajú miestne príslušné vyššie územné celky. |
+  - Povolenie na prevádzkovanie električkových dráh alebo trolejbusových dráh a licencie na prevádzkovanie dopravy na týchto dráhach vydávajú miestne príslušné vyššie územné celky. | |
 
     - Položka 90
 
@@ -2342,35 +2368,41 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 140
 
-  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: |
+  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: | |
 
-  - 1. číselné lotérie ................................................................................................................... | 331,50 eura
+  - 1. číselné lotérie ..... | 331,50 eura |
 
-  - 2. okamžité lotérie ................................................................................................................ | 331,50 eura
+  - 2. okamžité lotérie ..... | 331,50 eura |
 
-  - 3. výherné prístroje, za každý výherný prístroj .................................................................. | 1 493,50 eura
+  - 3. výherné prístroje, za každý výherný prístroj ..... | 1 493,50 eura |
 
-  - 4. stávkové hry okrem kurzových stávok ............................................................................ | 331,50 eura
+  - 4. charitatívne lotérie alebo stávkové hry okrem kurzových stávok ..... | 331,50 eura |
 
-  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ............................... | 331,50 eura
+  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ..... | 331,50 eura |
 
-  - 6. kurzové stávky .................................................................................................................... | 3 319 eur
+  - 6. kurzové stávky ..... | 3 319 eur |
 
-  - 7. hazardné hry v kasíne ...................................................................................................... | 33 193,50 eura
+  - 7. hazardné hry v kasíne ..... | 33 193,50 eura |
 
-  - 8. bingo vrátane špeciálneho binga .................................................................................. | 3 319 eur
+  - 8. hazardné hry v kasíne v rekreačnom komplexe ..... | 100 000 eur |
 
-  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ............................................................................... | 3 319 eur
+  - 9. bingo vrátane špeciálneho binga ..... | 3 319 eur |
 
-  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..................................... | 3 319 eur
+  - 10. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ..... | 3 319 eur |
 
-  - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie alebo tomboly ............................ | 33 eur
+  - 11. hazardné hry neuvedené v prvom bode až desiatom bode ..... | 3 319 eur |
 
-  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri všetkých hazardných hrách ........................................................................ | 33 eur
+  - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartových hier pokrového typu prevádzkovaných mimo kasína, pri ktorých hráči hrajú jeden proti druhému, ..... | 35 eur |
 
-  - d) vydanie identifikačnej karty výherného prístroja ............................................................... | 16,50 eura
+  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri | |
 
-  - e) vydanie identifikačnej karty výherného prístroja ako náhrady za stratenú, zničenú, poškodenú alebo odcudzenú identifikačnú kartu ................................................................ | 16,50 eura
+  - 1. hazardných hrách uvedených v písmene a) prvom až piatom bode ..... | 100 eur |
+
+  - 2. hazardných hrách uvedených v písmene a) šiestom až jedenástom bode ..... | 300 eur |
+
+  - d) vydanie identifikačnej karty výherného prístroja ..... | 16,50 eura |
+
+  - e) vydanie identifikačnej karty výherného prístroja ako náhrady za stratenú, zničenú, poškodenú alebo odcudzenú identifikačnú kartu ..... | 16,50 eura |
 
     - Položka 141
 
