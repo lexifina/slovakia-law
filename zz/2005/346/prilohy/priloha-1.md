@@ -8,7 +8,7 @@ Príloha č. 1 k zákonu č. 346/2005 Z. z.
 
 - desiatnik | 5 rokov | 20 rokov
 
-- čatár | 5 rokov | 16 rokov
+- čatár | 5 rokov | 20 rokov
 
 - rotný | 6 rokov | 21 rokov
 
@@ -24,9 +24,9 @@ Príloha č. 1 k zákonu č. 346/2005 Z. z.
 
 - nadpráporčík | 8 rokov | 32 rokov
 
-- poručík | 5 rokov | 10 rokov
+- poručík | 6 rokov | 11 rokov
 
-- nadporučík | 5 rokov | 14 rokov
+- nadporučík | 6 rokov | 17 rokov
 
 - kapitán | 7 rokov | 20 rokov
 
@@ -34,12 +34,12 @@ Príloha č. 1 k zákonu č. 346/2005 Z. z.
 
 - podplukovník | 7 rokov | 29 rokov
 
-- plukovník | 6 rokov | 32 rokov
+- plukovník | 7 rokov | 32 rokov
 
-- brigádny generál | neustanovuje sa | neustanovuje sa
+- brigádny generál | 6 rokov | neustanovuje sa
 
-- generálmajor | neustanovuje sa | neustanovuje sa
+- generálmajor | 6 rokov | neustanovuje sa
 
-- generálporučík | neustanovuje sa | neustanovuje sa
+- generálporučík | 6 rokov | neustanovuje sa
 
 - generál | neustanovuje sa | neustanovuje sa

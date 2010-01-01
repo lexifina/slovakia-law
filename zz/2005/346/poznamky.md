@@ -28,6 +28,10 @@
 
 - 11a) § 11 Trestného zákona.
 
+- 11b) § 7 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
+
+- 11c) § 80 ods. 4 až 9, § 86a a 87 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
 - 12) § 116 Občianskeho zákonníka.
 
 - 13) Napríklad Základná zmluva medzi Slovenskou republikou a Svätou stolicou (oznámenie č. 326/2001 Z. z.), Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie č. 648/2002 Z. z.), Zmluva č. 250/2002 Z. z. medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami.
@@ -40,9 +44,9 @@
 
 - 17) Zákon č. 215/2004 Z. z.
 
-- 17a) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+- 17a) § 65 ods. 1 a § 66 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- 17b) Nariadenie vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia.
+- 17b) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 18) § 3 ods. 1 a § 18 ods. 3 zákona č. 321/2002 Z. z.
 
@@ -50,11 +54,9 @@
 
 - Zákon č. 124/1992 Zb. o Vojenskej polícii v znení neskorších predpisov.
 
-- 20a) Príloha č. 2 k nariadeniu vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
-
-- 20b) § 7 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
-
 - 20c) Zákon č. 321/2002 Z. z. v znení neskorších predpisov.
+
+- 20d) Napríklad § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z., § 15, 16 a § 22 písm. b) zákona č. 154/2001 Z. z.
 
 - 21) Napríklad § 12 ods. 1 písm. a) až c), e) a f) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -69,6 +71,12 @@
 - 23a) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23b) Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
+
+- 23ba) § 92 ods. 2 a § 93 ods. 1 Trestného zákona.
+
+- 23bb) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 23bc) § 80 ods. 4 až 9 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 23c) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
@@ -87,6 +95,8 @@
 - 28a) Napríklad § 8 ods. 2 zákona č. 154/2001 Z. z., § 3 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z.
 
 - 28b) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 28c) § 70 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 29) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -124,7 +134,7 @@
 
 - 37) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 199/2004 Z. z. colný zákon a o zmene a doplnení niektorých zákonov v znení zákona č. 652/2004 Z. z.
 
-- 38) Zákon Slovenskej národnej rady č. 372/1990 Zb.
+- 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 39) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 152/1998 Z. z. o sťažnostiach, zákon č. 124/1992 Zb., zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
@@ -135,8 +145,6 @@
 - 41a) § 11 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 42) § 27 zákona č. 578/2004 Z. z.
-
-- 43) Nariadenie vlády Slovenskej republiky č. 743/2004 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
 
 - 43a) § 12 ods. 1 písm. a) zákona č. 321/2002 Z. z.
 
