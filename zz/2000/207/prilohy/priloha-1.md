@@ -46,12 +46,6 @@ Príloha č. 1 k vyhláške č. 207/2000 Z. z.
 
 - 3.1 Menovité množstvo (menovitá hmotnosť alebo menovitý objem) vyjadrené v kilogramoch, gramoch, litroch, centilitroch alebo mililitroch a vyznačené číslicami s výškou najmenej 2 mm v rozsahu do 50 g alebo 5 cl vrátane, najmenej 3 mm v rozsahu nad 50 g alebo 5 cl do 200 g alebo 20 cl vrátane, najmenej 4 mm v rozsahu nad 200 g alebo 20 cl do 1 000 g alebo 100 cl vrátane, najmenej 6 mm v rozsahu nad 1 000 g alebo 100 cl. Za týmto údajom nasleduje symbol jednotky, prípadne názov jednotky.
 
-- 3.2 Značku alebo nápis umožňujúci kontrolnému orgánu zistiť baliareň alebo dovozcu.
+- 3.2 Značku alebo nápis umožňujúci kontrolnému orgánu zistiť prevádzkovateľa baliarne, osobu, ktorá nariadila balenie alebo dovozcu.
 
-- 3.3 Značku „e“ s výškou minimálne 3 mm umiestnenú na tom istom mieste ako označenie menovitej hmotnosti alebo menovitého objemu, ktorou baliareň alebo dovozca zaručuje, že označené spotrebiteľské balenie spĺňa požiadavky tejto vyhlášky. Grafické znázornenie značky „e“ je v prílohe č. 6.
-
-- 3.4 Ak je však obalom odmerná nádoba spĺňajúca požiadavky podľa prílohy č. 6 k tejto vyhláške a ak je údaj o menovitom objeme viditeľný za bežných podmienok vystavovania výrobku, vyznačenie menovitého objemu výrobku podľa bodu 3.1 nie je nevyhnutné.
-
-- 3.5 Ustanovenie bodu 3.4 sa však nevzťahuje na prípady, keď menovitý objem označeného spotrebiteľského balenia sa líši od ďalšieho menovitého objemu určeného podľa prílohy č. 3 alebo prílohy č. 4 pre ten istý druh výrobku o menej ako 0,05 l vrátane.
-
-- 3.6 Doplnkový údaj o množstve výrobku v iných ako zákonných jednotkách podľa § 4 ods. 4 zákona sa môže vyznačovať do 31. decembra 2009.
+- 3.3 Značku „e“ s výškou minimálne 3 mm umiestnenú na tom istom mieste ako označenie menovitej hmotnosti alebo menovitého objemu, ktorou prevádzkovateľ baliarne alebo dovozca zaručuje, že označené spotrebiteľské balenie spĺňa požiadavky tejto vyhlášky. Grafické znázornenie značky „e“ je v prílohe č. 6.
