@@ -1,0 +1,3 @@
+# Čl. 9 Záväzné stanovisko ministerstva kultúry pre stavebníka
+
+Účelom záväzného stanoviska ministerstva kultúry pre stavebníka je predchádzať dodatočným zásahom do textu nápisu na pamätníku, pomníku a pamätnej tabuli, ktoré by musel stavebník vykonať na pamätníku, pomníku a pamätnej tabuli, ak by sa zistil nesúlad so zákonom o štátnom jazyku. Záväzné stanovisko je platné, kým pri výkone dohľadu nad dodržiavaním zákona o štátnom jazyku a v správnom konaní o uložení pokuty za porušenie povinností podľa zákona o štátnom jazyku nie je preukázaný opak a nedôjde k jeho zrušeniu ministerstvom kultúry. Dodatočné zrušenie záväzného stanoviska nemôže byť použité v neprospech stavebníka.

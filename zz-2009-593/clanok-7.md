@@ -1,0 +1,3 @@
+# Čl. 7 Vysielanie rozhlasovej programovej služby a vysielanie televíznej programovej služby
+
+Používanie štátneho jazyka, jazyka národnostnej menšiny, cudzieho jazyka a geografického názvu vo vysielaní rozhlasovej programovej služby a vo vysielaní televíznej programovej služby podlieha dohľadu Rady pre vysielanie a retransmisiu podľa§ 5 ods. 1 písm. g) v spojení s § 16 ods. 3 písm. e) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách, ak tým nie je dotknutá právomoc orgánu vyplývajúca zo zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
