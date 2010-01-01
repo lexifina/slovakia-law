@@ -1,0 +1,7 @@
+# § 7a
+
+(1) Ak zdaniteľná osoba, ktorá nie je platiteľom, je príjemcom služby od zahraničnej osoby z iného členského štátu, pri ktorej je povinná platiť daň podľa § 69 ods. 3, je povinná podať daňovému úradu žiadosť o registráciu pre daň pred prijatím služby; žiadosť o registráciu pre daň táto zdaniteľná osoba nepodáva, ak je registrovaná pre daň podľa § 7.
+
+(2) Ak zdaniteľná osoba, ktorá nie je platiteľom a ktorá má v tuzemsku sídlo, miesto podnikania, prevádzkareň, bydlisko alebo sa v tuzemsku obvykle zdržiava, dodáva službu, pri ktorej je miesto dodania podľa § 15 ods. 1 v inom členskom štáte a osobou povinnou platiť daň je príjemca služby, je povinná podať daňovému úradu žiadosť o registráciu pre daň pred dodaním služby; žiadosť o registráciu pre daň táto zdaniteľná osoba nepodáva, ak je registrovaná pre daň podľa § 7.
+
+(3) Daňový úrad je povinný osobu podľa odseku 1 alebo 2 registrovať pre daň, vydať jej osvedčenie o registrácii pre daň a prideliť jej identifikačné číslo pre daň najneskôr do siedmich dní odo dňa doručenia žiadosti o registráciu pre daň.

@@ -34,15 +34,15 @@
 
 - 6ab) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 732/2002 Z. z. o zozname zálohovaných obalov, ktoré nie sú opakovane použiteľné, a o výške zálohy za ne a o výške zálohy za zálohované opakovane použiteľné obaly.
 
+- 6ac) § 116 Občianskeho zákonníka.
+
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 3 zákona č. 507/2001 Z. z. o poštových službách.
 
-- 8) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
-
-- 9) § 20a zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. v znení neskorších predpisov.
+- 8) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -80,13 +80,23 @@
 
 - 24a) § 115 Občianskeho zákonníka.
 
-- 25) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky vozidiel na pozemných komunikáciách v znení neskorších predpisov.
+- 24b) § 19 ods. 2 písm. l) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 60/2009 Z. z.
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 27) § 76 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 27a) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 27b) Nariadenie Rady (EHS) č. 3037/90 z 9. októbra 1990 o štatistickej klasifikácii ekonomických činností v Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 293, 24. 10. 1990) v platnom znení.
+
+- 27c) § 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 27d) § 35 ods. 1 písm. g) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 27e) § 63 ods. 6 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 27f) § 20 ods. 4, 8 a 10 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
