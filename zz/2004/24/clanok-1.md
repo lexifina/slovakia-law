@@ -562,7 +562,11 @@ Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov 
 
 - (13)
 
-- Separovaný zber je zber oddelených zložiek komunálnych odpadov.“.
+- Separovaný zber je zber oddelených zložiek komunálnych odpadov.
+
+- (14)
+
+- Obce sú povinné zaviesť separovaný zber papiera, plastov, kovov, skla a biologicky rozložiteľných odpadov; tým nie je dotknutá povinnosť obce podľa odseku 3 písm. b).“.
 
 - Poznámka pod čiarou k odkazu 49 znie:
 
