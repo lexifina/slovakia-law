@@ -130,7 +130,7 @@
 
 - Čl. 18 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
-- 48) Napríklad zákon č. 95/2002 Z. z. v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov.
+- 48) Napríklad zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z., zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 49) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -156,6 +156,16 @@
 
 - 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
+- 54a) § 8 zákona č. 483/2001 Z. z.
+
+- 54b) § 7 a 8 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 54c) § 13 zákona č. 186/2009 Z. z.
+
+- 54d) § 11 ods. 1 a 2 zákona č. 483/2001 Z. z.
+
+- 54e) §12 zákona č. 186/2009 Z. z.
+
 - 55) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 55a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
@@ -165,6 +175,10 @@
 - 56a) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
+
+- 57a) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 57b) § 22 zákona č. 186/2009 Z. z.
 
 - 58) § 65 Obchodného zákonníka.
 

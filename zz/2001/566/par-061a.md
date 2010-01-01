@@ -1,39 +1,13 @@
 # § 61a
 
-(1) Obchodník s cennými papiermi môže využiť na propagáciu ním poskytovaných investičných služieb a vedľajších služieb vyhľadávanie obchodných príležitostí, prijímanie pokynov od klientov alebo potenciálnych klientov a ich postúpenie, umiestnenie finančných nástrojov a poskytovanie investičného poradenstva v súvislosti s takýmito finančnými nástrojmi a ním ponúkanými investičnými službami a vedľajšími službami viazaných agentov. Viazaný agent je fyzická osoba alebo právnická osoba, ktorá na plnú hmotnú a bezpodmienečnú zodpovednosť obchodníka s cennými papiermi vykonáva pre neho činnosti podľa prvej vety na základe písomnej zmluvy; fyzická osoba alebo právnická osoba môže túto činnosť vykonávať len pre jedného obchodníka s cennými papiermi. Obchodník s cennými papiermi je oprávnený využívať viazaného agenta, len ak je viazaný agent zapísaný v registri podľa odseku 4 alebo v obdobnom registri vedenom v inom členskom štáte.
+(1) Obchodník s cennými papiermi, zahraničný obchodník s cennými papiermi s povolením podľa § 56, banka s oprávnením podľa § 79a ods. 1 alebo zahraničná banka s povolením na vykonávanie bankových činností prostredníctvom jej pobočky na území Slovenskej republiky<sup>54a</sup>) a s oprávnením podľa § 79a ods. 1 môžu využívať na finančné sprostredkovanie v sektore kapitálového trhu samostatných finančných agentov a viazaných finančných agentov podľa osobitného zákona,<sup>54b</sup>) a to len ak sú samostatný finančný agent a viazaný finančný agent zapísaní v registri finančných agentov, finančných poradcov, finančných sprostredkovateľov z iného členského štátu v sektore poistenia alebo zaistenia a viazaných investičných agentov;<sup>54c</sup>) samostatných finančných agentov môžu využívať na finančné sprostredkovanie v sektore kapitálového trhu aj zahraničný obchodník podľa § 65 a 67 a zahraničná banka, ktorá pôsobí na území Slovenskej republiky podľa osobitného zákona.<sup>54d</sup>)
 
-(2) Obchodník s cennými papiermi je povinný zabezpečiť, aby viazaný agent uviedol pri kontakte s klientom alebo pred rokovaním s klientom alebo potenciálnym klientom, v akom je postavení a akého obchodníka s cennými papiermi zastupuje. Obchodník s cennými papiermi je povinný sledovať činnosti svojich viazaných agentov a zabezpečiť dodržiavanie všeobecne záväzných právnych predpisov a jeho vnútorných aktov riadenia pri činnostiach vykonávaných viazaným agentom v mene obchodníka s cennými papiermi.
+(2) Obchodník s cennými papiermi a banka s oprávnením podľa § 79a ods. 1 môžu využívať na propagáciu nimi poskytovaných investičných služieb a vedľajších služieb, vyhľadávanie obchodných príležitostí, prijímanie pokynov od klientov alebo potenciálnych klientov a ich postúpenie, umiestnenie finančných nástrojov a poskytovanie investičného poradenstva v súvislosti s takýmito finančnými nástrojmi a nimi ponúkanými investičnými službami a vedľajšími službami viazaných investičných agentov podľa osobitného zákona,<sup>54e</sup>) a to len ak je viazaný investičný agent zapísaný v registri finančných agentov, finančných poradcov, finančných sprostredkovateľov z iného členského štátu v sektore poistenia alebo zaistenia a viazaných investičných agentov<sup>54c</sup>) alebo v obdobnom registri vedenom v inom členskom štáte.
 
-(3) Viazaný agent nie je oprávnený nakladať s peňažnými prostriedkami ani s finančnými nástrojmi klienta.
+(3) Obchodník s cennými papiermi, zahraničný obchodník s cennými papiermi, banka s oprávnením podľa § 79a ods. 1 a zahraničná banka s oprávnením podľa § 79a ods. 1 môžu využívať na finančné sprostredkovanie v sektore kapitálového trhu a ďalšie činnosti podľa odseku 2 len osoby, ktoré sú oprávnené vykonávať tieto činností.
 
-(4) Zriaďuje sa register viazaných agentov, ktorý vedie Národná banka Slovenska. Do registra viazaných agentov zapíše Národná banka Slovenska osobu, ktorá spĺňa podmienky na zápis podľa tohto zákona.
+(4) Obchodník s cennými papiermi a banka s oprávnením podľa § 79a ods. 1 sú povinní zabezpečiť, aby viazaný investičný agent uviedol pri kontakte s klientom alebo pred rokovaním s klientom alebo potenciálnym klientom, v akom je postavení a ktorú osobu zastupuje.
 
-(5) Na návrh na zápis, zmenu zápisu a zánik zápisu do registra viazaných agentov, podmienky zápisu, zmenu zápisu a zánik zápisu sa primerane vzťahuje § 61 ods. 3 až 7 a 13, pričom odborná skúška sa nevyžaduje. Do registra viazaných agentov možno zapísať len osobu s trvalým pobytom alebo sídlom na území Slovenskej republiky alebo pobočku zahraničnej právnickej osoby; osobu z iného členského štátu možno zapísať, len ak sa v tomto členskom štáte nevedie obdobný register a ak títo viazaní agenti budú konať v mene obchodníka s cennými papiermi so sídlom na území Slovenskej republiky.
+(5) Obchodník s cennými papiermi a banka s oprávnením podľa § 79a ods. 1 sú povinní sledovať činnosti svojich viazaných investičných agentov a zabezpečiť dodržiavanie všeobecne záväzných právnych predpisov a ich vnútorných aktov riadenia pri činnostiach vykonávaných týmito osobami v mene obchodníka s cennými papiermi alebo banky s oprávnením podľa § 79a ods. 1.
 
-(6) Návrh podľa odseku 5 podáva v elektronickej alebo písomnej forme obchodník s cennými papiermi, pre ktorého bude viazaný agent vykonávať činnosť. Obchodník s cennými papiermi je povinný pred podaním návrhu podľa odseku 5 uhradiť poplatok. Ak Národná banka Slovenska návrh podľa prvej vety zamietne, poplatok sa nevracia. Poplatok je príjmom Národnej banky Slovenska.
-
-(7) Do registra viazaných agentov sa zapisujú tieto údaje a ich zmeny:
-
-- a) registračné číslo,
-
-- b) obchodné meno alebo názov alebo meno a priezvisko,
-
-- c) identifikačné číslo alebo rodné číslo,
-
-- d) sídlo alebo adresa trvalého pobytu,
-
-- e) adresa miesta podnikania, ak je odlišná od sídla alebo adresy trvalého pobytu,
-
-- f) názov štátu, na ktorého území viazaný agent vykonáva činnosť,
-
-- g) obchodné meno a sídlo obchodníka s cennými papiermi alebo zahraničného obchodníka s cennými papiermi, ktorý viazaného agenta navrhuje zapísať do registra viazaných agentov,
-
-- h) dátum prijatia úplného návrhu na zápis do registra viazaných agentov,
-
-- i) dátum zápisu do registra viazaných agentov,
-
-- j) dátum zrušenia zápisu do registra viazaných agentov.
-
-(8) Národná banka Slovenska zverejňuje na svojej internetovej stránke údaje z registra viazaných agentov podľa odseku 7 písm. a), b), d) a e).
-
-(9) Na viazaných agentov sa vzťahuje § 61 ods. 9, 13 a 14 primerane.
+(6) Ustanovenia odsekov 2 až 5 sa vzťahujú na zahraničného obchodníka s cennými papiermi podľa § 65 a 67 a zahraničnú banku, ktorá pôsobí na území Slovenskej republiky podľa osobitného zákona,<sup>54d</sup>) ak im využívanie viazaných investičných agentov umožňuje právny predpis ich domovského členského štátu. Zahraničný obchodník s cennými papiermi podľa § 65 a 67 a zahraničná banka, ktorá pôsobí na území Slovenskej republiky podľa osobitného zákona,<sup>54d</sup>) sú oprávnení využívať viazaných investičných agentov z iného členského štátu za podmienok ustanovených právnym predpisom ich domovského členského štátu.
