@@ -1,0 +1,1 @@
+- 2) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
