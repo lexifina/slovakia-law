@@ -12,6 +12,10 @@
 
 - 7a) Napríklad § 69 ods. 6 písm. d) Obchodného zákonníka.
 
+- 7b) § 69a ods. 1 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 7c) § 69 ods. 3 a 4 Obchodného zákonníka v znení neskorších predpisov.
+
 - 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
 - 9) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -40,9 +44,9 @@
 
 - 22) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
-- 22a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Úradný vestník Európskych spoločenstiev L 243, 11. 09. 2002).
+- 22a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 29; Ú. v. ES L 243, 11. 9. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 297/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
 
-- Nariadenie Komisie (ES) č. 1725/2003 z 29. septembra 2003 o prijatí určitých medzinárodných účtovných noriem v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Úradný vestník Európskej únie L 261, 13. 10. 2003) v znení nariadenia Komisie (ES) č. 707/2004 zo 6. apríla 2004 (Úradný vestník Európskej únie L 111, 17. 04. 2004).
+- Nariadenie Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
 - 22aa) § 5 písm. j) zákona č. 594/2003 Z. z.
 
@@ -50,15 +54,13 @@
 
 - 22ab) Napríklad § 17 ods.1 písm. c) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z., Obchodný zákonník.
 
-- 22ac) Medzinárodný účtovný štandard 27 bod 37, Medzinárodné účtovné štandardy 28 a 31, Nariadenie Komisie (ES) č. 2238/2004 z 29. decembra 2004, ktorým sa mení a dopĺňa nariadenie (ES) č. 1725/2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002, pokiaľ ide o IFRS 1, IAS 1 až 10, 12 až 17, 19 až 24, 27 až 38, 40 a 41 a SIC 1 až 7, 11 až 14, 18 až 27, 30 až 33 (Ú. v. EÚ L 394, 31. 12. 2004).
+- 22ac) Medzinárodný účtovný štandard 27 bod 38, Medzinárodné účtovné štandardy 28 a 31, nariadenie (ES) č. 1126/2008 v platnom znení.
 
 - 22ad) § 63 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
-- 22c) § 2 ods. 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
-
-- 23) § 39 Obchodného zákonníka.
+- 22c) § 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 24) Napríklad § 40 zákona č. 483/2001 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z.
 
@@ -88,6 +90,8 @@
 
 - 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
+- 28d) § 40 ods. 2 Obchodného zákonníka v znení neskorších predpisov.
+
 - 29) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 4 zákona č. 34/2002 Z. z.
 
 - 29a) Kategória D prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
@@ -116,6 +120,8 @@
 
 - Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 35aa) § 15 ods. 1 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2009 Z. z.
+
 - 35b) § 20 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 36) § 20 zákona č. 595/2003 Z. z.
@@ -137,6 +143,8 @@
 - 44) Napríklad zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov, zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z., zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z., zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
 
 - 45) § 184 Zákonníka práce.
+
+- 45a) Napríklad zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
 - 46) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 

@@ -6,7 +6,7 @@
 
 - a) celková suma majetku presiahla 165 969 594,40 eura, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
 
-- b) čistý obrat presiahol 165 969 594,40 eura,
+- b) čistý obrat presiahol 165 969 594,40 eura, pričom čistým obratom na tento účel sú výnosy dosiahnuté z predaja výrobkov, tovarov, poskytnutých služieb a iné výnosy súvisiace s bežnou činnosťou účtovnej jednotky po odpočítaní zliav,
 
 - c) priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
 
