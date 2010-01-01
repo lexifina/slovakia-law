@@ -1068,6 +1068,12 @@ Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení zákona č. 
 
 - 91. Poznámka pod čiarou k odkazu 27a sa dopĺňa citáciou „§ 70 zákona č. 328/2002 Z. z. v znení neskorších predpisov“.
 
+- 92. V § 161 sa odsek 15 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- výkonu zamestnania v závodnom požiarnom útvare a závodnom hasičskom útvare.“.
+
 - 93. V § 180 ods. 3 sa vypúšťa slovo „trvalého“.
 
 - 94. § 189 až 191 vrátane nadpisov znejú:
