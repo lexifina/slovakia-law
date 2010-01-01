@@ -2,6 +2,8 @@
 
 - 2) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
+- 2a) § 9a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 478/ 2009 Z. z.
+
 - 3) Napríklad zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov.
 
 - 4) § 2 ods. 1 až 6 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
