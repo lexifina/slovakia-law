@@ -32,19 +32,13 @@
 
 - 8) Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 8a) Zákon č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
-
-- Zákon č. 385/1999 Z. z. o kolektívnom investovaní.
-
-- Zákon č. 330/2000 Z. z. o burze cenných papierov.
+- 8a) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 9) § 11 a § 13 ods. 1 až 4 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní.
 
 - 9a) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
 
 - 9b) § 4, 4a a 5 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
-
-- 9c) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9d) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
