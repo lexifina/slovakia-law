@@ -1,0 +1,11 @@
+## 516
+
+OPATRENIE
+
+Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky
+
+z 1. decembra 2009
+
+## o úprave súm prídavku na dieťa a príplatku k prídavku na dieťa
+
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky podľa § 8 ods. 4 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 554/2008 Z. z. (ďalej len „zákon“) ustanovuje:
