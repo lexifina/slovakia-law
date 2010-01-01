@@ -34,7 +34,7 @@
 
 - 13e) § 4 ods. 3 zákona č. 143/1998 Z. z. v znení zákona č. 544/2004 Z. z.
 
-- 13f) § 4 ods. 2 zákona č. 575/2001 Z. z.
+- 13g) Napríklad § 3 ods. 1 a 2 zákona č. 143/1998 Z. z., čl. 3 písm. c) Dohovoru o medzinárodnom civilnom letectve zo 7. decembra 1944 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohovoru o medzinárodnom civilnom letectve).
 
 - 14) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení zákona č. 143/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
