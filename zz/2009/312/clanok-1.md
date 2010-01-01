@@ -74,6 +74,22 @@ Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení zákona č. 587/2006 Z.
 
 - prostriedky na účtoch Slovenského rozhlasu, ktoré pochádzajú z príjmov podľa § 21 ods. 1 písm. a) a b); na finančné prostriedky vedené na účtoch v Štátnej pokladnici sa vzťahuje osobitný predpis,32a)“.
 
+- 20. V § 21 ods. 1 písmeno b) znie:
+
+- „b)
+
+- príspevok zo štátneho rozpočtu podľa zákona o štátnom rozpočte na príslušný rozpočtový rok poskytnutý na základe zmluvy so štátom a určený na uskutočnenie programov vo verejnom záujme, na uskutočnenie účelových investičných projektov alebo určený na úhradu výdavkov na zabezpečenie vysielania do zahraničia podľa § 5 ods. 1 písm. k),“.
+
+- 21. V § 21 ods. 1 sa vypúšťajú písmená c) a d).
+
+  - Doterajšie písmená e) až k) sa označujú ako písmená c) až i).
+
+- 22. V § 21 ods. 1 písm. f) sa slová „podľa písmen b) a c)“ nahrádzajú slovami „podľa písmena b)“.
+
+- 23. V § 21 ods. 1 písm. g) sa slová „podľa písmena f)“ nahrádzajú slovami „podľa písmena d)“.
+
+- 24. V § 21 ods. 1 písm. i) sa slová „podľa písmena f)“ nahrádzajú slovami „podľa písmena d)“.
+
 - 25. Za § 21 sa vkladá § 21a, ktorý vrátane nadpisu znie:
 
 - „§ 21a
