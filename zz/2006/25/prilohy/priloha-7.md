@@ -11,3 +11,5 @@ Príloha č. 7 k zákonu č. 25/2006 Z. z.
   - 4. Smernica Rady 92/13/EHS z 25. februára 1992, ktorou sa koordinujú zákony, nariadenia a administratívne ustanovenia vzťahujúce sa na aplikáciu pravidiel Spoločenstva na postupy verejného obstarávania subjektmi pôsobiacimi v odvetviach vodného hospodárstva, energetiky, dopravy a telekomunikácií (Smernica o opravných prostriedkoch verejnoprospešných podnikov) (Ú. v. ES L 76, 23. 3. 1992, s. 14).
 
   - 5. Smernica Komisie 2005/51/ES zo 7. septembra 2005, ktorou sa mení a dopĺňa príloha XX k smernici Európskeho parlamentu a Rady 2004/17/ES a príloha VIII k smernici Európskeho parlamentu a Rady 2004/18/ES o verejnom obstarávaní (Ú.v. EÚ L 257, 1. 10. 2005, s. 127).
+
+  - 6. Smernica Európskeho parlamentu a Rady 2007/66/ES z 11. decembra 2007, ktorou sa menia a dopĺňajú smernice Rady 89/665/EHS a 92/13/EHS, pokiaľ ide o zvýšenie účinnosti postupov preskúmania v oblasti zadávania verejných zákaziek (Ú. v. EÚ L 335, 20. 12. 2007)
