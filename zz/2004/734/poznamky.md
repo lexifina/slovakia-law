@@ -1,1 +1,0 @@
-- 1) § 6 ods. 10 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení zákona č. 524/2003 Z. z.
