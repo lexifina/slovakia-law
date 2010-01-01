@@ -251,3 +251,13 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 15. Smernica Rady 2009/116/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínové oleje č. CAS 64742-46-7, č. CAS 72623-86-0 a č. CAS 97862-82-3 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009),
 
 - 16. Smernica Rady 2009/117/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínový olej č. CAS 8042-47-5 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009).
+
+- 17. Smernica Komisie 2009/146/ES z 26. novembra 2009, ktorou sa opravuje smernica 2008/125/ES, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 312, 27. 11. 2009).
+
+- 18. Smernica Komisie 2009/152/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátum skončenia platnosti zaradenia účinnej látky karbendazím do prílohy I (Ú. v. EÚ L 314, 1. 12. 2009).
+
+- 19. Smernica Komisie 2009/153/ES z 30. novembra 2009, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o bežný názov a čistotu účinnej látky hydrolyzované proteíny (Ú. v. EÚ L 314, 1. 12. 2009).
+
+- 20. Smernica Komisie 2009/154/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cyflufenamid medzi účinné látky (Ú. v. EÚ L 314, 1. 12. 2009).
+
+- 21. Smernica Komisie 2009/155/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o požadovanú úroveň čistoty účinnej látky metazachlór (Ú. v. EÚ L 314, 1. 12. 2009).
