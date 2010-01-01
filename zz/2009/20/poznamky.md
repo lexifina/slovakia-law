@@ -2,7 +2,7 @@
 
 - 2) Čl. 121 nariadenia (ES) č. 73/2009.
 
-- 3) Čl. 88 až 92 nariadenia (ES) č. 1782/2003.
+- 3) Čl. 68 ods. 1 písm. b) nariadenia (ES) č. 73/2009.
 
 - 4) Čl. 126 nariadenia (ES) č. 73/2009.
 
@@ -20,33 +20,11 @@
 
 - 11) Čl. 33 nariadenia Komisie (ES) č. 796/2004 z 21. apríla 2004, ktoré ustanovuje podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadení Rady (ES) č. 1782/2003, ktorým sa ustanovujú spoločné pravidlá pre režimy priamej podpory v rámci spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení.
 
-- 12) Čl. 24 nariadenia Komisie (ES) č. 1973/2004 z 29. októbra 2004 ustanovujúceho podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1782/2003 o schémach podpory stanovených v hlavách IV a IVa tohto nariadenia a využití pozemkov vyňatých z produkcie na výrobu surovín (Ú. v. EÚ L 345, 20. 11. 2004) v platnom znení.
+- 12) Čl. 18 až 20 nariadenia Rady (ES) č. 1257/1999 zo 17. mája 1999 o podpore rozvoja vidieka z Európskeho poľnohospodárskeho usmerňovacieho a záručného fondu (EPUZF) a ktorým sa menia a rušia niektoré nariadenia (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 25).
 
-- 13) Čl. 88 nariadenia (ES) č. 1782/2003.
+- 13) § 19 ods. 1 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 14) Čl. 25 nariadenia (ES) č. 1973/2004.
-
-- 15) Čl. 23 písm. d) nariadenia (ES) č. 1973/2004.
-
-- 16) Čl. 23 písm. e) nariadenia (ES) č. 1973/2004.
-
-- 17) Čl. 33 ods. 2 nariadenia (ES) č. 1973/2004.
-
-- 18) Čl. 25 ods. 4 nariadenia (ES) č. 1973/2004.
-
-- 19) Čl. 25 ods. 2 nariadenia (ES) č. 1973/2004.
-
-- 20) Čl. 28 nariadenia (ES) č. 1973/2004.
-
-- 21) Napríklad nariadenie (ES) č. 796/2004, čl. 37 ods. 3 nariadenia (ES) č. 1973/2004, § 7 ods. 1 písm. t) zákona č. 543/2007 Z. z.
-
-- 22) Čl. 27 ods. 2 nariadenia (ES) č. 1973/2004.
-
-- 23) Čl. 32 nariadenia (ES) č. 1973/2004.
-
-- 24) Čl. 37 ods. 4 a 5 nariadenia (ES) č. 1973/2004.
-
-- § 7 ods. 1 písm. t) zákona č. 543/2007 Z. z.
 
 - 25) Nariadenie Rady (ES) č. 1260/2001 z 19. júna 2001 o spoločnom organizovaní trhu v sektore cukru (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 33) v platnom znení.
 
@@ -63,8 +41,6 @@
 - 31) Čl. 4 až 6 nariadenia (ES) č. 73/2009.
 
 - 32) Hlava III kap. III nariadenia (ES) č. 796/2004.
-
-- 33) Čl. 23 ods. 2 nariadenia (ES) č. 73/2009.
 
 - 34) Čl. 2 ods. 11 a hlava II kap. I nariadenia (ES) č. 796/2004.
 
@@ -88,16 +64,16 @@
 
 - 43) § 9 zákona č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 44) Príloha č. 1 zoznam I a II zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
+- 44) § 21 ods. 1 písm. h) zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
-- 45) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 199/2008 Z. z., ktorou sa ustanovuje Program poľnohospodárskych činností vo vyhlásených zraniteľných oblastiach.
+- 45) Príloha č. 1 zoznam I a II zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 46) Príloha č. 8 k vyhláške Ministerstva pôdohospodárstva Slovenskej republiky č. 338/2005 Z. z., ktorou sa ustanovujú podrobnosti o postupe pre odber pôdnych vzoriek, spôsobe a rozsahu vykonávania agrochemického skúšania pôd, zisťovania pôdnych vlastností lesných pozemkov a o vedení evidencie hnojenia pôdy a stavu výživy rastlín na poľnohospodárskej pôde a na lesných pozemkoch.
+- 46) Príloha č. 9 k zákonu č. 188/2003 Z. z. o aplikácii čistiarenských kalov a dnových sedimentov do pôdy a o doplnení zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 364/2004 Z. z. a o zmene a doplnení zákona č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov v znení zákona č. 203/2009 Z. z.
 
-- 47) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 407/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii ošípaných v znení neskorších predpisov.
+- 47) § 10 ods. 5 a 6 zákona 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
 
-- 48) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 372/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii hovädzieho dobytka a o zmene vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 206/2007 Z. z. o klasifikácii jatočne opracovaných tiel hovädzieho dobytka, jatočne opracovaných tiel oviec, o odbornej príprave a o osvedčení o odbornej spôsobilosti.
+- 48) § 3 ods. 1 písm. c) zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
 
-- 49) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 371/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii oviec a kôz.
+- 49) § 10 ods. 1 zákona č. 193/2005 Z. z. v znení neskorších predpisov.
 
-- 50) Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 371/2007 Z. z., ktorou sa ustanovujú podrobnosti o identifikácii a registrácii oviec a kôz.
+- 50) § 15 a 16 zákona č. 193/2005 Z. z. v znení zákona č. 295/2007 Z. z.
