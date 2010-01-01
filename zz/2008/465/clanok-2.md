@@ -12,6 +12,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 5. V § 21 ods. 1 písm. h) a § 46 sa slová „500 Sk“ nahrádzajú slovami „16,60 eura“.
 
+- 6. V § 21 ods. 2 písm. k) sa slová „100 000 000 Sk“ nahrádzajú slovami „3 319 400 eur“.
+
 - 7. V § 22 ods. 2 písm. a), ods. 6 písm. c), d) a e), ods. 7 a § 29 ods. 1 až 3 sa slová „30 000 Sk“ nahrádzajú slovami „996 eur“.
 
 - 8. V § 22 ods. 7 sa slová „50 000 Sk“ nahrádzajú slovami „1 660 eur“.
