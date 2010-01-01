@@ -1,3 +1,5 @@
+Príloha č. 2 k zákonu č. 650/2004 Z. z.
+
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 80/987/EHS z 20. októbra 1980 o aproximácii právnych predpisov členských štátov vzťahujúcich sa na ochranu zamestnancov v prípade platobnej neschopnosti ich zamestnávateľa (Ú. v. ES L 283, 28. 10. 1980).

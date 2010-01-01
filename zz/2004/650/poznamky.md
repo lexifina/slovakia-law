@@ -1,16 +1,16 @@
-- 1) § 4 ods. 1 zákona č. 461/2003 Z. z. o sociálnom poistení.
+- 1) § 138 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 1a) § 4 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 2) § 7 ods. 1 zákona č. 461/2003 Z. z.
 
 - 3) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 4) § 138 ods. 1 až 7 zákona č. 461/2003 Z. z.
-
 - 5) § 65 zákona č. 461/2003 Z. z.
 
 - 6) § 70 a 263 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 7) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) § 788 a nasl. Občianskeho zákonníka.
 
@@ -28,7 +28,7 @@
 
 - 15) § 8 písm. e) zákona č. 566/2001 Z. z.
 
-- 16) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 48 ods. 10 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
@@ -48,9 +48,15 @@
 
 - 24a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 24aa) § 5 ods. 3 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 24ab) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 24ac) § 22 zákona č. 186/2009 Z. z.
+
 - 24b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
-- 24c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24c) Napríklad zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24d) § 4 ods. 1 písm. a) až c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
@@ -63,12 +69,6 @@
 - 27) § 116 Občianskeho zákonníka.
 
 - 27a) § 8 písm. h) zákona č. 566/2001 Z. z.
-
-- 28) § 138 až 143 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- § 44 zákona č. 483/2001 Z. z. o bankách a o z mene a doplnení niektorých zákonov v znení zákona č. 603/2003 Z. z.
-
-- § 43 zákona č. 95/2002 Z. z.
 
 - 29) Napríklad § 133 zákona č. 566/2001 Z. z., § 25 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
@@ -102,7 +102,23 @@
 
 - 40b) § 66a Obchodného zákonníka.
 
-- 41) § 99 až § 103 ods. 1 až 3 a § 104 zákona č. 43/2004 Z. z.
+- 41) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41a) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 41b) Napríklad Obchodný zákonník v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 41c) § 50 až 65 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 41d) § 156 zákona č. 566/2001 Z. z.
+
+- 41e) § 708 až 715 Obchodného zákonníka v znení neskorších predpisov.
+
+- 41f) Napríklad § 2 ods. 1 písm. d) a § 4 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov,§ 91 ods. 4 písm. g) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 41g) § 251 až 320a Občianskeho súdneho poriadku v znení neskorších predpisov a zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 42) § 109 ods. 1 až 5 zákona č. 43/2004 Z. z.
 
