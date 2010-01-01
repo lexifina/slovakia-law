@@ -1,6 +1,6 @@
 Príloha č. 5 k vyhláške č. 311/2009 Z. z.
 
-- Energetický certifikát budovy [Obrázok 02](../assets/d7b51a1e89e1222d966b427b5a6eafb0e0c044043a14327d6faaa1d514a06611.pdf)
+- Energetický certifikát budovy [Obrázok 02](../assets/2647e71ce28d94e8106187e19605e8200ef1f89a911d1bc260b1e5cb9a32b2a5.pdf)
 
   - Vysvetlivky k prílohe č. 5
 

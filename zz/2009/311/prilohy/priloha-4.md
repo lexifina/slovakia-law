@@ -64,7 +64,7 @@ Príloha č. 4 k vyhláške č. 311/2009 Z. z.
 
   - Potreba energie pre normalizované hodnotenie (primerane sa použije na prevádzkové hodnotenie) podľa energetických nosičov a emisie CO<sub>2</sub>
 
-- [Obrázok 01](../assets/7e4688bbb60d440e513bca594a2b34550d072fa50da996f891b90adf86a4c814.pdf)
+- [Obrázok 01](../assets/6ea71f3c2bd2bafbd04710b7103bdccff1eaac336061f9eb3d23110a5fb92c3b.pdf)
 
 - Poznámky:
 
