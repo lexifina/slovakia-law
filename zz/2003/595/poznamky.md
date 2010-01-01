@@ -42,6 +42,8 @@
 
 - 17) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
+- 17a) § 152 Zákonníka práce.
+
 - 18) § 145 Zákonníka práce.
 
 - 20) Napríklad zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -53,6 +55,10 @@
 - 23) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
 - 23a) § 27 písm. a), d) a e) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
+
+- 23aa) § 72 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 543/2005 Z. z. o Spravovacom a kancelárskom poriadku pre okresné súdy, krajské súdy, Špeciálny súd a vojenské súdy v znení neskorších predpisov.
+
+- 23ab) § 134 ods. 9 Zákonníka práce v znení zákona č. 348/2007 Z. z.
 
 - 23b) § 39a ods. 1 písm. d) a ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
@@ -94,7 +100,7 @@
 
 - 37) § 842 Občianskeho zákonníka.
 
-- 37a) Napríklad zákon č. 382/2004 Z. z.
+- 37a) § 59 ods. 3 Obchodného zákonníka v znení neskorších predpisov.
 
 - 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
@@ -158,6 +164,8 @@
 
 - 59c) § 13 ods. 2 zákona č. 184/2009 Z. z.
 
+- 59d) § 29 ods. 11 písm. a) druhý a tretí bod zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
 - 60) § 149 až 151 Občianskeho zákonníka.
 
 - 61) § 137 až 142 Občianskeho zákonníka.
@@ -200,6 +208,8 @@
 
 - 77b) § 35 a 36 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 77c) § 4 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 78) § 21a zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení zákona č. 511/2002 Z. z.
 
 - 79) Napríklad § 369 Obchodného zákonníka.
@@ -209,6 +219,12 @@
 - 80a) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 80b) § 16 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
+
+- 80d) § 35 ods. 7 písm. d) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 504/2009 Z. z.
 
 - 81) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
@@ -324,8 +340,6 @@
 
 - 111b) § 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 112) § 69 Obchodného zákonníka.
-
 - 113) § 2 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
 - 114) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov.
@@ -352,6 +366,12 @@
 
 - 120c) § 11 ods. 1 zákona č. 561/2007 Z. z.
 
+- 120d) Zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 120e) Čl. 31 až 33 nariadenia Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých druhov kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 120f) § 7 ods. 7, 8 a 10 zákona č. 185/2009 Z. z.
+
 - 121) § 24 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
@@ -362,9 +382,7 @@
 
 - 122c) § 223 Zákonníka práce v znení neskorších predpisov.
 
-- 123) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
-
-- 124) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
+- 123) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 125) Zákon č. 600/2003 Z. z.
 
@@ -379,12 +397,6 @@
 - 130) § 37 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
 
 - 131) Napríklad § 70 zákona č. 380/1997 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 336/2002 Z. z., ktorým sa ustanovujú podrobnosti na poskytovanie zahraničného príspevku.
-
-- 131a) § 2 ods. 1 písm. c) a d) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
-
-- 131b) § 8 Občianskeho zákonníka.
-
-- 131c) § 8 ods. 2 Občianskeho zákonníka.
 
 - 132) § 267 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
@@ -426,7 +438,11 @@
 
 - 145) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
+- 146) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 146a) § 35 a 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 146aa) Zákon č. 147/2001 Z. z. v znení neskorších predpisov.
 
 - 147) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
