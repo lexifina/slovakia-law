@@ -14,7 +14,7 @@
 
 (7) Na vykonanie úkonov súvisiacich s vykázaním zo spoločného obydlia policajt zabezpečí prítomnosť nezúčastnenej osoby; nemusí tak urobiť, ak by mohlo dôjsť k ohrozeniu života alebo zdravia alebo ak hrozí nebezpečenstvo z omeškania.
 
-(8) Vykázanie zo spoločného obydlia končí uplynutím 48 hodín od vykázania zo spoločného obydlia, ak ďalej nie je ustanovené inak. Doručením návrhu na vydanie predbežného opatrenia na súd<sup>11be</sup>) počas vykázania zo spoločného obydlia sa trvanie vykázania zo spoločného obydlia predlžuje až do nadobudnutia vykonateľnosti rozhodnutia súdu o tomto návrhu, o čom sa vykázaná osoba upovedomí v rámci poučenia podľa odseku 5; útvar Policajného zboru poskytne ohrozenej osobe súčinnosť pri doručovaní návrhu predbežného opatrenia.
+(8) Vykázanie zo spoločného obydlia končí uplynutím 48 hodín od vykázania zo spoločného obydlia, ak ďalej nie je ustanovené inak. Počas soboty, nedele a sviatku sa plynutie tejto lehoty prerušuje. Plynutie lehoty pokračuje najbližší nasledujúci pracovný deň. Doručením návrhu na vydanie predbežného opatrenia na súd<sup>11be</sup>) počas vykázania zo spoločného obydlia sa trvanie vykázania zo spoločného obydlia predlžuje až do nadobudnutia vykonateľnosti rozhodnutia súdu o tomto návrhu, o čom sa vykázaná osoba upovedomí v rámci poučenia podľa odseku 5; útvar Policajného zboru poskytne ohrozenej osobe súčinnosť pri doručovaní návrhu predbežného opatrenia.
 
 (9) Ak sa počas vykázania zo spoločného obydlia zistí, že neboli splnené podmienky vykázania zo spoločného obydlia podľa odseku 1, vykázanie zo spoločného obydlia útvar Policajného zboru ukončí, o čom sa ohrozená osoba a vykázaná osoba neodkladne upovedomí.
 
