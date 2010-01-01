@@ -1,0 +1,1 @@
+- 1) V súvislosti s prijatím pravidla 11bis zhromaždením Lisabonskej únie sa od zmluvných krajín Dohody nevyžaduje nové oznámenie o tom, že príslušný orgán poverený oznámiť vyhlásenie o poskytnutí ochrany je zhodný s tým, ktorý bol oznámený podľa pravidla 4 ods. 1 písm. b) pred nadobudnutím platnosti pravidla 11bis.

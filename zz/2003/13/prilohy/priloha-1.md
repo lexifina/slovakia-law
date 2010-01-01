@@ -90,7 +90,9 @@ K oznámeniu č. 13/2003 Z. z.
 
       - xii) „vyhlásenie o odmietnutí“ znamená vyhlásenie podľa článku 5 ods. 3 Dohody,
 
-      - xiii) „vestník“ znamená periodikum podľa článku 5 ods. 2 Dohody na nosičoch dát akéhokoľvek druhu použitých na jeho zverejnenie.
+      - xiii) „vestník“ znamená periodikum podľa článku 5 ods. 2 Dohody na nosičoch dát akéhokoľvek druhu použitých na jeho zverejnenie,
+
+      - xiv) „administratívne pokyny“ znamenajú administratívne pokyny uvedené v pravidle 23bis.
 
     - Pravidlo 2 Počítanie lehôt
 
@@ -138,7 +140,7 @@ K oznámeniu č. 13/2003 Z. z.
 
         - b) svojho príslušného orgánu, ktorý je poverený
 
-          - i) oznámiť vyhlásenie o odmietnutí, oznámiť vzatie späť vyhlásenia o odmietnutí podľa pravidla 11, oznámiť neplatnosť podľa pravidla 16 ods. 1, žiadať o opravu medzinárodného registra podľa pravidla 17 ods. 1 a vyhlásiť v súlade s pravidlom 17 ods. 3, že nemôže zabezpečiť ochranu opraveného medzinárodného zápisu, a
+          - i) oznámiť vyhlásenie o odmietnutí, oznámiť vzatie späť vyhlásenia o odmietnutí podľa pravidla 11, oznámiť vyhlásenie o poskytnutí ochrany podľa pravidla 11bis<sup>1</sup>), oznámiť neplatnosť podľa pravidla 16 ods. 1, žiadať o opravu medzinárodného registra podľa pravidla 17 ods. 1 a vyhlásiť v súlade s pravidlom 17 ods. 3, že nemôže zabezpečiť ochranu opraveného medzinárodného zápisu, a
 
           - ii) prijímať oznámenia Medzinárodného úradu uvedené v pravidle 7 ods. 1, pravidle 13 ods. 3, pravidle 14 ods. 2, pravidle 15 ods. 2 a pravidle 17 ods. 2, a
 
@@ -246,13 +248,13 @@ K oznámeniu č. 13/2003 Z. z.
 
         - Vo všetkých ostatných prípadoch je dátumom medzinárodného zápisu dátum dňa, v ktorom prijal Medzinárodný úrad medzinárodnú prihlášku.
 
-      - 3) (Dátum účinnosti medzinárodného zápisu)
+      - 3. (Dátum účinnosti medzinárodného zápisu)
 
-        - a) Označenie pôvodu, ktoré je predmetom medzinárodného zápisu, je chránené od dátumu medzinárodného zápisu v každej zmluvnej krajine, ktorá neurobila vyhlásenie súlade s článkom 5 ods. 3 Dohody o tom, že nemôže zabezpečiť ochranu označenia pôvodu, alebo ak zmluvná krajina urobila takéto vyhlásenie podľa písmena b) tohto pravidla, od dátumu uvedeného v tomto vyhlásení.
+        - a) Označenie pôvodu, ktoré je predmetom medzinárodného zápisu, je chránené od dátumu medzinárodného zápisu v každej zmluvnej krajine, ktorá neurobila vyhlásenie v súlade s článkom 5 ods. 3 Dohody o tom, že nemôže zabezpečiť ochranu označenia pôvodu, alebo ktorá oznámila Medzinárodnému úradu vyhlásenie o poskytnutí ochrany podľa pravidla 11bis, alebo ak zmluvná krajina urobila vyhlásenie podľa písmena b) tohto pravidla, od dátumu uvedeného v tomto vyhlásení.
 
         - b) Zmluvná krajina môže vo vyhlásení oznámiť generálnemu riaditeľovi, že v súlade so svojimi právnymi predpismi je označenie pôvodu, ktoré je predmetom medzinárodného zápisu, chránené od dátumu dňa uvedeného v tomto vyhlásení, ale tento dátum nesmie byť neskorší ako dátum skončenia ročnej lehoty uvedenej v článku 5 ods. 3 Dohody.
 
-  - 4. KAPITOLA VYHLÁSENIE O ODMIETNUTÍ OCHRANY
+  - 4. KAPITOLA VYHLÁSENIE O ODMIETNUTÍ OCHRANY, FAKULTATÍVNE VYHLÁSENIE O POSKYTNUTÍ OCHRANY
 
     - Pravidlo 9 Vyhlásenie o odmietnutí
 
@@ -315,6 +317,36 @@ K oznámeniu č. 13/2003 Z. z.
       - 3) (Zápis do medzinárodného registra a oznámenie príslušnému orgánu krajiny pôvodu)
 
         - Medzinárodný úrad zapíše do medzinárodného registra každé vzatie späť podľa odseku 1 a kópiu oznámenia o vzatí späť pošle príslušnému orgánu krajiny pôvodu.
+
+      - Medzinárodný úrad zapíše každé vyhlásenie podľa odseku 1 alebo odseku 2 do medzinárodného registra a oznámi príslušnému orgánu krajiny pôvodu.
+
+    - Pravidlo 11bis Fakultatívne vyhlásenie o poskytnutí ochrany
+
+      - 1. (Vyhlásenie o poskytnutí ochrany, ak nebolo vydané vyhlásenie o odmietnutí)
+
+        - a) Príslušný orgán zmluvnej krajiny, ktorý neoznámil Medzinárodnému úradu vyhlásenie o odmietnutí, môže v lehote jedného roka podľa článku 5 ods. 3 Dohody poslať Medzinárodnému úradu vyhlásenie, podľa ktorého je označeniu pôvodu, ktoré je predmetom medzinárodného zápisu, priznaná ochrana na území tejto zmluvnej krajiny.
+
+        - b) Vyhlásenie obsahuje
+
+          - i) príslušný orgán zmluvnej krajiny, ktorý vyhlásenie vydal,
+
+          - ii) číslo predmetného medzinárodného zápisu, pokiaľ možno spolu s ďalším údajom umožňujúcim identifikáciu medzinárodného zápisu, ako napríklad názov označenia pôvodu, a
+
+          - iii) dátum vyhlásenia.
+
+      - 2. (Vyhlásenie o poskytnutí ochrany po vydaní vyhlásenia o odmietnutí)
+
+        - a) Príslušný orgán zmluvnej krajiny, ktorý Medzinárodnému úradu oznámil vyhlásenie o odmietnutí, môže namiesto vzatia späť vyhlásenia o odmietnutí podľa pravidla 11 ods. 1 zaslať Medzinárodnému úradu vyhlásenie, podľa ktorého je označeniu pôvodu, ktoré je predmetom medzinárodného zápisu, priznaná ochrana na území tejto zmluvnej krajiny.
+
+        - b) Vyhlásenie obsahuje
+
+          - i) príslušný orgán zmluvnej krajiny, ktorý vyhlásenie vydal,
+
+          - ii) číslo predmetného medzinárodného zápisu, pokiaľ možno spolu s ďalším údajom umožňujúcim identifikáciu medzinárodného zápisu, ako napríklad názov označenia pôvodu, a
+
+          - iii) dátum vyhlásenia.
+
+      - 3. (Zápis do medzinárodného registra a oznámenie príslušnému orgánu krajiny pôvodu)
 
       - Medzinárodný úrad zapíše každé vyhlásenie podľa odseku 1 alebo odseku 2 do medzinárodného registra a oznámi príslušnému orgánu krajiny pôvodu.
 
@@ -412,9 +444,9 @@ K oznámeniu č. 13/2003 Z. z.
 
         - Medzinárodný úrad dá tento úkon na vedomie príslušnému orgánu každej zmluvnej krajiny.
 
-      - 3) (Uplatnenie pravidiel 9 až 11)
+      - 3. (Uplatnenie pravidiel 9 až 11bis)
 
-        - Ak sa oprava chyby týka znenia označenia pôvodu alebo výrobku, pre ktorý je označenie pôvodu platné, príslušný orgán zmluvnej krajiny má právo vyhlásiť, že nemôže zabezpečiť ochranu takto opraveného medzinárodného zápisu. Príslušný orgán musí vyhlásenie poslať Medzinárodnému úradu v lehote jedného roka od dátumu oznámenia Medzinárodného úradu o oprave. Pre pravidlá 9 až 11 sa použije mutatis mutandis.
+        - Ak sa oprava chyby týka znenia označenia pôvodu alebo výrobku, pre ktorý je označenie pôvodu platné, príslušný orgán zmluvnej krajiny má právo vyhlásiť, že nemôže zabezpečiť ochranu takto opraveného medzinárodného zápisu. Príslušný orgán musí vyhlásenie poslať Medzinárodnému úradu v lehote jedného roka od dátumu oznámenia Medzinárodného úradu o oprave. Pravidlá 9 až 11bis sa použijú mutatis mutandis.
 
   - 6. KAPITOLA OSTATNÉ USTANOVENIA A POPLATKY
 
@@ -446,9 +478,9 @@ K oznámeniu č. 13/2003 Z. z.
 
     - Pravidlo 22 Spôsoby oznamovania Medzinárodného úradu
 
-      - 1) (Oznámenie o medzinárodnom zápise)
+      - 1. (Oznámenie o medzinárodnom zápise)
 
-        - Oznámenie o medzinárodnom zápise podľa pravidla 7 ods. 1 posiela Medzinárodný úrad príslušnému orgánu každej zmluvnej krajiny ako doporučenú zásielku s potvrdením o prijatí alebo akýmkoľvek iným spôsobom umožňujúcim Medzinárodnému úradu určiť dátum prijatia oznámenia.
+        - Oznámenie o medzinárodnom zápise podľa pravidla 7 ods. 1 posiela Medzinárodný úrad príslušnému orgánu každej zmluvnej krajiny ako doporučenú zásielku s potvrdením o prijatí alebo akýmkoľvek iným spôsobom umožňujúcim Medzinárodnému úradu určiť dátum prijatia oznámenia tak, ako je uvedené v administratívnych pokynoch.
 
       - 2) (Iné oznámenia)
 
@@ -469,6 +501,28 @@ K oznámeniu č. 13/2003 Z. z.
     - iii) | Poplatok za výpis z medzinárodného registra | 90
 
     - iv) | Poplatok za potvrdenie alebo akúkoľvek inú informáciu o obsahu medzinárodného registra písomnou formou | 80
+
+    - Pravidlo 23bis Administratívne pokyny
+
+      - 1. (Ustanovenie administratívnych pokynov a ich predmet úpravy)
+
+        - a) Administratívne pokyny ustanovuje generálny riaditeľ. Meniť ich môže len generálny riaditeľ. Pred ustanovením alebo zmenou administratívnych pokynov ich generálny riaditeľ konzultuje s príslušnými orgánmi zmluvných krajín, ktorých sa tieto administratívne pokyny alebo navrhované zmeny priamo týkajú.
+
+        - b) Administratívne pokyny upravujú postupy, na ktoré tento vykonávací predpis výslovne odkazuje, a konkrétne podrobnosti, ktoré sa vzťahujú na použitie tohto vykonávacieho predpisu.
+
+      - 2. (Kontrola vykonávaná zhromaždením)
+
+        - Zhromaždenie môže vyzvať generálneho riaditeľa na zmenu ktoréhokoľvek ustanovenia administratívnych pokynov a generálny riaditeľ bude podľa toho postupovať.
+
+      - 3. (Zverejnenie a účinnosť)
+
+        - a) Administratívne pokyny a akékoľvek vykonané zmeny sa zverejňujú vo Vestníku.
+
+        - b) V každom zverejnení sa uvedie dátum účinnosti zverejnených ustanovení. Rôzne ustanovenia môžu mať rôzne dátumy účinnosti s podmienkou, že žiadne opatrenie nemôže byť účinné pred jeho zverejnením vo Vestníku.
+
+      - 4. (Rozpor medzi administratívnymi pokynmi a dohodou alebo týmto vykonávacím predpisom)
+
+        - V prípade rozporu medzi ustanoveniami administratívnych pokynov na jednej strane a ustanoveniami Dohody alebo tohto vykonávacieho predpisu na druhej strane majú posledné menované ustanovenia prednosť.
 
     - Pravidlo 24 Platnosť
 
