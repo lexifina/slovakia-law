@@ -102,7 +102,7 @@
 
 - 10g) Zákon č. 138/1973 Zb. o vodách (vodný zákon) v znení zákona Národnej rady Slovenskej republiky č. 238/1993 Z. z.
 
-- 10h) Zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb. a zákona č. 230/1992 Zb.
+- 10h) § 11 zákona č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov.
 
 - 10i) Zákon Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona Národnej rady Slovenskej republiky č. 200/1994 Z. z.
 
