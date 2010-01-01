@@ -1,0 +1,3 @@
+Príloha č. 4 k zákonu č. 126/2006 Z. z.
+
+- VZOR INDIVIDUÁLNE HLÁSENIE PRENOSNEJ CHOROBY OŠETRUJÚCIMI LEKÁRMI [Vzor 04](../assets/136e5563d384df3ed36af401210fc797a3ae7b96f3e2d2e1eb930ed10d3eeec0.pdf)
