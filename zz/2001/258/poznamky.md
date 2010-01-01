@@ -24,4 +24,16 @@
 
 - 12) § 19 zákona č. 634/1992 Zb.
 
+- 12a) § 7 a 8 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 12b) § 13 zákona č. 186/2009 Z. z.
+
+- 12c) § 5 ods. 3 zákona č. 186/2009 Z. z.
+
+- 12d) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
+
+- 12e) § 22 zákona č. 186/2009 Z. z.
+
+- 12f) § 17 zákona č. 186/2009 Z. z.
+
 - 13) § 2 písm. i) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
