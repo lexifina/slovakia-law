@@ -14,13 +14,11 @@
 
 - 8) § 54 ods. 1 a § 73o ods. 6 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 9) § 61 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 9) § 6 až 10 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 10) § 4 ods. 5 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
 - 11) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
-
-- 12) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -29,8 +27,6 @@
 - 15) § 2 písm. l) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 16) § 2 písm. n) druhý bod zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov.
-
-- 17) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 18) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
