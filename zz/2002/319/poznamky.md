@@ -22,6 +22,8 @@
 
 - 9) Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 9a) § 125 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 10) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
 - 11) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
@@ -34,7 +36,13 @@
 
 - 15a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 15aa) § 2 zákona č. 321/2002 Z. z. v znení neskorších predpisov.
+
+- 15ab) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 15b) Napríklad zákon č. 570/2005 Z. z., zákon č. 569/2005 Z. z.
+
+- 15c) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
 
 - 16) § 6 zákona č. 570/2005 Z. z.
 
@@ -47,6 +55,20 @@
 - 20) Zákon Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
 - 20a) Zákon č. 321/2002 Z. z.
+
+- 20aa) § 139b ods. 9 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 20ab) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 20ac) § 24 a 25 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 20ad) § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+
+- 20ae) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 20af) § 6 zákona č. 111/1990 Zb. o štátnom podniku v znení zákona Národnej rady Slovenskej republiky č. 304/1995 Z. z.
+
+- 20ag) § 45a zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 21) § 4 písm. a), d), e) a f) zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
 
