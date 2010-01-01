@@ -16,4 +16,4 @@
 
 - d) ide o tovar, ktorého dodanie alebo poskytnutie sa považuje za podnikanie v sieťových odvetviach podľa osobitného predpisu,<sup>1a</sup>)
 
-- e) ide o tovar, ktorého dodanie alebo poskytnutie sa považuje za prevádzkovanie dopravy na železničnej dráhe,<sup>7a</sup>) za univerzálnu poštovú službu alebo za službu poštového platobného styku.<sup>7b</sup>)
+- e) ide o tovar, ktorého dodanie alebo poskytnutie sa považuje za univerzálnu poštovú službu alebo za službu poštového platobného styku.<sup>7b</sup>)

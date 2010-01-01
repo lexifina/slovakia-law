@@ -1,4 +1,4 @@
-- 1) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 17/2004 Z. z. o poplatkoch za uloženie odpadov v znení zákona č. 587/2004 Z. z., zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd, zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Napríklad zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z. o odmenách a náhradách notárov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 17/2004 Z. z. o poplatkoch za uloženie odpadov v znení zákona č. 587/2004 Z. z., zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd, zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 514/2009 Z. z. o doprave na dráhach, zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov.
 
 - 1a) Zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov.
 
@@ -15,8 +15,6 @@
 - 6a) Napríklad zákon č. 195/2000 Z. z. o telekomunikáciách, zákon č. 276/2001 Z. z.
 
 - 7) § 22 ods. 1 písm. f) zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
-
-- 7a) § 2 ods. 5 a § 4 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 7b) § 13 ods. 1 písm. e) zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
@@ -46,7 +44,7 @@
 
 - 18) § 244 a nasl. Občianskeho súdneho poriadku.
 
-- 18a) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. v znení neskorších predpisov.Zákon č. 276/2001 Z. z. v znení neskorších predpisov.
+- 18a) Zákon č. 276/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 507/2001 Z. z. v znení neskorších predpisov.
 
@@ -59,8 +57,6 @@
 - 20) § 248 ods. 3 zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 21) § 3 zákona Slovenskej národnej rady č. 500/1991 Zb. o pôsobnosti obcí vo veciach nájmu a podnájmu nebytových priestorov.
-
-- 22) § 1 ods. 2 písm. i) a § 18 zákona č. 659/2007 Z. z.
 
 - 23) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
