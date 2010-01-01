@@ -162,6 +162,10 @@ Príloha č. 2 k nariadeniu vlády č. 322/2006 Z. z.
 
       - – organizácia a techniky v tkanivových bankách.
 
+    - d) Certifikovaná pracovná činnosť po získaní vysokoškolského vzdelania v bakalárskom štúdiu v odbore zdravotnícke a diagnostické pomôcky:
+
+    - – zdravotnícke a diagnostické pomôcky in vitro.
+
   - D. KATEGÓRIA ASISTENT
 
     - a) Špecializačné odbory po získaní vysokoškolského vzdelania v magisterskom štúdiu v odbore verejné zdravotníctvo
