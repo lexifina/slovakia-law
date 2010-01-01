@@ -124,6 +124,8 @@
 
 - 56) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
+- 56a) Článok 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení.
+
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 59) Zákon č. 283/2002 Z. z. o cestovných náhradách.
@@ -172,10 +174,6 @@
 
 - 78d) § 11 ods. 8 a 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 79) § 49 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
-
-- 80) § 142 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
-
 - 81) Občiansky súdny poriadok.
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
@@ -195,6 +193,10 @@
 - 89) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 90) § 95 ods. 1 písm. b) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 90a) § 65 ods. 5 zákona č. 43/2004 Z. z. v znení zákona č. 572/2009 Z. z.
+
+- 90b) § 17a zákona č. 43/2004 Z. z. v znení zákona č. 572/2009 Z. z.
 
 - 91) § 94 ods. 1 písm. c) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
