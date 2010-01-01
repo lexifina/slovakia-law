@@ -44,6 +44,8 @@
 
 - 18) Napríklad Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie č. 648/2002 Z. z.).
 
+- 18a) § 17 ods. 2 písm. c) zákona č. 570/2005 Z. z. v znení neskorších predpisov.
+
 - 19) § 6 ods. 3, § 7 ods. 3 a § 15 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
 - 20) § 2, 3 a 30 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
