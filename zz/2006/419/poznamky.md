@@ -1,4 +1,8 @@
-- 1) Príloha č. 37 nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, 2/zv. 6.) v platnom znení.
+- 1) Čl. 1 šestnásty bod a čl. 4k až 4t nariadenia Komisie (EHS) č. =OJ:L:1993:253:0001:003:SK:HTML href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:1993:253:0001:003:SK:HTML" target=_blank>2454/93 v platnom znení.
+
+- 1a) Príloha č. 37 nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, 2/zv. 6.) v platnom znení.
+
+- 1aa) Čl. 4 prvý bod tretia zarážka nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
 - 2) Príloha č. 38 nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
