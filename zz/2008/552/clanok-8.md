@@ -194,7 +194,11 @@ Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zák
 
 - 37. § 97 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
-- „(6)
+- „(5)
+
+- Jednotka investičných podielov, na ktoré je viazané poistné plnenie, pri poistných zmluvách viazaných na investovanie finančných prostriedkov v mene poistených, sa vypočítava s rovnakou presnosťou ako hodnota podielu v podielovom fonde pri kolektívnom investovaní podľa osobitného predpisu.<sup>71a</sup>)
+
+- (6)
 
 - Poisťovňa, pobočka zahraničnej poisťovne, poisťovňa z iného členského štátu, ktorá vykonáva poisťovaciu činnosť na území Slovenskej republiky, je povinná najneskôr do uplynutia jedného roka po dni zavedenia eura v Slovenskej republike bezodplatne písomne poskytnúť svojim klientom informáciu o hodnote naakumulovaných prostriedkov v investičnom životnom poistení, ktoré je súčasťou poistného odvetvia životného poistenia uvedeného v prílohe č. 1 časti A štvrtom bode, ktorej súčasťou musí byť v súlade s týmto zákonom aj prepočet a zaokrúhlenie hodnoty prostriedkov zo slovenskej meny na eurá vykonaný podľa konverzného kurzu a ďalších pravidiel pre prechod zo slovenskej meny na euro.“.
 
