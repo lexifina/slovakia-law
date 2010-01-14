@@ -1558,15 +1558,19 @@ Príloha č. 2 k vyhláške č. 529/2009 Z. z.
 
 - Zoznam úsekov na diaľnici D2 | | | | | |
 
-- D02-001 | Hranica ČR/SR | | Malacky | D/2, II/503 | 29,17 | 29,17
-
 - D02-002 | Malacky | D/2, II/503 | Lozorno | D/2, I/2 | 11,474 | 11,474
 
-- D02-003 | Lozorno | D/2, I/2 | Záhorská Bystrica/ Lamač | D/2, II/505 | 14,316 | 14,049
+- D02-003 | Lozorno | D/2, I/2 | Záhorská Bystrica/Lamač | D/2, II/505 | 14,316 | 14,049
 
 - D02-004 | Petržalka | D/1, D/2, I/61, MK | Petržalka | D/2, D/4, PD/2 | 6,055 | 5,839
 
 - D02-005 | Petržalka | D/2, D/4, PD/2 | Hranica SR/MR | | 8,983 | 8,983
+
+- D02-006 | Hranica ČR/SR | zač. CK D/2 na št. hr. CZ | Hranica ČR/SR colnica | D/2, II/503 | 1,458 | 1,458
+
+- D02-007 | Hranica ČR/SR colnica | | Kúty | križ. D/2, I/2, okr. Senica | 3,621 | 3,621
+
+- D02-008 | Kúty | križ. D/2, I/2, okr. Senica | Malacky | križ. D/2, II/503, okr. Malacky | 24,091 | 24,091
 
 - Zoznam úsekov na ceste I/11 a I/18 (D3) | | | | | |
 
