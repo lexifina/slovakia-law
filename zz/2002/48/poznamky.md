@@ -6,7 +6,7 @@
 
 - 2a) § 2 ods. 1 zákona č. 298/1999 Z. z. o správe štátnych hraníc v znení zákona č. 515/2003 Z. z.
 
-- 3) § 5 ods. 6 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 3) § 14 ods. 6 a 9 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
 - 4) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú.v. ES L 239, 22. 9. 2000) v platnom znení.
 
@@ -31,6 +31,16 @@
 - 10a) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10b) § 22 ods. 7 zákona č. 5/2004 Z. z. v znení zákona č. 82/2005 Z. z.
+
+- 10ba) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 562/2006 (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení.
+
+- 10bb) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+
+- 10bc) § 22 ods. 7 písm. n) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 10bd) § 22 ods. 7 písm. p) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 10be) § 22 ods. 6 písm. a) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 10c) § 22 ods. 7 písm. c) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
@@ -70,6 +80,10 @@
 
 - 19a) § 7 ods. 1 zákona č. 477/2003 Z. z. o ochrane štátnej hranice.
 
+- 19aa) Čl. 2 ods. 15 nariadenia Európskeho parlamentu a Rady (ES) č. 562/2006 (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení.
+
+- 19b) § 32 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 20) § 2 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 21) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení zákona č. 260/1999 Z. z.
@@ -78,7 +92,7 @@
 
 - 21aa) Dohovor, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 o postupnom zrušení kontrol na spoločných hraniciach, podpísaný v Schengene 19. júna 1990 (Mimoriadne vydanie Ú. v. EÚ, kap.19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
 
-- 22) § 41 ods. 2 Trestného zákona v znení zákona č. 175/1990 Zb.
+- 22) Rozhodnutie Rady 2004/573/ES z 29. apríla 2004 o organizácii spoločných letov na odsuny štátnych príslušníkov tretích krajín, na ktorých sa vzťahujú príkazy na individuálny odsun, z územia dvoch alebo viacerých členských štátov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 07; Ú. v. EÚ L 261, 6. 8. 2004).
 
 - 23) § 116 Občianskeho zákonníka.
 
@@ -93,6 +107,8 @@
 - 25) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
 - 25a) Zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.
+
+- 25aa) § 110 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 25b) § 321 ods. 3 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 

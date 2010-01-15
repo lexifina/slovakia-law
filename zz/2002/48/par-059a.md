@@ -8,7 +8,7 @@
 
 - c) cudzinec porušil predpisy tohto štátu upravujúce vstup a pobyt cudzincov.
 
-(2) Ustanovenie odseku 1 sa nevzťahuje na zvýhodneného cudzinca.
+(2) Ustanovenie odseku 1 sa nevzťahuje na občana Európskeho hospodárskeho priestoru a zvýhodneného cudzinca.
 
 (3) Pred výkonom rozhodnutia podľa odseku 1 je policajný útvar povinný požiadať o vyjadrenie vydávajúci štát a štát Európskeho hospodárskeho priestoru, v ktorom má cudzinec povolený pobyt.
 

@@ -8,10 +8,14 @@
 
 - a) finančné zabezpečenie pobytu vo výške podľa § 37 ods. 6,
 
-- b) zdravotné poistenie na území Slovenskej republiky.
+- b) zdravotné poistenie na území Slovenskej republiky,
 
-(4) Policajný útvar môže vyžiadať od cudzinca doklad nie starší ako 30 dní potvrdzujúci zabezpečenie ubytovania a doklad potvrdzujúci, že absolvoval kurz slovenského jazyka.
+- c) bezúhonnosť, ak ide o cudzinca podľa § 38 ods. 1 písm. d) staršieho ako 14 rokov.
 
-(5) Policajný útvar rozhodne o žiadosti o udelenie ďalšieho povolenia do 90 dní od doručenia žiadosti policajnému útvaru.
+(4) Cudzinec podľa § 38 ods. 1 písm. d) je povinný k žiadosti priložiť aj doklad potvrdzujúci, že netrpí chorobou, ktorá ohrozuje verejné zdravie, do 30 dní od vstupu. Doklad potvrdzujúci, že netrpí chorobou, ktorá ohrozuje verejné zdravie, nesmie byť starší ako 30 dní.
 
-(6) Prvé povolenie alebo povolenie na prechodný pobyt sa až do doručenia rozhodnutia o žiadosti o udelenie ďalšieho povolenia považuje za platné.
+(5) Policajný útvar môže vyžiadať od cudzinca doklad nie starší ako 30 dní potvrdzujúci zabezpečenie ubytovania a doklad potvrdzujúci, že absolvoval kurz slovenského jazyka.
+
+(6) Policajný útvar rozhodne o žiadosti o udelenie ďalšieho povolenia do 90 dní od doručenia žiadosti policajnému útvaru.
+
+(7) Prvé povolenie alebo povolenie na prechodný pobyt sa až do doručenia rozhodnutia o žiadosti o udelenie ďalšieho povolenia považuje za platné na území Slovenskej republiky.

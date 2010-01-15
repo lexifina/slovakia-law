@@ -19,3 +19,7 @@ Príloha č. 2 k zákonu č. 48/2002 Z. z. v znení neskorších predpisov
 - 8. Smernica Rady 2005/71/ES z 12. októbra 2005 o osobitnom postupe prijímania štátnych príslušníkov tretích krajín na účely vedeckého výskumu (Ú. v. EÚ L 289, 3. 11. 2005).
 
 - 9. Smernica Rady 2004/114/ES z 13. decembra 2004 o podmienkach prijatia štátnych príslušníkov tretích krajín na účely štúdia, výmen žiakov, neplateného odborného vzdelávania alebo dobrovoľnej služby (Ú. v. EÚ L 375, 23. 12. 2004).
+
+- 10. Smernica Rady 2001/40/ES z 28. mája 2001 o vzájomnom uznávaní rozhodnutí o vyhostení štátnych príslušníkov tretích krajín (Mimoriadne vydanie Ú. v. ES, kap. 19/zv. 4; Ú. v. ES L 149, 2. 6. 2001).
+
+- 11. Smernica Európskeho parlamentu a Rady 2008/115/ES zo 16. decembra 2008 o spoločných normách a postupoch členských štátov na účely návratu štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na ich území (Ú. v. EÚ L 348, 24. 12. 2008).

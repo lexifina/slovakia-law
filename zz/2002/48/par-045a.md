@@ -12,11 +12,13 @@
 
 - c) študuje na škole v Slovenskej republike a má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky,
 
-- d) má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky alebo
+- d) má finančné prostriedky na zabezpečenie pobytu a zdravotné poistenie na území Slovenskej republiky,
 
-- e) je u neho predpoklad, že sa zamestná.<sup>10</sup>)
+- e) je u neho predpoklad, že sa zamestná<sup>10</sup>) alebo
 
-(2) Občan Európskeho hospodárskeho priestoru môže požiadať o registráciu prvého povolenia. Žiadosť o registráciu prvého povolenia sa podáva na úradnom tlačive osobne na policajnom útvare. K žiadosti o registráciu prvého povolenia je občan Európskeho hospodárskeho priestoru povinný predložiť cestovný doklad. Ak cestovný doklad k žiadosti nepredloží alebo je nežiaducou osobou, policajný útvar žiadosť o registráciu prvého povolenia neprijme.
+- f) je rodinným príslušníkom občana Európskeho hospodárskeho priestoru, ktorý spĺňa podmienky podľa písmen a) až e).
+
+(2) Občan Európskeho hospodárskeho priestoru môže požiadať o registráciu prvého povolenia. Žiadosť o registráciu prvého povolenia sa podáva na úradnom tlačive osobne na policajnom útvare. K žiadosti o registráciu prvého povolenia je občan Európskeho hospodárskeho priestoru povinný predložiť cestovný doklad a doklad o zabezpečení ubytovania. Ak občan Európskeho hospodárskeho priestoru nepredloží k žiadosti cestovný doklad alebo doklad o zabezpečení ubytovania alebo ak je nežiaducou osobou, policajný útvar žiadosť o registráciu prvého povolenia neprijme.
 
 (3) Policajný útvar vydá v deň podania žiadosti o registráciu prvého povolenia potvrdenie o registrácii prvého povolenia, v ktorom uvedie meno, priezvisko a bydlisko registrovanej osoby a dátum registrácie.
 
