@@ -76,7 +76,7 @@
 
 - 12) § 4 a 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
-- 13) § 13 vyhlášky Ministerstva vnútra č. 87/1964 Zb. o vodičských preukazoch v znení neskorších predpisov.
+- 13) Napríklad § 54 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
 - 14) § 49 a 50 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
 
@@ -153,5 +153,9 @@
 - 28j) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 28ja) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 863/2007 z 11. júla 2007, ktorým sa ustanovuje mechanizmus na zriadenie rýchlych pohraničných zásahových tímov a ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 2007/2004, pokiaľ ide o tento mechanizmus, a ktorým sa regulujú úlohy a právomoci prizvaných príslušníkov pohraničnej stráže (Ú. v. EÚ L 199/30, 31. 7. 2007).
+
+- 28jb) Čl. 17 ods. 1 rozhodnutia Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008).
 
 - 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
