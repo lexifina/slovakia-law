@@ -72,6 +72,8 @@
 
 - 22aa) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
+- 22ab) § 20 ods. 3 zákona č. 48/2002 Z. z. v znení zákona č. 594/2009 Z. z.
+
 - 23) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 23a) § 43 ods. 8 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
