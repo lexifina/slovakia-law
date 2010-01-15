@@ -1,3 +1,5 @@
-Príloha č. 21 k vyhláške č. 239/2006 Z. z. OZNÁMENIE o výsledku ročného zúčtovania poistného plateného štátom za rok 2008
+Príloha č. 21 k vyhláške č. 239/2006 Z. z. VZOR
 
-[Vzor 21](../assets/63a9f6d05b40fbe4ff2612d41801e74d049b16120134b6fa9d398f0c05421ac8.pdf)
+Oznámenie o výsledku ročného zúčtovania poistného plateného štátom za rok 2009
+
+[Vzor 21](../assets/0ee23455f3d9bbc405414aaecda76815ff2aa8e86906e525fa23a97ea14c466b.pdf)

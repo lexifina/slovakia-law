@@ -1,5 +1,7 @@
 Príloha č. 20 k vyhláške č. 239/2006 Z. z.
 
+VZOR
+
 Odpis z ročného zúčtovania poistného
 
-[Vzor 20](../assets/7dca09f322291b9b1035fbf6188586121de603f6aa7873e0017aab5ee00a5060.pdf)
+[Vzor 20](../assets/f51f40a657065065329858f20c1df27212cb23d91053eb95479623fbfeea44b1.pdf)

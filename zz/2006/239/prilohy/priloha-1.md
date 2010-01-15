@@ -1,5 +1,5 @@
-Príloha č. 1 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné") zamestnanca za rok 2008
+Príloha č. 1 k vyhláške č. 239/2006 Z. z. VZOR
 
-TYP A
+Ročné zúčtovanie poistného na verejné zdravotné poistenie (ďalej len „poistné") zamestnanca za rok 2009
 
-[Vzor 01](../assets/806892998131dbbb390dd2e1449dac61cacfb9a32eb11c413ea97359fbae565a.pdf)
+[Vzor 01](../assets/3abcf539f935c1199d15b60c0ce3ed7f7a2806f7c681198c9c0bfb86a9eec71b.pdf)

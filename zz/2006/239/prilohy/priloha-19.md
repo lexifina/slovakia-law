@@ -1,3 +1,5 @@
-Príloha č. 19 k vyhláške č. 239/2006 Z. z. POTVRDENIE o podaní ročného zúčtovania poistného na verejné zdravotné poistenie za rok 2008, typ .....<sup>1)</sup>
+Príloha č. 19 k vyhláške č. 239/2006 Z. z. VZOR
 
-[Vzor 19](../assets/f062b2b8d8bc4d95af21ce90b5021fdeb27c58ad5e20503c36cb75372e6d852c.pdf)
+Potvrdenie o podaní ročného zúčtovania poistného na verejné zdravotné poistenie za rok 2009
+
+[Vzor 19](../assets/d7c498d36b3eba83dd527d3e8f2af22a516ff644fb99e5c0c3a7312a83c0136c.pdf)
