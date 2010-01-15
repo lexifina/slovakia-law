@@ -6,4 +6,6 @@
 
 (3) Policajný zbor alebo ministerstvo v prípade zistenia nepravdivých údajov oznámi žiadateľovi, že ich zlikvidoval; v prípade zistenia nepresných údajov žiadateľovi oznámi, že ich opravil, a v ostatných prípadoch oznámi, že jeho žiadosť sa preverila. Policajný zbor poskytne žiadateľovi informáciu o spracúvaných osobných údajoch v rozsahu, ktorý neohrozí plnenie úloh Policajného zboru.
 
-(4) Na konanie podľa odsekov 1 až 3 sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>10</sup>)
+(4) Policajný zbor je oprávnený spracúvať kópie dokladov a dokumentov, ktoré poskytol žiadateľ na preukázanie oprávnenosti svojej žiadosti podľa odsekov 1 a 2.
+
+(5) Na konanie podľa odsekov 1 až 3 sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>10</sup>)

@@ -6,6 +6,6 @@
 
 - b) na základe rozhodnutia vlády Slovenskej republiky o účasti na mierových operáciách podľa rozhodnutia medzinárodnej organizácie, ktorej je Slovenská republika členom alebo s ktorou má uzatvorené príslušné dohody, alebo
 
-- c) ak je vyslaný na plnenie úloh Policajného zboru na základe rozhodnutia ministra a so súhlasom príslušného orgánu cudzieho štátu alebo na žiadosť príslušného orgánu cudzieho štátu.
+- c) ak je vyslaný na plnenie úloh Policajného zboru na základe rozhodnutia ministra alebo prezidenta Policajného zboru a so súhlasom príslušného orgánu cudzieho štátu alebo na žiadosť príslušného orgánu cudzieho štátu.
 
 (2) Pri vysielaní policajta do zahraničia podľa odseku 1 sa postupuje podľa osobitného zákona.<sup>7</sup>)

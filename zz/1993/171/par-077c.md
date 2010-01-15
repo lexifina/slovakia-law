@@ -1,6 +1,6 @@
 # § 77c
 
-(1) Príslušník polície iného štátu môže podľa podmienok, v rozsahu a spôsobom ustanoveným medzinárodnou zmluvou, ktorou je Slovenská republika viazaná alebo osobitným predpisom, vykonávať na území Slovenskej republiky oprávnenia a povinnosti policajta.
+(1) Príslušník polície iného štátu môže podľa podmienok, v rozsahu a spôsobom ustanoveným medzinárodnou zmluvou, ktorou je Slovenská republika viazaná alebo osobitným predpisom, vykonávať na území Slovenskej republiky oprávnenia a povinnosti policajta. Príslušník polície iného štátu, ktorý sa zúčastňuje na území Slovenskej republiky spoločnej operácie,<sup>28jb</sup>) môže vykonávať oprávnenia a povinnosti policajta za podmienok podľa osobitného predpisu.<sup>28jc</sup>)
 
 (2) Ak nie je uzatvorená medzinárodná zmluva, ktorou je Slovenská republika viazaná, a ak je to potrebné na plnenie úloh Policajného zboru, možno so súhlasom ministra alebo ním poverenej osoby a so súhlasom príslušného orgánu cudzieho štátu využiť v rozsahu ustanovenom týmto zákonom príslušníka polície iného štátu
 
