@@ -1,5 +1,0 @@
-Príloha č. 4 k vyhláške č. 114/2002 Z. z.
-
-- OCHRANNÉ PÁSMO II. A III. STUPŇA PRÍRODNÝCH ZDROJOV MINERÁLNYCH STOLOVÝCH VÔD V TORNALI
-
-- ![Obrázok 04-1](../assets/1172a747c79b15543620eabcbb89ca51e2dc0d71b6bc7247d33ad3a84c6244c0.png)
