@@ -1,67 +1,75 @@
 Príloha č. 1 k vyhláške č. 135/2009 Z. z.
 
-- PODPISOVÉ SCHÉMY, ŠIFROVACIE ALGORITMY A ICH PARAMETRE
+- PODPISOVÉ SCHÉMY
 
-  - Podpisové schémy
-
-- Podpisová schéma | Asymetrický algoritmus | Minimálne parametre asymetrického algoritmu | Algoritmus na generovanie kľúčov | Metóda na doplnenie (padding) | Hašovacia funkcia
-
-- 001 | RSA | MinModLen=1 020 | rsagen1 | emsa-pkcs- v1_5, 2_0, 2_1 | SHA1
-
-- 002 | RSA | MinModLen=1 020 | rsagen1 | emsa-pss | SHA1
-
-- 003 | RSA | MinModLen=1 020 | rsagen1 | emsa-pkcs- v1_5, 2_0, 2_1 | RIPEMD160
-
-- 004 | RSA | MinModLen=1 020 | rsagen1 | emsa-pss | RIPEMD160
-
-- 005 | DSA | pMinLen=1 024 qMinLen=160 | dsagen1 | – | SHA1
-
-- 006 | ECDSA-Fp | qMinLen=160 r0Min=10 000 MinClass=200 | ecgen1 | – | SHA1
-
-- 007 | ECDSA-F2m | qMinLen=160 r0Min=10 000 MinClass=200 | ecgen2 | – | SHA1
-
-- 008 | ECGDSA-Fp | qMinLen=160 r0Min=10 000 MinClass=200 | ecgen1 | – | SHA1
-
-- 009 | ECGDSA-F2m | qMinLen=160 r0Min=10 000 MinClass=200 | ecgen2 | – | SHA1
-
-  - Algoritmy na generovanie kľúčov
-
-- Označenie generátora kľúčov | Používané označenie | Asymetrický algoritmus | Metóda generovanie náhodných čísel | Parametre náhodného generátora
-
-- 4.01 | rsagen1 | RSA | trueran | EntropyBits = 128
-
-- 4.02 | dsagen1 | DSA | trueran alebo pseuran (FIPS 186-2) | EntropyBits = 128 alebo SeedLen = 128
-
-- 4.03 | ecgen1 | ECDSA-Fp alebo ECGDSA-Fp | trueran alebo pseuran | EntropyBits = 128 alebo SeedLen = 128
-
-- 4.04 | ecgen2 | ECDSA-F2m alebo ECGDSA-F2m | trueran alebo pseuran | EntropyBits = 128 alebo SeedLen = 128
-
-  - Metódy generovania náhodných čísel
-
-- Označenie náhodného generátora | Používané meno | Parametre náhodného generátora
-
-- 5.01 | Trueran | EntropyBits
-
-- 5.02 | Pseuran | SeedLen
-
-- 5.03 | FIPS 186-2-31 | SeedLen
-
-- 5.04 | FIPS 186-2-32 | SeedLen
+  - Podpisová schéma je tvorená postupnosťou označení uvedených v tejto prílohe, oddelených bodkočiarkou, kde ako prvé sa uvádza označenie podpisového algoritmu.<sup>4</sup>)
 
   - Hašovacie funkcie
 
-- Označenie hašovacej funkcie | Používané meno | Doba platnosti
+- Označenie hašovacejfunkcie | Používané meno | Doba platnosti
 
-- 2.01 | SHA1 | Do 31. 12. 2009
+- 1.01 | sha1 | Do 31. 12. 2010
 
-- 2.02 | RIPEMD160 | Do 31. 12. 2014
+- 1.02 | ripemd160 | Do 31. 12. 2010
 
-- 2.03 | SHA-224 | -
+- 1.03 | sha224 | neurčená
 
-- 2.04 | SHA-256 | -
+- 1.04 | sha256 | neurčená
 
-- 2.05 | SHA-384 | -
+- 1.05 | whirlpool | neurčená
 
-- 2.06 | SHA-512 | -
+- 1.06 | sha384 | neurčená
 
-- 2.07 | Whirlpool | Do 31. 12. 2014
+- 1.07 | sha512 | neurčená
+
+  - Podpisové algoritmy
+
+- Označenie podpisového algoritmu | Podpisový algoritmus | Algoritmy generovania kľúčov | Podpisový algoritmus podľa minimálnej veľkosti parametrov a doba jeho použitia
+
+- 2.01 | rsa | rsagen1 | MinModLen=1024, ErrProb= 2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 MinModLen=2048, ErrProb= 2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+- 2.02 | dsa | dsagen1 | pMinLen=1024, qMinLen= 160, ErrProb=2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 pMinLen=2048, qMinLen=224, ErrProb=2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+- 2.03 | ecdsa-Fp | ecgen1 | pMinLen=-, qMinLen=160, r0Min=104, MinClass=200, ErrProb=2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 pMinLen=-, qMinLen=224, r0Min=104, MinClass=200, ErrProb=2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+- 2.04 | ecdsa-F2m | ecgen2 | mMin=-, qMinLen=160, r0Min=104, MinClass=200, ErrProb=2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 mMin=-, qMinLen=224, r0Min=104, MinClass=200, ErrProb=2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+- 2.05 | ecgdsa-Fp | ecgen1 | pMinLen=-, qMinLen=160, r0Min=104, MinClass=200, ErrProb=2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 pMinLen=-, qMinLen=224, r0Min=104, MinClass=200, ErrProb=2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+- 2.06 | ecgdsa-F2m | ecgen2 | mMin=-, qMinLen=160, r0Min=104, MinClass=200, ErrProb=2<sup>-80</sup>, SeedEntropy/EntropyBits=80 – do 31. 12. 2010 mMin=-, qMinLen=224, r0Min=104, MinClass=200, ErrProb=2<sup>-100</sup>, SeedEntropy/EntropyBits=100
+
+  - Algoritmy na generovanie kľúčových párov
+
+- Označenie generátora kľúčov | Používané označenie | Podpisový algoritmus | Metóda generovania náhodných čísel | Parametre náhodného generátora
+
+- 3.01 | rsagen1 | rsa | trueran | EntropyBits
+
+- 3.02 | dsagen1 | dsa | trueran alebo pseuran | EntropyBits alebo SeedEntropy
+
+- 3.03 | ecgen1 | ecdsa-Fp, ecgdsa-Fp | trueran alebo pseuran | EntropyBits alebo SeedEntropy
+
+- 3.04 | ecgen2 | ecdsa-F2m, ecgdsa-F2m | trueran alebo pseuran | EntropyBits alebo SeedEntropy
+
+  - Metódy na doplnenie (padding)
+
+- Označenie metódy na doplnenie | Používané označenie | Metóda generovania náhodných čísel | Parametre náhodného generátora
+
+- 4.01 | emsa-pkcs1-v1.5 | – | –
+
+- 4.02 | emsa-pkcs1-v2.1 | – | –
+
+- 4.03 | emsa-pss | trueran/pseuran | MinSaltEntropy
+
+- 4.04 | iso9796ds2 | trueran/pseuran | MinSaltEntropy
+
+- 4.05 | iso9796-din-rn | trueran/pseuran | MinSaltEntropy
+
+- 4.06 | iso9796ds3 | – | –
+
+  - Metódy generovania náhodných čísel
+
+- Označenie metódy generovania | Používané označenie | Parametre náhodného generátora
+
+- 5.01 | trueran | EntropyBits
+
+- 5.02 | pseuran | SeedEntropy
