@@ -4,4 +4,4 @@ Príloha č. 1 k vyhláške č. 529/2009 Z. z.
 
   - Začiatok úseku
 
-- [Obrázok 01](../assets/6752379c9e13818eb35ca2f6135a3a8dd20189df312e8ec00348cb3059196021.pdf)
+- [Obrázok 01](../assets/738d49fa41d2e08cb23e5a848c7df4d17fbbb86804dcb561ccc9714c94d66a3e.pdf)
