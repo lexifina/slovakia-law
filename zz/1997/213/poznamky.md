@@ -2,7 +2,7 @@
 
 - § 1 zákona Slovenskej národnej rady č. 135/1992 Zb. o poskytovaní sociálnych služieb právnickými a fyzickými osobami.
 
-- 2) Napríklad zákon Slovenskej národnej rady č. 135/1992 Zb., zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia a ľudí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
+- 2) Napríklad zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
@@ -23,3 +23,5 @@
 - 11) Napríklad Obchodný zákonník, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 12) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+
+- 13) § 100b a 100c zákona č. 578/2004 Z. z. v znení zákona č. 8/2010 Z. z.
