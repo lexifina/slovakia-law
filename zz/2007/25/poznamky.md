@@ -8,15 +8,13 @@
 
 - 4) § 8 ods. 1 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
-- 4a) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 413/2007 Z. z., ktorou sa vymedzujú úseky diaľnic, ciest pre motorové vozidlá a ciest I. triedy s elektronickým výberom mýta.
+- 4a) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 529/2009 Z. z., ktorou sa vymedzujú úseky diaľnic, rýchlostných ciest a ciest I. triedy s elektronickým výberom mýta v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 10/2010 Z. z.
 
 - 5) § 2 písm. am) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
-- 6) § 51 ods. 1 písm. a) a odseky 2 a 8 vyhlášky Ministerstva vnútra Slovenskej republiky č. 225/2004 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky o premávke na pozemných komunikáciách v znení neskorších predpisov v znení vyhlášky Ministerstva vnútra Slovenskej republiky č. 227/2006 Z. z.
-
 - 7) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.), Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie č. 566/2004 Z. z.).
 
-- 8) § 8 ods. 1 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
+- 8) § 7 písm. a) a b) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
 
 - 8a) Zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
 
