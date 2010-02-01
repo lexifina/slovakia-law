@@ -1,4 +1,4 @@
-Príloha č. 3 k zákonu č. 205/2004 Z. z.
+Príloha k zákonu č. 205/2004 Z. z.
 
 - ZOZNAM preberaných právne záväzných aktov Európskych spoločenstiev a Európskej únie
 
