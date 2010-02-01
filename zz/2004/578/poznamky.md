@@ -210,6 +210,10 @@
 
 - Zákon č. 13/2002 Z. z. v znení neskorších predpisov.
 
+- 75a) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
+
+- 75b) § 31a zákona č. 213/1997 Z. z.
+
 - 76) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
 
 - 77) Zákon Slovenskej národnej rady č. 27/1992 Zb. o Slovenskej komore vysokoškolsky vzdelaných zdravotníckych pracovníkov v znení zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
