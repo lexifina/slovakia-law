@@ -38,6 +38,14 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 7. V § 101 ods. 4 písm. a) sa slová „ 3 000 Sk“ nahrádzajú slovami „99,60 eura“.
 
+- 8. Za § 104 sa vkladá § 104a, ktorý znie:
+
+- „§ 104a
+
+- Do obdobia poistenia v nezamestnanosti na nárok na dávku v nezamestnanosti sa započítava obdobie prerušenia povinného poistenia v nezamestnanosti zamestnanca z dôvodu čerpania rodičovskej dovolenky podľa osobitného predpisu.<sup>45a</sup>)“.
+
+- 9. V § 108 ods. 3 sa na konci pripájajú tieto vety: „Výška dávky v nezamestnanosti sa určuje z pravdepodobného denného vymeriavacieho základu, ak poistenec nemal v rozhodujúcom období uvedenom v odseku 2 vymeriavací základ na platenie poistného na poistenie v nezamestnanosti. Pravdepodobný denný vymeriavací základ je vymeriavací základ podľa § 138 ods. 9, ktorý je platný ku dňu vzniku nároku na dávku v nezamestnanosti a zaokrúhľuje sa na štyri desatinné miesta nahor.“.
+
 - 10. V § 116 ods. 6 sa slová „3 000 Sk“ nahrádzajú slovami „99,60 eura“.
 
 - 12. V § 123 ods. 2 písm. a) prvom bode sa slová „najmenej troch“ nahrádzajú slovami „nasledujúcich dvoch“.
@@ -152,4 +160,16 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - (2)
 
-- Pôsobnosť podľa odseku 1 patrí vecne príslušnej pobočke, ktorá rozhoduje o uložení penále podľa § 178 ods. 1 písm. a) deviateho bodu.“.
+- Pôsobnosť podľa odseku 1 patrí vecne príslušnej pobočke, ktorá rozhoduje o uložení penále podľa § 178 ods. 1 písm. a) deviateho bodu.
+
+- § 293bm
+
+- Prechodné ustanovenia k úpravám účinným od 1. februára 2010
+
+- (1)
+
+- Ak dôvod na poskytnutie dávky v nezamestnanosti vznikol do 31. januára 2010, o dávke v nezamestnanosti sa rozhodne podľa zákona účinného do 31. januára 2010.
+
+- (2)
+
+- Do obdobia poistenia v nezamestnanosti na nárok na dávku v nezamestnanosti sa započítava aj obdobie od 1. februára 2006 do 31. januára 2010, počas ktorého bolo prerušené povinné poistenie v nezamestnanosti z dôvodu čerpania rodičovskej dovolenky podľa osobitného predpisu.<sup>45a</sup>)“.
