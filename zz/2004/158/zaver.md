@@ -1,1 +1,0 @@
-László Gyurovszky v. r.
