@@ -16,7 +16,9 @@
 
 - Vyhláška Ministerstva vnútra Slovenskej republiky č. 393/1990 Zb., ktorou sa ustanovuje paušálna suma trov konania o priestupkoch.
 
-- 5) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
+- 4) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5) § 9a zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
 - 6) Zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
 
@@ -46,7 +48,7 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 58/1997 Z. z.
 
-- 10) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
+- 10) Napríklad zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov, zákon č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 282/2008 Z. z. o podpore práce s mládežou a o zmene a doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10a) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
@@ -96,11 +98,11 @@
 
 - 19a) § 41 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 510/2003 Z. z.
 
-- 20) § 140 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
+- 20) § 15 ods. 4 zákona č. 596/2003 o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2009 Z. z.
 
-- 21) § 14, 18 a 19 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
 - 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek, § 30 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá a § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
 

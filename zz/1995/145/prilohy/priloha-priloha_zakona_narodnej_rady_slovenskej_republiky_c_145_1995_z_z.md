@@ -138,25 +138,31 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Vydanie osvedčenia o tuzemskom práve, za každú aj začatú stranu vybavenia ..... | 1,50 eura
 
-  - d) Vydanie potvrdenia o akreditácii podľa osobitných predpisov<sup>10</sup>) ..... | 66 eur
+  - d) Konanie o akreditácii vzdelávacieho programu podľa osobitných predpisov<sup>10</sup>) ..... | 100 eur
 
-  - e) Zápis do zoznamu odborne spôsobilých osôb podľa osobitného predpisu<sup>10a</sup>) ..... | 33 eur
+  - e) Konanie o udelení oprávnenia na vykonávanie skúšky na overenie odbornej spôsobilosti ..... | 200 eur
 
-  - f) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 165,50 eura
+  - f) Vydanie odpisu osvedčenia o čiastočnej kvalifikácii alebo osvedčenia o úplnej kvalifikácii ..... | 10 eur
 
-  - g) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 1,50 eura
+  - g) Zápis do zoznamu odborne spôsobilých osôb podľa osobitného predpisu<sup>10a</sup>) ..... | 33 eur
 
-  - h) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
+  - h) Zápis do zoznamu znalcov, tlmočníkov a prekladateľov ..... | 165,50 eura
 
-  - i) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
+  - i) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 1,50 eura
 
-  - j) ročný poplatok správcu-fyzickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
+  - j) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
 
-  - k) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
+  - k) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
 
-  - l) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 1,50 eura
+  - l) ročný poplatok správcu-fyzickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
+
+  - m) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
+
+  - n) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 1,50 eura
 
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
+
+  - Oslobodenie Od poplatku podľa písmena d) tejto položky sú oslobodené gymnázia, stredné odborné školy, konzervatóriá, školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami, základné umelecké školy, jazykové školy, ktoré žiadajú o akreditáciu vzdelávacieho programu ďalšieho vzdelávania zodpovedajúcu študijným odborom alebo učebným odborom, ktoré sú uvedené pre príslušnú školu v sieti,<sup>20</sup>) a vysoká škola, ktorá žiada o akreditáciu vzdelávacieho programu ďalšieho vzdelávania v rozsahu platnej akreditácie vysokoškolských študijných programov.<sup>21</sup>) |
 
     - Položka 6
 
