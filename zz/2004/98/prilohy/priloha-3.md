@@ -1,1 +1,1 @@
-Príloha č. 3 k zákonu č. 98/2004 Z. z. [Vzor 03](../assets/a86a2ee40ceef68cae494f489f6fd2413e0f2dc6a4326c340d4a8b8af8c9287c.pdf)
+Príloha č. 3 k zákonu č. 98/2004 Z. z. [Vzor 03](../assets/36e2215957c436407efc91d37a98520070e1c5a4e98c1228522185a562c5965a.pdf)
