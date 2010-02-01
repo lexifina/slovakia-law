@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 24/2010 Z. z.
+
+- OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÝCH MINERÁLNYCH ZDROJOV V TORNALI ![Obrázok 02](../assets/d69c4387cfcb866e103cb72f57af9eb0509596fcd6b56db5bf8060c345d66880.jpg)
