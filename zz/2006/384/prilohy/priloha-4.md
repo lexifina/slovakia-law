@@ -1,15 +1,13 @@
 Príloha č. 4 k nariadeniu vlády č. 384/2006 Z. z.
 
-- Výška pracovných taríf pre obvinených a odsúdených zaradených do práce (v eurách za hodinu)
+- VÝŠKA PRACOVNÝCH TARÍF PRE OBVINENÝCH A ODSÚDENÝCH ZARADENÝCH DO PRÁCE (v eurách za hodinu)
 
-- Pracovný stupeň | Počet rokov započítanej praxe | Pracovná trieda | | |
+- Pracovný stupeň | Počet rokov započítanej praxe | Pracovná trieda | | | | | |
 
-- | | 1 | 2 | 3 | 4
+- | | 1 | | | | 2 | 3 | 4
 
-- 1 | do 5 rokov | 0,78 | 0,84 | 0,92 | 1,50
+- 1 | do 5 rokov | 0,807 | | | | 0,876 | 0,948 | 1,551
 
-- 2 | od 5 do 10 rokov | 0,82 | 0,88 | 0,96 | 1,56
+- 2 | od 5 do 10 rokov | 0,843 | | | | 0,911 | 0,990 | 1,620
 
-- 3 | nad 10 rokov | 0,85 | 0,92 | 1,00 | 1,63
-
-- .
+- 3 | nad 10 rokov | 0,879 | | | | 0,951 | 1,031 | 1,686
