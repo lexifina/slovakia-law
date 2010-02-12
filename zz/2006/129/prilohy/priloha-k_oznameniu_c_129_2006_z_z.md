@@ -414,6 +414,12 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. ktorákoľvek osoba poverená „Director-General: Foreign Affairs"
 
+    - Kapverdská republika
+
+    - ,Direcção-Geral dos Registos e Notariado` Ministerstva spravodlivosti
+
+    - ,Direcção-Geral dos Assuntos Consulares e Comunidades` Ministerstva zahraničných vecí
+
     - Kazachstan
 
   - 1. Ministerstvo spravodlivosti Kazašskej republiky – pre verejné listiny vydané justičnými orgánmi a inými štátnymi orgánmi vrátane notárov
