@@ -27,3 +27,31 @@ Príloha č. 2 k nariadeniu vlády č. 329/2007 Z. z.
   - 12. Smernica Komisie 2008/85/ES z 5. septembra 2008, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tiabendazol ako aktívnu látku do prílohy I k smernici (Ú. v. EÚ L 239, 6. 9. 2008).
 
   - 13. Smernica Komisie 2008/86/ES z 5. septembra 2008, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tebukonazol ako aktívnu látku do prílohy I uvedenej k smernici (Ú. v. EÚ L 239, 6. 9. 2008).
+
+  - 14. Smernica Komisie 2009/84/ES z 28. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť oxid-difluorid siričitý ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 197, 29. 7. 2009).
+
+  - 15. Smernica Komisie 2009/85/ES z 29. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť kumatetralyl ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 198, 30. 7. 2009).
+
+  - 16. Smernica Komisie 2009/86/ES z 29. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť fenpropimorf ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 198, 30. 7. 2009).
+
+  - 17. Smernica Komisie 2009/87/ES z 29. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť indoxakarb ako aktívnu látku do prílohy I k tejto smernici (Ú. v. EÚ L 198, 30. 7. 2009).
+
+  - 18. Smernica Komisie 2009/88/ES z 30. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tiakloprid ako aktívnu látku do prílohy I k smernici (Ú. v. EÚ L 199, 31. 7. 2009).
+
+  - 19. Smernica Komisie 2009/89/ES z 30. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť dusík ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 199, 31. 7. 2009).
+
+  - 20. Smernica Komisie 2009/91/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tetraboritan sodný ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 21. Smernica Komisie 2009/92/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť bromadiolón ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 22. Smernica Komisie 2009/93/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť alfachloralózu ako aktívnu látku do prílohy I k smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 23. Smernica Komisie 2009/94/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť kyselinu trihydrogenboritú ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 24. Smernica Komisie 2009/95/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť fosfid hlinitý ako aktívnu látku do prílohy I k smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 25. Smernica Komisie 2009/96/ES z 31. júla 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tetrahydrát oktaboritanu disodného ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 201, 1. 8. 2009).
+
+  - 26. Smernica Komisie 2009/98/ES zo 4. augusta 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť oxid boritý ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 203, 5. 8. 2009).
+
+  - 27. Smernica Komisie 2009/99/ES zo 4. augusta 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť chlórofacinón ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 203, 5. 8. 2009).
