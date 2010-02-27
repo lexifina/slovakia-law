@@ -91,3 +91,13 @@
 - Nariadenie Komisie (ES) č. 2032/2003 zo 4. novembra 2003 o druhej fáze 10-ročného pracovného programu uvedeného v článku 16 ods. 2 smernice Európskeho parlamentu a Rady 98/8/ES o uvádzaní biocídnych prípravkov na trh a ktorým sa mení a dopĺňa nariadenie (ES) č. 1896/2000 (Ú. v. EÚ L 307, 24. 11. 2003).
 
 - 31b) Nariadenie Komisie (ES) č. 1048/2005 z 13. júna 2005, ktorým sa mení a dopĺňa nariadenie Komisie (ES) č. 2032/2003 o druhej fáze 10-ročného pracovného programu uvedeného v článku 16 ods. 2 smernice Európskeho parlamentu a Rady 98/8/ES o uvádzaní biocídnych výrobkov na trh (Ú. v. EÚ L 178, 9. 7. 2005).
+
+- 32) Príloha Sadzobník správnych poplatkov časť VIII položka 153a zákona č. 145/1995 Z. z. v znení neskorších predpisov.
+
+- 33) Príloha II k nariadeniu Európskej komisie (ES) č. 1451/2007 zo 4. decembra 2007 o druhej fáze desaťročného pracovného programu podľa článku 16(2) smernice Európskeho parlamentu a Rady 98/8/EC o uvedení biocídnych výrobkov na trh (U. v. EÚ L 325, 11. 12. 2007).
+
+- 34) Čl. 4 ods. 2 nariadenia (ES) č. 1451/2007.
+
+- 35) Nariadenie vlády Slovenskej republiky č. 329/2007 Z. z., ktorým sa vydáva zoznam účinných látok vyhovujúcich na zaradenie do biocídnych výrobkov v znení nariadenia vlády Slovenskej republiky č. 189/2008 Z. z. a nariadenia vlády Slovenskej republiky č. 24/2009 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 188/2008 Z. z., ktorým sa vydáva zoznam účinných látok s nízkym rizikom vyhovujúcich na zaradenie do biocídnych výrobkov s nízkym rizikom.
