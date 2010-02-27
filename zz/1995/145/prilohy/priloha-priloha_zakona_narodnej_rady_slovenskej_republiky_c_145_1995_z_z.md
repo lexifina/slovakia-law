@@ -2814,37 +2814,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153a
 
-  - a) Vydanie rozhodnutia o autorizácii biocídneho výrobku podľa § 4 ods. 2 zákona č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov | 6 638,50 eura
+  - a) Vydanie rozhodnutia o autorizácii biocídneho výrobku na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z............ | 1 659,50 eura
 
-  - b) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom podľa § 4 ods. 4 zákona č. 217/2003 Z. z. | 3 319 eur
+  - b) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z.............. | 829,50 eura
 
-  - c) Vydanie rozhodnutia o autorizácii biocídneho výrobku na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 1 659,50 eura
+  - c) Zmena rozhodnutia o autorizácii biocídneho výrobku, o registrácii biocídneho výrobku s nízkym rizikom, o autorizácii biocídneho výrobku na základe vzájomného uznania alebo o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania............... | 497,50 eura
 
-  - d) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 829,50 eura
+  - d) Autorizácia biocídneho výrobku alebo registrácia biocídneho výrobku s nízkym rizikom podľa § 9 zákona č. 217/2003 Z. z.............. | 1 659,50 eura
 
-  - e) Zmena rozhodnutia o autorizácii biocídneho výrobku, o registrácii biocídneho výrobku s nízkym rizikom, o autorizácii biocídneho výrobku na základe vzájomného uznania alebo o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania | 497,50 eura
+  - e) Podanie žiadosti o určenie rámcového zloženia biocídneho výrobku alebo biocídneho výrobku s nízkym rizikom podľa § 7 ods. 9 zákona č. 217/2003 Z. z........... | 663,50 eura
 
-  - f) Autorizácia biocídneho výrobku alebo registrácia biocídneho výrobku s nízkym rizikom podľa § 9 zákona č. 217/2003 Z. z. | 1 659,50 eura
+  - f) Podanie žiadosti o možnosť vykonávania pokusov, testov alebo skúšok podľa § 14 ods. 5 zákona č. 217/2003 Z. z............. | 995,50 eura
 
-  - g) Podanie žiadosti o určenie rámcového zloženia biocídneho výrobku alebo biocídneho výrobku s nízkym rizikom podľa § 7 ods. 9 zákona č. 217/2003 Z. z. | 663,50 eura
-
-  - h) Podanie žiadosti o možnosť vykonávania pokusov, testov alebo skúšok podľa § 14 ods. 5 zákona č. 217/2003 Z. z. | 995,50 eura
-
-  - i) Posúdenie úplnosti predloženej dokumentácie podľa § 12 ods. 3 zákona č. 217/2003 Z. z. pre |
-
-  - 1. prvú kombináciu účinnej látky a typ výrobku pre účinné látky vyhovujúce na zaradenie do biocídnych výrobkov alebo pre účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 33 193,50 eura
-
-  - 2. každú ďalšiu kombináciu účinnej látky a typ výrobku pre účinné látky vyhovujúce na zaradenie do biocídnych výrobkov alebo pre účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 8 298 eur
-
-  - j) Hodnotenie účinnej látky pre |
-
-  - 1. prvú kombináciu účinnej látky a typ výrobku na účely jej zaradenia medzi účinné látky vyhovujúce na zaradenie do biocídnych výrobkov alebo účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 165 969,50 eura
-
-  - 2. každú ďalšiu kombináciu účinnej látky a typ výrobku na účely jej zaradenia medzi účinné látky vyhovujúce na zaradenie do biocídnych výrobkov alebo medzi účinné látky s nízkym rizikom vyhovujúce na zaradenie do biocídnych výrobkov s nízkym rizikom | 41 492 eur
-
-    - k) vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh
-
-    - podľa § 33 ods. 2 zákona č. 217/2003 Z. z. ............................... 165,50 eura.
+  - g) Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh podľa § 33 ods. 2 zákona č. 217/2003 Z. z. ................................... | 165,50 eura
 
     - Položka 154
 
@@ -3944,7 +3926,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
       - Položka 230
 
-    - a) Návrh na výmaz ochrannej známky z registra ochranných známok ..... | 49,50 eura
+    - a) Návrh na zrušenie ochrannej známky alebo návrh na vyhlásenie ochrannej známky za neplatnú ..... | 49,50 eur
 
     - b) Podanie námietok proti zápisu označenia do registra ochranných známok ..... | 26,50 eura
 
