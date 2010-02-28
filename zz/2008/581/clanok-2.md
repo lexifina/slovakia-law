@@ -20,7 +20,17 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 5. V § 23 ods. 9 písm. d) sa za slová „počet poistencov podľa pohlavia a veku“ vkladajú slová „a počet poistencov, za ktorých platiteľom poistného nie je štát, a za ktorých platiteľom poistného je štát podľa pohlavia a veku“.
 
+- 6. V § 27 ods. 2 písm. c) sa za slová „podľa pohlavia a veku“ vkladá čiarka a slová „za ktorých platiteľom poistného nie je štát [§ 11 ods. 1 písm. a) až c)]“.
+
+- 7. V § 27 sa odsek 2 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- počet poistencov, za ktorých platiteľom poistného je štát [§ 11 ods. 1 písm. d)] podľa pohlavia a veku za kalendárny mesiac, za ktorý sa mesačné prerozdeľovanie vykonáva.“.
+
 - 8. V § 27 ods. 3 sa slová „85 %“ nahrádzajú slovami „95 %“.
+
+- 9. V § 27 ods. 8 písm. a) v treťom bode sa na konci pripájajú slová „a d),“.
 
 - 12. V § 27a ods. 3 sa slová „85,5 %“ nahrádzajú slovami „95 %“.
 
