@@ -50,6 +50,8 @@
 
 - 16a) Napríklad zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 62 ods. 3 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 16ab) § 53a Občianskeho zákonníka.
+
 - 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006.
 
 - 17) Zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov v znení neskorších predpisov.
