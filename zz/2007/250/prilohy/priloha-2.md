@@ -13,3 +13,5 @@ Príloha č. 2 k zákonu č. 250/2007 Z. z.
   - 5. Smernica Rady 2004/113/ES z 13. decembra 2004 o vykonávaní zásady rovnakého zaobchádzania medzi mužmi a ženami v prístupe k tovaru a službám a k ich poskytovaniu. (Ú. v. EÚ L 373, 21. 12. 2005).
 
   - 6. Smernica Európskeho parlamentu a Rady 98/6/ES zo 16. februára 1998 o ochrane spotrebiteľa pri označovaní cien výrobkov ponúkaných spotrebiteľovi (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 4; Ú. v. ES L 80, 18. 3. 1998).
+
+  - 7. Smernica Rady č. 93/13/EHS z 5. apríla 1993 o nekalých podmienkach v spotrebiteľských zmluvách (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 95, 21. 4. 1993).

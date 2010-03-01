@@ -42,7 +42,13 @@
 
 - 12) Napríklad zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov.
 
-- 12a) § 2 ods. 1 písm. g) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+- 12a) § 53a Občianskeho zákonníka.
+
+- 12b) § 53 Občianskeho zákonníka.
+
+- 12c) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 12d) § 2 ods. 1 písm. g) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
 - 13) § 5 ods. 1 písm. l) zákona č. 16/2004 Z. z. o Slovenskej televízii v znení zákona č. 220/2007 Z. z.
 
