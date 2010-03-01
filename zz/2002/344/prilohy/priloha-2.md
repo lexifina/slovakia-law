@@ -465,3 +465,9 @@
   - Ksaver 200a
 
   - Záhreb.
+
+  - Uruguajská východná republika:
+
+  - a) Dohovor pre Uruguajskú východnú republiku nadobudol platnosť 1. marca 2010.
+
+  - b) Uruguajská východná republika pri podpise a uložení ratifikačnej listiny vyhlásenia ani výhrady neurobila.
