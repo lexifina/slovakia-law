@@ -52,6 +52,8 @@
 
 - 18b) § 6 ods. 1 písm. h) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
+- 18ba) § 3 ods. 3 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2010 Z. z.
+
 - 18c) § 149 Zákonníka práce.
 
 - 18d) § 133 ods. 3 Zákonníka práce.
