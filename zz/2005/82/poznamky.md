@@ -18,6 +18,8 @@
 
 - Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8b) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
+
 - 9) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
 - Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
