@@ -1,10 +1,10 @@
 # § 68a Správne delikty
 
-(1) Ústredie a úrad sú oprávnené uložiť pokutu
+(1) Ústredie a úrad uložia pokutu
 
 - a) zamestnávateľovi za porušenie povinností podľa tohto zákona do výšky 33 193,91 eura,
 
-- b) právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za nelegálne zamestnávanie podľa osobitného predpisu<sup>18a</sup>) do výšky 33 193,91 eura.
+- b) právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za nelegálne zamestnávanie podľa osobitného predpisu<sup>18a</sup>) do výšky od 2 000 eur do 200 000 eur.
 
 (2) Ústredie a úrad pri ukladaní pokuty podľa odseku 1 prihliadajú na závažnosť zistených nedostatkov a na závažnosť ich následkov.
 

@@ -14,7 +14,7 @@
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
-- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6) Napríklad § 226 ods. 2 Obchodného zákonníka, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
@@ -53,6 +53,10 @@
 - 18a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 18aa) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
+
+- 19a) § 3 ods. 3 zákona č. 82/2005 Z. z. v znení zákona č. 52/2010 Z. z.
 
 - 20) § 73 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
@@ -126,7 +130,7 @@
 
 - 45a) Napríklad zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 46) Nariadenie Komisie (ES) č. 68/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 Zmluvy o ES na pomoc vzdelávaniu (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 2; Ú. v. ES L 10, 13. 1. 2001) v platnom znení.
+- 46) Nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
 
 - 46a) § 281 až 288 Obchodného zákonníka.
 
@@ -157,6 +161,8 @@
 - 52) Čl. 1 nariadenia Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
 
 - Nariadenie Komisie (ES) č. 1998/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy na pomoc de minimis (Ú. v. EÚ L 379, 28. 12. 2006).
+
+- 53) § 20f Občianskeho zákonníka.
 
 - 59a) Zákon č. 231/1999 Z. z. v znení neskorších predpisov.
 
@@ -201,5 +207,3 @@
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
-
-- 65) § 20f Občianskeho zákonníka.
