@@ -2,7 +2,9 @@
 
 - § 14 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 2) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 2) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2a) Trestný zákon.
 
 - 3) § 10 a 855 Občianskeho zákonníka.
 
