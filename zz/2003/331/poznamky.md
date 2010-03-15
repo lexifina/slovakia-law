@@ -4,6 +4,8 @@
 
 - 3) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3a) Trestný zákon.
+
 - 4) § 10 a 855 Občianskeho zákonníka.
 
 - 5) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
