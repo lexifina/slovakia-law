@@ -1196,47 +1196,173 @@ K oznámeniu č. 129/2006 Z. z.
 
       - e-mail: mfa@mfat.gov.ws
 
-      - San Maríno
+      - Sanmarínska republika
 
-  - 1. „il Segretario di Stato per gli Affari Esteri della Repubblica di San Marino"
+    - Ministerstvo zahraničných vecí (Segretario di Stato per gli Affari Esteri)
 
-  - 2. alebo iná ním určená osoba
+    - Antonella Mularoni
 
-    - Zoznam určených osôb
+    - Segretario di Stato per gli Affari Esteri,
 
-    - Fabio Berardi (Segretario di Stato per gli Affari Esteri e Politici, la Programmazione Economica e la Giustizia)
+    - gli Affari Politici, le Telecomunicazioni e i Trasporti
 
-    - Loris Francini (Segretario di Stato per gli Affari Interni, la Protezione Civile e i Rapporti con le Giunte di Castello)
+    - Valeria Ciavatta
 
-    - Pier Marino Mularoni (Segretario di Stato per le Finanze, il Bilancio, i Trasporti e i Rapporti con l Azienda Autonoma di Stato Filarelica e Numismatica e l Azienda Autonoma di Stato per i Servizi Pubblici)
+    - Segretario di Stato per gli Affari Interni
 
-    - Luciano Bollini (Coordinatore, Dipartimento Affari Esteri)
+    - e la Protezione Civile
 
-    - Pietro Giacomini (Direttore Generale, Dipartimento Affari Esteri)
+    - Pasquale Valentini
 
-    - Maria Lea Pedini (Direttore degli Affari Culturali e Informazione, Dipartimento Affari Esteri)
+    - Segretario di Stato per le Finanze e il Bilancio,
 
-    - Savina Zafferani (Collaboratore nella Direzione degli Affari Economici e Sociali, Dipartimento Affari Esteri)
+    - i Rapporti con I´A.A.S.F.N.
 
-    - Maria Alessandra Albertini (Incaricata della gestione della Direzione Affari Politici, Dipartimento Affari Esteri)
+    - Nicoletta Corbelli
 
-    - Dario Galassi (Collaboratore nella Direzione degli Affari Politici e nella Direzione degli Affari Economici e Sociali, Dipartimento Affari Esteri)
+    - Coordinatore
 
-    - Luca Brandi (Incaricato della gestione della Direzione dei Rapporti con le Comunitŕ all estero e della Direzione Affari Politici, Dipartimento Affari Esteri)
+    - Dipartimento Affari Esteri
 
-    - Marcello Beccari (Incaricato della gestione del Cerimoniale dello Stato, Dipartimento Affari Esteri)
+    - Maria Lea Pedini
 
-    - Corrado Carattoni (Incaricato della gestione del Cerimoniale dello Stato, Dipartimento Affari Esteri)
+    - Direttore Generale
 
-    - Silvia Berti (Segretario d Ambasciata, Dipartimento Affari Esteri)
+    - Dipartimento Affari Esteri
 
-    - Eros Gasperoni (Segretario d Ambasciata, Dipartimento Affari Esteri)
+    - Savina Zafferani
 
-    - Giovanna Crescentini (Dirigente Segretaria Istituzionale, Dipartimento Affari Interni)
+    - Direttore degli Affari Economici e Sociali
 
-    - Domenico Gasperoni (Dirigente Segretaria Esecutiva, Dipartimento Affari Interni)
+    - Dipartimento Affari Esteri
 
-    - Lucio Leopoldo Daniele (Avvocato dello Stato Dirigente, Dipartimento Affari Interni)
+    - Federica Bigi
+
+    - Direttore degli Affari Politici
+
+    - Dipartimento Affari Esteri
+
+    - Corrado Carattoni
+
+    - Direttore degli Affari Culturali e Informazione
+
+    - Dipartimento Affari Esteri
+
+    - Marcello Beccari
+
+    - Direttore del Cerimoniale dello Stato
+
+    - Dipartimento Affari Esteri
+
+    - Maria Alessandra Albertini
+
+    - Consigliere d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Luca Brandi
+
+    - Consigliere d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Dario Galassi
+
+    - Consigliere d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Stefano Stolfi
+
+    - Incaricato della gestione della Direzione dei
+
+    - Rapporti con le Comunitá all´estero
+
+    - Dipartimento Affari Esteri
+
+    - Silvia Berti
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Eros Gasperoni
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Nilla Bernardi
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Sylvie Bollini
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Silvia Marchetti
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Ilaria Salicioni
+
+    - Segretario d´Ambasciata
+
+    - Dipartimento Affari Esteri
+
+    - Giovanni Conti
+
+    - Ufficio Passaporti e Legalizzazioni
+
+    - Dipartimento Affari Esteri
+
+    - Marialaura Marinozzi
+
+    - Dipartimento Affari Esteri
+
+    - Giovanna Crescentini
+
+    - Dirigente Segretaria Istituzionale
+
+    - Dipartimento Affari Interni
+
+    - Lucio L. Daniele
+
+    - Dirigente dell´Ufficio Centrale di Collegamento
+
+    - Antonio Nikolakopoulos
+
+    - Funzionario dell´Ufficio Centrale di Collegamento
+
+    - Sabrina Bernardi
+
+    - Avvocato dello Stato Dirigente
+
+    - Dipartimento Affari Interni
+
+    - Barbara Reffi
+
+    - Avvocato dello Stato
+
+    - Dipartimento Affari Interni
+
+    - Alessandra Belardini
+
+    - Avvocato dello Stato
+
+    - Dipartimento Affari Interni
+
+    - Simona Ugolini
+
+    - Avvocato dello Stato
+
+    - Dipartimento Affari Interni
 
     - Seychely
 
