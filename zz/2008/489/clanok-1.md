@@ -6,6 +6,68 @@ Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákon
 
 - 2. V § 2 ods. 2 sa za slová „príprava transfúznych liekov,“ vkladajú slová „príprava liekov na inovatívnu liečbu,“.
 
+- 3. V § 2 ods. 10 sa za slovo „zariadenie,“ vkladajú slová „počítačový program,“.
+
+- 4. V § 2 odseky 12 až 15 znejú:
+
+- „(12)
+
+- Aktívna zdravotnícka pomôcka je zdravotnícka pomôcka, ktorej chod závisí od zdroja elektrickej energie alebo od iného zdroja energie okrem energie vytvorenej priamo ľudským organizmom alebo gravitáciou.
+
+- (13)
+
+- Aktívna implantovateľná zdravotnícka pomôcka je aktívna zdravotnícka pomôcka určená na implantovanie vcelku alebo jej časti do ľudského tela chirurgickým alebo iným lekárskym zákrokom, alebo na implantovanie do prirodzeného otvoru lekárskym zákrokom a ktorá má po vykonaní zákroku zostať na mieste implantovania.
+
+- (14)
+
+- Ak zdravotnícka pomôcka alebo aktívna implantovateľná zdravotnícka pomôcka spĺňa technické požiadavky na bezpečnosť a účinnosť, ktoré sú uvedené v osobitnom predpise,<sup>1a</sup>) a tvorí s liečivom neoddeliteľný celok, je určená len na použitie v danom spojení a nie je opakovateľne použiteľná; skúša a povoľuje sa ako liek.
+
+- (15)
+
+- Zdravotnícka pomôcka alebo aktívna implantovateľná zdravotnícka pomôcka sa posudzuje ako zdravotnícka pomôcka alebo aktívna implantovateľná zdravotnícka pomôcka, ak
+
+- a)
+
+- obsahuje ako neoddeliteľnú súčasť látku, ktorá, ak sa použije oddelene, považuje sa za liečivo alebo za zložku z krvi, alebo za transfúzny liek a ktorá môže svojím pôsobením na ľudské telo podporovať účinok zdravotníckej pomôcky alebo aktívnej implantovateľnej zdravotníckej pomôcky, alebo
+
+- b)
+
+- je určená na podanie liečiva.“.
+
+- Poznámka pod čiarou k odkazu 1a znie:
+
+- „1a)
+
+- § 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+
+- Príloha č. 1 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok v znení neskorších predpisov.
+
+- Príloha č. 1 nariadenia vlády Slovenskej republiky č. 570/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.“.
+
+- 5. V § 2 odsek 19 znie:
+
+- „(19)
+
+- Pri rozhodovaní, či výrobok je liekom, zdravotníckou pomôckou alebo aktívnou implantovateľnou zdravotníckou pomôckou, sa zohľadňuje jeho hlavný účinok pôsobenia.“.
+
+- 6. § 2 sa dopĺňa odsekmi 31 až 34, ktoré znejú:
+
+- „(31)
+
+- Uvedenie zdravotníckej pomôcky na trh je prvé sprístupnenie zdravotníckej pomôcky bez ohľadu na skutočnosť, či ide o novú zdravotnícku pomôcku alebo o obnovenú zdravotnícku pomôcku, inej osobe odplatne alebo bezodplatne na účely distribúcie alebo používania na trhu Európskych spoločenstiev (ďalej len „spoločenstvo“) okrem používania na účely klinického skúšania.
+
+- (32)
+
+- Uvedenie zdravotníckej pomôcky do prevádzky je sprístupnenie zdravotníckej pomôcky konečnému používateľovi na prvé použitie v spoločenstve v súlade s jej účelom určenia.
+
+- (33)
+
+- Účelom určenia je používanie, na ktoré je zdravotnícka pomôcka určená podľa údajov uvedených výrobcom na zdravotníckej pomôcke alebo na jej obale, v návode na použitie alebo v propagačných materiáloch.
+
+- (34)
+
+- Zdravotníckou pomôckou na jednorazové použitie je zdravotnícka pomôcka určená na jedno použitie u jedného pacienta.“.
+
 - 7. V § 7 ods. 1 sa za slová „transfúznych liekov,“ vkladajú slová „na individuálnu prípravu liekov na inovatívnu liečbu,<sup>6aba</sup>)“.
 
 Poznámka pod čiarou k odkazu 6aba znie:
@@ -40,9 +102,139 @@ Po nadobudnutí právoplatnosti rozhodnutia o registrácii lieku zapíše štát
 
 Štátny ústav predkladá komisii a ministerstvu zdravotníctva oznámenie o registrácii, o predĺžení registrácie, o zmene v registrácii, o zrušení registrácie alebo o pozastavení registrácie, ktoré ministerstvo zdravotníctva zverejňuje vo Vestníku Ministerstva zdravotníctva Slovenskej republiky.“.
 
+11. V § 27 odseky 1 až 4 znejú:
+
+„(1)
+
+Výrobca zdravotníckej pomôcky (§ 2 ods. 10 až 13) je fyzická osoba alebo právnická osoba, ktorá zodpovedá za konštrukčné riešenie, výrobu, systém kvality výroby, balenie, označovanie a účel určenia zdravotníckej pomôcky alebo za montovanie, spracovanie, obnovenie, balenie, označovanie a účel určenia prefabrikovaného výrobku a za to, že tieto operácie vykonala sama alebo z jej poverenia zmluvný výrobca. Povinnosti vyplývajúce z tohto zákona a z osobitných predpisov,<sup>12a</sup>) ktoré sa vzťahujú na výrobcu zdravotníckej pomôcky, sa vzťahujú aj na fyzickú osobu alebo právnickú osobu, ktorá montuje, balí, spracováva, obnovuje alebo označuje nálepkou jeden alebo viac prefabrikovaných výrobkov alebo im určuje účel určenia ako zdravotníckej pomôcke a uvádza ich na trh; plnenie týchto povinností sa nevzťahuje na fyzickú osobu alebo právnickú osobu, ktorá montuje alebo prispôsobuje pacientom zdravotnícke pomôcky už uvedené na trh v súlade s účelom určenia.
+
+(2)
+
+Výrobca s miestom podnikania alebo so sídlom v Slovenskej republike, ktorý uvádza zdravotnícke pomôcky na trh alebo do prevádzky podľa osobitných predpisov,<sup>12a</sup>) a fyzická osoba s miestom podnikania alebo právnická osoba so sídlom v Slovenskej republike, ktorá kompletizuje alebo sterilizuje zdravotnícke pomôcky s cieľom uviesť ich na trh alebo do prevádzky podľa osobitných predpisov,<sup>14</sup>) písomne oznámi štátnemu ústavu adresu miesta podnikania alebo adresu sídla a opis zdravotníckych pomôcok uvádzaných na trh alebo do prevádzky (ďalej len „registrácia výrobcu“); registrácia výrobcu sa vzťahuje aj na výrobcu diagnostických zdravotníckych pomôcok in vitro s miestom podnikania alebo so sídlom mimo územia Slovenskej republiky, ak diagnostickú zdravotnícku pomôcku in vitro uvádza na trh v Slovenskej republike.
+
+(3)
+
+Ak výrobca, ktorý uvádza zdravotnícku pomôcku na trh alebo do prevádzky, nemá miesto podnikania alebo sídlo v spoločenstve, ustanoví v spoločenstve jednu fyzickú osobu s bydliskom alebo fyzickú osobu s miestom podnikania na území spoločenstva alebo právnickú osobu so sídlom na území spoločenstva, ktorú písomne poverí svojím zastupovaním a na ktorú sa môžu obracať orgány a osoby spoločenstva (ďalej len „splnomocnenec“). Na splnomocnenca, ktorý má bydlisko alebo miesto podnikania, alebo sídlo v Slovenskej republike, sa vzťahuje registrácia výrobcu podľa odseku 2. Štátny ústav na požiadanie informuje príslušné orgány iných členských štátov a komisiu o údajoch, ktoré predložil výrobca alebo splnomocnenec pri registrácii výrobcu.
+
+(4)
+
+Podrobnosti a rozsah údajov o výrobcovi, splnomocnencovi a zdravotníckych pomôckach uvádzaných na trh alebo do prevádzky a o forme a spôsobe registrácie výrobcu ustanoví nariadenie vlády Slovenskej republiky.“.
+
+Poznámka pod čiarou k odkazu 12a znie:“.
+
+„12a)
+
+Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
+
+Nariadenie vlády Slovenskej republiky č. 569/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody diagnostických zdravotníckych pomôcok in vitro.
+
+Nariadenie vlády Slovenskej republiky č. 570/2001 Z. z.
+
+Nariadenie vlády Slovenskej republiky č. 572/2001 Z. z. v znení neskorších predpisov.“.
+
 12. V § 27 ods. 5 sa v prvej vete slová „zdravotnícka pomôcka“ nahrádzajú slovami „diagnostická zdravotnícka pomôcka in vitro“.
 
+13. V § 27 odseky 7 až 10 znejú:
+
+„(7)
+
+Klinickému skúšaniu podliehajú zdravotnícke pomôcky a aktívne implantovateľné zdravotnícke pomôcky. Výrobca alebo splnomocnenec je povinný písomne oznámiť štátnemu ústavu najmenej 60 dní pred začiatkom klinického skúšania, že má v úmysle vykonať klinické skúšanie zdravotníckej pomôcky alebo aktívnej implantovateľnej zdravotníckej pomôcky.
+
+(8)
+
+Pri aktívnych implantovateľných zdravotníckych pomôckach, zdravotníckych pomôckach triedy III a implantovateľných a inváznych zdravotníckych pomôckach na dlhodobé používanie triedy IIa<sup>12ab</sup>) alebo triedy IIb<sup>12ac</sup>) môže výrobca začať klinické skúšky po uplynutí lehoty 60 dní od písomného oznámenia štátnemu ústavu o tom, že má v úmysle vykonať klinické skúšanie, ak mu štátny ústav v tejto lehote neoznámi zamietavé rozhodnutie odôvodnené ochranou verejného zdravia alebo verejného poriadku.
+
+(9)
+
+Výrobca môže začať klinické skúšanie zdravotníckych pomôcok, ktoré sú uvedené v odseku 8, aj pred uplynutím 60-dňovej lehoty od písomného oznámenia štátnemu ústavu o tom, že má v úmysle vykonať klinické skúšanie zdravotníckych pomôcok, ak mu príslušná etická komisia vydala súhlasné vyjadrenie k programu a plánu klinického skúšania.
+
+(10)
+
+Výrobca môže začať klinické skúšanie zdravotníckych pomôcok, ktoré nie sú uvedené v odseku 8, bezodkladne po písomnom oznámení štátnemu ústavu o tom, že má v úmysle vykonať klinické skúšanie zdravotníckych pomôcok, ak príslušná etická komisia vydala súhlasné vyjadrenie k programu a plánu klinického skúšania.“.
+
+Poznámky pod čiarou k odkazom 12ab a 12ac znejú:“.
+
+„12ab)
+
+Príloha č. 9 časť III bod 2.1. písm. c) a bod 2.4. písm. a) nariadenia vlády Slovenskej republiky č. 572/2001 Z. z.
+
+12ac)
+
+Príloha č. 9 časť III bod 2.1. písm. c) a bod 2.4. nariadenia vlády Slovenskej republiky č. 572/2001 Z. z.“.
+
 14. V § 27 ods. 14 sa na konci pripája táto veta: „Zakazuje sa uvádzať na trh ortuťové teplomery, ktoré sú určené na meranie telesnej teploty.“.
+
+15. § 27 sa dopĺňa odsekmi 18 až 27, ktoré znejú:
+
+„(18)
+
+Ak štátny ústav zamietne alebo zruší klinické skúšanie, oznámi rozhodnutie a dôvody príslušným orgánom členských štátov a komisii. Ak štátny ústav požaduje podstatnú zmenu klinického skúšania alebo pozastaví klinické skúšanie, informuje o týchto opatreniach a dôvodoch na ich prijatie príslušné orgány členských štátov.
+
+(19)
+
+Výrobca alebo splnomocnenec oznámi príslušným orgánom dotknutých členských štátov skončenie klinického skúšania alebo skoršie skončenie klinického skúšania s uvedením dôvodov. Ak ide o skoršie skončenie klinického skúšania z bezpečnostných dôvodov, toto oznámenie sa doručí príslušným orgánom členských štátov a komisii. Výrobca alebo splnomocnenec je povinný uchovávať najmenej 15 rokov od skončenia klinického skúšania písomnú správu podpísanú lekárom alebo inou zodpovednou oprávnenou osobou, ktorá musí obsahovať vyhodnotenie údajov získaných v priebehu klinického skúšania.
+
+(20)
+
+Výrobca zdravotníckych pomôcok s miestom podnikania alebo so sídlom mimo územia Slovenskej republiky, alebo jeho splnomocnenec, písomne oznámi štátnemu ústavu údaje umožňujúce identifikáciu zdravotníckych pomôcok uvádzaných na trh v Slovenskej republike spolu s označením a návodom na použitie (ďalej len „evidencia výrobcu“).
+
+(21)
+
+Štátny ústav po registrácii výrobcu podľa odsekov 2 a 3, alebo po evidencii výrobcu podľa odseku 20, pridelí zdravotníckej pomôcke, súprave zloženej z viacerých zdravotníckych pomôcok alebo druhu zdravotníckej pomôcky kód. Štátny ústav priebežne vedie, kontroluje a aktualizuje databázu pridelených kódov.
+
+(22)
+
+Ak štátny ústav zistí, že označenie zdravotníckej pomôcky (§ 2 ods. 10 až 13) značkou zhody CE bolo umiestnené nesprávne alebo označenie chýba, nariadi výrobcovi alebo splnomocnencovi vykonať nápravu. Výrobca alebo splnomocnenec je povinný vykonať nápravu za podmienok, ktoré uložil štátny ústav; ak nevykoná nápravu, štátny ústav prijme potrebné opatrenia na obmedzenie alebo zakázanie uvádzania zdravotníckej pomôcky na trh alebo do prevádzky, alebo na jej stiahnutie z trhu alebo z prevádzky a dohliada, či výrobca alebo splnomocnenec uložené opatrenia vykonal. Tieto opatrenia uplatní štátny ústav aj vtedy, ak sa označenie značkou zhody CE použilo v súlade s týmto zákonom, ale neprimeraným spôsobom na označenie výrobkov, na ktoré sa nevzťahuje tento zákon a právne predpisy na jeho vykonanie. Štátny ústav informuje komisiu a príslušné orgány členských štátov o prijatých opatreniach aj s odôvodnením rozhodnutia.
+
+(23)
+
+Štátny ústav môže v záujme zabezpečenia ochrany zdravia a bezpečnosti, alebo v záujme zabezpečenia dodržiavania požiadaviek verejného zdravia, zakázať klinické skúšanie, uvedenie na trh alebo do prevádzky zdravotníckej pomôcky, aktívnej implantovateľnej zdravotníckej pomôcky alebo skupiny zdravotníckych pomôcok, nariadiť stiahnutie zdravotníckej pomôcky, aktívnej implantovateľnej zdravotníckej pomôcky alebo skupiny zdravotníckych pomôcok z trhu alebo z prevádzky alebo prijať ďalšie nevyhnutné a odôvodnené prechodné opatrenia; štátny ústav pred prijatím opatrenia umožní výrobcovi alebo splnomocnencovi predložiť jeho vyjadrenie okrem prípadu, keď z dôvodu naliehavosti to nie je možné. Štátny ústav informuje komisiu a príslušné orgány členských štátov o prijatých prechodných opatreniach a uvedie dôvody.
+
+(24)
+
+Ak štátny ústav prijme opatrenie podľa odsekov 22 a 23 vydaním rozhodnutia, toto rozhodnutie musí obsahovať dôvody, na základe ktorých ho vydal; rozhodnutie s poučením o možnosti podať rozklad a o lehote na jeho podanie sa bezodkladne oznámi dotknutej osobe.
+
+(25)
+
+Štátny ústav je povinný zachovávať mlčanlivosť o dôverných informáciách získaných pri plnení úloh; to sa nevzťahuje na plnenie povinností súvisiacich so vzájomným poskytovaním informácií podľa tohto zákona a s poskytovaním informácií podľa osobitných predpisov.<sup>13aa</sup>)
+
+(26)
+
+Za dôverné informácie sa nepovažujú informácie
+
+a)
+
+o registrácii výrobcu a evidencii výrobcu,
+
+b)
+
+od výrobcu alebo splnomocnenca alebo držiteľa povolenia na veľkodistribúciu liekov a zdravotníckych pomôcok (ďalej len „veľkodistribútor“), ktoré poskytol používateľom zdravotníckej pomôcky v súvislosti s prijatými opatreniami, ktoré sa týkajú nehôd, porúch alebo zlyhaní zdravotníckej pomôcky,
+
+c)
+
+uvedené v certifikáte o posudzovaní zhody, v jeho zmene, doplnení, pozastavení alebo v jeho zrušení.
+
+(27)
+
+Podrobnosti o rozsahu a forme oznamovania identifikačných údajov o zdravotníckych pomôckach podľa odseku 20 ustanoví nariadenie vlády Slovenskej republiky.“.
+
+Poznámka pod čiarou k odkazu 13aa znie:“.
+
+„13aa)
+
+§ 3 ods. 1 a 2 Trestného poriadku.“.
+
+16. V § 28 ods. 2 sa za slovo „povinní“ vkladá slovo „bezodkladne“.
+
+17. § 28 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
+
+„(5)
+
+Štátny ústav informuje výrobcu zdravotníckej pomôcky alebo jeho splnomocnenca o každom oznámení nehody, poruchy alebo zlyhania zdravotníckej pomôcky podľa odseku 2.
+
+(6)
+
+Po vyhodnotení oznámenia podľa odseku 2 štátny ústav v súčinnosti s výrobcom alebo jeho splnomocnencom bezodkladne informuje príslušné orgány členských štátov a komisiu o nehode, poruche alebo zlyhaní zdravotníckej pomôcky a o opatreniach, ktoré sa prijali alebo sa pripravujú na zabránenie ich opätovného výskytu.“.
 
 18. Za § 29a sa vkladá § 29b, ktorý vrátane nadpisu znie:
 
@@ -93,6 +285,16 @@ Na zdravotnícke zariadenie ústavnej zdravotnej starostlivosti, ktoré individu
 (6)
 
 Na odborného zástupcu na individuálnu prípravu liekov na inovatívnu liečbu, ktorý je uvedený v odseku 1 písm. c) a d), sa primerane vzťahujú povinnosti odborného zástupcu na prípravu transfúznych liekov uvedené v § 31.“.
+
+19. Nadpis pod § 33 znie:
+
+„Povinnosti veľkodistribútora“.
+
+20. V § 33 ods. 1 úvodná veta znie:
+
+„(1)
+
+Veľkodistribútor je povinný“.
 
 21. V § 33a ods. 4 písmeno e) znie:
 
