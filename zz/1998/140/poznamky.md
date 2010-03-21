@@ -1,6 +1,10 @@
 - 1) Príloha č. 3 k zákonu Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 8/2000 Z. z., ktorým sa vydáva Zoznam zdravotníckych pomôcok uhrádzaných alebo čiastočne uhrádzaných na základe zdravotného poistenia v znení nariadenia vlády Slovenskej republiky č. 488/2000 Z. z.
 
-- 1a) § 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.Príloha č. 1 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok.
+- 1a) § 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+
+- Príloha č. 1 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zdravotníckych pomôcok v znení neskorších predpisov.
+
+- Príloha č. 1 nariadenia vlády Slovenskej republiky č. 572/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok.
 
 - 1b) § 5 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
@@ -78,13 +82,25 @@
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 12a) § 26 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 12a) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 569/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody diagnostických zdravotníckych pomôcok in vitro.
+
+- Nariadenie vlády Slovenskej republiky č. 570/2001 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 572/2001 Z. z. v znení neskorších predpisov.“.
 
 - 12aa) Nariadenie Komisie (ES) č. 1084/2003 z 3. júna 2003 o preskúmaní zmien podmienok v povolení na uvedenie na trh humánnych liekov a veterinárnych liekov, ktoré vydal príslušný orgán členského štátu (Úradný vestník Európskej únie L 159, 27. 6. 2003).
+
+- 12ab) Príloha č. 9 časť III bod 2.1. písm. c) a bod 2.4. písm. a) nariadenia vlády Slovenskej republiky č. 572/2001 Z. z.
+
+- 12ac) Príloha č. 9 časť III bod 2.1. písm. c) a bod 2.4. písm. a) nariadenia vlády Slovenskej republiky č. 572/2001 Z. z.
 
 - 13) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 13a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 13aa) § 3 ods. 1 a 2 Trestného poriadku.
 
 - 14) Napríklad zákon č. 264/1999 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 569/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody diagnostických zdravotníckych pomôcok in vitro, nariadenie vlády Slovenskej republiky č. 570/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody aktívnych implantovateľných zdravotníckych pomôcok, nariadenie vlády Slovenskej republiky č. 572/2001 Z. z.
 
