@@ -182,8 +182,6 @@
 
 - 77a) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 77b) § 1 ods. 2 písm. b) zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
-
 - 78) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 79) § 41 a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
