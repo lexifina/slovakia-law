@@ -26,7 +26,7 @@
 
 (5) Colný úrad môže v povolení na prevádzkovanie daňového skladu pre zahraničných zástupcov uviesť prevádzkovo-technické podmienky prevádzkovania takéhoto skladu.
 
-(6) Preprava liehu právnickej osobe alebo fyzickej osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane so sprievodným dokumentom; na postup pri preprave liehu v pozastavení dane sa použijú § 25 a 26 primerane.
+(6) Preprava liehu právnickej osobe alebo fyzickej osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane s elektronickým dokumentom; na postup pri preprave liehu v pozastavení dane sa použijú § 25 a 26 primerane.
 
 (7) Zahraničný zástupca, ktorý chce nakupovať lieh oslobodený od dane v daňovom sklade pre zahraničných zástupcov, je povinný požiadať Ministerstvo zahraničných vecí Slovenskej republiky o vydanie potvrdenia o postavení zahraničného zástupcu podľa odseku 2 a o splnení podmienky vzájomnosti podľa odseku 15. Ak sa zmenia údaje uvedené v potvrdení Ministerstva zahraničných vecí Slovenskej republiky, Ministerstvo zahraničných vecí Slovenskej republiky oznámi bezodkladne tieto skutočnosti Colnému úradu Bratislava. Vzor potvrdenia Ministerstva zahraničných vecí Slovenskej republiky o postavení zahraničného zástupcu a o splnení podmienky vzájomnosti je uvedený v prílohe č. 2.
 
@@ -60,4 +60,4 @@
 
 (18) Colný úrad preverí u žiadateľa skutočnosti a údaje podľa odseku 17 a § 37b ods. 1 a vydá žiadateľovi povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 30 dní odo dňa podania žiadosti; colný úrad, ktorý vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, oznámi bezodkladne túto skutočnosť Colnému úradu Bratislava. Ak žiadateľ v tejto lehote nepreukáže splnenie všetkých podmienok, colný úrad ho vyzve, aby uvedené nedostatky odstránil, a vydá povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 15 dní odo dňa odstránenia nedostatkov.
 
-(19) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 15 lieh v pozastavení dane so sprievodným dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>13</sup>) ktoré vydal hostiteľský štát. Na takúto prepravu liehu sa zábezpeka na daň nevyžaduje.
+(19) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 15 lieh v pozastavení dane s elektronickým dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>13</sup>) ktoré vydal hostiteľský štát. Na takúto prepravu liehu sa zábezpeka na daň nevyžaduje.
