@@ -2,7 +2,7 @@
 
 - 3) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 4) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
 - 4a) Napríklad zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -26,9 +26,9 @@
 
 - 12b) Napríklad zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
-- 12c) Čl. 62 nariadenia Rady (ES) č. 1083/2006 (Ú. v. EÚ L 210, 31. 7. 2006).Čl. 61 nariadenia Rady (ES) č. 1198/2006 (Ú. v. EÚ L 223, 15. 8. 2006).
+- 12c) Napríklad čl. 62 nariadenia (ES) č. 1083/2006 v platnom znení, čl. 61 nariadenia (ES) č. 1198/2006 v znení nariadenia (ES) č. 846/2009, čl. 25 ods. 1 písm. c) rozhodnutia Európskeho parlamentu a Rady č. 573/2007/ES, ktorým sa zriaďuje Európsky fond pre utečencov na obdobie rokov 2008 až 2013 ako súčasť všeobecného programu Solidarita a riadenie migračných tokov a ktorým sa zrušuje rozhodnutie Rady 2004/904/ES (Ú. v. ES L 144, 6. 6. 2007), čl. 27 ods. 1 písm. c) rozhodnutia Európskeho parlamentu a Rady č. 574/2007/ES z 23. mája 2007, ktorým sa zriaďuje Fond pre vonkajšie hranice na obdobie rokov 2007 až 2013 ako súčasť všeobecného programu Solidarita a riadenie migračných tokov (Ú. v. EÚ L 144, 6. 6. 2007), čl. 25 ods. 1 písm. c) rozhodnutia Európskeho parlamentu a Rady č. 575/2007/ES z 23. mája 2007, ktorým sa zriaďuje Európsky fond pre návrat na obdobie rokov 2008 až 2013 ako súčasť všeobecného programu Solidarita a riadenie migračných tokov (Ú. v. EÚ L 144, 6. 6. 2007), čl. 23 ods. 1 písm. c) rozhodnutia Rady č. 2007/435/ES z 25. júna 2007, ktorým sa zriaďuje Európsky fond pre integráciu štátnych príslušníkov tretích krajín na obdobie rokov 2007 až 2013 ako súčasť všeobecného programu Solidarita a riadenie migračných tokov (Ú. v. EÚ L 168, 28. 6. 2007).
 
-- 12d) Čl. 61 nariadenia Rady (ES) č. 1083/2006 (Ú. v. EÚ L 210, 31. 7. 2006). Čl. 20 nariadenia Komisie (ES) č. 1828/2006 z 8. decembra 2006, ktorým sa ustanovujú vykonávacie pravidlá nariadenia Rady (ES) č. 1083/2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a nariadenia Európskeho parlamentu a Rady (ES) č. 1080/2006 o Európskom fonde regionálneho rozvoja (Ú. v. EÚ L 371, 27. 12. 2006).
+- 12d) Napríklad čl. 61 nariadenia (ES) č. 1083/2006 v platnom znení, čl. 20 nariadenia Komisie (ES) č. 1828/2006 z 8. decembra 2006, ktorým sa stanovujú vykonávacie pravidlá nariadenia Rady (ES) č. 1083/2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a nariadenia Európskeho parlamentu a Rady (ES) č. 1080/2006 o Európskom fonde regionálneho rozvoja, čl. 60 nariadenia (ES) č. 1198/2006 v znení nariadenia (ES) č. 846/2009.
 
 - 12e) Napríklad nariadenie Rady (ES, EURATOM) č. 1605/2002 z 25. júna 2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
 
@@ -62,9 +62,7 @@
 
 - 18a) Napríklad Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 130/2002 Z. z. o podpísaní Viacročnej finančnej dohody medzi Komisiou Európskych spoločenstiev v mene Európskeho spoločenstva a Slovenskou republikou a Ročnej finančnej dohody medzi Komisiou Európskych spoločenstiev v mene Európskeho spoločenstva a Slovenskou republikou.
 
-- 18aa) Čl. 62 nariadenia Rady (ES) č. 1083/2006 (Ú. v. EÚ L 210, 31. 7. 2006).
-
-- 18ab) Čl. 59 nariadenia Rady (ES) č. 1083/2006 (Ú. v. EÚ L 210, 31. 7. 2006).
+- 18ab) Napríklad čl. 59 nariadenia (ES) č. 1083/2006 v platnom znení, čl. 58 nariadenia (ES) č. 1198/2006 v znení nariadenia (ES) č. 846/2009, čl. 25 ods. 1 písm. a) rozhodnutia Európskeho parlamentu a Rady č. 573/2007/ES, čl. 27 ods. 1 písm. a) rozhodnutia Európskeho parlamentu a Rady č. 574/2007/ES, čl. 25 ods. 1 písm. a) rozhodnutia Európskeho parlamentu a Rady č. 575/2007/ES, čl. 23 ods. 1 písm. a) rozhodnutia Rady č. 2007/435/ES.
 
 - 18ac) Nariadenie Rady (ES, EURATOM) č. 1150/2000 z 22. mája 2000, ktorým sa vykonáva rozhodnutie 94/728/ES, Euratom o systéme vlastných zdrojov (Mimoriadne vydanie Ú. v. EÚ, kap. 01/zv. 03) v znení nariadenia Rady (ES, EURATOM) č. 2028/2004 zo 16. novembra 2004 (Ú. v. L 352, 27. 11. 2004).
 

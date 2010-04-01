@@ -6,7 +6,7 @@
 
 (2) Povinnosti podľa § 13 ods. 2 písm. a), b), c) a k) sa vzťahujú na osoby uvedené v § 35c ods. 1 rovnako.
 
-(3) O zisteniach auditu vypracuje auditujúci orgán predbežnú správu z vládneho auditu (ďalej len „predbežná správa“), predbežnú čiastkovú správu z vládneho auditu (ďalej len „predbežná čiastková správa“), čiastkovú správu a správu z vládneho auditu.
+(3) O zisteniach z vládneho auditu vypracujú osoby uvedené v § 35c ods. 1 predbežnú správu z vládneho auditu (ďalej len „predbežná správa“), predbežnú čiastkovú správu z vládneho auditu (ďalej len „predbežná čiastková správa“), čiastkovú správu a správu z vládneho auditu.
 
 (4) Čiastková správa sa
 
