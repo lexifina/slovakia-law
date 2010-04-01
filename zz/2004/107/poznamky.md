@@ -2,7 +2,13 @@
 
 - 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
 
+- 1aa) Čl. 299 ods. 4 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ C 321 E, 29. 12. 2006) v platnom znení.
+
+- 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
+
 - 2) § 116 a 117 Občianskeho zákonníka.
+
+- 2a) Čl. 79 nariadenia č. 2913/92 v platnom znení.
 
 - 3) STN 56 0186 Metóda skúšania piva.
 
@@ -12,7 +18,7 @@
 
 - 6) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
-- 7) Napríklad § 386, 435 a 436 zákona č. 238/2001 Z. z. Colný zákon, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, Občiansky zákonník, Trestný zákon.
+- 7) Napríklad Občiansky zákonník, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, § 64 až 66, 68, 69, 75 a 77 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Trestný zákon.
 
 - 8) § 115 Občianskeho zákonníka.
 
@@ -26,17 +32,23 @@
 
 - § 39 Obchodného zákonníka v znení neskorších predpisov.
 
-- 15) Zákon č. 431/2002 Z. z. v znení zákona č. 562/2003 Z. z.
+- 15) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 16) § 459a zákona č. 238/2001 Z. z. v znení zákona č. 464/2003 Z. z.
 
 - § 65b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
 
-- 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 273/1994 Zb. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+- 17a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov. § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+
+- 18a) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
+
+- 18b) Nariadenie Komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009).
+
+- 18c) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) Nariadenie Komisie (EHS) č. 2719/92 z 11. septembra 1992 o sprievodnom administratívnom dokumente pri preprave tovarov podliehajúcich spotrebným daniam v pozastavení dane (Úradný vestník Európskych spoločenstiev, L 276, 19/09/1992, str. 1 – 10) v znení neskorších zmien a doplnkov.
 
@@ -49,6 +61,14 @@
 - 23) Vyhláška ministra zahraničných vecí č. 89/1963 Zb. o Colnom dohovore o karnetoch E.C.S. pre obchodné vzorky a o colnom dohovore o karnete A.T.A. pre dovozný colný záznam tovaru.
 
 - 24) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 24a) Čl. 161 nariadenia č. 2913/92 v platnom znení.
+
+- 24b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
+
+- 24c) Čl. 4 bod 4d nariadenia č. 2913/92 v platnom znení.
+
+- 24d) Čl. 66 nariadenia č. 2913/92 v platnom znení.
 
 - 25) Nariadenie Komisie (EHS) č. 3649/92 zo 17. decembra 1992 o zjednodušenom sprievodnom dokumente na prepravu tovaru podliehajúceho spotrebnej dani vo vnútri Európskeho spoločenstva, ktorý bol uvoľnený do daňového voľného obehu v odosielajúcom členskom štáte (Úradný vestník Európskych spoločenstiev, L 369, 18/12/1992, str. 17 – 24).
 
@@ -71,5 +91,7 @@
 - 30a) § 14a a 70 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 31) Napríklad § 14a ods. 11 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 31a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.“.
 
 - 32) § 29 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
