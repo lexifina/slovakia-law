@@ -32,8 +32,6 @@
 
 - 11b) Napríklad § 9 ods. 2 a 3 zákona č. 124/1992 Zb. o Vojenskej polícii, § 8 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 8 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve, § 12 a 14 zákona č. 57/1998 Z. z. o Železničnej polícii v znení zákona č. 86/2008 Z. z., § 70 ods. 6 zákona č. 215/2004 Z. z. v znení neskorších predpisov.
 
-- 12) § 1 a 4 ods. 1 zákona č. 57/1998 Z. z. v znení neskorších predpisov.
-
 - 13) Napríklad zákon č. 124/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov, zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 13a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
