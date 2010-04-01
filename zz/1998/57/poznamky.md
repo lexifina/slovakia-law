@@ -1,9 +1,5 @@
 - 1) § 3 a 4 zákona Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 1a) § 6 a 8 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
-
-- § 7 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
-
 - 2) § 12 ods. 2 Trestného poriadku.
 
 - 2a) Zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. v znení zákona č. 470/2000 Z. z.
@@ -37,8 +33,6 @@
 - 9) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 10) § 2 Obchodného zákonníka.
-
-- 11a) § 4 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 12) Napríklad zákon č. 124/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
 
