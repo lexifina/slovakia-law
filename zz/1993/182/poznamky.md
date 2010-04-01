@@ -34,6 +34,8 @@
 
 - 12aa) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
 
+- 12aaa) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 12ab) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 12ac) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
@@ -96,7 +98,7 @@
 
 - 24e) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 24f) § 6 ods. 1 písm. c) druhý bod a písm. d), § 28 a § 46 ods. 5 a 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+- 24f) § 34 a § 46 ods. 5 a 6 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 25) § 876 Občianskeho zákonníka.
 
