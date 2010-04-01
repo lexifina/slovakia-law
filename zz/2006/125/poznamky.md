@@ -34,6 +34,8 @@
 
 - 15a) § 3 písm. l) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
+- 15aa) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
+
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
