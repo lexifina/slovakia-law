@@ -1,33 +1,33 @@
-Príloha č. 9 k nariadeniu vlády č. 499/2008 Z. z. Podmienky ochrany pôd pred znečistením dusičnanmi z poľnohospodárskych zdrojov
+Príloha č. 8 k nariadeniu vlády č. 499/2008 Z. z.
 
-1. Obdobie nevhodné na hnojenie
+Možné transformácie agroenvironmentálnych podopatrení z Plánu rozvoja vidieka Slovenskej republiky 2004 – 2006 do agroenvironmentálnych podopatrení
 
-a) Používanie hnojív na poľnohospodárskych pozemkoch je zakázané v období od 15. novembra do 31. januára alebo ak
+Programu rozvoja vidieka Slovenskej republiky 2007 – 2013
 
-b) je pôda zamokrená súvislou vrstvou, zamrznutá do hĺbky 8 cm alebo pokrytá vrstvou snehu nad päť centimetrov.
+Programovacie obdobie 2004 – 2006 | • Programovacie obdobie 2007 – 2013
 
-2. Používanie hnojív s obsahom dusíka v blízkosti vodných zdrojov
+Základná schéma – orná pôda | • Základná podpora (orná pôda) • Ochrana biotopov vtákov (orná pôda) • Integrovaná produkcia (zelenina) • Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
 
-a) Hnojivá s obsahom dusíka sa neaplikujú na pozemkoch susediacich s vodárenskými zdrojmi povrchových vôd a vodárenskými zdrojmi podzemných vôd.
+Základná schéma – trvalé trávne porasty (TTP) | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
 
-b) Pri používaní hnojív, hospodárskych hnojív na poľnohospodárskych pôdach nesmie prísť k ich priamemu prieniku alebo k splaveniu do povrchových vôd alebo na vedľajšie pozemky.
+Základná schéma – ovocné sady a vinice<sup>x)</sup> | • Integrovaná produkcia (ovocné sady) • Integrovaná produkcia (vinohrady) • Ekologické poľnohospodárstvo (ovocné sady) • Ekologické poľnohospodárstvo (vinohrady)
 
-3. Používanie hnojív s obsahom dusíka na ornej pôde
+Ochrana proti erózii na ornej pôde | • Ochrana proti erózii na ornej pôde + Základná podpora (orná pôda) • Ochrana proti erózii na ornej pôde + Ochrana biotopov vtákov (orná pôda) • Ochrana proti erózii na ornej pôde + Ekologické poľnohospodárstvo (orná pôda) • Ekologické poľnohospodárstvo (orná pôda) • Zatrávnenie ornej pôdy
 
-a) Tuhé hospodárske a organické hnojivá musia byť zapracované do 48 hodín po ich aplikácii.
+Ochrana proti erózii vo vinohradoch | • Integrovaná produkcia (vinohrady) • Ekologické poľnohospodárstvo (vinohrady)
 
-b) Pri používaní hnojovice alebo močovky na povrchu ornej pôdy sa musí zabrániť úniku amoniaku jej priamou aplikáciou alebo následným zapracovaním do pôdy najneskôr do 24 hodín po aplikácii.
+Ochrana proti erózii v ovocných sadoch | • Ochrana proti erózii v ovocných sadoch • Integrovaná produkcia (ovocné sady) • Ekologické poľnohospodárstvo (ovocné sady)
 
-c) Pri použití dusíka s cieľom rozložiť slamu alebo iné rastlinné zvyšky možno použiť hnojovicu alebo močovku v dávke do 80 kg/ha.
+Zatrávňovanie ornej pôdy | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP) • Ochrana biotopov prírodných a poloprírodných TTP (ak je uznaný za daný typ biotopu)
 
-4. Používanie hnojív s obsahom dusíka na svahovitých pôdach
+Ochrana biotopov poloprírodných a prírodných trávnych porastov | • Ochrana biotopov poloprírodných a prírodných trávnych porastov • Ekologické poľnohospodárstvo (TTP) + Ochrana biotopov poloprírodných a prírodných trávnych porastov
 
-Hnojivá s obsahom dusíka sa neaplikujú na pozemkoch
+Nelesná drevinová vegetácia<sup>x</sup> | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
 
-a) svahovitých so sklonom viac ako 12<sup>o</sup>, ak je nebezpečenstvo ich splavenia do povrchových vôd,
+Ochrana vodných a mokraďových biotopov<sup>x</sup> | • Základná podpora (TTP) • Ochrana biotopov vtákov (TTP) • Ekologické poľnohospodárstvo (TTP)
 
-b) zamokrených alebo prevlhčených na svahu,
+Chov a udržanie ohrozených druhov zvierat | • Chov a udržanie ohrozených druhov zvierat (žiadateľ môže vstúpiť do všetkých kombinovateľných plošných záväzkov)
 
-c) odvodnených do dvoch mesiacov od odvodnenia pri tuhých formách hnojív a do dvoch rokov od odvodnenia poľnohospodárskych pozemkov pri kvapalných formách hnojív.
+Ekologické poľnohospodárstvo | • Ekologické poľnohospodárstvo • Ekologické poľnohospodárstvo (TTP) + Ochrana biotopov poloprírodných a prírodných trávnych porastov • Ekologické poľnohospodárstvo + Ochrana biotopov vtákov
 
-5. Priestory na uskladnenie hospodárskych hnojív je potrebné zosúladiť so skutočnou produkciou hnoja podľa § 17 písm. c) zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 555/2004 Z. z.
+<sup>x</sup>) Podopatrenia sa v programovacom období 2007 – 2013 nerealizujú.

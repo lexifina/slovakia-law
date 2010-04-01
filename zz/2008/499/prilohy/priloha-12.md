@@ -1,11 +1,29 @@
-Príloha č. 12 k nariadeniu vlády č. 499/2008 Z. z. Limitné hodnoty rizikových prvkov vo vzorke ovocia*)
+Príloha č. 11 k nariadeniu vlády č. 499/2008 Z. z. A. Limitné hodnoty rizikových prvkov v poľnohospodárskej pôde*)
 
-Chemický prvok | Najvyššie prípustné množstvo celkového obsahu chemického prvku v ovocí (mg.kg<sup>-1</sup>)
+(v mg/kg suchej hmoty, rozklad lúčavkou kráľovskou, Hg celkový obsah)
 
-Olovo (Pb) | 0,1 – 0,2 (drobné ovocie)
+Pôdny druh | As | Cd | Cr | Hg | Pb
 
-Kadmium (Cd) | 0,03
+piesočnatá hlinito-piesočnatá | 10 | 0,4 | 50 | 0,15 | 25
 
-Ortuť (Hg) | 0,03
+piesočnato-hlinitá hlinitá | 25 | 0,7 | 70 | 0,5 | 70
 
-Arzén (As) | 0,5
+ílovito-hlinitá, ílovitá, íl | 30 | 1,0 | 90 | 0,75 | 115
+
+B. Limitné hodnoty rizikových prvkov vo vzťahu poľnohospodárska pôda a rastlina
+
+(v mg/kg suchej hmoty, vo výluhu 1 mol/l dusičnanu amónneho)
+
+Chemický prvok | Kritická hodnota
+
+Arzén (As) | 0,4
+
+Meď (Cu) | 1,0
+
+Nikel (Ni) | 1,5
+
+Zinok (Zn) | 2,0
+
+Kadmium (Cd) | 0,1
+
+Olovo (Pb) | 0,1

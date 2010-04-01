@@ -1,3 +1,11 @@
-Príloha č. 14 k nariadeniu vlády č. 499/2008 Z. z. Vzor na vedenie záznamu v zošite žiadateľa o agroenvironmentálnu platbu
+Príloha č. 13 k nariadeniu vlády č. 499/2008 Z. z. Odporúčané minimálne počty jedincov na hektár potrebných pre vstup do systému IPO
 
-Dátum Od – do | Použité zariadenie na sledovanie výskytu škodlivých organizmov/meno, kto údaj zaznamenalDruh odberu vzoriek na analýzu/meno, kto vykonal odberPoužité zariadenia na zistenie meteorologických údajov/meno, kto údaj zaznamenal | Označenie sadu/vinice, pôdneho bloku alebo dielu pôdneho bloku | Druh ovocia/zeleniny
+Ovocný druh | Minimálny počet jedincov na jeden hektár
+
+Jadroviny*) | 400
+
+Kôstkoviny**) | 300
+
+Drobné, bobuľovité ovocie***) | 2 000
+
+Orech kráľovský | 50

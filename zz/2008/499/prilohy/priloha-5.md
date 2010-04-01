@@ -1,29 +1,29 @@
-Príloha č. 5 k nariadeniu vlády č. 499/2008 Z. z. Denné vedenie evidencie v chove ošípaných
+Príloha č. 4 k nariadeniu vlády č. 499/2008 Z. z. Denné vedenie evidencie dojčiacich kráv
 
 Registračné číslo farmy:
 
-Číslo ušnej značky matky:
+Číslo ušnej značky dojčiacej kravy:
 
-Poradie vrhu:
+Priemerná produkcia mlieka (kg) za poslednú laktáciu:
 
-Dátum oprasenia:
+Číslo ušnej značky jalovičky:
 
-Počet narodených ciciakov:
+1.
 
-Počet odstavených ciciakov:
+2.
 
-Počet uhynutých ciciakov:
+3.
+
+4.
 
 Dátum odstavu:
 
-Kontrola/ Dátum | | Čistenie koterca* | Ošetrovanie prasnice a sledovanie zdravotného stavu* | Učenie ciciakov piť prikladaním k ceckom* | Ošetrovanie ciciakov a sledovanie zdravotného stavu* | Vyštikávanie očných zubov* | Poznámky | Podpis zamestnanca
+Dátum prikladania:
+
+Kontrola/ Dátum | | Toaleta vemena* | Prikladanie jalovičiek ku krave na cicanie* | Dodájanie dojčiacej kravy * | Čistenie koterca * | Prístup jalovičiek v treťom mesiaci dvakrát denne* | Poznámky (zdravotný stav jalovičiek) | Podpis zamestnanca
 
 1. | | | | | | | |
 
 2. | | | | | | | |
-
-3. | | | | | | | |
-
-4. | | | | | | | |
 
 * Políčka vyplňte značkou „x“, ak bola činnosť vykonaná.

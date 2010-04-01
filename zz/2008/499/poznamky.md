@@ -4,13 +4,23 @@
 
 - 3) § 3 zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 360/2007 Z. z.
 
+- 3a) Čl. 2 písm. c) nariadenia Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31.1. 2009).
+
+- 3b) Príloha č. 2 k nariadeniu vlády Slovenskej republiky č. 20/2009 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
+
+- 3c) Príloha č. 3 k nariadeniu vlády Slovenskej republiky č. 20/2009 Z. z.
+
+- 3d) Čl. 23 nariadenia Komisie (ES) č. 1975/2006 zo 7. decembra 2006, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
+
+- Nariadenie Komisie (ES) č. 796/2004 z 21. apríla 2004, ktorým sa ustanovujú podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadeniach Rady (ES) č. 1782/2003 a (ES) č. 73/2009, ako aj na uplatňovanie krížového plnenia uvedeného v nariadení (ES) č. 479/2008 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44).
+
 - 4) Čl. 46 nariadenia (ES) č. 1698/2005.
 
 - 5) § 4 zákona č. 326/2005 Z. z.
 
 - 6) § 16 zákona č. 543/2002 Z. z.
 
-- 7) § 30 ods. 6 a § 67 písm. i) zákona č. 543/2002 Z. z.
+- 7) § 16 ods. 2 a § 67 písm. i) zákona č. 543/2002 Z. z.
 
 - 8) § 3 ods. 2 nariadenia vlády Slovenskej republiky č. 81/2007 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou jednotnej platby na plochu.
 
@@ -28,9 +38,7 @@
 
 - 15) § 3, 15 a 16 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
 
-- 16) Čl. 16, 18 a 23 nariadenia Komisie (ES) č. 1975/2006 zo 7. decembra 2006, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
-
-- Nariadenie Komisie (ES) č. 796/2004 z 21. apríla 2004, ktoré ustanovuje podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadení Rady (ES) č. 1782/2003, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory v rámci spoločnej poľnohospodárskej politiky a ktorým sa zavádzajú niektoré režimy podpory pre poľnohospodárov (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení.
+- 16) Čl. 16, 18, 23 a 31 nariadenia (ES) č. 1975/2006 v platnom znení.
 
 - 17) Čl. 47 nariadenia Komisie (ES) č. 1974/2006 z 15. decembra 2006, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1698/2005 o podpore rozvoja vidieka prostredníctvom EPFRV (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
 
@@ -86,9 +94,11 @@
 
 - 43) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
-- 44) § 26 ods. 1 zákona č. 543/2002 Z. z.
+- 44) § 26 ods.1 a 6 zákona č. 543/2002 Z. z.
 
 - 45) § 40 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
+
+- 45a) § 44 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 46) § 17 zákona č. 193/2005 Z. z.
 
@@ -144,13 +154,17 @@
 
 - 71) Čl. 45 ods. 1 nariadenia (ES) č. 1974/2006.
 
-- 72) § 2 ods. 2 zákona č. 136/2000 Z. z. v znení zákona č. 202/2008 Z. z.
+- 72) § 2 zákona č. 136/2000 Z. z. v znení zákona č. 202/2008 Z. z.
 
 - 73) § 11 zákona č. 182/2005 Z. z. o vinohradníctve a vinárstve v znení zákona č. 283/2007 Z. z.
 
-- 74) § 7 nariadenia vlády Slovenskej republiky č. 54/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie sadiva a sadeníc zelenín na trh.
+- 73a) § 4 písm. m) zákona č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh v znení zákona č. 467/2008 Z. z.
 
-- § 6 a 7 nariadenia vlády Slovenskej republiky č. 58/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva zelenín na trh.
+- 74) Nariadenie vlády Slovenskej republiky č. 54/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie sadiva a sadeníc zelenín na trh.
+
+- Nariadenie vlády Slovenskej republiky č. 58/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva zelenín na trh v znení nariadenia vlády č. 278/2007 Z. z.
+
+- 74a) § 33 písm. e) zákona č. 193/2005 Z. z. v znení neskorších predpisov.
 
 - 75) Zákon č. 421/2004 Z. z.
 
@@ -158,7 +172,9 @@
 
 - 77) Príloha III bod 5 nariadenia (EHS) č. 2092/91.
 
-- 78) Čl. 5 ods. 1 a 5, čl. 6 ods. 1, 2 a 3 písm. a), príloha I A ods. 1.1, 2.1 až 4, ods. 5.1 až 5.5, príloha II A, B ods. 1, príloha III ods. 6, 8 a 9, príloha III A a A1, príloha I B ods. 1.1 až 1.6, ods. 2 až 6, ods. 7.1, 7.2, ods. 8.1 až 8.4, príloha II B ods. 2, C až E, príloha III A.2 ods. 2, príloha VII a príloha VIII nariadenia (EHS) č. 2092/91.
+- 78) Nariadenie Rady (ES) č. 834/2007 z 28. júna 2007 o ekologickej výrobe a označovaní ekologických produktov, ktorým sa zrušuje nariadenie (EHS) č. 2092/91 (Ú. v. EÚ L 189, 20. 7. 2007) v znení nariadenia Rady (ES) č. 967/2008 z 29. septembra 2008 (Ú. v. EÚ L 264, 3. 10. 2008).
+
+- Nariadenie Komisie (ES) č. 889/2008 z 5. septembra 2008, ktorým sa ustanovujú podrobné pravidlá implementácie nariadenia Rady (ES) č. 834/2007 o ekologickej výrobe a označovaní ekologických produktov so zreteľom na ekologickú výrobu, označovanie a kontrolu (Ú. v. EÚ L 250, 18. 9. 2008) v platnom znení.
 
 - 79) Zákon č. 597/2006 Z. z. o pôsobnosti orgánov štátnej správy v oblasti registrácie odrôd pestovaných rastlín a uvádzaní množiteľského materiálu pestovaných rastlín na trh.
 
@@ -171,6 +187,10 @@
 - 83) Čl. 19 nariadenia (ES) č. 1257/1999.
 
 - 84) Čl. 20 nariadenia (ES) č. 1257/1999.
+
+- 84a) § 2 ods. 2 písm. a) a d) Obchodného zákonníka.
+
+- § 11 zákona č. 181/1995 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 85) Čl. 11 nariadenia (ES) č. 796/2004.
 
@@ -185,6 +205,14 @@
 - 90) § 69 a 476 až 488 Obchodného zákonníka.
 
 - 91) § 7 ods. 1 zákona č. 543/2007 Z. z.
+
+- 92) § 10 ods. 5 a 6 zákona č. 136/2000 Z. z. o hnojivách v znení neskorších predpisov.
+
+- 93) § 3 ods. 2 písm. c) zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
+
+- 94) § 10 ods. 1 zákona č. 193/2005 Z. z. v znení neskorších predpisov.
+
+- 95) § 16 zákona č. 193/2005 Z. z. v znení zákona č. 295/2007 Z. z.
 
 - *) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z.
 

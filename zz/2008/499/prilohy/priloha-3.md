@@ -1,23 +1,15 @@
-Príloha č. 3 k nariadeniu vlády č. 499/2008 Z. z. Minimálne rozmery plochy ležiska a dĺžka kŕmneho miesta pri ustajnení na hlbokej alebo narastajúcej podstielke pre výkrmový dobytok
+Príloha č. 2 k nariadeniu vlády č. 499/2008 Z. z. Minimálne rozmery plochy ležiska a celkovej plochy koterca pri voľnom ustajnení
 
-Živá hmotnosť (kg) | Minimálna plocha ležiska s výnimkou boxov (ks/m<sup>2</sup>) | Minimálna dĺžka kŕmneho miesta (mm)
+Živá hmotnosť (kg) | Plocha na (ks/m<sup>2</sup>) |
 
-do 200 | nad 2 | nad 495
+| Ležisko s výnimkou boxov | Celkom
 
-od 200 do 300 | nad 2,75 | nad 550
+| od | od
 
-od 300 do 450 | nad 3,85 | nad 660
+do 550 | 6,10 | 8
 
-nad 450 | nad 4,95 | nad 770
+do 650 | 6,60 | 9,20
 
-Minimálne rozmery na plochu na kus pri celoroštovom kotercovom ustajnení výkrmového dobytka
+do 750 | 7 | 10,50
 
-Živá hmotnosť (kg) | Minimálna plocha (ks/m<sup>2</sup>)
-
-do 200 | nad 1,65
-
-do 300 | nad 2,20
-
-do 450 | nad 2,75
-
-nad 450 | nad 3,30
+Pôrodňa | 11 | 13,75

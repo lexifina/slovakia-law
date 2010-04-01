@@ -1,28 +1,22 @@
-Príloha č. 6 k nariadeniu vlády č. 499/2008 Z. z. Denné vedenie evidencie v chove ustajnených dojčiacich bahníc s jahňatami
+Príloha č. 5 k nariadeniu vlády č. 499/2008 Z. z. Denné vedenie evidencie v chove ošípaných
 
 Registračné číslo farmy:
 
-Poradové číslo koterca:
+Číslo ušnej značky matky:
 
-Tabuľka A
+Poradie vrhu:
 
-Por.číslo | Číslo ušnej značky bahnice | Dátum obahnenia | Poradie vrhu | Počet narodených jahniat | Počet odstavených jahniat | Počet uhynutých jahniat | Dátum odstavu
+Dátum oprasenia:
 
-1 | | | | | | |
+Počet narodených ciciakov:
 
-2 | | | | | | |
+Počet odstavených ciciakov:
 
-3 | | | | | | |
+Počet uhynutých ciciakov:
 
-4 | | | | | | |
+Dátum odstavu:
 
-... | | | | | | |
-
-44 | | | | | | |
-
-Tabuľka B
-
-Kontrola/ Dátum | | Čistenie koterca* | Ošetrovanie bahnice a sledovanie zdravotného stavu* | Učenie jahniat piť prikladaním k ceckom* | Ošetrovanie jahniat a sledovanie zdravotného stavu* | Učenie jahniat prijímať krmivo a vodu od piateho dňa veku* | Poznámky | Podpis zamestnanca
+Kontrola/ Dátum | | Čistenie koterca* | Ošetrovanie prasnice a sledovanie zdravotného stavu* | Učenie ciciakov piť prikladaním k ceckom* | Ošetrovanie ciciakov a sledovanie zdravotného stavu* | Vyštikávanie očných zubov* | Poznámky | Podpis zamestnanca
 
 1. | | | | | | | |
 

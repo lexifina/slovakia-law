@@ -1,29 +1,33 @@
-Príloha č. 11 k nariadeniu vlády č. 499/2008 Z. z. A. Limitné hodnoty rizikových prvkov v poľnohospodárskej pôde*)
+Príloha č. 10 k nariadeniu vlády č. 499/2008 Z. z. Rozsah zisťovaných údajov a zoznam technických zariadení na zisťovanie teploty a vlhkosti vzduchu v ovocnom sade v systéme integrovanej produkcie v ovocinárstve alebo v zeleninárstve
 
-(v mg/kg suchej hmoty, rozklad lúčavkou kráľovskou, Hg celkový obsah)
+A. Rozsah zisťovaných údajov a teploty vzduchu
 
-Pôdny druh | As | Cd | Cr | Hg | Pb
+1. Dátum merania
 
-piesočnatá hlinito-piesočnatá | 10 | 0,4 | 50 | 0,15 | 25
+2. Číslo pôdneho bloku alebo dielu pôdneho bloku, na ktorý sa meranie vzťahuje
 
-piesočnato-hlinitá hlinitá | 25 | 0,7 | 70 | 0,5 | 70
+3. Minimálna denná teplota (v <sup>o</sup>C)
 
-ílovito-hlinitá, ílovitá, íl | 30 | 1,0 | 90 | 0,75 | 115
+4. Maximálna denná teplota (v <sup>o</sup>C)
 
-B. Limitné hodnoty rizikových prvkov vo vzťahu poľnohospodárska pôda a rastlina
+5. Priemerná vlhkosť vzduchu (v %); nameraná v priebehu sledovaného dňa s uvedením hodiny merania
 
-(v mg/kg suchej hmoty, vo výluhu 1 mol/l dusičnanu amónneho)
+B. Zoznam odporúčaných technických zariadení, ktoré sa používajú pri zisťovaní teploty a vlhkosti vzduchu
 
-Chemický prvok | Kritická hodnota
+1. Vlhkomer a maximo-minimálny teplomer
 
-Arzén (As) | 0,4
+2. Merač teploty vzdušnej vlhkosti
 
-Meď (Cu) | 1,0
+3. Meteorologická stanica
 
-Nikel (Ni) | 1,5
+C. Odporúčané technické zariadenia na sledovanie výskytu škodlivých organizmov
 
-Zinok (Zn) | 2,0
+1. Feromonové lapače
 
-Kadmium (Cd) | 0,1
+2. Lepiace pásky a lepové dosky
 
-Olovo (Pb) | 0,1
+3. Optické lapače
+
+4. Liehové pasce
+
+5. Zariadenia na sklepávanie škodlivých organizmov

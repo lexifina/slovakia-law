@@ -1,29 +1,23 @@
-Príloha č. 4 k nariadeniu vlády č. 499/2008 Z. z. Denné vedenie evidencie dojčiacich kráv
+Príloha č. 3 k nariadeniu vlády č. 499/2008 Z. z. Minimálne rozmery plochy ležiska a dĺžka kŕmneho miesta pri ustajnení na hlbokej alebo narastajúcej podstielke pre výkrmový dobytok
 
-Registračné číslo farmy:
+Živá hmotnosť (kg) | Minimálna plocha ležiska s výnimkou boxov (ks/m<sup>2</sup>) | Minimálna dĺžka kŕmneho miesta (mm)
 
-Číslo ušnej značky dojčiacej kravy:
+do 200 | nad 2 | nad 495
 
-Priemerná produkcia mlieka (kg) za poslednú laktáciu:
+od 200 do 300 | nad 2,75 | nad 550
 
-Číslo ušnej značky jalovičky:
+od 300 do 450 | nad 3,85 | nad 660
 
-1.
+nad 450 | nad 4,95 | nad 770
 
-2.
+Minimálne rozmery na plochu na kus pri celoroštovom kotercovom ustajnení výkrmového dobytka
 
-3.
+Živá hmotnosť (kg) | Minimálna plocha (ks/m<sup>2</sup>)
 
-4.
+do 200 | nad 1,65
 
-Dátum odstavu:
+do 300 | nad 2,20
 
-Dátum prikladania:
+do 450 | nad 2,75
 
-Kontrola/ Dátum | | Toaleta vemena* | Prikladanie jalovičiek ku krave na cicanie* | Dodájanie dojčiacej kravy * | Čistenie koterca * | Prístup jalovičiek v treťom mesiaci dvakrát denne* | Poznámky (zdravotný stav jalovičiek) | Podpis zamestnanca
-
-1. | | | | | | | |
-
-2. | | | | | | | |
-
-* Políčka vyplňte značkou „x“, ak bola činnosť vykonaná.
+nad 450 | nad 3,30

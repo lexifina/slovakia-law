@@ -1,69 +1,73 @@
-Príloha č. 16 k nariadeniu vlády č. 499/2008 Z. z. Kritériá výberu prípravkov na ochranu rastlín do integrovanej produkcie
+Príloha č. 15 k nariadeniu vlády č. 499/2008 Z. z.
 
-Pri tvorbe zoznamov prípravkov na ochranu rastlín povolených do integrovanej produkcie sa vychádzalo z podkladov Medzinárodnej organizácie pre biologickú a integrovanú kontrolu škodlivých organizmov (IOBC, stav k 5.12. 2005), berúc do úvahy najmä hľadisko trvalého udržania biodiverzity v ekosystémoch a udržanie trvalej úrodnosti pôd. Pri tvorbe kritérií na výber prípravkov na ochranu rastlín sa zohľadnil vplyv na nasledujúce užitočné a indiferentné organizmy:
+A. Najvyššie prípustné množstvo chemických prvkov v zelenine a konzumných zemiakoch (mg/kg)*)
 
-1. dravé roztoče (Typhlodromus pyri),
+Chemický prvok | Najvyššie prípustné množstvo (mg/kg) | Potravina
 
-2. parazitické osičky (Trichogramma cacoeciae),
+Kadmium (Cd) | 0,1 | hlúbová a koreňová zelenina okrem zeleru, konzumné zemiaky
 
-3. dravé roztoče (Phytoseiulus persimilis),
+| 0,2 | listová zelenina, čerstvé byliny a zeler
 
-4. včely,
+| 0,05 | ostatná zelenina
 
-5. parazitoidy vošiek (Aphidius rhopalosiphi),
+Olovo (Pb) | 0,3 | brokolica, listová zelenina
 
-6. pestrice (Syrphus corollae),
+| 0,1 | ostatná zelenina, konzumné zemiaky
 
-7. dážďovky (Eisenia foetida),
+Ortuť (Hg) | 0,02 | konzumné zemiaky
 
-8. zlatoočky (Chrysoperla carnea),
+| 0,05 | zelenina
 
-9. pavúky – strehúne (Pardosa spp.),
+Meď (Cu) | 3,0 | konzumné zemiaky
 
-10. pavúky (Cheiracanthium mildei),
+| 10,0 | zelenina
 
-11. leskličky (Anthocoris nemoralis),
+Nikel (Ni) | 0,5 | konzumné zemiaky
 
-12. leskličky (Orius laevigatus),
+| 2,5 | zelenina
 
-13. lienku sedembodkovú (Coccinella septempunctata),
+B. Najvyššie prípustné množstvo dusičnanov (ako NO<sub>3–</sub>) v zelenine (mg/kg)*)
 
-14. drobčíky (Aleochara bilineata),
+Zelenina | Najvyššie prípustné množstvo v mg/kg (ako N0<sub>3-</sub>)
 
-15. bystrušky (Poecilus cupreus),
+melóny, tekvice, cukety | 700
 
-16. ryby.
+ostatná plodová zelenina | 400
 
-Uvedené vplyvy boli hodnotené tromi základnými stupňami takto:
+struková zelenina | 400
 
-– N = neškodné alebo mierne škodlivé (redukcia v poľných podmienkach 0 – 50 %, redukcia v laboratórnych podmienkach 0 – 30 %),
+konzumné zemiaky | 500
 
-– M = stredne škodlivé (redukcia v poľných podmienkach 50 – 75 %, redukcia v laboratórnych podmienkach 30 – 79 %),
+koreňová zelenina (okrem rýchlenej mrkvy, reďkovky a cvikly) | 700
 
-– T = škodlivé (redukcia v poľných podmienkach nad 75 %, redukcia v laboratórnych podmienkach nad 80 %).
+hlúbová zelenina | 700
 
-Okrem toho boli použité aj údaje triedy toxicity Svetovej zdravotníckej organizácie (WHO), ktoré boli hodnotené piatimi stupňami takto:
+listová zelenina (okrem špenátu, šalátu a čakanky) | 1000
 
-– Ia = extrémne nebezpečné,
+rýchlená mrkva | 1500
 
-– Ib = vysoko nebezpečné,
+reďkovka | 3500
 
-– II = stredne nebezpečné,
+cvikla | 3000
 
-– III = mierne nebezpečné,
+čerstvý špenát zo zberu od 1. XI. do 31. III. | 3000
 
-– U = pri normálom použití nevyvolávajú akútne nebezpečenstvo.
+čerstvý špenát zo zberu od 1. IV. do 31. X. | 2500
 
-Prípravky s účinnými látkami s klasifikáciou „N“ sú použiteľné v integrovanej produkcii takmer bez obmedzenia, prípravky s účinnými látkami s klasifikáciou „M“ sú použiteľné v určitom obmedzenom počte ošetrení a prípravky s účinnými látkami s klasifikáciou „T“ sú zakázané v integrovanej produkcii. V prípade prípravkov na ochranu rastlín s dvomi a viac účinnými látkami toxicitu určuje účinná látka s vyššou toxicitou.
+hlávkový šalát (okrem typu „iceberg“) zo zberu: |
 
-Okrem uvedeného boli zohľadnené aj tieto podmienky:
+od 1. X. do 31. III. – pestovaný v skleníku | 4500
 
-– obmedzenia počtu ošetrení uvádzané na etiketách prípravkov na ochranu rastlín sú záväzné pre všetkých pestovateľov a nesmú byť prekročené ani v integrovanej produkcii,
+od 1. X. do 31. III. – pestovaný vonku | 4000
 
-– širokospektrálne organofosfátové a karbamátové insekticídy sú buď zakázané, alebo majú povolený nízky počet použití,
+od 1. IV. do 30. IX. – pestovaný v skleníku | 3500
 
-– ditokarbamátové fungicídy možno použiť maximálne dvakrát za sezónu,
+od 1. IV. do 30. IX. – pestovaný vonku | 2500
 
-– fungicídy s možnosťou vzniku rezistencie možno použiť maximálne trikrát za sezónu,
+hlávkový šalát typu „iceberg“ – kučeravý a |
 
-– sírnaté prípravky možno použiť maximálne štyrikrát za sezónu.
+širokolisté endívie (batavské) – pestované v skleníku | 2500
+
+širokolisté endívie (batavské) – pestované vonku | 2000
+
+*) Potravinový kódex Slovenskej republiky príloha č. 2 druhá časť 10. hlava “Najvyššie prístupné množstvo kontaminantov v potravinách platné v Slovenskej republike„ (výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 608/3/2004-100 z 15. marca 2004 v znení výnosu č. 1907/2004-100 z 21. júla 2004 a výnosu č. 3372/2004-100 zo 17. januára 2005).

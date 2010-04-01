@@ -1,11 +1,11 @@
-Príloha č. 13 k nariadeniu vlády č. 499/2008 Z. z. Odporúčané minimálne počty jedincov na hektár potrebných pre vstup do systému IPO
+Príloha č. 12 k nariadeniu vlády č. 499/2008 Z. z. Limitné hodnoty rizikových prvkov vo vzorke ovocia*)
 
-Ovocný druh | Minimálny počet jedincov na jeden hektár
+Chemický prvok | Najvyššie prípustné množstvo celkového obsahu chemického prvku v ovocí (mg.kg<sup>-1</sup>)
 
-Jadroviny*) | 400
+Olovo (Pb) | 0,1 – 0,2 (drobné ovocie)
 
-Kôstkoviny**) | 300
+Kadmium (Cd) | 0,03
 
-Drobné, bobuľovité ovocie***) | 2 000
+Ortuť (Hg) | 0,03
 
-Orech kráľovský | 50
+Arzén (As) | 0,5
