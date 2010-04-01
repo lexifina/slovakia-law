@@ -16,113 +16,121 @@
 
 - Poplatky stanovené v Dohovore a vo Vykonávacom predpise
 
-- Poplatky, ktoré sa platia Úradu podľa článku 1, sú:
+- (1) Poplatky, ktoré sa platia Úradu podľa článku 1, pokiaľ nie je v odseku 2 uvedené inak, sú:
 
-- | EUR
+- 1. | Prihlasovací poplatok (článok 78 ods. 2), ak | | EUR
 
-- 1. Prihlasovací poplatok (článok 78 ods. 2), ak |
+- | – | európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) je podaná on-line | 105
 
-- - je podaná Európska patentová prihláška on-line alebo v prípade medzinárodnej prihlášky je formulár na vstup do európskej fázy (EPO Formulár 1200) podaný on-line | 100
+- | – | európska patentová prihláška alebo v prípade medzinárodnej prihlášky formulár na vstup do európskej fázy (EPO formulár 1200) nie je podaná on-line | 190
 
-- - nie je podaná Európska patentová prihláška on-line alebo v prípade medzinárodnej prihlášky nie je formulár na vstup do európskej fázy (EPO Formulár 1200) podaný on-line | 180
+- 1a. | Dodatočný poplatok za európsku patentovú prihlášku, ktorá obsahuje viac ako 35 strán (nepočítajú sa strany, ktoré sú súčasťou zoznamu sekvencií) (pravidlo 38 ods. 2) | | plus 13 EUR za 36. a za každú ďalšiu stranu
 
-- 2. Poplatok za rešerš týkajúci sa |
+- 2. | Poplatok za rešerš týkajúci sa | |
 
-- - európskej alebo doplnkovej európskej rešerše prihlášky podanej 1. júla 2005 alebo po tomto dni (článok 78 ods. 2, pravidlo 62, pravidlo 64 ods. 1, článok 153 ods. 7) | 1 050
+- | – | európskej alebo doplnkovej európskej rešerše prihlášky podanej 1. júla 2005 alebo po tomto dni (článok 78 ods. 2, pravidlo 62, pravidlo 64 ods. 1, článok 153 ods. 7) | 1 105
 
-- - európskej alebo doplnkovej európskej rešerše prihlášky podanej pred 1. júlom 2005 (článok 78 ods. 2, pravidlo 64 ods. 1, článok 153 ods. 7) | 760
+- | – | európskej alebo doplnkovej európskej rešerše prihlášky podanej pred 1. júlom 2005 (článok 78 ods. 2, pravidlo 64 ods. 1, článok 153 ods. 7) | 800
 
-- - medzinárodnej rešerše (pravidlo 16.1 PCT a pravidlo 158 ods. 1) | 1 700
+- | – | medzinárodnej rešerše (pravidlo 16.1 PCT a pravidlo 158 ods. 1) | 1 785
 
-- 3. Určovací poplatok za každý určený zmluvný štát (článok 79 ods. 2); určovacie poplatky sa pokladajú za zaplatené za všetky zmluvné štáty na základe platby 7-násobku výšky tohto poplatku | 85
+- 3. | Určovací poplatok za každý určený zmluvný štát (článok 79 ods. 2) pre prihlášky podané 1. apríla 2009 alebo po tomto dni | | 525
 
-- 3a. Poplatok za spoločné určenie Švajčiarskej konfederácie a Lichtenštajnského kniežatstva | 85
+- 4. | Udržiavacie poplatky za európsku patentovú prihlášku (článok 86 ods. 1) počítané v každom prípade odo dňa podania prihlášky | |
 
-- 4. Udržiavacie poplatky za európske patentové prihlášky (článok 86 ods. 1) vypočítané v každom prípade odo dňa podania prihlášky |
+- | – | za 3. rok | 420
 
-- - za 3. rok | 400
+- | – | za 4. rok | 525
 
-- - za 4. rok | 500
+- | – | za 5. rok | 735
 
-- - za 5. rok | 700
+- | – | za 6. rok | 945
 
-- - za 6. rok | 900
+- | – | za 7. rok | 1 050
 
-- - za 7. rok | 1 000
+- | – | za 8. rok | 1 155
 
-- - za 8. rok | 1 100
+- | – | za 9. rok | 1 260
 
-- - za 9. rok | 1 200
+- | – | za 10. a každý nasledujúci rok | 1 420
 
-- - za 10. a každý nasledujúci rok | 1 350
+- 5. | Príplatok za oneskorenú platbu udržiavacieho poplatku za európsku patentovú prihlášku (pravidlo 51 ods. 2) | | 50 % z oneskoreného udržiavacieho poplatku
 
-- 5. Príplatok za oneskorenú platbu udržiavacieho poplatku za európsku patentovú prihlášku (pravidlo 51 ods. 2) | 50 % z oneskoreného udržiavacieho poplatku
+- 6. | Poplatok za prieskum (článok 94 ods. 1) za | |
 
-- 6. Poplatok za prieskum (článok 94 ods. 1) týkajúci sa |
+- | – | prihlášku podanú pred 1. júlom 2005 | 1 645
 
-- - prihlášky podanej pred 1. júlom 2005 | 1 565
+- | – | prihlášku podanú 1. júla 2005 alebo po tomto dni | 1 480
 
-- - prihlášky podanej 1. júla 2005 alebo po tomto dni | 1 405
+- | – | medzinárodnú prihlášku podanú 1. júla 2005 alebo po tomto dni, pre ktorú nebola vypracovaná správa o doplnkovej európskej patentovej rešerši (článok 153 ods. 7) | 1 645
 
-- - medzinárodnej prihlášky podanej 1. júla 2005 alebo po tomto dni, pre ktorú nebola vyhotovená žiadna doplnková správa o európskej rešerši (článok 153 ods. 7) | 1 565
+- 7. | Poplatok za udelenie vrátane poplatku za tlač európskeho patentového spisu (pravidlo 71 ods. 3) pre prihlášku podanú 1. apríla 2009 alebo po tomto dni | | 830
 
-- 7. Poplatok za udelenie vrátane poplatku za tlač európskeho patentového spisu (pravidlo 71 ods. 3), ak podklady prihlášky určené na tlač obsahujú: |
+- 8. | Poplatok za tlač nového európskeho patentového spisu (pravidlo 82 ods. 2, pravidlo 95 ods. 3) | | 65
 
-- 7.1 najviac 35 strán | 790
+- 9. | Príplatok za oneskorené vykonanie úkonov potrebných na zachovanie európskeho patentu v zmenenej forme (pravidlo 82 ods. 3, pravidlo 95 ods. 3) | | 105
 
-- 7.2 viac ako 35 strán | 790 plus 12 EUR za 36. a každú ďalšiu stranu
+- 10. | Poplatok za námietky (článok 99 ods. 1, článok 105 ods. 2) | | 705
 
-- 8. Poplatok za tlač nového európskeho patentového spisu (pravidlo 82 ods. 2, pravidlo 95 ods. 3) |
+- 10a. | Poplatok za obmedzenie alebo zrušenie (článok 105a ods. 1) | |
 
-- - paušálny poplatok | 60
+- | – | žiadosť o obmedzenie | 1 050
 
-- 9. Príplatok za oneskorené vykonanie úkonov potrebných na zachovanie európskeho patentu v zmenenej forme (pravidlo 82 ods. 3, pravidlo 95 ods. 3) |
+- | – | žiadosť o zrušenie | 475
 
-- - paušálny poplatok | 100
+- 11. | Poplatok za sťažnosť (článok 108) | | 1 180
 
-- 10. Poplatok za námietky (článok 99 ods. <?xml:namespace prefix = st1 />1 a článok 105 ods. 2) | 670
+- 11a. | Poplatok za žiadosť o preskúmanie (článok 112a ods. 4) | | 2 625
 
-- 10a. Poplatok za obmedzenie alebo zrušenie (článok 105a ods. 1 |
+- 12. | Poplatok za pokračovanie v konaní (pravidlo 135 ods. 1) | |
 
-- - žiadosť o obmedzenie | 1 000
+- | – | v prípade oneskorenej platby poplatku | 50 % z príslušného poplatku
 
-- - žiadosť o zrušenie | 450
+- | – | v prípade oneskoreného vykonania úkonov požadovaných podľa pravidla 71 ods. 3 | 225
 
-- 11. Poplatok za sťažnosť (článok108) | 1 120
+- | – | v ostatných prípadoch | 225
 
-- 11a. Poplatok za žiadosť o preskúmanie (článok 112a ods. 4 | 2 500
+- 13. | Poplatok za obnovenie práv/poplatok za žiadosť o obnovenie práva na prioritu/poplatok za uvedenie do predošlého stavu [pravidlo 136 ods. 1, pravidlo 26bis.3 písm. d) PCT, pravidlo 49ter.2 písm. d) PCT, pravidlo 49.6 písm. d) a i) PCT] | | 580
 
-- 12. Poplatok za pokračovanie v konaní (pravidlo 135 ods. 1) | 210
+- 14. | Poplatok za zmenu (článok 135 ods. 3 a článok 140) | | 65
 
-- - v prípade oneskorenej platby poplatku | 50 % príslušného poplatku
+- 14a. | Poplatok za neskoré predloženie sekvenčného protokolu (pravidlo 30 ods. 3) | | 210
 
-- - v prípade oneskoreného vykonania úkonov požadovaných podľa pravidla 71 ods. 3 | 210
+- 15. | Poplatok za patentové nároky (pravidlo 45 ods. 1, pravidlo 71 ods. 6 a pravidlo 162 ods. 1) pre prihlášku podanú 1. apríla 2009 alebo po tomto dni | |
 
-- - v ostatných prípadoch | 210
+- | – | za 16. a každý ďalší patentový nárok až po hranicu 50 | 210
 
-- 13. Poplatok za obnovenie práv/poplatok za žiadosť o obnovenie práva na prioritu/poplatok za uvedenie do predošlého stavu [pravidlo 136 ods. 1, pravidlo 26bis.3(d) PCT, pravidlo 49ter.2(d) PCT, pravidlo 49.6(d)(i) PCT] | 550
+- | – | za 51. a každý ďalší patentový nárok | 525
 
-- 14. Poplatok za zmenu (článok 135 ods. 3 a článok 140) | 60
+- 16. | Poplatok za určenie nákladov (pravidlo 88 ods. 3) | | 65
 
-- 14a. Poplatok za oneskorené predloženie sekvenčného protokolu (pravidlo 30 ods. 3 | 200
+- 17. | Poplatok za uchovanie dôkazu (pravidlo 123 ods. 3) | | 65
 
-- 15. Poplatok za šestnásty patentový nárok a každý ďalší patentový nárok (pravidlo 45 ods. 1, pravidlo 71 ods. 6 a pravidlo 162 ods. 1) | 200
+- 18. | Poplatok za odovzdanie medzinárodnej prihlášky (pravidlo 157 ods. 4) | | 115
 
-- 16. Poplatok za určenie nákladov (pravidlo 88 ods. 3) | 60
+- 19. | Poplatok za predbežný prieskum medzinárodnej prihlášky (pravidlo 58 PCT a pravidlo 158 ods. 2) | | 1 760
 
-- 17. Poplatok za uchovanie dôkazu (pravidlo 123 ods. 3) | 60
+- 20. | Poplatok za technický posudok (článok 25) | | 3 515
 
-- 18. Poplatok za odovzdanie medzinárodnej prihlášky (pravidlo 157 ods. 4) | 110
+- 21. | Poplatok za sťažnosť [pravidlá 40.2 písm. e) a 68.3 písm. e) PCT] | |
 
-- 19. Poplatok za predbežný prieskum medzinárodnej prihlášky (pravidlo 58 PCT a pravidlo 158 ods. 2) | 1 675
+- | – | za medzinárodné prihlášky 13. decembra 2007 stále v konaní | 1 180
 
-- 20. Poplatok za technický posudok (článok 25) | 3 345
+- | – | za medzinárodné prihlášky podané 13. decembra 2007 alebo po tomto dni (pravidlo 158 ods. 3) | 790
 
-- 21. Poplatok za sťažnosť [pravidlá 40.2(e) a 68.3(e) PCT] |
+- (2) Pre európske patentové prihlášky podané pred 1. aprílom 2009 a medzinárodné prihlášky, ktoré vstúpili do regionálnej fázy pred týmto dňom, je výška poplatkov stanovená v článku 2 ods. 3, 3a, 7 a 15 Poplatkového poriadku, ktorý bol účinný do 31. marca 2009, nasledujúca:
 
-- - za medzinárodné prihlášky, ktoré sú 13. decembra 2007 stále v konaní | 1 120
+- 3. | Určovací poplatok za každý určený zmluvný štát (článok 79 ods. 2); určovacie poplatky sa pokladajú za zaplatené za všetky zmluvné štáty na základe platby 7-násobku výšky tohto poplatku | 90
 
-- - za medzinárodné prihlášky podané 13. decembra 2007 alebo po tomto dni (pravidlo 158 ods. 3) | 750
+- 3a. | Poplatok za spoločné určenie Švajčiarskej konfederácie a Lichtenštajnského kniežatstva | 90
+
+- 7. | Poplatok za udelenie vrátane poplatku za tlač európskeho patentového spisu (pravidlo 71 ods. 3), ak podklady prihlášky určené na tlač obsahujú: |
+
+- 7.1 | najviac 35 strán | 830
+
+- 7.2 | viac ako 35 strán | 830 plus 13 EUR za 36. a každú ďalšiu stranu
+
+- 15. | Poplatok za patentové nároky za 16. a každý ďalší patentový nárok (pravidlo 45 ods. 1, pravidlo 71 ods. 6, pravidlo 162 ods. 1) | 210
 
 - Článok 3
 

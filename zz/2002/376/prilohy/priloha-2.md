@@ -462,9 +462,13 @@ Pravidlo 36
 
 Európske vylúčené prihlášky
 
-(1) Prihlasovateľ môže podať vylúčenú prihlášku týkajúcu sa ktorejkoľvek skoršej európskej patentovej prihlášky, ktorá je ešte v konaní.
+(1) Prihlasovateľ môže podať vylúčenú prihlášku týkajúcu sa ktorejkoľvek skoršej európskej patentovej prihlášky, ktorá je v konaní, ak
 
-(2) Vylúčená prihláška musí byť v jazyku konania skoršej prihlášky a musí byť podaná na Európsky patentový úrad v Mníchove, Haagu alebo Berlíne.
+(a) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od prvého oznámenia prieskumového oddelenia týkajúceho sa najskoršej prihlášky, pre ktorú bolo toto oznámenie vydané, alebo
+
+(b) je vylúčená prihláška podaná pred uplynutím 24 mesiacov od oznámenia, v ktorom prieskumové oddelenie namietalo, že skoršia prihláška nespĺňa požiadavky článku 82, ak bola táto námietka vznesená prvý raz.
+
+(2) Vylúčená prihláška musí byť podaná v jazyku konania o skoršej prihláške. Ak neskoršia prihláška nie je v úradnom jazyku Európskeho patentového úradu, vylúčená prihláška môže byť podaná v jazyku skoršej prihlášky; potom musí byť podaný preklad do jazyka konania o skoršej prihláške do dvoch mesiacov od podania vylúčenej prihlášky. Vylúčená prihláška musí byť podaná na Európsky patentový úrad v Mníchove, Haagu alebo Berlíne.
 
 (3) Prihlasovací poplatok a rešeršný poplatok za vylúčenú prihlášku musia byť zaplatené do jedného mesiaca od jej podania. Ak nie je v stanovenej lehote prihlasovací alebo rešeršný poplatok uhradený, prihláška sa považuje za vzatú späť.
 
@@ -856,7 +860,7 @@ Prieskum formálnych náležitostí
 
 Ak bol európskej patentovej prihláške pridelený dátum podania, Európsky patentový úrad podľa článku 90 odsek 3 preskúma, či:
 
-a) bol preklad prihlášky požadovaný podľa článku 14 odsek 2 alebo podľa pravidla 40 odsek 3 druhá veta podaný včas;
+a) bol preklad prihlášky požadovaný podľa článku 14 odseku 2, podľa pravidla 36 odseku 2 druhej vety alebo podľa pravidla 40 odseku 3 druhej vety podaný včas;
 
 b) žiadosť o udelenie európskeho patentu spĺňa požiadavky pravidla 41;
 
@@ -924,17 +928,29 @@ Rozšírená správa o európskej rešerši
 
 (2) Posudok podľa odseku 1 sa spolu s rešeršnou správou nezverejní.
 
+Pravidlo 62a
+
+Prihlášky obsahujúce väčší počet samostatných nárokov
+
+(1) Ak má Európsky patentový úrad názor, že podané nároky nie sú v súlade s pravidlom 43 odsekom 2, vyzve prihlasovateľa, aby v lehote dvoch mesiacov označil nároky, ktoré sú v súlade s pravidlom 43 odsekom 2, na základe ktorých sa má vykonať rešerš. Ak prihlasovateľ včas tejto výzve nevyhovie, rešerš bude vykonaná na základe prvého nároku v každej kategórii.
+
+(2) Prieskumové oddelenie vyzve prihlasovateľa, aby obmedzil nároky na predmet rešerše, ak zistí, že námietka podľa odseku 1 bola neoprávnená.
+
 Pravidlo 63
 
 Neúplná rešerš
 
-Ak má Európsky patentový úrad názor, že európska patentová prihláška nevyhovuje ustanoveniam tohto Dohovoru do takej miery, že nie je možné vypracovať plnohodnotnú rešerš na stav techniky na základe všetkých alebo niektorých nárokovaných predmetov, buď vydá odôvodnené vyhlásenie s týmto zámerom, alebo, ak je to možné, vypracuje čiastočnú správu o rešerši. Vyhlásenie alebo čiastočná správa sa považujú pri ďalšom konaní za správu o európskej rešerši.
+(1) Ak má Európsky patentový úrad názor, že európska patentová prihláška nie je v súlade s ustanoveniami tohto dohovoru do takej miery, že nie je možné vypracovať plnohodnotnú rešerš na stav techniky na základe všetkých alebo niektorých nárokovaných predmetov, vyzve prihlasovateľa, aby do dvoch mesiacov podal vyhlásenie, v ktorom uvedie predmet, na ktorý sa má rešerš vypracovať.
+
+(2) Ak nie je vyhlásenie podľa odseku 1 podané včas alebo nie je dostatočné na odstránenie nedostatku zisteného podľa odseku 1, Európsky patentový úrad vydá odôvodnené vyhlásenie, v ktorom uvedie, že európska patentová prihláška nie je v súlade s ustanoveniami tohto dohovoru do takej miery, že nie je možné vypracovať plnohodnotnú rešerš na stav techniky na základe všetkých alebo niektorých nárokovaných predmetov, alebo, pokiaľ je to možné, vypracuje čiastočnú správu o rešerši. Odôvodnené vyhlásenie alebo čiastočná správa o rešerši sa bude na účely ďalšieho konania považovať za správu o európskej rešerši.
+
+(3) Po vypracovaní čiastočnej správy o rešerši vyzve prieskumové oddelenie prihlasovateľa, aby obmedzil nároky na predmet, na ktorý bola vypracovaná rešerš, ak zistí, že námietka podľa odseku 1 bola neoprávnená.
 
 Pravidlo 64
 
 Správa o európskej rešerši pri nesplnení požiadavky jednotnosti vynálezu
 
-(1) Ak má Európsky patentový úrad názor, že európska patentová prihláška nevyhovuje požiadavke jednotnosti vynálezu, vyhotoví čiastočnú správu o rešerši na tie časti prihlášky, ktoré sa týkajú vynálezu alebo skupiny vynálezov v zmysle článku 82, ktoré sú v patentových nárokoch uvedené na prvom mieste. Prihlasovateľovi oznámi, že ak má správa o európskej rešerši zahŕňať aj ďalšie vynálezy, musí byť za každý vynález zaplatený nový poplatok za rešerš v lehote, ktorú stanoví a ktorá nesmie byť kratšia ako dva týždne a dlhšia ako šesť týždňov. Správa o európskej rešerši bude vyhotovená na tie časti prihlášky, ktoré sa týkajú vynálezov, za ktoré boli zaplatené poplatky za rešerš.
+(1) Ak má Európsky patentový úrad názor, že európska patentová prihláška nespĺňa požiadavku jednotnosti vynálezu, vypracuje čiastočnú správu o rešerši na tie časti prihlášky, ktoré sa týkajú vynálezu alebo skupiny vynálezov v zmysle článku 82, ktoré sú v patentových nárokoch uvedené na prvom mieste. Prihlasovateľovi oznámi, že ak má správa o európskej rešerši zahŕňať aj ďalšie vynálezy, musí byť do dvoch mesiacov zaplatený nový poplatok za rešerš za každý vynález. Správa o európskej rešerši bude vypracovaná na tie časti prihlášky, ktoré sa týkajú vynálezov, za ktoré boli zaplatené poplatky za rešerš.
 
 (2) Každý poplatok zaplatený podľa odseku 1 sa vráti, ak o to v priebehu prieskumu európskej patentovej prihlášky prihlasovateľ požiada a prieskumový odbor zistí, že oznámenie podľa odseku 1 bolo neoprávnené.
 
@@ -978,9 +994,9 @@ Pravidlo 69
 
 Oznámenie o zverejnení
 
-(1) Európsky patentový úrad oznámi prihlasovateľovi dátum, kedy bolo v Európskom patentovom vestníku oznámené zverejnenie správy o európskej rešerši a v tomto oznámení ho upozorní na ustanovenie pravidla 70 odsek 1 a článku 94 odsek 2.
+(1) Európsky patentový úrad oznámi prihlasovateľovi dátum, keď bolo v Európskom patentovom vestníku oznámené zverejnenie správy o európskej rešerši, a v tomto oznámení ho upozorní na ustanovenia pravidla 70 odseku 1, článku 94 odseku 2 a pravidla 70a odseku 1.
 
-(2) Prihlasovateľ nemôže žiadať vynechanie oznámenia podľa odseku 1. Ak je v oznámení uvedený neskorší dátum, ako je dátum, keď bolo zverejnenie oznámené, je tento neskorší dátum rozhodujúci pre lehotu na podanie žiadosti o prieskum, ak chyba nie je zjavná.
+(2) Ak je v oznámení podľa odseku 1 uvedený dátum zverejnenia, ktorý je neskorší ako skutočný dátum zverejnenia, tento neskorší dátum je rozhodujúci pre lehoty podľa pravidla 70 odseku 1 a pravidla 70a odseku 1, ak chyba nie je zjavná.
 
 Pravidlo 70
 
@@ -995,6 +1011,16 @@ Pravidlo 70
 HLAVA IV
 
 PRIESKUM PRIESKUMOVÝM ODDELENÍM
+
+Pravidlo 70a
+
+Odpoveď na rozšírenú správu o európskej rešerši
+
+(1) V posudku priloženom k správe o európskej rešerši poskytne Európsky patentový úrad prihlasovateľovi možnosť vyjadriť sa k rozšírenej správe o európskej rešerši a v prípade potreby ho vyzve, aby odstránil všetky nedostatky uvedené v posudku priloženom k správe o európskej rešerši a zmenil opis, patentové nároky a výkresy v lehote podľa pravidla 70 odseku 1.
+
+(2) V prípade podľa pravidla 70 odseku 2 alebo, ak je doplnková správa o európskej rešerši vypracovaná na prihlášku Euro-PCT, Európsky patentový úrad poskytne prihlasovateľovi možnosť, aby sa vyjadril k rozšírenej správe o európskej rešerši, a v prípade potreby ho vyzve, aby odstránil všetky nedostatky uvedené v posudku priloženom k správe o európskej rešerši a zmenil opis, patentové nároky a výkresy v lehote určenej na uvedenie, či si želá pokračovať v konaní o prihláške.
+
+(3) Ak prihlasovateľ ani nevyhovie výzve podľa odseku 1 alebo 2, ani sa k nej nevyjadrí, prihláška sa považuje za vzatú späť.
 
 Pravidlo 71
 
@@ -1706,7 +1732,7 @@ Pokračovanie v konaní
 
 (1) Pokračovanie v konaní podľa článku 121 odsek 1 sa požaduje zaplatením predpísaného poplatku do dvoch mesiacov od upozornenia týkajúceho sa buď nedodržania lehoty, alebo straty práv. Vynechaný úkon sa dokončí v lehote na napísanie žiadosti.
 
-(2) O pokračovaní v konaní sa rozhodne vzhľadom na lehoty, na ktoré sa vzťahuje článok 121 odsek 4 a lehoty podľa pravidla 6 odsek 1, pravidla 16 odsek 1 písmeno a), pravidla 31 odsek 2, pravidla 40 odsek 3, pravidla 51 odseky 2 až 5, pravidla 52 odseky 2 a 3, pravidiel 55, 56, 58, 59, 64 a pravidla 112 odsek 2.
+(2) O pokračovaní v konaní sa rozhodne vzhľadom na lehoty, na ktoré sa vzťahuje článok 121 odsek 4, a na lehoty podľa pravidla 6 odseku 1, pravidla 16 odseku 1 písmena a), pravidla 31 odseku 2, pravidla 36 odseku 1 písmen a) a b) a odseku 2, pravidla 40 odseku 3, pravidla 51 odsekov 2 až 5, pravidla 52 odsekov 2 a 3, pravidiel 55, 56, 58, 59, 62a, 63, 64 a pravidla 112 odseku 2.
 
 (3) Odbor, ktorý je oprávnený rozhodovať o vynechanom úkone, rozhodne na základe žiadosti o pokračovanie v konaní.
 
@@ -1728,15 +1754,17 @@ ZMENY A OPRAVY
 
 Pravidlo 137
 
-Zmeny v Európskej patentovej prihláške
+Zmeny v európskej patentovej prihláške
 
-(1) Ak nie je stanovené inak, nemôže prihlasovateľ meniť opis, patentové nároky alebo výkresy európskej patentovej prihlášky skôr, ako dostal správu o európskej rešerši.
+(1) Ak nie je ustanovené inak, nemôže prihlasovateľ meniť opis, patentové nároky ani výkresy európskej patentovej prihlášky skôr, ako dostal správu o európskej rešerši.
 
-(2) Po prijatí správy o európskej rešerši môže prihlasovateľ z vlastnej vôle meniť opis, patentové nároky a výkresy.
+(2) Spolu so všetkými pripomienkami, opravami alebo zmenami urobenými v odpovedi na oznámenia Európskeho patentového úradu podľa pravidla 70a odseku 1 alebo 2 alebo podľa pravidla 161 odseku 1 môže prihlasovateľ z vlastnej vôle meniť opis, patentové nároky a výkresy.
 
-(3) Po prijatí prvého oznámenia z prieskumového oddelenia môže prihlasovateľ z vlastnej vôle raz zmeniť opis, patentové nároky a výkresy za predpokladu, že táto zmena je podaná súčasne s odpoveďou na oznámenie. Ďalšie zmeny je možné uskutočniť len so súhlasom prieskumového oddelenia.
+(3) Bez súhlasu prieskumového oddelenia sa nesmú robiť žiadne ďalšie zmeny.
 
-(4) Zmenené patentové nároky sa nemôžu týkať predmetu, ktorý nebol podrobený rešerši a ktorý nie je spojený s pôvodne nárokovaným vynálezom alebo skupinou vynálezov tak, aby tvorili jedinú všeobecnú vynálezcovskú myšlienku.
+(4) Pri podaní akýchkoľvek zmien podľa odsekov 1 až 3 ich prihlasovateľ musí určiť a uviesť ich dôvod v podanej prihláške. Ak prieskumové oddelenie zistí nesplnenie niektorej z požiadaviek, môže požadovať odstránenie tohto nedostatku do jedného mesiaca.
+
+(5) Zmenené patentové nároky sa nemôžu týkať predmetu, na ktorý nebola vypracovaná rešerš a ktorý netvorí s pôvodne nárokovaným vynálezom alebo skupinou vynálezov jedinú všeobecnú vynálezcovskú myšlienku. Ani sa nemôžu týkať predmetu, ktorý nebol podrobený rešerši podľa pravidla 62a alebo podľa pravidla 63.
 
 Pravidlo 138
 
@@ -2100,7 +2128,9 @@ Pravidlo 161
 
 Zmena v prihláške
 
-Bez porušenia pravidla 137 odseky 2 až 4 môže byť prihláška zmenená raz v lehote jedného mesiaca od oznámenia o tom informujúceho prihlasovateľa. Zmenená prihláška slúži ako základ pre doplnkovú rešerš, ktorá má byť vykonaná podľa článku 153 odsek 7.
+(1) Ak vystupoval Európsky patentový úrad ako Medzinárodný rešeršný úrad a ak bola podaná požiadavka podľa článku 31 PCT aj ako Medzinárodný úrad pre predbežný prieskum pre Euro-PCT prihlášku, musí prihlasovateľovi poskytnúť možnosť vyjadriť sa k písomnému posudku Medzinárodného rešeršného úradu alebo k medzinárodnej správe o predbežnom prieskume a v prípade potreby ho vyzvať, aby odstránil všetky nedostatky uvedené v písomnom posudku alebo v medzinárodnej správe o predbežnom prieskume a zmenil opis, patentové nároky a výkresy do jedného mesiaca od príslušného oznámenia. Ak Európsky patentový úrad vypracoval správu o doplnkovej medzinárodnej rešerši, výzva podľa prvej vety bude vydaná podľa vysvetliviek poskytnutých v súlade s pravidlom 45bis.7 písm. e) PCT. Ak prihlasovateľ výzve nevyhovie alebo sa k nej nevyjadrí v súlade s ustanovením prvej alebo druhej vety, prihláška sa pokladá za vzatú späť.
+
+(2) Ak Európsky patentový úrad vypracuje doplnkovú správu o európskej rešerši pre Euro-PCT prihlášku, možno prihlášku jedenkrát zmeniť, a to v lehote jedného mesiaca od oznámenia informujúceho o tom prihlasovateľa. Zmenená prihláška slúži ako základ doplnkovej európskej rešerše.
 
 Pravidlo 162
 
@@ -2134,9 +2164,9 @@ Pravidlo 164
 
 Posúdenie jednotnosti Európskym patentovým úradom
 
-(1) Ak Európsky patentový úrad posúdi, že písomnosti prihlášky, ktoré slúžia ako základ pre doplnkovú rešerš, nespĺňajú požiadavky jednotnosti vynálezu, správa o doplnkovej rešerši sa vyhotoví na tie časti prihlášky, ktoré sa týkajú vynálezu alebo skupiny vynálezov v zmysle znenia článku 82, ktoré sú uvedené v patentových nárokoch ako prvé.
+(1) Ak Európsky patentový úrad posúdi, že písomnosti prihlášky, ktoré slúžia ako základ doplnkovej európskej rešerše, nespĺňajú požiadavky jednotnosti vynálezu, správa o doplnkovej európskej rešerši sa vyhotoví pre tie časti prihlášky, ktoré sa týkajú vynálezu alebo skupiny vynálezov v zmysle znenia článku 82, ktoré sú uvedené v patentových nárokoch ako prvé.
 
-(2) Ak prieskumové oddelenie zistí, že písomnosti prihlášky, na ktorých je založené konanie o udelenie európskeho patentu, nespĺňajú požiadavky jednotnosti vynálezu, alebo dôjde k prípadu, že sa ochrana žiada pre vynález nezahrnutý do medzinárodnej rešeršnej správy alebo prípadne do doplnkovej rešeršnej správy, prihlasovateľ je vyzvaný, aby obmedzil prihlášku na jeden vynález zahrnutý do medzinárodnej rešeršnej správy alebo do doplnkovej rešeršnej správy.
+(2) Ak prieskumové oddelenie zistí, že písomnosti prihlášky, na ktorých je založené konanie o udelení európskeho patentu, nespĺňajú požiadavky jednotnosti vynálezu alebo dôjde k prípadu, že sa ochrana žiada pre vynález nezahrnutý do medzinárodnej rešeršnej správy alebo prípadne do doplnkovej medzinárodnej rešeršnej správy, alebo do doplnkovej správy o európskej rešerši, vyzve prihlasovateľa, aby obmedzil prihlášku na jeden vynález zahrnutý do medzinárodnej rešeršnej správy, do doplnkovej medzinárodnej rešeršnej správy alebo do doplnkovej správy o európskej rešerši.
 
 Pravidlo 165
 
