@@ -36,4 +36,4 @@
 
 (4) Za priestupok podľa odseku 1 písm. g) možno uložiť vodičovi pokutu do výšky päťdesiatnásobku úhrady na mesiac uvedenej v nariadení vlády Slovenskej republiky, ktorým sa ustanovuje výška úhrady za užívanie vymedzených úsekov diaľnic, ciest pre motorové vozidlá a ciest I. triedy, a v blokovom konaní do výšky desaťnásobku tejto úhrady.
 
-(5) Na priestupky a ich prejednávanie sa vzťahuje osobitný predpis<sup>10</sup>) s tým, že priestupok podľa odseku 1 písm. g) v blokovom konaní prejednávajú aj orgány Policajného zboru alebo útvary služby mýtnej polície.
+(5) Na priestupky a ich prejednávanie sa vzťahuje osobitný predpis<sup>10</sup>) s tým, že priestupok podľa odseku 1 písm. g) v blokovom konaní prejednávajú aj orgány Policajného zboru.

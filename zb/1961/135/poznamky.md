@@ -48,8 +48,6 @@
 
 - 2fa) Zákon č. 639/2004 Z. z. v znení neskorších predpisov.
 
-- 2faa) Zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov.
-
 - 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 2gb) § 4 ods. 2 písm. b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z. v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 414/2000 Z. z.
