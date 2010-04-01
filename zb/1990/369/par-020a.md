@@ -26,4 +26,4 @@
 
 - c) určenie starostu, ktorý bude štatutárnym orgánom v majetkovoprávnych veciach týkajúcich sa spoločného obecného úradu a v pracovnoprávnych veciach týkajúcich sa zamestnancov v spoločnom obecnom úrade.
 
-(4) Na platnosť zmluvy je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov obecného zastupiteľstva každej obce, ktorá je účastníkom zmluvy. Za záväzky vzniknuté voči tretím osobám zo zmluvy uzavretej na účel uskutočnenia konkrétnej úlohy alebo činnosti účastníci zmluvy zodpovedajú spoločne a nerozdielne, ak zmluva neustanovuje inak.
+(4) Na platnosť zmluvy je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov každej obce, ktorá je účastníkom zmluvy. Za záväzky vzniknuté voči tretím osobám zo zmluvy uzavretej na účel uskutočnenia konkrétnej úlohy alebo činnosti účastníci zmluvy zodpovedajú spoločne a nerozdielne, ak zmluva neustanovuje inak.

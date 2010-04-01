@@ -12,4 +12,4 @@
 
 - d) osoby, ktorým boli poskytnuté z rozpočtu obce účelové dotácie alebo návratné finančné výpomoci, či nenávratné finančné výpomoci podľa osobitného predpisu<sup>10</sup>) v rozsahu nakladania s týmito prostriedkami.
 
-(3) Kontrolná činnosť podľa odseku 1 sa nevzťahuje na konanie, v ktorom o právach, právom chránených záujmoch alebo o povinnostiach právnických osôb alebo fyzických osôb rozhoduje starosta v správnom konaní podľa § 27.
+(3) Kontrolná činnosť podľa odseku 1 sa nevzťahuje na konanie, v ktorom o právach, právom chránených záujmoch alebo o povinnostiach právnických osôb alebo fyzických osôb rozhoduje obec v správnom konaní podľa § 27.

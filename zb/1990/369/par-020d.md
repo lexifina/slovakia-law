@@ -8,7 +8,7 @@
 
 (2) O odmietnutí registrácie rozhodne obvodný úrad v sídle kraja do 30 dní od začatia konania.
 
-(3) Proti rozhodnutiu o odmietnutí registrácie možno podať do 15 dní od doručenia rozhodnutia splnomocnencovi opravný prostriedok na krajský súd príslušný podľa sídla združenia, a ak ide o združenie s pôsobnosťou na celom území Slovenskej republiky, na Najvyšší súd Slovenskej republiky.
+(3) Proti rozhodnutiu o odmietnutí registrácie možno podať do 15 dní od doručenia rozhodnutia splnomocnencovi opravný prostriedok na súd.
 
 (4) Súd rozhodnutie obvodného úradu v sídle kraja zruší, ak neboli dané dôvody na odmietnutie registrácie. Deň právoplatnosti rozhodnutia súdu je dňom registrácie združenia obcí. Obvodný úrad v sídle kraja na žiadosť splnomocnenca združenia obcí mu zašle jedno vyhotovenie stanov, na ktorom vyznačí deň registrácie.
 

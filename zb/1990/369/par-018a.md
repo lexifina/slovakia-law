@@ -4,7 +4,7 @@
 
 (2) Deň konania voľby hlavného kontrolóra vyhlási obecné zastupiteľstvo na úradnej tabuli a spôsobom v mieste obvyklým najmenej 40 dní pred dňom konania voľby tak, aby sa voľba vykonala počas posledných 60 dní funkčného obdobia doterajšieho hlavného kontrolóra. Kandidát na funkciu hlavného kontrolóra musí odovzdať svoju písomnú prihlášku najneskôr 14 dní pred dňom konania voľby na obecnom úrade. Súčasťou prihlášky je aj výpis z registra trestov nie starší ako tri mesiace a doklad o vzdelaní.
 
-(3) Na zvolenie hlavného kontrolóra je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov obecného zastupiteľstva. Ak ani jeden z kandidátov takú väčšinu nezískal, obecné zastupiteľstvo ešte na tej istej schôdzi vykoná druhé kolo volieb, do ktorého postúpia dvaja kandidáti, ktorí získali v prvom kole volieb najväčší počet platných hlasov. V prípade rovnosti hlasov do druhého kola volieb postupujú všetci kandidáti s najväčším počtom platných hlasov. V druhom kole volieb je zvolený ten kandidát, ktorý získal najväčší počet platných hlasov. Pri rovnosti hlasov v druhom kole volieb sa rozhoduje žrebom. Ďalšie podrobnosti o spôsobe a vykonaní voľby hlavného kontrolóra a náležitosti prihlášky ustanoví obec uznesením.
+(3) Na zvolenie hlavného kontrolóra je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov. Ak ani jeden z kandidátov takú väčšinu nezískal, obecné zastupiteľstvo ešte na tej istej schôdzi vykoná druhé kolo volieb, do ktorého postúpia dvaja kandidáti, ktorí získali v prvom kole volieb najväčší počet platných hlasov. V prípade rovnosti hlasov do druhého kola volieb postupujú všetci kandidáti s najväčším počtom platných hlasov. V druhom kole volieb je zvolený ten kandidát, ktorý získal najväčší počet platných hlasov. Pri rovnosti hlasov v druhom kole volieb sa rozhoduje žrebom. Ďalšie podrobnosti o spôsobe a vykonaní voľby hlavného kontrolóra a náležitosti prihlášky ustanoví obec uznesením.
 
 (4) Ak výkon funkcie hlavného kontrolóra zaniká spôsobom podľa odseku 8 písm. a), b) alebo d), vyhlási zastupiteľstvo nové voľby hlavného kontrolóra tak, aby sa konali najneskôr do 60 dní odo dňa skončenia výkonu funkcie hlavného kontrolóra.
 
@@ -37,3 +37,5 @@
 - b) hrubo alebo opakovane zanedbáva povinnosti vyplývajúce z jeho funkcie a bol na to aspoň raz písomne upozornený obecným zastupiteľstvom,
 
 - c) uvedie nepravdivý údaj v čestnom vyhlásení podávanom podľa § 18 ods. 1 alebo v údajoch o svojich majetkových pomeroch.
+
+(10) Na odvolanie hlavného kontrolóra z funkcie je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov.

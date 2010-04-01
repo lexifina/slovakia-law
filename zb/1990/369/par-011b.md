@@ -1,3 +1,3 @@
-# § 11b Verejné zhromaždenie obyvateľov obce
+# § 11b Zhromaždenie obyvateľov obce
 
-Na prerokovanie obecných vecí môže obecné zastupiteľstvo zvolať verejné zhromaždenie obyvateľov obce alebo jej časti.
+Na prerokovanie obecných vecí môže obecné zastupiteľstvo zvolať zhromaždenie obyvateľov obce alebo jej časti.
