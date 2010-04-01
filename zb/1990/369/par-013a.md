@@ -12,7 +12,7 @@
 
 - e) pozbavením spôsobilosti na právne úkony alebo obmedzením spôsobilosti na právne úkony,
 
-- f) vyhlásením výsledku hlasovania obyvateľov obce o odvolaní starostu, ktorým sa rozhodlo o odvolaní starostu,
+- f) vyhlásením výsledku miestneho referenda o odvolaní starostu, ktorým sa rozhodlo o odvolaní starostu,
 
 - g) zmenou trvalého pobytu mimo územia obce; v mestách so samosprávou mestských častí aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
 
@@ -26,12 +26,14 @@
 
 (3) Obecné zastupiteľstvo
 
-- a) vyhlási hlasovanie obyvateľov obce o odvolaní starostu, ak
+- a) vyhlási miestne referendum o odvolaní starostu, ak
 
   - 1. o to petíciou požiada aspoň 30 % oprávnených voličov,<sup>12</sup>)
 
   - 2. hrubo alebo opakovane zanedbáva povinnosti starostu, porušuje Ústavu Slovenskej republiky, ústavné zákony, zákony a ostatné všeobecne záväzné právne predpisy,
 
-- b) môže vyhlásiť hlasovanie obyvateľov obce o odvolaní starostu, ak neprítomnosť alebo nespôsobilosť starostu na výkon funkcie trvá dlhšie ako šesť mesiacov.
+- b) môže vyhlásiť miestne referendum o odvolaní starostu, ak neprítomnosť alebo nespôsobilosť starostu na výkon funkcie trvá dlhšie ako šesť mesiacov.
 
 (4) O návrhu podľa odseku 3 písm. a) druhého bodu rozhoduje obecné zastupiteľstvo nadpolovičnou väčšinou hlasov všetkých poslancov.
+
+(5) Starosta je povinný skutočnosti podľa odseku 1 písm. d), g) a h) bezodkladne písomne oznámiť obci.

@@ -24,4 +24,4 @@
 
 (3) Hlavný kontrolór je oprávnený nahliadať do dokladov, ako aj do iných dokumentov v rozsahu kontrolnej činnosti podľa § 18d.
 
-(4) Hlavný kontrolór je povinný na požiadanie bezodkladne sprístupniť výsledky kontrol poslancom obecného zastupiteľstva alebo starostovi.
+(4) Hlavný kontrolór je povinný na požiadanie bezodkladne sprístupniť výsledky kontrol poslancom alebo starostovi.

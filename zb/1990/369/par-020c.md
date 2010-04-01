@@ -4,7 +4,7 @@
 
 (2) K návrhu na registráciu sa prikladajú tieto doklady:
 
-- a) zmluva o založení združenia obcí podpísaná starostami všetkých obcí, ktoré sa stávajú členmi združenia obcí, s uvedením ich mena, priezviska, rodného čísla, bydliska, funkcie a názvu obce,
+- a) zmluva o zriadení združenia obcí podpísaná starostami všetkých obcí, ktoré sa stávajú členmi združenia obcí, s uvedením ich mena, priezviska, rodného čísla, adresy trvalého pobytu, funkcie a názvu obce,
 
 - b) uznesenia o schválení zmluvy obcami, ktoré sú jej účastníkmi,
 
@@ -16,13 +16,13 @@
 
   - 2. sídlo,
 
-  - 3. cieľ činnosti,
+  - 3. predmet činnosti,
 
   - 4. orgány združenia obcí, spôsob ich ustanovenia, určenie orgánov oprávnených konať v mene združenia obcí,
 
   - 5. zásady hospodárenia,
 
-  - 6. spôsob zániku, naloženia s majetkom a vyporiadania všetkých záväzkov združenia obcí,
+  - 6. spôsob zrušenia, naloženia s majetkom a vyporiadania všetkých záväzkov združenia obcí,
 
 - e) meno, priezvisko a adresa osoby splnomocnenej na podanie návrhu na registráciu združenia obcí.
 
