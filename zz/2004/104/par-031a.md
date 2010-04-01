@@ -26,7 +26,7 @@
 
 (5) Colný úrad môže v povolení na prevádzkovanie daňového skladu pre zahraničných zástupcov uviesť prevádzkovo-technické podmienky prevádzkovania takého skladu.
 
-(6) Preprava vína právnickej osobe alebo fyzickej osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane so sprievodným dokumentom; na postup pri preprave vína v pozastavení dane sa použijú § 19 a 20 primerane.
+(6) Preprava vína právnickej osobe alebo fyzickej osobe, ktorej colný úrad vydal povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov (ďalej len „prevádzkovateľ daňového skladu pre zahraničných zástupcov"), sa uskutočňuje v pozastavení dane s elektronickým dokumentom; na postup pri preprave vína v pozastavení dane sa použijú § 19 a 20 primerane.
 
 (7) Zahraničný zástupca, ktorý chce nakupovať víno oslobodené od dane v daňovom sklade pre zahraničných zástupcov, je povinný požiadať Ministerstvo zahraničných vecí Slovenskej republiky o vydanie potvrdenia o postavení zahraničného zástupcu podľa odseku 2 a o splnení podmienky vzájomnosti podľa odseku 14. Ak sa zmenia údaje uvedené v potvrdení Ministerstva zahraničných vecí Slovenskej republiky, Ministerstvo zahraničných vecí Slovenskej republiky oznámi bezodkladne tieto skutočnosti Colnému úradu Bratislava. Vzor potvrdenia Ministerstva zahraničných vecí Slovenskej republiky o postavení zahraničného zástupcu a o splnení podmienky vzájomnosti je uvedený v prílohe č. 2.
 
@@ -50,4 +50,4 @@
 
 (17) Colný úrad preverí u žiadateľa skutočnosti a údaje podľa odseku 16 a § 31b ods. 1 a doplní povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 30 dní odo dňa podania žiadosti; colný úrad, ktorý doplnil povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov, bezodkladne oznámi túto skutočnosť Colnému úradu Bratislava. Ak žiadateľ v tejto lehote nepreukáže splnenie všetkých podmienok, colný úrad ho vyzve, aby uvedené nedostatky odstránil, a doplní povolenie na prevádzkovanie daňového skladu o povolenie na prevádzkovanie daňového skladu pre zahraničných zástupcov do 15 dní odo dňa odstránenia nedostatkov.
 
-(18) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 14 víno v pozastavení dane so sprievodným dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>10</sup>) ktoré vydal hostiteľský štát. Na takú prepravu vína sa zábezpeka na daň nevyžaduje.
+(18) Prevádzkovateľ daňového skladu pre zahraničných zástupcov môže dodávať slovenskému zástupcovi podľa odseku 14 víno v pozastavení dane s elektronickým dokumentom a osvedčením o oslobodení od spotrebnej dane,<sup>10</sup>) ktoré vydal hostiteľský štát. Na takú prepravu vína sa zábezpeka na daň nevyžaduje.

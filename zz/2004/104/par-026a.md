@@ -1,0 +1,19 @@
+# § 26a Postup pri preprave vína v pozastavení dane pri vývoze pri nedostupnom elektronickom systéme
+
+(1) Ak je elektronický systém<sup>18a</sup>) nedostupný podľa § 23, vývozca je povinný
+
+- a) oznámiť písomne, telefonicky, faxom alebo elektronicky colnému úradu vývozu<sup>24b</sup>) začatie prepravy vína v pozastavení dane pri vývoze; v prípade telefonického, faxového alebo elektronického oznámenia sa písomné potvrdenie oznámenia nevyžaduje,
+
+- b) vyhotoviť sprievodný dokument podľa § 23.
+
+(2) Vývozca môže začať prepravu vína v pozastavení dane pri vývoze podľa odseku 1 len so súhlasom colného úradu vývozu.<sup>24b</sup>) Súhlas so začatím prepravy vína v pozastavení dane pri vývoze oznamuje colný úrad vývozu<sup>24b</sup>) faxom alebo elektronicky; písomné potvrdenie súhlasu sa nevyžaduje.
+
+(3) Víno prepravované v pozastavení dane pri vývoze musí sprevádzať sprievodný dokument vyhotovený vývozcom. Vývozca si ponechá kópiu sprievodného dokumentu a ďalšiu kópiu sprievodného dokumentu je povinný pred začatím prepravy zaslať písomne, faxom alebo elektronicky colnému úradu vývozu;<sup>24b</sup>) v prípade faxového alebo elektronického zaslania kópie sprievodného dokumentu sa jeho písomné doručenie nevyžaduje.
+
+(4) Ak je počas prepravy vína v pozastavení dane pri vývoze elektronický systém<sup>18a</sup>) nedostupný podľa § 23, môže vývozca, ktorý zložil zábezpeku na daň, zmeniť miesto výstupu, len ak oznámil colnému úradu vývozu<sup>24b</sup>) informácie podľa osobitného predpisu<sup>18b</sup>) a tento colný úrad so zmenou súhlasil. Vývozca je povinný požadované informácie zaslať písomne, faxom alebo elektronicky colnému úradu vývozu;<sup>24b</sup>) v prípade faxového alebo elektronického oznámenia sa jeho písomné doručenie nevyžaduje. Po obdržaní súhlasu colného úradu vývozu<sup>24b</sup>) je vývozca povinný vyznačiť na zadnej strane sprievodného dokumentu, ktorý sprevádza prepravované víno, nové miesto výstupu.
+
+(5) Ak sa preprava vína v pozastavení dane pri vývoze ukončila so sprievodným dokumentom na daňovom území, alebo ak je elektronický systém<sup>18a</sup>) nedostupný v čase, keď víno opustilo územie únie na daňovom území, colný úrad výstupu<sup>24c</sup>) na daňovom území je povinný vyhotoviť potvrdenie o výstupe v písomnej forme (ďalej len „písomné potvrdenie o výstupe“), ktoré musí obsahovať rovnaké údaje ako potvrdenie o výstupe podľa § 26 ods. 5. Colný úrad výstupu<sup>24c</sup>) na daňovom území zašle písomné potvrdenie o výstupe colnému úradu vývozu<sup>24b</sup>) na daňovom území alebo správcovi dane členského štátu vývozcu, ak nebolo víno prepustené do colného režimu vývoz<sup>24a</sup>) na daňovom území. Písomné potvrdenie o výstupe je dokladom potvrdzujúcim, že víno opustilo územie únie. Colný úrad vývozu<sup>24b</sup>) na daňovom území na základe písomného potvrdenia o výstupe vyhotoví písomnú správu o vývoze, ktorú zašle vývozcovi.
+
+(6) Ak sa elektronický systém<sup>18a</sup>) sprístupní, vývozca, colný úrad vývozu<sup>24b</sup>) a colný úrad výstupu<sup>24c</sup>) sú povinní bezodkladne postupovať podľa § 26 ods. 2; rovnako sú povinní postupovať, ak bola preprava vína v pozastavení dane pri vývoze ukončená pri nedostupnom elektronickom systéme.<sup>18a</sup>)
+
+(7) Ak nebola colným úradom vývozu<sup>24b</sup>) vyhotovená správa o vývoze podľa § 26 ods. 5 z iného dôvodu, ako je nedostupnosť elektronického systému,<sup>18a</sup>) je vývozca povinný predložiť colnému úradu vývozu<sup>24b</sup>) iný dôkaz o ukončení prepravy vína v pozastavení dane pri vývoze, ktorý musí obsahovať rovnaké údaje, ako sú uvedené v správe o vývoze podľa § 26 ods. 5. Ak colný úrad vývozu<sup>24b</sup>) na daňovom území uzná iný dôkaz o ukončení prepravy vína v pozastavení dane pri vývoze, oznámi túto skutočnosť vývozcovi a ukončí prepravu vína v pozastavení dane pri vývoze prostredníctvom elektronického systému.<sup>18a</sup>)
