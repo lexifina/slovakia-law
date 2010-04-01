@@ -26,6 +26,8 @@
 
 - 12) Napríklad § 8 nariadenia vlády Slovenskej republiky č. 276/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri práci so zobrazovacími jednotkami, § 7 nariadenia vlády Slovenskej republiky č. 281/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri ručnej manipulácii s bremenami, § 10 nariadenia vlády Slovenskej republiky č. 329/2006 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou elektromagnetickému poľu.
 
+- 12a) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
+
 - 13) Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovujú požiadavky na kozmetické výrobky v znení neskorších predpisov.
 
 - 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
