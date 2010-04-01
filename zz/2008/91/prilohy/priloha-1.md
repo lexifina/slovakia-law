@@ -1,10 +1,10 @@
-Príloha č. 1 k vyhláške č. 91/2008 Z. z. [Príloha 01](../assets/47841b45e99eb36941cb273c497ad5bd7bdb7e24a1552d04f14879f5676ce2ff.pdf)
+Príloha č. 1 k vyhláške č. 91/2008 Z. z. [Príloha 01](../assets/7d81629d475edda8c024fda273d59e41d739370199156a568525485622367262.pdf)
 
 - Metodika poskytovania informácie Dss (DIT) 05-98
 
 - 1. V informácii sa uvádzajú všetky transakcie s majetkom v dôchodkovom fonde uskutočnené za príslušný pracovný deň. Ak sa informácia zmení alebo stornuje, zašle sa opravná informácia s vykonanými zmenami ako vyššia verzia informácie. Ak opravná informácia má vplyv aj na údaje v ďalšej informácii, opraví sa aj ďalšia informácia a zašle sa ako vyššia verzia.
 
-- 2. Na ocenenie transakcií sa vzťahuje vyhláška Ministerstva financií Slovenskej republiky č. 48/2005 Z. z. o metódach a postupoch stanovenia hodnoty majetku v dôchodkovom fonde a o spôsobe určenia hodnoty cenných papierov v majetku v dôchodkovom fonde (ďalej len „vyhláška“).
+- 2. Na ocenenie hodnoty majetku v dôchodkovom fonde sa vzťahuje vyhláška Národnej banky Slovenska č. 246/2009 Z. z. o spôsobe určenia hodnoty majetku v dôchodkovom fonde a doplnkovom dôchodkovom fonde a o zmene vyhlášky Ministerstva financií Slovenskej republiky č. 217/2005 Z. z. o vlastných zdrojoch doplnkovej dôchodkovej spoločnosti a o metódach a postupoch stanovenia hodnoty majetku v doplnkových dôchodkových fondoch v znení neskorších predpisov (ďalej len „vyhláška o oceňovaní“).
 
 - 3. Ak v príslušný pracovný deň nie je vykonaná žiadna transakcia s majetkom v dôchodkovom fonde, predkladá sa prázdna informácia.
 

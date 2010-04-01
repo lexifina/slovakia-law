@@ -1,10 +1,10 @@
-Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/0caa04e34f11d6aa83bf7013108c77ff87abb6a5bfb1eb0ea58317c5601db467.pdf)
+Príloha č. 3 k vyhláške č. 91/2008 Z. z. [Príloha 03](../assets/69f197b0541f1ae1a90ffbcd7232c2a8877be6c053903595ee1790380fdbdfb3.pdf)
 
 - Metodika poskytovania informácie Ddf (DIT) 07-98
 
 - 1. V informácii sa uvádzajú všetky transakcie s majetkom v dôchodkovom fonde uskutočnené za príslušný pracovný deň. Ak sa informácia zmení alebo stornuje, zašle sa opravná informácia s vykonanými zmenami ako vyššia verzia informácie. Ak opravná informácia má vplyv aj na údaje v ďalšej informácii, opraví sa aj ďalšia informácia a zašle sa ako vyššia verzia.
 
-- 2. Na ocenenie transakcií sa vzťahuje vyhláška Ministerstva financií Slovenskej republiky č. 48/2005 Z. z. o metódach a postupoch stanovenia hodnoty majetku v dôchodkovom fonde a o spôsobe určenia hodnoty cenných papierov v majetku v dôchodkovom fonde (ďalej len „vyhláška“).
+- 2. Na ocenenie hodnoty majetku v dôchodkovom fonde sa vzťahuje vyhláška o oceňovaní.
 
 - 3. Ak v príslušný pracovný deň nie je vykonaná žiadna transakcia s majetkom v dôchodkovom fonde, predkladá sa prázdna informácia.
 
