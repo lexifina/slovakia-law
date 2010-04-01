@@ -10,6 +10,12 @@
 
 - 4) § 2 zákona č. 634/1992 Zb. o ochrane spotrebiteľa.
 
+- 4a) Čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 115, 9. 5. 2008).
+
+- Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 4b) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
+
 - 5) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
 
 - 6) § 5 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
@@ -98,11 +104,13 @@
 
 - 30) § 35 ods. 1 a § 60 zákona č. 50/1976 Zb.
 
-- 30a) Čl. 4 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007 o roamingu vo verejných mobilných telefónnych sieťach v rámci Spoločenstva a o zmene a doplnení smernice 2002/21/ES (Ú. v. EÚ L 171, 29. 6. 2007).
+- 30a) Čl. 4 a 4b nariadenia Európskeho parlamentu a Rady (ES) č. 717/2007 z 27. júna 2007 o roamingu vo verejných mobilných komunikačných sieťach v rámci Spoločenstva (Ú. v. EÚ L 171, 29. 6. 2007) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 544/2009 z 18. júna 2009 (Ú. v. EÚ L 167, 29. 6. 2009).
 
-- 30b) Čl. 3 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007.
+- 30b) Čl. 3, 4a a 6a bod 4 nariadenia (ES) č. 717/2007 v znení nariadenia (ES) č. 544/2009.
 
-- 30c) Čl. 6 nariadenia (ES) Európskeho parlamentu a Rady č. 717/2007 z 27. júna 2007.
+- 30ba) Čl. 4c nariadenia Európskeho parlamentu a Rady (ES) č. 717/2007 v znení nariadenia Európskeho parlamentu a Rady (ES) č. 544/2009.
+
+- 30c) Čl. 6 a 6a nariadenia Európskeho parlamentu a Rady (ES) č. 717/2007 v znení nariadenia Európskeho parlamentu a Rady (ES) č. 544/2009.
 
 - 31) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
