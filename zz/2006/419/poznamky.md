@@ -34,7 +34,7 @@
 
 - 16) Čl. 81 nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
-- 17) Nariadenie Rady (EHS) č. 918/83 z 28. 3. 1983, ktorým sa ustanovuje v Európskom spoločenstve systém oslobodenia od cla (Mimoriadne vydanie Ú. v. EÚ, 2/zv. 1.) v platnom znení.
+- 17) Nariadenie Rady (ES) č. 1186/2009 zo 16. novembra 2009 ustanovujúce systém Spoločenstva pre oslobodenie od cla (kodifikované znenie) (Ú. v. EÚ L 324/23, 10. 12. 2009).
 
 - 18) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 

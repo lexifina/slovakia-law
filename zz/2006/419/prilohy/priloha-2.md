@@ -20,21 +20,21 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - 2. umiestnenia tovaru s predfinancovanou vývoznou náhradou v colnom sklade,
 
-      - 3. preukazovania statusu tovaru Spoločenstva.
+      - 3. preukazovania statusu tovaru Európskej únie.
 
     - Odsek 2 tlačiva Odosielateľ/vývozca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo odosielateľa. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak odosielateľ/vývozca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo. Identifikačné číslo odosielateľa sa neuvádza pri colnom režime tranzit. Ak je potrebné uviesť viacero odosielateľov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam odosielateľov.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo odosielateľa alebo vývozcu. Ako identifikačné číslo sa uvádza číslo EORI<sup>1</sup>) alebo, ak ide o fyzickú osobu – nepodnikateľa, jej rodné číslo. Identifikačné číslo odosielateľa sa neuvádza pri colnom režime tranzit. Ak je potrebné uviesť viacero odosielateľov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam odosielateľov.
 
     - Odsek 4 tlačiva Ložné listy
 
-      - Vypĺňa sa pri colnom režime tranzit a preukazovaní statusu tovaru Spoločenstva.
+      - Vypĺňa sa pri colnom režime tranzit a preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 6 tlačiva Nákladové kusy spolu
 
       - Uvádza sa počet nákladových kusov za všetky tovarové položky. V prípade voľne uloženého tovaru sa uvádza číslo 1.
 
-      - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 7 tlačiva Referenčné číslo
 
@@ -42,13 +42,13 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 8 tlačiva Príjemca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Ako identifikačné číslo sa uvádza identifikačné číslo príjemcu, ktoré mu pridelili na daňové, colné alebo štatistické účely úrady v štáte, kde má príjemca sídlo alebo adresu trvalého pobytu. Ak je potrebné uviesť viacero príjemcov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam príjemcov.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Ako identifikačné číslo sa uvádza číslo EORI;<sup>1</sup>) uvádza sa identifikačné číslo príjemcu, ktoré mu pridelili na daňové, colné alebo štatistické účely úrady v štáte, kde má príjemca sídlo alebo adresu trvalého pobytu. Ak je potrebné uviesť viacero príjemcov, uvádza sa poznámka „Rôzni“, kód „00200“ a k colnému vyhláseniu sa priloží zoznam príjemcov.
 
-      - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade a preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 14 tlačiva Deklarant/zástupca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza číslo EORI<sup>1</sup>) alebo, ak ide o fyzickú osobu – nepodnikateľa, jej rodné číslo.
 
       - Nevypĺňa sa pri colnom režime tranzit.
 
@@ -58,7 +58,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 15a tlačiva Kód štátu odoslania/vývozu
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 17 tlačiva Štát určenia
 
@@ -70,7 +70,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 18 tlačiva Evidenčný údaj a štát registrácie dopravného prostriedku pri odchode
 
-      - Uvádza sa evidenčné číslo dopravného prostriedku. Evidenčné číslo dopravného prostriedku sa neuvádza pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, preukazovaní statusu tovaru Spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+      - Uvádza sa evidenčné číslo dopravného prostriedku. Evidenčné číslo dopravného prostriedku sa neuvádza pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, preukazovaní statusu tovaru Európskej únie a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
       - Kód štátu registrácie dopravného prostriedku pri odchode sa uvádza pri colnom režime tranzit.
 
@@ -78,25 +78,25 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 19 tlačiva Kontajner
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 20 tlačiva Dodacie podmienky
 
       - Vypĺňajú sa prvé dve časti odseku.
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
     - Odsek 21 tlačiva Evidenčný údaj a štát registrácie aktívneho dopravného prostriedku prekračujúceho hranice
 
       - Evidenčné číslo aktívneho dopravného prostriedku prekračujúceho hranice sa uvádza pri colnom režime vývoz a colnom režime tranzit.
 
-      - Kód štátu registrácie aktívneho dopravného prostriedku prekračujúceho hranice pri odchode sa neuvádza pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, spätnom vývoze tovaru z colného režimu colné uskladňovanie a preukazovaní statusu tovaru Spoločenstva.
+      - Kód štátu registrácie aktívneho dopravného prostriedku prekračujúceho hranice pri odchode sa neuvádza pri umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade, spätnom vývoze tovaru z colného režimu colné uskladňovanie a preukazovaní statusu tovaru Európskej únie.
 
       - Nevypĺňa sa pri železničnej preprave, poštovej preprave a preprave potrubím a vedením.
 
     - Odsek 22 tlačiva Mena a celková fakturovaná cena
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie a spätnom vývoze tovaru z colného režimu colné uskladňovanie.
 
     - Odsek 23 tlačiva Prepočítací kurz
 
@@ -106,15 +106,15 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Vypĺňajú sa obe časti odseku.
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva, spätnom vývoze tovaru z colného režimu colné uskladňovanie a umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie, spätnom vývoze tovaru z colného režimu colné uskladňovanie a umiestnení tovaru s predfinancovanou vývoznou náhradou v colnom sklade.
 
     - Odsek 25 tlačiva Druh dopravy na hranici
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 26 tlačiva Druh dopravy vo vnútrozemí
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie.
 
     - Odsek 27 tlačiva Miesto naloženia
 
@@ -122,9 +122,9 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 29 tlačiva Výstupný colný úrad
 
-      - Výstupným colným úradom je colný úrad, ktorý leží na vonkajšej hranici colného územia Spoločenstva a cez ktorý tovar vystupuje z colného územia Spoločenstva. Na určenie výstupného colného úradu sa uvádzajú kódy určené pre systém NCTS (Nový automatizovaný tranzitný systém).
+      - Výstupným colným úradom je colný úrad, ktorý leží na vonkajšej hranici colného územia Európskej únie a cez ktorý tovar vystupuje z colného územia Európskej únie. Na určenie výstupného colného úradu sa uvádzajú kódy určené pre systém NCTS (Nový automatizovaný tranzitný systém).
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva, v doplňujúcom colnom vyhlásení pri zjednodušenom postupe<sup>4</sup>) a colnom režime tranzit.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie, v doplňujúcom colnom vyhlásení pri zjednodušenom postupe<sup>4</sup>) a colnom režime tranzit.
 
     - Odsek 30 tlačiva Umiestnenie tovaru
 
@@ -154,7 +154,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Uvádzajú sa kódy regiónu, v ktorom bol tovar vyrobený alebo z ktorého sa tovar vyváža, ktoré sú uvedené v prílohe č. 3.
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva, spätnom vývoze tovaru z colného režimu colné uskladňovanie a colnom režime tranzit.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie, spätnom vývoze tovaru z colného režimu colné uskladňovanie a colnom režime tranzit.
 
     - Odsek 35 tlačiva Hrubá hmotnosť
 
@@ -172,11 +172,11 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>5</sup>) pri podpoložke kombinovanej nomenklatúry. Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
 
-      - Nevypĺňa sa, ak je v Spoločnom colnom sadzobníku pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
+      - Nevypĺňa sa, ak v Spoločnom colnom sadzobníku nie je uvedená doplnková merná jednotka.
 
     - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-      - Pri spätnom vývoze tovaru z colného režimu aktívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru, ktorý mal status tovaru Spoločenstva, a príslušný kód takto: „Pridaná hodnota AZS – X – V0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime aktívny zušľachťovací styk v eurách.
+      - Pri spätnom vývoze tovaru z colného režimu aktívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru, ktorý mal status tovaru Európskej únie, a príslušný kód takto: „Pridaná hodnota AZS – X – V0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime aktívny zušľachťovací styk v eurách.
 
       - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s vývozom tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu – X – V0800“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách.
 
@@ -186,11 +186,15 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Uplatnenie žiadosti o vyplatenie vývoznej náhrady vopred podľa osobitného predpisu<sup>6</sup>) sa uvádza takto: „Zálohová platba – V0910“.
 
-      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Spoločenstva). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
+      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
 
       - Ak sa tlačivo použije ako zjednodušené colné vyhlásenie, uvádza sa v tomto odseku kód 4PZB a číslo povolenia na použitie zjednodušeného postupu podľa osobitného predpisu.<sup>7</sup>)
 
       - Ak deklarant predkladá spolu s colným vyhlásením doklad, ktorý nie je uvedený v systéme TARIC SK, uvádza sa kód dokladu „9999" a identifikačný údaj alebo opis predloženého dokladu.
+
+      - Ak sa tlačivo použije pri zjednodušenom postupe miestne colné konanie, uvádza sa v tomto odseku kód 4PZC a číslo povolenia na použitie zjednodušeného postupu.
+
+      - Ak má vývozca alebo deklarant pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty.
 
     - Odsek 46 tlačiva Štatistická hodnota
 
@@ -210,7 +214,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Štatistická hodnota sa uvádza v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor. Pri určovaní štatistickej hodnoty sa použije prepočítací kurz používaný pri výpočte colnej hodnoty podľa osobitného predpisu.<sup>3</sup>)
 
-      - Nevypĺňa sa pri preukazovaní statusu tovaru Spoločenstva a colnom režime tranzit.
+      - Nevypĺňa sa pri preukazovaní statusu tovaru Európskej únie a colnom režime tranzit.
 
     - Odsek 47 tlačiva Výpočet platieb
 
@@ -252,7 +256,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 8 tlačiva Príjemca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Príjemcom je osoba so sídlom alebo trvalým pobytom na colnom území Spoločenstva, ktorá je zmluvnou stranou obchodnej zmluvy pri dovoze tovaru. Ak zmluvná strana nie je známa v čase podania colného vyhlásenia alebo príjemcom je osoba so sídlom alebo trvalým pobytom mimo colného územia Spoločenstva, uvádza sa adresa určenia na colnom území Spoločenstva. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak príjemca nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo príjemcu tovaru spôsobom uvedeným v osobitnom predpise.<sup>2</sup>) Príjemcom je osoba so sídlom alebo trvalým pobytom na colnom území Európskej únie, ktorá je zmluvnou stranou obchodnej zmluvy pri dovoze tovaru. Ak zmluvná strana nie je známa v čase podania colného vyhlásenia alebo príjemcom je osoba so sídlom alebo trvalým pobytom mimo colného územia Európskej únie, uvádza sa adresa určenia na colnom území Európskej únie. Ako identifikačné číslo sa uvádza číslo EORI<sup>1</sup>) alebo, ak ide o fyzickú osobu – nepodnikateľa, jej rodné číslo.
 
     - Odsek 12 tlačiva Údaje o hodnote
 
@@ -260,9 +264,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 14 tlačiva Deklarant/zástupca
 
-      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza identifikačné číslo pre daň z pridanej hodnoty. Ak deklarant nemá pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa identifikačné číslo organizácie (IČO), rodné číslo alebo colné registračné číslo. Ak platiteľ dane z pridanej hodnoty pri dovoze tovaru nie je zhodný s osobou deklaranta alebo príjemcu, uvádza sa pod identifikačné číslo deklaranta identifikačné číslo platiteľa dane z pridanej hodnoty.
-
-      - Ak dovozcu pri uplatnení oslobodenia od dane zastupuje daňový zástupca,<sup>8</sup>) uvádza sa pod identifikačné číslo deklaranta osobitné identifikačné číslo daňového zástupcu.
+      - Uvádza sa obchodné meno a sídlo alebo meno, priezvisko a adresa trvalého pobytu a identifikačné číslo deklaranta alebo jeho zástupcu. Ako identifikačné číslo sa uvádza číslo EORI<sup>1</sup>) alebo, ak ide o fyzickú osobu – nepodnikateľa, jej rodné číslo. Ak platiteľ dane z pridanej hodnoty pri dovoze tovaru nie je zhodný s osobou deklaranta alebo príjemcu, uvádza sa pod identifikačné číslo deklaranta identifikačné číslo platiteľa dane z pridanej hodnoty.
 
     - Odsek 15a tlačiva Kód štátu odoslania/vývozu
 
@@ -368,7 +370,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>5</sup>) pri podpoložke kombinovanej nomenklatúry. Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
 
-      - Nevypĺňa sa, ak je v Spoločnom colnom sadzobníku pri podpoložke kombinovanej nomenklatúry uvedená nešpecifikovaná merná jednotka.
+      - Nevypĺňa sa, ak v Spoločnom colnom sadzobníku nie je uvedená doplnková merná jednotka.
 
     - Odsek 42 tlačiva Cena za položku
 
@@ -380,9 +382,9 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie Spoločenstva a príslušný kód sa uvádzajú takto: „Náklady na dopravu C – X – D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie Európskej únie a príslušný kód sa uvádzajú takto: „Náklady na dopravu C – X – D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie Spoločenstva po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D – X – D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
+      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie Európskej únie po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D – X – D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
 
       - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu S – X – D0620“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tieto náklady sa uvádzajú aj vtedy, ak sú zahrnuté vo fakturovanej cene.
 
@@ -390,7 +392,9 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Príslušné sumy v tomto odseku sa uvádzajú v eurách zaokrúhlene na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor; sumy pri kódoch D0620 a D0700 sa uvádzajú v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
 
-      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Spoločenstva). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
+      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
+
+      - Ak má príjemca alebo deklarant pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty. Ak dovozcu pri uplatnení oslobodenia od dane z pridanej hodnoty zastupuje daňový zástupca,<sup>8</sup>) identifikačné číslo pre daň z pridanej hodnoty daňového zástupcu sa uvádza v tomto odseku za príslušným kódom podľa systému TARIC.
 
       - Ak deklarant uvedením príslušného kódu v odseku 36 žiada o zvýhodnenú colnú sadzbu z dôvodu preferenčného pôvodu tovaru, uvádza sa v tomto odseku kód jedného z dokladov o preferenčnom pôvode podľa systému TARIC SK, za ktorým sa uvádza dvojmiestny alfabetický kód štátu pôvodu osvedčeného na doklade, ktorý je dôkazom o pôvode, a evidenčné číslo tohto dokladu. Napríklad „N954 NO A123456“, kde „N954“ je kód sprievodného osvedčenia EUR. 1 podľa systému TARIC SK, „NO“ je štát pôvodu uvedený na doklade, ktorý je dôkazom o pôvode, a „A123456“ je evidenčné číslo sprievodného osvedčenia EUR. 1.
 
@@ -455,6 +459,8 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
       - 1T0 | Spotrebná daň z tabakových výrobkov
 
       - 1R0 | Spotrebná daň z piva
+
+      - 1Q0 | Spotrebná daň z uhlia
 
       - Pododsek Základ na vymeranie platby
 

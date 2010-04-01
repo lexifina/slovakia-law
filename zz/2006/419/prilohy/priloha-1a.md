@@ -14,7 +14,7 @@ Príloha č. 1a k vyhláške č. 419/2006 Z. z.
 
     - 4b. identifikácia dopravného prostriedku,**
 
-    - 4c. čas vstupu tovaru na colné územie Spoločenstva uvedený v predbežnom colnom vyhlásení,
+    - 4c. čas vstupu tovaru na colné územie Európskej únie uvedený v predbežnom colnom vyhlásení,
 
   - 5. presné určenie miesta, na ktorom sa tovar nachádza,
 

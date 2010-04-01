@@ -144,14 +144,6 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - U087 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako palivo a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. sa naň uplatní sadzba spotrebnej dane ustanovená v § 6 ods. 1 písm. f) druhom bode zákona č. 98/2004 Z. z.,
 
-      - U090 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
-      - U091 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
-      - U088 – ak ide o tovar uvedený v § 4 ods. 2 alebo 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov, ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako pohonná látka a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. sa naň uplatní sadzba spotrebnej dane ustanovená v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
-      - U089 – ak ide o tovar uvedený v § 4 ods. 2 alebo 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov, ktorý je uvedený do daňového voľného obehu, na ktorý nie je ustanovená sadzba spotrebnej dane, je určený na použitie, ponúkaný na použitie alebo použitý ako palivo a podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. sa naň uplatní sadzba spotrebnej dane ustanovená v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
       - U041 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 zákona č. 98/2004 Z. z., je označený podľa § 8 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. a použije sa podľa § 7 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
       - U042 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 zákona č. 98/2004 Z. z., je označený podľa § 8 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. a použije sa podľa § 7 ods. 1 písm. b) prvého bodu zákona č. 98/2004 Z. z.,
@@ -174,10 +166,6 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - U170 – ak ide o tovar uvedený v § 4 ods. 3 písm. b) zákona č. 98/2004 Z. z. v znení neskorších predpisov, ktorý je uvedený do daňového voľného obehu, na ktorý je podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. f) druhom bode zákona č. 98/2004 Z. z.,
 
-      - U180 – ak ide o tovar uvedený v § 4 ods. 3 písm. a) zákona č. 98/2004 Z. z. v znení neskorších predpisov, ktorý je uvedený do daňového voľného obehu, na ktorý je podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
-      - U190 – ak ide o tovar uvedený v § 4 ods. 3 písm. b) zákona č. 98/2004 Z. z. v znení neskorších predpisov, ktorý je uvedený do daňového voľného obehu, na ktorý je podľa § 6 ods. 2 zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z. ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
       - U210 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
       - U220 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. b) zákona č. 98/2004 Z. z.,
@@ -191,10 +179,6 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
       - U260 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. f) prvom bode zákona č. 98/2004 Z. z.,
 
       - U270 – ak ide o tovar uvedený v § 4 ods. 2 a 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. f) druhom bode zákona č. 98/2004 Z. z.,
-
-      - U280 – ak ide o tovar uvedený v § 4 ods. 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) prvom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
-
-      - U290 – ak ide o tovar uvedený v § 4 ods. 3 zákona č. 98/2004 Z. z. v znení neskorších predpisov v pozastavení spotrebnej dane, na ktorý je ustanovená sadzba spotrebnej dane v § 6 ods. 1 písm. g) druhom bode zákona č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.,
 
       - U301 – ak ide o minerálny olej oslobodený od spotrebnej dane podľa § 10 ods. 1 písm. a) zákona č. 98/2004 Z. z.,
 
@@ -340,17 +324,11 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
       - T305 – ak ide o tabakové výrobky oslobodené od spotrebnej dane podľa § 7 ods. 1 písm. h) zákona č. 106/2004 Z. z.,
 
-      - T401 – ak ide o denaturované tabakové výrobky oslobodené od spotrebnej dane podľa § 7 ods. 2 zákona č. 106/2004 Z. z. v znení zákona č. 533/2005 Z. z.,
-
     - e) kódy používané pri spotrebnej dani z piva:
 
       - R010 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 107/2004 Z. z. o spotrebnej dani z piva (ďalej len „zákon č. 107/2004 Z. z.“), ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená základná sadzba spotrebnej dane v § 7 ods. 1 písm. a) zákona č. 107/2004 Z. z.,
 
-      - R020 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 107/2004 Z. z., ktorý je uvedený do daňového voľného obehu, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 písm. b) zákona č. 107/2004 Z. z.,
-
       - R210 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 107/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená základná sadzba spotrebnej dane v § 7 ods. 1 písm. a) zákona č. 107/2004 Z. z.,
-
-      - R220 – ak ide o tovar uvedený v § 4 ods. 2 zákona č. 107/2004 Z. z. v pozastavení spotrebnej dane, na ktorý je ustanovená znížená sadzba spotrebnej dane v § 7 ods. 1 písm. b) zákona č. 107/2004 Z. z.,
 
       - R310 – ak ide o pivo oslobodené od spotrebnej dane podľa § 8 ods. 1 písm. a) zákona č. 107/2004 Z. z.,
 
@@ -438,65 +416,65 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - b) kódy vyjadrujúce požiadavku na oslobodenie od dovozného cla podľa osobitného predpisu<sup>17</sup>) a od dane z pridanej hodnoty podľa osobitného predpisu:<sup>18</sup>)
 
-    - Kód | Tovar | Nariadenie Rady (EHS) č. 918/83 v platnom znení | Zákon č. 222/2004 Z. z. v znení neskorších predpisov
+    - Kód | Tovar | Nariadenie Rady (ES) č. 1186/2009 | Zákon č. 222/2004 Z. z. v znení neskorších predpisov
 
-    - 361 | Osobný majetok patriaci fyzickým osobám meniacim pobyt z tretieho štátu do Spoločenstva | čl. 2 | § 48 ods. 2 písm. d)
+    - 361 | Osobný majetok fyzických osôb sťahujúcich sa z bydliska v tretej krajine do Európskej únie | čl. 3 | § 48 ods. 2 písm. c)
 
-    - 362 | Tovar dovážaný pri príležitosti uzatvorenia manželstva - výbava a zariadenie domácnosti | čl. 11 ods. 1 | § 48 ods. 2 písm. e)
+    - 362 | Tovar dovážaný pri príležitosti uzatvorenia manželstva – výbava a zariadenie domácnosti | čl. 12 ods. 1 | § 48 ods. 2 písm. d)
 
-    - 363 | Tovar dovážaný pri príležitosti uzatvorenia manželstva - tovar obvykle darovaný pri príležitosti uzatvorenia manželstva | čl. 11 ods. 2 | § 48 ods. 2 písm. e)
+    - 363 | Tovar dovážaný pri príležitosti uzatvorenia manželstva – dary obvykle darované pri príležitosti uzatvorenia manželstva | čl. 12 ods. 2 | § 48 ods. 2 písm. d)
 
-    - 364 | Osobný majetok nadobudnutý dedením | čl. 16 | § 48 ods. 2 písm. f)
+    - 364 | Osobný majetok nadobudnutý dedením | čl. 17 | § 48 ods. 2 písm. e)
 
-    - 365 | Vybavenie, študijné potreby a zariadenie domácnosti žiakov a študentov | čl. 25 | § 48 ods. 2 písm. g)
+    - 365 | Výbava, študijné potreby a vybavenie domácnosti žiakov a študentov | čl. 21 | § 48 ods. 2 písm. f)
 
-    - 366 | Zásielky nepatrnej hodnoty | čl. 27 | § 48 ods. 2 písm. b)
+    - 366 | Zásielky nepatrnej hodnoty | čl. 23 | § 48 ods. 2 písm. b)
 
-    - 367 | Zásielky odosielané jednou fyzickou osobou druhej fyzickej osobe | čl. 29 | § 48 ods. 2 písm. a)
+    - 367 | Zásielky zasielané jednou fyzickou osobou druhej fyzickej osobe | čl. 25 | § 48 ods. 2 písm. a)
 
-    - 368 | Obchodný majetok dovážaný pri premiestnení podniku z tretieho štátu do Spoločenstva | čl. 32 | § 48 ods. 2 písm. h)
+    - 368 | Investičný majetok a iné vybavenie dovážané pri premiestnení podnikateľských činností z tretej krajiny do Európskej únie | čl. 28 | § 48 ods. 2 písm. g)
 
-    - 369 | Obchodný majetok a iné vybavenie patriace právnickým osobám vykonávajúcim neziskovú činnosť | čl. 38 | § 48 ods. 2 písm. h)
+    - 369 | Investičný majetok a iné vybavenie patriace osobám vykonávajúcim slobodné povolania a právnickým osobám vykonávajúcim neziskovú činnosť | čl. 34 | § 48 ods. 2 písm. g)
 
-    - 370 | Laboratórne zvieratá a biologické látky alebo chemické látky určené na výskum | čl. 60 | § 48 ods. 2 písm. k)
+    - 370 | Laboratórne zvieratá a biologické alebo chemické látky určené na výskum | čl. 53 | § 48 ods. 2 písm. j)
 
-    - 371 | Liečivá a lieky ľudského pôvodu a činidlá na určovanie krvnej skupiny a typu tkaniva | čl. 61 | § 48 ods. 2 písm. l)
+    - 371 | Liečivá a lieky ľudského pôvodu a činidlá na určovanie krvnej skupiny a typu tkaniva | čl. 54 | § 48 ods. 2 písm. k)
 
-    - 372 | Referenčné látky určené na kontrolu kvality liečiv | čl. 63c | § 48 ods. 2 písm. u)
+    - 372 | Referenčné látky určené na kontrolu kvality liečiv | čl. 59 | § 48 ods. 2 písm. t)
 
-    - 373 | Farmaceutické výrobky používané pri medzinárodných športových podujatiach | čl. 64 | § 48 ods. 2 písm. m)
+    - 373 | Farmaceutické výrobky používané pri medzinárodných športových podujatiach | čl. 60 | § 48 ods. 2 písm. l)
 
-    - 374 | Tovar pre charitatívne alebo dobročinné organizácie | čl. 65 | § 48 ods. 2 písm. n)
+    - 374 | Tovar pre právnické osoby vykonávajúce charitatívnu alebo obdobnú činnosť | čl. 61 | § 48 ods. 2 písm. m)
 
-    - 375 | Tovar dovážaný v prospech obetí živelnej pohromy | čl. 79 | § 48 ods. 2 písm. o)
+    - 375 | Tovar dovážaný na podporu obetí živelnej pohromy | čl. 74 | § 48 ods. 2 písm. n)
 
-    - 376 | Čestné vyznamenania a ocenenia | čl. 86 | § 48 ods. 2 písm. p)
+    - 376 | Čestné vyznamenania a ocenenia | čl. 81 | § 48 ods. 2 písm. o)
 
-    - 377 | Dary prijaté v rámci medzinárodných vzťahov | čl. 87 | § 48 ods. 2 písm. p)
+    - 377 | Dary získané v rámci medzinárodných vzťahov | čl. 82 | § 48 ods. 2 písm. o)
 
-    - 378 | Tovar určený pre predstaviteľov štátov | čl. 90 | § 48 ods. 2 písm. p)
+    - 378 | Tovar určený pre najvyšších predstaviteľov štátov | čl. 85 | § 48 ods. 2 písm. o)
 
-    - 379 | Vzorky tovaru nepatrnej hodnoty dovážané na podporu rozvoja obchodu | čl. 91 | § 48 ods. 2 písm. r)
+    - 379 | Vzorky tovaru nepatrnej hodnoty dovážané na podporu rozvoja obchodu | čl. 86 | § 48 ods. 2 písm. p)
 
-    - 380 | Tlačoviny a reklamné predmety dovážané na podporu rozvoja obchodu | čl. 92 | § 48 ods. 2 písm. s)
+    - 380 | Tlačoviny a reklamné materiály dovážané na podporu rozvoja obchodu | čl. 87 | § 48 ods. 2 písm. r)
 
-    - 381 | Tovar dovážaný na skúšky, analýzy alebo pokusy | čl. 100 | § 48 ods. 2 písm. u)
+    - 381 | Tovar dovážaný na skúšky, analýzy alebo pokusy | čl. 95 | § 48 ods. 2 písm. t)
 
-    - 382 | Zásielky určené osobám príslušným na konanie vo veciach ochrany autorských práv v oblasti priemyselného vlastníctva a v oblasti technickej normalizácie | čl. 107 | § 48 ods. 2 písm. v)
+    - 382 | Zásielky zasielané právnickým osobám zabezpečujúcim ochranu autorského práva alebo práva priemyselného vlastníctva a patentového práva | čl. 102 | § 48 ods. 2 písm. u)
 
-    - 383 | Turistický propagačný materiál | čl. 108 | § 48 ods. 2 písm. w)
+    - 383 | Turistická informačná literatúra | čl. 103 | § 48 ods. 2 písm. v)
 
-    - 384 | Rôzne dokumenty a predmety | čl. 109 | § 48 ods. 2 písm. x)
+    - 384 | Rôzne dokumenty a predmety podľa čl. 104 nariadenia Rady (ES) č. 1186/2009 | čl. 104 | § 48 ods. 2 písm. w)
 
-    - 385 | Pomocný materiál na uloženie a ochranu tovaru počas prepravy | čl. 110 | § 48 ods. 2 písm. y)
+    - 385 | Pomocné materiály na upevnenie a ochranu tovaru počas jeho prepravy | čl. 105 | § 48 ods. 2 písm. x)
 
-    - 386 | Podstielka, krmivo a napájanie pre zvieratá počas ich prepravy | čl. 111 | § 48 ods. 2 písm. z)
+    - 386 | Podstielka, krmivo a nápoje pre zvieratá počas ich prepravy | čl. 106 | § 48 ods. 2 písm. y)
 
-    - 387 | Palivá a mazivá v cestných motorových vozidlách a špeciálnych kontajneroch | čl. 112 | § 48 ods. 2 písm. za)
+    - 387 | Palivá a mazivá nachádzajúce sa v cestných motorových vozidlách a špeciálnych kontajneroch | čl. 107 | § 48 ods. 2 písm. z)
 
-    - 388 | Materiál určený na výstavbu, údržbu alebo výzdobu pamätníkov a cintorínov vojnových obetí | čl. 117 | § 48 ods. 2 písm. zb)
+    - 388 | Materiály na stavbu, údržbu alebo výzdobu pamätníkov alebo cintorínov vojnových obetí | čl. 112 | § 48 ods. 2 písm. za)
 
-    - 389 | Rakvy, urny a ozdobné pohrebné predmety | čl. 118 | § 48 ods. 2 písm. zc)
+    - 389 | Rakvy, pohrebné urny a ozdobné pohrebné predmety | čl. 113 | § 48 ods. 2 písm. zb)
 
     - c) kódy vyjadrujúce požiadavku na oslobodenie od dovozného cla podľa osobitného predpisu<sup>19</sup>) a od dane z pridanej hodnoty podľa osobitného predpisu:<sup>18</sup>)
 
@@ -508,7 +486,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - 573 | Vrátený tovar za osobitných okolností - oprava alebo obnova | | čl. 846 | | § 48 ods. 4
 
-    - 574 | Zušľachtené výrobky, ktoré sa do Spoločenstva vracajú po ich predchádzajúcom vývoze alebo spätnom vývoze | či. 187 | | | § 48 ods. 4
+    - 574 | Zušľachtené výrobky, ktoré sa do Európskej únie vracajú po ich predchádzajúcom vývoze alebo spätnom vývoze | či. 187 | | | § 48 ods. 4
 
     - 575 | Tovar dovážaný osobami požívajúcimi výsady a imunity podľa medzinárodného práva a tovar pre medzinárodné organizácie a ich zamestnancov | | | § 47 a 48 | § 48 ods. 5
 
@@ -534,7 +512,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
   - Odsek 39 tlačiva Kontingent
 
-    - Poradové číslo kvóty.
+    - Poradové číslo kvóty alebo stropu.
 
   - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 

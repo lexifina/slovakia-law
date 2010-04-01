@@ -1,4 +1,4 @@
-Príloha č. 1b k vyhláške č. 419/2006 Z. z. [Vzor 01](../assets/3b90310a001ae2ae539f71cf9add14328927760cc613d34dc6e688da1edc3ce8.pdf)
+Príloha č. 1b k vyhláške č. 419/2006 Z. z. [Vzor 01](../assets/b13a06c6bd20cc36776d28a5f9f1e364a4328137734e11359a545b4d2bc4a2d9.pdf)
 
 Vysvetlivky:
 
