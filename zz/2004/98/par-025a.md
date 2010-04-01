@@ -16,7 +16,7 @@
 
 (2) Prílohami k žiadosti sú
 
-- a) výpis z obchodného registra alebo živnostenského registra nie starší ako 30 dní alebo jeho osvedčená kópia, alebo iný doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia,
+- a) doklad preukazujúci oprávnenie na podnikanie nie starší ako 30 dní alebo jeho osvedčená kópia, ak je žiadateľom právnická osoba alebo fyzická osoba, ktorá nemá sídlo alebo trvalý pobyt na daňovom území,
 
 - b) technická dokumentácia a opis miesta uskladnenia daňovo zvýhodneného minerálneho oleja a spôsob jeho zabezpečenia pred neoprávneným použitím, pričom skladovacie zariadenie musí spĺňať podmienky podľa § 18 ods. 5, ak žiadateľ má skladovacie zariadenie.
 
