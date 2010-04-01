@@ -261,3 +261,7 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 20. Smernica Komisie 2009/154/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cyflufenamid medzi účinné látky (Ú. v. EÚ L 314, 1. 12. 2009).
 
 - 21. Smernica Komisie 2009/155/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o požadovanú úroveň čistoty účinnej látky metazachlór (Ú. v. EÚ L 314, 1. 12. 2009).
+
+- 22. Smernica Komisie 2009/160/EÚ zo 17. decembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 2-fenylfenol medzi účinné látky (Ú. v. EÚ L 338, 19. 12. 2009).
+
+- 23. Smernica Komisie 2010/2/EÚ z 27. januára 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky chlórmekvát (Ú. v. EÚ L 24, 28. 1. 2010).
