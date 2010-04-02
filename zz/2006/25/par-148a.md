@@ -44,6 +44,8 @@
 
   - 2. odo dňa uzavretia zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody v iných prípadoch ako uvedených v písmene a) a v prvom bode.
 
-(10) Rozhodnutie súdu sa doručuje účastníkom konania. Právoplatné rozhodnutie súdu sa doručuje úradu.
+(10) Právo oprávnenej osoby domáhať sa neplatnosti dodatku k zmluve, koncesnej zmluve na práce alebo rámcovej dohode zaniká, ak sa neuplatní na súde v lehote šiestich mesiacov odo dňa uverejnenia informácie o uzavretí dodatku k zmluve, koncesnej zmluve na práce alebo k rámcovej dohode vo vestníku.
 
-(11) Konanie o uložení pokuty podľa odseku 8 možno začať do jedného roka odo dňa doručenia právoplatného rozhodnutia súdu úradu.
+(11) Rozhodnutie súdu sa doručuje účastníkom konania. Právoplatné rozhodnutie súdu sa doručuje úradu.
+
+(12) Konanie o uložení pokuty podľa odseku 8 možno začať do jedného roka odo dňa doručenia právoplatného rozhodnutia súdu úradu.
