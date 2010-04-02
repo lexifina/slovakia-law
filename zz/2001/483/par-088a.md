@@ -12,7 +12,7 @@
 
 - a) majú spolu ku dňu podania žiadosti o mladomanželský úver priemerný mesačný príjem vypočítaný z príjmu za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom bola podaná žiadosť o mladomanželský úver, najviac vo výške 2,6-násobku priemernej mesačnej nominálnej mzdy zamestnanca v národnom hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny štvrťrok predchádzajúci kalendárnemu štvrťroku, ktorý predchádza kalendárnemu štvrťroku, v ktorom bola podaná žiadosť o mladomanželský úver,
 
-- b) sa banka alebo pobočka zahraničnej banky zaviaže, že mladomanželom od poskytnutia a začatia úročenia mladomanželského úveru počas celej lehoty splatnosti mladomanželského úveru dohodnutej pri uzatvorení zmluvy o mladomanželskom úvere zníži úrokovú sadzbu určenú v zmluve o mladomanželskom úvere v rovnakej výške, ako sa určí štátny príspevok pre mladomanželov podľa odseku 2, najmenej však o 1,5 %,
+- b) sa banka alebo pobočka zahraničnej banky zaviaže, že mladomanželom od poskytnutia a začatia úročenia mladomanželského úveru počas celej lehoty splatnosti mladomanželského úveru dohodnutej pri uzatvorení zmluvy o mladomanželskom úvere zníži úrokovú sadzbu určenú v zmluve o mladomanželskom úvere vo výške najmenej polovice štátneho príspevku pre mladomanželov určeného podľa odseku 2,
 
 - c) žiadosť o mladomanželský úver bola podaná od 1. apríla 2010.
 
