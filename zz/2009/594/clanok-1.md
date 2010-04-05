@@ -58,6 +58,128 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 
 - § 14 ods. 6 a 9 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.“.
 
+- 6. § 8 vrátane nadpisu znie:
+
+- „§ 8
+
+- Schengenské vízum
+
+- (1)
+
+- Cudzincovi môže byť udelené podľa osobitného predpisu<sup>4</sup>) jednotné vízum, vízum s obmedzenou územnou platnosťou a letiskové tranzitné vízum (ďalej len „schengenské vízum“).
+
+- (2)
+
+- Charakteristika schengenských víz a podmienky ich udeľovania, ktoré nie sú ustanovené v tomto zákone, sú ustanovené v osobitnom predpise.<sup>4</sup>)
+
+- (3)
+
+- Rodinnému príslušníkovi azylanta alebo cudzinca, ktorému sa poskytla doplnková ochrana, sa udeľuje vízum s obmedzenou územnou platnosťou.<sup>4a</sup>)“.
+
+- Poznámky pod čiarou k odkazom 4 a 4a znejú:
+
+- „4)
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009).
+
+- 4a)
+
+- Čl. 25 ods. 1 písm. a) nariadenia (ES) č. 810/2009 (Ú. v. EÚ L 243, 15. 9. 2009).“.
+
+- 7. § 12 až 14 vrátane nadpisov znejú:
+
+- „§ 12
+
+- Národné vízum
+
+- (1)
+
+- Cudzincovi môže byť udelené aj národné vízum, ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike alebo na plnenie záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv alebo ak je to v záujme Slovenskej republiky.
+
+- (2)
+
+- Národné vízum sa udeľuje na pobyt dlhší ako tri mesiace; ak ide o udelenie národného víza v súvislosti s udelením povolenia na pobyt v Slovenskej republike, udeľuje sa na nevyhnutný čas.
+
+- § 13
+
+- Konanie o udelení schengenského víza
+
+- (1)
+
+- Udelenie schengenského víza môže byť podmienené pozvaním overeným útvarom Policajného zboru (ďalej len „policajný útvar“).
+
+- (2)
+
+- Diplomatická misia alebo konzulárny úrad Slovenskej republiky v zahraničí (ďalej len „zastupiteľský úrad“) môže udeliť schengenské vízum len po predchádzajúcom stanovisku ministerstva vnútra; ministerstvo vnútra a Ministerstvo zahraničných vecí Slovenskej republiky (ďalej len „ministerstvo zahraničných vecí“) sa môžu dohodnúť, v ktorých prípadoch môže zastupiteľský úrad udeliť schengenské vízum aj bez stanoviska ministerstva vnútra. Ministerstvo vnútra dáva stanovisko k udeleniu schengenského víza aj pre diplomatickú misiu alebo konzulárny úrad iného členského štátu Európskej únie v rámci konzultácie podľa osobitného predpisu.<sup>4</sup>)
+
+- (3)
+
+- Zastupiteľský úrad je oprávnený určiť cudzincovi na vstup hraničný priechod, ktorý zapíše do schengenského víza.
+
+- (4)
+
+- Proti rozhodnutiu, ktorým bolo udelené schengenské vízum, sa nemožno odvolať. Proti rozhodnutiu, ktorým nebolo udelené schengenské vízum, sa môže odvolať rodinný príslušník občana Európskeho hospodárskeho priestoru a cudzinec, ktorý je rodinným príslušníkom azylanta alebo cudzinca, ktorému sa poskytla doplnková ochrana; iné osoby sa môžu odvolať, iba ak tak ustanovuje osobitný predpis.<sup>4</sup>)
+
+- (5)
+
+- Zastupiteľský úrad alebo policajný útvar môže podľa osobitného predpisu<sup>4</sup>) zrušiť alebo odvolať schengenské vízum. Proti rozhodnutiu o zrušení schengenského víza alebo o odvolaní schengenského víza sa môže odvolať rodinný príslušník občana Európskeho hospodárskeho priestoru a cudzinec, ktorý je rodinným príslušníkom azylanta alebo cudzinca, ktorému sa poskytla doplnková ochrana; iné osoby sa môžu odvolať, iba ak tak ustanovuje osobitný predpis.<sup>4</sup>)
+
+- (6)
+
+- O odvolaní proti rozhodnutiu zastupiteľského úradu podľa odsekov 4 a 5 rozhoduje ministerstvo zahraničných vecí.
+
+- (7)
+
+- Ministerstvo vnútra môže z dôvodov podľa osobitného predpisu<sup>4</sup>) predĺžiť platnosť schengenského víza najviac do troch mesiacov v jednom polroku.
+
+- (8)
+
+- Udeľovanie schengenských víz v zastúpení iným členským štátom Európskej únie a udeľovanie schengenských víz v zastúpení iného členského štátu Európskej únie upravuje osobitný predpis.<sup>4</sup>)
+
+- (9)
+
+- Rodinný príslušník občana Európskeho hospodárskeho priestoru je povinný k žiadosti o schengenské vízum predložiť cestovný doklad, doklad potvrdzujúci jeho rodinný vzťah s občanom Európskeho hospodárskeho priestoru a doklad o závislosti, ak sa vyžaduje. Zastupiteľský úrad a policajný útvar rozhodne o žiadosti najneskôr do 10 pracovných dní.
+
+- § 14
+
+- Konanie o udelení národného víza
+
+- (1)
+
+- Cudzinec podáva žiadosť o udelenie národného víza na úradnom tlačive na zastupiteľskom úrade.
+
+- (2)
+
+- K žiadosti o udelenie národného víza je cudzinec povinný predložiť cestovný doklad, farebnú fotografiu s rozmermi 3 3,5 cm zobrazujúcu jeho aktuálnu podobu, doklad potvrdzujúci účel pobytu, doklad o zdravotnom poistení a ďalšie doklady potrebné na rozhodnutie o žiadosti o udelenie národného víza. Na požiadanie je cudzinec povinný osobne sa dostaviť na pohovor.
+
+- (3)
+
+- Zastupiteľský úrad rozhodne o žiadosti o udelenie národného víza do 30 dní od jej prijatia.
+
+- (4)
+
+- Zastupiteľský úrad môže udeliť národné vízum len po predchádzajúcom stanovisku ministerstva vnútra; ministerstvo vnútra a ministerstvo zahraničných vecí sa môžu dohodnúť, v ktorých prípadoch môže zastupiteľský úrad udeliť národné vízum aj bez stanoviska ministerstva vnútra.
+
+- (5)
+
+- Národné vízum sa udeľuje do cestovného dokladu formou nálepky. Platnosť národného víza sa musí skončiť spravidla najmenej 90 dní pred skončením platnosti cestovného dokladu.
+
+- (6)
+
+- Zastupiteľský úrad je oprávnený určiť cudzincovi na vstup hraničný priechod, ktorý zapíše do národného víza.
+
+- (7)
+
+- Zastupiteľský úrad alebo policajný útvar je oprávnený zrušiť národné vízum, ak zistí skutočnosti, ktoré by odôvodňovali neudelenie národného víza, alebo ak je cudzinec administratívne vyhostený.
+
+- (8)
+
+- Na udelenie národného víza nie je právny nárok a dôvod neudelenia víza sa cudzincovi neoznamuje. Na konanie o udelení národného víza a o zrušení národného víza sa nevzťahuje osobitný predpis<sup>4</sup>) ani všeobecný predpis o správnom konaní.<sup>6</sup>)“.
+
+- 8. V § 14a sa odkaz 6a nahrádza odkazom 4.
+
+- Poznámka pod čiarou k odkazu 6a sa vypúšťa.
+
 - 9. V § 15 sa vypúšťajú odseky 2 a 3. Doterajšie odseky 4 až 7 sa označujú ako odseky 2 až 5.
 
 - 10. V § 15 ods. 2 sa na konci pripájajú tieto slová: „po predchádzajúcom súhlase ministerstva vnútra, ktorým je viazaný“.
@@ -679,6 +801,14 @@ Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých z�
 - 99. V § 77 ods. 4 sa za slová „písm. d)“ vkladajú slová „alebo g)“.
 
 - 100. V § 77 ods. 5 sa vypúšťajú slová „písm. a) až c)“.
+
+- 101. V § 78 sa odkaz 1a nahrádza odkazom 26a.
+
+- Poznámka pod čiarou k odkazu 26a znie:
+
+- „26a)
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 562/2006 (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení. Nariadenie (ES) č. 810/2009 (Ú. v. EÚ L 243, 15. 9. 2009).“.
 
 - 102. Doterajší text § 78 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
 
