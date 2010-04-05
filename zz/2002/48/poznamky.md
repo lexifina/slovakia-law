@@ -8,15 +8,15 @@
 
 - 3) § 14 ods. 6 a 9 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
-- 4) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú.v. ES L 239, 22. 9. 2000) v platnom znení.
+- 4) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009).
+
+- 4a) Čl. 25 ods. 1 písm. a) nariadenia (ES) č. 810/2009 (Ú. v. EÚ L 243, 15. 9. 2009).
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 5a) § 10 a 13b zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 6a) Nariadenie Rady (ES) č. 415/2003 z 27. februára 2003 o udeľovaní víz na hraniciach vrátane udeľovania týchto víz námorníkom na ceste (Ú. v. EÚ L 064, 7. 3. 2003).
 
 - 7) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.Vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.Vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
@@ -113,6 +113,8 @@
 - 25b) § 321 ods. 3 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
 - 26) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 26a) Nariadenie Európskeho parlamentu a Rady (ES) č. 562/2006 (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení. Nariadenie (ES) č. 810/2009 (Ú. v. EÚ L 243, 15. 9. 2009).
 
 - 27) Zákon č. 311/1999 Z. z. o registri trestov v znení zákona č. 48/2002 Z. z.
 
