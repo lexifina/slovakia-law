@@ -78,7 +78,9 @@
 
 - 16a) § 22 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 16b) Rozhodnutie výkonného výboru z 28. apríla 1999 o záväznej verzii Spoločnej príručky a Spoločných konzulárnych pokynov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
+- 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009).
+
+- 16c) § 2 písm. m) zákona č. 48/2002 Z. z. v znení zákona č. 594/2009 Z. z.
 
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 

@@ -528,9 +528,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 26
 
-  - a) Udelenie víza na hraničnom priechode ..... | 60 EUR
+  - a) Udelenie víza na hraničnom priechode | 60 EUR
 
-  - b) predĺženie krátkodobého víza na území Slovenskej republiky .... | 60 eur
+  - b) predĺženie krátkodobého víza na území Slovenskej republiky | 30 eur
 
   - Oslobodenie 1. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>) |
 
@@ -4018,27 +4018,31 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 240
 
-  - a) žiadosť o udelenie letiskového tranzitného víza ..... | 60 EUR,
+  - a) Žiadosť o udelenie schengenského víza<sup>16b</sup>) | 60 eur,
 
-  - b) žiadosť o udelenie tranzitného víza ..... | 60 EUR,
+  - b) žiadosť o udelenie schengenského víza dieťaťa vo veku od 6 rokov do 12 rokov | 35 eur,
 
-  - c) žiadosť o udelenie krátkodobého víza ..... | 60 EUR,
+  - c) žiadosť o udelenie národného víza, ak je to potrebné na plnenie záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv, ak je to v záujme Slovenskej republiky alebo ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike okrem prípadu podľa písmena d) | 33 eur,
 
-  - d) žiadosť o udelenie skupinového víza..... | 60 EUR + 1 EURO za každú osobu,
+  - d) žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 9,50 eur.
 
-  - e) žiadosť o udelenie víza s obmedzenou územnou platnosťou ..... | 60 EUR,
+  - Oslobodenie: |
 
-  - f) žiadosť o udelenie dlhodobého víza ..... | 99,50 eura,
+  - 1. Od poplatku podľa písmen a) a b) sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - g) žiadosť o udelenie dlhodobého víza platného zároveň ako krátkodobé vízum ..... | 99,50 eura,
+  - 2. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Európskeho hospodárskeho priestoru.<sup>16c</sup>) |
 
-  - h) žiadosť o udelenie dlhodobého víza v súvislosti s plnením záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv alebo ak je to v záujme Slovenskej republiky ..... | 33 eur,
+  - 3. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Slovenskej republiky v rozsahu rodinných príslušníkov občanov Európskeho hospodárskeho priestoru podľa druhého bodu. |
 
-  - i) žiadosť o udelenie dlhodobého víza v súvislosti s udelením povolenia na pobyt v Slovenskej republike ..... | 9,50 eura.
+  - Splnomocnenie: |
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené osoby podľa osobitného predpisu.<sup>16b</sup>) |
+  - 1. Správny orgán môže oslobodiť od poplatku aj ďalšie osoby podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu, v záujmoch zahraničnej politiky, rozvojovej politiky, kultúrnych záujmov a humanitárnych dôvodov poplatok znížiť alebo upustiť od jeho vybratia. |
+  - 2. Správny orgán môže v jednotlivých prípadoch poplatok znížiť alebo od neho upustiť z dôvodu podpory kultúrnych alebo športových záujmov, ako aj záujmov v oblasti zahraničnej politiky, politiky rozvoja a ostatných oblastí zásadného verejného záujmu alebo z humanitárnych dôvodov. |
+
+  - 3. Správny orgán môže podľa osobitného predpisu zaokrúhliť poplatok.<sup>16b</sup>) |
+
+  - 4. Správny orgán vráti poplatok z dôvodov uvedených v osobitnom predpise.<sup>16b</sup>) |
 
     - Položka 241
 
