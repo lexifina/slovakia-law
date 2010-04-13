@@ -1,0 +1,3 @@
+Príloha č. 1 k zákonu č. 200/2004 Z. z.
+
+- VZOR ŽIADOSŤ O PRIJATIE OPATRENIA NA DOMÁCOM TRHU [Vzor 01](../assets/7845827f12e176a79688a69418904282d7feca1f550fbe521daaa977c829dfc5.pdf)
