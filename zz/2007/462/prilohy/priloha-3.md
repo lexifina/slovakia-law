@@ -1,23 +1,11 @@
 Príloha č. 3 k zákonu č. 462/2007 Z. z.
 
-- ZOZNAM KONANÍ, KTORÉ SA POVAŽUJÚ ZA PORUŠENIE PREDPISOV
+- ZOZNAM PORUŠENÍ OSOBITNÝCH PREDPISOV
 
-  - A. Za konanie, ktoré je porušením tohto zákona a osobitných predpisov,<sup>7</sup>) sa považuje najmä
+  - 1. Skupina porušení nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006 15. marca 2006 o harmonizácii niektorých právnych predpisov v sociálnej oblasti, ktoré sa týkajú cestnej dopravy, ktorým sa menia a dopĺňajú nariadenia Rady (EHS) č. 3821/85 a (ES) č. 2135/98 a zrušuje nariadenie Rady (EHS) č. 3820/85
 
-    - 1. presiahnutie maximálneho denného, týždenného alebo dvojtýždňového limitu času jazdy,
+  - [Obrázok 01](../assets/2614a69428cab0e663b1dbf594ad0ad1d53abbf06bd0a02846f61368c02ab55e.pdf)
 
-    - 2. nedodržanie minimálnej doby denného alebo týždenného odpočinku,
+  - 2. Skupina porušení nariadenia Rady (EHS) č. 3821/85 z 20. decembra 1985 o záznamovom zariadení v cestnej doprave) v platnom znení
 
-    - 3. nedodržanie minimálneho času prestávok v práci,
-
-    - 4. nesúlad umiestnenia záznamového zariadenia vo vozidle s požiadavkami osobitného predpisu.<sup>33</sup>)
-
-  - B. Za konanie, ktoré je závažným porušením tohto zákona a osobitných predpisov,<sup>7</sup>) sa považuje
-
-    - 1. presiahnutie maximálneho denného, šesťdňového alebo dvojtýždňového limitu času jazdy o viac ako 20 %,
-
-    - 2. nedodržanie minimálnej doby denného alebo týždenného odpočinku o viac ako 20 %,
-
-    - 3. nedodržanie minimálneho času prestávok v práci o viac ako 33 %,
-
-    - 4. nesúlad záznamového zariadenia s požiadavkami osobitného predpisu.<sup>33</sup>)
+  - [Obrázok 02](../assets/36b35cb7c17172a30556efcf19aa312aa28c96544c7543304ce5e984d1e252ce.pdf)

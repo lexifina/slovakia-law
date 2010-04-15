@@ -38,7 +38,7 @@
 
 - 17) § 6 ods. 1 písm. o) zákona č. 125/2006 Z. z. v znení zákona č. 462/2007 Z. z.
 
-- 18) Rozhodnutie Komisie 93/173/EHS z 22. februára 1993, ktorým sa navrhuje štandardné tlačivo podľa článku 16 nariadenia (EHS) č. 3820/85 o zosúlaďovaní niektorých právnych predpisov v sociálnej oblasti, ktoré sa týkajú cestnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap.7/zv. 2; Ú. v. ES L 72, 25. 3. 1993).
+- 18) Rozhodnutie Komisie 2009/810/ES z 22. septembra 2008 o vyhotovení štandardného tlačiva na podávanie správ uvedeného v článku 17 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006 (Ú. v. EÚ L 289, 5. 11. 2009).
 
 - 19) Článok 22 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 561/2006.
 
@@ -60,7 +60,7 @@
 
 - 26) Napríklad Obchodný zákonník, Občiansky zákonník.
 
-- 27) Príloha rozhodnutia Komisie 2007/230/ES z 12. apríla 2007 o formulári týkajúcom sa právnych predpisov v sociálnej oblasti súvisiacich s činnosťami cestnej dopravy (Ú. v. EÚ L 99, 14. 4. 2007).
+- 27) Príloha rozhodnutia Komisie 2007/230/ES z 12. apríla 2007 o formulári týkajúcom sa právnych predpisov v sociálnej oblasti súvisiacich s činnosťami cestnej dopravy (Ú. v. EÚ L 99, 14. 4. 2007) v znení rozhodnutia Komisie 2009/959/EÚ zo 14. decembra 2009 (Ú. v. EÚ L 330, 16. 12. 2009).
 
 - 28) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov.
 

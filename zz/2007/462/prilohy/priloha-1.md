@@ -12,6 +12,8 @@ Príloha č. 1 k zákonu č. 462/2007 Z. z.
 
     - 4. správne fungovanie záznamového zariadenia (zistenie možného zneužitia záznamového zariadenia alebo karty vodiča, alebo záznamových listov) alebo prípadne prítomnosť dokumentov uvedených v osobitnom predpise.<sup>32</sup>)
 
+    - 5. v prípade potreby a s náležitým zohľadnením bezpečnostných aspektov overenie záznamového zariadenia nainštalovaného vo vozidlách s cieľom zistiť nainštalovanie alebo používanie akéhokoľvek prístroja alebo prístrojov určených na zničenie, zatajenie, pozmenenie akýchkoľvek údajov alebo na manipuláciu s týmito údajmi, alebo prístrojov, ktoré majú zasahovať do činnosti ktorejkoľvek časti elektronickej výmeny údajov medzi komponentmi záznamového zariadenia alebo ktoré týmto spôsobom blokujú alebo pozmeňujú údaje pred zakódovaním.
+
 - ČASŤ B
 
   - KONTROLY V DOPRAVNÝCH PODNIKOCH Predmetom kontroly v dopravných podnikoch sú okrem prvkov podľa časti A aj tieto prvky:
