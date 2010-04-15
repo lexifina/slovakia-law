@@ -1,19 +1,179 @@
-Príloha č. 1 k vyhláške 131/2006 Z. z.
+Príloha č. 1 k vyhláške č. 131/2006 Z. z.
 
-- Celkové množstvo kvót oxidov síry vyjadrených ako oxid siričitý na roky 2007 a 2008 Okres | Emisné kvóty v t/rok |
+- Celkové množstvo kvót oxidov síry vyjadrených ako oxid siričitý v tonách na roky 2011 a 2012 Okres | Emisné kvóty v t/rok |
 
-- | 2007 | 2008
+- | 2011 | 2012
 
-- Bratislavský kraj Bratislava I Bratislava II Bratislava III Bratislava IV Bratislava V Malacky Pezinok Senec Senica Skalica Trnavský kraj Trnava Dunajská Streda Galanta Hlohovec Piešťany | 30 15 700 60 60 30 340 30 30 30 30 500 660 380 30 30 | 30 12 400 50 50 30 320 30 30 30 30 450 610 300 30 30
+- Bratislavský kraj | |
 
-- Trenčiansky kraj Trenčín Bánovce nad Bebravou Ilava Myjava Nové Mesto nad Váhom Partizánske Považská Bystrica Prievidza Púchov | 500 30 120 30 30 1 000 1 000 39 500 620 | 450 30 100 30 30 800 800 38 500 490
+- Bratislava I | 30 | 30
 
-- Nitriansky kraj Nitra Komárno Levice Nové Zámky Šaľa Topoľčany Zlaté Moravce | 30 30 30 2 050 2 200 30 30 | 30 30 30 1 620 1 730 30 30
+- Bratislava II | 11 070 | 10 500
 
-- Žilinský kraj Žilina Bytča Čadca Dolný Kubín Kysucké Nové Mesto Liptovský Mikuláš Martin Námestovo Ružomberok Turčianske Teplice Tvrdošín | 2 590 30 30 30 30 800 2 500 30 1 500 30 30 | 2 040 30 30 30 30 750 2 200 30 1 300 30 30
+- Bratislava III | 40 | 30
 
-- Banskobystrický kraj Banská Bystrica Banská Štiavnica Brezno Detva Krupina Lučenec Poltár Revúca Rimavská Sobota Veľký Krtíš Zvolen Žarnovica Žiar nad Hronom | 300 30 100 30 30 150 30 1 400 30 30 3 100 200 1 000 | 250 30 80 30 30 140 30 1 200 30 30 2 450 180 900
+- Bratislava IV | 40 | 30
 
-- Prešovský kraj Prešov Bardejov Humenné Kežmarok Levoča Medzilaborce Poprad Sabinov Snina Stará Ľubovňa Stropkov Svidník Vranov nad Topľou | 30 30 1 700 30 30 30 30 30 270 30 30 30 2 850 | 30 30 1 350 30 30 30 30 30 220 30 30 30 2 260
+- Bratislava V | 30 | 30
 
-- Košický kraj Košice I Košice II Košice III Košice IV Košice-okolie Gelnica Michalovce Rožňava Sobrance Spišská Nová Ves Trebišov | 30 13 500 30 2 100 30 30 19 550 3 850 30 30 30 | 30 11 800 30 2 100 30 30 6 500 3 750 30 30 30
+- Malacky | 270 | 260
+
+- Pezinok | 30 | 30
+
+- Senec | 30 | 30
+
+- Trnavský kraj | |
+
+- Trnava | 340 | 320
+
+- Dunajská Streda | 340 | 320
+
+- Galanta | 270 | 250
+
+- Hlohovec | 30 | 30
+
+- Piešťany | 30 | 30
+
+- Senica | 30 | 30
+
+- Skalica | 30 | 30
+
+- Trenčiansky kraj | |
+
+- Trenčín | 340 | 320
+
+- Bánovce nad Bebravou | 30 | 30
+
+- Ilava | 70 | 60
+
+- Myjava | 30 | 30
+
+- Nové Mesto nad Váhom | 30 | 30
+
+- Partizánske | 580 | 550
+
+- Považská Bystrica | 580 | 550
+
+- Prievidza | 36 750 | 34 900
+
+- Púchov | 240 | 230
+
+- Nitriansky kraj | |
+
+- Nitra | 30 | 30
+
+- Komárno | 30 | 30
+
+- Levice | 30 | 30
+
+- Nové Zámky | 1 350 | 1 280
+
+- Šaľa | 580 | 550
+
+- Topoľčany | 30 | 30
+
+- Zlaté Moravce | 30 | 30
+
+- Žilinský kraj | |
+
+- Žilina | 1 850 | 1 740
+
+- Bytča | 30 | 30
+
+- Čadca | 30 | 30
+
+- Dolný Kubín | 30 | 30
+
+- Kysucké Nové Mesto | 30 | 30
+
+- Liptovský Mikuláš | 30 | 30
+
+- Martin | 1 750 | 1 680
+
+- Námestovo | 30 | 30
+
+- Ružomberok | 750 | 700
+
+- Turčianske Teplice | 30 | 30
+
+- Tvrdošín | 30 | 30
+
+- Banskobystrický kraj | |
+
+- Banská Bystrica | 30 | 30
+
+- Banská Štiavnica | 30 | 30
+
+- Brezno | 70 | 60
+
+- Detva | 30 | 30
+
+- Krupina | 30 | 30
+
+- Lučenec | 90 | 80
+
+- Poltár | 30 | 30
+
+- Revúca | 1 350 | 1 300
+
+- Rimavská Sobota | 30 | 30
+
+- Veľký Krtíš | 30 | 30
+
+- Zvolen | 2 300 | 2 200
+
+- Žarnovica | 30 | 30
+
+- Žiar nad Hronom | 650 | 600
+
+- Prešovský kraj | |
+
+- Prešov | 30 | 30
+
+- Bardejov | 30 | 30
+
+- Humenné | 1 200 | 1 140
+
+- Kežmarok | 30 | 30
+
+- Levoča | 30 | 30
+
+- Medzilaborce | 30 | 30
+
+- Poprad | 30 | 30
+
+- Sabinov | 30 | 30
+
+- Snina | 170 | 160
+
+- Stará Ľubovňa | 30 | 30
+
+- Stropkov | 30 | 30
+
+- Svidník | 30 | 30
+
+- Vranov nad Topľou | 2 150 | 2 000
+
+- Košický kraj | |
+
+- Košice I | 30 | 30
+
+- Košice II | 10 750 | 10 200
+
+- Košice III | 30 | 30
+
+- Košice IV | 2 050 | 1 950
+
+- Košice-okolie | 70 | 60
+
+- Gelnica | 30 | 30
+
+- Michalovce | 5 850 | 5 550
+
+- Rožňava | 3 250 | 3 100
+
+- Sobrance | 30 | 30
+
+- Spišská Nová Ves | 30 | 30
+
+- Trebišov | 30 | 30
