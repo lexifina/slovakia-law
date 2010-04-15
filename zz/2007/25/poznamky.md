@@ -6,6 +6,14 @@
 
 - 3) § 12 ods. 1 zákona č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 747/2004 Z. z.
 
+- 3a) Príloha č. 1 časť B bod 2 písm. a) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 3b) Príloha č. 1 časť B bod 3 písm. a) zákona č. 725/2004 Z. z.
+
+- 3c) Príloha č. 1 časť B bod 2 písm. a) a bod 5 písm. a) zákona č. 725/2004 Z. z.
+
+- 3d) Príloha č. 1 časť B bod 3 písm. a) a bod 5 písm. a) a b) zákona č. 725/2004 Z. z.
+
 - 4) § 8 ods. 1 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
 - 4a) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 529/2009 Z. z., ktorou sa vymedzujú úseky diaľnic, rýchlostných ciest a ciest I. triedy s elektronickým výberom mýta v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 10/2010 Z. z.
