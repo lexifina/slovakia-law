@@ -1,4 +1,4 @@
-Príloha č. 2 k vyhláške č. 529/2009 Z. z.
+Príloha k vyhláške č. 529/2009 Z. z.
 
 - ZOZNAM ÚSEKOV DIAĽNIC, RÝCHLOSTNÝCH CIEST A CIEST I. TRIEDY, KTORÉ MOŽNO UŽÍVAŤ S ÚHRADOU MÝTA Identifikátor | | | | | | | Začiatok úseku | Križovanie | Koniec úseku | Križovanie | Celková dĺžka úseku v km | Spoplatnená dĺžka úseku v km
 
