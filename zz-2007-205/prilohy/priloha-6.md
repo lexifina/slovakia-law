@@ -1,0 +1,1 @@
+Príloha č. 6 k vyhláške č. 205/2007 Z. z. [Vzor 06 - Osvedčenie o odbornej spôsobilosti na klasifikáciu jatočne opracovaných tiel ošípaných](../assets/99fbf01e7b039811783193944175edf1bd19936e5abb3b83add74f6ceb28ffed.pdf)

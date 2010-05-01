@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 205/2007 Z. z. [Vzor 05 - Prihláška na odbornú prípravu klasifikátorov jatočne opracovaných tiel ošípaných](../assets/1fcfecd7e1daa99de37d42b626a7ce1571ebe74a866a7b2db7b6b98f87db1f0a.pdf)
