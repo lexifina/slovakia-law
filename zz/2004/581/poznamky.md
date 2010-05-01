@@ -30,6 +30,10 @@
 
 - 16) § 42 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
+- 16a) § 10 ods. 10 zákona č. 580/2004 Z. z. v znení zákona č. 121/2010 Z. z.
+
+- 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
@@ -61,8 +65,6 @@
 - 22) § 7 ods. 1 písm. c) a § 10 zákona č. 576/2004 Z. z.
 
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
-
-- 24a) § 78b a 78c zákona č. 578/2004 Z. z. v znení zákona č. 538/2005 Z. z.
 
 - 25) Zákon č. 577/2004 Z. z.
 
@@ -118,6 +120,8 @@
 
 - 39) § 26 zákona č. 580/2004 Z. z.
 
+- 39a) § 10 ods. 11 a 12 zákona č. 580/2004 Z. z. v znení zákona č. 121/2010 Z. z.
+
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
@@ -125,6 +129,10 @@
 - 41a) § 42 ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 41aaa) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009).
+
+- 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
 - 41b) § 4 zákona č. 578/2004 Z. z.
 
@@ -154,7 +162,7 @@
 
 - 47) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 48) § 13 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 48) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 49) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -210,6 +218,8 @@
 
 - 70) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 72) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
@@ -224,13 +234,11 @@
 
 - 77) § 42a a 42b Občianskeho zákonníka.
 
-- 78) § 2 a § 46 až 66 zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
-- 79) § 2 a § 4 až 33 zákona č. 328/1991 Zb. v znení neskorších predpisov.
-
 - 80) § 566 až 576 Obchodného zákonníka.
 
 - 80a) § 27 a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 80b) § 27 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 81) § 99 ods. 3 písm. a) a § 107 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -240,7 +248,11 @@
 
 - Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- 81b) § 10 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 82) § 250b ods. 1 Občianskeho súdneho poriadku.
+
+- 82a) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
 
 - 83) § 154 a § 162 až 176 Obchodného zákonníka.
 
@@ -271,8 +283,6 @@
 - 93) § 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 94) § 45 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 95) § 8 ods. 1, § 9a ods. 1 a § 50 ods. 3 písm. a) zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
 - 95a) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
