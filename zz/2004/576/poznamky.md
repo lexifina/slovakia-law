@@ -98,6 +98,8 @@
 
 - § 69 zákona č. 195/1998 Z. z.
 
+- 31a) § 30 ods. 12 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+
 - 32) § 115 Občianskeho zákonníka.
 
 - 33) § 116 Občianskeho zákonníka.
