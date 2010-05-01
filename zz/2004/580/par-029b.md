@@ -24,4 +24,6 @@
 
 (6) Preukazovanie skutočností podľa § 11 ods. 8 písm. b), d), e), n) sa upraví dohodou, ktorú uzatvorí Sociálna poisťovňa s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
 
-(7) Preukazovanie skutočností podľa § 11 ods. 8 písm. p) sa upraví dohodou, ktorú uzatvorí Ústredie práce, sociálnych vecí a rodiny Slovenskej republiky s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
+(7) Preukazovanie skutočností podľa § 11 ods. 8 písm. p) sa upraví dohodou, ktorú uzatvorí Ústredie práce, sociálnych vecí a rodiny s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
+
+(8) Preukazovanie skutočností podľa § 11 ods. 8 sa upraví dohodou, ktorú uzatvorí úrad s Daňovým riaditeľstvom Slovenskej republiky, Ústredím práce, sociálnych vecí a rodiny, Ministerstvom školstva Slovenskej republiky, Ministerstvom vnútra Slovenskej republiky, Ministerstvom obrany Slovenskej republiky a Zborom väzenskej a justičnej stráže. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.

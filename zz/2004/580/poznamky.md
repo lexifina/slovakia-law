@@ -20,6 +20,10 @@
 
 - 8) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
+- 8a) Článok 1 písm. i) bod 2 nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
+
+- 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+
 - 9) § 2 ods. 1 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
 - 10) § 27 Občianskeho zákonníka.
@@ -45,6 +49,30 @@
 - 15) § 2 ods. 3 zákona č. 576/2004 Z. z.
 
 - 16) § 79 ods. 1 písm. d) zákona č. 578/2004 Z. z.
+
+- 16a) Článok 20 nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+
+- Článok 26 nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009).
+
+- 16b) § 6 ods. 2 až 12 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 16c) Článok 1 písm. j) a článok 11 nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+
+- 16d) § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
+
+- 16e) § 250l až 250s Občianskeho súdneho poriadku.
+
+- 16f) § 12 ods. 13 a 14 zákona č. 576/2004 Z. z. v znení zákona č. 192/2009 Z. z.
+
+- 16g) Článok 26 ods. 7 naradenia Európskeho parlamentu a Rady (ES) č. 987/2009.
+
+- 16h) Nariadenie Rady (EHS) č. 1408/71 zo 14. júna 1971 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a na ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 1; Ú. v. ES L 149, 5. 7. 1971) v platnom znení.
+
+- Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup pri vykonávaní nariadenia (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov a ich rodiny, ktorí sa pohybujú v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 74, 27. 3. 1972) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009.
 
 - 17) Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 189 z 18. júna 2003 s cieľom zaviesť Európsku kartu zdravotného poistenia, ktorá nahradí formuláre potrebné na aplikáciu nariadení Rady (EHS) č. 1408/71 a č. 574/72 vzťahujúce sa na prístup k zdravotnej starostlivosti počas dočasného pobytu v členskom štáte inom ako príslušnom alebo inom ako v štáte bydliska (2003/751/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
@@ -207,6 +235,8 @@
 - 55) § 43 zákona č. 581/2004 Z. z.
 
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 56a) § 9 ods. 7 zákona č. 581/2004 Z. z.
 
 - 57) Zákon č. 581/2004 Z. z.
 
