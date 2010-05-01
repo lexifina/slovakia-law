@@ -52,6 +52,8 @@
 
 - 25) § 2 Obchodného zákonníka.
 
+- 25a) § 24 až 27 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 26) § 9 ods. 1 písm. n) zákona č. 543/2002 Z. z. v znení zákona č. 479/2005 Z. z.
 
 - 27) § 36 zákona č. 50/1976 Zb. v znení neskorších predpisov.
