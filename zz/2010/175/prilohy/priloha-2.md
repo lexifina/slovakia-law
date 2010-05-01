@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 175/2010 Z. z.
+
+- FORMY KOMERČNE DOSTUPNEJ ENERGIE [príloha](../assets/f507968cc2c50447d8e92a5985bb6898d220981a0708537d3d995d62f25c303b.pdf)
