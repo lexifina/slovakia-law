@@ -52,7 +52,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
   - III. Základné informácie o súčasnom stave životného prostredia dotknutého územia
 
-    - 1. Charakteristika prírodného prostredia vrátane chránených území [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 1. Charakteristika prírodného prostredia vrátane chránených území [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 2. Krajina, krajinný obraz, stabilita, ochrana, scenéria.
 
@@ -70,7 +70,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 4. Hodnotenie zdravotných rizík.
 
-    - 5. Údaje o predpokladaných vplyvoch navrhovanej činnosti na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 5. Údaje o predpokladaných vplyvoch navrhovanej činnosti na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 6. Posúdenie očakávaných vplyvov z hľadiska ich významnosti a časového priebehu pôsobenia.
 

@@ -38,7 +38,7 @@ Príloha č. 12 k zákonu č. 24/2006 Z. z.
 
   - IV. Komplexné zhodnotenie vplyvov navrhovanej činnosti na životné prostredie vrátane zdravia
 
-  - V. Celkové hodnotenie vplyvov navrhovanej činnosti na navrhované chránené vtáčie územia, územia európskeho významu alebo súvislú európsku sústavu chránených území (Natura 2000)
+  - V. Celkové hodnotenie vplyvov navrhovanej činnosti na navrhované chránené vtáčie územia, územia európskeho významu alebo európsku sústavu chránených území (Natura 2000)
 
   - VI. Závery
 

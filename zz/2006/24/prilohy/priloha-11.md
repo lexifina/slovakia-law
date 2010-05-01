@@ -104,7 +104,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 8. Krajina – štruktúra krajiny, krajinný obraz, scenéria, stabilita, ochrana.
 
-    - 9. Chránené územia podľa osobitných predpisov a ich ochranné pásma [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], chránené stromy.
+    - 9. Chránené územia podľa osobitných predpisov a ich ochranné pásma [napr. národné parky, chránené krajinné oblasti, navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti], chránené stromy.
 
     - 10. Územný systém ekologickej stability (miestny, regionálny, nadregionálny).
 
@@ -144,7 +144,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 8. Vplyvy na krajinu – štruktúru a využívanie krajiny, krajinný obraz.
 
-    - 9. Vplyvy na chránené územia a ich ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
+    - 9. Vplyvy na chránené územia a ich ochranné pásma [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti].
 
     - 10. Vplyvy na územný systém ekologickej stability.
 

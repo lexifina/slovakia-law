@@ -44,7 +44,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
     - 4. Vplyv na zdravotný stav obyvateľstva.
 
-    - 5. Vplyvy na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti a pod.] vrátane návrhu opatrení na ich zmiernenie.
+    - 5. Vplyvy na chránené územia [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), národné parky, chránené krajinné oblasti, chránené vodohospodárske oblasti a pod.] vrátane návrhu opatrení na ich zmiernenie.
 
     - 6. Možné riziká súvisiace s uplatňovaním strategického materiálu.
 

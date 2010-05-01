@@ -188,4 +188,4 @@ Príloha č. 1 k zákonu č. 24/2006 Z. z.
 
       - 2.4.1 obcami so štatútom kúpeľného miesta
 
-      - 2.4.2 obcami, na ktorých území sa nachádza navrhované vtáčie územie, územie európskeho významu alebo súvislá európska sústava chránených území (Natura 2000)
+      - 2.4.2 obcami, na ktorých území sa nachádza navrhované vtáčie územie, územie európskeho významu alebo európska sústava chránených území (Natura 2000)

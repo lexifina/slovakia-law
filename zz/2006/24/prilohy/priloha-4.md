@@ -30,7 +30,7 @@ Príloha č. 4 k zákonu č. 24/2006 Z. z.
 
     - 1. Informácie o súčasnom stave životného prostredia vrátane zdravia a jeho pravdepodobný vývoj, ak sa strategický dokument bude realizovať.
 
-    - 2. Informácia vo vzťahu k environmentálne obzvlášť dôležitým oblastiam, akými sú navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti a pod.
+    - 2. Informácia vo vzťahu k environmentálne obzvlášť dôležitým oblastiam, akými sú navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti a pod.
 
     - 3. Charakteristika životného prostredia vrátane zdravia v oblastiach, ktoré budú významne ovplyvnené.
 

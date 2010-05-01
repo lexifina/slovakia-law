@@ -10,7 +10,7 @@ Príloha č. 14 k zákonu č. 24/2006 Z. z.
 
     - Navrhované činnosti,
 
-  - – ktoré sa majú umiestniť v oblastiach osobitne citlivých alebo významných z hľadiska životného prostredia alebo v ich blízkosti [napr. navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), lokality zapísané v Zozname mokradí medzinárodného významu podľa Ramsarského dohovoru, národné parky, prírodné rezervácie, miesta osobitného vedeckého výskumu, archeologicky, kultúrne alebo historicky významné miesta],
+  - – ktoré sa majú umiestniť v oblastiach osobitne citlivých alebo významných z hľadiska životného prostredia alebo v ich blízkosti [napr. navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), lokality zapísané v Zozname mokradí medzinárodného významu podľa Ramsarského dohovoru, národné parky, prírodné rezervácie, miesta osobitného vedeckého výskumu, archeologicky, kultúrne alebo historicky významné miesta],
 
   - – v miestach, kde by mohli mať závažné vplyvy na obyvateľstvo.
 

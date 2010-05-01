@@ -16,6 +16,14 @@
 
 - Nariadenie Rady (ES) č. 1257/1999 zo 17. mája 1999 o podpore rozvoja vidieka z Európskeho poľnohospodárskeho zabezpečovacieho a garančného fondu (EAGGF) a o zmene a zrušení niektorých nariadení (Ú. v. EÚ L 160, 26. 6. 1999).
 
+- 8a) § 28 ods. 4 zákona č. 543/2002 Z. z. v znení zákona č. 117/2010 Z. z.
+
+- 8b) § 28 ods. 1 zákona č. 543/2002 Z. z. v znení zákona č. 117/2010 Z. z.
+
+- 8c) § 26 ods. 2 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 8d) § 27 ods. 1 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
 - 8e) Napríklad nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskej únie v znení neskorších predpisov.
 
 - 8f) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
@@ -25,12 +33,6 @@
 - 9a) § 30 a 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 9c) § 65 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
-
-- 10) § 26 zákona č. 543/2002 Z. z.
-
-- 11) § 27 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
-
-- 12) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 13) § 21 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -44,13 +46,13 @@
 
 - 17) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 478/ 2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov.
 
+- 17a) § 42 zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 360/2007 Z. z.
+
 - 18) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
+- 18a) § 28 ods. 5 až 7 zákona č. 543/2002 Z. z. v znení zákona č. 117/2010 Z. z.
+
 - 19) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
-
-- 20) § 28 ods. 2 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
-
-- 21) § 28a zákona č. 543/2002 Z. z. v znení zákona č. 24/2006 Z. z.
 
 - 22) § 5 zákona č. 17/1992 Zb. v znení zákona č. 287/1994 Z. z.
 
@@ -58,27 +60,9 @@
 
 - 24) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
+- 24a) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
+
 - 25) § 14 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
-
-- 26) Zákon č. 245/2003 Z. z. v znení neskorších predpisov.
-
-- 27) Zákon č. 135/1961 Zb. v znení neskorších predpisov.
-
-- 28) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 29) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 30) Zákon č. 364/2004 Z. z. v znení neskorších predpisov.
-
-- 31) Zákon č. 164/1996 Z. z. v znení neskorších predpisov.
-
-- 32) Zákon č. 326/2005 Z. z.
-
-- 33) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
-
-- 34) Zákon č. 51/1988 Zb. v znení neskorších predpisov.
-
-- 34a) § 1 ods. 4 zákona č. 135/1961 Zb. v znení neskorších predpisov.
 
 - 34b) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 

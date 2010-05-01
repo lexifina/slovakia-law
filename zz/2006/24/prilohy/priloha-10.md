@@ -38,7 +38,7 @@ Príloha č. 10 k zákonu č. 24/2006 Z. z.
 
     - 4.3. pohoria a lesy,
 
-    - 4.4. chránené územia [napr. chránená krajinná oblasť, národný park, chránený areál, prírodná rezervácia, národná prírodná rezervácia, prírodná pamiatka, národná prírodná pamiatka, chránený krajinný prvok, chránené vtáčie územie, navrhované chránené vtáčie územie, územie európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti],
+    - 4.4. chránené územia [napr. chránená krajinná oblasť, národný park, chránený areál, prírodná rezervácia, národná prírodná rezervácia, prírodná pamiatka, národná prírodná pamiatka, chránený krajinný prvok, chránené vtáčie územie, navrhované chránené vtáčie územie, územie európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti],
 
     - 4.5. oblasti významné z hľadiska výskytu, ochrany a zachovania vzácnych druhov fauny a flóry (napr. chránené druhy a ich biotopy),
 

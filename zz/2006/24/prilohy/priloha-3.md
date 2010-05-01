@@ -16,4 +16,4 @@ Príloha č. 3 k zákonu č. 24/2006 Z. z.
 
   - 7. Cezhraničný charakter vplyvov.
 
-  - 8. Rozsah, v rámci ktorého strategický dokument ovplyvní hodnotné alebo citlivé oblasti, ako je krajina s uznaným národným alebo medzinárodným štatútom ochrany [napr. chránené územia a ich ochranné pásma, navrhované chránené vtáčie územia, územia európskeho významu, súvislá európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti].
+  - 8. Rozsah, v rámci ktorého strategický dokument ovplyvní hodnotné alebo citlivé oblasti, ako je krajina s uznaným národným alebo medzinárodným štatútom ochrany [napr. chránené územia a ich ochranné pásma, navrhované chránené vtáčie územia, územia európskeho významu, európska sústava chránených území (Natura 2000), chránené vodohospodárske oblasti].
