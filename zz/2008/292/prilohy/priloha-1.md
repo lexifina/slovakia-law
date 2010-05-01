@@ -1,41 +1,53 @@
 Príloha k vyhláške č. 292/2008 Z. z.
 
-Minimálny rozsah výkonu pracovnej zdravotnej služby podľa kategórie prác
+Minimálny rozsah výkonu pracovnej zdravotnej služby podľa kategórie prác u zamestnávateľa
 
-Lekár | | |
+A. Minimálny rozsah výkonu tímu pracovnej zdravotnej služby podľa kategórie prác
 
-Kategória prác<sup>1</sup>) | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok |
+Lekár | | | | | | |
 
-| | Dohľad na pracovné podmienky | Výkon lekárskych preventívnych prehliadok vo vzťahu k práci
+Kategória prác<sup>11</sup>) | | | | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok | |
 
-Prvá | nízka | 0,2 | 0,2<sup>2</sup>)
+| | | | | Dohľad na pracovné podmienky | | Výkon lekárskych preventívnych prehliadok vo vzťahu k práci
 
-Druhá | stredná | 0,2 | 0,5<sup>2</sup>)
+Prvá | | | | nízka | 0,1 | | nestanovuje sa
 
-Tretia | vysoká | 1,0 | 0,5
+Druhá | | | | stredná | 0,1 | | nestanovuje sa
 
-Štvrtá | veľmi vysoká | 1,5 | 1,0
+Tretia | | | | vysoká | 1,0 | | 0,5
 
-Asistent alebo iný zdravotnícky pracovník | |
+Štvrtá | | | | veľmi vysoká | 1,5 | | 1,0
 
-Kategória prác<sup>1</sup>) | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok
+Verejný zdravotník alebo iný zdravotnícky pracovník | | | |
 
-Prvá | nízka | 0,5
+Kategória prác<sup>11</sup>) | | | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok
 
-Druhá | stredná | 0,5
+Prvá | | | nízka | 0,2
 
-Tretia | vysoká | 1,0
+Druhá | | | stredná | 0,2
 
-Štvrtá | veľmi vysoká | 1,5
+Tretia | | | vysoká | 1,0
 
-Sestra | |
+Štvrtá | | | veľmi vysoká | 1,5
 
-Kategória prác<sup>1</sup>) | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok
+Sestra | | | |
 
-Prvá | nízka | 0,5
+Kategória prác<sup>11</sup>) | | | Náročnosť pre pracovnú zdravotnú službu | Čas v hodinách potrebný na jedného zamestnanca za rok
 
-Druhá | stredná | 0,5
+Prvá | | | nízka | nestanovuje sa
 
-Tretia | vysoká | 1,0
+Druhá | | | stredná | nestanovuje sa
 
-Štvrtá | veľmi vysoká | 1,0
+Tretia | | | vysoká | 0,3
+
+Štvrtá | | | veľmi vysoká | 0,6
+
+B. Minimálny rozsah výkonu lekára alebo verejného zdravotníka, ktorí vykonávajú úlohy pracovnej zdravotnej služby<sup>16</sup>) u zamestnávateľa, ktorého zamestnanci vykonávajú práce zaradené do prvej alebo druhej kategórie
+
+Lekár alebo verejný zdravotník | | | |
+
+Kategória prác<sup>11</sup>) | | | Náročnosť | Čas v hodinách potrebný na jedného zamestnanca za rok
+
+Prvá | | | nízka | 0,3
+
+Druhá | | | stredná | 0,3

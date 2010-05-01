@@ -28,6 +28,8 @@
 
 - 15) § 21 ods. 6 nariadenia vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
 
+- 16) § 26 ods. 3 a 4 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+
 - 1) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 448/2007 Z. z. o podrobnostiach o faktoroch práce a pracovného prostredia vo vzťahu ku kategorizácii prác z hľadiska zdravotných rizík a náležitostiach návrhu na zaradenie prác do kategórií.
 
 - 2) § 30 ods. 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
