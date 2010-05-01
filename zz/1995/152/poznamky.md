@@ -70,6 +70,8 @@
 
 - 9abe) Zákon č. 469/2003 Z. z. o označeniach pôvodu výrobkov a zemepisných označeniach výrobkov a o zmene a doplnení niektorých zákonov.
 
+- 9abf) § 6 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 524/2005 Z. z.
+
 - 9ac) Zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z.
 
 - 9ad) Príloha II kapitola 8 nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 v platnom znení.

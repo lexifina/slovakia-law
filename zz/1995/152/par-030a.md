@@ -49,3 +49,5 @@
 - k) na úpravy hygienických požiadaviek ustanovených osobitným predpisom<sup>2a</sup>) na používanie tradičných metód výroby, spracúvanie alebo distribúcie potravín a úpravu hygienických požiadaviek na konštrukciu, usporiadanie a vybavenie prevádzkarní,
 
 - l) všeobecných ustanovení o označovaní výživovej hodnoty a nutričnom označovaní potravín, o vyhláseniach o výživovej alebo zdravotnej hodnote.
+
+(3) Ministerstvo a ministerstvo zdravotníctva v rámci svojich kompetencií podľa tohto zákona informujú verejnosť o nebezpečných potravinách, zdraviu škodlivých potravinách, potravinách nevhodných na ľudskú spotrebu a falšovaných potravinách a o ich riziku pre zdravie ľudí. Informácia o týchto potravinách obsahuje údaj o názve potraviny, výrobcovi potraviny, dovozcovi potraviny alebo inej osobe, ktorá umiestňuje potravinu na trh a údaj o dávke potraviny.
