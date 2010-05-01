@@ -16,6 +16,8 @@
 
 - 8) § 21 ods. 8 až 12 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
+- 8a) § 26 ods. 3 a 4 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+
 - 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 10) Zákon č. 129/1998 Z. z. o zákaze chemických zbraní a o zmene a doplnení niektorých zákonov.
@@ -82,7 +84,13 @@
 
 - 33) § 47 ods. 3 písm. b) prvý bod a písm. c) druhý bod a § 63 ods. 4 zákona č. 305/2005 Z. z.
 
-- 33a) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 33a) § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 33b) § 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 33c) § 27 zákona č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov.
+
+- 33d) § 32 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) Napríklad nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci v znení nariadenia vlády Slovenskej republiky č. 300/2007 Z. z.
 
