@@ -8,9 +8,9 @@
 
 - 5) Napríklad § 161, 284, 285, 300 a 309 Trestného zákona.
 
-- 5a) Vyhláška ministra zahraničných vecí č. 8/1985 Zb. o Dohovore o medzinárodnej železničnej preprave (COTIF).
+- 5a) Poriadok pre medzinárodnú železničnú prepravu nebezpečného tovaru (RID) v platnom znení (oznámenie č. 40/2007 Z. z.).
 
-- Vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR).
+- Európska dohoda o medzinárodnej cestnej preprave nebezpečných vecí (ADR) v platnom znení (oznámenie č. 60/2007 Z. z.).
 
 - 5b) § 5 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 579/2004 Z. z.
 
