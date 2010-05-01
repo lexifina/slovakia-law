@@ -2,11 +2,11 @@
 
 - 1a) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
+- 1b) § 43a ods. 3 a § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 2) § 5 nariadenia vlády Slovenskej republiky č. 19/1993 Z. z. o základných sadzbách odvodov za odňatie poľnohospodárskej pôdy z poľnohospodárskeho pôdneho fondu.
 
 - 3) § 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
-
-- 4) § 2 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení zákona Slovenskej národnej rady č. 571/1991 Zb.
 
 - 5) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov (úplné znenie č. 12/1994 Z. z.).
 
@@ -17,6 +17,8 @@
 - 6) § 2 zákona č. 169/1949 Zb. o vojenských obvodoch.
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 7a) § 40 ods. 4 a 5 Občianskeho zákonníka a § 9 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
 
 - 8) Napríklad § 133 ods. 2 Občianskeho zákonníka, § 60 ods. 1 Obchodného zákonníka.
 
@@ -39,6 +41,8 @@
 - 10e) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 10ea) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení zákona č. 568/2007 Z. z.
+
+- 10eb) § 44a a 159a Občianskeho súdneho poriadku.
 
 - 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
 
