@@ -2,6 +2,8 @@
 
 - 2) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) § 12 nariadenia vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovujú pravidlá pre fungovanie trhu s elektrinou.
+
 - 3) Zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
 - 3a) § 12 ods. 2 zákona č. 276/2001 Z. z. v znení zákona č. 107/2007 Z. z.
@@ -46,9 +48,9 @@
 
 - 11) Zákon č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
 
-- 12) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 12) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13) § 12a zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení zákona č. 658/2004 Z. z.
+- 13) § 12a zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13a) Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovujú pravidlá pre fungovanie trhu s elektrinou.
 
@@ -69,6 +71,10 @@
 - 17) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 17a) § 5 ods. 7 zákona č. 276/2001 Z. z. v znení zákona č. 283/2008 Z. z.
+
+- 17b) § 39a, § 39b ods. 5, § 57 ods. 5 a § 85 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 17c) § 41 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 18) § 12 zákona č. 276/2001 Z. z. v znení neskorších predpisov.
 
