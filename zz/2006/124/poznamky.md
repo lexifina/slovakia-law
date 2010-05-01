@@ -14,7 +14,9 @@
 
 - 6) § 146 ods. 2 Zákonníka práce.
 
-- 6a) § 30 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
+- 6a) § 30 ods. 6 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+
+- 6aa) § 30 ods. 3 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
 
 - 7) Napríklad Zákonník práce, zákon č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
 
@@ -35,6 +37,8 @@
 - Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
+
+- 12a) § 20, 21 a 26 zákona č. 355/2007 Z. z.
 
 - 13) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
