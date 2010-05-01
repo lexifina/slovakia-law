@@ -32,7 +32,11 @@
 
 - n) poskytovania univerzálnej služby,<sup>1e</sup>)
 
-- o) prevzatia zodpovednosti za odchýlky jednotlivých účastníkov trhu a za odchýlky sústavy a siete, spôsob vyhodnocovania, zúčtovania a vysporiadania odchýlok jednotlivých účastníkov trhu a odchýlky sústavy a siete.
+- o) prevzatia zodpovednosti za odchýlky jednotlivých účastníkov trhu a za odchýlky sústavy a siete, spôsob vyhodnocovania, zúčtovania a vysporiadania odchýlok a regulačnej elektriny jednotlivých účastníkov trhu a odchýlky sústavy a siete,
+
+- p) prístupu na organizovaný krátkodobý trh s elektrinou,
+
+- q) organizovania a vyhodnotenia krátkodobého trhu s elektrinou,
 
 (3) Podmienkami potrebnými na organizovanie trhu s elektrinou a plynom sú aj určenie
 
@@ -50,7 +54,9 @@
 
 - g) rozsahu, spôsobu a postupu pri uverejňovaní informácií prevádzkovateľom národnej prenosovej sústavy, prepravnej siete a prevádzkovateľom zásobníka,
 
-- h) spôsobu uverejňovania informácií o využití kapacity cezhraničnej výmeny elektriny, využitia kapacity národnej sústavy a siete.<sup>1k</sup>)
+- h) rozsahu, spôsobu a postupu pri uverejňovaní informácií organizátorom krátkodobého trhu s elektrinou,
+
+- i) spôsobu uverejňovania informácií o využití kapacity cezhraničnej výmeny elektriny, využitia kapacity národnej sústavy a siete.<sup>1k</sup>)
 
 (4) Pravidlá trhu zahrnujú aj obchodné podmienky pre účastníkov trhu s elektrinou a plynom, ktoré obsahujú najmä
 
@@ -66,12 +72,16 @@
 
 - f) podmienky vyúčtovania za dodávky elektriny vyrobenej z obnoviteľných zdrojov energie,<sup>1j</sup>) kombinovanou výrobou elektriny a tepla a elektriny vyrobenej z domáceho uhlia,
 
-- g) podmienky vysporiadania odchýlky účastníka trhu a odchýlky sústavy,<sup>1</sup>)
+- g) podmienky vysporiadania odchýlky a regulačnej elektriny účastníka trhu a odchýlky sústavy,
 
-- h) podmienky ochrany domácnosti.
+- h) podmienky prístupu na organizovaný krátkodobý trh s elektrinou,
+
+- i) podmienky organizovania a vyhodnotenia krátkodobého trhu s elektrinou,
+
+- l) podmienky ochrany domácnosti.
 
 (5) Pravidlá trhu podľa odsekov 1 až 4 na návrh úradu ustanoví vláda nariadením do troch mesiacov od nadobudnutia účinnosti tohto zákona.
 
-(6) Prevádzkovateľ sústavy a siete a prevádzkovateľ zásobníka plynu je povinný zapracovať pravidlá trhu vydané podľa odseku 5 do prevádzkového poriadku a predložiť na schválenie úradu najneskôr do dvoch mesiacov od účinnosti nariadenia vlády vydaného podľa odseku 5. Úradom schválený prevádzkový poriadok je záväzný pre účastníkov trhu.
+(6) Prevádzkovateľ sústavy a siete, prevádzkovateľ zásobníka plynu a organizátor krátkodobého trhu s elektrinou je povinný zapracovať pravidlá trhu vydané podľa odseku 5 do prevádzkového poriadku a predložiť na schválenie úradu najneskôr do dvoch mesiacov od účinnosti nariadenia vlády vydaného podľa odseku 5. Úradom schválený prevádzkový poriadok je záväzný pre účastníkov trhu.
 
 (7) Úrad vydá a na svojej internetovej stránke zverejní vzorový prevádzkový poriadok prevádzkovateľov distribučnej sústavy, ku ktorej je pripojených menej ako 100 000 odberných miest a distribučnej sústavy, ktorej distribúcia elektriny je nižšia ako 1 500 000 MWh. Tento prevádzkový poriadok je záväzný pre účastníkov trhu pripojených na túto distribučnú sústavu. V prípade osobitných podmienok prevádzky takejto sústavy úrad vydá rozhodnutie o podmienkach a spôsobe prevádzkovania takejto sústavy.
