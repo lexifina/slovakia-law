@@ -48,6 +48,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 10. V § 116 ods. 6 sa slová „3 000 Sk“ nahrádzajú slovami „99,60 eura“.
 
+- 11. V § 120 ods. 4 sa za slovo „poistenia“ vkladajú slová „plní funkciu prístupového bodu, príslušnej inštitúcie, inštitúcie miesta bydliska, inštitúcie miesta pobytu, styčného orgánu a“.
+
 - 12. V § 123 ods. 2 písm. a) prvom bode sa slová „najmenej troch“ nahrádzajú slovami „nasledujúcich dvoch“.
 
 - 13. V § 138 ods. 1 úvodnej vete sa za slovo „zamestnanca“ vkladá čiarka a slová „ak tento zákon neustanovuje inak,“.
