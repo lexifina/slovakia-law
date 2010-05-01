@@ -58,6 +58,8 @@
 
 - 13b) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
+- 13c) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
 - 14) § 58 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb.
 
 - 14a) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
