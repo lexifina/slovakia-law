@@ -10,6 +10,12 @@
 
 - 3a) Spoločný dohovor o bezpečnosti nakladania s vyhoretým palivom a o bezpečnosti nakladania s rádioaktívnym odpadom (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 125/2002 Z. z.).
 
+- 3b) § 27 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
+
+- 3c) Čl. 4 ods. 4 Dohovoru o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie č. 43/2006 Z. z.).
+
+- 3d) § 11 ods. 1 písm. h) zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 145/2010 Z. z.
+
 - 4) Napríklad Dohovor o včasnom oznamovaní jadrovej havárie (oznámenie č. 327/2001 Z. z.), rozhodnutie Rady 87/600/Euratom zo dňa 14. decembra 1987 o opatreniach Spoločenstva pre včasnú výmenu informácií v prípade radiačnej mimoriadnej situácie (Úradný vestník Európskych spoločenstiev L 371, 30. 12. 1987).
 
 - 5) Článok 37 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
@@ -25,6 +31,10 @@
 - 10) Napríklad § 5 ods. 1 zákona č. 656/2004 Z. z. o energetike a o zmene a doplnení niektorých zákonov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 11a) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 11b) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
@@ -103,6 +113,12 @@
 - 36) § 15 ods. 1 písm. c) zákona č. 355/2007 Z. z.
 
 - 37) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 37a) Prílohy č. 1 a 2 vyhlášky Úradu jadrového dozoru Slovenskej republiky č. 51/2006 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na zabezpečenie fyzickej ochrany, Príloha II Dohovoru o fyzickej ochrane jadrových materiálov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/2001 Z. z. o prijatí Dohovoru o fyzickej ochrane jadrových materiálov).
+
+- 37b) § 4 ods. 1 písm. n) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 37c) Zákon č. 482/2002 Z. z. v znení neskorších predpisov.
 
 - 38) Napríklad § 13 ods. 1 písm. i) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
