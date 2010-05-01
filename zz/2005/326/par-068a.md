@@ -1,8 +1,8 @@
 # § 68a Prechodné ustanovenia k úprave účinnej od 1. septembra 2007
 
-(1) Ak pokyny na vyhotovenie plánu obsiahnuté v protokole vyhotovenom podľa § 41 ods. 9 do 31. augusta 2007 neumožňujú použitie holorubného hospodárskeho spôsobu, možno použitie tohto hospodárskeho spôsobu pred schválením plánu do pokynov na vyhotovenie plánu doplniť; ustanovenia § 41 ods. 8 sa použijú primerane.
+(1) Ak pokyny na vyhotovenie programu starostlivosti obsiahnuté v protokole vyhotovenom podľa § 41 ods. 9 do 31. augusta 2007 neumožňujú použitie holorubného hospodárskeho spôsobu, možno použitie tohto hospodárskeho spôsobu pred schválením programu starostlivosti do pokynov na vyhotovenie programu starostlivosti doplniť; ustanovenia § 41 ods. 8 sa použijú primerane.
 
-(2) Ak plán schválený do 31. augusta 2007 podľa doterajších predpisov neumožňuje použitie holorubného hospodárskeho spôsobu, možno použitie tohto hospodárskeho spôsobu do plánu doplniť. Na doplnenie holorubného hospodárskeho spôsobu do plánu sa primerane použijú ustanovenia o zmene plánu podľa § 43 ods. 2.
+(2) Ak program starostlivosti schválený do 31. augusta 2007 podľa doterajších predpisov neumožňuje použitie holorubného hospodárskeho spôsobu, možno použitie tohto hospodárskeho spôsobu do programu starostlivosti doplniť. Na doplnenie holorubného hospodárskeho spôsobu do programu starostlivosti sa primerane použijú ustanovenia o zmene programu starostlivosti podľa § 43 ods. 2.
 
 (3) Splnenie osobitného kvalifikačného predpokladu podľa § 57 ods. 9 sú určení zamestnanci povinní preukázať do 1. júla 2009.
 

@@ -4,7 +4,7 @@
 
 (2) Žiadosť o vydanie záväzného stanoviska obsahuje
 
-- a) údaje z katastra nehnuteľností a z lesného hospodárskeho plánu (§ 40) o dotknutých lesných pozemkoch,
+- a) údaje z katastra nehnuteľností a z programu starostlivosti o lesy (§ 40) o dotknutých lesných pozemkoch,
 
 - b) vyznačenie zásahov do lesných pozemkov na kópii katastrálnej mapy vrátane zoznamu parciel s uvedením výmery dotknutej výstavbou,
 
@@ -12,7 +12,7 @@
 
 (3) Ak je žiadosť podľa odseku 2 úplná, orgán štátnej správy lesného hospodárstva vydá záväzné stanovisko bezodkladne.
 
-(4) Záväzné stanovisko obsahuje údaje z katastra nehnuteľností a z lesného hospodárskeho plánu (§ 40) o lesných pozemkoch, ktorých sa dotýka, a podmienky, ktorými sa zabezpečí ochrana lesných pozemkov.
+(4) Záväzné stanovisko obsahuje údaje z katastra nehnuteľností a z programu starostlivosti o lesy (§ 40) o lesných pozemkoch, ktorých sa dotýka, a podmienky, ktorými sa zabezpečí ochrana lesných pozemkov.
 
 (5) Vydaním záväzného stanoviska nie sú dotknuté ustanovenia § 7, 8 a 9 a začína ním rozhodovanie o vyňatí alebo obmedzení využívania. Orgán štátnej správy lesného hospodárstva v záväznom stanovisku určí primeranú lehotu na doplnenie dokladov potrebných na vydanie rozhodnutia o vyňatí alebo rozhodnutia o obmedzení využívania.
 
