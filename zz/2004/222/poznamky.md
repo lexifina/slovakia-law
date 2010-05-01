@@ -36,6 +36,10 @@
 
 - 6ac) § 116 Občianskeho zákonníka.
 
+- 6ad) § 3 nariadenia vlády Slovenskej republiky č. 283/2009 Z. z., ktorým sa ustanovujú opatrenia na úpravu požiadaviek na konštrukciu, usporiadanie a vybavenie potravinárskych prevádzkarní s malým objemom výroby.
+
+- § 3 až 8 nariadenia vlády Slovenskej republiky č. 352/2009 Z. z., ktorým sa ustanovujú hygienické požiadavky na priamy predaj a dodávanie malého množstva prvotných produktov živočíšneho pôvodu, mäsa z hydiny a domácich králikov, voľne žijúcej zveri a zveriny z nej.
+
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
