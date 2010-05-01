@@ -32,8 +32,6 @@
 
 - 17) § 34 zákona č. 541/2004 Z. z.
 
-- 18) § 17f ods. 2 písm. p) a § 17r ods. 10 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
-
 - 19) § 21 ods. 9 zákona č. 541/2004 Z. z.
 
 - 20) § 2 písm. p) zákona č. 541/2004 Z. z.
