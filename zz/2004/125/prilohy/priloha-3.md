@@ -1,59 +1,35 @@
-Príloha č. 3 k vyhláške č. 125/2004 Z. z. Zoznam materiálov a súčiastok, na ktoré sa nevzťahuje zákaz podľa § 18 ods. 3 písm. l) zákona
+Príloha č. 3 k vyhláške č. 125/2004 Z. z. VZOR
 
-Materiály a komponenty | Rozsah pôsobnosti a dátum skončenia platnosti výnimky | Spôsob označenia<sup>1</sup>)
+HLÁSENIE SPRACOVATEĽA STARÝCH VOZIDIEL
 
-Olovo ako prvok legovania | |
+[Príloha 03](../assets/3e1892fd27a5f017f8da107bf45c724f3937489d679184aa812a94d169f6a154.pdf)
 
-1. Oceľ na účely obrábania a galvanizovaná oceľ s hmotnostným obsahom olova do 0,35 % | | -
+Tlačivo HLÁSENIE SPRACOVATEĽA STARÝCH VOZIDIEL
 
-2. a) Hliník na účely obrábania s hmotnostným obsahom olova do 1,5% | 1. júl 2008 | -
+(Spôsob vypĺňania tlačiva)
 
-2. b) Hliník na účely obrábania s hmotnostným obsahom olova do 0,4 % | | -
+V tomto tlačive sa uvádzajú sumárne údaje za predchádzajúci rok.
 
-3. Legovaná meď s hmotnostným obsahom olova do 4 % | | -
+ORGANIZÁCIA
 
-4. Ložiskové panvy a puzdrá | 1. júl 2008 | -
+IČO – uvedie sa identifikačné číslo organizácie (spracovateľa starých vozidiel); ak má organizácia IČO menšie ako osemmiestne, zľava sa doplnia nuly na celkový počet osem miest.
 
-Olovo a zlúčeniny olova v komponentoch | |
+Obchodné meno – uvedie sa obchodné meno organizácie (spracovateľa starých vozidiel) tak, ako je zapísané v obchodnom registri alebo v živnostenskom liste.
 
-5. Akumulátory | | X
+Ulica, obec, PSČ – uvádza sa presná a úplná adresa organizácie, jej telefón, fax, e-mail, adresa URL.
 
-6. Tlmiče kmitov | | X
+PREVÁDZKAREŇ / ZÁVOD
 
-7. Tmeliace činidlá pre elastoméry pri použití v hnacích systémoch s hmotnostným obsahom olova do 0,5 % | | -
+Nasledujúca časť týkajúca sa samostatnej prevádzky sa vypĺňa v prípade, že nie je totožná s organizáciou.
 
-8. Zvary v elektronických paneloch plošných spojov a iné elektrické aplikácie | | X<sup>2</sup>)
+Názov – uvádza sa, ak je zavedený vnútri organizácie.
 
-9. Meď vo frikčných materiáloch brzdových obložení s hmotnostným obsahom olova vyše 0,4 % | 1. júl 2007 | x
+Ulica, obec, PSČ – uvádza sa presná a úplná adresa samostatnej prevádzky, telefón, fax, e-mail, adresa URL.
 
-10. Sedlá ventilov | Typy motorov vyvíjané do 1. júla 2003: 1. júl 2007 | -
+Počet spracovaných starých vozidiel – uvedie sa počet spracovaných starých vozidiel.
 
-11. Elektrické komponenty, ktoré obsahujú olovo v skle alebo keramickej hmote, okrem skla v žiarovkách a zapaľovacích sviečkach | | X<sup>3</sup>)(pre iné ako piezoelektrické komponenty v motoroch)
-
-12. Pyrotechnické iniciátory | Vozidlá s typovým schválením pred 1. júlom 2006 a náhradné iniciátory pre tieto vozidlá | -
-
-Šesťmocný chróm | |
-
-13. a) Krycie vrstvy proti korózii | 1. júl 2007 | -
-
-13. b) Krycie vrstvy proti korózii používané v súpravách matíc a skrutiek pre karosériové aplikácie | 1. júl 2008 | -
-
-14. Absorpčné chladničky v motorových karavanoch | | X
-
-Ortuť | |
-
-15. Výbojkové svetlá a osvetlenie prístrojového panelu | | X
-
-Kadmium | |
-
-16. Akumulátory pre elektrické vozidlá | Po 31. decembri 2008 bude povolené umiestniť na trh iba tie akumulátory NiCd, ktoré sú náhradnými súčiastkami pre vozidlá dodané na trh pred týmto dátumom. | X
-
-17. Optické komponenty v sklených matriciach používaných v systémoch, ktoré pomáhajú vodičovi | 1. júl 2007 | X
-
-<sup>1</sup>) Spôsob označenia: X – označuje sa.<sup>2</sup>) Demontáž, ak bola v súlade s položkou 11 presiahnutá priemerná hodnota 60 g na vozidlo. Na účely uplatnenia tohto ustanovenia sa neberú do úvahy elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe.<sup>3</sup>) Demontáž, ak bola v súlade s položkou 8 presiahnutá priemerná hodnota 60 g na vozidlo. Na účely uplatnenia tohto ustanovenia sa neberú do úvahy elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe.
+Celková hmotnosť (W1) spracovaných starých vozidiel v tonách – uvedie sa hmotnosť vozidiel vstupujúcich do zariadenia.
 
 Poznámky:
 
-– Maximálna hodnota koncentrácie hmotnostného obsahu olova, šesťmocného chrómu a ortuti a homogénneho materiálu do 0,1 % a hmotnostného obsahu kadmia a homogénneho materiálu do 0,01 % sa toleruje.
-
-– Opätovné použitie častí vozidiel, ktoré už boli na trhu k dátumu skončenia platnosti výnimky, je povolené bez obmedzenia, pretože sa naň nevzťahuje zákaz podľa § 18 ods. 3 písm. l) zákona.
+Pohonné látky odstránené počas demontáže sa nezapočítavajú do výpočtu cieľov.
