@@ -1,0 +1,11 @@
+# § 53b
+
+(1) Doplnková dôchodková spoločnosť nesmie do majetku v doplnkovom dôchodkovom fonde nadobúdať podielové listy otvorených podielových fondov, cenné papiere európskych fondov, cenné papiere zahraničných subjektov kolektívneho investovania alebo podielové listy špeciálnych podielových fondov nehnuteľností, ktorých štatút alebo obdobný dokument umožňuje investovať viac ako 10 % hodnoty majetku v tomto otvorenom podielovom fonde, európskom fonde, zahraničnom subjekte kolektívneho investovania alebo špeciálnom podielovom fonde nehnuteľností do iných podielových listov otvorených podielových fondov alebo iných cenných papierov európskych fondov, zahraničných subjektov kolektívneho investovania a podielových listov špeciálnych podielových fondov nehnuteľností.
+
+(2) Hodnota podielových listov otvoreného podielového fondu alebo cenných papierov európskeho fondu a iného zahraničného subjektu kolektívneho investovania podľa § 53 ods. 1 písm. c) a d) alebo podielových listov špeciálneho podielového fondu nehnuteľností nesmie tvoriť viac ako 20 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(3) Celková hodnota cenných papierov uvedených v § 53 ods. 1 písm. d) a i) nesmie tvoriť viac ako 30 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(4) Doplnková dôchodková spoločnosť pri investovaní majetku v doplnkovom dôchodkovom fonde do podielových listov a cenných papierov podľa § 53 ods. 1 písm. c) a d) nesmie platiť z majetku v doplnkovom dôchodkovom fonde, ktorý spravuje, žiadne poplatky ani náklady spojené s vydaním alebo vyplatením podielových listov otvorených podielových fondov alebo cenných papierov zahraničných subjektov kolektívneho investovania, ktoré spravuje správcovská spoločnosť alebo zahraničný subjekt kolektívneho investovania, s ktorým doplnková dôchodková spoločnosť tvorí skupinu s úzkymi väzbami.
+
+(5) Ak doplnkový dôchodkový fond nadobúda podielové listy alebo cenné papiere podľa § 53 ods. 1 písm. c), d) a i), štatút a informačný prospekt doplnkového dôchodkového fondu musí obsahovať informáciu o maximálnej výške poplatkov za správu, ktoré môžu byť účtované tomuto doplnkovému dôchodkovému fondu. Výšku poplatkov podľa prvej vety za príslušný kalendárny rok uvedie doplnková dôchodková spoločnosť v ročnej správe o hospodárení s majetkom v doplnkovom dôchodkovom fonde.
