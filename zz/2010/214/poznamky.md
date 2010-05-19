@@ -1,0 +1,1 @@
+- 1) Nomenklatúra čaká na potvrdenie od ICZN (Medzinárodnej komisie pre zoologickú nomenklatúru).
