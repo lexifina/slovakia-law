@@ -326,6 +326,8 @@ Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej rep
 
 - 20. V § 11 ods. 1 prvá veta znie: „Mestské zastupiteľstvo je zastupiteľským zborom obyvateľov Bratislavy a orgánom samosprávy Bratislavy.“.
 
+- 21. V § 11 ods. 2 sa slová „80 poslancov“ nahrádzajú slovami „45 poslancov“.
+
 - 22. V § 11 odsek 5 znie:
 
 - „(5)
@@ -521,6 +523,36 @@ Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej rep
 - uznášať sa v rozsahu vymedzenom štatútom na veciach podľa § 7a ods. 2 a § 7b ods. 2.“.
 
 - 33. V § 15 ods. 3 sa slová „orgánom hlavného mesta“ nahrádzajú slovami „mestským orgánom“.
+
+- 34. V § 16 odseky 2 a 3 znejú:
+
+- „(2)
+
+- Miestne zastupiteľstvo určí počet poslancov miestneho zastupiteľstva tak, aby v mestskej časti s počtom obyvateľov
+
+- a)
+
+- menej ako 2 000 malo päť až sedem poslancov,
+
+- b)
+
+- od 2001 do 10 000 malo sedem až deväť poslancov,
+
+- c)
+
+- od 10 001 do 30 000 malo deväť až 15 poslancov,
+
+- d)
+
+- od 30 001 do 100 000 malo 15 až 25 poslancov a
+
+- e)
+
+- nad 100 000 malo 25 až 35 poslancov.
+
+- (3)
+
+- Na určenie počtu poslancov podľa odseku 2 je rozhodujúci počet obyvateľov v prvý deň kalendárneho roku, v ktorom sa vyhlásia voľby do orgánov samosprávy obcí.“.
 
 - 35. V § 17 ods. 5 sa na konci pripája táto veta: „Ak ide o mestskú časť s viac ako 40 000 obyvateľmi, miestne zastupiteľstvo môže zvoliť dvoch zástupcov starostu.“.
 
