@@ -28,10 +28,10 @@ Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA | 113 - Stavebníctvo |
 
-- 19. 20. 21. 22. 23. 24. 25. 26. 27. | Murárstvo Tesárstvo Pokrývačstvo Klampiarstvo Izolatérstvo Vodoinštalatérstvo a kúrenárstvo Inštalácia a opravy chladiarenských zariadení Podlahárstvo Montáž, rekonštrukcia a údržba vyhradených technických zariadení | I I I I I I I I I
+- 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. | Murárstvo Tesárstvo Pokrývačstvo Klampiarstvo Izolatérstvo Strechár Vodoinštalatérstvo a kúrenárstvo Inštalácia a opravy chladiarenských zariadení Podlahárstvo Montáž, rekonštrukcia a údržba vyhradených technických zariadení | I I I I I I I I I
 
-- 28. | Kachliarstvo | I
+- 29. | Kachliarstvo | I
 
 - SKUPINA | 114 - Ostatné |
 
-- 29. 30. 31. 32. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál pre výdajne Čistenie a kontrola komínov | I III III III
+- 30. 31. 32. 33. 34. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál pre výdajne Čistenie a kontrola komínov Manikúra – pedikúra | I III III III

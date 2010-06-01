@@ -1,15 +1,15 @@
 # § 45a Iné údaje k ohláseniu
 
-(1) Fyzická osoba a právnická osoba uvedie zároveň s ohlásením živnosti tiež údaje potrebné na vyžiadanie výpisu z registra trestov, ktorými sú okres narodenia, meno a priezvisko otca, meno, priezvisko a rodné priezvisko matky, pri zmene mena a zmene priezviska aj pôvodné meno alebo pôvodné priezvisko osôb slovenskej štátnej príslušnosti, na ktoré sa podľa tohto zákona vzťahuje podmienka bezúhonnosti.
+(1) Fyzická osoba a právnická osoba uvedie zároveň s ohlásením živnosti tiež údaje potrebné na vyžiadanie výpisu z registra trestov, ktorými sú miesto a okres narodenia, meno a priezvisko otca, meno, priezvisko a rodné priezvisko matky, pri zmene mena a zmene priezviska aj pôvodné meno alebo pôvodné priezvisko osôb majúcich štátnu príslušnosť niektorého členského štátu Európskej únie, na ktoré sa podľa tohto zákona vzťahuje podmienka bezúhonnosti. To neplatí v prípade predloženia výpisu z registra trestov podľa § 66f.
 
-(2) Fyzická osoba a právnická osoba môže zároveň s ohlásením živnosti uviesť tiež údaje vyžadované podľa osobitných zákonov<sup>36d</sup>) na
+(2) Fyzická osoba, ktorá nie je registrovaná u správcu dane, ktorým je daňový úrad, zároveň s ohlásením živnosti uvedie aj údaje na splnenie registračnej povinnosti a oznamovacej povinnosti vyžadované podľa osobitného zákona.<sup>36d</sup>) Právnická osoba, ktorá nie je registrovaná u správcu dane, ktorým je daňový úrad, zároveň s ohlásením živnosti môže uviesť aj údaje na splnenie registračnej povinnosti a oznamovacej povinnosti vyžadované podľa osobitného zákona.<sup>36d</sup>)
 
-- a) splnenie daňovej registrácie k dani z príjmov a oznamovacej povinnosti,
+(3) Fyzická osoba, ktorá ešte nie je v systéme povinného zdravotného poistenia prihlásená, zároveň s ohlásením živnosti uvedie tiež údaje vyžadované podľa osobitného zákona<sup>36e</sup>) na prihlásenie sa do systému povinného zdravotného poistenia.
 
-- b) prihlásenie sa do systému povinného zdravotného poistenia.
-
-(3) Fyzická osoba, ktorá je v systéme povinného zdravotného poistenia prihlásená, zároveň s ohlásením živnosti
+(4) Fyzická osoba, ktorá je v systéme povinného zdravotného poistenia prihlásená, zároveň s ohlásením živnosti
 
 - a) uvedie obchodné meno poisťovne, v ktorej je prihlásená,
 
-- b) môže oznámiť zmenu platiteľa poistného.
+- b) oznámi zmenu platiteľa poistného, ak jej to vyplýva z osobitného zákona.
+
+(5) Osoby, ktoré sa povinne zapisujú do obchodného registra,<sup>36f</sup>) môžu zároveň s ohlásením živnosti uviesť aj údaje a predložiť doklady vyžadované podľa osobitného zákona<sup>36g</sup>) pre návrh na zápis údajov do obchodného registra.<sup>36h</sup>)

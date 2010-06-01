@@ -16,7 +16,7 @@
 
 (3) Ministerstvo vnútra Slovenskej republiky zašle alebo sprístupní ďalším orgánom údaje registra za podmienok ustanovených osobitným zákonom. Zaslanie alebo sprístupnenie údajov registra elektronickou formou sa považuje za ich písomné oznámenie.
 
-(4) V prípade požiadavky fyzickej osoby alebo právnickej osoby na daňovú registráciu alebo na prihlásenie sa do systému povinného zdravotného poistenia podľa osobitných predpisov sú údaje registra vyžadované na ten účel bezodkladne po vzniku živnostenského oprávnenia zasielané jednotným automatizovaným informačným systémom v živnostenskom podnikaní elektronickou formou daňovému informačnému systému alebo informačnému systému príslušnej zdravotnej poisťovne. Daňovému informačnému systému a informačnému systému príslušnej zdravotnej poisťovne sa bezodkladne zasielajú aj zmeny údajov registra oznámené podľa § 49 a 56.
+(4) Údaje vyžadované na daňovú registráciu alebo na prihlásenie sa do systému povinného zdravotného poistenia podľa osobitných predpisov sú bezodkladne po vzniku živnostenského oprávnenia zasielané informačným systémom živnostenského podnikania v elektronickej podobe na adresu elektronickej podateľne spoločnej pre daňové úrady alebo informačnému systému príslušnej zdravotnej poisťovne. Na adresu elektronickej podateľne spoločnej pre daňové úrady a informačnému systému príslušnej zdravotnej poisťovni sa bezodkladne zasielajú aj zmeny údajov z registra oznámené podľa § 49.
 
 (5) Údaje registra určené na zabezpečenie výpisu z registra trestov živnostenský úrad bezodkladne zašle elektronickou formou Registru trestov Generálnej prokuratúry Slovenskej republiky.
 
