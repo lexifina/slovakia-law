@@ -38,6 +38,8 @@
 
 - 14) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
+- 14a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 1) Rozhodnutie Rady 2002/358/EHS z 25. apríla 2002, ktoré sa týka schválenia Kjótskeho protokolu k Rámcovému dohovoru Organizácie Spojených národov o klimatických zmenách a spoločnom plnení záväzkov z neho vyplývajúcich v mene Európskeho spoločenstva (Ú. v. ES L 130, 15. 05. 2002).
 
 - 2) Rozhodnutie Rady 93/389/EHS z 24. júna 1993 o monitorovacom mechanizme v spoločenstve pre CO<sub>2</sub>a iné plynné emisie v atmosfére (Ú. v. ES L 167, 09. 07. 1993) v znení rozhodnutia Rady z 26. apríla 1999, ktorým sa mení a dopĺňa rozhodnutie 93/389/EHS týkajúce sa mechanizmu monitorovania v spoločenstve emisií CO<sub>2</sub> a iných skleníkových efektov (Ú. v. ES 1999/296/ES L 117, 05. 05. 1999).
