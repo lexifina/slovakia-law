@@ -730,30 +730,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - III. ČASŤ PÔDOHOSPODÁRSTVO
 
-    - Položka 37
-
-  - a) Vydanie poľovného lístka pre štátneho občana Slovenskej republiky, občana iného členského štátu Európskej únie a cudzinca, ktorý má na území Slovenskej republiky povolený trvalý pobyt |
-
-  - 1. ročný........................................................................................................................................................... | 3 eurá
-
-  - 2. päťročný..................................................................................................................................................... | 16,50 eura
-
-  - b) Vydanie poľovného lístka cudzincovi .................................................................................................... |
-
-  - 1. ročný........................................................................................................................................................... | 165,50 eura
-
-  - 2. na jeden mesiac ..................................................................................................................................... | 49,50 eura
-
-  - 3. na jeden týždeň ..................................................................................................................................... | 13 eur
-
-  - c) Predĺženie platnosti poľovného lístka podľa písmena a) ................................................................. |
-
-  - 1. ročný........................................................................................................................................................... | 1,50 eura
-
-  - 2. päťročný..................................................................................................................................................... | 9,50 eura
-
-  - Oslobodenie 1. Od poplatku podľa tejto položky sú oslobodení žiaci a študenti stredných a odborných škôl a vysokých škôl s výučbou lesníctva a poľovníctva, poľovníci z povolania, lesníci a poľovníci z povolania, ktorí majú v pracovnej náplni aktívne vykonávanie poľovníctva, zamestnanci štátnej správy lesného hospodárstva a poľovníctva, zamestnanci Slovenského poľovníckeho zväzu, poľovnícki hospodári a osoby určené ako poľovnícka stráž po predložení potvrdenia školy alebo potvrdenia o výkone funkcie alebo povolania, členovia lesnej stráže, ak túto pracovnú činnosť vykonávajú v súvislosti s plnením pracovných povinností, a členovia lesnej stráže-dôchodcovia, ak túto pracovnú činnosť v posledných piatich rokoch vykonávali ako pracovnú povinnosť. 2. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom prezidenta Slovenskej republiky, Národnej rady Slovenskej republiky a vlády Slovenskej republiky. |
-
     - Položka 38
 
   - Vydanie rybárskeho lístka |
@@ -1088,6 +1064,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. na dobu dlhšiu ako jeden rok | 100 eur.
 
+    - Oslobodenie:
+
+    - Od poplatku podľa tejto položky je oslobodené povolenie výnimky na používanie ciest I. triedy pre traktory a pracovné stroje
+
+    - samohybné povinne opatrené tabuľkou s evidenčným číslom.
+
     - Položka 65
 
   - a) Zápis prvého držiteľa motorového vozidla alebo prípojného vozidla do evidencie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov | 33 eur
@@ -1216,15 +1198,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 68a
 
-  - a) Vydanie osvedčenia o evidencii alebo technického osvedčenia vozidla správnym orgánom........................................................................................................................... | 5 eur
+  - a) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla, ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka............... | 6 eur
 
-  - b) Vydanie osvedčenia o evidencii alebo technického osvedčenia vozidla správnym orgánom ako náhrada za zničené, stratené, odcudzené alebo poškodené osvedčenie o evidencii alebo technické osvedčenie vozidla............................................................. | 20 eur
+  - b) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla za zničené, stratené, odcudzené alebo poškodené osvedčenie........... | 10 eur
 
-  - c) Vydanie osvedčenia o evidencii alebo technického osvedčenia vozidla správnym orgánom ako náhrada za zničené, stratené, odcudzené alebo poškodené osvedčenie o evidencii alebo technické osvedčenie vozidla, opakovane v priebehu dvoch po sebe nasledujúcich rokov................ | 40 eur
+  - c) | Vykonanie zmeny alebo zmien v osvedčení o evidencii časti I alebo časti II alebo v technickom osvedčení vozidla............... | 6 eur
 
-  - d) Vykonanie zmeny alebo zmien v osvedčení o evidencii alebo v technickom osvedčení vozidla................. | 5 eur
+  - d) | Podanie žiadosti výrobcu alebo zástupcu výrobcu o vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, a to za každý duplikát osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, o ktorý žiada............. | 5 eur
 
-  - e) Podanie žiadosti výrobcu alebo zástupcu výrobcu o vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii alebo technického osvedčenia vozidla............. | 5 eur.
+  - e) | Vydanie osvedčenia o evidencii časti I urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka........... | 24 eur
 
     - Položka 69a
 
@@ -1402,19 +1384,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 76
 
-  - a) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku ..... | 16,5 eur |
+  - a) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku | | 16,5 eur
 
-  - b) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku ..... | 16,50 eura |
+  - b) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku | | 16,50 eura
 
-  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku ..... | 33 eur |
+  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku | | 33 eur
 
-  - d) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku ..... | 165,5 eur |
+  - d) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku | | 165,5 eur
 
-  - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla ..... | 182 eur |
+  - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla | | 182 eur
 
-  - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov ..... | 66 eur |
+  - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | | 66 eur
 
-  - Poznámky Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. |
+  - Poznámky | |
+
+  - 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. | |
+
+  - 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. | |
 
     - Položka 77
 
@@ -2458,41 +2444,43 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 148
 
-  - a) Vydanie živnostenského listu |
+  - a) Vydanie osvedčenia o živnostenskom oprávnení |
 
-  - 1. na voľnú živnosť ..... | 3 eurá
+  - 1. na každú voľnú živnosť ..... | 5 eur
 
-  - 2. na remeselnú živnosť alebo viazanú živnosť ..... | 16,50 eura
+  - 2. na každú remeselnú živnosť alebo každú viazanú živnosť ..... | 15 eur
 
-  - b) Vydanie koncesnej listiny ..... | 33 eur
+  - b) Výpis z verejnej časti živnostenského registra za jedného podnikateľa ..... | 3 eurá
 
-  - c) Výpis zo živnostenského registra za jedného podnikateľa ..... | 3 eurá
+  - c) Vydanie prehľadu údajov zapísaných v živnostenskom registri ..... | 3 eurá
 
-  - d) Vydanie náhradného živnostenského listu alebo koncesnej listiny náhradou za stratený, zničený, poškodený alebo odcudzený živnostenský list alebo koncesnú listinu ..... | 3 eurá
+  - d) Vydanie náhradného osvedčenia o živnostenskom oprávnení náhradou za stratené, zničené, poškodené alebo odcudzené osvedčenie o živnostenskom oprávnení ..... | 6 eur
 
-  - e) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ..... | 6,50 eura
+  - e) Vydanie povolenia na vykonávanie funkcie zodpovedného zástupcu vo viac ako jednej prevádzkarni ..... | 6 eur
 
-  - f) Za vykonanie zmien v živnostenskom liste a zmien v koncesnej listine ..... | 3 eurá
+  - f) Za vykonanie zmien v osvedčení o živnostenskom oprávnení ..... | 3 eurá
 
-  - g) Vydanie rozhodnutia o zrušení živnostenského oprávnenia na jednu alebo viac živností ..... | 4,50 eura
+  - g) Oznámenie o pozastavení prevádzkovania živnosti alebo o zmene doby pozastavenia prevádzkovania živnosti ..... | 4 eurá
 
-  - h) Pozastavenie prevádzkovania živnosti alebo zmena pozastavenia prevádzkovania živnosti ..... | 6,50 eura
+  - h) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ..... | 6 eur
 
-  - i) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ..... | 6,50 eura
+  - i) Vydanie osvedčenia o splnení podmienok odbornej praxe ..... | 6 eur
 
-  - j) Vydanie osvedčenia o splnení podmienok odbornej praxe ..... | 6,50 eura
+  - j) Vydanie rozhodnutia o uznaní odbornej praxe ..... | 20 eur
 
-  - k) Vydanie rozhodnutia o uznaní odbornej praxe ..... | 16,50 eura
+  - k) Vydanie rozhodnutia o uznaní odbornej kvalifikácie občana členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou dohody o Európskom hospodárskom priestore, a Švajčiarskej konfederácie na účely prevádzkovania živnosti v Slovenskej republike ..... | 100 eur
 
-  - l) Vydanie rozhodnutia o uznaní odbornej kvalifikácie občana členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou dohody o Európskom hospodárskom priestore, a Švajčiarskej konfederácie na účely prevádzkovania živnosti v Slovenskej republike ..... | 99,50 eura
+  - l) Vydanie potvrdenia o tom, že v živnostenskom registri nie je zápis ..... | 3 eurá
 
-  - m) Vydanie potvrdenia o tom, že v živnostenskom registri nie je zápis ..... | 3 eurá
+  - m) Za prevod listinných dokumentov do elektronickej podoby za každých začatých 15 strán ..... | 5 eur
+
+  - n) Za prevzatie údajov a dokladov, ktoré sú náležitosťou žiadosti o oprávnenie na podnikanie na základe iného ako živnostenského oprávnenia podľa osobitných zákonov ..... | 10 eur
 
     - Poznámky
 
-    - 1. Na poplatok podľa písmena f) nemá vplyv počet živnostenských listov a počet koncesných listín, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien.
+    - 1. Na poplatok podľa písmena f) nemá vplyv počet osvedčení o živnostenskom oprávnení, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien.
 
-    - 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie
+    - 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie.
 
     - Položka 149
 

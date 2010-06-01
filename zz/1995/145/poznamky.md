@@ -98,7 +98,7 @@
 
 - 19) § 72 ods. 2 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
-- 19a) § 41 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení zákona č. 510/2003 Z. z.
+- 19a) § 44 ods. 4 a 5 zákona č. 8/2009 Z. z.
 
 - 20) § 15 ods. 4 zákona č. 596/2003 o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
