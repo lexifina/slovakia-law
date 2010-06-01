@@ -4,6 +4,12 @@
 
 - 4) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
+- 4a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- 4b) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 5) Zákon č. 488/2002 Z. z. v znení neskorších predpisov.
 
 - 6) § 12 zákona č. 488/2002 Z. z. v znení zákona č. 472/2003 Z. z.
@@ -39,3 +45,5 @@
 - 20) § 26 zákona č. 293/2007 Z. z.
 
 - 21) § 27 zákona č. 293/2007 Z. z.
+
+- 22) § 3 až 8 a § 10 až § 16 zákona č. 136/2010 Z. z.
