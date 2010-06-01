@@ -20,6 +20,10 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - 4. V poznámke pod čiarou k odkazu 14 sa citácia „§ 11 zákona č. 163/2001 Z. z. v znení zákona č. 434/2004 Z. z.“ nahrádza citáciou „Čl. 10 písm. a) bod (ix) nariadenia (ES) č. 1907/2006 v platnom znení.“.
 
+- 6. V poznámke pod čiarou k odkazu 15 sa citácia „Príloha č. 5 výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch (oznámenie č. 384/2002 Z. z.) v znení výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2005 (oznámenie č. 214/2005 Z. z.).“ nahrádza citáciou „Nariadenie Komisie (ES) č. 440/2008 z 30. mája 2008, ktorým sa ustanovujú testovacie metódy podľa nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) (Ú. v. EÚ L 142, 31. 5. 2008) v znení nariadenia Komisie (ES) č. 761/2009 z 23. júla 2009 (Ú. v. EÚ L 220, 30. 8. 2009).“.
+
+- 8. Slovo „prípravok“ vo všetkých tvaroch sa v celom texte nariadenia vlády nahrádza slovom „zmes“ v príslušnom tvare.
+
 - 9. V prílohe č. 3 časti 1 sa dopĺňajú referenčné čísla 189 až 205, ktoré znejú:
 
 - Ref. číslo | Látka | Obmedzenia | | | Iné obmedzenia a požiadavky
@@ -67,6 +71,18 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 - 10. V prílohe č. 3 časti 2 sa vypúšťajú referenčné čísla 7, 9, 14, 18, 24, 28, 47 a 58.
 
 - 11. V prílohe č. 3 časti 2 v referenčnom čísle 55 v stĺpcoch c a d sa vypúšťa písmeno b).
+
+- 12. V prílohe č. 11 prvý bod znie:
+
+- „1.
+
+- Táto príloha uvádza zoznam alternatívnych metód validovaných Európskym centrom pre validáciu alternatívnych metód (ECVAM) Spoločného výskumného centra, ktoré sú na splnenie požiadaviek tohto nariadenia vlády k dispozícii a ktoré nie sú uvedené v osobitnom predpise.<sup>1</sup>)“.
+
+- Poznámka pod čiarou k odkazu1 znie:
+
+- „1)
+
+- Nariadenie (ES) č. 440/2008 v znení nariadenia Komisie (ES) č. 761/2009.“.
 
 - 13. Príloha č. 17 sa dopĺňa bodmi 64 a 65, ktoré znejú:
 
