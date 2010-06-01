@@ -136,9 +136,9 @@
 
 - 10b) § 5 a 6 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
 
-- 10ba) § 66ba ods. 3 písm. b) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+- 10ba) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 10bb) § 49 ods. 1 a § 56 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+- 10bb) § 49 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 10c) § 90 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
