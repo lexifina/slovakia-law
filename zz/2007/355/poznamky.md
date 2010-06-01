@@ -168,6 +168,8 @@
 
 - 68) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 68a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 69) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 70) Napríklad § 53 ods. 1 písm. e) zákona č. 312/2001 Z. z.
