@@ -40,13 +40,13 @@
 
 - Príloha č. 1 nariadenia (ES) č. 451/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 13) v platnom znení.
 
-- 12) Príloha č. 5 časť B – metóda B.5 výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 z 27. marca 2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch (oznámenie č. 384/2002 Z. z.).
+- 12) § 14 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení neskorších predpisov.
 
 - *) ISO – International Organisation for Standardisation (Medzinárodná organizácia pre normalizáciu).
 
 - **) IUPAC – International Union of Pure and Applied Chemistry (Medzinárodná organizácia pre teoretickú a aplikovanú chémiu).
 
-- 13) § 3 ods. 4, § 4 ods. 8, § 6 ods. 7, § 7 ods. 4, § 8 ods. 10, § 14 ods. 4, § 23 ods. 4, § 24 ods. 8, § 25 ods. 9 a § 26 ods. 12 zákona č. 163/2001 Z. z. v znení neskorších predpisov.
+- 13) § 11 až 13 zákona č. 193/2005 Z. z. v znení neskorších predpisov.
 
 - 14) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

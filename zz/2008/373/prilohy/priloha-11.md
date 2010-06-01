@@ -265,3 +265,21 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 22. Smernica Komisie 2009/160/EÚ zo 17. decembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 2-fenylfenol medzi účinné látky (Ú. v. EÚ L 338, 19. 12. 2009).
 
 - 23. Smernica Komisie 2010/2/EÚ z 27. januára 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky chlórmekvát (Ú. v. EÚ L 24, 28. 1. 2010).
+
+- 24. Smernica Komisie 2010/14/EÚ z 3. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť heptamaloxyloglukán medzi účinné látky (Ú. v. EÚ L 53, 4. 3. 2010),
+
+- 25. Smernica Komisie 2010/15/EÚ z 8. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fluopikolid medzi účinné látky (Ú. v. EÚ L 58, 9. 3. 2010),
+
+- 26. Smernica Komisie 2010/17/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť malatión medzi účinné látky (Ú. v. EÚ L 60, 10. 3. 2010),
+
+- 27. Smernica Komisie 2010/20/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS na účely vyradenia tolylfluanidu ako účinnej látky a odňatia povolení na prípravky na ochranu rastlín obsahujúce uvedenú látku (Ú. v. EÚ L 60, 10. 3. 2010),
+
+- 28. Smernica Komisie 2010/21/EÚ z 12. marca 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia týkajúce sa klotianidínu, thiamethoxamu, fipronilu a imidaklopridu (Ú. v. EÚ L 65, 13. 3. 2010),
+
+- 29. Smernica Komisie 2010/25/EÚ z 18. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť penoxsulam, prochinazid a spirodiklofén medzi účinné látky (Ú. v. EÚ L 69, 19. 3. 2010),
+
+- 30. Smernica Komisie 2010/27/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť triflumizol ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
+
+- 31. Smernica Komisie 2010/28/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metalaxyl ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
+
+- 32. Smernica Komisie 2010/29/EÚ z 27. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flonikamid (IKI-220) medzi účinné látky (Ú. v. EÚ L 106, 28. 4. 2010).
