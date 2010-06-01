@@ -92,4 +92,6 @@
 
 - 32) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 32a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 33) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z. , ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
