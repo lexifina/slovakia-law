@@ -176,9 +176,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - 3. fyzickej osoby podnikateľa | 165,50 eura
 
-- 4. organizačnej zložky právnickej osoby | 331,50 eura
+- 4. organizačnej zložky podniku právnickej osoby vrátane podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby | 331,50 eura
 
-- 5. organizačnej zložky fyzickej osoby podnikateľa | 33 eur
+- 5. organizačnej zložky podniku fyzickej osoby podnikateľa vrátane podniku alebo organizačnej zložky podniku zahraničnej fyzickej osoby | 33 eur
 
 - b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 331,50 eura
 
