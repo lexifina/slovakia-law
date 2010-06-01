@@ -2,7 +2,7 @@
 
 (1) Dlžníkovi zo zmluvy o hypotekárnom úvere (§ 75 ods. 4) poskytnutom na účely podľa § 68 písm. a) až c), ktorým je fyzická osoba, ktorá ku dňu podania žiadosti o hypotekárny úver dovŕšila 18 rokov a neprekročila 35 rokov veku (ďalej len „mladý poberateľ hypotekárneho úveru"), patrí za podmienok ustanovených týmto zákonom príspevok pre mladých z prostriedkov štátneho rozpočtu (ďalej len „štátny príspevok pre mladých"). Ak sú mladými poberateľmi hypotekárneho úveru manželia, musí požiadavku na vek podľa prvej vety spĺňať každá z týchto osôb.
 
-(2) Štátnym príspevkom pre mladých sa rozumie percento, o ktoré štát znižuje výšku úrokovej sadzby určenú v zmluve o hypotekárnom úvere. Štátny príspevok pre mladých sa určuje každoročne zákonom o štátnom rozpočte na príslušný rozpočtový rok a v tom roku platí pre všetky zmluvy o hypotekárnom úvere uzatvorené za podmienok podľa odsekov 1 a 3. Štátna prémia sa zaokrúhľuje na celé eurocenty nahor.
+(2) Štátnym príspevkom pre mladých sa rozumie percento, o ktoré štát znižuje výšku úrokovej sadzby určenú v zmluve o hypotekárnom úvere. Štátny príspevok pre mladých sa určuje každoročne zákonom o štátnom rozpočte na príslušný rozpočtový rok a v tom roku platí pre všetky zmluvy o hypotekárnom úvere uzatvorené za podmienok podľa odsekov 1 a 3. Štátny príspevok pre mladých sa zaokrúhľuje na celé eurocenty nahor.
 
 (3) Mladému poberateľovi hypotekárneho úveru sa štátny príspevok pre mladých poskytne, ak
 

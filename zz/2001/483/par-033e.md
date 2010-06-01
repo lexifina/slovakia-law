@@ -56,7 +56,7 @@
 
 - d) zabezpečí, aby súčet všetkých prekročení neprekračoval 600 % jej vlastných zdrojov, ak uplynulo viac než 10 dní odo dňa týchto prekročení a
 
-- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za uplynulý štvrťrok; predmetom hlásenia sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo.
+- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za uplynulý štvrťrok, ktorého predmetom sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo; v takom prípade sa odsek 3 nepoužije.
 
 (5) Banka je na účel obmedzenia vzniku neprimerane vysokých rizík povinná dodržiavať ustanovené pomery majetkovej angažovanosti banky k jej vlastným zdrojom, prípadne k aktívam alebo skupinám aktív vo vzťahu k
 

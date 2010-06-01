@@ -18,7 +18,7 @@
 
 - a) povoľuje banke používať alternatívny ukazovateľ na určenie jej požiadavky na vlastné zdroje na operačné riziko podľa štandardizovaného prístupu pre operačné riziko v prípade určitých obchodných línií,
 
-- b) schvaľuje použitie príslušných modelov na výpočet požiadavky na vlastné zdroje pri pokročilom prístupe merania,
+- b) schvaľuje použitie a zmenu príslušných modelov na výpočet požiadaviek na vlastné zdroje pri pokročilom prístupe merania,
 
 - c) povoľuje využitie vzájomnej závislosti medzi stratami z operačného rizika medzi jednotlivými odhadmi operačného rizika,
 

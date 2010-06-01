@@ -18,7 +18,9 @@
 
 - g) výšku úrokovej sadzby dohodnutej v zmluve o mladomanželskom úvere,
 
-- h) výšku štátneho príspevku pre mladomanželov v eurách.
+- h) obdobie preradenia pohľadávky z mladomanželského úveru podľa § 88b ods. 4,
+
+- i) výšku štátneho príspevku pre mladomanželov v eurách.
 
 (3) Štátny dozor nad dodržiavaním podmienok poskytovania štátneho príspevku pre mladomanželov vykonáva ministerstvo. Ministerstvo je oprávnené požadovať od banky a pobočky zahraničnej banky všetky podklady na kontrolu dodržiavania podmienok poskytovania štátneho príspevku pre mladomanželov. Na výkon tohto štátneho dozoru sa primerane použijú ustanovenia osobitného predpisu.<sup>72</sup>)
 

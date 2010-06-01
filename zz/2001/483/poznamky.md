@@ -34,6 +34,8 @@
 
 - 13b) § 25 až 32 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
+- 13c) § 708 Obchodného zákonníka.
+
 - 14) Občiansky súdny poriadok.
 
 - Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
@@ -99,6 +101,10 @@
 - 27d) § 21ods. 3 písm. a) zákona č. 186/2009 Z. z.
 
 - 27e) § 22 zákona č. 186/2009 Z. z.
+
+- 27f) § 52 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
+
+- 27g) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 28) § 476 až 488 Obchodného zákonníka.
 
@@ -311,6 +317,8 @@
 - 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
 
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
+
+- 87c) § 8 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
 - 88) Zákon č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
 
