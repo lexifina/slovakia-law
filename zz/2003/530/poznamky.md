@@ -24,6 +24,16 @@
 
 - 6c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 25/2004 Z. z., ktorou sa ustanovujú vzory tlačív na podávanie návrhov na zápis do obchodného registra a zoznam listín, ktoré je potrebné k návrhu na zápis priložiť v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 563/2004 Z. z.
 
+- 6ca) § 11 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov,
+
+- § 66b zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 6cb) § 66ba ods. 6 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 6cc) § 66a písm. a) zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 6cd) § 11a zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov v znení neskorších predpisov.
+
 - 6d) Napríklad § 768e Obchodného zákonníka, § 9 ods. 5 a § 10 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, poznámka 5 k položke 17 v prílohe zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 7) § 78 ods. 1 Obchodného zákonníka.
@@ -85,6 +95,8 @@
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
 - 17a) § 99 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 17b) § 11 zákona č. 136/2010 Z. z.
 
 - 18) § 3a, § 9 ods. 4 a § 21 ods. 7 až 9 Obchodného zákonníka.
 
