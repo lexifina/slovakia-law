@@ -68,6 +68,8 @@
 
 - 14) Napríklad zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov, zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 14a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
+
 - 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
@@ -212,7 +214,13 @@
 
 - 36d) § 31 ods. 1 a 3 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 36e) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36f) § 27 ods. 2 Obchodného zákonníka.
+
+- 36g) § 6 ods. 1 písm. b) a c) a § 6 ods. 2 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
+
+- 36h) § 5, § 5b a nasl. a § 15d ods. 3 zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
@@ -228,17 +236,19 @@
 
 - 38) Druhá časť a tretia časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 39) Nariadenie vlády ČSFR č. 258/1990 Zb. o určení najnižšej mesačnej mzdy na účely Trestného zákona.
+- 39) § 2 písm. a) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
 - 40) § 118 Trestného zákona.
 
 - 41a) § 5 zákona č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
 
-- 41ab) Napríklad § 10 ods. 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 41ab) Napríklad zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 126/1998 Z. z. o Slovenskej živnostenskej komore a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41ac) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 7 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 41ae) § 15d ods. 3 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2010 Z. z.
 
 - 41b) Zmluva medzi Belgickým kráľovstvom, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Írskom, Talianskou republikou, Luxemburským veľkovojvodstvom, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Fínskou republikou, Švédskym kráľovstvom, Spojeným kráľovstvom Veľkej Británie a Severného Írska (členskými štátmi Európskej únie) a Českou republikou, Estónskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Maďarskou republikou, Maltskou republikou, Poľskou republikou, Slovinskou republikou, Slovenskou republikou o pristúpení Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky k Európskej únii.
 
@@ -267,5 +277,7 @@
 - 46) § 13 ods. 1 písm. c) zákona č. 477/2002 Z. z.
 
 - 47) § 352 až 354 Občianskeho súdneho poriadku č. 99/1963 Zb.
+
+- 47a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
 - 48) § 2 ods. 2 písm. c) Obchodného zákonníka.

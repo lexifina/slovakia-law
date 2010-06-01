@@ -1,6 +1,6 @@
 # § 66h Uznávanie odbornej praxe
 
-(1) Konanie o uznaní odbornej praxe sa začína dňom doručenia žiadosti o uznanie odbornej praxe na vykonávanie živnosti zaradenej v prílohách č. 1 až 3 do zoznamov I až III Ministerstvu vnútra Slovenskej republiky. Žiadosť musí byť doložená dokladom o štátnej príslušnosti žiadateľa a osvedčením o charaktere a dĺžke činnosti vydaným príslušným úradom alebo orgánom členského štátu, a ak to tento zákon ustanovuje, aj dokladmi o vzdelaní.<sup>42a</sup>) Doklady musia byť predložené spolu s úradne overeným prekladom do štátneho jazyka.
+(1) Konanie o uznaní odbornej praxe sa začína dňom doručenia žiadosti o uznanie odbornej praxe na vykonávanie živnosti zaradenej v prílohách č. 1 a 2 do zoznamov I až III Ministerstvu vnútra Slovenskej republiky. Žiadosť musí byť doložená dokladom o štátnej príslušnosti žiadateľa a osvedčením o charaktere a dĺžke činnosti vydaným príslušným úradom alebo orgánom členského štátu, a ak to tento zákon ustanovuje, aj dokladmi o vzdelaní.<sup>42a</sup>) Doklady musia byť predložené spolu s úradne overeným prekladom do štátneho jazyka.
 
 (2) Odborná prax nadobudnutá na území Slovenskej republiky sa preukazuje dokladmi o skutočnom a zákonnom vykonávaní príslušnej odbornej činnosti.
 

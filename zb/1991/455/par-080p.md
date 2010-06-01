@@ -1,0 +1,7 @@
+# § 80p Prechodné ustanovenia k úpravám účinným od 1. júna 2010
+
+(1) Živnostenské oprávnenia, ktoré umožňovali vykonávanie činnosti ratingových agentúr, v tomto rozsahu dňom 7. júna 2010 zanikajú.
+
+(2) Právnická osoba, ktorá je na základe živnostenského oprávnenia platného k 6. júnu 2010 držiteľom oprávnenia na vykonávanie činností upravených v osobitnom predpise o ratingových agentúrach,<sup>14a</sup>) ktoré od 7. júna 2010 už nie sú živnosťou, je oprávnená tieto činnosti vykonávať až do právoplatnosti rozhodnutia o žiadosti tejto právnickej osoby o registráciu podľa osobitného predpisu o ratingových agentúrach,<sup>49</sup>) ak táto právnická osoba podá žiadosť o registráciu v lehote ustanovenej v osobitnom predpise o ratingových agentúrach.<sup>49</sup>) Ak právnická osoba nepodá žiadosť o registráciu v lehote ustanovenej v osobitnom predpise o ratingových agentúrach,<sup>49</sup>) oprávnenie na vykonávanie činností upravených v osobitnom predpise o ratingových agentúrach<sup>14a</sup>) jej zaniká uplynutím lehoty na podanie žiadosti o registráciu podľa osobitného predpisu o ratingových agentúrach.<sup>49</sup>)
+
+(3) Fyzickej osobe, ktorá je na základe živnosti platnej k 6. júnu 2010 držiteľom oprávnenia na vykonávanie činností upravených v osobitnom predpise o ratingových agentúrach,<sup>14a</sup>) ktoré od 7. júna 2010 už nie sú živnosťou, zaniká dňom 7. septembra 2010 oprávnenie na vykonávanie činností upravených v osobitnom predpise o ratingových agentúrach.<sup>14a</sup>)
