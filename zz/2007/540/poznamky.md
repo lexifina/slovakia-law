@@ -20,6 +20,14 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 10a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- 10b) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 136/2010 Z. z.
+
+- 10c) § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 11) § 3 ods. 1 zákona č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 209/2007 Z. z.
 
 - 12) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -83,3 +91,5 @@
 - 40) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 41) § 20 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 42) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
