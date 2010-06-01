@@ -1,6 +1,6 @@
 # § 41a Náležitosti žiadosti a povolenia
 
-(1) Žiadosť o vydanie povolenia na vykonávanie medzinárodnej nepravidelnej autobusovej dopravy, medzinárodnej nákladnej cestnej dopravy alebo medzinárodnej taxislužby, ak ide o právnickú osobu, musí obsahovať
+(1) Žiadosť o vydanie povolenia na vykonávanie nepravidelnej autobusovej dopravy, nákladnej cestnej dopravy alebo taxislužby, ak ide o právnickú osobu, musí obsahovať
 
 - a) obchodné meno, sídlo, právnu formu, ako aj meno, priezvisko a trvalý pobyt osoby alebo osôb, ktoré sú jej štatutárnym orgánom, identifikačné číslo, ak bolo pridelené,
 
@@ -8,9 +8,9 @@
 
 - c) počet a druh vozidiel, ktorými sa má doprava vykonávať,
 
-- d) doklady, ktoré umožnia správnemu orgánu posúdiť bezúhonnosť (§ 2), odbornú spôsobilosť zodpovedného zástupcu (§ 3) a finančnú spoľahlivosť žiadateľa (§ 3a), bezpečnosť a prevádzkyschopnosť dopravných prostriedkov.
+- d) doklady, ktoré umožnia správnemu orgánu posúdiť bezúhonnosť (§ 2), odbornú spôsobilosť zodpovedného zástupcu (§ 3) a finančnú spoľahlivosť žiadateľa (§ 3a).
 
-(2) Žiadosť o vydanie povolenia na vykonávanie medzinárodnej nepravidelnej autobusovej dopravy, medzinárodnej taxislužby alebo medzinárodnej nákladnej cestnej dopravy, ak ide o fyzickú osobu, musí obsahovať
+(2) Žiadosť o vydanie povolenia na vykonávanie nepravidelnej autobusovej dopravy, taxislužby alebo nákladnej cestnej dopravy, ak ide o fyzickú osobu, musí obsahovať
 
 - a) meno, priezvisko a trvalý pobyt žiadateľa,
 
@@ -20,7 +20,7 @@
 
 - d) druh dopravy, počet a druh vozidiel, ktorými sa má doprava vykonávať,
 
-- e) doklady, ktoré umožnia správnemu orgánu posúdiť bezúhonnosť, odbornú spôsobilosť žiadateľa alebo zodpovedného zástupcu, ak je ustanovený, a finančnú spoľahlivosť žiadateľa, bezpečnosť a prevádzkyschopnosť dopravných prostriedkov.
+- e) doklady, ktoré umožnia správnemu orgánu posúdiť bezúhonnosť, odbornú spôsobilosť žiadateľa alebo zodpovedného zástupcu, ak je ustanovený, a finančnú spoľahlivosť žiadateľa.
 
 (3) Ustanovenia odsekov 1 a 2 sa primerane vzťahujú aj na konanie o zmene a o zrušení povolenia.
 
