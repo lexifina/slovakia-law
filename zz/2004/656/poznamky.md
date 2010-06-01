@@ -24,6 +24,12 @@
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov v znení neskorších predpisov.
 
+- 5a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- 5b) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 6) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 6a) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
@@ -92,7 +98,7 @@
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 21a) Nariadenie vlády Slovenskej republiky č. 246/2006 Z. z.
+- 21a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
 - 22) § 17 až 20 Obchodného zákonníka.
 
