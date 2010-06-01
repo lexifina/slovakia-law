@@ -56,6 +56,14 @@
 
 - 10d) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
+- 10e) § 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 10f) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
+- 10g) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10h) Napríklad zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
 - 11) § 8 zákona č. 169/1949 Zb. o vojenských obvodoch.
 
 - 12) § 6 a 7 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon).
@@ -69,6 +77,8 @@
 - 13b) Občiansky zákonník.
 
 - Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam. Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
+
+- 13c) § 3 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z. a § 6 až 9 a § 70 vyhlášky Úradu geodézie, kartogafie a katastra Slovenskej republiky č. 461/2009 Z. z. ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 14) § 8 zákona č. 169/1949 Zb.
 
