@@ -44,7 +44,7 @@
 
 - 8) § 2 ods. 2 písm. d) Obchodného zákonníka.
 
-- 8a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 8a) § 66ba ods. 7 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 9) Zákon č. 71/1967 Zb. o správnom konaní (Správny poriadok).
 
