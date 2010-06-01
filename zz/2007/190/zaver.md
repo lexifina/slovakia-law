@@ -1,1 +1,0 @@
-Ľubomír Vážny v. r.
