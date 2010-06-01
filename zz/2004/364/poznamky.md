@@ -108,7 +108,9 @@
 
 - 45) § 4 ods. 1 písm. j) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
-- 46) § 2 až 4 a prílohy č. 1 až 3 nariadenia vlády Slovenskej republiky č. 184/2003 Z. z. o podrobnostiach obsahu žiadosti o úhradu náhrady za obmedzenie bežného obhospodarovania a o spôsobe výpočtu náhrady.
+- 45a) § 1 nariadenia vlády Slovenskej republiky č. 438/2005 Z. z. o podrobnostiach obsahu žiadosti o úhradu náhrady za obmedzenie bežného obhospodarovania pozemku a o spôsobe výpočtu náhrady.
+
+- 46) Nariadenie vlády Slovenskej republiky č. 438/2005 Z. z.
 
 - 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

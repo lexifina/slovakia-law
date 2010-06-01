@@ -35,3 +35,5 @@ Príloha č. 6 k zákonu č. 364/2004 Z. z.
   - 16. Smernica Európskeho parlamentu a Rady 2006/118/ES z 12. decembra 2006 o ochrane podzemných vôd pred znečistením a zhoršením kvality (Ú. v. EÚ L 372, 27. 12. 2006).
 
   - 17. Smernica Európskeho parlamentu a Rady 2006/7/ES z 15. februára 2006 o riadení kvality vody určenej na kúpanie, ktorou sa zrušuje smernica 76/160/EHS (Ú. v. EÚ L 64, 4. 3. 2006).
+
+  - 18. Smernica Európskeho parlamentu a Rady 1008/105/ES zo 16. decembra 2008 o environmentálnych normách kvality v oblasti vodnej politiky, o zmene a doplnení a následnom zrušení smerníc Rady 82/176/EHS, 83/513/EHS, 84/156/EHS, 84/491/EHS a 86/280/EHS a o zmene a doplnení smernice Európskeho parlamentu a Rady 2000/60/ES (Ú. v. EÚ L 348, 24. 12. 2008, s. 84 – 97).
