@@ -174,33 +174,23 @@
 
       - 1. Sudcov volí Parlamentné zhromaždenie Rady Európy za každú Vysokú zmluvnú stranu väčšinou odovzdaných hlasov zo zoznamu troch kandidátov navrhnutých Vysokou zmluvnou stranou.
 
-      - 2. Rovnaký postup sa použije pri dopĺňaní súdu v prípade prístupu nových Vysokých zmluvných strán a pri obsadzovaní uprázdnených miest.
+    - Článok 23 – Funkčné obdobie a odvolanie z funkcie
 
-    - Článok 23 Funkčné obdobie
+      - 1. Sudcovia sú volení na obdobie deviatich rokov. Nemôžu byť zvolení opätovne.
 
-      - 1. Sudcovia sú volení na obdobie šiestich rokov. Môžu byť zvolení opätovne. Funkčné obdobie polovice sudcov zvolených pri prvých voľbách sa však skončí po uplynutí troch rokov.
+      - 2. Funkčné obdobie sudcov sa skončí dovŕšením veku 70 rokov.
 
-      - 2. Sudcov, ktorých funkčné obdobie sa skončí po uplynutí prvých troch rokov, určí žrebovaním generálny tajomník Rady Európy ihneď po ich zvolení.
+      - 3. Sudcovia vykonávajú svoju funkciu až do ich nahradenia. Aj po ich nahradení však pokračujú v prejednávaní tých prípadov, ktoré už začali posudzovať.
 
-      - 3. Aby sa v rámci možností zabezpečilo obnovovanie mandátu polovice sudcov každé tri roky, Parlamentné zhromaždenie Rady Európy môže, skôr ako prikročí k ďalšej voľbe, rozhodnúť, že funkčné obdobie jedného alebo viacerých sudcov, ktorí majú byť zvolení, nemusí trvať šesť rokov, nemôže však presiahnuť deväť rokov a nemôže trvať ani kratšie ako tri roky.
+      - 4. Sudcu možno odvolať z jeho funkcie, iba ak ostatní sudcovia dvojtretinovou väčšinou rozhodnú, že tento sudca prestal spĺňať požadované podmienky.
 
-      - 4. Ak ide o funkčné obdobie viacerých sudcov a ak Parlamentné zhromaždenie Rady Európy postupuje podľa predchádzajúceho odseku, dĺžka funkčného obdobia sudcov sa určí žrebovaním, ktoré vykoná generálny tajomník Rady Európy ihneď po uskutočnení volieb.
+    - Článok 24 – Kancelária súdu a spravodajcovia
 
-      - 5. Sudca zvolený namiesto iného sudcu, ktorého funkčné obdobie sa neskončilo, vykonáva funkciu po zvyšok funkčného obdobia svojho predchodcu.
+      - 1. Súd má k dispozícii kanceláriu, ktorej úlohy a organizácia sú ustanovené v rokovacom poriadku súdu.
 
-      - 6. Funkčné obdobie sudcov sa skončí dovŕšením veku 70 rokov.
+      - 2. Keď súd zasadá ako samosudca, pomáhajú mu spravodajcovia, ktorí podliehajú právomoci predsedu súdu. Sú súčasťou kancelárie súdu.
 
-      - 7. Sudcovia vykonávajú svoju funkciu až do ich nahradenia. Aj po ich nahradení však pokračujú v prejednávaní tých prípadov, ktoré už začali posudzovať.
-
-    - Článok 24 Odvolanie
-
-      - Sudcu možno odvolať z jeho funkcie, len ak ostatní sudcovia dvojtretinovou väčšinou rozhodnú, že prestal spĺňať podmienky kladené na jej výkon.
-
-    - Článok 25 Kancelária súdu a právni poradcovia
-
-      - Súd má k dispozícii kanceláriu, ktorej úlohy a organizácia sú stanovené v rokovacom poriadku súdu. Súdu pomáhajú právni poradcovia.
-
-    - Článok 26 Plénum súdu Plénum súdu
+    - Článok 25 („Plénum súdu“) Plénum súdu
 
       - a) volí na trojročné obdobie svojho predsedu a jedného alebo dvoch podpredsedov, ktorí môžu byť zvolení opätovne,
 
@@ -208,29 +198,49 @@
 
       - c) volí predsedov komôr súdu s možnosťou ich opätovného zvolenia,
 
-      - d) schvaľuje rokovací poriadok súdu,
+      - d) schvaľuje rokovací poriadok súdu;
 
-      - e) volí tajomníka súdu a jedného alebo viacerých jeho zástupcov.
+      - e) volí tajomníka súdu a jedného alebo viacerých jeho zástupcov;
 
-    - Článok 27 Výbory, komory a veľká komora
+      - f) podáva žiadosť podľa článku 26 ods. 2.
 
-      - 1. Predložené prípady súd prejednáva vo výboroch troch sudcov, v komorách siedmich sudcov a vo veľkej komore zloženej zo sedemnástich sudcov. Komory súdu vytvoria výbory na stanovené obdobie.
+    - Článok 26 – Samosudca, zloženie výborov, komôr a veľkej komory
 
-      - 2. Sudca zvolený za štát, ktorý je stranou v spore, automaticky je členom komory a veľkej komory. V prípade, že ten nezasadá alebo nemôže zasadať, dotknutý štát určí inú osobu, ktorá bude zasadať ako sudca.
+      - 1. Predložené prípady súdu prejednáva samosudca, výbory pozostávajúce z troch sudcov, komory zo siedmich sudcov a veľká komora zo sedemnástich sudcov. Komory súdu vytvoria výbory na stanovené obdobie.
 
-      - 3. Členmi veľkej komory je aj predseda súdu, jeho podpredsedovia, predsedovia komôr a ďalší sudcovia vybraní v súlade s rokovacím poriadkom súdu. Keď bol spor predložený veľkej komore podľa článku 43, nemôže v nej zasadať sudca z komory, ktorá vyniesla v danej veci rozsudok, s výnimkou predsedu komory a sudcu, ktorý zasadal za dotknutý štát.
+      - 2. Na žiadosť pléna súdu môže Výbor ministrov jednomyseľným rozhodnutím a na stanovené obdobie znížiť počet sudcov v komorách na päť.
 
-    - Článok 28 Vyhlásenie sťažností za neprijateľné výbormi
+      - 3. Sudca nesmie ako samosudca posudzovať žiadnu sťažnosť proti vysokej zmluvnej strane, za ktorú bol tento sudca zvolený.
 
-      - Výbor môže jednomyseľne vyhlásiť za neprijateľnú alebo vyčiarknuť zo zoznamu prípadov individuálnu sťažnosť podanú v súlade s článkom 34, ak sa také rozhodnutie môže prijať bez ďalšieho skúmania. Rozhodnutie je konečné.
+      - 4. Ako člen komory a veľkej komory zasadá ex officio sudca zvolený za vysokú zmluvnú stranu. V prípade, že ten nie je alebo nemôže zasadať, zasadá ako sudca osoba určená predsedom súdu zo zoznamu vopred predloženého touto zmluvnou stranou.
+
+      - 5. Členmi veľkej komory sú aj predseda súdu, jeho podpredsedovia, predsedovia komôr a ďalší sudcovia vybraní v súlade s rokovacím poriadkom súdu. Keď je prípad postúpený veľkej komore podľa článku 43, nemôže v nej zasadať sudca z komory, ktorá vyniesla v danej veci rozsudok, okrem predsedu komory a sudcu, ktorý zasadal za dotknutú vysokú zmluvnú stranu.
+
+    - Článok 27 – Kompetencia samosudcov
+
+      - 1. Samosudca môže vyhlásiť za neprijateľnú alebo vyčiarknuť zo zoznamu prípadov pred súdom sťažnosť predloženú podľa článku 34, ak je takéto rozhodnutie možné urobiť bez ďalšieho preskúmania.
+
+      - 2. Toto rozhodnutie je konečné.
+
+      - 3. Ak samosudca nevyhlási sťažnosť za neprijateľnú alebo ju nevyčiarkne, tento sudca ju postúpi výboru alebo komore na ďalšie preskúmanie.
+
+    - Článok 28 – Kompetencia výborov
+
+      - 1. Výbor môže sťažnosť podanú podľa článku 34 jednomyseľne
+
+        - a) vyhlásiť za neprijateľnú alebo ju vyčiarknuť zo zoznamu prípadov, ak sa také rozhodnutie môže prijať bez ďalšieho posudzovania; alebo
+
+        - b) vyhlásiť za prijateľnú a zároveň vyniesť rozsudok vo veci, ak sa základná otázka v danom prípade, týkajúca sa výkladu alebo uplatňovania Dohovoru alebo jeho protokolov, už stala súčasťou ustálenej judikatúry súdu.
+
+      - 2. Rozhodnutia a rozsudky podľa odseku 1 sú konečné.
+
+      - 3. Ak sudca zvolený za dotknutú vysokú zmluvnú stranu nie je členom výboru, výbor môže v ktoromkoľvek štádiu konania vyzvať tohto sudcu, aby zaujal miesto jedného z členov výboru, berúc do úvahy všetky relevantné faktory vrátane toho, či daná strana namietala uplatňovanie postupu podľa odseku 1 písm. b).
 
     - Článok 29 Rozhodnutia komôr o prijateľnosti a vo veci samej
 
-      - 1. Ak nebolo prijaté rozhodnutie podľa článku 28, o prijateľnosti a merite individuálnych sťažností podaných v súlade s článkom 34 rozhodne komora.
+      - 1. Ak sa neprijme rozhodnutie podľa článku 27 alebo 28 alebo ak sa nevynesie rozsudok podľa článku 28, rozhodnutie o prijateľnosti a o podstate individuálnych sťažností podaných podľa článku 34 prijíma komora. Rozhodnutie o prijateľnosti sa môže prijať osobitne.
 
-      - 2. Komora rozhoduje o prijateľnosti a merite sťažností podaných štátmi v súlade s článkom 33.
-
-      - 3. Ak vo výnimočných prípadoch súd nerozhodne inak, rozhodnutie o prijateľnosti sa prijme samostatne.
+      - 2. Komora rozhoduje o prijateľnosti a merite sťažností podaných štátmi v súlade s článkom 33. Rozhodnutie o prijateľnosti sa robí osobitne, pokiaľ súd vo výnimočných prípadoch nerozhodne inak.
 
     - Článok 30 Postúpenie právomoci veľkej komore
 
@@ -240,11 +250,13 @@
 
       - a) rozhoduje o sťažnostiach podaných podľa článku 33 alebo článku 34, keď jej tie postúpila komora v súlade s článkom 30 alebo keď jej bola vec predložená v súlade s článkom 43,
 
-      - b) posudzuje žiadosti o vydanie posudkov predložené podľa článku 47.
+      - b) rozhoduje o otázkach, ktoré súdu postúpil Výbor ministrov v súlade s článkom 46 ods. 4; a
+
+      - c) posudzuje žiadosti o vydanie posudkov predložené podľa článku 47.
 
     - Článok 32 Právomoc súdu
 
-      - 1. Právomoc súdu zahŕňa všetky otázky týkajúce sa výkladu a aplikácie dohovoru a jeho protokolov, ktoré sú mu predložené v súlade s ustanoveniami článkov 33, 34 a 47.
+      - 1. Právomoc súdu zahŕňa všetky otázky týkajúce sa výkladu a aplikácie dohovoru a jeho protokolov, ktoré sú mu predložené v súlade s ustanoveniami článkov 33, 34, 46 a 47.
 
       - 2. O sporných otázkach týkajúcich sa jeho právomoci rozhoduje súd.
 
@@ -266,7 +278,11 @@
 
         - b) v podstate rovnaká ako sťažnosť posudzovaná súdom už predtým, alebo ktorá je už predmetom iného medzinárodného vyšetrovacieho alebo zmierovacieho konania a neobsahuje žiadne nové relevantné skutočnosti.
 
-      - 3. Súd vyhlási za neprijateľnú každú individuálnu sťažnosť predloženú podľa článku 34, ktorú pokladá za nezlučiteľnú s ustanoveniami tohto dohovoru alebo jeho protokolov, zjavne nepodloženú alebo za zneužívajúcu právo podať sťažnosť.
+      - 3. Súd vyhlási za neprijateľnú každú individuálnu sťažnosť predloženú podľa článku 34, ak uváži, že:
+
+        - a) sťažnosť je nezlučiteľná s ustanoveniami tohto dohovoru alebo jeho protokolov, zjavne nepodložená alebo zneužívajúca právo podať sťažnosť; alebo
+
+        - b) sťažovateľ nebol významným spôsobom znevýhodnený, iba ak rešpektovanie ľudských práv vymedzených v dohovore a jeho protokoloch si vyžaduje preskúmanie podstaty sťažnosti a za predpokladu, že žiadny prípad nemôže byť odmietnutý z toho dôvodu, že nebol riadne posúdený vnútroštátnym súdom.
 
       - 4. Súd odmietne každú sťažnosť, ktorú považuje za neprijateľnú podľa tohto článku. Môže tak rozhodnúť v ktoromkoľvek štádiu konania.
 
@@ -275,6 +291,8 @@
       - 1. Vysoká zmluvná strana, ktorej občanom je sťažovateľ, má právo predložiť písomné vyjadrenie a zúčastniť sa na pojednávaní vo všetkých prípadoch prejednávaných komorou alebo veľkou komorou.
 
       - 2. Predseda súdu môže v záujme riadneho výkonu spravodlivosti vyzvať ktorúkoľvek Vysokú zmluvnú stranu, ktorá nie je stranou v konaní, alebo ktorúkoľvek zainteresovanú osobu, inú ako sťažovateľ, aby predložili písomné vyjadrenie alebo sa zúčastnili na pojednávaniach.
+
+      - 3. Vo všetkých prípadoch prejednávaných komorou alebo veľkou komorou môže komisár Rady Európy pre ľudské práva predložiť písomné stanovisko a zúčastniť sa na pojednávaniach.
 
     - Článok 37 Vyčiarknutie sťažností
 
@@ -290,19 +308,19 @@
 
       - 2. Súd môže rozhodnúť o opätovnom zaradení sťažnosti do zoznamu prípadov, ak sa domnieva, že okolnosti odôvodňujú taký krok.
 
-    - Článok 38 Prejednanie sťažnosti a konanie o zmieri
+    - Článok 38 – Preskúmanie veci
 
-      - 1. Ak súd vyhlási sťažnosť za prijateľnú,
+      - Súd preskúma vec spolu so zástupcami strán a v prípade potreby pristúpi k vyšetrovaniu, pre efektívne vykonanie ktorého mu vysoké zmluvné strany poskytnú potrebnú súčinnosť.
 
-        - a) pokračuje v prejednávaní veci spolu so zástupcami strán a v prípade potreby pristúpi k vyšetrovaniu, pre ktorého efektívne vykonanie mu zainteresované štáty poskytnú potrebnú súčinnosť,
+    - Článok 39 – Zmier
 
-        - b) dá sa k dispozícii zúčastneným stranám s cieľom dosiahnuť urovnanie sporu zmierom založeným na rešpektovaní ľudských práv zaručených dohovorom a jeho protokolmi.
+      - 1. V ktoromkoľvek štádiu konania môže súd dotknutým stranám ponúknuť pomoc s cieľom dosiahnuť zmier vo veci na základe rešpektovania ľudských práv vymedzených v dohovore a jeho protokoloch.
 
-      - 2. Konanie vedené podľa odseku 1 písm. b) je dôverné.
+      - 2. Konanie podľa odseku 1 je dôverné.
 
-    - Článok 39 Dosiahnutie zmieru
+      - 3. V prípade dosiahnutia zmieru súd vyčiarkne sťažnosť zo zoznamu prípadov rozhodnutím, ktoré obsahuje stručné zhrnutie skutočností a dosiahnutého riešenia.
 
-      - V prípade dosiahnutia zmieru súd vyčiarkne sťažnosť zo zoznamu prípadov rozhodnutím, ktoré obsahuje stručné zhrnutie skutkového stavu a dosiahnutého riešenia.
+      - 4. Toto rozhodnutie sa postúpi Výboru ministrov, ktorý dohliada na splnenie podmienok zmieru vymedzených v rozhodnutí.
 
     - Článok 40 Verejné pojednávanie a prístup k dokumentom
 
@@ -346,11 +364,17 @@
 
       - 2. Ak rozsudok alebo jeho časť nevyjadruje jednomyseľný názor sudcov, každý sudca má právo pripojiť k nemu osobitné stanovisko.
 
-    - Článok 46 Záväznosť a vykonávanie rozsudkov
+    - Článok 46 – Záväznosť a vykonávanie rozsudkov
 
-      - 1. Vysoké zmluvné strany sa zaväzujú, že sa budú riadiť právoplatným rozsudkom súdu vo všetkých sporoch, ktorých sú stranami.
+      - 1. Vysoké zmluvné strany sa zaväzujú, že sa budú riadiť právoplatným rozsudkom súdu vo všetkých prípadoch, v ktorých sú stranami.
 
       - 2. Právoplatný rozsudok súdu sa doručí Výboru ministrov, ktorý dohliada na jeho výkon.
+
+      - 3. Ak Výbor ministrov dospeje k záveru, že dohľadu nad výkonom právoplatného rozsudku bráni problém spojený s výkladom rozsudku, môže vec postúpiť súdu so žiadosťou o rozhodnutie v otázke výkladu. Na prijatie rozhodnutia o postúpení je potrebná dvojtretinová väčšina hlasov zástupcov oprávnených zasadať vo výbore.
+
+      - 4. Ak Výbor ministrov dospeje k záveru, že sa vysoká zmluvná strana odmietla riadiť právoplatným rozsudkom vo veci, v ktorej je stranou, môže po doručení oficiálneho oznámenia tejto strane a po rozhodnutí prijatom dvojtretinovou väčšinou zástupcov oprávnených zasadať vo výbore postúpiť súdu otázku, či došlo k nesplneniu povinnosti podľa odseku 1 touto stranou.
+
+      - 5. Ak súd zistí porušenie odseku 1, postúpi vec Výboru ministrov na zváženie opatrení, ktoré by sa mali prijať. Ak súd nezistí porušenie odseku 1, postúpi vec Výboru ministrov, ktorý ukončí posudzovanie tohto prípadu.
 
     - Článok 47 Posudky
 
@@ -426,10 +450,12 @@
 
       - 1. Tento Dohovor je otvorený na podpis členom Rady Európy. Bude ratifikovaný. Ratifikačné listiny budú uložené u generálneho tajomníka Rady Európy.
 
-      - 2. Tento Dohovor nadobudne platnosť po uložení desiatich ratifikačných listín.
+      - 2. Európska únia môže pristúpiť k tomuto dohovoru.
 
-      - 3. Pre každý štát, ktorý Dohovor podpísal a ktorý ho bude ratifikovať neskôr, nadobudne Dohovor platnosť ihneď po uložení ratifikačnej listiny.
+      - 3. Tento Dohovor nadobudne platnosť po uložení desiatich ratifikačných listín.
 
-      - 4. Generálny tajomník Rady Európy oznámi všetkým členom Rady Európy nadobudnutie platnosti Dohovoru, mená Vysokých zmluvných strán, ktoré ho ratifikovali, ako aj uloženie každej ratifikačnej listiny, ku ktorému dôjde neskôr.
+      - 4. Pre každý štát, ktorý Dohovor podpísal a ktorý ho bude ratifikovať neskôr, nadobudne Dohovor platnosť ihneď po uložení ratifikačnej listiny.
+
+      - 5. Generálny tajomník Rady Európy oznámi všetkým členom Rady Európy nadobudnutie platnosti Dohovoru, mená Vysokých zmluvných strán, ktoré ho ratifikovali, ako aj uloženie každej ratifikačnej listiny, ku ktorému dôjde neskôr.
 
       - Dané v Ríme 4. novembra 1950 vo francúzštine a angličtine, pričom obe znenia majú rovnakú platnosť, v jednom vyhotovení, ktoré sa uloží v archíve Rady Európy. Jeho overené kópie zašle generálny tajomník všetkým štátom, ktoré Dohovor podpísali.
