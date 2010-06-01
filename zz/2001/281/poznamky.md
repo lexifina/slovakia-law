@@ -1,4 +1,6 @@
-- 1) § 2 ods. 2 písm. b) Obchodného zákonníka v znení neskorších predpisov.
+- 1) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 1a) § 2 ods. 2 písm. b) Obchodného zákonníka v znení neskorších predpisov.
 
 - 2) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
