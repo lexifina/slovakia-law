@@ -82,6 +82,12 @@
 
 - 11ba) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 11bb) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a zmene a doplnení niektorých zákonov.
+
+- 11bc) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b ods. 2 zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
+
 - 11c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 1592/2002 z 15. júla 2002 o spoločných pravidlách v oblasti civilného letectva a zriadení Európskej agentúry pre bezpečnosť letectva (EASA) (Úradný vestník Európskych spoločenstiev L 240, 07. 09. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1643/2003 z 22. júla 2003 (Úradný vestník Európskej únie L 245, 29. 09. 2003), nariadenie Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskych spoločenstiev L 355, 30. 12. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 849/2004 z 29. apríla 2004 (Úradný vestník Európskej únie L 158, 30. 04. 2004), nariadenie Komisie (ES) č. 622/2003 zo 4. apríla 2003 o ustanovení opatrení na vykonávanie spoločných základných noriem bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 10, 16. 01. 2004) v znení nariadenia Komisie (ES) č. 68/2004 z 15. januára 2004 (Úradný vestník Európskej únie L 10, 16. 01. 2004).
 
 - 11d) Napríklad nariadenie Komisie (ES) č. 1486/2003 z 22. augusta 2003, ustanovujúce postupy pre vykonávanie inšpekcií Komisie v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 213, 23. 08. 2003).
@@ -93,6 +99,8 @@
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 13a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
 - 14) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohovoru o medzinárodnom civilnom letectve.
 
