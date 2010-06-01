@@ -32,7 +32,11 @@
 
 - Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L. 302, 17. 11. 2009), nariadenie Európskeho parlamentu a Rady (ES) č. 924/2009 zo 16. septembra 2009 o cezhraničných platbách v Spoločenstve, ktorým sa zrušuje nariadenie (ES) č. 2560/2001 (Ú. v. EÚ L 266, 9. 10. 2009).
+
 - 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
+
+- 1b) Napríklad § 20 a 21 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách a o zmene a doplnení niektorých zákonov.
 
 - 2) § 7 a 15 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
@@ -119,6 +123,8 @@
 - 42) § 244, § 246 ods. 2 písm. b) a § 247 až 250k Občianskeho súdneho poriadku.
 
 - 43) § 78 ods. 1 zákona č. 483/2001 Z. z.
+
+- 43a) § 20 a 24 zákona č. 129/2010 Z. z.
 
 - 44) § 44 ods. 1 písm. a) a § 125 zákona č. 594/2003 Z. z.
 
