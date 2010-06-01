@@ -1,0 +1,1 @@
+- 1) § 25 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
