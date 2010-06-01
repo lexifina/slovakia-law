@@ -1,1 +1,0 @@
-Ján Chrbet v. r.
