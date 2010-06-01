@@ -16,6 +16,12 @@
 
 - 3b) § 21 ods. 1 zákona č. 172/1990 Zb.
 
+- 3c) § 4 ods. 1 písm. a) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- 3d) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 4) § 76 a nasl. a § 93 a nasl. Obchodného zákonníka.
 
 - 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. v znení neskorších predpisov.
@@ -24,9 +30,13 @@
 
 - 5a) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 5b) § 3 ods. 4 zákona č. 136/2010 Z. z.
+
 - 6) Napr. Zákonník práce.
 
 - 7) § 266a) Zákonníka práce.
+
+- 7a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
 - 8) § 3 zákona SNR č. 84/1991 Zb.
 
