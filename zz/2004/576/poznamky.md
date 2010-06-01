@@ -4,6 +4,8 @@
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 2aa) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 317/2009 Z. z.
+
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 4) Zákon č. 578/2004 Z. z.
@@ -120,7 +122,7 @@
 
 - 38a) § 14 ods. 4 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 38b) § 15 a 16 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 38b) § 15, 16 a 84 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
