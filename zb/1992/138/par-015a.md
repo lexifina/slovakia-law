@@ -16,7 +16,7 @@
 
 - b) pri predĺžení času hosťovania alebo pri opakovanom hosťovaní, ak od predchádzajúceho hosťovania neuplynuli viac ako dva roky, toho, kto preukáže, že spĺňa požiadavky podľa písmena a) druhého a piateho bodu.
 
-(2) Žiadosť o zapísanie sa podáva na tlačive komory v štátnom jazyku; jej prílohou sú doklady preukazujúce požiadavky podľa odseku 1.
+(2) Žiadosť o zapísanie sa podáva na tlačive komory v štátnom jazyku; jej prílohou sú doklady preukazujúce požiadavky podľa odseku 1. Žiadosť o zapísanie možno podať aj prostredníctvom obvodného úradu, ktorý plní úlohy jednotného kontaktného miesta<sup>13a</sup>) (ďalej len „jednotné kontaktné miesto“).
 
 (3) Komora nezapíše do registra toho, kto spĺňa podmienky podľa odseku 1, ale o kom zistí, že je v členskom štáte
 
@@ -34,4 +34,6 @@
 
 (7) Proti zamietnutiu žiadosti o zapísanie do registra môže uchádzač podať žalobu na súd podľa osobitného predpisu.
 
-(8) Podrobné pravidlá o zapísaní do registra upraví štatút komory.
+(8) Podrobné pravidlá o zapísaní do registra upraví autorizačný poriadok komory.
+
+(9) Ak bola žiadosť o zapísanie podaná na jednotnom kontaktnom mieste, komora informuje jednotné kontaktné miesto o zapísaní do registra alebo o rozhodnutí o zamietnutí žiadosti.

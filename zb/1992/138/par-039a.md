@@ -4,7 +4,7 @@
 
 - a) písomné napomenutie,
 
-- b) pokutu až do 100 000 Sk,
+- b) pokutu až do 3 000 eur,
 
 - c) vyčiarknutie z registra.
 
