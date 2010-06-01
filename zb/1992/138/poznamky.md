@@ -2,7 +2,7 @@
 
 - 2) § 3 ods. 1 písm. d) ôsmy bod zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 3) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch.
+- 3) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
 - 4b) § 44 ods. 2 a § 46b zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
@@ -22,7 +22,11 @@
 
 - 13) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
-- 13a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+- 13a) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b ods. 2 zákona č. 455/1991 Z. z. v znení zákona č. 136/2010 Z. z.
+
+- 13b) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 14) § 49 ods. 1 a 2 Trestného zákona.
 

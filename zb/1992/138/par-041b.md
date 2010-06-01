@@ -8,9 +8,9 @@
 
 (2) Dôležitými písomnosťami sú najmä
 
-- a) výzvy na doplnenie alebo na odstránenie iného nedostatku žiadosti o zapísanie do zoznamu podľa § 3 ods. 1 až 3 alebo do registra,
+- a) výzvy na doplnenie alebo na odstránenie iného nedostatku žiadosti o zapísanie do zoznamu alebo do registra,
 
-- b) rozhodnutia o neuznaní dokladu, o nezapísaní uchádzača do zoznamu podľa § 3 ods. 1 až 3 alebo do registra, ako aj o vyčiarknutí zo zoznamu podľa § 3 ods. 1 až 3 alebo z registra,
+- b) rozhodnutia o neuznaní dokladu, o nezapísaní uchádzača do zoznamu alebo do registra, ako aj o vyčiarknutí zo zoznamu alebo z registra,
 
 - c) predvolania na disciplinárne konanie a disciplinárne rozhodnutia.
 
