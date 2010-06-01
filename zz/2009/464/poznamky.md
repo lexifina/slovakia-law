@@ -84,6 +84,8 @@
 
 - 42) Napríklad STN EN 13356 Výstražné doplnky na neprofesionálne použitie. Skúšobné metódy a požiadavky, STN EN 471 + A1 Výstražné odevy s vysokou viditeľnosťou na profesionálne použitie. Skúšobné metódy a požiadavky (Konsolidovaný text).
 
+- 42a) STN EN 15194 Bicykle. Bicykle na elektrický pohon. Bicykle EPAC.
+
 - 43) STN EN 12184 Elektrické invalidné kreslá, skútre a ich nabíjačky. Požiadavky a skúšobné metódy.
 
 - 44) Nariadenie vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových vozidiel a štvorkoliek v znení nariadenia vlády Slovenskej republiky č. 139/2009 Z. z.
