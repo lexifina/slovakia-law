@@ -44,11 +44,11 @@ Príloha č. 1 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (1) Zúčtovateľ odchýlok určuje výšku finančnej zábezpeky subjektu zúčtovania podľa vzorca
 
-    - FZ = OO * (Z<sub>p</sub> + 5) * P<sub>o</sub> * K<sub>g</sub> * C<sub>o</sub> (v Sk),
+    - FZ = OO * (Z<sub>p</sub> + 5) * P<sub>o</sub> * K<sub>g</sub> * C<sub>o</sub> (v eurách),
 
     - kde
 
-    - FZ = finančná zábezpeka subjektu zúčtovania (v Sk),
+    - FZ = finančná zábezpeka subjektu zúčtovania (v eurách),
 
     - OO = vyššia hodnota zo sumy absolútnych hodnôt dohodnutých odberov a zo sumy absolútnych hodnôt dohodnutých dodávok v dennom diagrame subjektu zúčtovania nahlásené subjektom zúčtovania zúčtovateľovi odchýlok,
 

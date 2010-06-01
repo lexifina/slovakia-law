@@ -38,15 +38,17 @@ Príloha č. 2 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (5) Prevádzkovateľ sústavy preverí úplnosť a správnosť údajov uvedených v požiadavke subjektu zúčtovania a uskutočnenie zmeny oznámi príslušným subjektom zúčtovania. Ak zistí nedostatky, vyzve príslušný subjekt zúčtovania na ich odstránenie. Ak príslušný subjekt zúčtovania neodstráni nedostatky v lehote určenej prevádzkovateľom sústavy, prevádzkovateľ sústavy zmenu nevykoná.
 
-    - (6) Pri zisťovaní spotreby elektriny pre odberné miesto sa postupuje podľa časti D.
+    - (6) Doterajší dodávateľ elektriny môže vzniesť námietku proti zmene dodávateľa elektriny pre príslušné odberné miesta prevádzkovateľovi sústavy do 22 dní pred požadovaným dňom vykonania zmeny dodávateľa elektriny, a to výlučne z dôvodu neukončenia zmluvy o dodávke elektriny, vrátane prevzatia zodpovednosti za odchýlku na príslušnom odbernom mieste najneskôr ku dňu zmeny dodávateľa elektriny. Ak bola vznesená námietka podľa prvej vety, prevádzkovateľ sústavy zmenu dodávateľa elektriny nevykoná a bezodkladne o tom informuje doterajšieho dodávateľa elektriny a žiadateľa o vykonanie zmeny dodávateľa elektriny.
 
-    - (7) Podrobný proces zmeny bilančnej skupiny je uvedený v prevádzkovom poriadku príslušného prevádzkovateľa sústavy.
+    - (7) Pri zisťovaní spotreby elektriny pre odberné miesto sa postupuje podľa časti D.
+
+    - (8) Podrobný proces zmeny bilančnej skupiny je uvedený v prevádzkovom poriadku príslušného prevádzkovateľa sústavy.
 
   - C. Postup pri zmene dodávateľa elektriny
 
-    - (1) Podmienkou na zmenu dodávateľa elektriny je vypovedanie zmluvy o dodávke elektriny účastníkom trhu s elektrinou doterajšiemu dodávateľovi elektriny a uzatvorenie zmluvy o dodávke elektriny s novým dodávateľom elektriny.
+    - (1) Podmienkou na zmenu dodávateľa elektriny je ukončenie zmluvy o dodávke elektriny uzatvorenej s doterajším dodávateľom elektriny najneskôr ku dňu vykonania zmeny dodávateľa elektriny a uzatvorenie zmluvy o dodávke elektriny s novým dodávateľom elektriny s účinnosťou ku dňu vykonania zmeny dodávateľa elektriny.
 
-    - (2) Na zmenu dodávateľa elektriny sa vzťahujú lehoty uvedené v časti B odsekoch 1, 2 a 4.
+    - (2) Na zmenu dodávateľa elektriny sa vzťahujú lehoty uvedené v časti B odsekoch 1, 2, 4 a 6.
 
     - (3) Dodávateľ elektriny, s ktorým účastník trhu s elektrinou uzatvoril zmluvu o dodávke elektriny, oznámi túto skutočnosť prevádzkovateľovi sústavy, ku ktorému je odberné miesto účastníka trhu s elektrinou pripojené.
 
@@ -60,8 +62,8 @@ Príloha č. 2 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (1) Prevádzkovateľ sústavy určí ku dňu vykonania zmeny spotrebu elektriny pre odberné miesto, ktoré je vybavené priebehovým meraním a ktorého sa zmena týka, podľa skutočne nameraných hodnôt.
 
-    - (2) Ak odberné miesto, ktorého sa zmena týka, nie je vybavené priebehovým meraním, subjekt zúčtovania určí pre dané odberné miesto typový diagram odberu pri žiadosti o registráciu odberného miesta v súlade s časťou B.
+    - (2) Ak odberné miesto, ktorého sa zmena týka, nie je vybavené priebehovým meraním, prevádzkovateľ distribučnej sústavy určí pre dané odberné miesto typový diagram odberu po doručení žiadosti o registráciu odberného miesta v súlade s časťou B a oznámi ho novému dodávateľovi elektriny najneskôr päť pracovných dní predo dňom vykonania zmeny dodávateľa elektriny.
 
-    - (3) Prevádzkovateľ sústavy určí spotrebu elektriny pre odberné miesto, ktoré nie je vybavené priebehovým meraním, odpočtom na danom odbernom mieste. Náklady spojené s odpočtom znáša nový subjekt zúčtovania alebo nový dodávateľ elektriny; odpočet na odbernom mieste sa nevyžaduje, ak odberateľ elektriny alebo nový dodávateľ elektriny nahlási prevádzkovateľovi sústavy odčítané hodnoty určeného meradla potvrdené pôvodným dodávateľom elektriny.
+    - (3) Prevádzkovateľ sústavy bezodplatne určí spotrebu elektriny pre odberné miesto, ktoré nie je vybavené priebehovým meraním, odpočtom alebo prepočtom ku dňu vykonania zmeny dodávateľa elektriny podľa priemernej dennej spotreby elektriny na danom odbernom mieste na základe údajov podľa posledných fyzických odpočtov odberného miesta.
 
-    - (4) Prevádzkovateľ sústavy odovzdá subjektu zúčtovania údaje o spotrebe elektriny pre odberné miesto zistené podľa odsekov 1 až 3 ku dňu vykonania zmeny do piatich pracovných dní odo dňa jej vykonania.
+    - (4) Prevádzkovateľ sústavy odovzdá doterajšiemu subjektu zúčtovania a novému subjektu zúčtovania údaje o spotrebe elektriny pre odberné miesto zistené podľa odsekov 1 až 3 ku dňu vykonania zmeny do piatich pracovných dní odo dňa jej vykonania.

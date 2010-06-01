@@ -44,7 +44,7 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
   - C. Spôsob priradenia typového diagramu odberu a údaje charakterizujúce typ odberu
 
-    - (1) Dodávateľ elektriny priradí typový diagram odberu odbernému miestu podľa
+    - (1) Prevádzkovateľ distribučnej sústavy priradí typový diagram odberu odbernému miestu podľa
 
       - a) typov meraní odberu elektriny z odberných miest uvedených v časti B,
 
@@ -62,15 +62,13 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
       - b) prepočítané typové diagramy odberu, ktoré uverejní na internetovej stránke.
 
-    - (5) Dodávateľ elektriny zabezpečí priradenie normalizovaného typového diagramu odberu odbernému miestu svojich koncových odberateľov elektriny bez priebehového merania a odsúhlasí priradenie s príslušným prevádzkovateľom distribučnej sústavy.
-
-    - (6) Prevádzkovateľ distribučnej sústavy určí spotrebu koncových odberateľov elektriny bez priebehového merania podľa priradených typových diagramov odberu.
+    - (5) Prevádzkovateľ distribučnej sústavy určí spotrebu koncových odberateľov elektriny bez priebehového merania podľa priradených typových diagramov odberu.
 
   - D. Určenie zmluvných diagramov za obchodný deň
 
     - (1) Subjekt zúčtovania oznámi zúčtovateľovi odchýlok zmluvný diagram odberu elektriny alebo dodávky elektriny na obchodný deň.
 
-    - (2) Subjekt zúčtovania môže určiť veľkosť odberu elektriny v odbernom mieste s typom merania C, pri ktorom sa používa iný spôsob odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) v odberných miestach, za ktoré prevzal zodpovednosť za odchýlku, na obchodný deň podľa typového diagramu odberu, ktorý odbernému miestu priradil dodávateľ elektriny.
+    - (2) Subjekt zúčtovania môže určiť veľkosť odberu elektriny v odbernom mieste s typom merania C, pri ktorom sa používa iný spôsob odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) v odberných miestach, za ktoré prevzal zodpovednosť za odchýlku, na obchodný deň podľa typového diagramu odberu, ktorý odbernému miestu priradil prevádzkovateľ distribučnej sústavy.
 
     - (3) Subjekt zúčtovania pri určení zmluvného diagramu pre odberné miesta s typom merania C podľa spôsobu uvedeného v časti B odseku 1 písm. c), za ktoré prevzal zodpovednosť za odchýlku, môže využiť prepočítaný typový diagram odberu na očakávanú teplotu, ktorú si určí vlastným postupom.
 
@@ -90,7 +88,7 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (1) Na vysporiadanie zúčtovacieho obdobia odovzdá prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok skutočné hodnoty odberu a dodávok elektriny alebo náhradné hodnoty.
 
-    - (2) Hodnoty sa odovzdávajú ako súhrnné hodinové diagramy podľa subjektov zúčtovania pre tieto skupiny:
+    - (2) Hodnoty sa odovzdávajú ako súhrnné hodinové diagramy podľa bilančných skupín pre tieto skupiny:
 
       - a) oprávnení odberatelia, ktorí zmenili dodávateľa elektriny,
 
@@ -118,4 +116,4 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (2) Všetky zmeny musia byť evidované prevádzkovateľom distribučnej sústavy a zohľadnené vo výpočte hodinových odberov koncových odberateľov elektriny pre odberné miesta s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) na základe metodiky typového diagramu odberu.
 
-    - (3) Zmenu priradenia odberného miesta koncového odberateľa elektriny s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) k inému druhu typového diagramu odberu vykonáva dodávateľ elektriny po prerokovaní s príslušným prevádzkovateľom distribučnej sústavy, do ktorej je koncový odberateľ elektriny pripojený. Zmena platí od prvého dňa nasledujúceho mesiaca po odsúhlasení tejto zmeny prevádzkovateľom distribučnej sústavy, ktorý uskutoční odpočet spotreby elektriny k dátumu zmeny.
+    - (3) Zmenu priradenia odberného miesta koncového odberateľa elektriny s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B ods. 1 písm. c) k inému druhu typového diagramu odberu elektriny vykonáva prevádzkovateľ distribučnej sústavy, do ktorej je koncový odberateľ elektriny pripojený. Prevádzkovateľ distribučnej sústavy uskutoční bezodplatne odpočet alebo prepočet spotreby elektriny k dátumu zmeny typového diagramu a oznámi dodávateľovi elektriny deň zmeny priradenia typového diagramu na odbernom mieste a údaj o spotrebe elektriny na odbernom mieste ku dňu zmeny typového diagramu.

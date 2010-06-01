@@ -10,7 +10,7 @@
 
 - 6) § 12 ods. 1 zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení zákona č. 658/2004 Z. z.
 
-- 7) § 5 ods. 2 písm. a) zákona č. 656/2004 Z. z.
+- 7) § 5 ods. 2 písm. a) a ods. 5 zákona č. 656/2004 Z. z.
 
 - 8) § 22 ods. 2 písm. m) zákona č. 656/2004 Z. z.
 
@@ -19,8 +19,6 @@
 - 10) § 27 ods. 2 písm. f) zákona č. 656/2004 Z. z.
 
 - 11) § 20 zákona č. 656/2004 Z. z.
-
-- 12) § 22 ods. 2 písm. l) zákona č. 656/2004 Z. z.
 
 - 13) § 2 písm. b) bod 33 zákona č. 656/2004 Z. z.
 
@@ -33,5 +31,9 @@
 - 17) § 2 písm. b) štvrtý bod zákona č. 656/2004 Z. z.
 
 - 18) § 22 ods. 2 písm. n) zákona č. 656/2004 Z. z.
+
+- 18a) § 3 ods. 1 písm. d) a ods. 5 zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
+
+- 18b) § 20a ods. 1 zákona č. 656/2004 Z. z. v znení zákona č. 112/2008 Z. z.
 
 - 19) § 20 ods. 6 zákona č. 656/2004 Z. z.
