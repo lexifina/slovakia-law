@@ -61,3 +61,7 @@
 - 16bd) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 17) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/1997 Z. z.
+
+- 17a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 18) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a zmene a doplnení niektorých zákonov.
