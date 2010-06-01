@@ -40,7 +40,9 @@
 
 - 13a) § 16 ods. 5 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
-- 13aa) § 66ba ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
+- 13aa) § 11 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- § 45a ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 13b) § 16 ods. 1 písm. f) zákona č. 581/2004 Z. z.
 
@@ -218,7 +220,7 @@
 
 - 53) § 7 zákona č. 581/2004 Z. z.
 
-- 53a) § 49 ods. 1 a § 56 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+- 53a) § 49 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 53aa) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
