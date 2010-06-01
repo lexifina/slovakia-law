@@ -18,7 +18,7 @@
 
 - e) oznamovať príslušnej zdravotnej poisťovni k poslednému dňu v kalendárnom mesiaci na tlačive predpísanom úradom pre dohľad
 
-  - 1. každé poskytnutie zdravotnej starostlivosti osobe v dôsledku porušenia liečebného režimu<sup>58b</sup>) alebo užitia návykovej látky,
+  - 1. každé poskytnutie zdravotnej starostlivosti osobe v dôsledku porušenia liečebného režimu<sup>58b</sup>) alebo užitia alkoholu alebo inej návykovej látky,
 
   - 2. úraz alebo iné poškodenie zdravia, v súvislosti s ktorým poskytol osobe zdravotnú starostlivosť, pri dôvodnom podozrení, že k úrazu alebo k inému poškodeniu zdravia došlo zavineným protiprávnym konaním tretej osoby; smrteľné úrazy, ťažké úrazy, hromadné úrazy a choroby z povolania je poskytovateľ povinný oznamovať všetky bez výnimky,
 

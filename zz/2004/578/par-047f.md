@@ -1,5 +1,5 @@
 # § 47f Slovenská komora iných zdravotníckych pracovníkov
 
-(1) Slovenská komora iných zdravotníckych pracovníkov združuje iných zdravotníckych pracovníkov podľa § 27 ods. 2 okrem psychológov.
+(1) Slovenská komora iných zdravotníckych pracovníkov združuje logopédov, liečebných pedagógov, fyzikov a laboratórnych diagnostikov.
 
-(2) Členom Slovenskej komory iných zdravotníckych pracovníkov sa môže stať fyzická osoba okrem psychológa, ktorá spĺňa podmienky podľa § 27 ods. 2 a je bezúhonná (§ 38), ak požiada o zápis do zoznamu členov.
+(2) Členom Slovenskej komory iných zdravotníckych pracovníkov sa môže stať fyzická osoba, ktorá je odborne spôsobilá na výkon povolania logopéda, liečebného pedagóga, fyzika alebo laboratórneho diagnostika, ktorá spĺňa podmienky podľa § 33 ods. 3 a je bezúhonná (§ 38), ak požiada o zápis do zoznamu členov.

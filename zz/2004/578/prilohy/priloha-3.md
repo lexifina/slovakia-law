@@ -12,7 +12,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van geneesheer-specialist/Titre professionnel particulier de médecin spécialiste | Minister bevoegd voor Volksgezondheid/Ministre de la Santé publique
 
-  - 2 | Bulharsko / България | Свидетелство за призната специалност | Медицински университет, Висш медицински институт или Военномедицинска академия
+  - 2 | Bulharsko / България | Свидетелство за призната специалност | Университет
 
   - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης Ειδικότητας | Ιατρικό Συμβούλιο
 
@@ -24,7 +24,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7 | Fínsko / Suomi / Finland | Erikoislääkärin tutkinto / Specialläkarexamen | 1. Helsingin yliopisto / Helsingfors universitet 2. Kuopion yliopisto 3. Oulun yliopisto 4. Tampereen yliopisto 5. Turun yliopisto
 
-  - 8 | Francúzsko / France | 1. Certificat d'études spéciales de médecine 2. Attestation de médecin spécialiste qualifié 3. Certificat d'études spéciales de médecine 4. Diplôme d'études spécialisées ou spécialisation complémentaire qualifiante de médecine | 1. Universités 2. Conseil de l'Ordre des médecins 3. Universités 4. Universités
+  - 8 | Francúzsko / France | 1. Certificat d'études spécialisées de médicine accompagné du diplôme d'Etat de docteur en médecine 2. Attestation de médecin spécialiste qualifié accompagnée du diplôme d'Etat de docteur en médecine 3. Diplôme d'études spécialisées ou diplôme d'études spécialisées complémentaires qualifiant de médecine accompagné du diplôme d'Etat de docteur en médecine | 1. Universités 2. Conseil de l'Ordre des médecins 3. Universités
 
   - 9 | Grécko / Ελλάς | Τίτλος Ιατρικής Ειδικότητας | 1. Νομαρχιακή Αυτοδιοίκηση 2. Νομαρχία
 
@@ -46,7 +46,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych
 
-  - 19 | Portugalsko / Portugal | 1. Grau de assistente 2. Titulo de especialista | 1. Ministério da Saúde 2. Ordem dos Médicos
+  - 19 | Portugalsko / Portugal | Título de especialista | Ordem dos Médicos
 
   - 20 | Rakúsko / Österreich | Facharztdiplom | Österreichische Ärztekammer
 
@@ -60,7 +60,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25 | Taliansko / Italia | Diploma di medico specialista | Università
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training | Competent authority
+  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training | Postgraduate Medical Education and Training Board
 
   - 27 | Island / Ísland | Sérfræðileayfi | Heilbrigðis- og tryggingamálaráðuneyti
 
@@ -74,7 +74,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - Por. číslo | Krajina | Názov špecializačného odboru v členskom štáte | Minimálna dĺžka prípravy v členskom štáte | Názov zodpovedajúceho špecializačného odboru v Slovenskej republike
 
-  - 1. 01 | Belgicko / Belgique / België / Belgien | Anesthésie-réanimation/Anesthesie reanimatie | 3 roky | anestéziológia a intenzívna medicína
+  - 1. 01 | Belgicko / Belgique / België / Belgien | Anesthésie-réanimation/Anesthesie-reanimatie | 3 roky | anestéziológia a intenzívna medicína
 
   - 1. 02 | Bulharsko / България | Анестезиология и интензивно лечение | |
 
@@ -88,7 +88,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 1. 07 | Fínsko / Suomi / Finland | Anestesiologia ja tehohoito/Anestesiologi och intensivvård | |
 
-  - 1. 08 | Francúzsko / France | Anesthésiologie-Réanimation chirurgicale | |
+  - 1. 08 | Francúzsko / France | Anesthésie-réanimation | |
 
   - 1. 09 | Grécko / Ελλάς | Αvαισθησιoλoγία | |
 
@@ -142,7 +142,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 2. 04 | Česko / Česká republika | Chirurgie | |
 
-  - 2. 05 | Dánsko / Danmark | Kirurgi eller kirurgiske sygdomme | |
+  - 2. 05 | Dánsko / Danmark | Kirurgi | |
 
   - 2. 06 | Estónsko / Eesti | Üldkirurgia | |
 
@@ -202,7 +202,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3. 04 | Česko / Česká republika | Neurochirurgie | |
 
-  - 3. 05 | Dánsko / Danmark | Neurokirurgi eller kirurgiske nervesygdomme | |
+  - 3. 05 | Dánsko / Danmark | Neurokirurgi | |
 
   - 3. 06 | Estónsko / Eesti | Neurokirurgia | |
 
@@ -254,15 +254,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie Neurochirurgie Neurochirurgia | |
 
-  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie — obstétrique/Gynaecologie en verloskunde | 4 roky | gynekológia a pôrodníctvo
+  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie-obstétrique/Gynaecologie- verloskunde | 4 roky | gynekológia a pôrodníctvo
 
-  - 4. 02 | Bulharsko / България | Акушерство, гинекология и репродуктивна медицина | |
+  - 4. 02 | Bulharsko / България | Акушерство и гинекология | |
 
   - 4. 03 | Cyprus / Κύπρος | Μαιευτική — Γυναικολογία | |
 
   - 4. 04 | Česko / Česká republika | Gynekologie a porodnictví | |
 
-  - 4. 05 | Dánsko / Danmark | Gynækologi og obstetrik eller kvindesygdomme og fødselshjælp | |
+  - 4. 05 | Dánsko / Danmark | Gynækologi og obstetric | |
 
   - 4. 06 | Estónsko / Eesti | Sünnitusabi ja günekoloogia | |
 
@@ -272,7 +272,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 4. 09 | Grécko / Ελλάς | Μαιευτική-Γυvαικoλoγία | |
 
-  - 4. 10 | Holandsko / Nederland | Verloskunde en gynaecologie | |
+  - 4. 10 | Holandsko / Nederland | Obstetrie en Gynaecologie | |
 
   - 4. 11 | Írsko / Ireland | Obstetrics and gynaecology | |
 
@@ -322,7 +322,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 5. 04 | Česko / Česká republika | Vnitřní lékařství | |
 
-  - 5. 05 | Dánsko / Danmark | Intern medicin | |
+  - 5. 05 | Dánsko / Danmark | Intern medicin (do 1. januára 2004) | |
 
   - 5. 06 | Estónsko / Eesti | Sisehaigused | |
 
@@ -382,7 +382,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 6. 04 | Česko / Česká republika | Oftalmologie | |
 
-  - 6. 05 | Dánsko / Danmark | Oftalmologi eller øjensygdomme | |
+  - 6. 05 | Dánsko / Danmark | Oftalmologi | |
 
   - 6. 06 | Estónsko / Eesti | Oftalmoloogia | |
 
@@ -442,13 +442,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7. 04 | Česko / Česká republika | Otorinolaryngologie | |
 
-  - 7. 05 | Dánsko / Danmark | Oto-rhino-laryngologi eller øre-næse-halssygdomme | |
+  - 7. 05 | Dánsko / Danmark | Oto-rhino-laryngologi | |
 
   - 7. 06 | Estónsko / Eesti | Otorinolarüngoloogia | |
 
   - 7. 07 | Fínsko / Suomi / Finland | Korva-, nenä- ja kurkkutaudit/ Öron-, näs- och halssjukdomar | |
 
-  - 7. 08 | Francúzsko / France | Oto-rhino-laryngologie | |
+  - 7. 08 | Francúzsko / France | Oto-rhino-laryngologie et chirurgie cervico-faciale | |
 
   - 7. 09 | Grécko / Ελλάς | Ωτoριvoλαρυγγoλoγία | |
 
@@ -502,7 +502,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 8. 04 | Česko / Česká republika | Dětské lékařství | |
 
-  - 8. 05 | Dánsko / Danmark | Pædiatri eller sygdomme hos børn | |
+  - 8. 05 | Dánsko / Danmark | Pædiatri | |
 
   - 8. 06 | Estónsko / Eesti | Pediaatria | |
 
@@ -562,7 +562,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 9. 04 | Česko / Česká republika | Tuberkulóza a respirační nemoci | |
 
-  - 9. 05 | Dánsko / Danmark | Medicinske lungesygdomme | |
+  - 9. 05 | Dánsko / Danmark | Intern medicin: lungesygdomme | |
 
   - 9. 06 | Estónsko / Eesti | Pulmonoloogia | |
 
@@ -622,13 +622,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10. 04 | Česko / Česká republika | Urologie | |
 
-  - 10. 05 | Dánsko / Danmark | Urologi eller urinvejenes kirurgiske sygdomme | |
+  - 10. 05 | Dánsko / Danmark | Urologi | |
 
   - 10. 06 | Estónsko / Eesti | Uroloogia | |
 
   - 10. 07 | Fínsko / Suomi / Finland | Urologia/Urologi | |
 
-  - 10. 08 | Francúzsko / France | Urologie | |
+  - 10. 08 | Francúzsko / France | Chirurgie urologique | |
 
   - 10. 09 | Grécko / Ελλάς | Ουρoλoγία | |
 
@@ -702,7 +702,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 11. 14 | Luxembursko / Luxembourg | Orthopédie | |
 
-  - 11. 15 | Maďarsko / Magyarország | Ortopédia | |
+  - 11. 15 | Maďarsko / Magyarország | Ortopédia és traumatológia | |
 
   - 11. 16 | Malta / Malta | Kirurġija Ortopedika | |
 
@@ -742,7 +742,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 12. 04 | Česko / Česká republika | Patologická anatomie | |
 
-  - 12. 05 | Dánsko / Danmark | Patologisk anatomi eller vævs- og celleundersøgelser | |
+  - 12. 05 | Dánsko / Danmark | Patalogisk anatomi og cytology | |
 
   - 12. 06 | Estónsko / Eesti | Patoloogia | |
 
@@ -802,7 +802,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 13. 04 | Česko / Česká republika | Neurologie | |
 
-  - 13. 05 | Dánsko / Danmark | Neurologi eller medicinske nervesygdomme | |
+  - 13. 05 | Dánsko / Danmark | Neurologi | |
 
   - 13. 06 | Estónsko / Eesti | Neuroloogia | |
 
@@ -854,7 +854,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 13. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie Neurologie Neurologia | |
 
-  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie de l'adulte/Volwassen psychiatrie | 4 roky | psychiatria
+  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie de l'adulte/Psychiatrie, meer bepaald in de volwassenpsychiatrie | 4 roky | psychiatria
 
   - 14. 02 | Bulharsko / България | Психиатрия | |
 
@@ -892,7 +892,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 14. 19 | Portugalsko / Portugal | Psiquiatria | |
 
-  - 14. 20 | Rakúsko / Österreich | Psychiatrie | |
+  - 14. 20 | Rakúsko / Österreich | Psychiatrie (und Psychotherapeutische Medizin) | |
 
   - 14. 21 | Rumunsko / România | Psihiatrie | |
 
@@ -922,7 +922,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 15. 04 | Česko / Česká republika | Radiologie a zobrazovací metody | |
 
-  - 15. 05 | Dánsko / Danmark | Diagnostik radiologi eller røntgenundersøgelse | |
+  - 15. 05 | Dánsko / Danmark | Diagnostisk radiology | |
 
   - 15. 06 | Estónsko / Eesti | Radioloogia | |
 
@@ -982,13 +982,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 16. 04 | Česko / Česká republika | Radiační onkologie | |
 
-  - 16. 05 | Dánsko / Danmark | Onkologi | |
+  - 16. 05 | Dánsko / Danmark | Klinisk Onkologi | |
 
   - 16. 06 | Estónsko / Eesti | Onkoloogia | |
 
   - 16. 07 | Fínsko / Suomi / Finland | Syöpätaudit/Cancersjukdomar | |
 
-  - 16. 08 | Francúzsko / France | Oncologie radiothérapique | |
+  - 16. 08 | Francúzsko / France | Oncologie option oncologie radiothérapique | |
 
   - 16. 09 | Grécko / Ελλάς | Ακτιvoθεραπευτική — Ογκολογία | |
 
@@ -1172,7 +1172,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 19. 09 | Grécko / Ελλάς | - | |
 
-  - 19. 10 | Holandsko / Nederland | Klinische chemie | |
+  - 19. 10 | Holandsko / Nederland | Klinische Chemie (do 4. apríla 2000) | |
 
   - 19. 11 | Írsko / Ireland | Chemical pathology | |
 
@@ -1216,7 +1216,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 20. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická imunológia a alergológia
 
-  - 20. 02 | Bulharsko / България | Клинична имунология Имунология | |
+  - 20. 02 | Bulharsko / България | Клинична имунология | |
 
   - 20. 03 | Cyprus / Κύπρος | Ανοσολογία | |
 
@@ -1232,7 +1232,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 20. 09 | Grécko / Ελλάς | - | |
 
-  - 20. 10 | Holandsko / Nederland | - | |
+  - 20. 10 | Holandsko / Nederland | Allergologie (do 12. augusta 1996) | |
 
   - 20. 11 | Írsko / Ireland | Immunology (clinical and laboratory) | |
 
@@ -1310,9 +1310,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 21. 18 | Poľsko / Polska | Chirurgia plastyczna | |
 
-  - 21. 19 | Portugalsko / Portugal | Cirurgia plástica e reconstrutiva | |
+  - 21. 19 | Portugalsko / Portugal | Cirurgia plástica, estética e reconstrutiva | |
 
-  - 21. 20 | Rakúsko / Österreich | Plastische Chirurgie | |
+  - 21. 20 | Rakúsko / Österreich | Plastische, Ästhetische und Rekonstruktive Chirurgie | |
 
   - 21. 21 | Rumunsko / România | Chirurgie plastică — microchirurgie reconstructivă | |
 
@@ -1342,7 +1342,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22. 04 | Česko / Česká republika | Kardiochirurgie | |
 
-  - 22. 05 | Dánsko / Danmark | Thoraxkirurgi eller brysthulens kirurgiske sygdomme | |
+  - 22. 05 | Dánsko / Danmark | Thoraxkirurgi | |
 
   - 22. 06 | Estónsko / Eesti | Torakaalkirurgia | |
 
@@ -1372,7 +1372,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22. 19 | Portugalsko / Portugal | Cirurgia cardiotorácica | |
 
-  - 22. 20 | Rakúsko / Österreich | - | |
+  - 22. 20 | Rakúsko / Österreich | Thoraxchirurgie | |
 
   - 22. 21 | Rumunsko / România | Chirurgie toracică | |
 
@@ -1432,7 +1432,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 23. 19 | Portugalsko / Portugal | Cirurgia pediátrica | |
 
-  - 23. 20 | Rakúsko / Österreich | Kinderchirurgie | |
+  - 23. 20 | Rakúsko / Österreich | Kinder- und Jugendchirurgie | |
 
   - 23. 21 | Rumunsko / România | Chirurgie pediatrică | |
 
@@ -1462,7 +1462,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 24. 04 | Česko / Česká republika | Cévní chirurgie | |
 
-  - 24. 05 | Dánsko / Danmark | Karkirurgi eller kirurgiske blodkarsygdomme | |
+  - 24. 05 | Dánsko / Danmark | Karkirurgi | |
 
   - 24. 06 | Estónsko / Eesti | Kardiovaskulaarkirurgia | |
 
@@ -1490,7 +1490,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 24. 18 | Poľsko / Polska | Chirurgia naczyniowa | |
 
-  - 24. 19 | Portugalsko / Portugal | Cirurgia vascular | |
+  - 24. 19 | Portugalsko / Portugal | Angologia/Cirurgia vascular | |
 
   - 24. 20 | Rakúsko / Österreich | - | |
 
@@ -1522,13 +1522,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25. 04 | Česko / Česká republika | Kardiologie | |
 
-  - 25. 05 | Dánsko / Danmark | Kardiologi | |
+  - 25. 05 | Dánsko / Danmark | Intern medicin: kardiologi | |
 
   - 25. 06 | Estónsko / Eesti | Kardioloogia | |
 
   - 25. 07 | Fínsko / Suomi / Finland | Kardiologia/Kardiologi | |
 
-  - 25. 08 | Francúzsko / France | Pathologie cardio-vasculaire | |
+  - 25. 08 | Francúzsko / France | Cardiologie et maladies vasculaires | |
 
   - 25. 09 | Grécko / Ελλάς | Καρδιoλoγία | |
 
@@ -1576,13 +1576,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie/Gastro-enterologie | 4 roky | gastroenterológia
 
-  - 26. 02 | Bulharsko / България | Гастроентерология | |
+  - 26. 02 | Bulharsko / България | Висцерална хирургия | |
 
   - 26. 03 | Cyprus / Κύπρος | Γαστρεντερολογία | |
 
   - 26. 04 | Česko / Česká republika | Gastroenterologie | |
 
-  - 26. 05 | Dánsko / Danmark | Medicinsk gastroenterologi eller medicinske mavetarmsygdomme | |
+  - 26. 05 | Dánsko / Danmark | Intern medicin: gastroenterology og hepatologi | |
 
   - 26. 06 | Estónsko / Eesti | Gastroenteroloogia | |
 
@@ -1592,7 +1592,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 26. 09 | Grécko / Ελλάς | Γαστρεvτερoλoγία | |
 
-  - 26. 10 | Holandsko / Nederland | Leer van maag-darm-leverziekten | |
+  - 26. 10 | Holandsko / Nederland | Maag-darm-leverziekten | |
 
   - 26. 11 | Írsko / Ireland | Gastro-enterology | |
 
@@ -1642,7 +1642,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 27. 04 | Česko / Česká republika | Revmatologie | |
 
-  - 27. 05 | Dánsko / Danmark | Reumatologi | |
+  - 27. 05 | Dánsko / Danmark | Intern medicin: reumatologi | |
 
   - 27. 06 | Estónsko / Eesti | Reumatoloogia | |
 
@@ -1702,7 +1702,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 28. 04 | Česko / Česká republika | Hematologie a transfúzní lékařství | |
 
-  - 28. 05 | Dánsko / Danmark | Hæmatologi eller blodsygdomme | |
+  - 28. 05 | Dánsko / Danmark | Intern medicin: hæmatologi | |
 
   - 28. 06 | Estónsko / Eesti | Hematoloogia | |
 
@@ -1722,7 +1722,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 28. 14 | Luxembursko / Luxembourg | Hématologie | |
 
-  - 28. 15 | Maďarsko / Magyarország | Haematológia | |
+  - 28. 15 | Maďarsko / Magyarország | Hematológia | |
 
   - 28. 16 | Malta / Malta | Ematoloġija | |
 
@@ -1762,13 +1762,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 04 | Česko / Česká republika | Endokrinologie | |
 
-  - 29. 05 | Dánsko / Danmark | Medicinsk endokrinologi eller medicinske hormonsygdomme | |
+  - 29. 05 | Dánsko / Danmark | Intern medicin: endokrinologi | |
 
   - 29. 06 | Estónsko / Eesti | Endokrinoloogia | |
 
   - 29. 07 | Fínsko / Suomi / Finland | Endokrinologia/Endokrinologi | |
 
-  - 29. 08 | Francúzsko / France | Endocrinologie, maladies métaboliques | |
+  - 29. 08 | Francúzsko / France | Endocrinologie - diabète - maladies métaboliques | |
 
   - 29. 09 | Grécko / Ελλάς | Εvδoκριvoλoγία | |
 
@@ -1790,7 +1790,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 18 | Poľsko / Polska | Endokrynologia | |
 
-  - 29. 19 | Portugalsko / Portugal | Endocrinologia | |
+  - 29. 19 | Portugalsko / Portugal | Endocrinologia/Nutrição | |
 
   - 29. 20 | Rakúsko / Österreich | - | |
 
@@ -1828,7 +1828,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 07 | Fínsko / Suomi / Finland | Fysiatria/Fysiatri | |
 
-  - 30. 08 | Francúzsko / France | Rééducation et réadaptation fonctionnelles | |
+  - 30. 08 | Francúzsko / France | Physiotherapy | |
 
   - 30. 09 | Grécko / Ελλάς | Φυσική Iατρική και Απoκατάσταση | |
 
@@ -1850,9 +1850,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 18 | Poľsko / Polska | Rehabilitacja medyczna | |
 
-  - 30. 19 | Portugalsko / Portugal | – Fisiatria – Medicina física e de reabilitaçăo | |
+  - 30. 19 | Portugalsko / Portugal | Medicina física e de reabilitação | |
 
-  - 30. 20 | Rakúsko / Österreich | Physikalische Medizin | |
+  - 30. 20 | Rakúsko / Österreich | Physikalische Medizin und Allgemeine Rehabilitation | |
 
   - 30. 21 | Rumunsko / România | Recuperare, medicină fizică şi balneologie | |
 
@@ -1934,7 +1934,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 31. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
-  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie/Dermato-venerologie | 3 roky | dermatovenerológia
+  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie/Dermato-venereologie | 3 roky | dermatovenerológia
 
   - 32. 02 | Bulharsko / България | Кожни и венерически болести | |
 
@@ -1942,7 +1942,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 32. 04 | Česko / Česká republika | Dermatovenerologie | |
 
-  - 32. 05 | Dánsko / Danmark | Dermato-venerologi eller hud- og kønssygdomme | |
+  - 32. 05 | Dánsko / Danmark | Dermato-venerologi | |
 
   - 32. 06 | Estónsko / Eesti | Dermatoveneroloogia | |
 
@@ -2032,7 +2032,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 33. 19 | Portugalsko / Portugal | Medicina tropical | |
 
-  - 33. 20 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenhygiene | |
+  - 33. 20 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenmedizin | |
 
   - 33. 21 | Rumunsko / România | - | |
 
@@ -2054,7 +2054,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine tropicale et médecine des voyages Tropen- und Reisemedizin Medicina tropicale e medicina di viaggio | |
 
-  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie infanto-juvénile/Kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
+  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie infanto-juvénile/Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
 
   - 34. 02 | Bulharsko / България | Детска психиатрия | |
 
@@ -2062,7 +2062,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 04 | Česko / Česká republika | Dětská a dorostová psychiatrie | |
 
-  - 34. 05 | Dánsko / Danmark | Børne- og ungdomspsykiatri | |
+  - 34. 05 | Dánsko / Danmark | Pédopsychiatrie (do 1. januára 1991) | |
 
   - 34. 06 | Estónsko / Eesti | - | |
 
@@ -2082,7 +2082,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 14 | Luxembursko / Luxembourg | Psychiatrie infantile | |
 
-  - 34. 15 | Maďarsko / Magyarország | Gyermek-és ifjúságpszichiátria | |
+  - 34. 15 | Maďarsko / Magyarország | Gyermek- és ifjúsági pszichiátria | |
 
   - 34. 16 | Malta / Malta | - | |
 
@@ -2090,9 +2090,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 18 | Poľsko / Polska | Psychiatria dzieci i młodzieży | |
 
-  - 34. 19 | Portugalsko / Portugal | Pedopsiquiatria | |
+  - 34. 19 | Portugalsko / Portugal | Psiquiatria da infância e da adolescência | |
 
-  - 34. 20 | Rakúsko / Österreich | - | |
+  - 34. 20 | Rakúsko / Österreich | Kinder- und Jugendpsychiatrie | |
 
   - 34. 21 | Rumunsko / România | Psihiatrie pediatrică | |
 
@@ -2114,7 +2114,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie et psychothérapie d’enfants et d’adolescents Kinder- und Jugendpsychiatrie und -psychotherapie Psichiatria e psicoterapia infantile e dell’adolescenza | |
 
-  - 35. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | geriatria
+  - 35. 01 | Belgicko / Belgique / België / Belgien | Gériatrie/Geriatrie | 4 roky | geriatria
 
   - 35. 02 | Bulharsko / България | Гериатрична медицина | |
 
@@ -2122,7 +2122,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 35. 04 | Česko / Česká republika | Geriatrie | |
 
-  - 35. 05 | Dánsko / Danmark | Geriatri eller alderdommens sygdomme | |
+  - 35. 05 | Dánsko / Danmark | Intern medicin: geriatric | |
 
   - 35. 06 | Estónsko / Eesti | - | |
 
@@ -2164,7 +2164,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 35. 25 | Taliansko / Italia | Geriatria | |
 
-  - 35. 26 | Veľká Británia a Severné Írsko / United Kingdom | Geriatrics | |
+  - 35. 26 | Veľká Británia a Severné Írsko / United Kingdom | Geriatric medicine | |
 
   - 35. 27 | Island / Ísland | öldrunarlækningar | |
 
@@ -2182,7 +2182,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 36. 04 | Česko / Česká republika | Nefrologie | |
 
-  - 36. 05 | Dánsko / Danmark | Nefrologi eller medicinske nyresygdomme | |
+  - 36. 05 | Dánsko / Danmark | Intern medicin: nefrologi | |
 
   - 36. 06 | Estónsko / Eesti | Nefroloogia | |
 
@@ -2242,7 +2242,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 37. 04 | Česko / Česká republika | Infekční lékařství | |
 
-  - 37. 05 | Dánsko / Danmark | Infektionsmedicin | |
+  - 37. 05 | Dánsko / Danmark | Intern medicin: infektionsmedicin | |
 
   - 37. 06 | Estónsko / Eesti | Infektsioonhaigused | |
 
@@ -2270,7 +2270,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 37. 18 | Poľsko / Polska | Choroby zakaźne | |
 
-  - 37. 19 | Portugalsko / Portugal | Infecciologia | |
+  - 37. 19 | Portugalsko / Portugal | Doenças infecciosas | |
 
   - 37. 20 | Rakúsko / Österreich | - | |
 
@@ -2452,7 +2452,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 40. 19 | Portugalsko / Portugal | Medicina do trabalho | |
 
-  - 40. 20 | Rakúsko / Österreich | Arbeits- und Betriebsmedizin | |
+  - 40. 20 | Rakúsko / Österreich | Arbeitsmedizin | |
 
   - 40. 21 | Rumunsko / România | Medicina muncii | |
 
@@ -2482,7 +2482,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 41. 04 | Česko / Česká republika | Alergologie a klinická imunologie | |
 
-  - 41. 05 | Dánsko / Danmark | Medicinsk allergologi eller medicinske overfølsomhedssygdomme | |
+  - 41. 05 | Dánsko / Danmark | Medicinsk allergologi eller medicinske overfølsomhedssygdomme (do 1. januára 2004) | |
 
   - 41. 06 | Estónsko / Eesti | - | |
 
@@ -2542,7 +2542,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 42. 04 | Česko / Česká republika | - | |
 
-  - 42. 05 | Dánsko / Danmark | Kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme | |
+  - 42. 05 | Dánsko / Danmark | Kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme (do 1. januára 2004) | |
 
   - 42. 06 | Estónsko / Eesti | - | |
 
@@ -2682,7 +2682,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 14 | Luxembursko / Luxembourg | - | |
 
-  - 44. 15 | Maďarsko / Magyarország | Traumatológia | |
+  - 44. 15 | Maďarsko / Magyarország | Oxyológia és sürgősségi orvostan | |
 
   - 44. 16 | Malta / Malta | Mediċina tal-Aċċidenti u l-Emerġenza | |
 
@@ -2704,7 +2704,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 25 | Taliansko / Italia | - | |
 
-  - 44. 26 | Veľká Británia a Severné Írsko / United Kingdom | Accident and emergency medicine | |
+  - 44. 26 | Veľká Británia a Severné Írsko / United Kingdom | Emergency medicine | |
 
   - 44. 27 | Island / Ísland | - | |
 
@@ -2716,7 +2716,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 01 | Belgicko / Belgique / België / Belgien | - | 5 rokov | maxilofaciálna chirurgia
 
-  - 45. 02 | Bulharsko / България | Лицево-челюстна хирургия | |
+  - 45. 02 | Bulharsko / България | Дентална, орална и лицево-челюстна хирургия | |
 
   - 45. 03 | Cyprus / Κύπρος | - | |
 
@@ -2742,7 +2742,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 14 | Luxembursko / Luxembourg | Chirurgie maxillo-faciale | |
 
-  - 45. 15 | Maďarsko / Magyarország | Szájsebészet | |
+  - 45. 15 | Maďarsko / Magyarország | Szájsebészet (do 30. septembra 2007) | |
 
   - 45. 16 | Malta / Malta | - | |
 
@@ -2820,7 +2820,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 9. 4. doklad vydaný v Holandsku v odbore neuropsychiatria pred 9. júlom 1984,
 
-        - 9. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999.
+        - 9. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999,
+
+        - 9.6. doklad vydaný v Rakúsku v odbore neuropsychiatria pred 31. marcom 2004,
+
+        - 9.7. doklad vydaný v Rakúsku v odbore maxilofaciálna chirurgia pred 31. marcom 2004.
 
     - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
@@ -2828,7 +2832,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - P. č. | Krajina | Názov dokladu | Profesijný titul
 
-  - 1 | Belgicko / Belgique / België / Belgien | Ministerieel erkenningsbesluit van huisarts / Arrêté ministériel d'agrément de médecin généraliste | Huisarts / Médecin généraliste
+  - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van huisarts/ Titre professionnel particulier de médecin généraliste | Huisarts / Médecin généraliste
 
   - 2 | Bulharsko / България | Свидетелство за призната спец- иалност по Обща медицина | Лекар-специалист по Обща медицина
 
@@ -2842,7 +2846,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7 | Fínsko / Suomi / Finland | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta / Bevis om tilläggsutbildning av läkare i primärvård | Yleislääkäri / Allmänläkare
 
-  - 8 | Francúzsko / France | Diplôme d'Etat de docteur en médecine (avec document annexé attestant la formation spécifique en médecine générale) | Médecin qualifié en médecine générale
+  - 8 | Francúzsko / France | Diplômes d'études spécialisées de médicine générale accompagné du diplôme d'Etat de docteur en médecine | Médecin qualifié en médecine générale
 
   - 9 | Grécko / Ελλάς | Tίτλος ιατρικής ειδικότητας γενικής ιατρικής | Іατρός µε ειδικότητα γενικής ιατρικής
 
@@ -2864,7 +2868,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18 | Poľsko / Polska | Diplôme: Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej | Specjalista w dziedzinie medycyny rodzinnej
 
-  - 19 | Portugalsko / Portugal | Diploma do internato complementar de clínica geral | Assistente de clínica geral
+  - 19 | Portugalsko / Portugal | Título de especialista em medicina geral e familiar | Especialista em medicina geral e familiar
 
   - 20 | Rakúsko / Österreich | Arzt für Allgemeinmedizin | Arzt für Allgemeinmedizin
 
@@ -2872,13 +2876,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicine | Specialist družinske medicine/ Specialistka družinske medicine
 
-  - 23 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Especialista en medicina familiar y comunitaria
+  - 23 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Médico de familia
 
   - 24 | Švédsko / Sverige | Bevis om kompetens som allmänpraktiserande läkare (Europaläkare) utfärdat av Socialstyrelsen | Allmänpraktiserande läkare (Europaläkare)
 
   - 25 | Taliansko / Italia | Attestato di formazione specifica in medicina generale | Medico di medicina generale
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of prescribed/equivalent experience | General medical practitioner
+  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training in general practice | General medical practitioner
 
   - 27 | Island / Ísland | - | -
 
@@ -2942,17 +2946,17 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie ortodoncji | Centrum Egzaminów Medycznych
 
-  - 19 | Portugalsko / Portugal | - | -
+  - 19 | Portugalsko / Portugal | Título de Especialista em Ortodontia | Ordem dos Médicos Dentistas (OMD)
 
   - 20 | Rakúsko / Österreich | - | -
 
-  - 21 | Rumunsko / România | - | -
+  - 21 | Rumunsko / România | Certificatul de specialist în Ortodonţie şi Ortopedie dento-facială | Ministerul Sănătăţii Publice
 
   - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz čeljustne in zobne ortopedije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
   - 23 | Španielsko / España | - | -
 
-  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i tandreglering | Socialstyrelsen
+  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i ortodonti | Socialstyrelsen
 
   - 25 | Taliansko / Italia | Diploma di specialista in Ortognatodonzia | Università
 
@@ -2982,7 +2986,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 1.6. 21. májom 2005 v Taliansku,
 
-        - 1.7. 1. januárom 2007 v Bulharsku;
+        - 1.7. 1. januárom 2007 v Bulharsku,
+
+        - 1.8 4. júnom 2008 v Portugalsku,
+
+        - 1.9 17. decembrom 2008 v Rumunsku;
 
       - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
@@ -3038,17 +3046,17 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie chirurgii stomatologicznej | Centrum Egzaminów Medycznych
 
-  - 19 | Portugalsko / Portugal | - | -
+  - 19 | Portugalsko / Portugal | Título de Especialista em Cirurgia Oral | Ordem dos Médicos Dentistas (OMD)
 
   - 20 | Rakúsko / Österreich | - | -
 
-  - 21 | Rumunsko / România | - | -
+  - 21 | Rumunsko / România | Título de Especialista em Cirurgia Oral | Ministerul Sănătăţii Publice
 
   - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
   - 23 | Španielsko / España | - | -
 
-  - 24 | Švédsko / Sverige | Bevis om specialist-kompetens i tandsystemets kirurgiska sjukdomar | Socialstyrelsen
+  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i oral kirurgi | Socialstyrelsen
 
   - 25 | Taliansko / Italia | Diploma di specialista in Chirurgia Orale | Università
 
@@ -3076,7 +3084,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 1. 5. 21. májom 2005 v Taliansku,
 
-        - 1. 6. 1. januárom 2007 v Bulharsku;
+        - 1. 6. 1. januárom 2007 v Bulharsku,
+
+        - 1.7 4. júnom 2008 v Portugalsku,
+
+        - 1.8 17. decembrom 2008 v Rumunsku;
 
       - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 

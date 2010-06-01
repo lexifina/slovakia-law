@@ -30,6 +30,18 @@
 
 - 12a) § 45 ods. 1 písm. b) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
+- 12b) § 35 ods. 1 písm. c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 12c) § 2 ods. 13 písm. a) a ods. 14 zákona č. 131/2002 Z. z. v znení zákona č. 363/2007 Z. z.
+
+- 12d) § 2 ods. 13 písm. b) a ods. 16 zákona č. 131/2002 Z. z. v znení zákona č. 363/2007 Z. z.
+
+- 12e) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 317/2009 Z. z.
+
+- 12f) § 153 až 156 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 13) § 53 písm. b) zákona č. 538/2005 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
@@ -96,11 +108,15 @@
 
 - 32) § 4 ods. 1 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
 
-- 32a) § 29 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 32a) § 11 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - § 51 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 33) Zákon č. 401/2002 Z. z. o zriadení Slovenskej zdravotníckej univerzity a o doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 209/2002 Z. z. v znení zákona č. 528/2003 Z. z.
+
+- 33a) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 34) Zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
