@@ -10,7 +10,11 @@
 
 - 3) § 148a zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3a) § 19 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
+- 3a) § 11 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- § 66b zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 3aa) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3b) Zákon č. 195/1988 Zb. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -59,6 +63,14 @@
 - 6a) § 47 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 67 ods. 1 písm. c) zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
+
+- 7a) § 2 písm. j) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
+
+- 7b) § 6 ods. 1 písm. f) zákona č. 530/2003 Z. z.
+
+- 7c) § 8 ods. 3 až 5 zákona č. 530/2003 Z. z.
+
+- 7d) § 5b až 5d zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
 
 - 8) § 3 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
