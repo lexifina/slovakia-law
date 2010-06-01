@@ -1,6 +1,6 @@
 # § 35a Rada
 
-(1) Činnosť a hospodárenie pozemkového fondu kontroluje jedenásťčlenná rada. Členov rady volí a odvoláva Národná rada Slovenskej republiky, a to šiestich členov na návrh vlády Slovenskej republiky a piatich členov na základe princípu pomerného zastúpenia politických strán a politických hnutí, za ktoré boli poslanci zvolení do Národnej rady Slovenskej republiky, na návrh výboru. Funkčné obdobie členov rady je tri roky.
+(1) Činnosť a hospodárenie pozemkového fondu kontroluje jedenásťčlenná rada. Členov rady volí a odvoláva Národná rada Slovenskej republiky, a to šiestich členov na návrh vlády Slovenskej republiky a piatich členov na základe princípu pomerného zastúpenia politických strán a politických hnutí, za ktoré boli poslanci zvolení do Národnej rady Slovenskej republiky, na návrh výboru. Rada začne vykonávať svoju činnosť, ak Národná rada Slovenskej republiky zvolí všetkých členov navrhnutých vládou Slovenskej republiky a nadpolovičnú väčšinu členov navrhnutých výborom; povinnosť zvoliť zvyšných členov rady tým nie je dotknutá. Funkčné obdobie členov rady je tri roky.
 
 (2) Členovia rady si spomedzi seba volia predsedu rady a podpredsedu rady. Činnosť rady sa riadi rokovacím poriadkom, ktorý schvaľuje rada.
 
