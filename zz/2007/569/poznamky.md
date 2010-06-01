@@ -16,11 +16,17 @@
 
 - 8) § 21 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
+- 8a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 9) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 10) § 300 až 310 zákona č. 300/2005 Z. z. Trestný zákon.
 
 - 11) § 57 Obchodného zákonníka.
+
+- 11a) § 11 zákona č. 136/2010 Z. z.,
+
+- § 66b zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
 
 - 12) § 175e zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 263/1992 Zb.
 
@@ -108,4 +114,4 @@
 
 - 52) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 53) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 53) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
