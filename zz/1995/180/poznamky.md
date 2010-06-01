@@ -104,7 +104,7 @@
 
 - 46) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 608/1992 Zb. a vyhlášky č. 265/1993 Z. z.
 
-- 46a) § 34 ods. 4 písm. b) zákona Slovenskej národnej rady č. 330/1991 Zb.
+- 46a) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 139/2010 Z. z.
 
 - 46b) Napríklad § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
