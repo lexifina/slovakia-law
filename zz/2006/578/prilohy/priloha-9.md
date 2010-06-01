@@ -1,16 +1,10 @@
 Príloha č. 9 k vyhláške č. 578/2006 Z. z.
 
-- Požiadavky a parametre na meradlá a prístroje používané pri kontrolách originality p.č. | Meradlo | § 72 | | Najmenší merací rozsah | Najväčšia dovolená chyba | Spôsob metrologického zabezpečenia | Lehoty overenia a kalibrácie
+- Požiadavky a parametre na prístroje používané pri kontrolách originality
 
-- | | ods. 2 | ods. 3 | | | |
+  - (1) Prístroje na meranie miery pnutia a zmeny mikroštruktúry v karosérii
 
-- 1 | meradlo miery pnutia a zmeny mikroštruktúry v karosérii | b) | c) | hrúbka laku 0 až 1500 µm | 1 %, min. 2 µm | kalibrácia | 2 roky
-
-- 2 | meradlo hrúbky povlakovej vrstvy karosérie s priamym zá- znamom nameraných hodnôt do kontrolného počítača | c) | d) | 0 až 500 µm | ±5 % pri 0...500 µm | kalibrácia | 2 roky
-
-  - (1) Meradlá miery pnutia a zmeny mikroštruktúry v karosérii
-
-    - Meradlá schopné na princípe Barkhausenovho šumu nedeštruktívnym spôsobom zmerať, vyhodnotiť, zobraziť a zaznamenať zmeny spôsobené mechanickým alebo tepelným opracúvaním v mieste vyznačenia VIN výrobcom, najmä mieru pnutia v kovovom materiáli pod povlakovou vrstvou karosérie vozidla, a súčasne zmeny v hrúbke povlakovej vrstvy. Vykazované hodnoty musia byť závislé od veľkosti mechanického pnutia v materiáli a od jeho mikroštruktúry.
+    - Prístroje schopné na princípe Barkhausenovho šumu nedeštruktívnym spôsobom zmerať, vyhodnotiť, zobraziť a zaznamenať zmeny spôsobené mechanickým alebo tepelným opracúvaním v mieste vyznačenia VIN výrobcom, najmä mieru pnutia v kovovom materiáli pod povlakovou vrstvou karosérie vozidla, a súčasne zmeny v hrúbke povlakovej vrstvy. Vykazované hodnoty musia byť závislé od veľkosti mechanického pnutia v materiáli a od jeho mikroštruktúry.
 
     - Ďalšie požiadavky:
 
@@ -28,9 +22,9 @@ Príloha č. 9 k vyhláške č. 578/2006 Z. z.
 
       - 7. pre zariadenie použiteľné v mobilnom pracovisku kontroly originality sa vyžaduje schopnosť práce s prenosným kontrolným počítačom – notebookom.
 
-  - (2) Meradlá hrúbky povlakovej vrstvy karosérie s priamym záznamom nameraných hodnôt do kontrolného počítača
+  - (2) Prístroje na meranie hrúbky povlakovej vrstvy karosérie s priamym záznamom nameraných hodnôt do kontrolného počítača
 
-    - Meradlá schopné nedeštruktívnym spôsobom zmerať a vyhodnotiť hrúbku povlakovej vrstvy karosérie vozidla.
+    - Prístroje schopné nedeštruktívnym spôsobom zmerať a vyhodnotiť hrúbku povlakovej vrstvy karosérie vozidla.
 
   - Ďalšie požiadavky:
 

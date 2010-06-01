@@ -202,17 +202,17 @@ Príloha č. 10 k vyhláške č. 578/2006 Z. z.
 
     - g) identifikácia stratených alebo odcudzených pečiatok.
 
-  - 8. Údaje o schválených meradlách alebo prístrojoch
+  - 8. Údaje o schválených prístrojoch
 
-    - a) názov meradla alebo prístroja,
+    - a) názov prístroja,
 
-    - b) typ meradla alebo prístroja,
+    - b) typ prístroja,
 
-    - c) výrobca meradla alebo prístroja,
+    - c) výrobca prístroja,
 
-    - d) dátum a číslo rozhodnutia o schválení meradla alebo prístroja ministerstvom,
+    - d) dátum a číslo rozhodnutia o schválení prístroja ministerstvom,
 
-    - e) identifikácia žiadateľa o schválenie meradla alebo prístroja a o zaradenie meradla alebo prístroja do zoznamu odporúčaných meradiel a prístrojov.
+    - e) identifikácia žiadateľa o schválenie prístroja a o zaradenie meradla alebo prístroja do zoznamu odporúčaných prístrojov.
 
   - 9. Údaje o overení plnenia podmienok na udelenie oprávnenia na vykonávanie kontrol originality
 

@@ -50,11 +50,11 @@
 
 - Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 208/1991 Zb.
 
-- 15) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
+- 15) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Vyhláška Úradu normalizácie, merania a štandardizácie Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
+- Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
 
-- 16) § 9 ods. 7 a 8 zákona č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
+- 16) § 9 ods. 7 a 8 zákona č. 142/2000 Z. z. v znení neskorších predpisov.
 
 - 17) § 39 zákona č. 71/1967 Zb.
 
@@ -74,6 +74,10 @@
 
 - 23) § 90 ods. 4 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.
 
-- 23a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+- 23a) Nariadenie vlády Slovenskej republiky č. 349/2009 Z. z. o najväčších prípustných rozmeroch vozidiel a jazdných súprav, najväčších prípustných hmotnostiach vozidiel a jazdných súprav, ďalších technických požiadavkách na vozidlá a jazdné súpravy v súvislosti s hmotnosťami a rozmermi a o označovaní vozidiel a jazdných súprav.
+
+- 23b) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov.
+
+- 23c) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 24) § 85 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z.

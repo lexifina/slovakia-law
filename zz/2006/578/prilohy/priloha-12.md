@@ -362,7 +362,7 @@ Príloha č. 12 k vyhláške č. 578/2006 Z. z.
 
     - d) dátum a číslo správy z overenia plnenia podmienok,
 
-    - e) dátum a číslo rozhodnutia o udelení povolenia na zriadenie pracoviska montáže plynových zariadení.
+    - e) dátum a číslo rozhodnutia o udelení povolenia na zriadenie pracoviska montáže plynových zariadení, ak takéto rozhodnutie bolo vydané.
 
   - 10. Údaje o štatistických výstupoch
 
