@@ -51,3 +51,5 @@
 (8) Obchodník s cennými papiermi podľa odseku 7 je povinný zverejňovať informácie ustanovené opatrením Národnej banky Slovenska podľa odseku 4 aj za konsolidovaný celok.
 
 (9) Národná banka Slovenska môže rozhodnúť, že odseky 5 a 6 sa nevzťahujú úplne alebo čiastočne na obchodníkov s cennými papiermi, ktorých materské spoločnosti majú sídlo v štáte, ktorý napriek tomu, že nie je členským štátom, ukladá materskej spoločnosti so sídlom na jeho území porovnateľnú informačnú povinnosť za konsolidovaný celok, aká je v Slovenskej republike.
+
+(10) Obchodník s cennými papiermi je povinný písomne oznámiť Národnej banke Slovenska, ktoré informácie spomedzi tých, ktoré má povinnosť uverejniť, neuverejní z dôvodu, že ich považuje za nepodstatné, vnútorné alebo dôverné, a to v termínoch, v ktorých mal povinnosť príslušné informácie zverejniť.

@@ -46,7 +46,7 @@
 
 (3) Prekročenie akéhokoľvek obmedzenia podľa odseku 1 alebo 2 je obchodník s cennými papiermi povinný bez zbytočného odkladu oznámiť Národnej banke Slovenska, ktorá po posúdení okolností, za ktorých došlo k tomuto prekročeniu, určí obdobie, počas ktorého je obchodník s cennými papiermi povinný vykonať potrebnú nápravu.
 
-(4) Obchodník s cennými papiermi môže obmedzenia podľa odseku 1 alebo 2 prekračovať, ak
+(4) Obchodník s cennými papiermi môže obmedzenia podľa odseku 1 písm. a) alebo odseku 2 prekračovať, ak
 
 - a) dodržiava obmedzenia majetkových angažovaností podľa odseku 1 písm. b),
 
@@ -56,7 +56,7 @@
 
 - d) zabezpečí, aby súčet všetkých prekročení neprekračoval 600 % jeho vlastných zdrojov, ak uplynulo viac než 10 dní odo dňa týchto prekročení, a
 
-- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za uplynulý štvrťrok; predmetom hlásenia sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo.
+- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za uplynulý štvrťrok, ktorého predmetom sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo; v takom prípade sa odsek 3 nepoužije.
 
 (5) Materský obchodník s cennými papiermi podľa § 138 ods. 2 písm. a) je povinný zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti obchodníka s cennými papiermi za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 138 ods. 2 písm. a), neberú do úvahy.
 

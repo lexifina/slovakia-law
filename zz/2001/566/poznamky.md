@@ -346,6 +346,8 @@
 
 - 89) § 156 Obchodného zákonníka v znení neskorších predpisov.
 
+- 89a) Napríklad čl. 3 ods. 3.1 prvá zarážka, čl. 9 ods. 9.2, čl. 12 ods. 12.1, čl. 34 ods. 34.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 115, 9. 5. 2008).
+
 - 90) § 158 a 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení neskorších predpisov.
@@ -408,11 +410,15 @@
 
 - 106) § 3 zákona č. 483/2001 Z. z.
 
+- 107) § 37 ods. 1 písm. f) zákona č. 747/2004 Z. z.
+
 - 107a) Napríklad § 2 ods. 1 zákona č. 107/2004 Z. z. o spotrebnej dani z piva.
 
 - 107b) Nariadenie Komisie (ES) č. 2273/2003 z 22. decembra 2003 implementujúce smernicu č. 2003/6/ES vzhľadom na výnimky pre programy spätného odkupu a stabilizáciu finančných nástrojov (Ú. v. EÚ L 336, 23. 12. 2003).
 
 - 107c) Napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+
+- 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
 - 107d) § 33 zákona č. 428/2002 Z. z.
 
@@ -445,6 +451,8 @@
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
+
+- 111a) Čl. 24 a 25 nariadenia (ES) č. 1060/2009.
 
 - 112) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
