@@ -10,7 +10,7 @@
 
 - 6) Napríklad zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov a zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6a) Napríklad Nariadenie Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva Nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 02/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
+- 6a) § 15c ods. 1 zákona č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
