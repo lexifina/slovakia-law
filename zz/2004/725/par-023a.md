@@ -1,12 +1,12 @@
-# § 23a Osobitné ustanovenia o osvedčení o evidencii a technickom osvedčení vozidla
+# § 23a Osobitné ustanovenia o osvedčení o evidencii časť II a technickom osvedčení vozidla
 
-(1) Prevádzkovateľ vozidla kategórie L, M, N, O, T, C, R, P<sub>S</sub> a L<sub>S</sub>, ktoré majú vydané technické osvedčenie vozidla a neboli prihlásené do evidencie vozidiel, môže požiadať o vydanie osvedčenia o evidencii podľa odsekov 3 až 11.
+(1) Prevádzkovateľ vozidla kategórie L, M, N, O, T, C, R, P<sub>S</sub> a L<sub>S</sub>, ktoré majú vydané technické osvedčenie vozidla a neboli prihlásené do evidencie vozidiel, môže požiadať o vydanie osvedčenia o evidencii časť II podľa odsekov 3 až 11.
 
 (2) Prevádzkovateľ vozidla kategórie S a P<sub>N</sub> a výmenných nadstavieb, ktoré nemajú vydané technické osvedčenie vozidla podľa predpisov účinných do 1. decembra 2006, môže požiadať o vydanie technického osvedčenia vozidla podľa odsekov 3, 12 až 16.
 
-(3) Na vydanie rozhodnutia o vydaní osvedčenia o evidencii podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný obvodný úrad dopravy<sup>8</sup>) podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
+(3) Na vydanie rozhodnutia o vydaní osvedčenie o evidencii časť II podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný obvodný úrad dopravy<sup>8</sup>) podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
 
-(4) Žiadosť o vydanie osvedčenia o evidencii musí obsahovať
+(4) Žiadosť o vydanie osvedčenia o evidencii časť II musí obsahovať
 
 - a) identifikačné údaje o žiadateľovi, a to,
 
@@ -40,13 +40,13 @@
 
 - d) platný protokol o emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách nie starší ako 15 dní; predkladá sa len v prípade vozidiel kategórie M, N a T.
 
-(6) Osvedčenie o evidencii možno vydať iba vozidlu, ktorému bolo udelené typové schválenie ES, typové schválenie alebo iné schválenie na prevádzku v premávke na pozemných komunikáciách v Slovenskej republike a malo vydané technické osvedčenie vozidla.
+(6) Osvedčenie o evidencii časť II možno vydať iba vozidlu, ktorému bolo udelené typové schválenie ES, typové schválenie alebo iné schválenie na prevádzku v premávke na pozemných komunikáciách v Slovenskej republike a malo vydané technické osvedčenie vozidla.
 
-(7) Ak jednotlivé vozidlo nebolo vybavené miestom na umiestnenie zadnej tabuľky s evidenčným číslom s požadovaným osvetlením, prevádzkovateľ vozidla je povinný splniť ustanovené technické požiadavky na umiestnenie zadnej tabuľky s evidenčným číslom<sup>13a</sup>) a technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom,<sup>13b</sup>) a to ešte pred vydaním rozhodnutia o vydaní osvedčenia o evidencii jednotlivému vozidlu.
+(7) Ak jednotlivé vozidlo nebolo vybavené miestom na umiestnenie zadnej tabuľky s evidenčným číslom s požadovaným osvetlením, prevádzkovateľ vozidla je povinný splniť ustanovené technické požiadavky na umiestnenie zadnej tabuľky s evidenčným číslom<sup>13a</sup>) a technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom,<sup>13b</sup>) a to ešte pred vydaním rozhodnutia o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu.
 
-(8) Obvodný úrad dopravy vydá jednotlivému vozidlu osvedčenie o evidencii, ak žiadateľ splnil podmienky uvedené v odsekoch 3 až 7; inak žiadosť zamietne.
+(8) Obvodný úrad dopravy vydá jednotlivému vozidlu osvedčenie o evidencii časť II, ak žiadateľ splnil podmienky uvedené v odsekoch 3 až 7; inak žiadosť zamietne.
 
-(9) Ak obvodný úrad dopravy rozhodne o vydaní osvedčenia o evidencii jednotlivému vozidlu, vystaví základný technický opis vozidla a osvedčenie o evidencii vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+(9) Ak obvodný úrad dopravy rozhodne o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu, vystaví základný technický opis vozidla a osvedčenie o evidencii vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
 
 (10) Ak ide o kategóriu vozidla, ktorá povinne podlieha v ustanovených lehotách technickej kontrole podľa § 49 ods. 2 písm. a) alebo emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), obvodný úrad dopravy uvedie lehotu platnosti technickej kontroly podľa platného protokolu o technickej kontrole a lehotu platnosti emisnej kontroly podľa platného protokolu o emisnej kontrole a uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel.
 

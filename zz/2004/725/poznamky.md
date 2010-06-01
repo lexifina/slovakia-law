@@ -12,7 +12,7 @@
 
 - 4a) Napríklad § 4 ods. 2 a 4 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá.
 
-- 5) § 114 a 115 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
+- 5) § 114 a 115 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
 - 6) Napríklad STN EN ISO 9001 (01 0320) Systémy manažérstva kvality. Požiadavky.
 
@@ -34,7 +34,9 @@
 
 - 12) § 37 a 38 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
-- 13) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 12a) Napríklad § 116 ods. 7 zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z., § 46 ods. 9 písm. a) prvý bod a § 66 ods. 5 písm. a) prvý bod vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 578/2006 Z. z., ktorou sa ustanovujú podrobnosti o niektorých ustanoveniach zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
+
+- 13) Zákon č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 13a) Napríklad nariadenie vlády Slovenskej republiky č. 405/2005 Z. z. o technických požiadavkách na miesto na umiestnenie a pripevnenie zadných tabuliek s evidenčným číslom na motorových vozidlách a ich prípojných vozidlách, nariadenie vlády Slovenskej republiky č. 67/2006 Z. z. o technických požiadavkách na určité vybavenie a charakteristiky poľnohospodárskych kolesových traktorov a lesných kolesových traktorov a nariadenie vlády Slovenskej republiky č. 72/2006 Z. z. o technických požiadavkách na miesto na inštalovanie zadnej tabuľky s evidenčným číslom na dvojkolesových motorových vozidlách, trojkolesových motorových vozidlách a štvorkolkách.
 
@@ -60,7 +62,7 @@
 
 - 22) § 45 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
-- 23) § 69 ods. 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 23) § 69 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 24) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
@@ -82,7 +84,7 @@
 
 - 31) Napríklad zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
-- 32) Príloha č. 2 skupina 202 poradové číslo 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 32) § 23 a príloha č. 2 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 33) § 2 ods. 1 písm. b) zákona č. 534/2003 Z. z.
 
@@ -108,7 +110,7 @@
 
 - 40) § 11 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
 
-- 40a) Napríklad článok 13 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 715/2007 z 20. júna 2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 171, 29. 6. 2007), článok 13 ods. 2 nariadenia Európskeho parlamentu a Rady č. 78/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel s ohľadom na ochranu chodcov a iných zraniteľných účastníkov cestnej premávky, o zmene a doplnení smernice 2007/46/ES a o zrušení smerníc 2003/102/ES a 2005/66/ES (Ú. v. EÚ L 35, 4. 2. 2009), článok 15 ods. 2 nariadenia Európskeho parlamentu a Rady č. 79/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel na vodíkový pohon, ktorým sa mení a dopĺňa smernica 2007/46/ES (Ú. v. EÚ L 35, 4. 2. 2009).
+- 40a) Napríklad článok 13 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 715/2007 z 20. júna 2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 171, 29. 6. 2007), článok 13 ods. 2 nariadenia Európskeho parlamentu a Rady č. 78/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel s ohľadom na ochranu chodcov a iných zraniteľných účastníkov cestnej premávky, o zmene a doplnení smernice 2007/46/ES a o zrušení smerníc 2003/102/ES a 2005/66/ES (Ú. v. EÚ L 35, 4. 2. 2009), článok 15 ods. 2 nariadenia Európskeho parlamentu a Rady č. 79/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel na vodíkový pohon, ktorým sa mení a dopĺňa smernica 2007/46/ES (Ú. v. EÚ L 35, 4. 2. 2009), čl. 11 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 595/2009 z 18. júna 2009 o typovom schvaľovaní motorových vozidiel a motorov s ohľadom na emisie z ťažkých úžitkových vozidiel (Euro VI) a o prístupe k informáciám o oprave a údržbe vozidiel, a ktorým sa mení a dopĺňa nariadenie (ES) č. 715/2007 a smernica 2007/46/ES a zrušujú smernice 80/1269/EHS, 2005/55/ES a 2005/78/ES (Ú. v. EÚ L 188, 18. 7. 2009), čl. 16 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 661/2009 z 13. júla 2009 o požiadavkách typového schvaľovania na všeobecnú bezpečnosť motorových vozidiel, ich prípojných vozidiel a systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (Ú. v. EÚ L 200, 31. 7. 2009).
 
 - 41) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov, zákon č. 128/2002 Z. z.
 

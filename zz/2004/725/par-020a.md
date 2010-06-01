@@ -40,7 +40,7 @@
 
 (3) Prílohou k žiadosti podľa odseku 2 sú
 
-- a) fotokópia osvedčenia o evidencii alebo fotokópia technického osvedčenia vozidla,
+- a) fotokópia osvedčenie o evidencii časť I a časť II alebo fotokópia technického osvedčenia vozidla,
 
 - b) odborný posudok o kontrole originality vozidla podľa § 85 nie starší ako 15 dní odo dňa jeho vydania,
 

@@ -22,6 +22,6 @@
 
 (3) Obvodný úrad dopravy zasiela v elektronickej forme orgánu Policajného zboru údaje o vozidlách trvalo vyradených z premávky na pozemných komunikáciách a jedno vyhotovenie právoplatného rozhodnutia o trvalom vyradení vozidla na vyradenie vozidla z evidencie; to neplatí, ak ide o vozidlo, ktoré nie je prihlásené v evidencii vozidiel.
 
-(4) Prevádzkovateľ vozidla, ktoré je prihlásené v evidencii vozidiel a obvodný úrad dopravy vydal rozhodnutie o trvalom vyradení vozidla z premávky na pozemných komunikáciách, je povinný do 15 dní od nadobudnutia právoplatnosti rozhodnutia o trvalom vyradení vozidla na orgáne Policajného zboru odovzdať osvedčenie o evidencii a tabuľky s evidenčným číslom.
+(4) Prevádzkovateľ vozidla, ktoré je prihlásené v evidencii vozidiel a obvodný úrad dopravy vydal rozhodnutie o trvalom vyradení vozidla z premávky na pozemných komunikáciách, je povinný do 15 dní od nadobudnutia právoplatnosti rozhodnutia o trvalom vyradení vozidla na orgáne Policajného zboru odovzdať osvedčenie o evidencii časť I a časť II a tabuľky s evidenčným číslom.
 
 (5) Vozidlo, ktoré bolo na základe rozhodnutia obvodného úradu dopravy trvalo vyradené z premávky na pozemných komunikáciách podľa odseku 2, dňom nadobudnutia právoplatnosti rozhodnutia o jeho vyradení stráca udelené typové schválenie, typové schválenie ES, uznanie typového schválenia ES alebo schválenie jednotlivého vozidla.

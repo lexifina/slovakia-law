@@ -42,7 +42,7 @@
 
 - d) rozhodnutie o pridelení náhradného identifikačného čísla vozidla VIN, ak vozidlo malo pôvodné identifikačné číslo vozidla VIN nečitateľné, neúplné alebo pozmenené,
 
-- e) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia „spôsobilé“ alebo „dočasne spôsobilé“ z dôvodu chybného zápisu údajov v osvedčení o evidencii alebo v evidencii vozidiel, nie starší ako 15 dní odo dňa jeho vydania,
+- e) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia „spôsobilé“ alebo „dočasne spôsobilé“ z dôvodu chybného zápisu údajov v evidencii vozidiel, nie starší ako 15 dní odo dňa jeho vydania,
 
 - f) platný protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. a), ak vozidlo takej kontrole podlieha, s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách,
 
@@ -56,6 +56,6 @@
 
 - b) vystaví základný technický opis vozidla, pričom uvedie, či vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel.
 
-(7) Na vydanie osvedčenia o evidencii a technického osvedčenia vozidla sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(7) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla sa primerane vzťahuje ustanovenie § 14 ods. 18.
 
 (8) Obvodný úrad dopravy nesmie opätovne schváliť vozidlo s riadením na pravej strane alebo v strede vozidla; to neplatí, ak ide o vozidlo jednoúčelového využitia, ktoré vyžaduje také umiestnenie riadenia.

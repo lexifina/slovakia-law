@@ -34,7 +34,7 @@
 
   - 3. vyhlásenie žiadateľa, že vozidlo nebolo prihlásené do evidencie vozidiel v inom štáte,
 
-  - 4. osvedčenie o evidencii, ak taký doklad bol v členskom štáte vydaný,
+  - 4. osvedčenie o evidencii, ak taký doklad bol v členskom štáte vydaný; ak má osvedčenie o evidencii dve časti, musia byť predložené obidve časti,
 
   - 5. potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo;<sup>8b</sup>)
 
@@ -42,9 +42,9 @@
 
   - 1. doklad o nadobudnutí vozidla, napríklad faktúra, kúpna zmluva alebo darovacia zmluva,
 
-  - 2. osvedčenie o evidencii,
+  - 2. osvedčenie o evidencii; ak má osvedčenie o evidencii dve časti, musia byť predložené obidve časti,
 
-  - 3. doklad o vyradení vozidla z evidencie vozidiel v členskom štáte; predkladá sa len v prípade, ak záznam o vyradení nie je uvedený v osvedčení o evidencii podľa druhého bodu,
+  - 3. doklad o vyradení vozidla z evidencie vozidiel v členskom štáte; predkladá sa len v prípade, ak sa taký doklad v štáte vývozu vydáva,
 
   - 4. odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách, nie starší ako 15 dní odo dňa jeho vydania,
 
@@ -54,17 +54,17 @@
 
   - 7. potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo.<sup>8b</sup>)
 
-(3) Obvodný úrad dopravy vyzve žiadateľa na doplnenie konkrétnych chýbajúcich technických údajov o vozidle v rozsahu údajov potrebných na vystavenie osvedčenia o evidencii pre vozidlo s konkrétnym identifikačným číslom vozidla VIN, ak osvedčenie o evidencii podľa odseku 2 písm. b) druhého bodu vydané v členskom štáte nie je harmonizovaným osvedčením o evidencii a neobsahuje všetky technické údaje potrebné na vystavenie osvedčenia o evidencii v Slovenskej republike, pričom obvodný úrad dopravy nevie tieto údaje získať napríklad z evidencie vozidiel. Chýbajúce technické údaje môžu byť doplnené predložením napríklad originálu alebo kópie osvedčenia o zhode vozidla COC, ak taký doklad bol vydaný, alebo dokladov získaných od výrobcu alebo zástupcu výrobcu alebo dokladov získaných od evidenčného orgánu iného členského štátu, kde bolo vozidlo prihlásené do evidencie vozidiel. Ak žiadateľ nepredloží požadované doklady v určenej lehote, obvodný úrad konanie zastaví.
+(3) Obvodný úrad dopravy vyzve žiadateľa na doplnenie konkrétnych chýbajúcich technických údajov o vozidle v rozsahu údajov potrebných na vystavenie osvedčenia o evidencii časti II pre vozidlo s konkrétnym identifikačným číslom vozidla VIN, ak osvedčenie o evidencii podľa odseku 2 písm. b) druhého bodu vydané v členskom štáte nie je harmonizovaným osvedčením o evidencii a neobsahuje všetky technické údaje potrebné na vystavenie osvedčenia o evidencii časti II v Slovenskej republike, pričom obvodný úrad dopravy nevie tieto údaje získať najmä z evidencie vozidiel. Chýbajúce technické údaje môžu byť doplnené predložením napríklad originálu alebo kópie osvedčenia o zhode vozidla COC, ak taký doklad bol vydaný, alebo dokladov získaných od výrobcu alebo zástupcu výrobcu alebo dokladov získaných od evidenčného orgánu iného členského štátu, kde bolo vozidlo prihlásené do evidencie vozidiel. Ak žiadateľ nepredloží požadované doklady v určenej lehote, obvodný úrad konanie zastaví.
 
 (4) Obvodný úrad dopravy uzná typové schválenie ES jednotlivo dovezeného vozidla z členského štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 1 až 3; inak žiadosť zamietne.
 
 (5) Ak obvodný úrad dopravy uzná typové schválenie ES jednotlivo dovezeného vozidla podľa odseku 4,
 
-- a) vydá rozhodnutie o uznaní typového schválenia ES jednotlivo dovezeného vozidla z členského štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie aj dátum prvej evidencie vozidla (rok výroby), evidenčné číslo vozidla z iného štátu a evidenčné číslo osvedčenia o evidencii, ak vozidlo bolo prihlásené do evidencie vozidiel, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>)
+- a) vydá rozhodnutie o uznaní typového schválenia ES jednotlivo dovezeného vozidla z členského štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie aj dátum prvej evidencie vozidla (rok výroby), evidenčné číslo vozidla z iného štátu a evidenčné číslo osvedčenia o evidencii časť I a časť II, ak vozidlo bolo prihlásené do evidencie vozidiel, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>)
 
 - b) vystaví základný technický opis vozidla, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel.<sup>5</sup>)
 
-(6) Jednotlivo dovezenému vozidlu podľa odseku 5, ktoré podlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) obvodný úrad dopravy vystaví a vydá osvedčenie o evidencii, v ktorom uvedie údaje zo základného technického opisu vozidla; jednotlivo dovezenému vozidlu, ktoré nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) vydá technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+(6) Jednotlivo dovezenému vozidlu podľa odseku 5, ktoré podlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) obvodný úrad dopravy vystaví a vydá osvedčenie o evidencii časť II, v ktorom uvedie údaje zo základného technického opisu vozidla; jednotlivo dovezenému vozidlu, ktoré nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) vydá technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
 
 (7) Žiadosť o uznanie schválenia jednotlivo dovezeného vozidla z členského štátu musí obsahovať údaje podľa odseku 1 písm. a) a b).
 
@@ -80,17 +80,17 @@
 
 - b) ak ide o nové vozidlo, ktoré bolo prihlásené do evidencie vozidiel v členskom štáte, alebo ak ide o ojazdené vozidlo, doklady podľa odseku 2 písm. b) prvého až siedmeho bodu.
 
-(10) Obvodný úrad dopravy vyzve žiadateľa na doplnenie konkrétnych chýbajúcich technických údajov o vozidle v rozsahu údajov potrebných na vystavenie osvedčenia o evidencii pre vozidlo s konkrétnym identifikačným číslom vozidla VIN, ak osvedčenie o evidencii nebolo v členskom štáte vydané alebo osvedčenie o evidencii nie je harmonizovaným osvedčením o evidencii a neobsahuje všetky technické údaje potrebné na vystavenie osvedčenia o evidencii v Slovenskej republike, pričom obvodný úrad dopravy nevie tieto údaje získať napríklad z evidencie vozidiel. Chýbajúce technické údaje môžu byť doplnené predložením napríklad originálu alebo kópie vnútroštátneho osvedčenia o zhode vozidla potvrdzujúceho zhodu vozidla s vnútroštátnymi požiadavkami členského štátu, ak taký doklad bol vydaný, dokladov získaných od výrobcu alebo zástupcu výrobcu alebo dokladov získaných od evidenčného orgánu iného členského štátu, kde bolo vozidlo prihlásené do evidencie vozidiel. Ak žiadateľ nepredloží požadované doklady v určenej lehote, obvodný úrad konanie zastaví.
+(10) Obvodný úrad dopravy vyzve žiadateľa na doplnenie konkrétnych chýbajúcich technických údajov o vozidle v rozsahu údajov potrebných na vystavenie osvedčenia o evidencii časti II pre vozidlo s konkrétnym identifikačným číslom vozidla VIN, ak osvedčenie o evidencii nebolo v členskom štáte vydané alebo osvedčenie o evidencii nie je harmonizovaným osvedčením o evidencii a neobsahuje všetky technické údaje potrebné na vystavenie osvedčenia o evidencii časti II v Slovenskej republike, pričom obvodný úrad dopravy nevie tieto údaje získať najmä z evidencie vozidiel. Chýbajúce technické údaje môžu byť doplnené predložením napríklad originálu alebo kópie vnútroštátneho osvedčenia o zhode vozidla potvrdzujúceho zhodu vozidla s vnútroštátnymi požiadavkami členského štátu, ak taký doklad bol vydaný, dokladov získaných od výrobcu alebo zástupcu výrobcu alebo dokladov získaných od evidenčného orgánu iného členského štátu, kde bolo vozidlo prihlásené do evidencie vozidiel. Ak žiadateľ nepredloží požadované doklady v určenej lehote, obvodný úrad konanie zastaví.
 
 (11) Obvodný úrad dopravy uzná schválenie jednotlivo dovezeného vozidla z členského štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 7 až 10; inak žiadosť zamietne.
 
 (12) Ak obvodný úrad dopravy uzná schválenie jednotlivo dovezeného vozidla podľa odseku 11,
 
-- a) vydá rozhodnutie o uznaní schválenia jednotlivo dovezeného vozidla z členského štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie aj dátum prvej evidencie vozidla (rok výroby), evidenčné číslo vozidla z iného štátu a evidenčné číslo osvedčenia o evidencii, ak vozidlo bolo prihlásené do evidencie vozidiel, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>)
+- a) vydá rozhodnutie o uznaní schválenia jednotlivo dovezeného vozidla z členského štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie aj dátum prvej evidencie vozidla (rok výroby), evidenčné číslo vozidla z iného štátu a evidenčné číslo osvedčenia o evidencii časť I a časť II, ak vozidlo bolo prihlásené do evidencie vozidiel, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>)
 
 - b) vystaví základný technický opis vozidla, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel.<sup>5</sup>)
 
-(13) Jednotlivo dovezenému vozidlu podľa odseku 12, ktoré podlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) obvodný úrad dopravy vystaví a vydá osvedčenie o evidencii, v ktorom uvedie údaje zo základného technického opisu vozidla; jednotlivo dovezenému vozidlu, ktoré nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) vydá technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+(13) Jednotlivo dovezenému vozidlu podľa odseku 12, ktoré podlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) obvodný úrad dopravy vystaví a vydá osvedčenie o evidencii časť II, v ktorom uvedie údaje zo základného technického opisu vozidla; jednotlivo dovezenému vozidlu, ktoré nepodlieha prihláseniu do evidencie vozidiel,<sup>5</sup>) vydá technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
 
 (14) Osvedčenie o evidencii podľa odseku 2 písm. b) druhého bodu sa nevyžaduje pri vozidlách, ktoré podľa vnútroštátnych predpisov členského štátu nepodliehajú prihláseniu do evidencie vozidiel v týchto štátoch, napríklad ťahaný vymeniteľný stroj alebo pracovný stroj samohybný; v týchto prípadoch je prílohou k žiadosti originál alebo kópia osvedčenia o zhode vozidla COC, ak taký doklad bol vydaný, alebo vnútroštátneho osvedčenia o zhode vozidla potvrdzujúceho zhodu vozidla s vnútroštátnymi požiadavkami členského štátu.
 
@@ -136,7 +136,7 @@
 
 (23) Na formát osvedčenia o schválení jednotlivého vozidla sa primerane vzťahuje ustanovenie § 14 ods. 17.
 
-(24) Na vydanie osvedčenia o evidencii a technického osvedčenia vozidla jednotlivo dovezenému vozidlu sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(24) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu sa primerane vzťahuje ustanovenie § 14 ods. 18.
 
 (25) Pri jednotlivo dovezenom vozidle z iného zmluvného štátu sa na konanie o uznanie typového schválenia ES jednotlivo dovezeného vozidla primerane vzťahujú ustanovenia odsekov 1 až 6 a 14, na konanie o uznanie schválenia jednotlivo dovezeného vozidla sa primerane vzťahujú ustanovenia odsekov 7 až 14 a na konanie o schválenie jednotlivo dovezeného vozidla sa primerane vzťahujú ustanovenia odsekov 15 až 24. Prílohou k žiadosti podľa odsekov 1, 7 a 15 musí byť aj doklad o prepustení vozidla do voľného obehu.
 
