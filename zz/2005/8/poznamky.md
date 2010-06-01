@@ -1,5 +1,7 @@
 - 1) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
+- 1a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
 - 2) § 2 ods. 1 Obchodného zákonníka.
 
 - 3) Napríklad § 54 ods. 3 až 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 603/2003 Z. z., § 148 ods. 2 a 3 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch), § 52 ods. 3 a 4 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 7/2005 Z. z., § 110 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
@@ -46,7 +48,13 @@
 
 - 13) § 21 Obchodného zákonníka.
 
+- 13a) § 4 ods. 1 zákona č. 136/2010 Z. z.
+
 - 14) § 19 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 14a) § 11 zákona č. 136/2010 Z. z.
+
+- § 66b ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 15) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
