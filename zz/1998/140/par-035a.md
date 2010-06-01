@@ -6,9 +6,9 @@
 
 - a) registrované lieky (§ 20 ods. 1), ktorých výdaj nie je viazaný na lekársky predpis,
 
-- b) zdravotnícke pomôcky, okrem aktívnych implantovateľných zdravotníckych pomôcok, zdravotníckych pomôcok III. skupiny a implantovateľných a inváznych zdravotníckych pomôcok na dlhodobé používanie IIa. skupiny alebo IIb. skupiny, ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitných predpisov. <sup>14</sup>)
+- b) zdravotnícke pomôcky, okrem aktívnych implantovateľných zdravotníckych pomôcok, a implantovateľných a inváznych zdravotníckych pomôcok na dlhodobé používanie IIa. skupiny alebo IIb. skupiny, ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitných predpisov. <sup>14</sup>)
 
-(3) Zakazuje sa zásielkový výdaj liekov a zdravotníckych pomôcok, ktoré sú predpísané na lekárskom predpise alebo na lekárskom poukaze.
+(3) Zásielkovým výdajom je zaslanie lieku, ktorý nie je viazaný na lekársky predpis, alebo zdravotníckej pomôcky podľa odseku 2 na základe elektronického formulára objednávky uverejneného na webovom sídle verejnej lekárne alebo výdajne zdravotníckych pomôcok. Za zásielkový výdaj sa nepovažuje výdaj zdravotníckej pomôcky zaslaním zdravotníckej pomôcky na základe predloženého lekárskeho poukazu.
 
 (4) Držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo vo výdajni zdravotníckych pomôcok zabezpečujúci zásielkový výdaj je povinný
 
@@ -28,7 +28,7 @@
 
 - a) lieky registrované podľa § 20 ods. 1 alebo registrované v členskom štáte, z ktorého sa zásielkový výdaj liekov zabezpečuje, ak ich výdaj podľa rozhodnutia o registrácii lieku v Slovenskej republike nie je viazaný na lekársky predpis a ak sú dodávané v súlade s podmienkami registrácie lieku v Slovenskej republike alebo s podmienkami registrácie lieku podľa osobitného predpisu;<sup>9bei</sup>) na vyžiadanie jednotlivého pacienta je možné dodať liek v množstve zodpovedajúcom jeho osobnej spotrebe s označením vnútorného obalu a vonkajšieho obalu a s písomnou informáciou pre používateľov lieku v inom jazyku ako v kodifikovanej podobe štátneho jazyka,
 
-- b) zdravotnícke pomôcky, okrem aktívnych implantovateľných zdravotníckych pomôcok, zdravotníckych pomôcok III. skupiny a implantovateľných a inváznych zdravotníckych pomôcok na dlhodobé používanie IIa. skupiny alebo IIb. skupiny, ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitných predpisov.<sup>14</sup>)
+- b) zdravotnícke pomôcky, okrem aktívnych implantovateľných zdravotníckych pomôcok, a implantovateľných a inváznych zdravotníckych pomôcok na dlhodobé používanie IIa. skupiny alebo IIb. skupiny, ktoré spĺňajú požiadavky na uvedenie na trh podľa osobitných predpisov.<sup>14</sup>)
 
 (7) Osoba zabezpečujúca zásielkový výdaj z členských štátov do Slovenskej republiky má povinnosť
 
