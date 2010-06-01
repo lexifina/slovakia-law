@@ -62,4 +62,6 @@
 
 - 7) § 218o ods. 1 Obchodného zákonníka.
 
+- 7a) § 75 ods. 2 Obchodného zákonníka.
+
 - 8) § 68 ods. 10 Obchodného zákonníka.

@@ -1,1 +1,1 @@
-Príloha č. 24 k vyhláške č. 25/2004 Z. z. [Vzor 24 - Návrh na zápis zmeny zapísaných údajov o Európskej spoločnosti do obchodného registra](../assets/ff55616314d771a0da1c196ccc3f979d491b0a1da75ab3d1f7a2c207bdba2b2b.pdf)
+Príloha č. 24 k vyhláške č. 25/2004 Z. z. [Vzor 24 - Návrh na zápis zmeny zapísaných údajov o Európskej spoločnosti do obchodného registra](../assets/42ea8fa7e8279bae021cf1a3563096ac65bfbf9f179c3bdd08faa9d99bea50f9.pdf)
