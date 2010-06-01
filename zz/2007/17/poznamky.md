@@ -21,3 +21,5 @@
 - 11) Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 13) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
