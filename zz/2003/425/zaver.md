@@ -1,1 +1,0 @@
-Jelena Hudcovská v. r.
