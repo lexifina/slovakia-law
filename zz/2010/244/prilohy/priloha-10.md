@@ -1,0 +1,3 @@
+PRÍLOHA VI
+
+- USADENIE SA: FINANČNÉ SLUŽBY [Príloha 06](../assets/bb6d57168c6ce7c99b246729afb7d79e4c11c4d7e290e647a84d332b53be603b.pdf)

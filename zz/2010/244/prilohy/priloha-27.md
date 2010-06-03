@@ -1,0 +1,1 @@
+- SPOLOČNÉ VYHLÁSENIE týkajúce sa Andorrského kniežatstva [Príloha 05-2](../assets/5091f08b559547413bbb105d02d01d3f3e501f268c9ca42bc040a0f014e4c04c.pdf)

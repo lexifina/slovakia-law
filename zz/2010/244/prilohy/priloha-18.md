@@ -1,0 +1,3 @@
+DODATOK 1
+
+- ZOZNAM CHRÁNENÝCH NÁZVOV [Príloha 02-2](../assets/c5155f81aec941fd141fd47979efe5cb13eb9485df06beb63e93747237fc93b7.pdf)

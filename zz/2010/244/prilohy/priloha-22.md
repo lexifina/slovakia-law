@@ -1,0 +1,3 @@
+PRÍLOHA I
+
+- ÚVODNÉ POZNÁMKY K ZOZNAMU V PRÍLOHE II [Príloha 01](../assets/1d3c7dbd909366a494f8af9f6a4c3db1c86e54de77ba3337e669650ece521fc0.pdf)

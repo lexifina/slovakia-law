@@ -1,0 +1,3 @@
+PRÍLOHA IV
+
+- ZNENIE FAKTURAČNÉHO VYHLÁSENIA [Príloha 04](../assets/570ffe571e4610db3e6daf2e0477dff2c14e4846ed4c582a575eacd7a495382c.pdf)
