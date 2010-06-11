@@ -70,6 +70,8 @@
 
 - 14a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
+- 14b) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
+
 - 15) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 2 a § 3 písm. a) zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
@@ -281,3 +283,7 @@
 - 47a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
 - 48) § 2 ods. 2 písm. c) Obchodného zákonníka.
+
+- 49) Čl. 14 až 20, 22 a 40 nariadenia (ES) č. 1060/2009.
+
+- 50) § 20 a § 26 ods. 3 a 4 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
