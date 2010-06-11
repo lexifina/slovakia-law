@@ -55,3 +55,7 @@
 - 27) § 35 písm. g) zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 28a) § 56a zákona č. 333/2004 Z. z. v znení zákona č. 266/2010 Z. z.
+
+- 28b) § 52 ods. 4 zákona č. 333/2004 Z. z.
