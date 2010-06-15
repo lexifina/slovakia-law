@@ -143,3 +143,27 @@
 - 7) Objem a zloženie priesakových kvapalín sa sledujú iba vtedy, ak sa na skládke odpadov zachytávajú.
 
 - 1) Vyhláška Ministerstva lesného a vodného hospodárstva Slovenskej socialistickej republiky č. 23/1977 Zb. o ochrane akosti povrchových a podzemných vôd.
+
+- a) Stanovené odlišné hodnoty pH odpad nevylučujú zo zatriedenia; príčina musí byť preskúmaná a vyhodnotená.
+
+- b) Ak stanovená hodnota CRL 400 mg.l<sup>-1</sup>, nie je potrebné stanoviť hodnoty pre chloridy a sírany.
+
+- c) Hodnota pre sírany môže byť prekročená, ak stanovená hodnota CRL neprekročí 600 mg.l<sup>-1</sup>.
+
+- d) Nie je povolené žiadne prekročenie uvedených hodnôt.
+
+- e) Ak nie sú splnené uvedené hodnoty pri vlastnej hodnote pH, môže sa DOC alternatívne stanoviť pri pH 7,5 až 8.
+
+- f) Limitné hodnoty musia byť dodržané – vzťahuje sa na odpady, ktoré sa ukladajú spolu s odpadovými materiálmi na baze sadry, ktoré nie sú nebezpečné (nemajú nebezpečné vlastnosti).
+
+- g) Musia byť stanovené a vyhodnotené všetky štyri druhy organizmov (ryby, perloočky, riasy a semená rastlín).
+
+- h) Ekvivalentné stanovenia.
+
+- i) Povolené dvojnásobné prekročenie uvedenej hodnoty.
+
+- j) Hodnoty môžu byť prekročené, ak podstatu odpadu tvorí elementárny uhlík, alebo ak je dodržaná limitná hodnota DOC vo vodných výluhoch a výhrevnosť (spalné teplo) nepresahuje hodnotu 6 MJ.kg<sup>-1</sup>.
+
+- k) Odpady s hodnotou vyššou než 1 000 mg.kg<sup>-1</sup> sušiny sa musia pred uložením na SKNO stabilizovať (upravovať).
+
+- 1) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 126/2004 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky č. 209/2005 Z. z.
