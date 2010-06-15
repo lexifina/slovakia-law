@@ -1,1 +1,0 @@
-- 1) § 5 zákona Národnej rady Slovenskej republiky č. 200/1994 Z. z. o Komore reštaurátorov a o výkone reštaurátorskej činnosti jej členov.
