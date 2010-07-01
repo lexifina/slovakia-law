@@ -1,1 +1,1 @@
-- 1) § 2 ods. 2 a 4 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 428/2003 Z. z.
+- 1) § 2 ods. 2 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
