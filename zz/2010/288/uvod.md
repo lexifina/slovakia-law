@@ -1,0 +1,11 @@
+## 288
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+z 9. júna 2010,
+
+## ktorým sa mení nariadenie vlády Slovenskej republiky č. 226/2005 Z. z. o výške úhrady za zdravotnú starostlivosť, ktorú uhrádza zdravotná poisťovňa poskytovateľovi lekárskej služby prvej pomoci v znení nariadenia vlády Slovenskej republiky č. 380/2008 Z. z.
+
+Vláda Slovenskej republiky podľa § 8 ods. 6 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov nariaďuje:
