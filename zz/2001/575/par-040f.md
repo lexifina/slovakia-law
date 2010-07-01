@@ -1,0 +1,9 @@
+# § 40f
+
+(1) Pôsobnosť Ministerstva hospodárstva Slovenskej republiky v oblasti cestovného ruchu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo kultúry a cestovného ruchu Slovenskej republiky.
+
+(2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo kultúry a cestovného ruchu Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť cestovného ruchu.
+
+(3) V súvislosti s prechodom kompetencií v oblasti cestovného ruchu prechádzajú od 1. júla 2010 práva a povinnosti vyplývajúce z pracovnoprávnych a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva hospodárstva Slovenskej republiky na Ministerstvo kultúry a cestovného ruchu Slovenskej republiky. Majetok štátu, ktorý bol do 30. júna 2010 v správe Ministerstva hospodárstva Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií v oblasti cestovného ruchu, prechádza od 1. júla 2010 do správy Ministerstva kultúry a cestovného ruchu Slovenskej republiky.
+
+(4) V súvislosti s prechodom kompetencie medzi ústredným orgánom štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.<sup>6</sup>) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.
