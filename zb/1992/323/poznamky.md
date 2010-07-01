@@ -38,6 +38,8 @@
 
 - 6bb) § 151a až 151md Občianskeho zákonníka.
 
+- 6bc) § 14 ods. 1 zákona č. 420/2004 Z. z. v znení zákona č. 141/2010 Z. z.
+
 - 6c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 7) Občiansky súdny poriadok.
