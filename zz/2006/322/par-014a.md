@@ -1,3 +1,0 @@
-# § 14a
-
-Ďalšie vzdelávanie zdravotníckych pracovníkov, ktorí začali špecializačné štúdium v špecializačných odboroch vyšetrovacie metódy v hematológii a transfuziológii, vyšetrovacie metódy v klinickej biochémii, vyšetrovacie metódy v imunológii a alergológii, vyšetrovacie metódy v genetike alebo v špecializačnom odbore vyšetrovacie metódy v klinickej mikrobiológii podľa predpisov platných do 31. mája 2006, a fyzioterapeutov, ktorí začali špecializačné štúdium v špecializačnom odbore liečebná rehabilitácia a fyzioterapia porúch vybraných systémov podľa predpisov platných do 31. mája 2006, sa dokončí podľa doterajších predpisov.
