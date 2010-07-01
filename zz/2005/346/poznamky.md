@@ -160,6 +160,8 @@
 
 - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
+- 47aa) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 48) Nariadenie Rady (EHS, Euratom, ESUO) č. 259/68 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok úradníkov a Podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev (Služobný poriadok) (Mimoriadne vydanie Ú. V. EÚ, kap. 01/zv. 02) v platnom znení.
 
 - 49) § 12 zákona č. 283/2002 Z. z.
