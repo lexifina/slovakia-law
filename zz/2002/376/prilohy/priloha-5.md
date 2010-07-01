@@ -34,6 +34,8 @@
 
 - | – | medzinárodnej rešerše (pravidlo 16.1 PCT a pravidlo 158 ods. 1) | 1 785
 
+- | – | doplnkovej medzinárodnej rešerše [pravidlo 45bis.3 písm. a) PCT] | 1 785
+
 - 3. | Určovací poplatok za každý určený zmluvný štát (článok 79 ods. 2) pre prihlášky podané 1. apríla 2009 alebo po tomto dni | | 525
 
 - 4. | Udržiavacie poplatky za európsku patentovú prihlášku (článok 86 ods. 1) počítané v každom prípade odo dňa podania prihlášky | |
@@ -117,6 +119,8 @@
 - | – | za medzinárodné prihlášky 13. decembra 2007 stále v konaní | 1 180
 
 - | – | za medzinárodné prihlášky podané 13. decembra 2007 alebo po tomto dni (pravidlo 158 ods. 3) | 790
+
+- 22. | Poplatok za preskúmanie [pravidlo 45bis.6 písm. c) PCT] | | 790
 
 - (2) Pre európske patentové prihlášky podané pred 1. aprílom 2009 a medzinárodné prihlášky, ktoré vstúpili do regionálnej fázy pred týmto dňom, je výška poplatkov stanovená v článku 2 ods. 3, 3a, 7 a 15 Poplatkového poriadku, ktorý bol účinný do 31. marca 2009, nasledujúca:
 
