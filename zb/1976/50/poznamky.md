@@ -112,6 +112,10 @@
 
 - 10ja) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
 
+- 10jb) § 31 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10jc) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 10k) § 2 až 15, § 18 a 19 vyhlášky č. 465/1991 Zb.
 
 - 10ka) § 17 ods. 3 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
@@ -151,6 +155,8 @@
 - zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov,
 
 - zákon č. 66/2009 Z. z. o niektorých opatreniach pri majetkovoprávnom usporiadaní pozemkov pod stavbami, ktoré prešli z vlastníctva štátu na obce a vyššie územné celky a o zmene a doplnení niektorých zákonov.
+
+- 13c) § 15 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2009 Z. z.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
 
