@@ -10,4 +10,4 @@
 
 - b) preukázaných cestovných výdavkov za cestu do Slovenskej republiky a späť z dôvodu účasti na pohrebe člena rodiny podľa § 28 ods. 1 a 2.
 
-(4) Manželovi a dieťaťu zamestnanca podľa odseku 1 možno poskytnúť náhradu výdavkov spojených s úmrtím zamestnanca alebo s vyhlásením zamestnanca za mŕtveho (§ 27a).
+(4) Manželovi a dieťaťu zamestnanca podľa odseku 1 možno poskytnúť náhradu výdavkov spojených s úmrtím zamestnanca alebo s vyhlásením zamestnanca za mŕtveho alebo nezvestného (§ 27a).

@@ -46,7 +46,9 @@
 
 - 14) Vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch.
 
-- 14a) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
+- 14a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky.
+
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 14b) § 5 zákona č. 595/2003 Z. z. v znení zákona č. 177/2004 Z. z.
 
@@ -62,11 +64,11 @@
 
 - 17) § 62 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 19c) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. V. EÚ C 321E, 29. 12. 2006).§ 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
-
 - 19ca) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
 - 19d) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z. o uzavretí Dohovoru, ktorým sa definuje štatút Európskych škôl.
+
+- 19e) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 659/2007 Z. z.
 
 - 20) Príloha č. 3 k zákonu č. 455/1991 Zb. v znení neskorších predpisov.
 
