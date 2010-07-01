@@ -52,6 +52,18 @@
 
 - 19b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
 
+- 19c) § 6 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19d) § 8 zákona č. 25/2006 Z. z. v znení neskorších predpisov.
+
+- 19e) § 14 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
+
+- 19f) Zákon č. 25/2006 Z. z. v znení neskorších predpisov.
+
+- 19g) § 15 ods. 2 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
+
+- 19h) § 66 ods. 2 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
+
 - 20) § 24 ods. 2 zákona č. 595/2003 Z. z.
 
 - 21) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
