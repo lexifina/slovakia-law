@@ -762,7 +762,7 @@
 
         - (c) Odovzdávací poplatok sa musí zaplatiť do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Výška poplatku je suma, ktorá je splatná k dátumu prijatia medzinárodnej prihlášky.
 
-    - PRAVIDLO 15 Medzinárodný poplatok za podanie
+    - PRAVIDLO 15 Poplatok za medzinárodné podanie
 
       - 15.1 Medzinárodný poplatok za podanie
 
@@ -772,15 +772,29 @@
 
         - (a) Výšku poplatku za medzinárodné podanie stanovuje sadzobník poplatkov.
 
-        - (b) Poplatok za medzinárodné podanie sa musí zaplatiť v mene alebo v jednej z mien, ktorá je predpísaná prijímacím úradom ako „predpísaná mena“, to znamená, že ak prevedie prijímací úrad tento poplatok Medzinárodnému úradu, bude voľne zmeniteľný na švajčiarsku menu. Výšku medzinárodného poplatku určí generálny riaditeľ pre každý prijímací úrad, ktorý určuje výšku tohto poplatku v inej mene než švajčiarskej, po porade s prijímacím úradom štátu alebo úradom konajúcim podľa pravidla 19.1(b) pre tento štát, ktorého úradná mena je rovnaká ako predpísaná mena. Suma takto stanovená musí byť ekvivalentná v zaokrúhlených číslach sume vo švajčiarskej mene stanovenej v sadzobníku poplatkov. Medzinárodný úrad oznámi každému prijímaciemu úradu predpísanú výšku poplatku v predpísanej mene a zverejní ju vo vestníku.
+        - (b) Poplatok za medzinárodné podanie sa platí v mene alebo v jednej z mien predpísaných prijímacím úradom („predpísaná mena“).
 
-        - (c) Ak dôjde k zmene výšky medzinárodného poplatku stanovenej sadzobníkom, zodpovedajúca suma v predpísaných menách sa použije odo dňa zmeny sadzobníka.
+        - (c) Ak je predpísaná mena vo švajčiarskych frankoch, prijímací úrad Medzinárodnému úradu ihneď prevedie uvedený poplatok vo švajčiarskych frankoch.
 
-        - (d) Ak sa výmenný kurz medzi švajčiarskou menou a predpísanou menou oproti poslednému použitému výmennému kurzu zmení, generálny riaditeľ určí novú výšku poplatku v predpísanej mene podľa smerníc Zhromaždenia. Novostanovená výška poplatku sa použije po uplynutí dvoch mesiacov od jej zverejnenia vo vestníku s tým, že sa prijímací úrad uvedený v odseku (b) v druhej vete a generálny riaditeľ môžu dohodnúť na dátume v rámci tejto dvojmesačnej lehoty, a v takom prípade sa tieto sumy použijú počnúc týmto dátumom.
+        - (d) Ak je predpísaná mena v inej mene než švajčiarsky frank a táto mena
 
-      - 15.4 Lehota splatnosti; splatná výška poplatku
+          - (i) je voľne konvertibilná na švajčiarske franky, generálny riaditeľ stanoví ekvivalentnú výšku poplatku v predpísanej mene podľa smerníc Zhromaždenia pre každý prijímací úrad, ktorý predpisuje takú menu na platbu medzinárodného poplatku a prijímací úrad sumu v tejto mene ihneď prevedie Medzinárodnému úradu,
 
-        - Poplatok za medzinárodné podanie sa musí zaplatiť do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Splatná výška poplatku je suma splatná v deň prijatia.
+          - (ii) nie je voľne konvertibilná na švajčiarske franky, prijímací úrad zodpovedá za konverziu poplatku za medzinárodné podanie z predpísanej meny na švajčiarske franky a ihneď prevedie poplatok Medzinárodnému úradu v švajčiarskych frankoch v sume stanovenej sadzobníkom poplatkov; alebo, ak si prijímací úrad želá, môže konvertovať poplatok za medzinárodné podanie z predpísanej meny na eurá alebo americké doláre a ihneď previesť ekvivalentnú čiastku tohto poplatku v eurách alebo v amerických dolároch Medzinárodnému úradu, ako ju stanovil generálny riaditeľ podľa smerníc Zhromaždenia, ako sa uvádza v bode (i).
+
+      - 15.3 Lehota splatnosti; splatná výška poplatku
+
+        - Poplatok za medzinárodné podanie sa musí zaplatiť prijímaciemu úradu do jedného mesiaca od dátumu prijatia medzinárodnej prihlášky. Splatná výška poplatku je suma splatná v deň prijatia.
+
+      - 15.4 Vrátenie poplatku
+
+      - Prijímací úrad vráti prihlasovateľovi poplatok za medzinárodné podanie:
+
+        - (i) ak je zistenie podľa článku 11(1) negatívne,
+
+        - (ii) ak sa pred odovzdaním archívneho vyhotovenia Medzinárodnému úradu medzinárodná prihláška odvolá alebo sa považuje za späťvzatú, alebo
+
+        - (iii) ak sa vzhľadom na predpisy o národnej bezpečnosti s medzinárodnou prihláškou nenakladá.
 
       - 15.5 (zrušené)
 
@@ -800,15 +814,19 @@
 
         - (a) Každý orgán pre medzinárodnú rešerš môže požadovať, aby prihlasovateľ v jeho prospech zaplatil poplatok za vykonanie medzinárodnej rešerše a výkon všetkých ďalších úloh, ktorými je orgán pre medzinárodnú rešerš poverený podľa ustanovení Zmluvy a Vykonávacieho predpisu („rešeršový poplatok“).
 
-        - (b) Rešeršný poplatok vyberá prijímací úrad. Tento poplatok je splatný v mene alebo v jednej z mien predpísaných týmto úradom („mena prijímacieho úradu“), pričom ak nie je mena prijímacieho úradu menou alebo jednou z mien, v ktorej orgán pre medzinárodnú rešerš stanovil tento poplatok („stanovená mena“), musí byť pri prevode prijímacím úradom v prospech orgánu pre medzinárodnú rešerš voľne zameniteľná na menu štátu, v ktorom má tento orgán sídlo („mena sídla“). Výšku rešeršného poplatku v mene prijímacieho úradu, ak je iná než stanovená mena, určí generálny riaditeľ po porade s prijímacím úradom alebo s úradom pôsobiacim podľa pravidla 19.1(b) pre štát, ktorého úradná mena je rovnaká ako mena prijímacieho úradu. Takto stanovené sumy budú v zaokrúhlených číslach ekvivalentmi poplatkov stanovených orgánom pre medzinárodnú rešerš v mene sídla. Poplatky oznámi Medzinárodný úrad každému úradu, ktorý vyžaduje platby v tejto mene, a budú zverejnené vo Vestníku.
+        - (b) Rešeršný poplatok vyberá prijímací úrad. Uvedený poplatok sa platí v mene predpísanej prijímacím úradom („prepísaná mena“).
 
-        - (c) Ak sa výška rešeršového poplatku v mene sídla zmení, budú sa zodpovedajúce sumy v menách prijímacieho úradu, pokiaľ sú tieto meny iné než určená mena alebo určené meny, požadovať od rovnakého dátumu, ako zmenené sumy v mene sídla.
+        - (c) Ak predpísaná mena je menou, v ktorej orgán pre medzinárodnú rešerš stanovil uvedený poplatok („fixná mena“), prijímací úrad ihneď prevedie uvedenú sumu v tejto mene tomuto orgánu.
 
-        - (d) Ak sa výmenný kurz medzi menou sídla a menou prijímacieho úradu zmení oproti poslednému použitému výmennému kurzu, generálny riaditeľ stanoví nové poplatky v mene príslušného prijímacieho úradu podľa smerníc Zhromaždenia. Novostanovené výšky poplatkov sa použijú po uplynutí dvoch mesiacov od ich zverejnenia vo Vestníku za predpokladu, že sa každý prijímací úrad uvedený v tretej vete odseku (b) a generálny riaditeľ dohodnú na dátume v rámci lehoty dvoch mesiacov, a v takom prípade sa výška poplatku pre tento úrad použije počnúc týmto dátumom.
+        - (d) Ak predpísaná mena nie je fixnou menou a mena
 
-        - (e) Tam, kde je pri platení rešeršového poplatku v mene prijímacieho úradu, pokiaľ je to iná než určená mena alebo určené meny, suma skutočne došlá orgánu pre medzinárodnú rešerš v mene sídla nižšia než suma ním určená, uhradí orgánu pre medzinárodnú rešerš rozdiel Medzinárodný úrad, zatiaľ čo, ak bude suma skutočne došlá vyššia, bude rozdiel patriť Medzinárodnému úradu.
+          - (i) je voľne konvertibilná na fixnú menu, generálny riaditeľ podľa smerníc Zhromaždenia stanoví ekvivalentnú výšku poplatku pre každý prijímací úrad, ktorý predpisuje takú menu na platbu rešeršného poplatku, a prijímací úrad sumu v tejto mene ihneď prevedie orgánu pre medzinárodnú rešerš,
 
-        - (f) Ak ide o lehotu splatnosti rešeršného poplatku a výšku poplatku, ustanovenie pravidla 15.4, týkajúce sa poplatku za medzinárodné podanie, sa použije primerane.
+          - (ii) nie je voľne konvertibilná na fixnú menu, prijímací úrad zodpovedá za konverziu rešeršného poplatku z predpísanej meny na fixnú menu a ihneď prevedie tento poplatok vo fixnej mene orgánu pre medzinárodnú rešerš vo výške, ktorú stanovil orgán pre medzinárodnú rešerš.
+
+        - (e) Ak ide o platbu rešeršného poplatku v predpísanej mene inej než fixnej mene podľa odseku (d)(i) tohto pravidla, ak suma, ktorú orgán pre medzinárodnú rešerš v skutočnosti prijal v predpísanej mene, je po konverzii na fixnú menu nižšia, než ním predpísaná, Medzinárodný úrad zaplatí rozdiel orgánu pre medzinárodnú rešerš; ak je však skutočne prijatá suma vyššia, rozdiel zostane Medzinárodnému úradu.
+
+        - (f) Ak ide o lehotu splatnosti rešeršného poplatku a výšku poplatku, ustanovenie pravidla 15.3 týkajúceho sa poplatku za medzinárodné podanie sa použije primerane.
 
       - 16.2 Vrátenie poplatku
 
@@ -828,7 +846,7 @@
 
       - 16bis.1 Výzva prijímacieho úradu
 
-        - (a) Ak v okamihu splatnosti podľa pravidiel 14.1(c), 15.4 a 16.1(f) prijímací úrad zistí, že neboli zaplatené žiadne poplatky, alebo zaplatená suma, ktorú tomuto úradu zaplatil prihlasovateľ, je nedostatočná, aby pokryla odovzdávací poplatok, poplatok za medzinárodné podanie a poplatok za rešerš, prijímací úrad s výhradou odseku (d) vyzve prihlasovateľa, aby zaplatil sumu požadovanú na krytie týchto poplatkov spolu s prípadným poplatkom za neskorú platbu podľa pravidla 16bis. 2 v lehote jedného mesiaca od dátumu výzvy.
+        - (a) Ak v okamihu splatnosti podľa pravidiel 14.1(c), 15.3 a 16.1(f) prijímací úrad zistí, že neboli zaplatené žiadne poplatky alebo zaplatená suma, ktorú tomuto úradu zaplatil prihlasovateľ, je nedostatočná, aby pokryla odovzdávací poplatok, poplatok za medzinárodné podanie a poplatok za rešerš, prijímací úrad s výhradou odseku (d) vyzve prihlasovateľa, aby zaplatil sumu požadovanú na krytie týchto poplatkov spolu s prípadným poplatkom za neskorú platbu podľa pravidla 16bis.2 v lehote jedného mesiaca od dátumu výzvy.
 
         - (b) (zrušené)
 
@@ -838,7 +856,7 @@
 
           - (ii) postupuje, ako je uvedené v pravidle 29.
 
-        - (d) Každá platba, ktorú prijímací úrad dostane pred odoslaním výzvy podľa odseku (a), sa považuje za prijatú pred uplynutím lehoty podľa pravidiel 14.1(c), 15.4 alebo 16.1(f).
+        - (d) Každá platba, ktorú prijímací úrad dostane pred odoslaním výzvy podľa odseku (a), sa považuje za prijatú pred uplynutím lehoty podľa pravidla 14.1 (c), 15.3 alebo 16.1(f) v závislosti od prípadu.
 
         - (e) Každá platba, ktorú prijímací úrad dostane skôr, než vydá príslušné uznesenie podľa článku 14(3), sa bude považovať za prijatú pred uplynutím lehoty uvedenej v odseku (a).
 
@@ -950,7 +968,7 @@
 
         - (b) V prípade, keď podľa odseku (a) medzinárodnú prihlášku prijal národný úrad v zastúpení Medzinárodného úradu, ktorý vykonáva funkciu prijímacieho úradu podľa pravidla 19.1. (a) (iii), odovzdá ju národný úrad bezodkladne, ak tomu nebránia predpisy týkajúce sa národnej bezpečnosti, Medzinárodnému úradu. Národný úrad môže požadovať za toto odovzdanie zaplatenie poplatku vo svoj prospech, ktorý sa rovná odovzdávaciemu poplatku určenému úradom podľa pravidla 14.
 
-        - (c) Na účely pravidiel 14.1(c), 15.4 a 16.1(f), keď bola medzinárodná prihláška odovzdaná Medzinárodnému úradu podľa odseku (b), bude sa za dátum prijatia medzinárodnej prihlášky považovať dátum, keď Medzinárodný úrad skutočne prijal medzinárodnú prihlášku. Na účely tohto odseku sa nepoužije posledná veta odseku (b).
+        - (c) Na účely pravidiel 14.1(c), 15.3 a 16.1(f), keď bola medzinárodná prihláška odovzdaná Medzinárodnému úradu podľa odseku (b), bude sa za dátum prijatia medzinárodnej prihlášky považovať dátum, keď bola medzinárodná prihláška skutočne prijatá Medzinárodným úradom. Na účely tohto odseku sa nepoužije posledná veta odseku (b).
 
     - Pravidlo 20 Dátum medzinárodného podania
 
@@ -1742,7 +1760,7 @@
 
         - (c) Manipulačný poplatok za doplnkovú rešerš sa platí Medzinárodnému úradu v lehote jedného mesiaca od dátumu prijatia žiadosti o doplnkovú rešerš. Poplatok sa platí vo výške platnej v deň platby.
 
-        - (d) Medzinárodný úrad vráti prihlasovateľovi manipulačný poplatok za doplnkovú rešerš, ak pred odovzdaním dokumentov podľa pravidla 45bis.4(e)(i) až (iv) orgánu špecifikovanému pre doplnkovú rešerš je medzinárodná prihláška späťvzatá alebo sa považuje za späťvzatú alebo žiadosť o doplnkovú rešerš je späťvzatá alebo sa považuje za nepodanú.
+        - (d) Medzinárodný úrad vráti prihlasovateľovi manipulačný poplatok za doplnkovú rešerš, ak pred odovzdaním dokumentov podľa pravidla 45bis.4(e)(i) až (iv) orgánu špecifikovanému pre doplnkovú rešerš je medzinárodná prihláška späťvzatá alebo sa považuje za späťvzatú alebo žiadosť o doplnkovú rešerš je späťvzatá alebo sa považuje za nepodanú podľa pravidla 45bis.1(e).
 
       - 45bis.3 Poplatok za doplnkovú rešerš
 
@@ -1752,11 +1770,11 @@
 
         - (c) Pokiaľ ide o lehotu platby poplatku za doplnkovú rešerš a splatnú sumu, použijú sa ustanovenia pravidla 45bis.2(c) mutatis mutandis.
 
-        - (d) Medzinárodný úrad vráti prihlasovateľovi poplatok za doplnkovú rešerš, ak pred odovzdaním dokumentov podľa pravidla 45bis.4(e)(i) až (iv) orgánu špecifikovanému pre doplnkovú rešerš je medzinárodná prihláška späťvzatá alebo sa považuje za späťvzatú alebo je žiadosť o doplnkovú rešerš späťvzatá alebo sa považuje za nepodanú.
+        - (d) Medzinárodný úrad vráti prihlasovateľovi poplatok za doplnkovú rešerš, ak pred odovzdaním dokumentov podľa pravidla 45bis.4(e)(i) až (iv) orgánu špecifikovanému pre doplnkovú rešerš je medzinárodná prihláška späťvzatá alebo sa považuje za späťvzatú alebo žiadosť o doplnkovú rešerš je späťvzatá alebo sa považuje za nepodanú podľa pravidiel 45bis.1(e) alebo 45bis.4(d).
 
-        - (e) Orgán špecifikovaný pre doplnkovú rešerš musí v rozsahu a podľa podmienok uvedených v dohode podľa článku 16(3)(b) vrátiť poplatok za doplnkovú medzinárodnú rešerš, ak pred začatím doplnkovej medzinárodnej rešerše podľa pravidla 45bis.5(a) sa žiadosť o doplnkovú medzinárodnú rešerš považuje za nepodanú.
+        - (e) Orgán špecifikovaný pre doplnkovú rešerš musí v rozsahu a podľa podmienok uvedených v dohode podľa článku 16(3)(b) vrátiť poplatok za doplnkovú medzinárodnú rešerš, ak pred začatím doplnkovej medzinárodnej rešerše podľa pravidla 45bis.5(a) sa žiadosť o doplnkovú medzinárodnú rešerš považuje za nepodanú podľa pravidla 45bis.5(g).
 
-      - 45bis.4 Kontrola žiadosti o doplnkovú rešerš. Oprava chýb. Neskorá platba poplatkov. Odovzdanie orgánu pre medzinárodnú rešerš.
+      - 45bis.4 Kontrola žiadosti o doplnkovú rešerš. Oprava chýb. Neskorá platba poplatkov. Odovzdanie orgánu špecifikovanému pre medzinárodnú doplnkovú rešerš
 
         - (a) Medzinárodný úrad ihneď po prijatí žiadosti o doplnkovú rešerš skontroluje, či je v súlade s požiadavkami pravidla 45bis.1(b) a (c)(i), a vyzve prihlasovateľa, aby opravil všetky chyby v lehote jedného mesiaca od dátumu výzvy.
 
@@ -1788,7 +1806,7 @@
 
         - (a) Orgán špecifikovaný pre doplnkovú rešerš musí začať doplnkovú medzinárodnú rešerš ihneď po prijatí dokumentov uvedených v pravidle 45bis.4(e)(i) až (iv) s tým, že orgán má právo odložiť začiatok rešerše až dovtedy, kým nedostane dokumenty uvedené v pravidle 45bis.4(e)(v) alebo až kým neuplynie 22-mesačná lehota od dátumu priority, podľa toho, čo nastane skôr.
 
-        - (b) Doplnková medzinárodná rešerš sa musí vykonať na základe medzinárodnej prihlášky tak, ako bola podaná, alebo na základe prekladu uvedeného v pravidle 45bis.1(b)(iii) alebo 45bis.1(c)(i) s prihliadnutím na správu o medzinárodnej rešerši a písomný posudok vypracovaný podľa pravidla 43bis.1, ak sú dostupné orgánu špecifikovanému pre doplnkovú rešerš pred začatím rešerše. Ak žiadosť o doplnkovú rešerš obsahuje údaj podľa pravidla 45bis.1(d), doplnková medzinárodná rešerš sa môže obmedziť na vynález, ktorý označil prihlasovateľ podľa pravidla 45bis.1(d), a tie časti medzinárodnej prihlášky, ktoré sa týkajú tohto vynálezu.
+        - (b) Doplnková medzinárodná rešerš sa vykoná na základe medzinárodnej prihlášky tak, ako bola podaná alebo na základe prekladu uvedeného v pravidle 45bis.1(b)(iii) alebo 45bis.1(c)(i) s prihliadnutím na správu o medzinárodnej rešerši a písomný posudok vypracovaný podľa pravidla 43bis.1, ak sú dostupné orgánu špecifikovanému pre doplnkovú rešerš pred začatím rešerše. Ak žiadosť o doplnkovú rešerš obsahuje údaj podľa pravidla 45bis.1(d), doplnková medzinárodná rešerš sa môže obmedziť na vynález, ktorý označil prihlasovateľ podľa pravidla 45bis.1(d), a tie časti medzinárodnej prihlášky, ktoré sa týkajú tohto vynálezu.
 
         - (c) Na účely doplnkovej medzinárodnej rešerše sa článok 17(2) a pravidlá 13ter.1, 33 a 39 použijú mutatis mutandis.
 
@@ -1798,7 +1816,9 @@
 
         - (f) Doplnková medzinárodná rešerš sa musí týkať aspoň dokumentácie uvádzanej na tento účel v príslušnej dohode podľa článku 16(3)(b).
 
-        - (g) Ak orgán špecifikovaný pre doplnkovú rešerš zistí, že vykonanie rešerše je vylúčené obmedzením alebo podmienkami uvedenými v pravidle 45bis.9(a), žiadosť o doplnkovú rešerš sa bude považovať za nepodanú a orgán o tom vydá vyhlásenie a ihneď informuje prihlasovateľa a taktiež Medzinárodný úrad.
+        - (g) Ak orgán špecifikovaný pre doplnkovú rešerš zistí, že vykonanie rešerše je vylúčené obmedzením alebo podmienkami uvedenými v pravidle 45bis.9(a), inými než obmedzením podľa článku 17(2), ako sa uplatňujú podľa pravidla 45bis.5(c), žiadosť o doplnkovú rešerš sa bude považovať za nepodanú a orgán o tom vydá vyhlásenie a ihneď informuje prihlasovateľa a taktiež Medzinárodný úrad.
+
+        - (h) Orgán špecifikovaný pre doplnkovú rešerš v súlade s obmedzením alebo podmienkami uvedenými v pravidle 45bis.9(a) môže rozhodnúť, aby sa rešerš obmedzila iba na niektoré nároky; v takom prípade to musí byť uvedené v správe o doplnkovej rešerši.
 
       - 45bis.6 Jednotnosť vynálezu
 
@@ -1824,7 +1844,7 @@
 
         - (e) Na základe žiadosti prihlasovateľa obidva texty, žiadosť o preskúmanie a rozhodnutie na jej základe sa musia zaslať určeným úradom spolu so správou o doplnkovej medzinárodnej rešerši. Prihlasovateľ musí ich preklad predložiť spolu s predložením požadovaného prekladu medzinárodnej prihlášky podľa článku 22.
 
-        - (f) Odseky (a) až (e) sa použijú mutatis mutandis, ak sa orgán špecifikovaný pre doplnkovú medzinárodnú rešerš rozhodne obmedziť doplnkovú medzinárodnú rešerš v súlade s druhou vetou pravidla 45bis.5(b) s tým, že každý odkaz na „medzinárodnú prihlášku“ v spomínaných odsekoch sa bude chápať ako odkaz na tie časti medzinárodnej prihlášky, ktoré sa vzťahujú na vynález, ktorý označil prihlasovateľ podľa pravidla 45bis.1(d).
+        - (f) Odseky (a) až (e) sa použijú mutatis mutandis, ak sa orgán špecifikovaný pre doplnkovú medzinárodnú rešerš rozhodne obmedziť doplnkovú medzinárodnú rešerš v súlade s druhou vetou pravidla 45bis.5(b) alebo pravidlom 45bis.5(h) za predpokladu, že každý odkaz na „medzinárodnú prihlášku“ v spomínaných odsekoch sa bude chápať ako odkaz na tie časti medzinárodnej prihlášky, ktoré sa vzťahujú na vynález, ktorý označil prihlasovateľ podľa pravidla 45bis.1(d) alebo jednotlivo, ktoré sa vzťahujú na nároky a tie časti medzinárodnej prihlášky, na ktorú bude orgán vykonávať medzinárodnú doplnkovú rešerš.
 
       - 45bis.7 Správa o doplnkovej medzinárodnej rešerši
 
@@ -1856,9 +1876,9 @@
 
         - (b) Orgán pre medzinárodnú rešerš vykonávajúci medzinárodnú rešerš podľa článku 16(1) na medzinárodnú prihlášku nebude kompetentný na vykonanie doplnkovej medzinárodnej rešerše na túto medzinárodnú prihlášku.
 
-        - (c) Obmedzenia uvedené v odseku (a) môžu napríklad obsahovať obmedzenia, pokiaľ ide o predmet, na ktorý sa bude vykonávať doplnková medzinárodná rešerš, okrem tých, ktoré by sa uplatnili podľa článku 17(2) na medzinárodnú rešerš, a obmedzenia, pokiaľ ide o celkový počet doplnkových medzinárodných rešerší, ktoré budú vykonané v danom období.
+        - (c) Obmedzenia uvedené v odseku (a) môžu napríklad obsahovať obmedzenia, ak ide o predmet, na ktorý sa bude vykonávať doplnková medzinárodná rešerš, iné obmedzenia podľa článku 17(2), ako sa uplatňujú v pravidle 45bis.5(c), obmedzenia na celkový počet doplnkových medzinárodných rešerší, ktoré sa budú vykonávať v danom období, a obmedzenia s cieľom zamedziť rozšírenie doplnkovej medzinárodnej rešerše na ktorýkoľvek nárok mimo stanoveného počtu nárokov.
 
-    - Pravidlo 46 Úprava nárokov v konaní na Medzinárodnom úrade
+    - Pravidlo 46 Úprava nárokov v konaní na medzinárodnom úrade
 
       - 46.1 Lehota
 
@@ -1886,7 +1906,9 @@
 
           - (i) musí označiť nároky, ktoré sa v dôsledku úprav líšia od pôvodne podaných nárokov, a musí upozorniť na rozdiely medzi pôvodne podanými a upravenými nárokmi,
 
-          - (ii) musí označiť pôvodne podané nároky, ktoré sú v dôsledku zmien zrušené.
+          - (ii) musí označiť pôvodne podané nároky, ktoré sú pre zmeny zrušené,
+
+          - (iii) musí označiť základ pre zmeny v pôvodne podanej prihláške.
 
     - Pravidlo 47 Postúpenie určeným úradom
 
@@ -2440,13 +2462,19 @@
 
         - Návrh na medzinárodný predbežný prieskum podlieha poplatku v prospech Medzinárodného úradu („rokovací poplatok“), pričom poplatok vyberie orgán pre predbežný medzinárodný prieskum, ktorému sa návrh predložil.
 
-      - 57.2 Výška poplatkov
+      - 57.2 Výška poplatku
 
         - (a) Výška rokovacieho poplatku je určená sadzobníkom poplatkov
 
-        - (c) Manipulačný poplatok je splatný v mene alebo v niektorej z mien predpísaných orgánom pre medzinárodný predbežný prieskum („predpísaná mena“), čím sa rozumie, že musí byť pri odovzdávaní týmto orgánom na Medzinárodný úrad voľne zameniteľný na švajčiarsku menu. Výšku manipulačného poplatku stanoví v každej predpísanej mene pre každý orgán pre medzinárodný predbežný prieskum, ktorý predpisuje platbu manipulačného poplatku v inej mene než švajčiarskej, generálny riaditeľ po porade s úradom, s ktorým konzultuje podľa pravidla 15.2(b), alebo ak taký úrad nie je, s orgánom, ktorý predpisuje platbu v tejto mene podľa kurzu tejto meny. Takto stanovená suma bude v zaokrúhlených číslach zodpovedať sume stanovenej vo švajčiarskej mene v sadzobníku poplatkov. Medzinárodný úrad oznámi túto sumu každému orgánu pre medzinárodný predbežný prieskum a zverejní ju vo Vestníku.
+        - (b) Manipulačný poplatok je splatný v mene alebo v jednej z mien, ktoré predpísal orgán pre medzinárodný predbežný prieskum („predpísaná mena“).
 
-        - (d) Ak dôjde ku zmene výšku rokovacieho poplatku určeného sadzobníka, zodpovedajúce sumy v predpísaných menách sa použijú odo dňa zmeny sadzobníka.
+        - (c) Ak je predpísaná mena vo švajčiarskych frankoch, orgán ihneď zašle uvedený poplatok medzinárodnému úradu vo švajčiarskych frankoch.
+
+        - (d) Ak je predpísaná mena v inej mene než švajčiarsky frank a táto mena
+
+          - (i) je voľne konvertibilná na švajčiarske franky, generálny riaditeľ stanoví pre každý orgán, ktorý predpisuje takú menu na platbu manipulačného poplatku, ekvivalentnú výšku tohto poplatku v predpísanej mene podľa smerníc Zhromaždenia a orgán sumu v tejto mene ihneď prevedie Medzinárodnému úradu,
+
+          - (ii) nie je voľne konvertibilná na švajčiarske franky, orgán zodpovedá za konverziu manipulačného poplatku z predpísanej meny na švajčiarske franky a poplatok vo švajčiarskych frankoch vo výške stanovenej sadzobníkom poplatkov ihneď prevedie Medzinárodnému úradu; eventuálne, ak si orgán želá, môže konvertovať manipulačný poplatok na eurá alebo americké doláre a ihneď previesť Medzinárodnému úradu ekvivalentnú čiastku tohto poplatku v eurách alebo v amerických dolároch, ako ju stanovil generálny riaditeľ podľa smerníc Zhromaždenia, ako sa uvádza v bode (i).
 
         - (e) Ak sa výmenný kurz medzi švajčiarskou menou a predpísanou menou oproti poslednému použitému výmennému kurzu zmení, určí generálny riaditeľ nové sumy v predpísanej mene podľa smerníc Zhromaždenia. Novourčené sumy sa použijú po uplynutí dvoch mesiacov od ich uverejnenia vo Vestníku, ibaže sa príslužný orgán pre medzinárodný predbežný prieskum s generálnym riaditeľom dohodne na kratšej lehote, v tomto prípade príslušný orgán používa spomenuté sumy až od dohodnutého dátumu.
 
@@ -2460,7 +2488,13 @@
 
         - (d) Výška manipulačného poplatku je výška poplatku platná v deň platby.
 
-      - 57.4 (zrušené)
+      - 57.4 Vrátenie poplatku
+
+      - Orgán pre medzinárodný predbežný prieskum vráti manipulačný poplatok prihlasovateľovi, ak
+
+        - (i) je návrh späťvzatý predtým, ako ho orgán zaslal medzinárodnému úradu alebo
+
+        - (ii) ak sa návrh považuje za nepodaný podľa pravidla 54.4 alebo 54bis.1(b).
 
       - 57.6. Vrátenie poplatku
 
@@ -2744,7 +2778,7 @@
 
       - 66.8 Forma úprav
 
-        - (a) Ak sa okrem odseku (b) zmenil opis alebo obrázky, prihlasovateľ musí predložiť náhradný list za každý list medzinárodnej prihlášky, ktorý sa v dôsledku úpravy líši od skôr podaného listu. Spolu s náhradným listom alebo listami musí byť predložený sprievodný list, ktorý musí upozorniť na rozdiely medzi nahradzovanými listami a náhradnými listami a predovšetkým musí tiež vysvetliť dôvody úprav.
+        - (a) S výhradou odseku (b), ak sa upravuje opis alebo obrázky, vyžaduje sa, aby prihlasovateľ predložil náhradný list za každý list medzinárodnej prihlášky, ktorý sa pre úpravu líši od listu, ktorý pôvodne podal. List, ktorý je doložený k náhradnému listu alebo listom, musí upozorniť na rozdiely medzi nahradzovanými listami a náhradnými listami, uviesť podklady na úpravy v pôvodne podanej prihláške a tiež vysvetliť dôvod úprav.
 
         - (b) Ak úprava spočíva vo vypustení niektorých častí alebo v menších zmenách alebo v dodatkoch, náhradným listom podľa odseku (a) môže byť kópia príslušného listu medzinárodnej prihlášky obsahujúca zmeny alebo dodatky za predpokladu, že nebudú nepriaznivo ovplyvňovať jasnosť a spôsobilosť na priamu reprodukciu. Ak niektorá úprava spočíva v zrušení celého listu, uvedie sa taká úprava v liste, v ktorom sa vysvetlia aj dôvody úpravy.
 
@@ -2871,6 +2905,8 @@
         - (b) Ak správa bola podľa pravidla 66.7 (a) alebo (b) spracovaná tak, akoby nedošlo k uplatneniu priority, musí sa to v nej uviesť.
 
         - (c) Ak sa orgán pre medzinárodný predbežný prieskum domnieva, že niektorá úprava presahuje rozsah vynálezu pri podaní medzinárodnej prihlášky, spracuje správu tak, akoby k úprave nedošlo, a uvedie to v správe. Uvedie aj dôvody, prečo podľa jeho mienky úprava rozsah presahuje.
+
+        - (c-bis) Ak boli zmenené nároky, opis alebo obrázky, ale k náhradnému listu alebo listom nebol doložený sprievodný list uvádzajúci podklady na úpravy v pôvodne podanej prihláške, ako sa vyžaduje podľa pravidla 46.5(b)(iii) na základe príslušného ustanovenia pravidla 66.8(c) alebo prípadne 66.8(a), môže sa správa vypracovať tak, ako keby sa úpravy nevykonali; v takom prípade sa to uvedie v správe.
 
         - (d) Ak sa nároky vzťahujú na vynálezy, na ktoré sa nespracovala medzinárodná rešeršová správa, a neboli preto predmetom medzinárodného predbežného prieskumu, musí sa to v správe o medzinárodnom predbežnom prieskume uviesť.
 
@@ -3716,8 +3752,8 @@
 
         - (b) Medzinárodný úrad môže na žiadosť a oproti zaplateniu výdavkov dodať komukoľvek kópie prekladov, ktoré mu došli podľa odseku (a).
 
-    - PRAVIDLO 96 SADZOBNÍK POPLATKOV
+    - Pravidlo 96 Sadzobník poplatkov
 
       - 96.1 Sadzobník poplatkov pripojený k Vykonávaciemu predpisu
 
-        - Výška poplatkov podľa pravidiel 15 a 57 sa uvádza vo švajčiarskej mene. Je určená sadzobníkom poplatkov pripojeným k tomuto Vykonávaciemu predpisu, ktorého sú neoddeliteľnou súčasťou.
+        - Výška poplatkov podľa pravidiel 15, 45bis.2 a 57 sa uvádza vo švajčiarskej mene. Je určená sadzobníkom poplatkov pripojeným k tomuto Vykonávaciemu predpisu, ktorého sú neoddeliteľnou súčasťou.
