@@ -198,6 +198,10 @@
 
 - 45) Napríklad § 102a ods. 2 písm. b) a c) zákona č. 73/1998 Z. z. v znení zákona č. 201/2004 Z. z.
 
+- 45a) § 101a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
+
+- § 21b zákona č. 553/2003 Z. z. v znení zákona č. 151/2010 Z. z.
+
 - 46) § 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 47) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
