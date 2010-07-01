@@ -283,3 +283,5 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
 - 31. Smernica Komisie 2010/28/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metalaxyl ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
 
 - 32. Smernica Komisie 2010/29/EÚ z 27. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flonikamid (IKI-220) medzi účinné látky (Ú. v. EÚ L 106, 28. 4. 2010).
+
+- 33. Smernica Komisie 2010/34/EÚ z 31. mája 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky penkonazol (Ú. v. EÚ L 134, 1. 6. 2010).
