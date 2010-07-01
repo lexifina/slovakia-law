@@ -6,4 +6,4 @@
 
 (3) Notár na žiadosť fyzickej osoby alebo právnickej osoby zabezpečí uloženie prvopisu listiny v elektronickej podobe v registri listín.
 
-(4) Každý notár môže vydať z registra listín osvedčený odpis notárskej zápisnice za podmienok ustanovených v § 74 a osvedčený odpis listiny uloženej do registra listín na žiadosť fyzickej osoby alebo právnickej osoby s jej súhlasom alebo za podmienok ňou určených.
+(4) Každý notár môže vydať z registra listín osvedčený odpis notárskej zápisnice za podmienok ustanovených v § 74 a osvedčený odpis listiny uloženej do registra listín na žiadosť fyzickej osoby alebo právnickej osoby s jej súhlasom alebo za podmienok ňou určených. Ak o to súd požiada, notár vydá osvedčený odpis dohody o začatí mediácie<sup>6bc</sup>) súdu na účely súdneho konania. Notár nemôže vykonať výmaz dohody o začatí mediácie z registra listín.
