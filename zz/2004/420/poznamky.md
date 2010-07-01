@@ -6,7 +6,9 @@
 
 - 4) § 1 Zákonníka práce.
 
-- 4a) § 3 až 6 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+- 4a) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) (Ú. v. EÚ L 177, 4. 7. 2008), nariadenie Európskeho parlamentu a Rady (ES) č. 864/2007 z 11. júla 2007 o rozhodnom práve pre mimozmluvné záväzky (RÍM II) (Ú. v. EÚ L 199, 31. 7. 2007).
+
+- 4b) Čl. 59 a 60 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4; Ú. v. ES L 12, 16. 1. 2001).
 
 - 5) § 415 až 450 Občianskeho zákonníka.
 
@@ -23,3 +25,7 @@
 - 8) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
 - 9) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku.
+
+- 10) § 73k zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 11) § 73k ods. 4 zákona č. 323/1992 Zb. v znení neskorších predpisov.
