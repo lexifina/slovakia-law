@@ -8,8 +8,6 @@
 
 - 10) § 57 stavebního zákona.
 
-- 11) § 20 odst. 1 písm. c), § 24 odst. 4, § 36 až 39 a § 43 vyhlášky č. 5/1987 Sb., o dokumentaci staveb.
-
 - 13) § 86 a 87 a § 94 stavebního zákona.
 
 - 16) Úmluva UNESCO o opatřeních k zákazu a zamezení nedovoleného dovozu, vývozu a převodu vlastnictví kulturních statků z roku 1970 (vyhláška č. 15/1980 Sb.).
