@@ -250,7 +250,7 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Fidži
 
-    - „The Chief Registrar of the Supreme Court of Fiji“
+    - Stály tajomník ministerstva zahraničných vecí, medzinárodnej spolupráce a civilného letectva
 
     - Fínsko
 
