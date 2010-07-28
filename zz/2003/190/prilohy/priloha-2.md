@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 190/2003 Z. z. [Vzor 02](../assets/c86cb6837625e68c1b79527fdf9d37d2d26adb740ceffc741947ef34ea6f30f4.pdf)
+Príloha č. 2 k zákonu č. 190/2003 Z. z. [Vzor 02](../assets/91d35773b3abe32cc909c3899b594f62ea72289020f670398b97deb0055d9dc8.pdf)

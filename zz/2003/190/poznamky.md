@@ -8,8 +8,6 @@
 
 - 5) § 2 ods. 2 zákona č.115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení zákona č. 387/2001 Z. z.
 
-- 6) § 4 zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 496/2002 Z. z.
-
 - 7) § 4 zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
 - 8) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -27,6 +25,8 @@
 - 14) Napríklad zákon č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
 - 15) Zákon č. 179/1998 Z. z. v znení neskorších predpisov.
+
+- 15a) § 9 zákona č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov.
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
@@ -49,6 +49,8 @@
 - 23) § 10 Občianskeho zákonníka.
 
 - 24) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z., zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov.
+
+- 24a) Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov.
 
 - 25) Napríklad zákon č. 23/1962 Zb. v znení neskorších predpisov.
 
@@ -85,3 +87,7 @@
 - 39) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 215/2002 Z. z.
 
 - 40) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
+
+- 41) Nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+
+- 42) § 4 zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
