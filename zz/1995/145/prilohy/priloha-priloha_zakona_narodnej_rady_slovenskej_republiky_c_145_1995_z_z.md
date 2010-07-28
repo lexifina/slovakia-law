@@ -4204,23 +4204,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 260
 
-  - Žiadosť o vydanie zbrojného sprievodného listu na dovoz a prevoz (jednosmerný i obojsmerný) |
-
-  - a) každej zbrane, hlavnej časti zbrane alebo špeciálneho expanzného prístroja ..... | 14,50 eura
-
-  - b) streliva ..... | 3 eurá
-
-  - Oslobodenie |
-
-  - 1. Od poplatku podľa tejto položky sú oslobodené povolenia na dovoz a prevoz zbrane získanej ako cena v streleckých alebo iných podobných súťažiach. |
-
-  - 2. Od poplatku podľa tejto položky sú oslobodené osoby, ktorým sa podľa medzinárodných zmlúv poskytuje pri ich pobyte na území Slovenskej republiky osobná ochrana, a členovia ozbrojených sprievodov týchto osôb. |
-
-  - 3. Od poplatku podľa tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. |
-
-  - 4. Od poplatkov podľa tejto položky sú oslobodení príslušníci ozbrojených zborov iných štátov, ak dovážajú alebo prevážajú zbrane a strelivo pri plnení úloh v rámci spolupráce s Policajným zborom. |
-
-  - 5. Od poplatku podľa tejto položky sú oslobodené osoby, ktoré sa zúčastnia na medzinárodnej súťaži v športovej streľbe alebo na inej obdobnej súťaži, ktorej súčasťou je športová streľba, ako aj osoby, ktoré získajú ceny v týchto súťažiach. |
+  - Žiadosť o vydanie zbrojného sprievodného listu na každú zbraň, jej hlavnú časť alebo strelivo ..... | 16,50 eura
 
     - Položka 261
 
