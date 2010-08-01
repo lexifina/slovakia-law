@@ -2,7 +2,7 @@ Príloha č. 3 k vyhláške č. 125/2004 Z. z. VZOR
 
 HLÁSENIE SPRACOVATEĽA STARÝCH VOZIDIEL
 
-[Príloha 03](../assets/3e1892fd27a5f017f8da107bf45c724f3937489d679184aa812a94d169f6a154.pdf)
+[Príloha 03](../assets/430c7eae305eb8b9edb76b860f4e009ddec9ac8bfd7e8f1f655d2f1c2a5e0c7d.pdf)
 
 Tlačivo HLÁSENIE SPRACOVATEĽA STARÝCH VOZIDIEL
 
