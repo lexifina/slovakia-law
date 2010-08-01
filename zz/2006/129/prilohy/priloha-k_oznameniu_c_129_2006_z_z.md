@@ -330,6 +330,8 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. Ministerstvo práce, zdravotníctva a sociálnych vecí
 
+  - 5. Orgán verejnej správy ministerstva vnútra
+
     - Helénska republika
 
   - 1. prefekt pre všetky listiny vydané správnymi orgánmi prefektúry
