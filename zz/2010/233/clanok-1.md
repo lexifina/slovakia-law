@@ -4,7 +4,21 @@ Nariadenie vlády Slovenskej republiky č. 373/2008 Z. z., ktorým sa ustanovuj�
 
 - 1. Za § 12 sa vkladajú § 12a a 12b, ktoré znejú:
 
-- „§ 12b
+- „§ 12a
+
+- (1)
+
+- Kontrolný ústav podľa osobitného predpisu<sup>12</sup>) zruší registráciu, povolenie na prebaľovanie prípravkov alebo povolenie na dovoz súbežných prípravkov s obsahom účinnej látky tolylfluanid najneskôr do 30. novembra 2010; v týchto rozhodnutiach zároveň určí lehotu na zneškodnenie existujúcich skladových zásob uvedeného prípravku najneskôr do 31. mája 2011.
+
+- (2)
+
+- Neukončené konania o žiadostiach podľa osobitného predpisu<sup>13</sup>) týkajúce sa prípravkov s obsahom účinnej látky tolylfluanid predložených pred 30. novembrom 2010 kontrolný ústav zamietne.
+
+- (3)
+
+- Od 1. decembra 2010 kontrolný ústav zamietne žiadosti podľa osobitného predpisu<sup>13</sup>) týkajúce sa prípravkov s obsahom účinnej látky tolylfluanid.
+
+- § 12b
 
 - Kontrolný ústav zmení, doplní alebo zruší rozhodnutia podľa osobitného predpisu<sup>12</sup>) o registrácii prípravkov, o povolení na prebaľovanie alebo povolenia na dovoz súbežných prípravkov s obsahom účinnej látky klotianidín, thiamethoxam, fipronil alebo imidakloprid podľa podmienok uvedených v prílohe č. 1 najneskôr do 31. októbra 2010.“.
 
@@ -17,6 +31,8 @@ Nariadenie vlády Slovenskej republiky č. 373/2008 Z. z., ktorým sa ustanovuj�
 - 13)
 
 - § 11 až 13 zákona č. 193/2005 Z. z. v znení neskorších predpisov.“.
+
+- 2. V prílohe č. 1 sa vypúšťa riadok č. 122 (tolylfluanid).
 
 - 3. V prílohe č. 1 riadky č. 123, 142, 163 a 222 znejú:
 
