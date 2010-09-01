@@ -1,6 +1,6 @@
 Príloha č. 2 k nariadeniu vlády č. 329/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Komisie 2006/140/ES z 20. decembra 2006, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES tým, že sa do prílohy I k tejto smernici zaradí fluorid sulfurylu ako aktívna látka (Ú. v. EÚ L 414, 30. 12. 2006).
 
@@ -55,3 +55,19 @@ Príloha č. 2 k nariadeniu vlády č. 329/2007 Z. z.
   - 26. Smernica Komisie 2009/98/ES zo 4. augusta 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť oxid boritý ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 203, 5. 8. 2009).
 
   - 27. Smernica Komisie 2009/99/ES zo 4. augusta 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť chlórofacinón ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 203, 5. 8. 2009).
+
+  - 28. Smernica Komisie 2009/150/ES z 27. novembra 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť flokumafén ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 313, 28. 11. 2009).
+
+  - 29. Smernica Komisie 2009/151/ES z 27. novembra 2009, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť tolylfluanid ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 313, 28. 11. 2009).
+
+  - 30. Smernica Komisie 2010/5/EÚ z 8. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť akrylaldehyd ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 36, 9. 2. 2010).
+
+  - 31. Smernica Komisie 2010/7/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť fosfid horečnatý uvoľňujúci fosfín ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
+
+  - 32. Smernica Komisie 2010/8/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť nátrium-warfarín ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
+
+  - 33. Smernica Komisie 2010/9/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom rozšíriť zaradenie aktívnej látky fosfidu hlinitého uvoľňujúceho fosfín do prílohy I k uvedenej smernici ako výrobok typu 18, ako sa uvádza v prílohe V k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
+
+  - 34. Smernica Komisie 2010/10/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť brodifakum ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
+
+  - 35. Smernica Komisie 2010/11/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť warfarín ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
