@@ -16,9 +16,17 @@ Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v z
 
 - je povinný krájané potraviny označovať údajom o ich zložení na výveske na viditeľnom mieste v blízkosti vystavenej potraviny,
 
+- o)
+
+- je povinný potraviny, ktoré obsahujú rastlinné tuky alebo iné náhrady, umiestniť oddelene od výrobkov z mlieka alebo výrobkov z mäsa,
+
 - p)
 
-- nesmie ich predávať na miestach, na ktorých je predaj zakázaný podľa osobitného predpisu,<sup>9abf</sup>)“.
+- nesmie ich predávať na miestach, na ktorých je predaj zakázaný podľa osobitného predpisu,<sup>9abf</sup>)
+
+- r)
+
+- je povinný potraviny, ktoré obsahujú menej ako 50 % mäsa, umiestniť oddelene od ostatných výrobkov z mäsa.“.
 
 - Poznámka pod čiarou k odkazu 9abf znie:
 
