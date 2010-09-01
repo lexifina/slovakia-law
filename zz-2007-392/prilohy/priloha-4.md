@@ -1,0 +1,11 @@
+Príloha č. 4 k vyhláške č. 392/2007 Z. z.
+
+- POPIS HYDROGEOLOGICKEJ ŠTRUKTÚRY PRÍRODNÝCH LIEČIVÝCH ZDROJOV V TURČIANSKYCH TEPLICIACH
+
+  - Ochranné pásma prírodných liečivých zdrojov v Turčianskych Tepliciach sa ustanovujú na základe výsledkov záverečnej geologickej správy „Návrh revízie ochranných pásiem prírodných liečivých zdrojov v Turčianskych Tepliciach, Vrana, Hanzel 2005“.
+
+  - Hydrogeologická štruktúra prírodných liečivých zdrojov v Turčianskych Tepliciach patrí medzi otvorené hydrogeologické štruktúry s infiltračnou, tranzitnoakumulačnou a výverovou oblasťou. Infiltračnou oblasťou sú západné svahy Veľkej Fatry budované triasovými vápencami a dolomitmi krížňanského a chočského príkrovu. Karbonatické komplexy sa ponárajú pod Turčiansku kotlinu a vytvárajú prirodzené prostredie pre tvorbu a akumuláciu minerálnych vôd. V podloží Turčianskej kotliny sú vytvorené dva významné kolektory, prvým sú karbonáty krížňanského príkrovu, druhým sú karbonáty chočského príkrovu a neogénne karbonatické zlepence. Oba kolektory sú od seba oddelené nepriepustným súvrstvím spodnej kriedy.
+
+  - Hlavné tektonické línie severovýchodného smeru križované líniami smeru východ – západ umožňujú prirodzený výstup termominerálnych vôd do kvartérnych komplexov tvorených štrkopiesčitými sedimentmi, kde sa vytvára sekundárna akumulácia minerálnych vôd. Sekundárnou akumuláciou a plytkým výskytom minerálnych vôd pod terénom bolo možné vybudovanie a využívanie minerálnych vôd formou piscín v Bielom, Červenom, Modrom a Ľudovom bazéne. Termominerálne vody sú v oblasti zachytené aj vrtmi TJ-20A, TJ-3, B-2, TTM-1, TTM-2, TTK-1, ako aj vrtmi HM-2 a TTŠ-1, ktoré sa nachádzajú západne od Turčianskych Teplíc pri rybnej farme.
+
+  - Všetky zdroje vo výverovej oblasti zachytávajú termominerálnu vodu, ktorá je viazaná a formovaná najmä v karbonátoch chočského príkrovu a neogénnych zlepencoch, len zdroj TTŠ-1 zachytáva vodu, ktorá sa formuje v krížňanskom príkrove s teplotou 53 <sup>o</sup>C a mineralizáciou 2500 mg.l<sup>-1</sup>. Termominerálna voda je stredne mineralizovaná, hydrogénuhličitanovo-síranového, vápenato-horečnatého chemického typu, uhličitá, stredne termálna. Z genetického hľadiska ide o prechodný hydrogénuhličitanovo-síranový typ, ktorý je výsledkom intenzity rozpúšťania karbonátov a evaporitov.
