@@ -56,6 +56,12 @@
 
 - 22) § 408a Obchodného zákonníka.
 
+- 22a) Trestný poriadok v znení neskorších predpisov.
+
+- 22b) § 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 22c) § 59 ods. 1 a § 83b ods. 4 Trestného zákona v znení zákona č. 224/2010 Z. z.
+
 - 23) Obchodný zákonník.
 
 - 24) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
