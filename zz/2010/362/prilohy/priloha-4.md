@@ -1,0 +1,7 @@
+Príloha č. 4 k vyhláške č. 362/2010 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Európskeho parlamentu a Rady 98/70/ES z 13. októbra 1998 týkajúca sa kvality benzínu a naftových palív, a ktorou sa mení a dopĺňa smernica Rady 93/12/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 23; Ú. v. ES L 350, 28. 12. 1998) v znení smernice Komisie č. 2000/71/ES zo 7. novembra 2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 26; Ú. v. ES L 287, 14. 11. 2000), smernice Európskeho parlamentu a Rady 2003/17/ES z 3. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 31; Ú. v. EÚ L 76, 22. 3. 2003), nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003) a smernice Európskeho parlamentu a Rady 2009/30/ES z 23. apríla 2009 (Ú. v. EÚ L 140, 5. 6. 2009).
+
+  - 2. Smernica Rady 1999/32/ES z 26. apríla 1999 o znížení obsahu síry v niektorých kvapalných palivách, ktorou sa mení a dopĺňa smernica 93/12/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 24; Ú. v. ES L 121, 11. 5. 1999) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003), smernice Európskeho parlamentu a Rady 2005/33/ES zo 6. júla 2005 (Ú. v. EÚ L 191, 22. 7. 2005), nariadenia Európskeho parlamentu a Rady (ES) č. 219/2009 z 11. marca 2009 (Ú. v. EÚ L 87, 31. 3. 2009) a smernice Európskeho parlamentu a Rady 2009/30/ES z 23. apríla 2009 (Ú. v. EÚ L 140, 5. 6. 2009).
