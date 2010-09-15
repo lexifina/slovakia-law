@@ -1,4 +1,4 @@
-- 1) § 1 ods. 1 písm. a) vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 18/1999 Z. z., ktorou sa ustanovujú podrobnosti o označovaní zloženia a spôsobe zaobchádzania s textilnými výrobkami.
+- 1) § 2 písm. a) vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 370/2008 Z. z., ktorou sa ustanovujú podrobnosti o označovaní materiálového zloženia textilných výrobkov.
 
 - 1) V niektorých prípadoch je potrebné jednotlivé skúšobné vzorky predbežne spracovať.
 

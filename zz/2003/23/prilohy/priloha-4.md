@@ -38,7 +38,7 @@ Príloha č. 4 k nariadeniu vlády č. 23/2003 Z. z.
 
 - Analýzy sa vykonávajú na základe suchej hmotnosti. Postup jej stanovenia je uvedený.
 
-- Výsledok sa získa na základe suchej hmotnosti jednotlivých vláken s použitím zmluvných prirážok uvedených v prílohe č. 3 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 18/1999 Z. z.
+- Výsledok sa získa na základe suchej hmotnosti jednotlivých vláken s použitím zmluvných prirážok uvedených v prílohe č. 4 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 370/2008 Z. z.
 
 - Pred analýzou treba identifikovať všetky vlákna prítomné v zmesi. Pri niektorých chemických metódach sa môžu nerozpustné zložky zmesi čiastočne rozpúšťať v činidlách, ktoré sa používajú na rozpustenie rozpustných zložiek. Všade tam, kde je to možné, sa zvolí činidlo s minimálnym alebo nulovým účinkom na nerozpustné vlákna. Ak je známy úbytok hmotnosti počas analýzy, výsledok treba opraviť. Na tento účel sú stanovené opravné koeficienty. Tieto koeficienty boli stanovené vo viacerých laboratóriách tak, že na vlákna, z ktorých boli predbežným spracovaním odstránené látky nevláknovej povahy, sa nechali pôsobiť príslušné činidlá uvedené v analytickej metóde. Tieto opravné koeficienty platia iba pre nedegradované vlákna. Ak vlákna pred spracovaním alebo počas neho podliehajú degradácii, potom treba použiť iné opravné koeficienty. Ak treba použiť štvrtý variant, v ktorom sa na textilné vlákna postupne pôsobí dvoma rôznymi rozpúšťadlami, potom treba použiť opravné koeficienty zohľadňujúce možné úbytky hmotnosti, ku ktorým dochádza pri vlákne počas pôsobenia týchto rozpúšťadiel. V prípade ručného aj chemického oddeľovania treba vykonať najmenej dve stanovenia.
 
@@ -460,7 +460,7 @@ Príloha č. 4 k nariadeniu vlády č. 23/2003 Z. z.
 
       - Tento obsah v % treba upraviť podľa vzorca uvedeného v prílohe č. 3 v bode I.8.2 pomocou zmluvných prirážok a opravných koeficientov pre prípadné úbytky na hmotnosti po predbežnom spracovaní.
 
-      - V prílohe č. 3 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 18/1999 Z. z. sú uvedené takéto zmluvné prirážky: 17,0 % pre mykanú vlnu; 6,25 % pre polyamid; 8,5 % pre bavlnu; úbytok na hmotnosti bavlny po predbežnom spracovaní petroléterom a vodou je 4 %. Preto:
+      - V prílohe č. 4 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 370/2008 Z. z. sú uvedené takéto zmluvné prirážky: 17,0 % pre mykanú vlnu; 6,25 % pre polyamid; 8,5 % pre bavlnu; úbytok na hmotnosti bavlny po predbežnom spracovaní petroléterom a vodou je 4 %. Preto:
 
       - P<sub>1A</sub>% (vlna) = [10,30 x (1 + {17,0 + 0,0}/100)/10,30 x (1 + {17,0 + 0,0}/100) + 50,00 x (1 + {6,25 + 0,0}/100) + 39,70 x (1 + {8,5 + 4,0/100})] x 100 = 10,97,
 

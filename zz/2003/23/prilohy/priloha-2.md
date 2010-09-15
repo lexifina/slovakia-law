@@ -58,7 +58,7 @@ Príloha č. 2 k nariadeniu vlády č. 23/2003 Z. z.
 
     - Laboratórnou vzorkou partie je zvyčajne konfekčný výrobok, hotový kusový výrobok alebo jeho reprezentatívna časť.
 
-    - Pri odbere vzoriek treba brať do úvahy aj tie časti výrobkov, ktoré nemajú rovnaký obsah vláken podľa § 3 a 4 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 18/1999 Z. z., ktorou sa ustanovujú podrobnosti o označovaní zloženia a spôsobe zaobchádzania s textilnými výrobkami.
+    - Pri odbere vzoriek treba brať do úvahy aj tie časti výrobkov, ktoré nemajú rovnaký obsah vláken podľa § 6 až 8 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 370/2008 Z. z., ktorou sa ustanovujú podrobnosti o označovaní materiálového zloženia textilných výrobkov v znení vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 284/2009 Z. z..
 
     - Odoberie sa laboratórna skúšobná vzorka reprezentujúca časť konfekčného výrobku alebo hotového kusového výrobku, ktorého zloženie musí byť uvedené na etikete. Ak má výrobok niekoľko etikiet, odoberú sa reprezentatívne laboratórne vzorky z každej časti zodpovedajúcej príslušnej etikete.
 

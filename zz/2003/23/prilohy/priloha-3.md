@@ -250,19 +250,21 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - III.2.3. Uviesť individuálne výsledky a aritmetický stred, všetko s presnosťou 0,1.
 
-  - 2. ŠPECIÁLNE METÓDY – SÚHRNNÁ TABUĽKA
+  - 2 SÚHRNNÁ TABUĽKA
 
-  - Metóda číslo | Oblasť aplikovania | Činidlo |
+  - Metóda | Oblasť aplikovania | | Činidlo
+
+  - | Rozpustná zložka | Nerozpustná zložka |
 
   - 1. | acetát | určité iné vlákna | acetón
 
   - 2. | určité proteínové vlákna | určité iné vlákna | chlórnan
 
-  - 3. | viskóza, meďnaté vlákno alebo určité typy modalu | bavlna alebo elastolefin | kyselina mravčia a chlorid zinočnatý
+  - 3. | viskóza, meďnaté vlákno alebo určité typy modalu | bavlna, elastolefin alebo melamín | kyselina mravčia a chlorid zinočnatý
 
   - 4. | polyamid alebo nylon | určité iné vlákna | kyselina mravčia, 80 % m/m
 
-  - 5. | acetát | triacetát alebo elastolefin | benzylalkohol
+  - 5. | acetát | triacetát, elastolefin alebo melamín | benzylalkohol
 
   - 6. | triacetát alebo polylaktid | určité iné vlákna | dichlórmetán
 
@@ -270,19 +272,21 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
   - 8. | akrylové vlákna, určité modakrylové vlákna alebo určité chloridové vlákna | určité iné vlákna | dimetylformamid
 
-  - 9. | určité chloridové vlákna | určité iné vlákna | sírouhlík/ acetón, 55,5/44,5 v/v
+  - 9. | určité chloridové vlákna | určité iné vlákna | sírouhlík/acetón, 55,5/44,5 v/v
 
-  - 10. | acetát | určité chloridové vlákna alebo elastolefin | ľadová kyselina octová
+  - 10. | acetát | určité chloridové vlákna, elastolefin alebo melamín | ľadová kyselina octová
 
-  - 11. | hodváb | vlna, srsť alebo elastolefin | kyselina sírová, 75 % m/m
+  - 11. | hodváb | vlna, srsť, elastolefin alebo melamín | kyselina sírová, 75 % m/m
 
-  - 12. | juta | určité živočíšne vlákna | metóda na základe stanovenia obsahu dusíka
+  - 12. | juta | určité živočíšne vlákna | metóda stanovenia obsahu dusíka
 
   - 13. | polypropylén | určité iné vlákna | xylén
 
-  - 14. | určité iné vlákna | chloridové vlákna (homopolyméry vinylchloridu) alebo elastolefin | metóda s použitím koncentrovanej kyseliny sírovej
+  - 14. | určité iné vlákna | chloridové vlákna (homopolyméry vinylchloridu), elastolefin alebo melamín | metóda s koncentrovanou kyse­linou sírovou
 
   - 15. | chloridové vlákna, určité modakrylové vlákna, určité elastanové vlákna, acetátové vlákna a triacetátové vlákna | určité iné vlákna | cyklohexanón
+
+  - 16. | melamín | bavlna alebo aramid | horúca kyselina mravčia, 90 % m/m
 
     - METÓDA č. 1 ACETÁT A URČITÉ INÉ VLÁKNA
 
@@ -298,9 +302,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
     - 1.2.
 
-    - s vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), ľanom (7), pravým konope (8), jutou (9), abakou (10), alfou (11), kokosovým vláknom (12), cirokovým vláknom (broomom) (13), ramiou (14), sisalom (15), meďnatým vláknom (21), modalom (22), proteínom (23), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (34), elastomultiesterom (45) a elastolefínom.
+    - s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), ľanom (7), pravým konope (8), jutou (9), abakou (10), alfou (11), kokosovým vláknom (12), broomom (13), ramiou (14), so sisalom (15), s meďnatým vláknom (21), modalom (22), proteínom (23), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (35), elastomultiesterom (46), elastolefinom (47) a melamínom (48).
 
-    - Uvedenú metódu nemožno za žiadnych okolností aplikovať na acetátové vlákna, ktoré boli na povrchu dezacetylované.
+    - Uvedenú metódu nie je možné aplikovať na acetátové vlákna, ktoré boli na povrchu dezacetylované.
 
       - 2. PRINCÍP
 
@@ -328,7 +332,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je1,01.
 
       - 6. PRESNOSŤ
 
@@ -344,7 +348,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. určitých proteínových vláken, konkrétne: vlny (1), zvieracích chlpov (2 a 3), hodvábu (4), proteínu (23),
 
-        - 1.2. s bavlnou (5), meďnatým vláknom (21), viskózou (25), akrylom (26), chloridovými vláknami (27), polyamidom alebo nylonom (30), polyesterom (34), polypropylénom (36), elastanom (42), skleným vláknom (43), elastomultiesterom (45) a elastolefínom (46).
+        - 1.2. s bavlnou (5), meďnatým vláknom (21), viskózou (25), akrylom (26), chloridovými vláknami (27), polyamidom alebo nylonom (30), polyesterom (35), polypropylénom (37), elastanom (43), so skleným vláknom (44), s elastomultiesterom (46), elastolefinom (47) a melamínom (48).
 
         - Ak sú prítomné odlišné proteínové vlákna, metóda udáva ich celkové množstvo, ale nie ich percentuálne podiely.
 
@@ -394,7 +398,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je to opísané vo všeobecných inštrukciách. Hodnota d = 1,00 okrem bavlny, viskózy a modalu, pri ktorých d = 1,01, a nebielenej bavlny, pri ktorej d = 1,03.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem bavlny, viskózy, modalu a melamínu, ktorých hodnota „d“ je 1,01, a nebielenej bavlny, ktorej hodnota „d“ je 1,03.
 
       - 6. PRESNOSŤ
 
@@ -410,9 +414,11 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1. viskózy (25) alebo meďnatého vlákna (21) vrátane určitých typov modalového vlákna (22),
 
-        - 1.2. s bavlnou (5) a elastolefínom (46).
+        - 1.2. s bavlnou (5), elastolefinom (47) a melamínom (48).
 
-        - Ak sa ukáže, že modalové vlákno je prítomné, treba uskutočniť predbežný test s cieľom zistiť, či je rozpustné v činidle. Túto metódu nemožno použiť pri zmesiach, pri ktorých bavlna utrpela nadmernú chemickú degradáciu, ani vtedy, keď viskóza alebo meďnaté vlákno nie sú úplne rozpustné, čo zapríčiňuje prítomnosť určitých farbív alebo apretúr, ktoré nemožno úplne odstrániť.
+        - Ak sa zistí prítomnosť modalového vlákna, vykoná sa predbežný test s cieľom zistiť, či je rozpustné v činidle.
+
+        - Táto metóda nie je aplikovateľná na zmesi, v ktorých bola bavlna nadmerne chemicky degradovaná, alebo na zmesi, v ktorých sa viskóza alebo meďnaté vlákno stali neúplne rozpustnými v dôsledku prítomnosti určitých farbív alebo apretúr, ktoré nemožno úplne odstrániť.
 
       - 2. PRINCÍP
 
@@ -444,9 +450,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - Nepoužívať odsávanie, kým každá premývacia kvapalina nestečie samovoľne. Napokon odstrániť zvyšujúcu kvapalinu saním, vysušiť téglik a zvyšok ochladiť a odvážiť.
 
-      - 5. VYJADRENIE VÝSLEDKOV
+      - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky treba vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je pre bavlnu 1,02 a pre elastolefín 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ bavlny je 1,02, melamínu 1,01 a elastolefinu 1,00.
 
       - 6. PRESNOSŤ
 
@@ -462,9 +468,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. polyamidu alebo nylonu (30)
 
-        - 1.2. s vlnou (1), zvieracou srsťou (2 a 3), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylom (26), chloridovým vláknom (27), polyesterom (34), polypropylénom (36), skleným vláknom (43), elastomultiesterom (45) a elastolefínom (46).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylom (26), chloridovým vláknom (27), polyesterom (35), polypropylénom (37), so skleným vláknom (44), s elastomultiesterom (46), elastolefinom (47) a melamínom (48).
 
-        - Túto metódu možno aplikovať aj na zmesi s vlnou, ale ak je obsah vlny väčší ako 25 %, treba použiť metódu č. 2 (rozpúšťanie vlny v roztoku alkalického chlórnanu sodného).
+        - Táto metóda je aplikovateľná aj na zmesi s vlnou, ale ak je obsah vlny väčší ako 25 %, použije sa metóda č. 2 (rozpúšťanie vlny v roztoku alkalického chlórnanu sodného).
 
       - 2. PRINCÍP
 
@@ -492,7 +498,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -504,11 +510,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 1. OBLASŤ APLIKOVANIA
 
-        - Túto metódu možno aplikovať po odstránení nevláknovej látky na binárne zmesi
-
-        - – acetátu (19)
-
-        - – s triacetátom (24) a elastolefínom (46).
+        - Táto metóda je aplikovateľná po odstránení nevláknovej látky na dvojzložkové zmesi acetátu (19) s triacetátom (24), elastolefinom (47) a melamínom (48).
 
       - 2. PRINCÍP
 
@@ -544,7 +546,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -562,11 +564,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - s
 
-        - 1.2. s vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43), elastomultiesterom (45) a elastolefínom (46).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (35), so skleným vláknom (44), s elastomultiesterom (46), elastolefinom (47) a melamínom (48).
 
-        - Poznámka
-
-        - Triacetátové vlákna, ktoré dostali apretúru vedúcu k čiastočnej hydrolýze, už nie sú v činidle úplne rozpustné. V takých prípadoch nemožno metódu aplikovať.
+        - Triacetátové vlákna, ktoré boli podrobené apretúre vedúcej k čiastočnej hydrolýze, už nie sú v činidle úplne rozpustné. V takých prípadoch metóda nie je aplikovateľná.
 
       - 2. PRINCÍP
 
@@ -592,7 +592,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítajte podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem polyesteru, elastomultiesteru a elastolefínu, ktorých hodnota „d“ je 1,01.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem polyesteru, elastomultiesteru, elastolefinu a melamínu, ktorých hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -662,9 +662,9 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. akrylov (26), určitých modakrylov (29) alebo určitých chloridových vláken (27)<sup>1</sup>)
 
-        - 1.2. s vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30), polyesterom (34), elastomultiesterom (45) a elastolefínom (46).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30), polyesterom (35), elastomultiesterom (46), elastolefinom (47) a melamínom (48).
 
-        - Rovnako ju možno aplikovať na akrylové vlákna a určité modakrylové vlákna spracúvané s vopred metalizovanými farbivami, ale nie na tie, ktoré sú farbené dodatočným prechrómovaním.
+        - Je rovnako aplikovateľná na akrylové vlákna a určité modakrylové vlákna upravené metalizovanými farbivami s výnimkou vlákien farbených s dodatočným chrómovaním.
 
       - 2. PRINCÍP
 
@@ -700,9 +700,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 s výnimkou týchto prípadov:
-
-      - pre vlnu pre bavlnu pre meďnaté vlákno pre modal pre polyester pre elastomultiester | d = 1,01 d = 1,01 d = 1,01 d = 1,01 d = 1,01 d = 1,01
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem vlny, bavlny, meďnatého vlákna, modalu, polyesteru, elastomultiesteru a melamínu, ktorých hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -718,9 +716,11 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. určitých chloridových vláken (27), menovite určitých polyvinylchloridových vláken, či už sú následne chlórované alebo nie<sup>1</sup>)
 
-        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43) a elastomultiesterom (45).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (35), so skleným vláknom (44), s elastomultiesterom (46) a melamínom (48).
 
-        - Ak je obsah vlny alebo hodvábu v zmesi viac ako 25 %, použije sa metóda č. 2. Ak je obsah polyamidu alebo nylonu v zmesi viac ako 25 %, použije sa metóda č. 4.
+        - Ak obsah vlny alebo hodvábu v zmesi presahuje 25 %, použije sa metóda č. 2.
+
+        - Ak obsah polyamidu alebo nylonu v zmesi presahuje 25 %, použije sa metóda č. 4.
 
       - 2. PRINCÍP
 
@@ -754,7 +754,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -770,7 +770,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. acetátu (19)
 
-        - 1.2. s určitými chloridovými vláknami (27), a to polyvinylchloridovými vláknami, či už sú, alebo nie sú následne chlórované, a elastolefínom (46).
+        - 1.2. s určitými chloridovými vláknami (27), a to polyvinylchloridovými vláknami tiež dodatočne chlórovanými, elastolefinom (47) a melamínom (48).
 
       - 2. PRINCÍP
 
@@ -814,7 +814,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - 1.1. hodvábu (4)
 
-        - 1.2. s vlnou (1), zvieracou srsťou (2 a 3) a elastolefínom (46).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s elastolefinom (47) a melamínom (48).
 
       - 2. PRINCÍP
 
@@ -848,7 +848,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky sa vypočítajú podľa všeobecných inštrukcií. Hodnota „d“ je pre vlnu 0,985 a pre elastolefín 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ vlny je 0,985, elastolefinu 1,00 a melamínu 1,01.
 
       - 6. PRESNOSŤ
 
@@ -968,7 +968,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
         - s
 
-        - 1.2. vlnou (1), zvieracou srsťou (2 a 3), hodvábom (4), bavlnou (5), acetátovým vláknom (19), meďnatým vláknom (21), modalom (22), triacetátovým vláknom (24), viskózou (25), akrylovým vláknom (26), polyamidom alebo nylonom (30), polyesterom (34), skleným vláknom (43) a elastomultiesterom (45).
+        - 1.2. s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), acetátom (19), meďnatým vláknom (21), modalom (22), triacetátom (24), viskózou (25), akrylom (26), polyamidom alebo nylonom (30), polyesterom (35), so skleným vláknom (44), s elastomultiesterom (46) a melamínom (48).
 
       - 2. PRINCÍP
 
@@ -1008,7 +1008,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -1020,19 +1020,15 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 1. OBLASŤ APLIKOVANIA
 
-      - Túto metódu možno použiť po odstránení nevláknovej látky na dvojzložkové zmesi:
+        - Táto metóda je aplikovateľná po odstránení nevláknovej látky na dvojzložkové zmesi bavlny (5), acetátu (19), meďnatého vlákna (21), modalu (22), triacetátu (24), viskózy (25), určitých akrylových vlákien (26), určitých modakrylových vlákien (29), polyamidu alebo nylonu (30), polyesteru (35) a elastomultiesteru (46) s chloridovými vláknami (27) založenými na homopolyméroch vinylchloridu, ak sú alebo nie sú následne chlórované, elastolefinom (47) a melamínom (48).
 
-        - 1.1. chloridových vlákien (27) založených na homopolyméroch vinylchloridu, či už sú, alebo nie sú následne chlórované, a elastolefínu (46).
-
-        - 1.2. bavlnou (5), acetátovým vláknom (19), meďnatým vláknom (21), modalom (22), triacetátovým vláknom (24), viskózou (25), určitými akrylátovými vláknami (26), určitými modakrylátovými vláknami (29), polyamidom alebo nylonom (30), polyesterom (34) a elastomultiesterom (45).
-
-        - Príslušné modakryly sú tie, ktoré dávajú číry roztok, keď sú ponorené do koncentrovanej kyseliny sírovej (relatívna hustota 1,84 pri 20 <sup>o</sup>C).
+        - Ide o tie modakrylové vlákna, ktoré dávajú číry roztok po ponorení do koncentrovanej kyseliny sírovej (relatívna hustota 1,84 pri 20 “C).
 
         - Túto metódu možno použiť namiesto metód č. 8 a 9.
 
       - 2. PRINCÍP
 
-        - Zložka iná ako chloridové vlákno alebo elastolefín (t. j. vlákno uvedené v odseku 1 bode 1.2.) sa rozpúšťa pri známej hmotnosti suchej zmesi koncentrovanou kyselinou sírovou (relatívna hustota je 1,84 pri 20 <sup>o</sup>C). Zvyšok pozostávajúci z chloridového vlákna alebo elastolefínu sa zhromaždí, premyje, vysuší a odváži; jeho hmotnosť, v prípade potreby korigovaná, vyjadrí sa ako percento hmotnosti suchej zmesi. Percento druhej zložky sa zistí rozdielom.
+        - Zložka iná ako chloridové vlákno, elastolefin alebo melamín (t. j. vlákna uvedené v odseku 1.1) sa rozpúšťa zo známej hmotnosti suchej zmesi pomocou koncentrovanej kyseliny sírovej (relatívna hustota 1,84 pri 20 “C). Zvyšok pozostávajúci z chloridového vlákna, elastolefinu alebo melamínu sa zhromaždí, premyje, vysuší a zváži; jeho hmotnosť, v prípade potreby korigovaná, sa vyjadrí ako percento hmotnosti suchej zmesi. Percento druhých zložiek sa zistí rozdielom.
 
       - 3. VYBAVENIE A ČINIDLÁ (iné ako tie, ktoré sú špecifikované vo všeobecných inštrukciách)
 
@@ -1064,7 +1060,7 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem melamínu, ktorého hodnota „d“ je 1,01.
 
       - 6. PRESNOSŤ
 
@@ -1076,15 +1072,11 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 1. OBLASŤ APLIKOVANIA
 
-      - Túto metódu možno použiť po odstránení nevláknovej látky na dvojzložkové zmesi:
+        - Táto metóda je aplikovateľná po odstránení nevláknovej látky na dvojzložkové zmesi acetátu (19), triacetátu (24), chloridového vlákna (27), určitých modakrylových vlákien (29), určitých elastanových vlákien (43) s vlnou (1), so zvieracou srsťou (2 a 3), s hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30) akrylom (26), so skleným vláknom (44) a s melamínom (48).
 
-        - 1.1. acetátu (19), triacetátu (24), chloridových vláken (27), určitých modakrylov (29), určitých elastanov (39)
+        - Ak sú prítomné modakrylové alebo elastanové vlákna, musí sa najskôr vykonať predbežný test s cieľom zistiť, či sú vlákna úplne rozpustné v činidle.
 
-        - 1.2. s vlnou (1), živočíšnymi chlpmi (2 a 3), hodvábom (4), bavlnou (5), meďnatým vláknom (21), modalom (22), viskózou (25), polyamidom alebo nylonom (30), akrylom (26) a skleným vláknom (40).
-
-        - Tam, kde sú prítomné modakryly alebo elastany, musí sa najprv uskutočniť predbežný test na stanovenie, či je vlákno úplne rozpustné v činidle.
-
-        - Možno tiež analyzovať zmesi obsahujúce chloridové vlákna s použitím metódy č. 9 alebo 14.
+        - Zmesi obsahujúce chloridové vlákna je tiež možné analyzovať pomocou metódy č. 9 alebo 14.
 
       - 2. PRINCÍP
 
@@ -1122,12 +1114,54 @@ Príloha č. 3 k nariadeniu vlády č. 23/2003 Z. z.
 
       - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
 
-        - Výsledky vypočítať, ako je opísané vo všeobecných inštrukciách. Hodnota d = 1,00 okrem:
-
-        - hodvábu d = 1,01,
-
-        - akrylu d = 0,98.
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ je 1,00 okrem hodvábu a melamínu, ktorých hodnota „d“ je 1,01, a akrylu, ktorého hodnota „d“ je 0,98.
 
       - 6. PRESNOSŤ
 
         - Na homogénnej zmesi textilných materiálov interval spoľahlivosti výsledkov získaných touto metódou nie je väčší ako ± 1 pre hladinu významnosti 95 %.
+
+    - METÓDA č. 16 MELAMÍN A URČITÉ INÉ VLÁKNA
+
+      - (metóda používajúca horúcu kyselinu mravčiu)
+
+      - 1. OBLASŤ APLIKOVANIA
+
+        - Táto metóda je aplikovateľná po odstránení nevláknovej látky na dvojzložkové zmesi melamínu (48) s bavlnou (5) a aramidom (31).
+
+      - 2. PRINCÍP
+
+        - Melamín sa rozpustí zo známej hmotnosti suchej zmesi pomocou horúcej kyseliny mravčej (90 % hmotnosti).
+
+        - Zvyšok sa zhromaždí, prepláchne, vysuší a zváži; jeho hmotnosť, v prípade potreby korigovaná, sa vyjadrí ako percento hmotnosti suchej zmesi. Percento druhých zložiek sa zistí rozdielom.
+
+        - Prísne dodržiavať odporúčaný rozsah teplôt, pretože rozpustnosť melamínu v značnej miere závisí od teploty.
+
+      - 3. VYBAVENIE A ČINIDLÁ (iné ako tie, ktoré sú špecifikované vo všeobecných inštrukciách)
+
+        - 3.1. Vybavenie
+
+          - i) Kužeľová banka so sklenou zátkou s objemom najmenej 200 ml
+
+          - ii) Trepací vodný kúpeľ alebo iný prístroj na pretrepávanie a udržanie banky na teplote 90 “ 2 “C
+
+        - 3.2. Činidlá
+
+          - i) Kyselina mravčia (90 % m/m, relatívna hustota pri 20 “C: 1,204 g/ml). Rozriediť 890 ml kyseliny mravčej 98 – 100 % m/m (relatívna hustota pri 20 “C: 1,220 g/ml) na 1 liter vodou.
+
+            - Horúca kyselina mravčia je vysoko žieravá a musí sa s ňou opatrne zaobchádzať.
+
+          - ii) Amoniak, zriedený roztok: rozriediť 80 ml koncentrovaného roztoku amoniaku (relatívna hustota pri 20 “C: 0,880 g/ml) na 1 liter vodou.
+
+      - 4. SKÚŠOBNÝ POSTUP
+
+      - Dodržiavať postup podľa všeobecných inštrukcií a postupovať takto:
+
+        - K vzorke obsiahnutej v kužeľovej banke so sklenou zátkou s objemom najmenej 200 ml pridať 100 ml kyseliny mravčej na gram vzorky. Zazátkovať a potriasť banku, aby sa zvlhčila vzorka. Nechať banku v trepacom vodnom kúpeli pri teplote 90 “ 2 “C jednu hodinu a dôkladne pretrepávať. Nechať banku vychladnúť na izbovú teplotu. Dekantovať kvapalinu cez odvážený filtračný téglik. Pridať 50 ml kyseliny mravčej do banky obsahujúcej zvyšok, ručne pretrepať a prefiltrovať obsah banky cez filtračný téglik. Akékoľvek zvyšné vlákna preniesť do téglika opláchnutím banky malým množstvom činidla – kyseliny mravčej. Odvodniť téglik odsávaním a premyť zvyšok činidlom – kyselinou mravčou, horúcou vodou, zriedeným roztokom amoniaku a nakoniec studenou vodou, odvodniť lievik odsávaním po každom pridaní. Nepoužiť odsávanie, pokiaľ každá preplachovacia kvapalina nestečie gravitačne. Nakoniec odvodniť téglik odsávaním, vysušiť téglik a zvyšok ochladiť a odvážiť ich. Teplota má veľmi výrazný vplyv na rozpustnosť melamínu a mala by sa dôkladne kontrolovať.
+
+      - 5. VÝPOČET A VYJADRENIE VÝSLEDKOV
+
+        - Výsledky vypočítať podľa všeobecných inštrukcií. Hodnota „d“ bavlny a aramidu je 1,02.
+
+      - 6. PRESNOSŤ
+
+        - Na homogénnej zmesi textilných materiálov nie je interval spoľahlivosti výsledkov získaných touto metódou väčší ako “ 2 pri hladine významnosti 95 %.

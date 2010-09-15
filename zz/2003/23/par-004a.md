@@ -1,3 +1,3 @@
 # § 4a
 
-Týmto nariadením vlády sa preberajú právne akty Európskych spoločenstiev uvedené v prílohe č. 1.
+Týmto nariadením vlády sa preberajú právne akty Európskej únie uvedené v prílohe č. 1.
