@@ -1,26 +1,28 @@
 Príloha č. 4 k vyhláške č. 370/2008 Z. z.
 
-- VLHKOSTNÉ PRIRÁŽKY NA VÝPOČET HMOTNOSTI JEDNOTLIVÝCH DRUHOV VLÁKEN V TEXTILNÝCH VÝROBKOCH Č. pol. | Vlákno | Hodnoty v %
+- VLHKOSTNÉ PRIRÁŽKY NA VÝPOČET HMOTNOSTI JEDNOTLIVÝCH DRUHOV VLÁKEN V TEXTILNÝCH VÝROBKOCH Č. pol. | Vlákno | Hodnoty v hmotnostných %
 
 - 1 – 2 | Vlna a srsti |
 
 - | česané vlákna | 18,25
 
-- | mykané vlákna | 17,00*)
+- | mykané vlákna Dohodnutá tolerancia 17 % sa použije aj vtedy, keď nemožno zistiť, či textilný výrobok obsahujúci vlnu a/alebo zvieraciu srsť a chlpy je zhotovený z česaných alebo mykaných vláken. | 17
 
 - 3 | Zvieracie chlpy |
 
 - | česané vlákna | 18,25
 
-- | mykané vlákna | 17,00*)
+- | mykané vlákna | 17
+
+- | Dohodnutá tolerancia 17 % sa použije aj vtedy, keď nemožno zistiť, či textilný výrobok obsahujúci vlnu a/alebo zvieraciu srsť a chlpy je zhotovený z česaných alebo mykaných vláken. |
 
 - | Konské vlásie |
 
-- | česané vlákna | 16,00
+- | česané vlákna | 16
 
-- | mykané vlákna | 15,00
+- | mykané vlákna | 15
 
-- 4 | Hodváb | 11,00
+- 4 | Hodváb | 11
 
 - 5 | Bavlna |
 
@@ -30,51 +32,51 @@ Príloha č. 4 k vyhláške č. 370/2008 Z. z.
 
 - 6 | Kapok | 10,90
 
-- 7 | Ľan | 12,00
+- 7 | Ľan | 12
 
-- 8 | Pravé konope | 12,00
+- 8 | Pravé konope | 12
 
-- 9 | Juta | 17,00
+- 9 | Juta | 17
 
-- 10 | Abaka | 14,00
+- 10 | Abaka | 14
 
-- 11 | Alfa | 14,00
+- 11 | Alfa | 14
 
-- 12 | Kokos | 13,00
+- 12 | Kokos | 13
 
-- 13 | Broom | 14,00
+- 13 | Broom | 14
 
 - 14 | Ramia (bielené vlákno) | 8,50
 
-- 15 | Sisal | 14,00
+- 15 | Sisal | 14
 
-- 16 | Bengálske konope | 12,00
+- 16 | Bengálske konope | 12
 
-- 17 | Henequén | 14,00
+- 17 | Henequén | 14
 
-- 18 | Maguey | 14,00
+- 18 | Maguey | 14
 
-- 19 | Acetát | 9,00
+- 19 | Acetát | 9
 
-- 20 | Alginát | 20,00
+- 20 | Alginát | 20
 
-- 21 | Meďnaté vlákno | 13,00
+- 21 | Meďnaté vlákno | 13
 
-- 22 | Modal | 13,00
+- 22 | Modal | 13
 
-- 23 | Proteín | 17,00
+- 23 | Proteín | 17
 
-- 24 | Triacetát | 7,00
+- 24 | Triacetát | 7
 
-- 25 | Viskóza | 13,00
+- 25 | Viskóza | 13
 
-- 26 | Akryl | 2,00
+- 26 | Akryl | 2
 
-- 27 | Chloridové vlákno | 2,00
+- 27 | Chloridové vlákno | 2
 
-- 28 | Fluóretylén | 0,00
+- 28 | Fluóretylén | 0
 
-- 29 | Modakryl | 2,00
+- 29 | Modakryl | 2
 
 - 30 | Polyamid alebo nylon |
 
@@ -82,56 +84,56 @@ Príloha č. 4 k vyhláške č. 370/2008 Z. z.
 
 - | nekonečné vlákno | 5,75
 
-- 31 | Aramid | 8,00
+- 31 | Aramid | 8
 
-- 32 | Polyimid | 3.50
+- 32 | Polyimid | 3,50
 
-- 33 | LyocelI | 13,00
+- 33 | Lyocell | 13
 
-- 33a | Polylaktid | 1,50
+- 34 | Polylaktid | 1,50
 
-- 34 | Polyester |
+- 35 | Polyester |
 
 - | strižové vlákno | 1,50
 
 - | nekonečné vlákno | 1,50
 
-- 35 | Polyetylén | 1,50
+- 36 | Polyetylén | 1,50
 
-- 36 | Polypropylén | 2,00
+- 37 | Polypropylén | 2
 
-- 37 | Polykarbamid | 2,00
+- 38 | Polykarbamid | 2
 
-- 38 | Polyuretán |
+- 39 | Polyuretán |
 
 - | strižové vlákno | 3,50
 
-- | nekonečné vlákno | 3,00
+- | nekonečné vlákno | 3
 
-- 39 | Vinylal | 5,00
+- 40 | Vinylal | 5
 
-- 40 | Trivinyl | 3,00
+- 41 | Trivinyl | 3
 
-- 41 | Elastodién | 1,00
+- 42 | Elastodién | 1
 
-- 42 | Elastan | 1,50
+- 43 | Elastan | 1,50
 
-- 43 | Sklené vlákno s priemerom |
+- 44 | Sklené vlákno s priemerom |
 
-- | nad 5 µm | 2,00
+- | nad 5 µm | 2
 
-- | 5 µm a menej | 3,00
+- | 5 µm a menej | 3
 
-- 44 | Kovové vlákno | 2,00
+- 45 | Kovové vlákno | 2
 
-- | Metalizované vlákno | 2,00
+- | Metalizované vlákno | 2
 
-- | Azbest | 2,00
+- | Azbest | 2
 
 - | Papierové nite | 13,75
 
-- 45 | Elastomultiester | 1,50
+- 46 | Elastomultiester | 1,50
 
-- 46 | Elastolefín | 1,50
+- 47 | Elastolefín | 1,50
 
-- *) Prirážka 17,00 % sa použije aj vtedy, keď nemožno zistiť, či textilný výrobok obsahujúci vlnu a/alebo zvieracie srsti a chlpy je zhotovený z česaných vláken alebo mykaných vláken.
+- 48 | Melamín | 7
