@@ -1,287 +1,295 @@
-Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z.
+Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z. Zoznam preberaných právne záväzných aktov Európskej únie
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE 1. Smernica Rady 91/414/EHS z 15. júla 1991 o uvádzaní prípravkov na ochranu rastlín na trh (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 11) v znení
+1. Smernica Rady 91/414/EHS z 15. júla 1991 o uvádzaní prípravkov na ochranu rastlín na trh (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 11) v znení
 
-- - smernice Komisie 93/71/EHS z 27. júla 1993 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 15),
+- smernice Komisie 93/71/EHS z 27. júla 1993 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 15),
 
-- - smernice Komisie 94/37/ES z 22. júla 1994 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 16),
+- smernice Komisie 94/37/ES z 22. júla 1994 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 16),
 
-- - smernice Rady 94/43/ES z 27. júla 1994 (Ú. v. EÚ L 227, 1. 9. 1994),
+- smernice Rady 94/43/ES z 27. júla 1994 (Ú. v. EÚ L 227, 1. 9. 1994),
 
-- - smernice Komisie 94/79/ES z 21. decembra 1994 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17),
+- smernice Komisie 94/79/ES z 21. decembra 1994 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17),
 
-- - smernice Komisie 95/35/ES zo 14. júla 1995 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17),
+- smernice Komisie 95/35/ES zo 14. júla 1995 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 17),
 
-- - smernice Komisie 95/36/ES zo 14. júla 1995 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 18),
+- smernice Komisie 95/36/ES zo 14. júla 1995 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 18),
 
-- - smernice Komisie 96/12/ES z 8. marca 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 18),
+- smernice Komisie 96/12/ES z 8. marca 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 18),
 
-- - smernice Komisie 96/46/ES zo 16. júla 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 19),
+- smernice Komisie 96/46/ES zo 16. júla 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 19),
 
-- - smernice Komisie 96/68/ES z 21. októbra 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 19),
+- smernice Komisie 96/68/ES z 21. októbra 1996 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 19),
 
-- - smernice Komisie 97/57/ES z 22. septembra 1997 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 21),
+- smernice Komisie 97/57/ES z 22. septembra 1997 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 21),
 
-- - smernice Komisie 2000/80/ES zo 4. decembra 2000 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 31),
+- smernice Komisie 2000/80/ES zo 4. decembra 2000 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 31),
 
-- - smernice Komisie 2001/21/ES z 5. marca 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
+- smernice Komisie 2001/21/ES z 5. marca 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
 
-- - smernice Komisie 2001/28/ES z 20. apríla 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
+- smernice Komisie 2001/28/ES z 20. apríla 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
 
-- - smernice Komisie 2001/36/ES zo 16. mája 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
+- smernice Komisie 2001/36/ES zo 16. mája 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
 
-- - smernice Komisie 2001/47/ES z 25. júna 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
+- smernice Komisie 2001/47/ES z 25. júna 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
 
-- - smernice Komisie 2001/49/ES z 28. júna 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
+- smernice Komisie 2001/49/ES z 28. júna 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 32),
 
-- - smernice Komisie 2001/87/ES z 12. októbra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
+- smernice Komisie 2001/87/ES z 12. októbra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
 
-- - smernice Komisie 2001/99/ES z 20. novembra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
+- smernice Komisie 2001/99/ES z 20. novembra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
 
-- - smernice Komisie 2001/103/ES z 28. novembra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
+- smernice Komisie 2001/103/ES z 28. novembra 2001 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 34),
 
-- - smernice Komisie 2002/18/ES z 22. februára 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 35),
+- smernice Komisie 2002/18/ES z 22. februára 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 35),
 
-- - smernice Komisie 2002/37/ES z 3. mája 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 35),
+- smernice Komisie 2002/37/ES z 3. mája 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 35),
 
-- - smernice Komisie 2002/48/ES z 30. mája 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 36),
+- smernice Komisie 2002/48/ES z 30. mája 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 36),
 
-- - smernice Komisie 2002/64/ES z 15. júla 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 36),
+- smernice Komisie 2002/64/ES z 15. júla 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 36),
 
-- - smernice Komisie 2002/81/ES z 10. októbra 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 37),
+- smernice Komisie 2002/81/ES z 10. októbra 2002 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 37),
 
-- - smernice Komisie 2003/5/ES z 10. januára 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
+- smernice Komisie 2003/5/ES z 10. januára 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
 
-- - smernice Komisie 2003/23/ES z 25. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
+- smernice Komisie 2003/23/ES z 25. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
 
-- - smernice Komisie 2003/31/ES z 11. apríla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
+- smernice Komisie 2003/31/ES z 11. apríla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
 
-- - nariadenia Komisie (ES) č. 806/2003 zo 14. apríla 2003 (Mimoriadne vydanie Ú. v. EÚ, 1/zv. 4),
+- nariadenia Komisie (ES) č. 806/2003 zo 14. apríla 2003 (Mimoriadne vydanie Ú. v. EÚ, 1/zv. 4),
 
-- - rozhodnutia Komisie 2003/39/ES z 15. mája 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
+- rozhodnutia Komisie 2003/39/ES z 15. mája 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 38),
 
-- - smernice Komisie 2003/68/ES z 11. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
+- smernice Komisie 2003/68/ES z 11. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
 
-- - smernice Komisie 2003/70/ES zo 17. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
+- smernice Komisie 2003/70/ES zo 17. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
 
-- - rozhodnutia Komisie 2003/565/ES z 25. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
+- rozhodnutia Komisie 2003/565/ES z 25. júla 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
 
-- - smernice Komisie 2003/79/ES z 13. augusta 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
+- smernice Komisie 2003/79/ES z 13. augusta 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 39),
 
-- - smernice Komisie 2003/81/ES z 5. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
+- smernice Komisie 2003/81/ES z 5. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
 
-- - smernice Komisie 2003/82/ES z 11. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
+- smernice Komisie 2003/82/ES z 11. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
 
-- - smernice Komisie 2003/84/ES z 25. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
+- smernice Komisie 2003/84/ES z 25. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 40),
 
-- - smernice Komisie 2003/112/ES z 1. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 41),
+- smernice Komisie 2003/112/ES z 1. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 41),
 
-- - smernice Komisie 2003/119/ES z 5. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 41),
+- smernice Komisie 2003/119/ES z 5. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 41),
 
-- - smernice Komisie 2004/20/ES z 2. marca 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
+- smernice Komisie 2004/20/ES z 2. marca 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
 
-- - smernice Komisie 2004/30/ES z 10. marca 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
+- smernice Komisie 2004/30/ES z 10. marca 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
 
-- - smernice Komisie 2004/58/ES z 23. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
+- smernice Komisie 2004/58/ES z 23. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
 
-- - smernice Komisie 2004/60/ES z 23. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
+- smernice Komisie 2004/60/ES z 23. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 43),
 
-- - smernice Komisie 2004/62/ES z 26. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44),
+- smernice Komisie 2004/62/ES z 26. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44),
 
-- - smernica Rady 2004/66/ES z 26. apríla 2004 (Ú. v. EÚ L 168, 1. 5. 2004),
+- smernica Rady 2004/66/ES z 26. apríla 2004 (Ú. v. EÚ L 168, 1. 5. 2004),
 
-- - smernice Komisie 2004/71/ES z 28. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44),
+- smernice Komisie 2004/71/ES z 28. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44),
 
-- - smernice Komisie 2004/99/ES z 1. októbra 2004 (Ú. v. EÚ L 309, 6. 10. 2004),
+- smernice Komisie 2004/99/ES z 1. októbra 2004 (Ú. v. EÚ L 309, 6. 10. 2004),
 
-- - smernice Komisie 2005/2/ES z 19. januára 2005 (Ú. v. EÚ L 20, 22. 1. 2005),
+- smernice Komisie 2005/2/ES z 19. januára 2005 (Ú. v. EÚ L 20, 22. 1. 2005),
 
-- - smernice Komisie 2005/3/ES z 19. januára 2005 (Ú. v. EÚ L 20, 22. 1. 2005),
+- smernice Komisie 2005/3/ES z 19. januára 2005 (Ú. v. EÚ L 20, 22. 1. 2005),
 
-- - nariadenia Európskeho parlamentu a Rady (ES) č. 396/2005 z 23. februára 2005 (Ú. v. EÚ L 70, 16. 3. 2005),
+- nariadenia Európskeho parlamentu a Rady (ES) č. 396/2005 z 23. februára 2005 (Ú. v. EÚ L 70, 16. 3. 2005),
 
-- - smernice Rady 2005/34/ES zo 17. mája 2005 (Ú. v. EÚ L 125, 18. 5. 2005),
+- smernice Rady 2005/34/ES zo 17. mája 2005 (Ú. v. EÚ L 125, 18. 5. 2005),
 
-- - smernice Komisie 2005/53/ES zo 16. septembra 2005 (Ú. v. EÚ L 241, 17. 9. 2005),
+- smernice Komisie 2005/53/ES zo 16. septembra 2005 (Ú. v. EÚ L 241, 17. 9. 2005),
 
-- - smernice Komisie 2005/54/ES z 19. septembra 2005 (Ú. v. EÚ L 244, 20. 9. 2005),
+- smernice Komisie 2005/54/ES z 19. septembra 2005 (Ú. v. EÚ L 244, 20. 9. 2005),
 
-- - smernice Komisie 2005/57/ES z 21. septembra 2005 (Ú. v. EÚ L 246, 22. 9. 2005),
+- smernice Komisie 2005/57/ES z 21. septembra 2005 (Ú. v. EÚ L 246, 22. 9. 2005),
 
-- - smernice Rady 2005/58/ES z 21. septembra 2005 (Ú. v. EÚ L 246, 22. 9. 2005),
+- smernice Rady 2005/58/ES z 21. septembra 2005 (Ú. v. EÚ L 246, 22. 9. 2005),
 
-- - smernice Rady 2005/25/ES zo 14. marca 2005, ktorou sa mení a dopĺňa príloha VI k smernici 91/414/EHS, pokiaľ ide o prípravky na ochranu rastlín obsahujúce mikroorganizmy (Ú. v. EÚ L 90, 8. 4. 2005),
+- smernice Rady 2005/25/ES zo 14. marca 2005, ktorou sa mení a dopĺňa príloha VI k smernici 91/414/EHS, pokiaľ ide o prípravky na ochranu rastlín obsahujúce mikroorganizmy (Ú. v. EÚ L 90, 8. 4. 2005),
 
-- - smernice Komisie 2006/45/ES zo 16. mája 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky propoxykarbazón (Ú. v. EÚ L 130, 18. 5. 2006),
+- smernice Komisie 2006/45/ES zo 16. mája 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky propoxykarbazón (Ú. v. EÚ L 130, 18. 5. 2006),
 
-- - smernice Komisie 2005/72/ES z 21. októbra 2005, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky chlórpyrifos, chlórpyrifos-metyl, mankozeb, maneb a metiram ako účinné látky (Ú. v. EÚ L 279, 22. 10. 2005),
+- smernice Komisie 2005/72/ES z 21. októbra 2005, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky chlórpyrifos, chlórpyrifos-metyl, mankozeb, maneb a metiram ako účinné látky (Ú. v. EÚ L 279, 22. 10. 2005),
 
-- - smernice Komisie 2006/5/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť warfarín ako účinnú látku (Ú. v. EÚ L 9, 13. 1. 2006),
+- smernice Komisie 2006/5/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť warfarín ako účinnú látku (Ú. v. EÚ L 9, 13. 1. 2006),
 
-- - smernice Komisie 2006/6/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tolylfluanid ako účinnú látku (Ú. v. EÚ L 12, 18. 1. 2006),
+- smernice Komisie 2006/6/ES zo 17. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tolylfluanid ako účinnú látku (Ú. v. EÚ L 12, 18. 1. 2006),
 
-- - smernice Komisie 2006/10/ES z 27. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť forchlórfenuron a indoxakarb ako účinné látky (Ú. v. EÚ L 25, 28. 1. 2006),
+- smernice Komisie 2006/10/ES z 27. januára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť forchlórfenuron a indoxakarb ako účinné látky (Ú. v. EÚ L 25, 28. 1. 2006),
 
-- - smernice Komisie 2006/16/ES zo 7. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť oxamyl ako účinnú látku (Ú. v. EÚ L 36, 8. 2. 2006),
+- smernice Komisie 2006/16/ES zo 7. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť oxamyl ako účinnú látku (Ú. v. EÚ L 36, 8. 2. 2006),
 
-- - smernice Komisie 2006/19/ES zo 14. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-metylcyklopropén ako účinnú látku (Ú. v. EÚ L 44, 15. 2. 2006),
+- smernice Komisie 2006/19/ES zo 14. februára 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-metylcyklopropén ako účinnú látku (Ú. v. EÚ L 44, 15. 2. 2006),
 
-- - smernice Komisie 2006/39/ES z 12. apríla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clodinafop, pirimikarb, rimsulfuron, tolklofos-metyl, tritikonazol ako účinné látky (Ú. v. EÚ L 104, 13. 4. 2006),
+- smernice Komisie 2006/39/ES z 12. apríla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clodinafop, pirimikarb, rimsulfuron, tolklofos-metyl, tritikonazol ako účinné látky (Ú. v. EÚ L 104, 13. 4. 2006),
 
-- - smernice Komisie 2006/41/ES zo 7. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť klotianidin a petoxamid ako účinné látky (Ú. v. EÚ L 187, 8. 7. 2006),
+- smernice Komisie 2006/41/ES zo 7. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť klotianidin a petoxamid ako účinné látky (Ú. v. EÚ L 187, 8. 7. 2006),
 
-- - smernice Komisie 2006/64/ES z 18. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clopyralid, cyprodinyl, fosetyl a trinexapac medzi účinné látky (Ú. v. EÚ L 206, 27. 7. 2006),
+- smernice Komisie 2006/64/ES z 18. júla 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť clopyralid, cyprodinyl, fosetyl a trinexapac medzi účinné látky (Ú. v. EÚ L 206, 27. 7. 2006),
 
-- - smernice Komisie 2006/74/ES z 21. augusta 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dichlorprop-P, metconazole, pyrimethanil a triclopyr medzi účinné látky (Ú. v. EÚ L 235, 30. 8. 2006),
+- smernice Komisie 2006/74/ES z 21. augusta 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dichlorprop-P, metconazole, pyrimethanil a triclopyr medzi účinné látky (Ú. v. EÚ L 235, 30. 8. 2006),
 
-- - smernice Komisie 2006/75/ES z 11. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimoxystrobín medzi účinné látky (Ú. v. EÚ L 248, 12. 9. 2006),
+- smernice Komisie 2006/75/ES z 11. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimoxystrobín medzi účinné látky (Ú. v. EÚ L 248, 12. 9. 2006),
 
-- - smernice Komisie 2006/76/ES z 22. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky chlórtalonil (Ú. v. EÚ L 263, 23. 9. 2006),
+- smernice Komisie 2006/76/ES z 22. septembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky chlórtalonil (Ú. v. EÚ L 263, 23. 9. 2006),
 
-- - smernica Komisie 2006/85/ES z 23. októbra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť fenamifos a etefón ako aktívne látky (Ú. v. EÚ L 293, 24. 10. 2006),
+- smernica Komisie 2006/85/ES z 23. októbra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť fenamifos a etefón ako aktívne látky (Ú. v. EÚ L 293, 24. 10. 2006),
 
-- - smernice Komisie 2006/131/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metamidofos ako účinnú látku (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/131/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metamidofos ako účinnú látku (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2006/132/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť procymidone medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/132/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť procymidone medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2006/133/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flusilazol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/133/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flusilazol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2006/134/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenarimol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/134/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenarimol medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2006/135/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť carbendazim medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/135/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť carbendazim medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2006/136/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dinocap medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
+- smernice Komisie 2006/136/ES z 11. decembra 2006, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dinocap medzi účinné látky (Ú. v. EÚ L 349, 12. 12. 2006),
 
-- - smernice Komisie 2007/5/ES zo 7. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť kaptán, folpet, formetanát a metiokarb medzi účinné látky (Ú. v. EÚ L 35, 8. 2. 2007),
+- smernice Komisie 2007/5/ES zo 7. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť kaptán, folpet, formetanát a metiokarb medzi účinné látky (Ú. v. EÚ L 35, 8. 2. 2007),
 
-- - smernice Komisie 2007/6/ES zo 14. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metrafenone, Bacillus subtilis, spinosad a thiamethoxam medzi účinné látky (Ú. v. EÚ L 43, 15. 2. 2007),
+- smernice Komisie 2007/6/ES zo 14. februára 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metrafenone, Bacillus subtilis, spinosad a thiamethoxam medzi účinné látky (Ú. v. EÚ L 43, 15. 2. 2007),
 
-- - smernica Komisie 2007/21/ES z 10. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátumy vypršania platnosti zaradenia účinných látok azoxystrobín, imazalil, kresoxim-metyl, spiroxamín, azimsulfurón, prohexadión-kalcium a fluroxypyr do jej prílohy I (Ú. v. EÚ L 97, 12. 4. 2007),
+- smernica Komisie 2007/21/ES z 10. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátumy vypršania platnosti zaradenia účinných látok azoxystrobín, imazalil, kresoxim-metyl, spiroxamín, azimsulfurón, prohexadión-kalcium a fluroxypyr do jej prílohy I (Ú. v. EÚ L 97, 12. 4. 2007),
 
-- - smernice Komisie 2007/25/ES z 23. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimetoát, dimetomorf, glufozinát, metribuzin, fosmet a propamokarb medzi účinné látky (Ú. v. EÚ L 106, 24. 4. 2007),
+- smernice Komisie 2007/25/ES z 23. apríla 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dimetoát, dimetomorf, glufozinát, metribuzin, fosmet a propamokarb medzi účinné látky (Ú. v. EÚ L 106, 24. 4. 2007),
 
-- - smernice Komisie 2007/31/ES z 31. mája 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia pre rozšírenie používania účinnej látky fostiazat (Ú. v. EÚ L 140, 1. 6. 2007),
+- smernice Komisie 2007/31/ES z 31. mája 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia pre rozšírenie používania účinnej látky fostiazat (Ú. v. EÚ L 140, 1. 6. 2007),
 
-- - smernice Komisie 2007/50/ES z 2. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť beflubutamid a jadrový mnohostenný vírus Spodoptera exigua medzi účinné látky (Ú. v. EÚ L 202, 3. 8. 2007),
+- smernice Komisie 2007/50/ES z 2. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť beflubutamid a jadrový mnohostenný vírus Spodoptera exigua medzi účinné látky (Ú. v. EÚ L 202, 3. 8. 2007),
 
-- - smernice Komisie 2007/52/ES zo 16. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť etoprofos, pirimifos-metyl a fipronil do zoznamu účinných látok (Ú. v. EÚ L 214, 17. 8. 2007),
+- smernice Komisie 2007/52/ES zo 16. augusta 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zahrnúť etoprofos, pirimifos-metyl a fipronil do zoznamu účinných látok (Ú. v. EÚ L 214, 17. 8. 2007),
 
-- - smernice Komisie 2007/76/ES z 20. decembra 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fludioxonil, klomazón a prosulfokarb medzi účinné látky (Ú. v. EÚ L 337, 21. 12. 2007),
+- smernice Komisie 2007/76/ES z 20. decembra 2007, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fludioxonil, klomazón a prosulfokarb medzi účinné látky (Ú. v. EÚ L 337, 21. 12. 2007),
 
-- - smernice Komisie 2008/40/ES z 28. marca 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť amidosulfurón a nicosulfurón medzi účinné látky (Ú. v. EÚ L 87, 29. 3. 2008),
+- smernice Komisie 2008/40/ES z 28. marca 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť amidosulfurón a nicosulfurón medzi účinné látky (Ú. v. EÚ L 87, 29. 3. 2008),
 
-- - smernice Komisie 2008/41/ES z 31. marca 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chloridazón medzi účinné látky (Ú. v. EÚ L 89, 1. 4. 2008),
+- smernice Komisie 2008/41/ES z 31. marca 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chloridazón medzi účinné látky (Ú. v. EÚ L 89, 1. 4. 2008),
 
-- - smernice Komisie 2008/44/ES zo 4. apríla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bentiavalikarb, boskalid, karvón, fluoxastrobín, Paecilomyces lilacinus a protiokonazol medzi účinné látky (Ú. v. EÚ L 94, 5. 4. 2008),
+- smernice Komisie 2008/44/ES zo 4. apríla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bentiavalikarb, boskalid, karvón, fluoxastrobín, Paecilomyces lilacinus a protiokonazol medzi účinné látky (Ú. v. EÚ L 94, 5. 4. 2008),
 
-- - smernice Komisie 2008/45/ES zo 4. apríla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky metkonazol (Ú. v. EÚ L 94, 5. 4. 2008),
+- smernice Komisie 2008/45/ES zo 4. apríla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky metkonazol (Ú. v. EÚ L 94, 5. 4. 2008),
 
-- - smernice Komisie 2008/66/ES z 30. júna 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bifenox, diflufenikan, fenoxaprop-P, fenpropidín a chinoklamín medzi účinné látky (Ú. v. EÚ L 171, 1. 7. 2008),
+- smernice Komisie 2008/66/ES z 30. júna 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bifenox, diflufenikan, fenoxaprop-P, fenpropidín a chinoklamín medzi účinné látky (Ú. v. EÚ L 171, 1. 7. 2008),
 
-- - smernice Komisie 2008/69/ES z 1. júla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť klofentezín, dikambu, difenokonazol, diflubenzurón, imazachin, lenacil, oxadiazón, pikloram a pyriproxyfén medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2008),
+- smernice Komisie 2008/69/ES z 1. júla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť klofentezín, dikambu, difenokonazol, diflubenzurón, imazachin, lenacil, oxadiazón, pikloram a pyriproxyfén medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2008),
 
-- - smernice Komisie 2008/70/ES z 11. júla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tritosulfuron medzi účinné látky (Ú. v. EÚ L 185, 12. 7. 2008),
+- smernice Komisie 2008/70/ES z 11. júla 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tritosulfuron medzi účinné látky (Ú. v. EÚ L 185, 12. 7. 2008),
 
-- – smernice Komisie 2008/91/ES z 29. septembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť diurón medzi účinné látky (Ú. v. EÚ L 262, 1. 10. 2008),
+– smernice Komisie 2008/91/ES z 29. septembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť diurón medzi účinné látky (Ú. v. EÚ L 262, 1. 10. 2008),
 
-- – smernica Komisie 2008/107/ES z 25. novembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť abamektín, epoxikonazol, fenpropimorf, fenpyroximát a tralkoxydim ako účinné látky (Ú. v. EÚ L 316, 26. 11. 2008),
+– smernica Komisie 2008/107/ES z 25. novembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť abamektín, epoxikonazol, fenpropimorf, fenpyroximát a tralkoxydim ako účinné látky (Ú. v. EÚ L 316, 26. 11. 2008),
 
-- – smernice Komisie 2008/108/ES z 26. novembra 2008, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť flutolanil, benfluralín, fluazinam, fuberidazol a mepikvat medzi účinné látky (Ú. v. EÚ L 317, 27. 11. 2008),
+– smernice Komisie 2008/108/ES z 26. novembra 2008, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť flutolanil, benfluralín, fluazinam, fuberidazol a mepikvat medzi účinné látky (Ú. v. EÚ L 317, 27. 11. 2008),
 
-- – smernica Komisie 2008/113/ES z 8. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré mikroorganizmy ako účinné látky (Ú. v. EÚ L 330, 9. 12. 2008),
+– smernica Komisie 2008/113/ES z 8. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré mikroorganizmy ako účinné látky (Ú. v. EÚ L 330, 9. 12. 2008),
 
-- – smernica Komisie 2008/116/ES z 15. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky aklonifen, imidakloprid a metazachlór ako účinné látky (Ú. v. EÚ L 337, 16. 12. 2008),
+– smernica Komisie 2008/116/ES z 15. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť látky aklonifen, imidakloprid a metazachlór ako účinné látky (Ú. v. EÚ L 337, 16. 12. 2008),
 
-- – smernica Komisie 2008/125/ES z 19. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 344, 20. 12. 2008),
+– smernica Komisie 2008/125/ES z 19. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 344, 20. 12. 2008),
 
-- – smernica Komisie 2008/127/ES z 18. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré účinné látky (Ú. v. EÚ L 344, 20. 12. 2008).
+– smernica Komisie 2008/127/ES z 18. decembra 2008, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť niektoré účinné látky (Ú. v. EÚ L 344, 20. 12. 2008).
 
-- 2. Smernica Komisie 2004/63/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/79/ES, pokiaľ ide o stanovené termíny (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
+2. Smernica Komisie 2004/63/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/79/ES, pokiaľ ide o stanovené termíny (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
 
-- 3. Smernica Komisie 2004/64/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/84/ES o časových obmedzeniach (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
+3. Smernica Komisie 2004/64/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/84/ES o časových obmedzeniach (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
 
-- 4. Smernica Komisie 2004/65/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/68/ES o časových obmedzeniach (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
+4. Smernica Komisie 2004/65/ES z 26. apríla 2004, ktorou sa mení a dopĺňa smernica Komisie 2003/68/ES o časových obmedzeniach (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 44).
 
-- 5. Smernica Komisie 2004/97/ES z 27. septembra 2004, ktorou sa mení a dopĺňa smernica Komisie 2004/60/ES o časových obmedzeniach (Ú. v. EÚ L 301, 28. 9. 2004).
+5. Smernica Komisie 2004/97/ES z 27. septembra 2004, ktorou sa mení a dopĺňa smernica Komisie 2004/60/ES o časových obmedzeniach (Ú. v. EÚ L 301, 28. 9. 2004).
 
-- 6. Smernica Rady 79/117/EHS z 21. decembra 1978, ktorou sa zakazuje uvedenie na trh a používanie prípravkov na ochranu rastlín obsahujúcich určité účinné látky (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 4) v znení
+6. Smernica Rady 79/117/EHS z 21. decembra 1978, ktorou sa zakazuje uvedenie na trh a používanie prípravkov na ochranu rastlín obsahujúcich určité účinné látky (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 4) v znení
 
-- - smernice Komisie 83/131/EHS zo 14. marca 1983 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 5),
+- smernice Komisie 83/131/EHS zo 14. marca 1983 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 5),
 
-- - smernice Komisie 85/298/EHS z 22. marca 1985 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 5),
+- smernice Komisie 85/298/EHS z 22. marca 1985 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 5),
 
-- - nariadenia Rady (EHS) č. 3768/85 z 20. decembra 1985 (Ú. v. EÚ L 362, 31. 12. 1985),
+- nariadenia Rady (EHS) č. 3768/85 z 20. decembra 1985 (Ú. v. EÚ L 362, 31. 12. 1985),
 
-- - smernice Rady 86/214/EHS z 26. mája 1986 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
+- smernice Rady 86/214/EHS z 26. mája 1986 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
 
-- - smernice Rady 86/355/EHS z 21. júla 1986 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
+- smernice Rady 86/355/EHS z 21. júla 1986 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
 
-- - smernice Rady 87/181/EHS z 9. marca 1987 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
+- smernice Rady 87/181/EHS z 9. marca 1987 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
 
-- - smernice Komisie 87/477/EHS z 9. septembra 1987 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
+- smernice Komisie 87/477/EHS z 9. septembra 1987 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 7),
 
-- - smernice Rady 89/365/EHS z 30. mája 1989 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 9),
+- smernice Rady 89/365/EHS z 30. mája 1989 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 9),
 
-- - smernice Komisie 90/335/EHS zo 7. júna 1990 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 10),
+- smernice Komisie 90/335/EHS zo 7. júna 1990 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 10),
 
-- - smernice Rady 90/533/EHS z 15. októbra 1990 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 10),
+- smernice Rady 90/533/EHS z 15. októbra 1990 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 10),
 
-- - smernice Komisie 91/188/EHS z 19. marca 1991 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 11),
+- smernice Komisie 91/188/EHS z 19. marca 1991 (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 11),
 
-- - nariadenia Rady (ES) č. 807/2003 zo 14. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, 1/zv. 4),
+- nariadenia Rady (ES) č. 807/2003 zo 14. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, 1/zv. 4),
 
-- - nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004 z 29. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8).
+- nariadenia Európskeho parlamentu a Rady (ES) č. 850/2004 z 29. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 8).
 
-- 7. Smernica Komisie 2009/11/ES z 18. februára 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť bensulfuron, nátrium-5-nitroguajakolát, nátrium-2-nitrofenolát, nátrium-4-nitrofenolát a tebufenpyrad ako účinné látky (Ú. v. EÚ L 48, 19. 2. 2009),
+7. Smernica Komisie 2009/11/ES z 18. februára 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť bensulfuron, nátrium-5-nitroguajakolát, nátrium-2-nitrofenolát, nátrium-4-nitrofenolát a tebufenpyrad ako účinné látky (Ú. v. EÚ L 48, 19. 2. 2009),
 
-- 8. Smernica Komisie 2009/25/ES z 2. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky pyraklostrobín (Ú. v. EÚ L 91, 3. 4. 2009).
+8. Smernica Komisie 2009/25/ES z 2. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky pyraklostrobín (Ú. v. EÚ L 91, 3. 4. 2009).
 
-- 9. Smernica Komisie 2009/37/ES z 23. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórmekvát, zlúčeniny medi, propachizafop, chizalofop-P, teflubenzurón a zeta-cypermetrín medzi účinné látky (Ú. v. EÚ L 104, 24. 4. 2009).
+9. Smernica Komisie 2009/37/ES z 23. apríla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórmekvát, zlúčeniny medi, propachizafop, chizalofop-P, teflubenzurón a zeta-cypermetrín medzi účinné látky (Ú. v. EÚ L 104, 24. 4. 2009).
 
-- 10. Smernica Komisie 2009/51/ES z 25. mája 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky nicosulfurón (Ú. v. EÚ L 127, 26. 5. 2009).
+10. Smernica Komisie 2009/51/ES z 25. mája 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o špecifikáciu účinnej látky nicosulfurón (Ú. v. EÚ L 127, 26. 5. 2009).
 
-- 11. Smernica Komisie 2009/70/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť difenakum, didecyl(dimetyl)amónium-chlorid a síru medzi účinné látky (Ú. v. EÚ L 164, 26. 6. 2009).
+11. Smernica Komisie 2009/70/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť difenakum, didecyl(dimetyl)amónium-chlorid a síru medzi účinné látky (Ú. v. EÚ L 164, 26. 6. 2009).
 
-- 12. Smernica Komisie 2009/77/ES z 1. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórsulfurón, cyromazín, dimetachlór, etofenprox, lufenurón, penkonazol, tri-alát a triflusulfurón medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2009).
+12. Smernica Komisie 2009/77/ES z 1. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chlórsulfurón, cyromazín, dimetachlór, etofenprox, lufenurón, penkonazol, tri-alát a triflusulfurón medzi účinné látky (Ú. v. EÚ L 172, 2. 7. 2009).
 
-- 13. Smernica Rady 2009/82/ES z 13. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tetrakonazol medzi účinné látky (Ú. v. EÚ L 196, 28. 7. 2009),
+13. Smernica Rady 2009/82/ES z 13. júla 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tetrakonazol medzi účinné látky (Ú. v. EÚ L 196, 28. 7. 2009),
 
-- 14. Smernica Komisie 2009/115/ES z 31. augusta 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metomyl ako účinnú látku (Ú. v. EÚ L 228, 1. 9. 2009),
+14. Smernica Komisie 2009/115/ES z 31. augusta 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metomyl ako účinnú látku (Ú. v. EÚ L 228, 1. 9. 2009),
 
-- 15. Smernica Rady 2009/116/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínové oleje č. CAS 64742-46-7, č. CAS 72623-86-0 a č. CAS 97862-82-3 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009),
+15. Smernica Rady 2009/116/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínové oleje č. CAS 64742-46-7, č. CAS 72623-86-0 a č. CAS 97862-82-3 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009),
 
-- 16. Smernica Rady 2009/117/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínový olej č. CAS 8042-47-5 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009).
+16. Smernica Rady 2009/117/ES z 25. júna 2009, ktorou sa mení a dopĺňa smernica 91/414/EHS s cieľom zaradiť parafínový olej č. CAS 8042-47-5 medzi účinné látky (Ú. v. EÚ L 237, 9. 9. 2009).
 
-- 17. Smernica Komisie 2009/146/ES z 26. novembra 2009, ktorou sa opravuje smernica 2008/125/ES, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 312, 27. 11. 2009).
+17. Smernica Komisie 2009/146/ES z 26. novembra 2009, ktorou sa opravuje smernica 2008/125/ES, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid hlinitý, fosfid vápenatý, fosfid horečnatý, cymoxanil, dodemorf, metylester kyseliny 2,5-dichlórbenzoovej, metamitrón, sulkotrión, tebukonazol a triadimenol medzi účinné látky (Ú. v. EÚ L 312, 27. 11. 2009).
 
-- 18. Smernica Komisie 2009/152/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátum skončenia platnosti zaradenia účinnej látky karbendazím do prílohy I (Ú. v. EÚ L 314, 1. 12. 2009).
+18. Smernica Komisie 2009/152/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátum skončenia platnosti zaradenia účinnej látky karbendazím do prílohy I (Ú. v. EÚ L 314, 1. 12. 2009).
 
-- 19. Smernica Komisie 2009/153/ES z 30. novembra 2009, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o bežný názov a čistotu účinnej látky hydrolyzované proteíny (Ú. v. EÚ L 314, 1. 12. 2009).
+19. Smernica Komisie 2009/153/ES z 30. novembra 2009, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o bežný názov a čistotu účinnej látky hydrolyzované proteíny (Ú. v. EÚ L 314, 1. 12. 2009).
 
-- 20. Smernica Komisie 2009/154/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cyflufenamid medzi účinné látky (Ú. v. EÚ L 314, 1. 12. 2009).
+20. Smernica Komisie 2009/154/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cyflufenamid medzi účinné látky (Ú. v. EÚ L 314, 1. 12. 2009).
 
-- 21. Smernica Komisie 2009/155/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o požadovanú úroveň čistoty účinnej látky metazachlór (Ú. v. EÚ L 314, 1. 12. 2009).
+21. Smernica Komisie 2009/155/ES z 30. novembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o požadovanú úroveň čistoty účinnej látky metazachlór (Ú. v. EÚ L 314, 1. 12. 2009).
 
-- 22. Smernica Komisie 2009/160/EÚ zo 17. decembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 2-fenylfenol medzi účinné látky (Ú. v. EÚ L 338, 19. 12. 2009).
+22. Smernica Komisie 2009/160/EÚ zo 17. decembra 2009, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 2-fenylfenol medzi účinné látky (Ú. v. EÚ L 338, 19. 12. 2009).
 
-- 23. Smernica Komisie 2010/2/EÚ z 27. januára 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky chlórmekvát (Ú. v. EÚ L 24, 28. 1. 2010).
+23. Smernica Komisie 2010/2/EÚ z 27. januára 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky chlórmekvát (Ú. v. EÚ L 24, 28. 1. 2010).
 
-- 24. Smernica Komisie 2010/14/EÚ z 3. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť heptamaloxyloglukán medzi účinné látky (Ú. v. EÚ L 53, 4. 3. 2010),
+24. Smernica Komisie 2010/14/EÚ z 3. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť heptamaloxyloglukán medzi účinné látky (Ú. v. EÚ L 53, 4. 3. 2010),
 
-- 25. Smernica Komisie 2010/15/EÚ z 8. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fluopikolid medzi účinné látky (Ú. v. EÚ L 58, 9. 3. 2010),
+25. Smernica Komisie 2010/15/EÚ z 8. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fluopikolid medzi účinné látky (Ú. v. EÚ L 58, 9. 3. 2010),
 
-- 26. Smernica Komisie 2010/17/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť malatión medzi účinné látky (Ú. v. EÚ L 60, 10. 3. 2010),
+26. Smernica Komisie 2010/17/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť malatión medzi účinné látky (Ú. v. EÚ L 60, 10. 3. 2010),
 
-- 27. Smernica Komisie 2010/20/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS na účely vyradenia tolylfluanidu ako účinnej látky a odňatia povolení na prípravky na ochranu rastlín obsahujúce uvedenú látku (Ú. v. EÚ L 60, 10. 3. 2010),
+27. Smernica Komisie 2010/20/EÚ z 9. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS na účely vyradenia tolylfluanidu ako účinnej látky a odňatia povolení na prípravky na ochranu rastlín obsahujúce uvedenú látku (Ú. v. EÚ L 60, 10. 3. 2010),
 
-- 28. Smernica Komisie 2010/21/EÚ z 12. marca 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia týkajúce sa klotianidínu, thiamethoxamu, fipronilu a imidaklopridu (Ú. v. EÚ L 65, 13. 3. 2010),
+28. Smernica Komisie 2010/21/EÚ z 12. marca 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia týkajúce sa klotianidínu, thiamethoxamu, fipronilu a imidaklopridu (Ú. v. EÚ L 65, 13. 3. 2010),
 
-- 29. Smernica Komisie 2010/25/EÚ z 18. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť penoxsulam, prochinazid a spirodiklofén medzi účinné látky (Ú. v. EÚ L 69, 19. 3. 2010),
+29. Smernica Komisie 2010/25/EÚ z 18. marca 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť penoxsulam, prochinazid a spirodiklofén medzi účinné látky (Ú. v. EÚ L 69, 19. 3. 2010),
 
-- 30. Smernica Komisie 2010/27/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť triflumizol ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
+30. Smernica Komisie 2010/27/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť triflumizol ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
 
-- 31. Smernica Komisie 2010/28/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metalaxyl ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
+31. Smernica Komisie 2010/28/EÚ z 23. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metalaxyl ako účinnú látku (Ú. v. EÚ L 104, 24. 4. 2010),
 
-- 32. Smernica Komisie 2010/29/EÚ z 27. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flonikamid (IKI-220) medzi účinné látky (Ú. v. EÚ L 106, 28. 4. 2010).
+32. Smernica Komisie 2010/29/EÚ z 27. apríla 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flonikamid (IKI-220) medzi účinné látky (Ú. v. EÚ L 106, 28. 4. 2010).
 
-- 33. Smernica Komisie 2010/34/EÚ z 31. mája 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky penkonazol (Ú. v. EÚ L 134, 1. 6. 2010).
+33. Smernica Komisie 2010/34/EÚ z 31. mája 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky penkonazol (Ú. v. EÚ L 134, 1. 6. 2010).
+
+34. Smernica Komisie 2010/38/EÚ z 18. júna 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fluorid sulfurylu medzi účinné látky (Ú. v. EÚ L 154, 19. 6. 2010).
+
+35. Smernica Komisie 2010/39/EÚ z 22. júna 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS, pokiaľ ide o osobitné ustanovenia týkajúce sa účinných látok klofentezín, diflubenzurón, lenacil, oxadiazón, pikloram a pyriproxyfén (Ú. v. EÚ L 156, 23. 6. 2010).
+
+36. Smernica Komisie 2010/42/EÚ z 28. júna 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť FEN 560 (prášok zo semien senovky gréckej) medzi účinné látky (Ú. v. EÚ L 161, 29. 6. 2010).
+
+37. Smernica Komisie 2010/58/EÚ z 23. augusta 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky iprodiónu (Ú. v. EÚ L 221, 24. 8. 2010).
