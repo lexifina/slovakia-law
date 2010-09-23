@@ -164,6 +164,16 @@
 
 - 53) § 20f Občianskeho zákonníka.
 
+- 54) Zákon č. 7/2010 Z. z. o ochrane pred povodňami.
+
+- 55) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 56) § 48 ods. 2 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
+
+- 57) § 10 ods. 3 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- 58) Nariadenie (ES) č. 1998/2006.
+
 - 59a) Zákon č. 231/1999 Z. z. v znení neskorších predpisov.
 
 - Nariadenie Rady (ES) č. 659/1999 z 22. marca 1999, ktorým sa ustanovujú podrobné pravidlá uplatňovania článku 93 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 083, 27. 3. 1999).
