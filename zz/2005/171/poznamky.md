@@ -88,6 +88,8 @@
 
 - 18a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 18b) § 4 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
+
 - 19) § 1 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 
 - 19a) Nariadenie Komisie (ES) č. 1998/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 Zmluvy na pomoc de minimis (Ú. v. EÚ L 379, 28. 12. 2006).
