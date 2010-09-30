@@ -1120,6 +1120,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. pre iné listiny ktorýkoľvek z orgánov uvedených v bodoch 1 až 3
 
+    - Peruánska republika
+
+    - Ministerstvo zahraničných vecí Peruánskej republiky – Generálne riaditeľstvo konzulárnej politiky
+
     - Poľsko
 
     - Ministerstvo zahraničných vecí
