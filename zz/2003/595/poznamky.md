@@ -220,6 +220,8 @@
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
+- 80aa) § 37 ods. 20 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 374 /2010 Z. z.
+
 - 80b) § 16 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
