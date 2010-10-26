@@ -464,9 +464,9 @@ Európske vylúčené prihlášky
 
 (1) Prihlasovateľ môže podať vylúčenú prihlášku týkajúcu sa ktorejkoľvek skoršej európskej patentovej prihlášky, ktorá je v konaní, ak
 
-(a) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od prvého oznámenia prieskumového oddelenia týkajúceho sa najskoršej prihlášky, pre ktorú bolo toto oznámenie vydané, alebo
+(a) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od prvého oznámenia prieskumového oddelenia podľa článku 94 odseku 3 a podľa pravidla 71 odsekov 1 a 2 alebo pravidla 71 odseku 3 týkajúceho sa najskoršej prihlášky, pre ktorú bolo toto oznámenie vydané, alebo
 
-(b) je vylúčená prihláška podaná pred uplynutím 24 mesiacov od oznámenia, v ktorom prieskumové oddelenie namietalo, že skoršia prihláška nespĺňa požiadavky článku 82, ak bola táto námietka vznesená prvý raz.
+(b) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od oznámenia, v ktorom prieskumové oddelenie namietalo, že skoršia prihláška nespĺňa požiadavky článku 82, ak bola táto námietka vznesená prvý raz.
 
 (2) Vylúčená prihláška musí byť podaná v jazyku konania o skoršej prihláške. Ak neskoršia prihláška nie je v úradnom jazyku Európskeho patentového úradu, vylúčená prihláška môže byť podaná v jazyku skoršej prihlášky; potom musí byť podaný preklad do jazyka konania o skoršej prihláške do dvoch mesiacov od podania vylúčenej prihlášky. Vylúčená prihláška musí byť podaná na Európsky patentový úrad v Mníchove, Haagu alebo Berlíne.
 
