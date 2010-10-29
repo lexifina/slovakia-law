@@ -471,3 +471,19 @@
   - a) Dohovor pre Uruguajskú východnú republiku nadobudol platnosť 1. marca 2010.
 
   - b) Uruguajská východná republika pri podpise a uložení ratifikačnej listiny vyhlásenia ani výhrady neurobila.
+
+  - Dominikánska republika:
+
+  - a) Dohovor pre Dominikánsku republiku nadobudol platnosť 1. októbra 2010.
+
+  - b) Podľa článkov 29 a 44 dohovoru Dominikánska republika určila ústredný orgán:
+
+  - Consejo Nacional Para la Ninez y la Adolescencia (National Council for Childhood and Adolescence) (CONANI)
+
+  - Avenida Máximo Gómez No. 154, esq. Rep. de Paraguay Ensanche la Fé
+
+  - Apartado Postal 2081
+
+  - SANTO DOMINGO
+
+  - Dominican Republic.
