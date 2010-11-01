@@ -1,0 +1,7 @@
+# § 40n
+
+(1) Pôsobnosť Ministerstva kultúry a cestovného ruchu Slovenskej republiky v oblasti podpory kultúry národnostných menšín podľa doterajších všeobecne záväzných právnych predpisov prechádza na podpredsedu vlády, ktorý neriadi ministerstvo.
+
+(2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo kultúry a cestovného ruchu Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „podpredseda vlády, ktorý neriadi ministerstvo“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
+
+(3) V súvislosti s prechodom kompetencie v oblasti podľa odseku 1 prechádzajú od 1. novembra 2010 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a z iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva kultúry a cestovného ruchu Slovenskej republiky na Úrad vlády Slovenskej republiky. Majetok štátu, ktorý bol do 31. októbra 2010 v správe Ministerstva kultúry a cestovného ruchu Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. novembra 2010 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom kultúry Slovenskej republiky, Úradom vlády Slovenskej republiky a podpredsedom vlády, ktorý neriadi ministerstvo, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.

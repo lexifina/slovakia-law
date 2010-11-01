@@ -12,4 +12,4 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
-- 6) Napríklad § 3, 4 a 6 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, § 22 a 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 6) Napríklad § 3, 4 a 6 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, § 21 až 28 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
