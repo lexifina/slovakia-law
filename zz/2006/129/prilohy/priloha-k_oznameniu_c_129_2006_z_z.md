@@ -110,15 +110,15 @@ K oznámeniu č. 129/2006 Z. z.
 
     - „the Registrar General“
 
-    - Bielorusko
+    - Bieloruská republika
 
-  - 1. Ministerstvo spravodlivosti pre listiny vydané justičnými orgánmi a súdmi
+  - 1. Ministerstvo spravodlivosti pre listiny vydané súdmi, Centrom súdnych znalcov a kriminalistiky, arbitrážnymi súdmi v pracovných sporoch, oblastnými súdnymi orgánmi, súdnymi orgánmi výkonného výboru v Minsku, notárskymi archívmi a notármi
 
-  - 2. Ministerstvo štátnej výchovy pre listiny vydané výchovnými zariadeniami
+  - 2. Ministerstvo školstva pre listy vydané vzdelávacími inštitúciami
 
-  - 3. Výbor pre archívy a správu pre listiny vydané príslušnými štátnymi archívmi
+  - 3. Sekcia archívnictva a správy ministerstva spravodlivosti pre listiny vydané Národným archívom
 
-  - 4. Ministerstvo zahraničných vecí pre všetky ostatné listiny
+  - 4. Ministerstvo zahraničných vecí pre všetky ostatné listiny vrátane listín vydaných uvedenými orgánmi, ako aj listiny zaslané do Bieloruska diplomatickými a konzulárnymi zástupcami Bieloruska
 
     - Bosna a Hercegovina
 
