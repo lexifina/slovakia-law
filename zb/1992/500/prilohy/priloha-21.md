@@ -112,47 +112,69 @@
 
   - KAPITOLA 3 OPERÁCIE
 
-    - Článok 11: Kryté riziká
+    - Článok 11: Garantované riziká
 
-      - (a) S ohľadom na ustanovenia Odsekov (b) a (c) tohto článku môže Agentúra poskytovať záruku investíciám, ktoré si vyberie, a to proti stratám plynúcim z nasledujúcich rizík alebo ich kombinácií:
+      - (a) Agentúra môže v súlade s ustanoveniami nižšie uvedených odsekov (b) a (c) garantovať tie investície, ktoré prichádzajú do úvahy, pokiaľ ide o krytie straty, ktorá je dôsledkom jedného alebo niekoľkých z nasledujúcich typov rizík:
 
-        - (i) Prevod meny akékoľvek obmedzenie, ktorého zavedenie sa dá pripísať hostiteľskej vláde a ktoré spočíva v reštrikcii prevodu meny hostiteľskej krajiny mimo jej hraníc na menu voľne použiteľnú, alebo menu prijateľnú pre ručiteľa, včítane situácie, keď na žiadosť ručiteľa o prevod nedokáže hostiteľská vláda v rozumnom čase reagovať.
+        - (i) Prevod peňažných prostriedkov
 
-        - (ii) Vyvlastnenie a podobné opatrenia akékoľvek legislatívne alebo administratívne opatrenie, prípadne zrušenie zákona, ktorého zavedenie možno pripísať hostiteľskej vláde a ktorým je ručiteľ zbavený vlastníctva, kontroly, prípadne značnej časti zisku z investície, s výnimkou všeobecne platných opatrení nediskriminačného charakteru, ktoré vlády bežne prijímajú za účelom regulácie ekonomických aktivít na území svojich štátov.
+        - akékoľvek zavedenie obmedzení prevodov peňažných prostriedkov, ktoré možno pripísať vláde hostiteľskej krajiny a ktoré sa týka prevodu meny takejto dotknutej hostiteľskej krajiny mimo jej územia a na voľne použiteľnú menu alebo na inú menu, ktorá je z hľadiska držiteľa garancie prijateľná, a to vrátane nekonania zo strany vlády hostiteľskej krajiny v primeranej lehote vo veci žiadosti o povolenie takého prevodu predloženej zo strany ktoréhokoľvek takého držiteľa garancie;
 
-        - (iii) Porušenie zmluvy vypovedanie alebo porušenie zmluvy zo strany hostiteľskej vlády vzhľadom na ručiteľa, keď (a) sa ručiteľ nemôže uchýliť k súdnemu alebo arbitrážnemu fóru, aby tu určil odškodné za vypovedanie alebo porušenie zmluvy, (b) rozhodnutie tohto fóra sa nevykoná v rozumnom čase určenom v záručných zmluvách uzavretých podľa opatrenia Agentúry, (c) rozhodnutie nemožno splniť.
+        - (ii) Vyvlastnenie alebo opatrenia podobnej povahy
 
-        - (iv) Vojna a nepokoje akékoľvek vojenské akcie alebo nepokoje na akomkoľvek území hostiteľskej krajiny, pre ktorú táto Dohoda platí v zmysle ustanovenia Článku 66.
+        - akýkoľvek legislatívny krok alebo krok administratívneho charakteru, respektíve opomenutie, ktoré možno pripísať vláde hostiteľskej krajiny a z ktorého pre držiteľa garancie vyplynie pozbavenie vlastníctva alebo kontroly nad jeho investíciou alebo nad podstatnou časťou výnosu, ktorý z nej vyplýva, s výnimkou opatrení, ktoré majú nediskriminačný charakter a ktoré sa zo strany vlád zvyčajne aplikujú plošne na účel regulácie hospodárskej činnosti na území, ktoré im podlieha;
 
-      - (b) Na základe spoločnej žiadosti investora a hostiteľskej krajiny môže Riaditeľská rada osobitnou väčšinou rozšíriť oblasť krytia uvedenú v tomto článku aj na ďalšie konkrétne nekomerčné riziká neuvedené v odseku (a), ale v žiadnom prípade sa toto krytie nebude vzťahovať na riziko devalvácie alebo znehodnotenia meny.
+        - (iii) Porušenie zmluvy
 
-      - (c) Krytie sa nevzťahuje na straty spôsobené nasledujúcimi dôvodmi:
+        - akékoľvek popretie alebo porušenie zmluvy uzatvorenej s držiteľom garancie zo strany vlády hostiteľskej krajiny, pokiaľ (a) sa držiteľ garancie s cieľom stanoviť pohľadávku, ktorá vyplýva z popretia alebo porušenia zmluvy, neobráti na súdne alebo arbitrážne fórum, alebo (b) rozhodnutie sa zo strany takého fóra nevydá v lehote, ktorá je ako primeraná v súlade s predpismi agentúry ustanovená v zmluvách o garancii, alebo (c) takéto rozhodnutie nemožno vynútiť; a
 
-        - (i) akékoľvek opatrenie, prípadne zrušenie nariadenia zo strany hostiteľskej krajiny, s ktorým ručiteľ súhlasil alebo za ktoré nesie zodpovednosť,
+        - (iv) Vojnový konflikt a občianske nepokoje
 
-        - (ii) akékoľvek opatrenie, prípadne zrušenie nariadenia zo strany hostiteľskej krajiny, alebo akákoľvek ďalšia udalosť, ku ktorým došlo pred uzavretím záručnej dohody.
+        - akákoľvek vojenská akcia alebo občiansky nepokoj, ktorý vznikne na ktorejkoľvek časti územia hostiteľskej krajiny a ktorý tak, ako ustanovuje článok 66, upravuje tento dohovor.
 
-      - Článok 12: Investície, na ktoré sa Dohoda vzťahuje
+      - (b) Okrem toho môže rada svojou väčšinou v stanovenom pomere hlasov schváliť rozšírenie krytia v súlade s týmto článkom na konkrétne nekomerčné riziká, ktoré sa neuvádzajú vo vyššie uvedenom odseku (a), ale s tým, že do uvedeného rozšírenia krytia sa v žiadnom prípade nezahrnie devalvácia alebo znehodnotenie meny.
 
-      - (a) K investíciám, na ktoré sa Dohoda vzťahuje, patria podiely na akciách včítane strednodobých alebo dlhodobých pôžičiek, ktoré uzavreli držitelia akcií v príslušnom podniku alebo za ktoré títo majitelia ručia, a všetky ostatné formy priamych investícií, ktoré určí Riaditeľská rada.
+      - (c) Krytiu nepodliehajú straty, ktoré sú dôsledkom nasledujúcich okolností:
 
-      - (b) Riaditeľská rada môže prostredníctvom osobitnej väčšiny rozšíriť pôsobnosť aj na ďalšie strednodobé alebo dlhodobé formy investícií, s tou výnimkou, že pôžičky neuvedené v odseku (a) spadajú do pôsobnosti Dohody, iba pokiaľ sú vo vzťahu ku konkrétnej investícii, ktorá je krytá Agentúrou, alebo ktorú má Agentúra pokrývať.
+        - (i) akýkoľvek krok zo strany vlády hostiteľskej krajiny, respektíve akékoľvek opomenutie zo strany vlády hostiteľskej krajiny, s ktorým držiteľ garancie vyjadril súhlas, alebo za ktoré držiteľ garancie niesol zodpovednosť; a
 
-      - (c) Záruky budú obmedzené na investície, ktorých realizácia sa začína po registrácii žiadosti o záruku Agentúrou. Tieto investície môžu zahŕňať:
+        - (ii) akýkoľvek krok zo strany vlády hostiteľskej krajiny, respektíve akékoľvek opomenutie zo strany vlády hostiteľskej krajiny alebo akákoľvek iná okolnosť, ktorá nastala pred uzatvorením tejto zmluvy o garancii.
 
-        - (i) akýkoľvek prevod zahraničnej meny, ktorého cieľom je modernizácia, rozšírenie alebo rozvoj jestvujúcej investície,
+    - Článok 12: Garantované investície
 
-        - (ii) použitie ziskov z jestvujúcich investícií, ktoré by inak boli prevedené mimo hostiteľskej krajiny.
+      - (a) Garantované investície zahŕňajú obchodné podiely vrátane strednodobých a dlhodobých pôžičiek, ktoré buď poskytli alebo ktoré garantovali držitelia podielu v dotknutom podniku, ako aj také formy priamych investícií, ktoré určí rada.
 
-      - (d) Pri preberaní záruky za investície Agentúra bude kontrolovať:
+      - (b) Nasledujúce pôžičky, ktoré sa neuvádzajú vo vyššie uvedenom odseku (a), tiež, pokiaľ ide o garančné krytie, prichádzajú do úvahy:
 
-        - (i) či je investícia ekonomicky podložená a prispeje k rozvoju hostiteľskej krajiny,
+        - (i) pokiaľ sa také pôžičky poskytnú na účel financovania alebo sa inak týkajú konkrétnej investície alebo projektu, ktorého súčasťou je nejaká iná forma priamej investície, a to bez ohľadu na to, či ide o pôžičky, ktoré sú zo strany agentúry garantované alebo garantované nie sú, a bez ohľadu na to, kedy sa taká investícia iného druhu vykonala, alebo
 
-        - (ii) či investícia zodpovedá nariadeniam a zákonom hostiteľskej krajiny,
+        - (ii) také pôžičky, ktoré môže rada inak schváliť svojou väčšinou v stanovenom pomere hlasov.
 
-        - (iii) či je investícia v súlade s vyhlásenými rozvojovými cieľmi a prioritami hostiteľskej krajiny,
+      - (c) Rada môže svojou väčšinou v stanovenom pomere hlasov rozšíriť garančné krytie na akékoľvek iné strednodobé a dlhodobé formy investícií.
 
-        - (iv) investičné podmienky v hostiteľskej krajine, včítane zákonnej ochrany a spravodlivého a rovného prístupu k investíciám.
+      - (d) Garancie sa vo všeobecnosti obmedzujú na investície, ktorých implementácia sa začína následne po registrácii žiadosti o garanciu zo strany agentúry alebo následne po prijatí iného uspokojivého dôkazu, že investor zamýšľa získať garancie agentúry, zo strany agentúry. Takéto investície môžu zahŕňať:
+
+        - (i) prevod cudzej meny (valuty) vykonaný na účel modernizácie, rozšírenia alebo vývoja súčasnej investície s tým, že v takom prípade sa pôvodná investícia i následná investícia vykonaná nad rámec pôvodnej investície považujú za investície, ktoré prichádzajú z hľadiska garančného krytia do úvahy;
+
+        - (ii) použitie výnosov aktuálnych investícií, ktoré by sa inak mohli previesť mimo územia hostiteľskej krajiny;
+
+        - (iii) nadobudnutie aktuálnej investície zo strany investora, ktorý prichádza z hľadiska garančného krytia do úvahy;
+
+        - (iv) aktuálne investície, v prípade ktorých sa investor, ktorý prichádza z hľadiska garančného krytia do úvahy, snaží o získanie poistenia pre celok zložený z aktuálnych a nových investícií;
+
+        - (v) aktuálne investície vo vlastníctve investora, ktorý prichádza z hľadiska garančného krytia do úvahy, a v prípade ktorých sa zlepšuje alebo rozširuje základný projekt alebo v prípade ktorých investor v súvislosti s projektom iným spôsobom demonštruje strednodobý alebo dlhodobý záväzok a agentúra je presvedčená o tom, že projekt má v rámci hostiteľskej krajiny aj naďalej vysoký rozvojový dosah; a
+
+        - (vi) také iné investície, ktoré môže rada schváliť svojou väčšinou v stanovenom pomere hlasov.
+
+      - (e) Pri garantovaní investície sa agentúra presviedča, pokiaľ ide o:
+
+        - (i) hospodársku opodstatnenosť investície a o jej príspevok k rozvoju hostiteľskej krajiny;
+
+        - (ii) súlad investície so zákonmi a predpismi hostiteľskej krajiny;
+
+        - (iii) súlad investície s vyhlásenými rozvojovými cieľmi a prioritami hostiteľskej krajiny; a
+
+        - (iv) investičné podmienky v hostiteľskej krajine vrátane toho, či je, pokiaľ ide o investíciu, k dispozícii čestný a spravodlivý prístup, ako aj jej právna ochrana.
 
     - Článok 13: Investori, na ktorých sa vzťahuje Dohoda
 
