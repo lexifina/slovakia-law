@@ -1932,9 +1932,127 @@ K oznámeniu č. 129/2006 Z. z.
 
   - – pre provincie Trento a Bolzano vládny komisár
 
-  - Tonga
+  - Tongské kráľovstvo
 
-  - „Secretary to Government, Prime Ministers Office, Nukualofa"
+  - Ministerstvo zahraničných vecí, prisťahovalectva a občianstva, ako aj niektoré jeho diplomatické misie:
+
+  - High Commission of the Kingdom of Tonga (UK)
+
+  - 36 Molyneux Street
+
+  - London W1H 5BQ
+
+  - United Kingdom
+
+  - Ph: (004420) 7724-5828
+
+  - Fax: (004420) 7723-9074
+
+  - Email: office@tongahighcom.co.uk
+
+  - The Tongan High Commissioner to the United Kingdom: (H. E. Dr. Sione Ngongo Kioa)
+
+  - Embassy and Permanent Mission of the Kingdom of Tonga to the United Nations
+
+  - 250 East 51st Street
+
+  - New York
+
+  - NY 10022
+
+  - USA
+
+  - Ph: (001917)369-1025
+
+  - Fax: (001917)369-1024
+
+  - The Tongan Ambassador Extraordinary and Plenipotentiary to the United States of America: (H. E. Sonatane Tu´a Taumoepeau-Tupou)
+
+  - Embassy of the Kingdom of Tonga to the People´s Republic of China
+
+  - 1-2-11 Jianguomenwai Diplomatic Compound
+
+  - Chaoyang District
+
+  - Beijing 100600
+
+  - People´s Republic of China
+
+  - Ph: (008610)6532-7203
+
+  - Fax: (008610)6532-7204
+
+  - The Tongan Ambassador Extraordinary and Plenipotentiary to the People´s Republic of China: (H. E. Mahe ´Uli´uli Sandhurst Tupouniua)
+
+  - High Commission of the Kingdom of Tonga to New Zealand
+
+  - Tonga High Commission
+
+  - 41 Bay Street
+
+  - Petone, Lower Hutt 5012
+
+  - Wellington
+
+  - New Zealand
+
+  - Ph: (00644)566-3884
+
+  - Fax: (00644)566-3887
+
+  - Email: thc.wellington@gmail.com
+
+  - The Tongan High Commissioner to New Zealand: (H. E. Siaosi Taimani ´Aho)
+
+  - Consulate General of the Kingdom of Tonga to the United States of America
+
+  - 360 Post St
+
+  - Suite 604
+
+  - San Francisco 94108
+
+  - USA
+
+  - Ph: (001415)816 9132
+
+  - Fax: (001415)781 3964
+
+  - The Tongan Consul General to the United States of America: (the post is currently being held by Acting appointee, Mrs Lu´isa Leveni)
+
+  - Consular Agency of the Kingdom of Tonga to the United States of America
+
+  - 738 Kaheka St
+
+  - Suite 306B
+
+  - Honolulu
+
+  - Hawaii 96814
+
+  - USA
+
+  - Ph: (001808) 953 2449
+
+  - Fax: (001808) 955 1447
+
+  - The Tongan Consular Agent to the State of Hawaii, USA: (Ms Annie Kaneshiro)
+
+  - Honorary Consulate General of the Kingdom of Tonga to Australia
+
+  - Level 6, 73 Walker St
+
+  - (P. O. Box 238)
+
+  - North Sydney NSW 2020
+
+  - Australia
+
+  - Ph: (00612) 9936 2028
+
+  - Fax: (00612) 9936 2098
+
+  - The Tongan Honorary Consul to Australia (Ms Louise Raedler-Waterhouse)
 
   - Trinidad a Tobago
 
