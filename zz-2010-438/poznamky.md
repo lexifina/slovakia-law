@@ -1,0 +1,1 @@
+- 1) Čl. 2 písm. d) nariadenia Európskeho parlamentu a Rady (ES) č. 763/2008 z 9. júla 2008 o sčítaní obyvateľov, domov a bytov (Ú. v. EÚ L 218, 13. 8. 2008).
