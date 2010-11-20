@@ -1,0 +1,1 @@
+- 1) Pretože Riadiaci orgán nemá vlastnú medzinárodnú právnu subjektivitu, dohodu uzavrie FAO, konajúc za Riadiaci orgán a s jeho súhlasom.
