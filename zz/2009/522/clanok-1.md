@@ -20,7 +20,31 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - 4. V poznámke pod čiarou k odkazu 14 sa citácia „§ 11 zákona č. 163/2001 Z. z. v znení zákona č. 434/2004 Z. z.“ nahrádza citáciou „Čl. 10 písm. a) bod (ix) nariadenia (ES) č. 1907/2006 v platnom znení.“.
 
+- 5. V § 15 ods. 1 sa písmeno a) dopĺňa deviatym bodom, ktorý znie:
+
+- „9.
+
+- látky karcinogénne, mutagénne alebo poškodzujúce reprodukciu kategórií 1A, 1B a 2.<sup>14a</sup>) Látka kategórie 2 sa môže použiť, ak bola prehodnotená Vedeckým výborom pre bezpečnosť spotrebiteľov<sup>14b</sup>) a uznaná za prijateľnú na použitie v kozmetických výrobkoch,“.
+
+- Poznámky pod čiarou k odkazom 14a a 14b znejú:
+
+- „14a)
+
+- Časť 3 príloha VI nariadenia (ES) č. 1272/2008 v znení nariadenia (ES) č. 790/2009.
+
+- 14b)
+
+- Rozhodnutie Komisie (ES) č. 2008/721 z 5. augusta 2008, ktorým sa stanovuje poradná štruktúra vedeckých výborov a expertov v oblasti bezpečnosti spotrebiteľov, verejného zdravia a životného prostredia a ruší rozhodnutie 2004/210/ES (Ú. v. EÚ L 241, 10. 9. 2008).“.
+
 - 6. V poznámke pod čiarou k odkazu 15 sa citácia „Príloha č. 5 výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2002 na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch (oznámenie č. 384/2002 Z. z.) v znení výnosu Ministerstva hospodárstva Slovenskej republiky č. 2/2005 (oznámenie č. 214/2005 Z. z.).“ nahrádza citáciou „Nariadenie Komisie (ES) č. 440/2008 z 30. mája 2008, ktorým sa ustanovujú testovacie metódy podľa nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) (Ú. v. EÚ L 142, 31. 5. 2008) v znení nariadenia Komisie (ES) č. 761/2009 z 23. júla 2009 (Ú. v. EÚ L 220, 30. 8. 2009).“.
+
+- 7. V § 15 ods. 2 písm. d) sa odkaz 10 nahrádza odkazom 17a a na konci sa pripájajú tieto slová: „triedy nebezpečnosti 2.1 až 2.4, 2.6, 2.7, 2.8 typy A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1 a 5.1“.
+
+Poznámka pod čiarou k odkazu 17a znie:
+
+„17a)
+
+Príloha I nariadenia (ES) č. 1272/2008 v znení nariadenia (ES) č. 790/2009.“.
 
 - 8. Slovo „prípravok“ vo všetkých tvaroch sa v celom texte nariadenia vlády nahrádza slovom „zmes“ v príslušnom tvare.
 
