@@ -154,4 +154,20 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - „§ 72n
 
-- O príspevok podľa § 50j z dôvodu riešenia následkov mimoriadnej situácie vyhlásenej podľa osobitného predpisu<sup>55</sup>) v období od 1. mája 2010 do dňa vyhlásenia tohto zákona možno požiadať do šiestich mesiacov odo dňa vyhlásenia tohto zákona.“.
+- O príspevok podľa § 50j z dôvodu riešenia následkov mimoriadnej situácie vyhlásenej podľa osobitného predpisu<sup>55</sup>) v období od 1. mája 2010 do dňa vyhlásenia tohto zákona možno požiadať do šiestich mesiacov odo dňa vyhlásenia tohto zákona.
+
+- Prechodné ustanovenie účinné od 1. decembra 2010
+
+- § 72o
+
+- (1)
+
+- Príspevky podľa § 50e až 50h sa poskytujú najdlhšie do 31. decembra 2010.
+
+- (2)
+
+- Príspevok podľa § 50d sa poskytuje najdlhšie do 31. decembra 2011.
+
+- (3)
+
+- Ustanovenie § 72g sa od 1. decembra 2010 nepoužije.“.
