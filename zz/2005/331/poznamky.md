@@ -40,6 +40,10 @@
 
 - 20) Nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva, ktorá sa vzťahuje na obchod s tovarmi medzi členskými štátmi a ktorým sa zrušuje nariadenie Rady (EHS) č. 3330/91 (Ú. v. EÚ L 102, 7.4.2004).
 
+- 20a) Čl. 10 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004.
+
+- Čl. 26 ods. 3 nariadenia Rady (ES) č. 111/2005.
+
 - 21) Trestný zákon.
 
 - 22) Čl. 2 písm. b) nariadenia Rady (ES) č. 111/2005 a čl. 2 písm. b) nariadenia Európskeho parlamentu a Rady (ES) č. 273/ 2004.
@@ -107,5 +111,11 @@
 - 46) Čl. 8 ods.1 nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004 a čl. 9 ods. 1 nariadenia Rady (ES) č. 111/2005.
 
 - 47) Čl. 7 a čl. 8 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004 a čl. 5 a čl. 9 ods. 2 nariadenia Rady (ES) č. 111/2005.
+
+- 47a) Čl. 12 až 25 nariadenia Rady (ES) č. 111/2005.
+
+- 47b) Čl. 3, čl. 4 a čl. 8 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004.
+
+- 47c) § 38 ods. 7 zákona č. 140/1998 Z. z. v znení zákona č. 425/2010 Z. z.
 
 - 48) Napríklad Trestný zákon, Trestný poriadok a zákon č. 455/1991 o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
