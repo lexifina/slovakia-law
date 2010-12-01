@@ -22,9 +22,17 @@ Okrem toho sú tieto hračky vybavené príkazmi uvádzajúcimi pracovné pokyny
 
 Funkčné hračky predstavujú hračky, ktoré sa používajú rovnakým spôsobom ako spotrebiče alebo zariadenia určené dospelým a sú často ich modelom v určitej mierke.
 
-- 4. Hračky obsahujúce vo svojej podstate nebezpečné chemické látky alebo nebezpečné chemické prípravky; chemické hračky
+- 4. Hračky obsahujúce nebezpečné látky alebo zmesi. Chemické hračky
 
-- a) bez ujmy na platnosti ustanovení v smerniciach spoločenstva týkajúcich sa klasifikácie, balenia a označovania nebezpečných chemických látok alebo nebezpečných chemických prípravkov návody na používanie hračiek, ktoré samy osebe obsahujú nebezpečné látky alebo prípravky, musia obsahovať upozornenie o nebezpečnej povahe týchto látok a prípravkov a informáciu o preventívnych opatreniach, ktoré má používateľ dodržiavať, aby sa vyhol s nimi spojeným rizikám, ktoré sú stručne špecifikované podľa typu hračky; taktiež je tu zmienka o prvej pomoci, ktorá sa poskytne v prípade vážnych nehôd vyplývajúcich z používania tohto typu hračky; je tiež uvedené, že dané hračky sa musia držať mimo dosahu veľmi malých detí,
+- a) bez toho, aby boli dotknuté ustanovenia osobitného predpisu,<sup>5</sup>) návod na používanie hračiek, ktoré obsahujú nebezpečné látky alebo zmesi spĺňajúce kritériá tried alebo kategórií nebezpečnosti ustanovených v prílohe 1 bode 2.1 až 2.4, 2.6, 2.7, 2.8 typ A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1, 5.1 nariadenia (ES) č. 1272/2008,<sup>4</sup>) obsahuje
+
+- 1. upozornenie na nebezpečnú povahu týchto látok alebo zmesí,
+
+- 2. preventívne opatrenia, ktoré musí používateľ dodržiavať, aby sa vyhol nebezpečenstvu spojenému s používaním hračiek, ktoré sú stručne špecifikované podľa typu,
+
+- 3. prvú pomoc, ktorá sa poskytne v prípade vážnej nehody spôsobenej používaním tohto typu hračky a
+
+- 4. upozornenie, že hračky sa musia uchovávať mimo dosahu detí vo veku určenom výrobcom,
 
 - b) navyše k pokynom uvedeným v písmene a) majú chemické hračky na svojom obale toto označenie:
 
@@ -42,6 +50,6 @@ Okrem toho návod na použitie obsahuje pripomienku, že hračka sa musí použ�
 
 - 6. Hračky určené na použitie vo vode
 
-Hračky určené na použitie vo vode definované v prílohe č. 2 časti II bode 1 písm. f) obsahujú varovanie v súlade s pokynmi CEN, aby sa tak dodržala príslušná technická norma:<sup>1</sup>)
+Hračky určené na použitie vo vode definované v prílohe č. 2 časti II bode 1 písm. f) obsahujú varovanie v súlade s pokynmi CEN, aby sa tak dodržala príslušná technická norma:<sup>6</sup>)
 
 „Pozor! Používať len vo vode, v ktorej dieťa dočiahne na dno, a pod dohľadom“.

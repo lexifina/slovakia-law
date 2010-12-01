@@ -58,11 +58,13 @@ Príloha č. 2 k nariadeniu vlády č. 302/2004 Z. z.
 
 - takého horľavé materiály nesmú predstavovať riziko zapálenia iných materiálov použitých v hračke;
 
-  - b) hračky, ktoré z dôvodov podstatných pre ich fungovanie obsahujú nebezpečné látky alebo prípravky definované v príslušnej smernici Rady,<sup>1</sup>) najmä materiály a prístroje na chemické pokusy, montáž modelov, tvarovanie plastov alebo keramiky, smaltovanie, fotografické alebo podobné činnosti ako také, nesmú obsahovať látky alebo prípravky, ktoré sa môžu stať horľavými z dôvodu straty nehorľavých prchavých zložiek,
+  - b) hračky nesmú obsahovať do 31. mája 2015 látky alebo zmesi, ktoré sa môžu stať horľavými z dôvodu straty nehorľavých prchavých zložiek, ak z dôvodov podstatných pre ich fungovanie tieto hračky, najmä materiály a vybavenie na chemické pokusy, montáž modelov, tvarovanie plastov alebo keramiky, smaltovanie, fotografické alebo podobné činnosti, obsahujú látky alebo zmesi, ktoré sú vymedzené ako nebezpečné v osobitnom predpise,<sup>3</sup>) alebo látky spĺňajúce kritériá ustanovené v prílohe 1 bode 2.1 až 2.4, 2.6, 2.7, 2.8 typ A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1, 5.1 nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006<sup>4</sup>) (ďalej len „nariadenie (ES) č. 1272/2008),
 
-  - c) hračky nesmú byť výbušné ani nesmú obsahovať prvky alebo látky, ktoré môžu vybuchnúť, ak sa použijú tak, ako je uvedené v § 2 ods. 1; toto ustanovenie neplatí pre kapsle, na ktoré sa vzťahuje odkaz v prílohe č. 1 bode 10,
+  - c) hračky nesmú obsahovať od 1. júna 2015 látky alebo zmesi, ktoré sa môžu stať horľavými z dôvodu straty nehorľavých prchavých zložiek, ak z dôvodov podstatných pre ich fungovanie hračky, najmä materiály a vybavenie na chemické pokusy, montáž modelov, tvarovanie plastov alebo keramiky, smaltovanie, fotografické alebo podobné činnosti, obsahujú látky alebo zmesi spĺňajúce kritériá tried alebo kategórií nebezpečnosti ustanovených v prílohe 1 bode 2.1 až 2.4, 2.6, 2.7, 2.8 typ A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1, 5.1 nariadenia (ES) č. 1272/2008,<sup>4</sup>)
 
-  - d) hračky, a to najmä chemické hry a hračky, nesmú obsahovať látky alebo prípravky, ktoré, ak sa zmiešajú, vybuchnú
+  - d) hračky nesmú byť výbušné ani nesmú obsahovať prvky alebo látky, ktoré môžu vybuchnúť, ak sa použijú tak, ako je uvedené v § 2 ods. 1; toto ustanovenie neplatí pre kapsle, na ktoré sa vzťahuje odkaz v prílohe č. 1 bode 10,
+
+  - e) hračky, a to najmä chemické hry a hračky, nesmú obsahovať látky alebo zmesi, ktoré, ak sa zmiešajú, vybuchnú
 
   - 1. chemickou reakciou alebo teplom,
 
@@ -74,7 +76,7 @@ Príloha č. 2 k nariadeniu vlády č. 302/2004 Z. z.
 
   - 1. Hračky musia byť navrhnuté a skonštruované tak, aby pri používaní podľa § 2 ods. 1 nepredstavovali zdravotné nebezpečenstvá a riziká telesného zranenia požitím, vdýchnutím alebo dotykom s pokožkou, so sliznicami alebo s očami.
 
-- V každom prípade musia byť v zhode s príslušnými právnymi predpismi spoločenstva, ktoré sa vzťahujú na určité kategórie výrobkov alebo na zákaz, obmedzené použitie alebo označovanie určitých nebezpečných látok a prípravkov.
+- V každom prípade musia byť v zhode s príslušnými právnymi predpismi spoločenstva, ktoré sa vzťahujú na určité kategórie výrobkov alebo na zákaz, obmedzené použitie alebo označovanie určitých nebezpečných látok a zmesí.
 
   - 2. Najmä pre ochranu zdravia detí nesmie biologická prípustnosť vyplývajúca z používania hračiek ako objektu prekročiť tieto množstvá na deň:
 
@@ -96,9 +98,11 @@ Príloha č. 2 k nariadeniu vlády č. 302/2004 Z. z.
 
 - alebo také iné množstvá, ktoré môžu byť stanovené pre tieto alebo iné látky v zákonodarstve spoločenstva na základe vedeckých dôkazov. Biologickou prístupnosťou týchto látok sa rozumie rozpustný extrakt, ktorý má toxikologický význam.
 
-  - 3. Hračky nesmú obsahovať nebezpečné látky alebo prípravky v zmysle príslušných smerníc<sup>2</sup>) v množstvách, ktoré môžu poškodiť zdravie detí, ktoré ich používajú. V každom prípade je prísne zakázané dávať do hračiek nebezpečné látky alebo prípravky, ak je ich používanie súčasťou používania hračky.
+  - a) Hračky nesmú obsahovať do 31. mája 2015 zmesi, ktoré sú nebezpečné podľa osobitného predpisu,<sup>3</sup>) alebo látky spĺňajúce kritériá tried alebo kategórií nebezpečnosti ustanovených v prílohe 1 bode 2.1 až 2.4, 2.6, 2.7, 2.8 typ A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1, 5.1 nariadenia (ES) č. 1272/2008<sup>4</sup>) v množstvách, ktoré môžu poškodiť zdravie detí.
 
-- Avšak ak je obmedzený počet látok alebo prípravkov podstatný pre fungovanie niektorých hračiek, najmä materiálov a prístrojov na chemické pokusy, montážne modely, na tvarovanie plastov a keramiky, smaltovanie, fotografovanie a podobné činnosti, sú povolené do maximálnej hladiny koncentrácie, ktorá je definovaná pre každú látku a prípravok mandátom Európskeho výboru pre normalizáciu (CEN) podľa postupu výboru, ktorý je uvedený v príslušnej smernici,<sup>3</sup>) za podmienky, že povolené látky a prípravky dodržiavajú pravidlá spoločenstva pre klasifikáciu označovania bez toho, aby boli dotknuté ustanovenia v prílohe č. 4 bode 4.
+- Avšak ak je obmedzený počet látok alebo zmesí podstatný pre fungovanie niektorých hračiek, najmä materiálov a prístrojov na chemické pokusy, montážne modely, na tvarovanie plastov a keramiky, smaltovanie, fotografovanie a podobné činnosti, sú povolené do maximálnej hladiny koncentrácie, ktorá je definovaná pre každú látku a zmes mandátom Európskeho výboru pre normalizáciu (CEN) za podmienky, že povolené látky a zmesi dodržiavajú pravidlá spoločenstva pre klasifikáciu označovania bez toho, aby boli dotknuté ustanovenia v prílohe č. 4 bode 4.
+
+  - b) Hračky nesmú obsahovať od 1. júna 2015 látky alebo zmesi spĺňajúce kritériá tried alebo kategórií nebezpečnosti ustanovených v prílohe 1 bode 2.1 až 2.4, 2.6, 2.7, 2.8 typ A a B, 2.9, 2.10, 2.12, 2.13 kategórie 1 a 2, 2.14 kategórie 1 a 2, 2.15 typy A až F, 3.1 až 3.6, 3.7 nepriaznivé účinky na pohlavné funkcie a plodnosť alebo vývoj, 3.8 účinky iné ako narkotické, 3.9, 3.10, 4.1, 5.1 nariadenia (ES) č. 1272/2008<sup>4</sup>) v množstvách, ktoré môžu poškodiť zdravie detí. Ak je obmedzený počet látok alebo zmesí podstatný pre fungovanie niektorých hračiek, najmä materiálov a prístrojov na chemické pokusy, montážne modely, na tvarovanie plastov a keramiky, smaltovanie, fotografovanie a podobné činnosti, sú povolené do najvyššej hladiny koncentrácie, ktorá je definovaná pre každú látku a zmes mandátom Európskeho výboru pre normalizáciu (CEN) za podmienky, že povolené látky a zmesi dodržiavajú pravidlá spoločenstva pre klasifikáciu označovania bez toho, aby boli dotknuté ustanovenia v prílohe č. 4 bode 4.
 
   - 4. Elektrické vlastnosti
 
@@ -114,4 +118,4 @@ Príloha č. 2 k nariadeniu vlády č. 302/2004 Z. z.
 
   - 6. Rádioaktivita
 
-- Hračky nesmú obsahovať rádioaktívne prvky ani látky v podobách alebo pomeroch, ktoré môžu spôsobiť škodu na detskom zdraví. Tu platí príslušná smernica Rady.<sup>4</sup>)
+- Hračky nesmú obsahovať rádioaktívne prvky ani látky v podobách alebo pomeroch, ktoré môžu spôsobiť škodu na detskom zdraví.

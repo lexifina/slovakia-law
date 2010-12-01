@@ -2,13 +2,15 @@
 
 - 2) § 2 ods. 1 písm. f) zákona č. 264/1999 Z. z.
 
-- 1) Smernica Rady 67/548/EHS (OJ 196, 16. 8. 1967, s. 1/67).
+- 3) § 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 405/2008 Z. z.
 
-- 2) Smernica Rady 67/548/EHS a 88/379/EHS.
+- 4) Ú. v. EÚ L 353, 31. 12. 2008.
 
-- 3) Smernica Rady 83/189/EHS.
+- 5) Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008).
 
-- 4) Smernica Rady 80/836/Euratom (OJ L 246, 17. 9. 1980, s. 1).
+- 6) STN EN 71-1 +A9 Bezpečnosť hračiek. Časť 1: Mechanické a fyzikálne vlastnosti.
+
+- STN EN 71-2 +A1 Bezpečnosť hračiek. Časť 2: Horľavosť.
 
 - 1) STN EN 71-1 Bezpečnosť hračiek. Časť 1: Mechanické a fyzikálne vlastnosti.
 
