@@ -76,6 +76,24 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - 13. V prílohe č. 3 časti 1 referenčných číslach 26 až 43, 47 a 56 stĺpci f v druhej vete sa za slovo „obsahom“ vkladá slovo „zlúčenín“ a v poslednej vete sa slovo „fluór“ nahrádza slovom „fluorid“.
 
+- 20. V prílohe č. 3 sa časť 1 dopĺňa referenčnými číslami 208 a 209, ktoré znejú:
+
+- „
+
+- Ref. číslo | Látka | O b m e d z e n i a | | | Podmienky použitia a upozornenia, ktoré musia byť uvedené na obale kozmetického výrobku
+
+- | | Oblasť aplikácie/použitia | Najvyššia prípustná koncentrácia v kozmetickom výrobku v hmotnostných percentách | Ďalšie obmedzenia a požiadavky |
+
+- a | b | c | d | e | f
+
+- 208 | 1-(2-aminoetyl)amino- -4-(2-hydroxyetyl)oxy- -2-nitrobenzén a jeho soli 1-(beta-Aminoethyl) amino-4- -(beta-hydroxyethyl)oxy- -2-nitrobenzene <sup>o</sup> HC Orange č. 2 ** CAS 85765-48-6 EINECS 416-410-1 | Látka na farbenie vlasov v neoxidačných výrobkoch na farbenie vlasov | 1,0 % | Nepoužívať s nitrozačnými systémami. Najvyššie prípustné množstvo nitrozamínov 50 m/kg. Skladovať v nádobách neobsahujúcich dusitany. | ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie. Prečítajte si pokyny a dodržiavajte ich. Tento výrobok nie je určený pre osoby mladšie ako 16 rokov. Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie. Nefarbite si vlasy, ak: - máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy, - ste v minulosti zaznamenali reakciu po farbení vlasov, - ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- 209 | 2-[(2-metoxy)-4-nitro-fenyl)amino]etanol a jeho soli 2-[(2-methoxy-4-nitro-phenyl)amino]ethanol <sup>o</sup> 2-Hydroxyethylamino- -5-nitroanisole ** CAS 66095-81-6 EINECS 266-138-0 | Látka na farbenie vlasov v neoxidačných výrobkoch na farbenie vlasov | 0,2 % | Nepoužívať s nitrozačnými systémami. Najvyššie prípustné množstvo nitrozamínov 50 m/kg. Skladovať v nádobách neobsahujúcich dusitany. |
+
+- “.
+
+- 23. V prílohe č. 3 časti 2 sa vypúšťajú referenčné čísla 26 a 29.
+
 - 26. Príloha č. 17 sa dopĺňa bodmi 67 až 72, ktoré znejú:
 
 - „67. Smernica Komisie 2009/129/ES z 9. októbra 2009, ktorou sa mení a dopĺňa smernica Rady 76/768/EHS o kozmetických výrobkoch s cieľom prispôsobiť jej prílohu III technickému pokroku (Ú. v. EÚ L 267, 10. 10. 2009).
