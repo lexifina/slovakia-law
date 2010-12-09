@@ -1162,9 +1162,11 @@ K oznámeniu č. 129/2006 Z. z.
 
       - Rumunsko
 
-  - 1. súdy „Curtea de apel" pre listiny uvedené v článku 1 písm. a), c), d) dohovoru
+  - 1. Súdy pre listiny uvedené v článku 1 písm. a) a d) dohovoru
 
-  - 2. prefektúry pre listiny uvedené v článku 1 písm. b) dohovoru
+  - 2. Komora notárov pre listiny uvedené v článku 1 písm. c) dohovoru
+
+  - 3. Prefektúry pre listiny uvedené v článku 1 písm. b) dohovoru
 
     - Ruská federácia
 
