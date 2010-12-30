@@ -1,3 +1,3 @@
 Príloha č. 2 k zákonu č. 400/2009 Z. z.
 
-- MAJETKOVÉ PRIZNANIE [Vzor 01](../assets/9485a764767e436da847fee71e8ce50e4688e3355786bb01d1479b5cce942a04.pdf)
+- MAJETKOVÉ PRIZNANIE [Vzor 01](../assets/e889fed7576ae3dd53e254feee21bd3cc9ec6265a932b0ea24a41a5cae1b4a21.pdf)
