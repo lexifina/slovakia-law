@@ -1,7 +1,5 @@
 - 1) § 2 ods. 2 Obchodného zákonníka.
 
-- 2) § 16 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
 - 3) § 7 ods. 1 a 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov.
 
 - 4) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
