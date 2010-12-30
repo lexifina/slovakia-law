@@ -1,6 +1,6 @@
 # § 110j Prechodné ustanovenia k úpravám účinným od 1. januára 2010
 
-(1) Daňovému subjektu, ktorý používa elektronickú registračnú pokladnicu podľa osobitného predpisu,<sup>27</sup>) colný úrad na účely spotrebných daní<sup>1b</sup>) za porušenie ustanovení osobitného predpisu<sup>26</sup>) v období od 1. marca 2009 do 31. decembra 2010 uloží pokutu podľa zákona účinného k 28. februáru 2009.
+(1) Daňovému subjektu, ktorý používa elektronickú registračnú pokladnicu podľa osobitného predpisu,<sup>27</sup>) colný úrad na účely spotrebných daní<sup>1b</sup>) za porušenie ustanovení osobitného predpisu<sup>26</sup>) v období od 1. marca 2009 do 31. decembra 2011 uloží pokutu podľa zákona účinného k 28. februáru 2009.
 
 (2) Ustanovenie § 65b ods. 8 v znení účinnom od 1. januára 2010 sa použije aj na nevymožiteľný daňový nedoplatok, u ktorého do 31. decembra 2009 uplynulo viac ako päť rokov od konca roka, v ktorom vznikol; správca dane takýto daňový nedoplatok postúpi právnickej osobe so 100 % majetkovou účasťou štátu prvýkrát v júni 2010, najneskôr do 31. decembra 2010.
 

@@ -122,6 +122,8 @@
 
 - 8nb) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov, zákon č. 215/2004 Z. z. v znení neskorších predpisov.
 
+- 8nc) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 9) § 2 ods. 1 a 2 Obchodného zákonníka.
 
 - 9a) § 2 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
@@ -172,6 +174,8 @@
 
 - § 78a zákona č. 222/2004 Z. z. v znení zákona č. 215/2007 Z. z.
 
+- Zákon č. 582/2004 Z. z. v znení neskorších predpisov.
+
 - 11ah) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
 - 11ai) § 4 ods. 4 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
@@ -192,7 +196,7 @@
 
 - 11cb) § 8 ods. 1 zákona č. 289/2008 Z. z.
 
-- 11cc) § 8 ods. 1 a § 10 ods. 4 zákona č. 289/2008 Z. z.
+- 11cc) § 8 ods. 1 a 2 a § 10 ods. 4 zákona č. 289/2008 Z. z.
 
 - 11cca) § 2 písm. zc) zákona č. 289/2008 Z. z.
 

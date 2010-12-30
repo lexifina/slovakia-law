@@ -10,7 +10,7 @@
 
 - d) daňovému subjektu, ak daň alebo rozdiel dane vyrubený správcom dane alebo daň určená dohodou medzi daňovým subjektom a správcom dane, alebo daň určená správcom dane podľa pomôcok nebola zaplatená v lehote alebo vo výške určenej správcom dane v rozhodnutí,
 
-- e) daňovému subjektu, ak preddavok na daň nebol zaplatený v lehote alebo vo výške podľa osobitného zákona;<sup>11ag</sup>) pri preddavkoch na daň z príjmov sa sankčný úrok vyrubí do dňa platby vrátane, najdlhšie do uplynutia lehoty na podanie daňového priznania,
+- e) daňovému subjektu, ak preddavok na daň nebol zaplatený v lehote alebo vo výške podľa osobitného zákona;<sup>11ag</sup>) pri preddavkoch na daň sa sankčný úrok vyrubí do dňa platby vrátane, najdlhšie do uplynutia lehoty na podanie daňového priznania,
 
 - f) daňovému subjektu, ak daň alebo splátku dane nezaplatí v lehote alebo vo výške podľa osobitného zákona,<sup>8a</sup>) alebo v lehote alebo vo výške určenej správcom dane v rozhodnutí,
 

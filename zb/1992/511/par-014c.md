@@ -1,6 +1,6 @@
 # § 14c
 
-(1) Správca dane, ktorým je daňový úrad (§ 3 ods. 13), zabezpečí tovar zahraničnej osobe,<sup>9b</sup>) ktorá predáva tovar na trhovom mieste,<sup>9a</sup>) ak nepreukáže správcovi dane, ktorým je daňový úrad,
+(1) Správca dane, ktorým je daňový úrad alebo colný úrad (§ 3 ods. 13), môže zabezpečiť tovar podnikateľovi s trvalým pobytom alebo sídlom mimo územia Slovenskej republiky,<sup>4aa</sup>) ktorý predáva tovar a nemá na predajnom mieste pokladnicu podľa osobitného predpisu.<sup>4aa</sup>) Správca dane, ktorým je daňový úrad (§ 3 ods. 13), zabezpečí tovar zahraničnej osobe,<sup>9b</sup>) ktorá predáva tovar na trhovom mieste,<sup>9a</sup>) ak nepreukáže správcovi dane, ktorým je daňový úrad,
 
 - a) osvedčenie o registrácii pre daň podľa osobitného zákona,<sup>9b</sup>)
 
