@@ -1,6 +1,6 @@
 # § 173f Prechodné ustanovenia k úpravám účinným od 1. januára 2007
 
-(1) Ustanovenia § 74 ods. 1 až 10 sa do 31. decembra 2010 nevzťahujú na obchodníka s cennými papiermi, ktorý poskytuje investičné služby a investičné činnosti len vo vzťahu k opciám, futures, swapom a iným derivátovým nástrojom vzťahujúcim sa na komodity a k finančným rozdielovým zmluvám.
+(1) Ustanovenia § 74 ods. 1 až 10 sa do 31. decembra 2014 nevzťahujú na obchodníka s cennými papiermi, ktorý poskytuje investičné služby a investičné činnosti len vo vzťahu k opciám, futures, swapom a iným derivátovým nástrojom vzťahujúcim sa na komodity a k finančným rozdielovým zmluvám.
 
 (2) Obchodník s cennými papiermi, na ktorého sa nevzťahuje § 74 ods. 12 a ktorého celkové pozície v obchodnej knihe nepresahujú 50 miliónov eur a ktorého priemerný počet zamestnancov v priebehu finančného roku neprekročí 100, môže nahradiť do 31. decembra 2011 požiadavku na vlastné zdroje podľa § 74 ods. 5 písm. d) nižšou z týchto hodnôt:
 
@@ -16,7 +16,7 @@
 
 (4) Na uplatnenie výnimky podľa odseku 2 sa vyžaduje predchádzajúci súhlas Národnej banky Slovenska.
 
-(5) Obchodník s cennými papiermi, na ktorého sa vzťahuje možnosť prekročenia limitov majetkovej angažovanosti podľa § 74a, nemusí do výpočtu požiadaviek na vlastné zdroje podľa § 74 odseku 5 písm. b) do 31. decembra 2010 zohľadniť prekročenia týchto limitov, len ak sú splnené tieto podmienky:
+(5) Obchodník s cennými papiermi, na ktorého sa vzťahuje možnosť prekročenia limitov majetkovej angažovanosti podľa § 74a, nemusí do výpočtu požiadaviek na vlastné zdroje podľa § 74 odseku 5 písm. b) do 31. decembra 2014 zohľadniť prekročenia týchto limitov, len ak sú splnené tieto podmienky:
 
 - a) obchodník s cennými papiermi poskytuje investičné služby a investičné činnosti týkajúce sa opcií, futures, swapov a iných derivátových nástrojov vzťahujúcich sa na komodity a finančné rozdielové zmluvy,
 

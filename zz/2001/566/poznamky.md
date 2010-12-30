@@ -44,7 +44,7 @@
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
-- 21) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 21) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21a) § 85 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 

@@ -1,6 +1,6 @@
 Príloha k zákonu č. 566/2001 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 97/9/ES z 3. marca 1997 o systémoch náhrad pre investorov (Ú. v. ES L 84, 26. 3. 1997, Mimoriadne vydanie Ú. v. EÚ 6/zv. 2).
 
