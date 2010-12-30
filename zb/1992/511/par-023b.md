@@ -2,7 +2,7 @@
 
 (1) Správca dane, ktorým je daňový úrad a colný úrad, písomne oznamuje do konca februára bežného roka daňovému dlžníkovi, ktorý má daňový nedoplatok, u ktorého nebolo premlčané právo vybrať a vymáhať daňový nedoplatok (§ 69 ods. 1 a 2) a ktorého výška presiahla u fyzickej osoby 16 596,96 eura a u právnickej osoby 165 969,59 eura, výšku jeho daňového nedoplatku podľa stavu k 31. decembru predchádzajúceho roka v členení podľa jednotlivých druhov daní. V oznámení správca dane, ktorým je daňový úrad a colný úrad, určí daňovému subjektu lehotu na vyjadrenie, pričom táto lehota nesmie byť kratšia ako osem dní odo dňa doručenia oznámenia.
 
-(2) Daňové riaditeľstvo a colné riaditeľstvo na základe postupu podľa odseku 1 vypracujú zoznamy daňových dlžníkov na účely ich zverejnenia; v druhom polroku bežného roka zverejní daňové riaditeľstvo a colné riaditeľstvo príslušný zoznam daňových dlžníkov.
+(2) Daňové riaditeľstvo a colné riaditeľstvo na základe postupu podľa odseku 1 vypracujú zoznamy daňových dlžníkov na účely ich zverejnenia; v druhom polroku bežného roka zverejní daňové riaditeľstvo a colné riaditeľstvo aktuálny zoznam daňových dlžníkov podľa stavu k 31. decembru predchádzajúceho roka.
 
 (3) V zoznamoch, ktoré daňové riaditeľstvo a colné riaditeľstvo zverejňujú podľa odseku 2, sa uvedie
 
