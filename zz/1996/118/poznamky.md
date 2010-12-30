@@ -110,9 +110,9 @@
 
 - 11) § 53 až 62 zákona č. 483/2001 Z. z.
 
-- 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 11a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12a) § 2 ods. 2 zákona č. 492/2009 Z. z.
 
@@ -181,6 +181,10 @@
 - 18bc) § 11 ods. 1 až 3 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
 - 18c) § 2 ods. 1 Obchodného zákonníka.
+
+- 18d) Napríklad § 1 ods. 2 písm. b) zákona č. 283/2002 Z. z. o cestovných náhradách.
+
+- 18e) § 61 ods. 5 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 505/2010 Z. z.
 
 - 19) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
