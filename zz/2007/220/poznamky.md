@@ -82,6 +82,8 @@
 
 - 39) § 64 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
+- 39a) Napríklad zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
 - 40) § 68 ods. 6 zákona č. 308/2000 Z. z. v znení zákona č. 220/2007 Z. z.
 
 - 41) § 75 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
