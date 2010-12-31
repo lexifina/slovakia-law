@@ -4,7 +4,7 @@
 
 (2) Na tvorbu a použitie účtov sa vzťahuje osobitný predpis.<sup>12c</sup>)
 
-(3) O použití peňažných prostriedkov z účtov rozhoduje ministerstvo podľa podmienok ustanovených v rozhodnutí Európskej komisie, ak Európska komisia rozhodne v rámci prijatých opatrení podľa § 21a ods. 2 o čerpaní peňažných prostriedkov z účtov. Rozhodnutie ministerstva sa uverejňuje vo Vestníku ministerstva.
+(3) O použití peňažných prostriedkov z účtov rozhoduje ministerstvo podľa podmienok ustanovených v rozhodnutí Európskej komisie, ak Európska komisia rozhodne v rámci prijatých opatrení podľa § 21a ods. 2 o čerpaní peňažných prostriedkov z účtov. Rozhodnutie ministerstva sa uverejňuje vo Vestníku Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 
 (4) Ministerstvo raz ročne informuje o zostatku na účtoch Európsku komisiu.
 

@@ -6,7 +6,7 @@
 
 (3) Štátna plavebná správa uloží pokutu od 330 eur do 6 635 eur
 
-- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 a 23, § 26 až 28),
+- a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 a 23, § 24 ods. 8 a § 26 až 28),
 
 - b) dopravcovi, ak vykonával verejnú vodnú dopravu bez licencie (§ 7 ods. 5) alebo ak porušil povinnosti dopravcu stanovené v tomto zákone alebo povinnosti vyplývajúce z medzinárodných dohôd o vnútrozemskej plavbe, ktorými je Slovenská republika viazaná,
 
@@ -26,7 +26,11 @@
 
 - j) prevádzkovateľovi plavidla, ak porušil povinnosti týkajúce sa zápisu a zmeny údajov v registri plavidiel,
 
-- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky.
+- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky,
+
+- l) osobe poverenej vykonávaním kvalifikačného kurzu, ktorá porušila povinnosti pri vykonávaní kvalifikačného kurzu alebo vykonáva kvalifikačný kurz v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi,
+
+- m) osobe, ktorá vykonáva kvalifikačný kurz bez poverenia na vykonávanie kvalifikačného kurzu vydaného Štátnou plavebnou správou.
 
 (4) Štátna plavebná správa uloží pokutu od 165 eur do 1 660 eur
 

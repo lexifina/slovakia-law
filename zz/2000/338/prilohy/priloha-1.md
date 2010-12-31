@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 76/135/EHS z 20. januára 1976 o vzájomnom uznávaní plavebných licencií pre vnútrozemské plavidlá (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 21, 29. 1. 1976) v znení smernice Rady 78/1016/EHS z 23. novembra 1978 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 1; Ú. v. ES L 349, 13. 12. 1978).
 
@@ -20,6 +20,6 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
 
   - 9. Smernica Európskeho parlamentu a Rady 2006/87/ES z 12. decembra 2006, ktorou sa stanovujú technické požiadavky na plavidlá vnútrozemskej plavby a ktorou sa zrušuje smernica Rady 82/714/EHS (Ú. v. EÚ L 389, 30. 12. 2006) v znení smernice Európskeho parlamentu a Rady 2006/137/ES z 18. decembra 2006 (Ú. v. EÚ L 389, 30. 12. 2006), smernice Rady 2008/59/ES z 12. júna 2008 (Ú. v. EÚ L 166, 27. 6. 2008), smernice Rady 2008/87/ES z 22. septembra 2008 (Ú. v. EÚ L 255, 23. 9. 2008) a smernice Rady 2008/126/ES z 19. decembra 2008 (Ú. v. EÚ L 32, 31. 1. 2009).
 
-  - 10. Smernica Európskeho parlamentu a Rady 2008/68/ES z 24. septembra 2008 o vnútrozemskej preprave nebezpečného tovaru (Ú. v. EÚ L 260, 30. 9. 2008) v znení rozhodnutia Európskej komisie 2009/240/ES zo 4. marca 2009 (Ú. v. EÚ L 71, 17. 3. 2009).
+  - 10. Smernica Európskeho parlamentu a Rady 2008/68/ES z 24. septembra 2008 o vnútrozemskej preprave nebezpečného tovaru (Ú. v. EÚ L 260, 30. 9. 2008) v znení rozhodnutia Európskej komisie 2009/240/ES zo 4. marca 2009 (Ú. v. EÚ L 71, 17. 3. 2009) a smernice Komisie 2010/61/EÚ z 2. septembra 2010 (Ú. v. EÚ L 233, 3. 9. 2010).
 
   - 11. Smernica Európskeho parlamentu a Rady 2009/30/ES z 23. apríla 2009, ktorou sa mení a dopĺňa smernica 98/70/ES, pokiaľ ide o kvalitu automobilového benzínu, motorovej nafty a plynového oleja a zavedenie mechanizmu na monitorovanie a zníženie emisií skleníkových plynov, a ktorou sa mení a dopĺňa smernica 1999/32/ES, pokiaľ ide o kvalitu paliva využívaného v plavidlách vnútrozemskej vodnej dopravy, a zrušuje smernica 93/12/EHS (Ú. v. EÚ L 140, 5. 6. 2009).

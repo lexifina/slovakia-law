@@ -2,7 +2,7 @@
 
 (1) Plavebný inšpektor je na účely výkonu štátneho odborného dozoru oprávnený
 
-- a) vstupovať na plavidlá počas plavby alebo počas ich státia a do objektov a zariadení slúžiacich na plavbu; inšpektori Slovenskej inšpekcie životného prostredia za účasti plavebného inšpektora majú právo vstupovať na plavidlá počas plavby alebo počas ich státia a právo vstupovať do objektov a zariadení slúžiacich na plavbu len na účely kontroly ochrany vôd,<sup>24a</sup>)
+- a) vstupovať na plavidlá a výcvikové plavidlá počas plavby alebo počas ich státia, do objektov a zariadení slúžiacich na plavbu a do priestoru, v ktorom sa uskutočňuje kvalifikačný kurz a zúčastňovať sa priamo na kvalifikačnom kurze; inšpektori Slovenskej inšpekcie životného prostredia za účasti plavebného inšpektora majú právo vstupovať na plavidlá počas plavby alebo počas ich státia a právo vstupovať do objektov a zariadení slúžiacich na plavbu len na účely kontroly ochrany vôd,<sup>24a</sup>)
 
 - b) kontrolovať dodržiavanie tohto zákona, súvisiacich všeobecne záväzných právnych predpisov, rozhodnutí vydaných na jeho základe a medzinárodných zmlúv, ktorými je Slovenská republika viazaná,
 
@@ -14,27 +14,29 @@
 
 - f) nazerať do príslušných lodných listín a listín súvisiacich s plavbou a zadržať tieto listiny na účely vyhotovenia fotokópií,
 
-- g) odoberať potrebné vzorky,
+- g) nazerať do dokumentácie kvalifikačného kurzu, robiť si z nej výpisy, odpisy a zadržať túto dokumentáciu na účely vyhotovenia jej fotokópie,
 
-- h) zadržať plavidlo alebo iné veci na účely získania dôkazu,
+- h) vyzvať vodcu plavidla, člena posádky plavidla alebo školiteľa, aby sa podrobil dychovej skúške; ak bola dychová skúška pozitívna, aby sa podrobil lekárskemu vyšetreniu na zistenie, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, ktoré môžu znížiť jeho schopnosť bezpečne viesť plavidlo,
 
-- i) používať technické prostriedky na zhotovenie fotodokumentácie, videodokumentácie a zvukových záznamov potrebných na zdokumentovanie protiprávnych konaní,<sup>24d</sup>)
+- i) zadržať plavidlo alebo iné veci na účely získania dôkazu,
 
-- j) vyžadovať potrebnú súčinnosť,
+- j) používať technické prostriedky na zhotovenie fotodokumentácie, videodokumentácie a zvukových záznamov potrebných na zdokumentovanie protiprávnych konaní,<sup>24d</sup>)
 
-- k) vyzvať osobu, aby upustila od protiprávneho konania, ak je dôvodné podozrenie, že osoba pácha priestupok alebo iný správny delikt,
+- k) vyžadovať potrebnú súčinnosť,
 
-- l) zisťovať totožnosť osoby podozrivej zo spáchania priestupku alebo iného správneho deliktu podľa tohto zákona, a ak nemožno zistiť jej totožnosť, predviesť ju na útvar Policajného zboru na účely zistenia jej totožnosti,
+- l) vyzvať osobu, aby upustila od protiprávneho konania, ak je dôvodné podozrenie, že osoba pácha priestupok alebo iný správny delikt,
 
-- m) požadovať pomoc Policajného zboru alebo obecnej polície, ak nemôže splnenie svojich úloh zabezpečiť vlastnými silami a prostriedkami,
+- m) zisťovať totožnosť osoby podozrivej zo spáchania priestupku alebo iného správneho deliktu podľa tohto zákona, a ak nemožno zistiť jej totožnosť, predviesť ju na útvar Policajného zboru na účely zistenia jej totožnosti,
 
-- n) požiadať každého o pomoc v prípade bezprostredného ohrozenia života a zdravia alebo majetku; kto bol o túto pomoc požiadaný, nemusí ju poskytnúť, ak by tým vystavil vážnemu ohrozeniu seba alebo blízke osoby alebo ak tomu bránia iné dôležité okolnosti,
+- n) požadovať pomoc Policajného zboru alebo obecnej polície, ak nemôže splnenie svojich úloh zabezpečiť vlastnými silami a prostriedkami,
 
-- o) na účely zabránenia ohrozenia bezpečnosti vo vnútrozemskej plavbe uložiť iným osobám pokyny na vykonanie potrebných opatrení na zabránenie hroziacemu nebezpečenstvu, ak sú schopné ich vykonať svojimi silami a prostriedkami a nevystavia tým vážnemu ohrozeniu svoje zdravie alebo život, prípadne zdravie alebo život iných osôb,
+- o) požiadať každého o pomoc v prípade bezprostredného ohrozenia života a zdravia alebo majetku; kto bol o túto pomoc požiadaný, nemusí ju poskytnúť, ak by tým vystavil vážnemu ohrozeniu seba alebo blízke osoby alebo ak tomu bránia iné dôležité okolnosti,
 
-- p) ukladať pokuty za priestupky v blokovom konaní.
+- p) na účely zabránenia ohrozenia bezpečnosti vo vnútrozemskej plavbe uložiť iným osobám pokyny na vykonanie potrebných opatrení na zabránenie hroziacemu nebezpečenstvu, ak sú schopné ich vykonať svojimi silami a prostriedkami a nevystavia tým vážnemu ohrozeniu svoje zdravie alebo život, prípadne zdravie alebo život iných osôb,
 
-(2) Posádka plavidla, osoby nachádzajúce sa na plavidle alebo v prístavoch a ďalšie osoby sú povinné
+- q) ukladať pokuty za priestupky v blokovom konaní.
+
+(2) Posádka plavidla, osoby nachádzajúce sa na plavidle alebo v prístavoch osoba poverená vykonávaním kvalifikačného kurzu a ďalšie osoby sú povinné
 
 - a) preukázať plavebnému inšpektorovi svoju totožnosť,
 
@@ -50,8 +52,8 @@
 
 - g) zdržať sa konania, ktoré zakázal alebo obmedzil plavebný inšpektor,
 
-- h) umožniť plavebným inšpektorom vstup na plavidlo, do objektov a zariadení slúžiacich na plavbu,
+- h) umožniť plavebným inšpektorom vstup na plavidlo, výcvikové plavidlo, do priestoru, v ktorom sa uskutočňuje kvalifikačný kurz, do objektov a zariadení slúžiacich na plavbu,
 
-- i) umožniť nahliadnuť do plavebnej dokumentácie, poskytnúť potrebné dokumenty, informácie a vysvetlenia,
+- i) umožniť nahliadnuť do plavebnej dokumentácie a dokumentácie kvalifikačného kurzu, poskytnúť potrebné dokumenty, informácie a vysvetlenia,
 
 - j) vykonať pokyny uložené plavebným inšpektorom na účely zabránenia ohrozenia bezpečnosti vo vnútrozemskej plavbe, ak tým neohrozia svoj život alebo zdravie, prípadne život alebo zdravie iných osôb; škody alebo náklady, ktoré takým osobám v súvislosti s plnením pokynu plavebného inšpektora vznikli, znáša ten, kto hroziace nebezpečenstvo spôsobil.

@@ -1,6 +1,6 @@
 - 1) Nariadenie vlády Slovenskej republiky č. 180/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a o postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
 
-- 1a) § 32 zákona č. 138/1973 Zb. o vodách (vodný zákon).
+- 1a) § 48 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
 - 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
@@ -34,6 +34,10 @@
 
 - 3j) § 477 ods. 3 časti vety za čiarkou a § 478 Obchodného zákonníka.
 
+- 3ja) § 15 a § 66 až 71 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3jb) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+
 - 3k) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 3l) § 59 ods. 2 tretia veta, § 60 a § 483 ods. 3 Obchodného zákonníka.
@@ -47,6 +51,8 @@
 - 3p) § 68 až 75a a § 218 až 220a Obchodného zákonníka.
 
 - 3r) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 3s) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 196/2000 Z. z.
 
@@ -76,9 +82,19 @@
 
 - 12d) Čl. 4 nariadenia Rady (ES) č. 718/1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4.).
 
+- 12da) Nariadenie vlády Slovenskej republiky č. 193/2009 Z. z. o technickej spôsobilosti a prevádzkovej spôsobilosti plavidiel v znení nariadenia vlády Slovenskej republiky č. 416/2009 Z. z.
+
+- 12db) § 8a ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
+
+- 12dc) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 12dd) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 12e) Čl. 2 nariadenia Rady (EHS) č. 3921/91 zo dňa 16. decembra 1991, ktorým sa stanovujú podmienky, za ktorých môžu dopravcovia z iných štátov vykonávať prepravu tovaru alebo osôb vnútrozemskou vodnou dopravou v rámci členského štátu (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 001;Ú. v. ES L 373, 31. 12. 1991).
 
 - 12f) § 22 ods. 3 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+
+- 12g) § 37 ods. 5 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
@@ -110,13 +126,15 @@
 
 - 20) § 89 ods. 13 Trestného zákona.
 
-- 21a) § 7 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
-
 - 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 22) § 3 písm. c) zákona Slovenskej národnej rady č. 51/1988 Zb.
 
 - 23) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 23a) § 30 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
 
 - 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -127,8 +145,6 @@
 - 24c) Regionálna dohoda o rádiotelefónnej službe na vnútrozemských vodných cestách (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 7/2006 Z. z.), nariadenie Komisie (ES) č. 415/2007 z 13. marca 2007 týkajúce sa technických špecifikácií lokalizácie plavidiel a sledovania ich dráhy, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
 
 - 24d) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z. Trestný poriadok.
-
-- 24e) Výnos Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky z 15. októbra 2001 č. 1740/M-2001, ktorým sa vydávajú Pravidlá bezpečnosti prevádzky plavidla po vnútrozemských vodných cestách Slovenskej republiky (oznámenie č. 417/2001 Z. z.).
 
 - 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
