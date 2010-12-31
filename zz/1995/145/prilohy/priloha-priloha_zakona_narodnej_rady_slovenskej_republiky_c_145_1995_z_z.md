@@ -2030,13 +2030,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1.1. bez vlastného strojného pohonu | 33 eur
 
-  - 1.2. s vlastným strojným pohonom | 53 eur
+  - 1.2. s vlastným strojným pohonom | 69,50 eura
 
   - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
 
   - 2.1. bez vlastného strojného pohonu | 66 eur
 
-  - 2.2. s vlastným strojným pohonom | 99,50 eura
+  - 2.2. s vlastným strojným pohonom | 116 eur
 
   - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
 
@@ -2050,13 +2050,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1.1. bez vlastného strojného pohonu | 16,50 eura
 
-  - 1.2. s vlastným strojným pohonom | 26,50 eura
+  - 1.2. s vlastným strojným pohonom | 43 eur
 
   - 2. pre malé plavidlá s dĺžkou väčšou ako 7 m |
 
   - 2.1. bez vlastného strojného pohonu | 33 eur
 
-  - 2.2. s vlastným strojným pohonom | 49,50 eura
+  - 2.2. s vlastným strojným pohonom | 66 eur
 
   - 3. pre plavidlá, ktoré nie sú malými plavidlami, |
 
@@ -2078,7 +2078,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2.2 s vlastným strojným pohonom | 49,50 eura
 
-  - d) Vydanie alebo rozšírenie medzinárodného osvedčenia pre malé plavidlá alebo vystavenie jeho duplikátu | 16,50 eura
+  - d) Vydanie doplnkového lodného osvedčenia | 65 eur
 
   - e) Vydanie dočasného lodného osvedčenia | 65 eur
 
@@ -2146,19 +2146,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) Povolenie výnimky z predpisov v oblasti vnútrozemskej plavby | 16,50 eura
 
-  - j) Udelenie dopravnej licencie |
+  - j) Vydanie poverenia na vykonávanie kvalifikačného kurzu |
+
+  - 1. vodcu malého plavidla kategórie A | 80 eur
+
+  - 2. vodcu malého plavidla kategórie B | 80 eur
+
+  - 3. vodcu malého plavidla kategórie C | 80 eur
+
+  - 4. vodcu malého plavidla kategórie D | 80 eur
+
+  - k) Vykonanie zmeny učebných osnov kvalifikačného kurzu vodcu malého plavidla | 40 eur
+
+  - l) Vykonanie zmeny školiteľov kvalifikačného kurzu vodcu malého plavidla | 40 eur
+
+  - m) Udelenie dopravnej licencie |
 
   - 1. na medzinárodnú verejnú vodnú dopravu, za každý aj začatý rok | 165,50 eura
 
   - 2. na vnútroštátnu verejnú vodnú dopravu, za každý aj začatý rok | 99,50 eura
 
-  - k) Udelenie dopravnej licencie na dobu neurčitú | 995,50 eura
+  - n) Udelenie dopravnej licencie na dobu neurčitú | 995,50 eura
 
-  - l) Vykonanie zmeny v dopravnej licencii udelenej podľa písmen l) a m) tejto položky | 33 eur
+  - o) Vykonanie zmeny v dopravnej licencii udelenej podľa písmen l) a m) tejto položky | 33 eur
 
-  - m) Vydanie ďalšieho originálu dopravnej licencie | 66 eur
+  - p) Vydanie ďalšieho originálu dopravnej licencie | 66 eur
 
-  - n) Vydanie duplikátu dopravnej licencie | 66 eur
+  - q) Vydanie duplikátu dopravnej licencie | 66 eur
 
     - Položka 96
 
