@@ -12,4 +12,4 @@ Príloha č. 2 k zákonu č. 168/1996 Z. z. v znení zákona č. 43/2007 Z. z.
 
   - 5. Smernica Rady č. 95/50/ES zo 6. októbra 1995 o jednotných postupoch kontroly cestnej prepravy nebezpečných vecí (Ú. v. ES L 249, 17. 10. 1995) v znení smernice Európskeho parlamentu a Rady 2001/26/ES zo 7. mája 2001 (Ú. v. ES L 168, 23. 6. 2001).
 
-  - 6. Smernica Európskeho parlamentu a Rady 2008/68/ES z 24. septembra 2008 o vnútrozemskej preprave nebezpečného tovaru (Ú. v. EÚ L 260, 30. 9. 2008) v znení rozhodnutia Komisie 2009/240/ES ( Ú. v. EÚ L 71, 17. 3. 2009 ).
+  - 6. Smernica Európskeho parlamentu a Rady 2008/68/ES z 24. septembra 2008 o vnútrozemskej preprave nebezpečného tovaru (Ú. v. EÚ L 260, 30. 9. 2008) v znení rozhodnutia Komisie 2009/240/ES ( Ú. v. EÚ L 71, 17. 3. 2009 ) a smernice Komisie 2010/61/EÚ z 2. septembra 2010 (Ú. v. EÚ L 233, 3. 9. 2010).
