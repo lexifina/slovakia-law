@@ -38,7 +38,7 @@
 
 - 17) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 18) § 23 ods. 2 zákona č. 16/2004 Z. z. o Slovenskej televízii.
+- 18) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov.
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
@@ -59,14 +59,6 @@
 - 26) Napríklad § 72 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27) § 3 písm. f) zákona č. 308/2000 Z. z.
-
-- 28) Zákon č. 16/2004 Z. z. v znení neskorších predpisov.
-
-- 29) § 5 ods. 1 písm. l) zákona č. 16/2004 Z. z.
-
-- 30) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
-
-- 31) § 5 ods. 1 písm. n) a o) zákona č. 619/2003 Z. z.
 
 - 32) § 747 až 753 Občianskeho zákonníka.
 
