@@ -44,6 +44,20 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - 11. V § 6 sa vypúšťajú písmená o) a p).
 
+- 12. Doterajší text § 6 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2) Ministerstvo hospodárstva Slovenskej republiky určuje kritériá pre výber zamestnancov<sup>1aa</sup>) obchodno-ekonomických oddelení<sup>1ab</sup>).“.
+
+- Poznámky pod čiarou k odkazom 1aa a 1ab znejú:
+
+- „1aa)
+
+- § 4 ods. 2 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
+
+- 1ab)
+
+- § 7 ods. 4 zákona č. 151/2010 Z. z. v znení zákona č. 403/2010 Z. z.“.
+
 - 13. Nadpis pod § 8 znie:
 
 - „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“.
@@ -70,11 +84,17 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - 16. § 8 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
 
-- „(4) Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky koordinuje prípravu politík regionálneho rozvoja.“.
+- „(3) Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky koordinuje využívanie finančných prostriedkov z fondov Európskej únie.
+
+- (4) Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky koordinuje prípravu politík regionálneho rozvoja.“.
 
 - 17. V § 11 sa vypúšťajú písmená e) a f).
 
 - 18. V § 12 ods. 1 sa vypúšťa písmeno i).
+
+- 19. V § 14 ods. 2 písmeno b) znie:
+
+- „b) riadenie zastupiteľských úradov Slovenskej republiky vrátane riadenia obchodno-ekonomických oddelení<sup>1ab</sup>).“.
 
 - 20. V § 14 ods. 2 písm. e) sa slovo „a“ za slovom „vyhlasovania“ nahrádza čiarkou a za slovo „vykonávania“ sa vkladajú slová „a vypovedávania“.
 
@@ -116,7 +136,15 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - 34. Za § 40i sa vkladajú § 40j až 40s, ktoré znejú:
 
-- „§ 40k
+- „§ 40j
+
+- (1) Pôsobnosť Ministerstva hospodárstva Slovenskej republiky v oblasti zahraničného obchodu v časti riadenia obchodno-ekonomických oddelení podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo zahraničných vecí Slovenskej republiky.
+
+- (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo zahraničných vecí Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
+
+- (3) V súvislosti s prechodom kompetencie v oblasti podľa odseku 1 prechádzajú od 1. januára 2011 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a z iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva hospodárstva Slovenskej republiky na Ministerstvo zahraničných vecí Slovenskej republiky. Majetok štátu, ktorý bol do 31. decembra 2010 v správe Ministerstva hospodárstva Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. januára 2011 do správy Ministerstva zahraničných vecí Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom hospodárstva Slovenskej republiky a Ministerstvom zahraničných vecí Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
+- § 40k
 
 - (1) Pôsobnosť Ministerstva hospodárstva a výstavby Slovenskej republiky v oblasti stavebnej výroby a stavebných výrobkov, tvorby a uskutočňovania bytovej politiky a poskytovania štátnej prémie k stavebnému sporeniu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 
@@ -162,6 +190,14 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - (3) V súvislosti s prechodom kompetencie v oblasti podľa odseku 1 prechádzajú od 1. novembra 2010 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a z iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Úradu vlády Slovenskej republiky na Ministerstvo zahraničných vecí Slovenskej republiky. Majetok štátu, ktorý bol do 31. októbra 2010 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. novembra 2010 do správy Ministerstva zahraničných vecí Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Ministerstvom zahraničných vecí Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
 
+- § 40q
+
+- (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti koordinácie využívania finančných prostriedkov z fondov Európskej únie podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
+
+- (2) Ak sa v doterajších právnych predpisoch používa pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
+
+- (3) V súvislosti s prechodom kompetencie v oblasti podľa odseku 1 prechádzajú od 1. januára 2011 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a z iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Úradu vlády Slovenskej republiky na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky. Majetok štátu, ktorý bol do 31. decembra 2010 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza od 1. januára 2011 do správy Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Ministerstvom dopravy, výstavby a regionálneho rozvoja Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
 - § 40r
 
 - (1) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva a výstavby Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo hospodárstva Slovenskej republiky“ v príslušnom gramatickom tvare.
@@ -172,4 +208,6 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - § 40s
 
-- (1) V súvislosti s prechodom kompetencií v oblasti podľa § 40k ods. 1, § 40l ods. 1, § 40n ods. 1, § 40o ods. 1 a § 40p ods. 1 medzi ústrednými orgánmi štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.<sup>6</sup>) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.“.
+- (1) V súvislosti s prechodom kompetencií v oblasti podľa § 40k ods. 1, § 40l ods. 1, § 40n ods. 1, § 40o ods. 1 a § 40p ods. 1 medzi ústrednými orgánmi štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.<sup>6</sup>) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.
+
+- (2) V súvislosti s prechodom kompetencií v oblasti podľa § 40j ods. 1 a § 40q ods. 1 medzi ústrednými orgánmi štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.<sup>6</sup>) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.“.
