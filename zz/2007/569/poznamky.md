@@ -64,6 +64,10 @@
 
 - 27) § 36 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 27a) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27b) § 66a ods. 2 Obchodného zákonníka.
+
 - 28) § 24 ods. 2 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
 - 29) § 2 písm. p) zákona č. 326/2005 Z. z.
