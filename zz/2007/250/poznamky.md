@@ -130,6 +130,10 @@
 
 - 25c) § 5 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 25d) Napríklad nariadenie Komisie (ES) č. 1275/2008 zo 17. decembra 2008, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2005/32/ES, pokiaľ ide o požiadavky na ekodizajn elektrických a elektronických zariadení v domácnosti a kancelárskych zariadení v súvislosti so spotrebou elektrickej energie v stave pohotovosti a vo vypnutom stave (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení.
+
+- 25e) § 21 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+
 - 26) Napríklad zákon č. 108/2000 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 147/2001 Z. z. v znení neskorších predpisov, zákon č. 18/1996 Z. z. v znení neskorších predpisov, zákon č. 90/1998 Z. z. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 1107/2006.
 
 - 27) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
