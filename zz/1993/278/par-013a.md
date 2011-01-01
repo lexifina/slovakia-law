@@ -18,9 +18,9 @@
 
 (5) Správca, ktorým je ústredný orgán štátnej správy Slovenskej republiky,<sup>23a</sup>) môže
 
-- a) so súhlasom ministerstva financií použiť majetok vo vlastníctve štátu v hodnote neprevyšujúcej 1 000 000 Sk ako vklad do základného imania právnickej osoby alebo ako vklad pri založení právnickej osoby,<sup>23ab</sup>) ktorej jediným zakladateľom je štát,
+- a) so súhlasom ministerstva financií použiť majetok vo vlastníctve štátu v hodnote neprevyšujúcej 25 000 eur ako vklad do základného imania právnickej osoby alebo ako vklad pri založení právnickej osoby,<sup>23ab</sup>) ktorej jediným zakladateľom je štát,
 
-- b) so súhlasom vlády Slovenskej republiky a s predchádzajúcim súhlasom ministerstva financií použiť majetok vo vlastníctve štátu v hodnote prevyšujúcej 1 000 000 Sk ako vklad do základného imania právnickej osoby alebo ako vklad pri založení právnickej osoby,<sup>23ab</sup>) ktorej jediným zakladateľom je štát.
+- b) so súhlasom vlády Slovenskej republiky a s predchádzajúcim súhlasom ministerstva financií použiť majetok vo vlastníctve štátu v hodnote prevyšujúcej 25 000 eur ako vklad do základného imania právnickej osoby alebo ako vklad pri založení právnickej osoby,<sup>23ab</sup>) ktorej jediným zakladateľom je štát.
 
 (6) Správca nemôže poskytnúť hnuteľné veci a nehnuteľné veci vo vlastníctve štátu na účely združenia podľa osobitného predpisu.<sup>23b</sup>)
 
