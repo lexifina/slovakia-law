@@ -6,8 +6,6 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
-- 2a) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 3) Napríklad zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov, zákon č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 - 1945 v znení neskorších predpisov, zákon č. 462/2002 Z. z. o poskytnutí jednorazového príspevku politickým väzňom v znení zákona č. 665/2002 Z. z.
 
 - 4) Napríklad § 628 až 630 Občianskeho zákonníka.
@@ -38,7 +36,7 @@
 
 - 15a) § 53 Zákonníka práce.
 
-- 16) Napríklad § 18 až 33 zákona č. 283/2002 Z. z.
+- 16) § 18 až 33a zákona č. 283/2002 Z. z. v znení neskorších predpisov.
 
 - 17) Napríklad zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
@@ -54,19 +52,9 @@
 
 - 23) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
-- 23a) § 27 písm. a), d) a e) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
-
 - 23aa) § 72 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 543/2005 Z. z. o Spravovacom a kancelárskom poriadku pre okresné súdy, krajské súdy, Špeciálny súd a vojenské súdy v znení neskorších predpisov.
 
 - 23ab) § 134 ods. 9 Zákonníka práce v znení zákona č. 348/2007 Z. z.
-
-- 23b) § 39a ods. 1 písm. d) a ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
-
-- § 1 ods. 1 a 4 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 31/2006 Z. z. o výške úhrady zdravotníckeho pracovníka za ďalšie vzdelávanie.
-
-- 23c) § 40, § 101 ods. 1 a § 101a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
-
-- 23d) § 39a ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 24) § 12a zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
@@ -78,7 +66,7 @@
 
 - 27) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
-- 28) Napríklad § 58 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 28) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -89,8 +77,6 @@
 - 31) § 82 Obchodného zákonníka.
 
 - 32) § 100 Obchodného zákonníka.
-
-- 33) Príloha č. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 34) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -104,7 +90,7 @@
 
 - 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
-- 39) Napríklad zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov, zákon č. 452/2004 Z. z. o náhradnom výživnom.
+- 39) Napríklad zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 554/2008 Z. z.
 
 - 39a) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
@@ -116,11 +102,13 @@
 
 - 41) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
-- 42) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+- 42) Zákon č. 447/2008 Z. z.
 
-- 43) Napríklad zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z.z., zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony, zákon č. 236/1998 Z. z. o zaopatrovacom príspevku, zákon č. 238/1998 Z. z. o príspevku na pohreb, zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+- Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 44) Napríklad zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
+- 43) Napríklad zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení neskorších predpisov, zákon č. 238/1998 Z. z. o príspevku na pohreb v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov, zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
+
+- 44) Napríklad zákon č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45) Napríklad zákon č. 385/2000 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z., zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
@@ -133,6 +121,8 @@
 - 50) § 50 zákona č. 314/2001 Z. z. o ochrane pred požiarmi.
 
 - § 30 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva.
+
+- 50a) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 51) Napríklad vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej republiky č. 326/1990 Zb. o poskytovaní štipendií študentom vysokých škôl v znení neskorších predpisov.
 
@@ -166,6 +156,14 @@
 
 - 59d) § 29 ods. 11 písm. a) druhý a tretí bod zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 59e) § 38a, 39, 39c a 41 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 59f) § 2 písm. g) zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
+
+- 59g) Príloha č. 1 tabuľka A zákona č. 572/2004 Z. z.
+
+- 59h) § 9 ods. 8 zákona č. 572/2004 Z. z. v znení zákona č. 117/2007 Z. z.
+
 - 60) § 149 až 151 Občianskeho zákonníka.
 
 - 61) § 137 až 142 Občianskeho zákonníka.
@@ -197,6 +195,8 @@
 - 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
 - 74aa) § 15 ods. 6 zákona č. 581/2004 Z. z. v znení zákona č. 530/2007 Z. z.
+
+- 74b) § 55 ods. 2 zákona č. 594/2003 Z. z. v znení zákona č. 635/2004 Z. z.
 
 - 75) § 68 Obchodného zákonníka.
 
@@ -252,6 +252,8 @@
 
 - 87) Zákon č. 283/2002 Z. z.
 
+- 87a) § 14 zákona č. 283/2002 Z. z.
+
 - 88) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 385/1999 Z. z. v znení neskorších predpisov.
@@ -265,6 +267,10 @@
 - Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach.
 
 - Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 90a) § 2 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady.
+
+- 90b) § 55f zákona č. 222/2004 Z. z. v znení zákona č. 471/2009 Z. z.
 
 - 91) § 642 až 651 Obchodného zákonníka.
 
@@ -298,7 +304,7 @@
 
 - 101a) § 14 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
-- 102) Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
+- 102) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
 - 102a) § 17 ods. 7 a § 19 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
@@ -334,8 +340,6 @@
 
 - Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
-- 110) Napríklad zákon č. 527/1990 Zb. v znení neskorších predpisov, zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov, zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z., zákon č. 469/2003 Z. z. o označeniach pôvodu výrobkov a zemepisných označeniach výrobkov a o zmene a doplnení niektorých zákonov, zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov, zákon č. 444/2002 Z. z. o dizajnoch.
-
 - 111) Zákon č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
 
 - 111a) § 83 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
@@ -354,7 +358,7 @@
 
 - 117) § 833 Občianskeho zákonníka.
 
-- 118) § 25 ods. 5 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+- 118) § 25 ods. 6 zákona č. 431/2002 Z. z. v znení zákona č. 504/2009 Z. z.
 
 - 119) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
@@ -379,6 +383,8 @@
 - 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
 
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
+
+- 122aa) § 35 Zákonníka práce.
 
 - 122b) § 50a zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 139/2008 Z. z.
 
@@ -409,6 +415,8 @@
 - 133a) § 16 ods. 4 a § 17 ods. 6 zákona č. 431/2002 Z. z.
 
 - 134) § 3 ods. 6 a 7 zákona č. 431/2002 Z. z.
+
+- 134a) § 47 ods. 1 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z.
 
 - 135) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
@@ -445,6 +453,12 @@
 - 146a) § 35 a 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 146aa) Zákon č. 147/2001 Z. z. v znení neskorších predpisov.
+
+- 146ab) § 14 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 146ac) § 13 ods. 1 písm. b) zákona č. 572/2004 Z. z. v znení zákona č. 117/2007 Z. z.
+
+- 146ad) § 12 ods. 1 zákona č. 572/2004 Z. z.
 
 - 147) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 

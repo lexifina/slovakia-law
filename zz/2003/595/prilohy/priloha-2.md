@@ -1,10 +1,10 @@
 Príloha č. 2 k zákonu č. 595/2003 Z. z.
 
-- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
-  - 1. Smernica Rady 69/335/EHS zo 17. júla 1969 o nepriamych daniach z tvorby a navyšovania základného imania (Ú. v. ES L 249, 03. 10. 1969) v znení smernice Rady 74/553/EHS zo 7. novembra 1974 (Ú. v. ES L 303, 13. 11. 1974), smernice Rady 85/303/EHS z 10. júna 1985 (Ú. v. ES L 156, 15. 06. 1985) v znení smernice Rady 2006/98/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20.12. 2006).
+  - 1. Smernica Rady 2008/7/ES z 12. februára 2008 o nepriamych daniach z navyšovania kapitálu (Ú. v. EÚ L 46, 21. 2. 2008).
 
-  - 2. Smernica Rady 90/434/EHS z 23. júla 1990 o spoločnom systéme zdaňovania obchodných spoločností rôznych členských štátov pri zlučovaní, rozdeľovaní a prevode aktív a výmene akcií týkajúcich sa spoločností rôznych členských štátov (Ú. v. ES L 225, 20. 08. 1990) v znení smernice Rady 2005/19/ES zo 17. februára 2005 (Ú. v. ES L 058, 4. 3. 2005) v znení smernice Rady 2006/98/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20.12. 2006).
+  - 2. Smernica Rady 2009/133/ES z 19. októbra 2009 o spoločnom systéme zdaňovania, uplatniteľnom pri zlučovaní, rozdeľovaní, čiastočnom rozdeľovaní, prevode aktív a výmene akcií spoločností rôznych členských štátov a pri premiestnení sídla SE alebo SCE medzi členskými štátmi (kodifikované znenie) (Ú. v. EÚ L 310, 25. 11. 2009).
 
   - 3. Smernica Rady 90/435/EHS z 23. júla 1990 o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. ES L 225, 20. 08. 1990) v znení smernice Rady 2003/123/ES z 22. decembra 2003 (Ú. v. EÚ L 007, 13. 01. 2004) v znení smernice Rady 2006/98/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20.12. 2006).
 

@@ -8,13 +8,13 @@
 
   - 2. poberal posudzované príjmy aspoň šesť kalendárnych mesiacov,
 
-  - 3. neuplatnil postup podľa § 43 ods. 7 pri príjmoch, z ktorých sa daň vyberá zrážkou podľa § 43, okrem príjmov uvedených v § 43 ods. 3 písm. j),
+  - 3. neuplatnil postup podľa § 43 ods. 7 pri príjmoch, z ktorých sa daň vyberá zrážkou podľa § 43,
 
   - 4. nepoberal príjmy uvedené v § 3 ods. 2 písm. c) a d), § 5 ods. 1 písm. b) až e), g) a h), § 5 ods. 3 a § 5 ods. 7 písm. i),
 
   - 5. nepoberal iné zdaniteľné príjmy (§ 6 až 8) okrem príjmov uvedených v treťom bode,
 
-  - 6. nie je na začiatku príslušného zdaňovacieho obdobia poberateľom dôchodku (§ 11 ods. 7) alebo dôchodok nebol tomuto daňovníkovi priznaný spätne k začiatku príslušného zdaňovacieho obdobia a
+  - 6. nie je na začiatku príslušného zdaňovacieho obdobia poberateľom dôchodku (§ 11 ods. 6) alebo dôchodok nebol tomuto daňovníkovi priznaný spätne k začiatku príslušného zdaňovacieho obdobia a
 
   - 7. suma vypočítaná podľa odseku 3 je kladné číslo,
 

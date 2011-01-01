@@ -32,7 +32,15 @@
 
 - b) zahrnuje len rozdiel medzi sumou prevzatej rezervy a výškou skutočnej úhrady záväzku v zdaňovanom období, v ktorom došlo k úhrade záväzku, ku ktorému bola tvorená táto rezerva, ak náklad vzťahujúci sa k tomuto záväzku by bol daňovým výdavkom, pričom zrušenie rezervy nadobudnutej pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev sa zahrnuje do základu dane podľa osobitného predpisu;<sup>1</sup>) na ďalšiu tvorbu rezerv u tohto daňovníka sa vzťahujú ustanovenia § 17 ods. 23 alebo § 20 o tvorbe, použití alebo zrušení rezerv,
 
-- c) nezahrnuje goodwill alebo záporný goodwill.
+- c) zahrnuje goodwill alebo záporný goodwill upravený podľa osobitného predpisu,<sup>1</sup>) až do jeho úplného zahrnutia, najdlhšie počas siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, najmenej vo výške jednej sedminy ročne, počnúc zdaňovacím obdobím, v ktorom nastal rozhodný deň;<sup>77c</sup>) ak počas tohto obdobia
+
+  - 1. sa daňovník zrušuje s likvidáciou, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
+
+  - 2. sa daňovník zrušuje bez likvidácie, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu rozhodnému dňu,<sup>80b</sup>)
+
+  - 3. je na daňovníka vyhlásený konkurz, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu účinnosti vyhlásenia konkurzu<sup>80b</sup>) alebo
+
+  - 4. dôjde k predaju podniku, najneskôr ku dňu nadobudnutia účinnosti zmluvy o predaji podniku<sup>30</sup>) alebo dôjde k nepeňažnému vkladu podniku, najneskôr ku dňu splatenia nepeňažného vkladu.<sup>80c</sup>)
 
 (4) Právny nástupca daňovníka zrušeného bez likvidácie zahrnuje do základu dane daňový výdavok podľa § 19
 

@@ -14,7 +14,7 @@
 
 - b) náklad, ku ktorému bola tvorená rezerva podľa osobitného predpisu,<sup>1</sup>) ktorej tvorba nie je súčasťou základu dane podľa § 20, zahrnuje do základu dane v tom zdaňovacom období, v ktorom dôjde k použitiu rezervy u právneho nástupcu daňovníka zrušeného bez likvidácie podľa § 17 ods. 23; obdobne sa postupuje aj pri opravnej položke,
 
-- c) nezahrnuje goodwill alebo záporný goodwill.
+- c) nezahrnuje goodwill alebo záporný goodwill vykázaný v otváracej súvahe právneho nástupcu neupravený podľa osobitného predpisu.<sup>1</sup>)
 
 (3) Právny nástupca daňovníka zrušeného bez likvidácie prevezme pohľadávku v menovitej hodnote alebo obstarávacej cene zistenej u daňovníka zrušeného bez likvidácie, dátum splatnosti pohľadávky, vytvorenú opravnú položku podľa § 20 a pokračuje v tvorbe tejto opravnej položky podľa § 20.
 
