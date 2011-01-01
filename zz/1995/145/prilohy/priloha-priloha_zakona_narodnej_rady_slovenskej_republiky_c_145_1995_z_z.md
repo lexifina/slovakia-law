@@ -2390,13 +2390,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 7. hazardné hry v kasíne ..... | 33 193,50 eura |
 
-  - 8. hazardné hry v kasíne v rekreačnom komplexe ..... | 100 000 eur |
+  - 8. bingo vrátane špeciálneho binga ..... | 3 319 eur |
 
-  - 9. bingo vrátane špeciálneho binga ..... | 3 319 eur |
+  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ..... | 3 319 eur |
 
-  - 10. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ..... | 3 319 eur |
-
-  - 11. hazardné hry neuvedené v prvom bode až desiatom bode ..... | 3 319 eur |
+  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 3 319 eur |
 
   - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartových hier pokrového typu prevádzkovaných mimo kasína, pri ktorých hráči hrajú jeden proti druhému, ..... | 35 eur |
 
@@ -2404,7 +2402,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. hazardných hrách uvedených v písmene a) prvom až piatom bode ..... | 100 eur |
 
-  - 2. hazardných hrách uvedených v písmene a) šiestom až jedenástom bode ..... | 300 eur |
+  - 2. hazardných hrách uvedených v písmene a) šiestom až desiatom bode ..... | 300 eur |
 
   - d) vydanie identifikačnej karty výherného prístroja ..... | 16,50 eura |
 
