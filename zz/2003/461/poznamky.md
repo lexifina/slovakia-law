@@ -16,49 +16,25 @@
 
 - 3) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
-- 4) § 11 Zákonníka práce.
+- 4) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. ES L 166, 30. 4. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
-- 5) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 5) § 5 ods. 1 písm. a) až h), ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 6) Napríklad zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+- 6) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 7) § 226 ods. 2 Obchodného zákonníka.
+- 7) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 8) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
+- 8) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 9) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení zákona č. 411/2002 Z. z.
-
-- 10) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
-
-- 11) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- 13) § 29 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 450/2000 Z. z.
-
-- 14) Zákon Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení zákona č. 451/2002 Z. z.
-
-- 15) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
-
-- 16) § 29a ods. 1 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
-
-- 16a) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
-
-- 17) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
-
-- 18) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
-
-- 19) Napríklad zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1999 Z. z., zákon Slovenskej národnej rady č. 129/1991 Zb. o komerčných právnikoch v znení neskorších predpisov.
-
-- 21) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov a zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
-
-- 22) § 76 až 104 Obchodného zákonníka.
-
-- 23) § 652 až 672a Obchodného zákonníka.
+- § 67 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
 - 23a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 24) § 17 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25) § 34 zákona č. 48/2002 Z. z.
+
+- 25a) § 5 ods. 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 26) § 194 zákona č. 311/2001 Z. z.
 
@@ -78,23 +54,43 @@
 
 - 33) § 69 ods. 2 zákona č. 131/2002 Z. z.
 
-- 34) § 7 ods. 1 až 3, 5 a 6 zákona č. 366/1999 Z. z. o daniach z príjmov v znení neskorších predpisov.
-
 - 35) § 19 ods. 1 písm. n) a § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 35a) § 20 zákona č. 447/2008 Z. z.
 
 - 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
-- 38) Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 38) Zákonník práce.
 
-- 39) Zákon č. 154/2001 Z. z. v znení zákona č. 669/2002 Z. z.
+- 39) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
+
+- 39a) § 226 ods. 2 Obchodného zákonníka.
+
+- 39b) Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+
+- 39c) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
+
+- Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
+
+- Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- 39d) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
+
+- Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
 - 41a) § 2 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
-- 42) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 154/2001 Z. z. v znení neskorších predpisov, zákon č. 315/2001 Z. z. v znení neskorších predpisov.
+- 42) Napríklad zákon č. 154/2001 Z. z. v znení neskorších predpisov.
+
+- 42a) Zákon č. 221/2006 Z. z. v znení neskorších predpisov.
+
+- 42b) Zákon č. 475/2005 Z. z. v znení neskorších predpisov.
 
 - 43) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
@@ -160,19 +156,7 @@
 
 - 71) Napríklad zákon č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb., zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. a zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
-- 72) § 3 ods. 1 písm. a) zákona č. 366/1999 Z. z. v znení neskorších predpisov.
-
-- 73) Napríklad § 136 až 144 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
-
-- 78) § 2 ods. 1 nariadenia vlády Slovenskej republiky č. 499/2002 Z. z. o výške pracovnej odmeny a o podmienkach jej poskytovania obvineným a odsúdeným, o výške peňažnej odmeny za výkon iných prospešných prác a o podmienkach jej poskytovania odsúdeným.
-
-- 78a) § 11 ods. 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
-- 78b) § 11 ods. 6 a 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 78c) § 11 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 78d) § 11 ods. 8 a 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 71a) Napr. § 50a zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 81) Občiansky súdny poriadok.
 
@@ -215,6 +199,8 @@
 - 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+
+- 96a) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 97) § 61 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 

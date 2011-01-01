@@ -1,3 +1,3 @@
 # § 139a Vymeriavací základ z príjmu plynúceho z neplatne skončeného právneho vzťahu zamestnanca k zamestnávateľovi
 
-Ak súd rozhodol o neplatnosti skončenia právneho vzťahu zamestnanca k zamestnávateľovi, vymeriavací základ za každý kalendárny mesiac neplatne skončeného právneho vzťahu zamestnanca k zamestnávateľovi je časť príjmu plynúceho z neplatne skončeného právneho vzťahu zamestnanca k zamestnávateľovi pripadajúca na každý taký kalendárny mesiac; § 138 ods. 1 až 3, 10 až 18 a 23 platí rovnako.
+Ak súd rozhodol o neplatnosti skončenia právneho vzťahu zamestnanca k zamestnávateľovi, vymeriavací základ za každý kalendárny mesiac neplatne skončeného právneho vzťahu zamestnanca k zamestnávateľovi je časť príjmu plynúceho z neplatne skončeného právneho vzťahu zamestnanca k zamestnávateľovi pripadajúca na každý taký kalendárny mesiac; § 138 ods. 1, 6, 8 až 13 a 18 platí rovnako.
