@@ -38,9 +38,9 @@
 
 - § 54 ods. 2 písm. h) zákona č. 5/2004 Z. z. v znení zákona č. 561/2007 Z. z.
 
-- 21) Čl. 3 nariadenia (ES) č. 800/2008, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
+- 21) Čl. 3 nariadenia (ES) č. 800/2008,
 
-- 22) Čl. 6 nariadenia (ES) č. 800/2008, čl. 88 Zmluvy o Európskom spoločenstve (Ú. v. EÚ C 321E, 29. 12. 2006).
+- 22) Čl. 6 nariadenia (ES) č. 800/2008,
 
 - 23) Nariadenie Komisie (ES) č. 794/2004 z 21. apríla 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 659/1999, ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, 8/zv. 4) v znení nariadenia Komisie (ES) č. 1627/2006 z 24. októbra 2006 (Ú. v. EÚ L 302, 1. 11. 2006).
 
