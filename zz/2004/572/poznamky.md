@@ -10,6 +10,8 @@
 
 - 4b) Nariadenie Komisie (ES) č. 2216/2004.
 
+- 4c) § 51b zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 548/2010 Z. z.
+
 - 5) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 5a) Napríklad zákon č. 478/2002 Z. z., zákon č. 223/2001 Z. z. o odpadoch v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene a doplnení zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
