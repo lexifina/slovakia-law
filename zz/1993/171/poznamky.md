@@ -12,6 +12,8 @@
 
 - 2b) § 34 a 35 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
+- 2c) Zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
@@ -76,6 +78,10 @@
 
 - 12) § 4 a 5 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
+- 12a) § 6 ods. 1 zákona č. 514/2009 Z. z. o doprave na dráhach.
+
+- 12b) Písmeno g) prílohy k zákonu Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky.
+
 - 13) Napríklad § 54 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
 - 14) § 49 a 50 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
@@ -98,7 +104,7 @@
 
 - 18c) § 136 ods. 5 Trestného poriadku.
 
-- 18d) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+- 18d) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 19) Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z.
 
@@ -158,4 +164,4 @@
 
 - 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008).
 
-- 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 57/1998 Z. z. o Železničnej polícii v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
+- 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
