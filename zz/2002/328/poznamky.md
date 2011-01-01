@@ -259,3 +259,7 @@
 - 66) Zákon č. 305/1999 Z. z. o zmiernení niektorých krívd osobám deportovaným do nacistických koncentračných táborov a zajateckých táborov.
 
 - 67) § 215e zákona č. 346/2005 Z. z. v znení zákona č. 59/2009 Z. z.
+
+- 68) § 152 ods. 1 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- § 166 ods. 1 Zákonníka práce.
