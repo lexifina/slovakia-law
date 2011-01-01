@@ -1,0 +1,1 @@
+Daniel Krajcer v. r.
