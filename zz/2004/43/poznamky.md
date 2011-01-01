@@ -10,13 +10,13 @@
 
 - 3) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 4) § 4 ods. 1 zákona č. 461/2003 Z. z.
+- 4) § 4 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
-- 5) § 6 zákona č. 461/2003 Z. z.
+- 5) § 5 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
 - 6) § 27 zákona č. 461/2003 Z. z.
 
-- 7) § 7 ods. 1, 3 a 4 zákona č. 461/2003 Z. z.
+- 7) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
 - 8) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z.
 
@@ -34,23 +34,9 @@
 
 - 19) § 26 zákona č. 461/2003 Z. z.
 
-- 20) § 138 ods. 13 a 15 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 21) § 138 ods. 6 a 7 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
+- 20) § 138 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
 - 22) § 138 ods. 8 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 23) § 138 ods. 9 a 10 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 24) § 138 ods. 11 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 25) § 138 ods. 19 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 26) § 138 ods. 20 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 27) § 138 ods. 23 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
-
-- 28) § 138 ods. 21 a 22 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
 - 29) § 139 zákona č. 461/2003 Z. z.
 
@@ -86,7 +72,7 @@
 
 - 43) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
-- 44) Zákon č. 152/1998 Z. z. o sťažnostiach.
+- 44) Zákon č. 9/2010 Z. z. o sťažnostiach.
 
 - 45) Obchodný zákonník.
 
