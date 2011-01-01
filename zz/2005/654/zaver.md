@@ -1,1 +1,0 @@
-Peter Vrátny v. r.
