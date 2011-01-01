@@ -66,7 +66,7 @@
 
 - i) záväzok poskytovateľa zapracovania oznámiť úradu alebo právnickej osobe alebo fyzickej osobe podľa § 2 ods. 1 písm. m) neúčasť znevýhodneného uchádzača o zamestnanie na zapracovaní alebo predčasné skončenie zapracovania najneskôr do dvoch pracovných dní, vrátane dôvodov predčasného skončenia zapracovania,
 
-- j) záväzok poskytovateľa zapracovania, že po skončení zapracovania príjme znevýhodneného uchádzača o zamestnanie, ktorý sa na pracovnom mieste zapracovával viac ako jeden celý kalendárny mesiac do pracovného pomeru najmenej na obdobie šiestich mesiacov,
+- j) záväzok poskytovateľa zapracovania, že nasledujúci deň po skončení zapracovania príjme znevýhodneného uchádzača o zamestnanie, ktorý sa na pracovnom mieste zapracovával viac ako jeden celý kalendárny mesiac do pracovného pomeru najmenej na obdobie šiestich mesiacov,
 
 - k) záväzok poskytovateľa zapracovania, že umožní úradu alebo právnickej osobe alebo fyzickej osobe podľa § 2 ods. 1 písm. m) vykonať kontrolu vecného plnenia tejto dohody,
 
@@ -75,3 +75,5 @@
 (11) Znevýhodnený uchádzač o zamestnanie môže z vážnych zdravotných dôvodov, rodinných dôvodov alebo osobných dôvodov, ktoré u neho nastali počas zapracovania, prerušiť toto zapracovanie alebo odstúpiť od dohody; vážnosť dôvodov posudzuje úrad.
 
 (12) Ak sa znevýhodnený uchádzač o zamestnanie nemôže zúčastniť na zapracovaní z dôvodu jeho dočasnej pracovnej neschopnosti, je povinný túto skutočnosť oznámiť úradu do troch pracovných dní od nástupu na dočasnú pracovnú neschopnosť. Ak dočasná pracovná neschopnosť znevýhodneného uchádzača o zamestnanie počas zapracovania trvá najviac 30 kalendárnych dní, zapracovanie sa predlžuje o dĺžku trvania dočasnej pracovnej neschopnosti. Ak dĺžka dočasnej pracovnej neschopnosti znevýhodneného uchádzača o zamestnanie trvá viac ako 30 kalendárnych dní, úrad dohodu vypovie a uzatvorí dohodu s iným znevýhodneným uchádzačom o zamestnanie.
+
+(13) Ak si poskytovateľ zapracovania nesplní záväzok podľa odseku 10 písm. j), novú dohodu podľa odseku 10 je možné uzatvoriť najskôr po uplynutí šiestich mesiacov odo dňa porušenia záväzku podľa odseku 10 písm. j).

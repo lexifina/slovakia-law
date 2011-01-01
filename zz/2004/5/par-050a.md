@@ -12,7 +12,7 @@
 
 (4) Zamestnávateľ je povinný udržať pracovné miesto, na ktoré sa príspevok poskytuje, najmenej počas 24 kalendárnych mesiacov. Ak došlo k zníženiu počtu pracovných miest v priemere za 12 kalendárnych mesiacov v porovnaní s rovnakým predchádzajúcim obdobím, zamestnávateľ je povinný preukázať, že k tomuto zníženiu došlo v dôsledku zrušenia pracovných miest z dôvodu nadbytočnosti.
 
-(5) Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode má zamestnávateľ sídlo alebo trvalý pobyt, ak je zamestnávateľ fyzickou osobou, na základe uzatvorenej písomnej dohody vo výške zodpovedajúcej sume odvodov podľa odseku 1 zo mzdy za príslušný kalendárny mesiac. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50c, § 51a, § 56 a 56a.
+(5) Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode má zamestnávateľ sídlo alebo trvalý pobyt, ak je zamestnávateľ fyzickou osobou, na základe uzatvorenej písomnej dohody vo výške zodpovedajúcej sume odvodov podľa odseku 1 zo mzdy za príslušný kalendárny mesiac. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50c, § 56 a 56a.
 
 (6) Dohoda uzatvorená podľa odseku 5 obsahuje
 

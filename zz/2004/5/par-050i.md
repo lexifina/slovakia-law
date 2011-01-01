@@ -1,6 +1,6 @@
 # § 50i Príspevok na podporu regionálnej a miestnej zamestnanosti
 
-(1) Príspevok na podporu regionálnej a miestnej zamestnanosti (ďalej len „príspevok“) sa poskytuje zamestnávateľovi podľa odseku 2, ktorý prijme do pracovného pomeru na určitú dobu znevýhodneného uchádzača o zamestnanie podľa § 8 ods. 1 písm. a) až e), h), i) alebo k), ak pracovný pomer na určitú dobu je dohodnutý na najmenej deväť mesiacov v rozsahu najmenej polovice ustanoveného týždenného pracovného času. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50a, § 50c, § 50d, § 50e, § 51a, § 56 a 56a.
+(1) Príspevok na podporu regionálnej a miestnej zamestnanosti (ďalej len „príspevok“) sa poskytuje zamestnávateľovi podľa odseku 2, ktorý prijme do pracovného pomeru na určitú dobu znevýhodneného uchádzača o zamestnanie podľa § 8 ods. 1 písm. a) až e), h), i) alebo k), ak pracovný pomer na určitú dobu je dohodnutý na najmenej deväť mesiacov v rozsahu najmenej polovice ustanoveného týždenného pracovného času. Príspevok sa neposkytuje, ak bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50a, § 50c, § 50d, § 50e, § 56 a 56a.
 
 (2) Za zamestnávateľa sa na účely tohto ustanovenia považuje
 

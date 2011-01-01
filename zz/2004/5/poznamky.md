@@ -154,14 +154,6 @@
 
 - 50a) § 63 ods. 1 písm. a) a b) zákona č. 311/2001 Z. z.
 
-- 51) § 138 ods. 9 zákona č. 461/2003 Z. z.
-
-- § 13 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 52) Čl. 1 nariadenia Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
-
-- Nariadenie Komisie (ES) č. 1998/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 zmluvy na pomoc de minimis (Ú. v. EÚ L 379, 28. 12. 2006).
-
 - 53) § 20f Občianskeho zákonníka.
 
 - 54) Zákon č. 7/2010 Z. z. o ochrane pred povodňami.
@@ -173,10 +165,6 @@
 - 57) § 10 ods. 3 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 58) Nariadenie (ES) č. 1998/2006.
-
-- 59a) Zákon č. 231/1999 Z. z. v znení neskorších predpisov.
-
-- Nariadenie Rady (ES) č. 659/1999 z 22. marca 1999, ktorým sa ustanovujú podrobné pravidlá uplatňovania článku 93 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 083, 27. 3. 1999).
 
 - 59aa) Nariadenie Komisie (ES) č. 1628/2006 z 24. októbra 2006 o uplatňovaní článkov 87 a 88 Zmluvy na národnú regionálnu investičnú pomoc (Ú. v. EÚ L 302, 1. 11. 2006).
 
