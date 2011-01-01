@@ -96,9 +96,7 @@
 
 - 20d) § 12 ods. 2 zákona č. 600/2003 Z. z.
 
-- 21) § 46 a 54 zákona č. 5/2004 Z. z.
-
-- 22) § 3 až 5 zákona č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov.
+- 21) § 46 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 23) § 3 ods. 3 písm. a) zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -116,7 +114,7 @@
 
 - 27) § 251 až 351 Občianskeho súdneho poriadku. Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
-- 28) Zákon č. 453/2003 Z. z.
+- 28) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) § 27 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
