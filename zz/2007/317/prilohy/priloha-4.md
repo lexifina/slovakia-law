@@ -74,19 +74,19 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
   - E. Zostavenie obchodnej bilancie z nameraných a vypočítaných hodnôt dodávok a odberov elektriny za obchodný deň
 
-    - (1) Prevádzkovateľ distribučnej sústavy odovzdá zúčtovateľovi odchýlok skutočné namerané hodnoty spotreby elektriny súhrnne za subjekt zúčtovania vrátane odberných miest účastníkov trhu s elektrinou, za ktoré subjekt zúčtovania prevzal zodpovednosť za odchýlku a ktoré sú pripojené do príslušnej distribučnej sústavy.
+    - (1) Prevádzkovateľ sústavy odovzdá zúčtovateľovi odchýlok a príslušnému subjektu zúčtovania za každú hodinu v štvrťhodinovom rozlíšení skutočné namerané hodnoty spotreby elektriny, ak ide o odberné miesta s meraním typu A, alebo určené hodnoty spotreby elektriny, ak ide o odberné miesta s meraním typu B alebo C vrátane podielu na zvyškovom diagrame, za odberné miesta subjektu zúčtovania vrátane odberných miest účastníkov trhu s elektrinou, za ktoré subjekt zúčtovania prevzal zodpovednosť za odchýlku a ktoré sú pripojené do príslušnej sústavy v členení podľa typu merania A, B a C vrátane podielu na zvyškovom diagrame. V skupine merania typu A uvádza prevádzkovateľ sústavy skutočné namerané hodnoty. Ak prevádzkovateľ sústavy nemá skutočné namerané hodnoty k dispozícii, uvedie to k uvádzaným údajom.
 
     - (2) Prevádzkovateľ distribučnej sústavy vypočíta hodinové hodnoty odberu elektriny pre odberné miesta s typom merania C, pri ktorých sa používa iný spôsob odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) súhrnne podľa jednotlivých druhov typových diagramov a podľa subjektov zúčtovania.
 
     - (3) Na výpočet súhrnných hodnôt uvedených v odseku 2 prevádzkovateľ distribučnej sústavy zistí zvyškový diagram distribučnej sústavy.
 
-    - (4) Z celkovej plánovanej ročnej súhrnnej spotreby elektriny pre príslušný druh typového diagramu odberu a subjekt zúčtovania určí prevádzkovateľ distribučnej sústavy podľa príslušného typového diagramu hodinovú hodnotu spotreby všetkých odberných miest s typom merania C podľa spôsobu uvedeného v časti B odseku 1 písm. c), za ktoré prevzal zodpovednosť za odchýlku rovnaký subjekt zúčtovania. Takto určenú hodinovú hodnotu vynásobí koeficientom prepočtu zaťaženia na zvyškový diagram distribučnej sústavy pre príslušnú hodinu.
+    - (4) Z celkovej plánovanej polročnej súhrnnej spotreby elektriny pre príslušný druh typového diagramu odberu a subjekt zúčtovania určí prevádzkovateľ distribučnej sústavy podľa príslušného typového diagramu hodinovú hodnotu spotreby všetkých odberných miest s typom merania C podľa spôsobu uvedeného v časti B odseku 1 písm. c), za ktoré prevzal zodpovednosť za odchýlku rovnaký subjekt zúčtovania. Takto určenú hodinovú hodnotu vynásobí koeficientom prepočtu zaťaženia na zvyškový diagram distribučnej sústavy pre príslušnú hodinu.
 
     - (5) Za dodávku elektriny výrobcom elektriny do odberných miest s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c), za ktoré prevzal zodpovednosť za odchýlku iný subjekt zúčtovania, odovzdá prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok náhradné hodnoty pre každú obchodnú hodinu dňa.
 
   - F. Vysporiadanie zúčtovacieho obdobia
 
-    - (1) Na vysporiadanie zúčtovacieho obdobia odovzdá prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok skutočné hodnoty odberu a dodávok elektriny alebo náhradné hodnoty.
+    - (1) Na vysporiadanie zúčtovacieho obdobia odovzdá prevádzkovateľ prenosovej sústavy a prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok skutočné hodnoty odberu a dodávok elektriny alebo náhradné hodnoty.
 
     - (2) Hodnoty sa odovzdávajú ako súhrnné hodinové diagramy podľa bilančných skupín pre tieto skupiny:
 
@@ -101,6 +101,10 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
     - (3) Za odberateľov elektriny s priradeným typovým diagramom odberu sa poskytujú súhrnné údaje podľa priradenia druhu typového diagramu odberu.
 
     - (4) Hodinové hodnoty odberu elektriny odberateľov elektriny z odberných miest s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c) sa korigujú na hodnotu podielu na zvyškovom diagrame zaťaženia prevádzkovateľa distribučnej sústavy. Korekcia sa vykonáva úmerne veľkosti príslušného odberu.
+
+    - (5) Pre potreby mesačného vyhodnotenia odchýlok odovzdá prevádzkovateľ distribučnej sústavy a prevádzkovateľ prenosovej sústavy zúčtovateľovi odchýlok náhradné hodnoty odberu a dodávok elektriny najneskôr do piateho kalendárneho dňa nasledujúceho mesiaca.
+
+    - (6) Na účely konečného vyhodnotenia odchýlok odovzdá prevádzkovateľ distribučnej sústavy a prevádzkovateľ prenosovej sústavy zúčtovateľovi odchýlok a príslušnému subjektu zúčtovania skutočné hodnoty odberu elektriny a dodávok elektriny najneskôr do dvadsiateho kalendárneho dňa ôsmeho mesiaca po skončení príslušného obdobia.
 
   - G. Zmeny v priebehu vyhodnocovaného obdobia
 

@@ -12,6 +12,8 @@
 
 - 7) § 5 ods. 2 písm. a) a ods. 5 zákona č. 656/2004 Z. z.
 
+- 7a) § 35a zákona č. 656/2004 Z. z. v znení zákona č. 309/2009 Z. z.
+
 - 8) § 22 ods. 2 písm. m) zákona č. 656/2004 Z. z.
 
 - 9) § 24 ods. 2 písm. i) zákona č. 656/2004 Z. z.

@@ -6,7 +6,7 @@ Príloha č. 1 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (1) Zúčtovateľ odchýlok uskutočňuje hodnotenie subjektu zúčtovania a zaradenie do hodnotiacich skupín (ďalej len „hodnotenie“) a určuje výšku finančnej zábezpeky subjektu zúčtovania s cieľom dosiahnuť optimálnu výšku finančnej zábezpeky, zohľadňujúc hodnotenie miery rizika subjektu zúčtovania.
 
-    - (2) Zúčtovateľ odchýlok uskutočňuje hodnotenie miery rizika subjektu zúčtovania podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy.
+    - (2) Zúčtovateľ odchýlok uskutočňuje hodnotenie miery rizika subjektu zúčtovania podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
 
     - (3) Zúčtovateľ odchýlok uskutočňuje hodnotenie subjektu zúčtovania
 
@@ -14,7 +14,7 @@ Príloha č. 1 k nariadeniu vlády č. 317/2007 Z. z.
 
       - b) pri významnej zmene vstupných údajov hodnotenia.
 
-    - (4) Hodnotenie subjektu zúčtovania zverejní zúčtovateľ odchýlok podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy a platí
+    - (4) Hodnotenie subjektu zúčtovania zverejní zúčtovateľ odchýlok podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou a platí
 
       - a) odo dňa nadobudnutia účinnosti zmluvy o zúčtovaní odchýlky pre subjekt zúčtovania podľa odseku 3 písm. a),
 
@@ -22,7 +22,7 @@ Príloha č. 1 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (5) Subjekt zúčtovania môže podať námietky proti postupu zúčtovateľa odchýlok pri hodnotení subjektu zúčtovania. V prípade oprávnenosti námietky upraví zúčtovateľ odchýlok hodnotenie a výšku finančnej zábezpeky subjektu zúčtovania s účinnosťou do piatich pracovných dní od doručenia námietky.
 
-    - (6) Subjekt zúčtovania môže raz mesačne požiadať zúčtovateľa odchýlok o zmenu hodnotenia a zmenu výšky finančnej zábezpeky. Spolu so žiadosťou o zmenu predkladá subjekt zúčtovania podklady na hodnotenie podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy. Zúčtovateľ odchýlok oznámi subjektu zúčtovania výsledok zmeny hodnotenia a zmenu výšky finančnej zábezpeky do piatich pracovných dní od prijatia platnej žiadosti na zmenu hodnotenia pre nasledujúci mesiac.
+    - (6) Subjekt zúčtovania môže raz mesačne požiadať zúčtovateľa odchýlok o zmenu hodnotenia a zmenu výšky finančnej zábezpeky. Spolu so žiadosťou o zmenu predkladá subjekt zúčtovania podklady na hodnotenie podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou. Zúčtovateľ odchýlok oznámi subjektu zúčtovania výsledok zmeny hodnotenia a zmenu výšky finančnej zábezpeky do piatich pracovných dní od prijatia platnej žiadosti na zmenu hodnotenia pre nasledujúci mesiac.
 
     - (7) Zúčtovateľ odchýlok určuje zaradenie do hodnotiacej skupiny podľa bodovej hodnoty parametra H<sub>k</sub> podľa vzorca
 
@@ -36,9 +36,9 @@ Príloha č. 1 k nariadeniu vlády č. 317/2007 Z. z.
 
     - K2 = počet bodov kritéria 2; zohľadňuje oneskorenie úhrad subjektu zúčtovania voči zúčtovateľovi odchýlok.
 
-    - (8) Zúčtovateľ odchýlok určuje kritériá hodnotenia K1, K2 pre subjekt zúčtovania podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy.
+    - (8) Zúčtovateľ odchýlok určuje kritériá hodnotenia K1, K2 pre subjekt zúčtovania podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
 
-    - (9) Zúčtovateľ odchýlok určuje zaradenie do hodnotiacej skupiny podľa bodovej hodnoty parametra H<sub>k</sub> a priraďuje každej hodnotiacej skupine hodnotu koeficientu finančnej zábezpeky K<sub>g</sub> podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy.
+    - (9) Zúčtovateľ odchýlok určuje zaradenie do hodnotiacej skupiny podľa bodovej hodnoty parametra H<sub>k</sub> a priraďuje každej hodnotiacej skupine hodnotu koeficientu finančnej zábezpeky K<sub>g</sub> podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
 
   - B. Spôsob určenia finančnej zábezpeky
 
