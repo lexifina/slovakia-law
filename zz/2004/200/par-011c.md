@@ -4,7 +4,7 @@
 
 (2) Colný úrad pri prijímaní opatrení na domácom trhu je oprávnený
 
-- a) vstupovať do prevádzkových priestorov, skladov a iných objektov, o ktorých má podozrenie, že sa v nich nachádza tovar, pri ktorom je podozrenie z porušovania práva duševného vlastníctva, alebo príslušná dokumentácia; oprávnený je tiež vstupovať do obydlia, ak sa obydlie používa aj na podnikanie alebo vykonávanie inej hospodárskej činnosti,
+- a) vstupovať do prevádzkových priestorov, skladov a iných objektov, o ktorých má podozrenie, že sa v nich nachádza tovar, pri ktorom je podozrenie z porušovania práva duševného vlastníctva, alebo príslušná dokumentácia; oprávnený je tiež vstupovať do obydlia, o ktorom má podozrenie, že sa v ňom nachádza tovar, pri ktorom je podozrenie z porušovania práva duševného vlastníctva, alebo príslušná dokumentácia, ak sa obydlie používa aj na podnikanie alebo vykonávanie inej hospodárskej činnosti,
 
 - b) vyžadovať od držiteľa tovaru predloženie príslušnej dokumentácie a poskytnutie informácií a vyjadrení,
 
