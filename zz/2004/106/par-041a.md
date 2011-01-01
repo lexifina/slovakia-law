@@ -22,7 +22,7 @@
 
 (3) Pri určovaní výšky pokuty podľa odseku 2 písm. a) a c) prihliadne colný úrad na závažnosť, dĺžku trvania a následky protiprávneho stavu.
 
-(4) Na účel výpočtu dane podľa odseku 2 písm. b) a d) základom dane pri cigaretách, ktoré nie sú označené kontrolnou známkou a ktoré sa nedodávajú pod rovnakým obchodným názvom na daňové územie, je počet kusov cigariet v takomto spotrebiteľskom balení cigariet a cena najpredávanejšej cenovej kategórie cigariet (§ 40 ods. 4) prepočítaná na počet kusov cigariet v takomto spotrebiteľskom balení cigariet.
+(4) Na účel výpočtu dane podľa odseku 2 písm. b) a d) základom dane pri cigaretách, ktoré nie sú označené kontrolnou známkou a ktoré sa nedodávajú pod rovnakým obchodným názvom na daňové územie, je počet kusov cigariet v takomto spotrebiteľskom balení cigariet a vážená priemerná cena cigariet (§ 40 ods. 4) prepočítaná na počet kusov cigariet v takomto spotrebiteľskom balení cigariet.
 
 (5) Tabakové výrobky, ktoré colný úrad zabezpečí a ktoré sa dňom nadobudnutia právoplatnosti rozhodnutia o prepadnutí tabakových výrobkov stanú majetkom štátu,<sup>3</sup>) je colný úrad povinný zničiť. Na postup pri ničení tabakových výrobkov sa primerane použije osobitný predpis.<sup>25b</sup>)
 

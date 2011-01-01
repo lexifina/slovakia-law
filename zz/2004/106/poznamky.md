@@ -1,8 +1,10 @@
 - 1) § 2 Obchodného zákonníka.
 
-- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+- 1a) Čl. 52 Zmluvy o Európskej únii v platnom znení (Ú. v. EÚ C 83, 30. 3. 2010).
 
-- 1aa) Čl. 299 ods. 4 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ C 321 E, 29. 12. 2006) v platnom znení.
+- Čl. 355 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- 1aa) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
 - 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
 
@@ -11,6 +13,8 @@
 - 2a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
 - 2aa) Čl. 79 nariadenia č. 2913/92 v platnom znení.
+
+- 2ab) STN 56 0280-3 Metódy skúšania tabakových výrobkov. Stanovenie šírky rezu.
 
 - 3) Napríklad Občiansky zákonník, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, § 64 až 66, 68, 69, 75 a 77 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Trestný zákon.
 
