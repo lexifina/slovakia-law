@@ -6,6 +6,8 @@
 
 - Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2b) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 3) Zákon SNR č. 369/1990 Zb.
 
 - 4) Zákon SNR č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení zákona SNR č. 523/1990 Zb.
@@ -102,6 +104,10 @@
 
 - 22a) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
+- 22aa) Napríklad § 66a Obchodného zákonníka, § 8 ods. 1 písm. b) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+
+- 22ab) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 22b) § 281 až 288 Obchodného zákonníka.
 
 - 22c) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení neskorších predpisov.
@@ -111,6 +117,16 @@
 - 22e) § 116 Občianskeho zákonníka.
 
 - 22f) Napríklad § 140 Občianskeho zákonníka.
+
+- 22g) Napríklad zákon Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
+
+- 22h) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
+
+- 22i) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- 22j) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22k) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 23) § 2 zákona SNR č. 369/1990 Zb.
 

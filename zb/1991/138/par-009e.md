@@ -1,0 +1,15 @@
+# § 9e
+
+(1) Spoločný podnik je právnická osoba, ktorú na účel realizácie koncesie<sup>22aa</sup>) založila obec spoločne s koncesionárom. Spoločný podnik je aj právnická osoba, ktorú založil koncesionár, do ktorej základného imania bol na základe koncesnej zmluvy vložený majetok obce.
+
+(2) Obec môže vložiť majetok obce ako vklad pri založení spoločného podniku alebo ako vklad do základného imania spoločného podniku, ak je to dohodnuté v koncesnej zmluve.
+
+(3) Prioritný majetok je nehnuteľný majetok obce, ktorý obec vložila do spoločného podniku. Prioritný majetok nemožno použiť na zabezpečenie záväzkov spoločného podniku, koncesionára alebo tretej osoby ani previesť do vlastníctva iných osôb. Prioritný majetok nepodlieha výkonu rozhodnutia, exekúcii, nie je súčasťou konkurznej podstaty a ani predmetom likvidácie. Označenie prioritného majetku v katastri nehnuteľností<sup>22k</sup>) sa vykoná poznámkou na návrh obce. Ak je to dohodnuté v koncesnej zmluve, prioritný majetok možno dať do nájmu, výpožičky alebo na prioritný majetok zriadiť zmluvné vecné bremeno, najviac na obdobie koncesnej lehoty určenej v koncesnej zmluve alebo do dňa zrušenia spoločného podniku bez právneho nástupcu. Prioritný majetok nestráca svoj charakter ani prechodom na právneho nástupcu. Po zániku vecného bremena zapísaného v katastri nehnuteľností je obec povinná dať návrh na výmaz vecného bremena.
+
+(4) Spoločný podnik je povinný zachovať účelové určenie prioritného majetku, ktorý nadobudol do vlastníctva; táto povinnosť sa vzťahuje aj na právneho nástupcu.
+
+(5) Obec vedie o prioritnom majetku osobitnú evidenciu, ktorá obsahuje zoznam vecí s uvedením identifikačných údajov a odkaz na účtovný zápis v účtovníctve spoločného podniku; spoločný podnik je povinný poskytnúť tieto údaje obci.
+
+(6) Oprávnenie konať za spoločný podnik vo veciach prevádzky a údržby prioritného majetku prechádza na obec vyhlásením konkurzu na spoločný podnik; obec pri tom koná v mene spoločného podniku a na vlastný účet. Ak bol na spoločný podnik vyhlásený konkurz, prioritný majetok prechádza do vlastníctva obce právoplatnosťou uznesenia súdu o vyhlásení konkurzu alebo právoplatnosťou rozhodnutia, ktorým odvolací súd potvrdil rozhodnutie súdu prvého stupňa o vyhlásení konkurzu za náhradu určenú v koncesnej zmluve, najviac za cenu stanovenú znaleckým posudkom. Zápisnica o odovzdaní a prevzatí prioritného majetku je prílohou návrhu na záznam vlastníckeho práva obce do katastra nehnuteľností. Odmenu znalca za vypracovanie znaleckého posudku, ktorým sa oceňuje prioritný majetok, uhrádza obec.
+
+(7) Dňom zrušenia spoločného podniku likvidáciou prioritný majetok prechádza do vlastníctva obce za náhradu určenú v koncesnej zmluve, najviac za cenu stanovenú znaleckým posudkom. Likvidátor je povinný odovzdať a obec prevziať tento majetok; o odovzdaní a prevzatí sa spíše zápisnica. Zápisnica o odovzdaní a prevzatí prioritného majetku je prílohou návrhu na záznam vlastníckeho práva obce do katastra nehnuteľností. Odmenu znalca za vypracovanie znaleckého posudku, ktorým sa oceňuje prioritný majetok, uhrádza obec.

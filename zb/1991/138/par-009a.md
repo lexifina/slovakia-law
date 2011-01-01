@@ -36,7 +36,7 @@
 
 (8) Ustanovenia odsekov 1 až 7 sa nepoužijú pri prevode majetku obce, a to
 
-- a) bytu alebo pozemku podľa osobitného predpisu,<sup>22a</sup>)
+- a) nehnuteľného majetku, ktorý je obec povinná previesť podľa osobitného predpisu<sup>22a</sup>) alebo ktorým sa realizuje právo na prednostný prevod podľa osobitného predpisu,<sup>22a</sup>)
 
 - b) pozemku zastavaného stavbou vo vlastníctve nadobúdateľa vrátane priľahlej plochy, ktorá svojím umiestnením a využitím tvorí neoddeliteľný celok so stavbou,
 
@@ -44,14 +44,16 @@
 
 - d) hnuteľnej veci, ktorej zostatková cena je nižšia ako 3 500 eur,
 
-- e) v prípadoch hodných osobitného zreteľa, o ktorých obecné zastupiteľstvo rozhodne trojpätinovou väčšinou prítomných poslancov.
+- e) pri prevodoch majetku obce z dôvodu hodného osobitného zreteľa, o ktorých obecné zastupiteľstvo rozhodne trojpätinovou väčšinou všetkých poslancov, pričom osobitný zreteľ musí byť zdôvodnený; zámer previesť majetok týmto spôsobom je obec povinná zverejniť najmenej 15 dní pred schvaľovaním prevodu obecným zastupiteľstvom na svojej úradnej tabuli a na svojej internetovej stránke, ak ju má obec zriadenú, pričom tento zámer musí byť zverejnený počas celej tejto doby,
 
-(9) Ustanovenia odsekov 1 až 3 a 5 až 7 je obec povinná primerane uplatniť aj pri prenechávaní majetku obce do nájmu, a to najmenej za také nájomné, za aké sa v tom čase a na tom mieste obvykle prenechávajú do nájmu na dohodnutý účel rovnaké alebo porovnateľné nehnuteľnosti, okrem
+(9) Ak tento alebo osobitný predpis<sup>22g</sup>) neustanovuje inak, ustanovenia odsekov 1 až 3 a 5 až 7 je obec povinná primerane použiť aj pri prenechávaní majetku obce do nájmu, a to najmenej za také nájomné, za aké sa v tom čase a na tom mieste obvykle prenechávajú do nájmu na dohodnutý účel veci toho istého druhu alebo porovnateľné veci okrem
 
 - a) hnuteľnej veci vo vlastníctve obce, ktorej zostatková cena je nižšia ako 3 500 eur,
 
 - b) nájmu majetku obce, ktorého trvanie s tým istým nájomcom neprekročí desať dní v kalendárnom mesiaci,
 
-- c) prípadov hodných osobitného zreteľa, o ktorých obecné zastupiteľstvo rozhodne trojpätinovou väčšinou prítomných poslancov.
+- c) pri nájmoch majetku obce z dôvodu hodného osobitného zreteľa, o ktorých obecné zastupiteľstvo rozhodne trojpätinovou väčšinou všetkých poslancov, pričom osobitný zreteľ musí byť zdôvodnený; zámer prenajať majetok týmto spôsobom je obec povinná zverejniť najmenej 15 dní pred schvaľovaním nájmu obecným zastupiteľstvom na svojej úradnej tabuli a na svojej internetovej stránke, ak ju má obec zriadenú, pričom tento zámer musí byť zverejnený počas celej tejto doby,
 
 (10) Osobitné predpisy v oblasti štátnej pomoci nie sú týmto zákonom dotknuté.
+
+(11) Pri nakladaní s cennými papiermi a majetkovými podielmi na právnických osobách, dôsledkom ktorého je zmena vlastníctva, musí obec postupovať podľa odsekov 1 až 7, ak tento postup nevylučuje osobitný predpis.<sup>2</sup>)
