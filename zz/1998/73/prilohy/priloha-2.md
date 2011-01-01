@@ -61,17 +61,3 @@ Príloha č. 2
   - 1.04 | zástupca riaditeľa odboru, zástupca vedúceho samostatného oddelenia, vedúci oddelenia, vedúci zariadenia | 10 % až 40 %
 
   - 1.05 | zástupca vedúceho oddelenia, zástupca vedúceho zariadenia, vedúci skupiny | 5 % až 35 %
-
-  - ŠTVRTÁ ČASŤ ŽELEZNIČNÁ POLÍCIA Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
-
-  - 1.01. | generálny riaditeľ Železničnej polície | 30 % až 70 %
-
-  - 1.02. | námestník generálneho riaditeľa Železničnej polície | 25 % až 50 %
-
-  - 1.03. | riaditeľ oblastnej správy, riaditeľ odboru generálneho riaditeľstva | 18 % až 42 %
-
-  - 1.04. | zástupca riaditeľa oblastnej správy, zástupca riaditeľa odboru a vedúci samostatného oddelenia generálneho riaditeľstva, riaditeľ odboru Železničnej polície | 15 % až 37 %
-
-  - 1.05. | vedúci oddelenia generálneho riaditeľstva, zástupca riaditeľa odboru Železničnej polície, vedúci oddelenia oblastnej správy a vedúci oddelenia odboru Železničnej polície | 7 % až 26 %
-
-  - 1.06. | zástupca vedúceho oddelenia a vedúci skupiny generálneho riaditeľstva, zástupca vedúceho oddelenia a vedúci skupiny oblastnej správy, zástupca vedúceho oddelenia a vedúci skupiny odboru Železničnej polície | 5 % až 22 %
