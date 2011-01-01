@@ -66,6 +66,10 @@ Nariadenie vlády Slovenskej republiky č. 409/2007 Z. z., ktorým sa ustanovuj�
 
 - Účastník trhu s plynom predkladá žiadosť o pripojenie k distribučnej sieti prevádzkovateľovi distribučnej siete.
 
+- (4)
+
+- Prevádzkovateľ distribučnej siete po prijatí žiadosti o pripojenie podľa odseku 3 určí technické podmienky a obchodné podmienky pripojenia a žiadateľovi o pripojenie predloží návrh zmluvy o pripojení k distribučnej sieti. Zmluva o pripojení k distribučnej sieti sa uzatvára do 30 dní odo dňa prijatia žiadosti o pripojenie; vo zvlášť zložitých prípadoch môže prevádzkovateľ distribučnej siete túto lehotu predĺžiť najdlhšie na 90 dní odo dňa prijatia žiadosti o pripojenie. Ak žiadateľ o pripojenie nesúhlasí s technickými podmienkami a obchodnými podmienkami pripojenia k distribučnej sieti, je oprávnený od zmluvy odstúpiť do piatich pracovných dní odo dňa doručenia podpísanej zmluvy o pripojení k distribučnej sieti.
+
 - (5)
 
 - Na základe zmluvy o pripojení k distribučnej sieti a po ukončení výstavby odberného plynového zariadenia predkladá žiadateľ o pripojenie k distribučnej sieti žiadosť o realizáciu pripojenia prevádzkovateľovi distribučnej siete.“.
@@ -141,6 +145,24 @@ Nariadenie vlády Slovenskej republiky č. 409/2007 Z. z., ktorým sa ustanovuj�
 - d)
 
 - ročný plán rozvoja distribučnej siete.“.
+
+- 10. V § 15 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Prekročenie dohodnutej dennej distribučnej kapacity sa nespoplatňuje poplatkom za prekročenie kapacity
+
+- a)
+
+- do výšky 5 % prekročenia dohodnutej dennej distribučnej kapacity v mesiacoch január, február, marec, október, november a december,
+
+- b)
+
+- do výšky 10 % prekročenia dohodnutej dennej distribučnej kapacity v mesiacoch apríl, máj, jún, júl, august a september.
+
+- (2)
+
+- Ak účastník trhu s plynom prekročí dohodnutú dennú distribučnú kapacitu o hodnotu vyššiu ako je uvedené v odseku 1, uhradí prevádzkovateľovi distribučnej siete poplatok za prekročenie tejto kapacity.“.
 
 - 11. Za § 15 sa vkladá § 15a, ktorý vrátane nadpisu znie:
 
