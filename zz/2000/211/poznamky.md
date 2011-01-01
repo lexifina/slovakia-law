@@ -18,6 +18,20 @@
 
 - 7) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 7a) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 7b) § 27 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 7c) § 42 a 223 Zákonníka práce.
+
+- 7d) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
+
+- 7e) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení neskorších predpisov.
+
+- 7f) § 28 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 7g) § 47a Občianskeho zákonníka.
+
 - 8) § 22 zákona Slovenskej národnej rady č. 369/1990 Zb.
 
 - 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
@@ -87,3 +101,5 @@
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 29) Zákon Slovenskej národnej rady č. 149/1975 Zb. v znení neskorších predpisov.
+
+- 30) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
