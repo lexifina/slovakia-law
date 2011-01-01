@@ -22,7 +22,37 @@ Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení z
 
 - (8)
 
-- Ustanovenie odseku 7 sa vzťahuje na obec Zlaté Klasy a pôvodnú obec Maslovce. Ak príslušný krajský úrad rozhodne podľa odseku 7, zakáže zároveň obci Zlaté Klasy nakladať s nehnuteľným majetkom obce, ktorý sa nachádza na katastrálnom území pôvodnej obce Maslovce. Rozhodnutie príslušného krajského úradu podľa odseku 7 nadobudne účinnosť dňom konania všeobecných volieb do orgánov samosprávy obcí v roku 2006 okrem zákazu nakladať s nehnuteľným majetkom obce podľa druhej vety, ktorý nadobúda účinnosť dňom vyhlásenia.“.
+- Ustanovenie odseku 7 sa vzťahuje na obec Zlaté Klasy a pôvodnú obec Maslovce. Ak príslušný krajský úrad rozhodne podľa odseku 7, zakáže zároveň obci Zlaté Klasy nakladať s nehnuteľným majetkom obce, ktorý sa nachádza na katastrálnom území pôvodnej obce Maslovce. Rozhodnutie príslušného krajského úradu podľa odseku 7 nadobudne účinnosť dňom konania všeobecných volieb do orgánov samosprávy obcí v roku 2006 okrem zákazu nakladať s nehnuteľným majetkom obce podľa druhej vety, ktorý nadobúda účinnosť dňom vyhlásenia.
+
+- (9)
+
+- Obnovuje sa obec Ľubické Kúpele, ktorá bola vysťahovaná pri zriadení Vojenského obvodu Javorina, a
+
+- a)
+
+- pre obec sa určuje katastrálne územie Ľubické Kúpele, ktoré je vedené na vojenskom katastrálnom úrade v Košiciach pod názvom Ľubické Kúpele,
+
+- b)
+
+- do vlastníctva obce prechádzajú z majetku Slovenskej republiky nehnuteľnosti vyhlásené Ministerstvom obrany Slovenskej republiky za nadbytočné<sup>2aa</sup>) a nehnuteľnosti, ku ktorým patrí ku dňu účinnosti tohto zákona právo hospodárenia organizáciám v zriaďovateľskej pôsobnosti Ministerstva obrany Slovenskej republiky; ostatné ustanovenia iných osobitných predpisov<sup>2ab</sup>) sa v tomto prípade nepoužijú,
+
+- c)
+
+- do doby zvolenia zastupiteľstva a starostu obce vystupuje za obec osoba určená v petícii;<sup>2ac</sup>) prednosta obvodného úradu zabezpečí úlohy obce spojené s prípravou a realizáciou volieb obecného zastupiteľstva a starostu obce.“.
+
+- Poznámky pod čiarou k odkazom 2aa až 2ac znejú:
+
+- „2aa)
+
+- § 3 ods. 3 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 2ab)
+
+- Napríklad zákon č. 172/2004 Z. z. o prevode vlastníctva nehnuteľného majetku vo vlastníctve Slovenskej republiky na obec alebo vyšší územný celok v znení zákona č. 657/2005 Z. z., zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 2ac)
+
+- Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov.“.
 
 - 2. V § 2a sa za odsek 5 vkladajú nové odseky 6 a 7, ktoré znejú:
 
