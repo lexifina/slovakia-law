@@ -1,3 +1,3 @@
 # § 86c
 
-Týmto opatrením sa preberajú právne akty Európskych spoločenstiev a Európskej únie uvedené v prílohe č. 2.
+Týmto opatrením sa preberajú právne akty právne záväzné akty Európskej únie uvedené v prílohe č. 2.

@@ -134,6 +134,8 @@
 
 - 132 – Tovar na sklade a v predajniach
 
+- 133 - Nehnuteľnosť na predaj
+
 - 139 – Tovar na ceste
 
 - 19 – Opravné položky k zásobám
@@ -211,6 +213,8 @@
 - 314 – Poskytnuté preddavky
 
 - 315 – Ostatné pohľadávky
+
+- 316 – Čistá hodnota zákazky
 
 - 32 – Záväzky
 
@@ -406,6 +410,8 @@
 
 - 505 – Tvorba a zúčtovanie opravných položiek k zásobám
 
+- 507 – Predaná nehnuteľnosť
+
 - 51 – Služby
 
 - 511 – Opravy a udržiavanie
@@ -523,6 +529,10 @@
 - 602 – Tržby z predaja služieb
 
 - 604 – Tržby za tovar
+
+- 606 – Výnosy zo zákazky
+
+- 607 – Výnosy z nehnuteľnosti na predaj
 
 - 61 – Zmeny stavu vnútroorganizačných zásob
 
