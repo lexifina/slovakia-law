@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
+- 4a) § 17 ods. 1 písm. b), d) a g) zákona č. 302/2001 Z. z.
+
 - 5) § 17 ods. 1 písm. a) zákona č. 302/2001 Z. z.
 
 - 6) § 17 ods. 1 písm. h) zákona č. 302/2001 Z. z.
