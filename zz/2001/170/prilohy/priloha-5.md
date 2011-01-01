@@ -1,6 +1,6 @@
-Príloha č. 4 k zákonu č. 170/2001 Z. z. v znení neskorších predpisov
+Príloha č. 5 k zákonu č. 170/2001 Z. z. v znení neskorších predpisov
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Rady (ES) 2006/67/ES z 24. júla 2006, ktorou sa členským štátom ukladá povinnosť udržiavať minimálne zásoby ropy a/alebo ropných výrobkov (kodifikované znenie) (Ú. v. EÚ L 217, 8. 8. 2006).
 
