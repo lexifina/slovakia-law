@@ -36,7 +36,7 @@
 
 (8) Ustanovenia odsekov 1 až 7 sa nepoužijú pri prevode majetku vyššieho územného celku, a to
 
-- a) bytu alebo pozemku podľa osobitného predpisu,<sup>19e</sup>)
+- a) nehnuteľného majetku, ktorý je vyšší územný celok povinný previesť podľa osobitného predpisu<sup>1aa</sup>) alebo ktorým sa realizuje právo na prednostný prevod podľa osobitného predpisu,<sup>1aa</sup>)
 
 - b) pozemku zastavaného stavbou vo vlastníctve nadobúdateľa vrátane priľahlej plochy, ktorá svojím umiestnením a využitím tvorí neoddeliteľný celok so stavbou,
 
@@ -44,14 +44,16 @@
 
 - d) hnuteľnej veci, ktorej zostatková cena je nižšia ako 3 500 eur,
 
-- e) v prípadoch hodných osobitného zreteľa, o ktorých zastupiteľstvo vyššieho územného celku rozhodne trojpätinovou väčšinou prítomných poslancov.
+- e) pri prevodoch majetku vyššieho územného celku z dôvodu hodného osobitného zreteľa, o ktorých zastupiteľstvo vyššieho územného celku rozhodne trojpätinovou väčšinou všetkých poslancov, pričom osobitný zreteľ musí byť zdôvodnený; zámer previesť majetok týmto spôsobom je vyšší územný celok povinný zverejniť najmenej 15 dní pred schvaľovaním prevodu zastupiteľstvom vyššieho územného celku na svojej úradnej tabuli a na svojej internetovej stránke, pričom tento zámer musí byť zverejnený počas celej tejto doby,
 
-(9) Ustanovenia odsekov 1 až 3 a 5 až 7 je vyšší územný celok povinný primerane uplatniť aj pri prenechávaní majetku vyššieho územného celku do nájmu, a to najmenej za také nájomné, za aké sa v tom čase a na tom mieste obvykle prenechávajú do nájmu na dohodnutý účel rovnaké alebo porovnateľné nehnuteľnosti, okrem
+(9) Ak tento alebo osobitný predpis<sup>19g</sup>) neustanovuje inak, ustanovenia odsekov 1 až 3 a 5 až 7 je vyšší územný celok povinný primerane použiť aj pri prenechávaní majetku vyššieho územného celku do nájmu, a to najmenej za také nájomné, za aké sa v tom čase a na tom mieste obvykle prenechávajú do nájmu na dohodnutý účel veci toho istého druhu alebo porovnateľné veci, okrem
 
 - a) hnuteľnej veci vo vlastníctve vyššieho územného celku, ktorej zostatková cena je nižšia ako 3 500 eur,
 
 - b) nájmu majetku vyššieho územného celku, ktorého trvanie s tým istým nájomcom neprekročí desať dní v kalendárnom mesiaci,
 
-- c) prípadov hodných osobitného zreteľa, o ktorých zastupiteľstvo vyššieho územného celku rozhodne trojpätinovou väčšinou prítomných poslancov.
+- c) pri nájmoch majetku vyššieho územného celku z dôvodu hodného osobitného zreteľa, o ktorých zastupiteľstvo vyššieho územného celku rozhodne trojpätinovou väčšinou všetkých poslancov, pričom osobitný zreteľ musí byť zdôvodnený; zámer prenajať majetok týmto spôsobom je vyšší územný celok povinný zverejniť najmenej 15 dní pred schvaľovaním nájmu zastupiteľstvom vyššieho územného celku na svojej úradnej tabuli a na svojej internetovej stránke, pričom tento zámer musí byť zverejnený počas celej tejto doby,
 
 (10) Osobitné predpisy v oblasti štátnej pomoci nie sú týmto zákonom dotknuté.
+
+(11) Pri nakladaní s cennými papiermi a majetkovými podielmi na právnických osobách, dôsledkom ktorého je zmena vlastníctva, musí vyšší územný celok postupovať podľa odsekov 1 až 7, ak tento postup nevylučuje osobitný predpis.<sup>1</sup>)
