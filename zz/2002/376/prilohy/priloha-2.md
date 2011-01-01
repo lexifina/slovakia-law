@@ -1022,6 +1022,14 @@ Odpoveď na rozšírenú správu o európskej rešerši
 
 (3) Ak prihlasovateľ ani nevyhovie výzve podľa odseku 1 alebo 2, ani sa k nej nevyjadrí, prihláška sa považuje za vzatú späť.
 
+Pravidlo 70b
+
+Žiadosť o kópiu výsledkov rešerše
+
+(1) Ak Európsky patentový úrad zistí v čase, keď zodpovednosť prevezme prieskumové oddelenie, že prihlasovateľ nepredložil kópiu podľa pravidla 141 ods. 1 a nepovažuje ju za riadne podanú podľa pravidla 141 ods. 2, vyzve prihlasovateľa, aby do dvoch mesiacov predložil kópiu alebo vyhlásenie, že mu výsledky rešerše podľa pravidla 141 ods. 1 neboli sprístupnené.
+
+(2) Ak prihlasovateľ neodpovie na výzvu podľa odseku 1 v stanovenej lehote, európska patentová prihláška sa považuje za vzatú späť.
+
 Pravidlo 71
 
 Prieskumové konanie
@@ -1792,7 +1800,11 @@ Pravidlo 141
 
 Informácia o stave techniky
 
-Európsky patentový úrad môže vyzvať prihlasovateľa, aby poskytol v lehote, ktorú mu stanoví, informácie o stave techniky, ktoré sa berú do úvahy pri prieskume národných alebo regionálnych patentových prihlášok a ktoré sa týkajú vynálezu, na ktorý sa vzťahuje európska patentová prihláška.
+(1) Prihlasovateľ uplatňujúci si právo prednosti v zmysle článku 87 predloží kópiu výsledkov rešerše vykonanej úradom, kde bola podaná skoršia prihláška spolu s európskou patentovou prihláškou, v prípade Euro-PCT prihlášky pri vstupe do európskej fázy, alebo bezodkladne potom, ako mu boli tieto výsledky sprístupnené.
+
+(2) Kópia podľa odseku 1 sa považuje za riadne podanú, ak je dostupná Európskemu patentovému úradu a je súčasťou písomností európskej patentovej prihlášky podľa podmienok, ktoré určil prezident Európskeho patentového úradu.
+
+(3) Bez ohľadu na ustanovenia odsekov 1 a 2 môže Európsky patentový úrad vyzvať prihlasovateľa, aby v lehote dvoch mesiacov poskytol informácie o stave techniky v zmysle článku 124 ods. 1.
 
 HLAVA VIII
 
