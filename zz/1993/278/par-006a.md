@@ -22,7 +22,7 @@
 
 (5) Pri povolení splátok alebo odkladu platenia neúčtuje správca pohľadávky štátu úroky z omeškania, ak dlžník dodrží podmienky uvedené v odsekoch 2 a 3 a podmienky uvedené v dohode o splátkach a v dohode o odklade platenia.
 
-(6) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca trvale upustí od vymáhania pohľadávky štátu od dlžníka len vtedy, ak sa pohľadávka štátu premlčala. Správca môže trvale upustiť od vymáhania pohľadávky štátu aj vtedy, ak je zo všetkých okolností zrejmé, že ďalšie vymáhanie by bolo neúspešné alebo nehospodárne, alebo ak to odôvodňujú ekonomické alebo sociálne pomery dlžníka. O trvalom upustení od vymáhania pohľadávky štátu rozhoduje štatutárny orgán správcu. Rozhodnutie o trvalom upustení od vymáhania pohľadávky štátu musí obsahovať najmä právny dôvod vzniku pohľadávky štátu, výšku pohľadávky štátu a dôvody upustenia od vymáhania tejto pohľadávky štátu. Podmienkou platnosti rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu vyššej ako 50 000 Sk je súhlas zriaďovateľa s rozhodnutím. Na vydanie rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) toto rozhodnutie nie je preskúmateľné súdom. Dlžník sa o trvalom upustení od vymáhania pohľadávky štátu neupovedomuje.
+(6) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca trvale upustí od vymáhania pohľadávky štátu od dlžníka len vtedy, ak sa pohľadávka štátu premlčala. Správca môže trvale upustiť od vymáhania pohľadávky štátu aj vtedy, ak je zo všetkých okolností zrejmé, že ďalšie vymáhanie by bolo neúspešné alebo nehospodárne, alebo ak to odôvodňujú ekonomické alebo sociálne pomery dlžníka. O trvalom upustení od vymáhania pohľadávky štátu rozhoduje štatutárny orgán správcu. Rozhodnutie o trvalom upustení od vymáhania pohľadávky štátu musí obsahovať najmä právny dôvod vzniku pohľadávky štátu, výšku pohľadávky štátu a dôvody upustenia od vymáhania tejto pohľadávky štátu. Podmienkou platnosti rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu vyššej ako 3 000 eur je súhlas zriaďovateľa s rozhodnutím. Na vydanie rozhodnutia o trvalom upustení od vymáhania pohľadávky štátu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) toto rozhodnutie nie je preskúmateľné súdom. Dlžník sa o trvalom upustení od vymáhania pohľadávky štátu neupovedomuje.
 
 (7) Pohľadávka štátu zaniká
 
@@ -52,9 +52,9 @@
 
 - d) pohľadávka dlžníka nie je premlčaná,
 
-- e) správca má na to predchádzajúci súhlas zriaďovateľa; takýto súhlas sa nevyžaduje, ak ide o pohľadávku štátu nižšiu ako 30 000 Sk.
+- e) správca má na to predchádzajúci súhlas zriaďovateľa; takýto súhlas sa nevyžaduje, ak ide o pohľadávku štátu nižšiu ako 1 000 eur.
 
-(9) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca môže zo závažných sociálnych dôvodov na písomné požiadanie dlžníka, ktorým je fyzická osoba, uzavrieť písomnú dohodu o úplnom alebo čiastočnom odpustení dlhu nepresahujúcom 30 000 Sk, ak
+(9) Ak osobitný zákon neustanovuje inak,<sup>13aa</sup>) správca môže zo závažných sociálnych dôvodov na písomné požiadanie dlžníka, ktorým je fyzická osoba, uzavrieť písomnú dohodu o úplnom alebo čiastočnom odpustení dlhu nepresahujúcom 1 000 eur, ak
 
 - a) dlh nevznikol v súvislosti so spáchaním úmyselného trestného činu, za ktorý bol dlžník právoplatne odsúdený,
 

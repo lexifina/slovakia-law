@@ -44,7 +44,7 @@
 
 - 13aa) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 13ab) Zákon č. 231/1999 Z. z. o štátnej pomoci.
+- 13ab) Napríklad čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 13aba) § 13 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
@@ -55,6 +55,8 @@
 - 13abd) § 462 Občianskeho zákonníka.
 
 - 13abe) § 585 až 587 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 13abf) § 43b ods. 1 a § 43c ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
 - 13ac) § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -72,7 +74,7 @@
 
 - Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13f) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 13f) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13g) § 2 ods. 2 Obchodného zákonníka.
 
@@ -112,7 +114,7 @@
 
 - 20b) Výmer Ministerstva financií Slovenskej republiky z 12. marca 1996 č. R-1/1996, ktorým sa určuje rozsah tovaru s regulovanými cenami (oznámenie č. 89/1996 Z. z.) v znení neskorších predpisov.
 
-- 20c) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 20c) Zákon č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
@@ -145,6 +147,12 @@
 - 23bac) Zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z.
 
 - 23bad) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení zákona č. 387/2001 Z. z.
+
+- 23bae) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
+
+- 23baf) § 580 a 581 Občianskeho zákonníka.
+
+- 23bag) § 19 ods. 15 zákona č. 523/2004 Z. z. v znení zákona č. 323/2007 Z. z.
 
 - 23bb) Zákon č. 440/2000 Z. z. o správach finančnej kontroly.
 

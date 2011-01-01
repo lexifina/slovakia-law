@@ -12,11 +12,11 @@
 
 (4) V prípade zistenia porušenia ustanovení tohto zákona a osobitných zákonov môžu ministerstvo financií a správy finančnej kontroly podľa závažnosti porušenia uložiť pokutu
 
-- a) správcovi až do výšky 200 000 Sk,
+- a) správcovi až do výšky 6 000 eur,
 
-- b) zriaďovateľovi až do výšky 100 000 Sk,
+- b) zriaďovateľovi až do výšky 3 000 eur,
 
-- c) fyzickej osobe alebo právnickej osobe až do výšky 500 000 Sk.
+- c) fyzickej osobe alebo právnickej osobe až do výšky 15 000 eur.
 
 (5) Pokuta je príjmom štátneho rozpočtu a možno ju uložiť do troch rokov od zistenia porušenia. Pokutu nemožno uložiť po uplynutí piatich rokov nasledujúcich po roku, v ktorom došlo k porušeniu.
 

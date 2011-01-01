@@ -10,7 +10,9 @@
 
 - c) je povinný vylúčiť z osobitného ponukového konania cenové ponuky osôb blízkych,<sup>12b</sup>) majetkovo prepojených a personálne prepojených s iným záujemcom,
 
-- d) je povinný akceptovať cenovú ponuku vyjadrenú len jednou pevnou sumou.
+- d) je povinný akceptovať cenovú ponuku vyjadrenú len jednou pevnou sumou,
+
+- e) nesmie určiť podmienky, ktoré sťažujú alebo obmedzujú účasť záujemcu na osobitnom ponukovom konaní, ak tento zákon neustanovuje inak.
 
 (3) Správca písomne pozve na vyhodnotenie cenových ponúk všetkých záujemcov najneskôr päť dní pred konaním vyhodnotenia; neúčasť niektorého záujemcu nie je prekážkou uskutočnenia ich vyhodnotenia. Správca je povinný otvoriť obálky a vyhodnotiť cenové ponuky záujemcov v komisii, ktorej členov vymenúva štatutárny orgán správcu. Pri rovnosti cenových ponúk je správca povinný vyzvať na vyhodnotení zúčastnených záujemcov na zvýšenie cenovej ponuky. Osobitné ponukové konanie je úspešné, ak najmenej jeden záujemca ponúkne primeranú cenu.
 
@@ -24,11 +26,11 @@
 
 - b) nezastavaného pozemku vo vlastníctve štátu, ak jeho celková výmera nepresahuje 200 m<sup>2</sup>,
 
-- c) nehnuteľnej veci štátu do vlastníctva obce za podmienky, že obec bude tento nehnuteľný majetok vo svojom mene využívať na poskytovanie všeobecne prospešných služieb<sup>13ad</sup>)alebo na výstavbu verejnoprospešných stavieb<sup>13ac</sup>) a že obec dodrží podmienky uvedené v § 11 ods. 4; to platí aj pri prevode nehnuteľnej veci štátu do vlastníctva vyššieho územného celku,
+- c) nehnuteľnej veci štátu do vlastníctva obce alebo mestskej časti hlavného mesta Slovenskej republiky Bratislavy a mestskej časti mesta Košice (ďalej len „obec“) za podmienky, že obec bude tento nehnuteľný majetok vo svojom mene využívať na poskytovanie všeobecne prospešných služieb<sup>13ad</sup>)alebo na výstavbu verejnoprospešných stavieb<sup>13ac</sup>) a že obec dodrží podmienky uvedené v § 11 ods. 4; to platí aj pri prevode nehnuteľnej veci štátu do vlastníctva vyššieho územného celku,
 
 - d) podielu majetku štátu, ktorým sa realizuje zákonné predkupné právo<sup>13c</sup>) alebo prednostné právo na prevod správy podielu majetku štátu v spoločnej správe podľa § 10 ods. 1,
 
-- e) majetku štátu na účely poskytovania starostlivosti alebo výchovy a vzdelávania zariadeniu sociálnych služieb,<sup>13d</sup>) poskytovateľovi zdravotnej starostlivosti,<sup>13e</sup>) škole alebo školskému zariadeniu,<sup>13f</sup>) ak ide o právnickú osobu, ktorá nie je podnikateľom<sup>13g</sup>) a preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadení sociálnych služieb,<sup>13d</sup>) najmenej jeden rok poskytuje zdravotnú starostlivosť<sup>13e</sup>) alebo je najmenej jeden rok zaradená do siete škôl a školských zariadení,<sup>13f</sup>)
+- e) majetku štátu na účely poskytovania starostlivosti alebo výchovy a vzdelávania zariadeniu sociálnych služieb,<sup>13d</sup>) poskytovateľovi zdravotnej starostlivosti,<sup>13e</sup>) škole alebo školskému zariadeniu,<sup>13f</sup>) ak ide o právnickú osobu, ktorá nie je podnikateľom<sup>13g</sup>) a preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadení sociálnych služieb,<sup>13d</sup>) najmenej jeden rok poskytuje zdravotnú starostlivosť<sup>13e</sup>) alebo je najmenej jeden rok zaradená do siete škôl a školských zariadení,<sup>13f</sup>) a ak zariadenie sociálnych služieb,<sup>13d</sup>) poskytovateľ zdravotnej starostlivosti,<sup>13e</sup>) škola alebo školské zariadenie<sup>13f</sup>) dodrží podmienky uvedené v § 11 ods. 4,
 
 - f) nehnuteľnej veci štátu určenej pre potreby diplomatického zastúpenia cudzích štátov,
 
