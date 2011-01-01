@@ -2,15 +2,11 @@ Príloha č. 3 k nariadeniu vlády č. 354/2006 Z. z.
 
 - KRITÉRIÁ SPRÁVNOSTI A PRESNOSTI METÓD
 
-  - 1. Správnosť je systematická chyba vyjadrená rozdielom medzi strednou hodnotou veľkého počtu opakovaných meraní a skutočnou hodnotou.
+  - 1. Správnosť je tesnosť zhody medzi priemernou hodnotou získanou z veľkého radu výsledkov skúšok a prijatou referenčnou hodnotou.<sup>15</sup>)
 
-  - 2. Presnosť je náhodná chyba, ktorá je spravidla vyjadrená ako smerodajná odchýlka (v rámci dávky a medzi dávkami) rozptylu výsledkov okolo strednej hodnoty. Prijateľná presnosť zodpovedá dvojnásobku relatívnej smerodajnej odchýlky.
+  - 2. Presnosť je tesnosť zhody medzi výsledkom skúšky a prijatou referenčnou hodnotou.<sup>16</sup>)
 
   - 3. Medza detekcie je trojnásobok relatívnej smerodajnej odchýlky vzorky obsahujúcej nízku koncentráciu parametra alebo päťnásobok relatívnej smerodajnej odchýlky kontrolnej vzorky.
-
-  - 4. Pre voľný chlór, farbu, zápach, chuť a celkový organický uhlík nie je špecifikovaná metóda analýzy. Pri výbere metód na ich stanovenie sa postupuje podľa slovenskej technickej normy STN EN ISO/IEC 17025 Všeobecné požiadavky na spôsobilosť skúšobných a kalibračných laboratórií (ISO/IEC 17025:1999). Ak ide o zákal, použitá metóda skúšky musí v upravenej povrchovej vode zmerať aspoň koncentrácie zodpovedajúce parametrickej hodnote ukazovateľa so správnosťou 25%, s presnosťou 25% a medzou detekcie 25%.
-
-  - 5. Pri výbere metód na stanovenie ukazovateľov č. 1 až 6 a ukazovateľa č. 14 prílohy č. 1 sa postupuje podľa slovenskej technickej normy STN EN ISO/IEC 17025 Všeobecné požiadavky na spôsobilosť skúšobných a kalibračných laboratórií (ISO/IEC 17025:1999). Ukazovatele č. 1 až 4 a ukazovateľ č. 14 sa zisťujú metódov membránovej filtrácie. Ukazovatele č. 5 a 6 sa zisťujú metódou očkovania do kultivačného agarového média.
 
     - a) Anorganické ukazovatele
 
@@ -66,15 +62,15 @@ Príloha č. 3 k nariadeniu vlády č. 354/2006 Z. z.
 
   - 39. | Polycyklické aromatické uhľovodíky | 25 | 25 | 25 | | Validačná charakteristika sa vzťahuje na jednotlivé látky špecifikované pri 25 % z limitu ukazovateľa v prílohe č. 1.
 
-  - 40. | Benzo/a/pyrén | 25 | 25 | 25 | |
+  - 40. | Benzo(a)pyrén | 25 | 25 | 25 | |
 
   - 41. | Epichlórhydrín | – | – | – | Musí sa riadiť špecifikáciou výrobku. |
 
   - 42. | Styrén | 25 | 25 | 25 | |
 
-  - 43. | Tetrachlór- etén | 25 | 25 | 10 | | Validačná charakteristika sa vzťahuje na jednotlivé látky špecifikované pri 50 % z limitu ukazovateľa v prílohe č. 1.
+  - 43. | Tetrachlóretén | 25 | 25 | 10 | | Validačná charakteristika sa vzťahuje na jednotlivé látky špecifikované pri 50 % z limitu ukazovateľa v prílohe č. 1.
 
-  - 44. | Tetrachlór- metán | 25 | 25 | 10 | |
+  - 44. | Tetrachlórmetán | 25 | 25 | 10 | |
 
   - 45. | Toluén | 25 | 25 | 25 | |
 
@@ -84,58 +80,122 @@ Príloha č. 3 k nariadeniu vlády č. 354/2006 Z. z.
 
   - 48. | Xylény | 25 | 25 | 25 | |
 
+  - 49. | Mikrocystín LR | 25 | 25 | 25 | |
+
     - c) Dezinfekčné prostriedky a ich vedľajšie produkty
 
   - Číslo ukazovateľa | Ukazovateľ | Správnosť vyjadrená v % z limitu ukazovateľa | Presnosť vyjadrená v % z limitu ukazovateľa | Medza detekcie vyjadrená v % z limitu ukazovateľa | Podmienky | Poznámky
 
-  - 50. | Brómdichlór-metán | 25 | 25 | 10 | |
+  - 50. | Voľný chlór | 25 | 25 | 25 | |
 
-  - 51. | 2,4-dichlórfenol | 25 | 25 | 25 | |
+  - 51. | Brómdichlórmetán | 25 | 25 | 10 | |
 
-  - 52. | Chlórdioxid | 25 | 25 | 25 | |
+  - 52. | 2,4-dichlórfenol | 25 | 25 | 25 | |
 
-  - 53. | Chloritany | 25 | 25 | 25 | |
+  - 53. | Chlórdioxid | 25 | 25 | 25 | |
 
-  - 54. | Chloroform | 25 | 25 | 10 | |
+  - 54. | Chloritany | 25 | 25 | 25 | |
 
-  - 55. | Ozón | 25 | 25 | 25 | |
+  - 55. | Chloroform | 25 | 25 | 10 | |
 
-  - 56. | 2,4,6-trichlórfenol | 25 | 25 | 25 | |
+  - 56. | Ozón | 25 | 25 | 25 | |
+
+  - 57. | 2,4,6-trichlórfenol | 25 | 25 | 25 | |
 
     - d) Ukazovatele, ktoré môžu nepriaznivo ovplyvniť senzorickú kvalitu pitnej vody
 
   - Číslo ukazovateľa | Ukazovateľ | Správnosť vyjadrená v % z limitu ukazovateľa | Presnosť vyjadrená v % z limitu ukazovateľa | Medza detekcie vyjadrená v % z limitu ukazovateľa | Podmienky | Poznámky
 
-  - 59. | Amónne ióny | 10 | 10 | 10 | |
+  - 59. | Absorbancia (254 nm, 1 cm) | 10 | 10 | 10 | |
 
-  - 60. | Celkové rozpustné látky | 10 | 10 | 10 | |
+  - 60. | Amónne ióny | 10 | 10 | 10 | |
 
-  - 62. | Hliník | 10 | 10 | 10 | |
+  - 61. | Celkové rozpustné látky | 10 | 10 | 10 | |
 
-  - 63. | Chemická spotreba kyslíka manganistanom | 25 | 25 | 10 | |
+  - 62. | Farba | 25 | 25 | 25 | |
 
-  - 64. | Chloridy | 10 | 10 | 10 | |
+  - 63. | Hliník | 10 | 10 | 10 | |
 
-  - 65. | Mangán | 10 | 10 | 10 | |
+  - 64. | Chemická spotreba kyslíka manganistanom | 25 | 25 | 10 | |
 
-  - 68. | Sírany | 10 | 10 | 10 | |
+  - 65. | Chloridy | 10 | 10 | 10 | |
 
-  - 69. | Sulfán voľný | 25 | 25 | 25 | |
+  - 66. | Mangán | 10 | 10 | 10 | |
 
-  - 74. | Zinok | 10 | 10 | 10 | |
+  - 69. | Sírany | 10 | 10 | 10 | |
 
-  - 75. | Železo | 10 | 10 | 10 | |
+  - 70. | Sulfán voľný | 25 | 25 | 25 | |
 
-  - 76. | Vodivosť | 10 | 10 | 10 | |
+  - 73. | Zákal | 25 | 25 | 25 | |
 
-  - 77. | Sodík | 10 | 10 | 10 | |
+  - 75. | Zinok | 10 | 10 | 10 | |
+
+  - 76. | Železo | 10 | 10 | 10 | |
+
+  - 77. | Vodivosť | 10 | 10 | 10 | |
+
+  - 78. | Sodík | 10 | 10 | 10 | |
 
     - e) Látky, ktorých prítomnosť v pitnej vode je žiaduca
 
   - Číslo ukazovateľa | Ukazovateľ | Správnosť vyjadrená v % z limitu ukazovateľa | Presnosť vyjadrená v % z limitu ukazovateľa | Medza detekcie vyjadrená v % z limitu ukazovateľa | Podmienky | Poznámky
 
-  - 78. | Horčík | 10 | 10 | 10 | |
+  - 79. | Horčík | 10 | 10 | 10 | |
 
-  - 79. | Vápnik | 10 | 10 | 10 | |
+  - 80. | Vápnik | 10 | 10 | 10 | |
 
-  - 80. | Vápnik a horčík | 10 | 10 | 10 | |
+  - 81. | Vápnik a horčík | 10 | 10 | 10 | |
+
+    - Mikrobiologické a biologické ukazovatele, pre ktoré sú špecifikované referenčné analytické metódy:
+
+  - – Escherichia coli a koliformné baktérie podľa slovenskej technickej normy,<sup>15</sup>)
+
+  - – enterokoky podľa slovenskej technickej normy,<sup>17</sup>)
+
+  - – Pseudomonas aeruginosa podľa slovenskej technickej normy,<sup>18</sup>)
+
+  - – kultivovateľné mikroorganizmy pri 22 <sup>o</sup>C a kultivovateľné mikroorganizmy pri 37 <sup>o</sup>C podľa slovenskej technickej normy,<sup>19</sup>)
+
+  - – abiosestón, železité a mangánové baktérie podľa slovenskej technickej normy,<sup>20</sup>) biosestón podľa slovenskej technickej normy.<sup>21</sup>)
+
+    - Clostridium perfringens (vrátane spór) podľa tohto postupu:
+
+    - Membránová filtrácia s následnou anaeróbnou inkubáciou membránového filtra na agare mCP pri teplote 44 ±1 <sup>o</sup>C počas 21 ±3 hod. Spočítať nepriehľadné žlté kolónie, ktoré sa sfarbia do ružova alebo do červena, keď sa vystavia na 20 – 30 sekúnd účinku pár hydroxidu amónneho.
+
+    - Zloženie agaru mCP
+
+  - tryptóza | 30 g,
+
+  - kvasnicový extrakt | 20 g,
+
+  - sacharóza | 5 g,
+
+  - hydrochlorid L-cysteínu | 1 g,
+
+  - MgSO<sub>4</sub>.7H<sub>2</sub>O | 0,1 g,
+
+  - purpurový bromkrezol | 40 mg,
+
+  - agar | 15 g,
+
+  - voda | 1 000 ml.
+
+    - Rozpustiť prísady základného roztoku, upraviť pH na 7,6 a sterilizovať v autokláve pri teplote 121<sup>o</sup>C počas 15 minút. Nechať roztok vychladnúť a pridať
+
+  - D-cykloserín | 400 mg,
+
+  - polymyxín B-sulfát | 25 mg,
+
+  - indoxyl-ß-D-glukosid | 60 mg (pred pridaním rozpustiť v 8 ml destilovanej vody),
+
+  - sterilne sfiltrovaný 0,5-percentný roztok dvojfosforečnanu fenolftaleínu | 20 ml,
+
+  - sterilne sfiltrovaný 4,5-percentný roztok FeCl<sub>3</sub>.6H<sub>2</sub>O | 2 ml.
+
+    - Pri použití alternatívnej metódy musia byť dosiahnuté výsledky aspoň tak spoľahlivo ako pri referenčnej metóde.
+
+    - Pre ukazovatele Escherichia coli, koliformné baktérie sa môže použiť alternatívna metóda podľa slovenskej technickej normy.<sup>22</sup>)
+
+    - Pre ukazovateľ enterokoky sa môže použiť alternatívna metóda.<sup>23</sup>)
+
+    - Pre ukazovateľ Clostridium perfringens sa môžu použiť alternatívne metódy podľa slovenskej technickej normy.<sup>24</sup>)
