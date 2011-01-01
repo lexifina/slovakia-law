@@ -2,6 +2,8 @@
 
 Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z., zákona č. 461/2008 Z. z., zákona č. 540/2008 Z. z., zákona č. 170/2009 Z. z. a zákona č. 67/2010 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 5 ods. 4 písm. f) sa slovo „vykonáva“ nahrádza slovom „posudzuje“.
+
 - 2. V § 5 ods. 4 sa za písmeno o) vkladajú nové písmená p) a q), ktoré znejú:
 
 - „p)
@@ -28,13 +30,33 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - § 26 ods. 3 a 4 zákona č. 124/2006 Z. z. v znení neskorších predpisov.“.
 
+- 3. V § 6 ods. 3 písm. c) sa slovo „vykonáva“ nahrádza slovom „posudzuje“.
+
 - 4. V § 15 ods. 1 písmeno b) znie:
 
 - „b)
 
 - hodnotenie dopadov na verejné zdravie alebo hodnotenie zdravotných rizík zo životného prostredia,“.
 
-- „6.
+- 5. V § 16 odsek 15 znie:
+
+- „(15)
+
+- Na vykonávanie činností uvedených v § 15 ods. 3 písm. d) sa požaduje
+
+- a)
+
+- odborná príprava podľa osobitného predpisu,<sup>23</sup>)
+
+- b)
+
+- úspešne vykonaná skúška pred komisiou na preskúšanie odbornej spôsobilosti.“.
+
+- Poznámka pod čiarou k odkazu 23 znie:
+
+- „<sup>23</sup>) § 26 zákona č. 131/2010 Z. z. o pohrebníctve.
+
+- 6.
 
 - V § 27 odsek 1 znie:
 
@@ -61,6 +83,14 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 - 7. V § 30 ods. 12 v druhej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „a na požiadanie poskytne lekárovi výsledky vyšetrení získaných pri výkone lekárskej preventívnej prehliadky vo vzťahu k práci“.
 
 - 8. V § 30 ods. 14 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ak osobitný predpis neustanovuje inak“.
+
+- 9. V § 52 ods. 1 sa za písmeno c) vkladá nové písmeno d), ktoré znie:
+
+- „d)
+
+- zabezpečiť hodnotenie zdravotných rizík zo životného prostredia alebo hodnotenie dopadov na verejné zdravie, ak sa pri posudzovaní podľa § 5 ods. 4 písm. f) a § 6 ods. 3 písm. c) preukáže, že navrhovaná činnosť môže mať významný vplyv na verejné zdravie a príslušný orgán verejného zdravotníctva vyžiada predloženie hodnotenia,“.
+
+- Doterajšie písmená d) až q) sa označujú ako písmená e) až r).
 
 - 10. V § 52 ods. 1 písm. e) sa vypúšťajú slová „a životných“.
 
