@@ -360,6 +360,8 @@ Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení z
 
 - Doterajšie odseky 3 až 7 sa označujú ako odseky 4 až 8.
 
+- 81. V § 25 ods. 8 sa za slová „výkon funkcie“ vkladajú slová „zástupcu starostu“.
+
 - 82. V § 25 ods. 8 sa odkaz 18a označuje ako odkaz 18b a poznámka pod čiarou k odkazu 18b znie:
 
 - „18b)
