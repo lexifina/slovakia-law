@@ -4,11 +4,9 @@
 
 - 2) Príloha I časť IX, X a XI nariadenia (ES) č. 1234/2007 v platnom znení.
 
-- 3) § 28 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+- 3) § 28, § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 4) § 29 zákona č. 245/2008 Z. z.
-
-- 5) § 95 zákona č. 245/2008 Z. z.
+- 4) § 29, § 95 ods. 1 písm. b) a § 104 ods. 1 písm. b) zákona č. 245/2008 Z. z.
 
 - 6) Nariadenie (ES) č. 288/2009.
 
@@ -20,11 +18,11 @@
 
 - 10) Čl. 5 nariadenia (ES) č. 288/2009.
 
-- 11) Čl. 6 nariadenia (ES) č. 288/2009.
+- 11) Čl. 6 ods. 2 písm. c) a e) nariadenia (ES) č. 288/2009.
 
-- 12) § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 689/2006 Z. z.
+- 12) § 10 ods. 15 písm. e) zákona č. 491/2001 Z. z. v znení neskorších predpisov.
 
-- 13) § 10 ods. 15 písm. e) zákona č. 491/2001 Z. z. v znení zákona č. 596/2006 Z. z.
+- 13) Čl. 6 ods. 2 písm. e) bod ii) nariadenia (ES) č. 288/2009.
 
 - 14) Čl. 8 nariadenia (ES) č. 288/2009.
 
@@ -34,4 +32,8 @@
 
 - 17) Čl. 11 nariadenia (ES) č. 288/2009.
 
+- 17a) Čl. 4 ods. 3 a 4 nariadenia (ES) č. 288/2009.
+
 - 18) Čl. 5 ods. 1 druhý bod nariadenia (ES) č. 288/2009.
+
+- 19) Čl. 5 ods. 1 písm. b) body i) až iii) a ods. 2 nariadenia (ES) č. 288/2009.

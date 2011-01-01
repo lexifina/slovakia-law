@@ -1,6 +1,6 @@
 Príloha č. 2 k nariadeniu vlády č. 341/2009 Z. z.
 
-- ZOZNAM VYKONÁVANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+- Zoznam vykonávaných právne záväzných aktov Európskej únie
 
   - 1. Nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní Spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209/1, 11. 8. 2005) v znení
 
