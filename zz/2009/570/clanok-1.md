@@ -190,6 +190,10 @@ Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
 
 - sprístupňovať alebo na požiadanie poskytnúť bezplatne iným povinným osobám údaje z informačných systémov verejnej správy potrebné na ich činnosť, ak osobitný predpis<sup>3</sup>) neustanovuje inak,
 
+- f)
+
+- prostredníctvom centrálneho metainformačného systému verejnej správy bezodkladne sprístupňovať informácie o informačných systémoch verejnej správy, ktoré prevádzkujú a o poskytovaných elektronických službách verejnej správy,
+
 - g)
 
 - prednostne používať integrovanú infraštruktúru určenú na prevádzku informačných systémov verejnej správy, ak to technické možnosti umožňujú,
@@ -228,7 +232,11 @@ Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
 
 - c)
 
-- bezodkladne nahlasovať ministerstvu zmeny úsekov verejnej správy a agend verejnej správy základného číselníka úsekov verejnej správy a agend verejnej správy a spôsob, akým bola táto zmena na základe ich právomoci uskutočnená,“.
+- bezodkladne nahlasovať ministerstvu zmeny úsekov verejnej správy a agend verejnej správy základného číselníka úsekov verejnej správy a agend verejnej správy a spôsob, akým bola táto zmena na základe ich právomoci uskutočnená,
+
+- d)
+
+- zabezpečovať informáciu alebo údaj, ktorý fyzická osoba alebo právnická osoba musí doložiť ku konaniu pred orgánom verejnej správy alebo orgánom verejnej moci, z informačného systému verejnej správy vo svojej správe, alebo prostredníctvom správcu iného informačného systému verejnej správy, ak je takáto informácia alebo údaj dostupný v rámci informačných systémov verejnej správy.“.
 
 - Poznámky pod čiarou k odkazom 1, 2 až 2b, 3 a 4 znejú:
 
