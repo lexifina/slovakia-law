@@ -874,6 +874,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Ak daňovník zrušuje stálu prevádzkareň umiestnenú na území Slovenskej republiky a nemá iné zdaniteľné príjmy, okrem príjmov, z ktorých vybraním dane zrážkou je splnená daňová povinnosť alebo nemá iné stále prevádzkarne umiestnené na území Slovenskej republiky, je povinný podať daňové priznanie alebo hlásenie najneskôr do troch kalendárnych mesiacov nasledujúcich po mesiaci, v ktorom zrušil stálu prevádzkareň. Ak daňovník, ktorý zrušuje stálu prevádzkareň umiestnenú na území Slovenskej republiky, má aj iné zdaniteľné príjmy, okrem príjmov, z ktorých vybraním dane zrážkou je splnená daňová povinnosť alebo má aj iné stále prevádzkarne umiestnené na území Slovenskej republiky, je povinný podať daňové priznanie v lehote podľa odseku 2.“.
 
+- 40. V § 50 ods. 1 písmeno b) znie:
+
+- „b)
+
+- právnickou osobou, je oprávnený vyhlásiť v daňovom priznaní v lehote na podanie daňového priznania, že podiel zaplatenej dane do výšky 2 % sa má poukázať ním určeným prijímateľom podľa odseku 4, ak v zdaňovacom období, ktorého sa vyhlásenie týka alebo najneskôr v lehote na podanie tohto daňového priznania daroval finančné prostriedky najmenej vo výške zodpovedajúcej 0,5 % zaplatenej dane ním určeným daňovníkom, ktorí nie sú založení alebo zriadení na podnikanie,<sup>67</sup>) na účely vymedzené v odseku 5; ak daňovník neposkytol tieto finančné prostriedky ako dar najmenej vo výške 0,5 % zaplatenej dane, je oprávnený vyhlásiť v daňovom priznaní v lehote na podanie daňového priznania, že podiel zaplatenej dane sa má poukázať ním určeným prijímateľom podľa odseku 4 len do výšky 1,5 % zaplatenej dane.“.
+
 - 41. V § 50 ods. 5 písmeno b) znie:
 
 - „b)
