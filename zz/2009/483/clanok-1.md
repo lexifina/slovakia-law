@@ -208,6 +208,18 @@ Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojen�
 
 - § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.“.
 
+- 20. Za § 31 sa vkladá § 31a, ktorý znie:
+
+- „§ 31a
+
+- (1)
+
+- Ak počet funkcií, na ktoré sa konkurenčný výber vykonáva, prevyšuje počet profesionálnych vojakov, ktorí spĺňajú podmienky na zaradenie do konkurenčného výberu, a tento rozdiel nemožno vyrovnať mimoriadnym konkurenčným výberom, do konkurenčného výberu možno zaradiť aj profesionálnych vojakov s príslušnou vojenskou odbornosťou, ak sú zaradení do programu udržiavania.
+
+- (2)
+
+- Profesionálneho vojaka možno zaradiť do konkurenčného výberu podľa odseku 1 len s jeho písomným súhlasom.“.
+
 - 21. § 51a vrátane nadpisu znie:
 
 - „§ 51a
