@@ -1,4 +1,8 @@
-- 1) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v . ES C 325, 24. 12. 2002) v platnom znení.
+- 1) Čl. 52 Zmluvy o Európskej únii (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- Čl. 355 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- 1a) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
 - 2) Napríklad nariadenie Rady (EHS) č. 2658/87 z 23. júla 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 2; Ú. v. ES L 256, 7. 9. 1987) v platnom znení.
 
