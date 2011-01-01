@@ -50,6 +50,8 @@
 
 - 17a) Čl. 8 ods. 2 až 4 nariadenia Komisie (ES) č. 1891/2004.
 
+- 17aa) Čl. 94 ods. 4 nariadenia Rady (EHS) č. 2913/92 v platnom znení.
+
 - 17b) Čl. 14e nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993).
 
 - 18) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
@@ -84,7 +86,7 @@
 
 - 28) Čl. 78 Nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
-- 29) Napríklad Nariadenie Rady (EHS) č. 4045/89 z 21. decembra 1989 o kontrole opatrení tvoriacich súčasť systému financovania záručnej sekcie Európskeho poľnohospodárskeho usmerňovacieho a záručného fondu (EPUZF), vykonávaných členskými štátmi, a o zrušení smernice č. 77/435/EHS v platnom znení (Ú. v. ES L 388, 30. 12. 1989), Nariadenie Rady (EHS) č. 386/90 z 12. februára 1990 o monitorovaní vykonávanom v čase vývozu poľnohospodárskych produktov, na ktoré sú poskytované náhrady alebo iné finančné čiastky (Ú. v. ES L 042, 16. 02. 1990) v znení nariadenia Rady (EHS) č. 163/94 z 24. januára 1994 (Ú. v. ES L 024, 29. 01. 1994) v znení nariadenia Komisie (ES) č. 2090/2002 z 26. novembra 2002, ktoré ustanovuje podrobné pravidlá na uplatňovanie nariadenia Rady (EHS) č. 386/90 (Ú. v. ES L 322, 27. 11. 2002).
+- 29) Napríklad nariadenie Rady (ES) č. 485/2008 z 26. mája 2008 o kontrole opatrení tvoriacich súčasť systému financovania Európskeho poľnohospodárskeho záručného fondu, vykonávaných členskými štátmi (kodifikované znenie) (Ú. v. EÚ L 143, 3. 6. 2008), nariadenie Komisie (ES) č. 1276/2008 zo 17. decembra 2008 o monitorovaní vývozu poľnohospodárskych výrobkov, na ktoré sa poskytujú náhrady alebo iné sumy, prostredníctvom fyzických kontrol (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení, § 5 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
 - 29a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
