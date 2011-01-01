@@ -1,6 +1,4 @@
-- 1) § 3 zákona č. 16/2004 Z. z. o Slovenskej televízii.
-
-- 2) § 3 zákona č. 619/2003 Z. z. o Slovenskom rozhlase.
+- 1) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov.
 
 - 3) § 2 písm. b) bod 24 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
@@ -52,9 +50,7 @@
 
 - 27) § 105 Obchodného zákonníka.
 
-- 28) § 8 zákona č. 16/2004 Z. z. v znení zákona 588/2006 Z. z.
-
-- 29) § 8 zákona č. 619/2003 Z. z. v znení neskorších predpisov.
+- 28) § 8 zákona č. 532/2010 Z. z.
 
 - 30) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
