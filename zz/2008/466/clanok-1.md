@@ -268,6 +268,26 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - 41. V § 47 ods. 7 sa na konci pripája táto veta: „Súčasťou programu supervízie je aj spôsob zabezpečenia tohto programu.“.
 
+- 42. Za § 47 sa vkladá § 47a, ktorý vrátane nadpisu znie:
+
+- „§ 47a
+
+- Zdravotná starostlivosť v zariadení
+
+- (1)
+
+- Zariadenie podľa § 45 ods. 1 môže okrem vykonávania opatrení podľa tohto zákona poskytovať ošetrovateľskú starostlivosť.<sup>38a</sup>)
+
+- (2)
+
+- Zdravotné výkony z katalógu zdravotných výkonov, ktoré v zariadeniach vykonávajú zamestnanci zariadenia podľa § 45 ods. 1 spĺňajúci podmienky na výkon zdravotníckeho povolania, ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo zdravotníctva Slovenskej republiky po dohode s Ministerstvom práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“).“.
+
+- Poznámka pod čiarou k odkazu 38a znie:
+
+- „38a)
+
+- Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 43. V § 48 odsek 4 znie:
 
 - „(4)
