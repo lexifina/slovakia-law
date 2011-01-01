@@ -44,8 +44,6 @@
 
 - 20) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov.
 
-- 21) Zákon č. 57/1998 Z. z. o Železničnej polícii v znení zákona č. 73/1998 Z. z.
-
 - 22) Zákon Národnej rady Slovenskej republiky č. 84/1994 Z. z. o Slovenskom Červenom kríži a o ochrane znaku a názvu Červeného kríža.
 
 - 22a) § 3 ods. 1 zákona č. 579/2004 Z. z.
