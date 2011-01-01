@@ -64,6 +64,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 17. V § 144 ods. 1 sa slová „100 Sk“ nahrádzajú slovami „3,32 eura“.
 
+- 18. V § 147 ods. 2 sa slová „ods. 3“ nahrádzajú slovami „ods. 1“.
+
 - 19. V § 159 sa za písmeno b) vkladajú nové písmená c) a d), ktoré znejú:
 
 - „c)
@@ -96,6 +98,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 21. V § 162 ods. 2 písm. a) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „poistné na starobné poistenie je aj finančná suma zodpovedajúca dôchodkovým právam podľa § 82a ods. 2,“.
 
+- 22. V § 168 ods. 2 písm. i) sa slová „ods. 1 až 3“ nahrádzajú slovami „ods. 1“.
+
 - 23. V § 179 ods. 1 sa za písmeno k) vkladá nové písmeno l), ktoré znie:
 
 - „l)
@@ -117,6 +121,22 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - l)
 
 - previesť finančnú sumu zodpovedajúcu dôchodkovým právam podľa § 82a ods. 1.“.
+
+- 27. V § 228 sa vypúšťajú odseky 1 a 2.
+
+- Doterajšie odseky 3 až 9 sa označujú ako odseky 1 až 7.
+
+- 28. V § 228 ods. 2 a 4 sa slová „odseku 3“ nahrádzajú slovami „odseku 1“.
+
+- 29. V § 228 ods. 5 sa slová „odsekov 3 a 6“ nahrádzajú slovami „odsekov 1 a 4“.
+
+- 30. V § 228 odsek 6 znie:
+
+- „(6)
+
+- Lehota na splnenie povinností podľa odsekov 1 až 4 je zachovaná aj vtedy, ak doklady preukazujúce splnenie povinností podľa odsekov 2 a 3 a tlačivo uvedené v odseku 5 sa v ustanovenej lehote odovzdali na prepravu poštou, odoslali faxom alebo elektronickou poštou.“.
+
+- 31. V § 228 ods. 7 sa slová „odseku 8“ nahrádzajú slovami „odseku 6“.
 
 - 32. V § 233 odsek 6 znie:
 
@@ -174,4 +194,10 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - (2)
 
-- Do obdobia poistenia v nezamestnanosti na nárok na dávku v nezamestnanosti sa započítava aj obdobie od 1. februára 2006 do 31. januára 2010, počas ktorého bolo prerušené povinné poistenie v nezamestnanosti z dôvodu čerpania rodičovskej dovolenky podľa osobitného predpisu.<sup>45a</sup>)“.
+- Do obdobia poistenia v nezamestnanosti na nárok na dávku v nezamestnanosti sa započítava aj obdobie od 1. februára 2006 do 31. januára 2010, počas ktorého bolo prerušené povinné poistenie v nezamestnanosti z dôvodu čerpania rodičovskej dovolenky podľa osobitného predpisu.<sup>45a</sup>)
+
+- § 293bn
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2011
+
+- Daňové riaditeľstvo Slovenskej republiky je povinné oznámiť Sociálnej poisťovni údaje o jednotlivých obdobiach výkonu zárobkovej činnosti samostatne zárobkovo činnou osobou prvýkrát v roku 2011 za rok 2010 v lehote ustanovenej v § 233 ods. 6.“.
