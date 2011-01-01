@@ -44,6 +44,14 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 
 - § 12 nariadenia vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovujú pravidlá pre fungovanie trhu s elektrinou.“.
 
+- 3. V § 4 ods. 1 sa za písmeno a) vkladá nové písmeno b), ktoré znie:
+
+- „b)
+
+- organizovanie krátkodobého trhu s elektrinou,“.
+
+- Doterajšie písmená b) až e) sa označujú ako písmená c) až f).
+
 - 4. V § 4a ods. 2 úvodnej vete sa slová „úradne osvedčeným odpisom dokladov“ nahrádzajú slovom „dokladmi“.
 
 - 5. V § 4a ods. 2 písmená d) a e) znejú:
@@ -65,6 +73,20 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 - (5)
 
 - Platnosť osvedčenia o odbornej spôsobilosti je päť rokov od jeho vydania a automaticky sa jedenkrát predlžuje o päť rokov, ak sa držiteľ osvedčenia zúčastní na aktualizačnej odbornej príprave, ktorú vykonáva organizácia určená ministerstvom.“.
+
+- 7. V § 5 ods. 2 sa za písmeno a) vkladá nové písmeno b), ktoré znie:
+
+- „b)
+
+- organizovanie krátkodobého trhu s elektrinou,“.
+
+- Doterajšie písmená b) až f) sa označujú ako písmená c) až g).
+
+- 8. § 5 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Povolenie na prenos elektriny a povolenie na organizovanie krátkodobého trhu s elektrinou sa vydáva pre celé územie Slovenskej republiky.“.
 
 - 9. V § 6 ods. 2 písm. b) sa slová „druhého stupňa technického zamerania“ nahrádzajú slovami „a prax podľa § 4a“.
 
@@ -184,10 +206,6 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 
 - zohľadniť pri stanovisku podľa § 11 ods. 4 písm. b) prednostne vplyv energetického zariadenia na výrobu elektriny z obnoviteľných zdrojov energie s celkovým inštalovaným výkonom do 4 MW.“.
 
-- 33. V § 22 ods. 2 písm. h) sa slovo „merania“ nahrádza slovom „meranie“.
-
-- 34. V § 22 ods. 2 písm. k) sa vypúšťajú slová „odchýlky sústavy“.
-
 - 35. V § 22 ods. 2 písm. zc) sa slovo „vypracúvať“ nahrádza slovom „vypracovať“.
 
 - 36. V § 22 ods. 2 písm. zd) sa slovo „vypracovávať“ nahrádza slovom „vypracovať“.
@@ -195,6 +213,10 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 - 37. V § 22 sa odsek 2 dopĺňa písmenami zv) až zz), ktoré znejú:
 
 - „zv) poskytnúť voľnú dennú kapacitu na účely jej alokácie formou aukcie podľa osobitného predpisu,<sup>13a</sup>)
+
+- zw) zabezpečiť meranie elektriny v prenosovej sústave vrátane vyhodnocovania merania a poskytovať organizátorovi krátkodobého trhu s elektrinou namerané a vyhodnotené údaje, ako aj informácie potrebné pre činnosť organizátora krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
+
+- zx) poskytovať súčinnosť organizátorovi krátkodobého trhu s elektrinou pri organizovaní krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
 
 - zy) poskytnúť na požiadanie zúčtovateľovi odchýlok a dotknutým účastníkom trhu s elektrinou údaje potrebné na zúčtovanie odchýlok, opravné zúčtovanie odchýlok a vyhodnotenie organizovaného krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
 
@@ -210,7 +232,11 @@ Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení z
 
 - 40. V § 24 sa odsek 2 dopĺňa písmenami zg) až zj), ktoré znejú:
 
-- „zi) poskytnúť na požiadanie zúčtovateľovi odchýlok a dotknutým účastníkom trhu s elektrinou údaje potrebné na zúčtovanie odchýlok, opravné zúčtovanie odchýlok a vyhodnotenie organizovaného krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
+- „zg) zabezpečiť meranie elektriny v sústave vrátane vyhodnocovania merania a poskytovať namerané a vyhodnotené údaje organizátorovi krátkodobého trhu s elektrinou, ako aj informácie potrebné pre činnosť organizátora krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
+
+- zh) poskytnúť zúčtovateľovi odchýlok druhy typových diagramov s príslušnými parametrami určené na nasledujúci kalendárny rok tri mesiace pred jeho začiatkom,
+
+- zi) poskytnúť na požiadanie zúčtovateľovi odchýlok a dotknutým účastníkom trhu s elektrinou údaje potrebné na zúčtovanie odchýlok, opravné zúčtovanie odchýlok a vyhodnotenie organizovaného krátkodobého trhu s elektrinou, v rozsahu podľa osobitného predpisu,<sup>13a</sup>)
 
 - zj) poskytovať prevádzkovateľovi prenosovej sústavy údaje potrebné na spracovanie návrhov na riešenie rovnováhy medzi ponukou a dopytom, údaje potrebné na účely vypracovania energetickej politiky, správy o výsledkoch monitorovania bezpečnosti dodávok elektriny a dokumentov pre rozvoj sústavy.“.
 
