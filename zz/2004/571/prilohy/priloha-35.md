@@ -1,3 +1,0 @@
-Príloha č. 35 k vyhláške č. 571/2004 Z. z.
-
-- ŽIADOSŤ O VYDANIE OSVEDČENIA O ODBORNEJ SPÔSOBILOSTI [Vzor 35](../assets/6122669e46e5a5b5614404501fc377fc4a448e5f03f88df7c76f30cf29774a5e.pdf)

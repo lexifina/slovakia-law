@@ -1,3 +1,0 @@
-Príloha č. 29 k vyhláške č. 571/2004 Z. z.
-
-- SPRIEVODNÝ LIST REPRODUKČNÉHO MATERIÁLU LESNÝCH DREVÍN [Vzor 29](../assets/7416b55db5bc945afb55966a0644fcaddc6966bc78131d2d284919a44d55bb72.pdf)

@@ -1,3 +1,0 @@
-Príloha č. 3 k vyhláške č. 571/2004 Z. z.
-
-- ZOZNAM VŠETKÝCH LESNÝCH PORASTOV ZARADENÝCH DO FENOTYPOVEJ KATEGÓRIE [Vzor 03](../assets/a950705e9e39e44dfa0da74355fae7cb50dcfea08eeaf52bb003fa50c56433da.pdf)

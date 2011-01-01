@@ -1,3 +1,0 @@
-Príloha č. 27 k vyhláške č. 571/2004 Z. z.
-
-- POTVRDENIE O PÔVODE ZMESI Z VIACERÝCH ZDROJOV [Vzor 27](../assets/ae59e9d1c75a2240082665c44e0ce6244eea4188bed9b52696bb3451c176b30c.pdf)
