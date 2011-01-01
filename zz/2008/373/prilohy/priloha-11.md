@@ -293,3 +293,27 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z. Zoznam preberaných práv
 36. Smernica Komisie 2010/42/EÚ z 28. júna 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť FEN 560 (prášok zo semien senovky gréckej) medzi účinné látky (Ú. v. EÚ L 161, 29. 6. 2010).
 
 37. Smernica Komisie 2010/58/EÚ z 23. augusta 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky iprodiónu (Ú. v. EÚ L 221, 24. 8. 2010).
+
+38. Smernica Komisie 2010/54/EÚ z 20. augusta 2010, ktorou sa mení príloha I k smernici Rady 91/414/EHS s cieľom obnoviť zaradenie azimsulfurónu ako účinnej látky (Ú. v. EÚ L 220, 21. 8. 2010).
+
+39. Smernica Komisie 2010/55/EÚ z 20. augusta 2010, ktorou sa mení príloha I k smernici Rady 91/414/EHS s cieľom obnoviť zaradenie azoxystrobínu ako účinnej látky (Ú. v. EÚ L 220, 21. 8. 2010).
+
+40. Smernica Komisie 2010/56/EÚ z 20. augusta 2010, ktorou sa mení a dopĺňa príloha I k smernici Rady 91/414/EHS s cieľom obnoviť zaradenie prohexadiónu ako účinnej látky (Ú. v. EÚ L 220, 21. 8. 2010).
+
+41. Smernica Komisie 2010/57/EÚ z 26. augusta 2010, ktorou sa mení príloha I k smernici Rady 91/414/EHS s cieľom obnoviť zaradenie imazalilu ako účinnej látky (Ú. v. EÚ L 225, 27. 8. 2010).
+
+42. Smernica Komisie 2010/70/EÚ z 28. októbra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátum skončenia platnosti zaradenia účinnej látky karbendazím do prílohy I (Ú. v. EÚ L 283, 29. 10. 2010).
+
+43. Smernica Komisie 2010/77/EÚ z 10. novembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o dátumy skončenia platnosti zaradenia určitých účinných látok do prílohy I (Ú. v. EÚ L 293, 11. 11. 2010).
+
+44. Smernica Komisie 2010/81/EÚ z 25. novembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky 2-fenylfenol (Ú. v. EÚ L 310, 26. 11. 2010).
+
+45. Smernica Komisie 2010/82/EÚ z 29. novembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o rozšírenie použitia účinnej látky tetrakonazolu (Ú. v. EÚ L 313, 30. 11. 2010).
+
+46. Smernica Komisie 2010/83/EÚ z 30. novembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť napropamid medzi účinné látky (Ú. v. EÚ L 315, 1. 12. 2010).
+
+47. Smernica Komisie 2010/85/EÚ z 2. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fosfid zinočnatý ako účinnú látku a ktorou sa mení a dopĺňa rozhodnutie 2008/941/ES (Ú. v. EÚ L 317, 3. 12. 2010).
+
+48. Smernica Komisie 2010/86/EÚ z 2. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť haloxyfop-P medzi účinné látky (Ú. v. EÚ L 317, 3. 12. 2010).
+
+49. Smernica Komisie 2010/87/EÚ z 3. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenbukonazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie 2008/934/ES (Ú. v. EÚ L 318, 4. 12. 2010).
