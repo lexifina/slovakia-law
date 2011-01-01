@@ -10,6 +10,8 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - 2. V § 2 písm. e) sa slová „letný stredoeurópsky čas“ nahrádzajú slovami „stredoeurópsky letný čas“.
 
+- 3. V § 2 písm. h) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „pre odberné miesta na napäťovej úrovni nízkeho napätia vybavené určeným meradlom s meraním štvrťhodinového činného výkonu s mesačným odpočtom môže byť rezervovaná kapacita zmluvne dojednaná a môže byť nižšia, ako je hodnota kapacity zodpovedajúca amperickej hodnote hlavného ističa.“.
+
 - 4. V § 2 písmeno j) znie:
 
 - „j)
@@ -70,7 +72,131 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - § 5 ods. 2 písm. a) a ods. 5 zákona č. 656/2004 Z. z.“.
 
+- 9. V § 4 odsek 5 znie:
+
+- „(5)
+
+- Prevádzkovateľ prenosovej sústavy denne uverejňuje na svojej internetovej stránke údaje o
+
+- a)
+
+- celkovej výrobe elektriny na vymedzenom území; celkovou výrobou elektriny na vymedzenom území sa rozumie výroba elektriny meraná na svorkách zariadení na výrobu elektriny, ktorá zahŕňa aj vlastnú spotrebu elektriny pri výrobe elektriny,
+
+- b)
+
+- spotrebe elektriny na vymedzenom území; spotrebou elektriny na vymedzenom území sa rozumie množstvo elektriny určené ako súčet celkovej výroby elektriny na vymedzenom území a dovozu elektriny, od ktorého sa odpočíta vývoz elektriny,
+
+- c)
+
+- koncovej spotrebe elektriny na vymedzenom území; koncovou spotrebou elektriny na vymedzenom území sa rozumie vlastná spotreba elektriny prevádzkovateľov sústav, elektrina dodaná koncovým odberateľom elektriny vrátane elektriny vyrobenej v zariadení na výrobu elektriny a dodanej priamym vedením koncovým odberateľom elektriny alebo spotrebovanej pre celkovú vlastnú spotrebu výrobcu elektriny okrem vlastnej spotreby elektriny pri výrobe elektriny v mieste umiestnenia zariadenia na výrobu elektriny,
+
+- d)
+
+- cezhraničných tokoch výkonov vrátane cezhraničných tokov distribučnou sústavou,
+
+- e)
+
+- plánovaných výmenách výkonov a skutočných výmenách výkonov.“.
+
+- 10. § 4 sa dopĺňa odsekmi 6 až 10, ktoré znejú:
+
+- „(6)
+
+- Prevádzkovateľ regionálnej distribučnej sústavy odovzdá prevádzkovateľovi prenosovej sústavy denne do 12:00 h súhrnné údaje v MWh za predchádzajúci deň o množstve vlastnej spotreby elektriny, skutočnom množstve elektriny distribuovanej koncovým odberateľom elektriny pripojeným do jeho sústavy a skutočných cezhraničných tokoch elektriny na základe údajov z priebehových meraní odberných miest a hodnôt z typových diagramov odberných miest s presnosťou na tri desatinné miesta a súhrnné údaje podľa odseku 9. Údaje o množstve distribuovanej elektriny v MWh cez odberné miesta umiestnené na rozhraní regionálnej distribučnej sústavy a miestnej distribučnej sústavy prevádzkovateľ regionálnej distribučnej sústavy do súhrnných údajov podľa prvej vety nezapočíta. Prevádzkovateľ miestnej distribučnej sústavy oznámi prevádzkovateľovi regionálnej distribučnej sústavy, do ktorej je pripojený, že podniká v elektroenergetike, do siedmich dní po nadobudnutí právoplatnosti povolenia na distribúciu elektriny. Prevádzkovateľ miestnej distribučnej sústavy oznamuje prevádzkovateľovi regionálnej distribučnej sústavy, do ktorej je pripojený, každú zmenu v povolení na distribúciu elektriny do siedmich dní po nadobudnutí právoplatnosti zmeny v povolení na distribúciu elektriny.
+
+- (7)
+
+- Prevádzkovateľ miestnej distribučnej sústavy odovzdá prevádzkovateľovi prenosovej sústavy a prevádzkovateľovi regionálnej distribučnej sústavy denne do 12:00 h súhrnné údaje v MWh za predchádzajúci deň o množstve vlastnej spotreby elektriny, skutočnom množstve elektriny distribuovanej koncovým odberateľom elektriny pripojeným do jeho sústavy a skutočných cezhraničných tokoch elektriny na základe údajov z priebehových meraní odberných miest a hodnôt z typových diagramov odberných miest s presnosťou na tri desatinné miesta a súhrnné údaje podľa odseku 9. Údaje o množstve distribuovanej elektriny v MWh cez odberné miesta umiestnené na rozhraní nadradenej miestnej distribučnej sústavy a miestnej distribučnej sústavy prevádzkovateľ nadradenej miestnej distribučnej sústavy do súhrnných údajov podľa prvej vety nezapočíta.
+
+- (8)
+
+- Výrobca elektriny, ktorý vyrába elektrinu zo slnečnej energie alebo z veternej energie s celkovým inštalovaným výkonom zariadenia na výrobu elektriny viac ako 0,1 MW, a výrobca elektriny s celkovým inštalovaným výkonom zariadenia na výrobu elektriny viac ako 1 MW odovzdajú prevádzkovateľovi prenosovej sústavy a prevádzkovateľovi distribučnej sústavy, do ktorej je zariadenie na výrobu elektriny pripojené, denne do 12:00 h údaje v MWh za predchádzajúci deň osobitne za každé zariadenie na výrobu elektriny
+
+- a)
+
+- s meraním elektriny na svorkách zariadenia na výrobu elektriny<sup>7a</sup>) o
+
+- 1.
+
+- vyrobenej elektrine meranej na svorkách generátorov; pri zariadeniach vyrábajúcich elektrinu zo slnečnej energie súhrnne za celé zariadenie výrobcu elektriny meranej na svorkách meniča na strane striedavého napätia,
+
+- 2.
+
+- množstve vlastnej spotreby elektriny pri výrobe elektriny,
+
+- 3.
+
+- ostatnej vlastnej spotrebe elektriny,
+
+- 4.
+
+- množstve vyrobenej elektriny dodanej priamym vedením koncovým odberateľom elektriny,
+
+- b)
+
+- bez merania elektriny na svorkách zariadenia na výrobu elektriny<sup>7a</sup>) o
+
+- 1.
+
+- vyrobenej elektrine meranej určeným meradlom, ktorým je vybavené odberné miesto výrobcu elektriny,
+
+- 2.
+
+- množstve vlastnej spotreby elektriny pri výrobe elektriny.
+
+- (9)
+
+- Výrobca elektriny, ktorý vyrába elektrinu zo slnečnej energie alebo z veternej energie s celkovým inštalovaným výkonom zariadenia na výrobu elektriny najviac 0,1 MW, a výrobca elektriny s celkovým inštalovaným výkonom zariadenia na výrobu elektriny najviac 1 MW okrem výrobcu elektriny zo slnečnej energie alebo veternej energie odovzdajú prevádzkovateľovi distribučnej sústavy, do ktorej sú pripojení, denne do 10:00 h súhrnné údaje v MWh za predchádzajúci deň alebo do 25. dňa v mesiaci predpokladané údaje v MWh za každý deň nasledujúceho mesiaca, a to osobitne za každé zariadenie na výrobu elektriny
+
+- a)
+
+- s meraním elektriny na svorkách zariadenia na výrobu elektriny<sup>7a</sup>) o
+
+- 1.
+
+- vyrobenej elektrine meranej na svorkách generátorov; pri zariadeniach vyrábajúcich elektrinu zo slnečnej energie súhrnne za celé zariadenie výrobcu elektriny meranej na svorkách meniča na strane striedavého napätia,
+
+- 2.
+
+- množstve vlastnej spotreby elektriny pri výrobe elektriny,
+
+- 3.
+
+- ostatnej vlastnej spotrebe elektriny,
+
+- 4.
+
+- množstve vyrobenej elektriny dodanej priamym vedením koncovým odberateľom elektriny,
+
+- b)
+
+- bez merania elektriny na svorkách zariadenia na výrobu elektriny<sup>7a</sup>) o
+
+- 1.
+
+- vyrobenej elektrine meranej určeným meradlom, ktorým je vybavené odberné miesto výrobcu elektriny,
+
+- 2.
+
+- množstve vlastnej spotreby elektriny pri výrobe elektriny.
+
+- (10)
+
+- Postup pre účastníkov trhu, ktorí zasielajú prevádzkovateľovi prenosovej sústavy údaje podľa odsekov 6 až 9, je uvedený v prevádzkovom poriadku prevádzkovateľa prenosovej sústavy.“.
+
+- Poznámka pod čiarou k odkazu 7a znie:
+
+- „7a)
+
+- § 35a zákona č. 656/2004 Z. z. v znení zákona č. 309/2009 Z. z.“.
+
 - 11. V § 5 ods. 2 sa slovo „sedem“ nahrádza číslom „14“.
+
+- 12. § 5 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Meranie v prenosovej sústave vrátane vyhodnocovania merania na účely poskytovania údajov organizátorovi krátkodobého trhu s elektrinou zabezpečí prevádzkovateľ prenosovej sústavy.“.
 
 - 13. V § 6 odsek 4 znie:
 
@@ -102,9 +228,17 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - 18. § 7 sa dopĺňa odsekmi 5 až 7, ktoré znejú:
 
-- „(6)
+- „(5)
 
-- Prevádzkovateľ distribučnej sústavy poskytuje raz ročne bezodplatne odberateľovi elektriny na základe žiadosti odberateľa elektriny údaje o odbere elektriny za každú hodinu v štvrťhodinovom rozlíšení v odbernom mieste s meraním typu A alebo B za predchádzajúcich 12 kalendárnych mesiacov elektronicky v tabuľkovom editore, a to najneskôr do desiatich pracovných dní odo dňa doručenia žiadosti odberateľa elektriny.“.
+- Prevádzkovateľ distribučnej sústavy oznamuje začiatok plánovaného obmedzenia alebo prerušenia distribúcie elektriny a dobu trvania obmedzenia alebo prerušenia distribúcie elektriny do odberných miest s meraním typu A a B dodávateľovi elektriny, ktorý dodáva elektrinu do dotknutých odberných miest pripojených do jeho distribučnej sústavy. Dodávateľovi elektriny sa obmedzenie alebo prerušenie distribúcie elektriny oznamuje elektronicky najneskôr päť dní pred začiatkom plánovaného obmedzenia alebo prerušenia distribúcie elektriny.
+
+- (6)
+
+- Prevádzkovateľ distribučnej sústavy poskytuje raz ročne bezodplatne odberateľovi elektriny na základe žiadosti odberateľa elektriny údaje o odbere elektriny za každú hodinu v štvrťhodinovom rozlíšení v odbernom mieste s meraním typu A alebo B za predchádzajúcich 12 kalendárnych mesiacov elektronicky v tabuľkovom editore, a to najneskôr do desiatich pracovných dní odo dňa doručenia žiadosti odberateľa elektriny.
+
+- (7)
+
+- Meranie v distribučnej sústave vrátane vyhodnocovania merania na účely poskytovania údajov organizátorovi krátkodobého trhu s elektrinou zabezpečí prevádzkovateľ distribučnej sústavy.“.
 
 - 19. V § 8 ods. 2 sa slová „koncový dodávateľ elektriny pre domácnosť“ nahrádzajú slovami „dodávateľ poslednej inštancie“ a vypúšťajú sa slová „v domácnosti“.
 
@@ -182,7 +316,11 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - (10)
 
-- Ak prevádzkovateľ regionálnej distribučnej sústavy preniesol zodpovednosť za odchýlku na iný subjekt zúčtovania, je tento subjekt zúčtovania povinný prevziať zodpovednosť za odchýlku výrobcu elektriny z obnoviteľných zdrojov energie a vysoko účinnou kombinovanou výrobou podľa osobitného predpisu.<sup>18a</sup>) Podmienkou prevzatia zodpovednosti za odchýlku výrobcu elektriny podľa prvej vety je príslušnosť výrobcu elektriny a prevádzkovateľa regionálnej distribučnej sústavy k tej istej bilančnej skupine a dodávka vyrobenej elektriny do regionálnej distribučnej sústavy na základe zmluvy o dodávke vyrobenej elektriny na účely pokrytia strát v regionálnej distribučnej sústave.“.
+- Ak prevádzkovateľ regionálnej distribučnej sústavy preniesol zodpovednosť za odchýlku na iný subjekt zúčtovania, je tento subjekt zúčtovania povinný prevziať zodpovednosť za odchýlku výrobcu elektriny z obnoviteľných zdrojov energie a vysoko účinnou kombinovanou výrobou podľa osobitného predpisu.<sup>18a</sup>) Podmienkou prevzatia zodpovednosti za odchýlku výrobcu elektriny podľa prvej vety je príslušnosť výrobcu elektriny a prevádzkovateľa regionálnej distribučnej sústavy k tej istej bilančnej skupine a dodávka vyrobenej elektriny do regionálnej distribučnej sústavy na základe zmluvy o dodávke vyrobenej elektriny na účely pokrytia strát v regionálnej distribučnej sústave.
+
+- (11)
+
+- Výrobca elektriny poskytuje zúčtovateľovi odchýlok technické údaje o dodávke elektriny potrebné na vyhodnotenie odchýlok podľa prevádzkového poriadku zúčtovateľa odchýlky.“.
 
 - Poznámka pod čiarou k odkazu 18a znie:
 
@@ -212,19 +350,47 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - 33. V § 14 ods. 16 sa slová „90 kalendárnych dní“ nahrádzajú slovami „troch mesiacov“.
 
+- 34. V § 15 ods. 1 sa vypúšťajú slová „a externé realizácie vývozu elektriny z vymedzeného územia a dovozu elektriny na vymedzené územie prostredníctvom prenosovej sústavy“.
+
 - 35. V § 15 odsek 8 znie:
 
 - „(8)
 
 - Hodnoty dodávok elektriny a odberov elektriny na cezhraničných profiloch akceptované systémom prevádzkovateľa prenosovej sústavy a hodnoty dodávok elektriny a odberov elektriny zobchodované prostredníctvom organizovaného krátkodobého trhu s elektrinou sú pri uzávierke dennej registrácie diagramov zaradené do systému zúčtovateľa odchýlok.“.
 
+- 36. V § 15 ods. 10 sa slová „prevádzkovateľa prenosovej sústavy“ nahrádzajú slovami „organizátora krátkodobého trhu s elektrinou“.
+
+- 37. V § 16 odseky 3 a 4 znejú:
+
+- „(3)
+
+- Prevádzkovateľ sústavy odovzdá za subjekty zúčtovania pripojené do jeho sústavy zúčtovateľovi odchýlok denne do 9:00 h a príslušnému subjektu zúčtovania denne do 9:30 h údaje o skutočnom množstve odobratej elektriny a odovzdanej elektriny za každú obchodnú hodinu predchádzajúceho dňa v štvrťhodinovom rozlíšení na základe meraných hodnôt v MW s presnosťou na tri desatinné miesta.
+
+- (4)
+
+- Prevádzkovateľ sústavy odovzdá údaje podľa odseku 3 súhrnne podľa jednotlivých bilančných skupín v členení podľa typu merania A, B a C vrátane zvyškového diagramu. Údaje zahŕňajú hodnoty odberov elektriny odberateľov elektriny s priebehovým meraním a hodnoty z typových diagramov odberu, a to osobitne za dodávku elektriny a osobitne za odber elektriny.“.
+
 - 38. V § 16 ods. 8 sa slová „prevádzkovateľom prenosovej sústavy“ nahrádzajú slovami „zúčtovateľom odchýlok“.
+
+- 39. V § 16 ods. 9 sa slová „prevádzkovateľa prenosovej sústavy“ nahrádzajú slovami „organizátora krátkodobého trhu s elektrinou“.
 
 - 40. V § 16 odsek 11 znie:
 
 - „(11)
 
 - Ak platba vypočítaná podľa odseku 7 písm. a) je záporné číslo, platbu uhradí zúčtovateľ odchýlok subjektu zúčtovania; ak platba vypočítaná podľa odseku 7 písm. b) je záporné číslo, platbu uhradí zúčtovateľ odchýlok poskytovateľom regulačnej elektriny; ak platba vypočítaná podľa odseku 7 písm. a) a b) je kladné číslo, platbu uhradí subjekt zúčtovania zúčtovateľovi odchýlok.“.
+
+- 41. V § 16 sa za odsek 11 vkladajú nové odseky 12 a 13, ktoré znejú:
+
+- „(12)
+
+- Podmienky vysporiadania dodávky regulačnej elektriny sa určia v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.
+
+- (13)
+
+- Údaje potrebné na zúčtovanie odchýlok a opravné zúčtovanie odchýlok na požiadanie poskytuje prevádzkovateľ sústavy zúčtovateľovi odchýlok a dotknutým účastníkom trhu s elektrinou.“.
+
+- Doterajšie odseky 12 až 18 sa označujú ako odseky 14 až 20.
 
 - 42. V § 16 odsek 15 znie:
 
@@ -252,6 +418,16 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - veľkosť odchýlky sústavy a zúčtovaciu cenu za odchýlku.“.
 
+- 43. § 16 sa dopĺňa odsekmi 21 a 22, ktoré znejú:
+
+- „(21)
+
+- Zúčtovateľ odchýlok na svojej internetovej stránke uverejňuje do dvadsiateho dňa po skončení kalendárneho mesiaca informáciu o nepresnosti v údajoch medzi údajmi z mesačných vyhodnotení a údajmi z denných vyhodnotení odchýlky v členení podľa jednotlivých prevádzkovateľov sústav v percentách za jednotlivé kalendárne dni. Percento nepresnosti sa určí podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
+
+- (22)
+
+- V obchodných hodinách, v ktorých sa uplatňujú obmedzujúce opatrenia v elektroenergetike vyhlásené dispečingom prevádzkovateľa prenosovej sústavy, sa vyhodnotenie odchýlky, zúčtovanie odchýlok a regulačnej elektriny zúčtovateľom odchýlok nevykoná.“.
+
 - 44. V § 17 ods. 2 sa slová „Dodávateľ elektriny“ nahrádzajú slovami „Prevádzkovateľ distribučnej sústavy“.
 
 - 45. V § 17 odsek 3 znie:
@@ -259,6 +435,160 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 - „(3)
 
 - Typový diagram odberu určený podľa odseku 2 oznámi prevádzkovateľ distribučnej sústavy príslušnému dodávateľovi elektriny, do ktorého bilančnej skupiny odberné miesto patrí.“.
+
+- 46. § 17 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Prevádzkovateľ distribučnej sústavy poskytne organizátorovi krátkodobého trhu s elektrinou druhy typových diagramov s príslušnými parametrami.“.
+
+- 47. Za § 17 sa vkladajú § 17a až 17d, ktoré vrátane nadpisov znejú:
+
+- „Organizovanie krátkodobého trhu s elektrinou
+
+- § 17a
+
+- Podmienky účasti na krátkodobom trhu s elektrinou
+
+- (1)
+
+- Organizovaný krátkodobý trh s elektrinou sa uskutočňuje na základe zmluvy o prístupe a podmienkach účasti na organizovanom krátkodobom trhu s elektrinou uzavretej medzi organizátorom krátkodobého trhu s elektrinou a účastníkom krátkodobého trhu s elektrinou po zložení finančnej zábezpeky účastníkom krátkodobého trhu s elektrinou najneskôr päť dní pred účinnosťou zmluvy a po splnení ďalších obchodných podmienok uvedených v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.
+
+- (2)
+
+- Účastníkom krátkodobého trhu s elektrinou môže byť len subjekt zúčtovania s platnou zmluvou o zúčtovaní odchýlky.
+
+- (3)
+
+- Účastník krátkodobého trhu s elektrinou zasiela organizátorovi krátkodobého trhu s elektrinou údaje potrebné na vyhodnotenie, zúčtovanie a vysporiadanie krátkodobého trhu s elektrinou a informácie potrebné na činnosť organizátora krátkodobého trhu s elektrinou.
+
+- § 17b
+
+- Registrácia objednávok a párovanie objednávok
+
+- (1)
+
+- Objednávky účastníka krátkodobého trhu s elektrinou obsahujú ponuku na predaj elektriny alebo dopyt na nákup elektriny.
+
+- (2)
+
+- Účastník krátkodobého trhu s elektrinou zadáva objednávky najneskôr do času určeného prevádzkovým poriadkom organizátora krátkodobého trhu s elektrinou.
+
+- (3)
+
+- Účastník krátkodobého trhu s elektrinou doručí objednávky organizátorovi krátkodobého trhu s elektrinou v čase, spôsobom a vo formáte v súlade s prevádzkovým poriadkom organizátora krátkodobého trhu s elektrinou a platnými pravidlami informačného systému organizátora krátkodobého trhu s elektrinou.
+
+- (4)
+
+- Párovanie objednávok sa vykonáva v režime
+
+- a)
+
+- koordinovaného párovania, pri ktorom prebieha spoločné párovanie obchodných oblastí s využitím definovanej hodnoty prenosovej kapacity integrovaných trhov,
+
+- b)
+
+- samostatného párovania, pri ktorom prebieha samostatné párovanie slovenskej obchodnej oblasti.
+
+- § 17c
+
+- Vyhodnotenie, zúčtovanie a vysporiadanie denného trhu
+
+- (1)
+
+- Vyhodnotenie, zúčtovanie a vysporiadanie denného trhu sa vykonáva denne a mesačne v súlade s prevádzkovým poriadkom organizátora krátkodobého trhu s elektrinou.
+
+- (2)
+
+- Organizátor krátkodobého trhu s elektrinou sprístupňuje účastníkom krátkodobého trhu s elektrinou vyhodnotenie denného trhu prostredníctvom informačného systému organizátora krátkodobého trhu s elektrinou.
+
+- (3)
+
+- Organizátor krátkodobého trhu s elektrinou uverejňuje denne na svojej internetovej stránke
+
+- a)
+
+- hodnotu prenosovej kapacity integrovaných trhov aktuálneho obchodného dňa,
+
+- b)
+
+- aktualizovaný zoznam registrovaných účastníkov krátkodobého trhu s elektrinou,
+
+- c)
+
+- celkové množstvo nákupu elektriny ponúkané v každej obchodnej hodine v MWh,
+
+- d)
+
+- celkové množstvo predaja elektriny dopytované v každej obchodnej hodine v MWh,
+
+- e)
+
+- množstvo nákupu elektriny zobchodované v každej obchodnej hodine v MWh,
+
+- f)
+
+- množstvo predaja elektriny zobchodované v každej obchodnej hodine v MWh,
+
+- g)
+
+- rozdiel množstva nákupu a predaja elektriny zobchodovaného v každej obchodnej hodine v MWh,
+
+- h)
+
+- cenu elektriny v obchodnej oblasti pre každú obchodnú hodinu v eurách,
+
+- i)
+
+- agregované krivky nákupu a predaja elektriny ponúkanej a požadovanej v každej obchodnej hodine vrátane identifikácie úspešne zobchodovaného množstva a identifikácie dovozov a vývozov,
+
+- j)
+
+- cenové indexy pre základné pásmo, ktoré sa určuje zo všetkých obchodných hodín, a špičkové pásmo, ktoré sa určuje z obchodných hodín, ktoré pokrývajú čas v intervale od 8:00 h do 20:00 h, ktoré sa určia ako aritmetický priemer cien obchodných hodín.
+
+- (4)
+
+- Organizátor krátkodobého trhu s elektrinou môže z dôvodu technických problémov pozastaviť alebo zrušiť obchodovanie na dennom trhu podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou.
+
+- (5)
+
+- Prevádzkovateľ prenosovej sústavy poskytuje organizátorovi krátkodobého trhu s elektrinou súčinnosť pri organizovaní krátkodobého trhu s elektrinou.
+
+- (6)
+
+- Prevádzkovateľ prenosovej sústavy a prevádzkovateľ distribučnej sústavy poskytujú organizátorovi krátkodobého trhu s elektrinou namerané a vyhodnotené údaje a informácie potrebné na činnosť organizátora krátkodobého trhu s elektrinou.
+
+- (7)
+
+- Prevádzkovateľ prenosovej sústavy poskytne na požiadanie organizátorovi krátkodobého trhu s elektrinou údaje potrebné na vyhodnotenie organizovaného krátkodobého trhu s elektrinou.
+
+- § 17d
+
+- Prevádzkový poriadok organizátora krátkodobého trhu s elektrinou musí obsahovať aj
+
+- a)
+
+- pravidlá informačného systému,
+
+- b)
+
+- proces párovania objednávok,
+
+- c)
+
+- podmienky zloženia finančnej zábezpeky, spôsob určenia výšky finančnej zábezpeky účastníka krátkodobého trhu s elektrinou a podmienky a lehoty jej vrátenia,
+
+- d)
+
+- spôsob overovania a registrácie objednávok,
+
+- e)
+
+- postup pri reklamáciách,
+
+- f)
+
+- spôsob registrácie účastníkov krátkodobého trhu s elektrinou.“.
 
 - 48. V § 18 ods. 4 sa slová „výrobných zariadení výrobcu elektriny“ nahrádzajú slovami „zariadení na výrobu elektriny“.
 
@@ -279,6 +609,8 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 - Dodávateľ elektriny do 1. septembra 2010 zosúladí zmluvy o dodávke elektriny a zmluvy o združenej dodávke elektriny uzatvorené na neurčitý čas pred 1. júnom 2010 s § 8 ods. 11.“.
 
 - 51. Slovo „Sk“ sa v celom texte nariadenia vlády nahrádza slovom „euro“ v príslušnom tvare.
+
+- 52. V prílohe č. 1 sa slová „podľa prevádzkového poriadku prevádzkovateľa prenosovej sústavy“ nahrádzajú slovami „podľa prevádzkového poriadku organizátora krátkodobého trhu s elektrinou“.
 
 - 53. V prílohe č. 2 časti B sa za odsek 5 vkladá nový odsek 6, ktorý znie:
 
@@ -320,7 +652,31 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - 62. V prílohe č. 4 časti D ods. 2 sa slová „dodávateľ elektriny“ nahrádzajú slovami „prevádzkovateľ distribučnej sústavy“.
 
+- 63. V prílohe č. 4 časti E odsek 1 znie:
+
+- „(1)
+
+- Prevádzkovateľ sústavy odovzdá zúčtovateľovi odchýlok a príslušnému subjektu zúčtovania za každú hodinu v štvrťhodinovom rozlíšení skutočné namerané hodnoty spotreby elektriny, ak ide o odberné miesta s meraním typu A, alebo určené hodnoty spotreby elektriny, ak ide o odberné miesta s meraním typu B alebo C vrátane podielu na zvyškovom diagrame, za odberné miesta subjektu zúčtovania vrátane odberných miest účastníkov trhu s elektrinou, za ktoré subjekt zúčtovania prevzal zodpovednosť za odchýlku a ktoré sú pripojené do príslušnej sústavy v členení podľa typu merania A, B a C vrátane podielu na zvyškovom diagrame. V skupine merania typu A uvádza prevádzkovateľ sústavy skutočné namerané hodnoty. Ak prevádzkovateľ sústavy nemá skutočné namerané hodnoty k dispozícii, uvedie to k uvádzaným údajom.“.
+
+- 64. V prílohe č. 4 časti E ods. 4 sa slovo „ročnej“ nahrádza slovom „polročnej“.
+
+- 65. V prílohe č. 4 časti F odsek 1 znie:
+
+- „(1)
+
+- Na vysporiadanie zúčtovacieho obdobia odovzdá prevádzkovateľ prenosovej sústavy a prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok skutočné hodnoty odberu a dodávok elektriny alebo náhradné hodnoty.“.
+
 - 66. V prílohe č. 4 časti F ods. 2 sa slová „subjektov zúčtovania“ nahrádzajú slovami „bilančných skupín“.
+
+- 67. V prílohe č. 4 sa časť F dopĺňa odsekmi 5 a 6, ktoré znejú:
+
+- „(5)
+
+- Pre potreby mesačného vyhodnotenia odchýlok odovzdá prevádzkovateľ distribučnej sústavy a prevádzkovateľ prenosovej sústavy zúčtovateľovi odchýlok náhradné hodnoty odberu a dodávok elektriny najneskôr do piateho kalendárneho dňa nasledujúceho mesiaca.
+
+- (6)
+
+- Na účely konečného vyhodnotenia odchýlok odovzdá prevádzkovateľ distribučnej sústavy a prevádzkovateľ prenosovej sústavy zúčtovateľovi odchýlok a príslušnému subjektu zúčtovania skutočné hodnoty odberu elektriny a dodávok elektriny najneskôr do dvadsiateho kalendárneho dňa ôsmeho mesiaca po skončení príslušného obdobia.“.
 
 - 68. V prílohe č. 4 časti G odsek 3 znie:
 
@@ -328,4 +684,100 @@ Nariadenie vlády Slovenskej republiky č. 317/2007 Z. z., ktorým sa ustanovuj�
 
 - Zmenu priradenia odberného miesta koncového odberateľa elektriny s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B ods. 1 písm. c) k inému druhu typového diagramu odberu elektriny vykonáva prevádzkovateľ distribučnej sústavy, do ktorej je koncový odberateľ elektriny pripojený. Prevádzkovateľ distribučnej sústavy uskutoční bezodplatne odpočet alebo prepočet spotreby elektriny k dátumu zmeny typového diagramu a oznámi dodávateľovi elektriny deň zmeny priradenia typového diagramu na odbernom mieste a údaj o spotrebe elektriny na odbernom mieste ku dňu zmeny typového diagramu.“.
 
-- „Príloha č. 5 k nariadeniu vlády č. 317/2007 Z. z.“.
+- 69. Príloha č. 5 vrátane nadpisu znie:
+
+- „Príloha č. 5 k nariadeniu vlády č. 317/2007 Z. z.
+
+- VYHODNOTENIE, ZÚČTOVANIE A VYSPORIADANIE ODCHÝLKY A REGULAČNEJ ELEKTRINY
+
+- (1)
+
+- Zúčtovateľ odchýlok vykoná predbežné denné vyhodnotenie odchýlky subjektu zúčtovania a oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny výsledky denného vyhodnotenia do 10:00 h za predchádzajúci deň na základe registrácie denných diagramov podľa § 15 a vyhodnotenia regulačnej elektriny podľa § 8.
+
+- (2)
+
+- Zúčtovateľ odchýlok na svojej internetovej stránke uverejňuje denne do 10:00 h predbežné denné vyhodnotenie odchýlky a obstaranej kladnej a zápornej regulačnej elektriny, veľkosť odchýlky sústavy, súčet kladných a záporných odchýlok, celkové náklady na obstaranie regulačnej elektriny, zúčtovaciu cenu odchýlky a viacnáklady na obstaranie regulačnej elektriny.
+
+- (3)
+
+- Zúčtovateľ odchýlok vykoná do dvoch pracovných dní od ukončenia prvej dekády a druhej dekády daného mesiaca dekádne vyhodnotenie odchýlky a obstaranej regulačnej elektriny za predchádzajúcu dekádu, ktoré zohľadňuje spresnené denné hodnoty meraní a vyhodnotení obstaranej regulačnej elektriny.
+
+- (4)
+
+- Zúčtovateľ odchýlok oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny dekádne vyhodnotenie a sprístupní ho na svojej internetovej stránke do 16:00 h v deň vyhodnotenia podľa odseku 3.
+
+- (5)
+
+- Zúčtovateľ odchýlok vysporiada zálohové platby za odchýlky so subjektom zúčtovania na základe dekádneho vyhodnotenia podľa odseku 3.
+
+- (6)
+
+- Subjekt zúčtovania môže reklamovať denné vyhodnotenie podľa odseku 1 alebo dekádne vyhodnotenie podľa odseku 3 najneskôr do piatich dní po skončení príslušného mesiaca.
+
+- (7)
+
+- Zúčtovateľ odchýlok vykoná každý mesiac do desiateho kalendárneho dňa (ďalej len „deň vyhodnotenia“) mesačné vyhodnotenie všetkých hodnôt odchýlky a obstaranej regulačnej elektriny za predchádzajúci mesiac, ktoré zohľadňuje
+
+- a)
+
+- opravené hodnoty z merania a vyhodnotenia regulačnej elektriny odovzdané prevádzkovateľmi sústav,
+
+- b)
+
+- mesačné odpočty skutočných hodnôt odberných miest a hodnoty prepočítaných typových diagramov odberu odovzdané prevádzkovateľmi sústav,
+
+- c)
+
+- korigované hodnoty, ktoré boli predmetom reklamácie.
+
+- (8)
+
+- Zúčtovateľ odchýlok oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny mesačné vyhodnotenie a sprístupní ho vo svojom informačnom systéme do 16:00 h v deň vyhodnotenia podľa odseku 7.
+
+- (9)
+
+- Zúčtovateľ odchýlok vysporiada platby za odchýlky so subjektmi zúčtovania a platby za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny na základe mesačného vyhodnotenia podľa odseku 7.
+
+- (10)
+
+- Subjekt zúčtovania môže reklamovať mesačné vyhodnotenie podľa odseku 7 najneskôr do 20 kalendárnych dní odo dňa doručenia vyhodnotenia zúčtovateľom odchýlok.
+
+- (11)
+
+- Zúčtovateľ odchýlok postúpi reklamáciu mesačného vyhodnotenia subjektu zúčtovania na príslušných prevádzkovateľov sústav, ktorí preveria reklamovanú hodnotu a do 15 kalendárnych dní od prijatia reklamácie zašlú vyjadrenie a hodnoty pre opravné mesačné vyhodnotenie zúčtovateľovi odchýlok.
+
+- (12)
+
+- Ak bola reklamácia mesačného vyhodnotenia uznaná, zúčtovateľ odchýlok vykoná do 30 kalendárnych dní odo dňa doručenia reklamácie podľa odseku 10 opravné mesačné vyhodnotenie všetkých hodnôt odchýlky a obstaranej regulačnej elektriny za príslušný mesiac.
+
+- (13)
+
+- Zúčtovateľ odchýlok oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny opravené mesačné vyhodnotenie a sprístupní ho vo svojom informačnom systéme do 16:00 h v deň vyhodnotenia podľa odseku 12.
+
+- (14)
+
+- Na základe opraveného mesačného vyhodnotenia podľa odseku 12 zúčtovateľ odchýlok, subjekt zúčtovania a dodávateľ regulačnej elektriny vyhotovia do piatich kalendárnych dní dobropisy alebo ťarchopisy k vysporiadaným platbám podľa odseku 9 za odchýlky so subjektmi zúčtovania a k platbám za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny.
+
+- (15)
+
+- Zúčtovateľ odchýlok vykoná za každý mesiac, a to najneskôr do ôsmich mesiacov po jeho skončení, konečný prepočet a konečné vyhodnotenie odchýlky, ktoré zohľadňuje typové diagramy odberov jednotlivých skupín odberateľov elektriny bez priebehového merania opravené o ich skutočnú ročnú spotrebu podľa ročných odpočtov nameraných hodnôt.
+
+- (16)
+
+- Zúčtovateľ odchýlok oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny konečné vyhodnotenie odchýlky a sprístupní ho vo svojom informačnom systéme v deň vyhodnotenia odchýlky podľa odseku 15.
+
+- (17)
+
+- Subjekt zúčtovania môže konečné vyhodnotenie odchýlky reklamovať do 15 dní odo dňa oznámenia konečného vyhodnotenia odchýlky. Zúčtovateľ odchýlok reklamáciu vybaví do jedného mesiaca odo dňa doručenia reklamácie konečného vyhodnotenia odchýlky.
+
+- (18)
+
+- Zúčtovateľ odchýlok postúpi reklamáciu konečného vyhodnotenia odchýlky subjektu zúčtovania na príslušných prevádzkovateľov sústav, ktorí preveria reklamovanú hodnotu a do 15 kalendárnych dní odo dňa postúpenia reklamácie zašlú vyjadrenie a hodnoty pre upravené konečné vyhodnotenie zúčtovateľovi odchýlok.
+
+- (19)
+
+- Zúčtovateľ odchýlok uznané reklamácie zapracuje do upraveného konečného vyhodnotenia odchýlky, oznámi to subjektom zúčtovania a sprístupní ho vo svojom informačnom systéme do 16:00 h v deň vyhodnotenia odchýlky. Reklamácia upraveného konečného vyhodnotenia odchýlky nie je možná.
+
+- (20)
+
+- Na základe upraveného konečného vyhodnotenia odchýlky podľa odseku 19 zúčtovateľ odchýlok, subjekt zúčtovania a dodávateľ regulačnej elektriny vyhotovia do piatich dní dobropisy alebo ťarchopisy k vysporiadaným platbám podľa odseku 9 alebo 14.“.
