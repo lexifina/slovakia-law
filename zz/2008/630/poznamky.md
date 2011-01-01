@@ -26,6 +26,8 @@
 
 - 12) § 115 zákona č. 245/2008 Z. z.
 
+- 12a) § 116 zákona č. 245/2008 Z. z.
+
 - 13) § 5 ods. 6 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 133 zákona č. 245/2008 Z. z.
@@ -37,3 +39,5 @@
 - 17) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
 
 - 18) § 2 ods. 4 nariadenia vlády Slovenskej republiky č. 238/2004 Z. z. o rozsahu vyučovacej činnosti a výchovnej činnosti pedagogických zamestnancov.
+
+- 19) § 3 ods. 3 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.

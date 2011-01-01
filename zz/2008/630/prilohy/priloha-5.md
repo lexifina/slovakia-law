@@ -1,13 +1,25 @@
 Príloha č. 5 k nariadeniu vlády č. 630/2008 Z. z.
 
-- Kategórie školských zariadení Druh školského zariadenia § 7ods. 1 | Kategória
+- Kategórie školských zariadení Tabuľka č. 1 Kategórie školských zariadení podľa § 7 ods. 1
 
-- školský klub detí | - školský klub detí
+- | Druh školského zariadenia | Kategória
 
-- školské hospodárstvo a stredisko odbornej praxe | - stredisko odbornej praxe - školské hospodárstvo
+- 1 | školský klub detí | školský klub detí
 
-- školské stredisko záujmovej činnosti | - školské stredisko záujmovej činnosti
+- 2 | školské hospodárstvo a stredisko odbornej praxe | školské hospodárstvo
 
-- Druh školského zariadenia § 8 ods. 1 | Kategória
+- | | stredisko odbornej praxe
 
-- Špeciálne výchovné zariadenia | - diagnostické centrum - reedukačné centrum - liečebno-výchovné sanatórium.
+- 3 | školské stredisko záujmovej činnosti | školské stredisko záujmovej činnosti
+
+- 4 | centrum voľného času | centrum voľného času
+
+- Tabuľka č. 2 Kategórie školských zariadení podľa § 8 ods. 1
+
+- Druh školského zariadenia | Kategória
+
+- špeciálne školské zariadenia | diagnostické centrum
+
+- | reedukačné centrum
+
+- | liečebno-výchovné sanatórium
