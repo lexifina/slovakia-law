@@ -32,7 +32,9 @@
 
 - f) v prípade potreby pomernú výšku odpočítateľnej dane podľa § 55a ods. 3 vyjadrenú v percentách,
 
-- g) číselný kód podľa odseku 4, ktorý prislúcha nadobudnutému tovaru a službe, a pri použití číselného kódu 10 druh nadobudnutého tovaru a služby.
+- g) číselný kód podľa odseku 4, ktorý prislúcha nadobudnutému tovaru a službe, a pri použití číselného kódu 10 druh nadobudnutého tovaru a služby,
+
+- h) bližšie určujúci kód podľa osobitného predpisu<sup>27ba</sup>) pri použití číselného kódu 9 podľa odseku 4 písm. i).
 
 (4) Druh nadobudnutého tovaru a služieb sa vyjadruje týmito číselnými kódmi:
 
@@ -59,3 +61,5 @@
 (5) Ak je základ dane vo faktúre alebo dovoznom doklade 1 000 eur a viac alebo vo faktúre o kúpe pohonných látok 250 eur a viac, je žiadateľ povinný spolu so žiadosťou o vrátenie dane elektronickými prostriedkami predložiť kópiu faktúry alebo dovozného dokladu.
 
 (6) Údaje v žiadosti o vrátenie dane a ďalšie požadované informácie podľa § 55d ods. 1 a 2 uvádza žiadateľ v slovenskom jazyku.
+
+(7) Ak sa žiadateľ dá zastupovať zástupcom, na zástupcu sa nevzťahuje ustanovenie osobitného predpisu.<sup>27bb</sup>)

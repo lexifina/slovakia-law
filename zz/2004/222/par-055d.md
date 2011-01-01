@@ -2,7 +2,7 @@
 
 (1) Daňový úrad Bratislava I oznámi žiadateľovi rozhodnutie o žiadosti o vrátenie dane do štyroch mesiacov odo dňa prijatia žiadosti s výnimkou podľa odsekov 5 a 6. Ak vzniknú odôvodnené pochybnosti o správnosti uplatňovaného nároku na vrátenie dane, Daňový úrad Bratislava I môže v lehote podľa prvej vety elektronickými prostriedkami požiadať žiadateľa, príslušné orgány členského štátu, v ktorom má žiadateľ sídlo, miesto podnikania, prevádzkareň, bydlisko alebo v ktorom sa obvykle zdržiava, alebo inú osobu o dodatočné informácie; inú osobu ako žiadateľa alebo príslušný orgán členského štátu, v ktorom má žiadateľ sídlo, miesto podnikania, prevádzkareň, bydlisko alebo v ktorom sa obvykle zdržiava, môže požiadať elektronickými prostriedkami, iba ak sú tieto prostriedky dostupné jej adresátovi.
 
-(2) Ak nie sú dodatočné informácie dostatočné, môže Daňový úrad Bratislava I požiadať o ďalšie dodatočné informácie.
+(2) Ak nie sú dodatočné informácie dostatočné, môže Daňový úrad Bratislava I požiadať o ďalšie dodatočné informácie. Žiadosť o dodatočné informácie a žiadosť o ďalšie dodatočné informácie sa považujú za doručené dňom odoslania dátovej správy na elektronickú adresu žiadateľa uvedenú v žiadosti o vrátenie dane, na elektronickú adresu príslušných orgánov členských štátov alebo elektronickú adresu iných osôb; na doručovanie sa nevzťahuje ustanovenie osobitného predpisu.<sup>27bc</sup>)
 
 (3) Dodatočnými informáciami podľa odseku 1 a ďalšími dodatočnými informáciami podľa odseku 2 sú aj originál alebo kópia faktúry alebo dovozného dokladu, ktoré sa týkajú uplatňovaného nároku na vrátenie dane, a to aj takých, v ktorých základ dane je nižší ako základ dane podľa § 55b ods. 5.
 

@@ -1,3 +1,3 @@
 Príloha č. 2 k zákonu č. 222/2004 Z. z.
 
-- ŽIADOSŤ o vrátenie dane z pridanej hodnoty zahraničnej osobe [Vzor 02](../assets/5c2e057a6ff8a971e157b55d4f0d687da2c19520e93f48a322901d5c3f7f78bf.pdf)
+- ŽIADOSŤ o vrátenie dane z pridanej hodnoty zahraničnej osobe [Vzor 02](../assets/1b051d3e435afe4d7411452a9ce03a7ff2d01ab49189a90347e2a90e333e40ca.pdf)

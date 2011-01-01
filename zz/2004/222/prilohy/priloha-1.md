@@ -4,7 +4,7 @@ Príloha č. 1 k zákonu č. 222/2004 Z. z.
 
   - Pri úprave podľa § 54 postupuje platiteľ podľa vzorca
 
-  - ![Vzorec 01](../assets/298e6dcfd41a55ebc0cdda4d2ca011542c34e7f5e1e1671cb93a049718684b34.tiff)
+  - ![Vzorec 01](../assets/2476ff8ea4366a7cc81ace0dd8c259cde146f6e7e15461bd5154633c878f5ae5.gif)
 
   - kde
 

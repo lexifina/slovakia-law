@@ -36,10 +36,6 @@
 
 - 6ac) § 116 Občianskeho zákonníka.
 
-- 6ad) § 3 nariadenia vlády Slovenskej republiky č. 283/2009 Z. z., ktorým sa ustanovujú opatrenia na úpravu požiadaviek na konštrukciu, usporiadanie a vybavenie potravinárskych prevádzkarní s malým objemom výroby.
-
-- § 3 až 8 nariadenia vlády Slovenskej republiky č. 352/2009 Z. z., ktorým sa ustanovujú hygienické požiadavky na priamy predaj a dodávanie malého množstva prvotných produktov živočíšneho pôvodu, mäsa z hydiny a domácich králikov, voľne žijúcej zveri a zveriny z nej.
-
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -76,6 +72,10 @@
 
 - 21) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
 
+- 21a) Čl. 343 Konsolidovaného znenia Zmluvy o fungovaní Európskej únii (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- Dohoda medzi vládou Slovenskej republiky a Komisiou Európskych spoločenstiev o vykonávaní protokolmi o výsadách a imunitách Európskych spoločenstiev (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 553/2004 Z. z.).
+
 - 22) Nariadenie Rady (EHS) č. 918/83 z 28. marca 1983 ustanovujúce v spoločenstve systém oslobodení od cla (Úradný vestník Európskej únie L 105 z 23. 4. 1983) v platnom znení.
 
 - 23) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch.
@@ -94,6 +94,12 @@
 
 - 27b) Nariadenie Rady (EHS) č. 3037/90 z 9. októbra 1990 o štatistickej klasifikácii ekonomických činností v Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 293, 24. 10. 1990) v platnom znení.
 
+- 27ba) Nariadenie Komisie (ES) č. 1174/2009 z 30. novembra 2009, ktorým sa stanovujú pravidlá vykonávania čl. 34a a 37 nariadenia Rady (ES) č. 1798/2003, pokiaľ ide o daň z pridanej hodnoty podľa smernice Rady 2008/9/ES (Ú. v. EÚ L 314, 1. 12. 2009).
+
+- 27bb) § 10 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 27bc) § 17a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+
 - 27c) § 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 27d) § 35 ods. 1 písm. g) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
@@ -105,6 +111,8 @@
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
+
+- 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
@@ -125,3 +133,5 @@
 - 34) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime v znení oznámenia č. 193/2003 Z. z.
 
 - 35) § 29 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 36) Čl. 14 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009).

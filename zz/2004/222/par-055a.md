@@ -14,7 +14,7 @@
 
   - 2. služby a dodania tovaru s inštaláciou alebo montážou, ak je osobou povinnou platiť daň príjemca podľa § 69 ods. 2 a 3,
 
-  - 3. zemného plynu a elektriny, ak je osobou povinnou platiť daň osoba, ktorej je tento tovar dodaný podľa § 69 ods. 9,
+  - 3. tovaru podľa § 13 ods. 1 písm. e) a f), ak je osobou povinnou platiť daň osoba, ktorej je tento tovar dodaný podľa § 69 ods. 9,
 
   - 4. tovaru z tuzemska do iného členského štátu, ktorý bol dovezený z tretieho štátu žiadateľom, ktorý bol zastúpený daňovým zástupcom podľa § 69a,
 
