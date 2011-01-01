@@ -1,9 +1,9 @@
-Príloha č.1 k vyhláške č. 547/2009 Z. z.
+Príloha č. 1 k vyhláške č. 547/2009 Z. z.
 
-- VZORY NÁLEPIEK s ročnou dobou platnosti
+- VZORY NÁLEPIEK s ročnou dobou platnosti pre motorové vozidlá a jazdné súpravy do 3,5 t
 
-![Obrázok 01](../assets/55b24850b635ea61d2e750ec5475ce8ab670a921fad35072d75d6da4fd376e65.png)
+![Obrázok 01](../assets/ebc972542cacd3a571c062b685a5dd71fab6604e9320c5f6d9f2ad79f1e9d9d3.png)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s ročnou dobou platnosti
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s ročnou dobou platnosti pre motorové vozidlá a jazdné súpravy do 3,5 t
 
-![Obrázok 02](../assets/d8641b6a2fd52f307577c52755cfafc41d0dea4788ff4f77b7f695e66b6772ab.png)
+![Obrázok 02](../assets/73806967c204df69477b4c599b5b5d29b70321531915c61f941f008dcb59392d.png)

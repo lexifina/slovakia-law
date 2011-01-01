@@ -1,9 +1,9 @@
 Príloha č. 4 k vyhláške č. 547/2009 Z. z.
 
-- VZORY NÁLEPIEK s mesačnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
+- VZORY NÁLEPIEK s ročnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 07](../assets/3d62e7cf8e0f60f2ed1e355be5ef19b598cbae6eccf74ba6214be6695dfb404b.png)
+![Obrázok 07](../assets/208b644a844d2cc3fa1be16809503f9d315f246e0ac24e1d6d12b645bd783cf5.png)
 
-- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s mesačnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
+- VZORY TEXTOV NA PAPIEROVEJ PODLOŽKE NÁLEPIEK s ročnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 08](../assets/13f5e8d7dd448269876357d97d86b53a298f3a88dd2e03a0437204280e4782c6.png)
+![Obrázok 08](../assets/688af58871444bdbe4b24ed98f0a3df11fb6a49690907919c582bea6b1876a10.png)
