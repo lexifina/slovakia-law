@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 98/2004 Z. z. v znení zákona č. 667/2004 Z. z.
 
-- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Rady 2008/118/ES zo 16. decembra 2008 o všeobecnom systéme spotrebných daní a o zrušení smernice 92/12/EHS (Ú. v. EÚ L 9, 14. 1. 2009).
 

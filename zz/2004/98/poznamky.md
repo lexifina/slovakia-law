@@ -1,8 +1,10 @@
 - 1) § 2 Obchodného zákonníka.
 
-- 1a) Článok 299 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002) v platnom znení.
+- 1a) Čl. 52 Zmluvy o Európskej únii v platnom znení (Ú. V. EÚ C 83, 30. 3. 2010).
 
-- 1aa) Čl. 299 ods. 4 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ C 321 E, 29. 12. 2006) v platnom znení.
+- Čl. 355 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. V. EÚ C 83, 30. 3. 2010).
+
+- 1aa) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
 - 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
 
@@ -12,9 +14,15 @@
 
 - 2b) Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
-- 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
+- 2c) § 2 ods. 1 písm. d) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2010 Z. z.
 
-- 4) STN 65 6082 Stanovenie obsahu farebných látok a indikačnej látky v plynovom oleji.
+- 2d) Napríklad STN EN 228 Automobilové palivá. Bezolovnatý benzín. Požiadavky a skúšobné metódy.
+
+- 2e) § 14a ods. 3 a príloha č. 1 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
+
+- 2f) Napríklad STN EN 590 Automobilové palivá. Nafta. Požiadavky a skúšobné metódy.
+
+- 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
 
 - 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
@@ -109,6 +117,10 @@
 - 28) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 29) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 29a) § 14a a 15 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
+
+- 29b) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
 
 - 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
 

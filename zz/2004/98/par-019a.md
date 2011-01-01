@@ -1,6 +1,6 @@
 # § 19a Výrobca biogénnej látky
 
-(1) Právnická osoba alebo fyzická osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. a) mimo pozastavenia dane, je povinná požiadať colný úrad do 15 dní odo dňa začatia tejto výroby o zaradenie do evidencie výrobcov biogénnych látok. Žiadosť musí obsahovať
+(1) Právnická osoba alebo fyzická osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. a) a b) mimo pozastavenia dane, je povinná požiadať colný úrad do 15 dní odo dňa začatia tejto výroby o zaradenie do evidencie výrobcov biogénnych látok. Žiadosť musí obsahovať
 
 - a) identifikačné údaje žiadateľa a adresu umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
 
@@ -42,8 +42,8 @@
 
 - c) dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku, o zrušení konkurzu pre nedostatok majetku, alebo dňom, ktorým bolo potvrdené nútené vyrovnanie, povolené vyrovnanie alebo bola povolená reštrukturalizácia.
 
-(7) Daňová povinnosť podľa § 12 ods. 1 písm. g) nevzniká, ak nadväzuje oslobodenie od dane podľa § 10 ods. 4 písm. a).
+(7) Daňová povinnosť podľa § 12 ods. 1 písm. g) nevzniká, ak nadväzuje oslobodenie od dane podľa § 10 ods. 3 písm. a).
 
-(8) Právnická osoba alebo fyzická osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. a) výhradne len na potravinárske účely a túto aj na tento účel ponúka, nie je povinná požiadať colný úrad o zaradenie do evidencie výrobcov biogénnej látky.
+(8) Právnická osoba alebo fyzická osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. b) výhradne len na potravinárske účely a túto aj na tento účel ponúka, nie je povinná požiadať colný úrad o zaradenie do evidencie výrobcov biogénnej látky.
 
-(9) Výrobou biogénnej látky uvedenej v § 4 ods. 7 písm. a) nie je čistenie použitých rastlinných olejov.
+(9) Výrobou biogénnej látky uvedenej v § 4 ods. 7 písm. b) nie je čistenie použitých rastlinných olejov.
