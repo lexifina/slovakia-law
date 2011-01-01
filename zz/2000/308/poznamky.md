@@ -1,6 +1,4 @@
-- 1) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
-
-- Zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov.
+- 1) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov.
 
 - 1a) Zákon č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
@@ -28,9 +26,7 @@
 
 - 8) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 168/1998 Z. z. o uzavretí Európskeho dohovoru o cezhraničnej televízii.
 
-- 9) § 7 písm. a) zákona č. 16/2004 Z. z.
-
-- 10) § 7 písm. a) zákona č. 619/2003 Z. z.
+- 9) § 8 zákona č. 532/2010 Z. z.
 
 - 11) § 2 ods. 1 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
 
@@ -49,6 +45,8 @@
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 18) § 100 až 117 Zákonníka práce v znení neskorších predpisov.
+
+- 18a) Napríklad § 17 až 20 Obchodného zákonníka, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

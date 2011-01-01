@@ -22,7 +22,7 @@
 
 - j) analýzu
 
-  - 1. programových služieb vysielateľov na základe zákona a vysielateľov s licenciou,
+  - 1. programových služieb vysielateľa na základe zákona a vysielateľov s licenciou,
 
   - 2. audiovizuálnych mediálnych služieb na požiadanie,
 

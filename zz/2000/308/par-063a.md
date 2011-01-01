@@ -10,7 +10,7 @@
 
 - d) názov, sídlo, právnu formu a identifikačné číslo osoby, ak ide o právnickú osobu, ako aj meno, priezvisko a dátum narodenia osôb, ktoré sú jej štatutárnym orgánom alebo členmi jej štatutárneho orgánu; zahraničná právnická osoba vykonávajúca činnosť na území Slovenskej republiky uvedie aj adresu miesta činnosti podniku alebo miesta činnosti organizačnej zložky podniku na území Slovenskej republiky vrátane mena, priezviska, adresy bydliska a dátumu narodenia vedúceho podniku alebo vedúceho organizačnej zložky podniku,
 
-- e) identifikáciu internetovej stránky, na ktorej sa audiovizuálna mediálna služba na požiadanie alebo vysielanie poskytuje, a identifikáciu poskytovateľa multiplexu, ak audiovizuálna mediálna služba na požiadanie bude poskytovaná prostredníctvom terestriálneho multiplexu,
+- e) identifikáciu webového sídla, na ktorom sa audiovizuálna mediálna služba na požiadanie alebo vysielanie poskytuje, a identifikáciu poskytovateľa multiplexu, ak audiovizuálna mediálna služba na požiadanie bude poskytovaná prostredníctvom terestriálneho multiplexu,
 
 - f) geografickú špecifikáciu frekvenčného vyhradenia, ak audiovizuálna mediálna služba na požiadanie bude poskytovaná prostredníctvom terestriálneho multiplexu,
 
