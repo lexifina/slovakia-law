@@ -4,11 +4,11 @@
 
 (2) Výkaz nedoplatkov obsahuje
 
-- a) u zamestnávateľa jeho názov alebo obchodné meno, sídlo a identifikačné číslo, ak je pridelené,
+- a) u právnickej osoby obchodné meno alebo názov, sídlo alebo miesto podnikania a identifikačné číslo, ak je pridelené,
 
-- b) u samostatne zárobkovo činnej osoby jej meno, priezvisko a bydlisko,
+- b) u fyzickej osoby meno, priezvisko, trvalý pobyt a rodné číslo; ak ide o fyzickú osobu oprávnenú podnikať, výkaz nedoplatkov musí obsahovať obchodné meno, miesto podnikania a identifikačné číslo, ak je pridelené,
 
-- c) výšku nedoplatkov podľa stavu účtu platiteľa poistného k určitému dňu vychádzajúcemu z údajov vykázaných platiteľom poistného alebo z kontrol vykonaných zdravotnou poisťovňou, z pravdepodobnej výšky preddavkov na poistné, ak bola stanovená, a z úrokov z omeškania vypočítaných k tomuto dňu,
+- c) výšku nedoplatkov podľa stavu účtu platiteľa poistného k určitému dňu vychádzajúcemu z údajov vykázaných platiteľom poistného alebo z kontrol vykonaných zdravotnou poisťovňou, z výšky preddavkov na poistné stanovenej podľa ustanovenia § 20 ods. 5 a z úrokov z omeškania vypočítaných k tomuto dňu,
 
 - d) deň, ku ktorému bola výška nedoplatkov zistená,
 
@@ -18,7 +18,7 @@
 
 - g) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
 
-- h) úradnú pečiatku, podpis s uvedením mena, priezviska a funkcie oprávnenej osoby.
+- h) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
 
 (3) Platiteľ poistného sa vopred neupovedomuje o zostavení výkazu nedoplatkov na zdravotnom poistení.
 
@@ -32,6 +32,6 @@
 
 (8) Zdravotná poisťovňa môže výkaz nedoplatkov zrušiť aj z vlastného podnetu, o čom písomne upovedomí platiteľa poistného.
 
-(9) Na konanie o vydanie výkazu nedoplatkov sa nevzťahujú všeobecné predpisy o správnom konaní s výnimkou jeho doručovania.
+(9) Na konanie o vydanie výkazu nedoplatkov sa nevzťahujú všeobecné predpisy o správnom konaní.
 
 (10) Právoplatný a vykonateľný výkaz nedoplatkov je exekučným titulom.<sup>51c</sup>)

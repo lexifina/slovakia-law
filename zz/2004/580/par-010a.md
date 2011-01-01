@@ -1,6 +1,6 @@
-# § 10a Európsky preukaz zdravotného poistenia
+# § 10a Európsky preukaz
 
-(1) Príslušná zdravotná poisťovňa je povinná preukázateľne vydať poistencovi európsky preukaz zdravotného poistenia (ďalej len „európsky preukaz”) do 30 dní od podania žiadosti; žiadosť musí byť písomná.
+(1) Príslušná zdravotná poisťovňa je povinná preukázateľne vydať poistencovi európsky preukaz do 30 dní od podania žiadosti; žiadosť musí byť písomná.
 
 (2) Európsky preukaz spĺňa náležitosti a obsahuje údaje podľa osobitných predpisov.<sup>17</sup>)
 

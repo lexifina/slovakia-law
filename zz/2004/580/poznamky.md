@@ -8,7 +8,7 @@
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) § 2 písm. d) a § 54 ods. 4 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 4) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
@@ -23,6 +23,10 @@
 - 8a) Článok 1 písm. i) bod 2 nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
 - 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+
+- 8c) § 133 až 136 Obchodného zákonníka.
+
+- 8d) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov, zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
 
 - 9) § 2 ods. 1 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
@@ -80,141 +84,77 @@
 
 - Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 190 z 18. júna 2003 týkajúce sa technických špecifikácií Európskej karty zdravotného poistenia (2003/752/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
-- 20) § 41 až 72 Zákonníka práce.
+- 18) § 5 ods. 1 písm. a) až h), ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 21) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 19) § 223 až 228a Zákonníka práce.
 
-- 22) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+- 20) § 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 23) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
+- 21) § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
-- 24) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
+- 22) § 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 26) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+- 23) § 8 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 27) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 24) § 3 ods. 2 písm. c) a § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 27a) § 133 až 136 Obchodného zákonníka.
+- 25) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 27b) § 5 ods. 1 písm. b) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 26) § 43 ods. 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 27c) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 16/2004 Z. z. o Slovenskej televízii, zákon č. 619/2003 Z. z. o Slovenskom rozhlase.
+- 26a) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 27d) § 5 ods. 1 písm. d) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- § 67 zákona č. 563/2009 Z. z. o správe daní a poplatkov (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
-- 29) § 29 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 27) § 17 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 30) § 29a ods. 1 zákona č. 59/1965 Zb. v znení zákona č. 451/2002 Z. z.
+- 28) § 34 zákona č. 48/2002 Z. z. v znení zákona č. 558/2005 Z. z.
 
-- 31) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
+- 29) § 9 a 10 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 32) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 30) § 60 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 33) Napríklad zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení zákona č. 337/1998 Z. z., zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov, zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 31) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 36) § 76 až 104 Obchodného zákonníka.
+- 32) § 38 až 43, § 125 a 126 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 36a) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
+- 33) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov.
 
-- 37) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+- 34) § 71 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 38) § 652 až 672a Obchodného zákonníka.
+- 35) § 70 až 73 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39) § 17 zákona č. 48/2002 Z. z.
+- 36) § 40 zákona č. 447/2008 Z. z.
 
-- 39a) § 9 a 10 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 37) Zákon č. 447/2008 Z. z.
 
-- 39b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+- 38) § 116 a 117 Občianskeho zákonníka.
 
-- 39c) § 38 až 43, § 125 a 126 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 39) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 39d) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+- 40) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 39e) § 71 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 41) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39f) § 70 až 73 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39g) § 2 ods. 2 písm. a) až c) a písm. e) zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- 42) § 34 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39h) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+- 43) § 42 ods. 1 zákona č. 461/2003 Z. z.
 
-- 39i) § 64a zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 44) § 39 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39ia) § 57 ods. 1 a 2 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 45) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39j) § 116 a 117 Občianskeho zákonníka.
+- 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39ja) § 18 až 38 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 47) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 39k) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+- 48) § 70 až 73 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 39l) § 58 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- § 42 zákona č. 328/2002 Z. z.
 
-- 39m) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov v znení zákona č. 244/2005 Z. z.
-
-- 39n) § 34 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 39na) § 42 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 39o) § 39 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
-
-- 39p) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 39q) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 39s) § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 39u) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
-
-- 39v) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
-
-- 40) § 9 zákona č. 5/2004 Z. z. v znení zákona č. 191/2004 Z. z.
-
-- § 51 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
-
-- 40a) § 5 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 41) § 45 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 42) Zákon č. 16/2004 Z. z.
-
-- Zákon č. 619/2003 Z. z.
-
-- 43) Napríklad § 98 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
-
-- 44) § 29 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
-
-- 44a) Napríklad § 76 Zákonníka práce.
-
-- 44b) Napríklad § 96 Zákonníka práce, § 21 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 122 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
-
-- 44c) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
-
-- 44d) § 5 ods. 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 44e) Napríklad § 118 ods. 3 Zákonníka práce.
-
-- 45) Napríklad § 102a ods. 2 písm. b) a c) zákona č. 73/1998 Z. z. v znení zákona č. 201/2004 Z. z.
-
-- 45a) § 101a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
-
-- § 21b zákona č. 553/2003 Z. z. v znení zákona č. 151/2010 Z. z.
-
-- 46) § 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 47) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. v znení neskorších predpisov.
-
-- 48) Napríklad § 136, § 139 až § 141 Zákonníka práce.
-
-- 50) § 6 ods. 3 zákona č. 595/2003 Z. z.
-
-- 51) § 43 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- 51a) § 43 ods. 3 písm. j) zákona č. 595/2003 Z. z. v znení zákona č. 534/2005 Z. z.
-
-- 51b) § 223 až 228a Zákonníka práce.
+- 49) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
@@ -236,6 +176,8 @@
 
 - § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
+- 53ba) § 84 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
 - 54) § 9 ods. 6 až 8 zákona č. 581/2004 Z. z.
 
 - 55) § 43 zákona č. 581/2004 Z. z.
@@ -253,3 +195,5 @@
 - 60) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 268 ods. 1 písm. d) a § 321 Občianskeho súdneho poriadku.
 
 - 61) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
+
+- 62) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
