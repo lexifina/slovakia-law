@@ -1,6 +1,4 @@
-- 1) Zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov.
-
-- Zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov.
+- 1) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov.
 
 - 2) § 45 až 55 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
 
@@ -8,9 +6,7 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- Zákon č. 619/2003 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 16/2004 Z. z. v znení neskorších predpisov.
+- Zákon č. 532/2010 Z. z.
 
 - 5) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
