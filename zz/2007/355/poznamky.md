@@ -56,7 +56,7 @@
 
 - Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 23) § 27 ods. 2 zákona č. 470/2005 Z. z. v znení zákona č. 355/2007 Z. z.
+- 23) § 26 zákona č. 131/2010 Z. z. o pohrebníctve.
 
 - 24) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
 
