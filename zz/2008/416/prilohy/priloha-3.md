@@ -60,6 +60,8 @@ I.A | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo financi�
 
 25. | Fin 6-01 | Finančný výkaz o štruktúre dlhu subjektu verejnej správy podľa splatnosti
 
+25a. | Fin 7-04 | Finančný výkaz o prírastku a úbytku vybraných pohľadávok a záväzkov subjektu verejnej správy
+
 26. | PO | Daňové priznanie k dani z nehnuteľností
 
 27. | FO | Daňové priznanie k dani z nehnuteľností
@@ -174,7 +176,7 @@ I.B | Inštitúcia disponujúca administratívnym zdrojom: Národná banka Slove
 
 32. | Pb (NBS) 7-04 | Štvrťročný výkaz o inkasách a platbách podľa geografického členenia
 
-33. | E (NBS) 1-04 | Prehľad o rozvoji bankového sektora v Slovenskej republike
+33. | Ep (NBS) 1-04 | Hlásenie o kmeňovom liste banky a pobočky zahraničnej banky
 
 34. | PS (NBS) 01-01 | Ročný výkaz o účtoch bánk a pobočiek zahraničných bánk
 
@@ -191,6 +193,8 @@ I.B | Inštitúcia disponujúca administratívnym zdrojom: Národná banka Slove
 40. | Kis (PF) 19-04 | Výkaz o výnosoch a nákladoch špeciálneho podielového fondu nehnuteľností
 
 41. | Cd (NBS) 54-12 | Zoznam emitentov a emisií cenných papierov
+
+41a. | U (NBS) 30-04 | Výkaz o aktívach a pasívach
 
 42. | Ppn (BIL) 01-04 | Bilancia aktív a pasív
 
@@ -220,29 +224,43 @@ I.B | Inštitúcia disponujúca administratívnym zdrojom: Národná banka Slove
 
 55. | Za (VZS) 02-04 | Výkaz ziskov a strát
 
-56. | D (SUV) 09-04 | Bilancia aktív a pasív
+58. | Dof (HMF) 03-02 | Hlásenie o stave majetku v dôchodkovom fonde
 
-57. | D (VZS) 10-04 | Výkaz nákladov a výnosov
-
-58. | Dof (HMF) 03-02 | Správa o hospodárení s majetkom v dôchodkovom fonde
-
-59. | Dss (HVM) 04-02 | Správa o hospodárení s vlastným majetkom v dôchodkovej správcovskej spoločnosti
-
-60. | Dss (PVZ) 01-04 | Hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti
-
-61. | Dds (PVZ) 02-04 | Hlásenie o primeranosti vlastných zdrojov doplnkovej dôchodkovej spoločnosti
-
-62. | Dfo (HMF) 11-02 | Správa o hospodárení s majetkom v doplnkovom dôchodkovom fonde
-
-63. | Dds (HVM) 12-02 | Správa o hospodárení s vlastným majetkom v doplnkovej dôchodkovej spoločnosti
+62. | Dfo (HMF) 11-02 | Hlásenie o stave majetku v doplnkovom dôchodkovom fonde
 
 64. | | Platobná bilancia
 
 65. | | Medzinárodná investičná pozícia
 
+66. | Dss (SUV) 15-02 | Výkaz aktív a pasív dôchodkovej správcovskej spoločnosti
+
+67. | Dds (SUV) 38-02 | Výkaz aktív a pasív doplnkovej dôchodkovej spoločnosti
+
+68. | Dss (VZS) 16-02 | Výkaz výnosov a nákladov dôchodkovej správcovskej spoločnosti
+
+69. | Dds (VZS) 39-02 | Výkaz výnosov a nákladov doplnkovej dôchodkovej spoločnosti
+
+70. | Dss (KL) 18-02 | Kmeňový list dôchodkovej správcovskej spoločnosti
+
+71. | Dds (KL) 34-02 | Kmeňový list doplnkovej dôchodkovej spoločnosti
+
+72. | Dof (SP) 17-02 | Hlásenie o vývoji počtu sporiteľov
+
+73. | Dfo (PU) 47-02 | Hlásenie o vývoji počtu účastníkov a poberateľov dávok
+
+74. | Dof (PAS) 31-02 | Výkaz pasív dôchodkového fondu
+
+75. | Dfo (PAS) 42-02 | Výkaz pasív doplnkového dôchodkového fondu
+
+76. | Dof (VVN) 32-02 | Výkaz výnosov a nákladov dôchodkového fondu
+
+77. | Dfo (VVN) 43-02 | Výkaz výnosov a nákladov doplnkového dôchodkového fondu
+
 I.C | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Železničná polícia |
 
 1. | | Sociálne zabezpečenie príslušníkov Železničnej polície
+
+2. | | Dotazník o výdavkoch na vojenské zariadenia
 
 I.D | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo kultúry Slovenskej republiky |
 
@@ -462,7 +480,7 @@ III.C | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo hospod
 
 1. | | Aktívny zahraničný cestovný ruch na Slovensku
 
-IV. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY |
+IV. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO PÔDOHOSPODÁRSTVA A ROZVOJA VIDIEKA SLOVENSKEJ REPUBLIKY |
 
 IV.A | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo financií Slovenskej republiky |
 
@@ -480,19 +498,21 @@ IV.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo práce,
 
 V. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO PRÁCE, SOCIÁLNYCH VECÍ A RODINY SLOVENSKEJ REPUBLIKY |
 
-V.A | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky, Migračný úrad |
+V.A | Inštitúcia disponujúca administratívnym zdrojomMinisterstvo vnútra Slovenskej republiky |
 
-1. | | Utečenec
+1. | Utečenec |
 
-| Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky, Prezídium Policajného zboru |
+2. | Evidenčno-štatistický systém kriminality |
 
-2. | | Evidenčno-štatistický systém kriminality
+3. | Rekapitulácia výplaty dávok výsluhového zabezpečenia |
 
 V.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo spravodlivosti Slovenskej republiky |
 
 1. | V (MS SR) 7-02/C | Polročný výkaz o ústavnej starostlivosti
 
 2. | V (MS SR) 7-02/T | Polročný výkaz o ochrannej výchove
+
+3. | | Rekapitulácia výplaty dávok výsluhového zabezpečenia
 
 V.C | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo zdravotníctva Slovenskej republiky |
 
@@ -504,7 +524,7 @@ V.D | Inštitúcia disponujúca administratívnym zdrojom: Sociálnapoisťovňa 
 
 2. | | Prehľady v oblasti výberu poistného a príspevkov na starobné dôchodkové sporenie
 
-VI. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO ŠKOLSTVA SLOVENSKEJ REPUBLIKY |
+VI. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ REPUBLIKY |
 
 VI.A | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky |
 
@@ -537,6 +557,8 @@ IX.A | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo financi
 IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky |
 
 1. | | Register obyvateľov Slovenskej republiky
+
+- Charakteristiky administratívnych zdrojov
 
 - I. Inštitúcia využívajúca administratívny zdroj:
 
@@ -1046,6 +1068,26 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
+- 25a. Názov administratívneho zdroja: Finančný výkaz o prírastku a úbytku vybraných pohľadávok a záväzkov subjektu verejnej správy
+
+- Značka administratívneho zdroja: Fin 7-04
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za sektor verejnej správy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>13</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Štvrťročné údaje ostatných pohľadávok a ostatných záväzkov a ich rozklad na podrobnejšie kategórie za subjekty verejnej správy.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: štvrťročne.
+
+- Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
+
 - 26. Názov administratívneho zdroja: Daňové priznanie k dani z nehnuteľností
 
 - Značka administratívneho zdroja: PO
@@ -1190,9 +1232,9 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 33. Názov administratívneho zdroja: Daňové priznanie k dani z prevodu a prechodu nehnuteľností – fyzické osoby
+- 33. Názov administratívneho zdroja: Hlásenie o kmeňovom liste banky a pobočky zahraničnej banky
 
-- Značka administratívneho zdroja: DPPN-FO
+- Značka administratívneho zdroja: Ep (NBS) 1-04
 
 - a) Účel a využitie administratívnych údajov
 
@@ -1367,6 +1409,26 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
 - Údaje v plnom rozsahu za Slovenskú republiku spolu a v triedení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov, v územnom členení podľa samosprávnych krajov a podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom<sup>5</sup>) a podľa druhu spotrebnej dane, v členení podľa druhu daňového subjektu – fyzická osoba, právnická osoba, v členení podľa právnej formy daňového subjektu a v členení daní na spotrebné dane z domácej produkcie a spotrebné dane vyberané na colnici z dovozu.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: ročne.
+
+- Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+
+- 41a. Názov administratívneho zdroja: Výkaz o aktívach a pasívach
+
+- Značka administratívneho zdroja: U (NBS) 30-04
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za finančné korporácie.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>13</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Výkaz o aktívach a pasívach Burzy cenných papierov a Centrálneho depozitára cenných papierov Slovenskej republiky v plnom rozsahu.
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -2598,47 +2660,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
 
-- 56. Názov administratívneho zdroja: Bilancia aktív a pasív
-
-- Značka administratívneho zdroja: D (SUV) 09-04
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky dôchodkové správcovské spoločnosti, sumár za všetky doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, počet dôchodkových správcovských spoločností a počet doplnkových dôchodkových spoločností v členení podľa hodnoty aktív súvahy.
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: polročne a ročne.
-
-- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
-
-- 57. Názov administratívneho zdroja: Výkaz nákladov a výnosov
-
-- Značka administratívneho zdroja: D (VZS) 10-04
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky dôchodkové správcovské spoločnosti, doplnkové dôchodkové spoločnosti, dôchodkové fondy a doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: polročne a ročne.
-
-- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
-
-- 58. Názov administratívneho zdroja: Správa o hospodárení s majetkom v dôchodkovom fonde
+- 58. Názov administratívneho zdroja: Hlásenie o stave majetku v dôchodkovom fonde
 
 - Značka administratívneho zdroja: Dof (HMF) 03-02
 
@@ -2650,7 +2672,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
-- Sumár za všetky dôchodkové fondy, stav majetku v dôchodkovom fonde v členení podľa trhov, bánk, pobočiek zahraničných bánk a emitentov, hospodárenie s majetkom v dôchodkovom fonde (numerická časť).
+- Sumár za všetky dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, stav majetku v dôchodkovom fonde v členení podľa trhov (numerická časť).
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -2658,67 +2680,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
 
-- 59. Názov administratívneho zdroja: Správa o hospodárení s vlastným majetkom v dôchodkovej správcovskej spoločnosti
-
-- Značka administratívneho zdroja: Dss (HVM) 04-02
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky dôchodkové správcovské spoločnosti, informácia o vývoji hodnoty dôchodkovej jednotky a vývoji počtu sporiteľov dôchodkového fondu podľa stavov na konci kalendárnych mesiacov (časť „Počet klientov“) a prehľad o cudzích zdrojoch dôchodkovej správcovskej spoločnosti (numerická časť) a počet dôchodkových správcovských spoločností v členení podľa počtu klientov.
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: polročne a ročne.
-
-- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
-
-- 60. Názov administratívneho zdroja: Hlásenie o primeranosti vlastných zdrojov dôchodkovej správcovskej spoločnosti
-
-- Značka administratívneho zdroja: Dss (PVZ) 01-04
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky dôchodkové správcovské spoločnosti.
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: štvrťročne.
-
-- Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
-
-- 61. Názov administratívneho zdroja: Hlásenie o primeranosti vlastných zdrojov doplnkovej dôchodkovej spoločnosti
-
-- Značka administratívneho zdroja: Dds (PVZ) 02-04
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky doplnkové dôchodkové spoločnosti.
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: štvrťročne.
-
-- Lehota na odovzdanie administratívnych údajov: do 45. kalendárneho dňa po referenčnom období.
-
-- 62. Názov administratívneho zdroja: Správa o hospodárení s majetkom v doplnkovom dôchodkovom fonde
+- 62. Názov administratívneho zdroja: Hlásenie o stave majetku v doplnkovom dôchodkovom fonde
 
 - Značka administratívneho zdroja: Dfo (HMF) 11-02
 
@@ -2730,27 +2692,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - b) Charakteristika triedení požadovaných administratívnych údajov
 
-- Sumár za všetky doplnkové dôchodkové fondy, stav majetku v doplnkovom dôchodkovom fonde v členení podľa trhov, bánk a pobočiek zahraničných bánk a emitentov, hospodárenie s majetkom v doplnkovom dôchodkovom fonde (numerická časť).
-
-- c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-- Periodicita poskytovania administratívnych údajov: polročne a ročne.
-
-- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období a ročne do 31. mája po referenčnom období.
-
-- 63. Názov administratívneho zdroja: Správa o hospodárení s vlastným majetkom v doplnkovej dôchodkovej spoločnosti
-
-- Značka administratívneho zdroja: Dds (HVM) 12-02
-
-- a) Účel a využitie administratívnych údajov
-
-- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
-
-- b) Charakteristika triedení požadovaných administratívnych údajov
-
-- Sumár za všetky doplnkové dôchodkové spoločnosti, prehľad o cudzích zdrojoch v doplnkovej dôchodkovej spoločnosti (numerická časť).
+- Sumár za všetky doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, stav majetku v doplnkovom dôchodkovom fonde v členení podľa trhov (numerická časť).
 
 - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -2793,6 +2735,246 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 - Periodicita poskytovania administratívnych údajov: štvrťročne.
 
 - Lehota na odovzdanie administratívnych údajov: do 6 mesiacov po referenčnom období.
+
+- 66. Názov administratívneho zdroja: Výkaz aktív a pasív dôchodkovej správcovskej spoločnosti
+
+- Značka administratívneho zdroja: Dss (SUV) 15-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové správcovské spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, počet dôchodkových správcovských spoločností v členení podľa výšky aktív a súvahy.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 67. Názov administratívneho zdroja: Výkaz aktív a pasív doplnkovej dôchodkovej spoločnosti
+
+- Značka administratívneho zdroja: Dds (SUV) 38-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, počet doplnkových dôchodkových spoločností v členení podľa výšky aktív a súvahy.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 68. Názov administratívneho zdroja: Výkaz výnosov a nákladov dôchodkovej správcovskej spoločnosti
+
+- Značka administratívneho zdroja: Dss (VZS) 16-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové správcovské spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 69. Názov administratívneho zdroja: Výkaz výnosov a nákladov doplnkovej dôchodkovej spoločnosti
+
+- Značka administratívneho zdroja: Dds (VZS) 39-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov a na zostavovanie súborov štrukturálnej odvetvovej štatistiky dôchodkového sporenia.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 70. Názov administratívneho zdroja: Kmeňový list dôchodkovej správcovskej spoločnosti
+
+- Značka administratívneho zdroja: Dss (KL) 18-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové správcovské spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, informácie o cudzích zdrojoch doplnkovej správcovskej spoločnosti (numerická časť).
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 71. Názov administratívneho zdroja: Kmeňový list doplnkovej dôchodkovej spoločnosti
+
+- Značka administratívneho zdroja: Dds (KL) 34-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, informácie o cudzích zdrojoch doplnkovej dôchodkovej spoločnosti (numerická časť).
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 72. Názov administratívneho zdroja: Hlásenie o vývoji počtu sporiteľov
+
+- Značka administratívneho zdroja: Dof (SP) 17-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, počet dôchodkových správcovských spoločností v členení podľa počtu sporiteľov (numerická časť).
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 73. Názov administratívneho zdroja: Hlásenie o vývoji počtu účastníkov a poberateľov dávok
+
+- Značka administratívneho zdroja: Dfo (PU) 47-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové fondy a doplnkové dôchodkové spoločnosti Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania, v členení podľa počtu účastníkov a poberateľov dávok (numerická časť).
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 74. Názov administratívneho zdroja: Výkaz pasív dôchodkového fondu
+
+- Značka administratívneho zdroja: Dof (PAS) 31-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 75. Názov administratívneho zdroja: Výkaz pasív doplnkového dôchodkového fondu
+
+- Značka administratívneho zdroja: Dfo (PAS) 42-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 76. Názov administratívneho zdroja: Výkaz výnosov a nákladov dôchodkového fondu
+
+- Značka administratívneho zdroja: Dof (VVN) 32-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
+
+- 77. Názov administratívneho zdroja: Výkaz výnosov a nákladov doplnkového dôchodkového fondu
+
+- Značka administratívneho zdroja: Dfo (VVN) 43-02
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na zostavovanie národných účtov za poisťovacie spoločnosti a penzijné fondy.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>29</sup>)
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Sumár za všetky doplnkové dôchodkové fondy Slovenskej republiky vrátane zoznamu spoločností podľa IČO, ktoré sú zahrnuté do spracovania.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: polročne a ročne.
+
+- Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra a ročne do 31. mája po referenčnom období.
 
 - I.C Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky, Železničná polícia
 
@@ -2907,6 +3089,26 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 - Periodicita poskytovania administratívnych údajov: ročne.
 
 - Lehota na odovzdanie administratívnych údajov: do 31. marca po referenčnom období.
+
+- Ministerstvo obrany Slovenskej republiky
+
+- 2. Názov administratívneho zdroja: Dotazník o výdavkoch na vojenské zariadenia
+
+- Značka administratívneho zdroja: –
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na účely procedúry nadmerného deficitu (EDP notifikácia) a na zaznamenanie výdavkov na vojenské zariadenia v systéme národných účtov.
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Údaje o kontraktoch a dodávkach vojenských zariadení, platbách a ostatné informácie týkajúce sa konkrétnych kontraktov.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: ročne.
+
+- Lehota na odovzdanie administratívnych údajov: do 15. marca po referenčnom období.
 
 - I.F Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky, Ústredie práce, sociálnych vecí a rodiny
 
@@ -3530,7 +3732,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - 1. Názov administratívneho zdroja: Štvrťročný výkaz o práci v školstve
 
-- Značka administratívneho zdroja: Škol (MŠ SR) 1-04
+- Značka administratívneho zdroja: Škol (MŠVVŠ SR) 1-04
 
 - a) Účel a využitie administratívnych údajov
 
@@ -3548,7 +3750,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - 2. Názov administratívneho zdroja: Štvrťročný výkaz o práci vysokých škôl a ostatných organizácií priamo riadených Ministerstvom školstva Slovenskej republiky
 
-- Značka administratívneho zdroja: Škol (MŠ SR) 2-04
+- Značka administratívneho zdroja: Škol (MŠVVŠ SR) 2-04
 
 - a) Účel a využitie administratívnych údajov
 
@@ -3566,7 +3768,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - 3. Názov administratívneho zdroja: Výkaz o počte žiakov základných umeleckých škôl, detí materských škôl a školských zariadení a poslucháčov jazykových škôl v územnej pôsobnosti obce
 
-- Značka administratívneho zdroja: Škol (MŠ SR) 40-01
+- Značka administratívneho zdroja: Škol (MŠVVŠ SR) 40-01
 
 - a) Účel a využitie administratívnych údajov
 
@@ -3584,7 +3786,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - 4. Názov administratívneho zdroja: Výkaz o úrazovosti žiakov a študentov
 
-- Značka administratívneho zdroja: Úr (MŠ SR) 1-01
+- Značka administratívneho zdroja: Úr (MŠVVŠ SR) 1-01
 
 - a) Účel a využitie administratívnych údajov
 
@@ -4566,7 +4768,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - V. Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO PRÁCE, SOCIÁLNYCH VECÍ A RODINY SLOVENSKEJ REPUBLIKY
 
-- V.A Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky, Migračný úrad
+- V.A Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky
 
 - 1. Názov administratívneho zdroja: Utečenec
 
@@ -4586,7 +4788,7 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 
 - Lehota na odovzdanie administratívnych údajov: do 15. kalendárneho dňa nasledujúceho mesiaca.
 
-- Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky, Prezídium Policajného zboru
+- Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra Slovenskej republiky
 
 - 2. Názov administratívneho zdroja: Evidenčno-štatistický systém kriminality
 
@@ -4605,6 +4807,24 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 - Periodicita poskytovania administratívnych údajov: mesačne.
 
 - Lehota na odovzdanie administratívnych údajov: do 15. kalendárneho dňa nasledujúceho mesiaca.
+
+- 3. Názov administratívneho zdroja: Rekapitulácia výplaty dávok výsluhového zabezpečenia
+
+- Značka administratívneho zdroja: –
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na vypracovanie komplexného štatistického prehľadu o dávkach vyplácaných z dôchodkového systému Slovenskej republiky.
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Údaje o počte poberateľov výsluhového dôchodku a celkových výdavkov určených na výplatu.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: štvrťročne.
+
+- Lehota na odovzdanie administratívnych údajov: do 30. kalendárneho dňa nasledujúceho mesiaca.
 
 - V.B Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo spravodlivosti Slovenskej republiky
 
@@ -4643,6 +4863,24 @@ IX.B | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo vnútra
 - Periodicita poskytovania administratívnych údajov: polročne.
 
 - Lehota na odovzdanie administratívnych údajov: do 20. kalendárneho dňa nasledujúceho mesiaca.
+
+- 3. Názov administratívneho zdroja: Rekapitulácia výplaty dávok výsluhového zabezpečenia
+
+- Značka administratívneho zdroja: –
+
+- a) Účel a využitie administratívnych údajov
+
+- Administratívne údaje sa využijú na vypracovanie komplexného štatistického prehľadu o dávkach vyplácaných z dôchodkového systému Slovenskej republiky.
+
+- b) Charakteristika triedení požadovaných administratívnych údajov
+
+- Údaje o počte poberateľov výsluhového dôchodku a celkových výdavkov určených na výplatu.
+
+- c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+- Periodicita poskytovania administratívnych údajov: štvrťročne.
+
+- Lehota na odovzdanie administratívnych údajov: do 30. kalendárneho dňa nasledujúceho mesiaca.
 
 - V.C Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo zdravotníctva Slovenskej republiky
 

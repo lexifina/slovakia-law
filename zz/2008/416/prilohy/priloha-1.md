@@ -38,8 +38,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 15. | Práca 5-99 | Výkaz o štrajku (výluke)
 
-- 16. | Práca 6-99 | Zisťovanie o práci za obce a samosprávne kraje, (rok zisťovania 2011)
-
 - 18. | ÚNP 1-01 | Ročný výkaz o úplných nákladoch práce
 
 - Sociálna ochrana | |
@@ -48,13 +46,17 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 20. | Soc 4-99 | Výkaz o výdavkoch na sociálnu pomoc
 
+- Vzdelávanie | |
+
+- 20a. | CVTS 1-99 | Zisťovanie o ďalšej odbornej príprave
+
+- 20b. | AES 1-99 | Zisťovanie o vzdelávaní dospelých |
+
 - III. A MAKROEKONOMICKÁ ŠTATISTIKA Ceny | |
 
-- 21. | Ceny Les 1-12 | Mesačný výkaz o cenách v lesnom hospodárstve
+- 21. | Ceny Les 1-04 | Štvrťročný výkaz o cenách v lesnom hospodárstve
 
 - 22. | Ceny NC Poľ 1-12 | Mesačný výkaz o cenách poľnohospodárskych výrobkov
-
-- 23. | Ceny Vod 1-12 | Mesačný výkaz o cenách vo vodnom hospodárstve
 
 - 24. | Ceny VC 1-12 | Mesačný výkaz o cenách priemyselných výrobcov
 
@@ -64,35 +66,39 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 27. | KPESC DO 2-52 | Karta prvotnej evidencie zisťovania spotrebiteľských cien – duálne oceňovanie, (rok zisťovania 2009)
 
-- 28. | Ceny VTS 1-12 | Mesačný výkaz o cenách služieb v oblasti nehnuteľností
+- 28. | Ceny VTS 1-04 | Štvrťročný výkaz o cenách služieb v oblasti nehnuteľností
 
-- 29. | Ceny VTS 2-12 | Mesačný výkaz o cenách služieb v oblasti prenájmu strojov a prístrojov
+- 29. | Ceny VTS 2-04 | Štvrťročný výkaz o cenách služieb v oblasti prenájmu strojov a prístrojov
 
-- 30. | Ceny VTS 3-12 | Mesačný výkaz o cenách služieb v oblasti spracovania dát
+- 30. | Ceny VTS 3-04 | Štvrťročný výkaz o cenách služieb v oblasti spracovania dát
 
-- 31. | Ceny VTS 4-12 | Mesačný výkaz o cenách služieb určených prevažne pre podniky
+- 31. | Ceny VTS 4-04 | Štvrťročný výkaz o cenách služieb určených prevažne pre podniky
 
-- 32. | Ceny VTS 5-12 | Mesačný výkaz o cenách služieb v oblasti pôšt a telekomunikácií
+- 32. | Ceny VTS 5-04 | Štvrťročný výkaz o cenách služieb v oblasti pôšt a telekomunikácií
 
-- 33. | Ceny VTS 6-12 | Mesačný výkaz o cenách služieb v oblasti finančného lízingu
+- 33. | Ceny VTS 6-04 | Štvrťročný výkaz o cenách služieb v oblasti finančného lízingu
 
-- 34. | Ceny VTS 7-12 | Mesačný výkaz o cenách služieb v oblasti poisťovníctva
+- 34. | Ceny VTS 7-04 | Štvrťročný výkaz o cenách služieb v oblasti poisťovníctva
 
-- 35. | Ceny VTS 8-12 | Mesačný výkaz o cenách služieb v oblasti bankovníctva
+- 35. | Ceny VTS 8-04 | Štvrťročný výkaz o cenách služieb v oblasti bankovníctva
 
-- 36. | Ceny VTS 9-12 | Mesačný výkaz o cenách služieb v oblasti vnútroštátnej železničnej dopravy nákladov
+- 36. | Ceny VTS 9-04 | Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej železničnej dopravy nákladov
 
-- 37. | Ceny VTS 10-12 | Mesačný výkaz o cenách služieb v oblasti vnútroštátnej cestnej dopravy nákladov
+- 37. | Ceny VTS 10-04 | Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej cestnej dopravy nákladov
 
-- 38. | Ceny VTS 11-12 | Mesačný výkaz o cenách služieb v oblasti vnútrozemskej vodnej dopravy nákladov
+- 38. | Ceny VTS 11-04 | Štvrťročný výkaz o cenách služieb v oblasti vnútrozemskej vodnej dopravy nákladov
 
-- 39. | Ceny VTS 12-12 | Mesačný výkaz o cenách služieb v oblasti vnútroštátnej leteckej dopravy nákladov
+- 39. | Ceny VTS 12-04 | Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej leteckej dopravy nákladov
 
-- 40. | Ceny VTS 13-12 | Mesačný výkaz o cenách služieb v oblasti vnútroštátnej potrubnej dopravy nákladov
+- 40. | Ceny VTS 13-04 | Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej potrubnej dopravy nákladov
 
 - 41. | Ceny D Poľ 1-04 | Štvrťročný výkaz o cenách vybraných výrobkov a služieb v poľnohospodárstve
 
 - 42. | Ceny Stav 10-04 | Štvrťročný výkaz o cenách v stavebníctve
+
+- 42a. | Ceny VC 4-99 | Jednorazové zisťovanie k výber reprezentantov sledovania vývoja cien priemyselných výrobcov
+
+- 42b. | Ceny Stav 9-99 | Jednorazové zisťovanie k výberu reprezentantov sledovania vývoja cien v stavebníctve
 
 - III. B PODNIKATEĽSKÉ ŠTATISTIKY Štatistika o ekonomickej činnosti podnikov | |
 
@@ -113,8 +119,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - 49. | Priem P 1-12 | Mesačný podnikový výkaz v priemysle
 
 - 50. | Priem P 6-01 | Ročný podnikový výkaz o výrobe priemyselných výrobkov a priemyselných službách
-
-- 51. | Oceľ 1-01 | Ročný výkaz o oceli a železe
 
 - Stavebníctvo | |
 
@@ -228,6 +232,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - 97. | ZO 1-12 | Mesačný výkaz o cenách v zahraničnom obchode
 
+- 97a. | ZO 2-99 | Jednorazové zisťovanie k výberu reprezentantov sledovania vývoja cien v zahraničnom obchode
+
 - IV. POĽNOHOSPODÁRSTVO, LESNÍCTVO A RYBOLOV Poľnohospodárstvo | |
 
 - 98. | Poľ 1-04 | Štvrťročný výkaz o živočíšnej výrobe a predaji živočíšnych výrobkov
@@ -265,6 +271,8 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - 110. | VV P 6-01 | Ročný podnikový výkaz o výskume a vývoji
 
 - 111. | Inov 1-99 | Štatistické zisťovanie o inováciách, (rok zisťovania 2010)
+
+- Charakteristiky zisťovaní
 
 - 1. Názov štatistického zisťovania: Dotazník na registráciu organizácie
 
@@ -734,36 +742,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Košiciach.
 
-- 16. Názov štatistického zisťovania: Zisťovanie o práci za obce a samosprávne kraje
-
-- Značka štatistického zisťovania: Práca 6-99
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o štruktúre zamestnancov obcí a samosprávnych krajov. Výsledky zisťovania sa využijú na vyhodnocovanie koncepcie decentralizácie verejnej správy a jej vplyvov na zamestnanosť a odmeňovanie.
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: priemerný evidenčný počet zamestnancov, evidenčný počet zamestnancov k 30. júnu sledovaného roka, z toho žien, v členení volení predstavitelia samospráv, zamestnanci administratívneho aparátu, z toho kontrolóri, zamestnanci zabezpečujúci prenesený výkon štátnej správy, prevádzkoví a obsluhujúci zamestnanci, ďalší zamestnanci samosprávy, mzdy a náhrady mzdy zamestnancov.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Obce a samosprávne kraje.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: raz za štyri roky, (rok zisťovania 2011).
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 14. júla sledovaného roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Košiciach.
-
 - 18. Názov štatistického zisťovania: Ročný výkaz o úplných nákladoch práce
 
 - Značka štatistického zisťovania: ÚNP 1-01
@@ -860,9 +838,109 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
-- 21. Názov štatistického zisťovania: Mesačný výkaz o cenách v lesnom hospodárstve
+- 20a. Názov štatistického zisťovania: Zisťovanie o ďalšej odbornej príprave
 
-- Značka štatistického zisťovania: Ceny Les 1-12
+- Značka štatistického zisťovania: CVTS 1-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie o ďalšej odbornej príprave z hľadiska vzdelávacej politiky podniku, vstupnej odbornej príprave, účastníkoch odbornej prípravy a o nákladoch na odbornú prípravu v podnikoch. Výsledky zisťovania sa využijú na tvorbu a monitorovanie politiky trhu práce z hľadiska konkurencieschopnosti pracovnej sily na štátnej úrovni a úrovni Európskej únie.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>13a</sup>)
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: počet zamestnancov, náklady práce, účasť zamestnancov v jednotlivých druhoch odbornej prípravy, platený pracovný čas strávený na odbornej príprave, spôsob financovania odbornej prípravy v podnikoch, vzdelávacia politika podniku, organizácia a finančné náklady odbornej prípravy.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Podniky zapísané v obchodnom registri, fyzické osoby nezapísané v obchodnom registri, príspevkové organizácie, samosprávne kraje, miestne orgány štátnej správy, obce, nadácie, neinvestičné fondy, rozpočtové organizácie, neziskové fondy, neziskové organizácie, verejnoprávne neziskové inštitúcie, Sociálna poisťovňa, zdravotné poisťovne, združenia, politické strany a politické hnutia s počtom zamestnancov 10 a viac, ktoré sú zapísané v registri organizácií Štatistického úradu Slovenskej republiky, s hlavnou činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+
+05 až 09 | – | Ťažba a dobývanie,
+
+10 až 33 | – | Priemyselná výroba,
+
+35 | – | Dodávka elektriny, plynu, pary a studeného vzduchu,
+
+36 až 39 | – | Dodávka vody; čistenie a odvod odpadových vôd, odpady a služby odstraňovania odpadov,
+
+41 až 43 | – | Stavebníctvo,
+
+45 až 47 | – | Veľkoobchod a maloobchod; oprava motorových vozidiel a motocyklov,
+
+49 až 53 | – | Doprava a skladovanie,
+
+55 a 56 | – | Ubytovacie a stravovacie služby,
+
+58 až 63 | – | Informácie a komunikácia,
+
+64 až 66 | – | Finančné a poisťovacie činnosti,
+
+68 | – | Činnosti v oblasti nehnuteľností,
+
+69 až 75 | – | Odborné, vedecké a technické činnosti,
+
+77 až 82 | – | Administratívne a podporné služby,
+
+84 | – | Verejná správa a obrana; povinné sociálne zabezpečenie,
+
+85 | – | Vzdelávanie,
+
+86 až 88 | – | Zdravotníctvo a sociálna pomoc,
+
+90 až 93 | – | Umenie, zábava a rekreácia a
+
+94 až 96 | – | Ostatné činnosti.
+
+d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita štatistického zisťovania: jednorazovo.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. júna 2011.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.“.
+
+- 20b. Názov štatistického zisťovania: Zisťovanie o vzdelávaní dospelých
+
+- Značka štatistického zisťovania: AES 1-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať medzinárodne porovnateľné údaje o vzdelávaní dospelých, prekážkach súvisiacich so vzdelávaním, počítačových zručnostiach, znalostiach jazykov a o účasti na kultúrnom a spoločenskom živote. Výsledky zisťovania sa využijú na koncipovanie a usmerňovanie politiky celoživotného vzdelávania, kultúrnej politiky a na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a ďalších medzinárodných organizácií a externých užívateľov.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>13b</sup>)
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: demografické údaje, ekonomická aktivita, dosiahnuté vzdelanie, účasť na formálnom a neformálnom vzdelávaní a neformálnom učení sa, prekážky vo vzdelávaní, počítačové zručnosti, znalosť jazykov a účasť na kultúrnom a spoločenskom živote.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Fyzická osoba vo veku 18 až 64 rokov.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita štatistického zisťovania: jednorazovo.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. novembra 2011.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+
+- 21. Názov štatistického zisťovania: Štvrťročný výkaz o cenách v lesnom hospodárstve
+
+- Značka štatistického zisťovania: Ceny Les 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -884,9 +962,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -923,42 +1001,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - Periodicita štatistického zisťovania: mesačne.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 22. kalendárneho dňa sledovaného mesiaca.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
-
-- 23. Názov štatistického zisťovania: Mesačný výkaz o cenách vo vodnom hospodárstve
-
-- Značka štatistického zisťovania: Ceny Vod 1-12
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o cenách pitnej vody a odvádzanej vody. Výsledky zisťovania sa využijú na hodnotenie vývoja cenovej úrovne výrobcov, na výpočet indexov cien pitnej vody a odvádzanej vody a na prepočty ukazovateľov odvetvovej štatistiky do stálych cien.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>14</sup>)
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: výberové zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: cena fakturovanej pitnej vody, cena odvádzanej a čistenej vody v domácnostiach a u ostatných odberateľov, raz ročne údaje o tržbách.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Podniky zapísané v obchodnom registri, s počtom zamestnancov 20 a viac, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s hlavnou činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
-
-- 36 – Zber, úprava a dodávka vody a
-
-- 37 – Čistenie a odvod odpadových vôd.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: mesačne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 12. kalendárneho dňa sledovaného mesiaca.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1106,9 +1148,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
 
-- 28. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti nehnuteľností
+- 28. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti nehnuteľností
 
-- Značka štatistického zisťovania: Ceny VTS 1-12
+- Značka štatistického zisťovania: Ceny VTS 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1130,9 +1172,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1140,9 +1182,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 29. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti prenájmu strojov a prístrojov
+- 29. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti prenájmu strojov a prístrojov
 
-- Značka štatistického zisťovania: Ceny VTS 2-12
+- Značka štatistického zisťovania: Ceny VTS 2-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1164,9 +1206,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1174,9 +1216,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 30. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti spracovania dát
+- 30. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti spracovania dát
 
-- Značka štatistického zisťovania: Ceny VTS 3-12
+- Značka štatistického zisťovania: Ceny VTS 3-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1202,9 +1244,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1212,9 +1254,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 31. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb určených prevažne pre podniky
+- 31. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb určených prevažne pre podniky
 
-- Značka štatistického zisťovania: Ceny VTS 4-12
+- Značka štatistického zisťovania: Ceny VTS 4-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1250,9 +1292,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1260,9 +1302,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 32. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti pôšt a telekomunikácií
+- 32. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti pôšt a telekomunikácií
 
-- Značka štatistického zisťovania: Ceny VTS 5-12
+- Značka štatistického zisťovania: Ceny VTS 5-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1288,9 +1330,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1298,9 +1340,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 33. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti finančného lízingu
+- 33. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti finančného lízingu
 
-- Značka štatistického zisťovania: Ceny VTS 6-12
+- Značka štatistického zisťovania: Ceny VTS 6-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1322,9 +1364,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1332,9 +1374,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 34. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti poisťovníctva
+- 34. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti poisťovníctva
 
-- Značka štatistického zisťovania: Ceny VTS 7-12
+- Značka štatistického zisťovania: Ceny VTS 7-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1356,9 +1398,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1366,9 +1408,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 35. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti bankovníctva
+- 35. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti bankovníctva
 
-- Značka štatistického zisťovania: Ceny VTS 8-12
+- Značka štatistického zisťovania: Ceny VTS 8-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1390,9 +1432,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1400,9 +1442,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 36. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti vnútroštátnej železničnej dopravy nákladov
+- 36. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej železničnej dopravy nákladov
 
-- Značka štatistického zisťovania: Ceny VTS 9-12
+- Značka štatistického zisťovania: Ceny VTS 9-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1424,9 +1466,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1434,9 +1476,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 37. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti vnútroštátnej cestnej dopravy nákladov
+- 37. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej cestnej dopravy nákladov
 
-- Značka štatistického zisťovania: Ceny VTS 10-12
+- Značka štatistického zisťovania: Ceny VTS 10-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1458,9 +1500,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1468,9 +1510,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 38. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti vnútrozemskej vodnej dopravy nákladov
+- 38. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti vnútrozemskej vodnej dopravy nákladov
 
-- Značka štatistického zisťovania: Ceny VTS 11-12
+- Značka štatistického zisťovania: Ceny VTS 11-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1492,9 +1534,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1502,9 +1544,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 39. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti vnútroštátnej leteckej dopravy nákladov
+- 39. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej leteckej dopravy nákladov
 
-- Značka štatistického zisťovania: Ceny VTS 12-12
+- Značka štatistického zisťovania: Ceny VTS 12-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1526,9 +1568,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: mesačne.
+- Periodicita štatistického zisťovania: štvrťročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1536,9 +1578,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
 - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
 
-- 40. Názov štatistického zisťovania: Mesačný výkaz o cenách služieb v oblasti vnútroštátnej potrubnej dopravy nákladov
+- 40. Názov štatistického zisťovania: Štvrťročný výkaz o cenách služieb v oblasti vnútroštátnej potrubnej dopravy nákladov
 
-  - Značka štatistického zisťovania: Ceny VTS 13-12
+  - Značka štatistického zisťovania: Ceny VTS 13-04
 
   - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1562,9 +1604,9 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 
   - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-    - Periodicita štatistického zisťovania: mesačne.
+    - Periodicita štatistického zisťovania: štvrťročne.
 
-    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa sledovaného mesiaca.
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
 
   - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1633,6 +1675,80 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
     - Periodicita štatistického zisťovania: štvrťročne.
 
     - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
+
+  - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+    - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
+
+- 42a. Názov štatistického zisťovania: Jednorazové zisťovanie k výberu reprezentantov sledovania vývoja cien priemyselných výrobcov
+
+  - Značka štatistického zisťovania: Ceny VC 4-99
+
+  - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom štatistického zisťovania je aktualizácia súboru cenových reprezentantov, vytvorenie novej váhovej schémy podľa štruktúry tržieb v roku 2010 a zvýšenie vypovedacej schopnosti publikovaného indexu cien priemyselných výrobcov. Pre jednorazové zisťovanie budú vybraté priemyselné podniky z pohľadu dosiahnutia najlepšieho pokrytia štruktúry priemyselnej výroby vybranými reprezentantmi. Cieľom štatistického zisťovania je výpočet indexov cien výrobcov v priemysle pre potreby analytického hodnotenia vývoja cenovej hladiny v priemysle a rýchlej informácie o vývoji hospodárskeho cyklu. Výsledky zisťovania sa využijú na prepočty hodnotových ukazovateľov priemyslu a národných účtov do stálych cien a pre medzinárodné štatistiky.
+
+    - Získavanie informácií ustanovuje osobitný predpis.<sup>14</sup>)
+
+  - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+    - Použitá metóda: výberové zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: ceny vybraných výrobkov priemyselných výrobcov určených pre tuzemsko a priamy vývoz, tržby za výrobok v členení podľa štatistickej klasifikácie produktov podľa činností (CPA) ustanovenej osobitným predpisom.<sup>15</sup>)
+
+  - c) Vymedzenie spravodajských jednotiek
+
+    - Podniky zapísané v obchodnom registri, s počtom zamestnancov 20 a viac, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s hlavnou činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - 05 až 09 | – | Ťažba a dobývanie,
+
+    - 10 až 33 | – | Priemyselná výroba,
+
+    - 35 | – | Dodávka elektriny, plynu, pary a studeného vzduchu a
+
+    - 36 až 39 | – | Dodávka vody; čistenie a odvod odpadových vôd, odpady a služby odstraňovania odpadov.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita štatistického zisťovania: jednorazovo.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája 2011.
+
+  - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+    - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+    - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Trenčíne.
+
+- 42b. Názov štatistického zisťovania: Jednorazové zisťovanie k výberu reprezentantov sledovania vývoja cien v stavebníctve
+
+  - Značka štatistického zisťovania: Ceny Stav 9-99
+
+  - a) Účel a využitie výsledkov štatistického zisťovania
+
+    - Účelom štatistického zisťovania je aktualizácia súboru reprezentantov a vytvorenie novej váhovej schémy podľa štruktúry tržieb v stavebníctve v roku 2010. Týmto opatrením sa dosiahne zvýšenie vypovedacej schopnosti v súčasnej dobe publikovaného indexu cien stavebných prác, materiálov a výrobkov spotrebúvaných v stavebníctve Slovenskej republiky.
+
+    - Získavanie informácií ustanovuje osobitný predpis.<sup>14</sup>)
+
+  - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+    - Použitá metóda: výberové zisťovanie.
+
+    - Charakteristika navrhnutých ukazovateľov: cena vybraných stavebných prác a materiálov v členení podľa štatistickej klasifikácie produktov podľa činností (CPA) ustanovenej osobitným predpisom.<sup>15</sup>)
+
+  - c) Vymedzenie spravodajských jednotiek
+
+    - Podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s hlavnou činnosťou podľa Štatistickej klasifikácie ekonomických činností ustanovenej osobitným predpisom:<sup>5</sup>)
+
+    - 41 až 43 – Stavebníctvo.
+
+  - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+    - Periodicita štatistického zisťovania: jednorazovo.
+
+    - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. júna 2011.
 
   - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2047,38 +2163,6 @@ Príloha č. 1 k vyhláške č. 416/2008 Z. z.
 - 36 až 39 – Dodávka vody; čistenie a odvod odpadových vôd, odpady a služby odstraňovania odpadov,
 
 - a vybrané organizácie bez ohľadu na počet zamestnancov a hlavnú činnosť, v ktorých je významný objem výroby priemyselných výrobkov.
-
-- d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-- Periodicita štatistického zisťovania: ročne.
-
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko v Banskej Bystrici.
-
-- 51. Názov štatistického zisťovania: Ročný výkaz o oceli a železe
-
-- Značka štatistického zisťovania: Oceľ 1-01
-
-- a) Účel a využitie výsledkov štatistického zisťovania
-
-- Účelom štatistického zisťovania je získať informácie o produkcii a kapacitách železiarskeho a oceliarskeho priemyslu, o spotrebe a predaji palív a energie, o spotrebe surového materiálu a valcovaných výrobkov, cenách vstupných materiálov a vybraných výrobkov, o nákladoch na obstaranie dlhodobého hmotného majetku podľa prevádzok, o bilancii elektriny, oceľového a liatinového šrotu. Výsledky zisťovania sa využijú na získanie základných informácií potrebných na vytvorenie informačného systému o železiarskom a oceliarskom priemysle, na energetickú bilanciu Slovenskej republiky, na bilancovanie železiarskych a oceliarskych výrobkov a pre potreby medzinárodných organizácií.
-
-- Získavanie informácií ustanovuje osobitný predpis.<sup>20</sup>)
-
-- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-- Použitá metóda: vyčerpávajúce zisťovanie.
-
-- Charakteristika navrhnutých ukazovateľov: kapacity železiarskeho a oceliarskeho priemyslu, produkcia a spotreba v tonách, výroba surového železa, výroba surovej ocele (legovanej a nelegovanej) v tonách, výroba a spotreba surového materiálu (železná ruda, mangánová ruda, koks) v tonách, výroba valcovaných výrobkov z ocele a železa v tonách, spotreba a predaj paliva a energie podľa druhov a zariadení v tonách (resp. v GJ), bilančné ukazovatele – bilancia elektriny v oceliarskom priemysle v MWh, bilancia oceľového a liatinového šrotu (stav zásob k 1. januáru a k 31. decembru, nákup, spotreba a predaj) v tonách, finančné ukazovatele – výdavky na obstaranie dlhodobého hmotného majetku v eurách podľa prevádzok.
-
-- c) Vymedzenie spravodajských jednotiek
-
-- Podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov, ktoré sú vedené v registri Štatistického úradu Slovenskej republiky a vyrábajú výrobky patriace podľa Zoznamu vybraných priemyselných výrobkov (PRODSLOV) do kódov 2410000000 – 2410999999 (výroba železa, ocele a ferozliatin).
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3880,7 +3964,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok prijali tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 800 000 eur.
+- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 600 000 eur.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3912,7 +3996,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok odoslali tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 2 000 000 eur.
+- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 1 700 000 eur.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3944,7 +4028,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka prijali tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 200 000 eur a nižšej ako 800 000 eur.
+- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 200 000 eur a rovnajúcej sa alebo nižšej ako 600 000 eur.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3976,7 +4060,7 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 
 - c) Vymedzenie spravodajských jednotiek
 
-- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka odoslali tovary Spoločenstva v súhrnnej hodnote rovnej alebo vyššej ako 400 000 eur a nižšej ako 2 000 000 eur.
+- Právnické osoby a fyzické osoby registrované ako platitelia dane z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 400 000 eur a rovnajúcej sa alebo nižšej ako 1 700 000 eur.
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -4015,6 +4099,38 @@ C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turist
 - Periodicita štatistického zisťovania: mesačne.
 
 - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
+
+- e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+- Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+- Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+- 97a. Názov štatistického zisťovania: Jednorazové zisťovanie k výberu reprezentantov sledovania vývoja cien v zahraničnom obchode
+
+- Značka štatistického zisťovania: ZO 2-99
+
+- a) Účel a využitie výsledkov štatistického zisťovania
+
+- Účelom štatistického zisťovania je získať informácie na aktualizáciu súboru reprezentantov a vytvorenie novej váhovej schémy podľa štruktúry dovozu alebo prijatia a vývozu alebo odoslania v roku 2010, vytvorenie základne pre následné pravidelné mesačné štatistické zisťovanie, získať informácie o dovozných cenách a vývozných cenách vybraných tovarov na výpočet indexov cien v zahraničnom obchode pre potreby analytického hodnotenia vývoja cenovej hladiny pri dovoze alebo prijatí a vývoze alebo odoslaní. Výsledky zisťovania sa využijú na prepočty dovozu alebo prijatí a vývozu alebo odoslaní tovaru do stálych cien a pre medzinárodné štatistiky.
+
+- Získavanie informácií ustanovuje osobitný predpis.<sup>14</sup>)
+
+- b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+- Použitá metóda: výberové zisťovanie.
+
+- Charakteristika navrhnutých ukazovateľov: dovozná cena a vývozná cena vybraných tovarov za rok 2010, hodnota dovozu alebo prijatia a vývozu alebo odoslania za rok 2010.
+
+- c) Vymedzenie spravodajských jednotiek
+
+- Právnické osoby a fyzické osoby – podnikatelia, bez ohľadu na počet zamestnancov a hlavnú činnosť, ktoré sú vedené v registri subjektov zahraničného obchodu.
+
+- d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+- Periodicita štatistického zisťovania: jednorazovo.
+
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája 2011.
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 

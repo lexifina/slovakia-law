@@ -28,49 +28,49 @@ Príloha č. 2 k vyhláške č. 416/2008 Z. z.
 
   - 9. | V (MPSVR SR) 13-01 | Ročný výkaz o vykonávaní vybraných opatrení sociálnoprávnej ochrany detí a sociálnej kurately
 
-  - MINISTERSTVO ŠKOLSTVA SLOVENSKEJ REPUBLIKY | |
+  - MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ REPUBLIKY | |
 
-  - 10. | Škol (MŠ SR) 1-01 | Výkaz o materskej škole
+  - 10. | Škol (MŠVVŠ SR) 1-01 | Výkaz o materskej škole
 
-  - 11. | Škol (MŠ SR) 2-01 | Výkaz o strednej škole
+  - 11. | Škol (MŠVVŠ SR) 2-01 | Výkaz o strednej škole
 
-  - 12. | Škol (MŠ SR) 3-01 | Výkaz o základnej škole
+  - 12. | Škol (MŠVVŠ SR) 3-01 | Výkaz o základnej škole
 
-  - 13. | Škol (MŠ SR) 4-01 | Výkaz o materskej škole pre deti so zdravotným znevýhodnením, o základnej škole pre žiakov so zdravotným znevýhodnením
+  - 13. | Škol (MŠVVŠ SR) 4-01 | Výkaz o materskej škole pre deti so zdravotným znevýhodnením, o základnej škole pre žiakov so zdravotným znevýhodnením
 
-  - 14. | Škol (MŠ SR) 5-01 | Výkaz o školských zariadeniach výchovného poradenstva a prevencie
+  - 14. | Škol (MŠVVŠ SR) 5-01 | Výkaz o školských zariadeniach výchovného poradenstva a prevencie
 
-  - 15. | Škol (MŠ SR) 10-01 | Výkaz o školskej a akademickej knižnici
+  - 15. | Škol (MŠVVŠ SR) 10-01 | Výkaz o školskej a akademickej knižnici
 
-  - 16. | Škol (MŠ SR) 11-01 | Výkaz o vysokej škole
+  - 16. | Škol (MŠVVŠ SR) 11-01 | Výkaz o vysokej škole
 
-  - 17. | Škol (MŠ SR) 12-01 | Výkaz o absolventoch vysokých škôl
+  - 17. | Škol (MŠVVŠ SR) 12-01 | Výkaz o absolventoch vysokých škôl
 
-  - 18. | Škol (MŠ SR) 14-01 | Výkaz o špeciálnych výchovných zariadeniach
+  - 18. | Škol (MŠVVŠ SR) 14-01 | Výkaz o špeciálnych výchovných zariadeniach
 
-  - 19. | Škol (MŠ SR) 15-01 | Výkaz o zariadení určenom na voľný čas a záujmovú činnosť detí
+  - 19. | Škol (MŠVVŠ SR) 15-01 | Výkaz o zariadení určenom na voľný čas a záujmovú činnosť detí
 
-  - 20. | Škol (MŠ SR) 18-01 | Výkaz o jazykovej škole
+  - 20. | Škol (MŠVVŠ SR) 18-01 | Výkaz o jazykovej škole
 
-  - 21. | Škol (MŠ SR) 19-01 | Výkaz o školskom internáte
+  - 21. | Škol (MŠVVŠ SR) 19-01 | Výkaz o školskom internáte
 
-  - 22. | Škol (MŠ SR) 20-01 | Výkaz o vysokoškolskom internáte
+  - 22. | Škol (MŠVVŠ SR) 20-01 | Výkaz o vysokoškolskom internáte
 
-  - 23. | Škol (MŠ SR) 24-01 | Výkaz o základnej umeleckej škole
+  - 23. | Škol (MŠVVŠ SR) 24-01 | Výkaz o základnej umeleckej škole
 
-  - 24. | Škol (MŠ SR) 26-01 | Výkaz o športovej škole a športovej triede
+  - 24. | Škol (MŠVVŠ SR) 26-01 | Výkaz o športovej škole a športovej triede
 
-  - 25. | Škol (MŠ SR) 30-01 | Výkaz o športe pri škole a školskom zariadení
+  - 25. | Škol (MŠVVŠ SR) 30-01 | Výkaz o športe pri škole a školskom zariadení
 
-  - 26. | Škol (MŠ SR) 31-01 | Výkaz o telovýchovných zariadeniach využívaných školou (rok zisťovania 2010)
+  - 26. | Škol (MŠVVŠ SR) 31-01 | Výkaz o telovýchovných zariadeniach využívaných školou (rok zisťovania 2010)
 
-  - 27. | Sport (MŠ SR) 1-01 | Výkaz o centrách talentovanej mládeže
+  - 27. | Sport (MŠVVŠ SR) 1-01 | Výkaz o centrách talentovanej mládeže
 
-  - 28. | Dalv (MŠ SR) 1-01 | Výkaz o ďalšom vzdelávaní
+  - 28. | Dalv (MŠVVŠ SR) 1-01 | Výkaz o ďalšom vzdelávaní
 
-  - 29. | IKT (MŠ SR) 1-01 | Ročný výkaz o informačných technológiách v škole
+  - 29. | IKT (MŠVVŠ SR) 1-01 | Ročný výkaz o informačných technológiách v škole
 
-  - 30. | Škol (MŠ SR) 5-99 | Zisťovanie kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania (rok zisťovania 2009)
+  - 30. | Škol (MŠVVŠ SR) 5-99 | Zisťovanie kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania (rok zisťovania 2009)
 
   - MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY | |
 
@@ -196,101 +196,101 @@ SPRÁVA ŠTÁTNYCH HMOTNÝCH REZERV SLOVENSKEJ REPUBLIKY | |
 
 89. | Ropa (SŠHR SR) 1-12 | Mesačný výkaz o rope, ropných výrobkoch a zemnom plyne
 
-MINISTERSTVO DOPRAVY, PÔŠT A TELEKOMUNIKÁCIÍ SLOVENSKEJ REPUBLIKY | |
+MINISTERSTVO DOPRAVY, VÝSTAVBY A REGIONÁLNEHO ROZVOJA SLOVENSKEJ REPUBLIKY | |
 
-90. | V (MDPT SR) 1-01 | Ročný výkaz o výkonoch a nákladoch na diaľniciach a na cestách
+90. | V (MDVRR SR) 1-01 | Ročný výkaz o výkonoch a nákladoch na diaľniciach a na cestách
 
-91. | ZF (MDPT SR) 1-01 | Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
+91. | ZF (MDVRR SR) 1-01 | Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
 
-92. | CI (MDPT SR) 1-01 | Ročný výkaz o cestách a ich objektoch
+92. | CI (MDVRR SR) 1-01 | Ročný výkaz o cestách a ich objektoch
 
-93. | CI (MDPT SR) 2-01 | Ročný výkaz o diaľniciach a rýchlostných cestách a ich objektoch
+93. | CI (MDVRR SR) 2-01 | Ročný výkaz o diaľniciach a rýchlostných cestách a ich objektoch
 
-94. | CI (MDPT SR) 3-01 | Ročný výkaz o financovaní cestnej infraštruktúry
+94. | CI (MDVRR SR) 3-01 | Ročný výkaz o financovaní cestnej infraštruktúry
 
-95. | KD (MDPT SR) 1-01 | Ročný výkaz o technických a prevádzkových parametroch terminálu kombinovanej dopravy
+95. | KD (MDVRR SR) 1-01 | Ročný výkaz o technických a prevádzkových parametroch terminálu kombinovanej dopravy
 
-96. | KD (MDPT SR) 2-01 | Ročný výkaz o preprave tovaru kombinovanou dopravou
+96. | KD (MDVRR SR) 2-01 | Ročný výkaz o preprave tovaru kombinovanou dopravou
 
-97. | VD (MDPT SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru vo vodnej doprave
+97. | VD (MDVRR SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru vo vodnej doprave
 
-98. | ŽD (MDPT SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru v železničnej doprave
+98. | ŽD (MDVRR SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru v železničnej doprave
 
-99. | INVD (MDPT SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru leteckej dopravy, potrubnej dopravy a mestskej alebo prímestskej osobnej pozemnej dopravy
+99. | INVD (MDVRR SR) 1-01 | Ročný výkaz o nákladoch na infraštruktúru leteckej dopravy, potrubnej dopravy a mestskej alebo prímestskej osobnej pozemnej dopravy
 
-100. | MPO (MDPT SR) 1-01 | Ročný výkaz o medzinárodnej preprave osôb cez územie Slovenskej republiky
+100. | MPO (MDVRR SR) 1-01 | Ročný výkaz o medzinárodnej preprave osôb cez územie Slovenskej republiky
 
-101. | MK (MDPT SR) 1-01 | Ročný výkaz o miestnych komunikáciách (rok zisťovania 2009)
+101. | MK (MDVRR SR) 1-01 | Ročný výkaz o miestnych komunikáciách (rok zisťovania 2009)
 
-102. | FET (MDPT SR) 1-01 | Ročný výkaz o ekonomických ukazovateľoch
+102. | FET (MDVRR SR) 1-01 | Ročný výkaz o ekonomických ukazovateľoch
 
-103. | EKSS (MDPT SR) 1-02 | Polročný výkaz o elektronických komunikačných sieťach a službách
+103. | EKSS (MDVRR SR) 1-02 | Polročný výkaz o elektronických komunikačných sieťach a službách
 
 POŠTOVÝ REGULAČNÝ ÚRAD | |
 
 104. | PO (PRÚ) 1-01 | Ročný výkaz o poštovej sieti
 
-105. | PO (PRÚ) 2-01 | Ročný výkaz o poštových službách, ich kvalite a o poštovom platobnom styku
+105. | PO (PRÚ) 2-02 | Polročný výkaz o poštových službách, ich kvalite a o poštovom platobnom styku
 
-106. | PO (PRÚ) 3-01 | Ročný výkaz o finančných ukazovateľoch poštových podnikov
+106. | PO (PRÚ) 3-02 | Polročný výkaz o finančných ukazovateľoch poštových podnikov
 
 IV. Poľnohospodárstvo, lesníctvo a rybolov
 
-MINISTERSTVO PÔDOHOSPODÁRSTVA SLOVENSKEJ REPUBLIKY | |
+MINISTERSTVO PÔDOHOSPODÁRSTVA A ROZVOJA VIDIEKA SLOVENSKEJ REPUBLIKY | |
 
-107. | BM (MP SR) 1-12 | Mesačný výkaz o zabití jatočných zvierat a hodnote ich nákupu podľa akostných tried
+107. | BM (MPRV SR) 1-12 | Mesačný výkaz o zabití jatočných zvierat a hodnote ich nákupu podľa akostných tried
 
-108. | RM (MP SR) 2-12 | Mesačný výkaz o bilancii mäsa na kosti a výrobkov z mäsa
+108. | RM (MPRV SR) 2-12 | Mesačný výkaz o bilancii mäsa na kosti a výrobkov z mäsa
 
-109. | CM (MP SR) 3-12 | Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
+109. | CM (MPRV SR) 3-12 | Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
 
-110. | ML (MP SR) 6-12 | Mesačný výkaz o nákupe mlieka a smotany a výrobe mliečnych výrobkov
+110. | ML (MPRV SR) 6-12 | Mesačný výkaz o nákupe mlieka a smotany a výrobe mliečnych výrobkov
 
-111. | OB (MP SR) 9-12 | Mesačný výkaz o zdrojoch, predaji a použití obilnín
+111. | OB (MPRV SR) 9-12 | Mesačný výkaz o zdrojoch, predaji a použití obilnín
 
-112. | FCMIZ (MP SR) 1-12 | Mesačný výkaz o fondoch cukru, melasy a izoglukózy
+112. | FCMIZ (MPRV SR) 1-12 | Mesačný výkaz o fondoch cukru, melasy a izoglukózy
 
-113. | LIAH (MP SR) 1-12 | Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
+113. | LIAH (MPRV SR) 1-12 | Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
 
-114. | VOH (MP SR) 7-12 | Mesačný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
+114. | VOH (MPRV SR) 7-12 | Mesačný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
 
-115. | FCMIZ (MP SR) 3-04 | Štvrťročný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
+115. | FCMIZ (MPRV SR) 3-04 | Štvrťročný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
 
-116. | Sklad (MP SR) 1-04 | Štvrťročný výkaz o bilancii tovarov uskladnených vo verejnom sklade
+116. | Sklad (MPRV SR) 1-04 | Štvrťročný výkaz o bilancii tovarov uskladnených vo verejnom sklade
 
-117. | LB (MP SR) 1-04 | Štvrťročný výkaz o bilancii surového liehu
+117. | LB (MPRV SR) 1-04 | Štvrťročný výkaz o bilancii surového liehu
 
-118. | LB (MP SR) 2-04 | Štvrťročný výkaz o bilancii rafinovaného liehu
+118. | LB (MPRV SR) 2-04 | Štvrťročný výkaz o bilancii rafinovaného liehu
 
-119. | LB (MP SR) 3-04 | Štvrťročný výkaz o bilancii liehovín
+119. | LB (MPRV SR) 3-04 | Štvrťročný výkaz o bilancii liehovín
 
-120. | LB (MP SR) 4-04 | Štvrťročný výkaz o bilancii destilátov
+120. | LB (MPRV SR) 4-04 | Štvrťročný výkaz o bilancii destilátov
 
-121. | KRMZ (MP SR) 1-04 | Štvrťročný výkaz o výrobe kompletných kŕmnych zmesí a spotrebe surovín pri ich výrobe
+121. | KRMZ (MPRV SR) 1-04 | Štvrťročný výkaz o výrobe kompletných kŕmnych zmesí a spotrebe surovín pri ich výrobe
 
-122. | Les (MP SR) 2-04 | Štvrťročný výkaz o dodávkach dreva v lesníctve
+122. | Les (MPRV SR) 2-04 | Štvrťročný výkaz o dodávkach dreva v lesníctve
 
-123. | Ryby (MPSR) 1-04 | Štvrťročný výkaz o spracovaní produktov rybolovu a akvakultúry
+123. | Ryby (MPRV SR) 1-04 | Štvrťročný výkaz o spracovaní produktov rybolovu a akvakultúry
 
-124. | ODV (MP SR) 7-02 | Polročný výkaz o pohybe výrobkov
+124. | ODV (MPRV SR) 7-02 | Polročný výkaz o pohybe výrobkov
 
-125. | ML (MP SR) 6-01 | Ročný výkaz o produkcii a využití mlieka v mliekarniach
+125. | ML (MPRV SR) 6-01 | Ročný výkaz o produkcii a využití mlieka v mliekarniach
 
-126. | Les (MP SR) 5-01 | Ročný výkaz o stave vybraných ukazovateľov obhospodarovania lesa
+126. | Les (MPRV SR) 5-01 | Ročný výkaz o stave vybraných ukazovateľov obhospodarovania lesa
 
-130. | Sad (MP SR) 11-01 | Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
+130. | Sad (MPRV SR) 11-01 | Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
 
-131. | Poľov (MP SR) 12-01 | Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
+131. | Poľov (MPRV SR) 12-01 | Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
 
-132. | Včelár (MP SR) 1-01 | Ročný výkaz o včelárstve
+132. | Včelár (MPRV SR) 1-01 | Ročný výkaz o včelárstve
 
-133. | Odh (MP SR) 1-99 | Odhad úrody ovocia a produkcia ovocia
+133. | Odh (MPRV SR) 1-99 | Odhad úrody ovocia a produkcia ovocia
 
-134. | Usk (MP SR) 3-99 | Výkaz o uskladnení jabĺk a hrušiek
+134. | Usk (MPRV SR) 3-99 | Výkaz o uskladnení jabĺk a hrušiek
 
-135. | ENERG (MP SR) 1-01 | Ročný výkaz o spotrebe palív, energie a ich cene (rok zisťovania 2011)
+135. | ENERG (MPRV SR) 1-01 | Ročný výkaz o spotrebe palív, energie a ich cene (rok zisťovania 2011)
 
-135a. | Drevo (MP SR) 1-01 | Ročný výkaz o spracovaní dreva
+135a. | Drevo (MPRV SR) 1-01 | Ročný výkaz o spracovaní dreva
 
 V. Štatistika týkajúca sa viacerých oblastí | |
 
@@ -299,6 +299,8 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 136. | Geo (MŽP SR) 3-01 | Výkaz o stave a zmenách zásob výhradných ložísk
 
 137. | Geo (MŽP SR) 3a-01 | Výkaz o stave a zmenách zásob ložísk nevyhradených nerastov
+
+- Charakteristiky zisťovaní
 
 - 1. Názov štatistického zisťovania: Štvrťročný výkaz o cene práce
 
@@ -598,7 +600,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 10. Názov štatistického zisťovania: Výkaz o materskej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 1-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -628,7 +630,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 11. Názov štatistického zisťovania: Výkaz o strednej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 2-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 2-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -658,7 +660,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 12. Názov štatistického zisťovania: Výkaz o základnej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 3-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 3-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -688,7 +690,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 13. Názov štatistického zisťovania: Výkaz o materskej škole pre deti so zdravotným znevýhodnením, o základnej škole pre žiakov so zdravotným znevýhodnením
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 4-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 4-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -718,7 +720,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 14. Názov štatistického zisťovania: Výkaz o školských zariadeniach výchovného poradenstva a prevencie
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 5-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 5-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -748,7 +750,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 15. Názov štatistického zisťovania: Výkaz o školskej a akademickej knižnici
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 10-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 10-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -778,7 +780,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 16. Názov štatistického zisťovania: Výkaz o vysokej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 11-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 11-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -808,7 +810,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 17. Názov štatistického zisťovania: Výkaz o absolventoch vysokých škôl
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 12-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 12-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -838,7 +840,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 18. Názov štatistického zisťovania: Výkaz o špeciálnych výchovných zariadeniach
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 14-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 14-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -868,7 +870,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 19. Názov štatistického zisťovania: Výkaz o zariadení určenom na voľný čas a záujmovú činnosť detí
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 15-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 15-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -898,7 +900,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 20. Názov štatistického zisťovania: Výkaz o jazykovej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 18-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 18-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -928,7 +930,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 21. Názov štatistického zisťovania: Výkaz o školskom internáte
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 19-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 19-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -958,7 +960,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 22. Názov štatistického zisťovania: Výkaz o vysokoškolskom internáte
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 20-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 20-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -988,7 +990,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 23. Názov štatistického zisťovania: Výkaz o základnej umeleckej škole
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 24-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 24-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1018,7 +1020,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 24. Názov štatistického zisťovania: Výkaz o športovej škole a športovej triede
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 26-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 26-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1048,7 +1050,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 25. Názov štatistického zisťovania: Výkaz o športe pri škole a školskom zariadení
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 30-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 30-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1078,7 +1080,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 26. Názov štatistického zisťovania: Výkaz o telovýchovných zariadeniach využívaných školou
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 31-01
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 31-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1138,7 +1140,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 28. Názov štatistického zisťovania: Výkaz o ďalšom vzdelávaní
 
-- Značka štatistického zisťovania: Dalv (MŠ SR) 1-01
+- Značka štatistického zisťovania: Dalv (MŠVVŠ SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1168,7 +1170,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 29. Názov štatistického zisťovania: Ročný výkaz o informačných technológiách v škole
 
-- Značka štatistického zisťovania: IKT (MŠ SR) 1-01
+- Značka štatistického zisťovania: IKT (MŠVVŠ SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1198,7 +1200,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 30. Názov štatistického zisťovania: Zisťovanie kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania
 
-- Značka štatistického zisťovania: Škol (MŠ SR) 5-99
+- Značka štatistického zisťovania: Škol (MŠVVŠ SR) 5-99
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3118,7 +3120,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 90. Názov štatistického zisťovania: Ročný výkaz o výkonoch a nákladoch na diaľniciach a na cestách
 
-- Značka štatistického zisťovania: V (MDPT SR) 1-01
+- Značka štatistického zisťovania: V (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3148,7 +3150,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 91. Názov štatistického zisťovania: Ročný výkaz o vybavení základnými fondmi na diaľniciach a na cestách
 
-- Značka štatistického zisťovania: ZF (MDPT SR) 1-01
+- Značka štatistického zisťovania: ZF (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3178,7 +3180,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 92. Názov štatistického zisťovania: Ročný výkaz o cestách a ich objektoch
 
-- Značka štatistického zisťovania: CI (MDPT SR) 1-01
+- Značka štatistického zisťovania: CI (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3208,7 +3210,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 93. Názov štatistického zisťovania: Ročný výkaz o diaľniciach a rýchlostných cestách a ich objektoch
 
-- Značka štatistického zisťovania: CI (MDPT SR) 2-01
+- Značka štatistického zisťovania: CI (MDVRR SR) 2-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3238,7 +3240,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 94. Názov štatistického zisťovania: Ročný výkaz o financovaní cestnej infraštruktúry
 
-- Značka štatistického zisťovania: CI (MDPT SR) 3-01
+- Značka štatistického zisťovania: CI (MDVRR SR) 3-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3270,7 +3272,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 95. Názov štatistického zisťovania: Ročný výkaz o technických a prevádzkových parametroch terminálu kombinovanej dopravy
 
-- Značka štatistického zisťovania: KD (MDPT SR) 1-01
+- Značka štatistického zisťovania: KD (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3310,7 +3312,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 96. Názov štatistického zisťovania: Ročný výkaz o preprave tovaru kombinovanou dopravou
 
-- Značka štatistického zisťovania: KD (MDPT SR) 2-01
+- Značka štatistického zisťovania: KD (MDVRR SR) 2-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3348,7 +3350,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 97. Názov štatistického zisťovania: Ročný výkaz o nákladoch na infraštruktúru vo vodnej doprave
 
-- Značka štatistického zisťovania: VD (MDPT SR) 1-01
+- Značka štatistického zisťovania: VD (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3382,7 +3384,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 98. Názov štatistického zisťovania: Ročný výkaz o nákladoch na infraštruktúru v železničnej doprave
 
-- Značka štatistického zisťovania: ŽD (MDPT SR) 1-01
+- Značka štatistického zisťovania: ŽD (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3414,7 +3416,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 99. Názov štatistického zisťovania: Ročný výkaz o nákladoch na infraštruktúru leteckej dopravy, potrubnej dopravy a mestskej alebo prímestskej osobnej pozemnej dopravy
 
-- Značka štatistického zisťovania: INVD (MDPT SR) 1-01
+- Značka štatistického zisťovania: INVD (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3452,7 +3454,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 100. Názov štatistického zisťovania: Ročný výkaz o medzinárodnej preprave osôb cez územie Slovenskej republiky
 
-- Značka štatistického zisťovania: MPO (MDPT SR) 1-01
+- Značka štatistického zisťovania: MPO (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3490,7 +3492,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 101. Názov štatistického zisťovania: Ročný výkaz o miestnych komunikáciách
 
-- Značka štatistického zisťovania: MK (MDPT SR) 1-01
+- Značka štatistického zisťovania: MK (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3520,7 +3522,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 102. Názov štatistického zisťovania: Ročný výkaz o ekonomických ukazovateľoch
 
-- Značka štatistického zisťovania: FET (MDPT SR) 1-01
+- Značka štatistického zisťovania: FET (MDVRR SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3550,7 +3552,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 103. Názov štatistického zisťovania: Polročný výkaz o elektronických komunikačných sieťach a službách
 
-- Značka štatistického zisťovania: EKSS (MDPT SR) 1-02
+- Značka štatistického zisťovania: EKSS (MDVRR SR) 1-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3610,9 +3612,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
-- 105. Názov štatistického zisťovania: Ročný výkaz o poštových službách, ich kvalite a o poštovom platobnom styku
+- 105. Názov štatistického zisťovania: Polročný výkaz o poštových službách, ich kvalite a o poštovom platobnom styku
 
-- Značka štatistického zisťovania: PO (PRÚ) 2-01
+- Značka štatistického zisťovania: PO (PRÚ) 2-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3632,9 +3634,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: ročne.
+- Periodicita štatistického zisťovania: polročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. augusta a do 28. februára po sledovanom období
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3642,9 +3644,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - Orgán zabezpečujúci jeho spracovanie: Poštový regulačný úrad.
 
-- 106. Názov štatistického zisťovania: Ročný výkaz o finančných ukazovateľoch poštových podnikov
+- 106. Názov štatistického zisťovania: Polročný výkaz o finančných ukazovateľoch poštových podnikov
 
-- Značka štatistického zisťovania: PO (PRÚ) 3-01
+- Značka štatistického zisťovania: PO (PRÚ) 3-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3664,9 +3666,9 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-- Periodicita štatistického zisťovania: ročne.
+- Periodicita štatistického zisťovania: polročne.
 
-- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla po skončení sledovaného obdobia.
+- Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. augusta a do 30. apríla po sledovanom období
 
 - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3676,7 +3678,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 107. Názov štatistického zisťovania: Mesačný výkaz o zabití jatočných zvierat a hodnote ich nákupu podľa akostných tried
 
-- Značka štatistického zisťovania: BM (MP SR) 1-12
+- Značka štatistického zisťovania: BM (MPRV SR) 1-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3710,7 +3712,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 108. Názov štatistického zisťovania: Mesačný výkaz o bilancii mäsa na kosti a výrobkov z mäsa
 
-- Značka štatistického zisťovania: RM (MP SR) 2-12
+- Značka štatistického zisťovania: RM (MPRV SR) 2-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3742,7 +3744,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 109. Názov štatistického zisťovania: Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
 
-- Značka štatistického zisťovania: CM (MP SR) 3-12
+- Značka štatistického zisťovania: CM (MPRV SR) 3-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3774,7 +3776,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 110. Názov štatistického zisťovania: Mesačný výkaz o nákupe mlieka a smotany a výrobe mliečnych výrobkov
 
-- Značka štatistického zisťovania: ML (MP SR) 6-12
+- Značka štatistického zisťovania: ML (MPRV SR) 6-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3806,7 +3808,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 111. Názov štatistického zisťovania: Mesačný výkaz o zdrojoch, predaji a použití obilnín
 
-- Značka štatistického zisťovania: OB (MP SR) 9-12
+- Značka štatistického zisťovania: OB (MPRV SR) 9-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3842,7 +3844,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 112. Názov štatistického zisťovania: Mesačný výkaz o fondoch cukru, melasy a izoglukózy
 
-- Značka štatistického zisťovania: FCMIZ (MP SR) 1-12
+- Značka štatistického zisťovania: FCMIZ (MPRV SR) 1-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3876,7 +3878,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 113. Názov štatistického zisťovania: Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
 
-- Značka štatistického zisťovania: LIAH (MP SR) 1-12
+- Značka štatistického zisťovania: LIAH (MPRV SR) 1-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3910,7 +3912,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 114. Názov štatistického zisťovania: Mesačný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
 
-- Značka štatistického zisťovania: VOH (MP SR) 7-12
+- Značka štatistického zisťovania: VOH (MPRV SR) 7-12
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3944,7 +3946,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 115. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
 
-- Značka štatistického zisťovania: FCMIZ (MP SR) 3-04
+- Značka štatistického zisťovania: FCMIZ (MPRV SR) 3-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -3984,7 +3986,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 116. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii tovarov uskladnených vo verejnom sklade
 
-- Značka štatistického zisťovania: SKLAD (MP SR) 1-04
+- Značka štatistického zisťovania: SKLAD (MPRV SR) 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4014,7 +4016,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 117. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii surového liehu
 
-- Značka štatistického zisťovania: LB (MP SR) 1-04
+- Značka štatistického zisťovania: LB (MPRV SR) 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4052,7 +4054,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 118. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii rafinovaného liehu
 
-- Značka štatistického zisťovania: LB (MP SR) 2-04
+- Značka štatistického zisťovania: LB (MPRV SR) 2-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4090,7 +4092,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 119. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii liehovín
 
-- Značka štatistického zisťovania: LB (MP SR) 3-04
+- Značka štatistického zisťovania: LB (MPRV SR) 3-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4126,7 +4128,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 120. Názov štatistického zisťovania: Štvrťročný výkaz o bilancii destilátov
 
-- Značka štatistického zisťovania: LB (MP SR) 4-04
+- Značka štatistického zisťovania: LB (MPRV SR) 4-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4162,7 +4164,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 121. Názov štatistického zisťovania: Štvrťročný výkaz o výrobe kompletných kŕmnych zmesí a spotrebe surovín pri ich výrobe
 
-- Značka štatistického zisťovania: KRMZ (MP SR) 1-04
+- Značka štatistického zisťovania: KRMZ (MPRV SR) 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4196,7 +4198,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 122. Názov štatistického zisťovania: Štvrťročný výkaz o dodávkach dreva v lesníctve
 
-- Značka štatistického zisťovania: Les (MP SR) 2-04
+- Značka štatistického zisťovania: Les (MPRV SR) 2-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4228,7 +4230,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 123. Názov štatistického zisťovania: Štvrťročný výkaz o spracovaní produktov rybolovu a akvakultúry
 
-- Značka štatistického zisťovania: Ryby (MP SR) 1-04
+- Značka štatistického zisťovania: Ryby (MPRV SR) 1-04
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4260,7 +4262,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 124. Názov štatistického zisťovania: Polročný výkaz o pohybe výrobkov
 
-- Značka štatistického zisťovania: ODV (MP SR) 7-02
+- Značka štatistického zisťovania: ODV (MPRV SR) 7-02
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4296,7 +4298,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 125. Názov štatistického zisťovania: Ročný výkaz o produkcii a využití mlieka v mliekarniach
 
-- Značka štatistického zisťovania: ML (MP SR) 6-01
+- Značka štatistického zisťovania: ML (MPRV SR) 6-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4328,7 +4330,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 126. Názov štatistického zisťovania: Ročný výkaz o stave vybraných ukazovateľov obhospodarovania lesa
 
-- Značka štatistického zisťovania: Les (MP SR) 5-01
+- Značka štatistického zisťovania: Les (MPRV SR) 5-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4360,7 +4362,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 130. Názov štatistického zisťovania: Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
 
-- Značka štatistického zisťovania: Sad (MP SR) 11-01
+- Značka štatistického zisťovania: Sad (MPRV SR) 11-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4392,7 +4394,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 131. Názov štatistického zisťovania: Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
 
-- Značka štatistického zisťovania: Poľov (MP SR) 12-01
+- Značka štatistického zisťovania: Poľov (MPRV SR) 12-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4424,7 +4426,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 132. Názov štatistického zisťovania: Ročný výkaz o včelárstve
 
-- Značka štatistického zisťovania: Včelár (MP SR) 1-01
+- Značka štatistického zisťovania: Včelár (MPRV SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4456,7 +4458,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 133. Názov štatistického zisťovania: Odhad úrody ovocia a produkcia ovocia
 
-- Značka štatistického zisťovania: Odh (MP SR) 1-99
+- Značka štatistického zisťovania: Odh (MPRV SR) 1-99
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4490,7 +4492,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 134. Názov štatistického zisťovania: Výkaz o uskladnení jabĺk a hrušiek
 
-- Značka štatistického zisťovania: Usk (MP SR) 3-99
+- Značka štatistického zisťovania: Usk (MPRV SR) 3-99
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4522,7 +4524,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 135. Názov štatistického zisťovania: Ročný výkaz o spotrebe palív, energie a ich cene
 
-- Značka štatistického zisťovania: ENERG (MP SR) 1-01
+- Značka štatistického zisťovania: ENERG (MPRV SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4562,7 +4564,7 @@ MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 135a. Názov štatistického zisťovania: Ročný výkaz o spracovaní dreva
 
-- Značka štatistického formulára: Drevo (MP SR) 1-01
+- Značka štatistického formulára: Drevo (MPRV SR) 1-01
 
 - a) Účel a využitie výsledkov štatistického zisťovania
 

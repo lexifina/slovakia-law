@@ -8,7 +8,7 @@
 
 - 5) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
-- 6) Nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 zo 16. júna 2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU-SILC) (Mimoriadne vydanie Ú. v. EÚ, kap. 16/zv. 01) a nariadenie Rady (ES) č. 362/2008 zo 14. apríla 2008, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU-SILC), pokiaľ ide o zoznam cieľových sekundárnych premenných na rok 2009, ktoré sa týkajú materiálnej deprivácie (Ú. v. EÚ L 112, 24. 4. 2008).
+- 6) Nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 zo 16. júna 2003 o štatistike spoločenstva o príjmoch a životných podmienkach (EU-SILC) v platnom znení (Ú. v. EÚ L 165, 3. 7. 2003), nariadenie Rady (ES) č. 362/2008 zo 14. apríla 2008, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU-SILC), pokiaľ ide o zoznam cieľových sekundárnych premenných na rok 2009, ktoré sa týkajú materiálnej deprivácie (Ú. v. EÚ L 112, 24. 4. 2008), nariadenie Komisie (ES) č. 646/2009 z 23. júla 2009, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU-SILC), pokiaľ ide o zoznam cieľových sekundárnych premenných týkajúcich sa spoločného využívania zdrojov v rámci domácností na rok 2010 (Ú. v. EÚ L 192, 24. 7. 2009), nariadenie Komisie (EÚ) č. 481/2010 z 1. júna 2010, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU-SILC), pokiaľ ide o zoznam cieľových sekundárnych premenných týkajúcich sa medzigeneračného prenosu znevýhodnení na rok 2011 (Ú. v. EÚ L 135, 2. 6. 2010).
 
 - 7) Nariadenie Rady (ES) č. 577/98 z 9. marca 1998 o organizácii výberového zisťovania pracovných síl v Spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 03) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 2257/2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 03), nariadenie Komisie (ES) č. 207/2008 z 5. marca 2008, ktorým sa prijímajú špecifikácie ad hoc modulu na rok 2009 o vstupe mladých ľudí na trh práce podľa nariadenia Rady (ES) č. 577/98 (Ú. v. EÚ L 62, 6. 3. 2008), nariadenie Komisie (ES) č. 365/2008 z 23. apríla 2008, ktorým sa prijíma program ad hoc modulov na roky 2010, 2011 a 2012 na výberové zisťovanie pracovných síl stanovené v nariadení Rady (ES) č. 577/98 (Ú. v. EÚ L 112, 24. 4. 2008) a nariadenie Komisie (ES) č. 377/2008 z 25. apríla 2008, ktorým sa vykonáva nariadenie Rady (ES) č. 577/98 o organizácii výberového zisťovania pracovných síl v Spoločenstve, pokiaľ ide o kódovanie, ktoré sa bude od roku 2009 používať na prenos údajov, využitie časti výberového súboru na zber údajov v súvislosti so štrukturálnymi premennými a definovanie referenčných štvrťrokov (Ú. v. EÚ L 114, 26. 4. 2008).
 
@@ -24,19 +24,21 @@
 
 - 13) Nariadenie Rady (ES) č. 2223/96 z 25. júna 1996 o Európskom systéme národných a regionálnych účtov v Spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 002).
 
+- 13a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1552/2005 zo 7. septembra 2005 o štatistike týkajúcej sa odborného vzdelávania v podnikoch v platnom znení (Ú. v. EÚ L 255, 30. 9. 2005).
+
+- 13b) Nariadenie Európskeho parlamentu a Rady (ES) č. 452/2008 z 23. apríla 2008 o tvorbe a rozvoji štatistiky vzdelávania a celoživotného vzdelávania (Ú. v. EÚ L 145, 4. 6. 2008).
+
 - 14) Nariadenie Rady (ES) č. 1165/98 z 19. mája 1998 o krátkodobej štatistike (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 020) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1158/2005 (Ú. v. EÚ L 191, 22. 7. 2005).
 
 - 15) Nariadenie Európskeho Parlamentu a Rady (ES) č. 451/2008 z 23. apríla 2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie rady (EHS) č. 3696/93 (Ú. v. EÚ L 145, 4. 6. 2008).
 
 - 16) Nariadenie Európskeho parlamentu a Rady (ES) č. 295/2008 z 11. marca 2008 o štrukturálnej podnikovej štatistike (prepracované znenie) (Ú. v. EÚ L 97, 9. 4. 2008).
 
-- 17) Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z., ktorým sa vyhlasuje Klasifikácia stavieb.
+- 17) Vyhláška Štatistického úradu Slovenskej republiky č. 323/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia stavieb.
 
 - 18) Nariadenie Rady (ES) č. 1165/98 z 19. mája 1998 o krátkodobej štatistike (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 020) v znení nariadenia Európskeho parlamentu a Rady (ES) 1158/2005 zo 6. júla 2005, ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 1165/98 o krátkodobej štatistike (Ú. v. EÚ L 191, 22. 7. 2005) a nariadenie Rady (EHS) č. 3924/91 z 19. decembra 1991 o zavedení štatistických zisťovaní týkajúcich sa priemyselnej výroby Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 011).
 
 - 19) Nariadenie Rady (EHS) č. 3924/91 z 19. decembra 1991 o zavedení štatistických zisťovaní týkajúcich sa priemyselnej výroby Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 011).
-
-- 20) Nariadenie Európskeho parlamentu a Rady (ES) č. 48/2004 z 5. decembra 2003 o tvorbe ročnej štatistiky Spoločenstva o oceliarskom priemysle pre referenčné roky 2003 – 2009 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 33).
 
 - 20a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1099/2008 z 22. októbra 2008 o energetickej štatistike (Ú. v. EÚ L 304, 14. 11. 2008).
 
@@ -60,7 +62,7 @@
 
 - 30) Nariadenie Rady (ES) č. 2223/96 z 25. júna 1996 o Európskom systéme národných a regionálnych účtov v Spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 002) a nariadenie Komisie (ES) č. 1500/2000 z 10. júla 2000, ktorým sa vykonáva nariadenie Rady (ES) č. 2223/96, pokiaľ ide o výdavky a príjmy verejnej správy (Ú. v. ES L 172, 12. 7. 2000).
 
-- 31) Nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Mimoriadne vydanie Ú. v. EÚ, kap. 02/zv. 16), nariadenie Komisie (ES) č. 1982/2004 z 18. novembra 2004, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a rušia sa nariadenia Komisie (ES) č. 1901/2000 a (EHS) č. 3590/92 (Ú. v. EÚ L 343, 19. 11. 2004) v znení nariadenia Komisie (ES) č. 1915/2005 (Ú. v. EÚ L 307, 25. 11. 2005), nariadenie Komisie (ES) č. 1915/2005 z 24. novembra 2005, ktorým sa mení a dopĺňa nariadenie (ES) č. 1982/2004, pokiaľ ide o zjednodušenie zaznamenávania množstva a špecifikácie týkajúce sa určitých pohybov tovaru (Ú. v. EÚ L 307, 25. 11. 2005).
+- 31) Nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 02/zv. 16), nariadenie Komisie (ES) č. 1982/2004 z 18. novembra 2004, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a rušia sa nariadenia Komisie (ES) č. 1901/2000 a (EHS) č. 3590/92 v platnom znení (Ú. v. EÚ L 343, 19. 11. 2004).
 
 - 31a) Nariadenie Európskeho parlamentu a Rady (ES) č. 543/2009 z 18. júna 2009 o štatistike rastlinnej produkcie a o zrušení nariadení Rady (EHS) č. 837/90 a (EHS) č. 959/93 (Ú. v. EÚ L 167, 29. 6. 2009).
 
@@ -84,7 +86,7 @@
 
 - 41) Nariadenie Rady (EHS) č. 1612/1968 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 01).
 
-- 42) Vyhláška Štatistického úradu Slovenskej republiky č. 571/2006 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
+- 42) Vyhláška Štatistického úradu Slovenskej republiky č. 161/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
 
 - 43) Zákon č.170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze v znení neskorších predpisov a nariadenie (ES) č. 1099/2008.
 
