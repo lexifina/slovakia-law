@@ -1,3 +1,0 @@
-# § 56a Použitie ochrannej kukly policajtom
-
-Ak je to nutné v záujme osobnej bezpečnosti policajta, policajt je oprávnený v službe pri zabezpečovaní fyzickej ochrany jadrových materiálov, špeciálnych materiálov a zariadení, ako aj pri služobnom zákroku proti osobe podozrivej zo spáchania obzvlášť závažného trestného činu a pri služobnom zákroku proti nebezpečnému páchateľovi a s tým spojenej služobnej činnosti použiť ochrannú kuklu. Pri takej služobnej činnosti alebo služobnom zákroku musí mať policajt na viditeľnom mieste umiestnený nápis „Železničná polícia“ a identifikačné číslo zakročujúceho policajta. O použití ochrannej kukly rozhoduje riaditeľ útvaru.
