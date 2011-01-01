@@ -64,6 +64,18 @@
 
 - 17) § 62 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
+- 18) § 11 ods. 10 zákona č. 580/2004 Z. z.o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19) § 11 ods. 3 písm. a) až c) zákona č. 580/2004 Z. z.
+
+- 19a) § 13 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 19b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 19ba) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19bb) § 11 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 19ca) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
 - 19d) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z. o uzavretí Dohovoru, ktorým sa definuje štatút Európskych škôl.
