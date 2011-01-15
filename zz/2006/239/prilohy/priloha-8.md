@@ -1,5 +1,3 @@
-Príloha č. 8 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 8 k vyhláške č. 239/2006 Z. z. List SD - zamestnanec s príjmami podľa § 13 ods. 5 zákona
 
-List SD - zamestnanec s príjmami podľa § 13 ods. 5 zákona
-
-[Vzor 08](../assets/c5c823923f9f5724cc8e816d99f3048520b3425d9f89c22b96faaaef39fb3af1.pdf)
+[Vzor 08](../assets/8cbfdd7cb038d16653ec05470f2a1e7cd90a580c968aef09cb93183951de1f01.pdf)

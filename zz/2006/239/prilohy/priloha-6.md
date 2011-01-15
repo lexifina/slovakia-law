@@ -1,5 +1,3 @@
-Príloha č. 6 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 6 k vyhláške č. 239/2006 Z. z. List SB - samostatne zárobkovo činná osoba
 
-List SB - samostatne zárobkovo činná osoba
-
-[Vzor 06](../assets/5a2441332f47343084988c90530332995484a931e65e7b2bd6222bf46520b253.pdf)
+[Vzor 06](../assets/babfdac3a64eabd18b8ca4cbac95189b321f5c81a1dee3a3d17284e4adcf4066.pdf)

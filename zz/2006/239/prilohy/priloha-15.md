@@ -1,7 +1,5 @@
 Príloha č. 15 k vyhláške č. 239/2006 Z. z.
 
-VZOR
+ŽIADOSŤ 2010
 
-Žiadosť 2009
-
-[Vzor 15](../assets/ce01755c1dfa3eb7f2f2e736b70f10b1779fa6401de5e2825d7da995f118a3f4.pdf)
+[Vzor 15](../assets/db02f958c54fb96165e888c81cb595cc00f2efdfc1ad31797a281132a5284892.pdf)

@@ -1,5 +1,3 @@
-Príloha č. 2 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 2 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné“) samostatne zárobkovo činnej osoby za rok 2010
 
-Ročné zúčtovanie poistného na verejné zdravotné poistenie (ďalej len „poistné") samostatne zárobkovo činnej osoby za rok 2009
-
-[Vzor 02](../assets/d15433f8205f74d0a0a61023560d2b7abee97214eda0dad87ef660ba4c9fd7d9.pdf)
+[Vzor 02](../assets/9d7953f76c051746846d54bfd8aaf333eeb27e34c060aba4bc43b382645c0a05.pdf)

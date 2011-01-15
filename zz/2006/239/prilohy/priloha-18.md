@@ -1,5 +1,3 @@
-Príloha č. 18 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 18 k vyhláške č. 239/2006 Z. z. OZNÁMENIE O NEDOPLATKU ALEBO PREPLATKU ZAMESTNANCA ZA ROK 2010
 
-Oznámenie o nedoplatku alebo preplatku zamestnanca za rok 2009
-
-[Vzor 18](../assets/727588742fe8b4767cac8859284030399bc96fbcba5884737ca09db1629b8f82.pdf)
+[Vzor 18](../assets/08dcf617ef0f3896770497a1d1eacd858400f3057dfcd276a306e2c98711fcfd.pdf)

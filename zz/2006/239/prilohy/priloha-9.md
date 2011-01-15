@@ -1,5 +1,3 @@
-Príloha č. 9 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 9 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné“) poistenca, ktorý mal viacerých platiteľov poistného alebo došlo k zmene sadzby za rok 2010
 
-Ročné zúčtovanie poistného na verejné zdravotné poistenie (ďalej len „poistné") poistenca, ktorý mal viacerých platiteľov poistného alebo došlo k zmene sadzby za rok 2009
-
-[Vzor 09](../assets/a1c56f8a8326aa608cfbd25c9fc9b8b3572abdd261d9c9edc20c941bf243f6c9.pdf)
+[Vzor 09](../assets/641b29de440a885f0aee8fe40f787bd1e4f9bb09ce8b3c2dc20ee232e45b90c1.pdf)

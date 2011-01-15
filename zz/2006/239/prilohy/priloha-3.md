@@ -1,5 +1,3 @@
-Príloha č. 3 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 3 k vyhláške č. 239/2006 Z. z. ROČNÉ ZÚČTOVANIE poistného na verejné zdravotné poistenie (ďalej len „poistné“) platiteľa poistného podľa § 11 ods. 2 zákona za rok 2010
 
-Ročné zúčtovanie poistného na verejné zdravotné poistenie (ďalej len „poistné") poistenca, ktorý mal viacerých platiteľov za rok 2009
-
-[Vzor 03](../assets/e8bda92b586d663a92f413171392f4583678c5a199f5203c5a341b284cb04a9d.pdf)
+[Vzor 03](../assets/e230537d7abe1dc109de9fc508264ca608c49db1fe4473ecee4f042f6ef7d4d8.pdf)

@@ -1,5 +1,3 @@
-Príloha č. 7 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 7 k vyhláške č. 239/2006 Z. z. List SC - platiteľ poistného podľa § 11 ods. 2 zákona
 
-List SC - platiteľ poistného podľa § 11 ods. 2 zákona
-
-[Vzor 07](../assets/5b14d81c80b8fb8ac380cf170cbbf2be6a209eee822cd552a41b9b3ebe6c48e8.pdf)
+[Vzor 07](../assets/4c788eda4bc431f619f19bcc54f4763723c64f3bbcec79c3855d9712a88e389e.pdf)

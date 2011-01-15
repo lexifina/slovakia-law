@@ -1,5 +1,3 @@
-Príloha č. 16 k vyhláške č. 239/2006 Z. z. VZOR
+Príloha č. 16 k vyhláške č. 239/2006 Z. z. DOKLAD O VÝŠKE PRÍJMU A O PREDDAVKOCH NA POISTNÉ ZA ROK 2010
 
-Doklad o výške príjmu a o preddavkoch na poistné za rok 2009
-
-[Vzor 16](../assets/855f5cb87c071ea877d86cb6507594044176c9b1a6e21608343cf89860b9a7a3.pdf)
+[Vzor 16](../assets/67b09d36b88c88f875c3c9de5c716cf90811b42057e18fe6dd57e6ded0af4ca3.pdf)
