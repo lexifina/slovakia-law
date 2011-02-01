@@ -182,9 +182,9 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Príslušné sumy v tomto odseku sa uvádzajú v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
 
-      - Uplatnenie žiadosti o vyplatenie vývoznej náhrady sa uvádza takto: „Žiadosť o vyplatenie vývoznej náhrady – X – V0900“, kde X vyjadruje registračné číslo žiadateľa o vyplatenie vývoznej náhrady pridelené Pôdohospodárskou platobnou agentúrou.
+      - Uplatnenie žiadosti o vyplatenie vývoznej náhrady sa uvádza takto: „V0900 – X – Žiadosť o vyplatenie vývoznej náhrady“, kde X vyjadruje registračné číslo žiadateľa o vyplatenie vývoznej náhrady pridelené Pôdohospodárskou platobnou agentúrou.
 
-      - Uplatnenie žiadosti o vyplatenie vývoznej náhrady vopred podľa osobitného predpisu<sup>6</sup>) sa uvádza takto: „Zálohová platba – V0910“.
+      - Uplatnenie žiadosti o vyplatenie vývoznej náhrady vopred podľa osobitného predpisu<sup>6</sup>) sa uvádza takto: „V0910 – Zálohová platba“.
 
       - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
 

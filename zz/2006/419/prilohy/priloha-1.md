@@ -18,7 +18,7 @@ Príloha č. 1 k vyhláške č. 419/2006 Z. z.
 
   - 4. Colný úrad Košice
 
-    - pobočka colného úradu Haniska pri Košiciach, nácestné stredisko
+    - pobočka colného úradu Košice-Šaca, Železiarenská 49
 
   - 5. Colný úrad Nitra
 

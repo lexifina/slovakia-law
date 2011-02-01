@@ -4,6 +4,8 @@
 
 - 1aa) Čl. 4 prvý bod tretia zarážka nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
+- 1aaa) Čl. 799 nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
+
 - 2) Príloha č. 38 nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
 - 3) Čl. 168 až 172 nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
@@ -12,7 +14,7 @@
 
 - 5) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú. v. EÚ, 2/zv. 2.) v platnom znení.
 
-- 6) Čl. 24 nariadenia Komisie (ES) č. 800/1999 z 15. 4. 1999, ktorým sa ustanovujú spoločné podrobné pravidlá pre uplatňovanie vývozných náhrad na poľnohospodárske výrobky (Mimoriadne vydanie Ú. v. EÚ, 3/zv. 25.).
+- 6) Čl. 31 nariadenia Komisie (ES) č. 612/2009 zo 7. júla 2009, ktorým sa ustanovujú spoločné podrobné pravidlá uplatňovania vývozných náhrad za poľnohospodárske výrobky (prepracované znenie) (Ú. v. EÚ L 186, 17. 7. 2009) v platnom znení.
 
 - 7) Čl. 76 ods. 1 písm. b) nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 

@@ -10,7 +10,7 @@ Príloha č. 6 k vyhláške č. 419/2006 Z. z.
 
 - Michalovce | Michalovce Dobrá, terminál kombinovanej dopravy | Michalovce
 
-- Košice | Haniska pri Košiciach, nácestné stredisko Rožňava Košice, letisko Košice-mesto Spišská Nová Ves | Haniska pri Košiciach, nácestné stredisko
+- Košice | Košice-Šaca Rožňava Košice, letisko Košice-mesto Spišská Nová Ves | Košice-Šaca
 
 - Nitra | Nitra Topoľčany Komárno Nové Zámky, nácestné stredisko | Nitra Komárno Nové Zámky, nácestné stredisko
 
