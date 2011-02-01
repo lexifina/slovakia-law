@@ -54,6 +54,32 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 7. V § 5 ods. 8, § 41 ods. 4 a § 41a ods. 4 sa slová „cena najpredávanejšej cenovej kategórie cigariet“ nahrádzajú slovami „vážená priemerná cena cigariet“.
 
+- 8. V § 6 odseky 1 až 3 znejú:
+
+- „(1)
+
+- Sadzba dane z tabakových výrobkov s výnimkou cigariet a s výnimkou podľa § 44i ods. 1 sa ustanovuje takto:
+
+- opis tovaru | sadzba dane
+
+- cigary, cigarky | 77,14 eura/1 000 kusov
+
+- tabak | 70,90 eura/kg.
+
+- (2)
+
+- Sadzba dane z cigariet s výnimkou podľa odseku 3 a § 44i ods. 2 sa ustanovuje takto:
+
+- opis tovaru | kombinovaná sadzba dane |
+
+- | špecifická časť | percentuálna časť
+
+- cigarety | 59 eur/1 000 kusov | 23 % z ceny cigariet.
+
+- (3)
+
+- Minimálna sadzba dane z cigariet je 90 eur/1 000 kusov s výnimkou podľa § 44i ods. 3.“.
+
 - 9. V § 9 ods. 24 sa za písmeno h) vkladá nové písmeno i), ktoré znie:
 
 - „i)
