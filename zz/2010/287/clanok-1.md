@@ -34,6 +34,10 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - Kozmetické výrobky, ktoré obsahujú látky uvedené v prílohe č. 3 časti 1 pod referenčnými číslami 8, 8a, 9, 9a, 16, 22, 193, 202, 203, 205 a v prílohe č. 3 časti 2 pod referenčnými číslami 3 až 6, 10 až12, 16, 19 až 22, 25, 27, 31 až 39, 44, 48 až 50, 55 a 56, možno podľa predpisov účinných do 31. októbra 2011 predávať do 31. októbra 2012.“.
 
+- 2. V prílohe č. 2 referenčné číslo 450 znie:
+
+- „450. Esenciálne oleje z verbeny (Verbena essential oils <sup>o</sup>) Lippia citriodora Kunth. a deriváty iné ako čisté extrakty (CAS 8024-12-2), ak sú použité ako vonná zložka“.
+
 - 3. V prílohe č. 3 časti 1 referenčnom čísle 8 stĺpec b znie:
 
 - „N-substituované deriváty p-fenyléndiamínu a ich soli, N substituované deriváty o-fenyléndiamínu<sup>2</sup>) okrem derivátov uvedených v inej časti tejto prílohy a v prílohe č. 2 pod referenčnými číslami 1309, 1311 a 1312
@@ -75,6 +79,38 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 - “.
 
 - 13. V prílohe č. 3 časti 1 referenčných číslach 26 až 43, 47 a 56 stĺpci f v druhej vete sa za slovo „obsahom“ vkladá slovo „zlúčenín“ a v poslednej vete sa slovo „fluór“ nahrádza slovom „fluorid“.
+
+- 14. V prílohe č. 3 časti 1 referenčnom čísle 130 stĺpec b znie:
+
+- „Terpenes and terpenoids“.
+
+- 15. V prílohe č. 3 časti 1 sa za referenčné číslo 151 vkladá referenčné číslo 151a, ktoré znie:
+
+- „
+
+- Ref. číslo | Látka | O b m e d z e n i a | | | Podmienky použitia a upozornenia, ktoré musia byť uvedené na obale kozmetického výrobku
+
+- | | Oblasť aplikácie/použitia | Najvyššia prípustná koncentrácia v kozmetickom výrobku v hmotnostných percentách | Ďalšie obmedzenia a požiadavky |
+
+- a | b | c | d | e | f
+
+- 151a | Allyl phenethyl ether ** CAS 14289-65-7 EINECS 238-212-2 | | | Koncentrácia voľného alyl-alkoholu v éteri musí byť 0,1 % hm. |
+
+- “.
+
+- 18. V prílohe č. 3 sa časť 1 dopĺňa referenčným číslom 206, ktoré znie:
+
+- „
+
+- Ref. číslo | Látka | O b m e d z e n i a | | | Podmienky použitia a upozornenia, ktoré musia byť uvedené na obale kozmetického výrobku
+
+- | | Oblasť aplikácie/použitia | Najvyššia prípustná koncentrácia v kozmetickom výrobku v hmotnostných percentách | Ďalšie obmedzenia a požiadavky |
+
+- a | b | c | d | e | f
+
+- 206 | Verbena, čistý extrakt Lippia citriodoraKunth. Verbena absolute <sup>o</sup> CAS 8024-12-2 | | 0,2 % | |
+
+- “.
 
 - 20. V prílohe č. 3 sa časť 1 dopĺňa referenčnými číslami 208 a 209, ktoré znejú:
 
