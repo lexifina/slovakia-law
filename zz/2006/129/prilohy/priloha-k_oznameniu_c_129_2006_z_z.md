@@ -512,11 +512,13 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 2. všetkých 27 súdov prvého stupňa
 
-    - Maďarsko
+    - Maďarská republika
 
-  - 1. Ministerstvo spravodlivosti pre listiny vydané alebo overené justičnými orgánmi
+  - 1. Ministerstvo verejnej správy a spravodlivosti pre listiny vydané justičnými orgánmi okrem listín vydaných alebo osvedčených notármi
 
-  - 2. Ministerstvo zahraničných vecí pre ostatné listiny
+  - 2. Notárska komora pre listiny vydané alebo osvedčené notármi
+
+  - 3. Ministerstvo zahraničných vecí pre ostatné listiny
 
     - Malawi
 
