@@ -6,6 +6,8 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1005/2009 zo 16. septembra 2009 o látkach, ktoré poškodzujú ozónovú vrstvu (Ú. v. EÚ L 286, 31. 10. 2009).
 
+- 2a) § 36 a 37 zákona č. 364/2004 Z. z.
+
 - 3) § 5 ods. 10 zákona č. 76/1998 Z. z. v znení zákona č. 525/2003 Z. z.
 
 - 4) § 9 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 283/2001 Z. z. o vykonaní niektorých ustanovení zákona o odpadoch v znení neskorších predpisov.
