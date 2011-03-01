@@ -2,6 +2,8 @@
 
 Zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení zákona č. 733/2004 Z. z., zákona č. 747/2004 Z. z., zákona č. 171/2005 Z. z., zákona č. 517/2005 Z. z., zákona č. 120/2006 Z. z., zákona č. 460/2007 Z. z., zákona č. 538/2007 Z. z., zákona č. 465/2008 Z. z., zákona č. 535/2008 Z. z. a zákona č. 467/2009 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 8 ods. 2 sa slovo „20-násobok“ nahrádza slovom „5-násobok“.
+
 - 2. Za § 104d sa vkladá § 104e, ktorý vrátane nadpisu znie:
 
 - „§ 104e
