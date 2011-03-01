@@ -52,6 +52,16 @@
 
 - 22c) § 2 písm. k) a q) zákona č. 245/2008 Z. z.
 
+- 22d) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
+
+- 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22f) § 19 ods. 2 písm. a) až c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 22g) § 107 ods. 4 a 5 zákona č. 245/2008 Z. z.
+
+- 22h) § 107 ods. 6 zákona č. 245/2008 Z. z.
+
 - 23) § 117 zákona č. 245/2008 Z. z.
 
 - 23a) § 117 a 139 zákona č. 245/2008 Z. z.
@@ -68,6 +78,34 @@
 
 - 23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 23h) § 28 ods. 17 zákona č. 245/2008 Z. z.
+
+- § 4 ods. 9 vyhlášky Ministerstva školstva Slovenskej republiky č. 306/2008 Z. z. o materskej škole v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 308/2009 Z. z.
+
+- 23i) § 8a zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 23j) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
+- 23k) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+
+- 23l) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
+
+- 23m) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
+
+- 23n) § 116 Občianskeho zákonníka.
+
+- 23o) § 31 ods. 7 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 23p) § 31 zákona č. 523/2004 Z. z.
+
+- 23q) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 23r) Čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- 23s) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 23t) § 8 až 13 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
 - 24a) § 19 ods. 2 písm. a), b), d) a e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
@@ -76,9 +114,15 @@
 
 - 24c) § 19 ods. 2 písm. a) až d) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
+- 24ca) § 19 ods. 2 písm. c) až e) zákona č. 596/2003 Z. z.
+
 - 24d) § 2 zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2005 Z. z.
 
 - § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
+
+- 24e) § 53 ods. 1 až 3 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
+
+- 24f) § 53 ods. 4 zákona č. 317/2009 Z. z.
 
 - 25) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

@@ -6,7 +6,7 @@
 
 - b) za nedodržanie lehoty určenej na úpravu finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10 pokutu od 331,50 eura do 3 319,00 eur,
 
-- c) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým štátnym školám krajskému školskému úradu podľa § 4 ods. 11 pokutu od 331,50 eura do 3 319,00 eur,
+- c) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým verejným školám krajskému školskému úradu podľa § 4 ods. 11 pokutu od 331,50 eura do 3 319,00 eur,
 
 - d) za nedodržanie účelu použitia finančných prostriedkov podľa § 6 ods. 3 pokutu od 331,50 eura do 33 193,50 eura,
 
@@ -26,13 +26,27 @@
 
 - l) za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 331,50 eura do 33 193,50 eura,
 
-- m) za nedodržanie lehoty na rozpis finančných prostriedkov pridelených prostredníctvom dohodovacieho konania na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 8c ods. 6 pokutu od 331,50 eura do 3 319,00 eur.
+- m) za nedodržanie lehoty určenej na rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 14 písm. a) a ods. 15 pokutu od 331,50 eura do 3 319 eur,
 
-(2) Ministerstvo uloží škole, školskému zariadeniu alebo obci pokutu
+- n) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým školám krajskému školskému úradu podľa § 7 ods. 14 písm. b) pokutu od 331,50 eura do 3 319 eur.
 
-- a) 300 eur za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12,
+(2) Ministerstvo uloží
 
-- b) od 30 eur do 3 000 eur za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12.
+- a) zriaďovateľovi<sup>24ca</sup>) školy alebo školského zariadenia
+
+  - 1. za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 6 638 eur,
+
+  - 2. za nedodržanie lehoty určenej na predloženie údajov podľa § 7 ods. 12 pokutu od 331,50 eura do 3 319 eur,
+
+  - 3. za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 33 193,50 eura,
+
+- b) obci
+
+  - 1. za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 6 638 eur,
+
+  - 2. za nedodržanie lehoty určenej na predloženie údajov podľa § 7 ods. 12 pokutu od 331,50 eura do 3 319 eur,
+
+  - 3. za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 pokutu od 331,50 eura do 33 193,50 eura.
 
 (3) Ministerstvo pri určení pokuty prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie, ako aj na mieru zavinenia.
 

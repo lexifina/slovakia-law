@@ -8,7 +8,7 @@
 
 (2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu v priebehu kalendárneho roka.
 
-(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, štátnym materským školám a štátnym školským zariadeniam
+(3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, verejným materským školám a verejným školským zariadeniam
 
 - a) na osobné náklady,
 
@@ -28,6 +28,6 @@
 
 - b) podľa odseku 1 písm. b) nad rámec normatívnych príspevkov pridelených na základe údajov poskytnutých podľa § 7 ods. 4 a objemu finančných prostriedkov vyčlenených na tento účel v rámci rezervy.
 
-(6) Zriaďovateľ do 15 dní po doručení oznámenia krajského školského úradu podľa odseku 1 rozpíše finančné prostriedky na kalendárny rok pre jednotlivé školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti.
+(6) Ministerstvo zverejní na svojom webovom sídle do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte výšku nákladov podľa osobitného predpisu<sup>25c</sup>) na príslušný kalendárny rok.
 
-(7) Ministerstvo zverejní na svojej internetovej stránke do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte výšku nákladov podľa osobitného predpisu<sup>25c</sup>) na príslušný kalendárny rok.
+(7) Ministerstvo každoročne zverejňuje zoznam zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 1 písm. a), a výšku pridelených finančných prostriedkov na svojom webovom sídle. Tento zoznam aktualizuje ministerstvo najneskôr do piatich pracovných dní po uplynutí kalendárneho štvrťroku.

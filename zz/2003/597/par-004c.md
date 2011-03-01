@@ -1,6 +1,6 @@
 # § 4c Financovanie havarijných situácií
 
-(1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva v priebehu roka na základe skutočnej potreby zriaďovateľovi štátnej školy, zriaďovateľovi štátnej materskej školy a zriaďovateľovi štátneho školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu v priebehu roka. Havarijné situácie sú:
+(1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva v priebehu roka na základe skutočnej potreby zriaďovateľovi verejnej školy, zriaďovateľovi verejnej materskej školy a zriaďovateľovi verejného školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu v priebehu roka. Havarijné situácie sú:
 
 - a) udalosť, ktorou boli vážne ohrozené životy a zdravie osôb,
 
@@ -20,4 +20,6 @@
 
 - c) rozsahu vzniknutých škôd, či nebezpečenstva vzniku ďalších škôd.
 
-(4) Ministerstvo môže prideliť krajskému školskému úradu finančné prostriedky na kapitálové výdavky a na bežné výdavky určené na zmiernenie dopadov havarijných situácií štátnych škôl. Krajský školský úrad rozhodne o pridelení objemu finančných prostriedkov zriaďovateľom štátnych škôl v jeho územnej pôsobnosti podľa naliehavosti riešenia havarijnej situácie a výšky prideleného objemu finančných prostriedkov. Objem finančných prostriedkov pre krajský školský úrad na kalendárny rok na zmiernenie dopadov havarijných situácií štátnych škôl určuje ministerstvo.
+(4) Ministerstvo môže prideliť krajskému školskému úradu finančné prostriedky na kapitálové výdavky a na bežné výdavky určené na zmiernenie dopadov havarijných situácií verejných škôl. Krajský školský úrad rozhodne o pridelení objemu finančných prostriedkov zriaďovateľom verejných škôl v jeho územnej pôsobnosti podľa naliehavosti riešenia havarijnej situácie a výšky prideleného objemu finančných prostriedkov. Objem finančných prostriedkov pre krajský školský úrad na kalendárny rok na zmiernenie dopadov havarijných situácií verejných škôl určuje ministerstvo.
+
+(5) Ministerstvo každoročne zverejňuje zoznam škôl a ich zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 1, a výšku pridelených finančných prostriedkov na svojom webovom sídle. Tento zoznam aktualizuje ministerstvo najneskôr do piatich pracovných dní po uplynutí kalendárneho štvrťroku.

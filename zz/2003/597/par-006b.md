@@ -1,4 +1,4 @@
-# § 6b
+# § 6b Príspevok na výchovu a vzdelávanie detí materských škôl
 
 (1) Príspevok na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na kalendárny rok pozostáva z príspevku na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na bežný školský rok a príspevku na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na nový školský rok.
 
@@ -17,3 +17,11 @@
 - a) podľa odseku 3 písm. a) rozpíše finančné prostriedky na kalendárny rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti,
 
 - b) podľa odseku 3 písm. b) upraví finančné prostriedky na nový školský rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti.
+
+(5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, a to najmä na
+
+- a) mzdy a platy zamestnancov materskej školy,<sup>2b</sup>) vrátane poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a poistného na povinné verejné zdravotné poistenie, ktorí sa podieľajú na výchove a vzdelávaní detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky,
+
+- b) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23h</sup>)
+
+- c) úhradu prevádzkových nákladov súvisiacich s výchovou a vzdelávaním detí.
