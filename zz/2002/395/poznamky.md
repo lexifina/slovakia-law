@@ -62,6 +62,12 @@
 
 - 30) Napríklad § 17 Obchodného zákonníka, zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov, zákon č. 132/1989 Zb. o ochrane práv k novým odrodám rastlín a plemenám zvierat v znení neskorších predpisov, zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií), zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
+- 30a) § 2 písm. y) zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 275/2006 Z. z.
+
+- 30b) § 9 zákona č. 215/2002 Z. z. v znení v znení zákona č. 214/2008 Z. z.
+
+- 30c) § 4 zákona č. 215/2002 Z. z.
+
 - 31) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 32) § 255 Trestného zákona.

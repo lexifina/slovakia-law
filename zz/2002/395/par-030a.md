@@ -30,7 +30,7 @@
 
 - n) nezabezpečí správu registratúry,
 
-- o) umiestni registratúrne záznamy v priestoroch, ktoré nespĺňajú podmienky ich ochrany,
+- o) umiestni registratúrne záznamy v priestoroch, ktoré nespĺňajú podmienky ich ochrany, alebo nezabezpečí uchovávanie alebo zmenu formátu elektronického registratúrneho záznamu postupom podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie,
 
 - p) nevykoná opatrenie na nápravu nedostatkov v správe registratúry, ktoré mu uložilo ministerstvo,
 
