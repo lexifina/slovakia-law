@@ -84,8 +84,6 @@
 
 - 30d) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
-- 30e) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 30f) § 8 zákona č. 302/2001 Z. z. v znení neskorších predpisov.
 
 - 31) Zákon č. 597/2003 Z. z.
