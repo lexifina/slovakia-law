@@ -132,6 +132,6 @@
 
 - 25) § 47 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
-- 26) § 43 zákona č. 162/1990 Zb.
+- 26) § 34 ods. 1 zákona Slovenskej národnej rady č. 330/1991 Zb.
 
-- 27) Zákon č. 173/1988 Zb. o podniku so zahraničnou majetkovou účasťou v znení neskorších predpisov.
+- 27) § 50 ods. 3 zákona č. 326/2005 Z. z.
