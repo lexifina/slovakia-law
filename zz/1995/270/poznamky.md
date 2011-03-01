@@ -14,6 +14,10 @@
 
 - 5b) § 18 ods. 3 zákona č. 245/2008 Z. z.
 
+- 5c) § 3 ods. 1 a 2 zákona č. 184/1999 Z. z.
+
+- 5d) § 3 ods. 3 zákona č. 184/1999 Z. z.
+
 - 6a) Napríklad § 3 ods. 6 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 24/2007 Z. z.
 
 - 6b) Napríklad § 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 11 zákona č. 200/1997 Z. z. o Študentskom pôžičkovom fonde v znení zákona č. 231/2000 Z. z., § 2 ods. 3 zákona č. 184/1999 Z. z., § 109 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov, § 11 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
@@ -21,6 +25,8 @@
 - 7) § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku.
 
 - 7a) § 1a zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
+
+- 7aa) § 3 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. v znení zákona č. 344/2007 Z. z.
 
 - 7b) § 18 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov.
 
@@ -52,13 +58,17 @@
 
 - 11f) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 479/2005 Z. z.
 
+- 11g) § 2 ods. 2 zákona č. 184/1999 Z. z.
+
 - 12) Napríklad § 18 Občianskeho súdneho poriadku v znení zákona č. 341/2005 Z. z., zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 20 Trestného poriadku.
 
 - 13) Napríklad § 9 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 24 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov, § 13 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 13a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 15) § 2 ods. 2 zákona č. 184/1999 Z. z.
+- 13b) Napríklad nariadenie vlády Slovenskej republiky č. 264/2009 Z. z. o podporných opatreniach v pôdohospodárstve v znení nariadenia vlády Slovenskej republiky č. 381/2009 Z. z.
+
+- 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16) § 3 ods. 6 a § 11 ods. 3 písm. b) zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
