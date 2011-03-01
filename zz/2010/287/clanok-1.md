@@ -112,6 +112,22 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - “.
 
+- 19. V prílohe č. 3 sa časť 1 dopĺňa referenčným číslom 207, ktoré znie:
+
+- „
+
+- Ref. číslo | Látka | O b m e d z e n i a | | | Podmienky použitia a upozornenia, ktoré musia byť uvedené na obale kozmetického výrobku
+
+- | | Oblasť aplikácie/použitia | Najvyššia prípustná koncentrácia v kozmetickom výrobku v hmotnostných percentách | Ďalšie obmedzenia a požiadavky |
+
+- a | b | c | d | e | f
+
+- 207 | Etyl N<sup>2</sup>-dodekanoyl-L-argi­ninát, hydrochlorid1) Ethyl lauroyl agrinate HCl ** CAS 60372-77-2 EINECS 434-630-6 | a) mydlá b) šampóny proti lupinám c) dezodoranty, okrem dezodorantov v sprejoch | 0,8 % | Na iné účely ako zabránenie rozmnožovaniu mikroorganizmov v kozmetickom výrobku. Tento účel musí vyplývať z prezentácie výrobku. |
+
+- Vysvetlivky:
+
+- <sup>1</sup>) Ako konzervačná látka je uvedená v prílohe č. 6 časti 1 referenčnom čísle 58.“.
+
 - 20. V prílohe č. 3 sa časť 1 dopĺňa referenčnými číslami 208 a 209, ktoré znejú:
 
 - „
@@ -129,6 +145,22 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 - “.
 
 - 23. V prílohe č. 3 časti 2 sa vypúšťajú referenčné čísla 26 a 29.
+
+- 25. Príloha č. 6 sa dopĺňa referenčným číslom 58, ktoré znie:
+
+- „
+
+- Ref. číslo | Látka | O b m e d z e n i a | | | Podmienky použitia a upozornenia, ktoré musia byť uvedené na obale kozmetického výrobku
+
+- | | Oblasť aplikácie/použitia | Najvyššia prípustná koncentrácia v kozmetickom výrobku v hmotnostných percentách | Obmedzenia a požiadavky |
+
+- a | b | c | d | e | f
+
+- 58 | Etyl N<sup>2</sup>-dodekanoyl-L-argi-ninát, hydrochlorid1) Ethyl lauroyl agrinate HCl ** CAS 60372-77-2 EINECS 434-630-6 | | 0,4 % hm. | Nepoužívať v kozmetických výrobkoch na pery, na hygienu ústnej dutiny a v sprejoch. |
+
+- Vysvetlivky:
+
+- <sup>1</sup>) Iné použitie ako konzervačnej látky je uvedené v prílohe č. 3 časti 1 referenčnom čísle 207.“.
 
 - 26. Príloha č. 17 sa dopĺňa bodmi 67 až 72, ktoré znejú:
 
