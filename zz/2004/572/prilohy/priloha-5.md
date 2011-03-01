@@ -57,3 +57,35 @@ Príloha č. 5 k zákonu č. 572/2004 Z. z.
   - b) legislatívnym, regulačným a administratívnym opatreniam, ktoré sú relevantné pre overované činnosti a
 
   - c) vzniku všetkých informácií týkajúcich sa každého zdroja emisií v prevádzke, najmä čo sa týka zberu, merania, výpočtu údajov a podávania správ o nich.
+
+- Overovanie emisií z činností leteckej dopravy
+
+- Na overovanie správ o emisiách z letov spadajúcich pod činnosť leteckej dopravy uvedenú v prílohe č. 1 tabuľke D sa vzťahujú všeobecné zásady a metodika stanovené v tejto prílohe.
+
+- Na tento účel
+
+  - a) v odseku 3 sa odkaz na prevádzkovateľa považuje za odkaz na prevádzkovateľa lietadla a v písmene c) uvedeného odseku sa odkaz na prevádzku považuje za odkaz na lietadlo používané na vykonávanie činností leteckej dopravy zahrnutých do správy;
+
+  - b) v odseku 5 sa odkaz na prevádzku považuje za odkaz na prevádzkovateľa lietadla;
+
+  - c) v odseku 6 sa odkaz na činnosti vykonávané v prevádzke považuje za odkaz na činnosti leteckej dopravy zahrnuté do správy, ktoré vykonáva prevádzkovateľ lietadla;
+
+  - d) v odseku 7 sa odkaz na prevádzku považuje za odkaz na miesto, ktoré používa prevádzkovateľ lietadla na vykonávanie činností leteckej dopravy zahrnutých do správy;
+
+  - e) v odsekoch 8 a 9 sa odkazy na zdroje emisií skleníkových plynov v prevádzke považujú za odkaz na lietadlo, za ktoré zodpovedá prevádzkovateľ lietadla, a
+
+  - f) v odsekoch 10 a 12 sa odkazy na prevádzkovateľov považujú za odkazy na prevádzkovateľov lietadiel.
+
+- Dodatočné ustanovenia na účely overovania správ o emisiách z leteckej dopravy
+
+- Overovateľ sa najmä presvedčí, či
+
+  - a) sa zohľadnili všetky lety spadajúce pod činnosť leteckej dopravy uvedenej v prílohe č. 1 tabuľke D. Pri plnení svojej úlohy si overovateľ pomáha údajmi z letového poriadku a inými údajmi o premávke prevádzkovateľa lietadla vrátane údajov z Eurocontrolu, ktoré si tento prevádzkovateľ vyžiadal;
+
+  - b) existuje celková zhoda medzi údajmi o súhrnnej spotrebe paliva a údajmi o palive, ktoré bolo zakúpené alebo inak dodané do lietadla vykonávajúceho činnosť leteckej dopravy.
+
+- Dodatočné ustanovenia na účely overovania údajov o tonokilometroch predkladaných na účely § 9d a 9e
+
+- Všeobecné zásady a metodika overovania správ o emisiách sa, ak je to vhodné, uplatňujú podobným spôsobom aj na overovanie údajov o tonokilometroch leteckej dopravy.
+
+- Overovateľ sa predovšetkým presvedčí, že iba lety, ktoré sa skutočne vykonali a ktoré spadajú pod činnosť leteckej dopravy uvedenú v prílohe č. 1 tabuľke D, za ktorú je prevádzkovateľ lietadla zodpovedný, sa brali do úvahy v žiadosti tohto prevádzkovateľa podľa § 9d ods. 1 a § 9e ods. 2. Pri plnení svojej úlohy si overovateľ pomáha údajmi o premávke prevádzkovateľa lietadla vrátane údajov z Eurocontrolu, ktoré si tento prevádzkovateľ vyžiadal. Overovateľ sa okrem toho presvedčí, či užitočné zaťaženie vykazované prevádzkovateľom lietadla zodpovedá záznamom o užitočnom zaťažení, ktoré vedie tento prevádzkovateľ na účely bezpečnosti.

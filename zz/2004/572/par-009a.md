@@ -18,4 +18,10 @@
 
 (4) Jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) vytvorené projektovými aktivitami sa môžu prenášať medzi účastníkmi schém obchodovania z krajín podľa prílohy I k dohovoru, ktoré ratifikovali Kjótsky protokol podľa čl. 1 ods. 7 Kjótskeho protokolu (ďalej len „krajina").
 
-(5) Povinní účastníci schémy obchodovania a dobrovoľní účastníci schémy obchodovania môžu na pokrytie emisií skleníkových plynov podľa § 13 ods. 1 písm. b) použiť jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) až do výšky percentuálneho podielu pridelených kvót pre každú prevádzku, ktorý sa určí v pláne. Použitie týchto jednotiek sa uskutoční tak, že ministerstvo vydá a okamžite odovzdá jednu kvótu výmenou za jednu jednotku certifikovaného zníženia emisií (CER) alebo jednotku zníženia emisií (ERU), ktorú má prevádzkovateľ v registri.
+(5) Povinní účastníci schémy obchodovania môžu na pokrytie emisií skleníkových plynov podľa § 13 ods. 1 písm. b) použiť jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) až do výšky percentuálneho podielu pridelených kvót pre každú prevádzku, ktorý sa určí v pláne. Použitie týchto jednotiek sa uskutoční tak, že ministerstvo vydá a okamžite odovzdá jednu kvótu výmenou za jednu jednotku certifikovaného zníženia emisií (CER) alebo jednotku zníženia emisií (ERU), ktorú má prevádzkovateľ v registri.
+
+(6) Dobrovoľní účastníci schémy obchodovania môžu na pokrytie emisií skleníkových plynov podľa § 13 ods. 1 písm. b) použiť jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) a priznané jednotky. Jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) môžu použiť do výšky 7 % z počtu kvót, ktoré sú povinní odovzdať.
+
+(7) Prevádzkovatelia lietadiel môžu počas období uvedených v § 9b využívať jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) do výšky 15 % z počtu kvót, ktoré sú povinní odovzdať.
+
+(8) Jednotky certifikovaného zníženia emisií (CER) a jednotky zníženia emisií (ERU) nebudú vydané pre zníženie alebo obmedzenie emisií skleníkových plynov z činností, ktoré patria do pôsobnosti tohto zákona.
