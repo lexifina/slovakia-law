@@ -14,6 +14,14 @@
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 415/2003 Z. z. o prijatí Dohody týkajúcej sa tvorby globálnych technických predpisov pre kolesové vozidlá, vybavenie a časti, ktoré sa môžu montovať alebo používať na kolesových vozidlách.
 
+- 6a) STN EN 15695-1 Poľnohospodárske traktory a samohybné postrekovače. Ochrana obsluhy (vodiča) pred nebezpečnými látkami. Časť 1: Klasifikácia, požiadavky a postupy skúšania kabín.
+
+- 6b) Nariadenie vlády Slovenskej republiky č. 401/2005 Z. z. o hladine hluku vnímanej vodičom poľnohospodárskych kolesových traktorov alebo lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 651/2006 Z. z.
+
+- 6c) Nariadenie vlády Slovenskej republiky č. 67/2006 Z. z. o technických požiadavkách na určité vybavenie a charakteristiky poľnohospodárskych kolesových traktorov a lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 648/2006 Z. z.
+
+- 6d) Nariadenie vlády Slovenskej republiky č. 192/2006 Z. z. o technických požiadavkách na sedadlo vodiča poľnohospodárskych kolesových traktorov a lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 143/2007 Z. z.
+
 - 7) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 8) Nariadenie vlády Slovenskej republiky č. 66/2006 Z. z. o technických požiadavkách na meranie najväčšej konštrukčnej rýchlosti a technických požiadavkách na nákladné plošiny poľnohospodárskych kolesových traktorov a lesných kolesových traktorov.
@@ -34,7 +42,7 @@
 
 - 16) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 451/2004 Z. z.
 
-- § 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+- § 114 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
 
