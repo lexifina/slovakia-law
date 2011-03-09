@@ -4,16 +4,18 @@
 
 - b) organizuje a vykonáva preskúšanie priebehu štátnej hranice a hraničných znakov podľa článkov 14 a 15,
 
-- c) rozhoduje o spôsobe a zmenách vyznačenia priebehu štátnej hranice najmä na vodných tokoch a na zariadeniach slúžiacich verejnej doprave,
+- c) rozhoduje o spôsobe, druhu a zmenách vyznačenia priebehu štátnej hranice, najmä na hraničných vodných tokoch a zariadeniach slúžiacich verejnej doprave, hraničných cestách a stržiach
 
-- d) vyjadruje sa k stavebným prácam a k iným technickým opatreniam v bezprostrednej blízkosti štátnej hranice. Je oprávnená udeľovať výnimky podľa článku 22 ods. 3,
+- d) prijíma opatrenia v súvislosti so vznikom a zánikom hraničných vodných tokov, hraničných ciest a strží,
 
-- e) preskúšava, kontroluje a schvaľuje zápisnice a dokumenty vyhotovené zmiešanými technickými a expertnými skupinami,
+- e) vyjadruje sa k stavebným prácam a k iným technickým opatreniam v bezprostrednej blízkosti štátnej hranice. Je oprávnená udeľovať výnimky podľa článku 22 ods. 3,
 
-- f) mení a dopĺňa hraničné dokumentárne dielo, určuje obsah a formu jeho aktualizácie, odstraňuje rozdiely medzi údajmi v hraničných dokumentoch a novými zisteniami v teréne,
+- f) preskúšava, kontroluje a schvaľuje zápisnice a dokumenty vyhotovené zmiešanými technickými a expertnými skupinami,
 
-- g) zisťuje druh a rozsah zmien na hraničných vodných tokoch a prijíma potrebné opatrenia podľa článku 8,
+- g) spracováva a predkladá na vyslovenie súhlasu hraničné dokumenty podľa článku 14 ods. 4 tejto zmluvy,
 
-- h) zabepečuje spôsob vyznačenia a údržby trojštátnych hraničných bodov a ich preskúšanie.
+- h) spracováva a predkladá príslušným orgánom zmluvných strán návrhy zmien a doplnení hraničného dokumentárneho diela,
+
+- i) zabepečuje spôsob vyznačenia a údržby trojštátnych hraničných bodov a ich preskúšanie.
 
 (2) Hraničná komisia vydáva rokovací poriadok, smernice na vyznačovanie, zameriavanie a údržbu štátnej hranice a návod na aktualizáciu hraničného dokumentárneho diela.

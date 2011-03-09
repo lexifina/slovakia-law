@@ -1,6 +1,6 @@
 # Článok 3
 
-(1) Zmeny priebehu štátnej hranice v porovnaní so stavom k 1. januáru 1993 sú opísané a graficky znázornené v dokumentácii Zmeny priebehu slovensko-českej štátnej hranice, ktorá tvorí prílohu II tejto zmluvy a je jej neoddeliteľnou súčasťou.
+(1) Zmeny priebehu štátnej hranice k 25. júlu 1997 v porovnaní so stavom k 1. januáru 1993 sú opísané a graficky znázornené v dokumentácii Zmeny priebehu slovensko-českej štátnej hranice, ktorá tvorí prílohu II tejto zmluvy a je jej neoddeliteľnou súčasťou.
 
 (2) Dokumentáciu Zmien priebehu slovensko-českej štátnej hranice tvorí
 

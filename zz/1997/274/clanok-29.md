@@ -6,4 +6,4 @@
 
 (3) O každom doplnení, zmene a obnove vyznačenia štátnej hranice, ako aj o zisteniach vyplývajúcich z kontroly výsledkov zamerania sa napíše zápisnica vo dvoch vyhotoveniach, každé v slovenskom jazyku a v českom jazyku. V prípade potreby sa vyhotovia aj technické podklady.
 
-(4) Hraničná komisia na záver každého preskúšania štátnej hranice zhrnie výsledky prác do záverečnej správy, ktorú predloží na schválenie ministrom vnútra.
+(4) Hraničná komisia na záver každého preskúšania štátnej hranice zhrnie výsledky prác do záverečného protokolu, ktorý predloží na schválenie ministrom vnútra.
