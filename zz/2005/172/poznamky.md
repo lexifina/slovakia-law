@@ -26,6 +26,26 @@
 
 - 12) Napríklad zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov.
 
+- 12a) § 223 Zákonníka práce.
+
+- 12b) § 8a ods. 4 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
+
+- 12c) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
+
+- 12d) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 12e) § 8a ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
+
+- 12f) § 116 Občianskeho zákonníka.
+
+- 12g) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 12h) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12i) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 12j) § 8 až 13 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
+
 - 13) § 2 ods. 3 zákona č. 575/2001 Z. z. v znení neskorších predpisov.
 
 - 14) § 107 ods. 1 písm. a) a c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
@@ -40,7 +60,7 @@
 
 - 19) § 1 ods. 2 zákona č. 231/1999 Z. z. v znení neskorších predpisov.
 
-- 20) Napríklad zákon č. 231/1999 Z. z. v znení neskorších predpisov, Nariadenie Rady (ES) č. 659/1999 z 22. marca 1999 ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy ES (Ú. v. ES L 083, 27. 03. 1999) v platnom znení, Nariadenie Komisie (ES) č. 70/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 Zmluvy ES na štátnu pomoc malým a stredným podnikom (Ú. v. ES L 010, 13. 01. 2001) v znení nariadenia Komisie (ES) č. 364/2004 z 25. februára 2004 (Ú. v. EÚ L 063, 28. 02. 2004), Nariadenie Komisie (ES) č. 69/2001 z 12. januára 2001 o uplatňovaní článkov 87 a 88 Zmluvy ES pri pomoci de minimis (Ú. v. ES L 010, 13. 01. 2001), Nariadenie Rady (ES) č. 994/98 zo 7. mája 1998 o uplatňovaní článkov 92 a 93 Zmluvy o založení Európskeho spoločenstva na určité kategórie horizontálnej štátnej moci (Ú. v. ES L 142, 14. 05. 1998).
+- 20) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie, nariadenie Rady (ES) č. 994/98 zo 7. mája 1998 o uplatňovaní článkov 92 a 93 Zmluvy o založení Európskeho spoločenstva na určité kategórie horizontálnej štátnej pomoci (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 1; Ú. v. ES L 142, 14. 5. 1998), nariadenie Rady (ES) č. 659/1999 z 22. marca 1999 ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o ES (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 1; Ú. v. ES L 83, 27. 3. 1999) v platnom znení, nariadenie Komisie (ES) č. 800/2008, zákon č. 231/1999 Z. z. v znení neskorších predpisov.
 
 - 21) § 5 ods. 1 a 2 zákona č. 133/2002 Z. z.
 
@@ -66,13 +86,15 @@
 
 - 29) § 23 ods. 1 zákona č. 231/1999 Z. z. v znení neskorších predpisov.
 
-- 30) Napríklad nariadenie Komisie (ES) č. 70/2001 v znení nariadenia Komisie (ES) č. 364/2004, nariadenie Komisie (ES) č. 69/2001.
+- 30) Nariadenie (ES) č. 800/2008.
 
 - 31) § 23 ods. 5 až 7 zákona č. 231/1999 Z. z. v znení neskorších predpisov.
 
 - 32) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 478/1992 Zb. o úžitkových vzoroch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 90/1993 Z. z. o opatreniach v oblasti priemyselného vlastníctva v znení zákona č. 55/1997 Z. z., zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení zákona č. 402/2002 Z. z., zákon č. 444/2002 Z. z. o dizajnoch v znení zákona č. 344/2004 Z. z., zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 33) § 4 ods. 1 zákona č. 523/2004 Z. z.
+
+- 33a) Zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 34) Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
 

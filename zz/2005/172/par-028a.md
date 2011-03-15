@@ -1,3 +1,3 @@
 # § 28a
 
-Týmto zákonom sa preberajú právne akty Európskych spoločenstiev a Európskej únie uvedené v prílohe.
+Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
