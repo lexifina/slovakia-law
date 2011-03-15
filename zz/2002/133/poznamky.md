@@ -34,6 +34,8 @@
 
 - 17) § 16 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
+- 17a) § 8a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 40/2011 Z. z.
+
 - 18) § 36 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
 - 19) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
