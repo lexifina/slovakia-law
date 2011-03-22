@@ -348,13 +348,15 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. súd prvého stupňa pre justičné listiny vydané orgánom v jeho obvode
 
-    - Holandsko
+    - Holandské kráľovstvo
 
-  - 1. pre kráľovstvo v Európe | súdny tajomník („registrar") súdov prvého stupňa
+  - 1. pre územia v Európe | Prvostupňové súdy (Rechtbanken)
 
-  - 2. pre Holandské Antily | „Lieutenant Governor" ostrova alebo skupiny ostrovov, na ostrove Curaçao pre listiny uvedené v čl. 3 ods. 1 dohovoru aj vedúci Registra narodení, úmrtí, manželstiev, obyvateľstva a voličov ostrova Curaçao a jeho zástupca
+  - 2. pre ostrov Aruba | Riaditeľ oddelenia legislatívy a právnych záležitostí
 
-  - 3. pre ostrov Aruba | „de Directeur van het Centraal Bureau Juridische en Algemene Zaken"
+  - 3. pre ostrov Curaçao | Riaditeľ oddelenia matrík na Ministerstve verejnej správy, plánovania a služieb a riaditeľ Informačných systémov a manažmentu
+
+  - 4. pre karibskú časť Holandského kráľovstva, t. j. pre ostrovy Bonaire, Saint-Eustache a Saba | (Gezaghebbers)
 
     - Honduras
 
