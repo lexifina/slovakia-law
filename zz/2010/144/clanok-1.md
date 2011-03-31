@@ -420,6 +420,20 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 85. V § 116 ods. 8 sa slová „osvedčenie o evidencii a podľa potreby“ nahrádzajú slovami „osvedčenie o evidencii časť II a podľa potreby vydá aj osvedčenie o evidencii časť I,“.
 
+- 86. V § 116 ods. 10 sa za slová „osvedčení o evidencii“ vkladajú slová „časti I alebo časti II“, slová „odseku 1 písm. a)“ sa nahrádzajú slovami „odseku 1 písm. a) až d)“ a slovo „potvrdiť“ sa nahrádza slovom „podpísať“.
+
+- 87. V § 116 ods. 10 druhej vete sa slová „v evidencii vozidiel“ nahrádzajú slovami „podľa odseku 1 písm. a), b) a d)“.
+
+- 88. § 116 sa dopĺňa odsekmi 11 a 12, ktoré znejú:
+
+- „(11)
+
+- Vlastník vozidla môže požiadať o prihlásenie vozidla do evidencie alebo o odhlásenie vozidla do cudziny aj prostredníctvom elektronickej služby zavedenej na tento účel, pričom je povinný žiadosť podpísať zaručeným elektronickým podpisom.<sup>64</sup>) Orgán Policajného zboru vykoná zmenu v evidencii vozidiel a žiadateľovi automatizovane oznámi vykonanie tejto zmeny, ak sú splnené podmienky podľa odseku 10 písm. c) a d).
+
+- (12)
+
+- Osoba zapísaná v osvedčení o evidencii časti I alebo časti II ako vlastník vozidla alebo držiteľ vozidla môže požiadať o vykonanie zmeny podľa odseku 1 písm. f) až h) aj prostredníctvom elektronickej služby zavedenej na tento účel, pričom je povinná žiadosť podpísať zaručeným elektronickým podpisom.<sup>64</sup>) Orgán Policajného zboru vykoná zmenu v evidencii vozidiel a žiadateľovi automatizovane oznámi vykonanie tejto zmeny, ak sú splnené podmienky podľa odseku 10 písm. a) až d).“.
+
 - 89. Nadpis nad § 117 znie: „Zápis vlastníka vozidla a držiteľa vozidla“.
 
 - 90. V § 117 ods. 1 prvá a druhá veta znejú: „Pri oznámení zmeny podľa § 116 ods. 1 písm. b) je osoba, na ktorú sa držba vozidla previedla, povinná osobne požiadať orgán Policajného zboru príslušný podľa miesta svojho pobytu alebo sídla o zápis do dokladov vozidla ako držiteľ, a to do 15 dní odo dňa, keď sa na ňu držba vozidla previedla. Pritom je povinná na vykonanie evidenčných úkonov predložiť osvedčenie o evidencii časť I alebo časť II so zápisom o oznámení zmeny, ktorý vykonal orgán Policajného zboru, osvedčenie o evidencii časť I, ak bolo vydané k osvedčeniu o evidencii časti II, a ďalšie potrebné doklady ustanovené týmto zákonom preukazujúce splnenie podmienok na vykonanie zmeny v evidencii vozidiel, preukázať svoju totožnosť a vyplniť príslušné tlačivo, ak je na tento účel zavedené; osvedčenie o evidencii časť I alebo časť II sa neodovzdáva, ak bolo stratené alebo odcudzené.“.
@@ -451,6 +465,12 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 - „(2)
 
 - Vlastník vozidla alebo držiteľ vozidla je pri vyradení vozidla z evidencie povinný vyplniť príslušné tlačivo, ak je na tento účel zavedené, odovzdať osvedčenie o evidencii časť I, osvedčenie o evidencii časť II, ak bolo vydané, tabuľku s evidenčným číslom, a ak ide o staré vozidlo, predložiť aj potvrdenie o prevzatí starého vozidla na spracovanie;<sup>66</sup>) osvedčenie o evidencii časť I alebo časť II alebo tabuľka s evidenčným číslom sa neodovzdávajú, ak boli stratené alebo odcudzené.“.
+
+- 95. § 120 sa dopĺňa odsekom 9, ktorý znie:
+
+- „(9)
+
+- Vlastník vozidla alebo držiteľ vozidla môže požiadať o vyradenie vozidla z evidencie aj prostredníctvom elektronickej služby zavedenej na tento účel, pričom je povinný žiadosť podpísať zaručeným elektronickým podpisom.<sup>64</sup>) Orgán Policajného zboru vyradí staré vozidlo z evidencie, ak prijal elektronickú informáciu o prevzatí vozidla na spracovanie,<sup>66</sup>) a žiadateľovi automatizovane oznámi vyradenie, ak tomu nebránia iné zákonné dôvody.“.
 
 - 96. V § 130 ods. 1 sa za slová „zvláštnym evidenčným číslom“ vkladajú slová „obsahujúcim písmeno M, H, S alebo C“ a za slová „osvedčenie o evidencii“ sa pripájajú tieto slová: „časť I“.
 
