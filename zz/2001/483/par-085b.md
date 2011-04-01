@@ -28,6 +28,6 @@
 
 (8) Hypotekárna banka nezodpovedá za pravdivosť údajov o výške priemerného mesačného príjmu podľa § 85a ods. 3 písm. a).
 
-(9) Mladému poberateľovi hypotekárneho úveru po uplynutí piatich rokov od začatia úročenia hypotekárneho úveru zaniká nárok na štátny príspevok pre mladých a súčasne mu vzniká nárok na štátny príspevok.
+(9) Mladému poberateľovi hypotekárneho úveru po uplynutí piatich rokov od začatia úročenia hypotekárneho úveru zaniká nárok na štátny príspevok pre mladých a súčasne mu vzniká nárok na štátny príspevok; v tomto prípade sa ustanovenie § 85 ods. 3 uplatňuje rovnako.
 
 (10) Ustanovenia § 86 až 88 sa na zmluvy o hypotekárnom úvere so štátnym príspevkom pre mladých vzťahujú rovnako.

@@ -18,7 +18,7 @@
 
 - 7) § 21 ods. 3 a 4 a § 28 ods. 3 Obchodného zákonníka.
 
-- 8) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 8) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 492/2009 Z. z., usmernenie Európskej centrálnej banky z 31. augusta 2000 o nástrojoch a postupoch menovej politiky Eurosystému (ECB/2000/7) (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení.
 
 - 9) Zákon č. 492/2009 Z. z.
 
@@ -33,8 +33,6 @@
 - 13a) § 5 písm. f) až i) a § 8 písm. d) zákona č. 566/2001 Z. z.
 
 - 13b) § 25 až 32 zákona č. 429/2002 Z. z. o burze cenných papierov.
-
-- 13c) § 708 Obchodného zákonníka.
 
 - 14) Občiansky súdny poriadok.
 
@@ -102,8 +100,6 @@
 
 - 27e) § 22 zákona č. 186/2009 Z. z.
 
-- 27f) § 52 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
-
 - 27g) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 28) § 476 až 488 Obchodného zákonníka.
@@ -121,6 +117,8 @@
 - 30d) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 o uplatňovaní medzinárodných účtovných noriem.
+
+- 30e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
 - 30f) § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
@@ -147,6 +145,8 @@
 - 37a) § 5 zákona č. 566/2001 Z. z.
 
 - 37aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
+- 37ab) § 41 a 42 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 38) § 2 ods. 4 písm. a) a b) a § 24 až 29 zákona č. 431/2002 Z. z.
 
@@ -182,6 +182,8 @@
 
 - 48) § 178 ods. 3 a 4 a § 187 písm. e) Obchodného zákonníka.
 
+- 48a) § 10 ods. 5 zákona č. 747/2004 Z. z.
+
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 49a) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
@@ -210,7 +212,7 @@
 
 - 56) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
-- 57) § 6, 7 a § 12 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
+- 57) § 6, 7 a § 12 ods. 4, 5 a 7 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
 - 58) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -294,7 +296,9 @@
 
 - 83) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 84) § 2 ods. 1 písm. b), c) a l) a § 29a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 84) § 2 ods. 1 písm. b), c) a l), § 29a a 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 84a) § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z. o preukazovaní pôvodu majetku.
 
 - 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 5 a § 10 ods. 8 zákona č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť.
 

@@ -1,78 +1,64 @@
 # § 33e
 
-(1) Ak tento zákon neustanovuje inak, banka je povinná nepretržite zabezpečovať, aby jej majetková angažovanosť
+(1) Ak odsek 2 neustanovuje inak, banka je povinná nepretržite zabezpečovať, aby jej majetková angažovanosť, po zohľadnení vplyvov zmierňovania kreditného rizika vrátane dňa vzniku majetkovej angažovanosti, neprekročila 25 % jej vlastných zdrojov voči
 
-- a) zodpovedajúca pozíciám v obchodnej a bankovej knihe vrátane dňa vzniku majetkovej angažovanosti neprekročila
+- a) osobe,
 
-  - 1. 20 % súčtu jej základných, dodatkových a doplnkových vlastných zdrojov znížených o príslušné odpočítateľné položky voči
+- b) skupine hospodársky spojených osôb, ktorú tvorí materská spoločnosť banky a jej iné dcérske spoločnosti,
 
-    - 1a. materskej spoločnosti,
+- c) skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti banky,
 
-    - 1b. dcérskej spoločnosti,
+- d) inej skupine hospodársky spojených osôb alebo
 
-    - 1c. skupine hospodársky spojených osôb, ktorú tvorí materská spoločnosť banky a jej iné dcérske spoločnosti, alebo
+- e) štátu a centrálnej banke ustanoveným podľa odseku 12.
 
-    - 1d. skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti banky,
+(2) Banka je povinná nepretržite zabezpečovať, aby jej majetková angažovanosť po zohľadnení vplyvov zmierňovania kreditného rizika vrátane dňa vzniku majetkovej angažovanosti neprekročila jednu z vyšších hodnôt, a to 25 % vlastných zdrojov banky alebo 150 000 000 eur, voči osobe, ktorá je inštitúciou, a voči skupine hospodársky spojených osôb, z ktorých aspoň jedna osoba je inštitúciou, ak súčet hodnôt majetkových angažovaností banky po zohľadnení vplyvov zmierňovania kreditného rizika voči všetkým ostatným osobám, ktoré sú súčasťou skupín hospodársky spojených osôb a ktoré súčasne nie sú inštitúciami, neprekračuje 25 % vlastných zdrojov banky. Ak 150 000 000 eur je vyššia hodnota ako 25 % vlastných zdrojov, hodnota akejkoľvek expozície po zohľadnení vplyvu zmierňovania kreditného rizika banky nesmie prekročiť bankou určený percentuálny limit vlastných zdrojov banky. Tento percentuálny limit si banka určuje v súlade so systémom riadenia rizík podľa § 23 a 27; tento limit však banka určuje najviac na úrovni 100 % vlastných zdrojov banky.
 
-  - 2. 25 % súčtu jej základných, dodatkových a doplnkových vlastných zdrojov znížených o príslušné odpočítateľné položky voči
+(3) Prekročenie akéhokoľvek obmedzenia majetkovej angažovanosti podľa odsekov 1 a 2 je banka povinná bezodkladne oznámiť Národnej banke Slovenska, ktorá po posúdení okolností, za ktorých došlo k tomuto prekročeniu, určí obdobie, počas ktorého je banka povinná vykonať potrebnú nápravu. Ak banka uplatňuje postup podľa odseku 2, Národná banka Slovenska po posúdení okolností, za ktorých došlo k uplatňovaniu postupu podľa odseku 2, môže pre jednotlivé expozície banke umožniť, aby tieto expozície prekračovali svojou hodnotou 100 % vlastných zdrojov banky.
 
-    - 2a. inej osobe,
+(4) Banka môže obmedzenia majetkových angažovaností podľa odseku 1 alebo odseku 2 prekračovať, ak
 
-    - 2b. inej skupine hospodársky spojených osôb alebo
+- a) dodržiava obmedzenia majetkových angažovaností podľa odseku 1 alebo odseku 2, a ak
 
-    - 2c. štátom a centrálnym bankám určeným podľa odseku 12,
+  - 1. na ten účel nie je vo vlastných zdrojoch obsiahnutá hodnota doplnkových vlastných zdrojov banky a
 
-- b) zodpovedajúca pozíciám v bankovej knihe vrátane dňa vzniku majetkovej angažovanosti súčasne neprekročila
+  - 2. prekročenie vyplýva len z obchodov evidovaných v obchodnej knihe,
 
-  - 1. 20 % súčtu jej základných a dodatkových vlastných zdrojov znížených o príslušné odpočítateľné položky voči
+- b) z prekročení obmedzení majetkových angažovaností podľa odseku 1 alebo odseku 2 vypočítava dodatočné požiadavky na vlastné zdroje banky,
 
-    - 1a. materskej spoločnosti,
+- c) zabezpečí, aby majetková angažovanosť podľa odseku 9 písm. d) neprekračovala 500 % jej vlastných zdrojov, ak neuplynulo viac než desať dní odo dňa prekročenia,
 
-    - 1b. dcérskej spoločnosti,
+- d) zabezpečí, aby súčet všetkých prekročení neprekračoval 600 % jej vlastných zdrojov, ak uplynulo viac než desať dní odo dňa týchto prekročení a
 
-    - 1c. skupine hospodársky spojených osôb, ktorú tvorí materská spoločnosť banky a jej iné dcérske spoločnosti alebo
+- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za predchádzajúci štvrťrok, ktorého predmetom sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo; v takom prípade sa odsek 3 nepoužije.
 
-    - 1d. skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti banky,
+(5) Banka je na účel obmedzenia vzniku neprimerane vysokého rizika majetkovej angažovanosti povinná
 
-  - 2. 25 % súčtu jej základných a dodatkových vlastných zdrojov znížených o príslušné odpočítateľné položky voči
+- a) zisťovať existenciu skupín hospodársky spojených osôb, voči ktorým má banka alebo môže mať banka majetkovú angažovanosť; v rámci zisťovania existencie skupín hospodársky spojených osôb v súvislosti s expozíciami banky podľa § 32 ods. 1 písm. m), o) a p) má banka povinnosť overiť, či má expozície voči podkladovým aktívam obsiahnutým v položkách podľa § 32 ods. 1 písm. m), o) a p), a tieto expozície banka nepretržite sleduje, hodnotí a v súvislosti s týmito expozíciami identifikuje, meria, sleduje, zmierňuje a nepretržite vypočítava hodnotu rizika majetkovej angažovanosti v nich obsiahnutú,
 
-    - 2a. inej osobe,
+- b) nepretržite identifikovať, merať, sledovať a vypočítavať hodnotu rizika majetkovej angažovanosti obsiahnutého v expozíciách banky voči emitentom cenných papierov slúžiacich ako financované zabezpečenie, voči osobám poskytujúcim nefinancované zabezpečenie a voči podkladovým aktívam obsiahnutým v položkách podľa § 32 ods. 1 písm. m), o) a p) a prijímať vlastné opatrenia na zmierňovanie tohto rizika; postup prijímania opatrení banky na zmierňovanie rizika majetkovej angažovanosti, ako aj obsah týchto opatrení banka upraví vo svojom vnútornom predpise,
 
-    - 2b. inej skupine hospodársky spojených osôb alebo
+- c) dodržiavať ustanovené pomery majetkovej angažovanosti banky k jej vlastným zdrojom, prípadne k aktívam alebo skupinám aktív vo vzťahu k
 
-    - 2c. štátom a centrálnym bankám určeným podľa odseku 12.
+  - 1. iným štátom,
 
-(2) Súčet veľkých majetkových angažovaností banky nesmie prekročiť 800 % jej vlastných zdrojov, ak tento zákon neustanovuje inak.
+  - 2. zemepisným oblastiam,
 
-(3) Prekročenie akéhokoľvek obmedzenia majetkovej angažovanosti podľa odseku 1 alebo 2 je banka povinná bezodkladne oznámiť Národnej banke Slovenska, ktorá po posúdení okolností, za ktorých došlo k tomuto prekročeniu, určí obdobie, počas ktorého je banka povinná vykonať potrebnú nápravu.
+  - 3. hospodárskym odvetviam,
 
-(4) Banka môže obmedzenia majetkových angažovaností podľa odseku 1 písm. a) alebo odseku 2 prekračovať, ak
+  - 4. bankovým činnostiam, z ktorých táto angažovanosť vznikla,
 
-- a) dodržiava obmedzenia majetkových angažovaností podľa odseku 1 písm. b),
+  - 5. osobám s osobitným vzťahom k banke okrem
 
-- b) z prekročení obmedzení majetkových angažovaností podľa odseku 3 vypočítava dodatočné požiadavky na vlastné zdroje banky,
+    - 5.a. osôb, ktoré majú priamu alebo nepriamu kontrolu nad bankou,
 
-- c) zabezpečí, aby majetková angažovanosť podľa odseku 9 písm. d) neprekračovala 500 % jej vlastných zdrojov, ak uplynulo nie viac než 10 dní odo dňa prekročenia,
+    - 5.b. osôb, ktoré sú nimi priamo alebo nepriamo kontrolované a
 
-- d) zabezpečí, aby súčet všetkých prekročení neprekračoval 600 % jej vlastných zdrojov, ak uplynulo viac než 10 dní odo dňa týchto prekročení a
-
-- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za uplynulý štvrťrok, ktorého predmetom sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo; v takom prípade sa odsek 3 nepoužije.
-
-(5) Banka je na účel obmedzenia vzniku neprimerane vysokých rizík povinná dodržiavať ustanovené pomery majetkovej angažovanosti banky k jej vlastným zdrojom, prípadne k aktívam alebo skupinám aktív vo vzťahu k
-
-- a) iným štátom,
-
-- b) zemepisným oblastiam,
-
-- c) hospodárskym odvetviam,
-
-- d) bankovým činnostiam, z ktorých táto angažovanosť vznikla,
-
-- e) osobám s osobitným vzťahom k banke okrem osôb, ktoré majú priamu alebo nepriamu kontrolu nad bankou, a osôb, ktoré sú nimi priamo alebo nepriamo kontrolované, a právnických osôb, ktoré kontroluje banka.
+    - 5.c. právnických osôb, ktoré kontroluje banka.
 
 (6) Postup podľa odseku 5 je povinná primerane dodržiavať z pohľadu svojich dlhodobých zdrojov financovania aj pobočka zahraničnej banky okrem zahraničnej banky podľa § 11 ods. 1.
 
-(7) Materská banka podľa § 44 ods. 2 písm. a) je povinná zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti banky za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 44 ods. 2 písm. a), neberú do úvahy.
+(7) Materská banka podľa § 44 ods. 2 písm. a) je povinná zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti a obmedzení vzniku neprimerane vysokého rizika majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti banky za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 44 ods. 2 písm. a), neberú do úvahy.
 
 (8) Národná banka Slovenska je oprávnená umožniť banke, na základe jej písomnej žiadosti s uvedením vecných dôvodov, na účely posudzovania majetkovej angažovanosti podľa
 
@@ -98,7 +84,7 @@
 
 - a) v tejto skupine má jedna osoba kontrolu nad ostatnými osobami alebo
 
-- b) vzájomné hospodárske vzťahy v tejto skupine sú takej povahy a zo všetkých okolností je zrejmé, že finančné ťažkosti jednej osoby spôsobia neschopnosť ostatných osôb splácať svoje záväzky včas.
+- b) vzájomné hospodárske vzťahy v tejto skupine sú takej povahy a zo všetkých okolností je zrejmé, že finančné ťažkosti jednej osoby spôsobia neschopnosť ostatných osôb financovať alebo splácať svoje záväzky včas.
 
 (12) Opatrením,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia:
 
@@ -126,4 +112,4 @@
 
 - c) ak nie sú splnené všetky podmienky podľa odseku 8 písm. a), b) alebo c).
 
-(15) Na postup podľa odseku 8 alebo 14 sa nevzťahujú ustanovenia o konaní vo veciach dohľadu nad finančným trhom ani všeobecné predpisy o správnom konaní.<sup>30f</sup>)
+(15) Na postup podľa odseku 3, 8 a 14 sa nevzťahujú ustanovenia o konaní vo veciach dohľadu nad finančným trhom ani všeobecné predpisy o správnom konaní.<sup>30f</sup>)

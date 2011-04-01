@@ -8,7 +8,7 @@
 
 (2) Na určenie rizikovej váhy expozície voči majetku, ktorý je predmetom sekuritizácie, môže byť použitý rating ratingovej agentúry, ak bola na tento účel uznaná na základe predchádzajúceho súhlasu Národnej banky Slovenska.
 
-(3) Národná banka Slovenska uzná na účely podľa odseku 2 ratingovú agentúru, ak spĺňa požiadavky podľa § 32 ods. 6 a ak táto ratingová agentúra preukáže skúsenosti v oblasti sekuritizácie.
+(3) Národná banka Slovenska uzná na účely podľa odseku 2 ratingovú agentúru, ak spĺňa požiadavky podľa § 32 ods. 6 a ak táto ratingová agentúra preukáže skúsenosti v oblasti sekuritizácie. Ak je ratingová agentúra registrovaná ako ratingová agentúra podľa osobitného predpisu<sup>30e</sup>) a ak táto ratingová agentúra preukáže skúsenosti v oblasti sekuritizácie, Národná banka Slovenska v rámci procesu uznávania ratingu iba posúdi, či jej metodika hodnotenia spĺňa požiadavky objektivity, nezávislosti, priebežnej kontroly a transparentnosti. Tým nie je dotknuté ustanovenie odseku 4.
 
 (4) Ak bola ratingová agentúra na účely podľa odseku 2 uznaná príslušným orgánom dohľadu iného členského štátu, Národná banka Slovenska môže uznať ratingovú agentúru bez toho, aby sama zisťovala splnenie požiadaviek podľa odseku 3.
 

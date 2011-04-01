@@ -28,11 +28,11 @@ Na účely tohto zákona sa rozumie
 
 - b) finančným sektorom sektor, v ktorom pôsobí jedna právnická osoba alebo viaceré z týchto právnických osôb:
 
-  - 1. banka, inštitúcia elektronických peňazí, iná finančná inštitúcia podľa § 6 ods. 15 alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
+  - 1. banka, inštitúcia elektronických peňazí, iná finančná inštitúcia podľa § 6 ods. 21 alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
   - 2. poisťovňa, zaisťovňa alebo poisťovacia holdingová spoločnosť podľa osobitného predpisu;<sup>45a</sup>) tieto tvoria sektor poisťovníctva,
 
-  - 3. obchodník s cennými papiermi alebo iná finančná inštitúcia podľa § 6 ods. 15 okrem inštitúcie elektronických peňazí; tieto tvoria sektor investičných služieb,
+  - 3. obchodník s cennými papiermi alebo iná finančná inštitúcia podľa § 6 ods. 21 okrem inštitúcie elektronických peňazí; tieto tvoria sektor investičných služieb,
 
   - 4. zmiešaná finančná holdingová spoločnosť,
 

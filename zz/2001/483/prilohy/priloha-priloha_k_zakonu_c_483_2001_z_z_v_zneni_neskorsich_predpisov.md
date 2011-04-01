@@ -1,6 +1,6 @@
 Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 2000/46/ES z 18. septembra 2000 o začatí a vykonávaní činností a dohľade nad obozretným podnikaním inštitúcií elektronického peňažníctva (Ú. v. ES L 275, 27. 10. 2000, Mimoriadne vydanie Ú. v. EÚ, 6/zv. 03).
 
@@ -19,3 +19,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 8. Smernica Európskeho parlamentu a Rady 2006/49/ES zo 14. júna 2006 o kapitálovej primeranosti investičných spoločností a úverových inštitúcií (prepracované znenie) (Ú. v. EÚ L 177, 30. 6. 2006).
 
   - 9. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2009/111/ES zo 16. septembra 2009, ktorou sa menia a dopĺňajú smernice 2006/48/ES, 2006/49/ES a 2007/64/ES, pokiaľ ide o banky pridružené k ústredným inštitúciám, niektoré položky vlastných zdrojov, veľkú majetkovú angažovanosť, mechanizmy dohľadu a krízové riadenie (Ú. v. EÚ L 302, 17. 11. 2009).
