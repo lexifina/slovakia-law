@@ -10,6 +10,8 @@
 
 - 5) § 13 zákona č. 385/2000 Z. z. v znení zákona č. 185/2002 Z. z.
 
+- 5a) Napríklad § 149a ods. 3 zákona č. 385/2000 Z. z. v znení neskorších predpisov, § 2 ods. 3 až 5 zákona č. 549/2003 Z. z., § 93 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 7) § 9 až 11 zákona č. 365/2004 Z. z. v znení neskorších predpisov.
@@ -58,7 +60,7 @@
 
 - Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 25) Napríklad § 93 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
+- 25) Napríklad § 93 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 26) § 220 Trestného poriadku.
 

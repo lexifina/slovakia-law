@@ -158,7 +158,7 @@ Príloha č. 1 k zákonu č. 400/2009 Z. z.
 
     - Koordinovanie celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
-    - Koordinovanie celoštátneho alebo medzištátneho subsystému súvisiaceho s čerpaním prostriedkov Európskych spoločenstiev s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti s celoštátnou pôsobnosťou, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
+    - Koordinovanie celoštátneho alebo medzištátneho subsystému súvisiaceho s čerpaním prostriedkov Európskej únie s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti s celoštátnou pôsobnosťou, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
     - Koordinovanie štátnej služby alebo častí zložitých systémov na úrovni ministerstva, ostatného ústredného orgánu štátnej správy v príslušnom odbore štátnej služby, orgánu alebo úradu, ktorý vykonáva štátne záležitosti, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
@@ -194,7 +194,7 @@ Príloha č. 1 k zákonu č. 400/2009 Z. z.
 
     - Koordinovanie celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym a medzinárodným dosahom na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
-    - Koordinovanie celoštátneho alebo medzištátneho systému a určovanie zásad alebo postupov čerpania prostriedkov Európskych spoločenstiev na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
+    - Koordinovanie celoštátneho alebo medzištátneho systému a určovanie zásad alebo postupov čerpania prostriedkov Európskej únie na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
     - Tvorba zákonov alebo medzinárodných zmlúv vo vymedzenom úseku na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni, alebo iného orgánu štátnej správy s celoštátnou pôsobnosťou.
 
@@ -214,7 +214,7 @@ Príloha č. 1 k zákonu č. 400/2009 Z. z.
 
     - Koordinovanie celoštátneho a medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym a medzinárodným dosahom na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni.
 
-    - Koordinovanie celoštátneho a medzištátneho systému a určovanie zásad čerpania prostriedkov Európskych spoločenstiev na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni.
+    - Koordinovanie celoštátneho a medzištátneho systému a určovanie zásad čerpania prostriedkov Európskej únie na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni.
 
     - Koncepčná, koordinačná a kontrolná činnosť na úrovni ministerstva, ostatného ústredného orgánu štátnej správy, orgánu alebo úradu, ktorý vykonáva štátne záležitosti na celoštátnej úrovni.
 
