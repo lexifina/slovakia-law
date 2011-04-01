@@ -16,11 +16,17 @@
 
 - 7) Nariadenie (ES) Európskeho parlamentu a Rady č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Ú. v. EÚ L 340, 16. decembra 2002, s. 1) v znení nariadenia Komisie č. 2151/2003 zo 16. decembra 2003 (Ú. v. EÚ L 329, 16. decembra 2003, s. 1).
 
+- 7a) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
+
+- Čl. III oznámenia Komisie o pojme koncentrácia podľa nariadenia Rady (EHS) č. 4064/89 o kontrole koncentrácií medzi podnikmi (Ú. v. EÚ C 66, 2. 3. 1998, str. 5).
+
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
 - 9) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 9a) § 4 ods. 3 písm. f) zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z.
+
+- 9aa) § 47a Občianskeho zákonníka.
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
 
@@ -31,6 +37,8 @@
 - 11) § 116 Občianskeho zákonníka.
 
 - 11a) Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+
+- 11aa) § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 12) Napríklad § 16 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon), § 14 zákona č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení zákona č. 402/2002 Z. z.
 

@@ -22,9 +22,9 @@
 
 (6) Neplatnosť zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody nie je možné vysloviť
 
-- a) ak verejný obstarávateľ alebo obstarávateľ uverejnil oznámenie o zámere uzavrieť zmluvu podľa § 22 ods. 7 a zmluvu, koncesnú zmluvu na práce alebo rámcovú dohodu uzavrel najskôr jedenásty deň odo dňa uverejnenia tohto oznámenia v európskom vestníku,
+- a) ak verejný obstarávateľ alebo obstarávateľ uverejnil oznámenie o zámere uzavrieť zmluvu podľa § 22 ods. 6 a zmluvu, koncesnú zmluvu na práce alebo rámcovú dohodu uzavrel najskôr jedenásty deň odo dňa uverejnenia tohto oznámenia v európskom vestníku,
 
-- b) pri zadávaní podlimitnej zákazky, podprahovej zákazky, zákazky s nízkou hodnotou a koncesie na služby.
+- b) pri zadávaní podprahovej zákazky, zákazky s nízkou hodnotou a koncesie na služby.
 
 (7) Ekonomický záujem na plnení zmluvy alebo koncesnej zmluvy na práce môže byť považovaný za dôvod týkajúci sa všeobecného záujmu, ktorý si vyžaduje pokračovanie plnenia zmluvy, plnenia koncesnej zmluvy na práce alebo plnení na základe rámcovej dohody len za výnimočných okolností, ak by neplatnosť zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody viedla k neprimeraným následkom. Ekonomický záujem však nesmie prevyšovať všeobecný záujem. Ekonomické záujmy priamo spojené s dotknutou zákazkou, najmä náklady vyplývajúce z oneskorenia pri plnení zmluvy alebo plnení na základe rámcovej dohody, náklady spojené so začatím nového postupu verejného obstarávania, náklady vzniknuté v dôsledku zmeny dodávateľa a náklady spojené s právnymi záväzkami, ktoré by vznikli v dôsledku neplatnosti zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody, nepredstavujú dôvody týkajúce sa všeobecného záujmu, vyžadujúce pokračovanie plnenia zmluvy, plnenia koncesnej zmluvy na práce alebo plnení na základe rámcovej dohody.
 
