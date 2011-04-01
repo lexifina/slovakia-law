@@ -1,0 +1,1 @@
+- 1) Nariadenie vlády Slovenskej republiky č. 282/2010 Z. z., ktorým sa ustanovujú prahové hodnoty a zoznam útvarov podzemných vôd.
