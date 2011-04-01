@@ -378,17 +378,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna gastroenterologická prehliadka | |
 
-- 1. Preventívne vykonanie dychového testu na Helicobacter pylori | |
-
-- Obsah | preventívna prehliadka poistenca s vykonaním dychového testu na Helicobacter pylori |
-
-- Vykonáva | lekár so špecializáciou v špecializačnom odbore gastroenterológia, detská gastroenterológia alebo lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo |
-
-- Okruh poistencov | poistenci od 19 do 20 rokov veku |
-
-- Periodicita | jeden raz |
-
-- 2. Preventívna prehliadka konečníka a hrubého čreva kolonoskopom | |
+- Preventívna prehliadka konečníka a hrubého čreva kolonoskopom | |
 
 - Obsah | preventívna prehliadka konečníka a hrubého čreva kolonoskopom spočíva vo vykonaní kolonoskopického vyšetrenia od análneho otvoru po cékum. Vyšetrenie je zamerané na vyhľadávanie polypov a včasných štádií rakoviny hrubého čreva a konečníka. Pri zistení nádoru alebo polypu sa z jeho povrchu odoberá vzorka tkaniva, ktorá sa odosiela na histologické vyšetrenie. V priebehu toho istého vyšetrenia sa vykonáva odstránenie polypu. Získaný polyp sa odosiela na histologické vyšetrenie. |
 

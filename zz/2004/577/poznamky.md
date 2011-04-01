@@ -98,4 +98,10 @@
 
 - 34) § 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
+- 34a) § 70 až 73 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 34b) § 38 až 43, § 125 a 126 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 34c) § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 35) § 6 ods. 2 zákona č. 581/2004 Z. z.
