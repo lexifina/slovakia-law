@@ -1,6 +1,6 @@
 Príloha č. 4 k zákonu č. 315/2001 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Rady 91/533/EHS zo 14. októbra 1991 o povinnosti zamestnávateľa informovať zamestnancov o podmienkach vzťahujúcich sa na zmluvu alebo na pracovno-právny vzťah (Ú. v. ES L 288, 18. 10. 1991).
 
