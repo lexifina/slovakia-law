@@ -2832,11 +2832,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Vydanie licencie na cezhraničnú prepravu určených výrobkov, z hodnoty tovaru uvedenej v udelenej licencii ..... | 0,1 % najmenej 33 eur
 
-  - b) Vydanie medzinárodného dovozného certifikátu a vyhlásenia konečného užívateľa ..... | 16,50 eura
+  - b) Vydanie medzinárodného dovozného certifikátu, vyhlásenia konečného užívateľa a dovozného certifikátu položiek s dvojakým použitím ..... | 16,50 eura
 
   - c) Vydanie povolenia na obchodovanie s vojenským materiálom ..... | 1 659,50 eura
 
-  - d) Vydanie licencie na dovoz a vývoz vojenského materiálu, z hodnoty tovaru povolenej v licencii ..... | 0,1 % najmenej 33 eur
+  - d) Vydanie licencie na dovoz a vývoz vojenského materiálu, individuálneho vývozného povolenia, rámcového vývozného povolenia, všeobecného vývozného povolenia, povolenia na prepravu a sprostredkovateľského povolenia položiek s dvojakým použitím, z hodnoty tovaru uvedeného v licencii alebo povolení ..... | 0,1 % najmenej 33 eur
 
   - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii ..... | 0,5 % najmenej 99,50 eura
 
@@ -2848,7 +2848,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) Vydanie povolenia na prepravu výbušnín ..... | 33 eur
 
-  - j) Vydanie duplikátu alebo predĺženia platnosti povolení (licencií) podľa písmen a), b) a i) ..... | 16,50 eura
+  - j) Vydanie duplikátu alebo predĺženia platnosti povolenia, licencie alebo dovozného certifikátu podľa písmen a) až i) ..... | 16,50 eura
 
   - Splnomocnenie |
 
