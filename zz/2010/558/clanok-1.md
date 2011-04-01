@@ -2,7 +2,25 @@
 
 Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2010 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 3 ods. 5 sa číslovka „4“ nahrádza číslovkou „1“.
+
+- 2. V § 3 ods. 5 sa na konci pripája táto veta: „Pri zariadení výrobcu elektriny využívajúce ako zdroj slnečnú energiu sa podpora podľa odseku 1 písm. d) vzťahuje len na zariadenie s inštalovaným výkonom do 100 kW.“.
+
 - 3. V § 3 ods. 6 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Náklady na rekonštrukciu alebo modernizáciu technologickej časti zariadenia výrobcu elektriny musia byť vyššie ako 50 % investičných nákladov na obstaranie novej porovnateľnej technologickej časti zariadenia výrobcu elektriny, okrem zariadenia výrobcu elektriny využívajúce ako zdroj vodnú energiu s inštalovaným výkonom do 2 MW.“.
+
+- 4. § 3 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Pri zariadení výrobcu elektriny využívajúce ako zdroj slnečnú energiu sa podpora podľa odseku 1 písm. c) vzťahuje len na zariadenie s inštalovaným výkonom do 100 kW, ktoré je umiestnené na strešnej konštrukcii alebo obvodovom plášti jednej budovy spojenej so zemou pevným základom evidovanej v katastri nehnuteľnosti.<sup>9a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 9a znie:
+
+- „9a)
+
+- § 1 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (Katastrálny zákon) v znení neskorších predpisov.“.
+
+- 5. V § 5 ods. 6 písm. a) sa slová „s celkovým inštalovaným výkonom zariadenia menej ako 4 MW“ nahrádzajú slovami „podľa § 3 ods. 5“.
 
 - 6. V § 6 ods. 6 sa na konci pripája táto veta: „Ustanovenie prvej vety sa nepoužije na stanovenie ceny elektriny pre zariadenie výrobcu elektriny využívajúce obnoviteľné zdroje energie podľa § 2 ods. 1 písm. a) body 2 a 3.“.
 
