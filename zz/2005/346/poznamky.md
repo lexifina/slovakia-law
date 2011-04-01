@@ -60,6 +60,8 @@
 
 - 21) Napríklad § 12 ods. 1 písm. a) až c), e) a f) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 21a) § 10 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
 - 22) Čl. 86 písm. k) a čl. 119 písm. o) a p) Ústavy Slovenskej republiky.
 
 - § 12 zákona č. 321/2002 Z. z.
