@@ -24,15 +24,15 @@
 
 - k) postupoch zmierňovania kreditného rizika a operačného rizika.
 
-(2) Obchodník s cennými papiermi nie je povinný uverejňovať nepodstatné informácie, vnútorné informácie alebo dôverné informácie okrem tých, ktoré sa ustanovia podľa odsekov 1 a 4, pričom
+(2) Obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi nie sú povinní uverejňovať nepodstatné informácie, vnútorné informácie alebo dôverné informácie, pričom
 
-- a) nepodstatnou informáciou sa rozumie informácia, ktorej uverejnenie alebo nesprávne uverejnenie nemohlo zmeniť alebo ovplyvniť hodnotenie alebo rozhodnutie užívateľa tejto informácie, ktorý na nej zakladá svoje obchodné rozhodnutia,
+- a) nepodstatnou informáciou sa rozumie informácia, ktorej uverejnenie alebo nesprávne uverejnenie by nemohlo zmeniť alebo ovplyvniť hodnotenie alebo rozhodnutie užívateľa tejto informácie, ktorý na nej zakladá svoje obchodné rozhodnutia,
 
-- b) vnútornou informáciou sa rozumie informácia, ktorej uverejnenie ohrozilo konkurenčnú pozíciu obchodníka s cennými papiermi alebo znížilo hodnotu investícií obchodníka s cennými papiermi,
+- b) vnútornou informáciou sa rozumie informácia, ktorej uverejnenie by mohlo ohroziť konkurenčnú pozíciu obchodníka s cennými papiermi alebo pobočky zahraničného obchodníka s cennými papiermi alebo by znížilo hodnotu investícií obchodníka s cennými papiermi alebo pobočky zahraničného obchodníka s cennými papiermi,
 
-- c) dôvernou informáciou sa na tento účel rozumie informácia, o ktorej sa obchodník s cennými papiermi vo vzťahu ku klientovi alebo k inej svojej zmluvnej strane zaviazal zachovávať jej dôvernosť.
+- c) dôvernou informáciou sa rozumie informácia, o ktorej sa obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi zaviazali vo vzťahu ku klientovi alebo k inej svojej zmluvnej strane zachovávať jej dôvernosť.
 
-(3) Ustanovenia odsekov 1 a 2 sa vzťahujú aj na pobočku zahraničného obchodníka s cennými papiermi.
+(3) Pobočka zahraničného obchodníka s cennými papiermi je povinná uverejňovať informácie o sebe a o svojej činnosti, informácie o opatreniach na nápravu a o pokutách, ktoré jej boli uložené, a informácie o finančných ukazovateľoch.
 
 (4) Opatrením,ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanoví
 
@@ -40,16 +40,20 @@
 
 - b) periodicita, spôsob a termín uverejňovania informácií podľa odseku 1,
 
-- c) rozsah informácií za konsolidovaný celok podľa odseku 8.
+- c) rozsah informácií za konsolidovaný celok podľa odseku 8,
+
+- d) rozsah informácií za významnú dcérsku spoločnosť podľa odseku 6 a čo sa rozumie významnou dcérskou spoločnosťou.
 
 (5) Materský obchodník s cennými papiermi v Európskej únii uverejňuje informácie podľa odseku 1 písm. a) až k) aj za konsolidovaný celok.
 
 (6) Obchodník s cennými papiermi podľa odseku 5 je povinný zverejňovať informácie ustanovené opatrením Národnej banky Slovenska podľa odseku 4 za svoju významnú dcérsku spoločnosť.
 
-(7) Obchodník s cennými papiermi, ktorý je kontrolovaný materskou finančnou holdingovou spoločnosťou v Európskej únií alebo v ktorej má materská finančná holdingová spoločnosť v Európskej únii majetkovú účasť, má povinnosť poskytnúť súčinnosť pri uverejňovaní informácií podľa odsekov 1 až 4 za konsolidovaný celok tejto finančnej holdingovej spoločnosti.
+(7) Obchodník s cennými papiermi, ktorý je kontrolovaný materskou finančnou holdingovou spoločnosťou v Európskej únií alebo v ktorom má materská finančná holdingová spoločnosť v Európskej únii majetkovú účasť, má povinnosť poskytnúť súčinnosť pri uverejňovaní informácií podľa odsekov 1 a 2 za konsolidovaný celok tejto finančnej holdingovej spoločnosti.
 
 (8) Obchodník s cennými papiermi podľa odseku 7 je povinný zverejňovať informácie ustanovené opatrením Národnej banky Slovenska podľa odseku 4 aj za konsolidovaný celok.
 
-(9) Národná banka Slovenska môže rozhodnúť, že odseky 5 a 6 sa nevzťahujú úplne alebo čiastočne na obchodníkov s cennými papiermi, ktorých materské spoločnosti majú sídlo v štáte, ktorý napriek tomu, že nie je členským štátom, ukladá materskej spoločnosti so sídlom na jeho území porovnateľnú informačnú povinnosť za konsolidovaný celok, aká je v Slovenskej republike.
+(9) Obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi na požiadanie malej alebo stredne veľkej právnickej osoby alebo iného žiadateľa o úver, ktorý podniká, vysvetlia svoje rozhodnutia o ich ratingu a na ich žiadosť môžu poskytnúť aj písomné vysvetlenie; prevádzkové náklady na vysvetlenie sú primerané veľkosti poskytnutého úveru. Na účely tohto zákona sa malou alebo stredne veľkou právnickou osobou rozumie právnická osoba s ročným obratom do 50 000 000 eur a s počtom zamestnancov menším ako 250.
 
-(10) Obchodník s cennými papiermi je povinný písomne oznámiť Národnej banke Slovenska, ktoré informácie spomedzi tých, ktoré má povinnosť uverejniť, neuverejní z dôvodu, že ich považuje za nepodstatné, vnútorné alebo dôverné, a to v termínoch, v ktorých mal povinnosť príslušné informácie zverejniť.
+(10) Obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi sú povinné písomne oznámiť Národnej banke Slovenska, ktoré informácie spomedzi tých, ktoré majú povinnosť uverejniť, neuverejnia z dôvodu, že ich považujú za nepodstatné, vnútorné alebo dôverné, a to v termínoch, v ktorých mali povinnosť príslušné informácie zverejniť.
+
+(11) Obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi sú povinní vypracovať a prijať postupy hodnotenia vhodnosti uverejňovania informácií v súlade s požiadavkami na uverejňovanie informácií ustanovených v odsekoch 1 a 3 vrátane ich overovania a frekvencie.

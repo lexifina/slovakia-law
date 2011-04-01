@@ -218,6 +218,10 @@
 
 - 58j) § 31 až 33d zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 58ja) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 58k) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
@@ -436,6 +440,8 @@
 
 - 109b) § 33c zákona č. 483/2001 Z. z.
 
+- 109ba) § 6 ods. 14 písm. b) a c) a ods. 15 až 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 109c) § 29 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 110) § 13 zákona č. 329/2000 Z. z.
@@ -461,6 +467,8 @@
 - 114) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
 
 - 114a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 114aa) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
 
