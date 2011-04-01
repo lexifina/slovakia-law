@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 2004/23/ES z 31. marca 2004, ustanovujúca normy kvality a bezpečnosti pri darovaní, odoberaní, testovaní, spracovávaní, konzervovaní, skladovaní a distribúcii ľudských tkanív a buniek (Ú. v. EÚ L 102, 7. 4. 2004).
 

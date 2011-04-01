@@ -174,6 +174,8 @@
 
 - 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
+- 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
+
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
@@ -196,17 +198,35 @@
 
 - 60c) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+- 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 62) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - Zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
 
-- 63) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
+- 63) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov.
 
 - 64) Obchodný zákonník.
 
 - 65) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
+
+- 66) § 13a ods. 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 67) § 5 a § 59 ods. 4 Obchodného zákonníka.
+
+- 68) § 477 ods. 3 časť vety za čiarkou a § 478 Obchodného zákonníka.
+
+- 69) § 59 ods. 2 tretia veta a § 60 Obchodného zákonníka.
+
+- 70) § 34 a 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 71) § 483 ods. 3 Obchodného zákonníka.
+
+- 71a) § 151n až 151p Občianskeho zákonníka.
+
+- 71b) § 58 ods. 1 Obchodného zákonníka.
+
+- 71c) § 25 ods. 1 písm. e) druhý bod zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
