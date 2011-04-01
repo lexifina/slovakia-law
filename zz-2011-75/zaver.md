@@ -1,0 +1,1 @@
+Hedviga Májovská v. r.
