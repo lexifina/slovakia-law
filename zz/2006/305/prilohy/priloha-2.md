@@ -1,6 +1,6 @@
 Príloha č. 2 k nariadeniu vlády č. 305/2006 Z. z.
 
-- Uvádzanie motorov na trh podľa pružného systému 1. V súlade s pružným systémom môže výrobca s povolením príslušného štátneho orgánu<sup>1</sup>) uviesť na trh v období medzi dvoma po sebe nasledujúcimi etapami limitných hodnôt obmedzený počet motorov, ktoré zodpovedajú etape limitnej hodnoty emisie, ktorá bezprostredne predchádzala etape uplatňovanej v súčasnosti.
+- Uvádzanie motorov na trh podľa pružného systému 1. V súlade s pružným systémom môže výrobca s povolením príslušného štátneho orgánu<sup>6</sup>) uviesť na trh v období medzi dvoma po sebe nasledujúcimi etapami limitných hodnôt obmedzený počet motorov, ktoré zodpovedajú etape limitnej hodnoty emisie, ktorá bezprostredne predchádzala etape uplatňovanej v súčasnosti.
 
   - 2. Počet motorov uvedených na trh podľa pružného systému nepresiahne v žiadnej kategórii 20 % ročného predaja výrobcu traktorov vzhľadom na traktory s motormi v danej kategórii motorov (vypočítaného ako priemer predaja za posledných 5 rokov na trhu EÚ). V prípade, že výrobca traktorov uvádzal na trh EÚ traktory počas obdobia aspoň 5 rokov, priemer sa vypočíta na základe obdobia, počas ktorého výrobca traktorov uvádzal traktory na trh EÚ.
 
@@ -22,7 +22,7 @@ Príloha č. 2 k nariadeniu vlády č. 305/2006 Z. z.
 
     - b) vzor doplnkového štítku, ktorý sa má pripevniť na motor s textom: „Motor uvedený na trh podľa pružného systému".
 
-  - 5. Výrobca traktorov poskytne štátnemu orgánu<sup>1</sup>) všetky potrebné informácie, ktoré požaduje v rámci implementácie pružného systému.
+  - 5. Výrobca traktorov poskytne štátnemu orgánu<sup>6</sup>) všetky potrebné informácie, ktoré požaduje v rámci implementácie pružného systému.
 
   - 6. Schvaľovací orgán vyhodnotí obsah žiadosti a oznámi výrobcovi traktorov svoje rozhodnutie o povolení využívania pružného systému.
 

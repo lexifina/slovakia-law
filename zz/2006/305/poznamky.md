@@ -1,4 +1,4 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 584/2004 Z. z., ktorým sa ustanovujú opatrenia na zníženie emisií zo spaľovacích motorov inštalovaných v necestných pojazdných strojoch.
+- 1) Nariadenie vlády Slovenskej republiky č. 370/2006 Z. z. o opatreniach na zníženie emisií zo spaľovacích motorov inštalovaných v necestných strojoch v znení nariadenia vlády Slovenskej republiky č. 155/2007 Z. z.
 
 - 2) § 2 písm. z) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
@@ -8,12 +8,12 @@
 
 - 5) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 451/2004 Z. z.
 
-- § 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+- § 114 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
 
-- 1) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 451/2004 Z. z.
+- 6) § 3 zákona č. 128/2002 Z. z.
 
-- § 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
+- § 114 zákona č. 8/2009 Z. z.
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
