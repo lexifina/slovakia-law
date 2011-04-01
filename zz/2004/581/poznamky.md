@@ -34,6 +34,8 @@
 
 - 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
+- 16c) § 42a zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
@@ -72,6 +74,8 @@
 
 - 27a) § 2 ods. 1 písm. a) a § 3 zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
+- 27b) § 27a ods. 5 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 29) § 18 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
@@ -81,6 +85,12 @@
 - 31) § 66b Obchodného zákonníka.
 
 - 32) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
+
+- 32a) § 217 Obchodného zákonníka.
+
+- 32b) § 27 ods. 8 písm. b) tretí bod zákona č. 580/2004 Z. z.
+
+- 32c) § 27a ods. 9 písm. b) tretí bod zákona č. 580/2004 Z. z.
 
 - 33) § 67 Obchodného zákonníka.
 
@@ -121,6 +131,8 @@
 - 39) § 26 zákona č. 580/2004 Z. z.
 
 - 39a) § 10 ods. 11 a 12 zákona č. 580/2004 Z. z. v znení zákona č. 121/2010 Z. z.
+
+- 39b) § 23 ods. 9 písm. d), § 27, § 27a a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 

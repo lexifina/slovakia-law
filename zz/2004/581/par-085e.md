@@ -1,3 +1,3 @@
 # § 85e
 
-Týmto zákonom sa preberá právny akt Európskych spoločenstiev a Európskej únie uvedený v prílohe.
+Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.

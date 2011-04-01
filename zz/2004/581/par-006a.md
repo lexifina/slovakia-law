@@ -22,13 +22,15 @@
 
 - f) záväzok z ročného prerozdeľovania poistného,<sup>18d</sup>)
 
-- g) dane a poplatky odvádzané do štátneho rozpočtu.
+- g) dane a poplatky odvádzané do štátneho rozpočtu,
+
+- h) úhrada čiastky, o ktorú bol limit spoluúčasti prekročený (§ 6 ods. 1 písm. s).
 
 (4) Ročný úhrn podľa odseku 1 sa vypočíta ako súčet preddavkov na poistné<sup>18f</sup>) splatných v príslušnom kalendárnom roku, nedoplatkov z ročného zúčtovania poistného<sup>18g</sup>) splatných v príslušnom kalendárnom roku a úrokov z omeškania<sup>18h</sup>) splatných v príslušnom kalendárnom roku znížený o preplatky z ročného zúčtovania poistného<sup>18b</sup>) splatné v príslušnom kalendárnom roku.
 
 (5) Ustanovenia odsekov 1 až 4 sa nevzťahujú na použitie
 
-- a) vlastných zdrojov zdravotnej poisťovne,
+- a) vlastných zdrojov zdravotnej poisťovne pri zabezpečení platobnej schopnosti (§ 14),
 
 - b) peňažných prostriedkov, ktoré zdravotná poisťovňa získala v príslušnom kalendárnom roku z predaja nepotrebného majetku zdravotnej poisťovne,
 
