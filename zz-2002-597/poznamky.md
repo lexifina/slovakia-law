@@ -1,0 +1,1 @@
+- 1) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení neskorších predpisov.
