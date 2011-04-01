@@ -56,4 +56,8 @@
 
 - Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 259/2005 Z. z.
 
+- 24a) § 4 ods. 3 zákona č. 442/2002 Z. z.
+
+- 24b) § 4 ods. 4 zákona č. 442/2002 Z. z.
+
 - 25) § 13 ods. 2 písm. g) zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

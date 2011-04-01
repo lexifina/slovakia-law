@@ -1,3 +1,5 @@
-Príloha č. 1 k vyhláške č. 317/2008 Z. z. Vzor pre sledovanie štandardu kvality dodávky vody
+Príloha č. 1 k vyhláške č. 317/2008 Z. z.
 
-[Príloha_1](../assets/e8671e4a168295a92e290fffa20086f0943fb8a7fc0bc7f58dc2c77dfbacdd40.pdf)
+Vyhodnotenie štandardu kvality dodávky vody
+
+[Príloha 01](../assets/e10fe7c377e9b12e0da1bd435d079143e83c8f96b090a6d6887100a0d315599c.pdf)
