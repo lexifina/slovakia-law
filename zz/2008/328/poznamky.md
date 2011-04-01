@@ -1,4 +1,4 @@
-- 1) § 41 ods. 2 a § 43 ods. 2 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
+- 1) § 41 ods. 2, § 43 ods. 2 a § 46 ods. 2 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 10 ods. 4 a § 14 ods. 3 nariadenia vlády Slovenskej republiky č. 409/2007 Z. z., ktorým sa ustanovujú pravidlá pre fungovanie trhu s plynom.
 

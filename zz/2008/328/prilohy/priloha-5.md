@@ -1,29 +1,43 @@
 Príloha č. 5 k vyhláške č. 328/2008 Z. z.
 
-Dosiahnutá úroveň štandardov kvality plynu pri jeho distribúcii a služieb súvisiacich s jeho distribúciou
+Tabuľka č. 1 USKLADŇOVANIE PLYNU
 
-Regulovaný subjekt:
+i | Štandard kvality uskladňovania plynu | Miera závažnosti v % | Skutočná odchýlka štandardov kvality | Hodnota úrovne Hú<sub>i</sub> v %
 
-Obdobie od ...................... do ......................
+11 | Dodržanie kvality plynu pri uskladňovaní podľa technických podmienok prevádzkovateľa zásobníka [§ 2 písm. a)] | 15 | |
 
-Štandardy kvality dodávaného plynu a poskytovaných služieb súvisiacich s distribúciou plynu | Počet udalostí celkom | Počet udalostí v limite | Počet udalostí mimo limitu | Počet nedoriešených udalostí | Podiel udalostí v limite k počtu prípadov celkom (%)
+12 | Písomné oznámenie prevádzkovateľa zásobníka užívateľovi zásobníka o stave preverovania kvality plynu [§ 2 písm. b)] | 10 | |
 
-Písomné určenie technických a obchodných podmienok pripojenia plynového zariadenia k distribučnej sieti | | | | |
+13 | Písomné oznámenie prevádzkovateľa zásobníka užívateľovi zásobníka o spôsobe a termíne odstránenia príčiny zníženej kvality plynu [§ 2 písm. c)] | 10 | |
 
-Umožnenie distribúcie plynu po pripojení plynového zariadenia k distribučnej sieti | | | | |
+14 | Overenie správnosti vyúčtovania platby za uskladňovanie plynu a odstránenie zistených nedostatkov vyúčtovania [§ 2 písm. d)] | 15 | |
 
-Obnovenie distribúcie plynu po poruche | | | | |
+15 | Dodržanie plynulosti procesu uskladňovania plynu dohodnutého v zmluve o uskladňovaní plynu pri pevnej uskladňovacej kapacite [§ 2 písm. e)] | 17 | |
 
-Obnovenie distribúcie plynu po doručení žiadosti užívateľa distribučnej siete po prerušení alebo obmedzení distribúcie plynu | | | | |
+16 | Písomné oznámenie prevádzkovateľa zásobníka užívateľovi zásobníka o začiatku a ukončení plánovaného prerušenia alebo obmedzenia uskladňovania plynu [§ 2 písm. f)] | 5 | |
 
-Písomné vyjadrenie prevádzkovateľa distribučnej siete k zmene odberových pomerov na odbernom mieste odberateľa plynu | | | | |
+17 | Dodržanie termínu začiatku a ukončenia prerušenia alebo obmedzenia služieb uskladňovania plynu [§ 2 písm. g)] | 7 | |
 
-Písomné oznámenie prevádzkovateľa distribučnej siete užívateľovi distribučnej siete o stave preverovania kvality plynu | | | | |
+18 | Zverejnenie informácie o voľnej uskladňovacej kapacite na internetovej stránke prevádzkovateľa zásobníka najneskôr sedem dní pred uvoľnením uskladňovacej kapacity [§ 2 písm. h)] | 7 | |
 
-Písomné oznámenie prevádzkovateľa distribučnej siete užívateľovi distribučnej siete o spôsobe a termíne odstránenia príčiny zníženej kvality plynu | | | | |
+19 | Zverejnenie informácie o voľnej prerušiteľnej uskladňovacej kapacite na internetovej stránke prevádzkovateľa zásobníka najneskôr sedem dní pred uvoľnením prerušiteľnej kapacity [§ 2 písm. i)] | 7 | |
 
-Zabezpečenie preskúšania určeného meradla | | | | |
+20 | Zverejnenie informácie o pláne predpokladaných ročných odstávok na nasledujúci kalendárny rok na internetovej stránke prevádzkovateľa zásobníka do 30. novembra kalendárneho roka t [§ 2 písm. j)] | 7 | |
 
-Písomné oznámenie prevádzkovateľa distribučnej siete užívateľovi distribučnej siete o začiatku a ukončení plánovaného obmedzenia alebo prerušenia distribúcie plynu | | | | |
+Hodnota úrovne štandardu kvality uskladňovania plynu (Hú) | | | |
 
-Dodržanie termínu začatia a ukončenia prerušenia alebo obmedzenia distribúcie plynu | | | | |
+Hodnota úrovne štandardu kvality uskladňovania plynu sa vypočíta podľa vzorca
+
+Hú = Σ Hú<sub>i</sub>
+
+kde
+
+Hú<sub>i</sub> – hodnota úrovne i-tého štandardu kvality uskladňovania plynu, Hú<sub>i</sub> =MZ<sub>i *</sub>K<sub>i</sub>,
+
+i – štandard kvality uskladňovania plynu,
+
+MZ<sub>i</sub>– miera závažnosti i-tého parametra štandardu kvality uskladňovania plynu,
+
+K<sub>i</sub>– skutočná odchýlka, K<sub>i</sub> = (100 – PU<sub>i</sub>)/100,
+
+PU<sub>i</sub> – podiel udalostí v limite k počtu udalostí celkom v percentách uvedených v prílohe č. 1 tabuľke č. 1.
