@@ -6,6 +6,8 @@
 
 - 3) § 35 ods. 6 zákona č. 656/2004 Z. z.
 
+- 3a) § 7 ods. 3 písm. a) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 5) § 14 zákona č. 656/2004 Z. z. v znení zákona č. 112/2008 Z. z.

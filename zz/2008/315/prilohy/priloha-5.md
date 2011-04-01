@@ -1,49 +1,111 @@
 Príloha č. 5 k vyhláške č. 315/2008 Z. z.
 
-SLEDOVANIE ŠTANDARDU KVALITY DODÁVANEJ ELEKTRINY A POSKYTOVANÝCH SLUŽIEB SÚVISIACICH S DISTRIBÚCIOU ELEKTRINY
+VYHODNOTENIE ŠTANDARDU KVALITY PRI DISTRIBÚCII ELEKTRINY
 
-DODRŽIAVANIE PLYNULOSTI DISTRIBÚCIE ELEKTRINY PODĽA § 3 ODS. 1 PÍSM. l) ZA KALENDÁRNY ROK
+Tabuľka č. 1
 
-Tabuľka
+Údaje o regulovanom subjekte, ktorý záznam predkladá
 
-Prevádzkovateľ distribučnej sústavy ........................................
+Obchodné meno spoločnosti: | | |
 
-Priemerná doba nedostupnosti distribúcie elektriny na odberné miesto podľa napäťovej úrovne – T<sub>N</sub> [ min] | | | | | | | | | | | | | | | | |
+Sídlo spoločnosti: | | |
 
-Napäťová úroveň | 1. mesiac | 2. mesiac | 3 mesiac | 1.-3. mesiac spolu | 4. mesiac | 5. mesiac | 6. mesiac | 1.-6. mesiac spolu | 7. mesiac | 8. mesiac | 9. mesiac | 1.-9. mesiac spolu | 10. mesiac | 11. mesiac | 12. mesiac | Rok | Index 2.../2...
+IČO: | | |
 
-vn | | | | | | | | | | | | | | | | |
+Obdobie od do | | |
 
-nn | | | | | | | | | | | | | | | | |
+Celkový počet odberných miest registrovaných regulovaným subjektom ku koncu daného roka | | |
 
-Skutočnosť za kalendárny rok: | vn
+Z toho | Na napäťovej úrovni nad 1 kV | |
 
-| nn
+| Na napäťovej úrovni do 1 kV | |
 
-1) Priemerná doba nedostupnosti distribúcie elektriny na odberné miesto podľa napäťovej úrovne vn, nn - T<sub>N</sub> sa vypočíta:
+Meno a podpis osoby, ktorá záznam vyhotovila: | | |
 
-![vzorec 04](../assets/ef6a9f26a6c2c1f3c71936fb5af5446b71195bb4f92829aa6c502b0288339400.png)
+Telefónne číslo / e-mailová adresa: | | |
 
-kde
+Dátum vyhotovenia záznamu: | | |
 
-Z<sub>i</sub> - počet dotknutých odberných miest v časovom úseku (i) pri prerušení distribúcie elektriny,
+Meno a podpis zodpovednej osoby: | | |
 
-N - celkový počet odberných miest z napäťovej úrovne vn, nn v spoločnosti
+Odtlačok pečiatky: | | |
 
-t<sub>i</sub> - trvanie časového úseku (i) pri prerušení distribúcie elektriny v minútach.
+Tabuľka č. 2
 
-(2) Udalosti, ktoré sa započítavajú do ukazovateľa T<sub>N</sub>, sú:
+Dodržiavanie štandardu kvality podľa § 3 ods. 1 písm. a)
 
-a) všetky prerušenia v distribúcii elektriny po vedeniach vn vrátane udalostí na napäťovej úrovni vvn, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny na odberných miestach napäťovej úrovne vn, nn,
+1 | 2 | 3 | 4 | 5 | 6
 
-b) udalosti na distribučných staniciach (vn/nn), ktoré nemali za následok vypnutie celého vývodu vn alebo jeho časti, sa do ukazovaťeľa nezahŕňajú,
+Celkový počet podaní | Počet podaní, pri ktorých nebola v roku t-1 zistená ich oprávnenosť | Počet podaní zaradených do hodnotenia | Počet oprávnených podaní | Počet neoprávnených podaní | Podiel počtu oprávnených podaní k celkovému počtu podaní
 
-c) minimálne trvanie udalosti vstupujúcej do ukazovateľa T<sub>N</sub> je tri minúty.
+– | – | D<sub>1</sub>C | D<sub>1</sub>O | – | D<sub>1</sub> = D<sub>1</sub>O / D<sub>1</sub>C
 
-(3) Mesačný, kvartálny a ročný ukazovateľ sa sleduje tak, že
+Vysvetlivky k tabuľke č. 2:
 
-a) dokumentácia sa vedie o udalostiach, v ktorých T<sub>N</sub> vstúpilo do mesačného ukazovateľa; o každej udalosti je zaznamenaný dátum a čas vzniku, čas trvania prerušenia, počet dotknutých odberných miest, príčina udalosti,
+V stĺpci 2 sa uvádza počet podaní prijatých v roku t-1, ale do konca roka t-1 nebolo zistené, či sú oprávnené, alebo nie.
 
-b) v prípade živelnej udalosti sa hodnota ukazovateľa T<sub>N</sub>zníži za príslušný mesiac o hodnotu T<sub>N</sub>za príslušné udalosti vyvolané živelnou udalosťou,
+V stĺpci 3 sa uvádza súčet počtu podaní prijatých v roku t-1 a podania z minulých období, pri ktorých bolo do konca roka t-1 zistené, či sú oprávnené, alebo nie.
 
-c) prerušenie distribúcie elektriny z distribučnej sústavy, ktorá mala príčinu vzniku v prenosovej sústave alebo distribučnej sústave, sa môže sledovať a vyhodnocovať osobitne.
+Ak D<sub>1</sub>C = 0, potom D<sub>1</sub> = 0,00.
+
+Hodnota D<sub>1</sub>sa zaokrúhľuje na dve desatinné čísla.
+
+Tabuľka č. 3
+
+Dodržiavanie štandardu kvality podľa § 3 písm. b) až m)
+
+1 | 2 | 3 | 4 | 5 | 6 | 7
+
+Opis štandardu kvality pri distribúcii elektriny | Celkový počet udalostí, ktoré nastali v roku t-1 | Počet udalostí, pri ktorých v roku t-1 neuplynula lehota na vybavenie | Počet udalostí zaradených do hodnotenia | Počet udalostí vybavených v lehote | Počet udalostí vybavených mimo lehoty | Podiel počtu vybavených udalostí mimo lehoty k celkovému počtu udalostí
+
+– | – | – | D<sub>i</sub>C | – | D<sub>i</sub>N | D<sub>i</sub> = D<sub>i</sub>N / D<sub>i</sub>C
+
+Dodržanie lehoty na odoslanie stanoviska k podaniu týkajúceho sa kvality elektriny podľa § 3 ods. 1 písm. b) | | | | | |
+
+Dodržanie lehoty na odstránenie príčin zníženej kvality elektriny podľa § 3 ods. 1 písm. c) a ods. 2 | | | | | |
+
+Uskutočnenie distribúcie elektriny do piatich pracovných dní podľa § 3 ods. 1 písm. d) | | | | | |
+
+Obnovenie distribúcie elektriny do dvoch pracovných dní podľa § 3 ods. 1 písm. e) | | | | | |
+
+Obnovenie distribúcie elektriny do dvoch pracovných dní podľa § 3 ods. 1 písm. f) | | | | | |
+
+Obnovenie distribúcie elektriny po prerušení distribúcie elektriny podľa § 3 ods. 1 písm. g) prvého bodu | | | | | |
+
+Obnovenie distribúcie elektriny po prerušení distribúcie elektriny podľa § 3 ods. 1 písm. g) druhého bodu | | | | | |
+
+Obnovenie distribúcie elektriny do 24 hod. po odstránení poruchy na zariadení na výrobu elektriny podľa § 3 ods. 1 písm. h) | | | | | |
+
+Oznámenie termínu začiatku a ukončenia prerušenia alebo obmedzenia distribúcie elektriny odberateľom elektriny podľa § 3 ods. 1 písm. i) | | | | | |
+
+Dodržanie oznámeného termínu začiatku a ukončenia prerušenia alebo obmedzenia distribúcie elektriny podľa § 3 ods. 1 písm. j) | | | | | |
+
+Zabezpečenie preskúšania určeného meradla v ustanovenej lehote podľa § 3 ods. 1 písm. k) | | | | | |
+
+Overenie správnosti vyúčtovania a odstránenia zistených nedostatkov vo vyúčtovaní v lehote podľa § 3 ods. 1 písm. l) | | | | | |
+
+Dodržanie lehoty 30 dní na odoslanie stanoviska ku žiadosti o pripojenie k distribučnej sústave podľa § 3 ods. 1 písm. m) | | | | | |
+
+Vysvetlivky k tabuľke č. 3:
+
+V stĺpci 3 sa uvádza počet udalostí, ktoré nastali v roku t-1, ale do konca roka t-1 neuplynula doba na ich vybavenie a neboli v roku t-1 vybavené. Udalosti, pri ktorých do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené, sa uvádzajú v stĺpci 4.
+
+V stĺpci 4 sa uvádza súčet počtu udalostí
+
+– ktoré nastali v roku t-1 a do konca roka t-1 uplynula doba na ich vybavenie,
+
+– ktoré nastali v roku t-1 a do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené,
+
+– z minulých období, ktorých lehota na vybavenie uplynula v roku t-1.
+
+V stĺpci 5 sa do počtu udalostí vybavených v lehote započítavajú aj udalosti, ktoré boli vybavené mimo lehoty, alebo neboli vôbec vybavené, z dôvodu, že dotknutý účastník trhu s elektrinou preukázateľne neposkytol regulovanému subjektu súčinnosť nevyhnutnú na dodržanie ustanovenej lehoty.
+
+Údaj v stĺpci 4 sa rovná súčtu údajov v stĺpcoch 5 a 6.
+
+Písmeno i = 2 až 16.
+
+Ak D<sub>i</sub>C = 0, potom D<sub>i</sub> = 0,00.
+
+Hodnota D<sub>i</sub>sa zaokrúhľuje na dve desatinné miesta.
+
+Pre štandard kvality podľa § 3 ods. 1 písm. g), i) a j) sa počet dotknutých odberných miest považuje za počet udalostí.
