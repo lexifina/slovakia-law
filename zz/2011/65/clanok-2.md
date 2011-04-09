@@ -1,0 +1,3 @@
+# Čl. II
+
+Toto nariadenie vlády nadobúda účinnosť 9. apríla 2011.
