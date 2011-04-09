@@ -34,13 +34,17 @@ Príloha č. 6 k nariadeniu vlády č. 140/2009 Z. z.
 
       - a) základné údaje o technickej službe vrátane obchodnej firmy, názvu, adresy, právneho postavenia, ľudských a technických zdrojov,
 
-      - b) všeobecné informácie o technickej službe, ako sú jej činnosti, prípadne vzťah v rámci väčšej právnickej osoby, adresy všetkých prevádzok, na ktoré sa má vzťahovať rozsah určenia,
+      - b) podrobný opis kvalifikácie zamestnancov zodpovedných za skúšky a vedúcich zamestnancov vrátane ich životopisov a dokladov o vzdelaní a odbornej kvalifikácii,
 
-      - c) dohodu o plnení požiadaviek na určenie technickej služby a ostatných povinností technickej služby podľa zodpovedajúcich osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev,
+      - c) dôkaz, napríklad softvérové vybavenie o schopnosti využívať pri virtuálnych skúškach podporu počítača; predkladajú len technické služby používajúce metódy virtuálnych skúšok,
 
-      - d) opis služieb pri posudzovaní zhody, ktoré technická služba vykonáva v rámci uplatniteľných osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev, a zoznam osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev, na ktoré technická služba žiada určenie, vrátane prípadných obmedzení spôsobilosti,
+      - d) všeobecné informácie o technickej službe, ako sú jej činnosti, prípadne vzťah v rámci väčšej právnickej osoby, adresy všetkých prevádzok, na ktoré sa má vzťahovať rozsah určenia,
 
-      - e) kópiu príručky kvality technickej služby.
+      - e) dohodu o plnení požiadaviek na určenie technickej služby a ostatných povinností technickej služby podľa zodpovedajúcich osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev,
+
+      - f) opis služieb pri posudzovaní zhody, ktoré technická služba vykonáva v rámci uplatniteľných osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev, a zoznam osobitných technických predpisov preberajúcich právne akty Európskych spoločenstiev, na ktoré technická služba žiada určenie, vrátane prípadných obmedzení spôsobilosti,
+
+      - g) kópiu príručky kvality technickej služby.
 
     - 4.2. Príslušný orgán preskúma primeranosť informácií poskytnutých technickou službou.
 

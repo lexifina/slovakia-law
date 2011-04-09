@@ -20,7 +20,7 @@ Príloha č. 7 k nariadeniu vlády č. 140/2009 Z. z.
 
 - Dokončované vozidlá kategórie N<sub>2</sub>, N<sub>3</sub> | 29. apríl 2009 | 29. október 2012 | 29. október 2014
 
-- Dokončované vozidlá kategórie M<sub>2</sub>, M<sub>3</sub> | 29. apríl 2009 | 29. apríl 2010<sup>1</sup>) | 29. október 2014
+- Dokončované vozidlá kategórie M<sub>2</sub>, M<sub>3</sub> | 29. apríl 2009 | 29. apríl 2010<sup>1</sup>) | 29. október 2011
 
 - Dokončované vozidlá kategórie O<sub>1</sub>, O<sub>2</sub>, O<sub>3</sub>, O<sub>4</sub> | 29. apríl 2009 | 29. október 2011 | 29. október 2013
 

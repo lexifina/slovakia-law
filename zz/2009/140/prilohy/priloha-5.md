@@ -6,7 +6,7 @@ Príloha č. 5 k nariadeniu vlády č. 140/2009 Z. z.
 
     - 1.1. Kategória A (skúšky vykonané vo vlastných zariadeniach):
 
-      - Technická služba musí byť akreditovaná podľa technickej normy.<sup>21</sup>)
+      - Technická služba musí byť akreditovaná podľa technickej normy.<sup>8a</sup>)
 
       - Technická služba určená pre činnosti kategórie A môže vykonávať skúšky alebo mať dohľad nad skúškami ustanovenými v regulačných aktoch, na ktoré bola určená, v zariadeniach výrobcu alebo v zariadeniach tretej strany.
 

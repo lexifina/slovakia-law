@@ -14,13 +14,17 @@
 
 - 8) § 99 písm. o) zákona č. 725/2004 Z. z.
 
+- 8a) STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (ISO/IEC17025 : 2005).
+
+- 8b) Zákon č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
 - 9) Nariadenie vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách v znení nariadenia vlády Slovenskej republiky č. 141/2007 Z. z.
 
 - 10) § 25 ods. 1 písm. a) a § 29 zákona č. 725/2004 Z. z.
 
 - 11) STN EN ISO 19011 Návod na auditovanie systému manažérstva kvality a/alebo systému environmentálneho manažérstva (ISO 19011: 2002) (01 3030).
 
-- 12) STN EN ISO 9001 (01 0320) Systémy manažérstva kvality. Požiadavky (ISO 9001: 2000) (01 0320).
+- 12) STN EN ISO 9001 (01 0320) Systémy manažérstva kvality. Požiadavky (ISO 9001 : 2008) (01 0320).
 
 - 13) STN EN ISO/IEC 17021 Posudzovanie zhody. Požiadavky na orgány vykonávajúce audit a certifikáciu systémov manažérstva (ISO/IEC 17021: 2006) (01 5257).
 
@@ -37,8 +41,6 @@
 - 19) Smernica Európskeho parlamentu a Rady 2001/85/ES z 20. novembra 2001 týkajúca sa osobitných ustanovení pre vozidlá používané na prepravu cestujúcich, v ktorých sa nachádza viac ako osem sedadiel okrem sedadla pre vodiča a ktorou sa mení a dopĺňa smernica 70/156/EHS a smernica 97/27/ES (Ú. v. EÚ L 42, 13. 2. 2002).
 
 - 20) Smernica Európskeho parlamentu a Rady 97/27/ES z 22. júla 1997 týkajúca sa hmotností a rozmerov určitých kategórií motorových a ich prípojných vozidiel, ktorou sa mení a dopĺňa smernica 70/156/EHS (Ú. v. EÚ L 233, 25. 8. 1997).
-
-- 21) STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (ISO/IEC 17025: 2005).
 
 - 22) STN EN ISO/IEC 17020 Všeobecné kritériá činnosti orgánov rozličných typov vykonávajúcich inšpekciu (ISO/IEC 17020: 1998).
 
