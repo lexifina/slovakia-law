@@ -1,5 +1,3 @@
-- 1) § 149a až 149c zákona č. 385/2000 Z. z.o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 2) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
 
 - 2a) Zákon č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
