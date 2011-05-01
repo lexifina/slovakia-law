@@ -174,7 +174,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Vydanie preukazu (osvedčenia) ako náhrady za stratený, zničený, odcudzený alebo poškodený preukaz (osvedčenie), opakovane v priebehu dvoch po sebe nasledujúcich rokoch ..... | 33 eur
 
-  - Oslobodenie Od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. |
+  - Oslobodenie 1. Od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. 2. Od poplatku podľa písmena a), b) a d) tejto položky sú oslobodené osoby, ktorým sa vydáva preukaz (osvedčenie) ako náhrada pri zmene nezavinenej občanom, alebo ak bola v preukaze (osvedčení) zistená chyba zapríčinená výrobcom preukazu (osvedčenia) alebo chyba zapríčinená orgánom, ktorý preukaz (osvedčenie) vydal. |
 
     - Položka 7
 
@@ -1026,15 +1026,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 63
 
-  - a) Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu a ich rozšírenie | 6,50 eura
+  - a) Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu ....................... | 6,50 eura
 
-  - b) Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu ako náhrady za |
+  - b) Vydanie vodičského preukazu z dôvodu výmeny vodičského preukazu ...................................... | 3 eurá
 
-  - 1. stratený, zničený alebo poškodený preukaz | 13 eur
+  - Splnomocnenie |
 
-  - 2. za odcudzený preukaz | 6,50 eura
+  - Pri vydávaní vodičského preukazu vyberie správny orgán poplatok do výšky štvornásobku príslušnej sadzby, ak vydáva vodičský preukaz urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
 
-  - Splnomocnenie Pri vydávaní vodičského preukazu vyberie správny orgán poplatok do výšky štvornásobku príslušnej sadzby, ak vydáva vodičský preukaz urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
+  - Oslobodenie |
+
+  - Od poplatku podľa tejto položky sú oslobodené osoby staršie ako 65 rokov, ktorým sa vodičský preukaz vydáva s platnosťou na dva roky, a osoby, ktorým sa vydáva vodičský preukaz alebo medzinárodný vodičský preukaz ako náhrada pri zmene nezavinenej občanom, alebo ak bola vo vodičskom preukaze alebo v medzinárodnom vodičskom preukaze zistená chyba zapríčinená výrobcom vodičského preukazu alebo medzinárodného vodičského preukazu alebo chyba zapríčinená orgánom, ktorý vodičský preukaz alebo medzinárodný vodičský preukaz vydal. |
 
     - Položka 63a
 
@@ -1198,15 +1200,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 68a
 
-  - a) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla, ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka............... | 6 eur
+  - a) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla, ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka <sub>...........</sub> | 6 eur
 
-  - b) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla za zničené, stratené, odcudzené alebo poškodené osvedčenie........... | 10 eur
+  - b) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla za zničené, stratené, odcudzené alebo poškodené osvedčenie <sub>.....</sub> | 10 eur
 
-  - c) | Vykonanie zmeny alebo zmien v osvedčení o evidencii časti I alebo časti II alebo v technickom osvedčení vozidla............... | 6 eur
+  - c) | Vykonanie zmeny alebo zmien v osvedčení o evidencii časti I alebo časti II alebo v technickom osvedčení vozidla <sub>.....</sub> | 6 eur
 
-  - d) | Podanie žiadosti výrobcu alebo zástupcu výrobcu o vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, a to za každý duplikát osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, o ktorý žiada............. | 5 eur
+  - d) | Podanie žiadosti výrobcu alebo zástupcu výrobcu o vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, a to za každý duplikát osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, o ktorý žiada <sub>.....</sub> | 5 eur
 
-  - e) | Vydanie osvedčenia o evidencii časti I urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka........... | 24 eur
+  - e) | Vydanie osvedčenia o evidencii časti I urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka <sub>.....</sub> | 24 eur
+
+  - f) | Doručenie osvedčenia o evidencii časti I na určenú adresu <sub>.....</sub> | 3 eurá.
+
+  - Oslobodenie Od poplatku podľa písmena a) a b) tejto položky sú oslobodené osoby, ktorým sa vydáva osvedčenie o evidencii časť I alebo časť II alebo technické osvedčenie vozidla ako náhrada pri zmene nezavinenej občanom, alebo ak bola v osvedčení o evidencii časti I alebo časti II alebo technickom osvedčení vozidla zistená chyba zapríčinená výrobcom osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla alebo chyba zapríčinená orgánom, ktorý osvedčenie o evidencii časť I alebo časť II alebo technické osvedčenie vozidla vydal, okrem prípadov, keď chybné osvedčenie o evidencii časť II alebo technické osvedčenie vozidla vystavil výrobca alebo zástupca výrobcu. | |
 
     - Položka 69a
 
@@ -1395,6 +1401,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla | | 182 eur
 
   - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | | 66 eur
+
+  - g) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | | 16,50 eura
 
   - Poznámky | |
 
