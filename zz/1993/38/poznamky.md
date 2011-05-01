@@ -6,11 +6,17 @@
 
 - 4) § 113 zákona č. 400/2009 Z. z.
 
+- 4a) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
+
 - 5) § 123 až 130, § 133 a 134 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 7) § 4 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
 - 8) Občiansky súdny poriadok a Trestný poriadok.
+
+- 8a) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 8b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 9) Čl. 7 a 125 Ústavy.
 
