@@ -18,19 +18,27 @@
 
 - 5) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
-- 5a) § 10 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 5a) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5b) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
+- 5c) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
-- 7) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení zákona č. 517/2008 Z. z.
+- 7) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
+- 7a) § 116 Občianskeho zákonníka.
+
+- 7b) § 4 ods. 2 písm. a) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) § 34 zákona č. 757/2004 Z. z.
 
 - 10) § 45 zákona č. 757/2004 Z. z. v znení zákona č. 517/2008 Z. z.
 
 - 11) Čl. 4 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
+
+- 11a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 11aa) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -87,10 +95,6 @@
 - 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 30) Občiansky súdny poriadok.
-
-- 32a) § 4 až 8 zákona č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
-
-- 32b) § 12 až 14 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 33) Zákonník práce v znení neskorších predpisov.
 
