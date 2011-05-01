@@ -78,8 +78,6 @@
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 8a) Zákon č. 429/2008 Z. z. o podávaní cenových návrhov obchodných spoločností a o zmene a doplnení zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
-
 - 9) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, § 17 Obchodného zákonníka v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
 - 11) § 244 až 250k Občianskeho súdneho poriadku.
