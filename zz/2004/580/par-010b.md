@@ -4,7 +4,7 @@
 
 - a) právo na príjem zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov z dohôd vykonávaných mimo pracovného pomeru,<sup>19</sup>)
 
-- b) dosahovanie príjmu z podnikania, z inej samostatnej zárobkovej činnosti a z prenájmu podľa osobitného predpisu<sup>20</sup>) okrem príjmu z výkonu činnosti osobného asistenta,<sup>21</sup>)
+- b) dosahovanie príjmu z podnikania a z inej samostatnej zárobkovej činnosti podľa osobitného predpisu<sup>20</sup>) okrem príjmu z výkonu činnosti osobného asistenta,<sup>21</sup>)
 
 - c) dosahovanie príjmu z kapitálového majetku podľa osobitného predpisu,<sup>22</sup>)
 

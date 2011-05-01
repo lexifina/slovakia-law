@@ -25,3 +25,5 @@
 (6) Preukazovanie skutočností podľa § 11 ods. 7 sa upraví dohodou, ktorú uzatvorí úrad s Daňovým riaditeľstvom Slovenskej republiky, Sociálnou poisťovňou, Ústredím práce, sociálnych vecí a rodiny, Ministerstvom školstva Slovenskej republiky, Ministerstvom vnútra Slovenskej republiky, Ministerstvom obrany Slovenskej republiky a Zborom väzenskej a justičnej stráže. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
 
 (7) Preukazovanie skutočností podľa § 13 a 19 sa upraví dohodou, ktorú uzatvorí Daňové riaditeľstvo Slovenskej republiky s úradom. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.
+
+(8) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.

@@ -88,7 +88,7 @@
 
 - 19) § 223 až 228a Zákonníka práce.
 
-- 20) § 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 20) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 21) § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
@@ -156,11 +156,13 @@
 
 - 49) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
+- 50) § 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
+- 51d) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 52a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
 - 53) § 7 zákona č. 581/2004 Z. z.
 
@@ -183,8 +185,6 @@
 - 55) § 43 zákona č. 581/2004 Z. z.
 
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
-- 56a) § 9 ods. 7 zákona č. 581/2004 Z. z.
 
 - 57) Zákon č. 581/2004 Z. z.
 

@@ -2,11 +2,11 @@
 
 (1) Ročné prerozdeľovanie poistného sa vykonáva v každom kalendárnom roku za predchádzajúci kalendárny rok (ďalej len „ročné prerozdeľovanie”).
 
-(2) Zdravotná poisťovňa je povinná do 31. júla kalendárneho roka nasledujúceho po rozhodujúcom období, za ktoré sa uskutočnilo ročné zúčtovanie poistného, oznámiť úradu
+(2) Zdravotná poisťovňa je povinná do 30. novembra kalendárneho roka nasledujúceho po rozhodujúcom období, za ktoré sa uskutočnilo ročné zúčtovanie poistného, oznámiť úradu
 
-- a) celkovú sumu poistného, ktoré je platiteľ poistného podľa § 11 ods. 1 písm. a) a d) a ods. 2 povinný odviesť zdravotnej poisťovni podľa § 15 za rozhodujúce obdobie (ďalej len „povinné poistné“) upravené o pohľadávky a záväzky voči platiteľom z ročného zúčtovania poistného; rozhodujúce obdobie je obdobie kalendárneho roka, za ktorý sa ročné prerozdeľovanie vykonáva,
+- a) celkovú sumu poistného, ktoré je platiteľ poistného podľa § 11 ods. 1 písm. a) až d) a ods. 2 povinný odviesť zdravotnej poisťovni podľa § 15 za rozhodujúce obdobie (ďalej len „povinné poistné“) upravené o pohľadávky a záväzky voči platiteľom z ročného zúčtovania poistného; rozhodujúce obdobie je obdobie kalendárneho roka, za ktorý sa ročné prerozdeľovanie vykonáva,
 
-- b) počet poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát [§ 11 ods. 1 písm. a) až c)] za rozhodujúce obdobie,
+- b) počet poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát (§ 11 ods. 1 písm. a) až c) a § 11 ods. 2) za rozhodujúce obdobie,
 
 - c) počet poistencov, za ktorých platiteľom poistného je štát [§11 ods. 1 písm. d)] podľa pohlavia a veku za rozhodujúce obdobie.
 
@@ -26,7 +26,7 @@
 
 - b) záporný, zdravotná poisťovňa má záväzky voči iným zdravotným poisťovniam.
 
-(9) Úrad doručí každej zdravotnej poisťovni do 31. augusta kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
+(9) Úrad doručí každej zdravotnej poisťovni do 15. decembra kalendárneho roka nasledujúceho po rozhodujúcom období rozhodnutie o ročnom prerozdeľovaní, v ktorom
 
 - a) uvedie za každú zdravotnú poisťovňu
 
@@ -50,4 +50,4 @@
 
   - 6. povinnosti zaplatiť poplatok z omeškania podľa § 28 ods. 5.
 
-(10) V rozhodnutí podľa odseku 9 úrad stanoví každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a). Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 30 dní odo dňa doručenia rozhodnutia podľa odseku 9.
+(10) V rozhodnutí podľa odseku 9 úrad stanoví každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a). Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
