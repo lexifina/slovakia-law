@@ -317,3 +317,55 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z. Zoznam preberaných práv
 48. Smernica Komisie 2010/86/EÚ z 2. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť haloxyfop-P medzi účinné látky (Ú. v. EÚ L 317, 3. 12. 2010).
 
 49. Smernica Komisie 2010/87/EÚ z 3. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenbukonazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie 2008/934/ES (Ú. v. EÚ L 318, 4. 12. 2010).
+
+50. Smernica Komisie 2010/89/EÚ zo 6. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť chinmerak medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 320, 7. 12. 2010).
+
+51. Smernica Komisie 2010/90/EÚ zo 7. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť pyridabén medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 322, 8. 12. 2010).
+
+52. Smernica Komisie 2010/91/EÚ z 10. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metosulam medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 327, 11. 12. 2010).
+
+53. Smernica Komisie 2010/92/EÚ z 21. decembra 2010, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bromukonazol medzi účinné látky (Ú. v. EÚ L 338, 22. 12. 2010).
+
+54. Smernica Komisie 2011/1/EÚ z 3. januára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 6-benzyladenín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 1, 4. 1. 2011).
+
+55. Smernica Komisie 2011/2/EÚ zo 7. januára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť myklobutanil medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 5, 8. 1. 2011).
+
+56. Smernica Komisie 2011/4/EÚ z 20. januára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cykloxydim medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 18, 21. 1. 2011).
+
+57. Smernica Komisie 2011/5/EÚ z 20. januára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť hymexazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 18, 21. 1. 2011).
+
+58. Smernica Komisie 2011/6/EÚ z 20. januára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť buprofezín ako účinnú látku (Ú. v. EÚ L 18, 21. 1. 2011).
+
+59. Smernica Komisie 2011/9/EÚ z 1. februára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dodín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 28, 2. 2. 2011).
+
+60. Smernica Komisie 2011/14/EÚ z 24. februára 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť profoxydim medzi účinné látky (Ú. v. EÚ L 51, 25. 2. 2011).
+
+61. Smernica Komisie 2011/19/EÚ z 2. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tau-fluvalinát medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 58, 3. 3. 2011).
+
+62. Smernica Komisie 2011/20/EÚ z 2. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenoxykarb medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 58, 3. 3. 2011).
+
+63. Smernica Komisie 2011/21/EÚ z 2. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cletodim medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 58, 3. 3. 2011).
+
+64. Smernica Komisie 2011/22/EÚ z 3. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bipyribac medzi účinné látky (Ú. v. EÚ L 59, 4. 3. 2011).
+
+65. Smernica Komisie 2011/23/EÚ z 3. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť triflumurón medzi účinné látky (Ú. v. EÚ L 59, 4. 3. 2011).
+
+66. Smernica Komisie 2011/25/EÚ z 3. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bupirimát medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 59, 4. 3. 2011).
+
+67. Smernica Komisie 2011/26/EÚ z 3. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dietofenkarb medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 59, 4. 3. 2011).
+
+68. Smernica Komisie 2011/27/EÚ zo 4. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť oryzalín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 60, 5. 3. 2011).
+
+69. Smernica Komisie 2011/28/EÚ zo 4. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť kyselinu indolylmaslovú medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 60, 5. 3. 2011).
+
+70. Smernica Komisie 2011/29/EÚ zo 7. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť etridiazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 61, 8. 3. 2011).
+
+71. Smernica Komisie 2011/30/EÚ zo 7. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenbutatín-oxid medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 61, 8. 3. 2011).
+
+72. Smernica Komisie 2011/31/EÚ zo 7. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS, pokiaľ ide o obmedzenie používania účinnej látky pirimifos-metyl (Ú. v. EÚ L 61, 8. 3. 2011).
+
+73. Smernica Komisie 2011/32/EÚ z 8. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť izoxaben medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 62, 9. 3. 2011).
+
+74. Smernica Komisie 2011/33/EÚ z 8. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-dekanol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 62, 9. 3. 2011).
+
+75. Smernica Komisie 2011/34/EÚ z 8. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flurochloridón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 62, 9. 3. 2011).

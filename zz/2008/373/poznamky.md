@@ -48,6 +48,8 @@
 
 - 13) § 11 až 13 zákona č. 193/2005 Z. z. v znení neskorších predpisov.
 
+- 13a) § 11 ods. 13 zákona č. 193/2005 Z. z. v znení neskorších predpisov.
+
 - 14) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) § 11 ods. 12 zákona č.193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
