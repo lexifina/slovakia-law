@@ -71,3 +71,9 @@ Príloha č. 2 k nariadeniu vlády č. 329/2007 Z. z.
   - 34. Smernica Komisie 2010/10/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť brodifakum ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
 
   - 35. Smernica Komisie 2010/11/EÚ z 9. februára 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť warfarín ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2010).
+
+  - 36. Smernica Komisie 2010/50/EÚ z 10. augusta 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť dazomet ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 210, 11. 8. 2010).
+
+  - 37. Smernica Komisie 2010/51/EÚ z 11. augusta 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť N,N-dietyl-3-metylbenzamid ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 211, 12. 8. 2010).
+
+  - 38. Smernica Komisie 2010/71/EÚ zo 4. novembra 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť metoflutrín ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 288, 5. 11. 2010).
