@@ -460,6 +460,10 @@
 
 - 146ad) § 12 ods. 1 zákona č. 572/2004 Z. z.
 
+- 146ae) § 12 ods. 10 zákona č. 572/2004 Z. z.
+
+- 146af) § 17 ods. 2 písm. c) zákona č. 572/2004 Z. z.
+
 - 147) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 148) Zákon č. 385/2000 Z. z. v znení neskorších predpisov.
