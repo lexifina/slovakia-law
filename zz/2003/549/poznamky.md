@@ -26,6 +26,8 @@
 
 - 14) § 43 ods. 1 písm. a) zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
+- 14a) § 10 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
+
 - 15) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
 
 - 16) Občiansky súdny poriadok v znení neskorších predpisov.
