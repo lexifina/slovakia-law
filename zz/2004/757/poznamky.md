@@ -18,9 +18,11 @@
 
 - 9) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 113/2004 Z. z.
 
-- 10) Čl. 1 ods. 8 ústavného zákona č. 227/2002 Z. z.
+- 10) § 116 Občianskeho zákonníka.
 
 - 11) § 17 a nasl. zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 11a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 12) § 8d písm. b) bod 2 zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
 
@@ -35,6 +37,20 @@
 - 16a) Zákon č. 385/2000 Z. z.
 
 - 17) § 17 ods. 1 Trestného poriadku.
+
+- 17a) § 14 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17b) § 12 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17c) § 12a zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17d) § 22 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17e) § 24 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17f) § 13 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 17g) § 17 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
 - 18) § 116 ods. 2 písm. c) zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
@@ -95,6 +111,8 @@
 - 41) Zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 42) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+
+- 42b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
