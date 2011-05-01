@@ -192,6 +192,8 @@
 
 - 92) § 1 zákona č. 431/2002 Z. z. o účtovníctve.
 
+- 92a) § 73 ods. 6 zákona č. 131/2002 Z. z. v znení zákona č. 125/2011 Z. z.
+
 - 93) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 93a) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
