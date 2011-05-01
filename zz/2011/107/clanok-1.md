@@ -1,0 +1,25 @@
+# Čl. I
+
+Nariadenie vlády Slovenskej republiky č. 328/2006 Z. z. o technických požiadavkách na ochranné konštrukcie chrániace vodiča pri prevrátení namontované pred sedadlom vodiča úzkorozchodných poľnohospodárskych kolesových traktorov a lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 125/2007 Z. z. sa mení a dopĺňa takto:
+
+- 1. V § 3 odsek 4 znie:
+
+- „(4)
+
+- Na účely odseku 1 sa použijú definície a požiadavky podľa prílohy I smernice.“.
+
+- 2. V poznámke pod čiarou k odkazu 7 sa citácia „§ 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.“ nahrádza citáciou „§ 114 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.“.
+
+- 3. § 6 znie:
+
+- „§ 6
+
+- Týmto nariadením vlády sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.“.
+
+- 4. Nadpis prílohy znie:
+
+- „ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE“.
+
+- 5. Príloha sa dopĺňa tretím bodom, ktorý znie:
+
+- „3. Smernica Komisie 2010/22/EÚ z 15. marca 2010, ktorou sa na účely prispôsobenia technickému pokroku menia a dopĺňajú smernice Rady 80/720/EHS, 86/298/EHS, 86/415/EHS a 87/402/EHS a smernice Európskeho parlamentu a Rady 2000/25/ES a 2003/37/ES týkajúce sa typového schvaľovania poľnohospodárskych a lesných traktorov (Ú. v. EÚ L 91, 10. 4. 2010).“.
