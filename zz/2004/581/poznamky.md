@@ -36,6 +36,8 @@
 
 - 16c) § 42a zákona č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- 16d) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
