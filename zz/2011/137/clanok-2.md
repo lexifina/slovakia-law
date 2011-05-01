@@ -1,0 +1,3 @@
+# Čl. II
+
+Toto nariadenie vlády nadobúda účinnosť 1. mája 2011 okrem tretieho bodu riadkov č. 318 (Hymexazol), 321, 322, 324, 326, 331 až 342 a štvrtého bodu riadkov č. 318 (Hymexazol), 321, 322, 324, 326, 331 až 342, ktoré nadobúdajú účinnosť 1. júna 2011, okrem tretieho bodu riadka č. 323 a štvrtého bodu riadka č. 323, ktoré nadobúdajú účinnosť 30. júna 2011, okrem tretieho bodu riadka č. 325 a štvrtého bodu riadka č. 325, ktoré nadobúdajú účinnosť 31. júla 2011, okrem tretieho bodu riadkov č. 329 a 330 a štvrtého bodu riadkov č. 329 a 330, ktoré nadobúdajú účinnosť 1. augusta 2011, okrem tretieho bodu a štvrtého bodu riadka č. 328, ktoré nadobúdajú účinnosť 30. septembra 2011.
