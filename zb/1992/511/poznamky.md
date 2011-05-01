@@ -250,6 +250,10 @@
 
 - 11cac) § 6 zákona č. 289/2008 Z. z.
 
+- 11cad) § 29b ods. 6 až 8 zákona č. 580/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 77b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
+
 - 11d) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11da) § 2 písm. t) zákona č. 595/2003 Z. z.
