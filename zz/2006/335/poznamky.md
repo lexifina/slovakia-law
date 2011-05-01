@@ -6,7 +6,7 @@
 
 - 4) § 99 písm. o) zákona č. 725/2004 Z. z.
 
-- 5) Nariadenie vlády Slovenskej republiky č. 332/2006 Z. z. o technických požiadavkách na určité súčasti a charakteristiky poľnohospodárskych kolesových traktorov a lesných kolesových traktorov.
+- 5) § 4 ods. 26 nariadenia vlády Slovenskej republiky č. 23/2007 Z. z. o technických požiadavkách na určité komponenty a charakteristiky poľnohospodárskych kolesových traktorov a lesných kolesových traktorov.
 
 - 6) § 9 ods. 1 zákona č. 725/2004 Z. z.
 
@@ -14,7 +14,7 @@
 
 - 8) § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 451/2004 Z. z.
 
-- § 88 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- § 114 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
 

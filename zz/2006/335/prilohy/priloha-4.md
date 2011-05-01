@@ -16,14 +16,6 @@ Príloha č. 4 k nariadeniu vlády č. 335/2006 Z. z.
 
 - SD (**) 76/115/EHS | Úradné skúšky ochranných konštrukcií poľnohospodárskych a lesných pásových traktorov | Kód 8
 
-- (*) Skúšobné protokoly musia byť v súlade s rozhodnutím OECD C(2005) 1. Rovnocennosť skúšobného protokolu
-
-- na ukotvenie bezpečnostných pásov sa môže uznať, len ak boli odskúšané.
-
-- Skúšobné protokoly v súlade s kódmi podľa rozhodnutia C(2000) 59, zmeneného a doplneného rozhodnutím
-
-- C(2003) 252, sa môžu prijímať aj počas prechodného obdobia jedného roka odo dňa uverejnenia rozhodnutia
-
-- C(2005) 1 na internetovej stránke OECD, t. j. do 21. apríla 2006.
+- (*) Skúšobné protokoly musia byť v súlade s rozhodnutím Rady OECD K (2008) 128 z októbra 2008. Rovnocennosť skúšobných protokolov sa môže uznávať len v prípade upevnenia bezpečnostných pásov, ak boli odskúšané. Skúšobné protokoly, ktoré sú v súlade s kódexmi podľa rozhodnutia Rady OECD K (2000) 59, ktoré bolo naposledy zmenené a doplnené rozhodnutím Rady OECD K (2005) 1, zostávajú v platnosti. Od 1. mája 2011 musia byť nové skúšobné protokoly založené na novej verzii kódexov.
 
 - (**) SD: bude riešiť samostatná smernica.
