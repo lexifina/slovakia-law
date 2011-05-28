@@ -546,7 +546,7 @@
 
         - Pravidlá 10 a 11.1 až 11.13 sa takisto vzťahujú na každý dokument – napríklad, opravené stránky, upravené nároky, preklady – predložené po podaní medzinárodnej prihlášky.
 
-    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklady na účely medzinárodnej rešerše a medzinárodného zverejnenia
+    - Pravidlo 12 Jazyk medzinárodnej prihlášky a preklad na účely medzinárodnej rešerše a medzinárodného zverejnenia
 
       - 12.1 Prípustné jazyky pri podaní medzinárodnej prihlášky
 
@@ -572,7 +572,7 @@
 
       - 12.2 Jazyk zmien v medzinárodnej prihláške
 
-        - (a) Každá zmena v medzinárodnej prihláške musí byť v jazyku, v ktorom bola podaná prihláška, s výnimkou pravidiel 46.3, 55.3 a 66.9.
+        - (a) Každá úprava medzinárodnej prihlášky musí byť v jazyku, v ktorom bola podaná prihláška, s výnimkou pravidiel 46.3 a 55.3.
 
         - b) Každá oprava podľa pravidla 91.1 zjavného omylu v medzinárodnej prihláške musí byť v jazyku, v ktorom sa prihláška podala, za predpokladu, že
 
@@ -1960,7 +1960,7 @@
 
         - Medzinárodné prihlášky sa zverejnia takou formou a prostriedkami, ktoré určia administratívne smernice.
 
-      - 48.2. Obsah
+      - 48.2 Obsah
 
         - (a) Zverejnená medzinárodná prihláška obsahuje
 
@@ -2016,7 +2016,7 @@
 
         - (h) Ak v čase dokončenia technických príprav na medzinárodné zverejnenie neuplynula lehota na úpravu nárokov podľa článku 19, uvedie sa táto skutočnosť na prvej strane s tým, že v prípade úprav nárokov podľa článku 19 Medzinárodný úrad po ich prijatí zverejní celý text podaných a upravených nárokov v lehote podľa pravidla 46.1 spolu s revidovanou prvou stranou. Ak sa podalo oznámenie podľa článku 19(1), Medzinárodný úrad zverejní aj toto oznámenie, ak nezistí, že oznámenie nebolo v súlade s ustanovením pravidla 46.4.
 
-        - (i) Ak schválenie opravy zjavnej chyby v medzinárodnej prihláške podľa pravidla 91.1 Medzinárodný úrad prijme alebo prípadne udelí po ukončení technických príprav na zverejnenie, zverejní sa stanovisko, ktoré odráža všetky opravy spolu so stranami, ktorých sa opravy týkajú, alebo s náhradnými listami a listom predloženým podľa pravidla 91.2, podľa okolností, a prvá strana sa znova uverejní.
+        - (i) Ak autorizáciu opravy zjavnej chyby v medzinárodnej prihláške podľa pravidla 91.1 zo strany prijímacieho úradu, orgánu pre medzinárodnú rešerš alebo Medzinárodného úradu Medzinárodný úrad prijme alebo prípadne udelí po ukončení technických príprav na zverejnenie, zverejní sa stanovisko, ktoré odráža všetky opravy, spolu so stranami obsahujúcimi opravy alebo náhradnými listami a listom predloženým podľa pravidla 91.2, podľa okolností, a prvá strana sa znova uverejní.
 
         - (j) Ak v deň ukončenia technických príprav na zverejnenie stále chýba žiadosť podľa pravidla 26bis.3 o obnovenie práva na prioritu, zverejnená medzinárodná prihláška bude obsahovať v mieste rozhodnutia prijímacieho úradu na základe žiadosti údaj o tom, že takéto rozhodnutie nie je k dispozícii a že sa zverejní zvlášť, keď bude predložené.
 
@@ -2080,13 +2080,13 @@
 
         - Prihlasovateľ nie je povinný použiť národný formulár pre úkony podľa článku 22.
 
-      - 49.5. Obsah prekladu a požiadavky na jeho vonkajšiu formu
+      - 49.5 Obsah prekladu a požiadavky na jeho vonkajšiu formu
 
-        - (a) Na účely článku 22 sa preklad medzinárodnej prihlášky týka opisu [s výnimkou odseku (a-bis)], nárokov, textov na výkresoch a anotácie. Ak o to žiada určený úrad, preklad sa s výnimkou odsekov (b), (c-bis) a (e) týka aj:
+        - (a) Na účely článku 22 sa preklad medzinárodnej prihlášky týka opisu [s výnimkou odseku (a-bis)], nárokov, textov na výkresoch a anotácie. Ak o to žiada určený úrad, preklad sa s výnimkou odsekov (b), (c-bis) a (e) týka aj
 
           - (i) týka aj žiadosti,
 
-          - (ii) ak boli nároky upravené podľa článku 19, týka aj nárokov podaných aj nárokov upravených a
+          - (ii) ak boli nároky upravené podľa článku 19, aj nárokov podaných, aj nárokov upravených [upravené nároky sa musia predložiť vo forme kompletného súboru nárokov predložených podľa pravidla 46.5 (a) ako náhrada za všetky pôvodne podané nároky] a
 
           - (iii) priložia sa k nemu kópie výkresov.
 
@@ -2384,7 +2384,7 @@
 
         - (a) Ak sa urobili úpravy podľa ustanovení článku 19, musí byť vo vyhlásení týkajúcom sa úprav uvedené, či si na účely medzinárodného predbežného prieskumu prihlasovateľ praje, aby sa tieto úpravy
 
-          - (i) vzali do úvahy, pričom v tomto prípade sa musí prednostne predložiť, spolu s návrhom aj kópia úprav, alebo
+          - (i) vzali do úvahy, pričom v tomto prípade sa prednostne predloží spolu s návrhom aj kópia úprav a kópia listu požadovaného podľa pravidla 46.5(b), alebo
 
           - (ii) považovali za zrušené úpravou podľa ustanovení článku 34.
 
@@ -2448,13 +2448,19 @@
 
         - (d) Ak prihlasovateľ vyhovie výzve v lehote podľa odseku (c), uvedenej požiadavke sa vyhovelo. Ak prihlasovateľ tak nevykoná, žiadosť sa považuje za nepredloženú a orgán pre medzinárodný predbežný prieskum vydá o tom uznesenie.
 
-      - 55.3. Preklad zmien
+      - 55.3 Jazyk a preklad úprav a listov
 
-        - (a) Ak sa požaduje preklad medzinárodnej prihlášky podľa pravidla 55.2., všetky zmeny, ktoré sú uvedené vo vyhlásení týkajúcom sa zmien podľa pravidla 53.9. a ktoré si prihlasovateľ želá vziať do úvahy na účely medzinárodného predbežného prieskumu, a všetky zmeny podľa článku 19 Zmluvy, ktoré sa musia vziať do úvahy podľa pravidla 66.1.(c), musia byť v jazyku prekladu. Ak také zmeny boli alebo sú podané v inom jazyku, musí sa predložiť aj preklad.
+        - (a) S výnimkou odseku (b), ak medzinárodná prihláška bola podaná v inom jazyku, ako bola zverejnená, každá úprava podľa článku 34, ako aj každý list uvedený v pravidle 66.8(a), 66.8(b) a v pravidle 46.5(b) použitého na základe pravidla 66.8(c) sa musí predložiť v jazyku zverejnenia.
 
-        - (b) Ak sa požadovaný preklad zmien podľa odseku (a) nepredloží, orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil chýbajúci preklad v lehote, ktorá musí byť primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+        - (b) Ak sa požaduje preklad medzinárodnej prihlášky podľa pravidla 55.2,
 
-        - (c) Ak prihlasovateľ nevyhovie výzve v lehote uvedenej v odseku (b), zmena sa nevezme do úvahy na účely medzinárodného predbežného prieskumu.
+          - (i) každá úprava a každý list uvedený v odseku (a) a
+
+          - (ii) každá úprava podľa článku 19, ktorá sa musí vziať do úvahy podľa pravidla 66.1(c) alebo (d), a každý list uvedený v pravidle 46.5(b) musí byť v jazyku tohto prekladu. Ak takéto úpravy alebo listy boli alebo sú podané v inom jazyku, musí sa predložiť aj preklad.
+
+        - (c) Ak sa úprava alebo list nepredloží v požadovanom jazyku podľa odseku (a) alebo (b), orgán pre medzinárodný predbežný prieskum vyzve prihlasovateľa, aby predložil úpravu alebo list v požadovanom jazyku v lehote, ktorá musí byť primeraná okolnostiam. Táto lehota nesmie byť kratšia ako jeden mesiac od dátumu výzvy. Orgán pre medzinárodný predbežný prieskum môže lehotu predĺžiť kedykoľvek pred vydaním rozhodnutia.
+
+        - (d) Ak prihlasovateľ nevyhovie výzve na predloženie úpravy v požadovanom jazyku v lehote uvedenej v odseku (c), úprava sa nevezme do úvahy na účely medzinárodného predbežného prieskumu. Ak prihlasovateľ nevyhovie výzve na predloženie listu uvedeného v odseku (a) v požadovanom jazyku v lehote podľa odseku (c), príslušná úprava sa nemusí vziať do úvahy na účely medzinárodného predbežného prieskumu.
 
     - Pravidlo 57 Manipulačný poplatok
 
@@ -2622,19 +2628,19 @@
 
         - Medzinárodný úrad musí ihneď po podaní návrhu, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky zverejniť informáciu o návrhu a príslušných zvolených štátoch vo vestníku, ako stanovujú Administratívne smernice.
 
-    - Pravidlo 62 Kópia písomného posudku orgánu pre medzinárodnú rešerš a zmeny podľa článku 19 pre medzinárodný predbežný prieskum
+    - Pravidlo 62 Kópia písomného posudku vypracovaného orgánom pre medzinárodnú rešerš a kópia úprav podľa článku 19 pre medzinárodný predbežný prieskum
 
-      - 62.1 Kópia písomného posudku orgánu pre medzinárodnú rešerš a úpravy vykonané pred podaním návrhu
+      - 62.1 Kópia písomného posudku vypracovaného orgánom pre medzinárodnú rešerš a úpravy vykonané pred podaním návrhu
 
-      - Po prijatí návrhu alebo jeho kópie od orgánu pre medzinárodný predbežný prieskum, Medzinárodný úrad ihneď bezodkladne zašle tomuto orgánu
+      - Po prijatí návrhu alebo jeho kópie od orgánu pre medzinárodný predbežný prieskum Medzinárodný úrad ihneď zašle tomuto orgánu
 
         - (i) kópiu písomného posudku vypracovaného podľa pravidla 43bis.1, ak tak už neurobil národný úrad alebo medzivládna organizácia, ktorá koná ako orgán pre medzinárodnú rešerš a tiež koná ako orgán pre medzinárodný predbežný prieskum, a
 
-        - (ii) kópiu zmien podľa článku 19 a stanovisko uvedené v tomto článku, ak orgán už neuviedol, že už túto kópiu prijal.
+        - (ii) kópiu úprav podľa článku 19, stanovisko uvedené v tomto článku a list požadovaný podľa pravidla 46.5(b), ak orgán už neuviedol, že už túto kópiu prijal.
 
       - 62.2 Úpravy vykonané po podaní návrhu
 
-        - Ak v čase podania úprav podľa článku 19 bol už návrh predložený, musí prihlasovateľ, najlepšie súčasne s podaním úprav Medzinárodnému úradu, podať aj orgánu pre medzinárodný predbežný prieskum kópiu týchto úprav a každého vyhlásenia podľa tohto článku. V každom prípade musí Medzinárodný úrad bez zbytočného odkladu zaslať kópiu týchto úprav a vyhlásenia tomuto orgánu.
+        - Ak v čase podania úprav podľa článku 19 bol už návrh predložený, musí prihlasovateľ, najlepšie súčasne s podaním úprav Medzinárodnému úradu, podať aj orgánu pre medzinárodný predbežný prieskum kópiu týchto úprav, stanovisko podľa tohto článku a list požadovaný podľa pravidla 46.5(b). V každom prípade musí Medzinárodný úrad bez zbytočného odkladu zaslať kópiu týchto úprav, stanovisko a list tomuto orgánu.
 
     - Pravidlo 62bis Preklad písomného posudku orgánu pre medzinárodnú rešerš pre orgán pre medzinárodný predbežný prieskum
 
@@ -2783,16 +2789,6 @@
         - (b) Ak úprava spočíva vo vypustení niektorých častí alebo v menších zmenách alebo v dodatkoch, náhradným listom podľa odseku (a) môže byť kópia príslušného listu medzinárodnej prihlášky obsahujúca zmeny alebo dodatky za predpokladu, že nebudú nepriaznivo ovplyvňovať jasnosť a spôsobilosť na priamu reprodukciu. Ak niektorá úprava spočíva v zrušení celého listu, uvedie sa taká úprava v liste, v ktorom sa vysvetlia aj dôvody úpravy.
 
         - (c) Ak sa menia nároky, pravidlo 46.5 sa použije mutatis mutandis. Súbor nárokov predložený podľa pravidla 46.5, použitého na základe tohto odseku, musí nahrádzať všetky pôvodne podané nároky alebo nároky už skôr zmenené podľa článku 19 alebo 34, podľa toho, o aký prípad ide.
-
-      - 66.9 Jazyk úprav
-
-        - (a) S výnimkou odsekov (b) a (c), ak sa medzinárodná prihláška podala v inom jazyku, než je jazyk, v ktorom bola zverejnená, každá úprava sa rovnako ako každý list podľa pravidla 66.8 predloží v jazyku zverejnenia.
-
-        - (b) Ak sa medzinárodný predbežný prieskum vykonáva podľa pravidla 55.2. na základe prekladu medzinárodnej prihlášky, každá zmena, ako aj každý list v zmysle odseku (a) sa musia predložiť v jazyku prekladu.
-
-        - (c) S výnimkou pravidla 55.3., ak sa zmena alebo list nepredložili v jazyku požadovanom podľa odseku (a) alebo (b), orgán pre medzinárodný predbežný prieskum, ak je to možné vzhľadom na lehotu určenú na vyhotovenie správy o medzinárodnom predbežnom prieskume, vyzve prihlasovateľa, aby predložil zmenu alebo list v požadovanom jazyku v lehote, ktorá musí byť primeraná okolnostiam.
-
-        - (d) Ak prihlasovateľ nevyhovie výzve na predloženie zmeny v požadovanom jazyku v lehote uvedenej v odseku (c), zmena sa nebude brať do úvahy na účely medzinárodného predbežného prieskumu. Ak prihlasovateľ nevyhovie výzve na predloženie listu uvedeného v odseku (a) v požadovanom jazyku v lehote podľa odseku (c), požadovaná zmena sa nemusí vziať do úvahy na účely medzinárodného predbežného prieskumu.
 
     - PRAVIDLO 67 PREDMET PODĽA ČLÁNKU 34 (4) (a) (i)
 
@@ -3634,7 +3630,7 @@
 
         - (f) Určený úrad nemusí vziať do úvahy opravu, ktorá bola oprávnená podľa pravidla 91.1, len ak zistí, že by nedovolil vykonanie opravy podľa pravidla 91.1, ak by bol kompetentným orgánom, za predpokladu, že žiaden určený úrad nezamietne opravu oprávnenú podľa pravidla 91.1 bez toho, aby dal príležitosť prihlasovateľovi vyjadriť sa v lehote primeranej okolnostiam k úmyslu úradu, že nebude brať opravu do úvahy.
 
-    - PRAVIDLO 92 KOREŠPONDENCIA
+    - Pravidlo 92 Korešpondencia
 
       - 92.1. Požiadavky týkajúce sa sprievodného listu a podpisu
 
@@ -3644,9 +3640,9 @@
 
         - (c) Ak sa od požiadaviek podľa odseku (a) odstúpi a na písomnosť prihliadne v medzinárodnom konaní, neprihliada sa už na to, že požiadavky neboli splnené.
 
-      - 92.2. Jazyky
+      - 92.2 Jazyky
 
-        - (a) S výnimkou pravidiel 55.1 a 66.9 a odseku (b) tohto pravidla sa musí každý list alebo doklad predkladať prihlasovateľom orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum v rovnakom jazyku ako medzinárodná prihláška, ktorej sa to týka; ak sa však preklad medzinárodnej prihlášky odovzdal podľa pravidla 23.1(b) alebo predložil podľa pravidla 55.2, použije sa jazyk tohto prekladu.
+        - (a) S výnimkou pravidiel 55.1 a 55.3 a odseku (b) tohto pravidla sa musí každý list alebo doklad predkladať prihlasovateľom orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum v rovnakom jazyku ako medzinárodná prihláška, ktorej sa to týka; ak sa však preklad medzinárodnej prihlášky odovzdal podľa pravidla 23.1(b) alebo predložil podľa pravidla 55.2, použije sa jazyk tohto prekladu.
 
         - (b) Každý list prihlasovateľa určený orgánu pre medzinárodnú rešerš alebo orgánu pre medzinárodný predbežný prieskum môže byť v inom jazyku než medzinárodná prihláška, pokiaľ uvedený orgán použitie takého jazyka schválil.
 
