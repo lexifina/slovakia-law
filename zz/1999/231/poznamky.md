@@ -42,6 +42,8 @@
 
 - 24a) Zákon č. 565/2001 Z. z. o investičných stimuloch a o zmene a doplnení niektorých zákonov.
 
+- 24b) Nariadenie Komisie (ES) č. 794/2004 z 21. apríla 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 659/1999, ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o ES (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 4, Ú. v. EÚ L 140, 30. 4. 2004) v platnom znení.
+
 - 24c) Zákon č. 71/1967 Zb. o správnom konaní v znení neskorších predpisov.
 
 - 25) Čl. 120 ods. 2 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
