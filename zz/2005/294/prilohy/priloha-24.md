@@ -80,9 +80,7 @@ Príloha MI-008 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Výčapná nádoba je nádoba (pohár, džbán alebo kalíšok) určená na stanovenie špecifikovaného objemu kvapaliny okrem farmaceutických produktov predávanej na účely okamžitej spotreby.
 
-  - Čiarková nádoba je výčapná nádoba, ktorej menovitý objem je vyznačený čiarkou.
-
-  - Koncová odmerná nádoba je výčapná nádoba, ktorej vnútorný objem sa rovná menovitému objemu.
+  - Čiarková nádoba je výčapná nádoba, ktorej menovitý objem Vn je vyznačený čiarkou. Koncová odmerná nádoba je výčapná nádoba, ktorej vnútorný objem Vr sa rovná menovitému objemu.
 
   - Odmerná nádoba na prenášanie je výčapná nádoba, z ktorej sa kvapalina pred konzumáciou prelieva.
 
@@ -104,15 +102,17 @@ Príloha MI-008 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Nádoby na prenášanie | |
 
-  - < 100 ml | ±2 ml | –0 + 4 ml
+  - < 100 ml | ± 2 ml | – 0 + 4 ml
 
-  - ≥ 100 ml | ±3 % | –0 + 6 %
+  - ≥ 100 ml | ± 3 % V<sub>n</sub> | – 0 + 6 % V<sub>r</sub>
 
-  - Výčapné nádoby | |
+  - Nádoby na pitie | |
 
-  - < 200 ml | ±5 % | –0 +10 %
+  - < 200 ml | ± 5 % V<sub>n</sub> | – 0 + 10 % V<sub>r</sub>
 
-  - ≥ 200 ml | ±5 ml + 2,5 % | –0 + 10 ml + 5 %
+  - ≥ 200 ml | ± (5 ml + 2,5 % V<sub>n</sub>) | – 0 + 10 ml + 5 % V<sub>r</sub>
+
+  - Poznámka: Pre koncové odmerné nádoby znamienko „+“ znamená, že objem nádoby je najmenej Vr a najviac Vr plus najväčšia dovolená chyba.
 
 - 3. Materiál
 

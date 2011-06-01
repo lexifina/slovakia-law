@@ -18,7 +18,7 @@ Príloha MI-009 k nariadeniu vlády č. 294/2005 Z. z.
 
 - 1. Vplyv elektromagnetického rušenia na meradlo môže byť len taký, že
 
-  - a) zmena vo výsledku merania neprekročí kritickú hodnotu definovanú v bode 2.3 alebo
+  - a) zmena vo výsledku merania neprekročí kritickú hodnotu definovanú v bode 2 alebo
 
   - b) nie je možné vykonať žiadne meranie, alebo
 

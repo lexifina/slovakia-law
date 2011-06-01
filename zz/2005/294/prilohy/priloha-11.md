@@ -40,7 +40,7 @@ Príloha E1 k nariadeniu vlády č. 294/2005 Z. z.
 
   - d) prostriedkov na monitorovanie efektívnej činnosti systému kvality.
 
-- 5.3 Notifikovaná osoba posúdi systém kvality, aby rozhodla, či spĺňa požiadavky podľa bodu 5.2. Predpokladá zhodu s týmito požiadavkami v súvislosti so systémom kvality, ak je v zhode s príslušnými špecifikáciami národnej normy preberajúcej príslušnú harmonizovanú normu od termínu zverejnenia odkazov na túto normu.
+- 5.3 Notifikovaná osoba posúdi systém kvality, aby rozhodla, či spĺňa požiadavky podľa bodu 5.2. Predpokladá zhodu s týmito požiadavkami v súvislosti so systémom kvality, ak je v zhode s príslušnými špecifikáciami národnej normy preberajúcej príslušnú harmonizovanú európsku normu od termínu zverejnenia odkazov na túto normu.
 
   - Okrem skúseností so systémami riadenia kvality musia mať pracovníci audítorského tímu skúsenosti aj v príslušnej oblasti metrológie, skúsenosti s technológiou meradla, ako aj poznatky o aplikovateľných požiadavkách tohto nariadenia. Vyhodnocovací postup musí obsahovať aj kontrolné návštevy v prevádzkach výrobcu.
 
@@ -54,7 +54,7 @@ Príloha E1 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Svoje rozhodnutie oznámi výrobcovi. Oznámenie obsahuje závery kontroly a zdôvodnené rozhodnutie o posúdení.
 
-  - Dohľad notifikovanej osoby
+  - Dohľad vykonávaný notifikovanou osobou
 
 - 6.1 Účelom dohľadu je zabezpečiť, aby výrobca riadne plnil povinnosti vyplývajúce zo schváleného systému kvality.
 

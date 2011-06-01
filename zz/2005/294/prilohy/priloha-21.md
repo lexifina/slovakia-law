@@ -54,15 +54,15 @@ Príloha MI-005 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Tabuľka č. 1
 
-- Špecifická meracia zostava | Druh kvapaliny | Najmenší pomer Q<sub>max</sub>:Q<sub>min</sub>
+- Špecifická meracia zostava | Druh kvapaliny | Najmenší pomer Qmax : Qmin
 
-- Výdajné stojany | neskvapalnené plyny | 10:1
+- Výdajné stojany | kvapalné palivá okrem skvapalnených plynov | 10:1
 
 - | skvapalnené plyny | 5:1
 
 - Meracia zostava | kryogénne kvapaliny | 5:1
 
-- Meracie zostavy na potrubiach a zostavy na plnenie lodných cisterien | všetky kvapaliny | podľa vhodnosti
+- Meracie zostavy na potrubiach a zostavy na plnenie lodných cisterien | všetky kvapaliny | podľa použitia
 
 - Všetky ostatné meracie zostavy | všetky kvapaliny | 4:1
 
@@ -167,6 +167,8 @@ Príloha MI-005 k nariadeniu vlády č. 294/2005 Z. z.
   - Najväčšia dovolená chyba pre výpočet každej charakteristickej veličiny kvapaliny, kladná alebo záporná, je rovná dvom pätinám hodnoty uvedenej v písmene b).
 
   - 2.7 Požiadavka v bode 2.6 písm. a) platí pre všetky výpočty, nielen pre prepočty.
+
+  - 2.8 Pri meracej zostave nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
 
   - 3. Najväčší dovolený vplyv rušenia
 

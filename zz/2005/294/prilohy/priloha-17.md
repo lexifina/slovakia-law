@@ -58,6 +58,8 @@ Príloha MI-001 k nariadeniu vlády č. 294/2005 Z. z.
 
   - 6. Najväčšia dovolená kladná alebo záporná chyba objemu vody pri prietoku v rozsahu medzi najmenším prietokom Q<sub>1</sub> a prechodovým prietokom Q<sub>2</sub> (okrem tejto hodnoty) je 5 % pre vodu ľubovoľnej teploty.
 
+- 6.1 Pri vodomere nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
+
   - Prípustný vplyv rušenia
 
 - 7.1 Odolnosť proti elektromagnetickému rušeniu

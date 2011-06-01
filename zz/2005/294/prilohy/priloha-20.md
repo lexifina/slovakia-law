@@ -68,6 +68,8 @@ Príloha MI-004 k nariadeniu vlády č. 294/2005 Z. z.
 
 - c) | pre triedu 3 | E = E<sub>f</sub>+ E<sub>t</sub> + E<sub>c</sub> | kde pre E<sub>f</sub>, E<sub>t</sub>, E<sub>c</sub> platia body 7.1 až 7.3
 
+  - Pri kompaktnom merači tepla nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
+
 - 4. Prípustné vplyvy elektromagnetického rušenia
 
 - 4.1 Merač tepla nesmie byť pod vplyvom statických magnetických polí a elektromagnetických polí so sieťovou frekvenciou.

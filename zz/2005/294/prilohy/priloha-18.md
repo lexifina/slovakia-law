@@ -60,7 +60,7 @@ Príloha MI-002 k nariadeniu vlády č. 294/2005 Z. z.
 
 - Q<sub>t</sub> ≥ Q ≥ Q<sub>max</sub> | 1,5 % | 1 %
 
-  - Ak všetky chyby medzi Q<sub>t</sub>a Q<sub>max</sub> majú rovnaké znamienko, nesmú prekročiť 1 % pre triedu 1,5 a 0,5 % pre triedu 1,0.
+  - Pri plynomere nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
 
 - 2.2. Pre plynomery s teplotným prepočtom, ktoré len udávajú prepočítaný objem, platí, že najväčšia dovolená chyba plynomera sa zväčšuje o 0,5 % v rozsahu teplotného intervalu s veľkosťou 30 °C súmerne rozloženom okolo hodnoty teploty špecifikovanej výrobcom, ktorá je v rozpätí od 15 °C do 25 °C. Mimo tohto rozpätia je dovolené ešte ďalšie zvýšenie o 0,5 % na každom ďalšom rozsahu intervalu s veľkosťou 10 °C.
 
@@ -144,7 +144,7 @@ Príloha MI-002 k nariadeniu vlády č. 294/2005 Z. z.
 
   - c) 1 % pre ostatné prepočítavače pri predpísaných pracovných podmienkach.
 
-    - Chyba plynomeru sa neberie do úvahy.
+    - Pri prepočítavači objemu plynu nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
 
 - 9. Vhodnosť
 

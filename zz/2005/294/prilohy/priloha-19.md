@@ -108,7 +108,7 @@ Príloha MI-003 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Pre elektromechanické viacfázové elektromery je rozpätie prúdu pre jednofázové zaťaženie limitované na 5I<sub>tr</sub> ≤ I ≤ I<sub>max</sub>.
 
-  - Pre prácu elektromerov v iných teplotných rozsahoch platia príslušné zodpovedajúce najväčšie dovolené chyby.
+  - Pri elektromere nesmie dochádzať k zneužívaniu najväčšej dovolenej chyby ani k systematickému zvýhodňovaniu niektorej zo strán.
 
 - 4. Prípustný vplyv rušenia
 

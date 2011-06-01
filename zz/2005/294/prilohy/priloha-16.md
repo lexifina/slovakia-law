@@ -38,7 +38,7 @@ Príloha H1 k nariadeniu vlády č. 294/2005 Z. z.
 
   - g) prostriedkov na monitorovanie dosahovania požadovanej kvality návrhu a meradiel a efektívnej činnosti systému kvality.
 
-- 3.3 Notifikovaná osoba posúdi systém kvality, aby rozhodla, či spĺňa požiadavky podľa bodu 3.2. Predpokladá zhodu s týmito požiadavkami v súvislosti so systémom kvality, ak je v zhode s príslušnými špecifikáciami národnej normy preberajúcej príslušnú harmonizovanú normu od termínu zverejnenia odkazov na túto normu vo vestníku.
+- 3.3 Notifikovaná osoba posúdi systém kvality, aby rozhodla, či spĺňa požiadavky podľa bodu 3.2. Predpokladá zhodu s týmito požiadavkami v súvislosti so systémom kvality, ak je v zhode s príslušnými špecifikáciami národnej normy preberajúcej príslušnú harmonizovanú európsku normu od termínu zverejnenia odkazov na túto normu vo vestníku.
 
   - Okrem skúseností so systémami riadenia kvality musia mať pracovníci audítorského tímu skúsenosti aj v príslušnej oblasti metrológie, skúsenosti s technológiou meradla, ako aj poznatky o aplikovateľných požiadavkách tohto nariadenia. Vyhodnocovací postup musí obsahovať aj kontrolné návštevy v prevádzkach výrobcu.
 
@@ -106,7 +106,7 @@ Príloha H1 k nariadeniu vlády č. 294/2005 Z. z.
 
   - Ak výrobca nie je ustanovený v členskom štáte a nemá tam ani svojho splnomocnenca, povinnosť predložiť technickú dokumentáciu na požiadanie prechádza na osobu, ktorú určí výrobca.
 
-  - Dohľad notifikovanej osoby
+  - Dohľad vykonávaný notifikovanou osobou
 
 - 5.1 Účelom dohľadu je zabezpečiť, aby výrobca riadne plnil povinnosti vyplývajúce zo schváleného systému kvality.
 

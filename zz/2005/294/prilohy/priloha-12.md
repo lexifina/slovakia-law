@@ -20,7 +20,7 @@ Príloha F k nariadeniu vlády č. 294/2005 Z. z.
 
 - 4.2 Notifikovaná osoba vydá na základe vykonaných preskúmaní a skúšok ES certifikát o zhode a na každé schválené meradlo umiestni alebo na svoju zodpovednosť dá umiestniť svoj identifikačný kód.
 
-  - Výrobca uchováva ES certifikát o zhode na účely predloženia orgánom dohľadu desať rokov po výrobe posledného meradla.
+  - Výrobca uchováva ES certifikát o zhode na účely predloženia orgánom dohľadu desať rokov po certifikácii meradla.
 
 - 5. Štatistické overenie zhody s metrologickými požiadavkami
 
@@ -40,7 +40,7 @@ Príloha F k nariadeniu vlády č. 294/2005 Z. z.
 
   - Notifikovaná osoba vydá na základe vykonaných preskúmaní a skúšok ES certifikát o zhode a na každé schválené meradlo umiestni alebo na svoju zodpovednosť dá umiestniť svoj identifikačný kód.
 
-  - Výrobca uchováva ES certifikát o zhode na účely predloženia orgánom dohľadu desať rokov po výrobe posledného meradla.
+  - Výrobca uchováva ES certifikát o zhode na účely predloženia orgánom dohľadu desať rokov po certifikácii meradla.
 
 - 5.5 Ak je dávka zamietnutá, notifikovaná osoba musí prijať príslušné opatrenia, aby zabránila uvedeniu tejto dávky na trh. Ak je výskyt zamietnutých dávok častý, môže notifikovaná osoba zrušiť štatistický postup overovania a prijať príslušné opatrenia.
 
