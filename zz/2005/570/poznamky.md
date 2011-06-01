@@ -94,8 +94,6 @@
 
 - 32) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 33) § 7 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
-
 - 33a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 34) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 732/2004 Z. z.
