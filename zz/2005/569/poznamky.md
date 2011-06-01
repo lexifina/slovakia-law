@@ -28,8 +28,6 @@
 
 - 12a) § 116 Občianskeho zákonníka.
 
-- 13) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
-
 - 14) § 7 a 9 zákona č. 570/2005 Z. z.
 
 - 15) § 15 a 16 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
