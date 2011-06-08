@@ -1,0 +1,25 @@
+Príloha I
+
+- Postup pri likvidácii Správy zvláštnych práv čerpania
+
+  - 1. V prípade likvidácie Správy zvláštnych práv čerpania účastníci splatia Fondu svoje záväzky v desiatich polročných splátkach alebo počas dlhšieho obdobia, aké Fond uzná za vhodné, vo voľne použiteľnej mene a zároveň splatia meny účastníkov, ktorí sú držiteľmi zvláštnych práv čerpania, ktoré sú určené na odkúpenie, formou akejkoľvek splátky v rozsahu odkúpenia, ktoré určí Fond. Prvá polročná platba sa uhradí šesť mesiacov po rozhodnutí o likvidácii Správy zvláštnych práv čerpania.
+
+  - 2. Ak sa počas šiestich mesiacov od rozhodnutia o likvidácii Správy zvláštnych práv čerpania prijme rozhodnutie o likvidácii Fondu, likvidácia Správy zvláštnych práv čerpania sa pozastaví, až kým sa zvláštne práva čerpania vedené na Účte všeobecných zdrojov nerozdelia podľa nasledovného pravidla: po rozdelení v súlade s odsekom 2 písm. a) a b) prílohy K Fond rozdelí svoje zvláštne práva čerpania vedené na Účte všeobecných zdrojov medzi všetkých členov, ktorí sú účastníkmi, v pomere k sumám splatným každému účastníkovi po rozdelení v súlade s odsekom 2 písm. b). Pri stanovení sumy splatnej každému členovi na účel rozdelenia zostávajúcich prostriedkov, ktoré má v držbe v každej mene, podľa odseku 2 písm. d) prílohy K Fond odpočíta rozdelenie zvláštnych práv čerpania podľa tohto pravidla.
+
+  - 3. Použitím súm, ktoré Fond získa v súlade s odsekom 1 vyššie, Fond odkúpi zvláštne práva čerpania od držiteľov nasledovným spôsobom a v nasledovnom poradí:
+
+    - (a) Zvláštne práva čerpania v držbe vlád, ktoré odstúpili z účasti viac ako šesť mesiacov pred dňom, keď Rada guvernérov rozhodla o likvidácii Správy zvláštnych práv čerpania, sa odkúpia v súlade s podmienkami akejkoľvek dohody podľa článku XXIV alebo prílohy H.
+
+    - (b) Zvláštne práva čerpania držiteľov, ktorí nie sú účastníkmi, sa odkúpia pred odkúpením zvláštnych práv čerpania v držbe účastníkov, a to úmerne k sume v držbe každého držiteľa.
+
+    - (c) Fond stanoví podiel zvláštnych práv čerpania v držbe každého účastníka vo vzťahu k jeho čistej kumulatívnej alokácii. Fond najprv odkupuje zvláštne práva čerpania od účastníkov s najväčším podielom dovtedy, kým tento podiel neklesne na úroveň druhého najväčšieho podielu; Fond následne odkupuje zvláštne práva čerpania v držbe týchto účastníkov na základe ich čistej kumulatívnej alokácie dovtedy, kým podiely neklesnú na úroveň tretieho najväčšieho podielu; tento postup sa bude opakovať až do vyčerpania sumy, ktorá je k dispozícii na odkúpenie.
+
+  - 4. Každá suma, ktorú je účastník oprávnený prijať v rámci odkúpenia podľa odseku 3 vyššie, sa započíta voči akejkoľvek sume, ktorá sa má uhradiť podľa odseku 1.
+
+  - 5. V priebehu likvidácie Fond zaplatí úrok zo sumy zvláštnych práv čerpania v držbe držiteľov, pričom každý účastník zaplatí poplatky súvisiace s jeho čistou kumulatívnou alokáciou zvláštnych práv čerpania, od ktorých sa odpočítajú akékoľvek platby uhradené podľa odseku 1 vyššie. Sadzby úroku a poplatkov vrátane dátumu úhrady určí Fond. Úroky a poplatky sa zaplatia v zvláštnych právach čerpania v možnom rozsahu. Účastník, ktorý nemá v držbe zvláštne práva čerpania v dostatočnej výške na zaplatenie poplatkov, zaplatí v mene, ktorú určí Fond. Zvláštne práva čerpania získané v podobe poplatkov sa vo výške nevyhnutnej na pokrytie správnych výdavkov nepoužijú na zaplatenie úroku, ale sa prevedú na Fond a odkúpia ako prvé, a to v menách, ktoré Fond používa na krytie svojich výdavkov.
+
+  - 6. Pokiaľ je účastník v omeškaní s úhradou akejkoľvek platby požadovanej na základe odseku 1 alebo 5 vyššie, nebudú mu vyplatené žiadne sumy podľa odsekov 3 alebo 5 vyššie.
+
+  - 7. Ak po úhrade konečných platieb účastníkom nie je podiel zvláštnych práv čerpania v držbe všetkých účastníkov, ktorí nie sú v omeškaní, rovnaký vo vzťahu k ich čistým kumulatívnym alokáciám, účastníci s nižším podielom kúpia od účastníkov s vyšším podielom také sumy v súlade s režimami Fondu, ktorými sa vyrovnajú podiely zvláštnych práv čerpania v ich držbe. Každý účastník, ktorý je v omeškaní, zaplatí Fondu vlastnou menou vo výške rovnajúcej sa jeho záväzku. Fond rozdelí túto menu a zostávajúce nároky medzi účastníkov v pomere k sume zvláštnych práv čerpania, ktoré má každý z nich vo svojej držbe, pričom tieto zvláštne práva čerpania sa zrušia. Fond následne uzavrie účtovníctvo Správy zvláštnych práv čerpania, všetky záväzky Fondu vyplývajúce z alokácií zvláštnych práv čerpania zaniknú a Správa zvláštnych práv čerpania ukončí svoju činnosť.
+
+  - 8. Každý účastník, ktorého mena sa rozdelí medzi ďalších účastníkov podľa tejto prílohy, sa zaručuje, že jeho mena sa môže kedykoľvek neobmedzene použiť na nákup tovaru alebo úhradu súm splatných tomuto účastníkovi alebo osobám na jeho územiach. Každý účastník, ktorý má túto povinnosť, súhlasí s tým, že ostatným účastníkom nahradí akékoľvek straty spôsobené rozdielom medzi hodnotou použitou pri rozdelení jeho meny Fondom podľa tejto prílohy a hodnotou, za ktorú účastníci jeho menu odpredali.

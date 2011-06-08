@@ -1,0 +1,1 @@
+- *) Kvótu Dánska určí Fond potom, ako dánska vláda oznámi, že je pripravená podpísať túto Dohodu, ale predtým, ako Dohodu podpíše.
