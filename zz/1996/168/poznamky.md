@@ -44,6 +44,10 @@
 
 - 13) § 764 Občianskeho zákonníka.
 
+- 13a) § 4 ods. 2 písm. f) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13b) Zákon č. 158/2011 Z. z. o podpore energeticky a environmentálne úsporných motorových vozidiel a o zmene a doplnení niektorých zákonov.
+
 - 14) § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.
 
 - 14a) Čl. 3 ods. 1 nariadenia Európskeho parlamentu a Rady (ES) č. 1370/2007 z 23. októbra 2007 o službách vo verejnom záujme v železničnej a cestnej osobnej doprave, ktorým sa zrušujú nariadenia Rady (EHS) č. 1191/69 a (EHS) č. 1107/70 (Ú. v. EÚ L 315, 3. 12. 2007).
