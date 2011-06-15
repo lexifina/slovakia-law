@@ -34,6 +34,8 @@
 
 - § 4 ods. 4 a § 15 ods. 1 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 134/2004 Z. z.
 
+- 10a) Zákon č. 158/2011 Z. z. o podpore energeticky a environmentálne úsporných motorových vozidiel a o zmene a doplnení niektorých zákonov.
+
 - 11) § 116 Občianskeho zákonníka.
 
 - 11a) Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).

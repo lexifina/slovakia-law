@@ -13,3 +13,5 @@ Príloha č. 7 k zákonu č. 25/2006 Z. z.
   - 5. Smernica Komisie 2005/51/ES zo 7. septembra 2005, ktorou sa mení a dopĺňa príloha XX k smernici Európskeho parlamentu a Rady 2004/17/ES a príloha VIII k smernici Európskeho parlamentu a Rady 2004/18/ES o verejnom obstarávaní (Ú.v. EÚ L 257, 1. 10. 2005, s. 127).
 
   - 6. Smernica Európskeho parlamentu a Rady 2007/66/ES z 11. decembra 2007, ktorou sa menia a dopĺňajú smernice Rady 89/665/EHS a 92/13/EHS, pokiaľ ide o zvýšenie účinnosti postupov preskúmania v oblasti zadávania verejných zákaziek (Ú. v. EÚ L 335, 20. 12. 2007)
+
+  - 7. Smernica Európskeho parlamentu a Rady 2009/33/ES z 23. apríla 2009 o podpore ekologických a energeticky úsporných vozidiel cestnej dopravy (Ú. v. EÚ L 120, 15. 5. 2009).
