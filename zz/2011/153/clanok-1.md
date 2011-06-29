@@ -22,15 +22,11 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 
 - 3. V § 39 odsek 8 znie:
 
-- „(8)
+- „(8) Tajne sa hlasuje v prípadoch ustanovených ústavou<sup>37</sup>) alebo ak sa na tom na návrh najmenej 15 poslancov bez rozpravy uznesie národná rada. Taký návrh sa podáva najneskôr do začiatku rokovania o tomto bode programu schôdze národnej rady.“.
 
-- Tajne sa hlasuje v prípadoch ustanovených ústavou<sup>37</sup>) alebo ak sa na tom na návrh najmenej 15 poslancov bez rozpravy uznesie národná rada. Taký návrh sa podáva najneskôr do začiatku rokovania o tomto bode programu schôdze národnej rady.“.
+  - Poznámka pod čiarou k odkazu 37 znie:
 
-- Poznámka pod čiarou k odkazu 37 znie:
-
-- „37)
-
-- Čl. 89 ods. 1, čl. 90 ods. 1 a čl. 92 ods. 1 Ústavy Slovenskej republiky.“.
+- „<sup>37</sup>) Čl. 89 ods. 1, čl. 90 ods. 1 a čl. 92 ods. 1 Ústavy Slovenskej republiky.“.
 
 - 4. Za § 39 sa vkladá § 39a, ktorý znie:
 
