@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 8/2008 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 64/225/EHS z 25. februára 1964 o zrušení obmedzení slobody usadiť sa a slobody poskytovať služby vo vzťahu k zaisteniu a retrocesii (Ú. v. ES L 56, 4. 4.1964, Mimoriadne vydanie Ú. v. EÚ 06/zv. 01).
 

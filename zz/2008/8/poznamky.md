@@ -138,6 +138,8 @@
 
 - 59) Zákon č. 381/2001 Z. z. v znení neskorších predpisov.
 
+- 59a) § 10 ods. 5 zákona č. 747/2004 Z. z.
+
 - 60) Napríklad Obchodný zákonník v znení neskorších predpisov.
 
 - 61) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
@@ -155,6 +157,12 @@
 - 67) § 5 zákona č. 566/2001 Z. z.
 
 - 68) § 42a a 42b Občianskeho zákonníka v znení neskorších predpisov.
+
+- 68a) § 151me Občianskeho zákonníka v znení neskorších predpisov.
+
+- § 53a až 53e zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- § 180 zákona č. 7/2005 Z. z.
 
 - 69) § 5 ods. 3 zákona č. 530/2003 Z. z.
 
