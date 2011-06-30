@@ -28,37 +28,55 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - 1. Skúšobná streľba sa vykonáva úplne dokončenými strelnými zbraňami pred streleckou skúškou vykonávanou výrobcom. Za úplne dokončené sa tiež považujú strelné zbrane, na ktorých ešte bude vyhotovená rytina alebo povrchová úprava čiernením alebo iným spôsobom. Autorizovaná osoba určí, či bude overovať strelné zbrane s povrchovou úpravou alebo bez tejto úpravy. Strelné zbrane nabíjané ústím hlavne sú vybavené zažíhacím ústrojenstvom a ich samostatne dodávané hlavne majú prešľahový kanálik a definitívnu dnovú skrutku.
 
-- 2. Skúšobná streľba sa vykonáva skúšobnými nábojmi, ktoré svojím vyhotovením, tlakmi, prípadne energiami strely zodpovedajú rozhodnutiam Stálej medzinárodnej komisie pre skúšky ručných strelných zbraní, ktoré sú uvedené v harmonizovaných slovenských technických normách, nielen menovitými hodnotami, ale aj štatistickými odchýlkami. Hodnoty tlakov a energií jednotlivých typov streliva uvádzajú harmonizované slovenské technické normy. Skúšobné náboje na overovanie brokovníc navyše spĺňajú určený priemer a hmotnosť náplne brokov obsiahnutých v náboji. Skúšobné náboje sa používajú pri teplote ovzdušia 15 – 25 <sup>o</sup>C.
+- 2. Skúšobná streľba sa vykonáva skúšobnými nábojmi, ktoré svojím vyhotovením, tlakmi, prípadne energiami strely zodpovedajú rozhodnutiam Stálej medzinárodnej komisie pre skúšky ručných strelných zbraní, ktoré sú uvedené v slovenských technických normách vhodných na posudzovanie zhody, nielen menovitými hodnotami, ale aj štatistickými odchýlkami. Hodnoty tlakov a energií jednotlivých typov streliva uvádzajú slovenské technické normy vhodné na posudzovanie zhody. Skúšobné náboje na overovanie brokovníc navyše spĺňajú určený priemer a hmotnosť náplne brokov obsiahnutých v náboji. Skúšobné náboje sa používajú pri teplote ovzdušia 15 – 25 <sup>o</sup>C.
 
-- 3. Tlaky skúšobných nábojov sa merajú tlakomernými valčekmi (crusher) alebo piezoelektrickými snímačmi pri teplote náplne 20 ± 2 <sup>o</sup>C. Ak je namiesto hodnoty tlaku udaná energia strely, meria sa úsťová rýchlosť strely a zisťuje sa jej hmotnosť, z ktorých sa vypočíta úsťová energia. Vlastnosti meracích zariadení, ako aj metodiky merania, spôsob kalibrovania a vyhodnocovania výsledkov merania sú ustanovené v harmonizovaných slovenských technických normách.
+- 3. Tlaky skúšobných nábojov sa merajú tlakomernými valčekmi (crusher) alebo piezoelektrickými snímačmi pri teplote náplne 20 ± 2 <sup>o</sup>C. Ak je namiesto hodnoty tlaku udaná energia strely, meria sa úsťová rýchlosť strely a zisťuje sa jej hmotnosť, z ktorých sa vypočíta úsťová energia. Vlastnosti meracích zariadení, ako aj metodiky merania, spôsob kalibrovania a vyhodnocovania výsledkov merania sú ustanovené v slovenských technických normách vhodných na posudzovanie zhody.
 
-- 4. Použité tlakomerné hlavne svojimi rozmermi, konštrukciou a vlastnosťami spĺňajú požiadavky ustanovené v harmonizovaných slovenských technických normách.
+- 4. Použité tlakomerné hlavne svojimi rozmermi, konštrukciou a vlastnosťami spĺňajú požiadavky ustanovené v slovenských technických normách vhodných na posudzovanie zhody.
 
 - 5. Jednotlivé druhy strelných zbraní a ich samostatne dodávané časti sa podrobia streľbe skúšobnými nábojmi takto:
 
 - a) brokové hlavne nabíjané zozadu s dĺžkou nábojovej komory menšou ako 73 mm s určenými brokovými nábojmi sa skúšajú dvoma výstrelmi z každej hlavne skúšobnými nábojmi s olovenými brokmi alebo tromi nábojmi s oceľovými brokmi. Rozmery a tvrdosť brokov a hmotnosť brokovej náplne uvádzajú predpisy Stálej medzinárodnej komisie pre skúšky ručných strelných zbraní. Tieto brokové náboje musia spĺňať predpísané tlaky (alebo tlaky vyššie) na predpísaných miestach hlavne. Po overení funkcie opakovacej alebo samonabíjacej strelnej zbrane sa navyše vystrelí najmenej jeden náboj určený na trh z každej hlavne. Predpísané tlaky v MPa (rozumie sa stredná hodnota maximálneho tlaku zisťovaná piezoelektrickými snímačmi) a predpísané miesta merania sú uvedené v nasledujúcej tabuľke a poznámkach:
 
-- Kaliber | Tlak (MPa) na tlakomer! č. | | |
+- | Tlak na tlakomeri (v MPa) č.: | | | | | | | | |
 
-- | 1 | 2 | 1 | 2
+- Kaliber | 1 | | | | 2 | | | 1 | | 2
 
-- | Pri skúške | | |
+- | Pri skúške | | | | | | | | |
 
-- | bežnej | | vyššej |
+- | bežnej | | | | vyššej | | | | |
 
-- 14 a väčší | 96 | 50 | 137 | 50
+- 14 a väčší | 93 | | | | 50 | | | 132 | | 50
 
-- 16 | 102 | 50 | 137 | 50
+- 16 | 98 | | | | 50 | | | 132 | | 50
 
-- 20 a menší | 108 | 50 | 137 | 50
+- 20 a menší | 104 | | | | 50 | | | 132 | | 50
 
-- 12 oceľové broky | hybnosť 15 Ns | | 137 | 50
+- 12/70 – oceľové broky | hybnosť ≤ 13,5 Ns | | | | | | | 132 | | 50
 
-- | | | hybnosť 17,5 Ns |
+- | | | | | | | | hybnosť ≥15 Ns | |
 
-- 20 oceľové broky | hybnosť 11,5 Ns | | 137 | 50
+- 12/73 a 12/76 – oceľové broky | hybnosť ≤ 15 Ns | | | | | | | 132 | | 50
 
-- | | | hybnosť 14,5 Ns |
+- | | | | | | | | hybnosť ≥ 17,5 Ns | |
+
+- 12/89 – oceľové broky | hybnosť ≤ 19 Ns | | | | | | | 132 | | 50
+
+- | | | | | | | | hybnosť ≥ 22 Ns | |
+
+- 10/89 – oceľové broky | hybnosť ≤ 22 Ns | | | | | | | 132 | | 50
+
+- | | | | | | | | hybnosť ≥ 22 Ns | |
+
+- 16/70 – oceľové broky | hybnosť ≤ 9,5 Ns | | | | | | | – | | –
+
+- 20/70 – oceľové broky | hybnosť ≤ 11 Ns | | | | | | | 132 | | 50
+
+- | | | | | | | | hybnosť ≥ 12,5 Ns | |
+
+- 20/76 – oceľové broky | hybnosť ≤ 12 Ns | | | | | | | 132 | | 50
+
+- | | | | | | | | hybnosť ≥ 14 Ns | |
 
 - Poznámky k tabuľke
 
@@ -76,7 +94,7 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - c) dĺžka nábojovej komory je väčšia ako 73 mm.
 
-- b) zbrane s guľovými hlavňami (guľovnice, malokalibrovky, pištole a revolvery) nabíjané zozadu sa skúšajú skúšobnými nábojmi, ktoré vyvíjajú na predpísaných miestach predpísané tlaky, prípadne na overenie funkcie opakovacej alebo samonabíjacej zbrane sa skúša najmenej jedným nábojom určeným na trh z každej nábojovej komory navyše. Skúšobné náboje vyvíjajú maximálny tlak, ktorého stredná hodnota je najmenej o 30 % vyššia, ako je prípustná stredná hodnota maximálneho tlaku náboja určeného na trh daného kalibra. Hodnotami prevádzkových tlakov sa rozumejú stredné hodnoty maximálnych tlakov zisťované piezoelektrickými snímačmi. Predpísané miesta merania sú uvedené v harmonizovaných slovenských technických normách. Počet skúšobných nábojov je:
+- b) zbrane s guľovými hlavňami (guľovnice, malokalibrovky, pištole a revolvery) nabíjané zozadu sa skúšajú skúšobnými nábojmi, ktoré vyvíjajú na predpísaných miestach predpísané tlaky, prípadne na overenie funkcie opakovacej alebo samonabíjacej zbrane sa skúša najmenej jedným nábojom určeným na trh z každej nábojovej komory navyše. Skúšobné náboje vyvíjajú maximálny tlak, ktorého stredná hodnota je najmenej o 30 % vyššia, ako je prípustná stredná hodnota maximálneho tlaku náboja určeného na trh daného kalibra. Hodnotami prevádzkových tlakov sa rozumejú stredné hodnoty maximálnych tlakov zisťované piezoelektrickými snímačmi. Predpísané miesta merania sú uvedené v slovenských technických normách vhodných na posudzovanie zhody. Počet skúšobných nábojov je:
 
 - 1. 2 náboje na každú hlaveň pri dlhých zbraniach s prevádzkovým tlakom 180 MPa a viac,
 
@@ -86,7 +104,7 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - 4. 1 náboj na každú nábojovú komoru, ak je od hlavne oddelená (napr. pri revolveroch), bez ohľadu na veľkosť prevádzkového tlaku,
 
-- c) expanzné zbrane, pracovné expanzné prístroje a osobitné zbrane alebo ich časti sa podrobia streľbe skúšobnými nábojkami, ktoré majú o 30 % vyšší tlak, ako je prevádzkový tlak najsilnejšej nábojky určenej na trh, alebo o 10 % vyššiu energiu, ako je prípustná stredná hodnota energie ustanovená pre najsilnejšiu nábojku určenú na trh daného kalibru. Výnimku tvoria expanzné vstreľovacie prístroje s tĺkom, kde sa pripúšťa tlak prevyšujúci prevádzkový tlak len o 15 – 16 %,
+- c) expanzné zbrane, a osobitné zbrane alebo ich časti sa podrobia streľbe skúšobnými nábojkami, ktoré majú o 30 % vyšší tlak, ako je prevádzkový tlak najsilnejšej nábojky určenej na trh, alebo o 10 % vyššiu energiu, ako je prípustná stredná hodnota energie ustanovená pre najsilnejšiu nábojku určenú na trh daného kalibru,
 
 - d) expanzné zbrane sa overujú vystrelením
 
@@ -94,29 +112,23 @@ Príloha č. 1 k nariadeniu vlády č. 397/1999 Z. z.
 
 - 2. 2 skúšobných nábojok z každej nábojovej komory pri expanzných zbraniach s dvoma a viacerými nábojovými komorami,
 
-- e) pracovné expanzné prístroje sa overujú vystrelením
+- e) osobitné zbrane vymedzené príslušnou slovenskou technickou normou vhodnou na posudzovanie zhody sa overujú vystrelením 2 skúšobných nábojov alebo 5 najsilnejších nábojov určených na trh,
 
-- 1. 10 skúšobných nábojok s použitím najťažšej použiteľnej strely (napr. nastreľovací klinec) pri nastavení výkonu na maximum (ak je výkon regulovateľný),
+- f) napodobeniny historických zbraní určených výhradne na použitie čierneho prachu sa skúšajú dvoma výstrelmi so skúšobnou náplňou na každú hlaveň, ak je nábojová komora súčasťou hlavne, a najmenej jedným výstrelom so skúšobnou náplňou na každú nábojovú komoru, ak je táto komora oddelená od hlavne (napr. pri revolveroch). Skúšobnú náplň tvorí strela a prach v množstve predpísanom slovenskou technickou normou vhodnou na posudzovanie zhody daného kalibru a druhu zbrane,
 
-- 2. 10 skúšobných nábojok a 10 najsilnejších nábojok určených na trh pri expanznom vstreľovacom prístroji s tĺkom, pričom hmotnosť tĺka sa zvýši o 50 % (pridaným závažím) nad hmotnosť najťažšieho tĺka prístroja,
+- g) historické zbrane nabíjané ústím hlavne, určené výhradne na použitie čierneho prachu a vybavené na každej hlavni zapaľovacím mechanizmom, sa skúšajú dvoma výstrelmi so zníženou skúšobnou náplňou čierneho prachu z každej hlavne. Skúšobná náplň je predpísaná v slovenskej technickej norme vhodnej na posudzovanie zhody,
 
-- f) osobitné zbrane vymedzené príslušnou harmonizovanou slovenskou technickou normou sa overujú vystrelením 2 skúšobných nábojov alebo 5 najsilnejších nábojov určených na trh,
+- h) guľobrokové zbrane sa skúšajú tak, že každá hlaveň sa podrobí zodpovedajúcemu počtu výstrelov,
 
-- g) napodobeniny historických zbraní určených výhradne na použitie čierneho prachu sa skúšajú dvoma výstrelmi so skúšobnou náplňou na každú hlaveň, ak je nábojová komora súčasťou hlavne, a najmenej jedným výstrelom so skúšobnou náplňou na každú nábojovú komoru, ak je táto komora oddelená od hlavne (napr. pri revolveroch). Skúšobnú náplň tvorí strela a prach v množstve predpísanom harmonizovanou slovenskou technickou normou daného kalibru a druhu zbrane,
+- i) balistické zbrane sa skúšajú ako im zodpovedajúce druhy zbraní, pričom sa prihliada na to, že skúšobné náboje na overovanie zbraní sa môžu v balistických zbraniach na overovanie balistických charakteristík používať ako náboje určené na trh,
 
-- h) historické zbrane nabíjané ústím hlavne, určené výhradne na použitie čierneho prachu a vybavené na každej hlavni zapaľovacím mechanizmom, sa skúšajú dvoma výstrelmi so zníženou skúšobnou náplňou čierneho prachu z každej hlavne. Skúšobná náplň je predpísaná v harmonizovanej slovenskej technickej norme,
+- j) samostatne dodávané hlavne, nábojové komory, ak nie sú súčasťou hlavne (napr. revolverové valce), závery a dnové skrutky sa skúšajú ako im zodpovedajúci druh zbrane. Ak je záver určený pre viac rôznych kalibrov, skúša sa najviac namáhajúcimi skúšobnými nábojmi (kritériom namáhania je sila pôsobiaca na záver),
 
-- i) guľobrokové zbrane sa skúšajú tak, že každá hlaveň sa podrobí zodpovedajúcemu počtu výstrelov skúšobných nábojov alebo nábojov určených na trh,
+- k) plynové zbrane sa skúšajú zvýšením úsťovej rýchlosti o 10 % nad odporúčanie výrobcu,
 
-- j) balistické zbrane sa skúšajú ako im zodpovedajúce druhy zbraní, pričom sa prihliada na to, že skúšobné náboje na overovanie zbraní sa môžu v balistických zbraniach na overovanie balistických charakteristík používať ako náboje určené na trh,
+- l) výmenné hlavne, vložné hlavne a vložné nábojové komory sa skúšajú pomocou vlastného záveru spôsobom, ktorý zodpovedá danému druhu zbrane (nevzťahuje sa na vložné hlavne a vložné nábojové komory homologizované ako typ),
 
-- k) samostatne dodávané hlavne, nábojové komory, ak nie sú súčasťou hlavne (napr. revolverové valce), závery a dnové skrutky sa skúšajú ako im zodpovedajúci druh zbrane. Ak je záver určený pre viac rôznych kalibrov, skúša sa najviac namáhajúcimi skúšobnými nábojmi (kritériom namáhania je sila pôsobiaca na záver),
-
-- l) plynové zbrane sa skúšajú zvýšením úsťovej rýchlosti o 10 % nad odporúčanie výrobcu,
-
-- m) výmenné hlavne, vložné hlavne a vložné nábojové komory sa skúšajú pomocou vlastného záveru spôsobom, ktorý zodpovedá danému druhu zbrane (nevzťahuje sa na vložné hlavne a vložné nábojové komory homologizované ako typ).
-
-- n) športové zbrane zhotovené a používané výlučne na športovú streľbu podľa pravidiel medzinárodných športových zväzov biatlonu a športovej streľby (združených v ISSF – medzinárodnej športovej streleckej federácii) sa skúšajú bežnými nábojmi určenými na trh.
+- m) športové zbrane zhotovené a používané výlučne na športovú streľbu podľa pravidiel medzinárodných športových zväzov biatlonu a športovej streľby (združených v ISSF – medzinárodnej športovej streleckej federácii) sa skúšajú bežnými nábojmi určenými na trh.
 
 - 6. Skúšobné streľby sa vykonávajú pomocou lafiet, ktoré bezpečne chránia obsluhu a v ktorých sú zbrane upnuté tak, aby čo najviac zodpovedali podmienkam ich použitia. Pri krátkych zbraniach sa pripúšťa streľba s ochrannou rukavicou a s ochranným štítom. Skúšobná streľba sa vykonáva pri viachlavňových zbraniach postupne, t. j. hlaveň po hlavni.
 
