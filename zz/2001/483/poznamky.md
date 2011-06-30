@@ -200,11 +200,13 @@
 
 - 52) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
-- 52a) § 180 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 151me Občianskeho zákonníka.
-
 - 53) § 42a a 42b Občianskeho zákonníka.
+
+- 53a) § 151me Občianskeho zákonníka v znení neskorších predpisov.
+
+- § 53a až 53e zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- § 180 zákona č. 7/2005 Z. z.
 
 - 54) § 31 ods. 4 Obchodného zákonníka.
 

@@ -21,3 +21,5 @@ Príloha k zákonu č. 483/2001 Z. z. v znení neskorších predpisov
   - 9. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
 
   - 10. Smernica Európskeho parlamentu a Rady 2009/111/ES zo 16. septembra 2009, ktorou sa menia a dopĺňajú smernice 2006/48/ES, 2006/49/ES a 2007/64/ES, pokiaľ ide o banky pridružené k ústredným inštitúciám, niektoré položky vlastných zdrojov, veľkú majetkovú angažovanosť, mechanizmy dohľadu a krízové riadenie (Ú. v. EÚ L 302, 17. 11. 2009).
+
+  - 11. Smernica Európskeho parlamentu a Rady 2010/76/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2006/48/ES a 2006/49/ES, pokiaľ ide o kapitálové požiadavky na obchodnú knihu a na resekuritizácie a preverovanie politík odmeňovania orgánmi dohľadu (Ú. v. EÚ L 329, 14. 12. 2010).
