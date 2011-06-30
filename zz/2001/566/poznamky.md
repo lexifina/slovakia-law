@@ -356,6 +356,8 @@
 
 - 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
+- 90aa) § 45 zákona č. 492/2009 Z. z.
+
 - 91) Občiansky súdny poriadok v znení neskorších predpisov.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
@@ -487,6 +489,10 @@
 - 119) Napríklad zákon č. 530/1990 Zb.
 
 - 120) § 42a a 42b Občianskeho zákonníka.
+
+- 120a) § 151me Občianskeho zákonníka v znení neskorších predpisov.
+
+- § 180 zákona č. 7/2005 Z. z.
 
 - 121) § 31 ods. 4 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 

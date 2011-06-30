@@ -41,3 +41,7 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 19. Smernica Európskeho parlamentu a Rady 2007/36/ES z 11. júla 2007 o výkone určitých práv akcionárov spoločností registrovaných na regulovanom trhu (Ú. v. EÚ L 184/17, 14. 7. 2007).
 
   - 20. Smernica Európskeho parlamentu a Rady 2009/111/ES zo 16. septembra 2009, ktorou sa menia a dopĺňajú smernice 2006/48/ES, 2006/49/ES a 2007/64/ES, pokiaľ ide o banky pridružené k ústredným inštitúciám, niektoré položky vlastných zdrojov, veľkú majetkovú angažovanosť, mechanizmy dohľadu a krízové riadenie (Ú. v. EÚ L 302, 17. 11. 2009).
+
+  - 21. Smernica Európskeho parlamentu a Rady 2009/44/ES zo 6. mája 2009, ktorou sa mení a dopĺňa smernica 98/26/ES o konečnom zúčtovaní v platobných systémoch a zúčtovacích systémoch cenných papierov a smernica 2002/47/ES o dohodách o finančných zárukách, pokiaľ ide o prepojené systémy a úverové pohľadávky (Ú. v. EÚ L 146, 10. 6. 2009).
+
+  - 22. Smernica Európskeho parlamentu a Rady 2010/76/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2006/48/ES a 2006/49/ES, pokiaľ ide o kapitálové požiadavky na obchodnú knihu a na resekuritizácie a preverovanie politík odmeňovania orgánmi dohľadu (Ú. v. EÚ L 329, 14. 12. 2010).
