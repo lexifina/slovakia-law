@@ -43,3 +43,5 @@
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 12) § 12 ods. 1 písm. b) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
+
+- 12a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
