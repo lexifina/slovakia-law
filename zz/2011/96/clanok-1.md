@@ -82,6 +82,20 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 
 - 13. V § 3 ods. 1 písm. h) sa slová „48 hodín“ nahrádzajú slovami „24 hodín“.
 
+- 14. V § 3 ods. 1 sa za písmeno h) vkladá nové písmeno i), ktoré znie:
+
+- „i)
+
+- oznámenie termínu začatia a ukončenia plánovaného obmedzenia alebo prerušenia distribúcie elektriny v lehote podľa osobitného predpisu<sup>3b</sup>) pred plánovaným začatím obmedzenia alebo prerušenia distribúcie elektriny,“.
+
+- Doterajšie písmená i) až m) sa označujú ako písmená j) až n).
+
+- Poznámka pod čiarou k odkazu 3b znie:
+
+- „3b)
+
+- § 24 ods. 2 písm. t) zákona č. 656/2004 Z. z. v znení neskorších predpisov.“.
+
 - 15. V § 3 ods. 1 písm. j) sa čiarka na konci textu nahrádza bodkočiarkou a pripájajú sa slová „termín sa považuje za dodržaný aj vtedy, ak bola distribúcia elektriny obmedzená alebo prerušená v lehote podľa oznámeného termínu, ale v skutočnosti došlo ku skráteniu tejto lehoty, alebo ak plánované obmedzenie alebo prerušenie distribúcie elektriny nebolo uskutočnené,“.
 
 - 16. V § 3 ods. 1 písm. l) sa za slová „odstránenie zistených nedostatkov vyúčtovania“ vkladá čiarka a slová „a odoslanie oznámenia, či podanie je oprávnené, alebo nie; ak je podanie oprávnené, obsahom stanoviska je aj informácia o zistených nedostatkoch a spôsobe vyrovnania rozdielu v platbách,“.
@@ -129,6 +143,38 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 - (3)
 
 - Ak dodávateľ elektriny na základe zmluvy poskytuje koncovému odberateľovi elektriny súčasne dodávku elektriny a distribúciu elektriny do odberného miesta, dlžnou sumou za dodávku elektriny a platbou za odobratú elektrinu podľa odseku 1 písm. b) sa rozumie aj dlžná suma za distribúciu elektriny a prístup do distribučnej sústavy a platba za distribúciu elektriny a prístup do distribučnej sústavy.“.
+
+- 22. Za § 4 sa vkladá § 4a, ktorý vrátane nadpisu znie:
+
+- „§ 4a
+
+- Štandard kvality služieb poskytovaných organizátorom krátkodobého trhu s elektrinou
+
+- Štandardom kvality služieb poskytovaných organizátorom krátkodobého trhu s elektrinou je
+
+- a)
+
+- uzatvorenie zmluvy o prístupe a podmienkach účasti na organizovanom krátkodobom trhu s elektrinou v lehote do päť dní pred nadobudnutím účinnosti zmluvy s účastníkom krátkodobého trhu s elektrinou, ktorý má uzatvorenú zmluvu o zúčtovaní odchýlky, zložil finančnú zábezpeku a splnil ďalšie obchodné podmienky organizátora krátkodobého trhu s elektrinou,
+
+- b)
+
+- vykonanie mesačného vyhodnotenia odchýlok a obstaranej regulačnej elektriny do desiateho kalendárneho dňa za predchádzajúci mesiac,
+
+- c)
+
+- vysporiadanie platieb za odchýlky so subjektmi zúčtovania a platieb za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny do 15 dní od mesačného vyhodnotenia odchýlok a obstaranej regulačnej elektriny,
+
+- d)
+
+- overenie správnosti vyhodnotenia zúčtovania odchýlok a obstaranej regulačnej elektriny podľa písmena b), odstránenie zistených nedostatkov a v prípade uznania reklamácie mesačného vyhodnotenia oznámenie subjektom zúčtovania a dodávateľom regulačnej elektriny opravené mesačné vyhodnotenie v lehote do 30 dní odo dňa doručenia žiadosti o overenie správnosti vyhodnotenia,
+
+- e)
+
+- vysporiadanie rozdielov zistených podľa písmena d) v lehote do 35 dní odo dňa doručenia žiadosti o overenie správnosti vyhodnotenia zúčtovania odchýlok a obstaranej regulačnej elektriny,
+
+- f)
+
+- dosiahnutie úrovne kvality služieb poskytovaných organizátorom krátkodobého trhu s elektrinou tak, aby výsledná hodnota vypočítaná podľa prílohy č. 12 bola najviac 5,00.“.
 
 - 23. V § 5 sa v prvej vete pred slovo „štandard“ vkladá slovo „splnený“.
 
