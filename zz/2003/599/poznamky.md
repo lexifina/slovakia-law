@@ -102,6 +102,8 @@
 
 - 23a) Zákon č. 280/2002 Z. z. v znení neskorších predpisov.
 
+- 23aa) § 52 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
 - 24) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
