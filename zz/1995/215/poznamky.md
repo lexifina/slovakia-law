@@ -38,6 +38,8 @@
 
 - 13a) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
 
+- 13b) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 15) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
