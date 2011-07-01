@@ -26,4 +26,6 @@
 
 - 12) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
 
+- 12a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 13) Čl. 69 ods. 5 a 6 Ústavy Slovenskej republiky.
