@@ -42,6 +42,8 @@
 
 - 17) § 31 zákona č. 36/2005 Z. z.
 
+- 17a) Napríklad § 24 zákona č. 36/2005 Z. z. v znení zákona č. 217/2010 Z. z.
+
 - 18) § 100 ods. 3 Občianskeho súdneho poriadku.
 
 - 19) § 39 ods. 3, § 57 ods. 4 a § 60 zákona č. 36/2005 Z. z.
@@ -74,7 +76,9 @@
 
 - 31) Nariadenie vlády Slovenskej republiky č. 716/2002 Z. z., ktorým sa vydáva zoznam bezpečných tretích krajín a bezpečných krajín pôvodu v znení nariadenia vlády Slovenskej republiky č. 288/2004 Z. z.
 
-- 32) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 31a) § 24a zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
+- 32) Zákon č. 447/2008 Z. z.
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
@@ -96,11 +100,15 @@
 
 - 36e) Zákon č. 330/2007 Z. z.
 
+- 36f) § 38 zákona č. 36/2005 Z. z.
+
 - 37) Dohovor o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
 - 38) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 38a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 38a) § 92 a 93 Trestného zákona.
+
+- 38b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 39) Zákon č. 36/2005 Z. z.
 
@@ -112,19 +120,25 @@
 
 - 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
-- 42a) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 532/2007 Z. z.
+- 42a) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 43) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických pracovníkov v znení neskorších predpisov.
+- 43) Vyhláška Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné predpoklady pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov.
 
-- 44) § 50, 101 a 102 zákona č. 36/2005 Z. z.
+- 43a) Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
+
+- 44) §101 a 102 zákona č. 36/2005 Z. z.
 
 - 44a) § 62 zákona č. 36/2005 Z. z.
 
-- 44b) Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich skratiek viažucich sa na odbornú spôsobilosť na výkon zdravotníckeho povolania.
+- 44b) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
+
+- 44c) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
 
 - 45) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 45a) § 33 a 34 zákona č. 36/2005 Z. z.
+
+- 45b) § 39 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 46) § 2 písm. a) zákona č. 601/2003 Z. z.
 
@@ -204,12 +218,14 @@
 
 - 73) § 12 ods. 2 až 4 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
 
-- 74) § 12 a 19 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
-
-- 74a) Zákon č. 317/2009 Z. z.
+- 74) § 12 a 19 zákona č. 317/2009 Z. z.
 
 - 75) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 76) § 84 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 77) § 29 ods. 1, ods. 2 prvá veta, ods. 3 až 19, § 43 ods. 1 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+
+- 78) Napríklad § 15 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
+
+- 79) § 20 zákona č. 71/1967 Zb.
