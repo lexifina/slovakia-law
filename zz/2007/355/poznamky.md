@@ -4,6 +4,10 @@
 
 - 2a) § 6 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
+- 2aa) § 11 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
+
+- 2ab) § 15 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
+
 - 3) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 4) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -13,6 +17,8 @@
 - 6) § 30 ods. 2 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - 7) § 7 ods. 4 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+
+- 7a) § 3 ods. 1 a § 3b zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 8) § 21 ods. 8 až 12 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
@@ -31,6 +37,8 @@
 - 12a) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
 
 - 13) Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovujú požiadavky na kozmetické výrobky v znení neskorších predpisov.
+
+- 13a) § 3 ods. 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
@@ -58,7 +66,7 @@
 
 - 23) § 26 zákona č. 131/2010 Z. z. o pohrebníctve.
 
-- 24) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
+- 24) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
 
 - 25) § 9 písm. h) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
 
@@ -152,7 +160,9 @@
 
 - 61) § 35 ods. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
 
-- 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+- 61a) § 6 až 9 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
+
+- 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 63) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 

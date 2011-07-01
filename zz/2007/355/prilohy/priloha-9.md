@@ -1,6 +1,6 @@
 Príloha č. 9 k zákonu č. 355/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 90/641/Euratom zo 4. decembra 1990 o prevádzkovej ochrane externých pracovníkov vystavených riziku pôsobenia ionizujúceho žiarenia počas ich činnosti v kontrolovaných pásmach (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 349, 13. 12. 1990).
 

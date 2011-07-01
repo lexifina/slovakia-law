@@ -932,7 +932,7 @@ Príloha č. 4 k zákonu č. 355/2007 Z. z.
 
       - n) systém zabezpečenia zdravotného dohľadu,
 
-      - o) systém identifikácie, analýzy a evidencie odchýlok od normálnych prevádzkových stavov a mimoriadnych udalostí,
+      - o) systém identifikácie, analýzy a evidencie odchýlok od normálnych prevádzkových stavov a ohrozeniach verejného zdravia,
 
       - p) zoznam prevádzkových predpisov dôležitých z hľadiska radiačnej ochrany,
 
