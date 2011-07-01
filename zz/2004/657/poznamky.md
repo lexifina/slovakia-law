@@ -1,4 +1,4 @@
-- 1) § 2 Obchodného zákonníka v znení neskorších predpisov.
+- 1) § 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a § 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
 
 - 2) § 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
@@ -32,9 +32,15 @@
 
 - 12b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
+- 12c) § 2 ods. 2 písm. b) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
+
+- 12d) § 2 ods. 2 písm. j) zákona č. 309/2009 Z. z.
+
 - 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 14) § 12 zákona č. 276/2001 Z. z. v znení zákona č. 442/2002 Z. z.
+
+- 14a) § 4 ods. 5 zákona č. 309/2009 Z. z.
 
 - 15) § 269 až 275 Obchodného zákonníka.
 
