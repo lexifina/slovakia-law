@@ -2556,6 +2556,46 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 5. Správny orgán správny poplatok podľa písmena k) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná z podnetu správneho orgánu. |
 
+    - Položka 149a
+
+    - Zverejnenie údajov v Obchodnom vestníku, ak ide o | | |
+
+    - a) | údaje podľa Obchodného zákonníka, zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, § 15c ods. 2 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov a podľa § 3 ods. 5 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov ..... | | 20 eur,
+
+    - b) | účtovné závierky, výročné správy a správy o hospodárení | |
+
+    - | 1. | súvahu a výkaz ziskov a strát z riadnej individuálnej účtovnej závierky a mimoriadnej individuálnej účtovnej závierky vrátane informácie, aký názor správa audítora obsahuje a skutočnosti, ktoré chcel audítor zdôrazniť a ktoré nemali vplyv na vyjadrenie jeho názoru podľa § 21 ods. 2 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov, súvahu a výkaz ziskov a strát z riadnej konsolidovanej účtovnej závierky a mimoriadnej konsolidovanej účtovnej závierky vrátane informácie, aký názor správa audítora obsahuje a skutočnosti, ktoré chcel audítor zdôrazniť a ktoré nemali vplyv na vyjadrenie jeho názoru podľa § 21 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov ..... | 99,50 eura,
+
+    - | 2. | výročnú správu Exportno-importnej banky Slovenskej republiky podľa § 34 ods. 2 zákona č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení zákona č. 567/2008 Z. z. ..... | 16,50 eura,
+
+    - | 3. | účtovnú závierku podľa § 19 ods. 12 zákona č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov, účtovnú závierku podľa § 5 ods. 10 zákona č. 385/2008 Z. z. o Tlačovej agentúre Slovenskej republiky a o zmene niektorých zákonov, účtovnú závierku podľa § 23 ods. 6 zákona č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov, účtovnú závierku podľa § 30 ods. 4 zákona č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov a výsledok hospodárenia podľa § 36 ods. 5 zákona č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov ..... | 10 eur,
+
+    - | 4. | účtovnú závierku neinvestičných fondov podľa § 24 ods. 3 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. a účtovnú závierku neziskových organizácií poskytujúcich všeobecne prospešné služby podľa § 33 ods. 4 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby ..... | 10 eur,
+
+    - | 5. | webové sídlo, na ktorom je zverejnená účtovná závierka podľa § 21 ods. 5 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov ..... | 10 eur,
+
+    - c) | špecifikáciu použitia prijatého podielu zaplatenej dane z príjmov fyzických osôb a právnických osôb podľa § 50 ods. 13 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov ..... | | 3,50 eura,
+
+    - d) | údaje zriaďovateľov stálych rozhodcovských súdov podľa zákona č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov a údaje zriaďovateľov mediačných centier podľa zákona č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov | |
+
+    - | 1. | údaje o zriadení stáleho rozhodcovského súdu alebo mediačného centra a ich pobočiek ..... | 20 eur,
+
+    - | 2. | prílohy k údajom týkajúcim sa rozhodcovského súdu, mediačného centra alebo ich pobočiek ..... | 166 eur,
+
+    - | 3. | zmeny v údajoch podľa prvého bodu ..... | 10 eur,
+
+    - | 4. | zmeny v údajoch podľa druhého bodu ..... | 16,50 eura,
+
+    - e) | výrok audítora k ročnej účtovnej závierke nadácie podľa zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov ..... | | 3,50 eura,
+
+    - f) | rozhodnutia orgánov verejnej moci, ak ich zasiela osoba iná ako tá, ktorá rozhodnutie vydala a ak táto osoba nie je oslobodená od poplatkovej povinnosti ..... | | 66,50 eura,
+
+    - g) | iné údaje ..... | | 20 eur,
+
+    - h) | oprava zverejnených údajov podľa § 8 ods. 2 zákona č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov ..... | | 3,50 eura.
+
+    - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6 a § 218o ods. 1 písm. a) Obchodného zákonníka. | | |
+
     - Položka 150
 
   - a) Vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia |

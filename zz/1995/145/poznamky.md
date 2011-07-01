@@ -28,6 +28,8 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
+- 6aa) § 4 ods. 4 zákona č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 8) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
@@ -220,7 +222,7 @@
 
 - 35) § 78 ods. 1 zákona č. 379/1997 Z. z.
 
-- 36) § 32 ods. 6 zákona č. 379/1997 Z. z.
+- 36) Napríklad § 10 ods. 6 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 11 ods. 6 zákona č. 213/1997 Z. z.
 
 - 36a) § 13 ods. 3 až 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
