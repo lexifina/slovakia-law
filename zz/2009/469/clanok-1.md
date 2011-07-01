@@ -12,6 +12,8 @@ Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektor�
 
 - Doterajšie odseky 8 až 11 sa označujú ako odseky 9 až 12.
 
+- 3. § 5a a 5b sa vrátane nadpisov vypúšťajú.
+
 - 4. Za § 5b sa vkladá § 5c, ktorý vrátane nadpisu znie:
 
 - „§ 5c
@@ -227,6 +229,14 @@ Zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektor�
 - „m)
 
 - vydáva a odníma poverenie fyzickej osobe alebo právnickej osobe podľa § 5a ods. 7 a 8,“.
+
+- 15. V § 38 sa vypúšťa písmeno m).
+
+- Doterajšie písmená n) a o) sa označujú ako písmená m) a n).
+
+- 16. V § 39 sa vypúšťa písmeno b).
+
+- Doterajšie písmená c) až u) sa označujú ako písmená b) až t).
 
 - 17. V § 39 sa vypúšťajú písmená p) a r).
 
