@@ -4,9 +4,7 @@
 
 - 3) § 5 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č. 117/2006 Z. z.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
-
-- Zákon č. 532/2010 Z. z.
+- 4) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov, zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov, zákon č. 532/2010 Z. z.
 
 - 5) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
