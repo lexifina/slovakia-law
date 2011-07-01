@@ -6,7 +6,9 @@
 
 - b) odvolanie starostu (§ 13a ods. 3),
 
-- c) petíciu skupiny obyvateľov obce aspoň 30 % oprávnených voličov.<sup>12</sup>)
+- c) petíciu skupiny obyvateľov obce aspoň 30 % oprávnených voličov,<sup>12</sup>)
+
+- d) zmenu označenia obce.
 
 (2) Obecné zastupiteľstvo vyhlási miestne referendum o rozdelení obce podľa odseku 1 písm. a), ak sú splnené podmienky rozdelenia uvedené v tomto zákone.
 
@@ -14,7 +16,7 @@
 
 (4) Obecné zastupiteľstvo môže vyhlásiť miestne referendum aj pred rozhodnutím o ďalších dôležitých veciach samosprávy obce (§ 4).
 
-(5) Obecné zastupiteľstvo vyhlási miestne referendum podľa odseku 1 písm. a) a b) a odseku 4 tak, aby sa uskutočnilo do 90 dní od schválenia uznesenia o vyhlásení miestneho referenda.
+(5) Obecné zastupiteľstvo vyhlási miestne referendum podľa odseku 1 písm. a), b) a d) a odseku 4 tak, aby sa uskutočnilo do 90 dní od schválenia uznesenia o vyhlásení miestneho referenda.
 
 (6) Po vyhlásení miestneho referenda obecné zastupiteľstvo bezodkladne zriadi na hlasovanie a sčítavanie hlasov komisiu pre miestne referendum a určí lehotu na jej prvé zasadnutie.
 

@@ -4,7 +4,7 @@
 
 - 1b) § 3 ods. 3 písm. d) zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
-- 1c) Zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
+- 1c) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
 
 - 1d) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
