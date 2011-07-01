@@ -40,6 +40,8 @@
 
 - 19) § 16, § 64 až 67 zákona č. 308/2000 Z. z. v znení zákona č. 206/2002 Z. z.
 
+- 19a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 20) § 13 zákona č. 424/1991 Zb. v znení neskorších predpisov.
 
 - 21) § 14 zákona č. 424/1991 Zb. v znení zákona č. 404/2002 Z. z.
