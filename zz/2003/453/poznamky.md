@@ -1,28 +1,14 @@
 - 1) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
+- 1a) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup na vykonávanie nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
 
 - 3) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
-- Zákon č. 281/2002 Z. z. o prídavku na dieťa a o príspevku k prídavku na dieťa v znení neskorších predpisov.
-
-- Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
-
-- Zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony.
-
-- Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti.
-
-- Zákon č. 236/1998 Z. z. o zaopatrovacom príspevku.
-
-- Zákon č. 238/1998 Z. z. o príspevku na pohreb.
-
-- Zákon č. 300/1999 Z. z. o príspevku na bývanie.
-
-- Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
-- Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 4) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení neskorších predpisov, zákon č. 238/1998 Z. z. o príspevku na pohreb v znení neskorších predpisov, zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení zákona č. 561/2008 Z. z., zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 554/2008 Z. z., zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 561/2008 Z. z. o príspevku na starostlivosť o dieťa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení zákona č. 513/2010 Z. z., nariadenie Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1) v platnom znení.
 
 - 4a) Napríklad zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
 
