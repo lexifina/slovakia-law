@@ -36,6 +36,8 @@
 
 - 17) § 16, § 64 až 67 zákona č. 308/2000 Z. z.
 
+- 17a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 20) § 136 ods. 4 Zákonníka práce.
 
 - 21) § 138 ods. 1 Zákonníka práce.
