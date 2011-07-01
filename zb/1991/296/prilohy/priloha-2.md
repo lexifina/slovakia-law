@@ -2888,7 +2888,7 @@
 
         - (iii) šesť mesiacov od dátumu, keď orgán pre medzinárodný predbežný prieskum prijal preklad predložený podľa pravidla 55.2.
 
-    - Pravidlo 70 Správa o medzinárodnom predbežnom prieskume na patentovateľnosť vypracovaná orgánom pre medzinárodný predbežný prieskum (Správa o medzinárodnom predbežnom prieskume)
+    - Pravidlo 70 Medzinárodná predbežná správa o patentovateľnosti vypracovaná orgánom pre medzinárodný predbežný prieskum (Správa o medzinárodnom predbežnom prieskume)
 
       - 70.1 Vymedzenie
 
@@ -2902,7 +2902,7 @@
 
         - (c) Ak sa orgán pre medzinárodný predbežný prieskum domnieva, že niektorá úprava presahuje rozsah vynálezu pri podaní medzinárodnej prihlášky, spracuje správu tak, akoby k úprave nedošlo, a uvedie to v správe. Uvedie aj dôvody, prečo podľa jeho mienky úprava rozsah presahuje.
 
-        - (c-bis) Ak boli zmenené nároky, opis alebo obrázky, ale k náhradnému listu alebo listom nebol doložený sprievodný list uvádzajúci podklady na úpravy v pôvodne podanej prihláške, ako sa vyžaduje podľa pravidla 46.5(b)(iii) na základe príslušného ustanovenia pravidla 66.8(c) alebo prípadne 66.8(a), môže sa správa vypracovať tak, ako keby sa úpravy nevykonali; v takom prípade sa to uvedie v správe.
+        - (c-bis) Ak boli upravené nároky, opis alebo obrázky, ale k náhradnému listu alebo listom nebol doložený sprievodný list uvádzajúci podklady na úpravy v pôvodne podanej prihláške, ako sa vyžaduje podľa pravidla 46.5(b)(iii) alebo podľa pravidla 46.5(b)(iii) použitého na základe pravidla 66.8(c), alebo prípadne 66.8(a), môže sa správa vypracovať tak, ako keby sa úpravy nevykonali; v takom prípade sa to uvedie v správe.
 
         - (d) Ak sa nároky vzťahujú na vynálezy, na ktoré sa nespracovala medzinárodná rešeršová správa, a neboli preto predmetom medzinárodného predbežného prieskumu, musí sa to v správe o medzinárodnom predbežnom prieskume uviesť.
 
@@ -2988,11 +2988,27 @@
 
       - 70.16 Prílohy k správe
 
-        - (a) K správe bude priložený každý náhradný list podľa pravidla 66.8 (a) alebo (b), ak nie je nahradený neskoršími náhradnými listami podľa pravidla 66.8 (a) alebo (b) alebo úpravami, ktoré spočívajú v zrušení celých listov podľa pravidla 66.8(b).
+        - (a) K správe sa musia priložiť nasledovné náhradné listy a listy:
+
+          - (i) každý náhradný list podľa pravidla 66.8 obsahujúci úpravy podľa článku 34 a každý list podľa pravidla 66.8(a), 66.8(b) a 46.5(b) použitého na základe pravidla 66.8(c);
+
+          - (ii) každý náhradný list podľa pravidla 46.5 obsahujúci úpravy podľa článku 19 a každý list podľa pravidla 46.5 a
+
+          - (iii) každý náhradný list podľa pravidla 26.4 použitého na základe pravidla 91.2, ktorý obsahuje opravu zjavných chýb autorizovanú týmto orgánom podľa pravidla 91.1(b)(iii), a každý list podľa pravidla 26.4 použitého na základe pravidla 91.2,
+
+        - ak žiadny takýto list nebol nahradený alebo považovaný za zrušený neskorším náhradným listom alebo zmenou, ktorej výsledkom je zrušenie celého listu podľa pravidla 66.8(b), a
+
+          - (iv) ak správa obsahuje údaj uvedený v pravidle 70.2(e), každý náhradný list a každý list týkajúci sa opravy zjavných chýb, ktorý sa nevzal do úvahy podľa pravidla 66.4bis.
 
       - (a-bis) Ak náhradné listy podľa pravidla 46.5(a) nie sú nahradené alebo považované za zrušené náhradnými listami podľa pravidla 66.8(c), musia byť priložené k správe. Ak náhradné listy podľa pravidla 66.8(c) nie sú nahradené neskôr predloženými listami podľa pravidla 66.8(c), musia byť priložené k správe. Sprievodné listy podľa pravidla 46.5 (b) alebo pravidla 66.8(a) alebo (c) sa k správe neprikladajú.
 
-        - (b) Ak napriek odsekom (a) a (a-bis) orgán pre medzinárodný predbežný prieskum usúdi, že príslušná úprava smerujúca k nahradeniu alebo zrušeniu presahuje rozsah opisu vynálezu pri podaní medzinárodnej prihlášky a správa obsahuje údaj podľa pravidla 70.2(c), každý nahradený alebo zrušený náhradný list uvedený v týchto odsekoch sa musí tiež priložiť k správe. V takomto prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
+        - (b) Bez ohľadu na odsek (a) každý nahradený alebo zrušený náhradný list uvedený v tomto odseku a každý list v tomto odseku, ktorý sa týka takéhoto náhradného alebo zrušeného listu, sa tiež priloží k správe vtedy, keď
+
+          - (i) orgán pre medzinárodný predbežný prieskum je toho názoru, že príslušné nahradenie alebo zrušenie úprav ide nad rámec opisu medzinárodnej prihlášky, tak ako bola podaná, a správa obsahuje údaj uvedený v pravidle 70.2(c);
+
+          - (ii) príslušné nahradenie alebo zrušenie úpravy nesprevádzal list označujúci podklad na zmenu v prihláške, tak ako bola podaná, a správa je vypracovaná, ako keby úprava nebola vykonaná, a obsahuje údaj uvedený v pravidle 70.2(c-bis).
+
+          - V takom prípade nahradený alebo zrušený náhradný list sa označí podľa administratívnych smerníc.
 
       - 70.17. Jazyky vyhotovenia správy a príloh
 
