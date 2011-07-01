@@ -28,7 +28,9 @@
 
 - 5) Vyhláška Federálneho ministerstva práce a sociálnych vecí č. 236/1988 Zb. o iných úkonoch vo všeobecnom záujme.
 
-- 5a) § 3 ods. 2 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+- 5a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
+- 5aa) § 3 ods. 2 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
 - 5b) Zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
