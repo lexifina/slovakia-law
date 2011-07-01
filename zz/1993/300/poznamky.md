@@ -12,6 +12,8 @@
 
 - 3c) § 16 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 36/2005 Z. z.
 
+- 3ca) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 3d) § 3 ods. 4 a § 18 ods. 1 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení zákona č. 14/2006 Z. z.
 
 - 4) § 10 Občianskeho zákonníka.
