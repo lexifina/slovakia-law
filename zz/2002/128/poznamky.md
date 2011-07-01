@@ -10,6 +10,8 @@
 
 - 6) Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov.
 
+- 6a) Zákon č. 161/2011 Z. z. o ochrane spotrebiteľa pri poskytovaní niektorých služieb cestovného ruchu a o zmene a doplnení niektorých zákonov.
+
 - 7) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
 
 - 7a) Zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
