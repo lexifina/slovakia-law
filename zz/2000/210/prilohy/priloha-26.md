@@ -1,3 +1,3 @@
 Príloha č. 26 k vyhláške č. 210/2000 Z. z.
 
-- VÁHY S AUTOMATICKOU ČINNOSŤOU DÁVKOVACIE PLNIACE [Príloha 26](../assets/b2e3d64d7387cb3e1013ca055ac9a4c49c869e4c1caa74cb1527f6607c867f03.pdf)
+- VÁHY S AUTOMATICKOU ČINNOSŤOU DÁVKOVACIE PLNIACE [Príloha 26](../assets/8adda054acab9d2311976eeeac44f285f5aa7647112a986a3f9320b7fca8aab4.pdf)

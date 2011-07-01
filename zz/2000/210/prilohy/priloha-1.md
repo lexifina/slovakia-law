@@ -50,11 +50,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.3.7 | Prepravné sudy s výnimkou sudov podľa bodu 1.3.6<sup>2</sup>) | áno | áno | 2 roky | 34
 
-    - 1.3.8 | Prepravné tanky na kvapaliny<sup>2</sup>) | | | |
-
-    - | a) cisterny | áno | áno | 4 roky | 34
-
-    - | b) odmerné nádrže na plavidlách | nie | áno | 12 rokov | 21
+    - 1.3.8 | Prepravné tanky na kvapaliny<sup>2</sup>) | áno | áno | 4 roky | 34
 
     - 1.3.9 | Stacionárne nádrže používané ako meradlá objemu<sup>2</sup>),<sup>3</sup>) | | | | 48
 

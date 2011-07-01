@@ -1,6 +1,6 @@
 Príloha č. 74 k vyhláške č. 210/2000 Z. z.
 
-- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. „Smernica Rady 71/316/EHS o zbližovaní právnych predpisov členských štátov, ktoré sa týkajú tak meradiel, ako aj metód metrologickej kontroly (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 1) v znení smernice Rady 72/427/EHS (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 1), v znení smernice Rady 83/575/EHS (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 7), v znení smernice Rady 87/354/EHS (Mimoriadne vydanie Ú. v. EÚ, kap.13./zv. 8), v znení smernice Rady 87/355/EHS (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 8) a v znení smernice Rady 88/665/EHS (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 9) a v znení nariadenia Rady ES č. 807/2003 zo dňa 14. 04. 2003 (Mimoriadne vydanie Ú. v. EÚ, kap.1/zv. 4).
 
@@ -37,3 +37,9 @@ Príloha č. 74 k vyhláške č. 210/2000 Z. z.
   - 17. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
 
   - 18. Smernica Komisie 2007/13/ES zo 7. marca 2007, ktorou sa mení a dopĺňa príloha II k smernici Rady 71/316/EHS o aproximácii právnych predpisov členských štátov o spoločných ustanoveniach pre meradlá a metódy metrologickej kontroly (Ú. v. EÚ L 73, 13. 3. 2007).
+
+  - 19. Smernica Rady 71/347/EHS z 12. októbra 1971 o aproximácii právnych predpisov členských štátov o meraní násypnej hustoty obilia (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 1).
+
+  - 20. Smernica Rady 86/217/EHS z 26. mája 1986 o aproximácii právnych predpisov členských štátov týkajúcich sa tlakomerov na meranie tlaku v pneumatikách motorových vozidiel (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 8).
+
+  - 21. Smernica Európskeho parlamentu a Rady 2011/17/EÚ z 9. marca 2011, ktorou sa zrušujú smernice Rady 71/317/EHS, 71/347/EHS, 71/349/EHS, 74/148/EHS, 75/33/EHS, 76/765/EHS, 76/766/EHS a 86/217/EHS týkajúce sa metrológie (Ú. v. EÚ L 71, 18. 3. 2011).

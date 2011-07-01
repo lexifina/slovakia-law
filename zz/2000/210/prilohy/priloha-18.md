@@ -1,3 +1,3 @@
 Príloha č. 18 k vyhláške č. 210/2000 Z. z.
 
-- TAXAMETRE [Príloha 18](../assets/9de8091488154a23ad239dfd2dfaafd1916db4a69c9df48e11a13c4e19a47cea.pdf)
+- TAXAMETRE [Príloha 18](../assets/728dd30a496705ff182dc4f10131bb16fe007cdf704dffd79bcf1447ca6be7e6.pdf)

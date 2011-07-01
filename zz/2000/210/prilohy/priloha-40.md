@@ -1,3 +1,3 @@
 Príloha č. 40 k vyhláške č. 210/2000 Z. z.
 
-- Neinvazívne meradlá tlaku krvi [Príloha č. 40 k vyhláške č. 210/2000 Z. z.](../assets/c2dbd6eb8d06547252ff1a550ebda70f190d57581ab86101803a6b5ce398b9ff.pdf)
+- Neinvazívne meradlá tlaku krvi [Príloha č. 40 k vyhláške č. 210/2000 Z. z.](../assets/1a1492ab29752195e207684fad1548abae62bbdf4d7afcc826191e203f5b9586.pdf)
