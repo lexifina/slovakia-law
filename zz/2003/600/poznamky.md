@@ -68,9 +68,15 @@
 
 - 19) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19a) § 45 ods. 1 zákona č. 305/2005 Z. z.
+- 19a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 18 ods. 3 písm. a) zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+- 19b) § 45 ods. 1 zákona č. 305/2005 Z. z.
+
+- Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 19c) § 5 ods. 11 a 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 19 až 26 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
@@ -89,5 +95,7 @@
 - § 78 ods. 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 22a) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 23) § 109 zákona č. 131/2002 Z. z.
