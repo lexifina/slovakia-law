@@ -14,6 +14,8 @@
 
 - 8) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
+- 8a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 9) § 3 ods. 2 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
 - 10) § 2 ods. 1 písm. b) zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
