@@ -118,6 +118,8 @@
 
 - 15ae) § 45 zákona č. 577/2004 Z. z.
 
+- 15af) § 42a zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
 - 15b) § 2 ods. 1 a § 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 15c) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
