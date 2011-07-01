@@ -22,6 +22,8 @@
 
 - 8) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
+- 8a) Zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín v znení neskorších predpisov.
+
 - 9) Zákon č. 110/1964 Zb. o telekomunikáciách v znení zákona č. 150/1992 Zb.
 
 - 10) § 28 až 33 zákona č. 333/2004 Z. z.
