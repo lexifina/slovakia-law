@@ -369,3 +369,43 @@ Príloha č. 11 k nariadeniu vlády č. 373/2008 Z. z. Zoznam preberaných práv
 74. Smernica Komisie 2011/33/EÚ z 8. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť 1-dekanol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 62, 9. 3. 2011).
 
 75. Smernica Komisie 2011/34/EÚ z 8. marca 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flurochloridón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 62, 9. 3. 2011).
+
+76. Vykonávacia smernica Komisie 2011/39/EÚ z 11. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fenazachín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 97, 12. 4. 2011),
+
+77. Vykonávacia smernica Komisie 2011/40/EÚ z 11. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť sintofén medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 97, 12. 4. 2011),
+
+78. Vykonávacia smernica Komisie 2011/41/EÚ z 11. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť ditianón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 97, 12. 4. 2011),
+
+79. Vykonávacia smernica Komisie 2011/42/EÚ z 11. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť flutriafol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 97, 12. 4. 2011),
+
+80. Vykonávacia smernica Komisie 2011/43/EÚ z 13. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť polysulfid vápenatý medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 100, 14. 4. 2011),
+
+81. Vykonávacia smernica Komisie 2011/44/EÚ z 13. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť azadirachtín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 100, 14. 4. 2011),
+
+82. Vykonávacia smernica Komisie 2011/45/EÚ z 13. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť diklofop medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 100, 14. 4. 2011),
+
+83. Vykonávacia smernica Komisie 2011/46/EÚ zo 14. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť hexytiazox medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 101, 15. 4. 2011),
+
+84. Vykonávacia smernica Komisie 2011/47/EÚ z 15. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť síran hlinitý medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 102, 16. 4. 2011),
+
+85. Vykonávacia smernica Komisie 2011/48/EÚ z 15. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť bromadiolón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/941/ES (Ú. v. EÚ L 102, 16. 4. 2011),
+
+86. Vykonávacia smernica Komisie 2011/49/EÚ z 18. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť pencykurón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 103, 19. 4. 2011),
+
+87. Vykonávacia smernica Komisie 2011/50/EÚ z 19. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť karbetamid medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 104, 20. 4. 2011),
+
+88. Vykonávacia smernica Komisie 2011/52/EÚ z 20. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť karboxín medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 105, 21. 4. 2011),
+
+89. Vykonávacia smernica Komisie 2011/53/EÚ z 20. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť dazomet medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 105, 21. 4. 2011),
+
+90. Vykonávacia smernica Komisie 2011/54/EÚ z 20. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť metaldehyd medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 105, 21. 4. 2011),
+
+91. Vykonávacia smernica Komisie 2011/55/EÚ z 26. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť paklobutrazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 106, 27. 4. 2011),
+
+92. Vykonávacia smernica Komisie 2011/56/EÚ z 27. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť cyprokonazol medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 108, 28. 4. 2011),
+
+93. Vykonávacia smernica Komisie 2011/57/EÚ z 27. apríla 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť fluometurón medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 108, 28. 4. 2011),
+
+94. Vykonávacia smernica Komisie 2011/58/EÚ z 10. mája 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom obnoviť zaradenie karbendazímu medzi účinné látky (Ú. v. EÚ L 122, 11. 5. 2011),
+
+95. Vykonávacia smernica Komisie 2011/60/EÚ z 23. mája 2011, ktorou sa mení a dopĺňa smernica Rady 91/414/EHS s cieľom zaradiť tebufenozid medzi účinné látky a ktorou sa mení a dopĺňa rozhodnutie Komisie 2008/934/ES (Ú. v. EÚ L 136, 24. 5. 2011).
