@@ -234,9 +234,13 @@ Príloha č. 1 k výnosu č. MF/016332/2010-132
 
     - 8.1.2 Kód ani obsah nepredpokladá, že určité tlačidlá klávesnice alebo myši existujú a majú priradenú určitú funkciu, ako napríklad F5 na obnovenie webovej stránky, F1 na nápovedu a podobne.
 
+    - 8.2 Poskytuje sa jednotný a jednoznačný mechanizmus ovládania z klávesnice.
+
     - 8.2.1 Všetky funkcie obsahu, ako aj všetky položky a aktívne prvky na webovej stránke možno obsluhovať a riadiť prostredníctvom klávesnice.
 
     - 8.2.2 Ak je presun na určitý prvok vykonateľný prostredníctvom klávesnice, je vykonateľný aj presun z daného prvku. Ak sú na tento presun potrebné iné klávesy, ako tabulátor s nezmenenou funkciou, šípky a podobne, je používateľ poučený o spôsobe presunu aktívneho zamerania mimo daného prvku.
+
+    - 8.3 Poskytuje sa viditeľné zameranie kurzora.
 
     - 8.3.1 Pre každé používateľské rozhranie ovládané z klávesnice sa poskytuje viditeľné zameranie kurzora, a to najmä na identifikáciu aktívneho zamerania navigačných prvkov.
 
@@ -336,11 +340,15 @@ Príloha č. 1 k výnosu č. MF/016332/2010-132
 
     - 12.4.4 Vizuálne umiestnenie popisného textu vedľa prvku formulára nie je dostačujúce.
 
+    - 12.5 Pri manuálnom vypĺňaní formulárových prvkov sa overuje správnosť obsahu.
+
     - 12.5.1 Ak je pri zadávaní textu alebo iného obsahu do príslušného vypĺňateľného prvku automaticky zistená chyba, chybná položka sa zreteľne označí a chyba je používateľovi popísaná vo forme textu.
 
   - Pravidlo 13. Poskytovanie prehľadného mechanizmu navigácie.
 
   - Poskytnutie prehľadného a úplného mechanizmu navigácie (orientačné informácie, navigačné panely, mapa webového sídla a podobne) je zamerané najmä na zvýšenie pravdepodobnosti, že každý na danom webovom sídle nájde to, čo tam hľadal.
+
+    - 13.1 Cieľ každého odkazu sa jasne identifikuje. Označenie každého odkazu výstižne popisuje jeho cieľ nezávisle od okolitáho kontextu. Odkazy sú jasne odlíšené od ostatného textu.
 
     - 13.1.1 Text odkazu je dostatočne zmysluplný, aby dával zmysel aj pri čítaní odkazu mimo kontextu, či už samostatne, alebo ako časť skupiny odkazov. Pre odkazy v plynulom texte postačuje zmysluplnosť z kontextu použitia v danom texte. Text odkazu je stručný a výstižný.
 
@@ -357,6 +365,8 @@ Príloha č. 1 k výnosu č. MF/016332/2010-132
     - 13.2.1 Na identifikáciu autora dokumentu, typu obsahu a podobne sa používa RDF.
 
     - 13.2.2 Niektorí HTML agenti používateľa dokážu vytvoriť navigačné nástroje zo vzťahov dokumentu popísaných pomocou prvku ‹link› a atribútov „rel“ alebo „rev“, a to napríklad rel=„next“, rel=„previous“, rel=„index“.
+
+    - 13.3 a) Poskytujú sa informácie o celkovom rozložení webovej stránky.
 
     - 13.3.1 Ak webové sídlo obsahuje viac ako 50 uverejnených informačných webových stránok, poskytuje sa mapa webového sídla a podobne.
 
@@ -400,6 +410,8 @@ Príloha č. 1 k výnosu č. MF/016332/2010-132
 
     - 13.10.2 Pri komplexnom ASCII umení sa preveruje adekvátnosť textového ekvivalentu.
 
+    - 13.11 Používateľ je vopred upozornený na odkaz, ktorý smeruje na obsah iného typu, ako je webová stránka. Taký odkaz je doplnený informáciou o type a veľkosti cieľového súboru.
+
     - 13.11.1 V HTML sa najmä pomocu atribútu „title“ prvku ‹a› uvádza informácia o type cieľového súboru (PDF, RTF a podobne) a o jeho veľkosti.
 
     - 13.12 Obsah ani kód webovej stránky nepredpokladá, že používateľ navštívil inú webovú stránku.
@@ -419,6 +431,8 @@ Príloha č. 1 k výnosu č. MF/016332/2010-132
     - 13.14.4 Zmena nastavenia určitej položky v používateľskom rozhraní nevyvoláva automatickú zmenu kontextu webovej stránky bez upozornenia používateľa.
 
     - 13.14.5 Zmena aktívneho zamerania kurzora nespôsobuje zmenu kontextu.
+
+    - 13.15 Webová stránka má zmysluplný názov, ktorý vystihuje jej obsah a účel.
 
     - 13.15.1 V HTML obsahuje prvok ‹title› v časti ‹head› výstižný názov konkrétnej webovej stránky, ktorý popisuje jeho obsah, zmysel alebo funkcionalitu, a to aj v súlade s celým webovým sídlom.
 
