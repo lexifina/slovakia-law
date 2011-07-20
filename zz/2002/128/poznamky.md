@@ -30,6 +30,8 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
 
+- 9c) Napríklad zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov, delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
+
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
 - 10a) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
@@ -54,7 +56,7 @@
 
 - 17) § 18 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
-- 17a) Napríklad zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon č. 264/1999 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení zákona č. 434/2004 Z. z.
+- 17a) Napríklad zákon č. 634/1992 Zb. v znení neskorších predpisov, zákon č. 264/1999 Z. z. v znení neskorších predpisov, zákon č. 178/1998 Z. z. v znení neskorších predpisov, zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení zákona č. 434/2004 Z. z., zákon č. 182/2011 Z. z.
 
 - 18) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
