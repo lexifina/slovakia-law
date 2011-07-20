@@ -6,8 +6,6 @@
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
-- 3) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 3a) Nariadenie Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci spoločenstva (Ú. v. ES L 257/2, 19. 10. 1968) v platnom znení.
 
 - 4) Obchodný zákonník.
@@ -48,11 +46,17 @@
 
 - 16) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 18) § 233 zákona č. 461/2003 Z. z.
+- 17) § 233 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 18a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+- Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18) § 30 ods. 3 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+
+- 18a) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
 - 18aa) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18b) § 7a ods. 1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 19) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
@@ -72,11 +76,17 @@
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 22a) § 23 ods. 6 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 22a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22aa) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+- 22b) § 20 ods. 3 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 22ab) § 20 ods. 3 zákona č. 48/2002 Z. z. v znení zákona č. 594/2009 Z. z.
+- 22c) § 30 zákona č. 48/2002 Z. z. v znení zákona č. 223/2011 Z. z.
+
+- 22d) § 23 ods. 6 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 22e) § 31 ods. 5 a 6 zákona č. 48/2002 Z. z. v znení zákona č. 223/2011 Z. z.
+
+- 22f) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
 - 23) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
@@ -95,6 +105,10 @@
 - 27) § 2 písm. e) zákona č. 480/2002 Z. z.
 
 - 28) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
+
+- 29) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - 30) Zákon č. 311/2001 Z. z. v znení neskorších predpisov.
 
@@ -205,5 +219,9 @@
 - 63) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 63a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+
+- 63aa) Čl. 107 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
+
+- 63ab) Napríklad nariadenie (ES) č. 1998/2006, nariadenie (ES) č. 800/2008.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.

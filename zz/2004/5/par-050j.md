@@ -16,19 +16,17 @@
 
 - c) právnická osoba, ktorá je správcom vodohospodársky významných vodných tokov alebo správcom drobných vodných tokov,<sup>56</sup>) a jej vnútorné organizačné jednotky,<sup>57</sup>)
 
-- d) právnická osoba založená štátom, ktorá je správcom odvodňovacích systémov vo vlastníctve štátu.
+- d) právnická osoba, ktorá je správcom odvodňovacích systémov.
 
 (4) Príspevok sa poskytuje najviac počas šiestich kalendárnych mesiacov. Príspevok sa poskytuje mesačne vo výške 95 % z celkovej ceny práce zamestnanca, najviac vo výške celkovej ceny práce vypočítanej zo sumy dvojnásobku životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného<sup>46e</sup>) platnej k prvému dňu kalendárneho mesiaca, za ktorý sa príspevok poskytuje.
 
 (5) Zamestnávateľovi podľa odseku 3 písm. a) sa jednorazovo poskytuje príspevok aj na úhradu časti nákladov na pracovné náradie potrebné na realizáciu opatrení na ochranu pred povodňami alebo na riešenie následkov mimoriadnej situácie vo výške 95 % preukázaných nákladov na pracovné náradie, najviac vo výške 40 eur na jedno vytvorené pracovné miesto.
 
-(6) U zamestnávateľa podľa odseku 3 písm. b) až d) sa postupuje v rozsahu a za podmienok podľa osobitného predpisu.<sup>58</sup>)
+(6) Zamestnávateľ môže o príspevok z dôvodu riešenia následkov mimoriadnej situácie požiadať najneskôr do šiestich mesiacov od vyhlásenia mimoriadnej situácie.
 
-(7) Zamestnávateľ môže o príspevok z dôvodu riešenia následkov mimoriadnej situácie požiadať najneskôr do šiestich mesiacov od vyhlásenia mimoriadnej situácie.
+(7) Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode má zamestnávateľ sídlo, ak o tento príspevok zamestnávateľ písomne požiada; zamestnávateľovi podľa odseku 3 písm. d) poskytuje príspevok úrad, v ktorého evidencii uchádzačov o zamestnanie bol vedený zamestnanec prijatý na vytvorené pracovné miesto. Príspevok sa poskytuje na základe uzatvorenej písomnej dohody podľa odseku 8.
 
-(8) Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode má zamestnávateľ sídlo, ak o tento príspevok zamestnávateľ písomne požiada; zamestnávateľovi podľa odseku 3 písm. d) poskytuje príspevok úrad, v ktorého evidencii uchádzačov o zamestnanie bol vedený zamestnanec prijatý na vytvorené pracovné miesto. Príspevok sa poskytuje na základe uzatvorenej písomnej dohody podľa odseku 9.
-
-(9) Dohoda podľa odseku 8 obsahuje
+(8) Dohoda podľa odseku 7 obsahuje
 
 - a) osobné údaje a identifikačné údaje účastníkov dohody,
 
@@ -58,4 +56,4 @@
 
 - n) ďalšie dohodnuté náležitosti.
 
-(10) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
+(9) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
