@@ -474,57 +474,61 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 24
 
-  - a) | Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
+  - a) Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
 
-  - | 1. podnikania | 232 eur
+  - 1. podnikania ..... | 232 eur
 
-  - | 2. zamestnania | 165,50 eura
+  - 2. zamestnania ..... | 165,50 eura
 
-  - | 3. sezónneho zamestnania | 33 eur
+  - 3. sezónneho zamestnania ..... | 33 eur
 
-  - | 4. štúdia a osobitnej činnosti | 99,50 eura
+  - 4. štúdia a osobitnej činnosti ..... | 99,50 eura
 
-  - | 5. zlúčenia rodiny | 132,50 eura
+  - 5. zlúčenia rodiny ..... | 132,50 eura
 
-  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 66 eur
+  - 6. plnenia služobných povinností civilnými zložkami ozbrojených síl ..... | 66 eur
 
-  - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 165,50 eura
+  - b) Žiadosť o udelenie prvého povolenia na trvalý pobyt ..... | 165,50 eura
 
-  - c) | Žiadosť o obnovenie povolenia na prechodný pobyt cudzincovi na účel |
+  - c) Žiadosť o obnovenie povolenia na prechodný pobyt cudzincovi na účel |
 
-  - | 1. podnikania | 132,50 eura
+  - 1. podnikania..... | 132,50 eura
 
-  - | 2. zamestnania | 99,50 eura
+  - 2. zamestnania ..... | 99,50 eura
 
-  - | 3. sezónneho zamestnania | 16,50 eura
+  - 3. sezónneho zamestnania..... | 16,50 eura
 
-  - | 4. štúdia a osobitnej činnosti | 33 eur
+  - 4. štúdia a osobitnej činnosti..... | 33 eur
 
-  - | 5. zlúčenia rodiny | 66 eur
+  - 5. zlúčenia rodiny..... | 66 eur
 
-  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 33 eur
+  - 6. plnenia služobných povinností civilnými zložkami ozbrojených síl..... | 33 eur
 
-  - d) | Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas | 165,50 eura
+  - d) Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas ..... | 165,50 eura
 
-  - e) | Vydanie dokladu o pobyte | 4,50 eura
+  - e) Vydanie dokladu o pobyte..... | 4,50 eura
 
-  - f) | Vydanie dokladu o pobyte ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad | 6,50 eura
+  - f) Vydanie dokladu o pobyte ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad..... | 6,50 eura
 
-  - g) | Žiadosť o udelenie tolerovaného pobytu | 99,50 eura
+  - g) Žiadosť o udelenie tolerovaného pobytu ..... | 99,50 eura
 
-  - h) | Žiadosť o predĺženie tolerovaného pobytu | 33 eur
+  - h) Žiadosť o predĺženie tolerovaného pobytu ..... | 33 eur
 
-  - i) | Potvrdenie o pobyte cudzinca na území Slovenskej republiky | 3 eurá
+  - i) Potvrdenie o pobyte cudzinca na území Slovenskej republiky ..... | 3 eurá
 
-  - j) | Vydanie cudzineckého pasu cudzincovi | 33 eur
+  - j) Vydanie cudzineckého pasu cudzincovi ..... | 33 eur
 
-  - k) | Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov | 13 eur
+  - k) Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov ..... | 13 eur
 
-  - l) | Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov | 8 eur
+  - l) Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov ..... | 8 eur
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) a c) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom.<sup>16a</sup>) 2. Od poplatkov podľa písmen a) až d), g) a h) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 3. Od poplatkov podľa písmen a) a c) tejto položky je oslobodené udelenie alebo obnovenie povolenia na pobyt štipendistov vlády Slovenskej republiky, ktorým bolo štipendium priznané. 4. Od poplatkov podľa písmen a) a c) tejto položky je na základe vzájomnosti oslobodené udelenie alebo obnovenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 5. Od poplatku podľa písmen g) a h) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b), d) a e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 6. Od poplatku podľa písmena j) tejto položky sú oslobodené osoby, ktorým bolo udelené povolenie na tolerovaný pobyt podľa § 43 ods. 1 písm. e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 7. Od poplatku podľa písmen j), k) a l) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b) a d) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým má byť cudzinecký pas vydaný podľa § 47 ods. 2 písm. b) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým bola poskytnutá doplnková ochrana podľa zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 8. Od poplatku podľa písmen b) a d) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 písm. a) a § 45a až 45d zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
+  - m) Žiadosť o vydanie modrej karty Európskej únie ..... | 165,50 eura
 
-  - Splnomocnenie Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti. Správny orgán môže vybrať poplatok podľa písmena f) tejto položky až do výšky štvornásobku sadzby, ak sa vydáva doklad o pobyte pre cudzinca na území Slovenskej republiky po druhýkrát, prípadne viackrát do jedného roka od vydania predošlého dokladu. | |
+  - n) Žiadosť o obnovenie modrej karty Európskej únie ..... | 99,50 eura
+
+  - Oslobodenie 1. Od poplatku podľa písmen a) a c) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom.<sup>16a</sup>) 2. Od poplatkov podľa písmen a) až d), g) a h) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 3. Od poplatkov podľa písmen a) a c) tejto položky je oslobodené udelenie alebo obnovenie povolenia na pobyt štipendistov vlády Slovenskej republiky, ktorým bolo štipendium priznané. 4. Od poplatkov podľa písmen a) a c) tejto položky je na základe vzájomnosti oslobodené udelenie alebo obnovenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 5. Od poplatku podľa písmen g) a h) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b), d) a e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 6. Od poplatku podľa písmena j) tejto položky sú oslobodené osoby, ktorým bolo udelené povolenie na tolerovaný pobyt podľa § 43 ods. 1 písm. e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 7. Od poplatku podľa písmen j), k) a l) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b) a d) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým má byť cudzinecký pas vydaný podľa § 47 ods. 2 písm. b) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým bola poskytnutá doplnková ochrana podľa zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 8. Od poplatku podľa písmen b) a d) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 písm. a) a § 45a až 45d zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. |
+
+  - Splnomocnenie Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti. Správny orgán môže vybrať poplatok podľa písmena f) tejto položky až do výšky štvornásobku sadzby, ak sa vydáva doklad o pobyte pre cudzinca na území Slovenskej republiky po druhýkrát, prípadne viackrát do jedného roka od vydania predošlého dokladu. |
 
     - Položka 26
 
@@ -4113,6 +4117,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 66 eur
 
   - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 165,50 eura
+
+  - c) | Žiadosť o vydanie modrej karty Európskej únie | 165,50 eura
 
   - Oslobodenie 1. Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 2. Od poplatku podľa písmena a) tejto položky je oslobodené udelenie povolenia na pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmena a) tejto položky je na základe vzájomnosti oslobodené povolenie na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 4. Od poplatkov podľa písmena b) sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 ods. 1 písm. a) a § 45b zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
 
