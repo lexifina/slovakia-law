@@ -26,7 +26,7 @@
 
 - 9a) § 4 ods. 3 písm. f) zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z.
 
-- 9aa) § 47a Občianskeho zákonníka.
+- 9aa) § 2 ods. 2, 4 a 5 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
 
@@ -35,6 +35,10 @@
 - § 4 ods. 4 a § 15 ods. 1 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 134/2004 Z. z.
 
 - 10a) Zákon č. 158/2011 Z. z. o podpore energeticky a environmentálne úsporných motorových vozidiel a o zmene a doplnení niektorých zákonov.
+
+- 10b) § 2 písm. a) zákona č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
+
+- 10c) Napríklad zákon č. 182/2011 Z. z., delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
 
 - 11) § 116 Občianskeho zákonníka.
 

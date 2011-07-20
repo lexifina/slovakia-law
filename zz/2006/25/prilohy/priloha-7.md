@@ -1,6 +1,6 @@
 Príloha č. 7 k zákonu č. 25/2006 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 2004/17/ES z 31. marca 2004 o koordinácii postupov obstarávania subjektov pôsobiacich v odvetviach vodného hospodárstva, energetiky, dopravy a poštových služieb (Ú. v. EÚ L 134, 30. 4. 2004, s. 1) v znení nariadenia Komisie (ES) č. 1874/2004 z 28. októbra 2004, ktorým sa menia a dopĺňajú smernice Európskeho parlamentu a Rady 2004/17/ES a 2004/18/ES, pokiaľ ide o ich prahy uplatňovania v oblasti postupov uzatvárania zmlúv (Ú. v. EÚ L 326, 29. 10. 2004, s. 17).
 
@@ -15,3 +15,7 @@ Príloha č. 7 k zákonu č. 25/2006 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 2007/66/ES z 11. decembra 2007, ktorou sa menia a dopĺňajú smernice Rady 89/665/EHS a 92/13/EHS, pokiaľ ide o zvýšenie účinnosti postupov preskúmania v oblasti zadávania verejných zákaziek (Ú. v. EÚ L 335, 20. 12. 2007)
 
   - 7. Smernica Európskeho parlamentu a Rady 2009/33/ES z 23. apríla 2009 o podpore ekologických a energeticky úsporných vozidiel cestnej dopravy (Ú. v. EÚ L 120, 15. 5. 2009).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2009/52/ES z 18. júna 2009, ktorou sa stanovujú minimálne normy pre sankcie a opatrenia voči zamestnávateľom štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na území členských štátov (Ú. v. EÚ L 168, 30. 6. 2009).
+
+  - 9. Smernica Európskeho parlamentu a Rady 2010/30/EÚ z 19. mája 2010 o udávaní spotreby energie a iných zdrojov energeticky významnými výrobkami na štítkoch a štandardných informáciách o výrobkoch (prepracované znenie) (Ú. v. EÚ L 153/1, 18. 6. 2010).
