@@ -14,7 +14,7 @@
 
 - c) nie je voči nemu vedený výkon rozhodnutia,<sup>14</sup>)
 
-- d) neporušil zákaz nelegálnej práce a nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>)
+- d) neporušil v predchádzajúcich troch rokoch zákaz nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>)
 
 - e) nemá evidované nedoplatky poistného na zdravotné poistenie, sociálne poistenie a príspevkov na starobné dôchodkové sporenie,
 
@@ -26,7 +26,7 @@
 
 - c) čestným vyhlásením žiadateľa, že voči nemu nie je vedený výkon rozhodnutia, ak ide o splnenie podmienky podľa odseku 4 písm. c),
 
-- d) potvrdením príslušného inšpektorátu práce,<sup>14c</sup>) nie starším ako tri mesiace, alebo čestným vyhlásením žiadateľa, že neporušil zákaz nelegálnej práce a nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>) ak ide o splnenie podmienky podľa odseku 4 písm. d),
+- d) potvrdením príslušného inšpektorátu práce<sup>14c</sup>) nie starším ako tri mesiace, že neporušil zákaz nelegálneho zamestnávania podľa osobitného predpisu,<sup>14b</sup>) ak ide o splnenie podmienky podľa odseku 4 písm. d),
 
 - e) potvrdením Sociálnej poisťovne a každej zdravotnej poisťovne, nie starším ako tri mesiace, ak ide o splnenie podmienky podľa odseku 4 písm. e).
 
@@ -36,6 +36,8 @@
 
 (8) Dotáciu nemožno poskytnúť ani použiť na splácanie úverov, pôžičiek a úrokov z prijatých úverov a pôžičiek.
 
-(9) Ustanovenia odsekov 1 až 6 sa nevzťahujú na dotácie poskytované z prostriedkov štátneho rozpočtu, určené na financovanie spoločných programov Slovenskej republiky a Európskej únie, na dotácie poskytované z prostriedkov štátneho rozpočtu, určené na financovanie účelov vyplývajúcich z medzinárodných zmlúv o poskytnutí grantu uzatvorených medzi Slovenskou republikou a inými štátmi a na dotácie poskytované z rozpočtovej rezervy predsedu vlády podľa § 10.
+(9) Ustanovenia odsekov 1 až 6 a 11 sa nevzťahujú na dotácie poskytované z prostriedkov štátneho rozpočtu, určené na financovanie spoločných programov Slovenskej republiky a Európskej únie, na dotácie poskytované z prostriedkov štátneho rozpočtu, určené na financovanie účelov vyplývajúcich z medzinárodných zmlúv o poskytnutí grantu uzatvorených medzi Slovenskou republikou a inými štátmi a na dotácie poskytované z rozpočtovej rezervy predsedu vlády podľa § 10.
 
 (10) Právnické osoby a fyzické osoby sú povinné na žiadosť orgánu oprávneného na výkon kontroly podľa osobitného predpisu<sup>47</sup>) preukázať účel použitia dotácie poskytnutej zo štátneho rozpočtu listinnými dôkazmi, ktorých obsah dokazuje skutočnosti vzťahujúce sa na použitie dotácie.
+
+(11) Právnické osoby a fyzické osoby - podnikatelia, ktoré porušili zákaz nelegálneho zamestnávania štátnych príslušníkov tretích krajín podľa osobitného predpisu,<sup>14ca</sup>) sú povinné vrátiť dotáciu podľa odseku 1 poskytnutú v období 12 mesiacov predchádzajúcich dňu nadobudnutia právoplatnosti rozhodnutia o uložení pokuty za porušenie zákazu nelegálneho zamestnávania, a to do 30 dní odo dňa nadobudnutia právoplatnosti tohto rozhodnutia.

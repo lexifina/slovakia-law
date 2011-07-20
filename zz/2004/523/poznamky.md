@@ -42,6 +42,8 @@
 
 - 14c) § 7 ods. 3 písm. n) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
+- 14ca) § 2 ods. 5 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
+
 - 14d) § 1 ods. 4 zákona č. 575/2001 Z. z. v znení zákona č. 403/2010 Z. z.
 
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
