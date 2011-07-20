@@ -1,6 +1,6 @@
 Príloha k zákonu č. 147/2001 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 2003/33/ES z 26. mája 2003 o aproximácii zákonov, iných právnych predpisov a správnych opatrení členských štátov týkajúcich sa reklamy a sponzorstva tabakových výrobkov (Ú. v. ES L 152, 20. 6. 2003).
 
@@ -11,3 +11,5 @@ Príloha k zákonu č. 147/2001 Z. z.
   - 4. Smernica Rady 84/450/EHS z 10. septembra 1984 o klamlivej a porovnávacej reklame (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 1; Ú. v. ES L 250, 19. 9. 1984) v znení smernice Európskeho parlamentu a Rady 97/55/ES zo 6. októbra 1997 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 290, 23. 10. 1997).
 
   - 5. Smernica Európskeho parlamentu a Rady 2005/29/ES z 11. mája 2005 o nekalých obchodných praktikách podnikateľov voči spotrebiteľom na vnútornom trhu, a ktorou sa mení a dopĺňa smernica Rady 84/450/EHS, smernice Európskeho parlamentu a Rady 97/7/ES, 98/27/ES a 2002/65/ES a nariadenie Európskeho parlamentu a Rady (ES) č. 2006/2004 (smernica o nekalých obchodných praktikách) (Ú. v. EÚ L 149/22, 11. 6. 2005).
+
+  - 6. Smernica Európskeho parlamentu a Rady 2010/30/EÚ z 19. mája 2010 o udávaní spotreby energie a iných zdrojov energeticky významnými výrobkami na štítkoch a štandardných informáciách o výrobkoch (prepracované znenie) (Ú. v. EÚ L 153/1, 18. 6. 2010).
