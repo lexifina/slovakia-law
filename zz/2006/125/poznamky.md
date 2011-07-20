@@ -1,5 +1,7 @@
 - 1) § 30 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
+- Zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
+
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
@@ -34,7 +36,9 @@
 
 - 15a) § 3 písm. l) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
-- 15aa) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
+- 15aa) § 5a ods. 3 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+
+- Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
 
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -44,17 +48,27 @@
 
 - 18) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- § 38 zákona č. 462/2007 Z. z.
+- § 7 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
-- § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z.
+- § 38 zákona č. 462/2007 Z. z. v znení neskorších predpisov.
 
-- 18a) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 18a) Napríklad zákon č. 523/2004 Z. z. v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
 - 18aa) § 34 ods. 1 písm. f) zákona č. 462/2007 Z. z.
 
+- 18ab) Napríklad zákon č. 182/2011 Z. z., delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
+
+- 18ac) § 7a ods.1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
+
+- 18ad) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
+
+- 18ae) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 18b) § 6 ods. 1 písm. h) zákona č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
-- 18ba) § 3 ods. 3 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2010 Z. z.
+- 18ba) § 3 ods. 3 zákona č. 82/2005 Z. z. v znení zákona č. 52/2010 Z. z.
+
+- 18bb) § 31 a 58 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18c) § 149 Zákonníka práce.
 
@@ -80,4 +94,4 @@
 
 - 26) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 27) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 314/2001 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 126/2006 Z. z.
+- 27) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 314/2001 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 126/2006 Z. z.

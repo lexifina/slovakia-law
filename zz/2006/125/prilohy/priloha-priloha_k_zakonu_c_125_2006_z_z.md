@@ -1,7 +1,11 @@
 Príloha k zákonu č. 125/2006 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 96/71/ES zo 16. decembra 1996 o vysielaní pracovníkov v rámci poskytovania služieb (Ú. v. ES L 018, 21. 1. 1997).
 
   - 2. Smernica Rady 89/391/EHS z 12. júna 1989 o zavádzaní opatrení na podporu zlepšenia bezpečnosti a zdravia pracovníkov pri práci (Ú. v. ES L 183, 29. 6.1989).
+
+  - 3. Smernica Európskeho parlamentu a Rady 2009/52/ES z 18. júna 2009, ktorou sa stanovujú minimálne normy pre sankcie a opatrenia voči zamestnávateľom štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na území členských štátov (Ú. v. EÚ L 168, 30. 6. 2009).
+
+  - 4. Smernica Európskeho parlamentu a Rady 2010/30/EÚ z 19. mája 2010 o udávaní spotreby energie a iných zdrojov energeticky významnými výrobkami na štítkoch a štandardných informáciách o výrobkoch (prepracované znenie) (Ú. v. EÚ L 153/1, 18. 6. 2010).
