@@ -232,6 +232,10 @@
 
 - 102a) § 64 ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 449/2008 Z. z.
 
+- 102aa) Zákon č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 104) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 105) Napríklad § 8 ods. 1 Trestného poriadku, zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
