@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 48/2002 Z. z. v znení neskorších predpisov
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE Týmto zákonom sa preberajú tieto právne akty:
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE Týmto zákonom sa preberajú tieto právne akty:
 
 - 1. Smernica Rady 2001/51/ES z 28. júna 2001, ktorou sa dopĺňajú ustanovenia článku 26 Dohovoru, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 (Ú. v. ES L 187, 10. 7. 2001).
 
@@ -23,3 +23,7 @@ Príloha č. 2 k zákonu č. 48/2002 Z. z. v znení neskorších predpisov
 - 10. Smernica Rady 2001/40/ES z 28. mája 2001 o vzájomnom uznávaní rozhodnutí o vyhostení štátnych príslušníkov tretích krajín (Mimoriadne vydanie Ú. v. ES, kap. 19/zv. 4; Ú. v. ES L 149, 2. 6. 2001).
 
 - 11. Smernica Európskeho parlamentu a Rady 2008/115/ES zo 16. decembra 2008 o spoločných normách a postupoch členských štátov na účely návratu štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na ich území (Ú. v. EÚ L 348, 24. 12. 2008).
+
+- 12. Smernica Rady 2009/50/ES z 25. mája 2009 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely vysokokvalifikovaného zamestnania (Ú. v. EÚ L 155, 18. 6. 2009).
+
+- 13. Smernica Európskeho parlamentu a Rady 2009/52/ES z 18. júna 2009, ktorou sa stanovujú minimálne normy pre sankcie a opatrenia voči zamestnávateľom štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na území členských štátov (Ú. v. EÚ L 168, 30. 6. 2009).

@@ -56,6 +56,12 @@
 
 - 12a) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
+- 12b) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
+
+- 12c) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12d) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13) Európska dohoda o pridružení uzatvorená medzi Európskymi spoločenstvami a ich členskými štátmi na strane jednej a Slovenskou republikou na strane druhej (oznámenie č. 158/1997 Z. z. v znení neskorších predpisov).
 
 - 14) Čl. 45 ods. 4. písm. a) Európskej dohody o pridružení uzatvorenej medzi Európskymi spoločenstvami a ich členskými štátmi na strane jednej a Slovenskou republikou na strane druhej.
@@ -71,6 +77,8 @@
 - 17aa) Čl. 8 Dohovoru o ochrane ľudských práv a základných slobôd (oznámenie č. 209/1992 Zb.).
 
 - 17b) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 17c) Čl. 1 nariadenia Rady (ES) 1030/2002 z 13. júna 2002, ktorým sa stanovuje jednotný formát povolení na pobyt pre štátnych príslušníkov tretích štátov. (Mimoriadne vydanie Ú. v. EÚ, kap. 19/ zv. 6; Ú. v. ES L 157, 15. 6. 2002) v platnom znení.
 
 - 18) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.
 
@@ -93,6 +101,8 @@
 - 21aa) Dohovor, ktorým sa vykonáva Schengenská dohoda zo 14. júna 1985 o postupnom zrušení kontrol na spoločných hraniciach, podpísaný v Schengene 19. júna 1990 (Mimoriadne vydanie Ú. v. EÚ, kap.19/zv. 2, Ú. v. ES L 239, 22. 9. 2000) v platnom znení.
 
 - 22) Rozhodnutie Rady 2004/573/ES z 29. apríla 2004 o organizácii spoločných letov na odsuny štátnych príslušníkov tretích krajín, na ktorých sa vzťahujú príkazy na individuálny odsun, z územia dvoch alebo viacerých členských štátov (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 07; Ú. v. EÚ L 261, 6. 8. 2004).
+
+- 22a) § 2 ods. 5 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 23) § 116 Občianskeho zákonníka.
 
