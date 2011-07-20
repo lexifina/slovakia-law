@@ -14,8 +14,6 @@
 
 - 8) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 8a) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
-
 - 9) Nariadenie Komisie (ES) č. 69/2001 z 12. 1. 2001 o uplatňovaní článkov 87 a 88 Zmluvy o založení Európskeho spoločenstva na pomoc de minimis (Úradný vestník Európskych spoločenstiev, L 010, 13/01/2001).
 
 - 9a) Napríklad čl. 3 nariadenia Komisie (ES) č. 70/2001 z 12. 1. 2001 o uplatňovaní článkov 87 a 88 Zmluvy o založení Európskeho spoločenstva na podporu štátu malým a stredným podnikateľom (Úradný vestník Európskych spoločenstiev, L 010, 13/01/2001), čl. 3 nariadenia Komisie (ES) č. 68/2001 z 12. 1. 2001 o uplatňovaní článkov 87 a 88 Zmluvy o založení Európskeho spoločenstva na vzdelávaciu pomoc (Úradný vestník Európskych spoločenstiev, L 010, 13/01/2001), čl. 3 nariadenia Komisie (ES) č. 2204/2002 z 12. 12. 2002 o uplatňovaní článkov 87 a 88 Zmluvy o založení Európskeho spoločenstva na štátnu pomoc pre zamestnanosť (Úradný vestník Európskych spoločenstiev, L 337, 13/12/2002).
