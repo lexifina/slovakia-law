@@ -6,17 +6,11 @@
 
 (3) V roku 2011 patrí mesačne členovi vlády plat vo výške 1,5-násobku platu poslanca zníženého ešte o 5 %.
 
-(4) V roku 2011 patrí mesačne sudcovi ústavného súdu plat vo výške 1,3-násobku platu poslanca zvýšeného o 5 %.
-
 (5) V roku 2011 patrí mesačne predsedovi kontrolného úradu plat vo výške 1,5-násobku platu poslanca zvýšeného o 5 %.
 
 (6) V roku 2011 patrí mesačne podpredsedovi kontrolného úradu plat vo výške 1,3-násobku platu poslanca zvýšeného o 5 %.
 
 (7) V roku 2011 patrí mesačne generálnemu prokurátorovi plat vo výške 1,3-násobku platu poslanca zvýšeného o 5 %.
-
-(8) V roku 2011 je priemerným platom sudcu plat poslanca zvýšený o 5 %.
-
-(9) V roku 2011 je základným platom sudcu Najvyššieho súdu Slovenskej republiky a sudcu Špecializovaného trestného súdu<sup>13</sup>) plat vo výške 1,3-násobku platu poslanca zvýšeného o 5 %.
 
 (10) V roku 2011 patrí štátnemu zamestnancovi vo verejnej funkcii v služobnom úrade, ktorým je ministerstvo,<sup>12</sup>) okrem veľvyslanca, a vedúcemu ostatného ústredného orgánu štátnej správy<sup>14</sup>) funkčný plat vo výške platu poslanca zníženého ešte o 5 %.
 
