@@ -30,7 +30,7 @@ K oznámeniu č. 638/2006 Z. z.
 
       - 5. obchodovaniu s ľuďmi a obmedzovaniu ich osobnej slobody,
 
-      - 6. nedovolenému prekračovaniu štátnej hranice,
+      - 6. organizovaniu nedovoleného prekročenia štátnej hranice,
 
       - 7. krádežiam umeleckých diel, dopravných prostriedkov alebo iných predmetov, obchodovaniu s nimi a proti ich pašovaniu,
 
@@ -41,6 +41,10 @@ K oznámeniu č. 638/2006 Z. z.
       - 10. ekonomickej trestnej činnosti,
 
       - 11. nedovolenej výrobe omamných a psychotropných látok a určených látok, ich nedovolenému dovozu, vývozu a obchodovaniu s nimi,
+
+      - 12. sexuálnemu násiliu, ohrozovaniu mravnosti a trestným činom súvisiacim s výrobou, rozširovaním alebo prechovávaním detskej pornografie,
+
+      - 13. trestným činom súvisiacim s fungovaním počítačových systémov alebo iných nosičov informácií.
 
       - 2. Zmluvné strany sa tiež zaväzujú spolupracovať v oblasti
 
@@ -64,13 +68,7 @@ K oznámeniu č. 638/2006 Z. z.
 
       - 2. ministerstvo financií,
 
-      - 3. ministerstvo dopravy, pôšt a telekomunikácií – generálny riaditeľ Železničnej polície,
-
-      - 4. ministerstvo obrany,
-
-      - 5. Slovenská informačná služba,
-
-      - 6. Národný bezpečnostný úrad,
+      - 3. Slovenská informačná služba,
 
     - – v Poľskej republike
 
@@ -122,7 +120,7 @@ K oznámeniu č. 638/2006 Z. z.
 
     - Článok 5
 
-      - Príslušné orgány zmluvných strán si budú vzájomne odovzdávať informácie potrebné na zmarenie trestných činov nedovoleného prekračovania štátnej hranice a na boj proti nim, a najmä informácie o organizátoroch tohto druhu trestných činov, metódach ich činnosti, vzory dokumentov oprávňujúcich prekračovať štátnu hranicu, odtlačky pečiatok na týchto dokumentoch, druhy víz a ich symboly.
+      - Príslušné orgány zmluvných strán si budú vzájomne odovzdávať informácie potrebné na zmarenie trestných činov organizovania nedovoleného prekračovania štátnej hranice a na boj proti nim, a najmä informácie o organizátoroch tohto druhu trestných činov, metódach ich činnosti, vzory dokumentov oprávňujúcich prekračovať štátnu hranicu, odtlačky pečiatok na týchto dokumentoch, druhy víz a ich symboly.
 
     - Článok 6 Príslušné orgány zmluvných strán v rozsahu uvedenom v článku 1 ods. 1 bode 11 a nezávisle od informácií uvedených v článku 3 tejto zmluvy budú
 
@@ -156,15 +154,15 @@ K oznámeniu č. 638/2006 Z. z.
 
     - Článok 8
 
-      - 1. Príslušníci príslušných orgánov jednej zo zmluvných strán, ktorí sledujú na jej území osobu v súvislosti s trestným činom, ktorý je extradičným trestným činom podľa právneho poriadku druhej zmluvnej strany, sú oprávnení pokračovať v jej sledovaní na území druhej zmluvnej strany so súhlasom príslušného orgánu tejto zmluvnej strany na základe vopred podanej žiadosti príslušného orgánu zmluvnej strany, ktorý podáva žiadosť. Taký súhlas možno viazať na splnenie určených podmienok.
+      - 1. Príslušníci príslušných orgánov jednej zo zmluvných strán, ktorí sledujú na jej území osobu v súvislosti s trestným činom, ktorý môže byť základom na vydanie európskeho zatýkacieho rozkazu, alebo extradíciu takej osoby, sú oprávnení pokračovať v jej sledovaní na území druhej zmluvnej strany so súhlasom príslušného orgánu tejto zmluvnej strany, a to na základe vopred podanej žiadosti. Taký súhlas možno viazať na splnenie určitých podmienok.
 
       - 2. Sledovanie sa uskutočňuje v spolupráci s príslušníkmi príslušných orgánov požiadanej zmluvnej strany. Na žiadosť treba sledovanie odovzdať príslušníkom príslušných orgánov tejto zmluvnej strany.
 
-      - 3. Žiadosť o udelenie súhlasu uvedeného v odseku 1 príslušný orgán žiadajúcej zmluvnej strany predkladá v Slovenskej republike ministerstvu vnútra, v Poľskej republike hlavnému veliteľovi Polície alebo šéfovi Agentúry vnútornej bezpečnosti a vo veciach súvisiacich s nedovoleným prekročením štátnej hranice na spoločnej štátnej hranici hlavnému veliteľovi Hraničnej stráže.
+      - 3. Žiadosť o udelenie súhlasu uvedeného v odseku 1 predkladá príslušný orgán žiadajúcej zmluvnej strany národnému úradu SIRENE požiadanej zmluvnej strany, ktorý zabezpečí jej odstúpenie orgánu príslušnému na jej vybavenie.
 
       - 4. Ak vzhľadom na mimoriadnu naliehavosť nemožno predložiť žiadosť o udelenie súhlasu uvedenú v odseku 1 skôr, môžu príslušníci pokračovať v sledovaní danej osoby na území druhej zmluvnej strany s dodržaním nasledujúcich podmienok:
 
-        - 1. prekročenie štátnej hranice treba bezodkladne, ešte počas sledovania, nahlásiť v Slovenskej republike miestne príslušnému riaditeľovi Krajského riaditeľstva Policajného zboru a v Poľskej republike miestne príslušnému veliteľovi Vojvodskej polície, šéfovi Agentúry vnútornej bezpečnosti alebo miestne príslušnému veliteľovi oddielu Hraničnej stráže,
+        - 1. prekročenie štátnej hranice treba bezodkladne, ešte počas sledovania, oznámiť národnému úradu SIRENE zmluvnej strany, ktorej príslušník vykonáva sledovanie, a národný úrad SIRENE tejto zmluvnej strany bezodkladne informuje národný úrad SIRENE druhej zmluvnej strany.
 
         - 2. žiadosť podľa odseku 3 spolu s uvedením dôvodov ospravedlňujúcich vykonávanie sledovania bez predchádzajúceho súhlasu treba zaslať bezodkladne. Sledovanie treba prerušiť, ak to požaduje príslušný orgán zmluvnej strany, na ktorej území sa sledovanie vykonáva, alebo ak po uplynutí piatich (5) hodín od prekročenia štátnej hranice chýba súhlas príslušného orgánu požiadanej zmluvnej strany.
 
@@ -184,13 +182,49 @@ K oznámeniu č. 638/2006 Z. z.
 
         - 7. príslušné orgány zmluvnej strany, ktorej príslušníci vykonávajú sledovanie, na žiadosť poskytujú pomoc pri vykonávaní ďalších úkonov na území druhej zmluvnej strany,
 
-        - 8. v prípade uvedenom v odseku 4 sa v sledovaní môže pokračovať iba v súvislosti s trestným činom, na ktorý sa vzťahuje trest odňatia slobody, ktorého horná hranica trestnej sadzby je najmenej tri roky, alebo výnimočný trest.
+      - 6. Sledovanie sú oprávnení vykonávať:
 
-      - 6. Sledovanie sú oprávnení vykonávať
+        - 1. zo strany Poľskej republiky príslušníci Polície, Agentúry vnútornej bezpečnosti a Hraničnej stráže,
 
-        - 1. zo strany Slovenskej republiky príslušníci Policajného zboru,
+        - 2. zo strany Slovenskej republiky príslušníci Policajného zboru a Slovenskej informačnej služby.
 
-        - 2. zo strany Poľskej republiky príslušníci Polície, príslušníci Agentúry vnútornej bezpečnosti a príslušníci Hraničnej stráže.
+    - Článok 8a
+
+      - 1. Príslušníci príslušných orgánov jednej zo zmluvných strán, ktorí prenasledujú osobu bezprostredne po spáchaní trestného činu alebo osobu, ktorá sa zúčastnila na spáchaní trestného činu, ktorý môže byť základom na vydanie európskeho zatýkacieho rozkazu, alebo extradíciu takej osoby, sú oprávnení pokračovať v jej prenasledovaní na území druhej zmluvnej strany. Môžu tiež pokračovať v prenasledovaní osoby, ktorá ušla z miesta zadržania, väzby, ústavu na výkon trestu odňatia slobody, ústavu na výkon trestu odňatia slobody pre mladistvých alebo z psychiatrického ústavu, do ktorého bola umiestnená na základe rozhodnutia súdu.
+
+      - 2. Príslušníci príslušných orgánov zmluvnej strany, ktorí vykonávajú prenasledovanie podľa odseku 1, upovedomia bezodkladne, podľa možností ešte pred prekročením štátnej hranice, najbližšie kontaktné miesto zriadené podľa článku 2 ods. 3 tejto zmluvy o mieste a čase prekročenia štátnej hranice prenasledovanou osobou a o príslušníkoch príslušných orgánov zmluvnej strany pokračujúcich v prenasledovaní, o ich výzbroji a technických prostriedkoch.
+
+      - 3. Príslušné orgány zmluvnej strany, na území ktorej sa v prenasledovaní pokračuje, bezodkladne po prijatí informácie o prenasledovaní prijmú opatrenia na jeho prevzatie.
+
+      - 4. Prenasledovanie podľa odsekov 1 a 2 sa vykonáva bez miestneho a časového obmedzenia.
+
+      - 5. V prenasledovaní sa môže pokračovať, ak príslušníci príslušných orgánov zmluvnej strany vykonávajúci prenasledovanie spĺňajú tieto podmienky:
+
+        - 1. riadia sa ustanoveniami tejto zmluvy a vnútroštátnymi právnymi predpismi tej zmluvnej strany, na území ktorej konajú, ako aj nariadeniami a pokynmi príslušných orgánov tejto zmluvnej strany,
+
+        - 2. majú služobné preukazy a preukážu sa nimi na každú výzvu príslušníkov príslušných orgánov zmluvnej strany, na území ktorej pokračujú v prenasledovaní,
+
+        - 3. majú prvky služobnej rovnošaty, ktoré ich umožňujú identifikovať, alebo používajú riadne označené motorové vozidlá.
+
+      - 6. Prenasledovanú osobu zadržia príslušníci príslušných orgánov zmluvnej strany, na území ktorej sa pokračuje v prenasledovaní. V prípade, ak títo príslušníci nemôžu zakročiť dostatočne rýchlo, príslušníci príslušných orgánov zmluvnej strany pokračujúci v prenasledovaní sú oprávnení zadržať prenasledovanú osobu a povinní bezodkladne ju odovzdať príslušníkom príslušných orgánov zmluvnej strany, na území ktorej v prenasledovaní pokračovali.
+
+      - 7. Príslušníci príslušných orgánov zmluvnej strany, ktorí podľa odseku 6 zadržali osobu, ktorá bola prenasledovaná, ju môžu podrobiť prehliadke s cieľom odobrať jej zbraň a iné nebezpečné predmety. Spolu s touto osobou sa odovzdajú aj predmety, ktoré sa jej odobrali.
+
+      - 8. Osobu zadržanú podľa odseku 6 môžu zadržiavať príslušné orgány zmluvnej strany, na území ktorej sa v prenasledovaní pokračovalo, v súlade s jej vnútroštátnymi právnymi predpismi. Pokiaľ osoba nemá štátnu príslušnosť zmluvnej strany, na území ktorej bola zadržaná, bude prepustená do šiestich hodín od zadržania, okrem prípadu, ak príslušné orgány tejto zmluvnej strany dostali pred uplynutím tejto lehoty žiadosť o vydanie alebo zadržanie v akejkoľvek forme za využitia dostupných technických prostriedkov. Do lehoty šiestich hodín podľa predchádzajúcej vety sa nezapočítava čas medzi polnocou a deviatou hodinou ráno.
+
+      - 9. Príslušníci príslušných orgánov zmluvnej strany pokračujúci v prenasledovaní nie sú oprávnení vstupovať do bytov a miest verejne neprístupných.
+
+      - 10. Prenasledovanie sa preruší na žiadosť príslušných orgánov zmluvnej strany, na území ktorej sa v ňom pokračuje. Ak bola žiadosť o prerušenie prenasledovania podaná príslušníkom pokračujúcim v prenasledovaní ústne, príslušné orgány zmluvnej strany, na území ktorej sa v prenasledovaní pokračovalo, bezodkladne zašlú príslušným orgánom druhej zmluvnej strany písomné potvrdenie tejto žiadosti.
+
+      - 11. Po skončení prenasledovania príslušníci príslušných orgánov zmluvnej strany, ktorí pokračovali v prenasledovaní, predložia príslušnému orgánu zmluvnej strany, na území ktorej sa v prenasledovaní pokračovalo, písomnú správu z vykonaných úkonov.
+
+      - 12. Príslušníci príslušných orgánov zmluvnej strany, ktorí pokračovali v prenasledovaní, sú povinní dostaviť sa na každú výzvu príslušných orgánov zmluvnej strany, na území ktorej bolo prenasledovanie vykonávané, na účel vysvetlenia skutočností súvisiacich s prenasledovaním.
+
+      - 13. Prenasledovanie sú oprávnení vykonávať:
+
+        - 1. zo strany Poľskej republiky príslušníci Polície, Hraničnej stráže, Agentúry vnútornej bezpečnosti a colnej služby,
+
+        - 2. zo strany Slovenskej republiky príslušníci Policajného zboru, Železničnej polície a colníci.
 
     - Článok 9
 
@@ -202,11 +236,11 @@ K oznámeniu č. 638/2006 Z. z.
 
       - 4. Žiadosť o udelenie súhlasu podľa odseku 1 príslušný orgán žiadajúcej zmluvnej strany zasiela v Slovenskej republike ministerstvu vnútra a v Poľskej republike hlavnému veliteľovi Polície, šéfovi Agentúry vnútornej bezpečnosti alebo hlavnému veliteľovi Hraničnej stráže.
 
-      - 5. Utajované sledovanie podľa odseku 1 sú oprávnení vykonávať
+      - 5. Utajované sledovanie podľa odseku 1 sú oprávnení vykonávať:
 
-        - 1. zo strany Slovenskej republiky príslušníci Policajného zboru,
+        - 1. zo strany Poľskej republiky príslušníci Polície, Agentúry vnútornej bezpečnosti a Hraničnej stráže,
 
-        - 2. zo strany Poľskej republiky príslušníci Polície, príslušníci Agentúry vnútornej bezpečnosti a príslušníci Hraničnej stráže.
+        - 2. zo strany Slovenskej republiky príslušníci Policajného zboru, Železničnej polície, Slovenskej informačnej služby a colníci.
 
     - Článok 10
 
@@ -222,19 +256,17 @@ K oznámeniu č. 638/2006 Z. z.
 
     - Článok 12
 
-      - 1. V rámci plnenia záväzkov podľa článku 1 príslušné orgány pre prihraničné územia zmluvných strán budú v rozsahu svojej pôsobnosti spolupracovať spôsobom ustanoveným v článkoch 3 až 7 tejto zmluvy.
+      - 1. V rámci plnenia záväzkov podľa článku 1 príslušné orgány pre prihraničné územia zmluvných strán v rozsahu svojej pôsobnosti spolupracujú spôsobom ustanoveným v článkoch 3 až 10 tejto zmluvy.
 
-      - Príslušnými orgánmi pre prihraničné územia v Slovenskej republike sú
+      - Príslušnými orgánmi pre prihraničné územia v Slovenskej republike sú:
 
       - 1. Krajské riaditeľstvo Policajného zboru v Žiline,
 
       - 2. Krajské riaditeľstvo Policajného zboru v Prešove,
 
-      - 3. odbor hraničnej a cudzineckej polície v Žiline,
+      - 3. oblastná správa Železničnej polície Žilina a oblastná správa Železničnej polície Košice, v rámci územnej pôsobnosti Krajských riaditeľstiev Policajného zboru v Žiline a v Prešove.
 
-      - 4. odbor hraničnej a cudzineckej polície v Prešove.
-
-      - Príslušnými orgánmi pre prihraničné územia v Poľskej republike sú
+      - Príslušnými orgánmi pre prihraničné územia v Poľskej republike sú:
 
       - 1. krajský veliteľ Polície v Katoviciach,
 
@@ -242,9 +274,9 @@ K oznámeniu č. 638/2006 Z. z.
 
       - 3. krajský veliteľ Polície v Rzeszowe,
 
-      - 4. veliteľ Karpatského oddielu Hraničnej stráže v Nowym Sączu,
+      - 4. veliteľ Karpatského oddielu Hraničnej stráže v Nowom S1cze,
 
-      - 5. veliteľ Bieszczadského oddielu Hraničnej stráže v Przemyśli.
+      - 5. veliteľ Bieszczadského oddielu Hraničnej stráže v Przemyšli.
 
       - 2. Príslušné orgány pre prihraničné územia sa môžu priamo kontaktovať a dohodnúť podrobné spôsoby spolupráce. V prípade potreby môžu uskutočňovať spoločné stretnutia s cieľom dohodnúť spôsob plnenia úloh v konkrétnych veciach a vyhodnotiť účinnosť spolupráce.
 
