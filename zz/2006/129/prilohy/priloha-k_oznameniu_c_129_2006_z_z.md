@@ -446,6 +446,20 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Uvedené orgány môžu delegovať právomoc na vydanie osvedčenia svojim územným orgánom
 
+    - Kirgizská republika
+
+    - Ministerstvo spravodlivosti
+
+    - Národný bezpečnostný úrad
+
+    - Generálna prokuratúra
+
+    - Sekcia justície
+
+    - Ministerstvo vnútra
+
+    - Národný úrad finančnej polície
+
     - Kolumbia
 
     - „Ministerio de Relaciones Exteriores"
