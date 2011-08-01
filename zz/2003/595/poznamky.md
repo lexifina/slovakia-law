@@ -194,7 +194,9 @@
 
 - 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 74aa) § 15 ods. 6 zákona č. 581/2004 Z. z. v znení zákona č. 530/2007 Z. z.
+- 74aa) § 15 ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 74ab) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 74b) § 55 ods. 2 zákona č. 594/2003 Z. z. v znení zákona č. 635/2004 Z. z.
 
@@ -306,17 +308,7 @@
 
 - 102) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
-- 102a) § 17 ods. 7 a § 19 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
-
-- 102b) § 9 ods. 7 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
-
-- § 42 ods. 4 písm. a) zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
-
-- § 57 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
-
-- 102c) § 27, 27a a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
-
-- 102d) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
+- 102a) § 6 ods. 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 103) Napríklad zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
@@ -370,7 +362,7 @@
 
 - 120b) § 8 zákona č. 561/2007 Z. z.
 
-- 120c) § 11 ods. 1 zákona č. 561/2007 Z. z.
+- 120c) § 10 ods. 4 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
 
 - 120d) Zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
