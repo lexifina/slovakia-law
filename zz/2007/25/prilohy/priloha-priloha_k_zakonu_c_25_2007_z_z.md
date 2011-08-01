@@ -1,6 +1,6 @@
 Príloha k zákonu č. 25/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 2004/52/ES z 29. apríla 2004 o interoperabilite elektronických cestných mýtnych systémov v Spoločenstve (Ú. v. EÚ L 200, 7. 6. 2004).
 
