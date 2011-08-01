@@ -20,6 +20,8 @@
 
 - Čl. III oznámenia Komisie o pojme koncentrácia podľa nariadenia Rady (EHS) č. 4064/89 o kontrole koncentrácií medzi podnikmi (Ú. v. EÚ C 66, 2. 3. 1998, str. 5).
 
+- 7aa) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
 - 9) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
