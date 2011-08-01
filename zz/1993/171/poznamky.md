@@ -128,11 +128,23 @@
 
 - § 28 zákona č. 335/1991 Zb. v znení neskorších predpisov.
 
-- 27c) § 8 a 9 zákona č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z.
+- 27ba) Napríklad § 17 ods. 3 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení zákona č. 256/1999 Z. z.
 
 - 27d) § 22 a 23 Trestného zákona.
 
+- 27da) Čl. 31 ods. 1 rozhodnutia Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 27db) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
+
+- 27dc) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+
+- 27dd) Napríklad rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+
 - 27e) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
+- 27ea) Napríklad Dohoda medzi Radou Európskej únie a Islandskou republikou a Nórskym kráľovstvom o pridružení týchto dvoch štátov pri vykonávaní, uplatňovaní a rozvoji schengenského acquis (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 32).
+
+- 27eb) Napríklad rozhodnutie Rady 2009/371/SVV zo 6. apríla 2009 o zriadení Európskeho policajného úradu (Europol) (Ú. v. EÚ L 121, 15. 5. 2009,), rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
 
 - 27f) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
@@ -156,12 +168,14 @@
 
 - 28i) § 55 ods. 1 písm. b) a c) zákona č. 610/2003 Z. z.
 
-- 28j) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 28j) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 28ja) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 863/2007 z 11. júla 2007, ktorým sa ustanovuje mechanizmus na zriadenie rýchlych pohraničných zásahových tímov a ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 2007/2004, pokiaľ ide o tento mechanizmus, a ktorým sa regulujú úlohy a právomoci prizvaných príslušníkov pohraničnej stráže (Ú. v. EÚ L 199/30, 31. 7. 2007).
 
 - 28jb) Čl. 17 ods. 1 rozhodnutia Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
 
 - 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 28jd) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.

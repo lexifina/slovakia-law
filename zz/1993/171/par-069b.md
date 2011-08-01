@@ -4,7 +4,7 @@
 
 - a) zlučovať v potrebnom rozsahu osobné údaje, ktoré sa získali na rozdielne účely,
 
-- b) spracúvať osobitné kategórie osobných údajov<sup>27c</sup>) takých osôb, ak je to nevyhnutné na ich vypátranie.
+- b) spracúvať osobitné kategórie osobných údajov takých osôb, ak je to nevyhnutné na ich vypátranie.
 
 (2) Po vypátraní nezvestnej osoby alebo hľadanej osoby Policajný zbor bez zbytočného odkladu zlikviduje osobné údaje takej osoby. Likvidácia osobných údajov sa nemusí vykonať, ak
 
