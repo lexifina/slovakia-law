@@ -1,21 +1,13 @@
-# § 55a Spracúvanie a poskytovanie údajov
+## Centrálny informačný systém prokuratúry
 
-(1) Prokuratúra spracúva podľa tohto zákona a osobitného zákona<sup>33</sup>) na účely trestného konania osobné údaje týkajúce sa trestne stíhaných osôb a poškodených, údaje o trestných činoch, ktoré boli alebo mali byť spáchané, a údaje s tým bezprostredne súvisiace získané pri plnení úloh, ktoré patria do jej pôsobnosti, a pri vzájomnej výmene informácií medzi orgánmi činnými v trestnom konaní a na účely právneho styku s cudzinou aj s Ministerstvom spravodlivosti Slovenskej republiky (ďalej len „informačný systém").
+# § 55a
 
-(2) Generálna prokuratúra spracúva podľa tohto zákona a osobitného zákona<sup>33</sup>) na účely trestného konania aj osobné údaje týkajúce sa trestne stíhaných osôb a poškodených, údaje o trestných činoch, ktoré boli alebo mali byť spáchané, a údaje s tým bezprostredne súvisiace získané z informačných systémov podriadených prokuratúr, a pri vzájomnej výmene informácií medzi orgánmi činnými v trestnom konaní a na účely právneho styku s cudzinou aj s Ministerstvom spravodlivosti Slovenskej republiky (ďalej len „centrálny informačný systém").
+(1) Prokuratúra spracúva informácie, osobné údaje a iné údaje (ďalej len „údaje“), ktoré sú potrebné na plnenie jej úloh ustanovených zákonom v trestnom konaní, súdnom konaní, správnom konaní, v konaní pred ústavným súdom, pri výkone dozoru nad zachovávaním zákonnosti orgánmi verejnej správy, pri výkone dozoru nad zachovávaním zákonnosti v miestach, kde sú držané osoby pozbavené osobnej slobody alebo osoby, ktorých osobná sloboda je obmedzená na základe rozhodnutia súdu alebo iného štátneho orgánu, pri právnom styku s cudzinou a pri plnení ďalších úloh vyplývajúcich z osobitných predpisov.
 
-(3) Osobnými údajmi týkajúcimi sa trestne stíhanej osoby sú meno, priezvisko, rodné priezvisko, rodné číslo a pobyt trestne stíhanej osoby, ako aj meno, priezvisko a rodné priezvisko matky trestne stíhanej osoby; ak trestne stíhaná osoba má zmenené meno alebo priezvisko, aj jej pôvodné meno a pôvodné priezvisko.
+(2) Údaje sú súčasťou Centrálneho informačného systému prokuratúry (ďalej len „centrálny informačný systém“). Centrálny informačný systém je informačným systémom verejnej správy.<sup>28a</sup>)
 
-(4) Osobnými údajmi týkajúcimi sa poškodeného sú
+(3) Prevádzku, správu a vývoj centrálneho informačného systému zabezpečuje generálna prokuratúra v spolupráci s podriadenými prokuratúrami.
 
-- a) meno, priezvisko, rodné priezvisko, rodné číslo a pobyt poškodeného; ak poškodený má zmenené meno alebo priezvisko, aj jeho pôvodné meno a pôvodné priezvisko,
+(4) Údaje, ktoré sú súčasťou centrálneho informačného systému sa vedú v listinnej podobe alebo v elektronickej podobe. Poskytovanie a sprístupňovanie údajov z centrálneho informačného systému alebo ich príjem sa môže uskutočňovať aj v elektronickej podobe.
 
-- b) údaje, ktoré odhaľujú rasový alebo etnický pôvod poškodeného, jeho politické názory, náboženskú vieru alebo svetonázor a členstvo v politických stranách alebo politických hnutiach, ak bol poškodený trestným činom pre svoje politické presvedčenie, národnosť, rasu, príslušnosť k etnickej skupine, vyznanie alebo preto, že je bez vyznania.
-
-(5) Údaje z informačného systému a centrálneho informačného systému sa poskytujú na účely trestného konania orgánom činným v trestnom konaní a na účely právneho styku s cudzinou a podľa osobitného zákona<sup>34</sup>) aj Ministerstvu spravodlivosti Slovenskej republiky.
-
-(6) Informačný systém a centrálny informačný systém sa vedie písomne a elektronickou formou. Vzájomná výmena informácií medzi orgánmi činnými v trestnom konaní a s Ministerstvom spravodlivosti Slovenskej republiky sa môže uskutočňovať aj elektronickou formou.
-
-(7) Informačný systém a centrálny informačný systém nepodliehajú registrácii podľa osobitného zákona.<sup>35</sup>)
-
-(8) Prokuratúra, ktorá vedie informačný systém a centrálny informačný systém, po splnení účelu bezodkladne zabezpečí likvidáciu osobných údajov.
+(5) Automatizované informačné systémy vrátane databáz v nich obsiahnutých, vytvorené a spravované generálnou prokuratúrou, ktoré sú súčasťou centrálneho informačného systému, sú vo vlastníctve štátu. Oprávnenia vyplývajúce z osobitného predpisu<sup>33</sup>) vykonáva generálna prokuratúra.

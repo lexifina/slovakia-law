@@ -52,11 +52,15 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 25a) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 26) § 24 ods. 3 zákona č. 370/1997 Z. z. o vojenskej službe.
 
 - 27) § 1 až 4 zákona Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov.
 
 - 28) Zákon č. 311/1999 Z. z. o registri trestov.
+
+- 28a) Zákon č. 275/2006 Z. z. v znení neskorších predpisov.
 
 - 29) § 4 ods. 3 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
 
@@ -72,11 +76,19 @@
 
 - 32) § 30 a 31 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
-- 33) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+- 33) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
 - 34) § 28 ods. 2 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
-- 35) § 25 ods. 3 písm. e) zákona č. 428/2002 Z. z.
+- 35) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 757/2004 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 36a) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
+
+- 36b) § 6 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+
+- 36c) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 37) § 24a až 24e zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
 
@@ -84,7 +96,7 @@
 
 - 39) § 29 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 411/2002 Z. z.
 
-- 40) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 40) Zákon č. 215/2004 Z. z. v znení neskorších predpisov.
 
 - 41) § 39 až 43 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe a § 59 až 72 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
