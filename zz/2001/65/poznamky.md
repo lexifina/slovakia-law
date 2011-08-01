@@ -1,4 +1,6 @@
-- 1) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 1) Zákon č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov.
+
+- 1a) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
 - 1a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
