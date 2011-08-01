@@ -100,6 +100,8 @@
 
 - 32) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
 
+- 32a) Zákon č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov.
+
 - 33) § 15 ods. 3 písm. a) zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
 
 - § 10 ods. 3 písm. a) zákona č. 331/2003 Z. z. o voľbách do Európskeho parlamentu.
