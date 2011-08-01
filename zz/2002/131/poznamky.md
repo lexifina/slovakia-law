@@ -134,6 +134,8 @@
 
 - 49b) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
+- 49c) § 29b ods. 6 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 50) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 51) § 2 ods. 1 písm. a) zákona č. 53/1964 Zb.
