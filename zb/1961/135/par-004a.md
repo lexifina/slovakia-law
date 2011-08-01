@@ -1,6 +1,6 @@
 # § 4a Cesty
 
-(1) Cesty vrátane ich prejazdných úsekov cez colné priestory a obce sú pozemné komunikácie zaradené do cestnej siete. Do cestnej siete patria aj pozemné komunikácie mimo územia zastavaného alebo určeného na súvislé zastavanie, ktoré spájajú železničné stanice, terminály kombinovanej dopravy, letiská pre pravidelnú verejnú dopravu a verejné prístavy s diaľnicami a cestami, ak neslúžia ako účelové komunikácie prevažne na prevádzku alebo na správu týchto zariadení.
+(1) Cesty vrátane ich prejazdných úsekov cez colné priestory a obce sú pozemné komunikácie zaradené do cestnej siete. Do cestnej siete patria aj pozemné komunikácie mimo súvisle zastavaného územia alebo územia určeného na zastavanie, ktoré spájajú železničné stanice, terminály kombinovanej dopravy, letiská pre pravidelnú verejnú dopravu a verejné prístavy s diaľnicami a cestami, ak neslúžia ako účelové komunikácie prevažne na prevádzku alebo na správu týchto zariadení.
 
 (2) Účelné usporiadanie cestnej siete sa zabezpečuje výstavbou nových ciest alebo zaradením miestnych komunikácií, prípadne účelových komunikácií do cestnej siete. Cesty, ktoré nie sú potrebné na účelné usporiadanie cestnej siete, môžu sa z tejto siete vyradiť a zaradiť do siete miestnych komunikácií alebo preradiť medzi účelové komunikácie alebo zrušiť.
 
