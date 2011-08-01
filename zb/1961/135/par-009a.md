@@ -6,4 +6,4 @@
 
 (3) Správcovia miestnych komunikácií zodpovedajú za škody, ktorých príčinou boli závady v schodnosti na priechodoch pre chodcov na miestnych komunikáciách a prejazdných úsekoch ciest cez mestá a obce, miestnych komunikácií určených výhradne pre chodcov a na chodníkoch, okrem prípadu, že preukážu, že nebolo v medziach možností tieto závady odstrániť, ani na ne predpísaným spôsobom upozorniť.
 
-(4) Vlastníci, správcovia alebo užívatelia nehnuteľností, ktoré v zastavanom území hraničia s cestou alebo miestnou komunikáciou, zodpovedajú za škody, ktorých príčinou boli závady v schodnosti na priľahlých chodníkoch, ktoré vznikli znečistením, poľadovicou alebo snehom a neboli bez prieťahov odstránené.
+(4) Vlastníci, správcovia alebo užívatelia nehnuteľností, ktoré v súvisle zastavanom území hraničia s cestou alebo miestnou komunikáciou, zodpovedajú za škody, ktorých príčinou boli závady v schodnosti na priľahlých chodníkoch, ktoré vznikli znečistením, poľadovicou alebo snehom a neboli bez prieťahov odstránené.
