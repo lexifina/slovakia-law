@@ -16,7 +16,13 @@
 
 - 1e) § 22 ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Zákon č. 256/1992 Zb. o ochrane osobných údajov v informačných systémoch.
+- 2) § 8 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+
+- 2a) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Trestný poriadok.
+
+- 2b) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 3) Nariadenie vlády Slovenskej republiky č. 54/1992 Zb. o jednorazovom mimoriadnom odškodnení za ujmu na zdraví alebo smrť v súvislosti s pomocou poskytnutou Policajnému zboru Slovenskej republiky.
 
