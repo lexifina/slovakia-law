@@ -44,11 +44,7 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
-- 11) § 1 ods. 1 písm. a) až d) zákona SNR č. 96/1991 Zb. o verejných kultúrnych podujatiach.
-
-- Zákon č. 81/1957 Zb. o koncertnej a inej hudobnej činnosti v znení zákona ČNR č. 127/1990 Zb. s pôsobnosťou pre Českú republiku.
-
-- Zákon ČNR č. 33/1978 Zb. o divadelnej činnosti (divadelný zákon) v znení zákona ČNR č. 122/1989 Zb. a zákona ČNR č. 127/1990 Zb.
+- 11) Zákon č. 249/2011 Z. z. o riadení bezpečnosti pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
 - 12) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
