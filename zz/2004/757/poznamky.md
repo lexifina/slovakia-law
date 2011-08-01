@@ -90,9 +90,9 @@
 
 - 32) § 120 a nasl. zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
-- 33) Zákon Národnej rady Slovenskej republiky č. 261/1995 Z. z. o štátnom informačnom systéme.
+- 33) § 2 písm. a) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
-- 34) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
+- 34) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 34a) § 3 a 7 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
@@ -102,17 +102,23 @@
 
 - 37) Zákon č. 523/2003 Z. z.
 
-- 38) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
+- 38) § 4 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
-- 39) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 39) Napríklad zákon č. 385/2000 Z. z. v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 40) Napríklad zákon č. 428/2002 Z. z., zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z., zákon č. 652/2004 Z. z. orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov.
+- 40) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 215/2004 Z. z. v znení neskorších predpisov, zákon č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov.
 
 - 41) Zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 42) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 42b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
+
+- 42c) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
+
+- 42d) § 6 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+
+- 42e) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
