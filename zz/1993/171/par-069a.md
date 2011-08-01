@@ -1,6 +1,6 @@
 # § 69a Spracúvanie osobných údajov pri plnení úloh Policajného zboru na účely trestného konania
 
-(1) Pri predchádzaní a odhaľovaní trestnej činnosti, zisťovaní páchateľov trestných činov a vyšetrovaní trestných činov (ďalej len „plnenie úloh Policajného zboru na účely trestného konania“) je Policajný zbor pri získavaní a spracúvaní osobných údajov povinný
+(1) Pri predchádzaní a odhaľovaní trestnej činnosti, zisťovaní páchateľov trestných činov, vyšetrovaní trestných činov, stíhaní trestných činov a výkone rozhodnutí v trestnom konaní (ďalej len „plnenie úloh Policajného zboru na účely trestného konania“) je Policajný zbor pri získavaní a spracúvaní osobných údajov povinný
 
 - a) písomne určiť účel, na ktorý sa majú osobné údaje spracúvať,
 
@@ -23,3 +23,5 @@
 (5) Policajný zbor nezlikviduje osobné údaje, ktoré sa uchovávajú v spisovom materiáli a nespracúvajú sa automatizovane.
 
 (6) Policajný zbor spracúva podľa odsekov 1 až 5 aj osobné údaje získavané pri predchádzaní, odhaľovaní a zisťovaní páchateľa inak trestného činu,<sup>27d</sup>) ktorého sa dopustila osoba trestne nezodpovedná pre nedostatok veku alebo pre nepríčetnosť.
+
+(7) Policajný zbor je oprávnený osobné údaje spracúvané podľa odsekov 1 a 6 ďalej spracúvať aj na iný účel, ak to je zlučiteľné s účelom, na ktorý sa zhromaždili, a ak spracúvanie je na tento iný účel potrebné a primerané. Policajný zbor môže osobné údaje spracúvané podľa odsekov 1 a 6 a osobné údaje, ktoré anonymizoval, spracúvať na historické, štatistické alebo vedecké účely.
