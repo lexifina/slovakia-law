@@ -1,1 +1,0 @@
-Rudolf Zajac v.r.
