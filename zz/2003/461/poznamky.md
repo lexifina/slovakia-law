@@ -198,6 +198,14 @@
 
 - 93a) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
 
+- 93aa) § 29b ods. 6 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- § 77b zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 34/2011 Z. z.
+
+- 93ab) § 77c ods. 5 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 93ac) § 29b ods. 13 zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
 - 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
