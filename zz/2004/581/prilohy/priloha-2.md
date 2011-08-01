@@ -1,4 +1,4 @@
-Príloha k zákonu č. 581/2004 Z. z.
+Príloha č. 2 k zákonu č. 581/2004 Z. z.
 
 - Zoznam preberaných právne záväzných aktov Európskej únie
 

@@ -1,6 +1,6 @@
 # § 6a Výdavky na prevádzkové činnosti zdravotnej poisťovne
 
-(1) Zdravotná poisťovňa môže v príslušnom kalendárnom roku vynaložiť na prevádzkové činnosti zdravotnej poisťovne výdavky najviac do výšky 3,5 % z úhrnu poistného pred prerozdelením poistného za príslušný kalendárny rok (ďalej len „ročný úhrn”).
+(1) Zdravotná poisťovňa môže v kalendárnom roku vynaložiť na prevádzkové činnosti výdavky najviac do výšky zodpovedajúcej podielu na úhrne poistného pred prerozdelením poistného za kalendárny rok (ďalej len „ročný úhrn“). Podiel na ročnom úhrne sa vypočíta podľa vzorca, ktorý je uvedený v prílohe č. 1, a zaokrúhľuje sa na dve desatinné miesta smerom nahor.
 
 (2) Výdavky na prevádzkové činnosti zdravotnej poisťovne podľa odseku 1 sú:
 
@@ -34,6 +34,8 @@
 
 - b) peňažných prostriedkov, ktoré zdravotná poisťovňa získala v príslušnom kalendárnom roku z predaja nepotrebného majetku zdravotnej poisťovne,
 
-- c) peňažných prostriedkov zodpovedajúcich kladnému rozdielu medzi sumou rovnajúcou sa 3,5 % z ročných úhrnov za minulé obdobia a výdavkami na prevádzkové činnosti zdravotnej poisťovne vynaloženými za minulé obdobia; minulými obdobiami sú kalendárne roky, ktoré predchádzajú príslušnému kalendárnemu roku,
+- c) peňažných prostriedkov zodpovedajúcich kladnému rozdielu medzi sumou rovnajúcou sa podielu na ročnom úhrne podľa odseku 1 za minulé obdobia a výdavkami na prevádzkové činnosti zdravotnej poisťovne vynaloženými za minulé obdobia; minulými obdobiami sú kalendárne roky, ktoré predchádzajú príslušnému kalendárnemu roku,
 
-- d) peňažných prostriedkov získaných z poplatkov za vydanie európskych preukazov zdravotného poistenia.<sup>18i</sup>)
+- d) peňažných prostriedkov získaných z poplatkov za vydanie európskych preukazov zdravotného poistenia,<sup>18i</sup>)
+
+- e) peňažných prostriedkov získaných z poplatkov za vydané výkazy nedoplatkov podľa osobitného predpisu.<sup>18j</sup>)

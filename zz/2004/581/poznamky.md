@@ -38,6 +38,8 @@
 
 - 16d) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
+- 16e) § 5 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
@@ -60,7 +62,11 @@
 
 - 18i) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
+- 18j) § 17a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 19) § 5 zákona č. 578/2004 Z. z.
+
+- 19a) § 6 zákona č. 578/2004 Z. z.
 
 - 20) § 7 ods. 1 písm. a) prvý bod a § 8 ods. 2 zákona č. 576/2004 Z. z.
 
@@ -75,6 +81,8 @@
 - 27) § 2 ods. 19 zákona č. 576/2004 Z. z.
 
 - 27a) § 2 ods. 1 písm. a) a § 3 zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
+
+- 27aa) § 27a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 27b) § 27a ods. 5 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
@@ -108,10 +116,6 @@
 
 - 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 35aaa) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- § 217 Obchodného zákonníka.
-
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
@@ -136,6 +140,10 @@
 
 - 39b) § 23 ods. 9 písm. d), § 27, § 27a a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
+- 39c) § 27 ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 39d) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
@@ -145,6 +153,8 @@
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41aaa) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009).
+
+- 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
@@ -226,7 +236,7 @@
 
 - 68) § 37 ods. 2 zákona č. 576/2004 Z. z.
 
-- 68a) § 13 ods. 2 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+- 68a) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 69) § 43 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
@@ -250,9 +260,13 @@
 
 - 80) § 566 až 576 Obchodného zákonníka.
 
-- 80a) § 27 a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+- 80a) § 28 ods. 1 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 80b) § 27 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 80b) § 27 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 80c) § 27 ods. 2 písm. a) zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 80d) § 5 ods. 2 a 3 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 81) § 99 ods. 3 písm. a) a § 107 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -306,9 +320,19 @@
 
 - 97) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
+- 97a) § 17b zákona č. 580/2004 Z. z. v znení zákona č. 499/2010 Z. z.
+
 - 98) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
 
 - 98a) § 566 až 576 Obchodného zákonníka.
+
+- 98b) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 98c) § 18 ods. 3 zákona č. 580/2004 Z. z.
+
+- 98d) § 524 až 530 Občianskeho zákonníka.
+
+- 98e) Zákon č. 278/1993 Z. z. v znení neskorších predpisov.
 
 - 99) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
 

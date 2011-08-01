@@ -11,9 +11,3 @@
 (5) Ak majetok zdravotnej poisťovne v likvidácii nestačí na úhradu pohľadávok podľa odseku 4 v celom rozsahu, uspokojujú sa pohľadávky pomerne.
 
 (6) Likvidátor zdravotnej poisťovne v likvidácii môže so súhlasom úradu vykonať aj iné úkony nevyhnutné na účely likvidácie zdravotnej poisťovne, ako sú uvedené v odsekoch 1 až 5.
-
-(7) Likvidátor zdravotnej poisťovne v likvidácii postúpi bez zbytočného odkladu preddavky na verejné zdravotné poistenie zaplatené za obdobie po vstupe do likvidácie príslušnej zdravotnej poisťovni, na ktorú úrad previedol poistný kmeň, a písomne oznámi túto skutočnosť úradu.
-
-(8) Likvidátor zdravotnej poisťovne v likvidácii spracuje podklady k ročnému zúčtovaniu poistného a k ročnému prerozdeleniu poistného ku dňu vstupu do likvidácie, ktoré postúpi zdravotnej poisťovni, na ktorú úrad previedol poistný kmeň, a oznámi túto skutočnosť úradu.
-
-(9) Likvidátor je oprávnený pohľadávky voči fyzickej osobe alebo právnickej osobe povinnej odvádzať poistné<sup>37</sup>) postúpiť len na právnickú osobu so 100 % majetkovou účasťou štátu podľa § 85g.
