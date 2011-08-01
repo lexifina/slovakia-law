@@ -46,9 +46,25 @@
 
 - 17b) § 70 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
-- 18) § 40 zákona č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 17c) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov, zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
-- 18a) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+- 17d) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+
+- 17e) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17f) § 7 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+
+- 17g) § 14 ods. 6 a 7 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- 17h) § 63 zákona č. 221/2006 Z. z., § 99 zákona č. 475/2005 Z. z. v znení zákona č. 93/2008 Z. z.
+
+- 17i) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
+
+- 18) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
+- 18a) § 6 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
+
+- 18b) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 19) § 273 až 295 zákona č. 140/1961 Zb. v znení neskorších predpisov.
 

@@ -1,43 +1,27 @@
-# § 65a Výmena informácií a osobných údajov so štátmi Európskej únie na účely predchádzania a odhaľovania trestnej činnosti, zisťovania páchateľov trestných činov a vyšetrovania trestných činov
+# § 65a Spracúvanie, poskytovanie a sprístupňovanie informácií a osobných údajov
 
-(1) Zbor je oprávnený pri plnení úloh na účely predchádzania a odhaľovania trestnej činnosti, zisťovania páchateľov trestných činov a vyšetrovania trestných činov žiadať informácie a osobné údaje od orgánu členského štátu Európskej únie oprávneného na predchádzanie a odhaľovanie trestnej činnosti, zisťovanie páchateľov trestných činov a vyšetrovanie trestných činov (ďalej len „orgán členského štátu Európskej únie“), ak možno predpokladať, že informácie a osobné údaje sú dostupné v tomto štáte.
+(1) Zbor spracúva osobné údaje bez súhlasu dotknutých osôb v súlade s osobitným predpisom.<sup>17f</sup>) Osobné údaje o uchádzačoch o vznik služobného pomeru alebo pracovného pomeru k zboru a osobné údaje o príslušníkoch zboru a zamestnancoch zboru spracúva zbor v rozsahu podľa osobitného predpisu.<sup>17g</sup>) Údaje o osobách, voči ktorým bolo začaté trestné stíhanie, sa zhromažďujú v rozsahu primeranom tomuto konaniu. Osobné údaje o osobách vo výkone väzby a výkone trestu odňatia slobody zbor spracúva v rozsahu zodpovedajúcom naplneniu účelu väzby a výkonu trestu odňatia slobody vymedzenom osobitnými predpismi.<sup>17h</sup>) V rozsahu zodpovedajúcom riadnemu uplatneniu právnych nárokov obetí trestných činov a iných poškodených osôb sa spracúvajú aj ich osobné údaje poskytnuté nimi v rámci trestného konania.
 
-(2) Ak boli informácie a osobné údaje, ktoré zbor prijal od orgánu členského štátu Európskej únie, poskytnuté s podmienkou, je zbor touto podmienkou viazaný.
+(2) Zbor poskytuje a sprístupňuje informácie a osobné údaje o osobách vo výkone väzby a výkone trestu odňatia slobody z informačného systému zboru ministerstvu, súdom, prokuratúre, Policajnému zboru, Slovenskej informačnej službe, Vojenskému spravodajstvu, Národnému bezpečnostnému úradu, Vojenskej polícii, obecnej polícii, Colnému riaditeľstvu, Úradu pre dohľad nad zdravotnou starostlivosťou, zdravotnej poisťovni alebo aj iným osobám za podmienok uvedených v odseku 3 v rozsahu nevyhnutnom na plnenie ich úloh podľa osobitného predpisu. O každom prenose osobných údajov sa vyhotoví úradný záznam.
 
-(3) Zbor poskytuje na účely predchádzania a odhaľovania trestnej činnosti, zisťovania páchateľov trestných činov a vyšetrovania trestných činov informácie a osobné údaje orgánu členského štátu Európskej únie
+(3) Zbor poskytuje informácie a osobné údaje aj iným osobám, ako sú uvedené v odseku 2, ak
 
-- a) na jeho požiadanie alebo
+- a) to ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná,
 
-- b) bez jeho požiadania, ak je predpoklad, že poskytnutím informácie alebo osobného údaja sa pomôže pri predchádzaní a odhaľovaní trestnej činnosti, zisťovaní páchateľa trestného činu a vyšetrovaní trestného činu, pre ktorý možno vydať európsky zatýkací rozkaz na základe jeho zaradenia do niektorej z kategórií podľa osobitného zákona.<sup>18a</sup>)
+- b) to ustanovuje zákon,
 
-(4) Na žiadosť o informácie a osobné údaje zbor odpovie
+- c) je to na prospech osoby, o ktorej sa vedú osobné údaje a táto osoba dala na poskytnutie súhlas.
 
-- a) najneskôr do ôsmich hodín, ak ide o naliehavú žiadosť o informácie alebo osobné údaje, ktorá sa týka trestného činu, pre ktorý možno vydať európsky zatýkací rozkaz na základe jeho zaradenia do niektorej z kategórií podľa osobitného zákona, ak sú požadované informácie a osobné údaje dostupné v informačných systémoch, do ktorých má zbor priamy prístup,
+(4) Zbor poskytne osobné údaje podľa odseku 3 na základe písomnej žiadosti. Ak tak ustanoví medzinárodná zmluva, ktorou je Slovenská republika viazaná, možno na jej základe poskytnúť osobné údaje i bez písomnej žiadosti.
 
-- b) najneskôr do siedmich dní, ak ide o nenaliehavú žiadosť o informácie a osobné údaje, ktorá sa týka trestného činu, pre ktorý možno vydať európsky zatýkací rozkaz na základe jeho zaradenia do niektorej z kategórií podľa osobitného zákona, ak sú požadované informácie a osobné údaje dostupné v informačných systémoch, do ktorých má zbor priamy prístup,
+(5) Písomná žiadosť o poskytnutie osobných údajov musí obsahovať
 
-- c) najneskôr do 14 dní, ak ide o bežnú žiadosť.
+- a) meno a priezvisko, rodné číslo, číslo občianskeho preukazu alebo iného dokladu preukazujúceho totožnosť a miesto trvalého pobytu žiadateľa; ak ide o právnickú osobu, jej obchodné meno, sídlo a identifikačné číslo,
 
-(5) Ak nie je možné odpovedať v lehotách podľa odseku 4, zbor poskytne žiadateľovi vysvetlenie, v ktorom mu oznámi dôvody predĺženia lehoty.
+- b) meno a priezvisko, dátum narodenia alebo rodné číslo osoby, ktorej osobné údaje sa požadujú oznámiť,
 
-(6) Ak ide o naliehavú žiadosť podľa odseku 4 písm. a), nesmie predĺženie lehoty na poskytnutie informácií presiahnuť tri dni.
+- c) odôvodnenie žiadosti alebo účel, na ktorý sa majú osobné údaje poskytnúť.
 
-(7) Ak informácia alebo osobný údaj, ktorý sa má poskytnúť orgánu členského štátu Európskej únie, bol získaný služobnou činnosťou, ktorej predchádzal súhlas alebo príkaz súdu alebo prokurátora, zbor na takéto poskytnutie potrebuje predchádzajúci súhlas súdu alebo prokurátora, na základe súhlasu alebo príkazu ktorého, bola informácia alebo osobný údaj získaný. Ak súd alebo prokurátor, na základe ktorého súhlasu alebo príkazu bola informácia alebo osobný údaj získaný, nepovolí poskytnutie informácie alebo osobného údaja orgánu členského štátu Európskej únie, zbor mu poskytnutie odmietne.
+(6) Príjemca údajov podľa odseku 3 je oprávnený ďalej spracúvať osobné údaje aj na iný účel, než na aký sa poskytli, len s predchádzajúcim súhlasom zboru.
 
-(8) Ak informáciu alebo osobný údaj, ktorý sa má poskytnúť orgánu členského štátu Európskej únie, získal zbor od iného členského štátu Európskej únie, zbor na takéto poskytnutie potrebuje predchádzajúci súhlas členského štátu Európskej únie, ktorý informáciu alebo osobný údaj poskytol. Ak informáciu alebo osobný údaj, ktorý sa má poskytnúť, získal zbor od štátu, ktorý nie je členským štátom Európskej únie a na poskytnutie informácie alebo osobného údaja je potrebný súhlas tohto štátu zbor o tento súhlas požiada.
-
-(9) Zbor môže odmietnuť poskytnutie informácie alebo osobného údaja podľa odseku 3 písm. a), ak by poskytnutie
-
-- a) ohrozilo bezpečnosť osôb,
-
-- b) poškodilo základné záujmy bezpečnosti Slovenskej republiky,
-
-- c) ohrozilo úspech prebiehajúceho odhaľovania, objasňovania alebo vyšetrovania trestného činu,
-
-- d) bolo zjavne neprimerané alebo neopodstatnené vzhľadom na účely, na ktoré sa požaduje,
-
-- e) sa týkalo trestného činu, za ktorý možno uložiť trest odňatia slobody s hornou hranicou trestnej sadzby jeden rok alebo menej.
-
-(10) Ministerstvo oznámi Rade Európskej únie a Európskej komisii medzinárodné zmluvy týkajúce sa výmeny informácií a osobných údajov do troch mesiacov od ich podpisu.
-
-(11) Podrobnosti o vymieňaní informácií a osobných údajov s orgánmi členských štátov Európskej únie ustanovuje všeobecne záväzný právny predpis, ktorý vydá Ministerstvo vnútra Slovenskej republiky.
+(7) Zbor môže pri poskytovaní osobných údajov príjemcom určiť obmedzenia vzťahujúce sa k ich ďalšiemu spracúvaniu. Zbor je zároveň viazaný obmedzeniami ďalšieho spracúvania osobných údajov, ktoré uplatnil poskytovateľ pri poskytnutí osobných údajov.
