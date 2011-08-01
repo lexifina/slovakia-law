@@ -585,3 +585,13 @@
   - Dublin 2
 
   - Ireland.
+
+  - Portugalsko:
+
+  - a) Dohovor pre Portugalsko nadobudol platnosť 1. augusta 2011.
+
+  - b) Ratifikačná listina Portugalska obsahuje tieto výhrady a vyhlásenia:
+
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na účel uplatnenia jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného je rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom uznateľné a vykonateľné v Portugalsku použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
+  - Podľa článku 29 dohovoru Portugalsko určilo ako ústredný orgán ministerstvo spravodlivosti.
