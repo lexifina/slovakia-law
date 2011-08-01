@@ -10,6 +10,8 @@
 
 - 4) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 4a) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z.
+
 - 5) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
@@ -88,6 +90,8 @@
 
 - 19) § 223 až 228a Zákonníka práce.
 
+- 19a) § 1 ods. 2 a 3, § 31, 33 a 69 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 20) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 21) § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
@@ -164,21 +168,35 @@
 
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
+- 52a) § 61g zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 52b) § 61f ods. 3 až 5 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
 - 53) § 7 zákona č. 581/2004 Z. z.
 
 - 53a) § 49 ods. 1 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 53aa) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
+- 53aaa) § 61 až 61h zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 53aab) § 61f ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
 - 53ab) § 39 ods. 7 zákona č. 140/1998 Z. z. v znení zákona č. 633/2004 Z. z.
 
 - 53ac) § 12 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+
+- 53ad) § 61f ods. 2 písm. a) zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 53b) § 267 zákona č. 73/1998 Z. z.
 
 - § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 53ba) § 84 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 53bb) § 61f ods. 6 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 53c) § 420 až 450 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 54) § 9 ods. 6 až 8 zákona č. 581/2004 Z. z.
 
@@ -187,6 +205,10 @@
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 57) Zákon č. 581/2004 Z. z.
+
+- 57a) § 61f ods. 8 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 57b) § 61h zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 58) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 

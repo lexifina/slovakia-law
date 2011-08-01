@@ -35,3 +35,5 @@
 (9) Na konanie o vydanie výkazu nedoplatkov sa nevzťahujú všeobecné predpisy o správnom konaní.
 
 (10) Právoplatný a vykonateľný výkaz nedoplatkov je exekučným titulom.<sup>51c</sup>)
+
+(11) Zdravotná poisťovňa môže vo výkaze nedoplatkov okrem výkazu nedoplatkov z ročného zúčtovania poistného podľa § 19 uplatniť poplatok za jeho vydanie; poplatok nesmie presiahnuť sumu 10 eur. Poplatok je príjmom zdravotnej poisťovne.

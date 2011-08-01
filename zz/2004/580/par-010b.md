@@ -2,7 +2,7 @@
 
 (1) Zárobková činnosť podľa tohto zákona je, ak osobitný predpis<sup>16h</sup>) alebo medzinárodná zmluva, ktorá má prednosť pred zákonmi Slovenskej republiky, neustanovuje inak, činnosť vyplývajúca z právneho vzťahu, ktorý zakladá
 
-- a) právo na príjem zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov z dohôd vykonávaných mimo pracovného pomeru,<sup>19</sup>)
+- a) právo na príjem zo závislej činnosti podľa osobitného predpisu<sup>18</sup>) okrem príjmov z dohôd vykonávaných mimo pracovného pomeru,<sup>19</sup>) odchodného, výsluhového príspevku alebo rekreačnej starostlivosti podľa osobitného predpisu,<sup>19a</sup>)
 
 - b) dosahovanie príjmu z podnikania a z inej samostatnej zárobkovej činnosti podľa osobitného predpisu<sup>20</sup>) okrem príjmu z výkonu činnosti osobného asistenta,<sup>21</sup>)
 
