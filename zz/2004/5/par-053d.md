@@ -1,12 +1,14 @@
 # § 53d Príspevok na vytvorenie nového pracovného miesta
 
-(1) Za aktívne opatrenie na trhu práce sa považuje aj investičná pomoc na podporu počiatočnej investície formou príspevku na vytvorenie nového pracovného miesta<sup>59aa</sup>) (ďalej len „príspevok“), na ktorú bolo vydané rozhodnutie o poskytnutí investičnej pomoci podľa osobitného predpisu.<sup>59ab</sup>)
+(1) Za aktívne opatrenie na trhu práce sa považuje aj investičná pomoc na podporu počiatočnej investície formou príspevku na vytvorenie nového pracovného miesta<sup>46</sup>) (ďalej len „príspevok“), na ktorú bolo vydané rozhodnutie o poskytnutí investičnej pomoci podľa osobitného predpisu.<sup>59ab</sup>)
 
-(2) Príspevok môže byť poskytnutý na čiastočnú úhradu oprávnených nákladov najviac vo výške a za podmienok podľa osobitného predpisu<sup>59aa</sup>) zamestnávateľovi, ktorý vytvorí nové pracovné miesto v okrese, v ktorom priemerná miera evidovanej nezamestnanosti vypočítaná z disponibilného počtu uchádzačov o zamestnanie zverejnená ústredím za kalendárny rok, ktorý bezprostredne predchádza kalendárnemu roku, v ktorom bola žiadosť o poskytnutie investičnej pomoci doručená Ministerstvu hospodárstva Slovenskej republiky, je vyššia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie. Splnenie podmienky priemernej miery evidovanej nezamestnanosti vypočítanej podľa prvej vety sa nevyžaduje pri podpore vytvárania technologických centier a centier strategických služieb.<sup>59aba</sup>)
+(2) Príspevok môže byť poskytnutý na čiastočnú úhradu oprávnených nákladov najviac vo výške a za podmienok podľa osobitného predpisu<sup>59aba</sup>) zamestnávateľovi, ktorý vytvorí nové pracovné miesto v okrese, v ktorom priemerná miera evidovanej nezamestnanosti vypočítaná z disponibilného počtu uchádzačov o zamestnanie zverejnená ústredím za kalendárny rok, ktorý bezprostredne predchádza kalendárnemu roku, v ktorom bol investičný zámer doručený Ministerstvu hospodárstva Slovenskej republiky alebo Ministerstvu dopravy, výstavby a regionálneho rozvoja Slovenskej republiky, ak ide o investičnú pomoc pre oblasť cestovného ruchu, je vyššia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie. Splnenie podmienky priemernej miery evidovanej nezamestnanosti vypočítanej podľa prvej vety sa nevyžaduje pri podpore vytvárania technologických centier a centier strategických služieb.<sup>59abb</sup>)
 
-(3) Príspevok poskytuje ústredie na základe zmluvy o poskytnutí príspevku na vytvorenie nového pracovného miesta uzatvorenej so zamestnávateľom.<sup>59ac</sup>)
+(3) Ak investičný zámer bude realizovaný v okrese, v ktorom priemerná miera evidovanej nezamestnanosti vypočítaná z disponibilného počtu uchádzačov o zamestnanie zverejnená ústredím za kalendárny rok, ktorý bezprostredne predchádza kalendárnemu roku, v ktorom bol investičný zámer doručený Ministerstvu hospodárstva Slovenskej republiky alebo Ministerstvu dopravy, výstavby a regionálneho rozvoja Slovenskej republiky, ak ide o investičnú pomoc pre oblasť cestovného ruchu, je nižšia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie, ale hraničí najmenej s dvoma okresmi, v ktorých je priemerná miera evidovanej nezamestnanosti vyššia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie, alebo najmenej v jednom zo susediacich okresov je priemerná miera evidovanej nezamestnanosti najmenej o 25 % vyššia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie, považuje sa tento okres za okres, v ktorom priemerná miera evidovanej nezamestnanosti je vyššia ako priemerná miera evidovanej nezamestnanosti v Slovenskej republike vypočítaná z disponibilného počtu uchádzačov o zamestnanie.
 
-(4) Zmluva podľa odseku 3 obsahuje
+(4) Príspevok poskytuje ústredie na základe zmluvy o poskytnutí príspevku na vytvorenie nového pracovného miesta uzatvorenej so zamestnávateľom.<sup>59ac</sup>)
+
+(5) Zmluva podľa odseku 4 obsahuje
 
 - a) osobné údaje a identifikačné údaje účastníkov zmluvy,
 
@@ -28,4 +30,4 @@
 
 - j) ďalšie dohodnuté náležitosti.
 
-(5) Zamestnávateľovi, ktorému bol poskytnutý príspevok, nemôže byť poskytnutý ďalší príspevok z prostriedkov určených na aktívne opatrenia na trhu práce po dobu účinnosti zmluvy uzatvorenej s ústredím na ten istý účel, na ktorý bol poskytnutý tento príspevok.
+(6) Zamestnávateľovi, ktorému bol poskytnutý príspevok, nemôže byť poskytnutý ďalší príspevok z prostriedkov určených na aktívne opatrenia na trhu práce po dobu účinnosti zmluvy uzatvorenej s ústredím na ten istý účel, na ktorý bol poskytnutý tento príspevok.

@@ -180,11 +180,13 @@
 
 - 58) Nariadenie (ES) č. 1998/2006.
 
-- 59aa) Nariadenie Komisie (ES) č. 1628/2006 z 24. októbra 2006 o uplatňovaní článkov 87 a 88 Zmluvy na národnú regionálnu investičnú pomoc (Ú. v. EÚ L 302, 1. 11. 2006).
-
 - 59ab) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
-- 59aba) § 5 a 6 zákona č. 561/2007 Z. z.
+- 59aba) Nariadenie (ES) č. 800/2008.
+
+- § 10 ods. 4 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
+
+- 59abb) § 5 a 6 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
 
 - 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
 
