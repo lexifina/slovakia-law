@@ -144,6 +144,8 @@
 
 - 45a) § 19 ods. 4 zákona č. 200/1998 Z. z.
 
+- 45b) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
 - 46) Napríklad § 58 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
 - 46a) Napríklad nariadenie Rady (ES) č. 515/1997 z 13. marca 1997 o vzájomnej pomoci medzi správnymi orgánmi členských štátov a o spolupráci medzi správnymi orgánmi členských štátov a Komisiou pri zabezpečovaní riadneho uplatňovania predpisov o colných a poľnohospodárskych záležitostiach (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 8; Ú. v. ES L 82, 22. 3. 1997) v platnom znení.
@@ -151,6 +153,14 @@
 - 46aa) § 4 ods. 1 písm. r) zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 46b) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
+
+- 46c) § 4 ods. 1 písm. k) zákona č. 428/2002 Z. z.
+
+- 46d) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení zákona č. 445/2008 Z. z.
+
+- 46e) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+- 46f) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 47) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
@@ -167,6 +177,8 @@
 - 53) § 2 zákona č. 610/2003 Z. z.
 
 - 54) § 5 ods. 1 zákona č. 610/2003 Z. z.
+
+- 54a) § 8 zákona č. 428/2002 Z. z.
 
 - 55) § 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 628/2005 Z. z.
 
