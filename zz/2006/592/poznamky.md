@@ -7,3 +7,5 @@
 - 3) § 117 a 275 zákona č. 461/2003 Z. z.
 
 - § 100 zákona č. 328/2002 Z. z.
+
+- 4) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
