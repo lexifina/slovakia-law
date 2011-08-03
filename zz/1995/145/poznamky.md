@@ -276,6 +276,10 @@
 
 - 39b) § 26 ods. 5 zákona č. 313/1999 Z. z.
 
+- 39ba) § 4 ods. 2 písm. d) zákona č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
+- 39bb) § 20 ods. 3 písm. b) zákona č. 137/2010 Z. z. o ovzduší.
+
 - 39c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/2001 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie odborných posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 399/2002 Z. z.
 
 - 39d) § 13 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
@@ -303,6 +307,20 @@
 - 39n) § 4 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
 - 39o) § 29 ods. 1 zákona č. 359/2007 Z. z.
+
+- 39p) § 7 zákona č. 258/2011 Z. z.
+
+- 39q) § 10 ods. 2 zákona č. 258/2011 Z. z.
+
+- 39r) § 10 ods. 4 zákona č. 258/2011 Z. z.
+
+- 39s) § 13 ods. 4 zákona č. 258/2011 Z. z.
+
+- 39t) § 8 ods. 8 zákona č. 258/2011 Z. z.
+
+- 39u) § 14 ods. 5 zákona č. 258/2011 Z. z.
+
+- 39v) § 18 ods. 3 zákona č. 258/2011 Z. z.
 
 - 40) § 10 ods. 3 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 

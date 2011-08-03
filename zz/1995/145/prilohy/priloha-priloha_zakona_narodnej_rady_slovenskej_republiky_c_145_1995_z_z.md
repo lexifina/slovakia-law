@@ -3150,9 +3150,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 168
 
-  - a) Vydanie rozhodnutia o schválení výpočtu zásob výhradného ložiska ............................................... | 33 eur
+  - a) Vydanie rozhodnutia o schválení výpočtu zásob výhradného ložiska .................................... | 33 eur
 
-  - b) Vydanie rozhodnutia o odpise zásob výhradných ložísk ..................................................................... | 16,50 eura
+  - b) Vydanie rozhodnutia o odpise zásob výhradných ložísk ...... | 16,50 eura
+
+  - c) Vydanie rozhodnutia o schválení záverečnej správy s výpočtom objemu prírodnej horninovej štruktúry a podzemného priestoru na účely trvalého ukladania oxidu uhličitého<sup>39ba</sup>) ...... | 33 eur
 
   - Splnomocnenie Správny orgán môže znížiť poplatok podľa písmena a) tejto položky až o 50 % príslušnej sadzby, ak ide o jednoduché výpočty zásob výhradných ložísk. |
 
@@ -3166,31 +3168,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 170
 
-  - a) Žiadosť o vydanie osvedčenia o odbornej spôsobilosti osôb vydávajúcich odborné posudky vo veciach ochrany ovzdušia a ochrany ozónovej vrstvy Zeme ..... | 99,50 eura
+  - a) Žiadosť o vydanie osvedčenia oprávneného posudzovateľa na vykonávanie posudkovej činnosti v oblasti ochrany ovzdušia, osvedčenia o odbornej spôsobilosti osoby oprávnenej vydávať odborné posudky vo veciach ochrany ozónovej vrstvy Zeme a osvedčenia zodpovednej osoby za vykonávanie oprávnených meraní, kalibrácií, skúšok a inšpekcií zhody ...... | 100 eur
 
-  - b) Žiadosť o predĺženie platnosti osvedčenia podľa písmena a) tejto položky ..... | 33 eur
+  - b) Žiadosť o predĺženie platnosti osvedčenia podľa písmena a) tejto položky ...... | 35 eur
 
-  - c) Žiadosť o udelenie oprávnenia právnickým osobám a fyzickým osobám na vykonanie merania emisií a imisií, ak nejde o koncesovanú živnosť – úradné meranie ..... | 165,50 eura
+  - c) Zmena priezviska, zníženie rozsahu alebo skrátenie času platnosti osvedčenia ...... | 5 eur
 
-  - d) Žiadosť o predĺženie platnosti oprávnenia podľa písmena c) tejto položky ..... | 33 eur
+  - d) Žiadosť o povolenie na jednotlivé oprávnené meranie, kalibráciu, skúšku alebo inšpekciu zhody ...... | 20 eur
 
-  - e) Zmena priezviska alebo trvalého pobytu fyzickej osoby, zmena obchodného mena, prípadne názvu a sídla právnickej osoby, zníženie rozsahu alebo skrátenie času platnosti osvedčenia alebo oprávnenia ..... | 3 eurá
+  - e) Žiadosť o povolenie vydania odborného posudku vo veciach ochrany ovzdušia alebo vo veciach ochrany ozónovej vrstvy Zeme vo výnimočnom prípade ...... | 10 eur
 
-  - f) Žiadosť o povolenie jednorazového oprávneného merania emisií alebo imisií vo výnimočnom prípade ..... | 16,50 eura
+  - Poznámky Odňatie, pozastavenie platnosti a zánik osvedčenia sa nespoplatňujú. |
 
-  - g) Žiadosť o povolenie vydania odborného posudku vo veciach ochrany ovzdušia vo výnimočnom prípade ..... | 6,50 eura
-
-  - Poznámky |
-
-  - 1. Odňatie a zánik osvedčenia alebo oprávnenia sa nespoplatňujú. |
-
-  - 2. Poplatok podľa tejto položky sa nevyberá, ak ide o koncesovanú živnosť – úradné meranie. |
-
-  - Splnomocnenie |
-
-  - 1. Správny orgán zníži poplatok podľa písmen a) a c) tejto položky až o 50 %, ak ide o rozšírenie rozsahu osvedčenia alebo oprávnenia. |
-
-  - 2. Správny orgán môže v odôvodnených prípadoch odpustiť poplatok podľa tejto položky. |
+  - Splnomocnenie 1. Správny orgán zníži poplatok podľa písmena a) tejto položky až o 50 %, ak ide o rozšírenie rozsahu osvedčenia. 2. Správny orgán môže odpustiť poplatok podľa písmen a) a b) tejto položky, ak ide o osvedčenie oprávneného posudzovateľa, ktorý je odborným konzultantom podľa osobitného predpisu.<sup>39bb</sup>) |
 
     - Položka 171
 
@@ -3535,6 +3525,34 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 194f
 
   - Vydanie rozhodnutia o zaradení odvalu do zodpovedajúcej kategórie<sup>39n</sup>) .......................................... | 15 eur
+
+    - Položka 194g
+
+  - Vydanie rozhodnutia o povolení na trvalé ukladanie oxidu uhličitého do geologického prostredia<sup>39p</sup>) .................................................................................................................. | 35 eur
+
+    - Položka 194h
+
+  - Vydanie rozhodnutia o schválení plánu monitorovania na účely trvalého ukladania oxidu uhličitého do geologického prostredia<sup>39q</sup>) .......................................... | 15 eur
+
+    - Položka 194i
+
+  - Vydanie rozhodnutia o schválení aktualizovaného plánu monitorovania na účely trvalého ukladania oxidu uhličitého do geologického prostredia<sup>39r</sup>) ................................................................ | 15 eur
+
+    - Položka 194j
+
+  - Vydanie rozhodnutia o schválení plánu nápravných opatrení<sup>39s</sup>) ........................................................... | 15 eur
+
+    - Položka 194k
+
+  - Vydanie rozhodnutia o zrušení povolenia na trvalé ukladanie oxidu uhličitého do geologického prostredia<sup>39t</sup>)............................................................................................................... | 15 eur
+
+    - Položka 194l
+
+  - Vydanie rozhodnutia o schválení plánu pre etapu po uzavretí úložiska<sup>39u</sup>) .......................................... | 15 eur
+
+    - Položka 194m
+
+  - Vydanie súhlasu k prístupu k prepravnej sieti a úložisku<sup>39v</sup>) .................................................................. | 35 eur
 
   - XIII. ČASŤ BEZPEČNOSŤ PRÁCE A TECHNICKÉ ZARIADENIA
 
