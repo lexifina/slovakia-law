@@ -142,4 +142,6 @@ Príloha č. 1 k zákonu č. 245/2003 Z. z.
 
     - 6.8. Prevádzky na výrobu uhlíka (vysokoteplotnou karbonizáciou uhlia) alebo elektrografitu vypaľovaním alebo grafitizáciou.
 
+    - 6.9. Prevádzky na zachytávanie prúdu oxidu uhličitého na účely trvalého ukladania do geologického prostredia podľa osobitného predpisu.<sup>18d</sup>)
+
   - Poznámka: Uvádzané prahové hodnoty sa všeobecne vzťahujú na projektované výrobné kapacity alebo iný ukazovateľ prevádzky. Ak prevádzkovateľ prevádzkuje viac prevádzok v rovnakom mieste, ktoré patria do kategórie prevádzok s rovnakým označením, kapacity výstupov z týchto prevádzok sa sčítajú.

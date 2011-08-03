@@ -24,6 +24,8 @@
 
 - 13) § 9 ods. 1 písm. c), e) a f) zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
+- 13a) § 20 ods. 4 písm. b) a q) zákona č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
 - 14) § 60 až 65, § 68 a 71 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 15) § 32 až 42 zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -45,6 +47,8 @@
 - 18b) Čl. 44 Ústavy Slovenskej republiky.
 
 - 18c) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
+
+- 18d) Zákon č. 258/2011 Z. z.
 
 - 19) § 9 ods. 10 zákona č. 261/2002 Z. z.
 
