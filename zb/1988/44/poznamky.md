@@ -114,6 +114,8 @@
 
 - Vyhláška Československej komisie pre atómovú energiu č. 67/1987 Zb. o zaistení jadrovej bezpečnosti pri zaobchádzaní s rádioaktívnymi odpadmi.
 
+- 18a) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
 - 19) Hospodársky zákonník č. 109/1964 Zb. v znení neskorších predpisov.
 
 - Občiansky zákonník č. 40/1964 Zb. v znení neskorších predpisov (úplné znenie č. 70/1983 Zb.).
