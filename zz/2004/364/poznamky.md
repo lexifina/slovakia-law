@@ -56,6 +56,8 @@
 
 - 21) Dohovor o spolupráci pri ochrane a trvalom využívaní Dunaja (oznámenie č. 356/2002 Z. z.).
 
+- 21a) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
 - 22) Zákon č. 503/2001 Z. z. o podpore regionálneho rozvoja.
 
 - 23) Napríklad zákon č. 17/1992 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov.

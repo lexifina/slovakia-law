@@ -39,3 +39,5 @@ Príloha č. 6 k zákonu č. 364/2004 Z. z.
   - 18. Smernica Európskeho parlamentu a Rady 1008/105/ES zo 16. decembra 2008 o environmentálnych normách kvality v oblasti vodnej politiky, o zmene a doplnení a následnom zrušení smerníc Rady 82/176/EHS, 83/513/EHS, 84/156/EHS, 84/491/EHS a 86/280/EHS a o zmene a doplnení smernice Európskeho parlamentu a Rady 2000/60/ES (Ú. v. EÚ L 348, 24. 12. 2008, s. 84 – 97).
 
   - 19. Smernica Európskeho parlamentu a Rady 2008/56/ES zo 17. júna 2008, ktorou sa ustanovuje rámec pre činnosť Spoločenstva v oblasti morskej environmentálnej politiky (rámcová smernica o morskej stratégii) ( Ú. v. EÚ L 164, 25. 6. 2008.).
+
+  - 20. Smernica Európskeho parlamentu a Rady 2009/31/ES z 23. apríla 2009 o geologickom ukladaní oxidu uhličitého a o zmene a doplnení smernice Rady 85/337/EHS, smerníc Európskeho parlamentu a Rady 2000/60/ES, 2001/80/ES, 2004/35/ES, 2006/12/ES, 2008/1/ES a nariadenia (ES) č. 1013/2006 (Ú. v. EÚ L 140, 5. 6. 2009).
