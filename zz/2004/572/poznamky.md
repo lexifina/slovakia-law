@@ -32,6 +32,8 @@
 
 - 10a) § 59 Obchodného zákonníka.
 
+- 10b) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
 - 11) Zákon č. 478/2002 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 401/1998 Z. z. v znení neskorších predpisov.
