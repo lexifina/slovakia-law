@@ -42,6 +42,8 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 16. | Ťažobné vrty (s výnimkou vrtov na skúmanie stability pôdy) najmä: - geotermálne vrty - vrty pre vodné zdroje - vrty na ukladanie rádioaktívneho odpadu | od 500 m bez limitu | do 500 m od 300 m
 
+  - 17. | Trvalé ukladanie oxidu uhličitého do geologického prostredia | bez limitu |
+
   - 2. Energetický priemysel
 
     - Rezortný orgán: Ministerstvo hospodárstva Slovenskej republiky
@@ -144,6 +146,8 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 13. | Potrubia na prepravu ropy alebo chemikálií - so svetlosťou - alebo s tlakom - alebo dĺžkou | od 500 mm od 1 MPa od 20 km | od 300 mm do 500 mm od 0,3 MPa do 1 MPa od 5 km do 20 km
 
+  - 13a. | Potrubia na prepravu oxidu uhličitého a pripojené kompresné stanice - so svetlosťou - alebo dĺžkou | od 800 mm od 40 km | do 800 mm do 40 km
+
   - 14. | Priemyselná výroba chemikálií a polotovarov neuvedených v položkách č. 3-8, 10-12 | | bez limitu
 
   - 5. Drevospracujúci, celulózový a papierenský priemysel
@@ -227,6 +231,8 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
   - 9. | Prevádzky na výrobu výrobkov z azbestu s ročnou produkciou finálnych výrobkov - trecie materiály - iné využitie azbestu | od 50 t/rok od 200 t/rok | od 5 t/rok do 50 t/rok od 50 t/rok do 200 t/rok
 
   - 10. | Ostatné priemyselné zariadenia neuvedené v položkách č. 1 - 9 s výrobnou plochou | | od 1 000 m<sup>2</sup>
+
+  - 11. | Zariadenia na zachytávanie prúdu oxidu uhličitého na účely trvalého ukladania oxidu uhličitého do geologického prostredia | od 1 500 000 t/rok | do 1 500 000 t/rok
 
   - 9. Infraštruktúra
 

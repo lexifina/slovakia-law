@@ -43,3 +43,7 @@ Príloha č. 13 k zákonu č. 24/2006 Z. z.
   - 16. Veľkosklady na skladovanie ropy, výrobkov z ropy a chemických výrobkov.
 
   - 17. Veľkoplošné odlesňovanie.
+
+  - 18. Zariadenia na zachytávanie prúdu oxidu uhličitého na účely trvalého ukladania oxidu uhličitého do geologického prostredia.
+
+  - 19. Potrubia s veľkou svetlosťou na prepravu oxidu uhličitého a pripojené kompresné stanice.
