@@ -6,6 +6,8 @@
 
 - 4) § 35 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
+- 4a) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
+
 - 5) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 5a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
