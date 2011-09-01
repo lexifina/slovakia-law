@@ -322,6 +322,8 @@
 
 - 97a) § 17b zákona č. 580/2004 Z. z. v znení zákona č. 499/2010 Z. z.
 
+- 97b) § 68 ods. 6 a 8 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 98) Zákon č. 176/2004 Z. z. o nakladaní s majetkom verejnoprávnych inštitúcií a o zmene zákona Národnej rady Slovenskej republiky č. 259/1993 Z. z. o Slovenskej lesníckej komore v znení zákona č. 464/2002 Z. z.
 
 - 98a) § 566 až 576 Obchodného zákonníka.
