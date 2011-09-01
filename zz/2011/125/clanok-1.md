@@ -12,6 +12,10 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 5. V § 43 ods. 15 sa vypúšťajú slová „§ 54 ods. 18, § 92 ods. 4 druhá veta,“.
 
+- 6. V § 63 ods. 9 sa v prvej vete slová „príslušnej licenčnej zmluvy ministerstvu; za správne a včasné doručenie takejto licenčnej zmluvy zodpovedá príslušná vysoká škola“ nahrádzajú slovami „úplnej informácie o uzatvorení príslušnej licenčnej zmluvy prevádzkovateľovi registra; za správnosť, úplnosť a včasné doručenie tejto informácie zodpovedá príslušná vysoká škola, ktorá je zároveň povinná samotnú licenčnú zmluvu uschovať a na žiadosť ministerstva ju ministerstvu riadne a včas doručiť“, vkladá sa nová druhá veta, ktorá znie: „Za sprístupnenie záverečnej práce, rigoróznej práce alebo habilitačnej práce, ku ktorej nie je uzatvorená licenčná zmluva, zodpovedá vysoká škola.“ a v tretej vete sa slová „v zastúpení ministerstvom“ nahrádzajú slovami „v zastúpení príslušnou vysokou školou; zodpovednosť za škodu, ktorá vznikla sprístupnením záverečnej práce, rigoróznej práce alebo habilitačnej práce verejnosti v centrálnom registri záverečných, rigoróznych a habilitačných prác bez zodpovedajúcej licenčnej zmluvy, nesie výlučne príslušná vysoká škola“.
+
+- 7. V § 63 ods. 12 sa bodka na konci nahrádza čiarkou a pripájajú sa tieto slová: „pričom Slovenská republika, ministerstvo, prevádzkovateľ registra ani príslušná vysoká škola nezodpovedajú za zverejnenie záverečnej práce, rigoróznej práce alebo habilitačnej práce a jej sprístupnenie verejnosti, ak bola zverejnená alebo sprístupnená verejnosti v rozpore s podmienkami podľa § 62a, a ani za škodu spôsobenú takým zverejnením alebo sprístupnením verejnosti.“.
+
 - 8. V § 73 sa za odsek 5 vkladá nový odsek 6, ktorý znie:
 
 - „(6)
