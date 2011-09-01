@@ -16,6 +16,10 @@ Príloha k vyhláške č. 319/2008 Z. z.
 
 - Jazyková škola s oprávnením vykonávať štátne jazykové skúšky | Vysvedčenie o štátnej jazykovej skúške – základná štátna jazyková skúška Vysvedčenie o štátnej jazykovej skúške – všeobecná štátna jazyková skúška Vysvedčenie o štátnej jazykovej skúške – špeciálna štátna jazyková skúška | B2 C1 C2
 
+- International House, s. r. o. Námestie SNP 14 811 06 Bratislava | |
+
+- The University of Pécs – Foreign Language Centre as the International ECL Secretariat Szántó K. J. u. 1/b H-7633 Pécs Hungary zastúpenie v Slovenskej republike: Jazykové centrum Filozofickej fakulty Univerzity Konštantína Filozofa v Nitre Štefánikova 67 949 74 Nitra | Certificate of Attainment in Modern Languages (ECL) B1 Certificate of Attainment in Modern Languages (ECL) B2a Certificate of Attainment in Modern Languages (ECL) C1 | B1 B2 C1
+
 - Francúzsky jazyk
 
 - Vybraná inštitúcia a jej sídlo | Jazykový certifikát | Úroveň jazykovej náročnosti podľa Spoločného európskeho referenčného rámca
@@ -28,7 +32,7 @@ Príloha k vyhláške č. 319/2008 Z. z.
 
 - Vybraná inštitúcia a jej sídlo | Jazykový certifikát | Úroveň jazykovej náročnosti podľa Spoločného európskeho referenčného rámca
 
-- Bundesverwaltungsamt (Zentralstelle für das Auslandsschulwesen) Barbarastraße 1 50735 Köln Deutschland, zastúpenie v Slovenskej republike: Fachberater/Koordinator der Zentralstelle für Auslandsschulwesen in Bratislava Haydnova 23 811 02 Bratislava | Deutsches Sprachdiplom Stufe II/KMK Deutsches Sprachdiplom Stufe II/KMK | C1 B2
+- Bundesverwaltungsamt (Zentralstelle für das Auslandsschulwesen) Barbarastraße 1 50735 Köln Deutschland, zastúpenie v Slovenskej republike: Fachberater/Koordinator der Zentralstelle für Auslandsschulwesen in Bratislava Haydnova 23 811 02 Bratislava | Deutsches Sprachdiplom Stufe II/KMK Deutsches Sprachdiplom Stufe II/KMKDeutsches Sprachdiplom Stufe I/KMK | C1 B2B1
 
 - Goethe-Institut e. V. Dachauer Straße 122 80637 München Deutschland, zastúpenie v Slovenskej republike: Goetheho inštitút Panenská 33 814 82 Bratislava | Goethe – Zertifikat B1 (Zertifikat Deutsch ZD) Goethe – Zertifikat B2 Test Deutsch als Fremdsprache (TestDaF) – Niveau 3 Goethe – Zertifikat C1 Test Deutsch als Fremdsprache (TestDaF) – Niveau 4 Goethe – Zertifikat C2: Zentrale Oberstufenprüfung (ZOP) Kleines Deutsches Sprachdiplom (KDS) | B1 B2 B2 C1 C1 C2 C2
 
@@ -37,6 +41,8 @@ Príloha k vyhláške č. 319/2008 Z. z.
 - telc GmbH Wächtersbacher Str. 83 D-60386 Frankfurt am Main Deutschland | telc LANGUAGE TESTS Zertifikat Deutsch telc LANGUAGE TESTS telc Deutsch B2 telc LANGUAGE TESTS telc Deutsch C1 | B1 B2 C1
 
 - Jazyková škola s oprávnením vykonávať štátne jazykové skúšky | Vysvedčenie o štátnej jazykovej skúške – základná štátna jazyková skúška Vysvedčenie o štátnej jazykovej skúške – všeobecná štátna jazyková skúška Vysvedčenie o štátnej jazykovej skúške – špeciálna štátna jazyková skúška | B2 C1 C2
+
+- The University of Pécs – Foreign Language Centre as the International ECL Secretariat Szántó K. J. u. 1/b H-7633 Pécs Hungary zastúpenie v Slovenskej republike: Jazykové centrum Filozofickej fakulty Univerzity Konštantína Filozofa v Nitre Štefánikova 67 949 74 Nitra | Zertifikat über Kenntnisse in modernen Fremdsprachen (ECL) B1 Zertifikat über Kenntnisse in modernen Fremdsprachen (ECL) B2 Zertifikat über Kenntnisse in modernen Fremdsprachen (ECL) C1 | B1 B2 C1
 
 - Ruský jazyk
 
