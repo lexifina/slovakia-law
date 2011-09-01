@@ -34,11 +34,17 @@
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 12a) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 16; Ú. v. EÚ L 102, 7. 4. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 222/2009 z 11. marca 2009 (Ú. v. EÚ L 87, 31. 3. 2009), nariadenie Komisie (ES) č. 1982/2004 z 18. novembra 2004, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a rušia sa nariadenia Komisie (ES) č. 1901/2000 a (EHS) č. 3590/92 (Ú. v. EÚ L 343, 19. 11. 2004) v platnom znení.
+
+- 12b) Napríklad nariadenie Rady (EHS) č. 2913/92 v platnom znení, nariadenie Komisie (EHS) č. 2454/93 v platnom znení, nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
+
 - 13) Napríklad § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov, § 2, 5 a 7 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.čl. 4 a 5, čl. 7 ods. 2 a 4 nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 61, 3. 3. 1997) v platnom znení
 
 - 14) § 196 Trestného poriadku.
 
 - 15) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
+
+- 15a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
 - 16) Napríklad § 6 zákona č. 331/2005 Z. z.
 
@@ -88,9 +94,21 @@
 
 - 29) Napríklad nariadenie Rady (ES) č. 485/2008 z 26. mája 2008 o kontrole opatrení tvoriacich súčasť systému financovania Európskeho poľnohospodárskeho záručného fondu, vykonávaných členskými štátmi (kodifikované znenie) (Ú. v. EÚ L 143, 3. 6. 2008), nariadenie Komisie (ES) č. 1276/2008 zo 17. decembra 2008 o monitorovaní vývozu poľnohospodárskych výrobkov, na ktoré sa poskytujú náhrady alebo iné sumy, prostredníctvom fyzických kontrol (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení, § 5 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
-- 29a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
+- 30) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami (podpísaný v Bruseli 18. 12. 1997).
 
-- 30) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami (podpísaný v Bruseli 18. 12. 1997), Dohovor vypracovaný na základe článku K. 3 Zmluvy o Európskej únii o používaní informačných technológií na colné účely (podpísaný v Bruseli dňa 26. 7. 1995) v znení doplňujúceho protokolu vzťahujúceho sa na utvorenie databáz colných identifikačných súborov (podpísaný v Bruseli 8. mája 2003).
+- 30a) Rozhodnutie Rady 2009/917/SVV z 30. novembra 2009 o využívaní informačných technológií na colné účely (Ú. v. EÚ, L 323, 10. 12. 2009).
+
+- 30b) Čl. 3 a 4 a čl. 10 ods. 2 rozhodnutia Rady 2009/917/SVV.
+
+- 30c) Čl. 8 ods. 4 a čl. 29 rozhodnutia Rady 2009/917/SVV.
+
+- 30d) Čl. 8 ods. 4 rozhodnutia Rady 2009/917/SVV.
+
+- 30e) Čl. 7 ods. 2, čl. 8 ods. 3 a 4, čl. 10 ods. 3 a čl. 21 ods. 4 rozhodnutia Rady 2009/917/SVV.
+
+- 30f) Čl. 2 bod 1 rozhodnutia Rady 2009/917/SVV.
+
+- 30g) Čl. 15 ods. 3 rozhodnutia Rady 2009/917/SVV.
 
 - 31) Článok 11 Dohovoru Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.).
 

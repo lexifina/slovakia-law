@@ -1,0 +1,3 @@
+# § 59c Prechodné ustanovenie k úpravám účinným od 1. septembra 2011
+
+Správa majetku štátu, ktorý bol do 31. augusta 2011 v správe ministerstva a ktorý slúžil na zabezpečenie výkonu kompetencií colného riaditeľstva pri utváraní, udržiavaní a prevádzkovaní informačných systémov colnej správy, vrátane súvisiacich práv a povinností z majetkovoprávnych vzťahov a iných vzťahov vzniknutých do 31. augusta 2011, prechádza 1. septembra 2011 na colné riaditeľstvo. Podrobnosti o prechode správy majetku štátu a o prechode týchto práv a povinností sa upravia dohodou medzi ministerstvom a colným riaditeľstvom, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.

@@ -176,6 +176,6 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - „Príloha č. 4 k zákonu č. 199/2004 Z. z.
 
-- [Vzor 04-1](assets/499dac4c08d9ed73cddf1aa5b2a46e938a4d9b5766eaf5bae1e328dfcc98c2a1.pdf)“.
+- [Vzor 04-1](assets/5b1cab4339524f6003b513742c97784d8831fd828abc054c7538809ea6e9cc21.pdf)“.
 
 - 38. Príloha č. 5 sa vypúšťa.
