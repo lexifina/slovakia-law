@@ -1,1 +1,0 @@
-- 1) § 5 ods. 2 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
