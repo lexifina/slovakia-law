@@ -2,6 +2,8 @@
 
 - Zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
 
+- § 17 ods. 1 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
+
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
@@ -72,7 +74,7 @@
 
 - 18c) § 149 Zákonníka práce.
 
-- 18d) § 133 ods. 3 Zákonníka práce.
+- 18d) § 39 ods. 2 Zákonníka práce.
 
 - 18e) § 3 Trestného poriadku.
 
