@@ -36,6 +36,8 @@
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 7a) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) Napríklad zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
 - 8a) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
