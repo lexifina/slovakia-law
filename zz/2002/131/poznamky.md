@@ -106,6 +106,16 @@
 
 - 38a) § 4 ods. 1 písm. a) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
+- 38b) § 4 ods. 2 zákona č. 211/2000 Z. z.
+
+- 38c) § 17 ods. 1 písm. c), § 18 ods. 2 a § 40 až 46 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+
+- 38d) § 18 zákona č. 618/2003 Z. z.
+
+- 38e) § 60 ods. 2 zákona č. 618/2003 Z. z.
+
+- 38f) § 59 ods. 2 zákona č. 618/2003 Z. z.
+
 - 39) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 40) Zákon č. 428/2002 Z. z.
