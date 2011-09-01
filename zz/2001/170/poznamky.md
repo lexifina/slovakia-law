@@ -16,6 +16,30 @@
 
 - 9) § 12 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
+- 9a) § 2 ods. 1 písm. i) bod 1, 2 a 4 zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona č. 482/2009 Z. z.
+
+- 9b) § 19 až 20 a § 25 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9c) § 31 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9d) § 13 ods. 1 písm. h) a i) zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9e) § 14 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9f) Zákon č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9g) Zákon č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
+- 9h) § 40 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 9i) § 15 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9j) Zákon č. 511/1992 Zb. v znení neskorších predpisov.
+
 - 10) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 144/2000 Z. z. o požiadavkách na kvalitu palív, o vedení prevádzkovej evidencie a o druhu, rozsahu a spôsobe poskytovania údajov orgánu ochrany ovzdušia.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
