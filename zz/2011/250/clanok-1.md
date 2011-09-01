@@ -876,7 +876,17 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - (6)
 
-- Zbor väzenskej a justičnej stráže Slovenskej republiky poskytuje úradu elektronicky na účely výpočtu limitu spoluúčasti podľa osobitného predpisu<sup>16c</sup>) údaje o fyzickej osobe, ktorá je poberateľom invalidného výsluhového dôchodku, o fyzickej osobe, ktorá je poberateľom dôchodku z výsluhového zabezpečenia policajtov vo veku ustanovenom na vznik nároku na starobný dôchodok, ak suma dôchodku nie je viac ako 50 % priemernej mesačnej mzdy. Údaje sa poskytujú v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, druh dôchodku, dátum priznania a dátum zániku nároku na výplatu dôchodku, bankové spojenie, kód a názov banky, výška dôchodku.“.
+- Zbor väzenskej a justičnej stráže Slovenskej republiky poskytuje úradu elektronicky na účely výpočtu limitu spoluúčasti podľa osobitného predpisu<sup>16c</sup>) údaje o fyzickej osobe, ktorá je poberateľom invalidného výsluhového dôchodku, o fyzickej osobe, ktorá je poberateľom dôchodku z výsluhového zabezpečenia policajtov vo veku ustanovenom na vznik nároku na starobný dôchodok, ak suma dôchodku nie je viac ako 50 % priemernej mesačnej mzdy. Údaje sa poskytujú v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, druh dôchodku, dátum priznania a dátum zániku nároku na výplatu dôchodku, bankové spojenie, kód a názov banky, výška dôchodku.
+
+- § 77d
+
+- Úrad je povinný údaje, ktoré mu poskytol Policajný zbor podľa osobitného predpisu,<sup>97b</sup>) oznámiť príslušnej zdravotnej poisťovni do ôsmich dní odo dňa ich prijatia.“.
+
+- Poznámka pod čiarou k odkazu 97b znie:
+
+- „97b)
+
+- § 68 ods. 6 a 8 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 54. V § 82 sa vypúšťa odsek 3.
 
