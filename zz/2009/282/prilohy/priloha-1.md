@@ -122,7 +122,11 @@ Príloha č. 1 k vyhláške č. 282/2009 Z. z.
 
     - bg) policajná stredná odborná škola,
 
-    - bh) stredná odborná škola požiarnej ochrany.
+    - bh) stredná odborná škola požiarnej ochrany,
+
+    - bi) stredná odborná škola informačných technológií,
+
+    - bj) technická akadémia.
 
   - B. Typy konzervatórií sú:
 

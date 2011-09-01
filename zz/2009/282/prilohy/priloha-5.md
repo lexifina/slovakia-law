@@ -48,6 +48,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
 - 24 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA II | | | | |
 
+- 2447 4 | mechanik hasičskej techniky | 3A | 2418 4 | 12 | 12 | 2), 4)
+
 - 2411 4 | mechanik nastavovač | 3A | 2411 4 | 12 | 12 | 2), 4)
 
 - 2412 4 | mechanik číslicovo riadených strojov | 3A | 2412 4 | 12 | 8 | 2), 4)
@@ -69,8 +71,6 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 - 2415 4 | plynárenstvo | 3A | 2415 4 | | | 3)
 
 - 2417 4 | prevádzka strojov a zariadení | 3A | 2417 4 | | | 3)
-
-- 2418 4 | mechanik požiarnej techniky | 3A | 2418 4 | 12 | 12 | 2), 4)
 
 - 2419 4 | operátor ekologických zariadení | 3A | 2419 4 | 12 | 12 | 2), 4)
 
@@ -159,6 +159,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 - 2940 6 10 | potravinárstvo – syrárstvo a fermentované výrobky | 3A | 2940 6 10 | | | 2)
 
 - 2949 6 | výživa, ochrana zdravia a hodnotenie potravín | 3A | 2949 6 | | | 2)
+
+- 2951 6 | výživa a šport | 3A | | | | 2)
 
 - 2952 4 | výroba potravín | 3A | | | | 3)
 
@@ -540,6 +542,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
 - 6324 6 | manažment regionálneho cestovného ruchu | 3A | 6324 6 | | | 2)
 
+- 6325 6 | ekonomické lýceum | 3A | | | | 2)
+
 - 6326 6 | efektívny manažment | 4A | 6326 6 | | | 1)
 
 - 6328 6 | ekonomické a obchodné služby | 3A | | | | 2)
@@ -591,6 +595,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 - 6411 4 02 | prevádzka obchodu – propagácia | 3A | 6411 4 02 | | | 3)
 
 - 6421 4 | spoločné stravovanie | 3A | 6421 4 | | | 3)
+
+- 6423 4 | starostlivosť o ruky a nohy | 3A | | | | 3)
 
 - 6426 4 | vlasová kozmetika | 3A | 6426 4 | | | 3)
 
@@ -678,6 +684,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
 - 8235 6 09 | výtvarné spracúvanie skla – tvorba drobnej sklenej plastiky | 3A | 8235 6 09 | | | 2), 5)
 
+- 8235 6 11 | výtvarné spracúvanie skla – výroba sklenej vitráže | 3A | | | | 2), 5)
+
 - 8236 6 | textilné výtvarníctvo | | | | |
 
 - 8236 6 01 | textilné výtvarníctvo – tkáčska tvorba | 3A | 8236 6 01 | | | 2), 5)
@@ -699,6 +707,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 - 8245 6 02 | konzervátorstvo a reštaurátorstvo – kovov | 3A | 8245 6 02 | | | 2), 5)
 
 - 8245 6 05 | konzervátorstvo a reštaurátorstvo – omietky a štuková výzdoba | 3A | 8245 6 05 | | | 2), 5)
+
+- 8245 6 07 | konzervátorstvo a reštaurátorstvo – maliarske techniky | 3A | | | | 2), 5)
 
 - 8247 6 | ladenie klavírov | 3A | 8247 6 | | | 2), 5)
 
@@ -737,6 +747,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 - 8279 6 | dizajn a tvarovanie dreva | 3A | 8279 6 | | | 2), 5)
 
 - 8280 6 | scénická tvorba a konštrukcia historického nábytku | 3A | | | | 2), 5)
+
+- 8295 06 | tvorba vitrážového skla a smaltu | 3A | | | | 2), 5)
 
 - 8297 6 | fotografický dizajn | 3A | 8297 6 | | | 2), 5)
 
@@ -802,7 +814,7 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
 - 9210 6 04 | bezpečnostná služba – ochrana objektov | 4A | 9210 6 04 | | | 8), 9)
 
-- 9210 6 05 | bezpečnostná služba – hraničná a cudzinecká polícia | 4A | 9210 6 05 | | | 8), 9)
+- 9210 6 05 | bezpečnostná služba – kriminálna polícia | 4A | 9210 6 05 | | | 8), 9)
 
 - 9210 6 06 | bezpečnostná služba – justičná a kriminálna polícia | 4A | 9210 6 06 | | | 1), 8), 9)
 

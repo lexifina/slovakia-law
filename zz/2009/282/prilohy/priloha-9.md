@@ -6,24 +6,20 @@ Príloha č. 9 k vyhláške č. 282/2009 Z. z.
 
   - b) 5317 7 diplomovaný fyzioterapeut,
 
-  - c) 5329 7 diplomovaný zubný technik,
+  - c) 5370 6 masér,
 
-  - d) 5332 7 diplomovaný zdravotnícky záchranár,
+  - d) 7649 6 učiteľstvo pre materské školy a vychovávateľstvo,
 
-  - e) 5370 6 masér,
+  - e) 7902 5 74 gymnázium – bilingválne štúdium,
 
-  - f) 7649 6 učiteľstvo pre materské školy a vychovávateľstvo,
+  - f) 7902 5 77 gymnázium – šport,
 
-  - g) 7902 5 74 gymnázium – bilingválne štúdium,
+  - g) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
 
-  - h) 7902 5 77 gymnázium – šport,
+  - h) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II,
 
-  - i) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
+  - i) triedy stredných škôl s bilingválnym vyučovaním,
 
-  - j) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II,
+  - j) triedy športových škôl,
 
-  - k) triedy stredných škôl s bilingválnym vyučovaním,
-
-  - l) triedy športových škôl,
-
-  - m) športové triedy v stredných školách.
+  - k) športové triedy v stredných školách.

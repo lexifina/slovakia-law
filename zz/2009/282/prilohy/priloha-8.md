@@ -18,9 +18,9 @@ Príloha č. 8 k vyhláške č. 282/2009 Z. z.
 
 - 28 Technická a aplikovaná chémia | Asociácia zamestnávateľských zväzov a združení Slovenskej republiky v spolupráci so Slovenskou obchodnou a priemyselnou komorou a Slovenskou poľnohospodárskou a potravinárskou komorou
 
-- 29 Potravinárstvo | Asociácia zamestnávateľských zväzov a združení Slovenskej republiky v spolupráci s Republikovou úniou zamestnávateľov, so Slovenskou poľnohospodárskou a potravinárskou komorou a Slovenskou živnostenskou komorou
+- 29 Potravinárstvo | Slovenská poľnohospodárska a potravinárska komora v spolupráci s Republikovou úniou zamestnávateľov, s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a so Slovenskou živnostenskou komorou
 
-- 31 Textil a odevníctvo | Asociácia zamestnávateľských zväzov a združení Slovenskej republiky v spolupráci so Slovenskou obchodnou a priemyselnou komorou a s Republikovou úniou zamestnávateľov
+- 31 Textil a odevníctvo | nie je určená
 
 - 32 Spracúvanie kože, plastov a gumy, výroba obuvi | Slovenská obchodná a priemyselná komora v spolupráci s Republikovou úniou zamestnávateľov a Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky
 

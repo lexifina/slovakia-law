@@ -80,7 +80,7 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - | | | | 2414 4 06 | | |
 
-- | | | | 3347 4 01 | | |
+- | | | | 3347 4 | | |
 
 - 2439 2 | lakovník | 3C | 2439 2 | 2414 4 01 | 12 | 12 |
 
@@ -116,12 +116,6 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - | | | | 3454 4 | | |
 
-- 2466 2 03 | mechanik opravár – požiarna technika | 3C | 2466 2 03 | 2414 4 01 | 12 | 10 |
-
-- | | | | 2414 4 04 | | |
-
-- | | | | 2417 4 | | |
-
 - 2466 2 04 | mechanik opravár – lesné stroje a zariadenia | 3C | 2466 2 04 | 2414 4 01 | 10 | 10 |
 
 - | | | | 2414 4 04 | | |
@@ -147,6 +141,12 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 - 2466 2 15 | mechanik opravár – stroje a zariadenia na výrobu papiera | 3C | 2465 2 15 | 2417 4 | 12 | 12 |
 
 - | | | | 2890 4 | | |
+
+- 2466 2 21 | mechanik opravár - hasičská technika | 3C | 2466 2 03 | 2414 4 01 | 12 | 10 |
+
+- | | | | 2414 4 04 | | |
+
+- | | | | 2417 4 | | |
 
 - 2468 2 | nastavovač textilných strojov | | | | | |
 
@@ -214,7 +214,7 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - | | | | 2675 4 02 | | |
 
-- | | | | 2975 4 03 | | |
+- | | | | 2675 4 03 | | |
 
 - 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | | |
 
@@ -238,9 +238,9 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 2866 2 | gumár plastikár | | | | | |
 
-- 2866 2 01 | gumár plastikár – spracúvanie kaučuku | 3C | 2866 2 01 | 2887 4 01 | 12 | 12 | 2)
+- 2866 2 01 | gumár plastikár – spracúvanie kaučuku | 3C | 2866 2 01 | 2890 4 | 12 | 12 | 2)
 
-- 2866 2 02 | gumár plastikár – spracúvanie plastov | 3C | 2866 2 02 | 2887 4 01 | 12 | 12 |
+- 2866 2 02 | gumár plastikár – spracúvanie plastov | 3C | 2866 2 02 | 2890 4 | 12 | 12 |
 
 - 2873 2 | textilný chemik | | | | | |
 
@@ -286,11 +286,9 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 2965 2 | cukrovinkár pečivár | | | | | |
 
-- 2965 2 01 | cukrovinkár pečivár – výroba cukroviniek | 3C | 2965 2 01 | 2982 4 03 | 15 | 10 |
+- 2965 2 01 | cukrovinkár pečivár – výroba cukroviniek | 3C | 2965 2 01 | 2982 4 02 | 15 | 10 |
 
 - 2965 2 02 | cukrovinkár pečivár – výroba trvanlivého pečiva | 3C | 2965 2 02 | 2982 4 02 | 15 | 10 |
-
-- | | | | 2982 4 03 | | |
 
 - 2978 2 | cukrár pekár | 3C | 2978 2 | 2982 4 02 | 10 | 10 |
 
@@ -466,7 +464,7 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 45 | POĽNOHOSPODÁRSTVO, LESNÉ HOSPODÁRSTVO A ROZVOJ VIDIEKA II | | | | | |
 
-- 4524 2 | agromechanizátor, opravár | 3C | 4576 2 | 4512 4 | 10 | 10 |
+- 4524 2 | agromechanizátor, opravár | 3C | 4576 2 | 4512 4, 4526 4 | 10 | 10 |
 
 - 4529 2 | pracovník pre záhradnú tvorbu, zeleň a služby | 3C | 4529 2 | 4511 4 | 12 | 10 |
 
@@ -476,7 +474,7 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 4561 2 01 | poľnohospodár – mechanizácia | 3C | 4561 2 01 | 4526 4 | 10 | 10 |
 
-- 4561 2 02 | poľnohospodár – farmárstvo | 3C | 4561 2 02 | 4501 4 | 12 | 12 |
+- 4561 2 02 | poľnohospodár – farmárstvo | 3C | 4561 2 02 | | 12 | 12 |
 
 - | | | | 4512 4 | | |
 
@@ -496,9 +494,9 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 4575 2 | mechanizátor lesnej výroby | 3C | 4575 2 | 4521 4 | 10 | 10 |
 
-- 4578 2 | rybár | 3C | 4578 2 | 2982 4 01 | 12 | 7 |
+- 4578 2 | rybár | 3C | 4578 2 | 4508 4 | 12 | 7 |
 
-- | | | | 4502 4 02 | | |
+- | | | | 4508 4 | | |
 
 - 4580 2 | chovateľ | | | | | |
 

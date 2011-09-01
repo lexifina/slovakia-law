@@ -88,15 +88,9 @@ Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 
 - 5328 7 | diplomovaná dentálna hygienička | 5B | 5328 7 |
 
-- 5329 7 | diplomovaný zubný technik | 5B | 5329 7 |
-
-- 5332 7 | diplomovaný zdravotnícky záchranár | 5B | 5332 7 |
-
 - 5333 7 | diplomovaný rádiologický asistent | 5B | 5333 7 |
 
 - 5335 7 | diplomovaný optometrista | 5B | 5335 7 |
-
-- 5345 7 | diplomovaný medicínsko-technický laborant | 5B | 5345 7 |
 
 - 63 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY I | | |
 
@@ -129,6 +123,8 @@ Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 - 7518 7 | špeciálna pedagogika | 5B | 7518 7 |
 
 - 82 | UMENIE A UMELECKOREMESELNÁ TVORBA I | | |
+
+- 8293 7 | grafika vizuálnych komunikácií | 5B | |
 
 - 8218 7 | reštaurovanie textílií | 5B | 8218 7 |
 
