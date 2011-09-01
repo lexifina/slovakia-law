@@ -72,6 +72,8 @@
 
 - 16a) Vyhláška Ministerstva financií Slovenskej republiky č. 206/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolných známok na označovanie spotrebiteľského balenia liehu a o grafických prvkoch a údajoch na kontrolnej známke.
 
+- 16aa) § 2 písm. a) zákona č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
 - 17) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

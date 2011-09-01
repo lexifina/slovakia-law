@@ -24,7 +24,7 @@
 
 - b) nebol právoplatne odsúdený za úmyselne spáchaný trestný čin hospodársky, trestný čin proti majetku, alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
 
-- c) nebolo mu počas obdobia desiatich rokov odňaté povolenie na predaj, okrem odňatia podľa odseku 20 písm. a) štvrtého bodu; to sa vzťahuje aj na osobu, ktorá je personálne prepojená alebo majetkovo prepojená so žiadateľom alebo na osobu, ktorá bola personálne prepojená alebo majetkovo prepojená so žiadateľom v priebehu piatich rokov pred podaním žiadosti o vydanie povolenia na predaj,
+- c) nebolo mu počas obdobia desiatich rokov odňaté povolenie na predaj, okrem odňatia podľa odseku 21 písm. a) štvrtého bodu; to sa vzťahuje aj na osobu, ktorá je personálne prepojená alebo majetkovo prepojená so žiadateľom alebo na osobu, ktorá bola personálne prepojená alebo majetkovo prepojená so žiadateľom v priebehu piatich rokov pred podaním žiadosti o vydanie povolenia na predaj,
 
 - d) nie je v likvidácii, ani na neho nie je právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
 
@@ -34,7 +34,7 @@
 
 - a) predložiť na požiadanie colného úradu doklady preukazujúce spôsob nadobudnutia spotrebiteľského balenia,
 
-- b) viesť dennú evidenciu spotrebiteľských balení podľa účtovných dokladov a čiarového kódu EAN v členení podľa odseku 15 písm. a), d), e) a f); túto evidenciu je povinný držiteľ povolenia mať k dispozícii v prevádzkarni,
+- b) viesť za kalendárny mesiac evidenciu spotrebiteľských balení podľa dokladov o nákupe a predaji spotrebiteľského balenia a čiarového kódu EAN v členení podľa odseku 15 písm. a), d), e) a f),
 
 - c) skladovať v prevádzkarni spotrebiteľské balenie určené len na predaj v rámci podnikateľskej činnosti,
 
@@ -68,7 +68,7 @@
 
 - h) nebol právoplatne odsúdený za úmyselne spáchaný trestný čin hospodársky, trestný čin proti majetku, alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
 
-- i) nebolo mu počas obdobia desiatich rokov odňaté oprávnenie na distribúciu okrem odňatia podľa odseku 20 písm. b) štvrtého bodu; to sa vzťahuje aj na osobu, ktorá je personálne prepojená alebo majetkovo prepojená so žiadateľom alebo na osobu, ktorá bola personálne prepojená alebo majetkovo prepojená so žiadateľom v priebehu piatich rokov pred podaním žiadosti o vydanie oprávnenia na distribúciu,
+- i) nebolo mu počas obdobia desiatich rokov odňaté oprávnenie na distribúciu okrem odňatia podľa odseku 21 písm. b) štvrtého bodu; to sa vzťahuje aj na osobu, ktorá je personálne prepojená alebo majetkovo prepojená so žiadateľom alebo na osobu, ktorá bola personálne prepojená alebo majetkovo prepojená so žiadateľom v priebehu piatich rokov pred podaním žiadosti o vydanie oprávnenia na distribúciu,
 
 - j) nie je v likvidácii, ani na neho nie je právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
 
@@ -88,7 +88,7 @@
 
 - e) viesť evidenciu podľa odseku 15.
 
-(15) Osoba oprávnená na distribúciu je povinná za každú prevádzkareň viesť dennú evidenciu spotrebiteľských balení podľa účtovného dokladu a čiarového kódu EAN, ktorá obsahuje
+(15) Osoba oprávnená na distribúciu je povinná za každú prevádzkareň viesť za kalendárny mesiac evidenciu spotrebiteľských balení podľa dokladu o nákupe a predaji spotrebiteľského balenia a čiarového kódu EAN, ktorá obsahuje
 
 - a) počet prijatých spotrebiteľských balení v kusoch, identifikačné údaje dodávateľa spotrebiteľského balenia a jeho čísla oprávnenia na distribúciu,
 
@@ -96,7 +96,7 @@
 
 - c) počet vydaných spotrebiteľských balení v kusoch, identifikačné údaje držiteľa povolenia na predaj a jeho čísla povolenia na predaj,
 
-- d) počet vydaných spotrebiteľských balení v kusoch konečnému spotrebiteľovi,
+- d) počet vydaných spotrebiteľských balení v kusoch konečnému spotrebiteľovi vrátane spotrebiteľských balení vydaných odberateľovi spotrebiteľského balenia so sídlom mimo daňového územia,
 
 - e) stav zásob spotrebiteľských balení v kusoch k poslednému dňu kalendárneho mesiaca,
 
@@ -110,13 +110,15 @@
 
 - c) identifikačné údaje odberateľa a číslo jeho povolenia na predaj, ak je odberateľom držiteľ povolenia na predaj,
 
-- d) čiarový kód EAN za každé spotrebiteľské balenie; ak má spotrebiteľské balenie pridelených viac čiarových kódov EAN, uvedie všetky čiarové kódy EAN, ktoré boli pridelené.
+- d) čiarový kód EAN za každé spotrebiteľské balenie; ak má spotrebiteľské balenie pridelených viac čiarových kódov EAN, uvedie ten čiarový kód EAN, ktorý použije pri predaji spotrebiteľského balenia.
 
-(17) Osoba oprávnená na distribúciu je povinná oznámiť údaje podľa odseku 15 colnému úradu elektronicky, najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, za ktorý sa údaje oznamujú, a to na tlačive, ktorého vzor zverejní colné riaditeľstvo na svojej internetovej stránke. Zaručený elektronický podpis sa nevyžaduje. Osoba oprávnená na distribúciu, ktorou je prevádzkovateľ daňového skladu, oprávnený príjemca alebo dovozca spotrebiteľského balenia, je povinná oznámiť elektronicky colnému úradu obchodný názov spotrebiteľského balenia, objem spotrebiteľského balenia a objemovú koncentráciu liehu v spotrebiteľskom balení a čiarový kód EAN za každý nový druh spotrebiteľského balenia, ktoré chce uvádzať do daňového voľného obehu, a to najneskôr v deň uvedenia spotrebiteľského balenia do daňového voľného obehu. Ak má jeden sortiment spotrebiteľského balenia pridelených viac čiarových kódov EAN, oznámi osoba oprávnená na distribúciu všetky čiarové kódy EAN, ktoré boli pridelené.
+(17) Osoba oprávnená na distribúciu je povinná oznámiť údaje podľa odseku 15 za kalendárny mesiac colnému úradu elektronicky, najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, za ktorý sa údaje oznamujú, a to na tlačive, ktorého vzor zverejní colné riaditeľstvo na svojej internetovej stránke. Zaručený elektronický podpis sa nevyžaduje. Osoba oprávnená na distribúciu, ktorou je prevádzkovateľ daňového skladu, oprávnený príjemca alebo dovozca spotrebiteľského balenia, je povinná oznámiť elektronicky colnému úradu obchodný názov spotrebiteľského balenia, objem spotrebiteľského balenia a objemovú koncentráciu liehu v spotrebiteľskom balení a čiarový kód EAN za každý nový druh spotrebiteľského balenia, ktoré chce uvádzať do daňového voľného obehu, a to najneskôr v deň uvedenia spotrebiteľského balenia do daňového voľného obehu. Ak má jeden sortiment spotrebiteľského balenia pridelených viac čiarových kódov EAN, oznámi osoba oprávnená na distribúciu všetky čiarové kódy EAN, ktoré boli pridelené. Ak je spotrebiteľské balenie súčasťou skupinového balenia označeného jedným čiarovým kódom EAN, osoba oprávnená na distribúciu oznámi colnému úradu čiarový kód EAN tohto skupinového balenia. Na účely tohto zákona sa skupinovým balením rozumie balenie, v ktorom sa nachádza spotrebiteľské balenie samostatne alebo spolu s inými tovarmi a je určené na predaj konečnému spotrebiteľovi. Ak sa za účelom predaja spotrebiteľského balenia odstráni skupinové balenie, je osoba oprávnená na distribúciu povinná túto skutočnosť oznámiť colnému úradu a súčasne viesť v evidencii čiarový kód EAN každého spotrebiteľského balenia, ktoré bolo súčasťou skupinového balenia.
 
-(18) Čiarový kód EAN spotrebiteľského balenia obsahuje najmä krajinu pôvodu liehu, údaje o výrobcovi liehu, obchodný názov spotrebiteľského balenia, objem spotrebiteľského balenia a objemovú koncentráciu liehu v spotrebiteľskom balení. Ak spotrebiteľské balenie nemá pridelený čiarový kód EAN, alebo ak čiarový kód EAN neobsahuje požadované údaje podľa prvej vety, údaje podľa odseku 7 písm. b) a odsekov 15 až 17 sa uvádzajú v členení podľa krajiny pôvodu, obchodného názvu spotrebiteľského balenia, objemu spotrebiteľského balenia a objemovej koncentrácie liehu v spotrebiteľskom balení.
+(18) Držiteľ povolenia alebo osoba oprávnená na distribúciu je povinná viesť evidenciu podľa odseku 7 alebo odseku 15 za kalendárny mesiac tak, aby colný úrad pri výkone daňového dozoru mohol overiť stav zásob spotrebiteľských balení ku dňu výkonu daňového dozoru. Držiteľ povolenia alebo osoba oprávnená na distribúciu je povinná mať v prevádzkarni k dispozícii doklady o nákupe a predaji spotrebiteľského balenia alebo ich kópie k aktuálnemu stavu zásob spotrebiteľského balenia, ktoré sa nachádza v prevádzkarni. Držiteľ povolenia alebo osoba oprávnená na distribúciu je povinná uchovávať evidenciu päť rokov.
 
-(19) Povolenie na predaj alebo oprávnenie na distribúciu zaniká dňom
+(19) Čiarový kód EAN spotrebiteľského balenia obsahuje najmä krajinu pôvodu liehu, údaje o výrobcovi liehu, obchodný názov spotrebiteľského balenia, objem spotrebiteľského balenia a objemovú koncentráciu liehu v spotrebiteľskom balení. Ak spotrebiteľské balenie nemá pridelený čiarový kód EAN, alebo ak čiarový kód EAN neobsahuje požadované údaje podľa prvej vety, údaje podľa odseku 7 písm. b) a odsekov 15 až 17 sa uvádzajú v členení podľa krajiny pôvodu, obchodného názvu spotrebiteľského balenia, objemu spotrebiteľského balenia a objemovej koncentrácie liehu v spotrebiteľskom balení.
+
+(20) Povolenie na predaj alebo oprávnenie na distribúciu zaniká dňom
 
 - a) úmrtia fyzickej osoby alebo dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení fyzickej osoby za mŕtvu, ak nepokračujú v živnosti dedičia alebo súdom ustanovený správca dedičstva,
 
@@ -126,7 +128,7 @@
 
 - d) nadobudnutia právoplatnosti rozhodnutia o odňatí povolenia na predaj alebo odňatí oprávnenia na distribúciu.
 
-(20) Colný úrad odníme
+(21) Colný úrad odníme
 
 - a) povolenie na predaj, ak držiteľ povolenia
 
@@ -148,11 +150,11 @@
 
   - 4. požiada o odňatie oprávnenia na distribúciu.
 
-(21) Právnická osoba alebo fyzická osoba, ktorej zaniklo povolenie na predaj alebo oprávnenie na distribúciu, môže predať spotrebiteľské balenie len s písomným súhlasom colného úradu; ustanovenia § 47 ods. 1 písm. t) a u) sa nepoužijú.
+(22) Právnická osoba alebo fyzická osoba, ktorej zaniklo povolenie na predaj alebo oprávnenie na distribúciu, môže predať spotrebiteľské balenie len s písomným súhlasom colného úradu; ustanovenia § 47 ods. 1 písm. t) a u) sa nepoužijú. Právnická osoba alebo fyzická osoba, ktorej colný úrad odňal povolenie na predaj alebo oprávnenie na distribúciu, je povinná oznámiť colnému úradu v určenej lehote údaje podľa odseku 7 písm. b) alebo odseku 15, a to podľa stavu ku dňu odňatia povolenia na predaj alebo oprávnenia na distribúciu.
 
-(22) Ustanovenia odsekov 1 až 21 sa nevzťahujú na právnickú osobu alebo fyzickú osobu, ktorá v rámci podnikania v daňovom voľnom obehu nakupuje a predáva len lieh v spotrebiteľskom balení oslobodený od dane podľa § 7.
+(23) Ustanovenia odsekov 1 až 22 sa nevzťahujú na právnickú osobu alebo fyzickú osobu, ktorá v rámci podnikania v daňovom voľnom obehu nakupuje a predáva len lieh v spotrebiteľskom balení oslobodený od dane podľa § 7.
 
-(23) Colné riaditeľstvo vedie elektronickú databázu údajov, ktorá obsahuje evidenciu vydaných povolení na predaj a vydaných oprávnení na distribúciu, v ktorej sa uvádzajú
+(24) Colné riaditeľstvo vedie elektronickú databázu údajov, ktorá obsahuje evidenciu vydaných povolení na predaj a vydaných oprávnení na distribúciu, v ktorej sa uvádzajú
 
 - a) identifikačné údaje držiteľa povolenia, adresa jeho prevádzkarne, ak nie je totožná so sídlom alebo s trvalým pobytom držiteľa povolenia, číslo povolenia na predaj,
 
@@ -162,4 +164,4 @@
 
 - d) dátum vydania oprávnenia na distribúciu a dátum odňatia oprávnenia na distribúciu.
 
-(24) Colné riaditeľstvo elektronickú databázu údajov podľa odseku 23 zverejňuje na svojej internetovej stránke.
+(25) Colné riaditeľstvo elektronickú databázu údajov podľa odseku 24 zverejňuje na svojej internetovej stránke.

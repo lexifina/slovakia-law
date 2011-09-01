@@ -18,7 +18,7 @@
 
 (2) Colný úrad uloží pokutu
 
-- a) vo výške 50 % dane pripadajúcej na množstvo liehu v spotrebiteľskom balení, ktoré nie je označené v súlade s týmto zákonom, najmenej však 331,93 eura, za priestupok podľa odseku 1 písm. a), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
+- a) vo výške dane pripadajúcej na množstvo liehu v spotrebiteľskom balení, ktoré nie je označené v súlade s týmto zákonom, najmenej však 50 eur za priestupok podľa odseku 1 písm. a), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
 
 - b) vo výške dane pripadajúcej na množstvo liehu v spotrebiteľskom balení označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 1 659,69 eura, za priestupok podľa odseku 1 písm. b), a taký lieh v spotrebiteľskom balení zabezpečí,<sup>11</sup>)
 
