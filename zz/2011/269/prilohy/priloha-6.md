@@ -1,0 +1,3 @@
+Príloha č. 6 k vyhláške č. 269/2011 Z. z.
+
+- OSVEDČENIE NA PRÍPRAVU NA VÝKON PRÁCE V ZDRAVOTNÍCTVE [Vzor 06](../assets/3042a953f824bea9abf710c43013730f4cfd5c1899bf1d06cc92df0c41369e30.pdf)
