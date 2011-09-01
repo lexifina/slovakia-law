@@ -1,4 +1,8 @@
-- 1) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
+- 1) Napríklad § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 12 ods. 2 a 3 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
+
+- 1a) Napríklad § 21 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 1b) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 2) § 4 ods. 1 zákona č. 610/2003 Z. z.
 
@@ -89,6 +93,10 @@
 - 18a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 18b) § 4 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
+
+- 18c) Kód F63.0 prílohy č. 1 k zákonu č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18d) § 116 a 117 Občianskeho zákonníka.
 
 - 19) § 1 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 
