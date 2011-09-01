@@ -2916,7 +2916,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 156
 
-  - a) Vydanie sprievodného osvedčenia o pôvode tovaru EUR.1 ................................................ | 3 eurá
+  - a) Vydanie sprievodného osvedčenia o pôvode tovaru EUR.1 alebo EUR-MED alebo vydanie ich duplikátu ................................................................ | 3 eurá
 
   - b) Vydanie osvedčenia o preferenčnom pôvode tovaru alebo osvedčenia o statuse tovaru colnými orgánmi................... | 3 eurá
 
@@ -2926,17 +2926,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 158
 
-  - a) Vydanie osvedčenia orgánmi colnej správy o spôsobilosti dopravných prostriedkov a kontajnerov na prepravu tovaru pod colnou uzáverou | 6,50 eura
+  - a) Žiadosť o odpustenie alebo vrátenie sumy dovoznej platby alebo vývoznej platby za každé colné vyhlásenie | 16,50 eura
 
-  - b) Žiadosť o odpustenie alebo vrátenie sumy dovoznej platby alebo vývoznej platby za každé colné vyhlásenie | 16,50 eura
+  - b) Žiadosť o odklad platenia sumy dovoznej platby alebo vývoznej platby, žiadosť o pozhovenie s dovoznou platbou alebo vývoznou platbou a žiadosť o povolenie splátok dovoznej platby alebo vývoznej platby | 16,50 eura
 
-  - c) Žiadosť o odklad platenia sumy dovoznej platby alebo vývoznej platby, žiadosť o pozhovenie s dovoznou platbou alebo vývoznou platbou a žiadosť o povolenie splátok dovoznej platby alebo vývoznej platby | 16,50 eura
-
-  - d) Žiadosť o upustenie od vybratia úroku z omeškania úhrady dovoznej platby alebo vývoznej platby.... | 16,50 eura
+  - c) Žiadosť o upustenie od vybratia úroku z omeškania úhrady dovoznej platby alebo vývoznej platby.... | 16,50 eura
 
   - Oslobodenie |
 
-  - Od poplatku podľa písmena b) tejto položky sú oslobodené právnické osoby a fyzické osoby, ak ide o žiadosť o vrátenie dovoznej platby pri colnom režime aktívny zušľachťovací styk v systéme vrátenia. |
+  - Od poplatku podľa písmena a) tejto položky sú oslobodené právnické osoby a fyzické osoby, ak ide o žiadosť o vrátenie dovoznej platby pri colnom režime aktívny zušľachťovací styk v systéme vrátenia. |
 
     - Položka 159
 
@@ -4056,25 +4054,29 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - d) Podanie námietok proti žiadosti o zápis označenia pôvodu výrobku alebo zemepisného označenia výrobku do registra Európskej komisie ..... | 33 eur
 
-  - XVII. ČASŤ METROLÓGIA, TECHNICKÁ NORMALIZÁCIA, ŠTÁTNE SKÚŠOBNÍCTVO A CERTIFIKÁCIA
+  - XVII. ČASŤ METROLÓGIA A POSUDZOVANIE ZHODY
 
     - Položka 236
 
-  - Podanie prihlášky na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky na registráciu výrobcu, opravára alebo montážnika určených meradiel alebo na registráciu prevádzkovateľa baliarne alebo dovozcu spotrebiteľských balení označených značkou „e“ ........................ | 33 eur
+  - Prihláška na registráciu výrobcu, opravára alebo montážnika určených meradiel alebo prevádzkovateľa baliarne alebo dovozcu spotrebiteľských balení označených značkou „e“ podľa osobitného predpisu<sup>47aa</sup>) ....... | 33 eur
 
     - Položka 237
 
-  - Podanie žiadosti o autorizáciu na Úrade pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky ................................................................................................................ | 33 eur
+  - Žiadosť o |
 
-    - Položka 238
+  - a) autorizáciu podľa osobitného predpisu<sup>47ab</sup>) ... | 330 eur
 
-  - Vydanie povolenia Úradom pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky na vykonanie skúšok v zahraničí na účely certifikácie výrobku ................................................................... | 16,50 eura
+  - b) zápis zmeny podľa osobitného predpisu<sup>47ac</sup>) .... | 33 eur
 
     - Položka 239
 
-  - a) Podanie žiadosti na Slovenskom metrologickom ústave o vydanie rozhodnutia o tom, že určené meradlo nepodlieha schváleniu typu, za každý typ meradla .................................... | 33 eur
+  - Žiadosť o vydanie rozhodnutia o |
 
-  - b) Podanie žiadosti na Slovenskom metrologickom ústave o vydanie rozhodnutia o schválení typu meradla alebo zmeny rozhodnutia o schválení typu meradla ...................... | 16,50 eura
+  - a) tom, že určené meradlo nepodlieha schváleniu typu, za každý typ meradla podľa osobitného predpisu<sup>47aa</sup>) ...................... | 33 eur,
+
+  - b) schválení typu meradla alebo zmeny rozhodnutia o schválení typu meradla podľa osobitného predpisu<sup>47aa</sup>) .................. | 16,50 eur.
+
+  - Poznámka Poplatok podľa tejto položky vyberá Slovenský metrologický ústav. |
 
   - XVIII. ČASŤ KONZULÁRNE POPLATKY
 

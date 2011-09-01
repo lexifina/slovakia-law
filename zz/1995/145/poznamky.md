@@ -350,4 +350,14 @@
 
 - 47a) § 7 až 9 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
+- 47aa) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 47ab) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 142/2000 Z. z. v znení neskorších predpisov.
+
+- § 14 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
+
+- 47ac) § 14 ods. 11 zákona č. 254/2011 Z. z.
+
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
