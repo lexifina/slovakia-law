@@ -168,6 +168,14 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - Kontrolnú komisiu zriaďuje úrad ako svoj poradný orgán [odsek 1 písm. a) ôsmy bod]. Členov kontrolnej komisie vymenúva predseda úradu; každá zdravotná poisťovňa má v komisii po dvoch zástupcoch, dvoch zástupcov má ministerstvo zdravotníctva a dvoch zástupcov má úrad. Činnosť kontrolnej komisie sa spravuje štatútom, ktorý schvaľuje predseda úradu.“.
 
+- 13. V § 20 ods. 1 písm. e) sa v prvom bode na konci pripájajú tieto slová: „údaj o tom, či je osoba držiteľom preukazu fyzickej osoby s ťažkým zdravotným postihnutím, preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom, poberateľom invalidného dôchodku, invalidného výsluhového dôchodku, invalidná a nevznikol jej nárok na invalidný dôchodok, poberateľom starobného dôchodku, dôchodku z výsluhového zabezpečenia policajtov a vojakov vo veku nároku na starobný dôchodok, dôchodku z iného členského štátu Európskej únie, Nórska, Lichtenštajnska, Islandu, Švajčiarska, ak nie je poistená v tomto štáte, poberateľom dôchodku z tretieho štátu alebo dovŕšila dôchodkový vek a nevznikol jej nárok na starobný dôchodok, jej bankovom spojení, čísle účtu, výške dôchodku a údaj o tom, že osoba poberá príjem, ktorý podlieha dani z príjmov podľa osobitného predpisu<sup>41ac</sup>) okrem príjmov z dohôd vykonávaných mimo pracovného pomeru,“.
+
+- Poznámka pod čiarou k odkazu 41ac znie:
+
+- „41ac)
+
+- § 5 a 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.“.
+
 - 14. V § 20 sa odsek 1 dopĺňa písmenom m), ktoré znie:
 
 - „m)
