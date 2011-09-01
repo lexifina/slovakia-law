@@ -10,7 +10,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - | | | | | príprava | odpoveď
 
-  - 1 | anglický jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 1 | anglický jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
@@ -18,7 +20,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 3 | dejepis | | – | – | 20´ | 20´
 
-  - 4 | francúzsky jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 4 | francúzsky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
@@ -36,13 +40,17 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 11 | náuka o spoločnosti | | – | – | 20´ | 20´
 
-  - 12 | nemecký jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 12 | nemecký jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
   - 13 | občianska náuka | | – | – | 20´ | 20´
 
-  - 14 | ruský jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 14 | ruský jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
@@ -50,11 +58,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 16 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 90´ | 150´ | 20´ | 20´
 
-  - 17 | španielsky jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 17 | španielsky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 18 | taliansky jazyk | B2 | 120´ | 60´ | 20´ | 20´
+  - 18 | taliansky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+
+  - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
@@ -102,27 +114,51 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 40 | chorvátsky jazyk | | – | – | 20´ | 20´
 
+  - 41 | umenie a kultúra | | – | – | 20´ | 20´
+
+  - 42 | rómsky jazyk a literatúra | | – | – | 20´ | 20´
+
   - II. ČASŤ PODROBNOSTI O SPÔSOBE KONANIA EXTERNEJ ČASTI A PÍSOMNEJ FORMY INTERNEJ ČASTI MATURITNEJ SKÚŠKY
 
-    - 1. Cudzí jazyk – anglický jazyk, francúzsky jazyk, nemecký jazyk, ruský jazyk, taliansky jazyk a španielsky jazyk.
+    - 1. Cudzí jazyk – anglický jazyk, francúzsky jazyk, nemecký jazyk, ruský jazyk, talianska jazyk a španielsky jazyk.
 
-      - Cudzí jazyk obsahom a úrovňou náročnosti zodpovedá jazykovej úrovni B2 Spoločného európskeho referenčného rámca.
+      - Cudzí jazyk obsahom a úrovňou náročnosti zodpovedá jazykovej úrovni B2 alebo B1 Spoločného európskeho referenčného rámca. Predmet druhý vyučovací jazyk v bilingválnych triedach stredných škôl alebo v bilingválnych školách obsahom a náročnosťou zodpovedá úrovni C1 Spoločného európskeho referenčného rámca.Voliteľný predmet cudzí jazyk obsahom a úrovňou náročnosti zodpovedá jazykovej úrovni B1 alebo B2 Spoločného európskeho referenčného rámca.
 
-      - Voliteľný predmet cudzí jazyk obsahom a úrovňou náročnosti zodpovedá jazykovej úrovni B1 Spoločného európskeho referenčného rámca.
+      - Externá časť maturitnej skúšky z cudzieho jazyka pozostáva z centrálne vypracovanej, vo všetkých školách v rovnakom čase zadanej, pod externým dozorom konanej a externe vyhodnotenej písomnej skúšky – testu. Test overuje komunikačné kompetencie na úrovni B1 a B2 Spoločného európskeho referenčného rámca pre cudzie jazyky v častiach počúvanie s porozumením, čítanie s porozumením a použitie gramatiky a lexiky. Test obsahuje úlohy s výberom odpovede a úlohy s krátkou odpoveďou.
 
-      - Externá časť maturitnej skúšky z cudzieho jazyka pozostáva z centrálne vypracovanej, vo všetkých školách v rovnakom čase zadanej, pod externým dozorom konanej a externe vyhodnotenej písomnej skúšky – testu. Test overuje komunikačné kompetencie na úrovni B1 a B2 Spoločného európskeho referenčného rámca pre cudzie jazyky v častiach počúvanie s porozumením, čítanie s porozumením a použitie gramatiky a lexiky. Test obsahuje len úlohy s výberom odpovede a úlohy s krátkou odpoveďou.
+      - Externá časť maturitnej skúšky z druhého vyučovacieho jazyka pozostáva z centrálne vypracovanej, vo všetkých školách v rovnakom čase zadanej, pod externým dozorom konanej a externe vyhodnotenej písomnej skúšky – testu. Test overuje komunikačné kompetencie na úrovni C1 Spoločného európskeho referenčného rámca pre cudzie jazyky v častiach počúvanie s porozumením, čítanie s porozumením a použitie gramatiky a lexiky. Test obsahuje úlohy s výberom odpovede a úlohy s krátkou odpoveďou.
 
       - Úpravy pre žiakov so zdravotným znevýhodnením:
 
-      - Test z cudzieho jazyka pre žiakov so sluchovým postihnutím nebude obsahovať úlohy na počúvanie s porozumením.
+      - Test z cudzieho jazyka alebo z druhého vyučovacieho jazyka pre žiakov so sluchovým postihnutím neobsahuje úlohy na počúvanie s porozumením.
 
       - Písomnou formou internej časti maturitnej skúšky je vypracovanie centrálne zadanej témy v určenej žánrovej forme. Písomná forma internej časti maturitnej skúšky sa zadáva vo všetkých školách v rovnakom čase, koná sa pod externým dozorom a vyhodnocuje sa interne na základe centrálnych pokynov.
+
+      - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň C1:
+
+        - a) napísať jasný, detailný a správne kompozične a syntakticky členený text na zložité témy so spoločenskou alebo s odbornou tematikou,
+
+        - b) písať podrobne, štylisticky a jazykovo správne o udalostiach, reálnych alebo fiktívnych zážitkoch,
+
+        - c) napísať dobre zrozumiteľný príbeh, esej, recenziu,
+
+        - d) napísať pozdrav, pozvanie, odkaz, blahoželanie, telegram,
+
+        - e) napísať súkromný a formálny list, obchodný list, žiadosť, životopis, sťažnosť, reklamáciu, inzerát, odborný referát s využitím adekvátnych štylistických postupov a odbornej terminológie s prihliadnutím na cieľovú skupinu príjemcov,
+
+        - f) opísať osobu, predmet, miesto, činnosť, situáciu, vytvoriť syntakticky správny opis a imaginatívny test,
+
+        - g) napísať súvislý text, v ktorom žiak vyjadrí svoje názory, postoje, myšlienky, city a pomocou doplňujúcich argumentov a vhodných príkladov dokáže podrobne vysvetliť a podporiť svoje stanoviská a názory a vhodne ich ukončiť,
+
+        - h) napísať referát, diskusný príspevok, správu, prejav a použiť zodpovedajúcu odbornú terminológiu,
+
+        - i) vedieť aplikovať štylistické a kompozičné postupy náučného a populárno-náučného štýlu.
 
       - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň B2:
 
         - a) napísať jasný a detailný text na rôzne témy, ktoré žiaka zaujímajú,
 
-        - b) podrobne, štylisticky a jazykovo správne písať o udalostiach, reálnych alebo fiktívnych zážitkoch,
+        - b) písať podrobne, štylisticky a jazykovo správne o udalostiach, reálnych alebo fiktívnych zážitkoch,
 
         - c) napísať dobre zrozumiteľný príbeh,
 
@@ -132,25 +168,23 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - f) opísať osobu, predmet, miesto, činnosť, situáciu,
 
-        - g) napísať súvislý text, v ktorom vyjadrí svoje názory, postoje, myšlienky, city,
+        - g) napísať súvislý text, v ktorom žiak vyjadrí svoje názory, postoje, myšlienky, city,
 
         - h) napísať referát, diskusný príspevok, správu, rozprávanie.
 
       - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň B1:
 
-        - a) jednoducho a jasne písať o témach, ktoré sú žiakovi známe a zaujímajú ho,
+        - a) písať jednoducho a jasne o témach, ktoré sú žiakovi známe a zaujímajú ho,
 
-        - b) vyjadriť svoj názor na témy, ktoré ho zaujímajú,
+        - b) vyjadriť svoj názor na témy, ktoré žiaka zaujímajú,
 
         - c) vyjadriť svoje pocity (ľútosť, radosť, záujem, súcit a pod.),
 
-        - d) zvládnuť základné formy korešpondencie,
+        - d) napísať pozdrav, pozvanie, odkaz, blahoželanie, telegram,
 
-        - e) napísať pozdrav, pozvanie, odkaz, blahoželanie, telegram,
+        - e) napísať súkromný a formálny list, žiadosť, životopis, sťažnosť, reklamáciu, inzerát,
 
-        - f) napísať súkromný a formálny list, žiadosť, životopis, sťažnosť, reklamáciu, inzerát,
-
-        - g) opísať osobu, predmet, miesto, činnosť, situáciu.
+        - f) opísať osobu, predmet, miesto, činnosť, situáciu.
 
     - 2. Maďarský jazyk a literatúra, ukrajinský jazyk a literatúra
 
@@ -232,11 +266,11 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - ANGLICKÝ JAZYK
 
-    - Každé zadanie pre obidve úrovne náročnosti sa skladá z troch úloh.
+    - Každé zadanie pre všetky úrovne náročnosti sa skladá z troch úloh.
 
     - Tematické okruhy sú uvedené v cieľových požiadavkách z anglického jazyka.
 
-    - Charakteristika úloh maturitných zadaní pre jazykové úrovne B2 a B1 Spoločného európskeho referenčného rámca
+    - Charakteristika úloh maturitných zadaní
 
     - Úloha č. 1 – Vizuálny podnet (napr. obrázok, fotografia, komiks, graf, schéma a pod.)
 
@@ -322,27 +356,27 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 2 % až 3 % biológia ako veda,
+      - biológia ako veda,
 
-      - 8 % až 12 % biológia bunky a všeobecné vlastnosti živých sústav,
+      - biológia bunky a všeobecné vlastnosti živých sústav,
 
-      - 2 % až 3 % nebunkové a prokaryotické organizmy,
+      - nebunkové a prokaryotické organizmy,
 
-      - 10 % až 15 % biológia rastlín,
+      - biológia rastlín,
 
-      - 6 % až 9 % systém a fylogenéza rastlín,
+      - systém a fylogenéza rastlín,
 
-      - 2 % až 3 % huby a lišajníky,
+      - huby a lišajníky,
 
-      - 10 % až 15 % biológia živočíchov,
+      - biológia živočíchov,
 
-      - 6 % až 9 % systém a fylogenéza živočíchov,
+      - systém a fylogenéza živočíchov,
 
-      - 18 % až 27 % biológia človeka,
+      - biológia človeka,
 
-      - 10 % až 15 % genetika,
+      - genetika,
 
-      - 6 % až 9 % ekológia.
+      - ekológia.
 
       - Všeobecné pomôcky
 
@@ -404,15 +438,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 5 % až 10 % úvod do vyučovania dejepisu a pravek,
+      - úvod do vyučovania dejepisu a pravek,
 
-      - 10 % až 20 % starovek,
+      - starovek,
 
-      - 10 % až 20 % stredovek,
+      - stredovek,
 
-      - 25 % až 35 % novovek,
+      - novovek,
 
-      - 30 % až 40 % dejiny 20. storočia.
+      - dejiny 20. storočia.
 
       - Zastúpenie uvedených jednotlivých častí učiva v súbore všetkých úloh v maturitných zadaniach je takéto:
 
@@ -446,7 +480,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - FRANCÚZSKY JAZYK
 
-      - Každé zadanie pre obidve úrovne náročnosti sa skladá z troch úloh.
+      - Každé zadanie pre všetky úrovne náročnosti sa skladá z troch úloh.
 
       - Tematické okruhy sú uvedené v cieľových požiadavkách z francúzskeho jazyka.
 
@@ -534,21 +568,21 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 25 % mechanika,
+      - mechanika,
 
-      - 10 % až 20 % molekulová fyzika a termodynamika,
+      - molekulová fyzika a termodynamika,
 
-      - 10 % až 25 % elektrický prúd a elektrické pole,
+      - elektrický prúd a elektrické pole,
 
-      - 10 % až 15 % magnetické pole,
+      - magnetické pole,
 
-      - 10 % až 15 % striedavý prúd,
+      - striedavý prúd,
 
-      - 10 % až 15 % mechanické kmitanie,
+      - mechanické kmitanie,
 
-      - 10 % až 15 % vlnenie,
+      - vlnenie,
 
-      - 5 % až 10 % základy fyziky mikrosveta.
+      - základy fyziky mikrosveta.
 
       - Všeobecné pomôcky
 
@@ -586,17 +620,17 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 4 % až 6 % Zem a zobrazovanie Zeme,
+      - Zem a zobrazovanie Zeme,
 
-      - 16 % až 24 % fyzická geografia (atmosféra, hydrosféra, litosféra, pedosféra, biosféra),
+      - fyzická geografia (atmosféra, hydrosféra, litosféra, pedosféra, biosféra),
 
-      - 16 % až 24 % humánna geografia (obyvateľstvo, sídla, hospodárstvo sveta),
+      - humánna geografia (obyvateľstvo, sídla, hospodárstvo sveta),
 
-      - 22 % až 33 % regionálna geografia sveta (politická mapa sveta, geografia Európy, Ameriky, Ázie, Afriky, Austrálie, Oceánie, Antarktídy a oceánov),
+      - regionálna geografia sveta (politická mapa sveta, geografia Európy, Ameriky, Ázie, Afriky, Austrálie, Oceánie, Antarktídy a oceánov),
 
-      - 14 % až 21 % geografia Slovenskej republiky,
+      - geografia Slovenskej republiky,
 
-      - 4 % až 6 % geoekológia a environmentalistika.
+      - geoekológia a environmentalistika.
 
       - Všeobecné pomôcky
 
@@ -620,19 +654,19 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní pre žiakov so zrakovým postihnutím je takéto:
 
-      - 4 % až 6 % Zem a zobrazovanie Zeme,
+      - Zem a zobrazovanie Zeme,
 
-      - 16 % až 22 % fyzická geografia (atmosféra, hydrosféra, litosféra, pedosféra, biosféra),
+      - fyzická geografia (atmosféra, hydrosféra, litosféra, pedosféra, biosféra),
 
-      - 16 % až 24 % humánna geografia (obyvateľstvo, sídla, hospodárstvo sveta),
+      - humánna geografia (obyvateľstvo, sídla, hospodárstvo sveta),
 
-      - 25 % až 35 % regionálna geografia sveta (politická mapa sveta, geografia Európy, Ameriky, Ázie, Afriky, Austrálie,
+      - regionálna geografia sveta (politická mapa sveta, geografia Európy, Ameriky, Ázie, Afriky, Austrálie,
 
       - Oceánie, Antarktídy a oceánov),
 
-      - 17 % až 25 % geografia Slovenskej republiky,
+      - geografia Slovenskej republiky,
 
-      - 4 % až 6 % geoekológia a environmentalistika.
+      - geoekológia a environmentalistika.
 
       - Trvanie skúšky: 30 minút
 
@@ -652,13 +686,13 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 25 % až 40 % všeobecná chémia,
+      - všeobecná chémia,
 
-      - 15 % až 20 % anorganická chémia,
+      - anorganická chémia,
 
-      - 30 % až 40 % organická chémia,
+      - organická chémia,
 
-      - 10 % až 20 % prírodné látky a základy biochémie.
+      - prírodné látky a základy biochémie.
 
       - Všeobecné pomôcky
 
@@ -700,9 +734,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - Úloha č. 1 – 100 % algoritmy a programovanie
+      - Úloha č. 1 – algoritmy a programovanie
 
-      - Úloha č. 2 – 25 % až 40 % informácie okolo nás, informačná spoločnosť, počítačové systémy,
+      - Úloha č. 2 – informácie okolo nás, informačná spoločnosť, počítačové systémy, internet
 
       - 25 % až 40 % internet,
 
@@ -754,27 +788,27 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Úlohy z literatúry
 
-      - 44 % až 66 % maďarská literatúra,
+      - maďarská literatúra,
 
-      - 24 % až 36 % svetová literatúra,
+      - svetová literatúra,
 
-      - 12 % až 18 % teória literatúry.
+      - teória literatúry.
 
       - Úlohy z jazyka
 
-      - 8 % až 12 % lexikológia a frazeológia,
+      - lexikológia a frazeológia,
 
-      - 8 % až 12 % morfológia,
+      - morfológia,
 
-      - 8 % až 12 % zvuková a grafická stránka jazyka,
+      - zvuková a grafická stránka jazyka,
 
-      - 12 % až 18 % syntax,
+      - syntax,
 
-      - 8 % až 12 % práca s informáciami,
+      - práca s informáciami,
 
-      - 8 % až 12 % všeobecné poznatky o jazyku,
+      - všeobecné poznatky o jazyku,
 
-      - 28 % až 42 % štylistika.
+      - štylistika.
 
       - Všeobecné pomôcky
 
@@ -812,15 +846,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 20 % základy matematiky,
+      - základy matematiky,
 
-      - 20 % až 40 % funkcie,
+      - funkcie,
 
-      - 20 % až 40 % planimetria,
+      - planimetria,
 
-      - 10 % až 20 % stereometria,
+      - stereometria,
 
-      - 8 % až 16 % kombinatorika, pravdepodobnosť, štatistika.
+      - kombinatorika, pravdepodobnosť, štatistika.
 
       - Úlohy maturitných zadaní nemôžu byť z jedného tematického okruhu.
 
@@ -844,15 +878,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní pre žiakov so sluchovým postihnutím je takéto:
 
-      - 10 % až 30 % základy matematiky,
+      - základy matematiky,
 
-      - 15 % až 30 % funkcie,
+      - funkcie,
 
-      - 15 % až 30 % planimetria,
+      - planimetria,
 
-      - 10 % až 20 % stereometria,
+      - stereometria,
 
-      - 5 % až 15 % kombinatorika, pravdepodobnosť, štatistika.
+      - kombinatorika, pravdepodobnosť, štatistika.
 
       - Trvanie skúšky: 30 minút
 
@@ -872,15 +906,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 40 % filozofia,
+      - filozofia,
 
-      - 15 % až 20 % právo,
+      - právo,
 
-      - 15 % až 20 % politológia,
+      - politológia,
 
-      - 10 % až 15 % ekonómia a ekonomika,
+      - ekonómia a ekonomika,
 
-      - 10 % až 15 % psychológia a sociológia.
+      - psychológia a sociológia.
 
       - Všeobecné pomôcky
 
@@ -928,7 +962,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - NEMECKÝ JAZYK
 
-      - Každé zadanie pre obidve úrovne sa skladá z troch úloh. Tematické okruhy sú uvedené v cieľových požiadavkách z nemeckého jazyka.
+      - Každé zadanie pre všetky úrovne sa skladá z troch úloh. Tematické okruhy sú uvedené v cieľových požiadavkách z nemeckého jazyka.
 
       - Charakteristika úloh maturitných zadaní
 
@@ -1012,15 +1046,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 40 % filozofia,
+      - filozofia,
 
-      - 15 % až 20 % právo,
+      - právo,
 
-      - 15 % až 20 % politológia,
+      - politológia,
 
-      - 10 % až 15 % ekonómia a ekonomika,
+      - ekonómia a ekonomika,
 
-      - 10 % až 15 % psychológia a sociológia.
+      - psychológia a sociológia.
 
       - Všeobecné pomôcky
 
@@ -1068,7 +1102,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - RUSKÝ JAZYK
 
-      - Každé zadanie pre obidve úrovne sa skladá z troch úloh.
+      - Každé zadanie pre všetky úrovne sa skladá z troch úloh.
 
       - Tematické okruhy sú uvedené v cieľových požiadavkách z ruského jazyka.
 
@@ -1162,27 +1196,27 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Úlohy z literatúry
 
-      - 44 % až 66 % slovenská literatúra,
+      - slovenská literatúra,
 
-      - 24 % až 36 % svetová literatúra,
+      - svetová literatúra,
 
-      - 12 % až 18 % teória literatúry.
+      - teória literatúry.
 
       - Úlohy z jazyka
 
-      - 8 % až 12 % lexikológia a frazeológia,
+      - lexikológia a frazeológia,
 
-      - 8 % až 12 % morfológia,
+      - morfológia,
 
-      - 8 % až 12 % zvuková a grafická stránka jazyka,
+      - zvuková a grafická stránka jazyka,
 
-      - 12 % až 18 % syntax,
+      - syntax,
 
-      - 8 % až 12 % práca s informáciami,
+      - práca s informáciami,
 
-      - 8 % až 12 % všeobecné poznatky o jazyku,
+      - všeobecné poznatky o jazyku,
 
-      - 28 % až 42 % štylistika.
+      - štylistika.
 
       - Všeobecné pomôcky
 
@@ -1226,9 +1260,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 48 % až 70 % konverzácia,
+      - konverzácia,
 
-      - 30 % až 50 % literatúra.
+      - literatúra.
 
       - Všeobecné pomôcky
 
@@ -1262,7 +1296,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - ŠPANIELSKY JAZYK
 
-      - Každé zadanie pre obidve úrovne sa skladá z troch úloh.
+      - Každé zadanie pre všetky úrovne sa skladá z troch úloh.
 
       - Tematické okruhy sú uvedené v cieľových požiadavkách zo španielskeho jazyka.
 
@@ -1340,7 +1374,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - TALIANSKY JAZYK
 
-      - Každé zadanie pre obidve úrovne sa skladá z troch úloh.
+      - Každé zadanie pre všetky úrovne sa skladá z troch úloh.
 
       - Tematické okruhy sú uvedené v cieľových požiadavkách z talianskeho jazyka.
 
@@ -1436,27 +1470,27 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Úlohy z literatúry
 
-      - 44 % až 66 % ukrajinská literatúra,
+      - ukrajinská literatúra,
 
-      - 24 % až 36 % svetová literatúra,
+      - svetová literatúra,
 
-      - 12 % až 18 % teória literatúry.
+      - teória literatúry.
 
       - Úlohy z jazyka
 
-      - 8 % až 12 % lexikológia a frazeológia,
+      - lexikológia a frazeológia,
 
-      - 8 % až 12 % morfológia,
+      - morfológia,
 
-      - 8 % až 12 % zvuková a grafická stránka jazyka,
+      - zvuková a grafická stránka jazyka,
 
-      - 12 % až 18 % syntax,
+      - syntax,
 
-      - 8 % až 12 % práca s informáciami,
+      - práca s informáciami,
 
-      - 8 % až 12 % všeobecné poznatky o jazyku,
+      - všeobecné poznatky o jazyku,
 
-      - 28 % až 42 % štylistika.
+      - štylistika.
 
       - Všeobecné pomôcky
 
@@ -1490,15 +1524,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Úloha č. 3 – Úloha je obvykle zameraná na encyklopedické vedomosti žiaka. Ide v nej o vymenovanie najvýznamnejších osobností a ich diel daného obdobia (prevláda forma monológu). Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 15 % periodizácia dejín umenia, základné rozdelenie umeleckých druhov, umenie praveku,
+      - periodizácia dejín umenia, základné rozdelenie umeleckých druhov, umenie praveku,
 
-      - 10 % až 15 % staroveké umenie,
+      - staroveké umenie,
 
-      - 10 % až 15 % stredoveké umenie,
+      - stredoveké umenie,
 
-      - 15 % až 35 % umenie novoveku,
+      - umenie novoveku,
 
-      - 20 % až 30 % umenie 20. storočia.
+      - umenie 20. storočia.
 
       - Zastúpenie uvedených jednotlivých častí učiva v súbore všetkých otázok v maturitných zadaniach je takéto: približne 90 % svetové dejiny umenia, približne 10 % národné dejiny umenia.
 
@@ -1538,19 +1572,19 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 5 % až 10 % základné pojmy zo stereometrie,
+      - základné pojmy zo stereometrie,
 
-      - 5 % až 10 % základné pojmy pri premietaní a druhy zobrazovaní,
+      - základné pojmy pri premietaní a druhy zobrazovaní,
 
-      - 30 % až 50 % kolmé premietanie na dve priemetne,
+      - kolmé premietanie na dve priemetne,
 
-      - 10 % až 20 % kolmá axonometria,
+      - kolmá axonometria,
 
-      - 10 % až 20 % kolmé premietanie na jednu priemetňu,
+      - kolmé premietanie na jednu priemetňu,
 
-      - 5 % až 10 % stredové premietanie,
+      - stredové premietanie,
 
-      - 5 % až 10 % počítačová grafika.
+      - počítačová grafika.
 
       - Všeobecné pomôcky
 
@@ -1598,29 +1632,29 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 2 % až 3 % ekológia ako vedná disciplína,
+      - ekológia ako vedná disciplína,
 
-      - 4 % až 6 % vzťahy medzi organizmami a prostredím,
+      - vzťahy medzi organizmami a prostredím,
 
-      - 4 % až 6 % populácia,
+      - populácia,
 
-      - 4 % až 6 % biologické spoločenstvo,
+      - biologické spoločenstvo,
 
-      - 8 % až 12 % ekosystémy,
+      - ekosystémy,
 
-      - 8 % až 12 % lesný ekosystém,
+      - lesný ekosystém,
 
-      - 8 % až 12 % lúčny ekosystém,
+      - lúčny ekosystém,
 
-      - 8 % až 12 % poľný ekosystém,
+      - poľný ekosystém,
 
-      - 8 % až 12 % vodný ekosystém,
+      - vodný ekosystém,
 
-      - 7 % až 10 % ochrana prírody,
+      - ochrana prírody,
 
-      - 15 % až 22 % prostredie človeka a jeho zdravie,
+      - prostredie človeka a jeho zdravie,
 
-      - 4 % až 7 % ekológia, etológia.
+      - ekológia, etológia.
 
       - Všeobecné pomôcky
 
@@ -1676,21 +1710,21 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 15 % historická podmienenosť ekonomiky,
+      - historická podmienenosť ekonomiky,
 
-      - 10 % až 15 % trhový mechanizmus a jeho pôsobenie,
+      - trhový mechanizmus a jeho pôsobenie,
 
-      - 10 % až 15 % trh výrobných činiteľov,
+      - trh výrobných činiteľov,
 
-      - 10 % až 15 % organizácia a formy podnikania,
+      - organizácia a formy podnikania,
 
-      - 10 % až 15 % makroekonomické pojmy a vzťahy,
+      - makroekonomické pojmy a vzťahy,
 
-      - 10 % až 15 % peniaze a bankový systém,
+      - peniaze a bankový systém,
 
-      - 10 % až 15 % ekonomická úloha štátu,
+      - ekonomická úloha štátu,
 
-      - 10 % až 15 % svetové hospodárstvo.
+      - svetové hospodárstvo.
 
       - Všeobecné pomôcky
 
@@ -1734,29 +1768,29 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 5 % až 10 % problematika estetiky a estetickej výchovy,
+      - problematika estetiky a estetickej výchovy,
 
-      - 5 % až 10 % úžitkové umenie,
+      - úžitkové umenie,
 
-      - 5 % až 10 % populárne a zábavné žánre,
+      - populárne a zábavné žánre,
 
-      - 10 % až 15 % estetika architektúry,
+      - estetika architektúry,
 
-      - 10 % až 15 % estetika sochárstva,
+      - estetika sochárstva,
 
-      - 10 % až 15 % estetika maliarstva,
+      - estetika maliarstva,
 
-      - 2 % až 5 % estetika hudby,
+      - estetika hudby,
 
-      - 10 % až 15 % estetika fotografie a filmu,
+      - estetika fotografie a filmu,
 
-      - 2 % až 5 % estetika divadla,
+      - estetika divadla,
 
-      - 2 % až 5 % estetika tanca a baletu,
+      - estetika tanca a baletu,
 
-      - 2 % až 5 % estetika ľudového umenia a insity,
+      - estetika ľudového umenia a insity,
 
-      - 2 % až 5 % galérie a múzeá.
+      - galérie a múzeá.
 
       - Všeobecné pomôcky
 
@@ -1796,11 +1830,11 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 30 % až 40 % človek hľadá Boha, Boh hľadá človeka,
+      - človek hľadá Boha, Boh hľadá človeka,
 
-      - 30 % až 40 % život v spoločenstve,
+      - život v spoločenstve,
 
-      - 20 % až 30 % život človeka ako odpoveď na lásku Boha k nám.
+      - život človeka ako odpoveď na lásku Boha k nám.
 
       - Všeobecné pomôcky
 
@@ -1842,21 +1876,21 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 15 % základné pojmy a princípy etiky a morálky,
+      - základné pojmy a princípy etiky a morálky,
 
-      - 5 % až 10 % základná orientácia vo svetových náboženstvách,
+      - základná orientácia vo svetových náboženstvách,
 
-      - 5 % až 10 % nebezpečenstvo a prevencia drogovej závislosti,
+      - nebezpečenstvo a prevencia drogovej závislosti,
 
-      - 5 % až 10 % vzťah muža a ženy, základy sexuálnej etiky,
+      - vzťah muža a ženy, základy sexuálnej etiky,
 
-      - 10 % až 20 % rodina, jej význam a úlohy v spoločnosti,
+      - rodina, jej význam a úlohy v spoločnosti,
 
-      - 10 % až 20 % prehľad hlavných etických smerov v dejinách,
+      - prehľad hlavných etických smerov v dejinách,
 
-      - 5 % až 15 % základné princípy sociálnej etiky,
+      - základné princípy sociálnej etiky,
 
-      - 10 % až 20 % špeciálne etické problémy súčasnosti.
+      - špeciálne etické problémy súčasnosti.
 
       - Všeobecné pomôcky
 
@@ -1930,29 +1964,29 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 2 % až 5 % právo a jeho úloha v spoločnosti,
+      - právo a jeho úloha v spoločnosti,
 
-      - 5 % až 10 % právny systém,
+      - právny systém,
 
-      - 2 % až 5 % odvetvia práva,
+      - odvetvia práva,
 
-      - 5 % až 10 % rodinné právo,
+      - rodinné právo,
 
-      - 5 % až 10 % občianske právo,
+      - občianske právo,
 
-      - 2 % až 5 % obchodné právo,
+      - obchodné právo,
 
-      - 5 % až 10 % trestné právo,
+      - trestné právo,
 
-      - 10 % až 20 % pracovné právo,
+      - pracovné právo,
 
-      - 10 % až 20 % finančné právo,
+      - finančné právo,
 
-      - 5 % až 10 % právo životného prostredia,
+      - právo životného prostredia,
 
-      - 20 % až 30 % správne právo,
+      - správne právo,
 
-      - 2 % až 5 % medzinárodné právo.
+      - medzinárodné právo.
 
       - Všeobecné pomôcky
 
@@ -2002,11 +2036,11 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 20 % až 40 % všeobecná psychológia,
+      - všeobecná psychológia,
 
-      - 30 % až 50 % psychológia osobnosti,
+      - psychológia osobnosti,
 
-      - 20 % až 40 % sociálna psychológia.
+      - sociálna psychológia.
 
       - Hodnotenie
 
@@ -2040,11 +2074,11 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 30 % až 40 % Boží plán spásy v Písme Svätom,
+      - Boží plán spásy v Písme Svätom,
 
-      - 30 % až 40 % dejiny cirkvi,
+      - dejiny cirkvi,
 
-      - 20 % až 30 % reformovaná dogmatika a etika.
+      - reformovaná dogmatika a etika.
 
       - Všeobecné pomôcky
 
@@ -2086,13 +2120,13 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 20 % až 30 % vyznanie viery,
+      - vyznanie viery,
 
-      - 20 % až 30 % sviatosť viery,
+      - sviatosť viery,
 
-      - 20 % až 30 % život z viery,
+      - život z viery,
 
-      - 20 % až 30 % modlitba v živote viery.
+      - modlitba v živote viery.
 
       - Všeobecné pomôcky
 
@@ -2128,9 +2162,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie uvedených jednotlivých častí učiva v súbore všetkých otázok v maturitných zadaniach je takéto:
 
-      - 50 % ľudová kultúra,
+      - ľudová kultúra,
 
-      - 50 % dejiny umenia a umeleckoremeselná práca.
+      - dejiny umenia a umeleckoremeselná práca.
 
       - Všeobecné pomôcky
 
@@ -2218,9 +2252,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie uvedených jednotlivých častí učiva v súbore všetkých otázok v maturitných zadaniach je takéto:
 
-      - 30 % teória telesnej kultúry a prierezových vedných odborov (dejiny, anatómia, biochémia, biomechanika, psychológia, pedagogika...),
+      - teória telesnej kultúry a prierezových vedných odborov (dejiny, anatómia, biochémia, biomechanika, psychológia, pedagogika...),
 
-      - 70 % teória a didaktika športového tréningu.
+      - teória a didaktika športového tréningu.
 
       - Všeobecné pomôcky
 
@@ -2266,11 +2300,11 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 34 % herectvo (dejiny divadla, teória hereckej tvorby, rečový prejav – technika reči, divadelný výstup),
+      - herectvo (dejiny divadla, teória hereckej tvorby, rečový prejav – technika reči, divadelný výstup),
 
-      - 33 % spev (hudobná história, hudobná teória, intonácia a rytmus, spevácka technika, hudobná ukážka),
+      - spev (hudobná história, hudobná teória, intonácia a rytmus, spevácka technika, hudobná ukážka),
 
-      - 33 % tanec (dejiny tanca a teória klasického tanca, džezového a moderného tanca, ľudového tanca, stepu, tanečná ukážka).
+      - tanec (dejiny tanca a teória klasického tanca, džezového a moderného tanca, ľudového tanca, stepu, tanečná ukážka).
 
       - Všeobecné pomôcky
 
@@ -2312,15 +2346,15 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - 10 % až 15 % literárne dielo ako ideovo-estetická štruktúra,
+      - literárne dielo ako ideovo-estetická štruktúra,
 
-      - 15 % až 20 % verš, rytmus, rým, strofa,
+      - verš, rytmus, rým, strofa,
 
-      - 20 % až 25 % lyrika,
+      - lyrika,
 
-      - 20 % až 25 % epika,
+      - epika,
 
-      - 15 % až 20 % dráma.
+      - dráma.
 
       - Všeobecné pomôcky
 
@@ -2490,19 +2524,83 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Čas na prípravu: 30 minút
 
+      - UMENIE a KULTÚRA
+
+      - Charakteristika úloh maturitných zadaní
+
+      - Úloha č. 1 – Úloha je zameraná na schopnosti riešenia problémov. Žiak má preukázať schopnosi samostatne riešiť problémy týkajúce sa kultúry a umenia, ako aj schopnosti tvoriť vlastné projekty na riešenie modelových situácií. V úlohe má určené, akých kultúrnych artefaktov alebo situácií sa problém týka, prípadne sa zadáva modelová situácia. Predpokladá sa, že v úlohe bude pracovať s literatúrou a s ukážkami. Prevláda metóda prezentácie riešenia. Ak je súčasťou úlohy prezentácia vlastných názorov a estetických súdov, žiak v dialógu s členmi maturitnej komisie prezentuje schopnosť argumentácie.
+
+      - Úloha č. 2 – Úloha je zameraná na aplikáciu. Žiak má preukázať, ako v riešení z prvej úlohy aplikoval poznatky a vedomosti, ako prepája teoretické poznatky o kultúre so skutočným životom, prípadne ako by riešenie z prvej úlohy aplikoval v novej situácii. Žiak preukazuje schopnosti aplikácie, ako aj schopnosti reflektovať túto aplikáciu. V dialógu s členmi komisie prezentuje schopnosť argumentácie.
+
+      - Úloha č. 3 – Úloha je zameraná na poznanie a vedomosti. Žiak má preukázať osvojené poznanie, vedomosti a informácie, s ktorými pracoval v prvých úlohách.
+
+      - Všeobecné pomôcky
+
+      - Dejiny rôznych druhov umenia a kultúry
+
+      - Všeobecné encyklopédie
+
+      - Monografie umelcov, ukážky tvorby z rôznych umeleckých druhov
+
+      - Mapy sveta, Európy, Slovenskej republiky
+
+      - Hodnotenie
+
+        - a) Každá úloha maturitného zadania sa hodnotí stupňom prospechu 1 až 5.
+
+        - b) Váha hodnotenia jednotlivých úloh je 1 : 1 : 1. Pri výpočte váženého priemeru sa používa vzorec
+
+        - ![Vzorec 01](../assets/8444d8e96a8461cfc050fe2b6550477aa1b404b3ae4602bdaf3129924198ce57.png)
+
+        - pričom z je po zaokrúhlení výsledná známka a z<sub>i</sub> je známka za úlohu č. i.
+
+      - Úpravy pre žiakov so zdravotným znevýhodnením
+
+      - Trvanie skúšky: 30 minút
+
+      - Čas na prípravu: 30 minút
+
+      - RÓMSKY JAZYK A LITERATÚRA
+
+      - Charakteristika úloh maturitných zadaní
+
+      - Úloha č. 1 – Úloha je zameraná na čítanie textu v rómskom jazyku v rozsahu minimálne troch a maximálne šiestich viet publicistického alebo beletristického žánru. Žiak má vedieť text reprodukovať, prerozprávať obsah. Predmetová maturitná komisia hodnotí obsahovú a jazykovú presnosť, súvislosť prejavu, využívanie neologizmov, lineárnosť vo vyjadrovaní a snahu používať adekvátne jazykové prostriedky zodpovedajúce danej úrovni žiaka (prevláda forma monológu).
+
+      - Úloha č. 2 – Úlohou žiaka je zaujať stanovisko k téme a odôvodniť ho v rozhovore s členmi predmetovej maturitnej komisie, ktorá vedie rozhovor podľa zásad uvedených v metodických pokynoch pre predmetové maturitné komisie. Predmetová maturitná komisia hodnotí, ako žiak dokáže zdôvodniť a vysvetliť svoje názory na príslušnú tému a argumentovať k problematike, výber faktov a informácií, gramatickú presnosť, lexikálny rozsah, náročnosť spracovania rozhovoru, argumentáciu, plynulosť a súvislosť vyjadrovania (prevláda forma dialógu s členmi predmetovej maturitnej komisie).
+
+      - Úloha č. 3 – Úloha je zameraná na vyriešenie konkrétnej situácie z každodenného života v okruhu príslušných tém. Predmetová maturitná komisia sa zameriava na hodnotenie výberu a adekvátnosť použitia jazykových prostriedkov, pohotovosť vyjadrovania, jazykovú a obsahovú správnosť (prevláda forma dialógu s členmi predmetovej maturitnej komisie).
+
+      - Všeobecné pomôcky
+
+      - Prekladový slovník
+
+      - Hodnotenie
+
+        - a) Každá úloha maturitného zadania sa hodnotí stupňom prospechu 1 až 5.
+
+        - b) Váha hodnotenia jednotlivých úloh je 1 : 2 : 1. Pri výpočte váženého priemeru sa používa vzorec
+
+        - ![Vzorec 02](../assets/3ca3d4b0b0716878d1cdc34698be706fe5b0dfbc5a2b0198c576ca4b287d1d91.png)
+
+        - pričom z je po zaokrúhlení výsledná známka a z<sub>i</sub> je známka za úlohu č. i.
+
+      - Úpravy pre žiakov so zdravotným znevýhodnením
+
+      - Trvanie skúšky: 30 minút
+
+      - Čas na prípravu: 30 minút
+
   - IV. ČASŤ PODROBNOSTI O SPÔSOBE KONANIA A OBSAHU TEORETICKEJ ČASTI ODBORNEJ ZLOŽKY MATURITNEJ SKÚŠKY A PRAKTICKEJ ČASTI ODBORNEJ ZLOŽKY MATURITNEJ SKÚŠKY VŠEOBECNÉ POKYNY
 
     - 1. Teoretická časť odbornej zložky maturitnej skúšky je verejná.
 
-    - 2. V predmete teoretická časť odbornej zložky maturitnej skúšky a v predmete praktická časť odbornej zložky maturitnej skúšky si žiak žrebuje jednu z 25 schválených tém.
+    - 2. Maturitné témy vychádzajú z cieľových požiadaviek na vedomosti a zručnosti pre príslušný predmet maturitnej skúšky príslušného študijného odboru v oblasti odborného vzdelávania.
 
-    - 3. Maturitné témy vychádzajú z cieľových požiadaviek na vedomosti a zručnosti pre príslušný predmet maturitnej skúšky príslušného študijného odboru v oblasti odborného vzdelávania.
+    - 3. Maturitné témy pre teoretickú časť odbornej zložky maturitnej skúšky a praktickú časť odbornej zložky maturitnej skúšky pripravuje príslušná predmetová komisia školy. Maturitné témy sa nezverejňujú.
 
-    - 4. Maturitné témy pre teoretickú časť odbornej zložky maturitnej skúšky a praktickú časť odbornej zložky maturitnej skúšky pripravuje príslušná predmetová komisia školy. Maturitné témy sa nezverejňujú.
+    - 4. Skúšajúci citlivo riadi rozhovor so žiakmi, kladie pomocné a stimulačné otázky, vyjadruje súhlas alebo nesúhlas s tvrdeniami žiaka, pričom ho vedie k tomu, aby svoje názory podopieral argumentmi a využíval pri tom písomnú prípravu a tiež vlastné poznatky získané počas prípravy na maturitnú skúšku.
 
-    - 5. Skúšajúci citlivo riadi rozhovor so žiakmi, kladie pomocné a stimulačné otázky, vyjadruje súhlas alebo nesúhlas s tvrdeniami žiaka, pričom ho vedie k tomu, aby svoje názory podopieral argumentmi a využíval pri tom písomnú prípravu a tiež vlastné poznatky získané počas prípravy na maturitnú skúšku.
-
-    - 6. Členovia predmetovej maturitnej komisie dbajú na to, aby žiak mohol na ich podnety reagovať plynulo a mal dosť času a pokoja na vyjadrenie svojich myšlienok.
+    - 5. Členovia predmetovej maturitnej komisie dbajú na to, aby žiak mohol na ich podnety reagovať plynulo a mal dosť času a pokoja na vyjadrenie svojich myšlienok.
 
     - TEORETICKÁ ČASŤ ODBORNEJ ZLOŽKY
 
@@ -2568,7 +2666,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Kalkulačka, odborná literatúra, modely, priesvitky, učebné pomôcky, odborné periodiká, dátové súbory na elektronických nosičoch, dokumenty textového a grafického charakteru v ručnej, tlačenej a elektronickej podobe.
 
-    - 21 Baníctvo a banícka geológia
+    - 21 Baníctvo, geológia a geotechnika
 
     - Cieľové požiadavky
 
@@ -2668,7 +2766,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Strojnícke tabuľky, kalkulačky, pravítka, výpočtová technika.
 
-    - 23 Strojárstvo a ostatná kovospracúvacia výroba, 24 Strojárstvo a ostatná kovospracúvacia výroba
+    - 23 Strojárstvo a ostatná kovospracúvacia výroba I, 24 Strojárstvo a ostatná kovospracúvacia výroba II
 
     - Cieľové požiadavky
 
@@ -2756,7 +2854,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Odborná literatúra, odborné časopisy, internet, tabuľky, vlastné práce žiaka, kalkulačka, modely, priesvitky, obrazy, učebné pomôcky.
 
-    - 27 Technická chémia silikátov, 28 Aplikovaná chémia, 29 Potravinárstvo
+    - 27 Technická chémia silikátov, 28 Technická a aplikovaná chémia, 29 Potravinárstvo
 
     - Cieľové požiadavky
 
@@ -3156,7 +3254,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Tabuľky, odborná literatúra a odborné časopisy, internet, vlastné práce žiaka, kalkulačka, modely, priesvitky, obrazy, učebné pomôcky.
 
-    - 42 Poľnohospodárstvo, lesné hospodárstvo, 43 Veterinárske vedy, 45 Poľnohospodárstvo a lesné hospodárstvo a rozvoj vidieka
+    - 42 Poľnohospodárstvo, lesné hospodárstvo a rozvoj vidieka I, 43 Veterinárske vedy, 45 Poľnohospodárstvo, lesné hospodárstvo a rozvoj vidieka II
 
     - Cieľové požiadavky
 
@@ -3200,7 +3298,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Učebné pomôcky podľa odboru, odborná literatúra, odborné časopisy, písomné práce žiakov počas štúdia, kalkulačka.
 
-    - 53 Zdravotníctvo
+    - 53 Zdravotnícke odbory vzdelávania na stredných zdravotníckych školách
 
     - asistent (zdravotnícky asistent, masér, masér pre zrakovo hendikepovaných, asistent výživy, zdravotnícky záchranár)
 
@@ -3300,7 +3398,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Odborná literatúra, odborné časopisy, vlastné práce žiaka vypracované počas štúdia, protokoly, kalkulačka, počítačové programy, internet, modely, priesvitky, obrazy.
 
-    - 63 Ekonomika a organizácia, obchod a služby, 64 Ekonomika a organizácia, obchod a služby
+    - 62 Ekonomické vedy, 63 Ekonomika a organizácia, obchod a služby I, 64 Ekonomika a organizácia, obchod a služby II
 
     - ekonomika a organizácia
 
@@ -3584,7 +3682,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - Odborná literatúra, periodiká, internet.
 
-    - 82 Umenie a umeleckoremeselná výroba, 85 Umenie a umeleckoremeselná výroba
+    - 82 Umenie a umeleckoremeselná tvorba I, 85 Umenie a umeleckoremeselná tvorba II
 
     - Cieľové požiadavky
 
@@ -4788,7 +4886,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - E. Žiaci s vývinovými poruchami učenia:
 
-        - 1. predĺženie času skúšky najviac o 50 %,
+        - 1. predĺženie času skúšky najviac o 25 %,
 
         - 2. možnosť použitia kompenzačných pomôcok podľa potrieb žiakov.
 
@@ -4832,17 +4930,13 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - 5. vylúčenie úloh na počúvanie s porozumením z cudzieho jazyka,
 
-        - 6. možnosť použitia kompenzačných pomôcok podľa potrieb žiakov,
-
-        - 7. didaktické pomôcky (slovník slovenského jazyka, synonymický slovník a pod.),
-
-        - 8. pomoc tlmočníka posunkovej reči, ktorý pomáha pri vysvetlení inštrukcií súvisiacich so zadaním úlohy, resp. testu.
+        - 6. možnosť použitia kompenzačných pomôcok podľa potrieb žiakov.
 
       - B. Žiaci so zrakovým postihnutím:
 
         - 1. predĺženie času skúšky najviac o 100 %,
 
-        - 2. písmo Arial, veľkosť písma 14 – 24 – 36, riadkovanie 1,5, formát A4 alebo A3, voliteľne zadania v Braillovom písme,
+        - 2. písmo Arial, veľkosť písma 14 – 24 – 36 podľa potreby, riadkovanie 1,5 alebo 2,0, formát A4 alebo A3, voliteľné testy v Braillovom písme a elektronickej verzii (CD),
 
         - 3. členenie testového hárka tak, aby umožňoval orientáciu,
 
@@ -4856,25 +4950,19 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - 8. možnosť použitia kompenzačných pomôcok podľa potrieb žiakov,
 
-        - 9. prítomnosť asistenta, ktorý pomáha pri zápise odpovedí žiaka,
-
-        - 10. elektronická verzia textu,
-
-        - 11. zvuková nahrávka textov k otázkam.
+        - 9. zvuková nahrávka textov k otázkam.
 
       - C. Žiaci s telesným postihnutím:
 
         - 1. predĺženie času skúšky najviac o 100 %,
 
-        - 2. písmo Arial, veľkosť písma 14 – 16, riadkovanie 1,5,
+        - 2. písmo Arial, veľkosť písma 14 – 18 podľa potreby, riadkovanie 1,5 alebo 2,0, voliteľné testy v elektronickej verzii (CD),
 
         - 3. členenie testového hárka tak, aby uľahčoval orientáciu,
 
         - 4. zápis odpovedí priamo do testového zošita (zakrúžkovanie odpovede alebo zapísanie odpovede do riadka),
 
-        - 5. kompenzačné pomôcky podľa potreby žiaka,
-
-        - 6. pomoc asistenta, ktorý pomáha pri zápise odpovedí žiaka.
+        - 5. kompenzačné pomôcky podľa potreby žiaka.
 
       - D. Žiaci chorí a zdravotne oslabení:
 
@@ -4896,9 +4984,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - 5. zvýraznené oddelenie otázok,
 
-        - 6. zápis odpovedí priamo do testového zošita (zakrúžkovanie odpovede alebo zapísanie odpovede do riadka),
-
-        - 7. didaktické pomôcky.
+        - 6. zápis odpovedí priamo do testového zošita (zakrúžkovanie odpovede alebo zapísanie odpovede do riadka).
 
       - F. Žiaci s poruchami aktivity a pozornosti:
 
@@ -4922,9 +5008,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - 5. zvýraznené oddelenie otázok,
 
-        - 6. zápis odpovedí priamo do testového zošita (zakrúžkovanie odpovede alebo zapísanie odpovede do riadka),
-
-        - 7. didaktické pomôcky.
+        - 6. zápis odpovedí priamo do testového zošita (zakrúžkovanie odpovede alebo zapísanie odpovede do riadka).
 
       - I. Žiaci s autizmom alebo ďalšími pervazívnymi poruchami:
 
@@ -4938,4 +5022,10 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - III. skupina – ťažký stupeň obmedzenia
 
-      - Žiaci zaradení do tretej skupiny sú schopní absolvovať maturitnú skúšku alebo jej časť iba náhradným spôsobom, to znamená inou formou ako písomnou.
+      - A. Žiaci zaradení do tretej skupiny sú schopní absolvovať maturitnú skúšku s úpravami uvedenými v II. skupine s pomocou asistenta alebo tlmočníka posunkovej reči.
+
+      - B. Žiaci s viacnásobným postihnutím zaradení do tretej skupiny, ktorým sa v priebehu vzdelávania zmenil zdravotný stav tak, že nie sú schopní absolvovať písomnú formu internej časti maturitnej skúšky podľa písmena A, vykonajú iba externú časť a ústnu formu internej časti maturitnej skúšky podľa písmena A.
+
+      - Úpravy pre žiakov s viacnásobným postihnutím podľa písmena B
+
+      - Predĺženie času skúšky podľa individuálnej potreby s prihliadnutím na aktuálny zdravotný stav.
