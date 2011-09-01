@@ -58,6 +58,16 @@
 
 - 8c) Nariadenie Rady (EHS) č. 95/93 z 18. januára 1993 o spoločných pravidlách prideľovania prevádzkových intervalov na letiskách Spoločenstva (Úradný vestník Európskych spoločenstiev L 014, 22. 01. 1993).
 
+- 8ca) Čl. 9 nariadenia Komisie (ES) č. 1794/2006 zo 6. decembra 2006, ktorým sa stanovuje spoločný systém spoplatňovania leteckých navigačných služieb (Ú. v. EÚ L 341, 7. 12. 2006) v platnom znení.
+
+- 8cb) Nariadenie (ES) č. 1794/2006.
+
+- 8cc) Nariadenie vlády Slovenskej republiky č. 641/2005 Z. z. o prístupe na trh služieb na vybavenie cestujúcich a nákladu a pozemnej obsluhy lietadiel.
+
+- 8cd) Nariadenie Európskeho parlamentu a Rady (ES) č. 1107/2006 z 5. júla 2006 o právach zdravotne postihnutých osôb a osôb so zníženou pohyblivosťou v leteckej doprave (Ú. v. EÚ L 204, 26. 7. 2006).
+
+- 8ce) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
 - 8d) 20. bod prílohy nariadenia Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 355, 30. 12. 2002).
 
 - 8e) 7.2. bod prílohy nariadenia Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 355, 30. 12. 2002).
@@ -87,6 +97,8 @@
 - 11bc) § 11 zákona č. 136/2010 Z. z.
 
 - § 66b ods. 2 zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
+
+- 11bd) Čl. 4 nariadenia Európskeho parlamentu a Rady (ES) č. 549/2004 z 10. marca 2004, ktorým sa stanovuje rámec na vytvorenie jednotného európskeho neba (rámcové nariadenie) (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 8; Ú. v. EÚ L 96, 31. 3. 2004) v platnom znení.
 
 - 11c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 1592/2002 z 15. júla 2002 o spoločných pravidlách v oblasti civilného letectva a zriadení Európskej agentúry pre bezpečnosť letectva (EASA) (Úradný vestník Európskych spoločenstiev L 240, 07. 09. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1643/2003 z 22. júla 2003 (Úradný vestník Európskej únie L 245, 29. 09. 2003), nariadenie Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskych spoločenstiev L 355, 30. 12. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 849/2004 z 29. apríla 2004 (Úradný vestník Európskej únie L 158, 30. 04. 2004), nariadenie Komisie (ES) č. 622/2003 zo 4. apríla 2003 o ustanovení opatrení na vykonávanie spoločných základných noriem bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 10, 16. 01. 2004) v znení nariadenia Komisie (ES) č. 68/2004 z 15. januára 2004 (Úradný vestník Európskej únie L 10, 16. 01. 2004).
 
