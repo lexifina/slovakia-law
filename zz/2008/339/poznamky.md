@@ -34,6 +34,8 @@
 
 - 16) § 22 ods. 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
+- 16a) Príloha č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
+
 - 17) Čl. 11 ods. 3 nariadenia (ES) č. 657/2008.
 
 - 18) Čl. 8 a 9 nariadenia (ES) č. 657/2008.
