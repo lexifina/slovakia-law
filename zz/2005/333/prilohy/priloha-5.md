@@ -140,7 +140,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah trombocytov | Zmeny v obsahu trombocytov každého odberu sú povolené v medziach limitu - viac ako 200 x 109 trombocytov v transfúznej jednotke, ak sú splnené požiadavky na validovanú prípravu a uchovávanie
 
-  - | pH | 6,4 - 7,4 pri 22 °C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 °C na konci času uchovávania
 
   - | Frekvencia kontroly | Najmenej 10 transfúznych jednotiek mesačne
 
@@ -152,7 +152,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah leukocytov | Menej ako 1 x 106 na jednotku
 
-  - | pH | 6,4 - 7,4 pri 22 °C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 °C na konci času uchovávania
 
   - | Frekvencia kontroly | Najmenej 10 transfúznych jednotiek mesačne
 
@@ -162,7 +162,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah leukocytov | Menej ako 0,2 x 109 na jednu jednotku (metóda z plazmy bohatej na trombocyty) Menej ako 0,05 x 109 na jednu jednotku (metóda leukocyto-trombocytovej vrstvy)
 
-  - | pH | 6,4 - 7,4 pri 22 °C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 °C na konci času uchovávania
 
   - | Frekvencia kontroly | Najmenej 10 transfúznych jednotiek mesačne
 
@@ -172,7 +172,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah leukocytov | Menej ako 1 x 106 na jednotku
 
-  - | pH | 6,4 - 7,4 pri 22 °C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 °C na konci času uchovávania
 
   - Koncentrát trombocytov | Objem | V súlade s kritériami uchovávania zaručujúcimi dodržanie špecifikácií vzťahujúcich sa na pH - najmenej 40 ml plazmy s obsahom 60 x 109 trombocytov
 
@@ -180,7 +180,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah leukocytov | Menej ako 0,2 x 109 na jednu jednotku (metóda plazmy bohatej na trombocyty) Menej ako 0,05 x 109 na jednu jednotku (metóda leukocyto-trombocytovej vrstvy)
 
-  - | pH | 6,4 - 7,4 pri 22 °C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 °C na konci času uchovávania
 
   - | Frekvencia kontroly | Najmenej štyri transfúzne jednotky mesačne
 
@@ -192,7 +192,7 @@ Príloha č. 5 k vyhláške č. 333/2005 Z. z.
 
   - | Obsah leukocytov | Menej ako 1 x 106 na jednotku
 
-  - | pH | 6,4-7,4 pri 22 ° C na konci času uchovávania
+  - | pH | najmenej 6,4 pri 22 ° C na konci času uchovávania
 
   - | Frekvencia kontroly | Najmenej štyri transfúzne jednotky mesačne
 
