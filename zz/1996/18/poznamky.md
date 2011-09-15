@@ -4,6 +4,8 @@
 
 - 1b) Zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
+- 2) § 4 zákona č. 260/2011 Z. z. o ukončení a spôsobe usporiadania niektorých nájomných vzťahov k bytom a o doplnení zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
 - 4) Nariadenie vlády Slovenskej republiky č. 300/1995 Z. z., ktorým sa vydáva colný sadzobník.
