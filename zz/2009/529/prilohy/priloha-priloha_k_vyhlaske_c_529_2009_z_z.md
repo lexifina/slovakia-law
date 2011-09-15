@@ -2350,15 +2350,15 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 065-024c | | | | | | | | I/65, MK-c | | I/65, MK-d | 0,725 | 0,180
 
-- 065-024d | | | | | | | | I/65, MK-d | Kremnické Bane – Krahule | I/65, III/578003 | 0,522 | 0,080
+- 065-024d | | | | | | | | I/65, MK-d | Kremnické Bane-Krahule | I/65, III/578003 | 0,522 | 0,080
 
 - 065-025 | | | | | | | | I/65, III/065031 | Turček | III/065032, I/65 | 2,563 | 2,251
 
 - 065-026a | | | | | | | Turček | III/065032, I/65 | | I/65, MK-b | 2,258 | 1,628
 
-- 065-026b | | | | | | | | I/65, MK-b | Sklenné | I/65, III/065033 | 0,415 | 0,415
+- 065-026b | | | | | | | | I/65, MK-b | Sklené | I/65, III/065033 | 0,415 | 0,415
 
-- 065-027a | | | | | | | Sklenné | I/65, III/065033 | | I/65, MK-b | 0,398 | 0,398
+- 065-027a | | | | | | | Sklené | I/65, III/065033 | | I/65, MK-b | 0,398 | 0,398
 
 - 065-027b | | | | | | | | I/65, MK-b | | I/65, MK-c | 1,694 | 1,694
 
@@ -2368,15 +2368,15 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 065-028b1 | | | | | | | Horná Štubňa | | | I/65, MK-b2 | 1,910 | 1,124
 
-- 065-028b2 | | | | | | | | I/65, MK-b2 | Turčianske Teplice – Šturec | I/14, I/65 | 0,134 | 0,134
+- 065-028b2 | | | | | | | | I/65, MK-b2 | Turčianske Teplice-Šturec | I/14, I/65 | 0,134 | 0,134
 
-- 065-029 | | | | | | | Turčianske Teplice – Šturec | I/14, I/65 | | I/65, III/065067 | 0,096 | 0,096
+- 065-029 | | | | | | | Turčianske Teplice-Šturec | I/14, I/65 | | I/65, III/065067 | 0,096 | 0,096
 
 - 065-030a | | | | | | | | I/65, III/065067 | | I/65, MK-b | 1,343 | 1,343
 
 - 065-030b | | | | | | | | I/65, MK-b | Turčianske Teplice | I/65, III/065036 | 1,387 | 1,387
 
-- 0065-031 | | | | | | | | I/65, III/018094, III/065037 | | I/65, III/065039 | 0,468 | 0,142
+- 065-031 | | | | | | | | I/65, III/018094, III/065037 | | I/65, III/065039 | 0,468 | 0,142
 
 - 065-032 | | | | | | | | I/65, III/065045 | Mošovce | I/65, III/065040 | 3,622 | 3,418
 
@@ -2428,11 +2428,7 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 065-047a | | | | | | | Olichov | I/65, III/510026 | | I/65, MK-b | 0,602 | 0,602
 
-- 065-047b | | | | | | | | I/65, MK-b | Čaradice | I/65, III/076001 | 0,695 | 0,695
-
-- 065-048 | | | | | | | Čaradice | I/65, III/076001 | Tekovské Nemce | R1 | 3,970 | 3,970
-
-- 065-049 | | | | | | | Kremnické Bane – Krahule | I/65, III/578003 | | I/65, III/065031 | 0,563 | 0,563
+- 065-049 | | | | | | | Kremnické Bane-Krahule | I/65, III/578003 | | I/65, III/065031 | 0,563 | 0,563
 
 - 065-050 | | | | | | | Turčianske Teplice | I/65, III/065036 | | I/65, III/018094, III/065037 | 1,084 | 1,084
 
@@ -2624,9 +2620,9 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 068-002d | | | | | | | | MK-c, I/68 | Haniska | I/68, III/050187, III/068025 | 0,264 | 0,264
 
-- 068-003a | | | | | | | Haniska | I/68, III/050187, III/068025 | Haniska-Grajciar | | 2,093 | 1,874
+- 068-003a | | | | | | | Haniska | I/68, III/050187, III/068025 | Haniska – Grajciar | | 2,093 | 1,874
 
-- 068-003b | | | | | | | Haniska-Grajciar | | Belža | I/68, III/068027 | 1,081 | 0,730
+- 068-003b | | | | | | | Haniska – Grajciar | | Belža | I/68, III/068027 | 1,081 | 0,730
 
 - 068-004a | | | | | | | Belža | I/68, III/068027 | | MK-b, I/68 | 0,710 | 0,710
 
@@ -2639,10 +2635,6 @@ Príloha k vyhláške č. 529/2009 Z. z.
 - 068-006a | | | | | | | Milhosť | I/68, III/068030 | | MK-b, I/68 | 0,098 | 0,098
 
 - 068-006b | | | | | | | | MK-b, I/68 | Hranica SR/MR | | 0,685 | 0,685
-
-- 068-007a1 | | | | | | | Prešov | III/068010, I/68 | | MK-a2, I/68 | 0,918 | 0,451
-
-- 068-007a2 | | | | | | | | MK-a2, I/68 | Haniska | | 0,805 | 0,601
 
 - 068-007b1 | | | | | | | Haniska | | | MK-b2, I/68 | 0,877 | 0,710
 
@@ -3120,19 +3112,21 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - Zoznam úsekov na diaľnici D2 | | | | | | | | | | | |
 
-- D02-002 | | | | | | | Malacky | D/2, II/503 | Lozorno | D/2, I/2 | 11,474 | 11,474
+- D02-002 | | | | | | | Malacky | D2, II/503 | Lozorno | D2, I/2 | 11,474 | 11,474
 
-- D02-003 | | | | | | | Lozorno | D/2, I/2 | Bratislava-Záhorská Bystrica, Bratislava-Lamač | D/2, II/505 | 14,316 | 14,049
+- D02-003a | | | | | | | Lozorno | D/2, I/2 | Stupava-Juh | D2/D4 | 9,027 | 9,027
+
+- D02-003b | | | | | | | Stupava-Juh | D2/D4 | Bratislava-Lamač | D2, II/505 | 5,289 | 5,022
 
 - D02-004 | | | | | | | Petržalka 1 | D/1, D/2, I/61, MK | Petržalka 2 | D/2, D/4, PD/2 | 6,055 | 5,839
 
 - D02-005 | | | | | | | Petržalka 2 | D/2, D/4, PD/2 | Hranica SR/MR | | 8,983 | 8,983
 
-- D02-006 | | | | | | | Hranica SR/ČR | zač. CK D/2 na št. hr. CZ | Hranica SR/ČR colnica | D/2, II/503 | 1,458 | 1,458
+- D02-006 | | | | | | | Hranica ČR/SR | zač. CK D/2 na št. hr. CZ | Hranica ČR/SR colnica | D/2, II/503 | 1,458 | 1,458
 
-- D02-007 | | | | | | | Hranica SR/ČR colnica | | Kúty 1 | križ. D/2, I/2, okr.Senica | 3,621 | 3,621
+- D02-007 | | | | | | | Hranica ČR/SR colnica | | Kúty 1 | križ. D/2, I/2, okr. Senica | 3,621 | 3,621
 
-- D02-008 | | | | | | | Kúty 1 | križ. D/2, I/2, okr. Senica | Malacky | križ. D/2, II/503, okr.Malacky | 24,091 | 24,091
+- D02-008 | | | | | | | Kúty 1 | križ. D/2, I/2, okr. Senica | Malacky | križ. D/2, II/503, okr. Malacky | 24,091 | 24,091
 
 - Zoznam úsekov na diaľnici D3 | | | | | | | | | | | |
 
@@ -3144,11 +3138,15 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - Zoznam úsekov na diaľnici D4 | | | | | | | | | | | |
 
-- D04-001 | | | | | | | Hranica SR/A | | Hranica SR/A colnica | | 0,702 | 0,702
+- D04-001 | | | | | | | Hranica A/SR | | Hranica A/SR colnica | | 0,702 | 0,702
 
-- D04-002 | | | | | | | Hranica SR/A colnica | | Jarovce 1 | D/2, D/4, PD/2 | 1,842 | 1,842
+- D04-002 | | | | | | | Hranica A/SR colnica | | Jarovce 1 | D2, D4, PD/2 | 1,842 | 1,842
 
-- D04-003 | | | | | | | Jarovce 1 | D/2, D/4, PD/2 | Jarovce 2 | D4, III/002046 | 0,939 | 0,822
+- D04-003 | | | | | | | Jarovce 1 | D2, D4, PD/2 | Jarovce 2 | D4, III/002046 | 0,939 | 0,822
+
+- D04-004 | | | | | | | Devínska Nová Ves | D4, II/505 | Stupava-Juh | D4, D2 | 1,700 | 1,700
+
+- D04-005 | | | | | | | Stupava-Juh | D4, D2 | Záhorská Bystrica | D4, I/2 | 1,500 | 1,500
 
 - Zoznam úsekov na rýchlostnej ceste R1 | | | | | | | | | | | |
 
@@ -3198,9 +3196,9 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - R01-023 | | | | | | | Hronská Breznica | I/50, II/525, III/525007 | Budča 1 | I/50, III/050092 | 0,671 | 0,671
 
-- R01-024 | | | | | | | Budča 1 | I/50, III/050092 | Ostrá Lúka – Budča | I/50, III/050085 | 1,545 | 1,545
+- R01-024 | | | | | | | Budča 1 | I/50, III/050092 | Ostrá Lúka (Budča) | I/50, III/050085 | 1,545 | 1,545
 
-- R01-025 | | | | | | | Ostrá Lúka – Budča | I/50, III/050085 | Budča 2 | I/50, I/69, III/050149 | 1,931 | 1,931
+- R01-025 | | | | | | | Ostrá Lúka (Budča) | I/50, III/050085 | Budča 2 | I/50, I/69, III/050149 | 1,931 | 1,931
 
 - R01-026 | | | | | | | Budča 2 | I/50, I/69, III/050149 | Budča 3 | I/50, I/69, III/050149 | 0,507 | 0,507
 
@@ -3208,15 +3206,27 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - R01-028 | | | | | | | Zvolen | I/69, III/050085 | Kováčová | I/66, I/69 | 2,132 | 2,132
 
-- R01-029 | | | | | | | Kováčová | I/66, I/69 | Sliač-Hájniky | I/66, I/66C, I/69 | 1,130 | 1,130
+- R01-029 | | | | | | | Kováčová | I/66, I/69 | Sliač (Hájniky) | I/66, I/66C, I/69 | 1,130 | 1,130
 
-- R01-030 | | | | | | | Sliač-Hájniky | I/66, I/66C, I/69 | Sielnica | I/66, III/066014 | 2,585 | 2,585
+- R01-030 | | | | | | | Sliač (Hájniky) | I/66, I/66C, I/69 | Sielnica | I/66, III/066014 | 2,585 | 2,585
 
 - R01-031 | | | | | | | Sielnica | I/66, III/066014 | Kremnička | I/66, I/69, MK | 8,314 | 8,314
 
 - R01-032 | | | | | | | Žarnovica 2 | | Lehôtka pod Brehmi | | 9,675 | 9,675
 
 - R01-033 | | | | | | | Lehôtka pod Brehmi | | Šášovské Podhradie | I/50, I/65, III/050092 | 8,372 | 8,372
+
+- R01-034 | | | | | | | Nitra-Západ | R1 | Čermáň | R1, II/562 | 5,749 | 5,749
+
+- R01-035 | | | | | | | Čermáň | R1, II/562 | Selenec | R1 | 6,226 | 6,226
+
+- R01-036 | | | | | | | Selenec | R1 | Beladice | R1, III/0653 | 10,700 | 10,700
+
+- R01-037 | | | | | | | Beladice | R1, III/0653 | Tesárske Mlyňany | R1, I/65 | 8,624 | 8,624
+
+- R01-038 | | | | | | | Tesárske Mlyňany | R1, I/65 | Čaradice | R1, I/65, III/0761 | 9,608 | 9,608
+
+- R01-039 | | | | | | | Čaradice | R1, I/65, III/0761 | Tekovské Nemce | R1 | 4,170 | 4,170
 
 - Zoznam úsekov na rýchlostnej ceste R2 | | | | | | | | | | | |
 
