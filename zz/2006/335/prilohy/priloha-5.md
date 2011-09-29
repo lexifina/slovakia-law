@@ -9,3 +9,5 @@ Príloha č. 5 k nariadeniu vlády č. 335/2006 Z. z.
   - 3. Nariadenie Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 o prispôsobení určitých nástrojov, na ktoré sa vzťahuje postup ustanovený v článku 251 zmluvy, rozhodnutiu Rady 1999/468/ES, pokiaľ ide o regulačný postup s kontrolou – Prispôsobenie právnych aktov regulačnému postupu s kontrolou – Prvá časť (Ú. v. EÚ L 311, 21. 11. 2008).
 
   - 4. Smernica Komisie 2010/22/EÚ z 15. marca 2010, ktorou sa na účely prispôsobenia technickému pokroku menia a dopĺňajú smernice Rady 80/720/EHS, 86/298/EHS, 86/415/EHS a 87/402/EHS a smernice Európskeho parlamentu a Rady 2000/25/ES a 2003/37/ES týkajúce sa typového schvaľovania poľnohospodárskych a lesných traktorov (Ú. v. EÚ L 91, 10. 4. 2010).
+
+  - 5. Smernica Komisie 2010/62/EÚ z 8. septembra 2010, ktorou sa z dôvodu prispôsobenia ich technických ustanovení menia a dopĺňajú smernice Rady 80/720/EHS a 86/297/EHS a smernice Európskeho parlamentu a Rady 2003/37/ES, 2009/60/ES a 2009/144/ES týkajúce sa typového schvaľovania poľnohospodárskych alebo lesných traktorov. (Ú. v. EÚ L 238, 9. 9. 2010).
