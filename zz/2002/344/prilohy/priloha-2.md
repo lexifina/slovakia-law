@@ -595,3 +595,21 @@
   - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na účel uplatnenia jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného je rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom uznateľné a vykonateľné v Portugalsku použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
 
   - Podľa článku 29 dohovoru Portugalsko určilo ako ústredný orgán ministerstvo spravodlivosti.
+
+  - Fínska republika:
+
+  - a) Dohovor pre Fínsku republiku nadobudol platnosť 1. marca 2011.
+
+  - b) Podľa článku 29 dohovoru Fínska republika určila ako ústredný orgán ministerstvo spravodlivosti.
+
+  - Rakúska republika:
+
+  - a) Dohovor pre Rakúsku republiku nadobudol platnosť 1. apríla 2011.
+
+  - b) Ratifikačná listina Rakúskej republiky obsahuje tieto výhrady a vyhlásenia:
+
+  - Podľa článku 60 ods. 1 dohovoru Rakúska republika vylučuje použitie francúzskeho jazyka v zmysle článku 54 ods. 2 dohovoru.
+
+  - Podľa článku 29 dohovoru Rakúska republika určila ako ústredný orgán spolkové ministerstvo spravodlivosti.
+
+  - Žiadosti podľa článku 34 ods. 1 sa rakúskym orgánom musia zasielať prostredníctvom ústredného orgánu Rakúskej republiky.
