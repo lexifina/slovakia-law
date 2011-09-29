@@ -1,4 +1,8 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 305/2006 Z. z. o opatreniach proti emisiám plynných a pevných znečisťujúcich látok motorov na pohon poľnohospodárskych traktorov a lesných traktorov.
+- 1) § 2 ods. 1 písm. d) nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
+
+- 1a) Príloha č. 1 časť B šiesty bod k zákonu č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 1b) Nariadenie vlády Slovenskej republiky č. 305/2006 Z. z. o opatreniach proti emisiám plynných a pevných znečisťujúcich látok motorov na pohon poľnohospodárskych traktorov a lesných traktorov.
 
 - 2) Nariadenie vlády Slovenskej republiky č. 328/2006 Z. z. o technických požiadavkách na ochranné konštrukcie chrániace vodiča pri prevrátení namontované pred sedadlom vodiča úzkorozchodných poľnohospodárskych kolesových traktorov a lesných kolesových traktorov.
 
@@ -22,7 +26,7 @@
 
 - 6d) Nariadenie vlády Slovenskej republiky č. 192/2006 Z. z. o technických požiadavkách na sedadlo vodiča poľnohospodárskych kolesových traktorov a lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 143/2007 Z. z.
 
-- 7) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 7) § 5 ods. 11 a 20, § 6 ods. 7 a 10 a § 7 ods. 9 a 13 zákona č. 725/2004 Z. z.
 
 - 8) Nariadenie vlády Slovenskej republiky č. 66/2006 Z. z. o technických požiadavkách na meranie najväčšej konštrukčnej rýchlosti a technických požiadavkách na nákladné plošiny poľnohospodárskych kolesových traktorov a lesných kolesových traktorov.
 
