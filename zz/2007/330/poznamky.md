@@ -38,7 +38,7 @@
 
 - 18) § 5 ods. 5 a 7 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) § 3, § 6 ods. 6, § 231 ods. 2 a 4, § 233 ods. 1 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
+- 19) § 3, § 6 ods. 6, § 229 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
 
 - 20) § 14 ods. 2 a 6 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
