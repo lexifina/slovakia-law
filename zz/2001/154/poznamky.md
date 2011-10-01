@@ -10,19 +10,17 @@
 
 - 6) § 25 ods. 2 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
-- 7) Zákon č. 311/1999 Z. z. o registri trestov.
+- 7) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 8) § 8 až 12 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
+- 8) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
-- 9) § 97 až 102 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
-
-- 10) § 24 ods. 3 zákona č. 370/1997 Z. z.
+- 9) § 116 Občianskeho zákonníka.
 
 - 11) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
 
-- 11a) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
+- 11a) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 11a) § 26 zákona č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+- 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) § 31a ods. 2 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
@@ -31,8 +29,6 @@
 - 14) § 80 písm. c) Občianskeho súdneho poriadku.
 
 - 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
-
-- 15) § 116 Občianskeho zákonníka.
 
 - 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -45,6 +41,8 @@
 - 20) § 40 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
 
 - 21) Čl. 6 ústavného zákona Národnej rady Slovenskej republiky č. 119/1995 Z. z. o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.
+
+- 21a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 22) § 1 a 2 zákona Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení zákona Národnej rady Slovenskej republiky č. 201/1996 Z. z.
 
@@ -140,15 +138,13 @@
 
 - 64) § 100 zákona č. 141/1961 Zb.
 
+- 64a) § 250l až 250s Občianskeho súdneho poriadku v znení neskorších predpisov.
+
 - 65) Napríklad § 251 až 351 Občianskeho súdneho poriadku.
 
 - 66) Zákon č. 141/1961 Zb. v znení neskorších predpisov.
 
-- 67) Zákon Národnej rady Slovenskej republiky č. 66/1994 Z. z. o platových pomeroch prokurátorov a právnych čakateľov prokuratúry Slovenskej republiky v znení neskorších predpisov.
-
-- 68) Štvrtá časť zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
-
-- 69) Zákon č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.Zákon č. 380/1997 Z. z.Zákon č. 114/1998 Z. z. v znení zákona č. 131/1999 Z. z.
+- 67) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 70) Zákonník práce.
 
@@ -163,3 +159,5 @@
 - 74) § 14 zákona č. 351/1997 Z. z.
 
 - 75) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+
+- 76) § 215k zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
