@@ -1,6 +1,6 @@
 Príloha k zákonu č. 211/2000 Z. z. v znení neskorších predpisov
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 2003/98/ES zo 17. novembra 2003 o opakovanom použití informácií verejného sektora (Ú. v. EÚ L 345, 31. 12. 2003).
 
