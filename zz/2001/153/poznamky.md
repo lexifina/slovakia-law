@@ -38,7 +38,7 @@
 
 - 19) § 35 ods. 1 písm. b), § 249 a § 250b ods. 3 Občianskeho súdneho poriadku v znení neskorších predpisov.
 
-- 20) § 250b ods. 3 Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 20) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) Napríklad § 158 zákona č. 141/1961 Zb. v znení neskorších predpisov, § 17 až 27 zákona Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov), zákon č. 152/1998 Z. z. o sťažnostiach.
 
@@ -96,7 +96,7 @@
 
 - 39) § 29 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 411/2002 Z. z.
 
-- 40) Zákon č. 215/2004 Z. z. v znení neskorších predpisov.
+- 40) § 26 ods. 1 zákona č. 215/2004 Z. z.
 
 - 41) § 39 až 43 zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 1 ods. 5 zákona č. 313/2001 Z. z. o verejnej službe a § 59 až 72 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
@@ -111,3 +111,5 @@
 - 46) § 5 zákona č. 154/2001 Z. z.
 
 - § 51 zákona č. 312/2001 Z. z.
+
+- 47) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.

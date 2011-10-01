@@ -1,6 +1,6 @@
 # § 55d
 
-(1) Na čele Úradu špeciálnej prokuratúry je špeciálny prokurátor, prostredníctvom ktorého generálny prokurátor riadi činnosť Úradu špeciálnej prokuratúry.
+(1) Na čele Úradu špeciálnej prokuratúry je špeciálny prokurátor, prostredníctvom ktorého generálny prokurátor riadi činnosť Úradu špeciálnej prokuratúry. Špeciálny prokurátor je námestníkom generálneho prokurátora.
 
 (2) Špeciálny prokurátor zodpovedá za výkon svojej funkcie generálnemu prokurátorovi. Vo veciach patriacich do právomoci Úradu špeciálnej prokuratúry (§ 55b) generálny prokurátor nie je oprávnený
 
