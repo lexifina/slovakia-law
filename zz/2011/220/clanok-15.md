@@ -1,0 +1,3 @@
+# Čl. XV
+
+Tento zákon nadobúda účinnosť 1. októbra 2011 okrem čl. XI bodu 38, ktorý nadobúda účinnosť 31. októbra 2011, čl. I bodov 8, 15, 17 až 19, 21 až 28, 31 až 36, 40 § 56ac, čl. II bodov 2, 8, 9 a 18, čl. III, čl. V, čl. VI bodov 2 až 6, 16, 17, 24, 28, 29, 31, 33 až 42, 44 až 50, 63, 66, 67, 75, čl. VIII, čl. IX bodov 2 až 10 a 14, čl. XI bodov 1 až 37 a čl. XII, čl. XIV bodov 2 a 3, ktoré nadobúdajú účinnosť 1. novembra 2011, čl. IX bodov 1, 11 až 13, ktoré nadobúdajú účinnosť 2. novembra 2011, a čl. I bodu 39 § 55m ods. 1 až 4, bodu 40 § 56ad a čl. IV bodu 1, ktoré nadobúdajú účinnosť 1. januára 2012.
