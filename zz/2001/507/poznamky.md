@@ -37,3 +37,5 @@
 - 15) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 16) Zákon č. 71/1967 Zb.
+
+- 30) Napríklad Rozhodnutie Komisie zo 7. 10. 2008 o slovenských právnych predpisoch týkajúcich sa služieb hybridnej pošty [C(2008) 5912], Ú. v. EÚ, C 322, 17. 12. 2008.
