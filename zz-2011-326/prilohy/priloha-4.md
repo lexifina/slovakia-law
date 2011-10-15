@@ -1,0 +1,5 @@
+Príloha č. 4 k vyhláške č. 326/2011 Z. z.
+
+- DEKLARÁCIA MAJETKU SPOLOČNE POSUDZOVANEJ OSOBY
+
+- [Žiadosť 04](../assets/151d8cfe3097a43927958a57df060762499be0368c3b99f9f906eb508b2acb87.pdf)
