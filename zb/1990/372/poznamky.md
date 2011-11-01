@@ -18,9 +18,11 @@
 
 - 3b) § 65 a § 66 ods. 2 písm. d) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
+- 3ba) § 74 ods. 2 zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
+
 - 3c) § 16 zákona č. 8/2009 Z. z.
 
-- 3d) § 137 ods. 2 písm. g) až o) a q) zákona č. 8/2009 Z. z.
+- 3d) § 137 ods. 2 písm. g) až o) a q) až x) zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
 
 - 3e) § 49a zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2009 Z. z.
 
