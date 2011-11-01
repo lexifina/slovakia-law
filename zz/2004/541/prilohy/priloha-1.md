@@ -34,7 +34,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - f) predbežný plán fyzickej ochrany,
 
-    - g) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu A písm. e),
+    - g) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu A písm. e),
 
     - h) predbežný vnútorný havarijný plán,
 
@@ -60,7 +60,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - e) program prevádzkových kontrol vybraných zariadení,
 
-    - f) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu B písm. g),
+    - f) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia a ich vyhodnotenie podľa bodu B písm. g),
 
     - g) prevádzkové predpisy určené úradom,
 
@@ -100,7 +100,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - a) limity a podmienky bezpečného vyraďovania,
 
-    - b) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia,
+    - b) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia,
 
     - c) vnútorný havarijný plán,
 
@@ -150,18 +150,22 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - g) doklady o splnení kvalifikačných požiadaviek odborne spôsobilých zamestnancov,
 
-    - h) dokumentácia systému kvality a požiadavky na kvalitu jadrového zariadenia,
+    - h) dokumentácia systému manažérstva kvality a požiadavky na kvalitu jadrového zariadenia,
 
     - i) zmeny hraníc jadrového zariadenia špecifikáciou údajov uvedených v bode C písm. u),
 
     - j) zmeny veľkosti oblasti ohrozenia jadrovým zariadením špecifikáciou údajov uvedených v bode C písm. v).
 
-  - F. Dokumentácia potrebná k písomnej žiadosti o súhlas na vyňatie jadrového zariadenia z pôsobnosti tohto zákona
+  - F. Dokumentácia potrebná k písomnej žiadosti o súhlas na vyňatie jadrového zariadenia z pôsobnosti tohto zákona:
 
     - a) konečný opis územia jadrového zariadenia vyradeného z prevádzky a všetkých prác vykonaných počas vyraďovania,
 
-    - b) súhrnné údaje o množstve a aktivite uložených alebo dlhodobo skladovaných rádioaktívnych odpadov a o množstve ostatných odpadov a materiálov uvoľnených do životného prostredia,
+    - b) súhrnné údaje o množstve a aktivite uložených alebo dlhodobo skladovaných rádioaktívnych odpadov a o množstve rádioaktívnych odpadov z vyraďovania a materiálov uvoľnených do životného prostredia,
 
     - c) zoznam údajov, ktoré sa budú uchovávať po skončení vyraďovania s uvedením času uchovávania,
 
-    - d) výsledky záverečnej kontroly radiačnej situácie podložené nezávislým overením vrátane stanoviska dozorného orgánu nad radiačnou ochranou.
+    - d) záverečné hodnotenie radiačnej situácie objektov a územia,
+
+    - e) inštitucionálne opatrenia na obmedzené využitie objektov a územia,
+
+    - f) zmluva podľa § 20 ods. 7, ak si to okolnosti vyžadujú.

@@ -10,19 +10,19 @@
 
 - a) 383,38 eura za každý MWt nominálneho inštalovaného tepelného výkonu ustanoveného k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) prvého bodu; ak došlo k trvalému zníženiu nominálneho inštalovaného tepelného výkonu na nulovú úroveň a tento stav trvá k 1. januáru predchádzajúceho roka, nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon pred jeho trvalým znížením na nulovú úroveň,
 
-- b) 36,51 eura za každý palivový článok skladovaný ku koncu predchádzajúceho roka pre jadrové zariadenie podľa § 2 písm. f) druhého bodu,
+- b) 36,51 eura za každý palivový článok skladovaný ku koncu predchádzajúceho roka pre jadrové zariadenie podľa § 2 písm. f) tretieho bodu,
 
-- c) 41,99 eura za každý GBq aktivity rádioaktívnych odpadov upravených na uloženie v priebehu predchádzajúceho roka v jadrovom zariadení podľa § 2 písm. f) tretieho bodu,
+- c) 41,99 eura za každý GBq aktivity rádioaktívnych odpadov upravených na uloženie v priebehu predchádzajúceho roka v jadrovom zariadení podľa § 2 písm. f) štvrtého bodu,
 
 - d) 91,28 eura za každý vláknobetónový kontajner uložený v priebehu predchádzajúceho roka v jadrovom zariadení podľa § 2 písm. f) štvrtého bodu,
 
-- e) 6,22 eura za každý TBq maximálnej projektovej aktivity skladovaných rádioaktívnych odpadov ustanovenej k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) tretieho bodu.
+- e) 6,22 eura za každý TBq maximálnej projektovej aktivity skladovaných rádioaktívnych odpadov ustanovenej k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) štvrtého bodu.
 
 (5) Ročný príspevok za stavbu jadrového zariadenia [§ 5 ods. 3 písm. a)] podľa druhu jadrového zariadenia je vo výške podľa odseku 4 písm. a), b), c), d) alebo e), pričom
 
 - a) pre jadrové zariadenie podľa § 2 písm. f) prvého bodu sa nominálnym inštalovaným tepelným výkonom rozumie projektovaný nominálny inštalovaný tepelný výkon,
 
-- b) pre jadrové zariadenia podľa § 2 písm. f) druhého až štvrtého bodu, okrem jadrového zariadenia podľa odseku 4 písm. e), sa stavom ku koncu predchádzajúceho roka rozumie predpokladaný stav k 31. decembru roka, v ktorom uplynie dvanásť mesiacov prevádzky jadrového zariadenia.
+- b) pre jadrové zariadenia podľa § 2 písm. f) tretieho a štvrtého bodu, okrem jadrového zariadenia podľa odseku 4 písm. e), sa stavom ku koncu predchádzajúceho roka rozumie predpokladaný stav k 31. decembru roka, v ktorom uplynie dvanásť mesiacov prevádzky jadrového zariadenia.
 
 (6) Ročný príspevok za etapu vyraďovania jadrového zariadenia [§ 5 ods. 3 písm. d)] podľa druhu jadrového zariadenia je
 

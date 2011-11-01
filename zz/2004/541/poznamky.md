@@ -2,6 +2,18 @@
 
 - 1a) § 2 ods. 2 písm. o) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
+- 1aa) Nariadenie vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
+
+- Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1ab) Čl. 2 ods. 13 nariadenia Komisie (Euratom) č. 302/2005 z 8. februára 2005 o uplatňovaní systému záruk Euratomu (Ú. v. EÚ L 54, 28. 2. 2005).
+
+- 1ac) Tabuľka č. 1 prílohy č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
+
+- § 2 ods. 2 písm. l) zákona č. 355/2007 Z. z.
+
+- 1ad) § 2 ods. 2 písm. t) zákona č. 355/2007 Z. z.
+
 - 1b) Napríklad vyhláška ministra zahraničných vecí č. 61/1974 Zb. o Zmluve o nešírení jadrových zbraní, vyhláška ministra zahraničných vecí č. 62/1974 Zb. o Zmluve o zákaze umiestňovania jadrových zbraní a iných zbraní hromadného ničenia na dne morí a oceánov a v jeho podzemí.
 
 - 2) Zákon č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z., Nariadenie vlády Slovenskej republiky č. 345/2006 Z. z.
@@ -10,11 +22,9 @@
 
 - 3a) Spoločný dohovor o bezpečnosti nakladania s vyhoretým palivom a o bezpečnosti nakladania s rádioaktívnym odpadom (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 125/2002 Z. z.).
 
-- 3b) § 27 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
+- 3b) Čl. 4 ods. 4 Dohovoru o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie č. 43/2006 Z. z.).
 
-- 3c) Čl. 4 ods. 4 Dohovoru o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie č. 43/2006 Z. z.).
-
-- 3d) § 11 ods. 1 písm. h) zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 145/2010 Z. z.
+- 3c) § 11 ods. 1 písm. h) zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 145/2010 Z. z.
 
 - 4) Napríklad Dohovor o včasnom oznamovaní jadrovej havárie (oznámenie č. 327/2001 Z. z.), rozhodnutie Rady 87/600/Euratom zo dňa 14. decembra 1987 o opatreniach Spoločenstva pre včasnú výmenu informácií v prípade radiačnej mimoriadnej situácie (Úradný vestník Európskych spoločenstiev L 371, 30. 12. 1987).
 
@@ -24,9 +34,11 @@
 
 - 7) § 121 ods. 2 písm. e) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 7a) Dohovor o jadrovej bezpečnosti (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 163/1997 Z. z.).
+
 - 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 9) Nariadenie Rady (ES) č. 1334/2000 zo dňa 22. júna 2000 stanovujúce režim Spoločenstva pre kontrolu exportov položiek a technológie s dvojakým použitím v platnom znení (Úradný vestník Európskych spoločenstiev L 159, 30. 06. 2000).
+- 9) Nariadenie Rady (ES) č. 428/2009 z 5. mája 2009, ktorým sa stanovuje režim Spoločenstva na kontrolu vývozu, prepravy, sprostredkovania a tranzitu položiek s dvojakým použitím (prepracované znenie) (Ú. v. EÚ L 134, 29. 5. 2009).
 
 - 10) Napríklad § 5 ods. 1 zákona č. 656/2004 Z. z. o energetike a o zmene a doplnení niektorých zákonov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -72,11 +84,11 @@
 
 - 20h) § 1 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
-- 21) Článok 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
+- 21) Čl. 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Ú. v. EÚ C 84, 30. 3. 2010).
 
-- Nariadenie Rady (Euratom) č. 2587/1999 zo dňa 2. decembra 1999, ktorým sa vymedzujú investičné projekty, ktoré treba oznamovať Európskej komisii v súlade s článkom 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Úradný vestník Európskych spoločenstiev L 315, 09. 12. 1999).
+- Nariadenie Rady (Euratom) č. 2587/1999 zo dňa 2. decembra 1999, ktorým sa vymedzujú investičné projekty, ktoré treba oznamovať Komisii v súlade s článkom 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Mimoriadne vydanie Ú. v. EÚ, kap. 12/zv. 2; Ú. v. ES L 315, 9.12. 1999).
 
-- Nariadenie Komisie (ES) č. 1209/2000 zo dňa 8. júna 2000 o podávaní oznámení podľa článku 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Úradný vestník Európskych spoločenstiev L 138, 09. 06. 2000) v znení nariadenia Komisie (Euratom) č. 1352/2003 zo dňa 23. júla 2003 (Úradný vestník Európskych spoločenstiev L 192, 31. 07. 2003).
+- Nariadenie Komisie (ES) č. 1209/2000 zo dňa 8. júna 2000 o podávaní oznámení podľa článku 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Mimoriadne vydanie Ú. v. EÚ, kap. 12/zv. 2; Ú. v. ES L 138, 9. 6. 2000) v platnom znení.
 
 - 22) § 43 až 85 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -93,8 +105,6 @@
 - 28) Zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Nariadenie vlády Slovenskej republiky č. 312/2007 Z. z., ktorým sa ustanovujú podrobnosti o spôsobe výberu a platenia povinného príspevku na Národný jadrový fond na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi.
-
-- 29) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 30) § 11 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
@@ -140,6 +150,6 @@
 
 - 45) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 46) Napríklad vyhláška ministra zahraničných vecí č. 61/1974 Zb. o Zmluve o nešírení jadrových zbraní, vyhláška ministra zahraničných vecí č. 62/1974 Zb. o Zmluve o zákaze umiestňovania jadrových zbraní a iných zbraní hromadného ničenia na dne morí a oceánov a v jeho podzemí, Nariadenie Komisie (Euratom) č. 302/2005 z 8. februára 2005 o uplatňovaní systému záruk Euratomu (Ú. v. EÚ L 54, 28. 2. 2005).
+- 46) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
 
 - 47) Nariadenie Komisie (Euratom) č. 66/2006 zo 16. januára 2006, ktorým sa udeľuje výnimka na prevoz malých množstiev rúd, východiskových materiálov a osobitných štiepnych materiálov z pravidiel kapitoly o dodávkach (Ú. v. EÚ L 11, 17. 1. 2006).

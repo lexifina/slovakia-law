@@ -16,7 +16,7 @@ Príloha č. 2 k zákonu č. 541/2004 Z. z.
 
     - 2. dopravný poriadok vrátane havarijného dopravného poriadku,
 
-    - 3. dokumentácia systému kvality pre prepravu,
+    - 3. dokumentácia systému manažérstva kvality pre prepravu,
 
     - 4. plán zabezpečenia fyzickej ochrany,
 
