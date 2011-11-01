@@ -44,6 +44,24 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - N-substituted derivatives of p-Phenylenediamine and their salts; N-substituted derivatives of o-Phenylenediamine<sup>5</sup>), with exception of those derivatives listed elsewhere in this Annex and under reference numbers 1309, 1311, and 1312 in Annex II“.
 
+- 4. V prílohe č. 3 časti 1 referenčnom čísle 8 stĺpci f písm. a) a b) sa veta „Môže vyvolať alergickú reakciu.“ nahrádza vetami, ktoré znejú:
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)„Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
+
 - 5. V prílohe č. 3 časti 1 sa za referenčné číslo 8 vkladá referenčné číslo 8a, ktoré znie:
 
 - „
@@ -58,11 +76,111 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - “.
 
+- 6. V prílohe č. 3 časti 1 referenčnom čísle 8a stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny.
+
+- Nepoužívať na farbenie obočia a mihalníc.
+
+- Zmiešavací pomer je uvedený na obale.
+
+- b)
+
+- Len na profesionálne použitie.
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny.
+
+- Použiť vhodné rukavice.
+
+- Zmiešavací pomer je uvedený na obale.“.
+
 - 7. V prílohe č. 3 časti 1 referenčnom čísle 9 stĺpec b znie:
 
 - „Metylfenyléndiamíny, ich N-substituované deriváty a ich soli<sup>2</sup>) okrem látky uvedenej v tejto prílohe pod referenčným číslom 9a a látok uvedených v prílohe č. 2 pod referenčnými číslami 364, 1310 a 1313
 
 - Methylphenylenediamines, their N-substituted derivatives and their salts<sup>1</sup>) with the exception of the substance under reference number 9a in this Annex and substances under reference numbers 364, 1310 and 1313 in Annex II“.
+
+- 8. V prílohe č. 3 časti 1 referenčnom čísle 9 stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny (toluéndiamíny).
+
+- Nepoužívať na farbenie obočia a mihalníc.
+
+- b)
+
+- Len na profesionálne použitie.
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny (toluéndiamíny).
+
+- Použiť vhodné rukavice.“.
 
 - 9. V prílohe č. 3 časti 1 sa za referenčné číslo 9 vkladá referenčné číslo 9a, ktoré znie:
 
@@ -77,6 +195,94 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 - 9a | Toluén-2,5-diamín a jeho soli <sup>2</sup>) Toluene-2,5-diamine ** CAS 95-70-5 EINECS 202-442-1 Toluene-2,5-diamine sulfate ** CAS 615-50-9 EINECS 210-431-8 | Látka na farbenie vlasov v oxidačných výrobkoch na farbenie vlasov a) Všeobecné použitie b) Profesionálne použitie | | a), b) Po zmiešaní v oxidačných podmienkach najvyššie prípustná koncentrácia aplikovaná na vlasy nesmie prekročiť 4 % hm. vyjadrené v prepočte na voľnú bázu. | a) Môže vyvolať alergickú reakciu. Obsahuje fenyléndiamíny. Nepoužívať na farbenie obočia a mihalníc. b) Len na profesionálne použitie. Môže vyvolať alergickú reakciu. Obsahuje fenyléndiamíny. Použiť vhodné rukavice.
 
 - “.
+
+- 10. V prílohe č. 3 časti 1 referenčnom čísle 9a stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny (toluéndiamíny).
+
+- Nepoužívať na farbenie obočia a mihalníc.
+
+- Zmiešavací pomer je uvedený na obale.
+
+- b)
+
+- Len na profesionálne použitie.
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Obsahuje fenyléndiamíny (toluéndiamíny).
+
+- Použiť vhodné rukavice.
+
+- Zmiešavací pomer je uvedený na obale.“.
+
+- 11. V prílohe č. 3 časti 1 referenčnom čísle 16 stĺpec f znie:
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)„Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
+
+- 12. V prílohe č. 3 časti 1 referenčnom čísle 22 stĺpci f písm. a) prvom a druhom bode sa na konci pripájajú tieto vety:
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)„Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
 
 - 13. V prílohe č. 3 časti 1 referenčných číslach 26 až 43, 47 a 56 stĺpci f v druhej vete sa za slovo „obsahom“ vkladá slovo „zlúčenín“ a v poslednej vete sa slovo „fluór“ nahrádza slovom „fluorid“.
 
@@ -97,6 +303,50 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 - 151a | Allyl phenethyl ether ** CAS 14289-65-7 EINECS 238-212-2 | | | Koncentrácia voľného alyl-alkoholu v éteri musí byť 0,1 % hm. |
 
 - “.
+
+- 16. V prílohe č. 3 časti 1 referenčných číslach 193 a 205 stĺpci f písm. a) sa na konci pripájajú tieto vety:
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)„Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
+
+- 17. V prílohe č. 3 časti 1 referenčných číslach 202 a 203 stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- Zmiešavací pomer musí byť uvedený na obale.
+
+- b)
+
+- Môže spôsobiť alergickú reakciu.“.
 
 - 18. V prílohe č. 3 sa časť 1 dopĺňa referenčným číslom 206, ktoré znie:
 
@@ -144,7 +394,83 @@ Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovuj�
 
 - “.
 
+- 21. V prílohe č. 3 časti 2 referenčných číslach 3 až 6, 12, 19 až 22, 25, 32 až 39 a 44 stĺpec f znie:
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)„Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
+
+- 22. V prílohe č. 3 časti 2 referenčných číslach 10, 11, 16, 31, 49, 50 a 55 stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
+
 - 23. V prílohe č. 3 časti 2 sa vypúšťajú referenčné čísla 26 a 29.
+
+- 24. V prílohe č. 3 časti 2 referenčných číslach 27, 48 a 56 stĺpec f znie:
+
+- „a)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.
+
+- b)
+
+- ![obrázok](assets/31cb5cd156dea83cbbc2761fa4ea9e3c1998b34da7bb71603c76776a589632f8.gif)Farby na vlasy môžu vyvolať vážne alergické reakcie.
+
+- Prečítajte si pokyny a dodržiavajte ich.
+
+- Tento výrobok nie je určený pre osoby mladšie ako 16 rokov.
+
+- Dočasné tetovanie čiernou henou môže zvýšiť riziko alergie.
+
+- Nefarbite si vlasy, ak:
+
+- – máte na tvári vyrážky alebo máte citlivú, podráždenú alebo poškodenú pokožku hlavy,
+
+- – ste v minulosti zaznamenali reakciu po farbení vlasov,
+
+- – ste v minulosti zaznamenali reakciu na dočasné tetovanie čiernou henou.“.
 
 - 25. Príloha č. 6 sa dopĺňa referenčným číslom 58, ktoré znie:
 
