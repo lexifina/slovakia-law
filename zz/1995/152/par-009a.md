@@ -1,8 +1,8 @@
 # § 9a Označenie pôvodu, zemepisné označenie a označenie zaručených tradičných špecialít
 
-(1) Združenie,<sup>9aa</sup>) zväz výrobcov poľnohospodárskych výrobkov alebo potravín alebo zväz spracovateľov poľnohospodárskych výrobkov alebo potravín s právnou subjektivitou, alebo fyzická osoba, alebo právnická osoba, ktorá v čase podania prihlášky ako jediná výrobok vyrába, spracúva a pripravuje, môže po odsúhlasení špecifikácie poľnohospodárskeho výrobku alebo potraviny ministerstvom prostredníctvom Úradu priemyselného vlastníctva Slovenskej republiky požiadať o ochranu označenia pôvodu alebo zemepisného označenia.<sup>9aaa</sup>)
+(1) Združenie,<sup>9aa</sup>) zväz výrobcov poľnohospodárskych výrobkov alebo potravín alebo zväz spracovateľov poľnohospodárskych výrobkov alebo potravín alebo fyzická osoba alebo právnická osoba, ktorá v čase podania prihlášky ako jediná výrobok vyrába, spracúva a pripravuje, môže prostredníctvom Úradu priemyselného vlastníctva Slovenskej republiky požiadať o ochranu označenia pôvodu alebo zemepisného označenia.<sup>9aaa</sup>)
 
-(2) Ministerstvo odborne posudzuje predložené špecifikácie výrobkov prihlásených na označenie pôvodu, zemepisné označenie alebo zaručenú tradičnú špecialitu<sup>9aab</sup>) z poľnohospodárskeho výrobku alebo potraviny.
+(2) Pred podaním žiadosti o ochranu označenia pôvodu alebo zemepisného označenia musí byť špecifikácia poľnohospodárskeho výrobku alebo potraviny a technická dokumentácia liehovín uchádzajúcich sa o zápis zemepisného označenia a zavedených zemepisných označení liehovín<sup>9abc</sup>) odborne posúdená a odsúhlasená ministerstvom.
 
 (3) Žiadosť o zápis do registra označení zaručených tradičných špecialít z poľnohospodárskeho výrobku alebo potraviny uverejní ministerstvo vo Vestníku Ministerstva pôdohospodárstva Slovenskej republiky (ďalej len „vestník ministerstva").
 

@@ -1,18 +1,24 @@
-- 1) Čl. 14 ods. 7 a 9 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v platnom znení.
+- 1) Čl. 3 ods. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v platnom znení.
 
 - 1a) Čl. 1 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 z 29. apríla 2004 o úradných kontrolách uskutočňovaných za účelom zabezpečenia dodržiavania potravinového a krmivového práva a predpisov o zdraví zvierat a pohode zvierat (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 45) v platnom znení.
 
 - 1aa) Napríklad zákon č. 40/1968 Zb. Občiansky zákonník v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti, zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z., zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov, zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
+- 1aaa) Čl. 2 nariadenia (ES) č. 178/2002 v platnom znení.
+
 - 1ab) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
+
+- 1ac) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 1830/2003 Európskeho parlamentu a Rady z 22. septembra 2003 o sledovateľnosti a označovaní geneticky modifikovaných organizmov a sledovateľnosti potravín a krmív vyrobených z geneticky modifikovaných organizmov a ktorým sa mení a dopĺňa smernica 2001/18/ES (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 32) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 882/2004 z 29. apríla 2004 o úradných kontrolách uskutočňovaných s cieľom zabezpečiť overenie dodržiavania potravinového a krmivového práva a predpisov o zdraví zvierat a o starostlivosti o zvieratá (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 45) v platnom znení, nariadenie Komisie (ES) č. 2073/2005 z 15. novembra 2005 o mikrobiologických kritériách pre potraviny (Ú. v. EÚ L 338, 22. 12. 2005) v platnom znení, nariadenie Rady (ES) č. 509/2006 z 20. marca 2006 o zaručených tradičných špecialitách z poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006), nariadenie Rady (ES) č. 510/2006 z 20. marca 2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006) v platnom znení, nariadenie Rady (ES) č. 1234/2007 z 22. októbra 2007 o vytvorení spoločnej organizácie poľnohospodárskych trhov a o osobitných ustanoveniach pre určité poľnohospodárske výrobky (nariadenie o jednotnej spoločnej organizácii trhov) (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 110/2008 o definovaní, popise, prezentácii, označovaní a ochrane zemepisných označení liehovín a o zrušení nariadenia (EHS) č. 1576/89 (Ú. v. EÚ L 39, 13. 2. 2008) v platnom znení.
+
+- 1ad) § 9 ods. 1 zákona č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov.
 
 - 1b) Nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 z 27. januára 1997 o nových druhoch potravín a potravinových prísad (Ú. v. ES L 102, 19. 04. 1997).
 
 - 1c) Nariadenie (ES) č. 1829/2003 Európskeho parlamentu a Rady z 22. septembra 2003 o geneticky modifikovaných potravinách a krmivách (Ú. v. ES L 268, 18. 10. 2003).
 
-- 1d) Čl. 14 ods. 4 a 5 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v platnom znení.
+- 1d) Čl. 2 ods. 2 bod 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 z 20. decembra 2006 o výživových a zdravotných tvrdeniach o potravinách (Ú. v. EÚ L 404, 30. 12. 2006) v platnom znení.
 
-- 1e) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 882/2004 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 45), nariadenie Európskeho parlamentu a Rady (ES) č. 178/2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 1576/89 z 29. mája 1989 ustanovujúce všeobecné pravidlá na definovanie, opis a uvádzanie liehovín na trh (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 9) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 1830/2003 z 22. septembra 2003 o vysledovateľnosti a označovaní geneticky modifikovaných potravín a krmív vyrobených z geneticky modifikovaných organizmov a ktorým sa mení a dopĺňa smernica 2001/18/ES (Mimoriadne vydanie Ú. v. EÚ, kap.13/zv. 32), nariadenie Komisie (ES) č. 2073/2005 z 15. novembra 2005 o mikrobiologických kritériách pre potraviny (Ú. v. EÚ L 338, 22. 12. 2005), zákon č. 23/1962 Zb. o poľovníctve v znení neskorších predpisov.
+- 1e) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 852/2004 v platnom znení, nariadenie (ES) č. 882/2004 v platnom znení, nariadenie (ES) č. 1234/2007 v platnom znení.
 
 - 2) § 2 ods. 2 Obchodného zákonníka.
 
@@ -32,13 +38,19 @@
 
 - 8) § 29 a 30 zákona č. 337/1998 Z. z.
 
-- 8a) Zákon č. 126/2006 Z. z.
+- 8a) Čl. 3 ods. 8 nariadenia (ES) č. 178/2002 v platnom znení.
 
-- 8b) Čl. 3 ods. 8 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 v platnom znení.
+- 8b) § 13 ods. 4 písm. g) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 8ba) Čl. 30 Zmluvy o založení Európskeho spoločenstva – niceské znenie (Ú. v. ES C 325, 24. 12. 2002).
+- 8ba) Čl. 36 Zmluvy o fungovaní Európskej únie.
+
+- 8bb) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 8c) Nariadenie Európskeho parlamentu a Rady (ES) č. 1924/2006 o výživových a zdravotných tvrdeniach o potravinách (Ú. v. L 409, 30. 12. 2006).
+
+- 8d) Čl. 14 nariadenia (ES) č. 178/2002 v platnom znení.
+
+- 8e) Čl. 2 ods. 2 nariadenia Komisie (EÚ) č. 16/2011 z 10. januára 2011, ktorým sa stanovujú vykonávacie opatrenia pre systém rýchleho varovania pre potraviny a krmivá (Ú. v. EÚ L 64, 11. 3. 2011).
 
 - 9) § 45 a 46 Obchodného zákonníka.
 
@@ -46,7 +58,7 @@
 
 - 9aa) Napríklad § 20f až 20j Občianskeho zákonníka.
 
-- 9aaa) Nariadenie Rady (ES) č. 510/2006 z 20. marca 2006 o ochrane zemepisných označení a označení pôvodu poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006).
+- 9aaa) Napríklad nariadenie (ES) č. 510/2006 v platnom znení, nariadenie (ES) č. 110/2008 v platnom znení, nariadenie (ES) č. 1234/2007 v platnom znení.
 
 - 9aab) Nariadenie Rady (ES) č. 509/2006 z 20. marca 2006 o zaručených tradičných špecialitách poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006).
 
@@ -64,15 +76,17 @@
 
 - 9abb) Nariadenie Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
-- 9abc) Nariadenie Rady (EHS) č. 1576/89 z 29. mája 1989 ustanovujúce všeobecné pravidlá na definovanie, opis a uvádzanie liehovín na trh (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 9) v platnom znení.
+- 9abc) Nariadenie (ES) č. 110/2008 v platnom znení.
 
 - 9abd) Čl. 15 nariadenia Rady (ES) č. 509/2006 v platnom znení, čl. 11 nariadenia Rady (ES) č. 510/2006 v platnom znení.
 
 - 9abe) Zákon č. 469/2003 Z. z. o označeniach pôvodu výrobkov a zemepisných označeniach výrobkov a o zmene a doplnení niektorých zákonov.
 
-- 9abf) § 6 zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 524/2005 Z. z.
+- 9abf) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 9ac) Zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z.
+- 9abg) § 2 ods. 17 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 9abh) Nariadenie Európskeho parlamentu a Rady (ES) č. 1924/2006 z 20. decembra 2006 o výživových a zdravotných tvrdeniach o potravinách (Ú. v. EÚ L 404, 30. 12. 2006) v platnom znení.
 
 - 9ad) Príloha II kapitola 8 nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 v platnom znení.
 
@@ -88,7 +102,11 @@
 
 - 10) Čl. 9 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
-- 10a) Čl. 54 ods. 1 až 4 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
+- 10a) Čl. 2 ods. 1 nariadenia (ES) č. 882/2004 v platnom znení.
+
+- 10b) Čl. 54 ods. 1 až 4 nariadenia (ES) č. 882/2004 v platnom znení.
+
+- 10c) Čl. 7 nariadenia (ES) č. 178/2002 v platnom znení.
 
 - 11) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. v znení zákona Národnej rady Slovenskej republiky č. 132/1994 Z. z.
 
@@ -100,11 +118,11 @@
 
 - 12) § 51 Obchodného zákonníka.
 
-- 12a) Čl. 54 ods. 2 písm. b) až d) a h) nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
+- 12a) Čl. 54 ods. 2 písm. a) až e) nariadenia (ES) č. 882/2004 v platnom znení.
 
 - 12b) Čl. 14 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
-- 13) § 18 ods. 1 písm. b), c) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 13) § 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon č. 337/1998 Z. z.
 
@@ -136,9 +154,11 @@
 
 - 17g) Čl. 6 a príloha II k nariadeniu Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
+- 17h) § 8 ods. 1 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
 - 18) § 90 písm. a) vyhlášky Federálneho ministerstva poľnohospodárstva a výživy č. 121/1987 Zb.
 
-- 20) § 22 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
+- 20) Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
 
 - 21) § 22 ods. 2, § 25 a 26 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z.
 
@@ -148,11 +168,11 @@
 
 - 21c) Čl. 12 ods. 2 a 3 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
-- 21d) Čl. 11 a príloha III k nariadeniu Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
-
 - 22) § 4, 6 a 7 zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z.
 
 - 23) § 7 zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z.
+
+- 23a) § 2 ods. 1 písm. a) zákona č. 178/1998 Z. z. v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 83/1990 Zb. o združovaní občanov, zákon Slovenskej národnej rady č. 30/1992 Zb. o Slovenskej poľnohospodárskej a potravinárskej komore.
 

@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 152/1995 Z. z. [Vzor 01](../assets/94335dcae055c350ec81056cd4bf293f7f8ff1ae07e5366f818d1d77a03cbc42.pdf)
+Príloha č. 1 k zákonu č. 152/1995 Z. z. [Vzor 01](../assets/339cc40a8054816398cf8cc1b4baa1912f0a1cd9d6460fcc4e1bffbad70613dd.pdf)

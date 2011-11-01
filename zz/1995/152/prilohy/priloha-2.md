@@ -1,31 +1,11 @@
 Príloha č. 2 k zákonu č. 152/1995 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
-  - 1. Smernica Rady 89/396/EHS zo 14. júna 1989 o identifikácii alebo rozlíšení druhu, ku ktorému potraviny patria (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10) v znení
+  - 1. Smernica Rady 89/396/EHS zo 14. júna 1989 o identifikácii alebo rozlíšení druhu, ku ktorému potraviny patria (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10) v znení smernice Rady 91/238/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10), smernice Rady 92/11/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 11).
 
-  - – smernice Rady 91/238/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10),
+  - 2. Smernica Rady 90/496/EHS z 24. septembra 1990 o nutričnom označovaní potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4), smernice Rady 2003/120/ES z 5. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 32), smernice Komisie 2008/100/ES z 28. októbra 2008 (Ú. v. EÚ L 285, 29. 10. 2008), nariadenia Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 (Ú. v. EÚ L 311, 21. 11. 2008).
 
-  - – smernice Rady 92/11/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 11).
+  - 3. Smernica Komisie 94/54/ES z 18. novembra 1994, ktorá sa týka povinného uvádzania podrobných údajov v označení určitých potravín okrem tých, ktoré ustanovuje smernica Rady 79/112/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2) v znení smernice Rady 96/21/ES z 29. marca 1996 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3), smernice Komisie 2004/77/ES z 29. apríla 2004 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 8).
 
-  - 2. Smernica Rady 90/496/EHS z 24. septembra 1990 o nutričnom označovaní potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 10) v znení
-
-  - – smernice Rady 2003/120/ES z 5. decembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 32).
-
-  - 3. Smernica Komisie 94/54/ES z 18. novembra 1994, ktorá sa týka povinného uvádzania podrobných údajov v označení určitých potravín okrem tých, ktoré ustanovuje smernica Rady 79/112/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2) v znení
-
-  - – smernice Rady 96/21/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3),
-
-  - – smernice Komisie 2004/77/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 8).
-
-  - 4. Smernica Európskeho parlamentu a Rady 2000/13/ES z 20. marca 2000 o aproximácii právnych predpisov členských štátov týkajúcich sa označovania, prezentácie a reklamy potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 5) v znení
-
-  - – smernice Komisie 2001/101/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6),
-
-  - – smernice Komisie 2002/86/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 7),
-
-  - – smernice Komisie 2003/89/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 7),
-
-  - – smernice Komisie 2005/26/ES (Ú. v. EÚ L 75, 22. 3. 2005),
-
-  - – smernice Komisie 2005/63/ES (Ú. v. EÚ L 258, 4. 10. 2005).
+  - 4. Smernica Európskeho parlamentu a Rady 2000/13/ES z 20. marca 2000 o aproximácii právnych predpisov členských štátov týkajúcich sa označovania, prezentácie a reklamy potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 5) v znení smernice Komisie 2001/101/ES z 26. novembra 2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6), Aktu o podmienkach pristúpenia Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky a o úpravách zmlúv, na ktorých je založená Európska únia (Ú. v. EÚ L 236, 23. 9. 2003), smernice Európskeho parlamentu a Rady 2003/89/ES z 10. novembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 7), smernice Rady 2006/107/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006), smernice Komisie 2006/142/ES z 22. decembra 2006 (Ú. v. EÚ L 368, 23. 12. 2006), smernice Komisie 2007/68/ES z 27. novembra 2007 (Ú. v. EÚ L 310, 28. 11. 2007), nariadenia Európskeho parlamentu a Rady (ES) č. 1332/2008 zo 16. decembra 2008 (Ú. v. EÚ L 354, 31. 12. 2008), nariadenia Európskeho parlamentu a Rady (ES) č. 1334/2008 zo 16. decembra 2008 (Ú. v. EÚ L 354, 31. 12. 2008), nariadenia Európskeho parlamentu a Rady (ES) č. 596/2009 z 18. júna 2009 (Ú. v. EÚ L 188, 18. 7. 2009).
