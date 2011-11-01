@@ -892,23 +892,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - IV. ČASŤ VETERINÁRNA SPRÁVA
 
-    - Položka 53
-
-  - Vydanie rozhodnutia o veterinárnych podmienkach na dovoz, tranzit a vývoz živých zvierat, spermy, samičích pohlavných buniek a embryí, násadových vajec, živočíšnych produktov, krmív a predmetov, ktoré môžu byť nositeľmi pôvodcov nákaz, |
-
-  - | | 1. pre fyzické osoby ..... | 9,50 eura
-
-  - 2. pre právnické osoby ..... | 16,50 eura
-
-  - Oslobodenie Vydanie rozhodnutia pre občana s ťažkým zdravotným postihnutím a držiteľa preukazu občana s ťažkým zdravotným postihnutím na vývoz alebo dovoz psa so špeciálnym výcvikom je oslobodené od poplatku. |
-
     - Položka 56
 
-  - Vydanie záväzného posudku<sup>17a</sup>) ........................................................................................... | 16,50 eura
-
-    - Položka 57
-
-  - Povolenie na vykonávanie zvodu zvierat ....................................................................................... | 6,50 eura
+  - Vydanie záväzného posudku<sup>17a</sup>) ........................................................................................... | 33 eur
 
   - V. ČASŤ STAVEBNÁ SPRÁVA
 
