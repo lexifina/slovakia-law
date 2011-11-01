@@ -26,8 +26,6 @@
 
 - 3ed) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 3ee) § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
-
 - 3f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 3g) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
@@ -58,16 +56,6 @@
 
 - 13) § 65 ods. 1 písm. d) zákona č. 385/2000 Z. z.
 
-- 14) Zákon č. 154/2001 Z. z. v znení neskorších predpisov.
-
-- 15) § 58 a § 93 ods. 1 písm. a), b) prvý až šiesty bod a písmeno c) zákona č. 154/2001 Z. z.
-
-- 16) § 3 ods. 1 písm. b) siedmy bod zákona č. 154/2001 Z. z.
-
-- 17) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
-
-- 18) § 78 ods. 1 písm. a) až l) a § 96 ods. 3 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
-
 - 19) § 15j až 15p zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
 
 - 23) § 35 ods. 9, § 43 ods. 3 a § 46 ods. 3 zákona č. 73/1998 Z. z.
@@ -75,8 +63,6 @@
 - § 34 ods. 6, § 40 ods. 2 až 4 a § 42 ods. 3 zákona č. 200/1998 Z. z.
 
 - 23a) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
-
-- § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
 
 - 24) § 46 ods. 4 zákona č. 73/1998 Z. z.
 
@@ -100,7 +86,7 @@
 
 - 31a) § 63 ods. 1 písm. j) zákona č. 315/2001 Z. z. v znení zákona č. 519/2007 Z. z.
 
-- 31b) § 196 a 215e zákona č. 346/2005 Z. z. v znení neskorších predpisov.
+- 31b) § 196, 215e a 215k zákona č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 31c) § 70 ods. 1 písm. d) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
