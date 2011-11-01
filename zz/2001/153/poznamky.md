@@ -24,6 +24,8 @@
 
 - 12) Napríklad § 1 ods. 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
 
+- 12a) Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie č. 566/2004 Z. z.).
+
 - 13) Napríklad zákon č. 71/1967 Zb. o správnom konaní (správny poriadok), zákon Slovenskej národnej rady č. 542/1990 Zb. o štátnej správe v školstve a školskej samospráve v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov.
 
 - 14) § 35 ods. 1 písm. b), § 200ha a § 244 až 250s Občianskeho súdneho poriadku v znení neskorších predpisov.
@@ -54,8 +56,6 @@
 
 - 25a) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 26) § 24 ods. 3 zákona č. 370/1997 Z. z. o vojenskej službe.
-
 - 27) § 1 až 4 zákona Národnej rady Slovenskej republiky č. 328/1996 Z. z., ktorým sa ustanovujú nové sídla a obvody súdov, a o zmene a doplnení niektorých zákonov.
 
 - 28) Zákon č. 311/1999 Z. z. o registri trestov.
@@ -63,8 +63,6 @@
 - 28a) Zákon č. 275/2006 Z. z. v znení neskorších predpisov.
 
 - 29) § 4 ods. 3 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
-
-- 30) Zákon č. 370/1997 Z. z. v znení neskorších predpisov.
 
 - 30a) § 16 ods. 2 Trestného poriadku.
 
