@@ -20,6 +20,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - § 42a zákona č. 577/2004 Z. z. v znení neskorších predpisov.“.
 
+- 3. V § 6 sa odsek 4 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- uverejniť na svojom webovom sídle zmluvy o poskytovaní zdravotnej starostlivosti na základe verejného zdravotného poistenia, ktoré zdravotná poisťovňa uzatvorila s poskytovateľmi zdravotnej starostlivosti (§ 7), vrátane príloh a dodatkov k zmluvám vrátane príloh do 30 dní odo dňa uzavretia takejto zmluvy alebo dodatkov k zmluvám; ak sú súčasťou zmluvy osobné údaje, tieto sa okrem mena, priezviska alebo názvu a sídla poskytovateľa zdravotnej starostlivosti nezverejňujú.“.
+
 - 4. V § 6a sa odsek 3 dopĺňa písmenom h), ktoré znie:
 
 - „h)
