@@ -134,81 +134,55 @@
 
   - [Typ použitého písma] Zmluvná strana môže požadovať, aby všetky údaje opísané v odsekoch 1 až 3 boli realizované typom písma používaným úradom.
 
-  - Pravidlo 3
+    - Pravidlo 3
 
-  - Podrobnosti týkajúce sa prihlášky
+      - Podrobnosti týkajúce sa prihlášky
 
-  - 1.
+      - 1. [Štandardné znaky] Ak úrad zmluvnej strany používa typ písma (písmená a čísla), ktoré uznal za štandardné, a ak prihláška obsahuje vyhlásenie prihlasovateľa, v ktorom žiada, aby bola známka zapísaná a zverejnená v štandardnom písme používanom úradom, úrad zapíše a zverejní túto známku v štandardnom písme.
 
-  - [Štandardné znaky] Ak úrad zmluvnej strany používa typ písma (písmená a čísla), ktoré uznal za štandardné, a ak prihláška obsahuje vyhlásenie prihlasovateľa, v ktorom žiada, aby bola známka zapísaná a zverejnená v štandardnom písme používanom úradom, úrad zapíše a zverejní túto známku v štandardnom písme.
+      - 2. [Známka uplatňujúca si farbu] Ak prihláška obsahuje vyhlásenie, v ktorom prihlasovateľ žiada uplatnenie farby ako rozlišovacieho znaku ochrannej známky, úrad môže požadovať, aby bol v prihláške uvedený názov alebo kód uplatňovanej farby alebo farieb a označenie základných častí známky, ktoré sú vo farebnom prevedení, a to vo vzťahu ku každej farbe.
 
-  - 2.
+      - 3. [Počet reprodukcií]
 
-  - [Známka uplatňujúca si farbu] Ak prihláška obsahuje vyhlásenie, v ktorom prihlasovateľ žiada uplatnenie farby ako rozlišovacieho znaku ochrannej známky, úrad môže požadovať, aby bol v prihláške uvedený názov alebo kód uplatňovanej farby alebo farieb a označenie základných častí známky, ktoré sú vo farebnom prevedení, a to vo vzťahu ku každej farbe.
+        - a) Ak prihláška neobsahuje vyhlásenie, v ktorom prihlasovateľ žiada uplatnenie farby ako rozlišovacieho znaku ochrannej známky, zmluvná strana nie je oprávnená požadovať viac ako
 
-  - 3.
+          - i) päť reprodukcií ochrannej známky v čiernobielom vyhotovení, ak prihláška podľa právneho poriadku zmluvnej strany nesmie obsahovať alebo neobsahuje vyhlásenie, v ktorom prihlasovateľ žiada, aby ochranná známka bola zapísaná a zverejnená v štandardnom písme používanom úradom tejto zmluvnej strany,
 
-  - [Počet reprodukcií]
+          - ii) jednu reprodukciu ochrannej známky v čiernobielom vyhotovení, ak prihláška obsahuje vyhlásenie, v ktorom prihlasovateľ žiada, aby ochranná známka bola zapísaná a zverejnená v štandardnom písme používanom úradom tejto zmluvnej strany.
 
-  - a)
+        - b) Ak prihláška obsahuje vyhlásenie, že si prihlasovateľ uplatňuje farbu ako rozlišovací prvok ochrannej známky, zmluvná strana nie je oprávnená požadovať viac ako päť čiernobielych reprodukcií ochrannej známky a päť farebných reprodukcií ochrannej známky.
 
-  - Ak prihláška neobsahuje vyhlásenie, v ktorom prihlasovateľ žiada uplatnenie farby ako rozlišovacieho znaku ochrannej známky, zmluvná strana nie je oprávnená požadovať viac ako
+      - (4) [Trojrozmerná ochranná známka]
 
-  - i)
+        - (a) Ak prihláška obsahuje vyhlásenie, že ochranná známka je trojrozmernou ochrannou známkou, reprodukcia ochrannej známky bude obsahovať dvojrozmernú grafickú alebo fotografickú reprodukciu.
 
-  - päť reprodukcií ochrannej známky v čiernobielom vyhotovení, ak prihláška podľa právneho poriadku zmluvnej strany nesmie obsahovať alebo neobsahuje vyhlásenie, v ktorom prihlasovateľ žiada, aby ochranná známka bola zapísaná a zverejnená v štandardnom písme používanom úradom tejto zmluvnej strany,
+        - (b) Reprodukcia predložená podľa písmena a) môže podľa rozhodnutia prihlasovateľa pozostávať z jedného pohľadu na ochrannú známku alebo z viacerých rozličných pohľadov na ochrannú známku.
 
-  - ii)
+        - (c) Ak úrad usúdi, že reprodukcia ochrannej známky predložená prihlasovateľom podľa písmena a) dostatočne nevykazuje znaky trojrozmernej ochrannej známky, je oprávnený vyzvať prihlasovateľa, aby v rámci stanovenej lehoty predložil až šesť rôznych pohľadov ochrannej známky a/alebo slovný opis tejto ochrannej známky.
 
-  - jednu reprodukciu ochrannej známky v čiernobielom vyhotovení, ak prihláška obsahuje vyhlásenie, v ktorom prihlasovateľ žiada, aby ochranná známka bola zapísaná a zverejnená v štandardnom písme používanom úradom tejto zmluvnej strany.
+        - (d) Ak úrad usúdi, že rozličné pohľady a/alebo opis ochrannej známky, ktoré sú stanovené v písmene c), naďalej dostatočne nevykazujú znaky trojrozmernej ochrannej známky, je oprávnený požiadať prihlasovateľa, aby do primerane stanovenej lehoty predložil vzorku ochrannej známky.
 
-  - b)
+        - (e) Bez ohľadu na ustanovenie písmen a) až d) je postačujúca na priznanie dátumu podania dostatočne jasná reprodukcia zobrazujúca trojrozmerný charakter ochrannej známky v jedinom pohľade.
 
-  - Ak prihláška obsahuje vyhlásenie, že si prihlasovateľ uplatňuje farbu ako rozlišovací prvok ochrannej známky, zmluvná strana nie je oprávnená požadovať viac ako päť čiernobielych reprodukcií ochrannej známky a päť farebných reprodukcií ochrannej známky.
+        - (f) Odsek 3 písm. a) bod i) a písm. b) sa uplatňujú primerane.
 
-  - 4.
+      - (5) [Ochranná známka vo forme hologramu] Ak prihláška obsahuje vyhlásenie, že ochranná známka je vo forme hologramu, zobrazenie ochrannej známky musí obsahovať jeden alebo viac pohľadov na ochrannú známku zachytávajúcich holografický efekt ako celok. Ak úrad usúdi, že predložený pohľad alebo niekoľko pohľadov nezachytávajú holografický efekt ako celok, môže požadovať predloženie dodatočných pohľadov. Úrad tiež môže od prihlasovateľa požadovať, aby predložil opis tejto ochrannej známky.
 
-  - [Trojrozmerná ochranná známka]
+      - (6) [Pohybová ochranná známka] Ak prihláška obsahuje vyhlásenie, že ochranná známka je pohybová, zobrazenie ochrannej známky musí, v zmysle rozhodnutia úradu, pozostávať z jedného obrázka alebo zo série statických alebo pohyblivých obrázkov zobrazujúcich pohyb. Ak úrad usúdi, že predložený obrázok alebo obrázky nezobrazujú pohyb, môže požadovať predloženie dodatočných obrázkov. Úrad tiež môže požadovať, aby prihlasovateľ predložil opis vysvetľujúci pohyb.
 
-  - a)
+      - (7) [Farebná ochranná známka] Ak prihláška obsahuje vyhlásenie, že ochrannú známku tvorí farba sama osebe alebo kombinácia farieb bez vymedzených tvarov, reprodukcia takej ochrannej známky musí pozostávať zo vzorky farby alebo farieb. Úrad môže požadovať označenie farby alebo farieb s použitím ich všeobecných názvov. Úrad môže požadovať aj opis toho, ako je farba alebo ako sú farby použité na tovaroch alebo v súvislosti so službami. Úrad tiež môže požadovať označenie farby alebo farieb uznanými kódmi farieb, a to podľa výberu prihlasovateľa, ktoré úrad akceptuje.
 
-  - Ak prihláška obsahuje vyhlásenie, že ochranná známka je trojrozmernou ochrannou známkou, reprodukcia ochrannej známky bude obsahovať dvojrozmernú grafickú alebo fotografickú reprodukciu.
+      - (8) [Polohová ochranná známka] Ak prihláška obsahuje vyhlásenie, že ochranná známka je polohová, reprodukcia ochrannej známky musí pozostávať zo samostatného pohľadu na ochrannú známku, ktorý ukazuje jej polohu na výrobku. Úrad môže požadovať, aby prvky, pre ktoré sa ochrana nepožaduje, boli označené. Úrad tiež môže požadovať opis polohy ochrannej známky na výrobku.
 
-  - b)
+      - (9) [Zvuková ochranná známka] Ak prihláška obsahuje vyhlásenie, že ochranná známka je zvuková, zobrazenie takej ochrannej známky musí, v zmysle rozhodnutia úradu, obsahovať notový záznam v notovej osnove alebo opis zvuku tvoriaceho ochrannú známku, alebo analógový alebo digitálny záznam tohto zvuku, alebo akúkoľvek ich kombináciu.
 
-  - Reprodukcia predložená podľa písmena a) môže podľa rozhodnutia prihlasovateľa pozostávať z jedného pohľadu na ochrannú známku alebo z viacerých rozličných pohľadov na ochrannú známku.
+      - (10) [Ochranná známka obsahujúca neviditeľný znak iný ako zvuková ochranná známka] Ak prihláška obsahuje vyhlásenie, že súčasťou ochrannej známky je neviditeľný znak iný ako zvuková ochranná známka, zmluvná strana môže požadovať jedno alebo viac zobrazení ochrannej známky, uvedenie typu ochrannej známky a podrobnosti týkajúce sa ochrannej známky v zmysle zákonov zmluvnej strany.
 
-  - c)
+      - (11) [Prepis ochrannej známky] Na účely článku 3 ods. 1 písm. a) bodu xiii), ak ochranná známka pozostáva z iného písma alebo obsahuje iné písmo, ako je písmo používané úradom, alebo obsahuje čísla vyjadrené inými číslicami, ako sú číslice používané úradom, môže požadovať prepis ochrannej známky do písma a číslic používaných úradom.
 
-  - Ak úrad usúdi, že reprodukcia ochrannej známky predložená prihlasovateľom podľa písmena a) dostatočne nevykazuje znaky trojrozmernej ochrannej známky, je oprávnený vyzvať prihlasovateľa, aby v rámci stanovenej lehoty predložil najviac šesť pohľadov ochrannej známky a/alebo slovný opis tejto ochrannej známky.
+      - (12) [Preklad ochrannej známky] Na účely článku 3 ods. 1 písm. a) bodu xiv), ak ochranná známka pozostáva zo slova alebo zo slov alebo obsahuje slovo alebo slová v inom jazyku, ako je jazyk alebo jeden z jazykov používaných úradom, môže sa požadovať preklad tohto slova alebo týchto slov do jazyka alebo do jedného z týchto jazykov.
 
-  - d)
-
-  - Ak úrad usúdi, že rozličné pohľady a/alebo opis ochrannej známky, ktoré sú stanovené v písmene c), naďalej dostatočne nevykazujú znaky trojrozmernej ochrannej známky, je oprávnený požiadať prihlasovateľa, aby do stanovenej primeranej lehoty predložil vzorku ochrannej známky.
-
-  - e)
-
-  - Odsek 3 písm. a) bod i) a písm. b) sa uplatňuje primerane.
-
-  - 5.
-
-  - [Hologram, pohybová známka, farebná známka, polohová známka] Ak prihláška obsahuje vyhlásenie, že ochranná známka je vo forme hologramu, pohybovej ochrannej známky, farebnej ochrannej známky alebo polohovej ochrannej známky, zmluvná strana môže požadovať jednu alebo viac reprodukcií ochrannej známky a súvisiace podrobnosti v zmysle zákonov zmluvnej strany.
-
-  - 6.
-
-  - [Ochranná známka obsahujúca neviditeľný znak] Ak prihláška obsahuje vyhlásenie, že súčasťou ochrannej známky je neviditeľný znak, zmluvná strana môže požadovať jedno alebo viac zobrazení ochrannej známky, uvedenie typu ochrannej známky a podrobnosti týkajúce sa ochrannej známky v zmysle zákonov zmluvnej strany.
-
-  - 7.
-
-  - [Prepis ochrannej známky] Na účely článku 3 ods. 1 písm. a) bodu xiii), ak ochranná známka pozostáva z iného písma alebo obsahuje iné písmo, ako je písmo používané úradom, alebo obsahuje čísla vyjadrené inými číslicami, ako sú číslice používané úradom, môže požadovať prepis ochrannej známky do písma a číslic používaných úradom.
-
-  - 8.
-
-  - [Preklad ochrannej známky] Na účely článku 3 ods. 1 písm. a) bodu xiv), ak ochranná známka pozostáva zo slova alebo zo slov alebo obsahuje slovo alebo slová v inom jazyku, ako je jazyk alebo jeden z jazykov používaných úradom, môže sa požadovať preklad tohto slova alebo týchto slov do jazyka alebo do jedného z týchto jazykov.
-
-  - 9.
-
-  - [Lehota na preukázanie skutočného použitia ochrannej známky] Lehota podľa článku 3 ods. 3 nesmie byť kratšia ako šesť mesiacov od dátumu uznania prihlášky úradom zmluvnej strany, ktorému bola podaná. Prihlasovateľ alebo majiteľ bude mať právo na predĺženie tejto lehoty podľa podmienok stanovených zákonom tejto zmluvnej strany o obdobie najmenej šesť mesiacov až do celkového možného predĺženia, ktoré nesmie byť kratšie ako dva a pol roka.
+      - (13) [Lehota na preukázanie skutočného použitia ochrannej známky] Lehota podľa článku 3 ods. 3 nesmie byť kratšia ako šesť mesiacov od dátumu uznania prihlášky úradom zmluvnej strany, ktorému bola podaná. Prihlasovateľ alebo majiteľ bude mať právo na predĺženie tejto lehoty podľa podmienok stanovených zákonom tejto zmluvnej strany o obdobie najmenej šesť mesiacov až do celkového možného predĺženia, ktoré nesmie byť kratšie ako dva a pol roka.
 
   - Pravidlo 4
 
