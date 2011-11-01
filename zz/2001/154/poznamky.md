@@ -1,9 +1,5 @@
 - 1) Zákon č. 153/2001 Z. z. o prokuratúre.
 
-- 2) § 2 ods. 1 písm. b) druhý bod zákona č. 370/1997 Z. z. o vojenskej službe v znení zákona č. 10/2000 Z. z.
-
-- 3) § 4 ods. 1 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
-
 - 4) § 21 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
 
 - 5) § 25 ods. 1 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Zb. o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách.
@@ -21,8 +17,6 @@
 - 11a) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 12) § 31a ods. 2 zákona č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
 
 - 13) § 244 až 250k Občianskeho súdneho poriadku.
 
@@ -50,10 +44,6 @@
 
 - 24) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
-- 25) § 1 ods. 4 a § 40 až 49 zákona č. 380/1997 Z. z. o peňažných náležitostiach vojakov.
-
-- 26) Zákon č. 370/1997 Z. z. v znení zákona č. 10/2000 Z. z.
-
 - 27) Zákon č. 351/1997 Z. z. Branný zákon.
 
 - 28) Zákon Národnej rady Slovenskej republiky č. 207/1995 Z. z. o civilnej službe a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákona Slovenskej národnej rady č. 83/1991 Zb. o pôsobnosti orgánov Slovenskej republiky pri zabezpečovaní politiky zamestnanosti v znení neskorších predpisov a zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. a zákona č. 185/2000 Z. z.
@@ -70,8 +60,6 @@
 
 - 33) § 6 ods. 10 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
-- 34) § 144 zákona č. 370/1997 Z. z.
-
 - 35) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
 - 36) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
@@ -81,8 +69,6 @@
 - 37) § 66 ods. 1 a § 85 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 38) § 67 ods. 1 a § 85 zákona č. 385/2000 Z. z.
-
-- 39) § 1 ods. 4 a § 8 zákona č. 380/1997 Z. z.
 
 - 40) § 22c a 22d zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 57/1999 Z. z.
 
@@ -98,19 +84,13 @@
 
 - 45) Napríklad § 279 Občianskeho súdneho poriadku, § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 235/1998 Z. z.
 
-- 46) § 1 ods. 4 zákona č. 380/1997 Z. z.
-
 - 47) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z.
-
-- 48) § 33 až 37 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
 - 49a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
 
 - 50) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
-
-- 51) Zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
 - 52) Zákon č. 71/1967 Zb.
 
@@ -153,10 +133,6 @@
 - 71) § 68 až 76 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
 - 72) Napríklad zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení neskorších predpisov.
-
-- 73) § 18 ods. 2 písm. a) zákona č. 351/1997 Z. z.
-
-- 74) § 14 zákona č. 351/1997 Z. z.
 
 - 75) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
