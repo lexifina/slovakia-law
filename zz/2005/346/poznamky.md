@@ -36,11 +36,9 @@
 
 - 13) Napríklad Základná zmluva medzi Slovenskou republikou a Svätou stolicou (oznámenie č. 326/2001 Z. z.), Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie č. 648/2002 Z. z.), Zmluva č. 250/2002 Z. z. medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami.
 
-- 15) Napríklad zákon č. 154/2001 Z. z., zákon č. 321/2002 Z. z. zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 15) Napríklad zákon č. 321/2002 Z. z. zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15a) § 7 ods. 5 a 6 zákona č. 321/2002 Z. z.
-
-- 16) Zákon č. 154/2001 Z. z. v znení neskorších predpisov.
 
 - 17) Zákon č. 215/2004 Z. z.
 

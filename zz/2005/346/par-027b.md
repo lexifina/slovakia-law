@@ -8,7 +8,7 @@
 
 - a) služobný úrad nesúhlasil s tým, aby po zrušení študijného programu pokračoval profesionálny vojak v štúdiu v inom študijnom programe alebo
 
-- b) služobný pomer profesionálneho vojaka sa skončí podľa § 70 ods. 1 písm. a) až c), písm. h) tretieho bodu, písm. i) až n) alebo § 74.
+- b) služobný pomer profesionálneho vojaka sa skončí podľa § 70 ods. 1 písm. a) až c), písm. h), písm. i) až n) alebo § 74.
 
 (4) Do nákladov spojených so štúdiom podľa odseku 1 sa započítavajú náklady, ktoré vznikli služobnému úradu
 
