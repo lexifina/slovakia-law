@@ -22,8 +22,6 @@
 
 - 11) Zákon č. 455/2004 Z. z. o zriadení Akadémie ozbrojených síl generála Milana Rastislava Štefánika, o zlúčení Vojenskej leteckej akadémie generála Milana Rastislava Štefánika v Košiciach s Technickou univerzitou v Košiciach, o zriadení Národnej akadémie obrany maršala Andreja Hadika a o zmene a doplnení niektorých zákonov.
 
-- 13) Zákon č. 153/2001 Z. z. o prokuratúre.
-
 - 13a) § 12 ods. 1 písm. e) zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
 - 13b) § 2 písm. b) a c) zákona č. 143/1998 Z. z.
