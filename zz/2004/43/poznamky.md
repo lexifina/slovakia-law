@@ -6,7 +6,7 @@
 
 - Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
-- 2) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
+- 2) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -18,7 +18,7 @@
 
 - 7) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
-- 8) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z.
+- 8) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) § 51 Občianskeho zákonníka.
 
@@ -156,7 +156,7 @@
 
 - 72) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 73) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 73) Zákon č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 74) Napríklad zákon č. 594/2003 Z. z., zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
 
