@@ -36,7 +36,7 @@
 
 - 3a) § 58 ods. 3 písm. c) zákona č. 370/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 3aa) § 66 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
+- 3aa) § 70 a 72 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3b) Napríklad zákon č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov, zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení zákona č. 109/2005 Z. z.
 
