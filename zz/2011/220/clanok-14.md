@@ -7,3 +7,11 @@ Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých 
 - „(3)
 
 - Tento zákon sa vzťahuje na právne vzťahy asistentov prokurátora, ak osobitný predpis neustanovuje inak.<sup>3</sup>)“.
+
+- 2. V § 9 ods. 2 písmeno i) znie:
+
+- „i)
+
+- Generálna prokuratúra Slovenskej republiky (ďalej len „generálna prokuratúra“) a krajská prokuratúra.“.
+
+- 3. V § 13 ods. 7 sa vypúšťa tretia a štvrtá veta.

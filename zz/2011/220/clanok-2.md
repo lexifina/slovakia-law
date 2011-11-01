@@ -4,6 +4,12 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 
 - 1. Slová „Súdny dvor Európskych spoločenstiev“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „Súdny dvor Európskej únie“ v príslušnom tvare.
 
+- 2. V § 10 odsek 7 znie:
+
+- „(7)
+
+- Krajským prokurátorom sa na účely tohto zákona rozumie, ak tento zákon neustanovuje inak, aj prokurátor Úradu špeciálnej prokuratúry, ak ide o veci patriace do jej pôsobnosti.“.
+
 - 3. Nadpis § 26 znie:
 
 - „Vyšší súdny úradník, súdny tajomník a asistent prokurátora“.
@@ -19,6 +25,10 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 - 6. V § 32 ods. 1 sa slová „vyšší súdny úradník alebo súdny tajomník“ nahrádzajú slovami „vyšší súdny úradník, súdny tajomník alebo asistent prokurátora“.
 
 - 7. V § 56 ods. 1 prvej vete sa slová „vyšší súdny úradník a súdny tajomník “ nahrádzajú slovami „vyšší súdny úradník, súdny tajomník a asistent prokurátora“.
+
+- 8. V § 56 ods. 1 druhej vete sa vypúšťa za slovom „vykonaný“ čiarka a slová „prípadne aj dožiadaním vojenského prokurátora“.
+
+- 9. V § 56 sa vypúšťa odsek 3.
 
 - 10. V § 66 ods. 1 písm. c) a v § 67 ods. 2 sa slová „vyšší súdny úradník alebo súdny tajomník“ nahrádzajú slovami „vyšší súdny úradník, súdny tajomník alebo asistent prokurátora“.
 
@@ -43,5 +53,13 @@ Zákon č. 301/2005 Z. z. Trestný poriadok v znení zákona č. 650/2005 Z. z.,
 - 16. V § 554 ods. 2 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „V prípravnom konaní takým rozhodnutím môže prokurátor poveriť asistenta prokurátora.“.
 
 - 17. V § 560 sa slová „akty Európskych spoločenstiev a“ nahrádzajú slovami „záväzné akty“.
+
+- 18. Za § 567h sa vkladá § 567i, ktorý vrátane nadpisu znie:
+
+- „§ 567i
+
+- Prechodné ustanovenie k úpravám účinným od 1. novembra 2011
+
+- V konaniach podľa § 16 ods. 2 a 3 začatých pred 1. novembrom 2011 pokračujú prokurátori uvedení v osobitnom zákone.“.
 
 - 19. V nadpise prílohy sa slová „právnych aktov Európskych spoločenstiev a“ nahrádzajú slovami „právne záväzných aktov“.

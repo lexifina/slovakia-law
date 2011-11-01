@@ -8,6 +8,16 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - postavenie asistentov prokurátora.“.
 
+- 2. V § 3 ods. 1 písm. a) sa slová „prokurátora generálnej prokuratúry, krajského prokurátora a vyššieho vojenského prokurátora nahrádzajú slovami „prokurátora generálnej prokuratúry a krajského prokurátora“.
+
+- 3. V § 3 ods. 1 písm. b) sa čiarka na konci nahrádza bodkou a písmená c) a d) sa vypúšťajú.
+
+- 4. V § 3 sa vypúšťa odsek 4 vrátane poznámok pod čiarou k odkazom 2 a 3.
+
+- 5. V § 4 ods. 2 písm. b) sa čiarka na konci nahrádza bodkou a písmená c) a d) sa vypúšťajú.
+
+- 6. V § 4 ods. 3 sa vypúšťajú slová „hlavný vojenský prokurátor, zástupca hlavného vojenského prokurátora,“ a slová „námestník vyššieho vojenského prokurátora,“ i slová „námestník vojenského obvodného prokurátora,“.
+
 - 7. V § 6 ods. 2 sa za písmeno h) vkladá nové písmeno i), ktoré znie:
 
 - „i)
@@ -134,6 +144,10 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - 15. V § 10 ods. 5 sa slová „primerane použijú ustanovenia § 20 a 21“ nahrádzajú slovami „použijú ustanovenia § 7 a 7a rovnako“.
 
+- 16. V § 15 sa vypúšťa odsek 5 vrátane poznámky pod čiarou k odkazu 12.
+
+- 17. V § 16 sa vypúšťa odsek 3.
+
 - 18. V § 19 odsek 1 znie:
 
 - „(1)
@@ -206,6 +220,8 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - Poznámka pod čiarou k odkazu 15 sa vypúšťa.
 
+- 24. V § 26 ods. 1 písm. n) sa bodkočiarka nahrádza čiarkou a slová „na hlavnom pojednávaní a verejnom zasadnutí vojenského súdu mať oblečenú vojenskú rovnošatu,“ sa vypúšťajú.
+
 - 25. V § 28 ods. 2 písm. b), c) a d) sa suma „6 700 eur“ nahrádza sumou „6 600 eur“.
 
 - 26. V § 28 ods. 2 písm. d) sa suma „17 000 eur“ nahrádza sumou „16 600 eur“.
@@ -222,17 +238,69 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.“.
 
+- 28. V § 44 sa vypúšťa odsek 4 vrátane poznámky pod čiarou k odkazu 25.
+
+- 29. V § 46 sa vypúšťa odsek 2 vrátane poznámky pod čiarou k odkazu 26. Súčasne sa zrušuje označenie odseku 1.
+
 - 30. V § 65 ods. 1 písmeno j) znie:
 
 - „j)
 
 - presťahovanie prokurátora v súvislosti s jeho preložením na inú prokuratúru; služobné voľno sa poskytne na tri služobné dni,“.
 
+- 31. V § 84 sa vypúšťa odsek 6 vrátane poznámky pod čiarou k odkazu 34.
+
 - 32. V § 93 ods. 1 písm. c) sa vypúšťa tretí bod.
 
 - Doterajší štvrtý až ôsmy bod sa označuje ako tretí až siedmy bod.
 
+- 33. V § 93 ods. 1 písm. c) sa vypúšťa siedmy bod.
+
+- 34. V § 95 ods. 2 sa slová „okresnej prokuratúry, vojenskej obvodnej prokuratúry, krajskej prokuratúry a vyššej vojenskej prokuratúry“ nahrádzajú slovami „okresnej prokuratúry a krajskej prokuratúry“.
+
+- 35. V § 96 odsek 1 znie:
+
+- „(1)
+
+- Na účely určenia základného platu sa prokurátor okresnej prokuratúry a krajskej prokuratúry zaradí podľa dĺžky započítateľnej praxe (§ 97) do jedného z ôsmich platových stupňov
+
+- a)
+
+- v I. platovej skupine, ak ide o prokurátora okresnej prokuratúry,
+
+- b)
+
+- v II. platovej skupine, ak ide o prokurátora krajskej prokuratúry.“.
+
+- 36. V § 98 ods. 1 písm. c) sa za slovami „generálnej prokuratúry“ vypúšťa čiarka a slová „zástupcovi hlavného vojenského prokurátora“.
+
+- 37. V § 98 ods. 1 písm. d) sa čiarka za slovami „generálnej prokuratúry“ nahrádza slovom „a“ a slová „a vyššiemu vojenskému prokurátorovi“ sa vypúšťajú.
+
+- 38. V § 98 ods. 1 písm. e) sa čiarka za slovami „generálnej prokuratúry“ nahrádza slovom „a“ a slová „a námestníkovi vyššieho vojenského prokurátora“ sa vypúšťajú.
+
+- 39. V § 98 ods. 1 písm. g) sa vypúšťajú slová „a náčelníkovi oddelenia vyššej vojenskej prokuratúry“.
+
+- 40. V § 98 ods. 1 písm. h) sa vypúšťajú slová „a vojenskému obvodnému prokurátorovi“.
+
+- 41. V § 98 ods. 1 písm. i) sa vypúšťajú slová „a námestníkovi vojenského obvodného prokurátora“.
+
+- 42. V § 108 ods. 1 sa vypúšťajú slová „alebo vojenskej obvodnej prokuratúry“.
+
 - 43. § 109 sa vrátane nadpisu vypúšťa.
+
+- 44. § 114 sa vrátane nadpisu a poznámky pod čiarou k odkazu 39 vypúšťa.
+
+- 45. § 124 sa vrátane poznámky pod čiarou k odkazu 46 vypúšťa.
+
+- 46. § 129 sa vrátane poznámky pod čiarou k odkazu 48 vypúšťa.
+
+- 47. V § 134 ods. 1 písm. b) sa vypúšťajú slová „a ak ide o prokurátora vojenskej prokuratúry, výsluhového dôchodku alebo invalidného výsluhového dôchodku“.
+
+- 48. § 144 sa vrátane poznámky pod čiarou k odkazu 51 vypúšťa.
+
+- 49. V § 184 ods. 1 písm. b) treťom bode sa čiarka na konci nahrádza bodkou a štvrtý bod sa vypúšťa.
+
+- 50. V § 184 ods. 1 sa vypúšťa písmeno c).
 
 - 51. V § 189 ods. 1 písm. d) sa za slovo „prokurátora“ vkladajú slová „vrátane generálneho prokurátora“.
 
@@ -362,6 +430,10 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - 62. V § 198 ods. 3 sa slová „a to až dovtedy, kým sa odvolacia disciplinárna komisia odoberie na záverečnú poradu“ nahrádzajú slovami „dokiaľ o odvolaní nebolo rozhodnuté“.
 
+- 63. V § 199 ods. 3 sa vypúšťa písmeno b).
+
+- Doterajšie písmená c) a d) sa označujú ako písmená b) a c).
+
 - 64. V druhej časti jedenástej hlave tretí diel vrátane nadpisu znie:
 
 - „TRETÍ DIEL
@@ -442,6 +514,10 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 
 - 65. § 212 a 213 sa vrátane nadpisov vypúšťajú.
 
+- 66. V § 219 ods. 1 písm. b) sa čiarka na konci nahrádza bodkou a písmeno c) sa vypúšťa.
+
+- 67. V § 220 sa vypúšťa odsek 3.
+
 - 68. V § 221 ods. 1 sa na konci pripája táto veta: „Funkcia generálneho prokurátora, námestníka generálneho prokurátora, špeciálneho prokurátora, zástupcu špeciálneho prokurátora, krajského prokurátora, námestníka krajského prokurátora, okresného prokurátora a námestníka okresného prokurátora je nezlučiteľná s členstvom v prokurátorskej rade; tým nie je dotknuté právo týchto vedúcich prokurátorov zúčastniť sa hlasovaním na voľbe členov prokurátorskej rady.“.
 
 - 69. V § 222 ods. 1 písmeno d) znie:
@@ -499,6 +575,8 @@ Zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry
 - 73. § 234 až 245a a 249 až 251 sa vrátane nadpisov a poznámok pod čiarou k odkazom 68 a 69 vypúšťajú.
 
 - 74. V § 252 ods. 1 písm. a) prvom a štvrtom bode sa slová „právnych čakateľov prokuratúry“ nahrádzajú slovami „asistentov prokurátora“.
+
+- 75. § 260 sa vrátane poznámok pod čiarou k odkazom 73 a 74 vypúšťa.
 
 - 76. V § 261 sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
 

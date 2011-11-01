@@ -78,6 +78,8 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - Doterajšie písmeno g) sa označuje ako písmeno h).
 
+- 8. V § 10 ods. 1 prvej vete sa vypúšťajú slová „vrátane vojenských prokuratúr“.
+
 - 9. V § 10 ods. 1 druhej vete sa slová „právnych čakateľov prokuratúry“ nahrádzajú slovami „asistentov prokurátora“.
 
 - 10. V § 10 sa vypúšťa odsek 2.
@@ -192,6 +194,18 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - vyhotovovanie evidenčných listov.“.
 
+- 15. V § 20 odsek 4 znie:
+
+- „(4)
+
+- Prokurátor s pôsobnosťou v trestnom konaní vo veciach podľa osobitného predpisu<sup>30a</sup>) vykonáva dozor nad dodržiavaním zákonov a ostatných všeobecne záväzných právnych predpisov aj v ozbrojených silách. Túto právomoc vykonáva aj na území iného štátu v rozsahu uvedenom v medzinárodnej zmluve.<sup>12a</sup>)“.
+
+- Poznámka pod čiarou k odkazu 12a znie:
+
+- „12a)
+
+- Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie č. 566/2004 Z. z.).“.
+
 - 16. § 30 sa dopĺňa odsekom 7, ktorý znie:
 
 - „(7)
@@ -204,7 +218,111 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 17. § 38 vrátane nadpisu znie:
+
+- „§ 38
+
+- Sústava prokuratúry
+
+- (1)
+
+- Prokuratúru tvoria tieto štátne orgány:
+
+- a)
+
+- generálna prokuratúra, ktorej osobitnou súčasťou s pôsobnosťou pre celé územie Slovenskej republiky je Úrad špeciálnej prokuratúry (§ 55b až 55l),
+
+- b)
+
+- krajské prokuratúry,
+
+- c)
+
+- okresné prokuratúry.
+
+- (2)
+
+- Krajské prokuratúry a okresné prokuratúry sú rozpočtové organizácie, ktoré sú svojimi príjmami a výdavkami napojené na štátny rozpočet prostredníctvom rozpočtovej kapitoly generálnej prokuratúry.“.
+
+- Poznámka pod čiarou k odkazu 26 sa vypúšťa.
+
+- 18. V § 39 sa vypúšťajú odseky 5 až 7.
+
+- 19. V § 41 sa vypúšťa odsek 2 vrátane poznámky pod čiarou k odkazu 30. Súčasne sa zrušuje označenie odseku 1.
+
 - 20. V § 42 ods. 2 písm. d) sa slovo „preverenie“ nahrádza slovom „vybavenie“.
+
+- 21. § 43 vrátane nadpisu znie:
+
+- „§ 43
+
+- Okresná prokuratúra
+
+- (1)
+
+- Okresná prokuratúra
+
+- a)
+
+- zabezpečuje plnenie úloh patriacich do pôsobnosti okresného prokurátora,
+
+- b)
+
+- prijíma oznámenia o skutočnostiach nasvedčujúcich tomu, že bol spáchaný trestný čin, a zabezpečuje ich vybavenie,
+
+- c)
+
+- plní ďalšie úlohy podľa pokynov okresného prokurátora a ostatných nadriadených prokurátorov.
+
+- (2)
+
+- Na čele okresnej prokuratúry je okresný prokurátor, ktorý priamo alebo prostredníctvom vedúcich prokurátorov,<sup>29</sup>) určených prokurátorov a zamestnancov riadi činnosť okresnej prokuratúry. Za svoju činnosť zodpovedá krajskému prokurátorovi a prostredníctvom neho generálnemu prokurátorovi.“.
+
+- 22. § 44 a 45 vrátane nadpisu znejú:
+
+- „Osobitné ustanovenia o organizácii prokuratúry v čase vojny alebo vojnového stavu
+
+- § 44
+
+- (1)
+
+- V čase vojny alebo vojnového stavu sa doplnia počty prokurátorov okresných prokuratúr s pôsobnosťou v trestnom konaní vo veciach podľa osobitného predpisu<sup>30a</sup>) prokurátormi ostatných okresných prokuratúr.
+
+- (2)
+
+- V čase vojny alebo vojnového stavu sa doplnia počty prokurátorov krajskej prokuratúry s pôsobnosťou v trestnom konaní vo veciach podľa osobitného predpisu<sup>30a</sup>) prokurátormi ostatných krajských prokuratúr.
+
+- (3)
+
+- Určené počty prokurátorov, ktorí vykonávajú svoju právomoc v trestnom konaní vo veciach podľa osobitného predpisu,<sup>30a</sup>) sa v čase vojny alebo vojnového stavu zvyšujú na dvojnásobok, ak generálny prokurátor po dohode s ministrom obrany Slovenskej republiky nerozhodne inak.
+
+- (4)
+
+- Zoznam prokurátorov okresných prokuratúr a krajských prokuratúr, ktorí majú podľa odsekov 1 až 3 v čase vojny a vojnového stavu vykonávať funkciu prokurátora na prokuratúrach uvedených v odsekoch 1 a 2, vyhotovuje vždy k 1. januáru kalendárneho roka generálny prokurátor po dohode s príslušnými krajskými prokurátormi.
+
+- § 45
+
+- Prokuratúry uvedené v § 44 ods. 1 môžu v čase vojny alebo vojnového stavu vykonávať svoju pôsobnosť aj mimo svojho územného obvodu.“.
+
+- 23. V § 46 odsek 4 znie:
+
+- „(4)
+
+- Na konanie v druhom stupni pred súdom s pôsobnosťou podľa osobitného predpisu<sup>30a</sup>) je príslušný krajský prokurátor a prokurátori krajskej prokuratúry, ktorá má rovnaké sídlo ako tento súd.“.
+
+- 24. V § 46 odsek 6 znie:
+
+- „(6)
+
+- Na konanie v prvom stupni pred súdom s pôsobnosťou podľa osobitného predpisu<sup>30a</sup>) je príslušný okresný prokurátor a v rozsahu ním určenom jemu podriadení prokurátori okresnej prokuratúry, ktorá má rovnaké sídlo ako tento súd.“.
+
+- 25. V § 47 ods. 1 sa vypúšťajú slová „(vyšší vojenský prokurátor)“.
+
+- 26. V § 48 ods. 1 sa vypúšťajú slová „(vyššej vojenskej prokuratúry)“.
+
+- 27. V § 48 ods. 2 sa vypúšťajú slová „(vojenskej obvodnej prokuratúry)“ a „(vyšší vojenský prokurátor)“.
+
+- 28. V § 48 ods. 3 sa vypúšťajú slová „(vojenský obvodný prokurátor)“.
 
 - 29. § 50 znie:
 
@@ -225,6 +343,22 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 - „§ 51
 
 - Na zabezpečenie plnenia úloh prokuratúry môže výnimočne a len v jednotlivej veci generálny prokurátor a v rozsahu svojej pôsobnosti aj krajský prokurátor určiť výnimky z ustanovení § 46 až 50. Vo veciach, ktoré nepatria do právomoci Špecializovaného trestného súdu, môže generálny prokurátor takto postupovať a určiť, že na konanie je príslušný špeciálny prokurátor len s prechádzajúcim písomným súhlasom špeciálneho prokurátora; súhlas možno vziať späť písomným vyhlásením, ak pominú dôvody určenia výnimky z ustanovení § 46 až 50.“.
+
+- 31. V § 53 ods. 1 písm. a) sa vypúšťajú slová „alebo vyššieho vojenského prokurátora“.
+
+- 32. V § 53 ods. 1 sa vypúšťajú písmená d) a f).
+
+- Doterajšie písmeno e) sa označuje ako písmeno d).
+
+- 33. V § 54 ods. 1 písm. b) sa vypúšťajú slová „alebo vyššieho vojenského prokurátora“.
+
+- 34. V § 54 ods. 1 sa vypúšťajú písmená d), f) a h).
+
+- Doterajšie písmená e) a g) sa označujú ako písmená d) a e).
+
+- 35. V § 54 ods. 2 písm. a) sa slová „krajského prokurátora, vyššieho vojenského prokurátora, prokurátora krajskej prokuratúry alebo prokurátora vyššej vojenskej prokuratúry“ nahrádzajú slovami „krajského prokurátora alebo prokurátora krajskej prokuratúry“.
+
+- 36. V § 54 ods. 2 písm. c) sa čiarka na konci nahrádza bodkou a písmeno d) sa vypúšťa.
 
 - 37. V § 55d ods. 1 sa na konci pripája táto veta: „Špeciálny prokurátor je námestníkom generálneho prokurátora.“.
 
@@ -276,4 +410,44 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - (2)
 
-- Prvé zasadnutie komisie podľa § 6b zvolá minister spravodlivosti do troch mesiacov od vymenovania prvých členov komisie.“.
+- Prvé zasadnutie komisie podľa § 6b zvolá minister spravodlivosti do troch mesiacov od vymenovania prvých členov komisie.
+
+- § 56ac
+
+- Prechodné ustanovenie k úpravám účinným od 1. novembra 2011
+
+- (1)
+
+- Výkon pôsobnosti vojenskej prokuratúry v trestných veciach podľa osobitného predpisu<sup>30a</sup>) a práva a povinnosti zo služobných vzťahov, z pracovnoprávnych vzťahov a štátnozamestnaneckých vzťahov a iných právnych vzťahov osôb prechádzajú k 1. novembru 2011 z
+
+- a)
+
+- Hlavnej vojenskej prokuratúry na generálnu prokuratúru,
+
+- b)
+
+- Vyššej vojenskej prokuratúry na Krajskú prokuratúru v Trenčíne,
+
+- c)
+
+- Vojenskej obvodnej prokuratúry v Bratislave na Okresnú prokuratúru Bratislava I,
+
+- d)
+
+- Vojenskej obvodnej prokuratúry v Banskej Bystrici na Okresnú prokuratúru Banská Bystrica,
+
+- e)
+
+- Vojenskej obvodnej prokuratúry v Prešove na Okresnú prokuratúru Prešov.
+
+- (2)
+
+- Generálny prokurátor môže do 31. januára 2012 preložiť prokurátora a asistenta prokurátora, ktorí vykonávali k 31. októbru 2011 svoju funkciu na vojenskej prokuratúre na inú prokuratúru, ako je uvedená v odseku 1, a to aj bez ich súhlasu.
+
+- (3)
+
+- V konaniach vo veciach podľa odseku 1 začatých pred 1. novembrom 2011 pokračujú prokurátori, ktorí vykonávajú svoju funkciu na prokuratúrach uvedených v odseku 1.
+
+- (4)
+
+- V konaniach v ostatných veciach začatých pred 1. novembrom 2011 prechádza výkon pôsobnosti vojenskej prokuratúry na vecne a miestne príslušnú prokuratúru a v konaní pokračujú prokurátori týchto prokuratúr.“.
