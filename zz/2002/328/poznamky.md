@@ -10,14 +10,6 @@
 
 - 3b) § 138 ods. 2, § 208 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 3d) § 93 ods. 1 písm. a), písm. b) bod 1., 3. až 7., písm. c) bod 1. až 3., 7. a 8. zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov.
-
-- § 138 ods. 5 zákona č. 346/2005 Z. z.
-
-- 3e) § 78 ods. 1 písm. a) až e), i) až l) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 138 ods. 5 zákona č. 346/2005 Z. z.
-
 - 3ea) § 149 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 3eb) § 15k zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
