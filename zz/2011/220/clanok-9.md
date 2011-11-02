@@ -2,6 +2,10 @@
 
 Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 447/2002 Z. z., zákona č. 534/2002 Z. z., zákona č. 463/2003 Z. z., zákona č. 365/2004 Z. z., zákona č. 732/2004 Z. z., zákona č. 592/2006 Z. z., zákona č. 274/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 643/2007 Z. z., zákona č. 61/2008 Z. z., zákona č. 445/2008 Z. z., zákona č. 449/2008 Z. z., zákona č. 58/2009 Z. z., zákona č. 59/2009 Z. z., zákona č. 70/2009 Z. z., zákona č. 82/2009 Z. z., zákona č. 285/2009 Z. z. a zákona č. 543/2010 Z. z. sa mení takto:
 
+- 1. V § 6 ods. 3 sa vypúšťajú písmená b) a c) vrátane poznámok pod čiarou k odkazom 3d a 3e.
+
+- Doterajšie písmená d) a e) sa označujú ako písmená b) a c).
+
 - 2. V § 6 odsek 4 znie:
 
 - „(4)
@@ -35,6 +39,14 @@ Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zm
 - „31b)
 
 - § 196, 215e a 215k zákona č. 346/2005 Z. z. v znení neskorších predpisov.“.
+
+- 11. V § 60 ods. 5 sa vypúšťajú písmená b) a c).
+
+- Doterajšie písmená d) a e) sa označujú ako písmená b) a c).
+
+- 12. V § 60 ods. 5 písm. b) sa slová „§ 6 ods. 3 písm. d)“ nahrádzajú slovami „§ 6 ods. 3 písm. b)“.
+
+- 13. V § 60 ods. 5 písm. c) sa slová „§ 6 ods. 3 písm. e)“ nahrádzajú slovami „§ 6 ods. 3 písm. c)“.
 
 - 14. V § 98 odsek 4 znie:
 
