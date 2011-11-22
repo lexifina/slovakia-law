@@ -1,0 +1,1 @@
+Marek Vladár v. r.
