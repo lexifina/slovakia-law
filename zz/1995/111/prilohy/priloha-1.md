@@ -18,7 +18,21 @@
 
       - d) „územie“, „letecká dopravná služba“, „medzinárodná letecká dopravná služba“, „letecká spoločnosť“, „zastavenie nie na účely leteckej dopravnej služby“ majú význam uvedený v článkoch 2 a 96 Dohovoru,
 
-      - e) „tarifa“ – cena účtovaná za prevoz cestujúcich a nákladu a podmienky použitia týchto cien vrátane cien a podmienok za sprostredkovateľské a iné doplnkové služby, s výnimkou úhrad a podmienok za prevoz pošty.
+      - e) „tarifa“ – cena účtovaná za prevoz cestujúcich a nákladu a podmienky použitia týchto cien vrátane cien a podmienok za sprostredkovateľské a iné doplnkové služby, s výnimkou úhrad a podmienok za prevoz pošty,
+
+      - f) „osvedčenie leteckého prevádzkovateľa“ – dokument vydaný leteckej spoločnosti, ktorý potvrdzuje, že daná letecká spoločnosť má zodpovedajúcu štruktúru a spôsobilosť vykonávať leteckú činnosť uvedenú v osvedčení, zabezpečujúc pritom potrebnú úroveň bezpečnej prevádzky lietadiel;
+
+      - g) „členský štát Európskej únie“ – štát, ktorý je zmluvnou stranou Zmluvy o fungovaní Európskej únie;
+
+      - h) „štandard“ – akékoľvek požiadavky na fyzikálne charakteristiky, konfiguráciu, materiálovú časť, technické charakteristiky, personál alebo pravidlá, ktorých rovnaké používanie sa považuje za nevyhnutné na zaistenie bezpečnosti alebo regulárnosti medzinárodnej leteckej navigácie, a ktoré zmluvné strany dodržiavajú v súlade s Dohovorom; v prípade, že nemožno dodržiavať štandard, zmluvná strana je povinná zaslať Medzinárodnej organizácii civilného letectva (ďalej len „ICAO“) oznámenie podľa článku 38 Dohovoru;
+
+      - i) „efektívna regulačná kontrola“
+
+      - na základe uvedeného, neobmedzujúc sa len tým, znamená že: letecká spoločnosť má platnú licenciu na vykonávanie prepráv vydanú vládnymi orgánmi civilného letectva zmluvnej strany a spĺňa kritériá stanovené týmito orgánmi, pokiaľ ide o vykonávanie medzinárodných leteckých dopravných služieb, ktoré sa týkajú preukázania finančných možností vo vzťahu k spôsobilosti, v prípade potreby plniť požiadavky súvisiace s ochranou verejných záujmov, dodržiavaním záväzkov týkajúcich sa garantovania služieb a podobne a zároveň má a zavádza programy na kontrolu bezpečnosti leteckej prevádzky a bezpečnostnej ochrany v súlade s normami stanovenými ICAO;
+
+      - j) „kapacita lietadla“ – komerčné využitie lietadla na určenej trase alebo časti tejto trasy;
+
+      - k) „kapacita dohodnutých služieb“ – kapacita lietadla, ktoré sa využíva na takéto služby vynásobená frekvenciou letov uskutočňovaných týmto lietadlom počas určitého obdobia na určenej trase alebo na časti tejto trasy.
 
     - 2. Neoddeliteľnou súčasťou tejto dohody je príloha.
 
@@ -40,33 +54,57 @@
 
     - 3. Trasy letov lietadiel na určených linkách a body preletu štátnej hranice určuje každá zmluvná strana na území svojho štátu.
 
-    - 4. Všetky technické a obchodné záležitosti týkajúce sa leteckých dopravných služieb a prepravy cestujúcich, nákladu a pošty na určených linkách, ako aj všetky otázky obchodnej spolupráce ako letový poriadok, periodicita letov, typy lietadiel, pozemná technická údržba a postupy financovania sa riešia zmluvou medzi určenými leteckými spoločnosťami štátov oboch zmluvných strán, ktoré sa budú predkladať na schválenie príslušným vládnym orgánom civilného letectva.
-
-    - 5. Letové poriadky na určených linkách musia sa postúpiť na prerokovanie vládnym orgánom civilného letectva najneskôr 30 dní pred predpokladaným dátumom začatia prevádzky. V osobitných prípadoch sa môže táto lehota so súhlasom uvedených orgánov skrátiť.
-
   - Článok 4
 
-    - 1. Každá zmluvná strana má právo určiť jednu alebo viacero leteckých spoločností na prevádzkovanie určených liniek po určených trasách, o čom musí písomne informovať druhú zmluvnú stranu.
+    - 1. Každá zmluvná strana má právo určiť jednu leteckú spoločnosť alebo viac leteckých spoločností na účely poskytovania dohodnutých služieb na určených trasách, ako aj zrušiť alebo zmeniť takéto určenia. Oznámenie o určení leteckej spoločnosti sa vykoná v písomnej forme a doručí diplomatickou cestou druhej zmluvnej strane.
 
-    - 2. Po prijatí takého oznámenia vládne orgány civilného letectva štátu druhej zmluvnej strany bezodkladne vydajú v súlade s odsekmi 3 a 4 tohto článku určenej leteckej spoločnosti príslušné prevádzkové povolenie.
+    - 2. Po prijatí oznámenia o určení leteckej spoločnosti a žiadosti predloženej určenou leteckou spoločnosťou druhá zmluvná strana s minimálnym zdržaním udelí určenej leteckej spoločnosti príslušné povolenia na prevádzkovanie dohodnutých služieb a vykonávanie letov, ak
 
-    - 3. Vládne orgány civilného letectva štátu jednej zmluvnej strany môžu požadovať od určenej leteckej spoločnosti štátu druhej zmluvnej strany dôkaz, že je spôsobilá plniť podmienky stanovené zákonmi a inými právnymi predpismi, na ktorých základe tieto orgány obvykle postupujú pri povoľovaní medzinárodných leteckých dopravných služieb.
+      - a) letecká spoločnosť určená Ukrajinou
 
-    - 4. Každá zmluvná strana má právo odoprieť vydanie prevádzkového povolenia uvedeného v odseku 2 tohto článku alebo právo kedykoľvek žiadať od určenej leteckej spoločnosti splnenie takých podmienok, ktoré považuje za nevyhnutné na využívanie práv uvedených v článku 3 tejto dohody, ak uvedená zmluvná strana nemá dôkaz o tom, že prevažná časť majetku a efektívna kontrola tejto leteckej spoločnosti prislúcha zmluvnej strane, ktorá ju určila, alebo jej štátnym príslušníkom.
+        - i) je založená na území Ukrajiny a má platnú licenciu na vykonávanie leteckej dopravy vydanú v súlade s jej platnými vnútroštátnymi právnymi predpismi;
 
-    - 5. Každá zmluvná strana má právo v súlade s ustanoveniami odsekov 1 až 4 nahradiť leteckú spoločnosť, ktorú určila, inou leteckou spoločnosťou. Novourčená letecká spoločnosť má také isté práva a povinnosti ako letecká spoločnosť, ktorú nahradila.
+        - ii) Ukrajina priebežne vykonáva efektívnu regulačnú kontrolu leteckej spoločnosti; a
 
-    - 6. Určená letecká spoločnosť, ktorá dostala prevádzkové povolenie, môže začať prevádzku na určených linkách, ak sú na nich zavedené tarify určené na základe ustanovení článku 11 tejto dohody.
+        - iii) leteckú spoločnosť alebo kontrolný balík jej akcií vlastní a efektívne riadi Ukrajina a (alebo) štátni občania Ukrajiny;
+
+      - b) letecká spoločnosť určená Slovenskou republikou
+
+        - i) je založená na území Slovenskej republiky v súlade so Zmluvou o fungovaní Európskej únie a má platnú licenciu na vykonávanie leteckej dopravy vydanú podľa právnych predpisov Európskej únie;
+
+        - ii) efektívnu regulačnú kontrolu leteckej spoločnosti priebežne vykonáva členský štát Európskej únie zodpovedný za vydanie osvedčenia leteckého prevádzkovateľa a v určení sú uvedené príslušné vládne orgány civilného letectva; a
+
+        - iii) leteckú spoločnosť úplne alebo kontrolný balík jej akcií vlastnia a efektívne riadia členské štáty Európskej únie a (alebo) štátni občania členských štátov Európskej únie a (alebo) iné štáty, ktoré sú uvedené v prílohe k tejto dohode, a (alebo) štátni občania týchto iných štátov;
+
+      - c) určená letecká spoločnosť dodržiava platné zákony a iné právne predpisy pri vykonávaní medzinárodnej leteckej dopravy, ktorými sa riadi zmluvná strana, ktorá prijala oznámenie o určení leteckej spoločnosti.
+
+    - 3. Určená letecká spoločnosť, ktorej bolo udelené povolenie na vykonávanie letov, môže začať poskytovať dohodnuté služby pod podmienkou, že dodržiava ustanovenia tejto dohody.
 
   - Článok 5
 
-    - 1. Každá zmluvná strana má právo zrušiť platnosť prevádzkového povolenia alebo pozastaviť uplatňovanie práv uvedených v článku 3 tejto dohody, ktoré poskytla určená letecká spoločnosť štátu druhej zmluvnej strany, alebo vyžadovať splnenie takých podmienok, ktoré považuje za nevyhnutné pri uplatňovaní takýchto práv, ak
+    - 1. Každá zmluvná strana môže odmietnuť vydať, zrušiť, pozastaviť alebo obmedziť povolenie na poskytovanie dohodnutých služieb alebo na vykonávanie letov leteckej spoločnosti určenej druhou zmluvnou stranou alebo pozastaviť využívanie práv uvedených v článku 3 tejto dohody, alebo požadovať splnenie takých podmienok, aké považuje za nevyhnutné na využívanie týchto práv, ak
 
-      - a) nie je presvedčená o tom, že prevažná časť vlastníctva a efektívna kontrola uvedenej leteckej spoločnosti sa previedli na druhú zmluvnú stranu, ktorá určila leteckú spoločnosť, alebo na príslušníkov jej štátu,
+      - a) letecká spoločnosť určená Ukrajinou
 
-      - b) táto letecká spoločnosť nedodržiava zákony ani iné právne predpisy zmluvnej strany, ktorá poskytuje tieto práva,
+        - i) nie je založená na území Ukrajiny alebo nevlastní platnú licenciu na vykonávanie leteckej dopravy vydanú v súlade s jej platnými vnútroštátnymi právnymi predpismi;
 
-      - c) určená letecká spoločnosť inak nedodržiava podmienky stanovené touto dohodou.
+        - ii) Ukrajina priebežne nevykonáva efektívnu regulačnú kontrolu leteckej spoločnosti; alebo
+
+        - iii) leteckú spoločnosť alebo kontrolný balík jej akcií nevlastní alebo efektívne neriadi Ukrajina a (alebo) štátni občania Ukrajiny;
+
+      - b) letecká spoločnosť určená Slovenskou republikou
+
+        - i) nie je založená na území Slovenskej republiky v súlade so Zmluvou o fungovaní Európskej únie alebo nevlastní platnú licenciu na vykonávanie leteckej dopravy vydanú podľa právnych predpisov Európskej únie;
+
+        - ii) efektívnu regulačnú kontrolu leteckej spoločnosti priebežne nevykonáva členský štát Európskej únie zodpovedný za vydanie osvedčenia leteckého prevádzkovateľa alebo v určení nie sú uvedené príslušné vládne orgány civilného letectva; alebo
+
+        - iii) leteckú spoločnosť nevlastnia úplne alebo kontrolný balík jej akcií a efektívne neriadia členské štáty Európskej únie a (alebo) štátni občania členských štátov Európskej únie a (alebo) iné štáty, ktoré sú uvedené v prílohe k tejto dohode, a (alebo) štátni občania týchto iných štátov;
+
+      - c) určená letecká spoločnosť nedodržiava platné zákony a iné právne predpisy pri vykonávaní medzinárodnej leteckej dopravy, ktorými sa riadi zmluvná strana, ktorá prijala oznámenie o určení leteckej spoločnosti;
+
+      - d) určená letecká spoločnosť nie je schopná vykonávať prepravu v súlade s podmienkami uvedenými v tejto dohode; alebo
+
+      - e) druhá zmluvná strana neprijíma opatrenia zamerané na zvýšenie úrovne bezpečnosti letov v súlade s odsekom 2 článku 16 bis tejto dohody.
 
     - 2. Ak okamžité zrušenie, pozastavenie alebo uloženie podmienok uvedených v odseku 1 tohto článku nie sú nevyhnutné z hľadiska predchádzania ďalším narušeniam zákonov a iných právnych predpisov, využije sa právo uvedené v odseku 1 iba po konzultácii s druhou zmluvnou stranou. Konzultácie medzi vládnymi orgánmi civilného letectva štátov oboch zmluvných strán sa musia uskutočniť v lehote 60 dní od doručenia žiadosti.
 
@@ -98,35 +136,31 @@
 
   - Článok 10
 
-    - 1. Určeným leteckým spoločnostiam štátov obidvoch zmluvných strán sa poskytnú spravodlivé a rovnaké podmienky na prevádzku určených liniek po určených trasách medzi ich územiami.
+    - 1. Určené letecké spoločnosti štátov oboch zmluvných strán budú mať spravodlivé a rovnaké podmienky na poskytovanie dohodnutých služieb na určených trasách.
 
-    - 2. Pri poskytovaní dohodnutých služieb musí určená letecká spoločnosť štátu jednej zmluvnej strany brať do úvahy záujmy určenej leteckej spoločnosti štátu druhej zmluvnej strany tak, aby nespôsobila ujmu leteckým službám, ktoré zabezpečuje letecká spoločnosť štátu druhej zmluvnej strany na tej istej trase alebo na jej úseku.
+    - 2. Určené letecké spoločnosti štátov oboch zmluvných strán určia kapacitu dohodnutých služieb vychádzajúc z prevádzkových podmienok uvedených v prílohe k tejto dohode. Vládne orgány civilného letectva jednej zo zmluvných strán nebudú jednostranne obmedzovať frekvenciu prepráv, kapacitu alebo typ lietadiel používaných určenou leteckou spoločnosťou štátu druhej zmluvnej strany okrem prípadov, keď to stanovujú colné, technické, prevádzkové požiadavky alebo požiadavky na ochranu životného prostredia v súlade s jednotnými podmienkami obsiahnutými v článku 15 Dohovoru.
 
-    - 3. Dohodnuté služby, ktoré zabezpečujú určené letecké spoločnosti, musia zodpovedať všeobecne platným požiadavkám na prepravu po určených trasách a každá určená letecká spoločnosť si ako prvotný cieľ vytyčuje zabezpečenie takej kapacity, ktorá by pri primeranom zaťažení zodpovedala súčasným a reálne predpokladaným požiadavkám na prepravu cestujúcich, tovaru a pošty medzi územiami štátov obidvoch zmluvných strán.
+    - 3. Určená letecká spoločnosť štátu jednej zmluvnej strany predloží na schválenie vládnym orgánom civilného letectva druhej zmluvnej strany letový poriadok dohodnutých služieb najneskôr štyridsaťpäť (45) dní pred predpokladaným dátumom začiatku vykonávania dopravy. V osobitných prípadoch možno túto lehotu po dohode s uvedenými orgánmi skrátiť.
 
-    - 4. Služby poskytované určenými leteckými spoločnosťami v súlade s touto dohodou musia zodpovedať všeobecnému princípu, na ktorého základe budú kapacity závisieť od
-
-      - a) požiadaviek na prepravu medzi štátmi, v ktorých sa začínajú a končia linky,
-
-      - b) požiadaviek na prepravu z toho územia, ponad ktorým sa uskutočňujú lety, berúc do úvahy požiadavky na miestnu a regionálnu prepravu,
-
-      - c) požiadaviek na tranzitnú prepravu.
+    - 4. Akákoľvek zmena schváleného letového poriadku určenej leteckej spoločnosti štátu jednej zo zmluvných strán sa predkladá na schválenie vládnym orgánom civilného letectva druhej zmluvnej strany.
 
   - Článok 11
 
-    - 1. Tarify za dohodnuté služby sa musia určiť na primeranej úrovni tak, aby zohľadňovali všetky príslušné faktory vrátane nákladov na prevádzku, primeraný zisk, charakteristiku služieb (napr. rýchlosť a komfort), berúc do úvahy tarify iných leteckých spoločností. Tieto tarify sa musia určiť v súlade s ďalej uvedenými ustanoveniami tohto článku.
+    - 1. Tarify za prepravu na ktorejkoľvek z dohodnutých služieb musia určené letecké spoločnosti stanoviť na primeranej úrovni tak, aby zohľadňovali všetky príslušné faktory vrátane nákladov na prevádzku, primeraný zisk, charakteristiku prepráv. Vládne orgány civilného letectva zmluvných strán budú považovať za neakceptovateľné tarify, ktoré sú diskriminačné, neúmerne vysoké alebo obmedzujúce z dôvodu zneužitia dominantného postavenia na trhu alebo umelo nízke v dôsledku priamej alebo nepriamej podpory alebo subvencií, alebo sú ekonomicky neodôvodnené.
 
-    - 2. Tarify uvedené v odseku 1 tohto článku musia v rámci možností odsúhlasiť určené letecké spoločnosti na každej určenej trase po konzultáciách s inými leteckými spoločnosťami, ktoré poskytujú letecké služby na týchto trasách alebo na ich úsekoch. Takto odsúhlasené tarify podliehajú schváleniu vládnymi orgánmi civilného letectva štátov oboch zmluvných strán.
+    - 2. Vládne orgány civilného letectva každej zmluvnej strany môžu vyžadovať, aby im určené letecké spoločnosti, ktoré vykonávajú prepravu cestujúcich medzi bodmi na území Slovenskej republiky a bodmi na území Ukrajiny v súlade s touto dohodou, zasielali informácie o stanovení alebo zverejnení taríf na takéto prepravy. To sa netýka taríf pre nákladnú leteckú dopravu alebo taríf, ktoré stanovuje určená letecká spoločnosť štátu jednej zmluvnej strany na prepravu medzi územím štátu druhej zmluvnej strany a tretím štátom.
 
-    - 3. Odsúhlasené tarify musia schváliť vládne orgány civilného letectva štátov oboch zmluvných strán najneskôr 30 dní pred predpokladaným dátumom ich zavedenia. V osobitných prípadoch sa môže toto obdobie skrátiť po súhlase vládnych orgánov civilného letectva štátov oboch zmluvných strán. Vládne orgány civilného letectva musia zaujať svoje stanovisko do 14 dní odo dňa predloženia návrhu. V prípade skrátenia obdobia na predloženie taríf môžu vládne orgány civilného letectva štátov oboch zmluvných strán skrátiť obdobie na predloženie stanoviska o návrhu.
+    - 3. Neobmedzujúc použitie právnych predpisov z oblasti ochrany hospodárskej súťaže a právnych predpisov štátu každej zmluvnej strany z oblasti ochrany práv spotrebiteľov zasahovanie vládnych orgánov civilného letectva zmluvných strán sa obmedzuje na
 
-    - 4. Ak sa určené letecké spoločnosti nemôžu dohodnúť na niektorej z taríf alebo z iného dôvodu nemožno tarifu odsúhlasiť v súlade s podmienkami odseku 2 tohto článku, vládne orgány civilného letectva sa budú usilovať určiť tarifu vzájomnou dohodou.
+      - a) upozornenie na stanovenie neoprávnene nízkych alebo diskriminačných taríf;
 
-    - 5. Ak sa vládne orgány civilného letectva nedohodnú v otázke schválenia tarify, ktorá sa im predložila podľa odseku 2 tohto článku, alebo v otázke určenia tarify v súlade s odsekom 3 tohto článku, musí sa spor vyriešiť v zmysle ustanovení článku 20 tejto dohody.
+      - b) ochranu spotrebiteľov pred použitím neoprávnene vysokých taríf alebo neoprávnene obmedzujúcich taríf z dôvodu zneužitia dominantného postavenia na trhu alebo dojednania sa leteckých spoločností; alebo
 
-    - 6. Každá tarifa je platná, ak ju potvrdia vládne orgány civilného letectva štátov oboch zmluvných strán.
+      - c) ochranu leteckých spoločností pred stanovením taríf, ktoré sú umelo nízke z dôvodu priamej alebo nepriamej vládnej podpory alebo subvencie.
 
-    - 7. Určené tarify zostanú v platnosti dovtedy, kým nebudú určené nové tarify, ale nie dlhšie ako 12 mesiacov.
+    - 4. Ak sa vládne orgány civilného letectva jednej zo zmluvných strán domnievajú, že predložená tarifa nie je zlučiteľná s ustanoveniami odseku 1 tohto článku, zašlú tejto určenej leteckej spoločnosti príslušné upozornenie. Zasielajúc také upozornenie môžu vládne orgány civilného letectva požiadať o uskutočnenie konzultácií s vládnymi orgánmi civilného letectva druhej zmluvnej strany. Také konzultácie sa musia začať najneskôr štrnásť (14) dní odo dňa prijatia príslušnej žiadosti. Ak nemožno dospieť k dohode, bude mať prednosť rozhodnutie vládnych orgánov civilného letectva zmluvnej strany, na ktorej území štátu sa preprava začína.
+
+    - 5. Bez ohľadu na ustanovenia tohto článku tarify na prepravy, ktoré sú úplne vykonávané len v rámci Európskej únie, stanovia určené letecké spoločnosti štátov oboch zmluvných strán v súlade s právnymi predpismi Európskej únie.
 
   - Článok 12
 
@@ -148,6 +182,12 @@
 
     - 6. Nevyhnutné dokumenty určenej leteckej spoločnosti vrátane leteniek a ďalších prepravných dokumentov, ako aj reklamné materiály budú na území štátu druhej zmluvnej strany oslobodené od cla a od ostatných poplatkov.
 
+    - 7. Žiadne z ustanovení tejto dohody nebráni každej zmluvnej strane ukladať na nediskriminačnom základe dane, poplatky, clo alebo iné platby za pohonné látky, ktoré sa dovážajú na územie jej štátu na použitie lietadlami
+
+      - a) určenej leteckej spoločnosti Ukrajiny, ktoré vykonávajú prepravu z jedného bodu na území Slovenskej republiky do druhého bodu na jej území alebo na území druhého členského štátu Európskej únie;
+
+      - b) určenej leteckej spoločnosti Slovenskej republiky, ktoré vykonávajú prepravu z jedného bodu na území Ukrajiny do druhého bodu na jej území.
+
   - Článok 13
 
     - 1. Určená letecká spoločnosť štátu jednej zmluvnej strany bude na základe reciprocity voľne ponúkať svoje letecké služby na území štátu druhej zmluvnej strany za miestnu menu alebo za akúkoľvek voľne zameniteľnú menu jednak priamo a jednak prostredníctvom agentúr v súlade s príslušnými povoleniami a nariadeniami tejto druhej zmluvnej strany.
@@ -164,8 +204,6 @@
 
     - 1. Na zabezpečenie poskytovania dohodnutých služieb má určená letecká spoločnosť štátu jednej zmluvnej strany právo utvoriť na území štátu druhej zmluvnej strany svoje obchodné kancelárie s nevyhnutným administratívnym, obchodným a technickým personálom.
 
-    - 2. Početný stav personálu sa určuje dohodou vládnych orgánov civilného letectva štátov oboch zmluvných strán.
-
   - Článok 16
 
     - 1. V súlade s právami a záväzkami medzinárodného práva zmluvné strany týmto opätovne potvrdzujú, že ich vzájomné záväzky na zaistenie bezpečnosti civilného letectva proti nezákonným činom predstavujú neoddeliteľnú súčasť tejto dohody. Bez obmedzenia využívať svoje práva a záväzky podľa medzinárodného práva budú zmluvné strany postupovať v súlade s ustanoveniami Dohovoru o trestných a niektorých iných činoch spáchaných na palube lietadiel, podpísaného v Tokiu 14. septembra 1963, Dohovoru o potlačení protiprávneho zmocnenia sa lietadiel, podpísaného v Haagu 16. decembra 1970, Dohovoru o potláčaní protiprávnych činov ohrozujúcich bezpečnosť civilného letectva, podpísaného v Montreale 23. septembra 1971, Protokolu o boji s protiprávnymi činmi násilia na letiskách slúžiacich medzinárodnému civilnému letectvu, podpísaného v Montreale 24. februára 1988, s ustanoveniami platných dvojstranných dohôd medzi zmluvnými stranami, ako aj tých dohôd, ktoré sa v budúcnosti podpíšu.
@@ -174,9 +212,35 @@
 
     - 3. Zmluvné strany budú konať v súlade s ustanoveniami o bezpečnosti letectva a s technickými požiadavkami, ktoré prijala Medzinárodná organizácia pre civilné letectvo a boli podpísané ako Dodatok k Dohovoru do takej miery, do akej sú tieto ustanovenia a požiadavky prijateľné pre obe zmluvné strany. Zmluvné strany budú vyžadovať, aby sa u nich registrovaná obsluha lietadla a obsluha medzinárodných letísk na území ich štátov konala v súlade s týmito ustanoveniami o bezpečnosti letectva.
 
-    - 4. Každá zmluvná strana súhlasí s tým, že druhá zmluvná strana môže vyžadovať od obsluhy lietadiel dodržiavanie ustanovení o bezpečnosti civilného letectva, uvedených v odseku 3 tohto článku, ktoré požaduje druhá zmluvná strana na vstup, odchod a pobyt na území jej štátu. Každá zmluvná strana bude zabezpečovať primerané opatrenia na území jej štátu z dôvodov ochrany lietadiel a previerky cestujúcich, posádky, príručnej batožiny, batožiny, nákladu a palubných zásob pred nastupovaním a počas neho, resp. počas nakladania. Každá zmluvná strana vyjde v ústrety každej žiadosti druhej zmluvnej strany o prijatie špeciálnych bezpečnostných opatrení v prípade výskytu konkrétnej hrozby.
+    - 4. Každá zmluvná strana súhlasí s tým, že druhá zmluvná strana môže vyžadovať od obsluhy lietadiel dodržiavanie ustanovení o bezpečnosti civilného letectva, uvedených v odseku 3 tohto článku, ktoré požaduje druhá zmluvná strana na vstup, odchod a pobyt na území jej štátu. Každá zmluvná strana bude zabezpečovať primerané opatrenia na území jej štátu z dôvodov ochrany lietadiel a previerky cestujúcich, posádky, príručnej batožiny, batožiny, nákladu a palubných zásob pred nastupovaním a počas neho, resp. počas nakladania. Každá zmluvná strana vyjde v ústrety každej žiadosti druhej zmluvnej strany o prijatie špeciálnych bezpečnostných opatrení v prípade výskytu konkrétnej hrozby. Pri odlete z územia Slovenskej republiky alebo počas pobytu na jej území určené letecké spoločnosti štátov oboch zmluvných strán musia dodržiavať ustanovenia o bezpečnosti leteckej prevádzky, ktoré sú stanovené právnymi predpismi Európskej únie. Pri odlete z územia Ukrajiny alebo počas pobytu na jej území určené letecké spoločnosti štátov oboch zmluvných strán musia dodržiavať ustanovenia o bezpečnosti leteckej prevádzky, ktoré sú stanovené jej platnými vnútroštátnymi právnymi predpismi.
 
     - 5. Ak sa vyskytne prípad alebo hrozba nezákonného zmocnenia sa civilného lietadla alebo iných nezákonných postupov proti bezpečnosti takého lietadla, jeho cestujúcich a posádky, letísk a leteckých navigačných zariadení, zmluvné strany si budú vzájomne pomáhať uľahčením komunikácie a inými opatreniami určenými na rýchle a bezpečné ukončenie takého prípadu alebo na odstránenie hrozby.
+
+  - Článok 16 bis
+
+    - 1. Každá zmluvná strana môže kedykoľvek zaslať druhej zmluvnej strane žiadosť o uskutočnenie konzultácií k normám ohľadom bezpečnosti leteckej prevádzky, posádky, lietadla alebo jeho prevádzky, ktoré sú uplatňované druhou zmluvnou stranou. Konzultácie sa začnú v lehote tridsiatich (30) dní odo dňa prijatia žiadosti.
+
+    - 2. Ak v dôsledku uskutočnenia takých konzultácií jedna zmluvná strana zistí, že druhá zmluvná strana nedodržiava a náležite neuplatňuje minimálne štandardy stanovené v tom čase podľa Dohovoru, tak táto zmluvná strana upozorní druhú zmluvnú stranu na zistené nedostatky a na opatrenia, ktoré treba prijať s cieľom dosiahnuť súlad s uvedenými štandardmi. Druhá zmluvná strana musí zistené nedostatky odstrániť. Ak druhá zmluvná strana nemôže nedostatky odstrániť v lehote pätnástich (15) dní alebo v inej dohodnutej lehote, bude to dôvodom na použitie článku 5 tejto dohody.
+
+    - 3. V súlade s článkom 16 Dohovoru lietadlá používané leteckou spoločnosťou štátu jednej zmluvnej strany na vykonávanie leteckej dopravy na územie alebo z územia štátu druhej zmluvnej strany môžu byť počas pobytu na území štátu druhej zmluvnej strany predmetom kontroly oprávnenými zástupcami vládnych orgánov civilného letectva druhej zmluvnej strany (ďalej len – „inšpekcia na ploche“) za predpokladu, že to nespôsobí neodôvodnené meškanie letu. Uznávajúc platnosť dokumentov týkajúcich sa lietadla, osvedčení členov posádky v súlade s článkom 33 Dohovoru počas vykonávania inšpekcie na ploche možno overovať uvedené dokumenty a osvedčenia, stav lietadla a jeho zariadení, či zodpovedajú bezpečnostným normám stanoveným v čase vykonania inšpekcie podľa Dohovoru.
+
+    - 4. Ak pri inšpekcii alebo sérii inšpekcií na ploche vzniknú vážne dôvody domnievať sa, že
+
+      - a) lietadlo alebo jeho prevádzka nezodpovedá minimálnym štandardom stanoveným v tom čase podľa Dohovoru; alebo
+
+      - b) sa efektívne nepoužívajú a nedodržiavajú štandardy pre bezpečnosť leteckej prevádzky stanovené v tom čase podľa Dohovoru;
+
+    - môže zmluvná strana, ktorá uskutočnila inšpekciu na ploche, podľa článku 33 Dohovoru skonštatovať, že požiadavky, podľa ktorých boli vydané alebo uznané za platné dokumenty alebo osvedčenia týkajúce sa lietadla alebo jeho posádky, alebo požiadavky týkajúce sa prevádzky lietadla, nezodpovedajú minimálnym štandardom stanoveným podľa Dohovoru.
+
+    - 5. V prípade, že zástupca leteckej spoločnosti štátu jednej zmluvnej strany nepovolí vykonať inšpekciu na ploche podľa odseku 3 tohto článku, môže si druhá zmluvná strana urobiť závery uvedené v odseku 4 tohto článku.
+
+    - 6. Každá zmluvná strana si vyhradzuje právo pozastaviť platnosť prevádzkového povolenia leteckej spoločnosti štátu druhej zmluvnej strany alebo zmeniť jeho podmienky, ak na základe výsledkov inšpekcie alebo série inšpekcií na ploche, po zamietnutí uskutočnenia takejto inšpekcie na ploche, po uskutočnení konzultácií alebo v iných prípadoch rozhodne, že takéto opatrenia sú nevyhnutné na zaistenie bezpečnosti leteckej prevádzky.
+
+    - 7. Akékoľvek opatrenia jednej zmluvnej strany vo vzťahu k leteckým spoločnostiam štátu druhej zmluvnej strany podľa odseku 2 alebo 6 tohto článku budú odvolané, len čo sa odstráni dôvod ich prijatia.
+
+    - 8. Ak sa s ohľadom na opatrenia uvedené v odseku 2 tohto článku skonštatuje, že jedna zmluvná strana pokračuje v nedodržiavaní štandardov ICAO po skončení dohodnutého obdobia, druhá zmluvná strana o tom zašle príslušné oznámenie generálnemu tajomníkovi ICAO a následne oznámenie o prijatí opatrení prvou zmluvnou stranou zabezpečujúcich dodržiavanie štandardov ICAO.
+
+    - 9. V prípade, že Slovenská republika určila leteckú spoločnosť, nad ktorou priebežne vykonáva efektívnu regulačnú kontrolu iný členský štátu Európskej únie, práva poskytnuté Ukrajine podľa tohto článku sa ňou rovnako uplatňujú vo vzťahu k prijatiu, zavedeniu alebo dodržiavaniu štandardov pre bezpečnosť leteckej prevádzky týmto druhým členským štátom Európskej únie aj pokiaľ ide o prevádzkové povolenie tejto leteckej spoločnosti.
 
   - Článok 17
 
