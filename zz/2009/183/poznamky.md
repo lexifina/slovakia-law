@@ -1,1 +1,0 @@
-- 1) § 44 ods. 2 a § 48 ods. 2 písm. f) zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 360/2007 Z. z.
