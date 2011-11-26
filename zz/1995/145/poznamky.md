@@ -88,9 +88,7 @@
 
 - 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
-- 17b) § 10 ods. 4 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
-
-- 17c) § 10 ods. 5 zákona č. 193/2005 Z. z.
+- 17b) § 31 zákona č. 405/2011 Z. z o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 17d) § 32 zákona č. 193/2005 Z. z.
 

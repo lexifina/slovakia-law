@@ -804,37 +804,35 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 47
 
-  - a) Vydanie osvedčenia o odbornej spôsobilosti na predaj prípravkov na ochranu rastlín alebo iných prípravkov | 3 eurá
+  - a) | vydanie osvedčenia o odbornej spôsobilosti ...... | 3 eurá,
 
-  - b) Registrácia prípravku na ochranu rastlín alebo registrácia iného prípravku | 33 eur
+  - b) | autorizácia prípravku na ochranu rastlín ...... | 33 eur,
 
-  - c) Žiadosť o zápis do registra výrobcov, dovozcov a vývozcov rastlinného tovaru | 16,50 eura
+  - c) | zápis do registra výrobcov a dovozcov rastlinného tovaru ...... | 16,50 eura,
 
-  - d) Žiadosť o zmenu v registri výrobcov, dovozcov a vývozcov rastlinného tovaru | 8 eur
+  - d) | zmenu v registri výrobcov a dovozcov rastlinného tovaru ...... | 8 eur,
 
-  - e) Vydanie osvedčenia o odbornej spôsobilosti na aplikáciu prípravkov na ochranu rastlín alebo iných prípravkov | 3 eurá
+  - e) | predĺženie doby platnosti autorizácie alebo obnovenie autorizácie prípravku na ochranu rastlín ...... | 33 eur,
 
-  - f) Predĺženie doby platnosti registrácie prípravku na ochranu rastlín alebo iného prípravku | 33 eur
+  - f) | žiadosť na prebalenie prípravku na ochranu rastlín ...... | 33 eur,
 
-  - g) Prebalenie prípravku na ochranu rastlín alebo iného prípravku | 33 eur
+  - g) | zmena a doplnenie autorizácie prípravku na ochranu rastlín ...... | 33 eur,
 
-  - h) Zmena v registrácii prípravku na ochranu rastlín alebo iného prípravku | 33 eur
+  - h) | rozšírenie autorizácie prípravku na ochranu rastlín na menej významné použitie ...... | 3 eurá,
 
-  - i) Rozšírenie rozsahu použitia prípravku na ochranu rastlín alebo iného prípravku podľa osobitného predpisu<sup>17b</sup>) | 33 eur
+  - i) | povolenie na používanie prípravku na ochranu rastlín na účely výskumu a vývoja ...... | 33 eur,
 
-  - j) Rozšírenie rozsahu použitia prípravku na ochranu rastlín alebo iného prípravku podľa osobitného predpisu<sup>17c</sup>) | 3 eurá
+  - j) | povolenie na paralelný obchod prípravku na ochranu rastlín ...... | 33 eur,
 
-  - k) Povolenie na vykonanie experimentu alebo testu na účely výskumu a vývoja, pri ktorom dochádza k uvoľňovaniu neregistrovaného prípravku na ochranu rastlín do životného prostredia | 33 eur
+  - k) | autorizácia prípravku na ochranu rastlín vzájomným uznávaním ...... | 33 eur,
 
-  - l) Povolenie súbežného dovozu prípravku na ochranu rastlín alebo iného prípravku | 33 eur
+  - l) | prevod autorizácie prípravku na ochranu rastlín na inú fyzickú osobu-podnikateľa alebo právnickú osobu ...... | 16,50 eura,
 
-  - m) Vzájomné uznanie prípravku na ochranu rastlín alebo iného prípravku | 33 eur
+  - m) | prehodnotenie autorizovaného prípravku na ochranu rastlín s obsahom účinnej látky zaradenej do zoznamu povolených účinných látok ...... | 33 eur,
 
-  - n) Vydanie poverenia na vykonávanie skúšok biologickej účinnosti | 165,50 eura
+  - n) | vydanie duplikátu Osvedčenia o zápise do registra výrobcov dovozcov rastlín, rastlinných produktov a iných predmetov ...... | 6,50 eura,
 
-  - o) Vydanie rozšírenia poverenia na vykonávanie skúšok biologickej účinnosti | 33 eur
-
-  - p) prehodnotenie registrovaného prípravku na ochranu rastlín s obsahom účinnej látky zaradenej do zoznamu povolených účinných látok | 33 eur
+  - o) | povolenie leteckej aplikácie prípravkov na ochranu rastlín podľa osobitného predpisu<sup>17b</sup>) ............. | 33 eur.
 
     - Položka 48
 
