@@ -1,1 +1,0 @@
-Stanislav Becík v. r.
