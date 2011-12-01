@@ -6,12 +6,6 @@
 
 - 4) § 4 ods. 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) § 2 ods. 28 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
-
-- 6) § 20 ods. 1 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
-
-- 7) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 141/2005 Z. z. o požiadavkách na kvalitu, získavanie, prepravu od zdroja na miesto úpravy a plnenia, úpravu, kontrolu kvality, balenie, označovanie a uvádzanie na trh prírodných liečivých vôd.
-
 - 8) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 9) § 2 ods. 3 písm. b) a § 14 ods. 4 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení neskorších predpisov.
@@ -29,8 +23,6 @@
 - 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 15) § 23 a 30 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení neskorších predpisov.
 
