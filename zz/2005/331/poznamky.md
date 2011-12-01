@@ -20,9 +20,7 @@
 
 - 11) Čl. 3 a čl. 14 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004.
 
-- 12) § 3 až 8 a § 34 až 38a zákona č. 140/1998 Z. z. v znení neskorších predpisov.
-
-- § 4 až 10 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
+- 12) § 3 až 11 a § 20 až 25 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
 - 13) Čl. 11 až 19 nariadenia Rady (ES) č. 111/2005.
 
@@ -116,6 +114,6 @@
 
 - 47b) Čl. 3, čl. 4 a čl. 8 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 273/2004.
 
-- 47c) § 38 ods. 7 zákona č. 140/1998 Z. z. v znení zákona č. 425/2010 Z. z.
+- 47c) § 22 ods. 4 písm. a) a § 121 ods. 4 zákona č. 362/2011 Z. z.
 
 - 48) Napríklad Trestný zákon, Trestný poriadok a zákon č. 455/1991 o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
