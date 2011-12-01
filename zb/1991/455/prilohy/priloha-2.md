@@ -22,7 +22,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 7. | Overovanie určených meradiel alebo Úradné meranie | rozhodnutie o autorizácii | § 24 zákona č. 142/2000 Z. z. |
 
-- 8. | Očná optika | – vyššie odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
 
 - 9. | Zubná technika | – vysokoškolské vzdelanie v študijnom odbore zubná technika alebo – vyššie odborné vzdelanie v študijnom odbore diplomovaný zubný technik alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v odbore zubná technika a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. |
 
@@ -144,7 +144,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 66. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejného vodovodu I. až III. kategórie alebo – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejnej kanalizácie I. až III. kategórie | § 6 ods. 3 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 230/2005 Z. z. |
 
-- 67. | Správa registratúry | – úplné stredné vzdelanie a 3 roky praxe v odbore alebo – vysokoškolské vzdelanie v študijnom odbore archívnictvo a pomocné historické vedy alebo v príbuznom študijnom odbore | § 23 ods. 2 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov |
+- 67. | Správa registratúry | – úplné stredné vzdelanie a 3 roky praxe v odbore alebo – vysokoškolské vzdelanie v študijnom odbore archívnictvo a pomocné historické vedy alebo v príbuznom študijnom odbore | § 23 ods. 2 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých ­zákonov v znení neskorších predpisov |
 
 - 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
@@ -180,6 +180,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 84. | Prevádzkovanie závodného hasičského útvaru | oprávnenie na zriaďovanie a prevádzkovanie závodného hasičského útvaru | § 17 ods. 1 písm. n) zákona č. 314/2001 Z. z. |
 
-- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov“. |
+- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov |
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |

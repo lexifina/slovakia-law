@@ -10,6 +10,12 @@
 
 - c) poskytovaním služieb podľa osobitného zákona.<sup>39</sup>)
 
-(3) Miestne príslušným obvodným úradom na plnenie úloh jednotného kontaktného miesta podľa odseku 2 písm. b) a c) a pre zahraničné osoby je obvodný úrad v sídle kraja.
+(3) Obvodný úrad v sídle kraja vydáva doklad o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou.
 
-(4) Obvodný úrad v sídle kraja vydáva doklad o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou.
+(4) Obvodný úrad vydáva
+
+- a) osvedčenie o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou,
+
+- b) potvrdenie o tom, že poskytovanie služieb na základe živnostenského oprávnenia nie je obmedzené alebo zakázané,
+
+- c) potvrdenie o prijatí oznámenia o cezhraničnom poskytovaní služieb na území Slovenskej republiky,
