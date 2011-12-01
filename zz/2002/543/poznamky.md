@@ -286,7 +286,9 @@
 
 - 113) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 113a) § 24 až 27 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 113a) § 25 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 113b) § 27a zákona č. 14/2006 Z. z. v znení zákona č. 408/2011 Z. z.
 
 - 114) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka, zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
