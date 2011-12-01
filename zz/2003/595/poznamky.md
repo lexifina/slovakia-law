@@ -88,6 +88,12 @@
 
 - 37a) § 59 ods. 3 Obchodného zákonníka v znení neskorších predpisov.
 
+- 37aa) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 37ab) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+
+- 37ac) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
 - 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 39) Napríklad zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 554/2008 Z. z.
@@ -163,6 +169,14 @@
 - 59g) Príloha č. 1 tabuľka A zákona č. 572/2004 Z. z.
 
 - 59h) § 9 ods. 8 zákona č. 572/2004 Z. z. v znení zákona č. 117/2007 Z. z.
+
+- 59i) § 6 ods. 2 písm. d) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
+
+- 59j) § 3 ods. 1 zákona č. 406/2011 Z. z.
+
+- 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
+
+- 59l) Zákon č. 406/2011 Z. z.
 
 - 60) § 149 až 151 Občianskeho zákonníka.
 
