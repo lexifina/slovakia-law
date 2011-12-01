@@ -1,6 +1,6 @@
 - 1) Zákon č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť v znení zákona č.127/2005 Z. z.
 
-- 2) § 5 písm. p) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 2) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 3) § 6 ods. 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -31,6 +31,12 @@
 - 18) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - 19) § 39 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+
+- 19a) § 63 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+
+- 19b) § 75 ods. 1 zákona č. 492/2009 Z. z.
+
+- 19c) § 81 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
 
 - 20) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
@@ -78,7 +84,7 @@
 
 - 42) § 2 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 43) § 21 zákona č. 510/2002 Z. z. v znení neskorších predpisov.
+- 43) Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - 44) Napríklad Obchodný zákonník, zákon č. 92/2008 Z. z., zákon Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov, zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z., zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z., zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 540/2007 Z. z., zákon č. 586/2003 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
