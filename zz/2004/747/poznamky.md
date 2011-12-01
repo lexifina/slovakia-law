@@ -36,13 +36,13 @@
 
 - 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
 
-- 1b) Napríklad § 20 a 21 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách a o zmene a doplnení niektorých zákonov.
+- 1b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Rady (EÚ) č. 1096/2010 zo 17. novembra 2010, ktorým sa Európskej centrálnej banke udeľujú osobitné úlohy týkajúce sa fungovania Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 2) § 7 a 15 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 3) § 2 ods. 3 písm. d) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
 
-- 4) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní, § 67 až 71 zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
+- 4) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
 
 - 5) § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -82,11 +82,15 @@
 
 - 23) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 91 až 93a zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 17 až 20 Obchodného zákonníka.
 
+- 23a) Napríklad § 22 ods. 4 zákona č. 530/1990 Zb. v znení neskorších predpisov, § 50 ods. 10 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 144 ods. 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 61 ods. 1 zákona č. 429/2002 Z. z., § 106 ods. 6 zákona č. 594/2003 Z. z., § 115 ods. 6 zákona č. 43/2004 Z. z. v znení neskorších predpisov, § 71 ods. 4 zákona č. 650/2004 Z. z. v znení neskorších predpisov, § 67 ods. 10 zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 39 ods. 2 a 6 zákona č. 186/2009 Z. z., § 78 ods. 6 a § 86 ods. 6 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z., § 23 ods. 4 zákona č. 129/2010 Z. z.
+
 - 24) § 136 ods. 1 a § 137 ods. 1 Zákonníka práce.
 
-- 25) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z., zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov, § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, § 17f, 17g a § 45 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 25) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z., zákon č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z., zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov, § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, § 17f, 17g a § 45 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 26) § 2 ods. 11 zákona č. 483/2001 Z. z.
+
+- 26a) § 6 ods. 3 druhá veta zákona č. 381/2001 Z. z. v znení neskorších predpisov.
 
 - 27) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
@@ -122,9 +126,11 @@
 
 - 42) § 244, § 246 ods. 2 písm. b) a § 247 až 250k Občianskeho súdneho poriadku.
 
+- 42a) Napríklad § 246d Občianskeho súdneho poriadku v znení zákona č. 428/2004 Z. z., § 50 ods. 10 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 43) § 78 ods. 1 zákona č. 483/2001 Z. z.
 
-- 43a) § 20 a 24 zákona č. 129/2010 Z. z.
+- 43a) Napríklad § 1 ods. 1 písm. c) a § 13 až 17 zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z., § 20 a 24 zákona č. 129/2010 Z. z.
 
 - 44) § 44 ods. 1 písm. a) a § 125 zákona č. 594/2003 Z. z.
 
@@ -141,6 +147,8 @@
 - 49) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 49a) § 248 písm. d) Občianskeho súdneho poriadku.
+
+- 49aa) Napríklad § 77 ods. 1 písm. c), § 81 písm. b) a § 87 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
 
 - 50) § 517 ods. 2 Občianskeho zákonníka.
 

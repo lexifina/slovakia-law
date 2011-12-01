@@ -1,6 +1,6 @@
 Príloha k zákonu č. 747/2004 Z. z.
 
-- Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Rady 73/239/EHS z 24. júla 1973 o koordinácii zákonov, iných právnych predpisov a správnych opatrení vzťahujúcich sa na začatie a vykonávanie priameho poistenia s výnimkou životného poistenia (Ú. v. ES L 228, 16. 08. 1973) v znení smernice Rady 76/580/EHS z 29. júna 1976 (Ú. v. ES L 189, 13. 07. 1976), smernice Rady 84/641/EHS z 10. decembra 1984 (Ú. v. ES L 339, 27. 12. 1984), smernice Rady 87/343/EHS z 22. júna 1987 (Ú. v. ES L 185, 4. 07. 1987), smernice Rady 87/344/EHS z 22. júna 1987 (Ú. v. ES L 185, 4. 07. 1987), smernice Rady 88/357/EHS z 22. júna 1988 (Ú. v. ES L 172, 4. 07. 1988), smernice Rady 90/618/EHS z 8. novembra 1990 (Ú. v. ES L 330, 29. 11. 1990), smernice Rady 92/49/EHS z 18. júna 1992 (Ú. v. ES L 228, 11. 08. 1992), smernice Európskeho parlamentu a Rady 95/26/ES z 29. júna 1995 (Ú. v. ES L 168, 18. 07. 1995), smernice Európskeho parlamentu a Rady 2000/26/ES zo 16. mája 2000 (Ú. v. ES L 181, 20. 07. 2000), smernice Európskeho parlamentu a Rady 2002/13/ES z 5. marca 2002 (Ú. v. ES L 077, 20. 03. 2002), smernice Európskeho parlamentu a Rady 2002/87/ES zo 16. decembra 2002 (Ú. v. EÚ L 035, 11. 02. 2003).
 
