@@ -20,6 +20,6 @@
 
 (4) Na účely výpočtu štátneho príspevku pre mladých na hypotekárny úver poskytnutý v cudzej mene sa výška hypotekárneho úveru prepočíta referenčným výmenným kurzom určeným a vyhláseným Európskou centrálnou bankou alebo Národnou bankou Slovenska,<sup>31</sup>) ktorý je platný ku dňu uzatvorenia zmluvy o hypotekárnom úvere.
 
-(5) Štátny príspevok pre mladých sa poskytne na hypotekárny úver najviac zo sumy hypotekárneho úveru 1 500 000 Sk na jednu nehnuteľnosť určenú na bývanie, a to aj v prípade manželov alebo nadobúdania takejto nehnuteľnosti do podielového spoluvlastníctva.
+(5) Štátny príspevok pre mladých sa poskytne na hypotekárny úver najviac zo sumy hypotekárneho úveru 50 000 eur na jednu nehnuteľnosť určenú na bývanie, a to aj v prípade manželov alebo nadobúdania takejto nehnuteľnosti do podielového spoluvlastníctva.
 
 (6) Splátky hypotekárneho úveru vrátane úrokov, na ktorý sa poskytuje štátny príspevok pre mladých, sa dohodnú spravidla v pravidelných mesačných splátkach. Ak splátky hypotekárneho úveru budú dohodnuté inak, suma prostriedkov poskytnutých ako štátny príspevok pre mladých na takýto hypotekárny úver nemôže prekročiť sumu, ktorá by bola poskytnutá ako štátny príspevok pre mladých na takýto hypotekárny úver v prípade pravidelných mesačných splátok. Ustanoveniami prvej a druhej vety nie je dotknuté ustanovenie odseku 3 písm. b) druhého a tretieho bodu.

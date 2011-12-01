@@ -1,6 +1,6 @@
 # § 51a
 
-(1) Národná banka Slovenska môže zmiešanej finančnej holdingovej spoločnosti alebo inej osobe, ktorá je súčasťou finančného konglomerátu, nad ktorým Národná banka Slovenska vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu od 100 000 Sk do 20 000 000 Sk, ak
+(1) Národná banka Slovenska môže zmiešanej finančnej holdingovej spoločnosti alebo inej osobe, ktorá je súčasťou finančného konglomerátu, nad ktorým Národná banka Slovenska vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu od 3 300 eur do 664 000 eur, ak
 
 - a) neumožní vykonať dohľad na mieste,
 

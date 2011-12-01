@@ -10,8 +10,6 @@
 
 - 4) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
 
-- 4a) § 2 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
-
 - 5) Napríklad zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 6) Napríklad zákon č. 594/2003 Z. z., zákon č. 186/2009 Z. z.
@@ -21,6 +19,8 @@
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 492/2009 Z. z., usmernenie Európskej centrálnej banky z 31. augusta 2000 o nástrojoch a postupoch menovej politiky Eurosystému (ECB/2000/7) (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 01) v platnom znení.
 
 - 9) Zákon č. 492/2009 Z. z.
+
+- 9a) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z.
 
 - 10) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
@@ -33,6 +33,8 @@
 - 13a) § 5 písm. f) až i) a § 8 písm. d) zákona č. 566/2001 Z. z.
 
 - 13b) § 25 až 32 zákona č. 429/2002 Z. z. o burze cenných papierov.
+
+- 13c) § 1 ods. 2 písm. a) zákona č. 186/2009 Z. z.
 
 - 14) Občiansky súdny poriadok.
 
@@ -64,6 +66,10 @@
 
 - 22a) § 54 a 55 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 22b) § 64 ods. 2 písm. j) zákona č. 492/2009 Z. z.
+
+- 22c) § 82 ods. 2 písm. j) zákona č. 492/2009 Z. z.
+
 - 23) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
 - 23a) § 41a a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
@@ -83,6 +89,8 @@
 - 24d) § 29 ods. 3 zákona č. 297/2008 Z. z.
 
 - 25) § 173 a 174 Obchodného zákonníka.
+
+- 25a) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (U. v. EÚ L 331, 15. 12. 2010).
 
 - 26a) § 2 ods. 2 a § 23 Obchodného zákonníka.
 
@@ -302,7 +310,7 @@
 
 - 84a) § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z. o preukazovaní pôvodu majetku.
 
-- 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 5 a § 10 ods. 8 zákona č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť.
+- 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 2 písm. a), § 6, § 12 ods. 1, § 14 ods. 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. o vykonávaní medzinárodných sankcií.
 
 - 86) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.), Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.), Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.), Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.), Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
 
@@ -313,6 +321,8 @@
 - 86c) § 6 až 13 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
 - 86d) § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
+
+- 86e) Zákon č. 126/2011 Z. z.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 

@@ -60,13 +60,15 @@
 
 (7) Materská banka podľa § 44 ods. 2 písm. a) je povinná zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti a obmedzení vzniku neprimerane vysokého rizika majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti banky za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 44 ods. 2 písm. a), neberú do úvahy.
 
-(8) Národná banka Slovenska je oprávnená umožniť banke, na základe jej písomnej žiadosti s uvedením vecných dôvodov, na účely posudzovania majetkovej angažovanosti podľa
+(8) So súhlasom Národnej banky Slovenska vydaným na základe písomnej žiadosti banky s uvedením vecných dôvodov môže banka na účely posudzovania majetkovej angažovanosti podľa
 
-- a) odseku 1 vyňať osobu zo skupiny hospodársky spojených osôb, ak sa na všetky osoby v tejto skupine vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom,
+- a) odsekov 1 a 2 vyňať osobu zo skupiny hospodársky spojených osôb, ak sa na všetky osoby v tejto skupine vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči skupine hospodársky spojených osôb, pre ktorú Národná banka Slovenska vydala súhlas podľa tohto písmena, najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
 
-- b) odseku 1 písm. a) bodu 1b a písm. b) bodu 1b považovať expozície voči svojej dcérskej spoločnosti za expozície voči inej osobe podľa odseku 1, ak sa na túto dcérsku spoločnosť vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu nad bankou overovať hodnotu expozícií voči jej dcérskej spoločnosti podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu výboru pre bankovníctvo,
+- b) odseku 1 písm. a) a odseku 2 nezahrnúť do výpočtu majetkovej angažovanosti expozíciu voči svojej dcérskej spoločnosti najviac do výšky 75 % hodnoty tejto expozície, ak sa na túto dcérsku spoločnosť vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči jej dcérskej spoločnosti podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
 
-- c) odseku 1 písm. a) bodu 1d a písm. b) bodu 1d vyňať tie expozície voči svojej dcérskej spoločnosti, na ktoré sa vzťahuje umožnenie Národnej banky Slovenska podľa písmena b); Národná banka Slovenska je povinná pri výkone dohľadu nad bankou overovať hodnotu expozícií voči skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti tejto banky, ak sa na skupinu hospodársky spojených osôb uplatňuje umožnenie Národnej banky Slovenska podľa tohto písmena, a to najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu výboru pre bankovníctvo.
+- c) odseku 1 písm. a) a odseku 2 nezahrnúť do výpočtu majetkovej angažovanosti expozíciu voči svojej materskej spoločnosti, ak ňou je inštitúcia so sídlom v členskom štáte, alebo voči jej inej dcérskej spoločnosti, ak sa na ne vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči jej materskej spoločnosti alebo voči jej iným dcérskym spoločnostiam podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
+
+- d) odseku 1 písm. b) a c) a odseku 2 vyňať tie expozície, na ktoré sa vzťahuje postup Národnej banky Slovenska podľa písmen b) a c); Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči skupine hospodársky spojených osôb, pre ktorú Národná banka Slovenska vydala súhlas podľa tohto písmena, a to najmenej raz za kalendárny mesiac, a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo).
 
 (9) Majetkovou angažovanosťou banky sa na účely tohto zákona rozumie súhrn
 
@@ -104,7 +106,7 @@
 
 (13) Postup podľa odseku 8 písm. b) a c) sa pri výpočte majetkovej angažovanosti za konsolidovaný celok na účely odseku 7 a na účely ôsmej časti neuplatňuje.
 
-(14) Možnosť podľa odseku 8 písm. a), b) alebo c) zaniká
+(14) Možnosť podľa odseku 8 písm. a), b) alebo d) zaniká
 
 - a) uplynutím 180 kalendárnych dní od doručenia oznámenia Národnej banky Slovenska banke, že nesmie využívať možnosť podľa odseku 8 písm. a), b) alebo c),
 
