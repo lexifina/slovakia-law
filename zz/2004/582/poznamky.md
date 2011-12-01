@@ -136,6 +136,8 @@
 
 - 47) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
+- 47a) Zákon č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
+
 - 48) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - 49) § 2 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
