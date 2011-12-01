@@ -18,7 +18,7 @@
 
 - 9) Napríklad § 23 a body 9 a 9a prílohy č. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 9a) § 35 zákona č. 140/1998 Z. z. v znení zákona č. 342/2005 Z. z.
+- 9a) § 3 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
 - 9b) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
@@ -142,6 +142,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 43a) § 49 zákona č. 71/1967 Zb. v znení neskorších predpisov.
+
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 45) § 39 a 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
@@ -187,6 +189,10 @@
 - 58b) § 2 ods. 11 zákona č. 576/2004 Z. z.
 
 - 58c) § 9 ods. 1 až 4 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
+
+- 58d) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 58e) Zákon č. 362/2011 Z. z.
 
 - 59) § 24 a 25 zákona č. 576/2004 Z. z.
 
