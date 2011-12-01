@@ -54,6 +54,8 @@
 
 - 20) § 31 zákona č.139/2002 Z. z. o rybárstve.
 
+- 20a) § 4 až 17 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 21) Dohovor o spolupráci pri ochrane a trvalom využívaní Dunaja (oznámenie č. 356/2002 Z. z.).
 
 - 21a) Zákon č. 258/2011 Z. z. o trvalom ukladaní oxidu uhličitého do geologického prostredia a o zmene a doplnení niektorých zákonov.
