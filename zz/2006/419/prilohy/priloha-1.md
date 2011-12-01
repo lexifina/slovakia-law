@@ -4,7 +4,7 @@ Príloha č. 1 k vyhláške č. 419/2006 Z. z.
 
   - 1. Colný úrad Banská Bystrica
 
-    - pobočka colného úradu Zvolen – Lieskovec, nácestné stredisko, Lieskovská cesta 24/494
+    - Banská Bystrica, Partizánska cesta 97
 
     - pobočka colného úradu Lučenec, nácestné stredisko, Podjavorinskej 19
 

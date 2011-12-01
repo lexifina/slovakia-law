@@ -1,3 +1,3 @@
 Príloha č. 5 k vyhláške č. 419/2006 Z. z.
 
-- VZOR [Vzor 04](../assets/d98e5fb1cc1cf7884ec3b656dccaeeb505ddf6f31c27feea41691521e9704771.pdf)
+- VZOR [Vzor 04](../assets/b04f5d4b840b382f709dea2356e17143e4d59391e04b90fe727438e98ae89737.pdf)

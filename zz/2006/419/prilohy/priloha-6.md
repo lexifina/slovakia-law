@@ -4,9 +4,9 @@ Príloha č. 6 k vyhláške č. 419/2006 Z. z.
 
 - | Textilný tovar a obuv (kapitola SCS* 61 - Odevy a odevné doplnky, pletené alebo háčkované kapitola SCS* 62 - Odevy a odevné doplnky, iné ako pletené alebo háčkované kapitola SCS* 63 - Obnosené odevy kapitola SCS* 64 - Obuv, gamaše a podobné výrobky) | Banány [(číselný znak KN 0803 00 19) článok 290a nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Úradný vestník Európskych spoločenstiev L 253, 11. 10. 1993) v platnom znení]
 
-- Banská Bystrica | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko | Zvolen - Lieskovec, nácestné stredisko Lučenec, nácestné stredisko
+- Banská Bystrica | Banská Bystrica Lučenec, nácestné stredisko | Banská Bystrica Lučenec, nácestné stredisko
 
-- Bratislava | Kopčianska Letisko, ak ide o textilný tovar a obuv prepravené letecky | Prístav
+- Bratislava | Staviteľská Letisko, ak ide o textilný tovar a obuv prepravené letecky | Prístav
 
 - Michalovce | Michalovce Dobrá, terminál kombinovanej dopravy | Michalovce
 
