@@ -4,19 +4,19 @@
 
 - a) centrálna banka,
 
-- b) úverová inštitúcia alebo zahraničná úverová inštitúcia s povolením na činnosť podľa právnych predpisov členských štátov,
+- b) banka alebo zahraničná banka s povolením na činnosť podľa právnych predpisov členských štátov,
 
 - c) banka s povolením na činnosť v nečlenskom štáte,
 
 - d) kvalifikovaný fond peňažného trhu.
 
-(2) Ustanovenie odseku 1 sa nevzťahuje na úverovú inštitúciu ani zahraničnú úverovú inštitúciu so sídlom v členskom štáte, ak ide o vklady vedené v tejto inštitúcii.
+(2) Ustanovenie odseku 1 sa nevzťahuje na banku ani zahraničnú banku so sídlom v členskom štáte, ak ide o vklady vedené v tejto inštitúcii.
 
 (3) Kvalifikovaným fondom peňažného trhu sa rozumie otvorený podielový fond alebo európsky fond, alebo iný zahraničný subjekt kolektívneho investovania, ktorý podlieha dohľadu alebo ktorému bolo udelené povolenie na činnosť podľa právnych predpisov členského štátu a ktorý spĺňa tieto podmienky:
 
 - a) hlavným cieľom jeho investovania je udržiavanie čistej hodnoty aktív, a to na rovnakej hodnote investície po odrátaní výnosov alebo na počiatočnej hodnote investície investora po zarátaní výnosov,
 
-- b) majetok v kvalifikovanom fonde peňažného trhu sa investuje len do vysokokvalitných nástrojov peňažného trhu so splatnosťou alebo zostatkovou splatnosťou maximálne 397 dní alebo s pravidelnými úpravami výnosov, ktoré zodpovedajú takejto splatnosti, a s váženou priemernou splatnosťou 60 dní alebo formou doplnkového investovania do vkladov vedených v úverových inštitúciách,
+- b) majetok v kvalifikovanom fonde peňažného trhu sa investuje len do vysokokvalitných nástrojov peňažného trhu so splatnosťou alebo zostatkovou splatnosťou maximálne 397 dní alebo s pravidelnými úpravami výnosov, ktoré zodpovedajú takejto splatnosti, a s váženou priemernou splatnosťou 60 dní alebo formou doplnkového investovania do vkladov vedených v bankách,
 
 - c) musí zaisťovať likviditu vložených peňažných prostriedkov v deň podania žiadosti o ich vyplatenie alebo v nasledujúci pracovný deň.
 

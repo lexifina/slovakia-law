@@ -28,7 +28,7 @@ Na účely tohto zákona sa rozumie
 
 - b) finančným sektorom sektor, v ktorom pôsobí jedna alebo viaceré z týchto právnických osôb:
 
-  - 1. úverová inštitúcia, iná právnická osoba ako banka, ktorá v rámci svojho podnikania vykonáva ako svoju rozhodujúcu alebo podstatnú činnosť niektorú z činností uvedených v osobitnom zákone<sup>110a</sup>) alebo ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného zákona,<sup>110b</sup>) ako aj akýkoľvek subjekt so sídlom v zahraničí s obdobným predmetom činnosti alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
+  - 1. banka, iná právnická osoba ako banka, ktorá v rámci svojho podnikania vykonáva ako svoju rozhodujúcu alebo podstatnú činnosť niektorú z činností uvedených v osobitnom zákone<sup>110a</sup>) alebo ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného zákona,<sup>110b</sup>) ako aj akýkoľvek subjekt so sídlom v zahraničí s obdobným predmetom činnosti alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
   - 2. poisťovňa, zaisťovňa alebo právnická osoba kontrolujúca finančný konsolidovaný celok podľa osobitného zákona;<sup>23</sup>) tieto tvoria sektor poisťovníctva,
 

@@ -142,8 +142,6 @@
 
 - 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
-- 50ab) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
-
 - 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
 
 - 51) § 27 ods. 5 Zákonníka práce v znení neskorších predpisov.
@@ -173,6 +171,8 @@
 - 56) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 56a) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
 

@@ -22,4 +22,6 @@
 
 (4) Zmluvné záložné právo podľa odseku 1 k zaknihovanému cennému papieru v prospech Národnej banky Slovenska, Európskej centrálnej banky alebo inej centrálnej banky tvoriacej súčasť Eurosystému,<sup>47h</sup>) na základe príkazu Národnej banky Slovenska, príkazu Európskej centrálnej banky, príkazu inej centrálnej banky tvoriacej súčasť Eurosystému, alebo príkazu záložcu, vzniká, mení sa alebo zaniká registráciou záložného práva na účte majiteľa v evidencii centrálneho depozitára; týmto nie je dotknutý vznik záložného práva podľa § 45 ods. 6. Záložný veriteľ súčasne podá príkaz na registráciu pozastavenia výkonu práva nakladať so založeným cenným papierom podľa § 28 ods. 3 písm. d), a to na dobu trvania obchodného vzťahu z uzavretého obchodu.
 
-(5) Zmluvné záložné právo podľa odseku 1 k cennému papieru pôsobí voči nadobúdateľovi, ibaže nadobúdateľ o ňom v čase prevodu cenného papiera nevedel alebo v prípade anonymných obchodov.
+(5) Ak Národná banka Slovenska dáva príkaz na registráciu zmluvného záložného práva podľa odseku 4 v prospech Európskej centrálnej banky alebo inej centrálnej banky, ktorá je súčasťou Eurosystému, môže byť Národná banka Slovenska na základe pokynov Európskej centrálnej banky alebo takejto inej centrálnej banky sprostredkovateľom výplaty výnosov a istiny z cenných papierov, ktoré sú predmetom záložného práva.
+
+(6) Zmluvné záložné právo podľa odseku 1 k cennému papieru pôsobí voči nadobúdateľovi, ibaže nadobúdateľ o ňom v čase prevodu cenného papiera nevedel alebo v prípade anonymných obchodov.

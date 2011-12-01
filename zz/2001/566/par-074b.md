@@ -1,6 +1,6 @@
 # § 74b
 
-(1) Obchodník s cennými papiermi je povinný uverejňovať informácie o sebe, o svojej činnosti, informácie o opatreniach na nápravu a pokutách, ktoré mu boli uložené, informácie o svojich finančných ukazovateľoch, informácie o celkovom príjme za výkon funkcie všetkých členov predstavenstva a dozornej rady, a to vrátane príjmov za výkon funkcií, ktoré uhrádza iný subjekt ako obchodník s cennými papiermi, informácie o vybraných akcionároch obchodníka s cennými papiermi najviac v rozsahu údajov vymedzených v § 73a ods. 1 písm. a) prvom bode a druhom bode, informácie o veľkosti podielov akcionárov na základnom imaní obchodníka s cennými papiermi a na hlasovacích právach v obchodníkovi s cennými papiermi, o finančných ukazovateľoch konsolidovaného celku a o štruktúre konsolidovaného celku, ktorého je obchodník s cennými papiermi súčasťou, z hľadiska vzájomných vzťahov a z hľadiska zloženia tohto celku podľa § 138 a informácie o
+(1) Obchodník s cennými papiermi je povinný uverejňovať informácie o sebe, o svojej činnosti, informácie o opatreniach na nápravu a pokutách, ktoré mu boli uložené, informácie o svojich finančných ukazovateľoch, informácie o celkovom príjme za výkon funkcie všetkých členov dozornej rady, a to vrátane príjmov za výkon funkcií, ktoré uhrádza iný subjekt ako obchodník s cennými papiermi, informácie o vybraných akcionároch obchodníka s cennými papiermi najviac v rozsahu údajov vymedzených v § 73a ods. 1 písm. a) prvom bode a druhom bode, informácie o veľkosti podielov akcionárov na základnom imaní obchodníka s cennými papiermi a na hlasovacích právach v obchodníkovi s cennými papiermi, o finančných ukazovateľoch konsolidovaného celku a o štruktúre konsolidovaného celku, ktorého je obchodník s cennými papiermi súčasťou, z hľadiska vzájomných vzťahov a z hľadiska zloženia tohto celku podľa § 138 a informácie o
 
 - a) rizikách, cieľoch a politikách riadenia rizík za každé jednotlivé riziko osobitne,
 
@@ -22,7 +22,9 @@
 
 - j) expozíciách voči úrokovému riziku pozícií, ktoré nie sú zahrnuté v obchodnej knihe, a
 
-- k) postupoch zmierňovania kreditného rizika a operačného rizika.
+- k) postupoch zmierňovania kreditného rizika a operačného rizika,
+
+- l) skutočnostiach týkajúcich sa odmeňovania u obchodníka s cennými papiermi a vyplývajúcich zo zásad odmeňovania u obchodníka s cennými papiermi.
 
 (2) Obchodník s cennými papiermi a pobočka zahraničného obchodníka s cennými papiermi nie sú povinní uverejňovať nepodstatné informácie, vnútorné informácie alebo dôverné informácie, pričom
 

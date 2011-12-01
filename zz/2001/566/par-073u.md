@@ -6,7 +6,7 @@
 
 - a) obchodník s cennými papiermi alebo zahraničný obchodník s cennými papiermi,
 
-- b) úverová inštitúcia alebo zahraničná úverová inštitúcia,
+- b) banka alebo zahraničná banka,
 
 - c) poisťovňa, zahraničná poisťovňa alebo poisťovňa z iného členského štátu,
 
