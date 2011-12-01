@@ -118,6 +118,8 @@
 
 - 23f) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 
+- 23fa) § 3 zákona č. 392/2011 Z. z. o obchodovaní s výrobkami obranného priemyslu a o zmene a doplnení niektorých zákonov
+
 - 23g) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 58/1997 Z. z.
 
 - 23ha) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
@@ -219,6 +221,8 @@
 - 36g) § 6 ods. 1 písm. b) a c) a § 6 ods. 2 zákona č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 36h) § 5, § 5b a nasl. a § 15d ods. 3 zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
+
+- 36i) Zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
