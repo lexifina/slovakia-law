@@ -26,6 +26,8 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
+- 5aa) § 4 a 5 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
+
 - 6) Napríklad zákon č. 107/2004 Z. z. o spotrebnej dani z piva.
 
 - 6a) Zákon č. 610/2003 Z. z. o elektronických komunikáciách.
