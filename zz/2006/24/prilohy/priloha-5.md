@@ -112,11 +112,11 @@ Príloha č. 5 k zákonu č. 24/2006 Z. z.
 
     - 12. Iné vplyvy.
 
-    - 13. Komplexné posúdenie očakávaných vplyvov z hľadiska ich významnosti a ich porovnanie s platnými právnymi predpismi.
+    - 13. Komplexné posúdenie očakávaných vplyvov z hľadiska ich významnosti, vzájomných vzťahov a ich porovnanie s platnými právnymi predpismi.
 
   - IV. Navrhované opatrenia na prevenciu, elimináciu, minimalizáciu a kompenzáciu vplyvov na životné prostredie a zdravie
 
-  - V. Porovnanie variantov (vrátane porovnania s nulovým variantom)
+  - V. Porovnanie variantov zohľadňujúcich ciele a geografický rozmer strategického dokumentu vrátane porovnania s nulovým variantom
 
     - 1. Tvorba súboru kritérií a určenie ich dôležitosti na výber optimálneho variantu.
 

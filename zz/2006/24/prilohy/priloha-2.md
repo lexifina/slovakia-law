@@ -24,7 +24,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
     - 4. Obsah (osnova).
 
-    - 5. Uvažované variantné riešenia.
+    - 5. Uvažované variantné riešenia zohľadňujúce ciele a geografický rozmer strategického dokumentu.
 
     - 6. Vecný a časový harmonogram prípravy a schvaľovania.
 

@@ -34,7 +34,7 @@ Príloha č. 8a k zákonu č. 24/2006 Z. z.
 
   - V. Všeobecne zrozumiteľné záverečné zhrnutie
 
-    - Prílohy:
+  - VI. Prílohy
 
     - 1. Informácia, či navrhovaná činnosť bola posudzovaná podľa zákona; v prípade, ak áno, uvedie sa číslo a dátum záverečného stanoviska, príp. jeho kópia
 
@@ -42,18 +42,16 @@ Príloha č. 8a k zákonu č. 24/2006 Z. z.
 
     - 3. Výpis z katastra nehnuteľností
 
-    - 4. Odborné stanovisko orgánu ochrany prírody a krajiny podľa § 18 ods. 12
+    - 4. Vyjadrenie dotknutého štátneho orgánu ochrany prírody a krajiny
 
     - 5. Stanovisko príslušného orgánu územného plánovania, či zmena navrhovanej činnosti je v súlade s platnými územnoplánovacími dokumentáciami platnými pre dané územie
 
     - 6. Dokumentácia k zmene navrhovanej činnosti:
 
-    - 6. 1. Dátum spracovania
+  - VII. Dátum spracovania
 
-    - 6. 2. Meno, priezvisko, adresa, číslo telefónu spracovateľa
+  - VIII. Meno, priezvisko, adresa a podpis spracovateľa oznámenia
 
-    - 6. 3. Podpis spracovateľa
-
-    - 6. 4. Podpis navrhovateľa
+  - IX. Podpis oprávneného zástupcu navrhovateľa
 
     - Poznámka: Ak nie je možné niektorú z príloh doložiť, je potrebné uviesť písomné odôvodnenie.

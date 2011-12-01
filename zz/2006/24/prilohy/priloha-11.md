@@ -48,7 +48,9 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 15. Rezortný orgán.
 
-    - 16. Vyjadrenie o vplyvoch navrhovanej činnosti presahujúcich štátne hranice.
+    - 16. Druh požadovaného povolenia navrhovanej činnosti podľa osobitných predpisov.
+
+    - 17. Vyjadrenie o vplyvoch navrhovanej činnosti presahujúcich štátne hranice.
 
   - B. ÚDAJE O PRIAMYCH VPLYVOCH NAVRHOVANEJ ČINNOSTI NA ŽIVOTNÉ PROSTREDIE VRÁTANE ZDRAVIA
 

@@ -80,7 +80,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 14. | Priemyselné zariadenia na vedenie pary, plynu a teplej vody | | bez limitu
 
-  - 15. | Nadzemné a podzemné prenosové vedenia elektrickej energie | 220 kV a viac s dĺžkou od 15 km | 110 kVa 220 kV s dĺžkou od 5km do 15 km
+  - 15. | Nadzemné a podzemné prenosové vedenia elektrickej energie | 220 kV a viac s dĺžkou od 15 km | 220 kV a viac s dĺžkou od 5 km do 15 km alebo od 110 do 220 kV s dĺžkou od 5 km
 
   - 16. | Diaľkové plynovody s potrubím so svetlosťou alebo s tlakom | od 500 mm alebo od 1 MPa alebo od 40 km | od 300 mm do 500 mm alebo od 0,3 MPa do 1 MPa alebo od 10 km do 40 km
 
@@ -152,7 +152,9 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 5. Drevospracujúci, celulózový a papierenský priemysel
 
-    - Rezortný orgán: Ministerstvo hospodárstva Slovenskej republiky
+    - Rezortný orgán: Ministerstvo hospodárstva Slovenskej republiky pre položky č. 1 a 3
+
+    - Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky pre položky č. 2 a 4
 
   - Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
@@ -238,53 +240,51 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
     - Rezortný orgán:
 
-    - Ministerstvo životného prostredia Slovenskej republiky pre položky č. 2, 3, 4, 5, 6, 7, 8, 9.
+    - Ministerstvo životného prostredia Slovenskej republiky pre položky č. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
-    - Ministerstvo hospodárstva Slovenskej republiky pre položky č. 1, 8, 10, 11, 12, 13, 14 písmená b), g) a h).
+    - Ministerstvo hospodárstva Slovenskej republiky pre položky č. 1, 13, 14, 15
 
-    - Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky pre položku č. 14 písmená a), d), h) a k).
+    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky pre položku č. 16
 
-    - Ministerstvo zdravotníctva Slovenskej republiky pre položku č. 14 písmená f) a h) a položku č. 15.
-
-    - Ministerstvo kultúry Slovenskej republiky pre položku č. 14 písmená c) a h).
-
-    - Ministerstvo školstva Slovenskej republiky pre položku č. 14 písmená e) a h).
-
-    - Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky pre položku č. 14 písmená h), i) a j).
+    - Ministerstvo zdravotníctva Slovenskej republiky pre položku č. 17
 
   - Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
 
-  - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
+  - | | Časť A (povinné) hodnotenie) | Časť B (zisťovaciekonanie)
 
   - 1. | Odkaliská, úložiská popolčeka a odvaly hlušiny s kapacitou | od 250 000 m<sup>3</sup> | od 50 000 m<sup>3</sup> do 250 000 m<sup>3</sup>
 
   - 2. | Skládky odpadov na nebezpečný odpad | bez limitu |
 
-  - 3. | Skládky odpadov na zneškodňovanie nie nebezpečného odpadu s kapacitou | od 250 000 m<sup>3</sup> | od 50 000 m<sup>3</sup> do 250 000 m<sup>3</sup>
+  - 3. | Skládky odpadov na odpad, ktorý nie je nebezpečný s kapacitou | od 250 000 m<sup>3</sup> | do 250 000 m<sup>3</sup>
 
   - 4. | Skládky odpadov na inertný odpad s kapacitou | | nad 250 000 m<sup>3</sup>
 
-  - 5. | Zariadenia na zneškodňovanie ostatných odpadov spaľovaním alebo zariadenia na úpravu, spracovanie a zhodnocovanie ostatných odpadov | bez limitu |
+  - 5. | Zneškodňovanie alebo zhodnocovanie ostatných odpadov v spaľovniach a zariadeniach na spoluspaľovanie odpadov | bez limitu |
 
-  - 6. | Zariadenia na zneškodňovanie nebezpečných odpadov spaľovaním, alebo zariadenia na úpravu, spracovanie a zhodnocovanie nebezpečných odpadov | bez limitu |
+  - 6. | Zhodnocovanie ostatných odpadov okrem zhodnocovania odpadov uvedeného v položkách 5 a 11, zariadenia na úpravu a spracovanie ostatných odpadov | | od 5 000 t/rok
 
-  - 7. | Stavby, objekty a zariadenia na nakladanie s nebezpečným odpadom, ak nie sú uvedené v položkách č. 2, 3 a 6 | | bez limitu
+  - 7. | Zneškodňovanie alebo zhodnocovanie nebezpečných odpadov v spaľovniach a zariadeniach na spoluspaľovanie odpadov, alebo úprava, spracovanie a zhodnocovanie nebezpečných odpadov | bez limitu |
 
-  - 8. | Skladovanie odpadov zo železných kovov a z neželezných kovov a starých vozidiel | | bez limitu
+  - 8. | Zariadenie na zhodnocovanie odpadov tepelnými postupmi | bez limitu |
 
-  - 9. | Zariadenia na zhodnocovanie ostatného stavebného odpadu | od 100 000 t/rok | od 50 000 t/rok do 100 000 t/rok
+  - 9. | Stavby, zariadenia, objekty a priestory na nakladanie s nebezpečnými odpadmi | | od 10 t/rok
 
-  - 10. | Zariadenia na zneškodňovanie odpadov (nezahrnuté v položkách č. 1 až 9) | | bez limitu
+  - 10. | Zhromažďovanie odpadov zo železných kovov, z neželezných kovov alebo starých vozidiel | | bez limitu
 
-  - 11. | Nadzemné sklady s kapacitou a) zemného plynu a iných plynných médií b) ropy a petrochemických výrobkov c) chemikálií a chemických výrobkov | od 100 000 m<sup>3</sup> od 10 000 t od 1 000 t | od 50 000 m<sup>3</sup> do 100 000 m<sup>3</sup> od 100 t do 10 000 t od 500 t do 1 000 t
+  - 11. | Zariadenie na zhodnocovanie ostatného stavebného odpadu | od 100 000 t/rok | od 50 000 t/rok do 100 000 t/rok
 
-  - 12. | Podzemné sklady s kapacitou a) zemného plynu a iných plynných médií b) ropy a petrochemických výrobkov c) chemikálií a chemických výrobkov | od 100 000 m<sup>3</sup> od 10 000 t od 1 000 t | od 5 000 m<sup>3</sup> do 100 000 m<sup>3</sup> od 100 t do 10 000 t od 500 t do 1 000 t
+  - 12. | Zneškodňovanie odpadov (nezahrnuté v položkách 1 až 5 a 7) | | bez limitu
 
-  - 13. | Projekty budovania priemyselných zón vrátane priemyselných parkov | | bez limitu
+  - 13. | Nadzemné sklady s kapacitou a) zemného plynu a iných plynných médií b) ropy a petrochemických výrobkov c) chemikálií a chemických výrobkov | od 100 000 m<sup>3</sup> od 10 000 t od 1 000 t | od 50 000 m<sup>3</sup>do 100 000 m<sup>3</sup> od 100 t do 10 000 t od 500 t do 1 000 t
 
-  - 14. | Projekty rozvoja obcí vrátane a) bytových budov b) budov pre obchod a/alebo služby c) budov pre kultúru a verejnú zábavu d) budov pre administratívu e) škôl, univerzít a budov pre vzdelávanie f) nemocničných budov a zdravotníckych zariadení g) skladov h) komplexov dvoch a viacerých objektov uvedených v písmenách a) až g) i) garáží alebo komplexu garážových budov j) parkovísk alebo komplexu parkovísk k) územných plánov zóny, ktoré nahrádzajú územné roz- hodnutie pre činnosti uvedené v písmenách a) až j) | od 300 stojísk od 500 stojísk | od 20 000 m<sup>2</sup> podlahovej plochy od 2 000 m<sup>2</sup> úžitkovej plochy od 2 000 m<sup>2</sup> úžitkovej plochy od 5 000 m<sup>2</sup> úžitkovej plochy od 5 000 m<sup>2</sup> úžitkovej plochy od 5 000 m<sup>2</sup> úžitkovej plochy od 2 000 m<sup>2</sup> skladovacej plochy od 5 000 m<sup>2</sup> úžitkovej plochy od 100 do 300 stojísk od 100 do 500 stojísk bez limitu
+  - 14. | Podzemné sklady s kapacitou a) zemného plynu a iných plynných médií b) ropy a petrochemických výrobkov c) chemikálií a chemických výrobkov | od 100 000 m<sup>3</sup> od 10 000 t od 1 000 t | od 5 000 m<sup>3</sup> do 100 000 m<sup>3</sup> od 100 t do 10 000 t od 500 t do 1 000 t
 
-  - 15. | Krematóriá a cintoríny | | bez limitu
+  - 15. | Projekty budovania priemyselných zón vrátane priemyselných parkov | | bez limitu
+
+  - 16. | Projekty rozvoja obcí vrátane a) pozemných stavieb alebo ich súborov (komplexov), ak nie sú uvedené v iných položkách tejto prílohy b) statickej dopravy c) územných plánov zóny, ktoré nahrádzajú územné rozhodnutie pre činnosti uvedené v písmenách a) a b) | od 500 stojísk | v zastavanom území od 10 000 m<sup>2</sup> podlahovej plochy mimo zastavaného územia od 1 000 m<sup>2</sup> podlahovej plochy od 100 do 500 stojísk bez limitu
+
+  - 17. | Krematóriá a cintoríny | | bez limitu
 
   - 10. Vodné hospodárstvo
 
@@ -294,7 +294,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-  - 1. | Priehrady, nádrže a iné zariadenia určené na zadržiavanie alebo na akumuláciu vody vrátane suchých nádrží- s výškou hrádze nad základovou líniou alebo- s celkovým novým objemom alebo dodatočne zadržaným objemomalebo - s rozlohou | od 8 m alebo od 1 mil. m<sup>3</sup> alebo od 100 ha | od 3 m do 8 m od 0,5 mil. m<sup>3</sup> do 1 mil. m<sup>3</sup>alebo od 50 ha do 100 ha
+  - 1. | Priehrady, nádrže a iné zariadenia určené na zadržiavanie alebo na akumuláciu vody vrátane suchých nádrží – s výškou hrádze nad terénom alebo – s celkovým novým objemom, alebo dodatočne zadržaným objemom, alebo – s rozlohou | od 8 m alebo od 1 mil. m<sup>3</sup> alebo od 100 ha | od 3m do 8 m od 0,5 mil. m<sup>3</sup> do 1 mil. m<sup>3</sup> alebo od 50 ha do 100 ha
 
   - 2. | Zariadenia na prevod podzemných vôd medzi povodiami, ak takýto prenos je zameraný na prevenciu pred možným nedostatkom vody | od 10 mil. m<sup>3</sup>/rok | od 3 mil. m<sup>3</sup>/rok do 10 mil. m<sup>3</sup>/rok
 
@@ -320,13 +320,13 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-  - 1. | Zariadenia na intenzívnu živočíšnu výrobu vrátane depónií vedľajších produktov s kapacitou a) hospodárskych zvierat b) ošípaných c) hydiny | od 2 000 ks (nad 30 kg) alebo od 750 ks prasníc od 85 000 ks brojlerov alebo od 40 000 ks nosníc | od 100 VDJ<sup>1</sup>)od 200 ks do 2 000 ks (nad 30 kg) alebo od 750 ks prasníc od 55 000 ks do 85 000 ks brojlerov alebo od 25 000 ks do 40 000 ks nosníc
+  - 1. | Zariadenia na intenzívnu živočíšnu výrobu vrátane depónií vedľajších produktov s kapacitou a) hospodárskych zvierat b) ošípaných c) hydiny | od 2 000 ks (nad 30 kg) alebo od 750 ks prasníc od 85 000 ks brojlerov alebo od 40 000 ks nosníc | od 100 VDJ<sup>1</sup>) od 200 ks do 2 000 ks (nad 30 kg) alebo do 750 ks prasníc od 55 000 ks do 85 000 ks brojlerov alebo od 25 000 ks do 40 000 ks nosníc
 
   - 2. | Intenzívny chov rýb | | bez limitu
 
   - 3. | Melioračné zásahy, najmä a) odvodnenie, závlahy, protierózna ochrana pôd, úpravy pozemkovb) lesnícko-technické meliorácie | od 500 ha | od 10 ha do 500 ha od 50 ha len v chránených územiach
 
-  - 4. | Objekty na skladovanie - pesticídov - kvapalných a suspendovaných priemyselných hnojív | od 10 t od 50 kg | bez limitu
+  - 4. | Objekty na skladovanie – pesticídov – kvapalných a suspendovaných priemyselných hnojív | od 10 t od 50 t | bez limitu
 
   - 5. | Kafilérie a veterinárne asanačné ústavy | od 10 t/deň | do 10 t/deň
 
@@ -380,7 +380,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
     - Rezortný orgán:
 
-    - Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky pre položky č. 1 – 15
+    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky pre položky č. 1 – 15
 
     - Ministerstvo životného prostredia Slovenskej republiky pre položku č. 10
 
@@ -420,31 +420,27 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 16. | Rádiolokačné zariadenia primárne | s výkonom od 750 kW a frekvenciou nad 1 GHz |
 
-  - 14. Účelové objekty pre šport, rekreáciu a cestovný ruch
+  - 14. Účelové zariadenia pre šport, rekreáciu a cestovný ruch
 
     - Rezortný orgán:
 
-    - Ministerstvo hospodárstva Slovenskej republiky pre položky č. 1, 3, 4, 5, 7
+    - Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
 
-    - Ministerstvo školstva Slovenskej republiky pre položky č. 2, 4, 5, 6
+    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky
 
-  - Pol. číslo | Činnosť, objekty a zariadenia | Prahové hodnoty |
+  - Pol. číslo | Činnosti, objekty a zariadenia | Prahové hodnoty |
 
   - | | Časť A (povinné hodnotenie) | Časť B (zisťovacie konanie)
 
-  - 1. | Rekreačné areály a súvisiace zariadenia (ubytovacie zariadenia okrem ubytovania v súkromí, stravovacie zariadenia) | v chránených územiach bez limitu | v zastavanom území od 500 ubytovacích miest a od 250 stravovacích miestmimo zastavaného územia od 60 ubytovacích miest a od 100 stravovacích miest
+  - 1. | Športové a rekreačné prístavy | v chránených územiach | neuvedené v časti A
 
-  - 2. | Prístavy na vodné športy (vrátane mól, skladových priestorov, opravárenských dielní a pod.) | od 100 miest pre plavidlá |
+  - 2. | Zjazdové trate, bežecké trate, lyžiarske vleky, skokanské mostíky, lanovky a ostatné zariadenia | | bez limitu
 
-  - 3. | Rekreačné prístavy pre jachty a malé člny | | bez limitu
+  - 3. | Trvalé pretekárske trate a skúšobné trate pre motorové vozidlá | v chránených územiach | neuvedené v časti A
 
-  - 4. | Zjazdové trate, bežecké trate, lyžiarske vleky, skokanské mostíky, lanovky a ostatné zariadenia | umiestnené v chránených územiach | nezahrnuté v časti A bez limitu
+  - 4. | Tematické parky | | bez limitu
 
-  - 5. | Trvalé pretekárske trate a skúšobné trate pre motorové vozidlá | | bez limitu
-
-  - 6. | Športové areály a súvisiace zariadenia (nekryté športové ihriská a kryté budovy pre šport)- nekryté areály a súvisiace zariadenia - kryté budovy pre šport | | od 5 000 m<sup>2</sup> od 2 000 m<sup>2</sup>
-
-  - 7. | Tematické parky | | bez limitu
+  - 5. | Športové a rekreačné areály neuvedené v položkách č. 1 – 4 | | v zastavanom území od 10 000 m<sup>2</sup>mimo zastavaného územia od 5 000 m<sup>2</sup>
 
   - 15. Vojenské stavby
 

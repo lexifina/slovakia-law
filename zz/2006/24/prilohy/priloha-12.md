@@ -52,6 +52,8 @@ Príloha č. 12 k zákonu č. 24/2006 Z. z.
 
     - 5. Požadovaný rozsah poprojektovej analýzy.
 
+    - 6. Informácia pre povoľujúci orgán o zainteresovanej verejnosti.
+
   - VII. Potvrdenie správnosti údajov
 
     - 1. Spracovatelia záverečného stanoviska.
