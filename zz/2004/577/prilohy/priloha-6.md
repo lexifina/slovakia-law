@@ -78,4 +78,4 @@ Príloha č. 6 k zákonu č. 577/2004 Z. z. v znení zákona č. 661/2007 Z. z.
 
   - – hypertenziu nad 16 kPa diastolického tlaku (120 mm Hg).
 
-- [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/a1519991fd77389b9f899e827923909ab5f579f44970ab1417dffc8db1b4e696.pdf)
+- [Príloha č. 6 k zákonu č. 577/2004 Z. z.](../assets/8bf772cf0da81975c5e2c247f01b462ba102d2d3fa9272d81ec17ec0006cb29c.pdf)
