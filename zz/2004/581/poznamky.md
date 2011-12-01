@@ -76,6 +76,8 @@
 
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
+- 24a) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+
 - 25) Zákon č. 577/2004 Z. z.
 
 - 27) § 2 ods. 19 zákona č. 576/2004 Z. z.
