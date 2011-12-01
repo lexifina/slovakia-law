@@ -2802,27 +2802,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) žiadosť o prevod registrácie veterinárneho lieku | 165,50 eura
 
-  - n) žiadosť o zaradenie lieku do zoznamu liekov a o úradné určenie ceny lieku | 132,50 eura
+  - n) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) | 99,50 eura
 
-  - o) žiadosť o zaradenie zdravotníckej pomôcky do zoznamu zdravotníckych pomôcok a o úradné určenie ceny | 132,50 eura
+  - o) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) | 16,50 eura
 
-  - p) žiadosť o zaradenie dietetickej potraviny do zoznamu dietetických potravín a o úradné určenie ceny | 132,50 eura
+  - p) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) | 16,50 eura
 
-  - r) Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) | 99,50 eura
+  - r) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) | 16,50 eura
 
-  - s) Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene m) | 16,50 eura
+  - s) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku | 331,50 eura
 
-  - t) Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) | 16,50 eura
+  - t) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky | 165,50 eura
 
-  - u) Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) | 16,50 eura
+  - u) Žiadosť o zrušenie registrácie veterinárneho lieku s ďalšími požiadavkami | 66 eur
 
-  - v) Vydanie rozhodnutia o povolení klinického skúšania humánneho lieku | 331,50 eura
+  - v) Rozhodovanie o žiadosti o úradné určenie ceny lieku ..... | 200 eur
 
-  - z) Vydanie rozhodnutia o povolení klinického skúšania zdravotníckej pomôcky | 165,50 eura
+  - w)Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku ..... | 200 eur
 
-  - x) Žiadosť o zrušenie registrácie veterinárneho lieku s ďalšími požiadavkami | 66 eur
+  - x) Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou nepatrí do žiadnej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) ..... | 2 100 eur
 
-  - Poznámka 1. Žiadosť o zrušenie registrácie veterinárneho lieku bez ďalších požiadaviek je bez poplatku. 2. Zmena v registrácii podmienená nariadením Európskej komisie je bez poplatku. |
+  - y) Rozhodovanie o žiadosti o zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku (liek, ktorý svojou charakteristikou patrí do niektorej referenčnej skupiny zaradenej v zozname kategorizovaných liekov) ..... | 600 eur
+
+  - z) Rozhodovanie o žiadosti o podmienené zaradenie lieku do zoznamu kategorizovaných liekov a úradné určenie ceny lieku ..... | 3 100 eur
+
+  - aa) Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných zdravotníckych pomôcok a úradné určenie ceny zdravotníckej pomôcky ..... | 300 eur
+
+  - ab) Rozhodovanie o žiadosti o zaradenie zdravotníckej pomôcky do zoznamu kategorizovaných špeciálnych zdravotníckych materiálov a úradné určenie ceny zdravotníckej pomôcky ..... | 300 eur
+
+  - ac) Rozhodovanie o žiadosti o zaradenie dietetickej potraviny do zoznamu kategorizovaných dietetických potravín a úradné určenie ceny dietetickej potraviny ..... | 300 eur
+
+  - ad) Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny lieku zaradeného v zozname kategorizovaných liekov ..... | 600 eur
+
+  - ae) Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných zdravotníckych pomôcok ..... | 300 eur
+
+  - af) Rozhodovanie o žiadosti o zvýšenie úradne určenej ceny zdravotníckej pomôcky zaradenej v zozname kategorizovaných špeciálnych zdravotníckych materiálov ..... | 300 eur
+
+  - ag) Rozhodovanie o žiadosti o zmenu charakteristík referenčnej skupiny ..... | 1 600 eur
+
+  - ah) Rozhodovanie o žiadosti o zmen charakteristík podskupiny zdravotníckych pomôcok ..... | 300 eur
+
+  - ai) Rozhodovanie o žiadosti o zmenu charakteristík podskupiny špeciálnych zdravotníckych materiálov ..... | 300 eur
+
+  - aj) Rozhodovanie o žiadosti o zmenu charakteristík podskupiny dietetických potravín ..... | 300 eur
+
+  - Poznámka 1. Žiadosť o zrušenie registrácie veterinárneho lieku bez ďalších požiadaviek je bez poplatku. 2. Zmena v registrácii podmienená nariadením Európskej komisie je bez poplatku. 3. Úhrada poplatku pre žiadosti podľa písmen v) až aj) musí byť pripísaná na účet Ministerstva zdravotníctva Slovenskej republiky najneskôr siedmy deň odo dňa doručenia žiadosti, inak sa konanie zastaví. 4. Poplatky uhradené za žiadosti podľa písmen v) až aj), konanie o ktorých bolo zastavené, sa nevracajú. |
+
+  - Oslobodenie Od poplatkov podľa písmen ag) až aj) je účastník konania oslobodený, ak predmetom žiadosti je 1. zníženie maximálnej výšky úhrady zdravotnej poisťovne za štandardnú dávku liečiva, 2. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine zdravotníckych pomôcok, 3. zníženie maximálnej výšky úhrady zdravotnej poisťovne za zdravotnícku pomôcku zaradenú v podskupine špeciálnych zdravotníckych materiálov, 4. zníženie maximálnej výšky úhrady zdravotnej poisťovne za jednotku referenčnej dávky dietetickej potraviny, 5. zúženie preskripčného obmedzenia, 6. zúženie indikačného obmedzenia, 7. zníženie množstvového limitu alebo 8. zníženie finančného limitu. |
 
     - Položka 153
 
@@ -2885,6 +2911,20 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - i) Vydanie povolenia na prepravu výbušnín ..... | 33 eur
 
   - j) Vydanie duplikátu alebo predĺženia platnosti povolenia, licencie alebo dovozného certifikátu podľa písmen a) až i) ..... | 16,50 eura
+
+  - k) vydanie globálnej transferovej licencie ..... | 33 eur
+
+  - l) vydanie individuálnej transferovej licencie ..... | 0,1 %, najmenej 33 eur
+
+  - m) vydanie všeobecnej transferovej licencie ..... | 33 eur
+
+  - n) vydanie certifikátu príjemcu výrobkov obranného priemyslu ..... | 333 eur
+
+  - o) vydanie osvedčenia o zápise do registra zberateľov znehodnotených výrobkov obranného priemyslu ..... | 33 eur
+
+  - p) vydanie duplikátu povolenia na obchodovanie s výrobkami obranného priemyslu, vydanie duplikátu licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu, vydanie duplikátu globálnej transferovej licencie, vydanie duplikátu individuálnej transferovej licencie, vydanie duplikátu všeobecnej transferovej licencie, vydanie duplikátu certifikátu príjemcu výrobkov obranného priemyslu, vydanie duplikátu osvedčenia o zápise do registra zberateľov znehodnotených výrobkov obranného priemyslu podľa písmen c), d), k) až o) ..... | 66 eur
+
+  - q) vydanie rozhodnutia o predĺžení platnosti licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu, vydanie rozhodnutia o predĺžení platnosti globálnej transferovej licencie, vydanie rozhodnutia o predĺžení platnosti individuálnej transferovej licencie, vydanie rozhodnutia o predĺžení platnosti všeobecnej transferovej licencie podľa písmen d) a k) až m) ..... | 33 eur
 
   - Splnomocnenie |
 
