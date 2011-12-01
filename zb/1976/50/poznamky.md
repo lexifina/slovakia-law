@@ -18,8 +18,6 @@
 
 - 1fb) § 9 zákona č. 24/2006 Z. z.
 
-- 1fc) Príloha č. 8 zákona č. 24/2006 Z. z.
-
 - 1g) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 1h) § 27 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
