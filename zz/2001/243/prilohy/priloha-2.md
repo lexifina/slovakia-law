@@ -6,7 +6,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
     - 1. Autorizovaná osoba zistí a potvrdí, že vzorka zastupujúca danú výrobu spĺňa ustanovenia medzinárodných dokumentov, ktoré platia pre túto oblasť.
 
-    - 2. Žiadosť o posúdenie zhody vzorky typu predkladá výrobca alebo jeho splnomocnenec, ktorí pôsobia v rámci Európskeho spoločenstva, autorizovanej osobe podľa svojho výberu. Žiadosť obsahuje
+    - 2. Žiadosť o posúdenie zhody vzorky typu predkladá výrobca alebo jeho splnomocnenec, ktorí pôsobia v rámci Európskej únie, autorizovanej osobe podľa svojho výberu. Žiadosť obsahuje
 
       - a) názov a adresu výrobcu, a ak je žiadosť predložená splnomocnencom, aj jeho názov a adresu,
 
@@ -40,11 +40,11 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
     - 8. Ostatné autorizované osoby môžu dostať kópie certifikátov o skúške typu a/alebo ich dodatkov. Prílohy k certifikátom sú k dispozícii ostatným autorizovaným osobám.
 
-    - 9. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskych spoločenstvách uchováva s dokumentáciou kópie certifikátov o skúške typu a ich dodatkov desať rokov po výrobe posledného zariadenia.
+    - 9. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii uchováva s dokumentáciou kópie certifikátov o skúške typu a ich dodatkov desať rokov po výrobe posledného zariadenia.
 
   - II. Posúdenie zhody zariadenia s certifikovaným typom zariadenia (postup c)
 
-    - 1. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve zabezpečí a vyhlási, že príslušné zariadenia sú zhodné s typom tak, ako je opísaný v certifikáte o skúške typu, a že spĺňajú požiadavky medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskych spoločenstvách umiestni značku zhody na všetky zariadenia a vydá vyhlásenie o zhode.
+    - 1. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii zabezpečí a vyhlási, že príslušné zariadenia sú zhodné s typom tak, ako je opísaný v certifikáte o skúške typu, a že spĺňajú požiadavky medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii umiestni značku zhody na všetky zariadenia a vydá vyhlásenie o zhode.
 
     - 2. Výrobca prijme opatrenia nevyhnutné na to, aby zabezpečil, že výrobný proces zaručuje zhodu vyrábaných zariadení s typom opísaným v certifikáte o skúške typu a s požiadavkami medzinárodných dokumentov, ktoré platia v tejto oblasti.
 
@@ -52,7 +52,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
   - III. Posúdenie systému kvality vo výrobe, pri kontrole a pri výstupných skúškach zariadenia (postup d)
 
-    - 1. Výrobca spĺňajúci podmienky bodu 2 zabezpečí a vyhlási, že zariadenia sú zhodné s typom opísaným v certifikáte o skúške typu. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve umiestni značku zhody na každé zariadenie a vydá vyhlásenie o zhode. K značke zhody pripojí identifikačný kód autorizovanej osoby zodpovednej za audit podľa bodu 4.
+    - 1. Výrobca spĺňajúci podmienky bodu 2 zabezpečí a vyhlási, že zariadenia sú zhodné s typom opísaným v certifikáte o skúške typu. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii umiestni značku zhody na každé zariadenie a vydá vyhlásenie o zhode. K značke zhody pripojí identifikačný kód autorizovanej osoby zodpovednej za audit podľa bodu 4.
 
     - 2. Výrobcovi funguje schválený systém kvality vo výrobe, pri kontrole a pri výstupných skúškach podľa bodu 3 (ďalej len „systém kvality“) a podlieha auditu podľa bodu 4.
 
@@ -90,7 +90,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
       - 3.4 Výrobca sa zaviaže plniť úlohy vyplývajúce zo schváleného systému kvality a udržiavať ho tak, aby zostal primeraný a účinný.
 
-        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
+        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
 
         - Autorizovaná osoba vyhodnotí navrhované modifikácie a rozhodne, či modifikovaný systém kvality naďalej spĺňa požiadavky uvedené v bode 3.2, alebo či sa vyžaduje nové hodnotenie.
 
@@ -154,7 +154,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
       - 3.4 Výrobca sa zaviaže plniť úlohy vyplývajúce zo schváleného systému kvality a udržiavať ho tak, aby zostal primeraný a účinný.
 
-        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
+        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
 
         - Autorizovaná osoba vyhodnotí navrhované modifikácie a rozhodne, či modifikovaný systém kvality naďalej spĺňa požiadavky podľa bodu 3.2, alebo či sa vyžaduje nové hodnotenie.
 
@@ -188,7 +188,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
   - V. Overenie zhody s certifikovaným typom každého zariadenia alebo štatisticky vybratej vzorky zariadení (postup f)
 
-    - 1. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve skontroluje a potvrdí, že zariadenia, na ktoré sa vzťahujú ustanovenia bodu 3, sú zhodné s typom opísaným v certifikáte o skúške typu.
+    - 1. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii skontroluje a potvrdí, že zariadenia, na ktoré sa vzťahujú ustanovenia bodu 3, sú zhodné s typom opísaným v certifikáte o skúške typu.
 
     - 2. Výrobca prijme všetky opatrenia potrebné na to, aby výrobný proces zabezpečil zhodu zariadení s typom opísaným v certifikáte o skúške typu. Výrobca umiestni značku zhody na každé zariadenie a vydá vyhlásenie o zhode.
 
@@ -218,7 +218,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
   - VI. Overenie zhody každého zariadenia (postup g)
 
-    - 1. Výrobca zabezpečí a vyhlási, že príslušné zariadenie, na ktoré bol vydaný certifikát podľa bodu 2, je zhodné s požiadavkami medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve umiestni na zariadenie značku zhody a vydá vyhlásenie o zhode.
+    - 1. Výrobca zabezpečí a vyhlási, že príslušné zariadenie, na ktoré bol vydaný certifikát podľa bodu 2, je zhodné s požiadavkami medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii umiestni na zariadenie značku zhody a vydá vyhlásenie o zhode.
 
     - 2. Autorizovaná osoba preskúša jednotlivé zariadenia a vykoná primerané overenia, aby zabezpečila ich zhodu s príslušnými požiadavkami medzinárodných dokumentov.
 
@@ -228,7 +228,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
   - VII. Posúdenie komplexného zabezpečenia systému kvality vrátane osvedčenia o skúške návrhu (postup h)
 
-    - 1. Výrobca, ktorý splnil úlohy podľa bodu 2, zabezpečí a vyhlási, že príslušné zariadenia spĺňajú požiadavky medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve umiestni na zariadenie značku zhody a vydá písomné vyhlásenie o zhode. K značke zhody pripojí identifikačný kód autorizovanej osoby zodpovednej za audit podľa bodu 4.
+    - 1. Výrobca, ktorý splnil úlohy podľa bodu 2, zabezpečí a vyhlási, že príslušné zariadenia spĺňajú požiadavky medzinárodných dokumentov, ktoré platia v tejto oblasti. Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii umiestni na zariadenie značku zhody a vydá písomné vyhlásenie o zhode. K značke zhody pripojí identifikačný kód autorizovanej osoby zodpovednej za audit podľa bodu 4.
 
     - 2. Výrobcovi funguje schválený systém kvality pri návrhu, vo výrobe, pri výstupnej kontrole a skúškach podľa bodu 3 a podlieha auditu podľa bodu 4.
 
@@ -264,7 +264,7 @@ Príloha č. 2 k nariadeniu vlády č. 243/2001 Z. z.
 
       - 3.4 Výrobca sa zaviaže plniť úlohy vyplývajúce zo schváleného systému kvality a udržiavať ho tak, aby zostal primeraný a účinný.
 
-        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskom spoločenstve informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
+        - Výrobca alebo jeho splnomocnenec pôsobiaci v Európskej únii informuje autorizovanú osobu, ktorá schválila systém kvality, o každej zamýšľanej aktualizácii systému kvality.
 
         - Autorizovaná osoba vyhodnotí navrhované modifikácie a rozhodne, či modifikovaný systém kvality naďalej spĺňa požiadavky podľa bodu 3.2, alebo či sa vyžaduje nové hodnotenie.
 

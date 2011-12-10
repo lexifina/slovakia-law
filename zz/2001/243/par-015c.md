@@ -1,3 +1,3 @@
 # § 15c
 
-Týmto nariadením vlády sa preberajú právne akty Európskej únie uvedené v prílohe č. 5.
+Týmto nariadením vlády sa preberajú právne záväzné akty Európskej únie uvedené v prílohe č. 5.
