@@ -476,6 +476,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. Národná súdna správa
 
+    - Kostarická republika
+
+    - Oddelenie legalizácie generálneho riaditeľstva Ministerstva zahraničných vecí (Departamento de Autenticaciones de la Dirección General del Ministerio de Relaciones Exteriores y Culto de Costa Rica)
+
     - Lesotho
 
   - 1. „the Attorney-General"
