@@ -42,9 +42,9 @@
 
   - (3) Povolenie na malý pohraničný styk a cestovný doklad sa v rámci režimu malého pohraničného styku pri prekračovaní spoločnej štátnej hranice vstupnou ani výstupnou pečiatkou neoznačujú.
 
-- Článok 4 Dĺžka pobytu v pohraničnej oblasti
+- Článok 4
 
-  - Dĺžka každého neprerušeného pobytu v režime malého pohraničného styku v pohraničnej oblasti druhej zmluvnej strany je najviac tridsať (30) dní, ale celková dĺžka pobytu na území druhej zmluvnej strany je najviac deväťdesiat (90) dní v rámci stoosemdesiatich (180) dní.
+  - Maximálna dĺžka neprerušeného pobytu na základe režimu malého pohraničného styku v pohraničnej oblasti druhej zmluvnej strany je najviac deväťdesiat (90) dní v rámci stoosemdesiatich (180) dní.
 
 - Článok 5 Miesta na prekračovanie spoločnej štátnej hranice v rámci režimu malého pohraničného styku Spoločnú štátnu hranicu zmluvných strán je možné v rámci režimu malého pohraničného styku prekračovať cez hraničné priechody uvedené:
 
@@ -82,7 +82,7 @@
 
     - b) na ukrajinskej zmluvnej strane Generálny konzulát Ukrajiny v Prešove.
 
-  - (7) Príslušné orgány zmluvných strán uvedené v odsekoch 5 a 6 vydajú povolenie na malý pohraničný styk žiadateľovi v najkratšom možnom čase, ale najneskôr do šesťdesiatich (60) dní odo dňa podania žiadosti; výnimočne v mimoriadne zložitých prípadoch možno túto lehotu predĺžiť na deväťdesiat (90) dní.
+  - (7) Príslušné orgány zmluvných strán uvedené v odsekoch 5 a 6 vydajú povolenie na malý pohraničný styk žiadateľovi v najkratšom možnom čase, najneskôr do tridsiatich (30) dní odo dňa podania žiadosti; výnimočne v mimoriadne zložitých prípadoch možno túto lehotu predĺžiť na šesťdesiat (60) dní.
 
   - (8) Orgán vydávajúci povolenie na malý pohraničný styk povolenie nevydá, ak žiadateľ nepreukáže dôvody na jeho vydanie podľa článku 2 písm. a) tejto zmluvy alebo ak nespĺňa podmienky podľa článku 3 ods. 1 písm. b) tejto zmluvy.
 
@@ -108,13 +108,7 @@
 
     - j) poznámku, že držiteľ nie je oprávnený pohybovať sa mimo pohraničnej oblasti a že akékoľvek zneužitie povolenia podlieha sankciám podľa vnútroštátnych právnych predpisov zmluvnej strany, ktorá povolenie na malý pohraničný styk vydala.
 
-  - (10) Poplatok za administratívne spracovanie žiadosti o povolenie na malý pohraničný styk je dvadsať (20) EUR a uhrádza sa pri podaní žiadosti. Ak sa povolenie na malý pohraničný styk nevydá, poplatok sa nevracia. Od platenia poplatku sú oslobodené:
-
-    - a) osoby, ktorých jediným príjmom je invalidný dôchodok,
-
-    - b) deti do pätnásť (15) rokov,
-
-    - c) osoby staršie ako šesťdesiat (60) rokov.
+  - (10) Administratívne spracovanie žiadosti o povolenie na malý pohraničný styk je bezplatné a zmluvné strany vydajú povolenie na malý pohraničný styk bezplatne.
 
   - (11) Čas platnosti povolenia na malý pohraničný styk je najmenej jeden (1) rok a najviac päť (5) rokov. Čas platnosti povolenia na malý pohraničný styk určia orgány uvedené v odseku 6.
 
@@ -133,6 +127,10 @@
 - Článok 8 Porovnateľnosť zaobchádzania
 
   - Zmluvné strany sa dohodli, že so štátnymi občanmi druhej zmluvnej strany, s osobami, ktoré požívajú právo Spoločenstva na voľný pohyb, so štátnymi občanmi tretích krajín a s osobami bez štátnej príslušnosti s oprávneným pobytom v príslušnej pohraničnej oblasti tejto zmluvnej strany zaobchádzajú aspoň tak, ako zaobchádzajú s obyvateľmi pohraničnej oblasti svojho štátu.
+
+- Článok 8a
+
+  - Akýkoľvek rozdiel alebo spor vyplývajúci z interpretácie alebo vykonávania ustanovení tejto zmluvy riešia zmluvné strany diplomatickou cestou alebo rokovaniami medzi príslušnými orgánmi zmluvných strán.
 
 - Článok 9 Všeobecné ustanovenia
 
