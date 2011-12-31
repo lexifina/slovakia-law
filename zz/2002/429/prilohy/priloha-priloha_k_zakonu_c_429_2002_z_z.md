@@ -1,6 +1,6 @@
 Príloha k zákonu č. 429/2002 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNYCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 2001/34/ES z 28. mája 2001 o prijímaní cenných papierov na kótovanie na burze cenných papierov a o informáciách, ktoré sa o týchto cenných papieroch musia zverejňovať (Ú. v. ES L 184, 6. 7. 2001, Mimoriadne vydanie Ú. v. EÚ 6/zv. 4), v znení smernice Európskeho parlamentu a Rady 2003/6/ES (Ú. v. EÚ L 96, 12. 4. 2003, Mimoriadne vydanie Ú. v. EÚ 6/zv. 4) v znení smernice 2003/71/ES Európskeho parlamentu a Rady zo 4. novembra 2003 (Ú. v. EÚ L 345, 31. 12. 2003, Mimoriadne vydanie Ú. v. EÚ 6/zv. 6).
 
@@ -19,3 +19,7 @@ Príloha k zákonu č. 429/2002 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
 
   - 9. Smernica Európskeho parlamentu a Rady 2007/36/ES z 11. júla 2007 o výkone určitých práv akcionárov spoločností registrovaných na regulovanom trhu (Ú. v. EÚ L 184/17, 14. 7. 2007).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2010/73/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2003/71/ES o prospekte, ktorý sa zverejňuje pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie, a 2004/109/ES o harmonizácii požiadaviek na transparentnosť v súvislosti s informáciami o emitentoch, ktorých cenné papiere sú prijaté na obchodovanie na regulovanom trhu (Ú. v. EÚ L 327, 11. 12. 2010).
+
+  - 11. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).
