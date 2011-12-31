@@ -8,7 +8,9 @@
 
 - b) postupy na zabezpečenie dostatočnej výšky vlastných zdrojov, ktoré zahŕňajú možný vplyv podnikateľskej stratégie na rizikový profil a na vlastné zdroje banky a inštitúcie elektronických peňazí,
 
-- c) postupy na sledovanie rizík a opatrenia zabezpečujúce sledovanie a kontrolu rizík na úrovni finančného konglomerátu.
+- c) postupy na sledovanie rizík a opatrenia zabezpečujúce sledovanie a kontrolu rizík na úrovni finančného konglomerátu,
+
+- d) opatrenia s cieľom prípravy a rozvíjania vhodných plánov a postupov na ozdravenie a riešenie úpadku; tieto opatrenia musia byť pravidelne aktualizované.
 
 (3) Systém vnútornej kontroly na účely doplňujúceho dohľadu zahŕňa
 

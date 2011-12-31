@@ -56,6 +56,10 @@
 
 - 18a) § 63 zákona č. 492/2009 Z. z.
 
+- 18aa) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 18ab) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+
 - 19) § 21 ods. 2 písm. d) a § 21a až 21c zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
 
 - 20) § 25 až 49 zákona č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
@@ -172,9 +176,23 @@
 
 - 44) § 6 ods. 4 a 5 a § 22 ods. 2 zákona č. 431/2002 Z. z.
 
+- 44a) Čl. 28 nariadenia (EÚ) č. 1093/2010.
+
 - 45) § 36 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
 - 45a) § 49 ods. 5 písm. c) zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+
+- 45aa) Čl. 18 nariadenia (EÚ) č. 1093/2010.
+
+- 45ab) Čl. 35 nariadenia (EÚ) č. 1093/2010.
+
+- 45ac) Čl. 21 nariadenia (EÚ) č. 1093/2010.
+
+- 45ad) Čl. 54 nariadenia (EÚ) č. 1093/2010.
+
+- Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 45b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -183,6 +201,14 @@
 - Zákon č. 510/2002 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 594/2003 Z. z.
+
+- 45c) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1094/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1095/2010.
+
+- 45d) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
