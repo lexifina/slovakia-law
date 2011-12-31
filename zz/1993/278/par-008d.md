@@ -1,6 +1,6 @@
 # § 8d
 
-(1) Register je verejne prístupná evidencia nehnuteľného majetku štátu, ktorý bol vyhlásený za prebytočný a je predmetom osobitného ponukového konania alebo elektronickej aukcie. Register vedie ministerstvo financií a zverejňuje ho na svojom webovom sídle. Cenovú ponuku nemožno uplatniť prostredníctvom registra.
+(1) Register je verejne prístupná evidencia hnuteľného majetku štátu, ktorého obstarávacia cena<sup>9a</sup>) alebo reprodukčná obstarávacia cena<sup>9a</sup>) je vyššia ako 10 000 eur, hnuteľného majetku štátu, ktorý určí zriaďovateľ svojím opatrením a nehnuteľného majetku štátu, ktorý bol vyhlásený za prebytočný a je predmetom osobitného ponukového konania alebo elektronickej aukcie. Register vedie ministerstvo financií a zverejňuje ho na svojom webovom sídle. Cenovú ponuku nemožno uplatniť prostredníctvom registra.
 
 (2) Register obsahuje
 

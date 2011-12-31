@@ -62,7 +62,7 @@
 
 - 13ad) § 2 ods. 2 a 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
-- 13b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 86/2002 Z. z. o stanovení všeobecnej hodnoty majetku.
+- 13b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
 - 13c) Napr. § 140 Občianskeho zákonníka.
 
