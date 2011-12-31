@@ -33,3 +33,5 @@ Príloha č. 2 k zákonu č. 8/2008 Z. z.
   - 15. Smernica Európskeho parlamentu a Rady 2005/68/ES zo 16. novembra 2005 o zaistení, ktorou sa menia a dopĺňajú smernice Rady 73/239/EHS, 92/49/EHS, ako aj smernice 98/78/ES a 2002/83/ES (Ú. v. EÚ L 323, 9. 12. 2005).
 
   - 16. Smernica Európskeho parlamentu a Rady 2007/44/ES z 5. septembra 2007, ktorou sa mení a dopĺňa smernica Rady 92/49/EHS a smernice 2002/83/ES, 2004/39/ES, 2005/68/ES a 2006/48/ES v súvislosti s procesnými pravidlami a kritériami hodnotenia obozretného posudzovania nadobudnutí a zvýšení podielov vo finančnom sektore (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 17. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).

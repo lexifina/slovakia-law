@@ -134,7 +134,21 @@
 
 - 56) § 25 ods. 7 zákona č. 483/2001 Z. z.
 
+- 56a) Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- Čl. 54 nariadenie Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- Čl. 54 nariadenie Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 56b) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1094/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1095/2010.
+
 - 57) § 35 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 57a) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 59) Zákon č. 381/2001 Z. z. v znení neskorších predpisov.
 
