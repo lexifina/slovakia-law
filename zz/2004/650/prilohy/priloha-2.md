@@ -19,3 +19,5 @@ Príloha č. 2 k zákonu č. 650/2004 Z. z.
   - 8. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Ú. v. ES L 82, 22. 3. 2001).
 
   - 9. Smernica Európskeho parlamentu a Rady 2003/41/ES z 3. júna 2003 o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia (Ú. v. EÚ L 235, 23. 9. 2003).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).

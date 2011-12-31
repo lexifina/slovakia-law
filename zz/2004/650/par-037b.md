@@ -17,3 +17,5 @@
 - c) oddelila od ostatného majetku.
 
 (4) Zamestnanecká dôchodková spoločnosť môže začať vykonávať činnosť na území Slovenskej republiky až po doručení oznámenia podľa odseku 2 príslušnému orgánu jej domovského členského štátu, alebo po márnom uplynutí lehoty dvoch mesiacov od doručenia oznámenia príslušného orgánu jej domovského členského štátu podľa odseku 1 Národnej banke Slovenska.
+
+(5) Národná banka Slovenska po dohode s Ministerstvom práce, sociálnych vecí a rodiny Slovenskej republiky oznamuje najmenej raz za dva roky Európskemu orgánu dohľadu (Európskemu orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) pravidlá vykonávania doplnkového dôchodkového sporenia. Predmetom oznámenia nie sú predpisy sociálneho práva a pracovného práva, ktoré upravujú zamestnanecké dôchodkové zabezpečenie na území Slovenskej republiky.
