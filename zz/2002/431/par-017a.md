@@ -17,3 +17,5 @@
 (5) Účtovná jednotka uvedená v odsekoch 1 až 3, ktorá začne zostavovať individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) zostavuje takúto účtovnú závierku aj keď zaniknú podmienky uvedené v odsekoch 1 až 3.
 
 (6) Na účtovné jednotky podľa odsekov 1 a 2 sa vzťahuje tento zákon, ak osobitné predpisy<sup>22a</sup>) neustanovujú inak; to platí aj pre účtovné jednotky podľa odseku 3, ak sa rozhodnú zostavovať individuálnu účtovnú závierku podľa osobitných predpisov.<sup>22a</sup>)
+
+(7) Účtovná jednotka zostavujúca účtovnú závierku podľa odsekov 1 až 6 je povinná zostaviť výkaz vybraných údajov z účtovnej závierky. Rozsah, spôsob, miesto a termíny ukladania výkazu vybraných údajov z účtovnej závierky ustanoví ministerstvo opatrením. Opatrenie vyhlasuje ministerstvo oznámením o jeho vydaní v Zbierke zákonov Slovenskej republiky.
