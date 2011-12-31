@@ -1,6 +1,6 @@
 # § 8a Osobitné ponukové konanie
 
-(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v dennej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného nehnuteľného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
+(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v dennej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
 
 (2) Správca
 
@@ -18,7 +18,7 @@
 
 (4) Správca prevedie majetok štátu záujemcovi, ktorý v osobitnom ponukovom konaní ponúkne najvyššiu cenu. Ak záujemca, ktorý ponúkol v osobitnom ponukovom konaní najvyššiu cenovú ponuku, odstúpi od uzavretia zmluvy o prevode majetku štátu, správca môže vyzvať na uzavretie zmluvy o prevode majetku štátu v poradí ďalšieho záujemcu s cenovou ponukou vo výške aspoň primeranej ceny. Ak cenová ponuka žiadneho záujemcu nedosiahne výšku primeranej ceny, je správca povinný opakovať osobitné ponukové konanie.
 
-(5) Za primeranú cenu sa na účely tohto zákona pri prevode nehnuteľných vecí štátu považuje všeobecná hodnota majetku podľa osobitného predpisu.<sup>13b</sup>)
+(5) Na účely tohto zákona sa za primeranú cenu považuje všeobecná hodnota majetku stanovená podľa osobitného predpisu.<sup>13b</sup>)
 
 (6) Správca nie je povinný vykonať osobitné ponukové konanie pri prevode
 
@@ -50,4 +50,4 @@
 
 (9) Ak aj vyšší územný celok do 30 dní od doručenia ponuky nezašle písomné stanovisko, v ktorom prejaví záujem takýto majetok prevziať za ponúknutú cenu, môže ho správca previesť do vlastníctva alebo správy inej právnickej osoby alebo fyzickej osoby, ktorá sa zúčastnila na osobitnom ponukovom konaní a ktorá ponúkla najvyššiu cenu, najmenej však za primeranú cenu podľa odseku 5 zníženú o 50 %. Na vyhodnotenie ponúknutých cien sa vzťahuje odsek 3.
 
-(10) Pri prevode majetku štátu podľa odsekov 8 a 9 sa § 11 ods. 4 nepoužije.
+(10) Pri prevode nehnuteľného majetku štátu podľa odsekov 8 a 9 sa § 11 ods. 4 nepoužije. Pri prevode hnuteľného majetku štátu v rámci osobitného ponukového konania sa odseky 8 a 9 nepoužijú.
