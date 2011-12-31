@@ -436,6 +436,8 @@
 
 - 108a) Zákon č. 428/2002 Z. z.
 
+- 108b) Čl. 21 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
+
 - 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
 
 - 109a) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
@@ -452,9 +454,23 @@
 
 - 110b) Napríklad zákon č. 594/2003 Z. z.
 
+- 110ba) Čl. 54 nariadenia (EÚ) č. 1095/2010.
+
+- Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
 - 110c) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
 
+- 110ca) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1094/2010.
+
+- Čl. 19 nariadenia (EÚ) č. 1095/2010.
+
 - 110d) § 35 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 110da) Čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
@@ -471,6 +487,8 @@
 - 114a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 114aa) § 10 ods. 5 zákona č. 747/2004 Z. z.
+
+- 114b) § 1 až 24, 39a, 39b, § 59 až 64 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
 

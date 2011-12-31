@@ -6,7 +6,7 @@
 
 (3) Cieľová spoločnosť je povinná zaobchádzať rovnako so všetkými vzájomne si konkurujúcimi navrhovateľmi.
 
-(4) Predstavenstvo cieľovej spoločnosti je povinné bez zbytočného odkladu písomne informovať navrhovateľa pôvodnej ponuky na prevzatie o doručení konkurenčnej ponuky na prevzatie.
+(4) Predstavenstvo cieľovej spoločnosti je povinné bezodkladne písomne informovať navrhovateľa pôvodnej ponuky na prevzatie o doručení konkurenčnej ponuky na prevzatie.
 
 (5) Konkurenčná ponuka na prevzatie musí byť zverejnená aspoň päť pracovných dní pred skončením platnosti pôvodnej ponuky na prevzatie a lehota jej platnosti musí byť rovnako dlhá ako lehota platnosti pôvodnej ponuky na prevzatie, najmenej však desať pracovných dní.
 

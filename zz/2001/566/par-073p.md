@@ -4,7 +4,7 @@
 
 (2) Stratégia vykonávania pokynov musí obsahovať vo vzťahu ku každému druhu finančného nástroja informácie o miestach výkonu, na ktorých obchodník s cennými papiermi vykonáva pokyny svojich klientov, a skutočnosti ovplyvňujúce výber miesta výkonu. Stratégia vykonávania pokynov musí obsahovať aspoň tie miesta výkonu, ktoré trvale umožňujú obchodníkovi s cennými papiermi získavať najlepší možný výsledok pri vykonávaní pokynov klienta.
 
-(3) Obchodník s cennými papiermi je povinný poskytnúť svojim klientom príslušné informácie o svojej stratégii vykonávania pokynov a pred poskytnutím investičnej služby získať ich predchádzajúci súhlas so stratégiou vykonávania pokynov. Ak ide o neprofesionálnych klientov, je obchodník s cennými papiermi povinný poskytnúť klientovi na trvanlivom médiu alebo prostredníctvom internetovej stránky spĺňajúcej kritériá podľa § 73v v primeranom časovom predstihu pred poskytnutím investičnej služby tieto informácie:
+(3) Obchodník s cennými papiermi je povinný poskytnúť svojim klientom príslušné informácie o svojej stratégii vykonávania pokynov a pred poskytnutím investičnej služby získať ich predchádzajúci súhlas so stratégiou vykonávania pokynov. Ak ide o neprofesionálnych klientov, je obchodník s cennými papiermi povinný poskytnúť klientovi na trvanlivom médiu alebo prostredníctvom webového sídla spĺňajúceho kritériá podľa § 73v v primeranom časovom predstihu pred poskytnutím investičnej služby tieto informácie:
 
 - a) posúdenie dôležitosti, ktorú obchodník s cennými papiermi v súlade s § 73o ods. 2 prikladá kritériám uvedeným v § 73o ods. 1, alebo postup, ktorým určuje dôležitosť týchto kritérií,
 

@@ -10,4 +10,4 @@
 
 (5) Navrhovateľ nesmie oznámiť uzatvorenie zmluvy pred uplynutím lehoty platnosti ponuky na prevzatie.
 
-(6) Bez zbytočného odkladu po splnení oznamovacích povinností voči osobám, ktoré prijali ponuku na prevzatie, alebo po márnom uplynutí lehoty podľa odseku 3 navrhovateľ zverejní súhrnné oznámenie o výsledkoch ponuky na prevzatie a zašle ho cieľovej spoločnosti.
+(6) Bezodkladne po splnení oznamovacích povinností voči osobám, ktoré prijali ponuku na prevzatie, alebo po márnom uplynutí lehoty podľa odseku 3 navrhovateľ zverejní súhrnné oznámenie o výsledkoch ponuky na prevzatie a zašle ho cieľovej spoločnosti.

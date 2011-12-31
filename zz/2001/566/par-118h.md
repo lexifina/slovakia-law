@@ -4,7 +4,7 @@
 
 (2) Rozhodnutie valného zhromaždenia podľa odseku 1 a odvolanie tohto rozhodnutia sa prijíma a vyhotovuje za podmienok podľa osobitného predpisu.<sup>100</sup>)
 
-(3) Predstavenstvo cieľovej spoločnosti rozhodnutie valného zhromaždenia podľa odseku 1 bez zbytočného odkladu zverejní a oznámi Národnej banke Slovenska a orgánom dohľadu všetkých členských štátov, v ktorých boli akcie cieľovej spoločnosti prijaté na obchodovanie na regulovanom trhu alebo v ktorých bola podaná žiadosť o prijatie týchto akcií na obchodovanie na regulovanom trhu.
+(3) Predstavenstvo cieľovej spoločnosti rozhodnutie valného zhromaždenia podľa odseku 1 bezodkladne zverejní a oznámi Národnej banke Slovenska a orgánom dohľadu všetkých členských štátov, v ktorých boli akcie cieľovej spoločnosti prijaté na obchodovanie na regulovanom trhu alebo v ktorých bola podaná žiadosť o prijatie týchto akcií na obchodovanie na regulovanom trhu.
 
 (4) Na základe rozhodnutia podľa odseku 1 od zverejnenia ponuky na prevzatie do uplynutia lehoty platnosti ponuky na prevzatie sú voči navrhovateľovi pre prevody v rámci ponuky na prevzatie neúčinné obmedzenia prevoditeľnosti akcií cieľovej spoločnosti určené v stanovách cieľovej spoločnosti alebo v zmluvách medzi cieľovou spoločnosťou a jej akcionármi alebo medzi akcionármi cieľovej spoločnosti navzájom.
 

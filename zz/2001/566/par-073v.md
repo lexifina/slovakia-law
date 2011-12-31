@@ -6,16 +6,16 @@
 
 - b) ak osoba, ktorej sa majú poskytnúť informácie, si z ponuky medzi informáciami poskytnutými v listinnej forme alebo na inom trvanlivom médiu zvolila túto formu poskytnutia informácií.
 
-(2) Ak podľa § 73d a § 73p ods. 3 obchodník s cennými papiermi poskytuje klientovi informácie na internetovej stránke a tieto informácie nie sú určené osobne tomuto klientovi, je povinný zabezpečiť splnenie týchto podmienok:
+(2) Ak podľa § 73d a § 73p ods. 3 obchodník s cennými papiermi poskytuje klientovi informácie na webovom sídle a tieto informácie nie sú určené osobne tomuto klientovi, je povinný zabezpečiť splnenie týchto podmienok:
 
 - a) poskytovanie týchto informácií touto formou je vhodné vzhľadom na súvislosti, za ktorých sa uskutočňuje alebo má uskutočňovať obchodný vzťah medzi obchodníkom s cennými papiermi a klientom,
 
 - b) klient musí výslovne súhlasiť s poskytovaním týchto informácií v tejto forme,
 
-- c) klientovi musí byť oznámená elektronickou formou adresa internetovej stránky a miesto na internetovej stránke, kde sú informácie k dispozícii,
+- c) klientovi musí byť oznámená elektronickou formou adresa webového sídla a miesto na webovom sídle, kde sú informácie k dispozícii,
 
 - d) informácie musia byť aktualizované,
 
-- e) informácie musia byť prístupné na internetovej stránke trvale počas doby, ktorá je pre klienta potrebná na ich prehliadanie.
+- e) informácie musia byť prístupné na webovom sídle trvale počas doby, ktorá je pre klienta potrebná na ich prehliadanie.
 
 (3) Na účely odsekov 1 a 2 sa poskytovanie informácií prostredníctvom prostriedkov elektronickej komunikácie považuje za vhodné vzhľadom na súvislosti, za ktorých sa uskutočňuje alebo má uskutočňovať obchodný vzťah medzi obchodníkom s cennými papiermi a klientom, ak existuje dôkaz o tom, že klient má pravidelný prístup k internetu. Poskytnutie e-mailovej adresy klientom sa považuje za takýto dôkaz.

@@ -2,11 +2,11 @@
 
 # § 125d
 
-(1) Ak sa verejná ponuka cenných papierov alebo prijatie na obchodovanie na regulovanom trhu uskutočňuje aj v inom členskom štáte alebo len v inom členskom štáte, prospekt schválený Národnou bankou Slovenska a jeho dodatky sú platné pre verejnú ponuku cenných papierov alebo prijatie na obchodovanie na regulovanom trhu v hostiteľských členských štátoch emitenta, ak bol príslušný orgán dohľadu každého hostiteľského členského štátu informovaný podľa § 125e; tým nie je dotknuté ustanovenie § 135b.
+(1) Ak sa verejná ponuka cenných papierov alebo prijatie na obchodovanie na regulovanom trhu uskutočňuje aj v inom členskom štáte alebo len v inom členskom štáte, prospekt schválený Národnou bankou Slovenska a jeho dodatky sú platné pre verejnú ponuku cenných papierov alebo prijatie na obchodovanie na regulovanom trhu v hostiteľských členských štátoch emitenta, ak boli Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a príslušný orgán dohľadu každého hostiteľského členského štátu informovaní podľa § 125e; tým nie je dotknuté ustanovenie § 135b.
 
 (2) Verejnú ponuku cenných papierov alebo prijatie na obchodovanie na regulovanom trhu možno uskutočniť na území Slovenskej republiky aj na základe prospektu a jeho dodatkov schválených príslušným orgánom dohľadu domovského členského štátu emitenta, a ak bola Národná banka Slovenska informovaná podľa § 125e; v takom prípade Národná banka Slovenska prospekt neschvaľuje.
 
-(3) Ak Národná banka Slovenska zistí alebo ak bola upozornená príslušným orgánom dohľadu hostiteľského členského štátu emitenta, že sa od schválenia prospektu vyskytli nové významné skutočnosti, vecné chyby alebo nepresnosti uvedené v § 125c, je povinná vyžadovať, aby sa zverejnil dodatok k prospektu schválený podľa § 125.
+(3) Ak Národná banka Slovenska zistí alebo ak bola upozornená príslušným orgánom dohľadu hostiteľského členského štátu emitenta alebo Európskym orgánom dohľadu (Európskym orgánom pre cenné papiere a trhy), že sa od schválenia prospektu vyskytli nové významné skutočnosti, podstatné chyby alebo podstatné nepresnosti uvedené v § 125c, je povinná vyžadovať, aby sa zverejnil dodatok k prospektu schválený podľa § 125.
 
 (4) Ak Národná banka Slovenska zistí, že sa vyskytli nové významné skutočnosti, vecné chyby alebo nepresnosti podľa § 125c týkajúce sa prospektu používaného na území Slovenskej republiky, ktorý schválil príslušný orgán dohľadu iného členského štátu, môže upozorniť príslušný orgán domovského členského štátu emitenta na nevyhnutnosť aktualizácie údajov v prospekte používanom na území Slovenskej republiky.
 

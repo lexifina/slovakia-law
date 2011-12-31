@@ -22,11 +22,11 @@
 
 (4) Centrálny depozitár zriadi držiteľský účet na základe písomnej žiadosti osoby podľa odseku 3 a v súlade s ustanoveniami prevádzkového poriadku.
 
-(5) Po zriadení držiteľského účtu oznámi centrálny depozitár bez zbytočného odkladu osobe podľa odseku 3 číselné označenie tohto účtu.
+(5) Po zriadení držiteľského účtu oznámi centrálny depozitár bezodkladne osobe podľa odseku 3 číselné označenie tohto účtu.
 
 (6) Právne vzťahy medzi osobou podľa odseku 3, na základe žiadosti ktorej bol držiteľský účet zriadený, a centrálnym depozitárom sa spravujú týmto zákonom a Obchodným zákonníkom.
 
-(7) Centrálny depozitár je povinný odovzdať osobe podľa odseku 3 výpis z držiteľského účtu bez zbytočného odkladu vždy po tom, čo vykoná účtový zápis v prospech alebo na ťarchu tohto držiteľského účtu, ak sa nedohodnú inak, alebo na žiadosť osoby podľa odseku 3.
+(7) Centrálny depozitár je povinný odovzdať osobe podľa odseku 3 výpis z držiteľského účtu bezodkladne vždy po tom, čo vykoná účtový zápis v prospech alebo na ťarchu tohto držiteľského účtu, ak sa nedohodnú inak, alebo na žiadosť osoby podľa odseku 3.
 
 (8) Výpis z držiteľského účtu pri vykonaní účtového zápisu v prospech alebo na ťarchu tohto držiteľského účtu obsahuje údaje o cenných papieroch, ktorých sa zmena týka, a to pred vykonaním účtového zápisu a po jeho vykonaní s uvedením počtu kusov cenných papierov podľa jednotlivých druhov, emitentov a emisií vrátane ich podielu z príslušnej emisie. Výpis z držiteľského účtu vypracovaný na žiadosť osoby podľa odseku 3 obsahuje počet kusov cenných papierov podľa jednotlivých druhov, emitentov a emisií vrátane ich podielu z príslušnej emisie.
 

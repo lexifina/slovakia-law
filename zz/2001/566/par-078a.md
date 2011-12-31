@@ -6,7 +6,7 @@
 
 (3) Na účely výpočtu štandardného trhového objemu sa akcie musia zoskupiť do tried na základe hodnoty aritmetického priemeru pokynov vykonaných na trhu pre túto akciu. Štandardný trhový objem pre každú triedu akcií je objem predstavujúci hodnotu aritmetického priemeru pokynov vykonaných na trhu, ak ide o akcie nachádzajúce sa v každej triede akcií. Trh pre každú akciu pozostáva zo všetkých pokynov vykonaných v Európskej únii s touto akciou okrem tých, ktoré sú veľké v porovnaní so štandardným trhovým objemom pre túto akciu.
 
-(4) Ak bola Národná banka Slovenska určená ako príslušný orgán najvýznamnejšieho trhu, pokiaľ ide o likviditu podľa § 78, určí pre každú akciu minimálne raz do roka na základe hodnoty aritmetického priemeru pokynov vykonaných na trhu v prípade tejto akcie triedu akcií, do ktorej patrí podľa osobitného predpisu.<sup>60k</sup>) Túto informáciu zverejní na svojej internetovej stránke.
+(4) Ak bola Národná banka Slovenska určená ako príslušný orgán najvýznamnejšieho trhu, pokiaľ ide o likviditu podľa § 78, určí pre každú akciu minimálne raz do roka na základe hodnoty aritmetického priemeru pokynov vykonaných na trhu v prípade tejto akcie triedu akcií, do ktorej patrí podľa osobitného predpisu.<sup>60k</sup>) Národná banka Slovenska túto informáciu zverejní na svojom webovom sídle a oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).
 
 (5) Systematický internalizátor je povinný pravidelne a priebežne zverejňovať svoje kotácie počas svojich obvyklých obchodných hodín. Je oprávnený kedykoľvek aktualizovať svoje kotácie. Ak ide o neobvyklé trhové podmienky, môže zrušiť svoje kotácie.
 

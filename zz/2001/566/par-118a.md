@@ -6,7 +6,7 @@
 
 (3) Odvolanie ponuky na prevzatie a zmena ponuky na prevzatie podliehajú schváleniu Národnej banky Slovenska. Na konania o odvolaní ponuky na prevzatie a zmene ponuky na prevzatie sa primerane vzťahuje § 117. Národná banka Slovenska môže zakázať odvolanie ponuky na prevzatie alebo zmenu ponuky na prevzatie aj vtedy, ak by to mohlo viesť k negatívnemu ovplyvneniu činnosti cieľovej spoločnosti, jej zaťažovaniu ponukou na prevzatie na neprimerane dlhú dobu alebo k negatívnemu ovplyvneniu trhu s cennými papiermi.
 
-(4) Zmenu ponuky na prevzatie alebo odvolanie ponuky na prevzatie vrátane údaja týkajúceho sa ich schválenia navrhovateľ bez zbytočného odkladu zverejní podľa § 115 ods. 1. Účinky odvolania ponuky na prevzatie a účinky zmeny ponuky na prevzatie nastávajú ich zverejnením.
+(4) Zmenu ponuky na prevzatie alebo odvolanie ponuky na prevzatie vrátane údaja týkajúceho sa ich schválenia navrhovateľ bezodkladne zverejní podľa § 115 ods. 1. Účinky odvolania ponuky na prevzatie a účinky zmeny ponuky na prevzatie nastávajú ich zverejnením.
 
 (5) Zmena ponuky na prevzatie, ktorá zlepšuje podmienky pôvodnej ponuky na prevzatie, sa vzťahuje aj na akcionárov cieľovej spoločnosti, ktorí prijali ponuku na prevzatie pred zverejnením jej zmeny; tí však môžu až do uplynutia lehoty platnosti ponuky na prevzatie predĺženej podľa odseku 2 odvolať prijatie pôvodnej ponuky na prevzatie a odstúpiť od zmluvy uzatvorenej v dôsledku tohto prijatia.
 
