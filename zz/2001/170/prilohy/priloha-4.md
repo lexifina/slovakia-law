@@ -8,10 +8,10 @@ Príloha č. 4 k zákonu č. 170/2001 Z. z.
 
   - 3. Výška poplatku sa zaokrúhľuje na celé eurá smerom nahor.
 
-  - 4. Sadzba poplatku pre vybrané ropné výrobky sa ustanovuje takto:
+- 4. | Sadzba poplatku pre vybrané ropné výrobky sa ustanovuje takto: | |
 
-  - a) motorový benzín a palivo pre tryskové motory benzínového typu kódu kombinovanej nomenklatúry 2710 11 31, 2710 11 41, 2710 11 45, 2710 11 49 a 2710 11 70 ................................................ 19,65 eura za 1 000 litrov,
+- | a) | motorový benzín a palivo pre tryskové motory benzínového typu kódu kombinovanej nomenklatúry 2710 12 31, 2710 12 41, 2710 12 45, 2710 12 49 a 2710 12 70 | ..... 19,65 eura za 1 000 litrov,
 
-  - b) motorová nafta, petrolej, letecký petrolej a ostatné plynové oleje kódu kombinovanej nomenklatúry 2710 19 21, 2710 19 25, 2710 19 29, 2710 19 41, 2710 19 45 .................................................. 19,65 eura za 1 000 litrov,
+- | b) | motorová nafta, petrolej, letecký petrolej a ostatné plynové oleje kódu kombinovanej nomenklatúry 2710 19 21, 2710 19 25, 2710 19 29, 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 15, 2710 20 17 a 2710 20 19 | ..... 19,65 eura za 1 000 litrov,
 
-  - c) vykurovacie oleje kódu kombinovanej nomenklatúry 2710 19 61, 2710 19 63, 2710 19 65 a 2710 19 69 ....................................................................................................................19,65 eura za 1 000 kilogramov.
+- | c) | vykurovacie oleje kódu kombinovanej nomenklatúry 2710 19 62, 2710 19 64, 2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39 a 2710 20 90 | ..... 19,65 eura za 1 000 kilogramov.

@@ -34,9 +34,11 @@
 
 - 9h) § 40 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 511/1992 Zb. v znení neskorších predpisov.
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
 - 9i) § 15 zákona č. 98/2004 Z. z. v znení neskorších predpisov.
+
+- 9ia) § 79 ods. 7 zákona č. 563/2009 Z. z.
 
 - 9j) Zákon č. 511/1992 Zb. v znení neskorších predpisov.
 

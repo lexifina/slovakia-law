@@ -14,19 +14,9 @@
 
 (3) Podnikateľ podľa odseku 2 je povinný na účel úhrady poplatku podľa odseku 1 uviesť údaje o množstve dovezených vybraných ropných výrobkov v daňovom priznaní, ktoré podáva podľa osobitného predpisu,<sup>9e</sup>) a v lehote na zaplatenie spotrebnej dane podľa osobitného predpisu<sup>9e</sup>) zaplatiť colnému úradu poplatok vypočítaný podľa prílohy č. 4. Podnikateľ podľa odseku 2 písm. c) je povinný na účel úhrady poplatku podľa odseku 1 použiť daňové priznanie podľa osobitného predpisu,<sup>9e</sup>) v ktorom colnému úradu oznámi súhrnne množstvo vybraných ropných výrobkov, ktoré doviezol z tretích štátov za príslušný kalendárny mesiac, a zaplatiť colnému úradu poplatok, a to do 25. dňa kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom vybrané ropné výrobky doviezol. Ak podnikateľ podľa odseku 2 písm. a), b) alebo d) dováža vybrané ropné výrobky uvedené v prílohe č. 4, na ktoré nie je ustanovená sadzba spotrebnej dane podľa osobitného predpisu,<sup>9f</sup>) je povinný na účel úhrady poplatku podľa odseku 1 uviesť množstvo týchto vybraných ropných výrobkov v daňovom priznaní podľa osobitného predpisu<sup>9e</sup>) a zaplatiť colnému úradu poplatok, a to v lehote na podanie daňového priznania. Ak sú v daňovom priznaní údaje týkajúce sa výpočtu poplatku nesprávne, postupuje sa podľa osobitného predpisu.<sup>9g</sup>)
 
-(4) Pri kontrole plnenia povinností podľa tohto ustanovenia zákona postupuje colný úrad podľa osobitného predpisu.<sup>9h</sup>)
+(4) Na správu tohto poplatku sa použije osobitný predpis,<sup>9h</sup>) ak tento zákon neustanovuje inak.
 
-(5) Ak má podnikateľ nárok na vrátenie spotrebnej dane podľa osobitného predpisu,<sup>9i</sup>) vzniká mu nárok na vrátenie poplatku. Pri vrátení poplatku alebo jeho časti postupuje podnikateľ a colný úrad primerane podľa osobitného predpisu.<sup>9i</sup>) Poplatok je možné vrátiť podnikateľovi,
-
-- a) ktorý vybrané ropné výrobky dodal na územie iného členského štátu osobe na podnikateľské účely a ak uskutočnenie dodania vybraných ropných výrobkov na územie iného členského štátu preukázal podľa osobitného predpisu,<sup>9i</sup>)
-
-- b) ktorý vybrané ropné výrobky vyviezol na územie tretieho štátu a uskutočnenie vývozu doložil podľa osobitného predpisu,<sup>9i</sup>)
-
-- c) ktorý pre príjemcu (odberateľa) vybraných ropných výrobkov vyhotovil dobropis, pričom o vrátenie poplatku môže požiadať až po úhrade dobropisu príjemcovi (odberateľovi) vybraných ropných výrobkov,
-
-- d) ktorý vypočítal poplatok vo svoj vlastný neprospech,
-
-- e) ktorému colný úrad vypočítal poplatok v jeho neprospech.
+(5) Ak má podnikateľ nárok na vrátenie spotrebnej dane podľa osobitného predpisu<sup>9i</sup>), vzniká mu nárok na vrátenie poplatku, ak bol tento poplatok preukázateľne zaplatený colnému úradu. Nárok na vrátenie poplatku vzniká podnikateľovi v prípadoch podľa osobitného predpisu <sup>9i</sup>) aj, ak preukázateľne zaplatil poplatok z vybraných ropných výrobkov, na ktoré nie je ustanovená sadzba dane podľa osobitného predpisu.<sup>9f</sup>) Pri vrátení poplatku alebo jeho časti postupuje podnikateľ a colný úrad primerane podľa osobitného predpisu<sup>9i</sup>) s výnimkou podľa osobitného predpisu.<sup>9ia</sup>)
 
 (6) Pri vymáhaní neuhradeného poplatku alebo jeho časti postupuje colný úrad podľa osobitného predpisu.<sup>9j</sup>)
 
