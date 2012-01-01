@@ -1,5 +1,0 @@
-# § 71a
-
-(1) Ak vzniklo na predmete záložného práva viac záložných práv, uspokojí sa záložné právo na zabezpečenie daňovej pohľadávky alebo záložné právo na zabezpečenie daňového nedoplatku podľa poradia zápisu alebo registrácie záložného práva v registri podľa osobitného predpisu.<sup>13h</sup>) Ak sú pohľadávky zabezpečené záložným právom uspokojované v konkurznom konaní alebo v reštrukturalizačnom konaní, na toto uspokojenie sa vzťahuje osobitný predpis.<sup>8aa</sup>)
-
-(2) Rozhodnutie o zriadení záložného práva môže správca dane z vlastného alebo iného podnetu zmeniť alebo zrušiť, a to aj čiastočne, ak daňový subjekt daňovú pohľadávku alebo daňový dlžník alebo poddlžník alebo iná osoba (§ 58 ods. 6) daňový nedoplatok zaplatila celkom alebo sčasti, alebo ak zanikol predmet záložného práva alebo zanikla daňová pohľadávka. Rozhodnutie sa doručí daňovému subjektu a v prípade daňového nedoplatku daňovému dlžníkovi alebo poddlžníkovi, ktorí proti nemu môžu v lehote 15 dní odo dňa doručenia podať odvolanie. Právoplatné rozhodnutie sa doručí registru podľa osobitného predpisu.<sup>13h</sup>)

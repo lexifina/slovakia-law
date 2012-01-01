@@ -1,3 +1,0 @@
-# § 77a Oprava daňového exekučného príkazu
-
-Správca dane môže opraviť daňový exekučný príkaz, ak prišlo pri jeho vydaní k chybe v písaní alebo inej zrejmej nesprávnosti. V takomto prípade sa rozhodnutie nevydáva.

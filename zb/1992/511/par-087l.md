@@ -1,9 +1,0 @@
-# § 87l
-
-(1) Udelením príklepu sa môže vydražiteľ ujať držby vydraženej nehnuteľnosti so súhlasom správcu dane.
-
-(2) Vlastnícke právo k nehnuteľnosti nadobúda vydražiteľ zaplatením najvyššieho podania v určenej lehote a na základe právoplatného rozhodnutia správcu dane o udelení príklepu.
-
-(3) Ak vydražiteľ zaplatil najvyššie podanie, právoplatné rozhodnutie o udelení príklepu zašle správca dane na zápis práva k nehnuteľnosti do katastra nehnuteľností záznamom.<sup>19f</sup>)
-
-(4) Ak sa zruší rozhodnutie o udelení príklepu alebo ak vydražiteľ v určenej lehote nezaplatil najvyššie podanie, je povinný vydraženú vec vrátiť, vydať všetky prírastky, úžitky a nahradiť škodu, ktorá vznikla na vydraženej nehnuteľnosti.
