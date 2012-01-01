@@ -58,6 +58,8 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - Študent verejnej vysokej školy v dennej forme štúdia je povinný uhradiť ročné školné, ak mu vznikne povinnosť uhradiť ročné školné podľa odseku 5 alebo odseku 6. Študent verejnej vysokej školy v externej forme štúdia je povinný uhrádzať ročné školné v každom roku štúdia.“.
 
+- 12. V § 96 ods. 11 sa na konci pripája čiarka a tieto slová: „a to tak, aby motivačné štipendium bolo poskytnuté desiatim percentám študentov v študijných programoch v dennej forme štúdia okrem študijných programov tretieho stupňa a desiatim percentám študentov v študijných programoch v externej forme štúdia okrem študijných programov tretieho stupňa.“.
+
 - 13. V § 98 ods. 4 sa slová „§ 89 ods. 2 a 8“ nahrádzajú slovami „§ 89 ods. 2 a 7“.
 
 - 14. V § 102 sa odsek 2 dopĺňa písmenom x), ktoré znie:
