@@ -40,11 +40,11 @@ K oznámeniu č. 321/2009 Z. z.
 
       - a) zástupca Migračného úradu Ministerstva vnútra Slovenskej republiky,
 
-      - b) zástupca Úradu hraničnej a cudzineckej polície Ministerstva vnútra Slovenskej republiky,
+      - b) zástupca Úradu hraničnej a cudzineckej polície prezídia Policajného zboru,
 
       - c) zástupca sekcie legislatívy a vonkajších vzťahov Ministerstva vnútra Slovenskej republiky,
 
-      - d) zástupca sekcie medzinárodných vzťahov Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky,
+      - d) zástupca Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky,
 
       - e) zástupca Štatistického úradu Slovenskej republiky,
 
@@ -62,13 +62,13 @@ K oznámeniu č. 321/2009 Z. z.
 
       - b) generálny/a riaditeľ/ka sekcie ekonomiky Ministerstva vnútra Slovenskej republiky,
 
-      - c) generálny/a riaditeľ/ka sekcie medzinárodných vzťahov Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky,
+      - c) riaditeľ/ka Centra pre koordináciu integrácie cudzincov Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky,
 
-      - d) generálny/a riaditeľ/ka sekcie sociálnej štatistiky a demografie Štatistického úradu Slovenskej republiky,
+      - d) generálny/a riaditeľ/ka sekcie sociálnych štatistík a demografie Štatistického úradu Slovenskej republiky,
 
       - e) riaditeľ/ka Migračného úradu Ministerstva vnútra Slovenskej republiky,
 
-      - f) riaditeľ/ka Úradu hraničnej a cudzineckej polície Ministerstva vnútra Slovenskej republiky,
+      - f) riaditeľ/ka Úradu hraničnej a cudzineckej polície prezídia Policajného zboru,
 
       - g) riaditeľ/ka odboru zahraničnej pomoci Ministerstva vnútra Slovenskej republiky,
 
@@ -92,7 +92,7 @@ K oznámeniu č. 321/2009 Z. z.
 
     - (4) V prípade, ak sa člen Národného riadiaceho výboru nemôže na zasadnutí zúčastniť, určí na základe plnej moci svojho zástupcu; zároveň v nej uvedie rozsah právomocí vyplývajúcich z tejto dohody, ktoré môže zástupca na zasadnutí vykonávať.
 
-    - (5) Národný riadiaci výbor je uznášaniaschopný, ak je prítomných najmenej šesť (6) jeho členov podľa odseku 1 a prijíma rozhodnutia nadpolovičnou väčšinou prítomných členov, za predpokladu, že nadpolovičnú väčšinu tvoria členovia najmenej dvoch príslušných orgánov podľa článku 10 tejto dohody. Každý člen národného riadiaceho výboru podľa odseku 1 má pri hlasovaní jeden (1) hlas.
+    - (5) Národný riadiaci výbor je uznášaniaschopný, ak je prítomných najmenej šesť (6) jeho členov podľa odseku 1 a prijíma rozhodnutia nadpolovičnou väčšinou prítomných členov, za predpokladu, že nadpolovičnú väčšinu tvoria členovia najmenej dvoch príslušných orgánov podľa článku 10 ods. 1 tejto dohody. Každý člen národného riadiaceho výboru podľa odseku 1 má pri hlasovaní jeden (1) hlas.
 
   - Článok 4 Práva a povinnosti zmluvných strán
 
@@ -168,7 +168,7 @@ K oznámeniu č. 321/2009 Z. z.
 
     - (2) Ministerstvo vnútra Slovenskej republiky sa podieľa na spolufinancovaní grantu Európskej komisie vo výške zodpovedajúcej časti celkových oprávnených nákladov nepokrytej týmto grantom. Sumu spolufinancovania prevedie Ministerstvo vnútra Slovenskej republiky na účet Úradu IOM do tridsiatich (30) pracovných dní od schválenia záverečnej správy o činnosti národného kontaktného bodu za predchádzajúci kalendárny rok podľa článku 4 ods. 1 písm. h) tejto dohody. V roku 2009 sa uvedená suma poskytne Úradu IOM do dvadsiatich (20) pracovných dní odo dňa podpisu tejto dohody.
 
-    - (3) Vyúčtovanie spolufinancovania poskytnutého Ministerstvom vnútra Slovenskej republiky sa vykonáva podľa požiadaviek Európskej komisie na vypracovanie záverečnej správy o realizácii operačného grantu. Nevyčerpanú sumu spolufinancovania použije Úrad IOM v nasledujúcom roku, pričom o túto sumu sa zníži suma spolufinancovania poskytnutá Ministerstvom vnútra Slovenskej republiky v tomto roku.
+    - (3) Vyúčtovanie spolufinancovania poskytnutého Ministerstvom vnútra Slovenskej republiky sa vykonáva podľa požiadaviek Európskej komisie na vypracovanie záverečnej správy o realizácii operačného grantu. Nevyčerpanú sumu spolufinancovania použije Úrad IOM v nasledujúcom roku, pričom o túto sumu sa zníži suma spolufinancovania poskytnutá Ministerstvom vnútra Slovenskej republiky v tomto roku. Suma spolufinancovania poskytnutá Ministerstvom vnútra Slovenskej republiky na nasledujúci rok sa tiež zníži o pomernú časť neoprávnených výdavkov stanovených Európskou komisiou.
 
     - (4) Náklady nevyhnutné na činnosť národného kontaktného bodu v zmysle Rozhodnutia, ktoré nie je možné hradiť v rámci operačného grantu určeného na činnosť národného kontaktného bodu, hradí príslušný orgán, ktorému náklady vznikli.
 
@@ -178,7 +178,9 @@ K oznámeniu č. 321/2009 Z. z.
 
     - (2) V prípade uplatnenia článku 14 ods. 3 odovzdá Úrad IOM vybavenie zakúpené z operačného grantu, ktoré je v tom čase v majetku Úradu IOM, Ministerstvu vnútra Slovenskej republiky do šesťdesiatich (60) dní od vypovedania tejto dohody.
 
-  - Článok 10 Príslušné orgány Príslušné orgány zmluvných strán na vykonávanie tejto dohody sú:
+  - Článok 10 Príslušné orgány
+
+    - (1) Príslušné orgány zmluvných strán na vykonávanie tejto dohody sú:
 
     - a) za slovenskú zmluvnú stranu
 
@@ -193,6 +195,10 @@ K oznámeniu č. 321/2009 Z. z.
     - b) za Medzinárodnú organizáciu pre migráciu
 
     - – Úrad IOM.
+
+    - (2) Zmluvné strany sa vzájomne informujú o zmenách týkajúcich sa príslušných orgánov podľa odseku 1.
+
+    - (3) Vedúci predstavitelia príslušných orgánov podľa odseku 1 sa vzájomne informujú o zmenách týkajúcich sa členov Národného riadiaceho výboru podľa článku 3 ods. 1, príslušných orgánov podľa článku 2 ods. 3 písm. a) až c) a príslušných orgánov podľa článku 3 ods. 1 písm. a) až g).
 
   - Článok 11 Jazyky spolupráce
 
