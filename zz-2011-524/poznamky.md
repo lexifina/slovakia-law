@@ -1,0 +1,5 @@
+- 1) § 3a zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
+
+- 2) Vyhláška Štatistického úradu Slovenskej republiky č. 597/2002 Z. z., ktorou sa vydáva štatistický číselník krajov, štatistický číselník okresov a štatistický číselník obcí v znení vyhlášky Štatistického úradu č. 61/2011 Z. z.
+
+- 3) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
