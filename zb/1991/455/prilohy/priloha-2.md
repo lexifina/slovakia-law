@@ -154,6 +154,8 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 71. | Kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie alebo Hodnotenie zdravotných rizík zo životného prostredia | osvedčenie o odbornej spôsobilosti | § 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
+- 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
+
 - 72. | Oprávnené overovanie správ o emisiách skleníkových plynov z prevádzky | osvedčenie o zápise do registra oprávnených overovateľov | § 15 ods. 4 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
 - 73. | Havarijný technik alebo Špecialista na prevenciu závažných priemyselných havárií | – osvedčenie o odbornej spôsobilosti havarijného technika alebo – osvedčenie o odbornej spôsobilosti špecialistu na prevenciu závažných priemyselných havárií | § 12 ods. 6 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
@@ -183,3 +185,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov |
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |
+
+- 87. | Vypracovanie a aktualizácia plánu ochrany obyvateľstva Vypracovanie a aktualizácia plánu ochrany zamestnancov a osôb prevzatých do starostlivosti | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 395/2011 Z. z.
+
+- 88. | Vzdelávacia činnosť na úseku civilnej ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 395/2011 Z. z.

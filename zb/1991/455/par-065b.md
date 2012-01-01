@@ -1,6 +1,6 @@
 # § 65b
 
-(1) Za porušenie povinností ustanovených v § 17 ods. 7, v § 30 ods. 1 a v § 65a ods. 1 písm. b) a ods. 3 písm. c), d) a e) môže kontrolór uložiť podnikateľovi blokovú pokutu do 165 eur, ak je porušenie povinnosti spoľahlivo zistené a podnikateľ je ochotný pokutu zaplatiť.
+(1) Za porušenie povinností ustanovených v § 17 ods. 7, v § 30 ods. 1 a v § 65a ods. 1 písm. b) a ods. 2 písm. c), d) a e) môže kontrolór uložiť podnikateľovi blokovú pokutu do 165 eur, ak je porušenie povinnosti spoľahlivo zistené a podnikateľ je ochotný pokutu zaplatiť.
 
 (2) Na bloku na uloženie pokuty sa vyznačí údaj o tom, kedy a za aké porušenie povinnosti bola pokuta v blokovom konaní uložená.
 

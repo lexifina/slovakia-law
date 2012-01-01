@@ -14,8 +14,6 @@
 
 - b) preruší konanie do predloženia dokladu o absolvovaní adaptačného obdobia,<sup>42c</sup>)
 
-- c) preruší konanie do vykonania skúšky spôsobilosti pred skúšobnou komisiou podľa § 22 ods. 4 alebo do vykonania skúšky spôsobilosti pred skúšobnou komisiou podľa osobitných predpisov,<sup>42d</sup>)
-
-- d) zamietne žiadosť.
+- c) zamietne žiadosť.
 
 (6) Ministerstvo vnútra Slovenskej republiky rozhoduje o žiadosti do štyroch mesiacov odo dňa doručenia žiadosti.

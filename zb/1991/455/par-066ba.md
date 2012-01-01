@@ -32,6 +32,8 @@
 
 - a) v listinnej podobe, ktoré jednotné kontaktné miesto po uhradení správneho poplatku prevedie do elektronickej podoby, alebo
 
+- b) elektronicky podpísané zaručeným elektronickým podpisom.
+
 (5) Jednotné kontaktné miesto údaje podľa odseku 3 písm. b) až f) preverí a zapíše do informačného systému jednotných kontaktných miest a zodpovedá za ich správnosť. V pochybnostiach o správnosti údajov podľa odseku 3 sprístupní dokumentáciu príslušnému orgánu. Správcom informačného systému jednotných kontaktných miest je Ministerstvo vnútra Slovenskej republiky.
 
 (6) Jednotné kontaktné miesto prijaté údaje a doklady podľa odseku 3 písm. b) a f) zasiela v elektronickej podobe bezodkladne príslušnému orgánu; ak ide o údaje podľa odseku 3 písm. c) a d), tieto zasiela bezodkladne po vzniku živnostenského oprávnenia alebo po získaní informácie o udelení oprávnenia na podnikanie na základe iného ako živnostenského oprávnenia podľa osobitných zákonov na adresu elektronickej podateľne spoločnej pre daňové úrady alebo informačnému systému príslušnej zdravotnej poisťovni, a v prípade podľa odseku 3 písm. e) príslušnému registrovému súdu.
