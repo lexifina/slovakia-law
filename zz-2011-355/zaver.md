@@ -1,0 +1,1 @@
+Ján Figeľ v. r.
