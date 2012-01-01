@@ -874,6 +874,12 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - „Na účely prílohy č.1 sa biodieselom rozumie metylester mastných kyselín vyrobený z čistého rastlinného oleja, zo živočíšneho tuku a z opotrebovaných kuchynských olejov a tukov, alebo z ich zmesí, ak spĺňa požiadavky na jeho kvalitu špecifikované v § 2, ods. 4 písm. b) tohto zákona.“.
 
+- 42. § 14a sa dopĺňa odsekom 9, ktorý znie:
+
+- „(9)
+
+- Na účely odseku 1 sa do výpočtu referenčnej hodnoty započítavajú len biopalivá, ktoré spĺňajú kritériá trvalej udržateľnosti.“.
+
 - 43. § 14a sa dopĺňa odsekom 10, ktorý znie:
 
 - „(10)
