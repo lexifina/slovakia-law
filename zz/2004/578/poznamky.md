@@ -200,9 +200,9 @@
 
 - 60a) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
-- 60b) § 18 ods. 1 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
+- 60b) § 85 Zákonníka práce.
 
-- 60c) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+- 60c) Zákonník práce.
 
 - 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -215,24 +215,6 @@
 - 64) Obchodný zákonník.
 
 - 65) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
-
-- 66) § 13a ods. 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
-- 67) § 5 a § 59 ods. 4 Obchodného zákonníka.
-
-- 68) § 477 ods. 3 časť vety za čiarkou a § 478 Obchodného zákonníka.
-
-- 69) § 59 ods. 2 tretia veta a § 60 Obchodného zákonníka.
-
-- 70) § 34 a 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
-- 71) § 483 ods. 3 Obchodného zákonníka.
-
-- 71a) § 151n až 151p Občianskeho zákonníka.
-
-- 71b) § 58 ods. 1 Obchodného zákonníka.
-
-- 71c) § 25 ods. 1 písm. e) druhý bod zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
