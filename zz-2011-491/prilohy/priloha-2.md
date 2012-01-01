@@ -1,0 +1,5 @@
+Príloha č. 2 k vyhláške č. 491/2011 Z. z.
+
+- SÚHRNNÉ ÚDAJE O SPOTREBE PRÍPRAVKOV NA OCHRANU RASTLÍN ROZDELENÉ PODĽA PLODÍN A ŠKODLIVÝCH ORGANIZMOV ZA ROK .....................
+
+- [Vzor 02](../assets/3a9f49d5a4568c99df85604cf6bed246a044a24769c789cf8fb071453fd9e991.pdf)
