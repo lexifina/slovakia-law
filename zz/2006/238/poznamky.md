@@ -1,5 +1,13 @@
 - 1) § 3 ods. 2 a § 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 1a) § 45 ods. 2 písm. l) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- Príloha č. 4 k zákonu č. 355/2007 Z. z.
+
+- 1b) § 2 písm. d) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
+
+- § 2 ods. 2 písm. t) zákona č. 355/2007 Z. z.
+
 - 2) Spoločný dohovor o bezpečnosti nakladania s vyhoretým palivom a o bezpečnosti nakladania s rádioaktívnym odpadom (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 125/2002 Z. z.).
 
 - 3) § 2 písm. o) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
@@ -33,6 +41,16 @@
 - 17) § 34 zákona č. 541/2004 Z. z.
 
 - 19) § 21 ods. 9 zákona č. 541/2004 Z. z.
+
+- 19a) § 3 ods. 2 nariadenia vlády Slovenskej republiky č. 348/2006 Z. z. o požiadavkách na zabezpečenie kontroly vysokoaktívnych žiaričov a opustených žiaričov.
+
+- 19b) § 3 ods. 4 nariadenia vlády Slovenskej republiky č. 348/2006 Z. z.
+
+- 19c) § 45 ods. 3 písm. f) zákona č. 355/2007 Z. z.
+
+- 19d) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
+
+- 19e) § 2 písm. i) nariadenia vlády Slovenskej republiky č. 348/2006 Z. z.
 
 - 20) § 2 písm. p) zákona č. 541/2004 Z. z.
 
