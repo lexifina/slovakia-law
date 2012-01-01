@@ -1,3 +1,0 @@
-# § 84c Uschovanie spísaných hnuteľných vecí
-
-Ak je obava, že by mohlo dôjsť k odstráneniu, poškodeniu alebo zničeniu hnuteľných vecí uvedených v súpise, zabezpečí správca dane ich úschovu v priestoroch ním určených alebo uzavrie zmluvu o úschove týchto vecí.
