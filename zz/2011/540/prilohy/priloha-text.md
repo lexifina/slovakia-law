@@ -1,0 +1,5 @@
+Príloha k vyhláške č. 540/2011 Z. z.
+
+DAŇOVÉ PRIZNANIE SPOTREBNÁ DAŇ Z MINERÁLNEHO OLEJA
+
+[Vzor](../assets/a25cadf4c7742f0e1a3c682d351b54798346696433e9bdabe58e66478a7c61fa.pdf)
