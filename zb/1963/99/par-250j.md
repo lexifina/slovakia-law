@@ -14,10 +14,12 @@
 
 - e) v konaní správneho orgánu bola zistená taká vada, ktorá mohla mať vplyv na zákonnosť napadnutého rozhodnutia.
 
-(3) Súd zruší napadnuté rozhodnutie správneho orgánu a podľa okolností aj rozhodnutie správneho orgánu prvého stupňa a vráti vec žalovanému správnemu orgánu na ďalšie konanie, ak bolo rozhodnutie vydané na základe neúčinného právneho predpisu, ak rozhodnutie je nepreskúmateľné pre nezrozumiteľnosť alebo pre nedostatok dôvodov alebo rozhodnutie je nepreskúmateľné pre neúplnosť spisov správneho orgánu alebo z dôvodu, že spisy neboli predložené. Súd zruší rozhodnutie správneho orgánu a konanie zastaví, ak rozhodnutie vydal orgán, ktorý na to nebol podľa zákona oprávnený. Rozsahom a dôvodmi žaloby v týchto prípadoch nie je súd viazaný.
+(3) Súd zruší napadnuté rozhodnutie správneho orgánu a podľa okolností aj rozhodnutie správneho orgánu prvého stupňa a vráti vec žalovanému správnemu orgánu na ďalšie konanie, ak bolo rozhodnutie vydané na základe neúčinného právneho predpisu alebo rozhodnutie je nepreskúmateľné pre neúplnosť spisov správneho orgánu alebo z dôvodu, že spisy neboli predložené. Súd zruší rozhodnutie správneho orgánu a konanie zastaví, ak rozhodnutie vydal orgán, ktorý na to nebol podľa zákona oprávnený. Rozsahom a dôvodmi žaloby v týchto prípadoch nie je súd viazaný.
 
-(4) Ustanovenie, podľa ktorého bolo rozhodnutie správneho orgánu zrušené, súd uvedie vo výroku rozsudku. Na posúdenie prípustnosti odvolania je rozhodujúci výrok rozsudku.
+(4) Ustanovenie, podľa ktorého bolo rozhodnutie správneho orgánu zrušené, súd uvedie vo výroku rozsudku. Na posúdenie prípustnosti odvolania je rozhodujúci výrok rozsudku. Ak súd zruší rozhodnutie správneho orgánu, lehota na rozhodnutie správneho orgánu v ďalšom konaní začne plynúť až po doručení všetkých spisov správneho orgánu pripojených k prejednávanej veci.
 
 (5) Vo veciach uvedených v § 250i ods. 2 môže súd rozhodnúť rozsudkom o náhrade škody, o peňažnom plnení alebo o peňažnej sankcii, ak na základe vykonaného dokazovania dospel k záveru, že o spore, o inej právnej veci alebo o uložení sankcie má byť rozhodnuté inak, ako rozhodol správny orgán. Rozsudok súdu nahrádza rozhodnutie správneho orgánu v takom rozsahu, v akom je rozsudkom súdu rozhodnutie správneho orgánu dotknuté. Tento rozsah musí byť uvedený vo výroku rozsudku, pričom súd dotknutý výrok zmení. Súd rozhodne o trovách konania vrátane trov, ktoré vznikli v konaní pred správnym orgánom.
 
-(6) Správne orgány sú viazané právnym názorom súdu.
+(6) Pri preskúmavaní zákonnosti rozhodnutia o nesprístupnení informácie vydaného podľa osobitného predpisu súd môže vyzvať žalovaný správny orgán, aby v súdom určenej lehote uviedol dôvody, pre ktoré nemožno požadovanú informáciu sprístupniť. Ak sa nepreukáže existencia dôvodov pre nesprístupnenie informácie, súd v rozsudku uloží osobe povinnej sprístupňovať informácie podľa osobitného predpisu povinnosť sprístupniť požadovanú informáciu.
+
+(7) Správne orgány sú viazané právnym názorom súdu.

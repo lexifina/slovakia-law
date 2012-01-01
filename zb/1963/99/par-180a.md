@@ -8,6 +8,6 @@
 
 (4) Rodičia dieťaťa nie sú účastníkmi konania ani v prípade, ak dali súhlas na osvojenie dieťaťa vopred bez vzťahu k určitým osvojiteľom.
 
-(5) Súd v konaní vždy vypočuje toho, v koho starostlivosti sa dieťa nachádza, alebo štatutárny orgán zariadenia na výkon rozhodnutia súdu, v ktorom je maloleté dieťa umiestnené. Súd v konaní o osvojiteľnosti skúma i okolnosti na strane dieťaťa vylučujúce splnenie účelu osvojenia.
+(5) Súd v konaní môže vypočuť toho, v koho starostlivosti sa dieťa nachádza, alebo štatutárny orgán zariadenia na výkon rozhodnutia súdu, v ktorom je maloleté dieťa umiestnené. Súd v konaní o osvojiteľnosti skúma i okolnosti na strane dieťaťa vylučujúce splnenie účelu osvojenia.
 
 (6) O osvojiteľnosti rozhodne súd rozsudkom bez zbytočného odkladu, najneskôr do troch mesiacov odo dňa začatia konania. Túto lehotu možno predĺžiť najviac o tri mesiace, ak rozhodnutiu súdu bránia vážne dôvody a objektívne príčiny.

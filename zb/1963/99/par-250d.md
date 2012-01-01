@@ -1,6 +1,6 @@
 # § 250d
 
-(1) Predseda senátu vyžiada spisy žalovaného správneho orgánu, ktorý je povinný bez meškania ich predložiť spolu so spismi správneho orgánu prvého stupňa.
+(1) Žalovaný je povinný v súdom určenej lehote predložiť súdu svoje spisy spolu so spismi orgánu prvého stupňa. Za nesplnenie tejto povinnosti mu súd môže uložiť pokutu do výšky 1 640 eur, a to aj opakovane. Proti rozhodnutiu o uložení pokuty je prípustné odvolanie. Odvolanie voči rozhodnutiu o uložení pokuty vo veci konajúci súd predloží na rozhodnutie príslušnému odvolaciemu súdu až po právoplatnosti rozhodnutia vo veci samej.
 
 (2) Ak predseda senátu zistí, že súd nie je vecne alebo miestne príslušný, postúpi vec uznesením príslušnému súdu.
 

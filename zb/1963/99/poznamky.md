@@ -70,6 +70,8 @@
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z.
 
+- 21a) Dohovor o občianskoprávnych aspektoch medzinárodných únosov detí (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 119/2001 Z. z.).
+
 - 22) § 33 a 58 zákona č. 36/2005 Z. z.
 
 - 23) § 52 ods. 6, § 55 ods. 2, § 98 až 104 zákona č. 36/2005 Z. z.
@@ -122,8 +124,12 @@
 
 - 38) Napríklad § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.; čl. 23 Nariadenia Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
 
+- 38a) Nariadenie Rady (ES) č. 2201/2003 z 27. novembra 2003 o právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie (ES) č. 1347/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 19/06; Ú.v. EÚ L 338; 23. 12. 2003) v platnom znení.
+
+- 38b) Dohovor o občianskoprávnych aspektoch medzinárodných únosov detí (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 119/2001 Z. z.).
+
 - 39) Čl. 110 ods. 2, čl. 225a, čl. 244 a čl. 256 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
 
-- 40) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004, ktorým sa vytvára exekučný titul pre nesporné nároky (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 7, Ú. v. EÚ L 143, 30. 4. 2004), články 54, 57 ods. 4, 58 a Prílohy V a VI nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4, Ú. v. ES L 12, 16. 1. 2001), články 39, 41, 42 ods. 1 a Prílohy I až IV nariadenia Rady (ES) č. 2201/2003 z 27. novembra 2003 o právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie Rady (ES) č. 1347/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 6, Ú. v. EÚ L 338, 23. 12. 2003).
+- 40) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004, ktorým sa vytvára exekučný titul pre nesporné nároky (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 7, Ú. v. EÚ L 143, 30. 4. 2004), články 54, 57 ods. 4, 58 a Prílohy V a VI nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4, Ú. v. ES L 12, 16. 1. 2001), články 39, 41, 42 ods. 1 a Prílohy I až IV nariadenia Rady (ES) č. 2201/2003 z 27. novembra 2003 o právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie Rady (ES) č. 1347/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 6, Ú. v. EÚ L 338, 23. 12. 2003), nariadenie Rady (ES) č. 4/2009 z 18. decembra 2008 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a o spolupráci vo veciach vyživovacej povinnosti (Ú. v. EÚ L 7, 10. 1. 2009).
 
 - 41) § 62 zákona č. 97/1963 Zb. v znení neskorších predpisov.
