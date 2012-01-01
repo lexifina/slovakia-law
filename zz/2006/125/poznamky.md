@@ -12,6 +12,8 @@
 
 - 3a) § 5 ods. 2, § 12 ods. 2, § 13 ods. 3 a § 14 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3b) § 31 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
 - 4) § 2 ods. 2 Obchodného zákonníka.
 
 - 6) § 52, § 223 až 228 Zákonníka práce.
@@ -24,7 +26,7 @@
 
 - 9) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z., zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, zákon č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
-- 10) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
+- 10) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 392/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri používaní pracovných prostriedkov, nariadenie vlády Slovenskej republiky č. 395/2006 Z. z. o minimálnych požiadavkách na poskytovanie a používanie osobných ochranných pracovných prostriedkov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko.
 
 - 11) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -62,7 +64,9 @@
 
 - 18ac) § 7a ods.1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
-- 18ad) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
+- 18ad) § 5a a 7c zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
+
+- § 5 až 7 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 18ae) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -74,9 +78,19 @@
 
 - 18c) § 149 Zákonníka práce.
 
+- 18ca) § 150 ods. 2 Zákonníka práce.
+
 - 18d) § 39 ods. 2 Zákonníka práce.
 
 - 18e) § 3 Trestného poriadku.
+
+- 18f) § 2 ods. 1 písm. g) a h) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+
+- 18g) Napríklad zákon č. 529/2010 Z. z. o environmentálnom navrhovaní a používaní výrobkov (zákon o ekodizajne), nariadenie vlády Slovenskej republiky č. 117/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zariadení a ochranných systémov určených na použitie v prostredí s nebezpečenstvom výbuchu v znení nariadenia vlády Slovenskej republiky č. 296/2002 Z. z., nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 576/2002 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na tlakové zariadenie a ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení neskorších predpisov v znení nariadenia vlády Slovenskej republiky č. 329/2003 Z. z., nariadenie vlády Slovenskej republiky č. 308/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 449/2007 Z. z., nariadenie vlády Slovenskej republiky č. 35/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na osobné ochranné prostriedky, nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+
+- 18h) Napríklad zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov, kapitola II nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/1993 (Ú. v. EÚ L 218, 13. 8. 2008).
+
+- 18i) Napríklad § 2 ods. 1 písm. b) až e) zákona č. 264/1999 Z. z. v znení neskorších predpisov, čl. 2 body 3 až 6 nariadenia (ES) č. 765/2008.
 
 - 19) Napríklad § 17 Obchodného zákonníka, zákon č. 215/2004 Z. z.
 
@@ -84,15 +98,17 @@
 
 - 21) Napríklad § 19 ods. 6 zákona č. 124/2006 Z. z.
 
-- 22) Napríklad Obchodný zákonník, Občiansky zákonník.
+- 21a) § 116 Občianskeho zákonníka.
 
-- 22a) Príloha č. 1 k zákonu č. 124/2006 Z. z. v znení neskorších predpisov.
+- 22) Napríklad Obchodný zákonník, Občiansky zákonník.
 
 - 23) § 235 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
 
 - 24) § 17 zákona č. 124/2006 Z. z.
 
 - 25) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+
+- 25a) Zákon č. 124/2006 Z. z. v znení neskorších predpisov.
 
 - 26) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
