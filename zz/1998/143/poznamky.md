@@ -54,6 +54,16 @@
 
 - Zákon č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
 
+- 8aa) Hlava III nariadenia Európskeho parlamentu a Rady (ES) č. 562/2006 z 15. marca 2006, ktorým sa ustanovuje kódex Spoločenstva o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc) (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení.
+
+- 8ab) Príloha VI bod 2.1.1. nariadenia (ES) č. 562/2006.
+
+- 8ac) Čl. 2 ods. 3 nariadenia (ES) č. 562/2006.
+
+- 8ad) Čl. 9 ods. 1 nariadenia (ES) č. 562/2006.
+
+- 8ae) Čl. 2 ods. 10 nariadenia (ES) č. 562/2006.
+
 - 8b) § 35 až 38 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách) v znení neskorších predpisov.
 
 - 8c) Nariadenie Rady (EHS) č. 95/93 z 18. januára 1993 o spoločných pravidlách prideľovania prevádzkových intervalov na letiskách Spoločenstva (Úradný vestník Európskych spoločenstiev L 014, 22. 01. 1993).
