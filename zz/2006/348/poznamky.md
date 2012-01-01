@@ -12,6 +12,8 @@
 
 - 7) § 21 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
 
+- 7a) § 8 ods. 1 písm. i) zákona č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 143/2010 Z. z.
+
 - 8) § 41 ods. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
 
 - 9) § 37 zákona č. 126/2006 Z. z.
