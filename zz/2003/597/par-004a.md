@@ -6,7 +6,7 @@
 
 - a) na dopravu žiakov podľa osobitných predpisov,<sup>22b</sup>)
 
-- b) na mzdy a platy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním<sup>22c</sup>) vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie a príspevku na starobné dôchodkové sporenie.
+- b) na mzdy a platy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním<sup>22c</sup>) vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie.
 
 (3) Žiadosť zriaďovateľa o pridelenie finančných prostriedkov podľa odseku 2 písm. a) obsahuje údaj o výške cestovných nákladov na dopravu žiaka do školy z miesta trvalého pobytu a späť.
 

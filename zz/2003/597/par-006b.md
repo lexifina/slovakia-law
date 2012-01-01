@@ -20,7 +20,7 @@
 
 (5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, a to najmä na
 
-- a) mzdy a platy zamestnancov materskej školy,<sup>2b</sup>) vrátane poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a poistného na povinné verejné zdravotné poistenie, ktorí sa podieľajú na výchove a vzdelávaní detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky,
+- a) mzdy a platy zamestnancov materskej školy,<sup>2b</sup>) vrátane poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie, príspevku na doplnkové dôchodkové sporenie a poistného na povinné verejné zdravotné poistenie, ktorí sa podieľajú na výchove a vzdelávaní detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky,
 
 - b) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23h</sup>)
 
