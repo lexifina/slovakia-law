@@ -4,4 +4,4 @@
 
 (2) Tabak na vlastnoručné zhotovenie cigariet, ktorý sa považuje za tabak na vlastnoručné zhotovenie cigariet podľa § 4 ods. 3 písm. c) tretieho bodu predpisu účinného do 31. decembra 2010, je zakázané uvádzať do daňového voľného obehu po 31. decembri 2010 a možno ho predávať, ponúkať na predaj alebo skladovať do vypredania zásob.
 
-(3) Prevádzkovateľ daňového skladu, oprávnený príjemca a dovozca cigariet sú povinní do 10. januára 2011 oznámiť colnému riaditeľstvu prostredníctvom colného úradu údaje podľa § 9 ods. 26 predpisu účinného do 31. decembra 2010.
+(3) Prevádzkovateľ daňového skladu, oprávnený príjemca a dovozca cigariet sú povinní do 10. januára 2011 oznámiť finančnému riaditeľstvu prostredníctvom colného úradu údaje podľa § 9 ods. 26 predpisu účinného do 31. decembra 2010.
