@@ -96,6 +96,16 @@ Hodnota P<sub>i</sub>sa zaokrúhľuje na dve desatinné miesta.
 
 4. Dodržiavanie plynulosti prenosu elektriny podľa § 2 písm. j)
 
+Tabuľka č. 4.1
+
+Priemerná doba prerušenia prenosu elektriny AIT v minútach
+
+AIT [min] | Medziročný index AIT v roku t-1 / AIT v roku t-2
+
+Vysvetlivky k tabuľke č. 4.1:
+
+Do tabuľky sa uvedie hodnota AIT zaokrúhlená na dve desatinné miesta a hodnota medziročného indexu AIT zaokrúhlená na dve desatinné miesta.
+
 Tabuľka č. 4.2
 
 Priemerný počet prerušení vzťahujúci sa na jeden transformátor okrem väzbových transformátorov 400/220 kV a záložných transformátorov 400/110 kV a 220/110 kV.

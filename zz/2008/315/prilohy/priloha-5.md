@@ -109,3 +109,35 @@ Ak D<sub>i</sub>C = 0, potom D<sub>i</sub> = 0,00.
 Hodnota D<sub>i</sub>sa zaokrúhľuje na dve desatinné miesta.
 
 Pre štandard kvality podľa § 3 ods. 1 písm. g), i) a j) sa počet dotknutých odberných miest považuje za počet udalostí.
+
+Tabuľka č. 4
+
+Dodržiavanie parametra štandardu kvality podľa § 3 ods. 3 písm. n)
+
+Opis parametra štandardu kvality dodávanej elektriny a regulovaných činností súvisiacich s distribúciou elektriny | Dosiahnutá hodnota v roku t-1
+
+Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) SAIDI |
+
+Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) SAIFI |
+
+Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) ISS |
+
+Vysvetlivky k tabuľke č. 4:
+
+V tabuľke sa uvádzajú hodnoty SAIDI a SAIFI zaokrúhlené na dve desatinné miesta, hodnota ISS zaokrúhlená na štyri desatinné miesta.
+
+Tabuľka č. 5
+
+Medziročné porovnanie SAIDI, SAIFI a ISS
+
+Indikátor | Rok t-1 | Rok t-2
+
+SAIDI | |
+
+SAIFI | |
+
+ISS | |
+
+Vysvetlivky k tabuľke č. 5:
+
+V tabuľke sa uvádzajú hodnoty SAIDI a SAIFI zaokrúhlené na dve desatinné miesta, hodnota ISS zaokrúhlená na štyri desatinné miesta.

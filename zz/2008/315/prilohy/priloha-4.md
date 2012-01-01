@@ -525,3 +525,103 @@ V stĺpci „Vyhodnotenie 1 / 0“ sa uvedie:
 1 – v prípade dodržania ustanovenej lehoty,
 
 0 – v ostatných prípadoch.
+
+14. Dodržiavanie plynulosti distribúcie elektriny podľa § 3 ods. 1 písm. n)
+
+Tabuľka č. 14.1
+
+Priemerná doba neplánovaného prerušenia distribúcie elektriny na odberné miesto SAIDI (hodnota zaokrúhlená na dve desatinné miesta)
+
+SAIDI [min] | | | | | | | | | | | |
+
+1. mesiac | 2. mesiac | 3. mesiac | 4. mesiac | 5. mesiac | 6. mesiac | 7. mesiac | 8. mesiac | 9. mesiac | 10. mesiac | 11. mesiac | 12. mesiac | Spolu za rok
+
+Vysvetlivky k tabuľke č. 14.1:
+
+1. Priemerná doba neplánovaného prerušenia distribúcie elektriny na jedno odberné miesto SAIDI sa vypočíta podľa vzorca
+
+![Vzorec 04](../assets/9bb7758f5c1ffbf91e3dc4215b401cf1c8454b3aa93cfe5c9f1fbd17870ccb9f.png)
+
+kde
+
+Z<sub>i</sub> – počet dotknutých odberných miest pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+t<sub>i</sub>– trvanie časového úseku pri i-tom neplánovanom prerušení distribúcie elektriny v minútach,
+
+N – celkový počet odberných miest v danej distribučnej sústave.
+
+2. Do SAIDI sa započítavajú všetky neplánované prerušenia distribúcie elektriny v sústave daného subjektu, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov elektriny z distribučnej sústavy pripojenej do sústavy, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do SAIDI, je tri minúty.
+
+3. Do SAIDI sa nezapočítava prerušenie distribúcie elektriny v sústave daného subjektu, ktoré bolo zapríčinené vznikom udalosti v prenosovej sústave alebo vznikom udalosti v nadradenej distribučnej sústave, alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+4. SAIDI sa sleduje mesačne a ročne takto:
+
+a) dokumentácia sa vedie o udalostiach, následkom ktorých SAIDI ovplyvnilo mesačný ukazovateľ; pri každej udalosti je zaznamenaný dátum, čas vzniku, čas trvania neplánovaného prerušenia distribúcie, počet dotknutých odberných miest a príčina udalosti,
+
+b) neplánované prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 3, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.
+
+Tabuľka č. 14.2
+
+Priemerný počet neplánovaného prerušenia distribúcie elektriny na jedno odberné miesto SAIFI (hodnota zaokrúhlená na dve desatinné miesta)
+
+SAIFI | | | | | | | | | | | |
+
+1. mesiac | 2. mesiac | 3. mesiac | 4. mesiac | 5. mesiac | 6. mesiac | 7. mesiac | 8. mesiac | 9. mesiac | 10. mesiac | 11. mesiac | 12. mesiac | Spolu za rok
+
+Vysvetlivky k tabuľke č. 14.2
+
+1. Priemerný počet neplánovaných prerušení distribúcie elektriny na odberné miesto SAIFI sa vypočíta podľa vzorca
+
+![Vzorec 05](../assets/afa49853e67f310111febaed81199c0885a43db9613e9d10dc51a43fd7a4675a.png)
+
+kde
+
+N<sub>i</sub> – počet dotknutých odberných miest pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+N– celkový počet odberných miest v spoločnosti.
+
+2. Do SAIFI sa započítavajú všetky neplánované prerušenia distribúcie elektriny v spoločnosti, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov distribučnej sústavy pripojenej do sústavy, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do SAIFI, je tri minúty.
+
+3. Do SAIFI sa nezapočítavajú prerušenia distribúcie elektriny v sústave daného subjektu, ktoré boli zapríčinené vznikom udalosti v prenosovej sústave, vznikom udalosti v nadradenej distribučnej sústave alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+4. SAIFI sa sleduje mesačne a ročne takto:
+
+a) dokumentácia sa vedie o udalostiach, následkom ktorých SAIFI ovplyvnilo mesačný ukazovateľ; pri každej udalosti je zaznamenaný dátum a čas vzniku, počet dotknutých odberných miest a príčina udalosti,
+
+b) prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 3, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.
+
+Tabuľka č. 14.3
+
+Pomer množstva elektriny nedodanej odberateľom elektriny z dôvodu vzniku poruchy v sústave k celkovému množstvu dodanej elektriny odberateľom elektriny počas kalendárneho roka ISS (hodnota zaokrúhlená na štyri desatinné miesta)
+
+Mesiac | 1. | 2. | 3 | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | Spolu za rok
+
+E [MWh] | | | | | | | | | | | | |
+
+Σ E<sub>i</sub> [MWh] | | | | | | | | | | | | |
+
+ISS | | | | | | | | | | | | |
+
+Vysvetlivky k tabuľke č. 14.3:
+
+1. V tabuľke sa uvádzajú hodnoty E, E<sub>i</sub>a ĺ E<sub>i</sub> zaokrúhlené na štyri desatinné miesta, pričom
+
+E – celkové množstvo elektriny dodanej odberateľom elektriny pripojeným do sústavy v danom roku,
+
+E<sub>i</sub>– množstvo elektriny, ktorá nebola dodaná odberateľom elektriny pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+ĺE<sub>i</sub> – celkové množstvo elektriny, ktorá nebola dodaná odberateľom elektriny v danom roku z dôvodu vzniku neplánovaných prerušení distribúcie elektriny.
+
+2. Pomer množstva elektriny nedodanej odberateľom elektriny z dôvodu vzniku poruchy v sústave k celkovému množstvu dodanej elektriny odberateľom elektriny počas kalendárneho roka ISS sa vypočíta podľa vzorca
+
+![Vzorec 06](../assets/53097e1249b39f0def9300a84d6882a3fc40900047708917a6d551bcf20365d4.png)
+
+3. Do ISS sa započítavajú všetky neplánované prerušenia distribúcie elektriny v spoločnosti, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov distribučnej sústavy pripojenej k sústave, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do ISS, je tri minúty.
+
+4. Do ISS sa nezapočítavajú prerušenia distribúcie elektriny v sústave daného subjektu, ktoré boli zapríčinené vznikom udalosti v prenosovej sústave, vznikom udalosti v nadradenej distribučnej sústave alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+5. ISS sa sleduje mesačne a ročne takto:
+
+a) pri každej udalosti je zaznamenaný dátum a čas vzniku, čas trvania prerušenia distribúcie, množstvo elektriny nedodanej z dôvodu vzniku danej udalosti a príčina udalosti,
+
+b) prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 4, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.

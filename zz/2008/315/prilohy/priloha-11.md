@@ -1,43 +1,63 @@
-Príloha č. 12 k vyhláške č. 315/2008 Z. z.
+Príloha č. 11 k vyhláške č. 315/2008 Z. z.
 
-DODRŽIAVANIE ŠTANDARDU KVALITY PODĽA § 4a písm. f)
+ZÁZNAM O DOSIAHNUTÍ ÚROVNI ŠTANDARDU KVALITY ČINNOSTI ORGANIZÁTORA KRÁTKODOBÉHO TRHU S ELEKTRINOU
 
 Tabuľka č. 1
 
-Skrátený opis štandardu kvality služieb organizátora krátkodobého trhu s elektrinou | Miera závažnosti porušenia štandardu kvality | | Kritérium | X<sub>Oi</sub>
+Údaje o regulovanom subjekte, ktorý záznam predkladá
 
-§ 4a písm. a) – uzatvorenie zmluvy s účastníkom krátkodobého trhu s elektrinou | V<sub>1</sub> | 15 | O<sub>1</sub> | X<sub>O1</sub>
+Obchodné meno spoločnosti: |
 
-§ 4a písm. b) – dodržanie lehoty na vykonanie vyhodnotenia odchýlok a regulačnej elektriny | V<sub>2</sub> | 15 | O<sub>2</sub> | X<sub>O2</sub>
+Sídlo spoločnosti: |
 
-§ 4a písm. c) – vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu | V<sub>3</sub> | 30 | O<sub>3</sub> | X<sub>O3</sub>
+IČO: |
 
-§ 4a písm. d) – overenie správnosti vyhodnotenia odchýlok a obstaranej regulačnej elektriny | V<sub>4</sub> | 20 | O<sub>4</sub> | X<sub>O1</sub>
+Obdobie od do |
 
-§ 4a písm. e) – vysporiadanie zistených rozdielov v platbách za odchýlky a regulačnú elektrinu | V<sub>5</sub> | 20 | O<sub>5</sub> | X<sub>O2</sub>
+Meno, priezvisko a podpis osoby, ktorá záznam vyhotovila: |
 
-Vypočítaná hodnota čísla podľa § 4a písm. f) | | | | X<sub>O</sub>
+Telefónne číslo/e-mailová adresa: |
 
-Vysvetlivky k tabuľke č.1:
+Dátum vyhotovenia záznamu: |
 
-1. O<sub>i</sub> = O<sub>i</sub>N/O<sub>i</sub>C; i = 1 až 5(údaje podľa prílohy č. 11 tabuľky č. 2).
+Meno, priezvisko a podpis zodpovednej osoby: |
 
-2. X<sub>Oi</sub> = V<sub>i</sub> x O<sub>i</sub>; i = 1 až 5.
-
-3. X<sub>O</sub>= ĺ X<sub>Oi</sub>; i = 1 až 5.
-
-4. Hodnoty X<sub>Oi</sub> a X<sub>O</sub> sa zaokrúhľujú na dve desatinné miesta.
+Odtlačok pečiatky: |
 
 Tabuľka č. 2
 
-Medziročné porovnanie X<sub>O</sub>
+Dodržiavanie štandardu kvality podľa § 4a písm. a) až e)
 
-X<sub>O</sub> v roku t-1 |
+1 | 2 | 3 | 4 | 5 | 6 | 7
 
-X<sub>O</sub> v roku t-2 |
+Opis štandardu kvality služieb organizátora krátkodobého trhu s elektrinou | Celkový počet udalostí, ktoré nastali v roku t-1 | Počet udalostí, pri ktorých v roku t-1 neuplynula lehota na vybavenie | Počet udalostí zaradených do hodnotenia | Počet udalostí vybavených v lehote | Počet udalostí vybavených mimo lehoty | Podiel počtu vybavených udalostí v lehote k počtu udalostí zaradených do hodnotenia
 
-X<sub>O</sub> podľa § 4a písm. f) | 5,00
+| – | – | O<sub>i</sub>C | – | O<sub>i</sub>N | O<sub>i</sub> = O<sub>i</sub>N / O<sub>i</sub>C
+
+Uzatvorenie zmluvy s účastníkom krátkodobého trhu s elektrinou v lehote podľa § 4a písm. a) | | | | | |
+
+Dodržanie lehoty na vykonanie vyhodnotenia odchýlok a regulačnej elektriny podľa § 4a písm. b) | | | | | |
+
+Vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu v lehote podľa § 4a písm. c) | | | | | |
+
+Overenie správnosti vyhodnotenia odchýlok a obstaranej regulačnej elektriny v lehote podľa § 4a písm. d) | | | | | |
+
+Dodržanie lehoty na vysporiadanie zistených rozdielov v platbách za odchýlky a obstaranú regulačnú elektrinu podľa § 4a písm. e) | | | | | |
 
 Vysvetlivky k tabuľke č. 2:
 
-V tabuľke sa uvádzajú hodnoty X<sub>O</sub>v roku t-1 a X<sub>O</sub>v roku t-2 zaokrúhlené na dve desatinné miesta.
+V stĺpci 3 sa uvádza počet udalostí, ktoré nastali v roku t-1, ale do konca roka t-1 neuplynula doba na ich vybavenie a neboli v roku t-1 vybavené. Udalosti, pri ktorých do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené, sa uvádzajú v stĺpci 4.
+
+V stĺpci 4 sa uvádza súčet počtu udalostí,
+
+– ktoré nastali v roku t-1 a do konca roka t-1 uplynula doba na ich vybavenie,
+
+– ktoré nastali v roku t-1 a do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené,
+
+– udalostí z minulých období, ktorých lehota na vybavenie uplynula v roku t-1.
+
+Údaj v stĺpci 4 sa rovná súčtu údajov v stĺpcoch 5 a 6.
+
+Ak O<sub>i</sub>C = 0, potom O<sub>i</sub> = 0,00.
+
+Hodnota O<sub>i</sub> sa zaokrúhľuje na dve desatinné miesta.

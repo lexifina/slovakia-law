@@ -1,63 +1,43 @@
-Príloha č. 13 k vyhláške č. 315/2008 Z. z.
+Príloha č. 12 k vyhláške č. 315/2008 Z. z.
 
-SLEDOVANIE UDALOSTÍ, KTORÉ NASTALI Z DOVÔDOV PODĽA § 5 písm. a), b), c) a d)
-
-1. Evidencia udalostí, ktoré vznikli z dôvodu vyhlásenia stavu núdze podľa § 5 písm. a)
-
-Regulovaný subjekt:
-
-Obdobie od do
+DODRŽIAVANIE ŠTANDARDU KVALITY PODĽA § 4a písm. f)
 
 Tabuľka č. 1
 
-1 | 2 | 3 | 4 | 5 | 6
+Skrátený opis štandardu kvality služieb organizátora krátkodobého trhu s elektrinou | Miera závažnosti porušenia štandardu kvality | | Kritérium | X<sub>Oi</sub>
 
-Dátum a čas vyhlásenia stavu núdze | Územie, na ktorom bol stav núdze vyhlásený | Dátum a čas zrušenia stavu núdze | Celkový čas trvania vyhláseného stavu núdze | Počet odberných miest dotknutých vyhlásením stavu núdze pripojených do sústavy | Celkové množstvo nedodanej elektriny z dôvodu vyhlásenia stavu núdze
+§ 4a písm. a) – uzatvorenie zmluvy s účastníkom krátkodobého trhu s elektrinou | V<sub>1</sub> | 15 | O<sub>1</sub> | X<sub>O1</sub>
+
+§ 4a písm. b) – dodržanie lehoty na vykonanie vyhodnotenia odchýlok a regulačnej elektriny | V<sub>2</sub> | 15 | O<sub>2</sub> | X<sub>O2</sub>
+
+§ 4a písm. c) – vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu | V<sub>3</sub> | 30 | O<sub>3</sub> | X<sub>O3</sub>
+
+§ 4a písm. d) – overenie správnosti vyhodnotenia odchýlok a obstaranej regulačnej elektriny | V<sub>4</sub> | 20 | O<sub>4</sub> | X<sub>O1</sub>
+
+§ 4a písm. e) – vysporiadanie zistených rozdielov v platbách za odchýlky a regulačnú elektrinu | V<sub>5</sub> | 20 | O<sub>5</sub> | X<sub>O2</sub>
+
+Vypočítaná hodnota čísla podľa § 4a písm. f) | | | | X<sub>O</sub>
 
 Vysvetlivky k tabuľke č.1:
 
-Celkový čas trvania vyhláseného stavu núdze sa v stĺpci 4 uvádza v hodinách. Ak táto doba trvá viac ako 48 hodín, uvedie sa čas vyjadrený v dňoch a hodinách.
+1. O<sub>i</sub> = O<sub>i</sub>N/O<sub>i</sub>C; i = 1 až 5(údaje podľa prílohy č. 11 tabuľky č. 2).
 
-2. Evidencia udalostí, ktoré vznikli z dôvodov podľa § 5 písm. b) a c)
+2. X<sub>Oi</sub> = V<sub>i</sub> x O<sub>i</sub>; i = 1 až 5.
 
-Regulovaný subjekt:
+3. X<sub>O</sub>= ĺ X<sub>Oi</sub>; i = 1 až 5.
 
-Obdobie od do
+4. Hodnoty X<sub>Oi</sub> a X<sub>O</sub> sa zaokrúhľujú na dve desatinné miesta.
 
 Tabuľka č. 2
 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+Medziročné porovnanie X<sub>O</sub>
 
-Dátum a čas vzniku udalosti | Dôvod vzniku udalosti podľa § 5 písm. b), c) | Miesto alebo oblasť zasiahnutá udalosťou | Udalosťou zasiahnutá napäťová úroveň sústavy | Dátum a čas odstránenia následkov udalosti | Celková doba od vzniku udalosti po obnovenie prenosu alebo distribúcie elektriny | Počet odberných miest pripojených do sústavy dotknutých udalosťou | Celkové množstvo nedodanej elektriny z dôvodu vzniku udalosti
+X<sub>O</sub> v roku t-1 |
+
+X<sub>O</sub> v roku t-2 |
+
+X<sub>O</sub> podľa § 4a písm. f) | 5,00
 
 Vysvetlivky k tabuľke č. 2:
 
-Celková doba od vzniku udalosti po obnovenie prenosu alebo distribúcie elektriny sa v stĺpci 6 uvedie v hodinách. Ak táto doba trvá viac ako 48 hodín, uvedie sa doba vyjadrená v dňoch a hodinách.
-
-Celkové množstvo nedodanej elektriny z dôvodu vzniku udalosti je celkovým množstvom elektriny nedodanej koncovým odberateľom pripojeným do sústavy, v ktorej udalosť vznikla. V stĺpci 8 sa uvedie množstvo nedodanej elektriny v MWh.
-
-3. Evidencia udalostí, ktoré vznikli z dôvodov podľa § 5 písm. d)
-
-Regulovaný subjekt:
-
-Obdobie od do
-
-Tabuľka č. 3
-
-1 | 2 | 3 | 4 | 5 | 6
-
-Číslo udalosti | Opis udalosti | Skrátený opis neposkytnutej súčinnosti | Udalosť V/N | Skutočná lehota vybavenia | Dôvod nevybavenia
-
-Vysvetlivky k tabuľke č. 3:
-
-V stĺpci 2 sa uvedie označenie ustanovenia vyhlášky, ktorého sa udalosť týka.
-
-V stĺpci 4 sa uvedie:
-
-V – v prípade, že udalosť alebo podanie bolo do konca roka t-1 vybavené,
-
-N – v prípade, že udalosť alebo podanie nebolo do konca roka t-1 vybavené.
-
-V stĺpci 5 sa uvedie skutočná lehota vybavenia udalosti alebo podania v dňoch.
-
-V stĺpci 6 sa uvedie dôvod nevybavenia udalosti (napríklad späťvzatie podania, zrušenie žiadosti o pripojenie do sústavy, zrušenie odberného miesta, zánik subjektu).
+V tabuľke sa uvádzajú hodnoty X<sub>O</sub>v roku t-1 a X<sub>O</sub>v roku t-2 zaokrúhlené na dve desatinné miesta.

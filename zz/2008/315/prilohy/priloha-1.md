@@ -322,6 +322,42 @@ Regulovaný subjekt:
 
 Obdobie od do
 
+Tabuľka č. 9.1
+
+Evidencia neplánovaného prerušenia prenosu elektriny a nedodanej elektriny z prenosovej sústavy
+
+Poradové číslo | Napäťová úroveň [kV] | Začiatok prerušenia prenosu elektriny | | | Koniec prerušenia prenosu elektriny | | | Množstvo nedodanej elektriny E<sub>i</sub> [MW]
+
+| | Dátum | Hodina | Minúta | Dátum | Hodina | Minúta |
+
+Tabuľka č. 9.2
+
+Hodnota priemernej doba prerušenia prenosu elektriny počas kalendárneho roka AIT zaokrúhlená na dve desatinné miesta
+
+AIT |
+
+Vysvetlivky k tabuľke č. 9.2:
+
+Hodnota AIT sa vypočíta podľa vzorca
+
+![Vzorec 01](../assets/4bf256124a33351c0116ffbe6c7b080785c975107ef4a1cbf2d36f1ef4f92b89.png)
+
+kde
+
+E<sub>i</sub>= množstvo nedodanej elektriny v MWh pri i-tom prerušení prenosu elektriny,
+
+P= priemerný výkon elektriny prenášanej v rámci prenosovej sústavy v roku t-1,
+
+kde
+
+![Vzorec 02](../assets/daaa2c0aa121bdcb795ac5cfce61712a14c9279f86829f150391970d0f980adf.png)
+
+kde
+
+Q = množstvo prenesenej elektriny v MWh prenosovou sústavou v roku t-1,
+
+T = počet hodín roka t-1.
+
 Tabuľka č. 9.3
 
 Priemerný počet prerušení vzťahujúci sa na jeden transformátor okrem väzbových transformátorov 400/220 kV a záložných transformátorov 400/110 kV a 220/110 kV N (N400 alebo N220); hodnoty zaokrúhlené na dve desatinné miesta

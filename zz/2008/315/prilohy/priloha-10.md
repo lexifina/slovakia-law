@@ -1,63 +1,189 @@
-Príloha č. 11 k vyhláške č. 315/2008 Z. z.
+Príloha č. 10 k vyhláške č. 315/2008 Z. z.
 
-ZÁZNAM O DOSIAHNUTÍ ÚROVNI ŠTANDARDU KVALITY ČINNOSTI ORGANIZÁTORA KRÁTKODOBÉHO TRHU S ELEKTRINOU
+SLEDOVANIE ŠTANDARDU KVALITY SLUŽIEB ORGANIZÁTORA KRÁTKODOBÉHO TRHU S ELEKTRINOU
+
+1. Evidencia dodržania lehoty na uzatvorenie zmluvy o prístupe a podmienkach účasti na organizovanom krátkodobom trhu s elektrinou s účastníkom krátkodobého trhu s elektrinou do päť dní pred účinnosťou zmluvy podľa § 4a písm. a)
+
+Regulovaný subjekt:
+
+Obdobie od do
 
 Tabuľka č. 1
 
-Údaje o regulovanom subjekte, ktorý záznam predkladá
+r. 1 | Počet zaznamenaných udalostí v sledovanom období | | |
 
-Obchodné meno spoločnosti: |
+r. 2 | Počet neuzavretých udalostí v sledovanom období | | |
 
-Sídlo spoločnosti: |
+r. 3 | Počet udalostí z minulých období | | |
 
-IČO: |
+r. 4 | Počet udalostí zaradených do hodnotenia za sledované obdobie (r. 4 = r. 1 – r. 2 + r. 3) | | |
 
-Obdobie od do |
+Udalosti z riadku 4 | Vybavené v lehote | | |
 
-Meno, priezvisko a podpis osoby, ktorá záznam vyhotovila: |
+| Vybavené mimo lehoty | | |
 
-Telefónne číslo/e-mailová adresa: |
+| Nevybavené | | |
 
-Dátum vyhotovenia záznamu: |
+Číslo udalosti | Identifikačné údaje účastníka krátkodobého trhu s elektrinou | Dátum uzatvorenia zmluvy | Dátum účinnosti uzatvorenej zmluvy | Vyhodnotenie 1/0
 
-Meno, priezvisko a podpis zodpovednej osoby: |
+Udalosti zo sledovaného obdobia | | | |
 
-Odtlačok pečiatky: |
+Udalosti z minulých období | | | |
+
+Vysvetlivky k tabuľke č. 1:
+
+V stĺpci „Vyhodnotenie 1/0“ sa uvedie:
+
+1 – v prípade dodržania ustanovenej lehoty,
+
+0 – v ostatných prípadoch.
+
+2. Evidencia dodržania lehoty vykonania mesačného vyhodnotenia odchýlok a obstaranej regulačnej elektriny do desiateho kalendárneho dňa za predchádzajúci mesiac podľa § 4a písm. b)
+
+Regulovaný subjekt:
+
+Obdobie od do
 
 Tabuľka č. 2
 
-Dodržiavanie štandardu kvality podľa § 4a písm. a) až e)
+r. 1 | Počet zaznamenaných udalostí v sledovanom období | | |
 
-1 | 2 | 3 | 4 | 5 | 6 | 7
+r. 2 | Počet neuzavretých udalostí v sledovanom období | | |
 
-Opis štandardu kvality služieb organizátora krátkodobého trhu s elektrinou | Celkový počet udalostí, ktoré nastali v roku t-1 | Počet udalostí, pri ktorých v roku t-1 neuplynula lehota na vybavenie | Počet udalostí zaradených do hodnotenia | Počet udalostí vybavených v lehote | Počet udalostí vybavených mimo lehoty | Podiel počtu vybavených udalostí v lehote k počtu udalostí zaradených do hodnotenia
+r. 3 | Počet udalostí z minulých období | | |
 
-| – | – | O<sub>i</sub>C | – | O<sub>i</sub>N | O<sub>i</sub> = O<sub>i</sub>N / O<sub>i</sub>C
+r. 4 | Počet udalostí zaradených do hodnotenia za sledované obdobie (r. 4 = r. 1 – r. 2 + r. 3) | | |
 
-Uzatvorenie zmluvy s účastníkom krátkodobého trhu s elektrinou v lehote podľa § 4a písm. a) | | | | | |
+Udalosti z riadku 4 | Vybavené v lehote | | |
 
-Dodržanie lehoty na vykonanie vyhodnotenia odchýlok a regulačnej elektriny podľa § 4a písm. b) | | | | | |
+| Vybavené mimo lehoty | | |
 
-Vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu v lehote podľa § 4a písm. c) | | | | | |
+Číslo udalosti | Obchodné meno subjektu zúčtovania | Identifikačné číslo subjektu zúčtovania | Dátum vykonania vyhodnotenia odchýlok a regulačnej elektriny | Vyhodnotenie 1/0
 
-Overenie správnosti vyhodnotenia odchýlok a obstaranej regulačnej elektriny v lehote podľa § 4a písm. d) | | | | | |
+Udalosti zo sledovaného obdobia | | | |
 
-Dodržanie lehoty na vysporiadanie zistených rozdielov v platbách za odchýlky a obstaranú regulačnú elektrinu podľa § 4a písm. e) | | | | | |
+Udalosti z minulých období | | | |
 
 Vysvetlivky k tabuľke č. 2:
 
-V stĺpci 3 sa uvádza počet udalostí, ktoré nastali v roku t-1, ale do konca roka t-1 neuplynula doba na ich vybavenie a neboli v roku t-1 vybavené. Udalosti, pri ktorých do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené, sa uvádzajú v stĺpci 4.
+V stĺpci „Vyhodnotenie 1/0“ sa uvedie:
 
-V stĺpci 4 sa uvádza súčet počtu udalostí,
+1 – v prípade dodržania ustanovenej lehoty,
 
-– ktoré nastali v roku t-1 a do konca roka t-1 uplynula doba na ich vybavenie,
+0 – v ostatných prípadoch.
 
-– ktoré nastali v roku t-1 a do konca roka t-1 neuplynula doba na ich vybavenie a boli v roku t-1 vybavené,
+Údaje z tabuľky č. 2 sa uvádzajú v prílohe č. 8 tabuľke č. 2, pričom sa počet subjektov zúčtovania, na ktoré sa vzťahuje vyhodnotenie odchýlok a regulačnej elektriny, považuje za počet udalostí.
 
-– udalostí z minulých období, ktorých lehota na vybavenie uplynula v roku t-1.
+3. Evidencia dodržania lehoty vysporiadania platieb za odchýlky so subjektmi zúčtovania a platieb za obstaranú regulačnú elektrinu s dodávateľmi regulačnej elektriny do 15 kalendárnych dní od mesačného vyhodnotenia odchýlok a obstaranej regulačnej elektriny podľa § 4a písm. c)
 
-Údaj v stĺpci 4 sa rovná súčtu údajov v stĺpcoch 5 a 6.
+Regulovaný subjekt:
 
-Ak O<sub>i</sub>C = 0, potom O<sub>i</sub> = 0,00.
+Obdobie od do
 
-Hodnota O<sub>i</sub> sa zaokrúhľuje na dve desatinné miesta.
+Tabuľka č. 3
+
+r. 1 | Počet zaznamenaných udalostí v sledovanom období | | |
+
+r. 2 | Počet neuzavretých udalostí v sledovanom období | | |
+
+r. 3 | Počet udalostí z minulých období | | |
+
+r. 4 | Počet udalostí zaradených do hodnotenia za sledované obdobie (r. 4 = r. 1 – r. 2 + r. 3) | | |
+
+Udalosti z riadku 4 | Vybavené v lehote | | |
+
+| Vybavené mimo lehoty | | |
+
+| Nevybavené | | |
+
+Číslo udalosti | Obchodné meno a identifikačné číslo subjektu zúčtovania | Dátum mesačného vyhodnotenia odchýlok a regulačnej elektriny | Dátum vysporiadania platieb za odchýlky a regulačnú elektrinu | Vyhodnotenie 1/0
+
+Udalosti zo sledovaného obdobia | | | |
+
+Udalosti z minulých období | | | |
+
+Vysvetlivky k tabuľke č. 3:
+
+V stĺpci „Vyhodnotenie 1/0“ sa uvedie:
+
+1 – v prípade dodržania ustanovenej lehoty,
+
+0 – v ostatných prípadoch.
+
+Údaje z tabuľky č. 3 sa uvádzajú v prílohe č. 8 tabuľke č. 2, pričom sa počet subjektov zúčtovania, na ktoré sa vzťahuje vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu, považuje za počet udalostí.
+
+4. Evidencia dodržania lehoty na overenie správnosti vyhodnotenia odchýlok a obstaranej regulačnej elektriny a oznámenie výsledkov overenia subjektom zúčtovania 30 kalendárnych dní odo dňa doručenia žiadosti o overenie správnosti vyhodnotenia podľa § 4a písm. d)
+
+Regulovaný subjekt:
+
+Obdobie od do
+
+Tabuľka č. 4
+
+r. 1 | Počet zaznamenaných udalostí v sledovanom období | | |
+
+r. 2 | Počet neuzavretých udalostí v sledovanom období | | |
+
+r. 3 | Počet udalostí z minulých období | | |
+
+r. 4 | Počet udalostí zaradených do hodnotenia za sledované obdobie (r. 4 = r. 1 – r. 2 + r. 3) | | |
+
+Udalosti z riadku 4 | Vybavené v lehote | | |
+
+| Vybavené mimo lehoty | | |
+
+| Nevybavené | | |
+
+Číslo udalosti | Obchodné meno a identifikačné číslo subjektu zúčtovania | Dátum doručenia žiadosti o overenie správnosti vyhodnotenia | Dátum oznámenia výsledkov overenia správnosti vyhodnotenia | Vyhodnotenie 1/0
+
+Udalosti zo sledovaného obdobia | | | |
+
+Udalosti z minulých období | | | |
+
+Vysvetlivky k tabuľke č. 4:
+
+V stĺpci „Vyhodnotenie 1/0“ sa uvedie:
+
+1 – v prípade dodržania ustanovenej lehoty,
+
+0 – v ostatných prípadoch.
+
+Údaje z tabuľky č. 4 sa uvádzajú v prílohe č. 8 tabuľke č. 2, pričom sa počet subjektov zúčtovania, na ktoré sa vzťahuje vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu, považuje za počet udalostí.
+
+5. Evidencia dodržania lehoty na vysporiadanie zistených rozdielov v platbách za odchýlky a obstaranú regulačnú elektrinu 35 kalendárnych dní odo dňa doručenia žiadosti o overenie správnosti vyhodnotenia podľa § 4a písm. e)
+
+Regulovaný subjekt:
+
+Obdobie od do
+
+Tabuľka č. 5
+
+r. 1 | Počet zaznamenaných udalostí v sledovanom období | | |
+
+r. 2 | Počet neuzavretých udalostí v sledovanom období | | |
+
+r. 3 | Počet udalostí z minulých období | | |
+
+r. 4 | Počet udalostí zaradených do hodnotenia za sledované obdobie (r. 4 = r. 1 – r. 2 + r. 3) | | |
+
+Udalosti z riadku 4 | Vybavené v lehote | | |
+
+| Vybavené mimo lehoty | | |
+
+| Nevybavené | | |
+
+Číslo udalosti | Obchodné meno a identifikačné číslo subjektu zúčtovania | Dátum doručenia žiadosti o overenie správnosti vyhodnotenia | Dátum vysporiadania rozdielov v platbách | Vyhodnotenie 1/0
+
+Udalosti zo sledovaného obdobia | | | |
+
+Udalosti z minulých období | | | |
+
+Vysvetlivky k tabuľke č. 5:
+
+V stĺpci „Vyhodnotenie 1/0“ sa uvedie:
+
+1 – v prípade dodržania ustanovenej lehoty,
+
+0 – v ostatných prípadoch.
+
+Údaje z tabuľky č. 4 sa uvádzajú v prílohe č. 8 tabuľke č. 2, pričom sa počet subjektov zúčtovania, na ktoré sa vzťahuje vysporiadanie platieb za odchýlky a obstaranú regulačnú elektrinu, považuje za počet udalostí.
