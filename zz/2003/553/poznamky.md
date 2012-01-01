@@ -96,6 +96,10 @@
 
 - 30e) § 50 ods. 1 zákona č. 317/2009 Z. z.
 
+- 30f) § 29 ods. 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 30g) § 3 ods. 1 a 2 nariadenia vlády Slovenskej republiky č. 422/2009 Z. z., ktorým sa ustanovuje rozsah priamej vyučovacej činnosti a priamej výchovnej činnosti pedagogických zamestnancov.
+
 - 31) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.

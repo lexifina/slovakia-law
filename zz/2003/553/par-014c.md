@@ -1,0 +1,3 @@
+# § 14c Príplatok začínajúceho pedagogického zamestnanca a začínajúceho odborného zamestnanca
+
+Začínajúcemu pedagogickému zamestnancovi a začínajúcemu odbornému zamestnancovi patrí príplatok začínajúceho pedagogického zamestnanca a začínajúceho odborného zamestnanca. Príplatok sa poskytuje mesačne vo výške 6 % z platovej tarify platovej triedy a pracovnej triedy, do ktorej je pedagogický zamestnanec alebo odborný zamestnanec zaradený. Príplatok sa poskytuje po dobu zaradenia pedagogického zamestnanca a odborného zamestnanca do kariérového stupňa začínajúci pedagogický zamestnanec a začínajúci odborný zamestnanec. Príplatok sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
