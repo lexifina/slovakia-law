@@ -98,17 +98,17 @@
 
 - 27ba) Nariadenie Komisie (ES) č. 1174/2009 z 30. novembra 2009, ktorým sa stanovujú pravidlá vykonávania čl. 34a a 37 nariadenia Rady (ES) č. 1798/2003, pokiaľ ide o daň z pridanej hodnoty podľa smernice Rady 2008/9/ES (Ú. v. EÚ L 314, 1. 12. 2009).
 
-- 27bb) § 10 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27bb) § 10 ods. 3 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
-- 27bc) § 17a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+- 27bc) § 32 zákona č. 563/2009 Z. z.
 
-- 27c) § 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27c) § 72 zákona č. 563/2009 Z. z.
 
-- 27d) § 35 ods. 1 písm. g) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27d) § 155 ods. 1 písm. f) druhý bod zákona č. 563/2009 Z. z.
 
-- 27e) § 63 ods. 6 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27e) § 79 ods. 3 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 27f) § 20 ods. 4, 8 a 10 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27f) § 13 ods. 6 až 9 zákona č. 563/2009 Z. z.
 
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
@@ -117,8 +117,6 @@
 - 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
-
-- 29a) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 29b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -130,10 +128,12 @@
 
 - 32) § 13 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 279/2001 Z. z.
 
-- 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 33) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 34) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 187/1996 Z. z. o pristúpení Slovenskej republiky k Dohovoru o spoločnom tranzitnom režime v znení oznámenia č. 193/2003 Z. z.
 
 - 35) § 29 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 36) Čl. 14 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009).
+
+- 37) § 35b ods. 1 písm. h) zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení zákona č. 83/2009 Z. z.
