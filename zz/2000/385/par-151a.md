@@ -8,4 +8,4 @@
 
 (4) Sudca zvolený podľa odseku 2 alebo 3 môže uplatniť do 30 dní od nadobudnutia účinnosti tohto zákona výhradu k sľubu sudcu. Výhrada má za následok zánik funkcie sudcu.
 
-(5) Sudca disciplinárneho súdu zvolený podľa doterajších predpisov zostáva vo funkcii až do uplynutia lehoty, na ktorú bol zvolený.
+(5) Sudca disciplinárneho senátu zvolený podľa doterajších predpisov zostáva vo funkcii až do uplynutia lehoty, na ktorú bol zvolený.

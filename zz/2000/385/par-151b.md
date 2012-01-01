@@ -4,9 +4,9 @@
 
 (2) Ak voľné miesto sudcu určené ministrom podľa osobitného zákona možno obsadiť justičným čakateľom, ktorý sa stal justičným čakateľom pred nadobudnutím účinnosti tohto zákona, ustanovenie § 28 ods. 1 sa nepoužije. Ak voľné miesto možno obsadiť viacerými justičnými čakateľmi, ktorí sa stali justičnými čakateľmi pred nadobudnutím účinnosti tohto zákona, predseda súdu, na ktorom je zriadená sudcovská rada, vyhlasuje výberové konanie iba pre týchto justičných čakateľov.
 
-(3) Sudcovia disciplinárnych súdov ustanovení do funkcie podľa doterajších predpisov zostávajú vo funkciách až do ustanovenia sudcov disciplinárnych súdov podľa tohto zákona, ak tento zákon neustanovuje inak.
+(3) Sudcovia disciplinárnych senátov ustanovení do funkcie podľa doterajších predpisov zostávajú vo funkciách až do ustanovenia sudcov disciplinárnych senátov podľa tohto zákona, ak tento zákon neustanovuje inak.
 
-(4) Súdna rada požiada sudcovské rady, ministra a národnú radu o predloženie kandidátov za sudcov disciplinárneho súdu podľa § 119 ods. 3 do 45 dní odo dňa nadobudnutia účinnosti tohto zákona. Lehota na predloženie kandidátov na sudcov disciplinárneho senátu je 30 dní. Súdna rada zvolí členov disciplinárnych senátov podľa tohto zákona do 75 dní od nadobudnutia účinnosti tohto zákona.
+(4) Súdna rada požiada sudcovské rady, ministra a národnú radu o predloženie kandidátov za sudcov disciplinárneho senátu podľa § 119 ods. 3 do 45 dní odo dňa nadobudnutia účinnosti tohto zákona. Lehota na predloženie kandidátov na sudcov disciplinárneho senátu je 30 dní. Súdna rada zvolí členov disciplinárnych senátov podľa tohto zákona do 75 dní od nadobudnutia účinnosti tohto zákona.
 
 (5) Disciplinárne previnenia a priestupky spáchané pred nadobudnutím účinnosti tohto zákona sa posudzujú podľa doterajších právnych predpisov.
 

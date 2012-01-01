@@ -1,6 +1,6 @@
 # § 151k
 
-(1) Sudcovia disciplinárnych súdov a predsedovia senátov disciplinárnych súdov zvolení podľa predpisov účinných do 31. decembra 2008 sa považujú za ustanovených do funkcie sudcov disciplinárnych súdov a predsedov senátov disciplinárnych súdov podľa tohto zákona.
+(1) Sudcovia disciplinárnych senátov a predsedovia senátov disciplinárnych senátov zvolení podľa predpisov účinných do 31. decembra 2008 sa považujú za ustanovených do funkcie sudcov disciplinárnych senátov a predsedov senátov disciplinárnych senátov podľa tohto zákona.
 
 (2) Predsedovia kolégií zvolení podľa predpisov účinných do 31. decembra 2008 sa považujú za ustanovených podľa tohto zákona do konca svojho funkčného obdobia.
 

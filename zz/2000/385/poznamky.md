@@ -36,6 +36,8 @@
 
 - 10) § 45 zákona č. 757/2004 Z. z. v znení zákona č. 517/2008 Z. z.
 
+- 10a) § 42 ods. 3 a § 53 zákona č. 757/2004 Z. z. v znení neskorších predpisov.
+
 - 11) Čl. 4 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
 - 11a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
@@ -90,15 +92,11 @@
 
 - 28b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 28c) Zákon č. 283/2002 Z. z. o cestovných náhradách.
-
 - 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 30) Občiansky súdny poriadok.
 
 - 33) Zákonník práce v znení neskorších predpisov.
-
-- 34) Trestný poriadok.
 
 - 35) Zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
