@@ -6,4 +6,6 @@
 
 - 4) § 3 zákona č. 188/2003 Z. z. o aplikácii čistiarenského kalu a dnových sedimentov do pôdy a o doplnení zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5) § 9 ods. 1 zákona č. 364/2004 Z. z. o vodách a o zmene a doplnení zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
+
 - *) Pre každý produkčný blok je táto hodnota uverejnená na www.vupu.sk.
