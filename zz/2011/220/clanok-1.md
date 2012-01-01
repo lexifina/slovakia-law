@@ -380,6 +380,22 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - Zverejňovanie a sprístupňovanie rozhodnutí
 
+- (1)
+
+- Prokuratúry sú povinné zverejňovať právoplatné uznesenia prokurátora, ktorými sa skončilo trestné stíhanie vedené proti určitej osobe, a to do 15 pracovných dní odo dňa nadobudnutia právoplatnosti uznesenia.
+
+- (2)
+
+- Generálna prokuratúra zverejňuje aj právoplatné rozhodnutia disciplinárnych komisií, a to do troch pracovných dní odo dňa nadobudnutia právoplatnosti rozhodnutia.
+
+- (3)
+
+- Pred zverejnením rozhodnutí podľa odsekov 1 a 2 sa v nich anonymizujú údaje, ktorých anonymizovaním bude pri zverejňovaní zabezpečená ochrana práv a právom chránených záujmov.
+
+- (4)
+
+- Zverejňovanie rozhodnutí prokurátora podľa odseku 1 a 2 technicky zabezpečuje generálna prokuratúra na svojom webovom sídle.
+
 - (5)
 
 - Prokuratúry sprístupňujú verejnosti na základe žiadosti podľa osobitného zákona<sup>47</sup>) všetky právoplatné uznesenia prokurátora vrátane uznesení, ktoré nie sú rozhodnutiami vo veci samej a obžalobný návrh.
@@ -450,4 +466,10 @@ Zákon č. 153/2001 Z. z. o prokuratúre v znení zákona č. 458/2003 Z. z., z�
 
 - (4)
 
-- V konaniach v ostatných veciach začatých pred 1. novembrom 2011 prechádza výkon pôsobnosti vojenskej prokuratúry na vecne a miestne príslušnú prokuratúru a v konaní pokračujú prokurátori týchto prokuratúr.“.
+- V konaniach v ostatných veciach začatých pred 1. novembrom 2011 prechádza výkon pôsobnosti vojenskej prokuratúry na vecne a miestne príslušnú prokuratúru a v konaní pokračujú prokurátori týchto prokuratúr.
+
+- § 56ad
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2012
+
+- Podľa § 55m ods. 1 až 4 sa zverejňujú len tie rozhodnutia prokurátora, ktoré nadobudnú právoplatnosť po 1. januári 2012.“.
