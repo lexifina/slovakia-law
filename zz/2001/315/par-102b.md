@@ -4,16 +4,16 @@
 
 (1) Špecifickou zdravotnou starostlivosťou sa na účely tohto zákona rozumie
 
-- a) mimoriadna preventívna prehliadka v roku, v ktorom sa nevykoná preventívna prehliadka podľa osobitného predpisu,<sup>20b</sup>) ak nejde o činnosť vyžadujúcu vykonávanie mimoriadnej preventívnej prehliadky v kratších časových intervaloch,
+- a) preventívna lekárska prehliadka, ktorá sa vykonáva mimo preventívnej prehliadky vykonávanej podľa osobitného predpisu,<sup>20b</sup>)
 
-- b) lekárske vyšetrenie vykonané nad rozsah zdravotných výkonov, ktoré sú súčasťou preventívnych prehliadok podľa osobitného predpisu,<sup>20b</sup>) ak ich vykonanie je potrebné vzhľadom na druh vykonávaných činností,
+- b) zdravotná starostlivosť poskytovaná na žiadosť ministerstva alebo služobného úradu pri výcviku príslušníka, zabezpečovaní osôb a objektov a pri určených krízových situáciách,
 
-- c) lekárske vyšetrenie vykonané u toho príslušníka, u ktorého to určí určený lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo na základe výsledkov zistených pri poskytovaní všeobecnej ambulantnej zdravotnej starostlivosti alebo orgán štátnej správy v oblasti verejného zdravotníctva pri nariadení opatrení na prevenciu prenosných ochorení<sup>20c</sup>) podmienených výkonom štátnej služby a na obmedzenie ich výskytu,
+- c) lekárska preventívna prehliadka vo vzťahu k vykonávaniu štátnej služby.<sup>20c</sup>)
 
-- d) zdravotná starostlivosť poskytovaná na žiadosť ministerstva alebo služobného úradu pri výcviku príslušníka, pri zabezpečovaní osôb a objektov a pri určených krízových situáciách.
+(2) Výsledky preventívnej lekárskej prehliadky a lekárskej preventívnej prehliadky vo vzťahu k vykonávaniu štátnej služby sú podkladom pre lekársku posudkovú činnosť podľa § 102d.
 
-(2) Za mimoriadnu preventívnu lekársku prehliadku podľa odseku 1 písm. a) sa považuje aj lekárske vyšetrenie vykonané v zdravotníckom zariadení ambulantnej zdravotnej starostlivosti alebo v zdravotníckom zariadení ústavnej zdravotnej starostlivosti, ak bolo vykonané počas troch mesiacov pred termínom určeným na mimoriadnu preventívnu lekársku prehliadku alebo počas troch mesiacov po tomto termíne a takéto lekárske vyšetrenie zodpovedalo rozsahu požadovanému podľa odseku 4.
+(3) Za preventívnu lekársku prehliadku a lekársku preventívnu prehliadku vo vzťahu k vykonávaniu štátnej služby sa považuje tiež lekárske vyšetrenie vykonané v zdravotníckom zariadení ústavnej zdravotnej starostlivosti alebo v zdravotníckom zariadení ambulantnej zdravotnej starostlivosti, ak bolo vykonané počas troch mesiacov pred termínom určeným na periodickú preventívnu lekársku prehliadku alebo lekársku preventívnu prehliadku vo vzťahu k vykonávaniu štátnej služby počas troch mesiacov po tomto termíne a zodpovedalo požadovanému rozsahu podľa odseku 5.
 
-(3) Špecifická zdravotná starostlivosť sa poskytuje v zdravotníckych zariadeniach v pôsobnosti ministerstva a v určených zdravotníckych zariadeniach.<sup>20d</sup>)
+(4) Špecifická zdravotná starostlivosť sa poskytuje v zdravotníckych zariadeniach v pôsobnosti ministerstva a v určených zdravotníckych zariadeniach.<sup>20d</sup>)
 
-(4) Rozsah mimoriadnej preventívnej prehliadky podľa druhu činnosti, ktorú príslušník vykonáva, okruh činností vyžadujúcich vykonávanie mimoriadnych preventívnych prehliadok v kratších časových intervaloch a lekárske vyšetrenia podľa odseku 1 písm. b) ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(5) Rozsah a frekvenciu preventívnej lekárskej prehliadky podľa služobnej činnosti, ktorú príslušník vykonáva, ustanoví ministerstvo služobným predpisom.

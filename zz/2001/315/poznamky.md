@@ -12,6 +12,8 @@
 
 - § 2 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky.
 
+- 3a) Napríklad zákon č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním) v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 4) Napríklad Zmluva medzi Slovenskou republikou a Ukrajinou o režime na slovensko-ukrajinských hraniciach, spolupráci a vzájomnej pomoci v hraničných otázkach (oznámenie č. 2/1995 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Poľskej republiky o cezhraničnej spolupráci (oznámenie č. 44/1995 Z. z.), Zmluva medzi Slovenskou republikou a Maďarskou republikou o režime a spolupráci na spoločnej štátnej hranici (oznámenie č. 269/1996 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Maďarskej republiky o spolupráci a vzájomnej pomoci pri katastrofách (oznámenie č. 315/1997 Z. z.).
@@ -42,7 +44,7 @@
 
 - 10b) § 3 a 4 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- 10c) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 10c) § 11 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
 
 - 10d) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
@@ -72,7 +74,7 @@
 
 - 16b) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
-- 17) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 17) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 17a) § 13 zákona č. 314/2001 Z. z.§ 19 vyhlášky Ministerstva vnútra Slovenskej republiky č. 121/2002 Z. z. o požiarnej prevencii.
 

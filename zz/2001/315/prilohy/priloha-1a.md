@@ -30,30 +30,30 @@ Príloha č. 1a k zákonu č. 315/2001 Z. z.
 
   - 5. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vyššie odborné vzdelanie alebo bakalárske vzdelanie, osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: vyššie odborné vzdelanie, osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Samostatné odborné špecializované činnosti na úseku preventívnych opatrení, meteorologických a snehomerných pozorovaní a odborného vzdelávania.
 
   - 6. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: bakalárske vzdelanie alebo vysokoškolské vzdelanie, osobitný kvalifikačný predpoklad podľa osobitného predpisu. Odborná prax viac ako tri roky.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie prvého stupňa, odborná prax tri roky a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Samostatné vykonávanie ucelených agend s rozhodovacou právomocou na zverenom úseku. Riadenie, koordinovanie a usmerňovanie aktivít v činnostiach súvisiacich so záchranárskou prácou v horskom teréne.
 
   - 7. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako šesť rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax šesť rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Samostatné odborné, organizačné a preventívne činnosti v členení podľa organizačnej štruktúry.
 
   - 8. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako osem rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax osem rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Samostatné odborné, organizačné a špecializované činnosti v členení podľa organizačnej štruktúry. Koncepčné, metodické, normotvorné činnosti na úrovni celoštátnej pôsobnosti v danej oblasti.
 
   - 9. PLATOVÁ TRIEDA
 
-    - Kvalifikačné predpoklady: vysokoškolské vzdelanie, odborná prax viac ako osem rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
+    - Kvalifikačné predpoklady: vysokoškolské vzdelanie druhého stupňa, odborná prax osem rokov a osobitný kvalifikačný predpoklad podľa osobitného predpisu.
 
     - Tvorba štátnej politiky v príslušnej oblasti na celoštátnej úrovni. Koordinovanie celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym alebo medzinárodným dosahom. Koncepčná a normotvorná činnosť zásadných legislatívnych opatrení na celoštátnej úrovni alebo s medzinárodným dosahom.

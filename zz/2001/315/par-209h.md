@@ -1,0 +1,3 @@
+# § 209h Prechodné ustanovenie účinné od 1. januára 2012
+
+Hasičský a záchranný útvar hlavného mesta Slovenskej republiky Bratislavy sa začleňuje do Krajského riaditeľstva zboru v Bratislave. Práva a povinnosti z pracovnoprávnych vzťahov prechádzajú dňom účinnosti tohto zákona na Krajské riaditeľstvo zboru v Bratislave. Majetok štátu v správe Hasičského a záchranného útvaru hlavného mesta Slovenskej republiky Bratislavy prechádza dňom účinnosti tohto zákona do správy Krajského riaditeľstva zboru v Bratislave. Práva a povinnosti z majetkovoprávnych vzťahov a iných vzťahov prechádzajú dňom účinnosti tohto zákona z Hasičského a záchranného útvaru hlavného mesta Slovenskej republiky Bratislavy na Krajské riaditeľstvo zboru v Bratislave.

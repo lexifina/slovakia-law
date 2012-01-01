@@ -20,8 +20,6 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - 2.2 veliteľ čaty | 8 – 30
 
-- 2.3 veliteľ zmeny | 8 – 30
-
 - 2.4 veliteľ hasičskej stanice | 8 – 30
 
 - 2.5 vedúci oddelenia | 8 – 30
@@ -36,7 +34,7 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - 3.1 veliteľ družstva | 5 – 20
 
-- 3.2 veliteľ zmeny | 8 – 30
+- 3.2 veliteľ čaty | 8 – 30
 
 - 3.3 veliteľ hasičskej stanice | 8 – 30
 
@@ -52,7 +50,7 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - 4.1 veliteľ družstva | 5 – 20
 
-- 4.2 veliteľ zmeny | 8 – 30
+- 4.2 veliteľ čaty | 8 – 30
 
 - 4.3 veliteľ hasičskej stanice | 8 – 30
 
@@ -67,8 +65,6 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 - 2.1 veliteľ družstva | 5 – 20
 
 - 2.2 veliteľ čaty | 8 – 30
-
-- 2.3 veliteľ zmeny | 8 – 30
 
 - 2.4 veliteľ hasičskej stanice | 8 – 30
 
@@ -85,7 +81,5 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 - 5.1 riaditeľ strediska | 10 – 30
 
 - 5.2 vedúci oddelenia | 15 – 20
-
-- 5.3 zástupca riaditeľa | 20 – 40
 
 - 5.4 riaditeľ | 30 – 60.

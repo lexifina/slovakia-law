@@ -4,7 +4,7 @@
 
 (2) Služobný orgán, ktorý napadnuté rozhodnutie vydal, môže o odvolaní sám rozhodnúť, ak odvolaniu v plnom rozsahu vyhovie a ak sa rozhodnutie netýka iného účastníka konania ako odvolateľa, alebo ak s tým ostatní účastníci konania súhlasia. Ak tak neurobí, je povinný bez zbytočného odkladu, najneskôr však do 30 dní odo dňa doručenia odvolania, predložiť odvolanie spolu s výsledkami doplneného konania a so spisovým materiálom odvolaciemu orgánu. O tejto skutočnosti upovedomí účastníka konania.
 
-(3) Odvolacím orgánom je orgán najbližšie nadriadený služobnému orgánu, ktorý napadnuté rozhodnutie vydal. Ustanovenie § 17 ods. 3 týmto nie je dotknuté.
+(3) Odvolacím orgánom je orgán najbližšie nadriadený služobnému orgánu, ktorý napadnuté rozhodnutie vydal.
 
 (4) Odvolací orgán preskúma napadnuté rozhodnutie v celom rozsahu; ak je to nevyhnutné, doterajšie konanie doplní, prípadne zistené chyby odstráni. Odvolací orgán je povinný rozhodnúť o odvolaní najneskôr do 60 dní odo dňa doručenia odvolania prvostupňovému orgánu, a to po predchádzajúcom prerokovaní v poradnej odvolacej komisii.
 
