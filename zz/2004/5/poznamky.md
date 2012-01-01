@@ -164,8 +164,6 @@
 
 - 49b) Nariadenie Komisie (ES) č. 2204/2002 z 5. decembra 2002 o uplatňovaní článkov 87 a 88 Zmluvy o ES o štátnej pomoci pre zamestnanosť (Ú. v. ES L 337/3, 13. 12. 2002).
 
-- 50) § 142 ods. 4 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
-
 - 50a) § 63 ods. 1 písm. a) a b) zákona č. 311/2001 Z. z.
 
 - 53) § 20f Občianskeho zákonníka.

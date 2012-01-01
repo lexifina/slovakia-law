@@ -18,7 +18,7 @@
 
 - d) právnická osoba, ktorá je správcom odvodňovacích systémov.
 
-(4) Príspevok sa poskytuje najviac počas šiestich kalendárnych mesiacov. Príspevok sa poskytuje mesačne vo výške 95 % z celkovej ceny práce zamestnanca, najviac vo výške celkovej ceny práce vypočítanej zo sumy dvojnásobku životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného<sup>46e</sup>) platnej k prvému dňu kalendárneho mesiaca, za ktorý sa príspevok poskytuje.
+(4) Príspevok sa poskytuje mesačne vo výške 95 % z celkovej ceny práce zamestnanca, najviac vo výške celkovej ceny práce vypočítanej zo sumy dvojnásobku životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného predpisu<sup>46e</sup>) platnej k prvému dňu kalendárneho mesiaca, za ktorý sa príspevok poskytuje. Príspevok sa poskytuje za kalendárne mesiace, počas ktorých sa na vytvorenom pracovnom mieste vykonáva dohodnutý druh prác podľa odseku 8 písm. c). Zamestnávateľovi, ktorým je obec alebo právnická osoba, ktorej zakladateľom alebo zriaďovateľom je obec, ktorý vytvorí pracovné miesto v okrese, v ktorom priemerná miera evidovanej nezamestnanosti vypočítaná z disponibilného počtu uchádzačov o zamestnanie zverejnená ústredím za kalendárny rok, ktorý bezprostredne predchádza kalendárnemu roku, v ktorom sa uzatvára dohoda podľa odseku 8, je vyššia ako 25 %, sa príspevok poskytuje najviac počas šiestich kalendárnych mesiacov.
 
 (5) Zamestnávateľovi podľa odseku 3 písm. a) sa jednorazovo poskytuje príspevok aj na úhradu časti nákladov na pracovné náradie potrebné na realizáciu opatrení na ochranu pred povodňami alebo na riešenie následkov mimoriadnej situácie vo výške 95 % preukázaných nákladov na pracovné náradie, najviac vo výške 40 eur na jedno vytvorené pracovné miesto.
 
