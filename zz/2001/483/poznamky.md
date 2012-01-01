@@ -142,6 +142,10 @@
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 32a) Zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
+
+- Zákon č. 129/2010 Z. z.
+
 - 33) § 6 ods. 1, § 13 a § 23 ods. 1 zákona č. 510/2002 Z. z.
 
 - § 273 ods. 1 Obchodného zákonníka.
@@ -149,6 +153,10 @@
 - 34) § 21 zákona č. 431/2002 Z. z. o účtovníctve.
 
 - 35) § 20 ods. 2 zákona č. 431/2002 Z. z.
+
+- 35a) § 2 zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
 - 36) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
