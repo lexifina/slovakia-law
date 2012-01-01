@@ -13,3 +13,5 @@ Príloha č. 4 k zákonu č. 346/2005 Z. z.
   - 5. Smernica Rady 96/34/ES z 3. júna 1996 o rámcovej dohode o rodičovskej dovolenke, uzavretej medzi UNICE, CEEP a ETUC (Ú. v. ES L 145, 19. 6. 1996) v znení smernice Rady 97/75/ES z 15. decembra 1997 (Ú. v. ES L 010, 16. 1. 1998).
 
   - 6. Smernica Rady 91/533/EHS zo 14. októbra 1991 o povinnosti zamestnávateľa informovať zamestnancov o podmienkach vzťahujúcich sa na zmluvu alebo na pracovnoprávny vzťah (Ú. v. ES L 288, 18. 12. 1991).
+
+  - 7. Smernica Rady 2010/18/EÚ z 8. marca 2010, ktorou sa vykonáva revidovaná Rámcová dohoda o rodičovskej dovolenke uzavretá medzi BUSINESSEUROPE, UEAPME, CEEP a ETUC a zrušuje sa smernica 96/34/ES (Ú. v. EÚ L 68, 18. 3. 2010).
