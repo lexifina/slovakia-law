@@ -22,4 +22,6 @@ Fyzická osoba má právo na poskytnutie právnej pomoci v azylovej veci, ak
 
   - 6. ktorým bola žiadosť o udelenie azylu zamietnutá ako neprípustná alebo
 
-  - 7. ktorým bolo konanie o azyle zastavené z dôvodu, že už bolo o žiadosti skôr rozhodnuté a skutkový stav sa podstatne nezmenil.<sup>19a</sup>)
+  - 7. ktorým bolo konanie o azyle zastavené z dôvodu, že už bolo o žiadosti skôr rozhodnuté a skutkový stav sa podstatne nezmenil,<sup>19a</sup>)
+
+- d) sa nachádza v stave materiálnej núdze.

@@ -1,4 +1,12 @@
-- 1) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+- 1) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1a) § 54 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
+
+- 1aa) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- § 74 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
+- 1ab) Zákon č. 420/2004 Z. z. o mediácii a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) § 2 písm. h) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -6,7 +14,7 @@
 
 - 1d) § 13a a 13b zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
 
-- 1e) § 30 Občianskeho súdneho poriadku.
+- 1e) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení opatrenia Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 372/2004 Z. z.
 
@@ -14,9 +22,17 @@
 
 - 3) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 4) § 87 ods. 2 a 3 zákona č. 586/2003 v znení neskorších predpisov.
+- 4) § 87 ods. 2 zákona č. 586/2003 Z. z. v znení zákona č. 332/2011 Z. z.
 
-- 5) § 2 zákona Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 4a) Napríklad § 241 ods. 1, § 250a Občiansky súdny poriadok v znení neskorších predpisov, § 20 ods. 2 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky o konaní pred ním a o postavení jeho sudcov v znení zákona č. 124/2002 Z. z.
+
+- 4b) Zákon č. 420/2004 Z. z. v znení neskorších predpisov.
+
+- 5) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
+
+- 5a) § 14a a 14b vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
+
+- 5b) § 2 ods. 1 písm. c) vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 337/2011 Z. z. o odmene mediátora za výkon mediácie v súvislosti s poskytovaním právnej pomoci osobám v materiálnej núdzi.
 
 - 6) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -24,17 +40,19 @@
 
 - 8) Zákon č. 283/2002 Z. z. v znení neskorších predpisov.
 
-- 9) Zákon č. 554/2003 Z. z. o dani z prevodu a prechodu nehnuteľností a o zmene a doplnení zákona č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
+- 9) § 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 10) § 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 11) Zákon č. 599/2003 Z. z. o hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 11) § 10 až 16 zákona č. 599/2003 Z. z. v znení neskorších predpisov.
 
-- 12) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 12) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 14) Napríklad zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov, zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení neskorších predpisov a zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 485/2004 Z. z.
+- 14) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14a) § 54 ods. 18 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) § 8 zákona č. 599/2003 Z. z.
 
@@ -44,6 +62,10 @@
 
 - 17) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb.
 
+- 17a) § 8 ods. 10 zákona č. 420/2004 Z. z. v znení zákona č. 141/2010 Z. z.
+
+- 17b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 337/2011 Z. z.
+
 - 18) § 142 až 151a Občianskeho súdneho poriadku.
 
 - 18a) § 14a až 14f vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
@@ -51,5 +73,7 @@
 - 19) Čl. 59 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o súdnej právomoci, uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Ú. v. ES L 012, 16. 1. 2001).
 
 - 19a) § 19 ods. 1 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 19b) Zákon č. 48/2002 Z. z.
 
 - 20) Občiansky súdny poriadok.
