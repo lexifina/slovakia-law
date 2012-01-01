@@ -1,3 +1,3 @@
 Príloha č. 2 k vyhláške č. 544/2005 Z. z.
 
-- Žiadosť o poskytnutie právnej pomoci v azylovej veci [Vzor 02](../assets/466584ae3594c792cdce5b3b6631036545be7fa731790b7eb0a928b4f5b43120.pdf)
+- ŽIADOSŤ O POSKYTNUTIE PRÁVNEJ POMOCI V AZYLOVEJ VECI [Vzor 02](../assets/72faaf5ecc8c321090e191aa757b8f3a69aa6f0a58911d3919c6d7dc2d3fa6d5.pdf)
