@@ -62,6 +62,10 @@ Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých
 
 - 9. V § 37 ods. 1 písm. i) sa číslo „27“ nahrádza číslom „29“ a číslo „24“ sa nahrádza číslom „26“.
 
+- 10. V § 37 ods. 1 písm. j) sa suma „1 500 eur “ nahrádza sumou „1 900 eur“.
+
+- 11. V § 37 ods. 1 písm. l) sa suma „3 200 eur“ nahrádza sumou „3 900 eur“.
+
 - 12. § 56 vrátane nadpisu znie:
 
 - „§ 56
