@@ -1,6 +1,8 @@
 - 1) Čl. 26, 45 a 34 Ústavy Slovenskej republiky; čl. 17, 25 a 35 Listiny základných práv a slobôd.
 
-- 2) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 2) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 584/2005 Z. z.
+
+- § 1 ods. 3 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, zákon č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
@@ -20,15 +22,39 @@
 
 - 7a) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
+- 7aa) § 3 zákona č. 523/2004 Z. z. v znení zákona č. 199/2007 Z. z.
+
 - 7b) § 27 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 7c) § 42 a 223 Zákonníka práce.
 
+- 7ca) Zákon č. 200/1997 Z. z. o Študentskom pôžičkovom fonde v znení neskorších predpisov.
+
+- 7cb) Napríklad § 7 ods. 11 zákona č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
+
+- 7cc) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7cd) § 74 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 551/2010 Z. z.
+
+- 7ce) Napríklad § 2, 48, § 53 ods. 7 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7cf) § 71 ods. 1 písm. d) a e) zákona č. 305/2005 Z. z.
+
+- 7cg) Zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 7ch) § 5 ods. 13 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+
+- 7ci) § 9 ods. 2 zákona č. 384/1997 Z. z. o divadelnej činnosti.
+
 - 7d) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
-- 7e) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení neskorších predpisov.
+- 7e) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
 
-- 7f) § 28 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+- 7f) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7fa) § 42 ods. 2 písm. c) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 7fb) § 28 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 7g) § 47a Občianskeho zákonníka.
 
@@ -82,7 +108,9 @@
 
 - 23) Napríklad zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov, zákon č. 527/1990 Zb. o vynálezoch priemyselných vzorov a zlepšovacích návrhov; zákon č. 478/1992 Zb. o úžitkových vzoroch; zákon č. 132/1989 Zb. o ochrane práv k novým odrodám rastlín a plemenám zvierat; zákon č. 529/1991 Zb. o ochrane topografií polovodičových výrobkov.
 
-- 24) Napríklad Trestný poriadok, Občiansky súdny poriadok, zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
+- 24) § 82a ods. 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení zákona č. 33/2011 Z. z.
+
+- § 55m ods. 5 zákona č. 153/2001 Z. z. o prokuratúre v znení zákona č. 220/2011 Z. z.
 
 - 24a) Napríklad čl. 38. 1 Protokolu č. 18 o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky k Zmluve o založení Európskeho spoločenstva v platnom znení, prílohy k zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
