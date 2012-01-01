@@ -1,5 +1,0 @@
-# § 87o
-
-(1) Vydražiteľ alebo záujemca s najvyššou ponukou musí bez započítania na najvyššie podanie alebo najvyššiu ponuku prevziať vecné bremená a záväzky z nájomných zmlúv, ktoré vznikli na základe osobitného predpisu; zároveň prevezme zmluvné vecné bremená a záväzky z nájomných zmlúv.
-
-(2) Predkupné právo k vydraženej nehnuteľnosti alebo k nehnuteľnosti nadobudnutej na základe ponuky zaniká.

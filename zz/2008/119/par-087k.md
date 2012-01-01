@@ -1,5 +1,0 @@
-# § 87k
-
-(1) Rozhodnutie o námietke proti rozhodnutiu o udelení príklepu sa doručuje osobám podľa § 87j ods. 2.
-
-(2) Ak sa v konaní o námietke zruší rozhodnutie o udelení príklepu, určí správca dane novú dražbu len na nehnuteľnosť, ktorej príklep bol rozhodnutím o námietke zrušený, najneskôr do dvoch mesiacov odo dňa právoplatnosti zrušenia rozhodnutia.
