@@ -32,7 +32,21 @@
 
 - 7) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 8) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 7a) § 27 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
+
+- 7b) § 78 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
+
+- 7c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7d) § 18d zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- § 19c zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
+
+- 8) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 8a) § 106 ods. 3 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
@@ -78,11 +92,11 @@
 
 - 16) § 30 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona č. 14/2006 Z. z.
 
-- 16a) § 22 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+- 16a) § 25 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 16b) Nariadenie Európskeho parlamentu a Rady (ES) č. 810/2009 z 13. júla 2009, ktorým sa ustanovuje vízový kódex Spoločenstva (vízový kódex), (Ú. v. EÚ L 243, 15. 9. 2009).
 
-- 16c) § 2 písm. m) zákona č. 48/2002 Z. z. v znení zákona č. 594/2009 Z. z.
+- 16c) § 2 ods. 5 zákona č. 404/2011 Z. z.
 
 - 17) Zákon Slovenskej národnej rady č. 63/1973 Zb. o verejných zbierkach a o lotériách a iných podobných hrách v znení neskorších predpisov.
 
@@ -129,6 +143,20 @@
 - 25) Bod 2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
 
 - 25a) Bod 3 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
+
+- 25aa) § 45 ods. 1 písm. c) až e) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 25ab) § 23 a 24 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
+
+- Nariadenie Komisie (ES) č. 1702/2003 z 24. septembra 2003 stanovujúce vykonávacie pravidlá osvedčovania letovej spôsobilosti a environmentálneho osvedčovania lietadiel a prislúchajúcich výrobkov, častí a zariadení, ako aj osvedčovania projekčných a výrobných organizácií (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 7; Ú. v. EÚ L 243, 27. 9. 2003) v platnom znení.
+
+- 25ac) § 22 zákona č. 143/1998 Z. z.
+
+- Nariadenie Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 7; Ú. v. EÚ L 315, 28. 11. 2003) v platnom znení.
+
+- 25ad) Príloha II k nariadeniu Európskeho parlamentu a Rady (ES) č. 216/2008 z 20. februára 2008 o spoločných pravidlách v oblasti civilného letectva a o zriadení Európskej agentúry pre bezpečnosť letectva, ktorým sa zrušuje smernica Rady 91/670/EHS, nariadenie (ES) č. 1592/2002 a smernica 2004/36/ES (Ú. v. EÚ L 79, 19. 3. 2008) v platnom znení.
+
+- 25ae) § 34 až 35 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
 
 - 25b) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -212,7 +240,13 @@
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
+- 32a) Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 33) § 22 ods. 1 písm. e) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 33a) § 66b ods. 4 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 33b) § 66b ods. 4 zákona č. 455/1991 Zb. v znení neskorších predpisov, § 4 ods. 2 písm. b) zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
 - 34) § 32 ods. 3 zákona č. 379/1997 Z. z. o prevádzkovaní súkromných bezpečnostných služieb a podobných činností, o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o doplnení zákona č. 65/1965 Zb. Zákonníka práce v znení neskorších predpisov (zákon o súkromných bezpečnostných službách).
 
@@ -305,6 +339,10 @@
 - 39n) § 4 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
 
 - 39o) § 29 ods. 1 zákona č. 359/2007 Z. z.
+
+- 39oa) § 8 ods. 1, 6 a 7 zákona č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
+
+- 39ob) § 9 ods. 1 zákona č. 409/2011 Z. z.
 
 - 39p) § 7 zákona č. 258/2011 Z. z.
 

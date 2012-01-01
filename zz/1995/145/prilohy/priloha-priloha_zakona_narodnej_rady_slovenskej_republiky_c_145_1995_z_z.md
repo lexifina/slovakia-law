@@ -202,9 +202,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 1. výpisu z katastra nehnuteľností, |
 
-  - 2. údajov o bonitovaných pôdno-ekologických jednotkách, |
+  - 2. údajov o bonitovaných pôdno-ekologických jednotkách za každých aj začatých 20 parciel, |
 
-  - 3. identifikácie parciel (písomnej alebo grafickej), za každých aj začatých 20 identifikovaných parciel, |
+  - 3. písomnej identifikácie parciel, za každých aj začatých 20 identifikovaných parciel alebo grafickej identifikácie parciel, za každých aj začatých 20 identifikovaných parciel zobrazených na liste formátu A4 v mierke mapy, |
 
   - 4. kópie z katastrálnej mapy alebo mapy bývalého pozemkového katastra alebo z pozemkovoknižnej mapy alebo mapy určeného operátu, za každú kópiu formátu A3, A4, |
 
@@ -221,6 +221,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - f) Overenie štyroch vyhotovení geometrického plánu vrátane poskytnutých informácií ..... | 26,50 eura
 
   - g) Overenie ďalších troch vyhotovení geometrického plánu ..... | 6,50 eura
+
+  - h) Vydanie kópie geometrického plánu, za každých aj začatých 5 strán formátu A4 | 8 eur.
 
   - Oslobodenie |
 
@@ -244,6 +246,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 7. Poplatníkom za úkony podľa položky 10 písm. d), f) a g) je vyhotoviteľ vybraných geodetických a kartografických činností. |
 
+  - 8. Správny orgán vyberie poplatok podľa písmena g) tejto položky súčasne s poplatkom podľa písmena f) tejto položky. |
+
     - Položka 11
 
   - a) Návrh na začatie konania o povolení vkladu práva k nehnuteľnosti do katastra nehnuteľností ..... | 66 eur
@@ -262,7 +266,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Príplatok za urýchlené rozhodnutie je splatný v deň doručenia návrhu na vklad. Ak sa konanie zastavilo alebo návrh na vklad bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o vklade práva k nehnuteľnosti do katastra nehnuteľností nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie o návrhu na vklad a poplatkom určeným podľa tejto položky. |
 
-  - 3. Správny orgán vyberie poplatok podľa tejto položky znížený o 15 eur, ak účastník konania o vklade práva podal oznámenie podľa § 30 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) znení neskorších predpisov. |
+  - 3. Správny orgán vyberie poplatok podľa tejto položky znížený o 15 eur, ak účastník konania o vklade práva podal oznámenie podľa § 30 ods. 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) znení neskorších predpisov bez ohľadu na počet právnych úkonov, ktoré sú uvedené v oznámení. |
 
   - Poznámka |
 
@@ -474,61 +478,87 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 24
 
-  - a) Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
+  - a) | Žiadosť o udelenie prechodného pobytu na účel |
 
-  - 1. podnikania ..... | 232 eur
+  - | 1. podnikania alebo podľa § 30 ods. 1 písm. a) zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 404/2011 Z. z.“) | 232 eur
 
-  - 2. zamestnania ..... | 165,50 eura
+  - | 2. zamestnania alebo podľa § 30 ods. 1 písm. b) zákona č. 404/2011 Z. z. | 165,50 eura
 
-  - 3. sezónneho zamestnania ..... | 33 eur
+  - | 3. sezónneho zamestnania | 33 eur
 
-  - 4. štúdia a osobitnej činnosti ..... | 99,50 eura
+  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 99,50 eura
 
-  - 5. zlúčenia rodiny ..... | 132,50 eura
+  - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 132,50 eura
 
-  - 6. plnenia služobných povinností civilnými zložkami ozbrojených síl ..... | 66 eur
+  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 66 eur
 
-  - b) Žiadosť o udelenie prvého povolenia na trvalý pobyt ..... | 165,50 eura
+  - b) | Žiadosť o vydanie modrej karty Európskej únie | 165,50 eura
 
-  - c) Žiadosť o obnovenie povolenia na prechodný pobyt cudzincovi na účel |
+  - c) | Žiadosť o udelenie trvalého pobytu | 165,50 eura
 
-  - 1. podnikania..... | 132,50 eura
+  - d) | Žiadosť o obnovenie prechodného pobytu na účel |
 
-  - 2. zamestnania ..... | 99,50 eura
+  - | 1. podnikania alebo podľa § 30 ods. 1 písm. a) zákona č. 404/2011 Z. z. | 132,50 eura
 
-  - 3. sezónneho zamestnania..... | 16,50 eura
+  - | 2. zamestnania alebo podľa § 30 ods. 1 písm. b) zákona č. 404/2011 Z. z. | 99,50 eura
 
-  - 4. štúdia a osobitnej činnosti..... | 33 eur
+  - | 3. sezónneho zamestnania | 16,50 eura
 
-  - 5. zlúčenia rodiny..... | 66 eur
+  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 33 eur
 
-  - 6. plnenia služobných povinností civilnými zložkami ozbrojených síl..... | 33 eur
+  - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 66 eur
 
-  - d) Žiadosť o udelenie povolenia na trvalý pobyt na neobmedzený čas ..... | 165,50 eura
+  - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 33 eur
 
-  - e) Vydanie dokladu o pobyte..... | 4,50 eura
+  - e) | Žiadosť o obnovenie modrej karty Európskej únie | 99,50 eura
 
-  - f) Vydanie dokladu o pobyte ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad..... | 6,50 eura
+  - f) | Vydanie dokladu o pobyte | 4,50 eura
 
-  - g) Žiadosť o udelenie tolerovaného pobytu ..... | 99,50 eura
+  - g) | Vydanie dokladu o pobyte ako náhrada za zničený, stratený, odcudzený alebo poškodený doklad | 16,50 eura
 
-  - h) Žiadosť o predĺženie tolerovaného pobytu ..... | 33 eur
+  - h) | Vydanie dokladu o pobyte ako náhrada za zničený, stratený, odcudzený alebo poškodený doklad o pobyte opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 33 eur
 
-  - i) Potvrdenie o pobyte cudzinca na území Slovenskej republiky ..... | 3 eurá
+  - i) | Žiadosť o udelenie tolerovaného pobytu | 99,50 eura
 
-  - j) Vydanie cudzineckého pasu cudzincovi ..... | 33 eur
+  - j) | Žiadosť o predĺženie tolerovaného pobytu | 33 eur
 
-  - k) Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov ..... | 13 eur
+  - k) | Potvrdenie o pobyte cudzinca na území Slovenskej republiky | 3 eurá
 
-  - l) Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov ..... | 8 eur
+  - l) | Vydanie cudzineckého pasu cudzincovi | 33 eur
 
-  - m) Žiadosť o vydanie modrej karty Európskej únie ..... | 165,50 eura
+  - m) | Vydanie cudzineckého pasu cudzincovi od 5 do 15 rokov | 13 eur
 
-  - n) Žiadosť o obnovenie modrej karty Európskej únie ..... | 99,50 eura
+  - n) | Vydanie cudzineckého pasu cudzincovi mladšiemu ako 5 rokov | 8 eur
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) a c) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom.<sup>16a</sup>) 2. Od poplatkov podľa písmen a) až d), g) a h) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 3. Od poplatkov podľa písmen a) a c) tejto položky je oslobodené udelenie alebo obnovenie povolenia na pobyt štipendistov vlády Slovenskej republiky, ktorým bolo štipendium priznané. 4. Od poplatkov podľa písmen a) a c) tejto položky je na základe vzájomnosti oslobodené udelenie alebo obnovenie povolenia na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 5. Od poplatku podľa písmen g) a h) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b), d) a e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 6. Od poplatku podľa písmena j) tejto položky sú oslobodené osoby, ktorým bolo udelené povolenie na tolerovaný pobyt podľa § 43 ods. 1 písm. e) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 7. Od poplatku podľa písmen j), k) a l) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 43 ods. 1 písm. a), b) a d) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým má byť cudzinecký pas vydaný podľa § 47 ods. 2 písm. b) zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov alebo ktorým bola poskytnutá doplnková ochrana podľa zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 8. Od poplatku podľa písmen b) a d) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 písm. a) a § 45a až 45d zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. |
+  - Oslobodenie
 
-  - Splnomocnenie Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti. Správny orgán môže vybrať poplatok podľa písmena f) tejto položky až do výšky štvornásobku sadzby, ak sa vydáva doklad o pobyte pre cudzinca na území Slovenskej republiky po druhýkrát, prípadne viackrát do jedného roka od vydania predošlého dokladu. |
+  - 1. Od poplatkov podľa písmen a) a d) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom alebo s cudzincom, ktorému bola poskytnutá doplnková ochrana.
+
+  - 2. Od poplatkov podľa písmen a), b), d), e) tejto položky sú oslobodené osoby, ktoré sú pedagogickí zamestnanci alebo vysokoškolskí učitelia.
+
+  - 3. Od poplatkov podľa písmen a), c), d), i) a j) tejto položky sú oslobodené osoby mladšie ako 18 rokov.
+
+  - 4. Od poplatkov podľa písmen a) a d) tejto položky sú na základe vzájomnosti oslobodení stážisti, ktorým sa poskytuje štipendium Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektori cudzích jazykov prichádzajúci na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv.
+
+  - 5. Od poplatku podľa písmena c) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie trvalého pobytu podľa § 43 ods. 1 písm. a) zákona č. 404/2011 Z. z.
+
+  - 6. Od poplatku podľa písmena f) sú oslobodené osoby, ktoré žiadajú o vydanie nového dokladu o pobyte, ak záznamy v ňom nezodpovedajú skutočnosti z dôvodu, ktorý nie je závislý od žiadateľa, napríklad pri zmene názvu obce, ulice alebo jej číslovania.
+
+  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a b), ods. 2 písm. a) a c) a ods. 3 zákona č. 404/2011 Z. z.
+
+  - 8. Od poplatku podľa písmena l) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 2 písm. c) a ods. 3 zákona č. 404/2011 Z. z.
+
+  - 9. Od poplatkov podľa písmen l) až n) tejto položky sú oslobodené
+
+  - a) osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a b) a ods. 2 písm. a) zákona č. 404/2011 Z. z.,
+
+  - b) osoby, ktorým má byť cudzinecký pas vydaný podľa § 74 ods. 2 písm. b) a c) zákona č. 404/2011 Z. z.,
+
+  - c) osoby, ktorým bola poskytnutá doplnková ochrana podľa zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - Splnomocnenie
+
+  - Správny orgán môže od vybratia poplatku podľa tejto položky upustiť alebo poplatok znížiť z humanitného dôvodu alebo z dôvodu vzájomnosti.
 
     - Položka 26
 
@@ -538,9 +568,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci podľa osobitného predpisu.<sup>16b</sup>) |
 
-  - 2. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. |
+  - 2. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Únie.<sup>16c</sup>) |
 
-  - 3. Od poplatku podľa písmena b) tejto položky sú oslobodení cudzinci, ktorí požiadali o predĺženie krátkodobého víza z dôvodu živelnej pohromy alebo z humanitárneho dôvodu. |
+  - 3. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Slovenskej republiky v rozsahu rodinných príslušníkov občanov Únie podľa druhého bodu. |
+
+  - 4. Od poplatku podľa písmena a) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky. |
+
+  - 5. Od poplatku podľa písmena b) tejto položky sú oslobodení cudzinci, ktorí požiadali o predĺženie krátkodobého víza z dôvodu živelnej pohromy alebo z humanitárneho dôvodu. |
 
   - Splnomocnenie Správny orgán môže v odôvodnených prípadoch z dôvodov všeobecného záujmu alebo z humanitného dôvodu poplatok znížiť alebo upustiť od jeho vybratia; z dôvodu vzájomnosti môže poplatok zvýšiť alebo znížiť. |
 
@@ -1820,177 +1854,379 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 90
 
-  - a) Vydanie súhlasu na zriadenie letísk | |
+  - a) | Vydanie súhlasu na zriadenie letiska | |
 
-  - 1. verejné letisko s medzinárodnou dopravou .............................................................. | 331,50 eura
+  - | 1. | verejné letisko s medzinárodnou prevádzkou ..... | 10 000 eur
 
-  - 2. verejné letisko s vnútroštátnou dopravou .................................................................. | 265,50 eura
+  - | 2. | verejné letisko s vnútroštátnou prevádzkou ..... | 5 000 eur
 
-  - 3. verejné letisko pre všeobecné letectvo s medzinárodnou prevádzkou ................ | 165,50 eura
+  - | 3. | verejné letisko pre všeobecné letectvo s medzinárodnou prevádzkou ..... | 2 500 eur
 
-  - 4. verejné letisko pre všeobecné letectvo s vnútroštátnou prevádzkou .................... | 99,50 eura
+  - | 4. | verejné letisko pre všeobecné letectvo s vnútroštátnou prevádzkou ..... | 2 000 eur
 
-  - 5. neverejné letisko pre všeobecné letectvo .................................................................. | 165,50 eura
+  - | 5. | neverejné letisko pre všeobecné letectvo ..... | 1 000 eur
 
-  - b) Vydanie licencie pre tuzemského leteckého dopravcu |
+  - b) | Vydanie súhlasu na vykonanie podstatnej zmeny letiska ..... | | 1 000 eur
 
-  - 1. prvé vydanie ..................................................................................................................... | 165,50 eura
+  - c) | Vydanie súhlasu na zrušenie letiska ... | | 700 eur
 
-  - 2. predĺženie platnosti alebo podstatná zmena ............................................................ | 33 eur
+  - d) | Vydanie súhlasu na zriadenie stavby na prenajatom pozemku verejného letiska ..... | | 1 000 eur
 
-  - c) Vydanie súhlasu na zriadenie stavby na prenajatom pozemku verejného letiska | 331,50 eura
+  - e) | Vydanie licencie na vykonávanie leteckej dopravy | |
+
+  - | 1. | prvé vydanie ..... | 3 500 eur
+
+  - | 2. | predĺženie platnosti ..... | 700 eur
+
+  - | 3. | podstatná zmena ..... | 60 eur
 
     - Položka 91
 
-  - a) Vydanie rozhodnutia o povolení na prevádzkovanie letiska |
+  - a) | Vydanie rozhodnutia o povolení na prevádzkovanie letiska | | |
 
-  - 1. verejné letisko so vzletovou a s pristávacou dráhou alebo so vzletovou a s dosadacou plochou |
+  - | 1. | verejné letisko so vzletovou a s pristávacou dráhou alebo s plochou konečného priblíženia a vzletu | |
 
-  - 1.1. neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | 66 eur
+  - | | 1.1. | neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | 80 eur
 
-  - 1.2. neprístrojovou, so svetelným zabezpečovacím zariadením ..... | 132,50 eura
+  - | | 1.2. | neprístrojovou, so svetelným zabezpečovacím zariadením ..... | 140 eur
 
-  - 1.3. prístrojovou ..... | 265,50 eura
+  - | | 1.3. | prístrojovou ..... | 280 eur
 
-  - 1.4. na presné priblíženie I. kategórie Medzinárodnej organizácie civilného letectva ..... | 331,50 eura
+  - | | 1.4. | na presné priblíženie I. kategórie Medzinárodnej organizácie civilného letectva ..... | 360 eur
 
-  - 1.5. na presné priblíženie II. kategórie Medzinárodnej organizácie civilného letectva ..... | 497,50 eura
+  - | | 1.5. | na presné priblíženie II. kategórie Medzinárodnej organizácie civilného letectva ..... | 500 eur
 
-  - 1.6. na presné priblíženie III. kategórie Medzinárodnej organizácie civilného letectva ..... | 663,50 eura
+  - | | 1.6. | na presné priblíženie III. kategórie Medzinárodnej organizácie civilného letectva ..... | 660 eur
 
-  - 2. neverejné letisko so vzletovou a s pristávacou dráhou alebo so vzletovou a s dosadacou plochou |
+  - | 2. | neverejné letisko so vzletovou a s pristávacou dráhou alebo s plochou konečného priblíženia a vzletu | |
 
-  - 2.1. neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | 66 eur
+  - | | 2.1. | neprístrojovou, bez svetelného zabezpečovacieho zariadenia ... | 80 eur
 
-  - 2.2. neprístrojovou, so svetelným zabezpečovacím zariadením ..... | 99,50 eura
+  - | | 2.2. | neprístrojovou, so svetelným zabezpečovacím zariadením ..... | 100 eur
 
-  - 2.3. prístrojovou ..... | 99 eur
+  - | | 2.3. | prístrojovou ..... | 200 eur
 
-  - b) Vydanie rozhodnutia o povolení na prevádzkovanie leteckého pozemného zariadenia ..... | 66 eur
+  - | | 2.4. | na presné priblíženie I. kategórie Medzinárodnej organizácie civilného letectva ..... | 340 eur
 
-  - c) Vydanie rozhodnutia o vyhlásení ochranného pásma |
+  - | | 2.5. | na presné priblíženie II. kategórie Medzinárodnej organizácie civilného letectva ..... | 500 eur
 
-  - 1. dopravného letiska ..... | 331,50 eura
+  - | | 2.6. | na presné priblíženie III. kategórie Medzinárodnej organizácie civilného letectva ..... | 660 eur
 
-  - 2. letiska na iné účely ..... | 165,50 eura
+  - b) | Zmena alebo doplnenie povolenia alebo predĺženie platnosti povolenia podľa písmena a) ..... | | | 25 % príslušnej sadzby
 
-  - 3. leteckého pozemného zariadenia ..... | 165,50 eura
+  - c) | Vydanie rozhodnutia o súhlase na zriadenie leteckého pozemného zariadenia alebo na vykonanie jeho podstatnej zmeny ..... | | | 80 eur
 
-  - 4. ornitologických ochranných pásiem ..... | 66 eur
+  - d) | Vydanie rozhodnutia o povolení na prevádzkovanie leteckého pozemného zariadenia ..... | | | 80 eur
 
-  - d) Vydanie rozhodnutia o prekážkovom značení ..... | 6,50 eura
+  - e) | Vydanie rozhodnutia o určení ochranných pásem | | |
 
-  - e) Rozhodnutie o udelení výnimky z ochranného pásma leteckého pozemného zariadenia ..... | 99,50 eura
+  - | 1. | letiska ..... | | 500 eur
 
-  - f) Posúdenie vhodnosti lokality navrhovanej na výstavbu spojené s miestnym zisťovaním |
+  - | 2. | vrtuľníkového letiska (heliportu) ..... | | 200 eur
 
-  - 1. dopravného letiska ..... | 66 eur
+  - | 3. | leteckého pozemného zariadenia ..... | | 500 eur
 
-  - 2. letiska pre všeobecné letectvo ..... | 49,50 eura
+  - | 4. | ornitologických ochranných pásiem ... | | 80 eur
 
-  - 3. vrtuľníkového letiska (heliportu) ..... | 49,50 eura
+  - f) | Vydanie rozhodnutia o prekážkovom značení ..... | | | 20 eur
 
-  - 4. leteckého pozemného zariadenia ..... | 49,50 eura
+  - g) | Posúdenie vhodnosti lokality navrhovanej na výstavbu spojené s miestnym zisťovaním | | |
 
-  - g) Schválenie letiskovej prevádzkovej príručky alebo dokumentu, ktorý ho nahrádza, |
+  - | 1. | vrtuľníkového letiska (heliportu) leteckej záchrannej služby ..... | | 180 eur
 
-  - 1. medzinárodného dopravného letiska ..... | 116 eur
+  - | 2. | vrtuľníkového letiska (heliportu) ..... | | 280 eur
 
-  - 2. medzinárodného letiska pre všeobecné letectvo ..... | 66 eur
+  - | 3. | letiska pre letecké práce v poľnohospodárstve, lesnom a vodnom hospodárstve ..... | | 280 eur
 
-  - 3. vnútroštátneho dopravného letiska ..... | 66 eur
+  - | 4. | letiska pre všeobecné letectvo s dĺžkou vzletovej a pristávacej dráhy do 1 200 m ..... | | 340 eur
 
-  - 4. vnútroštátneho letiska pre všeobecné letectvo ..... | 49,50 eura
+  - | 5. | iného letiska s dĺžkou vzletovej a pristávacej dráhy do 1 200 m ..... | | 660 eur
 
-  - 5. vrtuľníkového letiska (heliportu) ..... | 49,50 eura
+  - | 6. | letiska s dĺžkou vzletovej a pristávacej dráhy nad 1 200 m ..... | | 1 660 eur
 
-  - h) Vydanie súhlasu so zriadením leteckého pozemného zariadenia alebo s jeho podstatnou zmenou ..... | 66 eur
+  - | 7. | leteckého pozemného zariadenia ..... | | 60 eur
 
-  - i) Vydanie osvedčenia prevádzkovateľa lietadla pre tuzemského leteckého dopravcu |
+  - h) | Schválenie letiskovej prevádzkovej príručky alebo dokumentu, ktorý ho nahrádza, pre letisko so vzletovou a pristávacou dráhou a plochou konečného priblíženia a vzletu | | |
 
-  - 1. prvé vydanie ..... | 331,50 eura
+  - | 1. | neprístrojovou, bez svetelného zabezpečovacieho zariadenia ..... | | 80 eur
 
-  - 2. predĺženie platnosti ..... | 165,50 eura
+  - | 2. | neprístrojovou, so svetelným zabezpečovacím zariadením ..... | | 140 eur
 
-  - 3. zmena alebo doplnenie ..... | 99,50 eura
+  - | 3. | prístrojovou na nepresné priblíženie a na presné priblíženie I. kategórie Medzinárodnej organizácie civilného letectva ..... | | 300 eur
 
-  - j) Vydanie osvedčenia leteckej školy – jednopilotné lietadlo |
+  - | 4. | na presné priblíženie II. kategórie Medzinárodnej organizácie civilného letectva ..... | | 400 eur
 
-  - 1. prvé vydanie ..... | 165,50 eura
+  - | 5. | na presné priblíženie III. kategórie Medzinárodnej organizácie civilného letectva ..... | | 500 eur
 
-  - 2. predĺženie platnosti ..... | 82,50 eura
+  - i) | Vydanie osvedčenia leteckého prevádzkovateľa | | |
 
-  - 3. zmena alebo doplnenie ..... | 33 eur
+  - | 1. | prvé vydanie ..... | | 3 500 eur
 
-  - k) Vydanie osvedčenia leteckej školy – viacpilotné lietadlo |
+  - | 2. | predĺženie platnosti ..... | | 360 eur
 
-  - 1. prvé vydanie ..... | 331,50
+  - | 3. | zmena alebo doplnenie ..... | | 180 eur
 
-  - 2. predĺženie platnosti ..... | 165,50 eura
+  - j) | Vydanie osvedčenia leteckej školy – jednopilotné lietadlo | | |
 
-  - 3. zmena alebo doplnenie ...... | 99,50 eura
+  - | 1. | prvé vydanie ..... | | 360 eur
 
-  - l) Vydanie povolenia prevádzkovateľovi lietadla na výcvik pre vlastnú potrebu |
+  - | 2. | predĺženie platnosti ..... | | 160 eur
 
-  - 1. prvé vydanie ..... | 165,50 eura
+  - | 3. | zmena alebo doplnenie ..... | | 100 eur
 
-  - 2. zmena alebo doplnenie ..... | 33 eur
+  - k) | Vydanie osvedčenia leteckej školy – viacpilotné lietadlo alebo vydanie osvedčenia leteckej školy pre výcvik technika údržby lietadiel podľa časti 147 | | |
 
-  - m) Vydanie povolenia na letecké práce za úhradu a iné podnikanie v civilnom letectve |
+  - | 1. | prvé vydanie ..... | | 2 000 eur
 
-  - 1. prvé vydanie ..... | 331,50 eura
+  - | 2. | predĺženie platnosti ..... | | 500 eur
 
-  - 2. predĺženie platnosti ..... | 165,50 eura
+  - | 3. | zmena alebo doplnenie ..... | | 300 eur
 
-  - 3. zmena alebo doplnenie ..... | 99,50 eura
+  - l) | Vydanie povolenia prevádzkovateľovi lietadla na výcvik leteckého personálu pre vlastnú potrebu | | |
 
-  - n) Povolenie na usporiadanie leteckého dňa, leteckej súťaže a iného verejného leteckého podujatia ..... | 33 eur
+  - | 1. | prvé vydanie ..... | | 1 000 eur
 
-  - o) Vydanie súhlasu na vykonanie iného ako dopravného letu civilného lietadla zahraničného prevádzkovateľa vo vzťahu k územiu Slovenskej republiky ..... | 165,50 eura
+  - | 2. | predĺženie platnosti ..... | | 160 eur
 
-  - p) Vydanie súhlasu na prevádzku lietadiel zapísaných v registri lietadiel Slovenskej republiky mimo územia Slovenskej republiky presahujúcu 21 dní a na prevádzku lietadiel zapísaných v registri lietadiel cudzieho štátu tuzemskými prevádzkovateľmi ..... | 165,50 eura
+  - | 3. | zmena alebo doplnenie ..... | | 100 eur
 
-  - r) Zmena alebo doplnenie rozhodnutia podľa písmena a) a jeho obnovenie ..... | 25 % príslušnej sadzby
+  - m) | Vydanie povolenia na vykonávanie leteckých prác a iného podnikania v civilnom letectve podľa osobitného predpisu<sup>25aa</sup>) | | |
 
-  - s) Dodatočné posúdenie vhodnosti lokality podľa písmena f) ..... | 99,50 eura
+  - | 1. | prvé vydanie ..... | | 600 eur
 
-  - t) Pridelenie kmitočtu v kmitočtovom pásme leteckých telekomunikačných služieb ..... | 33 eur
+  - | 2. | predĺženie platnosti ..... | | 360 eur
 
-  - u) Vydanie súhlasu na použitie výrobku leteckej techniky v civilnom letectve |
+  - | 3. | zmena alebo doplnenie ..... | | 60 eur
 
-  - 1. podliehajúce komplexnému overovaniu ..... | 165,50 eura
+  - n) | Povolenie na usporiadanie leteckého dňa, leteckej súťaže a iného verejného leteckého podujatia ..... | | | 60 eur
 
-  - 2. na základe dokladu vydaného leteckým úradom iného štátu ..... | 82,50 eura
+  - o) | Vydanie súhlasu na vykonanie iného ako dopravného letu civilného lietadla zahraničného prevádzkovateľa vo vzťahu k územiu Slovenskej republiky ... | | | 200 eur
 
-  - v) Schválenie bezpečnostného programu na ochranu civilného letectva ..... | 66 eur
+  - p) | Vydanie súhlasu na prevádzku lietadla zapísaného v registri lietadiel Slovenskej republiky mimo územia Slovenskej republiky, ktorá presahuje 21 dní a na prevádzku lietadla zapísaného v registri lietadiel cudzieho štátu tuzemským prevádzkovateľom, pre každé lietadlo ... | | | 200 eur
 
-  - Poznámka |
+  - r) | Pridelenie frekvencie v pásmach leteckých telekomunikačných služieb alebo zmena pridelenej frekvencie ..... | | | 200 eur
 
-  - Zmeny a doplnky rozhodnutí vykonané nezávisle od majiteľa alebo od prevádzkovateľa leteckého pozemného zariadenia sa nespoplatňujú. |
+  - s) | Pridelenie jedinečného identifikačného kódu pre núdzový vysielač polohy ..... | | | 160 eur
+
+  - t) | Pridelenie kódu módu S ..... | | | 160 eur
+
+  - u) | Súhlas s prevádzkovaním vybraného rádiového zariadenia leteckej telekomunikačnej služby ..... | | | 40 eur
+
+  - v) | Vydanie duplikátu o pridelení frekvencie v pásmach leteckých telekomunikačných služieb alebo o zmene frekvencie v pásmach leteckých telekomunikačných služieb alebo o pridelení jedinečného identifikačného kódu pre núdzový vysielač polohy alebo o pridelení kódu módu S ..... | | | 40 eur“.
+
+    - Položka 91a
+
+  - a) | Vydanie povolenia na projektovanie, výrobu, opravy a údržbu leteckej techniky a leteckého pozemného zariadenia podľa osobitného predpisu<sup>25ab</sup>) pre | |
+
+  - | 1. | spoločnosť do 10 zamestnancov ..... | 500 eur
+
+  - | 2. | spoločnosť od 11 do 50 zamestnancov ... | 1 000 eur
+
+  - | 3. | spoločnosť od 51 do 100 zamestnancov ... | 2 000 eur
+
+  - | 4. | spoločnosť nad 100 zamestnancov ... | 4 000 eur
+
+  - b) | Schválenie ďalšieho miesta údržby schválenej právnickej osobe alebo fyzickej osobe na údržbu v zahraničí ..... | | 900 eur
+
+  - c) | Uznanie spôsobilosti skúšobne a skúšobného zariadenia leteckej techniky a leteckého pozemného zariadenia ..... | | 500 eur
+
+  - d) | Schválenie zmluvy na údržbu lietadla zapísaného v registri lietadiel Slovenskej republiky medzi leteckým prevádzkovateľom a údržbovou organizáciou ..... | | 60 eur
+
+  - e) | Vydanie povolenia na riadenie zachovania letovej spôsobilosti lietadla ... | | 2 000 eur
+
+  - f) | Vydanie povolenia na overovanie letovej spôsobilosti lietadla (vydanie odporúčacej správy a vydanie osvedčenia o overení letovej spôsobilosti) | |
+
+  - | 1. | pre lietadlá s maximálnou vzletovou hmotnosťou pod 2 750 kg (vrátane) ... | 200 eur
+
+  - | 2. | pre lietadlá s maximálnou vzletovou hmotnosťou nad 2 750 kg ..... | 1 000 eur
+
+  - g) | Zmena, predĺženie alebo rozšírenie povolenia alebo schválenia ..... | | 25 % príslušnej sadzby podľa písmen a) až f)
+
+  - h) | Osvedčovanie technickej spôsobilosti typu pohonnej jednotky, vrátane typového osvedčenia pre vetrone a lietadlá s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | | 1 000 eur
+
+  - i) | Osvedčovanie modifikácie alebo zmeny pohonnej jednotky vrátane vydania dodatku k typovému osvedčeniu pre vetrone a lietadlá s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | | 800 eur
+
+  - j) | Uznanie platného dokladu o typovej spôsobilosti pohonnej jednotky vydaného leteckým úradom cudzieho štátu pre vetrone a lietadlá s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | | 500 eur
+
+  - k) | Osvedčovanie technickej spôsobilosti vrátane vydania typového osvedčenia pre | |
+
+  - | 1. | pevné drevené alebo kompozitové vrtule ... | 600 eur
+
+  - | 2. | pevné kovové vrtule ..... | 900 eur
+
+  - | 3. | prestaviteľné vrtule ..... | 1 500 eur
+
+  - | 4. | staviteľné vrtule ..... | 2 500 eur
+
+  - | 5. | zmena, doplnenie alebo predĺženie osvedčenia ..... | 25 % príslušnej sadzby
+
+  - l) | Výstroj lietadla | |
+
+  - | 1. | schválenie spôsobilosti a vydanie typového osvedčenia alebo súhlasu s použitím výrobku v civilnom letectve pre súčasti výstroja lietadla ..... | 60 eur
+
+  - | 2. | schválenie spôsobilosti a vydanie typového osvedčenia alebo súhlasu s použitím výrobku v civilnom letectve na základe dokladu o spôsobilosti vydaného iným leteckým úradom ..... | 60 eur
+
+  - m) | Vydanie súhlasu na použitie leteckého pozemného zariadenia určeného na výcvik leteckého personálu v civilnom letectve ... | | 660 eur
+
+  - | 1. | zmena, doplnenie alebo predĺženie platnosti súhlasu ..... | 25 % príslušnej sadzby podľa písmena m)
+
+    - Položka 91b
+
+  - a) | Vydanie osvedčenia letovej spôsobilosti<sup>25ac</sup>) pre | |
+
+  - | 1. | balóny, vzducholode ..... | 60 eur
+
+  - | 2. | vetrone ..... | 100 eur
+
+  - | 3. | motorizované klzáky ..... | 200 eur
+
+  - | 4. | lietadlá s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | 320 eur
+
+  - | 5. | lietadlá s maximálnou vzletovou hmotnosťou pod 2 750 kg (vrátane) ..... | 500 eur
+
+  - | 6. | lietadlá s maximálnou vzletovou hmotnosťou pod 5 700 kg (vrátane) ..... | 1500 eur
+
+  - | 7. | lietadlá s maximálnou vzletovou hmotnosťou pod 30 000 kg (vrátane) ... | 3 500 eur
+
+  - | 8. | lietadlá s maximálnou vzletovou hmotnosťou nad 30 000 kg ..... | 7 000 eur
+
+  - b) | Zmena alebo predĺženie osvedčenia letovej spôsobilosti ..... | | 25 % príslušnej sadzby podľa písmena a)
+
+  - c) | Vydanie typového certifikátu pre lietadlo ... | | 3 500 eur
+
+  - | 1. | schválenie modifikácie alebo dodatku k typovému osvedčeniu lietadla ..... | 25 % príslušnej sadzby
+
+  - d) | Uznanie osvedčenia o typovej spôsobilosti vydaného príslušnými orgánmi cudzieho štátu | |
+
+  - | 1. | balóny, vzducholode ..... | 60 eur
+
+  - | 2. | vetrone ..... | 100 eur
+
+  - | 3. | motorizované klzáky a lietadlá s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | 160 eur
+
+  - e) | Osvedčovanie letovej spôsobilosti jednotlivo amatérsky stavaného lietadla<sup>25ad</sup>) ..... | | 2 000 eur
+
+  - f) | Vydanie letového povolenia | |
+
+  - | 1. | vetroňa, motorizovaného vetroňa, lietadla s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane) ..... | 100 eur
+
+  - | 2. | lietadla a vrtuľník s maximálnou vzletovou hmotnosťou pod 5 700 kg (vrátane) ..... | 200 eur
+
+  - | 3. | lietadla a vrtuľník s maximálnou vzletovou hmotnosťou nad 5 700 kg ... | 1 500 eur
+
+  - g) | Vydanie osvedčenia o overení letovej spôsobilosti bez odporúčacej správy motorovým lietadlám | |
+
+  - | 1. | s maximálnou vzletovou hmotnosťou pod 2 750 kg (vrátane) ..... | 700 eur
+
+  - | 2. | s maximálnou vzletovou hmotnosťou pod 5 700 kg (vrátane) ..... | 2 000 eur
+
+  - | 3. | s maximálnou vzletovou hmotnosťou pod 30 000 kg (vrátane) ..... | 4 000 eur
+
+  - | 4. | s maximálnou vzletovou hmotnosťou nad 30 000 kg ..... | 9 000 eur
+
+  - h) | Vydanie osvedčenia o overení letovej spôsobilosti na základe odporúčacej správy motorovým lietadlám | |
+
+  - | 1. | s maximálnou vzletovou hmotnosťou pod 2 750 kg (vrátane) ..... | 160 eur
+
+  - | 2. | s maximálnou vzletovou hmotnosťou pod 5 700 kg (vrátane) ..... | 240 eur
+
+  - | 3. | s maximálnou vzletovou hmotnosťou pod 30 000 kg (vrátane) ..... | 1 000 eur
+
+  - | 4. | s maximálnou vzletovou hmotnosťou nad 30 000 kg ..... | 3 320 eur
+
+  - i) | Vydanie osvedčenia o overení letovej spôsobilosti vetroňom, klzákom, motorizovaným vetroňom na základe odporúčacej správy ..... | | 200 eur
+
+  - j) | Vydanie osvedčenia o overení letovej spôsobilosti vetroňom, klzákom, motorizovaným vetroňom bez odporúčacej správy ..... | | 600 eur
+
+    - Položka 91c
+
+  - a) | Schválenie programu bezpečnostnej ochrany<sup>25ae</sup>) | |
+
+  - | 1. | medzinárodného verejného letiska ... | 340 eur
+
+  - | 2. | verejného letiska ..... | 160 eur
+
+  - | 3. | leteckého prevádzkovateľa ..... | 340 eur
+
+  - b) | Schválenie výcvikového strediska na prepravu nebezpečného tovaru ..... | | 660 eur
+
+  - c) | Zmena, doplnenie alebo predĺženie platnosti povolenia ..... | | 50 % príslušnej sadzby podľa písmen a) a b)
+
+  - d) | Žiadosť o posúdenie spoľahlivosti podľa § 34a leteckého zákona ..... | | 10 eur
+
+    - Položka 91d
+
+  - a) | Vykonanie teoretickej skúšky leteckého personálu na získanie preukazu spôsobilosti alebo kvalifikácie | |
+
+  - | 1. | pilot voľného balóna, pilot lietadla s maximálnou vzletovou hmotnosťou pod 450 kg (vrátane), pilot vetroňa, operátor leteckej rádiovej pozemnej stanice ..... | 20 eur
+
+  - | 2. | súkromný pilot, obchodný pilot, dopravný pilot, letecký navigátor, palubný inžinier, palubný rádiotelefonista, palubný sprievodca, technik údržby lietadla, dispečer leteckej dopravy, riadiaci letovej prevádzky ..... | 10 eur za každý predmet predpísanej skúšky podľa odbornosti
+
+  - | 3. | získanie kvalifikácie k preukazu spôsobilosti ..... | 10 eur za každý predmet predpísanej skúšky podľa odbornosti
+
+  - | 4. | jazyková skúška ..... | 60 eur
+
+  - b) | Vydanie preukazu spôsobilosti | |
+
+  - | 1. | prvé vydanie ..... | 8 eur
+
+  - | 2. | vpísanie kvalifikácie, doložky alebo kategórie ..... | 20 eur
+
+  - | 3. | zmena alebo predĺženie ..... | 8 eur
+
+  - | 4. | vydanie preukazu spôsobilosti na základe preukazu spôsobilosti vydaného iným štátom ..... | 50 eur
+
+  - | 5. | uznanie cudzieho preukazu spôsobilosti ..... | 50 eur
+
+  - c) | Mimoriadne teoretické preskúšanie, ktorým je podmienené vrátenie odobratého preukazu spôsobilosti, kvalifikácie alebo oprávnenia ..... | | 60 eur
+
+  - d) | Praktické preskúšanie inšpektorom leteckého úradu | |
+
+  - | 1. | na jednopilotnom lietadle – pravidlá letu za viditeľnosti ..... | 60 eur
+
+  - | 2. | na jednopilotnom lietadle – pravidlá letu podľa prístrojov ..... | 80 eur
+
+  - | 3. | na viacpilotnom lietadle – pravidlá letu za viditeľnosti ..... | 80 eur
+
+  - | 4. | na viacpilotnom lietadle – pravidlá letu podľa prístrojov ..... | 160 eur
+
+  - e) | Mimoriadne praktické preskúšanie inšpektorom leteckého úradu | |
+
+  - | 1. | na jednopilotnom lietadle – pravidlá letu za viditeľnosti ..... | 120 eur
+
+  - | 2. | na jednopilotnom lietadle – pravidlá letu podľa prístrojov ..... | 160 eur
+
+  - | 3. | na viacpilotnom lietadle – pravidlá letu za viditeľnosti ..... | 240 eur
+
+  - | 4. | na viacpilotnom lietadle – pravidlá letu podľa prístrojov ..... | 320 eur
 
     - Položka 92
 
-  - a) Zápis civilného lietadla do slovenského leteckého registra |
+  - a) | Zápis lietadla do registra lietadiel Slovenskej republiky | |
 
-  - 1. s maximálnou vzletovou hmotnosťou pod 2 250 kg (vrátane) ........................... | 16,50 eura
+  - | 1. | s maximálnou vzletovou hmotnosťou pod 2 750 kg (vrátane) ... | 100 eur
 
-  - 2. s maximálnou vzletovou hmotnosťou od 2 250 kg do 5 700 kg (vrátane) ...... | 49,50 eura
+  - | 2. | s maximálnou vzletovou hmotnosťou od 2 751 kg do 5 700 kg (vrátane) ..... | 500 eur
 
-  - 3. s maximálnou vzletovou hmotnosťou nad 5 700 kg ............................................ | 165,50 eura
+  - | 3. | s maximálnou vzletovou hmotnosťou nad 5 701 kg ..... | 1 000 eur
 
-  - b) Výmaz civilného lietadla zo slovenského leteckého registra |
+  - b) | Výmaz lietadla z registra lietadiel Slovenskej republiky ..... | | 20 eur
 
-  - 1. s maximálnou vzletovou hmotnosťou pod 2 250 kg (vrátane) ........................... | 1,50 eura
+  - c) | Zápis lietadla do evidencie lietajúcich športových zariadení ..... | | 60 eur
 
-  - 2. s maximálnou vzletovou hmotnosťou od 2 250 kg do 5 700 kg (vrátane) ....... | 4,50 eura
+  - d) | Výmaz lietadla z evidencie lietajúcich športových zariadení ..... | | 10 eur
 
-  - 3. s maximálnou vzletovou hmotnosťou nad 5 700 kg ............................................ | 16,50 eura
+  - e) | Pridelenie poznávacej značky alebo špeciálnej poznávacej značky (za každú značku osobitne) ..... | | 40 eur
 
-  - c) Pridelenie registrovej značky ..................................................................................... | 33 eur
+  - f) | Vydanie palubného denníka alebo lietadlovej knihy ..... | | 40 eur
 
-  - d) Vykonanie zmeny v dokladoch lietadla .................................................................... | 16,50 eura
+  - g) | Vykonanie zmeny v dokladoch lietadla ..... | | 25 % príslušnej sadzby podľa písmen a), c), e) a f)
 
-  - e) Vydanie palubného denníka alebo lietadlovej knihy ............................................. | 6,50 eura
+  - h) | Podanie žiadosti o vydanie dokumentu, rozhodnutia, osvedčenia schválenia alebo preukazu spôsobilosti podľa položky 90 až 92 ako náhrada za zničený, stratený, odcudzený alebo poškodený dokument, rozhodnutie, osvedčenie schválenie alebo preukaz spôsobilosti ..... | | 20 eur
+
+  - i) | Podanie žiadosti o vydanie dokumentu, rozhodnutia, osvedčenia schválenia alebo preukazu spôsobilosti podľa položky 90 až 92 ako náhrada za zničený, stratený, odcudzený alebo poškodený dokument, rozhodnutie, osvedčenie schválenie alebo preukaz spôsobilosti, opakovane v priebehu dvoch po sebe nasledujúcich rokoch .... | | 35 eur
+
+  - Oslobodenie Od poplatku podľa položky 90 až 92 je oslobodená osoba, ktorej sa vydáva dokument, rozhodnutie, osvedčenie alebo preukaz ako náhrada pri zmene nezavinenej fyzickou osobou alebo právnickou osobou, alebo ak bola v dokumente, rozhodnutí, osvedčení alebo preukaze zistená chyba zapríčinená štátnym orgánom, ktorý dokument, rozhodnutie, osvedčenie alebo preukaz vydal. Od poplatku podľa položky 92 písm. b) je oslobodený výmaz lietadla, o ktorého vyradení z prevádzky rozhodol Letecký úrad Slovenskej republiky. | | |
 
     - Položka 93
 
@@ -2416,17 +2652,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 143
 
-  - a) Vydanie rozhodnutia daňovým orgánom, colným orgánom alebo obcou v daňovom konaní na základe žiadosti daňového subjektu podľa § 4, § 13, § 59 a § 64 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov ....................................................................... | 9,50 eura
+  - a) Vydanie rozhodnutia o delegovaní miestnej príslušnosti na správu dane, vydanie rozhodnutia o predĺžení lehoty, vydanie rozhodnutia o odpustení zmeškanej lehoty, vydanie rozhodnutia o povolení odkladu platenia dane alebo platenia dane v splátkach, vydanie rozhodnutia o povolení úľavy na dani alebo odpustení daňového nedoplatku na dani v daňovom konaní na základe žiadosti daňového subjektu podľa osobitného predpisu<sup>32a</sup>) ................. | 9,50 eura | |
 
-  - b) Vydanie potvrdenia daňovým orgánom, colným orgánom podľa osobitných predpisov<sup>8</sup>) .................. | 3 eurá
+  - b) Vydanie potvrdenia orgánom finančnej správy podľa osobitného predpisu<sup>32a</sup>) .................. | 3 eurá | |
 
-  - c) Doplnenie údajov na predtlačenom tlačive, ktoré predloží žiadateľ ......................................................... | 1,50 eura
+  - c) Doplnenie údajov na predtlačenom tlačive, ktoré predloží žiadateľ ......................................................... | 1,50 eura | |
 
-  - d) Pridelenie registračného odberného čísla ................................................................................................... | 9,50 eura
+  - d) Pridelenie registračného odberného čísla ................................................................................................... | 9,50 eura | |
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodené vydanie potvrdenia o preukázaní podmienok na uznanie nezdaniteľných častí základu dane pri príjmoch fyzických osôb zo závislej činnosti a funkčných požitkov vydávané daňovými úradmi podľa § 43 ods. 1 písm. g) zákona č. 366/1999 Z. z. o daniach z príjmov. Oslobodené je aj vydanie potvrdenia o daňovej rezidencii a vydanie potvrdenia o zaplatení dane na území Slovenskej republiky pre nerezidentné osoby na účely aplikácie medzinárodných zmlúv, ktorými je Slovenská republika viazaná. 2. Od poplatku podľa tejto položky je oslobodené potvrdenie o registrácii podľa výnosu Ministerstva financií Slovenskej republiky č. 63/161/1995 o náležitostiach žiadosti o vydanie povolenia na nákup liehu oslobodeného od spotrebnej dane z liehu. |
+  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodené vydanie potvrdenia o daňovej rezidencii a vydanie potvrdenia o zaplatení dane na území Slovenskej republiky pre nerezidentné osoby na účely aplikácie medzinárodných zmlúv, ktorými je Slovenská republika viazaná. 2. Od poplatku podľa tejto položky je oslobodené potvrdenie o registrácii podľa výnosu Ministerstva financií Slovenskej republiky č. 63/161/1995 o náležitostiach žiadosti o vydanie povolenia na nákup liehu oslobodeného od spotrebnej dane z liehu. |
 
-  - Poznámka Poplatok podľa položky 143 písmena b) sa nevyberie, ak sa potvrdenie vydáva na účely prepustenia zo štátneho zväzku Slovenskej republiky. |
+  - Poznámka Poplatok podľa položky 143 písmena b) sa nevyberie, ak sa potvrdenie vydáva na účely prepustenia zo štátneho zväzku Slovenskej republiky. | | |
 
     - Položka 144
 
@@ -2434,11 +2670,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Žiadosť o písomný súhlas správcu dane s výmazom z obchodného registra........................... | 9,50 eura
 
-  - c) Žiadosť o poskytnutie úľavy zo sankcií alebo odpustenie sankcií podľa § 103 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.......................................... | 16,50 eura
+  - c) Povolenie úľavy zo sankcie alebo odpustenie sankcie podľa osobitného predpisu<sup>32a</sup>).................... | 16,50 eura
 
   - d) Vydanie osvedčenia o registrácii ako náhrady za stratené, zničené, poškodené alebo odcudzené osvedčenie .................................................................................................................. | 6,50 eura
 
-  - e) Žiadosť o udelenie súhlasu s nakladaním s predmetom záložného práva<sup>8</sup>) .......................... | 9,50 eura
+  - e) Udelenie súhlasu s nakladaním s predmetom záložného práva<sup>32a</sup>) .......................... | 9,50 eura
 
   - f) Žiadosť o prerušenie daňového konania<sup>8</sup>) ....................................................................................... | 9,50 eura
 
@@ -2472,7 +2708,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - h) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky pred skúšobnou komisiou podľa osobitného predpisu<sup>33</sup>) ..... | 6 eur
 
-  - i) Vydanie osvedčenia o splnení podmienok odbornej praxe ..... | 6 eur
+  - i) Vydanie dokladu o povahe a dĺžke praxe<sup>33a</sup>) ..... | 6 eur
 
   - j) Vydanie rozhodnutia o uznaní odbornej praxe ..... | 20 eur
 
@@ -2482,13 +2718,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) Za prevod listinných dokumentov do elektronickej podoby za každých začatých 15 strán ..... | 5 eur
 
-  - n) Za prevzatie údajov a dokladov, ktoré sú náležitosťou žiadosti o oprávnenie na podnikanie na základe iného ako živnostenského oprávnenia podľa osobitných zákonov ..... | 10 eur
+  - n) Vydanie dokladu o tom, že poskytovanie služieb na základe živnostenského oprávnenia nie je obmedzené alebo zakázané<sup>33b</sup>) ... | 3 eurá
 
     - Poznámky
 
     - 1. Na poplatok podľa písmena f) nemá vplyv počet osvedčení o živnostenskom oprávnení, na ktorých sa zmena vyznačí, ani počet súčasne vyznačených zmien.
 
     - 2. Za zmenu adresy bydliska, miesta podnikania alebo sídla vyznačenú v dôsledku premenovania názvov obcí a ulíc alebo zmenu dokladov o živnostenskom oprávnení a údajov v nich uvedených vyplývajúcu z právnych zmien podmienok živnostenského podnikania sa poplatok nevyberie.
+
+    - 3. Poplatok podľa písmena a) bodu 1 písm. b), c), f), l) a n) sa nevyberie, ak sa úkony vykonávajú na základe podania predloženého elektronickými prostriedkami a podpísaného elektronickým podpisom podľa osobitného zákona.<sup>4</sup>)
 
     - Položka 149
 
@@ -2682,7 +2920,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Zmena povolenia na činnosť agentúry dočasného zamestnávania |
 
-  - 1. pre fyzické osoby ..... | 750 Sk
+  - 1. pre fyzické osoby ..... | 24,50 eura
 
   - 2. pre právnické osoby ..... | 49,50 eura
 
@@ -2694,7 +2932,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Zmena povolenia na činnosť agentúry podporovaného zamestnávania |
 
-  - 1. pre fyzické osoby ..... | 750 Sk
+  - 1. pre fyzické osoby ..... | 24,50 eura
 
   - 2. pre právnické osoby ..... | 49,50 eura
 
@@ -3325,6 +3563,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 171o
 
   - Podanie žiadosti o vydanie rozhodnutia o znášaní nákladov<sup>39o</sup>).............. | 33 eur
+
+    - Položka 171p
+
+  - a) | Podanie žiadosti o schválenie návrhu plánu prác na odstránenie environmentálnej záťaže, schválenie zmeny plánu prác na odstránenie environmentálnej záťaže, alebo schválenie aktualizácie plánu prác na odstránenie environmentálnej záťaže<sup>39oa</sup>) ..... | 33 eur
+
+  - b) | Podanie žiadosti o ukončenie realizácie plánu prác na odstránenie environmentálnej záťaže<sup>39ob</sup>) ........ | 33 eur
 
   - XI. ČASŤ BANSKÁ ČINNOSŤ
 
@@ -4120,7 +4364,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) žiadosť o udelenie národného víza, ak je to potrebné na plnenie záväzkov Slovenskej republiky vyplývajúcich z medzinárodných zmlúv, ak je to v záujme Slovenskej republiky alebo ak je to potrebné v súvislosti s udelením povolenia na pobyt v Slovenskej republike okrem prípadu podľa písmena d) | 33 eur,
 
-  - d) žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 9,50 eur.
+  - d) žiadosť o udelenie národného víza, ak je to potrebné v súvislosti s prevzatím udeleného povolenia na pobyt v Slovenskej republike | 9,50 eur,
+
+  - e) Podanie odvolania proti rozhodnutiu, ktorým bola žiadosť o udelenie schengenského víza zamietnutá, alebo proti rozhodnutiu, ktorým bolo udelené schengenské vízum zrušené alebo odvolané | 30 eur.
 
   - Oslobodenie: |
 
@@ -4129,6 +4375,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 2. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Európskeho hospodárskeho priestoru.<sup>16c</sup>) |
 
   - 3. Od poplatku podľa tejto položky sú oslobodení rodinní príslušníci občanov Slovenskej republiky v rozsahu rodinných príslušníkov občanov Európskeho hospodárskeho priestoru podľa druhého bodu. |
+
+  - 4. Od poplatku podľa písmena e) sú oslobodené osoby, ktoré podávajú odvolanie proti rozhodnutiu útvaru Policajného zboru, a rodinní príslušníci azylanta a cudzinca, ktorému sa poskytla doplnková ochrana. |
 
   - Splnomocnenie: |
 
@@ -4140,31 +4388,41 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4. Správny orgán vráti poplatok z dôvodov uvedených v osobitnom predpise.<sup>16b</sup>) |
 
+  - 5. Správny orgán vráti poplatok podľa písmena e), ak sa odvolaniu vyhovie. |
+
     - Položka 241
 
   - Potvrdenie alebo písomné oznámenie o pobyte každej osoby v ňom uvádzanej ............... | 6,50 eura
 
     - Položka 242
 
-  - a) | Žiadosť o udelenie povolenia na prechodný pobyt cudzincovi na účel |
+  - a) | Žiadosť o udelenie prechodného pobytu na účel |
 
-  - | 1. podnikania | 232 eur
+  - | 1. podnikania alebo podľa § 30 ods. 1 písm. a) zákona č. 404/2011 Z. z. | 232 eur
 
-  - | 2. zamestnania | 165,50 eura
+  - | 2. zamestnania alebo podľa § 30 ods. 1 písm. b) zákona č. 404/2011 Z. z. | 165,50 eura
 
   - | 3. sezónneho zamestnania | 33 eur
 
-  - | 4. štúdia a osobitnej činnosti | 99,50 eura
+  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 99,50 eura
 
-  - | 5. zlúčenia rodiny | 132,50 eura
+  - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 132,50 eura
 
   - | 6. plnenia služobných povinností civilnými zložkami ozbrojených síl | 66 eur
 
-  - b) | Žiadosť o udelenie prvého povolenia na trvalý pobyt | 165,50 eura
+  - b) | Žiadosť o vydanie modrej karty Európskej únie | 165,50 eura
 
-  - c) | Žiadosť o vydanie modrej karty Európskej únie | 165,50 eura
+  - c) | Žiadosť o udelenie trvalého pobytu na päť rokov | 165,50 eura
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby mladšie ako 16 rokov. 2. Od poplatku podľa písmena a) tejto položky je oslobodené udelenie povolenia na pobyt štipendistom vlády Slovenskej republiky, ktorým bolo štipendium priznané. 3. Od poplatkov podľa písmena a) tejto položky je na základe vzájomnosti oslobodené povolenie na prechodný pobyt študentom a stážistom, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektorom cudzích jazykov prichádzajúcim na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv. 4. Od poplatkov podľa písmena b) sú oslobodené osoby, ktoré požiadali o udelenie povolenia na trvalý pobyt podľa § 35 ods. 1 písm. a) a § 45b zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
+  - Oslobodenie
+
+  - 1. Od poplatku podľa písmena a) tejto položky sú oslobodené osoby, ktoré žiadajú zlúčenie rodiny s azylantom alebo s cudzincom, ktorému bola poskytnutá doplnková ochrana.
+
+  - 2. Od poplatkov podľa písmen a) a c) tejto položky sú oslobodené osoby mladšie ako 18 rokov.
+
+  - 3. Od poplatku podľa písmena a) tejto položky sú na základe vzájomnosti oslobodení stážisti, ktorým sa poskytuje štipendium Ministerstva školstva Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektori cudzích jazykov prichádzajúci na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv.
+
+  - 4. Od poplatku podľa písmena c) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie trvalého pobytu podľa § 43 ods. 1 písm. a) zákona č. 404/2011 Z. z.
 
     - Položka 243
 
@@ -4392,10 +4650,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 269
 
-  - Registrácia poskytovania poštových služieb podľa osobitného zákona<sup>47b</sup>) ..... | 165,50 eura
+  - a) Registrácia poštového podniku...... | 100,– eur
+
+  - b) Zmena registrovaných údajov poštového podniku...... | 33,– eur
 
     - Položka 270
 
-  - a) Udelenie poštovej licencie jednorázové ..... | 33 193,50 eura
+  - a) Udelenie poštovej licencie........... | 33 193,50 eura
 
-  - b) Žiadosť o vykonanie zmeny v udelenej licencii ..... | 165,50 eura
+  - b) Zmena poštovej licencie na základe ohlásenia poskytovateľa univerzálnej služby......... | 165,50 eura
