@@ -24,6 +24,8 @@
 
 - 10) Vzťahuje sa na skupiny 0404 a 0405.
 
+- 10a) STN 73 6114:1997 Vozovky pozemných komunikácií. Základné ustanovenia pre navrhovanie.
+
 - 11) Ide o vegetačné dielce na málo zaťažené dopravné plochy podľa STN 73 6131-3:1996 Stavba vozoviek. Dlažby a dielce. Časť 3: Kryty z vegetačných dielcov.
 
 - 12) Vzťahuje sa na poklopy a vtokové mreže.

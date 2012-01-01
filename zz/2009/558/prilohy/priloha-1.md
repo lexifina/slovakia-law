@@ -78,13 +78,11 @@ Výrobky pre cesty, chodníky a iné dopravné plochy | | |
 
 | | (A1<sub>FL</sub> až E<sub>FL</sub>),<sup>9</sup>) F<sub>FL</sub> | 4
 
-0503 | Kamenivo do nestmelených materiálov a do hydraulicky stmelených materiálov na konštrukcie ciest | Podľa účelu: |
+0503 | Kamenivo do nestmelených materiálov a hydraulicky stmelených materiálov na konštrukcie ciest | Podľa účelu: |
 
-| | do stmelených materiálov | 2+
+| | na konštrukcie ciest s dopravným zaťažením tried I, II, III a IV<sup>10a</sup>) a konštrukcie letiskových dráh | 2+
 
-| | do nestmelených materiálov | 4
-
-0504 | Hydraulicky stmelené zmesi na konštrukcie ciest a iných dopravných plôch | | 2+
+0504 | Hydraulicky stmelené zmesi a nestmelené zmesi na konštrukcie ciest a iných dopravných plôch | na konštrukcie ciest s dopravným zaťažením tried V a VI<sup>10a</sup>) | 4
 
 0505 | Kamenivo do asfaltových zmesí a na povrchové úpravy ciest, letísk a iných dopravných plôch | Podľa účelu: |
 
@@ -118,13 +116,13 @@ Výrobky pre cesty, chodníky a iné dopravné plochy | | |
 
 0514 | Cestné záchytné systémy – zvodidlá, tlmiče nárazov, premiest- niteľné bariéry, laná a rímsy | | 1
 
-0515 | Bezpečnostné systémy pre chodcov vrátane mostných ríms (obslužných chodníkov) | | 1
+0515 | Záchytné systémy na ochranu chodcov | | 1
 
 0516 | Svetelná dopravná signalizácia, trvalé výstražné svetlá a dopravné majáky | | 1
 
-0517 | Zvislé dopravné značky, premenné dopravné značky, stĺpy dopravných značiek a svetelnej signalizácie, reflexné stĺpiky, bariérové stĺpiky a vodiace zariadenia určené na trvalú inštaláciu | | 1
+0517 | Zvislé dopravné značky, premenné dopravné značky, stĺpy dopravných značiek a svetelnej signalizácie, smerové stĺpiky, bariérové stĺpiky a vodiace zariadenia určené na trvalú inštaláciu | | 1
 
-0518 | Trvalé označovacie pásy, prefabrikované vodorovné dopravné značky a retroreflexné dopravné gombíky na vodorovné dopravné značenie | | 1
+0518 | Prefabrikované vodorovné dopravné značky a retroreflexné dopravné gombíky na vodorovné dopravné značenie | | 1
 
 0519 | Náterové látky na vodorovné dopravné značenie, za tepla nanášané termoplasty, za studena nanášané plasty s protišmykovými prísadami alebo bez nich a s premixovou balotinou alebo bez nej, alebo uvádzané na trh s uvedením typu a podielu balotiny alebo protišmykových prísad | | 1
 
@@ -163,6 +161,8 @@ Výrobky pre mosty | | |
 0704 | Mostné dilatačné závery | | 1
 
 0705 | Výrobky a systémy na hydroizoláciu mostoviek | | 2+
+
+0706 | Prefabrikované dielce mostných ríms | | 2+
 
 Stožiare | | |
 
@@ -392,7 +392,7 @@ Dosky a panely na báze dreva a kompozitné ľahké panely | | |
 
 | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
-| | (A1, A2, B, C),<sup>7</sup>) (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
+| | (A1, A2, B, C),<sup>7)</sup> (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>)<sup>7</sup>) | 1
 
 | | (A1, A2, B, C),<sup>8</sup>) D, E, (A1<sub>FL</sub>, A2<sub>FL</sub>, B<sub>FL</sub>, C<sub>FL</sub>),<sup>8</sup>) D<sub>FL</sub>, E<sub>FL</sub> | 3
 
@@ -422,7 +422,7 @@ Tepelnoizolačné výrobky a systémy | | |
 
 | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
-| | (A1, A2, B, C)<sup>7</sup>) | 1
+| | (A1, A2, B, C)<sup>7)</sup> | 1
 
 | | (A1, A2, B, C),<sup>8</sup>) D, E | 3
 
@@ -484,7 +484,7 @@ Strešné membránové a liate výrobky | | |
 
 2401 | Parozábrany a paropriepustné vrstvy, strešné podkladové vrstvy a strešné povlakové fólie a iné strešné membránové povlaky | Poznámka: Výrobky sú zahrnuté v skupinách 0403, 0404 a 0405 |
 
-2402 2403 | Strešné vodotesné systémy aplikované v tekutom stave Strešný liaty asfalt | Na základný účel<sup>5</sup>) | 3
+2402 2403 | Strešné vodotesné systémy aplikované v tekutom stave Strešné vodotesné systémy nanášané na mieste liatym asfaltom alebo nástrekom peny | Na základný účel<sup>5</sup>) | 3
 
 | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO, resp. potreby skúšania RVO: |
 
@@ -530,7 +530,7 @@ Dvere, brány a kovania | | |
 
 2604 | Dvere a brány s kovaním alebo bez kovania s deklarovaným použitím podmieneným splnením špecifických požiadaviek, a to najmä na zvukovú a tepelnú izoláciu, na tesnosť a bezpečnosť používania | | 3
 
-2605 | Dvere a brány s kovaním alebo bez kovania na vnútorné použitie | | 4
+2605 | Dvere a brány s kovaním alebo bez kovania na vnútorné použitie medzi priestormi s rovnakým prostredím | | 4
 
 Okná | | |
 
@@ -568,7 +568,7 @@ Okenice a rolety | | |
 
 | | výrobky nevyžadujúce skúšanie RVO | 4
 
-2903 | Tmely na zasklievanie okrem tmelov na akváriá, konštrukčné<sup>2</sup>) zasklenia, tmelenia izolačných skiel, horizontálneho zasklievania do sklonu < 7<sup>º</sup> a tmelenia organických skiel z polykarbonátu, polymetylmetakrylátu a pod. | Na základný účel<sup>5</sup>) | 2+
+2903 | Tmely na zasklievanie okrem tmelov na akváriá, konštrukčné<sup>2</sup>) zasklenia, tmelenia izolačných skiel, horizontálneho zasklievania do sklonu < 7<sup>º</sup> a tmelenia organických skiel z polykarbonátu, polymetylmetakrylátu a pod. | Na základný účel<sup>5</sup>) | 3
 
 | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
@@ -618,7 +618,7 @@ Systémy priečok a tmely na priečky a vnútorné steny | | |
 
 | | (A1 až E),<sup>9</sup>) F | 4
 
-3102 | Tmely na priečky a vnútorné steny | Na základný účel<sup>5</sup>) | 2+
+3102 | Tmely na priečky a vnútorné steny | Na základný účel<sup>5</sup>) | 4
 
 | | Na účel, na ktorý sa vzťahujú PPB, s členením podľa TRO: |
 
@@ -803,6 +803,8 @@ Výrobky na rozvod elektrickej energie, riadenie a komunikáciu | | |
 | | Na použitie podľa PNL | 3
 
 3802 | Rošty, žľaby, kanály, výložníky, stojiny a závesy na uloženie káblov na rozvod elektrickej energie, riadenie a komunikáciu | Na účel, na ktorý sa vzťahujú PPB na požiarnu odolnosť | 1
+
+3803 | Elektrické nízknapäťové rozvádzače na rozvod elektrickej energie, riaenie a komnunikáciu | |
 
 Komíny | | |
 
@@ -1020,7 +1022,7 @@ Vzory označovania stavebných výrobkov značkami zhody spolu so sprievodnými 
 
 ![Obrázok 04](../assets/53f234a439771ef3aadfeb2d30bdf7040f20161b81bdc8aa11e87031907c5664.png)
 
-a) na výrobok s preukázanou zhodou v systéme 1+ alebo 1 (s technickým osvedčením č. TO-04/1234)
+a) Tvar a veľkosť písmen označenia CE upravuje príloha II nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93. Tvar a veľkosť písmen slovenskej značky zhody C<sub>SK</sub>, spôsoby vyhotovenia a zabezpečenia proti opätovnému použitiu upravuje § 18, 19 a príloha k zákonu č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
 ![Obrázok 05](../assets/59693b78100591273b4250dcbb83f95e60f2cdfc9191fb872d65eb09c6bf2e03.png)
 
