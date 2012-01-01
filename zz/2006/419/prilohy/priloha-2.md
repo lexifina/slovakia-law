@@ -400,9 +400,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Ak na doklade, ktorý je dôkazom o preferenčnom pôvode, je uvedený preferenčný pôvod v regionálnej skupine krajín, za kódom dokladu sa uvádza štvormiestny numerický kód tejto regionálnej skupiny krajín podľa systému TARIC SK, uvedenej ako štát pôvodu na doklade, ktorý je dôkazom o preferenčom pôvode, a evidenčné číslo tohto dokladu. Napríklad „N954 2012 A123456“, kde „N954“ je kód sprievodného osvedčenia EUR. 1, „2012“ je kód pôvodu pre Európsky hospodársky priestor podľa systému TARIC SK a „A123456“ je evidenčné číslo sprievodného osvedčenia EUR. 1.
 
-      - Ak je na účely priznania zvýhodnenej colnej sadzby z dôvodu preferenčného pôvodu tovaru alebo vyhodnotenia iných opatrení potrebné osvedčenie o pôvode, ktoré obsahuje ďalšie špecifické údaje, uvádza sa toto osvedčenie dvakrát. Raz ako osvedčenie o pôvode a raz ako osvedčenie o pôvode so špecifickými údajmi. Napríklad pri sprievodnom osvedčení EUR. 1 obsahujúcom špecifický údaj – označenie „Derogácia – Rozhodnutie 2/2001“ sa uvádza kód „N954“ pre osvedčenie o pôvode a kód „U021“ pre osvedčenie o pôvode so špecifickými údajmi.
-
-      - Pri dovoze tovaru, ktorý sa zatrieďuje do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>5</sup>) na základe vstupnej ceny, sa v tomto odseku uvádza kód dokladu žiadosti o použitie niektorej zo vstupných cien. Napríklad, ak má byť tovar zatriedený do podpoložky kombinovanej nomenklatúry Spoločného colného sadzobníka<sup>5</sup>) s použitím ceny FOB (vyplatené na palube), uvádza sa kód dokladu „1011“, ktorého opis v systéme TARIC SK znie: „Žiadosť o použitie ceny FOB ako vstupnej ceny“.
+      - Ak je na účely priznania zvýhodnenej colnej sadzby z dôvodu preferenčného pôvodu tovaru alebo vyhodnotenia iných opatrení potrebné osvedčenie o pôvode, ktoré obsahuje ďalšie špecifické údaje, uvádza sa toto osvedčenie dvakrát. Raz ako osvedčenie o pôvode a raz ako osvedčenie o pôvode so špecifickými údajmi.
 
       - Okrem kódov uvedených v predchádzajúcom odseku možno použiť aj tieto kódy:
 

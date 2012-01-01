@@ -1,3 +1,3 @@
 Príloha č. 4 k vyhláške č. 419/2006 Z. z.
 
-- VZOR [Vzor 03](../assets/b918b94f02b71574bba97030366d00ac2317a71e7bb6c9c247a050af0d0aa7f5.pdf)
+- VZOR [Vzor 03](../assets/0083e61be3a72fa3a604c55187895e8f83132e3799a165315783427f16824b3c.pdf)
