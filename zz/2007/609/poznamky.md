@@ -8,11 +8,11 @@
 
 - 3) § 2 Obchodného zákonníka.
 
-- 4) § 2 písm. b) 24. bod zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
+- 4) § 2 písm. b) bod 22 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 2 písm. c) 24. bod zákona č. 656/2004 Z. z.
 
-- 6) § 2 písm. b) 25. bod zákona č. 656/2004 Z. z.
+- 6) § 2 písm. b) bod 23 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
 
 - 7) § 2 písm. c) 25.bod zákona č. 656/2004 Z. z.
 
@@ -20,40 +20,56 @@
 
 - 9) § 5 zákona č. 656/2004 Z. z.
 
-- 10) § 2 písm. b) 7. bod zákona č. 656/2004 Z. z.
+- 10) § 2 písm. b) bod 6 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
 
-- 11) § 2 písm. b) 23. bod zákona č. 656/2004 Z. z.
+- 10a) Napríklad § 5 ods. 4 písm. a) a b) a ods. 5 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
+
+- 10b) § 2 písm. b) bod 9 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
+
+- 11) § 2 písm. b) bod 21 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
 
 - 12) § 2 písm. c) 15. bod zákona č. 656/2004 Z. z.
 
 - 13) § 2 písm. c) 16. bod zákona č. 656/2004 Z. z.
 
-- 14) § 2 písm. b) 4. bod zákona č. 656/2004 Z. z.
+- 14) § 2 písm. b) bod 3 zákona č. 656/2004 Z. z. v znení zákona č. 309/2009 Z. z.
+
+- 14a) § 7a zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2011 Z. z.
 
 - 15) § 2 písm. b) nariadenia vlády Slovenskej republiky č. 246/2006 Z. z. o minimálnom množstve pohonných látok vyrobených z obnoviteľných zdrojov v motorových benzínoch a motorovej nafte uvádzaných na trh Slovenskej republiky.
 
-- 16) § 2 písm. b) 17. bod zákona č. 656/2004 Z. z.
+- 15a) § 8 zákona č. 309/2009 Z. z. v znení zákona č. 136/2011 Z. z.
 
-- 16a) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 15b) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 16) § 2 písm. b) bod 16 zákona č. 656/2004 Z. z. v znení zákona č. 309/2009 Z. z.
+
+- 16a) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 17) § 39 ods. 1 zákona č. 656/2004 Z. z. v znení zákona č. 107/2007 Z. z.
 
 - 18) § 19 ods. 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
+- 18a) § 15 ods. 5 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
 - 19) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
+
+- 19a) § 68 zákona č. 563/2009 Z. z.
+
+- 19b) Čl. 79 nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4) v platnom znení.
 
 - 20) § 2 písm. c) 13. bod zákona č. 656/2004 Z. z.
 
 - 21) § 59 ods. 1 zákona č. 656/2004 Z. z.
 
+- 21a) § 54 zákona č. 656/2004 Z. z. v znení zákona č. 118/2008 Z. z.
+
 - 22) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
-- 23) Napríklad § 15 a 15b zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 23) § 44 až 47 zákona č. 563/2009 Z. z.
 
-- 24) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 25) § 155 ods. 1 písm. f) prvý bod a písm. g) zákona č. 563/2009 Z. z.
 
-- 25) § 35 ods. 1 písm. a) a g) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
-
-- 26) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 26) Zákon č. 563/2009 Z. z.
 
 - 27) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
