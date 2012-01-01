@@ -112,6 +112,8 @@
 
 - 42) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
+- 42a) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
 - 42b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 42c) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
