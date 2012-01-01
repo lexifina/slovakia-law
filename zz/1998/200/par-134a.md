@@ -14,7 +14,7 @@
 
 - c) rozšírenie doterajšej kvalifikácie na výkon štátnej služby vo funkcii, do ktorej je colník ustanovený.
 
-(5) Služobný úrad môže colníkovi na jeho žiadosť umožniť zvýšiť si kvalifikáciu štúdiom v odbornom colnom kurze, v určitom študijnom odbore alebo študijnom programe v súlade s potrebami colnej správy.
+(5) Služobný úrad môže colníkovi na jeho žiadosť umožniť zvýšiť si kvalifikáciu štúdiom v odbornom colnom kurze, v určitom študijnom odbore alebo študijnom programe v súlade s potrebami finančnej správy.
 
 (6) Štúdium colníka pri výkone štátnej služby podľa odseku 4 písm. a) na účely zvýšenia kvalifikácie, s ktorým služobný úrad vyslovil súhlas, je dôležitou osobnou prekážkou v štátnej službe podľa tohto zákona. Štúdium v colných kurzoch podľa odseku 1 a odseku 4 písm. b) a iných odborných kurzoch podľa odseku 4 písm. c) je výkonom štátnej služby.
 

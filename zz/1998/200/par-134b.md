@@ -1,6 +1,6 @@
 # § 134b Vyslanie na štúdium
 
-(1) Súhlas služobného úradu so získaním kvalifikácie alebo zvýšením kvalifikácie colníka sa udeľuje rozhodnutím, ktorým sa colník vysiela na štúdium. Rozhodnutím sa vyslanie na štúdium aj ukončuje.
+(1) Súhlas služobného úradu so získaním kvalifikácie alebo zvýšením kvalifikácie colníka sa udeľuje rozhodnutím, ktorým sa colník vysiela na štúdium.
 
 (2) Súhlas služobného úradu so získaním kvalifikácie alebo zvýšením kvalifikácie colníka podľa § 134a umožňuje colníkovi počas štúdia pri výkone štátnej služby čerpať služobné voľno s nárokom na služobný plat v rozsahu a za podmienok ustanovených týmto zákonom.
 

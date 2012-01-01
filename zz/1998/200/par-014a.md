@@ -8,4 +8,4 @@
 
 (4) Za telesne spôsobilého sa považuje občan, ktorý spĺňa požiadavky na fyzickú zdatnosť ustanovené všeobecne záväzným právnym predpisom, ktorý vydá ministerstvo. Previerke fyzickej zdatnosti sa nepodrobí občan, ktorý dosiahol 50 rokov veku, ak ide o muža, a 40 rokov veku, ak ide o ženu.
 
-(5) Na účely zistenia spoľahlivosti podľa § 14 ods. 3 písm. b) a c) sa občan podrobí aj psychofyziologickému overeniu pravdovravnosti, ak tak ustanoví osobitný predpis<sup>9b</sup>) alebo ak tak určí minister alebo generálny riaditeľ.
+(5) Na účely zistenia spoľahlivosti podľa § 14 ods. 3 písm. b) a c) sa občan podrobí aj psychofyziologickému overeniu pravdovravnosti, ak tak ustanoví osobitný predpis<sup>9b</sup>) alebo ak tak určí minister alebo prezident.

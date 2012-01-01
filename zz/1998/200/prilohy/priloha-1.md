@@ -16,7 +16,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačný predpoklad colníckeho vzdelania: základné colnícke vzdelanie
 
-    - Samostatné rutinné opakujúce sa činnosti s premenlivými informáciami, zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu s presne stanovenými výstupmi, so zodpovednosťou za výsledky práce ovplyvňujúce činnosť základného pracovného kolektívu. Zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu. Príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend, zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci služobného úradu.
+    - Samostatné rutinné opakujúce sa činnosti s premenlivými informáciami, zvládnuteľné v rámci existujúcich štandardov alebo zaužívaného postupu s presne stanovenými výstupmi, so zodpovednosťou za výsledky práce ovplyvňujúce činnosť základného pracovného kolektívu. Zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci orgánu štátnej správy v oblasti colníctva. Príprava podkladov na rozhodovanie, príprava rozhodnutí a vydávanie rozhodnutí v rámci ucelených agend, zabezpečovanie časti zverenej agendy vyžadujúce koordináciu prác v rámci orgánu štátnej správy v oblasti colníctva.
 
   - 3. PLATOVÁ TRIEDA
 
@@ -24,7 +24,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačný predpoklad colníckeho vzdelania: základné colnícke vzdelanie
 
-    - Samostatné odborné činnosti pri príprave podkladov na rozhodovanie, príprava rozhodnutí v rámci ucelených agend; samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sa spracúvajú podľa štandardizovaných postupov vyžadujúce spoluprácu v rámci služobného úradu i mimo neho.
+    - Samostatné odborné činnosti pri príprave podkladov na rozhodovanie, príprava rozhodnutí v rámci ucelených agend; samostatný výkon agend spravidla s novými premenlivými informáciami s väzbami aj mimo súboru vykonávaných činností, ktoré sa spracúvajú podľa štandardizovaných postupov vyžadujúce spoluprácu v rámci orgánu štátnej správy v oblasti colníctva i mimo neho.
 
   - 4. PLATOVÁ TRIEDA
 
@@ -32,7 +32,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Samostatné odborné činnosti alebo samostatný výkon ucelených agend s rozhodovacou právomocou, riadenie a organizácia rámcových úsekov, činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, ktoré sa vykonávajú podľa metodických predpisov s presne stanovenými výstupmi so zodpovednosťou za rozhodnutia a výsledky práce s dôsledkami na úseky v rámci služobného úradu i mimo neho.
+    - Samostatné odborné činnosti alebo samostatný výkon ucelených agend s rozhodovacou právomocou, riadenie a organizácia rámcových úsekov, činnosti spojené s požiadavkou voľby správneho postupu z viacerých možných riešení, s novými premenlivými informáciami, ktoré sa vykonávajú podľa metodických predpisov s presne stanovenými výstupmi so zodpovednosťou za rozhodnutia a výsledky práce s dôsledkami na úseky v rámci orgánu štátnej správy v oblasti colníctva i mimo neho.
 
   - 5. PLATOVÁ TRIEDA
 
@@ -40,7 +40,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Samostatné odborné činnosti, riadenie a organizácia rámcových úsekov, prípadne činnosti, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie; analytická a hodnotiaca činnosť pri príprave podkladov na rozhodovanie; príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku služobného úradu; príprava rozhodnutí v druhom stupni správneho konania; výkon kontroly.
+    - Samostatné odborné činnosti, riadenie a organizácia rámcových úsekov, prípadne činnosti, ktoré sú dôležitou súčasťou širších procesov a javov, vyžadujúce spoluprácu pri riešení rôznorodých úloh vnútri organizácie s dôsledkami na organizačné útvary vlastnej organizácie aj mimo vlastnej organizácie; analytická a hodnotiaca činnosť pri príprave podkladov na rozhodovanie; príprava rozhodnutí na koordináciu a usmerňovanie aktivít vo vymedzenom úseku orgánu štátnej správy v oblasti colníctva; príprava rozhodnutí v druhom stupni správneho konania; výkon kontroly.
 
   - 6. PLATOVÁ TRIEDA
 
@@ -64,7 +64,7 @@ Príloha č. 1 k zákonu č. 200/1998 Z. z.
 
     - Kvalifikačný predpoklad colníckeho vzdelania: odborné colnícke vzdelanie
 
-    - Vysoko špecializované odborné činnosti alebo zložité analytické činnosti, ktorých výsledkom sú riešenia zásadného charakteru; koncepčné alebo metodické činnosti orgánu štátnej správy; koordinácia úsekov a častí zložitých systémov na úrovni orgánu štátnej správy, kontrolná a inšpekčná činnosť s celospoločenským dosahom; riadenie a koordinácia komplexu zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami; koncepčná, systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie územného obvodu orgánu colnej správy.
+    - Vysoko špecializované odborné činnosti alebo zložité analytické činnosti, ktorých výsledkom sú riešenia zásadného charakteru; koncepčné alebo metodické činnosti orgánu štátnej správy; koordinácia úsekov a častí zložitých systémov na úrovni orgánu štátnej správy, kontrolná a inšpekčná činnosť s celospoločenským dosahom; riadenie a koordinácia komplexu zložitých systémov s rozsiahlymi vnútornými aj vonkajšími väzbami; koncepčná, systémová činnosť pri tvorbe opatrení so zodpovednosťou za rozhodnutia s dôsledkami na územie územného obvodu orgánu štátnej správy v oblasti colníctva.
 
   - 9. PLATOVÁ TRIEDA
 

@@ -1,16 +1,16 @@
-- 1) § 3, § 8 ods. 3 písm. a) až o), q) až v), § 9 až 11 zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov.
+- 1) Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
 - 1a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 1aa) Napríklad § 9 ods. 2 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1aa) § 11 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
 
 - 2) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
 - 3) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
-
-- 5) Zákon Slovenskej národnej rady č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
 
 - 5a) § 92 Trestného zákona.
 
@@ -63,6 +63,8 @@
 - § 6 ods. 2 a § 15 až 19 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - § 13 až 25 a§ 35d až 35f zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14aaa) Zákon č. 9/2010 Z. z. o sťažnostiach.
 
 - 14ab) § 16 ods. 2 a § 20 ods. 2 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

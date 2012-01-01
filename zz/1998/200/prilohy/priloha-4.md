@@ -13,3 +13,5 @@ Príloha č. 4 k zákonu č. 200/1998 Z. z.
   - 5. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnanosti a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
 
   - 6. Smernica Európskeho parlamentu a Rady 2003/88/ES zo 4. novembra 2003 o niektorých aspektoch organizácie pracovného času (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. EÚ L 299, 18. 11. 2003).
+
+  - 7. Smernica Rady 2010/18/EÚ z 8. marca 2010, ktorou sa vykonáva revidovaná Rámcová dohoda o rodičovskej dovolenke uzavretá medzi BUSINESSEUROPE, UEAPME, CEEP a ETUC a zrušuje smernica 96/34/ES (Ú. v. EÚ L 68, 18. 3. 2010).

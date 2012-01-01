@@ -2,13 +2,13 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 
 - PRÍPLATOK ZA RIADENIE
 
-  - 1. Colné riaditeľstvo
+  - 1. Finančné riaditeľstvo
 
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
-- 1.01 Generálny riaditeľ | 30 % až 47 %
+- 1.01 Prezident | 30 % až 47 %
 
-- 1.02 Námestník generálneho riaditeľa | 20 % až 36 %
+- 1.02 Prezident sekcie | 20 % až 36 %
 
 - 1.03 Riaditeľ odboru | 15 % až 30 %
 
@@ -38,8 +38,8 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 
 - 2.07 Zástupca vedúceho colnej stanice | 5 % až 12 %
 
-- 3. Colný kriminálny úrad
+- 3. Kriminálny úrad finančnej správy
 
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
-- 3.01 Riaditeľ colného kriminálneho úradu 3.02 Námestník riaditeľa colného kriminálneho úradu 3.03 Vedúci pobočky colného kriminálneho úradu 3.04 Zástupca vedúceho pobočky colného kriminálneho úradu 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia Vedúci zmeny | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %
+- 3.01 Riaditeľ kriminálneho úradu finančnej správy 3.02 Námestník riaditeľa kriminálneho úradu finančnej správy 3.03 Vedúci pobočky kriminálneho úradu finančnej správy 3.04 Zástupca vedúceho pobočky kriminálneho úradu finančnej správy 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia Vedúci zmeny | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %

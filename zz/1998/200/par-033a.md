@@ -1,6 +1,6 @@
-# § 33a Určenie za vyšetrovateľa colnej správy
+# § 33a Určenie za vyšetrovateľa finančnej správy
 
-(1) Colníka za vyšetrovateľa colnej správy (ďalej len „vyšetrovateľ“) určuje minister.
+(1) Colníka za vyšetrovateľa finančnej správy (ďalej len „vyšetrovateľ“) určuje minister.
 
 (2) Za vyšetrovateľa možno určiť colníka, ktorý má vysokoškolské vzdelanie druhého stupňa v odbore právo, bezpečnostné služby alebo v študijnom programe bezpečnostnoprávna ochrana osôb a majetku, alebo v študijnom programe z podskupiny študijných odborov ekonómia a manažment a ktorý ako vyšetrovateľ čakateľ úspešne vykonal záverečnú vyšetrovateľskú skúšku. Záverečná vyšetrovateľská skúška sa nevyžaduje u colníka, ktorý vykonal štátnu záverečnú skúšku z teórie vyšetrovania.
 
@@ -12,11 +12,11 @@
 
 (6) Vyšetrovateľ čakateľ vykonáva čakateľskú prax podľa plánu čakateľskej praxe, v ktorom príslušný nadriadený určí obsahovú náplň a časový rozvrh čakateľskej praxe vyšetrovateľa čakateľa. Počas čakateľskej praxe je vyšetrovateľ čakateľ povinný zúčastňovať sa na odbornom vzdelávaní, ktoré pre vyšetrovateľov čakateľov organizuje služobný úrad.
 
-(7) Vyšetrovateľa čakateľa hodnotí počas trvania čakateľskej praxe a pred vykonaním záverečnej vyšetrovateľskej skúšky príslušný nadriadený na základe podkladov povereného školiteľa, vlastných poznatkov o činnosti vyšetrovateľa čakateľa a na základe priebežných pohovorov s vyšetrovateľom čakateľom. Hodnotenie obsahuje posúdenie plnenia účelu čakateľskej praxe z hľadiska osvojenia si právnych predpisov uplatňovaných colnou správou a potrebných praktických návykov, dodržiavania etiky a disciplíny pri plnení zverených úloh; priebežné hodnotenie obsahuje aj posúdenie dodržiavania časového rozvrhu čakateľskej praxe. K záverečnému hodnoteniu sa vyšetrovateľ čakateľ vyjadrí písomne.
+(7) Vyšetrovateľa čakateľa hodnotí počas trvania čakateľskej praxe a pred vykonaním záverečnej vyšetrovateľskej skúšky príslušný nadriadený na základe podkladov povereného školiteľa, vlastných poznatkov o činnosti vyšetrovateľa čakateľa a na základe priebežných pohovorov s vyšetrovateľom čakateľom. Hodnotenie obsahuje posúdenie plnenia účelu čakateľskej praxe z hľadiska osvojenia si právnych predpisov uplatňovaných finančnou správou a potrebných praktických návykov, dodržiavania etiky a disciplíny pri plnení zverených úloh; priebežné hodnotenie obsahuje aj posúdenie dodržiavania časového rozvrhu čakateľskej praxe. K záverečnému hodnoteniu sa vyšetrovateľ čakateľ vyjadrí písomne.
 
 (8) Záverečnú vyšetrovateľskú skúšku vykoná vyšetrovateľ čakateľ pred skúšobnou komisiou.
 
-(9) Podrobnosti o čakateľskej praxi a jej vykonaní, záverečnej vyšetrovateľskej skúške, zložení skúšobnej komisie, organizácii metodického riadenia a kontroly prípravy vyšetrovateľa čakateľa určí generálny riaditeľ vnútorným predpisom.
+(9) Podrobnosti o čakateľskej praxi a jej vykonaní, záverečnej vyšetrovateľskej skúške, zložení skúšobnej komisie, organizácii metodického riadenia a kontroly prípravy vyšetrovateľa čakateľa určí prezident vnútorným predpisom.
 
 (10) Vyšetrovateľ čakateľ môže vykonávať skrátené vyšetrovanie.<sup>11aa</sup>)
 
