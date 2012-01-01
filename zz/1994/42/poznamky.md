@@ -12,10 +12,6 @@
 
 - 4a) Zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 5) § 46 až 49 zákona č. 92/1949 Zb. branný zákon v znení neskorších predpisov.
-
-- § 5 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov.
-
 - 6) § 1 zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
 
 - 6a) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
@@ -26,7 +22,7 @@
 
 - 10) § 1 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 11) § 2 zákona Národnej rady Slovenskej republiky č. 3/1993 Z.z. o zriadení Armády Slovenskej republiky v znení neskorších predpisov.
+- 11) § 4 ods. 4 písm. c) a ods. 5 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
 - 12) Oznámenie Federálneho ministerstva zahraničných vecí o viazanosti Českej a Slovenskej Federatívnej Republiky Dodatkovými protokolmi I a II k Ženevským dohovorom z 12. augusta 1949 o ochrane obetí medzinárodných ozbrojených konfliktov a konfliktov nemajúcich medzinárodný charakter prijatých v Ženeve 8. júna 1977, č. 168/1991 Zb.
 
@@ -56,8 +52,6 @@
 
 - 18a) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 18b) Napríklad § 10 ods. 1 písm. p) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov, § 18 ods. 1 zákona č. 261/2002 Z. z., § 6 ods. 1 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z., § 6 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov.
-
 - 19) Napr. Slovenský Červený kríž, Zväz civilnej ochrany Slovenskej republiky.
 
 - 20) Napr. zákon č. 40/1961 Zb.
@@ -69,8 +63,6 @@
 - Zákon Slovenskej národnej rady č. 472/1990 Zb.
 
 - Zákon Slovenskej národnej rady č. 401/1990 Zb.
-
-- 21) § 123, 129 a § 663 Občianskeho zákonníka.
 
 - 22) § 420 a § 420a Občianskeho zákonníka.
 
@@ -91,5 +83,19 @@
 - § 17 zákona č. 1/1992 Zb.
 
 - 30) § 190 až 203 Zákonníka práce.
+
+- 31) § 43b ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 31a) § 43b ods. 4 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 31b) § 2 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+- 31c) § 2 ods. 3 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 31d) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 532/2007 Z. z.
+
+- 31e) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 555/2007 Z. z.
+
+- 31f) § 10 ods. 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 323/2007 Z. z.
 
 - 32) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.

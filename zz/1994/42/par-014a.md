@@ -13,3 +13,13 @@
 - e) podieľa sa na preventívnovýchovnej a propagačnej činnosti v civilnej ochrane.
 
 (2) Samosprávny kraj uhrádza výdavky spojené s preventívnovýchovnou a propagačnou činnosťou z vlastných zdrojov.
+
+(3) Samosprávny kraj a obec v jeho územnom obvode môžu spoločne zriadiť krízový fond územnej samosprávy (ďalej len „fond“), v ktorom sa sústreďujú finančné prostriedky samosprávneho kraja, obce v jeho územnom obvode, prípadne inej právnickej osoby, fyzickej osoby – podnikateľa a fyzickej osoby, ktoré možno poskytnúť na
+
+- a) odstránenie následkov mimoriadnej udalosti na nehnuteľnosti samosprávneho kraja a obce v jeho územnom obvode,
+
+- b) vykonávanie preventívnych opatrení na zabránenie vzniku mimoriadnej udalosti v územnom obvode samosprávneho kraja.
+
+(4) Fond nie je právnická osoba. Správu fondu vykonáva rada fondu.
+
+(5) Spôsob ustanovenia rady fondu, podrobnosti o zdrojoch fondu a o správe fondu upravuje štatút fondu, ktorý schvaľuje zastupiteľstvo samosprávneho kraja a obecné zastupiteľstvo.
