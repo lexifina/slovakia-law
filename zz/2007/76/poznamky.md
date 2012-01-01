@@ -4,19 +4,17 @@
 
 - 3) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 4) § 2 zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
-
-- 5) § 2 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2005 Z. z.
+- 4) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
 - 6) Napríklad Zmluva medzi Slovenskou republikou a Spojenými štátmi americkými o zamedzení dvojakého zdanenia a zabránení daňovým únikom v odbore daní z príjmov a z majetku (oznámenie č. 74/1994 Z. z.).
 
 - 7) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 8) § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 534/2005 Z. z.
+- 8) § 49a zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 331/2011 Z. z.
 
 - 9) Trestný poriadok.
 
-- 10) § 11 zákona č. 199/2004 Z. z. v znení zákona č. 518/2005 Z. z.
+- 10) § 11 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení zákona č. 672/2006 Z. z.
 
 - 11) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
 
