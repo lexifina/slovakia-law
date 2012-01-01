@@ -12,4 +12,6 @@
 
 - d) použitie základných zložiek integrovaného záchranného systému a ostatných zložiek integrovaného záchranného systému.<sup>1</sup>)
 
-(3) Mimoriadna situácia sa nevyhlasuje, ak bol vyhlásený výnimočný stav alebo núdzový stav.<sup>1a</sup>) Ak bol po vyhlásení mimoriadnej situácie vyhlásený výnimočný stav alebo núdzový stav, postupuje sa podľa osobitného zákona.<sup>1a</sup>)
+(3) Príslušný orgán, ktorý vyhlásil mimoriadnu situáciu, je povinný bezodkladne odvolať mimoriadnu situáciu po vykonaní úloh a opatrení podľa odseku 2.
+
+(4) Mimoriadna situácia sa nevyhlasuje, ak bol vyhlásený výnimočný stav alebo núdzový stav.<sup>1a</sup>) Ak bol po vyhlásení mimoriadnej situácie vyhlásený výnimočný stav alebo núdzový stav, postupuje sa podľa osobitného zákona.<sup>1a</sup>)
