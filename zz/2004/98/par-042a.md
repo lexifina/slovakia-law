@@ -8,7 +8,9 @@
 
 - c) použije minerálny olej oslobodený od dane podľa § 10a ods. 2 na iný ako určený účel,
 
-- d) použije minerálny olej uvedený v § 6 ods. 1 písm. f) druhom bode ako pohonnú látku.
+- d) použije minerálny olej uvedený v § 6 ods. 1 písm. f) druhom bode ako pohonnú látku,
+
+- e) použije minerálny olej uvedený v § 6 ods. 1 písm. g) ako pohonnú látku alebo ako palivo.
 
 (2) Colný úrad uloží pokutu za priestupok
 
@@ -20,7 +22,9 @@
 
 - d) podľa odseku 1 písm. c) vo výške 50 % dane pripadajúcej na množstvo takto použitého minerálneho oleja, najmenej však 165 eur,
 
-- e) podľa odseku 1 písm. d) vo výške 50 % dane, ktorá sa vypočíta ako súčin sadzby dane podľa § 6 ods. 1 písm. f) prvého bodu a množstva takto použitého minerálneho oleja, najmenej však 160 eur.
+- e) podľa odseku 1 písm. d) vo výške 50 % dane, ktorá sa vypočíta ako súčin sadzby dane podľa § 6 ods. 1 písm. f) prvého bodu a množstva takto použitého minerálneho oleja, najmenej však 160 eur,
+
+- f) podľa odseku 1 písm. e) vo výške 50 % dane, ktorá sa vypočíta ako súčin sadzby dane podľa § 6 ods. 1 písm. d) prvého bodu a množstva takto použitého minerálneho oleja, najmenej však 160 eur.
 
 (3) Za priestupok podľa odseku 1 písm. b) môže colný úrad uložiť pokutu v blokovom konaní do výšky 165 eur.
 

@@ -12,6 +12,14 @@
 
 - 2a) Čl. 79 nariadenia č. 2913/92 v platnom znení.
 
+- 2aa) § 7 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
+- 2ab) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 2ac) § 7 Obchodného zákonníka.
+
 - 2b) Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
 - 2c) § 2 ods. 1 písm. d) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2010 Z. z.
@@ -44,7 +52,11 @@
 
 - 6d) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7) Napríklad Občiansky zákonník, § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, § 64 až 66, 68, 69, 75 a 77 zákona č. 199/2004 Z. z. v znení neskorších predpisov, Trestný zákon.
+- 7) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64 až 66, § 68, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60, 83 a 83b Trestného zákona v znení neskorších predpisov, § 40 až 43 zákona č. 563/2009 Z. z.
+
+- 7a) § 15 ods. 5 zákona č. 563/2009 Z. z.
+
+- 7b) § 68 zákona č. 563/2009 Z. z.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
 
@@ -52,7 +64,9 @@
 
 - 10) § 2 ods. 7 písm. a) a b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z.
 
-- 11) § 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+- 10a) § 16 zákona č. 563/2009 Z. z.
+
+- 11) § 156 zákona č. 563/2009 Z. z.
 
 - 12) Vyhláška Ministerstva vnútra Slovenskej republiky č. 86/1999 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
 
@@ -72,9 +86,13 @@
 
 - 17) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 18) § 459a zákona č. 238/2001 Z. z. v znení zákona č. 464/ 2003 Z. z.
+- 18) § 524 Občianskeho zákonníka.
 
-- § 65b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+- § 89 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
+
+- § 239 Trestného zákona.
+
+- § 86 zákona č. 563/2009 Z. z.
 
 - 19) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -92,16 +110,6 @@
 
 - 20c) Napríklad čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
-- 21) Nariadenie Komisie (EHS) č. 2719/92 z 11. septembra 1992 o sprievodnom administratívnom dokumente pri preprave tovarov podliehajúcich spotrebným daniam v pozastavení dane (Úradný vestník Európskych spoločenstiev L 276, 19/09/1992, s. 1–10) v znení neskorších zmien a doplnkov.
-
-- 22) Dohoda o voľnom obchode medzi Českou a Slovenskou Federatívnou Republikou a Európskym združením voľného obchodu (oznámenie č. 235/2003 Z. z.).
-
-- 23) Vyhláška ministra zahraničných vecí č. 144/1982 Zb. o Colnom dohovore o medzinárodnej preprave tovaru na podklade karnetov TIR (Dohovor TIR) v znení prijatých Pozmeňovacích návrhov Dohovoru TIR (oznámenie č. 132/1999 Z. z.).
-
-- 24) Vyhláška ministra zahraničných vecí č. 89/1963 Zb. o Colnom dohovore o karnetoch E.C.S. pre obchodné vzorky a o Colnom dohovore o karnete A.T.A. pre dovozný colný záznam tovaru.
-
-- 25) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
-
 - 25a) Čl. 161 nariadenia č. 2913/92 v platnom znení.
 
 - 25b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
@@ -112,11 +120,9 @@
 
 - 26) Nariadenie Komisie (EHS) č. 3649/92 zo 17. decembra 1992 o zjednodušenom sprievodnom dokumente na prepravu tovaru podliehajúceho spotrebnej dani vo vnútri Spoločenstva, ktorý bol uvoľnený do daňového voľného obehu v odosielajúcom členskom štáte (Úradný vestník Európskych spoločenstiev L 369, 18/12/1992, s. 17–24).
 
-- 27) § 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 27) § 44 až 47 zákona č. 563/2009 Z. z.
 
-- 28) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
-
-- 29) § 15 ods. 2 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 28) § 69 zákona č. 563/2009 Z. z.
 
 - 29a) § 14a a 15 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
 
@@ -125,6 +131,8 @@
 - 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
 
 - 30a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 30b) § 67 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
