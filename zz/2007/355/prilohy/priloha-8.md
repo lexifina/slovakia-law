@@ -1,3 +1,3 @@
 Príloha č. 8 k zákonu č. 355/2007 Z. z.
 
-- HROMADNÉ HLÁSENIE AKÚTNYCH RESPIRAČNÝCH OCHORENÍ [Vzor 08](../assets/2ac808874071880958320cf186b5036ac7f13f5add0b8f210ff1cd3150fc81db.pdf)
+- HROMADNÉ HLÁSENIE AKÚTNYCH RESPIRAČNÝCH OCHORENÍ [Vzor 08](../assets/deac1bd1ac9eb5f93ae9845ae13a5804bdd739f0c60e97f9aaba65eef4302c64.pdf)
