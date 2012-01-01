@@ -628,6 +628,24 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - Predpokladom výkonu nočnej práce zamestnanca, ktorý vykonáva zdravotnícke povolanie sestra a pôrodná asistentka podľa osobitného predpisu a ktorý dovŕšil vek 50 rokov, je súhlas tohto zamestnanca s výkonom práce v noci.“.
 
+- 82. § 103 vrátane nadpisu znie:
+
+- „§ 103
+
+- Základná výmera dovolenky
+
+- (1)
+
+- Základná výmera dovolenky je najmenej štyri týždne.
+
+- (2)
+
+- Dovolenka zamestnanca, ktorý do konca príslušného kalendárneho roka dovŕši 33 rokov veku, je najmenej päť týždňov.
+
+- (3)
+
+- Dovolenka riaditeľa školy, riaditeľa školského výchovno-vzdelávacieho zariadenia, riaditeľa špeciálneho výchovného zariadenia a ich zástupcov, učiteľa, pedagogického asistenta, majstra odbornej výchovy a vychovávateľa je najmenej osem týždňov v kalendárnom roku.“.
+
 - 83. Za § 104 sa vkladá § 104a, ktorý vrátane nadpisu znie:
 
 - „§ 104a
