@@ -50,7 +50,7 @@ Príloha č. 3 k vyhláške č. 578/2006 Z. z.
 
 - 15 | meradlo ovládacieho tlaku vzduchu brzdovej sústavy s hadicou a spojko- vou hlavicou | | v) | c) | (0 až 1) MPa | ±15 kPa; ±2,5 % z mer. odn.<sup>3</sup>) | kalibrácia | 1 rok
 
-- 16 | meradlo spomalenia vozidla | | | d) | (0 až 10) m s<sup>-2</sup> | ±0,15 m s<sup>-2</sup> | kalibrácia | 1 rok
+- 16 | meradlo spomalenia vozidla | t) | y) | d) | (0 až 10) m s<sup>-2</sup> | ±0,15 m s<sup>-2</sup> | kalibrácia | 1 rok
 
 - 17 | detoktor úniku plynu pre CNG | q) | t) | | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | 1 rok
 
