@@ -661,3 +661,19 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - 114. V prílohe č. 2 štvrtom bode sa na konci pripájajú tieto slová: „smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004)“.
 
 - 115. V prílohe č. 2 piatom bode sa na konci pripájajú tieto slová: „v znení smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004), smernice Rady 2004/76/ES z 29. apríla 2004 (Ú. v. ES L 157, 30. 4. 2004)“.
+
+- „Čl. III
+
+- Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona Národnej rady Slovenskej republiky č. 251/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z., zákona č. 353/1997 Z. z., zákona č. 12/1998 Z. z., zákona č. 73/1998 Z. z., zákona č. 256/1998 Z. z., zákona č. 116/2000 Z. z., zákona č. 323/2000 Z. z., zákona č. 367/2000 Z. z., zákona č. 490/2001 Z. z., zákona č. 48/2002 Z. z., zákona č. 182/2002 Z. z., zákona č. 422/2002 Z. z., zákona č. 155/2003 Z. z., zákona č. 166/2003 Z. z., zákona č. 458/2003 Z. z., zákona č. 537/2004 Z. z. a zákona č. 69/2005 Z. z. sa mení a dopĺňa takto:
+
+- 1. V § 29a ods. 1 písm. c) druhej vete sa na konci pripájajú tieto slová: „a zamestnancovi správcu dane, ktorým je daňový úrad“.
+
+- 2.
+
+- V § 29a odsek 2 znie:
+
+- „“.
+
+- (2)
+
+- Ustanovenie odseku 1 sa nepoužije pri trestnom čine spáchanom v súvislosti s používaním colných predpisov alebo daňových predpisov v pôsobnosti colnej správy; to neplatí, ak je trestný čin páchaný v súbehu s iným trestným činom.“.
