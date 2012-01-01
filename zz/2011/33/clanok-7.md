@@ -216,13 +216,45 @@ Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v
 
 - 31. Za § 82 sa vkladajú § 82a a 82b, ktoré vrátane nadpisov znejú:
 
-- „§ 82b
+- „§ 82a
+
+- Zverejňovanie a sprístupňovanie súdnych rozhodnutí
+
+- (1)
+
+- Súdy sú povinné zverejňovať právoplatné rozhodnutia vo veci samej, rozhodnutia, ktorými sa končí konanie, rozhodnutia o predbežnom opatrení a rozhodnutia o odklade vykonateľnosti rozhodnutia správneho orgánu, a to do 15 pracovných dní od dňa nadobudnutia právoplatnosti rozhodnutia; ak rozhodnutie nebolo vyhotovené ku dňu jeho právoplatnosti, lehota na zverejnenie rozhodnutia začína plynúť dňom vyhotovenia rozhodnutia.
+
+- (2)
+
+- Po nadobudnutí právoplatnosti rozhodnutia vo veci samej alebo rozhodnutia, ktorým sa končí konanie, súdy v tej istej lehote zverejnia aj všetky rozhodnutia vydané počas tohto súdneho konania, ktoré boli zrušené, potvrdené alebo zmenené súdom vyššieho stupňa a rozhodnutia, ktoré zrušujú rozhodnutie súdu nižšieho stupňa. Ak bolo vydané opravné uznesenie, zverejňuje sa aj toto uznesenie. Nezverejňujú sa súdne rozhodnutia vydané v konaní, v ktorom bola verejnosť vylúčená z pojednávania pre celé pojednávanie alebo pre jeho časť. Najvyšší súd zverejňuje aj právoplatné rozhodnutia disciplinárnych senátov do troch pracovných dní od dňa nadobudnutia právoplatnosti.
+
+- (3)
+
+- Pred zverejnením rozhodnutia podľa odseku 1 sa v nich anonymizujú údaje, ktorých anonymizovaním bude pri zverejňovaní zabezpečená ochrana práv a právom chránených záujmov.
+
+- (4)
+
+- Zverejňovanie súdnych rozhodnutí podľa odseku 1 technicky zabezpečuje ministerstvo na svojom webovom sídle.
+
+- (5)
+
+- Súdy sprístupňujú verejnosti na základe žiadosti podľa osobitného zákona<sup>42a</sup>) všetky súdne rozhodnutia, vrátane neprávoplatných rozhodnutí a rozhodnutí, ktoré nie sú rozhodnutiami vo veci samej. Súdy pritom robia opatrenia na ochranu práv a právom chránených záujmov.<sup>42b</sup>)
+
+- § 82b
 
 - Zverejňovanie štatistických údajov
 
 - Ministerstvo na svojom webovom sídle zverejňuje štatistické údaje o činnosti súdov, jednotlivých sudcov a senátov.“.
 
 - Poznámky pod čiarou k odkazom 42a a 42b znejú:
+
+- „42a)
+
+- Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 42b)
+
+- § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.“.
 
 - 32. V § 92 sa odsek 2 dopĺňa písmenami e) a f) ktoré znejú:
 

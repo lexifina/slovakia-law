@@ -13,3 +13,31 @@ Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Úst
 - „4a)
 
 - Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.“.
+
+- 2. Za § 36 sa vkladá § 36a, ktorý vrátane nadpisu znie:
+
+- „§ 36a
+
+- Zverejňovanie a sprístupňovanie rozhodnutí Ústavného súdu
+
+- (1)
+
+- Ústavný súd je povinný zverejňovať právoplatné rozhodnutia, ktorými sa končí konanie, rozhodnutia o dočasnom opatrení a odložení vykonateľnosti napadnutého právoplatného rozhodnutia, opatrenia alebo iného zásahu, a to do 10 pracovných dní od dňa nadobudnutia právoplatnosti rozhodnutia na svojom webovom sídle.
+
+- (2)
+
+- V rozhodnutiach uvedených v odseku 1 sa pred zverejnením anonymizujú také údaje, ktorých anonymizovaním bude pri zverejňovaní zabezpečená ochrana práv a právom chránených záujmov. Kategórie údajov, ktoré sa v rozhodnutiach anonymizujú a postup pri zverejňovaní súdnych rozhodnutí ustanoví plénum Ústavného súdu podľa § 79.
+
+- (3)
+
+- Ústavný súd sprístupňuje verejnosti na základe žiadosti podľa osobitného zákona<sup>8a</sup>) všetky súdne rozhodnutia, vrátane rozhodnutí, ktoré nie sú rozhodnutiami vo veci samej. Pritom robí opatrenia na ochranu práv a právom chránených záujmov.<sup>8b</sup>)“.
+
+- Poznámky pod čiarou k odkazom 8a a 8b znejú:
+
+- „8a)
+
+- Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 8b)
+
+- § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.“.
