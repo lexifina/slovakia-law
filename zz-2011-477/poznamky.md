@@ -1,0 +1,1 @@
+- 1) Napríklad zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov, článok 6 Severoatlantickej zmluvy (oznámenie č. 301/2004 Z. z.).
