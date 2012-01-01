@@ -26,10 +26,6 @@
 
 - 9) § 1 ods. 5 zákona č. 302/2001 Z. z.
 
-- 10) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 117/1998 Z. z.
-
-- 11) Čl. 89 ods. 2 písm. f) Ústavy Slovenskej republiky v znení neskorších predpisov.
-
 - 12) § 9 ods. 1 zákona č. 302/2001 Z. z.
 
 - 13) Zákonník práce.
