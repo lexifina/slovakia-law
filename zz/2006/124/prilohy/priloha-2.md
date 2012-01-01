@@ -66,7 +66,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 07.1 zamestnancov pracujúcich vo výške
+    - 07.1 zamestnancov pracujúcich vo výške pomocou špeciálnej horolezeckej a speleologickej techniky
 
     - 07.2 osôb na montáž a demontáž lešenia (lešenári)
 

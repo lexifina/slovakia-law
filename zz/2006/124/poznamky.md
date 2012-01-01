@@ -6,6 +6,8 @@
 
 - 3a) § 77a a 77b zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 490/2001 Z. z.
 
+- § 2 ods. 1 až 4 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
 - 4) Zákonník práce.
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
@@ -52,13 +54,15 @@
 
 - 18) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
-
 - § 49 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
+- § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 3 a 5 zákona č. 435/2000 Z. z. o námornej plavbe.
+
+- § 6 ods. 3 písm. i) zákona č. 321/2002 Z. z.
+
+- Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
 
@@ -70,6 +74,8 @@
 
 - 23) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
+- 23a) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 24) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 396/2006 Z. z.
@@ -78,11 +84,9 @@
 
 - Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 27) § 31 zákona č. 355/2007 Z. z.
+
 - 28) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
-
-- 28a) § 31 zákona č. 355/2007 Z. z.
-
-- 28b) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
