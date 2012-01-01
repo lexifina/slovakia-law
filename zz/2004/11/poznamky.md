@@ -1,6 +1,6 @@
 - 1) § 22 ods. 3 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
-- 2) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z.
+- 2) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 5 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
