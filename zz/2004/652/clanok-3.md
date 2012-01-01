@@ -110,7 +110,7 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - (4)
 
-- Ak sa s tovarom podľa odseku 1 nenaložilo spôsobom podľa odseku 3, môže colný úrad bezodplatne previesť správu alebo vlastníctvo na zariadenie sociálnych služieb,<sup>74</sup>) zdravotnícke zariadenie,<sup>75</sup>) predškolské zariadenie alebo školu,<sup>76</sup>) neziskovú organizáciu <sup>77</sup>) alebo inú právnickú osobu, ktorá nie je podnikateľom,<sup>12</sup>) ak tá osoba preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadeniach sociálnych služieb alebo v zdravotníckych zariadeniach alebo zabezpečuje výchovu a vzdelávanie v predškolských zariadeniach alebo v školách. Na tie účely colné riaditeľstvo zverejňuje ponuky o tovare podľa odseku 1 na svojej internetovej stránke.“.
+- Ak sa s tovarom podľa odseku 1 nenaložilo spôsobom podľa odseku 3, môže colný úrad bezodplatne previesť správu alebo vlastníctvo na zariadenie sociálnych služieb,<sup>74</sup>) zdravotnícke zariadenie,<sup>75</sup>) predškolské zariadenie alebo školu,<sup>76</sup>) neziskovú organizáciu <sup>77</sup>) alebo inú právnickú osobu, ktorá nie je podnikateľom,<sup>12</sup>) ak tá osoba preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadeniach sociálnych služieb alebo v zdravotníckych zariadeniach alebo zabezpečuje výchovu a vzdelávanie v predškolských zariadeniach alebo v školách. Na tie účely finančné riaditeľstvo zverejňuje ponuky o tovare podľa odseku 1 na svojej internetovej stránke.“.
 
 - 27. V § 69 ods. 5 prvej vete sa slová „odseku 4" nahrádzajú slovami „odseku 3" a v druhej vete sa slová „alebo ich" nahrádzajú slovom „a".
 
@@ -140,7 +140,7 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - „(6)
 
-- Colné riaditeľstvo overí správnosť údajov uvedených v žiadosti a požiada príslušného správcu záväzku o potvrdenie, že záväzok zodpovedajúci pohľadávke dlžníka uznáva. Po overení a potvrdení údajov príslušným správcom záväzku colné riaditeľstvo vydá potvrdenie o započítaní, ktoré doručí dlžníkovi, štátnej rozpočtovej organizácii a príslušnému colnému úradu; dlžníkovi sa doručuje do vlastných rúk. Ak colné riaditeľstvo pohľadávku dlžníka nezapočíta, oznámi túto skutočnosť dlžníkovi, štátnej rozpočtovej organizácii a colnému úradu.“.
+- Finančné riaditeľstvo overí správnosť údajov uvedených v žiadosti a požiada príslušného správcu záväzku o potvrdenie, že záväzok zodpovedajúci pohľadávke dlžníka uznáva. Po overení a potvrdení údajov príslušným správcom záväzku finančné riaditeľstvo vydá potvrdenie o započítaní, ktoré doručí dlžníkovi, štátnej rozpočtovej organizácii a príslušnému colnému úradu; dlžníkovi sa doručuje do vlastných rúk. Ak finančné riaditeľstvo pohľadávku dlžníka nezapočíta, oznámi túto skutočnosť dlžníkovi, štátnej rozpočtovej organizácii a colnému úradu.“.
 
 - 34. V § 88 sa za odsek 6 vkladá nový odsek 7 a dopĺňa sa odsekom 8, ktoré znejú:
 
@@ -176,6 +176,6 @@ Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákon
 
 - „Príloha č. 4 k zákonu č. 199/2004 Z. z.
 
-- [Vzor 04-1](assets/5b1cab4339524f6003b513742c97784d8831fd828abc054c7538809ea6e9cc21.pdf)“.
+- [Vzor 04-1](assets/336ad36c542865de9dcc90735b45875bcc3ba1b3024c49ff1856b11d8aff7fe3.pdf)“.
 
 - 38. Príloha č. 5 sa vypúšťa.

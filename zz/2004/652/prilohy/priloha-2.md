@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 652/2004 Z. z.
 
-- Zoznam osobných údajov spracúvaných v informačných systémoch colnej správy
+- Zoznam osobných údajov spracúvaných v informačných systémoch finančnej správy
 
   - 1. titul, meno, priezvisko, rodné priezvisko,
 

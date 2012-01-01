@@ -28,9 +28,7 @@
 
 - 10ac) § 150 až 179 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
 
-- 11) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
-
-- 11a) Napríklad § 41 a 42 zákona č. 199/2004 Z. z.
+- 11) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
@@ -38,15 +36,11 @@
 
 - 12b) Napríklad nariadenie Rady (EHS) č. 2913/92 v platnom znení, nariadenie Komisie (EHS) č. 2454/93 v platnom znení, nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
 
-- 13) Napríklad § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov, § 2, 5 a 7 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov.čl. 4 a 5, čl. 7 ods. 2 a 4 nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 61, 3. 3. 1997) v platnom znení
-
 - 14) § 196 Trestného poriadku.
 
 - 15) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
 - 15a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
-
-- 16) Napríklad § 6 zákona č. 331/2005 Z. z.
 
 - 17) Nariadenie Rady (ES) č. 1383/2003 z 22. júla 2003, ktoré sa týka colného konania pri tovare podozrivom z porušovania niektorých práv duševného vlastníctva a opatrení, ktoré sa majú prijať pri tovare, u ktorého sa zistilo, že sa takéto práva porušili (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 13; Ú. v. EÚ L 196, 2. 8. 2003).
 
@@ -54,23 +48,11 @@
 
 - Zákon č. 200/2004 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru v znení zákona č. 116/2006 Z. z.
 
-- 17a) Čl. 8 ods. 2 až 4 nariadenia Komisie (ES) č. 1891/2004.
-
-- 17aa) Čl. 94 ods. 4 nariadenia Rady (EHS) č. 2913/92 v platnom znení.
-
-- 17b) Čl. 14e nariadenia Komisie (EHS) č. 2454/93 z 2. 7. 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993).
-
-- 18) § 32 ods. 2 zákona č. 199/2004 Z. z. v znení zákona č. 652/2004 Z. z.
-
-- 18a) Napríklad čl. 197, 228, 308a, 308d a čl. 458 nariadenia Komisie (EHS) č. 2454/93 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11. 10. 1993) v platnom znení.
-
-- 18b) Napríklad Dohoda medzi vládou Slovenskej republiky a vládou Macedónskej republiky o spolupráci a vzájomnej pomoci v colných otázkach (oznámenie č. 488/2008 Z. z.), Dohoda medzi vládou Slovenskej republiky a vládou Azerbajdžanskej republiky o spolupráci a vzájomnej pomoci v colných otázkach (oznámenie č. 65/2009 Z. z.).
-
 - 19) Napríklad zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 21/2007 Z. z.
 
-- 20) § 14a zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 20) § 40 až 43 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
-- 21) § 59 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 21) § 57 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 21a) Napríklad čl. 14l a 14m, čl. 14p až 14r, čl. 14t až 14x nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
@@ -86,7 +68,7 @@
 
 - 25) § 61 zákona č. 199/2004 Z. z.
 
-- 26) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 26) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 27) Článok 1 Medzinárodného dohovoru o vzájomnej administratívnej pomoci pri prevencii, úradnom zisťovaní a potláčaní colných deliktov (oznámenie č. 347/2000 Z. z.).
 
@@ -109,20 +91,6 @@
 - 30f) Čl. 2 bod 1 rozhodnutia Rady 2009/917/SVV.
 
 - 30g) Čl. 15 ods. 3 rozhodnutia Rady 2009/917/SVV.
-
-- 31) Článok 11 Dohovoru Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.).
-
-- 32) Napríklad § 15, 29 a 46 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 98/2004 Z. z. v znení neskorších predpisov.
-
-- 32a) Napríklad čl. 14h až 14k nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
-
-- 32aa) Napríklad Dohovor vypracovaný na základe článku K. 3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami podpísaný v Bruseli 18. 12. 1997 (Ú. v. ES C 24, 23. 1. 1998) v platnom znení.
-
-- 32b) Napríklad čl. 29 ods. 1 nariadenia Komisie (ES) č. 1277/2005 z 27. júla 2005, ktorým sa ustanovujú vykonávacie pravidlá pre nariadenie Európskeho parlamentu a Rady (ES) č. 273/2004 o prekurzoroch drog a pre nariadenie Rady (ES) č. 111/2005, ktorým sa stanovujú pravidlá sledovania obchodu s drogovými prekurzormi medzi Spoločenstvom a tretími krajinami (Ú. v. EÚ L 202, 3. 8. 2005).
-
-- 32c) § 10 ods. 8 písm. b) Trestného poriadku.
-
-- 32d) § 10 ods. 8 písm. g) Trestného poriadku.
 
 - 33) § 72 ods. 1 písm. l) zákona č. 199/2004 Z. z.
 
@@ -182,7 +150,7 @@
 
 - 47) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 48) Napríklad zákon č. 199/2004 Z. z., zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon č. 98/2004 Z. z.
+- 48) Napríklad zákon č. 199/2004 Z. z., zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z., zákon č. 98/2004 Z. z.
 
 - 49) § 55 ods. 3 a 6 zákona č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č. 69/2005 Z. z.
 
@@ -205,5 +173,7 @@
 - 57) § 2 zákona č. 211/2000 Z. z.
 
 - 58) § 40 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 58a) § 11 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 59) § 5 ods. 1 písm. c) zákona č. 283/2002 Z. z. o cestovných náhradách.

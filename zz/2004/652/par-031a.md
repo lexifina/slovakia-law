@@ -1,6 +1,6 @@
 # § 31a Používanie krycích dokladov
 
-(1) Krycími dokladmi na účely tohto zákona sú listiny a predmety slúžiace na utajenie skutočnej totožnosti colníka, svedka a osoby konajúcej v prospech colnej správy. Na zakrytie činnosti colníka alebo svedka možno vytvoriť legendu a v súvislosti s tým v informačných systémoch colnej správy podľa § 52, Policajného zboru, Železničnej polície, štátnych orgánov, verejnoprávnych inštitúcií, orgánov samosprávy a iných právnických osôb alebo fyzických osôb – podnikateľov zaznamenávať a vyberať potrebné údaje.
+(1) Krycími dokladmi na účely tohto zákona sú listiny a predmety slúžiace na utajenie skutočnej totožnosti colníka, svedka a osoby konajúcej v prospech finančnej správy. Na zakrytie činnosti colníka alebo svedka možno vytvoriť legendu a v súvislosti s tým v informačných systémoch finančnej správy podľa § 52, Policajného zboru, štátnych orgánov, verejnoprávnych inštitúcií, orgánov samosprávy a iných právnických osôb alebo fyzických osôb – podnikateľov zaznamenávať a vyberať potrebné údaje.
 
 (2) Krycím dokladom nesmie byť
 
@@ -26,8 +26,8 @@
 
 - k) diplomatický pas.
 
-(3) O použití krycích dokladov pri plnení úloh podľa tohto zákona rozhoduje generálny riaditeľ colného riaditeľstva.
+(3) O použití krycích dokladov pri plnení úloh podľa tohto zákona rozhoduje prezident finančnej správy.
 
-(4) Krycie doklady vydáva Policajný zbor podľa osobitného predpisu.<sup>43a</sup>) O ich vydanie žiada generálny riaditeľ colného riaditeľstva.
+(4) Krycie doklady vydáva Policajný zbor podľa osobitného predpisu.<sup>43a</sup>) O ich vydanie žiada prezident finančnej správy.
 
-(5) Colný kriminálny úrad vedie evidenciu používaných krycích dokladov.
+(5) Kriminálny úrad finančnej správy vedie evidenciu používaných krycích dokladov.

@@ -6,10 +6,10 @@ Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení ni
 
 - „3.
 
-- Colný kriminálny úrad
+- Kriminálny úrad finančnej správy
 
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
-- 3.01 Riaditeľ colného kriminálneho úradu 3.02 Námestník riaditeľa colného kriminálneho úradu 3.03 Vedúci pobočky colného kriminálneho úradu 3.04 Zástupca vedúceho pobočky colného kriminálneho úradu 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %
+- 3.01 Riaditeľ Kriminálneho úradu finančnej správy 3.02 Námestník riaditeľa Kriminálneho úradu finančnej správy 3.03 Vedúci pobočky Kriminálneho úradu finančnej správy 3.04 Zástupca vedúceho pobočky Kriminálneho úradu finančnej správy 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %
 
 - “.
