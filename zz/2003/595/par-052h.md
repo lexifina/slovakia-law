@@ -18,7 +18,7 @@
 
 (9) Ustanovenie § 30 ods.1 v znení účinnom od 1. januára 2010 sa použije na daňové straty vykázané po 31. decembri 2009.
 
-(10) Ak daňovník do 31. decembra 2009 vypočítal preddavky podľa § 42 z dane za predchádzajúce zdaňovacie obdobie zníženej o uplatnený nárok na úľavu na dani v správnej výške podľa tohto zákona a takto vypočítané preddavky zaplatil v lehote podľa § 42, správca dane neuplatní sankčný úrok podľa osobitného predpisu,<sup>127</sup>) a ak už bol tento sankčný úrok zaplatený, správca dane ho na žiadosť daňovníka vráti.
+(10) Ak daňovník do 31. decembra 2009 vypočítal preddavky podľa § 42 z dane za predchádzajúce zdaňovacie obdobie zníženej o uplatnený nárok na úľavu na dani v správnej výške podľa tohto zákona a takto vypočítané preddavky zaplatil v lehote podľa § 42, správca dane neuplatní úrok z omeškania podľa osobitného predpisu,<sup>127</sup>) a ak už bol tento úrok z omeškania zaplatený, správca dane ho na žiadosť daňovníka vráti.
 
 (11) Ustanovenie § 49 ods. 3 v znení účinnom od 1. januára 2010 sa použije po prvýkrát pri podávaní daňového priznania k dani z príjmov právnickej osoby za zdaňovacie obdobie končiace najskôr 31. decembra 2009 a pri podávaní daňového priznania k dani z príjmov fyzickej osoby za zdaňovacie obdobie končiace najskôr 31. decembra 2010.
 

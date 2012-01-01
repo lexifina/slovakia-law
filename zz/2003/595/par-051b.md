@@ -34,4 +34,4 @@
 
 (12) Priemerné ceny emisných kvót za jednotlivé mesiace a kalendárne roky zverejní ministerstvo na svojom webovom sídle.
 
-(13) Na správu dane z emisných kvót sa vzťahujú ustanovenia osobitného predpisu.<sup>128</sup>)
+(13) V odôvodnených prípadoch môže správca dane na žiadosť daňovníka určiť platenie preddavkov na daň z emisných kvót inak.

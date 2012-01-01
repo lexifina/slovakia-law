@@ -64,7 +64,7 @@
 
 - 26) Napríklad zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z., zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení zákona č. 337/1998 Z. z., zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov, zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 27) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
+- 27) § 39 a § 71 ods. 1 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
 - 28) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
@@ -72,13 +72,17 @@
 
 - 29a) Napríklad zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
+- 29b) § 40 a § 71 ods. 1 zákona č. 618/2003 Z. z. v znení neskorších predpisov.
+
+- § 81 ods. 1 písm. j) zákona č. 618/2003 Z. z. v znení zákona č. 84/2007 Z. z.
+
 - 30) § 476 až 488 Obchodného zákonníka.
 
 - 31) § 82 Obchodného zákonníka.
 
 - 32) § 100 Obchodného zákonníka.
 
-- 34) § 45 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 34) § 69 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
 - 35) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
@@ -144,7 +148,7 @@
 
 - 54) Napríklad § 10 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
 
-- 55) § 63 ods. 6 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 55) § 79 ods. 3 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 56) Zákon Slovenskej národnej rady č. 194/1990 Zb. v znení neskorších predpisov.
 
@@ -212,7 +216,7 @@
 
 - 74ab) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
-- 74b) § 55 ods. 2 zákona č. 594/2003 Z. z. v znení zákona č. 635/2004 Z. z.
+- 74b) Zákon č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 75) § 68 Obchodného zákonníka.
 
@@ -242,11 +246,9 @@
 
 - 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
 
-- 80d) § 35 ods. 7 písm. d) zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 504/2009 Z. z.
+- 81) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
-- 81) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
-
-- 82) § 15 a 15b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 82) § 44 až 47 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 82a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
@@ -386,8 +388,6 @@
 
 - 121) § 24 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 122) § 5 ods. 3 zákona Slovenskej národnej rady č. 511/1992 Zb.
-
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
 
 - 122aa) § 35 Zákonníka práce.
@@ -400,13 +400,11 @@
 
 - 125) Zákon č. 600/2003 Z. z.
 
-- 126) § 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 126) § 79 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 127) § 35b zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+- 127) §155 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 128) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
-
-- 129) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 128) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 130) § 37 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z.
 
@@ -414,7 +412,7 @@
 
 - 132) § 267 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
-- 132a) § 35 a 35b zákona č. 511/1992 Zb. v znení neskorších predpisov.
+- 132a) § 155 a 156 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 133) § 75 ods. 1 Obchodného zákonníka.
 
@@ -432,7 +430,15 @@
 
 - 136aa) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 136b) § 32 ods. 15 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 534/2005 Z. z.
+- 136ab) § 7 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 136ac) § 154 ods. 1 písm. d) a § 155 ods. 1 písm. e) zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 136c) Napríklad § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov, § 10 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 136d) § 2 ods. 1 a 2 Obchodného zákonníka.
+
+- 136e) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 137) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
 
@@ -460,7 +466,7 @@
 
 - 146aa) Zákon č. 147/2001 Z. z. v znení neskorších predpisov.
 
-- 146ab) § 14 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 146ab) § 37 a 38 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 146ac) § 13 ods. 1 písm. b) zákona č. 572/2004 Z. z. v znení zákona č. 117/2007 Z. z.
 

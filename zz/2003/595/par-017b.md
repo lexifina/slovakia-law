@@ -22,7 +22,7 @@
 
 - f) zníži o sumu záväzku prislúchajúceho k výdavku (nákladu), o ktorú zvýšil základ dane podľa § 17 ods. 27, v tom zdaňovacom období, v ktorom dôjde k splateniu nepeňažného vkladu.<sup>80c</sup>)
 
-(2) Ak vkladateľ nepeňažného vkladu zahrnuje do základu dane rozdiel medzi hodnotou nepeňažného vkladu započítanou na vklad spoločníka<sup>37a</sup>) a hodnotou nepeňažného vkladu v účtovníctve<sup>1</sup>) podľa odseku 1 písm. a), je povinný túto skutočnosť oznámiť prijímateľovi nepeňažného vkladu do 30 dní odo dňa splatenia nepeňažného vkladu.<sup>80c</sup>) Ak vkladateľ nepeňažného vkladu túto skutočnosť neoznámi prijímateľovi nepeňažného vkladu, uplatní sa postup podľa osobitného predpisu.<sup>80d</sup>)
+(2) Ak vkladateľ nepeňažného vkladu zahrnuje do základu dane rozdiel medzi hodnotou nepeňažného vkladu započítanou na vklad spoločníka<sup>37a</sup>) a hodnotou nepeňažného vkladu v účtovníctve<sup>1</sup>) podľa odseku 1 písm. a), je povinný túto skutočnosť oznámiť prijímateľovi nepeňažného vkladu do 30 dní odo dňa splatenia nepeňažného vkladu.<sup>80c</sup>)
 
 (3) Prijímateľ nepeňažného vkladu, ktorým je
 
@@ -72,7 +72,7 @@
 
   - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 36 mesiacov.
 
-(7) Ak počas najviac siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, počnúc zdaňovacím obdobím, v ktorom došlo k splateniu nepeňažného vkladu,<sup>80c</sup>) dôjde u prijímateľa nepeňažného vkladu k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku nadobudnutého nepeňažným vkladom, je prijímateľ nepeňažného vkladu túto skutočnosť povinný oznámiť vkladateľovi nepeňažného vkladu s výnimkou, ak oznámil skutočnosti podľa odseku 2, a to do 30 dní odo dňa vzniku tejto skutočnosti. Ak prijímateľ nepeňažného vkladu túto skutočnosť neoznámi vkladateľovi nepeňažného vkladu, uplatní sa postup podľa osobitného predpisu.<sup>80d</sup>)
+(7) Ak počas najviac siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, počnúc zdaňovacím obdobím, v ktorom došlo k splateniu nepeňažného vkladu,<sup>80c</sup>) dôjde u prijímateľa nepeňažného vkladu k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku nadobudnutého nepeňažným vkladom, je prijímateľ nepeňažného vkladu túto skutočnosť povinný oznámiť vkladateľovi nepeňažného vkladu s výnimkou, ak oznámil skutočnosti podľa odseku 2, a to do 30 dní odo dňa vzniku tejto skutočnosti.
 
 (8) Vkladateľ nepeňažného vkladu, ktorým je individuálne vložený majetok mimo územia Slovenskej republiky, postupuje podľa odseku 1 písm. a). Vkladateľ nepeňažného vkladu môže uplatniť postup podľa odseku 1 písm. b), pričom zodpovedá za zabezpečenie údajov od prijímateľa nepeňažného vkladu v rozsahu podľa odseku 7. Rovnako sa postupuje, ak vkladateľom nepeňažného vkladu je daňovník s obmedzenou daňovou povinnosťou [§ 2 písm. e)] pri individuálne vloženom majetku.
 

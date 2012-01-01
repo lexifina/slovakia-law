@@ -33,5 +33,3 @@
 (7) Zamestnávateľ, ktorý je platiteľom dane,<sup>122</sup>) zodpovedá za vyplatenie zamestnaneckej prémie v správnej výške a v lehote podľa tohto zákona.
 
 (8) Ak sa postupuje pri vykonaní ročného zúčtovania alebo pri podaní daňového priznania podľa odsekov 5 alebo 6, na účely uplatnenia zamestnaneckej prémie sa vypočítaná daň rovná nule a postup podľa § 11 sa nepoužije.
-
-(9) Na kontrolu uplatňovania zamestnaneckej prémie sa vzťahujú ustanovenia osobitného predpisu.<sup>128</sup>)
