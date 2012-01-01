@@ -98,6 +98,8 @@
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 41a) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
 - 42) § 340 a 341 Trestného zákona.
 
 - 43) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
