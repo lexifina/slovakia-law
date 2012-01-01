@@ -56,7 +56,7 @@
 
 - 22ac) Medzinárodný účtovný štandard 27 bod 38, Medzinárodné účtovné štandardy 28 a 31, nariadenie (ES) č. 1126/2008 v platnom znení.
 
-- 22ad) § 63 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
+- 22ad) Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
@@ -96,6 +96,22 @@
 
 - 29a) Kategória D prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
 
+- 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
+
+- 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29d) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29e) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 8 zákona č. 119/2010 Z. z. o obaloch a o zmene zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 29f) § 14 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
+- 29g) § 41 ods. 1 zákona č. 595/2003 Z. z. v znení zákona č. 548/2010 Z. z., § 15 zákona č. 563/2009 Z. z.
+
+- 29h) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov.
+
+- 29i) Napríklad § 24 ods. 3 zákona č. 147/1997 Z. z., § 33 ods. 4 zákona č. 213/1997 Z. z., zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 30) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 31) Zákon č. 483/2001 Z. z.Zákon č. 95/2002 Z. z.
@@ -104,11 +120,11 @@
 
 - 33) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov.
 
-- 33a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
+- 33a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 83, 30. 3. 2010).
 
-- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 83, 30. 3. 2010).
 
-- Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 34) Napríklad zákon č. 483/2001 Z. z., zákon č. 566/2001 Z. z.
 
@@ -121,6 +137,8 @@
 - Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 35aa) § 15 ods. 1 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2009 Z. z.
+
+- 35ab) § 88b zákona č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
 
 - 35b) § 20 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -140,7 +158,7 @@
 
 - 43) § 133 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 44) Napríklad zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov, zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení zákona č. 416/2001 Z. z., zákon č. 40/1961 Zb. o obrane Československej socialistickej republiky v znení neskorších predpisov, zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov v znení zákona č. 234/2000 Z. z., zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.
+- 44) Napríklad zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov, zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov, zákon č. 581/2004 Z. z. v znení neskorších predpisov, zákon č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 45) § 184 Zákonníka práce.
 
@@ -160,4 +178,4 @@
 
 - 47ad) § 1 ods. 2 písm. f) zákona č. 659/2007 Z. z.
 
-- 48) § 46 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 48) § 46 zákona č. 563/2009 Z. z.

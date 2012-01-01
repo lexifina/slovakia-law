@@ -17,3 +17,5 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 7. Smernica Komisie 2006/111/ES zo 16. novembra 2006 o transparentnosti finančných vzťahov členských štátov a verejných podnikov a o finančnej transparentnosti v niektorých podnikoch (kodifikované znenie) (Ú. v. EÚ L 318, 17. 11. 2006) – čl. 1 až 4, čl. 6, čl. 8.
 
   - 8. Smernica Európskeho parlamentu a Rady 2009/49/ES z 18. júna 2009, ktorou sa menia a dopĺňajú smernice Rady 78/660/EHS a 83/349/EHS, pokiaľ ide o určité požiadavky na zverejnenie pre stredné spoločnosti a povinnosť zostavovať konsolidovanú účtovnú závierku (Ú. v. EÚ L 164, 26. 6. 2009).
+
+  - 9. Smernica Európskeho parlamentu a Rady 2009/101/ES zo 16. septembra 2009 o koordinácii záruk, ktoré sa od obchodných spoločností v zmysle článku 48 druhého odseku zmluvy vyžadujú v členských štátoch na ochranu záujmov spoločníkov a tretích osôb s cieľom zabezpečiť rovnocennosť týchto záruk (Ú. v. EÚ L 258, 1. 10. 2009).
