@@ -70,6 +70,10 @@
 
 - 19a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 19aa) § 273 ods. 2 písm. b) Občianskeho súdneho poriadku.
+
+- 19ab) § 273 ods. 3 Občianskeho súdneho poriadku.
+
 - 19b) § 45 ods. 1 zákona č. 305/2005 Z. z.
 
 - Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
