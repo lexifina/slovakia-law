@@ -586,6 +586,42 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 
 - Obdobie od do
 
+- Tabuľka č. 9.1
+
+- Evidencia neplánovaného prerušenia prenosu elektriny a nedodanej elektriny z prenosovej sústavy
+
+- Poradové číslo | Napäťová úroveň [kV] | Začiatok prerušenia prenosu elektriny | | | Koniec prerušenia prenosu elektriny | | | Množstvo nedodanej elektriny E<sub>i</sub> [MW]
+
+- | | Dátum | Hodina | Minúta | Dátum | Hodina | Minúta |
+
+- Tabuľka č. 9.2
+
+- Hodnota priemernej doba prerušenia prenosu elektriny počas kalendárneho roka AIT zaokrúhlená na dve desatinné miesta
+
+- AIT |
+
+- Vysvetlivky k tabuľke č. 9.2:
+
+- Hodnota AIT sa vypočíta podľa vzorca
+
+- ![Vzorec 01](assets/4bf256124a33351c0116ffbe6c7b080785c975107ef4a1cbf2d36f1ef4f92b89.png)
+
+- kde
+
+- E<sub>i</sub>= množstvo nedodanej elektriny v MWh pri i-tom prerušení prenosu elektriny,
+
+- P= priemerný výkon elektriny prenášanej v rámci prenosovej sústavy v roku t-1,
+
+- kde
+
+- ![Vzorec 02](assets/73af0bac875bd58d73a483a8147baaa190f860dc638ba8f826feef0afe7477e3.png)
+
+- kde
+
+- Q = množstvo prenesenej elektriny v MWh prenosovou sústavou v roku t-1,
+
+- T = počet hodín roka t-1.
+
 - Tabuľka č. 9.3
 
 - Priemerný počet prerušení vzťahujúci sa na jeden transformátor okrem väzbových transformátorov 400/220 kV a záložných transformátorov 400/110 kV a 220/110 kV N (N400 alebo N220); hodnoty zaokrúhlené na dve desatinné miesta
@@ -716,6 +752,16 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 
 - Dodržiavanie plynulosti prenosu elektriny podľa § 2 písm. j)
 
+- Tabuľka č. 4.1
+
+- Priemerná doba prerušenia prenosu elektriny AIT v minútach
+
+- AIT [min] | Medziročný index AIT v roku t-1 / AIT v roku t-2
+
+- Vysvetlivky k tabuľke č. 4.1:
+
+- Do tabuľky sa uvedie hodnota AIT zaokrúhlená na dve desatinné miesta a hodnota medziročného indexu AIT zaokrúhlená na dve desatinné miesta.
+
 - Tabuľka č. 4.2
 
 - Priemerný počet prerušení vzťahujúci sa na jeden transformátor okrem väzbových transformátorov 400/220 kV a záložných transformátorov 400/110 kV a 220/110 kV.
@@ -729,6 +775,86 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 - Vysvetlivky k tabuľke č. 4.2:
 
 - Do tabuľky sa uvedie hodnota N400 a N220 zaokrúhlená na dve desatinné miesta a hodnota medziročného indexu N zaokrúhlená na dve desatinné miesta.
+
+- Príloha č. 3 k vyhláške č. 315/2008 Z. z.
+
+- DODRŽIAVANIE ŠTANDARDU KVALITY PODĽA § 2 písm. k)
+
+- Tabuľka č. 1
+
+- Skrátený opis štandardu kvality pri prenose elektriny | Miera závažnosti porušenia štandardu kvality | | Kritérium | X<sub>Pi</sub>
+
+- § 2 písm. a) – kvalita elektriny | V<sub>1</sub> | 8 | P<sub>1</sub> | X<sub>P1</sub>
+
+- § 2 písm. b) – odoslanie stanoviska k podaniu týkajúcemu sa kvality elektriny | V<sub>2</sub> | 8 | P<sub>2</sub> | X<sub>P2</sub>
+
+- § 2 písm. c) – uskutočnenie prenosu elektriny po podpise zmluvy o prenose elektriny | V<sub>3</sub> | 10 | P<sub>3</sub> | X<sub>P3</sub>
+
+- § 2 písm. d) – obnovenie prenosu po úhrade dlžnej čiastky | V<sub>4</sub> | 10 | P<sub>4</sub> | X<sub>P4</sub>
+
+- § 2 písm. e) – obnovenie prenosu na základe žiadosti dodávateľa elektriny | V<sub>5</sub> | 10 | P<sub>5</sub> | X<sub>P5</sub>
+
+- § 2 písm. f) – obnovenie prenosu elektriny po poruche v prenosovej sústave | V<sub>6</sub> | 10 | P<sub>6</sub> | X<sub>P6</sub>
+
+- § 2 písm. g) – obnovenie prenosu elektriny po poruche na výrobnom zariadení | V<sub>7</sub> | 7 | P<sub>7</sub> | X<sub>P7</sub>
+
+- § 2 písm. h) – dodržanie lehoty na zabezpečenie preskúšania meradla | V<sub>8</sub> | 8 | P<sub>8</sub> | X<sub>P8</sub>
+
+- § 2 písm. i) – overenie vyúčtovania v ustanovenej lehote | V<sub>9</sub> | 9 | P<sub>9</sub> | X<sub>P9</sub>
+
+- § 2 písm. j) – priemerná doba trvania prerušenia prenosu elektriny AIT | V<sub>10</sub> | 10 | P<sub>10</sub> | X<sub>P10</sub>
+
+- § 2 písm. j) – priemerný počet prerušení vzťahujúci sa na jeden transformátor N400 | V<sub>11</sub> | 5 | P<sub>11</sub> | X<sub>P11</sub>
+
+- § 2 písm. j) – priemerný počet prerušení vzťahujúci sa na jeden transformátor N220 | V<sub>12</sub> | 5 | P<sub>12</sub> | X<sub>P12</sub>
+
+- Vypočítaná hodnota čísla podľa § 2 písm. k) | | | | X<sub>P</sub>
+
+- Vysvetlivky k tabuľke č. 1:
+
+- 1.
+
+- P<sub>1</sub> = P<sub>1</sub>O / P<sub>1</sub>C (údaje podľa prílohy č. 2 tabuľky č. 2),
+
+- 2.
+
+- P<sub>i</sub> = P<sub>i</sub>N / P<sub>i</sub>C; i = 2 až 9 (údaje podľa prílohy č. 2 tabuľky č. 3),
+
+- 3.
+
+- P<sub>10</sub> = AIT / 5,00,
+
+- P<sub>11</sub> = N400 / 0,40,
+
+- P<sub>12</sub> = N220 / 0,40,
+
+- (údaje AIT, N400 a N220 podľa prílohy č. 2 tabuľky č. 4.1 a tabuľky č. 4.2),
+
+- 4.
+
+- X<sub>Pi</sub> = V<sub>i</sub> * P<sub>i</sub>; i = 1 až 12,
+
+- 5.
+
+- X<sub>P</sub>= ĺ X<sub>Pi</sub>; i = 1 až 12,
+
+- 6.
+
+- hodnoty X<sub>Pi</sub> a X<sub>P</sub> sa zaokrúhľujú na dve desatinné miesta.
+
+- Tabuľka č. 2
+
+- Medziročné porovnanie X<sub>P</sub>
+
+- X<sub>P</sub> v roku t-1 |
+
+- X<sub>P</sub> v roku t-2 |
+
+- X<sub>P</sub> podľa § 2 písm. k) | 27,55
+
+- Vysvetlivky k tabuľke č. 2:
+
+- Do tabuľky sa uvádzajú hodnoty X<sub>P</sub>v roku t-1 a X<sub>P</sub>v roku t-2 zaokrúhlené na dve desatinné miesta.
 
 - Príloha č. 4 k vyhláške č. 315/2008 Z. z.
 
@@ -1300,6 +1426,142 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 
 - Dodržiavanie plynulosti distribúcie elektriny podľa § 3 ods. 1 písm. n)
 
+- Tabuľka č. 14.1
+
+- Priemerná doba neplánovaného prerušenia distribúcie elektriny na odberné miesto SAIDI (hodnota zaokrúhlená na dve desatinné miesta)
+
+- SAIDI [min] | | | | | | | | | | | |
+
+- 1. mesiac | 2. mesiac | 3. mesiac | 4. mesiac | 5. mesiac | 6. mesiac | 7. mesiac | 8. mesiac | 9. mesiac | 10. mesiac | 11. mesiac | 12. mesiac | Spolu za rok
+
+- Vysvetlivky k tabuľke č. 14.1:
+
+- 1.
+
+- Priemerná doba neplánovaného prerušenia distribúcie elektriny na jedno odberné miesto SAIDI sa vypočíta podľa vzorca
+
+- ![Vzorec 04](assets/9f92cbf1c63a653eb28dbaa6c5c4d6d9ced223c39c281f38141b425c650056ab.png)
+
+- kde
+
+- Z<sub>i</sub> – počet dotknutých odberných miest pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+- t<sub>i</sub>– trvanie časového úseku pri i-tom neplánovanom prerušení distribúcie elektriny v minútach,
+
+- N – celkový počet odberných miest v danej distribučnej sústave.
+
+- 2.
+
+- Do SAIDI sa započítavajú všetky neplánované prerušenia distribúcie elektriny v sústave daného subjektu, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov elektriny z distribučnej sústavy pripojenej do sústavy, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do SAIDI, je tri minúty.
+
+- 3.
+
+- Do SAIDI sa nezapočítava prerušenie distribúcie elektriny v sústave daného subjektu, ktoré bolo zapríčinené vznikom udalosti v prenosovej sústave alebo vznikom udalosti v nadradenej distribučnej sústave, alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+- 4.
+
+- SAIDI sa sleduje mesačne a ročne takto:
+
+- a)
+
+- dokumentácia sa vedie o udalostiach, následkom ktorých SAIDI ovplyvnilo mesačný ukazovateľ; pri každej udalosti je zaznamenaný dátum, čas vzniku, čas trvania neplánovaného prerušenia distribúcie, počet dotknutých odberných miest a príčina udalosti,
+
+- b)
+
+- neplánované prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 3, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.
+
+- Tabuľka č. 14.2
+
+- Priemerný počet neplánovaného prerušenia distribúcie elektriny na jedno odberné miesto SAIFI (hodnota zaokrúhlená na dve desatinné miesta)
+
+- SAIFI | | | | | | | | | | | |
+
+- 1. mesiac | 2. mesiac | 3. mesiac | 4. mesiac | 5. mesiac | 6. mesiac | 7. mesiac | 8. mesiac | 9. mesiac | 10. mesiac | 11. mesiac | 12. mesiac | Spolu za rok
+
+- Vysvetlivky k tabuľke č. 14.2
+
+- 1.
+
+- Priemerný počet neplánovaných prerušení distribúcie elektriny na odberné miesto SAIFI sa vypočíta podľa vzorca
+
+- ![Vzorec 05](assets/9375a56236e76a38f59c6bdbe6e98a27518b3f3db1a26dd595a13fff47308f4d.png)
+
+- kde
+
+- N<sub>i</sub> – počet dotknutých odberných miest pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+- N– celkový počet odberných miest v spoločnosti.
+
+- 2.
+
+- Do SAIFI sa započítavajú všetky neplánované prerušenia distribúcie elektriny v spoločnosti, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov distribučnej sústavy pripojenej do sústavy, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do SAIFI, je tri minúty.
+
+- 3.
+
+- Do SAIFI sa nezapočítavajú prerušenia distribúcie elektriny v sústave daného subjektu, ktoré boli zapríčinené vznikom udalosti v prenosovej sústave, vznikom udalosti v nadradenej distribučnej sústave alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+- 4.
+
+- SAIFI sa sleduje mesačne a ročne takto:
+
+- a)
+
+- dokumentácia sa vedie o udalostiach, následkom ktorých SAIFI ovplyvnilo mesačný ukazovateľ; pri každej udalosti je zaznamenaný dátum a čas vzniku, počet dotknutých odberných miest a príčina udalosti,
+
+- b)
+
+- prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 3, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.
+
+- Tabuľka č. 14.3
+
+- Pomer množstva elektriny nedodanej odberateľom elektriny z dôvodu vzniku poruchy v sústave k celkovému množstvu dodanej elektriny odberateľom elektriny počas kalendárneho roka ISS (hodnota zaokrúhlená na štyri desatinné miesta)
+
+- Mesiac | 1. | 2. | 3 | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | Spolu za rok
+
+- E [MWh] | | | | | | | | | | | | |
+
+- Σ E<sub>i</sub> [MWh] | | | | | | | | | | | | |
+
+- ISS | | | | | | | | | | | | |
+
+- Vysvetlivky k tabuľke č. 14.3:
+
+- 1.
+
+- V tabuľke sa uvádzajú hodnoty E, E<sub>i</sub>a ĺ E<sub>i</sub> zaokrúhlené na štyri desatinné miesta, pričom
+
+- E – celkové množstvo elektriny dodanej odberateľom elektriny pripojeným do sústavy v danom roku,
+
+- E<sub>i</sub>– množstvo elektriny, ktorá nebola dodaná odberateľom elektriny pri i-tom neplánovanom prerušení distribúcie elektriny,
+
+- ĺE<sub>i</sub> – celkové množstvo elektriny, ktorá nebola dodaná odberateľom elektriny v danom roku z dôvodu vzniku neplánovaných prerušení distribúcie elektriny.
+
+- 2.
+
+- Pomer množstva elektriny nedodanej odberateľom elektriny z dôvodu vzniku poruchy v sústave k celkovému množstvu dodanej elektriny odberateľom elektriny počas kalendárneho roka ISS sa vypočíta podľa vzorca
+
+- ![Vzorec 06](assets/79978c7cb5a136d2a2d0cb46a06957140b802248ed210afb56b0e49da3ed9762.png)
+
+- 3.
+
+- Do ISS sa započítavajú všetky neplánované prerušenia distribúcie elektriny v spoločnosti, ktoré mali za následok prerušenie distribúcie elektriny koncovým odberateľom elektriny vrátane koncových odberateľov distribučnej sústavy pripojenej k sústave, v ktorej nastala táto udalosť. Minimálne trvanie neplánovaného prerušenia distribúcie elektriny, ktoré sa započíta do ISS, je tri minúty.
+
+- 4.
+
+- Do ISS sa nezapočítavajú prerušenia distribúcie elektriny v sústave daného subjektu, ktoré boli zapríčinené vznikom udalosti v prenosovej sústave, vznikom udalosti v nadradenej distribučnej sústave alebo vznikom udalosti podľa § 5 písm. a), b) a c).
+
+- 5.
+
+- ISS sa sleduje mesačne a ročne takto:
+
+- a)
+
+- pri každej udalosti je zaznamenaný dátum a čas vzniku, čas trvania prerušenia distribúcie, množstvo elektriny nedodanej z dôvodu vzniku danej udalosti a príčina udalosti,
+
+- b)
+
+- prerušenie distribúcie elektriny v danej distribučnej sústave, ktoré bolo zapríčinené vznikom udalostí podľa bodu 4, sa sleduje a vyhodnocuje osobitne a úradu sa štandardne nepredkladá.
+
 - Príloha č. 5 k vyhláške č. 315/2008 Z. z.
 
 - VYHODNOTENIE ŠTANDARDU KVALITY PRI DISTRIBÚCII ELEKTRINY
@@ -1411,6 +1673,128 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 - Hodnota D<sub>i</sub>sa zaokrúhľuje na dve desatinné miesta.
 
 - Pre štandard kvality podľa § 3 ods. 1 písm. g), i) a j) sa počet dotknutých odberných miest považuje za počet udalostí.
+
+- Tabuľka č. 4
+
+- Dodržiavanie parametra štandardu kvality podľa § 3 ods. 3 písm. n)
+
+- Opis parametra štandardu kvality dodávanej elektriny a regulovaných činností súvisiacich s distribúciou elektriny | Dosiahnutá hodnota v roku t-1
+
+- Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) SAIDI |
+
+- Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) SAIFI |
+
+- Dodržanie plynulosti distribúcie elektriny podľa § 3 písm. n) ISS |
+
+- Vysvetlivky k tabuľke č. 4:
+
+- V tabuľke sa uvádzajú hodnoty SAIDI a SAIFI zaokrúhlené na dve desatinné miesta, hodnota ISS zaokrúhlená na štyri desatinné miesta.
+
+- Tabuľka č. 5
+
+- Medziročné porovnanie SAIDI, SAIFI a ISS
+
+- Indikátor | Rok t-1 | Rok t-2
+
+- SAIDI | |
+
+- SAIFI | |
+
+- ISS | |
+
+- Vysvetlivky k tabuľke č. 5:
+
+- V tabuľke sa uvádzajú hodnoty SAIDI a SAIFI zaokrúhlené na dve desatinné miesta, hodnota ISS zaokrúhlená na štyri desatinné miesta.
+
+- Príloha č. 6 k vyhláške č. 315/2008 Z. z.
+
+- DODRŽIAVANIE ŠTANDARDU KVALITY PODĽA § 3 ods. 1 písm. o)
+
+- Tabuľka č. 1
+
+- Skrátený opis štandardu kvality pri distribúcii elektriny | Miera závažnosti porušenia štandardu kvality | | Kritérium | X<sub>Di</sub>
+
+- § 3 ods. 1 písm. a) – kvalita elektriny | V<sub>1</sub> | 6 | D<sub>1</sub> | X<sub>D1</sub>
+
+- § 3 ods. 1 písm. b) – odoslanie stanoviska k podaniu týkajúceho sa kvality elektriny | V<sub>2</sub> | 6 | D<sub>2</sub> | X<sub>D2</sub>
+
+- § 3 ods. 1 písm. c) a ods. 2 – odstránenie príčin zníženej kvality elektriny | V<sub>3</sub> | 6 | D<sub>3</sub> | X<sub>D3</sub>
+
+- § 3 ods. 1 písm. d) – uskutočnenie distribúcie do piatich dní po podpise zmluvy | V<sub>4</sub> | 5 | D<sub>4</sub> | X<sub>D4</sub>
+
+- § 3 ods. 1 písm. e) – obnovenie distribúcie do dvoch dní po úhrade dlžnej sumy | V<sub>5</sub> | 8 | D<sub>5</sub> | X<sub>D5</sub>
+
+- § 3 ods. 1 písm. f) – obnovenie distribúcie na základe žiadosti dodávateľa elektriny | V<sub>6</sub> | 8 | D<sub>6</sub> | X<sub>D6</sub>
+
+- § 3 ods. 1 písm. g) prvý bod – obnovenie distribúcie elektriny do 12 hod. po poruche | V<sub>7</sub> | 7 | D<sub>7</sub> | X<sub>D7</sub>
+
+- § 3 ods. 1 písm. g) druhý bod – obnovenie distribúcie elektriny do 18 hod. po poruche | V<sub>8</sub> | 7 | D<sub>8</sub> | X<sub>D8</sub>
+
+- § 3 ods. 1 písm. h) – obnovenie distribúcie po poruche na VZ | V<sub>9</sub> | 3 | D<sub>9</sub> | X<sub>D9</sub>
+
+- § 3 ods. 1 písm. i) – oznámenie termínu prerušenia distribúcie elektriny | V<sub>10</sub> | 6 | D<sub>10</sub> | X<sub>D10</sub>
+
+- § 3 ods. 1 písm. j) – dodržanie termínu plánovaného prerušenia distribúcie | V<sub>11</sub> | 6 | D<sub>11</sub> | X<sub>D11</sub>
+
+- § 3 ods. 1 písm. k) – zabezpečenie overenia meradla v ustanovenej lehote | V<sub>12</sub> | 3 | D<sub>12</sub> | X<sub>D12</sub>
+
+- § 3 ods. 1 písm. l) – overenie správnosti vyúčtovania v ustanovenej lehote | V<sub>13</sub> | 5 | D<sub>13</sub> | X<sub>D13</sub>
+
+- § 3 ods. 1 písm. m) – odoslanie stanoviska ku žiadosti o pripojenie do sústavy | V<sub>14</sub> | 4 | D<sub>14</sub> | X<sub>D14</sub>
+
+- § 3 ods. 1 písm. n) – plynulosť distribúcie elektriny, SAIDI | V<sub>15</sub> | 6 | D<sub>15</sub> | X<sub>D15</sub>
+
+- § 3 ods. 1 písm. n) – plynulosť distribúcie elektriny, SAIFI | V<sub>16</sub> | 4 | D<sub>16</sub> | X<sub>D16</sub>
+
+- § 3 ods. 1 písm. n) – množstvo nedodanej elektriny, ISS | V<sub>17</sub> | 4 | D<sub>17</sub> | X<sub>D17</sub>
+
+- Vypočítaná hodnota čísla podľa § 3 ods. 1 písm. o) | | | | X<sub>D</sub>
+
+- Vysvetlivky k tabuľke č. 1:
+
+- 1.
+
+- D<sub>1</sub> = D<sub>1</sub>O / D<sub>1</sub>C (údaje podľa prílohy č. 5 tabuľky č. 2).
+
+- 2.
+
+- D<sub>i</sub> = D<sub>i</sub>N/D<sub>i</sub>C; i = 2 až 16 (údaje podľa prílohy č. 5 tabuľky č. 3).
+
+- 3.
+
+- D<sub>17</sub> = SAIDI / 180,
+
+- D<sub>18</sub> = SAIFI / 3,00,
+
+- D<sub>19</sub> = X / 0,005,
+
+- (údaje SAIDI, SAIFI, ISS podľa prílohy č. 5 tabuľky č. 4).
+
+- 4.
+
+- X<sub>Di</sub> = V<sub>i</sub> x D<sub>i</sub>; i = 1 až 17.
+
+- 5.
+
+- X<sub>D</sub>= ĺ X<sub>Di</sub>; i = 1 až 17.
+
+- 6.
+
+- Hodnoty X<sub>Di</sub> a X<sub>D</sub> sa zaokrúhľujú na dve desatinné miesta.
+
+- Tabuľka č. 2
+
+- Medziročné porovnanie X<sub>D</sub>
+
+- X<sub>D</sub> v roku t-1 |
+
+- X<sub>D</sub> v roku t-2 |
+
+- X<sub>D</sub> podľa § 3 písm. o) | 23,28
+
+- Vysvetlivky k tabuľke č. 2:
+
+- V tabuľke sa uvádzajú hodnoty X<sub>D</sub>v roku t-1 a X<sub>D</sub>v roku t-2 zaokrúhlené na dve desatinné miesta.
 
 - Príloha č. 7 k vyhláške č. 315/2008 Z. z.
 
@@ -1611,6 +1995,56 @@ Vyhláška Úradu pre reguláciu sieťových odvetví č. 315/2008 Z. z., ktorou
 - Ak DO<sub>i</sub>C = 0, potom DO<sub>i</sub> = 0,00.
 
 - Hodnota DO<sub>i</sub> sa zaokrúhľuje na dve desatinné miesta.
+
+- Príloha č. 9 k vyhláške č. 315/2008 Z. z.
+
+- DODRŽIAVANIE ŠTANDARDU KVALITY PODĽA § 4 písm. d)
+
+- Tabuľka č. 1
+
+- Skrátený opis parametra štandardu kvality | Miera závažnosti porušenia štandardu kvality | | Kritérium | X<sub>DOi</sub>
+
+- § 4 ods. 1 písm. a) – overenie správnosti vyúčtovania | V<sub>1</sub> | 40 | DO<sub>1</sub> | X<sub>DO1</sub>
+
+- § 4 ods. 1 písm. b) – požiadanie o obnovenie dodávky po úhrade dlžnej čiastky | V<sub>2</sub> | 40 | DO<sub>2</sub> | X<sub>DO2</sub>
+
+- § 4 ods. 1 písm. c) – odoslanie podania alebo stanoviska v ustanovenej lehote | V<sub>3</sub> | 20 | DO<sub>3</sub> | X<sub>DO3</sub>
+
+- Vypočítaná hodnota čísla podľa § 4 písm. d) | | | | X<sub>DO</sub>
+
+- Vysvetlivky k tabuľke č. 1:
+
+- 1.
+
+- DO<sub>i</sub> = DO<sub>i</sub>N/DO<sub>i</sub>C; i = 1 až 3(údaje podľa prílohy č. 8 tabuľky č. 2).
+
+- 2.
+
+- X<sub>DOi</sub> = V<sub>i</sub> x DO<sub>i</sub>; i = 1 až 3.
+
+- 3.
+
+- X<sub>DO</sub>= ĺ X<sub>DOi</sub>; i = 1 až 3.
+
+- 4.
+
+- Hodnoty X<sub>DOi</sub> a X<sub>DO</sub> sa zaokrúhľujú na dve desatinné miesta.
+
+- Tabuľka č. 2
+
+- Medziročné porovnanie X<sub>DO</sub>
+
+- X<sub>DO</sub> v roku t-1 |
+
+- X<sub>DO</sub> v roku t-2 |
+
+- X<sub>DO</sub> podľa § 4 písm. d) | 8,20
+
+- Vysvetlivky k tabuľke č. 2:
+
+- V tabuľke sa uvádzajú hodnoty X<sub>DO</sub>v roku t-1 a X<sub>DO</sub>v roku t-2 zaokrúhlené na dve desatinné miesta.
+
+- Hodnota X<sub>DO</sub>v roku t-2 sa prvýkrát uvedie vo vyhodnotení štandardov kvality za rok 2012.
 
 - Príloha č. 10 k vyhláške č. 315/2008 Z. z.
 
