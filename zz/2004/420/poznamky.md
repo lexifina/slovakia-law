@@ -10,6 +10,8 @@
 
 - 4b) Čl. 59 a 60 nariadenia Rady (ES) č. 44/2001 z 22. decembra 2000 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 4; Ú. v. ES L 12, 16. 1. 2001).
 
+- 4c) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
 - 5) § 415 až 450 Občianskeho zákonníka.
 
 - 6) Napríklad § 167 a 168 Trestného zákona, § 17 Obchodného zákonníka, zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
