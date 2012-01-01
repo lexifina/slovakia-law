@@ -124,13 +124,15 @@
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčasti motorových vozidiel.
 
-- 45b) § 63 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 45b) § 79 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
 - 46) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- 46aa) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 46b) § 3 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
