@@ -52,7 +52,7 @@ Príloha č. 2 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (3) Dodávateľ elektriny, s ktorým účastník trhu s elektrinou uzatvoril zmluvu o dodávke elektriny, oznámi túto skutočnosť prevádzkovateľovi sústavy, ku ktorému je odberné miesto účastníka trhu s elektrinou pripojené.
 
-    - (4) Prevádzkovateľ sústavy preverí úplnosť a správnosť údajov oznámených dodávateľom elektriny podľa odseku 3 a uskutočnenie zmeny oznámi dodávateľovi elektriny. Ak zistí nedostatky, vyzve dodávateľa elektriny na ich odstránenie. Ak dodávateľ elektriny neodstráni nedostatky v lehote určenej prevádzkovateľom sústavy, prevádzkovateľ sústavy zmenu nevykoná.
+    - (4) Prevádzkovateľ sústavy preverí úplnosť a správnosť údajov oznámených dodávateľom elektriny podľa odseku 3 a uskutočnenie zmeny oznámi dodávateľovi elektriny. Ak zistí nedostatky, vyzve dodávateľa elektriny na ich odstránenie. Ak dodávateľ elektriny neodstráni nedostatky v lehote určenej prevádzkovateľom sústavy, prevádzkovateľ sústavy zmenu nevykoná. Postup podľa časti B odseku 6 sa použije primerane.
 
     - (5) Pri zisťovaní spotreby elektriny pre odberné miesto sa postupuje podľa časti D.
 

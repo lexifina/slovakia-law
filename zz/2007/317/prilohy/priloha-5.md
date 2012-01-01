@@ -4,7 +4,7 @@ Príloha č. 5 k nariadeniu vlády č. 317/2007 Z. z.
 
   - (1) Zúčtovateľ odchýlok vykoná predbežné denné vyhodnotenie odchýlky subjektu zúčtovania a oznámi subjektom zúčtovania a dodávateľom regulačnej elektriny výsledky denného vyhodnotenia do 10:00 h za predchádzajúci deň na základe registrácie denných diagramov podľa § 15 a vyhodnotenia regulačnej elektriny podľa § 8.
 
-  - (2) Zúčtovateľ odchýlok na svojej internetovej stránke uverejňuje denne do 10:00 h predbežné denné vyhodnotenie odchýlky a obstaranej kladnej a zápornej regulačnej elektriny, veľkosť odchýlky sústavy, súčet kladných a záporných odchýlok, celkové náklady na obstaranie regulačnej elektriny, zúčtovaciu cenu odchýlky a viacnáklady na obstaranie regulačnej elektriny.
+  - (2) Zúčtovateľ odchýlok na svojej internetovej stránke uverejňuje denne do 10:00 h predbežné denné vyhodnotenie odchýlky a obstaranej kladnej a zápornej regulačnej elektriny, veľkosť odchýlky sústavy, súčet kladných a záporných odchýlok, celkové náklady na obstaranie regulačnej elektriny a zúčtovaciu cenu odchýlky.
 
   - (3) Zúčtovateľ odchýlok vykoná do dvoch pracovných dní od ukončenia prvej dekády a druhej dekády daného mesiaca dekádne vyhodnotenie odchýlky a obstaranej regulačnej elektriny za predchádzajúcu dekádu, ktoré zohľadňuje spresnené denné hodnoty meraní a vyhodnotení obstaranej regulačnej elektriny.
 

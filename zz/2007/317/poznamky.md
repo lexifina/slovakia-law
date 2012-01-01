@@ -34,7 +34,9 @@
 
 - 18) § 22 ods. 2 písm. n) zákona č. 656/2004 Z. z.
 
-- 18a) § 3 ods. 1 písm. d) a ods. 5 zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
+- 18a) § 2 písm. a) bod 22 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
+
+- 18aa) § 3 ods. 1 písm. d) a ods. 5 zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov.
 
 - 18b) § 20a ods. 1 zákona č. 656/2004 Z. z. v znení zákona č. 112/2008 Z. z.
 

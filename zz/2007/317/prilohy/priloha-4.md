@@ -84,6 +84,8 @@ Príloha č. 4 k nariadeniu vlády č. 317/2007 Z. z.
 
     - (5) Za dodávku elektriny výrobcom elektriny do odberných miest s typom merania C, so spôsobom odpočtu údajov podľa spôsobu uvedeného v časti B odseku 1 písm. c), za ktoré prevzal zodpovednosť za odchýlku iný subjekt zúčtovania, odovzdá prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok náhradné hodnoty pre každú obchodnú hodinu dňa.
 
+    - (6) Na účely zostavovania obchodnej bilancie platí, ak je hodnota obchodnej hodiny tvorená na základe hodnôt štyroch po sebe idúcich časových úsekov s trvaním 15 minút v intervale jednej obchodnej hodiny, hodnotou obchodnej hodiny je aritmetický priemer hodnôt štyroch po sebe idúcich časových úsekov s trvaním 15 minút v intervale jednej obchodnej hodiny.
+
   - F. Vysporiadanie zúčtovacieho obdobia
 
     - (1) Na vysporiadanie zúčtovacieho obdobia odovzdá prevádzkovateľ prenosovej sústavy a prevádzkovateľ distribučnej sústavy zúčtovateľovi odchýlok skutočné hodnoty odberu a dodávok elektriny alebo náhradné hodnoty.
