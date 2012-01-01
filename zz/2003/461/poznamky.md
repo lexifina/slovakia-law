@@ -54,6 +54,8 @@
 
 - 33) § 69 ods. 2 zákona č. 131/2002 Z. z.
 
+- 33a) Napríklad § 131 ods. 2 a 4, § 154 ods. 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 348/2011 Z. z.
+
 - 35) § 19 ods. 1 písm. n) a § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 35a) § 20 zákona č. 447/2008 Z. z.
@@ -285,3 +287,5 @@
 - 118) § 123m zákona č. 43/2004 Z. z. v znení zákona č. 434/2008 Z. z.
 
 - 119) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
+
+- 120) § 6 ods. 2 písm. a) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
