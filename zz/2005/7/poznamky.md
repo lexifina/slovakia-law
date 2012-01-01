@@ -6,6 +6,10 @@
 
 - 4) § 42 ods. 3 Občianskeho súdneho poriadku.
 
+- 4a) § 2 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 323/2007 Z. z.
+
+- 4b) § 9 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva.
+
 - 5) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 6) § 2 ods. 5 a 8 zákona č. 483/2001 Z. z. v znení zákona č. 554/2004 Z. z.
@@ -14,7 +18,7 @@
 
 - 8) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 8a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006). § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 8a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
 - 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
@@ -54,8 +58,6 @@
 
 - 21) Napríklad zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
-- 22) § 408a Obchodného zákonníka.
-
 - 22a) Trestný poriadok v znení neskorších predpisov.
 
 - 22b) § 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
@@ -68,7 +70,7 @@
 
 - 25) § 502 Obchodného zákonníka.
 
-- 26) Nariadenie Rady (ES) č. 1346/2000 z 29. mája 2000 o konkurznom konaní (Ú. v. ES L 160, 30. 06. 2000).
+- 26) Nariadenie Rady (ES) č. 1346/2000 z 29. mája 2000 o konkurznom konaní (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 01; Ú. v. ES L 160, 30. 6. 2004) v platnom znení.
 
 - 27) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -97,3 +99,5 @@
 - 33) § 72, 74, 76 a 77 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - § 16 ods. 3 až 7 a § 20 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
+- 34) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
