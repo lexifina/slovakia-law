@@ -20,11 +20,15 @@
 
 - 9) § 58 ods. 3 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
 
+- 9a) § 3 ods. 2 a 3 zákona č. 409/2001 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
+
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
 
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
+
+- 12a) § 9 ods. 5 a 10 a § 10 ods. 6 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
