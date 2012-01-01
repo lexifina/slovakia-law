@@ -1,0 +1,1 @@
+- 1) § 6 ods. 11 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
