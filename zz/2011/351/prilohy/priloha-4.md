@@ -4,4 +4,4 @@ Príloha č. 4 k zákonu č. 351/2011 Z. z.
 
   - POPIS PROJEKTU
 
-- [Vzor 02](../assets/6f18ad07f52970ba8dc69b5933c17ec0f21a036236d8e8366db9671cae2cc15f.pdf)
+- [Vzor 02](../assets/6ab6d725971bc1901165ae11aaf4d102cd2e0fd837222feeb4a4afbdb91d4a75.pdf)
