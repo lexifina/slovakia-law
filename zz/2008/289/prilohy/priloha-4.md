@@ -8,7 +8,7 @@ Príloha č. 4 k zákonu č. 289/2008 Z. z.
 
   - 3. Plomba má tvar obdĺžnika a jej rozmer je 45 x 20 mm.
 
-  - 4. V strede plomby je umiestnený štátny znak Slovenskej republiky (ďalej len „štátny znak“). Nad štátnym znakom je umiestnený nápis „DAŇOVÉ RIADITEĽSTVO“ a pod štátnym znakom je umiestnený nápis „SLOVENSKEJ REPUBLIKY“.
+  - 4. V strede plomby je umiestnený štátny znak Slovenskej republiky (ďalej len „štátny znak“). Nad štátnym znakom je umiestnený nápis „FINANČNÉ RIADITEĽSTVO“ a pod štátnym znakom je umiestnený nápis „SLOVENSKEJ REPUBLIKY“.
 
   - 5. Plomba je označená číslom série a poradovým číslom.
 
