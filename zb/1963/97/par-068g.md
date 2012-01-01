@@ -1,6 +1,6 @@
 # § 68g Rozhodnutie súdu
 
-(1) O uznaní cudzieho rozhodnutia v manželských veciach, vo veciach určenia (zistenia alebo zapretia) rodičovstva a osvojenia dieťaťa rozhoduje súd rozsudkom, inak rozhoduje uznesením.
+(1) O uznaní cudzieho rozhodnutia vo veciach uvedených v § 67 ods.1, rozhoduje súd rozsudkom, inak rozhoduje uznesením.
 
 (2) Ak nie je splnená niektorá z podmienok uznania cudzieho rozhodnutia, súd vysloví, že sa cudzie rozhodnutie neuznáva. Inak cudzie rozhodnutia uzná.
 
