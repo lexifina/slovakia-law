@@ -4,7 +4,7 @@
 
 (1) Oprávnená osoba môže požiadať o prijatie opatrenia na domácom trhu.
 
-(2) Žiadosť o prijatie opatrenia na domácom trhu sa podáva colnému riaditeľstvu písomne v dvoch vyhotoveniach alebo prostredníctvom zariadenia na spracovanie a prenos údajov. Ak sa táto žiadosť podáva prostredníctvom zariadenia na spracovanie a prenos údajov, treba ju doplniť písomne najneskôr do troch dní. Na žiadosti, ktoré neboli doplnené v tejto lehote, sa neprihliada. Vzor žiadosti o prijatie opatrenia na domácom trhu je uvedený v prílohe č. 1.
+(2) Žiadosť o prijatie opatrenia na domácom trhu sa podáva finančnému riaditeľstvu písomne v dvoch vyhotoveniach alebo prostredníctvom zariadenia na spracovanie a prenos údajov. Ak sa táto žiadosť podáva prostredníctvom zariadenia na spracovanie a prenos údajov, treba ju doplniť písomne najneskôr do troch dní. Na žiadosti, ktoré neboli doplnené v tejto lehote, sa neprihliada. Vzor žiadosti o prijatie opatrenia na domácom trhu je uvedený v prílohe č. 1.
 
 (3) Prílohou k žiadosti o prijatie opatrenia na domácom trhu je
 
@@ -36,6 +36,6 @@
 
 (6) Žiadosť o prijatie opatrenia na domácom trhu sa podáva v štátnom jazyku.<sup>15</sup>) To platí aj pre prílohy uvedené v odsekoch 3 a 4.
 
-(7) Colné riaditeľstvo po prijatí žiadosti o prijatie opatrenia na domácom trhu oznámi túto skutočnosť bezodkladne colným úradom.
+(7) Finančné riaditeľstvo po prijatí žiadosti o prijatie opatrenia na domácom trhu oznámi túto skutočnosť bezodkladne colným úradom.
 
-(8) Oprávnená osoba je povinná na účely prijatia opatrenia na domácom trhu poskytnúť súčinnosť a bezodkladne informovať colné riaditeľstvo o zmene alebo zániku práva duševného vlastníctva, o ktorého ochranu požiadala. Ak oprávnená osoba zistí, že v žiadosti o prijatie opatrenia na domácom trhu alebo v jej prílohách poskytla colnému riaditeľstvu nesprávne alebo neúplné údaje, je povinná bezodkladne poskytnúť colnému riaditeľstvu správne a úplné údaje.
+(8) Oprávnená osoba je povinná na účely prijatia opatrenia na domácom trhu poskytnúť súčinnosť a bezodkladne informovať finančné riaditeľstvo o zmene alebo zániku práva duševného vlastníctva, o ktorého ochranu požiadala. Ak oprávnená osoba zistí, že v žiadosti o prijatie opatrenia na domácom trhu alebo v jej prílohách poskytla finančnému riaditeľstvu nesprávne alebo neúplné údaje, je povinná bezodkladne poskytnúť finančnému riaditeľstvu správne a úplné údaje.
