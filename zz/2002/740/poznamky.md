@@ -94,6 +94,8 @@
 
 - 30aa) Napríklad zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
+- 30ab) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
+
 - 30b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 30c) § 69 ods. 2 až 4, 6, 7 a 9 zákona č. 222/2004 Z. z. v znení zákona č. 651/2004 Z. z.
@@ -111,6 +113,12 @@
 - 30i) § 54 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
 
 - 30j) § 81 zákona č. 222/2004 Z. z. v znení neskorších predpisov.
+
+- 30k) § 55 ods. 3 zákona č. 222/2004 Z. z. v znení zákona č. 83/2009 Z. z.
+
+- 30l) § 78 ods. 9 zákona č. 222/2004 Z. z. v znení zákona č. 83/2009 Z. z.
+
+- 30m) § 53 ods. 5 zákona č. 222/2004 Z. z. v znení zákona č. 523/2005 Z. z.
 
 - 31) Napríklad zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
 
