@@ -2,4 +2,4 @@ Príloha č. 6 k nariadeniu vlády č. 630/2008 Z. z.
 
 - Vzdelávací poukaz VZOR
 
-- [Vzor](../assets/526f7ac14cf78c1b67b7159f93720af04a515ad5d1bb512a23338498891053a1.pdf)
+- [Vzor](../assets/2de5810e0e8afa4484bf69683ab1b04a6d29be598244045264c3ee3d84f4a695.pdf)
