@@ -88,8 +88,6 @@
 
 - 42) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 43) § 2 písm. a) zákona č. 601/2003 Z. z. v znení neskorších predpisov.
-
 - 44) § 5 ods. 4 písm. k) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 45) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
@@ -165,6 +163,8 @@
 - 78) § 67 až 69 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 79) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. v znení neskorších predpisov.
+
+- 79a) § 4 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky.
 
 - 80) Čl. 42 Ústavy Slovenskej republiky.
 
