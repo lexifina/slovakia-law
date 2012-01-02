@@ -43,3 +43,17 @@ Príloha č. 2 k zákonu č. 200/1998 Z. z.
 - Funkcia | Percentuálny podiel príplatku za riadenie mesačne
 
 - 3.01 Riaditeľ kriminálneho úradu finančnej správy 3.02 Námestník riaditeľa kriminálneho úradu finančnej správy 3.03 Vedúci pobočky kriminálneho úradu finančnej správy 3.04 Zástupca vedúceho pobočky kriminálneho úradu finančnej správy 3.05 Vedúci oddelenia 3.06 Zástupca vedúceho oddelenia Vedúci zmeny | 20 % až 35% 15 % až 32% 9 % až 23% 7 % až 21 % 5 % až 17 % 5 % až 12 %
+
+- 4. | Kompetenčné centrum finančných operácií | |
+
+- | Funkcia | | Percentuálny podiel príplatku za riadenie mesačne
+
+- | 4.01 | Riaditeľ Kompetenčného centra finančných operácií | 20 % až 35 %
+
+- | 4.02 | Riaditeľ odboru | 15 % až 32 %
+
+- | 4.03 | Zástupca riaditeľa odboru | 7 % až 21 %
+
+- | 4.04 | Vedúci oddelenia | 5 % až 17 %
+
+- | 4.05 | Zástupca vedúceho oddelenia | 5 % až 12 %“.
