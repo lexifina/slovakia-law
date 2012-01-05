@@ -6,8 +6,6 @@
 
 (3) Člen správnej rady neziskovej organizácie založenej štátom môže byť odvolaný zakladateľom, ktorý člena správnej rady vymenoval.
 
-(4) Nezisková organizácia, ktorá vznikla zlúčením alebo splynutím viacerých neziskových organizácií, z ktorých aspoň jedna bola neziskovou organizáciou založenou štátom a vklad štátu do tejto neziskovej organizácie založenej štátom presahuje polovicu všetkých vkladov zakladateľov a spoluzakladateľov do neziskových organizácií, ktoré boli zlúčené alebo splynuli, sa na účely tohto zákona považuje za neziskovú organizáciu založenú štátom.
-
 (5) Nezisková organizácia založená štátom sa zrušuje rozhodnutím správnej rady o zrušení, zlúčení, splynutí alebo rozdelení neziskovej organizácie. Správna rada môže rozhodnúť o zrušení, zlúčení, splynutí alebo rozdelení neziskovej organizácie založenej štátom len po predchádzajúcom súhlase ministerstva zdravotníctva.
 
 (6) Pri zrušení a zániku neziskovej organizácie založenej štátom je likvidátor povinný vrátiť prioritný majetok<sup>75b</sup>) do vlastníctva štátu do správy ministerstva zdravotníctva za hodnotu tohto majetku zistenú v účtovníctve ku dňu zrušenia neziskovej organizácie založenej štátom.
