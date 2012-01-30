@@ -1132,6 +1132,10 @@ K oznámeniu č. 129/2006 Z. z.
 
     - „the New Zealand Department of Internal Affairs"
 
+    - Ománsky sultanát
+
+    - Ministerstvo zahraničných vecí – konzulárne oddelenie
+
     - Panama
 
   - 1. pre listiny vydané súdmi a súdnymi úradníkmi „el Secretario de la Corte Suprema de justicia" alebo jeho zástupcovia
