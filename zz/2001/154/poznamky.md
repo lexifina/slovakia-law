@@ -18,6 +18,8 @@
 
 - 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11c) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 13) § 244 až 250k Občianskeho súdneho poriadku.
 
 - 14) § 80 písm. c) Občianskeho súdneho poriadku.
@@ -66,13 +68,15 @@
 
 - 36a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách.
 
+- 36b) § 33b až 33k zákona č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 503/2011 Z. z.
+
 - 37) § 66 ods. 1 a § 85 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 38) § 67 ods. 1 a § 85 zákona č. 385/2000 Z. z.
 
 - 40) § 22c a 22d zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 57/1999 Z. z.
 
-- 40a) Napríklad opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 120.100/2003 z 30. mája 2003, ktorým sa ustanovujú platové relácie (oznámenie č. 191/2003 Z. z.).
+- 40a) Opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 502/2010 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
 
 - 41) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
