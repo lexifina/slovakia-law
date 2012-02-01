@@ -40,9 +40,65 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 6. V § 9 ods. 4 sa na konci pripája táto veta: „Spotrebiteľské balenie cigariet môže obsahovať aj alfanumerický znak aplikovaný podnikom, ktorý vyrába cigarety.“.
 
+- 7. V § 9 odseky 5 až 7 znejú:
+
+- „(5)
+
+- Ak odsek 30 neustanovuje inak, za neoznačené spotrebiteľské balenie cigariet sa na účely tohto zákona považuje spotrebiteľské balenie cigariet, na ktorom nie je nalepená kontrolná známka alebo spotrebiteľské balenie cigariet označené poškodenou kontrolnou známkou, falzifikátom kontrolnej známky, kontrolnou známkou, ktorá nie je v súlade s týmto zákonom a všeobecne záväzným právnym predpisom vydaným podľa odseku 32 a spotrebiteľské balenie cigariet, ktorého označenie nie je v súlade s týmto zákonom a všeobecne záväzným právnym predpisom vydaným podľa odseku 32.
+
+- (6)
+
+- Kontrolné známky je oprávnená vyhotoviť osoba, ktorá má povolenie na ich tlač vydané finančným riaditeľstvom (ďalej len „tlačiareň“). Povolenie na tlač kontrolných známok možno vydať osobe, ktorá spĺňa tieto podmienky:
+
+- a)
+
+- má na daňovom území technické vybavenie na tlač dokumentov zabezpečených pred falšovaním, pozmeňovaním a iným zneužitím,
+
+- b)
+
+- má zavedený režimový systém výroby, skladovania, manipulácie a evidencie materiálu a výrobkov,
+
+- c)
+
+- má zabezpečenú ochranu svojich výrobných priestorov a skladov inštalovanými mechanickými a elektronickými systémami ochrany,
+
+- d)
+
+- špeciálnymi technikami, technológiami a bezpečnostnými materiálmi zabezpečuje vyhotovenie a aplikáciu ochranných prvkov dokumentov proti falšovaniu, pozmeňovaniu a inému zneužitiu,
+
+- e)
+
+- vedie evidenciu zásob ceninového papiera na vyhotovenie kontrolných známok a evidenciu vyhotovených kontrolných známok,
+
+- f)
+
+- nemá nedoplatky voči colnému úradu ani daňovému úradu,
+
+- g)
+
+- nie je personálne prepojená alebo majetkovo prepojená s odberateľom kontrolných známok,
+
+- h)
+
+- nemá nedoplatky na povinných odvodoch poistného podľa osobitných predpisov,<sup>7</sup>)
+
+- i)
+
+- nie je v likvidácii, ani na ňu nie je právoplatne vyhlásený konkurz alebo povolené vyrovnanie, alebo potvrdené nútené vyrovnanie, alebo povolená reštrukturalizácia,
+
+- j)
+
+- vedie účtovníctvo podľa osobitného predpisu.<sup>8</sup>)
+
+- (7)
+
+- Osoba, ktorá chce získať povolenie na tlač kontrolných známok, musí požiadať finančné riaditeľstvo o vydanie povolenia na tlač kontrolných známok. Žiadosť musí obsahovať identifikačné údaje žiadateľa. Žiadateľ je povinný preukázať colnému úradu splnenie podmienok podľa odseku 6.“.
+
 - 8. V § 9 ods. 10 sa vypúšťa písmeno b).
 
 - Doterajšie písmeno c) sa označuje ako písmeno b).
+
+- 9. V § 9 ods. 16 druhej vete a ods. 18 prvej vete sa vypúšťa bodkočiarka a vypúšťajú sa slová „ak sa tlačiareň nachádza na území iného členského štátu, tlačiareň odovzdá reklamované kontrolné známky Colnému úradu Bratislava“.
 
 - 10. V § 9 odsek 28 znie:
 
@@ -244,6 +300,128 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 36. V § 19 ods. 10 písm. d) a § 23 ods. 17 písm. d) sa vypúšťajú slová „odníme osvedčenie o registrácii a“.
 
+- 37. Za § 19 sa vkladajú § 19a a 19b, ktoré vrátane nadpisov znejú:
+
+- „19a
+
+- Osobitná úprava príjmu, skladovania a výdaja tabakovej suroviny na výrobu tabakových výrobkov
+
+- (1)
+
+- Osoba, ktorá chce prijímať, skladovať alebo vydávať tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov, vrátane tabakovej suroviny<sup>10</sup>) čiastočne spracovanej, musí požiadať colný úrad o zaradenie do evidencie obchodníkov, ktorí prijímajú, skladujú alebo vydávajú tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov (ďalej len „evidencia obchodníkov s tabakovou surovinou“). Žiadosť musí obsahovať
+
+- a)
+
+- identifikačné údaje žiadateľa a adresy umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+
+- b)
+
+- príslušný kód kombinovanej nomenklatúry tabakovej suroviny<sup>10</sup>) na výrobu tabakových výrobkov,
+
+- c)
+
+- predpokladaný ročný objem príjmu, skladovania alebo vydávania tabakovej suroviny,<sup>10</sup>)
+
+- d)
+
+- identifikačné údaje dodávateľa tabakovej suroviny.<sup>10</sup>)
+
+- (2)
+
+- Colný úrad pred zaradením do evidencie obchodníkov s tabakovou surovinou preverí u žiadateľa skutočnosti a údaje podľa odseku 1. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad zaradí žiadateľa do evidencie obchodníkov s tabakovou surovinou do 30 dní odo dňa podania žiadosti. Žiadateľ je povinný na požiadanie colného úradu spresniť údaje uvedené v žiadosti.
+
+- (3)
+
+- Obchodník s tabakovou surovinou je povinný viesť evidenciu, v ktorej uvedie množstvo prijatej, skladovanej alebo vydanej tabakovej suroviny.<sup>10</sup>) Na vedenie evidencie sa vzťahuje § 39 ods. 4 rovnako a § 34 ods. 4 primerane.
+
+- (4)
+
+- Colný úrad vyradí obchodníka s tabakovou surovinou z evidencie obchodníkov s tabakovou surovinou, ak
+
+- a)
+
+- nedodržiava povinnosti podľa odseku 3 a výzvy colného úradu a ani uloženie pokuty neviedli k náprave,
+
+- b)
+
+- mu zaniklo živnostenské oprávnenie,
+
+- c)
+
+- požiada o vyradenie z evidencie obchodníkov s tabakovou surovinou.
+
+- (5)
+
+- Osoba, ktorá je len pestovateľom tabaku na daňovom území, nie je povinná požiadať colný úrad o zaradenie do evidencie obchodníkov s tabakovou surovinou.
+
+- § 19b
+
+- Evidencia technologického zariadenia na výrobu tabakových výrobkov
+
+- (1)
+
+- Osoba, ktorej nebolo vydané povolenie na prevádzkovanie daňového skladu podľa § 19, alebo osoba, ktorej vydané povolenie na prevádzkovanie daňového skladu podľa § 19 zaniklo alebo bolo odňaté a má v držbe technologické zariadenie na výrobu tabakových výrobkov alebo jeho časť, okrem osoby, ktorá je výrobcom technologického zariadenia na výrobu tabakových výrobkov a osoby, ktorá vykonáva opravy technologického zariadenia na výrobu tabakových výrobkov, je povinná do 15 dní odo dňa vzniku tejto skutočnosti oznámiť colnému úradu
+
+- a)
+
+- svoje identifikačné údaje,
+
+- b)
+
+- adresu umiestnenia technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti,
+
+- c)
+
+- technické údaje a priložiť nákres a fotodokumentáciu technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti.
+
+- (2)
+
+- Colný úrad preverí skutočnosti a údaje uvedené v oznámení podľa odseku 1 a porovná skutočný stav technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti s údajmi podľa odseku 1 písm. c). Ak sú skutočnosti a údaje uvedené v oznámení pravdivé, colný úrad vydá osobe uvedenej v odseku 1 potvrdenie o zaevidovaní držby technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti (ďalej len „potvrdenie o zaevidovaní“). Držba technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti osobou, ktorej bolo vydané potvrdenie o zaevidovaní, sa nepovažuje za neoprávnenú, ak sú zachované všetky skutočnosti, na základe ktorých colný úrad potvrdenie o zaevidovaní vydal. Technologické zariadenie na výrobu tabakových výrobkov alebo jeho časť môže colný úrad zabezpečiť uzáverou colného úradu.
+
+- (3)
+
+- Ak osoba, ktorej colný úrad vydal potvrdenie o zaevidovaní, poskytne technologické zariadenie na výrobu tabakových výrobkov alebo jeho časť inej osobe, je povinná do 15 dní odo dňa jeho poskytnutia oznámiť colnému úradu
+
+- a)
+
+- svoje identifikačné údaje,
+
+- b)
+
+- identifikačné údaje osoby, ktorej technologické zariadenie určené na výrobu tabakových výrobkov alebo jeho časť poskytla,
+
+- c)
+
+- technické údaje, nákres a fotodokumentáciu poskytnutého technologického zariadenia určeného na výrobu tabakových výrobkov alebo jeho časti.
+
+- (4)
+
+- Ak osoba, ktorej colný úrad vydal potvrdenie o zaevidovaní, už nemá v držbe technologické zariadenie na výrobu tabakových výrobkov alebo jeho časť, pričom toto zariadenie neposkytla inej osobe podľa odseku 3, je povinná do 15 dní odo dňa vzniku tejto skutočnosti oznámiť colnému úradu dôvody tejto zmeny.
+
+- (5)
+
+- Colný úrad preverí skutočnosti a údaje uvedené v oznámení podľa odseku 3 alebo odseku 4. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad vydá osobe uvedenej v odseku 3 alebo v odseku 4 potvrdenie o vyradení z evidencie technologických zariadení na výrobu tabakových výrobkov.
+
+- (6)
+
+- Akúkoľvek inú zmenu skutočností a údajov, na základe ktorých colný úrad vydal potvrdenie o zaevidovaní, je osoba povinná oznámiť colnému úradu do 15 dní odo dňa ich vzniku. Colný úrad preverí skutočnosti a údaje uvedené v oznámení a s prihliadnutím na rozsah a závažnosť zmien doplní pôvodné potvrdenie o zaevidovaní alebo vydá nové potvrdenie o zaevidovaní.
+
+- (7)
+
+- Finančné riaditeľstvo vedie evidenciu držby technologického zariadenia na výrobu tabakových výrobkov v členení podľa
+
+- a)
+
+- identifikačných údajov osoby, ktorej colný úrad vydal potvrdenie o zaevidovaní,
+
+- b)
+
+- adresy umiestnenia technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti,
+
+- c)
+
+- technických údajov, fotodokumentácie a nákresu technologického zariadenia na výrobu tabakových výrobkov alebo jeho časti.“.
+
 - 39. V § 21 ods. 7 a § 22 ods. 7 sa za prvú vetu vkladá nová druhá veta, ktorá znie:
 
 - „Správa o prijatí musí byť podpísaná zaručeným elektronickým podpisom,<sup>14c</sup>) ak sa odosielateľ (dodávateľ) alebo príjemca (odberateľ) s colným úradom nedohodnú inak.“.
@@ -343,6 +521,18 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - „23)
 
 - § 69 zákona č. 563/2009 Z. z.“.
+
+- 60. V § 40 ods. 1 sa slová „zástupcov a dovozcov cigariet“ nahrádzajú slovami „zástupcov, dovozcov cigariet, obchodníkov s tabakovou surovinou a zoznam technologických zariadení na výrobu tabakových výrobkov“.
+
+- 61. V § 40 sa odsek 2 dopĺňa písmenami i) a j), ktoré znejú:
+
+- „i)
+
+- identifikačné údaje obchodníka s tabakovou surovinou,
+
+- j)
+
+- identifikačné údaje osoby, ktorej bolo vydané potvrdenie o zaevidovaní.“.
 
 - 62. V § 40 ods. 4 druhej vete sa na konci bodka nahrádza bodkočiarkou a dopĺňajú sa tieto slová: „finančné riaditeľstvo oznamuje ministerstvu váženú priemernú cenu cigariet prepočítanú na 1 000 kusov cigariet.“.
 
