@@ -1,3 +1,3 @@
 Príloha č. 12a k vyhláške č. 29/2006 Z. z.
 
-- VZOR TLAČIVA Protokol o umiestnení a upevnení náhradného identifikačného čísla vozidla VIN [Príloha 12a](../assets/624a0f0929d93cb283f1b0d38932be067ff06cb1aaaa73041e5a5c68304301f5.pdf)
+- VZOR TLAČIVA Protokol o umiestnení a upevnení náhradného identifikačného čísla vozidla VIN [Príloha 12a](../assets/627199383fffbb5d9b7edc9ad5d1e5740e3fa95d32504a63ca1ca7ce76be5ab6.pdf)

@@ -1,3 +1,3 @@
 Príloha č. 15 k vyhláške č. 29/2006 Z. z.
 
-- VZOR TLAČIVA Protokol o montáži plynového zariadenia LPG [Vzor 15](../assets/222a96287d3963efc93e91c571ccc57f8a2044953da0e193bc48aa2e2ae92259.pdf)
+- VZOR TLAČIVA Protokol o montáži plynového zariadenia LPG [Vzor 15](../assets/a8e246f8ba821c08cc434e1adc5682142c1b65e8839d6d84649bfc8d9c87df8a.pdf)
