@@ -32,6 +32,8 @@
 
 - § 34 ods. 2, § 76 a 78 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 12a) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 13) Napríklad zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov, zákon č. 575/2001 Z. z. v znení neskorších predpisov.
