@@ -1,4 +1,4 @@
-- 1) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1a) Napríklad § 536 až 576, § 642 až 651 Obchodného zákonníka, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 631 až 656 Občianskeho zákonníka, § 39 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
@@ -14,7 +14,7 @@
 
 - 5) Zákonník práce.
 
-- Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Zákon č. 400/2009 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
@@ -26,7 +26,7 @@
 
 - 8) § 46 Zákonníka práce.
 
-- § 5 a 16 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+- § 25 a 26 zákona č. 400/2009 Z. z.
 
 - 8a) Nariadenie vlády Slovenskej republiky č. 374/2006 Z. z. o technických požiadavkách na meranie emisií oxidu uhličitého a spotreby paliva motorových vozidiel.
 
@@ -40,7 +40,7 @@
 
 - 12) Napríklad čl. 111 ods. 3 Zmluvy o založení Európskeho spoločenstva v platnom znení, Menová dohoda uzavretá 29. 11. 2000 vládou Talianskej republiky za Európske spoločenstvo a Republikou San Marino (Ú. v. ES C 209, 27. 7. 2001), Menová dohoda uzavretá 29. 12. 2000 vládou Talianskej republiky za Európske spoločenstvo a Mestským štátom Vatikánom reprezentovaným Svätou Stolicou (Ú. v. ES C 299, 25. 10. 2001) v platnom znení, Menová dohoda uzavretá 26. 12. 2001 vládou Francúzskej republiky za Európske spoločenstvo a vládou Monackého kniežatstva (Ú. v. ES L 142, 31. 5. 2002) v platnom znení.
 
-- 13) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
+- 13) Zákon č. 400/2009 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 369/2004 Z. z.
 
@@ -54,7 +54,7 @@
 
 - 14c) § 6 zákona č. 595/2003 Z. z.
 
-- 14d) § 99 zákona č. 312/2001 Z. z. v znení zákona č. 460/2008 Z. z.
+- 14d) § 103 zákona č. 400/2009 Z. z.
 
 - 14e) § 23 zákona č. 553/2003 Z. z. v znení zákona č. 474/2008 Z. z.
 
@@ -63,12 +63,6 @@
 - 16) Príloha č. 2 k zákonu č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 17) § 62 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
-
-- 18) § 11 ods. 10 zákona č. 580/2004 Z. z.o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 19) § 11 ods. 3 písm. a) až c) zákona č. 580/2004 Z. z.
-
-- 19a) § 13 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 19b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -79,6 +73,10 @@
 - 19ca) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
 - 19d) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z. o uzavretí Dohovoru, ktorým sa definuje štatút Európskych škôl.
+
+- 19da) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 19db) § 2 písm. b) zákona č. 503/2011 Z. z.
 
 - 19e) § 2 ods. 1 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 659/2007 Z. z.
 
