@@ -1,0 +1,1 @@
+Daniel Lipšic v. r.
