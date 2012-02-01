@@ -1188,29 +1188,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 200 eur,
 
-  - d) uznanie typového schválenia ES jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+  - d) schválenie jednotlivo dokončovaného vozidla |
 
-  - e) uznanie schválenia jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub> a R<sub>a</sub><sub>.....</sub> | 20 eur,
 
-  - f) schválenie jednotlivo dovezeného vozidla |
+  - 2. pre kategórie vozidiel M<sub>2</sub>a M<sub>3</sub><sub>.....</sub> | 100 eur,
+
+  - 3. pre kategórie vozidiel iné ako v prvom a druhom bode <sub>.....</sub> | 50 eur,
+
+  - e) uznanie typového schválenia ES jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+
+  - f) uznanie schválenia jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+
+  - g) schválenie jednotlivo dovezeného vozidla |
 
   - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub>, Ra, Sa a P<sub>N .....</sub> | 150 eur,
 
   - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 300 eur,
 
-  - g) opätovné schválenie jednotlivého vozidla <sub>.....</sub> | 100 eur,
+  - h) opätovné schválenie jednotlivého vozidla <sub>.....</sub> | 100 eur,
 
-  - h) schválenie jednotlivo vyrobeného alebo jednotlivo dovezeného systému, komponentu alebo samostatnej technickej jednotky <sub>.....</sub> | 50 eur,
+  - i) schválenie jednotlivo vyrobeného alebo jednotlivo dovezeného systému, komponentu alebo samostatnej technickej jednotky <sub>.....</sub> | 50 eur,
 
-  - i) schválenie prestavby jednotlivého vozidla |
+  - j) schválenie prestavby jednotlivého vozidla |
 
   - 1. montážou plynového zariadenia <sub>.....</sub> | 50 eur,
 
   - 2. inou prestavbou ako v prvom bode <sub>.....</sub> | 300 eur,
 
-  - j) výmenu karosérie vozidla rovnakého typu v rámci jedného typového radu vozidla, výmenu rámu vozidla rovnakého typu v rámci jedného typového radu vozidla alebo zmenu obsaditeľnosti vozidla zväčšením počtu miest na sedenie, ak je vozidlo výrobcom vybavené úchytnými miestami sedadiel a kotevnými miestami bezpečnostných pásov <sub>.....</sub> | 20 eur,
+  - k) výmenu karosérie vozidla rovnakého typu v rámci jedného typového radu vozidla, výmenu rámu vozidla rovnakého typu v rámci jedného typového radu vozidla alebo zmenu obsaditeľnosti vozidla zväčšením počtu miest na sedenie, ak je vozidlo výrobcom vybavené úchytnými miestami sedadiel a kotevnými miestami bezpečnostných pásov <sub>.....</sub> | 20 eur,
 
-  - k) povolenie, schválenie alebo uznanie podľa písmen a) až j) pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla alebo peňažný príspevok na úpravu osobného motorového vozidla podľa osobitného zákona<sup>20a).....</sup> | 2 eurá.
+  - l) povolenie, schválenie alebo uznanie podľa písmen a) až k) pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla alebo peňažný príspevok na úpravu osobného motorového vozidla podľa osobitného zákona<sup>20a).....</sup> | 2 eurá.
 
   - Splnomocnenie |
 
@@ -1218,7 +1226,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka |
 
-  - Ak žiadateľ jednou žiadosťou podľa písmen c) a h) tejto položky požaduje viac schválení, poplatky sa sčítavajú. |
+  - Ak žiadateľ jednou žiadosťou podľa písmen c), d) a i) tejto položky požaduje viac schválení, poplatky sa sčítavajú. |
 
     - Položka 68a
 
@@ -1528,11 +1536,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Podanie žiadosti o |
 
-  - a) schválenie vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality....................................................................... | 100 eur,
+  - a) schválenie vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 100 eur,
 
-  - b) predĺženie platnosti v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality........... | 100 eur,
+  - b) predĺženie platnosti v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 100 eur,
 
-  - c) zmenu v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality.................................. | 50 eur.
+  - c) zmenu v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 50 eur.
+
+  - d) schválenie vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 100 eur,
+
+  - e) predĺženie platnosti v osvedčení o schválení vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 100 eur,
+
+  - f) zmenu v osvedčení o schválení vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 50 eur.
 
   - Poznámka |
 
