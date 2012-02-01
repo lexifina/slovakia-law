@@ -50,9 +50,7 @@
 
 - Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 208/1991 Zb.
 
-- 15) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
+- 15) Napríklad zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách v znení nariadenia vlády Slovenskej republiky č. 445/2010 Z. z.
 
 - 16) § 9 ods. 7 a 8 zákona č. 142/2000 Z. z. v znení neskorších predpisov.
 

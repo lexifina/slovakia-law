@@ -8,13 +8,13 @@ Príloha č. 3 k vyhláške č. 578/2006 Z. z.
 
 - | | | f) | | (0 až 1) MPa | | |
 
-- 2 | meračské oceľové pásmo | g) | | | (0 až 10) m | podľa osobitného predpisu<sup>2</sup>) | overenie | 5 rokov
+- 2 | meračské oceľové pásmo | g) | | | (0 až 10) m | podľa osobitného predpisu<sup>2</sup>) | podľa osobitného predpisu<sup>2</sup>) | 5 rokov
 
 - | | | g) | | (0 až 30) m | | |
 
-- 3 | zvukomer triedy presnosti 1 alebo 2 | h) | | | podľa príloh č. 42 a 49<sup>1</sup>) | | overenie | 2 roky; mikrofón 1 rok
+- 3 | zvukomer triedy presnosti 1 alebo 2 | h) | | | podľa osobitného predpisu<sup>2a</sup>) | | overenie | 2 roky; mikrofón 1 rok
 
-- 4 | akustický kalibrátor presnosti 1 alebo 2 | i) | | | podľa prílohy č. 45<sup>1</sup>) | | overenie | 1 rok
+- 4 | akustický kalibrátor presnosti 1 alebo 2 | i) | | | podľa osobitného predpisu<sup>2b</sup>) | | overenie | 1 rok
 
 - 5 | meradlo otáčok vznetových a zážiho- vých motorov | j) | | | (1 200 až 6 000) min<sup>-1</sup> | ±50 min<sup>-1</sup> | kalibrácia | 1 rok
 
@@ -56,10 +56,16 @@ Príloha č. 3 k vyhláške č. 578/2006 Z. z.
 
 - 18 | detoktor úniku plynu pre LPG | q) | t) | | - | -20 % +10 % prenosný DUP max. 30 % pri teplote < 0 °C | kontrola | rok
 
-- 1) Príloha č. 19 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
+  - 1) Príloha č. 19 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
 
-- 2) Príloha č. 15 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+  - 2) Príloha č. 15 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
-- 3) Najväčšou dovolenou chybou je väčšia z uvedených hodnôt v meracom rozsahu.
+  - Príloha MI-008 kapitola I k nariadeniu vlády Slovenskej republiky č. 294/2005 Z. z.
 
-- 4) Valcová skúšobňa bŕzd (VSB) na linke typu C má v meracom rozsahu (0 až 5) kN plniť požiadavku na najväčšiu dovolenú chybu stanovenú VSB na linke typu A.
+  - 2a) Prílohy č. 42 a 49 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+
+  - 2b) Príloha č. 45 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
+
+  - 3) Najväčšou dovolenou chybou je väčšia z uvedených hodnôt v meracom rozsahu.
+
+  - 4) Valcová skúšobňa bŕzd (VSB) na linke typu C má v meracom rozsahu (0 až 5) kN plniť požiadavku na najväčšiu dovolenú chybu stanovenú VSB na linke typu A.

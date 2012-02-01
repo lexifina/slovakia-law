@@ -1,3 +1,3 @@
 Príloha č. 5 k vyhláške č. 578/2006 Z. z.
 
-- SPRÁVA O CESTNEJ TECHNICKEJ KONTROLE [Vzor 01](../assets/e344936fdce1946885924e76cefbe34e564b5cea2fe1dda5776b10e9cbbc3454.pdf)
+- SPRÁVA O CESTNEJ TECHNICKEJ KONTROLE [Vzor 01](../assets/2cf6e5dccea78453f4d37d9ebca0fa7ff6f68f65c5ab6745e3ac4c76d14e6b5d.pdf)
