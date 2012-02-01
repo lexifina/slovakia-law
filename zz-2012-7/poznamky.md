@@ -1,0 +1,1 @@
+- 1) Rozhodnutie Rady 2007/779/ES, Euratom z 8. novembra 2007 o ustanovení mechanizmu Spoločenstva v oblasti civilnej ochrany (Ú. v. EÚ L 314, 1. 12. 2007).
