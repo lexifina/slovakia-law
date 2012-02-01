@@ -54,6 +54,10 @@
 
 - 20) § 2 písm. p) zákona č. 541/2004 Z. z.
 
+- 20a) § 2 písm. f) bod 2. zákona č. 541/2004 Z. z.
+
+- 20b) § 2 písm. f) bod 4. zákona č. 541/2004 Z. z.
+
 - 21) § 5 ods. 3 písm. c) až h) a písm. j) a n) a § 9 zákona č. 541/2004 Z. z.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
