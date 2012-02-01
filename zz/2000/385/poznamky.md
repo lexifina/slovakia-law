@@ -26,6 +26,8 @@
 
 - 6) Zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
 
+- 6a) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 7a) § 116 Občianskeho zákonníka.
@@ -64,6 +66,8 @@
 
 - 18a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách.
 
+- 18b) § 33b až 33k zákona č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 503/2011 Z. z.
+
 - 19) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
 - 20) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
@@ -72,7 +76,7 @@
 
 - 21) § 21 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
-- 21a) Opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 110.312/2007 z 22. júna 2007, ktorým sa ustanovujú platové relácie (oznámenie č. 294/2007 Z. z.).
+- 21a) Opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 502/2010 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
 
 - 22) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
