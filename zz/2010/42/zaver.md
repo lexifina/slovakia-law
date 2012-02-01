@@ -1,1 +1,0 @@
-Vladimír Chovan v. r.
