@@ -1,0 +1,15 @@
+# § 28a Vrátenie príspevkov a penále
+
+(1) Ak Sociálna poisťovňa postúpila dôchodkovej správcovskej spoločnosti príspevky vo vyššej sume, ako mala postúpiť, zúčtuje sumu zodpovedajúcu rozdielu medzi postúpenou sumou príspevkov a správnou sumou príspevkov so sumou príspevkov, ktoré postúpi po zistení tejto skutočnosti.
+
+(2) Ak sporiteľovi do jedného roka od zániku jeho účasti na starobnom dôchodkovom sporení nevznikne nová účasť na starobnom dôchodkovom sporení a nemožno uplatniť postup podľa odseku 1, Sociálna poisťovňa je povinná vyžiadať elektronickými prostriedkami od dôchodkovej správcovskej spoločnosti vrátenie príspevkov, ktoré boli za sporiteľa postúpené bez právneho dôvodu.
+
+(3) Dôchodková správcovská spoločnosť je povinná do piatich pracovných dní odo dňa, v ktorom sa dozvedela o smrti sporiteľa, oznámiť elektronickými prostriedkami túto skutočnosť Sociálnej poisťovni. Sociálna poisťovňa je povinná do 90 dní odo dňa, v ktorom sa dozvedela o smrti sporiteľa, elektronickými prostriedkami vyžiadať od dôchodkovej správcovskej spoločnosti vrátenie príspevkov, ktoré boli za zomretého sporiteľa postúpené bez právneho dôvodu, oznámiť dôchodkovej správcovskej spoločnosti, že postúpi príspevky alebo že neeviduje príspevky postúpené bez právneho dôvodu.
+
+(4) Dôchodková správcovská spoločnosť je povinná bezodkladne od doručenia žiadosti Sociálnej poisťovne podľa odseku 2 alebo žiadosti o vrátenie príspevkov postúpených bez právneho dôvodu podľa odseku 3 druhej vety previesť z bežného účtu dôchodkového fondu alebo z bežných účtov dôchodkových fondov na účet Sociálnej poisťovne v Štátnej pokladnici sumu rovnajúcu sa súčinu počtu dôchodkových jednotiek pripísaných na osobný dôchodkový účet sporiteľa z príspevkov postúpených bez právneho dôvodu a aktuálnej hodnoty dôchodkovej jednotky zo dňa, ktorý predchádza dňu prevodu. Ak je na osobnom dôchodkovom účte sporiteľa počet dôchodkových jednotiek nižší ako počet dôchodkových jednotiek pripísaných z príspevkov postúpených bez právneho dôvodu, dôchodková správcovská spoločnosť je povinná bezodkladne od doručenia žiadosti Sociálnej poisťovne podľa odseku 2 alebo odseku 3 druhej vety previesť z bežného účtu dôchodkového fondu alebo z bežných účtov dôchodkových fondov na účet Sociálnej poisťovne v Štátnej pokladnici sumu zodpovedajúcu aktuálnej hodnote osobného dôchodkového účtu zo dňa, ktorý predchádza dňu prevodu.
+
+(5) Po uplynutí 90 dní odo dňa, v ktorom sa Sociálna poisťovňa dozvedela o smrti sporiteľa, nemôže žiadať od dôchodkovej správcovskej spoločnosti vrátenie príspevkov postúpených bez právneho dôvodu.
+
+(6) Ak Sociálna poisťovňa postúpi dôchodkovej správcovskej spoločnosti príspevky po zrušení osobného dôchodkového účtu z dôvodu smrti sporiteľa, dôchodková správcovská spoločnosť je povinná tieto príspevky bez zbytočného odkladu previesť z účtu nepriradených platieb na účet Sociálnej poisťovne v Štátnej pokladnici.
+
+(7) Na vrátenie penále podľa osobitného predpisu<sup>36a</sup>) odseky 1 až 6 platia rovnako.

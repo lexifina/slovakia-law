@@ -1,0 +1,5 @@
+# § 17a Zánik právneho postavenia sporiteľa
+
+(1) Sporiteľovi, ktorý požiada o prevod dôchodkových práv získaných v dôchodkovom systéme Slovenskej republiky do dôchodkového systému Európskej únie alebo jej inštitúcie a súhlasí s týmto prevodom, zaniká právne postavenie sporiteľa v deň, v ktorom bolo Sociálnej poisťovni doručené oznámenie Európskej únie alebo jej inštitúcie o tomto súhlase, a to spätne odo dňa vzniku jeho prvej účasti na starobnom dôchodkovom sporení.
+
+(2) Sporiteľovi uvedenému v § 14, ktorému vznikla prvá účasť na starobnom dôchodkovom sporení po 31. marci 2012 a ktorý pred uplynutím 730 dní odo dňa vzniku jeho prvej účasti na starobnom dôchodkovom sporení doručí Sociálnej poisťovni písomné oznámenie s úradne osvedčeným podpisom, alebo oznámenie podpísané pred zamestnancom Sociálnej poisťovne, ktoré obsahuje prejav vôle nebyť zúčastnený na starobnom dôchodkovom sporení, zaniká právne postavenie sporiteľa v deň, v ktorom bolo doručené Sociálnej poisťovni toto oznámenie, a to spätne odo dňa vzniku jeho prvej účasti na starobnom dôchodkovom sporení. Prejav vôle podľa prvej vety nemožno vziať späť.
