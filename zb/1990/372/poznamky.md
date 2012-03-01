@@ -1,5 +1,7 @@
 - 1) § 1 ods. 3 zákona SNR č. 46/1989 Zb. o ochrane pred alkoholizmom a inými toxikomániami.
 
+- 1a) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov, zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov, zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 1 ods. 3 zákona č. 68/1965 Zb. o pobyte cudzincov na území Československej socialistickej republiky.
 
 - 3) Zákon č. 76/1959 Zb. o niektorých služobných pomeroch vojakov v znení neskorších predpisov.
@@ -39,6 +41,10 @@
 - 8) § 7 ods. 1 správneho poriadku.
 
 - 8a) Zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 8b) Napríklad § 44 ods. 3 písm. a) a b) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 8c) Napríklad § 75a Občianskeho súdneho poriadku, § 44 ods. 3 písm. c) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 40/1974 Zb. o Zbore národnej bezpečnosti v znení neskorších predpisov.
 
