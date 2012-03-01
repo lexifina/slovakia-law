@@ -32,6 +32,8 @@
 
 - 11) Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11a) Nariadenie vlády Slovenskej republiky č. 140/2009 Z. z. v znení neskorších predpisov.
+
 - 12) § 37 a 38 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
 
 - 12a) Napríklad § 116 ods. 7 zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z., § 46 ods. 9 písm. a) prvý bod a § 66 ods. 5 písm. a) prvý bod vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 578/2006 Z. z., ktorou sa ustanovujú podrobnosti o niektorých ustanoveniach zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
