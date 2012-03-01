@@ -1,0 +1,1 @@
+- 1) Čl. 4 nariadenia Komisie (ES) č. 2316/1999 z 22. októbra 1999, ktoré ustanovuje podrobné pravidlá na uplatňovanie nariadenia Rady (ES) č. 1251/1999, ktorým sa zriaďuje systém podpory pre producentov určitých plodín pestovaných na ornej pôde (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 26) v platnom znení.
