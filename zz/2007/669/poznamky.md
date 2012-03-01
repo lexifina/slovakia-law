@@ -8,6 +8,8 @@
 
 - 4) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 4a) § 43a ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 5) § 79 zákona č. 50/1976 Zb.
 
 - § 17 a 18 vyhlášky č. 453/2000 Z. z.
@@ -30,6 +32,6 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
 
-- 14) § 9 až 11 zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
+- 14) § 112 ods. 4 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 15) § 14 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
