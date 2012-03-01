@@ -1,177 +1,179 @@
-Príloha č. 2 k vyhláške č. 131/2006 Z. z. Okres | Emisné kvóty v t/rok |
+Príloha č. 2 k vyhláške č. 131/2006 Z. z.
 
-| 2009 | 2010
+- Celkové množstvo kvót oxidov síry vyjadrených ako oxid siričitý v tonách na roky 2013 a 2014 Okres | Emisné kvóty v t/rok |
 
-Bratislavský kraj | |
+- | 2013 | 2014
 
-Bratislava I | 30 | 30
+- Bratislavský kraj | |
 
-Bratislava II | 11 800 | 11 300
+- Bratislava I | 25 | 25
 
-Bratislava III | 40 | 30
+- Bratislava II | 10 300 | 10 200
 
-Bratislava IV | 40 | 30
+- Bratislava III | 25 | 25
 
-Bratislava V | 30 | 30
+- Bratislava IV | 25 | 25
 
-Malacky | 300 | 280
+- Bratislava V | 25 | 25
 
-Pezinok | 30 | 30
+- Malacky | 200 | 180
 
-Senec | 30 | 30
+- Pezinok | 25 | 25
 
-Senica | 30 | 30
+- Senec | 25 | 25
 
-Skalica | 30 | 30
+- Trnavský kraj | |
 
-Trnavský kraj | |
+- Trnava | 250 | 200
 
-Trnava | 400 | 350
+- Dunajská Streda | 100 | 80
 
-Dunajská Streda | 400 | 350
+- Galanta | 230 | 220
 
-Galanta | 290 | 280
+- Hlohovec | 25 | 25
 
-Hlohovec | 30 | 30
+- Piešťany | 25 | 25
 
-Piešťany | 30 | 30
+- Senica | 25 | 25
 
-Trenčiansky kraj | |
+- Skalica | 25 | 25
 
-Trenčín | 400 | 350
+- Trenčiansky kraj | |
 
-Bánovce nad Bebravou | 30 | 30
+- Trenčín | 300 | 280
 
-Ilava | 90 | 80
+- Bánovce nad Bebravou | 25 | 25
 
-Myjava | 30 | 30
+- Ilava | 50 | 45
 
-Nové Mesto nad Váhom | 30 | 30
+- Myjava | 25 | 25
 
-Partizánske | 700 | 600
+- Nové Mesto nad Váhom | 25 | 25
 
-Považská Bystrica | 700 | 600
+- Partizánske | 450 | 400
 
-Prievidza | 38 000 | 37 500
+- Považská Bystrica | 400 | 380
 
-Púchov | 300 | 250
+- Prievidza | 34 900 | 34 900
 
-Nitriansky kraj | |
+- Púchov | 25 | 25
 
-Nitra | 30 | 30
+- Nitriansky kraj | |
 
-Komárno | 30 | 30
+- Nitra | 25 | 25
 
-Levice | 30 | 30
+- Komárno | 25 | 25
 
-Nové Zámky | 1 500 | 1 400
+- Levice | 25 | 25
 
-Šaľa | 800 | 600
+- Nové Zámky | 1 200 | 1 100
 
-Topoľčany | 30 | 30
+- Šaľa | 25 | 25
 
-Zlaté Moravce | 30 | 30
+- Topoľčany | 25 | 25
 
-Žilinský kraj | |
+- Zlaté Moravce | 25 | 25
 
-Žilina | 2 000 | 1 900
+- Žilinský kraj | |
 
-Bytča | 30 | 30
+- Žilina | 1 050 | 1 000
 
-Čadca | 30 | 30
+- Bytča | 25 | 25
 
-Dolný Kubín | 30 | 30
+- Čadca | 25 | 25
 
-Kysucké Nové Mesto | 30 | 30
+- Dolný Kubín | 25 | 25
 
-Liptovský Mikuláš | 30 | 30
+- Kysucké Nové Mesto | 25 | 25
 
-Martin | 2 000 | 1 800
+- Liptovský Mikuláš | 25 | 25
 
-Námestovo | 30 | 30
+- Martin | 1 200 | 1 100
 
-Ružomberok | 1 000 | 800
+- Námestovo | 25 | 25
 
-Turčianske Teplice | 30 | 30
+- Ružomberok | 300 | 290
 
-Tvrdošín | 30 | 30
+- Turčianske Teplice | 25 | 25
 
-Banskobystrický kraj | |
+- Tvrdošín | 25 | 25
 
-Banská Bystrica | 30 | 30
+- Banskobystrický kraj | |
 
-Banská Štiavnica | 30 | 30
+- Banská Bystrica | 25 | 25
 
-Brezno | 80 | 80
+- Banská Štiavnica | 25 | 25
 
-Detva | 30 | 30
+- Brezno | 50 | 45
 
-Krupina | 30 | 30
+- Detva | 25 | 25
 
-Lučenec | 120 | 100
+- Krupina | 25 | 25
 
-Poltár | 40 | 40
+- Lučenec | 50 | 40
 
-Revúca | 1400 | 1 400
+- Poltár | 25 | 25
 
-Rimavská Sobota | 30 | 30
+- Revúca | 1 000 | 950
 
-Veľký Krtíš | 30 | 30
+- Rimavská Sobota | 30 | 30
 
-Zvolen | 2 400 | 2 350
+- Veľký Krtíš | 25 | 25
 
-Žarnovica | 30 | 30
+- Zvolen | 1 800 | 1 700
 
-Žiar nad Hronom | 800 | 700
+- Žarnovica | 25 | 25
 
-Prešovský kraj | |
+- Žiar nad Hronom | 550 | 530
 
-Prešov | 30 | 30
+- Prešovský kraj | |
 
-Bardejov | 30 | 30
+- Prešov | 25 | 25
 
-Humenné | 1 300 | 1 250
+- Bardejov | 25 | 25
 
-Kežmarok | 30 | 30
+- Humenné | 500 | 450
 
-Levoča | 30 | 30
+- Kežmarok | 25 | 25
 
-Medzilaborce | 30 | 30
+- Levoča | 25 | 25
 
-Poprad | 30 | 30
+- Medzilaborce | 25 | 25
 
-Sabinov | 30 | 30
+- Poprad | 25 | 25
 
-Snina | 200 | 180
+- Sabinov | 25 | 25
 
-Stará Ľubovňa | 30 | 30
+- Snina | 150 | 140
 
-Stropkov | 30 | 30
+- Stará Ľubovňa | 25 | 25
 
-Svidník | 30 | 30
+- Stropkov | 25 | 25
 
-Vranov nad Topľou | 2 230 | 2 200
+- Svidník | 25 | 25
 
-Košický kraj | |
+- Vranov nad Topľou | 1 900 | 1 850
 
-Košice I | 30 | 30
+- Košický kraj | |
 
-Košice II | 11 500 | 11 000
+- Košice I | 25 | 25
 
-Košice III | 30 | 30
+- Košice II | 10 000 | 9 800
 
-Košice IV | 2 100 | 2 100
+- Košice III | 25 | 25
 
-Košice-okolie | 70 | 60
+- Košice IV | 1 850 | 1 800
 
-Gelnica | 30 | 30
+- Košice-okolie | 50 | 40
 
-Michalovce | 6 200 | 6 000
+- Gelnica | 25 | 25
 
-Rožňava | 3 500 | 3 300
+- Michalovce | 4 000 | 3 500
 
-Sobrance | 30 | 30
+- Rožňava | 50 | 45
 
-Spišská Nová Ves | 30 | 30
+- Sobrance | 25 | 25
 
-Trebišov | 30 | 30
+- Spišská Nová Ves | 25 | 25
+
+- Trebišov | 25 | 25“.
