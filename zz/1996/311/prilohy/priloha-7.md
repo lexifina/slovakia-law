@@ -1,1 +1,0 @@
-Príloha č. 6a k vyhláške č. 311/1996 Z. z. [Vzor 06a - Vzor normalizovaného formulára správy o porušeniach a sankciách určenej komisii](../assets/9a7e8e006beb71d8e90e052b5f85ebf4400cd6bd17244ed0704ad5fdb6636f49.pdf)

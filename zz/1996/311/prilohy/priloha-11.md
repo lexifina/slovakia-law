@@ -1,1 +1,0 @@
-Príloha č. 10 k vyhláške č. 311/1996 Z. z. [Vzor 10 - Vzor sprievodného dokladu pri preprave nebezpečných vecí podľa § 28 ods. 2 písm. m) zákona](../assets/816d7806a0eadb94230c6f313aba903c3ef0d5ca1b68ff940a4d7557370bf978.pdf)
