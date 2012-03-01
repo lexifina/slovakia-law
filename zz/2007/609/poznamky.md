@@ -42,6 +42,8 @@
 
 - 15b) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 15c) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 16) § 2 písm. b) bod 16 zákona č. 656/2004 Z. z. v znení zákona č. 309/2009 Z. z.
 
 - 16a) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -73,3 +75,5 @@
 - 26) Zákon č. 563/2009 Z. z.
 
 - 27) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+
+- 28) § 154 a 156 zákona č. 563/2009 Z. z.
