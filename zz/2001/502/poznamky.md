@@ -71,3 +71,5 @@
 - 18ae) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 18af) Napríklad nariadenie Komisie (ES) č. 1828/2006 (Ú. v. EÚ L 371, 27. 12. 2006), čl. 2 až 8 nariadenia Komisie (ES) č. 1386/2002 z 29. júla 2002, ktorým sa ustanovujú presné pravidlá na vykonávanie nariadenia Rady (ES) č. 1164/1994 ohľadne riadiacich a kontrolných systémov v súvislosti s finančnou pomocou, ktorá sa poskytuje z Kohézneho fondu a postupom pri vykonávaní finančných opráv (Mimoriadne vydanie Ú. v. EÚ, kap. 14/zv. 01), čl. 60 nariadenia Rady (ES) č. 1083/2006 (Ú. v. EÚ L 210, 31. 7. 2006), čl. 59 nariadenia Rady (ES) č. 1198/2006 (Ú. v. EÚ L 223, 15. 8. 2006).
+
+- 18ag) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

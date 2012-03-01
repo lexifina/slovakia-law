@@ -12,13 +12,15 @@ Vládnym auditom sa v súlade s týmto zákonom a osobitnými predpismi<sup>12b<
 
   - 4. efektívnosť a účinnosť finančného riadenia auditovanej osoby,
 
-  - 5. bezpečnosť a funkčnosť informačných systémov auditovanej osoby a primeranosť a úplnosť informácií, ktoré informačný systém auditovanej osoby obsahuje vzhľadom na povahu a rozsah jeho činností,
+  - 5. dodržiavanie ustanovení § 6 ods. 1 a § 9,
 
-  - 6. splnenie opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku a splnenie odporúčaní uvedených v čiastkovej správe z vládneho auditu (ďalej len „čiastková správa“) a správe z vládneho auditu,
+  - 6. bezpečnosť a funkčnosť informačných systémov auditovanej osoby a primeranosť a úplnosť informácií, ktoré informačný systém auditovanej osoby obsahuje vzhľadom na povahu a rozsah jeho činností,
 
-  - 7. dostupnosť, správnosť a úplnosť informácií o finančných operáciách a hospodárení auditovanej osoby,
+  - 7. splnenie opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku a splnenie odporúčaní uvedených v čiastkovej správe z vládneho auditu (ďalej len „čiastková správa“) a správe z vládneho auditu,
 
-  - 8. ďalšie skutočnosti, ak tak ustanovuje osobitný predpis,<sup>12a</sup>)
+  - 8. dostupnosť, správnosť a úplnosť informácií o finančných operáciách a hospodárení auditovanej osoby,
+
+  - 9. ďalšie skutočnosti, ak tak ustanovuje osobitný predpis,<sup>12a</sup>)
 
 - b) identifikujú a hodnotia možné riziká súvisiace s finančným riadením a inými činnosťami auditovanej osoby,
 
