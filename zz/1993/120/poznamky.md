@@ -34,6 +34,8 @@
 
 - 10) Zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
+- 10a) Ústavný zákon č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
 - 11) § 78 ods. 5 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) § 83 ods. 4 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
