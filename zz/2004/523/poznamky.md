@@ -44,6 +44,8 @@
 
 - 14ca) § 2 ods. 5 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
+- 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
+
 - 14d) § 1 ods. 4 zákona č. 575/2001 Z. z. v znení zákona č. 403/2010 Z. z.
 
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
@@ -59,6 +61,8 @@
 - 20) § 88 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
 - § 63a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
+
+- 20a) Čl. 5 ods. 6 a čl. 12 ods. 5 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
 - 21) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -77,6 +81,8 @@
 - 24a) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
 - 24aa) Čl. 5 nariadenia Rady (ES, Euratom) č. 1605/2002 z 25. júna 2002 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Európskych spoločenstiev v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
+
+- 24ab) § 15 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
@@ -122,7 +128,11 @@
 
 - 41) Napríklad § 26 ods. 4 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
-- 42) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 41a) Čl. 1 ods. 5 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009) v platnom znení.
+
+- 41b) § 22a zákona č. 431/2002 Z. z. v znení zákona č. 198/2007 Z. z.
+
+- 42) Čl. 9 ods. 5 ústavného zákona č. 493/2011 Z. z.
 
 - 42a) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
@@ -141,6 +151,8 @@
 - 47) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
 - 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov (úplné znenie č. 138/2004 Z. z.).
+
+- 48a) § 6a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
 - 49) Napríklad zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov.
 
