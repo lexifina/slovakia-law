@@ -14,11 +14,15 @@
 
 - f) preukázané kontrolné zistenia,
 
-- g) dátum vypracovania protokolu,
+- g) označenie ustanovení zákona, ktoré boli porušené,
 
-- h) podpisy zamestnancov úradu,
+- h) údaj, či zistené porušenie zákona malo, mohlo mať alebo nemalo vplyv na výsledok verejného obstarávania,
 
-- i) podpis vedúceho kontrolovaného.
+- i) dátum vypracovania protokolu,
+
+- j) podpisy zamestnancov úradu,
+
+- k) podpis vedúceho kontrolovaného.
 
 (2) Ak je proti kontrolným zisteniam podané opodstatnené vyjadrenie podľa § 146a ods. 3 písm. e) alebo sa preukážu ďalšie kontrolné zistenia, zamestnanci úradu vypracujú dodatok k protokolu, ktorý je jeho súčasťou. Pri jeho vypracovaní sa postupuje primerane podľa odseku 1.
 

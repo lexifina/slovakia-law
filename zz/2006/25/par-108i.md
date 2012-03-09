@@ -1,0 +1,7 @@
+# § 108i
+
+(1) V užšej súťaži, v rokovacom konaní so zverejnením a v súťažnom dialógu môže verejný obstarávateľ a obstarávateľ obmedziť počet záujemcov, ktorých vyzve na predloženie ponuky alebo na účasť na dialógu, a to najmenej na troch. Verejný obstarávateľ a obstarávateľ môže určiť aj maximálny počet záujemcov, ktorých vyzve na predloženie ponuky alebo na účasť na dialógu.
+
+(2) Ak počet vybraných záujemcov podľa odseku 1 nie je podľa verejného obstarávateľa alebo obstarávateľa dostačujúci na umožnenie hospodárskej súťaže, môže pozastaviť postup zadávania zákazky v oblasti obrany a bezpečnosti a opätovne poslať na uverejnenie oznámenie o vyhlásení verejného obstarávania, ktoré obsahuje rovnaké údaje a informácie ako pôvodné oznámenie o vyhlásení verejného obstarávania okrem určenia novej lehoty na predloženie žiadostí o účasť a uvedenia aktuálneho dátumu odoslania oznámenia o vyhlásení verejného obstarávania.
+
+(3) Verejný obstarávateľ a obstarávateľ vyzve záujemcov vybratých na základe pôvodného oznámenia o vyhlásení verejného obstarávania a záujemcov vybratých na základe opätovného oznámenia o vyhlásení verejného obstarávania na predloženie ponuky alebo na účasť na dialógu. Týmto nie je dotknutá možnosť verejného obstarávateľa a obstarávateľa zrušiť pôvodný postup zadávania zákazky v oblasti obrany a bezpečnosti a vyhlásiť nový postup zadávania zákazky v oblasti obrany a bezpečnosti.

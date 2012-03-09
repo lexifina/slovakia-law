@@ -1,8 +1,10 @@
-- 2) Čl. 296 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. decembra 2002).
+- 2) Čl. 346 Zmluvy o fungovaní Európskej únie.
 
-- 3) Rozhodnutie Rady z 31. marca 1958 ustanovujúce zoznam výrobkov, na ktoré sa vzťahuje čl. 223 (1) b Zmluvy o založení Európskeho hospodárskeho spoločenstva (čl. 296 (1) b Zmluvy o založení Európskeho spoločenstva) (Ú. v. ES C 364, 20. decembra 2001).
+- 2a) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
-- 4) Napríklad Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (oznámenie č. 566/2004 Z. z.).
+- Zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
+
+- 2b) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 5) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení zákona č. 521/2005 Z. z.
 
@@ -12,9 +14,7 @@
 
 - 6aa) § 10 ods. 5 zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
 
-- 6b) § 6 ods. 12 písm. b) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
-
-- 7) Nariadenie (ES) Európskeho parlamentu a Rady č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Ú. v. EÚ L 340, 16. decembra 2002, s. 1) v znení nariadenia Komisie č. 2151/2003 zo 16. decembra 2003 (Ú. v. EÚ L 329, 16. decembra 2003, s. 1).
+- 7) Nariadenie Európskeho parlamentu a Rady (ES) č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 5) v platnom znení.
 
 - 7a) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -22,13 +22,17 @@
 
 - 7aa) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 7ab) § 2 písm. a) zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
 - 9) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 9a) § 4 ods. 3 písm. f) zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z.
 
-- 9aa) § 2 ods. 2, 4 a 5 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+- 9aa) § 47a Občianskeho zákonníka.
+
+- 9ab) § 2 ods. 2, 4 a 5 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
 
@@ -38,13 +42,15 @@
 
 - 10a) Zákon č. 158/2011 Z. z. o podpore energeticky a environmentálne úsporných motorových vozidiel a o zmene a doplnení niektorých zákonov.
 
+- 10ab) Napríklad § 829 Občianskeho zákonníka, zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
+
 - 10b) § 2 písm. a) zákona č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
 
 - 10c) Napríklad zákon č. 182/2011 Z. z., delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
 
 - 11) § 116 Občianskeho zákonníka.
 
-- 11a) Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+- 11a) Čl. 27 ods. 27.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o Európskej únii a Zmluve o fungovaní Európskej únie.
 
 - 11aa) § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
@@ -54,7 +60,7 @@
 
 - 15) § 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
 
-- 16) Nariadenie Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Európskeho spoločenstva (Ú. v. EÚ L 302, 19. októbra 1992) v platnom znení.
+- 16) Nariadenie Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4) v platnom znení.
 
 - 16a) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
@@ -62,9 +68,11 @@
 
 - 17) § 24 ods. 2 písm. j) a § 31 ods. 2 písm. i) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
+- 17a) Zákon č. 215/2004 Z. z. v znení neskorších predpisov.
+
 - 18) Čl. 5 Ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
-- 19) Čl. V a čl. XXIII Dohody o vládnom obstarávaní (Ú. v. ES C 256, 3. septembra 1996).
+- 19) Čl. V a čl. XXIII Dohody o vládnom obstarávaní (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 21)
 
 - 20) Čl. XIX Dohody o vládnom obstarávaní.
 
@@ -72,11 +80,9 @@
 
 - 22) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
 
-- 22a) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 23aa) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- 26) Rozhodnutie Komisie č. 2005/15/ES zo 7. januára 2005 o vykonávacích pravidlách postupu stanoveného v článku 30 smernice Európskeho parlamentu a Rady 2004/17/ES o koordinácii postupov pri obstarávaní subjektmi pôsobiacimi v odvetviach vodného hospodárstva, energetiky, dopravy a poštových služieb (Ú. v. EÚ L 7, 11. januára 2005, s. 7).
+- 26) Rozhodnutie Komisie zo 7. januára 2005 o vykonávacích pravidlách postupu stanoveného v článku 30 smernice Európskeho parlamentu a Rady 2004/17/ES o koordinácii postupov pri obstarávaní subjektmi pôsobiacimi v odvetviach vodného hospodárstva, energetiky, dopravy a poštových služieb (2005/15/ES) (Ú. v. EÚ L 7, 11. 1. 2005).
 
 - 27) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 

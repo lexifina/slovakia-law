@@ -4,9 +4,9 @@
 
 - a) vstupovať do objektov, zariadení a prevádzok, na pozemky a do iných priestorov kontrolovaného,
 
-- b) vyžadovať, prevziať a premiestniť aj mimo priestorov kontrolovaného kompletnú dokumentáciu kontrolovaného v originálnom vyhotovení, doklady, iné písomnosti, vyjadrenia a informácie vrátane technických nosičov údajov potrebných na výkon kontroly; pri vyžiadaní dokladov a informácií obsahujúcich utajované skutočnosti sa postupuje podľa osobitného predpisu,<sup>22a</sup>)
+- b) vyžadovať, prevziať a premiestniť aj mimo priestorov kontrolovaného kompletnú dokumentáciu kontrolovaného v originálnom vyhotovení, doklady, iné písomnosti, vyjadrenia a informácie vrátane technických nosičov údajov potrebných na výkon kontroly; pri vyžiadaní dokladov a informácií obsahujúcich utajované skutočnosti sa postupuje podľa osobitného predpisu,<sup>17a</sup>)
 
-- c) vyžadovať súčinnosť kontrolovaného, ako aj ďalších štátnych orgánov potrebnú na vykonanie kontroly; od právnických osôb a od fyzických osôb možno vyžadovať súčinnosť v nevyhnutnom rozsahu a s ich súhlasom, pričom tieto osoby sú povinné poskytnúť súčinnosť, ak sa výkon kontroly týka procesu verejného obstarávania financovaného z prostriedkov Európskych spoločenstiev alebo prostriedkov štátneho rozpočtu.
+- c) vyžadovať súčinnosť kontrolovaného, ako aj ďalších štátnych orgánov potrebnú na vykonanie kontroly; od právnických osôb a od fyzických osôb možno vyžadovať súčinnosť v nevyhnutnom rozsahu a s ich súhlasom, pričom tieto osoby sú povinné poskytnúť súčinnosť, ak sa výkon kontroly týka procesu verejného obstarávania financovaného z prostriedkov Európskej únie alebo prostriedkov štátneho rozpočtu.
 
 (2) Prevzatím kompletnej dokumentácie v originálnom vyhotovení podľa odseku 1 písm. b) sa v prípade elektronickej komunikácie rozumie sprístupnenie elektronickej podoby dokumentácie prostredníctvom nástrojov a zariadení použitých na elektronickú komunikáciu.
 

@@ -19,3 +19,5 @@ Príloha č. 7 k zákonu č. 25/2006 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2009/52/ES z 18. júna 2009, ktorou sa stanovujú minimálne normy pre sankcie a opatrenia voči zamestnávateľom štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na území členských štátov (Ú. v. EÚ L 168, 30. 6. 2009).
 
   - 9. Smernica Európskeho parlamentu a Rady 2010/30/EÚ z 19. mája 2010 o udávaní spotreby energie a iných zdrojov energeticky významnými výrobkami na štítkoch a štandardných informáciách o výrobkoch (prepracované znenie) (Ú. v. EÚ L 153/1, 18. 6. 2010).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2009/81/ES z 13. júla 2009 o koordinácii postupov pre zadávanie určitých zákaziek na práce, zákaziek na dodávku tovaru a zákaziek na služby verejnými obstarávateľmi alebo obstarávateľmi v oblastiach obrany a bezpečnosti a o zmene a doplnení smerníc 2004/17/ES a 2004/18/ES (Ú. v. EÚ L 216, 20. 8. 2009) v znení nariadenia Komisie (ES) č. 1177/2009 z 30. novembra 2009 (Ú. v. EÚ L 314, 1. 12. 2009) a nariadenia Komisie (EÚ) č. 1251/2011 z 30. novembra 2011 (Ú. v. EÚ L 319, 2. 12. 2011).
