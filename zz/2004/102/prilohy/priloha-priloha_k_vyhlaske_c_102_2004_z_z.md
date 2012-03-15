@@ -1,183 +1,127 @@
 Príloha k vyhláške č. 102/2004 Z. z.
 
-- SADZOBNÍK ÚHRAD Položka 1 |
+- SADZOBNÍK ÚHRAD Položka 1 | | |
 
-- Skúšanie rýdzosti |
+- Skúšanie rýdzosti nedeštruktívnou metódou | | |
 
-- a) nového tuzemského alebo cudzieho<sup>1</sup>) tovaru, za 1g zliatiny |
+- a) | nového tuzemského alebo cudzieho tovaru a obchodovateľného zliatku, za 1g zliatiny | |
 
-- 1. striebra | 1 Sk,
+- | 1. | striebra | 0,02 eura
 
-- 2. zlata | 10 Sk,
+- | 2. | zlata | 0,25 eura
 
-- 3. platiny | 10 Sk,
+- | 3. | platiny | 0,50 eura
 
-- b) starého alebo opraveného tovaru, za 1 g zliatiny |
+- b) | starého alebo opraveného tovaru, za 1 g zliatiny | |
 
-- 1. striebra | 3 Sk,
+- | 1. | striebra | 0,12 eura
 
-- 2. zlata | 60 Sk,
+- | 2. | zlata | 1,50 eura
 
-- 3. platiny | 100 Sk,
+- | 3. | platiny | 3 eurá
 
-- c) s roztriedením predloženého tovaru na dobré a chybné kusy na základe písomnej | trojnásobok úhrady
+- Položka 2 | | |
 
-- žiadosti osoby, ktorá má povinnosť alebo záujem tovar predložiť | podľa písmen a) a b).
+- Úradné označenie tovaru puncovou značkou alebo iným spôsobom | | |
 
-- Položka 2 |
+- a) | za každú značku na | |
 
-- Úradné označenie tovaru puncovou značkou alebo iným spôsobom |
+- | 1. | strieborný tovar | 0,20 eura
 
-- a) za každú značku na |
+- | 2. | zlatý tovar | 0,40 eura
 
-- 1. strieborný tovar | 3 Sk,
+- | 3. | platinový tovar | 0,60 eura
 
-- 2. zlatý tovar | 5 Sk,
+- b) | za každé doznačenie tovaru | | 0,12 eura
 
-- 3. platinový tovar | 10 Sk,
+- c) | za zavesenie plomby, za každú plombu | | 0,30 eura
 
-- b) za každú značku pri jej oprave, doznačení alebo storne značky | 3 Sk,
+- d) | vydanie osvedčenia | | 1 euro
 
-- c) za zavesenie plomby, za každú plombu | 6 Sk,
+- e) | za každú laserom vypálenú značku na zlatý, strieborný alebo platinový tovar alebo doznačenie tovaru zodpovednostnou značkou, výrobnou značkou alebo rýdzostným číslom | | 0,60 eura
 
-- d) vydanie osvedčenia | 20 Sk,
+- f) | za úradné označenie obchodovateľného zliatku | | 1 euro
 
-- e) za každú laserom vypálenú puncovú značku na zlatý, strieborný alebo platinový tovar alebo doznačenie tovaru zodpovednostnou značkou, výrobnou značkou alebo rýdzostným číslom | 8 Sk.
+- g) | za každú značku pri jej oprave alebo storne značky | | 0,25 eura
 
-- Položka 3 |
+- Položka 3 | | |
 
-- Kvalitatívne zistenie kovu v zliatine |
+- Kvalitatívne zistenie kovu v zliatine za každú skúšku striebra, zlata, platiny alebo iného kovu | | | 1,50 eura
 
-- a) za každú skúšku striebra, zlata, platiny alebo iného kovu | 20 Sk,
+- Položka 4 | | |
 
-- b) za úpravu vzorky striebra, zlata, platiny a iného kovu tavením | 80 Sk.
+- Približné určenie obsahu drahých kovov v predložených predmetoch z drahých kovov a zlomkoch za každý kus alebo za každú voľne oddeliteľnú časť predmetu | | |
 
-- Položka 4 |
+- a) | strieborného | | 3 eurá
 
-- Približné určenie obsahu drahých kovov v predložených predmetoch z drahých kovov a zlomkoch za každý kus alebo za každú voľne oddeliteľnú časť predmetu |
+- b) | zlatého | | 5 eur
 
-- a) strieborného | 30 Sk,
+- c) | platinového | | 10 eur
 
-- b) zlatého | 50 Sk,
+- Položka 5 | | |
 
-- c) platinového | 100 Sk.
+- Chemické stanovenie rýdzosti drahých kovov v klenotníckych zliatinách, minciach, dentálnych zliatinách a v obchodovateľných zliatkoch | | |
 
-- Položka 5 |
+- a) | striebro titráciou | | 12 eur
 
-- Chemické stanovenie rýdzosti drahých kovov v klenotníckych zliatinách, minciach a dentálnych zliatinách |
+- b) | zlato kupeláciou | | 28 eur
 
-- a) striebro titráciou | 50 Sk,
+- c) | striebro a zlato spoločnou kupeláciou | | 33 eur
 
-- b) zlato kupeláciou | 200 Sk,
+- d) | zlato v zliatinách s obsahom niklu | | 35 eur
 
-- c) striebro a zlato spoločnou kupeláciou | 350 Sk,
+- e) | platina a platinové kovy, za každý kov | | 40 eur
 
-- d) zlato v zliatinách s obsahom niklu | 400 Sk,
+- f) | určenie obsahu kovov metódou AAS | |
 
-- e) platina a platinové kovy, za každý kov | 500 Sk,
+- | 1. | za jeden kov | 75 eur
 
-- f) za opakované chemické skúšky rýdzosti | trojnásobok úhrady
+- | 2. | za každý ďalší kov | 40 eur
 
-- drahých kovov podľa písmen a) až e) | podľa písmen a) až e),
+- g) | za opakované chemické skúšky rýdzosti trojnásobok úhrady drahých kovov podľa písmen a) až f) podľa písmen a) až e), | |
 
-- g) za konečné chemické skúšky rýdzosti | päťnásobok úhrady
+- h) | za konečné chemické skúšky rýdzosti päťnásobok úhrady drahých kovov podľa písmen a) až f) podľa písmen a) až e) | |
 
-- drahých kovov podľa písmen a) až e). | podľa písmen a) až e).
+- Položka 6 | | |
 
-- Položka 6 |
+- Tavenie výrobkov a vecí z drahých kovov | | |
 
-- Ostatné analýzy drahých kovov |
+- a) | striebro | |
 
-- a) v kovových materiáloch a odpadoch, |
+- | 1. | do 300 g vrátane | 25 eur
 
-- b) v steroch |
+- | 2. | nad 300 g, za každých ďalších začatých 100 g | 10 eur
 
-- 1. určenie striebra | 300 Sk,
+- b) | zlato | |
 
-- 2. určenie zlata | 800 Sk,
+- | 1. | do 10 g vrátane | 10 eur
 
-- 3. určenie platiny a platinových kovov, za každý kov | 1 500 Sk,
+- | 2. | nad 10 g do 50 g vrátane | 20 eur
 
-- 4. určenie platiny v platinovom katalyzátore na nosiči | 3 000 Sk,
+- | 3. | nad 50 g, za každých ďalších začatých 50 g | 20 eur
 
-- c) určenie obsahu kovov metódou AAS |
+- Položka 7 | | |
 
-- 1. za jeden kov | 2 000 Sk,
+- Overenie pravosti puncovej značky, za každú začatú hodinu | | | 10 eur
 
-- 2. za každý ďalší kov | 1 000 Sk,
+- Položka 8 | | |
 
-- d) určenie obsahu niklu |
+- Vyhotovenie odborného posudku, za každú začatú hodinu | | | 17 eur
 
-- 1. určenie obsahu niklu | 2 000 Sk,
+- Položka 9 | | |
 
-- 2. určenie úbytku niklu | 3 500 Sk,
+- Identifikácia drahých kameňov, za každú začatú | | | 17 eur
 
-- e) samostatne vykonávané úpravy vzoriek |
+- Položka 10 | | |
 
-- 1. určenie straty žíhaním | 150 Sk,
+- a) | vyhľadanie predmetu pri strate dokladu | | 2 eurá
 
-- 2. určenie vlhkosti | 100 Sk,
+- b) | vydanie náhradného dokladu o vykonanom úkone | | 4,50 eura
 
-- f) za opakované analýzy drahých | trojnásobok úhrady
+- c) | roztriedenie predloženého tovaru na dobré a chybné kusy dvojnásobok úhrady na základe písomnej žiadosti predkladateľa podľa položky1 | |
 
-- kovov podľa písmen a) až e) | podľa písmen a) až e),
+- d) | manipulačný poplatok za nadmerné balenie predloženého tovaru za jeden kus | | 0,10 eura
 
-- g) za konečné analýzy drahých | päťnásobok úhrady
+- Položka 11 | | |
 
-- kovov podľa písmen a) až e) | podľa písmen a) až e).
-
-- Položka 7 |
-
-- Určenie rýdzosti a hmotnosti drahých kovov vrátane pretavenia do zliatku |
-
-- a) striebro |
-
-- 1. do 250 g | 80 Sk,
-
-- 2. nad 250g do l000g | 300 Sk,
-
-- 3. za každých ďalších začatých 1 000 g | 300 Sk,
-
-- b) zlato |
-
-- 1. do l0g | 250 Sk,
-
-- 2. nad 10 g do 50 g | 300 Sk,
-
-- 3. nad 50 g do 500 g | 500 Sk,
-
-- 4. za každých ďalších začatých 500 g | 500 Sk,
-
-- c) platina |
-
-- 1. do 500 g | 1 000 Sk,
-
-- 2. za každých ďalších začatých 500 g | 1 000 Sk.
-
-- Položka 8 |
-
-- a) overenie pravosti puncovej značky, |
-
-- za každú značku | 100 Sk,
-
-- b) vyhotovenie odborného posudku, |
-
-- za každú začatú hodinu | 500 Sk,
-
-- c) identifikácia drahých kameňov, |
-
-- za každú začatú hodinu | 500 Sk
-
-- Položka 9 |
-
-- Ostatné úkony |
-
-- a) vyhľadanie predmetu pri strate dokladu | 50 Sk,
-
-- b) vydanie náhradného dokladu o vykonanom úkone | 100 Sk.
-
-- Položka 10 |
-
-- Odborná príprava skúšobných kyselín na drahé kovy za každých 50 ml |
-
-- | 50 Sk.
+- Odborná príprava skúšobných kyselín na drahé kovy, za každých 50 ml | | | 3,95 eura.
