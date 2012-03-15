@@ -97,3 +97,5 @@ Príloha č. 1 k vyhláške č. 370/2008 Z. z.
 - 47 | Elastolefín | vlákno zložené najmenej z 95 hmotnostných % makromolekúl, vytvorených z etylénu a aspoň jedného ďalšieho olefínu a čiastočne zosieťovaných, ktoré po natiahnutí na jedenapolnásobok svojej pôvodnej dĺžky a po následnom uvoľnení rýchlo a výrazne nadobudne svoju pôvodnú dĺžku
 
 - 48 | Melamín | vlákno, ktorého najmenej 85 hmotnostných % predstavujú zosieťované makromolekuly tvorené derivátmi melamínu
+
+- 49 | Polypropylénové/polyamidové dvojzložkové vlákno | dvojzložkové vlákno, v ktorom 10 % až 25 % hmotnosti tvoria polyamidové vlákna uložené v polypropylénovej štruktúre

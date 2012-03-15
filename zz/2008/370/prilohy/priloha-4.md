@@ -137,3 +137,5 @@ Príloha č. 4 k vyhláške č. 370/2008 Z. z.
 - 47 | Elastolefín | 1,50
 
 - 48 | Melamín | 7
+
+- 49 | Polypropylénové/polyamidové dvojzložkové vlákno | 1
