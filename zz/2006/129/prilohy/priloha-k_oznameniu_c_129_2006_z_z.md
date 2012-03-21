@@ -358,6 +358,8 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 4. pre karibskú časť Holandského kráľovstva, t. j. pre ostrovy Bonaire, Saint-Eustache a Saba | (Gezaghebbers)
 
+  - 5. pre ostrov Sv. Martin | Predseda vlády, minister všeobecných záležitostí Vedúci oddelenia matrík ministerstva všeobecných záležitostí
+
     - Honduras
 
     - Ministerstvo zahraničných vecí „Secretaría General-Sección de Auténticas-Secretaría de Estado en el Despacho de Relaciones Exteriores“
