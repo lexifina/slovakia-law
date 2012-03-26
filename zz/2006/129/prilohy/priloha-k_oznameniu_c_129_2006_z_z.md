@@ -1876,15 +1876,31 @@ K oznámeniu č. 129/2006 Z. z.
 
     - úradník („registrar") Súdneho dvora Surinamu
 
-    - Španielsko
+    - Španielske kráľovstvo
 
-  - 1. pre listiny vydané justičnými orgánmi „Secretario de Gobierno de las Audiencias" alebo jeho zástupca
+  - 1. Pre správne listiny uvedené v článku 1.2 kráľovského dekrétu číslo 1497/2011 z 24.10. 2011 bez ohľadu na miesto ich vydania ktorýkoľvek z týchto úradníkov:
 
-  - 2. pre listiny overené notármi a pre súkromné listiny, na ktorých overil podpis notár, prezident príslušného združenia verejných notárov alebo ich konateľ
+    - a) ,Secretarios de Gobierno de los Tribunales Superiores de Justicia` a pre autonómne mestá Ceuta a Melilla alebo ich zástupcovia, ako aj poverení úradníci
 
-  - 3. pre iné verejné listiny okrem listín vydaných orgánmi ústrednej štátnej správy ktorýkoľvek z funkcionárov uvedených v bodoch 1 a 2
+    - b) vedúci sekcie informácií a pomoci občanom ministerstva spravodlivosti alebo jeho zástupca
 
-  - 4. pre listiny orgánov ústrednej štátnej správy „Jefe de la Sección Central de la Subsecretaría" ministerstva spravodlivosti
+    - c) riaditelia ,Gerencias Territoriales` ministerstva spravodlivosti alebo ich zástupcovia
+
+    - d) predstavení notárskych kolégií alebo ich zástupcovia alebo poverení verejní notári
+
+  - 2. Pre justičné listiny (okrem listín uvedených v bode 4)
+
+    - a) ,Secretarios de Gobierno de los Tribunales Superiores de Justicia` a pre autonómne mestá Ceuta a Melilla alebo ich zástupcovia, ako aj poverení úradníci
+
+    - b) vedúci sekcie informácií a pomoci občanom ministerstva spravodlivosti alebo jeho zástupca
+
+    - c) riaditelia ,Gerencias Territoriales` ministerstva spravodlivosti alebo ich zástupcovia
+
+  - 3. Pre listiny vydané notármi – predstavení notárskych kolégií alebo ich zástupcovia alebo poverení verejní notári
+
+  - 4. Pre listiny vydané orgánmi a súdnymi úradníkmi Najvyššieho súdu a Vyššieho súdneho dvora – len ,Secretario de Gobierno` týchto súdov alebo ich zástupcovia
+
+  - 5. Pre ostatné listiny – ktorýkoľvek úradník uvedený v bode 1 podľa výberu žiadateľa.
 
     - Švajčiarsko
 
