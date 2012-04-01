@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 118/2012 Z. z.
+
+- VZOR – DAŇOVÉ PRIZNANIE SPOTREBNÁ DAŇ Z VÍNA A MEDZIPRODUKTU [Vzor 02](../assets/7df0de66685707bdd494e3a0d760526328bc5aa0698636ec3666582aab623712.pdf)
