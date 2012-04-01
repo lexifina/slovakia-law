@@ -60,6 +60,10 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - podielom vlastných zdrojov na poistnom po prerozdeľovaní za predchádzajúcich 12 kalendárnych mesiacov, ktorý musí dosahovať hodnotu najmenej 3 %; ustanovenie odseku 9 tým nie je dotknuté,
 
+- b)
+
+- podielom krátkodobých aktív k neuhradeným záväzkom voči poskytovateľom podľa odseku 8, ktorý musí dosahovať hodnotu najmenej 1,2, a
+
 - c)
 
 - schopnosťou uhrádzať svoje záväzky voči poskytovateľom v lehote, ktorá nepresiahne 30 kalendárnych dní odo dňa zmluvne dohodnutej lehoty splatnosti záväzkov voči poskytovateľom.
@@ -289,6 +293,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - „b)
 
 - nezabezpečuje platobnú schopnosť (§ 14 ods. 2 a 9) počas troch kalendárnych mesiacov v priebehu uplynulých 12 kalendárnych mesiacov,“.
+
+- 24. V § 52 odsek 2 znie:
+
+- „(2)
+
+- Úrad môže zaviesť nútenú správu nad zdravotnou poisťovňou, ak zdravotná poisťovňa má podiel krátkodobých aktív k záväzkom voči poskytovateľom menej ako 1,0. Úrad zavedie nútenú správu nad zdravotnou poisťovňou, ak zdravotná poisťovňa má podiel krátkodobých aktív k záväzkom voči poskytovateľom menej ako 1,0 počas troch po sebe nasledujúcich kalendárnych mesiacov.“.
 
 - 25. Za § 77a sa vkladá § 77b, ktorý znie:
 
