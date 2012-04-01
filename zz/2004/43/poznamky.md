@@ -22,21 +22,9 @@
 
 - 9) § 51 Občianskeho zákonníka.
 
-- 11) § 15 ods. 1 písm. c) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
-
-- 12) § 15 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
-
-- 12a) § 15 ods. 1 písm. e) zákona č. 461/2003 Z. z. v znení neskorších predpisov
-
-- 12b) § 128 ods. 5 zákona č. 461/2003 Z. z. v znení zákona č. 449/2008 Z. z.
-
-- 14) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
-
 - 19) § 26 zákona č. 461/2003 Z. z.
 
 - 20) § 138 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
-
-- 22) § 138 ods. 8 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
 - 29) § 139 zákona č. 461/2003 Z. z.
 
@@ -53,6 +41,8 @@
 - 35) § 142 ods. 4 zákona č. 461/2003 Z. z.
 
 - 36) § 143 ods. 2 zákona č. 461/2003 Z. z.
+
+- 36a) § 241a ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
 - 37) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
@@ -114,7 +104,7 @@
 
 - 58b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
-- 58c) Napríklad zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 58c) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 58d) § 4 ods. 1 písm. a) až c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
 
@@ -146,7 +136,7 @@
 
 - 68) Trestný zákon.
 
-- 68a) § 226 ods. 1 písm. k) zákona č. 461/2003 Z. z. v znení zákona č. 572/2009 Z. z.
+- 68a) § 226 ods. 1 písm. k) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 69) § 4 zákona č. 328/1991 Zb.
 
@@ -154,11 +144,13 @@
 
 - 71) § 8 písm. a) zákona č. 566/2001 Z. z.
 
+- 71a) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 72) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 73) Zákon č. 203/2011 Z. z. o kolektívnom investovaní.
 
-- 74) Napríklad zákon č. 594/2003 Z. z., zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 95/2002 Z. z. v znení neskorších predpisov.
+- 74) Napríklad zákon č. 594/2003 Z. z., zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 75) § 8 písm. m) zákona č. 566/2001 Z. z.
 
@@ -172,7 +164,9 @@
 
 - 79) § 41 a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 79a) § 6 ods. 16 písm. e) zákona č. 483/2001 Z. z.
+- 79a) Zákon č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
+
+- 79b) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 80) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z.
 
@@ -206,7 +200,7 @@
 
 - 93) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
-- 93a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+- 93a) Napríklad zákon č. 297/2008 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. v znení neskorších predpisov.
 
 - 94) Napríklad Trestný poriadok, Zákonník práce.
 

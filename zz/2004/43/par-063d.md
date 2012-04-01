@@ -1,0 +1,7 @@
+# § 63d Povinnosť dôchodkovej správcovskej spoločnosti doplniť majetok do dlhopisového dôchodkového fondu
+
+(1) Ak v dlhopisovom dôchodkovom fonde v sledovanom období poklesne hodnota dôchodkovej jednotky, dôchodková správcovská spoločnosť je povinná v prvý pracovný deň bezprostredne nasledujúci po poslednom dni sledovaného obdobia doplniť hodnotu majetku v dlhopisovom dôchodkovom fonde z vlastného majetku vo výške absolútnej hodnoty súčinu poklesu hodnoty dôchodkovej jednotky a priemernej čistej hodnoty majetku v dlhopisovom dôchodkovom fonde za sledované obdobie. Záväzok dôchodkovej správcovskej spoločnosti doplniť majetok podľa prvej vety zodpovedá pohľadávke v majetku v príslušnom dôchodkovom fonde voči dôchodkovej správcovskej spoločnosti, ktorú je dôchodková správcovská spoločnosť povinná splatiť do troch pracovných dní od skončenia sledovaného obdobia.
+
+(2) Pokles hodnoty dôchodkovej jednotky v dlhopisovom dôchodkovom fonde v sledovanom období podľa odseku 1 je záporný výsledok pomeru aritmetického priemeru aktuálnych hodnôt dôchodkových jednotiek za posledný kalendárny mesiac sledovaného obdobia a aritmetického priemeru aktuálnych hodnôt dôchodkových jednotiek za prvý kalendárny mesiac sledovaného obdobia znížený o hodnotu 1.
+
+(3) Sledované obdobie podľa odsekov 1 a 2 je posledných päť po sebe nasledujúcich kalendárnych rokov. Sledované obdobie začína plynúť vždy 1. januára kalendárneho roka.

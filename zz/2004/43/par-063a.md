@@ -1,5 +1,33 @@
-# § 63a Výdavky dôchodkovej správcovskej spoločnosti a výdavky, ktoré vynaložili fyzické osoby a právnické osoby v prospech dôchodkovej správcovskej spoločnosti,
+# § 63a Odplata za správu dôchodkového fondu
 
-- a) na uzatvorenie jednej zmluvy o starobnom dôchodkovom sporení a činnosti s tým súvisiace sú najviac vo výške 6 % priemernej mesačnej mzdy v hospodárstve Slovenskej republiky vykázanej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa uzatvorila zmluva o starobnom dôchodkovom sporení,
+(1) Odplata za správu dôchodkového fondu zahŕňa náklady dôchodkovej správcovskej spoločnosti spojené so správou majetku v dôchodkovom fonde okrem
 
-- b) na propagáciu a reklamu [§ 47 ods. 2 písm. c) a § 112 ods. 1 a 3] za kalendárny rok sú najviac vo výške 1000-násobku priemernej mesačnej mzdy v hospodárstve Slovenskej republiky vykázanej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa tieto výdavky vynaložili.
+- a) daní vzťahujúcich sa na majetok v dôchodkovom fonde,
+
+- b) poplatkov subjektu zabezpečujúcemu vyrovnanie obchodov s finančnými nástrojmi,
+
+- c) poplatkov za vedenie bežných účtov a vkladových účtov,
+
+- d) poplatkov obchodníkovi s cennými papiermi alebo zahraničnému obchodníkovi s cennými papiermi,
+
+- e) poplatkov centrálnemu depozitárovi cenných papierov alebo členovi centrálneho depozitára súvisiacich so správou cenných papierov, alebo osobe s obdobným predmetom činnosti mimo územia Slovenskej republiky a
+
+- f) pomernej časti odplaty za výkon činnosti depozitára zodpovedajúcej podielu majetku v tomto dôchodkovom fonde k celkovému majetku spravovanému dôchodkovou správcovskou spoločnosťou.
+
+(2) Náklady podľa odseku 1 písm. a) až f) sa uhrádzajú z majetku dôchodkového fondu.
+
+(3) Odplata za správu dôchodkového fondu za jeden kalendárny rok správy dôchodkového fondu určená v štatúte dôchodkového fondu nesmie presiahnuť
+
+- a) 0,3 % priemernej ročnej predbežnej čistej hodnoty majetku v dlhopisovom dôchodkovom fonde,
+
+- b) 0,3 % priemernej ročnej predbežnej čistej hodnoty majetku v zmiešanom dôchodkovom fonde,
+
+- c) 0,3 % priemernej ročnej predbežnej čistej hodnoty majetku v akciovom dôchodkovom fonde a
+
+- d) 0,2 % priemernej ročnej predbežnej čistej hodnoty majetku v indexovom dôchodkovom fonde.
+
+(4) Na výpočet odplaty za správu dôchodkového fondu sa použije údaj o čistej predbežnej hodnote majetku v dôchodkovom fonde vypočítaný podľa § 75 ods. 4.
+
+(5) Dôchodková správcovská spoločnosť je povinná každý pracovný deň určiť pomernú časť odplaty za správu dôchodkového fondu. V ten istý pracovný deň sa zníži o sumu tejto pomernej časti odplaty za správu dôchodkového fondu hodnota majetku v dôchodkovom fonde.
+
+(6) Odplata za správu v indexovom dôchodkovom fonde môže byť znížená podľa § 88a ods. 3.
