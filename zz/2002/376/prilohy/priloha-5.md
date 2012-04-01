@@ -98,7 +98,7 @@
 
 - 14a. | Poplatok za neskoré predloženie sekvenčného protokolu (pravidlo 30 ods. 3) | | 210
 
-- 15. | Poplatok za patentové nároky (pravidlo 45 ods. 1, pravidlo 71 ods. 6 a pravidlo 162 ods. 1) pre prihlášku podanú 1. apríla 2009 alebo po tomto dni | |
+- 15. | Poplatky za patentové nároky (pravidlo 45 odsek 1, pravidlo 71 odsek 4 a pravidlo 162 odsek 1) pre prihlášku podanú 1. apríla 2009 alebo po tomto dni | |
 
 - | – | za 16. a každý ďalší patentový nárok až po hranicu 50 | 210
 
