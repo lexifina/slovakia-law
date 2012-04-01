@@ -1,5 +1,0 @@
-Príloha č. 2 k vyhláške č. 539/2011 Z. z.
-
-- DAŇOVĚ PRIZNANIE SPOTREBNÁ DAŇ Z VÍNA A MEDZI PRODUKTU
-
-[Vzor 02](../assets/12e4a0810318a98c710385c5e8ee2646dfd004585bab0c824ac37d1094bad102.pdf)
