@@ -66,6 +66,8 @@
 
 - 21a) § 54 zákona č. 656/2004 Z. z. v znení zákona č. 118/2008 Z. z.
 
+- 21b) STN EN ISO 15403-1 Zemný plyn. Zemný plyn na použitie ako stlačené palivo do vozidiel. Časť 1: Označovanie kvality (38 6177).
+
 - 22) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách.
 
 - 23) § 44 až 47 zákona č. 563/2009 Z. z.
