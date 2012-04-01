@@ -110,6 +110,8 @@
 
 - 20c) Napríklad čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
+- 20d) § 33 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 25a) Čl. 161 nariadenia č. 2913/92 v platnom znení.
 
 - 25b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
