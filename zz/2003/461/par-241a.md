@@ -14,4 +14,8 @@
 
 - c) za obdobie, za ktoré nepostúpila príspevky na starobné dôchodkové sporenie alebo tieto príspevky postúpila v nižšej sume z dôvodu, že zamestnávateľ nesplnil povinnosť ustanovenú v § 231 ods. 1 písm. f) najneskôr do uplynutia 45 dní odo dňa splnenia tejto povinnosti zamestnávateľom,
 
-- d) za obdobie odo dňa, v ktorom vznikol sporiteľovi nárok na materské, najneskôr do uplynutia 45 dní odo dňa splnenia oznamovacej povinnosti sporiteľa podľa osobitného predpisu.<sup>102a</sup>)
+- d) za obdobie odo dňa, v ktorom vznikol sporiteľovi nárok na materské, najneskôr do uplynutia 45 dní odo dňa splnenia oznamovacej povinnosti sporiteľa podľa osobitného predpisu,<sup>102a</sup>)
+
+- e) za obdobie odo dňa, v ktorom sporiteľovi vznikla prvá účasť na starobnom dôchodkovom sporení do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola zmluva o starobnom dôchodkovom sporení zapísaná do registra zmlúv o starobnom dôchodkovom sporení,
+
+- f) za obdobie odo dňa, v ktorom sporiteľovi vznikla prvá účasť na starobnom dôchodkovom sporení do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom Sociálna poisťovňa určila dôchodkovú správcovskú spoločnosť podľa osobitného predpisu.<sup>1</sup>)
