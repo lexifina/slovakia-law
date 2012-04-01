@@ -1,1 +1,1 @@
-Príloha č. 28 k vyhláške č. 25/2004 Z. z. [Vzor 28 - Návrh na výmaz Európskeho družstva po premiestnení jeho sídla do iného členského štátu](../assets/038883fdcfcdb20b69edbd918bfd2b4a37aee9b720a06df6b181963350af1ae7.pdf)
+Príloha č. 28 k vyhláške č. 25/2004 Z. z. [Vzor 28 - Návrh na výmaz Európskeho družstva po premiestnení jeho sídla do iného členského štátu](../assets/378b743a049a697c7dc3e43618658b49b2bab6e25a99b24a39c06d06b7bf3498.pdf)

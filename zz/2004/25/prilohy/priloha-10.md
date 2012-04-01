@@ -1,1 +1,1 @@
-Príloha č. 10 k vyhláške č. 25/2004 Z. z. [Vzor 10 - Návrh na zápis zmeny zapísaných údajov o akciovej spoločnosti do obchodného registra](../assets/c77d3a5e8331bf0068c2fe6e21997fb29ee04ff690961cf595e5430e51e26548.pdf)
+Príloha č. 10 k vyhláške č. 25/2004 Z. z. [Vzor 10 - Návrh na zápis zmeny zapísaných údajov o akciovej spoločnosti do obchodného registra](../assets/581d289da573517ba80f665eb63b942563de3ce926aacbb13302885613143227.pdf)

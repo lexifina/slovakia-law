@@ -2,6 +2,10 @@
 
 - 1a) § 2 ods. 3 Obchodného zákonníka.
 
+- 1b) Nariadenie vlády Slovenskej republiky č. 258/1996 Z. z., ktorým sa vydáva Zoznam obcí a vojenských obvodov tvoriacich jednotlivé okresy v znení neskorších predpisov.
+
+- Vyhláška Štatistického úradu Slovenskej republiky č. 377/2010 Z. z., ktorou sa vydáva Štatistický číselník krajín.
+
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
 - 2a) § 59b ods. 3 Obchodného zákonníka.

@@ -1,1 +1,1 @@
-Príloha č. 21 k vyhláške č. 25/2004 Z. z. [Vzor 21 - Návrh na zápis zmeny zapísaných údajov o Európskom zoskupení hospodárskych záujmov do obchodného registra](../assets/fe448c05b6c57545ff41a5067dfc262de234cc7fcd8fcce1b55b6444cc28d580.pdf)
+Príloha č. 21 k vyhláške č. 25/2004 Z. z. [Vzor 21 - Návrh na zápis zmeny zapísaných údajov o Európskom zoskupení hospodárskych záujmov do obchodného registra](../assets/36687bcdb855452c813d7c0d58636504fd00bc73fb231807c16ca0f043315e43.pdf)

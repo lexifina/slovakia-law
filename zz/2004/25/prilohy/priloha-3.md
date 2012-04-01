@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 25/2004 Z. z. [Vzor 03 - Návrh na zápis verejnej obchodnej spoločnosti do obchodného registra](../assets/57961e4afd70092d28e1aabcd3c5640646b3c7ceac04c6ce1ddbeafa494c49e9.pdf)
+Príloha č. 3 k vyhláške č. 25/2004 Z. z. [Vzor 03 - Návrh na zápis verejnej obchodnej spoločnosti do obchodného registra](../assets/c6cb7fa9dc45119d0ffc4a059c00564a14f7ebc031f5dda0a4474c751cb4512b.pdf)
