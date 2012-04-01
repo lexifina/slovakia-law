@@ -30,6 +30,8 @@
 
 - 8) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
+- 8a) Čl. 8, čl. 15 ods. 2 Prílohy VI. nariadenia Európskeho parlamentu a rady č. 211/2011, Ú. v. EÚ L 65, 11. 3. 2011, s. 1 až 22.
+
 - 9) § 754 až 759 Občianskeho zákonníka.
 
 - 9a) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
