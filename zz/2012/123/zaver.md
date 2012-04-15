@@ -1,0 +1,1 @@
+Juraj Miškov v. r.
