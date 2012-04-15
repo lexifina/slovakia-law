@@ -2130,6 +2130,16 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. Ministerstvo zahraničných vecí Ukrajiny pre všetky ostatné listiny
 
+    - Uzbecká republika
+
+  - 1. Ministerstvo spravodlivosti – pre verejné listiny vydané súdmi a súdnymi orgánmi
+
+  - 2. Generálna prokuratúra – pre verejné listiny vydané prokuratúrou a vyšetrovacími orgánmi
+
+  - 3. Štátne centrum skúšok – pre verejné listiny vydané inštitúciami vzdelávania a vedy
+
+  - 4. Ministerstvo zahraničných vecí – pre všetky ostatné verejné listiny
+
     - Vanuatská republika
 
   - 1. ,The Department of Foreign Affairs'
