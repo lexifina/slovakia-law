@@ -1,3 +1,0 @@
-# § 18a
-
-Touto vyhláškou sa preberá právny akt Európskych spoločenstiev a Európskej únie uvedený v prílohe.
