@@ -298,9 +298,13 @@
 
       - h) Zbor guvernérov určí odmenu, ktorá sa bude platiť výkonným riaditeľom, a slúžne, ako aj zmluvné služobné podmienky prezidenta.
 
-    - ČASŤ 3. HLASOVANIE
+    - Časť 3 Hlasovanie
 
-      - a) Každý člen bude mať 250 hlasov a jeden ďalší hlas za každú akciu základného kapitálu, ktorú drží.
+      - (a) Hlasovacie práva každého člena sa rovnajú súčtu jeho základných hlasov a hlasov vyplývajúcich z počtu akcií základného kapitálu, ktoré drží.
+
+        - (i) Základné hlasy každého člena budú vo výške, ktorá vyplýva z rovnomerného rozdelenia 5,55 % z úhrnnej sumy hlasovacích práv všetkých členov, za predpokladu, že nebudú existovať zlomkové základné hlasy.
+
+        - (ii) Počet hlasov vyplývajúcich z počtu akcií základného kapitálu každého člena vychádza z pridelenia jedného hlasu za každú držanú akciu základného kapitálu.
 
       - b) O všetkých záležitostiach Banky sa bude rozhodovať väčšinou odovzdaných hlasov, ibaže by bolo výslovne určené inak.
 
