@@ -3148,9 +3148,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Vydanie medzinárodného dovozného certifikátu, vyhlásenia konečného užívateľa a dovozného certifikátu položiek s dvojakým použitím ..... | 16,50 eura
 
-  - c) Vydanie povolenia na obchodovanie s vojenským materiálom ..... | 1 659,50 eura
+  - c) Vydanie povolenia na obchodovanie s výrobkami obranného priemyslu ..... | 1 659,50 eura
 
-  - d) Vydanie licencie na dovoz a vývoz vojenského materiálu, individuálneho vývozného povolenia, rámcového vývozného povolenia, všeobecného vývozného povolenia, povolenia na prepravu a sprostredkovateľského povolenia položiek s dvojakým použitím, z hodnoty tovaru uvedeného v licencii alebo povolení ..... | 0,1 % najmenej 33 eur
+  - d) vydanie licencie na dovoz výrobkov obranného priemyslu alebo licencie na vývoz výrobkov obranného priemyslu z hodnoty tovaru povolenej v licencii ..... | 0,1 % najmenej 33 eur
 
   - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii ..... | 0,5 % najmenej 99,50 eura
 
