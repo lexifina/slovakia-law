@@ -108,7 +108,11 @@ Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 
 
 - „(3)
 
-- Inšpektor práce sa pri výkone inšpekcie práce preukazuje preukazom inšpektora práce, ktorý nesmie vydať z rúk; na požiadanie umožní do neho nahliadnuť. Inšpektor práce je pri výkone inšpekcie práce povinný postupovať tak, aby neboli dotknuté práva a právom chránené záujmy subjektu, v ktorom sa vykonáva inšpekcia práce.“.
+- Inšpektor práce sa pri výkone inšpekcie práce preukazuje preukazom inšpektora práce, ktorý nesmie vydať z rúk; na požiadanie umožní do neho nahliadnuť. Inšpektor práce je pri výkone inšpekcie práce povinný postupovať tak, aby neboli dotknuté práva a právom chránené záujmy subjektu, v ktorom sa vykonáva inšpekcia práce.
+
+- (4)
+
+- Inšpektor práce sa pri výkone cestnej kontroly podľa osobitného predpisu<sup>15</sup>) preukazuje aj služobnou rovnošatou, ktorú mu poskytuje inšpektorát práce. Služobná rovnošata je odev, ktorý má špecifické znaky a vyjadruje príslušnosť k inšpektorátu práce. Podrobnosti o služobnej rovnošate a jej vyobrazenie ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
 
 - 17. V § 12 sa za odsek 2 vkladajú nové odseky 3 a 4, ktoré znejú:
 
