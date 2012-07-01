@@ -208,7 +208,11 @@
 
 - 57a) § 61f ods. 8 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 57aa) § 8 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov.
+
 - 57b) § 61h zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 57c) Napríklad § 8 ods. 5 a 6 zákona č. 581/2004 Z. z.
 
 - 58) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
