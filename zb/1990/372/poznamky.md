@@ -58,6 +58,8 @@
 
 - 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
 
+- 14a) § 10 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 96/2012 Z. z.
+
 - 15) § 524 až 530 Občianskeho zákonníka.
 
 - 16) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností v znení neskorších predpisov.
