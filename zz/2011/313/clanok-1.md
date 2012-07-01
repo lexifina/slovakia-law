@@ -316,6 +316,14 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 47. V § 94 ods. 2 sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „to platí aj pre osobu spolujazdca podľa § 74 ods. 2.“.
 
+- 48. Za § 97 sa vkladá § 97a, ktorý vrátane nadpisu znie:
+
+- „§ 97a
+
+- Výmena a obnovenie vodičského preukazu v cudzine
+
+- Žiadosť o výmenu vodičského preukazu alebo žiadosť o obnovenie vodičského preukazu z dôvodu uplynutia jeho platnosti, z dôvodu jeho straty alebo odcudzenia alebo z dôvodu zmeny mena alebo priezviska možno podať aj na zastupiteľskom úrade Slovenskej republiky v zahraničí; ustanovenia § 96 a 97 sa vzťahujú primerane.“.
+
 - 49. V § 98 ods. 1 sa za písmeno d) vkladá nové písmeno e), ktoré znie:
 
 - „e)
