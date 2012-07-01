@@ -880,13 +880,7 @@
 
         - (b) Ak prioritný doklad vydáva prijímací úrad, prihlasovateľ môže namiesto jeho predloženia požiadať prijímací úrad, aby pripravil a odovzdal prioritný doklad Medzinárodnému úradu. Taká žiadosť sa musí podať najneskôr do 16 mesiacov od dátumu priority a prijímací úrad ju môže podrobiť poplatku.
 
-        - (b-bis) Ak je prioritný doklad, v súlade s Administratívnymi smernicami, dostupný prijímaciemu úradu alebo Medzinárodnému úradu z digitálnej knižnice, môže prihlasovateľ namiesto zaslania prioritného dokladu prípadne
-
-          - (i) požiadať prijímací úrad, aby si zadovážil prioritný doklad z tejto knižnice a odovzdal ho Medzinárodnému úradu, alebo
-
-          - (ii) požiadať Medzinárodný úrad, aby si z tejto knižnice zadovážil prioritný doklad.
-
-          - Žiadosť sa musí podať najneskôr do 16 mesiacov od dátumu priority a prijímací úrad alebo Medzinárodný úrad ju môže spoplatniť.
+        - (b-bis) Ak je prioritný doklad, v súlade s Administratívnymi smernicami, dostupný Medzinárodnému úradu z digitálnej knižnice predo dňom medzinárodného zverejnenia medzinárodnej prihlášky, prihlasovateľ môže namiesto predloženia prioritného dokladu požiadať Medzinárodný úrad predo dňom zverejnenia medzinárodnej prihlášky, aby si zadovážil prioritný doklad z tejto digitálnej knižnice.
 
         - (c) Ak nie sú splnené požiadavky ani jedného z troch predchádzajúcich odsekov, ktorýkoľvek z určených štátov nemusí s výhradou odseku (d) brať do úvahy právo prednosti za predpokladu, že žiadny z určených úradov nesmie prehliadnuť právo prednosti bez toho, aby neumožnil prihlasovateľovi predložiť prioritný doklad v lehote primeranej okolnostiam.
 
@@ -1062,7 +1056,7 @@
 
           - (ii) dva mesiace od dátumu, keď jeden prvok alebo viac prvkov uvedených v článku 11(1)(iii) skôr prijal prijímací úrad, ak sa takáto výzva nezaslala prihlasovateľovi.
 
-        - (b) Ak prijímací úrad prijal opravu podľa článku 11(2) alebo oznámenie podľa pravidla 20.6(a), ktoré potvrdzuje včlenenie odkazom na prvok uvedený v článku 11(1)(iii)(d) alebo (e), po uplynutí príslušnej lehoty podľa odseku (a), ale predtým, ako úrad zaslal prihlasovateľovi oznámenie podľa pravidla 20.4(i), bude sa oprava alebo oznámenie považovať za prijaté v tejto lehote.
+        - (b) Ak prijímací úrad pred uplynutím príslušnej lehoty podľa odseku (a) neprijal opravu podľa článku 11(2) ani oznámenie podľa pravidla 20.6(a) potvrdzujúce včlenenie odkazom na prvok uvedený v článku 11(1)(iii)(d) alebo (e), bude sa každá takáto oprava alebo oznámenie prijaté úradom po uplynutí tejto lehoty, ale pred zaslaním oznámenia prihlasovateľovi podľa pravidla 20.4(i) považovať za prijaté v tejto lehote.
 
       - 20.8 Nezlučiteľnosť s národným zákonodarstvom
 
@@ -1428,11 +1422,11 @@
 
           - (iii) z inej zverejnenej nepatentovej literatúry, na ktorej sa orgány pre medzinárodnú rešerš dohodnú a ktorej zoznam uverejní Medzinárodný úrad po prvý raz pri uzavretí dohody a potom pri každej zmene.
 
-        - (c) S výhradou odsekov (d) a (e) sa za „národné patentové doklady“ považujú
+        - (c) S výhradou odsekov (d) a (e) sa za „národné patentové doklady“ považujú:
 
           - (i) patenty vydané v roku 1920 a po tomto roku Francúzskom, bývalým Reichspatentamtom v Nemecku, Japonskom, bývalým Sovietskym zväzom, Švajčiarskom (iba vo francúzštine a nemčine), Veľkou Britániou a Spojenými štátmi americkými;
 
-          - (ii) patenty vydané Nemeckou spolkovou republikou, Kórejskou republikou a Ruskou federáciu
+          - (ii) patenty vydané Nemeckou spolkovou republikou, Čínskou ľudovou republikou, Kórejskou republikou a Ruskou federáciou
 
           - (iii) prípadné patentové prihlášky zverejnené v roku 1920 a po tomto roku v krajinách uvedených v bodoch (i) a (ii);
 
@@ -1444,7 +1438,7 @@
 
         - (d) Ak sa prihláška znovu zverejňuje raz (napríklad „Offenlegungsschrift“ ako „Auslegeschrift“) alebo viackrát, nemusí orgán pre medzinárodnú rešerš uchovávať všetky znenia vo svojej dokumentácii; každý taký orgán je teda oprávnený neuchovávať viac ako jedno znenie. Ďalej aj v prípadoch, kde sa schvaľuje prihláška a vydáva vo forme patentu alebo osvedčenia na úžitkový vzor (Francúzsko), nemusí orgán pre medzinárodnú rešerš uchovávať tak prihlášku, ako aj patent, alebo osvedčenie na užitkový vzor (Francúzsko) vo svojej dokumentácii; každý orgán je teda oprávnený uchovávať buď iba prihlášku, alebo iba patent alebo osvedčenie na úžitkový vzor (Francúzsko).
 
-        - (e) Orgán pre medzinárodnú rešerš, ktorého úradným jazykom alebo jedným z jeho úradných jazykov nie je japončina, kórejčina, ruština alebo španielčina, má právo nezahrnúť do svojej dokumentácie tie patentové doklady Japonska, Kórejskej republiky, Ruskej federácie a bývalého Sovietskeho zväzu, ako aj tie patentové doklady v španielčine, pre ktoré nie sú všeobecne dostupné anotácie v angličtine. Ak budú anglické anotácie všeobecne dostupné po nadobudnutí platnosti tohto Vykonávacieho predpisu, budú tie patentové dokumenty, ktorých sa anotácie týkajú, zahrnuté do dokumentácie najneskôr do šiestich mesiacov potom, čo anotácie nadobudnú všeobecnú dostupnosť. Ak dôjde k prerušeniu anotačných služieb v angličtine v tých technických odboroch, kde boli anglické anotácie všeobecne dostupné, prijme Zhromaždenie vhodné opatrenia na urýchlenú obnovu týchto služieb v uvedených odboroch.
+        - (e) Orgán pre medzinárodnú rešerš, ktorého úradným jazykom alebo jedným z jeho úradných jazykov nie je čínština, japončina, kórejčina, ruština alebo španielčina, má právo nezahrnúť do svojej dokumentácie tie patentové doklady Čínskej ľudovej republiky, Japonska, Kórejskej republiky, Ruskej federácie a bývalého Sovietskeho zväzu, ako aj tie patentové doklady v španielčine, pre ktoré nie sú všeobecne dostupné anotácie v angličtine. Ak budú anglické anotácie všeobecne dostupné po nadobudnutí tohto Vykonávacieho predpisu, budú tie patentové dokumenty, ktorých sa anotácie týkajú, zahrnuté do dokumentácie najneskôr do šiestich mesiacov potom, čo anotácie nadobudnú všeobecnú dostupnosť. Ak dôjde k prerušeniu anotačných služieb v angličtine v tých technických odboroch, kde boli anglické anotácie všeobecne dostupné, prijme Zhromaždenie vhodné opatrenia na urýchlenú obnovu týchto služieb v uvedených odboroch.
 
         - (f) Na účely tohto pravidla sa prihlášky, ktoré boli iba vyložené na verejné nahliadnutie, nepovažujú za zverejnené prihlášky.
 
@@ -3208,7 +3202,7 @@
 
         - (d) Návrh sa považuje za prijatý, ak žiadny zo zmluvných štátov nehlasuje proti zmene a ak aspoň polovica zmluvných štátov vyjadrí buď súhlas, alebo nedostatok záujmu, alebo sa zdrží hlasovania.
 
-    - PRAVIDLO 82 NEPRAVIDELNOSTI V POŠTOVOM STYKU
+    - PRAVIDLO 82 Nepravidelnosti v poštovom styku
 
       - 82.1. Oneskorenie alebo strata poštovej zásielky
 
@@ -3226,11 +3220,7 @@
 
           - (ii) aj keď tento úrad alebo organizácia nezaslali Medzinárodnému úradu oznámenie podľa odseku (d).
 
-      - 82.2 Prerušenie poštového styku
-
-        - (a) Každý účastník, ktorý má na tom právny záujem, môže predložiť dôkaz o tom, že v posledných desiatich dňoch pred uplynutím lehoty došlo v mieste jeho bydliska, podnikania alebo pobytu k prerušeniu poštového styku v dôsledku vojny, revolúcie, občianskych nepokojov, štrajku, prírodnej pohromy alebo iného podobného dôvodu.
-
-        - (b) Ak národný úrad alebo medzivládna organizácia, ktorým sa zásielka adresovala, uzná dôkaz za uspokojivý, odpustí oneskorený príjem, ale len vtedy, keď účastník uspokojivo preukáže, že zásielku podal na poštovú prepravu do piatich dní po obnovení poštového styku. Pravidlo 82.1 (c) platí primerane.
+      - 82.2. (zrušené)
 
     - PRAVIDLO 82 bis OSPRAVEDLNENIE NEDODRŽANIA LEHOTY URČENÝM ALEBO ZVOLENÝM ŠTÁTOM
 
@@ -3267,6 +3257,16 @@
         - (c) Určený alebo zvolený úrad nebude konať o medzinárodnej prihláške podľa odseku (b), ak sa dátum medzinárodného podania pridelil podľa pravidla 20.3(b)(i) alebo 20.5(b) alebo bol opravený podľa pravidla 20.5(c) bez toho, aby nedal možnosť prihlasovateľovi vyjadriť sa k zamýšľanému konaniu alebo podať žiadosť podľa odseku (d) v lehote primeranej okolnostiam.
 
         - (d) Ak určený alebo zvolený úrad v súlade s odsekom (c) oznámil prihlasovateľovi, že zamýšľa konať o medzinárodnej prihláške, ako keby dátum medzinárodného podania bol opravený podľa pravidla 20.5(c), prihlasovateľ môže v oznámení predloženom tomuto úradu v lehote stanovenej podľa odseku (c) požiadať, aby sa chýbajúca časť považovala za nepredloženú na účely národného konania v tomto úrade, vtedy sa uvedená časť nepovažuje za predloženú a úrad koná o medzinárodnej prihláške, ako keby nemala opravený dátum medzinárodného podania.
+
+    - Pravidlo 82quarter Ospravedlnenie zmeškania lehôt
+
+      - 82quarter. 1 Ospravedlnenie zmeškania lehôt
+
+        - (a) Každá zainteresovaná strana môže predložiť dôkaz, že predpísaná lehota vo Vykonávacom predpise na vykonanie úkonu pred prijímacím úradom, orgánom pre medzinárodnú rešerš, orgánom špecifikovaným pre doplnkovú rešerš, orgánom pre medzinárodný predbežný prieskum alebo pred Medzinárodným úradom nebola dodržaná z dôvodu vojny, revolúcie, občianskych nepokojov, štrajku, živelnej pohromy alebo z iného podobného dôvodu v mieste, kde má zainteresovaná strana sídlo, miesto podnikania alebo pobyt a že príslušné úkony vykonala hneď, ako bolo objektívne možné.
+
+        - (b) Každý takýto dôkaz sa musí, podľa potreby, odoslať úradu, orgánu alebo Medzinárodnému úradu najneskôr do šiestich mesiacov po uplynutí lehoty, ktorá platí pre daný prípad. Ak adresát tieto okolnosti považuje za preukázané, zmeškanie lehoty sa ospravedlní.
+
+        - (c) Na ospravedlnenie zmeškania nemusí prihliadať žiadny určený alebo zvolený úrad, pred ktorým prihlasovateľ, v čase rozhodnutia o ospravedlnení zmeškania, už vykonal úkony uvedené v článku 22 alebo 39.
 
     - PRAVIDLO 83 PRÁVO VYSTUPOVAŤ PRED MEDZINÁRODNÝMI ORGÁNMI
 
