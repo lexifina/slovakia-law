@@ -24,6 +24,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - Národná banka Slovenska oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy) možnosti mimosúdneho riešenia sťažností klientov a sporov pri poskytovaní investičných služieb.“.
 
+- 8. V § 73 ods. 5 sa slová „v štáte, v ktorom sa uplatňujú požiadavky na ochranu pred legalizáciou príjmov z trestnej činnosti a pred financovaním terorizmu najmenej v rozsahu ako v členských štátoch Organizácie pre hospodársku spoluprácu a rozvoj“ nahrádzajú slovami „na území nečlenského štátu alebo pôsobia na území nečlenského štátu, ktorý im ukladá povinnosti v oblasti predchádzania a odhaľovania legalizácie a financovania terorizmu rovnocenné povinnostiam ustanoveným osobitným predpisom<sup>55a</sup>) a plnenie týchto povinností podlieha dohľadu“.
+
+- 9. V § 73d ods. 4 sa slová „Poskytnutie informácií môže byť odložené podľa odseku 2 až do času“ nahrádzajú slovami „Poskytnutie informácií podľa odseku 2 môže byť odložené až od času“.
+
 - 10. V § 74 ods. 5 písm. c) sa za slová „devízového rizika“ vkladajú čiarka a slová „rizika vysporiadania obchodu“.
 
 - 11. V § 78a ods. 4 druhá veta znie: „Národná banka Slovenska túto informáciu zverejní na svojom webovom sídle a oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).“.
@@ -36,11 +40,143 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 14. V § 107a ods. 9 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „Európskemu výboru pre systémové riziká a Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).“.
 
+- 15. Nadpis § 109 znie:
+
+- „Ochrana údajov“.
+
+- 16. V § 109 ods. 1 sa slovo „utajovať“ nahrádza slovom „chrániť“.
+
+- 17. V § 110 ods. 1 sa slovo „utajovaných“ nahrádza slovom „chránených“.
+
 - 18. V § 110 odsek 6 znie:
 
 - „(6)
 
 - Porušením povinnosti podľa § 109 ods. 1 nie je poskytnutie údajov z evidencie centrálneho depozitára členovi alebo inej právnickej osobe, ktorej predmetom činnosti je poskytovanie služieb zabezpečujúcich tlač, obálkovanie, triedenie a distribúciu dokumentov alebo poskytovanie obdobných služieb, ktorú centrálny depozitár poveril vyhotovením, spracovaním alebo odovzdaním výpisov z účtu majiteľa alebo iných dokumentov, ktoré je centrálny depozitár povinný pri zabezpečovaní svojej činnosti vyhotoviť, spracovať alebo odovzdať majiteľovi účtu. Člen alebo poverená právnická osoba, ktorej predmetom činnosti je poskytovanie služieb zabezpečujúcich tlač, obálkovanie, triedenie a distribúciu dokumentov alebo poskytovanie obdobných služieb, môže poskytnuté údaje použiť len na účely vykonávania činnosti, na ktorú ju poveril centrálny depozitár, a je povinná ochraňovať poskytnuté údaje v rovnakom rozsahu ako centrálny depozitár. Centrálny depozitár môže poveriť iba takú právnickú osobu, ktorá vykonáva činnosti podliehajúce udeleniu potvrdenia o priemyselnej bezpečnosti podľa osobitného zákona<sup>97a</sup>) a také potvrdenie jej už bolo vydané.“.
+
+- 19. V § 120 ods. 3 písm. b) sa číslo „100“ nahrádza číslom „150“.
+
+- 20. V § 120 ods. 3 písm. c) a d) sa suma „50 000 eur“ nahrádza sumou „100 000 eur“.
+
+- 21. V § 120 ods. 3 písm. e) sa za slovo „hodnote“ vkladajú slová „v Európskej únii“.
+
+- 22. V § 120 ods. 4 sa na konci pripája táto veta: „Povinnosť zverejniť ďalší prospekt sa nevzťahuje na následný ďalší predaj cenných papierov alebo na konečné umiestnenie cenných papierov prostredníctvom finančných sprostredkovateľov, ak je k dispozícii platný prospekt podľa § 123 a emitent alebo osoba zodpovedná za vypracovanie takého prospektu súhlasí s jeho použitím na základe písomnej dohody.“.
+
+- 23. V § 120 ods. 5 písm. b) sa na konci pripájajú tieto slová: „pričom prihliada na požiadavky právne záväzných aktov Európskej únie,“.
+
+- 24. V § 120 ods. 5 písmeno c) znie:
+
+- „c)
+
+- cenných papierov, ktoré sú ponúkané, pridelené alebo ktoré majú byť pridelené pri zlúčení, splynutí alebo rozdelení, ak bol sprístupnený dokument obsahujúci informácie, ktoré Národná banka Slovenska považuje za rovnocenné s údajmi v prospekte, pričom prihliada na požiadavky právne záväzných aktov Európskej únie,“.
+
+- 25. V § 120 ods. 5 písm. d) sa vypúšťajú slová „akcií ponúkaných bezodplatne doterajším akcionárom alebo“.
+
+- 26. V § 120 ods. 5 písmeno e) znie:
+
+- „e)
+
+- cenných papierov, ktoré sú ponúkané, pridelené alebo ktoré majú byť pridelené doterajším alebo bývalým členom štatutárnych orgánov, dozorných orgánov alebo riadiacich orgánov alebo zamestnancom ich zamestnávateľom, alebo pridruženým podnikom, ak majú sídlo alebo ústredie v Európskej únii a ak bol sprístupnený dokument obsahujúci informácie o počte cenných papierov, druhu cenných papierov, dôvodoch a podrobnostiach ponuky týchto cenných papierov.“.
+
+- Poznámka pod čiarou k odkazu 102c sa vypúšťa.
+
+- 27. V § 120 odsek 6 znie:
+
+- „(6)
+
+- Kvalifikovaným investorom sa na účely tohto zákona rozumie profesionálny klient alebo oprávnená protistrana; kvalifikovaným investorom nie je osoba, ktorá požiadala, aby sa s ňou na účely tohto zákona zaobchádzalo ako s neprofesionálnym klientom. Obchodník s cennými papiermi a úverová inštitúcia informujú emitenta na základe jeho žiadosti o zaradení klientov podľa § 8a; tým nie sú dotknuté ustanovenia osobitného zákona.<sup>108a</sup>)“.
+
+- 28. V § 120 odseky 8 až 10 znejú:
+
+- „(8)
+
+- Kľúčovými informáciami sú na účely tohto zákona podstatné a primerane štruktúrované informácie, ktoré sa majú poskytnúť investorom s cieľom umožniť im pochopiť charakter a riziká emitenta, osoby, ktorá prevzala záruku za splatenie cenných papierov alebo výnosov, a cenných papierov, ktoré sú im ponúkané alebo ktoré sú prijímané na obchodovanie na regulovanom trhu, a rozhodnúť sa, ktoré verejné ponuky cenných papierov ďalej zvažovať; tým nie je dotknuté ustanovenie § 121 ods. 2 písm. b). Kľúčové informácie zahŕňajú
+
+- a)
+
+- stručný opis rizík súvisiacich s emitentom a prípadnou osobou, ktorá prevzala záruku za splatenie cenných papierov alebo výnosov, a stručný opis podstatných charakteristík emitenta a prípadnej osoby, ktorá prevzala záruku za splatenie cenných papierov alebo výnosov vrátane aktív, pasív a ich finančnej situácie,
+
+- b)
+
+- stručný opis rizík súvisiacich s investovaním do príslušných cenných papierov a podstatných charakteristík investovania do príslušných cenných papierov vrátane akýchkoľvek práv spojených s cennými papiermi,
+
+- c)
+
+- všeobecné podmienky verejnej ponuky cenných papierov vrátane odhadovaných nákladov účtovaných investorovi emitentom, fyzickou osobou alebo právnickou osobou, ktorá uskutočňuje verejnú ponuku cenných papierov (ďalej len „vyhlasovateľ verejnej ponuky cenných papierov“),
+
+- d)
+
+- podrobnosti o prijatí na obchodovanie,
+
+- e)
+
+- dôvody verejnej ponuky cenných papierov a použitia výnosu.
+
+- (9)
+
+- Spoločnosťou s nižšou trhovou kapitalizáciou sa na účely tohto zákona rozumie spoločnosť, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu, ktorá mala priemernú trhovú kapitalizáciu na báze koncoročných kotácií za predchádzajúce tri kalendárne roky nižšiu ako 100 000 000 eur.
+
+- (10)
+
+- Ustanovenie odseku 5 písm. e) sa vzťahuje aj na spoločnosti založené mimo územia členských štátov, ktorých cenné papiere sú prijaté na obchodovanie na regulovanom trhu alebo na trhu v nečlenskom štáte. Ak sú cenné papiere podľa prvej vety prijaté na obchodovanie na trhu v nečlenskom štáte, ustanovenie odseku 5 písm. e) sa použije, ak sú k dispozícii primerané informácie vrátane dokumentu podľa odseku 5 písm. e) aspoň v jazyku bežne používanom v oblasti medzinárodných financií a Komisia prijala rozhodnutie o rovnocennosti v súvislosti s trhom príslušného nečlenského štátu na základe žiadosti Národnej banky Slovenska alebo príslušného orgánu iného členského štátu.“.
+
+- 29. § 120 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Národná banka Slovenska uvedie v žiadosti podľa odseku 10 dôvody, na základe ktorých usúdi, že právny rámec a rámec dohľadu príslušného nečlenského štátu na účely podľa odseku 10 možno považovať za rovnocenný, a poskytne Komisii na tento účel potrebné informácie, pričom zohľadní najmä splnenie týchto podmienok:
+
+- a)
+
+- činnosť trhov nečlenského štátu podlieha povoleniam a je nad nimi vykonávaný priebežný a účinný dohľad,
+
+- b)
+
+- trhy nečlenského štátu majú jasné a transparentné pravidlá týkajúce sa prijímania cenných papierov na obchodovanie, ktoré umožňujú, aby tieto cenné papiere mohli byť obchodované spravodlivým, riadnym a efektívnym spôsobom a boli voľne obchodovateľné,
+
+- c)
+
+- emitenti cenných papierov podliehajú pravidelným a priebežným informačným požiadavkám, čím sa zabezpečuje vysoká úroveň ochrany investorov,
+
+- d)
+
+- transparentnosť a integrita trhu sú zabezpečené zabránením zneužívania trhu na základe obchodovania s využitím dôverných informácií a manipulácie s trhom.“.
+
+- 30. V § 121 ods. 2 sa prvá veta nahrádza textom, ktorý znie:
+
+- „Prospekt musí obsahovať údaje o emitentovi, údaje o cenných papieroch, ktoré sú predmetom verejnej ponuky cenných papierov alebo prijímania na obchodovanie na regulovanom trhu, a súhrn prospektu (ďalej len „súhrn“), v ktorom sa v stručnosti a všeobecne zrozumiteľným spôsobom uvedú kľúčové informácie v jazyku, v ktorom bol prospekt pôvodne vypracovaný. Forma a obsah súhrnu musia poskytnúť v spojení s prospektom primerané informácie o základnej charakteristike príslušných cenných papierov s cieľom pomôcť investorom pri rozhodovaní o investovaní do týchto cenných papierov. Súhrn musí byť vypracovaný v štandardizovanom formáte, aby sa uľahčilo porovnávanie súhrnov podobných typov cenných papierov, a jeho obsah by mal poskytovať kľúčové informácie o príslušných cenných papieroch s cieľom pomôcť investorom pri rozhodovaní sa o investovaní do týchto cenných papierov.“.
+
+- 31. V § 121 ods. 3 sa suma „50 000 eur“ nahrádza sumou „100 000 eur“, bodkočiarka sa nahrádza bodkou a vypúšťajú sa slová „to neplatí, ak poskytnutie súhrnu vyplýva z § 125f ods. 5.“.
+
+- 32. V § 121 ods. 4 sa vypúšťajú bodkočiarka a slová „tým nie je dotknuté ustanovenie odseku 5“.
+
+- 33. V § 121 odsek 10 znie:
+
+- „(10)
+
+- Ak základný prospekt ani jeho dodatok neobsahujú konečné podmienky verejnej ponuky cenných papierov, emitent pri každej verejnej ponuke cenných papierov sprístupní konečné podmienky investorom, predloží ich Národnej banke Slovenska a oznámi ich príslušným orgánom hostiteľských členských štátov emitenta čo najskôr, a ak je to možné, pred začatím verejnej ponuky cenných papierov. V takom prípade musia byť uvedené v prospekte údaje podľa § 122 ods. 1. Konečné podmienky obsahujú len informácie, ktoré sa týkajú opisu cenných papierov a nemožno ich použiť na aktualizáciu základného prospektu.“.
+
+- 34. V § 121 ods. 12 sa slová „fyzická osoba alebo právnická osoba, ktorá uskutočňuje verejnú ponuku cenných papierov (ďalej len „vyhlasovateľ verejnej ponuky cenných papierov“)“ nahrádzajú slovami „vyhlasovateľ verejnej ponuky cenných papierov“.
+
+- 35. V § 121 ods. 13 sa za slovo „zodpovedá“ vkladá slovo „len“ a na konci sa bodka nahrádza čiarkou a pripája sa tento text: „alebo neobsahuje v spojení s inými časťami prospektu kľúčové informácie, ktoré majú investorom pomôcť pri rozhodovaní sa o investovaní do takých cenných papierov. Súhrn musí obsahovať jednoznačné upozornenie o rozsahu zodpovednosti za súhrn.“.
+
+- 36. § 122 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ak za splatenie cenných papierov alebo výnosov prevzal záruku členský štát, je pri vypracovaní prospektu podľa § 125h ods. 2 možné vynechať údaje o osobe, ktorá prevzala záruky za splatenie cenných papierov alebo výnosov.“.
+
+- 37. V § 123 ods. 1 sa slová „prvého zverejnenia“ nahrádzajú slovami „schválenia na účel verejnej ponuky cenných papierov alebo prijatia cenných papierov na obchodovanie na regulovanom trhu“.
+
+- 38. V § 123 odsek 2 znie:
+
+- „(2)
+
+- Pri ponukovom programe je vopred schválený a predložený základný prospekt platný najviac 12 mesiacov.“.
+
+- 39. V § 123 ods. 4 sa slovo „zverejnenia“ nahrádza slovom „schválenia“ a druhá veta znie: „Registračný dokument aktualizovaný podľa § 124 ods. 2 alebo podľa § 125c, spolu s opisom cenných papierov a so súhrnným dokumentom tvoria platný prospekt.“.
+
+- 40. V § 124 ods. 2 prvá veta znie: „Opis cenných papierov podľa odseku 1 obsahuje aj údaje, ktoré by obvykle boli uvedené v registračnom dokumente, ak od poslednej aktualizácie registračného dokumentu nastala významná zmena alebo vznikli nové skutočnosti, ktoré by mohli ovplyvniť správne hodnotenie investormi; to neplatí, ak sú tieto informácie poskytnuté prostredníctvom dodatku k prospektu podľa § 125c.“.
 
 - 41. V § 125 odsek 8 znie:
 
@@ -58,17 +194,51 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - Doterajší odsek 10 sa označuje ako odsek 11.
 
+- 44. V § 125 ods. 11 sa číslo „9“ nahrádza číslom „10“.
+
+- 45. V § 125a ods. 2 písm. c) za slovom „emitenta“ sa čiarka nahrádza slovom „alebo“.
+
+- 46. V § 125a odsek 3 znie:
+
+- „(3)
+
+- Emitent alebo osoba zodpovedná za vypracovanie prospektu, ktorá ho zverejní podľa odseku 2 písm. a) alebo písm. b), je povinná zverejniť prospekt aj spôsobom podľa odseku 2 písm. c).“.
+
+- 47. V § 125c odsek 1 znie:
+
+- „(1)
+
+- Každá nová významná skutočnosť, podstatná chyba alebo podstatná nepresnosť týkajúca sa údajov zahrnutých do prospektu, ktorá by mohla ovplyvniť hodnotenie cenných papierov a ktorá vznikne alebo sa zistí v období medzi schválením prospektu a záverečným uzatvorením verejnej ponuky cenných papierov alebo začiatkom obchodovania na regulovanom trhu, podľa toho, čo nastane neskôr, sa musí uviesť v dodatku k prospektu.“.
+
+- 48. V § 125c odsek 5 znie:
+
+- „(5)
+
+- Investori, ktorí prijali ponuku na nákup alebo upísanie cenných papierov na základe prospektu týkajúceho sa verejnej ponuky cenných papierov pred zverejnením dodatku k prospektu, majú právo odstúpiť od prijatia ponuky na nákup alebo upísanie cenných papierov, a to do dvoch pracovných dní po zverejnení dodatku k prospektu, ak sa nová významná skutočnosť, podstatná chyba alebo podstatná nepresnosť podľa odseku 1 vyskytne pred záverečným uzatvorením verejnej ponuky cenných papierov a dodaním cenných papierov. Lehotu podľa prvej vety môže predĺžiť emitent alebo vyhlasovateľ verejnej ponuky cenných papierov. Konečný termín práva na odstúpenie od prijatia ponuky na nákup alebo upísanie cenných papierov sa určí v dodatku k prospektu.“.
+
 - 49. V § 125d ods. 1 sa slová „bol príslušný orgán dohľadu každého hostiteľského členského štátu informovaný“ nahrádzajú slovami „boli Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a príslušný orgán dohľadu každého hostiteľského členského štátu informovaní“.
 
 - 50. V § 125d ods. 3 sa za slovo „emitenta“ vkladajú slová „alebo Európskym orgánom dohľadu (Európskym orgánom pre cenné papiere a trhy)“ a slová „vecné chyby alebo nepresnosti“ sa nahrádzajú slovami „podstatné chyby alebo podstatné nepresnosti“.
 
+- 51. V § 125d ods. 5 písm. b) sa na začiatku vkladajú tieto slová: „podľa voľby emitenta“.
+
 - 52. V § 125e ods. 1 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „Národná banka Slovenska poskytne potvrdenie o schválení prospektu v rovnakom čase aj žiadateľovi a Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).“.
+
+- 53. V § 125e ods. 2 sa za slovo „súhrnu“ vkladá čiarka a slová „vypracovaného emitentom alebo osobou zodpovednou za vypracovanie prospektu“ sa nahrádzajú slovami „ktorý vypracuje a za ktorý zodpovedá emitent alebo osoba zodpovedná za vypracovanie prospektu“.
 
 - 54. § 125e sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
 
 - Národná banka Slovenska uverejní na svojom webovom sídle zoznam potvrdení o schválení prospektov vrátane ich dodatkov, ktoré jej boli oznámené príslušným orgánom domovského členského štátu emitenta, vrátane elektronických odkazov na tieto dokumenty uverejnené na webovom sídle príslušného orgánu domovského členského štátu emitenta, webovom sídle emitenta alebo na webovom sídle regulovaného trhu. Zoznam podľa prvej vety Národná banka Slovenska priebežne aktualizuje; každá položka v zozname musí zostať uverejnená na webovom sídle najmenej 12 mesiacov.“.
+
+- 55. V § 125f ods. 5 sa suma „50 000 eur“ nahrádza sumou „100 000 eur“ a za slovo „Súhrn“ sa vkladajú čiarka a slová „ak bol vypracovaný,“.
+
+- 56. V § 125h ods. 1 písm. h) sa za slovo „ponuky“ vkladajú slová „v Európskej únii“, suma „50 000 000 eur“ sa nahrádza sumou „75 000 000 eur“ a slovo „limit“ sa nahrádza slovami „táto hodnota“.
+
+- 57. V § 125h ods. 1 písm. i) sa slová „2 500 000 eur“ nahrádzajú slovami „5 000 000 eur v Európskej únii“.
+
+- 58. V § 125h ods. 3 sa suma „2 500 000 eur“ nahrádza sumou „5 000 000 eur“.
 
 - 59. V § 135 ods. 7 sa na konci pripája táto veta:
 
@@ -97,6 +267,8 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - Ak emitent alebo osoba zodpovedná za uskutočnenie verejnej ponuky cenných papierov napriek opatreniam prijatým príslušným orgánom dohľadu domovského členského štátu emitenta naďalej porušuje všeobecne záväzné právne predpisy alebo iné podmienky činnosti alebo ak sa tieto opatrenia preukážu ako nedostatočné, Národná banka Slovenska môže po informovaní príslušného orgánu dohľadu domovského členského štátu emitenta a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) prijať všetky potrebné opatrenia na ochranu investorov. Národná banka Slovenska je povinná bezodkladne po prijatí týchto opatrení informovať Komisiu a Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy).“.
 
 - 65. V § 135b ods. 4 sa na konci pripájajú tieto slová: „a Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy)“.
+
+- 66. V § 135b ods. 5 sa za slovo „Ak“ vkladajú slová „emitent alebo“.
 
 - 67. § 135b sa dopĺňa odsekmi 6 a 7, ktoré znejú:
 
@@ -210,6 +382,10 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 76. Príloha sa dopĺňa bodmi 23 a 24, ktoré znejú:
 
-- „24.
+- „23.
+
+- Smernica Európskeho parlamentu a Rady 2010/73/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2003/71/ES o prospekte, ktorý sa zverejňuje pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie, a 2004/109/ES o harmonizácii požiadaviek na transparentnosť v súvislosti s informáciami o emitentoch, ktorých cenné papiere sú prijaté na obchodovanie na regulovanom trhu (Ú. v. EÚ L 327, 11. 12. 2010).
+
+- 24.
 
 - Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).“.
