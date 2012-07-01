@@ -46,4 +46,6 @@ Príloha k zákonu č. 566/2001 Z. z.
 
   - 22. Smernica Európskeho parlamentu a Rady 2010/76/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2006/48/ES a 2006/49/ES, pokiaľ ide o kapitálové požiadavky na obchodnú knihu a na resekuritizácie a preverovanie politík odmeňovania orgánmi dohľadu (Ú. v. EÚ L 329, 14. 12. 2010).
 
+  - 23. Smernica Európskeho parlamentu a Rady 2010/73/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 2003/71/ES o prospekte, ktorý sa zverejňuje pri verejnej ponuke cenných papierov alebo ich prijatí na obchodovanie, a 2004/109/ES o harmonizácii požiadaviek na transparentnosť v súvislosti s informáciami o emitentoch, ktorých cenné papiere sú prijaté na obchodovanie na regulovanom trhu (Ú. v. EÚ L 327, 11. 12. 2010).
+
   - 24. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).

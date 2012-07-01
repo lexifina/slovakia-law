@@ -18,7 +18,7 @@
 
 (3) Informácie podľa odsekov 1, 2 a 6 až 8 v prípade neprofesionálneho klienta alebo podľa odsekov 6 a 7 v prípade profesionálneho klienta musia byť poskytnuté v dostatočnom časovom predstihu pred poskytnutím príslušnej investičnej služby alebo vedľajšej služby na trvanlivom médiu alebo prostredníctvom webového sídla spĺňajúcej podmienky podľa § 73v. Informácie môžu byť poskytované aj v štandardizovanej forme.
 
-(4) Poskytnutie informácií môže byť odložené podľa odseku 2 až do času, keď bude tento klient viazaný zmluvou o poskytnutí investičných služieb alebo vedľajších služieb podľa odseku 1 až do začatia poskytovania služby a to v týchto prípadoch, ak
+(4) Poskytnutie informácií podľa odseku 2 môže byť odložené až od času, keď bude tento klient viazaný zmluvou o poskytnutí investičných služieb alebo vedľajších služieb podľa odseku 1 až do začatia poskytovania služby a to v týchto prípadoch, ak
 
 - a) obchodník s cennými papiermi nemôže dodržať lehoty podľa odseku 3, pretože zmluva bola na žiadosť klienta uzatvorená prostredníctvom prostriedkov diaľkovej komunikácie, ktoré neumožňujú poskytnutie informácie podľa odseku 1 alebo 2,
 

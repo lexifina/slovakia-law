@@ -8,13 +8,13 @@
 
 - b) sprístupnenie v písomnej forme bezplatne v prevádzkových priestoroch regulovaného trhu, na ktorý sa cenné papiere prijímajú na obchodovanie, alebo v sídle emitenta a v prevádzkových priestoroch finančných inštitúcií umiestňujúcich alebo predávajúcich cenné papiere a v prevádzkových priestoroch osôb zabezpečujúcich splácanie menovitej hodnoty cenných papierov a vyplácanie výnosov z cenných papierov,
 
-- c) sprístupnenie v elektronickej forme na webovom sídle emitenta, na webovom sídle finančných inštitúcií umiestňujúcich alebo predávajúcich cenné papiere a na webovom sídle osôb zabezpečujúcich splácanie menovitej hodnoty cenných papierov a vyplácanie výnosov z cenných papierov,
+- c) sprístupnenie v elektronickej forme na webovom sídle emitenta alebo na webovom sídle finančných inštitúcií umiestňujúcich alebo predávajúcich cenné papiere a na webovom sídle osôb zabezpečujúcich splácanie menovitej hodnoty cenných papierov a vyplácanie výnosov z cenných papierov,
 
 - d) sprístupnenie v elektronickej forme na webovom sídle regulovaného trhu, na ktorom sa žiada o prijatie na obchodovanie, alebo
 
 - e) sprístupnenie v elektronickej forme na webovom sídle Národnej banky Slovenska, ak sa Národná banka Slovenska rozhodla poskytovať takúto službu.
 
-(3) Emitent, ktorý zverejnil prospekt podľa odseku 2 písm. a) alebo b), je povinný zverejniť prospekt aj spôsobom podľa odseku 2 písm. c), ak sú predmetom verejnej ponuky cenné papiere v celkovej hodnote vyššej ako 20 000 000 eur.
+(3) Emitent alebo osoba zodpovedná za vypracovanie prospektu, ktorá ho zverejní podľa odseku 2 písm. a) alebo písm. b), je povinná zverejniť prospekt aj spôsobom podľa odseku 2 písm. c).
 
 (4) V prípadoch podľa odseku 2 písm. b) až e) je emitent, vyhlasovateľ verejnej ponuky cenných papierov alebo osoba žiadajúca o prijatie na obchodovanie na regulovanom trhu povinná oznámiť v dennej tlači s celoštátnou pôsobnosťou alebo dostatočným rozšírením v členských štátoch, v ktorých sa verejná ponuka cenných papierov uskutočňuje alebo sa žiada o prijatie na obchodovanie na regulovanom trhu, zverejnenie prospektu a miesto, kde ho možno získať.
 

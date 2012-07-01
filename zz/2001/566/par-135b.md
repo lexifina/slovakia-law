@@ -8,7 +8,7 @@
 
 (4) Ak príslušný orgán dohľadu hostiteľského členského štátu emitenta oznámi Národnej banke Slovenska, že osoba zodpovedná za verejnú ponuku cenných papierov na území hostiteľského členského štátu emitenta porušuje právne predpisy alebo podmienky činnosti, Národná banka Slovenska prijme potrebné opatrenia na ukončenie protiprávneho stavu. Prijaté opatrenia Národná banka Slovenska bezodkladne oznámi príslušnému orgánu dohľadu hostiteľského členského štátu emitenta a Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).
 
-(5) Ak osoba zodpovedná za verejnú ponuku cenných papierov pri činnosti na území hostiteľského členského štátu emitenta poruší právne predpisy tohto členského štátu alebo podmienky činnosti, je povinná vykonať alebo strpieť aj opatrenia prijaté príslušným orgánom dohľadu hostiteľského členského štátu emitenta v súlade s právnymi predpismi tohto členského štátu.
+(5) Ak emitent alebo osoba zodpovedná za verejnú ponuku cenných papierov pri činnosti na území hostiteľského členského štátu emitenta poruší právne predpisy tohto členského štátu alebo podmienky činnosti, je povinná vykonať alebo strpieť aj opatrenia prijaté príslušným orgánom dohľadu hostiteľského členského štátu emitenta v súlade s právnymi predpismi tohto členského štátu.
 
 (6) Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) je oprávnený zúčastniť sa dohľadu na mieste v súvislosti s dodržiavaním ustanovení tohto zákona o verejnej ponuke cenných papierov a prospektoch, ak je výkon dohľadu vykonávaný aj jedným alebo viacerými orgánmi dohľadu iných členských štátov podľa osobitného predpisu.<sup>108b</sup>)
 

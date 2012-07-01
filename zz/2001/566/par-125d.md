@@ -14,7 +14,7 @@
 
 - a) pre emitentov so sídlom v členskom štáte, ktorí nie sú uvedení v písmene b), členský štát, v ktorom má emitent sídlo,
 
-- b) členský štát, v ktorom má emitent svoje sídlo alebo v ktorom cenné papiere boli alebo sa majú prijať na obchodovanie na regulovanom trhu alebo v ktorom sa cenné papiere verejne ponúkajú pre emisie nekapitálových cenných papierov,
+- b) podľa voľby emitenta členský štát, v ktorom má emitent svoje sídlo alebo v ktorom cenné papiere boli alebo sa majú prijať na obchodovanie na regulovanom trhu alebo v ktorom sa cenné papiere verejne ponúkajú pre emisie nekapitálových cenných papierov,
 
   - 1. ktorých menovitá hodnota na jeden cenný papier zodpovedá sume najmenej 1 000 eur a
 
