@@ -98,11 +98,9 @@
 
 - 32) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
-- 32a) § 217 Obchodného zákonníka.
+- 32a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 70 až 75a Obchodného zákonníka.
 
 - 32b) § 27 ods. 8 písm. b) tretí bod zákona č. 580/2004 Z. z.
-
-- 32c) § 27a ods. 9 písm. b) tretí bod zákona č. 580/2004 Z. z.
 
 - 33) § 67 Obchodného zákonníka.
 
@@ -118,9 +116,15 @@
 
 - 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
+- 35aaa) § 28 ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
+
+- 35aab) § 27 ods. 2 a § 27a ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
+
+- 35c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 36) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
@@ -140,11 +144,11 @@
 
 - 39a) § 10 ods. 11 a 12 zákona č. 580/2004 Z. z. v znení zákona č. 121/2010 Z. z.
 
-- 39b) § 23 ods. 9 písm. d), § 27, § 27a a 28 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
-
 - 39c) § 27 ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 39d) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 39e) § 28 ods. 8 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
 
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
