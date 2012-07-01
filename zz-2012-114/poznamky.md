@@ -1,0 +1,1 @@
+- 1) § 26 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
