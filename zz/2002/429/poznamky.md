@@ -26,6 +26,8 @@
 
 - 11b) § 535 Občianskeho zákonníka.
 
+- 11c) § 125d ods. 5 písm. c) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 13) § 8 písm. e) zákona č. 566/2001 Z. z.
@@ -70,7 +72,7 @@
 
 - 25) § 2 ods. 1 písm. b), c) a d) a § 4 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- § 10 zákona č. 367/2000 Z. z.
+- Zákon č. 297/2008 Z. z. v znení neskorších predpisov.
 
 - 26) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.Zákon č. 238/2001 Z. z. Colný zákon v znení zákona č. 553/2001 Z. z.
 
@@ -86,7 +88,7 @@
 
 - 32) § 114 zákona č. 566/2001 Z. z.
 
-- 33) § 118 zákona č. 566/2001 Z. z.
+- 33) § 118g zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 34) § 54, 65 a 66 zákona č. 566/2001 Z. z.
 
@@ -116,9 +118,9 @@
 
 - 36) § 99 ods. 3 písm. h) a § 103 ods. 2 písm. k) zákona č. 566/2001 Z. z.
 
-- 37) Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní v znení zákona č. 448/2001 Z. z.
+- 37) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov.
 
-- 38) § 8 zákona Národnej rady Slovenskej republiky č. 218/1996 Z. z.
+- 38) § 12 zákona č. 244/2002 Z. z. v znení zákona č. 521/2005 Z. z.
 
 - 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, Obchodný zákonník, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, nariadenie Komisie (ES) č. 1287/2006/ES.
 
@@ -144,7 +146,7 @@
 
 - 51a) § 125a zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
-- 52) § 20 zákona č. 563/1991 Zb. o účtovníctve v znení zákona č. 366/1999 Z. z.
+- 52) § 17 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 53) § 160 Obchodného zákonníka.
 
@@ -166,8 +168,6 @@
 
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
 
-- 55a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Ú. v. Európskych spoločenstiev L 243, 11.09.2002).
-
 - 56) § 28 ods. 3 písm. e) a f) zákona č. 566/2001 Z. z.
 
 - 57) § 119 zákona č. 566/2001 Z. z.
@@ -182,6 +182,6 @@
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
-- 71) § 34 zákona č. 96/2002 Z. z.
+- 71) § 25 zákona č. 747/2004 Z. z.
 
 - 72) § 247 až 250k Občianskeho súdneho poriadku.
