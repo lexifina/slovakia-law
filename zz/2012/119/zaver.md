@@ -1,0 +1,1 @@
+Jozef Mihál v. r.
