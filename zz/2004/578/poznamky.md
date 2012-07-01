@@ -198,7 +198,7 @@
 
 - 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
-- 60a) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+- 60a) § 119 ods. 3 Zákonníka práce.
 
 - 60b) § 85 Zákonníka práce.
 

@@ -1,5 +1,3 @@
-## Osobitné ustanovenia o minimálnej výške základnej zložky mzdy niektorých zdravotníckych pracovníkov pracujúcich v zariadeniach ústavnej zdravotnej starostlivosti
-
 # § 80b
 
 (1) Ak má lekár a zubný lekár dohodnutý pracovný pomer na kratší pracovný čas, ako je ustanovený týždenný pracovný čas,<sup>60b</sup>) základná zložka mzdy podľa § 80a zodpovedá dohodnutému kratšiemu pracovnému času.

@@ -1,0 +1,7 @@
+## Osobitné ustanovenia o minimálnej výške základnej zložky mzdy niektorých zdravotníckych pracovníkov pracujúcich v zariadeniach ústavnej zdravotnej starostlivosti
+
+# § 80a
+
+(1) Základná zložka mzdy<sup>60a</sup>) lekára a zubného lekára [§ 27 ods. 1 písm. a) a b)] pracujúceho v pracovnom pomere na ustanovený týždenný pracovný čas v zariadení ústavnej zdravotnej starostlivosti (§ 7 ods. 4), ktorý získal odbornú spôsobilosť na výkon odborných pracovných činností (§ 33 ods. 2) a vykonáva odborné pracovné činnosti v rozsahu získaného vzdelania, je najmenej 1,20-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
+
+(2) Základná zložka mzdy<sup>60a</sup>) lekára a zubného lekára [§ 27 ods. 1 písm. a) a b)] pracujúceho v pracovnom pomere na ustanovený týždenný pracovný čas v zariadení ústavnej zdravotnej starostlivosti (§ 7 ods. 4), ktorý získal odbornú spôsobilosť na výkon špecializovaných pracovných činností (§ 33 ods. 4) v špecializačnom odbore a vykonáva špecializované pracovné činnosti v príslušnom špecializačnom odbore, je najmenej 1,90-násobku priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
