@@ -176,14 +176,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa písmena c) tejto položky je oslobodené predĺženie platnosti preukazu osobitného označenia vozidla pre ťažko zdravotne alebo ťažko pohybovo postihnutú osobu odkázanú na individuálnu prepravu. 2. Od poplatku podľa písmena a), b) a d) tejto položky sú oslobodené osoby, ktorým sa vydáva preukaz (osvedčenie) ako náhrada pri zmene nezavinenej občanom, alebo ak bola v preukaze (osvedčení) zistená chyba zapríčinená výrobcom preukazu (osvedčenia) alebo chyba zapríčinená orgánom, ktorý preukaz (osvedčenie) vydal. |
 
-    - Položka 7
-
-  - a) Žiadosť fyzickej osoby o vydanie povolenia na vstup na územie vojenského obvodu ..... | 4,50 eura
-
-  - b) Žiadosť právnickej osoby o vydanie povolenia na vstup na územie vojenského obvodu ..... | 66 eur
-
-  - Oslobodenie 1. Od poplatkov sú oslobodené fyzické osoby a právnické osoby vstupujúce na územie vojenského obvodu na účel zabezpečovania úloh v zmysle § 2 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákona, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 2. Od poplatkov sú oslobodení členovia lesnej stráže pri plnení úloh vyplývajúcich z vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 79/1995 Z. z. o lesnej stráži v znení neskorších predpisov. |
-
     - Položka 8
 
   - Vydanie potvrdenia alebo písomného oznámenia o pobyte osoby alebo vydanie písomného oznámenia o držiteľovi vozidla a jeho pobyte (sídle) | 3 eurá
@@ -460,7 +452,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Podanie žiadosti o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 33 eur
 
+  - d) Doručenie občianskeho preukazu na adresu na území Slovenskej republiky službou zavedenou na tento účel | 3 eurá
+
   - Oslobodenie 1. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie prvého občianskeho preukazu a nového občianskeho preukazu podľa § 7 ods. 2 a § 17 ods. 4 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov. 2. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. 3. Od poplatkov podľa tejto položky je oslobodené podanie žiadosti o vydanie občianskeho preukazu ako náhrady za stratený alebo odcudzený občiansky preukaz, opakovane v priebehu dvoch po sebe nasledujúcich rokoch u občanov starších ako 60 rokov veku alebo u držiteľov preukazu občana s ťažkým zdravotným postihnutím. |
+
+  - Splnomocnenie Okresné riaditeľstvo Policajného zboru vyberie poplatok vo výške 20 eur, ak vyhotovuje občiansky preukaz urýchlene do dvoch pracovných dní na žiadosť žiadateľa. |
 
     - Položka 23
 
