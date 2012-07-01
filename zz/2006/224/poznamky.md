@@ -1,5 +1,7 @@
 - 1) § 110 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) Napríklad zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 27 ods. 2 Občianskeho zákonníka.
 
 - 3) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
