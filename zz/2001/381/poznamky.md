@@ -58,6 +58,8 @@
 
 - 15c) § 86 ods. 11 a 12 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
+- 15ca) § 800 ods. 1 Občianskeho zákonníka.
+
 - 15d) § 130 ods. 5 Trestného zákona.
 
 - 16) § 14 a 52 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
