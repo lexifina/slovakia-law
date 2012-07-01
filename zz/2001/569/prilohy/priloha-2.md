@@ -8,6 +8,8 @@ Príloha č. 2 k nariadeniu vlády č. 569/2001 Z. z.
 
   - 2. Činidlá a reagenčné výrobky vrátane materiálov používaných pri kalibrovaní a kontrole určené na detekciu, potvrdenie a stanovenie obsahu v ľudských vzorkách markérov infekcie HIV (HIV 1 a 2), HTLV I a II a hepatitídy B, C a D.
 
+  - 3. Testy na variant Creutzfeldtovej-Jakobovej choroby zamerané na vyšetrenie krvi, diagnózu a potvrdenie choroby.
+
   - Zoznam B
 
   - 1. Činidlá a reagenčné výrobky vrátane materiálov používaných pri kalibrovaní a kontrole určené na stanovenie týchto krvných skupín: anti-Duffy a anti-Kidd.
