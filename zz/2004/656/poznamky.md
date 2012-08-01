@@ -20,6 +20,8 @@
 
 - 4c) Zákon č. 513/1991 Zb. Obchodný zákonník.
 
+- 4d) § 3 ods. 1 písm. c) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 5) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov v znení neskorších predpisov.
