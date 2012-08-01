@@ -112,6 +112,10 @@
 
 - 27) Napríklad nariadenie (ES) č. 1580/2007 (Ú. v. EÚ L 350, 31. 12. 2007) v platnom znení, nariadenie (ES) č. 1234/2007 (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení, nariadenie Komisie (ES) č. 952/2006 z 29. júna 2006 o spôsoboch uplatňovania nariadenia Rady (ES) č. 318/2006 v súvislosti s riadením vnútorného trhu s cukrom a s režimom kvót (Ú. v. EÚ L 178, 1. 7. 2006), nariadenie Komisie (ES) č. 967/2006 z 29. júna 2006, ktorým sa ustanovujú podrobné podmienky uplatňovania nariadenia Rady (ES) č. 318/2006 v súvislosti s výrobou mimo kvót v sektore cukru (Ú. v. EÚ L 176, 1. 7. 2006).
 
+- 27a) § 1 zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 277/2005 Z. z.
+
+- 27b) Nariadenie (ES) č. 1535/2007.
+
 - 28) § 47 ods. 7 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 29) Nariadenie Komisie (ES) č. 884/2006 z 21. júna 2006 o pravidlách uplatňovania nariadenia Rady (ES) č. 1290/2005, pokiaľ ide o financovanie intervenčných opatrení vo forme verejného skladovania Európskym poľnohospodárskym záručným fondom (EPZF) a zaúčtovanie operácií verejného skladovania platobnými agentúrami členských štátov (Ú. v. EÚ L 271, 23. 6. 2006).
