@@ -120,6 +120,10 @@
 
 - 37) Zákon č. 191/1950 Zb. zákon zmenkový a šekový.
 
+- 37a) § 15a zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2012 Z. z.
+
+- § 7 ods. 1 písm. y) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení zákona č. 223/2012 Z. z.
+
 - 38) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 39) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. v znení neskorších predpisov.
