@@ -74,9 +74,13 @@
 
 - 6f) § 19 zákona č. 656/2004 Z. z. v znení neskorších predpisov.
 
+- 6g) § 756a Obchodného zákonníka.
+
 - 7) § 14 zákona č. 656/2004 Z. z.§ 28 zákona č. 657/2004 Z. z.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 8a) § 756a ods. 2 Obchodného zákonníka.
 
 - 9) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, § 17 Obchodného zákonníka v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
