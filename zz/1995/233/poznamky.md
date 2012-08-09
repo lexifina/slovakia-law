@@ -52,6 +52,8 @@
 
 - 7) § 163 Občianskeho súdneho poriadku.
 
+- 7a) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
 - 8) Napríklad Zákonník práce, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8a) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
