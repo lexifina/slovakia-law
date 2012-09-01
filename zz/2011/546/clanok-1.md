@@ -320,6 +320,24 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 52. V § 21 ods. 6 poslednej vete sa vypúšťajú slová „podľa odseku. 5“.
 
+- 53. V § 21 ods. 7 písmeno d) znie:
+
+- „d)
+
+- desiatym dňom odo dňa uplynutia lehoty
+
+- 1.
+
+- splatnosti dane, ak splatná daň nebola odvedená a ak prevádzkovateľovi daňového skladu colný úrad upustil úplne alebo čiastočne upustil od povinnosti zložiť zábezpeku na daň podľa § 22 ods. 12,
+
+- 2.
+
+- na doplnenie zábezpeky na daň podľa § 22 ods. 7 písm. b) a c), ak zábezpeka na daň nebola doplnená v lehote podľa § 22,
+
+- 3.
+
+- určenej colným úradom podľa § 22 ods. 18 na zloženie alebo doplnenie zábezpeky na daň podľa § 22 ods. 17, ak zábezpeka na daň nebola zložená alebo doplnená v lehote určenej colným úradom,“.
+
 - 54. V § 21 ods. 8 písmeno b) znie:
 
 - „b)
@@ -332,7 +350,181 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 57. V § 21 sa vypúšťajú odseky 12 až 14.
 
+- 58. V § 22 vrátane nadpisu znie:
+
+- „§ 22
+
+- Zábezpeka na daň
+
+- (1)
+
+- Zložením zábezpeky na daň sa na účely tohto zákona rozumie
+
+- a)
+
+- vklad peňažných prostriedkov na účet colného úradu, pričom colnému úradu nevzniká povinnosť vyplatiť žiadateľovi úrok,
+
+- b)
+
+- banková záruka <sup>20</sup>) poskytnutá bankou v prospech colného úradu; bankovú záruku colný úrad neprijme, ak záručná listina obsahuje výhrady banky.
+
+- (2)
+
+- Osoba, ktorá chce prevádzkovať daňový sklad, pred vydaním povolenia na prevádzkovanie daňového skladu, je povinná zložiť zábezpeku na daň vo výške dane pripadajúcej na priemerné mesačné množstvo minerálneho oleja, ktoré predpokladá uviesť do daňového voľného obehu za obdobie 12 po sebe nasledujúcich kalendárnych mesiacov, pričom do výšky zábezpeky na daň sa započíta aj daň pripadajúca na množstvo minerálneho oleja, ktoré predpokladá uviesť do daňového voľného obehu na účely oslobodené od dane podľa § 10 ods. 1.
+
+- (3)
+
+- Prevádzkovateľ daňového skladu je povinný mať zloženú zábezpeku na daň vo výške dane pripadajúcej na priemerné mesačné množstvo minerálneho oleja, ktoré uviedol do daňového voľného obehu za obdobie predchádzajúcich 12 po sebe nasledujúcich kalendárnych mesiacov, pričom do výšky zábezpeky na daň sa započíta aj daň pripadajúca na množstvo minerálneho oleja, ktoré uviedol do daňového voľného obehu na účely oslobodené od dane podľa § 10 ods. 1.
+
+- (4)
+
+- Zábezpeka na daň sa nevzťahuje na minerálny olej osobitného určenia, ktorého vlastníkom je štát.<sup>15</sup>) Na výpočet zábezpeky na daň na minerálny olej kódu kombinovanej nomenklatúry 2711 12 až 2711 19 00 sa uplatní sadzba dane podľa § 6 ods. 1 písm. f) prvého bodu.
+
+- (5)
+
+- Osoba podľa odseku 2 a prevádzkovateľ daňového skladu podľa odseku 3 sú povinní zložiť zábezpeku na daň za všetky daňové sklady, ktoré chcú prevádzkovať; ustanovenia § 23 a 24 tým nie sú dotknuté.
+
+- (6)
+
+- Ak colný úrad povolenie na prevádzkovanie daňového skladu nevydá, bezodkladne vráti osobe podľa odseku 2 zloženú zábezpeku na daň.
+
+- (7)
+
+- Prevádzkovateľ daňového skladu je povinný sledovať výšku zloženej zábezpeky na daň a upraviť zloženú zábezpeku na daň
+
+- a)
+
+- pred začatím prepravy minerálneho oleja v pozastavení dane, ak výška zloženej zábezpeky na daň podľa odseku 3 nezodpovedá výške dane pripadajúcej na množstvo minerálneho oleja, ktoré má prepravovať v pozastavení dane vrátane množstva minerálneho oleja oslobodeného od dane podľa § 10 ods. 1, okrem zábezpeky na daň na prepravu minerálneho oleja v pozastavení dane, ktorú skladá registrovaný odosielateľ, dopravca alebo príjemca,
+
+- b)
+
+- ak daň pripadajúca na množstvo minerálneho oleja uvedeného do daňového voľného obehu za predchádzajúci kalendárny mesiac vrátane množstva minerálneho oleja oslobodeného od dane podľa § 10 ods. 1 prevyšuje o viac ako 20 % daň, ktorá pripadá na množstvo minerálneho oleja, na ktoré je zložená zábezpeka na daň, prevádzkovateľ daňového skladu je povinný zvýšiť zábezpeku na daň o sumu dane, ktorá prevyšuje zloženú zábezpeku na daň, a to v lehote do desiatich pracovných dní odo dňa vzniku tejto skutočnosti; to neplatí, ak colný úrad prevádzkovateľovi daňového skladu upustil od povinnosti zložiť zábezpeku na daň,
+
+- c)
+
+- do desiatich pracovných dní odo dňa oznámenia podľa odseku 8, a to o sumu, ktorú colný úrad použil na úhradu dane.
+
+- (8)
+
+- Ak daň nie je zaplatená v lehote splatnosti ustanovenej týmto zákonom, colný úrad zábezpeku na daň použije na úhradu dane a oznámi túto skutočnosť prevádzkovateľovi daňového skladu.
+
+- (9)
+
+- Prevádzkovateľ daňového skladu môže požiadať colný úrad alebo s písomným súhlasom colného úradu banku, ktorá poskytla bankovú záruku,<sup>20</sup>) o zníženie zloženej zábezpeky na daň. Žiadosť o zníženie zloženej zábezpeky na daň môže prevádzkovateľ daňového skladu predložiť colnému úradu, ak je zložená zábezpeka na daň vyššia o viac ako 20 % ako je súčet dane pripadajúcej na priemerné mesačné množstvo minerálneho oleja uvedeného do daňového voľného obehu vrátane množstva minerálneho oleja oslobodeného od dane podľa § 10 ods. 1 a dane pripadajúcej na priemerné mesačné množstvo stavu zásob minerálneho oleja, ktoré mal prevádzkovateľ daňového skladu v stave zásob k poslednému dňu každého kalendárneho mesiaca za obdobie predchádzajúcich 12 po sebe nasledujúcich kalendárnych mesiacov, pričom toto prevýšenie trvá najmenej tri po sebe nasledujúce kalendárne mesiace pred podaním žiadosti o zníženie zloženej zábezpeky na daň a trvá aj v čase podania žiadosti o zníženie zloženej zábezpeky na daň.
+
+- (10)
+
+- Colný úrad rozhodne o žiadosti podľa odseku 9 do 15 pracovných dní odo dňa jej podania a príslušný rozdiel môže vrátiť s prihliadnutím na stav zásob minerálneho oleja, a to do piatich pracovných dní odo dňa nadobudnutia právoplatnosti rozhodnutia o znížení zloženej zábezpeky na daň.
+
+- (11)
+
+- Prevádzkovateľ daňového skladu, ktorý je podnikom na výrobu minerálneho oleja, môže požiadať colný úrad o upustenie od povinnosti zložiť zábezpeku na daň (ďalej len „upustenie od zábezpeky“)
+
+- a)
+
+- úplne, ak je žiadateľ daňovo spoľahlivý najmenej 24 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o upustenie od zábezpeky,
+
+- b)
+
+- čiastočne vo výške 50 %, ak je žiadateľ daňovo spoľahlivý najmenej 12 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o upustenie od zábezpeky.
+
+- (12)
+
+- Colný úrad žiadosť podľa odseku 11 posúdi, a ak je prevádzkovateľ daňového skladu podľa odseku 11 daňovo spoľahlivý, colný úrad rozhodne o úplnom alebo čiastočnom upustení od zábezpeky do 60 dní odo dňa podania tejto žiadosti a určí lehotu platnosti tohto rozhodnutia, a to najviac na štyri roky odo dňa nadobudnutia právoplatnosti rozhodnutia o upustení od zábezpeky; ustanovenia § 23 a 24 tým nie sú dotknuté. Ak colný úrad rozhodne o neupustení od zábezpeky, novú žiadosť o upustenie od zábezpeky môže prevádzkovateľ daňového skladu podľa odseku 11 podať najskôr po uplynutí jedného roka odo dňa nadobudnutia právoplatnosti tohto rozhodnutia.
+
+- (13)
+
+- Prevádzkovateľ daňového skladu podľa odseku 11, ktorému colný úrad na základe žiadosti podľa odseku 11 rozhodol o upustení od zábezpeky a ktorý chce, aby mu bolo povolené upustenie od zábezpeky na ďalšie obdobie, je povinný požiadať colný úrad o upustenie od zábezpeky najneskôr 60 dní pred uplynutím platnosti rozhodnutia o upustení od zábezpeky.
+
+- (14)
+
+- Na účely tohto zákona sa za daňovo spoľahlivého považuje prevádzkovateľ daňového skladu podľa odseku 11, ktorý
+
+- a)
+
+- je vlastníkom výrobného zariadenia na výrobu minerálneho oleja, ak je žiadateľom o upustenie od zábezpeky prevádzkovateľ daňového skladu podľa odseku 11; na účely tohto zákona sa za vlastníctvo výrobného zariadenia považuje i jeho držba na základe zmluvy o kúpe prenajatej veci,
+
+- b)
+
+- vykazuje stabilnú finančnú situáciu; na účely tohto zákona sa stabilnou finančnou situáciou rozumie, ak prevádzkovateľ daňového skladu podľa odseku 11 vykazuje na základe súvahy z riadnej účtovnej závierky kladný rozdiel medzi majetkom a záväzkami,<sup>17</sup>)
+
+- c)
+
+- dodržuje podmienky podľa § 21 ods. 4,
+
+- d)
+
+- neporušuje závažným spôsobom povinnosti podľa tohto zákona a povinnosti týkajúce sa správy dane podľa osobitného predpisu.<sup>20aa</sup>)
+
+- (15)
+
+- Prílohou k žiadosti podľa odseku 11 je
+
+- a)
+
+- doklad preukazujúci vlastníctvo výrobného zariadenia alebo zmluva o kúpe prenajatej veci, ak má prevádzkovateľ daňového skladu podľa odseku 11 výrobné zariadenie v držbe na základe zmluvy o kúpe prenajatej veci,
+
+- b)
+
+- účtovná závierka za bezprostredne predchádzajúce
+
+- 1.
+
+- dve účtovné obdobia pred podaním žiadosti o úplné upustenie od zábezpeky,
+
+- 2.
+
+- jedno účtovné obdobie pred podaním žiadosti o čiastočné upustenie od zábezpeky,
+
+- c)
+
+- potvrdenie preukazujúce dodržanie podmienok podľa odseku 14 písm. c)
+
+- 1.
+
+- najmenej 24 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o úplné upustenie od zábezpeky,
+
+- 2.
+
+- najmenej 12 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o čiastočné upustenie od zábezpeky.
+
+- (16)
+
+- Prevádzkovateľ daňového skladu podľa odseku 11 je povinný na požiadanie colného úradu spresniť údaje uvedené v žiadosti podľa odseku 11 a v prílohách k žiadosti podľa odseku 15.
+
+- (17)
+
+- Colný úrad vyzve prevádzkovateľa daňového skladu podľa odseku 11, ktorému čiastočne alebo úplne upustil od zábezpeky podľa odseku 12, aby zábezpeku na daň zložil alebo ju doplnil v určenej lehote, ktorá nesmie byť kratšia ako 15 dní a dlhšia ako 30 dní, ak zistil, že
+
+- a)
+
+- prevádzkovateľ daňového skladu podľa odseku 11 má nedoplatky
+
+- 1.
+
+- voči colnému úradu alebo daňovému úradu viac ako päť dní,
+
+- 2.
+
+- na povinných odvodoch poistného podľa osobitných predpisov,<sup>19</sup>)
+
+- b)
+
+- nastali iné okolnosti, na základe ktorých možno odôvodnene predpokladať, že prevádzkovateľ daňového skladu podľa odseku 11 nesplní riadne a včas svoju povinnosť zaplatiť daň podľa tohto zákona.
+
+- (18)
+
+- Ak colný úrad určil lehotu na zloženie alebo doplnenie zábezpeky na daň, prevádzkovateľ daňového skladu je povinný zábezpeku na daň zložiť alebo doplniť v lehote a vo výške určenej colným úradom.“.
+
+- Poznámka pod čiarou k odkazu 20aa znie:
+
+- „20aa)
+
+- Zákon č. 563/2009 Z. z.“.
+
 - 59. V § 23 ods. 9 prvej vete na konci a v § 24 ods. 8 prvej vete na konci sa bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „správa o prijatí musí byť podpísaná zaručeným elektronickým podpisom,<sup>20b</sup>) ak sa odosielateľ (dodávateľ) alebo príjemca (odberateľ) s colným úradom nedohodnú inak.“.
+
+- 60. V § 23 ods. 12 a § 24 ods. 12 sa slová „§ 22 ods. 1“ nahrádzajú slovami „§ 22 ods. 2 alebo ods. 3“.
 
 - 61. V § 24 ods. 12 piatej vete sa vypúšťajú slová „dopravca alebo“.
 
@@ -347,6 +539,8 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - „c)
 
 - nemá nedoplatky voči colnému úradu ani daňovému úradu,“.
+
+- 65. V § 25 ods. 6 a 8 sa slová „ods. 5“ nahrádzajú slovami „ods. 1“.
 
 - 66. V § 25 odsek 7 znie:
 
@@ -530,11 +724,15 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - Na daňové priznanie sa použije § 14 primerane.“.
 
+- 73. V § 29 ods. 3 sa slová „ods. 1“ nahrádzajú slovami „ods. 3“.
+
 - 74. Poznámky pod čiarou k odkazom 21 až 25 sa vypúšťajú.
 
 - 75. V § 31 ods. 3 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Platiteľ dane podľa § 14 ods. 2 pri vzniku daňovej povinnosti podá daňové priznanie a zaplatí daň najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť.“.
 
 - 76. V § 31 ods. 9 sa slová „po uskutočnení dodávky je možné podať colnému úradu žiadosť o vrátenie dane podľa § 15 ods. 6“ nahrádzajú slovami „na vrátenie dane sa použije § 15 primerane“.
+
+- 77. V § 34 ods. 6 sa slová „(§ 22 ods. 11)“ nahrádzajú slovami „podľa § 22“.
 
 - 78. V § 34 ods. 10 tretia veta znie: „Na vrátenie dane sa použije § 15 primerane.“.
 
@@ -614,6 +812,12 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - použije minerálny olej uvedený v § 6 ods. 1 písm. g) ako pohonnú látku alebo ako palivo.“.
 
+- 90. V § 42 sa odsek 1 dopĺňa písmenom m), ktoré znie:
+
+- „m)
+
+- nezaplatí daň v lehote splatnosti ustanovenej týmto zákonom a colný úrad použije na úhradu dane zábezpeku na daň; uvedené sa neuplatní, ak sa postupuje podľa § 25 ods. 9, § 31 ods. 5 alebo § 34 ods. 5.“.
+
 - 91. V § 42 sa odsek 1 dopĺňa písmenom n), ktoré znie:
 
 - „n)
@@ -625,6 +829,12 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - „m)
 
 - podľa odseku 1 písm. l) vo výške 50 % dane, ktorá sa vypočíta ako súčin sadzby dane podľa § 6 ods. 1 písm. d) prvého bodu a množstva takto použitého minerálneho oleja, najmenej však 3 319 eur.“.
+
+- 93. V § 42 sa odsek 2 dopĺňa písmenom n), ktoré znie:
+
+- „n)
+
+- podľa odseku 1 písm. m) vo výške 20 % z čiastky, ktorá bola použitá zo zábezpeky na daň na úhradu dane, najmenej však 100 eur.“.
 
 - 94. V § 42 sa odsek 2 dopĺňa písmenom o), ktoré znie:
 
