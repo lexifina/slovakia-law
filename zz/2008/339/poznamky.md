@@ -32,14 +32,18 @@
 
 - 15) § 2 ods. 2 Obchodného zákonníka.
 
-- 16) § 22 ods. 4 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+- 16) § 2 písm. c) zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
-- 16a) Príloha č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
+- 16a) Kategória I písm. b) a c), kategória II až V prílohy č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
 
 - 17) Čl. 11 ods. 3 nariadenia (ES) č. 657/2008.
 
 - 18) Čl. 8 a 9 nariadenia (ES) č. 657/2008.
 
 - 19) Čl. 12 ods. 2 nariadenia (ES) č. 657/2008.
+
+- 19a) Príloha č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
+
+- 19b) § 11 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) Čl. 14 ods. 1 nariadenia (ES) č. 657/2008.
