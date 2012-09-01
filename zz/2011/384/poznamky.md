@@ -27,3 +27,13 @@
 - 14) § 58, 59, 61 až 63, 65, 66, 88 až 153 zákona č. 563/2009 Z. z.
 
 - 15) § 13, 14, 27 až 29, 30 až 33 zákona č. 563/2009 Z. z.
+
+- 16) § 1 ods. 2 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17) § 50 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 18) § 17a ods. 1 a § 19 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 z 19. júla 2002 o uplatňovaní medzinárodných účtovných noriem (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 29, Ú. v. ES L 243, 11. 9. 2002) v platnom znení.
+
+- Nariadenie Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
