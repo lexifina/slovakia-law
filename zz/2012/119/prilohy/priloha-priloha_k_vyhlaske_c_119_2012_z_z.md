@@ -1,3 +1,0 @@
-Príloha k vyhláške č. 119/2012 Z. z.
-
-- VYOBRAZENIE SLUŽOBNEJ ROVNOŠATY A JEJ ŠPECIFICKÝCH ZNAKOV [Obrázok](../assets/8a8f8794a741c8b6c39eca5d24d45047b5cf9f553e59b815c3fd41b5f54eabc2.pdf)
