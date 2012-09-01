@@ -68,6 +68,8 @@
 
 - 32) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
+
 - 33) § 5 ods. 13 písm. c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
