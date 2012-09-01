@@ -1,3 +1,0 @@
-# § 69c Prechodné ustanovenia účinné od 15. marca 2009
-
-Prevádzkovateľ distribučnej siete, dodávateľ plynu a odberateľ plynu, ktorí si zabezpečujú dodávky plynu z územia Európskej únie alebo z územia tretích štátov predložia ministerstvu návrh spôsobu zabezpečenia štandardu bezpečnosti dodávok plynu na nasledujúce obdobie od 1. novembra do 31. marca prvýkrát do 15. apríla 2009. Ministerstvo po prerokovaní s úradom a prevádzkovateľom distribučnej siete, ktorý na základe rozhodnutia ministerstva plní úlohy plynárenského dispečingu na vymedzenom území, rozhodne o spôsobe zabezpečenia štandardu bezpečnosti dodávok plynu na nasledujúce obdobie od 1. novembra do 31. marca prvýkrát do 15. mája 2009.
