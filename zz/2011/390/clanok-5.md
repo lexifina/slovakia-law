@@ -6,6 +6,52 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - Doterajšie odseky 7 až 19 sa označujú ako odseky 6 až 18.
 
+- 2. V § 28 odsek 10 znie:
+
+- „(10)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) na návrh zriaďovateľa a po súhlase rady školy sa najvyšší počet detí v triede podľa odseku 9 zvýši o počet detí určený v návrhu zriaďovateľa.“.
+
+- Poznámka pod čiarou k odkazu 32a znie:
+
+- „32a)
+
+- Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.“.
+
+- 3. V § 28 sa za odsek 10 vkladá nový odsek 11, ktorý znie:
+
+- „(11)
+
+- Zriaďovateľ pri určovaní počtu detí v triede podľa odseku 10 zohľadní počet detí v triede so špeciálnymi výchovno-vzdelávacími potrebami a počet detí v triede mladších ako tri roky.“.
+
+- Doterajšie odseky 11 až 18 sa označujú ako odseky 12 až 19.
+
+- 4. V § 28 sa vypúšťa odsek 15.
+
+- Doterajšie odseky 16 až 19 sa označujú ako odseky 15 až 18.
+
+- 5. § 29 sa dopĺňa odsekmi 13 a 14, ktoré znejú:
+
+- „(13)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) na návrh zriaďovateľa a po súhlase rady školy sa najvyšší počet žiakov v triede podľa odseku 5 zvýši o počet žiakov určený v návrhu zriaďovateľa.
+
+- (14)
+
+- Zriaďovateľ pri určovaní počtu žiakov v triede podľa odseku 13 zohľadní počet žiakov v triede so špeciálnymi výchovno-vzdelávacími potrebami.“.
+
+- 6. V § 33 sa za odsek 1 vkladajú nové odseky 2 a 3, ktoré znejú:
+
+- „(2)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) na návrh zriaďovateľa a po súhlase rady školy sa najvyšší počet žiakov v triede podľa odseku 1 zvýši o počet žiakov určený v návrhu zriaďovateľa.
+
+- (3)
+
+- Zriaďovateľ pri určovaní počtu žiakov v triede podľa odseku 2 zohľadní počet žiakov v triede so špeciálnymi výchovno-vzdelávacími potrebami.“.
+
+- Doterajšie odseky 2 až 4 sa označujú ako odseky 4 až 6.
+
 - 7. V § 49 sa vypúšťa odsek 5.
 
 - Doterajší odsek 6 sa označuje ako odsek 5.
@@ -15,6 +61,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - 8. V § 49 ods. 5 sa slová „odseku 5“ nahrádzajú slovami „odseku 4“.
 
 - 9. V § 53 ods. 7 sa vypúšťa prvá veta.
+
+- 10. V § 114 ods. 2 sa slová „ich počet v oddelení je spravidla zhodný s počtom žiakov v príslušnej triede podľa § 29 ods. 5 najviac však 25“ nahrádzajú slovami „počet detí v oddelení určí riaditeľ školského klubu detí alebo riaditeľ školy, ktorej je školský klub detí súčasťou, pri dodržaní požiadaviek podľa osobitného predpisu<sup>32a</sup>)“.
 
 - 11. V § 114 sa vypúšťa odsek 7.
 
