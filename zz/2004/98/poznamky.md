@@ -106,6 +106,8 @@
 
 - 20a) Nariadenie komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009).
 
+- 20aa) Zákon č. 563/2009 Z. z.
+
 - 20b) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20c) Napríklad čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu, zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
