@@ -3910,63 +3910,105 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 207
 
-  - Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike<sup>46c</sup>) |
+  - I. | Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v tepelnej energetike | | |
 
-  - 1. na výrobu elektriny |
+  - | 1. | na výrobu tepla | |
 
-  - a) nad 1 do 5 MWe | 33 eur
+  - | | a) | do 5 MW ..... | 450 eur
 
-  - b) nad 5 do 50 MWe | 1 659,50 eura
+  - | | b) | nad 5 MW ..... | 2 000 eur
 
-  - c) nad 50 MWe | 2 489,50 eura
+  - | 2. | na rozvod tepla | |
 
-  - 2. na výrobu plynu |
+  - | | a) | do 50 odberných miest ..... | 2 000 eur
 
-  - a) do 34 TJ/r | 331,50 eura
+  - | | b) | nad 50 do 100 odberných miest ..... | 4 500 eur
 
-  - b) nad 34 TJ/r | 1 659,50 eura
+  - | | c) | nad 100 odberných miest ..... | 8 000 eur
 
-  - 3. na výrobu tepla |
+  - II. | Vykonanie zmeny povolenia a zrušenie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v tepelnej energetike | | |
 
-  - a) do 5 MWt | 331,50 eura
+  - | 1. | Žiadosť o zrušenie povolenia na podnikanie v tepelnej energetike ..... | | 200 eur
 
-  - b) nad 5 MWt | 1 659,50 eura
+  - | 2. | Zmena zodpovedného zástupcu a zmena osvedčenia o odbornej spôsobilosti zodpovedného zástupcu držiteľa povolenia na podnikanie v tepelnej energetike ..... | | 50 eur
+
+  - | 3. | Zmena štatutárneho orgánu držiteľa povolenia na podnikanie v tepelnej energetike ..... | | 50 eur
+
+  - | 4. | Zmena mena a priezviska a miesta trvalého pobytu alebo obchodného mena a sídla držiteľa povolenia na podnikanie v tepelnej energetike ..... | | 50 eur
+
+  - | 5. | Zmena povolenia na podnikanie v tepelnej energetike ..... | | 200 eur
 
     - Položka 208
 
-  - a) Žiadosť o odňatie povolenia na podnikanie v energetike<sup>46d</sup>) ........................................................................ | 165,50 eura
+  - I. | Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike | | |
 
-  - b) Zmena zodpovedného zástupcu držiteľa povolenia na podnikanie v energetike<sup>46e</sup>) ................................ | 33 eur
+  - | 1. | na výrobu elektriny | |
 
-  - c) Vyznačenie zmeny adresy alebo názvu sídla držiteľa povolenia na podnikanie v energetike<sup>46d</sup>) ........... | 33 eur
+  - | | a) | nad 1 do 5 MW ..... | 200 eur
 
-  - d) Zmena povolenia na podnikanie v energetike<sup>46d</sup>) ........................................................................................... | 165,50 eura
+  - | | b) | nad 5 do 50 MW ..... | 2 000 eur
 
-  - e) Vydanie osvedčenia o súlade investičného zámeru s dlhodobou koncepciou energetickej politiky<sup>46f</sup>) | 331,50 eura
+  - | | c) | nad 50 MW ..... | 3 500 eur
 
-  - f) Vydanie súhlasu na výstavbu priameho vedenia a na výstavbu priameho plynovodu<sup>46g</sup>) ........................ | 331,50 eura
+  - | 2. | na výrobu plynu | |
 
-    - Položka 209
+  - | | a) | do 34 TJ/r ..... | 450 eur
 
-  - Vydanie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike<sup>46c</sup>) |
+  - | | b) | nad 34 TJ/r ..... | 2 000 eur
 
-  - a) na distribúciu elektriny, distribúciu plynu, rozvod tepla, alebo prevádzkovanie zariadenia na rozvod skvapalneného plynného uhľovodíka |
+  - | 3. | na distribúciu elektriny, distribúciu plynu alebo prevádzkovanie zariadenia na rozvod skvapalneného plynného uhľovodíka | |
 
-  - 1. do 50 odberných zariadení a miest ................................................................................................ | 1 659,50 eura
+  - | | a) | do 50 odberných zariadení a miest ..... | 2 000 eur
 
-  - 2. nad 50 do 100 odberných zariadení a miest ................................................................................ | 3 319 eur
+  - | | b) | nad 50 do 100 odberných zariadení a miest ..... | 4 500 eur
 
-  - 3. nad 100 odberných zariadení a miest ........................................................................................... | 6 638,50 eura
+  - | | c) | nad 100 odberných zariadení a miest ..... | 8 000 eur
 
-  - b) na prenos elektriny alebo prepravu plynu ...................................................................................... | 16 596,50 eura
+  - | 4. | na prenos elektriny alebo prepravu plynu ..... | | 20 000 eur
 
-  - c) na uskladňovanie plynu ..................................................................................................................... | 3 319 eur
+  - | 5. | na uskladňovanie plynu ..... | | 4 500 eur
 
-  - d) na prevádzkovanie potrubí na prepravu pohonných látok a na prevádzkovanie potrubí na prepravu ropy ...................................................................................................................................... | 6 638,50 eura
+  - | 6. | na prevádzkovanie potrubí na prepravu pohonných látok a na prevádzkovanie potrubí na prepravu ropy ..... | | 8 000 eur
 
-  - e) na prevádzkovanie zariadenia na plnenie tlakových nádob ........................................................ | 331,50 eura
+  - | 7. | na prevádzkovanie zariadenia na plnenie tlakových nádob ..... | | 450 eur
 
-  - f) na dodávku elektriny alebo dodávku plynu ........................................................................................ | 1 659,50 eura.
+  - | 8. | na dodávku elektriny alebo dodávku plynu ..... | | 2 000 eur
+
+  - II. | Vykonanie zmeny povolenia a odňatie povolenia fyzickej osobe alebo právnickej osobe na podnikanie v energetike | | |
+
+  - | 1. | Žiadosť o zrušenie povolenia na podnikanie v energetike ..... | | 200 eur
+
+  - | 2. | Zmena zodpovedného zástupcu a zmena osvedčenia o odbornej spôsobilosti zodpovedného zástupcu držiteľa povolenia na podnikanie v energetike ..... | | 50 eur
+
+  - | 3. | Zmena mena a priezviska, adresy, obchodného mena a sídla držiteľa povolenia na podnikanie v energetike ..... | | 50 eur
+
+  - | 4. | Zmena povolenia na podnikanie v energetike ..... | | 200 eur
+
+  - III. | Vydanie potvrdenia o splnení oznamovacej povinnosti fyzickej osobe alebo právnickej osobe | | |
+
+  - | 1. | na výrobu a dodávku elektriny zariadeniami na výrobu elektriny s celkovým inštalovaným výkonom do 1 MW vrátane ..... | | 100 eur
+
+  - | 2. | na výrobu a dodávku plynu z biomasy ..... | | 100 eur
+
+  - | 3. | na výrobu a dodávku plynu z bioplynu ..... | | 100 eur
+
+  - | 4. | na predaj stlačeného zemného plynu určeného na pohon motorových vozidiel ..... | | 100 eur
+
+  - | 5. | na prepravu vyťaženej ropy z miesta ťažby do miesta spracovania ..... | | 100 eur
+
+  - | 6. | na predaj skvapalneného plynného uhľovodíka v tlakových nádobách ..... | | 100 eur
+
+  - | 7. | na predaj skvapalneného plynného uhľovodíka určeného na pohon motorových vozidiel vrátane plnenia nádrže motorového vozidla skvapalneným plynným uhľovodíkom určeným na pohon motorových vozidiel okrem plnenia tlakových nádob ............................ | | 100 eur
+
+  - | 8. | na prepravu skvapalneného plynného uhľovodíka v tlakových nádobách ..... | | 100 eur
+
+  - IV. | Vydanie rozhodnutia o udelení certifikácie prevádzkovateľa prenosovej sústavy a prevádzkovateľa prepravnej siete ..... | | | 30 000 eur
+
+  - V. | Vydanie rozhodnutia o udelení predchádzajúceho súhlasu | | |
+
+  - | 1. | vydanie predchádzajúceho súhlasu s vymenovaním alebo s ustanovením a odvolaním osoby zodpovednej za zabezpečenie programu súladu prevádzkovateľa prepravnej siete, prevádzkovateľa distribučnej siete alebo prevádzkovateľa distribučnej sústavy ..... | | 200 eur
+
+  - | 2. | vydanie predchádzajúceho súhlasu s vymenovaním alebo s voľbou a odvolaním štatutárneho orgánu alebo člena štatutárneho orgánu prevádzkovateľa prepravnej siete ..... | | 100 eur
 
   - XIV. ČASŤ HOSPODÁRSKA SÚŤAŽ
 
