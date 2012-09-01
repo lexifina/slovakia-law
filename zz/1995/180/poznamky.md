@@ -110,6 +110,8 @@
 
 - 47) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
+- 47a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. v znení neskorších predpisov.
+
 - 48) Napríklad § 588 a 628 Občianskeho zákonníka.
 
 - 49) § 142 a 149 Občianskeho zákonníka.
