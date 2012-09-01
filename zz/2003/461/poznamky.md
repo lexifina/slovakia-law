@@ -293,3 +293,7 @@
 - 119) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
 
 - 120) § 6 ods. 2 písm. a) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 121) § 123ac zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
+
+- 122) § 123ae zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
