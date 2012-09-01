@@ -42,6 +42,8 @@
 
 - 16) Vyhláška Ministerstva poľnohospodárstva, lesného a vodného hospodárstva č. 147/1960 Zb. o prenesení finančnej a účtovnej služby majetkovej podstaty pozemkových reforiem.
 
+- 16a) Zákon č. 235/2012 Z. z. o osobitnom odvode z podnikania v regulovaných odvetviach a o zmene a doplnení niektorých zákonov.
+
 - 17) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon
 
 - Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
@@ -53,6 +55,8 @@
 - 20) § 2 písm. l) a § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 20a) Zákon č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov.
+
+- Zákon č. 235/2012 Z. z.
 
 - 21) § 128 ods. 1 Trestného zákona.
 
