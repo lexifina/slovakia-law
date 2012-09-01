@@ -1,6 +1,6 @@
 Príloha č. 8 k vyhláške č. 282/2009 Z. z.
 
-- VECNÁ PÔSOBNOSŤ PRÍSLUŠNEJ STAVOVSKEJ ORGANIZÁCIE ALEBO PROFESIJNEJ ORGANIZÁCIE K JEDNOTLIVÝM ŠTUDIJNÝM ODBOROM A UČEBNÝM ODBOROM Skupina študijných odborov a učebných odborov | Vecná pôsobnosť stavovskej organizácie alebo profesijnej organizácie
+- Vecná pôsobnosť príslušnej stavovskej organizácie alebo profesijnej organizácie k jednotlivým študijným odborom a učebným odborom Skupina študijných odborov a učebných odborov | Vecná pôsobnosť stavovskej organizácie alebo profesijnej organizácie
 
 - 11 Fyzikálno-matematické vedy | nie je určená
 

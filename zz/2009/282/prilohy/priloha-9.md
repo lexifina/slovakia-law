@@ -1,25 +1,27 @@
 Príloha č. 9 k vyhláške č. 282/2009 Z. z.
 
-- ZOZNAM ŠTUDIJNÝCH ODBOROV A UČEBNÝCH ODBOROV, V KTORÝCH SA VYŽADUJE OVERENIE ŠPECIÁLNYCH SCHOPNOSTÍ, ZRUČNOSTÍ ALEBO NADANIA Študijné odbory a učebné odbory, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania, sú:
+- Zoznam študijných odborov a učebných odborov, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania Študijné odbory a učebné odbory, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania sú:
 
-  - a) 5315 6 zdravotnícky záchranár,
+  - a) 5315 N zdravotnícky záchranár,
 
-  - b) 5317 7 diplomovaný fyzioterapeut,
+  - b) 5317 Q diplomovaný fyzioterapeut,
 
-  - c) 5370 6 masér,
+  - c) 5370 M masér,
 
-  - d) 7649 6 učiteľstvo pre materské školy a vychovávateľstvo,
+  - d) 6317 M 74 obchodná akadémia – bilingválne štúdium,
 
-  - e) 7902 5 74 gymnázium – bilingválne štúdium,
+  - e) 7649 M učiteľstvo pre materské školy a vychovávateľstvo,
 
-  - f) 7902 5 77 gymnázium – šport,
+  - f) 7902 J 74 gymnázium – bilingválne štúdium,
 
-  - g) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
+  - g) 7902 J 77 gymnázium – šport,
 
-  - h) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II,
+  - h) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
 
-  - i) triedy stredných škôl s bilingválnym vyučovaním,
+  - i) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II,
 
-  - j) triedy športových škôl,
+  - j) triedy stredných škôl s bilingválnym vyučovaním,
 
-  - k) športové triedy v stredných školách.
+  - k) triedy športových škôl,
+
+  - l) športové triedy v stredných školách.

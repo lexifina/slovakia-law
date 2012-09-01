@@ -1,139 +1,105 @@
 Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 
-- SÚSTAVA SKUPÍN ŠTUDIJNÝCH ODBOROV A ŠTUDIJNÝCH ODBOROV A ZAMERANÍ ŠTUDIJNÝCH ODBOROV NA STREDNÝCH ODBORNÝCH ŠKOLÁCH, KTORÝCH ABSOLVOVANÍM ŽIAK ZÍSKA VYŠŠIE ODBORNÉ VZDELANIE Kód | SKUPINA ŠTUDIJNÝCH ODBOROV | Stupeň najvyššieho dosiahnutého vzdelania podľa ISCED-97 | Nadväznosť podľa doterajších právnych predpisov | Poz- námka
+- Sústava skupín študijných odborov a študijných odborov a zameraní študijných odborov na stredných odborných školách, ktorých absolvovaním žiak získa vyššie odborné vzdelanie Kód | SKUPINA ŠTUDIJNÝCH ODBOROV | Nadväznosť podľa doterajších právnych predpisov | Po- znám- ka
 
-- | Študijný odbor | | |
+- | Študijný odbor | |
 
-- | Študijný odbor – zameranie | | |
+- | Študijný odbor – zameranie | |
 
-- 21 | BANÍCTVO, GEOLÓGIA A GEOTECHNIKA | | |
+- 23 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA I | |
 
-- 2156 7 | geopropagácia krajiny | 5B | 2156 7 |
+- 2381 Q | strojárstvo | 2381 7 01 | 1), 2)
 
-- 23 | STROJÁRSTVO A OSTATNÁ KOVOSPRACÚVACIA VÝROBA I | | |
+- | | 2381 7 02 |
 
-- 2381 7 | strojárstvo | 5B | |
+- | | 2381 7 08 |
 
-- 2381 7 01 | strojárstvo – hydraulické systémy | 5B | 2381 7 01 |
+- | | 2381 7 09 |
 
-- 2381 7 02 | strojárstvo – príprava a riadenie výroby | 5B | 2381 7 02 |
+- 26 | ELEKTROTECHNIKA | |
 
-- 2381 7 08 | strojárstvo – grafické systémy CAD, CAM | 5B | 2381 7 08 |
+- 2675 Q | elektrotechnika | 2675 7 06 | 1)
 
-- 2381 7 09 | strojárstvo – automatizácia v strojárstve | 5B | 2381 7 09 |
+- | | 2675 6 13 |
 
-- 26 | ELEKTROTECHNIKA | | |
+- 2695 Q | počítačové systémy | 2695 7 | 2)
 
-- 2665 7 | manažment a podnikanie v elektrotechnike | 5B | 2665 7 |
+- 29 | POTRAVINÁRSTVO | |
 
-- 2675 7 | elektrotechnika | | |
+- 2940 Q | potravinárstvo | |
 
-- 2675 7 06 | elektrotechnika – racionalizácia výroby a spotreba energie | 5B | 2675 7 06 |
+- 2940 Q 01 | potravinárstvo – hygiena potravín | 2940 7 01 | 1)
 
-- 2675 7 13 | elektrotechnika – automatizačná technika | 5B | 2675 7 13 |
+- 37 | DOPRAVA, POŠTY A TELEKOMUNIKÁCIE | |
 
-- 2695 7 | počítačové systémy | 5B | 2695 7 |
+- 3764 Q | logistika a manažment v cestnej preprave | 3764 7 | 2)
 
-- 29 | POTRAVINÁRSTVO | | |
+- 39 | ŠPECIÁLNE TECHNICKÉ ODBORY | |
 
-- 2940 7 | potravinárstvo | | |
+- 3919 Q | technicko-organizačné riadenie v priemyselnej výrobe | 3919 7 | 1)
 
-- 2940 7 01 | potravinárstvo – hygiena potravín | 5B | 2940 7 01 |
+- 3963 Q | požiarna ochrana | 3963 7 | 1,) 3)
 
-- 31 | TEXTIL A ODEVNÍCTVO | | |
+- 42 | POĽNOHOSPODÁRSTVO, LESNÉ HOSPODÁRSTVO A ROZVOJ VIDIEKA I | |
 
-- 3135 7 | komerčný pracovník v odevníctve | 5B | 3135 7 |
+- 4210 Q | agropodnikanie | |
 
-- 37 | DOPRAVA, POŠTY A TELEKOMUNIKÁCIE | | |
+- 4210 Q 02 | agropodnikanie – hygiena potravín živočíšneho pôvodu | 4210 7 02 | 1)
 
-- 3764 7 | logistika a manažment v cestnej preprave | 5B | 3764 7 |
+- 4221 Q | vidiecka turistika | 4221 7 | 2)
 
-- 39 | ŠPECIÁLNE TECHNICKÉ ODBORY | | |
+- 4223 Q | krajinárske úpravy a tvorba krajiny | 4223 7 | 2)
 
-- 3919 7 | technicko-organizačné riadenie v priemyselnej výrobe | 5B | |
+- 53 | ZDRAVOTNÍCKE ODBORY VZDELÁVANIA NA STREDNÝCH ZDRAVOTNÍCKYCH ŠKOLÁCH | |
 
-- 3963 7 | požiarna ochrana | 5B | 3963 7 | 1)
+- 5317 Q | diplomovaný fyzioterapeut | 5317 7 | 2)
 
-- 42 | POĽNOHOSPODÁRSTVO, LESNÉ HOSPODÁRSTVO A ROZVOJ VIDIEKA I | | |
+- 5325 Q | diplomovaná všeobecná sestra | 5325 7 | 2)
 
-- 4210 7 | agropodnikanie | | |
+- 5333 Q | diplomovaný rádiologický asistent | 5333 7 | 2)
 
-- 4210 7 02 | agropodnikanie – hygiena potravín živočíšneho pôvodu | 5B | 4210 7 02 |
+- 5335 Q | diplomovaný optometrista | 5335 7 | 2)
 
-- 4210 7 03 | agropodnikanie – chov koní | 5B | 4210 7 03 |
+- 63 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY I | |
 
-- 4211 7 | záhradníctvo | | |
+- 6310 Q | financie | 6310 7 | 2)
 
-- 4211 7 08 | záhradníctvo – aranžovanie a viazačstvo | 5B | 4211 7 08 |
+- 6314 Q | cestovný ruch | 6314 7 | 2)
 
-- 4211 7 13 | záhradníctvo – podnikanie a obchod | 5B | 4211 7 13 |
+- 6318 Q | manažment hotelov a cestovných kancelárií | 6318 7 01 | 2)
 
-- 4220 7 | lesníctvo a lesnícky manažment | 5B | 4220 7 |
+- | | 6318 7 02 |
 
-- 4221 7 | vidiecka turistika | 5B | 4221 7 |
+- | | 6318 7 03 |
 
-- 4223 7 | krajinárske úpravy a tvorba krajiny | 5B | 4223 7 |
+- 6332 Q | daňové služby | 6332 7 | 1)
 
-- 4225 7 | obchod a služby v poľnohospodárstve | 5B | 4225 7 |
+- 6335 Q | medzinárodné podnikanie | 6335 7 | 2)
 
-- 43 | VETERINÁRSKE VEDY | | |
+- 68 | PRÁVNE VEDY | |
 
-- 4336 7 | veterinárne zdravotníctvo a hygiena | 5B | 4336 7 |
+- 6851 Q | sociálno-právna činnosť | 6851 7 | 2)
 
-- 53 | ZDRAVOTNÍCKE ODBORY VZDELÁVANIA NA STREDNÝCH ZDRAVOTNÍCKYCH ŠKOLÁCH | | |
+- 75 | PEDAGOGICKÉ VEDY | |
 
-- 5317 7 | diplomovaný fyzioterapeut | 5B | 5317 7 |
+- 7518 Q | špeciálna pedagogika | 7518 7 | 1)
 
-- 5325 7 | diplomovaná všeobecná sestra | 5B | 5325 7 |
+- 82 | UMENIE A UMELECKOREMESELNÁ TVORBA I | |
 
-- 5328 7 | diplomovaná dentálna hygienička | 5B | 5328 7 |
+- 8218 Q | reštaurovanie textílií | 8218 7 | 1)
 
-- 5333 7 | diplomovaný rádiologický asistent | 5B | 5333 7 |
+- 8235 Q | výtvarné spracúvanie skla | 8235 7 | 2)
 
-- 5335 7 | diplomovaný optometrista | 5B | 5335 7 |
+- 8237 Q | modelárstvo a návrhárstvo odevov | 8237 7 | 2)
 
-- 63 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY I | | |
+- 8238 Q | ručné výtvarné spracúvanie textílií | 8238 7 | 1)
 
-- 6310 7 | financie | 5B | 6310 7 |
-
-- 6314 7 | cestovný ruch | 5B | 6314 7 |
-
-- 6318 7 | manažment hotelov a cestovných kancelárií | | |
-
-- 6318 7 01 | manažment hotelov a cestovných kancelárií – manažment hotelov | 5B | 6318 7 01 |
-
-- 6318 7 02 | manažment hotelov a cestovných kancelárií – manažment cestovných kancelárií | 5B | 6318 7 02 |
-
-- 6318 7 03 | manažment hotelov a cestovných kancelárií – manažment turistických informačných kancelárií | 5B | 6318 7 03 |
-
-- 6332 7 | daňové služby | 5B | 6332 7 |
-
-- 6334 7 | trhové služby | 5B | 6334 7 |
-
-- 6335 7 | medzinárodné podnikanie | 5B | 6335 7 |
-
-- 6338 7 | manažment a ekonomika priemyselného podniku | 5B | 6338 7 |
-
-- 68 | PRÁVNE VEDY | | |
-
-- 6851 7 | sociálno-právna činnosť | 5B | 6851 7 |
-
-- 75 | PEDAGOGICKÉ VEDY | | |
-
-- 7518 7 | špeciálna pedagogika | 5B | 7518 7 |
-
-- 82 | UMENIE A UMELECKOREMESELNÁ TVORBA I | | |
-
-- 8293 7 | grafika vizuálnych komunikácií | 5B | |
-
-- 8218 7 | reštaurovanie textílií | 5B | 8218 7 |
-
-- 8235 7 | výtvarné spracúvanie skla | 5B | 8235 7 |
-
-- 8237 7 | modelárstvo a návrhárstvo odevov | 5B | 8237 7 |
-
-- 8238 7 | ručné výtvarné spracúvanie textílií | 5B | 8238 7 |
+- 8293 Q | grafika vizuálnych komunikácií | 8293 7 | 1)
 
 - Vysvetlivky:
 
-  - 1) V študijnom odbore možno študovať len na stredných odborných školách požiarnej ochrany v pôsobnosti Ministerstva vnútra Slovenskej republiky.
+  - 1) Výchova a vzdelávanie sa poskytuje formou špecializačného pomaturitného štúdia.
+
+  - 2) Výchova a vzdelávanie sa poskytuje formou vyššieho odborného štúdia.
+
+  - 3) V študijnom odbore možno študovať len na stredných odborných školách požiarnej ochrany v pôsobnosti Ministerstva vnútra Slovenskej republiky.
