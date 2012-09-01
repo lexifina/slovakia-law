@@ -64,7 +64,7 @@
 
 - 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 až 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z. v znení neskorších predpisov, § 2 ods. 2 až 5 a ods. 8 až 11 zákona č. 8/2008 Z. z.
 
-- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 3 a 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 3 a 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov, čl. 61 a 62 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 4, Ú. v. ES L 294, 10. 11. 2001), čl. 68 až 71 nariadenia Rady (ES) č. 1435/2003 z 22. júla 2003 o stanovách európskeho družstva (SCE) (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. EÚ L 207, 18. 8. 2003).
 
 - 5n) Napríklad zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
@@ -159,6 +159,8 @@
 - 15ha) § 18, 19, 23 a § 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 15i) § 2 ods. 3 a § 8 až 13 zákona č. 386/2002 Z. z.
+
+- 15j) § 4 ods. 3 prvá veta zákona č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení zákona č. 233/2012 Z. z.
 
 - 16) Zákon č. 431/2002 Z. z.
 
