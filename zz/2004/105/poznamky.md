@@ -82,7 +82,17 @@
 
 - 19) Nariadenie Komisie (ES) č. 1291/2000 z 9. júna 2000, ktorým sa stanovujú podrobné pravidlá uplatňovania systému dovozných a vývozných licencií a certifikátov s vopred stanovenou sadzbou náhrady pre poľnohospodárske výrobky (Ú. v. ES L 152, 24. 6. 2000) v platnom znení.
 
-- 19a) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
+- 19a) Napríklad § 19 ods. 6 písm. b) a ods. 8 zákona č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov.
+
+- 19b) § 16 zákona č. 530/2011 Z. z.
+
+- 19c) § 13 ods. 1 písm. c) zákona č. 530/2011 Z. z.
+
+- 19d) Napríklad § 7, 8 a 40 zákona č. 530/2011 Z. z.
+
+- 19e) § 13 ods. 7 zákona č. 530/2011 Z. z.
+
+- 19f) § 10 ods. 1 písm. c) zákona č. 530/2011 Z. z.
 
 - 20) Príloha č. 48 k vyhláške Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. v znení neskorších predpisov.
 
