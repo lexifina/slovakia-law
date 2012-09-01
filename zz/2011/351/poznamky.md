@@ -134,9 +134,9 @@
 
 - 56) § 8a ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
-- 57) Čl. 3 až 4c a 6a bod 4 nariadenia Európskeho parlamentu a Rady (ES) č. 717/2007 z 27. júna 2007 o roamingu vo verejných mobilných komunikačných sieťach v rámci Spoločenstva a o zmene a doplnení smernice 2002/21/ES (Ú. v. EÚ L 171, 29. 6. 2007) v platnom znení.
+- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 3 a 5, čl. 5 ods. 1, čl. 7 až 13 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012).
 
-- 58) Čl. 6 a 6a bod 1 až 3 nariadenia ES č. 717/2007 v platnom znení.
+- 58) Čl. 4 ods. 4, čl. 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia (EÚ) č. 531/2012.
 
 - 59) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
