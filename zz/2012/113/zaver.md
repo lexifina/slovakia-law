@@ -1,0 +1,1 @@
+Eugen Jurzyca v. r.
