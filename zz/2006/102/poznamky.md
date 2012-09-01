@@ -4,7 +4,7 @@
 
 - 2) § 4 ods. 3 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
-- § 5 ods. 4 písm. h) až j) a l) až s) zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 5 ods. 4 písm. h) až j) a l) až ac) zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -29,6 +29,8 @@
 - 9c) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
 
 - 9d) § 115 Občianskeho zákonníka.
+
+- 9da) § 65 ods. 3 zákona č. 36/2005 Z. z.
 
 - 9e) Zákon č. 36/2005 Z. z. v znení neskorších predpisov.
 
