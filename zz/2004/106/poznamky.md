@@ -74,6 +74,8 @@
 
 - 14a) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
 
+- 14aa) Zákon č. 563/2009 Z. z.
+
 - 14b) Nariadenie Komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009).
 
 - 14c) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
