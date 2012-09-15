@@ -1,0 +1,5 @@
+Príloha č. 4 k nariadeniu vlády č. 238/2012 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - Smernica Rady 2000/75/ES z 20. novembra 2000 stanovujúca špecifické ustanovenia pre kontrolu a likvidáciu katarálnej horúčky oviec – modrého jazyka (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 31) v znení Aktu o podmienkach pristúpenia Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky a o úpravách zmlúv, na ktorých je založená Európska únia (Ú. v. EÚ L 236, 23. 9. 2003), v znení rozhodnutia Komisie 2006/911/ES z 5. decembra 2006 (Ú. v. EÚ L 346, 9. 12. 2006), v znení smernice Rady 2006/104/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006), v znení rozhodnutia Komisie 2007/729/ES zo 7. novembra 2007 (Ú. v. EÚ L 294, 13. 11. 2007), v znení smernice Rady 2008/73/ES z 15. júla 2008 (Ú. v. E L 21, 14. 8. 2008), v znení smernice Európskeho parlamentu a Rady 2012/5/EÚ zo 14. marca 2012 (Ú. v. EÚ L 81, 21. 3. 2012).
