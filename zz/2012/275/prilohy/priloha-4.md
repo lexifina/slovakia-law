@@ -1,0 +1,3 @@
+Príloha č. 4 k vyhláške č. 275/2012 Z. z.
+
+- EVIDOVANIE ŠTANDARDOV KVALITY DISTRIBÚCIE ELEKTRINY [Tabuľka 04](../assets/bc35d07c80b2e47599a5083c6352c774a58bccfad7ac327834eaf243242905d7.pdf)

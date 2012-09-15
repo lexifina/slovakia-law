@@ -1,0 +1,3 @@
+Príloha č. 5 k vyhláške č. 275/2012 Z. z.
+
+- VYHODNOTENIE ŠTANDARDOV KVALITY DISTRIBÚCIE ELEKTRINY [Tabuľka 05](../assets/c1c6b445a5f90e1b50774fb1899796eef327fa6989f2616c6855c7ba431bbad3.pdf)

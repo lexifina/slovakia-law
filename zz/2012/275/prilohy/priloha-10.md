@@ -1,0 +1,3 @@
+Príloha č. 10 k vyhláške č. 275/2012 Z. z.
+
+- EVIDOVANIE UDALOSTÍ, KTORÉ NASTALI Z DÔVODOV PODĽA § 5 [Tabuľka 10](../assets/c845a0a1ab0538798b5dd94ac398111b184234656b884f66d2da093879c8277b.pdf)

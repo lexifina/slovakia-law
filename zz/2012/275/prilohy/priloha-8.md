@@ -1,0 +1,3 @@
+Príloha č. 8 k vyhláške č. 275/2012 Z. z.
+
+- VYHODNOTENIE ŠTANDARDOV KVALITY DODÁVKY ELEKTRINY [Tabuľka 08](../assets/e7819f409c8ca8bb590a0f223906115b3df28b6a5ffd0029e32b8d0f27d3cdf4.pdf)

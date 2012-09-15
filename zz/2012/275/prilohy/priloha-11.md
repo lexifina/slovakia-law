@@ -1,0 +1,3 @@
+Príloha č. 11 k vyhláške č. 275/2012 Z. z.
+
+- EVIDOVANIE VYPLATENÝCH KOMPENZAČNÝCH PLATIEB PODĽA § 11 ODS. 2 [Tabuľka 11](../assets/23f3c69f42e65ca73f180535803869dba54bda6f769a5910b2b78f1bca353b14.pdf)
