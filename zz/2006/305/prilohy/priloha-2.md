@@ -1,31 +1,57 @@
 Príloha č. 2 k nariadeniu vlády č. 305/2006 Z. z.
 
-- Uvádzanie motorov na trh podľa pružného systému 1. V súlade s pružným systémom môže výrobca s povolením príslušného štátneho orgánu<sup>6</sup>) uviesť na trh v období medzi dvoma po sebe nasledujúcimi etapami limitných hodnôt obmedzený počet motorov, ktoré zodpovedajú etape limitnej hodnoty emisie, ktorá bezprostredne predchádzala etape uplatňovanej v súčasnosti.
+- UVÁDZANIE TRAKTOROV A MOTOROV NA TRH PODĽA PRUŽNÉHO SYSTÉMU
 
-  - 2. Počet motorov uvedených na trh podľa pružného systému nepresiahne v žiadnej kategórii 20 % ročného predaja výrobcu traktorov vzhľadom na traktory s motormi v danej kategórii motorov (vypočítaného ako priemer predaja za posledných 5 rokov na trhu EÚ). V prípade, že výrobca traktorov uvádzal na trh EÚ traktory počas obdobia aspoň 5 rokov, priemer sa vypočíta na základe obdobia, počas ktorého výrobca traktorov uvádzal traktory na trh EÚ.
+  - 1. OPATRENIA VÝROBCOV TRAKTOROV
 
-  - 3. Výrobca traktorov môže požiadať o povolenie pre svojich dodávateľov motorov, aby mohli uviesť na trh pevne stanovený počet motorov podľa pružného systému. Počet motorov v kategórii motorov nepresiahne tieto hodnoty:
+  - 1.1. S výnimkou etapy III B výrobca traktorov, ktorý má v úmysle použiť pružný systém, požiada štátny dopravný úrad o povolenie uviesť na trh traktory v súlade s touto prílohou. Počet traktorov nesmie presiahnuť hodnoty uvedené v bodoch 1.1.1 a 1.1.2. Motory musia spĺnať podmienky podľa ustanovenia § 5 ods. 2 tohto nariadenia vlády.
 
-- Kategória motorov | Počet motorov
+  - 1.1.1. Počet traktorov uvedených na trh podľa pružného systému nesmie presiahnuť v žiadnej kategórii motorov 20 % ročného počtu traktorov uvedených na trh výrobcom traktorov vybavených motormi v uvedenej kategórii motorov vypočítaného ako priemer predaja za posledných päť rokov na trhu Európskej únie. Ak výrobca traktorov uvádzal na trh Európskej únie traktory počas obdobia kratšieho ako päť rokov, priemer sa vypočíta na základe obdobia, počas ktorého výrobca traktorov uvádzal traktory na trh Európskej únie.
 
-- 19 - 37 kW | 200
+  - 1.1.2. Alternatívne k bodu 1.1.1 nesmie počet traktorov uvedených na trh podľa pružného systému v každom výkonnostnom rozsahu prekročiť tieto maximálne hodnoty:
 
-- 37 - 75 kW | 150
+- Výkonnostný rozsah motora P(kW) | Počet traktorov
 
-- 75 - 130 kW | 100
+- 19 P < 37 | 200
 
-- 130 - 560 kW | 50
+- 37 P < 75 | 150
 
-  - 4. Výrobca traktorov uvedie vo svojej žiadosti
+- 75 P < 130 | 100
 
-    - a) vzor štítkov, ktoré sa majú pripevniť na každý traktor, do ktorého sa nainštaluje motor uvedený na trh podľa pružného systému. Na štítkoch sa uvedie tento text: „TRAKTOR č. ... (poradie traktorov) Z ... (celkový počet traktorov príslušnej výkonnostnej skupiny) S MOTOROM č. ... „S TYPOVÝM SCHVÁLENÍM (smernica 2000/25/ES) č. ...";
+- 130 ≤ P ≤ 560 | 50
 
-    - b) vzor doplnkového štítku, ktorý sa má pripevniť na motor s textom: „Motor uvedený na trh podľa pružného systému".
+  - 1.2. Počas etapy III B požiada výrobca traktorov, ktorý má v úmysle použiť pružný systém, štátny dopravný úrad o povolenie uviesť na trh traktory v súlade s touto prílohou. Počet traktorov nesmie presiahnuť maximálne hodnoty uvedené v bodoch 1.2.1 a 1.2.2. Motory musia spĺňať podmienky podľa ustanovenia § 5 ods. 2 tohto nariadenia vlády.
 
-  - 5. Výrobca traktorov poskytne štátnemu orgánu<sup>6</sup>) všetky potrebné informácie, ktoré požaduje v rámci implementácie pružného systému.
+  - 1.2.1. Počet traktorov uvádzaných na trh podľa pružného systému nesmie presiahnuť v žiadnej kategórii motorov 40 % ročného počtu traktorov uvedených na trh výrobcom traktorov vybavených motormi v uvedenej kategórii motorov vypočítaného ako priemer predaja za posledných päť rokov na trhu Európskej únie. Ak výrobca traktorov uvádzal na trh Európskej únie traktory počas obdobia kratšieho ako päť rokov, priemer sa vypočíta na základe obdobia, počas ktorého výrobca traktorov uvádzal traktory na trh Európskej únie.
 
-  - 6. Schvaľovací orgán vyhodnotí obsah žiadosti a oznámi výrobcovi traktorov svoje rozhodnutie o povolení využívania pružného systému.
+  - 1.2.2. Alternatívne k bodu 1.2.1 nesmie počet traktorov uvedených na trh podľa pružného systému v každom výkonnostnom rozsahu prekročiť tieto maximálne hodnoty:
 
-  - 7. Výrobca traktorov zasiela správu o implementácii pružného systému každých šesť mesiacov schvaľovacím orgánom v každom členskom štáte, v ktorom sa traktor alebo motor uvádza na trh. Správa zahŕňa údaje o počte motorov a traktorov uvedených na trh podľa pružného systému, sériových číslach motorov a traktorov a členských štátoch, v ktorých bol traktor uvedený do prevádzky.
+- Výkonnostný rozsah motora P(kW) | Počet traktorov
 
-  - 8. Výrobca motorov môže dodávať motory výrobcovi traktorov podľa systému flexibility, ktorý bol schválený. Na tieto motory pripevní štítok s textom: „Motor uvedený na trh podľa pružného systému".
+- 37 P < 56 | 200
+
+- 56 P < 75 | 175
+
+- 75 P < 130 | 250
+
+- 130 ≤ P ≤ 560 | 125
+
+  - 1.3. Výrobca traktorov uvedie vo svojej žiadosti
+
+    - a) vzor štítkov, ktoré sa majú pripevniť na každý traktor, do ktorého sa nainštaluje motor uvedený na trh podľa pružného systému. Na štítku sa uvedie tento text: „TRAKTOR č. ... (poradie traktorov) Z ... (celkový počet traktorov v príslušnom výkonnostnom rozsahu) S MOTOROM č. ... S TYPOVÝM SCHVÁLENÍM (smernica 2000/25/ES) č. ...“ a
+
+    - b) vzor doplnkového štítku, ktorý sa má pripevniť na motor, s textom uvedeným v bode 2.2.
+
+  - 1.4. Výrobca traktorov poskytne štátnemu dopravnému úradu všetky potrebné informácie súvisiace s vykonávaním pružného systému, ktoré požaduje pre rozhodnutie.
+
+  - 1.5. Výrobca traktorov zasiela správu o vykonávaní pružného systému každých šesť mesiacov schvaľovacím orgánom v každom členskom štáte, v ktorom bol traktor uvedený na trh. Správa zahŕňa údaje o počte traktorov uvedených na trh podľa pružného systému, sériových číslach motorov a traktorov a členských štátoch, v ktorých bol traktor uvedený do prevádzky. Tento postup sa dodržiava, pokiaľ sa uplatňuje pružný systém.
+
+  - 2. OPATRENIA VÝROBCU MOTOROV
+
+  - 2.1. Výrobca motorov môže uviesť na trh motory podľa pružného systému schváleného v súlade s bodmi 1 a 3 tejto prílohy.
+
+  - 2.2. Výrobca motorov označí motory štítkom s textom: „Motor uvedený na trh podľa pružného systému“ v súlade s požiadavkami uvedenými v § 4 ods. 12 tohto nariadenia vlády.
+
+  - 3. OPATRENIA ŠTÁTNEHO DOPRAVNÉHO ÚRADU
+
+  - Rozhodnutie o povolení alebo zamietnutí povolenia používať pružný systém sa vydá po posúdení obsahu žiadosti o pružný systém a priložených dokumentov.

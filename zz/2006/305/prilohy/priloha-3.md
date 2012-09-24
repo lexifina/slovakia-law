@@ -7,3 +7,7 @@ Príloha č. 3 k nariadeniu vlády č. 305/2006 Z. z.
   - 2. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
 
   - 3. Smernica Komisie 2010/22/EÚ z 15. marca 2010, ktorou sa na účely prispôsobenia technickému pokroku menia a dopĺňajú smernice Rady 80/720/EHS, 86/298/EHS, 86/415/EHS a 87/402/EHS a smernice Európskeho parlamentu a Rady 2000/25/ES a 2003/37/ES týkajúce sa typového schvaľovania poľnohospodárskych a lesných traktorov (Ú. v. EÚ L 91, 10. 4. 2010).
+
+  - 4. Smernica Európskeho parlamentu a Rady 2011/72/EÚ zo 14. septembra 2011, ktorou sa mení a dopĺňa smernica 2000/25/ES, pokiaľ ide o ustanovenia pre traktory uvádzané na trh v rámci systému flexibility (Ú. v. EÚ L 246, 23. 9. 2011).
+
+  - 5. Smernica Európskeho parlamentu a Rady 2011/87/EÚ zo 16. novembra 2011, ktorou sa mení a dopĺňa smernica 2000/25/ES, pokiaľ ide o uplatňovanie emisných etáp v prípade úzkorozchodných traktorov (Ú. v. EÚ L 301, 18. 11. 2011).

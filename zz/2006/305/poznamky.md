@@ -12,6 +12,8 @@
 
 - § 99 písm. o) zákona č. 725/2004 Z. z.
 
+- 5a) Príloha č. 1 k zákonu č. 725/2004 Z. z. v znení zákona č. 8/2009 Z. z.
+
 - 6) § 3 zákona č. 128/2002 Z. z.
 
 - § 114 zákona č. 8/2009 Z. z.
