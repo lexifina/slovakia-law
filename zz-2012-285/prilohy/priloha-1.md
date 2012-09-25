@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 285/2012 Z. z.
+
+- ÚDAJE O PREDAJI PLYNU A DODÁVKE PLYNU MALÉMU PODNIKU [Tabuľka 01](../assets/7e79e43acc705c5f9cd8d2259d480851255fc74c037359648602ace1a758ce88.pdf)
