@@ -46,6 +46,8 @@
 
 - 3fa) § 14 až 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
+- 3faa) Zmluva, ktorou sa zriaďuje Európsky mechanizmus pre stabilitu medzi Belgickým kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Luxemburským veľkovojvodstvom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Portugalskou republikou, Slovinskou republikou, Slovenskou republikou, Fínskou republikou (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 295/2012 Z. z.).
+
 - 3fb) § 3 zákona č. 386/2002 Z. z.
 
 - 3fc) § 99 zákona č. 566/2001 Z. z.
