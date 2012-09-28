@@ -12,6 +12,8 @@
 
 - 5a) Napríklad zákon č. 381/2010 Z. z. o špecifických štátnych zárukách a o zmene a doplnení niektorých zákonov.
 
+- 5aa) Zákon č. 296/2012 Z. z. o Európskom mechanizme pre stabilitu a o doplnení niektorých zákonov.
+
 - 5b) Napríklad zákon č. 530/1990 Zb. v znení neskorších predpisov, zákon č. 291/2002 Z. z. v znení neskorších predpisov.
 
 - 6) § 13 ods. 1 a 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
