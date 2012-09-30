@@ -1,6 +1,6 @@
 # 19a Osobitná úprava príjmu, skladovania a výdaja tabakovej suroviny na výrobu tabakových výrobkov
 
-(1) Osoba, ktorá chce prijímať, skladovať alebo vydávať tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov, vrátane tabakovej suroviny<sup>10</sup>) čiastočne spracovanej, musí požiadať colný úrad o zaradenie do evidencie obchodníkov, ktorí prijímajú, skladujú alebo vydávajú tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov (ďalej len „evidencia obchodníkov s tabakovou surovinou“). Žiadosť musí obsahovať
+(1) Osoba, ktorá chce prijímať, skladovať alebo vydávať tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov, vrátane tabakovej suroviny<sup>10</sup>) čiastočne spracovanej, musí požiadať colný úrad o zaradenie do evidencie obchodníkov, ktorí prijímajú, skladujú alebo vydávajú tabakovú surovinu<sup>10</sup>) na výrobu tabakových výrobkov (ďalej len „evidencia obchodníkov s tabakovou surovinou“). Povinnosť podľa prvej vety sa nevzťahuje na osobu registrovanú colným úradom podľa § 19. Žiadosť musí obsahovať
 
 - a) identifikačné údaje žiadateľa a adresy umiestnenia jeho prevádzkarní, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
 
