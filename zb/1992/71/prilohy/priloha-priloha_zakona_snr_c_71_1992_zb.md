@@ -60,7 +60,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) o neplatnosti manželstva alebo o určenie, či tu manželstvo je alebo nie je | 66 eur
 
-- Položka 7a - Zrušená od 1. 7. 2007 |
+- Položka 7a |
+
+- Zo žaloby na náhradu škody spôsobenej nezákonným rozhodnutím orgánu verejnej moci alebo jeho nesprávnym úradným postupom | 20 eur
 
 - Položka 7b |
 
@@ -106,13 +108,21 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 10 |
 
-- a) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy na základe žaloby | 66 eur
+- a) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy na základe žaloby, ak v písmenách b) až d) nie je ustanovené inak | 70 eur
 
-- b) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol okresný súd alebo krajský súd, a za preskúmanie rozhodnutí o priestupkoch | 33 eur
+- b) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy o priestupku na základe žaloby | 35 eur
 
-- c) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol Najvyšší súd Slovenskej republiky | 66 eur
+- c) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu verejnej správy, ktorým bola uložená sankcia za iný správny delikt alebo určená daň alebo clo alebo boli daň alebo clo dodatočne vyrubené, na základe žaloby | 70 eur
 
-- d) Za konanie o opravnom prostriedku proti rozhodnutiu o odmietnutí registrácie politickej strany alebo hnutia | 331,50 eura
+- d) Z návrhu na preskúmanie zákonnosti rozhodnutia orgánu štátnej správy s pôsobnosťou pre celé územie Slovenskej republiky, ktorý rozhodol vo veci aj v prvom stupni, okrem ministerstiev, na základe žaloby | 70 eur
+
+- e) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol okresný súd alebo krajský súd | 35 eur
+
+- f) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu, ak rozhodol Najvyšší súd Slovenskej republiky | 70 eur
+
+- g) Za konanie o opravnom prostriedku proti rozhodnutiu správneho orgánu vo veciach regulácie v oblasti vysielania, retransmisie a poskytovania audiovizuálnych mediálnych služieb,<sup>3i</sup>) ak rozhodol Najvyšší súd Slovenskej republiky | 500 eur
+
+- h) Za konanie o opravnom prostriedku proti rozhodnutiu o odmietnutí registrácie politickej strany alebo hnutia | 350 eur
 
 - Položka 11 |
 
@@ -222,7 +232,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 18d |
 
-- Z návrhu na uznanie cudzích rozhodnutí | 66 eur
+- Z návrhu na uznanie alebo vyhlásenie vykonateľnosti cudzích rozhodnutí | 66 eur
 
 - Položka 18e |
 
@@ -296,6 +306,10 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Za vyhotovenie úradného osvedčenia o skutočnostiach známych zo súdnych spisov a spisov bývalých štátnych notárstiev za každú aj začatú stranu | 2,50 eura
 
+- Položka 24aa |
+
+- Za vyhotovenie osvedčenia vydaného krajským súdom na verejnú listinu podľa § 352b ods. 1 Občianskeho súdneho poriadku s výnimkou verejnej listiny vo veci vyživovacej povinnosti | 3 eurá
+
 - Položka 24b |
 
 - a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku |
@@ -350,7 +364,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 30: |
 
-- Za výpis z registra trestov a odpis registra trestov (aj negatívne) | 3 eurá
+- Za výpis z registra trestov a odpis registra trestov (aj negatívne) | 4 eurá
 
 - Položka 31 |
 
