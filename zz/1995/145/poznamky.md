@@ -66,11 +66,11 @@
 
 - 10) Napríklad zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov, zákon č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 282/2008 Z. z. o podpore práce s mládežou a o zmene a doplnení zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 10a) Zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+- 10a) § 129 a 132 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 232/2008 Z. z.
 
 - 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
-- 11) § 72 až 88 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 11) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
 
@@ -124,25 +124,33 @@
 
 - 22) § 4 zákona č. 725/2004 Z. z.
 
-- 22a) § 28 ods. 1 písm. m) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení zákona č. 506/2002 Z. z.
+- 22a) § 41 ods. 1 písm. p) zákona č. 56/2012 Z. z. o cestnej doprave.
 
 - 22ac) § 111 zákona č. 725/2004 Z. z.
 
-- 22b) § 29 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+- 22b) § 42 písm. a) zákona č. 56/2012 Z. z.
 
-- 22c) § 28 ods. 1 písm. p) a r) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+- 22ba) § 42 písm. c) zákona č. 56/2012 Z. z.
 
-- 22d) § 28 ods. 1 písm. q) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+- 22bb) § 28 ods. 4 zákona č. 56/2012 Z. z.
 
-- 22e) § 28 ods. 1 písm. s) zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z.
+- 22bc) § 42 písm. d) zákona č. 56/2012 Z. z.
 
-- 23) § 23 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov.
+- 22bd) § 5 ods. 1 a § 42 písm. a) zákona č. 56/2012 Z. z.
 
-- 24) Bod 1 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z. o najväčších prípustných rozmeroch a najväčšej prípustnej hmotnosti niektorých vozidiel.
+- 22c) § 42 písm. b) zákona č. 56/2012 Z. z.
 
-- 25) Bod 2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
+- 22d) § 42 písm. f) zákona č. 56/2012 Z. z.
 
-- 25a) Bod 3 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 403/2005 Z. z.
+- 22e) § 41 písm. m) zákona č. 56/2012 Z. z.
+
+- 23) § 41 ods. 1 písm. f) zákona č. 56/2012 Z. z.
+
+- 24) Bod 1 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z. o najväčších prípustných rozmeroch vozidiel a jazdných súprav, najväčších prípustných hmotnostiach vozidiel a jazdných súprav, ďalších technických požiadavkách na vozidlá a jazdné súpravy v súvislosti s hmotnosťami a rozmermi a o označovaní vozidiel a jazdných súprav.
+
+- 25) Bod 2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z.
+
+- 25a) Bod 3 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z.
 
 - 25aa) § 45 ods. 1 písm. c) až e) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -157,6 +165,8 @@
 - 25ad) Príloha II k nariadeniu Európskeho parlamentu a Rady (ES) č. 216/2008 z 20. februára 2008 o spoločných pravidlách v oblasti civilného letectva a o zriadení Európskej agentúry pre bezpečnosť letectva, ktorým sa zrušuje smernica Rady 91/670/EHS, nariadenie (ES) č. 1592/2002 a smernica 2004/36/ES (Ú. v. EÚ L 79, 19. 3. 2008) v platnom znení.
 
 - 25ae) § 34 až 35 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
+
+- 25af) § 8 ods. 1 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 25b) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -256,15 +266,75 @@
 
 - 36) Napríklad § 10 ods. 6 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 11 ods. 6 zákona č. 213/1997 Z. z.
 
-- 36a) § 13 ods. 3 až 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 36a) § 13 ods. 3 a 4 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 36b) § 15 zákona č. 355/2007 Z. z.
+- 36b) § 15 zákona č. 355/2007 Z. z. v znení zákona č. 132/2010 Z. z.
 
-- 36ba) § 5 ods. 4 písm. n) zákona č. 355/2007 Z. z.
+- 36ba) § 5 ods. 4 písm. o) zákona č. 355/2007 Z. z. v znení zákona č. 172/2011 Z. z.
 
-- 36bb) § 5 ods. 4 písm. o) zákona č. 355/2007 Z. z.
+- 36bb) § 5 ods. 4 písm. p) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
-- 36c) § 21 ods. 5 písm. c) zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení zákona č. 119/2000 Z. z.
+- 36bc) § 9 písm. c) zákona č. 218/2007 Z. z. o zákaze biologických zbraní a o zmene a doplnení niektorých zákonov.
+
+- 36bd) § 40 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 36be) § 5 až 9 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení zákona č. 362/2011 Z. z.
+
+- 36bf) § 30 zákona č. 538/2005 Z. z.
+
+- 36bg) § 9 ods. 3 písm. d) zákona č. 538/2005 Z. z.
+
+- 36bh) § 30 ods. 10 zákona č. 538/2005 Z. z.
+
+- 36bi) § 11 až 13 zákona č. 538/2005 Z. z.
+
+- 36bj) § 15 ods. 5 zákona č. 538/2005 Z. z.
+
+- 36bk) § 11 ods. 4 zákona č. 538/2005 Z. z.
+
+- 36bl) § 17 ods. 3 zákona č. 538/2005 Z. z.
+
+- 36bm) § 17 ods. 4 zákona č. 538/2005 Z. z.
+
+- 36bn) § 17 ods. 7 písm. d) zákona č. 538/2005 Z. z.
+
+- 36bo) § 23 a 24 zákona č. 538/2005 Z. z. v znení zákona č. 362/2011 Z. z.
+
+- 36bp) § 33 a 34 zákona č. 538/2005 Z. z.
+
+- 36bq) § 34 ods. 5 zákona č. 538/2005 Z. z.
+
+- 36br) § 22 zákona č. 538/2005 Z. z.
+
+- 36c) § 53 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+
+- 36ca) § 48 zákona č. 362/2011 Z. z.
+
+- 36cb) § 49 ods. 1 písm. b) zákona č. 362/2011 Z. z.
+
+- 36cc) § 49 ods. 1 písm. a) zákona č. 362/2011 Z. z.
+
+- 36cd) § 49 ods. 5 zákona č. 362/2011 Z. z.
+
+- 36ce) § 49 ods. 14 zákona č. 362/2011 Z. z.
+
+- 36cf) § 49 ods. 9 zákona č. 362/2011 Z. z.
+
+- 36cg) § 50 ods. 3 zákona č. 362/2011 Z. z.
+
+- 36ch) § 50 ods. 1 a 2 zákona č. 362/2011 Z. z.
+
+- 36ci) § 64 zákona č. 362/2011 Z. z.
+
+- 36cj) § 55 ods. 3 zákona č. 362/2011 Z. z.
+
+- 36ck) § 57 zákona č. 362/2011 Z. z.
+
+- 36cl) § 53 ods. 8 a 9 zákona č. 362/2011 Z. z.
+
+- 36cm) Nariadenie Komisie (ES) č. 1234/2008 z 24. novembra 2008 o preskúmaní zmien podmienok v povolení na uvedenie humánnych liekov a veterinárnych liekov na trh (Ú. v. EÚ L 334, 12. 12. 2008).
+
+- 36cn) § 59 zákona č. 362/2011 Z. z.
 
 - 36k) § 65 ods. 2 písm.c) zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -299,6 +369,8 @@
 - 37e) § 36 zákona č. 151/2002 Z. z.
 
 - 37f) § 37 zákona č. 151/2002 Z. z.
+
+- 37g) § 8a zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení zákona č. 452/2007 Z. z.
 
 - 38) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -344,6 +416,8 @@
 
 - 39ob) § 9 ods. 1 zákona č. 409/2011 Z. z.
 
+- 39oc) § 17 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 39p) § 7 zákona č. 258/2011 Z. z.
 
 - 39q) § 10 ods. 2 zákona č. 258/2011 Z. z.
@@ -365,6 +439,8 @@
 - 42) § 6 ods. 1 písm. d) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
 - 42a) § 7 ods. 3 písm. d) zákona č. 125/2006 Z. z. v znení zákona č. 309/2007 Z. z.
+
+- 42b) § 6 ods. 1 písm. e) zákona č. 125/2006 Z. z.
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 
