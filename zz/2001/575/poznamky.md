@@ -2,13 +2,13 @@
 
 - 1a) Napríklad § 61 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 1aa) § 4 ods. 2 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
-
-- 1ab) § 7 ods. 4 zákona č. 151/2010 Z. z. v znení zákona č. 403/2010 Z. z.
-
 - 1b) § 15 a 16 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 1c) § 71 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+- 1ca) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1cb) Napríklad zákon č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
