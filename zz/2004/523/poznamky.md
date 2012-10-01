@@ -46,8 +46,6 @@
 
 - 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
-- 14d) § 1 ods. 4 zákona č. 575/2001 Z. z. v znení zákona č. 403/2010 Z. z.
-
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
 - 16) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
