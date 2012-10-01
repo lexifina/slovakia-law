@@ -26,6 +26,4 @@
 
 - 7) Napríklad zákon č. 532/2010 Z. z., zákon č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní) v znení neskorších predpisov.
 
-- 8) § 1 ods. 4 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení zákona č. 403/2010 Z. z.
-
 - 9) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
