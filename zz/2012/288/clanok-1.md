@@ -2,6 +2,32 @@
 
 Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z., zákona č. 631/2004 Z. z., zákona č. 533/2005 Z. z., zákona č. 610/2005 Z. z., zákona č. 547/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 305/2009 Z. z., zákona č. 477/2009 Z. z., zákona č. 491/2010 Z. z., zákona č. 546/2011 Z. z. a zákona č. 547/2011 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 6 odseky 1až 3 znejú:
+
+- „(1)
+
+- Sadzba dane z tabakových výrobkov s výnimkou cigariet sa ustanovuje takto:
+
+- opis tovaru | | sadzba dane
+
+- cigary, cigarky | | 77,37 eura/1 000 kusov
+
+- tabak | | 71,11 eura/kg.
+
+- (2)
+
+- Sadzba dane z cigariet s výnimkou podľa odseku 3 sa ustanovuje takto:
+
+- kombinovaná sadzba dane | | | |
+
+- opis tovaru | | | špecifická časť | percentuálna časť
+
+- cigarety | | | 59,50 eura/1 000 kusov | 23 % z ceny cigariet.
+
+- (3)
+
+- Minimálna sadzba dane z cigariet je 91 eur/1 000 kusov.“.
+
 - 2. § 9 sa dopĺňa odsekom 33, ktorý znie:
 
 - „(33)
