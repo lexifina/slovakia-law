@@ -8,6 +8,12 @@
 
 - 4a) § 66a Obchodného zákonníka.
 
+- 4b) § 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4c) § 88 až 153 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 4d) § 79 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
 - 5) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
 - Zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov.
@@ -115,6 +121,12 @@
 - 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
 
 - 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 28c) Napríklad § 134 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 341/2005 Z. z. a § 88 až 153 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 28d) Napríklad § 151j a 553c Občianskeho zákonníka.
+
+- 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
