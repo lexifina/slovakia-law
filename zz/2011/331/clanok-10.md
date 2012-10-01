@@ -1,3 +1,3 @@
 # Čl. X
 
-Tento zákon nadobúda účinnosť 1. novembra 2011 okrem čl. I až IV, čl. V bodov 2, 3, 9 až 12, 15, 16, 18, 20 až 24, 26 a 28, čl. VI až VIII a čl. IX bodov 1 až 9 a 11 až 13, ktoré nadobúdajú účinnosť 1. januára 2012, a okrem čl. V bodov 1, 4 až 8, 13, 14, 17, 19, 25 a 27, ktoré nadobúdajú účinnosť 1. januára 2013.
+Tento zákon nadobúda účinnosť 1. novembra 2011 okrem čl. I až IV, čl. V bodov 2, 3, 9 až 12, 15, 16, 18, 20 až 24, 26 a 28, čl. VI až VIII a čl. IX bodov 1 až 9 a 11 až 13, ktoré nadobúdajú účinnosť 1. januára 2012, a okrem čl. V bodov 1, 4 až 8, 13, 14, 19, 25 a 27, ktoré nadobúdajú účinnosť 1. januára 2014.
