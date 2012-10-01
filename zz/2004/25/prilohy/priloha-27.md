@@ -1,1 +1,1 @@
-Príloha č. 27 k vyhláške č. 25/2004 Z. z. [Vzor 27 - Návrh na zápis zmeny zapísaných údajov o Európskom družstve do obchodného registra](../assets/933d7fa761230fe921b808b696ccc7b5d07202b4f3666249922c06203ac3d014.pdf)
+Príloha č. 27 k vyhláške č. 25/2004 Z. z. [Vzor 27 - Návrh na zápis zmeny zapísaných údajov o Európskom družstve do obchodného registra](../assets/8002e0a67bf4ff33120ef58eefc946102aa1e362fbd2fffbf275149e8f9a6293.pdf)

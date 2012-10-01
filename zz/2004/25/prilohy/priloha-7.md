@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 25/2004 Z. z. [Vzor 07 - Návrh na zápis spoločnosti s ručením obmedzeným do obchodného registra](../assets/ef7faffe534fdb6eed21fb0d48e53d7ab850d2c2c5ec852d6f338578d55a5d19.pdf)
+Príloha č. 7 k vyhláške č. 25/2004 Z. z. [Vzor 07 - Návrh na zápis spoločnosti s ručením obmedzeným do obchodného registra](../assets/1abcc93f9ab6f7b9d03fd79fd06db62a89089eee598d545a67953e197bbd002a.pdf)

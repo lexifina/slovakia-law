@@ -8,9 +8,15 @@
 
 - 2) § 60 ods. 4 Obchodného zákonníka.
 
-- 2a) § 59b ods. 3 Obchodného zákonníka.
+- 2a) § 54 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 246/2012 Z. z.
 
-- 2aa) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Ú. v. ES L 199, 31. 07. 1985).
+- 2aa) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov, zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov, zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
+
+- 2ab) § 59b ods. 3 Obchodného zákonníka.
+
+- 2ac) § 115 ods. 5 až 7 a § 117 ods. 4 Obchodného zákonníka v znení zákona č. 246/2012 Z. z.
+
+- 2ad) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1).
 
 - 2b) Článok 25 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Ú. v. ES L 294, 10. 11. 2001).
 

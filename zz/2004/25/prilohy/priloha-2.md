@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 25/2004 Z. z. [Vzor 02 - Návrh na zápis zmeny zapísaných údajov o podnikateľovi fyzickej osobe do obchodného registra](../assets/357bb8addbcca01fcb67c50ff6d622aef68a661df33653c48f73d0c4c0ce37f5.pdf)
+Príloha č. 2 k vyhláške č. 25/2004 Z. z. [Vzor 02 - Návrh na zápis zmeny zapísaných údajov o podnikateľovi fyzickej osobe do obchodného registra](../assets/e5b93292896e1d7197338c9fec1d0212dace42e817e23981f029627d2a69ce53.pdf)

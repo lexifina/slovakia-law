@@ -1,1 +1,1 @@
-Príloha č. 8 k vyhláške č. 25/2004 Z. z. [Vzor 08 - Návrh na zápis zmeny zapísaných údajov o spoločnosti s ručením obmedzeným do obchodného registra](../assets/5cbe4bdcbe4193c247ee6bf34309c71a7e5508dc912a470cc91b74f146c0b3de.pdf)
+Príloha č. 8 k vyhláške č. 25/2004 Z. z. [Vzor 08 - Návrh na zápis zmeny zapísaných údajov o spoločnosti s ručením obmedzeným do obchodného registra](../assets/218fa8224fc570d730e506c085dc096d3ca5606b0ef636d689bc777a4566732a.pdf)
