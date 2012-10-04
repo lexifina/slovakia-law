@@ -148,8 +148,6 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - a) Zo žiadosti o udelenie poverenia súdnemu exekútorovi | 16,50 eura
 
-- b) Za konanie súdu o námietkach proti exekúcii vykonávanej podľa zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov | 6 % z vymáhaného nároku, najmenej 66 eur, najviac 16 596,50 eura
-
 - c) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 66 eur
 
 - Poznámky:1. Poplatok podľa písmena a) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú.2. Ak dôjde k vylúčeniu veci na samostatné konanie, poplatok podľa písmena a) sa vo vylúčených veciach už nevyberá. |
