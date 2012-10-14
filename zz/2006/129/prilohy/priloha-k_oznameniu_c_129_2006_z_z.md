@@ -2130,6 +2130,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 3. Ministerstvo zahraničných vecí Ukrajiny pre všetky ostatné listiny
 
+    - Uruguajská východná republika
+
+    - Ministerstvo zahraničných vecí Uruguaja
+
     - Uzbecká republika
 
   - 1. Ministerstvo spravodlivosti – pre verejné listiny vydané súdmi a súdnymi orgánmi
