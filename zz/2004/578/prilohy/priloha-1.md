@@ -11,3 +11,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 4. Smernica Komisie 2006/86/ES z 24. októbra 2006, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2004/23/ES, pokiaľ ide o požiadavky na spätné sledovanie, o oznamovanie závažných nežiaducich reakcií a udalostí a o určité technické požiadavky na kódovanie, spracovanie, konzervovanie, skladovanie a distribúciu ľudských tkanív a buniek (Ú. v. EÚ L 294, 25. 10. 2006).
 
   - 5. Smernica Komisie 2006/17/ES z 8. februára 2006, ktorou sa vykonáva smernica Európskeho parlamentu a Rady 2004/23/ES, pokiaľ ide o určité technické požiadavky na darcovstvo, odber a testovanie ľudských tkanív a buniek (Ú. v. EÚ L 38, 9. 2. 2006).
+
+  - 6. Smernica Európskeho parlamentu a Rady 2010/53/EÚ zo 7. júla 2010 o normách kvality a bezpečnosti ľudských orgánov určených na transplantáciu (Ú. v. EÚ L 207, 6. 8. 2010).
