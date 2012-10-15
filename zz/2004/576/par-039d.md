@@ -14,24 +14,22 @@
 
 (4) Vláda Slovenskej republiky ustanoví nariadením
 
-- a) podrobnosti o odberoch, darcovstve orgánov a kritériách výberu darcov orgánov,
+- a) podrobnosti o odberoch, darcovstve tkanív a buniek a kritériách výberu darcov tkanív a buniek,
 
-- b) podrobnosti o odberoch, darcovstve tkanív a buniek a kritériách výberu darcov tkanív a buniek,
+- b) podrobnosti o systéme dodržiavania a zaistenia kvality tkanív a buniek,
 
-- c) podrobnosti o systéme dodržiavania a zaistenia kvality tkanív a buniek,
+- c) podrobnosti o laboratórnych testoch požadovaných pre darcov tkanív a buniek,
 
-- d) podrobnosti o laboratórnych testoch požadovaných pre darcov orgánov, tkanív a buniek,
+- d) podrobnosti o postupoch pri odberoch buniek alebo tkanív a pri ich prevzatí poskytovateľom podľa § 35 ods. 1,
 
-- e) podrobnosti o postupoch pri odberoch buniek alebo tkanív a pri ich prevzatí poskytovateľom podľa § 35 ods. 1,
+- e) podrobnosti o spracovaní, uschovaní, skladovaní alebo distribúcii tkanív a buniek,
 
-- f) podrobnosti o spracovaní, uschovaní, skladovaní alebo distribúcii tkanív a buniek,
+- f) podrobnosti o požiadavkách na priamu distribúciu špecifických tkanív a buniek príjemcovi,
 
-- g) podrobnosti o požiadavkách na priamu distribúciu špecifických tkanív a buniek príjemcovi,
+- g) podrobnosti o balení, štítku a rozsahu informácií uvádzaných na štítku v súvislosti s tkanivami, bunkami a výrobkami z nich,
 
-- h) podrobnosti o balení, štítku a rozsahu informácií uvádzaných na štítku v súvislosti s tkanivami, bunkami a výrobkami z nich,
+- h) podrobnosti o kódovaní darcovstva tkanív a buniek,
 
-- i) podrobnosti o kódovaní darcovstva tkanív a buniek,
+- i) podrobnosti o manipulácii s tkanivami a bunkami, ktoré majú byť znehodnotené,
 
-- j) podrobnosti o manipulácii s tkanivami a bunkami, ktoré majú byť znehodnotené,
-
-- k) podrobnosti o hlásení a vyšetrovaní nežiaducich reakcií a udalostí a prijatých opatreniach.
+- j) podrobnosti o hlásení a vyšetrovaní nežiaducich reakcií a udalostí a prijatých opatreniach.

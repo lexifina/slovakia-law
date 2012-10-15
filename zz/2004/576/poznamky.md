@@ -136,6 +136,8 @@
 
 - 40a) Napríklad zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
+- 40b) § 138 ods. 2 Zákonníka práce.
+
 - 41) § 8 Občianskeho zákonníka.
 
 - 41a) § 13 až 15 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
@@ -178,7 +180,13 @@
 
 - 52aa) § 28 písm. f) zákona č. 293 /2007 Z. z. o uznávaní odborných kvalifikácií.
 
-- 52b) § 71 až 73 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 52ac) Zákon č. 540/2001 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
+
+- 52ad) § 4 nariadenia vlády Slovenskej republiky č. 622/2007 Z. z., ktorým sa ustanovujú podrobnosti o spracovaní, uschovaní, skladovaní alebo distribúcii tkanív a buniek a o hlásení a vyšetrovaní nežiaducich reakcií a udalostí a prijatých opatreniach.
 
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 

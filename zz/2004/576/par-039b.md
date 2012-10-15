@@ -10,9 +10,9 @@
 
 (2) Odborný zástupca poskytovateľa podľa § 35 ods. 1 je zodpovedný za
 
-- a) zabezpečenie toho, aby sa tkanivá a bunky určené na humánne použitie odoberali, testovali, spracovali, skladovali alebo distribuovali v súlade s týmto zákonom,
+- a) zabezpečenie toho, aby sa tkanivá a bunky určené na použitie u ľudského príjemcu alebo mimotelové použitie odoberali, testovali, spracovali, skladovali alebo distribuovali v súlade s týmto zákonom,
 
-- b) poskytnutie informácií ministerstvu zdravotníctva o všetkých závažných nežiaducich udalostiach a reakciách uvedených v § 45 ods. 5 a 6 a predkladanie správy, ktorá analyzuje príčiny a prijaté opatrenia,
+- b) poskytnutie informácií ministerstvu zdravotníctva o všetkých závažných nežiaducich udalostiach a reakciách uvedených v § 35 ods. 2 písm. s) a t) a predkladanie správy, ktorá analyzuje príčiny a prijaté opatrenia,
 
 - c) dodržiavanie povinností podľa tohto zákona a podľa osobitného predpisu.<sup>41b</sup>)
 
@@ -20,7 +20,7 @@
 
 (4) Poskytovateľ podľa § 35 ods. 1 zabezpečí zavedenie presného, rýchleho a overiteľného postupu, ktorý mu umožní zrušiť distribúciu a použitie tkanív alebo buniek a produktov z nich, ktoré môžu súvisieť s nežiaducou udalosťou alebo reakciou.
 
-(5) Poskytovateľ podľa § 35 ods. 1 musí zachovať anonymitu medzi darcom a príjemcom a jeho rodinou. Údaje o identite darcu v registri poskytovateľa podľa § 35 ods. 1 a v Národnom registri darcov sú prísne chránené podľa osobitného zákona<sup>20</sup>) a sú kódované.
+(5) Poskytovateľ podľa § 35 ods. 1 musí zachovať anonymitu medzi darcom a príjemcom a jeho rodinou. Údaje o identite darcu v registri poskytovateľa podľa § 35 ods. 1 a v národnom transplantačnom registri sú prísne chránené podľa osobitného zákona<sup>20</sup>) a sú kódované.
 
 (6) Poskytovateľ podľa § 35 ods. 1 zabezpečuje, aby balenia tkanív alebo buniek spĺňali požiadavky vedeckého a technického pokroku. Technické parametre a ďalšie podrobnosti o balení tkanív a buniek ustanoví vláda Slovenskej republiky nariadením.
 
