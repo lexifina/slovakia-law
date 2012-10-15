@@ -26,6 +26,12 @@
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
+- 9a) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
+
+- 9b) § 8 ods. 1 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 306/2012 Z. z.
+
+- 9c) § 8 ods. 7 zákona č. 364/2004 Z. z. v znení zákona č. 306/2012 Z. z.
+
 - 10) Zákon č. 129/1998 Z. z. o zákaze chemických zbraní a o zmene a doplnení niektorých zákonov.
 
 - Vyhláška ministra zahraničných vecí č. 96/1975 Zb. o Dohovore o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických) a toxínových zbraní a o ich zničení.
@@ -35,6 +41,8 @@
 - 12) Napríklad § 8 nariadenia vlády Slovenskej republiky č. 276/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri práci so zobrazovacími jednotkami, § 7 nariadenia vlády Slovenskej republiky č. 281/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách pri ručnej manipulácii s bremenami, § 10 nariadenia vlády Slovenskej republiky č. 329/2006 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou elektromagnetickému poľu.
 
 - 12a) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
+
+- 12b) § 59 ods. 2 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 13) Nariadenie vlády Slovenskej republiky č. 658/2005 Z. z., ktorým sa ustanovujú požiadavky na kozmetické výrobky v znení neskorších predpisov.
 
@@ -68,7 +76,13 @@
 
 - 24) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
 
-- 25) § 9 písm. h) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+- 25) § 3 ods. 2 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
+
+- 25a) § 8 ods. 2 a § 60 ods. 6 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 25b) § 3 ods. 3 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
+
+- 25c) § 59 ods. 1 písm. e) zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 26) Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
