@@ -30,6 +30,10 @@
 
 - 2cbb) § 6 ods. 1 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 664/2007.
 
+- 2cbc) § 6 zákona č. 3/2010 Z. z. o národnej infraštruktúre pre priestorové informácie.
+
+- 2cbd) Zákon č. 45/2011 Z. z. o kritickej infraštruktúre.
+
 - 2d) Vyhláška Federálneho ministerstva vnútra č. 99/1989 Zb. o pravidlách premávky na pozemných komunikáciách (pravidlá cestnej premávky) v znení neskorších predpisov.
 
 - 2da) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení zákona č. 512/2002 Z. z.
