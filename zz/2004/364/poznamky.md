@@ -46,11 +46,11 @@
 
 - 17) § 13c ods. 10 písm. a) a b) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení zákona č. 514/2001 Z. z.
 
-- 18) § 19 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 18) § 19 ods. 1 a 2 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 306/2012 Z. z.
 
-- Nariadenie vlády Slovenskej republiky č. 87/2008 Z. z. o požiadavkách na prírodné kúpaliská.
+- 19) § 3 ods. 1 písm. b) zákona č. 355/2007 Z. z.
 
-- 19) § 5 ods. 1 nariadenia vlády Slovenskej republiky č. 87/2008 Z. z.
+- 19a) § 3 ods. 1 písm. c) zákona č. 355/2007 Z. z.
 
 - 20) § 31 zákona č.139/2002 Z. z. o rybárstve.
 
@@ -167,6 +167,8 @@
 - 66b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 66c) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
 
 - 67) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
