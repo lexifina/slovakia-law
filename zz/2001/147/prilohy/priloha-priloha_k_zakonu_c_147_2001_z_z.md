@@ -13,3 +13,5 @@ Príloha k zákonu č. 147/2001 Z. z.
   - 5. Smernica Európskeho parlamentu a Rady 2005/29/ES z 11. mája 2005 o nekalých obchodných praktikách podnikateľov voči spotrebiteľom na vnútornom trhu, a ktorou sa mení a dopĺňa smernica Rady 84/450/EHS, smernice Európskeho parlamentu a Rady 97/7/ES, 98/27/ES a 2002/65/ES a nariadenie Európskeho parlamentu a Rady (ES) č. 2006/2004 (smernica o nekalých obchodných praktikách) (Ú. v. EÚ L 149/22, 11. 6. 2005).
 
   - 6. Smernica Európskeho parlamentu a Rady 2010/30/EÚ z 19. mája 2010 o udávaní spotreby energie a iných zdrojov energeticky významnými výrobkami na štítkoch a štandardných informáciách o výrobkoch (prepracované znenie) (Ú. v. EÚ L 153/1, 18. 6. 2010).
+
+  - 7. Smernica Európskeho parlamentu a Rady 2010/53/EÚ zo 7. júla 2010 o normách kvality a bezpečnosti ľudských orgánov určených na transplantáciu (Ú. v. EÚ L 207, 6. 8. 2010).
