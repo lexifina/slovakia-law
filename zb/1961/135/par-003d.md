@@ -36,23 +36,15 @@
 
 - b) vykonáva sčítanie cestnej dopravy na cestách v jeho vlastníctve v čase celoštátneho sčítania vo svojom mene a na vlastné náklady. Výsledky tohto sčítania poskytuje bezplatne ministerstvu v určenom čase,
 
-- c) poskytuje údaje o zjazdnosti ciest v jeho vlastníctve ministerstvu bezplatne,
+- c) schvaľuje po kladnom prerokovaní s ministerstvom operačné plány zimnej údržby ciest vo vlastníctve samosprávneho kraja.
 
-- d) schvaľuje po kladnom prerokovaní s ministerstvom operačné plány zimnej údržby ciest vo vlastníctve samosprávneho kraja.
+(10) Samosprávny kraj a obec zabezpečujú
 
-(10) Samosprávny kraj a obec
+- a) informačný systém zimnej spravodajskej služby ako súčasť jednotného informačného systému zimnej spravodajskej služby a údaje o stave zjazdnosti pozemných komunikácií vo svojom vlastníctve poskytujú bezplatne ministerstvu,
 
-- a) pre pozemné komunikácie v ich vlastníctve zabezpečujú
+- b) technickú evidenciu ciest a miestnych komunikácií v ich vlastníctve v súlade s centrálnou evidenciou,
 
-  - 1. informačný systém ako súčasť jednotného informačného systému o diaľniciach a cestách a stave ich zjazdnosti,
-
-  - 2. technickú evidenciu ciest a miestnych komunikácií v súlade s ústrednou technickou evidenciou diaľnic, ciest a miestnych komunikácií,
-
-  - 3. regionálnu banku dát v súlade s centrálnou bankou dát diaľnic a ciest,
-
-- b) poskytujú údaje z technickej evidencie ciest a miestnych komunikácií v ich vlastníctve bezplatne ministerstvu,
-
-- c) zabezpečujú stavebnotechnické vybavenie ciest a miestnych komunikácií v ich vlastníctve podľa potrieb cestnej dopravy a obrany štátu.
+- c) stavebnotechnické vybavenie ciest a miestnych komunikácií v ich vlastníctve podľa potrieb cestnej dopravy a obrany štátu.
 
 (11) Samosprávny kraj je povinný zachovať účelové určenie majetku, ktorý nadobudol do svojho vlastníctva podľa tohto zákona, počas jeho upotrebiteľnosti.
 
