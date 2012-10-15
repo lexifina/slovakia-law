@@ -1,6 +1,10 @@
 - 1) § 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 1a) § 8 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+- 1a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1080/2006 z 5. júla 2006 o Európskom fonde regionálneho rozvoja a ktorým sa zrušuje nariadenie (ES) č. 1783/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení.
+
+- Nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení.
+
+- Nariadenie Komisie (ES) č. 1828/2006 z 8. decembra 2006, ktorým sa stanovujú vykonávacie pravidlá nariadenia Rady (ES) č. 1083/2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a nariadenia Európskeho parlamentu a Rady (ES) č. 1080/2006 o Európskom fonde regionálneho rozvoja (Ú. v. EÚ L 371, 27. 12. 2006) v platnom znení.
 
 - 2) § 32 ods. 3 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -50,6 +54,8 @@
 
 - 21) § 4 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
+- 21a) § 22 zákona č. 443/2010 Z. z. o dotáciách na rozvoj bývania a o sociálnom bývaní.
+
 - 24) § 2 zákona č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 25) § 7 a 7a zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
@@ -61,6 +67,8 @@
 - 28) Napríklad § 31 Občianskeho zákonníka.
 
 - 29) Napríklad Občiansky zákonník, § 21 a 22 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z.
+
+- 29a) Zákon č. 443/2010 Z. z.
 
 - 30) § 116 Občianskeho zákonníka.
 
