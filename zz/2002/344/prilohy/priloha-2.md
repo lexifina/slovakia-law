@@ -681,3 +681,41 @@
   - Transparency and Human Rights
 
   - Directorate of Legislative Coordination and of Special International Legal Relations.
+
+  - Veľká Británia:
+
+  - a) Dohovor pre Veľkú Britániu nadobudne platnosť 1. novembra 2012. Platnosť dohovoru bola rozšírená aj na Gibraltár.
+
+  - b) Ratifikačná listina Veľkej Británie obsahuje tieto vyhlásenia a výhrady:
+
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na účel uplatnenia jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom je uznateľné a vykonateľné vo Veľkej Británii a Severnom Írsku použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
+  - Podľa článku 34 ods. 2 dohovoru Veľká Británia vyhlasuje, že žiadosti podľa odseku 1 tohto článku sa smú zasielať iba prostredníctvom ústredného orgánu.
+
+  - Podľa článku 54 ods. 2 dohovoru vláda Spojeného kráľovstva Veľkej Británie a Severného Írska vylučuje použitie francúzskeho jazyka.
+
+  - c) Podľa článku 29 dohovoru Veľká Británia určila tieto ústredné orgány:
+
+  - Pre Anglicko
+
+  - The International Child Abduction and Contact Unit (ICACU)
+
+  - Official Solicitor and Public Trustee
+
+  - Pre Wales
+
+  - Welsh Government
+
+  - Children's Social Services
+
+  - Pre Škótsko
+
+  - Scottish Government
+
+  - Central Authority and International Law Team
+
+  - Pre Severné Írsko
+
+  - Northern Ireland Courts & Tribunal Service
+
+  - Central Business Unit.
