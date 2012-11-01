@@ -2,9 +2,9 @@
 
 (1) Úrad uloží pokutu za porušenie povinností
 
-- a) do 10 000 000 Sk fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá poskytuje akreditované certifikačné služby bez akreditácie,
+- a) do 330 000 eur fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá poskytuje akreditované certifikačné služby bez akreditácie,
 
-- b) do 10 000 000 Sk akreditovanej certifikačnej autorite, ktorá
+- b) do 330 000 eur akreditovanej certifikačnej autorite, ktorá
 
   - 1. neposkytuje certifikačné služby v súlade s týmto zákonom a s bezpečnostnými pravidlami podľa § 14 ods. 2,
 
@@ -18,13 +18,13 @@
 
   - 6. vykonáva činnosť, ktorá jej bola dočasne pozastavená,
 
-- c) do 5 000 000 Sk, a to aj opakovane, akreditovanej certifikačnej autorite, ktorá neposkytne alebo zatají informácie týkajúce sa poskytovania akreditovaných certifikačných služieb,
+- c) do 165 000 eur, a to aj opakovane, akreditovanej certifikačnej autorite, ktorá neposkytne alebo zatají informácie týkajúce sa poskytovania akreditovaných certifikačných služieb,
 
-- d) do 1 000 000 Sk, a to aj opakovane, certifikačnej autorite, ktorá poruší povinnosti certifikačnej autority podľa § 14 ods. 1 písm. c),
+- d) do 33 000 eur, a to aj opakovane, certifikačnej autorite, ktorá poruší povinnosti certifikačnej autority podľa § 14 ods. 1 písm. c),
 
-- e) do 1 000 000 Sk certifikačnej autorite, ktorá poruší povinnosť zrušiť certifikát alebo poruší povinnosť viesť požadovanú dokumentáciu podľa § 15 ods. 4,
+- e) do 33 000 eur certifikačnej autorite, ktorá poruší povinnosť zrušiť certifikát alebo poruší povinnosť viesť požadovanú dokumentáciu podľa § 15 ods. 4,
 
-- f) do 1 000 000 Sk certifikačnej autorite, ktorej registračná autorita
+- f) do 33 000 eur certifikačnej autorite, ktorej registračná autorita
 
   - 1. neposkytuje služby podľa postupov a v súlade s bezpečnostnými pravidlami certifikačnej autority,
 
@@ -32,13 +32,13 @@
 
   - 3. nevedie dokumentáciu o spôsobe poskytovania a bezpečnosti poskytovaných služieb, nechráni osobné údaje registrovaných osôb podľa osobitného predpisu,
 
-- g) do 1 000 000 Sk fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá zneužila súkromný kľúč podpisovateľa,
+- g) do 33 000 eur fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá zneužila súkromný kľúč podpisovateľa,
 
-- h) do 1 000 000 Sk zastupovanej osobe, ktorá poruší povinnosť bezodkladne požiadať o zrušenie certifikátu podľa § 7 ods. 6,
+- h) do 33 000 eur zastupovanej osobe, ktorá poruší povinnosť bezodkladne požiadať o zrušenie certifikátu podľa § 7 ods. 6,
 
-- i) do 500 000 Sk, a to aj opakovane, akreditovanej certifikačnej autorite, ktorá nesplní povinnosti podrobiť sa auditu podľa § 25 ods. 1 alebo nepredloží záverečnú správu o výsledku auditu v lehote podľa § 25 ods. 2,
+- i) do 16 500 eur, a to aj opakovane, akreditovanej certifikačnej autorite, ktorá nesplní povinnosti podrobiť sa auditu podľa § 25 ods. 1 alebo nepredloží záverečnú správu o výsledku auditu v lehote podľa § 25 ods. 2,
 
-- j) do 500 000 Sk certifikačnej autorite, ktorá
+- j) do 16 500 eur certifikačnej autorite, ktorá
 
   - 1. nesplní oznamovaciu povinnosť podľa § 14 ods. 1 písm. d),
 
