@@ -1,1 +1,0 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 23/2003 Z. z., ktorým sa ustanovujú laboratórne postupy na kvantitatívnu analýzu dvojzložkových zmesí textilných vláken a trojzložkových zmesí textilných vláken v znení neskorších predpisov.
