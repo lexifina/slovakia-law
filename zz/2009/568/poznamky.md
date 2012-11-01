@@ -20,15 +20,17 @@
 
 - 11) § 15 ods. 4 zákona č. 596/2003 Z. z.
 
-- 12) § 83 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
-
 - 13) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 13a) § 22 zákona č. 455/1991 Zb. v znení neskorších predpisov
 
 - 14) § 8 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 15) § 19 zákona č. 245/2008 Z. z.
 
 - 16) § 35a zákona č. 5/2004 Z. z.o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 139/2008 Z. z.
+
+- 16a) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 17) § 73 zákona č. 245/2008 Z. z.
 
