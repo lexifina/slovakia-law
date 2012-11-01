@@ -30,7 +30,11 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
 
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1222/2009 z 25. novembra 2009 o označovaní pneumatík vzhľadom na palivovú úspornosť a iné základné parametre (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
+
 - 9c) Napríklad zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov, delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
+
+- 9d) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1007/2011 z 27. septembra 2011 o názvoch textilných vlákien a súvisiacom označení vláknového zloženia textilných výrobkov etiketou a iným označením, ktorým sa zrušuje smernica Rady 73/44/EHS a smernice Európskeho parlamentu a Rady 96/73/ES a 2008/121/ES (Ú. v. EÚ L 272, 18. 10. 2011) v platnom znení.
 
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
