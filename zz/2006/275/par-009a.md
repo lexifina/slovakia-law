@@ -22,7 +22,7 @@
 
 (6) Podmienky prevádzky integrovaného obslužného miesta je prevádzkovateľ integrovaného obslužného miesta povinný spĺňať počas celej doby jeho prevádzkovania. Pri výkone kontroly plnenia podmienok prevádzky integrovaného obslužného miesta je prevádzkovateľ integrovaného obslužného miesta povinný poskytnúť ministerstvu súčinnosť.
 
-(7) Ak prevádzkovateľ integrovaného obslužného miesta prestane spĺňať podmienky prevádzky integrovaného obslužného miesta alebo požiada o zrušenie svojho zápisu, ministerstvo zruší jeho zápis a bezodkladne mu oznámi zrušenie zápisu.
+(7) Ak prevádzkovateľ integrovaného obslužného miesta do dvoch mesiacov od udelenia pokuty podľa § 10 ods. 1 písm. c) nezabezpečí nápravu alebo požiada o zrušenie svojho zápisu, ministerstvo zruší jeho zápis a bezodkladne mu oznámi zrušenie zápisu.
 
 (8) Integrované obslužné miesto musí byť označené. Označenie možno použiť iba na mieste, na ktorom sa činnosť integrovaného obslužného miesta skutočne vykonáva.
 
