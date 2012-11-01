@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 250/2007 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 98/27/ES z 19. mája 1998 o súdnych príkazoch na ochranu spotrebiteľských záujmov (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 166, 11. 6. 1998) v znení smernice Európskeho parlamentu a Rady 1999/44/ES z 25. mája 1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 171, 7. 7. 1999), smernice Európskeho parlamentu a Rady 2000/31/ES z 8. júna 2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 25; Ú. v. ES L 178, 17. 7. 2000), smernice Európskeho parlamentu a Rady 2002/65/ES z 23. septembra 2002 (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 4; Ú. v. ES L 271, 9. 10. 2002), smernice Európskeho parlamentu a Rady 2005/29/ES z 11. mája 2005 (Ú. v. EÚ L 149, 11. 6. 2005).
 
@@ -15,3 +15,5 @@ Príloha č. 2 k zákonu č. 250/2007 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 98/6/ES zo 16. februára 1998 o ochrane spotrebiteľa pri označovaní cien výrobkov ponúkaných spotrebiteľovi (Mimoriadne vydanie Ú. v. EÚ, 15/zv. 4; Ú. v. ES L 80, 18. 3. 1998).
 
   - 7. Smernica Rady č. 93/13/EHS z 5. apríla 1993 o nekalých podmienkach v spotrebiteľských zmluvách (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 2; Ú. v. ES L 95, 21. 4. 1993).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2009/22/ES z 23. apríla 2009 o súdnych príkazoch na ochranu spotrebiteľských záujmov (kodifikované znenie) (Ú. v. EÚ L 110, 1. 5. 2009).
