@@ -1,6 +1,6 @@
 # § 17a Prechodné ustanovenia k úpravám účinným od 1. júla 2012
 
-(1) Do 30. novembra 2012 možno vydávať občianske preukazy bez elektronického čipu.
+(1) Do 30. novembra 2013 možno vydávať občianske preukazy bez elektronického čipu.
 
 (2) Občanovi, ktorý požiadal o vydanie občianskeho preukazu do 30. júna 2012, okresné riaditeľstvo vydá občiansky preukaz podľa ustanovení tohto zákona účinných do 30. júna 2012.
 
