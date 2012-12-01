@@ -1,0 +1,3 @@
+# § 99f Zánik práva vyrubiť daň
+
+Ak daňovník v ďalších zdaňovacích obdobiach nie je povinný podať na zdaňovacie obdobie priznanie k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich a čiastkové priznanie k týmto daniam alebo niektorej z nich a správca dane na toto zdaňovacie obdobie daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje nevyrubí, právo na vyrubenie dane z nehnuteľností, dane za psa, dane za predajné automaty a dane za nevýherné hracie prístroje na toto zdaňovacie obdobie zaniká po uplynutí piatich rokov od konca roka, v ktorom sa mali vyrubiť daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje.

@@ -1,6 +1,6 @@
 Príloha č. 1 k zákonu č. 582/2004 Z. z. v znení zákona č. 465/2008 Z. z.
 
-- HODNOTA ORNEJ PÔDY (OP) A TRVALÝCH TRÁVNYCH PORASTOV (TTP) Okres | KódKÚ* | Názov katastrálneho územia/okresu | Hodnota v eurách/m<sup>2</sup> |
+- HODNOTA ORNEJ PÔDY (OP) A TRVALÝCH TRÁVNATÝCH PORASTOV (TTP) Okres | KódKÚ* | Názov katastrálneho územia/okresu | Hodnota v eurách/m<sup>2</sup> |
 
 - | | | OP | TTP
 

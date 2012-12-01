@@ -1,9 +1,9 @@
-# § 98a
+# § 98a Použitie označenej a neoznačenej platby
 
-(1) Správca dane, ktorým je obec, písomne vyzve daňovníka, ktorý nesplní oznamovaciu povinnosť podľa § 27 ods. 1, § 34a ods. 1, § 49 ods. 1, § 57 ods. 1, § 64a ods. 1, § 72, a poplatníka, ktorý nesplní ohlasovaciu povinnosť podľa § 80, na jej splnenie v primeranej lehote, ktorá nemôže byť kratšia ako osem dní.
+(1) Daňovník označí platbu miestnej dane a poplatku podľa § 2 ods. 1 a 2 spôsobom, ktorý určí obec rozhodnutím o vyrubení dane a poplatku alebo rozdielu dane a poplatku; ak platbu neoznačí, obec ju použije podľa odseku 2.
 
-(2) Ak daňovník nesplní oznamovaciu povinnosť alebo poplatník ohlasovaciu povinnosť ani na základe výzvy podľa odseku 1, správca dane, ktorým je obec, zistí základ miestnej dane a poplatku a určí miestnu daň a poplatok podľa pomôcok.
+(2) Obec neoznačenú platbu použije na úhradu daňového nedoplatku, na splátku miestnej dane a poplatku po lehote splatnosti podľa § 2 ods. 1 a 2 s najstarším dátumom splatnosti v čase prijatia platby, inak na úhradu exekučných nákladov a hotových výdavkov. Ak existuje viacero daňových nedoplatkov a splátok miestnej dane a poplatku po lehote splatnosti podľa § 2 ods. 1 a 2 s rovnakým dátumom splatnosti, prijatá platba sa použije na ich úhradu v poradí podľa ich výšky vzostupne.
 
-(3) Správca dane, ktorým je obec, oznámi daňovníkovi alebo poplatníkovi určovanie miestnej dane alebo poplatku podľa pomôcok, pričom dňom začatia určovania miestnej dane alebo poplatku podľa pomôcok je deň uvedený v oznámení.
+(3) Pri použití daňového preplatku miestnej dane a poplatku podľa § 2 ods. 1 a 2 a pri vrátení pomernej časti miestnej dane podľa § 34a ods. 3, § 64a ods. 3 a § 99h a pomernej časti poplatku podľa § 82 sa ustanovenie odseku 2 použije primerane.
 
-(4) Na postup správcu dane, ktorým je obec, pri určovaní miestnej dane alebo poplatku podľa pomôcok sa vzťahuje osobitný predpis.<sup>46aa</sup>)
+(4) Ak nemožno použiť neoznačenú platbu podľa odseku 2 alebo postup podľa odseku 3, obec vráti na základe žiadosti neoznačenú platbu, daňový preplatok miestnej dane a poplatku podľa § 2 ods. 1 a 2 alebo ich pomernú časť do 60 dní odo dňa doručenia žiadosti.

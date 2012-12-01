@@ -1,9 +1,21 @@
-# § 98b
+# § 98b Elektronické služby
 
-(1) Daňovník je povinný označiť platbu miestnej dane a poplatku podľa § 2 ods. 1 a 2 spôsobom, ktorý určí obec vo všeobecne záväznom nariadení.<sup>11</sup>)
+(1) Obec môže poskytovať elektronické služby.
 
-(2) Správca dane, ktorým je obec, neoznačenú platbu použije na úhradu daňového nedoplatku, na splatnú splátku miestnej dane a poplatku podľa § 2 ods. 1 a 2 s najstarším dátumom splatnosti v čase prijatia platby, inak na úhradu exekučných nákladov a hotových výdavkov. Ak existuje viacero daňových nedoplatkov a splatných splátok miestnej dane a poplatku podľa § 2 ods. 1 a 2 s rovnakým dátumom splatnosti, prijatá platba sa použije na ich úhradu v poradí podľa ich výšky vzostupne.
+(2) Daňovník pri elektronickej komunikácii s obcou má po zadaní prístupových údajov na webovom sídle obce sprístupnenú osobnú internetovú zónu, ktorej obsahom sú najmä
 
-(3) Pri použití daňového preplatku miestnej dane a poplatku podľa § 2 ods. 1 a 2 a pri vrátení pomernej časti miestnej dane podľa § 27, 34a, 49, 57, 64a a § 104 ods. 8 a pomernej časti poplatku podľa § 82 sa ustanovenie odseku 2 použije rovnako.
+- a) spis daňovníka v elektronickej forme,
 
-(4) Ak nemožno použiť neoznačenú platbu podľa odseku 2 alebo postup podľa odseku 3, správca dane, ktorým je obec, vráti na základe žiadosti neoznačenú platbu, daňový preplatok miestnej dane a poplatku podľa § 2 ods. 1 a 2 alebo ich pomernú časť v lehote do 60 dní odo dňa doručenia žiadosti.
+- b) elektronický výpis z osobného účtu daňovníka,
+
+- c) prístup na elektronickú podateľňu,
+
+- d) elektronická osobná schránka,
+
+- e) katalóg služieb.
+
+(3) Elektronickú adresu elektronickej podateľne zverejňuje obec na svojom webovom sídle, ako aj na webovom sídle ústredného portálu verejnej správy.
+
+(4) Elektronická osobná schránka je elektronická schránka, ktorá je určená na komunikáciu s obcou.
+
+(5) Podrobnosti o elektronickej komunikácii a poskytovaní elektronických služieb ustanoví obec všeobecne záväzným nariadením<sup>11</sup>) a uverejní ho na svojom webovom sídle.

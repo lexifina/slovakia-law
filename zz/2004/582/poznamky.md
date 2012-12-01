@@ -10,9 +10,9 @@
 
 - 6) § 34 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 7) § 23 zákona č. 61/1977 Zb. o lesoch.
+- 7) Príloha č. 1 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov v znení vyhlášky č. 74/2011 Z. z.
 
-- 8) Vyhláška Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
+- 8) § 12 písm. c) zákona č. 326/2005 Z. z. o lesoch.
 
 - 9) § 43 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -24,7 +24,17 @@
 
 - 11a) § 43b ods. 1 písm. a) a b) zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
+- 11aa) § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
+
+- 11aaa) Zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11ab) § 2 písm. b) druhý bod zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
+
 - 11b) § 139b zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 11c) § 16 ods. 4 a 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+
+- 11d) § 7 ods. 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) § 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
@@ -40,7 +50,9 @@
 
 - Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 17) § 6a a 7b zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení zákona č. 535/2008 Z. z.
+- 17) Zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov.
 
 - 18) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -48,13 +60,19 @@
 
 - 20) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 20a) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 21) Napríklad zákon č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov, zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 22a) Napríklad Občiansky zákonník, Obchodný zákonník.
 
-- 23) § 2 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
+- 22b) Napríklad § 20 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach, § 10 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, § 10 zákona č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
+
+- 23) § 3 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 277/2008 Z. z., ktorou sa ustanovujú klasifikačné znaky na ubytovacie zariadenia pri ich zaraďovaní do kategórií a tried.
 
 - 24) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 450/2003 Z. z.
 
@@ -86,7 +104,7 @@
 
 - 33) § 9 písm. f) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
-- 34) § 2 zákona č. 61/1977 Zb.
+- 34) § 3 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 35) § 9 písm. h) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
@@ -98,15 +116,19 @@
 
 - § 6 zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
 
+- 37a) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
 - 38) § 3 ods. 3 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+
+- 38a) § 114 a 115 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
 
 - 39) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 40) § 96 zákona č. 315/1996 Z. z.
+- 40) § 127 ods. 6 zákona č. 8/2009 Z. z.
 
 - 41) § 3 ods. 1 zákona č. 725/2004 Z. z.
 
-- 42) § 23 a 112 zákona č. 725/2004 Z. z.
+- 42a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 43) § 16 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -124,7 +146,13 @@
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčasti motorových vozidiel.
 
-- 45b) § 79 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
+- 45aa) § 23 a § 112e ods. 1 zákona č. 725/2004 Z. z. v znení zákona č. 144/2010 Z. z.
+
+- 45ab) § 159 zákona č. 563/2009 Z. z.
+
+- 45ac) § 67 zákona č. 563/2009 Z. z.
+
+- 45b) § 79 zákona č. 563/2009 Z. z.
 
 - 46) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
@@ -134,9 +162,9 @@
 
 - 46aa) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 46b) § 3 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 46b) § 7 ods. 1 a 4 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 47) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 47) Zákon č. 563/2009 Z. z.
 
 - 47a) Zákon č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
