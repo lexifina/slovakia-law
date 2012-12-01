@@ -14,7 +14,7 @@
 
   - 3. úlohy mestskej rady a určenie materiálov, ktoré povinne prerokúva mestská rada pred ich predložením do mestského zastupiteľstva,
 
-  - 4. pravidlá vyhlasovania a uskutočňovania hlasovania obyvateľov,
+  - 4. pravidlá vyhlasovania a uskutočňovania miestneho referenda,
 
 - c) podrobné rozdelenie úloh samosprávy Bratislavy a prenesenej pôsobnosti medzi Bratislavu a jej mestské časti,
 
