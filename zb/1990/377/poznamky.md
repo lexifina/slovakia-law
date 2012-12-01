@@ -4,10 +4,4 @@
 
 - 3) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
 
-- 4) § 20 Občianskeho zákonníka§ 24f ods. 2 Hospodárskeho zákonníka.
-
-- 5) § 9 ods. 1 Zákonníka práce.
-
-- 6) § 5 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
-
-- 7) Zákon č. 15/1990 Zb. o politických stranách.
+- 7) Zákon č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.
