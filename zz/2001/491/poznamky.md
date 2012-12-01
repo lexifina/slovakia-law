@@ -60,6 +60,42 @@
 
 - 16bd) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 16c) § 1 nariadenia vlády Slovenskej republiky č. 279/2012 Z. z. o podmienkach vykonávania niektorých opatrení spoločnej organizácie trhu s mliekom a mliečnymi výrobkami.
+
+- 16d) Čl. 126a ods. 4 písm. a) nariadenia (ES) č. 1234/2007.
+
+- 16e) Čl. 126a ods. 1 písm. a), c) a d) a ods. 2 nariadenia (ES) č. 1234/2007.
+
+- 16f) Čl. 126b ods. 3 písm. a) nariadenia (ES) č. 1234/2007.
+
+- 16g) Čl. 126b ods. 1 nariadenia (ES) č. 1234/2007.
+
+- 16h) Čl. 123 ods. 4 písm. a) a čl. 126b ods. 1 písm. c) nariadenia (ES) č. 1234/2007.
+
+- 16i) Čl. 126a ods. 1 a 4 písm. a) nariadenia (ES) č. 1234/2007.
+
+- 16j) Čl. 126b ods. 1 a ods. 3 písm. a) nariadenia (ES) č. 1234/2007.
+
+- 16k) § 15 ods. 4 zákona č. 543/2007 Z. z. v znení neskorších predpisov.
+
+- 16l) Čl. 126a ods. 4 písm. d), čl. 126b ods. 3 písm. e), čl. 126c ods. 8 a čl. 126d ods. 7 nariadenia (ES) č. 1234/2007.
+
+- Čl. 1 a 3 vykonávacieho nariadenia Komisie (EÚ) č. 511/2012 z 15. júna 2012 o oznámeniach týkajúcich sa organizácií výrobcov, medziodvetvových organizácií, zmluvných rokovaní a zmluvných vzťahov podľa nariadenia Rady (ES) č. 1234/2007 v sektore mlieka a mliečnych výrobkov (Ú. v. EÚ L 156, 16. 6. 2012).
+
+- 16m) Čl. 126d nariadenia (ES) č. 1234/2007.
+
+- 16n) Čl. 126c ods. 2 písm. f) nariadenia (ES) č. 1234/2007.
+
+- Čl. 2 ods. 1 a 2 vykonávacieho nariadenia (EÚ) č. 511/2012.
+
+- 16o) Čl. 2 ods. 3 vykonávacieho nariadenia (EÚ) č. 511/2012.
+
+- 16p) Čl. 185f ods. 2 nariadenia (ES) č. 1234/2007.
+
+- 16q) Čl. 185f ods. 3 nariadenia (ES) č. 1234/2007.
+
+- 16r) Čl. 185f ods. 1 nariadenia (ES) č. 1234/2007.
+
 - 17) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 158/1997 Z. z.
 
 - 17a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.

@@ -1,0 +1,5 @@
+# § 10b
+
+(1) Agentúra navrhne ministerstvu do troch mesiacov odo dňa podania žiadosti o uznanie organizácie výrobcov alebo žiadosti o uznanie združenia organizácií výrobcov podľa osobitného predpisu<sup>16c</sup>) rozhodnúť o uznaní,<sup>16d</sup>) ak organizácia výrobcov alebo združenie organizácií výrobcov spĺňa podmienky podľa osobitného predpisu,<sup>16e</sup>) podmienku počtu členov podľa § 10 ods. 3 a 4 a predmetom činnosti organizácie výrobcov alebo združenia organizácií výrobcov je sprostredkovanie, obchodovanie alebo uvádzanie mlieka alebo mliečnych výrobkov na trh; inak agentúra navrhne ministerstvu rozhodnúť o neuznaní.
+
+(2) Agentúra navrhne ministerstvu do troch mesiacov odo dňa podania žiadosti o uznanie medziodvetvovej organizácie podľa osobitného predpisu<sup>16c</sup>) rozhodnúť o jej uznaní,<sup>16f</sup>) ak medziodvetvová organizácia spĺňa podmienky podľa osobitného predpisu<sup>16g</sup>) a jej členovia majú podiel aspoň 33 % na hospodárskych činnostiach na trhu s mliekom a mliečnymi výrobkami v Slovenskej republike, na ktoré je medziodvetvová organizácia zameraná;<sup>16h</sup>) inak agentúra navrhne ministerstvu rozhodnúť o neuznaní.
