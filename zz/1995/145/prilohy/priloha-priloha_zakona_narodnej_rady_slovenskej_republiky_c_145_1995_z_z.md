@@ -3396,43 +3396,31 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153
 
-  - a) Oznámenie novej chemickej látky, ktorá sa bude uvádzať ročne na trh v množstve |
+  - a) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky....................................... | 663,50 eura
 
-  - 1. menšom ako 0,1 t | 331,50 eura
+  - b) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>)............. | 165,50 eura
 
-  - 2. 0,1 t až v množstve menšom ako 1 t | 663,50 eura
-
-  - 3. 1 t až v množstve menšom ako 10 t | 995,50 eura
-
-  - 4. 10 t až v množstve menšom ako 100 t | 1 327,50 eura
-
-  - 5. 100 t až v množstve menšom ako 1 000 t | 1 659,50 eura
-
-  - 6. 1 000 t a v množstve nad 1 000 t | 1 991,50 eura
-
-  - b) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky | 663,50 eura
-
-  - c) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>) | 165,50 eura
-
-  - d) Žiadosť o podanie výnimky z uvádzania detergentov alebo povrchovo aktívnych látok pre detergenty na trh<sup>36t</sup>) | 165,50 eura
-
-  - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vzťahuje aj na chemické látky obsiahnuté v chemickom prípravku. 2. Pri predložení dodatkovej dokumentácie k oznámeniu o dosiahnutí väčšieho množstva uvádzania novej chemickej látky ročne na trh alebo celkovo<sup>36s</sup>) je poplatník povinný doplatiť rozdiel poplatku podľa písmena a) bodov 1 až 6. 3. Poplatok podľa písmena a) tejto položky sa znižuje v prípade medziproduktu o 50 %. |
+  - c) Žiadosť o podanie výnimky z uvádzania detergentov alebo povrchovo aktívnych látok pre detergenty na trh<sup>36t</sup>)............. | 165,50 eura
 
     - Položka 153a
 
-  - a) Vydanie rozhodnutia o autorizácii biocídneho výrobku na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z............ | 1 659,50 eura
+  - a) Vydanie rozhodnutia o autorizácii biocídneho výrobku podľa § 7 zákona č. 217/2003 Z. z. | 600 eur
 
-  - b) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z.............. | 829,50 eura
+  - b) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom podľa § 7 zákona č. 217/2003 Z. z. | 600 eur
 
-  - c) Zmena rozhodnutia o autorizácii biocídneho výrobku, o registrácii biocídneho výrobku s nízkym rizikom, o autorizácii biocídneho výrobku na základe vzájomného uznania alebo o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania............... | 497,50 eura
+  - c) Vydanie rozhodnutia o autorizácii biocídneho výrobku na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 500 eur
 
-  - d) Autorizácia biocídneho výrobku alebo registrácia biocídneho výrobku s nízkym rizikom podľa § 9 zákona č. 217/2003 Z. z.............. | 1 659,50 eura
+  - d) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 500 eur
 
-  - e) Podanie žiadosti o určenie rámcového zloženia biocídneho výrobku alebo biocídneho výrobku s nízkym rizikom podľa § 7 ods. 9 zákona č. 217/2003 Z. z........... | 663,50 eura
+  - e) Zmena rozhodnutia o autorizácii biocídneho výrobku, o registrácii biocídneho výrobku s nízkym rizikom, o autorizácii biocídneho výrobku na základe vzájomného uznania alebo o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania | 1 000 eur
 
-  - f) Podanie žiadosti o možnosť vykonávania pokusov, testov alebo skúšok podľa § 14 ods. 5 zákona č. 217/2003 Z. z............. | 995,50 eura
+  - f) Autorizácia biocídneho výrobku alebo registrácia biocídneho výrobku s nízkym rizikom podľa § 9 zákona č. 217/2003 Z. z. | 3 000 eur
 
-  - g) Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh podľa § 33 ods. 2 zákona č. 217/2003 Z. z. ................................... | 165,50 eura
+  - g) Podanie žiadosti o určenie rámcového zloženia biocídneho výrobku alebo biocídneho výrobku s nízkym rizikom podľa § 7 ods. 9 zákona č. 217/2003 Z. z. | 1 500 eur
+
+  - h) Podanie žiadosti o možnosť vykonávania pokusov, testov alebo skúšok podľa § 14 ods. 5 zákona č. 217/2003 Z. z. | 1 000 eur
+
+  - i) Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh podľa § 33 a § 33a ods. 2 zákona č. 217/2003 Z. z. | 300 eur
 
     - Položka 154
 
@@ -3781,36 +3769,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 171g
 
   - Žiadosť o povolenie zabezpečenia úloh záchrannej služby náhradným spôsobom<sup>39g</sup>) ........... | 20 eur
-
-    - Položka 171h
-
-  - Žiadosť o registráciu organizácie podľa osobitného predpisu<sup>39h</sup>) pre |
-
-  - a) malú organizáciu – malý podnik<sup>39i</sup>) ........................................................... | 79 eur
-
-  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ................................................. | 796 eur
-
-  - c) ostatnú organizáciu ....................................................................................... | 1 991 eur
-
-    - Položka 171i
-
-  - Žiadosť o predĺženie registrácie organizácie podľa osobitného predpisu<sup>39j</sup>) pre |
-
-  - a) malú organizáciu – malý podnik<sup>39i</sup>) ............................................................................... | 20 eur
-
-  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ..................................................................... | 199 eur
-
-  - c) ostatnú organizáciu ........................................................................................................... | 597 eur
-
-    - Položka 171j
-
-  - Žiadosť o zrušenie dočasného pozastavenia registrácie organizácie podľa osobitného predpisu<sup>39k</sup>) pre |
-
-  - a) malú organizáciu – malý podnik<sup>39i</sup>) ..... | 40 eur
-
-  - b) strednú organizáciu – stredný podnik<sup>39i</sup>) ..... | 398 eur
-
-  - c) ostatnú organizáciu ..... | 995 eur
 
     - Položka 171k
 
