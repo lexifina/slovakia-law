@@ -148,9 +148,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
-- 69. | Činnosť environmentálneho overovateľa | osvedčenie o akreditácii environmentálneho overovateľa | § 12 zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov |
-
-- 70. | Odborná príprava v oblasti environmentálneho manažérstva a auditu | oprávnenie na vykonávanie odbornej prípravy v oblasti environmentálneho manažérstva a auditu | § 18 ods. 1 zákona č. 491/2005 Z. z. |
+- 69. | Činnosť environmentálneho overovateľa | osvedčenie o akreditácii environmentálneho overovateľa | Čl. 20, 21, 22 a 28 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009). |
 
 - 71. | Kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie alebo Hodnotenie zdravotných rizík zo životného prostredia | osvedčenie o odbornej spôsobilosti | § 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
