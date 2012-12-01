@@ -124,7 +124,7 @@ Príloha č. 4 k zákonu č. 469/2002 Z. z.
 
     - 1. začiatok platnosti zmluvy určený spravidla dňom jej podpísania oboma zmluvnými stranami,
 
-    - 2. koniec platnosti zmluvy,
+    - 2. koniec platnosti zmluvy; zmluva sa uzatvára na obdobie troch rokov,
 
   - b) právo poskytovateľa v prípade porušenia podmienok používania národnej environmentálnej značky riešiť to
 
