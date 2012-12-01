@@ -126,6 +126,38 @@
 
 - 27a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 27b) § 66a Obchodného zákonníka.
+
+- 27c) Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27d) § 27 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+
+- 27e) § 2 ods. 2 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 363/2007 Z. z.
+
+- 27f) § 2 ods. 5 a 6 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 27g) § 3 ods. 1 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+
+- 27h) § 4 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+
+- 27i) § 2 ods. 1 zákona č. 384/1997 Z. z. v znení zákona č. 416/2001 Z. z.
+
+- 27j) § 28 písm. a) výnosu Ministerstva financií Slovenskej republiky č. 312/2010 Z. z. o štandardoch pre informačné systémy verejnej správy.
+
+- 27k) § 16 zákona č. 428/2002 Z. z.
+
+- 27l) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 200/2011 Z. z.
+
+- 27m) § 2 písm. j) zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
+
+- 27n) Napríklad zákon č. 275/2006 Z. z., výnos Ministerstva financií Slovenskej republiky č. 312/2010 Z. z.
+
+- 27o) § 6 zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
+
+- Výnos Ministerstva financií Slovenskej republiky č. 312/2010 Z. z.
+
+- 27p) § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 29) Zákon Slovenskej národnej rady č. 149/1975 Zb. v znení neskorších predpisov.
