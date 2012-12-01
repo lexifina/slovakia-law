@@ -34,7 +34,7 @@
 
 - a) technické osvedčenie vozidla,
 
-- b) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách nie starší ako 15 dní,
+- b) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách nie starší ako 15 dní; to neplatí pre vozidlá kategórie L<sub>1e</sub>vyrobené pred 1. januárom 2000,
 
 - c) platný protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. c), s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách nie starší ako 15 dní,
 
@@ -42,7 +42,7 @@
 
 (6) Osvedčenie o evidencii časť II možno vydať iba vozidlu, ktorému bolo udelené typové schválenie ES, typové schválenie alebo iné schválenie na prevádzku v premávke na pozemných komunikáciách v Slovenskej republike a malo vydané technické osvedčenie vozidla.
 
-(7) Ak jednotlivé vozidlo nebolo vybavené miestom na umiestnenie zadnej tabuľky s evidenčným číslom s požadovaným osvetlením, prevádzkovateľ vozidla je povinný splniť ustanovené technické požiadavky na umiestnenie zadnej tabuľky s evidenčným číslom<sup>13a</sup>) a technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom,<sup>13b</sup>) a to ešte pred vydaním rozhodnutia o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu.
+(7) Ak jednotlivé vozidlo nebolo vybavené miestom na umiestnenie zadnej tabuľky s evidenčným číslom s požadovaným osvetlením, prevádzkovateľ vozidla je povinný splniť ustanovené technické požiadavky na umiestnenie zadnej tabuľky s evidenčným číslom<sup>13a</sup>) a technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom,<sup>13b</sup>) a to ešte pred vydaním rozhodnutia o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu. Vozidlá kategórie L<sub>1e</sub>vyrobené pred 1. januárom 2000 nemusia spĺňať technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom, ak v čase výroby tieto vozidlá neboli vybavené takým osvetlením.
 
 (8) Obvodný úrad dopravy vydá jednotlivému vozidlu osvedčenie o evidencii časť II, ak žiadateľ splnil podmienky uvedené v odsekoch 3 až 7; inak žiadosť zamietne.
 
