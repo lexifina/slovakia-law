@@ -168,6 +168,22 @@
 
 - 39) Napríklad nariadenie Komisie (ES) č. 60/2004, rozhodnutie Komisie (ES) č. 361/2007 zo 4. mája 2007 o určení nadbytočných zásob poľnohospodárskych produktov iných ako cukor a o finančných dosahoch ich odstránenia v súvislosti s pristúpením Českej republiky, Estónska, Cypru, Lotyšska, Litvy, Maďarska, Malty, Poľska, Slovinska a Slovenska (Ú. v. EÚ L 138, 30. mája 2007).
 
+- 39a) § 10c ods. 1 zákona č. 491/2001 Z. z. o organizovaní trhu s vybranými poľnohospodárskymi výrobkami v znení neskorších predpisov.
+
+- 39b) § 10e zákona č. 491/2001 Z. z. v znení neskorších predpisov.
+
+- Čl. 126c ods. 2 písm. f) a čl. 177a ods. 2 nariadenia (ES) č. 1234/2007.
+
+- Čl. 2 vykonávacieho nariadenia Komisie (EÚ) č. 511/2012 z 15. júna 2012 o oznámeniach týkajúcich sa organizácií výrobcov, medziodvetvových organizácií, zmluvných rokovaní a zmluvných vzťahov podľa nariadenia Rady (ES) č. 1234/2007 v sektore mlieka a mliečnych výrobkov (Ú. v. EÚ L 156, 16. 6. 2012).
+
+- § 2 ods. 5 nariadenia vlády Slovenskej republiky č. 279/2012 Z. z. o podmienkach vykonávania niektorých opatrení spoločnej organizácie trhu s mliekom a mliečnymi výrobkami.
+
+- 39c) § 10 ods. 6 zákona č. 491/2001 Z. z. v znení neskorších predpisov.
+
+- 39d) Čl. 126a ods. 4 písm. c) nariadenia (ES) č. 1234/2007.
+
+- 39e) Čl. 126b ods. 3 písm. c) a d) nariadenia (ES) č. 1234/2007.
+
 - 40) § 9 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41) Napríklad nariadenie (ES) č. 1973/2004 (Ú. v. EÚ L 345, 20. 11. 2004) v platnom znení.
