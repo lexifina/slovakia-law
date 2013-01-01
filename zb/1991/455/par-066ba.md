@@ -18,7 +18,7 @@
 
 - a) ohlásenia živnosti podľa tohto zákona,
 
-- b) údaje a doklady vrátane správnych poplatkov, ktoré sú vyžadované podľa osobitných zákonov na účely predloženia žiadosti o oprávnenie na podnikanie na základe iného ako živnostenského oprávnenia podľa osobitných zákonov,
+- b) údaje a doklady vrátane správnych poplatkov, ktoré sú vyžadované podľa osobitných zákonov na účely predloženia žiadosti o oprávnenie na podnikanie na základe iného ako živnostenského oprávnenia podľa osobitných zákonov alebo na účely získania iného dokladu, ktorý sa vyžaduje podľa osobitného predpisu,<sup>41aca</sup>) najneskôr ku dňu začatia prevádzkovania živnosti alebo inej podnikateľskej činnosti,
 
 - c) údaje potrebné na registráciu a oznámenia daňovníka podľa osobitného predpisu,<sup>41ac</sup>)
 

@@ -22,7 +22,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 7. | Overovanie určených meradiel alebo Úradné meranie | rozhodnutie o autorizácii | § 24 zákona č. 142/2000 Z. z. |
 
-- 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
+- 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona è. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
 
 - 9. | Zubná technika | – vysokoškolské vzdelanie v študijnom odbore zubná technika alebo – vyššie odborné vzdelanie v študijnom odbore diplomovaný zubný technik alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v odbore zubná technika a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. |
 
@@ -34,11 +34,11 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 12. | Vyhotovovanie dokumentácie ochrany prírody a krajiny | potvrdenie o zápise do zoznamu odborne spôsobilých osôb | § 55 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov |
 
-- 13. | Výkon činnosti vedenia uskutočňovania stavieb na individuálnu rekreáciu, prízemných stavieb a stavieb zariadenia staveniska, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup> a výšku 15 m, drobných stavieb a ich zmien | – vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo – odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | § 44 ods. 2 zákona č. 50/1976 Zb. |
+- 13. | Výkon činnosti vedenia uskutočňovania stavieb na individuálnu rekreáciu, prízemných stavieb a stavieb zariadenia staveniska, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup>a výšku 15 m, drobných stavieb a ich zmien | – vysokoškolské vzdelanie stavebného smeru alebo architektonického smeru alebo – odborné stredoškolské vzdelanie stavebného smeru a 3 roky praxe v odbore | § 44 ods. 2 zákona č. 50/1976 Zb. |
 
 - 14. | Výkon činnosti stavbyvedúceho alebo Výkon činnosti stavebného dozoru alebo Energetická certifikácia | – osvedčenie o vykonaní skúšky odbornej spôsobilosti alebo – osvedčenie o získaní osobitnej odbornej spôsobilosti | § 31 ods. 2 písm. j) a k) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov |
 
-- 15. | Výkon činnosti energetického audítora | osvedčenie o zápise do zoznamu energetických audítorov | § 9 ods. 1 zákona č. 476/2008 Z. z. o efektívnosti pri používaní energie (zákon o energetickej efektívnosti) a o zmene a doplnení zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 17/2007 Z. z. |
+- 15. | Výkon činnosti energetického audítora | osvedčenie o zápise do zoznamu energetických audítorov | § 9 ods. 1 zákona č. 476/2008 Z. z. o efektívnosti pri používaní energie (zákon o energetickej efektívnosti) a o zmene a doplnení zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona è. 17/2007 Z. z. |
 
 - 16. | Vykonávanie trhacích prác | – oprávnenie strelmajstra, vek 21 rokov alebo – oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 35 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov |
 
@@ -168,7 +168,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 78. | Oprávnené merania emisií, všeobecných podmienok prevádzkovania, alebo technických požiadaviek na stacionárnych zdrojoch ovzdušia Oprávnené merania parametrov kvality ovzdušia Oprávnené kaliberácie automatizovaných meracích systémov emisií, alebo kvality ovzdušia Oprávnené skúšky automatizovaných meracích systémov emisií, alebo kvality ovzdušia Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií, alebo kvality ovzdušia | osvedčenie o osobitnej odbornej spôsobilosti na odborné činnosti v členení podľa § 20 ods. 1 zákona č. 137/2010 Z. z. | § 20 zákona č. 137/2010 Z. z. o ovzduší |
 
-- 79. | Kontrola kotlov a vykurovacích sústav, kontrola klimatizačných systémov | osvedčenie | § 7 ods. 3 zákona č. 17/2007 Z. z. o pravidelnej kontrole kotlov, vykurovacích sústav a klimatizačných systémov a o zmene a doplnení niektorých zákonov |
+- 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | osvedčenie | § 7 ods. 5 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
 - 80. | Prevádzkovanie pohrebiska alebo Prevádzkovanie pohrebnej služby alebo Prevádzkovanie krematória | osvedčenie o odbornej spôsobilosti | § 16 ods. 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov | III
 
@@ -180,7 +180,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 84. | Prevádzkovanie závodného hasičského útvaru | oprávnenie na zriaďovanie a prevádzkovanie závodného hasičského útvaru | § 17 ods. 1 písm. n) zákona č. 314/2001 Z. z. |
 
-- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov |
+- 85. | Organizovanie dobrovoľných dražieb | – vysokoškolské vzdelanie a 3 roky praxe alebo – úplné stredné vzdelanie a 8 rokov praxe | § 6 zákona č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov“. |
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |
 

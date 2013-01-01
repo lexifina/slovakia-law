@@ -248,6 +248,8 @@
 
 - 41ac) § 31 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
+- 41aca) Napríklad § 5a a 13a zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
+
 - 41ad) § 6 ods. 1, § 8 ods. 1, § 23 ods. 1 písm. a) a b) a ods. 8 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 41ae) § 15d ods. 3 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2010 Z. z.
