@@ -4,7 +4,7 @@
 
 (2) Štatút súkromnej vysokej školy určí, ktoré úkony vykonáva rektor v mene právnickej osoby pôsobiacej ako súkromná vysoká škola. Štatút súkromnej vysokej školy môže určiť ďalšie práva a povinnosti rektora súkromnej vysokej školy.
 
-(3) Na rektora súkromnej vysokej školy sa vzťahujú ustanovenia § 10 ods. 7, 8, 9 a 10.
+(3) Na rektora súkromnej vysokej školy sa vzťahujú ustanovenia § 10 ods. 7 až 10.
 
 (4) Po odvolaní rektora alebo po predčasnom skončení výkonu jeho funkcie z iných dôvodov vykonáva do vymenovania nového rektora funkciu rektora súkromnej vysokej školy osoba poverená správnou radou súkromnej vysokej školy na návrh akademického senátu súkromnej vysokej školy.
 

@@ -2,7 +2,7 @@
 
 (1) Zahraničná vysoká škola je povinná
 
-- a) udržiavať a zverejniť zoznam uskutočňovaných akreditovaných študijných programov zahraničnej vysokej školy podľa tohto zákona; zahraničná vysoká škola zaradí nový študijný program do zoznamu akreditovaných študijných programov zahraničnej vysokej školy po priznaní práva udeľovať absolventom tohto študijného programu akademický titul podľa § 83 ods. 1,
+- a) poskytovať údaje do registra študijných programov o študijných programoch uskutočňovaných na území Slovenskej republiky a aktualizovať ich,
 
 - b) každoročne vypracovať, predložiť ministerstvu a zverejniť výročnú správu o činnosti zahraničnej vysokej školy na území Slovenskej republiky (ďalej len „výročná správa o činnosti zahraničnej vysokej školy") v termíne a formou, ktorú určí ministerstvo,
 
@@ -14,7 +14,7 @@
 
 - f) poskytovať a aktualizovať údaje do centrálneho registra študentov o študentoch študujúcich na území Slovenskej republiky (§ 73),
 
-- g) poskytovať a aktualizovať údaje do registra zamestnancov o zamestnancoch pôsobiacich na území Slovenskej republiky (§ 80aa),
+- g) poskytovať a aktualizovať údaje do registra zamestnancov o zamestnancoch pôsobiacich na území Slovenskej republiky,
 
 - h) oznámiť ministerstvu zrušenie zahraničnej vysokej školy a
 

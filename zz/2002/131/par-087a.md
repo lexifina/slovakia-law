@@ -1,27 +1,47 @@
 ## TRETIA HLAVA
 
-# § 87a Priebežné hodnotenie kvality poskytovaného vzdelávania
+# § 87a Vnútorný systém kvality
 
-(1) Vysoká škola je povinná mať pravidlá na priebežné zisťovanie a vyhodnocovanie úrovne kvality nadobúdania vedomostí a rozvoja zručností, ktoré študent študijného programu získava absolvovaním jednotlivých vzdelávacích činností.
+(1) Za zabezpečovanie kvality poskytovaného vysokoškolského vzdelávania zodpovedá vysoká škola.
 
-(2) Vysoká škola najmenej raz za dva akademické roky vypracúva hodnotiacu správu, v ktorej uvádza
+(2) Vysoká škola musí mať vypracovaný, zavedený, používaný a funkčný vnútorný systém kvality, ktorý je podrobnejšie upravený na podmienky jednotlivých súčastí vysokej školy vo vnútorných systémoch kvality týchto súčastí.
 
-- a) pravidlá, ktoré vysoká škola používa na priebežné zisťovanie a vyhodnocovanie úrovne kvality nadobúdania vedomostí a rozvoja zručností,
+(3) Hlavným cieľom vnútorného systému kvality je rozvíjanie významu kvality a jej zabezpečovania pri činnostiach vysokej školy a fakulty.
 
-- b) porovnanie úrovne osvojenia si vedomostí a rozvoja zručností študentmi študijného programu pred a po absolvovaní jednotlivých vzdelávacích činností a úrovne určenej podľa profilu absolventa študijného programu,
+(4) Vnútorný systém kvality, ktorý je upravený vnútorným predpisom vysokej školy, zahŕňa
 
-- c) zistené nedostatky v používaných metódach vzdelávania, v pravidlách overovania kvality nadobúdania vedomostí a rozvoja zručností študentom,
+- a) politiku vysokej školy v oblasti zabezpečovania kvality vysokoškolského vzdelávania (ďalej len „zabezpečovanie kvality“) a
 
-- d) prijaté opatrenia na odstránenie zistených nedostatkov a
+- b) postupy vysokej školy v oblasti zabezpečovania kvality.
 
-- e) ďalšie údaje potrebné na vypracovanie hodnotiacej správy.
+(5) Politika vysokej školy v oblasti zabezpečovania kvality obsahuje
 
-(3) Vysoká škola predkladá hodnotiacu správu Akreditačnej komisii. Akreditačná komisia posúdi hodnotiacu správu do 90 dní od jej doručenia vysokou školou.
+- a) základné nástroje na dosiahnutie hlavného cieľa vnútorného systému kvality,
 
-(4) Akreditačná komisia môže vrátiť vysokej škole hodnotiacu správu s určením primeranej lehoty na jej prepracovanie, ak hodnotiaca správa obsahuje informácie a závery, ktoré nie sú v súlade s použitou metodikou overovania jednotlivých skutočností; inak vezme hodnotiacu správu na vedomie.
+- b) charakteristiku vzťahu medzi vysokoškolským vzdelávaním a výskumnou, vývojovou alebo umeleckou a ďalšou tvorivou činnosťou na vysokej škole,
 
-(5) Vysoká škola zverejní hodnotiacu správu na svojej internetovej stránke do desiatich pracovných dní odo dňa, keď vysokej škole bolo oznámené, že ju Akreditačná komisia vzala na vedomie. Hodnotiacu správu zverejňuje vysoká škola po dobu najmenej piatich rokov.
+- c) organizáciu vnútorného systému kvality,
 
-(6) Vysoká škola môže požiadať Akreditačnú komisiu o schválenie metodiky zostavenia hodnotiacej správy pred jej vypracovaním.
+- d) rozdelenie zodpovednosti súčastí vysokej školy v oblasti zabezpečovania kvality,
 
-(7) Akreditačná komisia prihliada na zistenia z hodnotiacej správy v rámci akreditácie študijného programu.
+- e) charakteristiku zapojenia študentov do vnútorného systému kvality,
+
+- f) spôsoby zavádzania, používania, monitorovania a prehodnocovania zásad vysokej školy v oblasti zabezpečovania kvality.
+
+(6) Postupy v oblasti zabezpečovania kvality sú vypracované a uplatňujú sa v nasledovných oblastiach:
+
+- a) tvorba, schvaľovanie, monitorovanie a pravidelné hodnotenie študijných programov,
+
+- b) kritériá a pravidlá hodnotenia študentov,
+
+- c) zabezpečovanie kvality vysokoškolských učiteľov,
+
+- d) zabezpečovanie materiálnych, technických a informačných zdrojov na podporu vzdelávania študentov zodpovedajúcich potrebám študijných programov,
+
+- e) zber, analýza a používanie informácií potrebných na efektívne riadenie uskutočňovania študijných programov,
+
+- f) pravidelné zverejňovanie aktuálnych, objektívnych, kvantitatívnych a kvalitatívnych informácií o študijných programoch a ich absolventoch.
+
+(7) Ustanovenia odsekov 4 až 6 sa vzťahujú rovnako na vnútorné systémy kvality jednotlivých súčastí vysokej školy.
+
+(8) Ak Akreditačná komisia v rámci komplexnej akreditácie činností vysokej školy zistí nedostatky vnútorného systému kvality alebo jeho uplatňovania, ministerstvo na návrh Akreditačnej komisie podľa § 84 ods. 4 písm. f) určí vysokej škole lehotu na ich odstránenie a zároveň požiada Akreditačnú komisiu, aby zabezpečila overenie ich odstránenia. Ak sú tieto nedostatky podľa vyjadrenia Akreditačnej komisie v rámci komplexnej akreditácie činností závažné a vysoká škola ich v určenej lehote neodstráni, ministerstvo po vyjadrení Akreditačnej komisie k overeniu ich odstránenia predloží vláde návrh zákona na zrušenie verejnej vysokej školy alebo návrh na odňatie štátneho súhlasu súkromnej vysokej škole alebo príslušné ministerstvo predloží návrh zákona na zrušenie štátnej vysokej školy.

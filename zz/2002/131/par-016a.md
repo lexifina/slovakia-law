@@ -8,7 +8,7 @@
 
 - c) štipendijný fond,
 
-- d) fond na podporu štúdia študentov so zdravotným postihnutím,
+- d) fond na podporu štúdia študentov so špecifickými potrebami,
 
 - e) fondy podľa osobitných predpisov.<sup>6</sup>)
 
@@ -30,9 +30,9 @@
 
 (5) Fond reprodukcie sa používa na obstaranie dlhodobého hmotného majetku a dlhodobého nehmotného majetku vrátane jeho technického zhodnotenia podľa § 17 ods. 3, na poskytovanie prostriedkov podľa uzatvorených zmlúv o združení prostriedkov<sup>8</sup>) na obstaranie dlhodobého hmotného majetku a dlhodobého nehmotného majetku a na splátky úverov použitých na obstaranie dlhodobého hmotného majetku a dlhodobého nehmotného majetku alebo jeho technického zhodnotenia.
 
-(6) Štipendijný fond sa okrem prostriedkov podľa odsekov 2 a 3 vytvára z časti výnosov zo školného (§ 92 ods. 18) a z časti dotácie na sociálnu podporu študentov (§ 89 ods. 7) určenú na sociálne štipendiá a motivačné štipendiá (§ 96). Štipendijný fond sa používa na poskytovanie štipendií podľa § 95 až 97 a pôžičiek podľa § 101 ods. 3.
+(6) Štipendijný fond sa okrem prostriedkov podľa odsekov 2 a 3 vytvára z časti výnosov zo školného podľa § 92 ods. 20 a z časti dotácie na sociálnu podporu študentov (§ 89 ods. 7) určenú na sociálne štipendiá a motivačné štipendiá (§ 96). Štipendijný fond sa používa na poskytovanie štipendií podľa § 95 až 97 a pôžičiek podľa § 101 ods. 3.
 
-(7) Fond na podporu štúdia študentov so zdravotným postihnutím možno použiť na finančné zabezpečenie zodpovedajúcich podmienok štúdia študentov so zdravotným postihnutím vzhľadom na ich špeciálne študijné potreby.
+(7) Fond na podporu štúdia študentov so špecifickými potrebami možno použiť na finančné zabezpečenie zodpovedajúcich podmienok štúdia študentov so špecifickými potrebami vzhľadom na ich špecifické potreby.
 
 (8) Ak sa finančné prostriedky fondu vedú na samostatnom účte podľa osobitných predpisov,<sup>9</sup>) stav fondu sa zvyšuje o kreditné úroky a kurzové zisky a znižuje sa o výdavky súvisiace s vedením účtu a kurzové straty.
 
