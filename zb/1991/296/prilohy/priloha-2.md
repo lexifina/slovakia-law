@@ -62,7 +62,7 @@
 
         - S výhradou ustanovení pravidla 3.3 upravia podrobnosti tlačeného formulára žiadosti a žiadosti podávanej ako počítačový výtlačok Administratívne smernice.
 
-    - Pravidlo 4 Žiadosť (obsah)
+    - Pravidlo 4 Žiadosť (Obsah)
 
       - 4.1 Povinný a fakultatívny obsah; podpis
 
@@ -216,13 +216,11 @@
 
         - Ak je na medzinárodnú rešerš medzinárodnej prihlášky príslušných viacero orgánov, prihlasovateľ označí v žiadosti ten orgán, ktorý si vybral.
 
-      - 4.15. Podpis
+      - 4.15 Podpis
 
-      - Žiadosť musí prihlasovateľ podpísať.
+      - Žiadosť musia podpísať prihlasovateľ alebo, ak je viac ako jeden prihlasovateľ, všetci prihlasovatelia.
 
-        - (a) S výhradou odseku (b) musia žiadosť podpísať prihlasovateľ alebo, ak je viac ako jeden prihlasovateľ, všetci prihlasovatelia.
-
-        - (b) Ak dvaja alebo viacerí prihlasovatelia podajú medzinárodnú prihlášku, v ktorej je určený štát, ktorého národné zákonodarstvo požaduje, aby národnú prihlášku podal vynálezca, a keď prihlasovateľ pre tento určený štát, ktorý je vynálezcom, odmietne žiadosť podpísať alebo ho nemožno nájsť alebo ak nie je dosiahnuteľný ani po vynaložení značného úsilia, žiadosť nemusí podpísať tento prihlasovateľ, ak ju podpíše aspoň jeden prihlasovateľ, pričom sa prijímaciemu úradu poskytne uspokojivé vysvetlenie týkajúce sa chýbajúceho podpisu.
+        - (b) (zrušené)
 
       - 4.16 Prepis a preklad určitých slov
 
@@ -2252,7 +2250,7 @@
 
           - (iii) akýkoľvek doklad, ktorý obsahuje dôkaz o prihlasovateľovom práve nárokovať si prioritu skoršej prihlášky, ak prihlasovateľ nie je prihlasovateľom, ktorý podal skoršiu prihlášku, alebo ak prihlasovateľovo meno bolo zmenené po dátume podania skoršej prihlášky,
 
-          - (iv) ak medzinárodná prihláška určuje štát, ktorého národné zákonodarstvo vyžaduje, aby národné prihlášky boli podané pôvodcom, akýkoľvek dokument, ktorý obsahuje prísahu alebo vyhlásenie o pôvodcovstve,
+          - (iv) ak medzinárodná prihláška určuje štát, ktorého národné zákonodarstvo vyžaduje [k dátumu rozhodnutia Zhromaždenia o zmene tohto pravidla] predloženie prísahy alebo vyhlásenia o pôvodcovstve, akýkoľvek dokument, ktorý obsahuje prísahu alebo vyhlásenie o pôvodcovstve,
 
           - (v) všetkých dôkazových prostriedkov týkajúcich sa nezávadnosti preduverejnenia alebo výnimiek z nedostatku novosti, ako je preduverejnenie v dôsledku protiprávnych činov, preduverejnenie na určitých výstavách a preduverejnenie prihlasovateľom v určitom časovom období,
 
@@ -2284,23 +2282,19 @@
 
       - 51bis.2 Určité okolnosti, pri ktorých sa nemusia vyžadovať dokumenty alebo dôkazy
 
-        - (a) Tam, kde aplikované národné zákonodarstvo nevyžaduje, aby boli národné prihlášky podané pôvodcom, určený úrad nebude vyžadovať, ak neexistujú odôvodnené pochybnosti o vierohodnosti daných údajov a vyhlásení, žiadne dokumenty alebo dôkazy
+        - (a) Určený úrad nebude vyžadovať žiadne dokumenty alebo dôkazy, ak neexistujú odôvodnené pochybnosti o vierohodnosti daných údajov a vyhlásení,
 
-          - (i) týkajúce sa totožnosti pôvodcu [pravidlo 51bis.1(a)(i)], ak sú údaje o pôvodcovi v súlade s pravidlom 4.6 zahrnuté v žiadosti alebo ak vyhlásenie o totožnosti pôvodcu je v súlade s pravidlom 4.17(i) zahrnuté v žiadosti alebo je priamo podané na určený úrad;
+          - (i) týkajúce sa totožnosti pôvodcu [pravidlo 51bis.1 (a) (i)] (iné než dokument obsahujúci prísahu alebo vyhlásenie o pôvodcovstve) [pravidlo 51bis.1 (a) (iv)], ak sú údaje o pôvodcovi v súlade s pravidlom 4.6 zahrnuté v žiadosti alebo ak vyhlásenie o totožnosti pôvodcu je v súlade s pravidlom 4.17 (i) zahrnuté v žiadosti alebo je priamo podané na určený úrad,
 
           - (ii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na prihlásenie a udelenie patentu [pravidlo 51bis.1(a)(ii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(ii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad;
 
-          - (iii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na nárokovanie si priority skoršej prihlášky [pravidlo 51bis.1(a)(iii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(iii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad.
+          - (iii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na nárokovanie si priority skoršej prihlášky [pravidlo 51 bis. 1(a) (iii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17 (iii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad,
 
-        - (b) Tam, kde aplikované národné zákonodarstvo vyžaduje, aby boli národné prihlášky podané pôvodcom, určený úrad nebude vyžadovať, ak neexistujú odôvodnené pochybnosti o vierohodnosti daných údajov a vyhlásení, žiadne dokumenty alebo dôkazy
+          - (iv) obsahujúci prísahu alebo vyhlásenie o pôvodcovstve) [pravidlo 51 bis.1 (a) (iv)], ak je vyhlásenie o pôvodcovstve v súlade s pravidlom 4.17 (iv) obsiahnuté v žiadosti alebo je priamo podané na určený úrad.
 
-          - (i) týkajúce sa totožnosti pôvodcu [pravidlo 51bis.1(a)(i)], iné ako doklad obsahujúci prísahu alebo vyhlásenie o pôvodcovstve [pravidlo 51bis.1(a)(iv)], ak údaje týkajúce sa pôvodcu v súlade s pravidlom 4.6 sú obsiahnuté v žiadosti;
+        - (b) (i) až (iii) (zrušené)
 
-          - (ii) týkajúce sa prihlasovateľovho práva tak ako pri dátume medzinárodného podania na nárokovanie si priority skoršej prihlášky [pravidlo 51bis.1(a)(iii)], ak je vyhlásenie o tejto záležitosti v súlade s pravidlom 4.17(iii) obsiahnuté v žiadosti alebo je priamo podané na určený úrad;
-
-          - (iii) obsahujúce prísahu alebo vyhlásenie o pôvodcovstve [pravidlo 51bis.1(a)(iv)], ak je vyhlásenie o pôvodcovstve v súlade s pravidlom 4.17(iv) obsiahnuté v žiadosti alebo je priamo podané na určený úrad.
-
-        - (c) Ak 17. marca 2000 nebude odsek (a) v súlade s ktorýmkoľvek bodom v tomto odseku s aplikovaným národným zákonodarstvom určeného štátu, odsek (a) sa na danú záležitosť nebude aplikovať na tento úrad tak dlho, kým daný odsek nebude zlučiteľný s týmto zákonodarstvom za predpokladu, že dotknutý úrad podľa toho neinformoval Medzinárodný úrad do 30. novembra 2000. Medzinárodný úrad bude prijatú informáciu promptne publikovať vo Vestníku.
+        - (c) (zrušené)
 
       - 51bis.3 Možnosť vyhovieť národným požiadavkám
 
@@ -2362,17 +2356,17 @@
 
         - Podanie návrhu zakladá zvolenie všetkých zmluvných štátov, ktoré sú určené a sú viazané hlavou II Zmluvy.
 
-      - 53.8. Podpis
+      - 53.8 Podpis
 
-      - Návrh musí prihlasovateľ podpísať.
+      - Návrh musí podpísať prihlasovateľ alebo, ak je viac ako jeden prihlasovateľ, všetci prihlasovatelia, ktorí návrh vypracovali.
 
         - (a) S výhradou odseku b) musí návrh podpísať prihlasovateľ alebo, ak je viac ako jeden prihlasovateľ, všetci prihlasovatelia, ktorí návrh vypracovali
 
-        - (b) Ak dvaja alebo viacerí prihlasovatelia podali návrh, ktorom je zvolený štát, ktorého národné zákonodarstvo požaduje, aby národné prihlášky podal vynálezca, a ak prihlasovateľ pre tento zvolený štát, ktorý je vynálezcom, odmietol podpísať návrh alebo ho nemožno nájsť alebo dosiahnuť ani po vynaložení značného úsilia, návrh nemusí podpísať tento prihlasovateľ („dotyčný prihlasovateľ“), ak ho podpísal aspoň jeden prihlasovateľ a
+        - (b) (zrušené)
 
-          - (i) orgánu pre medzinárodný predbežný prieskum je predložené uspokojivé vysvetlenie týkajúce sa chýbajúceho podpisu dotyčného prihlasovateľa alebo
+          - (i) (zrušené)
 
-          - (ii) dotyčný prihlasovateľ nepodpísal žiadosť, ale požiadavkám pravidla 4.15 (b) sa vyhovelo.
+          - (ii) (zrušené)
 
       - 53.9 Vyhlásenie týkajúce sa úprav
 
@@ -3558,17 +3552,17 @@
 
         - (c) Ak oznámenie o späťvzatí prihlasovateľ predloží orgánu pre medzinárodný predbežný prieskum, vyznačí tento orgán dátum prijatia na oznámení a postúpi ho ihneď Medzinárodnému úradu. Predpokladá sa, že oznámenie sa predložilo Medzinárodnému úradu v termíne podľa vyznačeného dátumu.
 
-      - 90bis. 5 Podpis
+      - 90bis.5 Podpis
 
-        - (a) Každé oznámenie o späťvzatí podľa pravidiel 90bis.1 až 90bis.4 musí s výhradou odseku (b) podpísať prihlasovateľ. Ak sú dvaja alebo viac prihlasovateľov, vyžaduje sa podpis všetkých. Prihlasovateľ, ktorý sa považuje za spoločného splnomocnenca podľa pravidla 90.2(b), nie je oprávnený s výhradou pravidla (b) podpísať takéto oznámenie v mene ostatných prihlasovateľov.
+      - Každé oznámenie o späťvzatí podľa pravidiel 90bis.1 až 90bis.4 musí podpísať prihlasovateľ. Ak sú dvaja alebo viac prihlasovateľov, vyžaduje sa podpis všetkých. Prihlasovateľ, ktorý sa považuje za spoločného splnomocnenca podľa pravidla 90.2(b), nie je oprávnený podpísať takéto oznámenie v mene ostatných prihlasovateľov.
 
-        - (b) Ak dvaja alebo viacerí prihlasovatelia podajú medzinárodnú prihlášku, v ktorej určia štát, ktorého národné zákonodarstvo požaduje, aby národné prihlášky podávali vynálezcovia, a ak prihlasovateľa pre tento určený štát, ktorý je vynálezcom, nemožno nájsť alebo zastihnúť po vynaložení značného úsilia, nemusí oznámenie o späťvzatí podľa pravidiel 90bis.1 až 90bis.4 podpísať tento prihlasovateľ („dotyčný prihlasovateľ“), ak ho podpísal aspoň jeden prihlasovateľ, a
+        - (b) (zrušené)
 
-          - (i) poskytlo sa prijímaciemu úradu, Medzinárodnému úradu, orgánu pre vykonanie doplnkovej medzinárodnej rešerše alebo orgánu pre medzinárodný predbežný prieskum, podľa toho, o ktorý prípad ide, uspokojivé vysvetlenie týkajúce sa chýbajúceho podpisu dotyčného prihlasovateľa, alebo
+          - (i) (zrušené)
 
-          - (ii) v prípade oznámenia o späťvzatí podľa pravidla 90bis.1(b), 90bis.2(d), 90bis.3(c) alebo 90bis.3bis(b) dotyčný prihlasovateľ nepodpísal žiadosť, ale požiadavkám podľa pravidla 4.15 (b) sa vyhovelo, alebo
+          - (ii) (zrušené)
 
-          - (iii) v prípade oznámenia o späťvzatí podľa pravidla 90bis.4(b) dotyčný prihlasovateľ nepodpísal návrh, ale požiadavkám podľa pravidla 53.8(b) sa vyhovelo.
+          - (iii) (zrušené)
 
       - 90bis.6 Účinok späťvzatia
 
