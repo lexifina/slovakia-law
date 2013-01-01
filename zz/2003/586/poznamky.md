@@ -44,19 +44,23 @@
 
 - 14a) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
 
+- 14b) § 2 ods. 1 písm. a) zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
+
+- 14c) § 3 zákona č. 147/2001 Z. z. v znení zákona č. 648/2007 Z. z.
+
 - 15) Napríklad § 25 Občianskeho súdneho poriadku, § 35 Trestného poriadku.
 
 - 16) Zákon Národnej rady Slovenskej republiky č. 90/1996 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
 - 17) Trestný poriadok.
 
-- 18) § 244 až 250k Občianskeho súdneho poriadku.
-
 - 19) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
 - Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách okresnými úradmi a obcami.
 
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 20a) § 41 ods. 2 písm. i) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 21) Zákon Slovenskej národnej rady č. 132/1990 Zb. o advokácii v znení zákona č. 302/1992 Z. z.
 

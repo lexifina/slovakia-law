@@ -14,7 +14,7 @@
 
 - d) meno, priezvisko a podpis advokáta,
 
-- e) odtlačok pečiatky advokáta, v ktorej je uvedená adresa advokátskej kancelárie a číslo zápisu v zozname advokátov Slovenskej advokátskej komory.
+- e) odtlačok pečiatky advokáta, v ktorej je uvedená adresa advokátskej kancelárie a číslo zápisu v zozname advokátov Slovenskej advokátskej komory (ďalej len „komora“).
 
 (3) Vzor doložky o autorizácii je uvedený v prílohe č. 3.
 
