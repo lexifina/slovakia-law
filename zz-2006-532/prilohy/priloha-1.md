@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 532/2006 Z. z.
+
+- ZÁKLADNÉ TECHNICKÉ PODMIENKY A POŽIADAVKY NA OCHRANNÉ STAVBY [Tabuľka 01](../assets/c067ce1481db27c0c477c8aee52053804aa7775a71a4be5ba6b4b035b90d24f7.pdf)

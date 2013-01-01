@@ -1,0 +1,3 @@
+Príloha č. 14 k vyhláške č. 532/2006 Z. z.
+
+- VZOR SPRACOVANIA DOKUMENTÁCIE PLÁNU UKRYTIA OBCE [Vzor 11](../assets/0dc1968f327a36eba9e025178abb6cdb1e5d3e27577177a246c78f003a48eed4.pdf)

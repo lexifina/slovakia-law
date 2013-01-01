@@ -1,0 +1,3 @@
+Príloha č. 16 k vyhláške č. 532/2006 Z. z.
+
+- VZOR SPRACOVANIA DOKUMENTÁCIE PLÁNU UKRYTIA KRAJA [Vzor 13](../assets/7b8678f534e4ac42584c428a0a0222e57de30dae323886f37c217a9bbe41a3bd.pdf)

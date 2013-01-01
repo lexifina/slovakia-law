@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 532/2006 Z. z.
+
+- ZÁSADY OCHRANY V OCHRANNÝCH PRIESTOROCH BUDOV [Vzor 01](../assets/0de52130749f6dc4d1a2060af7387b4b9464b5927ebb715cd66e96055c22d398.pdf)
