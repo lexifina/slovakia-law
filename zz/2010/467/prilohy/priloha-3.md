@@ -1,3 +1,3 @@
 Príloha č. 3 k opatreniu č. 467/2010 Z. z.
 
-- FORM 1A: Rozvrh čerpania a platieb istín a úrokov pre jednotlivé dlhodobé dlhy štátu, štátom garantované dlhy a garantované dlhy voči zahraničiu [Vzor 06](../assets/28464af2e2fd8f3e0fa4377e1d978e239e20e6b8ab5b7f1639cdf043d924886c.pdf)
+- FORM 1A: Rozvrh čerpania a platieb istín a úrokov pre jednotlivé dlhodobé dlhy štátu, štátom garantované dlhy a garantované dlhy voči zahraničiu [Vzor 06](../assets/7e20472c5a3c420cbe4e3ce8aca295fb4f2855d2ae9deeb54d3ec411a20ee331.pdf)

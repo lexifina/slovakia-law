@@ -1,3 +1,3 @@
 Príloha č. 6 k opatreniu č. 467/2010 Z. z.
 
-- FORM 4: Dlhodobé negarantované dlhy voči zahraničiu (v tis. eur) [Vzor 09](../assets/d2761d770dadb55559d4c765c901c61d85f66a1455f8ef98c6002bd7d15c179d.pdf)
+- FORM 4: Dlhodobé negarantované dlhy voči zahraničiu (v tis. eur) [Vzor 09](../assets/19e8149e2baa560bd5956d8395e46c05c324ad585d8ac2cb8766df3398b5fcb8.pdf)

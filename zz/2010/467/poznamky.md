@@ -2,4 +2,4 @@
 
 - 2) Vyhláška Štatistického úradu Slovenskej republiky č. 438/2004 Z. z., ktorou sa vydáva klasifikácia štatistických územných jednotiek.
 
-- 3) Vyhláška Štatistického úradu Slovenskej republiky č. 377/2010 Z. z., ktorou sa vydáva Štatistický číselník krajín.
+- 3) Vyhláška Štatistického úradu Slovenskej republiky č. 112/2012 Z. z., ktorou sa vydáva Štatistický číselník krajín.
