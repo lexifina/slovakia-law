@@ -22,4 +22,6 @@ Nariadenie vlády Slovenskej republiky č. 104/2003 Z. z. o Akreditačnej komisi
 
 - v študijných programoch v nelekárskych zdravotníckych študijných odboroch okrem študijného odboru ošetrovateľstvo je garant študijného programu odborne spôsobilý na výkon zdravotníckeho povolania.“.
 
+- 4. V § 3 sa vypúšťa odsek 9.
+
 - 5. V prílohe č. 3 druhom bode bode 2b sa vypúšťa bodkočiarka a tieto slová: „priloží sa plán zabezpečenia plynulého garantovania habilitačného konania a konania na vymenúvanie profesorov, ak v čase posudzovania žiadosti garant má dovŕšiť vek 65 rokov v období po najbližšiu akreditáciu“.
