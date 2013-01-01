@@ -172,6 +172,18 @@ Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení nie
 
 - 14. V § 17 ods. 10 sa slová „100 eur“ nahrádzajú slovami „300 eur“.
 
+- 15. V § 21 sa odsek 2 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- úroveň Národného kvalifikačného rámca.“.
+
+- 16. V § 21 sa odsek 3 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- úroveň Národného kvalifikačného rámca.“.
+
 - 17. V § 21 ods. 5 sa nad slovo „zamestnávateľov“ umiestňuje odkaz 16a.
 
 - Poznámka pod čiarou k odkazu 16a znie:
@@ -185,6 +197,20 @@ Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení nie
 - „(6)
 
 - Ministerstvo zverejňuje a priebežne aktualizuje Národnú sústavu kvalifikácií v Informačnom systéme ďalšieho vzdelávania.“.
+
+- 19. Za § 21 sa vkladá § 21a, ktorý vrátane nadpisu znie:
+
+- „§ 21a
+
+- Národný kvalifikačný rámec
+
+- (1)
+
+- Národný kvalifikačný rámec obsahuje úrovne klasifikácie kvalifikácií podľa súboru kritérií pre dosiahnuté vedomosti, zručnosti a schopnosti a je prepojením na úrovne Európskeho kvalifikačného rámca.
+
+- (2)
+
+- Jednotlivé úrovne Národného kvalifikačného rámca ustanoví ministerstvo všeobecne záväzným právnym predpisom.“.
 
 - 20. V § 22 sa odsek 2 dopĺňa písmenami e) a f), ktoré znejú:
 
