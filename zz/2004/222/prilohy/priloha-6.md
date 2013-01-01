@@ -27,3 +27,5 @@ Príloha č. 6 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z.
   - 12. Smernica Rady 2010/23/EÚ zo 16. marca 2010, ktorou sa mení a dopĺňa smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o voliteľné a dočasné uplatňovanie mechanizmu prenesenia daňovej povinnosti v súvislosti s poskytovaniami určitých služieb, pri ktorých existuje riziko podvodu (Ú. v. EÚ L 72, 20. 3. 2010).
 
   - 13. Smernica Rady 2010/66/EÚ zo 14. októbra 2010, ktorou sa mení a dopĺňa smernica 2008/9/ES, ktorou sa ustanovujú podrobné pravidlá pre vrátenie dane z pridanej hodnoty ustanovené v smernici 2006/112/ES zdaniteľným osobám, ktoré nie sú usadené v členskom štáte vrátenia dane, ale ktoré sú usadené v inom členskom štáte (Ú. v. EÚ L 275, 20. 10. 2010).
+
+  - 14. Smernica Rady 2010/45/EÚ z 13. júla 2010, ktorou sa mení a dopĺňa smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o pravidlá fakturácie (Ú. v. EÚ L 189, 22. 7. 2010).
