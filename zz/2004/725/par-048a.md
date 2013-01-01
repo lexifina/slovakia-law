@@ -10,7 +10,7 @@
 
 - a) ministerstvu v rámci staníc technickej kontroly nachádzajúcich sa na celom území Slovenskej republiky,
 
-- b) krajskému úradu pre cestnú dopravu a pozemné komunikácie<sup>26a</sup>) (ďalej len „krajský úrad dopravy“) v rámci staníc technickej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
+- b) obvodnému úradu pre cestnú dopravu a pozemné komunikácie v sídle kraja<sup>26a</sup>) (ďalej len „obvodný úrad dopravy v sídle kraja“) v rámci staníc technickej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
 
 - c) obvodnému úradu dopravy<sup>8</sup>) v rámci staníc technickej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
 
