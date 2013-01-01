@@ -8,15 +8,37 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 
 - 3. V § 3 ods. 2 prvá veta znie: „Platobne neschopný je ten, kto nie je schopný plniť 30 dní po lehote splatnosti aspoň dva peňažné záväzky viac ako jednému veriteľovi.“.
 
+- 4. V § 3 ods. 3 sa vypúšťa slovo „splatných“ a na konci sa pripájajú tieto vety: „Pri stanovení hodnoty záväzkov a hodnoty majetku sa vychádza z účtovníctva alebo z hodnoty určenej znaleckým posudkom, ktorý má pred účtovníctvom prednosť a prihliadne sa aj na očakávateľné výsledky ďalšej správy majetku, prípadne očakávateľné výsledky ďalšieho prevádzkovania podniku, ak možno so zreteľom na všetky okolnosti odôvodnene predpokladať, že bude možné v správe majetku alebo v prevádzkovaní podniku pokračovať. Do sumy záväzkov sa nezapočítava suma záväzkov, ktoré sú spojené so záväzkom podriadenosti,<sup>1a</sup>) ani suma záväzkov, ktoré by sa v konkurze uspokojovali v poradí ako podriadené pohľadávky.“.
+
+- Poznámka pod čiarou k odkazu 1a znie:
+
+- „1a)
+
+- § 408a Obchodného zákonníka.“.
+
 - 5. V § 9 ods. 2 sa za slová „fyzická osoba“ vkladajú slová „alebo blízka osoba fyzickej osoby“.
 
 - 6. V § 11 ods. 1 sa slovo „môže“ nahrádza slovami „je oprávnený“ a slová „likvidátor dlžníka“ sa nahrádzajú slovami „v mene dlžníka likvidátor“.
+
+- 7. V § 11 ods. 2 sa v celom texte slovo „úpadku“ nahrádza slovom „predlžení“.
 
 - 8. V § 11 odsek 3 znie:
 
 - „(3)
 
 - Veriteľ je oprávnený podať návrh na vyhlásenie konkurzu, ak môže odôvodnene predpokladať platobnú neschopnosť svojho dlžníka. Platobnú neschopnosť dlžníka možno odôvodnene predpokladať vtedy, ak je dlžník viac ako 30 dní v omeškaní s plnením aspoň dvoch peňažných záväzkov viac ako jednému veriteľovi a bol jedným z týchto veriteľov písomne vyzvaný na zaplatenie.“.
+
+- 9. V § 11 odsek 4 znie:
+
+- „(4)
+
+- Osobe, ktorá počas štyroch rokov pred začatím konkurzného konania vo funkcii štatutárneho orgánu alebo jeho člena, likvidátora alebo zákonného zástupcu dlžníka porušila povinnosť včas podať návrh na vyhlásenie konkurzu, vzniká vyhlásením konkurzu povinnosť zaplatiť v prospech všeobecnej podstaty sumu vo výške dlžníkovho základného imania zapísaného v príslušnom registri v čase, keď porušila povinnosť včas podať návrh na vyhlásenie konkurzu, najviac vo výške dvojnásobku minimálnej výšky základného imania obchodnej spoločnosti ustanovenej zákonom.<sup>3a</sup>) Ak je takýchto osôb viac, v časti, v ktorej je ich povinnosť čo do výšky rovnaká, sú povinné plniť spoločne a nerozdielne. Tejto zodpovednosti sa zbaví ten, kto preukáže, že neporušil povinnosť včas podať návrh na vyhlásenie konkurzu alebo, že konal s odbornou starostlivosťou. Zodpovednosti sa zbaví tiež ten, kto nie je oprávnený konať v mene dlžníka samostatne, ak preukáže, že pre nedostatok súčinnosti tých, s ktorými koná spoločne, nemohol túto povinnosť splniť a že bez zbytočného odkladu, ako sa dozvedel alebo mohol dozvedieť o porušení tejto povinnosti, uložil do zbierky listín oznámenie, že dlžník je v predlžení.“.
+
+- Poznámka pod čiarou k odkazu 3a) znie:
+
+- „3a)
+
+- § 108 ods. 1 a § 162 ods. 3 Obchodného zákonníka.“.
 
 - 10. V § 12 ods. 1 sa za slovo „navrhovateľa“ vkladá čiarka a slová „ktorý nie je orgánom verejnej moci,“ a na konci sa pripája táto veta: „Návrh musí byť podaný v dvoch rovnopisoch spolu s prílohami.“.
 
