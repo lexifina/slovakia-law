@@ -260,7 +260,7 @@
 
         - (a) Každé oznámenie podľa odseku (2) možno uskutočniť v okamihu uloženia ratifikačných listín zmluvnou stranou, prijatia alebo schválenia, prípadne prístupu k protokolu, pričom oznámenie pre zmluvnú stranu nadobudne platnosť v deň nadobudnutia platnosti protokolu. Takéto oznámenie možno uskutočniť aj neskôr, v takom prípade nadobudne oznámenie účinnosť tri mesiace po tom, ako ho prijal generálny riaditeľ, alebo v ktorýkoľvek neskorší deň, ktorý je v ňom určený vo vzťahu ku každému medzinárodnému zápisu, ktorého dátum je zhodný alebo neskorší ako deň nadobudnutia platnosti oznámenia.
 
-        - (b) Každé oznámenie uskutočnené podľa odseku (1) v zmysle znenia platného pred 4. októbrom 2001<sup>1</sup>) alebo podľa odseku (2) môže byť kedykoľvek vzaté späť. Oznam o späťvzatí bude adresovaný generálnemu riaditeľovi. Späťvzatie nadobudne účinok dňom jeho prijatia generálnym riaditeľom alebo v neskoršom dátume uvedenom v tomto ozname.
+        - (b) Každé oznámenie uskutočnené podľa odseku (2) môže byť kedykoľvek vzaté späť. Oznam o späťvzatí bude adresovaný generálnemu riaditeľovi. Späťvzatie nadobudne účinok dňom jeho prijatia generálnym riaditeľom alebo v neskoršom dátume uvedenom v tomto ozname.
 
   - 2. KAPITOLA MEDZINÁRODNÁ PRIHLÁŠKA
 
@@ -954,7 +954,7 @@
 
         - (a) Následné vyznačenie musí na medzinárodný úrad podať majiteľ alebo úrad zmluvnej strany majiteľa, ale
 
-          - (i) ak sa postupuje podľa pravidla 7(1), tak ako bolo v platnosti pred 4. októbrom 2001, vyznačenie musí podať úrad pôvodu,
+          - (i) [zrušené]
 
           - (ii) ak je niektorá zo zmluvných strán vyznačená podľa dohody, následné vyznačenie musí podať úrad zmluvnej strany majiteľa,
 
@@ -1506,9 +1506,7 @@
 
         - (b) Na účely tohto odseku je medzinárodná prihláška považovaná za podanú k dátumu, keď je žiadosť o predloženie medzinárodnej prihlášky medzinárodnému úradu doručená alebo považovaná za doručenú úradom pôvodu podľa pravidla 11(1)(a) alebo (c) a medzinárodný zápis je považovaný za predmet následného vyznačenia k dátumu, keď bolo následné vyznačenie podané medzinárodnému úradu, ak je podané priamo majiteľom, alebo k dátumu, keď bola žiadosť na predloženie následného vyznačenia prijatá úradom zmluvnej strany majiteľa, ak je podaná týmto úradom.
 
-      - (5) Prechodné ustanovenia týkajúce sa vyhlásení o poskytnutí ochrany
-
-        - Úrad nie je povinný zasielať vyhlásenia o poskytnutí ochrany podľa pravidla 18ter(1) pred 1. januárom 2011.
+      - (5) [zrušené]
 
     - Pravidlo 41 Administratívne pokyny
 
