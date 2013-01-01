@@ -1,1 +1,0 @@
-Ľudmila Benkovičová v. r.
