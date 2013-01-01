@@ -1,6 +1,6 @@
 Príloha k zákonu č. 151/2002 Z. z.
 
-Zoznam preberaných právnych aktov Európskych spoločenstiev a Európskej únie
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
 1. Smernica Rady 90/219/EHS z 23. apríla 1990 o obmedzenom použití geneticky modifikovaných organizmov (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 1) v platnom znení.
 
