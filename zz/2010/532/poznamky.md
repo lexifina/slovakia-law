@@ -42,11 +42,15 @@
 
 - 22) § 553 Občianskeho zákonníka.
 
-- 23) § 10 zákona č. 68/2008 Z. z. o úhrade za služby verejnosti poskytované Slovenskou televíziou a Slovenským rozhlasom a o zmene a doplnení niektorých zákonov.
-
 - 24) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
-- 25) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+- 25) § 20f až 21 Občianskeho zákonníka.
+
+- Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+
+- Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -100,7 +104,7 @@
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 49) Zákon č. 68/2008 Z. z.
+- 49) Zákon č. 340/2012 Z. z. o úhrade za služby verejnosti poskytované Rozhlasom a televíziou Slovenska a o zmene a doplnení niektorých zákonov.
 
 - 50) § 38 ods. 1 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
