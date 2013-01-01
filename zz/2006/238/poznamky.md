@@ -52,6 +52,8 @@
 
 - 19e) § 2 písm. i) nariadenia vlády Slovenskej republiky č. 348/2006 Z. z.
 
+- 19f) Nariadenie vlády Slovenskej republiky č. 426/2010 Z. z., ktorým sa ustanovujú podrobnosti o výške odvodu z dodanej elektriny koncovým odberateľom a spôsobe jeho výberu pre Národný jadrový fond na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi.
+
 - 20) § 2 písm. p) zákona č. 541/2004 Z. z.
 
 - 20a) § 2 písm. f) bod 2. zákona č. 541/2004 Z. z.
