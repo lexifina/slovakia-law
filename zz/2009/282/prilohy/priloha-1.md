@@ -1,135 +1,47 @@
 Príloha č. 1 k vyhláške č. 282/2009 Z. z.
 
-- TYPY STREDNÝCH ODBORNÝCH ŠKÔL A KONZERVATÓRIÍ
+- TYPY STREDNÝCH ODBORNÝCH ŠKÔL, TYPY KONZERVATÓRIÍ A TYPY STREDNÝCH ODBORNÝCH ŠKÔL, PRI KTORÝCH SA MÔŽE UVIESŤ PRÍVLASTOK
 
   - A. Typy stredných odborných škôl sú:
 
     - a) stredná odborná škola,
 
-    - b) stredná odborná škola automobilová,
+    - b) stredná priemyselná škola,
 
-    - c) stredná odborná škola dopravná,
+    - c) stredná umelecká škola,
 
-    - d) stredná odborná škola drevárska,
+    - d) stredná pedagogická škola,
 
-    - e) stredná odborná škola ekonomická,
+    - e) stredná zdravotnícka škola,
 
-    - f) stredná odborná škola elektrotechnická,
+    - f) škola úžitkového výtvarníctva,
 
-    - g) stredná odborná škola geodetická,
+    - g) dopravná akadémia,
 
-    - h) stredná odborná škola hotelových služieb a obchodu,
+    - h) hotelová akadémia,
 
-    - i) stredná odborná škola hutnícka,
+    - i) obchodná akadémia,
 
-    - j) stredná odborná škola chemická,
+    - j) pedagogická a kultúrna akadémia,
 
-    - k) stredná odborná škola chovu koní a jazdectva,
+    - k) pedagogická a sociálna akadémia,
 
-    - l) stredná odborná škola knihovníckych a informačných štúdií,
+    - l) technická akadémia,
 
-    - m) stredná odborná škola lesnícka,
+    - m) policajná stredná odborná škola,
 
-    - n) stredná odborná škola letecko-technická,
-
-    - o) stredná odborná škola obchodu a služieb,
-
-    - p) stredná odborná škola odevná,
-
-    - q) stredná odborná škola podnikania,
-
-    - r) stredná odborná škola poľnohospodárstva a služieb na vidieku,
-
-    - s) stredná odborná škola polygrafická,
-
-    - t) stredná odborná škola polytechnická,
-
-    - u) stredná odborná škola potravinárska,
-
-    - v) stredná odborná škola pôšt a telekomunikácií,
-
-    - w) stredná odborná škola rozvoja vidieka,
-
-    - x) stredná odborná škola rybárska,
-
-    - y) stredná odborná škola sklárska,
-
-    - z) stredná odborná škola sociálnoprávna,
-
-    - aa) stredná odborná škola stavebná,
-
-    - ab) stredná odborná škola strojnícka,
-
-    - ac) stredná odborná škola technická,
-
-    - ad) stredná odborná škola textilná,
-
-    - ae) stredná odborná škola umeleckopriemyselná,
-
-    - af) stredná odborná škola umeleckoremeselná,
-
-    - ag) stredná odborná škola veterinárna,
-
-    - ah) stredná odborná škola vinársko-ovocinárska,
-
-    - ai) stredná odborná škola záhradnícka,
-
-    - aj) stredná odborná škola železničná,
-
-    - ak) stredná pedagogická škola,
-
-    - al) stredná priemyselná škola,
-
-    - am) stredná priemyselná škola dopravná,
-
-    - an) stredná priemyselná škola drevárska,
-
-    - ao) stredná priemyselná škola elektrotechnická,
-
-    - ap) stredná priemyselná škola hutnícka,
-
-    - aq) stredná priemyselná škola chemická a potravinárska,
-
-    - ar) stredná priemyselná škola stavebná a geodetická,
-
-    - as) stredná priemyselná škola stavebná,
-
-    - at) stredná priemyselná škola strojnícka,
-
-    - au) stredná umelecká škola,
-
-    - av) stredná umelecká škola animovanej tvorby,
-
-    - aw) stredná umelecká škola dizajnu,
-
-    - ax) stredná umelecká škola filmová,
-
-    - ay) stredná umelecká škola scénického výtvarníctva,
-
-    - az) stredná zdravotnícka škola,
-
-    - ba) škola úžitkového výtvarníctva,
-
-    - bb) dopravná akadémia,
-
-    - bc) hotelová akadémia,
-
-    - bd) obchodná akadémia,
-
-    - be) pedagogická a kultúrna akadémia,
-
-    - bf) pedagogická a sociálna akadémia,
-
-    - bg) policajná stredná odborná škola,
-
-    - bh) stredná odborná škola požiarnej ochrany,
-
-    - bi) stredná odborná škola informačných technológií,
-
-    - bj) technická akadémia.
+    - n) stredná odborná škola požiarnej ochrany.
 
   - B. Typy konzervatórií sú:
 
-    - a) hudobné a dramatické konzervatórium
+    - a) hudobné a dramatické konzervatórium,
 
-    - b) tanečné konzervatórium
+    - b) tanečné konzervatórium.
+
+  - C. Typy stredných odborných škôl, pri ktorých sa môže uviesť prívlastok, sú:
+
+    - a) stredná odborná škola,
+
+    - b) stredná priemyselná škola,
+
+    - c) stredná umelecká škola.
