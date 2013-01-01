@@ -1,0 +1,3 @@
+Príloha č. 6 k vyhláške č. 410/2012 Z. z.
+
+- ŠPECIFICKÉ POŽIADAVKY PRE ZARIADENIA POUŽÍVAJÚCE ORGANICKÉ ROZPÚŠŤADLÁ [Tabuľka 06](../assets/05bf1b5fecc656441e7294d2d4d2dcf328060b5e7ecd0598340c6ec0ea6810d0.pdf)

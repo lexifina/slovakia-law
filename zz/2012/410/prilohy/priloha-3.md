@@ -1,0 +1,3 @@
+Príloha č. 3 k vyhláške č. 410/2012 Z. z.
+
+- VŠEOBECNÉ POŽIADAVKY NA ZDROJE ZNEČISŤOVANIA OVZDUŠIA [Tabuľka 03](../assets/2aa5988931804bc8ccf47211cdd00cd0a3c92bc5b8670032602109736728de0a.pdf)
