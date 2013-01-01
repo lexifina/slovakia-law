@@ -1,6 +1,6 @@
 # § 4c Dočasné pozastavenie platnosti registrácie alebo zrušenie registrácie
 
-(1) Obvodný úrad dopravy začne konanie o dočasnom pozastavení platnosti registrácie na vykonávanie kurzov základnej kvalifikácie, ak zistí, že prevádzkovateľ školiaceho strediska napriek upozorneniu
+(1) Obvodný úrad dopravy v sídle kraja začne konanie o dočasnom pozastavení platnosti registrácie na vykonávanie kurzov základnej kvalifikácie, ak zistí, že prevádzkovateľ školiaceho strediska napriek upozorneniu
 
 - a) nevykonáva kurzy podľa plánu na zabezpečenie vykonávania kurzov základnej kvalifikácie,
 
@@ -8,13 +8,13 @@
 
 - c) nevedie evidenciu o výučbe teórie a praktickom výcviku vrátane zoznamu účastníkov alebo
 
-- d) nepredkladá krajskému úradu dopravy hlásenia o začatí a skončení kurzu.
+- d) nepredkladá obvodnému úradu dopravy v sídle kraja hlásenia o začatí a skončení kurzu.
 
 (2) Súčasťou rozhodnutia o dočasnom pozastavení registrácie je aj lehota na odstránenie zisteného nedostatku.
 
-(3) Obvodný úrad dopravy zruší dočasné pozastavenie platnosti registrácie, ak pominú dôvody, pre ktoré bolo uložené, alebo na žiadosť prevádzkovateľa školiaceho strediska, ak písomne preukáže, že odstránil zistený nedostatok.
+(3) Obvodný úrad dopravy v sídle kraja zruší dočasné pozastavenie platnosti registrácie, ak pominú dôvody, pre ktoré bolo uložené, alebo na žiadosť prevádzkovateľa školiaceho strediska, ak písomne preukáže, že odstránil zistený nedostatok.
 
-(4) Obvodný úrad dopravy zruší registráciu na vykonávanie kurzov základnej kvalifikácie, ak prevádzkovateľ školiaceho strediska
+(4) Obvodný úrad dopravy v sídle kraja zruší registráciu na vykonávanie kurzov základnej kvalifikácie, ak prevádzkovateľ školiaceho strediska
 
 - a) neodstráni nedostatok v určenej lehote alebo
 

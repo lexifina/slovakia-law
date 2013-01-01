@@ -1,6 +1,6 @@
 # § 4a Požiadavky na registráciu
 
-(1) Obvodný úrad dopravy zaregistruje žiadateľa na vykonávanie kurzov základnej kvalifikácie na základe písomnej žiadosti, ak žiadateľ preukáže, že
+(1) Obvodný úrad dopravy v sídle kraja zaregistruje žiadateľa na vykonávanie kurzov základnej kvalifikácie na základe písomnej žiadosti, ak žiadateľ preukáže, že
 
 - a) je držiteľom živnostenského oprávnenia<sup>3</sup>) a
 
