@@ -1,91 +1,91 @@
 Príloha k zákonu č. 330/1991 Zb.
 
-- Sídla a pôsobnosť krajských pozemkových úradov a obvodných pozemkových úradov Krajský pozemkový úrad | Obvodný pozemkový úrad | Pôsobnosť v okresoch
+- Sídla a pôsobnosť obvodných pozemkových úradov v sídle kraja a obvodných pozemkových úradov Obvodný pozemkový úrad | Pôsobnosť v okresoch
 
-- Bratislava | Bratislava | Bratislava I-V
+- Bratislava | Bratislava I-V
 
-- | Malacky | Malacky
+- Malacky | Malacky
 
-- | Senec | Pezinok Senec
+- Senec | Pezinok Senec
 
-- Trnava | Trnava | Trnava Hlohovec Piešťany
+- Trnava | Trnava Hlohovec Piešťany
 
-- | Dunajská Streda | Dunajská Streda
+- Dunajská Streda | Dunajská Streda
 
-- | Galanta | Galanta
+- Galanta | Galanta
 
-- | Senica | Senica Skalica
+- Senica | Senica Skalica
 
-- Trenčín | Trenčín | Trenčín Bánovce n/Bebravou
+- Trenčín | Trenčín Bánovce n/Bebravou
 
-- | Považská Bystrica | Považská Bystrica Puchov Ilava
+- Považská Bystrica | Považská Bystrica Puchov Ilava
 
-- | Nové Mesto n/V. | Nové Mesto n/V. Myjava
+- Nové Mesto n/V. | Nové Mesto n/V. Myjava
 
-- | Prievidza | Prievidza Partizánske
+- Prievidza | Prievidza Partizánske
 
-- Nitra | Topoľčany | Topoľčany
+- Topoľčany | Topoľčany
 
-- | Nové Zámky | Nové Zámky Šaľa
+- Nové Zámky | Nové Zámky Šaľa
 
-- | Nitra | Nitra Zlaté Moravce
+- Nitra | Nitra Zlaté Moravce
 
-- | Komárno | Komárno
+- Komárno | Komárno
 
-- | Levice | Levice
+- Levice | Levice
 
-- Žilina | Čadca | Čadca Kysucké Nové Mesto
+- Čadca | Čadca Kysucké Nové Mesto
 
-- | Žilina | Žilina Bytča
+- Žilina | Žilina Bytča
 
-- | Námestovo | Dolný Kubín Námestovo Tvrdošín
+- Námestovo | Dolný Kubín Námestovo Tvrdošín
 
-- | Martin | Martin Turčianske Teplice
+- Martin | Martin Turčianske Teplice
 
-- | Liptovský Mikuláš | Liptovský Mikuláš
+- Liptovský Mikuláš | Liptovský Mikuláš
 
-- | Ružomberok | Ružomberok
+- Ružomberok | Ružomberok
 
-- Banská Bystrica | B. Bystrica | B. Bystrica
+- B. Bystrica | B. Bystrica
 
-- | Brezno | Brezno
+- Brezno | Brezno
 
-- | Žiar n/Hronom | Žiar n /Hronom Žarnovica Banská Štiavnica
+- Žiar n/Hronom | Žiar n /Hronom Žarnovica Banská Štiavnica
 
-- | Zvolen | Zvolen Krupina Detva
+- Zvolen | Zvolen Krupina Detva
 
-- | Veľký Krtíš | Veľký Krtíš
+- Veľký Krtíš | Veľký Krtíš
 
-- | Lučenec | Lučenec Poltár
+- Lučenec | Lučenec Poltár
 
-- | Rimavská Sobota | Rimavská Sobota
+- Rimavská Sobota | Rimavská Sobota
 
-- | Revúca | Revúca
+- Revúca | Revúca
 
-- Prešov | Poprad | Poprad Levoča
+- Poprad | Poprad Levoča
 
-- | Prešov | Prešov Sabinov
+- Prešov | Prešov Sabinov
 
-- | Bardejov | Bardejov
+- Bardejov | Bardejov
 
-- | Stropkov | Stropkov Svidník
+- Stropkov | Stropkov Svidník
 
-- | Humenné | Humenné Snina Medzilaborce
+- Humenné | Humenné Snina Medzilaborce
 
-- | Stará Ľubovňa | Stará Ľubovňa
+- Stará Ľubovňa | Stará Ľubovňa
 
-- | Kežmarok | Kežmarok
+- Kežmarok | Kežmarok
 
-- | Vranov nad Topľou | Vranov nad Topľou
+- Vranov nad Topľou | Vranov nad Topľou
 
-- Košice | Michalovce | Michalovce Sobrance
+- Michalovce | Michalovce Sobrance
 
-- | Trebišov | Trebišov
+- Trebišov | Trebišov
 
-- | Košice-mesto | Košice I-IV
+- Košice | Košice I-IV
 
-- | Košice-okolie | Košice-okolie
+- Košice-okolie | Košice-okolie
 
-- | Spišská Nová Ves | Spišská Nová Ves Gelnica
+- Spišská Nová Ves | Spišská Nová Ves Gelnica
 
-- | Rožňava | Rožňava
+- Rožňava | Rožňava
