@@ -1,6 +1,6 @@
 # § 5a Udeľovanie licencie na balenie kaviáru
 
-(1) Zmeniť licenciu, spracovať, baliť alebo opätovne baliť kaviár určený na vývoz, opätovný vývoz alebo obchod v rámci Spoločenstva (ďalej len „licencia") udeľuje ministerstvo formou rozhodnutia.
+(1) Zmeniť licenciu, spracovať, baliť alebo opätovne baliť kaviár určený na vývoz, opätovný vývoz alebo obchod v rámci Európskej únie (ďalej len „licencia") udeľuje ministerstvo formou rozhodnutia.
 
 (2) Ministerstvo udelí licenciu fyzickej osobe-podnikateľovi, ktorá
 
@@ -44,7 +44,7 @@
 
 - c) požiada o zrušenie licencie.
 
-(8) Ministerstvo rozhodne o zrušení licencie aj vtedy, ak právnickej osobe bola uložená pokuta alebo iná sankcia za porušenie povinností podľa tohto zákona, nariadenia<sup>3</sup>) alebo osobitného predpisu<sup>17</sup>) vo veciach ochrany exemplárov druhov chránených podľa tohto zákona a nariadenia.<sup>3</sup>)
+(8) Ministerstvo rozhodne o zrušení licencie aj vtedy, ak právnickej osobe bola uložená pokuta alebo iná sankcia za porušenie povinností podľa tohto zákona alebo osobitného predpisu<sup>17</sup>) vo veciach ochrany exemplárov druhov chránených podľa tohto zákona a osobitného predpisu.<sup>3</sup>)
 
 (9) Ak bola licencia zrušená podľa odseku 6 písm. a) a b), odseku 7 písm. a) a b) alebo odseku 8, možno ďalšiu licenciu tomu istému žiadateľovi udeliť až po uplynutí dvoch rokov odo dňa nadobudnutia právoplatnosti rozhodnutia o zrušení licencie.
 

@@ -1,12 +1,20 @@
-- 1) Čl. 2 písm. t) nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi v platnom znení (Ú. v. ES L 061, 03. 03. 1997).
+- 1) Čl. 2 písm. t) nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 03) v platnom znení.
 
-- 2) Čl. 2 písm. s) nariadenia Rady (ES) č. 338/97.
+- 2) Čl. 2 písm. s) nariadenia (ES) č. 338/97 v platnom znení.
 
-- 3) Nariadenie Rady (ES) č. 338/97.
+- 2a) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 1007/2009 zo 16. septembra 2009 o obchodovaní s výrobkami z tuleňov (Ú. v. EÚ L 286, 31. 10. 2009).
 
-- Nariadenie Komisie (ES) č. 1808/2001 z 30. augusta 2001, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 338/97 o ochrane druhov žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. ES L 250, 19. 09. 2001).
+- 3) Nariadenie (ES) č. 338/97 v platnom znení.
 
-- Nariadenie Komisie (ES) č. 349/2003 z 25. februára 2003, ktorým sa pozastavuje dovoz exemplárov určitých druhov voľne žijúcich živočíchov a rastlín do Európskeho spoločenstva (Ú. v. EÚ L 051, 26. 02. 2003).
+- Nariadenie Komisie (ES) č. 865/2006 zo 4. mája 2006, ktorým sa ustanovujú podrobné pravidlá týkajúce sa vykonávania nariadenia Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. EÚ L 166, 19. 6. 2006) v platnom znení.
+
+- Nariadenie (ES) č. 1007/2009.
+
+- Nariadenie Komisie (EÚ) č. 737/2010 z 10. augusta 2010, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Európskeho parlamentu a Rady (ES) č. 1007/2009 o obchodovaní s výrobkami z tuleňov (Ú. v. EÚ L 216, 17. 8. 2010).
+
+- Vykonávacie nariadenie Komisie (EÚ) č. 757/2012 z 20. augusta 2012, ktorým sa pozastavuje dovoz exemplárov určitých druhov voľne žijúcich živočíchov a rastlín do Únie (Ú. v. EÚ L 223, 21. 8. 2012).
+
+- Vykonávacie nariadenie Komisie (EÚ) č. 792/2012 z 23. augusta 2012, ktorým sa stanovujú pravidlá vzoru povolení, potvrdení a iných dokladov stanovených v nariadení Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi a ktorým sa mení a dopĺňa nariadenie Komisie (ES) č. 865/2006.
 
 - 4) Dohovor o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočíchov a rastlín (oznámenie Federálneho ministerstva zahraničných vecí č. 572/1992 Zb.).
 
@@ -40,7 +48,17 @@
 
 - 16) § 305 zákona č. 300/2005 Z. z. Trestný zákon.
 
-- 17) Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+- 17) Nariadenie (ES) č. 338/97 v platnom znení.
+
+- Nariadenie (ES) č. 865/2006 v platnom znení.
+
+- Nariadenie (ES) č. 1007/2009.
+
+- Nariadenie (EÚ) č. 737/2010.
+
+- Nariadenie (EÚ) č. 757/2012.
+
+- Zákon č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - § 74 a 75 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
@@ -74,11 +92,9 @@
 
 - 32) Čl. 20 ods. 5 a príloha III k nariadeniu Komisie (ES) č. 1808/2001.
 
-- 33) Čl. 2 písm. q) nariadenia Rady (ES) č. 338/97.
-
 - 34) Čl. 9 nariadenia Rady (ES) č. 338/97.
 
-- 35) Čl. 20 ods. 5 a časť Žiadosť prílohy III k nariadeniu Komisie (ES) č. 1808/2001.
+- 35) Čl. 50 ods. 1 nariadenia (ES) č. 865/2006 v platnom znení a časť Žiadosť prílohy V k vykonávaciemu nariadeniu (EÚ) č. 792/2012.
 
 - 36) Zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení neskorších predpisov.
 
@@ -98,15 +114,25 @@
 
 - 43) Čl. 9 ods. 1 nariadenia Rady (ES) č. 338/97.
 
-- 43a) Nariadenie Rady (ES) č. 338/97.
+- 43a) Čl. 2 písm. q) nariadenia (ES) č. 338/97.
 
-- Nariadenie Komisie (ES) č. 865/2006 zo 4. mája 2006, ktorým sa ustanovujú podrobné pravidlá týkajúce sa vykonávania nariadenia Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. EÚ L 166, 19. 6. 2006 ).
+- 43b) Kapitola XVI nariadenia (ES) 865/2006 v platnom znení.
+
+- 43c) Čl. 66 ods. 8 nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 43d) § 66b ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- § 11 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
 - 44) § 74 a 75 zákona č. 199/2004 Z. z.
 
 - 45) § 45 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 45a) Čl. 66 ods. 7 nariadenia Komisie (ES) č. 865/2006.
+
+- 45b) Čl. 9 ods. 1 písm. a) nariadenia (EÚ) č. 737/2010.
+
+- 45c) Čl. 58a nariadenia (ES) č. 865/2006 v platnom znení.
 
 - 46) Zákon č. 488/ 2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
 
@@ -119,6 +145,10 @@
 - 48) Čl. 14 ods. 1 písm. b) nariadenia Rady (ES) č. 338/97.
 
 - 49) Čl. 8 ods. 5 nariadenia Rady (ES) č. 338/97.
+
+- 49a) Čl. 66 ods. 7 tretia veta nariadenia (ES) č. 865/2006 v platnom znení.
+
+- 49b) Čl. 9 ods. 1 písm. b) nariadenia (EÚ) č. 737/2010.
 
 - 50) § 9 ods. 3 písm. v) zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov.
 
@@ -146,8 +176,6 @@
 
 - 59) § 10 a § 11 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 59a) § 125 ods. 1 zákona č. 300/2005 Z. z. Trestný zákon.
-
 - 60) Čl. 11 ods. 3 nariadenia Rady (ES) č. 338/97.
 
 - 61) Čl. 4, 5, 8 a 9 nariadenia Rady (ES) č. 338/97.
@@ -162,9 +190,21 @@
 
 - 68) Čl. 9 ods. 1 nariadenia Rady (ES) č. 338/97.
 
+- 68a) Nariadenie (ES) č. 1007/2009.
+
+- Nariadenie (EÚ) č. 737/2010.
+
 - 69) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 70) § 44 a 45 zákona č. 543/2002 Z. z.
+
+- 70a) Čl. 4, 8, a 9 nariadenia (ES) č. 338/97 v platnom znení.
+
+- Nariadenie (ES) č. 1007/2009.
+
+- Nariadenie (EÚ) č. 737/2010.
+
+- Nariadenie (EÚ) č. 757/2012.
 
 - 71) Napríklad Trestný poriadok, zákon č. 199/2004 Z. z.
 
