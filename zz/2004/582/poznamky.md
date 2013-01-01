@@ -88,6 +88,8 @@
 
 - 26a) § 54a ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 733/2004 Z. z.
 
+- 26b) § 39 ods. 2 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 343/2012 Z. z.
+
 - 27) § 3 až 7 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 369/1999 Z. z.
 
 - 28) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky.
