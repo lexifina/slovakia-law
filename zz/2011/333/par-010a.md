@@ -1,0 +1,3 @@
+# § 10a Prechodné ustanovenia k úpravám účinným od 1. januára 2013
+
+Správa majetku štátu, ktorý bol do 31. decembra 2012 v správe finančného riaditeľstva a ktorý slúžil na zabezpečenie výkonu kompetencií finančného riaditeľstva pri správe informačných systémov finančnej správy, vrátane súvisiacich práv a povinností z majetkovoprávnych vzťahov a iných vzťahov vzniknutých do 31. decembra 2012, prechádza 1. januára 2013 na ministerstvo. Podrobnosti o prechode správy majetku štátu a o prechode týchto práv a povinností sa upravia dohodou medzi ministerstvom a finančným riaditeľstvom, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.

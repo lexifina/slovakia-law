@@ -22,9 +22,11 @@
 
 - 10) Napríklad nariadenie Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4, Ú. v. ES L 302, 19.10.1992) v platnom znení, nariadenie (EHS) č. 2454/93 v platnom znení, nariadenie Rady (ES) č. 1186/2009 zo 16. novembra 2009 ustanovujúce systém Spoločenstva pre oslobodenie od cla (kodifikované znenie) (Ú. v. EÚ L 324, 10. 12. 2009), zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení neskorších predpisov, zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 200/2004 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, § 1, § 2 ods. 3, § 3, § 84 až 98, § 99 ods. 5 až 7, § 100 ods. 2, § 101 ods. 2, § 102, § 103 ods. 1 a 4, § 104 ods. 6, 7 a 10, § 104a ods. 1, § 104b, 104c, 104e, 105, § 106 ods. 3, § 107, prílohy č. 3 a 4 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, zákon č. 609/2007 Z. z. spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov, zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 313/2009 Z. z. o vinohradníctve a vinárstve v znení zákona č. 198/2010 Z. z., zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 11) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 16 , Ú. v. EÚ L 102, 7.4.2004) v platnom znení, nariadenie Komisie (ES) č. 1982/2004 z 18. novembra 2004, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a rušia sa nariadenia Komisie (ES) č. 1901/2000 a (EHS) č. 3590/92 (Ú. v. EÚ L 343, 19. 11. 2004) v platnom znení, nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004), nariadenie Komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009), zákon č. 105/2004 Z. z. v znení neskorších predpisov.
+- 11) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 z 31. marca 2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a o zrušení nariadenia Rady (EHS) č. 3330/91 (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 16 , Ú. v. EÚ L 102, 7.4.2004) v platnom znení, nariadenie Komisie (ES) č. 1982/2004 z 18. novembra 2004, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 638/2004 o štatistike Spoločenstva o obchodovaní s tovarom medzi členskými štátmi a rušia sa nariadenia Komisie (ES) č. 1901/2000 a (EHS) č. 3590/92 (Ú. v. EÚ L 343, 19. 11. 2004) v platnom znení, nariadenie Rady (EÚ) č. 389/2012 z 2. mája 2012 o administratívnej spolupráci v oblasti spotrebných daní a zrušení nariadenia (ES) č. 2073/2004 (Ú. v. EÚ L 121, 8. 5. 2012), nariadenie Komisie (ES) č. 684/2009 z 24. júla 2009, ktorým sa implementuje smernica Rady 2008/118/ES, pokiaľ ide o elektronické postupy pri preprave tovaru podliehajúceho spotrebnej dani v režime pozastavenia dane (Ú. v. EÚ L 197, 29. 7. 2009), zákon č. 105/2004 Z. z. v znení neskorších predpisov.
 
-- 12) Napríklad nariadenie (EHS) č. 2913/92 v platnom znení, nariadenie (EHS) č. 2454/93 v platnom znení, nariadenie (ES) č. 2073/2004.
+- 12) Napríklad nariadenie (EHS) č. 2913/92 v platnom znení, nariadenie (EHS) č. 2454/93 v platnom znení, nariadenie (EÚ) č. 389/2012.
+
+- 12a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia (EHS) č. 2454/93 v platnom znení.
 
 - 13) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
@@ -52,13 +54,11 @@
 
 - Zákon č. 200/2004 Z. z. v znení neskorších predpisov.
 
-- 21) Čl. 1 bod 16 a čl. 4k až 4t nariadenia (EHS) č. 2454/93 v platnom znení.
-
 - 22) Čl. 8 ods. 2 až 4 nariadenia (ES) č. 1891/2004.
 
 - 23) Napríklad čl. 197, 228, 308a, 308d a 458 nariadenia (EHS) č. 2454/93 v platnom znení, čl. 16 nariadenia Komisie (ES) č. 1276/2008 zo 17. decembra 2008 o monitorovaní vývozu poľnohospodárskych výrobkov, na ktoré sa poskytujú náhrady alebo iné sumy, prostredníctvom fyzických kontrol (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení.
 
-- 24) Napríklad nariadenie (ES) č. 2073/2004, nariadenie Komisie (ES) č. 1178/2008 z 28. novembra 2008, ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 1165/98 o krátkodobej štatistike a nariadenia Komisie (ES) č. 1503/2006 a (ES) č. 657/2007, pokiaľ ide o úpravy po revízii štatistických klasifikácií NACE a CPA (Ú. v. EÚ L 319, 29. 11. 2008), nariadenie (ES) č. 684/2009, zákon č. 76/2007 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení niektorých zákonov, zákon č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
+- 24) Napríklad nariadenie (EÚ) č. 389/2012, nariadenie Komisie (ES) č. 1178/2008 z 28. novembra 2008, ktorým sa mení a dopĺňa nariadenie Rady (ES) č. 1165/98 o krátkodobej štatistike a nariadenia Komisie (ES) č. 1503/2006 a (ES) č. 657/2007, pokiaľ ide o úpravy po revízii štatistických klasifikácií NACE a CPA (Ú. v. EÚ L 319, 29. 11. 2008), nariadenie (ES) č. 684/2009, zákon č. 76/2007 Z. z. o medzinárodnej pomoci a spolupráci pri správe daní a o zmene a doplnení niektorých zákonov, zákon č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
 
 - 25) Zákon č. 171/2005 Z. z. v znení neskorších predpisov.
 
@@ -69,6 +69,16 @@
 - Zákon č. 222/2004 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 582/2004 Z. z. v znení neskorších predpisov.
+
+- 27a) § 6 zákona č. 98/1950 Sb. o zrušení Národného pozemkového fondu pri Ministerstve pôdohospodárstva a fondov pozemkových reforiem a o zlúčení ich imania.
+
+- Vyhláška Ministerstva poľnohospodárstva, lesného a vodného hospodárstva č. 147/1960 Zb. o prenesení finančnej a účtovnej služby majetkovej podstaty pozemkových reforiem.
+
+- 27b) Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27c) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - 28) Napríklad čl. 308a, 308d a 458 nariadenia (EHS) č. 2454/93 v platnom znení, nariadenie (ES) č. 1383/2003, nariadenie (ES) č. 1891/2004 v platnom znení, zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 233 ods. 6 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 572/2009 Z. z., zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 200/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 171/2005 Z. z. v znení neskorších predpisov, zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov v znení zákona č. 425/2010 Z. z., zákon č. 289/2008 Z. z. v znení neskorších predpisov, zákon č. 39/2011 Z. z.
 
@@ -97,7 +107,5 @@
 - 40) Napríklad čl. 14h až 14k nariadenia (EHS) č. 2454/93 v platnom znení.
 
 - 41) Napríklad čl. 29 ods. 1 nariadenia Komisie (ES) č. 1277/2005 z 27. júla 2005, ktorým sa ustanovujú vykonávacie pravidlá pre nariadenie Európskeho parlamentu a Rady (ES) č. 273/2004 o prekurzoroch drog a pre nariadenie Rady (ES) č. 111/2005, ktorým sa stanovujú pravidlá sledovania obchodu s drogovými prekurzormi medzi Spoločenstvom a tretími krajinami (Ú. v. EÚ L 202, 3. 8. 2005).
-
-- 42) Vyhláška Ministerstva poľnohospodárstva, lesného a vodného hospodárstva č. 147/1960 Zb. o prenesení finančnej a účtovej služby majetkovej podstaty pozemkových reforiem.
 
 - 43) § 49a zákona č. 652/2004 Z. z. v znení zákona č. 465/2009 Z. z.
