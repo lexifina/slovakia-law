@@ -24,8 +24,6 @@
 
 - 11) § 132 zákona č. 245/2008 Z. z.
 
-- 12) § 115 zákona č. 245/2008 Z. z.
-
 - 12a) § 116 zákona č. 245/2008 Z. z.
 
 - 13) § 5 ods. 6 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
