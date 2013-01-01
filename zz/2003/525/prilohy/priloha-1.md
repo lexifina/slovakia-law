@@ -1,164 +1,164 @@
 Príloha č. 1 k zákonu č. 525/2003 Z. z.
 
-- Krajské úrady životného prostredia a obvodné úrady životného prostredia, ich sídla a územné obvody Krajský úrad životného prostredia - sídlo | Obvodný úrad životného prostredia - sídlo | Okresy v jeho územnom obvode
+- Krajské úrady životného prostredia a obvodné úrady životného prostredia, ich sídla a územné obvody Obvodný úrad životného prostredia - sídlo | Okresy v jeho územnom obvode
 
-- I. Bratislava | Bratislava | Bratislava I
+- Bratislava | Bratislava I
 
-- | | Bratislava II
+- | Bratislava II
 
-- | | Bratislava III
+- | Bratislava III
 
-- | | Bratislava IV
+- | Bratislava IV
 
-- | | Bratislava V
+- | Bratislava V
 
-- | Malacky | Malacky
+- Malacky | Malacky
 
-- | Pezinok | Pezinok
+- Pezinok | Pezinok
 
-- | Senec | Senec
+- Senec | Senec
 
-- | Senica | Senica
+- Senica | Senica
 
-- | | Skalica
+- | Skalica
 
-- II. Trnava | Trnava | Trnava
+- Trnava | Trnava
 
-- | | Hlohovec
+- | Hlohovec
 
-- | Dunajská Streda | Dunajská Streda
+- Dunajská Streda | Dunajská Streda
 
-- | Galanta | Galanta
+- Galanta | Galanta
 
-- | Piešťany | Piešťany
+- Piešťany | Piešťany
 
-- III. Trenčín | Trenčín | Trenčín
+- Trenčín | Trenčín
 
-- | | Ilava
+- | Ilava
 
-- | | Bánovce nad Bebravou
+- | Bánovce nad Bebravou
 
-- | Nové Mesto nad Váhom | Nové Mesto nad Váhom
+- Nové Mesto nad Váhom | Nové Mesto nad Váhom
 
-- | | Myjava
+- | Myjava
 
-- | Považská Bystrica | Považská Bystrica
+- Považská Bystrica | Považská Bystrica
 
-- | | Puchov
+- | Puchov
 
-- | Prievidza | Prievidza
+- Prievidza | Prievidza
 
-- | | Partizánske
+- | Partizánske
 
-- IV. Nitra | Nitra | Nitra
+- Nitra | Nitra
 
-- | | Zlaté Moravce
+- | Zlaté Moravce
 
-- | Levice | Levice
+- Levice | Levice
 
-- | Nové Zámky | Nové Zámky
+- Nové Zámky | Nové Zámky
 
-- | Komárno | Komárno
+- Komárno | Komárno
 
-- | Šaľa | Šaľa
+- Šaľa | Šaľa
 
-- | Topoľčany | Topoľčany
+- Topoľčany | Topoľčany
 
-- V. Žilina | Žilina | Žilina
+- Žilina | Žilina
 
-- | | Bytča
+- | Bytča
 
-- | | Kysucké Nové Mesto
+- | Kysucké Nové Mesto
 
-- | Čadca | Čadca
+- Čadca | Čadca
 
-- | Dolný Kubín | Dolný Kubín
+- Dolný Kubín | Dolný Kubín
 
-- | | Tvrdošín
+- | Tvrdošín
 
-- | | Námestovo
+- | Námestovo
 
-- | Liptovský Mikuláš | Liptovský Mikuláš
+- Liptovský Mikuláš | Liptovský Mikuláš
 
-- | Martin | Martin
+- Martin | Martin
 
-- | | Turčianske Teplice
+- | Turčianske Teplice
 
-- | Ružomberok | Ružomberok
+- Ružomberok | Ružomberok
 
-- VI. Banská Bystrica | Banská Bystrica | Banská Bystrica
+- Banská Bystrica | Banská Bystrica
 
-- | Brezno | Brezno
+- Brezno | Brezno
 
-- | Lučenec | Lučenec
+- Lučenec | Lučenec
 
-- | | Poltár
+- | Poltár
 
-- | Rimavská Sobota | Rimavská Sobota
+- Rimavská Sobota | Rimavská Sobota
 
-- | | Revúca
+- | Revúca
 
-- | Veľký Krtíš | Veľký Krtíš
+- Veľký Krtíš | Veľký Krtíš
 
-- | Zvolen | Zvolen
+- Zvolen | Zvolen
 
-- | | Detva
+- | Detva
 
-- | | Krupina
+- | Krupina
 
-- | Banská Štiavnica | Banská Štiavnica
+- Banská Štiavnica | Banská Štiavnica
 
-- | | Žiar nad Hronom
+- | Žiar nad Hronom
 
-- | | Žarnovica
+- | Žarnovica
 
-- VII. Prešov | Prešov | Prešov
+- Prešov | Prešov
 
-- | | Sabinov
+- | Sabinov
 
-- | Bardejov | Bardejov
+- Bardejov | Bardejov
 
-- | Humenné | Humenné
+- Humenné | Humenné
 
-- | | Medzilaborce
+- | Medzilaborce
 
-- | | Snina
+- | Snina
 
-- | Kežmarok | Kežmarok
+- Kežmarok | Kežmarok
 
-- | Poprad | Poprad
+- Poprad | Poprad
 
-- | | Levoča
+- | Levoča
 
-- | Stará Ľubovňa | Stará Ľubovňa
+- Stará Ľubovňa | Stará Ľubovňa
 
-- | Stropkov | Stropkov
+- Stropkov | Stropkov
 
-- | | Svidník
+- | Svidník
 
-- | Vranov nad Topľou | Vranov nad Topľou
+- Vranov nad Topľou | Vranov nad Topľou
 
-- VIII. Košice | Košice | Košice I
+- Košice | Košice I
 
-- | | Košice II
+- | Košice II
 
-- | | Košice III
+- | Košice III
 
-- | | Košice IV
+- | Košice IV
 
-- | Košice-okolie* | Košice-okolie
+- Košice-okolie* | Košice-okolie
 
-- | Michalovce | Michalovce
+- Michalovce | Michalovce
 
-- | | Sobrance
+- | Sobrance
 
-- | Rožňava | Rožňava
+- Rožňava | Rožňava
 
-- | Spišská Nová Ves | Spišská Nová Ves
+- Spišská Nová Ves | Spišská Nová Ves
 
-- | | Gelnica
+- | Gelnica
 
-- | Trebišov | Trebišov
+- Trebišov | Trebišov
 
   - Obvody spolu 46
 
