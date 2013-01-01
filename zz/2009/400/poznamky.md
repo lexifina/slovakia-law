@@ -36,7 +36,7 @@
 
 - 13) Napríklad zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 14) Napríklad zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov, zákon č. 575/2001 Z. z. v znení neskorších predpisov.
+- 14) Napríklad zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov, zákon č. 575/2001 Z. z. v znení neskorších predpisov, zákon č. 515/2003 Z. z. v znení neskorších predpisov.
 
 - 15) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, zákon č. 150/2001 Z. z. v znení neskorších predpisov, zákon č. 125/2006 Z. z. v znení neskorších predpisov.
 
