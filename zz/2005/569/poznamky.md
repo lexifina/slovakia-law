@@ -30,9 +30,9 @@
 
 - 14) § 7 a 9 zákona č. 570/2005 Z. z.
 
-- 15) § 15 a 16 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
+- 15) § 10 ods. 4 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
 
-- 16) § 10 ods. 18 písm. a) zákona č. 570/2005 Z. z.
+- 16) § 10 ods. 20 písm. a) zákona č. 570/2005 Z. z.
 
 - 17) § 11 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme.
 
@@ -72,7 +72,7 @@
 
 - 31) § 81 a § 148 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
-- 32) § 13 až 16 zákona č. 319/2002 Z. z. v znení zákona č. 545/2003 Z. z.
+- 32) § 10 ods. 4 zákona č. 319/2002 Z. z. v znení neskorších predpisov.
 
 - 33) § 6 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
