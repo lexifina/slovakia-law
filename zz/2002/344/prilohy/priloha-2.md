@@ -682,6 +682,20 @@
 
   - Directorate of Legislative Coordination and of Special International Legal Relations.
 
+  - Čierna Hora:
+
+  - a) Dohovor pre Čiernu Horu nadobudne platnosť 1. januára 2013.
+
+  - b) Listina o prístupe Čiernej Hory obsahuje toto vyhlásenie a výhradu:
+
+  - Podľa článku 34 ods. 2 dohovoru Čierna Hora vyhlasuje, že žiadosti podľa odseku 1 tohto článku sa smú zasielať iba prostredníctvom ústredného orgánu.
+
+  - Podľa článku 55 ods. 1 a článku 60 ods. 1 dohovoru si Čierna Hora vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým jej orgánmi vo vzťahu k takému majetku.
+
+  - c) Podľa článku 29 dohovoru Čierna Hora určila ústredný orgán:
+
+  - Ministerstvo práce a sociálnych vecí.
+
   - Veľká Británia:
 
   - a) Dohovor pre Veľkú Britániu nadobudne platnosť 1. novembra 2012. Platnosť dohovoru bola rozšírená aj na Gibraltár.
@@ -719,3 +733,13 @@
   - Northern Ireland Courts & Tribunal Service
 
   - Central Business Unit.
+
+  - Švédsko:
+
+  - a) Dohovor pre Švédsko nadobudne platnosť 1. januára 2013.
+
+  - b) Listina o prístupe Švédska obsahuje toto vyhlásenia a výhrady:
+
+  - Články 23, 26 a 52 dohovoru umožňujú zmluvným stranám určitý stupeň flexibility na účel uplatnenia jednoduchého a rýchleho postupu uznávania a výkonu rozhodnutí. Právo Európskeho spoločenstva zabezpečuje systém uznávania a výkonu, ktorý je aspoň taký výhodný ako pravidlá uvedené v dohovore. Podľa uvedeného rozhodnutie vydané súdom členského štátu Európskej únie vo veciach upravených dohovorom je uznateľné a vykonateľné vo Švédsku použitím príslušných vnútorných pravidiel práva Európskeho spoločenstva.
+
+  - Podľa článku 60 a článku 54 ods. 2 dohovoru Švédsko vylučuje použitie francúzskeho jazyka.
