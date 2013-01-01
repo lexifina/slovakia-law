@@ -1,0 +1,7 @@
+# § 17a Žiadosť o informácie z registra trestov iného členského štátu Európskej únie
+
+(1) Generálna prokuratúra predloží ústrednému orgánu iného členského štátu Európskej únie žiadosť o informácie z jeho registra trestov na účely trestného konania voči občanovi tohto členského štátu Európskej únie alebo na akýkoľvek iný účel v súvislosti s plnením úloh ustanovených zákonom alebo na základe žiadosti osoby, ktorá je občanom dožiadaného členského štátu Európskej únie, vo vzťahu k jej vlastnému záznamu.
+
+(2) Generálna prokuratúra môže požiadať ústredný orgán iného členského štátu Európskej únie aj o informácie o odsúdení osoby, ktorá nie je občanom dožiadaného členského štátu Európskej únie, v rozsahu ustanovenom medzinárodnou zmluvou.<sup>33b</sup>)
+
+(3) Informácie poskytnuté na základe žiadosti podľa odseku 1 alebo odseku 2 možno použiť len na účel, na ktorý boli vyžiadané, len na konkrétny prípad a v rámci obmedzení oznámených dožiadaným ústredným orgánom členského štátu Európskej únie; to neplatí vo vzťahu k informáciám, ktoré majú pôvod v Slovenskej republike, alebo ak sa majú poskytnuté informácie použiť na zabránenie bezprostredného a vážneho ohrozenia bezpečnosti jednotlivcov alebo bezpečnosti štátu.

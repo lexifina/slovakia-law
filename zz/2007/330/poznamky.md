@@ -1,6 +1,6 @@
 - 1) Článok 22 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.) v znení Dodatkového protokolu k Európskemu dohovoru o vzájomnej pomoci v trestných veciach z 20. apríla 1959 (oznámenie č. 12/1997 Z. z.).
 
-- 2) Rozhodnutie Rady 2005/876/SVV z 21. novembra 2005 o výmene informácií z registra trestov (Ú. v. EÚ L 322, 9. 12. 2005).
+- 2) Rozhodnutie Rady 2009/316/SVV zo 6. apríla 2009 o zriadení Európskeho informačného systému registrov trestov (ECRIS) podľa článku 11 rámcového rozhodnutia 2009/315/SVV (Ú. v. EÚ L 93, 7. 4. 2009).
 
 - 3) § 15 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
@@ -16,9 +16,9 @@
 
 - 7a) § 19 zákona č. 473/2005 Z. z. v znení zákona č. 598/2008 Z. z.
 
-- 8) Zákon č. 530/2004 Z. z. o zastúpení Slovenskej republiky v Eurojuste a o zmene a doplnení niektorých zákonov v znení zákona č. 236/2007 Z. z., rozhodnutie Rady 2002/187/SVV z 28. februára 2002, ktorým sa zriaďuje Eurojust s cieľom posilniť boj proti závažným trestným činom (Mimoriadne vydanie Ú. v. EÚ kap. 19/zv. 4; Ú. v. ES L 63, 6. 3. 2002) v znení rozhodnutia Rady 2003/659/SVV z 18. júna 2003 (Mimoriadne vydanie Ú. v. kap. 19/zv. 6; Ú. v. EÚ L 245, 23. 9. 2003).
+- 8) § 4 ods. 1 písm. f) zákona č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
 
-- 9) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 9) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -68,12 +68,14 @@
 
 - 29c) § 17 ods. 1 a 3 zákona č. 218/2007 Z. z.
 
-- 30) § 15 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov.
-
 - 31) § 14 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
 - 32) § 13 ods. 4, § 17 ods. 1 písm. a) a ods. 2 a § 63 ods. 1 písm. c) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
 - 33) § 16 a 30 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 33a) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 33b) Čl. 13 Európskeho dohovoru o vzájomnej pomoci v trestných veciach (oznámenie č. 550/1992 Zb.).
 
 - 34) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
