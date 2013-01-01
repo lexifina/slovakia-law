@@ -1,8 +1,12 @@
 - 1) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 1a) § 408a Obchodného zákonníka.
+
 - 2) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce.
 
 - 3) § 116 Občianskeho zákonníka.
+
+- 3a) § 108 ods. 1 a § 162 ods. 3 Obchodného zákonníka.
 
 - 4) § 42 ods. 3 Občianskeho súdneho poriadku.
 
