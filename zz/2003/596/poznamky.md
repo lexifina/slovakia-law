@@ -16,15 +16,13 @@
 
 - § 42 Zákonníka práce v znení neskorších predpisov.
 
-- 7) § 3 ods. 1písm. b a § 3 ods. 3 a 4 zákona č. 552/2003 Z. z.
-
-- 8) Vyhláška Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. o odbornej a pedagogickej spôsobilosti pedagogických zamestnancov v znení neskorších predpisov.
+- 8) § 34 ods. 2 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
 
 - 9) § 9 a 10 zákona č. 552/2003 Z. z.
 
 - 10) Napríklad § 47 zákona č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi, zákon č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov, zákon č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 11) § 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z. o ďalšom vzdelávaní pedagogických pracovníkov.
+- 11) § 34 ods. 2 písm. d) a ods. 3 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
 
 - 12) Zákon č. 552/2003 Z. z.
 
@@ -33,6 +31,8 @@
 - § 11 ods. 2 písm. g) zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
 
 - 13a) Čl. 1 ods. 2 Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z.).
+
+- 13b) § 6 zákona č. 317/2009 Z. z.
 
 - 14) Zákon č. 552/2003 Z. z.
 
@@ -46,9 +46,7 @@
 
 - 18a) § 28 ods. 4 zákona č. 245/2008 Z. z.
 
-- 19) § 4 ods. 6 vyhlášky Ministerstva školstva Slovenskej republiky č. 41/1996 Z. z. v znení neskorších predpisov.
-
-- § 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 42/1996 Z. z.
+- 19) § 38 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
 
 - 20) § 36 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -84,6 +82,8 @@
 
 - 30d) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
+- 30e) § 7a zákona č. 597/2003 Z. z. v znení zákona č. 325/2012 Z. z.
+
 - 30f) § 8 zákona č. 302/2001 Z. z. v znení neskorších predpisov.
 
 - 31) Zákon č. 597/2003 Z. z.
@@ -100,6 +100,8 @@
 
 - 35) § 20a zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
+- 35a) Príloha č. 1 k vyhláške Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné požiadavky pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov v znení neskorších predpisov.
+
 - 36) § 4 zákona č. 302/2001 Z. z.
 
 - 37) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
@@ -113,6 +115,10 @@
 - 41) § 3a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.
+
+- 41aa) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
+
+- 41ab) § 80 ods. 7 a § 84 ods. 1 zákona č. 245/2008 Z. z.
 
 - 41b) § 27 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
@@ -128,10 +134,6 @@
 
 - Zákon č. 152/1998 Z. z.
 
-- 47) § 18 zákona č. 152/1998 Z. z.
-
-- § 7 ods. 2 zákona č. 85/1990 Zb. v znení neskorších predpisov.
-
 - 47a) § 7 ods. 7 zákona č. 245/2008 Z. z.
 
 - 47b) § 8 ods. 5 zákona č. 245/2008 Z. z.
@@ -144,9 +146,15 @@
 
 - 49) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 552/2003 Z. z.
 
+- 49a) § 7 ods. 13 a § 8 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 21 ods. 7 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+
 - 50) Napríklad zákon č. 502/2001 Z. z. v znení neskorších predpisov, zákon č. 10/1996 Z. z. v znení neskorších predpisov, zákon č. 182/2002 Z. z., ktorým sa mení a dopĺňa zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly a ktorým sa menia a dopĺňajú niektoré ďalšie zákony, zákon č. 85/1990 Zb. v znení neskorších predpisov.
 
 - 50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.
+
+- 50b) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
 
 - 51) § 2, 9a, 10a a 33a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -154,25 +162,15 @@
 
 - 52) § 56 ods.1 zákona č. 277/1994 Z. z. v znení neskorších predpisov.
 
-- 53) Zákon č. 540/2001 Z. z. o štátnej štatistike.
-
-- 53a) § 57a a 57b zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 53b) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov.
-
-- 53c) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
-
 - 54) § 2 zákona č. 513/1991 Zb. Obchodný zákonník.
+
+- 54a) Napríklad § 20a Občianskeho zákonníka, § 14 a 15 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z., § 14 a 15 zákona č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
 - 55) Čl. 34, 35, 38 a 42 Ústavy Slovenskej republiky.
 
 - 56) Zákon č. 308/1991 Zb. v znení zákona č. 394/2000 Z. z.
 
 - 57) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. v znení neskorších predpisov, § 1 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 57a) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
-
-- § 2 ods. 2 písm. c) Obchodného zákonníka.
 
 - 58) § 45 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -215,3 +213,5 @@
 - 84) § 53 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 85) § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve.
+
+- 86) § 27 ods. 2 písm. b) až g) zákona č. 245/2008 Z. z.

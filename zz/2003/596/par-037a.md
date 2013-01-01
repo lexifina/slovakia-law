@@ -4,13 +4,13 @@
 
 (2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý
 
-- a) nevytvoril podmienky na výkon inšpekčnej činnosti,
+- a) nevytvoril podmienky na výkon školskej inšpekcie,
 
 - b) neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
 
 (3) Hlavný školský inšpektor uloží pokutu do 663,50 eura zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
 
-(4) Krajský školský úrad uloží pokutu
+(4) Obvodný úrad v sídle kraja uloží pokutu
 
 - a) do 663,50 eura
 
@@ -28,7 +28,7 @@
 
 (5) Ministerstvo uloží pokutu
 
-- a) do 3 319,00 eur zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom,
+- a) do 3 319,00 eur zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom alebo porušil povinnosť podľa § 17 ods. 5,
 
 - b) do 33 193,50 eura zriaďovateľovi, ktorý
 
