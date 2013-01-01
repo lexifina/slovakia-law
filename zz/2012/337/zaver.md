@@ -1,0 +1,1 @@
+Tomáš Malatinský v. r.
