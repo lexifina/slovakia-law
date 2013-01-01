@@ -80,7 +80,7 @@
 
 - 18ca) § 150 ods. 2 Zákonníka práce.
 
-- 18d) § 39 ods. 2 Zákonníka práce.
+- 18d) § 39 ods. 2 a § 133 ods. 3 Zákonníka práce.
 
 - 18e) § 3 Trestného poriadku.
 
