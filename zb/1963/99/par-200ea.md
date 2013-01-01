@@ -1,6 +1,6 @@
 # § 200ea Drobné spory
 
-(1) Ak v priebehu konania dosiahne predmet konania sumu 500 eur, od toho okamihu ide o drobný spor.
+(1) Ak v priebehu konania dosiahne predmet konania sumu 1 000 eur, od toho okamihu ide o drobný spor.
 
 (2) Za drobné spory sa nepovažujú veci, ktoré sa týkajú
 
