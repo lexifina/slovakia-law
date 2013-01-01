@@ -18,6 +18,16 @@ Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých
 
 - 4. V § 35 ods. 9 sa za slovo „umiestnený“ vkladajú slová „na viditeľnom mieste“.
 
+- 5. § 35 sa dopĺňa odsekmi 22 a 23, ktoré znejú:
+
+- „(22)
+
+- Výherný prístroj, technické zariadenie obsluhované priamo hráčmi a videohru možno prevádzkovať iba v herni.
+
+- (23)
+
+- V herni, ktorá nie je kasínom, je zakázané fajčiť a požívať alkoholické nápoje.“.
+
 - 6. § 38 znie:
 
 - „§ 38
@@ -67,6 +77,10 @@ Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých
 - „h)
 
 - čas, ktorý uplynie od vyplatenia výhry do začatia ďalšej hazardnej hry musí byť najmenej 15 sekúnd; to neplatí pre výherné prístroje prevádzkované v kasíne.“.
+
+- 9. § 49 sa vypúšťa.
+
+- 10. V § 51 sa vypúšťa odsek 6.
 
 - 11. Za § 58f sa vkladá § 58g, ktorý vrátane nadpisu znie:
 
