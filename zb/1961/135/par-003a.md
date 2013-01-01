@@ -2,7 +2,7 @@
 
 (1) Pôsobnosť špeciálneho stavebného úradu<sup>2</sup>) pre diaľnice a cesty pre motorové vozidlá vykonáva ministerstvo.
 
-(2) Pôsobnosť špeciálneho stavebného úradu<sup>2</sup>) pre cesty I. triedy vykonávajú krajské úrady dopravy.
+(2) Pôsobnosť špeciálneho stavebného úradu<sup>2</sup>) pre cesty I. triedy vykonávajú obvodné úrady dopravy v sídle kraja.
 
 (3) Pôsobnosť špeciálneho stavebného úradu<sup>2</sup>) pre cesty II. a III. triedy vykonávajú obvodné úrady dopravy.
 
