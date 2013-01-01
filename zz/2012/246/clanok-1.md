@@ -104,11 +104,27 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 6. V § 8 ods. 4 písm. d) sa vypúšťajú slová „ak sa colné konanie o vývoze tovaru uskutočnilo v tuzemsku,“.
 
+- 7. V § 8 ods. 4 písm. f) sa za slová „na účel“ vkladajú slová „ocenenia tovaru alebo na účel“.
+
 - 8. V § 9 ods. 2 sa na konci pripájajú tieto slová: „alebo bola vykonaná úprava odpočítanej dane podľa § 54a“.
 
 - 9. V § 11 ods. 5 sa za slovom „nadobúdateľovi“ čiarka nahrádza bodkou a text až do konca vety sa vypúšťa.
 
 - 10. V § 11 ods. 13 sa slová „pridelené identifikačné číslo pre daň v inom členskom štáte“ nahrádzajú slovami „v inom členskom štáte pridelené identifikačné číslo pre daň, pomocou ktorého je možné identifikovať členský štát, ktorý toto identifikačné číslo vydal“.
+
+- 11. V § 16 ods. 2 sa na konci pripája táto veta: „Miestom dodania služby spočívajúcej v poskytnutí iného nájmu dopravných prostriedkov, ako je krátkodobý nájom, ak je poskytnutý osobe inej ako zdaniteľnej osobe, je miesto, kde má táto osoba sídlo, bydlisko alebo miesto, kde sa obvykle zdržiava, okrem nájmu výletnej lode, pri ktorom je miestom dodania služby miesto, kde sa dá výletná loď fyzicky k dispozícii zákazníkovi za podmienky, že v tomto mieste má poskytovateľ svoje sídlo alebo prevádzkareň.“.
+
+- 12. V § 19 ods. 3 prvej vete sa slová „písmen a) až d)“ nahrádzajú slovami „písmen a) až e)“.
+
+- 13. V § 19 sa odsek 3 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- sa opakovane dodáva tovar s oslobodením od dane podľa § 43 počas obdobia dlhšieho ako kalendárny mesiac, považuje sa tovar za dodaný posledným dňom každého kalendárneho mesiaca, až kým sa dodanie tovaru neskončí.“.
+
+- 14. V § 19 ods. 8 sa slová „za deň dodania tovaru sa považuje“ nahrádzajú slovami „dňom vzniku daňovej povinnosti je“.
+
+- 15. V § 19 ods. 10 sa slová „doklade o použití podľa § 71 ods. 9“ nahrádzajú slovami „záznamoch podľa § 70“.
 
 - 16. V § 20 ods. 3 sa vypúšťajú slová „podľa § 4 až 7“.
 
@@ -356,6 +372,24 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - Ak ručiteľ nezaplatenú daň alebo jej časť uhradil a došlo k úhrade nezaplatenej dane alebo jej časti aj dodávateľom a výsledná suma dane uhradená ručiteľom a dodávateľom je vyššia ako nezaplatená daň podľa odseku 1, daňový úrad sumu uhradenú ručiteľom, ktorá prevyšuje nezaplatenú daň, vráti bezodkladne ručiteľovi.“.
 
+- 32. V § 70 odsek 2 znie:
+
+- „(2)
+
+- Platiteľ vedie podrobné záznamy podľa jednotlivých zdaňovacích období o
+
+- a)
+
+- dodaní tovaru podľa § 8 ods. 3,
+
+- b)
+
+- premiestnení tovaru podľa § 8 ods. 4 písm. f), g) a h) z tuzemska do iného členského štátu,
+
+- c)
+
+- dodaní služby podľa § 9 ods. 2 a 3.“.
+
 - 33. V § 70 sa za odsek 5 vkladajú nové odseky 6 až 8, ktoré znejú:
 
 - „(6)
@@ -411,6 +445,312 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.“.
 
 - 34. V § 70 ods. 9 sa číslo „5“ nahrádza číslom „6“.
+
+- 35. § 71 až 76 vrátane nadpisov znejú:
+
+- „§ 71
+
+- Faktúra
+
+- (1)
+
+- Na účely tohto zákona
+
+- a)
+
+- faktúrou je každý doklad alebo oznámenie, ktoré je vyhotovené v listinnej forme alebo elektronickej forme podľa tohto zákona alebo zákona platného v inom členskom štáte upravujúceho vyhotovenie faktúry,
+
+- b)
+
+- elektronickou faktúrou je faktúra, ktorá obsahuje údaje podľa § 74 a je vydaná a prijatá v akomkoľvek elektronickom formáte; elektronickú faktúru možno vydať len so súhlasom príjemcu tovaru alebo služby,
+
+- c)
+
+- vierohodnosťou pôvodu faktúry sa rozumie potvrdenie totožnosti dodávateľa tovaru alebo služby alebo osoby, ktorá v mene dodávateľa vyhotovila faktúru,
+
+- d)
+
+- neporušenosťou obsahu faktúry sa rozumie zachovanie obsahu faktúry,
+
+- e)
+
+- elektronickou výmenou údajov sa rozumie prenos údajov elektronickou formou z počítača do počítača s využitím schválenej normy štruktúry odkazu elektronickej výmeny.
+
+- (2)
+
+- Za faktúru sa považuje aj každý doklad alebo oznámenie, ktoré mení pôvodnú faktúru a osobitne a jednoznačne sa na ňu vzťahuje.
+
+- (3)
+
+- Zdaniteľná osoba je povinná zabezpečiť vierohodnosť pôvodu, neporušenosť obsahu a čitateľnosť faktúry od jej vydania do konca obdobia na uchovávanie faktúry. Ako spôsob zabezpečenia vierohodnosti pôvodu, neporušenosti obsahu a čitateľnosti faktúry možno použiť
+
+- a)
+
+- kontrolné mechanizmy podnikových procesov, ktoré spoľahlivo zabezpečia priraditeľnosť faktúry k dokumentom súvisiacim s dodaním tovaru alebo služby,
+
+- b)
+
+- zaručený elektronický podpis podľa osobitného predpisu<sup>29</sup>) alebo zákona platného v inom členskom štáte upravujúceho použitie zaručeného elektronického podpisu,
+
+- c)
+
+- elektronickú výmenu údajov, ak zmluva týkajúca sa tejto výmeny ustanoví použitie postupov zabezpečujúcich vierohodnosť pôvodu a neporušenosť obsahu údajov,
+
+- d)
+
+- iný spôsob zabezpečujúci vierohodnosť pôvodu a neporušenosť obsahu faktúry.
+
+- § 72
+
+- Osoby povinné vyhotoviť faktúru
+
+- (1)
+
+- Platiteľ je povinný vyhotoviť faktúru podľa tohto zákona pri
+
+- a)
+
+- dodaní tovaru alebo služby s miestom dodania v tuzemsku inej zdaniteľnej osobe alebo právnickej osobe, ktorá nie je zdaniteľnou osobou,
+
+- b)
+
+- dodaní tovaru alebo služby s miestom dodania v inom členskom štáte, keď je osobou povinnou platiť daň príjemca tovaru alebo služby, a to aj, ak je dodanie tovaru alebo služby oslobodené od dane,
+
+- c)
+
+- dodaní tovaru alebo služby s miestom dodania v treťom štáte pre zdaniteľnú osobu,
+
+- d)
+
+- dodaní tovaru formou zásielkového predaja s miestom dodania v tuzemsku,
+
+- e)
+
+- dodaní tovaru oslobodeného od dane podľa § 43,
+
+- f)
+
+- prijatí platby pred dodaním tovaru podľa písmen a) až d),
+
+- g)
+
+- prijatí platby pred dodaním služby podľa písmen a) až c).
+
+- (2)
+
+- Zdaniteľná osoba, ktorá nie je platiteľom a ktorá dodá službu s miestom dodania podľa § 15 ods. 1 v inom členskom štáte alebo treťom štáte, je povinná vyhotoviť faktúru podľa tohto zákona pri dodaní služby a prijatí platby pred dodaním služby.
+
+- (3)
+
+- Každá osoba, ktorá dodá nový dopravný prostriedok z tuzemska do iného členského štátu, je povinná vyhotoviť o dodaní nového dopravného prostriedku faktúru podľa tohto zákona.
+
+- (4)
+
+- Faktúru môže v mene a na účet dodávateľa tovaru alebo služby vyhotoviť odberateľ alebo tretia osoba. Odberateľ môže vyhotoviť faktúru v mene a na účet dodávateľa, ak medzi dodávateľom a odberateľom je uzavretá písomná dohoda o vyhotovovaní faktúr, ktorá musí obsahovať podmienky, ktoré musia byť splnené, aby dodávateľ akceptoval faktúry vyhotovené odberateľom. Faktúru v mene a na účet dodávateľa vyhotovuje odberateľ podľa zákona členského štátu, v ktorom je miesto dodania tovaru alebo služby.
+
+- (5)
+
+- Za správnosť údajov vo faktúre a za včasnosť jej vyhotovenia zodpovedá dodávateľ tovaru alebo služby, a to aj, ak je faktúra vyhotovená odberateľom alebo treťou osobou.
+
+- (6)
+
+- Povinnosť vyhotoviť faktúru podľa odsekov 1 a 2 sa nevzťahuje na dodanie tovaru alebo služby s miestom dodania v tuzemsku, ktoré sú oslobodené od dane podľa § 28 až 42.
+
+- § 73
+
+- Lehota na vyhotovenie faktúry
+
+- Faktúra podľa § 72 musí byť vyhotovená do 15 dní
+
+- a)
+
+- odo dňa dodania tovaru alebo služby,
+
+- b)
+
+- odo dňa prijatia platby pred dodaním tovaru alebo služby,
+
+- c)
+
+- od konca kalendárneho mesiaca, v ktorom bol dodaný tovar oslobodený od dane podľa § 43,
+
+- d)
+
+- od konca kalendárneho mesiaca, v ktorom bola dodaná služba alebo prijatá platba pred dodaním služby s miestom dodania podľa § 15 ods. 1 v inom členskom štáte.
+
+- § 74
+
+- Obsah faktúry
+
+- (1)
+
+- Faktúra vyhotovená osobou podľa § 72 musí obsahovať
+
+- a)
+
+- meno a priezvisko zdaniteľnej osoby alebo názov zdaniteľnej osoby, adresu jej sídla, miesta podnikania, prevádzkarne, bydliska alebo adresu miesta, kde sa obvykle zdržiava, a jej identifikačné číslo pre daň, pod ktorým tovar alebo službu dodala,
+
+- b)
+
+- meno a priezvisko príjemcu tovaru alebo služby alebo názov príjemcu tovaru alebo služby, adresu jeho sídla, miesta podnikania, prevádzkarne, bydliska alebo adresu miesta, kde sa obvykle zdržiava, a jeho identifikačné číslo pre daň, ak mu je pridelené,
+
+- c)
+
+- poradové číslo faktúry,
+
+- d)
+
+- dátum, keď bol tovar alebo služba dodaná, alebo dátum, keď bola platba prijatá, ak tento dátum možno určiť a ak sa odlišuje od dátumu vyhotovenia faktúry,
+
+- e)
+
+- dátum vyhotovenia faktúry,
+
+- f)
+
+- množstvo a druh dodaného tovaru alebo rozsah a druh dodanej služby,
+
+- g)
+
+- základ dane pre každú sadzbu dane, jednotkovú cenu bez dane a zľavy a rabaty, ak nie sú obsiahnuté v jednotkovej cene,
+
+- h)
+
+- uplatnenú sadzbu dane alebo oslobodenie od dane; pri oslobodení od dane sa uvedie odkaz na ustanovenie tohto zákona alebo smernice Rady 2006/112/ES z 28. novembra 2006 o spoločnom systéme dane z pridanej hodnoty v platnom znení alebo slovná informácia „dodanie je oslobodené od dane“,
+
+- i)
+
+- výšku dane spolu v eurách, ktorá sa má zaplatiť, okrem výšky dane uplatnenej podľa osobitnej úpravy v § 66,
+
+- j)
+
+- slovnú informáciu „vyhotovenie faktúry odberateľom“, ak odberateľ, ktorý je príjemcom tovaru alebo služby, vyhotovuje faktúru podľa § 72 ods. 4,
+
+- k)
+
+- slovnú informáciu „prenesenie daňovej povinnosti“, ak osobou povinnou platiť daň je príjemca tovaru alebo služby,
+
+- l)
+
+- údaje o dodanom novom dopravnom prostriedku podľa § 11 ods. 12,
+
+- m)
+
+- slovnú informáciu „úprava zdaňovania prirážky – cestovné kancelárie“, ak sa uplatní osobitná úprava podľa § 65,
+
+- n)
+
+- slovnú informáciu „úprava zdaňovania prirážky – použitý tovar“, „úprava zdaňovania prirážky – umelecké diela“ alebo „úprava zdaňovania prirážky – zberateľské predmety a starožitnosti“, a to v závislosti od tovaru, pri ktorom sa uplatní osobitná úprava podľa § 66.
+
+- (2)
+
+- Faktúra vyhotovená pri dodaní tovaru alebo služby s miestom dodania v inom členskom štáte, ak osobou povinnou platiť daň je príjemca tovaru alebo služby, nemusí obsahovať údaje podľa odseku 1 písm. g) až i), ak formou odkazu na množstvo alebo rozsah a druh tovaru alebo služby možno určiť základ dane.
+
+- (3)
+
+- Platiteľ a zdaniteľná osoba, ktorá nie je platiteľom, môžu vyhotoviť zjednodušenú faktúru, ktorá neobsahuje všetky údaje podľa odseku 1. Zjednodušenou faktúrou je
+
+- a)
+
+- doklad za tovar alebo službu, ak cena vrátane dane nie je viac ako 100 eur; doklad nemusí obsahovať údaje podľa odseku 1 písm. b) a jednotkovú cenu podľa odseku 1 písm. g),
+
+- b)
+
+- doklad vyhotovený elektronickou registračnou pokladnicou podľa osobitného predpisu,<sup>29a</sup>) ak cena tovaru alebo služby vrátane dane uhradená v hotovosti nie je viac ako 1 000 eur alebo uhradená inými platobnými prostriedkami nahrádzajúcimi hotovosť nie je viac ako 1 600 eur; doklad nemusí obsahovať údaje podľa odseku 1 písm. b) a jednotkovú cenu podľa odseku 1 písm. g),
+
+- c)
+
+- podkladová časť nálepky, ktorou sa preukazuje zaplatenie úhrady za užívanie diaľnic, ciest pre motorové vozidlá a ciest I. triedy v tuzemsku, ktorá ostane príjemcovi služby po oddelení nalepovacej časti nálepky, ak podkladová časť nálepky obsahuje obchodné meno dodávateľa služby a jeho identifikačné číslo pre daň, dátum predaja nálepky, cenu vrátane dane a sumu dane,
+
+- d)
+
+- faktúra podľa § 71 ods. 2; faktúra musí obsahovať poradové číslo pôvodnej faktúry a údaje, ktoré sa menia.
+
+- (4)
+
+- Zjednodušená faktúra podľa odseku 3 písm. a) a b) sa nesmie vyhotoviť pri dodaní tovaru alebo služby podľa § 72 ods. 1 písm. b), d) a e).
+
+- (5)
+
+- Ak tovar alebo službu dodáva skupina, uvedie sa vo faktúre ako údaj podľa odseku 1 písm. a) meno a adresa sídla, miesta podnikania, prípadne prevádzkarne člena skupiny, ktorý dodáva tovar alebo službu, a identifikačné číslo pre daň skupiny.
+
+- (6)
+
+- Ak elektronické faktúry sú poslané alebo sprístupnené rovnakému príjemcovi v jednom súbore, môžu sa údaje, ktoré sú spoločné pre jednotlivé faktúry, uviesť len raz, ak sú pre každú faktúru prístupné všetky informácie.
+
+- § 75
+
+- Súhrnná faktúra
+
+- (1)
+
+- Platiteľ a zdaniteľná osoba, ktorá nie je platiteľom, môže vyhotoviť za viac samostatných dodaní tovaru alebo služby alebo za viac platieb prijatých pred dodaním tovaru alebo dodaním služby súhrnnú faktúru, ktorá môže pokrývať najviac obdobie kalendárneho mesiaca; faktúra sa musí vyhotoviť do 15 dní od skončenia kalendárneho mesiaca.
+
+- (2)
+
+- Ak dohoda o platbách, ktorá je súčasťou zmluvy o dodaní elektriny, plynu, vody alebo tepla, pokrýva obdobie najviac 12 kalendárnych mesiacov, a dohoda o platbách nájomného, ktorá je súčasťou nájomnej zmluvy, obsahujú údaje podľa § 74 ods. 1, nie je platiteľ povinný vyhotovovať faktúru za každý opakovane dodaný tovar alebo službu, ak miesto dodania tovaru alebo služby je v tuzemsku a príjemca plnenia má sídlo, miesto podnikania alebo prevádzkareň, pre ktorú sa dodanie tovaru alebo služby uskutočňuje, v tuzemsku.
+
+- § 76
+
+- Uchovávanie faktúr
+
+- (1)
+
+- Platiteľ je povinný uchovávať
+
+- a)
+
+- kópie faktúr, ktoré vyhotovil alebo ktoré vyhotovil v jeho mene a na jeho účet odberateľ alebo tretia osoba, a prijaté faktúry vyhotovené zdaniteľnou osobou alebo treťou osobou v jej mene a na jej účet po dobu desiatich rokov nasledujúcich po roku, ktorého sa týkajú,
+
+- b)
+
+- prijaté faktúry vzťahujúce sa na investičný majetok uvedený v § 54 ods. 2 písm. b) a c) do konca obdobia na úpravu odpočítanej dane podľa § 54 a 54a,
+
+- c)
+
+- dovozné doklady a vývozné doklady potvrdené colným orgánom do konca kalendárneho roka, v ktorom uplynie desať rokov od skončenia roka, ktorého sa týkajú.
+
+- (2)
+
+- Zdaniteľná osoba, ktorá nie je platiteľom, je povinná uchovávať
+
+- a)
+
+- kópie faktúr podľa § 72 ods. 2, ktoré vyhotovila alebo ktoré vyhotovil v jej mene a na jej účet odberateľ alebo tretia osoba, po dobu desiatich rokov nasledujúcich po roku, ktorého sa týkajú,
+
+- b)
+
+- prijaté faktúry vzťahujúce sa na tovary a služby, pri ktorých je osobou povinnou platiť daň, po dobu desiatich rokov nasledujúcich po roku, ktorého sa týkajú.
+
+- (3)
+
+- Právnická osoba, ktorá nie je zdaniteľnou osobou, je povinná uchovávať prijaté faktúry vzťahujúce sa na tovary a služby, pri ktorých je osobou povinnou platiť daň, po dobu desiatich rokov nasledujúcich po roku, ktorého sa týkajú.
+
+- (4)
+
+- Každá osoba, ktorá predá nový dopravný prostriedok do iného členského štátu, a každá osoba, ktorá kúpi nový dopravný prostriedok z iného členského štátu, je povinná uchovať faktúru o predaji alebo kúpe nového dopravného prostriedku po dobu desiatich rokov nasledujúcich po roku, v ktorom došlo k predaju alebo kúpe.
+
+- (5)
+
+- Faktúry podľa odsekov 1 až 3 sa musia uchovávať v pôvodnej forme, v akej sa poslali alebo sprístupnili. Zdaniteľná osoba, ktorá uchováva faktúry elektronicky, je povinná umožniť daňovému úradu na účely kontroly prístup k týmto faktúram, ich sťahovanie a používanie.
+
+- (6)
+
+- Elektronickým uchovávaním faktúry sa rozumie uloženie údajov vykonané prostredníctvom elektronického zariadenia na spracovanie vrátane digitálnej kompresie a uchovávanie údajov použitím drôtových, rádiových, optických alebo iných elektromagnetických prostriedkov.
+
+- (7)
+
+- Ak je faktúra vyhotovená alebo prijatá v cudzom jazyku, sú platiteľ a zdaniteľná osoba, ktorá nie je platiteľom, povinní na požiadanie daňového úradu na účel kontroly zabezpečiť jej preklad do slovenského jazyka; ustanovenie osobitného predpisu<sup>29aa</sup>) týmto nie je dotknuté.“.
+
+- Poznámky pod čiarou k odkazom 29a a 29aa znejú:
+
+- „29a)
+
+- Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
+
+- 29aa)
+
+- § 5 zákona č. 563/2009 Z. z.“.
 
 - 36. V § 77 odseky 1 až 3 znejú:
 
@@ -479,5 +819,11 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 - Platiteľ, ktorý mal k 30. septembru 2012 zdaňovacie obdobie kalendárny štvrťrok, môže pokračovať v tomto zdaňovacom období, najviac však do konca kalendárneho štvrťroka, v ktorom prestane plniť podmienky podľa § 77 ods. 2.“.
 
 - 52. V prílohe č. 1 sa slová „1, ak platiteľ odpočítal daň v plnej výške, alebo číslo 0, ak platiteľ neodpočítal daň, alebo hodnota koeficientu vypočítaného po skončení kalendárneho roka, ak platiteľ pomerne odpočítal daň“ nahrádzajú slovami „od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ mal právo naposledy odpočítať pri investičnom majetku, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor“ a slová „číslo, ktoré predstavuje koeficient vypočítaný po skončení kalendárneho roka, v ktorom platiteľ zmenil účel použitia investičného majetku, alebo číslo 0, alebo číslo 1, a to podľa zmeny účelu použitia investičného majetku podľa § 54 ods. 3“ sa nahrádzajú slovami „číslo od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ môže odpočítať pri investičnom majetku, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku v kalendárnom roku, v ktorom nastanú dôvody na úpravu odpočítanej dane podľa § 54 alebo § 54a alebo súbežne podľa § 54 a 54a; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor“.
+
+- 53. Príloha č. 6 sa dopĺňa bodom 14, ktorý znie:
+
+- „14.
+
+- Smernica Rady 2010/45/EÚ z 13. júla 2010, ktorou sa mení a dopĺňa smernica 2006/112/ES o spoločnom systéme dane z pridanej hodnoty, pokiaľ ide o pravidlá fakturácie (Ú. v. EÚ L 189, 22. 7. 2010).“.
 
 - 54. V prílohe č. 7 sa vypúšťajú slová „4818 40 – Hygienické vložky a tampóny, detské plienky a podobné hygienické výrobky – len na použitie pri inkontinencii“ a na konci sa pripájajú tieto slová: „9619 00 Hygienické vložky a tampóny, detské plienky a prebaly pre deti, a podobné výrobky, z akéhokoľvek materiálu – určené len na inkontinenciu“.
