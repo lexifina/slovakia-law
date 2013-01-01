@@ -12,13 +12,15 @@
 
 - d) deň, ku ktorému bola výška nedoplatkov zistená,
 
-- e) číslo účtu príslušnej zdravotnej poisťovne, na ktorý musia byť nedoplatky uhradené,
+- e) rozpis výšky nedoplatkov podľa písmena c) na jednotlivé mesiace obdobia, za ktoré je výkaz nedoplatkov vystavený,
 
-- f) poučenie o možnosti podať námietky podľa odseku 4,
+- f) číslo účtu príslušnej zdravotnej poisťovne, na ktorý musia byť nedoplatky uhradené,
 
-- g) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
+- g) poučenie o možnosti podať námietky podľa odseku 4,
 
-- h) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
+- h) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
+
+- i) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
 
 (3) Platiteľ poistného sa vopred neupovedomuje o zostavení výkazu nedoplatkov na zdravotnom poistení.
 

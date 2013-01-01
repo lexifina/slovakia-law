@@ -86,9 +86,9 @@
 
 - Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 190 z 18. júna 2003 týkajúce sa technických špecifikácií Európskej karty zdravotného poistenia (2003/752/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
-- 18) § 5 ods. 1 písm. a) až h), ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 18) § 5 ods. 1 písm. a) až h), j) a k) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 19) § 223 až 228a Zákonníka práce.
+- 19) § 65 a 65a zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 19a) § 1 ods. 2 a 3, § 31, 33 a 69 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -154,6 +154,10 @@
 
 - 47) § 5 písm. a), b) a d) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
+- 47a) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 47b) § 56 a nasl. Obchodného zákonníka.
+
 - 48) § 70 až 73 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - § 42 zákona č. 328/2002 Z. z.
@@ -163,8 +167,6 @@
 - 50) § 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 51d) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
@@ -193,6 +195,8 @@
 - § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 53ba) § 84 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 53baa) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 53bb) § 61f ods. 6 zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 

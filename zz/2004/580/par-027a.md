@@ -4,7 +4,7 @@
 
 (2) Zdravotná poisťovňa je povinná do 30. novembra kalendárneho roka nasledujúceho po rozhodujúcom období, za ktoré sa uskutočnilo ročné zúčtovanie poistného, oznámiť úradu
 
-- a) celkovú sumu poistného, ktoré je platiteľ poistného podľa § 11 ods. 1 písm. a) až d) a ods. 2 povinný odviesť zdravotnej poisťovni podľa § 15 za rozhodujúce obdobie (ďalej len „povinné poistné“) upravené o pohľadávky a záväzky voči platiteľom z ročného zúčtovania poistného; rozhodujúce obdobie je obdobie kalendárneho roka, za ktorý sa ročné prerozdeľovanie vykonáva,
+- a) celkovú sumu poistného, ktoré je platiteľ poistného podľa § 11 ods. 1 písm. a) až e) a ods. 2 povinný odviesť zdravotnej poisťovni podľa § 15 za rozhodujúce obdobie, vrátane preddavkov na poistné a poistného vyčíslených zdravotnou poisťovňou podľa § 20 ods. 4 a 5 za rozhodujúce obdobie (ďalej len „povinné poistné“), upravenú o sumu výsledku ročného zúčtovania poistného za rozhodujúce obdobie kalendárneho roka podľa evidencie zdravotnej poisťovne k 20. novembru kalendárneho roka nasledujúceho po rozhodujúcom období, ktorým je obdobie kalendárneho roka, za ktorý sa ročné prerozdeľovanie vykonáva; povinné poistné musí byť v evidencii zdravotnej poisťovne rozčlenené na preddavky na poistné a ročné zúčtovanie poistného a evidované podľa platiteľa poistného uvedeného v § 11 ods. 1 písm. a) až e) a ods. 2 a podľa rozhodujúceho obdobia, na ktoré sa vzťahuje,
 
 - b) počet poistencov podľa pohlavia a veku, za ktorých platiteľom poistného nie je štát (§ 11 ods. 1 písm. a) až c) a § 11 ods. 2) za rozhodujúce obdobie,
 
@@ -55,3 +55,5 @@
 (10) V rozhodnutí podľa odseku 9 úrad určí každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a). Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
 
 (11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie poistného pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
+
+(12) Zdravotná poisťovňa nesmie vykonať opravu údajov oznámených podľa odseku 2 písm. a) až d); na akúkoľvek dodatočnú opravu údajov úrad neprihliada.
