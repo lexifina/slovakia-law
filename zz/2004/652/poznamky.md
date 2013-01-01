@@ -124,6 +124,12 @@
 
 - 43a) Trestný poriadok v znení neskorších predpisov.
 
+- 43aa) Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 43ab) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 44) § 25 Trestného zákona.
 
 - 45) § 24 Trestného zákona.
