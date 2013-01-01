@@ -28,6 +28,8 @@
 
 - 14a) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
+- 14b) § 66 ods. 10 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty.
+
 - 15) § 3 ods. 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 520/2003 Z. z.
 
 - 16) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
@@ -39,8 +41,6 @@
 - 18a) § 58 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 19) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
-
-- 20) § 37 až 39 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 21) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 

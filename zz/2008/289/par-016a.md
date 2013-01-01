@@ -2,7 +2,7 @@
 
 Správneho deliktu sa dopustí ten, kto
 
-- a) nepoužil elektronickú registračnú pokladnicu na evidenciu tržby,
+- a) nepoužil elektronickú registračnú pokladnicu na evidenciu tržby alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou, ktorý nie je pokladničným dokladom,
 
 - b) svojím zásahom vyradí elektronickú registračnú pokladnicu z prevádzky,
 
@@ -26,15 +26,15 @@ Správneho deliktu sa dopustí ten, kto
 
 - l) nevydá pokladničný doklad alebo paragón podľa § 8 ods. 4,
 
-- m) nezabezpečí ochranu údajov alebo ochranu elektronickej registračnej pokladnice, alebo uchovávanie údajov podľa § 9,
+- m) nesplní povinnosť podľa § 9,
 
-- n) nenahlási servisnej organizácii poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1,
+- n) nenahlási servisnej organizácii poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1 alebo poškodenie alebo chýbanie plomby podľa § 4 ods. 8,
 
 - o) nezaeviduje v elektronickej registračnej pokladnici údaje z vyhotovených paragónov v lehote podľa § 10 ods. 5,
 
 - p) neuchová fiskálnu pamäť v lehote podľa § 11 ods. 2,
 
-- q) nevyhotoví dennú uzávierku alebo intervalovú uzávierku v lehote podľa § 12 ods. 1,
+- q) nevyhotoví dennú uzávierku alebo intervalovú uzávierku alebo prehľadovú uzávierku podľa § 12 ods. 1,
 
 - r) nevedie knihu elektronickej registračnej pokladnice podľa § 13,
 
@@ -62,4 +62,6 @@ Správneho deliktu sa dopustí ten, kto
 
 - ad) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 a 3 alebo § 15 ods. 1,
 
-- ae) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6.
+- ae) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6,
+
+- af) v rozpore s týmto zákonom zmení údaje v elektronickej registračnej pokladnici alebo v kontrolnom zázname.
