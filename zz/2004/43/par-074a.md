@@ -10,10 +10,8 @@
 
 (5) Výnosy plynúce z finančných prostriedkov uložených na bežnom účte pre nepriradené platby sú príjmom dôchodkovej správcovskej spoločnosti.
 
-(6) Všetky prevody majetku v prospech majetku v dôchodkových fondoch podľa tohto zákona realizuje dôchodková správcovská spoločnosť prostredníctvom účtu nepriradených platieb.
+(6) Všetky platby poukazované Sociálnou poisťovňou, inou dôchodkovou správcovskou spoločnosťou pri prestupe sporiteľa do inej dôchodkovej správcovskej spoločnosti a platby dobrovoľných príspevkov musia byť realizované prostredníctvom účtu nepriradených platieb, ak tento zákon neustanovuje inak. Účet nepriradených platieb je určený aj na zúčtovanie odplaty za vedenie osobného dôchodkového účtu.
 
 (7) Pri prestupe sporiteľa do inej dôchodkovej správcovskej spoločnosti poukazuje dôchodková správcovská spoločnosť sumu zodpovedajúcu aktuálnej hodnote osobného dôchodkového účtu sporiteľa zo dňa predchádzajúceho dňu prestupu sporiteľa podľa § 97 na účet nepriradených platieb dôchodkovej správcovskej spoločnosti, do ktorej sporiteľ prestupuje.
 
 (8) Majetok evidovaný na účte nepriradených platieb okrem výnosov podľa odseku 5 nie je súčasťou konkurznej podstaty dôchodkovej správcovskej spoločnosti ani nesmie byť použitý na vyrovnanie s veriteľmi dôchodkovej správcovskej spoločnosti podľa osobitného predpisu.<sup>49</sup>)
-
-(9) Dôchodková správcovská spoločnosť vedie účet nepriradených platieb; týmto účtom musia prechádzať všetky platby postúpené Sociálnou poisťovňou a všetky platby od iných dôchodkových správcovských spoločností. Tieto účty sú určené na prijímanie platieb od Sociálnej poisťovne a od iných dôchodkových správcovských spoločností a na ich postupovanie na bežný účet alebo bežné účty vedené pre ten dôchodkový fond alebo dôchodkové fondy, ktoré si sporiteľ zvolil pri uzatvorení alebo pri zmene zmluvy o starobnom dôchodkovom sporení alebo ktorý sporiteľovi určila Sociálna poisťovňa, ako aj na zúčtovanie odplaty za vedenie osobného dôchodkového účtu.

@@ -6,7 +6,7 @@
 
 - b) upraviť systém riadenia rizík a spôsob jeho aktualizácie vnútorným predpisom,
 
-- c) zabezpečiť dodržiavanie limitov celkového rizika a rizika protistrany v majetku v indexovom dôchodkovom fonde.
+- c) zabezpečiť dodržiavanie limitov celkového rizika a rizika protistrany v majetku v dôchodkovom fonde.
 
 (2) Na účely odseku 1 je dôchodková správcovská spoločnosť povinná
 
@@ -36,7 +36,7 @@
 
 - a) vykonávanie politiky a postupov riadenia rizík,
 
-- b) sledovanie súladu medzi aktuálnymi úrovňami rizík a systémom vnútorných limitov podľa odseku 2 písm. d) a s limitmi celkového rizika podľa § 83b ods. 2 a rizika protistrany podľa § 83a ods. 2,
+- b) sledovanie súladu medzi aktuálnymi úrovňami rizík a systémom vnútorných limitov podľa odseku 2 písm. d) a s limitmi celkového rizika podľa § 82c ods. 2,
 
 - c) predkladanie pravidelných správ predstavenstvu dôchodkovej správcovskej spoločnosti
 

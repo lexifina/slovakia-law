@@ -1,6 +1,6 @@
 # § 88b
 
-(1) Hodnota majetku v indexovom dôchodkovom fonde sa určuje len metódou reálnej hodnoty. V dlhopisovom dôchodkovom fonde, zmiešanom dôchodkovom fonde a akciovom dôchodkovom fonde sa hodnota majetku určuje metódou reálnej hodnoty alebo metódou umorovanej hodnoty.
+(1) V dlhopisovom garantovanom dôchodkovom fonde sa hodnota majetku určuje metódou reálnej hodnoty alebo metódou umorovanej hodnoty. V inom ako dlhopisovom garantovanom dôchodkovom fonde sa hodnota majetku určuje metódou reálnej hodnoty.
 
 (2) Metódu umorovanej hodnoty môže dôchodková správcovská spoločnosť použiť len na určenie hodnoty dlhopisov, iných dlhových cenných papierov a nástrojov peňažného trhu, ak
 
