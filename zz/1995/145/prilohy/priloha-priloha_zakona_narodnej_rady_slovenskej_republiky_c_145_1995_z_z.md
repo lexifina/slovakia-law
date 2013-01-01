@@ -474,17 +474,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 23
 
-  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe staršej ako 13 rokov ..... | 33 eur
+  - a) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe staršej ako 16 rokov ..... | 33 eur |
 
-  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe od 5 do 13 rokov ..... | 13 eur
+  - b) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe od 6 do 16 rokov ..... | 13 eur |
 
-  - c) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 5 rokov ..... | 8 eur
+  - c) Vydanie cestovného pasu alebo cestovného dokladu cudzinca osobe mladšej ako 6 rokov ..... | 8 eur |
 
-  - d) Predĺženie platnosti alebo vykonanie zmeny údajov v cestovnom doklade, za každý úkon ..... | 3 eurá
+  - d) Vydanie cestovného pasu alebo cestovného dokladu cudzinca s platnosťou na 1 rok osobe staršej ako 16 rokov ..... | 30 eur |
 
-  - Splnomocnenie Správny orgán vyberie poplatok podľa tejto položky vo výške štvornásobku príslušnej sadzby pri prvej strate alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške osemnásobku príslušnej sadzby pri druhej strate alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch a vo výške desaťnásobku príslušnej sadzby pri tretej strate alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch. Správny orgán vyberie poplatok v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov alebo ak ide o osobu mladšiu ako 15 rokov. Správny orgán vyberie poplatok vo výške štvornásobku príslušnej sadzby, ak vydáva cestovný doklad urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka. |
+  - e) Vydanie cestovného pasu alebo cestovného dokladu cudzinca s platnosťou na 1 rok osobe mladšej ako 16 rokov ..... | 8 eur |
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) až c) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmena d) tejto položky sú oslobodené osoby, ktorým sa vykonáva zmena údajov o ťažkom zdravotnom postihnutí alebo obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. |
+  - f) Predĺženie platnosti cestovného dokladu cudzinca ..... | 3 eurá |
+
+  - Splnomocnenie 1. Správny orgán vyberie poplatok podľa tejto položky vo výške dvojnásobku príslušnej sadzby pri prvej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške päťnásobku príslušnej sadzby pri druhej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov a vo výške desaťnásobku príslušnej sadzby pri tretej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov; zvýšený správny poplatok sa nevyberie, ak by ku dňu podania žiadosti uplynula doba platnosti strateného alebo odcudzeného cestovného dokladu podľa § 22 písm. a) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov. Správny orgán zvýšený správny poplatok za odcudzenie cestovného dokladu nevyberie, ak sa cestovného dokladu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému útvaru Policajného zboru. 2. Správny orgán vyberie poplatok podľa tejto položky v základnej sadzbe, ak vydáva cestovný doklad na požiadanie občana z humanitných dôvodov. 3. Správny orgán vyberie za urýchlené vydanie cestovného dokladu na výslovnú žiadosť poplatníka poplatok podľa tejto položky vo výške trojnásobku príslušnej sadzby do dvoch pracovných dní a vo výške dvojnásobku príslušnej sadzby do desiatich pracovných dní. 4. Správny orgán vyberie poplatok podľa tejto položky vo výške polovice príslušnej sadzby, ak vydáva nový cestovný doklad ako náhradu za platný cestovný doklad pri zápise údaja o ťažkom zdravotnom postihnutí. |
+
+  - Oslobodenie 1. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva nový cestovný doklad ako náhrada za platný cestovný doklad pri obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. | |
 
     - Položka 24
 
@@ -612,29 +616,29 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 30
 
-  - a) Žiadosť o vydanie zbrojného preukazu | 16,50 eura
+  - a) Žiadosť o vydanie zbrojného preukazu | 16,50 eura |
 
-  - b) Vykonanie skúšky alebo preskúšanie z odbornej spôsobilosti držať alebo nosiť zbraň a strelivo |
+  - b) Vykonanie skúšky alebo preskúšanie z odbornej spôsobilosti držať alebo nosiť zbraň a strelivo | |
 
-  - 1. prvá skúška | 49,50 eura
+  - 1. prvá skúška | 49,50 eura |
 
-  - 2. opakovaná skúška | 26,50 eura
+  - 2. opakovaná skúška | 26,50 eura |
 
-  - c) Žiadosť o rozšírenie zbrojného preukazu | 16,50 eura
+  - c) Žiadosť o rozšírenie zbrojného preukazu | 16,50 eura |
 
-  - d) Žiadosť o vydanie nového zbrojného preukazu | 16,50 eura
+  - d) Žiadosť o vydanie nového zbrojného preukazu | 16,50 eura |
 
-  - e) Žiadosť o vydanie európskeho zbrojného pasu | 16,50 eura
+  - e) Žiadosť o vydanie európskeho zbrojného pasu | 16,50 eura |
 
-  - f) Žiadosť o predĺženie platnosti európskeho zbrojného pasu | 3 eurá
+  - f) Žiadosť o predĺženie platnosti európskeho zbrojného pasu | 3 eurá |
 
-  - g) Žiadosť o vydanie zbrojnej licencie | 331,50 eura
+  - g) Žiadosť o vydanie zbrojnej licencie | 331,50 eura |
 
-  - h) Žiadosť o vydanie povolenia na prevádzkovanie strelnice | 663,50 eura
+  - h) Žiadosť o vydanie povolenia na prevádzkovanie strelnice | 663,50 eura |
 
-  - Oslobodenie 1. Od poplatku podľa písmen a) až g) tejto položky sú oslobodení profesionálni vojaci ozbrojených síl Slovenskej republiky, príslušníci ozbrojených zborov Slovenskej republiky a príslušníci Slovenskej informačnej služby. 2. Od poplatku podľa tejto položky sú oslobodené osoby uvedené v bode 1 oslobodenia pri položke 37, ak ide o zbrane používané na poľovné účely. 3. Od poplatku podľa tejto položky sú oslobodení športoví strelci zaradení v strediskách vrcholového športu a reprezentanti Slovenskej republiky v športovej streľbe, ak ide o zbrane používané len na športové účely. 4. Od poplatku podľa tejto položky sú oslobodené osoby uvedené v bode 1 tohto oslobodenia, ak boli v služobnom pomere najmenej 20 rokov. |
+  - Oslobodenie 1. Od poplatku podľa písmen a) až g) tejto položky sú oslobodení profesionálni vojaci ozbrojených síl Slovenskej republiky, príslušníci ozbrojených zborov Slovenskej republiky a príslušníci Slovenskej informačnej služby. 2. Od poplatku podľa písmena d) tejto položky sú oslobodené osoby, ktorým sa vydáva nový zbrojný preukaz ako náhrada pri zmene nezavinenej občanom, alebo ak bola v novom zbrojnom preukaze zistená chyba zapríčinená výrobcom zbrojného preukazu alebo chyba zapríčinená orgánom, ktorý ho vydal. 3. Od poplatku podľa tejto položky sú oslobodení športoví strelci zaradení v strediskách vrcholového športu a reprezentanti Slovenskej republiky v športovej streľbe, ak ide o zbrane používané len na športové účely. 4. Od poplatku podľa tejto položky sú oslobodené osoby uvedené v bode 1 tohto oslobodenia, ak boli v služobnom pomere najmenej 20 rokov. |
 
-  - Poznámky 1. Od osôb, ktoré vykonávajú funkciu člena stráže prírody podľa § 58 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, a od osôb, ktoré vykonávajú funkciu člena poľnej stráže podľa zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, vyberie sa príslušný poplatok podľa tejto položky znížený o 50 %. 2. Poplatok podľa písmena g) tejto položky, ak sa vydáva namiesto hromadného zbrojného preukazu, je 3 eurá. |
+  - Poznámky 1. Od osôb, ktoré vykonávajú funkciu člena stráže prírody podľa § 58 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, a od osôb, ktoré vykonávajú funkciu člena poľnej stráže podľa zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, vyberie sa príslušný poplatok podľa tejto položky znížený o 50 %. 2. Poplatok podľa písmena g) tejto položky, ak sa vydáva namiesto hromadného zbrojného preukazu, je 3 eurá. | |
 
     - Položka 31
 
@@ -970,7 +974,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Návrh na vydanie rozhodnutia o umiestnení stavby alebo rozhodnutia o využití územia alebo rozhodnutia o zmene územného rozhodnutia | |
 
-  - | 1. | pre fyzickú osobu ..... | 6,50 eura
+  - | 1. | pre fyzickú osobu ..... | 40 eur
 
   - | 2. | pre právnickú osobu ..... | 100 eur
 
@@ -982,65 +986,101 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 60
 
-  - Žiadosť o stavebné povolenie | | |
+  - Žiadosť o stavebné povolenie alebo na zmeny dokončených stavieb (nadstavba, prístavba) a na zmeny stavieb pred dokončením (za každú samostatnú stavbu) | | |
 
-  - a) | na stavby na bývanie a na zmeny týchto stavieb pred dokončením | |
+  - a) | na stavby na bývanie | |
 
-  - | 1. | na stavbu rodinného domu s obostavaným priestorom podľa projektovej dokumentácie do 600 m<sup>3</sup>vrátane ..... | 33 eur
+  - | 1. | na stavbu rodinného domu ..... | 50 eur
 
-  - | | a za každých ďalších začatých 100 m<sup>3</sup>obostavaného priestoru ..... | 20 eur
+  - | 2. | na stavbu bytového domu ..... | 200 eur
 
-  - | 2. | na stavbu bytového domu s obostavaným priestorom podľa projektovej dokumentácie do 3000 m<sup>3</sup>vrátane ..... | 750 eur
+  - b) | na stavby na individuálnu rekreáciu, napríklad chaty, rekreačné domy alebo na zmeny dokončených stavieb (nadstavba, prístavba) a na zmeny týchto stavieb pred dokončením | |
 
-  - | | a za každých ďalších začatých 1000 m<sup>3</sup>obostavaného priestoru ..... | 250 eur
+  - | 1. | ak zastavaná plocha nepresahuje 25 m<sup>2</sup>..... | 25 eur
 
-  - b) | na stavby na individuálnu rekreáciu (rekreačné chaty, rekreačné domy a záhradkárske chaty) s obostavaným priestorom podľa projektovej dokumentácie do 200 m<sup>3</sup>vrátane ..... | | 23 eur
+  - | 2. | ak zastavaná plocha presahuje 25 m<sup>2</sup>..... | 50 eur
 
-  - | za každých ďalších začatých 50 m<sup>3</sup>obostavaného priestoru ..... | | 20 eur
+  - c) | na stavebné úpravy dokončených stavieb vyžadujúce stavebné povolenie | |
 
-  - c) | na zmeny dokončených stavieb na bývanie alebo individuálnu rekreáciu | |
+  - | 1. | rodinných domov a stavieb na individuálnu rekreáciu ..... | 35 eur
 
-  - | 1. | rodinný dom ..... | 100 eur
+  - | 2. | bytových domov ..... | 100 eur
 
-  - | 2. | bytový dom ..... | 750 eur
+  - d) | na stavby, ktoré sú súčasťou alebo príslušenstvom rodinných domov alebo stavieb na individuálnu rekreáciu | |
 
-  - | 3. | stavba na individuálnu rekreáciu ..... | 100 eur
+  - | 1. | garáže s jedným alebo dvoma miestami ..... | 30 eur
 
-  - d) | na stavby, ktoré tvoria doplnkovú funkciu rodinného domu, na prípojky na existujúcu verejnú rozvodnú sieť ..... | | 30 eur
+  - | 2. | na prípojky na existujúcu verejnú rozvodnú sieť ..... | 30 eur
 
-  - e) | na stavbu garáže s jedným alebo dvoma miestami ..... | | 30 eur
+  - | 3. | na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ..... | 30 eur
 
-  - f) | na zmeny dokončených stavieb podľa písmen d) a e) a na zmeny týchto stavieb pred dokončením ..... | | 20 eur
+  - | 4. | na spevnené plochy a parkoviská ..... | 30 eur
 
-  - g) | na líniové stavby a zmeny týchto stavieb pred dokončením za každých začatých 100 m ..... | | 10 eur
+  - | 5. | na stavby s doplnkovou funkciou k týmto stavbám, napríklad letné kuchyne, bazény, sklady ..... | 30 eur
 
-  - h) | na ostatné inžinierske stavby s doplnkovou funkciou pre rodinné domy, bytové domy a stavby na individuálnu rekreáciu (podzemné objekty, napr. studne, malé čistiarne odpadových vôd a pod.) pre právnickú osobu ..... | | 50 eur
+  - e) | na stavby, ktoré sú súčasťou alebo príslušenstvom k bytovým domom a ostatným budovám | |
 
-  - i) | na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb a zmeny stavieb pred dokončením s obostavaným priestorom podľa projektovej dokumentácie do 3000 m<sup>3</sup>vrátane ..... | | 1 000 eur
+  - | 1. | garáže s jedným alebo dvoma miestami ..... | 50 eur
 
-  - | a za každých ďalších začatých 1000 m<sup>3</sup>obostavaného priestoru ..... | | 300 eur
+  - | 2. | na prípojky na existujúcu verejnú rozvodnú sieť ..... | 50 eur
 
-  - j) | na stavby dočasných objektov zariadení staveniska, ak sa vydáva samostatné stavebné povolenie ..... | | 50 eur
+  - | 3. | na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ..... | 50 eur
+
+  - | 4. | na spevnené plochy a parkoviská ..... | 50 eur
+
+  - | 5. | na stavby s doplnkovou funkciou, napríklad prístrešky, sklady ..... | 50 eur
+
+  - f) | na zmeny dokončených stavieb a na zmeny týchto stavieb pred dokončením podľa písmen d) a e) ..... | | 20 eur
+
+  - g) | na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb a na zmeny stavieb pred dokončením pri predpokladanom rozpočtovom náklade | |
+
+  - | do 50 000 eur vrátane ..... | | 100 eur
+
+  - | nad 50 000 eur do 100 000 eur vrátane ..... | | 200 eur
+
+  - | nad 100 000 eur do 500 000 eur vrátane ..... | | 400 eur
+
+  - | nad 500 000 eur do 1 000 000 eur vrátane ..... | | 600 eur
+
+  - | nad 1 000 000 eur do 10 000 000 eur vrátane ..... | | 800 eur
+
+  - | nad 10 000 000 eur ..... | | 1 000 eur
+
+  - h) | na stavby dočasných objektov zariadení staveniska, ak sa vydáva samostatné stavebné povolenie na stavby ..... | | 50 eur
 
   - Oslobodenie 1. Od poplatku za vydanie stavebného povolenia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. 2. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 3. Od poplatku za vydanie stavebného povolenia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
 
-  - Poznámky 1. Ak stavebné povolenie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v stavebnom povolení okrem prípojok. 2. Objekty hotelových a ubytovacích zariadení a objekty kolektívnej rekreácie sa posudzujú ako nebytová výstavba. 3. Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby. 4. Podľa tejto položky spoplatňujú stavebné povolenia stavebné úrady, špeciálne vojenské a iné stavebné úrady v pôsobnosti Slovenskej republiky v zmysle ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. 5. Ak pri zmene stavby pred dokončením nedochádza k zmene rozmerov stavby, vyberie sa základná sadzba pre daný typ stavby. 6. Ak sa na stavbu bytového domu poskytne úver alebo príspevok zo Štátneho fondu rozvoja bývania alebo iná dotácia zo štátneho rozpočtu, je poplatok za vydanie stavebného povolenia 66 eur. | | |
+  - Poznámky 1. Ak stavebné povolenie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v stavebnom povolení okrem prípojok [písmená a) a b)]. 2. Hotelové a iné ubytovacie zariadenia sa posudzujú ako nebytová výstavba. 3. Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby. 4. Podľa tejto položky spoplatňujú stavebné povolenia stavebné úrady, špeciálne stavebné úrady, vojenské a iné stavebné úrady podľa ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. | | |
 
     - Položka 60a
 
-  - a) | Žiadosť o predĺženie platnosti stavebného povolenia pre právnickú osobu ..... | 100 eur
+  - a) | Žiadosť o predĺženie platnosti stavebného povolenia pre | |
 
-  - b) | Ohlásenie jednoduchej stavby pre právnickú osobu ..... | 30 eur
+  - | 1. | právnickú osobu ..... | 100 eur
 
-  - c) | Ohlásenie drobnej stavby, stavebných úprav a udržiavacích prác, ohlásenie vybraných telekomunikačných zariadení ..... | 10 eur
+  - | 2. | fyzickú osobu ..... | 30 eur
 
-  - d) | Ohlásenie stavby elektronickej komunikačnej siete, jej prízemnej stavby a výmeny a doplnenia telekomunikačného zariadenia ..... | 80 eur
+  - b) | Ohlásenie jednoduchej stavby pre ..... | |
 
-  - e) | Žiadosť o potvrdenie pasportu stavby, ak sa nezachovala pôvodná dokumentácia stavby ..... | 10 eur
+  - | 1. | právnickú osobu ..... | 50 eur
 
-  - f) | Žiadosť o uložení opatrenia na susednom pozemku alebo stavbe ..... | 30 eur
+  - | 2. | fyzickú osobu ..... | 20 eur
 
-  - Oslobodenie Od poplatku sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. | |
+  - c) | Ohlásenie drobnej stavby, stavebných úprav a udržiavacích prác pre | |
+
+  - | 1. | právnickú osobu ..... | 30 eur
+
+  - | 2. | fyzickú osobu ..... | 10 eur
+
+  - d) | Ohlásenie stavby elektronickej komunikačnej siete, jej prízemnej stavby a výmeny a doplnenia telekomunikačného zariadenia ..... | | 80 eur
+
+  - e) | Žiadosť o potvrdenie pasportu stavby, ak sa nezachovala pôvodná dokumentácia stavby ..... | | 10 eur
+
+  - f) | Žiadosť o uložení opatrenia na susednom pozemku alebo stavbe ..... | | 30 eur
+
+  - g) | Žiadosť o predĺženie termínu dokončenia stavby ..... | | 10 eur
+
+  - Oslobodenie Od poplatku sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. | | |
 
     - Položka 61
 
@@ -1050,11 +1090,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Žiadosť o povolenie | |
 
-  - | 1. | na zmenu užívania stavby, ak nie je spojené so stavebným konaním o vydanie stavebného povolenia podľa položky 60 ..... | 30 eur
+  - | 1. | na zmenu užívania stavby, ak nie je spojené so stavebným konaním podľa položky 60 ..... | 30 eur
 
-  - | 2. | na odstránenie stavby, za každú stavbu, ktorej odstránenie je povolené pre fyzickú osobu ..... | 16,50 eura
+  - | 2. | na odstránenie stavby (poplatok sa vyberá za každý objekt) pre |
 
-  - | | pre právnickú osobu ..... | 200 eur
+  - | | právnickú osobu ..... | 50 eur
+
+  - | | fyzickú osobu ..... | 20 eur
 
   - | 3. | informačného, reklamného alebo propagačného zariadenia, ak je plocha |
 
@@ -1064,7 +1106,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | nad 40 m<sup>2 .....</sup> | 430 eur
 
-  - | 4. | terénnych úprav ..... | 16,50 eur
+  - | 4. | terénnych úprav pre |
+
+  - | | právnickú osobu ..... | 100 eur
+
+  - | | fyzickú osobu ..... | 20 eur
 
   - b) | Návrh na vyvlastnenie nehnuteľnosti ..... | | 100 eur
 
@@ -1076,53 +1122,67 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Návrh na vydanie kolaudačného rozhodnutia | | |
 
-  - a) | na stavby na bývanie | |
+  - a) | na stavby na bývanie a na zmeny dokončených stavieb na bývanie | |
 
-  - | 1. | na stavbu rodinného domu s obostavaným priestorom podľa projektovej dokumentácie do 600 m<sup>3</sup> vrátane |
+  - | 1. | rodinný dom ..... | 35 eur
 
-  - | | pre fyzickú osobu ..... | 16,50 eura
+  - | 2. | bytový dom ..... | 120 eur
 
-  - | | pre právnickú osobu ..... | 50 eur
+  - b) | na stavby na individuálnu rekreáciu, napríklad chaty, rekreačné domy alebo na zmeny dokončených stavieb (nadstavba, prístavba) | |
 
-  - | | a za každých ďalších začatých 100 m<sup>3</sup>obostavaného priestoru pre fyzickú osobu a právnickú osobu ..... | 10 eur
+  - | 1. | ak zastavaná plocha nepresahuje 25 m<sup>2</sup>..... | 25 eur
 
-  - | 2. | na stavbu bytového domu s obostavaným priestorom podľa projektovej dokumentácie do 3000 m<sup>3</sup>vrátane ..... | 400 eur
+  - | 2. | ak zastavaná plocha presahuje 25 m<sup>2</sup>..... | 50 eur
 
-  - | | a za každých ďalších začatých 1000 m<sup>3</sup>obostavaného priestoru ..... | 100 eur
+  - c) | na stavebné úpravy dokončených stavieb, na ktoré bolo vydané stavebné povolenie | |
 
-  - b) | na stavby na individuálnu rekreáciu (rekreačné chaty, rekreačné domy a záhradkárske chaty), | |
+  - | 1. | rodinných domov a stavieb na individuálnu rekreáciu ..... | 25 eur
 
-  - | 1. | ak zastavaná plocha nepresahuje 25 m<sup>2</sup>vrátane ..... | 23 eur
+  - | 2. | bytových domov ..... | 50 eur
 
-  - | 2. | ak zastavaná plocha je od 25 m<sup>2</sup>do 50m<sup>2</sup>vrátane ..... | 33 eur
+  - d) | na stavby, ktoré sú súčasťou alebo príslušenstvom rodinných domov alebo stavieb na individuálnu rekreáciu | |
 
-  - | 3. | ak zastavaná plocha je od 50 m<sup>2</sup>do 80m<sup>2</sup>vrátane ..... | 66 eur
+  - | 1. | garáže s jedným alebo dvoma miestami ..... | 20 eur
 
-  - c) | na zmeny dokončených stavieb na bývanie alebo individuálnu rekreáciu | |
+  - | 2. | na prípojky na existujúcu verejnú rozvodnú sieť ..... | 20 eur
 
-  - | 1. | rodinný dom ..... | 50 eur
+  - | 3. | na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ..... | 20 eur
 
-  - | 2. | bytový dom ..... | 400 eur
+  - | 4. | na spevnené plochy a parkoviská ..... | 20 eur
 
-  - | 3. | stavba na individuálnu rekreáciu ..... | 50 eur
+  - | 5. | na stavby s doplnkovou funkciou k týmto stavbám, napríklad letné kuchyne, bazény, sklady ..... | 20 eur
 
-  - d) | na stavby, ktoré tvoria doplnkovú funkciu rodinného domu, a na stavby slúžiace na podnikateľskú činnosť na pozemkoch rodinných domov, na prípojky na existujúcu verejnú rozvodnú sieť ..... | | 15 eur
+  - e) | na stavby, ktoré sú súčasťou alebo príslušenstvom k bytovým domom a ostatným budovám | |
 
-  - e) | na stavbu garáže s jedným alebo dvoma miestami ..... | | 15 eur
+  - | 1. | garáže s jedným alebo dvoma miestami ..... | 30 eur
 
-  - f) | na zmeny dokončených stavieb podľa písmen d) a e) ..... | | 15 eur
+  - | 2. | na prípojky na existujúcu verejnú rozvodnú sieť ..... | 30 eur
 
-  - g) | na líniové stavby za každých začatých 100 m ..... | | 10 eur
+  - | 3. | na vodné stavby, napríklad studne, vsaky nad 5 m<sup>2</sup>, malé čistiarne odpadových vôd, jazierka ..... | 30 eur
 
-  - h) | na ostatné inžinierske stavby s doplnkovou funkciou pre rodinné domy, bytové domy a stavby na individuálnu rekreáciu (napr. studne, malé čistiarne odpadových vôd) pre právnickú osobu ..... | | 30 eur
+  - | 4. | na spevnené plochy a parkoviská ..... | 30 eur
 
-  - i) | na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb s obostavaným priestorom podľa projektovej dokumentácie do 3000 m<sup>3</sup>vrátane ..... | | 500 eur
+  - | 5. | na stavby s doplnkovou funkciou, napríklad prístrešky, sklady ..... | 30 eur
 
-  - | a za každých ďalších začatých 1000 m<sup>3</sup>obostavaného priestoru ..... | | 150 eur
+  - f) | na zmeny dokončených stavieb podľa písmen d) a e) ..... | | 20 eur
+
+  - g) | na ostatné neuvedené stavby a na zmeny týchto dokončených stavieb pri predpokladanom rozpočtovom náklade | |
+
+  - | do 50 000 eur vrátane ..... | | 60 eur
+
+  - | nad 50 000 eur do 100 000 eur vrátane ..... | | 120 eur
+
+  - | nad 100 000 eur do 500 000 eur vrátane ..... | | 250 eur
+
+  - | nad 500 000 eur do 1 000 000 eur vrátane ..... | | 400 eur
+
+  - | nad 1 000 000 eur do 10 000 000 eur vrátane ..... | | 530 eur
+
+  - | nad 10 000 000 eur ..... | | 660 eur
 
   - Oslobodenie 1. Od poplatku za vydanie kolaudačného rozhodnutia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. 2. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 3. Od poplatku za vydanie kolaudačného rozhodnutia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
 
-  - Poznámky 1. Ak kolaudačné rozhodnutie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v kolaudačnom rozhodnutí okrem prípojok. 2. Objekty hotelových a ubytovacích zariadení a objekty kolektívnej rekreácie sa posudzujú ako nebytová výstavba na účely vydania kolaudačného rozhodnutia. 3. Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby na účely vydania kolaudačného rozhodnutia. 4. Podľa tejto položky spoplatňujú kolaudačné rozhodnutia stavebné úrady, špeciálne vojenské a iné stavebné úrady v pôsobnosti Slovenskej republiky v zmysle ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. 5. Ak sa na stavbu bytového domu poskytne úver alebo príspevok zo Štátneho fondu rozvoja bývania alebo iná dotácia zo štátneho rozpočtu, je poplatok za vydanie kolaudačného rozhodnutia 100 eur. | | |
+  - Poznámky 1. Ak kolaudačné rozhodnutie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v kolaudačnom rozhodnutí okrem prípojok [písmená a) a b)]. 2. Hotelové a iné ubytovacie zariadenia sa posudzujú ako nebytová výstavba. 3. Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby. 4. Podľa tejto položky spoplatňujú kolaudačné rozhodnutia stavebné úrady, špeciálne stavebné úrady, vojenské a iné stavebné úrady podľa ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. | | |
 
     - Položka 62b
 
@@ -1836,45 +1896,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | 2.2. | pri splnení podmienok podľa bodu 1.2 ..... | 1 150 eur
 
-  - Oslobodenie
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti s poľnohospodárskymi prácami. Splnomocnenie 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. 3. Správny orgán môže pri nadmerných alebo nadrozmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. | | | |
 
-  - Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti so žatevnými a zberovými prácami.
-
-  - Splnomocnenie
-
-  - 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti.
-
-  - 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu.
-
-  - 3. Správny orgán môže pri nadmerných alebo nadrozmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku.
-
-  - Poznámky
-
-  - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán.
-
-  - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>)
-
-  - 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke.
-
-  - 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty.
-
-  - 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1 (1.1 až 1.3).
-
-  - 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá.
-
-  - 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel.
-
-  - 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá.
-
-  - 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony.
-
-  - 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1 a 2.2.
-
-  - 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2.
-
-  - 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a) ešte sadzba podľa písmena b).
-
-  - 13. Poplatky podľa písmena c) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania vo vzdialenosti 30 km.
+  - Poznámky 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>) 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke. 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty. 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1 (1.1 až 1.3). 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá. 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel. 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá. 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1 a 2.2. 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2. 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a) ešte sadzba podľa písmena b). 13. Poplatky podľa písmena c) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania vo vzdialenosti 30 km. | | | |
 
     - Položka 80a
 
@@ -2780,13 +2804,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 6. kurzové stávky ..... | 3 319 eur |
 
-  - 7. hazardné hry v kasíne ..... | 33 193,50 eura |
+  - 7. hazardné hry v kasíne ..... | 6 700 eur |
 
   - 8. bingo vrátane špeciálneho binga ..... | 3 319 eur |
 
-  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ..... | 3 319 eur |
+  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ............. | 1 350 eur |
 
-  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 3 319 eur |
+  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 1 350 eur |
 
   - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartových hier pokrového typu prevádzkovaných mimo kasína, pri ktorých hráči hrajú jeden proti druhému, ..... | 100 eur |
 
@@ -2799,6 +2823,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - d) vydanie identifikačnej karty výherného prístroja ..... | 16,50 eura |
 
   - e) vydanie identifikačnej karty výherného prístroja ako náhrady za stratenú, zničenú, poškodenú alebo odcudzenú identifikačnú kartu ..... | 16,50 eura |
+
+  - f) vydanie vyjadrenia k umiestneniu technických zariadení alebo zariadení používaných pri prevádzkovaní videohier, za každé vyjadrenie | 100 eur |
 
     - Položka 141
 
@@ -3504,27 +3530,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 161a
 
-  - Podanie žiadosti o vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov alebo o vydanie súhlasu na premiestnenie živých exemplárov podľa osobitných predpisov<sup>37a</sup>) |
+  - Podanie žiadosti na vydanie povolenia na dovoz, vývoz alebo potvrdenia na opätovný vývoz exemplárov<sup>37a</sup>) ..... | 15 eur.
 
-  - 1. fyzická osoba ..... | 6,50 eura
-
-  - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba ..... | 66 eur
-
-  - Oslobodenie |
-
-  - Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je vyšší územný celok alebo obec a Zoologická záhrada Bojnice. |
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je štát, vyšší územný celok alebo obec a Štátna ochrana prírody Slovenskej republiky. |
 
     - Položka 161b
 
-  - Podanie žiadosti o povolenie výnimky zo zákazu komerčných činností podľa osobitných predpisov<sup>37a</sup>) |
+  - Podanie žiadosti o udelenie výnimky zo zákazu komerčných činností podľa osobitných predpisov alebo vydanie súhlasu na premiestnenie živých exemplárov podľa osobitných predpisov<sup>37a</sup>) | |
 
-  - 1. fyzická osoba ..... | 6,50 eura
+  - 1. | pre 1 až 20 exemplárov ..... | 6 eur za každý exemplár
 
-  - 2. fyzická osoba oprávnená na podnikanie, ktorej predmet činnosti súvisí s podanou žiadosťou, alebo právnická osoba ..... | 66 eur
+  - 2. | pre 21 až 100 exemplárov ..... | 130 eur
 
-  - Oslobodenie |
+  - 3. | pre viac ako 100 exemplárov ..... | 300 eur
 
-  - Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je vyšší územný celok alebo obec a Zoologická záhrada Bojnice. |
+  - 4. | pre exemplár s uvedením jednotiek používaných podľa osobitného predpisu<sup>37aa</sup>)......... | 6 eur
+
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené múzeá s prírodovedným zameraním, zoologické záhrady, ktorých zriaďovateľom je štát, vyšší územný celok alebo obec a Štátna ochrana prírody Slovenskej republiky. | |
 
     - Položka 161c
 
@@ -3563,6 +3585,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 161d
 
   - Udelenie licencie na spracovanie, balenie alebo opätovné balenie kaviáru určeného na vývoz, opätovný vývoz alebo obchod v rámci Európskej únie<sup>37g</sup>) ...................................................................... | 150 eur
+
+    - Položka 161e
+
+  - Udelenie licencie na výrobu alebo distribúciu krúžkov<sup>37h</sup>) na účely nezameniteľného označenia vtákov ..... | 100 eur
 
     - Položka 162
 
@@ -4696,17 +4722,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 243
 
-  - a) Žiadosť o vydanie cestovného pasu osobe staršej ako 13 rokov ..... | 33 eur
+  - a) Vydanie cestovného pasu osobe staršej ako 16 rokov ..... | 40 eur
 
-  - b) Žiadosť o vydanie cestovného pasu osobe od 5 do 13 rokov ..... | 13 eur
+  - b) Vydanie cestovného pasu osobe od 6 do 16 rokov ..... | 15 eur
 
-  - c) Žiadosť o vydanie cestovného pasu osobe mladšej ako 5 rokov ..... | 8 eur
+  - c) Vydanie cestovného pasu osobe mladšej ako 6 rokov ..... | 10 eur
 
-  - d) Žiadosť o vydanie cestovného preukazu ..... | 6,50 eura
+  - d) Vydanie cestovného pasu s platnosťou na 1 rok osobe staršej ako 16 rokov ..... | 30 eur
 
-  - e) Vykonanie zmeny údajov v cestovnom doklade, za každý úkon ..... | 3 eurá
+  - e) Vydanie cestovného pasu s platnosťou na 1 rok osobe mladšej ako 16 rokov ..... | 10 eur
 
-  - Splnomocnenie Poplatok podľa tejto položky sa vyberie vo výške štvornásobku príslušnej sadzby pri prvej strate alebo poškodení cestovného pasu v dobe jeho platnosti, vo výške osemnásobku príslušnej sadzby pri druhej strate alebo poškodení cestovného pasu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch a vo výške desaťnásobku príslušnej sadzby pri tretej strate alebo poškodení cestovného pasu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokoch. Poplatok sa vyberie v základnej sadzbe, ak ide o osobu mladšiu ako 15 rokov. Oslobodenie Od poplatku podľa písmen a) až c) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný pas ako náhrada za platný cestovný pas pri zmene nezavinenej občanom, alebo ak bola v cestovnom pase zistená chyba zapríčinená výrobcom cestovného pasu alebo chyba zapríčinená orgánom, ktorý cestovný pas vydal. |
+  - f) Žiadosť o vydanie náhradného cestovného dokladu ..... | 10 eur
+
+  - g) Žiadosť o vydanie náhradného cestovného dokladu opakovane v priebehu šiestich po sebe nasledujúcich mesiacov ..... | 20 eur
+
+  - h) Predĺženie platnosti cestovného dokladu cudzinca ..... | 5 eur
+
+  - Splnomocnenie 1. Správny orgán vyberie poplatok podľa tejto položky vo výške dvojnásobku príslušnej sadzby pri prvej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti, vo výške päťnásobku príslušnej sadzby pri druhej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov a vo výške desaťnásobku príslušnej sadzby pri tretej strate, odcudzení alebo poškodení cestovného dokladu v dobe jeho platnosti opakovane v priebehu dvoch po sebe nasledujúcich rokov; zvýšený správny poplatok sa nevyberie, ak by ku dňu podania žiadosti uplynula doba platnosti strateného alebo odcudzeného cestovného dokladu podľa § 22 písm. a) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov. Správny orgán zvýšený správny poplatok za odcudzenie cestovného dokladu nevyberie, ak sa cestovného dokladu zmocnila násilím iná osoba a táto skutočnosť bola ohlásená príslušnému policajnému orgánu v krajine, kde sa udalosť stala. 2. Správny orgán vyberie poplatok podľa tejto položky vo výške polovice príslušnej sadzby, ak vydáva nový cestovný doklad ako náhradu za platný cestovný doklad pri zápise údaja o ťažkom zdravotnom postihnutí. |
+
+  - Oslobodenie 1. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva cestovný doklad ako náhrada za platný cestovný doklad pri zmene nezavinenej občanom, alebo ak bola v cestovnom doklade zistená chyba zapríčinená výrobcom cestovného dokladu alebo chyba zapríčinená orgánom, ktorý cestovný doklad vydal. 2. Od poplatku podľa písmen a) až d) tejto položky sú oslobodené osoby, ktorým sa vydáva nový cestovný doklad ako náhrada za platný cestovný doklad pri obmedzení spôsobilosti na právne úkony alebo pozbavení spôsobilosti na právne úkony. |
 
     - Položka 244
 
@@ -4841,6 +4875,18 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - b) listín alebo spisov, za každý rok ....................................................................................................... | 20 eur
 
   - Poznámka Poplatok sa nevyberie v prípade, ak je predmet uložený na zastupiteľskom úrade len na účely jeho doručenia. |
+
+    - Položka 259
+
+  - a) Žiadosť o vydanie občianskeho preukazu | 15 eur
+
+  - b) Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz | 30 eur
+
+  - c) Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz v priebehu dvoch po sebe nasledujúcich rokoch | 50 eur
+
+  - Oslobodenie |
+
+  - Od poplatku podľa písmena b) a c) tejto položky sú oslobodení občania starší ako 60 rokov veku alebo držitelia preukazu občana s ťažkým zdravotným postihnutím. |
 
     - Položka 259a
 

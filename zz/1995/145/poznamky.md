@@ -54,6 +54,8 @@
 
 - 8ab) § 2 zákona č. 659/2007 Z. z. v znení zákona č. 270 /2008 Z. z.
 
+- 8ac) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+
 - 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
@@ -354,11 +356,13 @@
 
 - 37) Napríklad zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 58/1997 Z. z., ktorým sa mení a dopĺňa zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave a zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 37a) Nariadenie Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi v znení neskorších zmien a doplnkov.
+- 37a) Nariadenie Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 03) v platnom znení.
 
-- Nariadenie Komisie (ES) č. 1808/2001 z 30. augusta 2001, ktoré ustanovuje podrobné pravidlá týkajúce sa implementácie nariadenia Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi.
+- Nariadenie Komisie (ES) č. 865/2006 zo 4. mája 2006, ktorým sa ustanovujú podrobné pravidlá týkajúce sa vykonávania nariadenia Rady (ES) č. 338/97 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Ú. v. EÚ L 166, 19. 6. 2006) v platnom znení.
 
-- 37aa) § 8 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov.
+- Zákon č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 37aa) Príloha VII k nariadeniu (ES) č. 865/2006 v platnom znení.
 
 - 37b) § 13 zákona č. 151/2002 Z. z.
 
@@ -371,6 +375,8 @@
 - 37f) § 37 zákona č. 151/2002 Z. z.
 
 - 37g) § 8a zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení zákona č. 452/2007 Z. z.
+
+- 37h) § 13a zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
 
 - 38) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
