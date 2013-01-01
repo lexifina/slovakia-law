@@ -276,9 +276,9 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - 123. | Sad (MPRV SR) 11-01 | Ročný výkaz o dodávkach sejbového a sadbového materiálu lesných drevín
 
-- 124. | Poľov (MPRV SR) 12-01 | Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
+- 124. | Poľov (MPRV SR) 12-01 | Ročný výkaz o revíri a stavoch zveri za poľovnícku sezónu
 
-- 125. | Odh (MPRV SR) 1-03 | Odhad úrody ovocia a produkcia ovocia k 15. júnu, k 15. septembru a k 31. decembru
+- 125. | Odh (MPRV SR) 1-03 | Odhad úrody ovocia k 15. júnu a k 15. septembru a produkcia ovocia k 31. decembru
 
 - 126. | Usk (MPRV SR) 3-03 | Výkaz o uskladnení jabĺk a hrušiek k 1. marcu, k 31. októbru a k 31. decembru
 
@@ -638,7 +638,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Gymnáziá, stredné odborné školy a konzervatóriá.
+      - Gymnáziá, stredné odborné školy, konzervatóriá, praktické školy a odborné učilištia.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -664,7 +664,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: triedy a žiaci podľa ročníkov, odchody žiakov zo základných škôl, organizácia vyučovania, školské kluby, žiaci podľa národnosti, individuálne integrovaní žiaci podľa druhu postihnutia, žiaci učiaci sa cudzí jazyk, veková štruktúra žiakov, počet pedagogických zamestnancov; prospech a dochádzka žiakov v jednotlivých ročníkoch za predchádzajúci školský rok.
+      - Charakteristika navrhnutých ukazovateľov: triedy a žiaci podľa ročníkov, odchody žiakov zo základných škôl, organizácia vyučovania, školské kluby, žiaci podľa národnosti, individuálne integrovaní žiaci podľa druhu postihnutia, veková štruktúra žiakov, počet pedagogických zamestnancov; prospech a dochádzka žiakov v jednotlivých ročníkoch za predchádzajúci školský rok.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -724,7 +724,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet zamestnancov, počet klientov podľa druhu školy, podľa veku, druhu postihnutia a narušenia a spôsobu výchovy a vzdelávania, výkony centra pedagogicko-psychologického poradenstva a prevencie a centra špeciálno-pedagogického poradenstva.
+      - Charakteristika navrhnutých ukazovateľov: počet zamestnancov, počet klientov podľa druhu školy, podľa veku, druhu zdravotného znevýhodnenia a narušenia a spôsobu výchovy a vzdelávania, výkony centra pedagogicko-psychologického poradenstva a prevencie a centra špeciálno-pedagogického poradenstva.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -814,7 +814,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: absolventi vysokých škôl členení podľa študijných odborov Štatistickej klasifikácie odborov vzdelania<sup>9</sup>) a podľa druhu štúdia, veková štruktúra absolventov I. a II. stupňa štúdia a absolventov doktorandského štúdia podľa druhu štúdia.
+      - Charakteristika navrhnutých ukazovateľov: absolventi vysokých škôl členení podľa študijných odborov Štatistickej klasifikácie odborov vzdelania<sup>56a</sup>) a podľa druhu štúdia, veková štruktúra absolventov I. a II. stupňa štúdia a absolventov doktorandského štúdia podľa druhu štúdia.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -904,7 +904,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: poslucháči podľa vyučovacieho jazyka a stupňa náročnosti jazykového vzdelávania.
+      - Charakteristika navrhnutých ukazovateľov: poslucháči podľa cudzieho jazyka a stupňa náročnosti jazykového vzdelávania.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -934,7 +934,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet ubytovaných žiakov, vybavenie školského internátu a evidenčný počet zamestnancov.
+      - Charakteristika navrhnutých ukazovateľov: počet ubytovaných detí a žiakov, vybavenie školského internátu a evidenčný počet zamestnancov.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3070,7 +3070,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3100,7 +3100,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3130,7 +3130,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3160,7 +3160,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3192,7 +3192,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3232,7 +3232,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3254,7 +3254,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: preprava intermodálnych nákladových jednotiek kombinovanej dopravy železničnými vozňami, ucelenými vlakmi a plavidlami v členení na vnútroštátnu prepravu a medzinárodnú prepravu a kombinovaná doprava zvozu a rozvozu z terminálov do terminálov cesta – železnica a cesta – voda, tovar v intermodálnych nákladových jednotkách kombinovanej dopravy prepravovaný na železničných vozňoch prevzatých alebo odovzdaných terminálom kombinovanej dopravy.
+      - Charakteristika navrhnutých ukazovateľov: preprava intermodálnych nákladových jednotiek kombinovanej dopravy železničnými vozňami, ucelenými vlakmi a plavidlami v členení na vnútroštátnu prepravu a medzinárodnú prepravu a kombinovaná doprava zvozu a rozvozu z terminálov do terminálov cesta – železnica a cesta – voda, tovar v intermodálnych prepravných jednotkách kombinovanej dopravy prepravovaný na železničných vozňoch prevzatých alebo odovzdaných terminálom kombinovanej dopravy.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3270,7 +3270,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období prevádzkovatelia železničnej dopravy a vodnej dopravy a do 30. júna po sledovanom období prevádzkovatelia cestnej dopravy.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka prevádzkovatelia železničnej dopravy a vodnej dopravy a do 30. júna nasledujúceho roka prevádzkovatelia cestnej dopravy.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3304,7 +3304,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3330,13 +3330,13 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Železnice Slovenskej republiky, Úrad pre reguláciu železničnej dopravy.
+      - Subjekty vykonávajúce správu a údržbu železničnej infraštruktúry.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. mája po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. mája nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3378,7 +3378,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3418,7 +3418,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3448,7 +3448,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: raz za tri roky (rok zisťovania 2012).
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3480,7 +3480,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca po sledovanom období.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4330,7 +4330,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
   - 124. Značka štatistického zisťovania a značka formulára: Poľov (MPRV SR) 12-01
 
-    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o jarnom kmeňovom stave zveri a o revíri, stave a love zveri
+    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o revíri a stavoch zveri za poľovnícku sezónu
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -4352,7 +4352,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. februára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 5. marca nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4362,21 +4362,23 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
   - 125. Značka štatistického zisťovania a značka formulára: Odh (MPRV SR) 1-03
 
-    - Názov štatistického zisťovania a názov formulára: Odhad úrody ovocia a produkcia ovocia k 15. júnu, k 15. septembru a k 31. decembru
+    - Názov štatistického zisťovania a názov formulára: Odhad úrody ovocia k 15. júnu a k 15. septembru a produkcia ovocia k 31. decembru
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o odhade celkovej úrody jabĺk, hrušiek, broskýň a marhúľ a o produkcii ovocia podľa ovocných druhov a odrôd jabĺk, hrušiek, broskýň a marhúľ v tonách a produkčnej plochy v hektároch. Výsledky zisťovania sa využívajú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
+      - Účelom štatistického zisťovania je získať informácie o produkčnom potenciáli a situácii na trhu v súlade s jednotnou organizáciou spoločného trhu, a to prostredníctvom zisťovania odhadu úrody jabĺk, hrušiek, broskýň a marhúľ, a zistenie konečnej produkcie ovocia podľa ovocných druhov a odrôd v tonách a produkčnej plochy. Výsledky zisťovania sa využívajú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
+
+      - Získavanie informácií ustanovuje osobitný predpis.<sup>64a</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: výmera produkčnej plochy a odhad úrody jabĺk, hrušiek, broskýň a marhúľ podľa jednotlivých odrôd a produkcia ovocia podľa druhov a odrôd jabĺk, hrušiek, broskýň a marhúľ.
+      - Charakteristika navrhnutých ukazovateľov: odhad úrody jabĺk, hrušiek, broskýň a marhúľ podľa jednotlivých odrôd, produkcia ovocia podľa druhov a členenie do skupín podľa odrôd jabĺk, hrušiek, broskýň a marhúľ vo vzťahu k výmere produkčnej plochy.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Právnické osoby, fyzické osoby a samostatne hospodáriaci roľníci, ktorí sa zaoberajú ovocinárskou výrobou a produkujú ovocie v sadoch s výmerou 0,15 hektára a viac, z ktorých sa očakáva úroda pre trh bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností:<sup>10</sup>)
+      - Právnické osoby, fyzické osoby a samostatne hospodáriaci roľníci, ktorí sa zaoberajú ovocinárskou výrobou a produkujú ovocie v sadoch s výmerou 0,30 hektára a viac, z ktorých sa očakáva úroda pre trh bez ohľadu na počet zamestnancov, ktorí vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností:<sup>10</sup>)
 
       - 01.24 – Pestovanie jadrového a kôstkového ovocia a
 
@@ -4384,7 +4386,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-      - Periodicita štatistického zisťovania: 3-krát za rok.
+      - Periodicita štatistického zisťovania: trikrát za rok.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po skončení sledovaného obdobia.
 
@@ -4400,7 +4402,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov jabĺk a hrušiek. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
+      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov jabĺk a hrušiek pre monitorovanie poľnohospodárskeho trhu. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania. Získavanie informácií ustanovuje osobitný predpis.<sup>64a</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 

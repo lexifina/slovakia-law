@@ -42,7 +42,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - Kriminalita | | | |
 
-- 13. | | | SASU 1-01 | Zisťovanie o bezpečnosti a kriminalite, (rok zisťovania 2013)
+- 13. | | | SASU 1-01 | Zisťovanie o bezpečnosti a kriminalite
 
 - II. MAKROEKONOMICKÉ ŠTATISTIKY | | | |
 
@@ -68,17 +68,11 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 23. | | | Ceny Poľ D 1-04 | Štvrťročný výkaz o cenách dodávok vybraných výrobkov a služieb do po¾nohospodárstva
 
-- 24. | | | Ceny Les 1-04 | Štvrťročný výkaz o cenách v lesnom hospodárstve
-
 - Obchod s tovarmi | | | |
 
 - 25. | | | INTRASTAT 1-12 | Hlásenie o prijatí tovaru
 
 - 26. | | | INTRASTAT 2-12 | Hlásenie o odoslaní tovaru
-
-- 27. | | | INTRASTAT 3-12 | Zjednodušené hlásenie o prijatí tovaru
-
-- 28. | | | INTRASTAT 4-12 | Zjednodušené hlásenie o odoslaní tovaru
 
 - 29. | | | ZO 1-12 | Mesačný výkaz o cenách v zahraničnom obchode
 
@@ -472,7 +466,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: výberové zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: sociálne vzťahy medzi členmi domácnosti, demografické ukazovatele (pohlavie, štátna príslušnosť, dátum narodenia, rodinný stav, najvyššie dosiahnuté vzdelanie podľa Štatistickej klasifikácie odborov vzdelania,<sup>9</sup>) a podobne); počet osôb zamestnaných aj nezamestnaných v podrobnej štruktúre; u zamestnaných hlavné a ďalšie zamestnanie, stála práca alebo dočasná práca, plný alebo kratší pracovný čas, odpracované hodiny, atypické formy práce, zamestnanie v odvetví hospodárstva podľa Štatistickej klasifikácie ekonomických činností,<sup>10</sup>) postavenia v zamestnaní podľa medzinárodnej štandardnej klasifikácie zamestnaní,<sup>11</sup>) u nezamestnaných dôvod skončenia pracovného pomeru a charakteristika posledného zamestnania, dĺžka trvania nezamestnanosti, spôsoby hľadania zamestnania a podobne; u osôb od 15 rokov ekonomické postavenie, formálne a neformálne vzdelávanie, mzda zamestnancov, prechod z práce do dôchodku len za rok 2012, pracovné úrazy a zdravotné problémy spôsobené prácou len za rok 2013 a situácia migrantov a ich priamych potomkov na pracovnom trhu len za rok 2014.
+      - Charakteristika navrhnutých ukazovateľov: sociálne vzťahy medzi členmi domácnosti, demografické ukazovatele (pohlavie, štátna príslušnosť, dátum narodenia, rodinný stav, najvyššie dosiahnuté vzdelanie a podobne); počet osôb zamestnaných aj nezamestnaných v podrobnej štruktúre; u zamestnaných hlavné a ďalšie zamestnanie, stála práca alebo dočasná práca, plný alebo kratší pracovný čas, odpracované hodiny, atypické formy práce, zamestnanie v odvetví hospodárstva podľa Štatistickej klasifikácie ekonomických činností,<sup>10</sup>) postavenia v zamestnaní podľa medzinárodnej štandardnej klasifikácie zamestnaní,<sup>11</sup>) u nezamestnaných dôvod skončenia pracovného pomeru a charakteristika posledného zamestnania, dĺžka trvania nezamestnanosti, spôsoby hľadania zamestnania a podobne; u osôb od 15 rokov ekonomické postavenie, formálne a neformálne vzdelávanie, mzda zamestnancov, prechod z práce do dôchodku len za rok 2012, pracovné úrazy a zdravotné problémy spôsobené prácou len za rok 2013 a situácia migrantov a ich priamych potomkov na pracovnom trhu len za rok 2014.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -578,7 +572,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. apríla nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -670,7 +664,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-      - Periodicita štatistického zisťovania: jednorazovo, (rok zisťovania 2013).
+      - Periodicita štatistického zisťovania: jednorazovo.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: v 2. polroku sledovaného roka.
 
@@ -1110,40 +1104,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický Trenčín.
 
-  - 24. Značka štatistického zisťovania a značka formulára: Ceny Les 1-04
-
-    - Názov štatistického zisťovania a názov formulára: Štvrťročný výkaz o cenách v lesnom hospodárstve
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o cenách vybraných výrobkov sortimentov ihličnatého surového dreva a listnatého surového dreva. Výsledky zisťovania sa využijú na výpočet cenových indexov, ktoré slúžia na hodnotenie vývoja cenovej úrovne výrobcov, na prepočty hodnotových ukazovateľov odvetvovej štatistiky a národných účtov do stálych cien, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>19</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: cena vybraných výrobkov zo sortimentov ihličnatého surového dreva a listnatého surového dreva v sledovanom štvrťroku pre tuzemsko.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Podniky zapísané v obchodnom registri, bez ohľadu na počet zamestnancov, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky, s hlavnou činnosťou podľa Štatistickej klasifikácie ekonomických činností:<sup>10</sup>)
-
-      - 02.20 – Ťažba dreva.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: štvrťročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. kalendárneho dňa posledného mesiaca sledovaného štvrťroka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Trenčín.
-
   - 25. Značka štatistického zisťovania a značka formulára: INTRASTAT 1-12
 
     - Názov štatistického zisťovania a názov formulára: Hlásenie o prijatí tovaru
@@ -1162,7 +1122,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 600 000 eur.
+      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 200 000 eur.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1172,7 +1132,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Finančného riaditeľstva Slovenskej republiky a príslušných colných úradov.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
@@ -1194,7 +1154,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 1 700 000 eur.
+      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok alebo od začiatku sledovaného roka odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 400 000 eur.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1204,71 +1164,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
-
-  - 27. Značka štatistického zisťovania a značka formulára: INTRASTAT 3-12
-
-    - Názov štatistického zisťovania a názov formulára: Zjednodušené hlásenie o prijatí tovaru
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva vstupujúcich na územie Slovenskej republiky. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>21</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: fakturovaná suma prijatého tovaru Spoločenstva okrem tovarov, ktoré sú v jednoduchom obehu medzi členskými štátmi, v členení podľa podpoložky kombinovanej nomenklatúry a členského štátu zaslania.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 200 000 eur a rovnajúcej sa alebo nižšej ako 600 000 eur, alebo od začiatku sledovaného roka prijali tovary Spoločenstva v súhrnnej hodnote vyššej ako 200 000 eur.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: mesačne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
-
-  - 28. Značka štatistického zisťovania a značka formulára: INTRASTAT 4-12
-
-    - Názov štatistického zisťovania a názov formulára: Zjednodušené hlásenie o odoslaní tovaru
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o tovaroch Spoločenstva opúšťajúcich územie Slovenskej republiky. Výsledky zisťovania sa využijú na zostavenie štatistiky obchodovania s tovarom medzi členskými štátmi a štatistiky zahraničného obchodu Slovenskej republiky, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>21</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: fakturovaná suma odoslaného tovaru Spoločenstva okrem tovarov, ktoré sú v jednoduchom obehu medzi členskými štátmi, v členení podľa podpoložky kombinovanej nomenklatúry a členského štátu určenia.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Zdaniteľné osoby registrované pre daň z pridanej hodnoty v Slovenskej republike, ktoré za predchádzajúci kalendárny rok odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 400 000 eur a rovnajúcej sa alebo nižšej ako 1 700 000 eur alebo od začiatku sledovaného roka odoslali tovary Spoločenstva v súhrnnej hodnote vyššej ako 400 000 eur.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: mesačne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Colného riaditeľstva Slovenskej republiky a príslušných colných úradov.
+      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky prostredníctvom Finančného riaditeľstva Slovenskej republiky a príslušných colných úradov.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
@@ -1478,7 +1374,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: výberové zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: informácia o individuálnej účtovnej závierke, finančné ukazovatele, informácia o obstaraní a predaji dlhodobého majetku, obstaranie a predaj dlhodobého majetku, aktíva a pasíva, zamestnanci a mzdy, vybrané ukazovatele na úrovni jednotlivých závodov a údaje o novovzniknutých závodných jednotkách, vybrané aktíva a pasíva v sektorovej štruktúre len v roku 2013.
+      - Charakteristika navrhnutých ukazovateľov: informácia o individuálnej účtovnej závierke, finančné ukazovatele, informácia o obstaraní a predaji dlhodobého majetku, obstaranie a predaj dlhodobého majetku, aktíva a pasíva, zamestnanci a mzdy, vybrané ukazovatele na úrovni jednotlivých závodov a údaje o novovzniknutých závodných jednotkách.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -1598,7 +1494,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Trnava.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
 
   - 37. Značka štatistického zisťovania a značka formulára: Roč 1-01
 
@@ -1606,7 +1502,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o ukazovateľoch charakterizujúcich činnosť podniku a jeho závodov v oblasti tvorby a rozdeľovania zdrojov, finančného hospodárenia, zamestnanosti, o špecifikácii pre potreby prepočsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov, pre potreby koncepčných prác a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Získavanie informácií ustanovuje osobitný predpis.<sup>25</sup>)
+      - Účelom štatistického zisťovania je získať informácie o ukazovateľoch charakterizujúcich činnosť podniku a jeho závodov v oblasti tvorby a rozdeľovania zdrojov, finančného hospodárenia, zamestnanosti, o špecifikácii pre potreby prepočsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov, pre potreby koncepčných prác a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Vybrané ukazovatele sa špecifikujú podľa štatistickej klasifikácie produktov podľa činností (CPA). Získavanie informácií ustanovuje osobitný predpis.<sup>25</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1672,7 +1568,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o ukazovateľoch charakterizujúcich činnosť drobného podnikania v oblasti tvorby a rozdeľovania zdrojov, finančného hospodárenia, zamestnanosti a o špecifikácii ekonomických činností pre potreby prepočtu časových radov. Výsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov a pre potreby koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Získavanie informácií ustanovuje osobitný predpis.<sup>27</sup>)
+      - Účelom štatistického zisťovania je získať informácie o ukazovateľoch charakterizujúcich činnosť drobného podnikania v oblasti tvorby a rozdeľovania zdrojov, finančného hospodárenia, zamestnanosti a o špecifikácii ekonomických činností pre potreby prepočtu časových radov. Výsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov a pre potreby koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Vybrané ukazovatele sa špecifikujú podľa štatistickej klasifikácie produktov podľa činností (CPA). Získavanie informácií ustanovuje osobitný predpis.<sup>27</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -1730,7 +1626,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Trnava.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
 
   - 39. Značka štatistického zisťovania a značka formulára: Roč 3-01
 
@@ -2110,7 +2006,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: základné údaje o bytoch, veľkosť dokončených bytov, stavebné povolenia na výstavbu nových budov.
+      - Charakteristika navrhnutých ukazovateľov: základné údaje o bytoch, veľkosť dokončených bytov, stavebné povolenia na výstavbu nových budov podľa Štatistickej klasifikácie stavieb<sup>26</sup>).
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3148,115 +3044,13 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o kapacite a výkonoch ubytovacieho zariadenia. Výsledky zisťovania sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+      - Účelom štatistického zisťovania je získať informácie o kapacite a výkonoch ubytovacieho zariadenia. Výsledky zisťovania sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Získavanie informácií ustanovuje osobitný predpis.<sup>39a</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika a postupy realizácie štatistického zisťovania požadovaných ukazovateľov sa vykonávajú za oblasť cestovného ruchu podľa časti A a B tohto dodatku:
-
-      - Dodatok k štatistickým informáciám v oblasti cestovného ruchu
-
-      - Poznámka: Pre informácie požadované pod B.1.3, C.1.1.2 a C.1.1.4 svetový geografický rozpis je uvedený na konci tohto dodatku.
-
-      - A. Kapacita kolektívneho turistického ubytovania: miestne jednotky na území štátu
-
-        - A.1 Informácie, ktoré sa majú odovzdávať v ročnej periodicite
-
-        - Číslo | Špecifikácia ubytovania | Premenné | Geografický rozpis (Pozn. č. 1) | Členenie
-
-        - A.1.1 | Hotely a podobné zariadenia | Počet zariadení Počet izieb Počet lôžok | Národná a regionálna NUTS III | Typ lokality (Pozn. č. 2) Veľkostná trieda (Pozn. č. 3)
-
-        - A.1.2 | Iné kolektívne ubytovacie zariade nia: – turistické kempingy – chatové osady – iné kolektívne ubytovanie | Počet zariadení Počet lôžok (Pozn. č. 4) | Národná a regionálna NUTS III | Typ lokality
-
-        - Poznámky:
-
-          - 1. Údaje o izbách a lôžkach na úrovni NUTS III môžu obsahovať odhady; odhady musia byť jasne označené.
-
-          - 2. Typy lokality: husto obývaná oblasť, stredne husto obývaná oblasť, riedko obývaná oblasť.
-
-          - 3. Veľkostné triedy: malé zariadenia, stredne veľké zariadenia, veľké zariadenia.
-
-          - 4. Pre kempingy, kde je členský štát nemá svoj vlastný štandard, jedno kempingové stanovište sa môže považovať za rovnajúce sa štyrom lôžkam.
-
-      - B. Obsadenosť kolektívnych ubytovacích zariadení: domáci a aktívny cestovný ruch
-
-        - B.1. Informácie, ktoré sa majú odovzdávať v ročnej periodicite
-
-        - Číslo | Špecifikácia ubytovania | Premenné | Geografický rozpis | Členenie
-
-        - B.1.1. | Hotely a podobné zariadenia | Príchody rezidentov Noci strávené rezidentmi Príchody nerezidentov Noci strávené nerezidentmi | Národná a regionálna NUTS II | Typ lokality
-
-        - B.1.2. | Iné kolektívne ubytovacie zariadenia: – turistické kempingy – chatové osady – iné kolektívne ubytovanie | Príchody rezidentov Noci strávené rezidentmi Príchody nerezidentov Noci strávené nerezidentmi | Národná a regionálna NUTS II | Typ lokality
-
-        - B.1.3. | Hotely a podobné zariadenia Iné kolektívne ubytovacie zariadenia | Podľa krajiny bydliska (rozpis podľa kalendárneho mesiaca): – príchody nerezidentov – noci strávené nerezidentmi | Národná | Typ lokality
-
-        - B.2. Informácie, ktoré sa majú odovzdávať v mesačnej periodicite
-
-        - Číslo | Špecifikácia ubytovania | Premenné | Geografický rozpis
-
-        - B.2.1. | Hotely a podobné zariadenia Iné kolektívne ubytovacie zariadenia | Príchody rezidentov Noci strávené rezidentmi Príchody nerezidentov Noci strávené nerezidentmi | Národná
-
-        - B.2.2. | Hotely a podobné zariadenia | Obsadenosť lôžok: – hrubé – čisté | Národná
-
-          - Členenie podľa geografických oblastí
-
-          - Celý svet
-
-          - Celý Európsky hospodársky priestor
-
-          - Celá Európska únia (27)
-
-          - Belgicko, Bulharsko, Česká republika, Dánsko, Nemecko, Estónsko, Grécko, Španielsko, Francúzsko, Írsko, Taliansko, Cyprus, Lotyšsko, Litva, Luxembursko, Maďarsko, Malta, Rakúsko, Holandsko, Poľsko, Portugalsko, Rumunsko, Slovinsko, Slovensko, Fínsko, Švédsko, Spojené kráľovstvo
-
-          - Celé EZVO
-
-          - Island, Nórsko, Švajčiarsko (vrátane Lichtenštajnska)
-
-          - Všetky ostatné európske krajiny
-
-          - z nich: Rusko, Turecko, Ukrajina
-
-          - Celá Afrika
-
-          - z nej: Juhoafrická republika
-
-          - Celá Severná Amerika
-
-          - z nej: Spojené štáty americké, Kanada
-
-          - Celá Južná a Stredná Amerika
-
-          - z nej: Brazília
-
-          - Celá Ázia
-
-          - z nej: Čínska ľudová republika, Japonsko,
-
-          - Kórejská republika
-
-          - Celá Austrália, Oceánia a ostatné územia
-
-          - z nich: Austrália
-
-          - Bližšie neurčené
-
-          - Členenie podľa typu lokality
-
-          - Husto obývaná oblasť: súvislý súbor miestnych oblastí (obce a mestá), z ktorých každá má hustotu vyššiu ako 500 obyvateľov na kilometer štvorcový, celkový počet obyvateľov súboru je minimálne 50 000.
-
-          - Stredne husto obývaná oblasť: súvislý súbor miestnych oblastí, ktoré nepatria do husto obývanej oblasti, z ktorých každá má hustotu vyššiu ako 100 obyvateľov na kilometer štvorcový, a to buď s celkovým počtom obyvateľov pre súbor najmenej 50 000 obyvateľov, alebo nachádzajúci sa v blízkosti husto obývanej oblasti.
-
-          - Riedko obývaná oblasť: súvislý súbor miestnych oblastí, ktoré nepatria do husto ani stredne husto obývanej oblasti.
-
-          - Veľkostné triedy
-
-          - Malé zariadenia: menej ako 25 izieb
-
-          - Stredne veľké zariadenia: 25 – 99 izieb
-
-          - Veľké zariadenia: viac ako 100 izieb.
+      - Charakteristika navrhnutých ukazovateľov: počet domácich a zahraničných návštevníkov, počet prenocovaní, prevádzkové dni ubytovacieho zariadenia, kapacitné ukazovatele týkajúce sa počtu izieb, lôžok a miest na voľnej ploche, tržby za ubytovanie, zamestnanci a mzdy za ubytovacie zariadenie, počet súkromných podnikateľov a ich spoločníkov.
 
       - c) Vymedzenie spravodajských jednotiek
 
@@ -3280,105 +3074,13 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o dovolenkových pobytoch a služobných cestách občanov Slovenskej republiky doma i v zahraničí. Výsledky zisťovania sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+      - Účelom štatistického zisťovania je získať informácie o dovolenkových pobytoch, služobných cestách a jednodňových návštevách občanov Slovenskej republiky doma i v zahraničí. Výsledky zisťovania sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií. Získavanie informácií ustanovuje osobitný predpis.<sup>39a</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
       - Použitá metóda: výberové zisťovanie.
 
-      - Charakteristika a postupy realizácie štatistického zisťovania požadovaných ukazovateľov sa vykonávajú za oblasť cestovného ruchu podľa časti C tohto dodatku:
-
-      - Dodatok k štatistickým informáciám v oblasti cestovného ruchu
-
-      - Poznámka: Pre informácie požadované pod B.1.3, C.1.1.2 a C.1.1.4 svetový geografický rozpis je uvedený na konci tohto dodatku.
-
-      - C. Dopyt v oblasti cestovného ruchu: domáci a pasívnz cestovný ruch (okrem 1-dňových ciest)
-
-        - C1. Informácie, ktoré sa majú odovzdávať na národnej úrovni
-
-        - Číslo | Premenné | Špecifikácia | Ročné údaje | Štvrťročné údaje | |
-
-        - | | | Pobyty na štyri noci alebo viac (Pozn. č. 1) | Dovolenky (Pozn. č. 2) | | Služobné cesty (Pozn. č. 3)
-
-        - C.1.1. | Údaje o objeme cestovného ruchu | | | | |
-
-        - C.1.1.1. | Počet turistov (osoby zapojené do cestovného ruchu) | Celkovo – domáci – pasívny – domáci a pasívny | | | |
-
-        - C.1.1.2. | Počet ciest cestovného ruchu | Celkovo – domáci – pasívny svetový geografický rozpis (podľa štátov) | | AD | | AD
-
-        - C.1.1.3. | Počet ciest cestovného ruchu (podľa mesiaca odchodu) | Počas každého kalendárneho mesiaca – celkovo – domáci – pasívny | | | |
-
-        - C.1.1.4. | Počet prenocovaní turistov | Celkovo – domáci – pasívny svetový geografický rozpis (podľa štátov) | | | |
-
-        - C.1.2. | Údaje o charakteristikách ciest | | | | |
-
-        - C.1.2.1. | Dĺžka pobytu | Noci: – od 1 do 3 – 4 alebo viac po sebe nasledujúcich – od 4 do 7 – od 8 do 14 – od 15 do 28 – od 29 do 91 – od 92 do 365 | NR NR | NR NR NR NR NR | | NR NR NR NR NR
-
-        - C.1.2.2. | Zabezpečenie pobytov | Priama rezervácia u prevádzkovateľa dopravy/ ubytovacieho zariadenia Využitie cestovných kancelárii – vrátane zájazdov | | NR NR NR | | NR NR NR
-
-        - C.1.2.3. | Hlavný spôsob použitej dopravy | Letecká Námorná Pozemná: – železničná – autobusová, autokarová (pravidelná, turistická) – súkromné a prenajaté vozidlá – iná | | NR NR NR NR NR NR NR | | NR NR NR NR NR NR NR
-
-        - C.1.3. | Údaje o profile turistov | | | | |
-
-        - C.1.3.1. | Počet turistov | Podľa pohlavia: – muži – ženy | | | |
-
-        - C.1.3.2. | Počet turistov | Podľa veku: – 0 – 14 rokov (voliteľné) – 15 – 24 rokov – 25 – 44 rokov – 45 – 64 rokov – 95 rokov a viac | | NR NR NR NR NR | | NR NR NR NR NR
-
-        - C.1.4. | Údaje o turistických výdavkoch | | | | |
-
-        - C.1.4.1. | Výdaje (národná mena) za turistické cesty: – domáce – turistické výlety | Celkom vrátane: – ciest, dovoleniek a zá jazdov | | NR | | NR
-
-        - Poznámky:
-
-          - 1. Tento stĺpec zahŕňa pobyty (t. j. štyri alebo viac po sebe nasledujúcich nocí strávených mimo zvyčajného miesta bydliska, ktorých hlavným dôvodom sú dovolenky, rekreácia alebo chvíle odpočinku).
-
-          - 2. Tento stĺpec zahŕňa informácie o všetkých turistických dovolenkách (t. j. cesty aspoň jednu alebo viac po sebe nasledujúcich nocí strávených mimo zvyčajného miesta bydliska, ktorých hlavným účelom je dovolenka, rekreácia alebo chvíle odpočinku).
-
-          - 3. Tento stĺpec obsahuje informácie o služobných cestách (t. j. cesty jeden alebo viac po sebe nasledujúcich dní strávených mimo zvyčajného miesta bydliska, ktorých hlavné dôvody sú pracovné a profesionálne).
-
-          - Iniciály AD znamenajú, že tieto údaje by sa mali odovzdávať ROČNE, a nie štvrťročne.
-
-          - Informácie, ktoré nie sú požadované za rôzne oblasti turistického ruchu, sú označené iniciálami NR.
-
-          - Členenie podľa geografických oblastí
-
-          - 2. Štatistika dopytu
-
-          - Celý svet
-
-          - Celý Európsky hospodársky priestor
-
-          - Celá Európska únia (27)
-
-          - Belgicko, Bulharsko, Česká republika, Dánsko, Nemecko, Estónsko, Grécko, Španielsko, Francúzsko, Írsko, Taliansko, Cyprus, Lotyšsko, Litva, Luxembursko, Maďarsko, Malta, Rakúsko, Holandsko, Poľsko, Portugalsko, Rumunsko, Slovinsko, Slovensko, Fínsko, Švédsko, Spojené kráľovstvo
-
-          - Celé EZVO
-
-          - Island, Nórsko, Švajčiarsko (vrátane Lichtenštajnska)
-
-          - Všetky ostatné európske krajiny
-
-          - z nich: Rusko, Turecko
-
-          - Celá Afrika
-
-          - Celá Severná Amerika
-
-          - z nej: Spojené štáty americké
-
-          - Celá Južná a Stredná Amerika
-
-          - z nej: Argentína, Brazília
-
-          - Celá Ázia
-
-          - z nej: Čínska ľudová republika, Japonsko, Kórejská republika
-
-          - Celá Austrália, Oceánia a ostatné územia
-
-          - z nich: Austrália
-
-          - Bližšie neurčené.
+      - Charakteristika navrhnutých ukazovateľov: návštevníci v triedení podľa dĺžky cesty, cieľového miesta pobytu (Slovenská republika, zahraničie) a socio-demografických charakteristík; cesty s prenocovaním v triedení podľa mesiaca odchodu, počtu prenocovaní, hlavného cieľového miesta, druhu cieľového miesta, hlavného účelu, účasti detí na dovolenkovej ceste, hlavného druhu dopravného prostriedku, hlavného druhu ubytovacieho zariadenia, spôsobu rezervácie ubytovacích služieb, dopravných služieb a zájazdu, socio-demografických charakteristík a kategórií výdavkov; jednodňové cesty v triedení podľa hlavného účelu, hlavného cieľového miesta, hlavného spôsobu dopravy, socio-demografických charakteristík a kategórií výdavkov.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -3932,7 +3634,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: raz za dva roky, (rok zisťovania 2012 a 2014).
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 15. mája nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 

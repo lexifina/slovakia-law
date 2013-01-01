@@ -32,8 +32,6 @@
 
 - Nariadenie Komisie (EÚ) č. 249/2011 zo 14. marca 2011, ktorým sa prijímajú špecifikácie ad hoc modulu na rok 2012 týkajúceho sa prechodu z práce do dôchodku, ktorý bol stanovený nariadením Rady (ES) č. 577/98 (Ú. v. EÚ L 67, 15. 3. 2011).
 
-- 9) Vyhláška Štatistického úradu Slovenskej republiky č. 114/2011 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
-
 - 10) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 11) Nariadenie Komisie (ES) č. 1022/2009 z 29. októbra 2009, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1738/2005, (ES) č. 698/2006 a (ES) č. 377/2008, pokiaľ ide o medzinárodnú štandardnú klasifikáciu zamestnaní (ISCO) (Ú. v. EÚ L 283, 30. 10. 2009).
@@ -140,6 +138,8 @@
 
 - Nariadenie (ES) č. 295/2008 v platnom znení.
 
+- Nariadenie (ES) č. 451/2008.
+
 - 26) Vyhláška Štatistického úradu Slovenskej republiky č. 323/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia stavieb.
 
 - 27) Nariadenie (ES) č. 2223/96 v platnom znení.
@@ -151,6 +151,8 @@
 - Nariadenie (ES) č. 716/2007 v platnom znení.
 
 - Nariadenie (ES) č. 295/2008 v platnom znení.
+
+- Nariadenie (ES) č. 451/2008.
 
 - 28) Nariadenie (ES) č. 2223/96 v platnom znení.
 
@@ -190,7 +192,7 @@
 
 - 34) Nariadenie (ES) č. 1165/98 v platnom znení.
 
-- Nariadenie Rady (ES) č. 1172/98 z 25. mája 1998 o štatistických výkazoch týkajúcich sa cestnej nákladnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 004) v platnom znení.
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 70/2012 z 18. januára 2012 o štatistickom zisťovaní v cestnej nákladnej doprave (Ú. v. EÚ L 32, 3. 2. 2012).
 
 - Nariadenie Rady (ES) č. 91/2003 zo 16. decembra 2002 o štatistike železničnej dopravy (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 007) v platnom znení.
 
@@ -200,19 +202,23 @@
 
 - Nariadenie Komisie (ES) č.1304/2007 zo 7. novembra 2007, ktorým sa mení a dopĺňa smernica Rady 95/64/ES, nariadenie Rady (ES) č. 1172/98, nariadenie Európskeho parlamentu a Rady (ES) č. 91/2003 a (ES) č. 1365/2006 so zreteľom na vytvorenie NST 2007 ako jednotnej klasifikácie pre prepravovaný tovar v určitých spôsoboch prepravy (Ú. v. EÚ L 290, 8. 11. 2007).
 
-- 37) Nariadenie (ES) č. 1172/98 v platnom znení.
+- 37) Nariadenie (EÚ) č. 70/2012.
 
 - Nariadenie (ES) č. 1304/2007.
 
-- 38) Nariadenie (ES) č. 1172/98 v platnom znení.
+- 38) Nariadenie (EÚ) č. 70/2012.
 
-- 39) Nariadenie (ES) č. 1172/98 v platnom znení.
+- 39) Nariadenie (EÚ) č. 70/2012.
 
 - Nariadenie (ES) č. 91/2003 v platnom znení.
 
 - Nariadenie (ES) č. 1365/2006 v platnom znení.
 
 - Nariadenie (ES) č. 1304/2007.
+
+- 39a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 692/2011 zo 6. júla 2011 o európskej štatistike cestovného ruchu, ktorým sa zrušuje smernica Rady 95/57/ES (Ú. v. EÚ L 192, 22. 7. 2011).
+
+- Vykonávacie nariadenie Komisie (EÚ) č. 1051/2011 z 20. októbra 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (EÚ) č. 692/2011 o európskej štatistike cestovného ruchu, pokiaľ ide o štruktúru správ o kvalite údajov a zasielanie údajov (Ú. v. EÚ L 276, 21. 10. 2011).
 
 - 40) Nariadenie (ES) č. 2223/96 v platnom znení.
 
@@ -240,7 +246,7 @@
 
 - 46) Nariadenie (ES) č. 2150/2002 Európskeho parlamentu a Rady z 25. novembra 2002 o štatistike o odpadoch (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 07) v platnom znení.
 
-- 47) Nariadenie Komisie (ES) č. 1833/2006 z 13. decembra 2006 o nomenklatúre krajín a území pre štatistiku zahraničného obchodu Spoločenstva a štatistiku obchodu medzi členskými štátmi (Ú. v. EÚ L 354, 14. 12. 2006) v platnom znení.
+- 47) Nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení.
 
 - 48) Rozhodnutie č. 1608/2003/ES Európskeho parlamentu a Rady z 29. júla 2003 o vypracovaní a vývoji štatistík Spoločenstva o vede a technike (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 31).
 
@@ -258,13 +264,15 @@
 
 - Nariadenie Komisie (ES) č. 1916/2000 z 8. septembra 2000 o vykonávaní nariadenia Rady (ES) č. 530/1999 o štrukturálnej štatistike príjmov a nákladov práce, pokiaľ ide o definíciu a prenos informácií o štruktúre príjmov (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 04) v platnom znení.
 
-- 53) Vyhláška Štatistického úradu Slovenskej republiky č. 407/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia zamestnaní.
+- 53) Vyhláška Štatistického úradu Slovenskej republiky č. 516/2011 Z. z., ktorou sa vydáva Štatistická klasifikácia zamestnaní.
 
 - 54) Nariadenie (ES) č. 453/2008.
 
 - 55) Nariadenie (ES) č. 530/1999 v platnom znení.
 
-- 56) Nariadenie Rady (EHS) č. 1612/1968 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 01) v platnom znení.
+- 56) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 492/2011 z 5. apríla 2011 o slobode pohybu pracovníkov v rámci Únie (Ú. v. EÚ L 141, 27. 5. 2011).
+
+- 56a) Vyhláška Štatistického úradu Slovenskej republiky č. 243/2012 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
 
 - 57) Zákon č.170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze v znení neskorších predpisov.
 
@@ -289,6 +297,12 @@
 - 64) Nariadenie Komisie (ES) č. 2336/2003 z 30. decembra 2003, ktorým sa zavádzajú podrobné pravidlá na uplatňovanie nariadenia Rady (ES) č. 670/2003, ktorým sa ustanovujú určité opatrenia týkajúce sa trhu s etylalkoholom poľnohospodárskeho pôvodu (Mimoriadne vydanie Ú. v. EÚ, kap. 03/zv. 41) v platnom znení.
 
 - Nariadenie (ES) č. 1234/2007 v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 110/2008 z 15. januára 2008 o definovaní, popise, prezentácii, označovaní a ochrane zemepisných označení liehovín a o zrušení nariadenia (EHS) č. 1576/89 (Ú. v. EÚ L 39, 13. 2. 2008) v platnom znení.
+
+- 64a) Nariadenie Rady (ES) č. 1234/2007 z 22. októbra 2007 o vytvorení spoločnej organizácie poľnohospodárskych trhov a o osobitných ustanoveniach pre určité poľnohospodárske výrobky (nariadenie o jednotnej spoločnej organizácii trhov) (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1337/2011 z 13. decembra 2011 o európskej štatistike trvalých plodín a o zrušení nariadenia Rady (EHS) č. 357/79 a smernice Európskeho parlamentu a Rady 2001/109/ES (Ú. v. EÚ L 347, 30. 12. 2011).
 
 - 65) Vyhláška Slovenského geologického úradu č. 6/1992 Zb. o klasifikácii a výpočte zásob výhradných ložísk.
 
