@@ -316,6 +316,14 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - ktorý spolupracuje s orgánom sociálnoprávnej ochrany detí a sociálnej kurately podľa odseku 1 pri vypracúvaní prehľadu regionálnych potrieb v oblasti zabezpečovania vykonávania rozhodnutí súdu v zariadeniach a pri tvorbe plánu zabezpečenia vykonávania rozhodnutí súdu v zariadení a s určeným orgánom sociálnoprávnej ochrany detí a sociálnej kurately podľa odseku 3 pri vypracúvaní návrhu priorít v oblasti sprostredkovania náhradnej rodinnej starostlivosti, prípravy na náhradnú rodinnú starostlivosť a prípravy na profesionálne vykonávanie náhradnej starostlivosti, ak je potrebné a účelné tieto prípravy zabezpečiť akreditovaným subjektom ako súčasť priorít v oblasti sprostredkovania náhradnej rodinnej starostlivosti,“.
 
+- 53. V § 73 ods. 2 sa za písmeno g) vkladá nové písmeno h), ktoré znie:
+
+- „h)
+
+- vypracúva a uskutočňuje program supervízie vykonávaných opatrení sociálnoprávnej ochrany detí a sociálnej kurately vo svojej pôsobnosti podľa § 93 ods. 8,“.
+
+- Doterajšie písmeno h) sa označuje ako písmeno i).
+
 - 54. V § 73 ods. 3 písmená a) a b) znejú:
 
 - „a)
@@ -342,6 +350,12 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - koordinuje poskytovanie pomoci a sociálneho poradenstva na uľahčenie plnenia účelu náhradnej rodinnej starostlivosti a náhradnej osobnej starostlivosti,“.
 
+- 55. V § 73 ods. 3 písmeno k) znie:
+
+- „k)
+
+- vypracúva a uskutočňuje program supervízie vykonávaných opatrení sociálnoprávnej ochrany detí a sociálnej kurately vo svojej pôsobnosti podľa § 93 ods. 8,“.
+
 - 56. V § 73 ods. 3 písm. l) sa vypúšťajú slová „v oblasti vykonávania ústavnej starostlivosti“ a slová „a v oblasti zabezpečenia vykonávania rozhodnutí súdu v zaradeniach“.
 
 - 57. V § 73 ods. 3 písmeno m) znie:
@@ -359,6 +373,12 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 - 61. V § 75 ods. 1 písm. h) sa slová „určenému orgánu sociálnoprávnej ochrany detí a sociálnej kurately podľa § 73 ods. 3“ nahrádzajú slovami „orgánu sociálnoprávnej ochrany detí a sociálnej kurately podľa § 73 ods. 1“.
 
 - 62. V § 77 ods. 2 sa slová „písmena g), písmena h)“ nahrádzajú slovami „písmená g) až i)“.
+
+- 63. V § 79 sa odsek 1 dopĺňa písmenom k), ktoré znie:
+
+- „k)
+
+- písomne vypracovaný program supervízie a spôsob zabezpečovania programu supervízie vykonávaných opatrení, na ktoré žiada akreditáciu; na program supervízie § 93 ods. 8 platí rovnako.“.
 
 - 64. V § 79 odsek 4 znie:
 
@@ -419,6 +439,12 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 - Zamestnanec orgánu sociálnoprávnej ochrany detí a sociálnej kurately, ktorý zisťuje pomery podľa § 20 ods. 2, vyhotoví zo zisťovania pomerov písomný záznam. Súčasťou písomného záznamu je aj odporúčanie ďalšieho postupu orgánu sociálnoprávnej ochrany detí a sociálnej kurately pri výkone funkcie kolízneho opatrovníka, ktoré vychádza zo zistených pomerov. Písomný záznam je súčasťou spisovej dokumentácie vedenej podľa § 73 ods. 2 písm. e) ôsmeho bodu.“.
 
 - Doterajší odsek 10 sa označuje ako odsek 11.
+
+- 84. § 93 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Ak treba zabezpečiť sociálnoprávnu ochranu detí a sociálnu kuratelu metódami psychoterapie, môžu psychoterapiu vykonávať v ustanovenom rozsahu ako súčasť vykonávaných opatrení sociálnoprávnej ochrany detí a sociálnej kurately len odborne spôsobilé fyzické osoby. Odborná spôsobilosť na výkon psychoterapie v oblasti sociálnoprávnej ochrany detí a sociálnej kurately sa preukazuje dokladom o získaní vysokoškolského vzdelania druhého stupňa v ustanovenom študijnom odbore alebo uznaným dokladom o takom vysokoškolskom vzdelaní vydaným zahraničnou vysokou školou a dokladom o skončení odbornej akreditovanej prípravy na výkon psychoterapie v oblasti sociálnoprávnej ochrany detí a sociálnej kurately. Rozsah vykonávania psychoterapie v oblasti sociálnoprávnej ochrany detí a sociálnej kurately, zoznam študijných odborov a odbornú akreditovanú prípravu na výkon psychoterapie v oblasti sociálnoprávnej ochrany detí a sociálnej kurately ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“ .“.
 
 - 85. Za § 93 sa vkladá § 93a, ktorý znie:
 
