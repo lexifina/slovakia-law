@@ -2,7 +2,7 @@
 
 (1) Rada Centra právnej pomoci (ďalej len „rada“) je orgán, ktorý sa v rozsahu ustanovenom týmto zákonom podieľa na činnosti centra.
 
-(2) Rada má šesť členov, ktorých vymenúva a odvoláva minister. Členmi rady sú zástupca Slovenskej advokátskej komory, ktorého navrhuje predseda Slovenskej advokátskej komory, zástupca Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky, ktorého navrhuje minister práce, sociálnych vecí a rodiny Slovenskej republiky, zástupca verejného ochrancu práv, ktorého navrhuje verejný ochranca práv, a traja zástupcovia ministerstva. Funkcia člena rady je čestná funkcia.
+(2) Rada má šesť členov, ktorých vymenúva a odvoláva minister. Členmi rady sú zástupca Slovenskej advokátskej komory, ktorého navrhuje predseda Slovenskej advokátskej komory, zástupca Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky, ktorého navrhuje minister práce, sociálnych vecí a rodiny Slovenskej republiky, zástupca verejného ochrancu práv, ktorého navrhuje verejný ochranca práv, zástupca Slovenského národného strediska pre ľudské práva, ktorého navrhuje výkonný riaditeľ Slovenského národného strediska pre ľudské práva a dvaja zástupcovia ministerstva.
 
 (3) Rada na návrh riaditeľa prerokúva a prijíma stanoviská
 
