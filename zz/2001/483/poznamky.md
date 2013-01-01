@@ -324,6 +324,8 @@
 
 - 76) § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 76a) § 38 ods. 6 zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
+
 - 77) § 3 ods. 3 a § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
 - 78) Zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
@@ -365,6 +367,8 @@
 - 86d) § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
 
 - 86e) Zákon č. 126/2011 Z. z.
+
+- 86f) § 20f až 20j Občianskeho zákonníka.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
