@@ -16,9 +16,9 @@
 
 - Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+- 6) Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 7) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
 
@@ -29,8 +29,6 @@
 - Zákon č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 221/1996 Z. z. o územnom a správnom usporiadaní Slovenskej republiky v znení neskorších predpisov.
-
-- 11a) Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
 - 12) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
