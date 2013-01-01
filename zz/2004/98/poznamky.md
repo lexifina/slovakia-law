@@ -56,6 +56,8 @@
 
 - 7a) § 15 ods. 5 zákona č. 563/2009 Z. z.
 
+- 7aa) Vyhláška Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane.
+
 - 7b) § 68 zákona č. 563/2009 Z. z.
 
 - 8) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
@@ -132,7 +134,7 @@
 
 - 29b) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
 
-- 30) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. EÚ L 359, 4. 12. 2004).
+- 30) Nariadenie Rady (EÚ) č. 389/2012 z 2. mája 2012 o administratívnej spolupráci v oblasti spotrebných daní a zrušení nariadenia (ES) č. 2073/2004 (Ú. v. L 121, 8. 5. 2012).
 
 - 30a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
