@@ -10,9 +10,11 @@
 
 - 5a) § 19 zákona č. 245/2008 Z. z.
 
-- 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 5 písm. a), b), d) až g) a i) zákona č. 596/2003 Z. z. v znení zákona č. 564/2004 Z. z.
+- 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 1 písm. a) až c) a e) až h) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
-- 10) § 10 ods. 5 písm. h), j) až m) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 7) § 4 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
+
+- 10) § 10 ods. 1 písm. h) a j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
 - 12) Čl. 42 ods. 3 Ústavy Slovenskej republiky.
 
@@ -24,7 +26,7 @@
 
 - 15) § 26 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 16) § 19 ods. 7 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 16) § 151 ods. 1 zákona č. 245/2008 Z. z.
 
 - 17) § 35 a 36 zákona č. 596/2003 Z. z. v znení neskorších predpisov.§ 23 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
@@ -38,9 +40,7 @@
 
 - 20) Napríklad § 476 až 480 Občianskeho zákonníka.
 
-- 20a) § 10 ods. 5 zákona č. 596/2003 Z. z.
-
-- 21) § 76 ods. 6 a § 198 Zákonníka práce.
+- 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.
 
 - 22) Zákon č. 291/2002 Z. z. o štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -55,6 +55,8 @@
 - 22d) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
 
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22ea) § 11 zákona č. 184/2009 Z. z.
 
 - 22f) § 19 ods. 2 písm. a) až c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -78,9 +80,11 @@
 
 - 23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 23h) § 28 ods. 17 zákona č. 245/2008 Z. z.
+- 23h) § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. v znení neskorších predpisov.
 
-- § 4 ods. 9 vyhlášky Ministerstva školstva Slovenskej republiky č. 306/2008 Z. z. o materskej škole v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 308/2009 Z. z.
+- 23ha) § 28 ods. 16 zákona č. 245/2008 Z. z. v znení zákona č. 390/2011 Z. z.
+
+- § 4 ods. 9 vyhlášky Ministerstva školstva Slovenskej republiky č. 306/2008 Z. z. o materskej škole.
 
 - 23i) § 8a zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
@@ -112,7 +116,7 @@
 
 - 24ba) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
-- 24c) § 19 ods. 2 písm. a) až d) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 24c) § 19 ods. 2 písm. a), b) a d) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
 - 24ca) § 19 ods. 2 písm. c) až e) zákona č. 596/2003 Z. z.
 
@@ -122,9 +126,13 @@
 
 - 24f) § 53 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
+- 24g) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
 - 25) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
+- 25a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 25aa) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
 
 - 25b) § 4 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 

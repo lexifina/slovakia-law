@@ -2,7 +2,7 @@
 
 - Financovanie mimoriadnych výsledkov žiakov
 
-- (1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva zriaďovateľovi verejnej školy v priebehu kalendárneho roka finančné prostriedky za mimoriadne výsledky žiakov v súťažiach, predmetových olympiádach a za účasť školy v medzinárodných projektoch alebo programoch.
+- (1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra zriaďovateľovi verejnej školy v priebehu kalendárneho roka finančné prostriedky za mimoriadne výsledky žiakov v súťažiach, predmetových olympiádach a za účasť školy v medzinárodných projektoch alebo programoch.
 
 - (2) Zoznam súťaží, predmetových olympiád, medzinárodných projektov a programov na nový školský rok zverejní ministerstvo na svojom webovom sídle najneskôr do 15. júna príslušného kalendárneho roka.
 

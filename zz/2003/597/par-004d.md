@@ -1,6 +1,6 @@
 # § 4d Financovanie rozvojových projektov
 
-(1) Ministerstvo môže prideliť v rámci kapitoly ministerstva na žiadosť zriaďovateľa verejnej školy, verejnej materskej školy a verejného školského zariadenia o financovanie rozvojového projektu účelovo finančné prostriedky na realizáciu predloženého rozvojového projektu. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu. Výzvy na podanie žiadosti o financovanie rozvojového projektu zverejňuje ministerstvo na svojom webovom sídle v priebehu kalendárneho roka. Rozvojové projekty sú projekty zamerané na rozvoj výchovy a vzdelávania v oblasti
+(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra na žiadosť zriaďovateľa verejnej školy, verejnej materskej školy a verejného školského zariadenia o financovanie rozvojového projektu účelovo finančné prostriedky na realizáciu predloženého rozvojového projektu. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného obvodného úradu v sídle kraja. Výzvy na podanie žiadosti o financovanie rozvojového projektu zverejňuje ministerstvo na svojom webovom sídle v priebehu kalendárneho roka. Rozvojové projekty sú projekty zamerané na rozvoj výchovy a vzdelávania v oblasti
 
 - a) informačných a komunikačných technológií,
 
@@ -26,7 +26,9 @@
 
 - l) podnikateľského vzdelávania, zručností a kompetencií,
 
-- m) propagácie odborného vzdelávania a prípravy.
+- m) propagácie odborného vzdelávania a prípravy,
+
+- n) pôsobenia centier odborného vzdelávania a prípravy podľa osobitného predpisu.<sup>22ea</sup>)
 
 (2) Žiadosť zriaďovateľa obsahuje najmä
 

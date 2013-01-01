@@ -1,59 +1,91 @@
-# § 8b Sankcie
+# § 8b
 
-(1) Ministerstvo uloží zriaďovateľovi
+(1) Ministerstvo alebo obvodný úrad v sídle kraja uloží zriaďovateľovi
 
-- a) za nedodržanie lehoty určenej na rozpis finančných prostriedkov na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 9 pokutu od 331,50 eura do 3 319,00 eur,
+- a) pokutu 200 eur za nedodržanie lehoty určenej na
 
-- b) za nedodržanie lehoty určenej na úpravu finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10 pokutu od 331,50 eura do 3 319,00 eur,
+  - 1. rozpis normatívnych finančných prostriedkov na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 9,
 
-- c) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým verejným školám krajskému školskému úradu podľa § 4 ods. 11 pokutu od 331,50 eura do 3 319,00 eur,
+  - 2. úpravu normatívnych finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10,
 
-- d) za nedodržanie účelu použitia finančných prostriedkov podľa § 6 ods. 3 pokutu od 331,50 eura do 33 193,50 eura,
+  - 3. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4e ods. 6 písm. a),
 
-- e) za nedodržanie lehoty určenej na oznámenie o porušení platných právnych predpisov a za nedodržanie lehoty určenej na oznámenie o odstránení porušenia platných právnych predpisov podľa § 6a ods. 6 pokutu od 331,50 eura do 33 193,50 eura,
+  - 4. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4e ods. 6 písm. b),
 
-- f) za nedodržanie účelu použitia finančných prostriedkov podľa § 6a ods. 7 pokutu od 331,50 eura do 33 193,50 eura,
+  - 5. oznámenie o porušení povinností podľa § 6a ods. 6,
 
-- g) za nedodržanie lehoty určenej na rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a) pokutu od 331,50 eura do 3 319,00 eur,
+  - 6. oznámenie o odstránení porušenia povinností podľa § 6a ods. 6,
 
-- h) za nedodržanie lehoty určenej na úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b) pokutu od 331,50 eura do 3 319,00 eur,
+  - 7. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a),
 
-- i) za nedodržanie lehoty určenej na predloženie správy o hospodárení krajskému školskému úradu podľa § 7 ods. 1 pokutu od 331,50 eura do 3 319,00 eur,
+  - 8. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b),
 
-- j) za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3 pokutu od 331,50 eura do 3 319,00 eur,
+  - 9. predloženie správy o hospodárení obvodnému úradu v sídle kraja podľa § 7 ods. 1,
 
-- k) za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3 pokutu od 331,50 eura do 33 193,50 eura,
+  - 10. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
 
-- l) za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 331,50 eura do 33 193,50 eura,
+  - 11. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 13 písm. a) a ods. 14,
 
-- m) za nedodržanie lehoty určenej na rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 14 písm. a) a ods. 15 pokutu od 331,50 eura do 3 319 eur,
+- b) pokutu 200 eur za neoznámenie výšky normatívnych finančných prostriedkov na kalendárny rok alebo na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 11,
 
-- n) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým školám krajskému školskému úradu podľa § 7 ods. 14 písm. b) pokutu od 331,50 eura do 3 319 eur.
+- c) školy podľa § 6 a 6a pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
 
-(2) Ministerstvo uloží
+  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 3,
 
-- a) zriaďovateľovi<sup>24ca</sup>) školy alebo školského zariadenia
+  - 2. finančných prostriedkov pridelených na špecifiká podľa § 4a,
 
-  - 1. za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 6 638 eur,
+  - 3. finančných prostriedkov pridelených za mimoriadne výsledky žiakov podľa § 4b,
 
-  - 2. za nedodržanie lehoty určenej na predloženie údajov podľa § 7 ods. 12 pokutu od 331,50 eura do 3 319 eur,
+  - 4. finančných prostriedkov pridelených na havarijné situácie podľa § 4c,
 
-  - 3. za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 33 193,50 eura,
+  - 5. finančných prostriedkov pridelených v rámci rozvojových projektov podľa § 4d,
 
-- b) obci
+  - 6. finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia podľa § 4e,
 
-  - 1. za neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7 ods. 12 pokutu od 331,50 eura do 6 638 eur,
+  - 7. normatívnych finančných prostriedkov podľa § 6 ods. 3,
 
-  - 2. za nedodržanie lehoty určenej na predloženie údajov podľa § 7 ods. 12 pokutu od 331,50 eura do 3 319 eur,
+  - 8. normatívnych finančných prostriedkov podľa § 6a ods. 7,
 
-  - 3. za poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 pokutu od 331,50 eura do 33 193,50 eura.
+  - 9. finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na kalendárny rok alebo na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 5,
 
-(3) Ministerstvo pri určení pokuty prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie, ako aj na mieru zavinenia.
+  - 10. finančných prostriedkov pridelených prostredníctvom príspevku na záujmové vzdelávanie žiakov podľa § 7 ods. 8,
 
-(4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
+  - 11. finančných prostriedkov pridelených podľa § 7 ods. 15 alebo
 
-(5) Výnosy z pokút sú príjmom štátneho rozpočtu.
+  - 12. finančných prostriedkov pridelených školám a školským zariadeniam v rámci dohodovacieho konania podľa § 2 ods. 3,
 
-(6) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+- d) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
 
-(7) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo zistilo porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+- e) pokutu od 300 do 2 000 eur za poskytnutie nesprávnych údajov o výsledkoch hospodárenia v správe o hospodárení podľa § 7 ods. 2 a 3,
+
+- f) pokutu od 300 eur do 33 000 eur za poskytnutie nesprávnych údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4.
+
+(2) Ministerstvo alebo obvodný úrad v sídle kraja uloží
+
+- a) zriaďovateľovi<sup>24ca</sup>) školy alebo školského zariadenia za
+
+  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur,
+
+  - 2. nedodržanie lehoty určenej na predloženie údajov podľa § 7a ods. 6 pokutu 300 eur alebo
+
+  - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur,
+
+- b) obci za
+
+  - 1. neposkytnutie údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam podľa § 7a ods. 1 až 5 pokutu 3 000 eur,
+
+  - 2. nedodržanie lehoty určenej na predloženie údajov podľa § 7a ods. 7 písm. a) pokutu 300 eur alebo
+
+  - 3. poskytnutie nepravdivých údajov potrebných na rozdeľovanie a poukazovanie výnosu dane z príjmov obciam za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti podľa § 7a ods. 1 až 5 pokutu od 300 eur do 33 000 eur.
+
+(3) Ministerstvo alebo obvodný úrad v sídle kraja pri určení výšky pokuty podľa odseku 1 písm. e) a f) a odseku 2 písm. a) tretieho bodu a písm. b) tretieho bodu prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie.
+
+(4) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo alebo obvodný úrad v sídle kraja môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
+
+(5) O uložení pokuty podľa odsekov 1 a 2 rozhoduje ten, kto zistil porušenie zákona. Na konanie o uložení pokuty podľa tohto zákona sa vzťahuje všeobecný predpis o správnom konaní.<sup>25a</sup>)
+
+(6) Výnos pokút je príjmom štátneho rozpočtu.
+
+(7) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
+
+(8) Pokutu možno uložiť do jedného roka odo dňa, keď ministerstvo alebo obvodný úrad v sídle kraja zistili porušenie povinností podľa tohto zákona, najneskôr do troch rokov odo dňa, keď k porušeniu povinnosti došlo.

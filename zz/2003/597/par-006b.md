@@ -4,24 +4,32 @@
 
 (2) Príspevok na výchovu a vzdelávanie pre materskú školu<sup>2b)</sup> na bežný školský rok sa určí ako súčin 8-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy<sup>2b</sup>) v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku. Príspevok na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na nový školský rok sa určí ako súčin 4-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy<sup>2b</sup>) v školskom roku, ktorý sa začína v bežnom kalendárnom roku. Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie je podľa § 7 ods. 4.
 
-(3) Krajský školský úrad
+(3) Obvodný úrad v sídle kraja
 
 - a) oznámi najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte zriaďovateľovi materskej školy<sup>2b</sup>) výšku príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v jeho zriaďovateľskej pôsobnosti podľa odseku 1 a určených podľa odseku 2; pre výpočet príspevku na výchovu a vzdelávanie pre materskú školu<sup>2b</sup>) na nový školský rok sa použije počet detí v školskom roku, ktorý začal v predchádzajúcom kalendárnom roku, nahlásený zriaďovateľom podľa § 7 ods. 4 a výška sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. januáru príslušného kalendárneho roka,
 
 - b) oznámi najneskôr do 30. októbra zriaďovateľovi materskej školy<sup>2b</sup>) úpravu výšky príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v jeho zriaďovateľskej pôsobnosti podľa odseku 4 písm. a); úprava zodpovedá rozdielu príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 zo skutočných počtov detí v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a výšky sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. septembru príslušného kalendárneho roka a príspevku na výchovu a vzdelávanie pre materské školy<sup>2b</sup>) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 z počtov detí nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku a výšky sumy životného minima pre jedno nezaopatrené dieťa<sup>23g</sup>) platnej k 1. januáru príslušného kalendárneho roka,
 
-- c) poskytuje zriaďovateľom materských škôl<sup>2b</sup>) finančné prostriedky z kapitoly ministerstva podľa odseku 1 v priebehu roka podľa osobitného predpisu.<sup>22</sup>)
+- c) poskytuje zriaďovateľom materských škôl<sup>2b</sup>) finančné prostriedky z kapitoly ministerstva vnútra podľa odseku 1 v priebehu roka podľa osobitného predpisu.<sup>22</sup>)
 
-(4) Zriaďovateľ materskej školy<sup>2b</sup>) do 30 dní po doručení oznámenia krajského školského úradu
+(4) Zriaďovateľ materskej školy<sup>2b</sup>) do 30 dní po doručení oznámenia obvodného úradu v sídle kraja
 
 - a) podľa odseku 3 písm. a) rozpíše finančné prostriedky na kalendárny rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti,
 
 - b) podľa odseku 3 písm. b) upraví finančné prostriedky na nový školský rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti.
 
-(5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, a to najmä na
+(5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, a to len na
 
-- a) mzdy a platy zamestnancov materskej školy,<sup>2b</sup>) vrátane poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie, príspevku na doplnkové dôchodkové sporenie a poistného na povinné verejné zdravotné poistenie, ktorí sa podieľajú na výchove a vzdelávaní detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky,
+- a) osobný príplatok alebo odmenu zamestnancov materskej školy<sup>2b</sup>) podľa osobitného predpisu,<sup>23h</sup>) ktorí sa podieľajú na výchove a vzdelávaní detí,
 
-- b) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu,<sup>23h</sup>)
+- b) vybavenie miestnosti určenej na výchovu a vzdelávanie detí
 
-- c) úhradu prevádzkových nákladov súvisiacich s výchovou a vzdelávaním detí.
+  - 1. didaktickou technikou,
+
+  - 2. učebnými pomôckami,
+
+  - 3. kompenzačnými pomôckami,
+
+- c) úhradu nákladov súvisiacich s pobytom detí na aktivitách podľa osobitného predpisu<sup>23ha</sup>) alebo
+
+- d) úhradu nákladov za spotrebný materiál použitý pri výchove a vzdelávaní detí.

@@ -1,10 +1,10 @@
 # § 6a Financovanie súkromných škôl
 
-(1) Pri financovaní súkromných škôl, ktoré sa uskutočňuje z kapitoly ministerstva, sa postupuje podľa § 4, § 4a ods. 2 písm. b), § 4b až 4e. Súkromným školám možno prideliť finančné prostriedky na kapitálové výdavky len v rámci rozvojových projektov (§ 4d) na obstaranie hnuteľného majetku.
+(1) Pri financovaní súkromných škôl, ktoré sa uskutočňuje z kapitoly ministerstva vnútra, sa postupuje podľa § 4, § 4a ods. 2 písm. b), § 4b až 4e. Súkromným školám možno prideliť finančné prostriedky na kapitálové výdavky len v rámci rozvojových projektov (§ 4d) na obstaranie hnuteľného majetku.
 
-(2) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 pre súkromné školy na nasledujúci kalendárny rok je vypracovanie správy o hospodárení školy za predchádzajúci rok, ak počas neho už pôsobila, podľa § 7 ods. 2 a 3 a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému krajskému školskému úradu.
+(2) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 pre súkromné školy na nasledujúci kalendárny rok je vypracovanie správy o hospodárení školy za predchádzajúci rok, ak počas neho už pôsobila, podľa § 7 ods. 2 a 3 a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému obvodnému úradu v sídle kraja.
 
-(3) Ministerstvo zníži zriaďovateľovi súkromnej školy objem finančných prostriedkov na príslušný kalendárny rok, ak v priebehu kalendárneho roka v poslednej správe o výsledku inšpekčnej činnosti Štátnou školskou inšpekciou<sup>23e</sup>)
+(3) Ministerstvo zníži zriaďovateľovi súkromnej školy objem finančných prostriedkov na príslušný kalendárny rok, ak v priebehu kalendárneho roka v poslednej správe o výsledku školskej inšpekcie Štátnou školskou inšpekciou<sup>23e</sup>)
 
 - a) bol zistený nesúlad školského vzdelávacieho programu so štátnym vzdelávacím programom,
 
@@ -16,6 +16,6 @@
 
 (5) Ak súkromná škola neodstráni nedostatky podľa odseku 3 do konca kalendárneho roka, ministerstvo postupuje pri prideľovaní finančných prostriedkov zriaďovateľovi tejto školy na nasledujúci kalendárny rok podľa odseku 4.
 
-(6) Zriaďovateľ súkromnej školy je povinný zistené nedostatky v súkromnej škole podľa odseku 3 písomne oznámiť ministerstvu prostredníctvom príslušného krajského školského úradu do piatich dní od doručenia oznámenia od Štátnej školskej inšpekcie. Odstránenie zistených nedostatkov súkromnou školou je povinný zriaďovateľ súkromnej školy písomne oznámiť ministerstvu prostredníctvom príslušného krajského školského úradu do piatich dní od doručenia oznámenia od Štátnej školskej inšpekcie.
+(6) Zriaďovateľ súkromnej školy je povinný zistené nedostatky v súkromnej škole podľa odseku 3 písomne oznámiť ministerstvu prostredníctvom príslušného obvodného úradu v sídle kraja do piatich dní od doručenia oznámenia od Štátnej školskej inšpekcie. Odstránenie zistených nedostatkov súkromnou školou je povinný zriaďovateľ súkromnej školy písomne oznámiť ministerstvu prostredníctvom príslušného obvodného úradu v sídle kraja do piatich dní od doručenia oznámenia od Štátnej školskej inšpekcie.
 
 (7) Zriaďovateľ súkromnej školy je povinný použiť finančné prostriedky pridelené podľa § 4 na úhradu osobných nákladov a prevádzkových nákladov okrem nájomného podľa zmluvy o kúpe prenajatej veci, kapitálových výdavkov a okrem reklamy.

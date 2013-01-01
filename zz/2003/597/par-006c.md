@@ -14,7 +14,11 @@
 
 - f) zabezpečenie prepisu publikácií využívaných ako doplnok k učebniciam do foriem vhodných z hľadiska možností vnímania žiakov so zdravotným znevýhodnením,
 
-- g) podporu aktivít súvisiacich s umeleckým vzdelávaním v základných umeleckých školách.
+- g) podporu aktivít súvisiacich s umeleckým vzdelávaním v základných umeleckých školách,
+
+- h) organizačné zabezpečenie celoslovenských súťaží pedagogických zamestnancov a odborných zamestnancov škôl a školských zariadení,
+
+- i) podporu prevádzky a ďalšieho rozširovania infraštruktúry, ktorú používajú školy a školské zariadenia zaradené do siete podľa osobitného predpisu;<sup>5</sup>) infraštruktúrou sa rozumie technologicko-komunikačné prostredie zabezpečujúce najmä implementáciu a prevádzkovanie informačných systémov, poskytovanie a rozvoj elektronických služieb.
 
 (2) Dotáciu na činnosti podľa odseku 1 (ďalej len „aktivity“) možno poskytnúť po splnení podmienok podľa tohto zákona a podľa osobitného predpisu<sup>23i</sup>) žiadateľom, ktorými sú:
 
@@ -32,7 +36,7 @@
 
 - b) refundáciu výdavkov uhradených v predchádzajúcich rozpočtových rokoch.
 
-(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne. Žiadosť podľa odseku 1 písm. a) až c) a g) predkladá žiadateľ na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy. Žiadosť podľa odseku 1 písm. d) až f) predkladá žiadateľ v priebehu kalendárneho roka.
+(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne. Žiadosť podľa odseku 1 písm. a) až c) a g) predkladá žiadateľ na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy. Žiadosť podľa odseku 1 písm. d) až f), h) a i) predkladá žiadateľ v priebehu kalendárneho roka.
 
 (5) Ministerstvo zverejňuje na svojom webovom sídle výzvu na predloženie žiadostí, a to najmenej 30 dní pred termínom predkladania žiadostí. Výzva na predloženie žiadostí obsahuje najmä
 
@@ -96,7 +100,7 @@
 
 - j) súhlas žiadateľa so zhromažďovaním, spracovaním a zverejňovaním poskytnutých údajov.
 
-(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity podľa odseku 1 písm. a) až c) a g) určí ministerstvo vo výzve a podľa odseku 1 písm. d) až f) určí ministerstvo v zmluve o poskytnutí dotácie.
+(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity podľa odseku 1 písm. a) až c) a g) určí ministerstvo vo výzve a podľa odseku 1 písm. d) až f), h) a i) určí ministerstvo v zmluve o poskytnutí dotácie.
 
 (9) Ministerstvo poskytne žiadateľovi dotáciu na realizáciu aktivity podľa odseku 1 najmä podľa
 
