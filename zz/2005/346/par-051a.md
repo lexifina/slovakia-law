@@ -12,6 +12,6 @@
 
 (6) Záznamy z identifikačnej databázy profesionálneho vojaka sa archivujú 100 rokov od jeho narodenia.
 
-(7) Záznamy z identifikačnej databázy profesionálneho vojaka dočasne vyčleneného na plnenie úloh organizačných zložiek Vojenského spravodajstva sa vedú samostatne.
+(7) Záznamy z identifikačnej databázy profesionálneho vojaka dočasne vyčleneného na plnenie úloh Vojenského spravodajstva sa vedú samostatne.
 
 (8) Podrobnosti o spôsobe odberu odtlačkov prstov, biologickej vzorky, vyhotovenia panoramatickej röntgenovej snímky chrupu, o vytvorení, použití, uchovávaní a likvidácii identifikačnej databázy a o likvidácii biologickej vzorky profesionálneho vojaka ustanoví služobný predpis, ktorý vydá minister.
