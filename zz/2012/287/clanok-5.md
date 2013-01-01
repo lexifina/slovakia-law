@@ -12,6 +12,10 @@ Zákon č. 524/2010 Z. z. o poskytovaní dotácií v pôsobnosti Úradu vlády S
 
 - Doterajšie písmená d), e), f) a h) sa označujú ako písmená c) až f).
 
+- 3. V § 2 ods. 1 sa vypúšťa písmeno e).
+
+- Doterajšie písmeno f) sa označuje ako písmeno e).
+
 - 4. V § 2 ods. 3 sa vypúšťajú písmená a) a i).
 
 - Doterajšie písmená b) až h) sa označujú ako písmená a) až g).
@@ -27,6 +31,12 @@ Zákon č. 524/2010 Z. z. o poskytovaní dotácií v pôsobnosti Úradu vlády S
 - 7. V § 2 ods. 4 uvádzacej vete sa slová „písm. f)“ nahrádzajú slovami „písm. e)“.
 
 - 8. V § 2 ods. 5 uvádzacej vete sa slová „písm. h)“ nahrádzajú slovami „písm. f)“.
+
+- 9. V § 2 sa vypúšťa odsek 4.
+
+- Doterajší odsek 5 sa označuje ako odsek 4.
+
+- 10. V § 2 ods. 4 uvádzacej vete sa slová „písm. f)“ nahrádzajú slovami „písm. e)“.
 
 - 11. V § 3 ods. 1 sa vypúšťa písmeno l).
 
@@ -64,7 +74,19 @@ Zákon č. 524/2010 Z. z. o poskytovaní dotácií v pôsobnosti Úradu vlády S
 
 - c)
 
-- podľa § 2 ods. 1 písm. i) v znení účinnom do 30. septembra 2012, vykoná Ministerstvo životného prostredia Slovenskej republiky.“.
+- podľa § 2 ods. 1 písm. i) v znení účinnom do 30. septembra 2012, vykoná Ministerstvo životného prostredia Slovenskej republiky.
+
+- § 9b
+
+- Prechodné ustanovenia k úpravám účinným od 1. januára 2013
+
+- (1)
+
+- Žiadosti o poskytnutie dotácie na účel podľa § 2 ods. 1 písm. e) v znení účinnom do 31. decembra 2012, ktoré boli predložené do 31. decembra 2012, vybaví Ministerstvo zdravotníctva Slovenskej republiky podľa tohto zákona v znení účinnom do 31. decembra 2012.
+
+- (2)
+
+- Následnú finančnú kontrolu hospodárenia s poskytnutou dotáciou a kontrolu dodržania podmienok zmluvy o poskytnutí dotácie, ktorá bola poskytnutá na účel podľa § 2 ods. 1 písm. e) v znení účinnom do 31. decembra 2012, vykoná Ministerstvo zdravotníctva Slovenskej republiky.“.
 
 - 15. V prílohe č. 1a nadpise sa slová „písm. m)“ nahrádzajú slovami „písm. l).
 
