@@ -8,7 +8,7 @@
 
 (4) Ak výkon funkcie hlavného kontrolóra zaniká spôsobom podľa odseku 8 písm. a), b) alebo d), vyhlási zastupiteľstvo nové voľby hlavného kontrolóra tak, aby sa konali najneskôr do 60 dní odo dňa skončenia výkonu funkcie hlavného kontrolóra.
 
-(5) Hlavného kontrolóra volí zastupiteľstvo na šesť rokov. Jeho funkčné obdobie začína dňom voľby. Ak hlavný kontrolór vykonávajúci funkciu v deň voľby je kandidátom na funkciu hlavného kontrolóra a nebol zastupiteľstvom opäť zvolený do funkcie, jeho pracovnoprávny vzťah k samosprávnemu kraju končí dňom skončenia jeho funkčného obdobia a hlavný kontrolór má nárok na odstupné v sume dvoch mesačných platov. Do výšky platu sa na tento účel nezapočíta odmena priznaná podľa § 19b ods. 2.
+(5) Hlavného kontrolóra volí zastupiteľstvo na šesť rokov. Jeho funkčné obdobie začína dňom, ktorý je určený ako deň nástupu do práce. Ak hlavný kontrolór vykonávajúci funkciu v deň voľby je kandidátom na funkciu hlavného kontrolóra a nebol zastupiteľstvom opäť zvolený do funkcie, má nárok na odstupné v sume dvoch mesačných platov. Do výšky platu sa na tento účel nezapočíta odmena priznaná podľa § 19b ods. 2.
 
 (6) Hlavnému kontrolórovi vzniká po zvolení nárok na uzavretie pracovnej zmluvy so samosprávnym krajom.
 
@@ -37,3 +37,7 @@
 - b) hrubo alebo opakovane zanedbáva povinnosti vyplývajúce z jeho funkcie a bol na to aspoň raz písomne upozornený zastupiteľstvom,
 
 - c) uvedie nepravdivý údaj v čestnom vyhlásení podávanom podľa § 19 ods. 1 alebo v údajoch o svojich majetkových pomeroch.
+
+(10) Na odvolanie hlavného kontrolóra z funkcie je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov.
+
+(11) Dňom zániku výkonu funkcie hlavného kontrolóra zaniká aj jeho pracovný pomer.
