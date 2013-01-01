@@ -19,3 +19,5 @@ Príloha č. 5 k zákonu č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnanosti a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
 
   - 9. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ, L 180, 15. 7. 2010).

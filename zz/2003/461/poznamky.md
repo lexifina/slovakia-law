@@ -180,11 +180,9 @@
 
 - 90) § 95 ods. 1 písm. b) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 90a) § 65 ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 334/2011.
+- 90a) § 65 ods. 4 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 90b) § 17a zákona č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
-
-- 90c) § 17a ods. 2 zákona č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
+- 90b) § 17a zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 91) § 94 ods. 1 písm. c) zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
