@@ -17,3 +17,5 @@
 - 14) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 15) § 54 ods. 1, 2, 9 a 10 zákona č. 461/2003 Z. Z. o nemocenskom poistení v znení zákona č. 543/2010 Z. z.
+
+- 16) § 11 zákona č. 461/2003 Z. z. v znení zákona č. 721/2004 Z. z.
