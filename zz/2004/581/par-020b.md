@@ -2,7 +2,7 @@
 
 (1) Centrum pre klasifikačný systém najmä
 
-- a) zabezpečuje zber, spracovanie a kontrolu dát užívateľov klasifikačného systému,
+- a) zabezpečuje zber, spracovanie a kontrolu dát užívateľov klasifikačného systému diagnosticko-terapeutických skupín (ďalej len „klasifikačný systém“),
 
 - b) vykonáva výpočet základných údajov na nastavenie parametrov klasifikačného systému a spracovanie podkladov pre zoznam diagnosticko-terapeutických skupín,
 
@@ -21,6 +21,8 @@
 - i) zabezpečuje distribúciu aktualizovaných verzií programového vybavenia užívateľom klasifikačného systému,
 
 - j) zabezpečuje ochranu bezpečnosti dát odovzdaných užívateľovi klasifikačného systému,
+
+- k) uskutočňuje vzdelávanie zdravotníckych pracovníkov v akreditovanom certifikačnom študijnom programe certifikovanej pracovnej činnosti klasifikačný systém v zdravotníctve.
 
 (2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia zdravotnej starostlivosti.
 
