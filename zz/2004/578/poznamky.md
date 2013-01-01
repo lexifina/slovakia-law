@@ -126,6 +126,10 @@
 
 - 36a) § 12a zákona č. 477/2002 Z. z. v znení zákona č. 5/2005 Z. z.
 
+- 36b) § 80 ods. 6 a § 83 ods. 2 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36c) § 5 ods. 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
+
 - 37) § 2 ods. 1 písm. f) zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - 38) Zákon č. 283/2002 Z. z. o cestovných náhradách.
