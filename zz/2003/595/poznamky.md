@@ -6,6 +6,8 @@
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
+- 2a) § 20 písm. b) zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) Napríklad zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov, zákon č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov, zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov, zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov, zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov, zákon č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 - 1945 v znení neskorších predpisov, zákon č. 462/2002 Z. z. o poskytnutí jednorazového príspevku politickým väzňom v znení zákona č. 665/2002 Z. z.
 
 - 4) Napríklad § 628 až 630 Občianskeho zákonníka.
@@ -70,7 +72,7 @@
 
 - 29) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 29a) Napríklad zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
+- 29a) Napríklad zákon č. 650/2004 Z. z. v znení zákona č. 747/2004 Z. z., zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - 29b) § 40 a § 71 ods. 1 zákona č. 618/2003 Z. z. v znení neskorších predpisov.
 
@@ -109,6 +111,8 @@
 - 40a) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 40b) § 40 zákona č. 43/2004 Z. z. v znení zákona č. 721/2004 Z. z.
+
+- 40c) § 64a ods. 13 a § 123ae písm. b) zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
 
 - 41) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
@@ -176,7 +180,7 @@
 
 - 59i) § 6 ods. 2 písm. d) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
-- 59j) § 3 ods. 1 zákona č. 406/2011 Z. z.
+- 59j) Oznámenie Federálneho ministerstva palív a energetiky č. 59/1990 Zb. o vydaní výnosu o deputátnom uhlí a dreve.
 
 - 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
 
@@ -189,6 +193,16 @@
 - 62) § 829 až 841 Občianskeho zákonníka.
 
 - 63) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z.
+
+- 63a) § 3 ods. 2 zákona č. 571/2009 Z. z.
+
+- 63b) § 40 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
+
+- 63c) § 33 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 63d) § 9 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- 63e) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
 - 64) Napríklad zákon č. 235/1998 Z. z. v znení neskorších predpisov, zákon č. 238/1998 Z. z. v znení neskorších predpisov, zákon č. 280/2002 Z. z. v znení neskorších predpisov, zákon č. 600/2003 Z. z. v znení zákona č. 485/2004 Z. z.
 
@@ -203,6 +217,8 @@
 - 69) Napríklad zákon Národnej rady Slovenskej republiky č. 254/1994 Z. z. o Štátnom fonde likvidácie jadrovoenergetických zariadení a nakladania s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi v znení neskorších predpisov, zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania.
 
 - 70) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
+
+- 71) Čl. 3 ods. 7 a 8 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
 
 - 72) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
@@ -219,6 +235,8 @@
 - 74b) Zákon č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 75) § 68 Obchodného zákonníka.
+
+- 75a) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení neskorších predpisov.
 
 - 76) § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -424,6 +442,8 @@
 
 - 135) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
+- 135a) § 2 ods. 1 a § 8 zákona č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, neperiodických publikácií a rozmnoženín audiovizuálnych diel v znení neskorších predpisov.
+
 - 136) § 45 zákona č. 383/1997 Z. z.
 
 - 136a) § 61 ods. 1 a § 75 ods. 1 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
@@ -433,6 +453,8 @@
 - 136ab) § 7 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 136ac) § 154 ods. 1 písm. d) a § 155 ods. 1 písm. e) zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 136ad) § 1 zákona Národnej rady Slovenskej republiky č. 13/1993 Z. z. o umeleckých fondoch.
 
 - 136c) Napríklad § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov, § 10 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -487,3 +509,5 @@
 - 150) § 74 ods. 2 zákona č. 581/2004 Z. z.
 
 - 151) § 10 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 152) § 123ac zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
