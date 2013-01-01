@@ -39,3 +39,5 @@
 - c) uvedie nepravdivý údaj v čestnom vyhlásení podávanom podľa § 18 ods. 1 alebo v údajoch o svojich majetkových pomeroch.
 
 (10) Na odvolanie hlavného kontrolóra z funkcie je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov.
+
+(11) Dňom zániku výkonu funkcie hlavného kontrolóra zaniká aj jeho pracovný pomer.
