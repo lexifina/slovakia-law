@@ -62,24 +62,26 @@ Príloha č. 3 k zákonu č. 315/2001 Z. z.
 
 - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
-- 2.1 veliteľ družstva | 5 – 20
+- 5.1 veliteľ družstva | 5 – 20
 
-- 2.2 veliteľ čaty | 8 – 30
+- 5.2 veliteľ čaty | 8 – 30
 
-- 2.4 veliteľ hasičskej stanice | 8 – 30
+- 5.3 veliteľ hasičskej stanice | 8 – 30
 
-- 2.5 vedúci oddelenia | 8 – 30
+- 5.4 vedúci oddelenia | 8 – 30
 
-- 2.6 zástupca veliteľa | 9 – 40
+- 5.5 zástupca veliteľa | 9 – 40
 
-- 2.7 veliteľ | 15 – 50
+- 5.6 veliteľ | 15 – 50
 
 - 6.Horská záchranná služba |
 
 - Nadriadení | Percentuálny podiel príplatku za riadenie mesačne
 
-- 5.1 riaditeľ strediska | 10 – 30
+- 6.1 riaditeľ strediska | 10 – 30
 
-- 5.2 vedúci oddelenia | 15 – 20
+- 6.2 vedúci oddelenia | 15 – 20
 
-- 5.4 riaditeľ | 30 – 60.
+- 6.3 zástupca riaditeľa | 20 – 40
+
+- 6.4 riaditeľ | 30 – 60.

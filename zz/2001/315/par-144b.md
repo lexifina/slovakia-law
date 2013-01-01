@@ -10,6 +10,6 @@ Vylúčenie z prejednávania a rozhodovania vo veci sa nevzťahuje na
 
 - d) predsedu ústrednej lekárskej komisie,
 
-- e) ministra, ak koná a rozhoduje vo veci príslušníka, ktorému nie je vedúcim služobného úradu,
+- e) ministra, ak koná a rozhoduje ako odvolací orgán,
 
-- f) prezidenta zboru, ak koná a rozhoduje vo veci príslušníka, ktorému nie je vedúcim služobného úradu.
+- f) prezidenta zboru, ak koná a rozhoduje ako odvolací orgán.
