@@ -62,6 +62,12 @@ Zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niekto
 
 - 10. V § 7 ods. 3 písm. c) sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „alebo ak ide o občiansky preukaz, ktorého elektronický čip nie je funkčný.“.
 
+- 11. Za § 7 sa vkladá § 7a, ktorý znie:
+
+- „§ 7a
+
+- Občan môže požiadať o vydanie nového občianskeho preukazu z dôvodu podľa § 7 ods. 2 písm. d), ak je jeho občiansky preukaz neplatný podľa § 10 ods. 1 písm. b) alebo z dôvodu zmeny mena alebo priezviska, aj na zastupiteľskom úrade Slovenskej republiky v zahraničí (ďalej len „zastupiteľský úrad“); ustanovenia § 5, § 8 ods. 2 až 4 a 9 a § 9 sa vzťahujú primerane s tým, že nasnímanie bezvládneho občana nemožno vykonať v mieste, kde sa zdržuje, a o vyhotovenie občianskeho preukazu nemožno požiadať urýchlene do dvoch pracovných dní.“.
+
 - 12. V § 10 ods. 1 písm. b) a i), § 11 ods. 1 písm. d), e) a h) a § 12 ods. 1 druhej vete sa slová „príslušnému úradu“ nahrádzajú slovami „okresnému riaditeľstvu alebo zastupiteľskému úradu“.
 
 - 13. V § 10 ods. 1 písm. c) sa na konci pripájajú tieto slová: „alebo je porušená jeho celistvosť,“.
@@ -71,6 +77,10 @@ Zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niekto
 - „(3)
 
 - Občiansky preukaz nie je neplatný, ak sa dôvod neplatnosti podľa odseku 1 písm. c), e) alebo písm. g) týka len elektronického čipu.“.
+
+- 15. V § 11 ods. 1 písm. b) sa čiarka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak ide o neplatnosť občianskeho preukazu podľa § 10 ods. 1 písm. b) alebo z dôvodu zmeny mena alebo priezviska, môže požiadať aj zastupiteľský úrad,“.
+
+- 16. V § 11 ods. 1 písm. c) sa čiarka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „neplatný občiansky preukaz z dôvodu uvedeného v § 10 ods. 1 písm. d) alebo z dôvodu zmeny mena alebo priezviska je povinný odovzdať zastupiteľskému úradu, ak o vydanie nového občianskeho preukazu požiada na zastupiteľskom úrade,“.
 
 - 17. V § 11 ods. 1 písm. f) a § 14 ods. 1 písm. g) sa slová „príslušného úradu“ nahrádzajú slovami „okresného riaditeľstva alebo zastupiteľského úradu“.
 

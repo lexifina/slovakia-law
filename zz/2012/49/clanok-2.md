@@ -13,3 +13,23 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 - „Splnomocnenie
 
 - Okresné riaditeľstvo Policajného zboru vyberie poplatok vo výške 20 eur, ak vyhotovuje občiansky preukaz urýchlene do dvoch pracovných dní na žiadosť žiadateľa.“.
+
+- 3. V sadzobníku správnych poplatkov položka 259 znie:
+
+- „Položka 259
+
+- a)
+
+- Žiadosť o vydanie občianskeho preukazu 15 eur
+
+- b)
+
+- Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz 30 eur
+
+- c)
+
+- Žiadosť o vydanie občianskeho preukazu ako náhrady za zničený, stratený, odcudzený alebo poškodený občiansky preukaz v priebehu dvoch po sebe nasledujúcich rokoch 50 eur
+
+- Oslobodenie
+
+- Od poplatku podľa písmena b) a c) tejto položky sú oslobodení občania starší ako 60 rokov veku alebo držitelia preukazu občana s ťažkým zdravotným postihnutím.“.
