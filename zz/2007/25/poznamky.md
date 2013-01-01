@@ -32,6 +32,8 @@
 
 - 8c) Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8d) § 11 ods. 2 a 6 zákona č. 372/2012 Z. z. o štátnych hmotných rezervách a o zmene zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Zákon č. 639/2004 Z. z. v znení neskorších predpisov.
 
 - 10) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
