@@ -28,19 +28,19 @@
 
 - 11) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
+- 11a) § 21 ods. 2 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+
+- 11b) § 5 a 6 zákona č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu v znení neskorších predpisov.
+
+- 11c) § 5 ods. 1 písm. b) zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11d) § 21 ods. 3 písm. a) až d), f) a k) zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
+
+- 11e) Napríklad zákon č. 570/2005 Z. z. v znení neskorších predpisov, zákon č. 569/2005 Z. z. v znení neskorších predpisov.
+
+- 11f) § 13 ods. 2 písm. c) zákona č. 570/2005 Z. z. v znení zákona č. 473/2009 Z. z.
+
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
-
-- 14) § 21 ods. 2 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
-
-- 15) § 5 a 6 zákona č. 569 /2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
-
-- 15a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
-
-- 15aa) § 2 zákona č. 321/2002 Z. z. v znení neskorších predpisov.
-
-- 15ab) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 15b) Napríklad zákon č. 570/2005 Z. z., zákon č. 569/2005 Z. z.
 
 - 15c) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
 
@@ -77,6 +77,8 @@
 - 23) Občiansky zákonník.
 
 - 24) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 24a) Zákon č. 345/2012 Z. z. o niektorých opatreniach v miestnej štátnej správe a o zmene a doplnení niektorých zákonov.
 
 - 25) § 40, 122 a 124 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
