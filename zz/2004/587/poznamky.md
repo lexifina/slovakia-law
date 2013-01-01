@@ -26,9 +26,11 @@
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
 
+- 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
+
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
-- 12a) § 9 ods. 5 a 10 a § 10 ods. 6 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12a) § 16 ods. 8 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
