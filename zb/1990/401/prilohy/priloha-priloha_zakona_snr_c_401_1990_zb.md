@@ -1,4 +1,4 @@
-Príloha č. 2 zákona SNR č. 401/1990 Zb.
+Príloha zákona SNR č. 401/1990 Zb.
 
 - MESTSKÉ ČASTI MESTA KOŠICE, V KTORÝCH SA ZRIAĎUJÚ ORGÁNY SAMOSPRÁVY MESTSKÝCH ČASTÍ 1. Kavečany
 
