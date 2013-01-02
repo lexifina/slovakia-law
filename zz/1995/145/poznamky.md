@@ -268,7 +268,7 @@
 
 - 36) Napríklad § 10 ods. 6 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 11 ods. 6 zákona č. 213/1997 Z. z.
 
-- 36a) § 13 ods. 3 a 4 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 36a) § 3 ods. 1, § 7 písm. e) a § 13 ods. 3 až 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 36b) § 15 zákona č. 355/2007 Z. z. v znení zákona č. 132/2010 Z. z.
 

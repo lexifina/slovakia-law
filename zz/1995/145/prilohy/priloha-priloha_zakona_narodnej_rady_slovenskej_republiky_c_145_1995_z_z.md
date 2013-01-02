@@ -88,9 +88,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) | Uznávanie dokladov o vzdelaní získaných mimo Európskej únie, Nórska, Lichtenštajnska, Islandu a Švajčiarska, ktoré už boli uznané v niektorom členskom štáte Európskej únie, Nórsku, Lichtenštajnsku, na Islande a vo Švajčiarsku, a uznávanie stupňa dosiahnutého vzdelania ..... | 33 eur
 
-  - j) | Vydávanie potvrdení o rovnocennosti získaných špecializácií v zdravotníckych povolaniach<sup>8b</sup>) lekár a zubný lekár na účel výkonu zdravotníckeho povolania mimo územia Slovenskej republiky pred dňom pristúpenia Slovenskej republiky k Európskej únii ..... | 250 eur
+  - j) | Vydávanie potvrdení o rovnocennosti získaných špecializácií v zdravotníckych povolaniach<sup>8b</sup>) lekár a zubný lekár na účel výkonu zdravotníckeho povolania mimo územia Slovenskej republiky ..... | 250 eur
 
-  - k) | Vydávanie potvrdení o regulovaných zdravotníckych povolaniach<sup>8b</sup>) na účel výkonu zdravotníckeho povolania mimo územia Slovenskej republiky pred dňom pristúpenia Slovenskej republiky k Európskej únii ..... | 250 eur
+  - k) | Vydávanie potvrdení o regulovaných zdravotníckych povolaniach<sup>8b</sup>) na účel výkonu zdravotníckeho povolania mimo územia Slovenskej republiky ..... | 250 eur
 
   - l) | Vyhotovenie odpisu (fotokópie), výpisu alebo písomnej informácie z kvalifikačného dokladu zdravotníckeho pracovníka |
 
@@ -3014,11 +3014,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 1. | samosprávnym krajom pre |
 
-  - | 1.1. | fyzickú osobu ..... | 80 eur
+  - | | 1.1. fyzickú osobu ..... | 80 eur
 
-  - | 1.2. | právnickú osobu ..... | 500 eur
+  - | | 1.2. právnickú osobu ..... | 500 eur
 
-  - 2. | Ministerstvom zdravotníctva Slovenskej republiky ..... | | 497,50 eura
+  - | 2. | Ministerstvom zdravotníctva Slovenskej republiky ..... | 497,50 eura
 
   - b) | Zmena povolenia na prevádzkovanie zdravotníckeho zariadenia vydaného | |
 
@@ -3040,13 +3040,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | právnickú osobu ..... | 30 eur
 
-  - f) | Vydanie záväzného stanoviska alebo rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky alebo regionálneho úradu verejného zdravotníctva<sup>36a)</sup>..... | | 50 eur
+  - f) | Vydanie záväzného stanoviska alebo rozhodnutia orgánu štátnej správy na úseku verejného zdravotníctva<sup>36a</sup>)okrem rozhodnutia alebo záväzného stanoviska podľa písmena ae) ..... | | 50 eur
 
   - g) | Vyhotovenie duplikátu záväzného stanoviska alebo rozhodnutia podľa písmena f) ..... | | 10 eur
 
   - h) | Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti ..... | | 30 eur
 
-  - i) | Vydanie osvedčenia o odbornej spôsobilosti<sup>36b)</sup>..... | | 20 eur
+  - i) | Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>)..... | | 20 eur
 
   - j) | Vydanie duplikátu osvedčenia podľa písmena i) ..... | | 10 eur
 
@@ -3062,13 +3062,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - p) | Vydanie osobného radiačného preukazu ..... | | 20 eur
 
-  - q) | Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba)</sup>..... | | 500 eur
+  - q) | Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba</sup>)..... | | 500 eur
 
   - r) | Zmena oprávnenia podľa písmena q) ..... | | 100 eur
 
   - s) | Vydanie duplikátu oprávnenia podľa písmen q) a r) ..... | | 20 eur
 
-  - t) | Vydanie oprávnenia na výkon pracovnej zdravotnej služby<sup>36bb)</sup>..... | | 500 eur
+  - t) | Vydanie oprávnenia na výkon pracovnej zdravotnej služby<sup>36bb</sup>)..... | | 500 eur
 
   - u) | Zmena oprávnenia podľa písmena t) ..... | | 100 eur
 
@@ -3116,7 +3116,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - aa) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o tom, či sa na činnosť vzťahuje oznamovacia povinnosť alebo potreba povolenia ..... | | 300 eur
 
-  - ab) | Posúdenie návrhu na zaradenie práce, alebo zrušenie zaradenia práce medzi rizikové práce v oblasti radiačnej ochrany ..... | | 300 eur
+  - ab) | Vyhotovenie duplikátu povolenia podľa písmen x) až z) a duplikátu rozhodnutia alebo záväzného stanoviska podľa písmen aa) a ae) ..... | | 10 eur
 
   - ac) | Vydanie potvrdenia Úradu verejného zdravotníctva Slovenskej republiky o zaevidovaní oznamovanej činnosti ..... | | 30 eur
 
@@ -3130,7 +3130,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | týkajúceho sa jadrových zariadení ..... | 1 000 eur
 
-  - af) | Zmena povolenia Úradu verejného zdravotníctva Slovenskej republiky podľa písmen x) a y) z dôvodu | |
+  - af) | Zmena povolenia podľa písmen x) a y) z dôvodu | |
 
   - | 1. | zmeny odborného zástupcu, zmeny obchodného mena, právnej formy alebo sídla, ak ide o právnickú osobu, alebo zmeny obchodného mena alebo miesta podnikania, ak ide o fyzickú osobu – podnikateľa v povolení na činnosti vedúce k ožiareniu, na činnosti dôležité z hľadiska radiačnej ochrany alebo na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | 30 eur
 
@@ -3147,6 +3147,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - aj) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
   - ak) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+
+  - al) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+
+  - am) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
 
     - Položka 150a
 
@@ -3222,7 +3226,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | 1.10. | Vydanie rozhodnutia o registrácii tradičného rastlinného lieku<sup>36ci</sup>)..... | 6 400 eur
 
-  - | | 1.11. | Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku<sup>36cj</sup>)..... | 2 000 eur
+  - | | 1.11. | Vydanie rozhodnutia o registrácii ďalšej sily alebo liekovej formy lieku <sup>36cj</sup>)..... | 2 000 eur
 
   - | 2. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania,<sup>36ck</sup>) ak Slovenská republika nie je referenčný členský štát | |
 
@@ -3236,9 +3240,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | 2.5. | Vydanie rozhodnutia o registrácii hybridného humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát<sup>36cd</sup>)..... | 5 500 eur
 
-  - | | 2.6. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>)..... | 5 000 eur
+  - | | 2.6. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájom- ného uznania, ak Slovenská republika nie je referenčný členský štát, s novou kombináciou liečiv<sup>36ce</sup>)..... | 5 000 eur
 
-  - | | 2.7. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>)..... | <sup>2 000 eur</sup>
+  - | | 2.7. | Vydanie rozhodnutia o registrácii humánneho lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát, so súhlasom iného držiteľa<sup>36cf</sup>)..... | 2 000 eur
 
   - | | 2.8. | Vydanie rozhodnutia o registrácii homeopatického lieku decentralizovaným postupom alebo postupom vzájomného uznania, ak Slovenská republika nie je referenčný členský štát – samostatná registrácia podložená úplnými experimentálnymi údajmi alebo odkazom na vedecké práce<sup>36cg</sup>)..... | 5 000 eur
 
@@ -3356,7 +3360,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. | Žiadosť o uznanie rozhodnutia o registrácii veterinárneho lieku so súhlasom držiteľa rozhodnutia o registrácii veterinárneho lieku, žiadosť o registráciu veterinárneho lieku (rozšírenie radu) ..... | | 995,50 eura
 
-  - | 5. | Žiadosť o uznanie registrácie veterinárneho lieku decentralizovaným postupom ..... | | 4 979 eur
+  - | 5. | Žiadosť o uznanie registrácie veterinárneho lieku decentralizovaným postupom, ak je Slovenská republika referenčným členským štátom ..... | | 4 979 eur
 
   - | 6. | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku, ak je Slovenská republika referenčným členským štátom ..... | | 2 655,50 eura
 
@@ -3365,6 +3369,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - | 8. | Žiadosť o vzájomné uznanie registrácie veterinárneho homeopatického lieku zjednodušeným postupom, ak je Slovenská republika referenčným členským štátom ..... | | 995,50 eura
 
   - | 9. | Žiadosť o vzájomné uznanie registrácie veterinárneho lieku so súhlasom držiteľa (rozšírenie radu), ak je Slovenská republika referenčným členským štátom ..... | | 1 327,50 eura
+
+  - | 10. | Vydanie povolenia na súbežný dovoz veterinárneho lieku ..... | | 16,50 eur
 
   - h) | Vydanie rozhodnutia o prevode registrácie humánneho lieku<sup>36cn</sup>) ..... | | | 500 eur
 
