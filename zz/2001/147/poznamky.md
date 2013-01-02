@@ -30,13 +30,13 @@
 
 - 14) § 2 ods. 7 a § 64 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
-- 15) § 24 a 25 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 15) § 62 zákona č. 362/2011 Z. z.
 
-- 15a) § 26 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 15a) § 63 zákona č. 362/2011 Z. z.
 
-- 15aa) § 35a zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 15aa) § 22 zákona č. 362/2011 Z. z.
 
-- 16) § 20 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 16) § 46 zákona č. 362/2011 Z. z.
 
 - 17) § 2 ods. 1 až 3 zákona č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
 
@@ -52,7 +52,7 @@
 
 - 20) § 23 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
-- 21) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
+- 21) Zákon č. 362/2011 Z. z.
 
 - 21a) § 3 ods. 1 písm. b) a c) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
 
