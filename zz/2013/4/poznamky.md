@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 269/2012 Z. z., ktorou sa ustanovujú podrobnosti o zásadách prepočtu objemových jednotiek množstva na energiu a podmienky, za ktorých sa vykonáva určenie objemu plynu a spaľovacieho tepla objemového.
