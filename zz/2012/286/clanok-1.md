@@ -750,6 +750,8 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 
 - “.
 
+- 40. V sadzobníku správnych poplatkov časti VI. Doprava položke 77 písm. a) prvom až štvrtom bode sa slová „66 eur“ nahrádzajú slovami „100 eur“ a v písmene b) sa slová „66 eur“ nahrádzajú slovami „100 eur“.
+
 - 41. V sadzobníku správnych poplatkov časti VI. Doprava položke 77a písm. a) sa slová „60 eur“ nahrádzajú slovami „100 eur“.
 
 - 42. V sadzobníku správnych poplatkov časti VI. Doprava sa položka 77a dopĺňa písmenom d), ktoré znie:
