@@ -180,6 +180,18 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 
 - 37. V § 80 ods. 5 sa na konci pripája táto veta: „Ak žiadateľ pri skúške podľa § 79 ods. 2 písm. c) neprospeje na autocvičisku, nemôže pokračovať v skúške v cestnej premávke.“.
 
+- 38. V § 87 odsek 4 znie:
+
+- „(4)
+
+- Ostatní vodiči, ktorí dovŕšili vek 65 rokov, sú povinní podrobiť sa pravidelným lekárskym prehliadkam každých päť rokov.“.
+
+- 39. V § 89 odsek 1 znie:
+
+- „(1)
+
+- Vodiči uvedení v § 87 ods. 3 písm. a), ktorí dovŕšili vek 65, rokov a vodiči uvedení v § 87 ods. 3 písm. b) musia mať pri vedení motorového vozidla pri sebe doklad o zdravotnej spôsobilosti; na výzvu policajta sú povinní sa takýmto dokladom preukázať. Vodiči uvedení v § 88 ods. 6 písm. a), ktorí dovŕšili vek 65 rokov, a vodiči uvedení v § 88 ods. 6 písm. b) musia mať pri vedení motorového vozidla pri sebe aj doklad o psychickej spôsobilosti; na výzvu policajta sú povinní takýmto dokladom sa preukázať. Vodiči uvedení v § 87 ods. 3, ktorí dovŕšili vek 65 rokov, a vodiči uvedení v § 88 ods. 6, ktorí dovŕšili vek 65 rokov, sa preukazujú dokladom o zdravotnej spôsobilosti a dokladom o psychickej spôsobilosti nie starším ako dva roky. Vodiči uvedení v § 87 ods. 3 písm. b), ktorí nedovŕšili vek 65 rokov, a vodiči uvedení v § 88 ods. 6 písm. b), ktorí nedovŕšili vek 65 rokov, sa preukazujú dokladom o zdravotnej spôsobilosti a dokladom o psychickej spôsobilosti nie starším ako päť rokov. Vodiči, ktorých zdravotná spôsobilosť alebo psychická spôsobilosť je podmienená pravidelným podrobovaním sa lekárskej prehliadke podľa § 87 ods. 5 alebo pravidelným podrobovaním sa psychologickému vyšetreniu podľa § 88 ods. 4, sa preukazujú dokladom o zdravotnej spôsobilosti alebo dokladom o psychickej spôsobilosti s vyznačenou dobou platnosti.“.
+
 - 40. § 91 znie:
 
 - „§ 91
@@ -395,6 +407,8 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 - 62. V § 141 ods. 5 písm. g) sa slová „podľa § 70 ods. 1, 2 a 6“ nahrádzajú slovami „podľa § 70 ods. 1, 2, 5 a 8“.
 
 - 63. V § 141 ods. 5 písm. k) sa slová „podľa § 91 ods. 5“ nahrádzajú slovami „podľa § 91 ods. 6“.
+
+- 64. V § 143b ods. 1 písm. g) sa za slová „vozidiel skupiny“ vkladá slovo „B,“.
 
 - 65. Za § 143b sa vkladá § 143c, ktorý vrátane nadpisu znie:
 
