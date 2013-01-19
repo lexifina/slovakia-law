@@ -20,8 +20,28 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 
 - “.
 
+- 3. V sadzobníku správnych poplatkov v časti VI DOPRAVA položke 74 písm. a) a c) body 1 až 4 znejú:
+
+- „1. | skupiny AM, A1, A2, A | ... 16,5 eura
+
+- 2. | skupiny B1, B, BE, T | ... 33 eur
+
+- 3. | skupiny C1, C1E, D1, D1E | ... 49,5 eura
+
+- 4. | skupiny C, CE, D, DE | ... 66 eur“.
+
 - 4. V sadzobníku správnych poplatkov v časti VI DOPRAVA poznámkach k položke 76 sa doterajší text označuje ako bod 1 a dopĺňa sa bodom 2, ktorý znie:
 
 - „2.
 
 - Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov.“.
+
+- 5. V sadzobníku správnych poplatkov v časti VI DOPRAVA položke 77 písm. a) body 1 až 4 znejú:
+
+- „1. | skupiny AM, A1, A2, A | ... 66 eur
+
+- 2. | skupiny B1, B, BE, T | ... 66 eur
+
+- 3. | skupiny C1, C1E, D1, D1E | ... 66 eur
+
+- 4. | skupiny C, CE, D, DE | ... 66 eur“.
