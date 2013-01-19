@@ -2,6 +2,8 @@
 
 - 1a) § 40 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 653/2007 Z. z.
 
+- 1aa) § 76 ods. 7, § 78 ods. 2 písm. c) a ods. 3 písm. c) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
+
 - 2) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
 - 3) Položka 77 zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 93/2005 Z. z.
