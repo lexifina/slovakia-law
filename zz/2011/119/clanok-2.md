@@ -16,6 +16,10 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 
 - Vydanie vodičského preukazu alebo medzinárodného vodičského preukazu ....................... 6,50 eura
 
+- b)
+
+- Vydanie vodičského preukazu z dôvodu výmeny vodičského preukazu ...................................... 3 eurá
+
 - Splnomocnenie
 
 - Pri vydávaní vodičského preukazu vyberie správny orgán poplatok do výšky štvornásobku príslušnej sadzby, ak vydáva vodičský preukaz urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka.
