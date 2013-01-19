@@ -18,6 +18,4 @@
 
 - 8) § 73 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
-- 9) STN ISO/IEC 7810 Identifikačné karty. Fyzikálne vlastnosti.
-
-- STN ISO/IEC 7816-1 Identifikačné karty. Karty s integrovanými obvodmi a s kontaktmi. Časť 1: Fyzikálne vlastnosti.
+- 8a) § 76 ods. 7, § 78 ods. 2 písm. c) alebo ods. 3 písm. c) zákona č. 8/2009 Z. z.

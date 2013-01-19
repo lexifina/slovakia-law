@@ -1,3 +1,3 @@
-Príloha č. 2 k vyhláške Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 349/2005 Z. z.
+Príloha č. 2 k vyhláške č. 349/2005 Z. z.
 
-- Vzor inštruktorského preukazu ![obrázok](../assets/15f9414f6a6bc096c2ff1b37761639c4ea505a41ce7480c6fbfbe2893da3ed38.png)
+- Vzor inštruktorského preukazu ![obrázok](../assets/d522c814429d8868f30b7610680666fc092e39d2f419f0029e63b2f07b96f668.jpg)
