@@ -451,3 +451,7 @@ Zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých z�
 - 71a)
 
 - Napríklad zákon č. 372/1990 Zb. v znení neskorších predpisov, § 115 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov, § 187 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.“.
+
+- 4. V § 143b ods. 1 písm. o) sa za slovo „D,“ vkladajú slová „D1E, D1,“.
+
+- 5. V § 143b ods. 1 písm. q) sa čiarka nahrádza bodkou a vypúšťajú sa slová „a to len na území Slovenskej republiky.“.
