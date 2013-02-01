@@ -642,17 +642,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 31
 
-  - a) Žiadosť o vydanie nákupného povolenia na každú zbraň alebo jej hlavnú časť ........................................ | 16,50 eura
+  - a) Žiadosť o vydanie nákupného povolenia na každú zbraň alebo jej hlavnú časť ........................................ | 16,50 eura |
 
-  - b) Žiadosť o vydanie zbrojného sprievodného listu na každú zbraň, jej hlavnú časť alebo strelivo ........... | 16,50 eura
+  - b) Žiadosť o vydanie zbrojného sprievodného listu na každú zbraň, jej hlavnú časť alebo strelivo ........... | 16,50 eura |
 
-  - c) Žiadosť o vydanie povolenia na znehodnotenie zbrane alebo na výrobu rezu zbrane .............................. | 6,50 eura
+  - c) Žiadosť o vydanie povolenia na znehodnotenie zbrane alebo na výrobu rezu zbrane .............................. | 6,50 eura |
 
-  - d) Žiadosť o vydanie povolenia na prepravu zbraní a streliva podnikateľom .................................................. | 33 eur
+  - d) Žiadosť o vydanie povolenia na prepravu zbraní a streliva podnikateľom .................................................. | 33 eur |
 
-  - e) Žiadosť o vydanie výnimky na zbraň kategórie A ...................................................................... | 99,50 eura
+  - e) Žiadosť o vydanie výnimky na zbraň kategórie A .............................................................................................. | 99,50 eura |
 
-  - Oslobodenie 1. Oslobodenie od poplatku tu platí obdobne ako pri položke 30. 2. Od poplatku podľa tejto položky sú oslobodené osoby, ktoré sa zúčastnia na medzinárodnej súťaži v športovej streľbe alebo inej obdobnej súťaži, ktorej súčasťou je športová streľba, ako aj osoby, ktoré získajú zbrane ako ceny v týchto súťažiach. 3. Od poplatku podľa písmen c) a d) tejto položky sú oslobodené osoby, ktorým sa podľa medzinárodných zmlúv poskytuje pri ich pobyte na území Slovenskej republiky osobná ochrana, a členovia ozbrojených sprievodov týchto osôb. 4. Od poplatku podľa písmena b) tejto položky sú oslobodení príslušníci policajných zborov iných štátov, ak vyvážajú alebo dovážajú zbrane a strelivo pri plnení bezpečnostných úloh v rámci spolupráce s Policajným zborom. 5. Od poplatku podľa písmen c) a d) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky, ak úkony robí útvar Policajného zboru vykonávajúci pasovú kontrolu na hraničnom priechode. |
+  - f) Žiadosť o vydanie povolenia na prevoz zbrane cez územie Slovenskej republiky zamestnancom bezpečnostnej služby vykonávajúcej profesionálnu cezhraničnú prepravu eurovej hotovosti cestnou dopravou ..... | 16,50 eura |
+
+  - Oslobodenie 1. Oslobodenie od poplatku tu platí obdobne ako pri položke 30. 2. Od poplatku podľa tejto položky sú oslobodené osoby, ktoré sa zúčastnia na medzinárodnej súťaži v športovej streľbe alebo inej obdobnej súťaži, ktorej súčasťou je športová streľba, ako aj osoby, ktoré získajú zbrane ako ceny v týchto súťažiach. 3. Od poplatku podľa písmen c) a d) tejto položky sú oslobodené osoby, ktorým sa podľa medzinárodných zmlúv poskytuje pri ich pobyte na území Slovenskej republiky osobná ochrana, a členovia ozbrojených sprievodov týchto osôb. 4. Od poplatku podľa písmena b) tejto položky sú oslobodení príslušníci policajných zborov iných štátov, ak vyvážajú alebo dovážajú zbrane a strelivo pri plnení bezpečnostných úloh v rámci spolupráce s Policajným zborom. 5. Od poplatku podľa písmen c) a d) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky, ak úkony robí útvar Policajného zboru vykonávajúci pasovú kontrolu na hraničnom priechode. | |
 
   - Poznámky 1. Od osôb, ktoré vykonávajú funkciu člena stráže prírody podľa § 58 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, a od osôb, ktoré vykonávajú funkciu člena poľnej stráže podľa zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, vyberie sa príslušný poplatok podľa tejto položky znížený o 50 %. 2. Poplatok za zaevidovanie každej zbrane alebo jej hlavnej časti podľa písmena a) tejto položky sa nevyberie, ak sa poplatok vybral za dovoz zbrane podľa písmena c) tejto položky. 3. Poplatok podľa písmena c) tejto položky sa nevyberie, ak sa vyváža zbraň alebo jej hlavná časť a poplatok sa vybral podľa písmena a) tejto položky. 4. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža alebo dováža zbraň a k nej najviac sto kusov streliva a poplatok sa vybral podľa písmena c) tejto položky. 5. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža strelivo a poplatok sa vybral podľa písmena b) tejto položky. |
 
@@ -2928,57 +2930,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 149
 
-  - a) Podanie žiadosti o udelenie licencie na prevádzku |
+  - a) | Podanie žiadosti o udelenie licencie na prevádzku | |
 
-  - 1. strážnej služby ..... | 82,50 eura
+  - | 1 | strážnej služby ..... | 82,50 eura
 
-  - 2. detektívnej služby ..... | 99,50 eura
+  - | 2 | detektívnej služby ..... | 99,50 eura
 
-  - 3. odbornej prípravy a poradenstva ..... | 116 eur
+  - | 3 | odbornej prípravy a poradenstva ..... | 116 eur
 
-  - 4. vlastnej ochrany ..... | 66 eur
+  - | 4 | vlastnej ochrany ..... | 66 eur
 
-  - 5. technickej služby ..... | 66 eur
+  - | 5 | technickej služby ..... | 66 eur
 
-  - b) Podanie žiadosti o vykonanie kvalifikačnej skúšky ..... | 66 eur
+  - | 6 | profesionálnej cezhraničnej prepravy eurovej hotovosti cestnou dopravou ..... | 150 eur
 
-  - c) Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti za každú prihlásenú osobu |
+  - b) | Podanie žiadosti o vykonanie kvalifikačnej skúšky ..... | | 66 eur
 
-  - 1. skúška typu S ..... | 16,50 eura
+  - c) | Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti za každú prihlásenú osobu | |
 
-  - 2. skúška typu P ..... | 49,50 eura
+  - | 1 | skúška typu S ..... | 16,50 eura
 
-  - 3. skúška po skrátenej forme odbornej prípravy ..... | 33 eur
+  - | 2 | skúška typu P ..... | 49,50 eura
 
-  - d) Podanie žiadosti o udelenie akreditácie ..... | 165,50 eura
+  - | 3 | skúška typu CIT ..... | 50 eur
 
-  - e) Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na objekte osobitnej dôležitosti, za každú osobu ..... | 3 eurá
+  - d) | Podanie žiadosti o udelenie akreditácie .... | | 165,50 eura
 
-  - f) Vydanie licencie na prevádzkovanie bezpečnostnej služby, vlastnej ochrany alebo technickej služby...... | 33 eur
+  - e) | Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na objekte osobitnej dôležitosti, za každú osobu ..... | | 3 eurá
 
-  - g) Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ..... | 33 eur
+  - f) | Podanie žiadosti o vydanie preukazu odbornej spôsobilosti bez vykonania skúšky a odbornej prípravy podľa § 19 ods. 3 a 4 zákona o súkromnej bezpečnosti ..... | | 50 eur
 
-  - h) Vydanie preukazu odbornej spôsobilosti ..... | 16,50 eura
+  - g) | Vydanie licencie na prevádzkovanie bezpečnostnej služby, vlastnej ochrany alebo technickej služby ..... | | 33 eur
 
-  - i) Vydanie rozhodnutia o udelení akreditácie ..... | 33 eur
+  - h) | Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ..... ..... | | 33 eur
 
-  - j) Vydanie rozhodnutia o zmene rozhodnutia o udelení licencie ..... | 16,50 eura
+  - i) | Vydanie preukazu odbornej spôsobilosti ..... | | 16,50 eura
 
-  - k) Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ..... | 66 eur
+  - j) | Vydanie rozhodnutia o udelení akreditácie ..... | | 33 eur
 
-  - l) Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | 16,50 eura
+  - k) | Vydanie rozhodnutia o zmene rozhodnutia o udelení licencie ..... | | 16,50 eura
 
-  - Poznámky |
+  - l) | Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ..... | | 66 eur
 
-  - 1. Správny orgán poplatok podľa písmena a) bodu 5. zníži na pätinu uvedenej sadzby, ak k 1. 1. 2006 je žiadateľ držiteľom oprávnenia podľa doterajších predpisov. |
+  - m) | Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | | 16,50 eura
 
-  - 2. Správny orgán môže poplatok podľa písmena h) znížiť na pätinu uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydávaný podľa § 19 ods. 3 a 4 zákona o súkromnej bezpečnosti. |
+  - Oslobodenie Od poplatku podľa písmen b) a h) tejto položky sú oslobodení príslušníci Vojenskej polície, príslušníci ozbrojených bezpečnostných zborov Slovenskej republiky a príslušníci ozbrojených zborov Slovenskej republiky. | | |
 
-  - 3. Správny orgán zvýši poplatok podľa písmena h) do výšky dvojnásobku uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydávaný pri druhej strate. Pri každej ďalšej strate preukazu odbornej spôsobilosti sa poplatok zvýši na dvojnásobok predchádzajúceho poplatku. |
-
-  - 4. Správny orgán správny poplatok podľa písmena j) nevyberie, ak zmena rozhodnutia o udelení licencie je vykonaná z podnetu správneho orgánu. |
-
-  - 5. Správny orgán správny poplatok podľa písmena k) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná z podnetu správneho orgánu. |
+  - Poznámky 1. Správny orgán zvýši poplatok podľa písmena i) do výšky dvojnásobku uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydaný pri druhej strate alebo krádeži. Pri každej ďalšej strate alebo krádeži preukazu odbornej spôsobilosti sa poplatok zvýši na dvojnásobok predchádzajúceho poplatku. 2. Správny orgán správny poplatok podľa písmena k) nevyberie, ak zmena rozhodnutia o udelení licencie je vykonaná na podnet správneho orgánu. 3. Správny orgán správny poplatok podľa písmena l) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná na podnet správneho orgánu. | | |
 
     - Položka 149a
 
