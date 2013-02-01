@@ -64,6 +64,12 @@
 
 - 30) Nariadenie vlády Slovenskej republiky č. 397/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strelné zbrane a strelivo v znení nariadenia vlády Slovenskej republiky č. 296/2000 Z. z.
 
+- 30a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1214/2011 zo 16. novembra 2011 o profesionálnej cezhraničnej preprave eurovej hotovosti cestnou dopravou medzi členskými štátmi eurozóny (Ú. v. EÚ L 316, 29. 11. 2011).
+
+- 30b) Čl. 6 ods. 2 nariadenia (EÚ) č. 1214/2011.
+
+- 30c) Čl. 5 ods. 1 písm. c) nariadenia (EÚ) č. 1214/2011.
+
 - 31) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 15/1998 Z. z. o podmienkach udeľovania úradného povolenia na dovoz a vývoz tovaru a služieb v znení neskorších predpisov.
 
 - 32) Zákon č. 179/1998 Z. z. v znení neskorších predpisov.
