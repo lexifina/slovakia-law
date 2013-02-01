@@ -1,3 +1,3 @@
 Príloha č. 2 k vyhláške č. 130/2012 Z. z.
 
-- OZNÁMENIE O PRÍJMOCH ZA ROK 20.... [Vzor 07](../assets/17f5be91930d44876f941a1958d9846bdce0aa42edd718637af34e9cfeab41bd.pdf)
+- VÝKAZ SAMOSTATNE ZÁROBKOVO ČINNEJ OSOBY V LISTINNEJ PODOBE [Vzor 02](../assets/6b96c56407ce1be22d0cec1180762a2f6741e7f1fb28f7a219ff7b671114da55.pdf)
