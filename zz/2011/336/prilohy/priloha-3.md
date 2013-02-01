@@ -101,3 +101,13 @@ Príloha č. 3 k nariadeniu vlády č. 336/2011 Z. z.
 - – smernice Komisie 2011/69/EÚ z 1. júla 2011 (Ú. v. EÚ L 175, 2. 7. 2011),
 
 - – smernice Komisie 2011/71/EÚ z 26. júla 2011 (Ú. v. EÚ L 195, 27. 7. 2011).
+
+- 8. Smernica Komisie 2012/14/EÚ z 8. mája 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť metyl(nonyl)ketón ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 123, 9. 5. 2012).
+
+- 9. Smernica Komisie 2012/15/EÚ z 8. mája 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť výťažok z rastliny Azadirachta indica ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 123, 9. 5. 2012).
+
+- 10. Smernica Komisie 2012/16/EÚ z 10. mája 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť kyselinu chlorovodíkovú ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 124, 11. 5. 2012).
+
+- 11. Smernica Komisie 2012/20/EÚ zo 6. júla 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť flufenoxurón ako aktívnu látku pre výrobky typu 8 do prílohy I k uvedenej smernici (Ú. v. EÚ L 177, 7. 7. 2012).
+
+- 12. Smernica Komisie 2012/22/EÚ z 22. augusta 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť didecyl-dimetyl-amónium-karbonát ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 227, 23. 8. 2012).
