@@ -1,0 +1,5 @@
+# § 46a
+
+(1) Na posudzovanie zdravotnej spôsobilosti uchádzača o zamestnanie je prevádzkovateľ povinný vyžiadať od uchádzača o zamestnanie lekársky posudok preukazujúci jeho zdravotnú spôsobilosť podľa § 15 ods. 1, ktorý nesmie byť starší ako tri mesiace. Na posudzovanie zdravotnej spôsobilosti zamestnanca je prevádzkovateľ povinný vyžiadať od zamestnanca každé dva roky lekársky posudok preukazujúci jeho zdravotnú spôsobilosť podľa § 15 ods. 1, ktorý nesmie byť starší ako tri mesiace.
+
+(2) Na posúdenie zdravotnej spôsobilosti je uchádzač o zamestnanie povinný predložiť prevádzkovateľovi pred nástupom do zamestnania lekársky posudok preukazujúci jeho zdravotnú spôsobilosť podľa § 15 ods. 1, ktorý nesmie byť starší ako tri mesiace. Na posudzovanie zdravotnej spôsobilosti zamestnanca je zamestnanec povinný prevádzkovateľovi predložiť každé dva roky lekársky posudok preukazujúci jeho zdravotnú spôsobilosť podľa § 15 ods. 1, ktorý nesmie byť starší ako tri mesiace, a neodkladne hlásiť prevádzkovateľovi každú zmenu skutočností rozhodujúcich na posúdenie zdravotnej spôsobilosti.
