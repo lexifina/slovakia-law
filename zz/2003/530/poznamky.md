@@ -112,6 +112,8 @@
 
 - 23) Napríklad § 10 ods. 3 a 4 , § 11 ods. 1 až 3, § 12 ods. 1 zákona č. 659/2007 Z. z.
 
+- 23a) Zákon č. 200/2011 Z. z. o Obchodnom vestníku a o zmene a doplnení niektorých zákonov.
+
 - 24) § 12 ods. 6 zákona č. 659/2007 Z. z.
 
 - 25) § 9 ods. 7 zákona č. 659/2007 Z. z.
