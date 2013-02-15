@@ -86,7 +86,7 @@
 
 - 42) § 5 a 6 zákona č. 95/2000 Z. z.
 
-- 43) § 20 a 21 zákona č. 314/2001 Z. z.
+- 43) § 20, 21, 27, 28 a 66 zákona č. 314/2001 Z. z. v znení neskorších predpisov.
 
 - 44) § 13 a 14 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
