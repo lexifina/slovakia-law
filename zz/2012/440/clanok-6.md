@@ -122,6 +122,12 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - Poznámka pod čiarou k odkazu 20 sa vypúšťa.
 
+- 28. V prílohe č. 1 sa za službu označenú kódom 45.20 vkladá služba označená kódom 49.39, ktorá znie:
+
+- „49.39
+
+- Ostatná osobná pozemná doprava i. n., a to len pri prevádzke lanoviek, pozemných lanoviek, lyžiarskych vlekov, ak nie sú súčasťou mestských, prímestských alebo veľkomestských prepravných systémov“.
+
 - 29. V prílohe č. 3 v časti ZÁZNAMY PODNIKATEĽA sa slová „Dátum a čas nahlásenia poruchy elektronickej registračnej pokladnice servisnej organizácii“ nahrádzajú slovami „Dátum a čas nahlásenia poruchy elektronickej registračnej pokladnice alebo poškodenia alebo chýbanie plomby servisnej organizácii“.
 
 - 30. V prílohe č. 3 v časti ZÁZNAMY PODNIKATEĽA sa slová „Potvrdenie o nahlásení poruchy elektronickej registračnej pokladnice“ nahrádzajú slovami „Potvrdenie o nahlásení poruchy elektronickej registračnej pokladnice alebo poškodenia alebo chýbanie plomby“ a slová „bola porucha elektronickej registračnej pokladnice nahlásená“ sa nahrádzajú slovami „boli uvedené skutočnosti nahlásené“.
