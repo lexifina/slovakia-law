@@ -2,6 +2,8 @@ Príloha č. 1 k zákonu č. 289/2008 Z. z.
 
 - SLUŽBY, NA KTORÉ SA VZŤAHUJE POVINNOSŤ EVIDENCIE TRŽIEB V ELEKTRONICKEJ REGISTRAČNEJ POKLADNICI 45.20 | Oprava a údržba motorových vozidiel, a to len pri oprave a údržbe osobných motorových vozidiel okrem inštalovania dielov a príslušenstiev, ktoré nie sú súčasťou výrobného procesu
 
+- 49.39 | Ostatná osobná pozemná doprava i. n., a to len pri prevádzke lanoviek, pozemných lanoviek, lyžiarskych vlekov, ak nie sú súčasťou mestských, prímestských alebo veľkomestských prepravných systémov
+
 - 52.21 | Vedľajšie činnosti v pozemnej doprave, a to len pri prevádzke parkovacích priestorov
 
 - 56.10.1 | Jedálne
