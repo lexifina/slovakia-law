@@ -12,7 +12,7 @@
 
 - a) neuverejnil oznámenie o vyhlásení verejného obstarávania, oznámenie použité ako výzva na súťaž, oznámenie o koncesii na stavebné práce alebo oznámenie o vyhlásení súťaže návrhov podľa tohto zákona,
 
-- b) pri uzavretí zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody nedodržal lehoty podľa § 45 ods. 2 až 8 a
+- b) pri uzavretí zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody nedodržal lehoty podľa § 45 ods. 2 až 7 a
 
   - 1. tým oprávnenej osobe zmaril použitie revíznych postupov pred uzavretím zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody, alebo zmaril účinnú nápravu prostredníctvom použitia revíznych postupov pred uzavretím zmluvy, koncesnej zmluvy na práce alebo rámcovej dohody a
 

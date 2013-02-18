@@ -1,6 +1,6 @@
 # § 146c Výsledné materiály z vykonanej kontroly
 
-(1) O výsledku vykonanej kontroly, ktorou boli zistené nedostatky, vypracujú zamestnanci úradu protokol, ktorý obsahuje najmä
+(1) O výsledku vykonanej kontroly, ktorou boli zistené nedostatky, vypracujú zamestnanci úradu do 90 dní odo dňa začatia kontroly protokol, ktorý obsahuje najmä
 
 - a) identifikačné údaje kontrolovaného,
 
