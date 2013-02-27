@@ -30,6 +30,10 @@
 
 - 11a) § 18 ods. 5 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
+- 11aa) Čl. 44 nariadenia Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 (Ú. v. EÚ L 210, 31. 7. 2006) v platnom znení.
+
+- Čl. 43 až 46 nariadenia Komisie (ES) č. 1828/2006 z 8. decembra 2006, ktorým sa stanovujú vykonávacie pravidlá nariadenia Rady (ES) č. 1083/2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a nariadenia Európskeho parlamentu a Rady (ES) č. 1080/2006 o Európskom fonde regionálneho rozvoja (Ú. v. EÚ L 371, 27. 12. 2006) v platnom znení.
+
 - 12) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 12a) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
