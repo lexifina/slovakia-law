@@ -20,7 +20,7 @@
 
 - 11) Napríklad vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR) v znení neskorších zmien a doplnkov (oznámenie č. 444/2005 Z. z.), zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, Poriadok pre medzinárodnú železničnú prepravu nebezpečného tovaru (RID) v znení neskorších zmien a doplnkov (oznámenie č. 598/2005 Z. z.), zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov, zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) § 22 ods. 1 písm. a) a § 23 ods. 1 písm. a) zákona č. 478/2002 Z. z. o ochrane ovzdušia a ktorým sa dopĺňa zákon č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov (zákon o ovzduší) v znení zákona č. 203/2007 Z. z.
+- 12) § 3 ods. 2 písm. a) a § 33 písm. a) zákona č. 137/2010 Z. z. o ovzduší.
 
 - 13) Napríklad § 8 až 14 zákona č. 151/2002 Z. z. o používaní genetických technológií a geneticky modifikovaných organizmov v znení zákona č. 77/2005 Z. z., zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. v znení neskorších predpisov, vyhláška č. 64/1987 Zb. (oznámenie č. 444/2005 Z. z.).
 
