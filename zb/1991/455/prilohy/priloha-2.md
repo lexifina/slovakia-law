@@ -22,7 +22,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 7. | Overovanie určených meradiel alebo Úradné meranie | rozhodnutie o autorizácii | § 24 zákona č. 142/2000 Z. z. |
 
-- 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona è. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
+- 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
 
 - 9. | Zubná technika | – vysokoškolské vzdelanie v študijnom odbore zubná technika alebo – vyššie odborné vzdelanie v študijnom odbore diplomovaný zubný technik alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v odbore zubná technika a päťročná odborná prax | § 33 ods. 2 zákona č. 578/2004 Z. z. |
 
@@ -146,7 +146,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 67. | Správa registratúry | – úplné stredné vzdelanie a 3 roky praxe v odbore alebo – vysokoškolské vzdelanie v študijnom odbore archívnictvo a pomocné historické vedy alebo v príbuznom študijnom odbore | § 23 ods. 2 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých ­zákonov v znení neskorších predpisov |
 
-- 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 7 ods. 2 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 5 ods. 3 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
 
 - 69. | Činnosť environmentálneho overovateľa | osvedčenie o akreditácii environmentálneho overovateľa | Čl. 20, 21, 22 a 28 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009). |
 
