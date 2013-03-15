@@ -392,6 +392,14 @@
 
 - 39c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/2001 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie odborných posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 399/2002 Z. z.
 
+- 39ca) § 4 ods. 5 zákona č. zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 39cb) § 19 ods. 1 zákona č. 39/2013 Z. z.
+
+- 39cc) § 20 ods. 1 zákona č. 39/2013 Z. z.
+
+- 39cd) § 5 ods. 2 zákona č. 39/2013 Z. z.
+
 - 39d) § 13 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 39e) § 14 až 16 zákona č. 261/2002 Z. z.

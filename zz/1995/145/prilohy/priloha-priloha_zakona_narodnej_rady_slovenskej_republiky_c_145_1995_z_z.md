@@ -3764,21 +3764,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 171a
 
-  - a) Podanie žiadosti o vydanie povolenia v integrovanom povoľovaní nových prevádzok ..................... | 1 327,50 eura
+  - a) Predbežné prerokovanie žiadosti prevádzkovateľom so Slovenskou inšpekciou životného prostredia<sup>39ca</sup>) .......... | 100 eur
 
-  - b) Podanie žiadosti o vydanie povolenia v integrovanom povoľovaní jestvujúcich prevádzok a nových prevádzok, ktoré už boli povolené ........................................................................................... | 663,50 eura
+  - b) Vydanie integrovaného povolenia<sup>39cb</sup>) .......... | 1 400 eur
 
-  - c) Podanie žiadosti o zmenu povolenia, ak ide o podstatnú zmenu v činnosti prevádzky ................... | 663,50 eura
+  - c) Zmena integrovaného povolenia<sup>39cc</sup>) .......... | 500 eur
 
-  - d) Podanie žiadosti o zmenu povolenia, ak ide o zmenu v činnosti prevádzky ...................................... | 331,50 eura
-
-  - e) Podanie žiadosti o vydanie povolenia v integrovanom povoľovaní alebo o zmenu povolenia, ak ide o prevádzku, ktorá nie je uvedená v prílohe č. 1 k zákonu č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov .... | 232 eur
-
-  - Splnomocnenie 1. Správny orgán môže znížiť poplatok podľa písmen c), d) a e) tejto položky až o 50 % v závislosti od rozsahu a náročnosti posudzovania prevádzky alebo zmeny v nej. 2. Správny orgán môže upustiť od vybrania poplatku podľa písmen c), d) a e) tejto položky, ak sa žiadosť o zmenu povolenia podáva na výzvu z dôvodov uvedených v § 21 ods. 3 písm. c), d), e) a f) zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov. |
+  - Splnomocnenie 1. Správny orgán môže znížiť poplatok podľa písmen a) až c) tejto položky až o 50 % v závislosti od rozsahu a náročnosti posudzovania prevádzky alebo zmeny v nej. 2. Správny orgán môže upustiť od vybrania poplatku podľa písmen a) až c) tejto položky, ak sa žiadosť o zmenu povolenia podáva na výzvu z dôvodov uvedených v § 30 ods. 1 písm. c), d), e) a f) zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov. |
 
     - Položka 171b
 
-  - Podanie žiadosti o vydanie osvedčenia o odbornej spôsobilosti podľa zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov............................................................................................. | 99,50 eura
+  - Vydanie osvedčenia o odbornej spôsobilosti na úseku integrovanej prevencie a kontroly znečisťovania životného prostredia<sup>39cd</sup>) .............................................................................. | 100 eur
 
     - Položka 171c
 
