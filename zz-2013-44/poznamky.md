@@ -1,0 +1,1 @@
+- 1) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 422/2012 Z. z., ktorou sa ustanovuje postup pri pravidelnej kontrole vykurovacieho systému, rozšírenej kontrole vykurovacieho systému a pri pravidelnej kontrole klimatizačného systému.
