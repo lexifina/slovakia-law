@@ -1,0 +1,1 @@
+- Štát vydania: Slovenská republika
