@@ -74,9 +74,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 7c |
 
-- Z návrhu na začatie konania vo veciach opravy nepravdivých alebo pravdu skresľujúcich údajov podľa osobitných predpisov |
+- Z návrhu na začatie konania vo veciach opravy nepravdivých alebo pravdu skresľujúcich údajov podľa osobitných predpisov | 66 eur
 
-- Poznámka: Osobitným predpisom sa rozumie napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov. | 66 eur
+- Poznámka: Osobitným predpisom sa rozumie napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov. |
 
 - Položka 7d |
 
@@ -268,9 +268,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 20a |
 
-- Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona | za každú stranu 0,06 eura najmenej 6,50 eura za podanie, ktoré je návrhom na začatie konania s prílohami, najmenej 1,50 eura za ostatné podania s prílohami
+- Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona | za každú stranu 0,10 eura najmenej 10 eur za podanie, ktoré je návrhom na začatie konania s prílohami, najmenej 3 eurá za ostatné podania s prílohami
 
 - Poznámka: V prípade podaní urobených elektronickými prostriedkami podpísaných zaručeným elektronickým podpisom súd vyhotoví potrebný počet rovnopisov a ich príloh bez toho, aby žiadal náhradu vecných nákladov podľa § 42 ods. 3 Občianskeho súdneho poriadku. |
+
+- Položka 20b |
+
+- Za spracovanie hromadného podania za každé podanie, ktoré tvorí hromadné podanie | 1 euro
 
 - Položka 21 |
 
