@@ -22,14 +22,16 @@
 
   - 2. úraz alebo iné poškodenie zdravia, v súvislosti s ktorým poskytol osobe zdravotnú starostlivosť, pri dôvodnom podozrení, že k úrazu alebo k inému poškodeniu zdravia došlo zavineným protiprávnym konaním tretej osoby; smrteľné úrazy, ťažké úrazy, hromadné úrazy a choroby z povolania je poskytovateľ povinný oznamovať všetky bez výnimky,
 
-- f) povoliť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) vstup do zdravotníckeho zariadenia, poskytnúť im požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti.
+- f) povoliť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) vstup do zdravotníckeho zariadenia, poskytnúť im požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti,
+
+- g) pri poskytovaní zdravotnej starostlivosti podávať humánne lieky a používať zdravotnícke pomôcky, ktoré obstarala zdravotná poisťovňa v súlade s osobitným predpisom;<sup>58ca</sup>) táto povinnosť sa nevzťahuje na humánne lieky a zdravotnícke pomôcky, ktorých podanie alebo použitie je z medicínskych dôvodov pre pacienta nevhodné.
 
 (2) Žiadosť podľa odseku 1 písm. a) musí byť písomná; za jej doručenie sa považuje aj doručenie faxom alebo elektronickou formou.
 
 (3) Povinnosti
 
-- a) podľa odseku 1 písm. a), c), d) a e) sa nevzťahujú na poskytovateľa, ktorý je držiteľom povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby,
+- a) podľa odseku 1 písm. a), c), d), e) a g) sa nevzťahujú na poskytovateľa, ktorý je držiteľom povolenia na prevádzkovanie ambulancie záchrannej zdravotnej služby,
 
-- b) podľa odseku 1 písm. d) a f) sa nevzťahujú na poskytovateľa, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe.
+- b) podľa odseku 1 písm. d), f) a g) sa nevzťahujú na poskytovateľa, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe.
 
 (4) Poskytovateľ, ktorý je držiteľom licencie na výkon samostatnej zdravotníckej praxe, je ďalej povinný poskytnúť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) na účely výkonu kontrolnej činnosti požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti.

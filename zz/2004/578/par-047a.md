@@ -2,7 +2,7 @@
 
 Z doterajšej Slovenskej komory iných zdravotníckych pracovníkov, asistentov, laborantov a technikov sa zriaďuje
 
-- a) Slovenská komora laborantov, asistentov a technikov,
+- a) Slovenská komora medicínsko-technických pracovníkov,
 
 - b) Slovenská komora fyzioterapeutov,
 

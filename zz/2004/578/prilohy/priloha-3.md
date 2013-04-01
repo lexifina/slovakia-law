@@ -10,7 +10,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - P. č. | Krajina | Názov dokladu | Udeľujúci orgán
 
-  - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van geneesheer-specialist/Titre professionnel particulier de médecin spécialiste | Minister bevoegd voor Volksgezondheid/Ministre de la Santé publique
+  - 1 | Belgicko / Belgique /België / Belgien | Bijzondere beroepstitel van geneesheer-specialist/Titre professionnel particulier de médecin spécialiste | Minister bevoegd voor Volksgezondheid/Ministre de la Santé publique
 
   - 2 | Bulharsko / България | Свидетелство за призната специалност | Университет
 
@@ -22,13 +22,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 6 | Estónsko / Eesti | Residentuuri lõputunnistus eriarstiabi erialal | Tartu Ülikool
 
-  - 7 | Fínsko / Suomi / Finland | Erikoislääkärin tutkinto / Specialläkarexamen | 1. Helsingin yliopisto / Helsingfors universitet 2. Kuopion yliopisto 3. Oulun yliopisto 4. Tampereen yliopisto 5. Turun yliopisto
+  - 7 | Fínsko / Suomi / Finland | Erikoislääkärin tutkinto / Specialläkarexamen | 1. Helsingin yliopisto / Helsingfors universitet 2. Itä-Suomen yliopisto 3. Oulun yliopisto 4. Tampereen yliopisto 5. Turun yliopisto
 
   - 8 | Francúzsko / France | 1. Certificat d'études spécialisées de médicine accompagné du diplôme d'Etat de docteur en médecine 2. Attestation de médecin spécialiste qualifié accompagnée du diplôme d'Etat de docteur en médecine 3. Diplôme d'études spécialisées ou diplôme d'études spécialisées complémentaires qualifiant de médecine accompagné du diplôme d'Etat de docteur en médecine | 1. Universités 2. Conseil de l'Ordre des médecins 3. Universités
 
   - 9 | Grécko / Ελλάς | Τίτλος Ιατρικής Ειδικότητας | 1. Νομαρχιακή Αυτοδιοίκηση 2. Νομαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving in een Specialistenregister | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst 2. Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving in een Specialistenregister | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot 2. Bevordering der Geneeskunst 2. Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
 
   - 11 | Írsko / Ireland | Certificate of Specialist doctor | Competent authority
 
@@ -46,7 +46,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych
 
-  - 19 | Portugalsko / Portugal | Título de especialista | Ordem dos Médicos
+  - 19 | Portugalsko / Portugal | Titulo de especialista | Ordem dos Médicos
 
   - 20 | Rakúsko / Österreich | Facharztdiplom | Österreichische Ärztekammer
 
@@ -60,27 +60,27 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25 | Taliansko / Italia | Diploma di medico specialista | Università
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training | Postgraduate Medical Education and Training Board
+  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training | Postgraduate Medical Education and Training Board
 
   - 27 | Island / Ísland | Sérfræðileayfi | Heilbrigðis- og tryggingamálaráðuneyti
 
   - 28 | Lichtenštajnsko / Liechtenstein | diplomy ostatných krajín uvedené v tabuľke | príslušný orgán
 
-  - 29 | Nórsko / Norge | Spesialistgodkjenning | Den norske lægeforening ihht. delegert myndighet
+  - 29 | Nórsko / Norge | Spesialistgodkjenning | Den norske lægeforening
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme de médecin spécialiste Diplom als Facharzt Diploma di medico specialista | Département fédéral de l'intérieur et Fédération des médecins suisses Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte Dipartimento federale dell'interno e Federazione dei medici svizzeri
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -Diplom als Facharzt Diplôme de médecin spécialiste Diploma di medico specialista | -Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte - Département fédéral de l’intérieur et Fédération des médecins suisses - Dipartimento federale dell’interno e Federazione dei medici svizzeri“.
 
     - Tabuľka č. 2
 
-  - Por. číslo | Krajina | Názov špecializačného odboru v členskom štáte | Minimálna dĺžka prípravy v členskom štáte | Názov zodpovedajúceho špecializačného odboru v Slovenskej republike
+  - P. č. | Krajina | Názov špecializačného odboru v členskom štáte | Minimálna dĺžka prípravy v členskom štáte | Názov zodpovedajúceho špecializačného odboru v Slovenskej republike
 
-  - 1. 01 | Belgicko / Belgique / België / Belgien | Anesthésie-réanimation/Anesthesie-reanimatie | 3 roky | anestéziológia a intenzívna medicína
+  - 1. 01 | Belgicko / Belgique /België / Belgien | Anesthésie-réanimation / Anesthesiereanimatie | 3 roky | anesteziológia a intenzívna medicína
 
   - 1. 02 | Bulharsko / България | Анестезиология и интензивно лечение | |
 
   - 1. 03 | Cyprus / Κύπρος | Αναισθησιολογία | |
 
-  - 1. 04 | Česko / Česká republika | Anesteziologie a resuscitace | |
+  - 1. 04 | Česko / Česká republika | Anesteziologie a intenzivní medicína | |
 
   - 1. 05 | Dánsko / Danmark | Anæstesiologi | |
 
@@ -132,9 +132,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 1. 29 | Nórsko / Norge | Anestesiologi | |
 
-  - 1. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anesthésiologie Anästhesiologie Anestesiologia | |
+  - 1. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anästhesiologie Anesthésiologie Anestesiologia | |
 
-  - 2. 01 | Belgicko / Belgique / België / Belgien | Chirurgie/Heelkunde | 5 rokov | chirurgia
+  - 2. 01 | Belgicko / Belgique /België / Belgien | Chirurgie/Heelkunde | 5 rokov | chirurgia
 
   - 2. 02 | Bulharsko / България | Хирургия | |
 
@@ -194,7 +194,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 2. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie Chirurgie Chirurgia | |
 
-  - 3. 01 | Belgicko / Belgique / België / Belgien | Neurochirurgie | 5 rokov | neurochirurgia
+  - 3. 01 | Belgicko / Belgique /België / Belgien | Neurochirurgie | 5 rokov | neurochirurgia
 
   - 3. 02 | Bulharsko / България | Неврохирургия | |
 
@@ -254,7 +254,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie Neurochirurgie Neurochirurgia | |
 
-  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie-obstétrique/Gynaecologie- verloskunde | 4 roky | gynekológia a pôrodníctvo
+  - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie – obstétrique / Gynaecologie - verloskunde | 4 roky | gynekológia a pôrodníctvo
 
   - 4. 02 | Bulharsko / България | Акушерство и гинекология | |
 
@@ -262,7 +262,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 4. 04 | Česko / Česká republika | Gynekologie a porodnictví | |
 
-  - 4. 05 | Dánsko / Danmark | Gynækologi og obstetric | |
+  - 4. 05 | Dánsko / Danmark | Gynækologi og obstetrik | |
 
   - 4. 06 | Estónsko / Eesti | Sünnitusabi ja günekoloogia | |
 
@@ -312,7 +312,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 4. 29 | Nórsko / Norge | Fødselshjelp og kvinnesykdommer | |
 
-  - 4. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynécologie et obstétrique Gynäkologie und Geburtshilfe Ginecologia e ostetricia | |
+  - 4. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynäkologie und Geburtshilfe Gynécologie et obstétrique Ginecologia e ostetricia | |
 
   - 5. 01 | Belgicko / Belgique/ België / Belgien | Médecine interne/Inwendige geneeskunde | 5 rokov | vnútorné lekárstvo
 
@@ -372,7 +372,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 5. 29 | Nórsko / Norge | Indremedisin | |
 
-  - 5. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine interne Innere Medizin Medicina interna | |
+  - 5. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Innere Medizin Médecine interne Medicina interna | |
 
   - 6. 01 | Belgicko / Belgique / België / Belgien | Ophtalmologie/Oftalmologie | 3 roky | oftalmológia
 
@@ -432,9 +432,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 6. 29 | Nórsko / Norge | øyesykdommer | |
 
-  - 6. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophtalmologie Ophtalmologie Oftalmologia | |
+  - 6. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophthalmologie Ophtalmologie Oftalmologia | |
 
-  - 7. 01 | Belgicko / Belgique / België / Belgien | Oto-rhino-laryngologie/Otorhinolaryngologie | 3 roky | otorinolaryngológia
+  - 7. 01 | Belgicko / Belgique /België / Belgien | Oto-rhino-laryngologie/Otorhinolaryngologie | 3 roky | otorinolaryngológia
 
   - 7. 02 | Bulharsko / България | Ушно-носно-гърлени болести | |
 
@@ -448,7 +448,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7. 07 | Fínsko / Suomi / Finland | Korva-, nenä- ja kurkkutaudit/ Öron-, näs- och halssjukdomar | |
 
-  - 7. 08 | Francúzsko / France | Oto-rhino-laryngologie et chirurgie cervico-faciale | |
+  - 7. 08 | Francúzsko / France | Oto-rhino-laryngologie et chirurgie cervicofaciale | |
 
   - 7. 09 | Grécko / Ελλάς | Ωτoριvoλαρυγγoλoγία | |
 
@@ -492,11 +492,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7. 29 | Nórsko / Norge | øre-nese-halssykdommer | |
 
-  - 7. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto-rhino-laryngologie Oto-rhino-laryngologie Otorinolaringoiatria | |
+  - 7. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto-Rhino-Laryngologie Oto-rhino-laryngologie Otorinolaringoiatria | |
 
-  - 8. 01 | Belgicko / Belgique / België / Belgien | Pédiatrie/Pediatrie | 4 roky | pediatria
+  - 8. 01 | Belgicko / Belgique /België / Belgien | Pédiatrie/Pediatrie | 4 roky | pediatria
 
-  - 8. 02 | Bulharsko / България | Детски болести | |
+  - 8. 02 | Bulharsko / България | Педиатрия | |
 
   - 8. 03 | Cyprus / Κύπρος | Παιδιατρική | |
 
@@ -552,15 +552,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 8. 29 | Nórsko / Norge | Barnesykdommer | |
 
-  - 8. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pédiatrie Kinder- und Jugendmedizin Pediatria | |
+  - 8. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder- und Jugendmedizin Pédiatrie Pediatria | |
 
-  - 9. 01 | Belgicko / Belgique / België / Belgien | Pneumologie | 4 roky | pneumológia a ftizeológia
+  - 9. 01 | Belgicko / Belgique /België / Belgien | Pneumologie | 4 roky | pneumológia a ftizeológia
 
   - 9. 02 | Bulharsko / България | Пневмология и фтизиатрия | |
 
   - 9. 03 | Cyprus / Κύπρος | Πνευµονολογία — Φυµατιολογία | |
 
-  - 9. 04 | Česko / Česká republika | Tuberkulóza a respirační nemoci | |
+  - 9. 04 | Česko / Česká republika | Pneumologie a ftizeologie | |
 
   - 9. 05 | Dánsko / Danmark | Intern medicin: lungesygdomme | |
 
@@ -608,13 +608,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 9. 27 | Island / Ísland | Lungnalækningar | |
 
-  - 9. 28 | Lichtenštajnsko/ Liechtenstein | Pneumologie | |
+  - 9. 28 | Lichtenštajnsko / Liechtenstein | Pneumologie | |
 
   - 9. 29 | Nórsko / Norge | Lungesykdommer | |
 
   - 9. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pneumologie Pneumologie Pneumologia | |
 
-  - 10. 01 | Belgicko / Belgique / België / Belgien | Urologie | 5 rokov | urológia
+  - 10. 01 | Belgicko / Belgique /België / Belgien | Urologie | 5 rokov | urológia
 
   - 10. 02 | Bulharsko / България | Урология | |
 
@@ -668,7 +668,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10. 27 | Island / Ísland | Þvagfæraskurðlækningar | |
 
-  - 10. 28 | Lichtenštajnsko/ Liechtenstein | Urologie | |
+  - 10. 28 | Lichtenštajnsko / Liechtenstein | Urologie | |
 
   - 10. 29 | Nórsko / Norge | Urologi | |
 
@@ -728,11 +728,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 11. 27 | Island / Ísland | Bæklunarskurðlækningar | |
 
-  - 11. 28 | Lichtenštajnsko/ Liechtenstein | Orthopädische Chirurgie | |
+  - 11. 28 | Lichtenštajnsko / Liechtenstein | Orthopädische Chirurgie | |
 
   - 11. 29 | Nórsko / Norge | Ortopedisk kirurgi | |
 
-  - 11. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie orthopédique et traumatologie de l'appareil locomoteur Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgia ortopedica e traumatologia del sistema motorio | |
+  - 11. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgie orthopédique et traumatologie de l’appareil locomoteur Chirurgia ortopedica e traumatologia del sistema motorio | |
 
   - 12. 01 | Belgicko / Belgique/ België / Belgien | Anatomie pathologique/ Pathologische anatomie | 4 roky | patologická anatómia
 
@@ -740,9 +740,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 12. 03 | Cyprus / Κύπρος | Παθολογοανατοµία — Ιστολογία | |
 
-  - 12. 04 | Česko / Česká republika | Patologická anatomie | |
+  - 12. 04 | Česko / Česká republika | Patologie | |
 
-  - 12. 05 | Dánsko / Danmark | Patalogisk anatomi og cytology | |
+  - 12. 05 | Dánsko / Danmark | Patologisk anatomi og cytology | |
 
   - 12. 06 | Estónsko / Eesti | Patoloogia | |
 
@@ -788,13 +788,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 12. 27 | Island / Ísland | Vefjameinafræði | |
 
-  - 12. 28 | Lichtenštajnsko/ Liechtenstein | Pathologie | |
+  - 12. 28 | Lichtenštajnsko / Liechtenstein | Pathologie | |
 
   - 12. 29 | Nórsko / Norge | Patologi | |
 
   - 12. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pathologie Pathologie Patologia | |
 
-  - 13. 01 | Belgicko / Belgique / België / Belgien | Neurologie | 4 roky | neurológia
+  - 13. 01 | Belgicko / Belgique /België / Belgien | Neurologie | 4 roky | neurológia
 
   - 13. 02 | Bulharsko / България | Нервни болести | |
 
@@ -848,13 +848,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 13. 27 | Island / Ísland | Taugalækningar | |
 
-  - 13. 28 | Lichtenštajnsko/ Liechtenstein | Neurologie | |
+  - 13. 28 | Lichtenštajnsko / Liechtenstein | Neurologie | |
 
   - 13. 29 | Nórsko / Norge | Nevrologi | |
 
   - 13. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie Neurologie Neurologia | |
 
-  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie de l'adulte/Psychiatrie, meer bepaald in de volwassenpsychiatrie | 4 roky | psychiatria
+  - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie de l'adulte / Psychiatrie, meer bepaald in de volwassenpsychiatrie | 4 roky | psychiatria
 
   - 14. 02 | Bulharsko / България | Психиатрия | |
 
@@ -908,11 +908,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 14. 27 | Island / Ísland | Geðlækningar | |
 
-  - 14. 28 | Lichtenštajnsko/ Liechtenstein | Psychiatrie und Psychotherapie | |
+  - 14. 28 | Lichtenštajnsko / Liechtenstein | Psychiatrie und Psychotherapie | |
 
   - 14. 29 | Nórsko / Norge | Psykiatri | |
 
-  - 14. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie et psychothérapie Psychiatrie und Psychotherapie Psichiatria e psicoterapia | |
+  - 14. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie und Psychotherapie Psychiatrie et psychothérapie Psichiatria e psicoterapia | |
 
   - 15. 01 | Belgicko / Belgique / België / Belgien | Radiodiagnostic/Röntgendiagnose | 4 roky | rádiológia
 
@@ -922,7 +922,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 15. 04 | Česko / Česká republika | Radiologie a zobrazovací metody | |
 
-  - 15. 05 | Dánsko / Danmark | Diagnostisk radiology | |
+  - 15. 05 | Dánsko / Danmark | Diagnostik radiologi | |
 
   - 15. 06 | Estónsko / Eesti | Radioloogia | |
 
@@ -952,7 +952,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 15. 19 | Portugalsko / Portugal | Radiodiagnóstico | |
 
-  - 15. 20 | Rakúsko / Österreich | Medizinische Radiologie-Diagnostik | |
+  - 15. 20 | Rakúsko / Österreich | Radiologie | |
 
   - 15. 21 | Rumunsko / România | Radiologie-imagistică medicală | |
 
@@ -968,13 +968,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 15. 27 | Island / Ísland | Geislagreining | |
 
-  - 15. 28 | Lichtenštajnsko/ Liechtenstein | Medizinische Radiologie / Radiodiagnostik | |
+  - 15. 28 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radiodiagnostik | |
 
   - 15. 29 | Nórsko / Norge | Radiologi | |
 
   - 15. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radiologie Radiologie Radiologia | |
 
-  - 16. 01 | Belgicko / Belgique / België / Belgien | Radiothérapie-oncologie/Radiotherapie-oncologie | 4 roky | radiačná onkológia
+  - 16. 01 | Belgicko / Belgique /België / Belgien | Radiothérapie-oncologie/Radiotherapie-oncologie | 4 roky | radiačná onkológia
 
   - 16. 02 | Bulharsko / България | Лъчелечение | |
 
@@ -1028,11 +1028,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 16. 27 | Island / Ísland | - | |
 
-  - 16. 28 | Lichtenštajnsko/ Liechtenstein | Medizinische Radiologie / Radio-Onkologie | |
+  - 16. 28 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radio-Onkologie | |
 
   - 16. 29 | Nórsko / Norge | - | |
 
-  - 16. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radio-oncologie/radiothérapie Radio-Onkologie/Strahlentherapie Radio-oncologia/radioterapia | |
+  - 16. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radio-Onkologie/Strahlentherapie Radio-oncologie/radiothérapie Radio-oncologia/radioterapia | |
 
   - 17. 01 | Belgicko / Belgique / België / Belgien | Biologie clinique/Klinische biologie | 4 roky | laboratórna medicína
 
@@ -1050,7 +1050,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 17. 08 | Francúzsko / France | Biologie médicale | |
 
-  - 17. 09 | Grécko / Ελλάς | - | |
+  - 17. 09 | Grécko / Ελλάς | Χειρουργική Θώρακος | |
 
   - 17. 10 | Holandsko / Nederland | - | |
 
@@ -1088,7 +1088,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 17. 27 | Island / Ísland | - | |
 
-  - 17. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 17. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 17. 29 | Nórsko / Norge | - | |
 
@@ -1110,7 +1110,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18. 08 | Francúzsko / France | - | |
 
-  - 18. 09 | Grécko / Ελλάς | – Iατрιқή βιoπαӨoλoγíα – Mιқрoβιoλoγíα | |
+  - 18. 09 | Grécko / Ελλάς | 1. Iατρική Βιoπαθoλoγία 2. Μικρoβιoλoγία | |
 
   - 18. 10 | Holandsko / Nederland | Medische microbiologie | |
 
@@ -1148,7 +1148,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18. 27 | Island / Ísland | Sýklafræði | |
 
-  - 18. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 18. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 18. 29 | Nórsko / Norge | Medisinsk mikrobiologi | |
 
@@ -1172,7 +1172,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 19. 09 | Grécko / Ελλάς | - | |
 
-  - 19. 10 | Holandsko / Nederland | Klinische Chemie (do 4. apríla 2000) | |
+  - 19. 10 | Holandsko / Nederland | „Klinische Chemie (do 4. apríla 2000) | |
 
   - 19. 11 | Írsko / Ireland | Chemical pathology | |
 
@@ -1208,13 +1208,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 19. 27 | Island / Ísland | Klínísk lífefnafræði | |
 
-  - 19. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 19. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 19. 29 | Nórsko / Norge | Klinisk kjemi | |
 
   - 19. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
-  - 20. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická imunológia a alergológia
+  - 20. 01 | Belgicko / Belgique /België / Belgien | - | 4 roky | klinická imunológia a alergológia
 
   - 20. 02 | Bulharsko / България | Клинична имунология | |
 
@@ -1268,15 +1268,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 20. 27 | Island / Ísland | Ónæmisfræði | |
 
-  - 20. 28 | Lichtenštajnsko/ Liechtenstein | Allergologie und klinische Immunologie | |
+  - 20. 28 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
 
   - 20. 29 | Nórsko / Norge | Immunologi og transfusjonsmedisin | |
 
-  - 20. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | | |
+  - 20. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | – | |
 
-  - 21. 01 | Belgicko / Belgique / België / Belgien | Chirurgie plastique, reconstructrice et esthétique/Plastische, reconstructieve en esthetische heelkunde | 5 rokov | plastická chirurgia
+  - 21. 01 | Belgicko / Belgique /België / Belgien | Chirurgie plastique, reconstructrice et esthétique/Plastische, reconstructieve en esthetische heelkunde | 5 rokov | plastická chirurgia
 
-  - 21. 02 | Bulharsko / България | Пластично-възстановителна хирургия | |
+  - 21. 02 | Bulharsko / България | Пластично-възстановителна и естетична хирургия | |
 
   - 21. 03 | Cyprus / Κύπρος | Πλαστική Χειρουργική | |
 
@@ -1328,19 +1328,19 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 21. 27 | Island / Ísland | Lýtalækningar | |
 
-  - 21. 28 | Lichtenštajnsko/ Liechtenstein | Plastische- und Wiederherstellungschirurgie | |
+  - 21. 28 | Lichtenštajnsko / Liechtenstein | Plastische- und Wiederherstellungschirurgie | |
 
   - 21. 29 | Nórsko / Norge | Plastikkirurgi | |
 
-  - 21. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie plastique, reconstructive et esthétique Plastische, rekonstruktive und ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica | |
+  - 21. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgie plastique, reconstructive et esthétique Chirurgia plastica, ricostruttiva ed estetica | |
 
-  - 22. 01 | Belgicko / Belgique / België / Belgien | Chirurgie thoracique/Heelkunde op de thorax | 5 rokov | hrudníková chirurgia
+  - 22. 01 | Belgicko / Belgique /België / Belgien | Chirurgie thoracique/Heelkunde op de thorax | 5 rokov | hrudníková chirurgia
 
   - 22. 02 | Bulharsko / България | Гръдна хирургия Кардиохирургия | |
 
   - 22. 03 | Cyprus / Κύπρος | Χειρουργική Θώρακος | |
 
-  - 22. 04 | Česko / Česká republika | Kardiochirurgie | |
+  - 22. 04 | Česko / Česká republika | Hrudní chirurgie | |
 
   - 22. 05 | Dánsko / Danmark | Thoraxkirurgi | |
 
@@ -1382,17 +1382,17 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22. 24 | Švédsko / Sverige | Thoraxkirurgi | |
 
-  - 22. 25 | Taliansko / Italia | – Chirurgia toracica – Cardiochirurgia | |
+  - 22. 25 | Taliansko / Italia | Chirurgia toracica; Cardiochirurgia | |
 
   - 22. 26 | Veľká Británia a Severné Írsko / United Kingdom | Cardo-thoracic surgery | |
 
   - 22. 27 | Island / Ísland | Brjóstholsskurðlækningar | |
 
-  - 22. 28 | Lichtenštajnsko/ Liechtenstein | Herz- und thorakale Gefässchirurgie | |
+  - 22. 28 | Lichtenštajnsko / Liechtenstein | Herz- und thorakale Gefässchirurgie | |
 
   - 22. 29 | Nórsko / Norge | Thoraxkirurgi | |
 
-  - 22. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie cardiaque et vasculaire thoracique Herz- und thorakale Gefässchirurgie Chirurgia del cuore e dei vasi toracici | |
+  - 22. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Herz- und thorakale Gefässchirurgie Chirurgie cardiaque et vasculaire thoracique Chirurgia del cuore e dei vasi toracici | |
 
   - 23. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | detská chirurgia
 
@@ -1448,13 +1448,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 23. 27 | Island / Ísland | Barnaskurðlækningar | |
 
-  - 23. 28 | Lichtenštajnsko/ Liechtenstein | Kinderchirurgie | |
+  - 23. 28 | Lichtenštajnsko / Liechtenstein | Kinderchirurgie | |
 
   - 23. 29 | Nórsko / Norge | Barnekirurgi | |
 
-  - 23. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie pédiatrique Kinderchirurgie Chirurgia pediatrica | |
+  - 23. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinderchirurgie Chirurgie pédiatrique Chirurgia pediatrica | |
 
-  - 24. 01 | Belgicko / Belgique / België / Belgien | Chirurgie des vaisseaux/Bloedvatenheelkunde | 5 rokov | cievna chirurgia
+  - 24. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie des vaisseaux/Bloedvatenheelkunde | 5 rokov | cievna chirurgia
 
   - 24. 02 | Bulharsko / България | Съдова хирургия | |
 
@@ -1508,7 +1508,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 24. 27 | Island / Ísland | Æðaskurðlækningar | |
 
-  - 24. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 24. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 24. 29 | Nórsko / Norge | Karkirurgi | |
 
@@ -1568,15 +1568,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25. 27 | Island / Ísland | Hjartalækningar | |
 
-  - 25. 28 | Lichtenštajnsko/ Liechtenstein | Kardiologie | |
+  - 25. 28 | Lichtenštajnsko / Liechtenstein | Kardiologie | |
 
   - 25. 29 | Nórsko / Norge | Hjertesykdommer | |
 
-  - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Cardiologie Kardiologie Cardiologia | |
+  - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kardiologie Cardiologie Cardiologia | |
 
-  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie/Gastro-enterologie | 4 roky | gastroenterológia
+  - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie / Gastro-enterologie | 4 roky | gastroenterológia
 
-  - 26. 02 | Bulharsko / България | Висцерална хирургия | |
+  - 26. 02 | Bulharsko / България | Гастроентерология | |
 
   - 26. 03 | Cyprus / Κύπρος | Γαστρεντερολογία | |
 
@@ -1628,11 +1628,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 26. 27 | Island / Ísland | Meltingarlækningar | |
 
-  - 26. 28 | Lichtenštajnsko/ Liechtenstein | Gastroenterologie | |
+  - 26. 28 | Lichtenštajnsko / Liechtenstein | Gastroenterologie | |
 
   - 26. 29 | Nórsko / Norge | Fordøyelsessykdommer | |
 
-  - 26. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastro-entérologie Gastroenterologie Gastroenterologia | |
+  - 26. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastroenterologie Gastroentérologie Gastroenterologia | |
 
   - 27. 01 | Belgicko / Belgique / België / Belgien | Rhumathologie/reumatologie | 4 roky | reumatológia
 
@@ -1688,15 +1688,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 27. 27 | Island / Ísland | Gigtarlækningar | |
 
-  - 27. 28 | Lichtenštajnsko/ Liechtenstein | Rheumatologie | |
+  - 27. 28 | Lichtenštajnsko / Liechtenstein | Rheumatologie | |
 
   - 27. 29 | Nórsko / Norge | Revmatologi | |
 
-  - 27. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rhumatologie Rheumatologie Reumatologia | |
+  - 27. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rheumatologie Rhumatologie Reumatologia | |
 
-  - 28. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | hematológia a transfúziológia
+  - 28. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | hematológia a transfuziológia
 
-  - 28. 02 | Bulharsko / България | Трансфузионна хематология | |
+  - 28. 02 | Bulharsko / България | Клинъична хематология | |
 
   - 28. 03 | Cyprus / Κύπρος | Αιµατολογία | |
 
@@ -1722,7 +1722,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 28. 14 | Luxembursko / Luxembourg | Hématologie | |
 
-  - 28. 15 | Maďarsko / Magyarország | Hematológia | |
+  - 28. 15 | Maďarsko / Magyarország | Haematológia | |
 
   - 28. 16 | Malta / Malta | Ematoloġija | |
 
@@ -1748,11 +1748,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 28. 27 | Island / Ísland | Blóðmeinafræði | |
 
-  - 28. 28 | Lichtenštajnsko/ Liechtenstein | Hämatologie | |
+  - 28. 28 | Lichtenštajnsko / Liechtenstein | Hämatologie | |
 
   - 28. 29 | Nórsko / Norge | Blodsykdommer | |
 
-  - 28. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hématologie Hämatologie Ematologia | |
+  - 28. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hämatologie Hématologie Ematologia | |
 
   - 29. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | endokrinológia
 
@@ -1760,7 +1760,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 03 | Cyprus / Κύπρος | Ενδοκρινολογία | |
 
-  - 29. 04 | Česko / Česká republika | Endokrinologie | |
+  - 29. 04 | Česko / Česká republika | Diabelotologie a endokrinologie | |
 
   - 29. 05 | Dánsko / Danmark | Intern medicin: endokrinologi | |
 
@@ -1768,7 +1768,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 07 | Fínsko / Suomi / Finland | Endokrinologia/Endokrinologi | |
 
-  - 29. 08 | Francúzsko / France | Endocrinologie - diabète - maladies métaboliques | |
+  - 29. 08 | Francúzsko / France | Endocrinologie – diabète – maladies métaboliques | |
 
   - 29. 09 | Grécko / Ελλάς | Εvδoκριvoλoγία | |
 
@@ -1808,11 +1808,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 27 | Island / Ísland | Efnaskipta – og innkirtlalækningar | |
 
-  - 29. 28 | Lichtenštajnsko/ Liechtenstein | Endokrinologie-Diabetologie | |
+  - 29. 28 | Lichtenštajnsko / Liechtenstein | Endokrinologie- Diabetologie | |
 
   - 29. 29 | Nórsko / Norge | Endokrinologi | |
 
-  - 29. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endocrinologie-diabétologie Endokrinologie-Diabetologie Endocrinologia-diabetologia | |
+  - 29. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endokrinologie-Diabetologie Endocrinologie-diabétologie Endocrinologia-diabetologia | |
 
   - 30. 01 | Belgicko / Belgique / België / Belgien | Médecine physique et réadaptation/Fysische geneeskunde en revalidatie | 3 roky | fyziatria, balneológia a liečebná rehabilitácia
 
@@ -1828,7 +1828,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 07 | Fínsko / Suomi / Finland | Fysiatria/Fysiatri | |
 
-  - 30. 08 | Francúzsko / France | Physiotherapy | |
+  - 30. 08 | Francúzsko / France | Médecine physique et de réadaptation | |
 
   - 30. 09 | Grécko / Ελλάς | Φυσική Iατρική και Απoκατάσταση | |
 
@@ -1868,11 +1868,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 27 | Island / Ísland | Orku- og endurhæfingarlækningar | |
 
-  - 30. 28 | Lichtenštajnsko/ Liechtenstein | Physikalische Medizin und Rehabilitation | |
+  - 30. 28 | Lichtenštajnsko / Liechtenstein | Physikalische Medizin und Rehabilitation | |
 
   - 30. 29 | Nórsko / Norge | Fysikalsk medisin og rehabilitering | |
 
-  - 30. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine physique et réadaptation Physikalische Medizin und Rehabilitation Medicina fisica e riabilitatzione | |
+  - 30. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Physikalische Medizin und Rehabilitation Médecine physique et réadaptation Medicina fisica e riabilitazione | |
 
   - 31. 01 | Belgicko / Belgique / België / Belgien | Neuropsychiatrie | 5 rokov | neuropsychiatria
 
@@ -1928,13 +1928,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 31. 27 | Island / Ísland | - | |
 
-  - 31. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 31. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 31. 29 | Nórsko / Norge | - | |
 
   - 31. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
-  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie/Dermato-venereologie | 3 roky | dermatovenerológia
+  - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie / Dermato-venereologie | 3 roky | dermatovenerológia
 
   - 32. 02 | Bulharsko / България | Кожни и венерически болести | |
 
@@ -1966,7 +1966,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 32. 16 | Malta / Malta | Dermato-venerejoloġija | |
 
-  - 32. 17 | Nemecko / Deutschland | Haut- und Geschlechtskrankheiten | |
+  - 32. 17 | Nemecko / Deutschland | Haut — und Geschlechtskrankheiten | |
 
   - 32. 18 | Poľsko / Polska | Dermatologia i wenerologia | |
 
@@ -1988,11 +1988,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 32. 27 | Island / Ísland | Húð – og kynsjúkdómalækningar | |
 
-  - 32. 28 | Lichtenštajnsko/ Liechtenstein | Dermatologie und Venereologie | |
+  - 32. 28 | Lichtenštajnsko / Liechtenstein | Dermatologie und Venereologie | |
 
   - 32. 29 | Nórsko / Norge | Hudsykdommer og veneriske sykdommer | |
 
-  - 32. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venereologia | |
+  - 32. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie und Venerologie Dermatologie et vénéréologie Dermatologia e venereologia | |
 
   - 33. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | tropická medicína
 
@@ -2032,7 +2032,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 33. 19 | Portugalsko / Portugal | Medicina tropical | |
 
-  - 33. 20 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenmedizin | |
+  - 33. 20 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenhygiene | |
 
   - 33. 21 | Rumunsko / România | - | |
 
@@ -2048,13 +2048,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 33. 27 | Island / Ísland | - | |
 
-  - 33. 28 | Lichtenštajnsko/ Liechtenstein | Tropenmedizin | |
+  - 33. 28 | Lichtenštajnsko / Liechtenstein | Tropenmedizin | |
 
   - 33. 29 | Nórsko / Norge | - | |
 
-  - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine tropicale et médecine des voyages Tropen- und Reisemedizin Medicina tropicale e medicina di viaggio | |
+  - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Tropen- und Reisemedizin Médecine tropicale et médecine des voyages Medicina tropicale e medicina di viaggio | |
 
-  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie infanto-juvénile/Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
+  - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie infantojuvénile / Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
 
   - 34. 02 | Bulharsko / България | Детска психиатрия | |
 
@@ -2062,7 +2062,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 04 | Česko / Česká republika | Dětská a dorostová psychiatrie | |
 
-  - 34. 05 | Dánsko / Danmark | Pédopsychiatrie (do 1. januára 1991) | |
+  - 34. 05 | Dánsko / Danmark | Børne- og ungdomspsykiatri | |
 
   - 34. 06 | Estónsko / Eesti | - | |
 
@@ -2092,7 +2092,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 19 | Portugalsko / Portugal | Psiquiatria da infância e da adolescência | |
 
-  - 34. 20 | Rakúsko / Österreich | Kinder- und Jugendpsychiatrie | |
+  - 34. 20 | Rakúsko / Österreich | Kinder-und Jugendpsychiatrie | |
 
   - 34. 21 | Rumunsko / România | Psihiatrie pediatrică | |
 
@@ -2108,13 +2108,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 27 | Island / Ísland | Barna- og unglingageðlækningar | |
 
-  - 34. 28 | Lichtenštajnsko/ Liechtenstein | Kinder – und Jugendpsychiatrie und –psychotherapie | |
+  - 34. 28 | Lichtenštajnsko / Liechtenstein | Kinder – und Jugendpsychiatrie und –psychotherapie | |
 
   - 34. 29 | Nórsko / Norge | Barne – og ungdomspsykiatri | |
 
-  - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie et psychothérapie d’enfants et d’adolescents Kinder- und Jugendpsychiatrie und -psychotherapie Psichiatria e psicoterapia infantile e dell’adolescenza | |
+  - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder – und Jugendpsychiatrie und –psychotherapie Psychiatrie et psychothérapie d’enfants et d’adolescents Psichiatria e psicoterapia infantile e dell’adolescenza | |
 
-  - 35. 01 | Belgicko / Belgique / België / Belgien | Gériatrie/Geriatrie | 4 roky | geriatria
+  - 35. 01 | Belgicko / Belgique / België / Belgien | Gériatrie / Geriatrie | 4 roky | geriatria
 
   - 35. 02 | Bulharsko / България | Гериатрична медицина | |
 
@@ -2168,7 +2168,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 35. 27 | Island / Ísland | öldrunarlækningar | |
 
-  - 35. 28 | Lichtenštajnsko/ Liechtenstein | Geriatrie | |
+  - 35. 28 | Lichtenštajnsko / Liechtenstein | Geriatrie | |
 
   - 35. 29 | Nórsko / Norge | Geriatri | |
 
@@ -2228,7 +2228,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 36. 27 | Island / Ísland | Nýrnalækningar | |
 
-  - 36. 28 | Lichtenštajnsko/ Liechtenstein | Nephrologie | |
+  - 36. 28 | Lichtenštajnsko / Liechtenstein | Nephrologie | |
 
   - 36. 29 | Nórsko / Norge | Nyresykdommer | |
 
@@ -2288,17 +2288,17 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 37. 27 | Island / Ísland | Smitsjúkdómar | |
 
-  - 37. 28 | Lichtenštajnsko/ Liechtenstein | Infektiologie | |
+  - 37. 28 | Lichtenštajnsko / Liechtenstein | Infektiologie | |
 
   - 37. 29 | Nórsko / Norge | Infeksjonssykdommer | |
 
-  - 37. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 37. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Infektiologie Infectiologie Malattie infettive | |
 
   - 38. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | verejné zdravotníctvo
 
   - 38. 02 | Bulharsko / България | Социална медицина и здравен мениджмънт комунална хигиена | |
 
-  - 38. 03 | Cyprus / Κύπρος | – Yγειovoλoγíα – Koιvoτιқή Iατрιқή | |
+  - 38. 03 | Cyprus / Κύπρος | Υγειονολογία/Κοινοτική Ιατρική | |
 
   - 38. 04 | Česko / Česká republika | Hygiena a epidemiologie | |
 
@@ -2348,11 +2348,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 38. 27 | Island / Ísland | Félagslækningar | |
 
-  - 38. 28 | Lichtenštajnsko/ Liechtenstein | Prävention und Gesundheitswesen | |
+  - 38. 28 | Lichtenštajnsko / Liechtenstein | Prävention und Gesundheitswesen | |
 
   - 38. 29 | Nórsko / Norge | Samfunnsmedisin | |
 
-  - 38. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prévention et santé publique Prävention und Gesundheitswesen Prevenzione e salute pubblica | |
+  - 38. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prävention und Gesundheitswesen Prévention et santé publique Prevenzione e salute pubblica | |
 
   - 39. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická farmakológia
 
@@ -2408,11 +2408,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 39. 27 | Island / Ísland | Lyfjafræði | |
 
-  - 39. 28 | Lichtenštajnsko/ Liechtenstein | Klinische Pharmakologie und Toxikologie | |
+  - 39. 28 | Lichtenštajnsko / Liechtenstein | Klinische Pharmakologie und Toxikologie | |
 
   - 39. 29 | Nórsko / Norge | Klinisk farmakologi | |
 
-  - 39. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pharmacologie clinique et toxicologie Klinische Pharmakologie und Toxikologie Farmacologia clinica e tossicologia | |
+  - 39. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Klinische Pharmakologie und Toxikologie Pharmacologie et toxicologie cliniques Farmacologia e tossicologia cliniche | |
 
   - 40. 01 | Belgicko / Belgique / België / Belgien | Médecine du travail/Arbeidsgeneeskunde | 4 roky | pracovné lekárstvo
 
@@ -2468,11 +2468,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 40. 27 | Island / Ísland | Atvinnulækningar | |
 
-  - 40. 28 | Lichtenštajnsko/ Liechtenstein | Arbeitsmedizin | |
+  - 40. 28 | Lichtenštajnsko / Liechtenstein | Arbeitsmedizin | |
 
   - 40. 29 | Nórsko / Norge | Arbeidsmedisin | |
 
-  - 40. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine du travail Arbeitsmedizin Medicina del lavoro | |
+  - 40. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Arbeitsmedizin Médecine du travail Medicina del lavoro | |
 
   - 41. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | klinická imunológia a alergológia
 
@@ -2492,7 +2492,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 41. 09 | Grécko / Ελλάς | Αλλεργιoλoγία | |
 
-  - 41. 10 | Holandsko / Nederland | Allergologie en inwendige geneeskunde | |
+  - 41. 10 | Holandsko / Nederland | Allergologie | |
 
   - 41. 11 | Írsko / Ireland | - | |
 
@@ -2528,15 +2528,15 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 41. 27 | Island / Ísland | Ofnæmislækningar | |
 
-  - 41. 28 | Lichtenštajnsko/ Liechtenstein | Allergologie und klinische Immunologie | |
+  - 41. 28 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
 
   - 41. 29 | Nórsko / Norge | - | |
 
-  - 41. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie et immunologie clinique Allergologie und klinische Immunologie Allergologia e immunologia clinica | |
+  - 41. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie und klinische Immunologie Allergologie et Immunologie clinique Allergologia e immunologia clinica | |
 
   - 42. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie abdominale/Heelkunde op het abdomen | 5 rokov | gastroenterologická chirurgia
 
-  - 42. 02 | Bulharsko / България | - | |
+  - 42. 02 | Bulharsko / България | Висцерална хирургия | |
 
   - 42. 03 | Cyprus / Κύπρος | - | |
 
@@ -2588,7 +2588,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 42. 27 | Island / Ísland | - | |
 
-  - 42. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 42. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 42. 29 | Nórsko / Norge | Gastroenterologisk kirurgi | |
 
@@ -2648,11 +2648,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 43. 27 | Island / Ísland | Ísótópagreining | |
 
-  - 43. 28 | Lichtenštajnsko/ Liechtenstein | Nuklearmedizin | |
+  - 43. 28 | Lichtenštajnsko / Liechtenstein | Nuklearmedizin | |
 
   - 43. 29 | Nórsko / Norge | Nukleærmedisin | |
 
-  - 43. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Médecine nucléaire Nuklearmedizin Medicina nucleare | |
+  - 43. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Nuklearmedizin Médecine nucléaire Medicina nucleare | |
 
   - 44. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | úrazová chirurgia urgentná medicína
 
@@ -2660,7 +2660,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 03 | Cyprus / Κύπρος | - | |
 
-  - 44. 04 | Česko / Česká republika | – Traumatologie – Urgentní medicína | |
+  - 44. 04 | Česko / Česká republika | Traumatologie Urgentní medicína | |
 
   - 44. 05 | Dánsko / Danmark | - | |
 
@@ -2708,7 +2708,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 27 | Island / Ísland | - | |
 
-  - 44. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 44. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 44. 29 | Nórsko / Norge | - | |
 
@@ -2742,7 +2742,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 14 | Luxembursko / Luxembourg | Chirurgie maxillo-faciale | |
 
-  - 45. 15 | Maďarsko / Magyarország | Szájsebészet (do 30. septembra 2007) | |
+  - 45. 15 | Maďarsko / Magyarország | Szájsebészet | |
 
   - 45. 16 | Malta / Malta | - | |
 
@@ -2768,11 +2768,131 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 27 | Island / Ísland | - | |
 
-  - 45. 28 | Lichtenštajnsko/ Liechtenstein | - | |
+  - 45. 28 | Lichtenštajnsko / Liechtenstein | - | |
 
   - 45. 29 | Nórsko / Norge | - | |
 
-  - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie maxillo-faciale Kiefer- und Gesichtschirurgie Chirurgia mascello-facciale | |
+  - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale‘ | |
+
+  - 46. 01 | Belgicko / Belgique / België / Belgien | Oncologie médicale/ Medische oncologie | 5 rokov | klinická onkológia
+
+  - 46. 02 | Bulharsko / България | Медицинска онкология | |
+
+  - 46. 03 | Cyprus / Κύπρος | Ακτινοθεραπευτική Ογκολογία | |
+
+  - 46. 04 | Česko / Česká republika | Klinická onkologie | |
+
+  - 46. 05 | Dánsko / Danmark | - | |
+
+  - 46. 06 | Estónsko / Eesti | - | |
+
+  - 46. 07 | Fínsko / Suomi / Finland | - | |
+
+  - 46. 08 | Francúzsko / France | Oncologie | |
+
+  - 46. 09 | Grécko / Ελλάς | Παθολογική Ογκολογία | |
+
+  - 46. 10 | Holandsko / Nederland | - | |
+
+  - 46. 11 | Írsko / Ireland | Medical oncology | |
+
+  - 46. 12 | Litva / Lietuva | Chemoterapinė onkologija | |
+
+  - 46. 13 | Lotyšsko / Latvija | Onkoloģija ķīmijterapija | |
+
+  - 46. 14 | Luxembursko / Luxembourg | Oncologie médicale | |
+
+  - 46. 15 | Maďarsko / Magyarország | Klinikai onkológia | |
+
+  - 46. 16 | Malta / Malta | - | |
+
+  - 46. 17 | Nemecko / Deutschland | - | |
+
+  - 46. 18 | Poľsko / Polska | Onkologia kliniczna | |
+
+  - 46. 19 | Portugalsko / Portugal | Oncologia médica | |
+
+  - 46. 20 | Rakúsko / Österreich | - | |
+
+  - 46. 21 | Rumunsko / România | Oncologie medicala | |
+
+  - 46. 22 | Slovinsko / Slovenija | Internistična onkologija | |
+
+  - 46. 23 | Španielsko / España | - | |
+
+  - 46. 24 | Švédsko / Sverige | - | |
+
+  - 46. 25 | Taliansko / Italia | Oncologia medica | |
+
+  - 46. 26 | Veľká Británia a Severné Írsko / United Kingdom | Medical oncology | |
+
+  - 46. 27 | Island / Ísland | - | |
+
+  - 46. 28 | Lichtenštajnsko / Liechtenstein | - | |
+
+  - 46. 29 | Nórsko / Norge | - | |
+
+  - 46. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+
+  - 47. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | lekárska genetika
+
+  - 47. 02 | Bulharsko / България | Медицинска генетика | |
+
+  - 47. 03 | Cyprus / Κύπρος | - | |
+
+  - 47. 04 | Česko / Česká republika | Lékařská genetika | |
+
+  - 47. 05 | Dánsko / Danmark | Klinisk genetik | |
+
+  - 47. 06 | Estónsko / Eesti | Meditsiinigeneetika | |
+
+  - 47. 07 | Fínsko / Suomi / Finland | Perinnöllisyyslääketiede/ Medicinsk genetik | |
+
+  - 47. 08 | Francúzsko / France | Génétique médicale | |
+
+  - 47. 09 | Grécko / Ελλάς | - | |
+
+  - 47. 10 | Holandsko / Nederland | Klinische genetica | |
+
+  - 47. 11 | Írsko / Ireland | Clinical genetics | |
+
+  - 47. 12 | Litva / Lietuva | Genetika | |
+
+  - 47. 13 | Lotyšsko / Latvija | Mutes, sejas un žokļu ķirurģija | |
+
+  - 47. 14 | Luxembursko / Luxembourg | Médecine génétique | |
+
+  - 47. 15 | Maďarsko / Magyarország | Klinikai genetika | |
+
+  - 47. 16 | Malta / Malta | - | |
+
+  - 47. 17 | Nemecko / Deutschland | Humangenetik | |
+
+  - 47. 18 | Poľsko / Polska | Genetyka kliniczna | |
+
+  - 47. 19 | Portugalsko / Portugal | Genética médica | |
+
+  - 47. 20 | Rakúsko / Österreich | Medizinische Genetik | |
+
+  - 47. 21 | Rumunsko / România | Genetica medicala | |
+
+  - 47. 22 | Slovinsko / Slovenija | Klinična genetika | |
+
+  - 47. 23 | Španielsko / España | - | |
+
+  - 47. 24 | Švédsko / Sverige | - | |
+
+  - 47. 25 | Taliansko / Italia | Genetica medica | |
+
+  - 47. 26 | Veľká Británia a Severné Írsko / United Kingdom | Clinical genetics | |
+
+  - 47. 27 | Island / Ísland | - | |
+
+  - 47. 28 | Lichtenštajnsko / Liechtenstein | - | |
+
+  - 47. 29 | Nórsko / Norge | - | |
+
+  - 47. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
 
     - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár sa uzná aj
 
@@ -2832,25 +2952,25 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - P. č. | Krajina | Názov dokladu | Profesijný titul
 
-  - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van huisarts/ Titre professionnel particulier de médecin généraliste | Huisarts / Médecin généraliste
+  - 1 | Belgicko / Belgique / België / Belgien | Bijzondere beroepstitel van huisarts / Titre professionnel particulier de médecin généraliste | Huisarts / Médecin généraliste
 
   - 2 | Bulharsko / България | Свидетелство за призната спец- иалност по Обща медицина | Лекар-специалист по Обща медицина
 
   - 3 | Cyprus / Κύπρος | Τίτλος Ειδικότητας Γενικής Ιατρικής | Ιατρός Γενικής Ιατρικής
 
-  - 4 | Česko / Česká republika | Diplom o specializaci „všeobecné lékařství“ | Všeobecný lékař
+  - 4 | Česko / Česká republika | Diplom o specializaci všeobecné praktické lékařství | Všeobecný praktický lékař
 
   - 5 | Dánsko / Danmark | Tilladelse til at anvende betegnelsen alment praktiserende læge / Speciallæge i almen medicin | Alment praktiserende læge / Speciallæge I almen medicin
 
   - 6 | Estónsko / Eesti | Diplom peremeditsiini erialal | Perearst
 
-  - 7 | Fínsko / Suomi / Finland | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta / Bevis om tilläggsutbildning av läkare i primärvård | Yleislääkäri / Allmänläkare
+  - 7 | Fínsko / Suomi / Finland | Todistus yleislääketieteen erityiskoulutuksesta/Bevis om särskild allmänläkarutbildning | Yleislääketieteen erityiskoulutuksen suorittanut laillistettu lääkäri/Legitimerad läkare som har fullgjort särskild allmänläkarutbildning
 
   - 8 | Francúzsko / France | Diplômes d'études spécialisées de médicine générale accompagné du diplôme d'Etat de docteur en médecine | Médecin qualifié en médecine générale
 
   - 9 | Grécko / Ελλάς | Tίτλος ιατρικής ειδικότητας γενικής ιατρικής | Іατρός µε ειδικότητα γενικής ιατρικής
 
-  - 10 | Holandsko / Nederland | Certificaat van inschrijving in het register van erkende huisartsen van de Koninklijke Nederlandsche Maatschappij tot bevordering der geneeskunst | Huisarts
+  - 10 | Holandsko / Nederland | Certificaat van inschrijving in een specialistenregister van huisartsen | Huisarts
 
   - 11 | Írsko / Ireland | Certificate of specific qualifications in general medical Praktice | General medical practitioner
 
@@ -2874,7 +2994,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 21 | Rumunsko / România | Certificat de medic specialist medicină de familie | Medic specialist medicină de familie
 
-  - 22 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicine | Specialist družinske medicine/ Specialistka družinske medicine
+  - 22 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicíně | Specialist družinske medicine/ Specialistka družinske medicine
 
   - 23 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Médico de familia
 
@@ -2884,13 +3004,13 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training in general practice | General medical practitioner
 
-  - 27 | Island / Ísland | - | -
+  - 27 | Island / Ísland | Almennt heimilislækningaleyfi (Evrópulækningaleyfi) | Almennur heimilislæknir (Evrópulæknir)
 
   - 28 | Lichtenštajnsko / Liechtenstein | - | -
 
-  - 29 | Nórsko / Norge | - | -
+  - 29 | Nórsko / Norge | Bevis for kompetanse som allmenpraktiserende lege | Allmennpraktiserende lege
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme de médecin praticien Diplom als praktischer Arzt/praktische Ärztin Diploma di medico generico | Médecin praticien Praktischer Arzt/praktische Ärztin Medico generico
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom als praktischer Arzt/praktische Ärztin Diplôme de médecin praticien Diploma di medico generico | Médecin praticien Praktischer Arzt Medico generico“.
 
     - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
 
@@ -2928,7 +3048,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 9 | Grécko / Ελλάς | Τίτλoς Οδovτιατρικής ειδικότητας της Ορθoδov- τικής | — Νoµαρχιακή Αυτoδιoίκηση — Νoµαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving als orthodontist in het Specialistenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving als orthodontist in het Specialistenregister | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde
 
   - 11 | Írsko / Ireland | Certificate of specialist dentist in orthodontics | Competent authority recognised for this purpose by the competent minister
 
@@ -2942,7 +3062,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fl-Ortodonzja | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Kieferorthopädie | Landeszahnärztekammer
+  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Kieferorthopädie; | Landeszahnärztekammer
 
   - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie ortodoncji | Centrum Egzaminów Medycznych
 
@@ -2964,11 +3084,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 27 | Island / Ísland | - | -
 
-  - 28 | Lichtenštajnsko / Lichtenstein | - | -
+  - 28 | Lichtenštajnsko / Liechtenstein | - | -
 
   - 29 | Nórsko / Norge | Bevis for gjennomgått spesialistutdanning i kjeveortopedi | Odontologisk universitetsfakultet
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral d’orthodontiste Diplom für Kieferorthopädie Diploma di ortodontista | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Kieferorthopädie Diplôme fédéral d’orthodontiste Diploma di ortodontista | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
 
     - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v povolaní zubný lekár sa uzná aj
 
@@ -3028,7 +3148,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 9 | Grécko / Ελλάς | Τίτλoς Οδovτιατρικής ειδικότητας της Γvαθoχειρoυργικής (up to 31 December 2002) | — Νoµαρχιακή Αυτoδιoίκηση — Νoµαρχία
 
-  - 10 | Holandsko / Nederland | Bewijs van inschrijving als kaakchirurg in het Specialistenregister | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
+  - 10 | Holandsko / Nederland | Bewijs van inschrijving als kaakchirurg in het Specialistenregister | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde
 
   - 11 | Írsko / Ireland | Certificate of specialist dentist in oral surgery | Competent authority recognised for this purpose by the competent minister
 
@@ -3064,11 +3184,11 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 27 | Island / Ísland | - | -
 
-  - 28 | Lichtenštajnsko / Lichtenstein | - | -
+  - 28 | Lichtenštajnsko / Liechtenstein | - | -
 
   - 29 | Nórsko / Norge | - | -
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplôme fédéral de chirurgie orale Diplom für Oralchirurgie Diploma di chirurgia orale | Département fédéral de l’intérieur et Société Suisse d’Odonto-stomatologie Eidgenössisches Departement des Innern und Schweizerische Zahnärzte-Gesellschaft Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia
+  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Oralchirurgie Diplôme fédéral de chirurgie orale Diploma di chirurgia orale | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
 
     - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v povolaní zubný lekár sa uzná aj
 

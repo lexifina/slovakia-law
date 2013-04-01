@@ -8,7 +8,7 @@
 
 - b) úradne osvedčený preklad certifikátu do štátneho jazyka,
 
-- c) iné doklady, ak sa vyžadujú na posúdenie podľa odseku 1,
+- c) iné doklady, ak sa vyžadujú na posúdenie podľa odseku 1 a ich úradne osvedčený preklad do štátneho jazyka,
 
 - d) fotokópiu dokladu preukazujúceho totožnosť.
 

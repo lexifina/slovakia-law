@@ -1,5 +1,7 @@
 - 1) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
+- 1a) § 2 ods. 1 písm. a) zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
+
 - 2) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 3) Napríklad zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
@@ -27,8 +29,6 @@
 - 11) § 7 zákona č. 581/2004 Z. z.
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
-
-- 12a) § 45 ods. 1 písm. b) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 12b) § 35 ods. 1 písm. c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
@@ -67,6 +67,8 @@
 - 21) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 22) § 50 ods. 3 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
+
+- 22a) § 64 ods. 2 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 23) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
@@ -182,6 +184,8 @@
 
 - 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
 
+- 55d) § 44 ods. 10 písm. c) a f) zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
+
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
@@ -193,6 +197,8 @@
 - 58b) § 2 ods. 11 zákona č. 576/2004 Z. z.
 
 - 58c) § 9 ods. 1 až 4 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
+
+- 58ca) § 6 ods. 4 písm. l) a ods. 13 písm. b) zákona č. 581/2004 Z. z.
 
 - 58d) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 
