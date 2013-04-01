@@ -4,7 +4,7 @@
 
 (2) Priama diskriminácia je konanie alebo opomenutie, pri ktorom sa s osobou zaobchádza menej priaznivo, ako sa zaobchádza, zaobchádzalo alebo by sa mohlo zaobchádzať s inou osobou v porovnateľnej situácii.
 
-(3) Nepriama diskriminácia je navonok neutrálny predpis, rozhodnutie, pokyn alebo prax, ktoré znevýhodňujú osobu v porovnaní s inou osobou; nepriama diskriminácia nie je, ak takýto predpis, rozhodnutie, pokyn alebo prax sú objektívne odôvodnené sledovaním oprávneného záujmu a sú primerané a nevyhnutné na dosiahnutie takého záujmu.
+(3) Nepriama diskriminácia je navonok neutrálny predpis, rozhodnutie, pokyn alebo prax, ktoré znevýhodňujú alebo by mohli znevýhodňovať osobu v porovnaní s inou osobou; nepriama diskriminácia nie je, ak takýto predpis, rozhodnutie, pokyn alebo prax sú objektívne odôvodnené sledovaním oprávneného záujmu a sú primerané a nevyhnutné na dosiahnutie takého záujmu.
 
 (4) Obťažovanie je také správanie, v dôsledku ktorého dochádza alebo môže dôjsť k vytváraniu zastrašujúceho, nepriateľského, zahanbujúceho, ponižujúceho, potupujúceho, zneucťujúceho alebo urážajúceho prostredia a ktorého úmyslom alebo následkom je alebo môže byť zásah do slobody alebo ľudskej dôstojnosti.
 

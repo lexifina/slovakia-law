@@ -1,10 +1,12 @@
 # § 8a
 
-(1) Diskriminácia nie je prijatie dočasných vyrovnávacích opatrení orgánmi štátnej správy<sup>11d</sup>) zameraných na odstránenie foriem sociálneho a ekonomického znevýhodnenia a znevýhodnenia vyplývajúceho z dôvodu veku a zdravotného postihnutia, ktorých cieľom je zabezpečiť rovnosť príležitostí v praxi. Takými dočasnými vyrovnávacími opatreniami sú najmä opatrenia
+(1) Diskriminácia nie je prijatie dočasných vyrovnávacích opatrení orgánmi verejnej správy alebo inými právnickými osobami smerujúcich k odstráneniu znevýhodnení vyplývajúcich z dôvodov rasového alebo etnického pôvodu, príslušnosti k národnostnej menšine alebo etnickej skupine, rodu alebo pohlavia, veku alebo zdravotného postihnutia, ktorých cieľom je zabezpečiť rovnosť príležitostí v praxi. Dočasnými vyrovnávacími opatreniami sú najmä opatrenia
 
-- a) spočívajúce v podporovaní záujmu príslušníkov znevýhodnených skupín o zamestnanie, vzdelávanie, kultúru, zdravotnú starostlivosť a služby,
+- a) zamerané na odstránenie sociálneho alebo ekonomického znevýhodnenia, ktorými sú nadmerne postihnutí príslušníci znevýhodnených skupín,
 
-- b) smerujúce k vytváraniu rovnosti v prístupe k zamestnaniu a vzdelávaniu najmä prostredníctvom cielených prípravných programov pre príslušníkov znevýhodnených skupín alebo prostredníctvom šírenia informácií o týchto programoch alebo o možnostiach uchádzať sa o pracovné miesta alebo miesta v systéme vzdelávania.
+- b) spočívajúce v podporovaní záujmu príslušníkov znevýhodnených skupín o zamestnanie, vzdelávanie, kultúru, zdravotnú starostlivosť a služby,
+
+- c) smerujúce k vytváraniu rovnosti v prístupe k zamestnaniu, vzdelávaniu, zdravotnej starostlivosti a bývaniu, a to najmä prostredníctvom cielených prípravných programov pre príslušníkov znevýhodnených skupín alebo prostredníctvom šírenia informácií o týchto programoch alebo o možnostiach uchádzať sa o pracovné miesta alebo miesta v systéme vzdelávania.
 
 (2) Dočasné vyrovnávacie opatrenia uvedené v odseku 1 môžu byť prijaté, ak
 

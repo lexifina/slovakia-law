@@ -32,12 +32,6 @@
 
 - 11a) Napríklad nariadenie vlády Slovenskej republiky č. 272/2004 Z. z., ktorým sa ustanovuje zoznam prác a pracovísk, ktoré sú zakázané tehotným ženám, matkám do konca deviateho mesiaca po pôrode a dojčiacim ženám, zoznam prác a pracovísk spojených so špecifickým rizikom pre tehotné ženy, matky do konca deviateho mesiaca po pôrode a pre dojčiace ženy a ktorým sa ustanovujú niektoré povinnosti zamestnávateľom pri zamestnávaní týchto žien.
 
-- 11b) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11c) § 788 až 828a Občianskeho zákonníka.
-
-- 11d) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 11e) Zákon Národnej rady Slovenskej republiky č. 308/1993 Z. z. o zriadení Slovenského národného strediska pre ľudské práva v znení neskorších predpisov.
 
 - 12) Napríklad § 41 ods. 9 Zákonníka práce.
