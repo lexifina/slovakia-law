@@ -112,8 +112,6 @@
 
 - 35) § 20 ods. 4 zákona č. 431/2002 Z. z.
 
-- 35a) § 9 ods. 3 zákona č. 580/2004 Z. z.
-
 - 35aa) Napríklad § 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 35aaa) § 28 ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
@@ -164,11 +162,19 @@
 
 - 41aac) § 23 ods. 7 zákona č. 580/2004 Z. z.
 
+- 41aad) § 6 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
 - 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
 - 41b) § 4 zákona č. 578/2004 Z. z.
 
 - 41ba) § 16 ods. 15 zákona č. 580/2004 Z. z. v znení zákona č. 421/2012 Z. z.
+
+- 41bb) § 7 ods. 6 zákona č. 580/2004 Z. z. v znení zákona č. 41/2013 Z. z.
+
+- 41bc) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 41bd) § 68 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
