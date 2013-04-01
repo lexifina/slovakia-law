@@ -3182,21 +3182,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 151
 
-  - a) | Vydanie povolenia na zaobchádzanie s omamnými a psychotropnými látkami a určenými látkami kategórie 1 a registrácia prevádzkovateľov zaobchádzajúcich s určenými látkami kategórie 2 a 3 ..... | 33 eur
+  - a) | Vydanie povolenia na zaobchádzanie s omamnými látkami, psychotropnými látkami a prípravkami a určenými látkami kategórie 1 a registrácia prevádzkovateľov zaobchádzajúcich s určenými látkami kategórie 2 a 3 ..... | 33 eur
 
   - b) | Zmena povolenia alebo registrácie vydaného podľa písmena a) ..... | 16,50 eura
 
-  - c) | Uznanie prírodnej liečivej vody alebo prírodnej minerálnej vody<sup>36be</sup>)alebo klimatických podmienok vhodných na liečenie<sup>36bf</sup>)Štátnou kúpeľnou komisiou Ministerstva zdravotníctva Slovenskej republiky (ďalej len „Štátna kúpeľná komisia“) ..... | 500 eur
+  - c) | Uznanie prírodnej liečivej vody alebo prírodnej minerálnej vody<sup>36be</sup>) alebo klimatických podmienok vhodných na liečenie<sup>36bf</sup>) Štátnou kúpeľnou komisiou Ministerstva zdravotníctva Slovenskej republiky (ďalej len „Štátna kúpeľná komisia“) ..... | 500 eur
 
-  - d) | Zrušenie uznania prírodnej liečivej vody alebo prírodnej minerálnej vody<sup>36bg</sup>)alebo klimatických podmienok vhodných na liečenie Štátnou kúpeľnou komisiou, ak držiteľ požiada o jeho zrušenie<sup>36bh</sup>)..... | 250 eur
+  - d) | Zrušenie uznania prírodnej liečivej vody alebo prírodnej minerálnej vody<sup>36bg</sup>) alebo klimatických podmienok vhodných na liečenie Štátnou kúpeľnou komisiou, ak držiteľ požiada o jeho zrušenie<sup>36bh</sup>)..... | 250 eur
 
   - e) | Vydanie povolenia Štátnej kúpeľnej komisie využívať prírodný liečivý zdroj alebo prírodný minerálny zdroj<sup>36bi</sup>)..... | 500 eur
 
   - f) | Vydanie nového povolenia využívať prírodný liečivý zdroj alebo prírodný minerálny zdroj pred uplynutím 15. roku odo dňa platnosti povolenia<sup>36bj</sup>)..... | 250 eur
 
-  - g) | Vydanie povolenia podľa písmena e) obsahujúceho i povolenie podľa písmena k)<sup>36bk</sup>)..... | 650 eur
+  - g) | Vydanie povolenia podľa písmena e) obsahujúceho i povolenie podľa písmena k<sup>36bk</sup>)..... | 650 eur
 
-  - h) | Zmena povolenia podľa písmena e),<sup>36bl</sup>)ak držiteľ požiada o jeho zmenu ..... | 200 eur
+  - h) | Zmena povolenia podľa písmena e),<sup>36bl</sup>) ak držiteľ požiada o jeho zmenu ..... | 200 eur
 
   - i) | Vyznačenie zmeny údajov v povolení podľa písmena e)<sup>36bm</sup>)..... | 50 eur
 
@@ -3206,7 +3206,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - l) | Vydanie povolenia Štátnej kúpeľnej komisie na prevádzkovanie prírodných liečebných kúpeľov alebo kúpeľnej liečebne<sup>36bp</sup>)..... | 1 000 eur
 
-  - m) | Zrušenie povolenia podľa písmena l),<sup>36bq</sup>)ak držiteľ požiada o jeho zrušenie ..... | 500 eur
+  - m) | Zrušenie povolenia podľa písmena l),<sup>36bq</sup>) ak držiteľ požiada o jeho zrušenie ..... | 500 eur
 
   - n) | Vydanie poverenia Štátnej kúpeľnej komisie na výkon činnosti balneotechnika<sup>36br</sup>)..... | 100 eur
 
@@ -3476,7 +3476,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) Vydanie licencie na dovoz a vývoz vojenského materiálu, zbraní, streliva a výbušnín zrýchleným obežníkovým spôsobom, z hodnoty tovaru udelenej v licencii ..... | 0,5 % najmenej 99,50 eura
 
-  - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné a psychotropné látky ..... | 33 eur
+  - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné látky, psychotropné látky a prípravky s obsahom omamných látok alebo psychotropných látok ..... | 33 eur
 
   - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok ..... | 33 eur
 
