@@ -1,0 +1,5 @@
+Príloha č. 1 k vyhláške č. 508/2004 Z. z. VZOR
+
+BILANCIA SKRÝVKY POĽNOHOSPODÁRSKEJ PÔDY TRVALO ODNÍMANEJ
+
+[VZOR 01](../assets/9a5b86866bbbbe78397d194fe8ef4cffdd896fa40ccc0f545f76b0be4c4f4897.pdf)

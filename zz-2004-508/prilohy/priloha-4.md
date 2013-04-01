@@ -1,0 +1,5 @@
+Príloha č. 4 k vyhláške č. 508/2004 Z. z. VZOR
+
+PREHĽAD STAVEBNÝCH A INÝCH ZÁMEROV NA POĽNOHOSPODÁRSKEJ PÔDE
+
+[VZOR 04](../assets/41af8f83a57d2a8eb356f15ee73827ea0de125bb0d4e1c0708a2a7fd37288b9b.pdf)
