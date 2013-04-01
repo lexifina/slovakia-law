@@ -102,7 +102,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna starostlivosť o dorast a dospelých | |
 
-- Obsah: | Základná preventívna prehliadka obsahuje komplexné vyšetrenie všetkých orgánových systémov, kontrolu stavu očkovania (napr. tetanus), vyšetrenie pulzu a tlaku krvi, kontrolu hmotnosti vrátane rád a dokumentácie. Súčasťou vyšetrenia u mužov je palpačné vyšetrenie prostaty per rectum. V prípade, že v tom istom roku sa má vykonať per rectum vyšetrenie v rámci preventívneho vyšetrenia urológom, lekársky nález urológa sa založí do dokumentácie ako súčasť preventívnej prehliadky. Laboratórne vyšetrenia: moč chemicky, močový sediment, glykémia, kreatinín, krvný obraz vrátane trombocytov. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
+- Obsah: | Základná preventívna prehliadka obsahuje komplexné vyšetrenie všetkých orgánových systémov, kontrolu stavu očkovania (napr. tetanus), vyšetrenie pulzu a tlaku krvi, kontrolu hmotnosti a výšky vrátane rád a dokumentácie. Laboratórne vyšetrenia: moč chemicky, močový sediment, glykémia, kreatinín, krvný obraz vrátane trombocytov. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
 - Vykonáva: | lekár so špecializáciou v špecializačnom odbore všeobecné lekárstvo a v prípade poistencov do 28. roku veku aj lekár so špecializáciou v špecializačnom odbore pediatria |
 
@@ -138,13 +138,13 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Glukóza v kapilárnej krvi (REP) |
 
-- | Cholesterol celkový | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, resp. 40 alebo 41 rokov
+- | Cholesterol celkový | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, u poistencov starších ako 40 rokov
 
-- | Cholesterol celkový v kapilárnej krvi (REP) | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, resp. 40 alebo 41 rokov
+- | Cholesterol celkový v kapilárnej krvi (REP) | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, u poistencov starších ako 40 rokov
 
-- | Triacylglyceroly | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, resp. 40 alebo 41 rokov
+- | Triacylglyceroly | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, u poistencov starších ako 40 rokov
 
-- | Triacylglyceroly v kapilárnej krvi (REP) | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, resp. 40 alebo 41 rokov
+- | Triacylglyceroly v kapilárnej krvi (REP) | u poistencov, ktorí v danom kalendárnom roku nadobudli vek 17 alebo 18, u poistencov starších ako 40 rokov
 
 - | Erytrocyty - počet (MICC) |
 
@@ -340,13 +340,13 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - Preventívna urologická prehliadka | |
 
-- Obsah: | Kompletná preventívna urologická prehliadka zahŕňa: fyzikálne vyšetrenie, palpačné vyšetrenie prostaty per rektum, palpačné vyšetrenie semenníkov, ultrazvukové vyšetrenie prostaty. Laboratórne vyšetrenia: moč chemicky, močový sediment, kreatinín, PSA. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
+- Obsah: | Kompletná preventívna urologická prehliadka zahŕňa: fyzikálne vyšetrenie, palpačné vyšetrenie prostaty per rektum, palpačné vyšetrenie semenníkov, ultrazvukové vyšetrenie močových ciest a obličiek. Laboratórne vyšetrenia: moč chemicky, močový sediment, kreatinín, PSA. Lekár zabezpečí výkony SVLZ na príslušnom odbornom pracovisku. Ak sa v kalendárnom roku majú vykonať dve preventívne prehliadky (preventívna starostlivosť o dorast a dospelých, preventívna gynekologická prehliadka, preventívna urologická prehliadka), laboratórne vyšetrenia sa vykonávajú len raz. Lekár, ktorý vykonal preventívnu prehliadku ako prvý, má povinnosť poskytnúť výsledky laboratórnych vyšetrení ďalšiemu lekárovi. |
 
 - Vykonáva: | lekár so špecializáciou v špecializačnom odbore urológia |
 
-- Okruh poistencov: | muži od 50. roku veku |
+- Okruh poistencov: | muži od 50. roku veku; muži od 40. roku veku s výskytom karcinómu prostaty v prvostupňovom príbuzenstve |
 
-- Periodicita: | raz za tri roky |
+- Periodicita: | raz za tri roky; raz za tri roky nad 40 rokov veku s hodnotami PSA <= 1,0 ng/ml v prípade výskytu karcinómu prostaty v prvostupňovom príbuzenstve alebo raz za dva roky nad 40 rokov veku s hodnotami PSA 1,1 ng/ml – 2,5 ng/ml v prípade výskytu karcinómu prostaty v prvostupňovom príbuzenstve alebo raz za jeden rok vo veku nad 40 rokov veku s hodnotami PSA 2,6 ng/ml – 4,0 ng/ml s výskytom karcinómu prostaty v prvostupňovom príbuzenstve. |
 
 - Z o z n a m v ý k o n o v | |
 
@@ -372,9 +372,7 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Prostatický špecifický antigén voľný |
 
-- | Sedimentácia erytrocytov - FW |
-
-- | US vyšetrenie malej panvy muža transabdominálne |
+- | US vyšetrenie močových ciest a obličiek |
 
 - Preventívna gastroenterologická prehliadka | |
 
@@ -399,6 +397,16 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 - | endoskopické odstránenie polypu |
 
 - | odoslanie biologického materiálu na histologické vyšetrenie |
+
+- Skríning rakoviny konečníka a hrubého čreva | |
+
+- Obsah | | Skríning rakoviny konečníka a hrubého čreva je zameraný na aktívne a organizované vyhľadávanie rakoviny konečníka a hrubého čreva. Skríning vyhodnocuje Referenčné skríningové centrum.
+
+- Vykonáva | | lekár so špecializáciou v špecializovanom odbore všeobecné lekárstvo – štandardizovaný test na okultné krvácanie a lekár so špecializáciou v špecializačnom odbore gastroenterológia, chirurgia alebo vnútorné lekárstvo a s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná kolonoskopia – primárna skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
+
+- Okruh poistencov | | muži a ženy vo veku nad 50 rokov
+
+- Periodicita | | Štandardizovaný test na okultné krvácanie jedenkrát za dva roky vo veku nad 50 rokov, primárna skríningová kolonoskopia pri pozitívnom štandardizovanom teste na okultné krvácanie.
 
 - Preventívna prehliadka nariadená orgánmi na ochranu zdravia na predchádzanie prenosným ochoreniam |
 

@@ -22,6 +22,8 @@
 
 - 11) Príloha č. 1 zákona č. 576/2004 Z. z.
 
+- 11a) § 11 ods. 10 zákona č. 576/2004 Z. z.
+
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
 - 13) § 7 ods. 1 písm. a) a § 8 zákona č. 576/2004 Z. z.
