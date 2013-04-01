@@ -50,7 +50,11 @@
 
 - 8d) Čl. 14 nariadenia (ES) č. 178/2002 v platnom znení.
 
+- 8da) § 6 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
 - 8e) Čl. 2 ods. 2 nariadenia Komisie (EÚ) č. 16/2011 z 10. januára 2011, ktorým sa stanovujú vykonávacie opatrenia pre systém rýchleho varovania pre potraviny a krmivá (Ú. v. EÚ L 64, 11. 3. 2011).
+
+- 8f) Čl. 3 ods. 6 nariadenia (ES) č. 882/2004 v platnom znení.
 
 - 9) § 45 a 46 Obchodného zákonníka.
 
@@ -120,11 +124,13 @@
 
 - 12a) Čl. 54 ods. 2 písm. a) až e) nariadenia (ES) č. 882/2004 v platnom znení.
 
+- 12aa) Čl. 54 ods. 2 písm. c) nariadenia (ES) č. 882/2004 v platnom znení.
+
+- 12ab) Čl. 54 ods. 2 písm. e) nariadenia (ES) č. 882/2004 v platnom znení.
+
 - 12b) Čl. 14 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
 - 13) § 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
-
-- 14) Zákon č. 337/1998 Z. z.
 
 - 14a) Čl. 44 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
