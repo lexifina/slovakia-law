@@ -16,6 +16,6 @@
 
 (7) Poskytovateľ podľa § 35 ods. 1, ktorý vykonáva dovoz tkanív a buniek z tretích krajín, musí mať povolenie na tento druh činnosti podľa osobitného predpisu.<sup>4</sup>)
 
-(8) Poskytovateľ podľa § 35 ods. 1, ktorý vykonáva vývoz tkanív a buniek mimo územia Slovenskej republiky, musí mať povolenie na tento druh činnosti podľa osobitného predpisu<sup>4</sup>) a písomný súhlas národnej transplantačnej organizácie; o písomný súhlas možno požiadať len pre konkrétneho príjemcu a na základe požiadavky tkanivového zariadenia alebo osoby, ktorá bude vykonávať prenos.
+(8) Poskytovateľ podľa § 35 ods. 1, ktorý vykonáva vývoz tkanív a buniek mimo územia Slovenskej republiky, musí mať povolenie na tento druh činnosti podľa osobitného predpisu<sup>4</sup>) a písomný súhlas národnej transplantačnej organizácie; o písomný súhlas môže požiadať tkanivové zariadenie alebo osoba, ktorá dokáže zabezpečiť distribúciu, prenos a vysledovateľnosť tkaniva alebo bunky. Národná transplantačná organizácia vydá písomný súhlas len v prípade, ak sú zabezpečené tkanivá a bunky pre potreby tkanivových zariadení v Slovenskej republike.
 
 (9) Tkanivá alebo bunky, ktoré môžu distribuovať poskytovatelia priamo na okamžité použitie príjemcovi, ak majú povolenie na distribúciu podľa osobitného predpisu,<sup>4</sup>) ustanoví vláda Slovenskej republiky nariadením.

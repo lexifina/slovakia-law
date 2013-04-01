@@ -32,7 +32,7 @@
 
 - 7) § 5 zákona č. 578/2004 Z. z.
 
-- 7a) Zákon č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+- 7a) Zákon č. 579/2004 Z. z. v znení neskorších predpisov.
 
 - 8) § 27 zákona č. 578/2004 Z. z.
 
