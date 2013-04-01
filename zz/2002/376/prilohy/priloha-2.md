@@ -806,7 +806,7 @@ Prioritné doklady
 
 (2) Kópia skoršej prihlášky sa považuje za riadne podanú, ak kópia tejto prihlášky dostupná Európskemu patentovému úradu bude zahrnutá do podania európskej patentovej prihlášky za podmienok určených prezidentom Európskeho patentového úradu.
 
-(3) Ak nie je skoršia prihláška v úradnom jazyku Európskeho patentového úradu a platnosť uplatnenia práva prednosti je dôležitá na určenie patentovateľnosti príslušného vynálezu, Európsky patentový úrad vyzve prihlasovateľa alebo majiteľa európskeho patentu, aby podal preklad tejto prihlášky v jednom z úradných jazykov v stanovenej lehote. Alternatívne je možné predložiť vyhlásenie, že európska patentová prihláška je úplným prekladom skoršej prihlášky. Odsek 2 platí primerane.
+(3) Ak nie je skoršia prihláška v úradnom jazyku Európskeho patentového úradu a platnosť uplatnenia práva prednosti je dôležitá na určenie patentovateľnosti príslušného vynálezu, Európsky patentový úrad vyzve prihlasovateľa alebo majiteľa európskeho patentu, aby podal preklad tejto prihlášky v jednom z úradných jazykov v stanovenej lehote. Alternatívne je možné predložiť vyhlásenie, že európska patentová prihláška je úplným prekladom skoršej prihlášky. Odsek 2 platí primerane. Ak nie je požadovaný preklad skoršej prihlášky podaný včas, právo prednosti pre európsku patentovú prihlášku alebo pre európsky patent vo vzťahu k tejto prihláške zaniká. Prihlasovateľ alebo majiteľ európskeho patentu bude riadne informovaný.
 
 Pravidlo 54
 
