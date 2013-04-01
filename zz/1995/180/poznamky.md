@@ -132,8 +132,6 @@
 
 - 57) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
-- 57a) Príloha 1 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
-
 - 58) § 13 až 17 zákona Slovenskej národnej rady č. 293/1992 Zb.
 
 - 59) § 142, 149, 481 a 484 Občianskeho zákonníka.
