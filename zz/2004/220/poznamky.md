@@ -24,7 +24,13 @@
 
 - 9) § 8 ods. 2 zákona č. 281/1997 Z. z.
 
-- 9a) § 56 ods. 1 písm. c) zákona č. 326/2005 Z. z.
+- 9a) § 9 ods. 1 a 2 a § 68 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
+
+- 9b) § 56 ods. 1 písm. c) zákona č. 326/2005 Z. z.
+
+- 9c) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
+
+- 9d) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 58/2013 Z. z. o odvodoch za odňatie a neoprávnený záber poľnohospodárskej pôdy.
 
 - 10) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -36,9 +42,13 @@
 
 - 11) § 22 až 26 a 31 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 11a) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
+
 - 12a) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12b) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+
+- 12c) § 14 až 16 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 13) Zákon č. 518/2003 Z. z., ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov a o zmene niektorých zákonov.
 
