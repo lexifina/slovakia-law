@@ -42,6 +42,8 @@
 
 - Opatrenie Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 509/2003 Z. z. o zaradení výrobkov medzi určené výrobky.
 
-- 1) § 12 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 436/2001 Z. z.
+- 1) § 4 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 315/2010 Z. z. o nakladaní s elektrozariadeniami a elektroodpadom v znení vyhlášky č. 51/2011 Z. z.
 
-- Opatrenie Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 590/2004 Z. z. o zaradení výrobkov medzi určené výrobky.
+- 2) § 3 až 6 zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
+
+- 3) § 4 ods. 1 vyhlášky č. 315/2010 Z. z.

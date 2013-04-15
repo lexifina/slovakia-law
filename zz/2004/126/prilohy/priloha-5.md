@@ -22,7 +22,7 @@ Príloha č. 5 k vyhláške č. 126/2004 Z. z.
 
   - 9. udelenie autorizácie ministerstvom podľa § 8 ods. 4 zákona na jednotlivé činnosti alebo spolu na viac činností
 
-  - a) zhodnocovanie alebo zneškodňovanie opotrebovaných batérií a akumulátorov,
+  - a) spracovanie a recykláciu použitých batérií a akumulátorov,
 
   - b) zhodnocovanie alebo zneškodňovanie odpadových olejov,
 
@@ -39,6 +39,10 @@ Príloha č. 5 k vyhláške č. 126/2004 Z. z.
   - 13. vydanie súhlasu na zneškodňovanie použitých polychlórovaných bifenylov alebo kontaminovaných zariadení podľa § 7 ods. 1 písm. n) zákona,
 
   - 14. vydanie súhlasu na zneškodňovanie odpadov z výroby oxidu titaničitého podľa § 7 ods. 1 písm. o) zákona,
+
+  - 15. preukázanie energetickej účinnosti spaľovne odpadov podľa prílohy č. 8 k zákonu, ktorá spaľuje komunálne odpady činnosťou zhodnocovania odpadov R1 alebo ktorá žiada o povolenie spaľovať komunálne odpady činnosťou zhodnocovania odpadov R1,
+
+  - 16. vydanie súhlasu na prevádzkovanie úložiska kovovej ortuti podľa § 7 ods. 1 písm. u) zákona.
 
   - II. Odborný posudok sa môže vyžadovať na vydanie
 
@@ -65,3 +69,7 @@ Príloha č. 5 k vyhláške č. 126/2004 Z. z.
   - 11. vyjadrenia k dokumentácii alebo plánu likvidácie banských diel a lomov a k plánu likvidácie starých banských diel podľa § 16 písm. e) zákona,
 
   - 12. súhlasu na zber alebo spracovanie odpadu z elektrických a elektronických zariadení podľa § 7 ods. 1 písm. r) zákona,
+
+  - 13. povolenia ministerstva na cezhraničnú prepravu odpadov z iného členského štátu EÚ do Slovenskej republiky a na dovoz odpadov z iného ako členského štátu EÚ do Slovenskej republiky na účel zhodnotenia odpadov činnosťami R1, R3 alebo R10 podľa prílohy č. 2 zákona,
+
+  - 14. súhlasu na vykonávanie prípravy na opätovné použitie podľa § 7 ods. 1 písm. t) zákona.
