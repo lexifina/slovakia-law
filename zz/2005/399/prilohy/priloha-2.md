@@ -24,7 +24,7 @@ Príloha č. 2 k vyhláške č. 399/2005 Z. z.
 
 - 6 | Opatrenia na kontrolu neželaných druhov, ako sú hmyz, hlodavce, článkonožce | vyžaduje sa | vyžaduje sa | vyžaduje sa | vyžaduje sa
 
-- 7 | Postupy na prenos živého materiálu medzi skleníkom/pestovateľskou miestnosťou, ochranná štruktúra a laboratórium musia zabrániť rozšíreniu geneticky modifikovaných mikroorganizmov | minimalizovať rozšírenie | minimalizovať rozšírenie | zabrániť rozšíreniu | zabrániť rozšíreniu
+- 7 | Postupy na prenos živého materiálu medzi skleníkom/pestovateľskou miestnosťou, ochranná štruktúra a laboratórium musia zabrániť rozšíreniu geneticky modifikovaných mikroorganizmov a geneticky modifikovaných organizmov | minimalizovať rozšírenie | minimalizovať rozšírenie | zabrániť rozšíreniu | zabrániť rozšíreniu
 
 - <sup>1</sup>) Skleník musí pozostávať z trvalej konštrukcie so súvislým vodonepriepustným povrchom. Umiestnený musí byť na mieste upravenom tak, aby sa zabránilo vniknutiu povrchovej vody, a musí mať samozatváracie uzamykateľné dvere.
 

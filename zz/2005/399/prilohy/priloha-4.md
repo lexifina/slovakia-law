@@ -46,6 +46,6 @@ Príloha č. 4 k vyhláške č. 399/2005 Z. z.
 
 - Odpad | | | | | | | |
 
-- 18 | Inaktivácia geneticky modifikovaných mikroorganizmov v odpadových vodách z umývadiel na umývanie rúk, zo spŕch a v podobných odpadových vodách | nevyžaduje sa | nevyžaduje sa | | voliteľné | | vyžaduje sa |
+- 18 | Inaktivácia geneticky modifikovaných mikroorganizmov a geneticky modifikovaných organizmov v odpadových vodách z umývadiel na umývanie rúk, zo spŕch a v podobných odpadových vodách | nevyžaduje sa | nevyžaduje sa | | voliteľné | | vyžaduje sa |
 
-- 19 | Inaktivácia geneticky modifikovaných mikroorganizmov v kontaminovanom materiáli a v odpade vrátane odpadových vôd pred konečným zneškodnením | voliteľné | vyžaduje sa prostredníctvom overených prostriedkov | | vyžaduje sa prostredníctvom overených prostriedkov | | vyžaduje sa prostredníctvom overených prostriedkov |
+- 19 | Inaktivácia geneticky modifikovaných mikroorganizmov a geneticky modifikovaných organizmov v kontaminovanom materiáli a v odpade vrátane odpadových vôd pred konečným zneškodnením | voliteľné | vyžaduje sa prostredníctvom overených prostriedkov | | vyžaduje sa prostredníctvom overených prostriedkov | | vyžaduje sa prostredníctvom overených prostriedkov |

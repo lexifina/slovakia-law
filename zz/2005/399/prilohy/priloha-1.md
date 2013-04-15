@@ -20,7 +20,7 @@ Príloha č. 1 k vyhláške č. 399/2005 Z. z.
 
 - 6 | Odsávaný a vháňaný vzduch do laboratória by mal byť HEPA-filtrovaný | nevyžaduje sa | nevyžaduje sa | vyžaduje sa (HEPA)<sup>4</sup>) odsávaný vzduch okrem<sup>3</sup>) | | vyžaduje sa (HEPA)<sup>5</sup>)- vháňaný aj odsávaný vzduch
 
-- 7 | Digestor | nevyžaduje sa | voliteľné | vyžaduje sa | | vyžaduje sa
+- 7 | Aseptický box | nevyžaduje sa | voliteľné | vyžaduje sa | | vyžaduje sa
 
 - 8 | Autokláv | v areáli | v budove | v mieste<sup>6</sup>) | | v laboratóriu: s dvoma dvierkami
 
@@ -42,9 +42,9 @@ Príloha č. 1 k vyhláške č. 399/2005 Z. z.
 
 - Odpad | | | | | |
 
-- 17 | Inaktivácia geneticky modifikovaných mikroorganizmov v odpadových vodách, z umývadiel na umývanie rúk, spŕch a v podobných odpadových vodách | nevyžaduje sa | nevyžaduje sa | voliteľné | | vyžaduje sa
+- 17 | Inaktivácia geneticky modifikovaných mikroorganizmov a geneticky modifikovaných organizmov v odpadových vodách, z umývadiel na umývanie rúk, spŕch a v podobných odpadových vodách | nevyžaduje sa | nevyžaduje sa | voliteľné | | vyžaduje sa
 
-- 18 | Inaktivácia geneticky modifikovaných mikroorganizmov v kontaminovanom materiáli a v odpade | voliteľné | vyžaduje sa | vyžaduje sa | | vyžaduje sa
+- 18 | Inaktivácia geneticky modifikovaných mikroorganizmov a geneticky modifikovaných organizmov v kontaminovanom materiáli a v odpade | voliteľné | vyžaduje sa | vyžaduje sa | | vyžaduje sa
 
 - Iné opatrenia | | | | | |
 
