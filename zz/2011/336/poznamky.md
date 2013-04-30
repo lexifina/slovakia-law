@@ -1,5 +1,13 @@
 - 1) Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) § 7 zákona č. 217/2003 Z. z. v znení neskorších predpisov.
+
+- 1b) § 10 ods. 1 zákona č. 217/2003 Z. z. v znení zákona č. 15/2006 Z. z.
+
+- 1c) § 10 ods. 5 zákona č. 217/2003 Z. z. v znení zákona č. 339/2012 Z. z.
+
+- 1d) § 7 ods. 1 zákona č. 217/2003 Z. z. v znení zákona č. 15/2006 Z. z.
+
 - 2) § 7 až 10 zákona č. 217/2003 Z. z. v znení neskorších predpisov.
 
 - 3) Príloha č. 1 k zákonu č. 217/2003 Z. z.

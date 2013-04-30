@@ -111,3 +111,13 @@ Príloha č. 3 k nariadeniu vlády č. 336/2011 Z. z.
 - 11. Smernica Komisie 2012/20/EÚ zo 6. júla 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť flufenoxurón ako aktívnu látku pre výrobky typu 8 do prílohy I k uvedenej smernici (Ú. v. EÚ L 177, 7. 7. 2012).
 
 - 12. Smernica Komisie 2012/22/EÚ z 22. augusta 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť didecyl-dimetyl-amónium-karbonát ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 227, 23. 8. 2012).
+
+- 13. Smernica Komisie 2012/38/EÚ z 23. novembra 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť (Z)-trikoz-9-én ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 326, 24. 11. 2012).
+
+- 14. Smernica Komisie 2012/40/EÚ z 26. novembra 2012, ktorou sa opravuje príloha I k smernici Európskeho parlamentu a Rady 98/8/ES o uvádzaní biocídnych výrobkov na trh (Ú. v. EÚ L 327, 27. 11. 2012).
+
+- 15. Smernica Komisie 2012/41/EÚ z 26. novembra 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom rozšíriť použitie aktívnej látky kyseliny nonánovej uvedenej v zozname v prílohe I k uvedenej smernici na výrobky typu 2 (Ú. v. EÚ L 327, 27. 11. 2012).
+
+- 16. Smernica Komisie 2012/42/EÚ z 26. novembra 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť kyanovodík ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 327, 27. 11. 2012).
+
+- 17. Smernica Komisie 2012/43/EÚ z 26. novembra 2012, ktorou sa menia a dopĺňajú niektoré záhlavia v prílohe I k smernici Európskeho parlamentu a Rady 98/8/ES (Ú. v. EÚ. L 327, 27. 11. 2012).
