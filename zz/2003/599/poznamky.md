@@ -48,19 +48,13 @@
 
 - 13a) § 32 ods. 12 písm. d) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov.
 
-- 13b) § 43 ods. 7 zákona č. 5/2004 Z. z.
+- 13b) § 43 ods. 8 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
-- 13c) § 46 ods. 6 zákona č. 5/2004 Z. z.
+- 13c) § 46 ods. 5 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
-- 13d) § 46 ods. 9 zákona č. 5/2004 Z. z.
+- 13d) § 43 ods. 9 a § 46 ods. 10 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
-- 13e) § 51 ods. 5 zákona č. 5/2004 Z. z.
-
-- 13ea) § 48b zákona č. 5/2004 Z. z.
-
-- 13eb) § 49a zákona č. 5/2004 Z. z.
-
-- 13ec) § 52a zákona č. 5/2004 Z. z.
+- 13e) § 51 ods. 4 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 13f) § 32a a 33 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -94,8 +88,6 @@
 
 - 13m) § 6 ods. 2 písm. d) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
-- 13n) § 43 ods. 10 zákona č. 5/2004 Z. z. v znení zákona č. 139/2008 Z. z.
-
 - 14) § 14 ods. 4 a § 15 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
 - 14a) § 2 ods. 2 písm. l) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
@@ -120,7 +112,7 @@
 
 - Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení zákona č. 643/2002 Z. z.
 
-- 20a) § 34 ods. 13 zákona č. 5/2004 Z. z. v znení zákona č. 139/2008 Z. z.
+- 20a) § 34 ods. 14 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 20aa) § 2 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
