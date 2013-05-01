@@ -92,9 +92,7 @@ Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení ni
 
 - 13. V § 101 písmeno i) znie:
 
-- „i)
-
-- poistné na zdravotné poistenie a poistné na sociálne zabezpečenie; u colníkov v prípravnej štátnej službe a v dočasnej štátnej službe aj príspevok na poistenie v nezamestnanosti.“.
+  - „i) poistné na verejné zdravotné poistenie a poistné na sociálne zabezpečenie; u colníkov v prípravnej štátnej službe a v dočasnej štátnej službe aj príspevok na poistenie v nezamestnanosti.".
 
 - 14. V § 105 ods. 2 sa slová „ods. 6" nahrádzajú slovami „ods. 3".
 

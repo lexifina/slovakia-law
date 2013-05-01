@@ -2,29 +2,41 @@
 
 - 2) § 2 písm. e) zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
-- 3a) § 84 ods. 2 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+- 3a) § 84 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-- § 79 ods. 2 zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- § 79 ods. 2 zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 251/2003 Z. z.
 
-- § 103 ods. 4 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení zákona č. 519/2007 Z. z.
+- § 103 ods. 4 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
 - 3b) § 138 ods. 2, § 208 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
-- 3ea) § 149 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 3ea) § 149 zákona č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 3eb) § 15k zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
 
-- 3ec) § 15l zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
+- 3ec) § 15l zákona č. 570/2005 Z. z. v znení neskorších predpisov.
 
-- 3ed) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 3ed) § 43 ods. 5 a § 46 ods. 3 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
+
+- § 40 ods. 3, 5 až 7 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
+
+- § 52 ods. 3 a 4 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
+
+- § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 3f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 3g) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
-- 3h) § 116 zákona č. 346/2005 Z. z., § 166 až 169 Zákonníka práce.
+- 3h) § 152 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 4) § 22 zákona Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+- § 143 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
+
+- § 102ad zákona č. 315/2001 Z. z. v znení neskorších predpisov.
+
+- § 116 zákona č. 346/2005 Z. z. v znení zákona č. 48/2011 Z. z.
+
+- 4) § 9 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 81 ods. 1 písm. d) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
 
@@ -34,11 +46,13 @@
 
 - 6) § 118 ods. 2 zákona č. 311/2001 Z. z. Zákonník práce.
 
-- 7) § 109 ods. 1 a 2 zákona č. 73/1998 Z. z.§ 119 zákona č. 200/1998 Z. z. v znení neskorších predpisov.
+- 7) § 109 ods. 1 a 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
 - 8) § 138 ods. 2 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 9) § 208 zákona č. 346/2005 Z. z.
+
+- 9a) § 150 zákona č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 10) Zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
@@ -72,7 +86,21 @@
 
 - § 40 ods. 3 zákona č. 200/1998 Z. z.
 
-- 30) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+- 30) Zákon č. 437/2004 Z. z. o náhrade za bolesť a o náhrade za sťaženie spoločenského uplatnenia a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov v znení zákona č. 461/2008 Z. z.
+
+- § 173 ods. 3 a 4 zákona č. 73/1998 Z. z.
+
+- § 164 ods. 3 a 4 zákona č. 200/1998 Z. z.
+
+- § 134aj ods. 3 a 4 zákona č. 315/2001 Z. z. v znení zákona č. 82/2009 Z. z.
+
+- 30a) § 5 zákona č. 595/2003 Z. z. o dani z príjmu v znení neskorších predpisov.
+
+- 30b) § 6 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 30c) § 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 30d) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 31) § 63 ods. 1 písm. c) zákona č. 315/2001 Z. z.
 
@@ -100,7 +128,7 @@
 
 - § 24 ods. 1 až 3 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
 
-- 33a) § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení zákona č. 561/2005 Z. z.
+- 33a) § 53a a § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
 - 33b) § 62 ods. 3 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
@@ -113,6 +141,10 @@
 - 33f) § 2 zákona č. 463/2003 Z. z. o vojnových veteránoch a o doplnení zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 33g) § 10 ods. 2 zákona č. 219/2006 Z. z. o protikomunistickom odboji v znení zákona č. 58/2009 Z. z.
+
+- 33h) § 2 ods. 10 a 11 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
+
+- 33i) § 7 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 34) § 4 zákona č. 238/1998 Z. z. o príspevku na pohreb.
 

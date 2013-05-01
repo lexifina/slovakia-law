@@ -264,9 +264,7 @@ Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru,
 
 - 37. V § 108 písmeno i) znie:
 
-- „i)
-
-- poistné na zdravotné poistenie a poistné na sociálne zabezpečenie; u policajtov v prípravnej štátnej službe a v dočasnej štátnej službe aj príspevok na poistenie v nezamestnanosti.“.
+  - „i) poistné na verejné zdravotné poistenie a poistné na sociálne zabezpečenie; u policajtov v prípravnej štátnej službe a v dočasnej štátnej službe aj príspevok na poistenie v nezamestnanosti.".
 
 - 38. § 109 vrátane nadpisu a poznámky pod čiarou k odkazu 25 znie:
 
@@ -284,7 +282,7 @@ Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru,
 
 - (3)
 
-- Časťou služobného príjmu policajta, ktorý je vyslaný na denné štúdium do školy v zahraničí, je na tieto účely 36 % služobného príjmu podľa § 84 ods. 1 písm. a) až m) po vykonaní zrážok preddavkov na daň z príjmov zo závislej činnosti a z funkčných požitkov, poistného na zdravotné poistenie, výsluhové zabezpečenie. Zostávajúca časť 64 % služobného príjmu podľa § 84 ods. 1 písm. a) až m) sa poskytuje v slovenských korunách. V slovenských korunách sa poskytujú aj príplatky podľa § 84 ods. 1 písm. n) až r), ďalší služobný plat podľa § 84 ods. 1 písm. s) a peňažná náhrada za služobnú pohotovosť podľa § 84 ods. 3.
+- Časťou služobného príjmu policajta, ktorý je vyslaný na denné štúdium do školy v zahraničí, je na tieto účely 36 % služobného príjmu podľa § 84 ods. 1 písm. a) až m) po vykonaní zrážok preddavkov na daň z príjmov zo závislej činnosti a z funkčných požitkov, poistného na verejné zdravotné poistenie, výsluhové zabezpečenie. Zostávajúca časť 64 % služobného príjmu podľa § 84 ods. 1 písm. a) až m) sa poskytuje v slovenských korunách. V slovenských korunách sa poskytujú aj príplatky podľa § 84 ods. 1 písm. n) až r), ďalší služobný plat podľa § 84 ods. 1 písm. s) a peňažná náhrada za služobnú pohotovosť podľa § 84 ods. 3.
 
 - (4)
 
