@@ -1,16 +1,12 @@
 # § 30a Úľava na dani pre príjemcov investičnej pomoci
 
-(1) Daňovník, ktorému bolo vydané rozhodnutie o schválení investičnej pomoci obsahujúce úľavu na dani podľa osobitného predpisu,<sup>120a</sup>) môže si uplatniť nárok na úľavu na dani do výšky podľa odseku 2, ak súčasne spĺňa podmienky stanovené osobitným predpisom <sup>120a</sup>) a osobitné podmienky podľa odseku 3.
+(1) Daňovník, ktorému bolo vydané rozhodnutie o schválení investičnej pomoci obsahujúcej úľavu na dani podľa osobitného predpisu<sup>120a</sup>) alebo podľa schémy štátnej pomoci de minimis, môže si uplatniť nárok na úľavu na dani do výšky podľa odseku 2, ak súčasne spĺňa podmienky stanovené osobitným predpisom<sup>120a</sup>) a osobitné podmienky podľa odseku 3 alebo podmienky podľa schémy štátnej pomoci de minimis.
 
-(2) Daňovník si môže uplatniť nárok na úľavu na dani do výšky dane pripadajúcej na pomernú časť základu dane. Pomerná časť základu dane sa vypočíta tak, že základ dane sa vynásobí
+(2) Daňovník si môže uplatniť nárok na úľavu na dani do výšky dane pripadajúcej na pomernú časť základu dane. Pomerná časť základu dane sa vypočíta tak, že základ dane sa vynásobí koeficientom, ktorý sa vypočíta ako podiel
 
-- a) koeficientom, ktorý sa vypočíta ako podiel
+- a) oprávnených nákladov,<sup>120b</sup>) na ktoré bola schválená poskytnutá investičná pomoc podľa osobitného predpisu,<sup>120a</sup>) najviac však do úhrnnej výšky obstarávacej ceny dlhodobého hmotného a dlhodobého nehmotného majetku tejto investície obstaraného po vydaní písomného potvrdenia žiadateľovi, že investičný zámer spĺňa podmienky na poskytnutie investičnej pomoci<sup>120c</sup>) do konca príslušného zdaňovacieho obdobia, za ktoré sa uplatňuje nárok na úľavu na dani, a
 
-  - 1. oprávnených nákladov,<sup>120b</sup>) na ktoré bola poskytnutá investičná pomoc podľa osobitného predpisu,<sup>120a</sup>) najviac však do úhrnnej výšky obstarávacej ceny dlhodobého hmotného a dlhodobého nehmotného majetku tejto investície obstaraného po vydaní písomného potvrdenia žiadateľovi, že investičný zámer spĺňa podmienky na poskytnutie investičnej pomoci<sup>120c</sup>) do konca príslušného zdaňovacieho obdobia, za ktoré sa uplatňuje nárok na úľavu na dani, a
-
-  - 2. súčtu hodnoty vlastného imania daňovníka vykázaného v účtovnej závierke za zdaňovacie obdobie, v ktorom bolo vydané písomné potvrdenie podľa osobitného predpisu,<sup>120c</sup>) a oprávnených nákladov uvedených v prvom bode alebo
-
-- b) koeficientom vo výške 0,8.
+- b) súčtu hodnoty vlastného imania daňovníka vykázaného v účtovnej závierke za zdaňovacie obdobie, v ktorom bolo vydané písomné potvrdenie podľa osobitného predpisu,<sup>120c</sup>) a oprávnených nákladov uvedených v písmene a).
 
 (3) Osobitnými podmienkami podľa odseku 1 sú:
 
@@ -37,5 +33,3 @@
 (8) Ak daňovník nedodrží niektorú zo všeobecných podmienok ustanovených osobitným predpisom<sup>120a</sup>) alebo niektorú z osobitných podmienok uvedených v odseku 3, okrem podmienky uvedenej v odseku 3 písm. a) a b), nárok na úľavu na dani podľa odseku 1 zaniká a daňovník je povinný podať dodatočné daňové priznanie za všetky zdaňovacie obdobia, v ktorých úľavu na dani uplatnil. Daňovník je povinný podať dodatočné daňové priznanie do konca tretieho kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bola zistená povinnosť podať dodatočné daňové priznanie; v rovnakej lehote je daň, na ktorú bola uplatnená úľava na dani a ktorá bola priznaná v dodatočnom daňovom priznaní, splatná. Daň ani rozdiel dane nemožno vyrubiť po uplynutí desiatich rokov od konca roka, v ktorom vznikla povinnosť podať daňové priznanie za zdaňovacie obdobie, za ktoré sa táto úľava na dani uplatnila.
 
 (9) Ak daňovník nedodrží podmienku uvedenú v odseku 3 písm. a) alebo písm. b), stráca nárok na úľavu na dani v príslušnom zdaňovacom období a je povinný podať dodatočné daňové priznanie za každé zdaňovacie obdobie, v ktorom podmienku nedodržal. Daňovník je povinný podať dodatočné daňové priznanie do konca tretieho kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bola zistená povinnosť podať dodatočné daňové priznanie. Daň priznaná v dodatočnom daňovom priznaní je splatná v lehote podľa odseku 8. Daň ani rozdiel dane nemožno vyrubiť po uplynutí desiatich rokov od konca roka, v ktorom vznikla povinnosť podať daňové priznanie za zdaňovacie obdobie, za ktoré sa táto úľava na dani uplatnila.
-
-(10) Daňovníkom vybraný postup výpočtu pomernej časti základu dane podľa odseku 2 je daňovník povinný uplatňovať aj v nasledujúcich zdaňovacích obdobiach.

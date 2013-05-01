@@ -392,11 +392,11 @@
 
 - Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z.
 
-- 120a) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
+- 120a) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 120b) § 8 zákona č. 561/2007 Z. z.
+- 120b) § 8 ods. 1 písm. a) a b) zákona č. 561/2007 Z. z. v znení neskorších predpisov.
 
-- 120c) § 10 ods. 4 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
+- 120c) § 10 ods. 6 zákona č. 561/2007 Z. z. v znení zákona č. 70/2013 Z. z.
 
 - 120d) Zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
