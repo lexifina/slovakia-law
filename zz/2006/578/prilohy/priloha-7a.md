@@ -12,13 +12,13 @@ Príloha č. 7a k vyhláške č. 578/2006 Z. z.
 
     - d) ďalšími zariadeniami na vzájomné prepojenie zariadení podľa písmen a) až c) alebo prepojenie zariadenia podľa písmena b) s automatizovaným informačným systémom emisných kontrol motorových vozidiel, ak sú potrebné.
 
-  - 2. Monitorovacie záznamové zariadenie zaznamenáva vstup vozidla na pracovisko emisnej kontroly a výstup vozidla z pracoviska emisnej kontroly. Monitorovacie záznamové zariadenie zasiela snímky do automatizovaného informačného systému emisných kontrol.
+  - 2. Monitorovacie záznamové zariadenie zaznamenáva vstup vozidla na pracovisko emisnej kontroly a výstup vozidla z pracoviska emisnej kontroly. Za výstup z pracoviska emisnej kontroly sa považuje aj priestor medzi samotným priestorom pracoviska emisnej kontroly a výstupnou bránou. Monitorovacie záznamové zariadenie zasiela snímky do automatizovaného informačného systému emisných kontrol.
 
   - 3. Zaznamenávanie vstupu vozidla na pracovisko emisnej kontroly musí byť zabezpečené takto:
 
     - a) monitorovacie záznamové zariadenie musí byť umiestnené tak, aby vyhotovilo snímku prednej časti vozidla stojaceho na pracovisku emisnej kontroly,
 
-    - b) snímka podľa písmena a) musí byť vyhotovená v okamihu prečítania čiarového kódu čítačkou čiarového kódu umiestnenou v blízkosti pracoviska emisnej kontroly; čiarový kód zodpovedajúci konkrétnej emisnej kontrole generuje automatizovaný informačný systém emisných kontrol motorových vozidiel,
+    - b) snímka podľa písmena a) musí byť vyhotovená v okamihu prečítania čiarového kódu čítačkou čiarového kódu umiestnenou v blízkosti pracoviska emisnej kontroly, časový interval medzi prečítaním čiarového kódu a vyhotovením snímky nesmie byť viac ako 3 sekundy; čiarový kód zodpovedajúci konkrétnej emisnej kontrole generuje automatizovaný informačný systém emisných kontrol motorových vozidiel,
 
     - c) snímka podľa písmena a) musí umožňovať rozpoznanie
 
@@ -36,7 +36,7 @@ Príloha č. 7a k vyhláške č. 578/2006 Z. z.
 
     - a) monitorovacie záznamové zariadenie musí byť umiestnené tak, aby vyhotovilo snímku zadnej časti vozidla stojaceho na výstupe z pracoviska emisnej kontroly; ak ide o neprejazdné pracovisko emisnej kontroly, vyhotoví sa ďalšia snímka podľa bodu 3 písm. a),
 
-    - b) snímka podľa písmena a) musí byť vyhotovená v okamihu prečítania čiarového kódu čítačkou čiarového kódu umiestnenou v blízkosti výstupu z pracoviska emisnej kontroly, čiarový kód sa zhoduje s čiarovým kódom uvedeným v bode 3 písm. b),
+    - b) snímka podľa písmena a) musí byť vyhotovená v okamihu prečítania čiarového kódu čítačkou čiarového kódu umiestnenou v blízkosti pracoviska emisnej kontroly, časový interval medzi prečítaním čiarového kódu a vyhotovením snímky nesmie byť viac ako 3 sekundy; čiarový kód sa zhoduje s čiarovým kódom uvedeným v bode 3 písm. b),
 
     - c) snímka podľa písmena a) musí umožňovať rozpoznanie
 

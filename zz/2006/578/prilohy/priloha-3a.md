@@ -10,11 +10,13 @@ Príloha č. 3a k vyhláške č. 578/2006 Z. z.
 
     - c) dvoma zariadeniami na čítanie čiarového kódu (ďalej len „čítačka čiarového kódu“),
 
-    - d) ďalšími zariadeniami na vzájomné prepojenie zariadení podľa písmen a) až c) alebo prepojenie zariadenia podľa písmena b) s automatizovaným informačným systémom technických kontrol, ak sú potrebné.
+    - d) ďalšími zariadeniami na vzájomné prepojenie zariadení podľa písmen a) až c) alebo prepojenie zariadenia podľa písmena b) s automatizovaným informačným systémom technických kontrol, ak sú potrebné,
+
+    - e) záznamovým zariadením vyhotovujúcim snímky miesta mimo kontrolnej linky určeného na kontrolu stojaceho vozidla, ktoré nemožno kontrolovať na kontrolnej linke, a prislúchajúcou čítačkou čiarového kódu, ak sa na stanici technickej kontroly vykonávajú kontroly takýchto vozidiel.
 
   - 2. Zariadenie podľa bodu 1 písm. b) a d) môže byť spoločné pre viacero kontrolných liniek.
 
-  - 3. Monitorovacie záznamové zariadenie zaznamenáva vstup vozidla na kontrolnú linku, priebeh technickej kontroly vozidla na kontrolnej linke a výstup vozidla z kontrolnej linky. Monitorovacie záznamové zariadenie zasiela snímky do automatizovaného informačného systému technických kontrol vozidiel.
+  - 3. Monitorovacie záznamové zariadenie zaznamenáva vstup vozidla na kontrolnú linku, priebeh technickej kontroly vozidla na kontrolnej linke a výstup vozidla z kontrolnej linky. Ak sa vykonáva kontrola vozidla, ktoré nemožno kontrolovať na kontrolnej linke, zaznamenáva monitorovacie záznamové zariadenie začiatok vykonávania kontrolných úkonov na vozidle a ukončenie vykonávania kontrolných úkonov na vozidle. Monitorovacie záznamové zariadenie zasiela snímky do automatizovaného informačného systému technických kontrol vozidiel.
 
   - 4. Zaznamenávanie vstupu vozidla na kontrolnú linku musí byť zabezpečené takto:
 
@@ -62,10 +64,28 @@ Príloha č. 3a k vyhláške č. 578/2006 Z. z.
 
     - d) evidenčné číslo vozidla musí byť možné automaticky previesť do textového reťazca a ten následne odoslať do automatizovaného informačného systému technických kontrol vozidiel.
 
-  - 7. Zasielanie snímok do automatizovaného informačného systému technických kontrol vozidiel musí byť zabezpečené takto:
+  - 7. Zaznamenávanie začiatku a ukončenia vykonávania kontrolných úkonov na vozidle, ktoré nemožno kontrolovať na kontrolnej linke, musí byť zabezpečené takto:
 
-    - a) snímky podľa bodov 4 a 6 musia byť automaticky zaslané do automatizovaného informačného systému technických kontrol a priradené k záznamu prislúchajúcemu konkrétnej technickej kontrole na základe prečítaného čiarového kódu,
+    - a) monitorovacie záznamové zariadenie musí byť umiestnené tak, aby vyhotovilo snímku vozidla stojaceho na mieste mimo kontrolnej linky určenom na kontrolu stojaceho vozidla,
+
+    - b) snímka podľa písmena a) musí byť vyhotovená v okamihu prečítania čiarového kódu čítačkou čiarového kódu umiestnenou v blízkosti miesta mimo kontrolnej linky určeného na kontrolu stojaceho vozidla; čiarový kód zodpovedajúci konkrétnej technickej kontrole generuje automatizovaný informačný systém technických kontrol vozidiel,
+
+    - c) snímka podľa písmena a) musí umožniť rozpoznanie
+
+      - 1. evidenčného čísla, ak je na vozidle tabuľka s evidenčným číslom,
+
+      - 2. druhu vozidla,
+
+      - 3. farby vozidla,
+
+      - 4. ďalších zjavných rozlišovacích znakov vozidla,
+
+    - d) evidenčné číslo vozidla musí byť možné automaticky previesť do textového reťazca a ten následne odoslať do automatizovaného informačného systému technických kontrol vozidiel.
+
+  - 8. Zasielanie snímok do automatizovaného informačného systému technických kontrol vozidiel musí byť zabezpečené takto:
+
+    - a) snímky podľa bodov 4, 6 a 7 musia byť automaticky zaslané do automatizovaného informačného systému technických kontrol a priradené k záznamu prislúchajúcemu konkrétnej technickej kontrole na základe prečítaného čiarového kódu,
 
     - b) z videozáznamu podľa bodu 5 musia byť automaticky každých 5 minút priebežne vyhotovované snímky; takto vyhotovené snímky musia byť automaticky zaslané do automatizovaného informačného systému technických kontrol vozidiel s priradením k záznamom tých technických kontrol, v ktorých časovom intervale vymedzenom prečítaním čiarového kódu podľa bodu 4 písm. b) a prečítaním čiarového kódu podľa bodu 6 písm. b) bola snímka vytvorená.
 
-  - 8. Snímky po odoslaní do automatizovaného informačného systému technických kontrol vozidiel sú súčasťou tohto systému a uchovávajú sa po dobu platnosti technickej kontroly.
+  - 9. Snímky po odoslaní do automatizovaného informačného systému technických kontrol vozidiel sú súčasťou tohto systému a uchovávajú sa po dobu platnosti technickej kontroly.
