@@ -1,4 +1,4 @@
-- 1) § 1 ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+- 1) § 2 ods. 2 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
 - 2) Dohovor o právnom postavení utečencov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 319/1996 Z. z.).
 
@@ -12,9 +12,9 @@
 
 - 6) Dohovor o právnom postavení utečencov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 319/1996 Z. z.).Dohovor o ochrane ľudských práv a základných slobôd (oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb.).
 
-- 6a) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
+- 6a) Zákon č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
-- 6aa) § 58 ods. 1 a 2 zákona č. 48/2002 Z. z. v znení zákona č. 480/2002 Z. z.,
+- 6aa) § 81 ods. 1, 2 a 4 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.,
 
 - § 65 Trestného zákona,
 
@@ -68,7 +68,7 @@
 
 - 20a) Napríklad zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 221/2006 Z. z. o výkone väzby.
 
-- 21) § 43 ods. 2 druhá veta zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 21) § 83 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 

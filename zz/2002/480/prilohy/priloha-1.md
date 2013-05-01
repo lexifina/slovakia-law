@@ -1,3 +1,3 @@
 Príloha č. 1 k zákonu č. 480/2002 Z. z.
 
-- VYHLÁSENIE CUDZINCA [Vzor 01](../assets/d3ec39c9fee0c9686a707c8a6859d83f8f063c1b5b6286272db41760f484b2d4.pdf)
+- VYHLÁSENIE CUDZINCA [Vzor 01](../assets/56727c4c7145cc43f752e1c97b9aaf0d8b8266286a2a36648c649451d8e939f2.pdf)

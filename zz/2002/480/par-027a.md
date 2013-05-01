@@ -4,7 +4,7 @@
 
 # § 27a
 
-(1) Cudzinec, ktorému sa poskytla doplnková ochrana, považuje sa za cudzinca, ktorému sa udelilo povolenie na prechodný pobyt.
+(1) Cudzinec, ktorému sa poskytla doplnková ochrana, považuje sa za cudzinca, ktorému sa udelil prechodný pobyt; to neplatí, ak má na území Slovenskej republiky udelený trvalý pobyt.<sup>6a</sup>)
 
 (2) Cudzincovi, ktorému sa poskytla doplnková ochrana, vystaví policajný útvar doklad o pobyte podľa osobitného predpisu.<sup>6a</sup>)
 

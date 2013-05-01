@@ -1,3 +1,3 @@
 Príloha č. 2 k zákonu č. 480/2002 Z. z.
 
-- DOTAZNÍK žiadateľa o udelenie azylu [Príloha č. 2 k zákonu č. 480/2002 Z. z.](../assets/db6e4a3bef91609ad5432e727d013aa99e22179dc5b47014aac1bf7da3318f92.pdf)
+- DOTAZNÍK žiadateľa o udelenie azylu [Príloha č. 2 k zákonu č. 480/2002 Z. z.](../assets/01f8931c13d8a192ad1a1b9430eaee869c592feb3511f18d43b8c15d462fc291.pdf)
