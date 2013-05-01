@@ -500,7 +500,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 33 eur
 
-  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 99,50 eura
+  - | 4. osobitnej činnosti podľa § 25 ods. 1 písm. a), b), c), d), g), h) alebo písm. i) zákona č. 404/2011 Z. z. alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 99,50 eura
 
   - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 132,50 eura
 
@@ -518,7 +518,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 16,50 eura
 
-  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 33 eur
+  - | 4. osobitnej činnosti podľa § 25 ods. 1 písm. a), b), c), d), g), h) alebo písm. i) zákona č. 404/2011 Z. z. alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 33 eur
 
   - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 66 eur
 
@@ -526,11 +526,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) | Žiadosť o obnovenie modrej karty Európskej únie | 99,50 eura
 
-  - f) | Vydanie dokladu o pobyte | 4,50 eura
+  - f) | Vydanie |
 
-  - g) | Vydanie dokladu o pobyte ako náhrada za zničený, stratený, odcudzený alebo poškodený doklad | 16,50 eura
+  - | 1. dokladu o pobyte ..... | 4,50 eura
 
-  - h) | Vydanie dokladu o pobyte ako náhrada za zničený, stratený, odcudzený alebo poškodený doklad o pobyte opakovane v priebehu dvoch po sebe nasledujúcich rokoch | 33 eur
+  - | 2. dokladu o pobyte urýchlene do dvoch pracovných dní ..... | 24,50 eura
+
+  - g) | Vydanie dokladu o pobyte |
+
+  - | 1. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad ..... | 16,50 eura
+
+  - | 2. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad do dvoch pracovných dní ..... | 36,50 eura
+
+  - | 3. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov ..... | 33 eur
+
+  - | 4. ako náhrada za stratený, zničený, poškodený alebo odcudzený doklad v priebehu dvoch po sebe nasledujúcich rokov do dvoch pracovných dní ..... | 53 eur
+
+  - h) | Doručenie dokladu o pobyte na adresu na území Slovenskej republiky službou zavedenou na tento účel ..... | 3 eurá
 
   - i) | Žiadosť o udelenie tolerovaného pobytu | 99,50 eura
 
@@ -554,17 +566,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4. Od poplatkov podľa písmen a) a d) tejto položky sú na základe vzájomnosti oslobodení stážisti, ktorým sa poskytuje štipendium Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky alebo štipendium vyplývajúce zo záväzkov z medzinárodných zmlúv, ako aj lektori cudzích jazykov prichádzajúci na školy v Slovenskej republike na základe záväzkov z medzinárodných zmlúv.
 
-  - 5. Od poplatku podľa písmena c) tejto položky sú oslobodené osoby, ktoré požiadali o udelenie trvalého pobytu podľa § 43 ods. 1 písm. a) zákona č. 404/2011 Z. z.
+  - 5. Od poplatku podľa písmena c) tejto položky sú oslobodené osoby podľa § 43 ods. 1 písm. a) zákona č. 404/2011 Z. z.
 
-  - 6. Od poplatku podľa písmena f) sú oslobodené osoby, ktoré žiadajú o vydanie nového dokladu o pobyte, ak záznamy v ňom nezodpovedajú skutočnosti z dôvodu, ktorý nie je závislý od žiadateľa, napríklad pri zmene názvu obce, ulice alebo jej číslovania.
+  - 6. Od poplatku podľa písmena f) prvého bodu tejto položky sú oslobodené osoby, ktoré
 
-  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a b), ods. 2 písm. a) a c) a ods. 3 zákona č. 404/2011 Z. z.
+  - a) žiadajú o vydanie nového dokladu o pobyte, ak záznamy v ňom nezodpovedajú skutočnosti z dôvodu, ktorý nie je závislý od žiadateľa, napríklad pri zmene názvu obce, ulice alebo jej číslovania,
+
+  - b) prvýkrát žiadajú o vydanie dokladu o pobyte ako cudzinci, ktorým bol udelený azyl, alebo cudzinci, ktorým bola poskytnutá doplnková ochrana.
+
+  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a), ods. 2 písm. a) a c) a ods. 3 zákona č. 404/2011 Z. z.
 
   - 8. Od poplatku podľa písmena l) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 2 písm. c) a ods. 3 zákona č. 404/2011 Z. z.
 
   - 9. Od poplatkov podľa písmen l) až n) tejto položky sú oslobodené
 
-  - a) osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a b) a ods. 2 písm. a) zákona č. 404/2011 Z. z.,
+  - a) osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a ods. 2 písm. a) zákona č. 404/2011 Z. z.,
 
   - b) osoby, ktorým má byť cudzinecký pas vydaný podľa § 74 ods. 2 písm. b) a c) zákona č. 404/2011 Z. z.,
 
@@ -597,6 +613,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - Žiadosť o overenie pozvania pre cudzinca na cestu do Slovenskej republiky, za každého cudzinca uvedeného v žiadosti o overenie pozvania ......................................................................................... | 33 eur
 
   - Poznámka Správny orgán poplatok podľa tejto položky nevyberie za pozvanie osoby mladšej ako šestnásť rokov. |
+
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené osoby, ktoré pozývajú na územie Slovenskej republiky štátneho príslušníka tretej krajiny, ktorý bude vykonávať činnosť vyplývajúcu z programov vlády Slovenskej republiky alebo z programov Európskej únie alebo na plnenie záväzku Slovenskej republiky vyplývajúceho z medzinárodnej zmluvy. |
 
     - Položka 28
 
@@ -3164,21 +3182,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 150a
 
-  - a) | Vydanie povolenia na činnosť agentúry podporovaného zamestnávania a agentúry dočasného zamestnávania pre | |
+  - a) | Vydanie povolenia na činnosť agentúry podporovaného zamestnávania pre | |
 
   - | 1. | fyzickú osobu ..... | 50 eur
 
   - | 2. | právnickú osobu ..... | 100 eur
 
-  - b) | Zmena povolenia na činnosť agentúry podporovaného zamestnávania a agentúry dočasného zamestnávania pre | |
+  - b) | Zmena povolenia na činnosť agentúry podporovaného zamestnávania pre | |
 
   - | 1. | fyzickú osobu ..... | 25 eur
 
   - | 2. | právnickú osobu ..... | 50 eur
 
-  - c) | Vyhotovenie duplikátu povolenia na činnosť agentúry podporovaného zamestnávania a agentúry dočasného zamestnávania | | 5 eur
+  - c) | Vyhotovenie duplikátu povolenia na činnosť agentúry podporovaného zamestnávania | | 5 eur
 
   - Poznámka Správny orgán odpustí poplatok podľa písmen a) až c) fyzickej osobe, ktorá je držiteľom preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom, ak uvedenú činnosť bude vykonávať ako osoba samostatne zárobkovo činná a nebude zamestnancom. | | |
+
+  - Položka 150b
+
+  - a) | Vydanie povolenia na činnosť agentúry dočasného zamestnávania pre | |
+
+  - | 1. | fyzickú osobu ..... | 500 eur
+
+  - | 2. | právnickú osobu ..... | 1000 eur
+
+  - b) | Zmena povolenia na činnosť agentúry dočasného zamestnávania pre | |
+
+  - | 1. | fyzickú osobu ..... | 250 eur
+
+  - | 2. | právnickú osobu ..... | 500 eur
+
+  - c) | Vyhotovenie duplikátu povolenia na činnosť agentúry dočasného zamestnávania | | 5 eur
 
     - Položka 151
 
@@ -4712,7 +4746,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. sezónneho zamestnania | 35 eur
 
-  - | 4. osobitnej činnosti alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 100 eur
+  - | 4. osobitnej činnosti podľa § 25 ods. 1 písm. a), b), c), d), g), h) alebo písm. i) zákona č. 404/2011 Z. z. alebo podľa § 30 ods. 1 písm. d) zákona č. 404/2011 Z. z. | 100 eur
 
   - | 5. zlúčenia rodiny alebo podľa § 30 ods. 1 písm. e) zákona č. 404/2011 Z. z. | 135 eur
 
@@ -4858,6 +4892,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) | Osvedčenie správnosti predloženého prekladu, za každú aj začatú stranu ..... | 20 eur
 
+  - Oslobodenie Od poplatku podľa písmena c) tejto položky je oslobodené osvedčenie správnosti prekladu záznamu pohovoru so žiadateľom o udelenie pobytu do štátneho jazyka. | |
+
     - Položka 256
 
   - Vyhotovenie prekladu spisového materiálu |
@@ -4871,6 +4907,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - d) z (do) čínskeho, japonského, kórejského jazyka alebo iných znakových jazykov, za každý slovný znak ..... | 1 euro
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+
+  - Oslobodenie Od poplatku podľa písmena a) tejto položky je oslobodené vyhotovenie prekladu záznamu pohovoru so žiadateľom o udelenie pobytu do štátneho jazyka. |
 
     - Položka 257
 
