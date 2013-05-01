@@ -96,13 +96,27 @@
 
 - 30) § 181 Obchodného zákonníka.
 
-- 30a) § 2 a 3 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
+- 30a) § 68 ods. 9 a 10 Obchodného zákonníka.
+
+- 30b) § 44 a nasl. zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 30c) § 48 a 49 zákona č. 563/2009 Z. z.
+
+- 30d) § 68 a nasl. zákona č. 563/2009 Z. z.
+
+- 30e) § 72 a nasl. zákona č. 563/2009 Z. z.
+
+- 30f) § 2 ods. 1 zákona č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení neskorších predpisov.
+
+- 30g) § 2 a 3 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 32) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
 
 - 32a) Zákon č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov.
+
+- 32aa) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
 - 33) § 15 ods. 3 písm. a) zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
 
