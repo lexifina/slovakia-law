@@ -24,17 +24,29 @@
 
 - 11) § 151a až 151m Občianskeho zákonníka.
 
+- 11a) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
+
+- 11b) Čl. 1 ods. 2 a 3 nariadenia (ES) č. 800/2008.
+
 - 12) § 66a Obchodného zákonníka.
-
-- 13) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
-
-- 13a) Čl. 1 ods. 2 a 3 nariadenia (ES) č. 800/2008.
 
 - 14) Príloha I nariadenia (ES) č. 800/2008.
 
 - 15) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16a) Čl. 8 nariadenia (ES) č. 800/2008.
+- 15a) § 2 ods. 1 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 466/2005 Z. z.
+
+- 16) § 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 16a) § 12 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 16b) § 15 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 16c) Napríklad § 6 ods. 14 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 16d) § 9 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+
+- 16e) Čl. 8 nariadenia (ES) č. 800/2008.
 
 - 17) § 6 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -42,9 +54,11 @@
 
 - 19) § 3 ods. 3 a 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 20) § 30a zákona č. 595/2003 Z. z. v znení zákona č. 561/2007 Z. z.
+- 20) § 30a zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - § 53d zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
+- Nariadenie (ES) č. 800/2008.
 
 - 20a) Čl. 2 bod 12 nariadenia (ES) č. 800/2008.
 
@@ -56,11 +70,7 @@
 
 - 24) Čl. 107 ods. 3 písm. a) a čl. 108 ods. 3 Zmluvy o fungovaní Európskej únie.
 
-- 25) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
-- Zákon č. 5/2004 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 25) Napríklad zákon č. 231/1999 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 523/2004 Z. z. v znení neskorších predpisov, zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 

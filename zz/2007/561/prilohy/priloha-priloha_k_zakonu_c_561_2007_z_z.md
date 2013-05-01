@@ -4,7 +4,7 @@ Príloha k zákonu č. 561/2007 Z. z.
 
   - 1. Údaje o žiadateľovi investičnej pomoci:
 
-    - a) obrat za posledné tri finančné roky (mil. Sk) (na prepočet sa použije kurz platný k 1. januáru roku, v ktorom je predkladaný investičný zámer) v členení:
+    - a) obrat za posledné tri finančné roky (mil. eur) (na prepočet sa použije kurz platný k 1. januáru roku, v ktorom je predkladaný investičný zámer) v členení:
 
       - 1. Slovenská republika,
 
@@ -12,17 +12,17 @@ Príloha k zákonu č. 561/2007 Z. z.
 
       - 3. ostatné štáty,
 
-    - b) čistý prevádzkový príjem, rentabilita použitého kapitálu a disponibilný cash flow za posledné tri finančné roky (mil. Sk) v členení ako v písmene a),
+    - b) čistý prevádzkový príjem, rentabilita použitého kapitálu a disponibilný cash flow za posledné tri finančné roky (mil. eur) v členení ako v písmene a),
 
     - c) počet zamestnancov za posledné tri roky v členení ako v písmene a),
 
-    - d) objem predaných výrobkov (služieb) za posledné tri finančné roky (mil. Sk) v členení ako v písmene a),
+    - d) objem predaných výrobkov (služieb) za posledné tri finančné roky (mil. eur) v členení ako v písmene a),
 
     - e) vklady jednotlivých osôb do základného imania väčšie ako 10 % z celkového imania alebo vlastníctvo (držba) akcií vo vyššom podiele ako 10 % všetkých akcií, ekonomické a personálne prepojenie týchto osôb uviesť v komentári,
 
     - f) v prípade členstva v skupine ekonomicky a personálne prepojených spoločností tiež konsolidované údaje podľa písmen a), b), c) a d) za celú skupinu.
 
-  - 2. Plánovaný zdroj financovania celkových nákladov na investičný zámer s výhľadom na päť rokov v členení:
+  - 2. Plánovaný zdroj financovania celkových nákladov na investičný zámer s výhľadom na desať rokov v členení:
 
     - a) vlastné finančné prostriedky,
 
@@ -46,9 +46,9 @@ Príloha k zákonu č. 561/2007 Z. z.
 
     - b) oprávnenie potrebné na túto činnosť.
 
-  - 4. Predpokladaný hospodársky výsledok (pred zdanením) s výhľadom na päť rokov (mil. Sk).
+  - 4. Predpokladaný hospodársky výsledok (pred zdanením) s výhľadom na desať rokov (mil. eur).
 
-  - 5. Predpokladané ročné príjmy z predaja s výhľadom na päť rokov po začatí výroby (služieb) (mil. Sk).
+  - 5. Predpokladané ročné príjmy z predaja s výhľadom na desať rokov po začatí výroby (služieb) (mil. eur).
 
   - 6. Predbežné požiadavky na dodávky tovarov a služieb počas (pri) výstavby, počas skúšobnej prevádzky, počas hromadnej výroby.
 
