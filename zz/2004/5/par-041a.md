@@ -1,3 +1,3 @@
-# § 41a Evidencia zamestnávania niektorých skupín zamestnancov
+# § 41a Evidencia zamestnávania občanov členských štátov Európskej únie a štátnych príslušníkov tretích krajín
 
-Evidencia údajov o zamestnávaní občana členského štátu Európskej únie a jeho rodinných príslušníkov a evidencia údajov o zamestnávaní štátneho príslušníka tretej krajiny obsahuje najmä meno, priezvisko, dátum narodenia, pohlavie, ukončené vzdelanie, štátnu príslušnosť, odvetvie, druh vykonávanej práce a miesto výkonu práce.
+Evidencia zamestnávania občanov členských štátov Európskej únie a ich rodinných príslušníkov a štátnych príslušníkov tretích krajín a ich rodinných príslušníkov obsahuje osobné údaje občanov členských štátov Európskej únie a ich rodinných príslušníkov a štátnych príslušníkov tretích krajín a ich rodinných príslušníkov v rozsahu ustanovenom v prílohe č. 1 písm. D.

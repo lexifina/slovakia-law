@@ -1,4 +1,4 @@
-## Podpora zamestnávania znevýhodneného uchádzača o zamestnanie v sociálnom podniku
+## Integrácia znevýhodnených uchádzačov o zamestnanie v sociálnom podniku
 
 # § 50b
 
@@ -16,7 +16,7 @@
 
 (3) Fyzickej osobe môže byť priznané postavenie sociálneho podniku, ak je bezúhonná. U právnickej osoby musí podmienku bezúhonnosti spĺňať osoba, ktorá koná v mene právnickej osoby; bezúhonnosť na účely tohto zákona sa preukazuje výpisom z registra trestov<sup>32</sup>) nie starším ako tri mesiace.
 
-(4) Postavenie sociálneho podniku prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odsekoch 1 a 3. Postavenie sociálneho podniku je možné priznať aj chránenej dielni alebo chránenému pracovisku za podmienok ustanovených v predchádzajúcej vete.
+(4) Postavenie sociálneho podniku prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Postavenie sociálneho podniku je možné priznať aj chránenej dielni alebo chránenému pracovisku za podmienok ustanovených v predchádzajúcej vete. Ústredie neprizná postavenie sociálneho podniku právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
 
 (5) Ústredie prizná postavenie sociálneho podniku na dobu neurčitú. Na základe písomnej žiadosti sociálneho podniku alebo písomného návrhu úradu ústredie rozhodnutie o priznaní postavenia sociálneho podniku zmení, pozastaví alebo zruší, alebo vydá duplikát rozhodnutia. Duplikát vydá ústredie pri strate, odcudzení, znehodnotení rozhodnutia o priznaní postavenia sociálneho podniku alebo pri strate rozhodnutia o zmene, pozastavení alebo zrušení postavenia sociálneho podniku.
 
@@ -32,7 +32,7 @@
 
 - a) podnikateľský plán vrátane kalkulácie predpokladaných príjmov, výdavkov a zisku pred rozdelením,
 
-- b) dokumenty a doklady preukazujúce plnenie podmienok podľa odsekov 1 a 3,
+- b) dokumenty a doklady preukazujúce plnenie podmienok podľa odseku 1 písm. a) až c) a odseku 3,
 
 - c) výpis z obchodného registra alebo iný doklad oprávňujúci na podnikanie a na vykonávanie predmetu činnosti,
 

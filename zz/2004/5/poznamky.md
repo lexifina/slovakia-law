@@ -16,27 +16,27 @@
 
 - 8) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
-- 9) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
+- 9) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 10) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 10) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a o Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z., zákon Národnej rady Slovenskej republiky č. 200/1994 Z. z. o Komore reštaurátorov a o výkone reštaurátorskej činnosti jej členov v znení zákona č. 136/2010 Z. z., zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 344/2004 Z. z. o patentových zástupcoch, o zmene zákona č. 444/2002 Z. z. o dizajnoch a zákona č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z. a zákona č. 14/2004 Z. z. v znení neskorších predpisov, zákon č. 442/2004 Z. z. o súkromných veterinárnych lekároch, o Komore veterinárnych lekárov Slovenskej republiky a o zmene a doplnení zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
-- 11) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 11) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
-- 12) Napríklad zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 12) Deviata časť zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- 13) § 76 až 153 Obchodného zákonníka.
+- 13) Napríklad Občiansky zákonník, Obchodný zákonník.
 
-- 13a) Napríklad Obchodný zákonník, Občiansky zákonník.
+- 13a) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13aa) § 44 ods. 3 písm. a) a b), § 56 a 103 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.§ 75 a 75a Občianskeho súdneho poriadku.
+- 13b) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
-- 13ab) § 49 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+- 13c) § 16 ods. 4 písm. b) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-- 13b) § 2 písm. d) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov.
+- 13d) § 2 písm. b) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 692/2006 Z. z.
 
-- 13c) § 63 ods. 1 písm. a) až c) zákona č. 311/2001 Z. z. v znení zákona č. 348/2007 Z. z.
+- 13e) § 2 písm. c) zákona č. 480/2002 Z. z. v znení zákona č. 692/2006 Z. z.
 
-- 13d) § 31 a 32 Trestného zákona.
+- 13f) § 19 zákona č. 245/2008 Z. z. v znení zákona č. 324/2012 Z. z.
 
 - 14) § 71 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 310/2006 Z. z.
 
@@ -58,6 +58,10 @@
 
 - 18b) § 7a ods. 1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
+- 18c) § 66 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- § 50 zákona č. 400/2009 Z. z.
+
 - 19) § 58 ods. 1 písm. d) zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
 - 19a) § 3 ods. 3 zákona č. 82/2005 Z. z. v znení zákona č. 52/2010 Z. z.
@@ -74,9 +78,9 @@
 
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+- 21a) § 63 ods. 1 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
 
-- 22a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
 - 22b) § 20 ods. 3 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
@@ -88,12 +92,6 @@
 
 - 22f) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
-- 23) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
-
-- 23a) § 43 ods. 8 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
-
-- 24) § 43 ods. 1 písm. f) zákona č. 48/2002 Z. z. v znení neskorších predpisov.
-
 - 24a) § 23 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
 - 24aa) § 38 ods. 1 písm. b) prvý bod zákona č. 48/2002 Z. z. v znení neskorších predpisov.
@@ -103,6 +101,12 @@
 - 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
 
 - 27) § 2 písm. e) zákona č. 480/2002 Z. z.
+
+- 27a) § 59 ods. 4 a 6 zákona č. 404/2011 Z. z.
+
+- 27b) § 58 ods. 2 písm. b) zákona č. 404/2011 Z. z.
+
+- 27c) § 58 ods. 3 zákona č. 404/2011 Z. z.
 
 - 28) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
 
@@ -120,17 +124,25 @@
 
 - 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
+- 33a) § 149 a 239 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
 - 34) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
 
 - 35) § 58 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
+- 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 35b) § 58a zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 35c) § 48 ods. 4 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
 - 36) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
-- 37) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+- 37) Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 38) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- 39) Zákon č. 29/1984 Zb. v znení neskorších predpisov.
+- 39) Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
@@ -140,9 +152,15 @@
 
 - 44) § 8 zákona č. 253/1998 Z. z.
 
-- 45) Napríklad zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení uznesenia Ústavného súdu Slovenskej republiky č. 297/2005 Z. z., zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 45) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 45a) Napríklad zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 45a) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 45b) Napríklad zákon č. 311/2001 Z. z. v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 45c) § 8 ods. 3 písm. a) zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov.
+
+- 45d) § 8 ods. 3 písm. b) zákona č. 568/2009 Z. z.
 
 - 46) Nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
 
@@ -152,29 +170,15 @@
 
 - 46c) § 140 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- 46d) § 6 ods. 3 písm. b) zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov.
-
-- 46e) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 47) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
+- 46d) § 6 ods. 3 písm. b) zákona č. 124/2006 Z. z. v znení zákona č. 470/2011 Z. z.
 
 - 49) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 49a) § 71 a 263 zákona č. 461/2003 Z. z.
 
-- 49b) Nariadenie Komisie (ES) č. 2204/2002 z 5. decembra 2002 o uplatňovaní článkov 87 a 88 Zmluvy o ES o štátnej pomoci pre zamestnanosť (Ú. v. ES L 337/3, 13. 12. 2002).
-
 - 50a) § 63 ods. 1 písm. a) a b) zákona č. 311/2001 Z. z.
 
 - 53) § 20f Občianskeho zákonníka.
-
-- 54) Zákon č. 7/2010 Z. z. o ochrane pred povodňami.
-
-- 55) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
-
-- 56) § 48 ods. 2 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
-
-- 57) § 10 ods. 3 zákona č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 58) Nariadenie (ES) č. 1998/2006.
 
@@ -188,19 +192,19 @@
 
 - 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
 
-- 60) § 27 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
+- 60) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
 
-- 60aa) Čl. 4 ods. 4 písm. b) nariadenia Komisie (ES) č. 2204/2002.
+- 60b) Zákon č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 60ab) § 22 ods. 2 písm. a) a § 29 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- Zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
-- 60ac) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+- Zákon č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- Čl. 2 písm. k) a l) nariadenia Komisie (ES) č. 2204/2002.
+- Zákon č. 346/2005 Z. z. v znení neskorších predpisov.
 
-- 61) Zákon č. 540/2001 Z. z. o štátnej štatistike.
+- 61) Zákon č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
 
 - 61a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
@@ -222,6 +226,10 @@
 
 - 63aa) Čl. 107 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
 
+- 63aaa) Zákon č. 568/2009 Z. z.
+
 - 63ab) Napríklad nariadenie (ES) č. 1998/2006, nariadenie (ES) č. 800/2008.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 65) § 75 zákona č. 311/2001 Z. z. v znení neskorších predpisov.

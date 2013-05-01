@@ -1,42 +1,32 @@
-# § 50j Príspevok na podporu zamestnanosti na realizáciu opatrení na ochranu pred povodňami a na riešenie následkov mimoriadnej situácie
+# § 50j Príspevok na podporu rozvoja miestnej a regionálnej zamestnanosti
 
-(1) Príspevok na podporu zamestnanosti na realizáciu opatrení na ochranu pred povodňami a na riešenie následkov mimoriadnej situácie (ďalej len „príspevok“) sa poskytuje zamestnávateľovi podľa odseku 3, ktorý na vytvorené pracovné miesto prijme do pracovného pomeru uchádzača o zamestnanie vedeného v evidencii uchádzačov o zamestnanie najmenej tri mesiace, ak pracovný pomer je dohodnutý v rozsahu ustanoveného týždenného pracovného času a na druh prác, ktoré súvisia s realizáciou opatrení na ochranu pred povodňami alebo s riešením následkov mimoriadnej situácie. Príspevok sa neposkytuje na zamestnávanie uchádzača o zamestnanie, na ktorého zamestnávanie bol na to isté obdobie poskytnutý príspevok podľa § 50, § 50a, § 50c, § 50d, § 50e, § 50i, § 51a, § 52, § 52a, § 56 a 56a.
+(1) Úrad môže poskytnúť príspevok na podporu rozvoja miestnej a regionálnej zamestnanosti (ďalej len „príspevok“) zamestnávateľovi podľa odseku 2, ktorý na vytvorené pracovné miesto prijme do pracovného pomeru na určitú dobu znevýhodneného uchádzača o zamestnanie podľa § 8 ods. 1 písm. b) a d) vedeného v evidencii uchádzačov o zamestnanie najmenej tri mesiace alebo znevýhodneného uchádzača o zamestnanie podľa § 8 ods. 1 písm. c), ak pracovný pomer je dohodnutý najmenej v rozsahu polovice ustanoveného týždenného pracovného času a ak zamestnávateľ o príspevok písomne požiada. Príspevok sa neposkytuje na zamestnávanie znevýhodneného uchádzača o zamestnanie, na ktorého zamestnávanie bol na to isté obdobie poskytnutý príspevok podľa § 50, § 56a a 60.
 
-(2) Príspevok sa poskytuje na
-
-- a) realizáciu opatrení na ochranu pred povodňami podľa osobitného predpisu,<sup>54</sup>)
-
-- b) riešenie následkov mimoriadnej situácie vyhlásenej podľa osobitného predpisu.<sup>55</sup>)
-
-(3) Na účely poskytovania príspevku sa za zamestnávateľa považuje
+(2) Príspevok možno poskytnúť zamestnávateľovi, ktorým je
 
 - a) obec alebo samosprávny kraj,
 
-- b) právnická osoba, ktorej zakladateľom alebo zriaďovateľom je obec alebo samosprávny kraj,
+- b) právnická osoba, ktorej zakladateľom alebo zriaďovateľom je obec alebo samosprávny kraj.
 
-- c) právnická osoba, ktorá je správcom vodohospodársky významných vodných tokov alebo správcom drobných vodných tokov,<sup>56</sup>) a jej vnútorné organizačné jednotky,<sup>57</sup>)
+(3) Mesačná výška príspevku je 80 % z celkovej ceny práce zamestnanca, najviac 60 % z celkovej ceny práce podľa § 49 ods. 4 vypočítanej z priemernej mzdy zamestnanca v hospodárstve Slovenskej republiky za prvý až tretí štvrťrok kalendárneho roka, ktorý predchádza kalendárnemu roku, v ktorom sa príspevok poskytuje.
 
-- d) právnická osoba, ktorá je správcom odvodňovacích systémov.
+(4) Príspevok sa poskytuje najviac počas deviatich kalendárnych mesiacov bez možnosti jeho opakovaného poskytovania na zamestnávanie toho istého zamestnanca počas obdobia dvoch rokov bezprostredne nasledujúcich po skončení pracovného pomeru podľa odseku 1.
 
-(4) Príspevok sa poskytuje mesačne vo výške 95 % z celkovej ceny práce zamestnanca, najviac vo výške celkovej ceny práce vypočítanej zo sumy dvojnásobku životného minima poskytovaného jednej plnoletej fyzickej osobe podľa osobitného predpisu<sup>46e</sup>) platnej k prvému dňu kalendárneho mesiaca, za ktorý sa príspevok poskytuje. Príspevok sa poskytuje za kalendárne mesiace, počas ktorých sa na vytvorenom pracovnom mieste vykonáva dohodnutý druh prác podľa odseku 8 písm. c). Zamestnávateľovi, ktorým je obec alebo právnická osoba, ktorej zakladateľom alebo zriaďovateľom je obec, ktorý vytvorí pracovné miesto v okrese, v ktorom priemerná miera evidovanej nezamestnanosti vypočítaná z disponibilného počtu uchádzačov o zamestnanie zverejnená ústredím za kalendárny rok, ktorý bezprostredne predchádza kalendárnemu roku, v ktorom sa uzatvára dohoda podľa odseku 8, je vyššia ako 25 %, sa príspevok poskytuje najviac počas šiestich kalendárnych mesiacov.
+(5) Príspevok sa poskytuje na základe písomnej dohody o poskytnutí príspevku uzatvorenej medzi úradom a zamestnávateľom. Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode zamestnávateľ vytvorí pracovné miesto.
 
-(5) Zamestnávateľovi podľa odseku 3 písm. a) sa jednorazovo poskytuje príspevok aj na úhradu časti nákladov na pracovné náradie potrebné na realizáciu opatrení na ochranu pred povodňami alebo na riešenie následkov mimoriadnej situácie vo výške 95 % preukázaných nákladov na pracovné náradie, najviac vo výške 40 eur na jedno vytvorené pracovné miesto.
+(6) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
 
-(6) Zamestnávateľ môže o príspevok z dôvodu riešenia následkov mimoriadnej situácie požiadať najneskôr do šiestich mesiacov od vyhlásenia mimoriadnej situácie.
+(7) Dohoda o poskytnutí príspevku podľa odseku 5 obsahuje
 
-(7) Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode má zamestnávateľ sídlo, ak o tento príspevok zamestnávateľ písomne požiada; zamestnávateľovi podľa odseku 3 písm. d) poskytuje príspevok úrad, v ktorého evidencii uchádzačov o zamestnanie bol vedený zamestnanec prijatý na vytvorené pracovné miesto. Príspevok sa poskytuje na základe uzatvorenej písomnej dohody podľa odseku 8.
+- a) identifikačné údaje účastníkov dohody,
 
-(8) Dohoda podľa odseku 7 obsahuje
+- b) charakteristiku pracovného miesta alebo pracovných miest,
 
-- a) osobné údaje a identifikačné údaje účastníkov dohody,
+- c) počet, profesijnú a kvalifikačnú štruktúru znevýhodnených uchádzačov o zamestnanie podľa odseku 1 prijatých do pracovného pomeru na určitú dobu,
 
-- b) dátum vyhlásenia mimoriadnej situácie, ak sa príspevok poskytuje na riešenie následkov mimoriadnej situácie,
+- d) dátum vzniku pracovného pomeru na určitú dobu a dohodnutú dobu trvania pracovného pomeru na určitú dobu,
 
-- c) počet vytvorených pracovných miest, účel poskytovaného príspevku a dohodnutý druh vykonávaných prác,
-
-- d) dátum vzniku pracovného pomeru,
-
-- e) výšku príspevku,
+- e) maximálnu výšku celkovej ceny práce na každého prijatého znevýhodneného uchádzača o zamestnanie podľa odseku 1,
 
 - f) podmienky a spôsob poskytovania príspevku,
 
@@ -48,12 +38,8 @@
 
 - j) záväzok zamestnávateľa, že do určeného termínu predloží úradu pracovné zmluvy zamestnancov a najneskôr do 30 kalendárnych dní oznámi úradu každé skončenie pracovného pomeru,
 
-- k) záväzok úradu, že bude zamestnávateľovi poskytovať príspevok podľa odseku 4 mesačne, najneskôr do 30 kalendárnych dní odo dňa predloženia dokladov zamestnávateľom,
+- k) záväzok úradu, že bude zamestnávateľovi poskytovať príspevok mesačne, najneskôr do 30 kalendárnych dní odo dňa predloženia dokladov zamestnávateľom,
 
-- l) záväzok úradu, že poskytne príspevok podľa odseku 5 najneskôr do 30 kalendárnych dní odo dňa predloženia dokladov zamestnávateľom podľa odseku 3 písm. a),
+- l) záväzok zamestnávateľa, že oznámi úradu každú zmenu dohodnutých podmienok najneskôr do 30 kalendárnych dní,
 
-- m) záväzok zamestnávateľa, že oznámi úradu každú zmenu dohodnutých podmienok najneskôr do 30 kalendárnych dní,
-
-- n) ďalšie dohodnuté náležitosti.
-
-(9) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
+- m) ďalšie dohodnuté náležitosti.

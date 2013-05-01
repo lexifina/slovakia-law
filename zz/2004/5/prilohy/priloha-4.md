@@ -1,4 +1,4 @@
-Príloha k zákonu č. 5/2004 Z. z.
+Príloha č. 4 k zákonu č. 5/2004 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
