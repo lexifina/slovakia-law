@@ -6,6 +6,8 @@
 
 - 1b) § 13 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
 
+- 1c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 562/2006 z 15. marca 2006, ktorým sa ustanovuje kódex Spoločenstva o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc) (Ú. v. EÚ L 105, 13. 4. 2006) v platnom znení, zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z., Zmluva medzi Slovenskou republikou a Ukrajinou o malom pohraničnom styku (oznámenie č. 441/2008 Z. z.).
+
 - 2) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 2a) Zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
@@ -38,7 +40,7 @@
 
 - 10a) § 742 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 10aa) § 3 ods. 5 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. o pobyte cudzincov na území Slovenskej republiky v znení zákona č. 69/2000 Z. z.
+- 10aa) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10ab) § 12 ods. 2 zákona Národnej rady Slovenskej republiky č. 73/1995 Z. z. v znení zákona č. 69/2000 Z. z.
 
@@ -55,6 +57,10 @@
 - 11bc) Zákon č. 428/2002 Z. z. v znení zákona č. 602/2003 Z. z.
 
 - 11bd) Napríklad Trestný poriadok.
+
+- 11bda) Čl. 7 a príloha I nariadenia (ES) č. 562/2006 v platnom znení.
+
+- 11bdb) § 13 zákona č. 404/2011 Z. z.
 
 - 11be) § 76 ods. 1 písm. g) Občianskeho súdneho poriadku.
 
