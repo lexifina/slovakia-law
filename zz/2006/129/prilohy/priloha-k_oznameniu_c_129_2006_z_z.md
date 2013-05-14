@@ -892,6 +892,10 @@ K oznámeniu č. 129/2006 Z. z.
 
   - 2. „Permanent Secretary“ a „Deputy Permanent Secretary: Ministry of Justice“
 
+    - Nikaragujská republika
+
+    - Ministerstvo zahraničných vecí – Sekcia konzulárnych záležitostí
+
     - Niue (závislé územie Nového Zélandu)
 
   - 1. „Attorney General"
