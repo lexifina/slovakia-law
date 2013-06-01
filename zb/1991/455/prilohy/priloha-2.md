@@ -4,7 +4,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 201 – Výroba kovov a kovových výrobkov | | | |
 
-- 1. | Zlievanie drahých kovov | odborná spôsobilosť podľa § 21 a 22 živnostenského zákona a osvedčenie o splnení ďalších podmienok odbornej spôsobilosti | § 52 ods. 1 zákona č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon) v znení zákona č. 221/2007 Z. z. | I – platí pre odbornú spôsobilosť podľa § 21 a 22 živnostenského zákona
+- 1. | Zlievanie drahých kovov | osvedčenie o odbornej spôsobilosti | § 45 zákona č. 94/2013 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon) a o zmene niektorých zákonov |
 
 - SKUPINA 202 – Výroba strojov a prístrojov všeobecná a pre určité hospodárske odvetvia | | | |
 
