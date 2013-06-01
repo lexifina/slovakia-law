@@ -30,7 +30,11 @@
 
 - 15) Zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
 
-- 16) § 44 ods. 1 zákona č. 49/2002 Z. z. v znení zákona č. 208/2009 Z. z.
+- 16) Napríklad § 6 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, § 8 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, § 6 zákona č. 446/2001 Z. z. o majetku vyšších územných celkov v znení neskorších predpisov.
+
+- 16a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+
+- 16b) § 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 17) § 8a ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
