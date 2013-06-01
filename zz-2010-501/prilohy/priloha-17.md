@@ -1,0 +1,3 @@
+Príloha č. 17 k vyhláške č. 501/2010 Z. z.
+
+- OZNÁMENIE O ŠKÔLKACH ALEBO PREVÁDZKOVÝCH ZARIADENIACH [Tlačivo 03](../assets/0c87996e77a119b193017b64da88e25015fd058d1983aa76cf9503a121feebda.pdf)

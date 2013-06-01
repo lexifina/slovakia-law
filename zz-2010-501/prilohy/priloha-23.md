@@ -1,0 +1,3 @@
+Príloha č. 23 k vyhláške č. 501/2010 Z. z.
+
+- ŽIADOSŤ O VYDANIE OSVEDČENIA O ODBORNEJ SPÔSOBILOSTI [Tlačivo 09](../assets/88e7c6117eca5d05a636cc15052f3c1660aa16ad60df4539d2f1279fe494c6d8.pdf)

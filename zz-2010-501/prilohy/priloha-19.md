@@ -1,0 +1,3 @@
+Príloha č. 19 k vyhláške č. 501/2010 Z. z.
+
+- OZNÁMENIE O SKLADOVANOM ZOSTATKU SEMENA A OSIVA [Tlačivo 05](../assets/954517f968a3c1cc370ebd9a7e25e52d16699f75ea6f985f55156756c74f1460.pdf)

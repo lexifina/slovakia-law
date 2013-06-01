@@ -1,0 +1,3 @@
+Príloha č. 24 k vyhláške č. 501/2010 Z. z.
+
+- OSVEDČENIE O ODBORNEJ SPÔSOBILOSTI FYZICKEJ OSOBY [Tlačivo 10](../assets/c6d24f5aba6af17d9da7c504014b6b73f4aa88458ae8a0122136fb6d08114228.pdf)
