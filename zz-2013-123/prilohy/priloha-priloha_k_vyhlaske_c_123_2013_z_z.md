@@ -1,0 +1,1 @@
+Príloha k vyhláške č. 123/2013 Z. z. VZOR PÍSOMNÉHO VYJADRENIA, ČI OSOBA MÔŽE BYŤ UMIESTNENÁ V CELE POLICAJNÉHO ZAISTENIA [Vzor](../assets/71231bcc65bf007ac0ef8834b7de19c385c3e0f79b8d0fafefa014bf89271bdc.pdf)
