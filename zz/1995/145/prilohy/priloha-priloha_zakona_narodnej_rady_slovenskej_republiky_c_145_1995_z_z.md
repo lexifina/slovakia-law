@@ -162,15 +162,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) Výpis zo zoznamu znalcov, tlmočníkov a prekladateľov, za každú stranu ..... | 1,50 eura
 
-  - j) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
+  - j) zápis fyzickej osoby do zoznamu správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 200 eur
 
-  - k) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
+  - k) zápis právnickej osoby do zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 200 eur
 
   - l) ročný poplatok správcu-fyzickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu<sup>10b</sup>) ..... | 165,50 eura
 
   - m) ročný poplatok správcu-právnickej osoby za každý rok trvania zápisu v zozname správcov podľa osobitného predpisu,<sup>10b</sup>) za každého spoločníka ..... | 165,50 eura
 
   - n) výpis zo zoznamu správcov podľa osobitného predpisu,<sup>10b</sup>) za každú stranu ..... | 1,50 eura
+
+  - o) zápis spoločníka do zoznamu správcov, ktorý pristúpil do právnickej osoby zapísanej do zoznamu správcov ..... | 200 eur
+
+  - p) iná zmena údajov zapísaných v zozname správcov ..... | 10 eur
 
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
 
@@ -4312,7 +4316,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 213
 
-  - a) Vydanie rozhodnutia o pridelení výrobnej značky a zodpovednostnej značky na tovar z drahých kovov .......................... | 12 eur
+  - a) Vydanie rozhodnutia o pridelení alebo uznaní zodpovednostnej značky na tovar z drahých kovov..... | 12 eur
 
   - b) Vydanie rozhodnutia o zrušení pridelenej výrobnej značky a zodpovednostnej značky na tovar z drahých kovov ......... | 2 eurá
 
