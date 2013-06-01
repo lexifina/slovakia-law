@@ -56,6 +56,12 @@
 
 - § 66b ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 14b) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 14c) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
+
 - 15) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 16) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
