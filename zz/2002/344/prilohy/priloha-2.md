@@ -696,6 +696,28 @@
 
   - Ministerstvo práce a sociálnych vecí.
 
+  - Lesotho:
+
+  - a) Dohovor pre Lesotho nadobudne platnosť 1. júna 2013.
+
+  - b) Podľa článku 29 dohovoru Lesotho určilo ústredný orgán:
+
+  - Ministry of Justice
+
+  - Human Rights and the Correctional Services.
+
+  - Ruská federácia:
+
+  - a) Dohovor pre Ruskú federáciu nadobudne platnosť 1. júna 2013.
+
+  - b) Listina o prístupe Ruskej federácie obsahuje tieto vyhlásenia a výhrady:
+
+  - Podľa článku 54 ods. 2 a článku 60 ods. 1 dohovoru Ruská federácia vylučuje použitie francúzskeho jazyka.
+
+  - Podľa článku 55 ods. 1 a článku 60 ods. 1 dohovoru si Ruská federácia vyhradzuje právomoc svojich orgánov na prijímanie opatrení na ochranu nehnuteľného majetku dieťaťa, ktorý sa nachádza na jej území, a vyhradzuje si právo neuznať rodičovské právo alebo povinnosť, alebo opatrenie v rozsahu, v akom je nezlučiteľné s opatrením prijatým jej orgánmi vo vzťahu k takému majetku.
+
+  - Podľa článku 34 ods. 2 dohovoru Ruská federácia vyhlasuje, že žiadosti podľa odseku 1 tohto článku sa smú zasielať iba prostredníctvom ústredného orgánu.
+
   - Veľká Británia:
 
   - a) Dohovor pre Veľkú Britániu nadobudne platnosť 1. novembra 2012. Platnosť dohovoru bola rozšírená aj na Gibraltár.
