@@ -1,12 +1,16 @@
 - 1) § 35 až 37b zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, § 30 až 55 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 99/2008 Z. z.
+- 1a) § 16 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
+
+- § 6 ods. 1 písm. r) zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 342/2011 Z. z.
+
+- 2) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 442/2004 Z. z. o súkromných veterinárnych lekároch, o Komore veterinárnych lekárov Slovenskej republiky a o zmene a doplnení zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov, zákon č. 39/2007 Z. z. v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov, zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 5) Napríklad § 2 ods. 2 až 8 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 50 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov, zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+- 5) Napríklad zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Tretia časť zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
-- 6) Napríklad zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov, zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov.
+- 6) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 317/2012 Z. z.
 
 - 7) Čl. 49 a 50 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002 ) v platnom znení.
 
@@ -20,8 +24,6 @@
 
 - 12) § 33 zákona č. 578/2004 Z. z. v znení neskorších predpisov, § 109a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 13) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov.
-
 - 14) Napríklad zákon č. 124/2006 Z. z.
 
 - 15) Napríklad § 5 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
@@ -34,9 +36,13 @@
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 18) Napríklad zákon č. 39/2007 Z. z., zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+- 17a) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 442/2004 Z. z. v znení neskorších predpisov, zákon č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 18) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov v znení neskorších predpisov, zákon č. 586/2003 Z. z. v znení neskorších predpisov, zákon č. 540/2007 Z. z. v znení neskorších predpisov.
 
 - 19) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 20) § 75 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 1) Írski štátni príslušníci sú taktiež členovia nasledujúcich orgánov Spojeného kráľovstva: Institute of Chartered Accountants in England and Wales (Inštitút prísažných účtovných znalcov v Anglicku a vo Walese), Institute of Chartered Accountants of Scotland (Inštitút prísažných účtovných znalcov v Škótsku), Institute of Actuaries (Inštitút poistných technikov), Faculty of Actuaries (Fakulta poistných technikov), Chartered Institute of Management Accountants (Výsadný inštitút prevádzkových účtovníkov), Institute of Chartered Secretaries and Administrators (Inštitút prísažných tajomníkov a administrátorov), Royal Town Planning Institute (Kráľovský inštitút plánovania miest), Royal Institution of Chartered Surveyors (Kráľovská inštitúcia prísažných topografov), Chartered Institute of Building (Výsadný inštitút stavebníctva).
 

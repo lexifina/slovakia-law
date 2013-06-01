@@ -1,6 +1,6 @@
 Príloha č. 3 k zákonu č. 293/2007 Z. z. v znení zákona č. 560/2008 Z. z.
 
-- ZOZNAM ŠTUDIJNÝCH ODBOROV S OSOBITNOU ŠTRUKTÚROU k § 2 písm. h) bodu 1 a § 12 ods. 2
+- ZOZNAM ŠTUDIJNÝCH ODBOROV S OSOBITNOU ŠTRUKTÚROU k § 2 písm. i) a § 12 ods. 3
 
   - 1. Vzdelávanie zdravotníckych pracovníkov a odborná príprava v oblasti starostlivosti o dieťa
 

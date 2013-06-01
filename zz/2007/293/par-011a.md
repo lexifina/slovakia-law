@@ -1,0 +1,17 @@
+# § 11a Uznávanie vysokoškolského vzdelania druhého stupňa
+
+(1) Ak sa na výkon regulovaného povolania vyžaduje vysokoškolské vzdelanie druhého stupňa, žiadateľ spĺňa ustanovené kvalifikačné predpoklady, ak je držiteľom vysokoškolského diplomu podľa § 2 písm. h) druhého bodu, ktorý potvrdzuje, že
+
+- a) žiadateľ absolvoval vzdelávanie vyžadované na výkon príslušného povolania v štáte pôvodu a
+
+- b) po porovnaní obsahu a rozsahu absolvovaného vzdelávania žiadateľa je aspoň rovnocenné obsahu a rozsahu vzdelávania, ktoré sa vyžaduje v Slovenskej republike.
+
+(2) Žiadateľ spĺňa kvalifikačný predpoklad vysokoškolského vzdelania druhého stupňa na výkon regulovaného povolania aj vtedy, ak
+
+- a) vykonával regulované povolanie v pracovnom pomere alebo v obdobnom pracovnom vzťahu počas dvoch rokov v priebehu predchádzajúcich desiatich rokov v členskom štáte, ktorý nereguluje prístup k výkonu tohto povolania,
+
+- b) je držiteľom vysokoškolského diplomu podľa § 2 písm. h) druhého bodu vydaného v štáte, ktorý obsah tohto absolvovaného vzdelávania nereguluje, a
+
+- c) po porovnaní obsahu a rozsahu absolvovaného vzdelávania žiadateľa je aspoň rovnocenné obsahu a rozsahu vzdelávania, ktoré sa vyžaduje v Slovenskej republike, a potvrdzuje, že žiadateľ je pripravený na výkon príslušného regulovaného povolania.
+
+(3) Odborná prax v trvaní dvoch rokov podľa odseku 2 písm. a) sa nevyžaduje od žiadateľa, ktorý absolvoval regulované vzdelávanie.

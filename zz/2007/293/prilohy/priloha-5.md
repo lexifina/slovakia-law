@@ -1,6 +1,6 @@
 Príloha č. 5 k zákonu č. 293/2007 Z. z. v znení zákona č. 560/2008 Z. z.
 
-- ZOZNAM ŠTUDIJNÝCH ODBOROV S OSOBITNOU ŠTRUKTÚROU k § 12 ods. 1 písm. b) bodu 1b a § 12 ods. 2 V Spojenom kráľovstve:
+- ZOZNAM ŠTUDIJNÝCH ODBOROV S OSOBITNOU ŠTRUKTÚROU k § 12 ods. 4 V Spojenom kráľovstve:
 
   - Regulované štúdium vedúce k akreditovaným štátnym odborným kvalifikáciám (NVQs), alebo v Škótsku k akreditovaným škótskym odborným kvalifikáciám, na úrovni 3 a 4 štátnej štruktúry odborných kvalifikácií vo Veľkej Británii.
 
