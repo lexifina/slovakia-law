@@ -22,9 +22,7 @@
 
 - 12) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 13) § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- § 6 ods. 10, 11 a 12 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z.
+- 13) Napríklad § 7 ods. 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z., § 23 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 14) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -130,9 +128,7 @@
 
 - 53a) Napríklad zákon č. 381/2001 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. v znení neskorších predpisov, zákon č. 297/2008 Z. z. v znení zákona č. 445/2008 Z. z.
 
-- 54) § 5 písm. p) zákona č. 483/2001 Z. z. v znení zákona č. 644/2006 Z. z.
-
-- 55) § 6 ods. 17 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 55) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
 
 - 56) § 25 ods. 7 zákona č. 483/2001 Z. z.
 
@@ -154,7 +150,9 @@
 
 - 59) Zákon č. 381/2001 Z. z. v znení neskorších predpisov.
 
-- 59a) § 10 ods. 5 zákona č. 747/2004 Z. z.
+- 59a) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 59b) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 60) Napríklad Obchodný zákonník v znení neskorších predpisov.
 
