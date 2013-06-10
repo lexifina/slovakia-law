@@ -6,7 +6,7 @@
 
 (3) Spolupráca a výmena informácií podľa odsekov 1 a 2 sa týka najmä
 
-- a) štruktúry finančného konglomerátu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
+- a) právnej, riadiacej a organizačnej štruktúry finančného konglomerátu vrátane všetkých regulovaných osôb a neregulovaných osôb, neregulovaných dcérskych spoločností a významných pobočiek patriacich do tohto finančného konglomerátu a osôb s kvalifikovanou účasťou na osobe, ktorá ovláda finančný konglomerát a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
 
 - b) stratégie a zamerania finančného konglomerátu,
 
@@ -18,13 +18,13 @@
 
 - f) postupov zberu informácií od osôb, ktoré sú súčasťou finančného konglomerátu, a preverovania týchto informácií,
 
-- g) nepriaznivého vývoja v regulovaných osobách alebo v iných osobách vo finančnom konglomeráte, ktorý by mohol mať vážny negatívny vplyv na banku alebo inštitúciu elektronických peňazí,
+- g) nepriaznivého vývoja v regulovaných osobách alebo v iných osobách vo finančnom konglomeráte, ktorý by mohol mať vážny negatívny vplyv na banku,
 
 - h) závažných sankcií a mimoriadnych opatrení prijatých Národnou bankou Slovenska, príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 
 (4) Národná banka Slovenska je povinná prerokovať s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
 
-- a) vydanie rozhodnutia o predchádzajúcom súhlase podľa § 28 ods. 1 písm. a) a b) a § 9 ods. 4, ak by zmeny v akcionárskej štruktúre alebo zmeny v orgánoch banky a inštitúcie elektronických peňazí ovplyvnili výkon doplňujúceho dohľadu,
+- a) vydanie rozhodnutia o predchádzajúcom súhlase podľa § 28 ods. 1 písm. a) a b) a § 9 ods. 4, ak by zmeny v akcionárskej štruktúre alebo zmeny v orgánoch banky ovplyvnili výkon doplňujúceho dohľadu,
 
 - b) uloženie sankcií alebo prijatie opatrení voči regulovaným osobám vo finančnom konglomeráte, ktoré by mohli mať vplyv aj na regulované osoby podliehajúce doplňujúcemu dohľadu vykonávanému príslušným orgánom dohľadu členských štátov, ktorý zodpovedá za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu.
 

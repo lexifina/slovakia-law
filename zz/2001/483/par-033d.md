@@ -24,7 +24,7 @@
 
 - d) povoľuje metodiku používanú bankou na rôzne činnosti, zemepisné oblasti a právne poriadky pri kombinácii pokročilého prístupu merania s inými prístupmi.
 
-(9) Ak materská banka v Európskej únii a jej dcérske spoločnosti alebo materská finančná holdingová spoločnosť v Európskej únii a jej dcérske spoločnosti majú v úmysle používať pokročilý prístup merania operačného rizika, Národná banka Slovenska úzko spolupracuje s inými príslušnými orgánmi dohľadu podľa § 47 až 48.
+(9) Ak materská banka v Európskej únii a jej dcérske spoločnosti alebo materská finančná holdingová spoločnosť v Európskej únii a jej dcérske spoločnosti alebo materská zmiešaná finančná holdingová spoločnosť v Európskej únii a jej dcérske spoločnosti majú v úmysle používať pokročilý prístup merania operačného rizika, Národná banka Slovenska úzko spolupracuje s inými príslušnými orgánmi dohľadu podľa § 47 až 48.
 
 (10) Opatrením,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia
 

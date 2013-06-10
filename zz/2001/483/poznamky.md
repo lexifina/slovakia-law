@@ -82,11 +82,13 @@
 
 - 24) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 24a) § 8 písm.b) zákona č. 566/2001 Z. z.§ 6 ods. 11 a 12 zákona č. 594/2003 Z. z.
-
-- § 3 písm. a) zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 24a) Napríklad § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 24aa) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
+
+- 24ab) Napríklad § 14 až 17 a § 20 zákona č. 530/1990 Zb. v znení neskorších predpisov, § 73j ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 24ac) Napríklad § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
@@ -154,9 +156,7 @@
 
 - Zákon č. 129/2010 Z. z.
 
-- 33) § 6 ods. 1, § 13 a § 23 ods. 1 zákona č. 510/2002 Z. z.
-
-- § 273 ods. 1 Obchodného zákonníka.
+- 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - 34) § 21 zákona č. 431/2002 Z. z. o účtovníctve.
 
@@ -165,6 +165,14 @@
 - 35a) § 2 zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 35c) § 2 ods. 1 písm. d) a ods. 9 zákona č. 492/2009 Z. z.
+
+- 35d) § 77 ods. 7 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- § 35 ods. 2 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Národnej banky Slovenska z 22. novembra 2011 č. 17/2011 o predkladaní výkazov bankami, pobočkami zahraničných bánk, obchodníkmi s cennými papiermi a pobočkami zahraničných obchodníkov s cennými papiermi na štatistické účely (oznámenie č. 24/2012 Z. z.).
 
 - 36) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -196,7 +204,7 @@
 
 - 45) § 36 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
-- 45a) § 49 ods. 5 písm. c) zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 45a) § 2 zákona č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 45aa) Čl. 18 nariadenia (EÚ) č. 1093/2010.
 
@@ -209,6 +217,8 @@
 - Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - Čl. 54 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 45ae) § 49 ods. 5 písm. c) zákona č. 8/2008 Z. z.
 
 - 45b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -233,6 +243,8 @@
 - 48) § 178 ods. 3 a 4 a § 187 písm. e) Obchodného zákonníka.
 
 - 48a) § 10 ods. 5 zákona č. 747/2004 Z. z.
+
+- 48aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -308,6 +320,12 @@
 
 - 72a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 72b) Napríklad § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 72c) Napríklad § 2 ods. 3 a § 53 ods. 1 a 4 Občianskeho zákonníka, § 87 písm. f) a § 88 ods. 2 Občianskeho súdneho poriadku, čl. 6 a 19 nariadenia Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) (Ú. v. EÚ L 177, 4. 7. 2008) v platnom znení.
+
+- 72d) § 2 písm. m) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
+
 - 73) Zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 693/2006 Z. z.
 
 - Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov.
@@ -365,6 +383,12 @@
 - 86c) § 6 až 13 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
 - 86d) § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
+
+- 86da) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
+- 86db) § 11 ods. 2 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
+
+- § 5 ods. 3 písm. h), i) a l) zákona č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení zákona č. 441/2012 Z. z.
 
 - 86e) Zákon č. 126/2011 Z. z.
 
