@@ -66,6 +66,16 @@
 
 - 45) Obchodný zákonník.
 
+- 45a) § 7 a 8 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 45b) § 1 ods. 1 písm. c) zákona č. 186/2009 Z. z.
+
+- 45c) § 5 ods. 3 zákona č. 186/2009 Z. z.
+
+- 45d) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z.
+
+- 45e) § 22 zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z.
+
 - 46) § 8 písm. f) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
 - 47) § 9 ods. 3 Zákonníka práce.
