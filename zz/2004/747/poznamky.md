@@ -34,6 +34,8 @@
 
 - Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L. 302, 17. 11. 2009), nariadenie Európskeho parlamentu a Rady (ES) č. 924/2009 zo 16. septembra 2009 o cezhraničných platbách v Spoločenstve, ktorým sa zrušuje nariadenie (ES) č. 2560/2001 (Ú. v. EÚ L 266, 9. 10. 2009).
 
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012).
+
 - 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
 
 - 1b) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1092/2010 z 24. novembra 2010 o makroprudenciálnom dohľade Európskej únie nad finančným systémom a o zriadení Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010), nariadenie Rady (EÚ) č. 1096/2010 zo 17. novembra 2010, ktorým sa Európskej centrálnej banke udeľujú osobitné úlohy týkajúce sa fungovania Európskeho výboru pre systémové riziká (Ú. v. EÚ L 331, 15. 12. 2010).
@@ -47,6 +49,12 @@
 - 5) § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 6) § 9 ods. 3 Zákonníka práce.
+
+- 6a) Čl. 16 nariadenia (EÚ) č. 1093/2010.
+
+- Čl. 16 nariadenia (EÚ) č. 1094/2010.
+
+- Čl. 16 nariadenia (EÚ) č. 1095/2010.
 
 - 7) § 2, 3, 29 a 39 ods. 1 a § 73a až 73k zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
@@ -78,6 +86,10 @@
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- § 27 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- § 9 zákona č. 266/2005 Z. z.
+
 - 22) Čl. 21 Ústavy Slovenskej republiky.
 
 - 23) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov, § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 91 až 93a zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 17 až 20 Obchodného zákonníka.
@@ -93,6 +105,8 @@
 - 26a) § 6 ods. 3 druhá veta zákona č. 381/2001 Z. z. v znení neskorších predpisov.
 
 - 27) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
+
+- 27a) Napríklad § 33 ods. 1, § 33c ods. 1, § 33d ods. 5 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 28) Napríklad § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 147 až 155 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 109 a 110 zákona č. 594/2003 Z. z., § 51 až 59 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
 
@@ -134,6 +148,8 @@
 
 - 44) § 44 ods. 1 písm. a) a § 125 zákona č. 594/2003 Z. z.
 
+- 44a) Napríklad čl. 12 ods. 2 nariadenia (EÚ) č. 648/2012.
+
 - 45) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 429/2002 Z. z. v znení neskorších predpisov.
@@ -146,9 +162,11 @@
 
 - 49) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 49a) § 248 písm. d) Občianskeho súdneho poriadku.
+- 49a) § 81 ods. 1 písm. b) a § 87 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
-- 49aa) Napríklad § 77 ods. 1 písm. c), § 81 písm. b) a § 87 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
+- 49b) § 63 písm. b) a § 79a zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
+
+- 49c) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 50) § 517 ods. 2 Občianskeho zákonníka.
 
