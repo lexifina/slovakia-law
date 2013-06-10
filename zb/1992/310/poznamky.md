@@ -20,7 +20,7 @@
 
 - § 3 ods. 4 písm. a) prvý a druhý bod zákona č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2001 Z. z.
 
-- 3d) § 116 a 117 Občianskeho zákonníka.
+- 3d) § 2 ods. 1písm. d) a ods. 9 zákona č. 492/2009 Z. z.
 
 - 4) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
