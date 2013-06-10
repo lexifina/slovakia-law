@@ -17,3 +17,9 @@
 - a) na identifikáciu a meranie rizík ovplyvňujúcich plnenie ustanovení o dostatočnej výške vlastných zdrojov na úrovni finančného konglomerátu a hodnotenie ich funkčnosti a účinnosti,
 
 - b) účtovania a poskytovania informácií, ktoré slúžia na zisťovanie, meranie, sledovanie a kontrolu vnútroskupinových obchodov a koncentrácie rizík.
+
+(4) Obchodník s cennými papiermi, ktorý je súčasťou finančného konglomerátu, je povinný na úrovni finančného konglomerátu pravidelne každoročne
+
+- a) poskytovať Národnej banke Slovenska informácie o svojej právnej forme, riadiacej a organizačnej štruktúre, vrátane všetkých ňou regulovaných osôb, neregulovaných dcérskych spoločností a významných pobočiek,
+
+- b) zverejňovať popis svojej právnej formy, riadiacej a organizačnej štruktúry.

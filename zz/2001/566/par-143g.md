@@ -8,7 +8,7 @@
 
 (4) Obchodník s cennými papiermi, ktorý ovláda finančný konglomerát, je povinný polročne, ako aj na žiadosť Národnej banky Slovenska predkladať Národnej banke Slovenska údaje o výške vlastných zdrojov a o výške vlastných zdrojov na úrovni finančného konglomerátu potrebných na splnenie podmienok dostatočnej výšky vlastných zdrojov na úrovni finančného konglomerátu, ktorý podlieha doplňujúcemu dohľadu. Ak finančný konglomerát nie je ovládaný obchodníkom s cennými papiermi, údaje podľa prvej vety je povinná predložiť Národnej banke Slovenska zmiešaná finančná holdingová spoločnosť alebo regulovaná osoba určená Národnou bankou Slovenska po predchádzajúcom vyjadrení regulovaných osôb alebo zmiešaných finančných holdingových spoločností tvoriacich finančný konglomerát.
 
-(5) Do výpočtu dostatočnej výšky vlastných zdrojov na úrovni finančného konglomerátu sa zahŕňajú požiadavky na vlastné zdroje len za právnické osoby podľa § 143b písm. b).
+(5) Do výpočtu dostatočnej výšky vlastných zdrojov na úrovni finančného konglomerátu sa zahŕňajú požiadavky na vlastné zdroje len za právnické osoby podľa § 143b písm. b) a za zmiešanú finančnú holdingovú spoločnosť.
 
 (6) Národná banka Slovenska môže rozhodnúť, že sa do výpočtu požiadaviek na dostatočnú výšku vlastných zdrojov na úrovni finančného konglomerátu podliehajúceho doplňujúcemu dohľadu nezaradí osoba,
 

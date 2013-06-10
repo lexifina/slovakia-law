@@ -26,17 +26,15 @@ Na účely tohto zákona sa rozumie
 
   - 3. podskupina iného finančného konglomerátu, ktorá spĺňa podmienky podľa prvého a druhého bodu,
 
-- b) finančným sektorom sektor, v ktorom pôsobí jedna alebo viaceré z týchto právnických osôb:
+- b) finančným sektorom sektor, v ktorom pôsobí jedna právnická osoba alebo viaceré z týchto právnických osôb:
 
-  - 1. banka, iná právnická osoba ako banka, ktorá v rámci svojho podnikania vykonáva ako svoju rozhodujúcu alebo podstatnú činnosť niektorú z činností uvedených v osobitnom zákone<sup>110a</sup>) alebo ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného zákona,<sup>110b</sup>) ako aj akýkoľvek subjekt so sídlom v zahraničí s obdobným predmetom činnosti alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
+  - 1. banka, iná finančná inštitúcia podľa osobitného zákona<sup>110a</sup>) alebo podnik pomocných bankových služieb; tieto tvoria bankový sektor,
 
-  - 2. poisťovňa, zaisťovňa alebo právnická osoba kontrolujúca finančný konsolidovaný celok podľa osobitného zákona;<sup>23</sup>) tieto tvoria sektor poisťovníctva,
+  - 2. poisťovňa, zaisťovňa<sup>110b</sup>) alebo poisťovacia holdingová spoločnosť podľa osobitného predpisu;<sup>23</sup>) tieto tvoria sektor poisťovníctva,
 
   - 3. obchodník s cennými papiermi alebo iná právnická osoba podľa prvého bodu; tieto tvoria sektor investičných služieb,
 
-  - 4. zmiešaná finančná holdingová spoločnosť,
-
-- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa písmena d),
+- c) skupinou skupina osôb navzájom prepojených vzťahom ovládania podľa písmena d) vrátane podskupiny,
 
 - d) ovládaním sa na účely doplňujúceho dohľadu rozumie vzťah v skupine osôb, v ktorej
 

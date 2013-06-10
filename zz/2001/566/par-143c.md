@@ -6,11 +6,11 @@
 
 - b) finančný konglomerát je ovládaný zmiešanou finančnou holdingovou spoločnosťou, ktorá je materskou spoločnosťou obchodníka s cennými papiermi, a finančný konglomerát netvoria ďalšie regulované osoby,
 
-- c) materskou spoločnosťou obchodníka s cennými papiermi je zmiešaná finančná holdingová spoločnosť a finančný konglomerát tvoria ďalšie regulované osoby so sídlom v členskom štáte a najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb,
+- c) materskou spoločnosťou obchodníka s cennými papiermi je zmiešaná finančná holdingová spoločnosť a finančný konglomerát tvoria aspoň dve regulované osoby so sídlom v členskom štáte a najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb,
 
 - d) finančný konglomerát je ovládaný viac ako jednou zmiešanou finančnou holdingovou spoločnosťou so sídlom v rôznych členských štátoch a v každom z týchto členských štátov má sídlo regulovaná osoba, pričom regulovanou osobou s najvyššími celkovými aktívami vo finančnom konglomeráte je obchodník s cennými papiermi, alebo ak najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb; ak je súčasťou finančného sektora aj zahraničný obchodník s cennými papiermi so sídlom v členskom štáte, na základe dohody Národnej banky Slovenska s príslušným orgánom dohľadu tohto členského štátu,
 
-- e) finančný konglomerát je ovládaný zmiešanou finančnou holdingovou spoločnosťou so sídlom v Slovenskej republike, ktorá je materskou spoločnosťou viac ako jednej regulovanej osoby so sídlom v členskom štáte a žiadnej z týchto regulovaných osôb nebolo udelené povolenie v Slovenskej republike, a najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb,
+- e) finančný konglomerát je ovládaný zmiešanou finančnou holdingovou spoločnosťou so sídlom v Slovenskej republike, ktorá je materskou spoločnosťou aspoň dvoch regulovaných osôb so sídlom v členskom štáte a žiadnej z týchto regulovaných osôb nebolo udelené povolenie v Slovenskej republike, a najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb,
 
 - f) finančný konglomerát nie je ovládaný materskou spoločnosťou alebo je ovládaný inak, ako je uvedené v písmenách a) až e), ak najvýznamnejším finančným sektorom finančného konglomerátu je sektor investičných služieb a regulovanou osobou s najvyššími celkovými aktívami v tomto sektore je obchodník s cennými papiermi.
 

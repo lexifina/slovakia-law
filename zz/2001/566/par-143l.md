@@ -6,7 +6,7 @@
 
 (3) Spolupráca a výmena informácií podľa odsekov 1 a 2 sa týka najmä
 
-- a) štruktúry finančného konglomerátu a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
+- a) právnej, riadiacej a organizačnej štruktúry finančného konglomerátu vrátane všetkých regulovaných osôb a neregulovaných osôb, neregulovaných dcérskych spoločností a významných pobočiek patriacich do tohto finančného konglomerátu a osôb s kvalifikovanou účasťou na osobe, ktorá ovláda finančný konglomerát a príslušných orgánov dohľadu členských štátov, ktoré zodpovedajú za dohľad nad regulovanými osobami tvoriacimi súčasť finančného konglomerátu,
 
 - b) stratégie a zamerania finančného konglomerátu,
 

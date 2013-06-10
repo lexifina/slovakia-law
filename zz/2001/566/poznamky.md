@@ -48,6 +48,8 @@
 
 - 21a) § 85 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
+- 21b) Napríklad § 7 ods. 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z., § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
+
 - 22) § 3 zákona č. 594/2003 Z. z.
 
 - 23) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -424,6 +426,10 @@
 
 - 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
+- 107cb) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012).
+
+- 107cc) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 236/2012 zo 14. marca 2012 o predaji nakrátko a určitých aspektoch swapov na úverové zlyhanie (Ú. v. EÚ L 86, 24. 3. 2012).
+
 - 107d) § 33 zákona č. 428/2002 Z. z.
 
 - 107e) § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
@@ -448,9 +454,9 @@
 
 - 110) § 13 zákona č. 329/2000 Z. z.
 
-- 110a) § 2 ods. 2 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+- 110a) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
 
-- 110b) Napríklad zákon č. 594/2003 Z. z.
+- 110b) § 2 zákona č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 110ba) Čl. 54 nariadenia (EÚ) č. 1095/2010.
 
@@ -486,7 +492,11 @@
 
 - 114aa) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
+- 114ab) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 114b) § 1 až 24, 39a, 39b, § 59 až 64 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 114c) Nariadenie (EÚ) č. 648/2012, nariadenie (EÚ) č. 236/2012.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
 

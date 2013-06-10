@@ -50,7 +50,7 @@
 
 (6) Obchodník s cennými papiermi podľa odseku 5 je povinný zverejňovať informácie ustanovené opatrením Národnej banky Slovenska podľa odseku 4 za svoju významnú dcérsku spoločnosť.
 
-(7) Obchodník s cennými papiermi, ktorý je kontrolovaný materskou finančnou holdingovou spoločnosťou v Európskej únií alebo v ktorom má materská finančná holdingová spoločnosť v Európskej únii majetkovú účasť, má povinnosť poskytnúť súčinnosť pri uverejňovaní informácií podľa odsekov 1 a 2 za konsolidovaný celok tejto finančnej holdingovej spoločnosti.
+(7) Obchodník s cennými papiermi, ktorý je kontrolovaný materskou finančnou holdingovou spoločnosťou v Európskej únií alebo v ktorom má materská finančná holdingová spoločnosť v Európskej únii majetkovú účasť alebo zmiešanou finančnou holdingovou spoločnosťou, má povinnosť poskytnúť súčinnosť pri uverejňovaní informácií podľa odsekov 1 a 2 za konsolidovaný celok tejto finančnej holdingovej spoločnosti.
 
 (8) Obchodník s cennými papiermi podľa odseku 7 je povinný zverejňovať informácie ustanovené opatrením Národnej banky Slovenska podľa odseku 4 aj za konsolidovaný celok.
 
