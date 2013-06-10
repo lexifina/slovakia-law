@@ -18,13 +18,13 @@
 
 - h) verejná vysoká škola,<sup>9</sup>)
 
-- i) vyšší územný celok,
+- i) vyšší územný celok, rozpočtová organizácia vyššieho územného celku a príspevková organizácia vyššieho územného celku,
 
 - j) právnická osoba, v ktorej je zriadená implementačná agentúra pre programy financované z prostriedkov Európskej únie, ktorá nie je klientom uvedeným v písmenách a) až i),
 
 - k) Úrad pre dohľad nad zdravotnou starostlivosťou,<sup>8</sup>)
 
-- l) subjekt verejnej správy neuvedený v písmenách a) až k) na základe písomnej dohody so Štátnou pokladnicou po predchádzajúcom písomnom súhlase ministerstva; ak je týmto subjektom rozpočtová organizácia vyššieho územného celku a príspevková organizácia vyššieho územného celku, dohodu so Štátnou pokladnicou po predchádzajúcom písomnom súhlase ministerstva je možné uzavrieť, len ak tomuto súhlasu predchádza písomný súhlas vyššieho územného celku,
+- l) subjekt verejnej správy neuvedený v písmenách a) až k) na základe písomnej dohody so Štátnou pokladnicou po predchádzajúcom písomnom súhlase ministerstva,
 
 - m) štátny podnik, právnická osoba, v ktorej má štát majetkovú účasť, a právnická osoba zriadená osobitným zákonom,<sup>9a</sup>) ktoré nie sú klientom uvedeným v písmenách a) až l), na základe písomnej dohody so Štátnou pokladnicou uzavretou po predchádzajúcom písomnom súhlase ministerstva,
 

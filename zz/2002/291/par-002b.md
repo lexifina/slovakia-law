@@ -20,7 +20,7 @@
 
 - g) v spolupráci s agentúrou a Štátnou pokladnicou informuje Národnú radu Slovenskej republiky, vládu Slovenskej republiky (ďalej len „vláda”) a verejnosť o výsledkoch systému štátnej pokladnice,
 
-- h) vydáva predchádzajúci písomný súhlas na pripojenie subjektu uvedeného v § 2a ods. 1 písm. l) a m) do systému štátnej pokladnice na základe ich žiadosti predloženej Štátnej pokladnici a určuje podmienky pripojenia a vydáva predchádzajúci písomný súhlas podľa § 7 ods. 4 písm. b),
+- h) vydáva predchádzajúci písomný súhlas na pripojenie subjektu uvedeného v § 2a ods. 1 písm. l) a m) do systému štátnej pokladnice na základe ich žiadosti predloženej Štátnej pokladnici a určuje podmienky pripojenia,
 
 - i) usmerňuje riadenie likvidity Štátnej pokladnice a vykonáva kontrolu riadenia likvidity Štátnej pokladnice,
 
