@@ -36,13 +36,13 @@ K oznámeniu č. 129/2006 Z. z.
 
     - Andorrské kniežatstvo
 
-    - ,El/la ministre/a d’Afers Exteriors i Relacions Institucionals (Le/la Ministre des Affaires étrangères et des Relations institutionnelles)
+  - • El/la ministre/a d´Afers Exteriors
 
-    - El/la director/a general d’Afers Exteriors i Relacions Institucionals (Le/la Directeur/trice général(e) des Affaires étrangères et des Relations institutionnelles)
+  - • El/la coordinador/a d´Afers Bilaterals i Consulars
 
-    - EI/la director/a d’Afers Generals, Bilaterals i Consulars (Le/la Directeur/trice des Affaires générales, bilatérales et consulaires)
+  - • El/la director/a d´Afers Multilaterals i Cooperació
 
-    - EI/la director/a d’Afers Multilaterals i Cooperació (Le/Ia Directeur/trice des Affaires multilatérales et de la coopération)`
+  - • El/la cap de l´Àrea d´Afers Generals i Jurídics
 
     - Antigua a Barbuda
 
