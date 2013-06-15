@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 25/2004 Z. z. [Vzor 01 - Návrh na zápis podnikateľa fyzickej osoby do obchodného registra](../assets/6f71b4c75954459619df2510b4cf46a0a379904eaa31c1fc3e8b66be7f23aa22.pdf)
+Príloha č. 1 k vyhláške č. 25/2004 Z. z. [Vzor 01 - Návrh na zápis podnikateľa fyzickej osoby do obchodného registra](../assets/f87204251252b7d4db0e8fbbdd4e4c0afb20a26b465f299ecc773365a5e9c8e9.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 23 k vyhláške č. 25/2004 Z. z. [Vzor 23 - Návrh na zápis Európskej spoločnosti do obchodného registra](../assets/722b0064e787b5234c5d2f5df78de0d2dfdbb7fac7cae3cafa821edcc566ae75.pdf)
+Príloha č. 23 k vyhláške č. 25/2004 Z. z. [Vzor 23 - Návrh na zápis Európskej spoločnosti do obchodného registra](../assets/8abe8b06707886fb8096e746debae3ed72e63f8fd3bb4b0fea0d13b771c4935d.pdf)

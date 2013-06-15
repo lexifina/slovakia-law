@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 25/2004 Z. z. [Vzor 04 - Návrh na zápis zmeny zapísaných údajov o verejnej obchodnej spoločnosti do obchodného registra](../assets/a07903b435a7e70b4a095dda1ce6fc9b1655ad6ac8774526b21ddc09f94ab303.pdf)
+Príloha č. 4 k vyhláške č. 25/2004 Z. z. [Vzor 04 - Návrh na zápis zmeny zapísaných údajov o verejnej obchodnej spoločnosti do obchodného registra](../assets/25fe25ee5059357ca7fdb66bd345dcfb41e9ccfae158904a75f2429f309071fe.pdf)

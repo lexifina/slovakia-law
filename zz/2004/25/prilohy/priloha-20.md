@@ -1,1 +1,1 @@
-Príloha č. 20 k vyhláške č. 25/2004 Z. z. [Vzor 20 - Návrh na zápis Európskeho zoskupenia hospodárskych záujmov do obchodného registra](../assets/724f5b94475bb0520e9bb53a51844ff33465129dc9ba3d8ed4015f869ce29e72.pdf)
+Príloha č. 20 k vyhláške č. 25/2004 Z. z. [Vzor 20 - Návrh na zápis Európskeho zoskupenia hospodárskych záujmov do obchodného registra](../assets/ad2074fe9a03191b131f357fe631214c8ee26380831f34d5167f27abae803466.pdf)
