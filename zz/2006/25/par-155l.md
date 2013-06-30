@@ -9,3 +9,5 @@
 (4) Konanie o žiadosti o nápravu a konanie o námietkach, ktoré sa vzťahujú na verejné obstarávanie podľa odseku 1, sa vykonajú podľa predpisov účinných do 17. februára 2013.
 
 (5) Za konanie, ku ktorému došlo do 17. februára 2013, je možné uložiť sankciu podľa tohto zákona podľa predpisov účinných do 17. februára 2013.
+
+(14) Vláda vymenuje prvých členov rady menovaných vládou do 1. októbra 2013, pričom dvoch členov rady vymenuje na funkčné obdobie troch rokov, dvoch členov rady na funkčné obdobie štyroch rokov a dvoch členov rady na funkčné obdobie piatich rokov.
