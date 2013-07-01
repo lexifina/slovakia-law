@@ -130,8 +130,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 15 zákona č. 90/1998 Z. z. |
 
-- 60. | Verejné obstarávanie | preukaz o odbornej spôsobilosti | § 126 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 25/2006 Z. z. |
-
 - 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a 5 rokov praxe v odbore | |
 
 - 62. | Bezpečnostnotechnické služby | – oprávnenie alebo – osvedčenie bezpečnostného technika alebo – osvedčenie autorizovaného bezpečnostného technika | § 21, 23, 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
