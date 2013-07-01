@@ -2,6 +2,4 @@
 
 - 2) § 5 ods. 5 zákona č. 437/2004 Z. z.
 
-- 3) § 247 až 250k Občianskeho súdneho poriadku v znení neskorších predpisov.
-
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
