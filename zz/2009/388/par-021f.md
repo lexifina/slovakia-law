@@ -1,4 +1,4 @@
-# § 21e
+# § 21f
 
 (1) Správca výberu mýta môže na základe žiadosti prevádzkovateľa vozidla, splnomocneného zástupcu alebo vodiča vozidla vypočítať a vybrať mýto na základe údajov zistených z technického preukazu alebo osvedčenia o evidencii vozidla, a to za vzdialenosť, ktorá zodpovedá tranzitnému úseku ciest s použitím príslušnej sadzby mýta pre danú kategóriu vozidla, pričom vodič vozidla je v takom prípade oprávnený len na jeden tranzit cez územie Slovenskej republiky po príslušnom tranzitnom úseku ciest počas časovo obmedzeného obdobia určeného správcom výberu mýta (ďalej len „užívanie tranzitného úseku ciest“).
 
