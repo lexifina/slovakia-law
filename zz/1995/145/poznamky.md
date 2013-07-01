@@ -452,9 +452,11 @@
 
 - 42) § 6 ods. 1 písm. d) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
-- 42a) § 7 ods. 3 písm. d) zákona č. 125/2006 Z. z. v znení zákona č. 309/2007 Z. z.
+- 42a) § 7 ods. 3 písm. d) zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 42b) § 6 ods. 1 písm. e) zákona č. 125/2006 Z. z.
+
+- 42c) § 14 ods. 9, § 21 ods. 14 a § 27 ods. 17 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z.Vyhláška Federálneho ministerstva dopravy č. 61/1982 Zb. o určených technických zariadeniach.Vyhláška Federálneho ministerstva dopravy č. 72/1984 Zb. o podmienkach spôsobilosti kontajnerov ISO radu 1 na bezpečnú a plynulú prevádzku.Vyhláška Federálneho ministerstva dopravy č. 8/1987 Zb. o spôsobilosti dovážaných lanových dráh a iných technických zariadení.
 

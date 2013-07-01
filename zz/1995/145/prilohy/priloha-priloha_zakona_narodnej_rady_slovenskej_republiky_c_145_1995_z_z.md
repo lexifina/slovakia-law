@@ -50,6 +50,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - XXII. | Ochrana utajovaných skutočností | 271 a 272
 
+- XXIII. | Ochrana osobných údajov | 273
+
   - SADZOBNÍK SPRÁVNYCH POPLATKOV
 
   - I. ČASŤ VŠEOBECNÁ SPRÁVA
@@ -4132,11 +4134,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Vydanie osvedčenia autorizovaného bezpečnostného technika<sup>42</sup>) | 33 eur
 
-  - e) Vydanie povolenia na výkon ľahkých prác fyzickou osobou podľa osobitného predpisu<sup>42a</sup>) | 20 eur
+  - e) Vydanie preukazu a osvedčenia na vykonávanie činnosti podľa osobitného predpisu<sup>42a)</sup> | 5 eur
 
-  - f) Vydanie rozhodnutia o uznaní odbornej spôsobilosti fyzickej osoby, ktorá je občanom členského štátu Európskej únie<sup>42b</sup>) ..... | 16,50 eur
+  - f) Vydanie povolenia na výkon ľahkých prác fyzickou osobou podľa osobitného predpisu<sup>42a</sup>) | 20 eur
 
-  - g) Rozšírenie oprávnenia podľa písmena c) ..... | 33 eur
+  - g) Vydanie rozhodnutia o uznaní odbornej spôsobilosti fyzickej osoby, ktorá je občanom členského štátu Európskej únie<sup>42b)</sup> ..... | 16,50 eur
+
+  - h) Rozšírenie oprávnenia podľa písmena c) ..... | 33 eur
+
+  - i) Vydanie duplikátu oprávnenia, osvedčenia alebo preukazu podľa písmen a) až e) ..... | 5 eur
+
+  - j) Vydanie nového oprávnenia podľa písmen a) až c) s aktualizovanými údajmi<sup>42c</sup>) ..... | 10 eur
+
+  - Poznámka Pri zmene adresy trvalého pobytu alebo sídla v dôsledku premenovania názvov obcí a ulíc sa poplatok podľa písmena j) nevyberie. |
 
     - Položka 203
 
@@ -5051,3 +5061,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 272
 
   - Vydanie certifikátu typu mechanického zábranného prostriedku a technického zabezpečovacieho prostriedku ..... | 50 eur
+
+  - XXIII. časť OCHRANA OSOBNÝCH ÚDAJOV
+
+    - Položka 273
+
+  - a) | Registrácia informačného systému alebo jej zmena ..... | 20,- eur
+
+  - b) | Osobitná registrácia informačného systému alebo jej zmena ..... | 50,- eur
+
+  - Poznámka: Poplatky podľa tejto položky vyberá Úrad na ochranu osobných údajov Slovenskej republiky. | |
