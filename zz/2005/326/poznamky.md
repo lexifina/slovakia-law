@@ -114,6 +114,8 @@
 
 - 45a) STN 73 6108 Lesná dopravná sieť.
 
+- 45ab) § 2 písm. y) a § 27 ods. 4 zákona č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zákonov.
+
 - 46) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 47) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 666/2004 Z. z., zákon č. 50/1976 Zb. v znení neskorších predpisov.
