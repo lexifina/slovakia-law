@@ -1,0 +1,1 @@
+- 1) Opatrenie Telekomunikačného úradu Slovenskej republiky z 8. decembra 2011 č. O-26/2011 o číslovacom pláne (oznámenie č. 466/2011 Z. z.).
