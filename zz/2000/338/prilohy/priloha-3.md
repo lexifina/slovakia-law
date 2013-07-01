@@ -4,4 +4,4 @@ Príloha č. 3 k zákonu č. 338/2000 Z. z. v znení neskorších predpisov
 
   - Osvedčenie o príslušnosti k plavbe na Rýne
 
-- [Príloha č. 3 k zákonu č. 338/2000 Z. z. v znení neskorších predpisov](../assets/7623e47ccf9fac6b2075d075c7a80a374fb3c73a30d6a37c9329be5bd2e03afb.pdf)
+- [Príloha č. 3 k zákonu č. 338/2000 Z. z. v znení neskorších predpisov](../assets/d25a7442841ebf9a3741cb5fef3a5878f58b636ac1f3b83ea46adb5c3795b4a4.pdf)

@@ -23,3 +23,5 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
   - 10. Smernica Európskeho parlamentu a Rady 2008/68/ES z 24. septembra 2008 o vnútrozemskej preprave nebezpečného tovaru (Ú. v. EÚ L 260, 30. 9. 2008) v znení rozhodnutia Európskej komisie 2009/240/ES zo 4. marca 2009 (Ú. v. EÚ L 71, 17. 3. 2009) a smernice Komisie 2010/61/EÚ z 2. septembra 2010 (Ú. v. EÚ L 233, 3. 9. 2010).
 
   - 11. Smernica Európskeho parlamentu a Rady 2009/30/ES z 23. apríla 2009, ktorou sa mení a dopĺňa smernica 98/70/ES, pokiaľ ide o kvalitu automobilového benzínu, motorovej nafty a plynového oleja a zavedenie mechanizmu na monitorovanie a zníženie emisií skleníkových plynov, a ktorou sa mení a dopĺňa smernica 1999/32/ES, pokiaľ ide o kvalitu paliva využívaného v plavidlách vnútrozemskej vodnej dopravy, a zrušuje smernica 93/12/EHS (Ú. v. EÚ L 140, 5. 6. 2009).
+
+  - 12. Smernica Komisie 2012/45/EÚ z 3. decembra 2012, ktorou sa prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru druhýkrát prispôsobujú vedecko-technickému pokroku (Ú. v. EÚ L 332, 4. 12. 2002).
