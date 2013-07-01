@@ -26,7 +26,7 @@
 
 - 1ia) § 27 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 330/2003 Z. z.
 
-- 1j) § 3 zákona č. 90/1998 Z. z. o stavebných výrobkoch.
+- 1j) Príloha I nariadenia Európskeho parlamentu a Rady (EÚ) č. 305/2011 z 9. marca 2011, ktorým sa ustanovujú harmonizované podmienky uvádzania stavebných výrobkov na trh a ktorým sa zrušuje smernica Rady 89/106/EHS (Ú. v. EÚ L 88, 4. 4. 2011).
 
 - 1k) Zákon č. 90/1998 Z. z.
 
