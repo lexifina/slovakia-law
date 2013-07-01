@@ -4,8 +4,6 @@
 
 - 3) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) § 4 ods. 2 zákona č. 529/2002 Z. z. o obaloch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 8) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 9) § 2 ods. 3 písm. b) a § 14 ods. 4 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení neskorších predpisov.
@@ -39,6 +37,10 @@
 - 22) Zákon č. 313/1999 Z. z. v znení neskorších predpisov.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 23a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23b) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 24) Nariadenie vlády Slovenskej republiky č. 40/2002 Z. z. o ochrane zdravia pred hlukom a vibráciami v znení neskorších predpisov.
 
