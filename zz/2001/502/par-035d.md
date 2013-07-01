@@ -42,7 +42,7 @@
 
 - a) dostaviť sa na prerokovanie predbežnej správy,
 
-- b) zohľadniť odporúčania uvedené v správe z vládneho auditu prijatím opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku, písomne ich oznámiť auditujúcemu orgánu alebo oznámiť dôvody, pre ktoré neboli tieto odporúčania zohľadnené, a to v lehote uvedenej v správe z vládneho auditu,
+- b) zohľadniť odporúčania uvedené v správe z vládneho auditu prijatím opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku, písomne ich oznámiť auditujúcemu orgánu, a to v lehote uvedenej v správe z vládneho auditu,
 
 - c) prijať opatrenia na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku, ku ktorým nie sú v správe z vládneho auditu uvedené odporúčania, a písomne ich oznámiť auditujúcemu orgánu, a to v lehote uvedenej v správe z vládneho auditu,
 

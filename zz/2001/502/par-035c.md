@@ -24,7 +24,7 @@
 
 - a) odborná spôsobilosť,
 
-- b) najmenej tri roky odbornej praxe v oblasti finančnej kontroly, kontroly vykonávanej podľa osobitných predpisov,<sup>4</sup>) vnútorného auditu alebo auditu vykonávaného podľa osobitných predpisov.<sup>4a</sup>)
+- b) najmenej jeden rok odbornej praxe v oblasti následnej finančnej kontroly, kontroly vykonávanej podľa osobitných predpisov,<sup>4</sup>) vnútorného auditu, vládneho auditu alebo auditu vykonávaného podľa osobitných predpisov.<sup>4a</sup>)
 
 (8) Odbornou spôsobilosťou sa na účely tohto zákona rozumie súhrn vedomostí a praktických skúseností potrebných na vykonávanie vládneho auditu. Odborná spôsobilosť sa preukazuje osvedčením o úspešnom vykonaní kvalifikačnej skúšky.
 
