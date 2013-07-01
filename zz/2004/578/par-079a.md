@@ -12,19 +12,17 @@
 
 - b) poskytovať zdravotnej poisťovni, s ktorou má uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti, údaje o jej poistencoch potrebné na určenie indikátorov kvality vo formáte určenom ministerstvom zdravotníctva najneskôr do jedného kalendárneho mesiaca po ukončení časového obdobia, za ktoré budú indikátory kvality hodnotené,
 
-- c) oznamovať k poslednému dňu v kalendárnom mesiaci zdravotnej poisťovni, s ktorou má uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti, vykonané preventívne prehliadky v odbore zubné lekárstvo a preventívne prehliadky v odbore telovýchovné lekárstvo; oznámenie musí mať písomnú formu a musí byť podpísané osobou, ktorej sa preventívna prehliadka poskytla, alebo jej zákonným zástupcom,
+- c) dodržiavať poradie poistencov v zozname poistencov čakajúcich na poskytnutie zdravotnej starostlivosti, ak taký zoznam zdravotná poisťovňa vytvorila,<sup>58a</sup>)
 
-- d) dodržiavať poradie poistencov v zozname poistencov čakajúcich na poskytnutie zdravotnej starostlivosti, ak taký zoznam zdravotná poisťovňa vytvorila,<sup>58a</sup>)
-
-- e) oznamovať príslušnej zdravotnej poisťovni k poslednému dňu v kalendárnom mesiaci na tlačive predpísanom úradom pre dohľad
+- d) oznamovať príslušnej zdravotnej poisťovni k poslednému dňu v kalendárnom mesiaci na tlačive predpísanom úradom pre dohľad
 
   - 1. každé poskytnutie zdravotnej starostlivosti osobe v dôsledku porušenia liečebného režimu<sup>58b</sup>) alebo užitia alkoholu alebo inej návykovej látky,
 
   - 2. úraz alebo iné poškodenie zdravia, v súvislosti s ktorým poskytol osobe zdravotnú starostlivosť, pri dôvodnom podozrení, že k úrazu alebo k inému poškodeniu zdravia došlo zavineným protiprávnym konaním tretej osoby; smrteľné úrazy, ťažké úrazy, hromadné úrazy a choroby z povolania je poskytovateľ povinný oznamovať všetky bez výnimky,
 
-- f) povoliť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) vstup do zdravotníckeho zariadenia, poskytnúť im požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti,
+- e) povoliť osobám oprávneným na výkon kontrolnej činnosti podľa osobitného predpisu<sup>58c</sup>) vstup do zdravotníckeho zariadenia, poskytnúť im požadované informácie a súčinnosť potrebnú na výkon kontrolnej činnosti a zdržať sa konania, ktoré by mohlo mariť výkon kontrolnej činnosti,
 
-- g) pri poskytovaní zdravotnej starostlivosti podávať humánne lieky a používať zdravotnícke pomôcky, ktoré obstarala zdravotná poisťovňa v súlade s osobitným predpisom;<sup>58ca</sup>) táto povinnosť sa nevzťahuje na humánne lieky a zdravotnícke pomôcky, ktorých podanie alebo použitie je z medicínskych dôvodov pre pacienta nevhodné.
+- f) pri poskytovaní zdravotnej starostlivosti podávať humánne lieky a používať zdravotnícke pomôcky, ktoré obstarala zdravotná poisťovňa v súlade s osobitným predpisom;<sup>58ca</sup>) táto povinnosť sa nevzťahuje na humánne lieky a zdravotnícke pomôcky, ktorých podanie alebo použitie je z medicínskych dôvodov pre pacienta nevhodné.
 
 (2) Žiadosť podľa odseku 1 písm. a) musí byť písomná; za jej doručenie sa považuje aj doručenie faxom alebo elektronickou formou.
 

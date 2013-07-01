@@ -6,7 +6,7 @@
 
 - 3) Napríklad zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 3a) § 2 ods. 2 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
+- 3a) § 2 ods. 2 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
 - 4) Napríklad § 9 ods. 1 až 5 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 45 ods. 1 písm. k) zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
 
@@ -74,6 +74,8 @@
 
 - 23a) § 27 ods. 1 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2008 Z. z.
 
+- 23aa) § 12 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
 - 24a) § 22 ods. 7 písm. h) prvý bod zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -126,7 +128,7 @@
 
 - 36) Zákon č. 311/2002 Z. z. o povolaní sestry, o povolaní pôrodnej asistentky, o Slovenskej komore sestier a pôrodných asistentiek a o zmene a doplnení zákona Slovenskej národnej rady č. 14/1992 Zb. o Slovenskej komore stredných zdravotníckych pracovníkov a o Slovenskej komore zubných technikov v znení neskorších predpisov.
 
-- 36a) § 12a zákona č. 477/2002 Z. z. v znení zákona č. 5/2005 Z. z.
+- 36a) § 25 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
 - 36b) § 80 ods. 6 a § 83 ods. 2 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -141,6 +143,8 @@
 - 40) § 153 až 155 Zákonníka práce.
 
 - 41) § 172 až 175 Občianskeho súdneho poriadku.
+
+- 41a) § 3 ods. 1 písm. a) druhý bod zákona č. 153/2013 Z. z.
 
 - 42) § 50 ods. 2 písm. d) zákona č. 581/2004 Z. z.
 
@@ -168,7 +172,7 @@
 
 - 50) § 22 a 23 zákona č. 576/2004 Z. z.
 
-- 51) § 44 ods. 7 písm. c) zákona č. 576/2004 Z. z.
+- 51) § 6 ods. 7 zákona č. 355/2007 Z. z.
 
 - 52) § 39 ods. 6 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -184,7 +188,9 @@
 
 - 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
 
-- 55d) § 44 ods. 10 písm. c) a f) zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z.
+- 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
+
+- 55k) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
 
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
@@ -200,7 +206,7 @@
 
 - 58ca) § 6 ods. 4 písm. l) a ods. 13 písm. b) zákona č. 581/2004 Z. z.
 
-- 58d) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+- 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
 
 - 58e) Zákon č. 362/2011 Z. z.
 
