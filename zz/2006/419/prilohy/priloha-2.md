@@ -194,7 +194,7 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
       - Ak sa tlačivo použije pri zjednodušenom postupe miestne colné konanie, uvádza sa v tomto odseku kód 4PZC a číslo povolenia na použitie zjednodušeného postupu.
 
-      - Ak má vývozca alebo deklarant pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty.
+      - Ak má vývozca pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty.
 
     - Odsek 46 tlačiva Štatistická hodnota
 
@@ -368,9 +368,9 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 41 tlačiva Dodatkové merné jednotky
 
-      - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>5</sup>) pri podpoložke kombinovanej nomenklatúry. Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
+      - Číselný údaj sa uvádza v celých číslach, merných jednotkách uvedených v Spoločnom colnom sadzobníku<sup>5</sup>) pri podpoložke kombinovanej nomenklatúry alebo v systéme TARIC (Integrovaný colný sadzobník Európskej únie) pri podpoložke kombinovanej nomenklatúry alebo pri číselných znakoch systému TARIC.<sup>9a</sup>) Pri merných jednotkách vyjadrujúcich dĺžku, plochu, objem, hmotnosť, množstvo energie alebo množstvo práce sa číselný údaj uvádza s presnosťou na štyri desatinné miesta.
 
-      - Nevypĺňa sa, ak v Spoločnom colnom sadzobníku nie je uvedená doplnková merná jednotka.
+      - Nevypĺňa sa, ak v Spoločnom colnom sadzobníku alebo v systéme TARIC nie je uvedená doplnková merná jednotka.
 
     - Odsek 42 tlačiva Cena za položku
 
@@ -382,19 +382,13 @@ Príloha č. 2 k vyhláške č. 419/2006 Z. z.
 
     - Odsek 44 tlačiva Osobitné záznamy/predložené doklady/osvedčenia a povolenia
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru z miesta odoslania po miesto vstupu na colné územie Európskej únie a príslušný kód sa uvádzajú takto: „Náklady na dopravu C – X – D0600“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
+      - Pripočítateľné náklady k cene platenej za dovážaný tovar uvedené v osobitnom predpise<sup>9b</sup>) sa uvádzajú takto: „Pripočítateľné náklady C - X - D0600“, kde X vyjadruje príslušnú celkovú sumu pripočítateľných nákladov v eurách. Ak sú tieto náklady zahrnuté vo fakturovanej cene, tento údaj sa neuvádza.
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru od miesta vstupu na colné územie Európskej únie po prvé miesto určenia na území Slovenskej republiky a príslušný kód sa uvádzajú takto: „Náklady na dopravu D – X – D0610“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tento údaj sa uvádza, ak sa uplatní postup podľa osobitného predpisu.<sup>10</sup>)
+      - Pripočítateľné náklady k cene platenej za dovážaný tovar uvedené v osobitnom predpise<sup>10</sup>) sa uvádzajú takto: „Pripočítateľné náklady D - X - D0610“, kde X vyjadruje príslušnú celkovú sumu pripočítateľných nákladov v eurách. Pripočítateľné náklady k cene platenej za dovážaný tovar, ktoré vznikli mimo územia Slovenskej republiky, sa uvádzajú takto: „Náklady súvisiace s dovozom tovaru S - X - D0620“, kde X vyjadruje príslušnú celkovú sumu súvisiacich nákladov v eurách.
 
-      - Náklady na dopravu, poistenie, nakladanie a manipuláciu súvisiace s dopravou dovážaného tovaru, ktoré vznikli mimo územia Slovenskej republiky, a príslušný kód sa uvádzajú takto: „Náklady na dopravu S – X – D0620“, kde X vyjadruje príslušnú sumu nákladov na dopravu, poistenie, nakladanie a manipuláciu v eurách. Tieto náklady sa uvádzajú aj vtedy, ak sú zahrnuté vo fakturovanej cene.
+      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC. Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
 
-      - Pri spätnom dovoze tovaru z colného režimu pasívny zušľachťovací styk sa uvádza cena za poskytnutú službu (hodnota spracovateľských operácií) vrátane hodnoty pridaného tovaru a príslušný kód takto: „Pridaná hodnota PZS – X – D0700“, kde X vyjadruje príslušnú sumu pridanej hodnoty v colnom režime pasívny zušľachťovací styk v eurách.
-
-      - Príslušné sumy v tomto odseku sa uvádzajú v eurách zaokrúhlene na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor; sumy pri kódoch D0620 a D0700 sa uvádzajú v celých eurách zaokrúhlene do 0,50 eura nadol a od 0,50 eura vrátane nahor.
-
-      - Ak deklarant predkladá doklady podľa osobitných predpisov, uvádza sa kód dokladu podľa systému TARIC (Integrovaný colný sadzobník Európskej únie). Za kódom dokladu sa uvádza evidenčné číslo tohto dokladu.
-
-      - Ak má príjemca alebo deklarant pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty. Ak dovozcu pri uplatnení oslobodenia od dane z pridanej hodnoty zastupuje daňový zástupca,<sup>8</sup>) identifikačné číslo pre daň z pridanej hodnoty daňového zástupcu sa uvádza v tomto odseku za príslušným kódom podľa systému TARIC.
+      - Ak má príjemca pridelené identifikačné číslo pre daň z pridanej hodnoty, uvádza sa v tomto odseku kód pre identifikačné číslo pre daň z pridanej hodnoty podľa systému TARIC a identifikačné číslo pre daň z pridanej hodnoty. Ak dovozcu pri uplatnení oslobodenia od dane z pridanej hodnoty zastupuje daňový zástupca,<sup>8</sup>) identifikačné číslo pre daň z pridanej hodnoty daňového zástupcu sa uvádza v tomto odseku za príslušným kódom podľa systému TARIC.
 
       - Ak deklarant uvedením príslušného kódu v odseku 36 žiada o zvýhodnenú colnú sadzbu z dôvodu preferenčného pôvodu tovaru, uvádza sa v tomto odseku kód jedného z dokladov o preferenčnom pôvode podľa systému TARIC SK, za ktorým sa uvádza dvojmiestny alfabetický kód štátu pôvodu osvedčeného na doklade, ktorý je dôkazom o pôvode, a evidenčné číslo tohto dokladu. Napríklad „N954 NO A123456“, kde „N954“ je kód sprievodného osvedčenia EUR. 1 podľa systému TARIC SK, „NO“ je štát pôvodu uvedený na doklade, ktorý je dôkazom o pôvode, a „A123456“ je evidenčné číslo sprievodného osvedčenia EUR. 1.
 

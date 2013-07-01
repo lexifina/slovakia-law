@@ -22,6 +22,10 @@
 
 - 9) Čl. 525 ods. 2 písm. a) nariadenia Komisie (EHS) č. 2454/93 v platnom znení.
 
+- 9a) Čl. 3 ods. 2 nariadenia Rady (EHS) č. 2658/87 v platnom znení.
+
+- 9b) Čl. 32 nariadenia Rady (EHS) č. 2913/1992 v platnom znení.
+
 - 10) § 24 ods. 2 písm. b) zákona č. 222/2004 Z. z.
 
 - 12) Čl. 76 ods. 1 písm. c) nariadenia Rady (EHS) č. 2913/92 v platnom znení.
@@ -33,6 +37,8 @@
 - 14) Čl. 5 ods. 2 prvá zarážka nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 
 - 15) Čl. 5 ods. 2 druhá zarážka nariadenia Rady (EHS) č. 2913/92 v platnom znení.
+
+- 15a) Príloha II nariadenia Komisie (EÚ) č. 113/2010 z 9. februára 2010, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 471/2009 o štatistike Spoločenstva o zahraničnom obchode s nečlenskými krajinami, pokiaľ ide o pokrytie obchodu, vymedzenie údajov, zostavovanie štatistiky obchodu podľa podnikových ukazovateľov a podľa fakturačnej meny a o špecifické tovary alebo pohyby (Ú. v. EÚ L 37, 10. 2. 2010).
 
 - 16) Čl. 81 nariadenia Rady (EHS) č. 2913/92 v platnom znení.
 

@@ -82,21 +82,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - Opravou a údržbou je obnovenie pôvodnej funkcie alebo zachovanie pôvodného stavu tovaru, ktorého cieľom je udržať tovar v prevádzke, pričom môže zahŕňať aj jeho čiastočnú prestavbu alebo vylepšenie, ale bez zmeny charakteru tovaru.
 
-  - Ak sa v ľavej časti odseku uvedie kód 9, v pravej časti odseku sa podľa druhu obchodu uvedú tieto kódy:
-
-  - Kód | Druh obchodu
-
-  - 1 | Tovar dovezený na dočasné použitie na obdobie dlhšie ako 24 mesiacov a tovar vyvezený na užívanie na obdobie dlhšie ako 24 mesiacov
-
-  - 2 | Nepriame transakcie
-
-  - 9 | Transakcie inde neuvedené
-
-  - Vysvetlivky
-
-  - Kód 1 sa uvedie pri tovare, ktorý sa doviezol alebo vyviezol so zámerom jeho spätného vývozu alebo spätného dovozu v nezmenenom stave bez zmeny vlastníctva.
-
-  - Kód 2 sa uvedie, ak členský štát uvedený pri vývoze v odseku 15a tlačiva alebo pri dovoze v odseku 17a tlačiva je iný ako Slovenská republika.
+    - Ak sa v ľavej časti odseku uvedie kód 9, v pravej časti odseku sa podľa druhu obchodu uvedú kódy podľa osobitného predpisu.<sup>15a</sup>)
 
   - Odsek 25 tlačiva Druh dopravy na hranici
 
@@ -482,7 +468,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - 379 | Vzorky tovaru nepatrnej hodnoty dovážané na podporu rozvoja obchodu | čl. 86 | § 48 ods. 2 písm. p)
 
-    - 380 | Tlačoviny a reklamné materiály dovážané na podporu rozvoja obchodu | čl. 87 | § 48 ods. 2 písm. r)
+    - 380 | Tlačoviny a reklamné materiály dovážané na podporu rozvoja obchodu | čl. 87 až 89 | § 48 ods. 2 písm. r)
 
     - 381 | Tovar dovážaný na skúšky, analýzy alebo pokusy | čl. 95 | § 48 ods. 2 písm. t)
 
@@ -502,6 +488,8 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - 389 | Rakvy, pohrebné urny a ozdobné pohrebné predmety | čl. 113 | § 48 ods. 2 písm. zb)
 
+    - 390 | Tovar používaný alebo spotrebovaný počas výstavy alebo podobného podujatia | čl. 90 | § 48 ods. 2 písm. s)
+
     - c) kódy vyjadrujúce požiadavku na oslobodenie od dovozného cla podľa osobitného predpisu<sup>19</sup>) a od dane z pridanej hodnoty podľa osobitného predpisu:<sup>18</sup>)
 
     - Kód | Tovar | Nariadenie Rady (EHS) č. 2913/92 v platnom znení | Nariadenie Komisie (EHS) č. 2454/93 v platnom znení | Zákon č. 199/2004 Z. z. v znení neskorších predpisov | Zákon č. 222/2004 Z. z. v znení neskorších predpisov
@@ -514,7 +502,7 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - 574 | Zušľachtené výrobky, ktoré sa do Európskej únie vracajú po ich predchádzajúcom vývoze alebo spätnom vývoze | či. 187 | | | § 48 ods. 4
 
-    - 575 | Tovar dovážaný osobami požívajúcimi výsady a imunity podľa medzinárodného práva a tovar pre medzinárodné organizácie a ich zamestnancov | | | § 47 a 48 | § 48 ods. 5
+    - 575 | Tovar dovážaný osobami požívajúcimi výsady a imunity podľa medzinárodného práva a tovar pre medzinárodné organizácie a ich zamestnancov | | | § 47 a 48 | § 48 ods. 5 písm. a) a c)
 
     - d) kódy vyjadrujúce požiadavku na oslobodenie od dane z pridanej hodnoty podľa osobitného predpisu:<sup>18</sup>)
 
@@ -526,9 +514,11 @@ Príloha č. 3 k vyhláške č. 419/2006 Z. z.
 
     - 578 | Investičné zlato | § 67 ods. 3
 
-    - 579 | Plyn dovážaný cez rozvodný systém zemného plynu a elektrická energia | § 48 ods. 9
+    - 579 | Plyn dovážaný prostredníctvom sústavy zemného plynu alebo siete, ktorá je k takejto sústave pripojená, alebo privádzaný z plavidla určeného na dopravu plynu do sústavy zemného plynu alebo ťažobnej siete a elektrina, teplo alebo chlad dovážaný prostredníctvom teplárenských sietí alebo chladiarenských sietí | § 48 ods. 9
 
     - 580 | Iný tovar oslobodený od dane z pridanej hodnoty | § 48 ods. 1
+
+    - 581 | Tovar dovážaný Európskou úniou, Európskym spoločenstvom pre atómovú energiu a orgánmi nimi zriadenými, Európskou centrálnou bankou a Európskou investičnou bankou v rozsahu a za podmienok ustanovených medzinárodnou zmluvou | § 48 ods. 5 písm. b)
 
     - e) kódy vyjadrujúce požiadavku na pozastavenie dovozného cla podľa osobitného predpisu:<sup>20</sup>)
 
