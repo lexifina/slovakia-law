@@ -34,13 +34,15 @@
 
 - 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
-- 16c) § 42a zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+- 16c) § 4 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov.
 
 - 16d) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 16e) § 5 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
@@ -86,7 +88,9 @@
 
 - 27aa) § 27a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 27b) § 27a ods. 5 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+- 27b) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 27c) § 3 zákona č. 153/2013 Z. z.
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -160,8 +164,6 @@
 
 - 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 41aac) § 23 ods. 7 zákona č. 580/2004 Z. z.
-
 - 41aad) § 6 ods. 11 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 41ab) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
@@ -233,6 +235,8 @@
 - 61) § 68 ods. 3 písm. e) Obchodného zákonníka.
 
 - 61a) § 33 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 61aa) § 18 až 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 61b) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 

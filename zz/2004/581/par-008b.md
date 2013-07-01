@@ -1,0 +1,3 @@
+# § 8b Príspevok na správu národného zdravotníckeho informačného systému
+
+Zdravotná poisťovňa poukazuje na účet ministerstva zdravotníctva príspevok na správu národného zdravotníckeho informačného systému<sup>27c</sup>) na nasledujúci kalendárny rok najneskôr do 20. decembra kalendárneho roka. Výška príspevku je 0,27 % zo základu na jej určenie. Základom na určenie výšky príspevku je celková suma z ročného prerozdeľovania poistného,<sup>27aa</sup>) ktorý jeden rok predchádza kalendárnemu roku, v ktorom je príspevok poukazovaný, uvedená v rozhodnutí o ročnom prerozdeľovaní poistného podľa osobitného prepisu.<sup>27b</sup>) Výška príspevku sa zaokrúhľuje na eurocent nahor.

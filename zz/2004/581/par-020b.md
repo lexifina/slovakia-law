@@ -22,7 +22,13 @@
 
 - j) zabezpečuje ochranu bezpečnosti dát odovzdaných užívateľovi klasifikačného systému,
 
-- k) uskutočňuje vzdelávanie zdravotníckych pracovníkov v akreditovanom certifikačnom študijnom programe certifikovanej pracovnej činnosti klasifikačný systém v zdravotníctve.
+- k) uskutočňuje vzdelávanie zdravotníckych pracovníkov v akreditovanom certifikačnom študijnom programe certifikovanej pracovnej činnosti klasifikačný systém v zdravotníctve,
+
+- l) vykonáva odbornú prípravu na získanie odbornej spôsobilosti pre klasifikačný systém podľa § 20c,
+
+- m) vedie zoznam odborne spôsobilých osôb pre klasifikačný systém (ďalej len „zoznam odborne spôsobilých osôb“) s náležitosťami podľa § 20c ods. 10,
+
+- n) vykonáva školenia odborne spôsobilých osôb pre klasifikačný systém,
 
 (2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia zdravotnej starostlivosti.
 
