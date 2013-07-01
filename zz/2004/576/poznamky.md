@@ -60,7 +60,9 @@
 
 - 20) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 21) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+- 21) § 3 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
+
+- 21a) § 9 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 22) § 10 a 73 zákona č. 578/2004 Z. z.
 
@@ -151,16 +153,6 @@
 - 43) § 10 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 44) § 39 ods. 3 zákona č. 578/2004 Z. z.
-
-- 44a) § 2 písm. k) a § 13 zákona č. 540/2001 Z. z.
-
-- 45) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
-
-- 46) § 5 a 6 zákona č. 355/2007 Z. z.
-
-- 47) § 11 ods. 2 zákona č. 578/2004 Z. z.
-
-- 47a) § 2 zákona č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 48) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
