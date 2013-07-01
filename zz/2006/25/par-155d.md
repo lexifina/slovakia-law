@@ -2,7 +2,7 @@
 
 (1) Verejná súťaž, užšia súťaž, rokovacie konanie so zverejnením, súťažný dialóg, súťaž návrhov, koncesia na stavebné práce alebo postup zadávania podprahovej zákazky vyhlásené do 31. decembra 2009, sa dokončia podľa predpisov účinných do 31. decembra 2009.
 
-(2) Rokovacie konanie bez zverejnenia, ktoré sa preukázateľne začalo do 31. decembra 2009, sa dokončí podľa predpisov účinných do 31. decembra 2009.
+(2) Priame rokovacie konanie, ktoré sa preukázateľne začalo do 31. decembra 2009, sa dokončí podľa predpisov účinných do 31. decembra 2009.
 
 (3) V konaní a pri výkone kontroly, ktoré začal úrad do 31. decembra 2009, sa postupuje podľa predpisov účinných do 31. decembra 2009.
 

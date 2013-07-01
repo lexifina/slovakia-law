@@ -1,6 +1,6 @@
-# § 108j Rokovacie konanie bez zverejnenia
+# § 108j Priame rokovacie konanie
 
-(1) Rokovacie konanie bez zverejnenia môže verejný obstarávateľ a obstarávateľ pri zadávaní zákazky v oblasti obrany a bezpečnosti použiť len vtedy, ak je splnená aspoň jedna z týchto podmienok:
+(1) Priame rokovacie konanie môže verejný obstarávateľ a obstarávateľ pri zadávaní zákazky v oblasti obrany a bezpečnosti použiť len vtedy, ak je splnená aspoň jedna z týchto podmienok:
 
 - a) v predchádzajúcej užšej súťaži, v rokovacom konaní so zverejnením alebo v súťažnom dialógu nebola predložená ani jedna ponuka alebo ani jedna z predložených ponúk nevyhovuje požiadavkám určeným verejným obstarávateľom alebo obstarávateľom na predmet zákazky, alebo nebola predložená žiadna žiadosť o účasť v predchádzajúcej užšej súťaži, v rokovacom konaní so zverejnením alebo v súťažnom dialógu a za predpokladu, že pôvodné podmienky zadávania zákazky sa podstatne nezmenia,
 
@@ -16,13 +16,13 @@
 
 - g) ide o výrobky vyrobené výlučne na výskumné a vývojové účely; nevzťahuje sa to na veľkovýrobu súvisiacu s ekonomickými aktivitami zameranými na dosiahnutie zisku alebo na krytie nákladov vynaložených na výskum a vývoj,
 
-- h) ide o dodávku doplňujúceho tovaru od pôvodného dodávateľa určeného na čiastočné nahradenie obvyklého tovaru alebo zariadenia alebo na rozšírenie už dodaného tovaru alebo zariadenia, ak by zmena dodávateľa nútila verejného obstarávateľa alebo obstarávateľa získavať materiál rozdielnych technických charakteristík, ktorý by spôsoboval nezlučiteľnosť alebo neprimerané technické ťažkosti v prevádzke alebo v údržbe; platnosť takýchto zmlúv, ako aj opakujúcich sa zmlúv nesmie presiahnuť päť rokov okrem výnimočných prípadov odôvodnených predpokladanou životnosťou dodaného tovaru, zariadení, systémov alebo technickými problémami, ktoré by zmena dodávateľa spôsobila,
+- h) ide o dodávku doplňujúceho tovaru od pôvodného dodávateľa určeného na čiastočné nahradenie obvyklého tovaru alebo zariadenia alebo na rozšírenie už dodaného tovaru alebo zariadenia, ak by zmena dodávateľa nútila verejného obstarávateľa alebo obstarávateľa získavať materiál rozdielnych technických charakteristík, ktorý by spôsoboval nezlučiteľnosť alebo neprimerané technické ťažkosti v prevádzke alebo v údržbe; platnosť zmlúv, ako aj opakujúcich sa zmlúv, uzatvorených postupom podľa tohto písmena nesmie presiahnuť päť rokov okrem výnimočných prípadov odôvodnených predpokladanou životnosťou dodaného tovaru, zariadení, systémov alebo technickými problémami, ktoré by zmena dodávateľa spôsobila,
 
 - i) ide o dodávku tovaru, ktorého ceny sú kótované a ktorý sa kupuje na komoditnej burze,
 
-- j) ide o tovar ponúkaný za obzvlášť výhodných podmienok od dodávateľa, ktorý končí podnikanie, od likvidátora, od správcu alebo od exekútora,
+- j) ide o tovar ponúkaný za obzvlášť výhodných podmienok od likvidátora, od správcu alebo od exekútora,
 
-- k) ide o doplňujúce stavebné práce alebo služby nezahrnuté v pôvodnom projekte alebo nezahrnuté do pôvodnej zmluvy, ktorých potreba vyplynula dodatočne z nepredvídateľných okolností, a zákazka sa zadáva pôvodnému dodávateľovi, ktorý pôvodnú zmluvu realizuje, a celková hodnota stavebných prác alebo služieb nepresiahne 50 % hodnoty pôvodnej zmluvy, ak doplňujúce stavebné práce alebo služby sú nevyhnutné na plnenie pôvodnej zmluvy a
+- k) ide o doplňujúce stavebné práce alebo služby nezahrnuté v pôvodnom projekte alebo nezahrnuté do pôvodnej zmluvy, ktorých potreba vyplynula dodatočne z nepredvídateľných okolností, a zákazka sa zadáva pôvodnému dodávateľovi, ktorý pôvodnú zmluvu realizuje, a celková hodnota stavebných prác alebo služieb nepresiahne 20 % hodnoty pôvodnej zmluvy, ak doplňujúce stavebné práce alebo služby sú nevyhnutné na plnenie pôvodnej zmluvy a
 
   - 1. nie sú technicky alebo ekonomicky oddeliteľné od pôvodného plnenia zmluvy bez toho, aby to verejnému obstarávateľovi alebo obstarávateľovi nespôsobilo neprimerané ťažkosti, alebo
 
@@ -34,7 +34,7 @@
 
   - 2. predpokladaná hodnota pôvodnej zákazky bola určená podľa § 5 ods. 2 písm. a),
 
-  - 3. informácia o zadávaní zákazky rokovacím konaním bez zverejnenia bola už súčasťou oznámenia o vyhlásení verejného obstarávania pri zadávaní pôvodnej zákazky a
+  - 3. informácia o zadávaní zákazky priamym rokovacím konaním bola už súčasťou oznámenia o vyhlásení verejného obstarávania pri zadávaní pôvodnej zákazky a
 
   - 4. opakovaná zákazka sa zadáva do piatich rokov od uzavretia pôvodnej zmluvy okrem výnimočných prípadov odôvodnených predpokladanou životnosťou dodaného tovaru, zariadení, systémov alebo technickými problémami, ktoré by zmena dodávateľa spôsobila,
 

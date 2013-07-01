@@ -22,7 +22,7 @@
 
 (2) Úspešný uchádzač, ktorý nie je verejným obstarávateľom ani obstarávateľom, vypracuje a pošle oznámenie o subdodávke podľa § 23 ods. 1 a 3. Oznámenie odoslané úradu nesmie obsahovať iné informácie ako tie, ktoré boli uvedené v oznámení odoslanom publikačnému úradu. Dátum odoslania oznámenia publikačnému úradu sa takisto nemení.
 
-(3) Úspešný uchádzač, ktorý nie je verejným obstarávateľom ani obstarávateľom, nie je povinný uverejniť oznámenie o subdodávke, ak subdodávka spĺňa podmienku pre použitie rokovacieho konania bez zverejnenia podľa § 108j ods. 1.
+(3) Úspešný uchádzač, ktorý nie je verejným obstarávateľom ani obstarávateľom, nie je povinný uverejniť oznámenie o subdodávke, ak subdodávka spĺňa podmienku pre použitie priameho rokovacieho konania podľa § 108j ods. 1.
 
 (4) Úspešný uchádzač, ktorý nie je verejným obstarávateľom ani obstarávateľom, môže uverejňovať rovnakým spôsobom ako oznámenie o subdodávke aj oznámenia, ktoré nie je povinný uverejňovať.
 

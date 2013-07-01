@@ -2,7 +2,7 @@
 
 (1) Verejná súťaž, užšia súťaž, rokovacie konanie so zverejnením, súťažný dialóg, súťaž návrhov alebo koncesia, ktorá sa vyhlásila do 30. júna 2008, sa dokončí podľa doterajších predpisov.
 
-(2) Rokovacie konanie bez zverejnenia, ktoré sa preukázateľne začalo do 30. júna 2008, sa dokončí podľa doterajších predpisov.
+(2) Priame rokovacie konanie, ktoré sa preukázateľne začalo do 30. júna 2008, sa dokončí podľa doterajších predpisov.
 
 (3) V konaní, ktoré začal úrad do 30. júna 2008, sa postupuje podľa doterajších predpisov.
 

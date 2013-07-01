@@ -8,6 +8,6 @@
 
 - c) súťažný dialóg,
 
-- d) rokovacie konanie bez zverejnenia.
+- d) priame rokovacie konanie.
 
 (2) Súťažný dialóg možno použiť, ak ide o obzvlášť zložitú zákazku v oblasti obrany a bezpečnosti a nemožno použiť užšiu súťaž alebo rokovacie konanie so zverejnením.

@@ -2,7 +2,7 @@
 
 # § 108k
 
-(1) Úspešný uchádzač môže zadať časť alebo časti zákazky v oblasti obrany a bezpečnosti ním zvoleným subdodávateľom, ak verejný obstarávateľ alebo obstarávateľ neurčí požiadavky na zadávanie subdodávok tretím osobám (ďalej len „zadávanie subdodávky“) podľa odsekov 2 až 5 alebo predpokladaná hodnota subdodávky určená podľa § 5 je nižšia ako finančný limit uvedený v § 4 ods. 2 písm. f) alebo písm. g). Tým nie je dotknutá možnosť verejného obstarávateľa a obstarávateľa odmietnuť navrhovaného subdodávateľa podľa odseku 6.
+(1) Úspešný uchádzač môže zadať časť alebo časti zákazky v oblasti obrany a bezpečnosti ním zvoleným subdodávateľom, ak verejný obstarávateľ alebo obstarávateľ neurčí požiadavky na zadávanie subdodávok tretím osobám (ďalej len „zadávanie subdodávky“) podľa odsekov 2 až 5 alebo predpokladaná hodnota subdodávky určená podľa § 5 je nižšia ako finančný limit uvedený v § 4 ods. 2. Tým nie je dotknutá možnosť verejného obstarávateľa a obstarávateľa odmietnuť navrhovaného subdodávateľa podľa odseku 6.
 
 (2) Verejný obstarávateľ a obstarávateľ môže vyžadovať, aby uchádzači uviedli vo svojich ponukách percentuálny podiel z celkovej hodnoty zákazky v oblasti obrany a bezpečnosti, ktorý plánujú zadať tretím osobám, časť alebo časti zákazky, ktoré plánujú zadať tretím osobám, a navrhovaných subdodávateľov na časť alebo časti zákazky, ktoré plánujú zadať tretím osobám. Verejný obstarávateľ a obstarávateľ následne určí, na ktoré navrhované časti zákazky sa použije postup podľa § 108l, a oznámi to uchádzačom.
 

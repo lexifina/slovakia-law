@@ -14,6 +14,14 @@
 
 - 6aa) § 10 ods. 5 zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
 
+- 6ab) § 52 ods. 1 a § 53 ods. 4 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6ac) § 4 a 5 zákona č. 384/1997 Z. z. o divadelnej činnosti v znení zákona č. 416/2001 Z. z.
+
+- 6ad) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
+
+- 6ae) § 3 ods. 2 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
+
 - 7) Nariadenie Európskeho parlamentu a Rady (ES) č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 5) v platnom znení.
 
 - 7a) § 9 ods. 4 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
@@ -25,6 +33,10 @@
 - 7ab) § 2 písm. a) zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 8) § 2 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
+
+- 8a) § 4 ods. 9 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+
+- 8b) Napríklad Obchodný zákonník, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 9) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
@@ -56,6 +68,10 @@
 
 - 12) Napríklad § 16 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon), § 14 zákona č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a o zmene a doplnení niektorých zákonov (patentový zákon) v znení zákona č. 402/2002 Z. z.
 
+- 12a) § 7 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12b) § 5a ods. 8 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
+
 - 14) § 76 a 77 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 479/2005 Z. z.
 
 - 15) § 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
@@ -72,13 +88,15 @@
 
 - 18) Čl. 5 Ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
+- 18a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
+- 18b) § 63 ods. 1 a § 69 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
 - 19) Čl. V a čl. XXIII Dohody o vládnom obstarávaní (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 21)
 
 - 20) Čl. XIX Dohody o vládnom obstarávaní.
 
-- 21) § 2 ods. 2 Obchodného zákonníka.
-
-- 22) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
+- 21) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23aa) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
