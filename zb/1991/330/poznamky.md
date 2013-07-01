@@ -192,6 +192,16 @@
 
 - § 6 ods. 2 zákona č. 503/2003 Z. z. v znení neskorších predpisov.
 
+- 23he) § 151a až 151me Občianskeho zákonníka.
+
+- 23hf) § 11 ods. 2 zákona č. 229/1991 Zb.
+
+- § 6 ods. 2 zákona č. 503/2003 Z. z.
+
+- 23hg) § 2 ods. 5 až 12 nariadenia vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
+
+- 23hh) § 30 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
 
 - 23j) § 21 ods. 1 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
