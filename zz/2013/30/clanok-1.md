@@ -22,6 +22,8 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - 7. V § 3 ods. 4 písm. f) sa vypúšťajú slová „ak podiel tepla dodaného na technologické účely je najviac 40 % z využiteľného tepla,“.
 
+- 8. V § 3 ods. 5 sa číslo „100“ nahrádza číslom „30“.
+
 - 9. V § 3 odsek 6 znie:
 
 - „(6)
@@ -60,7 +62,15 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - Doterajšie odseky 7 až 11 sa označujú ako odseky 9 až 13.
 
+- 11. V § 3 ods. 10 sa číslo „100“ nahrádza číslom „30“.
+
 - 12. V § 3 ods. 11 sa za slová „na dodávku využiteľného tepla,“ vkladajú slová „ktorá nezahŕňa teplo použité na energetické spracovanie zvyšku biologicky rozložiteľného odpadu, ktorý zostal po výrobe bioplynu,“.
+
+- 13. § 3 sa dopĺňa odsekom 14, ktorý znie:
+
+- „(14)
+
+- Podpora podľa odseku 1 písm. b) a c) sa nevzťahuje na zariadenia výrobcu elektriny využívajúce ako zdroj vodnú energiu s celkovým inštalovaným výkonom nad 5 MW.“.
 
 - 14. V § 3a ods. 3 sa slovo „roku“ nahrádza slovom „času“.
 
