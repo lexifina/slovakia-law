@@ -66,13 +66,13 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 07.1 zamestnancov pracujúcich vo výške pomocou špeciálnej horolezeckej a speleologickej techniky
+    - 07.1 osôb pracujúcich vo výške pomocou špeciálnej horolezeckej a speleologickej techniky
 
     - 07.2 osôb na montáž a demontáž lešenia (lešenári)
 
   - skupina 08 Bezpečnosť a ochrana zdravia pri práci so stavebnými strojmi a zariadeniami
 
-  - V rámci tejto skupiny činnosťou je výchova a vzdelávanie zamestnancov
+  - V rámci tejto skupiny činnosťou je výchova a vzdelávanie osôb
 
     - 08.1 na obsluhu vybraných stavebných strojov a zariadení
 
@@ -80,7 +80,7 @@ Príloha č. 2 k zákonu č. 124/2006 Z. z.
 
   - V rámci tejto skupiny činnosťou je výchova a vzdelávanie
 
-    - 09.1 zamestnancov na obsluhu vybraných poľnohospodárskych strojov a zariadení
+    - 09.1 osôb na obsluhu vybraných poľnohospodárskych strojov a zariadení
 
   - skupina 10 Bezpečnosť a ochrana zdravia pri práci s lesníckymi strojmi a zariadeniami
 

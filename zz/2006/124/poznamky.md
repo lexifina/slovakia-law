@@ -66,6 +66,10 @@
 
 - 19) Zákon č. 264/1999 Z. z. v znení neskorších predpisov.
 
+- 19a) § 16 ods. 1 písm. a) zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
+
+- 19b) § 87 ods. 1 až 4 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 20) Napríklad Zákonník práce, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
 - 21) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

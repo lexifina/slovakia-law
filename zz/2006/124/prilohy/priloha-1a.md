@@ -1,25 +1,65 @@
-Príloha č. 1a k zákonu č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
+Príloha č. 1a k zákonu č. 124/2006 Z. z.
 
-- Minimálny počet bezpečnostných technikov alebo autorizovaných bezpečnostných technikov podľa počtu zamestnancov
+- ČINNOSTI, KTORÉ MÔŽE FYZICKÁ OSOBA VYKONÁVAŤ LEN NA ZÁKLADE PLATNÉHO PREUKAZU, OSVEDČENIA ALEBO DOKLADU PODĽA § 16 ods. 1 písm. b) Fyzická osoba môže len na základe platného preukazu, osvedčenia alebo dokladu podľa § 16 ods. 1 písm. b) vykonávať činnosť
 
-  - A. Minimálny počet autorizovaných bezpečnostných technikov alebo bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností je uvedený v prílohe č. 1
+  - a) revízneho technika vyhradených technických zariadení tlakových,
 
-  - Počet zamestnancov | Počet autorizovaných bezpečnostných technikov alebo bezpečnostných technikov
+  - b) osoby na obsluhu kotla I. až V. triedy,
 
-  - do 400 zamestnancov | najmenej jeden autorizovaný bezpečnostný technik
+  - c) osoby na opravu kotla I. až V. triedy a na opravu potrubného vedenia s médiom para, horúca voda alebo vzduch,
 
-  - od 401 do 800 zamestnancov | najmenej dvaja autorizovaní bezpečnostní technici
+  - d) revízneho technika vyhradených technických zariadení zdvíhacích,
 
-  - od 801 do 1 200 zamestnancov | najmenej traja autorizovaní bezpečnostní technici alebo najmenej dvaja autorizovaní bezpečnostní technici a jeden bezpečnostný technik
+  - e) osoby na obsluhu mobilného žeriava výložníkového typu a vežového žeriava výložníkového typu,
 
-  - nad 1 200 zamestnancov | najmenej traja autorizovaní bezpečnostní technici alebo najmenej dvaja autorizovaní bezpečnostní technici a jeden bezpečnostný technik a na každých začatých 1 000 zamestnancov najmenej jeden ďalší autorizovaný bezpečnostný technik alebo bezpečnostný technik tak, aby z celkového počtu autorizovaných bezpečnostných technikov a bezpečnostných technikov boli najmenej dve tretiny autorizovaní bezpečnostní technici
+  - f) osoby na obsluhu pohyblivej pracovnej plošiny na podvozku s motorovým pohonom, ktorá je určená na prevádzku na pozemných komunikáciách, a s výškou zdvihu nad 1, 5 m,
 
-  - B. Minimálny počet bezpečnostných technikov u zamestnávateľa, ktorého kód podľa štatistickej klasifikácie ekonomických činností nie je uvedený v prílohe č. 1
+  - g) osoby na opravu osobného výťahu a nákladného výťahu s povolenou dopravou osôb,
 
-  - Počet zamestnancov | Počet bezpečnostných technikov
+  - h) viazača bremien,
 
-  - do 600 zamestnancov | najmenej jeden bezpečnostný technik
+  - i) revízneho technika vyhradených technických zariadení plynových,
 
-  - od 601 do 1 200 zamestnancov | najmenej dvaja bezpečnostní technici
+  - j) osoby na obsluhu vyhradených technických zariadení plynových s vysokou mierou ohrozenia (skupina A) pracujúcich s nebezpečnými plynmi okrem zariadení určených na zásobovanie plynom z kovových tlakových nádob stabilných alebo z kovových tlakových nádob na dopravu plynov (tlakové stanice) a zariadení určených na rozvod plynov,
 
-  - nad 1 200 zamestnancov | najmenej dvaja bezpečnostní technici a na každých začatých 1 000 zamestnancov najmenej jeden ďalší bezpečnostný technik
+  - k) osoby na opravu vyhradených technických zariadení plynových s vysokou mierou ohrozenia (skupina A) pracujúcich s nebezpečnými plynmi,
+
+  - l) elektrotechnika, samostatného elektrotechnika a elektrotechnika na riadenie činností alebo na riadenie prevádzky na vyhradených technických zariadeniach elektrických,
+
+  - m) revízneho technika vyhradených technických zariadení elektrických,
+
+  - n) osoby na obsluhu motorových vozíkov,
+
+  - o) osoby pracujúcej vo výške 1, 5 m a viac nad povrchom zeme pomocou špeciálnej horolezeckej a speleologickej techniky,
+
+  - p) osoby na montáž a demontáž lešenia (lešenár),
+
+  - q) osoby na obsluhu vybraných stavebných strojov a zariadení, a to
+
+    - 1. strojov a zariadení na zemné práce (dozéra, rýpadla a hĺbidla, nakladacieho a vykladacieho stroja, frézy a ryhovača, skrejpera, rúrového ukladača, valca),
+
+    - 2. strojov a zariadení na výrobu, spracúvanie a presun betónových zmesí (betonárky),
+
+    - 3. špeciálneho motorového snehového stroja, kompresora,
+
+  - r) osoby na obsluhu vybraných poľnohospodárskych strojov a zariadení, a to
+
+    - 1. samochodných rezačiek,
+
+    - 2. obilných kombajnov,
+
+    - 3. špeciálnych strojov na zber poľnohospodárskych plodín,
+
+  - s) osoby na obsluhu vybraných lesníckych strojov, a to
+
+    - 1. vyťahovačov,
+
+    - 2. univerzálnych a špeciálnych traktorov používaných pri sústreďovaní dreva,
+
+    - 3. kolesových a pásových vyvážacích súprav na drevo a drevné sortimenty,
+
+    - 4. stabilných lanových dopravných zariadení v lesníctve,
+
+    - 5. jednoúčelových a viacúčelových zariadení na ťažbu, odvetvovanie, krátenie a odkôrňovanie stromov a drevných sortimentov,
+
+  - t) osoby na obsluhu ručnej motorovej reťazovej píly pri ťažbe dreva a ručnej motorovej reťazovej píly pri inej činnosti.
