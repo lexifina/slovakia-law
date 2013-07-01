@@ -4,7 +4,7 @@ Príloha k vyhláške č. 736/2004 Z. z.
 
 - | | Okres
 
-- Banská Bystrica | Banská Bystrica | Banská Bystrica Banská Štiavnica Brezno Detva Krupina Lučenec Poltár Rimavská Sobota Veľký Krtíš Zvolen Žarnovica Žiar nad Hronom
+- Banská Bystrica | Banská Bystrica | Banská Bystrica Banská Štiavnica Brezno Detva Krupina Lučenec Poltár Revúca Rimavská Sobota Veľký Krtíš Zvolen Žarnovica Žiar nad Hronom
 
 - | | Okres
 
@@ -18,7 +18,7 @@ Príloha k vyhláške č. 736/2004 Z. z.
 
 - | | Okres
 
-- Košice | Košice | Košice I Košice II Košice III Košice IV Košice-okolie Gelnica Levoča Revúca Rožňava Spišská Nová Ves
+- Košice | Košice | Košice I Košice II Košice III Košice IV Košice-okolie Gelnica Rožňava Spišská Nová Ves
 
 - | | Okres
 
@@ -26,7 +26,7 @@ Príloha k vyhláške č. 736/2004 Z. z.
 
 - | | Okres
 
-- Prešov | Prešov | Prešov Bardejov Humenné Kežmarok Medzilaborce Poprad Sabinov Stará Ľubovňa Stropkov Svidník Vranov nad Topľou
+- Prešov | Prešov | Prešov Bardejov Humenné Kežmarok Levoča Medzilaborce Poprad Sabinov Stará Ľubovňa Stropkov Svidník Vranov nad Topľou
 
 - | | Okres
 
