@@ -2,9 +2,17 @@
 
 - 1a) Napríklad § 18 a 19 Obchodného zákonníka.
 
+- 1aa) § 2 písm. b) zákona č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
+
 - 2) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2a) § 2 písm. j) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2aa) § 20 ods. 1 a 2 zákona č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov.
+
+- § 2 ods. 1 zákona č. 514/2009 Z. z. o doprave na dráhach.
+
+- 2ab) § 8 zákona č. 56/2012 Z. z. o cestnej doprave.
 
 - 2b) § 23 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
