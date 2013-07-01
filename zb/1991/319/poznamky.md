@@ -40,7 +40,7 @@
 
 - 9d) § 10 ods. 2 zákona č. 92/1991 Zb.
 
-- 10) § 9 ods. 1 písm. b) zákona č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
+- 10) § 4 zákona č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 13 ods. 4 zákona č. 87/1991 Zb.
 
@@ -62,7 +62,7 @@
 
 - 17) § 11 ods. 3 písm. f) zákona Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
 
-- 18) Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 532/1990 Zb. o vydaní štátnych dlhopisov na úhrady pohľadávok z priznaných odškodnení podľa zákona č. 119/1990 Zb. o súdnej rehabilitácii.
+- 18) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
 
 - Nariadenie vlády Slovenskej republiky č. 289/1991 Zb.
 
