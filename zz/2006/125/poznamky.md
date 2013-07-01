@@ -46,9 +46,13 @@
 
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 16a) § 16 ods. 1 písm. a) prvý bod zákona č. 124/2006 Z. z. v znení zákona č. 154/2013 Z. z.
+
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
 
 - 17a) § 37 zákona č. 462/2007 Z. z.
+
+- 17aa) § 15 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
