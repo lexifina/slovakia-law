@@ -260,7 +260,39 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - (1)
 
-- Dovezená účinná látka musí byť vyrobená v súlade s požiadavkami správnej výrobnej praxe.“.
+- Dovezená účinná látka musí byť vyrobená v súlade s požiadavkami správnej výrobnej praxe.
+
+- (2)
+
+- Účinnú látku možno dovážať z tretieho štátu na základe písomného potvrdenia príslušného orgánu tretieho štátu o tom, že
+
+- a)
+
+- výrobca účinnej látky spĺňa požiadavky správnej výrobnej praxe,
+
+- b)
+
+- vykonáva kontroly dodržiavania správnej výrobnej praxe u výrobcu účinnej látky vrátane opakovaných a neohlásených kontrol,
+
+- c)
+
+- bezodkladne oznámi štátnemu ústavu zistené nedodržiavanie požiadaviek správnej výrobnej praxe.
+
+- (3)
+
+- Predloženie písomného potvrdenia podľa odseku 2 nezbavuje držiteľa povolenia na výrobu liekov povinností podľa § 15 ods. 1 písm. r), ab), ac), ae) a af).
+
+- (4)
+
+- Písomné potvrdenie podľa odseku 2 sa nevyžaduje, ak
+
+- a)
+
+- Európska komisia (ďalej len „Komisia“) zaradila tretí štát do zoznamu tretích štátov, ktoré zaviedli a uplatňujú požiadavky správnej výrobnej praxe,
+
+- b)
+
+- sú problémy s dostupnosťou humánneho lieku a štátny ústav kontrolou u výrobcu účinnej látky v treťom štáte zistí, že výrobca účinnej látky dodržiava požiadavky správnej výrobnej praxe a má platné osvedčenie vydané príslušným orgánom tretieho štátu o dodržiavaní požiadaviek správnej výrobnej praxe; štátny ústav o tom informuje Komisiu.“.
 
 - 28. V § 13 ods. 2 úvodnej vete sa slová „Zdravotnícke zariadenie“ nahrádzajú slovami „Poskytovateľ zdravotnej starostlivosti vo všeobecnej nemocnici alebo špecializovanej nemocnici<sup>13</sup>) (ďalej len „ústavné zdravotnícke zariadenie“)“.
 
@@ -1756,7 +1788,19 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 164. V § 138 sa za odsek 23 vkladajú nové odseky 24 až 26, ktoré znejú:
 
-- „(25)
+- „(24)
+
+- Výrobca účinnej látky, dovozca účinnej látky alebo distribútor účinnej látky sa dopustí iného správneho deliktu, ak
+
+- a)
+
+- neoznámi najmenej 60 dní pred začatím činnosti písomne štátnemu ústavu zámer vykonávať výrobu účinnej látky, dovoz účinnej látky a distribúciu účinnej látky,
+
+- b)
+
+- nepredloží štátnemu ústavu každoročne do 31. decembra zoznam vykonaných zmien v údajoch v oznámení podľa § 12a ods. 2.
+
+- (25)
 
 - Sprostredkovateľ nákupu alebo predaja humánneho lieku sa dopustí iného správneho deliktu, ak
 
