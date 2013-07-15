@@ -1,0 +1,3 @@
+Príloha č. 5 k vyhláške č. 195/2013 Z. z.
+
+- KALKULÁCIA EKONOMICKY OPRÁVNENÝCH NÁKLADOV V TISÍCOCH EUR [Vzor 05](../assets/b942ec65e054ec8a02c11c90890c5998f4cd5b602f16f02ef00643b03b3de2e9.pdf)
