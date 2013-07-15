@@ -1,4 +1,4 @@
-- 1) § 4 písm. a) prvý až piaty bod zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+- 1) § 4 písm. a) zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 132/2013 Z. z.
 
 - 2) § 4 písm. b) zákona č. 186/2009 Z. z.
 

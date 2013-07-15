@@ -60,7 +60,35 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 14. dohľad.
 
-  - C. Sektor doplnkového dôchodkového sporenia
+  - C. Sektor starobného dôchodkového sporenia
+
+    - 1. právna úprava starobného dôchodkového sporenia,
+
+    - 2. základy nemocenského poistenia, úrazového poistenia, garančného poistenia a poistenia v nezamestnanosti vo väzbe na starobné dôchodkové sporenie,
+
+    - 3. starobné poistenie a invalidné poistenie,
+
+    - 4. zmluva o starobnom dôchodkovom sporení,
+
+    - 5. osobný rozsah starobného dôchodkového sporenia a platenie príspevkov na starobné dôchodkové sporenie,
+
+    - 6. dôchodky starobného dôchodkového sporenia, podmienky ich vyplácania a dedenie v starobnom dôchodkovom sporení,
+
+    - 7. dôchodková správcovská spoločnosť a odplata dôchodkovej správcovskej spoločnosti,
+
+    - 8. dôchodkové fondy, investovanie v dôchodkových fondoch a osobné dôchodkové účty,
+
+    - 9. sprostredkovanie starobného dôchodkového sporenia,
+
+    - 10. informačné povinnosti v starobnom dôchodkovom sporení,
+
+    - 11. propagačná činnosť a reklama v starobnom dôchodkovom sporení,
+
+    - 12. dohľad nad vykonávaním starobného dôchodkového sporenia,
+
+    - 13. zdaňovanie v oblasti starobného dôchodkového sporenia.
+
+  - D. Sektor doplnkového dôchodkového sporenia
 
     - 1. právna úprava doplnkového dôchodkového sporenia,
 
@@ -84,7 +112,7 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 11. dohľad.
 
-  - D. Sektor prijímania vkladov
+  - E. Sektor prijímania vkladov
 
     - 1. právna úprava bankovníctva, bankový systém a centrálne banky,
 
@@ -102,7 +130,7 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 8. dohľad.
 
-  - E. Sektor poskytovania úverov
+  - F. Sektor poskytovania úverov
 
     - 1. právna úprava a teória poskytovania úverov,
 
@@ -122,7 +150,7 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 9. dohľad.
 
-  - F. Finančné poradenstvo
+  - G. Finančné poradenstvo
 
     - 1. právna úprava a základy finančného poradenstva,
 
@@ -144,7 +172,7 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 10. zdaňovanie v oblasti finančného trhu vrátane správy daní.
 
-  - G. Všeobecné znalosti a právne aspekty finančného trhu
+  - H. Všeobecné znalosti a právne aspekty finančného trhu
 
     - 1. základy právneho systému Slovenskej republiky, právne odvetvia, pramene práva, základné právne normy,
 
@@ -162,6 +190,6 @@ Príloha č. 1 k vyhláške č. 600/2009 Z. z.
 
     - 8. princípy Európskej únie v oblasti voľného poskytovania služieb a kapitálu.
 
-    - Na základný stupeň odbornej spôsobilosti, stredný stupeň odbornej spôsobilosti a vyšší stupeň odbornej spôsobilosti sa vzťahujú okruhy tém uvedené v písmenách A až E a G.
+    - Na základný stupeň odbornej spôsobilosti, stredný stupeň odbornej spôsobilosti a vyšší stupeň odbornej spôsobilosti sa vzťahujú okruhy tém uvedené v písmenách A až F a H.
 
-    - Na najvyšší stupeň odbornej spôsobilosti sa vzťahujú okruhy tém uvedené v písmenách A až G.
+    - Na najvyšší stupeň odbornej spôsobilosti sa vzťahujú okruhy tém uvedené v písmenách A až H.
