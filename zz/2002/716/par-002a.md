@@ -1,3 +1,3 @@
 # § 2a
 
-Týmto nariadením vlády sa preberá právny akt Európskych spoločenstiev a Európskej únie uvedený v prílohe.
+Týmto nariadením vlády sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
