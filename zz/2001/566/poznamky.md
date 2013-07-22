@@ -412,10 +412,6 @@
 
 - 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
 
-- 104) § 23 ods. 6 písm. d) zákona č. 366/1999 Z. z. o daniach z príjmov.
-
-- 106) § 3 zákona č. 483/2001 Z. z.
-
 - 107) § 37 ods. 1 písm. f) zákona č. 747/2004 Z. z.
 
 - 107a) Napríklad § 2 ods. 1 zákona č. 107/2004 Z. z. o spotrebnej dani z piva.
@@ -531,3 +527,5 @@
 - 124) § 6 ods. 3 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
 - 125) Zákon č. 659/2007 Z. z.
+
+- 126) § 28a a 31b zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 206/2013 Z. z.
