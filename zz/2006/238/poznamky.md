@@ -32,6 +32,20 @@
 
 - 13) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
+- 13a) § 3 ods. 9 zákona č. 541/2004 Z. z. v znení neskorších predpisov.
+
+- 13b) § 5 ods. 3 a § 8 ods. 3 zákona č. 541/2004 Z. z. v znení zákona č. 21/2007 Z. z.
+
+- 13c) Článok 7 ods. 4 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
+
+- 13d) § 20 ods. 2 a príloha č. 1 bod C písm. m) zákona č. 541/2004 Z. z. v znení zákona č. 350/2011 Z. z.
+
+- 13e) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 13f) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13g) § 4 ods. 2 písm. e) šiesty bod zákona č. 541/2004 Z. z. v znení zákona č. 143/2013 Z. z.
+
 - 14) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
 - 15) Zákon č. 552/2003 Z. z. v znení neskorších predpisov.
