@@ -6,6 +6,8 @@
 
 - Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1aaa) § 2 ods. 2 písm. u) zákona č. 355/2007 Z. z.
+
 - 1ab) Čl. 2 ods. 13 nariadenia Komisie (Euratom) č. 302/2005 z 8. februára 2005 o uplatňovaní systému záruk Euratomu (Ú. v. EÚ L 54, 28. 2. 2005).
 
 - 1ac) Tabuľka č. 1 prílohy č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
@@ -105,6 +107,8 @@
 - 28) Zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Nariadenie vlády Slovenskej republiky č. 312/2007 Z. z., ktorým sa ustanovujú podrobnosti o spôsobe výberu a platenia povinného príspevku na Národný jadrový fond na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi.
+
+- 29) Článok 7 ods. 4 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
 
 - 30) § 11 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
