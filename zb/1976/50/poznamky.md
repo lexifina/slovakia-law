@@ -108,7 +108,7 @@
 
 - 10j) Vládne nariadenie č. 29/1959 Zb. o oprávneniach k cudzím nehnuteľnostiam pri stavbách a prevádzke podzemných potrubí pre pohonné látky a ropu.
 
-- 10ja) § 1 a 6 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov.
+- 10ja) § 1 ods. 2 a 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10jb) § 31 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

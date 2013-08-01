@@ -4,7 +4,7 @@
 
 - a) orgán verejnej správy, ktorý je správnym orgánom chrániacim záujmy uvedené v § 126 ods. 1, ak konanie podľa osobitného predpisu upravujúceho jeho pôsobnosť je súčasťou konania podľa tohto zákona, má naň nadväzovať alebo s ním súvisí,
 
-- b) obec, ak nie je stavebným úradom podľa tohto zákona a konanie sa týka pozemku alebo stavby na jej území, okrem stavby diaľnice a cesty pre motorové vozidlá,
+- b) obec, ak nie je stavebným úradom podľa tohto zákona a konanie sa týka pozemku alebo stavby na jej území, okrem stavieb uvedených v § 117b,
 
 - c) vlastník sietí a zariadení technického vybavenia územia a iná právnická osoba, ak to ustanovuje osobitný predpis.<sup>15</sup>)
 
