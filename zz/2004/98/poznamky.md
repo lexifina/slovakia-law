@@ -102,6 +102,8 @@
 
 - § 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 19aa) Zákon č. 218/2013 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
+
 - 20) § 2 ods. 2 písm. f) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - § 313 až 322 Obchodného zákonníka.
