@@ -100,6 +100,12 @@
 
 - 29) § 11 Trestného zákona.
 
+- 29a) § 199 až 203 Trestného zákona.
+
+- 29b) § 368 až 370 Trestného zákona.
+
+- 29c) § 179 až 181 Trestného zákona.
+
 - 30) § 328 až 336 Trestného zákona.
 
 - 31) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
@@ -146,6 +152,8 @@
 
 - 41a) § 3 ods. 1 písm. a) druhý bod zákona č. 153/2013 Z. z.
 
+- 41aa) § 61 ods. 4 Trestného zákona.
+
 - 42) § 50 ods. 2 písm. d) zákona č. 581/2004 Z. z.
 
 - 43) § 251 až 351 Občianskeho súdneho poriadku.
@@ -190,6 +198,32 @@
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
 
+- 55ja) § 10 ods. 1 Trestného poriadku.
+
+- 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 55jc) § 201, 201a, 201b a 202 Trestného zákona.
+
+- 55jd) Napríklad § 179 až 181 Trestného zákona.
+
+- 55je) § 199 Trestného zákona.
+
+- 55jf) § 200 Trestného zákona.
+
+- 55jg) Napríklad § 179, 368, 371 a 372 Trestného zákona.
+
+- 55jh) § 203 Trestného zákona.
+
+- 55ji) Napríklad § 208 a 420 Trestného zákona.
+
+- 55jj) Napríklad § 155 až 158, 171 až 173, 174, 175, 176, 205 až 207 a 209 až 211 Trestného zákona.
+
+- 55jk) Napríklad § 179, 367, 371 a 372 Trestného zákona.
+
+- 55jl) Napríklad § 179 Trestného zákona.
+
+- 55jm) Napríklad § 155 až 158, 171 až 174, 176, 207, 209 a 210 Trestného zákona.
+
 - 55k) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
 
 - 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
@@ -209,6 +243,8 @@
 - 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
 
 - 58e) Zákon č. 362/2011 Z. z.
+
+- 58f) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 
 - 59) § 24 a 25 zákona č. 576/2004 Z. z.
 
