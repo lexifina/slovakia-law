@@ -36,6 +36,10 @@
 
 - 16a) Kategória I písm. b) a c), kategória II až V prílohy č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
 
+- 16b) § 11 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Čl. 15 nariadenia (ES) č. 657/2008.
+
 - 17) Čl. 11 ods. 3 nariadenia (ES) č. 657/2008.
 
 - 18) Čl. 8 a 9 nariadenia (ES) č. 657/2008.
@@ -45,5 +49,7 @@
 - 19a) Príloha č. I nariadenia (ES) č. 657/2008 v znení nariadenia (ES) č. 966/2009.
 
 - 19b) § 11 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19c) § 10 a 11 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. v znení neskorších predpisov.
 
 - 20) Čl. 14 ods. 1 nariadenia (ES) č. 657/2008.
