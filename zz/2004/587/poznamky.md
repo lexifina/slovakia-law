@@ -16,11 +16,11 @@
 
 - 8a) § 32a ods. 6 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
-- 8b) § 23 ods. 3 zákona č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení zákona č. 587/2004 Z. z.
+- 8b) § 26 ods. 4 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
 
-- 9) § 58 ods. 3 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+- 9) § 10 ods. 10, § 16 ods. 8 a § 18 ods. 7 a 9 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
-- 9a) § 3 ods. 2 a 3 zákona č. 409/2001 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
+- 9a) § 3 ods. 2 a 3 zákona č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
 
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -28,9 +28,19 @@
 
 - 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
+- 11b) § 14 ods. 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
+
+- 11c) § 35 ods. 4 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 11d) § 28 ods. 2 zákona č. 326/2005 Z. z. o lesoch.
+
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
-- 12a) § 16 ods. 8 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov
+- 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 12b) § 8 ods. 2 a § 12 ods. 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z.
+
+- 12c) § 10 ods. 10 zákona č. 414/2012 Z. z.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
@@ -46,13 +56,21 @@
 
 - 19) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
+- 19a) Napríklad § 409 až 470 a § 536 až 565 Obchodného zákonníka, § 588 až 627 a § 631 až 656 Občianskeho zákonníka, § 66 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, § 42 ods. 8 zákona č. 25/2006 Z. z. v znení neskorších predpisov.
+
 - 20) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 21) § 11 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+- 21) § 11 a § 108 až 165 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+
+- § 19 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) Zákon č. 502/2001 Z. z.
 
 - Zákon č. 523/2004 Z. z.
+
+- 22a) § 11 a 12 zákona č. 502/2001 Z. z. v znení neskorších predpisov.
+
+- 22b) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 23) § 5 a 9 zákona č. 525/2003 Z. z.
 
