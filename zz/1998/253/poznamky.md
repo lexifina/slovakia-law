@@ -12,21 +12,17 @@
 
 - 4c) § 13 zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov.
 
-- 4d) § 114 až 118 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
-
-- 4e) § 139 ods. 1 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+- 4d) § 31 ods. 4 až 6 a § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 4f) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 5) § 115 Občianskeho zákonníka.
-
 - 5a) § 146 ods. 2 a § 705a Občianskeho zákonníka v znení zákona č. 526/2002 Z. z.
+
+- 5b) § 16 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 216/2007 Z. z.
 
 - 6) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 7) § 46 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
-
-- § 24 ods. 2 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 207/2004 Z. z.
+- 7) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
 - 8) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
