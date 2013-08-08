@@ -4,13 +4,21 @@ PRÍLOHA C
 
   - I. časť Perzistentné organické látky podliehajúce požiadavkám podľa článku 5 Táto príloha sa vzťahuje na nasledujúce perzistentné organické látky, ak sa neúmyselne tvoria a uvoľňujú z antropogénnych zdrojov.
 
-  - Chemická látka
+  - Chemická látka | Aktivita | Špecifická výnimka
 
-  - Polychlórované dibenzo-p-dioxíny a dibenzofurány (PCDD/PCDF)Hexachlórbenzén (HCB) (CAS No.: 118-74-1)Polychlórované bifenyly (PCB)
+  - Polychlórované dibenzo-p-dioxíny a dibenzofurány (PCDD/PCDF) | |
+
+  - Pentachlórbenzén* CAS č. 608-93-5 | Výroba | Žiadna
+
+  - | Použitie | Žiadna
+
+  - Hexachlórbenzén (HCB) (CAS No.: 118-74-1) | |
+
+  - Polychlórované bifenyly (PCB) | |
 
   - II. časť Kategórie zdrojov
 
-    - Polychlórované dibenzo-p-dioxíny a dibenzofurány, hexachlórbenzén a polychlórované bifenyly sa neúmyselne tvoria a uvoľňujú z termických procesov, v prítomnosti organických látok a chlóru, ako výsledok neúplného spaľovania alebo chemických reakcií. Nasledujúce priemyselné kategórie zdrojov sú možným zdrojom pomerne vysokej tvorby a uvoľňovania týchto látok do životného prostredia:
+    - Polychlórované dibenzo-p-dioxíny a dibenzofurány, pentachlórbenzén, hexachlórbenzén a polychlórované bifenyly sa neúmyselne tvoria a uvoľňujú z termických procesov, v prítomnosti organických látok a chlóru, ako výsledok neúplného spaľovania alebo chemických reakcií. Nasledujúce priemyselné kategórie zdrojov sú možným zdrojom pomerne vysokej tvorby a uvoľňovania týchto látok do životného prostredia:
 
     - a) spaľovne odpadu vrátane spoločného spaľovania komunálneho, nebezpečného alebo nemocničného odpadu alebo splaškových kalov,
 
@@ -30,7 +38,7 @@ PRÍLOHA C
 
   - III. časť Kategórie zdrojov
 
-    - Polychlórované dibenzo-p-dioxíny a dibenzofurány, hexachlórbenzén a polychlórované bifenyly sa môžu neúmyselne tvoriť a uvoľňovať aj z nasledujúcich kategórií zdrojov:
+    - Polychlórované dibenzo-p-dioxíny a dibenzofurány, pentachlórbenzén, hexachlórbenzén a polychlórované bifenyly sa môžu neúmyselne tvoriť a uvoľňovať aj z nasledujúcich kategórií zdrojov:
 
     - a) otvoreného horenia odpadu vrátane horenia skládok,
 
