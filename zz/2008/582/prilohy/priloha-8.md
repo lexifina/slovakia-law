@@ -32,7 +32,7 @@ e) dokumenty, na základe ktorých sa získal informovaný súhlas účastníkov
 
 f) vyhlásenie o tom, či zdravotnícka pomôcka obsahuje ako neoddeliteľnú súčasť látku, derivát ľudskej krvi alebo pomocnú látku uvedenú v prílohe č. 1 bode 7.4.1., 7.4.2. alebo 7.4.3.,
 
-g) vyhlásenie o tom, či zdravotnícka pomôcka bola alebo nebola vyrobená s využitím tkanív živočíšneho pôvodu podľa prílohy č.13,
+g) vyhlásenie o tom, či zdravotnícka pomôcka bola alebo nebola vyrobená s využitím tkanív živočíšneho pôvodu podľa osobitného predpisu,<sup>12a</sup>)
 
 h) stanovisko príslušnej etickej komisie a uvedenie aspektov, ktorých sa týka,
 
@@ -58,7 +58,7 @@ b) pri zdravotníckych pomôckach určených na klinické skúšanie dokumentác
 
 5. údaje o vykonaných skúškach na hodnotenie bezpečnosti, kvality a užitočnosti látky alebo derivátu ľudskej krvi uvedenej v prílohe č. 1 bode 7.4., 7.4.1., 7.4.2. alebo 7.4.3., ak zdravotnícka pomôcka obsahuje ako svoju neoddeliteľnú súčasť uvedenú látku alebo derivát ľudskej krvi, s prihliadnutím na účel určenia zdravotníckej pomôcky,
 
-6. opatrenia na riadenie rizík podľa prílohy č. 13, ktoré sa uplatnili na zníženie rizika infekcie, ak sa zdravotnícka pomôcka vyrába s využitím tkanív živočíšneho pôvodu,
+6. opatrenia na riadenie rizík podľa osobitného predpisu,<sup>12a</sup>) ktoré sa uplatnili na zníženie rizika infekcie, ak sa zdravotnícka pomôcka vyrába s využitím tkanív živočíšneho pôvodu,
 
 7. výsledky vykonaných výpočtov navrhovania, výsledky vykonaných inšpekcií, technických skúšok a podobne; výrobca prijme potrebné opatrenia, aby sa výrobnými postupmi zabezpečilo, že vyrobené zdravotnícke pomôcky sú v zhode s touto dokumentáciou, a musí umožniť posúdenie alebo v prípade potreby overenie alebo audit účinnosti týchto opatrení.
 
