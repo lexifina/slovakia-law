@@ -1,7 +1,9 @@
 Príloha k nariadeniu vlády č. 201/2006 Z. z.
 
-- ZOZNAM PREBRANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 77/541/EHS z 28. júna 1977 o aproximácii právnych predpisov členských štátov o bezpečnostných pásoch a zadržiavacích systémoch motorových vozidiel (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 4.) v znení smernice Rady 81/576/EHS z 20. júla 1981 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Komisie 82/319/EHS z 2. apríla 1982 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Rady 87/354/EHS z 25. júna 1987 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 8.), smernice Komisie 90/628/EHS z 30. októbra 1990 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 10.), smernice Komisie 96/36/ES zo 17. júna 1996 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 17.), smernice Komisie 2000/3/ES z 22. februára 2000 (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 25.), smernice Komisie 2005/40/ES zo 7. septembra 2005 (Ú. v. EÚ L 255, 30. 9. 2005) a v znení Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (Ú. v. EÚ L 236, 23. 9. 2003).
 
   - 2. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
+
+  - 3. Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 158, 10. 6. 2013).
