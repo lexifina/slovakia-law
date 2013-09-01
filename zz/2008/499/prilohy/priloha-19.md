@@ -1,4 +1,4 @@
-Príloha č. 18 k nariadeniu vlády č. 499/2008 Z. z. ZOZNAM VYKONÁVANÝCH PRÁVNYCH AKTOV EURÓPSKEJ ÚNIE
+Príloha č. 18 k nariadeniu vlády č. 499/2008 Z. z. ZOZNAM VYKONÁVANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
 1. Nariadenie Rady (ES) č. 1257/1999 zo 17. mája 1999 o podpore rozvoja vidieka z Európskeho poľnohospodárskeho usmerňovacieho a záručného fondu (EPUZF) a ktorým sa menia a rušia niektoré nariadenia (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 25) v znení
 
@@ -77,3 +77,9 @@ Príloha č. 18 k nariadeniu vlády č. 499/2008 Z. z. ZOZNAM VYKONÁVANÝCH PR�
 10. Nariadenie Rady (ES) č. 73/2009 z 19. januára 2009, ktorým sa ustanovujú spoločné pravidlá režimov priamej podpory pre poľnohospodárov v rámci spoločnej poľnohospodárskej politiky a ktorým sa ustanovujú niektoré režimy podpory pre poľnohospodárov, ktorým sa menia a dopĺňajú nariadenia (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a ktorým sa zrušuje nariadenie (ES) č. 1782/2003 (Ú. v. EÚ L 30, 31. 1. 2009).
 
 11. Nariadenie Komisie (ES) č. 1122/2009 z 30. novembra 2009, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 73/2009, pokiaľ ide o krížové plnenie, moduláciu a integrovaný správny a kontrolný systém v rámci schém priamej podpory pre poľnohospodárov ustanovených uvedeným nariadením, ako aj podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o krížové plnenie v rámci schémy podpory ustanovenej pre odvetvie vinohradníctva a vinárstva (Ú. v. EÚ L 316, 2. 12. 2009).
+
+12. Nariadenie Komisie (EÚ) č. 65/2011 z 27. januára 2011, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 25, 28. 1. 2011) v znení
+
+– vykonávacieho nariadenia Komisie (EÚ) č. 147/2012 z 20. februára 2012 (Ú. v. EÚ L 48, 21. 2. 2012),
+
+– vykonávacieho nariadenia Komisie (EÚ) č. 937/2012 z 12. októbra 2012 (Ú. v. EÚ L 280, 13. 10. 2012).

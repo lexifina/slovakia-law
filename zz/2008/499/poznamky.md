@@ -14,6 +14,14 @@
 
 - Nariadenie Komisie (ES) č. 796/2004 z 21. apríla 2004, ktorým sa ustanovujú podrobné pravidlá na uplatňovanie krížového plnenia, modulácie a integrovaného správneho a kontrolného systému uvedeného v nariadeniach Rady (ES) č. 1782/2003 a (ES) č. 73/2009, ako aj na uplatňovanie krížového plnenia uvedeného v nariadení (ES) č. 479/2008 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44).
 
+- 3e) Čl. 16 bod 6 nariadenia Komisie (EÚ) č. 65/2011 z 27. januára 2011, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 25, 28. 1. 2011) v platnom znení.
+
+- 3f) Hlava III nariadenia Komisie (ES) č. 1122/2009 z 30. novembra 2009, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 73/2009, pokiaľ ide o krížové plnenie, moduláciu a integrovaný správny a kontrolný systém v rámci schém priamej podpory pre poľnohospodárov ustanovených uvedeným nariadením, ako aj podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o krížové plnenie v rámci schémy podpory ustanovenej pre odvetvie vinohradníctva a vinárstva (Ú. v. EÚ L 316, 2. 12. 2009) v platnom znení.
+
+- 3g) Čl. 18 bod 3 nariadenia (EÚ) č. 65/2011 v platnom znení.<sup>3h</sup>) Čl. 4 bod 8 nariadenia (EÚ) č. 65/2011 v platnom znení.
+
+- 3h) Čl. 4 bod 8 nariadenia (EÚ) č. 65/2011 v platnom znení.
+
 - 4) Čl. 46 nariadenia (ES) č. 1698/2005.
 
 - 5) § 4 zákona č. 326/2005 Z. z.
@@ -39,6 +47,8 @@
 - 15) § 3, 15 a 16 zákona č. 193/2005 Z. z. o rastlinolekárskej starostlivosti v znení zákona č. 295/2007 Z. z.
 
 - 16) Čl. 16, 18, 23 a 31 nariadenia (ES) č. 1975/2006 v platnom znení.
+
+- 16a) Čl. 16 nariadenia (EÚ) č. 65/2011 v platnom znení.
 
 - 17) Čl. 47 nariadenia Komisie (ES) č. 1974/2006 z 15. decembra 2006, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1698/2005 o podpore rozvoja vidieka prostredníctvom EPFRV (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení.
 
@@ -107,6 +117,8 @@
 - 48) § 19 zákona č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
 - 49) Čl. 40 ods. 2 nariadenia (ES) č. 1698/2005.
+
+- 49a) Napríklad zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov, zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 50) Čl. 27 ods. 11 a 12 nariadenia (ES) č. 1974/2006.
 
