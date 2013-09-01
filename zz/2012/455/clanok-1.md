@@ -544,6 +544,56 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 
 - 111. V § 54a ods. 1 sa slová „zahraničných vysokých škôl a vysokých škôl z tretích štátov“ nahrádzajú slovami „vysokých škôl so sídlom mimo územia Slovenskej republiky“ a slová „porovnateľnú časť štúdia“ sa nahrádzajú slovami „jednotlivé časti štúdia podľa § 61 ods. 2“.
 
+- 112. Za § 54a sa vkladá § 54b, ktorý vrátane nadpisu znie:
+
+- „§ 54b
+
+- Register študijných odborov a register študijných programov
+
+- (1)
+
+- Register študijných odborov a register študijných programov sú verejné informačné systémy verejnej správy, ktorých správcom a prevádzkovateľom je ministerstvo. V registri študijných odborov a registri študijných programov sa zaznamenávajú údaje o akreditovaných činnostiach vysokých škôl a nevysokoškolských inštitúcií a ak ide o zahraničné vysoké školy, údaje o rozsahu oprávnenia na pôsobenie na území Slovenskej republiky.
+
+- (2)
+
+- Register študijných odborov slúži najmä na štatistické účely, rozpočtové účely, evidenciu akreditácií podľa § 83 ods. 3 a ich platnosti, zhromažďovanie údajov o študijných odboroch a zverejňovanie sústavy študijných odborov.
+
+- (3)
+
+- Ministerstvo zapisuje do registra študijných odborov údaje potrebné na evidenciu akreditácií podľa § 83 ods. 3 a údaje o jednotlivých študijných odboroch v rozsahu podľa § 50 ods. 4 až 6 vrátane opisov študijných odborov.
+
+- (4)
+
+- Register študijných programov slúži najmä na zabezpečenie štatistického zisťovania, rozpočtové účely, evidenciu akreditovaných študijných programov a ich aktuálneho stavu a monitorovanie podmienok, za ktorých sa uskutočňujú akreditované študijné programy.
+
+- (5)
+
+- V registri študijných programov sa zaznamenajú aj údaje o vyučujúcich jednotlivých predmetov študijných programov formou odkazu na údaje v registri zamestnancov; to sa nevzťahuje na vyučujúcich, ktorí sú zamestnancami špecializovaných výučbových zariadení, vedú záverečné práce študentov alebo na členov skúšobných komisií na vykonanie štátnych skúšok. Údaje v rozsahu meno a priezvisko a akademický titul, vedecko-pedagogický titul, umelecko-pedagogický titul a vedecká hodnosť sa zverejňujú bez obmedzenia.
+
+- (6)
+
+- Ministerstvo zapisuje do registra študijných programov
+
+- a)
+
+- údaje o študijných programoch zahraničnej vysokej školy podľa § 49a ods. 9, na ktoré má udelené oprávnenie,
+
+- b)
+
+- rozhodnutia podľa § 83 ods. 7 až 9, 15, 18 a 21 a § 86 ods. 2.
+
+- (7)
+
+- Vysoká škola zapisuje do registra študijných programov údaje o predmetoch a zrušenie akreditovaného študijného programu.
+
+- (8)
+
+- Ministerstvo určuje podmienky a spôsob automatizovaného prenosu údajov z informačného systému vysokej školy do registra študijných programov a naopak.
+
+- (9)
+
+- Ministerstvo vydá všeobecne záväzný právny predpis, ktorý ustanoví podrobnosti o údajoch, ktoré sa zapisujú do registra študijných odborov a registra študijných programov, ich štruktúre, forme, spôsobe zapisovania a lehote na zápis a ich aktualizáciu.“.
+
 - 113. V § 55 ods. 1 sa slová „Štátny občan Slovenskej republiky, občan členského štátu a občan tretieho štátu“ nahrádzajú slovom „Každý“.
 
 - 114. V § 55 ods. 6 sa slová „zozname študijných programov [§ 20 ods. 1 písm. a)]“ nahrádzajú slovami „registri študijných programov“.
@@ -579,6 +629,18 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 - Doterajší odsek 7 sa označuje ako odsek 6.
 
 - 121. V § 58 ods. 1 sa na konci pripája táto veta: „Uchádzač, ktorý nepreukáže splnenie základných podmienok prijatia na štúdium v čase overovania splnenia podmienok na prijatie, môže byť na štúdium prijatý podmienečne s tým, že je povinný preukázať splnenie základných podmienok prijatia na štúdium najneskôr v deň určený na zápis na štúdium.“.
+
+- 122. V § 58 ods. 3 písmená a) a b) znejú:
+
+- „a)
+
+- podľa § 73 ods. 3,
+
+- b)
+
+- o predchádzajúcom zamestnaní, prípadne o súčasnom zamestnaní,“.
+
+- Poznámka pod čiarou k odkazu 36 sa vypúšťa.
 
 - 123. V § 58 ods. 5 sa slová „§ 73 ods. 4 a 6“ nahrádzajú slovami „§ 73 ods. 6 a § 73a ods. 12“.
 
@@ -693,6 +755,242 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 - Doterajší odsek 2 sa označuje ako odsek 3.
 
 - 142. V § 72 ods. 3 sa na konci pripája táto veta: „Premlčacia doba neplynie počas konania o disciplinárnom priestupku ani počas prerušenia štúdia.“.
+
+- 143. § 73 vrátane nadpisu znie:
+
+- „§ 73
+
+- Register študentov
+
+- (1)
+
+- Vysoká škola vedie register študentov. Register študentov je neverejný informačný systém vysokej školy, ktorého správcom a prevádzkovateľom je vysoká škola.
+
+- (2)
+
+- Register študentov slúži na evidenciu študentov, na štatistické účely a rozpočtové účely. Vysoká škola môže využívať údaje z registra študentov aj v elektronických preukazoch študentov. Vysoká škola eviduje v registri študentov aj údaje o študentoch inej vysokej školy, ktorým poskytla ubytovanie v študentskom domove podľa § 98 v rozsahu podľa odseku 3 a odseku 4 písm. e).
+
+- (3)
+
+- Do registra študentov sa zaznamenáva meno, priezvisko, rodné priezvisko, tituly, rodné číslo, dátum narodenia, miesto narodenia, rodinný stav, miesto trvalého pobytu, pohlavie a štátne občianstvo študenta a meno, priezvisko a rodné priezvisko rodiča študenta. U cudzinca sa zaznamenáva aj miesto pobytu v Slovenskej republike; rodné číslo sa zaznamenáva, ak mu bolo pridelené ministerstvom vnútra.
+
+- (4)
+
+- V registri študentov sa okrem údajov podľa odseku 3 zaznamenávajú o jednotlivých študentoch aj údaje o
+
+- a)
+
+- zápise na štúdium,
+
+- b)
+
+- predchádzajúcom vzdelaní,
+
+- c)
+
+- študijnom programe,
+
+- d)
+
+- zápise do ďalšej časti štúdia podľa § 51 ods. 4 písm. j),
+
+- e)
+
+- pridelení ubytovania,
+
+- f)
+
+- poskytovaní štipendia podľa § 54 ods. 18 a § 95,
+
+- g)
+
+- absolvovanej štátnej skúške a udelenom akademickom titule,
+
+- h)
+
+- prerušení štúdia,
+
+- i)
+
+- skončení štúdia,
+
+- j)
+
+- vysokoškolskom diplome,
+
+- k)
+
+- štúdiu na inej vysokej škole,
+
+- l)
+
+- štúdiu spoločného študijného programu na spolupracujúcej vysokej škole v príslušnom akademickom roku,
+
+- m)
+
+- povinnosti uhradiť školné a o jeho úhradách,
+
+- n)
+
+- počte kreditov, ktoré študent získal za doterajšie štúdium študijného programu, v ktorom je zapísaný,
+
+- o)
+
+- školiteľovi, v rozsahu meno, priezvisko, ak ide o študenta doktorandského štúdia a ak ide o zamestnanca vysokej školy, odkaz na register zamestnancov,
+
+- p)
+
+- špecifickej potrebe podľa § 100,
+
+- q)
+
+- jazyku, v ktorom študent študuje príslušný študijný program.
+
+- (5)
+
+- Vysoké školy môžu poskytovať iným právnickým osobám a fyzickým osobám, s ktorými majú uzavretú dohodu o poskytovaní služieb vyžadujúcich použitie preukazu študenta, tieto údaje o študentovi:
+
+- a)
+
+- meno a priezvisko vrátane titulov,
+
+- b)
+
+- dátum narodenia,
+
+- c)
+
+- názov vysokej školy a fakulty, na ktorej študuje,
+
+- d)
+
+- formu štúdia,
+
+- e)
+
+- informáciu o prerušení alebo o skončení štúdia.
+
+- (6)
+
+- Údaje v registri študentov vysokej školy môžu spracúvať<sup>38a</sup>) len osobitne poverení zamestnanci príslušnej vysokej školy, ktorí sú povinní pri práci s registrom študentov dodržiavať právne predpisy o ochrane osobných údajov.<sup>40</sup>)
+
+- (7)
+
+- Vysoká škola zaznamená údaje v registri študentov najneskôr do konca kalendárneho mesiaca, v ktorom nastala rozhodujúca skutočnosť alebo v ktorom sa o zmene údajov dozvedela.
+
+- (8)
+
+- Na uchovávanie údajov z registra študentov sa vzťahuje osobitný predpis.<sup>40a</sup>) Osobné údaje podľa odseku 3 je možné v registri študentov spracúvať 50 rokov od skončenia štúdia dotknutej osoby.“.
+
+- Poznámka pod čiarou k odkazu 40 znie:
+
+- „40)
+
+- Zákon č. 428/2002 Z. z. v znení neskorších predpisov.“.
+
+- 144. Za § 73 sa vkladá § 73a, ktorý vrátane nadpisu znie:
+
+- „§ 73a
+
+- Centrálny register študentov
+
+- (1)
+
+- Centrálny register študentov je neverejný informačný systém verejnej správy, ktorého správcom a prevádzkovateľom je ministerstvo.
+
+- (2)
+
+- Centrálny register študentov slúži na centrálnu evidenciu študentov a absolvovaného štúdia na vysokých školách, štatistické účely a rozpočtové účely.
+
+- (3)
+
+- Centrálny register študentov je zdrojom platných údajov o študentoch pre potreby vysokých škôl, štátnych orgánov, orgánov územnej samosprávy a iných orgánov verejnej správy alebo právnických osôb podľa osobitného predpisu.<sup>40b</sup>) Ministerstvo na základe dohody s príslušným orgánom poskytne osobné údaje formou automatizovaného prístupu k údajom v centrálnom registri študentov, ak informácia o štúdiu na vysokej škole je rozhodujúca pre ich rozhodovaciu činnosť podľa osobitného predpisu<sup>40c</sup>) a sú oprávnení na spracúvanie osobných údajov o študentovi.
+
+- (4)
+
+- Vysoká škola poskytuje údaje z registra študentov do centrálneho registra študentov raz mesačne v rozsahu podľa § 73 ods. 3 a 4 okrem študentov vojenskej vysokej školy, ktorí vykonávajú štátnu službu profesionálnych vojakov.
+
+- (5)
+
+- Štruktúru, formát a spôsob poskytovania údajov z registra študentov do centrálneho registra študentov a z centrálneho registra študentov do registra študentov určí ministerstvo.
+
+- (6)
+
+- Na účely súvisiace s poskytovaním vzdelávania a s ním súvisiacich služieb vysokej školy študentovi môže vysoká škola využívať údaje z registra študentov v plnom rozsahu a údaje z centrálneho registra študentov týkajúce sa jej študentov a študentov, ktorým poskytuje ubytovanie v študentskom domove; ak ide o študentov inej vysokej školy, ktorým poskytuje ubytovanie v študentskom domove, údaje z centrálneho registra študentov v rozsahu podľa § 73 ods. 4 písm. a), d), e), h), i) a p).
+
+- (7)
+
+- Ministerstvo obrany môže využívať údaje z centrálneho registra študentov o študentoch vojenských vysokých škôl, ktorí nevykonávajú štátnu službu profesionálnych vojakov, v plnom rozsahu najmä na účely sociálneho poistenia a zdravotného poistenia podľa osobitných predpisov<sup>40c</sup>) a na účely podľa tohto zákona.
+
+- (8)
+
+- Ministerstvo vnútra môže využívať údaje z centrálneho registra študentov o študentoch policajných vysokých škôl v plnom rozsahu najmä na účely sociálneho poistenia a zdravotného poistenia podľa osobitných predpisov<sup>40c</sup>) a na účely podľa tohto zákona.
+
+- (9)
+
+- Ministerstvo zdravotníctva môže využívať údaje z centrálneho registra študentov o študentoch zdravotníckych študijných odborov v plnom rozsahu najmä na účely sociálneho poistenia a zdravotného poistenia podľa osobitných predpisov<sup>40c</sup>) a na účely podľa tohto zákona.
+
+- (10)
+
+- Ministerstvo môže využívať údaje z centrálneho registra študentov v plnom rozsahu na účely podľa tohto zákona.
+
+- (11)
+
+- Ministerstvo poskytuje Sociálnej poisťovni údaje z centrálneho registra študentov v rozsahu
+
+- a)
+
+- meno a priezvisko vrátane titulov,
+
+- b)
+
+- rodné číslo a ak ide o cudzinca, ktorému nebolo pridelené rodné číslo ministerstvom vnútra, dátum narodenia,
+
+- c)
+
+- názov vysokej školy a fakulty, na ktorej študuje,
+
+- d)
+
+- názov študijného programu,
+
+- e)
+
+- forma štúdia,
+
+- f)
+
+- informácia o začiatku, prerušení alebo skončení štúdia.
+
+- (12)
+
+- Údaje v centrálnom registri študentov môžu spracúvať len osobitne poverení zamestnanci ministerstva alebo v rozsahu podľa odsekov 7 až 9 osobitne poverení zamestnanci vysokej školy, alebo osobitne poverení zamestnanci príslušného ministerstva, ktorí sú povinní pri práci s centrálnym registrom študentov dodržiavať právne predpisy o ochrane osobných údajov.<sup>40</sup>)
+
+- (13)
+
+- Na uchovávanie údajov z centrálneho registra študentov sa vzťahuje osobitný predpis.<sup>40a</sup>) Osobné údaje podľa § 73 ods. 3 je možné v centrálnom registri študentov spracúvať 50 rokov od skončenia štúdia dotknutej osoby.
+
+- (14)
+
+- Ministerstvo je oprávnené po zmene údajov v centrálnom registri študentov spracúvať podľa tohto zákona aj údaje vedené v centrálnom registri študentov pred touto zmenou po dobu podľa odseku 13.
+
+- (15)
+
+- Ministerstvo zabezpečuje porovnanie údajov zaznamenaných do centrálneho registra študentov podľa odseku 4 s údajmi vedenými v registri obyvateľov Slovenskej republiky<sup>40d</sup>) a ak ide o rozpor medzi údajmi v centrálnom registri študentov a údajmi v registri obyvateľov Slovenskej republiky, zabezpečí opravu údajov v centrálnom registri študentov podľa údajov v registri obyvateľov Slovenskej republiky. Na účely podľa prvej vety ministerstvo vnútra poskytne ministerstvu údaje z registra obyvateľov Slovenskej republiky spôsobom umožňujúcim automatizovaný prístup k týmto údajom a automatizované porovnanie s údajmi v centrálnom registri študentov. Podrobnosti upravia ministerstvo a ministerstvo vnútra vo vzájomnej dohode.“.
+
+- Poznámky pod čiarou k odkazom 40b, 40c a 40d znejú:
+
+- „40b)
+
+- Napríklad zákon č. 396/2012 Z. z. o Fonde na podporu vzdelávania.
+
+- 40c)
+
+- Napríklad § 10 ods. 2 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení, § 4 ods. 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení, § 3 ods. 3 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 40d)
+
+- Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.“.
 
 - 145. § 74 sa dopĺňa odsekmi 3 a 4, ktoré znejú:
 
@@ -1275,6 +1573,68 @@ Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorýc
 - rozhoduje o právach vysokej školy podľa § 83 ods. 18 a 21; ak ide o rozhodnutie podľa § 83 ods. 18, rozhoduje do 60 dní odo dňa doručenia všetkých podkladov k žiadosti,“.
 
 - Doterajšie písmeno e) sa označuje ako písmeno f).
+
+- 207. Za § 102 sa vkladá § 102a, ktorý vrátane nadpisu znie:
+
+- „§ 102a
+
+- Register vysokých škôl
+
+- (1)
+
+- Register vysokých škôl je verejným informačným systémom verejnej správy, ktorého správcom a prevádzkovateľom je ministerstvo.
+
+- (2)
+
+- Register vysokých škôl slúži na zhromažďovanie a zverejňovanie údajov o vysokej škole a jej súčastiach, samosprávnych orgánoch vysokej školy, členoch správnej rady verejnej vysokej školy, samosprávnych orgánoch fakúlt, osobách poverených výkonom funkcie rektora, prorektoroch, vedúcich zamestnancoch vysokej školy, prodekanoch, vedúcich zamestnancoch súčastí vysokej školy, štatutárnom orgáne súkromnej vysokej školy a o nevysokoškolskej inštitúcii a jej štatutárnom orgáne, na rozpočtové účely, na účely štatistického zisťovania a na potreby akreditácie.
+
+- (3)
+
+- O fyzických osobách podľa odseku 2 sa v registri vysokých škôl spracúvajú údaje v rozsahu meno a priezvisko, akademický titul, vedecko-pedagogický titul, umelecko-pedagogický titul, vedecká hodnosť, dátum narodenia, adresa trvalého pobytu, funkcia, začiatok a koniec funkčného obdobia.
+
+- (4)
+
+- Ak ide o člena akademického senátu, uvádza sa aj súčasť vysokej školy a časť akademickej obce, ktorú zastupuje.
+
+- (5)
+
+- Ak ide o člena vedeckej rady vysokej školy alebo vedeckej rady fakulty, uvádza sa aj oblasť odbornej pôsobnosti člena a či ide o člena akademickej obce vysokej školy.
+
+- (6)
+
+- Ak ide o člena správnej rady verejnej vysokej školy, uvádza sa aj informácia, či člena správnej rady navrhol rektor, akademický senát alebo minister.
+
+- (7)
+
+- Z údajov podľa odseku 3 register vysokých škôl zverejňuje bez obmedzenia údaje v rozsahu meno a priezvisko, akademický titul, vedecko-pedagogický titul, umelecko-pedagogický titul, vedecká hodnosť, informácie o zastávanej funkcii a o funkčnom období. Dátum narodenia a adresa trvalého pobytu sú sprístupnené len povereným zamestnancom ministerstva. Údaje podľa odsekov 4 až 6 sa sprístupňujú bez obmedzenia.
+
+- (8)
+
+- Do registra vysokých škôl zapisuje
+
+- a)
+
+- ministerstvo názov a sídlo vysokej školy, údaje o rektorovi verejnej vysokej školy, rektorovi súkromnej vysokej školy, osobe poverenej podľa § 5 ods. 5, členoch správnej rady verejnej vysokej školy, údaje o súkromnej vysokej škole podľa § 47 ods. 4 písm. a) a b) a údaje o zahraničnej vysokej škole uvedené v oprávnení podľa § 49a,
+
+- b)
+
+- príslušné ministerstvo údaje podľa odseku 2 a písmena a) týkajúce sa štátnych vysokých škôl a ich orgánov, ktoré sú v rozhodovacej pôsobnosti príslušného ministra,
+
+- c)
+
+- príslušná nevysokoškolská inštitúcia vlastné identifikačné údaje,
+
+- d)
+
+- príslušná vysoká škola ostatné údaje.
+
+- (9)
+
+- Za zápis údajov do registra vysokých škôl a za ich aktualizáciu zodpovedá právnická osoba, ktorá údaj do registra vysokých škôl zapisuje.
+
+- (10)
+
+- Ministerstvo vydá všeobecne záväzný právny predpis, ktorý ustanoví podrobnosti o údajoch, ktoré sa zapisujú do registra vysokých škôl, ich štruktúre, forme, spôsobe zapisovania a lehote na zápis a aktualizáciu.“.
 
 - 208. § 103 vrátane nadpisu znie:
 
