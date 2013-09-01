@@ -1178,71 +1178,93 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - SLOVENSKÝ JAZYK A LITERATÚRA
 
-      - Každé zadanie obsahuje dve úlohy a východiskový literárny text. Jedna z úloh musí obsahovať učivo zo slovenského jazyka. Ak by literárny text neobsahoval vhodné podnety pre úlohu z jazyka, môže byť k tejto úlohe pripojený ešte špecifický text.
+      - Každé maturitné zadanie obsahuje dve úlohy a súvisiace východiskové texty. Prvá úloha obsahuje učivo zo slovenského jazyka. Druhá úloha obsahuje učivo z literatúry.
 
       - Charakteristika úloh maturitných zadaní
 
-      - Úloha č. 1 – Úloha je zameraná na reprodukciu vedomostí z literárnej histórie a teórie literatúry (prevláda forma monológu) a na následnú schopnosť uplatniť tieto vedomosti pri interpretácii textu literárnej ukážky (prevláda forma dialógu s členmi predmetovej maturitnej komisie). Úloha môže mať tieto varianty:
+      - Úloha č. 1 – Úloha je zameraná tak, aby žiak pri odpovedi prejavil pripravenosť komunikovať v štátnom jazyku, schopnosť jazykovo, kompozične a štylisticky analyzovať a interpretovať text a znalosť teoretického systému slovenského jazyka v rozsahu určenom katalógom cieľových požiadaviek a vzdelávacím štandardom. Zároveň má žiak preukázať schopnosť pohotovo reagovať na podnety, argumentovať a kriticky hodnotiť text; uplatňuje sa forma dialógu s členmi predmetovej maturitnej komisie.
 
-        - a) variant – ak je úloha zameraná historicky, jej obsahom je priblíženie literárno-umeleckého obdobia a prehľad o najvýznamnejších autoroch (2 až 3) s ideovou, tematickou a umeleckou charakteristikou ich najdôležitejších diel a následná analýza a hodnotenie textu na základe argumentácie (dokazovanie vlastných tvrdení prvkami z textu),
-
-        - b) variant – ak je úloha zameraná tematicky, jej obsahom je priblíženie odlišného stvárnenia príslušnej témy v rôznych dielach a následná analýza a hodnotenie textu na základe argumentácie (dokazovanie vlastných tvrdení prvkami z textu),
-
-        - c) variant – ak je úloha zameraná na problematiku žánrovej formy, jej obsahom je definovanie žánrovej formy, náčrt jej historického vývinu, resp. prehľad modifikácií žánru u rôznych autorov a následná analýza a hodnotenie textu na základe argumentácie (dokazovanie vlastných tvrdení prvkami z textu).
-
-      - Úloha č. 2 – Úloha je zameraná tak, aby žiak pri odpovedi prejavil svoju pripravenosť demonštrovať znalosť teoretického systému slovenského jazyka určenú základnými pedagogickými dokumentmi a svoju schopnosť uplatniť tieto vedomosti pri vysvetľovaní konkrétnych jazykových javov, ktoré sa vyskytli v texte literárnej ukážky (prevláda forma dialógu s členmi predmetovej maturitnej komisie).
+      - Úloha č. 2 – Úloha je zameraná na schopnosť analyzovať, interpretovať a esteticky hodnotiť umelecký text a pritom uplatňovať vedomosti z literárnej teórie a literárnej histórie; uplatňuje sa forma dialógu s členmi predmetovej maturitnej komisie.
 
       - Zastúpenie jednotlivých tematických okruhov v úlohách maturitných zadaní je takéto:
 
-      - Úlohy z literatúry
-
-      - slovenská literatúra,
-
-      - svetová literatúra,
-
-      - teória literatúry.
-
       - Úlohy z jazyka
 
-      - lexikológia a frazeológia,
+      - zvuková rovina jazyka a pravopis,
 
-      - morfológia,
+      - významová/lexikálna rovina jazyka,
 
-      - zvuková a grafická stránka jazyka,
+      - tvarová/morfologická rovina jazyka,
 
-      - syntax,
+      - skladobná/syntaktická rovina jazyka,
+
+      - sloh,
+
+      - jazykoveda,
+
+      - jazyk a reč,
+
+      - učenie sa,
 
       - práca s informáciami,
 
-      - všeobecné poznatky o jazyku,
+      - jazyková kultúra,
 
-      - štylistika.
+      - komunikácia.
+
+      - Úlohy z literatúry
+
+      - všeobecné pojmy,
+
+      - literárne obdobia a smery,
+
+      - literárne druhy,
+
+      - literárne žánre,
+
+      - štruktúra literárneho diela,
+
+      - štylizácia textu,
+
+      - metrika.
 
       - Všeobecné pomôcky
 
-      - Slovník slovenského jazyka
+      - Krátky slovník slovenského jazyka
 
-      - Frazeologický slovník
+      - Synonymický slovník slovenčiny
 
       - Pravidlá slovenského pravopisu
 
       - Hodnotenie
 
-        - a) Predmetová maturitná komisia hodnotí obsahovú kvalitu a jazykovú správnosť odpovede, t. j. rozsah slovnej zásoby, gramatickú správnosť, štylistickú pôsobivosť a stupeň rečovej pohotovosti.
+        - a) Predmetová maturitná komisia hodnotí obsahovú kvalitu a úroveň jazykovej kultúry, t. j. jazykovú a gramatickú správnosť odpovede, rozsah slovnej zásoby, štylistickú pôsobivosť a stupeň rečovej pohotovosti.
 
         - b) Každá úloha maturitného zadania sa hodnotí stupňom prospechu 1 až 5.
 
-        - c) Váha hodnotenia jednotlivých úloh je 3 : 2. Pri výpočte váženého priemeru sa používa vzorec
+        - c) Váha hodnotenia jednotlivých úloh je 3 : 2 alebo 1 : 1. Pri výpočte stupňa prospechu sa používa vzorec
 
-      - ![Obrázok_15](../assets/5b51f1a428a59422b0edcd18c41d1952edd361bf8c66ce362a45fa543f4c5b42.gif)
+      - ![Vzorec 01](../assets/50290f89a1e9afeb821d6789e90a62dc2c325699a50c7fb6b55b4dbf5526862e.png)
 
-      - pričom z je po zaokrúhlení výsledný stupeň prospechu a z<sub>i</sub> je stupeň prospechu za úlohu č. i.
+        - alebo vzorec
+
+      - ![Vzorec 02](../assets/d4db710c7476781b2ba74aea1763502fb2364e4fea65c6ff12915777454f1aea.png)
+
+        - pričom z je po zaokrúhlení výsledný stupeň prospechu, z<sub>1</sub> je známka za úlohu č. 1 a z<sub>2</sub> je známka za úlohu č. 2. Príslušný vzorec je určený predmetovou komisiou pre jednotlivé triedy podľa formulácie maturitných zadaní.
+
+        - d) Váha hodnotenia jednotlivých úloh pre gymnáziá s osemročným vzdelávacím programom môže byť aj v pomere 2 : 3. Pri výpočte stupňa prospechu sa používa vzorec
+
+      - ![Vzorec 03](../assets/35e329a0e72dd0c36c526feacb440add303974546828826e9f69d799486f446f.png)
+
+        - pričom z je po zaokrúhlení výsledný stupeň prospechu, z<sub>1</sub> je známka za úlohu č. 1 a z<sub>2</sub> je známka za úlohu č. 2.
+
+      - Ustanovenie tohto písmena sa uplatňuje do 31. augusta 2015.
 
       - Úpravy pre žiakov so zdravotným znevýhodnením
 
       - Trvanie skúšky: 30 minút
 
-      - Čas na prípravu: 40 minút
+      - Čas na prípravu: 40 minút.
 
       - SLOVENSKÝ JAZYK A SLOVENSKÁ LITERATÚRA
 
@@ -2596,7 +2618,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - 2. Maturitné témy vychádzajú z cieľových požiadaviek na vedomosti a zručnosti pre príslušný predmet maturitnej skúšky príslušného študijného odboru v oblasti odborného vzdelávania.
 
-    - 3. Maturitné témy pre teoretickú časť odbornej zložky maturitnej skúšky a praktickú časť odbornej zložky maturitnej skúšky pripravuje príslušná predmetová komisia školy. Maturitné témy sa nezverejňujú.
+    - 3. Maturitné témy pre teoretickú časť odbornej zložky maturitnej skúšky a praktickú časť odbornej zložky maturitnej skúšky pripravuje príslušná predmetová komisia školy. Maturitné témy sa nezverejňujú, okrem ich predloženia na vyjadrenie stavovskej organizácii a profesijnej organizácii k obsahu teoretickej časti odbornej zložky maturitnej skúšky a obsahu praktickej časti odbornej zložky maturitnej skúšky.
 
     - 4. Skúšajúci citlivo riadi rozhovor so žiakmi, kladie pomocné a stimulačné otázky, vyjadruje súhlas alebo nesúhlas s tvrdeniami žiaka, pričom ho vedie k tomu, aby svoje názory podopieral argumentmi a využíval pri tom písomnú prípravu a tiež vlastné poznatky získané počas prípravy na maturitnú skúšku.
 
