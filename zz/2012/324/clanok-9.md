@@ -24,9 +24,109 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 6. V § 28 ods. 5 sa slovo „príspevku“ nahrádza slovami „mesačného príspevku zákonného zástupcu na čiastočnú úhradu výdavkov“.
 
+- 7. V § 28 odseky 10 a 11 znejú:
+
+- „(10)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet detí v triede podľa odseku 9 sa môže zvýšiť o tri deti z dôvodu
+
+- a)
+
+- zmeny trvalého pobytu dieťaťa,
+
+- b)
+
+- zaradenia dieťaťa len na adaptačný pobyt alebo len na diagnostický pobyt v materskej škole,
+
+- c)
+
+- odkladu plnenia povinnej školskej dochádzky alebo dodatočného odkladu plnenia povinnej školskej dochádzky alebo
+
+- d)
+
+- zvýšeného záujmu zákonných zástupcov detí o výchovu a vzdelávanie v materskej škole.
+
+- (11)
+
+- Pri určovaní počtu detí v triede podľa odseku 10 sa môže zohľadniť počet detí v triede mladších ako tri roky.“.
+
+- 8. V § 29 odsek 13 znie:
+
+- „(13)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet žiakov v triede podľa odseku 5 sa môže zvýšiť o troch žiakov z dôvodu
+
+- a)
+
+- zmeny trvalého pobytu žiaka,
+
+- b)
+
+- opakovania ročníka žiakom,
+
+- c)
+
+- prestupu žiaka z inej školy,
+
+- d)
+
+- osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+
+- e)
+
+- preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+
+- f)
+
+- preradenia žiaka do základnej školy.“.
+
+- 9. V § 29 sa vypúšťa odsek 14.
+
 - 10. V § 30 ods. 2 sa slová „len s ročníkmi prvého stupňa“ nahrádzajú slovami „na prvom stupni“.
 
 - 11. V § 31 ods. 2 sa slová „školského registra podľa § 157 ods. 3 písm. b)“ nahrádzajú slovami „Centrálneho registra detí, žiakov a poslucháčov podľa § 157 (ďalej len „centrálny register“)“.
+
+- 12. V § 33 odsek 2 znie:
+
+- „(2)
+
+- Ak sú splnené požiadavky podľa osobitného predpisu,<sup>32a</sup>) najvyšší počet žiakov v triede podľa odseku 1 sa môže zvýšiť o troch žiakov z dôvodu
+
+- a)
+
+- zmeny trvalého pobytu žiaka,
+
+- b)
+
+- opakovania ročníka žiakom,
+
+- c)
+
+- pokračovania štúdia žiaka po prerušení štúdia,
+
+- d)
+
+- prestupu žiaka z inej školy,
+
+- e)
+
+- osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+
+- f)
+
+- prijatia žiaka do vyššieho ročníka,
+
+- g)
+
+- preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+
+- h)
+
+- zmeny študijného odboru alebo učebného odboru žiakom.“.
+
+- 13. V § 33 sa vypúšťa odsek 3.
+
+- Doterajšie odseky 4 až 6 sa označujú ako odseky 3 až 5.
 
 - 14. V § 35 ods. 5, § 36 ods. 3 a § 39 ods. 1 sa slová „školského registra podľa § 157 ods. 3 písm. b)“ nahrádzajú slovami „centrálneho registra“.
 
