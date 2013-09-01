@@ -1,6 +1,8 @@
 Príloha č. 1 k zákonu č. 576/2004 Z. z.
 
-- ZOZNAM CHORÔB [Tabuľka](../assets/35b3de6d07a3ccec8347f4aa8f9cfe721b72f9dd47013799435516a1557ad714.pdf)
+- ZOZNAM CHORÔB
+
+  - Tabuľka
 
 - Kód | Názov choroby
 
