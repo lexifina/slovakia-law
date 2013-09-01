@@ -20,13 +20,15 @@
 
 - 8) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8a) § 13 ods. 1 písm. a) zákona č. 461/2003 Z. z. v znení neskorších predpisov
+
 - 9) Napríklad § 24 zákona č. 36/2005 Z. z. o rodine a o zmene a o doplnení niektorých zákonov.
 
 - 9a) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
 
-- 9b) § 51 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 9b) § 2 ods. 3 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9c) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+- 9c) Zákon č. 447/2008 Z. z. v znení neskorších predpisov.
 
 - 9d) § 115 Občianskeho zákonníka.
 
