@@ -1264,9 +1264,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie:
 
-    - Od poplatku podľa tejto položky je oslobodené povolenie výnimky na používanie ciest I. triedy pre traktory a pracovné stroje
+    - 1. Od poplatku podľa tejto položky je oslobodené povolenie výnimky na používanie ciest I. triedy pre traktory a pracovné stroje
 
     - samohybné povinne opatrené tabuľkou s evidenčným číslom.
+
+    - 2. Od poplatku podľa tejto položky je oslobodené povolenie výnimky pre vozidlá, ktorým bolo pridelené zvláštne evidenčné číslo
+
+    - obsahujúce písmeno C.
 
     - Položka 65
 
