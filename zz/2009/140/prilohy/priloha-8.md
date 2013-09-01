@@ -17,3 +17,21 @@ Príloha č. 8 k nariadeniu vlády č. 140/2009 Z. z.
   - 7. Smernica Komisie 2010/19/EÚ z 9. marca 2010, ktorou sa na účely prispôsobenia technickému pokroku v oblasti systémov zabraňujúcich rozstreku určitých kategórií motorových vozidiel a ich prípojných vozidiel mení a dopĺňa smernica Rady 91/226/EHS a smernica Európskeho parlamentu a Rady 2007/46/ES (Ú. v. EÚ L 72, 20. 3. 2010).
 
   - 8. Nariadenie Komisie č. 371/2010/EÚ zo 16. apríla 2010, ktorým sa nahrádzajú prílohy V, X, XV a XVI k smernici Európskeho parlamentu a Rady 2007/46/ES, ktorou sa zriaďuje rámec pre schválenie motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (rámcová smernica) (Ú. v. EÚ L 110, 1. 5. 2010).
+
+  - 9. Nariadenie Komisie (EÚ) č. 183/2011 z 22. februára 2011, ktorým sa menia a dopĺňajú prílohy IV a VI k smernici Európskeho parlamentu a Rady 2007/46/ES, ktorou sa zriaďuje rámec pre typové schválenie motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (rámcová smernica) (Ú. v. EÚ L 53, 26. 2. 2011).
+
+  - 10. Nariadenie Komisie (EÚ) č. 582/2011 z 25. mája 2011, ktorým sa vykonáva, mení a dopĺňa nariadenie Európskeho parlamentu a Rady (ES) č. 595/2009 vzhľadom na emisie z ťažkých úžitkových vozidiel (Euro VI) a ktorým sa menia a dopĺňajú prílohy I a III k smernici Európskeho parlamentu a Rady 2007/46/ES (Ú. v. EÚ L 167, 25. 6. 2011).
+
+  - 11. Nariadenie Komisie (EÚ) č. 678/2011 zo 14. júla 2011, ktorým sa nahrádza príloha II a menia a dopĺňajú prílohy IV, IX a XI k smernici Európskeho parlamentu a Rady 2007/46/ES, ktorou sa zriaďuje rámec pre typové schválenie motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (rámcová smernica) (Ú. v. EÚ L 185, 15. 7. 2011).
+
+  - 12. Nariadenie Komisie (EÚ) č. 65/2012 z 24. januára 2012, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 661/2009, pokiaľ ide o ukazovatele radenia prevodových stupňov, a ktorým sa mení a dopĺňa smernica Európskeho parlamentu a Rady 2007/46/ES (Ú. v. EÚ L 28, 31. 1. 2012).
+
+  - 13. Nariadenie Komisie (EÚ) č. 1229/2012 z 10. decembra 2012, ktorým sa menia a dopĺňajú prílohy IV a XII k smernici Európskeho parlamentu a Rady 2007/46/ES, ktorou sa zriaďuje rámec pre typové schválenie motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (rámcová smernica) (Ú. v. EÚ L 353, 21. 12. 2012).
+
+  - 14. Nariadenie Komisie (EÚ) č. 1230/2012 z 12. decembra 2012, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 661/2009, pokiaľ ide o požiadavky na typové schválenie v prípade hmotností a rozmerov motorových vozidiel a ich prípojných vozidiel, a mení a dopĺňa smernica Európskeho parlamentu a Rady 2007/46/ES (Ú. v. EÚ L 353, 21. 12. 2012).
+
+  - 15. Nariadenie Komisie (EÚ) č. 143/2013 z 19. februára 2013, ktorým sa mení a dopĺňa smernica Európskeho parlamentu a Rady 2007/46/ES a nariadenie Komisie (ES) č. 692/2008, pokiaľ ide o stanovenie emisií CO<sub>2</sub> z vozidiel odovzdaných na viacstupňové typové schválenie (Ú. v. EÚ L 47, 20. 2. 2013).
+
+  - 16. Nariadenie Komisie (EÚ) č. 195/2013 zo 7. marca 2013, ktorým sa mení a dopĺňa smernica Európskeho parlamentu a Rady 2007/46/ES a nariadenie Komisie (ES) č. 692/2008, pokiaľ ide o inovatívne technológie na znižovanie emisií CO<sub>2</sub> z ľahkých osobných a úžitkových vozidiel (Ú. v. EÚ L 65, 8. 3. 2013).
+
+  - 17. Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú.v. EÚ L 158, 10. 6. 2013).
