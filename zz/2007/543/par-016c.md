@@ -1,7 +1,5 @@
 # § 16c
 
-(1) Ak žiadosť o poskytnutie podpory na tú istú poľnohospodársku pôdu podali viacerí žiadatelia a postupom podľa § 16b ods. 1 sa zistilo, že právo užívania žiadateľov je sporné, platobná agentúra konanie o poskytnutí podpory preruší a žiadateľov odkáže na konanie pred súdom.<sup>41e</sup>) Na podanie žaloby im určí primeranú lehotu, najmenej však 30 dní od doručenia oznámenia o prerušení konania.
+(1) Ak žiadosť o poskytnutie podpory na tú istú poľnohospodársku pôdu podali viacerí žiadatelia a postupom podľa § 16b ods. 1 sa zistilo, že právo užívania žiadateľov k pôde je sporné, platobná agentúra na spornej výmere neurčí stanovenú plochu<sup>41da</sup>) a v súlade s ustanovenými podmienkami rozhodne podľa osobitného predpisu.<sup>41c</sup>) Proti rozhodnutiu o poskytnutí podpory zníženej o spornú výmeru nie je prípustný opravný prostriedok.<sup>41db</sup>)
 
-(2) Ak žiadatelia platobnej agentúre nepreukážu, že v lehote podľa odseku 1 podali žalobu na súd, platobná agentúra neurčí na poľnohospodárskej pôde deklarovanej viacerými žiadateľmi výmeru a rozhodne podľa osobitného predpisu.<sup>41c</sup>) Proti rozhodnutiu nie je prípustný opravný prostriedok.
-
-(3) Ak žiadatelia podali žalobu na súd v lehote podľa odseku 1, platobná agentúra pokračuje v konaní o poskytnutí podpory po právoplatnom rozhodnutí súdu.
+(2) Ak sa v konaní pred súdom<sup>41e</sup>) preukáže, že jeden zo žiadateľov podľa odseku 1 mal v čase rozhodnutia právo užívania k pôde, a sú zachované lehoty podľa všeobecného predpisu o správnom konaní,<sup>41ea</sup>) platobná agentúra obnoví konanie podľa všeobecného predpisu o správnom konaní.<sup>41eb</sup>)

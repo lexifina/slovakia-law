@@ -46,7 +46,9 @@
 
 - 12c) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 82/1994 Z. z. v znení neskorších predpisov.
 
-- 12ca) Čl. 12 ods. 1 nariadenia (ES) č. 73/2009 (Ú. v. EÚ L 30, 31. 1. 2009).
+- 12ca) Čl. 20 písm. a) bod v) nariadenia (ES) č. 1698/2005 v platnom znení.
+
+- Čl. 12 ods. 1 až 3 nariadenia (ES) č. 73/2009 v platnom znení.
 
 - 12d) § 11 zákona č. 144/1998 Z. z.
 
@@ -188,17 +190,29 @@
 
 - 41) Napríklad nariadenie (ES) č. 1973/2004 (Ú. v. EÚ L 345, 20. 11. 2004) v platnom znení.
 
-- 41a) Napríklad nariadenie (ES) č. 796/2004 Ú. v. EÚ L 141, 30. 4. 2004 (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44), nariadenie (ES) č. 73/2009 Ú. v. EÚ L 30, 31. 1. 2009), nariadenie vlády Slovenskej republiky č. 499/2008 Z. z., nariadenie vlády Slovenskej republiky č. 20/2009 Z. z.
+- 41a) Napríklad nariadenie (ES) č. 73/2009 v platnom znení, nariadenie Komisie (ES) č. 1122/2009 z 30. novembra 2009, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 73/2009, pokiaľ ide o krížové plnenie, moduláciu a integrovaný správny a kontrolný systém v rámci schém priamej podpory pre poľnohospodárov ustanovených uvedeným nariadením, ako aj podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o krížové plnenie v rámci schémy podpory ustanovenej pre odvetvie vinohradníctva a vinárstva (Ú. v. EÚ L 316, 2. 12. 2009) v platnom znení, nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 488/2010 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
 
 - 41b) § 247 až 250k Občianskeho súdneho poriadku v znení neskorších predpisov.
 
-- 41c) Napríklad čl. 138 nariadenia (ES) č. 1973/2004 (Ú. v. EÚ L 345, 20. 11. 2004) v platnom znení, čl. 51 nariadenia (ES) č. 796/2004 (Ú. v. EÚ L 141, 30. 4. 2004; Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 44) v platnom znení, čl. 16 nariadenia (ES) č. 1975/2006 (Ú. v. EÚ L 368, 23. 12. 2006) v platnom znení, § 4 ods. 4 nariadenia vlády Slovenskej republiky č. 114/2009 Z. z.
+- 41c) Napríklad čl. 58 nariadenia (ES) č. 1122/2009 v platnom znení, čl. 16 nariadenia Komisie (EÚ) č. 65/2011 z 27. januára 2011, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 025, 28. 1. 2011) v platnom znení.
+
+- 41ca) Napríklad čl. 3 až 6 nariadenia (ES) č. 73/2009 v platnom znení.
 
 - 41d) Napríklad § 22 ods. 2 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov, § 12a zákona č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 571/2007 Z. z.
 
+- 41da) Čl. 2 ods. 23 nariadenia (ES) č. 1122/2009 v platnom znení.
+
+- 41db) § 53 až 68 zákona č. 71/1967 Zb. v znení neskorších predpisov.
+
 - 41e) § 80 písm. c) Občianskeho súdneho poriadku.
 
+- 41ea) § 63 ods. 3 zákona č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 41eb) § 62 ods. 1 písm. a), b) alebo e) zákona č. 71/1967 Zb. v znení neskorších predpisov.
+
 - 41f) § 473 až 480 Občianskeho zákonníka v znení neskorších predpisov.
+
+- 41fa) Prílohy č. 4 až 6 vyhlášky Ministerstva školstva Slovenskej republiky č. 282/2009 Z. z. o stredných školách v znení neskorších predpisov.
 
 - 42) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
