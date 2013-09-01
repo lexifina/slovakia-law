@@ -36,8 +36,6 @@ Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 
 - 39 | ŠPECIÁLNE TECHNICKÉ ODBORY | |
 
-- 3919 Q | technicko-organizačné riadenie v priemyselnej výrobe | 3919 7 | 1)
-
 - 3963 Q | požiarna ochrana | 3963 7 | 1,) 3)
 
 - 42 | POĽNOHOSPODÁRSTVO, LESNÉ HOSPODÁRSTVO A ROZVOJ VIDIEKA I | |

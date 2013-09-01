@@ -10,7 +10,9 @@ Príloha č. 7 k vyhláške č. 282/2009 Z. z.
 
 - 8226 Q | hudobno-dramatické umenie | 8226 7 | 1)
 
-- 8227 Q | tanec | |
+- 8226 Q 01 | hudobno-dramatické umenie – muzikál | 8226 7 01 | 1)
+
+- 8227 Q | tanec | | 1)
 
 - 8227 Q 01 | tanec – klasický tanec | 8227 7 01 | 2)
 
@@ -19,6 +21,10 @@ Príloha č. 7 k vyhláške č. 282/2009 Z. z.
 - 8227 Q 03 | tanec – moderný tanec | | 2)
 
 - 8228 Q | spev | 8228 7 | 1)
+
+- 8228 Q 11 | spev – stará hudba | 8228 7 11 | 1)
+
+- 8228 Q 12 | spev – komorná hudba | 8228 7 12 | 1)
 
 - 8229 Q | hudba | |
 
@@ -39,6 +45,10 @@ Príloha č. 7 k vyhláške č. 282/2009 Z. z.
 - 8229 Q 08 | hudba – cirkevná hudba | 8229 7 08 | 1)
 
 - 8229 Q 09 | hudba – hra na ľudových hudobných nástrojoch | 8229 7 09 | 1)
+
+- 8229 Q 11 | hudba – stará hudba | 8229 7 11 | 1)
+
+- 8229 Q 12 | hudba – komorná hudba | 8229 7 12 | 1)
 
 - Vysvetlivky:
 

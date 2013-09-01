@@ -140,13 +140,13 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 3765 M | technika a prevádzka dopravy | 3765 6 | 2)
 
+  - 3767 M | dopravná akadémia | 3767 6 | 2)
+
   - 39 | ŠPECIÁLNE TECHNICKÉ ODBORY | |
 
   - 3916 M | životné prostredie | 3916 6 | 2)
 
   - 3917 M | technické a informatické služby | |
-
-  - 3917 M 01 | technické a informatické služby – v hutníctve | 3917 6 01 | 2)
 
   - 3917 M 02 | technické a informatické služby – v strojárstve | 3917 6 02 | 2)
 
@@ -154,11 +154,7 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 3917 M 04 | technické a informatické služby – v chémii | 3917 6 04 | 2)
 
-  - 3917 M 05 | technické a informatické služby – v textile a odevníctve | 3917 6 05 | 2)
-
   - 3917 M 06 | technické a informatické služby – v stavebníctve | 3917 6 06 | 2)
-
-  - 3917 M 07 | technické a informatické služby – prevádzka a ekonomika železníc | 3917 6 07 | 2)
 
   - 3917 M 08 | technické a informatické služby – mechanizácia a doprava v poľnohospodárstve | 3917 6 08 | 2)
 
@@ -169,10 +165,6 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
   - 3917 M 11 | technické a informatické služby – obuvníctvo | 3917 6 11 | 2)
 
   - 3917 M 12 | technické a informatické služby – spracúvanie dreva | 3917 6 12 | 2)
-
-  - 3917 M 13 | technické a informatické služby – geológia a baníctvo | 3917 6 13 | 2)
-
-  - 3917 M 14 | technické a informatické služby – zdravotnícke služby | 3917 6 14 | 2)
 
   - 3918 M | technické lýceum | 3918 6 | 2)
 
@@ -366,6 +358,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 7662 M | animátor voľného času | 7662 6 | 2), 4)
 
+  - 7667 N | starostlivosť o seniorov v sociálnych službách | 7667 6 | 1), 4)
+
   - 82 | UMENIE A UMELECKOREMESELNÁ TVORBA I | |
 
   - 8221 M | dizajn | |
@@ -463,6 +457,10 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
   - 8279 M | dizajn a tvarovanie dreva | 8249 6 | 2), 3)
 
   - | | 8279 6 |
+
+  - 8283 M | reklamná tvorba | 8283 6 | 2), 3)
+
+  - 8289 M | keramický dizajn | 8289 6 | 2), 3)
 
   - 8295 M | tvorba vitrážového skla a smaltu | 8295 6 | 2), 3)
 

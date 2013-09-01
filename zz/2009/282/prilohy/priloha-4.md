@@ -44,6 +44,14 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - | | | 2414 L 04 | | |
 
+- 2430 H | operátor strojárskej výroby | 2432 2 | 2414 L 01 | 12 | 12 |
+
+- | | | 2414 L 02 | | |
+
+- | | | 2414 L 03 | | |
+
+- | | | 2414 L 04 | | |
+
 - 2432 H | puškár | 2432 2 | 2414 L 01 | 12 | 12 |
 
 - | | | 2414 L 02 | | |
@@ -176,7 +184,7 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - 2683 H | elektromechanik | | | | |
 
-- 2683 H 11 | elektromechanik – silnoprúdová technika | 2680 2 11 | 2675 L 01 | 12 | 10 |
+- 2683 H 11 | elektromechanik – silnoprúdová technika | 2683 2 11 | 2675 L 01 | 12 | 10 |
 
 - | | | 2675 L 02 | | |
 
@@ -203,6 +211,12 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 - | | | 2675 L 02 | | |
 
 - | | | 2675 L 03 | | |
+
+- | | | 6403 L | | |
+
+- 2683 H 17 | elektromechanik – chladiace zariadenia a tepelné čerpadlá | 2683 2 17 | 2675 L 01 | 12 | 10 |
+
+- | | | 2675 L 02 | | |
 
 - | | | 6403 L | | |
 
@@ -235,14 +249,6 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 - 2877 H | chemik pre udržiavanie textilných výrobkov a ďalšie služby | 2873 2 02 | 2890 L | 12 | 12 |
 
 - | | 2877 2 | | | |
-
-- 2878 H | biochemik | | | | |
-
-- 2878 H 01 | biochemik – mliekarská výroba | 2878 2 01 | 2982 L 04 | 12 | 10 |
-
-- 2878 H 02 | biochemik – výroba piva a sladu | 2878 2 02 | 2982 L 08 | 12 | 10 |
-
-- 2878 H 03 | biochemik – liehovarnícka výroba a výroba vína | 2878 2 03 | 2982 L 09 | 12 | 10 |
 
 - 2889 H | chemik | | | | |
 
@@ -286,11 +292,25 @@ Príloha č. 4 k vyhláške č. 282/2009 Z. z.
 
 - | | | 6403 L | | |
 
+- 2977 H | cukrár kuchár | 2977 2 | 2952 L | 10 | 10 | 3), 4)
+
+- | | | 6403 L | | |
+
+- | | | 6421 L | | |
+
 - 2978 H | cukrár pekár | 2978 2 | 2952 L | 10 | 10 | 3), 4)
 
 - | | | 2982 L 02 | | |
 
 - | | | 6403 L | | |
+
+- 2987 H | biochemik | 2878 H | | | |
+
+- 2987 H 01 | biochemik – mliekarská výroba | 2878 H 01 | 2982 L 04 | 12 | 10 |
+
+- 2987 H 02 | biochemik – výroba piva a sladu | 2878 H 02 | 2982 L 08 | 12 | 10 |
+
+- 2987 H 03 | biochemik – liehovarnícka výroba a výroba vína | 2878 H 03 | 2982 L 09 | 12 | 10 |
 
 - 31 | TEXTIL A ODEVNÍCTVO | | | | |
 
