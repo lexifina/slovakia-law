@@ -1,6 +1,8 @@
-- 1) Napríklad § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 12 ods. 2 a 3 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
+- 1) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 1a) Napríklad § 21 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 1aa) Napríklad § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 12 ods. 2 a 3 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
 
 - 1b) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
