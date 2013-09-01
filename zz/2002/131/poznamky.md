@@ -92,8 +92,6 @@
 
 - 35a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 36) Napríklad zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
-
 - 36a) Napríklad nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
 - 37) Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -114,9 +112,15 @@
 
 - 39) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
-- 40) Zákon č. 428/2002 Z. z.
+- 40) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
 
 - 40a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 40b) Napríklad zákon č. 396/2012 Z. z. o Fonde na podporu vzdelávania.
+
+- 40c) Napríklad § 10 ods. 2 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení, § 4 ods. 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení, § 3 ods. 3 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 40d) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - 40e) § 85 ods. 8 Zákonníka práce.
 
