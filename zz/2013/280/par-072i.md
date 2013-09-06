@@ -1,0 +1,5 @@
+# § 72i Prechodné ustanovenie k úprave účinnej k 7. júlu 2009
+
+(1) Za obdobie od 1. januára 2009 do 30. júna 2009 sa príspevok na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska a na úhradu nákladov na dopravu zamestnancov poskytne právnickej osobe alebo fyzickej osobe, ak o tento príspevok písomne požiada najneskôr do 31. júla 2009. Príspevok najviac vo výške 50 % zo súm ustanovených v § 60 ods. 6 na základe dokladov preukazujúcich vynaložené náklady podľa § 60 ods. 2 až 5 za obdobie od 1. januára 2009 do 30. júna 2009 poskytne príslušný úrad do 31. augusta 2009.
+
+(2) Za obdobie od 1. júla 2009 do 30. septembra 2009 sa príspevok na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska a na úhradu nákladov na dopravu zamestnancov poskytne právnickej osobe alebo fyzickej osobe, ak o tento príspevok písomne požiada najneskôr do 31. októbra 2009. Príspevok najviac vo výške 25 % zo súm ustanovených v § 60 ods. 6 na základe dokladov preukazujúcich vynaložené náklady podľa § 60 ods. 2 až 5 za obdobie od 1. júla 2009 do 30. septembra 2009 poskytne príslušný úrad do 30. novembra 2009.
