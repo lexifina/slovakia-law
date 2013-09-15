@@ -19,3 +19,5 @@ Príloha č. 5 k vyhláške č. 125/2004 Z. z.
   - 8. Rozhodnutie Komisie 2010/115/ES z 23. februára 2010, ktorým sa mení a dopĺňa príloha II k smernici Európskeho parlamentu a Rady 2000/53/ES o vozidlách po dobe životnosti (Ú. v. EÚ L 48, 25. 2. 2010).
 
   - 9. Smernica Komisie 2011/37/EÚ z 30. marca 2011, ktorou sa mení a dopĺňa príloha II k smernici Európskeho parlamentu a Rady 2000/53/ES o vozidlách po dobe životnosti (Ú. v. EÚ L 85, 31. 3. 2011).
+
+  - 10. Smernica Komisie 2013/28/EÚ zo 17. mája 2013, ktorou sa mení a dopĺňa príloha II k smernici Európskeho parlamentu a Rady 2000/53/ES o vozidlách po dobe životnosti (Ú. v. EÚ L 135, 22. 5. 2013).

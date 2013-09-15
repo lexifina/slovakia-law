@@ -1,3 +1,3 @@
 Príloha č. 1 k vyhláške č. 125/2004 Z. z. DOKUMENTÁCIA O UMIESTNENÍ STARÉHO VOZIDLA NA URČENÉ PARKOVISKO
 
-[Príloha 01](../assets/7fd9b5419e74622145ac77b31f3d1c29e1a9a45010684dd6ae10f6ff89809852.pdf)
+[Príloha 01](../assets/b0df8960946c61113f3973274315fe77495a7ae5bf3a70fd01dd25c5bcc8aa80.pdf)

@@ -1,3 +1,3 @@
 Príloha č. 2 k vyhláške č. 125/2004 Z. z. POTVRDENIE O PREVZATÍ STARÉHO VOZIDLA NA SPRACOVANIE
 
-[Príloha 02](../assets/b771c9948375058cdd5e9518b4e8331a4f90b5eba965c977a3715a38e3d9d7b8.pdf)
+[Príloha 02](../assets/34f4e62b680f7fd8545124f4369687deed9958377dd51e89490d4dd711b3ac85.pdf)

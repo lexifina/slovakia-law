@@ -1,6 +1,6 @@
 Príloha č. 4 k vyhláške č. 125/2004 Z. z. ZOZNAM
 
-materiálov a súčiastok, na ktoré sa nevzťahuje zákaz podľa § 18 ods. 3 písm. l) zákona
+materiálov a súčiastok, na ktoré sa nevzťahuje zákaz podľa § 18 ods. 4 písm. l) zákona
 
 Materiály a komponenty | | | | | Rozsah pôsobnosti a dátum skončenia platnosti výnimky | Spôsob označenia<sup>1</sup>)
 
@@ -50,7 +50,7 @@ Olovo a zlúčeniny olova v komponentoch | | | | | |
 
 8h. | | | | Olovo vo zvaroch na pripevnenie výmenníkov tepla na vykurovacie médium v zostavách s polovodičmi vysokej vodivosti s veľkosťou čipu aspoň 1cm<sup>2</sup>plochy projekcie a s nominálnou hustotou prúdu aspoň 1 A/mm2 plochy silikónového čipu | <sup>4</sup>) | X<sup>2</sup>)
 
-8i. | | | | Olovo vo zvaroch v elektrických aplikáciách na skle okrem zvarov na ­vrstvovom skle | Vozidlá s typovým schválením pred 1. januárom 2013 a náhradné súčiastky pre tieto vozidlá<sup>5</sup>) | X<sup>2</sup>)
+8i. | | | | Olovo vo zvaroch v elektrických aplikáciách na skle okrem zvarov na ­vrstvovom skle | Vozidlá s typovým schválením pred 1. januárom 2016 a po tomto dátume ako náhradné súčiastky pre tieto vozidlá | X<sup>2</sup>)
 
 8j. | | | | Olovo vo zvaroch na spájkovanie na vrstvovom skle | <sup>4</sup>) | X<sup>2</sup>)
 
@@ -86,14 +86,14 @@ Kadmium | | | | | |
 
 16. | | | | Akumulátory pre elektrické vozidlá | Ako náhradné súčiastky pre vozidlá uvedené na trh pred 31. decembrom 2008 |
 
-1) Spôsob označenia: X – označuje sa. 2) Demontáž, ak bola v súlade s položkou 10a prekročená priemerná hodnota 60 gramov na vozidlo. Na účely uplatnenia tohto ustanovenia sa nezohľadňujú elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe. 3) Táto výnimka sa preskúma v roku 2015. 4) Táto výnimka sa preskúma v roku 2014. 5) Táto výnimka bola preskúmaná do 1. januára 2012. 6) Demontáž, ak bola v súlade s položkami 8a až 8j prekročená priemerná hodnota 60 gramov na vozidlo. Na účely uplatnenia tohto ustanovenia sa nezohľadňujú elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe. | | | | | |
+1) Spôsob označenia: X – označuje sa. 2) Demontáž, ak bola v súlade s položkou 10a prekročená priemerná hodnota 60 gramov na vozidlo. Na účely uplatnenia tohto ustanovenia sa nezohľadňujú elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe. 3) Táto výnimka sa preskúma v roku 2015. 4) Táto výnimka sa preskúma v roku 2014. 6) Demontáž, ak bola v súlade s položkami 8a až 8j prekročená priemerná hodnota 60 gramov na vozidlo. Na účely uplatnenia tohto ustanovenia sa nezohľadňujú elektronické zariadenia, ktoré nenamontoval výrobca pri sériovej výrobe. | | | | | |
 
 Poznámky:
 
 – Toleruje sa maximálna hodnota koncentrácie obsahu olova, šesťmocného chrómu a ortuti v homogénnom materiáli najviac 0,1 hmotnostného percenta a obsahu kadmia v homogénnom materiáli do 0,01 hmotnostného percenta.
 
-– Opätovné využitie súčiastok vozidiel, ktoré už boli na trhu k dátumu skončenia platnosti výnimky, je povolené bez obmedzenia, keďže sa naň nevzťahuje § 18 ods. 3 písm. l) zákona č. 223/2001 Z. z.
+– Opätovné využitie súčiastok vozidiel, ktoré už boli na trhu k dátumu skončenia platnosti výnimky, je povolené bez obmedzenia, keďže sa naň nevzťahuje § 18 ods. 4 písm. l) zákona č. 223/2001 Z. z.
 
-– Náhradné súčiastky uvedené na trh po 1. júli 2003 a používané vo vozidlách uvedených na trh pred 1. júlom 2003 sú vyňaté z ustanovení § 18 ods. 3 písm. l) zákona č. 223/2001 Z. z.*)
+– Náhradné súčiastky uvedené na trh po 1. júli 2003 a používané vo vozidlách uvedených na trh pred 1. júlom 2003 sú vyňaté z ustanovení § 18 ods. 4 písm. l) zákona č. 223/2001 Z. z.*)
 
 *) Toto ustanovenie sa nevzťahuje na vyvažovacie závažia kolies, uhlíkové kefky do elektrických motorov a brzdové obloženia.

@@ -6,8 +6,6 @@
 
 - 4) § 49 ods. 13 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
 
-- 5) § 51 ods. 4 zákona č. 223/2001 Z. z. v znení zákona č. 24/2004 Z. z.
-
 - 6) § 30 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 283/2001 Z. z. o vykonaní niektorých ustanovení zákona o odpadoch.
 
 - 7) § 17 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
