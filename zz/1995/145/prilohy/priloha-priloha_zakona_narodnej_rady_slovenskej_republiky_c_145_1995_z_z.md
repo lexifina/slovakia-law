@@ -3510,9 +3510,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 154
 
-  - a) Vydanie licencie na cezhraničnú prepravu určených výrobkov, z hodnoty tovaru uvedenej v udelenej licencii ..... | 0,1 % najmenej 33 eur
+  - a) Udelenie licencie na obchodovanie s určenými výrobkami, z hodnoty určených výrobkov ..... | 0,1 %, najmenej 33 eur
 
-  - b) Vydanie medzinárodného dovozného certifikátu, vyhlásenia konečného užívateľa a dovozného certifikátu položiek s dvojakým použitím ..... | 18 eur
+  - b) Vydanie potvrdenia na vyhlásení o konečnom použití určených výrobkov, dovozného certifikátu položiek s dvojakým použitím ..... | 18 eur
 
   - c) Vydanie povolenia na obchodovanie s výrobkami obranného priemyslu ..... | 1 659,50 eura
 
@@ -3526,9 +3526,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ..... | 33 eur
 
-  - i) Vydanie povolenia na prepravu výbušnín ..... | 40 eur
+  - i) Vydanie povolenia na transfer určených výrobkov ..... | 40 eur
 
-  - j) Vydanie duplikátu povolenia, licencie, dovozného certifikátu, vyhlásenia konečného užívateľa podľa písmen a), b) a d) až i) ..... | 18 eur
+  - j) Vydanie duplikátu podľa písmen a), b) a d) až i) ..... | 18 eur
 
   - k) vydanie globálnej transferovej licencie ..... | 33 eur
 
