@@ -10,9 +10,9 @@
 
 - a) ministerstvu v rámci pracovísk emisnej kontroly nachádzajúcich sa na celom území Slovenskej republiky,
 
-- b) obvodnému úradu dopravy v sídle kraja v rámci pracovísk emisnej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
+- b) okresnému úradu v sídle kraja v rámci pracovísk emisnej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
 
-- c) obvodnému úradu dopravy v rámci pracovísk emisnej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
+- c) okresnému úradu v rámci pracovísk emisnej kontroly nachádzajúcich sa v jeho územnom obvode a o vozidlách evidovaných v jeho územnom obvode,
 
 - d) oprávnenej osobe emisnej kontroly v rozsahu potrebnom na plnenie jej úloh,
 

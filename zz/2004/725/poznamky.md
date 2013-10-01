@@ -74,8 +74,6 @@
 
 - 26) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
-- 26a) § 2 ods. 1 písm. b) zákona č. 534/2003 Z. z.
-
 - 27) Vyhláška ministra zahraničných vecí č. 64/1987 Zb. o Európskej dohode o medzinárodnej cestnej preprave nebezpečných vecí (ADR), príloha B.
 
 - 28) Európska konferencia ministrov dopravy CEMT/ECMT.

@@ -6,9 +6,9 @@
 
 (3) Prílohou k žiadosti podľa odseku 2 sú doklady podľa § 16a ods. 2 písm. a) a doklad o prepustení vozidla do voľného obehu.
 
-(4) Obvodný úrad dopravy uzná typové schválenie ES jednotlivo dovezeného vozidla z tretieho štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 2 a 3; inak žiadosť zamietne.
+(4) Okresný úrad uzná typové schválenie ES jednotlivo dovezeného vozidla z tretieho štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 2 a 3; inak žiadosť zamietne.
 
-(5) Ak obvodný úrad dopravy uzná typové schválenie ES jednotlivo dovezeného vozidla podľa odseku 4,
+(5) Ak okresný úrad uzná typové schválenie ES jednotlivo dovezeného vozidla podľa odseku 4,
 
 - a) vydá rozhodnutie o uznaní typového schválenia ES jednotlivo dovezeného vozidla z tretieho štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,
 
@@ -60,9 +60,9 @@
 
 (13) Ak jednotlivo dovezené vozidlo z tretieho štátu má udelené typové schválenie ES vozidla, prílohou k žiadosti podľa odseku 7 sú doklady podľa odseku 8 písm. a) až g) a k) a osvedčenie o zhode vozidla COC.
 
-(14) Obvodný úrad dopravy schváli jednotlivo dovezené vozidlo z tretieho štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 7 až 12 alebo odsekoch 7 a 13; inak žiadosť zamietne.
+(14) Okresný úrad schváli jednotlivo dovezené vozidlo z tretieho štátu, ak žiadateľ splnil podmienky uvedené v odsekoch 7 až 12 alebo odsekoch 7 a 13; inak žiadosť zamietne.
 
-(15) Ak obvodný úrad dopravy schváli jednotlivo dovezené vozidlo podľa odseku 14,
+(15) Ak okresný úrad schváli jednotlivo dovezené vozidlo podľa odseku 14,
 
 - a) vydá rozhodnutie o schválení jednotlivo dovezeného vozidla z tretieho štátu, v ktorom okrem základných identifikačných údajov o vozidle uvedie aj dátum prvej evidencie vozidla (rok výroby), evidenčné číslo vozidla z iného štátu a evidenčné číslo osvedčenia o evidencii časť I a časť II, ak vozidlo bolo prihlásené do evidencie vozidiel, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel,
 
@@ -74,4 +74,4 @@
 
 (17) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu podľa odseku 15 sa primerane vzťahuje ustanovenie § 14 ods. 18.
 
-(18) V rozhodnutí o schválení jednotlivo dovezeného vozidla z tretieho štátu obvodný úrad dopravy uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel, ak vozidlo takej kontrole podlieha.
+(18) V rozhodnutí o schválení jednotlivo dovezeného vozidla z tretieho štátu okresný úrad uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel, ak vozidlo takej kontrole podlieha.

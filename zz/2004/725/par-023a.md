@@ -4,7 +4,7 @@
 
 (2) Prevádzkovateľ vozidla kategórie S a P<sub>N</sub> a výmenných nadstavieb, ktoré nemajú vydané technické osvedčenie vozidla podľa predpisov účinných do 1. decembra 2006, môže požiadať o vydanie technického osvedčenia vozidla podľa odsekov 3, 12 až 16.
 
-(3) Na vydanie rozhodnutia o vydaní osvedčenie o evidencii časť II podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný obvodný úrad dopravy<sup>8</sup>) podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
+(3) Na vydanie rozhodnutia o vydaní osvedčenia o evidencii časť II podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný okresný úrad<sup>8</sup>) podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
 
 (4) Žiadosť o vydanie osvedčenia o evidencii časť II musí obsahovať
 
@@ -44,11 +44,11 @@
 
 (7) Ak jednotlivé vozidlo nebolo vybavené miestom na umiestnenie zadnej tabuľky s evidenčným číslom s požadovaným osvetlením, prevádzkovateľ vozidla je povinný splniť ustanovené technické požiadavky na umiestnenie zadnej tabuľky s evidenčným číslom<sup>13a</sup>) a technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom,<sup>13b</sup>) a to ešte pred vydaním rozhodnutia o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu. Vozidlá kategórie L<sub>1e</sub>vyrobené pred 1. januárom 2000 nemusia spĺňať technické požiadavky na osvetlenie miesta zadnej tabuľky s evidenčným číslom, ak v čase výroby tieto vozidlá neboli vybavené takým osvetlením.
 
-(8) Obvodný úrad dopravy vydá jednotlivému vozidlu osvedčenie o evidencii časť II, ak žiadateľ splnil podmienky uvedené v odsekoch 3 až 7; inak žiadosť zamietne.
+(8) Okresný úrad vydá jednotlivému vozidlu osvedčenie o evidencii časť II, ak žiadateľ splnil podmienky uvedené v odsekoch 3 až 7; inak žiadosť zamietne.
 
-(9) Ak obvodný úrad dopravy rozhodne o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu, vystaví základný technický opis vozidla a osvedčenie o evidencii vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+(9) Ak okresný úrad rozhodne o vydaní osvedčenia o evidencii časť II jednotlivému vozidlu, vystaví základný technický opis vozidla a osvedčenie o evidencii časť II vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
 
-(10) Ak ide o kategóriu vozidla, ktorá povinne podlieha v ustanovených lehotách technickej kontrole podľa § 49 ods. 2 písm. a) alebo emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), obvodný úrad dopravy uvedie lehotu platnosti technickej kontroly podľa platného protokolu o technickej kontrole a lehotu platnosti emisnej kontroly podľa platného protokolu o emisnej kontrole a uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel.
+(10) Ak ide o kategóriu vozidla, ktorá povinne podlieha v ustanovených lehotách technickej kontrole podľa § 49 ods. 2 písm. a) alebo emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), okresný úrad uvedie lehotu platnosti technickej kontroly podľa platného protokolu o technickej kontrole a lehotu platnosti emisnej kontroly podľa platného protokolu o emisnej kontrole a uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel.
 
 (11) Prevádzkovateľ vozidla je povinný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia podľa odseku 9 prihlásiť vozidlo do evidencie vozidiel.
 
@@ -58,6 +58,6 @@
 
 (14) Technické osvedčenie vozidla možno vydať iba vozidlu, ktoré bolo schválené na prevádzku v premávke na pozemných komunikáciách v Slovenskej republike a malo vydané technické osvedčenie vozidla podľa predpisov účinných do 1. decembra 2006.
 
-(15) Obvodný úrad dopravy vydá technické osvedčenie vozidla, ak žiadateľ splnil podmienky uvedené v odsekoch 12 až 14; inak žiadosť zamietne.
+(15) Okresný úrad vydá technické osvedčenie vozidla, ak žiadateľ splnil podmienky uvedené v odsekoch 12 až 14; inak žiadosť zamietne.
 
-(16) Ak obvodný úrad dopravy rozhodne o vydaní technického osvedčenia vozidla, vystaví základný technický opis vozidla a technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+(16) Ak okresný úrad rozhodne o vydaní technického osvedčenia vozidla, vystaví základný technický opis vozidla a technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
