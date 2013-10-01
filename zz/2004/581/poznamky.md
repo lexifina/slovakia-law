@@ -30,7 +30,7 @@
 
 - 16) § 42 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
-- 16a) § 10 ods. 10 zákona č. 580/2004 Z. z. v znení zákona č. 121/2010 Z. z.
+- 16a) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 16b) Článok 1 písm. q), r) a va) nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
@@ -39,6 +39,8 @@
 - 16d) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 16e) § 5 ods. 3 zákona č. 578/2004 Z. z. v znení zákona č. 250/2011 Z. z.
+
+- 16f) § 9a až 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -65,6 +67,18 @@
 - 18i) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 18j) § 17a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 18k) § 9a až 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 18l) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
+- 18m) § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 18n) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 18o) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 19) § 5 zákona č. 578/2004 Z. z.
 
@@ -93,6 +107,8 @@
 - 27c) § 3 zákona č. 153/2013 Z. z.
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 28a) § 2 ods. 2 a 12 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 29) § 18 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
@@ -185,6 +201,28 @@
 - 41e) § 7 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
 - 41f) § 3 ods. 1 písm. c) zákona č. 578/2004 Z. z.
+
+- 41g) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 362/2011 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Nariadenie vlády Slovenskej republiky č. 776/2004 Z. z., ktorým sa vydáva Katalóg zdravotných výkonov v znení nariadenia vlády Slovenskej republiky č. 233/2005 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
+
+- 41h) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 41i) § 11 ods. 4 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 41j) § 17 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 41k) § 9 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- § 4, 11 a 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 41l) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1024/2012 z 25. októbra 2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu a o zrušení rozhodnutia Komisie 2008/49/ES („nariadenie o IMI“) (Ú. v. EÚ L 316, 14. 11. 2012).
 
 - 42) § 42 ods. 2 Zákonníka práce.
 
