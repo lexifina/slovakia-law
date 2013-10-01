@@ -14,6 +14,6 @@
 
 - f) účastník konania v určenej lehote neodstránil nedostatky návrhu na vklad, prípadne jeho príloh,
 
-- g) vo veci koná iná príslušná správa katastra.
+- g) vo veci koná iný príslušný okresný úrad.
 
 (2) Proti rozhodnutiu o zastavení konania podľa odseku 1 písm. d), e) a g) sa nemožno odvolať. Rozhodnutie o zastavení konania podľa odseku 1 písm. d) sa vyznačí v spise.
