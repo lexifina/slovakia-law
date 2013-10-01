@@ -24,6 +24,18 @@
 
 - 11a) § 11 ods. 10 zákona č. 576/2004 Z. z.
 
+- 11b) § 9a a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 11c) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
+- 11d) § 9b, 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 11e) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 11f) § 9d, 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
 - 13) § 7 ods. 1 písm. a) a § 8 zákona č. 576/2004 Z. z.
