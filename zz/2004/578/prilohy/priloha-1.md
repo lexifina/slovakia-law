@@ -15,3 +15,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 2010/53/EÚ zo 7. júla 2010 o normách kvality a bezpečnosti ľudských orgánov určených na transplantáciu (Ú. v. EÚ L 207, 6. 8. 2010).
 
   - 7. Smernica Európskeho parlamentu a Rady 2011/93/EÚ z 13. decembra 2011 o boji proti sexuálnemu zneužívaniu a sexuálnemu vykorisťovaniu detí a proti detskej pornografii, ktorou sa nahrádza rámcové rozhodnutie Rady 2004/68/SVV (Ú. v. EÚ L 335, 17. 12. 2011).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti (Ú. v. EÚ L 88, 4. 4. 2011).

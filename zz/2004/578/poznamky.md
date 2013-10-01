@@ -170,6 +170,8 @@
 
 - § 44 ods. 1 zákona č. 577//2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
 
+- 45a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+
 - 46) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 47) § 12 ods. 8 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
@@ -199,6 +201,16 @@
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
 
 - 55ja) § 10 ods. 1 Trestného poriadku.
+
+- 55jaa) § 9c ods. 8 a 9 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 55jab) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 55jac) § 9c ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 55jad) § 9c ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 55jae) § 9c ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -239,6 +251,18 @@
 - 58c) § 9 ods. 1 až 4 zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 58ca) § 6 ods. 4 písm. l) a ods. 13 písm. b) zákona č. 581/2004 Z. z.
+
+- 58cb) § 9c ods. 5 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 58cc) § 9c ods. 6 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 58cd) § 9c ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 58ce) Zákon č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
 
