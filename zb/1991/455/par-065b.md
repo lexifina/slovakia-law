@@ -8,4 +8,4 @@
 
 (4) Proti uloženiu blokovej pokuty sa nemožno odvolať.
 
-(5) Bloky na ukladanie pokút vydáva Ministerstvo financií Slovenskej republiky; príslušný živnostenský úrad odoberá bloky od daňového úradu.
+(5) Bloky na ukladanie pokút vydáva Ministerstvo financií Slovenskej republiky; príslušný živnostenský úrad v sídle kraja odoberá bloky od daňového úradu.
