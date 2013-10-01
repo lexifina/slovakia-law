@@ -66,12 +66,6 @@
 
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 7) Zákon Slovenskej národnej rady č. 295/1992 Zb. o niektorých opatreniach v miestnej samospráve a v štátnej správe v znení zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
-
-- 8) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
-
-- 9) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
 - 10) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 151/2002 Z. z.
