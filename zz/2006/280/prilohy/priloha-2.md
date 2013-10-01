@@ -116,4 +116,4 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
   - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
 
-- [Obrázok 02-1](../assets/77eb282bdef77d05d7d386dd53f571881a385ed7c92c26aa78d1023065db110e.pdf)
+- [Obrázok 02-1](../assets/03789aa268c4a38ac19d809832d69504434f60d91a1d2a345dbb19246060f9c1.pdf)
