@@ -1,6 +1,6 @@
 # § 21b
 
-(1) Ak je pochybnosť o tom, kto je povinnou osobou podľa § 5 a 16 ods. 2, rozhodne príslušný pozemkový úrad.
+(1) Ak je pochybnosť o tom, kto je povinnou osobou podľa § 5 a 16 ods. 2, rozhodne príslušný okresný úrad.
 
 (2) Ak je pochybnosť o tom, kto je povinnou osobou na poskytnutie náhrady podľa § 20, rozhodne ministerstvo.
 
