@@ -1,8 +1,8 @@
-# § 66b Pôsobnosť obvodného úradu
+# § 66b Pôsobnosť okresného úradu
 
-(1) Obvodný úrad vykonáva pôsobnosť živnostenského úradu v prvom stupni a zapisuje do informačného systému živnostenského podnikania podnikateľov, ktorým vydal doklady o živnostenskom oprávnení.
+(1) Okresný úrad vykonáva pôsobnosť živnostenského úradu v prvom stupni, ak § 60 ods. 6, § 61 ods. 1, § 62 ods. 1 a 5, § 63, § 64, § 65a ods. 1 a 2 v úvodných vetách a § 65a ods. 3, § 65b ods. 5, § 65c a § 66 ods. 1 až 3 neustanovujú inak.
 
-(2) Obvodný úrad plní úlohy jednotného kontaktného miesta podľa tohto zákona pre činnosti, ktoré sú
+(2) Okresný úrad plní úlohy jednotného kontaktného miesta podľa tohto zákona pre činnosti, ktoré sú
 
 - a) živnosťou,
 
@@ -10,9 +10,7 @@
 
 - c) poskytovaním služieb podľa osobitného zákona.<sup>39</sup>)
 
-(3) Obvodný úrad v sídle kraja vydáva doklad o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou.
-
-(4) Obvodný úrad vydáva
+(3) Okresný úrad vydáva
 
 - a) osvedčenie o povahe a dĺžke praxe v činnostiach, ktoré sú živnosťou,
 

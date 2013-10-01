@@ -4,7 +4,7 @@
 
 # § 65a
 
-(1) Živnostenský úrad môže uložiť podnikateľovi pokutu až do 1659 eur, ak podnikateľ
+(1) Živnostenský úrad v sídle kraja môže uložiť podnikateľovi pokutu až do 1659 eur, ak podnikateľ
 
 - a) neustanoví v prípadoch, keď je povinný to urobiť, zodpovedného zástupcu pre živnosť (§ 11 ods. 6 až 8),
 
@@ -12,7 +12,7 @@
 
 - c) nedodržiava podmienky podľa § 29 ods. 1; pokutu nemožno uložiť, ak iný orgán začal v rovnakej veci konanie o uloženie pokuty podľa osobitných predpisov.
 
-(2) Živnostenský úrad môže uložiť podnikateľovi pokutu až do 663 eur, ak podnikateľ
+(2) Živnostenský úrad v sídle kraja môže uložiť podnikateľovi pokutu až do 663 eur, ak podnikateľ
 
 - a) neohlási živnostenskému úradu, že ustanovil zodpovedného zástupcu, hoci nebol povinný to urobiť (§ 11 ods. 7 prvá veta),
 
@@ -24,4 +24,4 @@
 
 - e) neoznámi zrušenie prevádzkarne (§ 17 ods. 6).
 
-(3) Živnostenský úrad môže uložiť zodpovednému zástupcovi pokutu až do 663 eur, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).
+(3) Živnostenský úrad v sídle kraja môže uložiť zodpovednému zástupcovi pokutu až do 663 eur, ak vykonáva funkciu zodpovedného zástupcu vo viacerých prevádzkarňach ako v jednej prevádzkarni (§ 11 ods. 5).
