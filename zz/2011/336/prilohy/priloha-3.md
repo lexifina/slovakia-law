@@ -2,7 +2,7 @@ Príloha č. 3 k nariadeniu vlády č. 336/2011 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
-- Smernica Európskeho parlamentu a Rady 98/8/ES zo 16. februára 1998 o uvádzaní biocídnych výrobkov na trh (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 23) v znení
+- 1. Smernica Európskeho parlamentu a Rady 98/8/ES zo 16. februára 1998 o uvádzaní biocídnych výrobkov na trh (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 23) v znení
 
 - – smernice Komisie 2006/140/ES z 20. decembra 2006 (Ú. v. EÚ L 414, 30. 12. 2006),
 
@@ -101,6 +101,18 @@ Príloha č. 3 k nariadeniu vlády č. 336/2011 Z. z.
 - – smernice Komisie 2011/69/EÚ z 1. júla 2011 (Ú. v. EÚ L 175, 2. 7. 2011),
 
 - – smernice Komisie 2011/71/EÚ z 26. júla 2011 (Ú. v. EÚ L 195, 27. 7. 2011).
+
+- 2. Smernica Komisie 2011/78/EÚ z 20. septembra 2011, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť Bacillus thuringiensis subsp. israelensis Serotype H14, kmeň AM65-52 ako účinnú látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 243, 21. 9. 2011).
+
+- 3. Smernica Komisie 2011/79/EÚ z 20. septembra 2011, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť fipronil ako účinnú látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 243, 21. 9. 2011).
+
+- 4. Smernica Komisie 2011/80/EÚ z 20. septembra 2011, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť lambda-cyhalothrin ako účinnú látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 243, 21. 9. 2011).
+
+- 5. Smernica Komisie 2011/81/EÚ z 20. septembra 2011, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť deltametrín ako účinnú látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 243, 21. 9. 2011).
+
+- 6. Smernica Komisie 2012/2/EÚ z 9. februára 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť oxid meďnatý, hydroxid meďnatý a bázický uhličitan meďnatý ako aktívne látky do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2012).
+
+- 7. Smernica Komisie 2012/3/EÚ z 9. februára 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť bendiokarb ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 37, 10. 2. 2012).
 
 - 8. Smernica Komisie 2012/14/EÚ z 8. mája 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 98/8/ES s cieľom zaradiť metyl(nonyl)ketón ako aktívnu látku do prílohy I k uvedenej smernici (Ú. v. EÚ L 123, 9. 5. 2012).
 
