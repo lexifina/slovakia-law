@@ -12,10 +12,6 @@
 
 - 7) § 14 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 7a) § 8 zákona č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 7b) § 2 písm. q) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
-
 - 8) Zákon č. 71/1967 Zb.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
