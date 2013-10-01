@@ -4,9 +4,9 @@
 
 - a) nad diaľnicami a cestami pre motorové vozidlá ministerstvo,
 
-- b) nad cestami I. triedy obvodné úrady dopravy v sídle kraja,
+- b) nad cestami I. triedy okresné úrady v sídle kraja,
 
-- c) nad cestami II. a III. triedy obvodné úrady dopravy,
+- c) nad cestami II. a III. triedy okresné úrady,
 
 - d) nad miestnymi komunikáciami a účelovými komunikáciami obce.
 
