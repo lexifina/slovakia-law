@@ -16,7 +16,7 @@
 
 (2) Plnenie oznamovacích povinností podľa § 23 ods. 1 za fyzickú osobu vo väzbe alebo fyzickú osobu vo výkone trestu odňatia slobody a ďalšie podrobnosti o povinnostiach, ktoré vyplývajú z § 20 a § 22 až 24, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s Ministerstvom spravodlivosti Slovenskej republiky.
 
-(3) Za dôchodok z cudziny alebo dôchodok z iného členského štátu sa na účely tohto zákona považuje dôchodok porovnateľný so starobným dôchodkom, predčasným starobným dôchodkom alebo invalidným dôchodkom podľa osobitného predpisu.<sup>24</sup>)
+(3) Za dôchodok z cudziny alebo dôchodok z iného členského štátu sa na účely tohto zákona považuje dôchodok porovnateľný so starobným dôchodkom, predčasným starobným dôchodkom alebo invalidným dôchodkom podľa osobitného predpisu.<sup>31</sup>)
 
 (4) Výška minimálnej mzdy zmenená nariadením vlády Slovenskej republiky vždy k 1. októbru kalendárneho roka sa na účely tohto zákona použije od 1. januára do 31. decembra nasledujúceho kalendárneho roka.
 
@@ -53,3 +53,37 @@
 - c) odsúdenom vo výkone trestu odňatia slobody a odsúdenom vo výkone trestu odňatia slobody v inom členskom štáte, ak tam nie je zdravotne poistený [§ 11 ods. 7 písm. f)], v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, dátum začiatku výkonu trestu odňatia slobody, dátum ukončenia výkonu trestu odňatia slobody, dátum začiatku prerušenia výkonu trestu odňatia slobody, dátum ukončenia prerušenia výkonu trestu odňatia slobody.
 
 (15) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.
+
+(16) Ministerstvo vnútra Slovenskej republiky poskytuje úradu elektronicky údaje z registra obyvateľov Slovenskej republiky na účel overenia informácií o poistencovi podľa § 23 ods. 1 písm. a) v tomto rozsahu:
+
+- a) meno, priezvisko a rodné priezvisko,
+
+- b) pohlavie,
+
+- c) dátum, miesto a okres narodenia; štát narodenia, ak sa občan narodil v zahraničí,
+
+- d) rodné číslo,
+
+- e) okres pobytu,
+
+- f) obec pobytu,
+
+- g) časť obce,
+
+- h) ulica, ak sa obec člení na ulice,
+
+- i) súpisné číslo a orientačné číslo domu, prípadne aj číslo bytu,
+
+- j) druh pobytu,
+
+- k) predchádzajúci trvalý pobyt v rozsahu podľa písmen e) až i),
+
+- l) doba prechodného pobytu,
+
+- m) štát, miesto a predpokladanú dobu pobytu, ak ide o občanov cestujúcich do zahraničia na viac ako 90 dní,
+
+- n) štát a miesto pobytu a údaj o poslednom trvalom pobyte, ak ide o občanov, ktorí nemajú trvalý pobyt na území Slovenskej republiky,
+
+- o) dátum zmeny údaja, nový platný údaj o rodnom čísle, mene, priezvisku, trvalom pobyte.
+
+(17) Ministerstvo vnútra Slovenskej republiky poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 16. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s Ministerstvom vnútra Slovenskej republiky. Úrad je povinný tieto údaje poskytnúť zdravotnej poisťovni do ôsmich pracovných dní odo dňa ich prijatia.

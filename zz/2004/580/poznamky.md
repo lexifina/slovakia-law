@@ -1,4 +1,8 @@
-- 1) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
+- 1) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 577/2004 Z. z. rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
+- Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 788 až 791 Občianskeho zákonníka.
 
@@ -7,6 +11,10 @@
 - 3) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3a) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
 
 - 4) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -23,6 +31,12 @@
 - 8) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
 
 - 8a) Článok 1 písm. i) bod 2 nariadenia Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
+
+- 8aa) Čl. 1 písm. j) nariadenia (ES) č. 883/2004 v platnom znení.
+
+- Čl. 11 nariadenia (ES) č. 987/2009 v platnom znení.
+
+- 8ab) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
 
@@ -58,37 +72,39 @@
 
 - 16) § 79 ods. 1 písm. d) zákona č. 578/2004 Z. z.
 
-- 16a) Článok 20 nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
-
-- Článok 26 nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009).
+- 16a) § 18 ods. 1 písm. f) zákona č. 581/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 16b) § 6 ods. 2 až 12 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
-- 16c) Článok 1 písm. j) a článok 11 nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+- 16c) Čl. 20 nariadenia (ES) č. 883/2004 v platnom znení.
 
-- 16d) § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
+- Čl. 26 nariadenia (ES) č. 987/2009 v platnom znení.
 
-- 16e) § 250l až 250s Občianskeho súdneho poriadku.
+- 16d) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 16f) § 12 ods. 13 a 14 zákona č. 576/2004 Z. z. v znení zákona č. 192/2009 Z. z.
+- 16e) § 23 ods. 3 zákona č. 362/2011 Z. z.
 
-- 16g) Článok 26 ods. 7 naradenia Európskeho parlamentu a Rady (ES) č. 987/2009.
+- 16f) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 16h) Nariadenie Rady (EHS) č. 1408/71 zo 14. júna 1971 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov, samostatne zárobkovo činné osoby a na ich rodinných príslušníkov, ktorí sa pohybujú v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 1; Ú. v. ES L 149, 5. 7. 1971) v platnom znení.
+- 16g) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup pri vykonávaní nariadenia (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnancov a ich rodiny, ktorí sa pohybujú v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 74, 27. 3. 1972) v platnom znení.
+- 16h) § 20d zákona č. 581/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
+- 16ha) § 7 a 8 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 987/2009.
+- 16hb) Zákon Národnej rady Slovenskej republiky č. 18/1996 Zb. o cenách v znení neskorších predpisov.
+
+- 16hc) § 7 ods. 3 písm. a) prvý a druhý bod alebo § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 16hd) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+
+- 16he) § 247 až 250k Občianskeho súdneho poriadku.
 
 - 17) Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 189 z 18. júna 2003 s cieľom zaviesť Európsku kartu zdravotného poistenia, ktorá nahradí formuláre potrebné na aplikáciu nariadení Rady (EHS) č. 1408/71 a č. 574/72 vzťahujúce sa na prístup k zdravotnej starostlivosti počas dočasného pobytu v členskom štáte inom ako príslušnom alebo inom ako v štáte bydliska (2003/751/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
 - Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 190 z 18. júna 2003 týkajúce sa technických špecifikácií Európskej karty zdravotného poistenia (2003/752/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
 - 18) § 5 ods. 1 písm. a) až h), j) a k) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
-- 19) § 65 a 65a zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 19a) § 1 ods. 2 a 3, § 31, 33 a 69 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
