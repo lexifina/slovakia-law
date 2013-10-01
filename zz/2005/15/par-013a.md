@@ -8,7 +8,7 @@
 
 - b) popis jedinečnosti a nedeliteľnosti krúžkov je v súlade s osobitným predpisom.<sup>43c</sup>)
 
-(3) Žiadosť o udelenie licencie na krúžky podáva podnikateľ písomne na ministerstve alebo na obvodnom úrade, ktorý plní úlohy jednotného kontaktného miesta,<sup>43d</sup>) a obsahuje
+(3) Žiadosť o udelenie licencie na krúžky podáva podnikateľ písomne na ministerstve alebo na okresnom úrade, ktorý plní úlohy jednotného kontaktného miesta,<sup>43d</sup>) a obsahuje
 
 - a) určenie, či ide o výrobu krúžkov alebo distribúciu krúžkov,
 

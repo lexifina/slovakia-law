@@ -6,4 +6,4 @@ Zákon č. 525/2003 Z. z. o štátnej správe starostlivosti o životné prostre
 
 - „j)
 
-- riadi a kontroluje výkon štátnej správy vo veciach ochrany exemplárov, ktorú vykonávajú obvodné úrady životného prostredia.“.
+- riadi a kontroluje výkon štátnej správy vo veciach ochrany exemplárov, ktorú vykonávajú okresné úrady.“.
