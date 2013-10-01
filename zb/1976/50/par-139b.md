@@ -46,7 +46,7 @@
 
 (9) Stavbami pre obranu štátu sú stavby na zabezpečenie obrany štátu, zvrchovanosti a územnej celistvosti štátu, nedotknuteľnosti hraníc, zachovávania mieru, plnenia záväzkov vyplývajúcich z medzinárodných zmlúv o spoločnej obrane proti napadnutiu a z ďalších medzinárodných zmlúv vojenskej povahy, zabezpečenia nedotknuteľnosti vzdušného priestoru a spravodajského zabezpečenia obrany podľa zákona, ktoré slúžia na plnenie úloh ministerstva obrany, ozbrojeným silám Slovenskej republiky, rozpočtovým organizáciám, príspevkovým organizáciám, akciovým spoločnostiam a štátnym podnikom v zakladateľskej alebo zriaďovateľskej pôsobnosti ministerstva obrany.
 
-(10) Za stavby pre bezpečnosť štátu sa považujú stavby v správe, nájme alebo výpožičke Ministerstva vnútra Slovenskej republiky, Policajného zboru, Slovenskej informačnej služby a Národného bezpečnostného úradu užívané na služobné účely a stavby, ktoré sú v správe, nájme alebo výpožičke rozpočtových organizácií alebo príspevkových organizácií týchto orgánov užívané na služobnú potrebu.
+(10) Za stavby pre bezpečnosť štátu sa považujú stavby v správe, nájme alebo vo výpožičke ministerstva vnútra, Slovenskej informačnej služby a Národného bezpečnostného úradu užívané na služobné účely a stavby, ktoré sú v správe, nájme alebo vo výpožičke rozpočtových organizácií alebo príspevkových organizácií, akciových spoločností a štátnych podnikov v zakladateľskej alebo v zriaďovateľskej pôsobnosti týchto orgánov.
 
 (11) Za stavby Zboru väzenskej a justičnej stráže Slovenskej republiky sa považujú stavby na služobnú činnosť tejto stráže a stavby v jej správe a užívaní na služobné účely ich útvarov.
 
