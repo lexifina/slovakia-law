@@ -8,9 +8,9 @@
 
 - c) si nesplní povinnosť podľa § 3.
 
-(2) Správne delikty podľa odseku 1 prejednávajú obvodné úrady dopravy.
+(2) Správne delikty podľa odseku 1 prejednávajú okresné úrady.
 
-(3) Za správny delikt podľa odseku 1 uloží obvodný úrad dopravy pokutu vo výške 16 595 eur.
+(3) Za správny delikt podľa odseku 1 uloží okresný úrad pokutu vo výške 16 595 eur.
 
 (4) Pokuta je splatná do 30 dní od nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
 
