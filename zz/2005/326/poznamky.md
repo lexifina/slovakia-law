@@ -214,8 +214,6 @@
 
 - 85) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 86) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
-
 - 87) Napríklad čl. 8 ods. 1 a 2, čl. 14 ods. 1 a 2, čl. 15 ods. 1 a čl. 16 nariadenia Európskeho parlamentu a Rady (ES) č. 2152/2003 (Ú. v. EÚ L 324, 11. 12. 2003) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 788/2004 (Ú. v. EÚ L 138, 30. 4. 2004).
 
 - 87a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
