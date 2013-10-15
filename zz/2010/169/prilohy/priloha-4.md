@@ -30,6 +30,8 @@ Príloha č. 4 k vyhláške č. 169/2010 Z. z.
 
         - F: Francúzsko
 
+        - HR: Chorvátsko
+
         - IRL: Írsko
 
         - I: Taliansko
@@ -257,6 +259,8 @@ Príloha č. 4 k vyhláške č. 169/2010 Z. z.
         - E: Španielsko
 
         - F: Francúzsko
+
+        - HR: Chorvátsko
 
         - IRL: Írsko
 

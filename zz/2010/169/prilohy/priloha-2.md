@@ -2,10 +2,10 @@ Príloha č. 2 k vyhláške č. 169/2010 Z. z.
 
 - VZOR OSVEDČENIA O EVIDENCII ČASŤ I
 
-  - 1. Predná strana
+  - Predná strana
 
-  - ![Obrázok 01](../assets/94d4fbb7d8fe360561506d0828e32bc37722e7f5dfcfdf4e9aa57724bd1ea7f5.png)
+- ![obrázok 01](../assets/0484fe85dfbfefb3841e1341131c80284c92fdfa23c90b643b942bc065005400.jpg)
 
-  - 2. Zadná strana
+  - Zadná strana
 
-  - ![Obrázok 02](../assets/6806b0d3b00ee90e258b592c8b9c41c7e2bd5747f38fb646af7467a3d3721849.png)
+- ![obrázok 02](../assets/d59e477ddb906b3acfd0ad23b0c2eae56de1e7ff19e5fa2f3e2a601689c222f1.jpg)

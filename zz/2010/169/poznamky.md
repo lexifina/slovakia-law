@@ -24,7 +24,7 @@
 
 - 13) ISO/IEC 7816-6 Identifikačné karty. Karty s integrovanými obvodmi. Časť 6: Medziodborové dátové prvky pre rozhranie.
 
-- 14) Príloha k vyhláške Štatistického úradu Slovenskej republiky č. 303/2007 Z. z., ktorou sa vydáva Štatistický číselník krajín.
+- 14) Príloha k vyhláške Štatistického úradu Slovenskej republiky č. 112/2012 Z. z., ktorou sa vydáva Štatistický číselník krajín.
 
 - 15) § 114 a 115 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
 
