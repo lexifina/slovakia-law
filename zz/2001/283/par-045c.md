@@ -1,9 +1,0 @@
-# § 45c Žiadosť o súhlas na zneškodnenie odpadov z výroby oxidu titaničitého
-
-Žiadosť o súhlas na zneškodnenie odpadov z výroby oxidu titaničitého<sup>49</sup>) niektorou z vybraných činností podľa zákona<sup>50</sup>) okrem náležitostí uvedených v § 41 obsahuje aj
-
-- a) charakteristiky a zloženie látok: celkové množstvo a priemerné zloženie ukladaných látok za rok, forma, fyzikálne, chemické, biochemické a biologické vlastnosti, toxicita, fyzikálna, chemická a biologická stálosť, akumulácia a biotransformácia v biologických materiáloch alebo sedimentoch, náchylnosť na fyzikálne, chemické a biologické zmeny a interakcia v príslušnom prostredí s inými organickými a anorganickými materiálmi, pravdepodobnosť vzniku porúch alebo iných zmien znižujúcich predajnosť zdrojov,
-
-- b) charakteristiky miesta ukladania alebo vypúšťania a metód zneškodňovania: poloha, miera zneškodňovania za určité obdobie, metódy balenia a bezpečnostného balenia, ak nejaké sú, počiatočné zriedenie dosiahnuté navrhnutou metódou vypúšťania, konkrétne rýchlosť lode, rozptylové charakteristiky, charakteristiky vody, charakteristiky dna, existencia vplyvov ostatných miest ukladania alebo vypúšťania nachádzajúcich sa v príslušnej oblasti,
-
-- c) charakteristiky miesta skládky, uskladnenia alebo vstrekovania do pôdy a metód zneškodňovania: geografická situácia, charakteristiky priľahlých oblastí, metódy balenia a bezpečnostného balenia, ak nejaké sú, charakteristiky metód ukladania na skládky, skladovania a vstrekovania do pôdy vrátane hodnotenia bezpečnostných opatrení na zabránenie znečisťovania vôd, pôdy a atmosféry.
