@@ -1,0 +1,1 @@
+- 1) HCM dohoda je Dohoda medzi Správami Rakúska, Belgicka, Chorvátska, Českej republiky, Francúzska, Nemecka, Maďarska, Holandska, Talianska, Lichtenštajnska, Litvy, Luxemburska, Poľska, Rumunska, Slovenska, Slovinska a Švajčiarska o koordinácii frekvencií medzi 29.7 MHz a 39.5 GHz pre pevnú službu a pozemnú mobilnú službu.
