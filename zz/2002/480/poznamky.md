@@ -80,4 +80,6 @@
 
 - Nariadenie Rady (ES) č. 407/2002 z 28. februára 2002 ustanovujúce určité pravidlá na vykonávanie Nariadenia Rady (ES) č. 2725/2000 upravujúce zriadenie systému „EURODAC" na porovnávanie odtlačkov prstov na účinné uplatňovanie Dublinského dohovoru (Úradný vestník Európskych spoločenstiev L 062, 05/03/2002).
 
+- 22aa) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
 - 22b) Nariadenie Rady (ES) č. 343/2003 z 18. februára 2003 čl. 17 ods. 1 zmluvy o založení Európskeho spoločenstva.
