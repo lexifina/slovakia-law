@@ -8,7 +8,7 @@
 
 - 5) § 26a Hospodárskeho zákonníka.§ 2a zákona č. 121/1962 Zb. v znení neskorších predpisov.
 
-- 6) § 9a Hospodárskeho zákonníka.
+- 6) § 6 Obchodného zákonníka.
 
 - 6a) Napr. zákon č. 286/1992 Zb. o daniach z príjmov v znení zákona č. 626/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 124/1993 Z. z.
 
@@ -46,9 +46,11 @@
 
 - 8) Napríklad § 303 a nasl. Obchodného zákonníka.
 
-- 9) § 9 a nasl. zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
+- 9) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 9a) Napríklad § 57 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+
+- 9aa) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 9b) § 128a ods. 1 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z.
 

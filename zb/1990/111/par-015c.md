@@ -4,7 +4,7 @@
 
 (2) V priebehu likvidácie likvidátor je povinný
 
-- a) zverejniť v Obchodnom vestníku oznámenie o vstupe podniku do likvidácie s výzvou, aby všetci veritelia podniku a iné osoby a orgány, ktoré sú vstupom podniku do likvidácie dotknuté, prihlásili svoje pohľadávky alebo iné práva v lehote, ktorá nesmie byť kratšia ako 90 dní od vstupu podniku do likvidácie, inak tieto práva zanikajú,
+- a) zverejniť v Obchodnom vestníku oznámenie o vstupe podniku do likvidácie s výzvou, aby všetci veritelia podniku a iné osoby a orgány, ktoré sú vstupom podniku do likvidácie dotknuté, prihlásili svoje pohľadávky alebo iné práva v lehote, ktorá nesmie byť kratšia ako 90 dní od uverejnení oznámenia,
 
 - b) sústrediť v lehote do 60 dní od vstupu podniku do likvidácie peňažné prostriedky podniku na jeden účet vo financujúcej banke,
 
@@ -36,4 +36,4 @@
 
 (7) Likvidátor štvrťročne predkladá zakladateľovi a ministerstvu správu o stave majetku likvidovaného podniku a ku dňu skončenia likvidácie im predloží účtovnú závierku s návrhom na vyporiadanie likvidačného zostatku spolu so záverečnou správou o priebehu likvidácie.
 
-(8) Konanie podľa osobitných predpisov<sup>13</sup>) sa prerušuje vstupom podniku do likvidácie.
+(8) Po vstupe podniku do likvidácie sa konania začaté podľa osobitných predpisov<sup>13</sup>) prerušujú do schválenia plánu likvidácie zakladateľom.
