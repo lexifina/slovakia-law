@@ -87,3 +87,5 @@
 - o) dátum zmeny údaja, nový platný údaj o rodnom čísle, mene, priezvisku, trvalom pobyte.
 
 (17) Ministerstvo vnútra Slovenskej republiky poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 16. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s Ministerstvom vnútra Slovenskej republiky. Úrad je povinný tieto údaje poskytnúť zdravotnej poisťovni do ôsmich pracovných dní odo dňa ich prijatia.
+
+(18) Preukazovanie skutočností podľa § 11 ods. 7 písm. v) prvého bodu sa upraví dohodou, ktorú uzatvorí úrad s Ústredím práce, sociálnych vecí a rodiny. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do troch dní odo dňa ich prijatia.
