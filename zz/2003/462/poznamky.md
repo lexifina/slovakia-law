@@ -1,5 +1,7 @@
 - 1) § 4 ods. 1 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 543/2010 Z. z.
 
+- 1a) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 338/2013 Z. z.
+
 - 2) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
 - 4) § 12 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -17,5 +19,7 @@
 - 14) Zákon č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 15) § 54 ods. 1, 2, 9 a 10 zákona č. 461/2003 Z. Z. o nemocenskom poistení v znení zákona č. 543/2010 Z. z.
+
+- 15a) § 134 Zákonníka práce.
 
 - 16) § 11 zákona č. 461/2003 Z. z. v znení zákona č. 721/2004 Z. z.
