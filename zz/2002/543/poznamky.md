@@ -58,7 +58,7 @@
 
 - 28) § 88, 88a, 89 a 90 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 29) § 19, 20 a 24 zákona č. 313/1999 Z. z.
+- 29) § 23 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon) v znení neskorších predpisov.
 
 - 30) § 17 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
@@ -72,9 +72,7 @@
 
 - 35) § 40 ods. 1 zákona č. 326/2005 Z. z. v znení zákona č. 117/2010 Z. z.
 
-- 36) § 11 zákona č. 313/1999 Z. z.
-
-- § 13 až 21 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 141/2000 Z. z., ktorou sa vykonáva geologický zákon.
+- 36) § 12 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
 
 - 37) § 5 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja.
 
