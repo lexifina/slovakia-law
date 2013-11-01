@@ -155,3 +155,5 @@
 - 68) § 2 ods. 3 písm. c) zákona č. 2/1991 Zb.o kolektívnom vyjednávaní v znení zákona č. 551/2003 Z. z.
 
 - 69) Napríklad § 8 ods. 2 zákona č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov, zákon č. 650/2004 Z. z.o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 70) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
