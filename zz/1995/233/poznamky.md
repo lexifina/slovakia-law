@@ -8,11 +8,9 @@
 
 - 3b) Trestný zákon v znení neskorších predpisov.
 
-- 3c) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 3c) § 14 ods. 3 písm. e) ôsmy bod zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 3d) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
-
-- 3e) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 3ca) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 3f) § 7 ods. 2 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
@@ -21,6 +19,8 @@
 - 3h) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 3i) § 12 zákona č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z.
+
+- 3j) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 138 a 148 Občianskeho súdneho poriadku.
 
@@ -70,7 +70,11 @@
 
 - 11a) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11aa) Zákon č. 195/1998 Z. z. v znení neskorších predpisov.
+- 11aa) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aaa) § 64 až 70 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aab) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 11ab) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov.
 
@@ -96,6 +100,8 @@
 
 - 11bc) Zákon č. 43/2004 Z. z.
 
+- 11bca) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 11bd) § 6 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku.
 
 - 11be) § 151ma Občianskeho zákonníka.
@@ -104,9 +110,9 @@
 
 - 11d) Zákon č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 11e) § 9 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
+- 11e) § 11 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
 
-- 11f) § 10 zákona č. 130/1998 Z. z.
+- 11f) § 5 ods. 3 zákona č. 541/2004 Z. z. v znení zákona č. 21/2007 Z. z.
 
 - 12) § 2 písm. e) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -142,9 +148,13 @@
 
 - 17c) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
-- 18) § 171 ods. 1, § 188 ods. 1 písm. c), § 222 ods. 2 a § 257 písm. a) Trestného poriadku.
+- 17d) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 19) § 244 až 250k Občianskeho súdneho poriadku.
+- 18) § 214 ods. 1, § 244 ods. 1 písm. b), § 280 ods. 2 a § 320 ods. 1 písm. a) Trestného poriadku.
+
+- 19) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19a) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 20) § 102c zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 527/2006 Z. z.
 
