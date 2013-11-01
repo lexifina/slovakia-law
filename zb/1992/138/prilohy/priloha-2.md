@@ -16,6 +16,30 @@ Príloha č. 2 k zákonu Slovenskej národnej rady č. 138/1992 Zb.
 
 - France | 1. Diplôme d’architecte DPLG, y compris dans le cadre de la formation professionnelle continue et de la promotion sociale. 2. Diplôme d’architecte ESA 3. Diplôme d’architecte ENSAIS | 1. Le ministre chargé de l’architecture 2. Ecole spéciale d’architecture de Paris 3. Ecole nationale supérieure des arts et industries de Strasbourg, section architecture | | 1988/1989
 
+- Hrvatska | 1. Magistar inženjer arhitekture i urbanizma/magistra inženjerka arhitekture i urbanizma, | 1. Arhitektonski fakultet Sveučilišta u Zagrebu, | | Tretí školský rok po pristúpení
+
+- | 2. magistar inženjer arhitekture/ magistra inženjerka arhitekture, | 2. Građevinsko-arhitektonski fakultet Sveučilišta u Splitu | |
+
+- | 3. magistar inženjer arhitekture/ magistra inženjerka arhitekture | 3. Fakultet građevinarstva, arhitekture i geodezije Sveučilišta u Splitu | |
+
+- | 4. diplomirani inženjer arhitekture | 4. Arhitektonski fakultet Sveučilišta u Zagrebu | |
+
+- | 5. diplomirani inženjer arhitekture/ diplomirana inženjerka arhitekture | 5. Građevinsko-arhitektonski fakultet Sveučilišta u Splitu | |
+
+- | 6. diplomirani inženjer arhitekture / diplomirana inženjerka arhitekture | 6. Fakultet građevinarstva, arhitekture i geodezije Sveučilišta u Splitu | |
+
+- | 7. diplomirani arhitektonski inženjer | 7. Arhitektonski fakultet Sveučilišta u Zagrebu, | |
+
+- | 8. inženjer | 8. Arhitektonski fakultet Sveučilišta u Zagrebu | |
+
+- | 9. inženjer | 9. Arhitektonsko-građevinsko- -geodetski fakultet Sveučilišta u Zagrebu za ukončené štúdium na Arhitektonski odjel Arhitek­tonsko-građevinsko- geodetskog fakulteta | |
+
+- | 10. inženjer | 10. Tehnički fakultet Sveučilišta u Zagrebu za ukončené štúdium na Arhitektonski odsjek Tehničkog fakulteta | |
+
+- | 11. inženjer | 11. Tehnički fakultet Sveučilišta u Zagrebu za ukončené štúdium na Arhitektonsko- inženjerski odjel Tehničkog fakulteta | |
+
+- | 12. inženjer architekture | 12. Arhitektonski fakultet Sveučilišta u Zagrebu | |
+
 - Ireland | 1. Degree of Bachelor of Architecture (B.Arch. NUI) 2. Degree of Bachelor of Architecture (B.Arch.) (Previously, until 2002 – Degree standard diploma in architecture (Dip.Arch) 3. Certificate of associateship (ARIAI) 4. Certificate of membership (MRIAI) | 1. National University of Ireland to architecture graduates of University College Dublin 2. Dublin Institute of Technology, Bolton Street, Dublin (College of Technology, Bolton Street, Dublin) 3. Royal Institute of Architects of Ireland 4. Royal Institute of Architects of Ireland | | 1988/1989
 
 - Italia | – Laurea in architettura | – Universitŕ di Camerino – Universitŕ di Catania — Sede di Siracusa – Universitŕ di Chieti – Universitŕ di Ferrara – Universitŕ di Firenze – Universitŕ di Genova – Universitŕ di Napoli Federico II – Universitŕ di Napoli II – Universitŕ di Palermo – Universitŕ di Parma – Universitŕ di Reggio Calabria – Universitŕ di Roma „La Sapienza“ – Universtiŕ di Roma III – Universitŕ di Trieste – Politecnico di Bari – Politecnico di Milano – Politecnico di Torino – Istituto universitario di architettura di Venezia | Diploma di abilitazione all’esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l’esame di Stato davanti ad una commissione competente | 1988/1989

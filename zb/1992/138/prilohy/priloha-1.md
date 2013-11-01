@@ -14,4 +14,6 @@ Príloha č. 1 k zákonu Slovenskej národnej rady č. 138/1992 Zb.
 
   - 6. Oznámenie Komisie o dokladoch o formálnych kvalifikáciách špecializovaných lekárov, sestier zodpovedných za všeobecnú starostlivosť, špecializovaných zubných lekárov, pôrodných asistentiek a architektov (Ú. v. EÚ C 137/8, 4. 6. 2008).
 
+  - 7. Smernica Rady 2013/25/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti práva usadiť sa a slobody poskytovať služby (Ú. v. EÚ L 158, 10. 6. 2013).
+
   - 1) Preklady týchto smerníc sa nachádzajú v Centrálnej prekladateľskej jednotke sekcie Inštitút pre aproximáciu práva Úradu vlády Slovenskej republiky.
