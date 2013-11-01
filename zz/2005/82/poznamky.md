@@ -2,13 +2,13 @@
 
 - 2) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
+- Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 4) § 21 ods. 2 a § 22 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 82/2005 Z. z.
 
 - 6) § 231 ods. 1 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 82/2005 Z. z.
 
-- 7) Napríklad Obchodný zákonník.
-
-- 8) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 8) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
 - Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -18,7 +18,7 @@
 
 - 8b) § 58 ods. 1 písm. c) zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
 
-- 9) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
+- 9) Zákon č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon) v znení zákona č. 221/2011 Z. z.
 
 - Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
@@ -26,13 +26,13 @@
 
 - 10a) § 12 písm. ad) a § 13 ods. 1 písm. e) piaty bod zákona č. 5/2004 Z. z. v znení zákona č. 223/2011 Z. z.
 
-- § 7 ods. 3 písm. r) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+- § 7 ods. 3 písm. s) zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 235 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 13) Napríklad § 68a ods. 1 písm. b) zákona č. 5/2004 Z. z. v znení neskorších predpisov, § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26 ods. 1 písm. g) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 232/2008 Z. z., § 19 ods. 2 písm. b) zákona č. 125/2006 Z. z. v znení neskorších predpisov.
+- 13) Napríklad § 68a ods. 1 písm. b) zákona č. 5/2004 Z. z. v znení neskorších predpisov, § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26 ods. 1 písm. g) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 232/2008 Z. z., § 19 ods. 2 písm. a) prvý bod zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -44,7 +44,7 @@
 
 - 18) Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 19) Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -54,7 +54,7 @@
 
 - Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 20) Šiesta časť zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 20) Štvrtá časť zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
 - 21) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
