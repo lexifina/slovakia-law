@@ -1102,6 +1102,10 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 059-026 | Donovaly-Hanesy | MK-c4, I/59 | Donovaly 1 | | 0,796 | 0,424
 
+- 059-027 | Banská Bystrica-Jakub | I/59, MK | Banská Bystrica-Uľanka 1 | I/59, MK | 0,874 | 0,872
+
+- 059-028 | Banská Bystrica-Uľanka 1 | I/59, MK | Banská Bystrica-Uľanka 2 | I/14, I/59 | 1,571 | 0,27
+
 - Zoznam úsekov na ceste I/61 | | | | | |
 
 - 061-A001 | | D/1, I/61 | Považská Bystrica 1 | I/61, III/061056 | 2,127 | 1,403
@@ -1481,6 +1485,8 @@ Príloha k vyhláške č. 529/2009 Z. z.
 - 064-A034a2 | | MK-a2, I/64 | | MK-b2, I/64 | 0,636 | 0,636
 
 - 064-035 | | I/64, R1 | Nitra-Dražovce 1 | I/64, MK | 2,493 | 2,486
+
+- 064-036 | Práznovce | I/64B, MK | Krušovce | I/64B, I/64 | 1,922 | 1,826
 
 - Zoznam úsekov na ceste I/65 | | | | | |
 
@@ -1960,6 +1966,12 @@ Príloha k vyhláške č. 529/2009 Z. z.
 
 - 075-022 | Ľudovítov | MK, I/75 | Nové Zámky 2 | I/64, I/75 | 3,973 | 3,973
 
+- 075-023 | | I/75A, I/75 | Galanta-Kolónia | I/75, MK | 0,607 | 0,607
+
+- 075-024 | Galanta-Kolónia | I/75, MK | Nebojsa | I/75, MK | 1,750 | 1,750
+
+- 075-025 | Nebojsa | I/75, MK | Gáň | I/75, II/507 | 2,050 | 2,050
+
 - Zoznam úsekov na ceste I/76 | | | | | |
 
 - 076-001 | Štúrovo | I/76, II/564 | Nána | I/76, III/510009 | 0,770 | 0,510
@@ -2053,6 +2065,8 @@ Príloha k vyhláške č. 529/2009 Z. z.
 - 079-018 | Čierna 2 | III/553040, I/79 | | I/79, III/553037 | 1,375 | 0,922
 
 - 079-020 | Streda nad Bodrogom 1 | III/553020, I/79 | Streda nad Bodrogom 2 | I/79, III/553021 | 0,498 | 0,498
+
+- 079-021 | hranica SR/MR | I/79, I/79A | | I/79, III/553016 | 1,708 | 1,708
 
 - Zoznam úsekov na diaľnici D1 | | | | | |
 
@@ -2301,6 +2315,10 @@ Príloha k vyhláške č. 529/2009 Z. z.
 - R04-001 | Košice-Ťahanovce | I/68, II/547, MK | | D/1, I/68, III/068019 | 5,63 | 5,452
 
 - R04-003 | Svidník 1 | | Svidník 2 | | 4,443 | 4,443
+
+- R04-004 | hranica SR/MR | R4, I/68 | Kechnec | R4 | 2,675 | 2,675
+
+- R04-005 | Kechnec | R4 | Košice-juh | R4, I/68 | 11,500 | 11,500
 
 - Zoznam úsekov na rýchlostnej ceste R6 | | | | | |
 
