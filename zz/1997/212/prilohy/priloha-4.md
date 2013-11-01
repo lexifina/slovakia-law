@@ -8,4 +8,4 @@ Príloha č. 4 k zákonu č. 212/1997 Z. z.
 
 - Ostatná tlač s regionálnou pôsobnosťou | Ministerstvo kultúry Slovenskej republiky | príslušná pobočka príslušného štátneho archívu
 
-- [Príloha č. 4 k zákonu č. 212/1997 Z. z.](../assets/76ab33afd21b39e306ca0bdd8927cd589bb4ae3d3e74c204d3ddbbd0d2d8558d.pdf)
+- [Príloha č. 4 k zákonu č. 212/1997 Z. z.](../assets/0c51c988f13c90a0524c66e79c4ea89ea6de104754973a54411779c12edbd58b.pdf)
