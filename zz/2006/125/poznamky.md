@@ -1,7 +1,5 @@
 - 1) § 30 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
 
-- Zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
-
 - § 17 ods. 1 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
 
 - 2) Napríklad Zákonník práce, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -64,8 +62,6 @@
 
 - 18aa) § 34 ods. 1 písm. f) zákona č. 462/2007 Z. z.
 
-- 18ab) Napríklad zákon č. 182/2011 Z. z., delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
-
 - 18ac) § 7a ods.1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 18ad) § 5a a 7c zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
@@ -90,7 +86,7 @@
 
 - 18f) § 2 ods. 1 písm. g) a h) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
-- 18g) Napríklad zákon č. 529/2010 Z. z. o environmentálnom navrhovaní a používaní výrobkov (zákon o ekodizajne), nariadenie vlády Slovenskej republiky č. 117/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zariadení a ochranných systémov určených na použitie v prostredí s nebezpečenstvom výbuchu v znení nariadenia vlády Slovenskej republiky č. 296/2002 Z. z., nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 576/2002 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na tlakové zariadenie a ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení neskorších predpisov v znení nariadenia vlády Slovenskej republiky č. 329/2003 Z. z., nariadenie vlády Slovenskej republiky č. 308/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 449/2007 Z. z., nariadenie vlády Slovenskej republiky č. 35/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na osobné ochranné prostriedky, nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+- 18g) Napríklad nariadenie vlády Slovenskej republiky č. 117/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody zariadení a ochranných systémov určených na použitie v prostredí s nebezpečenstvom výbuchu v znení nariadenia vlády Slovenskej republiky č. 296/2002 Z. z., nariadenie vlády Slovenskej republiky č. 571/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na výťahy v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 576/2002 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na tlakové zariadenie a ktorým sa mení a dopĺňa nariadenie vlády Slovenskej republiky č. 400/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách na ostatné určené výrobky v znení neskorších predpisov v znení nariadenia vlády Slovenskej republiky č. 329/2003 Z. z., nariadenie vlády Slovenskej republiky č. 308/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody pre elektrické zariadenia, ktoré sa používajú v určitom rozsahu napätia v znení nariadenia vlády Slovenskej republiky č. 449/2007 Z. z., nariadenie vlády Slovenskej republiky č. 35/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na osobné ochranné prostriedky, nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
 
 - 18h) Napríklad zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov, kapitola II nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/1993 (Ú. v. EÚ L 218, 13. 8. 2008).
 
@@ -113,6 +109,8 @@
 - 25) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
 - 25a) Zákon č. 124/2006 Z. z. v znení neskorších predpisov.
+
+- 25b) § 224 ods. 2 písm. e) Zákonníka práce.
 
 - 26) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
