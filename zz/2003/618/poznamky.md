@@ -8,9 +8,13 @@
 
 - 4) § 4 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
+- 4a) § 2 ods. 5 a 6 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
 - 5) § 1 ods. 2 písm. c) zákona Slovenskej národnej rady č. 96/1991 Zb. o verejných kultúrnych podujatiach.
 
 - 6) § 631 až 643 Občianskeho zákonníka.
+
+- 6a) § 2 ods. 1 zákona č. 212/1997 Z. z. o povinných výtlačkoch periodických publikácií, neperiodických publikácií a rozmnoženín audiovizuálnych diel v znení neskorších predpisov.
 
 - 7) § 50 Občianskeho zákonníka.
 
@@ -24,9 +28,11 @@
 
 - 10) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 11) § 313 Obchodného zákonníka.
+- 11) § 313 až 322 Obchodného zákonníka.
 
-- 12) § 16 písm. f), § 17 ods. 1 písm. c), § 46 ods. 2 písm. d), § 57 ods. 2 písm. d) zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov.
+- 12) § 70 až 73 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
+
+- 12a) § 185a až 185h Občianskeho súdneho poriadku.
 
 - 13) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 

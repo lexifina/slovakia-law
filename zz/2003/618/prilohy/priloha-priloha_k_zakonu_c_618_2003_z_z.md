@@ -1,6 +1,6 @@
 Príloha k zákonu č. 618/2003 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 91/250/EHS zo 14. mája 1991 o právnej ochrane počítačových programov (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 122, 17. 5. 1991) v znení smernice Rady 93/98/EHS (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 290, 24. 11. 1993).
 
@@ -8,7 +8,7 @@ Príloha k zákonu č. 618/2003 Z. z.
 
   - 3. Smernica Rady 93/83/EHS z 27. septembra 1993 o koordinácii niektorých pravidiel týkajúcich sa autorského práva a práv príbuzných autorskému právu vzťahujúcich sa na satelitné vysielanie a káblovú retransmisiu (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 248, 6. 10. 1993).
 
-  - 4. Smernica Rady 93/98/EHS z 29. októbra 1993 o harmonizácii trvania autorského práva a niektorých príbuzných práv (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 290, 24. 11. 1993) v znení smernice Rady a Európskeho parlamentu 2001/29/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 167, 22. 6. 2001).
+  - 4. Smernica Európskeho parlamentu a Rady 2006/116/ES z 12. decembra 2006 o lehote ochrany autorského práva a niektorých súvisiacich práv (Ú. v. EÚ L 372, 27. 12. 2006) v znení smernice Európskeho parlamentu a Rady 2011/77/EÚ z 27. septembra 2011 (Ú. v. EÚ L 265, 11. 10. 2011) (kodifikované znenie).
 
   - 5. Smernica Rady a Európskeho parlamentu 96/9/ES z 11. marca 1996 o právnej ochrane databáz (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 15, Ú. v. ES L 77, 27. 3. 1996).
 
