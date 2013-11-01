@@ -22,4 +22,6 @@ Príloha č. 1b k zákonu č. 124/2006 Z. z. v znení zákona č. 309/2007 Z. z.
 
   - od 601 do 1 200 zamestnancov | najmenej dvaja bezpečnostní technici
 
-  - nad 1 200 zamestnancov | najmenej dvaja bezpečnostní technici a na každých začatých 1 000 zamestnancov najmenej jeden ďalší bezpečnostný technik
+  - od 1 201 do 15 000 zamestnancov | najmenej dvaja bezpečnostní technici a na každých začatých 1 000 zamestnancov najmenej jeden ďalší bezpečnostný technik
+
+  - nad 15 000 zamestnancov | najmenej 12 bezpečnostných technikov a na každých začatých 1 500 zamestnancov najmenej jeden ďalší bezpečnostný technik
