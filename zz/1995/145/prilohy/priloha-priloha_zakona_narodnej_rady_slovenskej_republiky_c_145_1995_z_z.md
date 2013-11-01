@@ -3482,31 +3482,37 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 153
 
-  - a) Žiadosť o súhlas s dovozom alebo vývozom vybranej nebezpečnej látky....................................... | 663,50 eura
+  - a) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>).......................................................................... | 165,50 eura
 
-  - b) Žiadosť o zvláštne označovanie obalov nebezpečných chemických látok a nebezpečných chemických prípravkov<sup>36r</sup>)............. | 165,50 eura
-
-  - c) Žiadosť o podanie výnimky z uvádzania detergentov alebo povrchovo aktívnych látok pre detergenty na trh<sup>36t</sup>)............. | 165,50 eura
+  - b) Žiadosť o podanie výnimky z uvádzania detergentov alebo povrchovo aktívnych látok pre detergenty na trh<sup>36t</sup>)............................................................................... | 165,50 eura
 
     - Položka 153a
 
-  - a) Vydanie rozhodnutia o autorizácii biocídneho výrobku podľa § 7 zákona č. 217/2003 Z. z. | 600 eur
+  - 1. | Schválenie účinnej látky | 2 000 eur
 
-  - b) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom podľa § 7 zákona č. 217/2003 Z. z. | 600 eur
+  - 2. | Obnovenie schválenia účinnej látky | 1 000 eur
 
-  - c) Vydanie rozhodnutia o autorizácii biocídneho výrobku na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 500 eur
+  - 3. | Vnútroštátna autorizácia biocídneho výrobku | 750 eur
 
-  - d) Vydanie rozhodnutia o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania podľa § 10 zákona č. 217/2003 Z. z. | 500 eur
+  - 4. | Autorizácia Únie | 1 000 eur
 
-  - e) Zmena rozhodnutia o autorizácii biocídneho výrobku, o registrácii biocídneho výrobku s nízkym rizikom, o autorizácii biocídneho výrobku na základe vzájomného uznania alebo o registrácii biocídneho výrobku s nízkym rizikom na základe vzájomného uznania | 1 000 eur
+  - 5. | Vnútroštátna autorizácia skupiny biocídnych výrobkov | 1 250 eur
 
-  - f) Autorizácia biocídneho výrobku alebo registrácia biocídneho výrobku s nízkym rizikom podľa § 9 zákona č. 217/2003 Z. z. | 3 000 eur
+  - 6. | Autorizácia Únie pre skupinu biocídnych výrobkov | 1 500 eur
 
-  - g) Podanie žiadosti o určenie rámcového zloženia biocídneho výrobku alebo biocídneho výrobku s nízkym rizikom podľa § 7 ods. 9 zákona č. 217/2003 Z. z. | 1 500 eur
+  - 7. | Postupné vzájomné uznanie biocídneho výrobku alebo paralelné vzájomné uznanie biocídneho výrobku | 500 eur
 
-  - h) Podanie žiadosti o možnosť vykonávania pokusov, testov alebo skúšok podľa § 14 ods. 5 zákona č. 217/2003 Z. z. | 1 000 eur
+  - 8. | Postupné vzájomné uznanie skupiny biocídnych výrobkov alebo paralelné vzájomné uznanie skupiny biocídnych výrobkov | 750 eur
 
-  - i) Vydanie rozhodnutia o dočasnom uvedení biocídneho výrobku na trh podľa § 33 a § 33a ods. 2 zákona č. 217/2003 Z. z. | 300 eur
+  - 9. | Obnovenie vnútroštátnej autorizácie skupiny biocídnych výrobkov podľa osobitného predpisu alebo obnovenie autorizácie Únie pre skupinu biocídnych výrobkov | 500 eur
+
+  - 10. | Zmena a doplnenie autorizácie na žiadosť držiteľa autorizácie | 1 000 eur
+
+  - 11. | Zapísanie biocídneho výrobku do registra biocídnych výrobkov sprístupnených na trhu v Slovenskej republike | 300 eur
+
+  - 12. | Zmena rozhodnutia Centra pre chemické látky a prípravky o zapísaní biocídneho výrobku do registra biocídnych výrobkov sprístupnených na trhu v Slovenskej republike | 150 eur
+
+  - 13. | Výmaz biocídneho výrobku z registra biocídnych výrobkov sprístupnených na trhu v Slovenskej republike na vlastnú žiadosť právnickej osoby alebo fyzickej osoby podnikateľa | 100 eur
 
     - Položka 154
 
@@ -3758,7 +3764,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Vydanie rozhodnutia o odpise zásob výhradných ložísk ...... | 35 eur
 
-  - c) Vydanie rozhodnutia o schválení záverečnej správy s výpočtom objemu prírodnej horninovej štruktúry a podzemného priestoru na účely trvalého ukladania oxidu uhličitého<sup>39ba</sup>) ...... | 35 eur
+  - c) Vydanie rozhodnutia o schválení záverečnej správy s výpočtom množstiev podzemnej vody...... | 35 eur
+
+  - d) Vydanie rozhodnutia o schválení záverečnej správy s výpočtom množstiev geotermálnej energie............. | 35 eur
+
+  - e) Vydanie rozhodnutia o schválení záverečnej správy s analýzou rizika znečisteného územia...... | 35 eur
+
+  - f) Vydanie rozhodnutia o schválení záverečnej správy s výpočtom objemu prírodnej horninovej štruktúry a podzemného priestoru na účely trvalého ukladania oxidu uhličitého<sup>39ba</sup>) ...... | 35 eur
 
   - Splnomocnenie Správny orgán môže znížiť poplatok podľa písmena a) tejto položky až o 50 % príslušnej sadzby, ak ide o jednoduché výpočty zásob výhradných ložísk. |
 
