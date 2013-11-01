@@ -144,6 +144,10 @@
 
 - 35c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
+- 35d) § 5 ods. 1 písm. a) až h), j) a k) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 35e) § 12 ods. 1 písm. a) druhý bod a písm. d) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 338/2013 Z. z.
+
 - 36) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
 
 - 37) Zákon č. 580/2004 Z. z.
