@@ -2,6 +2,10 @@
 
 - 1a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 211/2011 zo 16. februára 2011 o iniciatíve občanov (Ú. v. EÚ L 65, 11. 3. 2011).
 
+- 1aa) § 7 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+- 1b) § 49 písm. a) zákona č. 305/2013 Z. z.
+
 - 2) § 3 a § 21 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 2a) Napríklad § 29 až 35 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, § 212 až 218 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
@@ -14,11 +18,13 @@
 
 - 4a) Napríklad zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4b) § 2 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 4aa) § 7 zákona č. 305/2013 Z. z.
 
 - 4c) Napríklad zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) § 5 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 25/2006 Z. z.
+- 4d) § 10 zákona č. 305/2013 Z. z.
+
+- 5) § 4 a 4a zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 305/2013 Z. z.
 
 - 6) § 9 zákona č. 215/2002 Z. z.
 
