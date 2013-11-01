@@ -36,6 +36,8 @@
 
 - 12a) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
+- 12b) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 13) Napríklad § 30 a 31 Občianskeho súdneho poriadku, § 38 až 40a Trestného poriadku.
 
 - 13a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.

@@ -59,3 +59,5 @@ Príloha č. 1 k zákonu č. 586/2003 Z. z.
   - v Bulharskej republike | Адвокат
 
   - v Rumunskej republike | Avocat
+
+  - v Chorvátskej republike | Odvjetnik/Odvjetnica
