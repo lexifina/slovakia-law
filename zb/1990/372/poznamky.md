@@ -28,6 +28,8 @@
 
 - 3e) § 49a zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2009 Z. z.
 
+- 3f) § 5a zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 299/2013 Z. z.
+
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 4a) Zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov.
