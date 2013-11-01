@@ -86,6 +86,10 @@
 
 - Zákon č. 543/2002 Z. z.
 
+- 10a) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon) v znení zákona č. 339/2012 Z. z.
+
+- Zákon č. 319/2013 Z. z. o pôsobnosti orgánov štátnej správy pre sprístupňovanie biocídnych výrobkov na trh a ich používanie a o zmene a doplnení niektorých zákonov (biocídny zákon).
+
 - 11) Zákon č. 245/2003 Z. z.
 
 - 12) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
