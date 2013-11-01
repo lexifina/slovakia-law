@@ -1,21 +1,19 @@
 Príloha č. 1 k zákonu č. 569/2007 Z. z.
 
-- VZOREC NA URČENIE NAJNIŽŠEJ CENY ZA GEOLOGICKÉ DIELO A GEOLOGICKÝ OBJEKT
+- VZOREC NA URČENIE ÚHRADY ZA GEOLOGICKÉ DIELO
 
-  - Vzorec na určenie najnižšej ceny za geologické dielo a geologický objekt na účely odpredaja vrtov realizovaných zo štátneho rozpočtu alebo z iných verejných prostriedkov:
+  - Vzorec na určenie úhrady za geologické dielo financované zo štátneho rozpočtu alebo z iných verejných prostriedkov na účely odplatného prevodu vlastníctva:
 
-  - C = C<sub>P</sub> x 0,5 x (20 – n) x 0,05,
+  - U = C × 0,8 – (n × 1/x × C × 0,8),
 
   - pričom
 
-  - C = cena za vrt
+  - U = úhrada za geologické dielo
 
-  - C<sub>P</sub> = nadobúdacia cena pažníc zabudovaných do vrtu podľa faktúr
+  - C = celkové náklady na realizáciu geologického diela
 
-  - 0,5 = koeficient vyjadrujúci opotrebovanie vrtu v priebehu geologických prác
+  - 0,8 = koeficient vyjadrujúci opotrebovanie geologického diela v priebehu geologických prác
 
-  - 20 = predpokladaná životnosť vrtu v rokoch
+  - x = predpokladaná životnosť geologického diela v rokoch, pričom predpokladaná životnosť vrtu x = 20 a predpokladaná životnosť banského diela x = 40
 
-  - n = počet celých rokov od zabudovania pažníc do roku ich odpredaja
-
-  - 0,05 = koeficient vyjadrujúci mieru opotrebenia vrtu za 1 rok
+  - n = počet celých rokov od ukončenia geologického diela do roku jeho prevodu.

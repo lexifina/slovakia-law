@@ -1,6 +1,6 @@
 - 1) § 21 ods. 6 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov.
 
-- 2) § 3 ods. 5 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
+- 2) § 3 ods. 3 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
 - 3) § 2 ods. 2 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
 
@@ -12,9 +12,9 @@
 
 - 5a) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+- 5b) Napríklad § 43 zákona č. 50/1976 Zb. v znení neskorších predpisov, § 2 a 3 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, § 52 zákona č. 364/2004 Z. z. v znení zákona č. 134/2010 Z. z.
 
-- 7) § 7 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
+- 6) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 8) § 21 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
@@ -26,13 +26,15 @@
 
 - 11) § 57 Obchodného zákonníka.
 
-- 11a) § 11 zákona č. 136/2010 Z. z.,
+- 11a) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 11b) § 11 zákona č. 136/2010 Z. z.,
 
 - § 66b zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
 
 - 12) § 175e zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 263/1992 Zb.
 
-- 13) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 12a) § 2 písm. d) a § 8 ods. 1 zákona č. 136/2010 Z. z.
 
 - 14) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
@@ -44,7 +46,7 @@
 
 - 18) § 5 ods. 4 zákona Slovenskej národnej rady č. 51/1988 Zb.
 
-- 19) § 5 a 6 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+- 19) § 4 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 489/1991 Zb.
 
 - 20) § 13, 14 a 14a zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
@@ -60,9 +62,19 @@
 
 - 25) § 2 Obchodného zákonníka.
 
-- 25a) § 24 až 27 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 25a) § 26 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 25b) § 34 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 25c) § 5 ods. 3 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 25d) Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov v znení neskorších predpisov.
 
 - 26) § 9 ods. 1 písm. n) zákona č. 543/2002 Z. z. v znení zákona č. 479/2005 Z. z.
+
+- 26a) § 24 až 27 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 26b) Napríklad § 41 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, § 9 ods. 1 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 27) § 36 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -71,6 +83,12 @@
 - 27b) § 66a ods. 2 Obchodného zákonníka.
 
 - 28) § 24 ods. 2 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 28a) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 28b) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 28c) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29) § 2 písm. p) zákona č. 326/2005 Z. z.
 
@@ -89,6 +107,8 @@
 - 36) § 1 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
 
 - 37) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 37a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
 - 38) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
 
@@ -123,3 +143,7 @@
 - 52) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 53) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
+
+- 54) § 3a zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
+
+- 55) § 21 ods. 2 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
