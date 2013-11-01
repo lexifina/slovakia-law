@@ -216,6 +216,8 @@
 
 - Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
+
 - 62a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore.
 
 - 62b) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
