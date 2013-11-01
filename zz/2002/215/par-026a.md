@@ -34,7 +34,7 @@
 
 - g) do 33 000 eur fyzickej osobe – podnikateľovi alebo právnickej osobe, ktorá zneužila súkromný kľúč podpisovateľa,
 
-- h) do 33 000 eur zastupovanej osobe, ktorá poruší povinnosť bezodkladne požiadať o zrušenie certifikátu podľa § 7 ods. 6,
+- h) do 33 100 eur mandantovi alebo osobe, u ktorej mandatár vykonáva činnosť podľa osobitného predpisu<sup>2b</sup>) alebo vykonáva funkciu podľa osobitného predpisu,<sup>2c</sup>) ak poruší povinnosť bezodkladne požiadať o zrušenie certifikátu podľa § 7 ods. 6,
 
 - i) do 16 500 eur, a to aj opakovane, akreditovanej certifikačnej autorite, ktorá nesplní povinnosti podrobiť sa auditu podľa § 25 ods. 1 alebo nepredloží záverečnú správu o výsledku auditu v lehote podľa § 25 ods. 2,
 
@@ -50,7 +50,7 @@
 
 (2) Pri určení výšky pokuty úrad prihliadne najmä na závažnosť, spôsob, čas trvania a následky protiprávneho konania.
 
-(3) Pokutu podľa odseku 1 možno uložiť do dvoch rokov odo dňa, keď sa úrad dozvedel o porušení povinností na úseku elektronického podpisu, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
+(3) Pokutu podľa odseku 1 možno uložiť do dvoch rokov odo dňa, keď sa úrad dozvedel o porušení povinností na úseku elektronického podpisu alebo elektronickej pečate, najneskôr však do troch rokov odo dňa, keď k porušeniu povinnosti došlo.
 
 (4) Pokuta je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o jej uložení.
 

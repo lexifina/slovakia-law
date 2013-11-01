@@ -2,21 +2,21 @@
 
 - 2) § 34 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy.
 
-- 2a) § 18 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+- 2a) § 10 ods. 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
 - 2b) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2c) Napríklad zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
 
-- 2d) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení zákona č. 545/2005 Z. z.
+- 2e) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
-- 2e) § 11 písm. a) a d) zákona č. 575/2001 Z. z. v znení neskorších predpisov.
+- Zákon č. 153/2001 Z. z. v znení neskorších predpisov
 
-- 2f) § 12 písm. a) až g) zákona č. 575/2001 Z. z. v znení zákona č. 78/2005 Z. z.
+- Zákon č. 575/2001 Z. z. v znení neskorších predpisov.
 
-- 2g) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
+- Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 153/2001 Z. z. v znení neskorších predpisov.
+- 2f) Rozhodnutie Komisie zo 16. októbra 2009, ktorým sa ustanovujú opatrenia na uľahčenie postupov elektronickými spôsobmi prostredníctvom „miest jednotného kontaktu“ podľa smernice Európskeho parlamentu a Rady 2006/123/ES o službách na vnútornom trhu (2009/767/ES) (Ú. v. EÚ L 274, 20. 10. 2009) v platnom znení.
 
 - 3) § 6 ods. 8 a § 49 a 50 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
