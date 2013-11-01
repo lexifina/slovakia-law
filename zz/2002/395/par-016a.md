@@ -10,8 +10,8 @@
 
 (5) Pôvodca registratúry uchováva údaje na overenie podpisu podpísaného elektronického registratúrneho záznamu spolu s elektronickým registratúrnym záznamom.
 
-(6) Pôvodca registratúry uskutočňuje zmenu formátu elektronického registratúrneho záznamu spôsobom zaručujúcim hodnovernosť elektronického registratúrneho záznamu, neporušiteľnosť jeho obsahu, jeho čitateľnosť a bezpečnosť procesu zmeny formátu elektronického registratúrneho záznamu. Hodnovernosť elektronického registratúrneho záznamu vzniknutého zmenou formátu sa preukazuje najmä identifikačnými údajmi o osobe, ktorá zmenu formátu vykonala, dátumom jej vykonania a časovou pečiatkou.<sup>30b</sup>)
+(6) Pôvodca registratúry, ktorý je orgánom verejnej správy, uskutočňuje zmenu formátu elektronického registratúrneho záznamu zaručenou konverziou podľa osobitného predpisu.<sup>30b</sup>) Pôvodca registratúry, ktorý nie je orgánom verejnej správy, uskutočňuje zmenu formátu elektronického registratúrneho záznamu primerane postupom, ktorý ustanovuje osobitný predpis pre zaručenú konverziu,<sup>30b</sup>) pričom nie je povinný zmenu formátu vykonať prostredníctvom osoby oprávnenej vykonať zaručenú konverziu.<sup>30ba</sup>)
 
-(7) Elektronický registratúrny záznam podpísaný platným zaručeným elektronickým podpisom<sup>30c</sup>) osoby, ktorá bola v čase podpisovania na to oprávnená, alebo osoby zodpovednej za zmenu vykonanú podľa odseku 6, alebo osoby zodpovednej za jeho autorizovanú zmenu formátu a bol opatrený časovou pečiatkou sa považuje za hodnoverný, ak sa nepreukáže opak.
+(7) Elektronický registratúrny záznam podpísaný platným zaručeným elektronickým podpisom alebo zaručenou elektronickou pečaťou<sup>30c</sup>) osoby, ktorá bola v čase podpisovania na to oprávnená, alebo osoby zodpovednej za zmenu vykonanú podľa odseku 6, alebo osoby zodpovednej za jeho autorizovanú zmenu formátu a bol opatrený časovou pečiatkou sa považuje za hodnoverný, ak sa nepreukáže opak.
 
 (8) Pôvodca registratúry odovzdáva elektronické archívne dokumenty spôsobom ustanoveným vo všeobecne záväznom právnom predpise podľa § 33 ods. 2.

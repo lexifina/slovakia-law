@@ -64,9 +64,11 @@
 
 - 30a) § 2 písm. y) zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 275/2006 Z. z.
 
-- 30b) § 9 zákona č. 215/2002 Z. z. v znení v znení zákona č. 214/2008 Z. z.
+- 30b) § 35 ods. 2 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
-- 30c) § 4 zákona č. 215/2002 Z. z.
+- 30ba) § 35 ods. 3 zákona č. 305/2013 Z. z.
+
+- 30c) § 4 a 4a zákona č. 215/2002 Z. z. v znení zákona č. 305/2013 Z. z.
 
 - 31) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
