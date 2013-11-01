@@ -104,4 +104,6 @@
 
 - § 16 ods. 3 až 7 a § 20 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
+- 33a) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
 - 34) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
