@@ -38,6 +38,8 @@
 
 - 19) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
+- 19a) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 20) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
 - 21) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov.
