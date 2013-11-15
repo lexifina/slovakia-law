@@ -192,6 +192,18 @@
 
 - 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
 
+- 59ad) Príloha 1 nariadenia (ES) č. 800/2008.
+
+- 59ae) § 2 ods. 2 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 59af) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+
+- 59ag) Čl. 1 nariadenia (ES) č. 1998/2006.
+
+- 59ah) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
+- 59ai) § 91 ods. 2 až 7, § 92 ods. 1 až 7 a § 93 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 60) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
