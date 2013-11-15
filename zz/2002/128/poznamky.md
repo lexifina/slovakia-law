@@ -40,6 +40,8 @@
 
 - 10a) Zákon č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 10aa) § 7a až 7c zákona č. 108/2000 Z. z. v znení zákona č. 367/2013 Z. z.
+
 - 11) Napríklad § 25 a 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
 
 - 11a) § 6 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení zákona č. 87/2009 Z. z.
@@ -74,7 +76,9 @@
 
 - 18b) § 7 až 9 zákona č. 250/2007 Z. z.
 
-- 19) § 8 ods. 3 písm. c) zákona č. 264/1999 Z. z.
+- 18c) Zákon č. 250/2007 Z. z.
+
+- 19) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 20) Napríklad § 11 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
