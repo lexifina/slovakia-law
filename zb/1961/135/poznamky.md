@@ -80,6 +80,8 @@
 
 - 2r) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
+- 2s) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
 - 3) § 71 ods. 1 zákona č. 50/1976 Zb.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
