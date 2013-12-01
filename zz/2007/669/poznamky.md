@@ -18,6 +18,8 @@
 
 - 7) § 111 ods. 2 zákona č. 50/1976 Zb.
 
+- 7a) § 2 písm. i) vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
+
 - 8) § 111b ods. 3 zákona č. 50/1976 Zb.
 
 - 9) § 18 ods. 2 písm. e) zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon).
