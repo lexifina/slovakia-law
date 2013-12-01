@@ -1,0 +1,11 @@
+# § 10s
+
+(1) Notifikovaná osoba sa pred vydaním osvedčenia o typovom schválení uistí, ak je to potrebné v spolupráci s inými notifikovanými osobami, o tom, že boli prijaté vhodné opatrenia na zaistenie účinnej kontroly súladu, ak ide o požiadavky podľa časti I dodatku VI prílohy II smernice. Notifikovaná osoba, ktorá vydala osvedčenie o typovom schválení, sa uistí, ak je to potrebné v spolupráci s inými notifikovanými osobami, či opatrenia uvedené v časti I dodatku VI postačujú a či každá palubná čistička, ktorej bolo udelené osvedčenie o typovom schválení v súlade s požiadavkami podľa § 10p až 10t a § 10u ods. 1, naďalej zodpovedá opisu v osvedčení o typovom schválení a jeho prílohách typovo schválenej palubnej čističky. Notifikovaná osoba môže uznať porovnateľné skúšky aj iných notifikovaných osôb.
+
+(2) Za nesúlad s typom typovo schválenej palubnej čističky sa považuje, ak existujú odchýlky od parametrov uvedených v osvedčení o typovom schválení alebo od informačného balíka, ktoré neboli schválené podľa § 10q ods. 3 notifikovanou osobou, ktorá vydala osvedčenie o typovom schválení.
+
+(3) Ak notifikovaná osoba, ktorá vydala osvedčenie o typovom schválení, zistí, že palubná čistička nezodpovedá typu palubnej čističky, pre ktorý vydala osvedčenie o typovom schválení, prijme opatrenia potrebné na zaistenie súladu palubnej čističky v prevádzke s typom palubnej čističky, ktorý bol schválený. Notifikovaná osoba, ktorá zistila nesúlad, oznámi iným notifikovaným osobám a Európskej komisii prijaté opatrenia, ktoré môžu zahŕňať aj odobratie osvedčenia o typovom schválení.
+
+(4) Ak je notifikovaná osoba schopná preukázať, že palubné čističky označené číslom osvedčenia o typovom schválení nezodpovedajú typu palubnej čističky, ktorá bola typovo schválená, môže od notifikovanej osoby, ktorá osvedčenie o typovom schválení vydala, vyžadovať, aby skontrolovala súlad vyrábaného typu palubnej čističky s typom palubnej čističky, ktorý bol schválený. Takáto kontrola sa vykoná do šiestich mesiacov odo dňa, keď bola notifikovaná osoba o to požiadaná.
+
+(5) Notifikovaná osoba oznámi iným notifikovaným osobám a Európskej komisii do jedného mesiaca odo dňa odobratia osvedčenia o typovom schválení palubnej čističky každé odobratie osvedčenia o typovom schválení palubnej čističky a jeho dôvody.

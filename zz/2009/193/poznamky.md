@@ -10,6 +10,10 @@
 
 - 3a) § 4 nariadenia vlády Slovenskej republiky č. 370/2006 Z. z. o opatreniach na zníženie emisií zo spaľovacích motorov inštalovaných v necestných strojoch.
 
+- 3aa) § 1 ods. 3 písm. a) nariadenia vlády Slovenskej republiky č. 417/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na plavidlá určené na rekreačné účely.
+
+- 3ab) Príloha č. 15 k nariadeniu vlády Slovenskej republiky č. 417/2004 Z. z.
+
 - 4) § 38 písm. i) zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
 
 - 5) § 22 zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
@@ -27,6 +31,18 @@
 - 5f) § 99 písm. o) bod 8 zákona č. 725/2004 Z. z. v znení zákona č. 307/2009 Z. z.
 
 - 5g) Nariadenie vlády Slovenskej republiky č. 370/2006 Z. z. v znení nariadenia vlády Slovenskej republiky č. 155/2007 Z. z.
+
+- 5h) § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5i) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 307/2013 Z. z.
+
+- 5j) Nariadenie vlády Slovenskej republiky č. 443/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na rádiové zariadenia a koncové telekomunikačné zariadenia.
+
+- 5k) § 22a ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
+
+- 5l) STN EN ISO 9001 Systémy manažérstva kvality. Požiadavky (ISO 9001: 2008) (01 0320).
+
+- 5m) STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (ISO/IEC 17025: 2005) (01 5253).
 
 - 6) § 39 písm. k) štvrtý bod zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
 
