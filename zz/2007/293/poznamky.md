@@ -12,6 +12,8 @@
 
 - 6) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení zákona č. 317/2012 Z. z.
 
+- 6a) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 7) Čl. 49 a 50 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002 ) v platnom znení.
 
 - 8) Napríklad zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 124/2006 Z. z., zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -41,6 +43,12 @@
 - 18) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov v znení neskorších predpisov, zákon č. 586/2003 Z. z. v znení neskorších predpisov, zákon č. 540/2007 Z. z. v znení neskorších predpisov.
 
 - 19) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 19a) § 73 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
+
+- 19b) § 52 až 54 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- § 30 ods. 5, § 42 ods. 6 a § 70 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) § 75 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 

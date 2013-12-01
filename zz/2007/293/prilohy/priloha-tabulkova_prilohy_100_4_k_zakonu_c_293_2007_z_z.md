@@ -24,9 +24,11 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Francúzsko France | Diplôme d’Etat de docteur en médecine | Universités |
 
-- ÍrskoIreland | Primary qualification | Competent examining body | Certificate of experience
+- Chorvátsko Hrvatska | Diploma „doktor medicine/doktorica medicine“ | Medicinski fakulteti sveučilišta u Republici Hrvatskoj |
 
-- TalianskoItalia | Diploma di laurea in medicina e chirurgia | Università | Diploma di abilitazione all’esercizio della medicina e chirurgia
+- Írsko Ireland | Primary qualification | Competent examining body | Certificate of experience
+
+- Taliansko Italia | Diploma di laurea in medicina e chirurgia | Università | Diploma di abilitazione all’esercizio della medicina e chirurgia
 
 - Cyprus Κύπρος | Πιστοποιητικό Εγγραφής Ιατρού | Ιατρικό Συµβούλιο |
 
@@ -54,7 +56,7 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Fínsko Suomi/Finland | Lääketieteen lisensiaatin tutkinto/Medicine licentiatexamen | – Helsingin yliopisto/Helsingfors universitet – Kuopion yliopisto – Oulun yliopisto – Tampereen yliopisto – Turun yliopisto | Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta/Examenbevis om tilläggsutbildning för läkare inom primärvården
 
-- Švédsko Sverige | Läkarexamen | Universitet | Bevis om praktisk utbildning som utfärdas av Socialstyrelsen
+- Śvédsko Sverige | Läkarexamen | Universitet | Bevis om praktisk utbildning som utfärdas av Socialstyrelsen
 
 - Spojené kráľovstvoVeľkej Britániea Severného Írska UnitedKingdom | Primary qualification | Competent examining body | Certificate of experience
 
@@ -62,7 +64,7 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Lichtenštajnsko Liechtenstein | The diplomas, certificates and other titles awarded in another State to which this Directive applies and isted in the present Annex | | Certificate on the completed practical training issued by the competent authorirties
 
-- Nórsko Norge | Vitnemål for fullført grad candidata/candidatus medicinae, short form: cand. med. | Medisinsk universitetsfakulter | Bekreftelse på praktisk tjeneste som lege utstedt av kompetent offentlig myndighet’
+- NórskoNorge | Vitnemål for fullført grad candidata/candidatus medicinae, short form: cand. med. | Medisinsk universitetsfakulter | Bekreftelse på praktisk tjeneste som lege utstedt av kompetent offentlig myndighet’
 
 - Švajčiarsko Suisse/Schweiz | 1. Titulaire du diplôme féderal de médicin2. Eidgenössich diplommierter Arzt3. Titolare di diploma federale | Département fédéral de l´intérieur |
 
@@ -70,7 +72,7 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Štát | Názov kvalifikácie | Udeľujúci orgán | Doplňujúce osvedčenie ku kvalifikácii | Názov profesie
 
-- Belgicko België Belgique Belgien | Diploma van tandarts/Diplôme licencié en science dentaire | – De universiteiten/Les universités – De bevoegde Examen – commissie Van de Vlaamse Gemeenschap/Le Jury compétent d´enseignement de la Communauté française | | Licentiaat in de tandheelkunde/Licencié en science dentaire
+- Belgicko België Belgique Belgien | Diploma van tandarts/Diplôme licencié en science dentaire | – De universiteiten/Les universités– De bevoegde Examen – commissie Van de Vlaamse Gemeenschap/Le Jury compétent d´enseignement de la Communauté française | | Licentiaat in de tandheelkunde/Licencié en science dentaire
 
 - Bulharsko България | Диплома за висше образование на образователно-квалификационна степен ‚Магистър’ по ‚Дентална медицина’ с професионална квалификация ‚Магистър-лекар по дентална медицина’ | Факултет по дентална медицина към Медицински университет | | Лекар по дентална медицина
 
@@ -87,6 +89,8 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 - Španielsko España | Título de Licenciado en Odontología | El rector de una universidad | | Licenciado en odontología
 
 - Francúzsko France | Diplôme d’Etat de docteur en chirurgie dentaire | Universités | | Chirurgien-dentiste
+
+- Chorvátsko Hrvatska | Diploma „doktor dentalne medicine/doktorica dentalne medicine“ | Fakulteti sveučilišta u Republici Hrvatskoj | | doktor dentalne medicine/doktorica dentalne medicine
 
 - Írsko Ireland | – Bachelor in Dental Science (B. Dent. Sc.)– Bachelor of Dental Surgery (BDS)– Licentiate in Dental Surgery (LDS) | – Universities– Royal College of Surgeons in Ireland | | – Dentist– Dental practitioner– Dental surgeon
 
@@ -122,11 +126,11 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Veľká Británia a Severné Írsko UnitedKingdom | – Bachelor of Dental Surgery (BDS or B. Ch. D.)– Licentiate in Dental Surgery | – Universities– Royal Colleges | | – Dentist– Dental practitioner– Dental surgeon
 
-- IslandÍsland | Próf frá tannlæknadeild Háskóla Íslands | Tannlæknadeild Háskóla Íslands | |
+- Island Ísland | Próf frá tannlæknadeild Háskóla Íslands | Tannlæknadeild Háskóla Íslands | |
 
 - Lichtenštajnsko Liechtenstein | The diplomas, certificates and other titles awarded in another State to which thisDirective applies and listed in the present Annex, accompanied by a certificate on the completed practical training issued by the competent authorities | | |
 
-- NórskoNorge | Vitnemål for fullført grad candidata/candidatus odontologiae, short form: cand. odont. | Odontologisk universitetsfakultet’ | |
+- Nórsko Norge | Vitnemål for fullført grad candidata/candidatus odontologiae, short form: cand. odont. | Odontologisk universitetsfakultet’ | |
 
 - Švajčiarsko Suisse/Schweiz | Titulaire du diplôme fédéral de médecindentiste, eidgenössisch diplomierter Zahnarzt, titolare di diploma federale di medico-dentista | Département fédéral de l’intérieur’ | |
 
@@ -148,9 +152,11 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Grécko Ελλάς | Άδεια άσκησης φαρμακευτικού επαγγέλματος | Νομαρχιακή Αυτοδιοίκηση |
 
-- ŠŠpanielsko España | Título de Licenciado en Farmacia | – Ministerio de Educación y Cultura– El rector de una universidad |
+- Španielsko España | Título de Licenciado en Farmacia | – Ministerio de Educación y Cultura– El rector de una universidad |
 
 - Francúzsko France | – Diplôme d’Etat de pharmacien– Diplôme d’Etat de docteur en pharmacie | Universités |
+
+- Chorvátsko Hrvatska | Diploma „magistar farmacije/magistra farmacije“ | – Farmaceutsko-biokemijski fakultet Sveučilišta u Zagrebu – Medicinski fakultet Sveučilišta u Splitu – Kemijsko-tehnološki fakultet Sveučilišta u Splitu |
 
 - Írsko Ireland | Certificate of Registered PharmaceuticalChemist | |
 
@@ -176,7 +182,7 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Portugalsko Portugal | Carta de curso de licenciatura em Ciências Farmacêuticas | Universidades |
 
-- Rumunsko România | Diplomã de licenþã de farmacist | Universitãþi |
+- Rumunsko România | Diplomă de licenţă de farmacist | Universităţi |
 
 - Slovinsko Slovenija | Diploma, s katero se podeljuje strokovni naziv „magister farmacije/magistra farmacije“ | Univerza | Potrdilo o opravljenem strokovnem izpitu za poklic magister farmacije/magistra farmacije
 
@@ -213,6 +219,8 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 - Španielsko España | Título de Diplomado universitario en Enfermería | – Ministerio de Educación y Cultura– El rector de una universidad | Enfermero/a diplomado/a
 
 - Francúzsko France | – Diplôme d’Etat d’infirmier(ère)– Diplôme d’Etat d’infirmier(ère) délivré en vertu du décret no 99-1147 du 29 décembre 1999 | Le ministère de la santé | Infirmer(ère)
+
+- Chorvátsko Hrvatska | 1. Svjedodžba „medicinska sestra opae njege/medicinski tehničar opae njege“2. Svjedodžba „prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva | 1. Srednje strukovne škole koje izvode program za stjecanje kvalifikacije „medicinska sestra opae njege/medicinski tehničar opae njege“2. Medicinski fakulteti sveučilišta u Republici Hrvatskoj – Sveučilišta u Republici Hrvatskoj – Veleučilišta u Republici Hrvatskoj | 1. medicinska sestra opae njege/medicinski tehničar opae njege2. prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva
 
 - Írsko Ireland | Certificate of Registered General Nurse | An Bord Altranais (The Nursing Board) | Registered General Nurse
 
@@ -274,9 +282,11 @@ Tabuľková časť prílohy č. 4 k zákonu č. 293/2007 Z. z.
 
 - Grécko Ελλάς | 1. Πτυχίο Τµήµατος Μαιευτικής Τεχνολογικών Εκπαιδευτικών Ιδρυµάτων (Τ.Ε.Ι.)2. Πτυχίο του Τµήµατος Μαιών της Ανωτέρας Σχολής Στελεχών Υγείας και Κοινων. Πρόνοιας (ΚΑΤΕΕ)3. Πτυχίο Μαίας Ανωτέρας Σχολής Μαιών | 1. Τεχνολογικά Εκπαιδευτικά Ιδρύµατα (Τ.Ε.Ι.)2. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευµάτων3. Υπουργείο Υγείας και Πρόνοιας | – Μαία– Μαιευτής
 
-- ŠŠpanielsko España | – Título de Matrona– Título de Asistente obstétrico (matrona)– Título de Enfermería obstétricaginecológica | Ministerio de Educación y Cultura | – Matrona– Asistente obstétrico
+- Španielsko España | – Título de Matrona– Título de Asistente obstétrico (matrona)– Título de Enfermería obstétricaginecológica | Ministerio de Educación y Cultura | – Matrona– Asistente obstétrico
 
 - Francúzsko France | Diplôme de sage-femme | L’Etat | Sage-femme
+
+- Chorvátsko Hrvatska | Svjedodžba „prvostupnik (baccalaureus) primaljstva/sveučilišna prvostupnica (baccalaurea) primaljstva“ | – Medicinski fakulteti sveučilišta u Republici Hrvatskoj – Sveučilišta u Republici Hrvatskoj – Veleučilišta i visoke škole u Republici Hrvatskoj | prvostupnik (baccalaureus) primaljstva/prvostupnica (baccalaurea) primaljstva
 
 - Írsko Ireland | Certificate in Midwifery | An Board Altranais | Midwife
 

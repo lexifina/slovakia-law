@@ -162,23 +162,31 @@ Príloha č. 3 k zákonu č. 293/2007 Z. z. v znení zákona č. 560/2008 Z. z.
 
   - ktorá predstavuje odborné vzdelávanie a prípravu trvajúce trinásť rokov, zahŕňajúce päť rokov odbornej prípravy na odbornej škole zakončenej skúškou.
 
+  - – špeciálna odborná príprava v oblasti starostlivosti o deti a mladistvých („Sonderausbildung in der Kinder- und Jugendlichenpflege“),
+
+  - – špeciálna odborná príprava v oblasti psychiatrickej zdravotnej a ošetrovateľskej starostlivosti („Sonderausbildung in der psychiatrischen Gesundheits-und Krankenpflege“),
+
+  - – špeciálna odborná príprava v oblasti intenzívnej starostlivosti („Sonderausbildung in der Intensivpflege“),
+
+  - – špeciálna odborná príprava v oblasti intenzívnej starostlivosti v pediatrii („Sonderausbildung in der Kinderintensivpflege“),
+
+  - – špeciálna odborná príprava v oblasti ošetrovateľskej starostlivosti súvisiacej s anestéziou („Sonderausbildung in der Anästhesiepflege“),
+
+  - – špeciálna odborná príprava v oblasti ošetrovateľskej starostlivosti súvisiacej s liečbou nahrádzajúcou obličkovú funkciu („Sonderausbildung in der Pflege bei Nierenersatztherapie“),
+
+  - – špeciálna odborná príprava v oblasti ošetrovateľskej starostlivosti na operačnom oddelení („Sonderausbildung in der Pflege im Operationsbereich“),
+
+  - – špeciálna odborná príprava v oblasti nemocničnej hygieny („Sonderausbildung in der Krankenhaushygiene“),
+
+  - – špeciálna odborná pedagogická príprava v oblasti zdravotnej a ošetrovateľskej starostlivosti („Sonderausbildung für Lehraufgaben in der Gesundheits- und Krankenpflege“),
+
+  - – špeciálna odborná manažérska príprava v oblasti zdravotnej a ošetrovateľskej starostlivosti („Sonderausbildung für Führungsaufgaben in der Gesundheits- und Krankenpflege“),
+
+  - ktorá predstavuje vzdelávanie a odbornú prípravu s celkovým trvaním aspoň 13 rokov a šesť mesiacov až 14 rokov zahŕňajúcich aspoň desať rokov všeobecného vzdelávania a ďalšie tri roky základnej odbornej prípravy v rámci verejnej služby zdravotnej a ošetrovateľskej starostlivosti vyššieho stupňa a šesť až 12 mesiacov osobitnej odbornej prípravy týkajúcej sa danej špecializácie, pedagogickej alebo manažérskej odbornej prípravy.
+
   - 2. Remeselný sektor („Master/Meister/Maître“), ktorý predstavuje odborné vzdelávanie a prípravu obsahujúcu zručnosti nezahrnuté v hlave III kapitole II smernice 2005/36/ES
 
   - Odborná príprava:
-
-  - v Dánsku:
-
-  - – optik („optometrist“),
-
-  - táto príprava trvá štrnásť rokov vrátane päťročnej odbornej prípravy rozdelenej na dvaapolročné teoretické štúdium zabezpečované vzdelávacím zariadením a na dvaapolročný praktický odborný výcvik absolvovaný na pracovisku; príprava sa zakončí uznávanou remeselníckou skúškou, ktorou sa priznáva právo používať titul „Mester“,
-
-  - – ortopedický technik („ortopadimekaniker“),
-
-  - táto príprava trvá dvanásť a pol roka vrátane štyriapolročnej odbornej prípravy rozdelenej na šesťmesačné teoretické štúdium zabezpečované vzdelávacím zariadením a trojročný praktický výcvik absolvovaný na pracovisku; táto príprava sa zakončí uznávanou remeselníckou skúškou, ktorou sa priznáva právo používať titul „Mester“,
-
-  - – ortopedický protetik („ortopædiskomager“),
-
-  - príprava trvá trinásť a pol roka vrátane štyriapolročnej odbornej prípravy rozdelenej na dvojročné teoretické štúdium zabezpečované vzdelávacím zariadením a dvaapolročný praktický výcvik absolvovaný na pracovisku; táto príprava sa zakončí uznávanou remeselníckou skúškou, ktorou sa priznáva právo používať titul „Mester“;
 
   - v Nemecku:
 
@@ -1050,7 +1058,47 @@ Príloha č. 3 k zákonu č. 293/2007 Z. z. v znení zákona č. 560/2008 Z. z.
 
   - – výpravca („dyżurny ruchu“),
 
-  - ktorá predstavuje osem rokov základného vzdelávania a štyri roky stredoškolského odborného vzdelávania so špecializáciou na železničnú dopravu, ako aj kurz prípravy na prácu výpravcu v trvaní 45 dní a úspešné vykonanie kvalifikačnej skúšky, alebo ktorá predstavuje osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania so špecializáciou na železničnú dopravu, ako aj kurz prípravy na prácu výpravcu v trvaní 63 dní a úspešné vykonanie kvalifikačnej skúšky;
+  - ktorá predstavuje:
+
+  - i)
+
+  - osem rokov základného vzdelávania a štyri roky stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu výpravcu v trvaní 45 dní a úspešné vykonanie kvalifikačnej skúšky,
+
+  - ii)
+
+  - osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu výpravcu v trvaní 63 dní a úspešné vykonanie kvalifikačnej skúšky,
+
+  - iii)
+
+  - osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu výpravcu v trvaní 29 dní, skúšobnú prípravnú dobu v trvaní piatich dní pod dohľadom a úspešné vykonanie kvalifikačnej skúšky alebo
+
+  - iv)
+
+  - šesť rokov základného vzdelávania, tri roky nižšej strednej školy, tri roky stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu výpravcu v trvaní 29 dní, skúšobnú prípravnú dobu v trvaní piatich dní pod dohľadom a úspešné vykonanie kvalifikačnej skúšky,
+
+  - – vlakvedúci („kierownik pociągu“),
+
+  - ktorá predstavuje:
+
+  - i)
+
+  - osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu vlakvedúceho v trvaní 22 dní, skúšobnú prípravnú dobu v trvaní troch dní pod dohľadom a úspešné vykonanie kvalifikačnej skúšky alebo
+
+  - ii)
+
+  - šesť rokov základného vzdelávania, tri roky nižšej strednej školy, tri roky stredoškolského odborného vzdelávania v špecializácii železničná doprava, ako aj kurz prípravy na prácu vlakvedúceho v trvaní 22 dní, skúšobnú prípravnú dobu v trvaní troch dní pod dohľadom a úspešné vykonanie kvalifikačnej skúšky,
+
+  - – lodný mechanik vnútrozemskej plavby („mechanik statkowy żeglugi śródlądowej“),
+
+  - ktorá predstavuje:
+
+  - i)
+
+  - osem rokov základného vzdelávania a päť rokov stredoškolského odborného vzdelávania v špecializácii lodná mechanika vnútrozemskej plavby, ako aj pracovnú skúsenosť v trvaní 24 mesiacov, ktorá zahŕňa aspoň 18 mesačnú prax s obsluhou mechanického pohonu a pomocných systémov na vnútrozemských plavidlách a prípadne šesťmesačnú prax s opravou spaľovacích motorov na lodeniciach alebo v servisných dielňach a úspešné vykonanie kvalifikačnej skúšky alebo
+
+  - ii)
+
+  - šesť rokov základného vzdelávania, tri roky nižšej strednej školy, štyri roky stredoškolského odborného vzdelávania v špecializácii lodná mechanika vnútrozemskej plavby, ako aj pracovnú skúsenosť v trvaní 24 mesiacov, ktorá zahŕňa aspoň 18 mesačnú prax s obsluhou mechanického pohonu a pomocných systémov na vnútrozemských plavidlách alebo šesťmesačnú prax s opravou spaľovacích motorov na lodeniciach alebo v servisných dielňach a úspešné vykonanie kvalifikačnej skúšky.
 
   - v Lichtenštajnsku
 
@@ -1083,16 +1131,6 @@ Príloha č. 3 k zákonu č. 293/2007 Z. z. v znení zákona č. 560/2008 Z. z.
   - – úradník zaoberajúci sa platobnou neschopnosťou („insolvency practicioner“),
 
   - – oprávnená osoba vykonávajúca majetkové prevody („licensed conveyancer“),
-
-  - – prvý lodník - nákladné/osobné lode - neobmedzene („first mate - freight/passenger ships - unrestricted“),
-
-  - – druhý lodník - nákladné/osobné lode - neobmedzene („second mate - freight/passenger ships - unrestricted“),
-
-  - – tretí lodník - nákladné/osobné lode neobmedzene („third mate - freight/passenger ships unrestricted“),
-
-  - – palubný dôstojník - nákladné/osobné lode - neobmedzene („deck officer - freight/passenger ships - unrestricted“),
-
-  - – dôstojník inžinier - nákladné/osobné lode - neobmedzená oblasť obchodovania („engineer officer - freight/passenger ships - unlimited trading area“),
 
   - – autorizovaná technicky spôsobilá osoba v odpadovom hospodárstvo („certified technically competent person in waste management“),
 
