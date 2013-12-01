@@ -186,6 +186,8 @@
 
 - 53a) § 4 zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
 
+- 53b) § 44 ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 365/2013 Z. z.
+
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 1) § 80 ods. 5 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
