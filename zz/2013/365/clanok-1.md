@@ -1,0 +1,5 @@
+# Čl. I
+
+Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 720/2004 Z. z., zákona č. 347/2005 Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 342/2006 Z. z., zákona č. 522/2006 Z. z., zákona č. 661/2007 Z. z., zákona č. 81/2009 Z. z., zákona č. 402/2009 Z. z., zákona č. 34/2011 Z. z., zákona č. 363/2011 Z. z., zákona č. 41/2013 Z. z. a zákona č. 220/2013 Z. z. sa mení a dopĺňa takto:
+
+- V § 44 ods. 2 prvá veta znie: „Poskytovateľ môže požadovať úhradu za prednostné poskytnutie ambulantnej starostlivosti len v rámci na to vyhradených ordinačných hodín, ktoré musí schváliť samosprávny kraj a ktoré nesmú presiahnuť jednu štvrtinu jeho ordinačných hodín; medzi ordinačnými hodinami vyhradenými na prednostné poskytnutie zdravotnej starostlivosti musia byť vyhradené minimálne dve hodiny na poskytovanie zdravotnej starostlivosti.“.
