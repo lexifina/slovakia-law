@@ -1,0 +1,3 @@
+# § 24e Prechodné ustanovenia
+
+Pozemky, ktoré nie sú vo vlastníctve štátu a v správe Slovenskej správy ciest alebo ministerstva, vo vlastníctve Národnej diaľničnej spoločnosti, samosprávneho kraja alebo obce z dôvodu, že dosiaľ nedošlo k ich majetkovoprávnemu vysporiadaniu a nachádzajú sa pod diaľnicami, cestami alebo miestnymi komunikáciami v užívaní, možno vo verejnom záujme vyvlastniť. Vyvlastňovacie konanie sa začína na návrh príslušného vlastníka diaľnice, cesty alebo miestnej komunikácie podľa § 3d, pričom návrh na vyvlastnenie práv k takýmto pozemkom môže podať najneskôr 31. decembra 2020.
