@@ -34,6 +34,8 @@
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 13a) § 16 zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. v znení neskorších predpisov.
+
 - 14) Zákon Slovenskej národnej rady č. 71/1992 Zb. v znení neskorších predpisov.
 
 - 15) Zákon č. 171/2005 Z. z. v znení neskorších predpisov.
