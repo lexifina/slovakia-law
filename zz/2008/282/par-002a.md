@@ -1,0 +1,3 @@
+# § 2a Bezúhonnosť
+
+Za bezúhonného sa na účely tohto zákona nepovažuje ten, kto bol právoplatne odsúdený za úmyselný trestný čin, ak sa na neho nehľadí, ako keby nebol odsúdený. Bezúhonnosť sa preukazuje zamestnávateľovi pred vznikom pracovnoprávneho vzťahu výpisom z registra<sup>3</sup>) trestov nie starším ako tri mesiace. Ak príslušné orgány členských štátov Európskej únie alebo príslušné orgány štátov, ktoré nie sú členskými štátmi Európskej únie (ďalej len „tretí štát“), taký doklad nevydávajú, výpis z registra trestov sa nahrádza obdobným dokladom vydaným príslušným orgánom nie starším ako tri mesiace. Podmienka bezúhonnosti musí byť splnená po celý čas výkonu špecializovanej činnosti v oblasti práce s mládežou.
