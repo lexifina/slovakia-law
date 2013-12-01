@@ -1,1 +1,1 @@
-Príloha č. 12 k vyhláške č. 25/2004 Z. z. [Vzor 12 - Návrh na zápis zmeny zapísaných údajov o družstve do obchodného registra](../assets/78fd9d0662a954759643651496537642ec3e74bb3e1c55d7d545abd51c903b54.pdf)
+Príloha č. 12 k vyhláške č. 25/2004 Z. z. [Vzor 12 - Návrh na zápis zmeny zapísaných údajov o družstve do obchodného registra](../assets/4e8c25d617818bd67c2acb44293cf17e8e346c6a167888dd6ed0a602f41ccfbd.pdf)
