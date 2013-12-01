@@ -1,3 +1,5 @@
 # § 15a Evidencia poplatkov
 
-Správne orgány sú povinné viesť evidenciu o vykonaných spoplatňovaných úkonoch a konaniach, o príslušných sumách vybraných poplatkov za tieto úkony a konania.
+(1) Ministerstvo financií Slovenskej republiky vedie centrálnu evidenciu poplatkov, ktoré sú príjmom štátneho rozpočtu, prostredníctvom prevádzkovateľa systému.
+
+(2) Správne orgány, ktoré nie sú zapojené do centrálneho systému evidencie poplatkov, sú povinné viesť priebežnú evidenciu o vykonaných spoplatňovaných úkonoch a konaniach, ich počte, o príslušných sadzbách poplatkov a sumách vybraných poplatkov za tieto úkony a konania.

@@ -52,6 +52,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - XXIII. | Ochrana osobných údajov | 273
 
+- XXIV. | Výkon verejnej moci elektronicky | 274
+
   - SADZOBNÍK SPRÁVNYCH POPLATKOV
 
   - I. ČASŤ VŠEOBECNÁ SPRÁVA
@@ -5087,3 +5089,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - b) | Osobitná registrácia informačného systému alebo jej zmena ..... | 50,- eur
 
   - Poznámka: Poplatky podľa tejto položky vyberá Úrad na ochranu osobných údajov Slovenskej republiky. | |
+
+  - XXIV. ČASŤ VÝKON VEREJNEJ MOCI ELEKTRONICKY
+
+    - Položka 274
+
+  - a) Zrušenie deaktivácie elektronickej schránky ................... | 10 eur
+
+  - b) Druhé a ďalšie vydanie alternatívneho autentifikátora ............. | 20 eur
