@@ -14,6 +14,6 @@
 
 (7) Ak daňovník podal dodatočné priznanie na zdaňovacie obdobie, na ktoré už podal priznanie k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich a čiastkové priznanie k týmto daniam alebo niektorej z nich, a daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje ešte neboli vyrubené na základe podaného priznania k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich a čiastkového priznania k týmto daniam alebo niektorej z nich na zdaňovacie obdobie, správca dane vyrubí daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje alebo niektorú z nich s prihliadnutím na dodatočné priznanie.
 
-(8) Včas podané odvolanie proti rozhodnutiu podľa odseku 1 má odkladný účinok v tej časti výroku, ktorá bola odvolaním napadnutá; právoplatnosť ostatných výrokov nie je dotknutá.
+(8) Včas podané odvolanie proti rozhodnutiu podľa odseku 1 má odkladný účinok v tej časti výroku rozhodnutia, ktorá bola odvolaním napadnutá. Ak je podaný opravný prostriedok, napadnutá časť výroku rozhodnutia sa vylúči na samostatné konanie, na ktoré sa uplatní postup podľa osobitného predpisu<sup>47</sup>) primerane. Právoplatnosť rozhodnutia v ostatných častiach výroku nie je dotknutá.
 
-(9) Správca dane môže vo všeobecne záväznom nariadení<sup>11</sup>) určiť sumu dane, ktorú nebude vyrubovať podľa tohto ustanovenia, najviac v úhrne do sumy troch eur.
+(9) Správca dane môže vo všeobecne záväznom nariadení<sup>11</sup>) určiť sumu dane, ktorú nebude vyrubovať podľa tohto ustanovenia, najviac v úhrne do sumy piatich eur.

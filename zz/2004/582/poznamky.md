@@ -34,6 +34,8 @@
 
 - 11c) § 16 ods. 4 a 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
+- 11ca) § 16 ods. 3 zákona č. 245/2008 Z. z. v znení zákona č. 324/2012 Z. z.
+
 - 11d) § 7 ods. 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) § 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
