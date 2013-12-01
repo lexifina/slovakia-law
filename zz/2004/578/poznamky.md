@@ -196,6 +196,8 @@
 
 - 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
+- 55ba) § 44 ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 365/2013 Z. z.
+
 - 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
