@@ -4,6 +4,10 @@
 
 - 1a) § 44 a 50 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
+- 1b) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1c) § 34 zákona č. 757/2004 Z. z.
+
 - 2) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 2) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
@@ -62,6 +66,12 @@
 
 - Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
 
+- 5ab) § 45 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+- 5ac) § 7 zákona č. 305/2013 Z. z.
+
+- 5ad) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 5b) Napríklad § 115a Občianskeho súdneho poriadku.
 
 - 6) § 250l Občianskeho súdneho poriadku.
@@ -70,13 +80,21 @@
 
 - 7) § 67 ods. 1 písm. c) zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
 
-- 7a) § 2 písm. j) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
-
 - 7b) § 6 ods. 1 písm. f) zákona č. 530/2003 Z. z.
 
 - 7c) § 8 ods. 3 až 5 zákona č. 530/2003 Z. z.
 
 - 7d) § 5b až 5d zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
+
+- 7e) § 43 ods. 8 a 9 a § 44 ods. 8 a 9 zákona č. 305/2013 Z. z.
+
+- 7f) § 3 písm. c) zákona č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+
+- 7g) Čl. 106 Zmluvy o fungovaní Európskej únie.
+
+- Rozhodnutie Komisie (EÚ) č. 2012/21/EÚ z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu (Ú. v. EÚ L 7, 11. 1. 2012).
+
+- 7h) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 8) § 3 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
