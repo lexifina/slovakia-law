@@ -86,6 +86,8 @@
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
+- 4a) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 5) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie v znení neskorších predpisov.
 
 - 6) Napríklad zákon č. 169/1949 Zb. o vojenských obvodoch, zákon č. 61/1977 Zb. o lesoch v znení zákona č. 229/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. (úplné znenie č. 14/1994 Z. z.).
@@ -94,7 +96,9 @@
 
 - 6b) § 140a a § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
-- 6c) § 8 zákona Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+- 6c) § 111 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 6d) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
 
 - 7) Napríklad zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb., zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
