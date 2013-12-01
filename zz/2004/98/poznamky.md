@@ -80,6 +80,8 @@
 
 - 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
+- 14a) Napríklad zákon č. 218/2013 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
+
 - 15) Zákon Národnej rady Slovenskej republiky č. 82/1994 Z. z. o štátnych hmotných rezervách v znení neskorších predpisov.
 
 - 16) § 19 zákona č. 431/2002 Z. z. o účtovníctve.
