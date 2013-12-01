@@ -2,9 +2,13 @@
 
 - 2) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
-- 3) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+- 3) § 15 ods. 2 zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení zákona č. 347/2013 Z. z.
 
-- Zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
+- § 14a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- § 15 ods. 4 zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 347/2013 Z. z.
+
+- § 10 ods. 2 zákona č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov v znení zákona č. 381/2011 Z. z.
 
 - 4) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
