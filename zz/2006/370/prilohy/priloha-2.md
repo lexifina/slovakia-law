@@ -9,3 +9,5 @@ Príloha č. 2 k nariadeniu vlády č. 370/2006 Z. z.
   - 3. Smernica Komisie 2010/26/EÚ z 31. marca 2010, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 97/68/ES o aproximácii právnych predpisov členských štátov, ktoré sa týkajú opatrení voči emisiám plynných a tuhých znečisťujúcich látok zo spaľovacích motorov inštalovaných v necestných pojazdných strojoch. (Ú. v. EÚ L 86, 1. 4. 2010).
 
   - 4. Smernica Európskeho parlamentu a Rady 2011/88/EÚ zo 16. novembra 2011, ktorou sa mení a dopĺňa smernica 97/68/ES, pokiaľ ide o ustanovenia pre motory uvádzané na trh podľa pružného systému (Ú. v. EÚ L 305, 23. 11. 2011).
+
+  - 5. Smernica Komisie 2012/46/EÚ zo 6. decembra 2012, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 97/68/ES o aproximácii právnych predpisov členských štátov, ktoré sa týkajú opatrení voči emisiám plynných a tuhých znečisťujúcich látok zo spaľovacích motorov inštalovaných v necestných pojazdných strojoch (Ú. v. EÚ L 353, 21. 12. 2012).
