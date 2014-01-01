@@ -19,3 +19,11 @@ Príloha č. 4 k zákonu č. 5/2004 Z. z.
   - 8. Smernica Rady 2009/50/ES z 25. mája 2009 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely vysokokvalifikovaného zamestnania (Ú. v. EÚ L 155, 18. 6. 2009).
 
   - 9. Smernica Európskeho parlamentu a Rady 2009/52/ES z 18. júna 2009, ktorou sa stanovujú minimálne normy pre sankcie a opatrenia voči zamestnávateľom štátnych príslušníkov tretích krajín, ktorí sa neoprávnene zdržiavajú na území členských štátov (Ú. v. EÚ L 168, 30. 6. 2009).
+
+  - 10. Smernica Rady 2003/109/ES z 25. novembra 2003 o právnom postavení štátnych príslušníkov tretích krajín, ktoré sú osobami s dlhodobým pobytom (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 6; Ú. v. EÚ L 16, 23. 1. 2004) v znení smernice Európskeho parlamentu a Rady 2011/51/EÚ z 11. mája 2011 (Ú. v. EÚ L 132, 19. 5. 2011).
+
+  - 11. Smernica Európskeho parlamentu a Rady 2004/38/ES z 29. apríla 2004 o práve občanov Únie a ich rodinných príslušníkov voľne sa pohybovať a zdržiavať sa v rámci územia členských štátov, ktorá mení a dopĺňa nariadenie (EHS) 1612/68 a ruší smernice 64/221/EHS, 68/360/EHS, 72/194/EHS, 73/148/EHS, 75/34/EHS, 75/35/EHS, 90/364/EHS, 90/365/EHS a 93/96/EHS (Mimoriadne vydanie Ú. v. EÚ kap. 5/zv. 5; Ú. v. EÚ L 158, 30. 4. 2004) v znení nariadenia Európskeho parlamentu a Rady (EÚ) č. 492/2011 z 5. apríla 2011 o slobode pohybu pracovníkov v rámci Únie (Ú. v. EÚ L 141, 27. 5. 2011).
+
+  - 12. Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).
+
+  - 13. Smernica Európskeho parlamentu a Rady 2011/98/EÚ z 13. decembra 2011 o jednotnom postupe vybavovania žiadostí o jednotné povolenie na pobyt a zamestnanie na území členského štátu pre štátnych príslušníkov tretích krajín a o spoločnom súbore práv pracovníkov z tretích krajín s oprávneným pobytom v členskom štáte (Ú. v. EÚ L 343, 23. 12. 2011).

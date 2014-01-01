@@ -8,7 +8,7 @@
 
 (4) Príspevok sa poskytuje najviac počas 12 mesiacov. Príspevok sa poskytuje za dni, v ktorých bola zamestnancovi poskytnutá náhrada mzdy, v úhrne najviac za 60 dní, ak bola dohoda o poskytnutí príspevku uzatvorená na obdobie 12 mesiacov. Ak bola dohoda o poskytnutí príspevku uzatvorená na kratšie obdobie ako 12 mesiacov, úhrn počtu dní, za ktoré sa poskytne príspevok, sa pomerne kráti.
 
-(5) Zamestnávateľ nemôže zamestnanca, na ktorého sa poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
+(5) Zamestnávateľ nemôže zamestnanca, na ktorého sa poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>22e</sup>)
 
 (6) Dohoda o poskytnutí príspevku podľa odseku 3 obsahuje
 

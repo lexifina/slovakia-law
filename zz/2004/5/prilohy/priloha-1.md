@@ -168,6 +168,10 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 11. bankové spojenie,
 
+      - 12. dosiahnutý stupeň vzdelania,
+
+      - 13. výška mesačnej mzdy,
+
     - b) údaje o zamestnávateľovi, mieste a druhu vykonávanej práce, a to
 
       - 1. názov a sídlo, identifikačné číslo zamestnávateľa,
@@ -183,6 +187,8 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
       - 6. obdobie, počas ktorého by sa malo zamestnávanie vykonávať,
 
       - 7. obdobie, počas ktorého zamestnanie skutočne trvalo,
+
+      - 8. kontaktné údaje (telefónne číslo, e-mail).
 
   - E. Sociálna poisťovňa poskytuje podľa § 67 ods. 6 ústrediu
 

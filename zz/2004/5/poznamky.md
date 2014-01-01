@@ -6,8 +6,6 @@
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
-- 3a) Nariadenie Rady (EHS) č. 1612/68 z 15. októbra 1968 o slobode pohybu pracovníkov v rámci spoločenstva (Ú. v. ES L 257/2, 19. 10. 1968) v platnom znení.
-
 - 4) Obchodný zákonník.
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
@@ -50,7 +48,7 @@
 
 - Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 18) § 30 ods. 3 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
+- 18) § 37 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 495/2013 Z. z.
 
 - 18a) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
@@ -82,41 +80,81 @@
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 22b) § 20 ods. 3 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 22a) § 37 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 22c) § 30 zákona č. 48/2002 Z. z. v znení zákona č. 223/2011 Z. z.
+- 22b) § 23 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 22d) § 23 ods. 6 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+- 22c) § 23 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 22e) § 31 ods. 5 a 6 zákona č. 48/2002 Z. z. v znení zákona č. 223/2011 Z. z.
+- 22ca) § 23 ods. 5 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 22f) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
+- 22d) § 27 zákona č. 404/2011 Z. z.
 
-- 24a) § 23 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 22da) § 30 ods. 4 zákona č. 404/2011 Z. z.
 
-- 24aa) § 38 ods. 1 písm. b) prvý bod zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 22e) § 58 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- 24b) § 22 ods. 2 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
+- 22f) § 38 ods. 5 písm. a) a ods. 6 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 25) § 2 zákona č. 70/1997 Z. z. o zahraničných Slovákoch a o zmene a doplnení niektorých zákonov.
+- 22g) § 106 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27) § 2 písm. e) zákona č. 480/2002 Z. z.
+- § 2 písm. a) a § 24 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 81/2013 Z. z.
 
-- 27a) § 59 ods. 4 a 6 zákona č. 404/2011 Z. z.
+- 22h) § 38 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 27b) § 58 ods. 2 písm. b) zákona č. 404/2011 Z. z.
+- 22i) § 31 a 32 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 27c) § 58 ods. 3 zákona č. 404/2011 Z. z.
+- 22j) § 6 až 14 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
+
+- 22k) § 31 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 75/2012 Z. z.
+
+- 22l) Dohovor o zrušení požiadavky vyššieho overenia zahraničných verejných listín (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 213/2002 Z. z.).
+
+- 23) § 73 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 23a) § 30 zákona č. 404/2011 Z. z.
+
+- 24) § 24 zákona č. 404/2011 Z. z.
+
+- 24a) § 26 zákona č. 404/2011 Z. z.
+
+- 24b) § 26b zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 233/2008 Z. z.
+
+- 24c) § 29 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
+
+- 25) § 23 ods. 6 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 26) § 2 písm. j) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- 27) Napríklad oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 171/2011 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Kanadou o mobilite mladých, oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 159/2012 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Novým Zélandom o programe pracovnej dovolenky.
 
 - 28) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
 
-- 29) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
+- 28a) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
+- Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
-- 30) Zákon č. 311/2001 Z. z. v znení neskorších predpisov.
+- Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
+- 28b) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 28c) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 219/2013 Z. z.
+
+- 28d) § 58 ods. 2 písm. c) a § 59 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
+
+- 28e) § 58 ods. 2 písm. b) zákona č. 404/2011 Z. z.
+
+- 28f) § 58 ods. 3 zákona č. 404/2011 Z. z.
+
+- 28g) § 15 zákona č. 404/2011 Z. z.
+
+- 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
+
+- 30) Napríklad zákon č. 311/2001 Z. z. v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 30a) Čl. 1 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 492/2011 z 5. apríla 2011 o slobode pohybu pracovníkov v rámci Únie (Ú. v. EÚ L 141, 27. 5. 2011).
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
@@ -128,13 +166,13 @@
 
 - 34) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
 
-- 35) § 58 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
-
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 35b) § 58a zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 35c) § 48 ods. 4 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 36) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
@@ -155,8 +193,6 @@
 - 45) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45a) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
-
-- 45b) Napríklad zákon č. 311/2001 Z. z. v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45c) § 8 ods. 3 písm. a) zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov.
 
@@ -182,11 +218,9 @@
 
 - 58) Nariadenie (ES) č. 1998/2006.
 
-- 59ab) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov.
-
 - 59aba) Nariadenie (ES) č. 800/2008.
 
-- § 10 ods. 4 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
+- Zákon č. 561/2007 Z. z. v znení neskorších predpisov.
 
 - 59abb) § 5 a 6 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
 

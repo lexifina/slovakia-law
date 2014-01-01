@@ -14,7 +14,7 @@
 
 (5) Príspevok sa poskytuje na základe písomnej dohody o poskytnutí príspevku uzatvorenej medzi úradom a zamestnávateľom. Príspevok poskytuje zamestnávateľovi úrad, v ktorého územnom obvode zamestnávateľ vytvorí pracovné miesto.
 
-(6) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>35</sup>)
+(6) Zamestnávateľ nemôže zamestnanca, na ktorého zamestnávanie sa mu poskytuje príspevok, dočasne prideliť na výkon práce k užívateľskému zamestnávateľovi.<sup>22e</sup>)
 
 (7) Dohoda o poskytnutí príspevku podľa odseku 5 obsahuje
 

@@ -1,9 +1,19 @@
-# § 21a Potvrdenie o možnosti obsadenia pracovného miesta
+# § 21a Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu
 
-(1) Štátny príslušník tretej krajiny podáva písomnú žiadosť o vydanie potvrdenia o možnosti obsadenia pracovného miesta ústrediu; túto žiadosť môže podať aj budúci zamestnávateľ.
+(1) Ústredie vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas alebo nesúhlas s jeho obsadením, na žiadosť útvaru Policajného zboru do piatich pracovných dní odo dňa doručenia žiadosti.
 
-(2) Súčasťou žiadosti o vydanie potvrdenia o možnosti obsadenia pracovného miesta je pracovná zmluva na výkon zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, alebo písomný prísľub zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu podľa osobitného predpisu,<sup>22e</sup>) a doklad potvrdzujúci vyššiu odbornú kvalifikáciu.<sup>22f</sup>)
+(2) Žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa podáva na tlačive, ktorého vzor určí ústredie. Prílohou k žiadosti je kópia
 
-(3) Potvrdenie o možnosti obsadenia pracovného miesta môže ústredie vydať štátnemu príslušníkovi tretej krajiny, ak voľné pracovné miesto nie je možné obsadiť uchádzačom o zamestnanie vedeným v evidencii uchádzačov o zamestnanie príslušného úradu; príslušným úradom je úrad, v ktorého územnom obvode má štátny príslušník tretej krajiny vykonávať zamestnanie.
+- a) pracovnej zmluvy na výkon zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, alebo písomného prísľubu zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, podľa osobitného predpisu,<sup>22f</sup>)
 
-(4) Súčasťou potvrdenia o možnosti obsadenia pracovného miesta je aj potvrdenie o tom, či doklad potvrdzujúci vyššiu odbornú kvalifikáciu zodpovedá požiadavkám na výkon vysokokvalifikovaného zamestnania uvedeného v pracovnej zmluve alebo v prísľube zamestnávateľa.
+- b) rozhodnutia o uznaní dokladu o vzdelaní štátneho príslušníka tretej krajiny podľa osobitného predpisu,<sup>22g</sup>)
+
+- c) časti žiadosti o vydanie modrej karty,<sup>22h</sup>) v ktorej sú osobné údaje štátneho príslušníka tretej krajiny.
+
+(3) Ústredie vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas s jeho obsadením, ak voľné pracovné miesto nie je možné obsadiť uchádzačom o zamestnanie vedeným v evidencii uchádzačov o zamestnanie a ak doklad podľa odseku 2 písm. b) zodpovedá požiadavkám na výkon vysokokvalifikovaného zamestnania uvedeného v pracovnej zmluve alebo v prísľube zamestnávateľa. Pri vydávaní potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ústredie prihliada na situáciu na trhu práce.
+
+(4) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na tri roky.
+
+(5) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa vydáva na tlačive, ktorého vzor určí ústredie.
+
+(6) Ústredie môže zrušiť potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ak bolo kontrolnou činnosťou podľa § 68 zistené porušenie všeobecne záväzných právnych predpisov, pričom prihliada na závažnosť zistených nedostatkov a závažnosť ich následkov a opakované zistenie toho istého nedostatku.
