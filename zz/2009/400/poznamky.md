@@ -114,6 +114,8 @@
 
 - 49) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
+- § 4 ods. 4 zákona č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
 - 50) Zákon č. 152/1998 Z. z. o sťažnostiach v znení zákona č. 164/2008 Z. z.
 
 - 51) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko.
@@ -157,3 +159,5 @@
 - 69) Napríklad § 8 ods. 2 zákona č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov, zákon č. 650/2004 Z. z.o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 70) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+- 71) Nariadenie vlády Slovenskej republiky č. 550/2009 Z. z., ktorým sa ustanovujú zvýšené platové tarify štátnych zamestnancov.
