@@ -26,7 +26,7 @@
 
 - 13) § 6 zákona č. 618/2003 Z. z.
 
-- 14) § 20 ods. 5 a 6 zákona č. 308/2000 Z. z. v znení zákona č. 343/2007 Z. z.
+- 14) § 20 ods. 3 až 5 zákona č. 308/2000 Z. z. v znení zákona č. 373/2013 Z. z.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
