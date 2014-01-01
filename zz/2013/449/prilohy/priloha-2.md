@@ -1,0 +1,3 @@
+Príloha č. 2 k opatreniu č. 449/2013 Z. z.
+
+- VZOR ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA OBSTARANIE TECHNICKEJ VYBAVENOSTI [príloha 02](../assets/0cf6984db6db337de8f9fa991e1e885f4d18b5f07fc94e8bfb987012f335aac2.pdf)
