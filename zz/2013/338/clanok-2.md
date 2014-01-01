@@ -22,6 +22,8 @@ Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnost
 
 - § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení zákona č. 338/2013 Z. z.“.
 
+- 2. V § 4 sa za slová „vymeriavací základ podľa osobitného predpisu<sup>5</sup>)“ vkladajú slová „okrem príjmu, ktorý sa poskytuje z iného dôvodu než za vykonanú prácu,“.
+
 - 3. V § 8 ods. 4 až 6 celom texte sa za slovo „zamestnanca“ vkladajú slová „podľa § 2 ods. 1 písm. a)“.
 
 - 4. V § 8 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
