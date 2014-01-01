@@ -22,4 +22,4 @@
 
 - b) doklad o tom, že plavidlo vykonalo v priebehu 24 mesiacov pred podaním žiadosti najmenej 10 plavieb na účel prepravy nákladu na vzdialenosť viac ako 50 km pri nákladovej kapacite aspoň 70 %.
 
-(7) Ak má ministerstvo pochybnosti o technickej a prevádzkovej spôsobilosti plavidla, vyzve žiadateľa na predloženie zápisu z overenia prevádzkovej spôsobilosti plavidla vydaný Štátnou plavebnou správou v lehote do 10 dní.
+(7) Ak má ministerstvo pochybnosti o technickej a prevádzkovej spôsobilosti plavidla, vyzve žiadateľa na predloženie zápisu z overenia prevádzkovej spôsobilosti plavidla vydaný Dopravným úradom v lehote do 10 dní.

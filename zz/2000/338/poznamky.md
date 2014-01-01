@@ -126,6 +126,8 @@
 
 - 20) § 89 ods. 13 Trestného zákona.
 
+- 21) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
 - 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 22) § 3 písm. c) zákona Slovenskej národnej rady č. 51/1988 Zb.

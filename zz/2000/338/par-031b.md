@@ -1,6 +1,6 @@
 # § 31b Služobná lodnícka knižka
 
-(1) Služobná lodnícka knižka je doklad, ktorým sa preukazuje totožnosť člena posádky plavidla, jeho odborná spôsobilosť, funkčné zaradenie na plavidle, zdravotná spôsobilosť a vykonaná plavebná prax na plavidle. Vydáva ju Štátna plavebná správa na základe žiadosti člena posádky plavidla, ktorý je občanom Slovenskej republiky alebo občanom iného členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore.
+(1) Služobná lodnícka knižka je doklad, ktorým sa preukazuje totožnosť člena posádky plavidla, jeho odborná spôsobilosť, funkčné zaradenie na plavidle, zdravotná spôsobilosť a vykonaná plavebná prax na plavidle. Vydáva ju Dopravný úrad na základe žiadosti člena posádky plavidla, ktorý je občanom Slovenskej republiky alebo občanom iného členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore.
 
 (2) Žiadosť o vydanie služobnej lodníckej knižky obsahuje
 
@@ -20,7 +20,7 @@
 
 (4) K žiadosti podľa odsekov 2 a 3 sa prikladá farebná fotografia žiadateľa s rozmermi 3 x 3,5 cm.
 
-(5) Do služobnej lodníckej knižky Štátna plavebná správa na základe predložených dokladov zapisuje a potvrdzuje úradným podpisom a odtlačkom pečiatky tieto údaje:
+(5) Do služobnej lodníckej knižky Dopravný úrad na základe predložených dokladov zapisuje a potvrdzuje úradným podpisom a odtlačkom pečiatky tieto údaje:
 
 - a) meno a priezvisko člena posádky plavidla,
 
@@ -56,6 +56,6 @@
 
 - f) preplávané úseky vodných ciest.
 
-(9) Člen posádky plavidla musí požiadať o potvrdenie pravdivosti zapísaných záznamov podľa odseku 8 písm. f) najmenej raz ročne Štátnu plavebnú správu, príslušný orgán iného členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore.
+(9) Člen posádky plavidla musí požiadať o potvrdenie pravdivosti zapísaných záznamov podľa odseku 8 písm. f) najmenej raz ročne Dopravný úrad, príslušný orgán iného členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore.
 
 (10) Služobnú lodnícku knižku vydanú príslušnými orgánmi cudzích štátov možno uznať len na základe podmienok vzájomného uznávania.

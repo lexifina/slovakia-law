@@ -2,9 +2,9 @@
 
 (1) Ministerstvo uloží pokutu od 165 eur do 1 670 eur dopravcovi, ak poruší oznamovaciu povinnosť podľa § 21a ods. 4.
 
-(2) Štátna plavebná správa môže členovi posádky plavidla, ktorý je cudzincom, uložiť na území Slovenskej republiky zákaz činnosti, na ktorú je odborne spôsobilý, rozhodnutím v správnom konaní na dobu jedného roka, ak porušil povinnosti vyplývajúce z tohto zákona alebo ak tieto povinnosti hrubo a opakovane porušuje.
+(2) Dopravný úrad môže členovi posádky plavidla, ktorý je cudzincom, uložiť na území Slovenskej republiky zákaz činnosti, na ktorú je odborne spôsobilý, rozhodnutím v správnom konaní na dobu jedného roka, ak porušil povinnosti vyplývajúce z tohto zákona alebo ak tieto povinnosti hrubo a opakovane porušuje.
 
-(3) Štátna plavebná správa uloží pokutu od 330 eur do 6 635 eur
+(3) Dopravný úrad uloží pokutu od 330 eur do 6 635 eur
 
 - a) prevádzkovateľovi plavidla, ak porušil povinnosti ustanovené v tomto zákone (§ 22 a 23, § 24 ods. 8 a § 26 až 28),
 
@@ -12,39 +12,39 @@
 
 - c) prevádzkovateľovi verejného prístavu alebo užívateľovi verejného prístavu, ak porušil povinnosti pri prevádzke a používaní prístavov (§ 5),
 
-- d) správcovi vodného toku, ak porušil povinnosti týkajúce sa udržiavania a zlepšovania podmienok na prevádzku plavidiel na sledovaných vodných cestách alebo ak neuposlúchol pokyn Štátnej plavebnej správy týkajúci sa vytýčenia plavebnej dráhy, vyznačenia plavebných prekážok na vodných cestách alebo ich odstránenia (§ 3 ods. 2),
+- d) správcovi vodného toku, ak porušil povinnosti týkajúce sa udržiavania a zlepšovania podmienok na prevádzku plavidiel na sledovaných vodných cestách alebo ak neuposlúchol pokyn Dopravného úradu týkajúci sa vytýčenia plavebnej dráhy, vyznačenia plavebných prekážok na vodných cestách alebo ich odstránenia (§ 3 ods. 2),
 
 - e) bezpečnostnému poradcovi, ktorý porušil povinnosti bezpečnostného poradcu ustanovené týmto zákonom,
 
 - f) osobe vykonávajúcej prepravu nebezpečného tovaru, ak neurčila bezpečnostného poradcu,
 
-- g) prevádzkovateľovi plávajúceho zariadenia, ktoré stojí na vodnej ceste alebo v prístave bez rozhodnutia Štátnej plavebnej správy o povolení státia,
+- g) prevádzkovateľovi plávajúceho zariadenia, ktoré stojí na vodnej ceste alebo v prístave bez rozhodnutia Dopravného úradu o povolení státia,
 
-- h) fyzickej osobe alebo právnickej osobe, ak nedodržiava podmienky prevádzky plavidiel na vodných cestách a vo verejných prístavoch určené Štátnou plavebnou správou,
+- h) fyzickej osobe alebo právnickej osobe, ak nedodržiava podmienky prevádzky plavidiel na vodných cestách a vo verejných prístavoch určené Dopravným úradom,
 
 - i) fyzickej osobe alebo právnickej osobe, ak prevádzkuje požičovňu plavidiel bez rozhodnutia o jej zriadení alebo nedodržiava podmienky stanovené v rozhodnutí alebo nedodržiava podmienky stanovené v rozhodnutí o povolení státia plávajúceho zariadenia na vodnej ceste alebo v prístave,
 
 - j) prevádzkovateľovi plavidla, ak porušil povinnosti týkajúce sa zápisu a zmeny údajov v registri plavidiel,
 
-- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Štátnej plavebnej správy ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky,
+- k) fyzickej osobe alebo právnickej osobe, ktorá svojou činnosťou, porušením tohto zákona alebo pravidiel bezpečnosti prevádzky plavidla na vodných cestách, plavebného opatrenia alebo pokynu Dopravného úradu ohrozila bezpečnosť alebo plynulosť plavebnej prevádzky,
 
 - l) osobe poverenej vykonávaním kvalifikačného kurzu, ktorá porušila povinnosti pri vykonávaní kvalifikačného kurzu alebo vykonáva kvalifikačný kurz v rozpore s týmto zákonom alebo súvisiacimi všeobecne záväznými právnymi predpismi,
 
-- m) osobe, ktorá vykonáva kvalifikačný kurz bez poverenia na vykonávanie kvalifikačného kurzu vydaného Štátnou plavebnou správou.
+- m) osobe, ktorá vykonáva kvalifikačný kurz bez poverenia na vykonávanie kvalifikačného kurzu vydaného Dopravným úradom,
 
-(4) Štátna plavebná správa uloží pokutu od 165 eur do 1 660 eur
+(4) Dopravný úrad uloží pokutu od 165 eur do 1 660 eur
 
-- a) správcovi vodného toku, vodcovi plavidla alebo Slovenskému hydrometeorologickému ústavu, ak neposkytne Štátnej plavebnej správe informácie podľa § 39b ods. 2,
+- a) správcovi vodného toku, vodcovi plavidla alebo Slovenskému hydrometeorologickému ústavu, ak neposkytne Dopravnému úradu informácie podľa § 39b ods. 2,
 
-- b) vodcovi plavidla, ak nepodá Štátnej plavebnej správe hlásenie z lode podľa § 39b ods. 3.
+- b) vodcovi plavidla, ak nepodá Dopravnému úradu hlásenie z lode podľa § 39b ods. 3,
 
 (5) Pri určení výšky pokuty sa prihliada najmä na závažnosť konania, na jeho následky, na dobu jeho trvania a na rozsah spôsobenej škody.
 
-(6) Pokutu možno uložiť do jedného roka odo dňa, keď sa Štátna plavebná správa dozvedela o tom, že právnická osoba alebo fyzická osoba porušila povinnosti podľa odsekov 2, 3 a 4, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu povinnosti.
+(6) Pokutu možno uložiť do jedného roka odo dňa, keď sa Dopravný úrad dozvedel o tom, že právnická osoba alebo fyzická osoba porušila povinnosti podľa odsekov 2, 3 a 4, najneskôr však do troch rokov odo dňa, keď došlo k porušeniu povinnosti.
 
 (7) Pokuty uložené podľa tohto zákona sú príjmom štátneho rozpočtu.
 
-(8) Štátna plavebná správa môže rozhodnutím odňať
+(8) Dopravný úrad môže rozhodnutím odňať
 
 - a) členovi posádky plavidla alebo vodcovi malého plavidla ňou vydaný preukaz o odbornej spôsobilosti zadržaný podľa § 39d ods. 5 písm. a) na určitý čas, najviac tri roky, a v prípade straty zdravotnej spôsobilosti natrvalo; vrátenie odňatého preukazu je podmienené preskúšaním jeho držiteľa,
 

@@ -1,6 +1,6 @@
 # § 39b
 
-(1) Na účely plavby a plánovania cesty na vodných cestách Štátna plavebná správa poskytuje užívateľom riečnych informačných služieb najmä tieto informácie:
+(1) Na účely plavby a plánovania cesty na vodných cestách Dopravný úrad poskytuje užívateľom riečnych informačných služieb najmä tieto informácie:
 
 - a) os vodnej cesty s určením kilometrovníka,
 
@@ -12,7 +12,7 @@
 
 - e) referenčné údaje z vodočetných staníc vzťahujúce sa na plavbu.
 
-(2) Štátnej plavebnej správe poskytuje informácie
+(2) Dopravnému úradu poskytuje informácie
 
 - a) podľa odseku 1 písm. a) až d) správca vodného toku,
 
@@ -20,7 +20,7 @@
 
 - c) o polohe plavidla, náklade na plavidle, mimoriadnych udalostiach na plavidle a na vodnej ceste vodca plavidla.
 
-(3) Vodca plavidla, ktoré nie je malým plavidlom, podáva Štátnej plavebnej správe hlásenia z lode, ktoré obsahujú údaje o plavidle v zostave, náklade, posádke a cestujúcich.
+(3) Vodca plavidla, ktoré nie je malým plavidlom, podáva Dopravnému úradu hlásenia z lode, ktoré obsahujú údaje o plavidle v zostave, náklade, posádke a cestujúcich.
 
 (4) Za správne a včasné poskytovanie informácií podľa odseku 2 zodpovedá ten, kto ich poskytuje.
 

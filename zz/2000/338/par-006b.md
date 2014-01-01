@@ -6,7 +6,7 @@
 
 (3) Dňom vzniku spoločnosti prechádzajú záväzky a pohľadávky štátneho podniku vrátane neznámych na spoločnosť.
 
-(4) Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov štátneho podniku prechádzajú zo štátneho podniku na spoločnosť dňom jej vzniku. Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov viažucich sa na činnosť vnútornej organizačnej jednotky Štátnej plavebnej správy prechádzajú na spoločnosť dňom jej vzniku.
+(4) Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov štátneho podniku prechádzajú zo štátneho podniku na spoločnosť dňom jej vzniku. Práva a povinnosti vyplývajúce z pracovnoprávnych vzťahov viažucich sa na činnosť vnútornej organizačnej jednotky Dopravného úradu prechádzajú na spoločnosť dňom jej vzniku.
 
 (5) Na prevod majetkovej účasti štátu na podnikaní spoločnosti sa vzťahuje osobitný predpis,<sup>3m</sup>) ak tento zákon neustanovuje inak.
 
