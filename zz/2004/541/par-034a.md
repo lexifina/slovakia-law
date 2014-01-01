@@ -8,7 +8,7 @@
 
 (4) Ročný príspevok za uvádzanie jadrového zariadenia do prevádzky a prevádzku jadrového zariadenia [§ 5 ods. 3 písm. b) a c)] podľa druhu jadrového zariadenia je
 
-- a) 383,38 eura za každý MWt nominálneho inštalovaného tepelného výkonu ustanoveného k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) prvého bodu; ak došlo k trvalému zníženiu nominálneho inštalovaného tepelného výkonu na nulovú úroveň a tento stav trvá k 1. januáru predchádzajúceho roka, nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon pred jeho trvalým znížením na nulovú úroveň,
+- a) 766,76 eura za každý MWt nominálneho inštalovaného tepelného výkonu ustanoveného k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) prvého bodu; ak došlo k trvalému zníženiu nominálneho inštalovaného tepelného výkonu na nulovú úroveň a tento stav trvá k 1. januáru predchádzajúceho roka, nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon pred jeho trvalým znížením na nulovú úroveň,
 
 - b) 36,51 eura za každý palivový článok skladovaný ku koncu predchádzajúceho roka pre jadrové zariadenie podľa § 2 písm. f) tretieho bodu,
 
@@ -18,21 +18,23 @@
 
 - e) 6,22 eura za každý TBq maximálnej projektovej aktivity skladovaných rádioaktívnych odpadov ustanovenej k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) štvrtého bodu.
 
-(5) Ročný príspevok za stavbu jadrového zariadenia [§ 5 ods. 3 písm. a)] podľa druhu jadrového zariadenia je vo výške podľa odseku 4 písm. a), b), c), d) alebo e), pričom
+(5) Ročný príspevok za stavbu jadrového zariadenia [§ 5 ods. 3 písm. a)] podľa druhu jadrového zariadenia je
 
-- a) pre jadrové zariadenie podľa § 2 písm. f) prvého bodu sa nominálnym inštalovaným tepelným výkonom rozumie projektovaný nominálny inštalovaný tepelný výkon,
+- a) pre jadrové zariadenie podľa § 2 písm. f) prvého bodu 1,5 násobok sumy príspevku podľa odseku 4 písm. a); nominálnym inštalovaným tepelným výkonom sa rozumie projektovaný nominálny inštalovaný tepelný výkon,
 
-- b) pre jadrové zariadenia podľa § 2 písm. f) tretieho a štvrtého bodu, okrem jadrového zariadenia podľa odseku 4 písm. e), sa stavom ku koncu predchádzajúceho roka rozumie predpokladaný stav k 31. decembru roka, v ktorom uplynie dvanásť mesiacov prevádzky jadrového zariadenia.
+- b) pre jadrové zariadenia podľa § 2 písm. f) tretieho bodu a štvrtého bodu, okrem jadrového zariadenia podľa odseku 4 písm. e), vo výške podľa odseku 4 písm. b) až d); stavom ku koncu predchádzajúceho roka sa rozumie predpokladaný stav k 31. decembru roka, v ktorom uplynie dvanásť mesiacov prevádzky jadrového zariadenia.
 
 (6) Ročný príspevok za etapu vyraďovania jadrového zariadenia [§ 5 ods. 3 písm. d)] podľa druhu jadrového zariadenia je
 
-- a) 50 % ročného príspevku podľa odseku 4 písm. a), pričom nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon počas prevádzky jadrového zariadenia predchádzajúcej prvej etape vyraďovania tohto jadrového zariadenia,
+- a) 107 346,40 eura za etapu vyraďovania jadrového zariadenia jadrová elektráreň A1 v Jaslovských Bohuniciach,
 
-- b) 5 % ročného príspevku podľa odseku 4 písm. b), pričom sa stavom ku koncu roka rozumie stav k 31. decembru roka, ktorý predchádza roku, v ktorom nadobudlo právoplatnosť povolenie na etapu vyraďovania,
+- b) 527 147, 50 eura za etapu vyraďovania jadrového zariadenia jadrová elektráreň V1 v Jaslovských Bohuniciach,
 
-- c) 5 % ročného príspevku podľa odseku 4 písm. c), pričom sa berie do úvahy príspevok v roku, v ktorom bola dosiahnutá maximálna aktivita,
+- c) 5 % ročného príspevku podľa odseku 4 písm. b), pričom sa stavom ku koncu roka rozumie stav k 31. decembru roka, ktorý predchádza roku, v ktorom nadobudlo právoplatnosť povolenie na etapu vyraďovania,
 
-- d) 5 % ročného príspevku podľa odseku 4 písm. e).
+- d) 5 % ročného príspevku podľa odseku 4 písm. c), pričom sa berie do úvahy príspevok v roku, v ktorom bola dosiahnutá maximálna aktivita,
+
+- e) 5 % ročného príspevku podľa odseku 4 písm. e).
 
 (7) Ročný príspevok za inštitucionálnu kontrolu jadrového zariadenia podľa § 2 písm. f) štvrtého bodu [§ 5 ods. 3 písm. e)] je 5 000 eur.
 
