@@ -1,6 +1,6 @@
 Príloha k zákonu č. 245/2008 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 77/486/EHS z 25. júla 1977 o vzdelávaní detí migrujúcich pracovníkov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 199, 6. 8. 1977).
 

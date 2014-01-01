@@ -70,6 +70,8 @@
 
 - 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
 
+- 32b) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
+
 - 33) § 5 ods. 13 písm. c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -128,7 +130,7 @@
 
 - 60) § 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 61) § 5 až 7 výnosu Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky z 5. decembra 2007 č. 29775/2007 – II/1 o poskytovaní dotácií v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky (oznámenie č. 597/2007 Z. z.).
+- 61) § 4 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 96/2013 Z. z.
 
 - 62) Zákon č. 601/2003 Z. z. v znení neskorších predpisov.
 
