@@ -204,8 +204,6 @@
 
 - 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
 
-- 23j) § 21 ods. 1 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
-
 - 23k) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 23l) Napríklad zákon Národnej rady Slovenskej republiky č. 40/1994 Z. z. o Štátnom podpornom fonde pôdohospodárstva a potravinárstva v znení neskorších predpisov a § 19 ods. 4 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom.
