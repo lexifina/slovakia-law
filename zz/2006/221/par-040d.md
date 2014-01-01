@@ -1,3 +1,5 @@
-# § 40d Podanie opravného prostriedku
+# § 40d Zhabanie veci
 
-Sťažnosť proti rozhodnutiu o uložení disciplinárneho trestu podľa § 40c možno podať písomne alebo ústne príslušníkovi zboru, ktorý disciplinárny trest uložil alebo jeho najbližšie nadriadenému. Ak bola sťažnosť podaná písomne, vyznačí sa na nej dátum jej prevzatia príslušníkom zboru. O sťažnosti podanej ústne sa urobí záznam na predpísanom tlačive, v ktorom sa uvedú podstatné dôvody sťažnosti a dátum podania.
+(1) Ak nebol uložený disciplinárny trest prepadnutia veci, možno rozhodnúť, že sa taká vec zhabe, ak nepatrí obvinenému zodpovednému za disciplinárne previnenie a ak to vyžaduje bezpečnosť osôb alebo majetku alebo iný obdobný verejný záujem.
+
+(2) Rozhodnutie o zhabaní veci sa ihneď oznámi obvinenému, ktorý spáchal disciplinárne previnenie súvisiace so zhabaním veci, a vlastníkovi veci, ak je známy.

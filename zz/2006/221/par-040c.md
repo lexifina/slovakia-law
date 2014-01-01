@@ -1,9 +1,13 @@
-# § 40c Opravný prostriedok
+# § 40c
 
-(1) Opravným prostriedkom proti rozhodnutiu o uložení disciplinárneho trestu je sťažnosť.
+(1) S výkonom disciplinárneho trestu podľa § 40 ods. 3 písm. e) a f) možno začať, až keď lekár zistí, že obvinený je schopný podrobiť sa výkonu takého disciplinárneho trestu. Lekár musí najmenej raz za tri dni obvineného vyšetriť a posúdiť, či je obvinený spôsobilý ďalej vykonávať disciplinárny trest; tým nie je dotknuté právo obvineného na poskytnutie zdravotnej starostlivosti aj počas výkonu disciplinárneho trestu. Výkon disciplinárneho trestu sa odloží alebo preruší počas práceneschopnosti obvineného.
 
-(2) Obvinený má právo do troch dní odo dňa oznámenia rozhodnutia o uložení disciplinárneho trestu podať proti nemu sťažnosť. Odkladný účinok má len sťažnosť proti disciplinárnemu trestu prepadnutia veci, a ak tak ustanovuje osobitný predpis.<sup>25a</sup>)
+(2) Disciplinárne tresty podľa § 40 ods. 3 písm. e) a f) vykonáva obvinený v osobitnej cele výkonu disciplinárneho trestu. Cela výkonu disciplinárneho trestu sa zriaďuje vo vyčlenenom priestore ústavu oddelenom od ciel ostatných obvinených.
 
-(3) Proti rozhodnutiu o uložení disciplinárneho trestu prepadnutia veci a rozhodnutiu o zhabaní veci môže podať sťažnosť obvinený a osoba, ktorej sa rozhodnutie o zhabaní veci priamo týka.
+(3) Cela výkonu disciplinárneho trestu je vybavená lôžkom pripevneným k podlahe alebo na stenu, stoličkou a stolíkom pripevnenými k podlahe alebo na stenu, poličkou na uloženie vecí pripevnenou na stenu, hygienickým zariadením, umývadlom s pitnou vodou, elektrickým osvetlením a privolávacím signalizačným zariadením. V čase vyhradenom na spánok sa poskytuje obvinenému matrac, podhlavník, podľa klimatických podmienok jedna alebo dve prikrývky a lôžková bielizeň. Cela musí spĺňať požiadavky podľa § 12 ods. 5.
 
-(4) O sťažnosti rozhodne do piatich pracovných dní od jej podania najbližšie nadriadený toho, kto sťažnosťou napadnuté rozhodnutie vydal.
+(4) Obvinený počas umiestnenia v cele výkonu disciplinárneho trestu nemôže prijímať návštevy okrem obhajcu, telefonovať, nakupovať potraviny, veci osobnej potreby a iné veci okrem základných potrieb osobnej hygieny a ďalších potrieb osobnej hygieny a základných potrieb na korešpondenciu, odpočívať na lôžku mimo doby určenej ústavným poriadkom, fajčiť, prechovávať cigarety, tabak, tabakové výrobky a, ak je zaradený do práce, pracovať. Obvinený sa nezúčastňuje na krátkodobých skupinových vzdelávacích a osvetových činnostiach a záujmovej a športovej činnosti.
+
+(5) Vychádzky obvinených vykonávajúcich disciplinárne tresty podľa § 40 ods. 3 písm. e) a f) sa vykonávajú oddelene od ostatných obvinených v rozsahu jednej hodiny denne. Obvinený sa musí podrobiť osobnej prehliadke podľa pokynov príslušníka zboru. Obvinený si môže pri sebe ponechať základné potreby osobnej hygieny a ďalšie potreby osobnej hygieny a základné potreby na korešpondenciu.
+
+(6) Ak bol obvinenému počas výkonu disciplinárneho trestu opätovne uložený disciplinárny trest podľa § 40 ods. 3 písm. e) a f), možno obvineného podrobiť takému disciplinárnemu trestu bez prerušenia najviac na 15 dní. Zvyšok nevykonaného disciplinárneho trestu obvinený vykoná najskôr po uplynutí piatich dní od prerušenia alebo ukončenia výkonu disciplinárneho trestu podľa § 40 ods. 3 písm. e) a f).
