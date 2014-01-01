@@ -90,6 +90,8 @@
 
 - 15b) § 68 ods. 8 Obchodného zákonníka.
 
+- 15c) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
 - 16) Občiansky súdny poriadok.
 
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
