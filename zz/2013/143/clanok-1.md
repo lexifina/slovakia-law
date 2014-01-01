@@ -170,6 +170,46 @@ Zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový z�
 
 - 35. V § 28 ods. 20 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „návrhy opatrení alebo odporúčaní na ďalší postup úrad zasiela Ministerstvu vnútra Slovenskej republiky a obvodným úradom v sídle kraja v oblasti ohrozenia.“.
 
+- 36. V § 29 ods. 6 písmená a) a b) znejú:
+
+- „a)
+
+- jadrové zariadenia s jadrovým reaktorom alebo jadrovými reaktormi na energetické účely počas uvádzania do prevádzky a počas prevádzky do 300 000 000 eur,
+
+- b)
+
+- ostatné jadrové zariadenia počas uvádzania do prevádzky a počas prevádzky, prepravy rádioaktívnych materiálov a všetky jadrové zariadenia v etape vyraďovania do 185 000 000 eur.“.
+
+- 37. V § 34a ods. 4 písm. a) sa suma „383,38 eura“ nahrádza sumou „766,76 eura“.
+
+- 38. V § 34a odsek 5 znie:
+
+- „(5)
+
+- Ročný príspevok za stavbu jadrového zariadenia [§ 5 ods. 3 písm. a)] podľa druhu jadrového zariadenia je
+
+- a)
+
+- pre jadrové zariadenie podľa § 2 písm. f) prvého bodu 1,5 násobok sumy príspevku podľa odseku 4 písm. a); nominálnym inštalovaným tepelným výkonom sa rozumie projektovaný nominálny inštalovaný tepelný výkon,
+
+- b)
+
+- pre jadrové zariadenia podľa § 2 písm. f) tretieho bodu a štvrtého bodu, okrem jadrového zariadenia podľa odseku 4 písm. e), vo výške podľa odseku 4 písm. b) až d); stavom ku koncu predchádzajúceho roka sa rozumie predpokladaný stav k 31. decembru roka, v ktorom uplynie dvanásť mesiacov prevádzky jadrového zariadenia.“.
+
+- 39. V § 34a ods. 6 písmeno a) znie:
+
+- „a)
+
+- 107 346,40 eura za etapu vyraďovania jadrového zariadenia jadrová elektráreň A1 v Jaslovských Bohuniciach,“.
+
+- 40. V § 34a ods. 6 sa za písmeno a) vkladá nové písmeno b), ktoré znie:
+
+- „b)
+
+- 527 147, 50 eura za etapu vyraďovania jadrového zariadenia jadrová elektráreň V1 v Jaslovských Bohuniciach,“.
+
+- Doterajšie písmená b) až d) sa označujú ako písmená c) až e).
+
 - 41. V § 35 sa slová „§ 8 ods. 6“ nahrádzajú slovami „§ 8 ods. 5“.
 
 - 42. Za § 37bb sa vkladá § 37bc, ktorý vrátane nadpisu znie:
