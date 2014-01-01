@@ -140,6 +140,8 @@
 
 - 39) Napríklad § 355 Obchodného zákonníka.
 
+- 39a) § 22 ods. 5 zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
+
 - 40) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 41) § 20 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 75/2008 Z. z., ktorou sa ustanovujú pravidlá vykazovania, prepočtu a zaokrúhľovania peňažných súm v súvislosti s prechodom na menu euro na účely účtovníctva, daní a colné účely.
