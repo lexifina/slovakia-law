@@ -16,6 +16,8 @@
 
 - 9) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
+- 9a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
 - 11) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách.
 
 - 12) § 6 ods. 1 a 2 zákona č. 455/1991 Zb.
