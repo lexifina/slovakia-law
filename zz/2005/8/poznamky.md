@@ -18,6 +18,8 @@
 
 - 10) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 507/2001 Z. z. o poštových službách v znení neskorších predpisov, zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení zákona č. 716/2004 Z. z.
 
+- 10a) § 40 ods. 1 zákona č. 7/2005 Z. z.
+
 - 11) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
 - Zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov.
