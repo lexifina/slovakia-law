@@ -12,6 +12,10 @@
 
 - 6) § 75 a 75a Občianskeho súdneho poriadku.
 
+- 6a) § 103 zákona č. 36/2005 Z. z.
+
+- 6b) Zákon č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov.
+
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - 8) § 51 zákona č. 36/2005 Z. z.
