@@ -4,10 +4,10 @@ Príloha č. 1 k vyhláške č. 410/2011 Z. z.
 
 - s ročnou dobou platnosti pre dvojstopové motorové vozidlá a jazdné súpravy do 3,5 t a dvojstopové motorové vozidlá kategórie M1 bez ohľadu na ich celkovú hmotnosť
 
-![Obrázok 01](../assets/c257a26cd8d049d99c51c33457f63a2568d7fb143599946cd778b51cd758c16b.png)
+![obrázok 1a](../assets/2b5156db603dc4614cbeee3ec67396fc4778683b761c8f0e033cd6e2cd7f549b.jpg)
 
 - VZOR TEXTU NA PAPIEROVEJ PODLOŽKE NÁLEPKY
 
 - s ročnou dobou platnosti pre dvojstopové motorové vozidlá a jazdné súpravy do 3,5 t a dvojstopové motorové vozidlá kategórie M1 bez ohľadu na ich celkovú hmotnosť
 
-![Obrázok 02](../assets/35076ce347f4211c24088ae3268e7cb2bfc1cafc158b1904728d6b5335081051.png)
+![obrázok 1b](../assets/36913c11853df040800126a78d820ef907bf5f970bb6145dafea1898eea6792b.jpg)

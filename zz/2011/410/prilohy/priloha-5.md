@@ -4,10 +4,10 @@ Príloha č. 5 k vyhláške č. 410/2011 Z. z.
 
 - s mesačnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 09](../assets/a85911fc532a354ee853d6b6beb4a297afc0fc58f8569aa1fe5e061f1ac39dcd.png)
+![obrázok 5a](../assets/23adc20bb374831891cb9d550e96131e2fa28d7ee4d958f7d359690d0b4c5f7c.jpg)
 
 - VZOR TEXTU NA PAPIEROVEJ PODLOŽKE NÁLEPKY
 
 - s mesačnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 10](../assets/98adbd0752087d558a8945d5e72242a8dc0da440a06e3c22d1ad3c281a15cfb8.png)
+![obrázok 5b](../assets/fefa92256cdfe860a384897477d2c039372c063e049b98eeb9aa162049da3030.jpg)

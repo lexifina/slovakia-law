@@ -4,10 +4,10 @@ Príloha č. 4 k vyhláške č. 410/2011 Z. z.
 
 - s ročnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 07](../assets/4e199312159ff1820335862a5947dbf39a80dea8428c1ad2a5d9feb11b92c373.png)
+![obrázok 4a](../assets/690f220b9010dd6f983ababcebf8a935484490098001cede7b044a16eb34f056.jpg)
 
 - VZOR TEXTU NA PAPIEROVEJ PODLOŽKE NÁLEPKY
 
 - s ročnou dobou platnosti pre prípojné vozidlá kategórie O1 a O2
 
-![Obrázok 08](../assets/f3c2f7964d66f06e14d721977346048e4f4231ee1a6547c5046f96f3ea811c3b.png)
+![obrázok 4b](../assets/c50872e0899f0fc395223576d92d85ed023800d30c73b797e622f353475dc375.jpg)
