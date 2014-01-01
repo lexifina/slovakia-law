@@ -4,7 +4,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Príloha č. 1 k opatreniu č. 467/2010 Z. z.
 
-[Časť 1](../assets/e24335794d633da08ce7d11b683ea0cbead1c30771c410ce4d38367ab49073a3.pdf)
+[Časť 1](../assets/7fb8036cbdca0498dda489e6f1855f1814617ab9822133a4fcc1e7ceb16b82f0.pdf)
 
 - METODIKA NA VYPRACÚVANIE HLÁSENIA O ZAHRANIČNÝCH AKTÍVACH A PASÍVACH
 
@@ -94,7 +94,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Časť 2
 
-[Časť 2](../assets/e2cfb0a4370aa15b82d95dee4585408b13f0b794c6f47335d2766ed112d8c979.pdf)
+[Časť 2](../assets/b394a95d0b0c56b91c2526413e60eb0c25bba22da0a8c350bdaebc48dead3204.pdf)
 
 - METODIKA NA VYPRACÚVANIE MESAČNÉHO HLÁSENIA O ZAHRANIČNÝCH AKTÍVACH
 
@@ -158,7 +158,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Výpočet stĺpca 1 (predaj materiálu, zásob vlastnej výroby, tovaru, dlhodobého hmotného a nehmotného majetku):
 
-= neuhradené pohľadávky zahraničných odberateľov k 1. januáru očistené o neuhradené faktúry za služby,
+= neuhradené pohľadávky zahraničných odberateľov k 1. januáru vrátane neuhradených faktúr za služby,
 
 + časové rozlíšenie už uskutočnených a prevzatých dodávok odberateľom, ktoré neboli vyfakturované ku dňu uzatvárania účtovných kníh,
 
@@ -166,7 +166,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 – zostatok prijatých preddavkov od zahraničných odberateľov.
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Ak sú prijaté preddavky od zahraničných odberateľov (účet 324 – Prijaté preddavky) vyššie ako konečný stav vývozných pohľadávok (účet 311 – Odberatelia), tak sa v riadku vývozných pohľadávok vykazuje znamienko (–). Hodnota prijatých a nevyúčtovaných preddavkov sa uvedie v riadku 105 – Preddavky z riadkov 101, 103, 121, 122, 123, 124.
 
@@ -190,7 +190,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 – vystavené dobropisy a reklamácie (napríklad strana D účtu 311 – Odberatelia, strana D účtu 325 – Ostatné záväzky).
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Všetky uvádzané hodnoty sa posudzujú z časového hľadiska, a to ako krátkodobé alebo dlhodobé.
 
@@ -284,7 +284,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Výpočet stĺpca 6 (predaj materiálu, zásob vlastnej výroby, tovaru, dlhodobého hmotného a nehmotného majetku):
 
-- = neuhradené pohľadávky zahraničných odberateľov k poslednému dňu vykazovaného obdobia očistené o neuhradené faktúry za služby,
+- = neuhradené pohľadávky zahraničných odberateľov k poslednému dňu vykazovaného obdobia vrátane neuhradených faktúr za služby,
 
 - + časové rozlíšenie už uskutočnených a prevzatých dodávok odberateľom, ktoré neboli vyfakturované ku dňu uzatvárania účtovných kníh,
 
@@ -292,7 +292,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 – zostatok prijatých preddavkov od zahraničných odberateľov.
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Ak sú prijaté preddavky od zahraničných odberateľov (účet 324 – Prijaté preddavky) vyššie ako konečný stav vývozných pohľadávok (účet 311 – Odberatelia), v riadku vývozných pohľadávok sa vykazuje znamienko (–). Hodnota prijatých a nevyúčtovaných preddavkov sa uvádza v riadku 105 – Preddavky z riadkov 101, 103, 121, 122, 123, 124.
 
@@ -314,7 +314,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva. Pohľadávka vzniká aj pri predaji formou bartrových obchodov.
 
-- Pohľadávky za služby nie sú predmetom zisťovania.
+- Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, vzájomné započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -332,7 +332,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vývozné pohľadávky dlhodobé vznikajú, ak vykazujúca jednotka vyfakturuje do zahraničia materiál, zásoby vlastnej výroby, tovar, hmotný a nehmotný majetok, úroky, poskytuje dlhodobý prenájom (finančný lízing) alebo prijme preddavok a doba splatnosti je nad jeden rok. Dlhodobé pohľadávky vznikajúce voči priamemu investorovi – zahraničnému subjektu a podnikom v skupine a zriaďovateľovi organizačnej zložky cudzozemca v tuzemsku sa vykazujú v riadku 124 – Dlhodobé aktíva – priamy investor – zahraničný subjekt a dlhodobé pohľadávky voči podniku priamej investície v zahraničí a podnikom v skupine sa vykazujú v riadku 123 – Dlhodobé aktíva – podnik priamej investície v zahraničí.
 
-- Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva. Pohľadávky za služby nie sú predmetom zisťovania.
+- Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva. Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, vzájomné započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -542,7 +542,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva. Pohľadávka vzniká aj pri predaji formou bartrových obchodov.
 
-- Pohľadávky za služby nie sú predmetom zisťovania.
+- Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -564,7 +564,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva. Pohľadávka vzniká aj pri predaji formou bartrových obchodov.
 
-- Pohľadávky za služby nie sú predmetom zisťovania.
+- Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -586,7 +586,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva.
 
-- Pohľadávky za služby nie sú predmetom zisťovania.
+- Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -608,7 +608,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Hodnoty vystavených faktúr vrátane vyúčtovania prijatých preddavkov zo zahraničia (účet 324 – Prijaté preddavky) sa zaznamenajú ako transakcie zvyšujúce aktíva.
 
-- Pohľadávky za služby nie sú predmetom zisťovania.
+- Predmetom zisťovania sú aj pohľadávky za služby.
 
 - Úhrady odberateľských faktúr, započítanie pohľadávok a záväzkov a prijaté preddavky sa evidujú ako transakcie znižujúce aktíva.
 
@@ -640,7 +640,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - fin. úvery dlh. finančné úvery dlhodobé
 
-[Časť 3](../assets/68d4ab071f2c72dd9190916209062b091db8bd7771b39edc8c67e15545ee7c09.pdf)
+[časť 3](../assets/1853b0a96db693d5b4534c9bd190da21ce26b8b894203b365629047473d1a484.pdf)
 
 - METODIKA NA VYPRACÚVANIE MESAČNÉHO HLÁSENIA O ZAHRANIČNÝCH PASÍVACH
 
@@ -704,7 +704,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Výpočet stĺpca 8 (obstaranie zásob, dlhodobého hmotného a nehmotného majetku):
 
-- = neuhradené záväzky voči zahraničným dodávateľom k 1. januáru, očistené o neuhradené faktúry za služby,
+- = neuhradené záväzky voči zahraničným dodávateľom k 1. januáru, vrátane neuhradených faktúr za služby,
 
 - + nevyfakturované dodávky zo zahraničia,
 
@@ -712,7 +712,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 – zostatok poskytnutých preddavkov zaplatených zahraničným dodávateľom.
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Ak sú poskytnuté preddavky zahraničným dodávateľom (účet 314 – Poskytnuté preddavky, 051 – Poskytnuté preddavky na dlhodobý nehmotný majetok, 052 – Poskytnuté preddavky na dlhodobý hmotný majetok) vyššie ako konečný stav dovozných záväzkov (účet 321 – Dodávatelia), tak sa v riadku dovozných záväzkov vykazuje znamienko (–). Hodnota poskytnutých a nevyúčtovaných preddavkov sa uvedie v riadku 203 – Preddavky z riadkov 201, 202, 217, 218, 219, 220.
 
@@ -734,7 +734,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 – prijaté dobropisy a reklamácie (napríklad strana MD účtu 321 – Dodávatelia, strana MD účtu 315 – Ostatné pohľadávky).
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Všetky uvádzané hodnoty sa posudzujú z časového hľadiska, a to ako krátkodobé alebo dlhodobé.
 
@@ -826,7 +826,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Výpočet stĺpca 13 (obstaranie zásob, dlhodobého hmotného a nehmotného majetku):
 
-- = neuhradené záväzky voči zahraničným dodávateľom k poslednému dňu vykazovaného obdobia očistené o neuhradené faktúry za služby,
+- = neuhradené záväzky voči zahraničným dodávateľom k poslednému dňu vykazovaného obdobia vrátane neuhradených faktúr za služby,
 
 - + nevyfakturované dodávky zo zahraničia,
 
@@ -834,7 +834,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - – zostatok poskytnutých preddavkov zaplatených zahraničným dodávateľom.
 
-- Služby nie sú náplňou ani jednej z položiek.
+- Súčasťou náplne jednotlivých položiek sú aj služby.
 
 - Ak sú poskytnuté preddavky zahraničným dodávateľom (účet 314 – Poskytnuté preddavky, 051 – Poskytnuté preddavky na dlhodobý nehmotný majetok, 052 – Poskytnuté preddavky na dlhodobý hmotný majetok) vyššie ako konečný stav dovozných záväzkov (účet 321 – Dodávatelia), tak sa v riadku dovozných záväzkov vykazuje znamienko (–). Hodnota zaplatených a nevyúčtovaných preddavkov sa uvedie v riadku 203 – Preddavky z riadkov 201, 202, 217, 218, 219, 220.
 
@@ -856,7 +856,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vykazujú sa tu krátkodobé záväzky z obchodných vzťahov a poskytnuté krátkodobé preddavky zahraničným dodávateľom, prijaté dobropisy a nevyfakturované dodávky.
 
-- Ide o záväzky (vrátane predpísanej hodnoty úrokov), ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku s výnimkou služieb. Krátkodobé záväzky vznikajúce pri obstaraní od priameho investora – zahraničného subjektu a podnikov v skupine alebo od zriaďovateľa organizačnej zložky cudzozemca v tuzemsku sa vykazujú v riadku 217 – Krátkodobé pasíva – priamy investor – zahraničný subjekt a krátkodobé záväzky voči podniku priamej investície v zahraničí a podnikom v skupine sa vykazujú v riadku 218 – Krátkodobé pasíva – podnik priamej investície v zahraničí.
+- Ide o záväzky (vrátane predpísanej hodnoty úrokov), ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku vrátane služieb. Krátkodobé záväzky vznikajúce pri obstaraní od priameho investora – zahraničného subjektu a podnikov v skupine alebo od zriaďovateľa organizačnej zložky cudzozemca v tuzemsku sa vykazujú v riadku 217 – Krátkodobé pasíva – priamy investor – zahraničný subjekt a krátkodobé záväzky voči podniku priamej investície v zahraničí a podnikom v skupine sa vykazujú v riadku 218 – Krátkodobé pasíva – podnik priamej investície v zahraničí.
 
 - Obstaranie zásob, nehmotného a hmotného majetku (vrátane predpísanej hodnoty úrokov) predstavuje transakciu zvyšujúcu pasíva, úhrada sa uvedie ako transakcia znižujúca pasíva. Transakciu znižujúcu pasíva predstavuje aj vzájomné započítanie pohľadávok a záväzkov. Prijaté dobropisy (účet 321 – Dodávatelia, účet 315 – Ostatné pohľadávky) sa zaznamenajú do transakcií zvyšujúcich pasíva so záporným znamienkom (–), ich úhrada predstavuje transakcie znižujúce pasíva so záporným znamienkom (–).
 
@@ -870,7 +870,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Riadok 202 – DOVOZNÉ ZÁVÄZKY DLHODOBÉ
 
-- Vykazujú sa tu dlhodobé záväzky z obchodných vzťahov a poskytnuté dlhodobé preddavky zahraničným dodávateľom. Ide o záväzky (vrátane predpísanej hodnoty úrokov), ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku, finančného lízingu s výnimkou služieb.
+- Vykazujú sa tu dlhodobé záväzky z obchodných vzťahov a poskytnuté dlhodobé preddavky zahraničným dodávateľom. Ide o záväzky (vrátane predpísanej hodnoty úrokov), ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku, finančného lízingu vrátane služieb.
 
 - Dlhodobé záväzky vznikajúce pri obstaraní od priameho investora – zahraničného subjektu a podnikov v skupine a od zriaďovateľa organizačnej zložky cudzozemca v tuzemsku sa vykazujú v riadku 219 – Dlhodobé pasíva – priamy investor – zahraničný subjekt a dlhodobé záväzky voči podniku priamej investície v zahraničí a podnikom v skupine sa vykazujú v riadku 220 – Dlhodobé pasíva – podnik priamej investície v zahraničí.
 
@@ -1142,7 +1142,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vykazujú sa tu krátkodobé záväzky z obchodných vzťahov a poskytnuté krátkodobé preddavky voči priamemu investorovi – zahraničnému subjektu, ktorý má vo vykazujúcej jednotke majetkovú účasť najmenej 10 %, a voči podnikom v skupine (prijatý záväzok od materskej spoločnosti priameho zahraničného investora, prípadne poskytnutý preddavok materskej spoločnosti priameho zahraničného investora). Súčasne sa tu vykazujú aj záväzky voči zriaďovateľovi organizačnej zložky cudzozemca v tuzemsku.
 
-- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) okrem služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou do jedného roka vrátane s priamym investorom – zahraničným subjektom a podnikmi v skupine alebo zriaďovateľom organizačnej zložky cudzozemca v tuzemsku. V každom prípade ide o vzťah priamy investor (prípadne podniky v skupine) – vykazujúca jednotka.
+- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) vrátane služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou do jedného roka vrátane s priamym investorom – zahraničným subjektom a podnikmi v skupine alebo zriaďovateľom organizačnej zložky cudzozemca v tuzemsku. V každom prípade ide o vzťah priamy investor (prípadne podniky v skupine) – vykazujúca jednotka.
 
 - Krátkodobé záväzky vznikajúce pri dovoze od podniku priamej investície v zahraničí a podnikov v skupine sa vykazujú v riadku 218 – Krátkodobé pasíva – podnik priamej investície v zahraničí a krátkodobé záväzky voči ostatným zahraničným dodávateľom, s ktorými nie je vykazujúca jednotka majetkovo prepojená, sa uvádzajú v riadku 201 – Dovozné záväzky krátkodobé.
 
@@ -1164,7 +1164,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vykazujú sa tu krátkodobé záväzky z obchodných vzťahov a poskytnuté krátkodobé preddavky voči podniku priamej investície v zahraničí, kde má vykazujúca jednotka majetkovú účasť najmenej 10 % (prijatý záväzok od dcérskej spoločnosti, prípadne poskytnutý preddavok dcérskej spoločnosti), a voči podnikom v skupine.
 
-- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) okrem služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou do jedného roka vrátane s podnikom priamej investície v zahraničí a podnikmi v skupine. Krátkodobé záväzky vznikajúce pri dovoze od priameho investora – zahraničného subjektu a podnikov v skupine sa vykazujú v riadku 217 – Krátkodobé pasíva – priamy investor – zahraničný subjekt a krátkodobé záväzky voči ostatným zahraničným dodávateľom, s ktorými nie je vykazujúca jednotka majetkovo prepojená, sa uvádzajú v riadku 201 – Dovozné záväzky krátkodobé.
+- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) vrátane služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou do jedného roka vrátane s podnikom priamej investície v zahraničí a podnikmi v skupine. Krátkodobé záväzky vznikajúce pri dovoze od priameho investora – zahraničného subjektu a podnikov v skupine sa vykazujú v riadku 217 – Krátkodobé pasíva – priamy investor – zahraničný subjekt a krátkodobé záväzky voči ostatným zahraničným dodávateľom, s ktorými nie je vykazujúca jednotka majetkovo prepojená, sa uvádzajú v riadku 201 – Dovozné záväzky krátkodobé.
 
 - Obstaranie zásob, hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) predstavujú transakcie zvyšujúce pasíva, ich úhrady sú transakciami znižujúcimi pasíva. Transakciu znižujúcu pasíva predstavuje aj vzájomné započítanie pohľadávok a záväzkov.
 
@@ -1184,7 +1184,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vykazujú sa tu dlhodobé záväzky z obchodných vzťahov a poskytnuté dlhodobé preddavky voči priamemu investorovi – zahraničnému subjektu, ktorý má vo vykazujúcej jednotke majetkovú účasť najmenej 10 %, a voči podnikom v skupine (prijatý záväzok voči materskej spoločnosti priameho zahraničného investora, prípadne poskytnutý preddavok materskej spoločnosti priameho zahraničného investora). Súčasne sa tu vykazujú aj záväzky voči zriaďovateľovi organizačnej zložky cudzozemca v tuzemsku.
 
-- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) okrem služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou nad jeden rok s priamym investorom – zahraničným subjektom a podnikmi v skupine alebo zriaďovateľom organizačnej zložky cudzozemca v tuzemsku.
+- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) vrátane služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou nad jeden rok s priamym investorom – zahraničným subjektom a podnikmi v skupine alebo zriaďovateľom organizačnej zložky cudzozemca v tuzemsku.
 
 - V každom prípade ide o vzťah priamy investor (prípadne podniky v skupine) – vykazujúca jednotka.
 
@@ -1206,7 +1206,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - Vykazujú sa tu dlhodobé záväzky z obchodných vzťahov a poskytnuté dlhodobé preddavky voči podniku priamej investície v zahraničí, kde má vykazujúca jednotka majetkovú účasť najmenej 10 % (prijatý záväzok od dcérskej spoločnosti, prípadne poskytnutý preddavok dcérskej spoločnosti), a voči podnikom v skupine.
 
-- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) okrem služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou nad jeden rok s podnikom priamej investície v zahraničí a podnikmi v skupine.
+- Ide o záväzky, ktoré vznikli pri obstaraní zásob (materiál, spotrebný materiál, tovar), hmotného a nehmotného majetku (vrátane predpísanej hodnoty úrokov) vrátane služieb. Súčasťou tohto riadka je aj obstaranie a predaj cenných papierov vydaných vykazujúcou jednotkou so splatnosťou nad jeden rok s podnikom priamej investície v zahraničí a podnikmi v skupine.
 
 - Dlhodobé záväzky vznikajúce pri dovoze od priameho investora – zahraničného subjektu a od podnikov v skupine sa vykazujú v riadku 219 – Dlhodobé pasíva – priamy investor – zahraničný subjekt a dlhodobé záväzky voči ostatným zahraničným dodávateľom, s ktorými nie je vykazujúca jednotka majetkovo prepojená, sa uvádzajú v riadku 202 – Dovozné záväzky dlhodobé.
 
@@ -1248,7 +1248,7 @@ Príloha k opatreniu č. 332/2012 Z. z.
 
 - krátk. cenné papiere krátkodobé cenné papiere
 
-[Časť 4](../assets/4229f1e893dfc12ffc8b9178bfd89b695774ce03e6b1968c888351793814426a.pdf)
+[Časť 4](../assets/8376a25eb2f35d4645e9e10a1f0c07f3fdd5fe218aefee7ce1eda5c825c53e76.pdf)
 
 - METODIKA NA VYPRACÚVANIE ŠTVRŤROČNÉHO HLÁSENIA O ZAHRANIČNÝCH AKTÍVACH A PASÍVACH - TERITORIÁLNA ŠTRUKTÚRA
 
