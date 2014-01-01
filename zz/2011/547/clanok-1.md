@@ -10,6 +10,8 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - 2. V § 4 ods. 2 sa slová „a mieste predkladania“ nahrádzajú čiarkou a slovami „postupoch a mieste ukladania“.
 
+- 3. V § 8 ods. 3 sa za slová „podľa § 21“ vkladajú čiarka a slová „uložila dokumenty podľa § 23a“.
+
 - 4. V § 9 ods. 2 sa vypúšťa písmeno e).
 
 - 5. V § 16 ods. 1 sa vypúšťajú písmená c) a d).
@@ -53,6 +55,50 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 - „(7)
 
 - Účtovná jednotka zostavujúca účtovnú závierku podľa odsekov 1 až 6 je povinná zostaviť výkaz vybraných údajov z účtovnej závierky. Rozsah, spôsob, miesto a termíny ukladania výkazu vybraných údajov z účtovnej závierky ustanoví ministerstvo opatrením. Opatrenie vyhlasuje ministerstvo oznámením o jeho vydaní v Zbierke zákonov Slovenskej republiky.“.
+
+- 13. V § 21 odseky 1 až 5 znejú:
+
+- „(1)
+
+- Individuálnu výročnú správu povinne ukladajú do zbierky listín obchodného registra účtovné jednotky, ktoré musia mať účtovnú závierku overenú audítorom podľa § 19 ods. 1 písm. a), b) alebo d) takto:
+
+- a)
+
+- akciová spoločnosť, spoločnosť s ručením obmedzeným, družstvo a štátny podnik, a to do 30 dní po schválení účtovnej závierky,
+
+- b)
+
+- Exportno – importná banka Slovenskej republiky, a to do 60 dní po schválení účtovnej závierky,
+
+- c)
+
+- verejná obchodná spoločnosť a komanditná spoločnosť, a to do siedmich mesiacov po uplynutí účtovného obdobia.
+
+- (2)
+
+- Individuálna výročná správa a konsolidovaná výročná správa účtovnej jednotky, ktorou je obec alebo vyšší územný celok, sa ukladá v registri podľa § 23a do jedného roka od skončenia účtovného obdobia.
+
+- (3)
+
+- Účtovná jednotka, na ktorú sa vzťahuje povinnosť zostavovať konsolidovanú výročnú správu podľa § 22, je povinná uložiť konsolidovanú výročnú správu do zbierky listín obchodného registra do jedného roka od skončenia účtovného obdobia.
+
+- (4)
+
+- Materská účtovná jednotka, ktorá postupuje podľa § 22 ods. 8, je povinná uložiť konsolidovanú účtovnú závierku uvedenú v § 22 ods. 9 písm. a) spolu so správou audítora a konsolidovanou výročnou správou do zbierky listín obchodného registra do jedného roka od skončenia jej účtovného obdobia, pričom konsolidovaná účtovná závierka môže byť uložená ako súčasť konsolidovanej výročnej správy.
+
+- (5)
+
+- Účtovná jednotka uvedená v § 17a zverejní najmenej na jeden rok informáciu na svojom webovom sídle o uložení účtovnej závierky v registri podľa § 23a alebo zverejní na ňom úplnú účtovnú závierku v tom istom rozsahu a v tej istej lehote, ako bola uložená v registri podľa § 23a.“.
+
+- Poznámka pod čiarou k odkazu 28d sa vypúšťa.
+
+- 14. V § 21 sa vypúšťajú odseky 6 a 7.
+
+- Doterajšie odseky 8 a 9 sa označujú ako odseky 6 a 7.
+
+- Poznámka pod čiarou k odkazu 29 sa vypúšťa.
+
+- 15. V § 21 ods. 7 sa slová „Odsek 8“ nahrádzajú slovami „Odsek 6“.
 
 - 16. V § 22 ods. 8 sa vypúšťajú slová „Európskej únie“.
 
@@ -268,7 +314,51 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - (7)
 
-- Účtovná jednotka je zodpovedná za správnosť uložených dokumentov podľa § 23 ods. 2. Účtovná jednotka, na ktorú sa vzťahuje povinnosť overovania podľa § 19 alebo § 22, nesmie zverejniť informácie, ktoré predtým neboli overené audítorom, spôsobom, ktorý by mohol používateľa uviesť do omylu, že audítorom overené boli.“.
+- Účtovná jednotka je zodpovedná za správnosť uložených dokumentov podľa § 23 ods. 2. Účtovná jednotka, na ktorú sa vzťahuje povinnosť overovania podľa § 19 alebo § 22, nesmie zverejniť informácie, ktoré predtým neboli overené audítorom, spôsobom, ktorý by mohol používateľa uviesť do omylu, že audítorom overené boli.
+
+- § 23b
+
+- (1)
+
+- Ak odsek 2 neustanovuje inak, dokumenty podľa § 23 ods. 2 vyhotovené v listinnej forme sa doručujú miestne príslušnému daňovému úradu. Miestne príslušný daňový úrad prevedie dokumenty prijaté v listinnej forme do elektronickej formy a postúpi ich v elektronickej forme aj listinnej forme správcovi registra do piatich pracovných dní.
+
+- (2)
+
+- Dokumenty podľa § 23 ods. 2 účtovných jednotiek verejnej správy sa doručujú správcovi registra prostredníctvom systému štátnej pokladnice.<sup>29j</sup>)
+
+- (3)
+
+- Dokumenty podľa § 23 ods. 2 vyhotovené v elektronickej forme sa doručujú prostredníctvom elektronickej podateľne prevádzkovanej podľa osobitného predpisu.<sup>29k</sup>) Na doručovanie sa vzťahuje osobitný predpis.<sup>29k</sup>) Finančné riaditeľstvo Slovenskej republiky postúpi dokumenty podľa § 23 ods. 2 doručené v elektronickej forme bez zbytočného odkladu správcovi registra.
+
+- (4)
+
+- Správca registra zaradí, zverejní a sprístupní každý doručený dokument podľa § 23 ods. 2 bez zbytočného odkladu, najneskôr do piatich pracovných dní, vo verejnej časti alebo neverejnej časti registra. Súčasne zasiela dokumenty podľa § 23 ods. 2 písm. a), b), d) a i) účtovných jednotiek podľa § 23 ods. 6 písm. a) až d) spolu s údajom o dátume ich uloženia do registra v elektronickej forme prostredníctvom Ministerstva spravodlivosti Slovenskej republiky do zbierky listín obchodného registra. Rovnako postupuje správca registra pri dodatočnom doručení oznámenia podľa § 23a ods. 4 a dodatočnom doručení správy podľa § 23a ods. 5.
+
+- (5)
+
+- Doručením dokumentov podľa § 23 ods. 2 miestne príslušnému daňovému úradu alebo do elektronickej podateľne podľa odseku 3 sa má za to, že účtovná jednotka si splnila povinnosť uloženia a zverejnenia dokumentov.
+
+- (6)
+
+- Ak vzniknú pochybnosti o správnosti, pravdivosti alebo úplnosti dokumentov, na základe výzvy správcu registra je účtovná jednotka povinná sa k nim vyjadriť, neúplné údaje doplniť, nepravdivé údaje opraviť alebo pravdivosť údajov riadne preukázať.
+
+- (7)
+
+- Podrobnosti o elektronickej komunikácii a poskytovaní elektronických služieb uverejní správca registra na svojom webovom sídle.
+
+- § 23c
+
+- (1)
+
+- Správca registra sprístupní dokumenty podľa § 23 ods. 2 účtovných jednotiek podľa § 23 ods. 6 vo verejnej časti registra všetkým osobám prostredníctvom webového sídla elektronickou formou, bez poplatku.
+
+- (2)
+
+- Dokumenty podľa § 23 ods. 2 účtovných jednotiek podľa § 23 ods. 7 uložené v neverejnej časti registra sprístupní správca registra elektronickou formou bez poplatku účtovnej jednotke, ktorej sa týkajú, a subjektom verejnej správy. Iným osobám tieto dokumenty sprístupní, ak tak ustanovuje osobitný predpis.<sup>29l</sup>)
+
+- (3)
+
+- Na základe žiadosti vydá správca registra žiadateľovi, po zaplatení správneho poplatku, kópiu uloženého dokumentu podľa § 23 ods. 2 alebo potvrdenie o tom, že určitý dokument nie je v registri uložený. O vydanie kópie uloženého dokumentu alebo potvrdenia o tom, že určitý dokument v registri uložený nie je, možno žiadať aj elektronickými prostriedkami. Ak žiadateľ žiada o vydanie elektronickej formy uloženého dokumentu alebo elektronickej formy potvrdenia, že určitý dokument v registri uložený nie je, vydá ich správca registra elektronickými prostriedkami<sup>29d</sup>) podpísané zaručeným elektronickým podpisom. Kópiu dokumentu alebo potvrdenie o tom, že určitý dokument v registri uložený nie je, vydá správca registra do piatich pracovných dní odo dňa zaplatenia správneho poplatku.“.
 
 - Poznámky pod čiarou k odkazom 29d až 29l znejú:
 
@@ -294,7 +384,19 @@ Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z., 
 
 - 29i)
 
-- Napríklad § 24 ods. 3 zákona č. 147/1997 Z. z., § 33 ods. 4 zákona č. 213/1997 Z. z., zákon č. 595/2003 Z. z. v znení neskorších predpisov.“.
+- Napríklad § 24 ods. 3 zákona č. 147/1997 Z. z., § 33 ods. 4 zákona č. 213/1997 Z. z., zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 29j)
+
+- § 2 ods. 2 písm. h) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29k)
+
+- § 30 až 33 zákona č. 563/2009 Z. z.
+
+- 29l)
+
+- Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.“.
 
 - Doterajšia štvrtá až ôsma časť sa označujú ako piata až deviata časť.
 
