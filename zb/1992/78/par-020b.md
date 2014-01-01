@@ -6,7 +6,7 @@
 
 - b) je bezúhonný,
 
-- c) má vysokoškolské vzdelanie<sup>3a</sup>) ekonomického alebo právnického zamerania alebo ukončenú obsahovo ucelenú časť vysokoškolského štúdia<sup>3b</sup>); výnimku zo vzdelania môže udeliť komora fyzickej osobe, ak má vysokoškolské vzdelanie iného zamerania, prípadne úplné stredné vzdelanie a má najmenej päť rokov ekonomickej praxe,
+- c) získal vysokoškolské vzdelanie druhého stupňa ekonomického zamerania alebo právnického zamerania na vysokej škole v Slovenskej republike<sup>3a</sup>) alebo má uznaný doklad o vysokoškolskom vzdelaní druhého stupňa ekonomického zamerania alebo právnického zamerania vydaný zahraničnou vysokou školou podľa osobitného predpisu;<sup>3b</sup>) výnimku zo vzdelania môže udeliť komora fyzickej osobe, ktorá má vysokoškolské vzdelanie iného zamerania alebo úplné stredné vzdelanie a má najmenej päť rokov ekonomickej praxe,
 
 - d) má potvrdenie daňového poradcu o tom, že ho zamestná ako asistenta.
 
