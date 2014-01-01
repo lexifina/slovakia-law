@@ -1,6 +1,6 @@
 Príloha č. 13 k vyhláške č. 310/2013 Z. z.
 
-- VZOR ZÁZNAM O VYSKLADNENÍ A ODOSLANÍ KOVOVEJ ORTUTI [príloha 13](../assets/fd4d5ccccef04d047e91b95359249de37f8fe435b5f90ac20e1bbdc18005b507.pdf)
+- VZOR ZÁZNAM O VYSKLADNENÍ A ODOSLANÍ KOVOVEJ ORTUTI [príloha 13](../assets/cde5de5de8007861205a1a6cb4b923c62890f181e8bca650eb6bfa699a54b544.pdf)
 
 - Obchodné meno: Sídlo: Štatutárny orgán Meno a priezvisko zodpovednej osoby: Telefón: E-mail: Fax:
 

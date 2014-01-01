@@ -1,6 +1,6 @@
 Príloha č. 12 k vyhláške č. 310/2013 Z. z.
 
-- VZOR EVIDENČNÝ LIST ÚLOŽISKA KOVOVEJ ORTUTI [príloha 12](../assets/40a494810394db5dbe7a2b50e8a789336fee1b0cce03e37d1448353eff991883.pdf)
+- VZOR EVIDENČNÝ LIST ÚLOŽISKA KOVOVEJ ORTUTI [príloha 12](../assets/0dc33a24c86066bbf6396eb099f53dd9d32098557d1b88d43a0ca4c581e7386c.pdf)
 
 - Údaje o vyskladnení kovovej ortuti Množstvo vyskladnenej kovovej ortuti (v objemovej jednotke, v akej je uvedené množstvo uskladnenej kovovej ortuti): Identifikácia vyskladnených kontajnerov: Čísla záznamov o vyskladnení a odoslaní kovovej ortuti:
 
