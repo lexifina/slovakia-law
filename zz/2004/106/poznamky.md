@@ -42,9 +42,15 @@
 
 - 8b) § 15 ods. 5 zákona č. 563/2009 Z. z.
 
+- 8c) § 55 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- § 1 a 2 vyhlášky Ministerstva financií Slovenskej republiky č. 378/2011 Z. z. o spôsobe označovania platby dane.
+
 - 9) § 68 zákona č. 563/2009 Z. z.
 
-- 10) § 2 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 2606/2004-100 z 21. októbra 2004, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca tabakové výrobky (oznámenie č. 153/2005 Z. z.).
+- 10) § 15 zákona č. 335/2011 Z. z. o tabakových výrobkoch.
+
+- § 2 ods. 1 vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 212/2012 Z. z., ktorou sa upravujú tabakové výrobky.
 
 - 11) § 33 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
@@ -111,6 +117,10 @@
 - 25c) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 25d) § 67 zákona č. 563/2009 Z. z.
+
+- 25e) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
+
+- Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
 
 - 26) § 29 zákona č. 431/2002 Z. z.
 
