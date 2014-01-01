@@ -158,7 +158,7 @@
 
 - 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
-- 34) § 21 zákona č. 431/2002 Z. z. o účtovníctve.
+- 34) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 35) § 20 ods. 2 zákona č. 431/2002 Z. z.
 
@@ -190,7 +190,7 @@
 
 - 39) Zákon č. 431/2002 Z. z. Opatrenie Ministerstva financií Slovenskej republiky z 10. decembra 2002 č. 21 832/2002-92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní položiek individuálnej účtovnej závierky, obsahovom vymedzení týchto položiek a rozsahu údajov určených z účtovnej závierky na zverejnenie pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy (oznámenie č. 738/2002 Z. z.).
 
-- 40) Zákon č. 466/2002 Z. z.
+- 40) Zákon č. 540/2007 Z. z. v znení neskorších predpisov.
 
 - 41) § 2 ods. 1 písm. c) a § 15 ods. 5 písm. c) zákona č. 466/2002 Z. z.
 
