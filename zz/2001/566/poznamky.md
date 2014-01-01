@@ -234,6 +234,8 @@
 
 - 60a) § 19 ods. 1 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 60aa) § 23 zákona č. 431/2002 Z. z.
+
 - 60b) Článok 15 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 60c) Článok 9 nariadenia Komisie (ES) č. 1287/2006/ES.
