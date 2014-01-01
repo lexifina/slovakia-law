@@ -92,6 +92,10 @@
 
 - 24a) § 115 Občianskeho zákonníka.
 
+- 24aa) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24ab) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
 - 24b) § 19 ods. 2 písm. l) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 60/2009 Z. z.
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
@@ -126,6 +130,8 @@
 
 - 28d) Napríklad § 151j a 553c Občianskeho zákonníka.
 
+- 28da) Príloha I k nariadeniu Rady (EHS) č. 2658/87 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú.v. EÚ, kap. 2/zv. 2; Ú.v. ES L 256, 7. 9. 1987) v platnom znení.
+
 - 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 29) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
@@ -133,6 +139,8 @@
 - 29a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 29aa) § 5 zákona č. 563/2009 Z. z.
+
+- 29ab) § 2 písm. n) zákona č. 289/2008 Z. z.
 
 - 29b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 

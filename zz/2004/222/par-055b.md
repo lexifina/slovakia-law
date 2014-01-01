@@ -60,6 +60,6 @@
 
 (5) Ak je základ dane vo faktúre alebo dovoznom doklade 1 000 eur a viac alebo vo faktúre o kúpe pohonných látok 250 eur a viac, je žiadateľ povinný spolu so žiadosťou o vrátenie dane elektronickými prostriedkami predložiť kópiu faktúry alebo dovozného dokladu.
 
-(6) Údaje v žiadosti o vrátenie dane a ďalšie požadované informácie podľa § 55d ods. 1 a 2 uvádza žiadateľ v slovenskom jazyku.
+(6) Údaje v žiadosti o vrátenie dane a ďalšie požadované informácie podľa § 55d ods. 1 a 2 uvádza žiadateľ v slovenskom jazyku alebo v anglickom jazyku.
 
 (7) Ak sa žiadateľ dá zastupovať zástupcom, na zástupcu sa nevzťahuje ustanovenie osobitného predpisu.<sup>27bb</sup>)

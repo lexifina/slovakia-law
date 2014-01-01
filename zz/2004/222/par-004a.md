@@ -8,4 +8,4 @@
 
 (4) Organizačne spojenými zdaniteľnými osobami sú osoby, na ktorých riadení alebo kontrole sa podieľa aspoň jedna zhodná osoba.
 
-(5) Zdaniteľná osoba môže byť členom len jednej skupiny. Ak má zdaniteľná osoba, ktorá je členom skupiny, sídlo, miesto podnikania alebo prevádzkareň mimo tuzemska, nemôžu byť tieto jej časti mimo tuzemska súčasťou skupiny. Člen skupiny nemôže byť účastníkom zmluvy o združení podľa § 4 ods. 2. Členom skupiny nemôže byť zdaniteľná osoba, na ktorú je vyhlásený konkurz alebo ktorej je povolená reštrukturalizácia.
+(5) Zdaniteľná osoba môže byť členom len jednej skupiny. Ak má zdaniteľná osoba, ktorá je členom skupiny, sídlo, miesto podnikania alebo prevádzkareň mimo tuzemska, nemôžu byť tieto jej časti mimo tuzemska súčasťou skupiny. Členom skupiny nemôže byť zdaniteľná osoba, na ktorú je vyhlásený konkurz alebo ktorej je povolená reštrukturalizácia.
