@@ -6,6 +6,8 @@
 
 - 4) § 4 ods. 3 písm. e) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
+- 4a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
+
 - 5) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
 - 6) § 7 zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa.
