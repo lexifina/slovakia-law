@@ -152,6 +152,34 @@ Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a reg
 
 - zaznamenať bezodkladne do registra údaje o hlásení pobytu, ak má zabezpečený priamy vstup do registra alebo ak nemá zabezpečený priamy vstup do registra, doručiť bezodkladne údaje o hlásení pobytu príslušnému okresnému riaditeľstvu Policajného zboru, ktorý ich do registra zaznamená,“.
 
+- 19. Za § 10 sa vkladá § 10a, ktorý vrátane nadpisu znie:
+
+- „§ 10a
+
+- Centrálna ohlasovňa
+
+- (1)
+
+- Centrálna ohlasovňa je informačný systém verejnej správy, prostredníctvom ktorého občan môže hlásiť pobyt a žiadať potvrdenie o pobyte ohlasovňu, ktorá je pripojená na centrálnu ohlasovňu. Správcom centrálnej ohlasovne je ministerstvo. Ministerstvo zverejňuje zoznam ohlasovní pripojených na centrálnu ohlasovňu na svojom webovom sídle a na ústrednom portáli verejnej správy.
+
+- (2)
+
+- Ohlasovňa je povinná zmeny údajov o pobyte vykonané centrálnou ohlasovňou zaznamenať bezodkladne do svojej manuálnej evidencie a zaslať vyplnený odhlasovací lístok ohlasovni doterajšieho trvalého pobytu občana o skončení tohto pobytu, ak ide o ohlasovňu, ktorá nie je pripojená na centrálnu ohlasovňu.
+
+- (3)
+
+- Občan je povinný pri hlásení pobytu prostredníctvom centrálnej ohlasovne vyplniť požadované elektronické formuláre a podpísať ich zaručeným elektronickým podpisom. Vzor elektronických formulárov zverejní ministerstvo na svojom webovom sídle a na ústrednom portáli verejnej správy.
+
+- (4)
+
+- Podrobnosti a podmienky automatizovaného prístupu k údajom z centrálnej ohlasovne upravia vzájomnou dohodou ministerstvo a správca informačného systému verejnej správy vedeného v súlade so štandardmi podľa osobitného predpisu.<sup>5c</sup>)“.
+
+- Poznámka pod čiarou k odkazu 5c znie:
+
+- „5c)
+
+- Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 20. V § 11 písm. i) sa vypúšťa čiarka a slová „prípadne aj číslo bytu“ sa nahrádzajú slovami „a číslo bytu, ak sa dom člení na byty“.
 
 - 21. V § 11 písm. n) sa vypúšťajú slová „a údaj o poslednom trvalom pobyte“.
@@ -189,6 +217,188 @@ Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a reg
 - Doterajšie písmená c) až e) sa označujú ako písmená b) až d).
 
 - 31. V § 22a ods. 1 a 2 sa slová „Štátne orgány a ohlasovne“ nahrádzajú slovami „Štátne orgány, obce poverené viesť matriku a ohlasovne“.
+
+- 32. V § 23 sa vypúšťa odsek 1.
+
+- Doterajšie odseky 2 až 5 sa označujú ako odseky 1 až 4.
+
+- 33. V § 23 ods. 2 až 4 sa číslo „2“ nahrádza číslom „1“.
+
+- 34. Za § 23 sa vkladajú § 23a až 23c, ktoré vrátane nadpisu nad paragrafom znejú:
+
+- „Register fyzických osôb
+
+- § 23a
+
+- (1)
+
+- Register fyzických osôb je základný register verejnej správy, ktorý obsahuje súbor údajov o fyzických osobách podľa § 23b. Správcom registra fyzických osôb je ministerstvo.
+
+- (2)
+
+- Z registra fyzických osôb sa v rozsahu plnenia úloh podľa osobitných predpisov poskytujú údaje orgánom štátnej správy, súdom, obciam a vyšším územným celkom a iným orgánom verejnej moci, zdravotným poisťovniam, fyzickým osobám a právnickým osobám, ak im bola zverená pôsobnosť v oblasti verejnej správy podľa osobitných predpisov, ako aj iným členským štátom Európskej únie alebo tretím štátom, ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná.
+
+- (3)
+
+- Údaje o fyzických osobách vedené v registri fyzických osôb sa považujú za úplné a zodpovedajúce skutočnosti, kým nie je preukázaný opak. Proti osobe, ktorá sa v dobrej viere spolieha na údaje uvedené v registri fyzických osôb, nemôže iná osoba namietať, že tieto údaje nie sú úplné alebo nezodpovedajú skutočnosti.
+
+- § 23b
+
+- (1)
+
+- Register fyzických osôb obsahuje údaje o
+
+- a)
+
+- občanoch s trvalým pobytom na území Slovenskej republiky uvedené v § 15,
+
+- b)
+
+- občanoch, ktorí nemajú trvalý pobyt na území Slovenskej republiky, uvedené v § 16,
+
+- c)
+
+- cudzincoch prihlásených na pobyt na území Slovenskej republiky a o cudzincoch, ktorým bol udelený azyl na území Slovenskej republiky v rozsahu uvedenom v § 17,
+
+- d)
+
+- cudzincoch bez pobytu na území Slovenskej republiky evidovaných v informačných systémoch vedených podľa osobitného predpisu<sup>7</sup>) v tomto rozsahu:
+
+- 1.
+
+- meno,
+
+- 2.
+
+- priezvisko,
+
+- 3.
+
+- rodné priezvisko,
+
+- 4.
+
+- dátum narodenia,
+
+- 5.
+
+- miesto narodenia,
+
+- 6.
+
+- štát narodenia,
+
+- 7.
+
+- štátna príslušnosť,
+
+- 8.
+
+- pohlavie,
+
+- 9.
+
+- titul,
+
+- 10.
+
+- rodinný stav,
+
+- 11.
+
+- dátum úmrtia,
+
+- 12.
+
+- miesto úmrtia,
+
+- 13.
+
+- štát úmrtia,
+
+- 14.
+
+- adresa posledného známeho pobytu,
+
+- 15.
+
+- štát pobytu,
+
+- 16.
+
+- identifikátor fyzickej osoby.
+
+- (2)
+
+- Správca informačného systému verejnej správy<sup>8b</sup>) vkladá do registra fyzických osôb všetky údaje o cudzincoch bez pobytu na území Slovenskej republiky, ktoré vedie v informačnom systéme verejnej správy v rozsahu podľa odseku 1 písm. d), avšak najmenej v rozsahu
+
+- 1.
+
+- meno,
+
+- 2.
+
+- priezvisko,
+
+- 3.
+
+- pohlavie,
+
+- 4.
+
+- štát pobytu,
+
+- 5.
+
+- rok narodenia,
+
+- 6.
+
+- miesto narodenia a štát narodenia; ak takéto údaje nevedie, tak štátnu príslušnosť.
+
+- (3)
+
+- Ak správca informačného systému verejnej správy vo svojom informačnom systéme nevedie alebo nemá uvedený niektorý z údajov uvedených v odseku 2 alebo by poskytovanie údajov bolo v rozpore s iným osobitným predpisom,<sup>8c</sup>) údaje o takejto fyzickej osobe do registra fyzických osôb neposkytne.
+
+- § 23c
+
+- (1)
+
+- Údaje do registra fyzických osôb o cudzincoch bez pobytu na území Slovenskej republiky sú povinní poskytovať ministerstvu
+
+- a)
+
+- správcovia informačných systémov verejnej správy, ktorí ich vedú podľa tohto zákona a osobitných predpisov,<sup>8b</sup>)
+
+- b)
+
+- ostatné evidencie verejnej správy na základe dohody medzi prevádzkovateľom registra fyzických osôb a prevádzkovateľom informačného systému vedeného podľa osobitných predpisov.<sup>8b</sup>)
+
+- (2)
+
+- Údaje o fyzických osobách v rozsahu údajov podľa § 23b ods. 1 písm. a) až c) sa do registra fyzických osôb vkladajú z registra.
+
+- (3)
+
+- Fyzická osoba, o ktorej sa nevedie informácia v registri, môže požiadať o informáciu o svojich údajoch z registra fyzických osôb.
+
+- (4)
+
+- Podrobnosti a podmienky poskytovania údajov do registra fyzických osôb a prístupu k údajom z registra fyzických osôb upravia vzájomnou dohodou ministerstvo a správca informačného systému verejnej správy vedeného v súlade so štandardmi podľa osobitného predpisu.<sup>5c</sup>)
+
+- (5)
+
+- Povinnosti podľa odseku 1 sa nevzťahujú na informačné systémy verejnej správy, ktoré sa týkajú zabezpečenia obrany Slovenskej republiky, bezpečnosti Slovenskej republiky a utajovaných skutočností.“.
+
+- Poznámky pod čiarou k odkazom 8b a 8c znejú:
+
+- „8b)
+
+- § 3 ods. 1 a 2 zákona č. 275/2006 Z. z. v znení neskorších predpisov.
+
+- 8c)
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 767/2008 z 9. júla 2008 o vízovom informačnom systéme (VIS) a výmene údajov o krátkodobých vízach medzi členskými štátmi (nariadenie o VIS) (Ú. v. EÚ L 218, 13. 8. 2008) v platnom znení.“.
 
 - 35. V § 25 ods. 2 sa za slová „(§ 11)“ vkladá čiarka a slová „a do registra (§ 13)“ sa nahrádzajú slovami „do registra (§ 13) a do registra fyzických osôb (§ 23a)“.
 
