@@ -76,6 +76,8 @@
 
 - 23) § 3 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 277/2008 Z. z., ktorou sa ustanovujú klasifikačné znaky na ubytovacie zariadenia pri ich zaraďovaní do kategórií a tried.
 
+- 23a) § 2 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 453/2001 Z. z.
+
 - 24) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 450/2003 Z. z.
 
 - 25) § 2 písm. f) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. v znení neskorších predpisov.
