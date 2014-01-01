@@ -8,4 +8,6 @@
 
 (2) Cudzincovi, ktorému sa poskytla doplnková ochrana, vystaví policajný útvar doklad o pobyte podľa osobitného predpisu.<sup>6a</sup>)
 
-(3) Cudzinec, ktorému sa poskytla doplnková ochrana, môže byť počas poskytovania doplnkovej ochrany ubytovaný v zariadení ministerstva na ubytovanie cudzincov, ktorým sa poskytla doplnková ochrana, kde sa mu zabezpečí ubytovanie, stravovanie alebo stravné, základné hygienické potreby a vreckové; ak je takýto cudzinec v pracovnoprávnom vzťahu alebo má iný príjem najmenej vo výške 60 % životného minima pre jednu plnoletú osobu podľa osobitného predpisu,<sup>11ab</sup>) vreckové mu nepatrí a je povinný ministerstvu primerane uhrádzať výdavky spojené s jeho pobytom v tomto zariadení. Ministerstvo upraví vnútorným poriadkom podrobnosti o podmienkach pobytu cudzinca v zariadení ministerstva na ubytovanie cudzincov, ktorým sa poskytla doplnková ochrana; vo vnútornom poriadku ustanoví najmä časový rozvrh poskytovania stravy alebo stravného a výšku vreckového a časový rozvrh jeho výplaty.
+(3) Ministerstvo môže cudzinca, ktorému sa poskytla doplnková ochrana, na základe jeho písomnej žiadosti na nevyhnutný čas ubytovať v pobytovom tábore, kde je povinný primerane uhrádzať výdavky spojené s jeho pobytom.
+
+(4) Ministerstvo sa podieľa na vytváraní možností na začlenenie cudzincov, ktorým sa poskytla doplnková ochrana, do spoločnosti.

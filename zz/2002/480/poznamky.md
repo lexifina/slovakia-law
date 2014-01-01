@@ -68,18 +68,14 @@
 
 - 20a) Napríklad zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 221/2006 Z. z. o výkone väzby.
 
+- 20b) Nariadenie Komisie (ES) č. 1560/2003 z 2. septembra 2003, ktoré ustanovuje podrobné pravidlá na uplatňovanie nariadenia Rady (ES) č. 343/2003 ustanovujúceho kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej štátnym príslušníkom tretej krajiny v jednom z členských štátov (Mimoriadne vydanie Ú. v. EÚ kap.19/zv. 6) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 604/2013 z 26. júna 2013, ktorým sa stanovujú kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o medzinárodnú ochranu podanej štátnym príslušníkom tretej krajiny alebo osobou bez štátnej príslušnosti v jednom z členských štátov (prepracované znenie) (Ú. v. EÚ L 180, 29. 6. 2013).
+
 - 21) § 83 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 22a) Nariadenie Rady (ES) č. 343/2003 z 18. februára 2003 ustanovujúce kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej v členskom štáte príslušníkom tretej krajiny (Úradný vestník Európskej únie L 050, 25/02/2003).
-
-- Nariadenie Komisie (ES) č. 1560/2003 z 2. septembra 2003, ktorým sa ustanovujú podrobné pravidlá na uplatňovanie Nariadenia Rady (ES) č. 343/2003 ustanovujúce kritériá a mechanizmy na určenie členského štátu zodpovedného za posúdenie žiadosti o azyl podanej v členskom štáte príslušníkom tretej krajiny (Úradný vestník Európskej únie L 222, 05/09/2003).
-
-- Nariadenie Rady (ES) č. 2725/2000 z 11. decembra 2000 upravujúce zriadenie systému „EURODAC" na porovnávanie odtlačkov prstov na účinné uplatňovanie Dublinského dohovoru (Úradný vestník Európskych spoločenstiev L 316, 15/12/2000).
-
-- Nariadenie Rady (ES) č. 407/2002 z 28. februára 2002 ustanovujúce určité pravidlá na vykonávanie Nariadenia Rady (ES) č. 2725/2000 upravujúce zriadenie systému „EURODAC" na porovnávanie odtlačkov prstov na účinné uplatňovanie Dublinského dohovoru (Úradný vestník Európskych spoločenstiev L 062, 05/03/2002).
-
 - 22aa) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
-- 22b) Nariadenie Rady (ES) č. 343/2003 z 18. februára 2003 čl. 17 ods. 1 zmluvy o založení Európskeho spoločenstva.
+- 22b) Čl. 2 písm. a) nariadenia (EÚ) č. 604/2013.

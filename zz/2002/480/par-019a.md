@@ -12,7 +12,7 @@
 
 - e) či by bolo možné od žiadateľa odôvodnene očakávať využitie ochrany inej krajiny, v ktorej si mohol uplatniť svoje štátne občianstvo.
 
-(2) Skutočnosť, že žiadateľ už bol prenasledovaný alebo utrpel vážne bezprávie alebo bol vystavený priamym hrozbám prenasledovania alebo vážnemu bezpráviu, je dôležitým znakom opodstatnenosti obavy žiadateľa z prenasledovania alebo hrozby vážneho bezprávia, ak nie sú závažné dôvody domnievať sa, že prenasledovanie alebo vážne bezprávie sa už nebude opakovať.
+(2) Skutočnosť, že žiadateľ už bol prenasledovaný alebo utrpel vážne bezprávie alebo bol vystavený priamym hrozbám prenasledovania alebo vážneho bezprávia, je dôležitým znakom opodstatnenosti obavy žiadateľa z prenasledovania alebo hrozby vážneho bezprávia, ak nie sú závažné dôvody domnievať sa, že prenasledovanie alebo vážne bezprávie sa už nebude opakovať.
 
 (3) Ak žiadateľ nepodloží svoje vyhlásenia dôkazmi, ministerstvo pri posudzovaní žiadosti o udelenie azylu na to neprihliadne, ak
 
@@ -22,7 +22,7 @@
 
 - c) vyhlásenia žiadateľa sú súvislé a hodnoverné a nie sú v rozpore s dostupnými informáciami týkajúcimi sa jeho prípadu,
 
-- d) žiadateľ požiadal o udelenie azylu alebo o poskytnutie doplnkovej ochrany bezodkladne po vstupe na územie Slovenskej republiky alebo v prípade oprávneného pobytu na území Slovenskej republiky bezodkladne po tom, ako sa dozvedel o skutočnostiach odôvodňujúcich medzinárodnú ochranu a
+- d) žiadateľ požiadal o udelenie azylu alebo o poskytnutie doplnkovej ochrany bezodkladne po vstupe na územie Slovenskej republiky alebo preukázal primeraný dôvod, prečo tak neurobil, alebo v prípade oprávneného pobytu na území Slovenskej republiky požiadal o udelenie azylu alebo o poskytnutie doplnkovej ochrany bezodkladne po tom, ako sa dozvedel o skutočnostiach odôvodňujúcich medzinárodnú ochranu alebo preukázal primeraný dôvod, prečo tak neurobil, a
 
 - e) bola preukázaná všeobecná dôveryhodnosť žiadateľa.
 
@@ -38,10 +38,12 @@
 
 - e) skupina tvorí určitú sociálnu skupinu najmä vtedy, ak príslušníci skupiny zdieľajú vrodené charakteristické črty alebo spoločný pôvod, ktoré nemožno zmeniť, alebo zdieľajú charakteristiku alebo presvedčenie, ktoré sú tak závažné pre ich identitu alebo svedomie, že daná osoba by nemala byť nútená, aby sa ich zriekla a okolitou spoločnosťou je vnímaná ako odlišná; v závislosti od okolností v krajine pôvodu, určitá sociálna skupina môže predstavovať skupinu založenú na spoločnej charakteristickej črte sexuálnej orientácie, pričom túto orientáciu nemožno chápať tak, že zahŕňa činy považované za trestné podľa osobitného predpisu.<sup>7a</sup>)
 
-(5) Pri posudzovaní žiadosti o udelenie azylu sa neprihliada na to, či žiadateľ skutočne má rasové, náboženské, národnostné, sociálne alebo politické charakteristické črty, ktoré spôsobujú jeho prenasledovanie, ak sú mu prisudzované pôvodcom prenasledovania.
+(5) Na účely určenia príslušnosti k určitej sociálnej skupine alebo zisťovania charakteristík takejto skupiny podľa odseku 4 písm. e) sa prihliada na aspekty týkajúce sa rodu vrátane rodovej identity.
 
-(6) Ministerstvo pri posudzovaní žiadosti o udelenie azylu vychádza z toho, že ochrana pred prenasledovaním alebo vážnym bezprávím je v krajine pôvodu spravidla poskytovaná, keď štát, politické strany alebo politické hnutia alebo organizácie, ktoré ovládajú štát alebo podstatnú časť jeho územia, prijmú primerané opatrenia na zabránenie prenasledovaniu alebo vážnemu bezpráviu, najmä účinným právnym systémom na odhalenie, stíhanie a potrestanie činov predstavujúcich prenasledovanie alebo vážne bezprávie a žiadateľ má prístup k takej ochrane.
+(6) Pri posudzovaní žiadosti o udelenie azylu sa neprihliada na to, či žiadateľ skutočne má rasové, náboženské, národnostné, sociálne alebo politické charakteristické črty, ktoré spôsobujú jeho prenasledovanie, ak sú mu prisudzované pôvodcom prenasledovania.
 
-(7) Ministerstvo si na posúdenie žiadosti o udelenie azylu vyžiada vyjadrenie Slovenskej informačnej služby, ktorá svoje vyjadrenie zašle ministerstvu do desiatich dní od doručenia žiadosti; ministerstvo na ten účel umožní Slovenskej informačnej službe vstup do evidencií podľa § 48 ods. 1. Slovenská informačná služba je oprávnená na účely podania vyjadrenia spracúvať osobné údaje podľa § 48 ods. 1.
+(7) Ministerstvo pri posudzovaní žiadosti o udelenie azylu vychádza z toho, že ochrana pred prenasledovaním alebo vážnym bezprávím je v krajine pôvodu spravidla poskytovaná, keď štát, politické strany alebo politické hnutia alebo organizácie, ktoré ovládajú štát alebo podstatnú časť jeho územia, prijmú primerané opatrenia na zabránenie prenasledovaniu alebo vážnemu bezpráviu, najmä účinným právnym systémom na odhalenie, stíhanie a potrestanie činov predstavujúcich prenasledovanie alebo vážne bezprávie, pričom táto ochrana je účinná a nie je iba dočasná, a žiadateľ má prístup k takej ochrane; ak sa ochrana pred prenasledovaním neposkytne z dôvodu uvedeného v § 8 písm. a), považuje sa to za prenasledovanie z tohto dôvodu.
 
-(8) Posúdenie žiadosti o udelenie azylu vykoná poverený zamestnanec ministerstva s primeranými vedomosťami v oblasti azylu; v prípade maloletého bez sprievodu aj s primeranými vedomosťami o jeho osobitných potrebách.
+(8) Ministerstvo si na posúdenie žiadosti o udelenie azylu vyžiada vyjadrenie Slovenskej informačnej služby, ktorá svoje vyjadrenie zašle ministerstvu do desiatich dní od doručenia žiadosti; ministerstvo na ten účel umožní Slovenskej informačnej službe vstup do evidencií podľa § 48 ods. 1. Slovenská informačná služba je oprávnená na účely podania vyjadrenia spracúvať osobné údaje podľa § 48 ods. 1.
+
+(9) Posúdenie žiadosti o udelenie azylu vykoná poverený zamestnanec ministerstva s primeranými vedomosťami v oblasti azylu; v prípade maloletého bez sprievodu aj s primeranými vedomosťami o jeho osobitných potrebách.

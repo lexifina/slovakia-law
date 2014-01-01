@@ -23,3 +23,5 @@
 (2) Ak bola doplnková ochrana poskytnutá podľa § 13a zrušená, nepredĺžená alebo zanikla podľa odseku 1 písm. c), h) alebo písm. i), táto ochrana zaniká aj cudzincovi, ktorému sa poskytla na účel zlúčenia rodiny.
 
 (3) Ak cudzinec, ktorému sa poskytla doplnková ochrana, písomne vyhlási, že sa jej vzdáva, táto ochrana zaniká dňom doručenia vyhlásenia ministerstvu.
+
+(4) Doplnková ochrana poskytnutá podľa § 13b zaniká aj poskytnutím doplnkovej ochrany podľa § 13a.
