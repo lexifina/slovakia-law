@@ -774,6 +774,8 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 
 - 64. V § 42 ods. 7 sa vypúšťa veta „Komisia bezodkladne oznámi verejnému obstarávateľovi a obstarávateľovi zoznam vylúčených ponúk s uvedením dôvodu ich vylúčenia.“.
 
+- 65. V § 43 ods. 1 sa slová „elektronické zariadenia“ nahrádzajú slovami „elektronické zariadenia certifikované podľa § 116“.
+
 - 66. V § 43 odsek 3 znie:
 
 - „(3)
@@ -1981,6 +1983,10 @@ Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektor�
 - (9)
 
 - Úrad certifikáciu zruší aj z vlastnej iniciatívy, ak zistí nesúlad medzi certifikovaným dokumentom, prostriedkom, postupom alebo činnosťou a týmto zákonom.
+
+- (10)
+
+- Elektronickú aukciu je možné uskutočňovať len prostredníctvom certifikovaného systému na uskutočnenie elektronickej aukcie.
 
 - § 117
 
