@@ -1,0 +1,1 @@
+- 1) § 17 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
