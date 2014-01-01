@@ -6,6 +6,8 @@
 
 - 2aa) § 10 ods. 2 a § 11b ods. 3 zákona č. 219/2006 Z. z. o protikomunistickom odboji v znení zákona č. 58/2009 Z. z.
 
+- 2ab) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
 - 2b) Napríklad § 136 Zákonníka práce.
 
 - 3) § 20 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
