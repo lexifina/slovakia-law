@@ -10,6 +10,8 @@
 
 - 6) § 2 písm. a) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 6a) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
 - 7) § 20 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 68/2005 Z. z.
 
 - 8) Nariadenie Európskeho parlamentu a Rady (ES) č. 1211/2009 z 25. novembra 2009, ktorým sa zriaďuje Orgán európskych regulátorov pre elektronické komunikácie (BEREC) a jeho úrad. (Ú. v. EÚ L 337, 18. 12. 2009).
@@ -20,11 +22,7 @@
 
 - 11) Napríklad § 68 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
-- 12) § 21 ods. 1 a 7 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 13) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 14) § 61 ods. 2 až 4 zákona č. 400/2009 Z. z.
+- 11a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 15) § 17 až 20 Obchodného zákonníka.
 
@@ -83,6 +81,8 @@
 - § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
 - 39) Napríklad zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
+
+- 39a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 40) § 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
