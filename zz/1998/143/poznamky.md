@@ -4,6 +4,8 @@
 
 - 1a) § 179 Trestného zákona.
 
+- 1aa) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
 - 1b) § 180a Trestného zákona.
 
 - 1c) § 180c Trestného zákona.
@@ -29,6 +31,32 @@
 - 3) § 6 ods. 2 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 3a) § 36 ods. 2 zákona č. 610/2003 Z. z.
+
+- 3aa) Dohovor o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
+
+- Príloha III nariadenia Komisie (ES) č. 2042/2003 z 20. novembra 2003 o zachovaní letovej spôsobilosti lietadiel a leteckých výrobkov, častí a zariadení a o schvaľovaní organizácií a personálu zapojených do týchto činností (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 7; Ú. v. EÚ L 315, 28. 11. 2003) v platnom znení.
+
+- Čl. 7 a 8c nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 z 20. februára 2008 o spoločných pravidlách v oblasti civilného letectva a o zriadení Európskej agentúry pre bezpečnosť letectva, ktorým sa zrušuje smernica Rady 91/670/EHS, nariadenie (ES) č. 1592/2002 a smernica 2004/36/ES (Ú. v. EÚ L 79, 19. 03. 2008) v platnom znení.
+
+- Nariadenie Komisie (EÚ) č. 805/2011 z 10. augusta 2011, ktorým sa ustanovujú podrobné pravidlá udeľovania preukazov spôsobilosti a niektorých osvedčení riadiacich letovej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 206, 11. 08. 2011).
+
+- Príloha I nariadenia Komisie (EÚ) č. 1178/2011 z 3. novembra 2011, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa posádky civilného letectva podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 311, 25. 11. 2011) v platnom znení.
+
+- 3ab) Čl. 7 a 8c nariadenia (ES) č. 216/2008 v platnom znení.
+
+- Čl. 15 až 17 nariadenia (EÚ) č. 805/2011.
+
+- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
+
+- 3b) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolenia, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+
+- 3c) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3d) Čl. 7 a 8c, príloha III a príloha Vb nariadenia (ES) č. 216/2008 v platnom znení.
+
+- Čl. 15 až 17 nariadenia (EÚ) č. 805/2011.
+
+- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
 - 4) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -110,6 +138,8 @@
 
 - 11bd) Čl. 4 nariadenia Európskeho parlamentu a Rady (ES) č. 549/2004 z 10. marca 2004, ktorým sa stanovuje rámec na vytvorenie jednotného európskeho neba (rámcové nariadenie) (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 8; Ú. v. EÚ L 96, 31. 3. 2004) v platnom znení.
 
+- 11be) Napríklad nariadenie (ES) č. 2042/2003 v platnom znení, nariadenie (ES) č. 216/2008 v platnom znení, nariadenie (EÚ) č. 805/2011, nariadenie (EÚ) č. 1178/2011 v platnom znení, nariadenie Komisie (EÚ) č. 748/2012 z 3. augusta 2012 stanovujúce vykonávacie pravidlá osvedčovania letovej spôsobilosti a environmentálneho osvedčovania lietadiel a prislúchajúcich výrobkov, častí a zariadení, ako aj osvedčovania projekčných a výrobných organizácií (prepracované znenie) (Ú. v. EÚ L 224, 21. 08. 2012) v platnom znení, vykonávacie nariadenie Komisie (EÚ) č. 923/2012 z 26. septembra 2012, ktorým sa stanovujú spoločné pravidlá lietania a prevádzkové ustanovenia týkajúce sa služieb a postupov v letovej prevádzke a ktorým sa mení a dopĺňa vykonávacie nariadenie (EÚ) č. 1035/2011 a nariadenia (ES) č. 1265/2007, (ES) č. 1794/2006, (ES) č. 730/2006, (ES) č. 1033/2006 a (EÚ) č. 255/2010 (Ú. v. EÚ L 281, 13. 10. 2012), nariadenie Komisie (EÚ) č. 965/2012 z 5. októbra 2012, ktorým sa ustanovujú technické požiadavky a administratívne postupy týkajúce sa leteckej prevádzky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 216/2008 (Ú. v. EÚ L 296, 25. 10. 2012) v platnom znení.
+
 - 11c) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 1592/2002 z 15. júla 2002 o spoločných pravidlách v oblasti civilného letectva a zriadení Európskej agentúry pre bezpečnosť letectva (EASA) (Úradný vestník Európskych spoločenstiev L 240, 07. 09. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1643/2003 z 22. júla 2003 (Úradný vestník Európskej únie L 245, 29. 09. 2003), nariadenie Európskeho parlamentu a Rady (ES) č. 2320/2002 zo 16. decembra 2002 o ustanovení spoločných pravidiel v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskych spoločenstiev L 355, 30. 12. 2002) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 849/2004 z 29. apríla 2004 (Úradný vestník Európskej únie L 158, 30. 04. 2004), nariadenie Komisie (ES) č. 622/2003 zo 4. apríla 2003 o ustanovení opatrení na vykonávanie spoločných základných noriem bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 10, 16. 01. 2004) v znení nariadenia Komisie (ES) č. 68/2004 z 15. januára 2004 (Úradný vestník Európskej únie L 10, 16. 01. 2004).
 
 - 11d) Napríklad nariadenie Komisie (ES) č. 1486/2003 z 22. augusta 2003, ustanovujúce postupy pre vykonávanie inšpekcií Komisie v oblasti bezpečnostnej ochrany civilného letectva (Úradný vestník Európskej únie L 213, 23. 08. 2003).
@@ -117,6 +147,12 @@
 - 11e) Čl. 5 ods. 2 nariadenia Komisie (ES) č. 1794/2006 zo 6. decembra 2006, ktorým sa stanovuje spoločný systém spoplatňovania leteckých navigačných služieb (Ú. v. EÚ L 341, 7. 12. 2006).
 
 - 11f) § 23 ods. 1 a 2 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11g) Čl. 20, 21, 22a, 22b, 23 a 55 nariadenia (ES) č. 216/2008 v platnom znení.
+
+- 11h) Čl. 15 a 16 nariadenia (EÚ) č. 805/2011.
+
+- Príloha IV nariadenia (EÚ) č. 1178/2011 v platnom znení.
 
 - 12) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 

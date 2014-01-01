@@ -46,7 +46,7 @@
 
 - k) z iných dôvodov neposkytuje záruku, že bude pri výkone bezpečnostnej ochrany dodržiavať právne predpisy a plniť povinnosti vyplývajúce z rozhodnutí a iných opatrení vydaných podľa tohto zákona.
 
-(5) Spoľahlivosť posudzuje letecký úrad na základe žiadosti zamestnávateľa člena personálu bezpečnostnej ochrany. Letecký úrad si na posúdenie spoľahlivosti vyžiada vyjadrenie Policajného zboru. Okrem údajov zo svojich evidencií Policajný zbor v prípade potreby vykonáva aj previerky v mieste bydliska o spoľahlivosti člena personálu bezpečnostnej ochrany a previerky prostredia, v ktorom žije. O vyjadrenie môže letecký úrad požiadať aj iný štátny orgán alebo obec, v ktorej sa žiadateľ zdržiava alebo sa v posledných piatich rokoch zdržiaval. Policajný zbor, štátny orgán a obec sú povinné žiadosti leteckého úradu o vyjadrenie vyhovieť v lehote 30 dní od jej doručenia.
+(5) Spoľahlivosť posudzuje Dopravný úrad na základe žiadosti zamestnávateľa člena personálu bezpečnostnej ochrany. Dopravný úrad si na posúdenie spoľahlivosti vyžiada vyjadrenie Policajného zboru. Okrem údajov zo svojich evidencií Policajný zbor v prípade potreby vykonáva aj previerky v mieste bydliska o spoľahlivosti člena personálu bezpečnostnej ochrany a previerky prostredia, v ktorom žije. O vyjadrenie môže Dopravný úrad požiadať aj iný štátny orgán alebo obec, v ktorej sa žiadateľ zdržiava alebo sa v posledných piatich rokoch zdržiaval. Policajný zbor, štátny orgán a obec sú povinné žiadosti Dopravného úradu o vyjadrenie vyhovieť v lehote 30 dní od jej doručenia.
 
 (6) Bezúhonnosť a spoľahlivosť sa overuje raz za päť rokov.
 
@@ -54,8 +54,6 @@
 
 (8) Odbornú prípravu z bezpečnostnej ochrany vykonávajú fyzické osoby alebo právnické osoby akreditované ministerstvom. Subjekty bezpečnostnej ochrany môžu pre vlastnú potrebu vykonávať odbornú prípravu z bezpečnostnej ochrany na základe povolenia ministerstva.
 
-(9) Zdravotnú spôsobilosť člena personálu bezpečnostnej ochrany môžu posudzovať len zdravotnícke zariadenia a lekári poverení ministerstvom.
+(9) Ustanovenia odsekov 3, 4 a 7 sa primerane vzťahujú aj na členov posádok lietadiel a na osoby, u ktorých si plnenie osobitných pracovných úloh vyžaduje vstup do vyhradených bezpečnostných priestorov na letisku.
 
-(10) Ustanovenia odsekov 3, 4 a 7 sa primerane vzťahujú aj na členov posádok lietadiel a na osoby, u ktorých si plnenie osobitných pracovných úloh vyžaduje vstup do vyhradených bezpečnostných priestorov na letisku.
-
-(11) Podrobnosti o kategorizácii a rozdelení personálu bezpečnostnej ochrany podľa jednotlivých odborností, o rozsahu odbornej prípravy pre jednotlivé odbornosti a o rozsahu odbornej prípravy členov posádok lietadiel a iných osôb, o pravidelnom opakovaní odbornej prípravy, o udeľovaní akreditácií a povoľovaní odbornej prípravy pre vlastnú potrebu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+(10) Podrobnosti o kategorizácii a rozdelení personálu bezpečnostnej ochrany podľa jednotlivých odborností, o rozsahu odbornej prípravy pre jednotlivé odbornosti a o rozsahu odbornej prípravy členov posádok lietadiel a iných osôb, o pravidelnom opakovaní odbornej prípravy, o udeľovaní akreditácií a povoľovaní odbornej prípravy pre vlastnú potrebu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.

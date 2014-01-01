@@ -2,13 +2,13 @@
 
 Ministerstvo obrany a ministerstvo vnútra v rozsahu svojej pôsobnosti
 
-- a) vydáva preukazy odbornej spôsobilosti posádok štátnych lietadiel a ostatného personálu, ktorí plnia počas letu alebo pri jeho príprave osobitné pracovné úlohy, a overuje ich odbornú spôsobilosť a zabezpečuje posudzovanie ich zdravotnej spôsobilosti; pritom je povinné spolupracovať s leteckým úradom pri posudzovaní ich schopnosti vykonávať lety alebo činnosti podľa pravidiel platných pre civilné letectvo,
+- a) vydáva preukazy odbornej spôsobilosti posádok štátnych lietadiel a ostatného personálu, ktorí plnia počas letu alebo pri jeho príprave osobitné pracovné úlohy, a overuje ich odbornú spôsobilosť a zabezpečuje posudzovanie ich zdravotnej spôsobilosti; pritom je povinné spolupracovať s Dopravným úradom pri posudzovaní ich schopnosti vykonávať lety alebo činnosti podľa pravidiel platných pre civilné letectvo,
 
 - b) kontroluje doklady a činnosť členov leteckého personálu štátnych lietadiel,
 
 - c) posudzuje odbornú spôsobilosť personálu zabezpečujúceho riadenie letov štátnych lietadiel a poskytovanie letových prevádzkových služieb vo vyhradenom, obmedzenom alebo zakázanom vzdušnom priestore,
 
-- d) overuje typovú spôsobilosť štátnych lietadiel a ich súčastí a použiteľnosť výrobkov leteckej techniky, vydáva typové osvedčenia štátnych lietadiel a dáva súhlas na zmenu konštrukcie a výstroja štátneho lietadla v prevádzke; pritom je povinné spolupracovať s leteckým úradom pri posudzovaní vplyvu na bezpečnosť vykonávania letov civilných lietadiel,
+- d) overuje typovú spôsobilosť štátnych lietadiel a ich súčastí a použiteľnosť výrobkov leteckej techniky, vydáva typové osvedčenia štátnych lietadiel a dáva súhlas na zmenu konštrukcie a výstroja štátneho lietadla v prevádzke; pritom je povinné spolupracovať s Dopravným úradom pri posudzovaní vplyvu na bezpečnosť vykonávania letov civilných lietadiel,
 
 - e) vydáva osvedčenia letovej spôsobilosti štátneho lietadla,
 
