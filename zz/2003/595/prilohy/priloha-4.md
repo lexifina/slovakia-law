@@ -24,4 +24,4 @@ Príloha č. 4 k zákonu č. 595/2003 Z. z.
 
   - Aruba
 
-  - Holandské Antily.
+  - Sint Maarten, Curaçao, Bonaire, Sint Eustatius, Saba.

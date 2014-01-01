@@ -84,6 +84,8 @@
 
 - 32) § 100 Obchodného zákonníka.
 
+- 33) § 10 ods. 1 písm. a) až d) zákona č. 431/2002 Z. z. v znení zákona č. 198/2007 Z. z.
+
 - 34) § 69 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 331/2011 Z. z.
 
 - 35) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
@@ -99,6 +101,8 @@
 - 37ab) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
 - 37ac) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
+- 37ad) § 22 ods. 5 zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
 
 - 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
@@ -206,6 +210,8 @@
 
 - 64) Napríklad zákon č. 235/1998 Z. z. v znení neskorších predpisov, zákon č. 238/1998 Z. z. v znení neskorších predpisov, zákon č. 280/2002 Z. z. v znení neskorších predpisov, zákon č. 600/2003 Z. z. v znení zákona č. 485/2004 Z. z.
 
+- 65) § 19 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
+
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 67) § 2 ods. 1 Obchodného zákonníka.
@@ -250,6 +256,8 @@
 
 - 78) § 21a zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení zákona č. 511/2002 Z. z.
 
+- 78a) § 369c Obchodného zákonníka v znení zákona č. 9/2013 Z. z.
+
 - 79) Napríklad § 369 Obchodného zákonníka.
 
 - 80) Napríklad § 664 až 669 Občianskeho zákonníka.
@@ -260,9 +268,15 @@
 
 - 80aa) § 37 ods. 20 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 374 /2010 Z. z.
 
+- 80ab) § 87a zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
 - 80b) § 16 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
+
+- 80d) § 53c ods. 1 písm. a) zákona č. 563/2009 Z. z. v znení zákona č. 435/2013 Z. z.
+
+- 80e) § 53c ods. 1 písm. b) zákona č. 563/2009 Z. z. v znení zákona č. 435/2013 Z. z.
 
 - 81) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
@@ -456,11 +470,23 @@
 
 - 136ad) § 1 zákona Národnej rady Slovenskej republiky č. 13/1993 Z. z. o umeleckých fondoch.
 
+- 136ae) § 7 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+
+- 136af) § 34 ods. 1 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
+
+- 136bb) § 6 ods. 4 zákona č. 479/2009 Z. z.
+
+- 136bc) Vyhláška Štatistického úradu Slovenskej republiky č. 358/2011 Z. z., ktorou sa vydáva Program štátnych štatistických zisťovaní na roky 2012 až 2014 v znení neskorších predpisov.
+
+- 136bd) § 55 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
+
 - 136c) Napríklad § 66ba zákona č. 455/1991 Zb. v znení neskorších predpisov, § 10 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 136d) § 2 ods. 1 a 2 Obchodného zákonníka.
 
 - 136e) § 45a ods. 2 a § 66ba ods. 3 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 136f) § 3 ods. 1 zákona č. 406/2011 Z. z.
 
 - 137) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
 
@@ -490,7 +516,7 @@
 
 - 146ab) § 37 a 38 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 146ac) § 13 ods. 1 písm. b) zákona č. 572/2004 Z. z. v znení zákona č. 117/2007 Z. z.
+- 146ac) § 35a až 41c zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 146ad) § 12 ods. 1 zákona č. 572/2004 Z. z.
 
@@ -511,3 +537,5 @@
 - 151) § 10 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 152) § 123ac zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
+
+- 153) § 14 až 17 zákona č. 530/1990 Z. z. v znení neskorších predpisov.
