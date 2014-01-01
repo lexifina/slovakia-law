@@ -38,12 +38,10 @@
 
 - 19) § 2 zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
-- 20) § 3, 7 a 8 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
-
 - 21) § 31 ods. 2 písm. x) zákona č. 251/2012 Z. z.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 23) § 4 ods. 1 zákona č. 324/2011 Z. z.
+- 23) § 4 ods. 1 a § 29 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
 
 - 24) Napríklad § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
