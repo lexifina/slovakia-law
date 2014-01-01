@@ -6,7 +6,7 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 4) Nariadenie vlády Slovenskej republiky č. 100/1993 Z. z. o Obchodnom vestníku.
+- 4) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
 - 5) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
