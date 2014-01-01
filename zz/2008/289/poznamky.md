@@ -26,13 +26,15 @@
 
 - 14) § 67 ods. 9 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
-- 14a) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
-
 - 14b) § 66 ods. 10 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty.
 
 - 15) § 3 ods. 4 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 520/2003 Z. z.
 
 - 16) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 16a) § 51 zákona č. 563/2009 Z. z. v znení zákona č. 440/2012 Z. z.
+
+- 16b) § 57 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 17) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -40,7 +42,17 @@
 
 - 18a) § 58 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 18b) § 19 zákona č. 563/2009 Z. z.
+
+- 18c) § 31 zákona č. 563/2009 Z. z. v znení zákona č. 440/2012 Z. z.
+
+- 18d) Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
+
 - 19) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 20) § 37 až 39 a § 44 až 47 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 21) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
@@ -53,3 +65,5 @@
 - 25) § 35 ods. 8 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 26) § 35 ods. 8 až 14 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
+
+- 26a) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.

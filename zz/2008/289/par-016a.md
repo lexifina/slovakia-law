@@ -1,67 +1,87 @@
-# § 16a Iné správne delikty
+# § 16a Správne delikty
 
 Správneho deliktu sa dopustí ten, kto
 
-- a) nepoužil elektronickú registračnú pokladnicu na evidenciu tržby alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou, ktorý nie je pokladničným dokladom,
+- a) nepoužil elektronickú registračnú pokladnicu na evidenciu tržby podľa § 3 ods. 1 alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou, ktorý nie je pokladničným dokladom,
 
 - b) svojím zásahom vyradí elektronickú registračnú pokladnicu z prevádzky,
 
-- c) používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 3,
+- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 3,
 
-- d) nevydá paragón podľa § 10 ods. 4,
+- d) neodovzdá paragón podľa § 10 ods. 4,
 
-- e) zaeviduje tržbu v elektronickej registračnej pokladnici, ale nevydá pokladničný doklad podľa § 8 ods. 1 a 2,
+- e) zaeviduje tržbu v elektronickej registračnej pokladnici, ale neodovzdá pokladničný doklad podľa § 8 ods. 1 a 2,
 
-- f) vydá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1 a 2 alebo § 10 ods. 4,
+- f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1 a 2 alebo § 10 ods. 4,
 
 - g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. zc),
 
-- h) nezaeviduje v elektronickej registračnej pokladnici hotovosť podľa § 3 ods. 3,
+- h) nezaeviduje v elektronickej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3,
 
-- i) nepoužíva elektronickú registračnú pokladnicu na všetkých predajných miestach podľa § 3 ods. 4,
+- i) nepostupuje v súlade s § 3 ods. 4,
 
-- j) nezabezpečí vykonanie povinnej údržby elektronickej registračnej pokladnice podľa § 4 ods. 7,
+- j) nepoužíva elektronickú registračnú pokladnicu v súlade s § 3 ods. 6,
 
-- k) neoznačí tovar alebo službu podľa § 8 ods. 3,
+- k) nezabezpečí vykonanie povinnej údržby elektronickej registračnej pokladnice podľa § 4 ods. 7,
 
-- l) nevydá pokladničný doklad alebo paragón podľa § 8 ods. 4,
+- l) nesplní povinnosť podľa § 4 ods. 9,
 
-- m) nesplní povinnosť podľa § 9,
+- m) neoznačí tovar alebo službu podľa § 8 ods. 3,
 
-- n) nenahlási servisnej organizácii poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1 alebo poškodenie alebo chýbanie plomby podľa § 4 ods. 8,
+- n) neodovzdá kupujúcemu pokladničný doklad alebo paragón podľa § 8 ods. 4,
 
-- o) nezaeviduje v elektronickej registračnej pokladnici údaje z vyhotovených paragónov v lehote podľa § 10 ods. 5,
+- o) nesplní povinnosť podľa § 8 ods. 5,
 
-- p) neuchová fiskálnu pamäť v lehote podľa § 11 ods. 2,
+- p) nesplní povinnosť podľa § 9,
 
-- q) nevyhotoví dennú uzávierku alebo intervalovú uzávierku alebo prehľadovú uzávierku podľa § 12 ods. 1,
+- q) nenahlási servisnej organizácii poškodenie alebo chýbanie plomby podľa § 4 ods. 8 alebo poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1,
 
-- r) nevedie knihu elektronickej registračnej pokladnice podľa § 13,
+- r) nezaeviduje v elektronickej registračnej pokladnici údaje z vyhotovených paragónov v lehote podľa § 10 ods. 5,
 
-- s) nedodrží postup pri zmene vlastníka elektronickej registračnej pokladnice podľa § 14,
+- s) neuchová fiskálnu pamäť v lehote podľa § 11 ods. 2,
 
-- t) neoznámi ukončenie prevádzky elektronickej registračnej pokladnice v lehote podľa § 15 ods. 2,
+- t) nevyhotoví dennú uzávierku, intervalovú uzávierku alebo prehľadovú uzávierku alebo nedodrží postup podľa § 12,
 
-- u) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 10 ods. 1alebo 3,
+- u) nevedie knihu elektronickej registračnej pokladnice podľa § 13,
 
-- v) nezabezpečí vykonanie opravy elektronickej registračnej pokladnice v lehote podľa § 5 ods. 2 písm. a),
+- v) nedodrží postup pri zmene vlastníka elektronickej registračnej pokladnice podľa § 14,
 
-- w) nevedie evidenciu plomb podľa § 5 ods. 2 písm. b),
+- w) neoznámi ukončenie prevádzky elektronickej registračnej pokladnice podľa § 15 ods. 2,
 
-- x) neoznámi daňovému úradu zistenie poškodenia plomby alebo chýbanie plomby, alebo zmeny údajov uložených v elektronickej registračnej pokladnici, alebo odchýlky od elektronickej registračnej pokladnice certifikovanej akreditovanou osobou podľa § 5 ods. 2 písm. c),
+- x) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 10 ods. 1 alebo ods. 3,
 
-- y) nezabezpečí výmenu poškodenej plomby alebo doplnenie chýbajúcej plomby podľa § 5 ods. 2 písm. d),
+- y) neuvedie informáciu o umiestnení plomb podľa § 4 ods. 2 písm. b) pätnásteho bodu,
 
-- z) neoznámi v ustanovenej lehote zmenu skutočností podľa § 6 ods. 5,
+- z) nesplní povinnosť podľa § 4 ods. 6 alebo § 18c ods. 4,
 
-- aa) neoznačí elektronickú registračnú pokladnicu plombou podľa § 7 ods. 5,
+- aa) neodovzdá certifikát elektronickej registračnej pokladnice alebo fiskálnej tlačiarne podľa § 7 ods. 1 písm. b),
 
-- ab) predá alebo iným spôsobom odovzdá inej fyzickej osobe alebo právnickej osobe plomby podľa § 16 ods. 4,
+- ab) nedodrží postup uloženia údajov podľa § 11 ods. 4 alebo § 15 ods. 3,
 
-- ac) neodovzdá daňovému úradu servisnej organizácie poškodené plomby alebo z iného dôvodu nepoužiteľné plomby alebo nedodrží postup pri zúčtovaní odberu alebo použitia prevzatých plomb s daňovým úradom servisnej organizácie podľa § 16 ods. 5, 6 alebo 7,
+- ac) nezabezpečí vykonanie opravy elektronickej registračnej pokladnice v lehote podľa § 5 ods. 2 písm. a),
 
-- ad) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 a 3 alebo § 15 ods. 1,
+- ad) nevedie evidenciu plomb podľa § 5 ods. 2 písm. b),
 
-- ae) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6,
+- ae) neoznámi daňovému úradu zistenie poškodenia plomby alebo chýbanie plomby, zmeny údajov uložených v elektronickej registračnej pokladnici alebo odchýlky od elektronickej registračnej pokladnice certifikovanej akreditovanou osobou podľa § 5 ods. 2 písm. c),
 
-- af) v rozpore s týmto zákonom zmení údaje v elektronickej registračnej pokladnici alebo v kontrolnom zázname.
+- af) nezabezpečí výmenu poškodenej plomby alebo doplnenie chýbajúcej plomby podľa § 5 ods. 2 písm. d),
+
+- ag) neoznámi v ustanovenej lehote zmenu skutočností podľa § 6 ods. 5,
+
+- ah) neoznačí elektronickú registračnú pokladnicu plombou podľa § 7 ods. 5,
+
+- ai) predá alebo iným spôsobom odovzdá inej fyzickej osobe alebo právnickej osobe plomby podľa § 16 ods. 4,
+
+- aj) neodovzdá daňovému úradu poškodené plomby alebo z iného dôvodu nepoužiteľné plomby alebo nedodrží postup pri zúčtovaní odberu alebo použitia prevzatých plomb s daňovým úradom podľa § 16 ods. 5, 6 alebo ods. 7,
+
+- ak) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 až 4 alebo § 15 ods. 1 a 4,
+
+- al) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6,
+
+- am) v rozpore s týmto zákonom umožní zmeniť alebo zmení údaje v elektronickej registračnej pokladnici alebo v kontrolnom zázname,
+
+- an) uvedie do prevádzky alebo umožní používať elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa tohto zákona,
+
+- ao) poruší zákaz predávať tovar alebo poskytovať službu na predajnom mieste podľa § 16b ods. 7,
+
+- ap) neukončí prevádzku elektronickej registračnej pokladnice podľa § 15 ods. 5,

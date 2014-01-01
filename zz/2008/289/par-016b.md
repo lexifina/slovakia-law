@@ -1,53 +1,49 @@
-# § 16b Pokuty
+## Pokuty
+
+# § 16b
 
 (1) Daňový úrad alebo colný úrad uloží pokutu za správny delikt podľa
 
-- a) § 16a písm. a) až d) od 330 eur do 3 300 eur,
+- a) § 16a písm. a) až f), j), s) a t) od 330 eur do 3 300 eur,
 
-- b) § 16a písm. e) a f) od 30 eur do 330 eur,
+- b) § 16a písm. g) až i), k) až n), p) až r) a u) až x) od 100 eur do 3 300 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
-- c) § 16a písm. g) až u) od 30 do 3 300 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici okrem prijatej tržby (§ 3 ods. 3) nepresiahne sumu 20 eur,
+- c) § 16a písm. o) od 50 eur do 330 eur,
 
-- d) § 16a písm. af) 2 000 eur.
+- d) § 16a písm. am) a ap) 2 000 eur,
 
-(2) Daňový úrad servisnej organizácie uloží pokutu za správny delikt podľa
+- e) § 16a písm. ao) od 10 000 eur do 40 000 eur.
 
-- a) § 16a písm. v) až ad) od 30 eur do 3 300 eur,
+(2) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
 
-- b) § 16a písm. ae) od 160 eur do 1 600 eur,
+- a) § 16a písm. a) až f), j), s) a t) od 660 eur do 6 600 eur,
 
-- c) § 16a písm. af) 2 000 eur.
+- b) § 16a písm. g) až i), k) až n), p) až r) a u) až x) od 200 eur do 6 600 eur; pokutu za správny delikt podľa § 16a písm. h) daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici okrem prijatej tržby podľa § 3 ods. 3 nepresiahne sumu 20 eur,
 
-(3) Daňový úrad alebo colný úrad uloží pokutu pri každom ďalšom zistení porušenia podľa
+- c) § 16a písm. o) od 100 eur do 660 eur,
 
-- a) § 16a písm. a) až d) od 660 eur do 6 600 eur,
+- d) § 16a písm. am) a ap) 4 000 eur.
 
-- b) § 16a písm. e) a f) od 160 eur do 1 600 eur,
+(3) Pokuty podľa odsekov 1 a 2 sa ukladajú na mieste rozhodnutím.
 
-- c) § 16a písm. g) až u) od 60 eur do 6 600 eur; pokutu za správny delikt podľa § 16a písm. h) pri každom ďalšom zistení porušenia daňový úrad alebo colný úrad neuloží, ak daňovým úradom alebo colným úradom zistená celková suma vloženej hotovosti v elektronickej registračnej pokladnici okrem prijatej tržby (§ 3 ods. 3) nepresiahne sumu 20 eur,
+(4) Rozhodnutie o uložení pokuty na mieste podľa odseku 3 sa odovzdá osobe, s ktorou sa o zistení porušenia tohto zákona spísala zápisnica o ústnom pojednávaní;<sup>18b</sup>) takéto odovzdanie sa považuje za doručenie podnikateľovi do vlastných rúk podľa osobitného predpisu,<sup>18c</sup>) a to aj ak osoba, s ktorou bola spísaná zápisnica o ústnom pojednávaní,<sup>18b</sup>) odmietne rozhodnutie o uložení pokuty na mieste prevziať. Proti rozhodnutiu o uložení pokuty na mieste možno podať odvolanie, ktoré nemá odkladný účinok. Pokuta je splatná do troch pracovných dní od doručenia rozhodnutia o uložení pokuty na mieste a možno ju zaplatiť aj v hotovosti.
 
-- d) § 16a písm. af) 4 000 eur.
+(5) Spáchanie správnych deliktov podľa § 16a písm. a) až d), am), ao) a ap) sa považuje za osobitne závažné porušenie tohto zákona.
 
-(4) Daňový úrad servisnej organizácie uloží pokutu pri každom ďalšom zistení porušenia podľa
+(6) Daňový úrad alebo colný úrad
 
-- a) § 16a písm. v) až ad) od 60 eur do 6 600 eur,
+- a) pri prvom opakovanom zistení porušenia podľa § 16a písm. a) až d), am) a ap) okrem pokuty uloženej podľa odseku 2 písm. a) alebo písm. d) môže podať návrh na zrušenie živnostenského oprávnenia,<sup>18a</sup>)
 
-- b) § 16a písm. ae) od 330 eur do 3 300 eur,
+- b) pri každom ďalšom zistení porušenia podľa § 16a písm. a) až d), am) a ap) okrem pokuty uloženej podľa odseku 2 písm. a) alebo písm. d) podá návrh na zrušenie živnostenského oprávnenia.<sup>18a</sup>)
 
-- c) § 16a písm. af) 4 000 eur.
+(7) Ak podnikateľ nezaplatí pokutu podľa odseku 2 písm. a) alebo písm. d) za porušenie podľa § 16a písm. a) až d), am) a ap) najneskôr v posledný deň lehoty splatnosti, nesmie predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste odo dňa nasledujúceho po uplynutí splatnosti pokuty; tento zákaz stráca účinky dňom zaplatenia pokuty alebo dňom právoplatnosti rozhodnutia, ktorým bolo zrušené rozhodnutie o uložení pokuty na mieste.
 
-(5) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. a) až u) a af) vzájomne informujú.
+(8) Daňový úrad alebo colný úrad označí predajné miesto, na ktoré sa vzťahuje zákaz predávať tovar alebo poskytovať službu podľa odseku 7, oznámením, v ktorom uvedie, že na tomto predajnom mieste je zákaz predaja tovaru alebo poskytovania služby, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu.
 
-(6) Spáchanie správnych deliktov podľa § 16a písm. a) až d), ae) a af) sa považuje za osobitne závažné porušenie tohto zákona. Daňový úrad, colný úrad alebo daňový úrad servisnej organizácie
+(9) Ak podnikateľ poruší zákaz predávať tovar alebo poskytovať službu, na ktorú sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, daňový úrad alebo colný úrad uloží pokutu podľa odseku 1 písm. e) za porušenie podľa § 16a písm. ao) a podá návrh na zrušenie živnostenského oprávnenia,<sup>18a</sup>) ak ešte nebol podaný.
 
-- a) po prvom opakovanom zistení spáchania správnych deliktov podľa § 16a písm. a) až d) a ae) môže namiesto uloženia pokuty podľa odseku 3 písm. a) alebo odseku 4 písm. b) podať podnet na zrušenie živnostenského oprávnenia,<sup>18a</sup>)
+(10) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. a) až x), am), ao) a ap) vzájomne informujú.
 
-- b) pri prvom zistení spáchania správneho deliktu podľa § 16a písm. af) uloží pokutu podľa odseku 1 písm. d) alebo odseku 2 písm. c) a môže podať podnet na zrušenie živnostenského oprávnenia,<sup>18a</sup>)
+(11) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
 
-- c) pri opakovanom zistení spáchania správneho deliktu podľa § 16a písm. af) uloží pokutu podľa odseku 3 písm. d) alebo odseku 4 písm. c) a podá podnet na zrušenie živnostenského oprávnenia.<sup>18a</sup>)
-
-(7) Pri ukladaní pokuty podľa odsekov 1 až 4 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
-
-(8) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
-
-(9) Pokutu podľa odsekov 1 až 4 nemožno uložiť, ak uplynulo päť rokov od konca roka, v ktorom došlo k porušeniu tohto zákona.
+(12) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
