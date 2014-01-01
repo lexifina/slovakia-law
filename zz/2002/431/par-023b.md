@@ -1,0 +1,15 @@
+# § 23b
+
+(1) Ak odsek 2 neustanovuje inak, dokumenty podľa § 23 ods. 2 vyhotovené v listinnej podobe sa doručujú daňovému úradu. Na účely tohto zákona sa za doručený dokument daňovému úradu považuje dokument, ktorý obsahuje správne vyplnené všeobecné náležitosti podľa § 17 ods. 2 písm. a) a b). Daňový úrad dokumenty prijaté v listinnej podobe prevedie do elektronickej podoby a overí, či majú správne vyplnené všeobecné náležitosti podľa § 17 ods. 2 písm. a) a b). Ak všeobecné náležitosti účtovná jednotka nevyplnila správne, daňový úrad ju vyzve, aby nesprávnosti odstránila v ním určenej lehote. Doručený dokument a oznámenie podľa § 23a ods. 4 postúpi daňový úrad v elektronickej podobe prostredníctvom Finančného riaditeľstva Slovenskej republiky správcovi registra do desiatich pracovných dní za účtovné jednotky podľa § 23 ods. 6 písm. a) až d) a do 30 kalendárnych dní za ostatné účtovné jednotky.
+
+(2) Dokumenty podľa § 23 ods. 2 účtovných jednotiek verejnej správy sa doručujú správcovi registra prostredníctvom systému štátnej pokladnice.<sup>29j</sup>)
+
+(3) Dokumenty podľa § 23 ods. 2 vyhotovené v elektronickej podobe sa doručujú prostredníctvom elektronickej podateľne prevádzkovanej podľa osobitného predpisu.<sup>29k</sup>) Na doručovanie sa vzťahuje osobitný predpis.<sup>29k</sup>) Finančné riaditeľstvo Slovenskej republiky postúpi dokumenty podľa § 23 ods. 2 doručené v elektronickej podobe bez zbytočného odkladu správcovi registra.
+
+(4) Správca registra zaradí, zverejní a sprístupní každý doručený dokument podľa § 23 ods. 2, tak ako ho účtovná jednotka uložila, najneskôr do piatich pracovných dní odo dňa doručenia do registra, vo verejnej časti alebo neverejnej časti registra. Zverejnené dokumenty podľa § 23 ods. 2, ktoré sa ukladajú a sú obsahom zbierky listín obchodného registra,<sup>29ka</sup>) zasiela správca registra priebežne v lehote do 30 kalendárnych dní odo dňa zverejnenia prostredníctvom Ministerstva spravodlivosti Slovenskej republiky do zbierky listín obchodného registra. Tieto dokumenty sa spolu s údajom o dátume ich uloženia zasielajú v elektronickej podobe. Ročnú finančnú správu uloženú podľa § 23 ods. 2 písm. j) súčasne zasiela správca registra spolu s údajom o dátume jej uloženia prevádzkovateľovi centrálnej evidencie regulovaných informácií.<sup>29kb</sup>) Rovnako postupuje správca registra pri dodatočnom doručení oznámenia podľa § 23a ods. 4 a dodatočnom doručení správy audítora podľa § 23a ods. 5.
+
+(5) Doručením dokumentov podľa § 23 ods. 2 a oznámenia podľa § 23a ods. 4 daňovému úradu alebo do elektronickej podateľne podľa odseku 3 alebo prostredníctvom systému štátnej pokladnice sa má za to, že účtovná jednotka si splnila povinnosť uloženia a zverejnenia dokumentov a oznámenia.
+
+(6) Ak vzniknú pochybnosti o správnosti, pravdivosti alebo úplnosti dokumentov, na základe výzvy správcu registra je účtovná jednotka povinná sa k nim vyjadriť, neúplné údaje doplniť, nepravdivé údaje opraviť alebo pravdivosť údajov riadne preukázať.
+
+(7) Podrobnosti o elektronickej komunikácii a poskytovaní elektronických služieb uverejní správca registra na svojom webovom sídle.

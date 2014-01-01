@@ -1,16 +1,28 @@
 # § 17a
 
-(1) Individuálnu účtovnú závierku podľa osobitných predpisov<sup>22a</sup>) zostavuje účtovná jednotka, ktorou je banka, pobočka zahraničnej banky, Exportno-importná banka Slovenskej republiky, správcovská spoločnosť, pobočka správcovskej spoločnosti, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) pobočka zahraničnej poisťovne, zaisťovňa, pobočka zahraničnej zaisťovne, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť a Burza cenných papierov, rovnako postupuje aj účtovná jednotka zriadená osobitným predpisom.<sup>22aaa</sup>)
+(1) Individuálnu účtovnú závierku podľa osobitných predpisov<sup>22a</sup>) zostavuje účtovná jednotka, ktorou je
+
+- a) banka, Exportno-importná banka Slovenskej republiky, správcovská spoločnosť, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) zaisťovňa, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť, Burza cenných papierov a účtovná jednotka zriadená osobitným predpisom,<sup>22aaa</sup>)
+
+- b) pobočka zahraničnej banky, pobočka zahraničnej správcovskej spoločnosti, pobočka poisťovne z iného členského štátu, pobočka zahraničnej poisťovne, pobočka zaisťovne z iného členského štátu a pobočka zahraničnej zaisťovne.
 
 (2) Podľa odseku 1 postupuje aj účtovná jednotka neuvedená v odseku 1, ak je obchodnou spoločnosťou, ktorá najmenej dve po sebe idúce účtovné obdobia spĺňa aspoň dve z týchto podmienok:
 
-- a) celková suma majetku presiahla 165 969 594,40 eura, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
+- a) celková suma majetku presiahla 170 000 000 eur, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
 
-- b) čistý obrat presiahol 165 969 594,40 eura, pričom čistým obratom na tento účel sú výnosy dosiahnuté z predaja výrobkov, tovarov, poskytnutých služieb a iné výnosy súvisiace s bežnou činnosťou účtovnej jednotky po odpočítaní zliav,
+- b) čistý obrat presiahol 170 000 000 eur, pričom čistým obratom na tento účel sú výnosy dosiahnuté z predaja výrobkov, tovarov, poskytnutých služieb a iné výnosy súvisiace s bežnou činnosťou účtovnej jednotky po odpočítaní zliav,
 
 - c) priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
 
-(3) Účtovná jednotka okrem účtovnej jednotky podľa odseku 1, ktorá v účtovnom období emitovala cenné papiere a tieto boli prijaté na obchodovanie na regulovanom trhu,<sup>22aa</sup>) ktorá nespĺňa podmienky podľa odseku 2, zostavuje individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) ak sa tak rozhodne. Účtovná jednotka, ktorou je platobná inštitúcia,<sup>22ad</sup>) inštitúcia elektronických peňazí,<sup>22ad</sup>) obchodník s cennými papiermi alebo pobočka zahraničného obchodníka s cennými papiermi a nie je súčasne bankou, pobočkou zahraničnej banky, správcovskou spoločnosťou alebo pobočka správcovskej spoločnosti, zostavuje individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) ak sa tak rozhodne.
+(3) Účtovná jednotka okrem účtovnej jednotky podľa odseku 1 alebo odseku 2 sa môže rozhodnúť zostavovať individuálnu účtovnú závierku podľa osobitného predpisu,<sup>22a</sup>) ak
+
+- a) v účtovnom období emitovala cenné papiere a tieto boli prijaté na obchodovanie na regulovanom trhu,<sup>22aa</sup>) alebo
+
+- b) je platobnou inštitúciou,<sup>22ad</sup>) inštitúciou elektronických peňazí, obchodníkom s cennými papiermi, pobočkou zahraničného obchodníka s cennými papiermi a nie je súčasne bankou, pobočkou zahraničnej banky, správcovskou spoločnosťou alebo pobočkou zahraničnej správcovskej spoločnosti, alebo
+
+- c) je nástupníckou účtovnou jednotkou a zanikajúca účtovná jednotka alebo nástupnícka účtovná jednotka pred rozhodným dňom<sup>7a</sup>) zostavovala individuálnu účtovnú závierku podľa osobitného predpisu,<sup>22a</sup>) alebo
+
+- d) je novovzniknutou dcérskou účtovnou jednotkou a ku dňu, ku ktorému zostavuje prvú individuálnu účtovnú závierku, spĺňa podmienky podľa odseku 2 a zároveň jej materská účtovná jednotka, ktorá podlieha právu niektorého členského štátu, zostavuje individuálnu účtovnú závierku podľa osobitného predpisu.<sup>22a</sup>)
 
 (4) Účtovná jednotka uvedená v odsekoch 1 až 3 zostaví na účely osobitného predpisu<sup>22ab</sup>) aj individuálnu účtovnú závierku,<sup>22a</sup>) v ktorej sa cenné papiere a podiely vykážu podľa osobitného predpisu.<sup>22ac</sup>)
 

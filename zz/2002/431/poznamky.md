@@ -6,7 +6,11 @@
 
 - 4) Zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 4a) § 6 ods. 14 a 15 zákona č. 595/2003 Z. z. v znení zákona č. 60/2009 Z. z.
+- 4a) § 6 ods. 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 4b) § 27 ods. 2 písm. c) Obchodného zákonníka v znení neskorších predpisov.
+
+- 4c) Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
 - 5) § 3 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
@@ -62,6 +66,8 @@
 
 - 22c) § 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 22ca) § 14 ods. 2 zákona č. 595/2003 Z. z. v znení zákona č. 688/2006 Z. z.
+
 - 24) Napríklad § 40 zákona č. 483/2001 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z.
 
 - 24a) § 18 zákona č. 540/2007 Z. z.
@@ -90,17 +96,17 @@
 
 - 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
-- 28d) § 40 ods. 2 Obchodného zákonníka v znení neskorších predpisov.
-
-- 29) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 4 zákona č. 34/2002 Z. z.
-
-- 29a) Kategória D prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 552/2002 Z. z., ktorou sa vydáva štatistická odvetvová klasifikácia ekonomických činností.
+- 29a) Sekcia C prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
 
 - 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29d) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29da) § 34 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 29db) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
 
 - 29e) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 8 zákona č. 119/2010 Z. z. o obaloch a o zmene zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
@@ -110,7 +116,23 @@
 
 - 29h) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov.
 
+- 29ha) Napríklad § 25 zákona č. 147/1997 Z. z. v znení zákona č. 352/2013 Z. z., § 34 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 35 zákona č. 34/2002 Z. z. v znení neskorších predpisov.
+
 - 29i) Napríklad § 24 ods. 3 zákona č. 147/1997 Z. z., § 33 ods. 4 zákona č. 213/1997 Z. z., zákon č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 29j) § 2 ods. 2 písm. h) zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29k) § 13, 14, 30 až 33 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 29ka) § 3 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 29kb) § 48 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 29l) Napríklad zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 29m) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 29n) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 30) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
@@ -130,11 +152,11 @@
 
 - 35) § 59 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 35a) Zákon č. 594/2003 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 35a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 35aa) § 15 ods. 1 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2009 Z. z.
 
@@ -142,11 +164,15 @@
 
 - 35b) § 20 ods. 9 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
+- 35c) § 22 až 29 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 36) § 20 zákona č. 595/2003 Z. z.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. v znení neskorších predpisov.Zákon č. 280/1997 Z. z. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č.118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.Zákon č. 381/2001 Z. z.
 
 - 37a) § 73a až 73j zákona č. 594/2003 Z. z. v znení zákona č. 213/2006 Z. z.
+
+- 37b) § 119 zákona č. 203/2011 Z. z.
 
 - 38) Obchodný zákonník v znení neskorších predpisov.
 

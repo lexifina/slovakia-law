@@ -8,7 +8,7 @@
 
 (4) Konsolidované účtovné závierky účtovných jednotiek verejnej správy, konsolidovaná účtovná závierka ústrednej správy a súhrnná účtovná závierka verejnej správy sa zostavujú podľa metód a zásad konsolidácie ustanovených podľa § 4 ods. 2.
 
-(5) Konsolidované účtovné závierky účtovných jednotiek verejnej správy, konsolidovanú účtovnú závierku ústrednej správy a súhrnnú účtovnú závierku verejnej správy overuje audítor.
+(5) Konsolidované účtovné závierky účtovných jednotiek verejnej správy a konsolidovanú účtovnú závierku ústrednej správy overuje audítor.
 
 (6) Účtovná jednotka zostavujúca konsolidovanú účtovnú závierku podľa odseku 1 má povinnosť zostaviť konsolidovanú výročnú správu. Ak má účtovná jednotka podľa odseku 1 povinnosť zostaviť aj individuálnu výročnú správu, môže údaje z individuálnej výročnej správy uviesť v konsolidovanej výročnej správe a individuálnu výročnú správu nezostavovať ako samostatný dokument.
 
