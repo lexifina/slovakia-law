@@ -326,6 +326,18 @@ Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zák
 
 - 66. V § 45 ods. 2 písm. d) sa vypúšťajú slová „a ďalších jej členov“.
 
+- 67. V § 51 ods. 3 písmeno a) znie:
+
+- „a)
+
+- na týždeň, mesiac, jeden, päť alebo desať rokov pre občana Slovenskej republiky a cudzinca; osobám nad 62 rokov na dobu neurčitú,“.
+
+- 68. V § 51 ods. 3 písm. b) sa slová „na jeden kalendárny rok“ nahrádzajú slovami „na obdobie riadneho štúdia“, na konci sa čiarka nahrádza bodkočiarkou a pripájajú sa slová „platnosť takého poľovného lístka je do konca kalendárneho roka, v ktorom poslucháč štúdium ukončí,“.
+
+- 69. V § 51 ods. 3 sa vypúšťa písmeno c).
+
+- 70. V § 51 ods. 8 sa na konci pripája táto veta: „Komora 60 dní pred ukončením platnosti poľovného lístka preukázateľným spôsobom upozorní jeho držiteľa na ukončenie jeho platnosti.“.
+
 - 71. V § 51 ods. 12 sa slová „Neplatný alebo odňatý“ nahrádzajú slovom „Odňatý“.
 
 - 72. V § 53 ods. 1 sa na konci prvej vety pripája čiarka a tieto slová: „ak tento zákon neustanovuje inak“.
@@ -500,6 +512,20 @@ Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zák
 
 - 97. V § 76 ods. 5 sa vypúšťajú slová „predtým uloženej“.
 
+- 98. § 77 vrátane nadpisu znie:
+
+- „§ 77
+
+- Disciplinárne previnenia
+
+- (1)
+
+- Disciplinárnym previnením je konanie držiteľa poľovného lístka, ktoré nevykazuje znaky trestného činu,<sup>34</sup>) priestupku podľa § 76 alebo iného správneho deliktu podľa § 78 a je v rozpore s disciplinárnym poriadkom vydaným komorou.
+
+- (2)
+
+- Disciplinárne previnenie rieši komora podľa disciplinárneho poriadku.“.
+
 - 99. § 78 ods. 1 sa dopĺňa písmenom f), ktoré znie:
 
 - „f)
@@ -551,6 +577,12 @@ Zákon č. 274/2009 Z. z. o poľovníctve a o zmene a doplnení niektorých zák
 - § 27 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.“.
 
 - 105. V § 82 písm. n) sa slová „druhoch a kvalifikácii“ nahrádzajú slovami „druhoch, potrebnom počte a kvalifikácii“.
+
+- 106. V § 82 sa doterajší text označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
+
+- „(2)
+
+- Ministerstvo všeobecne záväzným právnym predpisom určí spoločenskú hodnotu poľovnej zveri.“.
 
 - 107. V prílohe č. 2 nadpise sa slovo „nájomného“ nahrádza slovom „náhrad“.
 
