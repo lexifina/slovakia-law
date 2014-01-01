@@ -34,6 +34,8 @@
 
 - 11) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
+- 11a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
 - 12) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 13) § 23 ods. 1 zákona č. 291/2002 Z. z.
