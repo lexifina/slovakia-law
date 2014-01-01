@@ -48,6 +48,8 @@
 
 - 18a) Napríklad § 17 až 20 Obchodného zákonníka, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 18aa) Tretia a štvrtá hlava štvrtej časti zákona č. 220/2007 Z. z.
+
 - 19) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -114,9 +116,7 @@
 
 - 37) § 4 zákona č. 220/2007 Z. z.
 
-- 38) § 35 až 40 Obchodného zákonníka.
-
-- Zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 38) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
 - 39) § 57 ods. 2 a § 58 ods. 5 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 

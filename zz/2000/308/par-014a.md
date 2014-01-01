@@ -22,7 +22,7 @@
 
 (6) Totožnosť sťažovateľa sa nezverejňuje.
 
-(7) Ak je predmet sťažnosti totožný s predmetom sťažnosti už skôr zaevidovanej, takáto neskoršia sťažnosť sa priradí k už zaevidovanej sťažnosti s totožným predmetom, o čom sa v evidencii urobí záznam. Neskoršia sťažnosť sa samostatne nevybavuje. O vybavení skôr zaevidovanej sťažnosti sa upovedomí aj sťažovateľ neskoršej sťažnosti s rovnakým predmetom.
+(7) Ak je predmet sťažnosti totožný s predmetom sťažnosti už skôr zaevidovanej, takáto neskoršia sťažnosť sa priradí k už zaevidovanej sťažnosti s totožným predmetom, o čom sa v evidencii urobí záznam. Neskoršia sťažnosť sa samostatne nevybavuje.
 
 (8) Rada sa oboznamuje s obsahom sťažnosti a prerokúva sťažnosť na svojom zasadnutí najneskôr do 90 dní od doručenia sťažnosti.
 
