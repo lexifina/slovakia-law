@@ -1,5 +1,0 @@
-# § 2a
-
-(1) Pre biocídny výrobok, ktorý obsahuje viac ako jednu účinnú látku, sa za dátum, ku ktorému je potrebné dosiahnuť súlad s požiadavkami podľa osobitného predpisu<sup>2</sup>) a prílohy č. 1 tohto nariadenia vlády, považuje dátum, ku ktorému bola zaradená do zoznamu podľa § 1 ods. 1 tohto nariadenia vlády posledná účinná látka obsiahnutá v biocídnom výrobku.
-
-(2) Biocídny výrobok, pre ktorý bola udelená prvá autorizácia podľa osobitného predpisu<sup>1a</sup>) neskôr ako 120 dní pred dátumom, ku ktorému je potrebné dosiahnuť súlad podľa odseku 1, sa lehota na dosiahnutie súladu s osobitným predpisom<sup>2</sup>) predlžuje o 120 dní odo dňa doručenia žiadosti o autorizáciu biocídneho výrobku,<sup>1b</sup>) ak bola táto žiadosť predložená najneskôr 60 dní od dátumu udelenia prvej autorizácie.<sup>1a</sup>) Pri biocídnom výrobku, pri ktorom sa uplatňuje postup podľa osobitného predpisu,<sup>1c</sup>) sa lehota na dosiahnutie súladu s osobitným predpisom<sup>2</sup>) predlžuje o 30 dní od dátumu, keď Európska komisia prijala rozhodnutie, že biocídny výrobok spĺňa požiadavky podľa osobitného predpisu.<sup>1d</sup>)
