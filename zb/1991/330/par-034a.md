@@ -8,9 +8,7 @@
 
 (4) Pozemkový fond predkladá výročnú správu na rokovanie Národnej rady Slovenskej republiky do konca apríla nasledujúceho kalendárneho roka.
 
-(5) Pozemkový fond neukladá účtovnú závierku a výročnú správu na registrovom súde podľa osobitného predpisu.<sup>23j</sup>)
-
-(6) Na zabezpečenie financovania svojej činnosti pozemkový fond tvorí
+(5) Na zabezpečenie financovania svojej činnosti pozemkový fond tvorí
 
 - a) sociálny fond,<sup>23k</sup>)
 
@@ -20,12 +18,12 @@
 
 - d) účelový fond.
 
-(7) Fond reprodukcie sa tvorí z odpisov hmotného majetku a nehmotného majetku určeného na prevádzkovú činnosť pozemkového fondu a z rozdelenia jeho hospodárskeho výsledku. Prostriedky fondu reprodukcie možno použiť na obstaranie hmotného majetku a nehmotného majetku určeného na prevádzkovú činnosť pozemkového fondu.
+(6) Fond reprodukcie sa tvorí z odpisov hmotného majetku a nehmotného majetku určeného na prevádzkovú činnosť pozemkového fondu a z rozdelenia jeho hospodárskeho výsledku. Prostriedky fondu reprodukcie možno použiť na obstaranie hmotného majetku a nehmotného majetku určeného na prevádzkovú činnosť pozemkového fondu.
 
-(8) Rezervný fond sa tvorí z rozdelenia hospodárskeho výsledku pozemkového fondu. Prostriedky rezervného fondu možno použiť na financovanie
+(7) Rezervný fond sa tvorí z rozdelenia hospodárskeho výsledku pozemkového fondu. Prostriedky rezervného fondu možno použiť na financovanie
 
 - a) výdavkov, ktoré vznikli z časového nesúladu medzi príjmami a výdavkami pozemkového fondu,
 
 - b) výdavkov, ktoré presahujú rozsah predpokladaný v rozpočte pozemkového fondu, a ďalších výdavkov účelovo schválených vládou Slovenskej republiky v rámci rozdelenia hospodárskeho výsledku pozemkového fondu.
 
-(9) Účelový fond sa tvorí z príjmov z predaja privatizovaného majetku a z príjmov z predaja pozemkov, ktorých vlastník nie je známy. Prostriedky účelového fondu možno použiť len v súlade s osobitnými predpismi.<sup>23l</sup>)
+(8) Účelový fond sa tvorí z príjmov z predaja privatizovaného majetku a z príjmov z predaja pozemkov, ktorých vlastník nie je známy. Prostriedky účelového fondu možno použiť len v súlade s osobitnými predpismi.<sup>23l</sup>)
