@@ -1,0 +1,3 @@
+# Čl. VI
+
+Tento zákon nadobúda účinnosť 1. januára 2014 okrem čl. I devätnásteho bodu, dvadsiateho piateho bodu, § 161d tridsiateho bodu a tridsiateho druhého bodu a čl. III druhého bodu, ktoré nadobúdajú účinnosť 1. marca 2014, čl. I prvého bodu až ôsmeho bodu a dvadsiateho štvrtého bodu, ktoré nadobúdajú účinnosť 1. septembra 2014, a čl. I desiateho bodu, § 29 ods. 15 a 16 jedenásteho bodu, § 33 ods. 7 a 8 trinásteho bodu, pätnásteho bodu, šestnásteho bodu, osemnásteho bodu, dvadsiateho prvého bodu, dvadsiateho druhého bodu a § 161e tridsiateho bodu, ktoré nadobúdajú účinnosť 1. septembra 2015.
