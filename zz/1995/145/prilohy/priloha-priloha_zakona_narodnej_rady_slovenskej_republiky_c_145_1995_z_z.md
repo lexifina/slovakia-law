@@ -248,11 +248,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie | | |
 
-  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. | | |
+  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností. | | |
 
   - Poznámky | | |
 
-  - 1. Správny orgán nevyberie poplatky podľa písmen a), c) a e) tejto položky, ak ide o úkony spojené s vyhlasovaním chránených území a ich ochranných pásiem a s realizovaním prieskumu a výskumu osobitne chránených častí prírody a krajiny pre potreby ochrany prírody, s pozemkovými úpravami, s vyhotovením programov starostlivosti o lesy, so zápisom zmeny hraníc zastavaného územia obce podľa schváleného územného plánu. 2. Úkon spoplatňovaný podľa písmena e) tejto položky nezahŕňa poskytnutie súradníc podrobných bodov. 3. Poskytnutie údajov z katastra nehnuteľností podľa písmena a) zahŕňa aj poskytnutie údajov pre nájomné vzťahy podľa osobitného predpisu.<sup>12a</sup>) 4. Štátne archívy vyberajú poplatky podľa tejto položky po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Súčasne sa vyberá poplatok za osvedčenie podľa položky 4 písm. e). 5. Správny orgán nevyberie poplatky podľa tejto položky, ak ide o úkony potrebné na účely konania o dedičstve a na účely ochrany národných kultúrnych pamiatok. 6. Ak došlo pri úkonoch spoplatňovaných podľa tejto položky k zrejmým chybám, ktoré zavinil správny orgán, za opravné úkony sa správny poplatok už nevyberá. 7. Poplatníkom za úkony podľa písmen f), h) a i) tejto položky je vyhotoviteľ vybraných geodetických a kartografických činností. 8. Správny orgán vyberie poplatok podľa písmena i) tejto položky súčasne s poplatkom podľa písmena h) tejto položky. | | |
+  - 1. Správny orgán nevyberie poplatky podľa písmen a), c) a e) tejto položky, ak ide o úkony spojené s realizovaním prieskumu a výskumu osobitne chránených častí prírody a krajiny pre potreby ochrany prírody, s pozemkovými úpravami, s vyhotovením programov starostlivosti o lesy, so zápisom zmeny hraníc zastavaného územia obce podľa schváleného územného plánu. 2. Úkon spoplatňovaný podľa písmena e) tejto položky nezahŕňa poskytnutie súradníc podrobných bodov. 3. Poskytnutie údajov z katastra nehnuteľností podľa písmena a) zahŕňa aj poskytnutie údajov pre nájomné vzťahy podľa osobitného predpisu.<sup>12a</sup>) 4. Štátne archívy vyberajú poplatky podľa tejto položky po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Súčasne sa vyberá poplatok za osvedčenie podľa položky 4 písm. e). 5. Správny orgán nevyberie poplatky podľa tejto položky, ak ide o úkony potrebné na účely konania o dedičstve a na účely ochrany národných kultúrnych pamiatok. 6. Ak došlo pri úkonoch spoplatňovaných podľa tejto položky k zrejmým chybám, ktoré zavinil správny orgán, za opravné úkony sa správny poplatok už nevyberá. 7. Poplatníkom za úkony podľa písmen f), h) a i) tejto položky je vyhotoviteľ vybraných geodetických a kartografických činností. 8. Správny orgán vyberie poplatok podľa písmena i) tejto položky súčasne s poplatkom podľa písmena h) tejto položky. 9. Od poplatkov podľa písm. h) a i) tejto položky je oslobodený vyhotoviteľ vybraných geodetických a kartografických činností, ak žiada o vykonanie týchto úkonov pre osoby a na účely, ktoré sú oslobodené od poplatkov v položke 10, po preukázaní zmluvného vzťahu medzi ním a oslobodenou osobou. | | |
 
     - Položka 11
 
@@ -934,7 +934,25 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - n) | vydanie duplikátu Osvedčenia o zápise do registra výrobcov dovozcov rastlín, rastlinných produktov a iných predmetov ...... | 6,50 eura,
 
-  - o) | povolenie leteckej aplikácie prípravkov na ochranu rastlín podľa osobitného predpisu<sup>17b</sup>) ............. | 33 eur.
+  - o) | povolenie leteckej aplikácie prípravkov na ochranu rastlín podľa osobitného predpisu<sup>17b</sup>) ...... | 33 eur,
+
+  - p) | autorizácia pomocného prípravku v ochrane rastlín ...... | 33 eur,
+
+  - q) | predĺženie doby platnosti autorizácie pomocného prípravku v ochrane rastlín ...... | 33 eur,
+
+  - r) | prebalenie pomocného prípravku v ochrane rastlín ...... | 33 eur,
+
+  - s) | zmena a doplnenie autorizácie pomocného prípravku v ochrane rastlín ...... | 33 eur,
+
+  - t) | povolenie na používanie pomocného prípravku v ochrane rastlín na účely výskumu a vývoja ...... | 33 eur,
+
+  - u) | povolenie na paralelný obchod pomocného prípravku v ochrane rastlín ...... | 33 eur,
+
+  - v) | autorizácia pomocného prípravku v ochrane rastlín vzájomným uznávaním ...... | 33 eur,
+
+  - z) | prevod autorizácie pomocného prípravku v ochrane rastlín na inú fyzickú osobu – podnikateľa alebo právnickú osobu ...... | 16,50 eur,
+
+  - x) | povolenie leteckej aplikácie pomocných prípravkov v ochrane rastlín podľa osobitného predpisu.<sup>17c</sup>) |
 
     - Položka 48
 
@@ -1584,11 +1602,31 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámky 1. Poplatok podľa písmen a) a b) tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z premávky na pozemných komunikáciách. 2. Pri predĺžení dočasného vyradenia vozidla z premávky na pozemných komunikáciách sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z premávky na pozemných komunikáciách. |
 
+    - Položka 73a
+
+  - Podanie žiadosti o | | |
+
+  - a) | dočasné vyradenie vozidla z evidencie vozidiel a predĺženie dočasného vyradenia vozidla z evidencie vozidiel v lehote | |
+
+  - | 1. | do jedného roka ..... | 5 eur,
+
+  - | 2. | od jedného roka do dvoch rokov ..... | 20 eur,
+
+  - | 3. | od dvoch rokov do štyroch rokov ..... | 35 eur,
+
+  - | 4. | od štyroch rokov do šiestich rokov ..... | 70 eur,
+
+  - | 5. | od šiestich rokov do 10 rokov ..... | 170 eur,
+
+  - | 6. | nad 10 rokov ..... | 350 eur,
+
+  - b) | opätovné zaradenie vozidla do evidencie vozidiel pred ukončením lehoty dočasného vyradenia vozidla z evidencie vozidiel ..... | | 5 eur.
+
+  - Poznámky 1. Poplatok podľa tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z evidencie vozidiel a pri opätovnom zaradení vozidla do evidencie. 2. Pri predĺžení dočasného vyradenia vozidla z evidencie vozidiel sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z evidencie vozidiel. | | |
+
     - Položka 74
 
-  - Vykonanie skúšky | |
-
-  - a) | na získanie vodičského oprávnenia |
+  - a) | Vykonanie skúšky na získanie vodičského oprávnenia |
 
   - | 1. skupiny AM, A1, A2, A | 16,5 eura
 
@@ -1598,9 +1636,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. skupiny C, CE, D, DE | 66 eur
 
-  - b) | pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia | 16,50 eura
+  - b) | Vykonanie osobitnej skúšky na udelenie |
 
-  - c) | na získanie inštruktorského oprávnenia |
+  - | 1. vodičského oprávnenia skupiny A2 a A ..... | 16,5 eura
+
+  - | 2. vodičského oprávnenia skupiny B na vedenie jazdnej súpravy, ktorej najväčšia prípustná celková hmotnosť presahuje 3 500 kg a nepresahuje 4 250 kg B ..... | 33 eur
+
+  - c) | Udelenie vodičského oprávnenia na základe absolvovania osobitného výcviku ..... | 10 eur
+
+  - d) | Vykonanie skúšky pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia | 16,50 eura
+
+  - e) | Vykonanie skúšky na získanie inštruktorského oprávnenia |
 
   - | 1. skupiny AM, A1, A2, A | 16,5 eura
 
@@ -1610,17 +1656,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 4. skupiny C, CE, D, DE | 66 eur
 
-  - d) | na predĺženie platnosti inštruktorského oprávnenia | 16,50 eura
+  - f) | Vykonanie skúšky na predĺženie platnosti inštruktorského oprávnenia | 16,50 eura
 
-  - Poznámky | |
-
-  - 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. | |
-
-  - 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. | |
-
-  - 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
-
-  - 4. Správny orgán vyberie poplatok podľa písmena c) tejto položky vo výške 50 % za opakovanú skúšku na získanie inštruktorského oprávnenia. Poplatok podľa písmena c) tejto položky sa vyberie za každú skupinu inštruktorského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín inštruktorského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
+  - Poznámky 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 4. Správny orgán vyberie poplatok podľa písmena e) tejto položky vo výške 50 % za opakovanú skúšku na získanie inštruktorského oprávnenia. Poplatok podľa písmena e) tejto položky sa vyberie za každú skupinu inštruktorského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín inštruktorského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
 
     - Položka 75
 
@@ -1642,25 +1680,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 76
 
-  - a) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku | | 16,5 eur
+  - a) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku, za každú tabuľku | 16,5 eur
 
-  - b) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku | | 16,50 eura
+  - b) Pridelenie osobitného evidenčného čísla a vydanie tabuľky s osobitným evidenčným číslom, za každú tabuľku | 16,50 eura
 
-  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku | | 33 eur
+  - c) Pridelenie zvláštneho evidenčného čísla a vydanie tabuľky so zvláštnym evidenčným číslom, za každú tabuľku | 33 eur
 
-  - d) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku | | 165,5 eur
+  - d) Pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov vytvoreným na základe požiadavky držiteľa vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú, za každú tabuľku | 165,5 eur
 
-  - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla | | 182 eur
+  - e) pridelenie evidenčného čísla a vydanie tabuľky s evidenčným číslom vyrobenej zo zmesi polykarbonátu a polyesteru vyžarujúcej svetlo pri zapnutom osvetlení vozidla pri zápise vozidla do evidencie alebo pridelenie evidenčného čísla a vydanie takejto tabuľky s evidenčným číslom za stratenú, zničenú, poškodenú, odcudzenú alebo neupotrebiteľnú tabuľku alebo vydanie duplikátu takejto tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla | 182 eur
 
-  - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | | 66 eur
+  - f) vydanie duplikátu tabuľky s pôvodne prideleným evidenčným číslom alebo s evidenčným číslom vytvoreným na základe požiadavky držiteľa vozidla vyrobenej zo zliatin ľahkých kovov | 66 eur
 
-  - g) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | | 16,50 eura
+  - g) vydanie tabuľky s evidenčným číslom vyrobenej zo zliatin ľahkých kovov určenej na nosič bicykla | 16,50 eura
 
-  - Poznámky | |
+  - h) vydanie tabuľky s evidenčným číslom zo skladových zásob orgánu Policajného zboru, o ktorej zloženie číslic požiadal vlastník vozidla alebo držiteľ vozidla, a to za každú tabuľku ......... | 165,50 eura
 
-  - 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. | |
-
-  - 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. | |
+  - Poznámky 1. Za neupotrebiteľnú tabuľku s evidenčným číslom (štátnou poznávacou značkou) sa považuje tabuľka vydaná podľa právnej úpravy platnej do 31. marca 1997, ktorú je držiteľ vozidla povinný podľa § 129 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách vymeniť. 2. Poplatky podľa tejto položky zahŕňajú aj vydanie príslušných dokladov. |
 
     - Položka 77
 
@@ -2011,6 +2047,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa tejto položky zvýšiť až na päťnásobok, prípadne ho znížiť alebo odpustiť. | | |
 
   - Poznámka Poznámka 1 k položke 84 tu platí obdobne. | | |
+
+    - Položka 85a
+
+    - Podanie žiadosti o udelenie oprávnenia na poskytovanie Európskej služby elektronického výberu mýta<sup>25aaa</sup>) ........... 200 000 eur.
 
     - Položka 86
 
@@ -3048,6 +3088,20 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Oslobodenie: Od poplatku podľa tejto položky sú oslobodené údaje zverejňované v Obchodnom vestníku registrovými úradmi,<sup>36</sup>) konkurznými správcami, súdnymi exekútormi, dražobníkmi, Národnou bankou Slovenska a údaje zverejňované podľa § 218a ods. 6 a § 218o ods. 1 písm. a) Obchodného zákonníka. | | |
 
+  - Položka 149b | |
+
+  - a) | Vyhotovenie fotokópie dokumentu uloženého v registri účtovných závierok,<sup>36aa</sup>) za každú, |
+
+  - | aj začatú stranu........... | 0,33 eura,
+
+  - | najmenej......... | 1,50 eura
+
+  - b) | Zaslanie elektronickej formy dokumentu uloženého v registri účtovných závierok elektronickými ­pro­striedkami........... | 0,33 eura
+
+  - c) | Vydanie potvrdenia o tom, že určitý dokument nie je uložený v registri účtovných závierok................... | 3 eurá
+
+  - d) | Zaslanie potvrdenia o tom, že určitý dokument nie je uložený v registri účtovných závierok elektronickými prostriedkami........... | 0,33 eura.
+
     - Položka 150
 
   - a) | Vydanie povolenia na prevádzkovanie zdravotníckeho zariadenia | |
@@ -3582,7 +3636,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 161
 
-  - Podanie žiadosti o povolenie výnimky zo zákazov ustanovených osobitným zákonom<sup>36p</sup>) |
+  - Podanie žiadosti o povolenie, zmenu alebo zrušenie výnimky zo zákazov ustanovených osobitným zákonom<sup>36p</sup>) |
 
   - 1. fyzická osoba ..... | 10 eur
 
@@ -4709,6 +4763,18 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - a) autorizáciu podľa osobitného predpisu<sup>47ab</sup>) ... | 330 eur
 
   - b) zápis zmeny podľa osobitného predpisu<sup>47ac</sup>) .... | 33 eur
+
+    - Položka 238
+
+  - Podanie žiadosti o |
+
+  - a) autorizáciu na vykonávanie posudzovania zhody zložiek interoperability vrátane cestných zariadení podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
+
+  - b) autorizáciu na vykonávanie posudzovania vhodnosti zložiek interoperability na použitie podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
+
+  - c) autorizáciu na vykonávanie dohľadu nad posudzovaním zhody a posudzovaním vhodnosti podľa písm. a) a b) podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
+
+  - d) zmenu údajov alebo o obmedzenie rozsahu autorizácie podľa osobitného predpisu<sup>47ae</sup>) ..... | 500 eur.
 
     - Položka 239
 

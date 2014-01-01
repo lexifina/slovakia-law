@@ -22,8 +22,6 @@
 
 - 5) § 9a zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
-- 6) Zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
-
 - 6a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
 
 - Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
@@ -122,6 +120,8 @@
 
 - 17b) § 31 zákona č. 405/2011 Z. z o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 17c) § 23 zákona č. 387/2013 Z. z. o pomocných prípravkoch v ochrane rastlín a o zmene a doplnení niektorých zákonov.
+
 - 17d) § 32 zákona č. 193/2005 Z. z.
 
 - 18) Vyhláška Federálneho ministerstva pre technický a investičný rozvoj č. 83/1976 Zb. o všeobecných technických požiadavkách na výstavbu v znení neskorších predpisov.
@@ -185,6 +185,8 @@
 - 25ae) § 34 až 35 zákona č. 143/1998 Z. z. v znení neskorších predpisov.
 
 - 25af) § 8 ods. 1 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 25aaa) § 14 a 15 zákona č. 474/2013 Z. z. o výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
 - 25b) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -285,6 +287,8 @@
 - 36) Napríklad § 10 ods. 6 zákona č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z., § 11 ods. 6 zákona č. 213/1997 Z. z.
 
 - 36a) § 3 ods. 1, § 7 písm. e) a § 13 ods. 3 až 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36aa) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 36b) § 15 zákona č. 355/2007 Z. z. v znení zákona č. 132/2010 Z. z.
 
@@ -503,5 +507,9 @@
 - § 14 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
 
 - 47ac) § 14 ods. 11 zákona č. 254/2011 Z. z.
+
+- 47ad) § 20 ods. 1 a 2 zákona č. 474/2013 Z. z.
+
+- 47ae) § 20 ods. 11 zákona č. 474/2013 Z. z.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
