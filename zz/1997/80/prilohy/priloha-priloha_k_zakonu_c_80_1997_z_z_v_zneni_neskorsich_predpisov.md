@@ -1,6 +1,6 @@
 Príloha k zákonu č. 80/1997 Z. z. v znení neskorších predpisov
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Rady 84/568/EHS z 27. novembra 1984, ktorá sa týka vzájomných povinností exportných úverových poisťovní členských štátov konajúcich v mene štátu alebo s jeho podporou alebo štátnych orgánov konajúcich za takéto inštitúcie, v prípade spoločných záruk na zmluvu zahrňujúcu jednu alebo viac subdodávateľských zmlúv v jednom alebo viacerých členských štátoch Európskych spoločenstiev (Mimoriadne vydanie Ú. v. EÚ kap. 11/zv. 15).
 

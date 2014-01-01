@@ -18,6 +18,8 @@
 
 - 6) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 6a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
 - 8) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
@@ -47,6 +49,8 @@
 - 13a) § 21 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
+
+- 14a) § 35a až 35g a § 36 zákona č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
