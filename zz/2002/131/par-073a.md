@@ -18,7 +18,7 @@
 
 (9) Ministerstvo zdravotníctva môže využívať údaje z centrálneho registra študentov o študentoch zdravotníckych študijných odborov v plnom rozsahu najmä na účely sociálneho poistenia a zdravotného poistenia podľa osobitných predpisov<sup>40c</sup>) a na účely podľa tohto zákona.
 
-(10) Ministerstvo môže využívať údaje z centrálneho registra študentov v plnom rozsahu na účely podľa tohto zákona.
+(10) Ministerstvo môže využívať údaje z centrálneho registra študentov v plnom rozsahu na účely podľa tohto zákona a Ministerstvo financií Slovenskej republiky môže využívať tieto údaje v plnom rozsahu na účely zostavenia, vyhodnocovania a prognózovania rozpočtu verejnej správy.
 
 (11) Ministerstvo poskytuje Sociálnej poisťovni údaje z centrálneho registra študentov v rozsahu
 

@@ -20,7 +20,7 @@
 
 - h) schvaľuje dlhodobý zámer súkromnej vysokej školy [§ 49 ods. 1 písm. c)] predložený štatutárnym orgánom po prerokovaní vo vedeckej rade súkromnej vysokej školy a jeho aktualizácii,
 
-- i) schvaľuje výročnú správu o činnosti a výročnú správu o hospodárení, ak ju predkladá ministerstvu,
+- i) schvaľuje výročnú správu o činnosti a výročnú správu o hospodárení,
 
 - j) pred schválením vo vedeckej rade vysokej školy prerokúva návrh študijných programov, ktoré sa nebudú uskutočňovať na fakulte, ale na vysokej škole, predložený rektorom,
 

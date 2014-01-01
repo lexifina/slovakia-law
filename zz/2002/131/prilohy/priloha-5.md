@@ -21,3 +21,7 @@ Príloha č. 5 k zákonu č. 131/2002 Z. z. v znení zákona č. 496/2009 Z. z.
   - 1. budova v katastrálnom území Terasa, okres Košice II, obec Košice-Západ, so súpisným číslom 2262, vo vlastníctve Slovenskej republiky, v správe Fakultnej nemocnice L. Pasteura Košice, druh stavby: teoretické ústavy, postavená na parcele č. 3/11, zapísaná na LV č. 5913 (spoluvlastnícky podiel 1/1),
 
   - 2. pozemok v katastrálnom území Terasa, okres Košice II, obec Košice-Západ, vo vlastníctve Slovenskej republiky, v správe Fakultnej nemocnice L. Pasteura Košice, zapísaný na LV č. 5913 (spoluvlastnícky podiel 1/1), parcela č. 3/11, s výmerou 6 627 m<sup>2</sup>.
+
+- C. ZOZNAM MAJETKU ŠTÁTU V SPRÁVE ŠTÁTNEHO VETERINÁRNEHO A POTRAVINOVÉHO ÚSTAVU V KOŠICIACH, KTORÝ PRECHÁDZA OD 1. JANUÁRA 2014 DO MAJETKU UNIVERZITY VETERINÁRSKEHO LEKÁRSTVA A FARMÁCIE V KOŠICIACH
+
+  - pozemok v katastrálnom území Severné mesto, obec Košice-Sever, v správe Štátneho veterinárneho a potravinového ústavu v Košiciach zapísaný na liste vlastníctva č. 12146 (spoluvlastnícky podiel 1/1), parcela č. 5580/3 s výmerou 11 396 m<sup>2</sup>, ostatné plochy.
