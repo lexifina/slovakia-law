@@ -12,6 +12,6 @@
 
 - e) iný majetok štátu, o ktorom tak ustanoví osobitný zákon.
 
-(2) Majetok štátu, ktorý nie je uvedený v odseku 1, je vylúčený z exekúcie, ak súd rozhodol o zastavení exekúcie podľa § 57 ods. 1 písm. k). Návrh na zastavenie exekúcie podľa § 57 ods. 1 písm. k) môže povinný podať do 60 dní od doručenia upovedomenia o začatí exekúcie.
+(2) Majetok štátu, ktorý nie je uvedený v odseku 1, a majetok Exportno-importnej banky Slovenskej republiky podliehajúci exekúcii je vylúčený z exekúcie, ak súd rozhodol o zastavení exekúcie podľa § 57 ods. 1 písm. k). Návrh na zastavenie exekúcie podľa § 57 ods. 1 písm. k) môže povinný podať do 60 dní od doručenia upovedomenia o začatí exekúcie.
 
-(3) Exekúciu podľa odseku 2 možno vykonať len na majetok štátu v správe správcu majetku štátu,<sup>7a</sup>) z ktorého činnosti pohľadávka oprávneného vznikla.
+(3) Exekúciu na majetok štátu podľa odseku 2 možno vykonať len na majetok štátu v správe správcu majetku štátu,<sup>7a</sup>) z ktorého činnosti pohľadávka oprávneného vznikla.
