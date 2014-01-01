@@ -30,6 +30,14 @@ Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov 
 
 - 5. V § 17 ods. 3 sa slová „20. decembru“ nahrádzajú slovami „31. januáru“.
 
+- 6. V § 20 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Zoznam správcov sa člení na oddiel reštrukturalizačných správcov, oddiel konkurzných správcov pre právnické osoby a oddiel konkurzných správcov pre fyzické osoby; ministerstvo zapíše alebo vyčiarkne správcu z príslušného oddielu na základe písomnej žiadosti správcu.“.
+
+- Doterajšie odseky 2 až 6 sa označujú ako odseky 3 až 7.
+
 - 7. V § 20 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
 
 - „(7)
@@ -37,6 +45,44 @@ Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov 
 - Ministerstvo vydá správcovi pri jeho zápise do zoznamu správcov preukaz správcu. Správca sa preukazom správcu preukazuje na požiadanie osôb, ktoré správcovi poskytujú súčinnosť.“.
 
 - Doterajší odsek 7 sa označuje ako odsek 8.
+
+- 8. Za § 20 sa vkladá § 20a, ktorý znie:
+
+- „§ 20a
+
+- Ak osobitný predpis<sup>10a</sup>) ustanovuje, že správcu súd ustanoví na základe náhodného výberu pomocou technických a programových prostriedkov schválených ministerstvom, pre náhodný výber platia tieto pravidlá:
+
+- a)
+
+- v konkurznom konaní voči právnickej osobe sa náhodný výber uskutoční iba zo správcov, ktorí majú zriadenú kanceláriu v obvode krajského súdu, v ktorom sídli príslušný konkurzný súd, a sú zaradení do oddielu konkurzných správcov pre právnické osoby; ak by sa náhodný výber pre takéto konanie mal uskutočniť z menej ako troch správcov, uskutoční sa aj zo správcov podľa písmena b),
+
+- b)
+
+- v konkurznom konaní voči fyzickej osobe a v konaní o oddlžení sa náhodný výber uskutoční iba zo správcov, ktorí majú zriadenú kanceláriu v obvode krajského súdu, v ktorom sídli príslušný konkurzný súd, a sú zaradení do oddielu konkurzných správcov pre fyzické osoby; ak by sa náhodný výber pre takéto konanie mal uskutočniť z menej ako troch správcov, uskutoční sa aj zo správcov podľa písmena a).“.
+
+- Poznámka pod čiarou k odkazu 10a znie:
+
+- „10a)
+
+- § 40 ods. 1 zákona č. 7/2005 Z. z.“.
+
+- 9. V § 24 odseky 2 a 3 znejú:
+
+- „(2)
+
+- Žiadosť fyzickej osoby musí okrem všeobecných náležitostí návrhu<sup>14</sup>) obsahovať meno a priezvisko fyzickej osoby, jej trvalý pobyt, dátum narodenia, adresu, ktorú navrhuje zapísať do zoznamu správcov ako kanceláriu, a príslušný oddiel zoznamu správcov, do ktorého žiada byť zapísaná. K žiadosti fyzická osoba pripojí doklady, ktorými preukazuje odbornú spôsobilosť, údaje potrebné na podanie žiadosti o odpis registra trestov, čestné vyhlásenie o splnení predpokladov podľa § 21 ods. 3, doklady podľa § 7 ods. 2 oprávňujúce správcu zriadiť v nehnuteľnosti kanceláriu a svoju fotografiu rozmerov požadovaných ministerstvom.
+
+- (3)
+
+- Žiadosť právnickej osoby musí okrem všeobecných náležitostí návrhu<sup>14</sup>) obsahovať obchodné meno právnickej osoby, jej identifikačné číslo, adresu, ktorú navrhuje zapísať do zoznamu správcov ako kanceláriu, a príslušný oddiel zoznamu správcov, do ktorého žiada byť zapísaná. K žiadosti právnická osoba pripojí spoločenskú zmluvu spolu s výpisom z obchodného registra, údaje spoločníkov potrebné na podanie žiadosti o odpis registra trestov, čestné vyhlásenia spoločníkov o splnení predpokladov podľa § 21 ods. 3 a doklady podľa § 7 ods. 2 oprávňujúce správcu zriadiť v nehnuteľnosti kanceláriu.“.
+
+- 10. V § 24 ods. 5 prvá veta znie: „Ak žiadateľ spĺňa predpoklady na zápis do zoznamu správcov, ministerstvo do 30 dní od doručenia úplnej žiadosti zapíše žiadateľa do príslušného oddielu zoznamu správcov, ktorú uviedol v žiadosti, inak jeho žiadosť v tejto lehote zamietne.“.
+
+- 11. § 24 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Správca môže písomne požiadať ministerstvo o zápis do príslušného oddielu zoznamu správcov; o zápise ministerstvo nevydáva rozhodnutie, zápis písomne oznámi správcovi.“.
 
 - 12. V § 25 sa odsek 1 dopĺňa písmenom e), ktoré znie:
 
@@ -74,7 +120,11 @@ Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov 
 
 - 16. § 26 sa dopĺňa odsekmi 4 až 6, ktoré znejú:
 
-- „(5)
+- „(4)
+
+- Na základe písomnej žiadosti správcu ministerstvo vyčiarkne správcu z oddielu zoznamu správcov, ktorý uviedol v žiadosti.
+
+- (5)
 
 - Po vyčiarknutí zo zoznamu správcov je správca povinný odovzdať ministerstvu do 15 dní preukaz správcu.
 
