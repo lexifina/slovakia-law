@@ -10,6 +10,8 @@
 
 - 6) § 4 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
+- 7) Výnos Ministerstva financií Slovenskej republiky č. 312/2010 Z. z. o štandardoch pre informačné systémy verejnej správy.
+
 - 1) Vyhláška Ministerstva školstva Slovenskej republiky č. 614/2002 Z. z. o kreditovom systéme štúdia.
 
 - 2) Napríklad Zákonník práce v znení neskorších predpisov, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

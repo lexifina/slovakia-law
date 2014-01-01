@@ -1,17 +1,13 @@
 Príloha č. 4 k nariadeniu vlády č. 104/2003 Z. z.
 
-- Prílohy podľa § 2 ods. 2 písm. d) Prílohy k žiadosti o vyjadrenie o návrhu na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla verejnej vysokej školy, štátnej vysokej školy, fakulty verejnej vysokej školy alebo fakulty štátnej vysokej školy [§ 82 ods. 2 písm. d) zákona] obsahujú
+- Formulár k žiadosti o vyjadrenie k návrhu na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla verejnej vysokej školy, štátnej vysokej školy, fakulty verejnej vysokej školy, fakulty štátnej vysokej školy alebo fakulty súkromnej vysokej školy
 
-  - 1. názov, sídlo a začlenenie podľa § 2 ods. 13 zákona vysokej školy alebo názov a sídlo fakulty pri návrhu na zriadenie, zlúčenie, splynutie, rozdelenie alebo zmenu názvu vysokej školy alebo fakulty; navrhované sídlo pri návrhu na zmenu sídla vysokej školy alebo fakulty; odôvodnenie návrhu,
+[príloha 04](../assets/993d42b751112f2682904f52f5cb7916d1dac89d4affd17f9ddf2972b10ecc80.pdf)
 
-  - 2. dlhodobý zámer vysokej školy podľa § 2 ods. 10 zákona alebo jeho návrh alebo dlhodobý zámer fakulty podľa § 27 ods. 1 písm. f) zákona alebo jeho návrh pri návrhu na zriadenie, zlúčenie, splynutie, rozdelenie alebo zmenu názvu vysokej školy alebo fakulty, ktorý obsahuje aj údaje o oblastiach výskumnej, vývojovej, umeleckej a ďalšej tvorivej činnosti, a časový plán napĺňania dlhodobého zámeru alebo jeho návrhu,
+- Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 
-  - 3. údaje o plnení dlhodobého zámeru s najvýznamnejšími výsledkami aj v oblastiach výskumnej, vývojovej, umeleckej a ďalšej tvorivej činnosti, ak ide o návrh na zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla vysokej školy alebo fakulty,
+Vysvetlivky k vybraným položkám |
 
-  - 4. údaje uvedené v prílohe č. 1 za dotknuté študijné programy, ak ide o návrh na zriadenie, zlúčenie, splynutie alebo rozdelenie vysokej školy alebo fakulty, prípadne aj informácie o zámere a časovom pláne napĺňania údajov uvedených v druhom, piatom a ôsmom bode prílohy č. 1; v prípade návrhu na zriadenie sa neuvádzajú údaje uvedené v bodoch 4a. a 4b. prílohy č. 1,
+I.1 | Uvádza sa úplný názov vysokej školy, ktorá žiada o vyjadrenie.
 
-  - 5. návrh vnútorných predpisov vysokej školy podľa § 15 ods. 1 písm. a) až c) zákona pri návrhu na zriadenie, zlúčenie, splynutie alebo rozdelenie vysokej školy,
-
-  - 6. informáciu o prechode práv, pohľadávok a záväzkov vysokej školy navrhovanej na zrušenie a informáciu o tom, ktorá iná vysoká škola alebo fakulta vysokej školy umožní dokončiť vysokoškolské vzdelanie študentom zrušenej vysokej školy alebo zrušenej fakulty v rovnakom alebo príbuznom študijnom odbore pri návrhu na zrušenie vysokej školy alebo fakulty,
-
-  - 7. údaje uvedené v druhom a ôsmom bode prílohy č. 1 a údaje o prípadných ďalších zmenách, ak nastali pri zmene sídla vysokej školy, vypracované podľa údajov uvedených v prvom, štvrtom, piatom a šiestom bode prílohy č. 1 pri návrhu na zmenu sídla vysokej školy.
+I.5 | Uvádza sa zoznam akreditovaných študijných programov a priznaných práv na uskutočňovanie habilitačného konania a konania na vymenovanie profesora, na ktoré má navrhovaná zmena vplyv. Navrhovaná zmena má vplyv najmä, ak dochádza k presunu zamestnancov, ktorí garantujú alebo spolugarantujú príslušné právo, zabezpečujú vzdelávacie činnosti v príslušnom študijnom programe, na inú súčasť vysokej školy, mení sa miesto poskytovania študijného programu, menia sa podmienky na tvorivú činnosť zamestnancov a podobne.
