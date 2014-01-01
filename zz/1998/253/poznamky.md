@@ -20,6 +20,8 @@
 
 - 5b) § 16 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 216/2007 Z. z.
 
+- 5c) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 7) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
@@ -27,6 +29,10 @@
 - 8) § 23 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 8a) Čl. 8, čl. 15 ods. 2 Prílohy VI. nariadenia Európskeho parlamentu a rady č. 211/2011, Ú. v. EÚ L 65, 11. 3. 2011, s. 1 až 22.
+
+- 8b) § 3 ods. 1 a 2 zákona č. 275/2006 Z. z. v znení neskorších predpisov.
+
+- 8c) Nariadenie Európskeho parlamentu a Rady (ES) č. 767/2008 z 9. júla 2008 o vízovom informačnom systéme (VIS) a výmene údajov o krátkodobých vízach medzi členskými štátmi (nariadenie o VIS) (Ú. v. EÚ L 218, 13. 8. 2008) v platnom znení.
 
 - 9) § 754 až 759 Občianskeho zákonníka.
 
