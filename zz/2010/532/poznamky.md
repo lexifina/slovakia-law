@@ -96,7 +96,7 @@
 
 - 46) Opatrenie Ministerstva financií Slovenskej republiky zo 14. novembra 2007 č. MF/24342/2007-74, ktorým sa ustanovujú podrobnosti o postupoch účtovania a účtovej osnove pre účtovné jednotky, ktoré nie sú založené alebo zriadené na účel podnikania v znení neskorších predpisov (oznámenie č. 601/2007 Z. z.).
 
-- 47) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení neskorších predpisov.
+- 47) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 48) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
