@@ -14,7 +14,7 @@
 
 - 8) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
-- 9) Nariadenie vlády Slovenskej republiky č. 100/1993 Z. z. o Obchodnom vestníku.
+- 9) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 10) Napríklad zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
