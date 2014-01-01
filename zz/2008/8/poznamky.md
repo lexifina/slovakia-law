@@ -46,6 +46,8 @@
 
 - 22) § 15a zákona č. 381/2001 Z. z. v znení neskorších predpisov.
 
+- 22a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
 - 23) § 29 zákona č. 747/2004 Z. z.
 
 - 24) Rozhodnutie Rady z 20. júna 1991 o uzavretí Dohody medzi Európskym hospodárskym spoločenstvom a Švajčiarskou konfederáciou o priamom poistení s výnimkou životného poistenia (Ú. v. ES L 205; Mimoriadne vydanie Ú. v. EÚ kap. 6/zv.1).
