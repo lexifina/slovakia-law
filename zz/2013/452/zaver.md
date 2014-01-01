@@ -1,0 +1,1 @@
+Jozef Makúch v. r.
