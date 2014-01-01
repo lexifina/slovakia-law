@@ -4,7 +4,7 @@
 
 # § 20a
 
-(1) Štátny dopravný úrad pridelí vozidlu náhradné identifikačné číslo vozidla VIN na základe písomnej žiadosti prevádzkovateľa vozidla, ak
+(1) Štátny dopravný úrad pridelí vozidlu náhradné identifikačné číslo vozidla VIN na základe písomnej žiadosti prevádzkovateľa vozidla alebo vlastníka vozidla, ak ide o jednotlivo dovezené vozidlo z členského štátu alebo iného zmluvného štátu, ak
 
 - a) pri výmene karosérie vozidla rovnakého typu v rámci jedného typového radu dôjde k odstráneniu tej časti karosérie, na ktorej výrobca umiestnil identifikačné číslo vozidla VIN,
 
@@ -40,17 +40,23 @@
 
 (3) Prílohou k žiadosti podľa odseku 2 sú
 
-- a) fotokópia osvedčenie o evidencii časť I a časť II alebo fotokópia technického osvedčenia vozidla,
+- a) fotokópia osvedčenia o evidencii časť I a časť II, fotokópia technického osvedčenia vozidla alebo fotokópia osvedčenia o evidencii členského štátu alebo iného zmluvného štátu, ak bol taký doklad vydaný a ak ide o jednotlivo dovezené vozidlo z členského štátu alebo iného zmluvného štátu; ak má osvedčenie o vozidle dve časti, musia byť predložené obidve časti,
 
-- b) odborný posudok o kontrole originality vozidla podľa § 85 nie starší ako 15 dní odo dňa jeho vydania,
+- b) fotokópia dokladu o nadobudnutí vozidla, napríklad faktúra, kúpna zmluva alebo darovacia zmluva, ak ide o jednotlivo dovezené vozidlo z členského štátu alebo iného zmluvného štátu,
 
-- c) protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. a) nie starší ako 15 dní odo dňa jeho vydania,
+- c) odborný posudok o kontrole originality vozidla podľa § 85 nie starší ako 15 dní odo dňa jeho vydania,
 
-- d) doklad o nadobudnutí tej časti vozidla, na ktorej bolo pôvodné identifikačné číslo vozidla VIN; predkladá sa, ak sa náhradné identifikačné číslo vozidla VIN prideľuje pri výmene karosérie vozidla alebo pri oprave vozidla,
+- d) protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. a) nie starší ako 15 dní odo dňa jeho vydania,
 
-- e) súhlasné stanovisko výrobcu alebo zástupcu výrobcu vozidla o tom, že ide o rovnaký typ karosérie v rámci jedného typového radu, ak sa náhradné identifikačné číslo vozidla VIN prideľuje pri výmene karosérie vozidla,
+- e) doklad o nadobudnutí tej časti vozidla, na ktorej bolo pôvodné identifikačné číslo vozidla VIN; predkladá sa, ak sa náhradné identifikačné číslo vozidla VIN prideľuje pri výmene karosérie vozidla alebo pri oprave vozidla,
 
-- f) doklad o dopravnej nehode vydaný príslušným orgánom Policajného zboru alebo doklad o poistnej udalosti, ak je vozidlo po dopravnej nehode.
+- f) súhlasné stanovisko výrobcu alebo zástupcu výrobcu vozidla o tom, že ide o rovnaký typ karosérie v rámci jedného typového radu, ak sa náhradné identifikačné číslo vozidla VIN prideľuje pri výmene karosérie vozidla,
+
+- g) doklad o dopravnej nehode vydaný príslušným orgánom Policajného zboru, doklad o poistnej udalosti alebo obdobný doklad zo zahraničia, ak je vozidlo po dopravnej nehode,
+
+- h) potvrdenie výrobcu alebo zástupcu výrobcu o stotožnení vozidla; predkladá sa pri jednotlivo dovezenom vozidle z členského štátu alebo iného zmluvného štátu, ak má neidentifikovateľné identifikačné číslo vozidla VIN,
+
+- i) doklady podľa § 16d ods. 4 písm. a) až c); predkladajú sa, ak sa náhradné identifikačné číslo vozidla VIN prideľuje pri opätovnom schválení vozidla na prevádzku v premávke na pozemných komunikáciách z dôvodu jeho odcudzenia.
 
 (4) Náhradné identifikačné číslo vozidla VIN sa nepridelí vozidlu, ak
 
@@ -58,7 +64,7 @@
 
 - b) pri kontrole originality vozidla alebo technickej kontrole vozidla bolo zistené, že vozidlo (podvozok) má viac identifikačných čísel vozidla VIN; to neplatí, ak nadstavba vozidla má svoje identifikačné číslo alebo v rámci viacstupňového schválenia bolo vozidlu pridelených viac identifikačných čísel vozidla VIN,
 
-- c) jednotlivo dovezené vozidlo nemá identifikovateľné číslo vozidla VIN,
+- c) jednotlivo dovezené vozidlo z tretieho štátu nemá identifikovateľné číslo vozidla VIN,
 
 - d) ide o vozidlo, ktoré bolo vyradené z evidencie vozidiel z dôvodu jeho recyklovateľnosti,
 
@@ -66,10 +72,14 @@
 
 - f) pôvodné identifikačné číslo vozidla VIN je neoprávnene pozmenené a vozidlo sa nedá identifikovať podľa skrytých identifikátorov.
 
-(5) Štátny dopravný úrad pridelí náhradné identifikačné číslo vozidla VIN, ak žiadateľ splnil podmienky uvedené v odsekoch 1 až 4; inak žiadosť zamietne.
+(5) Ak ide o konanie o pridelenie náhradného identifikačného čísla vozidla VIN jednotlivo dovezenému vozidlu z členského štátu alebo iného zmluvného štátu, technická kontrola podľa § 48 a kontrola originality podľa § 83 sa vykoná na základe žiadosti vlastníka vozidla a na jeho náklady.
 
-(6) Ak štátny dopravný úrad pridelí náhradné identifikačné číslo vozidla VIN podľa odseku 5, vydá rozhodnutie o pridelení náhradného identifikačného čísla vozidla VIN, v ktorom môže určiť ďalšie podmienky.
+(6) Štátny dopravný úrad pridelí náhradné identifikačné číslo vozidla VIN, ak žiadateľ splnil podmienky uvedené v odsekoch 1 až 4; inak žiadosť zamietne.
 
-(7) Náhradné identifikačné číslo vozidla VIN umiestni a upevní na vozidlo pracovisko kontroly originality podľa § 85a.
+(7) Ak štátny dopravný úrad pridelí náhradné identifikačné číslo vozidla VIN podľa odseku 6, vydá rozhodnutie o pridelení náhradného identifikačného čísla vozidla VIN, v ktorom môže určiť ďalšie podmienky.
 
-(8) Metodiku obsahujúcu postup prideľovania náhradného identifikačného čísla vozidla VIN a jeho štruktúru uverejní ministerstvo vo svojom vestníku.
+(8) Náhradné identifikačné číslo vozidla VIN umiestni a upevní na vozidlo pracovisko kontroly originality podľa § 85a.
+
+(9) Metodiku obsahujúcu postup prideľovania náhradného identifikačného čísla vozidla VIN a jeho štruktúru uverejní ministerstvo vo svojom vestníku.
+
+(10) Ak bolo vozidlu vydané osvedčenie o evidencii časť I po 31. máji 2010 alebo bol vykonaný evidenčný úkon, v dôsledku ktorého bude takéto osvedčenie vydané, okresný úrad vydá nové osvedčenie o evidencii časť II a elektronickým spôsobom objedná personalizáciu osvedčenia o evidencii časť I a podľa požiadavky držiteľa vozidla určí adresu, na ktorú bude osvedčenie o evidencii časť I doručené.

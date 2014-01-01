@@ -14,7 +14,7 @@
 
 - b) vystaví základný technický opis vozidla, pričom uvedie, či jednotlivo dovezené vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel.
 
-(6) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu podľa odseku 5 sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(6) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu podľa odseku 5 sa primerane vzťahuje ustanovenie § 14 ods. 18 a § 16a ods. 28 a 29.
 
 (7) Žiadosť o schválenie jednotlivo dovezeného vozidla z tretieho štátu musí obsahovať údaje podľa § 16a ods. 1 písm. a) a b).
 
@@ -72,6 +72,6 @@
 
 (16) Na formát osvedčenia o schválení jednotlivého vozidla sa primerane vzťahuje ustanovenie § 14 ods. 17.
 
-(17) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu podľa odseku 15 sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(17) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla jednotlivo dovezenému vozidlu podľa odseku 15 sa primerane vzťahuje ustanovenie § 14 ods. 18 a § 16a ods. 28 a 29.
 
 (18) V rozhodnutí o schválení jednotlivo dovezeného vozidla z tretieho štátu okresný úrad uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel, ak vozidlo takej kontrole podlieha.

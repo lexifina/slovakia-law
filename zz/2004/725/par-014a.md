@@ -46,6 +46,6 @@
 
 (9) Na formát osvedčenia o schválení jednotlivého vozidla sa primerane vzťahuje ustanovenie § 14 ods. 17.
 
-(10) Na vydanie osvedčenia o evidencii časti II a technického osvedčenia vozidla jednotlivo dokončovanému vozidlu podľa odseku 8 sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(10) Na vydanie osvedčenia o evidencii časti II a technického osvedčenia vozidla jednotlivo dokončovanému vozidlu podľa odseku 8 sa primerane vzťahuje ustanovenie § 14 ods. 18, 21 a 22.
 
 (11) Okresný úrad nesmie schváliť jednotlivo dokončované vozidlo s riadením na pravej strane alebo v strede vozidla; to neplatí, ak ide o vozidlo jednoúčelového využitia, ktoré vyžaduje také umiestnenie riadenia.

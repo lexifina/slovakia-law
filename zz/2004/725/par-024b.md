@@ -16,7 +16,9 @@
 
 - d) na vozidle bola vykonaná prestavba, pri ktorej došlo k odstráneniu tej časti, na ktorej výrobca umiestnil identifikačné číslo vozidla VIN alebo na vozidle bola vymenená karoséria, ktorá je podľa § 17 ods. 12 zakázaná a prevádzkovateľ vozidla na základe rozhodnutia okresného úradu v ním určenej lehote uvedené nedostatky neodstránil,
 
-- e) na vozidle je identifikačné číslo vozidla VIN, ktoré výrobca nikdy nevyrobil.
+- e) na vozidle je identifikačné číslo vozidla VIN, ktoré výrobca nikdy nevyrobil,
+
+- f) je v evidencii vozidiel vozidlo, ktoré bolo odcudzené pred rozhodnutím okresného úradu o uznaní typového schválenia ES jednotlivo dovezeného vozidla alebo o uznaní schválenia jednotlivo dovezeného vozidla alebo o schválení jednotlivo dovezeného vozidla.
 
 (2) Ak prevádzkovateľ vozidla po nadobudnutí právoplatnosti rozhodnutia v určenej lehote nesplnil povinnosť podľa odseku 1, okresný úrad rozhodne o trvalom vyradení vozidla z premávky na pozemných komunikáciách. Pri vozidlách, ktoré nepodliehajú prihláseniu do evidencie vozidiel, okresný úrad odníme technické osvedčenie vozidla.
 

@@ -22,7 +22,7 @@
 
   - 6. obchodné meno výrobcu vozidla,
 
-  - 7. identifikačné číslo vozidla VIN.
+  - 7. identifikačné číslo vozidla VIN alebo náhradné identifikačné číslo vozidla VIN.
 
 (2) Prílohou k žiadosti podľa odseku 1 sú:
 
@@ -37,6 +37,8 @@
   - 4. osvedčenie o evidencii, ak taký doklad bol v členskom štáte vydaný; ak má osvedčenie o evidencii dve časti, musia byť predložené obidve časti,
 
   - 5. potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo;<sup>8b</sup>)
+
+  - 6. potvrdenie výrobcu alebo zástupcu výrobcu, že jednotlivo dovezené vozidlo je novým vozidlom, ktoré nebolo prihlásené do evidencie vozidiel, alebo odborný posudok o kontrole originality vozidla podľa § 83a ods. 2 písm. c) s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách, nie starší ako 15 dní odo dňa jeho vydania.
 
 - b) ak ide o nové vozidlo, ktoré bolo prihlásené do evidencie vozidiel v členskom štáte, alebo ak ide o ojazdené vozidlo
 
@@ -74,7 +76,7 @@
 
 - a) ak ide o nové vozidlo, ktoré nebolo prihlásené do evidencie vozidiel v členskom štáte,
 
-  - 1. doklady podľa odseku 2 písm. a) prvého bodu, tretieho až piateho bodu,
+  - 1. doklady podľa odseku 2 písm. a) prvého bodu, tretieho až šiesteho bodu,
 
   - 2. originál alebo kópia vnútroštátneho osvedčenia o zhode vozidla potvrdzujúceho zhodu vozidla s vnútroštátnymi požiadavkami členského štátu,
 
@@ -143,3 +145,7 @@
 (26) Ak sa v konaní o žiadosti podľa odsekov 1, 7, 15 a 25 predkladá protokol o technickej kontrole vozidla alebo sa uzná doklad o vykonaní technickej kontroly vozidla vydaný v členskom štáte alebo inom zmluvnom štáte, alebo ak sa predkladá protokol o emisnej kontrole motorového vozidla alebo sa uzná doklad o vykonaní emisnej kontroly motorového vozidla vydaný v členskom štáte alebo inom zmluvnom štáte, okresný úrad v rozhodnutí podľa odseku 5 písm. a), odseku 12 písm. a) a odseku 22 písm. a) uvedie lehotu platnosti technickej kontroly podľa platného protokolu o technickej kontrole alebo platného dokladu o vykonaní technickej kontroly a lehotu platnosti emisnej kontroly podľa platného protokolu o emisnej kontrole alebo platného dokladu o vykonaní emisnej kontroly a uloží povinnosť podrobiť vozidlo technickej kontrole administratívnej a motorové vozidlo emisnej kontrole administratívnej v lehote do siedmich dní od prihlásenia vozidla do evidencie vozidiel, ak vozidlo takej kontrole podlieha.
 
 (27) Harmonizovaným osvedčením o evidencii sa rozumie osvedčenie o evidencii vydané v členskom štáte alebo inom zmluvnom štáte, ktoré spĺňa požiadavky uvedené vo všeobecne záväznom právnom predpise, ktorý vydá ministerstvo.
+
+(28) Povinnosť okresného úradu vystaviť a vydať osvedčenie o evidencii časť II podľa odsekov 6 a 13 neplatí, ak o prihlásenie vozidla do evidencie požiada osoba, ktorej predmetom činnosti je predaj vozidiel evidovaných v Slovenskej republike alebo v inom štáte prostredníctvom elektronickej služby zavedenej na tento účel podľa osobitného predpisu.<sup>8ba</sup>)
+
+(29) Ak okresný úrad požiada o prihlásenie dosiaľ neevidovaného dokončeného vozidla do evidencie prostredníctvom elektronickej služby zavedenej na tento účel, je povinný bezodplatne v elektronickej forme zasielať orgánu Policajného zboru údaje o nadobudnutí vozidla, vlastníkovi vozidla, držiteľovi vozidla, ktorých orgán Policajného zboru zapíše do osvedčenia o evidencii časť I a časť II, druhu a rozmere tabuľky s evidenčným číslom, mieste a spôsobe doručenia osvedčenia o evidencii časť I, a o osobe, ktorá prevezme osvedčenie o evidencii časť II a tabuľky s evidenčným číslom.

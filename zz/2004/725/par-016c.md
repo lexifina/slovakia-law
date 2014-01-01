@@ -10,7 +10,7 @@
 
 - a) s riadením na pravej strane alebo v strede vozidla alebo vozidlo, ktoré nie je určené pre pravostrannú premávku; to neplatí, ak ide o vozidlo jednoúčelového využitia, ktoré vyžaduje také umiestnenie riadenia, alebo
 
-- b) ak jednotlivo dovezené vozidlo nemá identifikačné číslo vozidla VIN, alebo má nečitateľné, neúplné alebo pozmenené identifikačné číslo vozidla VIN,
+- b) ak jednotlivo dovezené vozidlo nemá identifikačné číslo vozidla VIN, má pozmenené identifikačné číslo vozidla VIN, má neúplné alebo nečitateľné identifikačné číslo vozidla VIN alebo ho nemožno určiť; to neplatí, ak bolo vozidlu pridelené náhradné identifikačné číslo vozidla VIN,
 
 - c) ak jednotlivo dovezené vozidlo bolo vyradené z evidencie vozidiel v inom štáte z dôvodu jeho recyklovateľnosti,
 

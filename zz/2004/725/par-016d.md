@@ -56,6 +56,6 @@
 
 - b) vystaví základný technický opis vozidla, pričom uvedie, či vozidlo vzhľadom na svoju konštrukciu podlieha alebo nepodlieha prihláseniu do evidencie vozidiel.
 
-(7) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla sa primerane vzťahuje ustanovenie § 14 ods. 18.
+(7) Na vydanie osvedčenia o evidencii časť II a technického osvedčenia vozidla sa primerane vzťahuje ustanovenie § 14 ods. 18 a § 16a ods. 29.
 
 (8) Okresný úrad nesmie opätovne schváliť vozidlo s riadením na pravej strane alebo v strede vozidla; to neplatí, ak ide o vozidlo jednoúčelového využitia, ktoré vyžaduje také umiestnenie riadenia.
