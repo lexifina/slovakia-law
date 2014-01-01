@@ -66,6 +66,8 @@
 
 - 6) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 7) Napríklad § 40 ods. 3 zákona č. 139/2002 Z. z. v znení neskorších predpisov, § 29 ods. 8 zákona č. 261/2002 Z. z. v znení zákona č. 587/2004 Z. z., § 39 ods. 8 zákona č. 442/2002 Z. z. v znení neskorších predpisov, § 91 ods. 11 a 13 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 74 ods. 4 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 584/2004 Z. z., § 30 ods. 14 zákona č. 137/2010 Z. z. o ovzduší v znení zákona č. 180/2013 Z. z.
+
 - 10) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 151/2002 Z. z.
