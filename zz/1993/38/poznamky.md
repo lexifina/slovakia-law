@@ -38,7 +38,13 @@
 
 - 19) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
 
+- § 4 ods. 4 zákona č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
 - 20) Čl. 9 a 10 ústavného zákona č. 357/2004 Z. z. v znení ústavného zákona č. 545/2005 Z. z.
+
+- 20a) § 5 a 6 zákona č. 402/2013 Z. z.
+
+- 20b) Zákon č. 402/2013 Z. z.
 
 - 21) Zákon č. 385/2000 Z. z.
 
