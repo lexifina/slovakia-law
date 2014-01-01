@@ -86,7 +86,7 @@
 
 - 7d) § 5b až 5d zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
 
-- 7e) § 43 ods. 8 a 9 a § 44 ods. 8 a 9 zákona č. 305/2013 Z. z.
+- 7e) § 5 ods. 1 zákona č. 530/2003 Z. z.
 
 - 7f) § 3 písm. c) zákona č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
