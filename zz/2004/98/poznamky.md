@@ -26,7 +26,9 @@
 
 - 2d) Napríklad STN EN 228 Automobilové palivá. Bezolovnatý benzín. Požiadavky a skúšobné metódy.
 
-- 2e) § 14a ods. 3 a príloha č. 1 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
+- 2e) Príloha č. 1 k zákonu č. 309/2009 Z. z. v znení neskorších predpisov.
+
+- 2ea) STN EN ISO 4259 Ropné výrobky. Určovanie a využívanie údajov presnosti výsledkov vo vzťahu k skúšobným metódam.
 
 - 2f) Napríklad STN EN 590 Automobilové palivá. Nafta. Požiadavky a skúšobné metódy.
 
@@ -70,7 +72,7 @@
 
 - 11) § 156 zákona č. 563/2009 Z. z.
 
-- 12) Vyhláška Ministerstva vnútra Slovenskej republiky č. 86/1999 Z. z., ktorou sa ustanovujú zásady požiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
+- 12) Vyhláška Ministerstva vnútra Slovenskej republiky č. 96/2004 Z. z., ktorou sa ustanovujú zásady protipožiarnej bezpečnosti pri manipulácii a skladovaní horľavých kvapalín, ťažkých vykurovacích olejov a rastlinných a živočíšnych tukov a olejov.
 
 - 13) STN 753415 Ochrana vody pred ropnými látkami, objekty pre manipuláciu s ropnými látkami a ich skladovanie.
 
@@ -143,6 +145,10 @@
 - 30a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 30b) § 67 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 30c) Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov.
+
+- Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
