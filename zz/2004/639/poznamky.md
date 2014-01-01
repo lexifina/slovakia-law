@@ -26,7 +26,9 @@
 
 - 11) § 34 a 42 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
-- 11a) Zákon č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 664/2007 Z. z.
+- 11a) Zákon č. 474/2013 Z. z. o výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
+
+- 11aa) § 6 ods. 1 písm. k) zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11b) § 14 zákona č. 25/2006 Z. z.
 
