@@ -126,6 +126,8 @@
 
 - 43) Zákon č. 85/1990 Zb. v znení neskorších predpisov.
 
+- 43a) § 3 zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
 - 44) § 54 a 59 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - 45) § 6 ods.1 písm. b) zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 394/2000 Z. z.
@@ -177,6 +179,8 @@
 - 59) § 2 a 63 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 60) § 63 ods. 4 a 5 zákona č. 29/1984 Zb. v znení neskorších predpisov.
+
+- 60a) § 7 ods. 2 písm. b) a ods. 6 zákona č. 317/2009 Z. z.
 
 - 61) § 1 zákona Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
 
