@@ -94,6 +94,18 @@ Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorý
 
 - Ministerstvo na úseku starostlivosti o elektronické archívne dokumenty zabezpečuje
 
+- a)
+
+- ich trvalé uloženie,
+
+- b)
+
+- ich autenticitu, hodnovernosť, neporušiteľnosť obsahu a čitateľnosť,
+
+- c)
+
+- ich sprístupnenie a zverejňovanie,
+
 - d)
 
 - metodické usmerňovanie správy elektronických archívnych dokumentov.“.
