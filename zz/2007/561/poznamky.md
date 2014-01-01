@@ -50,9 +50,9 @@
 
 - 17) § 6 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 18) § 19 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
-
 - 19) § 3 ods. 3 a 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 19a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 20) § 30a zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
