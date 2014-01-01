@@ -4,6 +4,34 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - 1. V § 12 písm. p) a v § 13 ods. 1 písm. x) sa slová „tohto zákona a“ nahrádzajú slovami „tohto zákona okrem § 53e, dodržiavanie“.
 
+- 2. V § 29 ods. 4 prvej vete sa slovo „Fyzická“ nahrádza slovami „Právnická osoba alebo fyzická“ a na konci sa pripája táto veta: „Podmienkou na vydanie povolenia na vykonávanie činnosti agentúry dočasného zamestnávania právnickej osobe je aj disponovanie vlastným imaním v hodnote najmenej 30 000 eur; ústredie zisťuje splnenie tejto podmienky vo verejnej časti registra účtovných závierok.<sup>35d</sup>)“.
+
+- Poznámka pod čiarou k odkazu 35d znie:
+
+- „35d)
+
+- § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.“.
+
+- 3. V § 29 ods. 8 písmeno c) znie:
+
+- „c)
+
+- doklad preukazujúci bankovú záruku v hodnote najmenej 15 000 eur, ak ide o fyzickú osobu,“.
+
+- 4. V § 31 ods. 1 písmeno f) znie:
+
+- „f)
+
+- poskytovať ústrediu správu o svojej činnosti za predchádzajúci kalendárny rok na tlačive, ktorého vzor určí ústredie, v termíne do 31. marca nasledujúceho kalendárneho roka,“.
+
+- 5. V § 31 sa odsek 1 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- disponovať vlastným imaním v hodnote najmenej 30 000 eur; ústredie zisťuje splnenie tejto podmienky vo verejnej časti registra účtovných závierok.<sup>35d</sup>)“.
+
+- 6. V 31 ods. 2 písm. b) sa za slová „písm. f)“ vkladajú slová „alebo písm. g)“.
+
 - 7. Za § 53d sa vkladá § 53e, ktorý vrátane nadpisu znie:
 
 - „§ 53e
