@@ -818,6 +818,8 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - Platiteľ, ktorý mal k 30. septembru 2012 zdaňovacie obdobie kalendárny štvrťrok, môže pokračovať v tomto zdaňovacom období, najviac však do konca kalendárneho štvrťroka, v ktorom prestane plniť podmienky podľa § 77 ods. 2.“.
 
+- 51. V § 85l sa číslo „2013“ nahrádza číslom „2014“ a číslo „2012“ sa v celom texte nahrádza číslom „2013“.
+
 - 52. V prílohe č. 1 sa slová „1, ak platiteľ odpočítal daň v plnej výške, alebo číslo 0, ak platiteľ neodpočítal daň, alebo hodnota koeficientu vypočítaného po skončení kalendárneho roka, ak platiteľ pomerne odpočítal daň“ nahrádzajú slovami „od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ mal právo naposledy odpočítať pri investičnom majetku, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor“ a slová „číslo, ktoré predstavuje koeficient vypočítaný po skončení kalendárneho roka, v ktorom platiteľ zmenil účel použitia investičného majetku, alebo číslo 0, alebo číslo 1, a to podľa zmeny účelu použitia investičného majetku podľa § 54 ods. 3“ sa nahrádzajú slovami „číslo od 0 do 1, ktoré je podielom vyjadrujúcim výšku dane, ktorú platiteľ môže odpočítať pri investičnom majetku, k výške dane vzťahujúcej sa na obstarávaciu cenu investičného majetku alebo vlastným nákladom investičného majetku v kalendárnom roku, v ktorom nastanú dôvody na úpravu odpočítanej dane podľa § 54 alebo § 54a alebo súbežne podľa § 54 a 54a; vypočítaný podiel sa zaokrúhľuje na dve desatinné miesta nahor“.
 
 - 53. Príloha č. 6 sa dopĺňa bodom 14, ktorý znie:
