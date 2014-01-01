@@ -24,7 +24,7 @@
 
 - 6d) § 8 zákona Národnej rady Slovenskej republiky č. 14/1993 Z. z. o štátnom rozpočte Slovenskej republiky na rok 1993 a o zmene zákonov v oblasti sociálneho zabezpečenia a niektorých ďalších zákonov v znení zákona Národnej rady Slovenskej republiky č. 159/1993 Z. z.
 
-- 6e) Napr. § 38 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov.
+- 6e) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
 - 6f) Zákon Slovenskej národnej rady č. 73/1992 Zb. o audítoroch a Slovenskej komore audítorov.
 
