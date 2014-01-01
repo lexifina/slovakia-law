@@ -36,6 +36,8 @@
 
 - 12e) § 8a ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
+- 12ea) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
 - 12f) § 116 Občianskeho zákonníka.
 
 - 12g) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.

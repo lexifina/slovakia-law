@@ -98,19 +98,19 @@
 
 - d) pri právnickej osobe výpis z registra trestov štatutárnych zástupcov a pri fyzickej osobe - podnikateľovi výpis z registra trestov fyzickej osoby nie starší ako tri mesiace,
 
-- e) výročná správa alebo účtovná závierka žiadateľa za predchádzajúci hospodársky rok, ak je žiadateľ povinný ju vypracovávať,
+- e) prínosy poskytnutej dotácie pre rozvoj žiadateľa a pre Slovenskú republiku,
 
-- f) prínosy poskytnutej dotácie pre rozvoj žiadateľa a pre Slovenskú republiku,
+- f) čestné vyhlásenie žiadateľa, že všetky ním poskytnuté údaje sú úplné,
 
-- g) čestné vyhlásenie žiadateľa, že všetky ním poskytnuté údaje sú úplné,
+- g) potvrdenie o zabezpečení spolufinancovania zo zdrojov žiadateľa, ak je spolufinancovanie požadované.
 
-- h) potvrdenie o zabezpečení spolufinancovania zo zdrojov žiadateľa, ak je spolufinancovanie požadované.
+(13) Ak je žiadateľ povinný vypracúvať účtovnú závierku alebo výročnú správu, uloží ich znenie za posledné účtovné obdobie najneskôr 15 pracovných dní pred termínom podania žiadosti do verejnej časti registra účtovných závierok,<sup>12ea</sup>) ak taká účtovná závierka alebo výročná správa nie je v registri účtovných závierok uložená.
 
-(13) Žiadateľ na základe oznámenia o predkladaní žiadostí o poskytnutie dotácie môže predložiť jednu žiadosť o poskytnutie dotácie.
+(14) Žiadateľ na základe oznámenia o predkladaní žiadostí o poskytnutie dotácie môže predložiť jednu žiadosť o poskytnutie dotácie.
 
-(14) O poskytnutí dotácie rozhoduje minister školstva, vedy, výskumu a športu Slovenskej republiky (ďalej len „minister školstva“), ak je poskytovateľom dotácie ministerstvo školstva, alebo príslušný minister, vedúci, riaditeľ alebo predseda, ak je poskytovateľom dotácie ústredný orgán, alebo predseda Slovenskej akadémie vied, ak je poskytovateľom dotácie Slovenská akadémia vied. Pri rozhodovaní o poskytnutí dotácie minister školstva, príslušný minister, vedúci, riaditeľ, predseda ústredného orgánu alebo predseda Slovenskej akadémie vied vychádza z odporúčaní odbornej komisie pre poskytnutie dotácie (ďalej len „komisia“), ktorú si zriaďujú osobitne na tento účel.
+(15) O poskytnutí dotácie rozhoduje minister školstva, vedy, výskumu a športu Slovenskej republiky (ďalej len „minister školstva“), ak je poskytovateľom dotácie ministerstvo školstva, alebo príslušný minister, vedúci, riaditeľ alebo predseda, ak je poskytovateľom dotácie ústredný orgán, alebo predseda Slovenskej akadémie vied, ak je poskytovateľom dotácie Slovenská akadémia vied. Pri rozhodovaní o poskytnutí dotácie minister školstva, príslušný minister, vedúci, riaditeľ, predseda ústredného orgánu alebo predseda Slovenskej akadémie vied vychádza z odporúčaní odbornej komisie pre poskytnutie dotácie (ďalej len „komisia“), ktorú si zriaďujú osobitne na tento účel.
 
-(15) Komisia má ako poradný orgán poskytovateľa dotácií najmenej troch členov. Člen komisie alebo jemu blízka osoba<sup>12f</sup>) nesmie byť
+(16) Komisia má ako poradný orgán poskytovateľa dotácií najmenej troch členov. Člen komisie alebo jemu blízka osoba<sup>12f</sup>) nesmie byť
 
 - a) žiadateľom o dotáciu,
 
@@ -120,13 +120,13 @@
 
 - d) v pracovnoprávnom vzťahu k žiadateľovi o dotáciu alebo v pracovnoprávnom vzťahu k záujmovému združeniu podnikateľov, ktorého je žiadateľ o dotáciu členom.
 
-(16) Komisia je pri vyhodnocovaní žiadostí o poskytnutie dotácie nezávislá a vyhodnocuje ich podľa kritérií uvedených v oznámení o predkladaní žiadostí o poskytnutie dotácie podľa odseku 9 písm. b). Jednotlivé žiadosti o poskytnutie dotácie musia byť pri vyhodnocovaní očíslované a bez identifikačných údajov žiadateľa o dotáciu.
+(17) Komisia je pri vyhodnocovaní žiadostí o poskytnutie dotácie nezávislá a vyhodnocuje ich podľa kritérií uvedených v oznámení o predkladaní žiadostí o poskytnutie dotácie podľa odseku 9 písm. b). Jednotlivé žiadosti o poskytnutie dotácie musia byť pri vyhodnocovaní očíslované a bez identifikačných údajov žiadateľa o dotáciu.
 
-(17) Podrobnosti o zložení, rokovaní, rozhodovaní komisie, organizácii jej práce a postupe pri vyhodnocovaní žiadostí o poskytnutie dotácie upraví štatút komisie, ktorý vydá poskytovateľ dotácií.
+(18) Podrobnosti o zložení, rokovaní, rozhodovaní komisie, organizácii jej práce a postupe pri vyhodnocovaní žiadostí o poskytnutie dotácie upraví štatút komisie, ktorý vydá poskytovateľ dotácií.
 
-(18) Ak príjemca dotácie poruší finančnú disciplínu pri použití dotácie, uplatní sa postup podľa osobitného predpisu.<sup>12g</sup>)
+(19) Ak príjemca dotácie poruší finančnú disciplínu pri použití dotácie, uplatní sa postup podľa osobitného predpisu.<sup>12g</sup>)
 
-(19) Poskytovateľ dotácie poskytuje dotáciu na základe písomnej zmluvy o poskytnutí dotácie. Zmluva o poskytnutí dotácie obsahuje
+(20) Poskytovateľ dotácie poskytuje dotáciu na základe písomnej zmluvy o poskytnutí dotácie. Zmluva o poskytnutí dotácie obsahuje
 
 - a) identifikačné údaje zmluvných strán podľa odseku 10,
 
@@ -148,12 +148,12 @@
 
 - j) ďalšie údaje, ak o ich predloženie požiada poskytovateľ.
 
-(20) Neoddeliteľnou súčasťou zmluvy o poskytnutí dotácie je aj rozpočet príjmov a výdavkov podľa odseku 11 písm. e).
+(21) Neoddeliteľnou súčasťou zmluvy o poskytnutí dotácie je aj rozpočet príjmov a výdavkov podľa odseku 11 písm. e).
 
-(21) Poskytovateľ dotácie vykonáva kontrolu použitia dotácie podľa osobitného predpisu.<sup>12h</sup>) Poskytovateľ dotácie kontroluje aj účelnosť použitia dotácie na základe správy predloženej príjemcom dotácie najneskôr do troch mesiacov po skončení poskytovania dotácie.
+(22) Poskytovateľ dotácie vykonáva kontrolu použitia dotácie podľa osobitného predpisu.<sup>12h</sup>) Poskytovateľ dotácie kontroluje aj účelnosť použitia dotácie na základe správy predloženej príjemcom dotácie najneskôr do troch mesiacov po skončení poskytovania dotácie.
 
-(22) Ministerstvo školstva zverejňuje zoznam členov komisie podľa odseku 14, zoznam poskytnutých dotácií a ich výšku, zmluvy o poskytnutí dotácie<sup>12i</sup>) a zoznam žiadateľov, ktorým neboli poskytnuté dotácie vrátane dôvodu neposkytnutia dotácie, a informáciu o tom, ktoré žiadosti o poskytnutie dotácie boli schválené na základe odporúčania komisie a ktoré boli schválené napriek neodporúčaniu komisie, a zdôvodnenie tohto rozhodnutia na centrálnom informačnom portáli.
+(23) Ministerstvo školstva zverejňuje zoznam členov komisie podľa odseku 14, zoznam poskytnutých dotácií a ich výšku, zmluvy o poskytnutí dotácie<sup>12i</sup>) a zoznam žiadateľov, ktorým neboli poskytnuté dotácie vrátane dôvodu neposkytnutia dotácie, a informáciu o tom, ktoré žiadosti o poskytnutie dotácie boli schválené na základe odporúčania komisie a ktoré boli schválené napriek neodporúčaniu komisie, a zdôvodnenie tohto rozhodnutia na centrálnom informačnom portáli.
 
-(23) Ústredné orgány a Slovenská akadémia vied zverejňujú zoznam členov komisie podľa odseku 14, zoznam poskytnutých dotácií a ich výšku, zmluvy o poskytnutí dotácie<sup>12i</sup>) a zoznam žiadateľov, ktorým neboli poskytnuté dotácie vrátane dôvodu neposkytnutia dotácie, a informáciu o tom, ktoré žiadosti o poskytnutie dotácie boli schválené na základe odporúčania komisie a ktoré boli schválené napriek neodporúčaniu komisie, a zdôvodnenie tohto rozhodnutia na svojom webovom sídle.
+(24) Ústredné orgány a Slovenská akadémia vied zverejňujú zoznam členov komisie podľa odseku 14, zoznam poskytnutých dotácií a ich výšku, zmluvy o poskytnutí dotácie<sup>12i</sup>) a zoznam žiadateľov, ktorým neboli poskytnuté dotácie vrátane dôvodu neposkytnutia dotácie, a informáciu o tom, ktoré žiadosti o poskytnutie dotácie boli schválené na základe odporúčania komisie a ktoré boli schválené napriek neodporúčaniu komisie, a zdôvodnenie tohto rozhodnutia na svojom webovom sídle.
 
-(24) Týmto zákonom nie sú dotknuté ustanovenia o obmedzení prístupu k informáciám podľa osobitného predpisu.<sup>12j</sup>)
+(25) Týmto zákonom nie sú dotknuté ustanovenia o obmedzení prístupu k informáciám podľa osobitného predpisu.<sup>12j</sup>)
