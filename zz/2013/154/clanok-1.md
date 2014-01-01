@@ -34,6 +34,10 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 
 - 8. V § 11 ods. 3 sa vypúšťa písmeno g).
 
+- 9. V § 11 ods. 11 sa slovo „šiestich“ nahrádza slovom „piatich“ a slovo „piatich“ sa nahrádza slovom „štyroch“.
+
+- 10. V § 11 ods. 12 sa slovo „štyri“ nahrádza slovom „tri“, slová „najmenej 800“ sa nahrádzajú slovami „najmenej 600“ a slová „najmenej 500“ sa nahrádzajú slovami „najmenej 400“.
+
 - 11. V § 12 ods. 2 písmeno d) znie:
 
 - „d)
@@ -150,6 +154,10 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 
 - vzdelanie a prax podľa právnych predpisov na zaistenie bezpečnosti a ochrany zdravia pri práci,
 
+- c)
+
+- zdravotná spôsobilosť na prácu potrebná na vykonávanie činnosti uvedenej v prílohe č. 1a,
+
 - d)
 
 - absolvovanie odbornej prípravy v rozsahu ustanovenom právnymi predpismi na zaistenie bezpečnosti a ochrany zdravia pri práci,
@@ -161,6 +169,10 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 - (3)
 
 - Preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b) sa vydáva na základe písomnej žiadosti, v ktorej fyzická osoba uvedie meno, priezvisko, dátum narodenia, adresu trvalého pobytu a činnosť, na ktorú žiada vydať preukaz, osvedčenie alebo doklad. Fyzická osoba k žiadosti priloží doklady, ktorými preukáže splnenie podmienok podľa odseku 2 písm. a) až c).
+
+- (4)
+
+- Zdravotná spôsobilosť na prácu podľa odseku 2 písm. c) sa posudzuje na základe výsledku lekárskej preventívnej prehliadky vo vzťahu k práci.<sup>6aa</sup>) Zdravotná spôsobilosť na prácu podľa prvej vety sa preukazuje lekárskym posudkom<sup>19a</sup>) nie starším ako šesť mesiacov.
 
 - (5)
 
@@ -198,6 +210,22 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 
 - odtlačok pečiatky a meno, priezvisko a podpis zástupcu inšpektorátu práce alebo fyzickej osoby alebo zástupcu právnickej osoby, ktorí vydali preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b).
 
+- (6)
+
+- Fyzická osoba, ktorá má preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b), je povinná podrobiť sa lekárskej preventívnej prehliadke vo vzťahu k práci, ktorou sa posudzuje jej zdravotná spôsobilosť na prácu potrebnú na vykonávanie tejto činnosti, do piatich rokov odo dňa
+
+- a)
+
+- vydania preukazu, osvedčenia alebo dokladu podľa odseku 1 písm. b),
+
+- b)
+
+- vykonania predchádzajúcej lekárskej preventívnej prehliadky vo vzťahu k práci.
+
+- (7)
+
+- Za lekársku preventívnu prehliadku vo vzťahu k práci na účely odsekov 4 a 6 sa považuje aj lekárska prehliadka vykonávaná podľa osobitného predpisu,<sup>19b</sup>) ak sa na obsluhu určeného pracovného prostriedku podľa odseku 1 vyžaduje vodičské oprávnenie.
+
 - (8)
 
 - Fyzická osoba, ktorá má preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b), je povinná do piatich rokov odo dňa vydania preukazu, osvedčenia alebo dokladu podľa odseku 1 písm. b) absolvovať aktualizačnú odbornú prípravu u osoby oprávnenej na výchovu a vzdelávanie. Ďalšiu aktualizačnú odbornú prípravu je fyzická osoba, ktorá má preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b), povinná absolvovať do piatich rokov odo dňa ukončenia predchádzajúcej aktualizačnej odbornej prípravy. Osoba oprávnená na výchovu a vzdelávanie uvedie v preukaze, osvedčení alebo doklade podľa odseku 1 písm. b) dátum ukončenia aktualizačnej odbornej prípravy.
@@ -217,6 +245,10 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 - a)
 
 - nadobudnutím právoplatnosti rozhodnutia o odobratí podľa odseku 10,
+
+- b)
+
+- ak sa fyzická osoba nepodrobila lekárskej preventívnej prehliadke vo vzťahu k práci podľa odseku 6 alebo ak podľa výsledku lekárskej preventívnej prehliadky vo vzťahu k práci nemá zdravotnú spôsobilosť na prácu potrebnú na vykonávanie činnosti, na ktorú mala vydané preukaz, osvedčenie alebo doklad podľa odseku 1 písm. b),
 
 - c)
 
@@ -374,7 +406,21 @@ Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
 
 - (2)
 
-- Oprávnená právnická osoba, ktorá má oprávnenie na overovanie plnenia požiadaviek bezpečnosti technických zariadení podľa § 14 vydané pred 1. júlom 2013, je povinná mať minimálne technické a prístrojové vybavenie ustanovené všeobecne záväzným právnym predpisom podľa § 30 ods. 1 písm. d) najneskôr do 30. júna 2014.“.
+- Oprávnená právnická osoba, ktorá má oprávnenie na overovanie plnenia požiadaviek bezpečnosti technických zariadení podľa § 14 vydané pred 1. júlom 2013, je povinná mať minimálne technické a prístrojové vybavenie ustanovené všeobecne záväzným právnym predpisom podľa § 30 ods. 1 písm. d) najneskôr do 30. júna 2014.
+
+- § 39f
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2014
+
+- Fyzická osoba, ktorá má platný preukaz, platné osvedčenie alebo platný doklad podľa § 16 ods. 1 písm. b) na činnosť uvedenú v prílohe č. 1a vydané pred 1. januárom 2014, je povinná podrobiť sa do 31. decembra 2014 lekárskej preventívnej prehliadke vo vzťahu k práci, ak sa lekárskej preventívnej prehliadke vo vzťahu k práci nepodrobila v období od 1. januára 2010 do 31. decembra 2013; na túto lekársku preventívnu prehliadku sa vzťahuje § 16 ods. 7. Platný preukaz, platné osvedčenie alebo platný doklad podľa § 16 ods. 1 písm. b) na činnosť uvedenú v prílohe č. 1a vydané pred 1. januárom 2014 stráca platnosť najneskôr 31. decembra 2014, ak fyzická osoba
+
+- a)
+
+- sa nepodrobila lekárskej preventívnej prehliadke vo vzťahu k práci alebo
+
+- b)
+
+- podľa výsledku lekárskej preventívnej prehliadky vo vzťahu k práci nemá zdravotnú spôsobilosť na prácu potrebnú na vykonávanie činnosti, na ktorú mala vydané preukaz, osvedčenie alebo doklad podľa § 16 ods. 1 písm. b).“.
 
 - 41. Za prílohu č. 1 sa vkladá príloha č. 1a, ktorá vrátane nadpisu znie:
 
