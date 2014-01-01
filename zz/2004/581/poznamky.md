@@ -112,6 +112,8 @@
 
 - 29) § 18 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 29a) § 23 zákona č 431/2002 Z. z. v znení neskorších predpisov.
+
 - 30) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 31) § 66b Obchodného zákonníka.
