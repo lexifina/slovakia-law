@@ -164,6 +164,8 @@
 
 - 16) Zákon č. 431/2002 Z. z.
 
+- 16a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 17) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
