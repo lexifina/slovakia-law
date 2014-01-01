@@ -14,7 +14,7 @@ Príloha č. 6 k vyhláške č. 419/2006 Z. z.
 
 - Nitra | Nitra Topoľčany Komárno Nové Zámky, nácestné stredisko | Nitra Komárno Nové Zámky, nácestné stredisko
 
-- Prešov | Prešov, nácestné stredisko Humenné Svidník Poprad, nácestné stredisko | Prešov, nácestné stredisko Poprad, nácestné stredisko
+- Prešov | Humenné Svidník Poprad, nácestné stredisko | Prešov, nácestné stredisko Poprad, nácestné stredisko
 
 - Trnava | Brodské Dunajská Streda | Trnava
 
