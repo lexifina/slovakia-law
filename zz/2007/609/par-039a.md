@@ -38,7 +38,7 @@
 
 - d) osoba, ktorá je platiteľom dane zo zemného plynu, ak jej vznikla daňová povinnosť podľa odseku 3.
 
-(6) O registráciu platiteľa dane zo stlačeného zemného plynu a o vydanie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti je povinná písomne požiadať colný úrad
+(6) O registráciu platiteľa dane zo stlačeného zemného plynu a o vydanie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti je povinná požiadať colný úrad
 
 - a) osoba podľa odseku 4 a odseku 5 písm. a), ak už nie je registrovaná ako platiteľ dane zo zemného plynu podľa § 35,
 
@@ -46,7 +46,7 @@
 
 - c) osoba, ktorá chce na daňovom území dodávať alebo nakupovať na účel ďalšieho predaja stlačený zemný plyn ako pohonnú látku alebo ako palivo na výrobu tepla, ak už nie je registrovaná ako platiteľ dane zo stlačeného zemného plynu podľa odseku 4 alebo odseku 5 písm. a) alebo ak už nie je registrovaná ako platiteľ dane zo zemného plynu podľa § 35.
 
-(7) Zahraničná osoba, ktorá je platiteľom dane zo stlačeného zemného plynu podľa odseku 5 písm. b), je povinná písomne požiadať Colný úrad Bratislava o registráciu platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti. Na žiadosť o registráciu platiteľa dane zo stlačeného zemného plynu sa vzťahuje odsek 8 primerane.
+(7) Zahraničná osoba, ktorá je platiteľom dane zo stlačeného zemného plynu podľa odseku 5 písm. b), je povinná požiadať Colný úrad Bratislava o registráciu platiteľa dane zo stlačeného zemného plynu najneskôr v deň vzniku prvej daňovej povinnosti. Na žiadosť o registráciu platiteľa dane zo stlačeného zemného plynu sa vzťahuje odsek 8 primerane.
 
 (8) Na registráciu platiteľa dane zo stlačeného zemného plynu, vydanie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu, odňatie osvedčenia o registrácii platiteľa dane zo stlačeného zemného plynu a zrušenie registrácie platiteľa dane zo stlačeného zemného plynu sa použije § 35 primerane.
 

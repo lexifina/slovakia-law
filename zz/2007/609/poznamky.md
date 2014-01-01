@@ -48,11 +48,15 @@
 
 - 16a) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 16aa) § 67 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
 - 17) § 39 ods. 1 zákona č. 656/2004 Z. z. v znení zákona č. 107/2007 Z. z.
 
 - 18) § 19 ods. 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 18a) § 15 ods. 5 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
+- 18aa) § 67 ods. 9 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 19) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
