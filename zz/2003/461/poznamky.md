@@ -96,7 +96,7 @@
 
 - 42b) Zákon č. 475/2005 Z. z. v znení neskorších predpisov.
 
-- 43) § 38 ods. 6 zákona Národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 43) § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 44) Napríklad § 136 ods. 1 zákona č. 311/2001 Z. z. v znení zákona č. 210/2003 Z. z.
 
@@ -124,7 +124,7 @@
 
 - 56) § 2 písm. a) zákona č. 125/1998 Z. z. o životnom minime a o ustanovení súm na účely štátnych sociálnych dávok.
 
-- 56a) Článok 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení.
+- 56a) Napríklad čl. 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení, čl. 36 ods. 36.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), čl. 1 rozhodnutia Európskej centrálnej banky ECB/1998/4 (1999/330/ES) z 9. júna 1998 o prijatí podmienok zamestnávania zamestnancov Európskej centrálnej banky (Ú. v. ES L 125, 19. 5. 1999) v platnom znení.
 
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -159,8 +159,6 @@
 - 70) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 71) Napríklad zákon č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb., zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. a zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
-
-- 71a) Napr. § 50a zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 81) Občiansky súdny poriadok.
 
@@ -198,7 +196,15 @@
 
 - 92a) § 73 ods. 6 zákona č. 131/2002 Z. z. v znení zákona č. 125/2011 Z. z.
 
+- 92aa) § 4 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 92ac) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti organov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, § 6 až 11 a § 34 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
+
 - 92b) Exekučný poriadok.
+
+- 92c) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 93) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
@@ -212,7 +218,7 @@
 
 - 93ac) § 29b ods. 13 zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
-- 95a) § 108a a 108b zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 

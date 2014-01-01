@@ -4,20 +4,16 @@ Príloha č. 5 k zákonu č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
   - 1. Smernica Rady 79/7/EHS z 19. decembra 1978 o postupnom vykonávaní zásady rovnakého zaobchádzania s mužmi a ženami vo veciach súvisiacich so sociálnym zabezpečením (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 6, 10. 1. 1979).
 
-  - 2. Smernica Rady 86/613/EHS z 11. decembra 1986 o uplatňovaní zásady rovnakého zaobchádzania s mužmi a ženami vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby vrátane činnosti v poľnohospodárstve a o ochrane samostatne zárobkovo činných žien počas tehotenstva a materstva (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 359, 19. 12. 1986).
+  - 2. Smernica Rady 92/85/EHS z 19. októbra 1992 o zavedení opatrení na podporu zlepšenia bezpečnosti a ochrany zdravia pri práci tehotných pracovníčok a pracovníčok krátko po pôrode alebo dojčiacich pracovníčok (desiata samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS) (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 2; Ú. v. ES L 348, 28. 11. 1992) v znení smernice Európskeho parlamentu a Rady 2007/30/ES z 20. júna 2007 (Ú. v. EÚ L 165, 27. 6. 2007).
 
-  - 3. Smernica Rady 92/85/EHS z 19. októbra 1992 o zavedení opatrení na podporu zlepšenia bezpečnosti a ochrany zdravia pri práci tehotných pracovníčok a pracovníčok krátko po pôrode alebo dojčiacich pracovníčok (desiata samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS) (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 2; Ú. v. ES L 348, 28. 11. 1992) v znení smernice Európskeho parlamentu a Rady 2007/30/ES z 20. júna 2007 (Ú. v. EÚ L 165, 27. 6. 2007).
+  - 3. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 180, 19. 7. 2000).
 
-  - 4. Smernica Rady 96/34/ES z 3. júna 1996 o rámcovej dohode o rodičovskej dovolenke uzavretej medzi UNICE, CEEP a ETUC (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 2; Ú. v. ES L 145, 19. 6. 1996) v znení smernice Rady 97/75/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 3; Ú. v. ES L 10, 16. 1. 1998).
+  - 4. Smernica Rady 2000/78/ES z 27. novembra 2000, ktorá ustanovuje všeobecný rámec pre rovnaké zaobchádzanie v zamestnaní a povolaní (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 303, 2. 12. 2000).
 
-  - 5. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 180, 19. 7. 2000).
+  - 5. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 82, 22. 3. 2001).
 
-  - 6. Smernica Rady 2000/78/ES z 27. novembra 2000, ktorá ustanovuje všeobecný rámec pre rovnaké zaobchádzanie v zamestnaní a povolaní (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 303, 2. 12. 2000).
+  - 6. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
 
-  - 7. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 82, 22. 3. 2001).
+  - 7. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ, L 180, 15. 7. 2010).
 
-  - 8. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnanosti a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
-
-  - 9. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
-
-  - 10. Smernica Európskeho parlamentu a Rady 2010/41/EÚ zo 7. júla 2010 o uplatňovaní zásady rovnakého zaobchádzania so ženami a mužmi vykonávajúcimi činnosť ako samostatne zárobkovo činné osoby a o zrušení smernice Rady 86/613/EHS (Ú. v. EÚ, L 180, 15. 7. 2010).
+  - 8. Smernica Rady 2010/18/EÚ z 8. marca 2010, ktorou sa vykonáva revidovaná Rámcová dohoda o rodičovskej dovolenke uzavretá medzi BUSINESSEUROPE, UEAPME, CEEP a ETUC a zrušuje smernica 96/34/ES (Ú. v. EÚ L 68, 18. 3. 2010).
