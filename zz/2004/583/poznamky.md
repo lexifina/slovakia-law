@@ -32,9 +32,19 @@
 
 - 16) Obchodný zákonník.
 
+- 16a) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+
 - 17) § 5 zákona č. 302/2001 Z. z.
 
 - 17a) Napríklad § 48 ods. 1 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
+- 17aa) Čl. 9 ods. 1 ústavného zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti.
+
+- 17ab) § 4 zákona č. 523/2004 Z. z. v znení zákona č. 69/2012 Z. z.
+
+- 17b) Čl.5, 12 a 13 ústavného zákona č. 493/2011 Z. z.
+
+- 17c) Napríklad § 6 a 9 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) Zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
@@ -48,13 +58,21 @@
 
 - 21) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 22) Zákon č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 21a) § 2b ods. 2 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Opatrenie Ministerstva financií Slovenskej republiky z 22. novembra 2012 č. MF/21513/2012-31, ktorým sa ustanovuje usporiadanie, obsahové vymedzenie, spôsob, termín a miesto predkladania informácií z účtovníctva a údajov potrebných na účely hodnotenia plnenia rozpočtu verejnej správy (oznámenie č. 375/2012 Z. z.).
+
+- 22) § 18 ods. 3 písm. b) zákona č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov.
 
 - 23) § 5 ods. 1 písm. f) zákona č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
 
 - 23a) § 66 a 97 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
-- 23aa) § 13a zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/ 2004 Z. z.
+- 23aa) Zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
+
+- 23b) Čl. 6 ústavného zákona č. 493/2011 Z. z.
+
+- 23c) Čl. 5 ods. 11 a 12 a čl. 12 ods. 10 a 11 ústavného zákona č. 493/2011 Z. z.
 
 - 24) § 829 až 841 Občianskeho zákonníka v znení neskorších predpisov.
 
