@@ -1,5 +1,7 @@
 - 1) § 244 až 250s Občianskeho súdneho poriadku.
 
+- 1a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
 - 2) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 2a) § 9a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 478/ 2009 Z. z.
@@ -11,6 +13,8 @@
 - 5) § 116 Občianskeho zákonníka.
 
 - 6) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+
+- 6a) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 7) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
 
