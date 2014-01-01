@@ -24,4 +24,6 @@ Fyzická osoba má právo na poskytnutie právnej pomoci v azylovej veci, ak
 
   - 7. ktorým bolo konanie o azyle zastavené z dôvodu, že už bolo o žiadosti skôr rozhodnuté a skutkový stav sa podstatne nezmenil,<sup>19a</sup>)
 
+  - 8. o odovzdaní do iného štátu,
+
 - d) sa nachádza v stave materiálnej núdze.
