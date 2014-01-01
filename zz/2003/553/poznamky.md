@@ -131,3 +131,7 @@
 - 36) § 2 ods. 3 písm. d) zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 37) Nariadenie vlády Slovenskej republiky č. 111/2002 Z. z., ktorým sa ustanovujú katalógy pracovných činností vo verejnej službe a o ich zmenách a dopĺňaní v znení neskorších predpisov.
+
+- 38) Nariadenie vlády Slovenskej republiky č. 578/2009 Z. z., ktorým sa ustanovujú zvýšené stupnice platových taríf zamestnancov pri výkone práce vo verejnom záujme.
+
+- Zákon č. 438/2012 Z. z o štátnom rozpočte na rok 2013.
