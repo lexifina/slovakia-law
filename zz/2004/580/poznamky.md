@@ -122,10 +122,6 @@
 
 - 26) § 43 ods. 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 26a) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
-- § 67 zákona č. 563/2009 Z. z. o správe daní a poplatkov (daňový poriadok) a o zmene a doplnení niektorých zákonov.
-
 - 27) § 17 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
 - 28) § 34 zákona č. 48/2002 Z. z. v znení zákona č. 558/2005 Z. z.
@@ -247,3 +243,5 @@
 - 61) Čl. 25 Rozhodnutia Európskeho parlamentu 2005/684/ES, Euratom z 28. septembra 2005, ktorým sa prijíma štatút poslancov Európskeho parlamentu (Ú. v. EÚ L 262, 7. 10. 2005).
 
 - 62) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
+
+- 63) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
