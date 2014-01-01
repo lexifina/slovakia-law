@@ -1,0 +1,17 @@
+# § 43a Použitie špeciálneho streliva
+
+(1) Špeciálnym strelivom sa na účely tohto zákona rozumie strelivo s gumovým projektilom, strelivo s projektilom naplneným značkovacím farbivom a strelivo s projektilom naplneným slzotvornou látkou.
+
+(2) Príslušník zboru je pri služobných zákrokoch oprávnený použiť
+
+- a) gumové projektily
+
+  - 1. v nutnej obrane<sup>10</sup>) alebo v krajnej núdzi,<sup>11</sup>) ak nie je nevyhnutné použiť účinnejšie strelivo, na zaistenie bezpečnosti inej osoby alebo vlastnej osoby, ak vyzvaná osoba neupustí od útoku,
+
+  - 2. ak nemožno inak prekonať odpor smerujúci k zmareniu služobného zákroku,
+
+- b) projektily naplnené značkovacím farbivom na označenie iniciátorov útoku alebo iného protiprávneho konania,
+
+- c) projektily naplnené slzotvornou látkou na rozptýlenie neoprávnene zhromaždených obvinených alebo odsúdených, ktorí odmietajú plniť pokyny príslušníkov zboru, porušujú ústavný poriadok<sup>8</sup>) a odmietajú sa rozísť, ak sa osoba, proti ktorej zákrok smeruje, na výzvu nevzdá alebo sa zdráha opustiť úkryt, alebo ak nemožno inak prekonať odpor smerujúci k zmareniu služobného zákroku.
+
+(3) Pri použití špeciálneho streliva je príslušník zboru povinný dbať na potrebnú opatrnosť a na to, aby nebol ohrozený život osôb a aby čo najviac šetril zdravie osôb, proti ktorým zákrok smeruje, a zdravie nezúčastnených osôb.
