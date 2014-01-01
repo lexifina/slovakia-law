@@ -14,4 +14,4 @@
 
 (3) Vláda predkladá súhrnnú výročnú správu za príslušný rozpočtový rok na informáciu národnej rade do 20. novembra bežného rozpočtového roka.
 
-(4) Súhrnnú výročnú správu zverejňuje ministerstvo financií na svojom webovom sídle do desiatich dní po jej prerokovaní národnou radou.
+(4) Súhrnnú výročnú správu ukladá ministerstvo financií do verejnej časti registra účtovných závierok<sup>42ab</sup>) do desiatich dní po jej prerokovaní národnou radou.

@@ -36,7 +36,7 @@
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 14a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 607/2003 Z. z. v znení neskorších predpisov, zákon č. 619/2003 Z. z. o Slovenskom rozhlase v znení neskorších predpisov, zákon č. 16/2004 Z. z. o Slovenskej televízii v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z., zákon č. 238/2006 Z. z. v znení neskorších predpisov, zákon č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
+- 14a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 607/2003 Z. z. v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z., zákon č. 238/2006 Z. z. v znení neskorších predpisov, zákon č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
 
 - 14b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2006 Z. z.
 
@@ -82,6 +82,8 @@
 
 - 24ab) § 15 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
 
+- 24ac) § 66 zákona č. 25/2006 Z. z. v znení neskorších predpisov.
+
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
 - 25) Opatrenie Ministerstva financií Slovenskej republiky z 25. februára 2003 č. 1407/2003 – 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky, termíny a miesto predkladania účtovnej závierky pre rozpočtové organizácie, štátne fondy, obce, vyššie územné celky, príspevkové organizácie a niektoré iné právnické osoby, ktorých hlavným predmetom činnosti nie je podnikanie (oznámenie č. 88/2003 Z. z.) v znení neskorších predpisov.
@@ -98,19 +100,17 @@
 
 - 30) § 829 až 841 Občianskeho zákonníka.
 
-- 31) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 75 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 31) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 70 ods. 2 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 32) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov. § 2 ods. 1 písm. c) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 564/2004 Z. z.
+- 32) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- § 2 ods. 1 písm. c) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 564/2004 Z. z.
 
 - 33) Napríklad zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) § 10 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení zákona č. 419/2002 Z. z.
 
-- 35) § 3 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach.
-
-- § 2 ods. 1 písm. f) zákona č. 597/2003 Z. z. v znení zákona č. 564/2004 Z. z.
-
-- § 33a zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 596/2003 Z. z.
+- 35) Napríklad § 35 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
 - 35a) § 8 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -128,7 +128,7 @@
 
 - 40) Napríklad zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- 41) Napríklad § 26 ods. 4 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 41) Napríklad § 43 zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41a) Čl. 1 ods. 5 nariadenia Rady (ES) č. 479/2009 z 25. mája 2009 o uplatňovaní Protokolu o postupe pri nadmernom schodku, ktorý tvorí prílohu Zmluvy o založení Európskeho spoločenstva (kodifikované znenie) (Ú. v. EÚ L 145, 10. 6. 2009) v platnom znení.
 
@@ -140,7 +140,29 @@
 
 - 42aa) Napríklad § 3 písm. d) zákona č. 607/2003 Z. z. v znení zákona č. 349/2007 Z. z., § 5 ods. 1 písm. c) a § 6 ods. 1 písm. c) zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
-- 43) Napríklad zákon č. 311/2001 Z. z. Zákonník práce, zákon č. 312/2001 Z. z. v znení neskorších predpisov.
+- 42ab) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 42ac) Čl. 3 ods. 1 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii medzi Belgickým kráľovstvom, Bulharskou republikou, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Luxemburským veľkovojvodstvom, Maďarskom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Poľskou republikou, Portugalskou republikou, Rumunskom, Slovinskou republikou, Slovenskou republikou, Fínskou republikou a Švédskym kráľovstvom (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
+
+- Nariadenie Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
+
+- Nariadenie Rady (ES) č. 1467/97 zo 7. júla 1997 o urýchľovaní a objasňovaní vykonania postupu pri nadmernom schodku (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
+
+- 42ad) Čl. 5 ods. 2 ústavného zákona č. 493/2011 Z. z.
+
+- 42ae) Čl. 2 písm. a) ústavného zákona č. 493/2011 Z. z.
+
+- 42af) Čl. 6 nariadenia (ES) č. 1466/97.
+
+- 42ag) Čl. 5 a 6 nariadenia (ES) č. 1466/97.
+
+- Čl. 3 ods. 4 nariadenia (ES) č. 1467/97.
+
+- 42ah) Čl. 3 ústavného zákona č. 493/2011 Z. z.
+
+- 42ai) Čl. 3 ods. 3 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
+
+- 43) Napríklad zákon č. 311/2001 Z. z. Zákonník práce, zákon č. 400/2009 Z. z. v znení neskorších predpisov.
 
 - 44) Napríklad § 2 zákona č. 502/2001 Z. z., § 246 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
 
