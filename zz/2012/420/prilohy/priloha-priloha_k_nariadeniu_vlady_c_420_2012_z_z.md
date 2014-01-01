@@ -1,13 +1,13 @@
-Príloha k nariadeniu vlády č. 420/2012 Z. z. [Národná tabuľka frekvenčného spektra 2013](../assets/1bd66c8d96e770c878f3d86b593182967e9608e29567653c755838e7d2fc049c.pdf)
+Príloha k nariadeniu vlády č. 420/2012 Z. z. [Národná tabuľka frekvenčného spektra 2014](../assets/91db02afb77f46a1488976c3ea6ba1c15ae29da1dc8c443a3cc678dbcec822ee.pdf)
 
-[Poznámky Rádiokomunikačného poriadku](../assets/7e8fff9f63973a28fffe9662817cd61248de366581228ad2907abb963def5183.pdf)
+[Poznámky Rádiokomunikačného poriadku](../assets/17b8cff47b2ee38228ad6219c51199023b213736c02212bf6d37938e61697a3b.pdf)
 
-[Špecifické výrazy z oblasti správy frekvencií](../assets/84a7c831ce40c7de1999cdb191dca40520e0a119d37391277ff3902771207d34.pdf)
+[Špecifické výrazy z oblasti správy frekvencií](../assets/4a52bfa48c7217921cacfe5941613944b7dc136c00a86ff6fd0b6956418d123b.pdf)
 
-[Kategórie služieb](../assets/7738e68a3ce0c325b544f9e9da713fb337160ac96c42bda654d0866b78aef0ad.pdf)
+[Kategórie služieb](../assets/ea3ae72a255a79ac8ce18b450ddd817a66207fa1319da65b4249b9b8a886cfbf.pdf)
 
-[Zdieľanie frekvencií (Kategórie rušení)](../assets/57b1e6424737340466f14e1f127e6e26fcb8c36c48c63e11f79373b4e42083e0.pdf)
+[Zdieľanie frekvencií (Kategórie rušení)](../assets/4ebf76c599a224744242d8d751f4b5b508d31a69f00580c0f6016ccb63eaff6e.pdf)
 
-[Kategórie pridelenia](../assets/beeeb2cbdb6bb6a9e205cb3454981471a44b9298c9d93e7ff45b6373435482e3.pdf)
+[Kategórie pridelenia](../assets/a8b440b4537ca7e05a2fe0f59d349801076ef019b9122c24d0b8b7bfdb302a72.pdf)
 
-[Skratky](../assets/913595ab643618162bc5feb09e9544a6c7074beecdd69e86d7a3a31b31032334.pdf)
+[Skratky](../assets/b559e0f49aec1972d4b370e993432b574c9d049c6dc189671454fc7684c43868.pdf)
