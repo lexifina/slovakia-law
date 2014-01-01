@@ -4,7 +4,7 @@
 
 - Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) § 21 ods. 2 a § 22 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 82/2005 Z. z.
+- 4) § 21 ods. 1 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) § 231 ods. 1 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 82/2005 Z. z.
 
