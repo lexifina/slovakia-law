@@ -1,3 +1,5 @@
-# § 6b Dôchodkový plán
+# § 6b Hostiteľský členský štát doplnkovej dôchodkovej spoločnosti a hostiteľský členský štát zamestnaneckej dôchodkovej spoločnosti
 
-Dôchodkový plán je zmluva alebo dokument, ktoré sú záväzné pre doplnkovú dôchodkovú spoločnosť a upravujú najmä druhy dôchodkových dávok a podmienky ich poskytovania doplnkovou dôchodkovou spoločnosťou na území hostiteľského členského štátu.
+(1) Hostiteľský členský štát doplnkovej dôchodkovej spoločnosti je Island, Lichtenštajnsko, Nórsko a členský štát Európskej únie iný ako Slovenská republika, na ktorého území doplnková dôchodková spoločnosť vykonáva činnosť alebo má zámer vykonávať činnosť (ďalej len „hostiteľský členský štát“).
+
+(2) Hostiteľský členský štát zamestnaneckej dôchodkovej spoločnosti je členský štát Európskej únie, Island, Lichtenštajnsko a Nórsko, v ktorom nemá táto spoločnosť sídlo, ale vykonáva na území tohto štátu činnosť.

@@ -1,23 +1,15 @@
-Príloha č. 2 k zákonu č. 650/2004 Z. z.
+Príloha č. 2 k zákonu č. 650/2004 Z. z. v znení zákona č. 318/2013 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
-  - 1. Smernica Rady 80/987/EHS z 20. októbra 1980 o aproximácii právnych predpisov členských štátov vzťahujúcich sa na ochranu zamestnancov v prípade platobnej neschopnosti ich zamestnávateľa (Ú. v. ES L 283, 28. 10. 1980).
+  - 1. Smernica Rady 98/49/ES z 29. júna 1998 o zabezpečení doplnkových dôchodkových práv zamestnaných a samostatne zárobkovo činných osôb pohybujúcich sa v rámci Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 3; Ú. v. ES L 209, 25. 7. 1998).
 
-  - 2. Smernica Rady 87/164/EHS z 2. marca 1987, ktorou sa mení a dopĺňa v súvislosti s pristúpením Španielska smernica 80/987/EHS o aproximácii právnych predpisov členských štátov vzťahujúcich sa na ochranu zamestnancov v prípade platobnej neschopnosti ich zamestnávateľa (Ú. v. ES L 66, 11. 3. 1987).
+  - 2. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 180, 19. 7. 2000).
 
-  - 3. Smernica Európskeho parlamentu a Rady 2002/74/ES z 23. septembra 2002, ktorou sa mení a dopĺňa smernica Rady 80/987/EHS o aproximácii právnych predpisov členských štátov vzťahujúcich sa na ochranu zamestnancov v prípade platobnej neschopnosti ich zamestnávateľa (Ú. v. ES L 270, 8. 10. 2002).
+  - 3. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 82, 22. 3. 2001).
 
-  - 4. Smernica Rady 86/378/EHS z 24. júla 1986 o vykonávaní zásady rovnakého zaobchádzania s mužmi a ženami v zamestnaneckých systémoch sociálneho zabezpečenia (Ú. v. ES L 225, 12. 8. 1986).
+  - 4. Smernica Európskeho parlamentu a Rady 2003/41/ES z 3. júna 2003 o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. EÚ L 235, 23. 9. 2003) v znení smernice Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010 (Ú. v. EÚ L 331, 15. 12. 2010) a smernice Európskeho parlamentu a Rady 2011/61/EÚ z 8. júna 2011 (Ú. v. EÚ L 174, 1. 7. 2011).
 
-  - 5. Smernica Rady 96/97/ES z 20. decembra 1996, ktorou sa mení a dopĺňa smernica 86/378/EHS o vykonávaní zásady rovnakého zaobchádzania s mužmi a ženami v zamestnaneckých systémoch sociálneho zabezpečenia (Ú. v. ES L 46, 17. 2. 1997).
+  - 5. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnania a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
 
-  - 6. Smernica Rady 98/49/ES z 29. júna 1998 o zabezpečení doplnkových dôchodkových práv zamestnaných a samostatne zárobkovo činných osôb pohybujúcich sa v rámci Spoločenstva (Ú. v. ES L 209, 25. 7. 1998).
-
-  - 7. Smernica Rady 2000/43/ES z 29. júna 2000, ktorou sa zavádza zásada rovnakého zaobchádzania s osobami bez ohľadu na rasový alebo etnický pôvod (Ú. v. ES L 180, 19. 7. 2000).
-
-  - 8. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Ú. v. ES L 82, 22. 3. 2001).
-
-  - 9. Smernica Európskeho parlamentu a Rady 2003/41/ES z 3. júna 2003 o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia (Ú. v. EÚ L 235, 23. 9. 2003).
-
-  - 10. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).
+  - 6. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).

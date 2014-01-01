@@ -1,12 +1,30 @@
-- 1) § 138 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 1) § 31 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
-- 1a) § 4 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 1a) § 4 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 2) § 7 ods. 1 zákona č. 461/2003 Z. z.
+- 1b) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 1c) Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+
+- 1d) Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
+
+- 1e) Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 1f) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1g) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1h) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2) § 7 ods. 1 a 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 3) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
-- 5) § 65 zákona č. 461/2003 Z. z.
+- 4) § 138, 139b a 139c zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 5) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 5a) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
 - 6) § 70 a 263 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
@@ -15,8 +33,6 @@
 - 8) § 788 a nasl. Občianskeho zákonníka.
 
 - 9) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
-
-- 10) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
 - 11) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
@@ -32,11 +48,19 @@
 
 - 17) § 48 ods. 10 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
-- 18) § 48 ods. 11 a 13 zákona č. 43/2004 Z. z.
+- 18) § 50 ods. 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 144 ods. 7 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- § 60 ods. 3 zákona č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 747/2004 Z. z.
+
+- § 67 ods. 6 zákona č. 8/2008 Z. z.
 
 - 19) § 48 ods. 12 zákona č. 43/2004 Z. z. v znení zákona č. 186/2004 Z. z.
 
 - 20) § 48 ods. 14 zákona č. 43/2004 Z. z. v znení zákona č. 186/2004 Z. z.
+
+- 20a) § 7 ods. 14 a 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 21) § 27 ods. 1 až 5 zákona č. 747/2004 Z. z.
 
@@ -72,7 +96,7 @@
 
 - 29) Napríklad § 133 zákona č. 566/2001 Z. z., § 25 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
 
-- 30) § 3 ods. 4 zákona č. 429/2002 Z. z. o burze cenných papierov.
+- 30) § 131a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 31) Občiansky súdny poriadok.
 
@@ -84,21 +108,21 @@
 
 - 33b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 34) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 34) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov
 
 - 35) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 36) § 8 písm. m) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 36) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 37) § 8 písm. k) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 37) § 8 písm. m) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
-- 38) § 5 písm. j) zákona č. 594/2003 Z. z. v znení neskorších predpisov.
+- 38) § 8 písm. k) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
-- 39) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
+- 39) Zákon č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
 
-- 40) § 73a zákona č. 594/2003 Z. z. v znení neskorších predpisov.
+- 40) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 40a) Zákon č. 431/2002 Z. z. v znení neskorších predpisov.
+- 40a) § 90 ods. 2 zákona č. 203/2011 Z. z.
 
 - 40b) § 66a Obchodného zákonníka.
 
@@ -120,7 +144,9 @@
 
 - 41g) § 251 až 320a Občianskeho súdneho poriadku v znení neskorších predpisov a zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 42) § 109 ods. 1 až 5 zákona č. 43/2004 Z. z.
+- 41h) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 42) § 6 zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z.
 
 - 43) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
@@ -129,6 +155,10 @@
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
 - 45a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 45b) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 45c) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 46) § 178 ods. 1 a 2 Obchodného zákonníka.
 

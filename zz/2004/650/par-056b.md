@@ -1,10 +1,10 @@
 # § 56b
 
-(1) Depozitár je povinný viesť pre doplnkovú dôchodkovú spoločnosť, s ktorou má uzatvorenú depozitársku zmluvu, bežný účet<sup>41e</sup>) v určitej mene. Depozitár je povinný viesť pre každý doplnkový dôchodkový fond spravujúcej doplnkovej dôchodkovej spoločnosti, s ktorou má uzavretú depozitársku zmluvu, jeden bežný účet v určitej mene.
+(1) Depozitár je povinný viesť pre doplnkovú dôchodkovú spoločnosť, s ktorou má uzatvorenú depozitársku zmluvu, bežný účet<sup>41e</sup>) v určitej mene. Depozitár je povinný viesť pre každý doplnkový dôchodkový fond spravujúcej doplnkovej dôchodkovej spoločnosti, s ktorou má uzavretú depozitársku zmluvu, jeden bežný účet v určitej mene. Depozitár je povinný viesť pre doplnkovú dôchodkovú spoločnosť jeden účet nepriradených platieb.
 
 (2) Bežným účtom doplnkového dôchodkového fondu podľa odseku 1 musia prechádzať všetky platby, výplaty a prevody peňažných prostriedkov, ktoré tvoria majetok v doplnkovom dôchodkovom fonde.
 
-(3) Depozitár je oprávnený po dohode s doplnkovou dôchodkovou spoločnosťou otvoriť a viesť okrem bežných účtov podľa odseku 1 aj jeden účet nepriradených platieb. Prijaté platby nachádzajúce sa na účte nepriradených platieb nie sú majetkom doplnkovej dôchodkovej spoločnosti. Výnosy z nepriradených platieb sú príjmom doplnkovej dôchodkovej spoločnosti.
+(3) Majetok na účte nepriradených platieb nie je majetkom doplnkovej dôchodkovej spoločnosti. Poplatky depozitárovi za vedenie účtu nepriradených platieb a za poskytovanie platobných služieb znáša doplnková dôchodková spoločnosť.
 
 (4) Doplnková dôchodková spoločnosť si nemôže otvoriť v banke a v pobočke zahraničnej banky odlišnej od depozitára bežné účty. Doplnková dôchodková spoločnosť si môže otvoriť vkladové účty aj v inej banke a v pobočke zahraničnej banky odlišnej od depozitára.
 
@@ -20,4 +20,4 @@
 
 (10) Ak sú súčasťou majetku v doplnkovom dôchodkovom fonde zahraničné zaknihované cenné papiere, je depozitár povinný bez zbytočného odkladu zabezpečiť spravujúcej doplnkovej dôchodkovej spoločnosti výpisy z účtu majiteľa alebo z účtu plniaceho obdobnú funkciu, alebo ich kópie, ak ich spravujúca doplnková dôchodková spoločnosť nedostáva priamo.
 
-(11) Doplnková dôchodková spoločnosť nesmie nakladať s majetkom v doplnkových dôchodkových fondoch bez vedomia depozitára.
+(11) Doplnková dôchodková spoločnosť nesmie nakladať s majetkom v doplnkových dôchodkových fondoch a s majetkom na účte nepriradených platieb bez vedomia depozitára.

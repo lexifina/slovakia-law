@@ -1,11 +1,15 @@
 # § 53d
 
-(1) Investície do finančných derivátov môžu tvoriť časť investičnej stratégie doplnkovej dôchodkovej spoločnosti s majetkom v doplnkovom dôchodkovom fonde. Pri investovaní do finančných derivátov sa na účely výpočtu limitov podľa § 53a zarátavajú aj hodnoty podkladových nástrojov týchto finančných derivátov; to neplatí pre finančné deriváty, ktorých podkladovým nástrojom sú finančné indexy spĺňajúce podmienky podľa § 53c ods. 2.
+(1) Doplnková dôchodková spoločnosť môže uzatvoriť zmluvu o vkladovom účte podľa § 53a ods. 1 písm. b) s lehotou splatnosti
 
-(2) Celková majetková angažovanosť týkajúca sa finančných derivátov nesmie prekročiť čistú hodnotu majetku v doplnkovom dôchodkovom fonde. Pri výpočte majetkovej angažovanosti sa zohľadňuje súčasná hodnota podkladových nástrojov, riziko obchodného partnera, predpokladané budúce pohyby finančného trhu a zostávajúca doba do uzavretia pozícií vo finančných derivátoch.
+- a) nepresahujúcou 12 mesiacov,
 
-(3) Ak prevoditeľný cenný papier alebo nástroj peňažného trhu obsahuje derivát, tento derivát sa musí zohľadniť pri dodržiavaní limitov a obmedzení podľa tohto zákona.
+- b) presahujúcou 12 mesiacov, iba ak je možné kedykoľvek túto zmluvu vypovedať bez výpovednej lehoty po uplynutí 12 mesiacov od uzatvorenia tejto zmluvy.
 
-(4) Ak v majetku v doplnkovom dôchodkovom fonde je finančný derivát, ktorý vyžaduje dodanie podkladového finančného nástroja tohto derivátu alebo ak protistrana má právo žiadať dodanie tohto podkladového nástroja, doplnková dôchodková spoločnosť je povinná zabezpečiť v majetku v doplnkovom dôchodkovom fonde krytie, ktorým je dostatočný počet podkladových finančných nástrojov príslušného derivátu alebo dostatok peňažných prostriedkov alebo iných likvidných aktív, ktoré je možné použiť na kúpu dodávaného podkladového finančného nástroja, a je zabezpečené, že takúto kúpu bude možné vykonať k požadovanému dátumu dodania podkladového nástroja.
+(2) Doplnková dôchodková spoločnosť môže investovať do cenných papierov zahraničných subjektov kolektívneho investovania iných ako európskych štandardných podielových fondov, iba ak
 
-(5) Doplnková dôchodková spoločnosť pri správe majetku v doplnkovom dôchodkovom fonde nesmie uzatvárať obchody s finančnými derivátmi, pri ktorých by sa podľa odseku 4 vyžadovalo krytie vo forme aktív, ktoré nie je možné nadobúdať do majetku v doplnkovom dôchodkovom fonde v súlade s investičnou stratégiou príslušného doplnkového dôchodkového fondu.
+- a) tento zahraničný subjekt kolektívneho investovania je otvorený, má udelené povolenie podľa právnych predpisov štátu, v ktorom je vytvorený, podlieha dohľadu, ktorý Národná banka Slovenska považuje za rovnocenný s dohľadom vykonávaným Národnou bankou Slovenska alebo orgánom členského štátu, a je zabezpečená spolupráca Národnej banky Slovenska s príslušnými orgánmi dohľadu,
+
+- b) úroveň ochrany majiteľov cenných papierov tohto zahraničného subjektu kolektívneho investovania je rovnocenná s úrovňou ochrany podielnikov podľa osobitného predpisu,<sup>34</sup>) najmä pravidlá o oddelení majetku, požičiavania, vypožičiavania a o nekrytých predajoch,
+
+- c) tento zahraničný subjekt kolektívneho investovania zverejňuje správy o hospodárení za kalendárny rok a správy o hospodárení za prvých šesť mesiacov kalendárneho roka umožňujúce hodnotenie jeho aktív a pasív, výnosov a jeho činnosti za obdobie, na ktoré sa vzťahuje príslušná správa.

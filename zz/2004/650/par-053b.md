@@ -1,11 +1,41 @@
+## Pravidlá na obmedzenie a rozloženie rizika v majetku v doplnkovom dôchodkovom fonde
+
 # § 53b
 
-(1) Doplnková dôchodková spoločnosť nesmie do majetku v doplnkovom dôchodkovom fonde nadobúdať podielové listy otvorených podielových fondov, cenné papiere európskych fondov, cenné papiere zahraničných subjektov kolektívneho investovania alebo podielové listy špeciálnych podielových fondov nehnuteľností, ktorých štatút alebo obdobný dokument umožňuje investovať viac ako 10 % hodnoty majetku v tomto otvorenom podielovom fonde, európskom fonde, zahraničnom subjekte kolektívneho investovania alebo špeciálnom podielovom fonde nehnuteľností do iných podielových listov otvorených podielových fondov alebo iných cenných papierov európskych fondov, zahraničných subjektov kolektívneho investovania a podielových listov špeciálnych podielových fondov nehnuteľností.
+(1) Hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu vydaných jedným emitentom nesmie tvoriť viac ako 5 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde, ak v odsekoch 4, 6, 8, 9 a 10 nie je ustanovené inak.
 
-(2) Hodnota podielových listov otvoreného podielového fondu alebo cenných papierov európskeho fondu a iného zahraničného subjektu kolektívneho investovania podľa § 53 ods. 1 písm. c) a d) alebo podielových listov špeciálneho podielového fondu nehnuteľností nesmie tvoriť viac ako 20 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+(2) Súčet menovitých hodnôt prevoditeľných cenných papierov a nástrojov peňažného trhu vo všetkých spravovaných doplnkových dôchodkových fondoch z jednej emisie nesmie tvoriť viac ako 30 % čistej hodnoty celej emisie; to neplatí pre cenné papiere a nástroje peňažného trhu vydané alebo zaručené členským štátom.
 
-(3) Celková hodnota cenných papierov uvedených v § 53 ods. 1 písm. d) a i) nesmie tvoriť viac ako 30 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+(3) Vklady na bežných účtoch alebo na vkladových účtoch v jednej banke alebo pobočke zahraničnej banky podľa § 53a ods. 1 písm. b) nesmú tvoriť viac ako 20 % hodnoty majetku v doplnkovom dôchodkovom fonde.
 
-(4) Doplnková dôchodková spoločnosť pri investovaní majetku v doplnkovom dôchodkovom fonde do podielových listov a cenných papierov podľa § 53 ods. 1 písm. c) a d) nesmie platiť z majetku v doplnkovom dôchodkovom fonde, ktorý spravuje, žiadne poplatky ani náklady spojené s vydaním alebo vyplatením podielových listov otvorených podielových fondov alebo cenných papierov zahraničných subjektov kolektívneho investovania, ktoré spravuje správcovská spoločnosť alebo zahraničný subjekt kolektívneho investovania, s ktorým doplnková dôchodková spoločnosť tvorí skupinu s úzkymi väzbami.
+(4) Hodnota hypotekárnych záložných listov vydaných jednou bankou a dlhových cenných papierov vydaných jednou zahraničnou bankou so sídlom v členskom štáte alebo v nečlenskom štáte, ktorých menovitá hodnota vrátane výnosov je krytá pohľadávkami tejto banky z hypotekárnych úverov, nesmie tvoriť viac ako 25 % hodnoty majetku v doplnkovom dôchodkovom fonde.
 
-(5) Ak doplnkový dôchodkový fond nadobúda podielové listy alebo cenné papiere podľa § 53 ods. 1 písm. c), d) a i), štatút a informačný prospekt doplnkového dôchodkového fondu musí obsahovať informáciu o maximálnej výške poplatkov za správu, ktoré môžu byť účtované tomuto doplnkovému dôchodkovému fondu. Výšku poplatkov podľa prvej vety za príslušný kalendárny rok uvedie doplnková dôchodková spoločnosť v ročnej správe o hospodárení s majetkom v doplnkovom dôchodkovom fonde.
+(5) Celková hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu neprijatých na obchodovanie na regulovanom trhu nesmie tvoriť viac ako 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde; tento limit sa nevzťahuje na investície podľa odseku 9.
+
+(6) Hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu vydaných alebo zaručených jedným členským štátom, Európskou centrálnou bankou, Európskou úniou, Európskou investičnou bankou, Svetovou bankou, Európskou bankou pre obnovu a rozvoj alebo Medzinárodným menovým fondom nesmie tvoriť viac ako 35 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(7) Riziko protistrany, ktorému je vystavený majetok v doplnkovom dôchodkovom fonde pri obchodoch s finančnými derivátmi uzatváranými mimo regulovaného trhu, nesmie prekročiť
+
+- a) 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde, ak je protistranou banka spĺňajúca podmienky podľa § 53a ods. 1 písm. b),
+
+- b) 5 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde, ak je protistranou iná osoba ako banka podľa písmena a).
+
+(8) Súčet investícií do prevoditeľných cenných papierov a nástrojov peňažného trhu podľa odseku 1 vydaných bankou spĺňajúcou podmienky podľa § 53a ods. 1 písm. b), hypotekárnych záložných listov podľa odseku 4 vydaných touto bankou, vkladov v tejto banke, a hodnoty rizika protistrany podľa odseku 7 písm. a), ktorou je táto banka, nesmie prekročiť 35 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(9) Hodnota podielových listov
+
+- a) jedného štandardného podielového fondu, cenných papierov jedného európskeho štandardného fondu nesmie prekročiť 20 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde,
+
+- b) jedného špeciálneho podielového fondu alebo cenných papierov iného subjektu kolektívneho investovania, ako je uvedené v písmene a), nesmie prekročiť 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(10) Súčet investícií do podielových listov štandardných podielových fondov, cenných papierov európskych štandardných fondov, podielových listov špeciálnych podielových fondov alebo cenných papierov iných subjektov kolektívneho investovania spravovaných jednou správcovskou spoločnosťou nesmie prekročiť 40 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(11) Súhrn peňažných prostriedkov podľa § 53a ods. 5 nesmie prekročiť 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde ku dňu uzatvorenia zmlúv o pôžičkách a úveroch.
+
+(12) Na účely výpočtu limitov podľa odsekov 1 až 10 sa právnické osoby patriace do skupiny, za ktorú sa zostavuje konsolidovaná účtovná závierka podľa osobitného predpisu<sup>40</sup>) alebo podľa medzinárodných účtovných štandardov, považujú za jednu osobu. Ak ide o skupinu podľa prvej vety kontrolovanú finančnou inštitúciou, hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu vydaných emitentmi podľa odseku 1 z takejto skupiny nesmie prekročiť 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+
+(13) Aktíva denominované v inej mene ako euro, ktoré tvoria majetok v doplnkovom dôchodkovom fonde a nie sú zabezpečené voči menovému riziku, nesmú prekročiť 30 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde. Pri riadení menového rizika je doplnková dôchodková spoločnosť povinná zohľadniť aj investície do nástrojov, ktoré sú denominované v eurách, ak ich podkladové aktíva tvoria nástroje, ktoré sú denominované v inej mene ako euro.
+
+(14) Národná banka Slovenska môže schválením štatútu doplnkového dôchodkového fondu zvýšiť limit 30 % podľa odseku 13 na 60 %, ak podľa jeho štatútu je investičnou politikou doplnkového dôchodkového fondu vytvárať výnosy zo zmien výmenných kurzov.
+
+(15) Národná banka Slovenska môže ustanoviť opatrením, ktoré sa vyhlási v Zbierke zákonov Slovenskej republiky, spôsob zabezpečenia voči menovému riziku.
