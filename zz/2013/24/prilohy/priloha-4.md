@@ -16,11 +16,9 @@ Príloha č. 4 k vyhláške č. 24/2013 Z. z.
 
     - (3) Prevádzkovateľ distribučnej sústavy vypracúva a určuje
 
-      - a) normalizované typové diagramy odberu na základe výsledkov merania vzoriek a metodiky priraďovania uverejňuje ich na svojom webovom sídle,
+      - normalizované typové diagramy odberu na základe výsledkov merania vzoriek a metodiky priraďovania uverejňuje ich na svojom webovom sídle.
 
-      - b) prepočítané typové diagramy odberu, ktoré uverejní na svojom webovom sídle denne do 9:00 za predchádzajúci deň a v rovnakom termíne ich poskytuje organizátorovi krátkodobého trhu s elektrinou.
-
-    - (4) Ak prevádzkovateľ distribučnej sústavy používa prepočítané typové diagramy odberu, denne do 9:00 hod. uverejňuje na svojom webovom sídle predikciu prepočítaných typových diagramov odberov na nasledujúce dva dni denne a v rovnakom termíne poskytuje predikované hodnoty organizátorovi krátkodobého trhu s elektrinou.
+    - (4) Ak prevádzkovateľ distribučnej sústavy používa prepočítané typové diagramy odberu, denne do 9:00 h uverejňuje na svojom webovom sídle predikciu prepočítaných typových diagramov odberov na nasledujúce dva dni denne a v rovnakom termíne poskytuje predikované hodnoty organizátorovi krátkodobého trhu s elektrinou.
 
     - (5) Spôsob určenia typového diagramu odberu a metodika jeho priraďovania sú upravené v prevádzkovom poriadku prevádzkovateľa distribučnej sústavy.
 
@@ -42,4 +40,4 @@ Príloha č. 4 k vyhláške č. 24/2013 Z. z.
 
     - (2) Zmeny podľa odseku 1 sa evidujú prevádzkovateľom distribučnej sústavy a oznamujú sa organizátorovi krátkodobého trhu s elektrinou. Organizátor krátkodobého trhu s elektrinou zohľadňuje oznámené zmeny vo výpočte hodinových hodnôt odberov alebo dodávok pre odberné alebo odovzdávacie miesta s typom merania C na základe metodiky typového diagramu odberu.
 
-    - (3) Zmenu priradenia odberného miesta alebo odovzdávacieho miesta s typom merania C k inému druhu typového diagramu odberu sa vykonávajú prevádzkovateľom distribučnej sústavy, do ktorej je dané odberné miesto alebo odovzdávacie miesto pripojené. Prevádzkovateľ distribučnej sústavy uskutoční bezodplatne odpočet alebo prepočet odberu elektriny alebo dodávky elektriny k dátumu zmeny typového diagramu a oznámi organizátorovi krátkodobého trhu s elektrinou a dodávateľovi elektriny deň zmeny priradenia typového diagramu na odbernom mieste alebo odovzdávacom mieste, priradenú triedu typového diagramu odberu a údaj o odbere elektriny alebo dodávke elektriny na odbernom mieste alebo odovzdávacom mieste ku dňu zmeny typového diagramu.
+    - (3) Zmeny priradenia odberného miesta alebo odovzdávacieho miesta s typom merania C k inému druhu typového diagramu odberu sa vykonávajú prevádzkovateľom distribučnej sústavy, do ktorej je dané odberné miesto alebo odovzdávacie miesto pripojené. Prevádzkovateľ distribučnej sústavy uskutoční bezodplatne odpočet alebo prepočet odberu elektriny alebo dodávky elektriny k dátumu zmeny typového diagramu a oznámi organizátorovi krátkodobého trhu s elektrinou a dodávateľovi elektriny deň zmeny priradenia typového diagramu na odbernom mieste alebo odovzdávacom mieste, priradenú triedu typového diagramu odberu a údaj o odbere elektriny alebo dodávke elektriny na odbernom mieste alebo odovzdávacom mieste ku dňu zmeny typového diagramu.

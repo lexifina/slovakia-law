@@ -14,31 +14,15 @@ Príloha č. 8 k vyhláške č. 24/2013 Z. z.
 
     - d) organizátor krátkodobého trhu s elektrinou,
 
+    - e) subjekty zúčtovania, ktoré prevzali zodpovednosť za odchýlku odberných miest a odovzdávacích miest miestnej distribučnej sústavy tvoriacich rozhranie miestnej distribučnej sústavy a iných sústav, ak je do miestnej distribučnej sústavy pripojené najmenej jedno odberné miesto alebo odovzdávacie miesto s meraním typu C.
+
   - (3) Zúčtovanie rozdielov podľa odseku 1 zabezpečuje organizátor krátkodobého trhu s elektrinou oddelene od procesu zúčtovania odchýlok ako
 
     - a) mesačné zúčtovanie rozdielov, ktoré sa vykonáva v termíne mesačného zúčtovania odchýlok,
 
     - b) konečné zúčtovanie rozdielov, ktoré sa vykonáva v termíne konečného zúčtovania odchýlok.
 
-  - (4) Organizátor krátkodobého trhu s elektrinou vyhodnotí rozdiely medzi nominačnými a nameranými hodnotami odberu elektriny a dodávky elektriny u odberných miest a odovzdávacích miest nevybavených priebehovým meraním podľa nasledujúceho vzorca
-
-  - ![Vzorec](../assets/cc8c55e45d8cb3ee4f5c29dd651d1b07da8bb20a67a3defad1323542bb3e7e10.png)
-
-    - kde
-
-    - R – hodnota rozdielov v odbere a dodávke elektriny,
-
-    - O – odber elektriny na odbernom mieste určený na základe nameraného odberu elektriny za obdobie medzi dvoma poslednými odpočtami a hodnôt typového diagramu odberu priradeného danému odbernému alebo odovzdávaciemu miestu,
-
-    - NO – nominačný údaj o odbere elektriny použitý pre zúčtovanie odchýlok pre dané odberné a odovzdávacie miesto za obdobie medzi dvoma poslednými odpočtami,
-
-    - D – dodávka elektriny na odovzdávacom mieste určená na základe nameranej dodávky elektriny za obdobie medzi dvoma poslednými odpočtami a hodnôt typového diagramu odberu priradeného danému odovzdávaciemu miestu,
-
-    - ND – nominačný údaj o dodávke elektriny použitý pre zúčtovanie odchýlok pre dané odovzdávacie miesto za obdobie medzi dvoma poslednými odpočtami,
-
-    - S – hodnota strát elektriny v sústave, určená organizátorom krátkodobého trhu s elektrinou na základe údajov poskytnutých prevádzkovateľom sústavy, ak sú straty elektriny v sústave v bilančnej skupine subjektu zúčtovania,
-
-    - NS – nominačný údaj o stratách elektriny v sústave použitý pre zúčtovanie odchýlok, ak sú straty elektriny v sústave v bilančnej skupine subjektu zúčtovania, za rovnaké obdobie ako hodnota strát S.
+  - (4) Organizátor krátkodobého trhu s elektrinou vyhodnotí rozdiely medzi nominačnými hodnotami a nameranými hodnotami odberu elektriny a dodávky elektriny v odberných miestach a odovzdávacích miestach nevybavených priebehovým meraním postupom uvedeným v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.
 
   - (5) Organizátor krátkodobého trhu s elektrinou vyhodnotí údaje podľa odseku 4 oddelene pre jednotlivé subjekty zúčtovania za jednotlivé sústavy.
 
@@ -59,3 +43,5 @@ Príloha č. 8 k vyhláške č. 24/2013 Z. z.
   - (13) Organizátor krátkodobého trhu uverejňuje po ukončení mesiaca na svojom webovom sídle mesačné súhrnné množstvá pre vyrovnanie pre jednotlivé sústavy.
 
   - (14) Ak subjekt zúčtovania neuhradí organizátorovi krátkodobého trhu s elektrinou vyrovnávaciu platbu, organizátor krátkodobého trhu s elektrinou je oprávnený použiť finančnú zábezpeku subjektu zúčtovania na uhradenie záväzku, najskôr v prvý pracovný deň po splatnosti neuhradenej faktúry; zároveň bezodkladne vyzve subjekt zúčtovania, aby do troch pracovných dní od prevedenia platby z finančnej zábezpeky doplnil finančnú zábezpeku do výšky pokrývajúcej deklarovaný objem obchodov.
+
+  - (15) Podrobnosti procesu zúčtovania rozdielov sa uvedú v prevádzkovom poriadku organizátora krátkodobého trhu s elektrinou.

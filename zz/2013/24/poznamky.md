@@ -40,6 +40,8 @@
 
 - 21) § 7 ods. 4 zákona č. 251/2012 Z. z.
 
+- 21a) Článok 4 nariadenia Komisie (EÚ) č. 543/2013 zo 14. júna 2013 o predkladaní a uverejňovaní údajov na trhoch s elektrickou energiou, ktorým sa mení a dopĺňa príloha I k nariadeniu Európskeho parlamentu a Rady (ES) č. 714/2009 (Ú. v. EÚ L 163, 15. 6. 2013).
+
 - 22) § 26 ods. 1 zákona č. 251/2012 Z. z.
 
 - 23) § 26 ods. 9 zákona č. 251/2012 Z. z.

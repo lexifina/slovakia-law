@@ -30,11 +30,11 @@ Príloha č. 3 k vyhláške č. 24/2013 Z. z.
 
       - a) normalizované typové diagramy odberu na základe výsledkov merania vzoriek a metodiky priraďovania uverejňuje ich na svojom webovom sídle,
 
-      - b) prepočítané typové diagramy odberu, ktoré uverejní na svojom webovom sídle denne do 9:00 hod. za predchádzajúci deň a v rovnakom termíne ich poskytuje organizátorovi krátkodobého trhu s elektrinou.
+      - b) prepočítané typové diagramy odberu, ktoré uverejní na svojom webovom sídle denne do 9:00 h za predchádzajúci deň a v rovnakom termíne ich poskytuje organizátorovi krátkodobého trhu s elektrinou.
 
     - (5) Prevádzkovateľ distribučnej sústavy určí hodnoty odberu alebo dodávky na odberných a odovzdávacích miestach bez priebehového merania podľa priradených typových diagramov odberu.
 
-    - (6) Ak prevádzkovateľ distribučnej sústavy používa prepočítané typové diagramy odberu, denne do 9:00 hod. uverejňuje na svojom webovom sídle predikciu prepočítaných typových diagramov odberov na nasledujúce dva dni denne a v rovnakom termíne poskytuje predikované hodnoty organizátorovi krátkodobého trhu s elektrinou.
+    - (6) Ak prevádzkovateľ distribučnej sústavy používa prepočítané typové diagramy odberu, denne do 9:00 h uverejňuje na svojom webovom sídle predikciu prepočítaných typových diagramov odberov na nasledujúce dva dni denne a v rovnakom termíne poskytuje predikované hodnoty organizátorovi krátkodobého trhu s elektrinou.
 
   - C. Zmeny v priebehu vyhodnocovaného obdobia
 

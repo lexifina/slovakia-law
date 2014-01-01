@@ -18,7 +18,7 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
   - B. Identifikácia odberných miest zásobovaných dodávateľom elektriny
 
-    - (1) Odberné miesta sú jednoznačne identifikovateľné v rámci procesov definovaných vo vzorovom prevádzkovom poriadku prevádzkovateľa distribučnej sústavy. Prevádzkovateľ distribučnej sústavy poskytuje zoznam odberných miest dodávateľa elektriny, ktorým je výpis z jeho bilančnej skupiny podľa § 12.
+    - (1) Odberné miesta sú jednoznačne identifikovateľné v rámci procesov definovaných vo vzorovom prevádzkovom poriadku prevádzkovateľa distribučnej sústavy. Prevádzkovateľ distribučnej sústavy poskytuje zoznam odberných miest dodávateľa elektriny, ktorým je výpis z jeho bilančnej skupiny podľa prílohy č. 9 časti K ods. 9.
 
     - (2) V rámci procesov definovaných v prevádzkovom poriadku dostane dodávateľ elektriny od prevádzkovateľa distribučnej sústavy potvrdenie o vykonaní zmeny a priradení odberných miest do jeho bilančnej skupiny v podobe definovanej v technickej špecifikácii.
 
@@ -58,7 +58,7 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
     - (3) Ak dodávateľ elektriny poukáže platbu s nesprávnym variabilným alebo konštantným symbolom, alebo ju poukáže na iný bankový účet prevádzkovateľa distribučnej sústavy ako je uvedený na faktúre, prevádzkovateľ distribučnej sústavy platbu môže vrátiť ako neidentifikovateľnú a je oprávnený účtovať dodávateľovi elektriny úrok z omeškania od dátumu vrátenia peňazí až do obdržania správne poukázanej platby.
 
-    - (4) Ak je dodávateľ elektriny v omeškaní s akoukoľvek platbou podľa týchto obchodných podmienok, prevádzkovateľ distribučnej sústavy má právo zaslať mu upomienku s výzvou na uhradenie dlžnej čiastky. Platba za upomienku vo výške 10 eur sa uhrádza dodávateľom elektriny. V prípade neuhradenia dlžnej sumy v lehote uvedenej v upomienke, ktorá nie je kratšia ako sedem dní, je prevádzkovateľ distribučnej sústavy oprávnený vypovedať zmluvu a postupovať podľa § 10 odsek 3. Prevádzkovateľ distribučnej sústavy zoberie výpoveď späť, ak dodávateľ elektriny uhradí všetky svoje záväzky skôr, ako dôjde k záväznému oznámeniu o začatí dodávky poslednej inštancie prevádzkovateľom distribučnej sústavy podľa osobitného predpisu.
+    - (4) Ak je dodávateľ elektriny v omeškaní s akoukoľvek platbou podľa týchto obchodných podmienok, prevádzkovateľ distribučnej sústavy má právo zaslať mu upomienku s výzvou na uhradenie dlžnej čiastky. Platba za upomienku vo výške 10 eur sa uhrádza dodávateľom elektriny. V prípade neuhradenia dlžnej sumy v lehote uvedenej v upomienke, ktorá nie je kratšia ako sedem dní, je prevádzkovateľ distribučnej sústavy oprávnený vypovedať zmluvu a postupovať podľa prílohy č. 9 časti J ods. 3. Prevádzkovateľ distribučnej sústavy zoberie výpoveď späť, ak dodávateľ elektriny uhradí všetky svoje záväzky skôr, ako dôjde k záväznému oznámeniu o začatí dodávky poslednej inštancie prevádzkovateľom distribučnej sústavy podľa osobitného predpisu.
 
     - (5) Faktúra sa zasiela dodávateľovi elektriny elektronicky a následne poštou. Za rozhodujúci deň pre doručenie faktúry dodávateľovi elektriny sa považuje deň doručenia faktúry elektronicky na adresu elektronickej pošty určenú na tieto účely zo strany dodávateľa elektriny. Adresa pre zasielanie faktúr sa dohodne v zmluve.
 
@@ -76,15 +76,15 @@ Príloha č. 9 k vyhláške č. 24/2013 Z. z.
 
       - c) s ročným odpočtovým cyklom, ktoré mali v príslušnom mesiaci riadny odpočet určeného meradla, pričom predmetom vyúčtovania je rozdiel medzi uhradenými platbami za opakované dodanie tovaru a celkovou vyúčtovanou čiastkou za dané obdobie.
 
-    - (10) Mesačná faktúra obsahuje rozdelenie podľa jednotlivých taríf, pričom v každej tarife sú uvedené všetky položky distribučných služieb, vrátane systémových služieb, prevádzkovania systému a odvodu do Národného jadrového fondu, množstvo za celú tarifu, merná jednotka, jednotková cena a celková fakturovaná suma. Pri každej tarife je uvedený počet odberných miest, ktoré sú vo faktúre zahrnuté.
+    - (10) Mesačná faktúra obsahuje rozdelenie podľa jednotlivých taríf, pričom v každej tarife sú uvedené všetky položky distribučných služieb, vrátane systémových služieb, prevádzkovania systému, množstvo za celú tarifu, merná jednotka, jednotková cena a celková fakturovaná suma. Pri každej tarife je uvedený počet odberných miest, ktoré sú vo faktúre zahrnuté.
 
     - (11) Mesačnú faktúru prevádzkovateľ distribučnej sústavy doručí dodávateľovi za odberné miesto odberateľov registrovaných v jeho bilančnej skupine do piatich pracovných dní po skončení kalendárneho mesiaca. Prílohou faktúry je elektronický rozpis fakturovaných položiek za každé odberné miesto odberateľa elektriny nachádzajúce sa v bilančnej skupine dodávateľa zvlášť v členení podľa technickej špecifikácie.
 
     - (12) V prípade opravy fakturačných údajov za predchádzajúce obdobie vyhotoví prevádzkovateľ distribučnej sústavy agregovanú opravnú faktúru za príslušný mesiac, ktorého sa oprava dotýka. Prílohou opravnej faktúry je elektronický rozpis pôvodných a nových fakturovaných položiek za každé odberné miesto odberateľa nachádzajúce sa v bilančnej skupine dodávateľa elektriny zvlášť v členení podľa technickej špecifikácie.
 
-    - (13) Úhrady za prístup do distribučnej sústavy a distribúciu elektriny vrátane regulovaných služieb v súlade so zákonmi a s rozhodnutiami úradu sa môžu vykonávať aj formou platenia preddavkov podľa § 10 týchto obchodných podmienok a formou vyúčtovacej faktúry, z ktorej sú odpočítané uhradené preddavky.
+    - (13) Úhrady za prístup do distribučnej sústavy a distribúciu elektriny vrátane regulovaných služieb v súlade so zákonmi a s rozhodnutiami úradu sa môžu vykonávať aj formou platenia preddavkov podľa písmena F týchto obchodných podmienok a formou vyúčtovacej faktúry, z ktorej sú odpočítané uhradené preddavky.
 
-    - (14) Cyklus preddavkových platieb sa určuje podľa § 10 týchto obchodných podmienok. Výška preddavkov sa určuje na základe predpokladanej mesačnej platby. Pre stanovenie výšky predpokladanej mesačnej platby je určujúca história mesačnej spotreby alebo predpokladaná mesačná spotreba odberných miest nachádzajúcich sa v bilančnej skupine dodávateľa. S výškou predpísaných preddavkových platieb na nasledujúce obdobie bude dodávateľ oboznámený na doručenej faktúre za predchádzajúci mesiac.
+    - (14) Cyklus preddavkových platieb sa určuje podľa písmena F týchto obchodných podmienok. Výška preddavkov sa určuje na základe predpokladanej mesačnej platby. Pre stanovenie výšky predpokladanej mesačnej platby je určujúca história mesačnej spotreby alebo predpokladaná mesačná spotreba odberných miest nachádzajúcich sa v bilančnej skupine dodávateľa. S výškou predpísaných preddavkových platieb na nasledujúce obdobie bude dodávateľ oboznámený na doručenej faktúre za predchádzajúci mesiac.
 
     - (15) Prevádzkovateľ distribučnej sústavy má právo upraviť výšku preddavkových platieb, ak dôjde k zmene tarify za distribúciu elektriny, zmene počtu odberných miest zásobovaných dodávateľom elektriny, alebo ak dôjde ku zmene charakteru odberu elektriny v odberných miestach zásobovaných odberateľom elektriny. Dodávateľ elektriny môže požiadať o zmenu výšky preddavkových platieb.
 
