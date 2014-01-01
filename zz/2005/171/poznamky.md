@@ -86,7 +86,7 @@
 
 - 15) Zákon č. 367/2000 Z. z. v znení neskorších predpisov.
 
-- 16) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 16) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
 - 17) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
