@@ -16,6 +16,8 @@
 
 - Nariadenie Komisie (EÚ) č. 1157/2010 z 9. decembra 2010, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1177/2003 o štatistike Spoločenstva o príjmoch a životných podmienkach (EU SILC), pokiaľ ide o zoznam cieľových sekundárnych premenných týkajúcich sa podmienok bývania na rok 2012 (Ú. v. EÚ L 165, 3. 7. 2003).
 
+- 7a) § 5 ods. 2 písm. a) a b) a ods. 6 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) Nariadenie Rady (ES) č. 2223/96 z 25. júna 1996 o Európskom systéme národných a regionálnych účtov v Spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 002) v platnom znení.
 
 - Nariadenie Rady (ES) č. 577/98 z 9. marca 1998 o organizácii výberového zisťovania pracovných síl v Spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap. 05/zv. 03) v platnom znení.
@@ -63,6 +65,8 @@
 - Nariadenie Komisie (ES) č. 698/2006 z 5. mája 2006, ktorým sa vykonáva nariadenie Rady (ES) č. 530/1999, pokiaľ ide o hodnotenie kvality štrukturálnej štatistiky nákladov práce a príjmov (Ú. v. EÚ L 121, 6. 5. 2006) v platnom znení.
 
 - 15) Nariadenie (ES) č. 1338/2008.
+
+- Nariadenie Komisie (EÚ) č. 141/2013 z 19. februára 2013, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1338/2008 o štatistikách Spoločenstva v oblasti verejného zdravia a bezpečnosti a ochrany zdravia pri práci, pokiaľ ide o štatistiky vychádzajúce z európskeho zisťovania o zdraví formou rozhovoru (EHIS) (Ú. v. EÚ L 47, 20. 2. 2013).
 
 - 16) Nariadenie Európskeho parlamentu a Rady (ES) č. 458/2007 z 25. apríla 2007 o európskom systéme integrovanej štatistiky sociálnej ochrany (ESSPROS) (Ú. v. EÚ L 113, 30. 4. 2007).
 
@@ -250,11 +254,11 @@
 
 - 48) Rozhodnutie č. 1608/2003/ES Európskeho parlamentu a Rady z 29. júla 2003 o vypracovaní a vývoji štatistík Spoločenstva o vede a technike (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 31).
 
-- Nariadenie Komisie (ES) č. 753/2004 z 22. apríla 2004, ktorým sa vykonáva rozhodnutie Európskeho parlamentu a Rady č. 1608/2003/ES vo vzťahu k štatistike o vede a technike (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34) v platnom znení.
+- Vykonávacie nariadenie Komisie (EÚ) č. 995/2012 z 26. októbra 2012, ktorým sa stanovujú podrobné pravidlá vykonávania Európskeho parlamentu a Rady č. 1608/2003/ES o vypracovaní a vývoji štatistík Spoločenstva o vede a technike (Ú. v. EÚ L 299, 27. 10. 2012).
 
 - 49) Rozhodnutie č. 1608/2003/ES.
 
-- Nariadenie Komisie (ES) č. 1450/2004 z 13. augusta 2004, ktorým sa vykonáva rozhodnutie Európskeho parlamentu a Rady č. 1608/2003/ES o vypracovaní a vývoji štatistík Spoločenstva o inovácii (Ú. v. ES L 267, 14. 8. 2004) v platnom znení.
+- Vykonávacie nariadenie č. 995/2012.
 
 - 50) Nariadenie (ES) č. 808/2004 v platnom znení.
 
@@ -274,7 +278,7 @@
 
 - 56a) Vyhláška Štatistického úradu Slovenskej republiky č. 243/2012 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
 
-- 57) Zákon č.170/2001 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze v znení neskorších predpisov.
+- 57) Zákon č. 373/2012 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o doplnení zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Nariadenie (ES) č. 1099/2008 v platnom znení.
 
@@ -362,7 +366,9 @@
 
 - 75) Vyhláška Štatistického úradu Slovenskej republiky č. 438/2004 Z. z., ktorou sa vydáva klasifikácia štatistických územných jednotiek.
 
-- 76) Nariadenie Komisie (EÚ) č. 349/2011 z 11. apríla 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1338/2008 o štatistikách Spoločenstva v oblasti verejného zdravia a bezpečnosti a ochrany zdravia pri práci, pokiaľ ide o štatistiku pracovných úrazov (Ú. v. EÚ L 97, 12. 4. 2011).
+- 76) Nariadenie (ES) č. 1338/2008.
+
+- Nariadenie Komisie (EÚ) č. 349/2011 z 11. apríla 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1338/2008 o štatistikách Spoločenstva v oblasti verejného zdravia a bezpečnosti a ochrany zdravia pri práci, pokiaľ ide o štatistiku pracovných úrazov (Ú. v. EÚ L 97, 12. 4. 2011).
 
 - 77) Nariadenie (ES) č. 458/2007.
 
@@ -381,3 +387,5 @@
 - 81) § 1 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
 
 - 82) Vyhláška Štatistického úradu Slovenskej republiky č. 195/2003 Z. z., ktorou sa vydáva štatistická klasifikácia výdavkov verejnej správy.
+
+- 83) Nariadenia Európskeho parlamentu a Rady (ES) č. 1185/2009 z 25. novembra 2009 o štatistike pesticídov (Ú. v. EÚ L 324, 10. 12. 2009) v platnom znení.

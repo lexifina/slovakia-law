@@ -40,6 +40,8 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - 14. | Škol (MŠVVŠ SR) 5-01 | Výkaz o školských zariadeniach výchovného poradenstva a prevencie
 
+- 14a. | Škol (MŠVVŠ SR) 5-95 | Zisťovanie kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania (rok zisťovania 2014)
+
 - 15. | Škol (MŠVVŠ SR) 10-01 | Výkaz o školskej a akademickej knižnici
 
 - 16. | Škol (MŠVVŠ SR) 11-01 | Výkaz o vysokej škole
@@ -96,7 +98,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - 41. | A (MZ SR) 15-01 | Ročný výkaz o činnosti oftalmologickej ambulancie
 
-- 42. | A (MZ SR) 17-01 | Ročný výkaz o činnosti kardiologickej a internej ambulancie
+- 42. | A (MZ SR) 17-01 | Ročný výkaz o činnosti kardiologickej ambulancie
 
 - 43. | A (MZ SR) 18-01 | Ročný výkaz o činnosti neurologickej ambulancie
 
@@ -192,7 +194,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - 85. | Ropa (SŠHR SR) 1-12 | Mesačný výkaz o rope, ropných výrobkoch a zemnom plyne
 
-- Ministerstvo dopravy, VÝSTAVBY A REGIONÁLNEHO ROZVOJA Slovenskej republiky | |
+- MINISTERSTVO DOPRAVY, VÝSTAVBY A REGIONÁLNEHO ROZVOJA SLOVENSKEJ REPUBLIKY | |
 
 - 86. | V (MDVRR SR) 1-01 | Ročný výkaz o výkonoch a nákladoch na diaľniciach a na cestách
 
@@ -222,7 +224,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - 99. | EKSS (MDVRR SR) 1-02 | Polročný výkaz o elektronických komunikačných sieťach a službách
 
-- Poštový regulačný úrad | |
+- POŠTOVÝ REGULAČNÝ ÚRAD | |
 
 - 100. | PO (PRÚ) 1-01 | Ročný výkaz o poštovej sieti
 
@@ -232,13 +234,11 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - IV. POĽNOHOSPODÁRSTVO, LESNÍCTVO A RYBOLOV | |
 
-- Ministerstvo pôdohospodárstva A ROZVOJA VIDIEKA Slovenskej republiky | |
+- MINISTERSTVO PÔDOHOSPODÁRSTVA A ROZVOJA VIDIEKA SLOVENSKEJ REPUBLIKY | |
 
 - 103. | BM (MPRV SR) 1-12 | Mesačný výkaz o zabití jatočných zvierat a hodnote ich nákupu podľa akostných tried
 
 - 104. | RM (MPRV SR) 2-12 | Mesačný výkaz o bilancii mäsa na kosti a výrobkov z mäsa
-
-- 105. | CM (MPRV SR) 3-12 | Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
 
 - 106. | ML (MPRV SR) 6-12 | Mesačný výkaz o nákupe mlieka a smotany a výrobe mliečnych výrobkov
 
@@ -249,8 +249,6 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 - 109. | LIAH (MPRV SR) 1-12 | Mesačný výkaz o liahnutí, násadových vajciach a jednodňovej hydine
 
 - 110. | VOH (MPRV SR) 7-12 | Mesačný výkaz o výrobe, odbyte a súhrnnej ponuke jatočnej hydiny a konzumných vajec
-
-- 111. | FCMIZ (MPRV SR) 3-04 | Štvrťročný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
 
 - 112. | Sklad (MPRV SR) 1-04 | Štvrťročný výkaz o bilancii tovarov uskladnených vo verejnom sklade
 
@@ -286,7 +284,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
 - V. VIACSTRANNÉ ŠTATISTIKY | |
 
-- Ministerstvo životného prostredia Slovenskej republiky | |
+- MINISTERSTVO ŽIVOTNÉHO PROSTREDIA SLOVENSKEJ REPUBLIKY | |
 
 - 128. | Geo (MŽP SR) 3-01 | Výkaz o stave a zmenách zásob výhradných ložísk
 
@@ -308,7 +306,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: výberové zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: vyplatené mzdy podľa jednotlivých zložiek, základné tarifné mzdy, mzdové zvýhodnenie, príplatky, doplatky, náhrady mzdy, prémie a odmeny, poskytnuté plnenia zo zisku, náhrady za pracovnú pohotovosť, pohlavie a vek zamestnanca, kódy zamestnania podľa Štatistickej klasifikácie zamestnaní,<sup>53</sup>) tarifné triedy, dosiahnuté vzdelanie, týždenný fond pracovného času, odpracovaný čas, pracovný úväzok, priemerný hodinový zárobok, pracovisko, priemerné počty voľných a obsadených pracovných miest.
+      - Charakteristika navrhnutých ukazovateľov: vyplatené mzdy podľa jednotlivých zložiek, základné tarifné mzdy, mzdové zvýhodnenie, príplatky, doplatky, náhrady mzdy, prémie a odmeny, poskytnuté plnenia zo zisku, náhrady za pracovnú pohotovosť, pohlavie a vek zamestnanca, kódy zamestnania podľa Štatistickej klasifikácie zamestnaní,<sup>53</sup>) tarifné triedy, dosiahnutý stupeň a odbor vzdelania, týždenný fond pracovného času, odpracovaný čas, pracovný úväzok, priemerný hodinový zárobok, okres výkonu práce, priemerné počty voľných a obsadených pracovných miest.
 
     - c) Vymedzenie spravodajských jednotiek
 
@@ -742,6 +740,36 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.
 
+  - 14a. Značka štatistického zisťovania a značka formulára: Škol (MŠVVŠ SR) 5-95
+
+    - Názov štatistického zisťovania a názov formulára: Zisťovanie kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie o kvalifikovanosti pedagogických zamestnancov a odbornosti vyučovania, ktoré budú slúžiť na účely štátnej štatistiky a na medzinárodné porovnanie.
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: vyčerpávajúce zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: ukazovatele týkajúce sa pedagogických zamestnancov, posúdenia ich vzdelanostnej a kvalifikačnej úrovne, jazykových znalostí, vekovej štruktúry a odbornosti vyučovania podľa jednotlivých vyučovacích predmetov.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+      - Materské školy, základné školy, základné umelecké školy, jazykové školy, gymnáziá, stredné odborné školy, konzervatóriá, strediská praktického vyučovania, pracoviská praktického vyučovania a špeciálne školy.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita štatistického zisťovania: raz za päť rokov (rok zisťovania 2014).
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára 2014.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky prostredníctvom Ústavu informácií a prognóz školstva.“.
+
   - 15. Značka štatistického zisťovania a značka formulára: Škol (MŠVVŠ SR) 10-01
 
     - Názov štatistického zisťovania a názov formulára: Výkaz o školskej a akademickej knižnici
@@ -1148,7 +1176,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Základné školy, stredné školy a vysoké školy.
+      - Materské školy, základné školy, stredné školy a vysoké školy.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1186,7 +1214,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1218,7 +1246,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1250,7 +1278,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1282,7 +1310,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1314,7 +1342,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1346,7 +1374,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1378,7 +1406,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1410,7 +1438,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1442,7 +1470,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1474,7 +1502,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1506,7 +1534,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1538,7 +1566,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1570,7 +1598,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1580,7 +1608,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
   - 42. Značka štatistického zisťovania a značka formulára: A (MZ SR) 17-01
 
-    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o činnosti kardiologickej a internej ambulancie
+    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o činnosti kardiologickej ambulancie
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
@@ -1602,7 +1630,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1634,7 +1662,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1666,7 +1694,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1698,7 +1726,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1730,7 +1758,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1762,7 +1790,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1794,7 +1822,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1826,7 +1854,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1858,7 +1886,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1890,7 +1918,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1922,7 +1950,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1954,7 +1982,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -1986,7 +2014,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2018,7 +2046,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2050,7 +2078,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2082,7 +2110,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2114,7 +2142,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2146,7 +2174,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2178,7 +2206,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2210,7 +2238,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2242,7 +2270,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2274,7 +2302,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2306,7 +2334,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2338,7 +2366,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -2370,7 +2398,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. januára nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 28. februára nasledujúceho roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -3680,38 +3708,6 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky prostredníctvom právnickej osoby na základe zmluvy.
 
-  - 105. Značka štatistického zisťovania a značka formulára: CM (MPRV SR) 3-12
-
-    - Názov štatistického zisťovania a názov formulára: Mesačný výkaz o odbytových cenách vybraných druhov výsekového mäsa a výrobkov
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie vývoja odbytových cien vybraných druhov výsekového mäsa a mäsových výrobkov a na zabezpečenie požiadaviek európskeho štatistického systému.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: odbytové ceny vybraných druhov výsekového mäsa a výrobkov.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Právnické osoby a fyzické osoby bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosti podľa Štatistickej klasifikácie ekonomických činností:<sup>10</sup>)
-
-      - 10.1 – Spracovanie a konzervovanie mäsa a mäsových produktov.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: mesačne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 7. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky prostredníctvom právnickej osoby na základe zmluvy.
-
   - 106. Značka štatistického zisťovania a značka formulára: ML (MPRV SR) 6-12
 
     - Názov štatistického zisťovania a názov formulára: Mesačný výkaz o nákupe mlieka a smotany a výrobe mliečnych výrobkov
@@ -3875,46 +3871,6 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
       - Periodicita štatistického zisťovania: mesačne.
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po sledovanom období.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky prostredníctvom právnickej osoby na základe zmluvy.
-
-  - 111. Značka štatistického zisťovania a značka formulára: FCMIZ (MPRV SR) 3-04
-
-    - Názov štatistického zisťovania a názov formulára: Štvrťročný výkaz o bilancii výroby, nákupu a predaja výrobkov s obsahom cukru
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o bilancii hotových výrobkov a surovín s obsahom cukru na ich výrobu. Výsledky zisťovania sa využijú na zabezpečenie požiadaviek európskeho štatistického systému.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: stav zásob suroviny a nedokončenej výroby, nákup suroviny v tuzemsku, dovoz, predaj, vývoz a použitie suroviny, stav zásob spracovaných výrobkov, nákup, dovoz, predaj a vývoz spracovaných výrobkov za výrobné organizácie a povinné nevýrobné organizácie.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Právnické osoby a fyzické osoby bez ohľadu na počet zamestnancov, ktoré vykonávajú činnosť podľa Štatistickej klasifikácie ekonomických činností:<sup>10</sup>)
-
-      - 10 – Výroba potravín,
-
-      - 11 – Výroba nápojov,
-
-      - 46.3 – Veľkoobchod s potravinami, nápojmi a tabakom,
-
-      - 47.2 – Maloobchod s potravinami, nápojmi a tabakom v špecializovaných predajniach a
-
-      - 52.10 – Skladovanie a uskladňovanie.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: štvrťročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 12. kalendárneho dňa po sledovanom období.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
@@ -4140,7 +4096,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o dodávkach surového dreva, lesnej štiepky a reziva na domáci trh a na celkový vývoz realizovaný organizáciami lesného hospodárstva a na zabezpečenie požiadaviek európskeho štatistického systému.
+      - Účelom štatistického zisťovania je získať informácie o dodávkach surového dreva, lesnej štiepky a reziva na domáci trh a na celkový vývoz realizovaný organizáciami lesného hospodárstva a na zabezpečenie požiadaviek európskeho štatistického systému. Získavanie informácií sa vykonáva na základe neformálnej dohody medzi Európskou komisiou a členskými štátmi pre potreby integrovaného účtu.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -4270,7 +4226,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať základné informácie o stave vybraných ukazovateľov obhospodarovania lesa v štátnych organizáciách a neštátnych subjektoch lesného hospodárstva. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva, na zostavenie súhrnného lesníckeho ekonomického účtu a pre potreby medzinárodných organizácií.
+      - Účelom štatistického zisťovania je získať základné informácie o stave vybraných ukazovateľov obhospodarovania lesa v štátnych organizáciách a neštátnych subjektoch lesného hospodárstva. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti zameranej na odvetvie lesného hospodárstva, na zostavenie súhrnného lesníckeho ekonomického účtu a pre potreby medzinárodných organizácií. Získavanie informácií sa vykonáva na základe neformálnej dohody medzi Európskou komisiou a členskými štátmi pre potreby integrovaného účtu.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
@@ -4366,7 +4322,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie o produkčnom potenciáli a situácii na trhu v súlade s jednotnou organizáciou spoločného trhu, a to prostredníctvom zisťovania odhadu úrody jabĺk, hrušiek, broskýň a marhúľ, a zistenie konečnej produkcie ovocia podľa ovocných druhov a odrôd v tonách a produkčnej plochy. Výsledky zisťovania sa využívajú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
+      - Účelom štatistického zisťovania je získať informácie o produkčnom potenciáli a situácii na trhu v súlade s jednotnou organizáciou spoločného trhu, a to prostredníctvom zisťovania odhadu úrody jabĺk, hrušiek, broskýň a marhúľ, a zistenie konečnej produkcie ovocia podľa ovocných druhov a odrôd v tonách a produkčnej plochy v hektároch. Výsledky zisťovania sa využívajú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania.
 
       - Získavanie informácií ustanovuje osobitný predpis.<sup>64a</sup>)
 
@@ -4402,7 +4358,7 @@ Príloha č. 2 k vyhláške č. 358/2011 Z. z.
 
     - a) Účel a využitie výsledkov štatistického zisťovania
 
-      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov jabĺk a hrušiek pre monitorovanie poľnohospodárskeho trhu. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania. Získavanie informácií ustanovuje osobitný predpis.<sup>64a</sup>)
+      - Účelom štatistického zisťovania je získať informácie potrebné na sledovanie množstva uskladnených druhov jabĺk a hrušiek pre monitorovanie poľnohospodárskeho trhu. Výsledky zisťovania sa využijú na účely štátnej štatistiky, pri analytickej, prognostickej a koncepčnej činnosti a na medzinárodné porovnania. Získavanie informácií ustanovuje osobitný predpis.<sup>63</sup>)
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 

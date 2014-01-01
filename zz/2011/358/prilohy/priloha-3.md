@@ -48,7 +48,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 19. | Výkaz NO Úč 2-01 | | Výkaz o majetku a záväzkoch
 
-- 20. | Fin 1-04 | | Finančný výkaz o plnení rozpočtu subjektu verejnej správy
+- 20. | Fin 1-12 | | Finančný výkaz o plnení rozpočtu a o nerozpočtovaných pohyboch na účtoch subjektu verejnej správy
 
 - 21. | Fin 2-04 | | Finančný výkaz o vybraných údajoch z aktív a pasív subjektu verejnej správy
 
@@ -56,11 +56,9 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 23. | Fin 4-01 | | Finančný výkaz o členení finančných aktív a finančných pasív podľa sektorov
 
-- 24. | Fin 5-04 | | Finančný výkaz o štruktúre dlhu subjektu verejnej správy podľa rezidentov a meny
+- 24. | Fin 5-04 | | Finančný výkaz o úveroch, emitovaných dlhopisoch, zmenkách a finančnom prenájme subjektu verejnej správy
 
-- 25. | Fin 6-04 | | Finančný výkaz o úveroch, emitovaných dlhopisoch, zmenkách a finančnom prenájme subjektu verejnej správy
-
-- 26. | Fin 7-04 | | Finančný výkaz o stave bankových účtov a záväzkov obcí, vyšších územných celkov a nimi zriadených rozpočtových organizácií
+- 25. | Fin 6-04 | | Finančný výkaz o stave bankových účtov a záväzkov obcí, vyšších územných celkov a nimi zriadených rozpočtových organizácií
 
 - 27. | PO | | Priznanie k dani z nehnuteľnosti, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje
 
@@ -112,13 +110,11 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 50. | Bil (NBS) 2-12 | | Výkaz ziskov a strát
 
-- 51. | V (NBS) 5-12 | | Mesačný výkaz o úplnom sektorovom členení vkladov, prijatých úverov a vydaných cenných papierov
+- 51. | V (NBS) 5-12 | | Štatistická bilancia – pasíva
 
 - 52. | V (NBS) 7-12 | | Mesačný výkaz o stave úverov v eurách a o výške dohodnutých priemerných úrokových mier
 
 - 54. | V (NBS) 11-12 | | Mesačný výkaz o stave vkladov v eurách a o výške dohodnutých priemerných úrokových mier
-
-- 55. | V (NBS) 12-12 | | Mesačný výkaz o úverových a vkladových medzibankových obchodoch
 
 - 56. | V (NBS) 13-04 | | Štvrťročný výkaz o úrokových nákladoch a výnosoch
 
@@ -126,9 +122,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 58. | V (NBS) 32-01 | | Ročný výkaz o úveroch podľa krajov
 
-- 59. | V (NBS) 33-12 | | Mesačný výkaz o úplnom sektorovom členení úverov
-
-- 60. | V (NBS) 41-04 | | Štvrťročný výkaz o úveroch poskytnutých nefinančným spoločnostiam pod¾a Štatistickej klasifikácie ekonomických èinností
+- 59. | V (NBS) 33-12 | | Štatistická bilancia – aktíva
 
 - 61. | V (NBS) 51-12 | | Mesačný výkaz o vkladoch a prijatých úveroch podľa Štatistickej klasifikácie ekonomických činností
 
@@ -150,10 +144,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 70. | M (NBS) 11-12 | | Mesačný výkaz o nových vkladoch prijatých v aktuálnom mesiaci v eurách a o výške dohodnutých priemerných úrokových mier
 
-- 71. | M (NBS) 61-12 | | Mesačná štatistická bilancia podielových fondov peňažného trhu
-
-- 72. | M (NBS) 71-12 | | Mesačná štatistická bilancia podielových fondov iných ako podielové fondy peňažného trhu
-
 - 73. | M (NBS) 81-04 | | Štvrťročná štatistická bilancia
 
 - 74. | Pb (NBS) 1-12 | | Mesačný výkaz o inkasách a platbách medzi rezidentmi a nerezidentmi
@@ -163,8 +153,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 - 77. | Pb (NBS) 4-01 | | Ročný výkaz o vlastnom imaní a rozdelení výsledku hospodárenia
 
 - 80. | Pb (NBS) 7-04 | | Štvrťročný výkaz o inkasách a platbách podľa geografického členenia
-
-- 81. | Ep (NBS) 1-04 | | Hlásenie o kmeňovom liste banky a pobočky zahraničnej banky
 
 - 82. | PS (NBS) 01-01 | | Ročný výkaz o účtoch bánk a pobočiek zahraničných bánk
 
@@ -247,6 +235,8 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 - 120a. | V (NBS) 67-12 | | Mesačný výkaz o transakciách a o vydaných podielových listoch podielového fondu alebo podfondu
 
 - 120b. | V (NBS) 86-12 | | Mesačný výkaz o cenných papieroch
+
+- 120c. | | | Výkaz ziskov a strát NBS
 
 - | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo kultúry Slovenskej republiky | |
 
@@ -336,6 +326,8 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 158. | | | Sociálne zabezpečenie príslušníkov Zboru väzenskej a justičnej stráže
 
+- 158a. | VAZENSTVO | | Ročný štatistický prehľad o činnosti Zboru väzenskej a justičnej stráže
+
 - | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky | |
 
 - 159. | Škol (MŠVVŠ SR) 1-04 | | Štvrťročný výkaz o práci v školstve
@@ -363,6 +355,10 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 - | Prezídium Policajného zboru | |
 
 - 168. | | | Evidenčno-štatistický systém kriminality
+
+- | Prezídium Hasičského a záchranného zboru | |
+
+- 168a. | POZIAROVOST | | Ročný štatistický prehľad požiarovosti
 
 - | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo zdravotníctva Slovenskej republiky | |
 
@@ -408,6 +404,10 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 186. | | | Register poistencov
 
+- | Štátny ústav pre kontrolu liečiv | |
+
+- 186a. | SPOTREBA LIEKOV | | Spotreba liekov na Slovensku
+
 - | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo životného prostredia Slovenskej republiky | |
 
 - | Slovenský hydrometeorologický ústav | |
@@ -424,9 +424,15 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - | Slovenská inšpekcia životného prostredia | |
 
-- 191. | | | Údaje o pokutách uložených inšpektorátmi Slovenskej inšpekcie životného prostredia
-
 - 192. | | | Údaje o mimoriadnom zhoršení vôd
+
+- | Slovenská agentúra životného prostredia | |
+
+- 192a. | ODPAD | | Hlásenie o vzniku odpadu a nakladaní s ním
+
+- | Environmentálny fond | |
+
+- 192b. | POKUTY | | Údaje o uložených a zaplatených pokutách za porušenie predpisov v ochrane životného prostredia
 
 - | Inštitúcia disponujúca administratívnym zdrojom: Sociálna poisťovňa | |
 
@@ -455,6 +461,28 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 - | Inštitúcia disponujúca administratívnym zdrojom: Samosprávne kraje | |
 
 - 200. | | | Výdavky na sociálnu pomoc
+
+- | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo hospodárstva Slovenskej republiky | |
+
+- | Hlavný banský úrad | |
+
+- 201. | URAZY HBU | | Registrácia pracovných úrazov Hlavného banského úradu
+
+- | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky | |
+
+- | Ústredný kontrolný a skúšobný ústav poľnohospodársky | |
+
+- 202. | PREDAJ PESTICIDOV | | Údaje o predaji prípravkov na ochranu rastlín
+
+- 203. | SPOTREBA PESTICIDOV | | Údaje o spotrebe prípravkov na ochranu rastlín
+
+- | Inštitúcia disponujúca administratívnym zdrojom: Generálna prokuratúra Slovenskej republiky | |
+
+- 204. | PROKURATURA | | Štatistický prehľad trestnej a netrestnej činnosti
+
+- | Inštitúcia disponujúca administratívnym zdrojom: Úrad geodézie, kartografie a katastra Slovenskej republiky | |
+
+- 205. | VYMERA | | Údaje o výmere obcí podľa jednotlivých druhov pozemkov
 
 - II. | Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO FINANCIÍ SLOVENSKEJ REPUBLIKY | |
 
@@ -496,7 +524,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
 - 11. | | | Evidencia združení obcí
 
-- | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo hospodárstva Slovenskej republiky | |
+- | Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky | |
 
 - 12. | | | Aktívny zahraničný cestovný ruch na Slovensku
 
@@ -982,9 +1010,9 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
 
-    - 20. Značka administratívneho zdroja: Fin 1-04
+    - 20. Značka administratívneho zdroja: Fin 1-12
 
-      - Názov administratívneho zdroja: Finančný výkaz o plnení rozpočtu subjektu verejnej správy
+      - Názov administratívneho zdroja: Finančný výkaz o plnení rozpočtu a o nerozpočtovaných pohyboch na účtoch subjektu verenej správy
 
       - a) Účel a využitie administratívnych údajov
 
@@ -1064,7 +1092,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - 24. Značka administratívneho zdroja: Fin 5-04
 
-      - Názov administratívneho zdroja: Finančný výkaz o štruktúre dlhu subjektu verejnej správy podľa rezidentov a meny
+      - Názov administratívneho zdroja: Finančný výkaz o úveroch, emitovaných dlhopisoch, zmenkách a finančnom prenájme subjektu verejnej správy
 
       - a) Účel a využitie administratívnych zdrojov
 
@@ -1084,26 +1112,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - 25. Značka administratívneho zdroja: Fin 6-04
 
-      - Názov administratívneho zdroja: Finančný výkaz o úveroch, emitovaných dlhopisoch, zmenkách a finančnom prenájme subjektu verejnej správy
-
-      - a) Účel a využitie administratívnych zdrojov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov za sektor verejnej správy.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Štvrťročné údaje pre vybrané položky finančných pasív vstupujúcich do dlhu verejnej správy za subjekty verejnej správy a za všetky verejné, ako aj súkromné zdravotné poisťovne okrem rozpočtových organizácií, Úradu pre dohľad nad zdravotnou starostlivosťou, Slovenského národného strediska pre ľudské práva a Ústavu pamäti národa.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: štvrťročne.
-
-        - Lehota na odovzdanie administratívnych údajov: do 50. kalendárneho dňa po referenčnom období.
-
-    - 26. Značka administratívneho zdroja: Fin 7-04
-
       - Názov administratívneho zdroja: Finančný výkaz o stave bankových účtov a záväzkov obcí, vyšších územných celkov a nimi zriadených rozpočtových organizácií
 
       - a) Účel a využitie administratívnych zdrojov
@@ -1112,9 +1120,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
 
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Štvrťročné údaje ostatných pohľadávok a ostatných záväzkov a ich rozklad na podrobnejšie kategórie za subjekty verejnej správy.
+      - b) Štvrťročné údaje ostatných pohľadávok a ostatných záväzkov a ich rozklad na podrobnejšie kategórie za subjekty verejnej správy.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -1602,7 +1608,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - 51. Značka administratívneho zdroja: V (NBS) 5-12
 
-      - Názov administratívneho zdroja: Mesačný výkaz o úplnom sektorovom členení vkladov, prijatých úverov a vydaných cenných papierov
+      - Názov administratívneho zdroja: Štatistická bilancia – pasíva
 
       - a) Účel a využitie administratívnych údajov
 
@@ -1655,26 +1661,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
       - b) Charakteristika triedení požadovaných administratívnych údajov
 
         - Objem vkladov a výška priemerných úrokových mier v členení podľa časového hľadiska a v triedení podľa ekonomických sektorov a subsektorov európskeho systému národných účtov.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
-
-    - 55. Značka administratívneho zdroja: V (NBS) 12-12
-
-      - Názov administratívneho zdroja: Mesačný výkaz o úverových a vkladových medzibankových obchodoch
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Stav netermínovaných a termínovaných vkladov a úverov.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -1746,7 +1732,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - 59. Značka administratívneho zdroja: V (NBS) 33-12
 
-      - Názov administratívneho zdroja: Mesačný výkaz o úplnom sektorovom členení úverov
+      - Názov administratívneho zdroja: Štatistická bilancia – aktíva
 
       - a) Účel a využitie administratívnych údajov
 
@@ -1765,26 +1751,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
         - Údaje pre FLASH odhad HDP za banky a pobočky zahraničných bánk v Slovenskej republike: stav k 31. marcu, 30. júnu, 30. septembru a predbežný stav k 31. decembru do 25. kalendárneho dňa po referenčnom období.
-
-    - 60. Značka administratívneho zdroja: V (NBS) 41-04
-
-      - Názov administratívneho zdroja: Štvrťročný výkaz o úveroch poskytnutých nefinančným spoločnostiam podľa Štatistickej klasifikácie ekonomických činností
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Úvery poskytnuté nefinančným spoločnostiam v triedení podľa Štatistickej klasifikácie ekonomických činností.<sup>10</sup>)
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
     - 61. Značka administratívneho zdroja: V (NBS) 51-12
 
@@ -1862,9 +1828,9 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
-        - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
+        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
+        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
     - 65. Značka administratívneho zdroja: M (NBS) 3-12
 
@@ -1882,9 +1848,9 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
-        - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
+        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
+        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
     - 66. Značka administratívneho zdroja: M (NBS) 4-12
 
@@ -1962,9 +1928,9 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
-        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
+        - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
+        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
     - 70. Značka administratívneho zdroja: M (NBS) 11-12
 
@@ -1985,46 +1951,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
 
         - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
-
-    - 71. Značka administratívneho zdroja: M (NBS) 61-12
-
-      - Názov administratívneho zdroja: Mesačná štatistická bilancia podielových fondov peňažného trhu
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Mesačná štatistická bilancia fondov peňažného trhu v členení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
-
-    - 72. Značka administratívneho zdroja: M (NBS) 71-12
-
-      - Názov administratívneho zdroja: Mesačná štatistická bilancia podielových fondov iných ako podielové fondy peňažného trhu
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>67</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Mesačná štatistická bilancia podielových fondov iných ako podielové fondy peňažného trhu v členení podľa inštitucionálnych sektorov a subsektorov európskeho systému národných účtov.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
     - 73. Značka administratívneho zdroja: M (NBS) 81-04
 
@@ -2126,26 +2052,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
 
-    - 81. Značka administratívneho zdroja: Ep (NBS) 1-04
-
-      - Názov administratívneho zdroja: Hlásenie o kmeňovom liste banky a pobočky zahraničnej banky
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú na zostavovanie národných účtov a na zabezpečenie štrukturálnych zisťovaní za finančné korporácie.
-
-        - Získavanie informácií ustanovuje osobitný predpis.<sup>74</sup>)
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Prehľad o rozvoji bankového sektora v Slovenskej republike.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru predbežné údaje do 25. februára, definitívne údaje do 30. apríla po referenčnom období.
-
     - 82. Značka administratívneho zdroja: PS (NBS) 01-01
 
       - Názov administratívneho zdroja: Ročný výkaz o účtoch bánk a pobočiek zahraničných bánk
@@ -2224,7 +2130,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Periodicita poskytovania administratívnych údajov: polročne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: polročne do 45. kalendárneho dňa po referenčnom období, ročne do 30. júna po uplynutí kalendárneho roka.
+        - Lehota na odovzdanie administratívnych údajov: polročne do 30. septembra po referenčnom období, ročne do 30. júna po uplynutí kalendárneho roka.
 
     - 86. Značka administratívneho zdroja: Kis (PF) 16-04
 
@@ -2364,7 +2270,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Periodicita poskytovania administratívnych údajov: štvrťročne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 45. kalendárneho dňa po referenčnom období, ročne do 30. júna po uplynutí kalendárneho roka.
+        - Lehota na odovzdanie administratívnych údajov: štvrťročne do 50. kalendárneho dňa po referenčnom období, ročne do 30. júna po uplynutí kalendárneho roka.
 
     - 93. Značka administratívneho zdroja: Ppn (PTZ) 03-04
 
@@ -2944,7 +2850,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Periodicita poskytovania administratívnych údajov: mesačne, ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: mesačne do 30. kalendárneho dňa po referenčnom období, stav k 31. decembru, predbežné údaje do 25. februára a definitívne údaje do 30. apríla nasledujúceho roka.
+        - Lehota na odovzdanie administratívnych údajov: mesačne do 45. kalendárneho dňa po referenčnom období, stav k 31. decembru, predbežné údaje do 25. februára a definitívne údaje do 30. apríla nasledujúceho roka.
 
     - 120b. Značka administratívneho zdroja: V (NBS) 86-12
 
@@ -2965,6 +2871,26 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Periodicita poskytovania administratívnych údajov: ročne.
 
         - Lehota na odovzdanie administratívnych údajov: stav k 31. decembru, predbežné údaje do 30. kalendárneho dňa a definitívne údaje do 31. júla nasledujúceho roka.
+
+    - 120c. Značka administratívneho zdroja: – Názov administratívneho zdroja: Výkaz ziskov a strát NBS
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na zostavenie národných účtov.
+
+        - Získavanie informácií ustanovuje osobitný predpis.<sup>13</sup>)
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Výkaz ziskov a strát Národnej banky Slovenska v plnom rozsahu.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: štvrťročne a ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: stav k 31. decembru – definitívne údaje do 30. apríla po referenčnom období.
+
+        - Podklad pre FLASH odhad HDP za NBS: stav k 31. marcu, 30. júnu, 30. septembru a predbežný stav k 31. decembru do 25. kalendárneho dňa po referenčnom období.
 
     - 121. Značka administratívneho zdroja: –
 
@@ -3346,15 +3272,13 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
         - Získavanie informácií ustanovuje osobitný predpis.<sup>76</sup>)
 
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Kompletné údaje o registrovaných pracovných úrazoch za Slovenskú republiku podľa územného členenia, poistného vzťahu veku a pohlavia poškodeného, okolností, závažnosti a dôsledkov pracovného úrazu a Štatistickej klasifikácie ekonomických činností.<sup>10</sup>)
+      - b) Kompletné údaje o registrovaných pracovných úrazoch za Slovenskú republiku podľa štruktúry požadovanej metodikou Eurostatu – Európska štatistika o pracovných úrazoch ESAW.
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
         - Periodicita poskytovania administratívnych údajov: ročne.
 
-        - Lehota na odovzdanie administratívnych údajov: do 28. februára po referenčnom období.
+        - Lehota na odovzdanie administratívnych údajov: do 31. marca po referenčnom období.
 
     - Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo spravodlivosti Slovenskej republiky
 
@@ -3688,6 +3612,36 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
 
+    - 158a. Značka administratívneho zdroja: VAZENSTVO
+
+      - Názov administratívneho zdroja: Ročný štatistický prehľad o činnosti Zboru väzenskej a justičnej stráže
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na analytické účely, tvorbu publikácií a databáz, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Ročné štruktúrované údaje Generálneho riaditeľstva Zboru väzenskej a justičnej stráže o počte väzenského personálu a o osobách väznených v ústavoch na výkon väzby a výkon trestu odňatia slobody v triedení podľa nasledujúcich ukazovateľov:
+
+        - 1. stav/počty obvinených, odsúdených a väzenského personálu k 31. decembru,
+
+        - 2. priemerný ročný stav obvinených a odsúdených,
+
+        - 3. stav/počty obvinených a odsúdených k 1. septembru,
+
+        - 4. počet osôb, ktoré nastúpili do výkonu trestu (z väzby a z občianskeho života),
+
+        - 5. zloženie počtu odsúdených podľa pohlavia, veku, vzdelania, pracovnej kvalifikácie, výšky uloženého trestu odňatia slobody a stupňov stráženia k 31. decembru,
+
+        - 6. počet obvinených a odsúdených cudzincov k 31. decembru.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období, počas ktorého boli predmetné údaje evidované a spracované Zborom väzenskej a justičnej stráže.
+
     - 159. Značka administratívneho zdroja: Škol (MŠVVŠ SR) 1-04
 
       - Názov administratívneho zdroja: Štvrťročný výkaz o práci v školstve
@@ -3895,6 +3849,24 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Lehota na odovzdanie administratívnych údajov: ročne do 31. marca po referenčnom období.
 
         - Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo zdravotníctva Slovenskej republiky
+
+    - 168a. Značka administratívneho zdroja: POZIAROVOST
+
+      - Názov administratívneho zdroja: Ročný štatistický prehľad požiarovosti
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na analytické účely, tvorbu publikácií a databáz, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Ročné štruktúrované údaje Prezídia Hasičského a záchranného zboru o počte požiarov v jednotlivých odvetviach hospodárstva, počte usmrtených a zranených osôb podľa osobitných znakov, priamych hmotných škodách a uchránených hodnotách pred požiarmi v Slovenskej republike v triedení podľa samosprávnych krajov Slovenskej republiky.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
 
     - 169. Značka administratívneho zdroja: E (MZ SR) 2-01
 
@@ -4246,6 +4218,26 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - Slovenský hydrometeorologický ústav
 
+    - Štátny ústav pre kontrolu liečiv
+
+    - 186a. Značka administratívneho zdroja: SPOTREBA LIEKOV
+
+      - Názov administratívneho zdroja: Spotreba liekov na Slovensku
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Údaje o spotrebe liekov v Slovenskej republike v hodnotovom vyjadrení, v počtoch balení, priemerná cena lieku za balenie v triedení podľa rôznych kritérií, ako napríklad kategórie liekov, anatomicko-terapeuticko-chemický klasifikačný systém.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+
     - 187. Značka administratívneho zdroja: –
 
       - Názov administratívneho zdroja: Údaje o emisiách
@@ -4326,24 +4318,6 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - Slovenská inšpekcia životného prostredia
 
-    - 191. Značka administratívneho zdroja: –
-
-      - Názov administratívneho zdroja: Údaje o pokutách uložených inšpektorátmi Slovenskej inšpekcie životného prostredia
-
-      - a) Účel a využitie administratívnych údajov
-
-        - Administratívne údaje sa využijú pre potreby koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - b) Charakteristika triedení požadovaných administratívnych údajov
-
-        - Kompletné údaje o pokutách uložených inšpektorátmi Slovenskej inšpekcie životného prostredia za Slovenskú republiku spolu a v triedení podľa okresov (NUTS4) a podľa osobitných právnych predpisov za tieto oblasti životného prostredia: ochrana ovzdušia, vodné hospodárstvo, odpadové hospodárstvo, ochrana prírody a krajiny, biologická bezpečnosť a integrované povoľovanie a kontrola.
-
-      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
-
-        - Periodicita poskytovania administratívnych údajov: ročne.
-
-        - Lehota na odovzdanie administratívnych údajov: do 31. júla po referenčnom období.
-
     - 192. Značka administratívneho zdroja: –
 
       - Názov administratívneho zdroja: Údaje o mimoriadnom zhoršení vôd
@@ -4363,6 +4337,48 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
 
     - Inštitúcia disponujúca administratívnym zdrojom: Sociálna poisťovňa
+
+    - Slovenská agentúra životného prostredia
+
+    - 192a. Značka administratívneho zdroja: ODPAD
+
+      - Názov administratívneho zdroja: Hlásenie o vzniku odpadu a nakladaní s ním
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na účely koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+        - Získanie informácií ustanovuje osobitný predpis.<sup>46</sup>)
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Údaje o množstve vzniknutého odpadu v rámci hospodárstva Slovenskej republiky a o spôsobe nakladania s týmto odpadom vyjadrené v tonách.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+
+    - Environmentálny fond
+
+    - 192b. Značka administratívneho zdroja: POKUTY
+
+      - Názov administratívneho zdroja: Údaje o uložených a zaplatených pokutách za porušenie predpisov v ochrane životného prostredia
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na účely koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Kompletné údaje o uložených a zaplatených pokutách, ktoré udelili orgány ochrany životného prostredia za Slovenskú republiku spolu a v triedení podľa krajov za oblasti životného prostredia: ochrana ovzdušia, vodné hospodárstvo, odpadové hospodárstvo, ochrana prírody a krajiny, biologická bezpečnosť a integrované povoľovanie a kontrola.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 31. mája po referenčnom období.
 
     - 193. Značka administratívneho zdroja: Socp
 
@@ -4394,19 +4410,17 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
       - b) Charakteristika triedení požadovaných administratívnych údajov
 
-        - Vybrané údaje:
+        - 1. počet prípadov pracovnej neschopnosti a počet dní pracovnej neschopnosti podľa územia, typu poistného vzťahu, pohlavia, dôvodu pracovnej neschopnosti a druhu vstupu a výstupu z referenčného obdobia,
 
-      - – počet dní dočasnej pracovnej neschopnosti pre choroby, pracovné úrazy, choroby z povolania, ostatné úrazy, choroby a úrazy spolu,
+        - 2. priemerný počet nemocensky poistených osôb podľa územia, typu poistného vzťahu a pohlavia,
 
-      - – počet prípadov novohlásenej a ukončenej novohlásenej, pokračujúcej a ukončenej pokračujúcej dočasnej pracovnej neschopnosti pre choroby, pracovné úrazy, choroby z povolania, ostatné úrazy, choroby a úrazy spolu,
+        - 3. ukončené prípady pracovnej neschopnosti podľa 20 skupín diagnóz,
 
-      - – priemerný počet nemocensky poistených osôb
+        - 4. priemerný počet poistencov úrazového poistenia podľa pohlavia,
 
-      - v triedení podľa veku, pohlavia nemocensky poistenej osoby alebo úrazom poškodenej osoby, typu poistného vzťahu, Štatistickej klasifikácie ekonomických činností,10) druhu vlastníctva, sektorov ESU 95, podľa územného triedenia NUTS 2, krajov a okresov,
+        - 5. pracovné úrazy a choroby z povolania a ich odškodnenie podľa územia a pohlavia.
 
-      - – odškodnenie pracovných úrazov a chorôb z povolania
-
-      - v triedení podľa veku, pohlavia, územia a Štatistickej klasifikácie ekonomických činností.<sup>10</sup>)
+        - Údaje sa predkladajú podľa Štatistickej klasifikácie ekonomických činností.<sup>10</sup>)
 
       - c) Periodicita a lehoty na poskytovanie administratívnych údajov
 
@@ -4575,6 +4589,110 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
         - Periodicita poskytovania administratívnych údajov: štvrťročne.
 
         - Lehota na odovzdanie administratívnych údajov: do 1 mesiaca po referenčnom období.
+
+    - Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo hospodárstva Slovenskej republiky
+
+    - Hlavný banský úrad
+
+    - 201. Značka administratívneho zdroja: URAZY HBU
+
+      - Názov administratívneho zdroja: Registrácia pracovných úrazov Hlavného banského úradu
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na účely koncepčných a analytických prác o pracovnej neschopnosti pre chorobu a úraz, určenou metodikou Eurostatu – ESAW, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+        - Získavanie informácií ustanovuje osobitný predpis.<sup>76</sup>)
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Kompletné údaje o registrovaných pracovných úrazoch za Slovenskú republiku podľa štruktúry požadovanej metodikou Eurostatu – ESAW.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 31. marca po referenčnom období.
+
+    - Inštitúcia disponujúca administratívnym zdrojom: Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky
+
+    - Ústredný kontrolný a skúšobný ústav poľnohospodársky
+
+    - 202. Značka administratívneho zdroja: PREDAJ PESTICIDOV
+
+      - Názov administratívneho zdroja: Údaje o uvedení prípravkov na ochranu rastlín na trh
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na účely koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Údaje o uvedení prípravkov na ochranu rastlín na trh za Slovenskú republiku vyjadrené v tonách účinnej látky v členení podľa uvádzania jednotlivých pesticídov na trh, o používaní pesticídov v poľnohospodárstve a podľa harmonizovanej klasifikácie látok.<sup>83</sup>)
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 11 mesiacov po referenčnom období.
+
+    - 203. Značka administratívneho zdroja: SPOTREBA PESTICIDOV
+
+      - Názov administratívneho zdroja: Údaje o spotrebe prípravkov na ochranu rastlín
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na účely koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Údaje o spotrebe prípravkov na ochranu rastlín za Slovenskú republiku v členení podľa medzinárodnej klasifikácie Organizácie Spojených národov pre výživu a poľnohospodárstvo FAO.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do šiestich mesiacov po referenčnom období.
+
+    - Inštitúcia disponujúca administratívnym zdrojom: Generálna prokuratúra Slovenskej republiky
+
+    - 204. Značka administratívneho zdroja: PROKURATURA
+
+      - Názov administratívneho zdroja: Štatistický prehľad trestnej a netrestnej činnosti
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na analytické účely, tvorbu publikácií a databáz, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Ročné štruktúrované údaje Generálnej prokuratúry o trestných činoch, trestných konaniach a o stíhaných a obžalovaných osobách v triedení podľa osobitných trestno-právnych a socio-demografických znakov.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 30. júna po referenčnom období.
+
+    - Inštitúcia disponujúca administratívnym zdrojom: Úrad geodézie, kartografie a katastra Slovenskej republiky
+
+    - 205. Značka administratívneho zdroja: VYMERA
+
+      - Názov administratívneho zdroja: Údaje o výmere obcí podľa jednotlivých druhov pozemkov
+
+      - a) Účel a využitie administratívnych údajov
+
+        - Administratívne údaje sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
+
+      - b) Charakteristika triedení požadovaných administratívnych údajov
+
+        - Údaje o celkovej výmere územia v štruktúre: poľnohospodárska pôda, orná pôda, chmeľnice, vinice, záhrady, ovocné sady, trvalé trávnaté porasty, nepoľnohospodárska pôda, lesné pozemky, vodné plochy, zastavané plochy a nádvoria a ostatné plochy podľa jednotlivých miest a obcí Slovenskej republiky.
+
+      - c) Periodicita a lehoty na poskytovanie administratívnych údajov
+
+        - Periodicita poskytovania administratívnych údajov: ročne.
+
+        - Lehota na odovzdanie administratívnych údajov: do 28. februára po referenčnom období.
 
   - II. Inštitúcia využívajúca administratívny zdroj: MINISTERSTVO FINANCIÍ SLOVENSKEJ REPUBLIKY
 
@@ -4842,7 +4960,7 @@ Príloha č. 3 k vyhláške č. 358/2011 Z. z.
 
     - Inštitúcia disponujúca administratívnym zdrojom:
 
-    - Ministerstvo hospodárstva Slovenskej republiky
+    - Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky
 
     - 12. Značka administratívneho zdroja: –
 

@@ -22,6 +22,8 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 6. | | | SILC 1-01 | Zisťovanie o príjmoch a životných podmienkach domácností
 
+- 6a. | | | RÚ 1-12 | Zisťovanie údajov pre štatistiku rodinných účtov
+
 - Trh práce | | | |
 
 - 7. | | | VZPS 1-04 | Výberové zisťovanie pracovných síl
@@ -80,8 +82,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 30. | | | NSNO 1-01 | Ročný výkaz nezárobkových organizácií
 
-- 31. | | | NSNO 2-01 | Ročný výkaz malých nezárobkových organizácií
-
 - 32. | | | NSPO 1-93 | Ročný výkaz príspevkových organizácií, (rok zisťovania 2014)
 
 - 33. | | | NSRO 1-93 | Ročný výkaz rozpočtových organizácií, (rok zisťovania 2014)
@@ -99,8 +99,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 - 37. | | | Roč 1-01 | Ročný výkaz produkčných odvetví
 
 - 38. | | | Roč 2-01 | Ročný výkaz produkčných odvetví v malých podnikoch
-
-- 39. | | | Roč 3-01 | Ročný výkaz o fyzických osobách nezapísaných v obchodnom registri
 
 - 40. | | | Poi 3-04 | Štvrťročný výkaz v poisťovníctve
 
@@ -176,8 +174,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 69. | | | IKaP 1-12 | Mesačný výkaz v informáciách a v komunikáciách
 
-- 70. | | | IKaP 2-01 | Ročný výkaz o doručovateľských službách
-
 - Cestovný ruch | | | |
 
 - 71. | | | CR 1-12 | Mesačný výkaz o činnosti ubytovacieho zariadenia
@@ -210,15 +206,11 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 82. | | | Ryb 1-01 | Ročný výkaz o výlove rýb
 
-- V. viacstranné štatistiky | | | |
+- V. VIACSTRANNÉ ŠTATISTIKY | | | |
 
 - Životné prostredie | | | |
 
 - 83. | | | ŽP 6-01 | Ročný výkaz o komunálnom odpade z obce
-
-- Regionálna štatistika | | | |
-
-- 84. | | | MOŠ-MIS 1-01 | Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
 
 - Veda a technika | | | |
 
@@ -236,8 +228,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - Organizačná štatistika | | | |
 
-- 89. | | | Org 3-99 | Dotazník na registráciu organizácie
-
 - 90. | | | Org 4-99 | Dotazník na aktualizáciu registra organizácií
 
 - 91. | | | Org 5-99 | Hlásenie o základnej územnej jednotke
@@ -246,7 +236,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
 - 93. | | | Org SP 1-92 | Ročný výkaz o skupinách podnikov, (rok zisťovania 2012 a 2014)
 
-- 94. | | | Org UZ 2-93 | Dotazník na aktualizáciu registra ubytovacích zariadení cestovného ruchu, (rok zisťovania 2013)
+- 94. | | | Org UZ 2-93 | Dotazník na aktualizáciu registra ubytovacích zariadení cestovného ruchu, (rok zisťovania 2014)
 
   - Charakteristiky štatistických zisťovaní
 
@@ -442,7 +432,45 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
+
+  - 6a. Značka štatistického zisťovania a značka formulára: RÚ 1-12
+
+    - Názov štatistického zisťovania a názov formulára: Zisťovanie údajov pre štatistiku rodinných účtov
+
+    - Značka formulárov a názov formulárov
+
+    - RÚ/A 1-12 Prehľad o zložení a o príjmoch domácnosti
+
+    - RÚ/B 1-12 Pravidelné a veľké výdavky domácnosti
+
+    - RÚ/C 1-12 Denník bežných výdavkov domácnosti
+
+    - a) Účel a využitie výsledkov štatistického zisťovania
+
+      - Účelom štatistického zisťovania je získať informácie o výške, štruktúre a vývoji peňažných a nepeňažných výdavkov a príjmov fyzických osôb v rôznych typoch domácností. Výsledky zisťovania sa využijú na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek ministerstiev a štátnych organizácií, osobitne na poskytnutie údajov na účely posudzovania úprav súm životného minima podľa osobitného zákona.<sup>7a</sup>)
+
+    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
+
+      - Použitá metóda: výberové zisťovanie.
+
+      - Charakteristika navrhnutých ukazovateľov: spotrebné výdavky na potraviny a nealkoholické nápoje, na alkoholické nápoje a tabak, na odievanie a obuv, na bývanie, na nájomné a údržbu obydlia, na vybavenie a prevádzku domácnosti, na starostlivosť o zdravie, na dopravu, poštu a telekomunikácie, na kultúru a rekreáciu, na vzdelávanie, na verejné stravovanie a ubytovacie služby, na osobnú starostlivosť a iné výdavky na spotrebné tovary a služby; ostatné výdavky, peňažné príjmy a naturálna osobná spotreba domácnosti.
+
+    - c) Vymedzenie spravodajských jednotiek
+
+    - Domácnosti a členovia domácnosti.
+
+    - d) Periodicita a lehoty na poskytovanie štatistických údajov
+
+      - Periodicita štatistického zisťovania: mesačne.
+
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. kalendárneho dňa po sledovanom období.
+
+    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
+
+      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
+
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 7. Značka štatistického zisťovania: VZPS 1-04
 
@@ -482,7 +510,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 8. Značka štatistického zisťovania a značka formulára: Práca 2-04
 
@@ -610,7 +638,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 12. Značka štatistického zisťovania a značka formulára: Soc 1-01
 
@@ -672,7 +700,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 14. Značka štatistického zisťovania a značka formulára: KPESC 1-12
 
@@ -704,7 +732,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 15. Značka štatistického zisťovania a značka formulára: Ceny Priem 1-12
 
@@ -1218,39 +1246,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - c) Vymedzenie spravodajských jednotiek
 
-      - Nadácie, združenia, neinvestičné fondy, neziskové organizácie, spoločenstvá vlastníkov bytov, zväzy, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske združenia, stavovské organizácie – profesijné komory a záujmové združenia právnických osôb; s počtom zamestnancov 20 a viac.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Bratislava.
-
-  - 31. Značka štatistického zisťovania a značka formulára: NSNO 2-01
-
-    - Názov štatistického zisťovania a názov formulára: Ročný výkaz malých nezárobkových organizácií
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o ekonomických a finančných ukazovateľoch nezárobkových organizácií zaradených medzi ostatných netrhových výrobcov, ktorých prevažná časť produkcie sa poskytuje členom bezplatne alebo za ceny ekonomicky bezvýznamné. Výsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov, na analytické účely, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>23</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: medzispotreba a dopĺňajúce finančné ukazovatele, štruktúra medzispotreby a tržieb podľa štatistickej klasifikácie produktov podľa činností (CPA),<sup>20</sup>) základné finančné ukazovatele, počet zamestnancov a dobrovoľníkov, počet odpracovaných hodín dobrovoľníkmi a informačné technológie; moduly so štruktúrami raz za tri roky.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Združenia, spoločenstvá vlastníkov bytov, zväzy, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske cie – profesijnéenia právnických osôb; s počtom zamestnancov 0 až 19.
+      - Nadácie, združenia, neinvestičné fondy, neziskové organizácie, spoločenstvá vlastníkov bytov, zväzy, politické strany a politické hnutia, cirkvi, náboženské spoločnosti a ich organizácie, občianske združenia, stavovské organizácie – profesijné komory a záujmové združenia právnických osôb.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -1628,38 +1624,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
 
-  - 39. Značka štatistického zisťovania a značka formulára: Roč 3-01
-
-    - Názov štatistického zisťovania a formulára: Ročný výkaz o fyzických osobách nezapísaných v obchodnom registri
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o ukazovateľoch charakterizujúcich činnosť fyzických osôb nezapísaných v obchodnom registri, v oblasti finančného hospodárenia a zamestnanosti pre potreby prepočtu časových radov. Výsledky zisťovania sa využijú pri výpočtoch základných makroekonomických ukazovateľov systému národných účtov, pre potreby koncepčných a analytických prác, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskehomu a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>28</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: základné ukazovatele o finančnom hospodárení, zamestnancoch a mzdách.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Fyzické osoby – podnikatelia nezapísané v obchodnom registri.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. marca nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
-
   - 40. Značka štatistického zisťovania a značka formulára: Poi 3-04
 
     - Názov štatistického zisťovania a formulára: Štvrťročný výkaz v poisťovníctve
@@ -1914,7 +1878,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Banská Bystrica.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, sekcia zberu a spracovania dát v priemysle a terénnych zisťovaní v Banskej Bystrici.
 
   - 47. Značka štatistického zisťovania a značka formulára: Priem 6-01
 
@@ -1956,7 +1920,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Banská Bystrica.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, sekcia zberu a spracovania dát v priemysle a terénnych zisťovaní v Banskej Bystrici.
 
   - 48. Značka štatistického zisťovania a značka formulára: Stav 1-12
 
@@ -3008,36 +2972,6 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Žilina.
 
-  - 70. Značka štatistického zisťovania a značka formulára: IKaP 2-01
-
-    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o doručovateľských službách
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o podnikateľských subjektoch vykonávajúcich doručovateľské kuriérske služby zásielok a balíkov. Zisťovanie sa vykonáva na základe požiadaviek medzinárodných organizácií a Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky. Výsledky zisťovania sa využijú na analytické účely, na zabezpečenie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: doručovateľské služby – zásielky, balíky (podané zásielky a balíky v Slovenskej republike pre tuzemsko a zahraničie a dodané zásielky a balíky pre Slovenskú republiku zo zahraničia), colné deklarácie, servisné strediská, tržby za doručovateľské služby.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Podniky zapísané v obchodnom registri bez ohľadu na počet zamestnancov a hlavnú činnosť, ktoré sú vedené v registri organizácií Štatistického úradu Slovenskej republiky a vykonávali doručovateľskú službu.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 30. júla nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Žilina.
-
   - 71. Značka štatistického zisťovania a značka formulára: CR 1-12
 
     - Názov štatistického zisťovania a názov formulára: Mesačný výkaz o činnosti ubytovacieho zariadenia
@@ -3050,7 +2984,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Použitá metóda: vyčerpávajúce zisťovanie.
 
-      - Charakteristika navrhnutých ukazovateľov: počet domácich a zahraničných návštevníkov, počet prenocovaní, prevádzkové dni ubytovacieho zariadenia, kapacitné ukazovatele týkajúce sa počtu izieb, lôžok a miest na voľnej ploche, tržby za ubytovanie, zamestnanci a mzdy za ubytovacie zariadenie, počet súkromných podnikateľov a ich spoločníkov.
+      - Charakteristika navrhnutých ukazovateľov: počet domácich a zahraničných návštevníkov, počet prenocovaní, prevádzkové dni ubytovacieho zariadenia, kapacitné ukazovatele týkajúce sa počtu izieb, lôžok a miest na voľnej ploche, tržby za ubytovanie, zamestnanci a mzdy za ubytovacie zariadenie, počet súkromných podnikateľov a ich spoločníkov, informácie o usporiadaní akcií kongresového cestovného ruchu (kapacita ubytovacieho zariadenia pre usporiadanie akcií, počet a dĺžka realizovaných akcií a počet účastníkov akcií).
 
       - c) Vymedzenie spravodajských jednotiek
 
@@ -3082,9 +3016,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Charakteristika navrhnutých ukazovateľov: návštevníci v triedení podľa dĺžky cesty, cieľového miesta pobytu (Slovenská republika, zahraničie) a socio-demografických charakteristík; cesty s prenocovaním v triedení podľa mesiaca odchodu, počtu prenocovaní, hlavného cieľového miesta, druhu cieľového miesta, hlavného účelu, účasti detí na dovolenkovej ceste, hlavného druhu dopravného prostriedku, hlavného druhu ubytovacieho zariadenia, spôsobu rezervácie ubytovacích služieb, dopravných služieb a zájazdu, socio-demografických charakteristík a kategórií výdavkov; jednodňové cesty v triedení podľa hlavného účelu, hlavného cieľového miesta, hlavného spôsobu dopravy, socio-demografických charakteristík a kategórií výdavkov.
 
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Reprezentatívny výber z populácie obyvateľstva nad pätnásť rokov.
+    - c) Domácnosti a členovia domácnosti
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
@@ -3490,7 +3422,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Trnava.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Nitra.
 
   - 83. Značka štatistického zisťovania a značka formulára: ŽP 6-01
 
@@ -3522,39 +3454,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Trnava.
-
-  - 84. Značka štatistického zisťovania a značka formulára: MOŠ-MIS 1-01
-
-    - Názov štatistického zisťovania a názov formulára: Ročný výkaz o vybraných ukazovateľoch regionálnej štatistiky
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o občiansko-technickej vybavenosti sídiel, na aktualizáciu a doplnenie údajov o mestskej a obecnej štatistike do regionálneho štatistického informačného systému. Výsledky zisťovania sa využijú pri vyhodnocovaní základných charakteristík sídelných jednotiek regiónov, enie potrieb informačného systému Štatistického úradu Slovenskej republiky, požiadaviek európskeho štatistického systému a medzinárodných organizácií.
-
-      - Získavanie informácií ustanovuje osobitný predpis.<sup>47</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: vyčerpávajúce zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: výber ukazovateľov z oblasti demografie, dopravy, bytového fondu, športu, zdravotníctva, obchodu a pohostinstva, kultúry, sociálnej oblasti, životného prostredia, ubytovacích zariadení, peňažníctva, školstva, organizačnej štatistiky a technickej vybavenosti.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Obce, v Bratislave a v Košiciach mestské časti.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: ročne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 10. apríla nasledujúceho roka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Nitra.
 
   - 85. Značka štatistického zisťovania a značka formulára: VV 6-01
 
@@ -3666,13 +3566,13 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. mája sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
+      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky.
 
   - 88. Značka štatistického zisťovania: ICT 2-01
 
@@ -3730,43 +3630,13 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
       - Periodicita štatistického zisťovania: ročne.
 
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. apríla nasledujúceho roka.
+      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 20. apríla sledovaného roka.
 
     - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
 
       - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
 
       - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, pracovisko Žilina.
-
-  - 89. Značka štatistického zisťovania a značka formulára: Org 3-99
-
-    - Názov štatistického zisťovania a názov formulára: Dotazník na registráciu organizácie
-
-    - a) Účel a využitie výsledkov štatistického zisťovania
-
-      - Účelom štatistického zisťovania je získať informácie o právnickej osobe a fyzickej osobe zapísanej v obchodnom registri. Výsledky zisťovania sa využívajú na aktualizáciu registra organizácií. Získavanie informácií ustanovuje osobitný predpis.<sup>51</sup>)
-
-    - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
-
-      - Použitá metóda: výberové zisťovanie.
-
-      - Charakteristika navrhnutých ukazovateľov: obchodné meno, adresa sídla, poštová adresa, telefónne číslo, číslo faxu, e-mailová adresa, spôsob vzniku právneho subjektu, identifikačné číslo predchodcu, hlavná ekonomická činnosť podľa Štatistickej klasifikácie ekonomických činností,<sup>10</sup>) podiel zahraničného kapitálu na základnom imaní, evidenčný počet zamestnancov.
-
-    - c) Vymedzenie spravodajských jednotiek
-
-      - Novovzniknuté právnické osoby a fyzické osoby zapísané v obchodnom registri.
-
-    - d) Periodicita a lehoty na poskytovanie štatistických údajov
-
-      - Periodicita štatistického zisťovania: nepravidelne.
-
-      - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 14. kalendárneho dňa odo dňa doručenia dotazníka.
-
-    - e) Orgán, ktorý vykonáva štatistické zisťovanie a zabezpečuje jeho spracovanie
-
-      - Orgán vykonávajúci štatistické zisťovanie: Štatistický úrad Slovenskej republiky.
-
-      - Orgán zabezpečujúci jeho spracovanie: Štatistický úrad Slovenskej republiky, príslušné pracovisko.
 
   - 90. Značka štatistického zisťovania a značka formulára: Org 4-99
 
@@ -3810,7 +3680,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-      - Použitá metóda: výberové zisťovanie.
+      - Použitá metóda: vyčerpávajúce zisťovanie.
 
       - Charakteristika navrhnutých ukazovateľov: dôvod vyplnenia hlásenia, názov základnej územnej jednotky, identifikačné číslo základnej územnej jednotky, identifikačné číslo základnej územnej jednotky, do ktorej sa základné územné jednotky zlučujú, identifikačné číslo základnej územnej jednotky a názvy obcí v prípade ich rozdelenia, počet katastrálnych území tvoriacich územný obvod základnej územnej jednotky, ich názvy a identifikačné čísla územno-technických jednotiek.
 
@@ -3840,7 +3710,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - b) Vecná (obsahová) charakteristika a postupy realizácie štatistického zisťovania
 
-      - Použitá metóda: výberové zisťovanie.
+      - Použitá metóda: vyčerpávajúce zisťovanie.
 
       - Charakteristika navrhnutých ukazovateľov: dôvod vyplnenia hlásenia, názov územno-technickej jednotky, identifikačné číslo územno-technickej jednotky, identifikačné číslo základnej územnej jednotky, názov územno-technickej jednotky, ktorý sa zmenou alebo zánikom územno-technickej jednotky mení.
 
@@ -3912,7 +3782,7 @@ Príloha č. 1 k vyhláške č. 358/2011 Z. z.
 
     - d) Periodicita a lehoty na poskytovanie štatistických údajov
 
-      - Periodicita štatistického zisťovania: raz za tri roky, (rok zisťovania 2013).
+      - Periodicita štatistického zisťovania: raz za tri roky, (rok zisťovania 2014).
 
       - Lehota na odovzdanie štatistických údajov spravodajskou jednotkou: do 31. januára nasledujúceho roka.
 
