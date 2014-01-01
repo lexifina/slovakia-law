@@ -6,6 +6,8 @@
 
 - 4) § 8 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
+- 4a) § 2 ods. 4 zákona č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov.
+
 - 5) Napríklad STN EN 12195-1 Súpravy na upevňovanie bremien na cestných vozidlách. Bezpečnosť. Výpočet viazacích síl, STN EN 12195-2 Súpravy na upevňovanie bremien na cestných vozidlách. Bezpečnosť. Viazacie popruhy vyrobené z chemických vlákien, STN EN 12195-3 Súpravy na upevňovanie bremien na cestných vozidlách. Bezpečnosť. Viazacie reťaze, STN EN 12195-4Súpravy na upevňovanie bremien na cestných vozidlách. Bezpečnosť. Viazacie oceľové laná.
 
 - 6) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel (vyhláška ministra zahraničných vecí č. 176/1960 Zb.).

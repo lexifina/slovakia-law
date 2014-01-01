@@ -6,7 +6,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - a) | najväčšia prípustná šírka | |
 
-  - | 1. | vozidiel kategórie M<sub>1</sub> | 2,50 m ,
+  - | 1. | vozidiel kategórie M<sub>1</sub> | 2,55 m ,
 
   - | 2. | vozidiel kategórie M<sub>2,</sub>M<sub>3,</sub>N a O | 2,55 m ,
 
@@ -94,7 +94,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - i) | jazdných súprav | 40,00 t,
 
-  - j) | jazdných súprav prepravujúcich ISO kontajner ( 40 stôp ) v kombinovanej doprave | 44,00 t,
+  - j) | jazdných súprav prepravujúcich prepravné kontajnery v kombinovanej doprave,<sup>4a</sup>) súpravy ťahača a manipulovateľného cestného návesu v kombinovanej doprave,<sup>4a</sup>) jazdnej súpravy s cisternovým kontajnerom alebo výmennou nadstavbou v kombinovanej doprave<sup>4a</sup>) | 44,00 t,
 
   - k) | pásových vozidiel | 18,00 t.
 
@@ -150,33 +150,35 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
     - h) pri vozidlách kategórie M a N pri zapojení nebrzdeného prípojného vozidla kategórie O nesmie prevýšiť hmotnosť ustanovenú výrobcom ťažného vozidla, najviac však 0,75 t. Pri vozidlách kategórie M pri zapojení brzdeného prípojného vozidla kategórie O nesmie prevýšiť hmotnosť ustanovenú výrobcom ťažného vozidla, najviac však 3,50 t,
 
-    - i) ak autobus stojí, musí sa na zemi urobiť čiara pozdĺž vertikálnej roviny dotýkajúcej sa strany vozidla, ktorá je obrátená smerom von z kruhu. V prípade kĺbového autobusu musia byť obidve jeho pevné časti s touto rovinou rovnobežné. Ak sa vozidlo pohybuje z priameho smeru do kruhovej oblasti popísanej v písmene d), žiadna jeho časť nesmie vyčnievať z vertikálnej roviny o viac než 0,60 m,
+    - i) pri vozidlách v kombinovanej doprave<sup>4a</sup>) rozmery ustanovené v prvom bode písmena c) bodoch 3, 8 a 9 a v prvom bode písmena d) môžu byť prekročené o 0,15 m,
 
-    - j) vzdialenosť medzi poslednou nápravou motorového vozidla kategórie M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> a N<sub>3</sub> a prvou nápravou prívesu kategórie O musí byť najmenej 3,00 m,
+    - j) ak autobus stojí, musí sa na zemi urobiť čiara pozdĺž vertikálnej roviny dotýkajúcej sa strany vozidla, ktorá je obrátená smerom von z kruhu. V prípade kĺbového autobusu musia byť obidve jeho pevné časti s touto rovinou rovnobežné. Ak sa vozidlo pohybuje z priameho smeru do kruhovej oblasti popísanej v písmene d), žiadna jeho časť nesmie vyčnievať z vertikálnej roviny o viac než 0,60 m,
 
-    - k) vzdialenosť meraná horizontálne medzi osou návesového čapu a akýmkoľvek bodom vonkajšieho obrysu prednej časti návesu musí byť menšia ako 2,04 m,
+    - k) vzdialenosť medzi poslednou nápravou motorového vozidla kategórie M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> a N<sub>3</sub> a prvou nápravou prívesu kategórie O musí byť najmenej 3,00 m,
 
-    - l) prostredné vozidlo jazdnej súpravy musí mať vyššiu alebo rovnakú okamžitú hmotnosť ako posledné vozidlo jazdnej súpravy,
+    - l) vzdialenosť meraná horizontálne medzi osou návesového čapu a akýmkoľvek bodom vonkajšieho obrysu prednej časti návesu musí byť menšia ako 2,04 m,
 
-    - m) najväčšia prípustná hmotnosť v tonách motorového vozidla so štyrmi nápravami nesmie prevýšiť päťnásobnú vzdialenosť v metroch medzi stredmi najprednejšej a poslednej nápravy vozidla,
+    - m) prostredné vozidlo jazdnej súpravy musí mať vyššiu alebo rovnakú okamžitú hmotnosť ako posledné vozidlo jazdnej súpravy,
 
-    - n) náklad na vozidle alebo jazdnej súprave musí byť rovnomerne rozložený a riadne zaistený vhodným technickým zariadením5) proti pohybu. Ak je na pripevnenie nákladu použitá upevňovacia súprava, musí byť v riadnom technickom stave a viazacia sila uvedená na štítku musí zodpovedať hmotnosti prepravovaného nákladu,
+    - n) najväčšia prípustná hmotnosť v tonách motorového vozidla so štyrmi nápravami nesmie prevýšiť päťnásobnú vzdialenosť v metroch medzi stredmi najprednejšej a poslednej nápravy vozidla,
 
-    - o) najväčšia prípustná hmotnosť saní za vozidlo kategórie L<sub>S</sub> nesmie prevýšiť 50 % prevádzkovej hmotnosti ťažného vozidla,
+    - o) náklad na vozidle alebo jazdnej súprave musí byť rovnomerne rozložený a riadne zaistený vhodným technickým zariadením5) proti pohybu. Ak je na pripevnenie nákladu použitá upevňovacia súprava, musí byť v riadnom technickom stave a viazacia sila uvedená na štítku musí zodpovedať hmotnosti prepravovaného nákladu,
 
-    - p) najväčšie prípustné hmotnosti zvláštnych vozidiel nesmú prekročiť hodnoty platné pre vozidlá uvedené v druhom bode písm. a) až k) a
+    - p) najväčšia prípustná hmotnosť saní za vozidlo kategórie L<sub>S</sub> nesmie prevýšiť 50 % prevádzkovej hmotnosti ťažného vozidla,
+
+    - q) najväčšie prípustné hmotnosti zvláštnych vozidiel nesmú prekročiť hodnoty platné pre vozidlá uvedené v druhom bode písm. a) až k) a
 
       - 1. pri vozidlách kategórie R s nápravami v strede môžu byť vyššie ako hmotnosti ustanovené pri prívesoch uvedených v druhom bode písm. d), e) a f) v závislosti od počtu náprav o hmotnosť pripadajúcu na spájacie zariadenie (oko oja), a to pri traktorových návesoch maximálne o 3,00 t a pri traktorových prívesoch s nápravami v strede maximálne o 1,00 t,
 
       - 2. pri vozidlách kategórie S nesmú prevýšiť hodnoty ustanovené pre traktorové prívesy alebo návesy,
 
-    - q) pri vozidlách kategórie T a P<sub>S</sub> nesmie byť hmotnosť pripadajúca na riadenú nápravu (merané pri státí na vodorovnej pozemnej komunikácii) menšia ako 20 % okamžitej hmotnosti vozidla. Pri vozidlách kategórie T sa však pripúšťa nižšia hmotnosť pripadajúca na riadenú nápravu po namontovaní nadstavby, pracovného stroja neseného alebo ťahaného vymeniteľného stroja pri súčasnom znížení rýchlosti na 20 km.h<sup>-1</sup>, pričom hmotnosť pripadajúca na riadenú nápravu nesmie byť menšia ako
+    - r) pri vozidlách kategórie T a P<sub>S</sub> nesmie byť hmotnosť pripadajúca na riadenú nápravu (merané pri státí na vodorovnej pozemnej komunikácii) menšia ako 20 % okamžitej hmotnosti vozidla. Pri vozidlách kategórie T sa však pripúšťa nižšia hmotnosť pripadajúca na riadenú nápravu po namontovaní nadstavby, pracovného stroja neseného alebo ťahaného vymeniteľného stroja pri súčasnom znížení rýchlosti na 20 km.h<sup>-1</sup>, pričom hmotnosť pripadajúca na riadenú nápravu nesmie byť menšia ako
 
       - 1. 19 % pri traktoroch s okamžitou hmotnosťou najviac 4,50 t,
 
       - 2. 18 % pri traktoroch s okamžitou hmotnosťou prevyšujúcou 4,50 t,
 
-    - r) pri vozidlách kategórie T, R, S a P<sub>S</sub> sa pripúšťa nerovnomernosť rozloženia okamžitej hmotnosti vozidla na kolesá jednotlivých náprav medzi pravou a ľavou polovicou, ak to dovoľuje únosnosť pneumatík,
+    - s) pri vozidlách kategórie T, R, S a P<sub>S</sub> sa pripúšťa nerovnomernosť rozloženia okamžitej hmotnosti vozidla na kolesá jednotlivých náprav medzi pravou a ľavou polovicou, ak to dovoľuje únosnosť pneumatík,
 
       - 1. pri vozidlách kategórie T a R najviac 15 % hmotnosti pripadajúcej na nápravu,
 
@@ -184,7 +186,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
       - 3. pri vozidlách kategórie T po namontovaní nadstavby, pracovného stroja neseného alebo ťahaného vymeniteľného stroja najviac 20 % hmotnosti pripadajúcej na nápravu,
 
-    - s) pri vozidlách kategórie T a C pri zapojení nebrzdeného vozidla kategórie R a S súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy nesmie prevýšiť hmotnosť ustanovenú výrobcom najviac 3,50 t pri súčasnom znížení rýchlosti na 20 km.h<sup>-1</sup>. Brzdovým zariadením nájazdového typu môžu byť vybavené vozidlá kategórie R a S, ktorých súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy je menej ako 3,50 t. Také vozidlá kategórie R a S možno pripojiť iba k ťažnému vozidlu, ktorého prevádzková hmotnosť je rovná alebo prevyšuje najväčšiu prípustnú celkovú hmotnosť prípojného vozidla.
+    - t) pri vozidlách kategórie T a C pri zapojení nebrzdeného vozidla kategórie R a S súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy nesmie prevýšiť hmotnosť ustanovenú výrobcom najviac 3,50 t pri súčasnom znížení rýchlosti na 20 km.h<sup>-1</sup>. Brzdovým zariadením nájazdového typu môžu byť vybavené vozidlá kategórie R a S, ktorých súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy je menej ako 3,50 t. Také vozidlá kategórie R a S možno pripojiť iba k ťažnému vozidlu, ktorého prevádzková hmotnosť je rovná alebo prevyšuje najväčšiu prípustnú celkovú hmotnosť prípojného vozidla.
 
   - Vysvetlivky:
 
