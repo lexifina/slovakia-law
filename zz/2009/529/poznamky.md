@@ -1,1 +1,0 @@
-- 1) § 1 ods. 1 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
