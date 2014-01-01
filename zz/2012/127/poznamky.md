@@ -1,4 +1,8 @@
-- 1) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 25. júla 2007 č. 16826/2007-OL, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca požiadavky na potraviny na osobitné výživové účely a na výživové doplnky v znení neskorších predpisov (oznámenie č. 370/2007 Z. z.).
+- 1) § 21 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1a) § 2 písm. j) zákona č. 142/2000 Z. z. v znení zákona č. 431/2004 Z. z.
+
+- 1b) Výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 25. júla 2007 č. 16826/2007-OL, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca požiadavky na potraviny na osobitné výživové účely a na výživové doplnky v znení neskorších predpisov (oznámenie č. 370/2007 Z. z.).
 
 - 2) Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení v znení neskorších predpisov.
 
