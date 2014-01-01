@@ -650,6 +650,8 @@ Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení
 
 - výšku aktuálnej hodnoty dôchodkovej jednotky zo dňa, ktorý predchádza dňu pripísania dôchodkových jednotiek na osobný dôchodkový účet sporiteľa.“.
 
+- 105. V § 94 ods. 5 sa slová „dvoch mesiacov“ nahrádzajú slovami „jedného mesiaca“.
+
 - 106. V § 94 ods. 7 písm. c) sa slovo „príspevkov“ nahrádza slovami „povinných príspevkov a súčet dobrovoľných príspevkov“.
 
 - 107. V § 94 ods. 7 sa vypúšťajú písmená e), f) a h).
