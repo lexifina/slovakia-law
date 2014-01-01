@@ -56,6 +56,8 @@
 
 - 22) § 66 ods. 3 Obchodného zákonníka.
 
+- 22a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 23) Občiansky súdny poriadok.
 
 - 24) Trestný poriadok.
@@ -146,7 +148,7 @@
 
 - 51a) § 125a zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
 
-- 52) § 17 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+- 52) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 53) § 160 Obchodného zákonníka.
 
