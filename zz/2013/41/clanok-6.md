@@ -8,6 +8,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - bezodkladne písomne oznámiť poskytovateľovi zdravotnej starostlivosti, s ktorým má uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti (§ 7), humánne lieky a zdravotnícke pomôcky, ktoré obstarala [odsek 13 písm. b)].“.
 
+- 2. V § 6 ods. 12 sa na konci pripája táto veta: „Zoznam chorôb, pri ktorých sa poskytuje poistencovi dispenzarizácia, a frekvenciu vyšetrení ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.“.
+
 - 3. V § 6 ods. 13 písm. b) sa v úvodnej vete za slová „o poskytovaní zdravotnej starostlivosti (§ 7)“ vkladajú slová „alebo z vlastného podnetu“.
 
 - 4. V § 16 ods. 2 písm. l) sa za slovo „poistenie“ vkladá čiarka a vypúšťajú sa slová „alebo ktorý podal prihlášku vo viac ako jednej zdravotnej poisťovni,<sup>35a</sup>)“.
@@ -49,3 +51,11 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - 41bd)
 
 - § 68 zákona č. 578/2004 Z. z. v znení neskorších predpisov.“.
+
+- 7. Za § 86j sa vkladá § 86k, ktorý vrátane nadpisu znie:
+
+- „§ 86k
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2014
+
+- Poistenci zaradení do dispenzarizácie podľa doterajších predpisov sa považujú za poistencov zaradených do dispenzarizácie podľa tohto zákona. Zdravotná poisťovňa vyradí zo zoznamu poistencov zaradených na dispenzarizáciu poistenca, ak ide o chorobu, ktorá nie je uvedená v zozname chorôb podľa § 6 ods. 12, a potvrdenie o vyradení doručí poistencovi a poskytovateľovi zdravotnej starostlivosti najneskôr do 30. júna 2014.“.
