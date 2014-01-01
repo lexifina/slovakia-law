@@ -20,6 +20,8 @@
 
 - 10) § 28 a 29 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
+- 10a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
 - 11) § 2 ods. 4 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
