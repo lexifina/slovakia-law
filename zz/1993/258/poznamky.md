@@ -6,7 +6,7 @@
 
 - 3) Napríklad zákon č. 51/1964 Zb. o dráhach v znení neskorších predpisov.
 
-- 4) § 20 ods. 1 zákona č. 563/1991 Zb. o účtovníctve.
+- 4) § 19 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 4a) Zákon č. 259/2001 Z. z. o Železničnej spoločnosti, a. s., a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení zákona č. 152/1997 Z. z.
 
