@@ -70,6 +70,8 @@ Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatk
 
 - § 3 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 10. V § 9 ods. 1 prvej vete sa na konci pripájajú tieto slová: „alebo v pobočke zahraničnej banky“.
+
 - 11. V § 11 ods. 9 sa na konci pripája táto veta: „Pri nezaplatenom poplatku súd poplatok nevyberie a uznesenie o uloženej povinnosti zaplatiť poplatok v celom rozsahu zruší.“.
 
 - 12. Za § 18c sa vkladá § 18ca, ktorý vrátane nadpisu znie:
