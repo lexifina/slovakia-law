@@ -84,6 +84,8 @@
 
 - 37) § 244 až 250k Občianskeho súdneho poriadku.
 
+- 37a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 38) Napríklad zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 39) Zákonník práce v znení neskorších predpisov.
