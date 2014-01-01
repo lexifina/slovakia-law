@@ -22,7 +22,7 @@
 
 - 11) § 2 ods. 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 12) § 1 ods. 2 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení neskorších predpisov.
+- 12) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 13) § 20 zákona č. 431/2002 Z. z.
 
