@@ -28,6 +28,8 @@
 
 - 10) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
+- 10a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
 - 11) § 313 až 322 Obchodného zákonníka.
 
 - 12) § 70 až 73 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
