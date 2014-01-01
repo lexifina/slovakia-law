@@ -12,7 +12,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) z návrhu na nariadenie alebo zrušenie predbežného opatrenia | 33 eur.
 
-- Poznámky k položke 11. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, a z návrhu na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) tejto položky. Ak je predmetom konania viacej hnuteľných vecí alebo nehnuteľných vecí, poplatok sa vyberie iba za jednu z nich. 2. Ak odporca v konaní uplatňuje svoje práva vzájomným návrhom, platí poplatok z ceny predmetu poplatkového úkonu. Ak odporca uplatňuje vzájomným návrhom svoju pohľadávku na započítanie, platí súdny poplatok len zo sumy, ktorá prevyšuje to, čo uplatnil navrhovateľ. Z prejavu odporcu, ktorý súd posudzuje ako obranu proti návrhu, sa súdny poplatok neplatí. 3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Súdny poplatok sa platí aj za odvolanie proti rozhodnutiu súdu o návrhu na vydanie predbežného opatrenia. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. Ak je odvolateľov na strane navrhovateľa alebo odporcu viac, platia súdny poplatok v závislosti od povahy ich procesného spoločenstva tak, že v prípade samostatného procesného spoločenstva (§ 91 ods. 1 Občianskeho súdneho poriadku) platia súdny poplatok samostatne podľa predmetu svojho odvolania a v prípade nerozlučného procesného spoločenstva (§ 91 ods. 2 Občianskeho súdneho poriadku) spoločne a nerozdielne. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Podľa položky 1 písmena a) sa platí poplatok pri návrhu na vydanie platobného rozkazu, pri návrhu na vydanie európskeho platobného rozkazu,<sup>1</sup>) pri návrhu na vydanie zmenkového (šekového) platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní, za odpor proti platobnému rozkazu, za odpor proti európskemu platobnému rozkazu,<sup>1</sup>) ak súd námietky nezamietol alebo odpor neodmietol. 6. Ak je predmetom konania viac nárokov, každý nárok sa spoplatňuje samostatne; to neplatí, ak ide o viac nárokov na peňažné plnenie a sú vyjadrené jednou sumou. Ak je predmetom poplatkového úkonu predbežné opatrenie s viacerými výrokmi, poplatok podľa položky 1 písm. c) sa platí iba raz. 7. Poplatok za odpor proti rozkazu na plnenie sa neplatí. 8. Ak navrhovateľ uplatní alternatívne viacej návrhov na začatie konania, poplatok sa platí iba z toho návrhu, z ktorého sa podľa tohto zákona vyberá vyšší poplatok. |
+- Poznámky k položke 1 1. Z návrhu na začatie konania o určenie, či tu právny vzťah alebo právo je, alebo nie je, a z návrhu na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) tejto položky. Ak je predmetom konania viacej hnuteľných vecí alebo nehnuteľných vecí, poplatok sa vyberie iba za jednu z nich. 2. Ak odporca v konaní uplatňuje svoje práva vzájomným návrhom, platí poplatok z ceny predmetu poplatkového úkonu. Ak odporca uplatňuje vzájomným návrhom svoju pohľadávku na započítanie, platí súdny poplatok len zo sumy, ktorá prevyšuje to, čo uplatnil navrhovateľ. Z prejavu odporcu, ktorý súd posudzuje ako obranu proti návrhu, sa súdny poplatok neplatí. 3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Súdny poplatok sa platí aj za odvolanie proti rozhodnutiu súdu o návrhu na vydanie predbežného opatrenia. Ak odvolanie podá navrhovateľ i odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. Ak je odvolateľov na strane navrhovateľa alebo odporcu viac, platia súdny poplatok v závislosti od povahy ich procesného spoločenstva tak, že v prípade samostatného procesného spoločenstva (§ 91 ods. 1 Občianskeho súdneho poriadku) platia súdny poplatok samostatne podľa predmetu svojho odvolania a v prípade nerozlučného procesného spoločenstva (§ 91 ods. 2 Občianskeho súdneho poriadku) spoločne a nerozdielne. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Podľa položky 1 písmena a) sa platí poplatok pri návrhu na vydanie platobného rozkazu, pri návrhu na vydanie európskeho platobného rozkazu,<sup>1</sup>) pri návrhu na vydanie zmenkového (šekového) platobného rozkazu. Podľa rovnakej sadzby sa platí poplatok za námietky v zmenkovom a šekovom konaní, za odpor proti platobnému rozkazu, za odpor proti európskemu platobnému rozkazu,<sup>1</sup>) ak súd námietky nezamietol alebo odpor neodmietol. 6. Ak je predmetom konania viac nárokov, každý nárok sa spoplatňuje samostatne; to neplatí, ak ide o viac nárokov na peňažné plnenie a sú vyjadrené jednou sumou. Ak je predmetom poplatkového úkonu predbežné opatrenie s viacerými výrokmi, poplatok podľa položky 1 písm. c) sa platí iba raz. 7. Poplatok za odpor proti rozkazu na plnenie sa neplatí. 8. Ak navrhovateľ uplatní alternatívne viacej návrhov na začatie konania, poplatok sa platí iba z toho návrhu, z ktorého sa podľa tohto zákona vyberá vyšší poplatok. |
 
 - Položka 3 |
 
@@ -36,7 +36,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) Za vyrovnacie konanie | 0,3 % zo sumy použitej na uspokojenie veriteľov, najviac 497,50 eura
 
-- d) Za konkurzné konanie podľa osobitného predpisu<sup>3f</sup>) | 0,2 % z výťažku zahrnutého do čiastkového rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu0,2 % z výťažku zahrnutého do konečného rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa platí len zo zvyšného výťažku zahrnutého do konečného rozvrhu výťažku; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu0,2 % z výťažku zahrnutého do rozvrhu výťažku z oddelenej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do oddelenej podstaty z inej oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu
+- d) Za konkurzné konanie podľa osobitného predpisu<sup>3f</sup>) | 0,2 % z výťažku zahrnutého do čiastkového rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu 0,2 % z výťažku zahrnutého do konečného rozvrhu výťažku zo všeobecnej podstaty, najviac 3 319 eur; poplatok sa platí len zo zvyšného výťažku zahrnutého do konečného rozvrhu výťažku; poplatok sa však neplatí z výťažku, ktorý bol zaradený do všeobecnej podstaty z oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu 0,2 % z výťažku zahrnutého do rozvrhu výťažku z oddelenej podstaty, najviac 3 319 eur; poplatok sa však neplatí z výťažku, ktorý bol zaradený do oddelenej podstaty z inej oddelenej podstaty, pokiaľ už bol aspoň raz predmetom rozvrhu
 
 - e) Za podanie námietky zaujatosti v konkurznom konaní alebo reštrukturalizačnom konaní podľa osobitného predpisu,<sup>3f</sup>) ktorá bola uplatnená na príslušnom súde do uplynutia lehoty na prihlasovanie pohľadávok | 331,50 eura
 
@@ -50,7 +50,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) Návrh na zrušenie bezpodielového spoluvlastníctva manželov | 165,50 eura
 
-- Poznámka:Poznámka č. 4 k položke 1 platí aj pre písmeno b) tejto položky. |
+- Poznámka: Poznámka č. 4 k položke 1 platí aj pre písmeno b) tejto položky. |
 
 - Položka 7 |
 
@@ -94,7 +94,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Z návrhu na začatie konania o určenie rodičovstva a zapretie rodičovstva a z návrhu na začatie konania o prípustnosti zapretia otcovstva | 66 eur.
 
-- Poznámky:Ak odvolanie smeruje iba proti výroku o výchove a výžive maloletého dieťaťa, poplatok sa neplatí. |
+- Poznámky: Ak odvolanie smeruje iba proti výroku o výchove a výžive maloletého dieťaťa, poplatok sa neplatí. |
 
 - Položka 9a |
 
@@ -132,7 +132,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) ak nemožno predmet zmieru oceniť peniazmi | 16,50 eura
 
-- Poznámky:1. Z návrhu na zmierovacie konanie sa poplatok znovu neplatí.2. Zmierom sa rozumie zmier schválený súdom podľa § 67 a nasl. Občianskeho súdneho poriadku. |
+- Poznámky: 1. Z návrhu na zmierovacie konanie sa poplatok znovu neplatí. 2. Zmierom sa rozumie zmier schválený súdom podľa § 67 a nasl. Občianskeho súdneho poriadku. |
 
 - Položka 12 |
 
@@ -142,7 +142,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) ak nemožno predmet zmieru oceniť peniazmi | 331,50 eura
 
-- Poznámky:1. Za konanie vo veci samej sa poplatok znovu neplatí.2. Ak sa v pôvodnom konaní nekonalo odvolacie konanie a v odvolacom konaní sa podá odvolanie vo veci samej, z takéhoto odvolania sa platí poplatok podľa príslušnej položky. |
+- Poznámky: 1. Za konanie vo veci samej sa poplatok znovu neplatí. 2. Ak sa v pôvodnom konaní nekonalo odvolacie konanie a v odvolacom konaní sa podá odvolanie vo veci samej, z takéhoto odvolania sa platí poplatok podľa príslušnej položky. |
 
 - Položka 13 |
 
@@ -150,7 +150,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) Z návrhu na rozhodnutie o vykonateľnosti rozhodnutia cudzieho orgánu podľa § 250w ods. 1 Občianskeho súdneho poriadku | 66 eur
 
-- Poznámky:1. Poplatok podľa písmena a) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú.2. Ak dôjde k vylúčeniu veci na samostatné konanie, poplatok podľa písmena a) sa vo vylúčených veciach už nevyberá. |
+- Poznámky: 1. Poplatok podľa písmena a) platí poplatník podľa § 2 ods. 1 písm. f) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú. 2. Ak dôjde k vylúčeniu veci na samostatné konanie, poplatok podľa písmena a) sa vo vylúčených veciach už nevyberá. |
 
 - Položka 14 |
 
@@ -168,9 +168,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Z návrhu na obnovu konania | 99,50 eura
 
-- Poznámky:1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní.2. Poznámky č. 1 a 2 k položke 12 platia primerane aj pre túto položku. |
+- Poznámky: 1. Poplatok podľa rovnakej sadzby sa platí aj v odvolacom konaní. 2. Poznámky č. 1 a 2 k položke 12 platia primerane aj pre túto položku. |
 
-- Spoločná poznámka k položkám 1, 2, 6, 7, 9, 14 a 16:Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I. stupňa, dovolania alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
+- Spoločná poznámka k položkám 1, 2, 6, 7, 9, 14 a 16: Ak bol rozsudok zrušený v dôsledku odvolania, obnovy konania alebo dovolania, poplatok z odvolania proti novému rozhodnutiu súdu I. stupňa, dovolania alebo za obnovu konania neplatí poplatník, ktorý už raz poplatok zaplatil. Ak Najvyšší súd Slovenskej republiky pri prerokúvaní dovolania zistí, že dovolanie podané účastníkom podľa § 238 ods. 2 Občianskeho súdneho poriadku bolo bezdôvodné, účastník je povinný dodatočne zaplatiť súdny poplatok z dovolania. |
 
 - Položka 17 |
 
@@ -184,9 +184,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - 3. fyzickej osoby podnikateľa | 165,50 eura
 
-- 4. organizačnej zložky podniku právnickej osoby vrátane podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby | 331,50 eura
+- 4. organizačnej zložky podniku právnickej osoby | 331,50 eura
 
-- 5. organizačnej zložky podniku fyzickej osoby podnikateľa vrátane podniku alebo organizačnej zložky podniku zahraničnej fyzickej osoby | 33 eur
+- 5. organizačnej zložky podniku fyzickej osoby podnikateľa | 33 eur
+
+- 6. podniku alebo organizačnej zložky podniku zahraničnej právnickej osoby | 331,50 eura
+
+- 7. podniku alebo organizačnej zložky podniku zahraničnej fyzickej osoby | 165,50 eura
 
 - b) z návrhu na zmenu právnej formy obchodnej spoločnosti (družstva) | 331,50 eura
 
@@ -218,7 +222,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) Za podanie odvolania, ktoré smeruje proti rozhodnutiu súdu vo veci samej | 16,50 eura
 
-- Poznámka:Ak návrh na začatie konania o dedičstve alebo oznámenie o úmrtí došlo na štátne notárstvo do 31. decembra 1992, súdny poplatok sa podľa tejto položky neplatí. |
+- Poznámka: Ak návrh na začatie konania o dedičstve alebo oznámenie o úmrtí došlo na štátne notárstvo do 31. decembra 1992, súdny poplatok sa podľa tejto položky neplatí. |
 
 - Položka 18b |
 
@@ -268,7 +272,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 20a |
 
-- Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona | za každú stranu 0,10 eura najmenej 10 eur za podanie, ktoré je návrhom na začatie konania s prílohami, najmenej 3 eurá za ostatné podania s prílohami
+- 1. Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona 2. Vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria registrový spis pri podaniach do obchodného registra urobených elektronickými prostriedkami, poplatku nepodlieha. | za každú stranu 0,10 eura najmenej 10 eur za podanie, ktoré je návrhom na začatie konania s prílohami, najmenej 3 eurá za ostatné podania s prílohami
 
 - Poznámka: V prípade podaní urobených elektronickými prostriedkami podpísaných zaručeným elektronickým podpisom súd vyhotoví potrebný počet rovnopisov a ich príloh bez toho, aby žiadal náhradu vecných nákladov podľa § 42 ods. 3 Občianskeho súdneho poriadku. |
 
@@ -328,7 +332,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - e) za zaslanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín elektronickými prostriedkami | 0,33 eura,
 
-- Poznámka:Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodliehajú. |
+- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodliehajú. |
 
 - Položka 24c |
 
