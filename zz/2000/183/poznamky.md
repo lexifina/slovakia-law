@@ -34,6 +34,12 @@
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 15a) § 151a až 151m Občianskeho zákonníka.
+
+- 15b) § 57 ods. 1 písm. d) a § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
+
+- 15c) § 72 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 16) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 117/1998 Z. z.
 
 - 17) § 5 zákona č. 40/1961 Zb. o obrane Československej socialistickej republiky.
