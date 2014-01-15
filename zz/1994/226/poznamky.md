@@ -13,3 +13,5 @@
 - 7) § 5 ods. 2 písm. a) zákona Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky.
 
 - 9) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona Slovenskej národnej rady č.68/1992 Zb.
+
+- 10) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
