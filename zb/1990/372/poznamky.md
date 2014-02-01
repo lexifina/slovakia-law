@@ -18,6 +18,8 @@
 
 - 3a) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
+- 3aa) Zákon č. 1/2014 Z. z. o organizovaní verejných športových podujatí a o zmene a doplnení niektorých zákonov.
+
 - 3b) § 65 a § 66 ods. 2 písm. d) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
 
 - 3ba) § 74 ods. 2 zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
