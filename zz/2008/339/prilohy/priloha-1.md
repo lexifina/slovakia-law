@@ -18,7 +18,7 @@ Príloha č. 1 k nariadeniu vlády č. 339/2008 Z. z.
 
 - 8. | polotučné mlieko neochutené, ultravysokotepelne ohriate (UHT) | I | téglik 200 ml | 200 ml | 0,0942 | 0,18
 
-- 9. | polotučné mlieko ochutené s vitamínmi, ultravysokotepelne ohriate (UHT) | I | téglik 200 ml | 200 ml | 0,1226 | 0,28
+- 9. | polotučné mlieko ochutené s vitamínmi | I | téglik 200 ml | 200 ml | 0,1226 | 0,28
 
 - 10. | zakysané mlieko | I | téglik 200 ml | 200 ml | 0,0942 | 0,19
 
