@@ -1,0 +1,1 @@
+- [Anglické znenie textu](../assets/e40fdc6602659d0501554e5fd779709593b5870b170bb0f7a557038ed72aac96.pdf)
