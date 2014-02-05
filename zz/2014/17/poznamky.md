@@ -1,0 +1,1 @@
+- *) Jazyk používaný v základných dokumentoch Únie (Ústava and Dohovor) sa považuje za rodovo neutrálny.
