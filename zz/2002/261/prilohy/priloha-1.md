@@ -90,9 +90,9 @@ oxid sírový | 15 | 75
 
 polychlórované dibenzofurány a polychlórované dibenzodioxíny (vrátane TCDD) vypočítané v ekvivalente TCDD <sup>(7)</sup> | -- | 0,001
 
-Nasledujúce karcinogény s koncentráciou vyššou ako 5 hmot. %: bifenyl-4-amín alebo jeho soli, (trichlórmetyl) benzén, benzidín alebo jeho soli, bis(chlórmetyl)éter, chlórmetyl(metyl)éter, 1,2-dibrómmetán, dietylsulfát, dimetylsulfát, dimetylkarbamoylchlorid, 1,2-dibrómo-3-chlórpropán, 1,2-dimetyl-hydrazín, dimetyl(nitrózo)amín, tris(dimetylamid) kyseliny fosforečnej, hydrazín, 2-naftylamín alebo jeho soli, 4-nitrodifenyl a propán- 1,3-sultón | 0,5 | 2
+Nasledujúce karcinogény s koncentráciou vyššou ako 5 hmot. %: bifenyl-4-amín alebo jeho soli, (trichlórmetyl) benzén, benzidín alebo jeho soli, bis(chlórmetyl)éter, chlórmetyl(metyl)éter, 1,2-dibrómetán, dietylsulfát, dimetylsulfát, dimetylkarbamoylchlorid, 1,2-dibrómo-3-chlórpropán, 1,2-dimetyl-hydrazín, dimetyl(nitrózo)amín, tris(dimetylamid) kyseliny fosforečnej, hydrazín, 2-naftylamín alebo jeho soli, 4-nitrodifenyl a propán- 1,3-sultón | 0,5 | 2
 
-Ropné produkty a) gazolíny a nafty, b) kerozíny (vrátane prúdového paliva), c) plynové oleje (vrátane dieselových palív, vykurovacích olejov a tepelne krakovaných plynových olejov) | 2 500 | 25 000
+Ropné produkty a) gazolíny a nafty, b) kerozíny (vrátane prúdového paliva), c) plynové oleje (vrátane dieselových palív, vykurovacích olejov a tepelne krakovaných plynových olejov) d) ťažké vykurovacie oleje | 2 500 | 25 000
 
 Poznámky k tabuľke I
 
