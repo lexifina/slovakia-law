@@ -116,8 +116,6 @@
 
 - 51) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
-- 52) § 1 a 2 zákona č. 553/2001 Z. z. o zrušení niektorých štátnych fondov, o niektorých opatreniach súvisiacich s ich zrušením a o zmene a doplnení niektorých zákonov.
-
 - 53) § 3 písm. h) zákona Slovenskej národnej rady č. 131/1991 Zb. o Štátnom fonde zveľaďovania lesa Slovenskej republiky v znení zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. (úplné znenie č. 16/1994 Z. z.).
 
 - 54) Nariadenie vlády Slovenskej republiky č. 75/1993 Z. z., ktorým sa podrobnejšie upravuje postup pri uplatňovaní a vyporiadaní reštitučných nárokov k poľnohospodárskemu majetku.
