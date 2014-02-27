@@ -14,13 +14,21 @@
 
 - 6aa) § 10 ods. 5 zákona č. 254/1998 Z. z. o verejných prácach v znení zákona č. 260/2007 Z. z.
 
+- 6aaa) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
+
 - 6ab) § 52 ods. 1 a § 53 ods. 4 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6ac) § 4 a 5 zákona č. 384/1997 Z. z. o divadelnej činnosti v znení zákona č. 416/2001 Z. z.
+- 6ac) § 3 ods. 1 zákona č. 206/2009 Z. z. o múzeách a galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 6ad) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
+- 6ad) § 2 ods. 2 zákona č. 206/2009 Z. z.
 
 - 6ae) § 3 ods. 2 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
+
+- 6af) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
+
+- 6ag) § 5 zákona Slovenskej národnej rady č. 4/1958 Zb. o ľudovej umeleckej výrobe a umeleckých remeslách.
+
+- 6ah) § 6 zákona Slovenskej národnej rady č. 4/1958 Zb.
 
 - 7) Nariadenie Európskeho parlamentu a Rady (ES) č. 2195/2002 z 5. novembra 2002 o spoločnom slovníku obstarávania (CPV) (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 5) v platnom znení.
 
