@@ -44,6 +44,8 @@
 
 - 11a) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
+- 11b) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
 - 12a) Zákon č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12b) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
