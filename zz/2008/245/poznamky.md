@@ -118,8 +118,6 @@
 
 - 54) § 13 ods. 7 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 55) § 5 ods. 4 písm. o) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
 - 56) § 136 ods. 1 Zákonníka práce.
 
 - 57) § 20 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
