@@ -8,6 +8,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 3. V § 2 písm. r) sa na konci pripájajú tieto slová: „a vzťah medzi stálymi prevádzkarňami daňovníkov, ktorí sú vzájomne prepojení podľa písmena n) a vzájomný vzťah medzi týmito stálymi prevádzkarňami a týmito daňovníkmi“.
 
+- 4. § 2 sa dopĺňa písmenom x), ktoré znie:
+
+- „x)
+
+- daňovníkom nezmluvného štátu fyzická osoba, ktorá nemá trvalý pobyt alebo právnická osoba, ktorá nemá sídlo v štáte uvedenom v zozname štátov uverejnenom na webovom sídle Ministerstva financií Slovenskej republiky (ďalej len „ministerstvo“); ak § 52zb neustanovuje inak, ministerstvo zaradí do tohto zoznamu štát, s ktorým má Slovenská republika uzatvorenú medzinárodnú zmluvu o zamedzení dvojitého zdanenia alebo medzinárodnú zmluvu o výmene informácií týkajúcich sa daní alebo štát, ktorý je zmluvným štátom medzinárodnej zmluvy obsahujúcej ustanovenia o výmene informácií pre daňové účely v obdobnom rozsahu, ktorou je tento štát a Slovenská republika viazaná.“.
+
 - 5. V § 5 ods. 3 písmeno a) znie:
 
 - „a)
@@ -268,6 +274,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 46. V § 21 ods. 1 písm. h) sa slová „16,60 eura za jeden predmet“ nahrádzajú slovami „17 eur za jeden predmet, pričom za reklamné predmety sa nepovažujú darčekové reklamné poukážky“.
 
+- 47. V § 21 sa odsek 2 dopĺňa písmenom m), ktoré znie:
+
+- „m)
+
+- výdavky (náklady) platiteľa dane, ktoré sú podľa § 2 písm. i) a § 19 daňovým výdavkom vzťahujúce sa k úhrade vyplácanej, poukazovanej alebo pripisovanej v prospech daňovníka nezmluvného štátu podľa § 2 písm. x), z ktorej sa daň vyberá zrážkou alebo sa daň zabezpečuje, ak si tento platiteľ dane nesplnil povinnosti podľa § 43 ods. 11 alebo § 44 ods. 3.“.
+
 - 48. V § 25 ods. 3 sa na konci pripája táto veta: „ Ak sa zvýši základ dane podľa § 17 ods. 24 písm. c), zostatková cena stanovená podľa prvej vety sa upraví o sumu takto vypočítaného zvýšenia základu dane.“.
 
 - 49. V § 30 ods. 1 sa slová „počas najviac siedmich“ nahrádzajú slovami „rovnomerne počas najviac štyroch“.
@@ -348,6 +360,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Doterajšie odseky 11 až 13 sa označujú ako odseky 10 až 12.
 
+- 73. V § 43 ods. 1 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak tieto príjmy sú vyplatené, poukázané alebo pripísané daňovníkovi nezmluvného štátu podľa § 2 písm. x), použije sa sadzba dane vo výške 35 %.“.
+
 - 74. V § 43 ods. 2 sa vypúšťa písmeno „c),“.
 
 - 75. V § 43 sa odsek 3 dopĺňa písmenami m) a n), ktoré znejú:
@@ -360,6 +374,32 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - výnos (príjem) z dlhopisov a pokladničných poukážok, ak plynie fyzickej osobe, okrem výnosov zo štátnych dlhopisov a štátnych pokladničných poukážok plynúcich tejto fyzickej osobe.“.
 
+- 76. V § 43 odsek 11 znie:
+
+- „(11)
+
+- Platiteľ dane je povinný zrazenú daň odviesť správcovi dane najneskôr do pätnásteho dňa každého mesiaca za predchádzajúci kalendárny mesiac, ak správca dane na žiadosť platiteľa dane neurčí inak. Zrážka dane sa vykoná zo sumy úhrady alebo pripísania dlžnej sumy v prospech daňovníka. Za úhradu sa považuje aj nepeňažné plnenie. Súčasne je platiteľ dane v rovnakej lehote povinný predložiť správcovi dane oznámenie o zrazení a odvedení dane na tlačive, ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle. Toto tlačivo obsahuje súhrnné údaje o zrazenej a odvedenej dani vyberanej zrážkou v členení na daňovníkov podľa
+
+- a)
+
+- § 2 písm. d), okrem daňovníka podľa § 2 písm. x),
+
+- b)
+
+- § 2 písm. e), okrem daňovníka podľa § 2 písm. x); ak tento daňovník požiada správcu dane o vydanie potvrdenia o zaplatení dane z príjmu, tlačivo obsahuje aj údaje v členení podľa písmena c),
+
+- c)
+
+- § 2 písm. x); pre tohto daňovníka tlačivo obsahuje aj údaje o zrazenej dani v členení na jednotlivé druhy príjmov podľa § 16 ods. 1, sumu zdaniteľného príjmu, sadzbu dane, sumu zrazenej dane, dátum úhrady zdaniteľného príjmu a dátum odvedenia zrazenej dane, pričom, ak ide o
+
+- 1.
+
+- fyzickú osobu, tlačivo obsahuje tiež meno, priezvisko, adresu trvalého pobytu a dátum jej narodenia,
+
+- 2.
+
+- právnickú osobu, tlačivo obsahuje tiež názov, adresu sídla a jej identifikačné číslo.“.
+
 - 77. V § 43 ods. 13 a 15 sa na konci pripája táto veta: „Súčasne je platiteľ dane povinný v rovnakej lehote predložiť správcovi dane oznámenie o zrazení a odvedení dane na tlačive, ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle.“.
 
 - 78. § 43 sa dopĺňa odsekom 16, ktorý znie:
@@ -367,6 +407,34 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „(16)
 
 - Platiteľom dane z príjmov uvedených v odseku 3 písm. n) je obchodník s cennými papiermi, ktorý drží finančné nástroje a peňažné prostriedky klientov, z ktorých tieto príjmy plynú.“.
+
+- 79. V § 44 ods. 2 prvá veta znie: „Na zabezpečenie dane zo zdaniteľných príjmov okrem príjmov, z ktorých sa daň vyberá zrážkou a príjmov zo závislej činnosti, z ktorých sa zráža preddavok na daň podľa § 35, je platiteľ dane, ktorý vypláca, poukazuje alebo pripisuje úhrady v prospech daňovníka s obmedzenou daňovou povinnosťou, okrem daňovníka podľa § 2 písm. t) alebo daňovníka štátu tvoriaceho Európsky hospodársky priestor, povinný zrážať sumu vo výške 19 % z peňažného plnenia a v prospech daňovníka nezmluvného štátu podľa § 2 písm. x) povinný zrážať sumu vo výške 35 % z peňažného plnenia.“.
+
+- 80. V § 44 odsek 3 znie:
+
+- „(3)
+
+- Sumy na zabezpečenie dane podľa odsekov 1 a 2 sa odvádzajú do pätnásteho dňa každého kalendárneho mesiaca za predchádzajúci kalendárny mesiac príslušnému správcovi dane. Túto skutočnosť je platiteľ dane v rovnakej lehote povinný oznámiť správcovi dane, ak správca dane na žiadosť platiteľa dane neurčí inak, a to na tlačive, ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle. Toto tlačivo obsahuje súhrnné údaje o zabezpečenej a odvedenej dani v členení na daňovníkov podľa
+
+- a)
+
+- § 2 písm. d), okrem daňovníka podľa § 2 písm. x),
+
+- b)
+
+- § 2 písm. e), okrem daňovníka podľa § 2 písm. x); ak tento daňovník požiada správcu dane o vydanie potvrdenia o zaplatení dane z príjmu, tlačivo obsahuje aj údaje v členení podľa písmena c),
+
+- c)
+
+- § 2 písm. x); pre tohto daňovníka tlačivo obsahuje aj údaje o zabezpečenej dani v členení na jednotlivé druhy príjmov podľa § 16 ods. 1, sumu zdaniteľného príjmu, sadzbu dane, zrazenú sumu na zabezpečenie dane, dátum úhrady zdaniteľného príjmu a dátum odvedenia zabezpečenej dane, pričom, ak ide o
+
+- 1.
+
+- fyzickú osobu, tlačivo obsahuje tiež meno, priezvisko, adresu trvalého pobytu a dátum jej narodenia,
+
+- 2.
+
+- právnickú osobu, tlačivo obsahuje tiež názov, adresu sídla a jej identifikačné číslo.“.
 
 - 81. V § 44 ods. 4 a 6 sa slovo „príjmu“ nahrádza slovom „dane“.
 
@@ -617,6 +685,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „153)
 
 - § 14 až 17 zákona č. 530/1990 Z. z. v znení neskorších predpisov.“.
+
+- 107. Za § 52za sa vkladá § 52zb, ktorý vrátane nadpisu znie:
+
+- „§ 52zb
+
+- Prechodné ustanovenie k úprave účinnej od 1. marca 2014
+
+- Ak Slovenská republika uzatvorí medzinárodnú zmluvu o zamedzení dvojitého zdanenia alebo medzinárodnú zmluvu o výmene informácií týkajúcich sa daní v priebehu zdaňovacieho obdobia roku 2014, príslušný štát bude doplnený do zoznamu podľa § 2 písm. x) bez ohľadu na skutočnosť, že medzinárodná zmluva o zamedzení dvojitého zdanenia alebo medzinárodná zmluva o výmene informácií týkajúcich sa daní nadobudne účinnosť po 31. decembri 2014.“.
 
 - 109. V prílohe č. 3 sa vypúšťajú slová „Belgicko“, „Guernsey“, „Ostrov Man (Isle of Man)“, „Britské panenské ostrovy (British Virgin Islands)“, „Ostrovy Turks a Caicos“ a slová „Holandské Antily“ sa nahrádzajú slovami „Sint Maarten, Curaçao, Bonaire, Sint Eustatius, Saba“.
 
