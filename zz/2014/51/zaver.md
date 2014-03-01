@@ -1,0 +1,1 @@
+Zita Táborská v. r.
