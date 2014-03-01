@@ -6,6 +6,10 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
 - Doterajšie písmená m) až r) sa označujú ako písmená l) až p).
 
+- 2. V § 5 ods. 4 sa vypúšťa písmeno n).
+
+- Doterajšie písmená o) a p) sa označujú ako písmená n) a o).
+
 - 3. V § 5 ods. 7 písm. a) sa na konci pripájajú tieto slová: „a návrhy na počty tried“.
 
 - 4. V § 6 ods. 12 písm. a) sa za slová „základné umelecké školy“ vkladá čiarka a slová „jazykové školy, materské školy“.

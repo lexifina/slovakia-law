@@ -70,6 +70,10 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - Riaditeľ strednej školy po prerokovaní v pedagogickej rade školy a v rade školy predloží zriaďovateľovi školy najneskôr do 15. júna návrh na počet tried prvého ročníka pre prijímacie konanie v nasledujúcom školskom roku v členení na jednotlivé študijné odbory alebo jednotlivé učebné odbory a návrh na počet spoločných tried prvého ročníka pre prijímacie konanie v nasledujúcom školskom roku v členení na jednotlivé príbuzné študijné odbory alebo jednotlivé príbuzné učebné odbory. Zriaďovateľ strednej školy<sup>47a</sup>) predloží návrhy podľa prvej vety do 30. júna samosprávnemu kraju, do ktorého územnej pôsobnosti stredná škola patrí.“.
 
+- 19. V § 89 sa vypúšťajú odseky 8 až 10.
+
+- Poznámka pod čiarou k odkazu 55 sa vypúšťa.
+
 - 20. V § 97 ods. 4 sa na konci pripája táto veta: „Ak sa na vzdelávanie detí a žiakov podľa § 94 ods. 2 písm. g) nezriadi škola pri zdravotníckom zariadení, môže toto vzdelávanie vykonávať pedagogický zamestnanec školy podľa § 95 ods. 1 písm. a) alebo písm. b).“.
 
 - 23. V § 107 odsek 4 znie:
@@ -83,6 +87,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - „61)
 
 - § 4 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 96/2013 Z. z.“.
+
+- 25. V § 110 ods. 5 sa slová „§ 89 ods. 7 až 10“ nahrádzajú slovami „§ 89 ods. 7“.
 
 - 26. V § 140 ods. 8 sa na konci pripája táto veta: „Zákonný zástupca prispieva na úhradu režijných nákladov, ak tak určí riaditeľ školskej jedálne alebo riaditeľ školy, ktorej je školská jedáleň súčasťou, na jedno dieťa alebo jedného žiaka najviac v sume neprevyšujúcej 7,5 % sumy životného minima pre nezaopatrené dieťa podľa osobitného predpisu.<sup>29</sup>)“.
 
@@ -98,6 +104,18 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - Zriaďovateľ gymnázia s osemročným štúdiom môže požiadať orgán miestnej štátnej správy v školstve o úpravu počtu tried a počtu žiakov prvého ročníka gymnázia s osemročným štúdiom na školský rok 2014/2015 najneskôr do 31. januára 2014.“.
 
+- 30. Za § 161c sa vkladajú § 161d a 161e, ktoré vrátane nadpisov znejú:
+
+- „§ 161d
+
+- Prechodné ustanovenie k úpravám účinným od 1. marca 2014
+
+- O žiadosti o uznanie jazykového certifikátu ako náhrady maturitnej skúšky z cudzieho jazyka podanej podľa § 89 ods. 9 do 28. februára 2014 rozhodne riaditeľ školy podľa doterajších predpisov. Rozhodnutie o uznaní náhrady maturitnej skúšky z cudzieho jazyka sa môže uplatniť najneskôr v školskom roku 2014/2015.“.
+
 - 31. V § 162 sa za slovo „právne“ vkladá slovo „záväzné“ a vypúšťajú sa slová „Európskych spoločenstiev a“.
+
+- 32. § 163 sa dopĺňa 40. bodom, ktorý znie:
+
+  - „40. Vyhláška Ministerstva školstva Slovenskej republiky č. 319/2008 Z. z. o uznávaní náhrady maturitnej skúšky z cudzieho jazyka v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 269/2009 Z. z., vyhlášky Ministerstva školstva Slovenskej republiky č. 405/2009 Z. z. a vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 208/2011 Z. z.“.
 
 - 33. V nadpise prílohy sa slová „právnych aktov Európskych spoločenstiev a“ nahrádzajú slovami „právne záväzných aktov“.
