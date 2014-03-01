@@ -1,5 +1,0 @@
-Príloha k vyhláške č. 542/2011 Z. z.
-
-- DAŇOVÉ PRIZNANIE SPOTREBNÁ DAŇ Z TABAKOVÝCH VÝROBKOV
-
-- [Vzor](../assets/1634a79437dc36dc40b73337733647b929a61b3e4516286182a47bef3aa8e9ab.pdf)
