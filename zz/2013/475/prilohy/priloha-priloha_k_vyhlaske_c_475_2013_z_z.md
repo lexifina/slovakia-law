@@ -92,12 +92,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - D01-043 | Lemešany | D/1, III/068010 | Budimír | D/1, I/68, III/068019 | 9,606
 
-- D01-045 | Bratislava-Petržalka 2 | D1, D2 | Bratislava-Ružinov 1 | D1, I/61 | 6,626
-
-- D01-046 | Bratislava-Ružinov 1 | D1, I/61 | Bratislava-Ružinov 2 | D1, I/63 | 2,432
-
-- D01-047 | Bratislava-Ružinov 2 | D1, I/63 | Bratislava-Vajnory | D/1, I/61 | 5,212
-
 - Zoznam úsekov na diaľnici D2 | | | | |
 
 - D02-002 | Malacky | D/2, II/503 | Lozorno | D/2, I/2 | 11,474
@@ -115,8 +109,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - D02-007 | hranica SR/ČR colnica | | Kúty 1 | križ. D/2, I/2, okr. Senica | 3,304
 
 - D02-008 | Kúty 1 | križ. D/2, I/2, okr. Senica | Malacky | križ. D/2, II/503, okr. Malacky | 24,091
-
-- D02-009 | Bratislava-Lamač | D/2, II/505 | Bratislava-Petržalka 2 | D2, D1 | 9,868
 
 - Zoznam úsekov na diaľnici D3 | | | | |
 
@@ -276,11 +268,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-A007 | | D/2, I/2 | Sekule-sever | I/2 | 3,762
 
-- 002-i004 | Sekule-sever | I/2 | Sekule-juh | I/2 | 1,511
-
 - 002-008 | Sekule-juh | I/2 | Moravský Svätý Ján-sever | I/2 | 0,320
-
-- 002-i005 | Moravský Svätý Ján-sever | I/2 | Moravský Svätý Ján-juh | I/2 | 1,131
 
 - 002-010a | Moravský Svätý Ján-juh | I/2 | | MK-a, I/2 | 0,363
 
@@ -294,13 +282,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-011d | | MK-c, I/2 | Veľké Leváre-sever | I/2 | 0,237
 
-- 002-i006 | Veľké Leváre-sever | I/2 | Veľké Leváre-juh | I/2 | 1,482
-
 - 002-012a | Veľké Leváre-juh | I/2 | | MK-a, I/2 | 3,236
 
 - 002-012b | | MK-a, I/2 | Malacky-sever | I/2 | 2,589
-
-- 002-i007 | Malacky-sever | I/2 | Malacky-juh | I/2 | 4,063
 
 - 002-013a | Malacky-juh | I/2 | | MK-a, I/2 | 1,392
 
@@ -324,21 +308,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-018b2 | | MK-b1, I/2 | Stupava-sever | I/2 | 1,646
 
-- 002-i008 | Stupava-sever | I/2 | Stupava-juh | I/2 | 3,434
-
 - 002-019a | Stupava-juh | I/2 | | D4, I/2 | 0,892
 
 - 002-019b | | D4, I/2 | Bratislava-sever | I/2 | 0,363
-
-- 002-i009 | Bratislava-sever | I/2 | Bratislava-Lamač | I/2, D2 | 4,780
 
 - Zoznam úsekov na ceste I/18 | | | | |
 
 - 018-011 | | I/18, I/61 | Hlboké nad Váhom | III/018084, I/18 | 0,950
 
 - 018-A012 | Hlboké nad Váhom | III/018084, I/18 | Dolný Hričov-juh | I/18 | 2,582
-
-- 018-i009 | Dolný Hričov-juh | I/18 | Dolný Hričov-sever | I/18 | 3,099
 
 - 018-015b | Dolný Hričov-sever | I/18 | | MK-b, I/18 | 0,931
 
@@ -360,8 +338,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-048f | | MK-a, I/18 | Štrba-západ | I/18 | 0,508
 
-- 018-i025 | Štrba-západ | I/18 | Štrba-východ | I/18 | 0,702
-
 - 018-A049 | Štrba-východ | I/18 | Mengusovce | I/18, II/539 | 5,240
 
 - 018-A050 | Mengusovce | I/18, II/539 | Lučivná 1 | D/1, I/18 | 0,579
@@ -370,31 +346,19 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-052 | Lučivná 2 | I/18, III/018142 | Svit-západ | I/18 | 0,787
 
-- 018-i026 | Svit-západ | I/18 | Svit-východ | I/18 | 3,300
-
 - 018-A053 | Svit-východ | I/18 | Spišská Teplica | D/1, I/18 | 2,508
 
 - 018-054 | Spišská Teplica | D/1, I/18 | Poprad-západ | I/18 | 0,590
-
-- 018-i027 | Poprad-západ | I/18 | Poprad-východ | I/18 | 4,123
 
 - 018-A056 | Poprad-východ | I/18 | Gánovce | III/018154, I/18 | 2,009
 
 - 018-057 | Gánovce | III/018154, I/18 | Hozelec-západ | I/18 | 1,208
 
-- 018-i028 | Hozelec-západ | I/18 | Hozelec-východ | I/18 | 0,543
-
 - 018-058 | Hozelec-východ | I/18 | Švábovce-západ | I/18 | 0,459
-
-- 018-i029 | Švábovce-západ | I/18 | Švábovce-východ | I/18 | 0,663
 
 - 018-059 | Švábovce-východ | I/18 | Hôrka-západ | I/18 | 0,716
 
-- 018-i030 | Hôrka-západ | I/18 | Hôrka-východ | I/18 | 2,016
-
 - 018-A060 | Hôrka-východ | I/18 | Jánovce-západ | I/18 | 2,279
-
-- 018-i031 | Jánovce-západ | I/18 | Jánovce-východ | I/18 | 1,264
 
 - 018-061 | Jánovce-východ | I/18 | | D/1, I/18 | 0,894
 
@@ -414,13 +378,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-A086 | Župčany | I/18, III/018196 | Malý Šariš-západ | I/18 | 0,769
 
-- 018-i039 | Malý Šariš-západ | I/18 | Malý Šariš-východ | I/18 | 0,428
-
 - 018-A087 | Malý Šariš-východ | I/18 | Prešov-západ | I/18, D1 | 1,882
 
 - 018-088 | | D/1, I/18 | Ivachnová-západ | I/18 | 0,181
-
-- 018-i046 | Ivachnová-západ | I/18 | Ivachnová-východ | I/18 | 0,457
 
 - 018-089 | Ivachnová-východ | I/18 | | D/1, I/18 | 0,882
 
@@ -444,19 +404,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-098 | | I/18, III/018124 | Liptovský Mikuláš-západ | I/18 | 1,790
 
-- 018-i047 | Liptovský Mikuláš-západ | I/18 | Liptovský Mikuláš-východ | I/18 | 6,338
-
 - 018-A099 | Liptovský Mikuláš-východ | I/18 | Beňadiková | III/018135, I/18 | 0,675
 
 - 018-100 | Beňadiková | III/018135, I/18 | Uhorská Ves | III/018137, I/18 | 1,167
 
 - 018-101a | Uhorská Ves | III/018137, I/18 | Podtureň-západ | I/18 | 0,707
 
-- 018-i048 | Podtureň-západ | I/18 | Podtureň-východ | I/18 | 0,916
-
 - 018-101b | Podtureň-východ | I/18 | Podtureň-Roveň-západ | I/18 | 1,503
-
-- 018-i049 | Podtureň-Roveň-západ | I/18 | Liptovský Hrádok-východ | I/18 | 1,933
 
 - 018-A102a | Liptovský Hrádok-východ | I/18 | | MK-a3, I/18 | 1,312
 
@@ -464,15 +418,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-A103a | | I/18, I/72 | Hybe-západ | I/18 | 2,730
 
-- 018-i050 | Hybe-západ | I/18 | Hybe-východ | I/18 | 1,829
-
 - 018-103b | Hybe-východ | I/18 | | D/1, I/18 | 0,847
 
 - 018-104 | | D/1, I/18 | | D/1, I/18 | 0,465
 
 - 018-A105 | | D/1, I/18 | Východná-západ | I/18 | 1,702
-
-- 018-i051 | Východná-západ | I/18 | Východná-východ | I/18 | 2,192
 
 - 018-106 | Východná-východ | I/18 | | PD/6, I/18 | 0,934
 
@@ -484,29 +434,19 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-A110 | Beharovce 1 | I/18, III/547021 | Korytné-západ | I/18 | 0,971
 
-- 018-i052 | Korytné-západ | I/18 | Korytné-východ | I/18 | 0,133
-
 - 018-112 | Korytné-východ | I/18 | | III/018185, I/18 | 1,538
 
 - 018-113a | | III/018185, I/18 | Branisko-západ | I/18 | 6,157
-
-- 018-i053 | Branisko-západ | I/18 | Branisko-východ | I/18 | 0,505
 
 - 018-A113b | Branisko-východ | I/18 | | D1, I/18 | 0,958
 
 - 018-113e | | D1, I/18 | Široké-západ | I/18 | 1,112
 
-- 018-i054 | Široké-západ | I/18 | Široké-východ | I/18 | 2,266
-
 - 018-A115 | Široké-východ | I/18 | Fričovce-západ | I/18 | 0,932
-
-- 018-i055 | Fričovce-západ | I/18 | Fričovce-východ | I/18 | 1,995
 
 - 018-116 | Fričovce-východ | I/18 | | D/1, I/18 | 0,904
 
 - Zoznam úsekov na ceste I/50 | | | | |
-
-- 050-i049 | Žiar nad Hronom-Horné Opatovce-juh | I/65 | Ladomerská Vieska-sever | I/50 | 2,247
 
 - 050-080 | Ladomerská Vieska-sever | I/50 | | I/50, III/065028 | 1,139
 
@@ -514,15 +454,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-122 | | R2, I/50B, I/50 | Figa-západ | I/50 | 1,405
 
-- 050-i064 | Figa-západ | I/50 | Figa-východ | I/50 | 0,745
-
 - 050-123 | Figa-východ | I/50 | | I/50, I/50B, III/571039 | 0,765
 
 - 050-124 | Gemerská Panica 1 | III/050143, I/50, III/050143 | | R2, I/50, I/50B | 0,619
 
 - 050-147 | | R2, I/50, I/50A | Ožďany-západ | I/50 | 0,898
-
-- 050-i071 | Ožďany-západ | I/50 | Ožďany-východ | I/50 | 1,394
 
 - 050-148a | Ožďany-východ | I/50 | | MK-a, I/50 | 2,301
 
@@ -534,21 +470,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-149a | | I/50, I/50B, III/571039 | Stránska-západ | I/50 | 0,714
 
-- 050-i072 | Stránska-západ | I/50 | Stránska-východ | I/50 | 0,853
-
 - 050-149b | Stránska-východ | I/50 | Tornaľa-Behynce-juh | I/50 | 1,530
-
-- 050-i073 | Tornaľa-Behynce-juh | I/50 | Tornaľa-Behynce-sever | I/50 | 1,095
 
 - 050-149c | Tornaľa-Behynce-sever | I/50 | Otročok | II/532, I/50 | 0,281
 
 - 050-A150 | Otročok | II/532, I/50 | Tornaľa-západ | I/50 | 1,261
 
-- 050-i074 | Tornaľa-západ | I/50 | Tornaľa-sever | I/50 | 2,106
-
 - 050-152a | Tornaľa-sever | I/50 | Tornaľa-Starňa-juh | I/50 | 0,475
-
-- 050-i075 | Tornaľa-Starňa-juh | I/50 | Tornaľa-Starňa-sever | I/50 | 0,890
 
 - 050-152b | Tornaľa-Starňa-sever | I/50 | Gemerská Panica 1 | III/050143, I/50 | 0,751
 
@@ -564,15 +492,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-A017 | | R3, I/59, I/59A | Oravský Podzámok-juh | I/59 | 1,355
 
-- 059-i008 | Oravský Podzámok-juh | I/59 | Oravský Podzámok-sever | I/59 | 1,274
-
 - 059-018a | Oravský Podzámok-sever | I/59 | Orav. Podzámok-Dolná Lehota-západ | I/59 | 0,999
 
-- 059-i009 | Orav. Podzámok-Dolná Lehota-západ | I/59 | Orav. Podzámok-Dolná Lehota-východ | I/59 | 1,336
-
 - 059-018b | Orav. Podzámok-Dolná Lehota-východ | I/59 | Horná Lehota-západ | I/59 | 0,662
-
-- 059-i010 | Horná Lehota-západ | I/59 | Horná Lehota-východ | I/59 | 0,952
 
 - 059-018c | Horná Lehota-východ | I/59 | | R3, I/59, I/59A | 1,157
 
@@ -580,15 +502,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-A023 | Hámričky | I/59, III/059041 | Trstená-juh | I/59 | 0,687
 
-- 059-i017 | Trstená-juh | I/59 | Trstená-sever | I/59 | 2,652
-
 - 059-A024a | Trstená-sever | I/59 | | I/59, R3 | 1,338
 
 - Zoznam úsekov na ceste I/61 | | | | |
 
 - 061-A001 | | D/1, I/61 | Považská Bystrica-juh | I/61 | 1,332
-
-- 061-i001 | Považská Bystrica-juh | I/61 | Považská Bystrica-sever | I/61 | 4,142
 
 - 061-A003 | Považská Bystrica-sever | I/61 | Považská Teplá | III/061057, I/61 | 2,164
 
@@ -606,11 +524,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-014a | Predmier 2 | III/061060, I/61 | Bytča-Hrabové-juh | I/61 | 0,367
 
-- 061-i002 | Bytča-Hrabové-juh | I/61 | Bytča-Hrabové-sever | I/61 | 1,262
-
 - 061-014b | Bytča-Hrabové-sever | I/61 | | I/18, I/61 | 0,816
-
-- 061-i003 | Bratislava-Vajnory | I/61, D1 | Bratislava-západ | I/61 | 0,680
 
 - 061-A015 | Bratislava-západ | I/61 | | MK-a, I/61 | 1,436
 
@@ -632,11 +546,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-017b3 | | MK-b2, I/61 | Veľký Biel-západ | I/61 | 2,327
 
-- 061-i004 | Veľký Biel-západ | I/61 | Veľký Biel-východ | I/61 | 1,398
-
 - 061-A018 | Veľký Biel-východ | I/61 | Senec-juh | I/61 | 0,823
-
-- 061-i006 | Senec-juh | I/61 | Senec-sever | I/61 | 3,182
 
 - 061-019a | Senec-sever | I/61 | | MK-a, I/61 | 0,235
 
@@ -646,15 +556,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-020 | | D/1, I/61 | Blatné-juh | I/61 | 1,378
 
-- 061-i008 | Blatné-juh | I/61 | Blatné-sever | I/61 | 0,875
-
 - 061-021a | Blatné-sever | I/61 | | MK-a, I/61 | 0,761
 
 - 061-021b | | MK-a, I/61 | | MK-b, I/61 | 1,504
 
 - 061-021c | | MK-b, I/61 | Kaplna-juh | I/61 | 1,322
-
-- 061-i009 | Kaplna-juh | I/61 | Kaplna-sever | I/61 | 0,532
 
 - 061-A022 | Kaplna-sever | I/61 | | I/61, III/061012 | 0,964
 
@@ -669,10 +575,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 061-A027a | Hrnčiarovce nad Parnou | III/061017, I/61 | | MK-a2, I/61 | 0,410
 
 - 061-A027b | | MK-a2, I/61 | Trnava-juh 1 | I/61 | 0,428
-
-- 061-i010 | Trnava-juh 1 | I/61 | Trnava-juh 2 | R1 | 4,093
-
-- 061-i011 | Trnava-juh 1 | I/61 | Trnava-východ | I/51 | 4,058
 
 - 061-A028a | Trnava 5 | I/51, I/51C, I/61 | | MK-b, I/61 | 2,542
 
@@ -700,8 +602,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-035a2 | | MK-a1, I/61 | Madunice-juh | I/61 | 0,555
 
-- 061-i012 | Madunice-juh | I/61 | Madunice-sever | I/61 | 1,697
-
 - 061-035b | Madunice-sever | I/61 | | I/61, III/504019 | 0,525
 
 - 061-036b | | I/61, III/504019 | | I/61, III/061077 | 2,180
@@ -710,31 +610,19 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-037b | Dolné Voderady | MK-a3, I/61 | Drahovce-juh | I/61 | 0,522
 
-- 061-i013 | Drahovce-juh | I/61 | Drahovce-sever | I/61 | 0,377
-
 - 061-A038a | Drahovce-sever | I/61 | Drahovce-Jozefov | MK-a2, I/61 | 2,450
 
 - 061-A038b | Drahovce-Jozefov | MK-a2, I/61 | Piešťany-juh | I/61 | 3,222
-
-- 061-i014 | Piešťany-juh | I/61 | Piešťany-sever | I/61 | 4,932
 
 - 061-A039 | Piešťany-sever | I/61 | | D/1, I/61 | 4,035
 
 - 061-040 | | D/1, I/61 | Horná Streda-juh | I/61 | 0,333
 
-- 061-i015 | Horná Streda-juh | I/61 | Horná Streda-sever | I/61 | 1,118
-
 - 061-A041a | Horná Streda-sever | I/61 | Brunovce-juh | I/61 | 2,397
-
-- 061-i016 | Brunovce-juh | I/61 | Potvorice-sever | I/61 | 1,175
 
 - 061-A041d | Potvorice-sever | I/61 | Považany-juh | I/61 | 0,694
 
-- 061-i017 | Považany-juh | I/61 | Považany-sever | I/61 | 2,029
-
 - 061-A041f | Považany-sever | I/61 | Nové Mesto nad Váhom-juh | I/61 | 2,716
-
-- 061-i018 | Nové Mesto nad Váhom-juh | I/61 | Nové Mesto nad Váhom-sever | I/61 | 3,089
 
 - 061-A042 | Nové Mesto nad Váhom-sever | I/61 | | I/61, III/061024 | 4,228
 
@@ -752,21 +640,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-046 | Kostolná-Záriečie | I/61, MK | Trenčín-juh | I/61 | 2,484
 
-- 061-i019 | Trenčín-juh | I/61 | Trenčín-sever | I/61 | 10,031
-
-- 061-i020 | Trenčín-juh | I/61 | Trenčín-západ | I/61 | 1,797
-
-- 061-i021 | Trenčín-sever | I/61 | Trenčín-západ | I/61 | 9,483
-
 - 061-048 | | D/1, PD/5 | Trenčín-západ | I/61 | 0,905
 
 - 061-049a | Trenčín-sever | I/61 | Trenčianska Teplá-Dobrá-juh | I/61 | 0,547
 
-- 061-i022 | Trenčianska Teplá-Dobrá-juh | I/61 | Trenčianska Teplá-Dobrá-sever | I/61 | 1,182
-
 - 061-049b | Trenčianska Teplá-Dobrá-sever | I/61 | Trenčianska Teplá-juh | I/61 | 0,686
-
-- 061-i023 | Trenčianska Teplá-juh | I/61 | Trenčianska Teplá-sever | I/61 | 1,009
 
 - 061-A050 | Trenčianska Teplá-sever | I/61 | Nová Dubnica | I/61, III/061064 | 0,919
 
@@ -776,29 +654,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-053a | | I/57, I/61 | Dubnica nad Váhom-juh | I/61 | 0,277
 
-- 061-i024 | Dubnica nad Váhom-juh | I/61 | Dubnica nad Váhom-sever | I/61 | 3,592
-
 - 061-053b | Dubnica nad Váhom-sever | I/61 | | MK-b, I/61 | 0,497
 
 - 061-053c1 | | MK-b, I/61 | Dubnica nad Váhom-Prejta-juh | I/61 | 0,328
 
-- 061-i025 | Dubnica nad Váhom-Prejta-juh | I/61 | Dubnica nad Váhom-Prejta-sever | I/61 | 0,385
-
 - 061-053c2 | Dubnica nad Váhom-Prejta-sever | I/61 | Ilava-Klobušice-juh | I/61 | 0,892
-
-- 061-i026 | Ilava-Klobušice-juh | I/61 | Ilava-sever | I/61 | 3,006
 
 - 061-055 | Ilava-sever | I/61 | Košeca-juh | I/61 | 0,846
 
-- 061-i027 | Košeca-juh | I/61 | Košeca-sever | I/61 | 1,665
-
 - 061-056a | Košeca-sever | I/61 | Košeca-Nozdrovice-juh | I/61 | 0,364
 
-- 061-i028 | Košeca-Nozdrovice-juh | I/61 | Košeca-Nozdrovice-sever | I/61 | 0,289
-
 - 061-056b | Košeca-Nozdrovice-sever | I/61 | Ladce-Tunežice-juh | I/61 | 0,729
-
-- 061-i029 | Ladce-Tunežice-juh | I/61 | Ladce-sever | I/61 | 2,717
 
 - 061-057a | Ladce-sever | I/61 | | MK-a, I/61 | 0,321
 
@@ -808,13 +674,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 061-059a | | I/49, I/49A, I/61 | Visolaje-západ | I/61 | 1,147
 
-- 061-i030 | Visolaje-západ | I/61 | Visolaje-východ | I/61 | 1,167
-
 - 061-059b | Visolaje-východ | I/61 | | III/061050, I/61 | 1,273
 
 - 061-061a | | III/061050, I/61 | Sverepec-juh | I/61 | 0,967
-
-- 061-i031 | Sverepec-juh | I/61 | Sverepec-sever | I/61 | 2,304
 
 - 061-061b | Sverepec-sever | I/61 | | D/1, I/61 | 0,571
 
@@ -822,13 +684,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 062-017 | | R1, I/51, I/62 | Sereď-juh | I/62 | 0,964
 
-- 062-i001 | Sereď-juh | I/62 | Šintava-východ | I/62 | 3,983
-
 - 062-A018 | Šintava-východ | I/62 | Šoporňa | I/51, I/62, II/573 | 2,595
-
-- Zoznam úsekov na ceste I/64 | | | | |
-
-- 064-i016 | Nitra-východ 2 | I/65 | Nitra-sever | R1 | 2,352
 
 - Zoznam úsekov na ceste I/65 | | | | |
 
@@ -870,21 +726,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 065-A014 | Zlaté Moravce 3 | I/65, III/511009 | Volkovce-Olichov-západ | I/65 | 4,697
 
-- 065-i001 | Volkovce-Olichov-západ | I/65 | Volkovce-Olichov-východ | I/65 | 0,477
-
 - 065-015 | Žarnovica 1 | | Žarnovica 2 | I/65, R1 | 0,448
 
 - 065-016 | Žarnovica 2 | I/65, R1 | Žarnovica 3 | I/65, R1 | 0,546
 
 - 065-A017 | Žarnovica 3 | I/65, R1 | Bzenica-juh | I/65 | 2,118
 
-- 065-i002 | Bzenica-juh | I/65 | Bzenica-sever | I/65 | 0,522
-
 - 065-A018 | Bzenica-sever | I/65 | Hliník nad Hronom 1 | III/065023, I/65 | 2,604
 
 - 065-019 | | III/065023, I/65 | Hliník nad Hronom-západ | I/65 | 0,257
-
-- 065-i003 | Hliník nad Hronom-západ | I/65 | Hliník nad Hronom-východ | I/65 | 1,237
 
 - 065-A020a | Hliník nad Hronom-východ | I/65 | | I/65, R1 | 1,909
 
@@ -894,17 +744,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 065-A027c | | I/65, R3 | Horná Štubňa-juh | I/65 | 2,728
 
-- 065-i008 | Horná Štubňa-juh | I/65 | Horná Štubňa-sever | I/65 | 1,796
-
 - 065-028b1a | Horná Štubňa-sever | I/65 | | I/65, R3 | 0,291
 
 - 065-A043 | | I/65, I/65A, I/76, I/76 | Orovnica-juh | I/65 | 2,360
 
-- 065-i011 | Orovnica-juh | I/65 | Orovnica-sever | I/65 | 1,483
-
 - 065-A045 | Orovnica-sever | I/65 | Nová Baňa-juh | I/65 | 3,847
-
-- 065-i012 | Nová Baňa-juh | I/65 | Nová Baňa-sever | I/65 | 1,430
 
 - 065-046 | Volkovce-Olichov-východ | I/65 | | I/65, III/510026 | 0,216
 
@@ -932,13 +776,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 068-003a | Haniska | I/68, III/050187, III/068025 | Haniska-Grajciar-sever | I/68 | 1,874
 
-- 068-i002 | Haniska-Grajciar-sever | I/68 | Haniska-Grajciar-juh | I/68 | 0,570
-
 - 068-003b | Haniska-Grajciar-juh | I/68 | Belža | I/68, III/068027 | 0,730
 
 - 068-A004 | Belža | I/68, III/068027 | Seňa-sever | I/68 | 1,133
-
-- 068-i003 | Seňa-sever | I/68 | Kechnec-juh | I/68 | 2,762
 
 - 068-005a | Kechnec-juh | I/68 | | MK-b, I/68 | 0,615
 
@@ -954,49 +794,31 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 068-007c2 | | MK-c2, I/68 | Kendice-sever | I/68 | 0,359
 
-- 068-i004 | Kendice-sever | I/68 | Kendice-juh | I/68 | 1,478
-
 - 068-A007d | Kendice-juh | I/68 | Drienovská Nová Ves-sever | I/68 | 1,863
 
-- 068-i005 | Drienovská Nová Ves-sever | I/68 | Drienovská Nová Ves-juh | I/68 | 0,755
-
 - 068-007f | Drienovská Nová Ves-juh | I/68 | Ličartovce-sever | I/68 | 2,041
-
-- 068-i006 | Ličartovce-sever | I/68 | Ličartovce-juh | I/68 | 1,170
 
 - 068-007g | Ličartovce-juh | I/68 | Obišovce | I/68, III/546001 | 1,718
 
 - 068-A008 | Obišovce | I/68, III/546001 | Lemešany-sever | I/68 | 0,542
 
-- 068-i007 | Lemešany-sever | I/68 | Lemešany-juh | I/68 | 1,752
-
 - 068-009b1 | Lemešany-juh | I/68 | Janovník-sever | I/68 | 0,183
 
-- 068-i008 | Janovník-sever | I/68 | Janovník-juh | I/68 | 0,958
-
 - 068-009b2 | Janovník-juh | I/68 | Bretejovce-sever | I/68 | 0,290
-
-- 068-i009 | Bretejovce-sever | I/68 | Bretejovce-juh | I/68 | 1,027
 
 - 068-009d | Bretejovce-juh | I/68 | | I/68, III/068009 | 0,884
 
 - 068-010 | | I/68, III/068009 | Budimír-sever | I/68 | 1,105
 
-- 068-i010 | Budimír-sever | I/68 | Budimír-juh | I/68 | 1,513
-
 - 068-011 | Budimír-juh | I/68 | | D/1, I/68, III/068019 | 0,649
 
 - Zoznam úsekov na ceste I/69 | | | | |
-
-- 069-i001 | Kováčová-juh | I/69 | Kováčová-sever | I/69 | 0,315
 
 - 069-001 | Kováčová-sever | I/69 | | I/66, I/66C, I/69 | 1,095
 
 - 069-002 | | I/66, I/66C, I/69 | | I/69, III/069002 | 0,577
 
 - 069-A003 | | I/69, III/069002 | Sliač-juh | I/69 | 0,400
-
-- 069-i002 | Sliač-juh | I/69 | Sliač-sever | I/69 | 1,503
 
 - 069-004a1 | Sliač-sever | I/69 | | MK-a2, I/69 | 0,627
 
@@ -1018,13 +840,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 069-006b | | MK-b, I/69 | Banská Bystrica-juh | I/69 | 1,588
 
-- 069-i003 | Banská Bystrica-juh | I/69, R1 | Banská Bystrica-východ | I/66, R1 | 8,412
-
 - 069-007 | | I/65, R1 | Kováčová-juh | I/69 | 0,240
 
 - Zoznam úsekov na ceste I/73 | | | | |
-
-- 073-i013 | Svidník-juh | I/73, R4 | Svidník-sever | I/73 | 4,159
 
 - 073-018 | Svidník-sever | I/73 | Kapišová | I/73, R4 | 1,303
 
@@ -1036,8 +854,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-001 | Holíč-juh | I/2 | Kopčany-sever | I/2 | 2,036
 
-- 002-i001 | Kopčany-sever | I/2 | Kopčany-juh | I/2 | 2,239
-
 - 002-A002a | Kopčany-juh | I/2 | Gbely-Cunín | MK-b2, I/2 | 1,019
 
 - 002-002c | Gbely-Cunín | MK-b2, I/2 | | MK-c, I/2 | 0,657
@@ -1048,8 +864,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-003a | Gbely | I/2, III/500004 | Gbely-Adamov-sever | I/2 | 0,229
 
-- 002-i002 | Gbely-Adamov-sever | I/2 | Gbely-Adamov-juh | I/2 | 0,657
-
 - 002-003b | Gbely-Adamov-juh | I/2 | Brodské-sever | I/2, III/426007 | 2,629
 
 - 002-004a | Brodské-sever | I/2, III/426007 | | MK-a, I/2 | 0,741
@@ -1058,29 +872,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 002-005 | Brodské-juh | MK-b, I/2 | Kúty-sever | I/2 | 1,845
 
-- 002-i003 | Kúty-sever | I/2 | Kúty-juh | I/2 | 2,279
-
 - 002-A006 | Kúty-juh | I/2 | | D/2, I/2 | 1,221
 
 - Zoznam úsekov na ceste I/11 | | | | |
 
 - 011-001a | hranica SR/ČR | I/11 | Svrčinovec-Zátky-západ | I/11 | 0,253
 
-- 011-i001 | Svrčinovec-Zátky-západ | I/11 | Svrčinovec-Zátky-východ | I/11 | 1,125
-
 - 011-001b | Svrčinovec-Zátky-východ | I/11 | Svrčinovec-západ | I/11 | 0,697
-
-- 011-i002 | Svrčinovec-západ | I/11 | Čadca-Horelica | I/11 | 10,346
-
-- 011-i003 | Svrčinovec-západ | I/11 | Čadca-juh | I/11A | 6,052
-
-- 011-i004 | Svrčinovec-západ | I/11 | Svrčinovec-sever | I/12 | 1,721
-
-- 011-i005 | Svrčinovec-sever | I/12 | Čadca-Horelica | I/11 | 9,775
-
-- 011-i006 | Svrčinovec-sever | I/12 | Čadca-juh | I/11A | 5,481
-
-- 011-i007 | Čadca-juh | I/11A | Čadca-Horelica | I/11 | 4,956
 
 - 011-003 | Oščadnica 3 | I/11, I/11A | Krásno nad Kysucou 1 | I/11, II/520, III/011087 | 1,372
 
@@ -1098,11 +896,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 011-007d | | MK-c, I/11 | Povina-sever | I/11 | 1,848
 
-- 011-i008 | Povina-sever | I/11 | Povina-juh | I/11 | 0,403
-
 - 011-A008 | Povina-juh | I/11 | Kysucké Nové Mesto-Budatínska Lehota | I/11 | 1,249
-
-- 011-i009 | Kysucké Nové Mesto-Budatínska Lehota | I/11 | Radoľa | I/11 | 1,090
 
 - 011-009a | Radoľa | I/11 | | MK-a, I/11 | 1,616
 
@@ -1130,11 +924,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 012-001 | Svrčinovec-sever | I/12 | Čierne-juh | I/12 | 1,337
 
-- 012-i001 | Čierne-juh | I/12 | Čierne-sever | I/12 | 4,550
-
 - 012-003 | Čierne-sever | I/12 | Skalité-západ | I/12 | 0,918
-
-- 012-i002 | Skalité-západ | I/12 | Skalité-východ | I/12 | 7,087
 
 - 012-004 | Skalité-východ | I/12 | hranica SR/PL | I/12 | 0,802
 
@@ -1158,23 +948,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 015-003 | Školské | MK, I/15 | Majerovce-juh | I/15 | 1,114
 
-- 015-i001 | Majerovce-juh | I/15 | Majerovce-sever | I/15 | 0,987
-
 - 015-004 | Majerovce-sever | I/15 | Sedliská-juh | I/15 | 0,562
-
-- 015-i002 | Sedliská-juh | I/15 | Sedliská-Podčičva-sever | I/15 | 2,414
 
 - 015-005 | Sedliská-Podčičva-sever | I/15 | Benkovce-juh | I/15 | 4,077
 
-- 015-i003 | Benkovce-juh | I/15 | Benkovce-sever | I/15 | 1,186
-
 - 015-006 | Benkovce-sever | I/15 | Slovenská Kajňa-juh | I/15 | 1,056
 
-- 015-i004 | Slovenská Kajňa-juh | I/15 | Slovenská Kajňa-sever | I/15 | 0,284
-
 - 015-007 | Slovenská Kajňa-sever | I/15 | Malá Domaša-juh | I/15 | 0,250
-
-- 015-i005 | Malá Domaša-juh | I/15 | Malá Domaša-sever | I/15 | 0,846
 
 - 015-008 | Malá Domaša-sever | I/15 | | MK, I/15 | 2,825
 
@@ -1188,15 +968,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 015-013 | Vyšný Hrabovec | III/557005, I/15 | Turany nad Ondavou-juh | I/15 | 3,414
 
-- 015-i006 | Turany nad Ondavou-juh | I/15 | Turany nad Ondavou-sever | I/15 | 0,747
-
 - 015-014 | Turany nad Ondavou-sever | I/15 | Lomné | II/556, I/15 | 1,061
 
 - 015-015 | Lomné | II/556, I/15 | Mrázovce | III/557006, I/15 | 0,979
 
 - 015-016 | Mrázovce | III/557006, I/15 | Miňovce-juh | I/15 | 1,223
-
-- 015-i007 | Miňovce-juh | I/15 | Miňovce-sever | I/15 | 0,861
 
 - 015-017 | Miňovce-sever | I/15 | Nižná Olšava | MK, I/15 | 0,726
 
@@ -1204,23 +980,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 015-019 | Brusnica | III/557008, I/15 | Breznica-juh | I/15 | 0,644
 
-- 015-i008 | Breznica-juh | I/15 | Breznica-sever | I/15 | 1,897
-
 - 015-020 | Breznica-sever | I/15 | Stropkov-Sitník-juh | I/15 | 0,474
-
-- 015-i009 | Stropkov-Sitník-juh | I/15 | Stropkov-Sitník-sever | I/15 | 0,510
 
 - 015-021 | Stropkov-Sitník-sever | I/15 | Stropkov-juh | I/15 | 0,750
 
-- 015-i010 | Stropkov-juh | I/15 | Stropkov-sever | I/15 | 2,589
-
 - 015-022 | Stropkov-sever | I/15 | Tisinec-juh | I/15 | 1,026
 
-- 015-i011 | Tisinec-juh | I/15 | Tisinec-sever | I/15 | 0,970
-
 - 015-023 | Tisinec-sever | I/15 | Duplín-juh | I/15 | 0,829
-
-- 015-i012 | Duplín-juh | I/15 | Duplín-sever | I/15 | 1,065
 
 - 015-024 | Duplín-sever | I/15 | | I/73, I/15 | 1,904
 
@@ -1228,27 +994,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-001 | Prešov-východ | I/18 | Kapušany-západ | I/18 | 3,522
 
-- 018-i001 | Kapušany-západ | I/18 | Kapušany-východ | I/18 | 1,115
-
 - 018-002 | Kapušany-východ | I/18 | Lada-západ | I/18 | 0,686
-
-- 018-i002 | Lada-západ | I/18 | Lada-východ | I/18 | 1,154
 
 - 018-003 | Lada-východ | I/18 | Nemcovce | I/18, III/018206 | 1,046
 
 - 018-004 | Nemcovce | I/18, III/018206 | Lipníky-západ | I/18 | 1,378
 
-- 018-i003 | Lipníky-západ | I/18 | Lipníky-sever | I/73 | 1,575
-
-- 018-i004 | Lipníky-západ | I/18 | Lipníky-východ | I/18 | 1,441
-
-- 018-i005 | Lipníky-východ | I/18 | Lipníky-sever | I/73 | 0,612
-
 - 018-005a1 | hranica SR/ČR | I/18 | | MK-a1, I/18 | 2,088
 
 - 018-005a2 | | MK-a1, I/18 | Makov-západ | I/18 | 2,131
-
-- 018-i006 | Makov-západ | I/18 | Makov-východ | I/18 | 4,712
 
 - 018-006a | Makov-východ | I/18 | | MK-a, I/18 | 0,824
 
@@ -1262,23 +1016,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-007d | Kolárovice-Škoruby | MK-c, I/18 | Kolárovice-sever | I/18 | 1,993
 
-- 018-i007 | Kolárovice-sever | I/18 | Kolárovice-juh | I/18 | 3,484
-
 - 018-007e | Kolárovice-juh | I/18 | Petrovice | III/018082, I/18 | 0,459
 
 - 018-008 | Petrovice | III/018082, I/18 | Bytča-sever | I/18 | 2,551
 
-- 018-i008 | Bytča-sever | I/18 | Bytča-juh | I/18 | 1,927
-
 - 018-010a | Bytča-juh | I/18 | | MK-a, I/18 | 0,388
 
 - 018-010b | | MK-a, I/18 | Bytča-Hrabové | I/18, I/61 | 0,326
-
-- 018-i010 | Žilina-Strážov-západ | I/18 | Žilina-východ | I/18 | 7,583
-
-- 018-i011 | Žilina-Strážov-západ | I/18 | Žilina-sever | I/11 | 4,625
-
-- 018-i012 | Žilina-sever | I/11 | Žilina-východ | I/18 | 4,902
 
 - 018-020 | Žilina-východ | I/18 | | I/18, III/018249 | 0,765
 
@@ -1304,12 +1048,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-026b | | MK-a, I/18 | Martin-sever | I/18 | 3,313
 
-- 018-i013 | Martin-sever | I/18 | Martin-juh | I/65, I/65D | 10,689
-
-- 018-i014 | Martin-sever | I/18 | Martin-východ | I/18 | 5,546
-
-- 018-i015 | Martin-juh | I/65, I/65D | Martin-východ | I/18 | 8,242
-
 - 018-028 | Martin-východ | I/18 | Priekopa | I/18, III/018254 | 0,861
 
 - 018-029a | Martin | I/18, III/018254 | | MK-a, I/18 | 0,257
@@ -1321,8 +1059,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 018-029d | | MK-c, I/18 | | MK-d, I/18 | 0,271
 
 - 018-029e | | MK-d, I/18 | Sučany-západ | I/18 | 0,211
-
-- 018-i016 | Sučany-západ | I/18 | Sučany-východ | I/18 | 2,412
 
 - 018-030e | Sučany-východ | I/18 | | MK-b, I/18 | 0,770
 
@@ -1372,13 +1108,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-040b | | MK-a, I/18 | Rojkov-západ | I/18 | 1,167
 
-- 018-i017 | Rojkov-západ | I/18 | Rojkov-východ | I/18 | 0,654
-
 - 018-040c | Rojkov-východ | I/18 | | MK-c, I/18 | 0,452
 
 - 018-040d | | MK-c, I/18 | Ľubochňa-západ | I/18 | 2,231
-
-- 018-i018 | Ľubochňa-západ | I/18 | Hubová-východ | I/18 | 2,558
 
 - 018-041a | Hubová-východ | I/18 | | MK-a, I/18 | 2,772
 
@@ -1387,18 +1119,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 018-041f | | MK-b, I/18 | Ružomberok-Černová | MK-d, I/18 | 2,226
 
 - 018-041e | Ružomberok-Černová | MK-d, I/18 | Ružomberok-západ | I/18 | 1,321
-
-- 018-i019 | Ružomberok-západ | I/18 | Ružomberok-juh | I/59 | 10,742
-
-- 018-i020 | Ružomberok-západ | I/18 | Ružomberok-východ | I/18 | 5,080
-
-- 018-i021 | Ružomberok-západ | I/18 | Likavka-sever | I/59 | 5,487
-
-- 018-i022 | Ružomberok-juh | I/59 | Ružomberok-východ | I/18 | 6,972
-
-- 018-i023 | Ružomberok-juh | I/59 | Likavka-sever | I/59 | 10,137
-
-- 018-i024 | Ružomberok-východ | I/18 | Likavka-sever | I/59 | 4,475
 
 - 018-A043 | Ružomberok-východ | I/18 | Lisková 1 | III/018111, I/18 | 0,850
 
@@ -1422,71 +1142,37 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-A069 | Dlhé Stráže | I/18, III/018164 | Levoča-západ | I/18 | 4,139
 
-- 018-i032 | Levoča-západ | I/18 | Levoča-východ | I/18 | 2,870
-
 - 018-A071 | Levoča-východ | I/18 | | I/18, III/018168 | 1,702
 
 - 018-A072 | | I/18, III/018168 | Spišský Hrhov-západ | I/18 | 3,108
 
-- 018-i033 | Spišský Hrhov-západ | I/18 | Spišský Hrhov-východ | I/18 | 0,645
-
 - 018-A073 | Spišský Hrhov-východ | I/18 | Klčov-západ | I/18 | 1,327
 
-- 018-i034 | Klčov-západ | I/18 | Klčov-východ | I/18 | 0,403
-
 - 018-A075 | Klčov-východ | I/18 | Nemešany-západ | I/18 | 0,824
-
-- 018-i035 | Nemešany-západ | I/18 | Nemešany-východ | I/18 | 0,395
 
 - 018-076b1 | Nemešany-východ | I/18 | | I/18, D1 | 1,360
 
 - 018-081 | | D/1, I/18 | Hendrichovce-západ | I/18 | 0,409
 
-- 018-i036 | Hendrichovce-západ | I/18 | Hendrichovce-východ | I/18 | 0,896
-
 - 018-A082 | Hendrichovce-východ | I/18 | Bertotovce-západ | I/18 | 0,759
-
-- 018-i037 | Bertotovce-západ | I/18 | Bertotovce-východ | I/18 | 1,430
 
 - 018-083 | Bertotovce-východ | I/18 | Chminianska Nová Ves-západ | I/18 | 3,111
 
-- 018-i038 | Chminianska Nová Ves-západ | I/18 | Chminianska Nová Ves-východ | I/18 | 1,911
-
 - 018-084a | Chminianska Nová Ves-východ | I/18 | | I/18, D1 | 0,849
-
-- 018-i040 | Prešov-západ | I/18, D1 | Prešov-juh 1 | I/68 | 9,460
-
-- 018-i041 | Prešov-západ | I/18, D1 | Prešov-juh 2 | D1 | 9,343
-
-- 018-i042 | Prešov-západ | I/18, D1 | Prešov-východ | I/18 | 7,027
-
-- 018-i043 | Prešov-juh 1 | I/68 | Prešov-juh 2 | D1 | 3,663
-
-- 018-i044 | Prešov-juh 1 | I/68 | Prešov-východ | I/18 | 10,101
-
-- 018-i045 | Prešov-juh 2 | D1 | Prešov-východ | I/18 | 9,984
 
 - 018-117 | Lipníky-východ | I/18 | Radvanovce | III/018209, I/18 | 3,684
 
 - 018-118 | Radvanovce | III/018209, I/18 | Podlipníky-západ | I/18 | 0,200
 
-- 018-i056 | Podlipníky-západ | I/18 | Podlipníky-východ | I/18 | 0,354
-
 - 018-119 | Podlipníky-východ | I/18 | Medzianky | MK, I/18 | 1,187
 
 - 018-120 | Medzianky | MK, I/18 | Hanušovce nad Topľou-západ | I/18 | 1,758
-
-- 018-i057 | Hanušovce nad Topľou-západ | I/18 | Hanušovce nad Topľou-východ | I/18 | 1,634
 
 - 018-121 | Hanušovce nad Topľou-východ | I/18 | | III/018213, I/18 | 1,046
 
 - 018-122 | | III/018213, I/18 | Bystré-sever | I/18 | 1,834
 
-- 018-i058 | Bystré-sever | I/18 | Bystré-juh | I/18 | 0,956
-
 - 018-123 | Bystré-juh | I/18 | Čierne nad Topľou-sever | I/18 | 0,929
-
-- 018-i059 | Čierne nad Topľou-sever | I/18 | Čierne nad Topľou-juh | I/18 | 1,811
 
 - 018-124 | Čierne nad Topľou-juh | I/18 | Vyšný Žipov | III/018216, I/18 | 0,821
 
@@ -1494,23 +1180,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-126 | Zlatník | III/018218, I/18 | Hlinné-sever | I/18 | 1,292
 
-- 018-i060 | Hlinné-sever | I/18 | Hlinné-juh | I/18 | 0,905
-
 - 018-127 | Hlinné-juh | I/18 | Soľ-sever | I/18 | 2,298
-
-- 018-i061 | Soľ-sever | I/18 | Soľ-juh | I/18 | 1,606
 
 - 018-128 | Soľ-juh | I/18 | Čaklov-sever | I/18 | 1,452
 
-- 018-i062 | Čaklov-sever | I/18 | Čaklov-juh | I/18 | 1,371
-
 - 018-129 | Čaklov-juh | I/18 | Vranov nad Topľou-západ | I/18 | 2,772
-
-- 018-i063 | Vranov nad Topľou-západ | I/18 | Vranov nad Topľou-juh | I/79 | 3,007
-
-- 018-i064 | Vranov nad Topľou-západ | I/18 | Vranov nad Topľou-východ | I/18 | 1,657
-
-- 018-i065 | Vranov nad Topľou-juh | I/79 | Vranov nad Topľou-východ | I/18 | 2,722
 
 - 018-130 | Vranov nad Topľou-východ | I/18 | | MK, I/18 | 0,437
 
@@ -1520,31 +1194,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 049-001a1 | hranica SR/ČR | I/49 | Lysá pod Makytou-Strelenka-západ | I/49 | 0,634
 
-- 049-i001 | Lysá pod Makytou-Strelenka-západ | I/49 | Lysá pod Makytou-Strelenka-východ | I/49 | 2,460
-
 - 049-001a2 | Lysá pod Makytou-Strelenka-východ | I/49 | Lysá pod Makytou-západ | I/49 | 0,366
-
-- 049-i002 | Lysá pod Makytou-západ | I/49 | Lysá pod Makytou-východ | I/49 | 2,031
 
 - 049-001b | Lysá pod Makytou-východ | I/49 | Lúky-západ | I/49 | 1,282
 
-- 049-i003 | Lúky-západ | I/49 | Lúky-východ | I/49 | 2,214
-
 - 049-A001c | Lúky-východ | I/49 | Záriečie-západ | I/49 | 0,412
-
-- 049-i004 | Záriečie-západ | I/49 | Mestečko-východ | I/49 | 2,740
 
 - 049-A002 | Mestečko-východ | I/49 | Dohňany-západ | I/49 | 1,493
 
-- 049-i005 | Dohňany-západ | I/49 | Dohňany-východ | I/49 | 1,744
-
 - 049-A004 | Dohňany-východ | I/49 | Púchov-Vieska-Bezdedov-západ | I/49 | 0,452
 
-- 049-i006 | Púchov-Vieska-Bezdedov-západ | I/49 | Púchov-Vieska-Bezdedov-východ | I/49 | 0,831
-
 - 049-A005 | Púchov-Vieska-Bezdedov-východ | I/49 | Púchov-západ | I/49 | 0,830
-
-- 049-i007 | Púchov-západ | I/49 | Púchov-východ | I/49 | 2,200
 
 - 049-006 | Púchov-východ | I/49 | | I/49A, MK | 1,414
 
@@ -1552,25 +1212,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - Zoznam úsekov na ceste I/50 | | | | |
 
-- 050-i001 | Košice-západ | R2 | Košice-juh | R4 | 5,082
-
-- 050-i002 | Košice-západ | R2 | Košice-východ | I/50 | 11,035
-
-- 050-i003 | Košice-západ | R2 | Košice-sever | R4 | 10,413
-
-- 050-i004 | Košice-juh | I/68 | Košice-východ | I/50 | 10,451
-
-- 050-i005 | Košice-juh | I/68 | Košice-sever | R4 | 9,829
-
-- 050-i006 | Košice-východ | I/50 | Košice-sever | R4 | 7,088
-
 - 050-001a | Košice-východ | I/50 | | MK-a, I/50 | 1,029
 
 - 050-001c | | MK-a, I/50 | Hrašovík | I/50, III/050200 | 1,555
 
 - 050-003 | Hrašovík | I/50, III/050200 | Košické Oľšany-Nižný Olčvár-západ | I/50 | 1,201
-
-- 050-i007 | Košické Oľšany-Nižný Olčvár-západ | I/50 | Košické Oľšany-Nižný Olčvár-východ | I/50 | 0,567
 
 - 050-004a | Košické Oľšany-Nižný Olčvár-východ | I/50 | | MK-a, I/50 | 1,129
 
@@ -1580,19 +1226,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-004b4 | | MK-b3, I/50 | Ďurďošík-západ | I/50 | 2,236
 
-- 050-i008 | Ďurďošík-západ | I/50 | Ďurďošík-východ | I/50 | 0,318
-
 - 050-A005 | Ďurďošík-východ | I/50 | Bidovce 1 | III/050254, I/50, III/050254 | 0,836
 
 - 050-006 | Bidovce 1 | III/050254, I/50, III/050254 | Bidovce 2 | I/50, II/576 | 1,130
 
 - 050-A007a | Bidovce 2 | I/50, II/576 | Svinica-západ | I/50 | 1,207
 
-- 050-i009 | Svinica-západ | I/50 | Svinica-východ | I/50 | 1,734
-
 - 050-007c | Svinica-východ | I/50 | Košický Klečenov-západ | I/50 | 2,234
-
-- 050-i010 | Košický Klečenov-západ | I/50 | Košický Klečenov-východ | I/50 | 0,634
 
 - 050-007d | Košický Klečenov-východ | I/50 | | MK-d, I/50 | 1,622
 
@@ -1601,8 +1241,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 050-007e2 | | MK-e1, I/50 | Košice - Trebišov | I/50 | 2,078
 
 - 050-008a | Košice - Trebišov | I/50 | Dargov-západ | I/50 | 1,693
-
-- 050-i011 | Dargov-západ | I/50 | Dargov-východ | I/50 | 1,342
 
 - 050-009a | Dargov-východ | I/50 | | MK-a, I/50 | 1,302
 
@@ -1614,21 +1252,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-010b | | MK-a, I/50 | Sečovce-západ | I/50 | 0,376
 
-- 050-i012 | Sečovce-západ | I/50 | Sečovce-východ | I/50 | 4,083
-
 - 050-A011 | Sečovce-východ | I/50 | Hriadky-západ | I/50 | 1,106
-
-- 050-i013 | Hriadky-západ | I/50 | Hriadky-juh | I/79 | 1,057
-
-- 050-i014 | Hriadky-západ | I/50 | Hriadky-východ | I/50 | 0,737
-
-- 050-i015 | Hriadky-západ | I/50 | Hriadky-sever | I/79 | 0,783
-
-- 050-i016 | Hriadky-juh | I/79 | Hriadky-východ | I/50 | 1,090
-
-- 050-i017 | Hriadky-juh | I/79 | Hriadky-sever | I/79 | 1,200
-
-- 050-i018 | Hriadky-východ | I/50 | Hriadky-sever | I/79 | 0,840
 
 - 050-012 | Hriadky-východ | I/50 | Trebišov - Michalovce | I/50 | 2,109
 
@@ -1636,13 +1260,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A014 | | I/50, III/050214 | Horovce-západ | I/50 | 1,368
 
-- 050-i019 | Horovce-západ | I/50 | Horovce-východ | I/50 | 0,767
-
 - 050-015a | Horovce-východ | I/50 | | MK-a, I/50 | 0,208
 
 - 050-015d | | MK-a, I/50 | Trhovište-západ | I/50 | 1,215
-
-- 050-i020 | Trhovište-západ | I/50 | Trhovište-východ | I/50 | 1,583
 
 - 050-016a | Trhovište-východ | I/50 | | MK-a, I/50 | 1,224
 
@@ -1650,27 +1270,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-016c | | MK-b, I/50 | Pozdišovce-západ | I/50 | 0,806
 
-- 050-i021 | Pozdišovce-západ | I/50 | Pozdišovce-východ | I/50 | 1,210
-
 - 050-A017 | Pozdišovce-východ | I/50 | Michalovce-Močarany-západ | I/50 | 0,414
-
-- 050-i022 | Michalovce-Močarany-západ | I/50 | Michalovce-východ | I/50 | 6,500
 
 - 050-018a1 | Michalovce-východ | I/50 | | MK-a1, I/50 | 0,286
 
 - 050-018a2 | | MK-a1, I/50 | Zalužice-západ | I/50 | 2,282
 
-- 050-i023 | Zalužice-západ | I/50 | Zalužice-východ | I/50 | 2,107
-
 - 050-018b | Zalužice-východ | I/50 | Hažín | III/050234, I/50 | 0,908
 
 - 050-A019a | Hažín | III/050234, I/50 | Lúčky-západ | I/50 | 1,250
 
-- 050-i024 | Lúčky-západ | I/50 | Lúčky-východ | I/50 | 1,413
-
 - 050-A019b | Lúčky-východ | I/50 | Závadka-západ | I/50 | 0,584
-
-- 050-i025 | Závadka-západ | I/50 | Závadka-východ | I/50 | 1,253
 
 - 050-020a | Závadka-východ | I/50 | | MK-a, I/50 | 0,893
 
@@ -1678,23 +1288,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-021 | Veľké Revištia | I/50, III/050225 | Nižná Rybnica-západ | I/50 | 1,952
 
-- 050-i026 | Nižná Rybnica-západ | I/50 | Nižná Rybnica-východ | I/50 | 0,525
-
 - 050-A022 | Nižná Rybnica-východ | I/50 | Sobrance-západ | I/50 | 1,303
-
-- 050-i027 | Sobrance-západ | I/50 | Sobrance-východ | I/50 | 1,417
 
 - 050-A023 | Sobrance-východ | I/50 | Tibava-západ | I/50 | 1,205
 
-- 050-i028 | Tibava-západ | I/50 | Tibava-východ | I/50 | 0,848
-
 - 050-024a | Tibava-východ | I/50 | Orechová-sever | I/50 | 2,867
 
-- 050-i029 | Orechová-sever | I/50 | Orechová-juh | I/50 | 1,380
-
 - 050-024b | Orechová-juh | I/50 | Krčava-sever | I/50 | 1,377
-
-- 050-i030 | Krčava-sever | I/50 | Krčava-juh | I/50 | 1,902
 
 - 050-025 | Krčava-juh | I/50 | Vyšné Nemecké 1 | III/050099, I/50 | 0,951
 
@@ -1716,11 +1316,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A038 | | I/50, III/050025 | Trenčianske Mitice-západ | I/50 | 1,170
 
-- 050-i031 | Trenčianske Mitice-západ | I/50 | Trenčianske Mitice-východ | I/50 | 0,284
-
 - 050-039 | Trenčianske Mitice-východ | I/50 | Svinná-západ | I/50 | 3,247
-
-- 050-i032 | Svinná-západ | I/50 | Svinná-východ | I/50 | 2,569
 
 - 050-041a | Svinná-východ | I/50 | | MK-a, I/50 | 1,342
 
@@ -1728,11 +1324,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A042 | Ruskovce | I/50, III/050026 | Bánovce nad Bebravou-Horné Ozorovce-sever | I/50 | 2,568
 
-- 050-i033 | Bánovce nad Bebravou-Horné Ozorovce-sever | I/50 | Bánovce nad Bebravou-Horné Ozorovce-juh | I/50 | 0,781
-
 - 050-044 | Bánovce nad Bebravou-Horné Ozorovce-juh | I/50 | Bánovce nad Bebravou-sever | I/50 | 0,162
-
-- 050-i034 | Bánovce nad Bebravou-sever | I/50 | Bánovce nad Bebravou-juh | I/50 | 3,051
 
 - 050-045 | Bánovce nad Bebravou-juh | I/50 | | I/50, III/050052 | 2,879
 
@@ -1742,21 +1334,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-048 | Brezolupy 2 | I/50, III/050040 | Brezolupy-Jerichov-západ | I/50 | 0,563
 
-- 050-i035 | Brezolupy-Jerichov-západ | I/50 | Brezolupy-Jerichov-východ | I/50 | 0,468
-
 - 050-049 | Brezolupy-Jerichov-východ | I/50 | Látkovce | I/50 | 2,387
 
 - 050-050 | Látkovce | I/50 | Hradište-západ | I/50 | 1,748
 
-- 050-i036 | Hradište-západ | I/50 | Hradište-východ | I/50 | 0,670
-
 - 050-A051 | Hradište-východ | I/50 | Dolné Vestenice-západ | I/50 | 1,380
 
-- 050-i037 | Dolné Vestenice-západ | I/50 | Dolné Vestenice-východ | I/50 | 1,280
-
 - 050-052b | Dolné Vestenice-východ | I/50 | Horné Vestenice-západ | I/50 | 1,631
-
-- 050-i038 | Horné Vestenice-západ | I/50 | Horné Vestenice-východ | I/50 | 0,713
 
 - 050-A052c | Horné Vestenice-východ | I/50 | Nitrica 2 | III/050057, I/50 | 0,796
 
@@ -1765,12 +1349,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 050-A055 | Nitrianske Sučany | III/050058, I/50 | Diviacka Nová Ves | I/50, II/574 | 1,519
 
 - 050-057 | Diviacka Nová Ves | I/50, II/574 | Nováky-západ | I/50 | 2,521
-
-- 050-i039 | Nováky-západ | I/50 | Nováky-juh | I/64 | 4,940
-
-- 050-i040 | Nováky-západ | I/50 | Nováky-východ | I/50 | 2,214
-
-- 050-i041 | Nováky-juh | I/64 | Nováky-východ | I/50 | 2,888
 
 - 050-A058 | Nováky-východ | I/50 | Lehota pod Vtáčnikom | I/50, III/064076 | 1,684
 
@@ -1792,25 +1370,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-068 | Veľká Čausa 2 | I/50, III/050070 | Chrenovec-Brusno-západ | I/50 | 0,642
 
-- 050-i042 | Chrenovec-Brusno-západ | I/50 | Chrenovec-Brusno-východ | I/50 | 1,211
-
 - 050-069a | Chrenovec-Brusno-východ | I/50 | Jalovec-západ | I/50 | 0,457
 
-- 050-i043 | Jalovec-západ | I/50 | Jalovec-východ | I/50 | 0,407
-
 - 050-069b | Jalovec-východ | I/50 | Ráztočno-západ | I/50 | 0,226
-
-- 050-i044 | Ráztočno-západ | I/50 | Ráztočno-východ | I/50 | 1,056
 
 - 050-A070 | Ráztočno-východ | I/50 | | I/50, III/065033 | 0,804
 
 - 050-071 | | I/50, III/065033 | Handlová-sever | I/50 | 1,029
 
-- 050-i045 | Handlová-sever | I/50 | Handlová-juh | I/50 | 7,386
-
 - 050-A072a | Handlová-juh | I/50 | Handlová-Nová Lehota-sever | I/50 | 0,838
-
-- 050-i046 | Handlová-Nová Lehota-sever | I/50 | Handlová-Nová Lehota-juh | I/50 | 0,699
 
 - 050-A072c | Handlová-Nová Lehota-juh | I/50 | Žiar nad Hronom - Prievidza | I/50 | 2,558
 
@@ -1826,16 +1394,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-077 | Lutila | I/50, III/050074 | Žiar nad Hronom-západ | I/50 | 0,908
 
-- 050-i047 | Žiar nad Hronom-západ | I/50 | Žiar nad Hronom-Horné Opatovce-juh | I/65 | 5,562
-
-- 050-i048 | Žiar nad Hronom-západ | I/50 | Ladomerská Vieska-sever | I/50 | 3,913
-
-- 050-i050 | Zvolen-západ | I/50 | Zvolen-juh | I/66 | 2,094
-
-- 050-i051 | Zvolen-západ | I/50 | Zvolen-východ | I/50 | 3,712
-
-- 050-i052 | Zvolen-juh | I/66 | Zvolen-východ | I/50 | 3,925
-
 - 050-082a | Zvolen-východ | I/50 | | MK-a, I/50 | 1,838
 
 - 050-082b | | MK-a, I/50 | Lieskovec | I/50, III/066022 | 0,479
@@ -1846,11 +1404,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-084b | | MK-a, I/50 | Zvolenská Slatina-západ | I/50 | 1,056
 
-- 050-i053 | Zvolenská Slatina-západ | I/50 | Zvolenská Slatina-východ | I/50 | 1,389
-
 - 050-A085 | Zvolenská Slatina-východ | I/50 | Vígľaš-západ | I/50 | 0,990
-
-- 050-i054 | Vígľaš-západ | I/50 | Vígľaš-východ | I/50 | 1,446
 
 - 050-086 | Vígľaš-východ | I/50 | | I/50, II/591 | 0,711
 
@@ -1858,19 +1412,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-087b | | MK-a, I/50 | Vígľaš-Pstruša-západ | I/50 | 0,452
 
-- 050-i055 | Vígľaš-Pstruša-západ | I/50 | Vígľaš-Pstruša-východ | I/50 | 0,381
-
 - 050-087c | Vígľaš-Pstruša-východ | I/50 | | III/050097, I/50 | 1,101
 
 - 050-088 | | III/050097, I/50 | Stožok | I/50, III/050096 | 1,300
 
 - 050-089 | Stožok | I/50, III/050096 | Detva-západ | I/50 | 2,885
 
-- 050-i056 | Detva-západ | I/50 | Detva-východ | I/50 | 1,559
-
 - 050-A090 | Detva-východ | I/50 | Kriváň-západ | I/50 | 2,151
-
-- 050-i057 | Kriváň-západ | I/50 | Kriváň-východ | I/50 | 1,847
 
 - 050-A091 | Kriváň-východ | I/50 | Podkriváň 1 | I/50, II/526 | 1,123
 
@@ -1880,13 +1428,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A096 | Píla | III/050102, I/50 | Mýtna-západ | I/50 | 2,572
 
-- 050-i058 | Mýtna-západ | I/50 | Mýtna-východ | I/50 | 1,442
-
 - 050-097 | Mýtna-východ | I/50 | Dobroč | III/050108, I/50 | 0,444
 
 - 050-A098 | Dobroč | III/050108, I/50 | Lovinobaňa-sever | I/50 | 1,806
-
-- 050-i059 | Lovinobaňa-sever | I/50 | Lovinobaňa-juh | I/50 | 0,834
 
 - 050-A099 | Lovinobaňa-juh | I/50 | | I/50, III/050268 | 1,637
 
@@ -1920,8 +1464,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-111b | Boľkovce | MK-a, I/50 | Pinciná-západ | I/50 | 0,512
 
-- 050-i060 | Pinciná-západ | I/50 | Pinciná-východ | I/50 | 0,745
-
 - 050-111c1 | Pinciná-východ | I/50 | | MK-c1, I/50 | 1,763
 
 - 050-111c2 | | MK-c1, I/50 | Nové Hony | I/50, III/571003 | 3,243
@@ -1936,8 +1478,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-113b | | MK-a, I/50 | Rimavská Sobota-západ | I/50 | 2,298
 
-- 050-i061 | Rimavská Sobota-západ | I/50 | Rimavská Sobota-východ | I/50 | 3,470
-
 - 050-115a | Rimavská Sobota-východ | I/50 | | MK-a, I/50 | 1,636
 
 - 050-115c | | MK-a, I/50 | | MK-a, I/50 | 0,441
@@ -1946,11 +1486,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-116c | | MK-b, I/50 | Rimavská Sobota-Bakta-západ | I/50 | 1,488
 
-- 050-i062 | Rimavská Sobota-Bakta-západ | I/50 | Rimavská Sobota-Bakta-východ | I/50 | 1,252
-
 - 050-117 | Rimavská Sobota-Bakta-východ | I/50 | Bátka-západ | I/50 | 4,725
-
-- 050-i063 | Bátka-západ | I/50 | Bátka-východ | I/50 | 1,028
 
 - 050-118 | Bátka-východ | I/50 | Rakytník | III/050137, I/50 | 0,412
 
@@ -1968,17 +1504,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A125c | Bretka | MK-b, I/50 | Čoltovo-juh | I/50 | 1,156
 
-- 050-i065 | Čoltovo-juh | I/50 | Čoltovo-sever | I/50 | 0,771
-
 - 050-125e | Čoltovo-sever | I/50 | Bohúňovo-juh | I/50 | 1,605
-
-- 050-i066 | Bohúňovo-juh | I/50 | Bohúňovo-sever | I/50 | 0,778
 
 - 050-127a | Bohúňovo-sever | I/50 | | MK-a, I/50 | 2,362
 
 - 050-127b | | MK-a, I/50 | Plešivec-juh | I/50 | 1,064
-
-- 050-i067 | Plešivec-juh | I/50 | Plešivec-sever | I/50 | 1,072
 
 - 050-129a | Plešivec-sever | I/50 | | MK-a, I/50 | 0,994
 
@@ -2004,8 +1534,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-138f | | MK-e, I/50 | Krásnohorské Podhradie-západ | I/50 | 1,797
 
-- 050-i068 | Krásnohorské Podhradie-západ | I/50 | Krásnohorské Podhradie-východ | I/50 | 1,473
-
 - 050-140 | Krásnohorské Podhradie-východ | I/50 | Lipovník | I/50, III/050157, III/050160 | 1,324
 
 - 050-141a | Lipovník | I/50, III/050157, III/050160 | | MK-a, I/50 | 3,465
@@ -2028,8 +1556,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-A143 | Mokrance | | Čečejovce-západ | I/50 | 1,100
 
-- 050-i069 | Čečejovce-západ | I/50 | Čečejovce-východ | I/50 | 0,882
-
 - 050-144 | Čečejovce-východ | I/50 | Cestice | I/50, III/050183 | 2,729
 
 - 050-145a | Cestice | I/50, III/050183 | | MK-a, I/50 | 0,383
@@ -2040,8 +1566,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-145d | | MK-c, I/50 | Košice-Šaca-západ | I/50 | 2,065
 
-- 050-i070 | Košice-Šaca-západ | I/50 | Košice-Šaca-východ | R2 | 1,290
-
 - 050-153 | hranica SR/ČR | I/50 | | III/050265, I/50 | 1,296
 
 - 050-A154 | | III/050265, I/50 | | I/50, III/050259 | 2,725
@@ -2049,8 +1573,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 050-A155 | | I/50, III/050259 | | I/50, III/050264 | 1,490
 
 - 050-156a | | I/50, III/050264 | Drietoma-sever | I/50 | 2,000
-
-- 050-i076 | Drietoma-sever | I/50 | Drietoma-juh | I/50 | 2,194
 
 - 050-A156b | Drietoma-juh | I/50 | | I/50, III/050221 | 0,390
 
@@ -2082,8 +1604,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 050-168b | | MK-a, I/50 | Drienovec-západ | I/50 | 0,290
 
-- 050-i077 | Drienovec-západ | I/50 | Drienovec-východ | I/50 | 1,425
-
 - 050-168c | Drienovec-východ | I/50 | Moldava nad Bodvou | II/550, I/50 | 2,026
 
 - 050-169a | Moldava nad Bodvou | II/550, I/50 | | MK-a, I/50 | 0,581
@@ -2112,8 +1632,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-005 | | I/51, III/051009 | Radošovce-západ | I/51 | 0,675
 
-- 051-i001 | Radošovce-západ | I/51 | Radošovce-východ | I/51 | 1,267
-
 - 051-007a | Radošovce-východ | I/51 | | MK-a, I/51 | 0,456
 
 - 051-007b | | MK-a, I/51 | Oreské | I/51, III/051035 | 3,386
@@ -2128,8 +1646,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-011b | | MK-a, I/51 | Senica-sever | I/51 | 2,117
 
-- 051-i002 | Senica-sever | I/51 | Senica-juh | I/51 | 2,551
-
 - 051-013a | Senica-juh | I/51 | | MK-a, I/51 | 0,933
 
 - 051-013b | | MK-a, I/51 | Hlboké | III/051020, I/51, III/051019 | 2,527
@@ -2140,8 +1656,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-A014c | Jablonica-Nový dvor | MK-b3, I/51 | Jablonica-sever | I/51 | 1,077
 
-- 051-i003 | Jablonica-sever | I/51 | Jablonica-juh | I/51 | 2,677
-
 - 051-015b | Jablonica-juh | I/51 | | MK-b, I/51 | 5,648
 
 - 051-015c1 | | MK-b, I/51 | | MK-c1, I/51 | 2,236
@@ -2150,31 +1664,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-015d | | MK-c2, I/51 | Trstín-sever | I/51 | 0,300
 
-- 051-i004 | Trstín-sever | I/51 | Trstín-juh | I/51 | 1,938
-
 - 051-016a | Trstín-juh | I/51 | Bíňovce-sever | I/51 | 1,378
-
-- 051-i005 | Bíňovce-sever | I/51 | Bíňovce-juh | I/51 | 1,337
 
 - 051-016b | Bíňovce-juh | I/51 | Boleráz-sever | I/51 | 2,376
 
-- 051-i006 | Boleráz-sever | I/51 | Boleráz-Klčovany-juh | I/51 | 3,537
-
 - 051-A017b | Boleráz-Klčovany-juh | I/51 | Šelpice-sever | I/51 | 1,899
-
-- 051-i007 | Šelpice-sever | I/51 | Šelpice-juh | I/51 | 1,404
 
 - 051-018a | Šelpice-juh | I/51 | | MK-a, I/51 | 1,792
 
 - 051-018b | | MK-a, I/51 | Trnava 6 | I/51, MK | 2,031
 
 - 051-022 | hranica SR/ČR | I/51 | Holíč-západ | I/51 | 2,707
-
-- 051-i008 | Holíč-západ | I/51 | Holíč-juh | I/2 | 3,055
-
-- 051-i009 | Holíč-západ | I/51 | Holíč-východ | I/51 | 2,013
-
-- 051-i010 | Holíč-juh | I/2 | Holíč-východ | I/51 | 2,860
 
 - 051-023 | Holíč-východ | I/51 | Trnovec | MK, I/51 | 0,938
 
@@ -2188,8 +1688,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-028 | Selenec | R1, I/51 | Veľký Lapáš-západ | I/51 | 3,042
 
-- 051-i011 | Veľký Lapáš-západ | I/51 | Veľký Lapáš-východ | I/51 | 1,370
-
 - 051-029 | Veľký Lapáš-východ | I/51 | Babindol | III/051040, I/51 | 2,278
 
 - 051-030 | Babindol | III/051040, I/51 | Golianovo | III/051039, I/51 | 0,408
@@ -2200,57 +1698,31 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-033 | Klasov 2 | III/051043, I/51 | Vráble-západ | I/51 | 2,226
 
-- 051-i012 | Vráble-západ | I/51 | Vráble-východ | I/51 | 2,682
-
 - 051-034 | Vráble-východ | I/51 | Telince-západ | I/51 | 3,545
-
-- 051-i013 | Telince-západ | I/51 | Telince-východ | I/51 | 0,757
 
 - 051-035 | Telince-východ | I/51 | Čifáre-západ | I/51 | 0,598
 
-- 051-i014 | Čifáre-západ | I/51 | Čifáre-východ | I/51 | 1,196
-
 - 051-036 | Čifáre-východ | I/51 | Veľký Ďur-západ | I/51 | 3,455
 
-- 051-i015 | Veľký Ďur-západ | I/51 | Veľký Ďur-východ | I/51 | 0,984
-
 - 051-037 | Veľký Ďur-východ | I/51 | Veľký Ďur-Rohožnica-západ | I/51 | 0,649
-
-- 051-i016 | Veľký Ďur-Rohožnica-západ | I/51 | Veľký Ďur-Rohožnica-východ | I/51 | 1,001
 
 - 051-038 | Veľký Ďur-Rohožnica-východ | I/51 | | I/76, I/51 | 3,041
 
 - 051-039 | | I/76, I/51 | Kalná nad Hronom-západ | I/51 | 0,506
 
-- 051-i017 | Kalná nad Hronom-západ | I/51 | Kalná nad Hronom-juh | I/76 | 1,935
-
-- 051-i018 | Kalná nad Hronom-západ | I/51 | Kalná nad Hronom-východ | I/51 | 0,685
-
-- 051-i019 | Kalná nad Hronom-juh | I/76 | Kalná nad Hronom-východ | I/51 | 1,694
-
 - 051-040 | Kalná nad Hronom-východ | I/51 | Horná Seč-západ | I/51 | 1,129
 
-- 051-i020 | Horná Seč-západ | I/51 | Horná Seč-východ | I/51 | 0,956
-
 - 051-041 | Horná Seč-východ | I/51 | Levice-západ | I/51 | 2,490
-
-- 051-i021 | Levice-západ | I/51 | Levice-východ | I/51 | 4,850
 
 - 051-042 | Levice-východ | I/51 | Malé Krškany | III/051061, III/564001, I/51 | 2,412
 
 - 051-043 | Malé Krškany | III/051061, III/564001, I/51 | Krškany-Zajačia dolina-západ | MK, I/51 | 0,333
 
-- 051-i022 | Krškany-Zajačia dolina-západ | MK, I/51 | Krškany-Zajačia dolina-východ | I/51 | 0,654
-
 - 051-044 | Krškany-Zajačia dolina-východ | I/51 | Horša | III/564002, I/51 | 1,941
 
 - 051-045 | Horša | III/564002, I/51 | Kmeťovce-západ | I/51 | 2,156
 
-- 051-i023 | Kmeťovce-západ | I/51 | Kmeťovce-východ | I/51 | 0,505
-
 - 051-046 | Kmeťovce-východ | I/51 | Žemberovce-západ | I/51 | 1,348
-
-- 051-i024 | Žemberovce-západ | I/51 | Žemberovce-východ | I/51 | 1,793
 
 - 051-047 | Žemberovce-východ | I/51 | | MK, I/51 | 1,071
 
@@ -2258,33 +1730,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 051-049 | | MK, I/51 | Ladzany-západ | I/51 | 7,373
 
-- 051-i025 | Ladzany-západ | I/51 | Ladzany-východ | I/51 | 0,374
-
 - 051-050 | Ladzany-východ | I/51 | Sebechleby-západ | I/51 | 3,460
-
-- 051-i026 | Sebechleby-západ | I/51 | Sebechleby-východ | I/51 | 1,401
 
 - 051-051 | Sebechleby-východ | I/51 | | III/051022, I/51 | 1,812
 
 - 051-052 | | III/051022, I/51 | Hontianske Nemce-západ | I/51 | 0,342
 
-- 051-i027 | Hontianske Nemce-západ | I/51 | Hontianske Nemce-juh | I/66 | 0,423
-
-- 051-i028 | Hontianske Nemce-západ | I/51 | Hontianske Nemce-východ | I/66 | 0,728
-
-- 051-i029 | Hontianske Nemce-juh | I/66 | Hontianske Nemce-východ | I/66 | 0,736
-
 - Zoznam úsekov na ceste I/59 | | | | |
-
-- 059-i001 | Banská Bystrica-Uľanka-juh | I/59 | Banská Bystrica-Uľanka-sever | I/59 | 1,311
 
 - 059-A003a | Banská Bystrica-Uľanka-sever | I/59 | Staré Hory-Polkanová-juh | I/59 | 2,844
 
-- 059-i002 | Staré Hory-Polkanová-juh | I/59 | Staré Hory-Polkanová-sever | I/59 | 0,193
-
 - 059-003b | Staré Hory-Polkanová-sever | I/59 | Staré Hory-juh | I/59 | 2,108
-
-- 059-i003 | Staré Hory-juh | I/59 | Staré Hory-sever | I/59 | 1,830
 
 - 059-A004a | Staré Hory-sever | I/59 | Staré Hory-Horný Jelenec 3 | MK-c, I/59 | 3,314
 
@@ -2294,17 +1750,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-A005c | Motyčky-Štubne | MK-b, I/59 | Donovaly-Hanesy-juh | I/59 | 3,756
 
-- 059-i004 | Donovaly-Hanesy-juh | I/59 | Donovaly-Hanesy-sever | I/59 | 0,237
-
-- 059-i005 | Donovaly-západ | I/59 | Donovaly-východ | I/59 | 2,066
-
 - 059-A005d | Donovaly-východ | I/59 | Liptovská Osada-Korytnica-kúpele | I/59, III/059005 | 3,742
 
 - 059-006a | Liptovská Osada-Korytnica-kúpele | I/59, III/059005 | | MK-a, I/59 | 3,257
 
 - 059-006b | | MK-a, I/59 | Liptovská Osada-juh | I/59 | 2,905
-
-- 059-i006 | Liptovská Osada-juh | I/59 | Liptovská Osada-sever | I/59 | 1,518
 
 - 059-A007a | Liptovská Osada-sever | I/59 | | MK-a5, I/59 | 3,463
 
@@ -2336,8 +1786,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-A012 | Jasenová | III/059027, I/59 | Vyšný Kubín-juh | I/59 | 0,837
 
-- 059-i007 | Vyšný Kubín-juh | I/59 | Vyšný Kubín-sever | I/59 | 0,680
-
 - 059-013 | Vyšný Kubín-sever | I/59 | Dolný Kubín-juh | I/59 | 0,400
 
 - 059-A014 | Dolný Kubín-sever | I/59 | Dolný Kubín-Kňažia | I/59, III/059006 | 2,724
@@ -2352,27 +1800,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-019a | | R3, I/59, I/59A | Sedliacka Dubová-západ | I/59 | 1,093
 
-- 059-i011 | Sedliacka Dubová-západ | I/59 | Sedliacka Dubová-východ | I/59 | 0,881
-
 - 059-019b | Sedliacka Dubová-východ | I/59 | Dlhá nad Oravou-západ | I/59 | 0,564
-
-- 059-i012 | Dlhá nad Oravou-západ | I/59 | Dlhá nad Oravou-východ | I/59 | 1,353
 
 - 059-A020a | Dlhá nad Oravou-východ | I/59 | Krivá-západ | I/59 | 2,630
 
-- 059-i013 | Krivá-západ | I/59 | Krivá-východ | I/59 | 0,808
-
 - 059-020b | Krivá-východ | I/59 | Podbiel-juh | I/59 | 2,865
-
-- 059-i014 | Podbiel-juh | I/59 | Podbiel-sever | I/59 | 0,883
 
 - 059-021a | Podbiel-sever | I/59 | Nižná-západ | I/59 | 0,719
 
-- 059-i015 | Nižná-západ | I/59 | Nižná-východ | I/59 | 2,936
-
 - 059-A021b | Nižná-východ | I/59 | Tvrdošín-juh | I/59 | 1,376
-
-- 059-i016 | Tvrdošín-juh | I/59 | Tvrdošín-sever | I/59 | 3,600
 
 - 059-024d | | I/59, R3 | | MK-d, I/59 | 3,116
 
@@ -2385,12 +1821,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 059-027 | Banská Bystrica-sever | I/59 | Špania Dolina | I/59, MK | 0,872
 
 - 059-028 | Špania Dolina | I/59, MK | Banská Bystrica-Uľanka-juh | I/59 | 0,270
-
-- Zoznam úsekov na ceste I/61 | | | | |
-
-- 061-i005 | Senec-juh | I/61 | Senec-východ | I/62 | 0,706
-
-- 061-i007 | Senec-východ | I/62 | Senec-sever | I/61 | 3,416
 
 - Zoznam úsekov na ceste I/62 | | | | |
 
@@ -2426,21 +1856,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - Zoznam úsekov na ceste I/63 | | | | |
 
-- 063-i001 | Bratislava-Ružinov 2 | I/63, D1 | Bratislava-juh | I/63 | 5,012
-
 - 063-A001 | Bratislava-juh | I/63 | Rovinka-sever | I/63 | 1,269
-
-- 063-i002 | Rovinka-sever | I/63 | Dunajská Lužná-juh | I/63 | 5,166
 
 - 063-003a | Dunajská Lužná-juh | I/63 | | MK-b, I/63 | 4,017
 
 - 063-003b | | MK-b, I/63 | Šamorín-západ | I/63 | 0,534
 
-- 063-i003 | Šamorín-západ | I/63 | Šamorín-východ | I/63 | 2,891
-
 - 063-A005 | Kráľovianky | I/63, III/063009, III/063011 | Báč-západ | I/63 | 2,638
-
-- 063-i004 | Báč-západ | I/63 | Báč-východ | I/63 | 0,452
 
 - 063-A006 | Báč-východ | I/63 | Rohovce 1 | III/063014, I/63 | 1,576
 
@@ -2466,15 +1888,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 063-019 | | I/63, II/572 | Kútniky-západ | I/63 | 0,591
 
-- 063-i005 | Kútniky-západ | I/63 | Kútniky-východ | I/63 | 1,252
-
 - 063-020 | Kútniky-východ | I/63 | Dolný Bar-západ | I/63 | 0,868
 
-- 063-i006 | Dolný Bar-západ | I/63 | Dolný Bar-východ | I/63 | 1,068
-
 - 063-021 | Dolný Bar-východ | I/63 | Dolný Štál-sever | I/63 | 2,367
-
-- 063-i007 | Dolný Štál-sever | I/63 | Dolný Štál-juh | I/63 | 1,869
 
 - 063-A022 | Dolný Štál-juh | I/63 | | I/63, III/561009 | 0,263
 
@@ -2484,25 +1900,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 063-A024c | | MK-c1, I/63 | Veľký Meder-sever | I/63 | 0,634
 
-- 063-i008 | Veľký Meder-sever | I/63 | Veľký Meder-juh | I/13 | 0,944
-
-- 063-i009 | Veľký Meder-sever | I/63 | Veľký Meder-východ | I/63 | 2,962
-
-- 063-i010 | Veľký Meder-juh | I/13 | Veľký Meder-východ | I/63 | 3,052
-
 - 063-025 | Veľký Meder-východ | I/63 | Brestovec | III/063031, I/63 | 1,112
 
 - 063-026 | Brestovec | III/063031, I/63 | Sokolce | I/63, III/063044 | 1,584
 
 - 063-A027 | Sokolce | I/63, III/063044 | Bodza-sever | I/63 | 1,027
 
-- 063-i011 | Bodza-sever | I/63 | Bodza-juh | I/63 | 1,069
-
 - 063-028 | Bodza-juh | I/63 | Holiare | I/63, III/063045 | 0,532
 
 - 063-029 | Holiare | I/63, III/063045 | Tôň-sever | I/63 | 1,935
-
-- 063-i012 | Tôň-sever | I/63 | Tôň-juh | I/63 | 1,142
 
 - 063-A030 | Tôň-juh | I/63 | Zemianska Olča | III/063047, I/63 | 2,532
 
@@ -2522,13 +1928,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 063-036a | Komárno-Pavel | III/063058, I/63 | Komárno-Nová Stráž-západ | I/63 | 1,490
 
-- 063-i013 | Komárno-Nová Stráž-západ | I/63 | Komárno-Nová Stráž-východ | I/63 | 2,176
-
 - 063-036b1 | Komárno-Nová Stráž-východ | I/63 | | MK-b2, I/63 | 0,455
 
 - 063-036b2 | | MK-b2, I/63 | Komárno-západ | I/63 | 1,283
-
-- 063-i014 | Komárno-západ | I/63 | Komárno-východ | I/63 | 4,617
 
 - 063-A037 | Šamorín-východ | I/63 | Kráľovianky | I/63, III/063009, III/063011 | 0,975
 
@@ -2548,35 +1950,21 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 064-003b | Svätý Peter-Briežky | | Hurbanovo-Zelený Háj-juh | I/64 | 2,699
 
-- 064-i001 | Hurbanovo-Zelený Háj-juh | I/64 | Hurbanovo-Zelený Háj-sever | I/64 | 1,389
-
 - 064-003c | Hurbanovo-Zelený Háj-sever | I/64 | Martovce | I/64, III/064001 | 0,282
 
 - 064-A004 | Martovce | I/64, III/064001 | Hurbanovo-juh | I/64 | 0,894
 
-- 064-i002 | Hurbanovo-juh | I/64 | Hurbanovo-Bohatá-sever | I/64 | 4,078
-
 - 064-006a | Hurbanovo-Bohatá-sever | I/64 | Hurbanovo-Pavlov Dvor-juh | I/64 | 1,336
-
-- 064-i003 | Hurbanovo-Pavlov Dvor-juh | I/64 | Hurbanovo-Pavlov Dvor-sever | I/64 | 0,469
 
 - 064-006b | Hurbanovo-Pavlov Dvor-sever | I/64 | | I/64, II/511 | 0,388
 
 - 064-008 | | I/64, II/511 | Bajč-juh | I/64 | 1,025
-
-- 064-i004 | Bajč-juh | I/64 | Bajč-sever | I/64 | 1,357
 
 - 064-009a | Bajč-sever | I/64 | Bajč-Kotelnica | | 1,631
 
 - 064-009b1 | Bajč-Kotelnica | | | MK-b2, I/64 | 0,914
 
 - 064-009b2 | | MK-b2, I/64 | Nové Zámky-juh | I/64 | 1,423
-
-- 064-i005 | Nové Zámky-juh | I/64 | Nové Zámky-sever | I/64, I/75 | 5,952
-
-- 064-i006 | Nové Zámky-juh | I/64 | Nové Zámky-východ | I/75 | 7,664
-
-- 064-i007 | Nové Zámky-východ | I/75 | Nové Zámky-sever | I/64, I/75 | 3,824
 
 - 064-010a | Nové Zámky-sever | I/64, I/75 | | MK-a, I/64 | 0,779
 
@@ -2598,49 +1986,21 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 064-012 | | I/64, III/064024 | Komjatice-juh | I/64 | 2,560
 
-- 064-i008 | Komjatice-juh | I/64 | Veľký Kýr-sever | I/64 | 5,402
-
 - 064-A013 | Veľký Kýr-sever | I/64 | Branč-juh | I/64 | 1,743
-
-- 064-i009 | Branč-juh | I/64 | Branč-sever | I/64 | 2,283
 
 - 064-014 | Branč-sever | I/64 | Ivanka pri Nitre-juh | I/64 | 0,732
 
-- 064-i010 | Ivanka pri Nitre-juh | I/64 | Ivanka pri Nitre-sever | I/64 | 3,100
-
 - 064-A015 | Ivanka pri Nitre-sever | I/64 | Nitra-juh | I/64 | 1,515
-
-- 064-i011 | Nitra-juh | I/64 | Nitra-východ 1 | I/51 | 8,758
-
-- 064-i012 | Nitra-juh | I/64 | Nitra-východ 2 | I/65 | 8,513
-
-- 064-i013 | Nitra-juh | I/64 | Nitra-sever | R1 | 8,714
-
-- 064-i014 | Nitra-východ 1 | I/51 | Nitra-východ 2 | I/65 | 2,294
-
-- 064-i015 | Nitra-východ 1 | I/51 | Nitra-sever | R1 | 2,730
-
-- 064-i017 | Nitra-Drážovce-juh | I/64 | Nitra-Drážovce-sever | I/64, II/593 | 1,659
 
 - 064-016 | Nitra-Drážovce-sever | I/64, II/593 | Čakajovce-juh | I/64 | 1,565
 
-- 064-i018 | Čakajovce-juh | I/64 | Čakajovce-sever | I/64 | 0,561
-
 - 064-017a | Čakajovce-sever | I/64 | Jelšovce-juh | I/64 | 0,954
-
-- 064-i019 | Jelšovce-juh | I/64 | Jelšovce-sever | I/64 | 1,224
 
 - 064-017b | Jelšovce-sever | I/64 | Výčapy-Opatovce-juh | I/64 | 1,977
 
-- 064-i020 | Výčapy-Opatovce-juh | I/64 | Výčapy-Opatovce-sever | I/64 | 2,312
-
 - 064-017c | Výčapy-Opatovce-sever | I/64 | Koniarovce-juh | I/64 | 0,438
 
-- 064-i021 | Koniarovce-juh | I/64 | Ludanice-sever | I/64 | 9,808
-
 - 064-A019 | Ludanice-sever | I/64 | Chrabrany-juh | I/64 | 2,034
-
-- 064-i022 | Chrabrany-juh | I/64 | Chrabrany-sever | I/64 | 1,533
 
 - 064-020 | Chrabrany-sever | I/64 | | III/064042, I/64 | 0,527
 
@@ -2648,21 +2008,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 064-022 | Solčany | III/064059, I/64 | Topoľčany-juh | I/64 | 0,518
 
-- 064-i023 | Topoľčany-juh | I/64 | Krušovce-juh | I/64 | 3,185
-
-- 064-i024 | Krušovce-juh | I/64 | Rajčany-sever | I/64 | 5,436
-
 - 064-A024 | Rajčany-sever | I/64 | Nadlice | I/64, II/592 | 1,018
 
 - 064-025 | Nadlice | I/64, II/592 | Chynorany | I/64, III/064069 | 1,252
 
 - 064-A026 | Chynorany | I/64, III/064069 | Žabokreky nad Nitrou-juh | I/64 | 1,798
 
-- 064-i025 | Žabokreky nad Nitrou-juh | I/64 | Žabokreky nad Nitrou-sever | I/64 | 2,094
-
 - 064-A027 | Žabokreky nad Nitrou-sever | I/64 | Partizánske-Malé Bielice-západ | I/64 | 1,731
-
-- 064-i026 | Partizánske-Malé Bielice-západ | I/64 | Malé Uherce-východ | I/64 | 6,585
 
 - 064-A028 | Malé Uherce-východ | I/64 | Pažiť | I/64, III/064072 | 1,923
 
@@ -2670,25 +2022,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 064-A031 | | II/512, I/64 | Oslany-juh | I/64 | 0,682
 
-- 064-i027 | Oslany-juh | I/64 | Oslany-sever | I/64 | 1,646
-
 - 064-032a | Oslany-sever | I/64 | Čereňany-juh | I/64 | 0,246
-
-- 064-i028 | Čereňany-juh | I/64 | Čereňany-sever | I/64 | 1,568
 
 - 064-032b | Čereňany-sever | I/64 | Dolná Domovina | III/064074, I/64 | 0,982
 
 - 064-033a | Dolná Domovina | III/064074, I/64 | Bystričany-juh | I/64 | 0,461
 
-- 064-i029 | Bystričany-juh | I/64 | Bystričany-sever | I/64 | 0,582
-
 - 064-033b | Bystričany-sever | I/64 | Bystričany-Vieska-juh | I/64 | 0,710
 
-- 064-i030 | Bystričany-Vieska-juh | I/64 | Bystričany-Vieska-sever | I/64 | 0,310
-
 - 064-033c | Bystričany-Vieska-sever | I/64 | Zemianske Kostoľany-juh | I/64 | 0,970
-
-- 064-i031 | Zemianske Kostoľany-juh | I/64 | Zemianske Kostoľany-sever | I/64 | 1,348
 
 - 064-034a1 | Zemianske Kostoľany-sever | I/64 | | MK-a2, I/64 | 1,176
 
@@ -2706,23 +2048,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 065-021c | Stará Kremnička 2 | | Bartošova Lehôtka-juh | I/65 | 4,098
 
-- 065-i004 | Bartošova Lehôtka-juh | I/65 | Bartošova Lehôtka-sever | I/65 | 1,666
-
 - 065-A022a | Bartošova Lehôtka-sever | I/65 | Horná Ves 1 | | 1,494
 
 - 065-022c | Horná Ves 1 | | Horná Ves 2 | | 1,092
 
 - 065-A022d | Horná Ves 2 | | Kremnica-juh | I/65 | 1,435
 
-- 065-i005 | Kremnica-juh | I/65 | Kremnica-sever | I/65 | 3,004
-
 - 065-A024 | Kremnica-sever | I/65 | Kremnické Bane-juh | I/65 | 1,117
 
-- 065-i006 | Kremnické Bane-juh | I/65 | Kremnické Bane-sever | I/65 | 1,581
-
 - 065-025 | | I/65, III/065031 | Turček-juh | I/65 | 2,231
-
-- 065-i007 | Turček-juh | I/65 | Turček-sever | I/65 | 0,878
 
 - 065-A026a | Turček-sever | I/65 | | I/65, MK-b | 2,525
 
@@ -2733,8 +2067,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 065-A030 | Turčianske Teplice-Šturec | I/14, I/65 | Turčianske Teplice | I/65, III/065036 | 2,826
 
 - 065-A031 | Turčianske Teplice | I/65, III/065036 | Turčianske Teplice-Diviaky-juh | I/65 | 1,226
-
-- 065-i009 | Turčianske Teplice-Diviaky-juh | I/65 | Turčianske Teplice-Diviaky-sever | I/65 | 1,246
 
 - 065-032 | Turčianske Teplice-Diviaky-sever | I/65 | Mošovce | I/65, III/065040 | 3,418
 
@@ -2758,8 +2090,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 065-039 | Príbovce | I/65, II/519 | Košťany nad Turcom-juh | I/65 | 3,263
 
-- 065-i010 | Košťany nad Turcom-juh | I/65 | Košťany nad Turcom-sever | I/65 | 0,544
-
 - 065-040 | Košťany nad Turcom-sever | I/65 | Martin-juh | I/65, I/65D | 0,873
 
 - 065-049 | Kremnické Bane-sever | I/65 | | I/65, III/065031 | 0,563
@@ -2768,11 +2098,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 066-001 | hranica SR/MR | | Šahy-juh | I/66 | 0,566
 
-- 066-i001 | Šahy-juh | I/66 | Šahy-sever | I/66 | 3,033
-
 - 066-A003a | Šahy-sever | I/66 | Hrkovce-východ | I/66 | 2,533
-
-- 066-i002 | Hrkovce-východ | I/66 | Hrkovce-západ | I/66 | 1,029
 
 - 066-A003b | Hrkovce-západ | I/66 | Tupá | I/66, III/508020 | 1,708
 
@@ -2780,29 +2106,19 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 066-006a | | I/66, I/75 | Horné Semerovce-juh | I/66 | 1,022
 
-- 066-i003 | Horné Semerovce-juh | I/66 | Horné Semerovce-sever | I/66 | 0,764
-
 - 066-006b | Horné Semerovce-sever | I/66 | | I/66, I/75 | 0,414
 
 - 066-007 | | I/66, I/75 | Hokovce-juh | I/66 | 1,974
-
-- 066-i004 | Hokovce-juh | I/66 | Hokovce-sever | I/66 | 1,164
 
 - 066-008 | Hokovce-sever | I/66 | | I/66, III/051062 | 0,356
 
 - 066-A009 | | I/66, III/051062 | Dudince-juh | I/66 | 0,536
 
-- 066-i005 | Dudince-juh | I/66 | Dudince-sever | I/66 | 0,948
-
 - 066-011a | Dudince-sever | I/66 | Terany-juh | I/66 | 0,771
-
-- 066-i006 | Terany-juh | I/66 | Terany-sever | I/66 | 1,411
 
 - 066-011b | Terany-sever | I/66 | Patkoš | I/66, III/051063 | 1,249
 
 - 066-012 | | I/66, III/051063 | Hontianske Tesáre-juh | I/66 | 0,521
-
-- 066-i007 | Hontianske Tesáre-juh | I/66 | Hontianske Tesáre-sever | I/66 | 0,992
 
 - 066-A013 | Hontianske Tesáre-sever | I/66 | | I/66, III/066007 | 0,992
 
@@ -2810,25 +2126,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 066-016b | Hontianske Tesáre-Pírovské | | Domaníky-juh | I/66 | 5,005
 
-- 066-i008 | Domaníky-juh | I/66 | Domaníky-sever | I/66 | 0,905
-
 - 066-017 | Domaníky-sever | I/66 | Hontianske Nemce-juh | I/66 | 1,739
 
 - 066-018a | Hontianske Nemce-východ | I/66 | Hontianske Nemce-Rakovec-západ | I/66 | 0,483
 
-- 066-i009 | Hontianske Nemce-Rakovec-západ | I/66 | Hontianske Nemce-Rakovec-východ | I/66 | 1,245
-
 - 066-018b | Hontianske Nemce-Rakovec-východ | I/66 | Devičie-juh | I/66 | 1,790
-
-- 066-i010 | Devičie-juh | I/66 | Devičie-sever | I/66 | 0,233
 
 - 066-A019 | Devičie-sever | I/66 | Bzovík | I/66, II/526 | 1,299
 
 - 066-A021 | Bzovík | I/66, II/526 | | I/66, III/066009 | 2,089
 
 - 066-A022 | | I/66, III/066009 | Krupina-juh | I/66 | 1,689
-
-- 066-i011 | Krupina-juh | I/66 | Krupina-sever | I/66 | 3,936
 
 - 066-023a1 | Krupina-sever | I/66 | | MK-a2, I/66 | 0,239
 
@@ -2844,11 +2152,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 066-A027a | | I/66, II/527 | Dobrá Niva-juh | I/66 | 1,904
 
-- 066-i012 | Dobrá Niva-juh | I/66 | Dobrá Niva-sever | I/66 | 1,843
-
 - 066-A027b | Dobrá Niva-sever | I/66 | Podzámčok-juh | I/66 | 1,758
-
-- 066-i013 | Podzámčok-juh | I/66 | Podzámčok-sever | I/66 | 0,550
 
 - 066-A028 | Podzámčok-sever | I/66 | Breziny | I/66, III/066013 | 2,009
 
@@ -2898,25 +2202,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 066-047b | | MK-b, I/66 | Podbrezová-Lopej-západ | I/66 | 2,528
 
-- 066-i014 | Podbrezová-Lopej-západ | I/66 | Podbrezová-Lopej-východ | I/66 | 0,667
-
 - 066-048 | Podbrezová-Lopej-východ | I/66 | Podbrezová-Skalica-západ | I/66 | 0,744
-
-- 066-i015 | Podbrezová-Skalica-západ | I/66 | Valaská-Piesok-sever | I/72 | 6,397
 
 - Zoznam úsekov na ceste I/68 | | | | |
 
 - 068-001 | Košice-juh | I/68 | Košice-Šebastovce-sever | I/68 | 1,106
 
-- 068-i001 | Košice-Šebastovce-sever | I/68 | Košice-Šebastovce-juh | I/68 | 0,843
-
 - 068-002b1 | Košice-Šebastovce-juh | I/68 | | R4, I/68 | 0,900
-
-- Zoznam úsekov na ceste I/69 | | | | |
-
-- 069-i004 | Banská Bystrica-juh | I/69, R1 | Banská Bystrica-sever | I/59 | 9,074
-
-- 069-i005 | Banská Bystrica-východ | I/66, R1 | Banská Bystrica-sever | I/59 | 8,548
 
 - Zoznam úsekov na ceste I/70 | | | | |
 
@@ -2924,39 +2216,21 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 070-002 | | MK, I/70 | Párnica-juh | I/70 | 4,825
 
-- 070-i001 | Párnica-juh | I/70 | Párnica-sever | I/70 | 2,052
-
 - 070-003 | Párnica-sever | I/70 | Istebné-západ | I/70 | 1,046
-
-- 070-i002 | Istebné-západ | I/70 | Istebné-východ | I/70 | 0,653
 
 - 070-004 | Istebné-východ | I/70 | Veličná-západ | I/70 | 0,800
 
-- 070-i003 | Veličná-západ | I/70 | Veličná-východ | I/70 | 1,391
-
 - 070-005 | Veličná-východ | I/70 | Dolný Kubín-západ | I/70 | 1,337
-
-- 070-i004 | Dolný Kubín-západ | I/70 | Dolný Kubín-juh | I/59 | 4,387
-
-- 070-i005 | Dolný Kubín-západ | I/70 | Dolný Kubín-východ | I/59 | 2,526
-
-- 070-i006 | Dolný Kubín-juh | I/59 | Dolný Kubín-východ | I/59 | 2,709
 
 - Zoznam úsekov na ceste I/72 | | | | |
 
 - 072-001 | Valaská-Piesok-sever | I/72 | Bystrá-juh | I/72 | 2,047
 
-- 072-i001 | Bystrá-juh | I/72 | Bystrá-sever | I/72 | 1,489
-
 - 072-002a | Bystrá-sever | I/72 | Mýto pod Ďumbierom-juh | I/72 | 1,343
-
-- 072-i002 | Mýto pod Ďumbierom-juh | I/72 | Mýto pod Ďumbierom-sever | I/72 | 1,990
 
 - 072-002b | Mýto pod Ďumbierom-sever | I/72 | | MK-b, I/72 | 0,577
 
 - 072-003b | | MK-b, I/72 | Jarabá-juh | I/72 | 4,413
-
-- 072-i003 | Jarabá-juh | I/72 | Jarabá-sever | I/72 | 1,517
 
 - 072-A003c | Jarabá-sever | I/72 | | MK-e, I/72 | 0,841
 
@@ -2971,8 +2245,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 072-003h | Vyšná Boca 3 | MK-h, I/72 | | MK-i, I/72 | 1,291
 
 - 072-003i | | MK-i, I/72 | Nižná Boca-juh | I/72 | 0,881
-
-- 072-i004 | Nižná Boca-juh | I/72 | Nižná Boca-sever | I/72 | 0,774
 
 - 072-003j1 | Nižná Boca-sever | I/72 | | MK-j2, I/72 | 0,516
 
@@ -2992,11 +2264,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 073-001 | Lipníky-sever | I/73 | Lipníky-Podhrabina-juh | III/576001, I/73 | 0,746
 
-- 073-i001 | Lipníky-Podhrabina-juh | III/576001, I/73 | Chmeľov-Podhrabina-sever | I/73 | 1,532
-
 - 073-002 | Chmeľov-Podhrabina-sever | I/73 | Chmeľov-juh | I/73 | 0,535
-
-- 073-i002 | Chmeľov-juh | I/73 | Chmeľov-sever | I/73 | 0,539
 
 - 073-003a | Chmeľov-sever | I/73 | | Mk-b, I/73 | 1,109
 
@@ -3008,39 +2276,23 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 073-005 | Kuková | I/73, III/545018 | Lúčka-západ | I/73 | 0,669
 
-- 073-i003 | Lúčka-západ | I/73 | Kračúnovce-východ | I/73 | 2,205
-
 - 073-A006 | Kračúnovce-východ | I/73 | Giraltovce-juh | I/73 | 0,774
 
-- 073-i004 | Giraltovce-juh | I/73 | Giraltovce-sever | I/73 | 2,629
-
 - 073-008a | Giraltovce-sever | I/73 | Giraltovce-Francovce-západ | I/73 | 2,088
-
-- 073-i005 | Giraltovce-Francovce-západ | I/73 | Giraltovce-Francovce-východ | I/73 | 0,654
 
 - 073-008b | Giraltovce-Francovce-východ | I/73 | Fijaš | I/73, II/556 | 0,322
 
 - 073-009a1 | Fijaš | I/73, II/556 | Matovce-juh | I/73 | 0,479
 
-- 073-i006 | Matovce-juh | I/73 | Matovce-sever | I/73 | 0,282
-
 - 073-009a2 | Matovce-sever | I/73 | Soboš-juh | I/73 | 0,389
-
-- 073-i007 | Soboš-juh | I/73 | Soboš-sever | I/73 | 0,525
 
 - 073-A009c | Soboš-sever | I/73 | Valkovce | I/73, III/556018 | 2,116
 
 - 073-A010 | Valkovce | I/73, III/556018 | Okrúhle-juh | I/73 | 1,333
 
-- 073-i008 | Okrúhle-juh | I/73 | Okrúhle-sever | I/73 | 1,173
-
 - 073-011 | Okrúhle-sever | I/73 | Radoma-juh | I/73 | 1,159
 
-- 073-i009 | Radoma-juh | I/73 | Radoma-sever | I/73 | 1,348
-
 - 073-012 | Radoma-sever | I/73 | Šarišský Štiavnik-juh | I/73 | 0,649
-
-- 073-i010 | Šarišský Štiavnik-juh | I/73 | Šarišský Štiavnik-sever | I/73 | 1,030
 
 - 073-013a | Šarišský Štiavnik-sever | I/73 | | Mk-b, I/73 | 1,203
 
@@ -3048,15 +2300,11 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 073-013c1 | | Mk-c, I/73 | Rakovčík-juh | I/73 | 0,836
 
-- 073-i011 | Rakovčík-juh | I/73 | Rakovčík-sever | I/73 | 0,518
-
 - 073-013c2 | Rakovčík-sever | I/73 | Mestisko | Mk-b, I/73 | 0,247
 
 - 073-A014 | Mestisko | Mk-b, I/73 | | I/15, I/73 | 1,888
 
 - 073-A016a | | I/15, I/73 | Stročín-juh | I/73 | 1,086
-
-- 073-i012 | Stročín-juh | I/73 | Stročín-sever | I/73 | 0,871
 
 - 073-016d | Stročín-sever | I/73 | | Mk-e, I/73 | 0,231
 
@@ -3068,21 +2316,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 073-A019 | Kapišová | I/73, R4 | Ladomírová-juh | I/73 | 2,022
 
-- 073-i014 | Ladomírová-juh | I/73 | Ladomírová-sever | I/73 | 1,110
-
 - 073-020 | Ladomírová-sever | I/73 | Krajné Čierno | III/556026, I/73 | 2,293
 
 - 073-A021 | Krajné Čierno | III/556026, I/73 | Hunkovce-juh | I/73 | 0,761
 
-- 073-i015 | Hunkovce-juh | I/73 | Hunkovce-sever | I/73 | 1,374
-
 - 073-A022 | Hunkovce-sever | I/73 | Krajná Poľana-juh | I/73 | 1,280
 
-- 073-i016 | Krajná Poľana-juh | I/73 | Krajná Poľana-sever | I/73 | 0,896
-
 - 073-A024a | Krajná Poľana-sever | I/73 | Nižný Komárnik-juh | I/73 | 1,124
-
-- 073-i017 | Nižný Komárnik-juh | I/73 | Nižný Komárnik-sever | I/73 | 0,559
 
 - 073-024c1 | Nižný Komárnik-sever | I/73 | | MK-c1, I/73 | 0,667
 
@@ -3100,11 +2340,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 075-001 | | I/62, I/75 | Sládkovičovo-západ | I/75 | 0,453
 
-- 075-i001 | Sládkovičovo-západ | I/75 | Sládkovičovo-východ | I/75 | 0,509
-
 - 075-002 | Sládkovičovo-východ | I/75 | Galanta-západ | I/75 | 4,316
-
-- 075-i002 | Galanta-západ | I/75 | Galanta-východ | I/75 | 3,361
 
 - 075-004 | Galanta-východ | I/75 | | I/75 | 0,496
 
@@ -3126,13 +2362,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 075-013 | Kráľová nad Váhom 3 | MK, I/75 | Šaľa-západ | I/75 | 1,081
 
-- 075-i003 | Šaľa-západ | I/75 | Šala-Veča-východ | I/75 | 4,017
-
 - 075-014 | Šala-Veča-východ | I/75 | | I/75 | 1,814
 
 - 075-015 | | III/064022, I/75 | Trnovec nad Váhom-západ | I/75 | 0,370
-
-- 075-i004 | Trnovec nad Váhom-západ | I/75 | Trnovec nad Váhom-východ | I/75 | 1,424
 
 - 075-016 | Trnovec nad Váhom-východ | I/75 | Horný Jatov | III/508044, I/75 | 0,589
 
@@ -3140,11 +2372,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 075-018 | Kendereš | MK, I/75 | Jatov-sever | I/75 | 2,747
 
-- 075-i005 | Jatov-sever | I/75 | Jatov-juh | I/75 | 1,426
-
 - 075-019 | Jatov-juh | I/75 | Tvrdošovce-sever | I/75 | 2,467
-
-- 075-i006 | Tvrdošovce-sever | I/75 | Tvrdošovce-juh | I/75 | 2,878
 
 - 075-020 | Tvrdošovce-juh | I/75 | Palárikovo | I/75 | 3,237
 
@@ -3164,8 +2392,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 075-028 | | MK, I/75 | Dvory nad Žitavou-západ | I/75 | 1,138
 
-- 075-i007 | Dvory nad Žitavou-západ | I/75 | Dvory nad Žitavou-východ | I/75 | 1,653
-
 - 075-029 | Dvory nad Žitavou-východ | I/75 | | MK, I/75 | 0,774
 
 - 075-030 | | MK, I/75 | Jasová | III/508053, I/75 | 3,191
@@ -3176,23 +2402,17 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 075-033 | Semerovo 2 | III/508016, I/75 | Kolta-západ | I/75 | 3,127
 
-- 075-i008 | Kolta-západ | I/75 | Kolta-východ | I/75 | 1,312
-
 - 075-034 | Kolta-východ | I/75 | | MK, I/75 | 1,289
 
 - 075-035 | | MK, I/75 | Dedinka | III/580005, I/75 | 3,168
 
 - 075-036 | Dedinka | III/580005, I/75 | Čaka-juh | I/75 | 1,221
 
-- 075-i009 | Čaka-juh | I/75 | Čaka-sever | I/75 | 1,417
-
 - 075-037 | Čaka-sever | I/75 | Málaš 1 | MK, I/75 | 2,199
 
 - 075-038 | Málaš 1 | MK, I/75 | Málaš 2 | II/588, I/75 | 2,367
 
 - 075-039 | Málaš 2 | II/588, I/75 | Tekovské Lužany-juh | I/75 | 2,486
-
-- 075-i010 | Tekovské Lužany-juh | I/75 | Tekovské Lužany-východ | I/75 | 2,405
 
 - 075-040 | Tekovské Lužany-východ | I/75 | Šarovce | I/76, I/75 | 5,025
 
@@ -3201,8 +2421,6 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 075-042 | Jur nad Hronom | III/051053, I/75 | Hontianska Vrbica | III/510001, I/75 | 4,735
 
 - 075-043 | Hontianska Vrbica | III/510001, I/75 | Demandice-západ | I/75 | 5,642
-
-- 075-i011 | Demandice-západ | I/75 | Demnadice-východ | I/75 | 1,483
 
 - 075-044 | Demnadice-východ | I/75 | Dolný Majer | MK, I/75 | 1,550
 
@@ -3218,45 +2436,27 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 076-001 | Štúrovo-sever | I/76 | Nána-juh | I/76 | 0,554
 
-- 076-i001 | Nána-juh | I/76 | Nána-sever | I/76 | 1,538
-
 - 076-002a1 | Nána-sever | I/76 | | I/76 | 0,577
 
 - 076-002a2 | | MK-a1, I/76 | | MK-a2, I/76 | 0,839
 
 - 076-002a3 | | MK-a2, I/76 | Kamenný Most-juh | I/76 | 2,191
 
-- 076-i002 | Kamenný Most-juh | I/76 | Kamenný Most-sever | I/76 | 1,715
-
 - 076-A002b | Kamenný Most-sever | I/76 | | I/76 | 1,345
 
 - 076-003 | | I/76, III/510010 | Kamenín-juh | I/76 | 2,433
 
-- 076-i003 | Kamenín-juh | I/76 | Kamenín-sever | I/76 | 1,048
-
 - 076-A004 | Kamenín-sever | I/76 | Bíňa-juh | I/76 | 1,930
-
-- 076-i004 | Bíňa-juh | I/76 | Bíňa-sever | I/76 | 2,054
 
 - 076-A005a | Bíňa-sever | I/76 | Čata-juh | I/76 | 1,999
 
-- 076-i005 | Čata-juh | I/76 | Pohronský Ruskov-sever | I/76 | 4,557
-
 - 076-A005c | Pohronský Ruskov-sever | I/76 | Hronovce-juh | I/76 | 0,524
-
-- 076-i006 | Hronovce-juh | I/76 | Hronovce-sever | I/76 | 2,695
 
 - 076-A006 | Hronovce-sever | I/76 | Želiezovce-juh | I/76 | 2,548
 
-- 076-i007 | Želiezovce-juh | I/76 | Želiezovce-sever | I/76 | 3,940
-
 - 076-007a1 | Želiezovce-sever | I/76 | Želiezovce-Svodov-juh | I/76 | 0,577
 
-- 076-i008 | Želiezovce-Svodov-juh | I/76 | Svodov-sever | I/76 | 1,099
-
 - 076-007a2 | Svodov-sever | I/76 | Šárovce-juh | I/76 | 1,868
-
-- 076-i009 | Šárovce-juh | I/76 | Šárovce-sever | I/76 | 1,867
 
 - 076-007c | Šárovce-sever | I/76 | | I/75, I/76 | 0,231
 
@@ -3280,25 +2480,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 076-014b | Kalnica 2 | | Nový Tekov-juh | I/76 | 1,958
 
-- 076-i010 | Nový Tekov-juh | I/76 | Nový Tekov-sever | I/76 | 2,555
-
 - 076-014c | Nový Tekov-sever | I/76 | Malé Kozmálovce-juh | I/76 | 2,084
 
-- 076-i011 | Malé Kozmálovce-juh | I/76 | Malé Kozmálovce-sever | I/76 | 0,828
-
 - 076-A015 | Malé Kozmálovce-sever | I/76 | Tlmače-juh | I/76 | 1,830
-
-- 076-i012 | Tlmače-juh | I/76 | Tlmače-sever | I/76 | 0,384
 
 - 076-A016 | Tlmače-sever | I/76 | Kozárovce | I/76 | 1,946
 
 - 076-017a | Kozárovce | I/76, III/510026 | Hronský Beňadik-Psiare-juh | I/76 | 2,048
 
-- 076-i013 | Hronský Beňadik-Psiare-juh | I/76 | Hronský Beňadik-Psiare-sever | I/76 | 0,937
-
 - 076-017b | Hronský Beňadik-Psiare-sever | I/76 | Hronský Beňadik-juh | I/76 | 1,042
-
-- 076-i014 | Hronský Beňadik-juh | I/76 | Hronský Beňadik-sever | I/76 | 1,815
 
 - 076-018 | Hronský Beňadik-sever | I/76 | | I/76 | 0,942
 
@@ -3306,15 +2496,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-A001 | | I/79, III/553016 | Slovenské Nové Mesto-sever | I/79 | 0,175
 
-- 079-i001 | Slovenské Nové Mesto-sever | I/79 | Slovenské Nové Mesto-východ | I/79 | 2,032
-
 - 079-003 | Slovenské Nové Mesto-východ | I/79 | Borša-západ | I/79 | 0,932
 
-- 079-i002 | Borša-západ | I/79 | Borša-východ | I/79 | 1,759
-
 - 079-004a | Borša-východ | I/79 | Viničky-západ | I/79 | 0,654
-
-- 079-i003 | Viničky-západ | I/79 | Viničky-východ | I/79 | 1,883
 
 - 079-004b | Viničky-východ | I/79 | Streda nad Bodrogom 1 | I/79 | 0,524
 
@@ -3322,25 +2506,15 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-006c | | Mk-b, I/79 | Somotor-juh | I/79 | 2,431
 
-- 079-i004 | Somotor-juh | I/79 | Somotor-sever | I/79 | 2,101
-
 - 079-007 | Somotor-sever | I/79 | | I/79 | 0,582
 
 - 079-A008 | | I/79, III/553028 | Svätá Mária-juh | I/79 | 2,294
 
-- 079-i005 | Svätá Mária-juh | I/79 | Svätá Mária-sever | I/79 | 0,461
-
 - 079-010 | Svätá Mária-sever | I/79 | Rad-Hrušov-západ | I/79 | 0,825
-
-- 079-i006 | Rad-Hrušov-západ | I/79 | Rad-Hrušov-východ | I/79 | 1,023
 
 - 079-011 | Rad-Hrušov-východ | I/79 | Svätuše-západ | I/79 | 3,125
 
-- 079-i007 | Svätuše-západ | I/79 | Svätuše-východ | I/79 | 1,369
-
 - 079-012 | Svätuše-východ | I/79 | Kráľovský Chlmec-západ | I/79 | 3,420
-
-- 079-i008 | Kráľovský Chlmec-západ | I/79 | Kráľovský Chlmec-východ | I/79 | 1,462
 
 - 079-A013 | Kráľovský Chlmec-východ | I/79 | Dobrá nad Krčavou | I/79 | 2,851
 
@@ -3348,11 +2522,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-015 | Bačka | I/79, III/553036 | Boťany-západ | I/79 | 1,818
 
-- 079-i009 | Boťany-západ | I/79 | Boťany-východ | I/79 | 0,415
-
 - 079-A016 | Boťany-východ | I/79 | Čierna-západ | I/79 | 1,803
-
-- 079-i010 | Čierna-západ | I/79 | Čierna-východ | I/79 | 0,630
 
 - 079-018 | Čierna-východ | I/79 | | I/79 | 0,922
 
@@ -3362,15 +2532,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-022 | Vranov nad Topľou-juh | I/79 | Lomnica-sever | I/79 | 1,050
 
-- 079-i011 | Lomnica-sever | I/79 | Lomnica-juh | I/79 | 1,570
-
 - 079-023 | Lomnica-juh | I/79 | Sačurov-sever | I/79 | 2,095
 
-- 079-i012 | Sačurov-sever | I/79 | Sačurov-juh | I/79 | 1,355
-
 - 079-024 | Sačurov-juh | I/79 | Sečovská Polianka-sever | I/79 | 2,319
-
-- 079-i013 | Sečovská Polianka-sever | I/79 | Sečovská Polianka-juh | I/79 | 2,537
 
 - 079-025 | Sečovská Polianka-juh | I/79 | Višňov | III/050208, I/79 | 2,286
 
@@ -3378,21 +2542,13 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-027 | Prachovany | III/553006, III/553007, I/79 | Dvorianky-sever | I/79 | 1,788
 
-- 079-i014 | Dvorianky-sever | I/79 | Dvorianky-juh | I/79 | 0,858
-
 - 079-028 | Dvorianky-juh | I/79 | Hriadky-sever | I/79 | 2,491
 
 - 079-029 | Hriadky-juh | I/79 | Vojčice-sever | I/79 | 1,043
 
-- 079-i015 | Vojčice-sever | I/79 | Vojčice-juh | I/79 | 1,321
-
 - 079-030 | Vojčice-juh | I/79 | Trebišov-Milhostov-sever | I/79 | 0,214
 
-- 079-i016 | Trebišov-Milhostov-sever | I/79 | Trebišov-Milhostov-juh | I/79 | 1,264
-
 - 079-031 | Trebišov-Milhostov-juh | I/79 | Trebišov-sever | I/79 | 0,523
-
-- 079-i017 | Trebišov-sever | I/79 | Trebišov-západ | I/79 | 3,048
 
 - 079-032 | Trebišov-západ | I/79 | Nový Ruskov | III/553010, I/79 | 0,903
 
@@ -3412,13 +2568,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 079-040 | Hrčeľ | III/553013, I/79 | Veľaty-sever | I/79 | 2,463
 
-- 079-i018 | Veľaty-sever | I/79 | Veľaty-juh | I/79 | 1,007
-
 - 079-041 | Veľaty-juh | I/79 | Luhyňa | III/552011, I/79 | 4,066
 
 - 079-042 | Luhyňa | III/552011, I/79 | Čerhov-sever | I/79 | 1,910
-
-- 079-i019 | Čerhov-sever | I/79 | Čerhov-juh | I/79 | 0,898
 
 - 079-043 | Čerhov-juh | I/79 | Malá Tŕňa | III/553014, I/79 | 1,609
 
@@ -3427,6 +2579,52 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 4. VYMEDZENÉ ÚSEKY OSTATNÝCH CIEST I. TRIEDY
 
 - Identifikátor | Začiatok úseku | Križovanie | Koniec úseku | Križovanie | Spoplatnená dĺžka v km
+
+- Zoznam úsekov na ceste I/2 | | | | |
+
+- 002-i001 | Kopčany-sever | I/2 | Kopčany-juh | I/2 | 2,239
+
+- 002-i002 | Gbely-Adamov-sever | I/2 | Gbely-Adamov-juh | I/2 | 0,657
+
+- 002-i003 | Kúty-sever | I/2 | Kúty-juh | I/2 | 2,279
+
+- 002-i004 | Sekule-sever | I/2 | Sekule-juh | I/2 | 1,511
+
+- 002-i005 | Moravský Svätý Ján-sever | I/2 | Moravský Svätý Ján-juh | I/2 | 1,131
+
+- 002-i006 | Veľké Leváre-sever | I/2 | Veľké Leváre-juh | I/2 | 1,482
+
+- 002-i007 | Malacky-sever | I/2 | Malacky-juh | I/2 | 4,063
+
+- 002-i008 | Stupava-sever | I/2 | Stupava-juh | I/2 | 3,434
+
+- 002-i009 | Bratislava-sever | I/2 | Bratislava-Lamač | I/2, D2 | 4,780
+
+- Zoznam úsekov na ceste I/11 | | | | |
+
+- 011-i001 | Svrčinovec-Zátky-západ | I/11 | Svrčinovec-Zátky-východ | I/11 | 1,125
+
+- 011-i002 | Svrčinovec-západ | I/11 | Čadca-Horelica | I/11 | 10,346
+
+- 011-i003 | Svrčinovec-západ | I/11 | Čadca-juh | I/11A | 6,052
+
+- 011-i004 | Svrčinovec-západ | I/11 | Svrčinovec-sever | I/12 | 1,721
+
+- 011-i005 | Svrčinovec-sever | I/12 | Čadca-Horelica | I/11 | 9,775
+
+- 011-i006 | Svrčinovec-sever | I/12 | Čadca-juh | I/11A | 5,481
+
+- 011-i007 | Čadca-juh | I/11A | Čadca-Horelica | I/11 | 4,956
+
+- 011-i008 | Povina-sever | I/11 | Povina-juh | I/11 | 0,403
+
+- 011-i009 | Kysucké Nové Mesto-Budatínska Lehota | I/11 | Radoľa | I/11 | 1,090
+
+- Zoznam úsekov na ceste I/12 | | | | |
+
+- 012-i001 | Čierne-juh | I/12 | Čierne-sever | I/12 | 4,550
+
+- 012-i002 | Skalité-západ | I/12 | Skalité-východ | I/12 | 7,087
 
 - Zoznam úsekov na ceste I/14 | | | | |
 
@@ -3444,7 +2642,163 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 014-005 | Čremošné | III/065036, I/14 | | I/14,I/65 | 4,977
 
+- Zoznam úsekov na ceste I/15 | | | | |
+
+- 015-i001 | Majerovce-juh | I/15 | Majerovce-sever | I/15 | 0,987
+
+- 015-i002 | Sedliská-juh | I/15 | Sedliská-Podčičva-sever | I/15 | 2,414
+
+- 015-i003 | Benkovce-juh | I/15 | Benkovce-sever | I/15 | 1,186
+
+- 015-i004 | Slovenská Kajňa-juh | I/15 | Slovenská Kajňa-sever | I/15 | 0,284
+
+- 015-i005 | Malá Domaša-juh | I/15 | Malá Domaša-sever | I/15 | 0,846
+
+- 015-i006 | Turany nad Ondavou-juh | I/15 | Turany nad Ondavou-sever | I/15 | 0,747
+
+- 015-i007 | Miňovce-juh | I/15 | Miňovce-sever | I/15 | 0,861
+
+- 015-i008 | Breznica-juh | I/15 | Breznica-sever | I/15 | 1,897
+
+- 015-i009 | Stropkov-Sitník-juh | I/15 | Stropkov-Sitník-sever | I/15 | 0,510
+
+- 015-i010 | Stropkov-juh | I/15 | Stropkov-sever | I/15 | 2,589
+
+- 015-i011 | Tisinec-juh | I/15 | Tisinec-sever | I/15 | 0,970
+
+- 015-i012 | Duplín-juh | I/15 | Duplín-sever | I/15 | 1,065
+
 - Zoznam úsekov na ceste I/18 | | | | |
+
+- 018-i001 | Kapušany-západ | I/18 | Kapušany-východ | I/18 | 1,115
+
+- 018-i002 | Lada-západ | I/18 | Lada-východ | I/18 | 1,154
+
+- 018-i003 | Lipníky-západ | I/18 | Lipníky-sever | I/73 | 1,575
+
+- 018-i004 | Lipníky-západ | I/18 | Lipníky-východ | I/18 | 1,441
+
+- 018-i005 | Lipníky-východ | I/18 | Lipníky-sever | I/73 | 0,612
+
+- 018-i006 | Makov-západ | I/18 | Makov-východ | I/18 | 4,712
+
+- 018-i007 | Kolárovice-sever | I/18 | Kolárovice-juh | I/18 | 3,484
+
+- 018-i008 | Bytča-sever | I/18 | Bytča-juh | I/18 | 1,927
+
+- 018-i009 | Dolný Hričov-juh | I/18 | Dolný Hričov-sever | I/18 | 3,099
+
+- 018-i010 | Žilina-Strážov-západ | I/18 | Žilina-východ | I/18 | 7,583
+
+- 018-i011 | Žilina-Strážov-západ | I/18 | Žilina-sever | I/11 | 4,625
+
+- 018-i012 | Žilina-sever | I/11 | Žilina-východ | I/18 | 4,902
+
+- 018-i013 | Martin-sever | I/18 | Martin-juh | I/65, I/65D | 10,689
+
+- 018-i014 | Martin-sever | I/18 | Martin-východ | I/18 | 5,546
+
+- 018-i015 | Martin-juh | I/65, I/65D | Martin-východ | I/18 | 8,242
+
+- 018-i016 | Sučany-západ | I/18 | Sučany-východ | I/18 | 2,412
+
+- 018-i017 | Rojkov-západ | I/18 | Rojkov-východ | I/18 | 0,654
+
+- 018-i018 | Ľubochňa-západ | I/18 | Hubová-východ | I/18 | 2,558
+
+- 018-i019 | Ružomberok-západ | I/18 | Ružomberok-juh | I/59 | 10,742
+
+- 018-i020 | Ružomberok-západ | I/18 | Ružomberok-východ | I/18 | 5,080
+
+- 018-i021 | Ružomberok-západ | I/18 | Likavka-sever | I/59 | 5,487
+
+- 018-i022 | Ružomberok-juh | I/59 | Ružomberok-východ | I/18 | 6,972
+
+- 018-i023 | Ružomberok-juh | I/59 | Likavka-sever | I/59 | 10,137
+
+- 018-i024 | Ružomberok-východ | I/18 | Likavka-sever | I/59 | 4,475
+
+- 018-i025 | Štrba-západ | I/18 | Štrba-východ | I/18 | 0,702
+
+- 018-i026 | Svit-západ | I/18 | Svit-východ | I/18 | 3,300
+
+- 018-i027 | Poprad-západ | I/18 | Poprad-východ | I/18 | 4,123
+
+- 018-i028 | Hozelec-západ | I/18 | Hozelec-východ | I/18 | 0,543
+
+- 018-i029 | Švábovce-západ | I/18 | Švábovce-východ | I/18 | 0,663
+
+- 018-i030 | Hôrka-západ | I/18 | Hôrka-východ | I/18 | 2,016
+
+- 018-i031 | Jánovce-západ | I/18 | Jánovce-východ | I/18 | 1,264
+
+- 018-i032 | Levoča-západ | I/18 | Levoča-východ | I/18 | 2,870
+
+- 018-i033 | Spišský Hrhov-západ | I/18 | Spišský Hrhov-východ | I/18 | 0,645
+
+- 018-i034 | Klčov-západ | I/18 | Klčov-východ | I/18 | 0,403
+
+- 018-i035 | Nemešany-západ | I/18 | Nemešany-východ | I/18 | 0,395
+
+- 018-i036 | Hendrichovce-západ | I/18 | Hendrichovce-východ | I/18 | 0,896
+
+- 018-i037 | Bertotovce-západ | I/18 | Bertotovce-východ | I/18 | 1,430
+
+- 018-i038 | Chminianska Nová Ves-západ | I/18 | Chminianska Nová Ves-východ | I/18 | 1,911
+
+- 018-i039 | Malý Šariš-západ | I/18 | Malý Šariš-východ | I/18 | 0,428
+
+- 018-i040 | Prešov-západ | I/18, D1 | Prešov-juh 1 | I/68 | 9,460
+
+- 018-i041 | Prešov-západ | I/18, D1 | Prešov-juh 2 | D1 | 9,343
+
+- 018-i042 | Prešov-západ | I/18, D1 | Prešov-východ | I/18 | 7,027
+
+- 018-i043 | Prešov-juh 1 | I/68 | Prešov-juh 2 | D1 | 3,663
+
+- 018-i044 | Prešov-juh 1 | I/68 | Prešov-východ | I/18 | 10,101
+
+- 018-i045 | Prešov-juh 2 | D1 | Prešov-východ | I/18 | 9,984
+
+- 018-i046 | Ivachnová-západ | I/18 | Ivachnová-východ | I/18 | 0,457
+
+- 018-i047 | Liptovský Mikuláš-západ | I/18 | Liptovský Mikuláš-východ | I/18 | 6,338
+
+- 018-i048 | Podtureň-západ | I/18 | Podtureň-východ | I/18 | 0,916
+
+- 018-i049 | Podtureň-Roveň-západ | I/18 | Liptovský Hrádok-východ | I/18 | 1,933
+
+- 018-i050 | Hybe-západ | I/18 | Hybe-východ | I/18 | 1,829
+
+- 018-i051 | Východná-západ | I/18 | Východná-východ | I/18 | 2,192
+
+- 018-i052 | Korytné-západ | I/18 | Korytné-východ | I/18 | 0,133
+
+- 018-i053 | Branisko-západ | I/18 | Branisko-východ | I/18 | 0,505
+
+- 018-i054 | Široké-západ | I/18 | Široké-východ | I/18 | 2,266
+
+- 018-i055 | Fričovce-západ | I/18 | Fričovce-východ | I/18 | 1,995
+
+- 018-i056 | Podlipníky-západ | I/18 | Podlipníky-východ | I/18 | 0,354
+
+- 018-i057 | Hanušovce nad Topľou-západ | I/18 | Hanušovce nad Topľou-východ | I/18 | 1,634
+
+- 018-i058 | Bystré-sever | I/18 | Bystré-juh | I/18 | 0,956
+
+- 018-i059 | Čierne nad Topľou-sever | I/18 | Čierne nad Topľou-juh | I/18 | 1,811
+
+- 018-i060 | Hlinné-sever | I/18 | Hlinné-juh | I/18 | 0,905
+
+- 018-i061 | Soľ-sever | I/18 | Soľ-juh | I/18 | 1,606
+
+- 018-i062 | Čaklov-sever | I/18 | Čaklov-juh | I/18 | 1,371
+
+- 018-i063 | Vranov nad Topľou-západ | I/18 | Vranov nad Topľou-juh | I/79 | 3,007
+
+- 018-i064 | Vranov nad Topľou-západ | I/18 | Vranov nad Topľou-východ | I/18 | 1,657
+
+- 018-i065 | Vranov nad Topľou-juh | I/79 | Vranov nad Topľou-východ | I/18 | 2,722
 
 - 018-132 | | I/15, I/18 | Hencovce | III/558001, III/018237, I/18 | 1,440
 
@@ -3482,7 +2836,237 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 018-i074 | Michalovce-sever | I/18 | Michalovce-východ | I/50 | 4,200
 
+- Zoznam úsekov na ceste I/49 | | | | |
+
+- 049-i001 | Lysá pod Makytou-Strelenka-západ | I/49 | Lysá pod Makytou-Strelenka-východ | I/49 | 2,460
+
+- 049-i002 | Lysá pod Makytou-západ | I/49 | Lysá pod Makytou-východ | I/49 | 2,031
+
+- 049-i003 | Lúky-západ | I/49 | Lúky-východ | I/49 | 2,214
+
+- 049-i004 | Záriečie-západ | I/49 | Mestečko-východ | I/49 | 2,740
+
+- 049-i005 | Dohňany-západ | I/49 | Dohňany-východ | I/49 | 1,744
+
+- 049-i006 | Púchov-Vieska-Bezdedov-západ | I/49 | Púchov-Vieska-Bezdedov-východ | I/49 | 0,831
+
+- 049-i007 | Púchov-západ | I/49 | Púchov-východ | I/49 | 2,200
+
+- Zoznam úsekov na ceste I/50 | | | | |
+
+- 050-i001 | Košice-západ | R2 | Košice-juh | R4 | 5,082
+
+- 050-i002 | Košice-západ | R2 | Košice-východ | I/50 | 11,035
+
+- 050-i003 | Košice-západ | R2 | Košice-sever | R4 | 10,413
+
+- 050-i004 | Košice-juh | I/68 | Košice-východ | I/50 | 10,451
+
+- 050-i005 | Košice-juh | I/68 | Košice-sever | R4 | 9,829
+
+- 050-i006 | Košice-východ | I/50 | Košice-sever | R4 | 7,088
+
+- 050-i007 | Košické Oľšany-Nižný Olčvár-západ | I/50 | Košické Oľšany-Nižný Olčvár-východ | I/50 | 0,567
+
+- 050-i008 | Ďurďošík-západ | I/50 | Ďurďošík-východ | I/50 | 0,318
+
+- 050-i009 | Svinica-západ | I/50 | Svinica-východ | I/50 | 1,734
+
+- 050-i010 | Košický Klečenov-západ | I/50 | Košický Klečenov-východ | I/50 | 0,634
+
+- 050-i011 | Dargov-západ | I/50 | Dargov-východ | I/50 | 1,342
+
+- 050-i012 | Sečovce-západ | I/50 | Sečovce-východ | I/50 | 4,083
+
+- 050-i013 | Hriadky-západ | I/50 | Hriadky-juh | I/79 | 1,057
+
+- 050-i014 | Hriadky-západ | I/50 | Hriadky-východ | I/50 | 0,737
+
+- 050-i015 | Hriadky-západ | I/50 | Hriadky-sever | I/79 | 0,783
+
+- 050-i016 | Hriadky-juh | I/79 | Hriadky-východ | I/50 | 1,090
+
+- 050-i017 | Hriadky-juh | I/79 | Hriadky-sever | I/79 | 1,200
+
+- 050-i018 | Hriadky-východ | I/50 | Hriadky-sever | I/79 | 0,840
+
+- 050-i019 | Horovce-západ | I/50 | Horovce-východ | I/50 | 0,767
+
+- 050-i020 | Trhovište-západ | I/50 | Trhovište-východ | I/50 | 1,583
+
+- 050-i021 | Pozdišovce-západ | I/50 | Pozdišovce-východ | I/50 | 1,210
+
+- 050-i022 | Michalovce-Močarany-západ | I/50 | Michalovce-východ | I/50 | 6,500
+
+- 050-i023 | Zalužice-západ | I/50 | Zalužice-východ | I/50 | 2,107
+
+- 050-i024 | Lúčky-západ | I/50 | Lúčky-východ | I/50 | 1,413
+
+- 050-i025 | Závadka-západ | I/50 | Závadka-východ | I/50 | 1,253
+
+- 050-i026 | Nižná Rybnica-západ | I/50 | Nižná Rybnica-východ | I/50 | 0,525
+
+- 050-i027 | Sobrance-západ | I/50 | Sobrance-východ | I/50 | 1,417
+
+- 050-i028 | Tibava-západ | I/50 | Tibava-východ | I/50 | 0,848
+
+- 050-i029 | Orechová-sever | I/50 | Orechová-juh | I/50 | 1,380
+
+- 050-i030 | Krčava-sever | I/50 | Krčava-juh | I/50 | 1,902
+
+- 050-i031 | Trenčianske Mitice-západ | I/50 | Trenčianske Mitice-východ | I/50 | 0,284
+
+- 050-i032 | Svinná-západ | I/50 | Svinná-východ | I/50 | 2,569
+
+- 050-i033 | Bánovce nad Bebravou-Horné Ozorovce-sever | I/50 | Bánovce nad Bebravou-Horné Ozorovce-juh | I/50 | 0,781
+
+- 050-i034 | Bánovce nad Bebravou-sever | I/50 | Bánovce nad Bebravou-juh | I/50 | 3,051
+
+- 050-i035 | Brezolupy-Jerichov-západ | I/50 | Brezolupy-Jerichov-východ | I/50 | 0,468
+
+- 050-i036 | Hradište-západ | I/50 | Hradište-východ | I/50 | 0,670
+
+- 050-i037 | Dolné Vestenice-západ | I/50 | Dolné Vestenice-východ | I/50 | 1,280
+
+- 050-i038 | Horné Vestenice-západ | I/50 | Horné Vestenice-východ | I/50 | 0,713
+
+- 050-i039 | Nováky-západ | I/50 | Nováky-juh | I/64 | 4,940
+
+- 050-i040 | Nováky-západ | I/50 | Nováky-východ | I/50 | 2,214
+
+- 050-i041 | Nováky-juh | I/64 | Nováky-východ | I/50 | 2,888
+
+- 050-i042 | Chrenovec-Brusno-západ | I/50 | Chrenovec-Brusno-východ | I/50 | 1,211
+
+- 050-i043 | Jalovec-západ | I/50 | Jalovec-východ | I/50 | 0,407
+
+- 050-i044 | Ráztočno-západ | I/50 | Ráztočno-východ | I/50 | 1,056
+
+- 050-i045 | Handlová-sever | I/50 | Handlová-juh | I/50 | 7,386
+
+- 050-i046 | Handlová-Nová Lehota-sever | I/50 | Handlová-Nová Lehota-juh | I/50 | 0,699
+
+- 050-i047 | Žiar nad Hronom-západ | I/50 | Žiar nad Hronom-Horné Opatovce-juh | I/65 | 5,562
+
+- 050-i048 | Žiar nad Hronom-západ | I/50 | Ladomerská Vieska-sever | I/50 | 3,913
+
+- 050-i049 | Žiar nad Hronom-Horné Opatovce-juh | I/65 | Ladomerská Vieska-sever | I/50 | 2,247
+
+- 050-i050 | Zvolen-západ | I/50 | Zvolen-juh | I/66 | 2,094
+
+- 050-i051 | Zvolen-západ | I/50 | Zvolen-východ | I/50 | 3,712
+
+- 050-i052 | Zvolen-juh | I/66 | Zvolen-východ | I/50 | 3,925
+
+- 050-i053 | Zvolenská Slatina-západ | I/50 | Zvolenská Slatina-východ | I/50 | 1,389
+
+- 050-i054 | Vígľaš-západ | I/50 | Vígľaš-východ | I/50 | 1,446
+
+- 050-i055 | Vígľaš-Pstruša-západ | I/50 | Vígľaš-Pstruša-východ | I/50 | 0,381
+
+- 050-i056 | Detva-západ | I/50 | Detva-východ | I/50 | 1,559
+
+- 050-i057 | Kriváň-západ | I/50 | Kriváň-východ | I/50 | 1,847
+
+- 050-i058 | Mýtna-západ | I/50 | Mýtna-východ | I/50 | 1,442
+
+- 050-i059 | Lovinobaňa-sever | I/50 | Lovinobaňa-juh | I/50 | 0,834
+
+- 050-i060 | Pinciná-západ | I/50 | Pinciná-východ | I/50 | 0,745
+
+- 050-i061 | Rimavská Sobota-západ | I/50 | Rimavská Sobota-východ | I/50 | 3,470
+
+- 050-i062 | Rimavská Sobota-Bakta-západ | I/50 | Rimavská Sobota-Bakta-východ | I/50 | 1,252
+
+- 050-i063 | Bátka-západ | I/50 | Bátka-východ | I/50 | 1,028
+
+- 050-i064 | Figa-západ | I/50 | Figa-východ | I/50 | 0,745
+
+- 050-i065 | Čoltovo-juh | I/50 | Čoltovo-sever | I/50 | 0,771
+
+- 050-i066 | Bohúňovo-juh | I/50 | Bohúňovo-sever | I/50 | 0,778
+
+- 050-i067 | Plešivec-juh | I/50 | Plešivec-sever | I/50 | 1,072
+
+- 050-i068 | Krásnohorské Podhradie-západ | I/50 | Krásnohorské Podhradie-východ | I/50 | 1,473
+
+- 050-i069 | Čečejovce-západ | I/50 | Čečejovce-východ | I/50 | 0,882
+
+- 050-i070 | Košice-Šaca-západ | I/50 | Košice-Šaca-východ | R2 | 1,290
+
+- 050-i071 | Ožďany-západ | I/50 | Ožďany-východ | I/50 | 1,394
+
+- 050-i072 | Stránska-západ | I/50 | Stránska-východ | I/50 | 0,853
+
+- 050-i073 | Tornaľa-Behynce-juh | I/50 | Tornaľa-Behynce-sever | I/50 | 1,095
+
+- 050-i074 | Tornaľa-západ | I/50 | Tornaľa-sever | I/50 | 2,106
+
+- 050-i075 | Tornaľa-Starňa-juh | I/50 | Tornaľa-Starňa-sever | I/50 | 0,890
+
+- 050-i076 | Drietoma-sever | I/50 | Drietoma-juh | I/50 | 2,194
+
+- 050-i077 | Drienovec-západ | I/50 | Drienovec-východ | I/50 | 1,425
+
 - Zoznam úsekov na ceste I/51 | | | | |
+
+- 051-i001 | Radošovce-západ | I/51 | Radošovce-východ | I/51 | 1,267
+
+- 051-i002 | Senica-sever | I/51 | Senica-juh | I/51 | 2,551
+
+- 051-i003 | Jablonica-sever | I/51 | Jablonica-juh | I/51 | 2,677
+
+- 051-i004 | Trstín-sever | I/51 | Trstín-juh | I/51 | 1,938
+
+- 051-i005 | Bíňovce-sever | I/51 | Bíňovce-juh | I/51 | 1,337
+
+- 051-i006 | Boleráz-sever | I/51 | Boleráz-Klčovany-juh | I/51 | 3,537
+
+- 051-i007 | Šelpice-sever | I/51 | Šelpice-juh | I/51 | 1,404
+
+- 051-i008 | Holíč-západ | I/51 | Holíč-juh | I/2 | 3,055
+
+- 051-i009 | Holíč-západ | I/51 | Holíč-východ | I/51 | 2,013
+
+- 051-i010 | Holíč-juh | I/2 | Holíč-východ | I/51 | 2,860
+
+- 051-i011 | Veľký Lapáš-západ | I/51 | Veľký Lapáš-východ | I/51 | 1,370
+
+- 051-i012 | Vráble-západ | I/51 | Vráble-východ | I/51 | 2,682
+
+- 051-i013 | Telince-západ | I/51 | Telince-východ | I/51 | 0,757
+
+- 051-i014 | Čifáre-západ | I/51 | Čifáre-východ | I/51 | 1,196
+
+- 051-i015 | Veľký Ďur-západ | I/51 | Veľký Ďur-východ | I/51 | 0,984
+
+- 051-i016 | Veľký Ďur-Rohožnica-západ | I/51 | Veľký Ďur-Rohožnica-východ | I/51 | 1,001
+
+- 051-i017 | Kalná nad Hronom-západ | I/51 | Kalná nad Hronom-juh | I/76 | 1,935
+
+- 051-i018 | Kalná nad Hronom-západ | I/51 | Kalná nad Hronom-východ | I/51 | 0,685
+
+- 051-i019 | Kalná nad Hronom-juh | I/76 | Kalná nad Hronom-východ | I/51 | 1,694
+
+- 051-i020 | Horná Seč-západ | I/51 | Horná Seč-východ | I/51 | 0,956
+
+- 051-i021 | Levice-západ | I/51 | Levice-východ | I/51 | 4,850
+
+- 051-i022 | Krškany-Zajačia dolina-západ | MK, I/51 | Krškany-Zajačia dolina-východ | I/51 | 0,654
+
+- 051-i023 | Kmeťovce-západ | I/51 | Kmeťovce-východ | I/51 | 0,505
+
+- 051-i024 | Žemberovce-západ | I/51 | Žemberovce-východ | I/51 | 1,793
+
+- 051-i025 | Ladzany-západ | I/51 | Ladzany-východ | I/51 | 0,374
+
+- 051-i026 | Sebechleby-západ | I/51 | Sebechleby-východ | I/51 | 1,401
+
+- 051-i027 | Hontianske Nemce-západ | I/51 | Hontianske Nemce-juh | I/66 | 0,423
+
+- 051-i028 | Hontianske Nemce-západ | I/51 | Hontianske Nemce-východ | I/66 | 0,728
+
+- 051-i029 | Hontianske Nemce-juh | I/66 | Hontianske Nemce-východ | I/66 | 0,736
 
 - 051-i030 | Hontianske Nemce-západ | I/51 | Hontianske Nemce-sever | I/51 | 1,400
 
@@ -3568,7 +3152,139 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 057-007 | | D1, I/57 | | I/61, I/57 | 1,520
 
+- Zoznam úsekov na ceste I/59 | | | | |
+
+- 059-i001 | Banská Bystrica-Uľanka-juh | I/59 | Banská Bystrica-Uľanka-sever | I/59 | 1,311
+
+- 059-i002 | Staré Hory-Polkanová-juh | I/59 | Staré Hory-Polkanová-sever | I/59 | 0,193
+
+- 059-i003 | Staré Hory-juh | I/59 | Staré Hory-sever | I/59 | 1,830
+
+- 059-i004 | Donovaly-Hanesy-juh | I/59 | Donovaly-Hanesy-sever | I/59 | 0,237
+
+- 059-i005 | Donovaly-západ | I/59 | Donovaly-východ | I/59 | 2,066
+
+- 059-i006 | Liptovská Osada-juh | I/59 | Liptovská Osada-sever | I/59 | 1,518
+
+- 059-i007 | Vyšný Kubín-juh | I/59 | Vyšný Kubín-sever | I/59 | 0,680
+
+- 059-i008 | Oravský Podzámok-juh | I/59 | Oravský Podzámok-sever | I/59 | 1,274
+
+- 059-i009 | Orav. Podzámok-Dolná Lehota-západ | I/59 | Orav. Podzámok-Dolná Lehota-východ | I/59 | 1,336
+
+- 059-i010 | Horná Lehota-západ | I/59 | Horná Lehota-východ | I/59 | 0,952
+
+- 059-i011 | Sedliacka Dubová-západ | I/59 | Sedliacka Dubová-východ | I/59 | 0,881
+
+- 059-i012 | Dlhá nad Oravou-západ | I/59 | Dlhá nad Oravou-východ | I/59 | 1,353
+
+- 059-i013 | Krivá-západ | I/59 | Krivá-východ | I/59 | 0,808
+
+- 059-i014 | Podbiel-juh | I/59 | Podbiel-sever | I/59 | 0,883
+
+- 059-i015 | Nižná-západ | I/59 | Nižná-východ | I/59 | 2,936
+
+- 059-i016 | Tvrdošín-juh | I/59 | Tvrdošín-sever | I/59 | 3,600
+
+- 059-i017 | Trstená-juh | I/59 | Trstená-sever | I/59 | 2,652
+
+- Zoznam úsekov na ceste I/61 | | | | |
+
+- 061-i001 | Považská Bystrica-juh | I/61 | Považská Bystrica-sever | I/61 | 4,142
+
+- 061-i002 | Bytča-Hrabové-juh | I/61 | Bytča-Hrabové-sever | I/61 | 1,262
+
+- 061-i003 | Bratislava-Vajnory | I/61, D1 | Bratislava-západ | I/61 | 0,680
+
+- 061-i004 | Veľký Biel-západ | I/61 | Veľký Biel-východ | I/61 | 1,398
+
+- 061-i005 | Senec-juh | I/61 | Senec-východ | I/62 | 0,706
+
+- 061-i006 | Senec-juh | I/61 | Senec-sever | I/61 | 3,182
+
+- 061-i007 | Senec-východ | I/62 | Senec-sever | I/61 | 3,416
+
+- 061-i008 | Blatné-juh | I/61 | Blatné-sever | I/61 | 0,875
+
+- 061-i009 | Kaplna-juh | I/61 | Kaplna-sever | I/61 | 0,532
+
+- 061-i010 | Trnava-juh 1 | I/61 | Trnava-juh 2 | R1 | 4,093
+
+- 061-i011 | Trnava-juh 1 | I/61 | Trnava-východ | I/51 | 4,058
+
+- 061-i012 | Madunice-juh | I/61 | Madunice-sever | I/61 | 1,697
+
+- 061-i013 | Drahovce-juh | I/61 | Drahovce-sever | I/61 | 0,377
+
+- 061-i014 | Piešťany-juh | I/61 | Piešťany-sever | I/61 | 4,932
+
+- 061-i015 | Horná Streda-juh | I/61 | Horná Streda-sever | I/61 | 1,118
+
+- 061-i016 | Brunovce-juh | I/61 | Potvorice-sever | I/61 | 1,175
+
+- 061-i017 | Považany-juh | I/61 | Považany-sever | I/61 | 2,029
+
+- 061-i018 | Nové Mesto nad Váhom-juh | I/61 | Nové Mesto nad Váhom-sever | I/61 | 3,089
+
+- 061-i019 | Trenčín-juh | I/61 | Trenčín-sever | I/61 | 10,031
+
+- 061-i020 | Trenčín-juh | I/61 | Trenčín-západ | I/61 | 1,797
+
+- 061-i021 | Trenčín-sever | I/61 | Trenčín-západ | I/61 | 9,483
+
+- 061-i022 | Trenčianska Teplá-Dobrá-juh | I/61 | Trenčianska Teplá-Dobrá-sever | I/61 | 1,182
+
+- 061-i023 | Trenčianska Teplá-juh | I/61 | Trenčianska Teplá-sever | I/61 | 1,009
+
+- 061-i024 | Dubnica nad Váhom-juh | I/61 | Dubnica nad Váhom-sever | I/61 | 3,592
+
+- 061-i025 | Dubnica nad Váhom-Prejta-juh | I/61 | Dubnica nad Váhom-Prejta-sever | I/61 | 0,385
+
+- 061-i026 | Ilava-Klobušice-juh | I/61 | Ilava-sever | I/61 | 3,006
+
+- 061-i027 | Košeca-juh | I/61 | Košeca-sever | I/61 | 1,665
+
+- 061-i028 | Košeca-Nozdrovice-juh | I/61 | Košeca-Nozdrovice-sever | I/61 | 0,289
+
+- 061-i029 | Ladce-Tunežice-juh | I/61 | Ladce-sever | I/61 | 2,717
+
+- 061-i030 | Visolaje-západ | I/61 | Visolaje-východ | I/61 | 1,167
+
+- 061-i031 | Sverepec-juh | I/61 | Sverepec-sever | I/61 | 2,304
+
+- Zoznam úsekov na ceste I/62 | | | | |
+
+- 062-i001 | Sereď-juh | I/62 | Šintava-východ | I/62 | 3,983
+
 - Zoznam úsekov na ceste I/63 | | | | |
+
+- 063-i001 | Bratislava-Ružinov 2 | I/63, D1 | Bratislava-juh | I/63 | 5,012
+
+- 063-i002 | Rovinka-sever | I/63 | Dunajská Lužná-juh | I/63 | 5,166
+
+- 063-i003 | Šamorín-západ | I/63 | Šamorín-východ | I/63 | 2,891
+
+- 063-i004 | Báč-západ | I/63 | Báč-východ | I/63 | 0,452
+
+- 063-i005 | Kútniky-západ | I/63 | Kútniky-východ | I/63 | 1,252
+
+- 063-i006 | Dolný Bar-západ | I/63 | Dolný Bar-východ | I/63 | 1,068
+
+- 063-i007 | Dolný Štál-sever | I/63 | Dolný Štál-juh | I/63 | 1,869
+
+- 063-i008 | Veľký Meder-sever | I/63 | Veľký Meder-juh | I/13 | 0,944
+
+- 063-i009 | Veľký Meder-sever | I/63 | Veľký Meder-východ | I/63 | 2,962
+
+- 063-i010 | Veľký Meder-juh | I/13 | Veľký Meder-východ | I/63 | 3,052
+
+- 063-i011 | Bodza-sever | I/63 | Bodza-juh | I/63 | 1,069
+
+- 063-i012 | Tôň-sever | I/63 | Tôň-juh | I/63 | 1,142
+
+- 063-i013 | Komárno-Nová Stráž-západ | I/63 | Komárno-Nová Stráž-východ | I/63 | 2,176
+
+- 063-i014 | Komárno-západ | I/63 | Komárno-východ | I/63 | 4,617
 
 - 063-039 | | I/63 | Iža-východ | I/63 | 4,283
 
@@ -3621,6 +3337,68 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 063-i021 | Štúrovo-západ | I/63 | Štúrovo-sever | I/63 | 4,000
 
 - Zoznam úsekov na ceste I/64 | | | | |
+
+- 064-i001 | Hurbanovo-Zelený Háj-juh | I/64 | Hurbanovo-Zelený Háj-sever | I/64 | 1,389
+
+- 064-i002 | Hurbanovo-juh | I/64 | Hurbanovo-Bohatá-sever | I/64 | 4,078
+
+- 064-i003 | Hurbanovo-Pavlov Dvor-juh | I/64 | Hurbanovo-Pavlov Dvor-sever | I/64 | 0,469
+
+- 064-i004 | Bajč-juh | I/64 | Bajč-sever | I/64 | 1,357
+
+- 064-i005 | Nové Zámky-juh | I/64 | Nové Zámky-sever | I/64, I/75 | 5,952
+
+- 064-i006 | Nové Zámky-juh | I/64 | Nové Zámky-východ | I/75 | 7,664
+
+- 064-i007 | Nové Zámky-východ | I/75 | Nové Zámky-sever | I/64, I/75 | 3,824
+
+- 064-i008 | Komjatice-juh | I/64 | Veľký Kýr-sever | I/64 | 5,402
+
+- 064-i009 | Branč-juh | I/64 | Branč-sever | I/64 | 2,283
+
+- 064-i010 | Ivanka pri Nitre-juh | I/64 | Ivanka pri Nitre-sever | I/64 | 3,100
+
+- 064-i011 | Nitra-juh | I/64 | Nitra-východ 1 | I/51 | 8,758
+
+- 064-i012 | Nitra-juh | I/64 | Nitra-východ 2 | I/65 | 8,513
+
+- 064-i013 | Nitra-juh | I/64 | Nitra-sever | R1 | 8,714
+
+- 064-i014 | Nitra-východ 1 | I/51 | Nitra-východ 2 | I/65 | 2,294
+
+- 064-i015 | Nitra-východ 1 | I/51 | Nitra-sever | R1 | 2,730
+
+- 064-i016 | Nitra-východ 2 | I/65 | Nitra-sever | R1 | 2,352
+
+- 064-i017 | Nitra-Drážovce-juh | I/64 | Nitra-Drážovce-sever | I/64, II/593 | 1,659
+
+- 064-i018 | Čakajovce-juh | I/64 | Čakajovce-sever | I/64 | 0,561
+
+- 064-i019 | Jelšovce-juh | I/64 | Jelšovce-sever | I/64 | 1,224
+
+- 064-i020 | Výčapy-Opatovce-juh | I/64 | Výčapy-Opatovce-sever | I/64 | 2,312
+
+- 064-i021 | Koniarovce-juh | I/64 | Ludanice-sever | I/64 | 9,808
+
+- 064-i022 | Chrabrany-juh | I/64 | Chrabrany-sever | I/64 | 1,533
+
+- 064-i023 | Topoľčany-juh | I/64 | Krušovce-juh | I/64 | 3,185
+
+- 064-i024 | Krušovce-juh | I/64 | Rajčany-sever | I/64 | 5,436
+
+- 064-i025 | Žabokreky nad Nitrou-juh | I/64 | Žabokreky nad Nitrou-sever | I/64 | 2,094
+
+- 064-i026 | Partizánske-Malé Bielice-západ | I/64 | Malé Uherce-východ | I/64 | 6,585
+
+- 064-i027 | Oslany-juh | I/64 | Oslany-sever | I/64 | 1,646
+
+- 064-i028 | Čereňany-juh | I/64 | Čereňany-sever | I/64 | 1,568
+
+- 064-i029 | Bystričany-juh | I/64 | Bystričany-sever | I/64 | 0,582
+
+- 064-i030 | Bystričany-Vieska-juh | I/64 | Bystričany-Vieska-sever | I/64 | 0,310
+
+- 064-i031 | Zemianske Kostoľany-juh | I/64 | Zemianske Kostoľany-sever | I/64 | 1,348
 
 - 064-i032 | Prievidza-sever | I/64 | Prievidza-juh | I/64 | 3,400
 
@@ -3702,7 +3480,63 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 064-i049 | Žilina-juh | I/64 | Žilina-západ | I/64 | 6,900
 
+- Zoznam úsekov na ceste I/65 | | | | |
+
+- 065-i001 | Volkovce-Olichov-západ | I/65 | Volkovce-Olichov-východ | I/65 | 0,477
+
+- 065-i002 | Bzenica-juh | I/65 | Bzenica-sever | I/65 | 0,522
+
+- 065-i003 | Hliník nad Hronom-západ | I/65 | Hliník nad Hronom-východ | I/65 | 1,237
+
+- 065-i004 | Bartošova Lehôtka-juh | I/65 | Bartošova Lehôtka-sever | I/65 | 1,666
+
+- 065-i005 | Kremnica-juh | I/65 | Kremnica-sever | I/65 | 3,004
+
+- 065-i006 | Kremnické Bane-juh | I/65 | Kremnické Bane-sever | I/65 | 1,581
+
+- 065-i007 | Turček-juh | I/65 | Turček-sever | I/65 | 0,878
+
+- 065-i008 | Horná Štubňa-juh | I/65 | Horná Štubňa-sever | I/65 | 1,796
+
+- 065-i009 | Turčianske Teplice-Diviaky-juh | I/65 | Turčianske Teplice-Diviaky-sever | I/65 | 1,246
+
+- 065-i010 | Košťany nad Turcom-juh | I/65 | Košťany nad Turcom-sever | I/65 | 0,544
+
+- 065-i011 | Orovnica-juh | I/65 | Orovnica-sever | I/65 | 1,483
+
+- 065-i012 | Nová Baňa-juh | I/65 | Nová Baňa-sever | I/65 | 1,430
+
 - Zoznam úsekov na ceste I/66 | | | | |
+
+- 066-i001 | Šahy-juh | I/66 | Šahy-sever | I/66 | 3,033
+
+- 066-i002 | Hrkovce-východ | I/66 | Hrkovce-západ | I/66 | 1,029
+
+- 066-i003 | Horné Semerovce-juh | I/66 | Horné Semerovce-sever | I/66 | 0,764
+
+- 066-i004 | Hokovce-juh | I/66 | Hokovce-sever | I/66 | 1,164
+
+- 066-i005 | Dudince-juh | I/66 | Dudince-sever | I/66 | 0,948
+
+- 066-i006 | Terany-juh | I/66 | Terany-sever | I/66 | 1,411
+
+- 066-i007 | Hontianske Tesáre-juh | I/66 | Hontianske Tesáre-sever | I/66 | 0,992
+
+- 066-i008 | Domaníky-juh | I/66 | Domaníky-sever | I/66 | 0,905
+
+- 066-i009 | Hontianske Nemce-Rakovec-západ | I/66 | Hontianske Nemce-Rakovec-východ | I/66 | 1,245
+
+- 066-i010 | Devičie-juh | I/66 | Devičie-sever | I/66 | 0,233
+
+- 066-i011 | Krupina-juh | I/66 | Krupina-sever | I/66 | 3,936
+
+- 066-i012 | Dobrá Niva-juh | I/66 | Dobrá Niva-sever | I/66 | 1,843
+
+- 066-i013 | Podzámčok-juh | I/66 | Podzámčok-sever | I/66 | 0,550
+
+- 066-i014 | Podbrezová-Lopej-západ | I/66 | Podbrezová-Lopej-východ | I/66 | 0,667
+
+- 066-i015 | Podbrezová-Skalica-západ | I/66 | Valaská-Piesok-sever | I/72 | 6,397
 
 - 066-i016 | Podbrezová-západ | I/66 | Podbrezová-východ | I/66 | 3,100
 
@@ -3966,6 +3800,26 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - Zoznam úsekov na ceste I/68 | | | | |
 
+- 068-i001 | Košice-Šebastovce-sever | I/68 | Košice-Šebastovce-juh | I/68 | 0,843
+
+- 068-i002 | Haniska-Grajciar-sever | I/68 | Haniska-Grajciar-juh | I/68 | 0,570
+
+- 068-i003 | Seňa-sever | I/68 | Kechnec-juh | I/68 | 2,762
+
+- 068-i004 | Kendice-sever | I/68 | Kendice-juh | I/68 | 1,478
+
+- 068-i005 | Drienovská Nová Ves-sever | I/68 | Drienovská Nová Ves-juh | I/68 | 0,755
+
+- 068-i006 | Ličartovce-sever | I/68 | Ličartovce-juh | I/68 | 1,170
+
+- 068-i007 | Lemešany-sever | I/68 | Lemešany-juh | I/68 | 1,752
+
+- 068-i008 | Janovník-sever | I/68 | Janovník-juh | I/68 | 0,958
+
+- 068-i009 | Bretejovce-sever | I/68 | Bretejovce-juh | I/68 | 1,027
+
+- 068-i010 | Budimír-sever | I/68 | Budimír-juh | I/68 | 1,513
+
 - 068-013 | Št. hr. SK/PL | I/68 | Mníšek nad Popradom-sever | I/68 | 0,208
 
 - 068-i011 | Mníšek nad Popradom-sever | I/68 | Mníšek nad Popradom-juh | I/68 | 3,100
@@ -4064,6 +3918,32 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 068-i028 | Prešov-sever | I/68 | Prešov-východ | I/18 | 7,200
 
+- Zoznam úsekov na ceste I/69 | | | | |
+
+- 069-i001 | Kováčová-juh | I/69 | Kováčová-sever | I/69 | 0,315
+
+- 069-i002 | Sliač-juh | I/69 | Sliač-sever | I/69 | 1,503
+
+- 069-i003 | Banská Bystrica-juh | I/69, R1 | Banská Bystrica-východ | I/66, R1 | 8,412
+
+- 069-i004 | Banská Bystrica-juh | I/69, R1 | Banská Bystrica-sever | I/59 | 9,074
+
+- 069-i005 | Banská Bystrica-východ | I/66, R1 | Banská Bystrica-sever | I/59 | 8,548
+
+- Zoznam úsekov na ceste I/70 | | | | |
+
+- 070-i001 | Párnica-juh | I/70 | Párnica-sever | I/70 | 2,052
+
+- 070-i002 | Istebné-západ | I/70 | Istebné-východ | I/70 | 0,653
+
+- 070-i003 | Veličná-západ | I/70 | Veličná-východ | I/70 | 1,391
+
+- 070-i004 | Dolný Kubín-západ | I/70 | Dolný Kubín-juh | I/59 | 4,387
+
+- 070-i005 | Dolný Kubín-západ | I/70 | Dolný Kubín-východ | I/59 | 2,526
+
+- 070-i006 | Dolný Kubín-juh | I/59 | Dolný Kubín-východ | I/59 | 2,709
+
 - Zoznam úsekov na ceste I/71 | | | | |
 
 - 071-001 | Lučenec 1 | I/50, I/71 | Lučenec 2 | III/071008, I/71 | 1,849
@@ -4117,6 +3997,14 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 071-017 | Šiatorská Bukovinka-juh | I/71 | Št. hr. SK/MR | I/71 | 1,014
 
 - Zoznam úsekov na ceste I/72 | | | | |
+
+- 072-i001 | Bystrá-juh | I/72 | Bystrá-sever | I/72 | 1,489
+
+- 072-i002 | Mýto pod Ďumbierom-juh | I/72 | Mýto pod Ďumbierom-sever | I/72 | 1,990
+
+- 072-i003 | Jarabá-juh | I/72 | Jarabá-sever | I/72 | 1,517
+
+- 072-i004 | Nižná Boca-juh | I/72 | Nižná Boca-sever | I/72 | 0,774
 
 - 072-i005 | Rimavská Sobota-sever | I/72 | Rimavská Sobota-západ | I/72 | 1,200
 
@@ -4194,6 +4082,42 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 072-030 | Brezno-Rohožná-západ | I/72 | Brezno-východ | I/72 | 2,974
 
+- Zoznam úsekov na ceste I/73 | | | | |
+
+- 073-i001 | Lipníky-Podhrabina-juh | III/576001, I/73 | Chmeľov-Podhrabina-sever | I/73 | 1,532
+
+- 073-i002 | Chmeľov-juh | I/73 | Chmeľov-sever | I/73 | 0,539
+
+- 073-i003 | Lúčka-západ | I/73 | Kračúnovce-východ | I/73 | 2,205
+
+- 073-i004 | Giraltovce-juh | I/73 | Giraltovce-sever | I/73 | 2,629
+
+- 073-i005 | Giraltovce-Francovce-západ | I/73 | Giraltovce-Francovce-východ | I/73 | 0,654
+
+- 073-i006 | Matovce-juh | I/73 | Matovce-sever | I/73 | 0,282
+
+- 073-i007 | Soboš-juh | I/73 | Soboš-sever | I/73 | 0,525
+
+- 073-i008 | Okrúhle-juh | I/73 | Okrúhle-sever | I/73 | 1,173
+
+- 073-i009 | Radoma-juh | I/73 | Radoma-sever | I/73 | 1,348
+
+- 073-i010 | Šarišský Štiavnik-juh | I/73 | Šarišský Štiavnik-sever | I/73 | 1,030
+
+- 073-i011 | Rakovčík-juh | I/73 | Rakovčík-sever | I/73 | 0,518
+
+- 073-i012 | Stročín-juh | I/73 | Stročín-sever | I/73 | 0,871
+
+- 073-i013 | Svidník-juh | I/73, R4 | Svidník-sever | I/73 | 4,159
+
+- 073-i014 | Ladomírová-juh | I/73 | Ladomírová-sever | I/73 | 1,110
+
+- 073-i015 | Hunkovce-juh | I/73 | Hunkovce-sever | I/73 | 1,374
+
+- 073-i016 | Krajná Poľana-juh | I/73 | Krajná Poľana-sever | I/73 | 0,896
+
+- 073-i017 | Nižný Komárnik-juh | I/73 | Nižný Komárnik-sever | I/73 | 0,559
+
 - Zoznam úsekov na ceste I/74 | | | | |
 
 - 074-001 | Strážske-sever | I/74 | | MK, I/74 | 1,497
@@ -4253,6 +4177,28 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 074-017 | Ubľa-východ | I/74 | Št. hr. SK/UA | I/74 | 1,054
 
 - Zoznam úsekov na ceste I/75 | | | | |
+
+- 075-i001 | Sládkovičovo-západ | I/75 | Sládkovičovo-východ | I/75 | 0,509
+
+- 075-i002 | Galanta-západ | I/75 | Galanta-východ | I/75 | 3,361
+
+- 075-i003 | Šaľa-západ | I/75 | Šala-Veča-východ | I/75 | 4,017
+
+- 075-i004 | Trnovec nad Váhom-západ | I/75 | Trnovec nad Váhom-východ | I/75 | 1,424
+
+- 075-i005 | Jatov-sever | I/75 | Jatov-juh | I/75 | 1,426
+
+- 075-i006 | Tvrdošovce-sever | I/75 | Tvrdošovce-juh | I/75 | 2,878
+
+- 075-i007 | Dvory nad Žitavou-západ | I/75 | Dvory nad Žitavou-východ | I/75 | 1,653
+
+- 075-i008 | Kolta-západ | I/75 | Kolta-východ | I/75 | 1,312
+
+- 075-i009 | Čaka-juh | I/75 | Čaka-sever | I/75 | 1,417
+
+- 075-i010 | Tekovské Lužany-juh | I/75 | Tekovské Lužany-východ | I/75 | 2,405
+
+- 075-i011 | Demandice-západ | I/75 | Demnadice-východ | I/75 | 1,483
 
 - 075-049 | | I/66, I/75 | Slatina-západ | I/75 | 1,800
 
@@ -4331,6 +4277,36 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 075-077 | Dolná Telka | MK, I/75 | Lučenec-západ | I/75 | 1,422
 
 - 075-i021 | Lučenec-západ | I/75 | Lučenec-východ | I/75 | 5,300
+
+- Zoznam úsekov na ceste I/76 | | | | |
+
+- 076-i001 | Nána-juh | I/76 | Nána-sever | I/76 | 1,538
+
+- 076-i002 | Kamenný Most-juh | I/76 | Kamenný Most-sever | I/76 | 1,715
+
+- 076-i003 | Kamenín-juh | I/76 | Kamenín-sever | I/76 | 1,048
+
+- 076-i004 | Bíňa-juh | I/76 | Bíňa-sever | I/76 | 2,054
+
+- 076-i005 | Čata-juh | I/76 | Pohronský Ruskov-sever | I/76 | 4,557
+
+- 076-i006 | Hronovce-juh | I/76 | Hronovce-sever | I/76 | 2,695
+
+- 076-i007 | Želiezovce-juh | I/76 | Želiezovce-sever | I/76 | 3,940
+
+- 076-i008 | Želiezovce-Svodov-juh | I/76 | Svodov-sever | I/76 | 1,099
+
+- 076-i009 | Šárovce-juh | I/76 | Šárovce-sever | I/76 | 1,867
+
+- 076-i010 | Nový Tekov-juh | I/76 | Nový Tekov-sever | I/76 | 2,555
+
+- 076-i011 | Malé Kozmálovce-juh | I/76 | Malé Kozmálovce-sever | I/76 | 0,828
+
+- 076-i012 | Tlmače-juh | I/76 | Tlmače-sever | I/76 | 0,384
+
+- 076-i013 | Hronský Beňadik-Psiare-juh | I/76 | Hronský Beňadik-Psiare-sever | I/76 | 0,937
+
+- 076-i014 | Hronský Beňadik-juh | I/76 | Hronský Beňadik-sever | I/76 | 1,815
 
 - Zoznam úsekov na ceste I/77 | | | | |
 
@@ -4505,3 +4481,43 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 078-014 | Oravská Polhora-sever | I/78 | Sihelné | MK, I/78 | 1,507
 
 - 078-015 | Sihelné | MK, I/78 | Št. hr. SK/PL | I/78 | 2,432
+
+- Zoznam úsekov na ceste I/79 | | | | |
+
+- 079-i001 | Slovenské Nové Mesto-sever | I/79 | Slovenské Nové Mesto-východ | I/79 | 2,032
+
+- 079-i002 | Borša-západ | I/79 | Borša-východ | I/79 | 1,759
+
+- 079-i003 | Viničky-západ | I/79 | Viničky-východ | I/79 | 1,883
+
+- 079-i004 | Somotor-juh | I/79 | Somotor-sever | I/79 | 2,101
+
+- 079-i005 | Svätá Mária-juh | I/79 | Svätá Mária-sever | I/79 | 0,461
+
+- 079-i006 | Rad-Hrušov-západ | I/79 | Rad-Hrušov-východ | I/79 | 1,023
+
+- 079-i007 | Svätuše-západ | I/79 | Svätuše-východ | I/79 | 1,369
+
+- 079-i008 | Kráľovský Chlmec-západ | I/79 | Kráľovský Chlmec-východ | I/79 | 1,462
+
+- 079-i009 | Boťany-západ | I/79 | Boťany-východ | I/79 | 0,415
+
+- 079-i010 | Čierna-západ | I/79 | Čierna-východ | I/79 | 0,630
+
+- 079-i011 | Lomnica-sever | I/79 | Lomnica-juh | I/79 | 1,570
+
+- 079-i012 | Sačurov-sever | I/79 | Sačurov-juh | I/79 | 1,355
+
+- 079-i013 | Sečovská Polianka-sever | I/79 | Sečovská Polianka-juh | I/79 | 2,537
+
+- 079-i014 | Dvorianky-sever | I/79 | Dvorianky-juh | I/79 | 0,858
+
+- 079-i015 | Vojčice-sever | I/79 | Vojčice-juh | I/79 | 1,321
+
+- 079-i016 | Trebišov-Milhostov-sever | I/79 | Trebišov-Milhostov-juh | I/79 | 1,264
+
+- 079-i017 | Trebišov-sever | I/79 | Trebišov-západ | I/79 | 3,048
+
+- 079-i018 | Veľaty-sever | I/79 | Veľaty-juh | I/79 | 1,007
+
+- 079-i019 | Čerhov-sever | I/79 | Čerhov-juh | I/79 | 0,898
