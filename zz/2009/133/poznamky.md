@@ -7,3 +7,5 @@
 - 4) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 5) Smernica Európskeho parlamentu a Rady 98/34/ES o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov (Ú. v. ES L 204, 21. 7. 1998, Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 20) v platnom znení.
+
+- 6) Súbor ISO/IEC 15408 Information technology. Security techniques. Evaluation criteria for IT security (Informačné technológie. Bezpečnostné techniky. Kritériá na hodnotenie bezpečnosti IT).
