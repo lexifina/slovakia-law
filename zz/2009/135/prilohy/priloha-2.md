@@ -2,7 +2,7 @@ Príloha č. 2 k vyhláške č. 135/2009 Z. z.
 
 - PODPISOVÁ POLITIKA
 
-  - 1. Štruktúra podpisovej politiky je tvorená z obálky podpisovej politiky, údajov podpisovej politiky, pravidiel pre overenie podpisu.
+  - 1. Štruktúra podpisovej politiky je tvorená z obálky podpisovej politiky, údajov podpisovej politiky, pravidiel pre overenie elektronického podpisu alebo elektronickej pečate.
 
   - 2. Obálka podpisovej politiky obsahuje identifikátor hašovacieho algoritmu, údaje podpisovej politiky a nepovinný digitálny odtlačok údajov podpisovej politiky.
 
@@ -14,9 +14,9 @@ Príloha č. 2 k vyhláške č. 135/2009 Z. z.
 
     - 3.3 Meno vydavateľa,
 
-    - 3.4 Oblasť použitia,
+    - 3.4 Oblasť použitia – všeobecne záväzné pravidlá, ktoré popisujú základný právny, zmluvný alebo aplikačný rámec, v ktorom sa podpisová politika používa, a špecifický účel použitia elektronického podpisu,
 
-    - 3.5 Pravidlá pre overenie podpisu, ktoré obsahujú najmä
+    - 3.5 Dobu platnosti,
 
       - 3.5.1 Dobu platnosti,
 
