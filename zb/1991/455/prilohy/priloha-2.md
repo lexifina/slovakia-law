@@ -126,7 +126,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 57. | Činnosť bezpečnostného poradcu | – osvedčenie o odbornej príprave alebo – osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | § 20 ods. 10 zákona č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov § 36 ods. 1 písm. i) zákona č. 514/2009 Z. z. o doprave na dráhach § 5a ods. 4 zákona č. 338/2000 Z. z. |
 
-- 58. | Vykonávanie školení a skúšok žiadateľov o vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | poverenie | § 5a ods. 7 zákona č. 338/2000 Z. z. § 20 ods. 11 zákona č. 168/1996 Z. z. |
+- 58. | Vykonávanie školení žiadateľov o vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | poverenie | § 5a ods. 5 zákona č. 338/2000 Z. z. § 20 ods. 11 zákona č. 168/1996 Z. z. |
 
 - 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 15 zákona č. 90/1998 Z. z. |
 
@@ -187,3 +187,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - 88. | Vzdelávacia činnosť na úseku civilnej ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 395/2011 Z. z.
 
 - 89. | Servis a údržba chladiacich a klimatizačných zariadení a tepelných čerpadiel s obsahom kontrolovanej látky Servis, údržba a revízie protipožiarnych systémov a hasiacich prístrojov s obsahom kontrolovanej látky Kontrola úniku kontrolovaných látok zo zariadení Prevádzkovanie zariadenia na recykláciu kontrolovaných látok alebo na regeneráciu kontrolovaných látok Zhodnotenie kontrolovaných látok a odber kontrolovaných látok vrátane plnenia tlakových nádob na plyny s obsahom kontrolovanej látky Zneškodňovanie kontrolovaných látok vrátane podnikania v oblasti nakladania s odpadmi s obsahom kontrolovanej látky Uvádzanie kontrolovaných látok na trh | certifikát o odbornej spôsobilosti | § 5 ods. 1 zákona č. 321/2012 Z. z. o ochrane ozónovej vrstvy Zeme a o zmene a doplnení niektorých zákonov
+
+- 90. | Činnosť odborníka v oblasti prepravy nebezpečného tovaru | Osvedčenie o osobitných znalostiach | § 5b ods. 2 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z.
+
+- 91. | Vykonávanie školení žiadateľov o vydanie osvedčenia o osobitných znalostiach | Poverenie | § 5b ods. 3 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z.
