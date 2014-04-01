@@ -64,11 +64,27 @@ Pravidlo 6
 
 Predkladanie prekladov a zníženie poplatkov
 
-(1) Preklad podľa článku 14 odsek 2 sa musí podať do dvoch mesiacov od podania európskej patentovej prihlášky.
+(1) Preklad podľa čl. 14 ods. 2 sa musí podať do dvoch mesiacov od podania európskej patentovej prihlášky.
 
-(2) Preklad podľa článku 14 odsek 4 musí byť podaný do jedného mesiaca od podania písomnosti. To sa vzťahuje aj na žiadosti podľa článku 105a. Ak je touto písomnosťou námietka alebo sťažnosť, alebo podanie dôvodov sťažnosti, alebo žiadosť o preskúmanie, predlžuje sa uvedená lehota až do uplynutia lehoty na podanie námietok alebo sťažností, alebo preskúmania.
+(2) Preklad podľa čl. 14 ods. 4 musí byť podaný do jedného mesiaca od podania písomnosti. To sa vzťahuje aj na žiadosti podľa čl. 105a. Ak je touto písomnosťou námietka alebo sťažnosť, alebo podanie dôvodov sťažnosti, alebo žiadosť o preskúmanie, predlžuje sa uvedená lehota až do uplynutia lehoty na podanie námietok alebo sťažností, alebo preskúmania, ak táto lehota uplynie neskôr.
 
-(3) Pokiaľ osoba, na ktorú sa vzťahuje článok 14 odsek 4, podá európsku patentovú prihlášku, žiadosť o prieskum, námietku, sťažnosť, žiadosť o preskúmanie alebo žiadosť o obmedzenie alebo zrušenie v jazyku prijatom daným ustanovením, zníži sa prihlasovací poplatok, poplatok za prieskum, poplatok za námietku, poplatok za sťažnosť, poplatok za žiadosť o preskúmanie alebo poplatok za obmedzenie alebo zrušenie podľa pravidiel týkajúcich sa poplatkov.
+(3) Pokiaľ osoba, na ktorú sa vzťahuje čl. 14 ods. 4, podá európsku patentovú prihlášku alebo žiadosť o prieskum v jazyku prípustnom podľa uvedeného ustanovenia, zníži sa prihlasovací poplatok alebo poplatok za prieskum podľa pravidiel týkajúcich sa poplatkov.
+
+(4) Znížiť poplatok podľa odseku 3 možno pre:
+
+(a) malé a stredné podniky,
+
+(b) fyzické osoby alebo
+
+(c) neziskové organizácie, univerzity alebo verejné výskumné organizácie.
+
+(5) Na účely odseku 4 písm. a) sa uplatňuje Odporúčanie Komisie 2003/361/EC zo 6. mája 2003, ktoré sa týka definície mikro, malých a stredných podnikov (Ú. v. EÚ L 124, zv. 46, 20. 5. 2003).
+
+(6) Prihlasovateľ, ktorý chce využiť zníženie poplatku uvedeného v odseku 3, poskytne vyhlásenie o tom, že je právnickou osobou alebo fyzickou osobou v zmysle odseku 4.
+
+V prípade dôvodných pochybností o pravdivosti takého vyhlásenia môže Európsky patentový úrad vyžadovať predloženie dôkazu.
+
+(7) V prípade viacerých prihlasovateľov musí každý z nich byť právnickou osobou alebo fyzickou osobou v zmysle odseku 4.
 
 Pravidlo 7
 
@@ -462,11 +478,7 @@ Pravidlo 36
 
 Európske vylúčené prihlášky
 
-(1) Prihlasovateľ môže podať vylúčenú prihlášku týkajúcu sa ktorejkoľvek skoršej európskej patentovej prihlášky, ktorá je v konaní, ak
-
-(a) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od prvého oznámenia prieskumového oddelenia podľa článku 94 odseku 3 a podľa pravidla 71 odsekov 1 a 2 alebo pravidla 71 odseku 3 týkajúceho sa najskoršej prihlášky, pre ktorú bolo toto oznámenie vydané, alebo
-
-(b) je vylúčená prihláška podaná pred uplynutím lehoty 24 mesiacov od oznámenia, v ktorom prieskumové oddelenie namietalo, že skoršia prihláška nespĺňa požiadavky článku 82, ak bola táto námietka vznesená prvý raz.
+(1) Prihlasovateľ môže podať vylúčenú prihlášku týkajúcu sa ktorejkoľvek skoršej európskej patentovej prihlášky, ktorá je v konaní.
 
 (2) Vylúčená prihláška musí byť podaná v jazyku konania o skoršej prihláške. Ak neskoršia prihláška nie je v úradnom jazyku Európskeho patentového úradu, vylúčená prihláška môže byť podaná v jazyku skoršej prihlášky; potom musí byť podaný preklad do jazyka konania o skoršej prihláške do dvoch mesiacov od podania vylúčenej prihlášky. Vylúčená prihláška musí byť podaná na Európsky patentový úrad v Mníchove, Haagu alebo Berlíne.
 
@@ -495,6 +507,8 @@ Prihlasovací poplatok a rešeršný poplatok
 (2) Ak prihláška obsahuje viac ako 35 strán, môžu pravidlá týkajúce sa poplatkov ustanoviť príplatok ako súčasť prihlasovacieho poplatku.
 
 (3) Príplatok podľa odseku 2 musí byť zaplatený do jedného mesiaca od podania európskej patentovej prihlášky alebo do jedného mesiaca od podania prvého súboru nárokov, alebo do jedného mesiaca od podania overenej kópie podľa pravidla 40 odseku 3 podľa toho, ktorá lehota uplynie ako posledná.
+
+(4) Pravidlá týkajúce sa poplatkov môžu stanoviť dodatočný poplatok ako súčasť prihlasovacieho poplatku v prípade vylúčenej prihlášky podanej v súvislosti s akoukoľvek predchádzajúcou prihláškou, ktorá sama je vylúčenou prihláškou.
 
 Pravidlo 39
 
@@ -1378,15 +1392,23 @@ h) nariadenie sťažnostného senátu zahŕňajúce, ak je to nevyhnutné, rozho
 
 Pravidlo 103
 
-Vrátenie poplatkov za sťažnosť
+Vrátenie poplatku za sťažnosť
 
-(1) Poplatok za sťažnosť bude vrátený
+(1) Poplatok za sťažnosť bude vrátený v plnej výške
 
-a) v prípade predbežného preskúmania alebo ak sťažnostný senát pokladá sťažnosť za oprávnenú, ak je toto vrátenie spravodlivé z dôvodu porušenia konania alebo
+(a) v prípade autoremedúry alebo ak sťažnostný senát pokladá sťažnosť za oprávnenú a toto vrátenie je spravodlivé z dôvodu závažného procesného pochybenia, alebo
 
-b) ak je sťažnosť vzatá späť pred podaním dôvodov sťažnosti a pred uplynutím lehoty na ich podanie.
+(b) v prípade, že je sťažnosť vzatá späť pred podaním dôvodov sťažnosti a pred uplynutím lehoty na ich podanie.
 
-(2) Odbor, ktorého rozhodnutie je napadnuté, nariadi vrátenie, ak skontroluje svoje rozhodnutie a pokladá vrátenie za spravodlivé z dôvodu porušenia konania. Vo všetkých ostatných prípadoch o predmetoch vrátenia rozhoduje sťažnostný senát.
+(2) Poplatok za sťažnosť sa vráti v 50 % výške v prípade, že sťažnosť je vzatá späť po uplynutí lehoty podľa odseku 1 písm. b), ak sa toto späťvzatie uskutoční,
+
+(a) ak bol dátum ústneho pojednávania stanovený najmenej štyri týždne pred týmto dňom,
+
+(b) ak nebol dátum ústneho pojednávania stanovený a odvolací senát vydal oznámenie, ktorým vyzval navrhovateľa na podanie pripomienok pred uplynutím lehoty určenej senátom na ich podanie, a
+
+(c) vo všetkých ostatných prípadoch pred vydaním rozhodnutia.
+
+(3) Odbor, ktorého rozhodnutie je napadnuté, nariadi vrátenie poplatku, ak svoje rozhodnutie opraví a vrátenie pokladá za spravodlivé z dôvodu závažného procesného pochybenia. Vo všetkých ostatných prípadoch týkajúcich sa vrátenia rozhoduje sťažnostný senát.
 
 HLAVA II
 
