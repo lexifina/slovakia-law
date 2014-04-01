@@ -1,0 +1,3 @@
+# Čl. VII
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 580/2003 Z. z., zákonom č. 479/2005 Z. z., zákonom č. 561/2005 Z. z., zákonom č. 193/2007 Z. z., zákonom č. 500/2007 Z. z., zákonom č. 179/2008 Z. z., zákonom č. 435/2008 Z. z., zákonom č. 191/2009 Z. z., zákonom č. 469/2009 Z. z., zákonom č. 556/2010 Z. z., zákonom č. 133/2013 Z. z., zákonom č. 402/2013 Z. z. a týmto zákonom.
