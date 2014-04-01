@@ -142,6 +142,10 @@
 
 - 58) Zákon č. 338/2000 Z. z. v znení zákona č. 580/2003 Z. z.
 
+- 58a) § 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
+- 58b) § 37 ods. 5 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
+
 - 59) Napríklad zákon č. 241/2001 Z. z. v znení neskorších predpisov.
 
 - 59a) § 11 až 31 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
