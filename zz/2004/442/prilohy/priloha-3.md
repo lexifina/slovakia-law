@@ -7,3 +7,5 @@ Príloha č. 3 k zákonu č. 442/2004 Z. z.
   - 2. Smernica Rady 78/1027/EHS z 18. decembra 1978 týkajúca sa koordinácie zákonov, iných predpisov alebo administratívnych opatrení vo vzťahu k činnostiam veterinárnych lekárov (Úradný vestník Európskych spoločenstiev L 362, 23. 12. 1978) v znení smernice Rady 89/594/EHS z 30. októbra 1989 (Úradný vestník Európskych spoločenstiev L 341, 23. 11. 1989), smernice Európskeho parlamentu a Rady 2001/19/ES zo 14. mája 2001 (Úradný vestník Európskych spoločenstiev L 206, 31. 07. 2001), zrušená smernicou Európskeho parlamentu a Rady 2005/36/ES zo 7. septembra 2005 (Ú. v. EÚ L 255, 30. 9. 2005).
 
   - 3. Smernica Európskeho parlamentu a Rady 2005/36/ES zo 7. septembra 2005 o uznávaní odborných kvalifikácií (Ú. v. EÚ L 255, 30. 9. 2005) v znení smernice Rady 2006/100/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006).
+
+  - 4. Smernica Rady 2013/25/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti práva usadiť sa a slobody poskytovať služby (Ú. v. EÚ L 158, 10. 6. 2013).
