@@ -1,0 +1,3 @@
+Príloha č. 2 k vyhláške č. 56/2014 Z. z.
+
+- VZORY PÍSOMNÉHO INFORMOVANÉHO SÚHLASU PRED VYKONANÍM STERILIZÁCIE OSOBY V JAZYKOCH NÁRODNOSTNÝCH MENŠÍN [príloha 02](../assets/e30caff9ca572ee98c0d0d39ebf5e89c464eed11d0b581bc7cc5608c34b35fcb.pdf)

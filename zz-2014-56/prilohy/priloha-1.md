@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 56/2014 Z. z.
+
+- VZORY PÍSOMNÉHO INFORMOVANÉHO SÚHLASU PRED VYKONANÍM STERILIZÁCIE OSOBY V ŠTÁTNOM JAZYKU [príloha 01](../assets/75bdf29a23d3ffb201692a879bfb8f35a5cfee6a06aef217e6c2afd9c81ec65e.pdf)
