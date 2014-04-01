@@ -280,6 +280,8 @@
 
 - 100) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
+- 100a) § 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
 - 101) Napríklad zákon č. 281/1997 Z. z., Trestný poriadok.
 
 - 102) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z.
