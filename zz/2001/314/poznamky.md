@@ -50,8 +50,6 @@
 
 - 20) Napríklad § 415 a nasl. Občianskeho zákonníka, § 179 a nasl. Zákonníka práce.
 
-- 21) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
-
 - 22) § 179 a nasl. Zákonníka práce.
 
 - 23) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
