@@ -86,6 +86,8 @@
 
 - 9abe) Zákon č. 469/2003 Z. z. o označeniach pôvodu výrobkov a zemepisných označeniach výrobkov a o zmene a doplnení niektorých zákonov.
 
+- 9abea) Napríklad nariadenie (ES) č. 1924/2006.
+
 - 9abf) Zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 9abg) § 2 ods. 17 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
