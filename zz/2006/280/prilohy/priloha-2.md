@@ -62,6 +62,8 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
         - carte de qualification de conducteur
 
+        - kvalifikacijska kartica vozača
+
         - cárta cáilíochta tiomána
 
         - carta di qualificazione del conducente
@@ -116,4 +118,4 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
   - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
 
-- [Obrázok 02-1](../assets/03789aa268c4a38ac19d809832d69504434f60d91a1d2a345dbb19246060f9c1.pdf)
+- [Obrázok 02-1](../assets/a587450bbb37059cf0d123ed0ecd57592b366d256855a84ac6b11f7161351e07.pdf)
