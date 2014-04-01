@@ -4,13 +4,27 @@
 
 - 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
-- 2) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+- 1c) Nariadenie Komisie (EÚ) č. 164/2010 z 25. januára 2010 o technických špecifikáciách pre elektronické hlásenia z lodí pri vnútrozemskej plavbe uvedené v článku 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v Spoločenstve (Ú. v. EÚ L 57, 6. 3. 2010).
 
-- 2a) Európska dohoda o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 243/1996 Z. z.).
+- 2) Časť 1 kapitola 1.8 bod 1.8.3.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- 2b) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
+- 2a) Časť 1 kapitola 1.8 bod 1.8.3.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- 2c) Príloha A časť 1 kapitola 1.1 bod 1.1.3.6. Európskej dohody o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (oznámenie č. 243/1996 Z. z.).
+- 2b) Časť 1 kapitola 1.8 bod 1.8.3 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2c) Časť 1 kapitola 1.8 bod 1.8.3.18 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2d) Časť 7 kapitola 7.1 bod 7.1.3.15, kapitola 7.2 bod 7.2.3.15 a časť 8 kapitola 8.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2e) Časť 8 kapitola 8.2 bod 8.2.2.8 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2f) Časť 8 kapitola 8.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2g) Časť 8 kapitola 8.6 bod 8.6.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2h) Časť 8 kapitola 8.2 bod 8.2.2.6 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 2i) Európska dohoda o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
 - 3) Obchodný zákonník v znení neskorších predpisov.
 
@@ -58,6 +72,10 @@
 
 - 5) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
+- 5a) Čl. 3 písm. h) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1177/2010 z 24. novembra 2010 o právach cestujúcich v námornej a vnútrozemskej vodnej doprave, ktorým sa mení a dopĺňa nariadenie (ES) č. 2006/2004 (Ú. v. EÚ L 334, 17. 12. 2010).
+
+- 5b) Čl. 3 písm. a) nariadenia (EÚ) č. 1177/2010.
+
 - 6) § 762 Občianskeho zákonníka.
 
 - 7) § 760 a 765 Občianskeho zákonníka.§ 610 Obchodného zákonníka.
@@ -90,15 +108,27 @@
 
 - 12dd) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 12e) Čl. 2 nariadenia Rady (EHS) č. 3921/91 zo dňa 16. decembra 1991, ktorým sa stanovujú podmienky, za ktorých môžu dopravcovia z iných štátov vykonávať prepravu tovaru alebo osôb vnútrozemskou vodnou dopravou v rámci členského štátu (Mimoriadne vydanie Ú. v. EÚ, kap. 07/zv. 001;Ú. v. ES L 373, 31. 12. 1991).
+- 12e) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
-- 12f) § 22 ods. 3 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+- 12f) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z.
 
-- 12g) § 37 ods. 5 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
+- 12g) Časť 1 kapitola 1.16 a časť 8 kapitola 8.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 12h) Časť 9 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 12i) Časť 1 kapitola 1.15 bod 1.15.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 12j) § 48 ods. 4 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
+
+- 12k) § 68 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 13) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
 - 13a) Nariadenie vlády Slovenskej republiky č. 417/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na plavidlá určené na rekreačné účely v znení nariadenia vlády Slovenskej republiky č. 86/2006 Z. z.
+
+- 13aa) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 13ab) § 16 ods. 7 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z. v znení nariadenia vlády Slovenskej republiky č. 416/2009 Z. z.
 
 - 13b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -106,7 +136,9 @@
 
 - 15) Oznámenie Federálneho ministerstva zahraničných vecí o Dohovore o ciachovaní lodí vnútrozemskej plavby dojednanom 15. februára 1966 v Ženeve (registrované v čiastke 5/1976 Zb).
 
-- 16) Zákon č. 195/2000 Z. z. o telekomunikáciách.
+- 15a) Časť 8 kapitola 8.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 16) Zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 16a) Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 12/2005 Z. z., ktorou sa ustanovujú podrobnosti o kvalifikačných predpokladoch, o overovaní odbornej spôsobilosti člena posádky plavidla a vodcu malého plavidla a vzory preukazov odbornej spôsobilosti členov posádky plavidla v znení neskorších predpisov.
 
@@ -128,17 +160,35 @@
 
 - 21) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
 
+- 21a) Časť 1 kapitola 1.8 bod 1.8.4 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
 - 21b) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 21c) Nariadenie Rady (ES) č. 1356/96 z 8. júla 1996 o spoločných pravidlách uplatniteľných na vnútrozemskú nákladnú a osobnú vodnú dopravu medzi členskými štátmi z hľadiska slobody poskytovať také dopravné služby (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 2; Ú. v. ES L 175, 13. 7. 1996).
 
 - 22) § 3 písm. c) zákona Slovenskej národnej rady č. 51/1988 Zb.
 
+- 22a) Časť 1 kapitola 1.16 body 1.16.1.2.5 a 1.16.15 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
 - 23) § 126 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 23a) § 30 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
+- 23a) Časť 1 kapitola 1.5 bod 1.5.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
+- 23b) Čl. 17 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- 24) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 23c) Časť 1 kapitola 1.5 bod 1.5.3 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 23d) Časť 1 kapitola 1.8 bod 1.8.3.16 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 23e) Časť 1 kapitola 1.16 a časť 8 kapitola 8.6 bod 8.6.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 23f) Časť 8 kapitola 8.2 bod 8.2.1.2 a kapitola 8.6 bod 8.6.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
+
+- 23g) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 23h) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení neskorších predpisov.
+
+- 24) Nariadenie Komisie (ES) č. 416/2007 z 22. marca 2007 týkajúce sa technických špecifikácií plavebných správ pre veliteľov lodí, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
 
 - 24a) Zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
@@ -146,7 +196,13 @@
 
 - 24c) Regionálna dohoda o rádiotelefónnej službe na vnútrozemských vodných cestách (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 7/2006 Z. z.), nariadenie Komisie (ES) č. 415/2007 z 13. marca 2007 týkajúce sa technických špecifikácií lokalizácie plavidiel a sledovania ich dráhy, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
 
+- 24ca) Nariadenie (ES) č. 415/2007.
+
 - 24d) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 418/2002 Z. z. Trestný poriadok.
+
+- 24e) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 24f) Nariadenie (EÚ) č. 1177/2010.
 
 - 25) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

@@ -16,14 +16,18 @@
 
   - 4. propagáciu vodnej dopravy,
 
-- b) spracováva podklady, návrhy a zdôvodnenia na získanie a účelné rozdelenie finančných prostriedkov na investície do vodných ciest,
+- b) spracováva podklady, návrhy a zdôvodnenia na získanie a účelné rozdelenie finančných prostriedkov na investície do vodných ciest a ich súčastí,
 
 - c) koordinuje a zabezpečuje opravy, rekonštrukcie a modernizácie súčastí vodnej cesty,
 
 - d) realizuje pilotné projekty rozvoja intermodálnych dopravných osí,
 
-- e) podieľa sa na vývoji a implementácii nových technológií a prevádzkových systémov pre vodné cesty,
+- e) podieľa sa na vývoji a implementácii a vykonáva správu nových dopravných technológií a riadiacich systémov vodnej dopravy; na nakladanie s týmito dopravnými technológiami a riadiacimi systémami sa vyžaduje súhlas ministerstva,
 
 - f) vykonáva vo vzájomnej súčinnosti s príslušnými orgánmi štátnej správy činnosti podľa písmen a) až e).
+
+- g) plní úlohy určené ministerstvom, ktoré k nej vykonáva zriaďovateľskú funkciu,
+
+- h) je povinná zaslať na základe žiadosti ministerstva vyjadrenie vo veci podľa § 38 písm. m) a n).
 
 (4) Agentúra je povinná pred začatím výstavby súčastí vodných ciest a ďalších stavieb potrebných na prevádzku vodnej dopravy na vodných cestách dohodnúť zmluvne budúceho správcu. Dňom vydania kolaudačného rozhodnutia prechádza bezodplatne správa stavby na príslušného správcu.

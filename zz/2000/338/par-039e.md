@@ -16,7 +16,7 @@
 
 - g) nazerať do dokumentácie kvalifikačného kurzu, robiť si z nej výpisy, odpisy a zadržať túto dokumentáciu na účely vyhotovenia jej fotokópie,
 
-- h) vyzvať vodcu plavidla, člena posádky plavidla alebo školiteľa, aby sa podrobil dychovej skúške; ak bola dychová skúška pozitívna, aby sa podrobil lekárskemu vyšetreniu na zistenie, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, ktoré môžu znížiť jeho schopnosť bezpečne viesť plavidlo,
+- h) vyzvať vodcu plavidla, člena posádky plavidla alebo školiteľa, aby sa podrobil vyšetreniu, či nie je ovplyvnený alkoholom alebo inou návykovou látkou, ktoré môžu znížiť jeho schopnosť bezpečne viesť plavidlo,
 
 - i) zadržať plavidlo alebo iné veci na účely získania dôkazu,
 

@@ -1,6 +1,6 @@
 # § 22a
 
-(1) Pred uplynutím platnosti lodného osvedčenia sa plavidlo na základe žiadosti prevádzkovateľa plavidla opätovne podrobí technickej prehliadke a prehliadke prevádzkovej spôsobilosti plavidla.
+(1) Pred uplynutím platnosti lodného osvedčenia sa plavidlo na základe žiadosti prevádzkovateľa plavidla opätovne podrobí technickej prehliadke a prehliadke prevádzkovej spôsobilosti plavidla. Ak plavidlo spĺňa požiadavky na technickú spôsobilosť a prevádzkovú spôsobilosť podľa tohto zákona a všeobecne záväzných právnych predpisov vydaných na jeho vykonanie aj po opätovnej technickej prehliadke a prehliadke prevádzkovej spôsobilosti, Dopravný úrad predĺži platnosť lodného osvedčenia.
 
 (2) Doba platnosti lodného osvedčenia sa určí na základe overených výsledkov technickej prehliadky a prehliadky prevádzkovej spôsobilosti plavidla a vyznačí sa v lodnom osvedčení; ak pôvodné lodné osvedčenie vydal príslušný orgán iného členského štátu Európskej únie alebo iného zmluvného štátu Dohody o Európskom hospodárskom priestore, zároveň sa informuje aj tento orgán.
 

@@ -141,3 +141,19 @@ Príloha č. 2 k zákonu č. 338/2000 Z. z. v znení zákona č. 179/2008 Z. z.
   - Lodný kapitán II. triedy,
 
   - (Vyhláška Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 12/2005 Z. z., ktorou sa ustanovujú podrobnosti o kvalifikačných predpokladoch, o overovaní odbornej spôsobilosti člena posádky plavidla a vodcu malého plavidla a vzory preukazov odbornej spôsobilosti členov posádky plavidla v znení neskorších predpisov (podľa § 30 ods. 7 a § 31 ods. 3 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov)).
+
+  - Chorvátska republika
+
+  - Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis
+
+  - Zapovjednik - vrsta A/Schiffsführer – Klasse A
+
+  - (osvedčenie o odbornej kvalifikácii – kapitán, typ A)
+
+  - Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis
+
+  - Zapovjednik - vrsta B/Schiffsführer – Klasse B
+
+  - (osvedčenie o odbornej kvalifikácii – kapitán, typ B)
+
+  - (v súlade s vyhláškou o profesijných označeniach a kvalifikáciách kapitánov, úradný vestník č. 73/09).
