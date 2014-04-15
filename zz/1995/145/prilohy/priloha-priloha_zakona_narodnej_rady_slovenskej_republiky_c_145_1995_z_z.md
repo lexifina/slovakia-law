@@ -5174,15 +5174,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie certifikátu typu mechanického zábranného prostriedku a technického zabezpečovacieho prostriedku ..... | 50 eur
 
-  - XXIII. časť OCHRANA OSOBNÝCH ÚDAJOV
+  - XXIII. ČASŤ OCHRANA OSOBNÝCH ÚDAJOV
 
     - Položka 273
 
-  - a) | Registrácia informačného systému alebo jej zmena ..... | 20,- eur
+  - Osobitná registrácia informačného systému alebo jej zmena ..... | 50,- eur
 
-  - b) | Osobitná registrácia informačného systému alebo jej zmena ..... | 50,- eur
-
-  - Poznámka: Poplatky podľa tejto položky vyberá Úrad na ochranu osobných údajov Slovenskej republiky. | |
+  - Poznámka: Poplatok podľa tejto položky vyberá Úrad na ochranu osobných údajov Slovenskej republiky. |
 
   - XXIV. ČASŤ VÝKON VEREJNEJ MOCI ELEKTRONICKY
 
