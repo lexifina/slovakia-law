@@ -74,7 +74,7 @@ Príloha k vyhláške č. 164/2013 Z. z.
 
     - 2.1 Personálne opatrenia
 
-      - 2.1.1 Písomné poučenie oprávnených osôb pred uskutočnením prvej spracovateľskej operácie s osobnými údajmi
+      - 2.1.1 Poučenie oprávnených osôb pred uskutočnením prvej spracovateľskej operácie s osobnými údajmi
 
         - 2.1.1.1 Poučenie o právach a povinnostiach vyplývajúcich zo zákona a zodpovednosti za ich porušenie
 
@@ -88,13 +88,11 @@ Príloha k vyhláške č. 164/2013 Z. z.
 
       - 2.1.2 Poučenie oprávnených osôb o postupoch spojených s automatizovanými prostriedkami spracúvania a súvisiacich právach a povinnostiach (v priestoroch prevádzkovateľa a mimo týchto priestorov)
 
-      - 2.1.3 Písomné poverenie zodpovednej osoby podľa § 23 zákona, ak prevádzkovateľ spracúva osobné údaje prostredníctvom 20 alebo viac oprávnených osôb
+      - 2.1.3 Písomné poverenie zodpovednej osoby podľa § 23 zákona
 
-      - 2.1.4 Oboznámenie oprávnených osôb s bezpečnostnými smernicami
+      - 2.1.4 Vzdelávanie oprávnených osôb (napr. právna oblasť, oblasť informačných technológií)
 
-      - 2.1.5 Vzdelávanie oprávnených osôb (napr. právna oblasť, oblasť informačných technológií)
-
-      - 2.1.6 Postup pri ukončení pracovného alebo obdobného pomeru oprávnenej osoby (napr. odovzdanie pridelených aktív, zrušenie prístupových práv, poučenie o následkoch porušenia zákonnej alebo zmluvnej povinnosti mlčanlivosti)
+      - 2.1.5 Postup pri ukončení pracovného alebo obdobného pomeru oprávnenej osoby (napr. odovzdanie pridelených aktív, zrušenie prístupových práv, poučenie o následkoch porušenia zákonnej alebo zmluvnej povinnosti mlčanlivosti)
 
     - 2.2 Vedenie zoznamu aktív a jeho aktualizácia
 
