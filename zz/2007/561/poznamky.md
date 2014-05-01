@@ -46,6 +46,12 @@
 
 - 16d) § 9 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
 
+- 16da) § 2 písm. a) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 16db) Zákon č. 250/2007 Z. z.
+
+- Zákon č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
+
 - 16e) Čl. 8 nariadenia (ES) č. 800/2008.
 
 - 17) § 6 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
