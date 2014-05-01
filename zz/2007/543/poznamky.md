@@ -118,6 +118,8 @@
 
 - 27b) Nariadenie (ES) č. 1535/2007.
 
+- 27c) Napríklad čl. 4 nariadenia Komisie (ES) č. 1122/2009 z 30. novembra 2009, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 73/2009, pokiaľ ide o krížové plnenie, moduláciu a integrovaný správny a kontrolný systém v rámci schém priamej podpory pre poľnohospodárov ustanovených uvedeným nariadením, ako aj podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o krížové plnenie v rámci schémy podpory ustanovenej pre odvetvie vinohradníctva a vinárstva (Ú. v. EÚ L 316, 2. 12. 2009) v platnom znení.
+
 - 28) § 47 ods. 7 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 29) Nariadenie Komisie (ES) č. 884/2006 z 21. júna 2006 o pravidlách uplatňovania nariadenia Rady (ES) č. 1290/2005, pokiaľ ide o financovanie intervenčných opatrení vo forme verejného skladovania Európskym poľnohospodárskym záručným fondom (EPZF) a zaúčtovanie operácií verejného skladovania platobnými agentúrami členských štátov (Ú. v. EÚ L 271, 23. 6. 2006).
@@ -190,7 +192,7 @@
 
 - 41) Napríklad nariadenie (ES) č. 1973/2004 (Ú. v. EÚ L 345, 20. 11. 2004) v platnom znení.
 
-- 41a) Napríklad nariadenie (ES) č. 73/2009 v platnom znení, nariadenie Komisie (ES) č. 1122/2009 z 30. novembra 2009, ktorým sa ustanovujú podrobné pravidlá vykonávania nariadenia Rady (ES) č. 73/2009, pokiaľ ide o krížové plnenie, moduláciu a integrovaný správny a kontrolný systém v rámci schém priamej podpory pre poľnohospodárov ustanovených uvedeným nariadením, ako aj podrobné pravidlá vykonávania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o krížové plnenie v rámci schémy podpory ustanovenej pre odvetvie vinohradníctva a vinárstva (Ú. v. EÚ L 316, 2. 12. 2009) v platnom znení, nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 488/2010 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
+- 41a) Napríklad nariadenie (ES) č. 73/2009 v platnom znení, nariadenie Komisie (ES) č. 1122/2009 v platnom znení, nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 488/2010 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
 
 - 41b) § 247 až 250k Občianskeho súdneho poriadku v znení neskorších predpisov.
 
