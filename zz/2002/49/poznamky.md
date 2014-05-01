@@ -70,6 +70,8 @@
 
 - 36) § 4 ods. 1 písm. d) a § 5 ods. 2 písm. c) a d) zákona č. 231/1999 Z. z.
 
+- 36a) § 9 ods. 9 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
+
 - 37) § 127 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
 
 - 37a) § 3 ods. 3 zákona č. 206/2009 Z. z.
