@@ -2,6 +2,8 @@
 
 - 1a) § 7 až 9 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 1b) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
+
 - 2) § 8 až 12 Obchodného zákonníka.
 
 - 3) § 1 zákona č. 55/1997 Z. z. o ochranných známkach.
@@ -17,6 +19,8 @@
 - 8) § 4 ods. 5 zákona č. 250/2007 Z. z.
 
 - 9) § 45 Obchodného zákonníka.
+
+- 9a) § 3 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
 - 10) § 41 Obchodného zákonníka.
 
