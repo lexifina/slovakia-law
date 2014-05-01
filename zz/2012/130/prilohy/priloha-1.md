@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 130/2012 Z. z.
-
-- VÝKAZ ZAMESTNÁVTEĽA V LISTINNEJ PODOBE [Vzor 01](../assets/757052e24552fc540c187f14a352f2e99e44fffaac8937483e95b823c6d9782b.pdf)

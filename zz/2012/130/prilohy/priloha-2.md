@@ -1,3 +1,0 @@
-Príloha č. 2 k vyhláške č. 130/2012 Z. z.
-
-- VÝKAZ SAMOSTATNE ZÁROBKOVO ČINNEJ OSOBY V LISTINNEJ PODOBE [Vzor 02](../assets/6b96c56407ce1be22d0cec1180762a2f6741e7f1fb28f7a219ff7b671114da55.pdf)

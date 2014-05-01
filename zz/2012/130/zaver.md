@@ -1,1 +1,0 @@
-Ivan Uhliarik v. r.
