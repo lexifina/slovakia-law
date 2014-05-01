@@ -4,10 +4,6 @@
 
 - 3) Napríklad § 8 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení zákona č. 255/2001 Z. z.
 
-- 4) § 11 až 18 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
-
-- 5) § 5 a 32 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení zákona Slovenskej národnej rady č. 293/1992 Zb., zákona Slovenskej národnej rady č. 323/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 187/1993 Z. z. (úplné znenie č. 12/1994 Z. z.).
-
 - 6) Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 7) § 14 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
@@ -70,6 +66,8 @@
 
 - Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
+- 30a) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
 - 31a) § 2 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách.
@@ -94,6 +92,12 @@
 
 - 39b) Zákon č. 193/2001 Z. z. o podpore na zriadenie priemyselných parkov a o doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
+- 39c) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
+
+- Zákon č. 446/2001 Z. z. o majetku vyšších územných celkov v znení neskorších predpisov.
+
 - 42) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
@@ -106,7 +110,7 @@
 
 - 47) § 34 ods. 3 písm. a) zákona Slovenskej národnej rady č. 330/1991 Zb.
 
-- 47a) § 4 ods. 1 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. v znení neskorších predpisov.
+- 47a) § 8 ods. 1 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách.
 
 - 48) Napríklad § 588 a 628 Občianskeho zákonníka.
 
