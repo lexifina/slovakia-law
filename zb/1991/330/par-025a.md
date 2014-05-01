@@ -37,3 +37,5 @@
 - c) oznámila písomne ministerstvu skončenie činnosti, na ktorú jej bolo osvedčenie vydané.
 
 (11) Evidenciu osvedčení podľa odseku 1 vedie ministerstvo.
+
+(12) Ministerstvo odoberie oprávnenie na projektovanie pozemkových úprav na základe návrhu okresného úradu podľa § 25 ods. 4 alebo z vlastného podnetu, ak osoba opakovane porušila povinnosť podľa § 25 ods. 3.
