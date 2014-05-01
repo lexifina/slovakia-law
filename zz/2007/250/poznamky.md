@@ -1,6 +1,8 @@
-- 1) § 2 ods. 2 Obchodného zákonníka.
+- 1) § 52 až 54 Občianskeho zákonníka.
 
-- 2) § 10 ods. 1 písm. b) zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 2) § 2 ods. 1 Obchodného zákonníka.
+
+- 2a) Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 3) § 2 ods. 1 písm. d) zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -37,6 +39,10 @@
 - 12b) § 53 Občianskeho zákonníka.
 
 - 12c) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 12cd) § 551 Občianskeho zákonníka.
+
+- 12ce) Zákon č. 191/1950 Zb. Zákon zmenkový a šekový v znení neskorších predpisov.
 
 - 12d) § 2 ods. 1 písm. g) zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
@@ -165,3 +171,5 @@
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 30) § 12 až 34 a § 38 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 31) § 2 ods. 3 Obchodného zákonníka.
