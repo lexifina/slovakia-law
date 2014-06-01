@@ -12,23 +12,23 @@
 
 (2) Pokutu podľa odseku 1 písm. d) možno uložiť
 
-- a) za nesplnenie devízovej ohlasovacej povinnosti alebo povinnosti poskytnúť súčinnosť devízovému orgánu pri výkone devízového dohľadu až do 1 000 000 Sk,
+- a) za nesplnenie devízovej ohlasovacej povinnosti alebo povinnosti poskytnúť súčinnosť devízovému orgánu pri výkone devízového dohľadu až do 100 000 eur,
 
 - b) za nesplnenie depozitnej povinnosti až do 0,3 % zo sumy povinného depozita za každý čo len začatý kalendárny deň nesplnenia depozitnej povinnosti,
 
-- c) za nesplnenie opatrenia na nápravu uloženého podľa odseku 1 písm. a) až do 500 000 Sk,
+- c) za nesplnenie opatrenia na nápravu uloženého podľa odseku 1 písm. a) až do 50 000 eur,
 
 - d) za výkon nepovolenej činnosti alebo v iných prípadoch, ktoré nie sú uvedené v písmenách a) až c),
 
   - 1. až do 50 % zo sumy, ktorej sa týka zistený nedostatok,
 
-  - 2. až do 10 000 000 Sk, ak nemožno zistiť sumu, ktorej sa týka zistený nedostatok.
+  - 2. až do 1 000 000 eur, ak nemožno zistiť sumu, ktorej sa týka zistený nedostatok.
 
 (3) Opatrenia na nápravu, pokutu a ďalšie sankcie podľa odsekov 1 a 2 možno ukladať súbežne, a to aj jedným rozhodnutím; pokutu možno ukladať aj opakovane. Ich uložením nie je dotknutá zodpovednosť podľa osobitných predpisov.<sup>16a</sup>)
 
 (4) Proti rozhodnutiu devízového orgánu podľa odsekov 1 a 2 možno podať rozklad. Rozklad podaný proti rozhodnutiu podľa odseku 1 písm. a) alebo b) nemá odkladný účinok.
 
-(5) Konanie podľa odseku 1 a 2 možno začať do jedného roka odo dňa zistenia nedostatkov, najneskôr však do troch rokov odo dňa vzniku týchto nedostatkov.
+(5) Opatrenia na nápravu a pokuty podľa odsekov 1 a 2 možno uložiť do dvoch rokov od zistenia nedostatkov, najneskôr však do desiatich rokov od ich vzniku. Premlčacie lehoty podľa prvej vety sa prerušujú, keď nastala skutočnosť zakladajúca prerušenie lehoty podľa osobitného zákona,<sup>23aa</sup>) pričom od prerušenia premlčania začína plynúť nová premlčacia lehota. Nedostatky v činnosti kontrolovanej osoby uvedené v protokole o vykonanom dohľade na mieste sa považujú za zistené odo dňa skončenia príslušného dohľadu na mieste podľa osobitného zákona.<sup>23ab</sup>)
 
 (6) Dňom právoplatnosti rozhodnutia o odobratí devízovej licencie zaniká živnostenské oprávnenie<sup>23b</sup>) v rozsahu odobratej devízovej licencie.
 

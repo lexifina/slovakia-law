@@ -26,15 +26,13 @@
 
 - 10) § 2 ods. 2, § 7 a 8 a § 11 a 12 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 11) § 10 ods. 1 a 2 písm. a) a § 50 až 56 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 11) § 10 ods. 1 a 2 písm. a) a § 47 a 49 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 12) § 2 ods. 2 Obchodného zákonníka.
 
 - 13) Napríklad § 27 až 40a zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 34 až 36 zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov, § 4 až 21 zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov, § 28 a 40 až 54a zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov, § 2 až 11 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov, § 122 až 129 zákona č. 413/2002 Z. z. o sociálnom poistení, zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 14) § 54 až 56 a § 61 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- § 3 ods. 3 a § 6 ods. 2 písm. m) zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení zákona č. 213/2006 Z. z.
+- 14) Napríklad § 54 až 56 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 7 a 18 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z., § 27 zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 206/2013 Z. z.
 
 - 15) § 8 zákona č. 311/1999 Z. z. o registri trestov v znení zákona č. 418/2002 Z. z.
 
@@ -58,21 +56,17 @@
 
 - 18a) Zákon č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 19) Napríklad zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu v znení neskorších predpisov.
-
-- 20) Napríklad zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
-
-- 21) § 30 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
-
-- 21a) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
-
-- 21b) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 184/2002 Z. z. o vodách a o zmene a doplnení niektorých zákonov (vodný zákon), zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách v znení neskorších predpisov, zákon č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti v znení zákona č. 183/2000 Z. z.
+- 19) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov, zákon č. 140/2014 Z. z. o nadobúdaní vlastníctva poľnohospodárskeho pozemku a o zmene a doplnení niektorých zákonov.
 
 - 23) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
 - 23a) § 8 ods. 2 písm. d) zákona č. 747/2004 Z. z.
+
+- 23aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 23ab) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 23b) § 57 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
