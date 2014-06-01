@@ -6,10 +6,6 @@
 
 - 3) § 46 ods. 4 zákona č. 162/1990 Zb. o poľnohospodárskom družstevníctve.
 
-- 4) § 2 písm. c) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
-
-- 4a) § 19 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. v znení neskorších predpisov.
-
 - 4b) § 8 zákona Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení zákona Slovenskej národnej rady č. 510/1991 Zb. a zákona Národnej rady Slovenskej republiky č. 183/1993 Z. z. Zákon Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
 - 5) Zákon č. 82/1968 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
