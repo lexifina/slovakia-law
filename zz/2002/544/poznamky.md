@@ -12,6 +12,8 @@
 
 - 6a) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení neskorších predpisov.
 
+- 6b) Zákon č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov.
+
 - 7) § 1 ods. 2 nariadenia vlády Slovenskej republiky č. 183/2002 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na zariadenia určené na osobnú lanovú dopravu.
 
 - 8) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
