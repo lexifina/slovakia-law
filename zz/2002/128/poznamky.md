@@ -48,6 +48,8 @@
 
 - 10aa) § 7a až 7c zákona č. 108/2000 Z. z. v znení zákona č. 367/2013 Z. z.
 
+- 10b) § 20 ods. 3 a § 25c ods. 4 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 102/2014 Z. z.
+
 - 11) Napríklad § 25 a 28 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
 
 - 11a) § 6 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení zákona č. 87/2009 Z. z.
