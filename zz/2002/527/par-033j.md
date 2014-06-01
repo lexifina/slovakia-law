@@ -6,7 +6,7 @@
 
 (3) Za porušenie iných povinností ako tých, ktoré sú uvedené v odsekoch 1 a 2, ministerstvo uloží dražobníkovi pokutu 331,93 eura.
 
-(4) Ak ministerstvo zistí, že dražobník opakovane porušuje povinnosti podľa odseku 3, môže dať podnet príslušnému orgánu podľa osobitného predpisu<sup>8</sup>) na zrušenie živnostenského oprávnenia.
+(4) Ak ministerstvo zistí, že dražobník opakovane porušuje povinnosti podľa odsekov 1 alebo 3, rozhodne o zákaze organizovania dobrovoľných dražieb na obdobie najviac piatich rokov. Zákaz organizovania dobrovoľných dražieb je prekážkou postupu podľa tohto zákona.
 
 (5) Porušenie povinností dražobníka upustiť od dražby, ak tak bol povinný urobiť, alebo povinnosti dohodnúť a udržiavať poistenie zodpovednosti za škodu sa považuje za osobitné závažné porušenie povinností.<sup>8</sup>)
 
