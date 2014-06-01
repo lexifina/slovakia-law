@@ -22,6 +22,6 @@ ak ďalej nie je uvedené inak.
 
 (6) Minister obrany môže poveriť prijatím opatrení podľa odseku 2 písm. a) až d) veliteľa vzdušných síl ozbrojených síl, jeho zástupcu alebo náčelníka štábu vzdušných síl ozbrojených síl.
 
-(7) O použití opatrenia podľa odseku 3 rozhoduje minister obrany a v čase jeho neprítomnosti člen vlády poverený predsedom vlády, ktorým môže byť minister vnútra Slovenskej republiky, minister spravodlivosti Slovenskej republiky alebo minister dopravy, pôšt a telekomunikácií Slovenskej republiky.
+(7) O použití opatrenia podľa odseku 3 rozhoduje minister obrany a v čase jeho neprítomnosti na základe poverenia predsedu vlády minister vnútra Slovenskej republiky alebo minister spravodlivosti Slovenskej republiky alebo minister dopravy, výstavby a regionálneho rozvoja Slovenskej republiky alebo iný člen vlády.
 
 (8) O použití opatrenia podľa odseku 3 minister obrany alebo člen vlády poverený podľa odseku 7 bezodkladne informuje prezidenta Slovenskej republiky, predsedu vlády a ministra zahraničných vecí Slovenskej republiky.
