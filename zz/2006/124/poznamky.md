@@ -90,6 +90,8 @@
 
 - 27) § 31 zákona č. 355/2007 Z. z.
 
+- 27a) § 5 ods. 3 písm. e) zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 58/2014 Z. z.
+
 - 28) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
