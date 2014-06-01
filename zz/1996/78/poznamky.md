@@ -1,9 +1,0 @@
-- 1) § 21 ods.1 a 2 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
-
-- 2) § 3a zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
-
-- 3) Napríklad zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zákona č. 118/1990 Zb., vyhláška Federálneho ministerstva dopravy č. 122/1979 Zb., ktorou sa vykonáva zákon o cestnej doprave a vnútroštátnom zasielateľstve v znení vyhlášky Federálneho ministerstva dopravy č. 84/1992 Zb., vyhláška Federálneho ministerstva dopravy č. 41/1984 Zb. o podmienkach prevádzky vozidiel na pozemných komunikáciách v znení vyhlášky Federálneho ministerstva dopravy č. 248/1991 Zb., vyhlášky Ministerstva dopravy, spojov a verejných prác Slovenskej republiky č. 281/1994 Z. z. a vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 130/1995 Z. z., úprava Slovenského banského úradu z 3. januára 1983 č. 5/1983 o bezpečnosti a ochrane zdravia pri práci a o bezpečnosti prevádzky pri zvislej doprave a chôdzi v organizáciách podliehajúcich dozoru štátnej banskej správy (registrovaná v čiastke 7/1983 Zb.) v znení úpravy Slovenského banského úradu zo 7. júla 1986 č. 55/1986 (registrovanej v čiastke 20/1986 Zb.) a výnosu Slovenského banského úradu z 12. septembra 1990 č. 2681/1990 (oznámenie Slovenského banského úradu č. 399/1990 Zb.), vyhláška Slovenského banského úradu č. 21/1989 Zb. o bezpečnosti a ochrane zdravia pri práci a o bezpečnosti prevádzky pri banskej činnosti a činnosti vykonávanej banským spôsobom v podzemí.
-
-- 4) § 26 ods. 2 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Národnej rady Slovenskej republiky č. 154/1995 Z. z.
-
-- 5) § 34 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona Slovenskej národnej rady č. 499/1991 Zb.
