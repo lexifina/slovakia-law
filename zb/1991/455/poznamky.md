@@ -162,7 +162,7 @@
 
 - 24e) § 69 a 70 Trestného zákona v znení neskorších predpisov.
 
-- 24f) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+- 24f) Napríklad § 25 ods. 2 č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov.
 
 - 25) Zákon č. 498/1990 Zb. o utečencoch.
 
