@@ -372,6 +372,12 @@ Zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. 
 
 - 30. V § 15 ods. 1 písm. c) sa na konci pripájajú tieto slová: „okrem fyzickej osoby alebo právnickej osoby, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c) a d).“
 
+- 31. V § 16 odsek 1 znie:
+
+- „(1)
+
+- Koncový odberateľ, ktorý rozpočítava množstvo dodaného tepla konečnému spotrebiteľovi je povinný zabezpečiť dodávku tepla v určenom čase, v určenej kvalite a v súlade so schválenou alebo určenou cenou.<sup>14</sup>) Fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c) je povinná zabezpečiť teplo v určenom čase a v určenej kvalite.“.
+
 - 32. V § 17 ods. 4 úvodná veta znie:
 
 - „Koncový odberateľ, ktorý rozpočítava množstvo tepla dodaného v teplej úžitkovej vode konečnému spotrebiteľovi a fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c), sú povinní“.
@@ -403,6 +409,12 @@ Zákon č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. 
 - „14b)
 
 - § 2 ods. 7 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona č. 300/2012 Z. z.“.
+
+- 35. V § 18 ods. 4 úvodná veta znie:
+
+- „(4)
+
+- Koncový odberateľ, ktorý rozpočítava množstvo dodaného tepla konečnému spotrebiteľovi a fyzická osoba alebo právnická osoba, ktorá vykonáva činnosť podľa § 1 ods. 3 písm. c), sú povinní“.
 
 - 36. V § 18 ods. 4 písmeno a) znie:
 
