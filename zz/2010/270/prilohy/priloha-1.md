@@ -106,7 +106,7 @@ Príloha č. 1 k nariadeniu vlády č. 270/2010 Z. z.
 
     - (<sup>1</sup>) CAS: Chemical Abstracts Service.
 
-    - (<sup>2</sup>) Tento ukazovateľ predstavuje ENK vyjadrenú ako priemerná ročná hodnota (RP-ENK). Ak nie je uvedené inak, platí suma koncentrácií všetkých izomérov.
+    - (<sup>2</sup>) Tento ukazovateľ predstavuje ENK vyjadrenú ako priemerná ročná hodnota (RP-ENK). Ak nie je uvedené inak, platí pre sumu koncentrácií všetkých izomérov.
 
     - (<sup>3</sup>) Vnútrozemské povrchové vody zahŕňajú rieky a jazerá a súvisiace umelé alebo výrazne zmenené vodné útvary.
 
@@ -126,7 +126,9 @@ Príloha č. 1 k nariadeniu vlády č. 270/2010 Z. z.
 
   - ČASŤ B: UPLATŇOVANIE ENVIRONMENTÁLNYCH NORIEM KVALITY (ENK) USTANOVENÝCH V ČASTI A
 
-    - 1. Stĺpce 4 a 5 tabuľky: Uplatňovanie RP-ENK pre ktorýkoľvek útvar povrchovej vody znamená, že na žiadnom reprezentatívnom monitorovanom mieste v rámci vodného útvaru aritmetický priemer koncentrácií nameraných v rôznych časoch počas roka neprekročí ENK. Spôsob uplatňovania ENK musí byť v súlade s technickými špecifikáciami na monitorovanie chemických látok a kvalitu analytických výsledkov, napríklad výpočet aritmetického priemeru, použitá analytická metóda.
+    - 1. Stĺpce 4 a 5 tabuľky: Uplatňovanie RP-ENK pre ktorýkoľvek útvar povrchovej vody znamená, že na žiadnom reprezentatívnom monitorovanom mieste v rámci vodného útvaru aritmetický priemer koncentrácií nameraných v rôznych časoch počas roka neprekročí ENK.
+
+    - Spôsob uplatňovania ENK musí byť v súlade s technickými špecifikáciami na monitorovanie chemických látok a kvalitu analytických výsledkov, napríklad výpočet aritmetického priemeru, použitá analytická metóda. Ak neexistuje vhodná analytická metóda na zabezpečenie minimálnych požiadaviek na analytickú metódu stanovenia prioritnej látky, použije sa dostupná metóda a pri hodnotení chemického stavu sa uvedie nižšia spoľahlivosť hodnotenia chemického stavu podľa osobitného predpisu.<sup>19a</sup>)
 
     - 2. Stĺpce 6 a 7 tabuľky: uplatňovanie NPK-ENK pre ktorýkoľvek útvar povrchovej vody znamená, že nameraná koncentrácia na žiadnom reprezentatívnom monitorovanom mieste v rámci vodného útvaru neprekročí ENK.
 
