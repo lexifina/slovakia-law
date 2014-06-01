@@ -490,9 +490,9 @@
 
 - 46e) § 8 zákona č. 656/2004 Z. z.
 
-- 46f) § 11 zákona č. 656/2004 Z. z.
+- 46f) § 12 zákona č. 657/2004 Z. z o tepelnej energetike v znení neskorších predpisov.
 
-- 46g) § 12 a 13 zákona č. 656/2004 Z. z.
+- 46g) § 12 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
 - 47) Nariadenie Rady (EHS) č. 1768/92 z 18. júna 1992 o vytvorení dodatkového ochranného osvedčenia na liečivá v platnom znení (Mimoriadne vydanie Ú. v. EÚ kap.13/ zv. 11; Ú. v. ES L 182, 2. 7. 1992).
 

@@ -26,7 +26,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - X. | Životné prostredie | 160 až 171
 
-- XI. | Banská činnosť | 172 až 194
+- XI. | Banská činnosť, výbušniny, výbušné predmety a munícia | 172 až 194
 
 - XII. | Jadrová bezpečnosť | 195 až 201
 
@@ -3644,6 +3644,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - V prípade podlimitných dodávok môže správny orgán znížiť určenú sadzbu poplatku. Poplatky možno zaplatiť aj bez písomnej výzvy správneho orgánu. |
 
+  - Poznámka |
+
+  - Správny orgán nevyberie poplatok podľa tejto položky, ak ide o dovoz vzoriek výbušnín a výbušných predmetov určených na vykonanie ich certifikácie a klasifikácie notifikovanou osobou. |
+
   - X. ČASŤ ŽIVOTNÉ PROSTREDIE
 
     - Položka 160
@@ -3980,15 +3984,17 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie alebo zmena oprávnenia na výpočet pridelenia kvót<sup>39oc</sup>) ................ | 193 eur
 
-  - XI. ČASŤ BANSKÁ ČINNOSŤ
+  - XI. ČASŤ BANSKÁ ČINNOSŤ, VÝBUŠNINY, VÝBUŠNÉ PREDMETY A MUNÍCIA
 
     - Položka 172
 
   - Vydanie rozhodnutia o |
 
-  - a) určení alebo zmene chráneného ložiskového územia .................................................................... | 16,50 eura
+  - a) určení alebo zmene chráneného ložiskového územia ..... | 16,50 eura
 
-  - b) zrušení chráneného ložiskového územia ........................................................................................... | 16,50 eura
+  - b) zrušení chráneného ložiskového územia ..... | 16,50 eura
+
+  - c) vydanie osvedčenia o vhodnosti prírodných horninových štruktúr a podzemných priestorov, ktoré vznikli dobývaním na uskladňovanie plynov a kvapalín ..... | 1 000 eur
 
   - Oslobodenie Od poplatku podľa tejto položky je oslobodené vydanie rozhodnutia, ak výhradné ložisko je výsledkom geologickej úlohy financovanej zo štátneho rozpočtu a vzťahuje sa na neho § 10 ods. 2 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov. |
 
@@ -4054,11 +4060,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 177
 
-  - a) vydanie súhlasu na výrobu a spracovanie výbušnín alebo na výskum, vývoj alebo pokusnú výrobu výbušnín a na výrobu pyrotechnických výrobkov.......... | 165,50 eura,
+  - a) Vydanie súhlasu na výrobu a spracovanie výbušnín vrátane výbušných predmetov alebo munície, alebo vykonávanie výskumu, vývoja alebo pokusnej výroby výbušnín, výbušných predmetov alebo munície..... | 165,50 eura,
 
-  - b) zmena v súhlase podľa písmena a)........... | 33 eur,
+  - b) zmena v súhlase podľa písmena a) ..... | 33 eur,
 
-  - c) vydanie povolenia na používanie výbušniny v podzemí............ | 165,50 eura
+  - c) vydanie povolenia na používanie výbušniny v podzemí ..... | 165,50 eura
+
+  - d) vydanie povolenia na vyhľadávanie munície ..... | 33 eur
+
+  - e) predĺženie platnosti povolenia podľa písmena d) ..... | 16 eur
 
     - Položka 178
 
@@ -4070,21 +4080,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Vydanie povolenia na |
 
-  - a) trhacie práce malého rozsahu alebo ohňostrojné práce ............................................ | 16,50 eura
+  - a) trhacie práce malého rozsahu alebo ohňostrojné práce .................................. | 10 eur
 
-  - b) trhacie práce veľkého rozsahu ................................................................................... | 16,50 eura
+  - b) trhacie práce veľkého rozsahu ......................................................................... | 16,50 eura
 
-  - c) dva a viac odstrelov podľa písmena b) ....................................................................... | 33 eur
+  - c) dva a viac odstrelov podľa písmena b) ............................................................. | 33 eur
 
   - Splnomocnenie Pri predĺžení časovej platnosti rozhodnutia podľa písmen a) až c) správny orgán zníži správny poplatok o 50 %. |
 
-  - Poznámka Správny orgán nevyberie poplatok podľa tejto položky, ak je spoplatnené povolenie na trhacie práce súčasťou povolenia podľa položky 175 alebo 176. |
-
     - Položka 181
 
-  - a) Vydanie povolenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov, pyrotechnikov a predavačov pyrotechnických výrobkov vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ...................................... | 33 eur
+  - a) Vydanie poverenia na výučbu strelmajstrov, technických vedúcich odstrelov alebo odpaľovačov ohňostrojov, pyrotechnikov a predavačov pyrotechnických výrobkov, odbornú spôsobilosť zamestnancov na práce s výbušninami, výbušnými predmetmi a muníciou, na priame organizovanie a riadenie prác s výbušninami a výbušnými predmetmi, na priame organizovanie a riadenie prác s výbušninami, výbušnými predmetmi a muníciou vrátane miestneho zisťovania a schvaľovanie učebných osnov a testov ............................ | 33 eur
 
-  - b) Zmena povolenia podľa písmena a) ................................................................................................ | 6,50 eura
+  - b) Zmena povolenia podľa písmena a) ...................... | 6,50 eura
 
     - Položka 182
 
@@ -4140,15 +4148,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 190
 
-  - a) Zariadenie overovacej prevádzky vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania vrátane posúdenia výsledku overovacej prevádzky.............. | 13 eur
+  - a) Zariadenie overovacej prevádzky vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania vrátane posúdenia výsledku overovacej prevádzky............ | 13 eur
 
-  - b) Vydanie povolenia na používanie vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania............ | 16,50 eura
+  - b) Vydanie povolenia na používanie vybraného banského zariadenia podľa banských predpisov okrem miestneho zisťovania........... | 16,50 eura
 
-  - c) Povolenie zmeny na vybranom banskom zariadení............ | 9,50 eura
+  - c) Povolenie zmeny na vybranom banskom zariadení.......... | 9,50 eura
 
   - d) určenie podmienok na používanie vybraného banského stroja, zariadenia, prístroja alebo pomôcky..... | 16,50 eura
 
-  - e) Schválenie typu dopravníkových pásov a plastických hmôt na ich použitie v podzemí........... | 99,50 eura
+  - e) Schválenie typu dopravníkových pásov a plastických hmôt na ich použitie v podzemí............ | 99,50 eura
+
+  - f) povolenie používať vybrané zariadenia, prístroje a pomôcky pri manipulácii s výbušninami, výbušnými predmetmi a muníciou, ktoré nie sú určenými výrobkami v rámci jedného technologického procesu......... | 33 eur
+
+  - g) nariadenie overovacej prevádzky vybraného zariadenia podľa písmena f)............. | 16 eur
+
+  - h) povolenie zmeny na vybranom zariadení podľa písmena f)........... | 10 eur
 
     - Položka 191
 
@@ -4413,6 +4427,22 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - | 1. | vydanie predchádzajúceho súhlasu s vymenovaním alebo s ustanovením a odvolaním osoby zodpovednej za zabezpečenie programu súladu prevádzkovateľa prepravnej siete, prevádzkovateľa distribučnej siete alebo prevádzkovateľa distribučnej sústavy ..... | | 200 eur
 
   - | 2. | vydanie predchádzajúceho súhlasu s vymenovaním alebo s voľbou a odvolaním štatutárneho orgánu alebo člena štatutárneho orgánu prevádzkovateľa prepravnej siete ..... | | 100 eur
+
+    - Položka 209
+
+  - a) | Vydanie rozhodnutia o osvedčení o súlade pripravovanej výstavby sústavy tepelných zariadení alebo jej časti s dlhodobou koncepciou Energetickej politiky Slovenskej republiky<sup>46f</sup>) s inštalovaným výkonom | |
+
+  - | 1. | do 20 MW vrátane ..... | 1 000 eur
+
+  - | 2. | nad 20 MW za každých aj začatých 10 MW ..... | 1 000 eur
+
+  - b) | Vydanie rozhodnutia o osvedčení na výstavbu energetického zariadenia<sup>46g</sup>) | |
+
+  - | 1. | bez inštalovaného výkonu ..... | 1 000 eur
+
+  - | 2. | s inštalovaným výkonom za každých aj začatých 10 MW ..... | 1 000 eur.
+
+  - Poznámka: Pri kombinovanej výrobe elektriny a tepla je výška správneho poplatku určená na základe hodnoty inštalovaného elektrického výkonu zariadenia. | | |
 
   - XIV. ČASŤ HOSPODÁRSKA SÚŤAŽ
 
