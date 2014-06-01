@@ -10,7 +10,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 2. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | – oprávnenie na činnosť alebo – osvedčenie na vykonávanie činnosti | § 15 ods. 1 a 9 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov |
 
-- 3. | Montáž, oprava, vykonávanie revízií a skúšok vyhradených technických zariadení*) | oprávnenie | § 8a ods. 3 písm. b) zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení zákona č. 577/2007 Z. z. *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
+- 3. | Opravy, odborné prehliadky a odborné skúšky vyhradených technických zariadení | oprávnenie na činnosť alebo osvedčenie na vykonávanie činnosti alebo preukaz na vykonávanie činnosti | § 8a ods. 7 zákona č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov *) len v oblasti pôsobnosti dozoru štátnej banskej správy |
 
 - 4. | Vývoj a výroba zbraní alebo streliva | – stredné odborné vzdelanie v odbore puškárstvo a dva roky praxe v odbore alebo – 10 rokov praxe v odbore | | I
 
@@ -40,7 +40,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 15. | Výkon činnosti energetického audítora | osvedčenie o zápise do zoznamu energetických audítorov | § 9 ods. 1 zákona č. 476/2008 Z. z. o efektívnosti pri používaní energie (zákon o energetickej efektívnosti) a o zmene a doplnení zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona è. 17/2007 Z. z. |
 
-- 16. | Vykonávanie trhacích prác | – oprávnenie strelmajstra, vek 21 rokov alebo – oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 35 zákona Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov |
+- 16. | Vykonávanie trhacích prác | 1. oprávnenie strelmajstra, vek 21 rokov alebo 2. oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 32 a 33 zákona č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov |
 
 - 17. | Uskutočňovanie krajinno-architektonických sadovníckych diel | – vysokoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru, alebo – odborné stredoškolské vzdelanie záhradníckeho, poľnohospodárskeho alebo lesníckeho smeru a dva roky praxe v odbore | |
 
@@ -102,13 +102,35 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 45. | Činnosť vykonávaná banským spôsobom*) alebo Projektovanie a navrhovanie objektov, zariadení a prác, ktoré sú súčasťou banskej činnosti a činnosti vykonávanej banským spôsobom alebo Projektovanie trhacích prác veľkého rozsahu | – osvedčenie o odbornej spôsobilosti | § 5 ods. 3 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. § 5 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom *) v rozsahu § 3 písm. c) až i) zákona č. 51/1988 Zb. |
 
-- 46. | Výroba a spracovanie výbušnín vrátane pyrotechnických výrobkov alebo vykonávanie výskumu, vývoja alebo pokusnej výroby výbušnín | vysokoškolské alebo postgraduálne vzdelanie s vyučovacím predmetom výroba výbušnín v rozsahu najmenej dvoch semestrov alebo štyroch trimestrov | § 23 ods. 1 písm. d) a § 36b ods. 1 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. | I
+- 46. | Výroba a spracovanie výbušnín vrátane výbušných predmetov, munície alebo vykonávanie výskumu, vývoja alebo pokusnej výroby výbušnín, výbušných predmetov a munície | vysokoškolské vzdelanie so zameraním na výrobu výbušnín II. stupňa alebo postgraduálne vzdelanie s vyučovacím predmetom výroba výbušnín a munície v rozsahu najmenej dvoch semestrov alebo štyroch trimestrov alebo s oprávnením o odbornej spôsobilosti pyrotechnika skupiny E | § 31 zákona č. 58/2014 Z. z. | I
 
-- 47. | Ničenie a zneškodňovanie výbušnín pri výskume, vývoji, výrobe a spracovaní | osvedčenie o odbornej spôsobilosti | § 5 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 208/1993 Z. z. o požiadavkách na kvalifikáciu a o overovaní odbornej spôsobilosti pracovníkov pri banskej činnosti a činnosti vykonávanej banským spôsobom |
+- 47. | Ničenie a zneškodňovanie výbušnín, výbušných predmetov a munície pri výskume, vývoji, výrobe a spracovaní | Oprávnenie pyrotechnika skupiny D alebo E | § 35 ods. 6 a 7 zákona č. 58/2014 Z. z. |
 
-- 48. | Vykonávanie ohňostrojných prác | preukaz odpaľovača ohňostrojov | § 4 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 79/1993 Z. z. o získaní odbornej spôsobilosti odpaľovačov ohňostrojov a pyrotechnikov |
+- 48. | Vykonávanie ohňostrojných prác | Oprávnenie odpaľovača ohňostrojov | § 34 ods. 2 zákona č. 58/2014 Z. z. |
 
-- 49. | Predaj pyrotechnických predmetov tried II a III a podtriedy T1 | – oprávnenie pyrotechnika alebo strelmajstra alebo odpaľovača ohňostrojov alebo – potvrdenie o kvalifikácii predavača pyrotechnických výrobkov | § 36d ods. 12 zákona č. 51/1988 Zb. v znení zákona č. 577/2007 Z. z. | III
+- 49. | Predaj pyrotechnických výrobkov kategórie 2, kategórie 3, kategórie T1 a kategórie P1 | 1. oprávnenie pyrotechnika alebo strelmajstra alebo odpaľovača ohňostrojov, 2. osvedčenie o odbornej spôsobilosti predavača pyrotechnických výrobkov | § 52 ods. 10 zákona č. 58/2014 Z. z. | III
+
+- 49a. | Odborná príprava na získanie odbornej spôsobilosti pri výrobe a spracovaní, používaní a ničení výbušnín a výbušných predmetov | Oprávnenie pyrotechnika C | § 35 ods. 5 zákona č. 58/2014 Z. z. |
+
+- 49b. | Odborná príprava na získanie odbornej spôsobilosti pri výrobe a spracovaní, používaní a ničení výbušnín, výbušných predmetov a munície | Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
+
+- 49c. | Odborná príprava na získanie odbornej spôsobilosti predavača pyrotechnických výrobkov | Oprávnenie odpaľovača ohňostrojov | § 34 zákona č. 58/2014 Z. z. |
+
+- 49d. | Odborná príprava na získanie odbornej spôsobilosti odpaľovača ohňostrojov | Oprávnenie odpaľovača ohňostrojov | § 34 zákona č. 58/2014 Z. z. |
+
+- 49e. | Odborná príprava na získanie odbornej spôsobilosti strelmajstra | Oprávnenie technického vedúceho odstrelov | § 33 zákona č. 58/2014 Z. z. |
+
+- 49f | Odborná príprava na získanie odbornej spôsobilosti technického vedúceho odstrelov | Oprávnenie technického vedúceho odstrelov | § 33 zákona č. 58/2014 Z. z. |
+
+- 49h. | Odborná príprava na získanie odbornej spôsobilosti pyrotechnika B | Oprávnenie pyrotechnika B Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 4 § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
+
+- 49i. | Odborná príprava na získanie odbornej spôsobilosti pyrotechnika C | Oprávnenie pyrotechnika C Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 5 § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
+
+- 49j. | Odborná príprava na získanie odbornej spôsobilosti pyrotechnika D | Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
+
+- 49k. | Odborná príprava na získanie odbornej spôsobilosti pyrotechnika E | Oprávnenie pyrotechnika E | § 35 ods. 7 zákona č. 58/2014 Z. z. |
+
+- 49l. | Vyhľadávanie nevybuchnutej munície | Oprávnenie pyrotechnika D Oprávnenie pyrotechnika E | § 35 ods. 6 § 35 ods. 7 zákona č. 58/2014 Z. z. |
 
 - 50. | Prevádzkovanie cestovnej kancelárie | – vysokoškolské vzdelanie druhého stupňa a dva roky praxe v odbore alebo – vysokoškolské vzdelanie prvého stupňa alebo vyššie odborné vzdelanie a tri roky praxe v odbore alebo – úplné stredné všeobecné vzdelanie alebo úplné stredné odborné vzdelanie a štyri roky praxe v odbore | | II
 
