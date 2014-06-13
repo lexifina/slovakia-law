@@ -18,6 +18,8 @@ Zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochr
 
 - Doterajší odkaz 1 sa označuje ako odkaz 1a.
 
+- 2. V poznámke pod čiarou k odkazu 1a sa citácia „zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov“ nahrádza citáciou „zákon č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov“.
+
 - 3. V § 4 sa odsek 3 dopĺňa písmenom g), ktoré znie:
 
 - „g)

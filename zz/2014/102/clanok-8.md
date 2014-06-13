@@ -26,11 +26,19 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 
 - Napríklad zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.“.
 
+- 2. V § 2 písm. n) sa za slová „odborným posúdením“ vkladá slovo „písomné“.
+
 - 3. § 2 sa dopĺňa písmenom zd), ktoré znie:
 
 - „zd)
 
 - produktom výrobok alebo služba vrátane nehnuteľnosti, práva alebo záväzku.“.
+
+- 4. Nad § 4 sa vkladá nadpis, ktorý znie: „Povinnosti predávajúceho“.
+
+- 5. Nadpis pod § 4 sa vypúšťa.
+
+- 6. V § 4 ods. 1 písm. i) sa vypúšťajú slová „pri vybavovaní cezhraničnej reklamácie“.
 
 - 7. V § 4 odsek 2 znie:
 
@@ -49,6 +57,66 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 - c)
 
 - používať nekalé obchodné praktiky a neprijateľné podmienky v spotrebiteľských zmluvách.“.
+
+- 8. V § 4 ods. 10 sa vypúšťajú slová „napriek upozorneniu združenia“.
+
+- 9. § 4 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Predávajúci nesmie žiadať alebo prijať od spotrebiteľa úhradu za dodaný výrobok, poskytnutú službu alebo poskytnutý elektronický obsah,<sup>12ca</sup>) ktorý si spotrebiteľ neobjednal. Nečinnosť spotrebiteľa po prijatí nevyžiadanej dodávky podľa prvej vety nemá za následok vznik akýchkoľvek nákladov ani iných povinností pre spotrebiteľa.“.
+
+- Poznámka pod čiarou k odkazu 12ca znie:
+
+- „12ca)
+
+- § 2 ods. 7 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.“.
+
+- 10. Za § 4 sa vkladá § 4a, ktorý znie:
+
+- „§ 4a
+
+- (1)
+
+- Predávajúci nesmie spotrebiteľovi účtovať poplatky
+
+- a)
+
+- za použitie platobného prostriedku<sup>12cb</sup>) alebo
+
+- b)
+
+- za využitie iného spôsobu platby, ako je platobný prostriedok vo výške prevyšujúcej skutočné náklady, ktoré vznikli predávajúcemu v súvislosti s používaním tohto spôsobu platby.
+
+- (2)
+
+- Ustanovenie odseku 1 sa nepoužije, ak ide o poplatok účtovaný poskytovateľom platobných služieb<sup>12cc</sup>) za poskytnutú platobnú službu.
+
+- (3)
+
+- Telefónne číslo predávajúceho, na ktorom ho môže kontaktovať spotrebiteľ v súvislosti s uzavretou zmluvou, nesmie byť číslom služby so zvýšenou tarifou.
+
+- (4)
+
+- Platbu inú ako je úhrada ceny za hlavný predmet plnenia, náklady a poplatky podľa § 10a ods. 1 písm. d) je spotrebiteľ povinný zaplatiť, len ak s touto platbou výslovne súhlasil pred uzavretím zmluvy alebo pred odoslaním objednávky. Dôkazné bremeno o udelení výslovného súhlasu podľa prvej vety znáša predávajúci.
+
+- (5)
+
+- Predávajúci nesmie na účely získania súhlasu podľa odseku 4 ponúkať spotrebiteľovi v návrhu zmluvy alebo pri ktoromkoľvek úkone predchádzajúcom uzavretiu zmluvy predvolené možnosti, pri ktorých sa vyžaduje úkon spotrebiteľa smerujúci k ich odmietnutiu s cieľom vyhnúť sa dodatočnej platbe. Ak bol súhlas spotrebiteľa získaný v rozpore s prvou vetou, spotrebiteľ nie je povinný túto dodatočnú platbu uhradiť.
+
+- (6)
+
+- Predávajúci nesmie spotrebiteľovi uvádzať pri ponuke možností prepravy alebo dodania objednaného tovaru žiadne údaje, vlastnosti alebo podmienky poštových, prepravných alebo zasielateľských služieb, ktoré sú v rozpore s informáciami uvedenými vo verejne prístupných poštových, obchodných alebo iných podmienkach poskytovania týchto služieb, alebo ktoré nie sú výslovne uvedené v písomnej dohode medzi poštovým podnikom, prepravcom alebo zasielateľom vykonávajúcim prepravu alebo dodanie tovaru a predávajúcim.“.
+
+- Poznámky pod čiarou k odkazu 12cb a 12cc znejú:
+
+- „12cb)
+
+- § 2 ods. 19 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12cc)
+
+- § 2 ods. 3 zákona č. 492/2009 Z. z. v znení neskorších predpisov.“.
 
 - 11. Za § 5 sa vkladá § 5a, ktorý vrátane nadpisu znie:
 
@@ -130,6 +198,126 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 
 - Predávajúci ani osoba, ktorá v mene veriteľa alebo vo vlastnom mene vymáha pohľadávky vyplývajúce zo spotrebiteľskej zmluvy, nesmie spotrebiteľa v súvislosti s uplatňovaním alebo vymáhaním pohľadávok osobne navštevovať v jeho domácnosti alebo na pracovisku. Na tento účel je rovnako zakázané akýmkoľvek spôsobom kontaktovať alebo obťažovať spotrebiteľa počas sviatkov, dní pracovného pokoja alebo počas pracovných dní v čase po osemnástej hodine.“.
 
+- 19. Za § 10 sa vkladá § 10a, ktorý vrátane nadpisu nad paragrafom znie:
+
+- „Informačné povinnosti
+
+- § 10a
+
+- (1)
+
+- Predávajúci je povinný pred uzavretím zmluvy alebo ak sa zmluva uzatvára na základe objednávky spotrebiteľa pred tým, ako spotrebiteľ odošle objednávku, ak nie sú tieto informácie zjavné vzhľadom na povahu výrobku alebo služby, spotrebiteľovi jasným a zrozumiteľným spôsobom oznámiť
+
+- a)
+
+- hlavné vlastnosti výrobku alebo charakter služby v rozsahu primeranom výrobku alebo službe,
+
+- b)
+
+- obchodné meno a sídlo alebo miesto podnikania predávajúceho,
+
+- c)
+
+- telefónne číslo predávajúceho a ďalšie údaje, ktoré sú dôležité pre kontakt spotrebiteľa s predávajúcim, najmä adresu jeho elektronickej pošty a číslo faxu, ak ich má,
+
+- d)
+
+- predajnú cenu výrobku alebo služby alebo, ak vzhľadom na povahu výrobku alebo služby nemožno cenu primerane určiť vopred, spôsob, akým sa vypočíta, ako aj náklady na dopravu, dodanie, poštovné a iné náklady a poplatky, alebo ak tieto náklady a poplatky nemožno určiť vopred, skutočnosť, že do celkovej ceny môžu byť zarátané takéto náklady a poplatky,
+
+- e)
+
+- platobné podmienky, dodacie podmienky, lehotu, do ktorej sa predávajúci zaväzuje dodať výrobok alebo poskytnúť službu, informáciu o postupoch uplatňovania a vybavovania reklamácií, sťažností a podnetov spotrebiteľov,
+
+- f)
+
+- poučenie o zodpovednosti predávajúceho za vady výrobku alebo služby podľa všeobecného predpisu,<sup>15a</sup>)
+
+- g)
+
+- informáciu o existencii a podrobnostiach záruky poskytovanej výrobcom alebo predávajúcim podľa prísnejších zásad, ako ustanovuje všeobecný predpis,<sup>15b</sup>) ak ju výrobca alebo predávajúci poskytuje, ako aj informáciu o existencii a podmienkach pomoci a službách poskytovaných spotrebiteľom po predaji výrobku alebo poskytnutí služby, ak sa takáto pomoc poskytuje,
+
+- h)
+
+- informáciu o dĺžke trvania zmluvy, ak ide o zmluvu uzavretú na dobu určitú; ak ide o zmluvu uzavretú na dobu neurčitú alebo ak ide o zmluvu, pri ktorej sa automaticky predlžuje jej platnosť, aj informáciu o podmienkach vypovedania zmluvy,
+
+- i)
+
+- informáciu o funkčnosti vrátane použiteľných technických ochranných opatrení na zabezpečenie elektronického obsahu, ak je to vhodné,
+
+- j)
+
+- informáciu o kompatibilite elektronického obsahu s hardvérom a softvérom, ktoré sú predávajúcemu známe alebo je rozumné očakávať, že sú mu známe, ak je to vhodné.
+
+- (2)
+
+- Povinnosti podľa odseku 1 sa vzťahujú aj na zmluvu o poskytovaní elektronického obsahu nedodávaného na hmotnom nosiči.
+
+- (3)
+
+- Ustanovenia odseku 1 sa nepoužijú, ak pre predávajúceho vyplýva z osobitného predpisu<sup>15c</sup>) povinnosť poskytnúť informácie spotrebiteľovi pred uzavretím zmluvy.“.
+
+- Poznámky pod čiarou k odkazom 15a až 15c znejú:
+
+- „15a)
+
+- § 622 a 623 Občianskeho zákonníka.
+
+- 15b)
+
+- § 502 Občianskeho zákonníka.
+
+- 15c)
+
+- Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 251/2012 Z. z. v znení neskorších predpisov.“.
+
+- 20. Nadpis nad § 11 sa vypúšťa.
+
+- 21. V § 13 sa slová „Ak sa informácie uvedené v § 11 a 12 poskytujú písomne“ nahrádzajú slovami „Ak sa informácie uvedené v § 10a až 12 poskytujú písomne“.
+
+- 22. V § 18 odsek 2 znie:
+
+- „(2)
+
+- Spotrebiteľ môže uplatniť reklamáciu v ktorejkoľvek prevádzkarni predávajúceho, v ktorej je prijatie reklamácie možné s ohľadom na predávané výrobky alebo poskytované služby, alebo u určenej osoby. Určená osoba môže reklamáciu vybaviť iba odovzdaním opraveného výrobku, inak reklamáciu postúpi predávajúcemu na vybavenie.“.
+
+- 23. V § 18 ods. 6 sa na konci pripájajú tieto vety:
+
+- „Predávajúci je povinný poskytnúť spotrebiteľovi kópiu odborného posúdenia odôvodňujúceho zamietnutie reklamácie najneskôr do 14 dní odo dňa vybavenia reklamácie. Tým nie je dotknutá povinnosť predávajúceho podľa odseku 9.“.
+
+- 24. Za § 18 sa vkladá § 18a, ktorý vrátane nadpisu znie:
+
+- „§ 18a
+
+- Náležitosti odborného posúdenia
+
+- (1)
+
+- Odborné posúdenie musí obsahovať
+
+- a)
+
+- identifikáciu osoby, ktorá vykonáva odborné posúdenie,
+
+- b)
+
+- presnú identifikáciu posudzovaného výrobku,
+
+- c)
+
+- popis stavu výrobku,
+
+- d)
+
+- výsledok posúdenia,
+
+- e)
+
+- dátum vyhotovenia odborného posúdenia.
+
+- (2)
+
+- Na odborné posúdenie, ktoré neobsahuje náležitosti podľa odseku 1, sa neprihliada.“.
+
 - 25. Za § 20 sa vkladá § 20a, ktorý znie:
 
 - „§ 20a
@@ -146,6 +334,12 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 
 - 27. V § 21 ods. 2 prvej vete sa slová „zistí porušenie“ nahrádzajú slovami „získa podozrenie o porušovaní“ a za slovo „predávajúci“ sa vkladajú slová „alebo osoba podľa § 9a“.
 
+- 28. V § 24 odsek 7 znie:
+
+- „(7)
+
+- Konanie o uložení pokuty možno začať do 12 mesiacov odo dňa, keď orgán dozoru zistil porušenie povinnosti podľa tohto zákona, najneskôr do troch rokov podľa odsekov 1 a 3, a do desiatich rokov podľa odseku 2 odo dňa, keď k porušeniu povinnosti došlo. Pokutu možno uložiť najneskôr do štyroch rokov odo dňa, keď k porušeniu povinnosti došlo.“.
+
 - 29. V § 25 ods. 1 sa za slová „práv spotrebiteľov“ vkladá čiarka a slová „a to vrátane konania vo veci ochrany kolektívnych záujmov spotrebiteľov,“.
 
 - 30. Za § 29a sa vkladá § 29b, ktorý vrátane nadpisu znie:
@@ -155,6 +349,14 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 - Prechodné ustanovenie k úpravám účinným od 1. mája 2014
 
 - Ustanoveniami § 5a ods. 1 písm. b) a ods. 2 až 4 sa spravujú aj právne vzťahy vzniknuté pred 1. májom 2014; vznik týchto právnych vzťahov, ako aj nároky z nich vzniknuté pred 1. májom 2014 sa však posudzujú podľa predpisov účinných do 30. apríla 2014.“.
+
+- 31. Za § 29b sa vkladá § 29c, ktorý vrátane nadpisu znie:
+
+- „§ 29c
+
+- Prechodné ustanovenie k úpravám účinným od 13. júna 2014
+
+- Ustanoveniami § 4a ods. 1 až 3 sa spravujú aj právne vzťahy vzniknuté pred 13. júnom 2014; vznik týchto právnych vzťahov, ako aj nároky z nich vzniknuté pred 13. júnom 2014 sa však posudzujú podľa predpisov účinných do 12. júna 2014.“.
 
 - 32. V prílohe č. 1 časti Klamlivé obchodné praktiky šiesty bod znie:
 
@@ -185,3 +387,9 @@ Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej n
 - § 2 ods. 3 Obchodného zákonníka.“.
 
 - 35. Slovo „výrobok“ vo všetkých tvaroch sa v celom texte prílohy č. 1 nahrádza slovom „produkt“ v príslušnom tvare.
+
+- 36. Príloha č. 2 sa dopĺňa deviatym bodom, ktorý znie:
+
+- „9.
+
+- Smernica Európskeho parlamentu a Rady 2011/83/EÚ z 25. októbra 2011 o právach spotrebiteľov, ktorou sa mení a dopĺňa smernica Rady 93/13/EHS a smernica Európskeho parlamentu a Rady 1999/44/ES a ktorou sa zrušuje smernica Rady 85/577/EHS a smernica Európskeho parlamentu a Rady 97/7/ES (Ú. v. EÚ L 304, 22. 11. 2011).“.
