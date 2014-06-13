@@ -40,6 +40,12 @@
 
 - 12c) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
+- 12ca) § 2 ods. 7 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
+
+- 12cb) § 2 ods. 19 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 12cc) § 2 ods. 3 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
 - 12cd) § 551 Občianskeho zákonníka.
 
 - 12ce) Zákon č. 191/1950 Zb. Zákon zmenkový a šekový v znení neskorších predpisov.
@@ -53,6 +59,12 @@
 - 14) § 623 Občianskeho zákonníka.
 
 - 15) Napríklad Občiansky zákonník, zákon č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov, zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z., zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z., zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+
+- 15a) § 622 a 623 Občianskeho zákonníka.
+
+- 15b) § 502 Občianskeho zákonníka.
+
+- 15c) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 251/2012 Z. z. v znení neskorších predpisov.
 
 - 16) Napríklad zákon č. 264/1999 Z. z.
 
