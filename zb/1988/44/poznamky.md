@@ -50,6 +50,8 @@
 
 - 12aa) Zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov.
 
+- 12aaa) § 24a zákona č. 569/2007 Z. z. v znení zákona č. 160/2014 Z. z.
+
 - 12b) § 10 ods. 1 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 533/2004 Z. z.
 
 - 13) § 32 zákona č. 50/1976 Zb.
