@@ -1,0 +1,3 @@
+# § 24a Osobitné ustanovenie o rádioaktívnych nerastoch
+
+Dobývanie rádioaktívnych nerastov je zakázané, okrem prípadu, ak obyvatelia každej dotknutej obce v miestnom referende vyslovia s dobývaním rádioaktívnych nerastov súhlas. Dotknutou obcou je každá obec, v ktorej území sa navrhuje dobývací priestor na dobývanie výhradného ložiska rádioaktívnych nerastov. Ak je dotknutou obcou hlavné mesto Slovenskej republiky Bratislava alebo mesto Košice, vyžaduje sa vyslovenie súhlasu s dobývaním rádioaktívnych nerastov v miestnom referende obyvateľmi hlavného mesta Slovenskej republiky Bratislavy alebo obyvateľmi mesta Košice.
