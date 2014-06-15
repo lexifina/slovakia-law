@@ -1,0 +1,1 @@
+- 1) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
