@@ -220,8 +220,6 @@
 
 - 55) § 43 zákona č. 581/2004 Z. z.
 
-- 55a) § 12 zákona č. 215/2002 Z. z. v znení neskorších predpisov.
-
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 57) Zákon č. 581/2004 Z. z.
