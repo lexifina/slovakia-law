@@ -18,6 +18,8 @@
 
 - 9) § 3 zákona č. 309/2009 Z. z. v znení neskorších predpisov.
 
+- 9a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 347/2013 zo 17. apríla 2013 o usmerneniach pre transeurópsku energetickú infraštruktúru, ktorým sa zrušuje rozhodnutie č. 1364/2006/ES a menia a dopĺňajú nariadenia (ES) č. 713/2009, (ES) č. 714/2009 a (ES) č. 715/2009 (Ú. v. EÚ L 115, 25. 4. 2013).
+
 - 10) § 23 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 11) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -92,7 +94,7 @@
 
 - 43) § 3 ods. 6 zákona č. 309/2009 Z. z. v znení zákona č. 30/2013 Z. z.
 
-- 44) § 3 ods. 8 zákona č. 309/2009 Z. z. v znení zákona č. 30/2013 Z. z.
+- 44) § 6 ods. 8 zákona č. 309/2009 Z. z. v znení zákona č. 382/2013 Z. z.
 
 - 45) § 6 ods. 5 a 6 zákona č. 309/2009 Z. z. v znení neskorších predpisov.
 
