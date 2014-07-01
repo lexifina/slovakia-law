@@ -1,6 +1,6 @@
 # § 78a
 
-(1) Na zabezpečenie dôkazu na účely prešetrovania podľa osobitných predpisov<sup>7</sup>) súd na základe návrhu Komisie alebo protimonopolného úradu do troch dní rozhodne o vydaní súhlasu s inšpekciou objektov, priestorov alebo dopravných prostriedkov. Prílohou k návrhu je rozhodnutie Komisie alebo protimonopolného úradu.
+(1) Na zabezpečenie dôkazu na účely prešetrovania podľa osobitných predpisov<sup>7</sup>) súd na základe návrhu Komisie alebo protimonopolného úradu do troch dní rozhodne o vydaní súhlasu s inšpekciou objektov, priestorov alebo dopravných prostriedkov. Prílohou k návrhu na vykonanie inšpekcie Komisiou je rozhodnutie Komisie.
 
 (2) Návrh podľa odseku 1 musí obsahovať okrem všeobecných náležitostí podania podľa § 42 ods. 3 najmä účel inšpekcie, určenie objektov, priestorov alebo dopravných prostriedkov, v ktorých sa má inšpekcia vykonať, určenie osôb, ktoré by mali inšpekciu vykonať, s návrhom právomocí, ktoré by mali mať, a uvedenie skutočností, ktoré preukazujú dôvodné podozrenie, že sa určité podklady alebo dokumenty nachádzajú v uvedených objektoch, priestoroch alebo dopravných prostriedkoch.
 
