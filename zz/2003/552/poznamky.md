@@ -18,7 +18,7 @@
 
 - 11) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
-- 12) Napríklad zákon č. 513/1991 Zb. Obchodný zákonník, zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 254/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. v znení neskorších predpisov, zákon č. 369/1990 Zb. v znení neskorších predpisov, zákon č. 302/2001 Z. z. v znení zákona č. 445/2001 Z. z.
+- 12) Napríklad § 85, 101, 133 a 194 zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov, § 11 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, § 3 ods. 3 zákona č. 385/1997 Z. z. o Slovenskom národnom divadle v znení zákona č. 103/2014 Z. z., § 4 ods. 2. zákona č. 114/2000 Z. z. o Slovenskej filharmónii v znení zákona č. 103/2014 Z. z., § 11 ods. 2 písm. h) zákona č. 302/2001 Z. z. v znení neskorších predpisov, § 17 ods. 1 zákona č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov, § 5 ods. 3 zákona č. 103/2014 Z. z. o divadelnej činnosti a hudobnej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 12a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
