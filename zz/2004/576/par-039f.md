@@ -28,9 +28,7 @@
 
 - g) poskytovať národnej transplantačnej organizácii a ministerstvu zdravotníctva súhrnné oznámenie závažných nežiaducich reakcií a závažných nežiaducich udalostí do 31. marca roka nasledujúceho po roku, v ktorom sa závažná nežiaduca reakcia a závažná nežiaduca udalosť vyskytla.
 
-(2) Ak bol orgán poskytnutý transplantačnému centru mimo územia Slovenskej republiky, informácie podľa odseku 6, informácie o charakteristike darcu a charakteristike orgánu a informácie potrebné na zabezpečenie vysledovateľnosti orgánov sa poskytujú aj tomuto transplantačnému centru.
-
-(3) Poskytovateľ podľa § 35 ods. 1
+(2) Poskytovateľ podľa § 35 ods. 1
 
 - a) zabezpečí zavedenie postupu, ktorý mu umožní zrušiť distribúciu a použitie orgánov, ktoré môžu súvisieť s nežiaducou udalosťou alebo reakciou,
 

@@ -4,8 +4,6 @@
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 2aa) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 317/2009 Z. z.
-
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 4) Zákon č. 578/2004 Z. z.
@@ -13,6 +11,10 @@
 - 4a) § 103 zákona č. 36/2005 Z. z.
 
 - § 75 a 75a Občianskeho súdneho poriadku.
+
+- 4aa) § 22 ods. 1 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
+
+- 4ab) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 5) § 27 Občianskeho zákonníka.
 
@@ -34,6 +36,8 @@
 
 - 7a) Zákon č. 579/2004 Z. z. v znení neskorších predpisov.
 
+- 7b) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
 - 8) § 27 zákona č. 578/2004 Z. z.
 
 - 9) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
@@ -49,6 +53,12 @@
 - 13) § 80 ods. 3 zákona č. 578/2004 Z. z.
 
 - 14) § 48 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
+
+- 14a) Napríklad § 233 ods. 2 písm. d) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
+
+- 14b) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 14c) § 9d zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 15) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
@@ -174,6 +184,8 @@
 
 - 52aa) § 28 písm. f) zákona č. 293 /2007 Z. z. o uznávaní odborných kvalifikácií.
 
+- 52aaa) § 32 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 185/2014 Z. z.
+
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 52ac) Zákon č. 540/2001 Z. z. v znení neskorších predpisov.
@@ -189,6 +201,12 @@
 - 53b) § 44 ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 365/2013 Z. z.
 
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+
+- 55) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 56) STN EN ISO 3166-1 Kódy názvov krajín a ich častí.
+
+- Časť 1: Kódy krajín (ISO 3166-1: 2006) (01 0190).
 
 - 1) § 80 ods. 5 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

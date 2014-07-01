@@ -13,3 +13,5 @@ Príloha č. 3 k zákonu č. 576/2004 Z. z.
   - 5. Smernica Rady 2004/113/ES z 13. decembra 2004 o vykonávaní zásady rovnakého zaobchádzania medzi mužmi a ženami v prístupe k tovaru a službám a k ich poskytovaniu (Ú. v. EÚ L 373, 21. 12. 2004).
 
   - 6. Smernica Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti (Ú. v. EÚ L 88, 4. 4. 2011).
+
+  - 7. Vykonávacia smernica Komisie 2012/25/EÚ z 9. októbra 2012, ktorou sa stanovujú informačné postupy na výmenu ľudských orgánov určených na transplantáciu medzi členskými štátmi (Ú. v. EÚ L 275, 10. 10. 2012).

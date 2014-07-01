@@ -30,7 +30,9 @@
 
   - 8. presnom, rýchlom a overiteľnom hlásení závažných nežiaducich udalostí a reakcií,
 
-  - 9. pri riadení závažných nežiaducich udalostí a reakcií.
+  - 9. pri riadení závažných nežiaducich udalostí a reakcií,
+
+- f) bezodkladne oznamovať charakteristiku orgánu a charakteristiku darcu národnej transplantačnej organizácii.
 
 (2) Poskytovateľ podľa § 35 ods. 1 je povinný
 
@@ -38,4 +40,6 @@
 
 - b) sprístupniť všetky dokumenty týkajúce sa systému kvality pre prípad kontroly vykonávanej ministerstvom zdravotníctva alebo úradom pre dohľad.
 
-(3) Poskytovateľ, ktorý vykonáva dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín, musí mať povolenie na tento druh činnosti podľa osobitného predpisu.<sup>4</sup>) Na každý dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín je potrebný súhlas národnej transplantačnej organizácie.
+(3) Poskytovateľ podľa § 35 ods. 1, ktorý vykonáva dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín, musí mať povolenie na tento druh činnosti podľa osobitného predpisu.<sup>4</sup>) Na každý dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín je potrebný súhlas národnej transplantačnej organizácie.
+
+(4) Poskytovateľ podľa § 35 ods. 1 vykonávajúci odber orgánu, ktorý sa dodáva do iného členského štátu Európskej únie, je povinný oznámiť charakteristiku orgánu a charakteristiku darcu príslušnému transplantačnému centru iného členského štátu Európskej únie a národnej transplantačnej organizácii spôsobom podľa § 39l, ak ide o oznámenie doplňujúcich informácií o charakteristike orgánu a charakteristiku darcu, ktoré neboli oznámené pred odovzdaním orgánu, s cieľom, umožniť lekárovi rozhodnutie.
