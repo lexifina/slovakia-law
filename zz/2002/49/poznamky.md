@@ -16,6 +16,12 @@
 
 - 10) § 4 ods. 2 písm. b) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
+- 10a) § 7 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10b) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+
+- § 2 písm. a) zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu.
+
 - 11) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 12) Čl. 21 ods. 1 Ústavy Slovenskej republiky.
@@ -38,6 +44,12 @@
 
 - 23) § 17 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
+- 23a) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+
+- 23b) Nariadenie Rady (ES) č. 116/2009 z 18. decembra 2008 o vývoze tovaru kultúrneho charakteru (kodifikované znenie), (Ú. v. EÚ L 39, 10. 2. 2009).
+
+- Vykonávacie nariadenie Komisie (EÚ) č. 1081/2012 z 9. novembra 2012 k nariadeniu Rady (ES) č. 116/2009 o vývoze tovaru kultúrneho charakteru (kodifikované znenie), (Ú. v. EÚ L 324, 22. 11. 2012).
+
 - 24) Zákon č. 231/1999 Z. z. o štátnej pomoci.
 
 - 26) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
@@ -52,13 +64,17 @@
 
 - 29a) § 140a ods. 1 písm. a) zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
+- 29b) § 7 zákona Slovenskej národnej rady č. 4/1958 Zb. o ľudovej umeleckej výrobe a umeleckých remeslách.
+
 - 31) Zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 236/2000 Z. z.
 
 - 31a) Piata časť zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 31b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
+- 31aa) § 94 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 31c) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+- 31ab) § 87 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 31b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
 - 32) § 102 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -70,7 +86,7 @@
 
 - 36) § 4 ods. 1 písm. d) a § 5 ods. 2 písm. c) a d) zákona č. 231/1999 Z. z.
 
-- 36a) § 9 ods. 9 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
+- 36a) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 37) § 127 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
 
@@ -81,12 +97,6 @@
 - 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 38a) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
-
-- 39) § 2 ods. 2 zákona č. 206/2009 Z. z.
-
-- § 2 ods. 2 zákona č. 395/2002 Z. z. v znení zákona č. 216/2007 Z. z.
-
-- § 18 ods. 1 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
 
 - 40) Zákon č. 71/1967 Zb.
 
