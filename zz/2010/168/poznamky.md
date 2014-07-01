@@ -38,7 +38,7 @@
 
 - 19) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 415/2003 Z. z. o prijatí Dohody týkajúcej sa tvorby globálnych technických predpisov pre kolesové vozidlá, vybavenie a časti, ktoré sa môžu montovať alebo používať na kolesových vozidlách (GTP EHK č. 2).
 
-- 20) § 3 nariadenia vlády Slovenskej republiky č. 367/2006 Z. z. o technických požiadavkách na zníženie emisií zo zážihových motorov a vznetových motorov motorových vozidiel.
+- 20) Príloha IX časť A nariadenia Komisie (ES) č. 692/2008 z 18. júla 2008, ktorým sa vykonáva, mení a dopĺňa nariadenie Európskeho parlamentu a Rady (ES) č. 715/2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 199, 28. 7. 2008) v platnom znení.
 
 - 21) § 6 ods. 1 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z.
 
