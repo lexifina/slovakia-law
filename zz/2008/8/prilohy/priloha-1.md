@@ -16,6 +16,8 @@ Príloha č. 1 k zákonu č. 8/2008 Z. z.
 
     - 6. Poistenie pre prípad úrazu alebo choroby, ak je pripoistením niektorého poistného odvetvia uvedeného v bodoch 1 až 5.
 
+    - 7. Poistenie týkajúce sa dĺžky ľudského života, ktoré je upravené právnymi predpismi z oblasti sociálneho poistenia.
+
   - Časť B – odvetvia neživotného poistenia
 
     - 1. Poistenie úrazu
