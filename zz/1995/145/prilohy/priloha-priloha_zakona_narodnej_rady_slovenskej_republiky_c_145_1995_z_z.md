@@ -812,13 +812,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 36
 
-    - a) Vydanie rozhodnutia o povolení verejnej zbierky<sup>17</sup>) konanej |
+      - Zápis
 
-    - 1. na celom území Slovenskej republiky ............................................................ | 16,50 eura
+    - a) | verejnej zbierky do registra verejných zbierok vykonávanej na celom území Slovenskej republiky ..... | 20 eur
 
-    - 2. v územnom obvode obvodného úradu ..... | 3 eurá
+    - b) | verejnej zbierky do registra verejných zbierok vykonávanej v územnom obvode okresného úradu ..... | 5 eur
 
-    - b) Žiadosť o vydanie súhlasu na iné použitie výnosu verejnej zbierky ........... | 1,50 eura
+    - c) | predĺženia vykonávania verejnej zbierky do registra verejných zbierok ..... | 10 eur
 
   - III. ČASŤ PÔDOHOSPODÁRSTVO
 
@@ -875,6 +875,12 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - do 30 ............................................................................................................................................ | 40 eur
 
   - nad 30 .......................................................................................................................................... | 50 eur
+
+    - Položka 42a
+
+  - a) | Vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti podľa osobitných predpisov<sup>17aa</sup>) ..... | 170 eur,
+
+  - b) | Vydanie osvedčenia o odbornej spôsobilosti podľa osobitných predpisov<sup>17ab</sup>) ..... | 6,50 eura.
 
     - Položka 43
 
@@ -2790,15 +2796,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - s) Zápis námorného rekreačného plavidla s celkovou dĺžkou 12 metrov a viac do registra námorných rekreačných plavidiel vrátane vydania registračného listu ..... | 350 eur
 
-  - t) Zápis námornej jachty do námorného registra vrátane vydania registračného listu ..... | 1 000 eur
+  - t) vydanie preukazu odbornej spôsobilosti člena posádky námornej jachty ..... | 50 eur
 
-  - u) Vykonanie zmien v registri námorných rekreačných plavidiel alebo v preukaze odbornej spôsobilosti veliteľa námorného rekreačného plavidla ..... | 30 eur
+  - u) vykonanie zmien v registri námorných jácht vrátane vydania registračného listu ..... | 200 eur
 
-  - v) Výmaz námorného rekreačného plavidla z registra námorných rekreačných plavidiel ..... | 40 eur
+  - v) Zápis námornej jachty do námorného registra vrátane vydania registračného listu ..... | 1 000 eur
 
-  - w) Výmaz námornej jachty z námorného registra ..... | 500 eur
+  - w) Vykonanie zmien v registri námorných rekreačných plavidiel alebo v preukaze odbornej spôsobilosti veliteľa námorného rekreačného plavidla ..... | 30 eur
 
-  - x) Vydanie duplikátu dokladov uvedených v písmenách o) až t) ..... | 30 eur
+  - x) Výmaz námorného rekreačného plavidla z registra námorných rekreačných plavidiel ..... | 40 eur
+
+  - y) Výmaz námornej jachty z námorného registra ..... | 500 eur
+
+  - z) Vydanie duplikátu dokladov uvedených v písmenách o) až t) ..... | 30 eur
 
   - Poznámky |
 

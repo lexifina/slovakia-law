@@ -118,6 +118,14 @@
 
 - 17a) § 39 zákona č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 
+- 17aa) § 42 ods. 3 a § 47 ods. 4 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- § 17 ods. 2 písm. a) zákona č. 138/2010 Z. z. o lesnom reprodukčnom materiáli v znení neskorších predpisov.
+
+- 17ab) § 42 ods. 3 a 4 a § 47 ods. 4 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- § 17 ods. 1 zákona č. 138/2010 Z. z. o lesnom reprodukčnom materiáli v znení neskorších predpisov.
+
 - 17b) § 31 zákona č. 405/2011 Z. z o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 17c) § 23 zákona č. 387/2013 Z. z. o pomocných prípravkoch v ochrane rastlín a o zmene a doplnení niektorých zákonov.
