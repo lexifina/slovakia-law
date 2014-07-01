@@ -1698,18 +1698,6 @@
 
         - Prihlasovateľ môže písomne vyjadriť pripomienky k správnosti prekladu podľa pravidla 44bis.3(b) alebo (d) a kópiu písomných pripomienok zašle každému zainteresovanému určenému úradu a Medzinárodnému úradu.
 
-    - Pravidlo 44ter Dôverný charakter písomného posudku, správy, prekladu a pripomienok
-
-      - 44ter.1 Dôverný charakter
-
-        - (a) Medzinárodný úrad a orgán pre medzinárodnú rešerš, ak ich prihlasovateľ nepožiada alebo ak nemajú oprávnenie od prihlasovateľa, neumožnia žiadnej osobe alebo orgánu pred uplynutím 30 mesiacov od dátumu priority prístup
-
-          - (i) k písomnému posudku vypracovanému podľa pravidla 43bis.1, k akémukoľvek jeho prekladu vypracovanému podľa pravidla 44bis.3(d) alebo k písomným pripomienkam k prekladu, ktorý zaslal prihlasovateľ podľa pravidla 44bis.4,
-
-          - (ii) k správe vydanej podľa pravidla 44bis.1, ak bola vydaná, k jej prekladu vypracovanému podľa pravidla 44bis.3(b) alebo k písomným pripomienkam, ktoré zaslal prihlasovateľ podľa pravidla 44bis.4.
-
-        - (b) Na účely odseku (a) výraz „prístup“ zahŕňa všetky prostriedky, ktorými môžu tretie strany získať vedomosti vrátane individuálneho styku a všeobecného zverejnenia.
-
     - PRAVIDLO 45 PREKLAD MEDZINÁRODNEJ REŠERŠOVEJ SPRÁVY
 
       - 45.1 Jazyky
@@ -2714,6 +2702,10 @@
 
         - (d) Písomný posudok vypracovaný orgánom pre medzinárodnú rešerš podľa pravidla 43bis.1, ktorý nie je na základe odseku (b) považovaný za písomný posudok orgánu pre medzinárodný predbežný prieskum na účely pravidla 66.2(a), musí ho orgán pre medzinárodný predbežný prieskum aj napriek tomu vziať do úvahy v konaní podľa pravidla 66.2(a).
 
+      - 66.1ter Top-up rešerše
+
+        - Orgán pre medzinárodný predbežný prieskum vypracuje rešerš („top-up rešerš“) na zistenie dokumentov uvedených v čl. 64, ktoré boli zverejnené alebo sa stali dostupnými uvedenému orgánu, pre následnú rešerš ku dňu vypracovania medzinárodnej rešeršnej správy, ak sa domnieva, že takáto rešerš bude slúžiť užitočnému účelu. Ak orgán pre medzinárodný predbežný prieskum zistí, že niektorá zo situácií uvedených v čl. 34 ods. 3 alebo 4 alebo v pravidle 66.1 písm. e) existuje, top-up rešerš sa bude vzťahovať len na tie časti medzinárodnej prihlášky, ktoré sú predmetom medzinárodného predbežného prieskumu.
+
       - 66.2 Písomný posudok orgánu pre medzinárodný predbežný prieskum
 
         - (a) Ak sa orgán pre medzinárodný predbežný prieskum
@@ -2895,6 +2887,8 @@
         - (d) Ak sa nároky vzťahujú na vynálezy, na ktoré sa nespracovala medzinárodná rešeršová správa, a neboli preto predmetom medzinárodného predbežného prieskumu, musí sa to v správe o medzinárodnom predbežnom prieskume uviesť.
 
         - (e) Ak sa vzala do úvahy oprava zjavnej chyby podľa pravidla 66.1, uvedie sa to v správe. Ak sa nevzala do úvahy oprava zjavnej chyby podľa pravidla 66.4bis, orgán pre medzinárodný predbežný prieskum uvedie, ak je to možné, tento nedostatok v správe, primerane to oznámi Medzinárodnému úradu a Medzinárodný úrad koná v zmysle administratívnych smerníc.
+
+        - (f) V správe sa uvádza dátum, keď sa vykonala top-up rešerš podľa pravidla 66.1ter, alebo inak sa uvedie, že top-up rešerš sa nevykonala.
 
       - 70.3. Označenie
 
@@ -3738,7 +3732,7 @@
 
         - (a) Na žiadosť prihlasovateľa alebo inej ním oprávnenej osoby dodá Medzinárodný úrad po zaplatení nákladov kópiu akýchkoľvek dokladov, ktoré obsahujú jeho spisy.
 
-        - (b) Medzinárodný úrad dodá na žiadosť ktorejkoľvek osoby, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky a s výhradou článku 38 a pravidla 44ter.1 po zaplatení nákladov, kópie akýchkoľvek dokladov, ktoré sú obsiahnuté v jeho spise.
+        - (b) Medzinárodný úrad dodá na žiadosť ktorejkoľvek osoby, ale nie pred medzinárodným zverejnením medzinárodnej prihlášky a s výhradou čl. 38, po zaplatení nákladov, kópie akýchkoľvek dokladov, ktoré sú obsiahnuté v jeho spise.
 
         - (c) Medzinárodný úrad zašle, ak ho požiada zvolený úrad, kópie správ o medzinárodnom predbežnom prieskume podľa odseku (b) v mene tohto úradu. Medzinárodný úrad bez odkladu zverejní detaily každej žiadosti vo vestníku.
 
