@@ -1,37 +1,11 @@
-MAXIMÁLNA VÝŠKA ÚĽAVY NA DANI Z PRÍJMU V ZÓNACH PODĽA JEDNOTLIVÝCH REGIÓNOV SLOVENSKEJ REPUBLIKY
+- Príloha č. 3 k nariadeniu vlády č. 481/2011 Z. z.
 
-Západné Slovensko | Priemyselná výroba | Technologické centrum | Centrum strategických služieb | Cestovný ruch
+MAXIMÁLNA VÝŠKA ÚĽAVY NA DANI Z PRÍJMOV V ZÓNACH PODĽA MIERY EVIDOVANEJ NEZAMESTNANOSTI
 
-Zóna A | 40 % | 40 % | 40 % | 40 %
+Zóna | Priemyselná výroba | Technologické centrum | Centrum strategických služieb | Cestovný ruch
 
-Zóna B | 35 % | 40 % | 40 % | 35 %
+A | 35 % | 35 % | 35 % | 35 %
 
-Zóna C | 25 % | 30 % | 30 % | 25 %
+B | 35 % | 35 % | 35 % | 35 %
 
-Zóna D | 10 % | 15 % | neposkytuje sa | 10 %
-
-Zóna E | 10 % | 10 % | neposkytuje sa | 10 %
-
-Stredné Slovensko | Priemyselná výroba | Technologické centrum | Centrum strategických služieb | Cestovný ruch
-
-Zóna A | 50 % | 50 % | 50 % | 50 %
-
-Zóna B | 44 % | 50 % | 50 % | 44 %
-
-Zóna C | 31 % | 38 % | 38 % | 31 %
-
-Zóna D | 12 % | 19 % | neposkytuje sa | 12 %
-
-Zóna E | 10 % | 15 % | neposkytuje sa | 10 %
-
-Východné Slovensko | Priemyselná výroba | Technologické centrum | Centrum strategických služieb | Cestovný ruch
-
-Zóna A | 50 % | 50 % | 50 % | 50 %
-
-Zóna B | 44 % | 50 % | 50 % | 44 %
-
-Zóna C | 31 % | 38 % | 38 % | 31 %
-
-Zóna D | 12 % | 19 % | neposkytuje sa | 12 %
-
-Zóna E | 10 % | 15 % | neposkytuje sa | 10 %
+C | 25 % | 25 % | 25 % | 25 %
