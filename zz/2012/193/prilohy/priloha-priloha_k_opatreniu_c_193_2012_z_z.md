@@ -22,13 +22,9 @@ Príloha k opatreniu č. 193/2012 Z. z.
 
 - Maďarsko | USD | 22 579
 
-- Monako | EUR | 5 765
-
 - Nemecko | EUR | 10 270
 
 - Rakúsko | EUR | 9 216
-
-- Rumunsko | USD | 22 579
 
 - Ruská federácia | USD | 22 579
 
