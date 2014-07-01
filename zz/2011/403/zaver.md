@@ -1,1 +1,0 @@
-Danica Paroulková v. r.
