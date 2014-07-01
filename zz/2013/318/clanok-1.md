@@ -854,7 +854,11 @@ Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnen
 
 - „(2)
 
-- Doplnková dôchodková spoločnosť nesmie vytvoriť iné doplnkové dôchodkové fondy ako tie, ktorých vytvorenie a správu Národná banka Slovenska povolila rozhodnutím o udelení povolenia alebo rozhodnutím o predchádzajúcom súhlase podľa § 26 ods. 1 písm. j).“.
+- Doplnková dôchodková spoločnosť nesmie vytvoriť iné doplnkové dôchodkové fondy ako tie, ktorých vytvorenie a správu Národná banka Slovenska povolila rozhodnutím o udelení povolenia alebo rozhodnutím o predchádzajúcom súhlase podľa § 26 ods. 1 písm. j).
+
+- (3)
+
+- Doplnková dôchodková spoločnosť, ktorá spravuje viac príspevkových doplnkových dôchodkových fondov, je povinná umožniť fyzickej osobe byť účastníkom v jednom alebo vo viacerých príspevkových doplnkových dôchodkových fondoch spravovaných tou istou doplnkovou dôchodkovou spoločnosťou a súčasne aj poberateľom dávky vo výplatnom doplnkovom dôchodkovom fonde tej istej doplnkovej dôchodkovej spoločnosti.“.
 
 - 127. V § 43 ods. 4 sa za slovo „príspevkov“ vkladajú slová „a z výnosov z týchto príspevkov“.
 
