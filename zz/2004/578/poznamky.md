@@ -44,6 +44,10 @@
 
 - 13) § 53 písm. b) zákona č. 538/2005 Z. z.
 
+- 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
+
+- 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
+
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
 - 14a) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z.
@@ -140,7 +144,7 @@
 
 - 36c) § 5 ods. 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
 
-- 37) § 2 ods. 1 písm. f) zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
+- 37) § 2 ods. 1 písm. e) zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
 
 - 38) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
@@ -214,6 +218,10 @@
 
 - 55jae) § 9c ods. 4 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 55jaf) § 9 ods. 6 zákona č. 576/2004 Z. z.
+
+- 55jag) Druhá hlava zákona č. 576/2004 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -276,11 +284,13 @@
 
 - 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
-- 60a) § 119 ods. 3 Zákonníka práce.
+- 60aa) § 119 ods. 3 Zákonníka práce.
 
-- 60b) § 85 Zákonníka práce.
+- 60ab) § 85 Zákonníka práce.
 
-- 60c) Zákonník práce.
+- 60ac) Zákonník práce.
+
+- 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

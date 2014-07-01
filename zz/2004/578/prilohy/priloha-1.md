@@ -17,3 +17,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 7. Smernica Európskeho parlamentu a Rady 2011/93/EÚ z 13. decembra 2011 o boji proti sexuálnemu zneužívaniu a sexuálnemu vykorisťovaniu detí a proti detskej pornografii, ktorou sa nahrádza rámcové rozhodnutie Rady 2004/68/SVV (Ú. v. EÚ L 335, 17. 12. 2011).
 
   - 8. Smernica Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti (Ú. v. EÚ L 88, 4. 4. 2011).
+
+  - 9. Smernica Rady 2013/25/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti práva usadiť sa a slobody poskytovať služby (Ú. v. EÚ L 158, 10. 6. 2013).

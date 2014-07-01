@@ -30,45 +30,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10 | Holandsko / Nederland | Bewijs van inschrijving in een Specialistenregister | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot 2. Bevordering der Geneeskunst 2. Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
 
-  - 11 | Írsko / Ireland | Certificate of Specialist doctor | Competent authority
+  - 11 | Chorvátsko / Hrvatska | Diploma o specijalističkom usavršavanju | Ministarstvo nadležno za zdravstvo
 
-  - 12 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją | Universitetas
+  - 12 | Írsko / Ireland | Certificate of Specialist doctor | Competent authority
 
-  - 13 | Lotyšsko / Latvija | „Sertifikāts“ – kompetentu iestāāžu izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu specialitātē | Latvijas Ārstu biedrība Latvijas Ārstniecības personu profesionālo organizāciju savienība
+  - 13 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją | Universitetas
 
-  - 14 | Luxembursko / Luxembourg | Certificat de médecin spécialiste | Ministre de la Santé publique
+  - 14 | Lotyšsko / Latvija | „Sertifikāts“ – kompetentu iestāāžu izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu specialitātē | Latvijas Ārstu biedrība Latvijas Ārstniecības personu profesionālo organizāciju savienība
 
-  - 15 | Maďarsko / Magyarország | Szakorvosi bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
+  - 15 | Luxembursko / Luxembourg | Certificat de médecin spécialiste | Ministre de la Santé publique
 
-  - 16 | Malta / Malta | Ċertifikat ta' Speċjalista Mediku | Kumitat ta' Approvazzjoni dwar Speċjalisti
+  - 16 | Maďarsko / Magyarország | Szakorvosi bizonyítvány | Nemzeti Vizsgabizottság
 
-  - 17 | Nemecko / Deutschland | Fachärztliche Anerkennung | Landesärztekammer
+  - 17 | Malta / Malta | Ċertifikat ta' Speċjalista Mediku | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych
+  - 18 | Nemecko / Deutschland | Fachärztliche Anerkennung | Landesärztekammer
 
-  - 19 | Portugalsko / Portugal | Titulo de especialista | Ordem dos Médicos
+  - 19 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych
 
-  - 20 | Rakúsko / Österreich | Facharztdiplom | Österreichische Ärztekammer
+  - 20 | Portugalsko / Portugal | Titulo de especialista | Ordem dos Médicos
 
-  - 21 | Rumunsko / România | Certificat de medic specialist | Ministerul Sănătăţii Publici
+  - 21 | Rakúsko / Österreich | Facharztdiplom | Österreichische Ärztekammer
 
-  - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
+  - 22 | Rumunsko / România | Certificat de medic specialist | Ministerul Sănătăţii Publici
 
-  - 23 | Španielsko / España | Título de Especialista | Ministerio de Educación y Cultura
+  - 23 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
-  - 24 | Švédsko / Sverige | Bevis om specialkompetens som läkare, utfärdat av Socialstyrelsen | Socialstyrelsen
+  - 24 | Španielsko / España | Título de Especialista | Ministerio de Educación y Cultura
 
-  - 25 | Taliansko / Italia | Diploma di medico specialista | Università
+  - 25 | Švédsko / Sverige | Bevis om specialkompetens som läkare, utfärdat av Socialstyrelsen | Socialstyrelsen
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training | Postgraduate Medical Education and Training Board
+  - 26 | Taliansko / Italia | Diploma di medico specialista | Università
 
-  - 27 | Island / Ísland | Sérfræðileayfi | Heilbrigðis- og tryggingamálaráðuneyti
+  - 27 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training | Postgraduate Medical Education and Training Board
 
-  - 28 | Lichtenštajnsko / Liechtenstein | diplomy ostatných krajín uvedené v tabuľke | príslušný orgán
+  - 28 | Island / Ísland | Sérfræðileayfi | Heilbrigðis- og tryggingamálaráðuneyti
 
-  - 29 | Nórsko / Norge | Spesialistgodkjenning | Den norske lægeforening
+  - 29 | Lichtenštajnsko / Liechtenstein | diplomy ostatných krajín uvedené v tabuľke | príslušný orgán
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -Diplom als Facharzt Diplôme de médecin spécialiste Diploma di medico specialista | -Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte - Département fédéral de l’intérieur et Fédération des médecins suisses - Dipartimento federale dell’interno e Federazione dei medici svizzeri“.
+  - 30 | Nórsko / Norge | Spesialistgodkjenning | Den norske lægeforening
+
+  - 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -Diplom als Facharzt Diplôme de médecin spécialiste Diploma di medico specialista | -Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte - Département fédéral de l’intérieur et Fédération des médecins suisses - Dipartimento federale dell’interno e Federazione dei medici svizzeri“.
 
     - Tabuľka č. 2
 
@@ -94,45 +96,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 1. 10 | Holandsko / Nederland | Anesthesiologie | |
 
-  - 1. 11 | Írsko / Ireland | Anaesthesia | |
+  - 1. 11 | Chorvátsko / Hrvatska | Anesteziologija, reanimatologija i intenzivna medicina | |
 
-  - 1. 12 | Litva / Lietuva | Anesteziologija reanimatologija | |
+  - 1. 12 | Írsko / Ireland | Anaesthesia | |
 
-  - 1. 13 | Lotyšsko / Latvija | Anestezioloģija un reanimatoloģija | |
+  - 1. 13 | Litva / Lietuva | Anesteziologija reanimatologija | |
 
-  - 1. 14 | Luxembursko / Luxembourg | Anesthésie-réanimation | |
+  - 1. 14 | Lotyšsko / Latvija | Anestezioloģija un reanimatoloģija | |
 
-  - 1. 15 | Maďarsko / Magyarország | Aneszteziológia és intenzív terápia | |
+  - 1. 15 | Luxembursko / Luxembourg | Anesthésie-réanimation | |
 
-  - 1. 16 | Malta / Malta | Anesteżija u Kura Intensiva | |
+  - 1. 16 | Maďarsko / Magyarország | Aneszteziológia és intenzív terápia | |
 
-  - 1. 17 | Nemecko / Deutschland | Anästhesiologie | |
+  - 1. 17 | Malta / Malta | Anesteżija u Kura Intensiva | |
 
-  - 1. 18 | Poľsko / Polska | Anestezjologia i intensywna terapia | |
+  - 1. 18 | Nemecko / Deutschland | Anästhesiologie | |
 
-  - 1. 19 | Portugalsko / Portugal | Anestesiologia | |
+  - 1. 19 | Poľsko / Polska | Anestezjologia i intensywna terapia | |
 
-  - 1. 20 | Rakúsko / Österreich | Anästhesiologie und Intensivmedizin | |
+  - 1. 20 | Portugalsko / Portugal | Anestesiologia | |
 
-  - 1. 21 | Rumunsko / România | Anestezie şi terapie intensivă | |
+  - 1. 21 | Rakúsko / Österreich | Anästhesiologie und Intensivmedizin | |
 
-  - 1. 22 | Slovinsko / Slovenija | Anesteziologija, reanimatologija in perioperativna intenzivna medicina | |
+  - 1. 22 | Rumunsko / România | Anestezie şi terapie intensivă | |
 
-  - 1. 23 | Španielsko / España | Anestesiología y Reanimación | |
+  - 1. 23 | Slovinsko / Slovenija | Anesteziologija, reanimatologija in perioperativna intenzivna medicina | |
 
-  - 1. 24 | Švédsko / Sverige | Anestesi och intensivvård | |
+  - 1. 24 | Španielsko / España | Anestesiología y Reanimación | |
 
-  - 1. 25 | Taliansko / Italia | Anestesia e rianimazione | |
+  - 1. 25 | Švédsko / Sverige | Anestesi och intensivvård | |
 
-  - 1. 26 | Veľká Británia a Severné Írsko / United Kingdom | Anaesthetics | |
+  - 1. 26 | Taliansko / Italia | Anestesia e rianimazione | |
 
-  - 1. 27 | Island / Ísland | Svæfinga- og gjörgæslulæknisfræði | |
+  - 1. 27 | Veľká Británia a Severné Írsko / United Kingdom | Anaesthetics | |
 
-  - 1. 28 | Lichtenštajnsko / Liechtenstein | Anästhesiologie | |
+  - 1. 28 | Island / Ísland | Svæfinga- og gjörgæslulæknisfræði | |
 
-  - 1. 29 | Nórsko / Norge | Anestesiologi | |
+  - 1. 29 | Lichtenštajnsko / Liechtenstein | Anästhesiologie | |
 
-  - 1. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anästhesiologie Anesthésiologie Anestesiologia | |
+  - 1. 30 | Nórsko / Norge | Anestesiologi | |
+
+  - 1. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Anästhesiologie Anesthésiologie Anestesiologia
 
   - 2. 01 | Belgicko / Belgique /België / Belgien | Chirurgie/Heelkunde | 5 rokov | chirurgia
 
@@ -154,45 +158,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 2. 10 | Holandsko / Nederland | Heelkunde | |
 
-  - 2. 11 | Írsko / Ireland | Cirugía general | |
+  - 2. 11 | Chorvátsko / Hrvatska | Opća kirurgija | |
 
-  - 2. 12 | Litva / Lietuva | Chirurgija | |
+  - 2. 12 | Írsko / Ireland | Cirugía general | |
 
-  - 2. 13 | Lotyšsko / Latvija | Ķirurģija | |
+  - 2. 13 | Litva / Lietuva | Chirurgija | |
 
-  - 2. 14 | Luxembursko / Luxembourg | Chirurgie générale | |
+  - 2. 14 | Lotyšsko / Latvija | Ķirurģija | |
 
-  - 2. 15 | Maďarsko / Magyarország | Sebészet | |
+  - 2. 15 | Luxembursko / Luxembourg | Chirurgie générale | |
 
-  - 2. 16 | Malta / Malta | Kirurġija Ġenerali | |
+  - 2. 16 | Maďarsko / Magyarország | Sebészet | |
 
-  - 2. 17 | Nemecko / Deutschland | (Allgemeine) Chirurgie | |
+  - 2. 17 | Malta / Malta | Kirurġija Ġenerali | |
 
-  - 2. 18 | Poľsko / Polska | Chirurgia ogólna | |
+  - 2. 18 | Nemecko / Deutschland | (Allgemeine) Chirurgie | |
 
-  - 2. 19 | Portugalsko / Portugal | Cirurgia geral | |
+  - 2. 19 | Poľsko / Polska | Chirurgia ogólna | |
 
-  - 2. 20 | Rakúsko / Österreich | Chirurgie | |
+  - 2. 20 | Portugalsko / Portugal | Cirurgia geral | |
 
-  - 2. 21 | Rumunsko / România | Chirurgie generală | |
+  - 2. 21 | Rakúsko / Österreich | Chirurgie | |
 
-  - 2. 22 | Slovinsko / Slovenija | Splošna kirurgija | |
+  - 2. 22 | Rumunsko / România | Chirurgie generală | |
 
-  - 2. 23 | Španielsko / España | Cirugía general y del aparato digestivo | |
+  - 2. 23 | Slovinsko / Slovenija | Splošna kirurgija | |
 
-  - 2. 24 | Švédsko / Sverige | Kirurgi | |
+  - 2. 24 | Španielsko / España | Cirugía general y del aparato digestivo | |
 
-  - 2. 25 | Taliansko / Italia | Chirurgia generale | |
+  - 2. 25 | Švédsko / Sverige | Kirurgi | |
 
-  - 2. 26 | Veľká Británia a Severné Írsko / United Kingdom | General surgery | |
+  - 2. 26 | Taliansko / Italia | Chirurgia generale | |
 
-  - 2. 27 | Island / Ísland | Skurðlækningar | |
+  - 2. 27 | Veľká Británia a Severné Írsko / United Kingdom | General surgery | |
 
-  - 2. 28 | Lichtenštajnsko / Liechtenstein | Chirurgie | |
+  - 2. 28 | Island / Ísland | Skurðlækningar | |
 
-  - 2. 29 | Nórsko / Norge | Generell kirurgi | |
+  - 2. 29 | Lichtenštajnsko / Liechtenstein | Chirurgie | |
 
-  - 2. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie Chirurgie Chirurgia | |
+  - 2. 30 | Nórsko / Norge | Generell kirurgi | |
+
+  - 2. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Chirurgie Chirurgie Chirurgia
 
   - 3. 01 | Belgicko / Belgique /België / Belgien | Neurochirurgie | 5 rokov | neurochirurgia
 
@@ -214,45 +220,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3. 10 | Holandsko / Nederland | Neurochirurgie | |
 
-  - 3. 11 | Írsko / Ireland | Neurosurgery | |
+  - 3. 11 | Chorvátsko / Hrvatska | Neurokirurgija | |
 
-  - 3. 12 | Litva / Lietuva | Neurochirurgija | |
+  - 3. 12 | Írsko / Ireland | Neurosurgery | |
 
-  - 3. 13 | Lotyšsko / Latvija | Neiroķirurģija | |
+  - 3. 13 | Litva / Lietuva | Neurochirurgija | |
 
-  - 3. 14 | Luxembursko / Luxembourg | Neurochirurgie | |
+  - 3. 14 | Lotyšsko / Latvija | Neiroķirurģija | |
 
-  - 3. 15 | Maďarsko / Magyarország | Idegsebészet | |
+  - 3. 15 | Luxembursko / Luxembourg | Neurochirurgie | |
 
-  - 3. 16 | Malta / Malta | Newrokirurġija | |
+  - 3. 16 | Maďarsko / Magyarország | Idegsebészet | |
 
-  - 3. 17 | Nemecko / Deutschland | Neurochirurgie | |
+  - 3. 17 | Malta / Malta | Newrokirurġija | |
 
-  - 3. 18 | Poľsko / Polska | Neurochirurgia | |
+  - 3. 18 | Nemecko / Deutschland | Neurochirurgie | |
 
-  - 3. 19 | Portugalsko / Portugal | Neurocirurgia | |
+  - 3. 19 | Poľsko / Polska | Neurochirurgia | |
 
-  - 3. 20 | Rakúsko / Österreich | Neurochirurgie | |
+  - 3. 20 | Portugalsko / Portugal | Neurocirurgia | |
 
-  - 3. 21 | Rumunsko / România | Neurochirurgie | |
+  - 3. 21 | Rakúsko / Österreich | Neurochirurgie | |
 
-  - 3. 22 | Slovinsko / Slovenija | Nevrokirurgija | |
+  - 3. 22 | Rumunsko / România | Neurochirurgie | |
 
-  - 3. 23 | Španielsko / España | Neurocirugía | |
+  - 3. 23 | Slovinsko / Slovenija | Nevrokirurgija | |
 
-  - 3. 24 | Švédsko / Sverige | Neurokirurgi | |
+  - 3. 24 | Španielsko / España | Neurocirugía | |
 
-  - 3. 25 | Taliansko / Italia | Neurochirurgia | |
+  - 3. 25 | Švédsko / Sverige | Neurokirurgi | |
 
-  - 3. 26 | Veľká Británia a Severné Írsko / United Kingdom | Neurosurgery | |
+  - 3. 26 | Taliansko / Italia | Neurochirurgia | |
 
-  - 3. 27 | Island / Ísland | Taugaskurðlækningar | |
+  - 3. 27 | Veľká Británia a Severné Írsko / United Kingdom | Neurosurgery | |
 
-  - 3. 28 | Lichtenštajnsko / Liechtenstein | Neurochirurgie | |
+  - 3. 28 | Island / Ísland | Taugaskurðlækningar | |
 
-  - 3. 29 | Nórsko / Norge | Nevrokirurgi | |
+  - 3. 29 | Lichtenštajnsko / Liechtenstein | Neurochirurgie | |
 
-  - 3. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie Neurochirurgie Neurochirurgia | |
+  - 3. 30 | Nórsko / Norge | Nevrokirurgi | |
+
+  - 3. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurochirurgie Neurochirurgie Neurochirurgia
 
   - 4. 01 | Belgicko / Belgique/ België / Belgien | Gynécologie – obstétrique / Gynaecologie - verloskunde | 4 roky | gynekológia a pôrodníctvo
 
@@ -274,45 +282,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 4. 10 | Holandsko / Nederland | Obstetrie en Gynaecologie | |
 
-  - 4. 11 | Írsko / Ireland | Obstetrics and gynaecology | |
+  - 4. 11 | Chorvátsko / Hrvatska | Ginekologija i opstetricija | |
 
-  - 4. 12 | Litva / Lietuva | Akušerija ginekologija | |
+  - 4. 12 | Írsko / Ireland | Obstetrics and gynaecology | |
 
-  - 4. 13 | Lotyšsko / Latvija | Ginekoloģija un dzemdniecība | |
+  - 4. 13 | Litva / Lietuva | Akušerija ginekologija | |
 
-  - 4. 14 | Luxembursko / Luxembourg | Gynécologie — obstétrique | |
+  - 4. 14 | Lotyšsko / Latvija | Ginekoloģija un dzemdniecība | |
 
-  - 4. 15 | Maďarsko / Magyarország | Szülészet-nőgyógyászat | |
+  - 4. 15 | Luxembursko / Luxembourg | Gynécologie — obstétrique | |
 
-  - 4. 16 | Malta / Malta | Ostetriċja u Ġinekoloġija | |
+  - 4. 16 | Maďarsko / Magyarország | Szülészet-nőgyógyászat | |
 
-  - 4. 17 | Nemecko / Deutschland | Frauenheilkunde und Geburtshilfe | |
+  - 4. 17 | Malta / Malta | Ostetriċja u Ġinekoloġija | |
 
-  - 4. 18 | Poľsko / Polska | Położnictwo i ginekologia | |
+  - 4. 18 | Nemecko / Deutschland | Frauenheilkunde und Geburtshilfe | |
 
-  - 4. 19 | Portugalsko / Portugal | Ginecologia e obstetricia | |
+  - 4. 19 | Poľsko / Polska | Położnictwo i ginekologia | |
 
-  - 4. 20 | Rakúsko / Österreich | Frauenheilkunde und Geburtshilfe | |
+  - 4. 20 | Portugalsko / Portugal | Ginecologia e obstetricia | |
 
-  - 4. 21 | Rumunsko / România | Obstetrică-ginecologie | |
+  - 4. 21 | Rakúsko / Österreich | Frauenheilkunde und Geburtshilfe | |
 
-  - 4. 22 | Slovinsko / Slovenija | Ginekologija in porodništvo | |
+  - 4. 22 | Rumunsko / România | Obstetrică-ginecologie | |
 
-  - 4. 23 | Španielsko / España | Obstetricia y ginecología | |
+  - 4. 23 | Slovinsko / Slovenija | Ginekologija in porodništvo | |
 
-  - 4. 24 | Švédsko / Sverige | Obstetrik och gynekologi | |
+  - 4. 24 | Španielsko / España | Obstetricia y ginecología | |
 
-  - 4. 25 | Taliansko / Italia | Ginecologia e ostetricia | |
+  - 4. 25 | Švédsko / Sverige | Obstetrik och gynekologi | |
 
-  - 4. 26 | Veľká Británia a Severné Írsko / United Kingdom | Obstetrics and gynaecology | |
+  - 4. 26 | Taliansko / Italia | Ginecologia e ostetricia | |
 
-  - 4. 27 | Island / Ísland | Fæðingar- og kvenlækningar | |
+  - 4. 27 | Veľká Británia a Severné Írsko / United Kingdom | Obstetrics and gynaecology | |
 
-  - 4. 28 | Lichtenštajnsko / Liechtenstein | Gynäkologie und Geburtshilfe | |
+  - 4. 28 | Island / Ísland | Fæðingar- og kvenlækningar | |
 
-  - 4. 29 | Nórsko / Norge | Fødselshjelp og kvinnesykdommer | |
+  - 4. 29 | Lichtenštajnsko / Liechtenstein | Gynäkologie und Geburtshilfe | |
 
-  - 4. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynäkologie und Geburtshilfe Gynécologie et obstétrique Ginecologia e ostetricia | |
+  - 4. 30 | Nórsko / Norge | Fødselshjelp og kvinnesykdommer | |
+
+  - 4. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gynäkologie und Geburtshilfe Gynécologie et obstétrique Ginecologia e ostetricia
 
   - 5. 01 | Belgicko / Belgique/ België / Belgien | Médecine interne/Inwendige geneeskunde | 5 rokov | vnútorné lekárstvo
 
@@ -334,105 +344,109 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 5. 10 | Holandsko / Nederland | Interne geneeskunde | |
 
-  - 5. 11 | Írsko / Ireland | General medicine | |
+  - 5. 11 | Chorvátsko / Hrvatska | Opća interna medicina | |
 
-  - 5. 12 | Litva / Lietuva | Vidaus ligos | |
+  - 5. 12 | Írsko / Ireland | General medicine | |
 
-  - 5. 13 | Lotyšsko / Latvija | Internā medicīna | |
+  - 5. 13 | Litva / Lietuva | Vidaus ligos | |
 
-  - 5. 14 | Luxembursko / Luxembourg | Médecine interne | |
+  - 5. 14 | Lotyšsko / Latvija | Internā medicīna | |
 
-  - 5. 15 | Maďarsko / Magyarország | Belgyógyászat | |
+  - 5. 15 | Luxembursko / Luxembourg | Médecine interne | |
 
-  - 5. 16 | Malta / Malta | Mediċina Interna | |
+  - 5. 16 | Maďarsko / Magyarország | Belgyógyászat |
 
-  - 5. 17 | Nemecko / Deutschland | Innere Medizin | |
+  - 5. 17 | Malta / Malta | Mediċina Interna | |
 
-  - 5. 18 | Poľsko / Polska | Choroby wewnętrzne | |
+  - 5. 18 | Nemecko / Deutschland | Innere Medizin | |
 
-  - 5. 19 | Portugalsko / Portugal | Medicina interna | |
+  - 5. 19 | Poľsko / Polska | Choroby wewnętrzne | |
 
-  - 5. 20 | Rakúsko / Österreich | Innere Medizin | |
+  - 5. 20 | Portugalsko / Portugal | Medicina interna | |
 
-  - 5. 21 | Rumunsko / România | Medicină internă | |
+  - 5. 21 | Rakúsko / Österreich | Innere Medizin | |
 
-  - 5. 22 | Slovinsko / Slovenija | Interna medicina | |
+  - 5. 22 | Rumunsko / România | Medicină internă | |
 
-  - 5. 23 | Španielsko / España | Medicina interna | |
+  - 5. 23 | Slovinsko / Slovenija | Interna medicina | |
 
-  - 5. 24 | Švédsko / Sverige | Internmedicine | |
+  - 5. 24 | Španielsko / España | Medicina interna | |
 
-  - 5. 25 | Taliansko / Italia | Medicina interna | |
+  - 5. 25 | Švédsko / Sverige | Internmedicine | |
 
-  - 5. 26 | Veľká Británia a Severné Írsko / United Kingdom | General (internal) medicine | |
+  - 5. 26 | Taliansko / Italia | Medicina interna | |
 
-  - 5. 27 | Island / Ísland | Lyflækningar | |
+  - 5. 27 | Veľká Británia a Severné Írsko / United Kingdom | General (internal) medicine | |
 
-  - 5. 28 | Lichtenštajnsko / Liechtenstein | Innere Medizin | |
+  - 5. 28 | Island / Ísland | Lyflækningar | |
 
-  - 5. 29 | Nórsko / Norge | Indremedisin | |
+  - 5. 29 | Lichtenštajnsko / Liechtenstein | Innere Medizin | |
 
-  - 5. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Innere Medizin Médecine interne Medicina interna | |
+  - 5. 30 | Nórsko / Norge | Indremedisin | |
 
-  - 6. 01 | Belgicko / Belgique / België / Belgien | Ophtalmologie/Oftalmologie | 3 roky | oftalmológia
+  - 5. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Innere Medizin Médecine interne Medicina interna
 
-  - 6. 02 | Bulharsko / България | Очни болести | |
+  - 6. 01 | Belgicko / Belgique / België / Belgien | Ophtalmologie/Oftalmologie | 3 roky | | oftalmológia
 
-  - 6. 03 | Cyprus / Κύπρος | Οφθαλµολογία | |
+  - 6. 02 | Bulharsko / България | Очни болести |
 
-  - 6. 04 | Česko / Česká republika | Oftalmologie | |
+  - 6. 03 | Cyprus / Κύπρος | Οφθαλµολογία |
 
-  - 6. 05 | Dánsko / Danmark | Oftalmologi | |
+  - 6. 04 | Česko / Česká republika | Oftalmologie |
 
-  - 6. 06 | Estónsko / Eesti | Oftalmoloogia | |
+  - 6. 05 | Dánsko / Danmark | Oftalmologi |
 
-  - 6. 07 | Fínsko / Suomi / Finland | Silmätaudit/Ögonsjukdomar | |
+  - 6. 06 | Estónsko / Eesti | Oftalmoloogia |
 
-  - 6. 08 | Francúzsko / France | Ophtalmologie | |
+  - 6. 07 | Fínsko / Suomi / Finland | Silmätaudit/Ögonsjukdomar |
 
-  - 6. 09 | Grécko / Ελλάς | Οφθαλµoλoγία | |
+  - 6. 08 | Francúzsko / France | Ophtalmologie |
 
-  - 6. 10 | Holandsko / Nederland | Oogheelkunde | |
+  - 6. 09 | Grécko / Ελλάς | Οφθαλµoλoγία |
 
-  - 6. 11 | Írsko / Ireland | Ophthalmic surgery | |
+  - 6. 10 | Holandsko / Nederland | Oogheelkunde |
 
-  - 6. 12 | Litva / Lietuva | Oftalmologija | |
+  - 6. 11 | Chorvátsko / Hrvatska | Oftalmologija i optometrija |
 
-  - 6. 13 | Lotyšsko / Latvija | Oftalmoloģija | |
+  - 6. 12 | Írsko / Ireland | Ophthalmic surgery |
 
-  - 6. 14 | Luxembursko / Luxembourg | Ophtalmologie | |
+  - 6. 13 | Litva / Lietuva | Oftalmologija |
 
-  - 6. 15 | Maďarsko / Magyarország | Szemészet | |
+  - 6. 14 | Lotyšsko / Latvija | Oftalmoloģija
 
-  - 6. 16 | Malta / Malta | Oftalmoloġija | |
+  - 6. 15 | Luxembursko / Luxembourg | Ophtalmologie | | |
 
-  - 6. 17 | Nemecko / Deutschland | Augenheilkunde | |
+  - 6. 16 | Maďarsko / Magyarország | Szemészet | | |
 
-  - 6. 18 | Poľsko / Polska | Okulistyka | |
+  - 6. 17 | Malta / Malta | Oftalmoloġija | | |
 
-  - 6. 19 | Portugalsko / Portugal | Oftalmologia | |
+  - 6. 18 | Nemecko / Deutschland | Augenheilkunde | | |
 
-  - 6. 20 | Rakúsko / Österreich | Augenheilkunde und Optometrie | |
+  - 6. 19 | Poľsko / Polska | Okulistyka | | |
 
-  - 6. 21 | Rumunsko / România | Oftalmologie | |
+  - 6. 20 | Portugalsko / Portugal | Oftalmologia | | |
 
-  - 6. 22 | Slovinsko / Slovenija | Oftalmologija | |
+  - 6. 21 | Rakúsko / Österreich | Augenheilkunde und Optometrie | | |
 
-  - 6. 23 | Španielsko / España | Oftalmología | |
+  - 6. 22 | Rumunsko / România | Oftalmologie | | |
 
-  - 6. 24 | Švédsko / Sverige | Ögonsjukdomar (oftalmologi) | |
+  - 6. 23 | Slovinsko / Slovenija | Oftalmologija | | |
 
-  - 6. 25 | Taliansko / Italia | Oftalmologia | |
+  - 6. 24 | Španielsko / España | Oftalmología | | |
 
-  - 6. 26 | Veľká Británia a Severné Írsko / United Kingdom | Ophthalmology | |
+  - 6. 25 | Švédsko / Sverige | Ögonsjukdomar (oftalmologi) | | |
 
-  - 6. 27 | Island / Ísland | Augnlækningar | |
+  - 6. 26 | Taliansko / Italia | Oftalmologia | | |
 
-  - 6. 28 | Lichtenštajnsko / Liechtenstein | Augenheilkunde | |
+  - 6. 27 | Veľká Británia a Severné Írsko / United Kingdom | Ophthalmology | |
 
-  - 6. 29 | Nórsko / Norge | øyesykdommer | |
+  - 6. 28 | Island / Ísland | Augnlækningar | |
 
-  - 6. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophthalmologie Ophtalmologie Oftalmologia | |
+  - 6. 29 | Lichtenštajnsko / Liechtenstein | Augenheilkunde | |
+
+  - 6. 30 | Nórsko / Norge | øyesykdommer | |
+
+  - 6. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Ophthalmologie Ophtalmologie Oftalmologia | |
 
   - 7. 01 | Belgicko / Belgique /België / Belgien | Oto-rhino-laryngologie/Otorhinolaryngologie | 3 roky | otorinolaryngológia
 
@@ -454,45 +468,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 7. 10 | Holandsko / Nederland | Keel-, neus- en oorheelkunde | |
 
-  - 7. 11 | Írsko / Ireland | Otolaryngology | |
+  - 7. 11 | Chorvátsko / Hrvatska | Otorinolaringologija | |
 
-  - 7. 12 | Litva / Lietuva | Otorinolaringologija | |
+  - 7. 12 | Írsko / Ireland | Otolaryngology | |
 
-  - 7. 13 | Lotyšsko / Latvija | Otolaringoloģija | |
+  - 7. 13 | Litva / Lietuva | Otorinolaringologija | |
 
-  - 7. 14 | Luxembursko / Luxembourg | Oto-rhino-laryngologie | |
+  - 7. 14 | Lotyšsko / Latvija | Otolaringoloģija | |
 
-  - 7. 15 | Maďarsko / Magyarország | Fül-orr-gégegyógyászat | |
+  - 7. 15 | Luxembursko / Luxembourg | Oto-rhino-laryngologie | |
 
-  - 7. 16 | Malta / Malta | Otorinolaringoloġija | |
+  - 7. 16 | Maďarsko / Magyarország | Fül-orr-gégegyógyászat | |
 
-  - 7. 17 | Nemecko / Deutschland | Hals-Nasen-Ohrenheilkunde | |
+  - 7. 17 | Malta / Malta | Otorinolaringoloġija | |
 
-  - 7. 18 | Poľsko / Polska | Otorynolaryngologia | |
+  - 7. 18 | Nemecko / Deutschland | Hals-Nasen-Ohrenheilkunde | |
 
-  - 7. 19 | Portugalsko / Portugal | Otorrinolaringologia | |
+  - 7. 19 | Poľsko / Polska | Otorynolaryngologia | |
 
-  - 7. 20 | Rakúsko / Österreich | Hals-, Nasen-und Ohrenkrankheiten | |
+  - 7. 20 | Portugalsko / Portugal | Otorrinolaringologia | |
 
-  - 7. 21 | Rumunsko / România | Otorinolaringologie | |
+  - 7. 21 | Rakúsko / Österreich | Hals-, Nasen-und Ohrenkrankheiten | |
 
-  - 7. 22 | Slovinsko / Slovenija | Otorinolaringológija | |
+  - 7. 22 | Rumunsko / România | Otorinolaringologie | |
 
-  - 7. 23 | Španielsko / España | Otorrinolaringología | |
+  - 7. 23 | Slovinsko / Slovenija | Otorinolaringológija | |
 
-  - 7. 24 | Švédsko / Sverige | Öron-, näs- och halssjukdomar (oto-rhino-laryngologi) | |
+  - 7. 24 | Španielsko / España | Otorrinolaringología | |
 
-  - 7. 25 | Taliansko / Italia | Otorinolaringoiatria | |
+  - 7. 25 | Švédsko / Sverige | Öron-, näs- och halssjukdomar (oto-rhino-laryngologi) | |
 
-  - 7. 26 | Veľká Británia a Severné Írsko / United Kingdom | Otolaryngology | |
+  - 7. 26 | Taliansko / Italia | Otorinolaringoiatria | |
 
-  - 7. 27 | Island / Ísland | Háls-, nef- og eyrnalækningar | |
+  - 7. 27 | Veľká Británia a Severné Írsko / United Kingdom | Otolaryngology | |
 
-  - 7. 28 | Lichtenštajnsko / Liechtenstein | Hals-, Nasen- und Ohrenkrankheiten | |
+  - 7. 28 | Island / Ísland | Háls-, nef- og eyrnalækningar | |
 
-  - 7. 29 | Nórsko / Norge | øre-nese-halssykdommer | |
+  - 7. 29 | Lichtenštajnsko / Liechtenstein | Hals-, Nasen- und Ohrenkrankheiten | |
 
-  - 7. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto-Rhino-Laryngologie Oto-rhino-laryngologie Otorinolaringoiatria | |
+  - 7. 30 | Nórsko / Norge | øre-nese-halssykdommer | |
+
+  - 7. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Oto-Rhino-Laryngologie Oto-rhino-laryngologie Otorinolaringoiatria
 
   - 8. 01 | Belgicko / Belgique /België / Belgien | Pédiatrie/Pediatrie | 4 roky | pediatria
 
@@ -514,45 +530,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 8. 10 | Holandsko / Nederland | Kindergeneeskunde | |
 
-  - 8. 11 | Írsko / Ireland | Paediatrics | |
+  - 8. 11 | Chorvátsko / Hrvatska | Pedijatrija | |
 
-  - 8. 12 | Litva / Lietuva | Vaikų ligos | |
+  - 8. 12 | Írsko / Ireland | Paediatrics | |
 
-  - 8. 13 | Lotyšsko / Latvija | Pediatrija | |
+  - 8. 13 | Litva / Lietuva | Vaikų ligos | |
 
-  - 8. 14 | Luxembursko / Luxembourg | Pédiatrie | |
+  - 8. 14 | Lotyšsko / Latvija | Pediatrija | |
 
-  - 8. 15 | Maďarsko / Magyarország | Csecsemő- és gyermekgyógyászat | |
+  - 8. 15 | Luxembursko / Luxembourg | Pédiatrie | |
 
-  - 8. 16 | Malta / Malta | Pedjatrija | |
+  - 8. 16 | Maďarsko / Magyarország | Csecsemő- és gyermekgyógyászat | |
 
-  - 8. 17 | Nemecko / Deutschland | Kinder — und Jugendheilkunde | |
+  - 8. 17 | Malta / Malta | Pedjatrija | |
 
-  - 8. 18 | Poľsko / Polska | Pediatria | |
+  - 8. 18 | Nemecko / Deutschland | Kinder — und Jugendheilkunde | |
 
-  - 8. 19 | Portugalsko / Portugal | Pediatria | |
+  - 8. 19 | Poľsko / Polska | Pediatria | |
 
-  - 8. 20 | Rakúsko / Österreich | Kinder — und Jugendheilkunde | |
+  - 8. 20 | Portugalsko / Portugal | Pediatria | |
 
-  - 8. 21 | Rumunsko / România | Pediatrie | |
+  - 8. 21 | Rakúsko / Österreich | Kinder — und Jugendheilkunde | |
 
-  - 8. 22 | Slovinsko / Slovenija | Pediatrija | |
+  - 8. 22 | Rumunsko / România | Pediatrie | |
 
-  - 8. 23 | Španielsko / España | Pediatría y sus áreas específicas | |
+  - 8. 23 | Slovinsko / Slovenija | Pediatrija | |
 
-  - 8. 24 | Švédsko / Sverige | Barn- och ungdomsmedicin | |
+  - 8. 24 | Španielsko / España | Pediatría y sus áreas específicas | |
 
-  - 8. 25 | Taliansko / Italia | Pédiatria | |
+  - 8. 25 | Švédsko / Sverige | Barn- och ungdomsmedicin | |
 
-  - 8. 26 | Veľká Británia a Severné Írsko / United Kingdom | Paediatrics | |
+  - 8. 26 | Taliansko / Italia | Pédiatria | |
 
-  - 8. 27 | Island / Ísland | Barnalækningar | |
+  - 8. 27 | Veľká Británia a Severné Írsko / United Kingdom | Paediatrics | |
 
-  - 8. 28 | Lichtenštajnsko / Liechtenstein | Kinderheilkunde | |
+  - 8. 28 | Island / Ísland | Barnalækningar | |
 
-  - 8. 29 | Nórsko / Norge | Barnesykdommer | |
+  - 8. 29 | Lichtenštajnsko / Liechtenstein | Kinderheilkunde | |
 
-  - 8. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder- und Jugendmedizin Pédiatrie Pediatria | |
+  - 8. 30 | Nórsko / Norge | Barnesykdommer | |
+
+  - 8. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder- und Jugendmedizin Pédiatrie Pediatria
 
   - 9. 01 | Belgicko / Belgique /België / Belgien | Pneumologie | 4 roky | pneumológia a ftizeológia
 
@@ -574,45 +592,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 9. 10 | Holandsko / Nederland | Longziekten en tuberculose | |
 
-  - 9. 11 | Írsko / Ireland | Respiratory medicine | |
+  - 9. 11 | Chorvátsko / Hrvatska | Pulmologija | |
 
-  - 9. 12 | Litva / Lietuva | Pulmonologija | |
+  - 9. 12 | Írsko / Ireland | Respiratory medicine | |
 
-  - 9. 13 | Lotyšsko / Latvija | Ftiziopneimonoloģija | |
+  - 9. 13 | Litva / Lietuva | Pulmonologija | |
 
-  - 9. 14 | Luxembursko / Luxembourg | Pneumologie | |
+  - 9. 14 | Lotyšsko / Latvija | Ftiziopneimonoloģija | |
 
-  - 9. 15 | Maďarsko / Magyarország | Tüdőgyógyászat | |
+  - 9. 15 | Luxembursko / Luxembourg | Pneumologie | |
 
-  - 9. 16 | Malta / Malta | Mediċina Respiratorja | |
+  - 9. 16 | Maďarsko / Magyarország | Tüdőgyógyászat | |
 
-  - 9. 17 | Nemecko / Deutschland | Pneumologie | |
+  - 9. 17 | Malta / Malta | Mediċina Respiratorja | |
 
-  - 9. 18 | Poľsko / Polska | Choroby płuc | |
+  - 9. 18 | Nemecko / Deutschland | Pneumologie | |
 
-  - 9. 19 | Portugalsko / Portugal | Pneumologia | |
+  - 9. 19 | Poľsko / Polska | Choroby płuc | |
 
-  - 9. 20 | Rakúsko / Österreich | Lungenkrankheiten | |
+  - 9. 20 | Portugalsko / Portugal | Pneumologia | |
 
-  - 9. 21 | Rumunsko / România | Pneumologie | |
+  - 9. 21 | Rakúsko / Österreich | Lungenkrankheiten | |
 
-  - 9. 22 | Slovinsko / Slovenija | Pnevmologija | |
+  - 9. 22 | Rumunsko / România | Pneumologie | |
 
-  - 9. 23 | Španielsko / España | Neumología | |
+  - 9. 23 | Slovinsko / Slovenija | Pnevmologija | |
 
-  - 9. 24 | Švédsko / Sverige | Lungsjukdomar (pneumologi) | |
+  - 9. 24 | Španielsko / España | Neumología | |
 
-  - 9. 25 | Taliansko / Italia | Malattie dell'apparato respiratorio | |
+  - 9. 25 | Švédsko / Sverige | Lungsjukdomar (pneumologi) | |
 
-  - 9. 26 | Veľká Británia a Severné Írsko / United Kingdom | Respiratory medicine | |
+  - 9. 26 | Taliansko / Italia | Malattie dell'apparato respiratorio | |
 
-  - 9. 27 | Island / Ísland | Lungnalækningar | |
+  - 9. 27 | Veľká Británia a Severné Írsko / United Kingdom | Respiratory medicine | |
 
-  - 9. 28 | Lichtenštajnsko / Liechtenstein | Pneumologie | |
+  - 9. 28 | Island / Ísland | Lungnalækningar | |
 
-  - 9. 29 | Nórsko / Norge | Lungesykdommer | |
+  - 9. 29 | Lichtenštajnsko / Liechtenstein | Pneumologie | |
 
-  - 9. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pneumologie Pneumologie Pneumologia | |
+  - 9. 30 | Nórsko / Norge | Lungesykdommer | |
+
+  - 9. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pneumologie Pneumologie Pneumologia
 
   - 10. 01 | Belgicko / Belgique /België / Belgien | Urologie | 5 rokov | urológia
 
@@ -634,45 +654,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10. 10 | Holandsko / Nederland | Urologie | |
 
-  - 10. 11 | Írsko / Ireland | Urology | |
+  - 10. 11 | Chorvátsko / Hrvatska | Urologija | |
 
-  - 10. 12 | Litva / Lietuva | Urologija | |
+  - 10. 12 | Írsko / Ireland | Urology | |
 
-  - 10. 13 | Lotyšsko / Latvija | Uroloģija | |
+  - 10. 13 | Litva / Lietuva | Urologija | |
 
-  - 10. 14 | Luxembursko / Luxembourg | Urologie | |
+  - 10. 14 | Lotyšsko / Latvija | Uroloģija | |
 
-  - 10. 15 | Maďarsko / Magyarország | Urológia | |
+  - 10. 15 | Luxembursko / Luxembourg | Urologie | |
 
-  - 10. 16 | Malta / Malta | Uroloġija | |
+  - 10. 16 | Maďarsko / Magyarország | Urológia | |
 
-  - 10. 17 | Nemecko / Deutschland | Urologie | |
+  - 10. 17 | Malta / Malta | Uroloġija | |
 
-  - 10. 18 | Poľsko / Polska | Urologia | |
+  - 10. 18 | Nemecko / Deutschland | Urologie | |
 
-  - 10. 19 | Portugalsko / Portugal | Urologia | |
+  - 10. 19 | Poľsko / Polska | Urologia | |
 
-  - 10. 20 | Rakúsko / Österreich | Urologie | |
+  - 10. 20 | Portugalsko / Portugal | Urologia | |
 
-  - 10. 21 | Rumunsko / România | Urologie | |
+  - 10. 21 | Rakúsko / Österreich | Urologie | |
 
-  - 10. 22 | Slovinsko / Slovenija | Urologija | |
+  - 10. 22 | Rumunsko / România | Urologie | |
 
-  - 10. 23 | Španielsko / España | Urología | |
+  - 10. 23 | Slovinsko / Slovenija | Urologija | |
 
-  - 10. 24 | Švédsko / Sverige | Urologi | |
+  - 10. 24 | Španielsko / España | Urología | |
 
-  - 10. 25 | Taliansko / Italia | Urologia | |
+  - 10. 25 | Švédsko / Sverige | Urologi | |
 
-  - 10. 26 | Veľká Británia a Severné Írsko / United Kingdom | Urology | |
+  - 10. 26 | Taliansko / Italia | Urologia | |
 
-  - 10. 27 | Island / Ísland | Þvagfæraskurðlækningar | |
+  - 10. 27 | Veľká Británia a Severné Írsko / United Kingdom | Urology | |
 
-  - 10. 28 | Lichtenštajnsko / Liechtenstein | Urologie | |
+  - 10. 28 | Island / Ísland | Þvagfæraskurðlækningar | |
 
-  - 10. 29 | Nórsko / Norge | Urologi | |
+  - 10. 29 | Lichtenštajnsko / Liechtenstein | Urologie | |
 
-  - 10. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Urologie Urologie Urologia | |
+  - 10. 30 | Nórsko / Norge | Urologi | |
+
+  - 10. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Urologie Urologie Urologia
 
   - 11. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie orthopédique/ Orthopedische heelkunde | 5 rokov | ortopédia
 
@@ -694,45 +716,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 11. 10 | Holandsko / Nederland | Orthopedie | |
 
-  - 11. 11 | Írsko / Ireland | Trauma and orthopaedic surgery | |
+  - 11. 11 | Chorvátsko / Hrvatska | Ortopedija i traumatologija | |
 
-  - 11. 12 | Litva / Lietuva | Ortopedija traumatologija | |
+  - 11. 12 | Írsko / Ireland | Trauma and orthopaedic surgery | |
 
-  - 11. 13 | Lotyšsko / Latvija | Traumatoloģija un ortopēdija | |
+  - 11. 13 | Litva / Lietuva | Ortopedija traumatologija | |
 
-  - 11. 14 | Luxembursko / Luxembourg | Orthopédie | |
+  - 11. 14 | Lotyšsko / Latvija | Traumatoloģija un ortopēdija | |
 
-  - 11. 15 | Maďarsko / Magyarország | Ortopédia és traumatológia | |
+  - 11. 15 | Luxembursko / Luxembourg | Orthopédie | |
 
-  - 11. 16 | Malta / Malta | Kirurġija Ortopedika | |
+  - 11. 16 | Maďarsko / Magyarország | Ortopédia és traumatológia | |
 
-  - 11. 17 | Nemecko / Deutschland | Orthopädie (und Unfallchirurgie) | |
+  - 11. 17 | Malta / Malta | Kirurġija Ortopedika | |
 
-  - 11. 18 | Poľsko / Polska | Ortopedia i traumatologia narządu ruchu | |
+  - 11. 18 | Nemecko / Deutschland | Orthopädie (und Unfallchirurgie) | |
 
-  - 11. 19 | Portugalsko / Portugal | Ortopedia | |
+  - 11. 19 | Poľsko / Polska | Ortopedia i traumatologia narządu ruchu | |
 
-  - 11. 20 | Rakúsko / Österreich | Orthopädie und Orthopädische Chirurgie | |
+  - 11. 20 | Portugalsko / Portugal | Ortopedia | |
 
-  - 11. 21 | Rumunsko / România | Ortopedie şi traumatologie | |
+  - 11. 21 | Rakúsko / Österreich | Orthopädie und Orthopädische Chirurgie | |
 
-  - 11. 22 | Slovinsko / Slovenija | Ortopedska kirurgija | |
+  - 11. 22 | Rumunsko / România | Ortopedie şi traumatologie | |
 
-  - 11. 23 | Španielsko / España | Cirugía ortopédica y traumatología | |
+  - 11. 23 | Slovinsko / Slovenija | Ortopedska kirurgija | |
 
-  - 11. 24 | Švédsko / Sverige | Ortopedi | |
+  - 11. 24 | Španielsko / España | Cirugía ortopédica y traumatología | |
 
-  - 11. 25 | Taliansko / Italia | Ortopedia e traumatologia | |
+  - 11. 25 | Švédsko / Sverige | Ortopedi | |
 
-  - 11. 26 | Veľká Británia a Severné Írsko / United Kingdom | Trauma and orthopaedic surgery | |
+  - 11. 26 | Taliansko / Italia | Ortopedia e traumatologia | |
 
-  - 11. 27 | Island / Ísland | Bæklunarskurðlækningar | |
+  - 11. 27 | Veľká Británia a Severné Írsko / United Kingdom | Trauma and orthopaedic surgery | |
 
-  - 11. 28 | Lichtenštajnsko / Liechtenstein | Orthopädische Chirurgie | |
+  - 11. 28 | Island / Ísland | Bæklunarskurðlækningar | |
 
-  - 11. 29 | Nórsko / Norge | Ortopedisk kirurgi | |
+  - 11. 29 | Lichtenštajnsko / Liechtenstein | Orthopädische Chirurgie | |
 
-  - 11. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgie orthopédique et traumatologie de l’appareil locomoteur Chirurgia ortopedica e traumatologia del sistema motorio | |
+  - 11. 30 | Nórsko / Norge | Ortopedisk kirurgi | |
+
+  - 11. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgie orthopédique et traumatologie de l’appareil locomoteur Chirurgia ortopedica e traumatologia del sistema motorio
 
   - 12. 01 | Belgicko / Belgique/ België / Belgien | Anatomie pathologique/ Pathologische anatomie | 4 roky | patologická anatómia
 
@@ -754,45 +778,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 12. 10 | Holandsko / Nederland | Pathologie | |
 
-  - 12. 11 | Írsko / Ireland | Histopathology | |
+  - 12. 11 | Chorvátsko / Hrvatska | Patologija | |
 
-  - 12. 12 | Litva / Lietuva | Patologija | |
+  - 12. 12 | Írsko / Ireland | Histopathology | |
 
-  - 12. 13 | Lotyšsko / Latvija | Patoloģija | |
+  - 12. 13 | Litva / Lietuva | Patologija | |
 
-  - 12. 14 | Luxembursko / Luxembourg | Anatomie pathologique | |
+  - 12. 14 | Lotyšsko / Latvija | Patoloģija | |
 
-  - 12. 15 | Maďarsko / Magyarország | Patológia | |
+  - 12. 15 | Luxembursko / Luxembourg | Anatomie pathologique | |
 
-  - 12. 16 | Malta / Malta | Istopatoloġija | |
+  - 12. 16 | Maďarsko / Magyarország | Patológia | |
 
-  - 12. 17 | Nemecko / Deutschland | Pathologie | |
+  - 12. 17 | Malta / Malta | Istopatoloġija | |
 
-  - 12. 18 | Poľsko / Polska | Patomorfologia | |
+  - 12. 18 | Nemecko / Deutschland | Pathologie | |
 
-  - 12. 19 | Portugalsko / Portugal | Anatomia patologica | |
+  - 12. 19 | Poľsko / Polska | Patomorfologia | |
 
-  - 12. 20 | Rakúsko / Österreich | Pathologie | |
+  - 12. 20 | Portugalsko / Portugal | Anatomia patologica | |
 
-  - 12. 21 | Rumunsko / România | Anatomie patologică | |
+  - 12. 21 | Rakúsko / Österreich | Pathologie | |
 
-  - 12. 22 | Slovinsko / Slovenija | Anatomska patologija in citopatologija | |
+  - 12. 22 | Rumunsko / România | Anatomie patologică | |
 
-  - 12. 23 | Španielsko / España | Anatomía patológica | |
+  - 12. 23 | Slovinsko / Slovenija | Patologija | |
 
-  - 12. 24 | Švédsko / Sverige | Klinisk patologi | |
+  - 12. 24 | Španielsko / España | Anatomía patológica | |
 
-  - 12. 25 | Taliansko / Italia | Anatomia patologica | |
+  - 12. 25 | Švédsko / Sverige | Klinisk patologi | |
 
-  - 12. 26 | Veľká Británia a Severné Írsko / United Kingdom | Histopathology | |
+  - 12. 26 | Taliansko / Italia | Anatomia patologica | |
 
-  - 12. 27 | Island / Ísland | Vefjameinafræði | |
+  - 12. 27 | Veľká Británia a Severné Írsko / United Kingdom | Histopathology | |
 
-  - 12. 28 | Lichtenštajnsko / Liechtenstein | Pathologie | |
+  - 12. 28 | Island / Ísland | Vefjameinafræði | |
 
-  - 12. 29 | Nórsko / Norge | Patologi | |
+  - 12. 29 | Lichtenštajnsko / Liechtenstein | Pathologie | |
 
-  - 12. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pathologie Pathologie Patologia | |
+  - 12. 30 | Nórsko / Norge | Patologi | |
+
+  - 12. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Pathologie Pathologie Patologia
 
   - 13. 01 | Belgicko / Belgique /België / Belgien | Neurologie | 4 roky | neurológia
 
@@ -814,45 +840,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 13. 10 | Holandsko / Nederland | Neurologie | |
 
-  - 13. 11 | Írsko / Ireland | Neurology | |
+  - 13. 11 | Chorvátsko / Hrvatska | Neurologija | |
 
-  - 13. 12 | Litva / Lietuva | Neurologija | |
+  - 13. 12 | Írsko / Ireland | Neurology | |
 
-  - 13. 13 | Lotyšsko / Latvija | Neiroloģija | |
+  - 13. 13 | Litva / Lietuva | Neurologija | |
 
-  - 13. 14 | Luxembursko / Luxembourg | Neurologie | |
+  - 13. 14 | Lotyšsko / Latvija | Neiroloģija | |
 
-  - 13. 15 | Maďarsko / Magyarország | Neurológia | |
+  - 13. 15 | Luxembursko / Luxembourg | Neurologie | |
 
-  - 13. 16 | Malta / Malta | Newroloġija | |
+  - 13. 16 | Maďarsko / Magyarország | Neurológia | |
 
-  - 13. 17 | Nemecko / Deutschland | Neurologie | |
+  - 13. 17 | Malta / Malta | Newroloġija | |
 
-  - 13. 18 | Poľsko / Polska | Neurologia | |
+  - 13. 18 | Nemecko / Deutschland | Neurologie | |
 
-  - 13. 19 | Portugalsko / Portugal | Neurologia | |
+  - 13. 19 | Poľsko / Polska | Neurologia | |
 
-  - 13. 20 | Rakúsko / Österreich | Neurologie | |
+  - 13. 20 | Portugalsko / Portugal | Neurologia | |
 
-  - 13. 21 | Rumunsko / România | Neurologie | |
+  - 13. 21 | Rakúsko / Österreich | Neurologie | |
 
-  - 13. 22 | Slovinsko / Slovenija | Nevrologija | |
+  - 13. 22 | Rumunsko / România | Neurologie | |
 
-  - 13. 23 | Španielsko / España | Neurología | |
+  - 13. 23 | Slovinsko / Slovenija | Nevrologija | |
 
-  - 13. 24 | Švédsko / Sverige | Neurologi | |
+  - 13. 24 | Španielsko / España | Neurología | |
 
-  - 13. 25 | Taliansko / Italia | Neurologia | |
+  - 13. 25 | Švédsko / Sverige | Neurologi | |
 
-  - 13. 26 | Veľká Británia a Severné Írsko / United Kingdom | Neurology | |
+  - 13. 26 | Taliansko / Italia | Neurologia | |
 
-  - 13. 27 | Island / Ísland | Taugalækningar | |
+  - 13. 27 | Veľká Británia a Severné Írsko / United Kingdom | Neurology | |
 
-  - 13. 28 | Lichtenštajnsko / Liechtenstein | Neurologie | |
+  - 13. 28 | Island / Ísland | Taugalækningar | |
 
-  - 13. 29 | Nórsko / Norge | Nevrologi | |
+  - 13. 29 | Lichtenštajnsko / Liechtenstein | Neurologie | |
 
-  - 13. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie Neurologie Neurologia | |
+  - 13. 30 | Nórsko / Norge | Nevrologi | |
+
+  - 13. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Neurologie Neurologie Neurologia
 
   - 14. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie de l'adulte / Psychiatrie, meer bepaald in de volwassenpsychiatrie | 4 roky | psychiatria
 
@@ -874,45 +902,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 14. 10 | Holandsko / Nederland | Psychiatrie | |
 
-  - 14. 11 | Írsko / Ireland | Psychiatry | |
+  - 14. 11 | Chorvátsko / Hrvatska | Psihijatrija | |
 
-  - 14. 12 | Litva / Lietuva | Psichiatrija | |
+  - 14. 12 | Írsko / Ireland | Psychiatry | |
 
-  - 14. 13 | Lotyšsko / Latvija | Psihiatrija | |
+  - 14. 13 | Litva / Lietuva | Psichiatrija | |
 
-  - 14. 14 | Luxembursko / Luxembourg | Psychiatrie | |
+  - 14. 14 | Lotyšsko / Latvija | Psihiatrija | |
 
-  - 14. 15 | Maďarsko / Magyarország | Pszichiátria | |
+  - 14. 15 | Luxembursko / Luxembourg | Psychiatrie | |
 
-  - 14. 16 | Malta / Malta | Psikjatrija | |
+  - 14. 16 | Maďarsko / Magyarország | Pszichiátria | |
 
-  - 14. 17 | Nemecko / Deutschland | Psychiatrie und Psychotherapie | |
+  - 14. 17 | Malta / Malta | Psikjatrija | |
 
-  - 14. 18 | Poľsko / Polska | Psychiatria | |
+  - 14. 18 | Nemecko / Deutschland | Psychiatrie und Psychotherapie | |
 
-  - 14. 19 | Portugalsko / Portugal | Psiquiatria | |
+  - 14. 19 | Poľsko / Polska | Psychiatria | |
 
-  - 14. 20 | Rakúsko / Österreich | Psychiatrie (und Psychotherapeutische Medizin) | |
+  - 14. 20 | Portugalsko / Portugal | Psiquiatria | |
 
-  - 14. 21 | Rumunsko / România | Psihiatrie | |
+  - 14. 21 | Rakúsko / Österreich | Psychiatrie (und Psychotherapeutische Medizin) | |
 
-  - 14. 22 | Slovinsko / Slovenija | Psihiatrija | |
+  - 14. 22 | Rumunsko / România | Psihiatrie | |
 
-  - 14. 23 | Španielsko / España | Psiquiatría | |
+  - 14. 23 | Slovinsko / Slovenija | Psihiatrija | |
 
-  - 14. 24 | Švédsko / Sverige | Psykiatri | |
+  - 14. 24 | Španielsko / España | Psiquiatría | |
 
-  - 14. 25 | Taliansko / Italia | Psichiatria | |
+  - 14. 25 | Švédsko / Sverige | Psykiatri | |
 
-  - 14. 26 | Veľká Británia a Severné Írsko / United Kingdom | General psychiatry | |
+  - 14. 26 | Taliansko / Italia | Psichiatria | |
 
-  - 14. 27 | Island / Ísland | Geðlækningar | |
+  - 14. 27 | Veľká Británia a Severné Írsko / United Kingdom | General psychiatry | |
 
-  - 14. 28 | Lichtenštajnsko / Liechtenstein | Psychiatrie und Psychotherapie | |
+  - 14. 28 | Island / Ísland | Geðlækningar | |
 
-  - 14. 29 | Nórsko / Norge | Psykiatri | |
+  - 14. 29 | Lichtenštajnsko / Liechtenstein | Psychiatrie und Psychotherapie | |
 
-  - 14. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie und Psychotherapie Psychiatrie et psychothérapie Psichiatria e psicoterapia | |
+  - 14. 30 | Nórsko / Norge | Psykiatri | |
+
+  - 14. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Psychiatrie und Psychotherapie Psychiatrie et psychothérapie Psichiatria e psicoterapia
 
   - 15. 01 | Belgicko / Belgique / België / Belgien | Radiodiagnostic/Röntgendiagnose | 4 roky | rádiológia
 
@@ -934,45 +964,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 15. 10 | Holandsko / Nederland | Radiologie | |
 
-  - 15. 11 | Írsko / Ireland | Diagnostic radiology | |
+  - 15. 11 | Chorvátsko / Hrvatska | Klinička radiologija | |
 
-  - 15. 12 | Litva / Lietuva | Radiologija | |
+  - 15. 12 | Írsko / Ireland | Diagnostic radiology | |
 
-  - 15. 13 | Lotyšsko / Latvija | Diagnostiskā radioloģija | |
+  - 15. 13 | Litva / Lietuva | Radiologija | |
 
-  - 15. 14 | Luxembursko / Luxembourg | Radiodiagnostic | |
+  - 15. 14 | Lotyšsko / Latvija | Diagnostiskā radioloģija | |
 
-  - 15. 15 | Maďarsko / Magyarország | Radiológia | |
+  - 15. 15 | Luxembursko / Luxembourg | Radiodiagnostic | |
 
-  - 15. 16 | Malta / Malta | Radjoloġija | |
+  - 15. 16 | Maďarsko / Magyarország | Radiológia | |
 
-  - 15. 17 | Nemecko / Deutschland | (Diagnostische) Radiologie | |
+  - 15. 17 | Malta / Malta | Radjoloġija | |
 
-  - 15. 18 | Poľsko / Polska | Radiologia i diagnostyka obrazowa | |
+  - 15. 18 | Nemecko / Deutschland | (Diagnostische) Radiologie | |
 
-  - 15. 19 | Portugalsko / Portugal | Radiodiagnóstico | |
+  - 15. 19 | Poľsko / Polska | Radiologia i diagnostyka obrazowa | |
 
-  - 15. 20 | Rakúsko / Österreich | Radiologie | |
+  - 15. 20 | Portugalsko / Portugal | Radiodiagnóstico | |
 
-  - 15. 21 | Rumunsko / România | Radiologie-imagistică medicală | |
+  - 15. 21 | Rakúsko / Österreich | Radiologie | |
 
-  - 15. 22 | Slovinsko / Slovenija | Radiologija | |
+  - 15. 22 | Rumunsko / România | Radiologie-imagistică medicală | |
 
-  - 15. 23 | Španielsko / España | Radiodiagnóstico | |
+  - 15. 23 | Slovinsko / Slovenija | Radiologija | |
 
-  - 15. 24 | Švédsko / Sverige | Medicinsk radiologi | |
+  - 15. 24 | Španielsko / España | Radiodiagnóstico | |
 
-  - 15. 25 | Taliansko / Italia | Radiodiagnostica | |
+  - 15. 25 | Švédsko / Sverige | Medicinsk radiologi | |
 
-  - 15. 26 | Veľká Británia a Severné Írsko / United Kingdom | Clinical radiology | |
+  - 15. 26 | Taliansko / Italia | Radiodiagnostica | |
 
-  - 15. 27 | Island / Ísland | Geislagreining | |
+  - 15. 27 | Veľká Británia a Severné Írsko / United Kingdom | Clinical radiology | |
 
-  - 15. 28 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radiodiagnostik | |
+  - 15. 28 | Island / Ísland | Geislagreining | |
 
-  - 15. 29 | Nórsko / Norge | Radiologi | |
+  - 15. 29 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radiodiagnostik | |
 
-  - 15. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radiologie Radiologie Radiologia | |
+  - 15. 30 | Nórsko / Norge | Radiologi | |
+
+  - 15. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radiologie Radiologie Radiologia
 
   - 16. 01 | Belgicko / Belgique /België / Belgien | Radiothérapie-oncologie/Radiotherapie-oncologie | 4 roky | radiačná onkológia
 
@@ -994,45 +1026,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 16. 10 | Holandsko / Nederland | Radiotherapie | |
 
-  - 16. 11 | Írsko / Ireland | Radiation oncology | |
+  - 16. 11 | Chorvátsko / Hrvatska | Onkologija i radioterapija | |
 
-  - 16. 12 | Litva / Lietuva | Onkologija radioterapija | |
+  - 16. 12 | Írsko / Ireland | Radiation oncology | |
 
-  - 16. 13 | Lotyšsko / Latvija | Terapeitiskā radioloģija | |
+  - 16. 13 | Litva / Lietuva | Onkologija radioterapija | |
 
-  - 16. 14 | Luxembursko / Luxembourg | Radiothérapie | |
+  - 16. 14 | Lotyšsko / Latvija | Terapeitiskā radioloģija | |
 
-  - 16. 15 | Maďarsko / Magyarország | Sugárterápia | |
+  - 16. 15 | Luxembursko / Luxembourg | Radiothérapie | |
 
-  - 16. 16 | Malta / Malta | Onkologija u Radjoterapija | |
+  - 16. 16 | Maďarsko / Magyarország | Sugárterápia | |
 
-  - 16. 17 | Nemecko / Deutschland | Strahlentherapie | |
+  - 16. 17 | Malta / Malta | Onkologija u Radjoterapija | |
 
-  - 16. 18 | Poľsko / Polska | Radioterapia onkologiczna | |
+  - 16. 18 | Nemecko / Deutschland | Strahlentherapie | |
 
-  - 16. 19 | Portugalsko / Portugal | Radioterapia | |
+  - 16. 19 | Poľsko / Polska | Radioterapia onkologiczna | |
 
-  - 16. 20 | Rakúsko / Österreich | Strahlentherapie — Radioonkologie | |
+  - 16. 20 | Portugalsko / Portugal | Radioterapia | |
 
-  - 16. 21 | Rumunsko / România | Radioterapie | |
+  - 16. 21 | Rakúsko / Österreich | Strahlentherapie — Radioonkologie | |
 
-  - 16. 22 | Slovinsko / Slovenija | Radioterapija in onkologija | |
+  - 16. 22 | Rumunsko / România | Radioterapie | |
 
-  - 16. 23 | Španielsko / España | Oncología radioterápica | |
+  - 16. 23 | Slovinsko / Slovenija | Radioterapija in onkologija | |
 
-  - 16. 24 | Švédsko / Sverige | Tumörsjukdomar (allmän onkologi) | |
+  - 16. 24 | Španielsko / España | Oncología radioterápica | |
 
-  - 16. 25 | Taliansko / Italia | Radioterapia | |
+  - 16. 25 | Švédsko / Sverige | Tumörsjukdomar (allmän onkologi) | |
 
-  - 16. 26 | Veľká Británia a Severné Írsko / United Kingdom | Clinical oncology | |
+  - 16. 26 | Taliansko / Italia | Radioterapia | |
 
-  - 16. 27 | Island / Ísland | - | |
+  - 16. 27 | Veľká Británia a Severné Írsko / United Kingdom | Clinical oncology | |
 
-  - 16. 28 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radio-Onkologie | |
+  - 16. 28 | Island / Ísland | - | |
 
-  - 16. 29 | Nórsko / Norge | - | |
+  - 16. 29 | Lichtenštajnsko / Liechtenstein | Medizinische Radiologie / Radio-Onkologie | |
 
-  - 16. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radio-Onkologie/Strahlentherapie Radio-oncologie/radiothérapie Radio-oncologia/radioterapia | |
+  - 16. 30 | Nórsko / Norge | - | |
+
+  - 16. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Radio-Onkologie/Strahlentherapie Radio-oncologie/radiothérapie Radio-oncologia/radioterapia
 
   - 17. 01 | Belgicko / Belgique / België / Belgien | Biologie clinique/Klinische biologie | 4 roky | laboratórna medicína
 
@@ -1054,45 +1088,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 17. 10 | Holandsko / Nederland | - | |
 
-  - 17. 11 | Írsko / Ireland | - | |
+  - 17. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 17. 12 | Litva / Lietuva | Laboratorinė medicina | |
+  - 17. 12 | Írsko / Ireland | - | |
 
-  - 17. 13 | Lotyšsko / Latvija | - | |
+  - 17. 13 | Litva / Lietuva | Laboratorinė medicina | |
 
-  - 17. 14 | Luxembursko / Luxembourg | Biologie clinique | |
+  - 17. 14 | Lotyšsko / Latvija | - | |
 
-  - 17. 15 | Maďarsko / Magyarország | Orvosi laboratóriumi diagnosztika | |
+  - 17. 15 | Luxembursko / Luxembourg | Biologie clinique | |
 
-  - 17. 16 | Malta / Malta | - | |
+  - 17. 16 | Maďarsko / Magyarország | Orvosi laboratóriumi diagnosztika | |
 
-  - 17. 17 | Nemecko / Deutschland | - | |
+  - 17. 17 | Malta / Malta | - | |
 
-  - 17. 18 | Poľsko / Polska | Diagnostyka laboratoryjna | |
+  - 17. 18 | Nemecko / Deutschland | - | |
 
-  - 17. 19 | Portugalsko / Portugal | Patologia clínica | |
+  - 17. 19 | Poľsko / Polska | Diagnostyka laboratoryjna | |
 
-  - 17. 20 | Rakúsko / Österreich | Medizinische Biologie | |
+  - 17. 20 | Portugalsko / Portugal | Patologia clínica | |
 
-  - 17. 21 | Rumunsko / România | Medicină de laborator | |
+  - 17. 21 | Rakúsko / Österreich | Medizinische Biologie | |
 
-  - 17. 22 | Slovinsko / Slovenija | - | |
+  - 17. 22 | Rumunsko / România | Medicină de laborator | |
 
-  - 17. 23 | Španielsko / España | Análisis clínicos | |
+  - 17. 23 | Slovinsko / Slovenija | - | |
 
-  - 17. 24 | Švédsko / Sverige | - | |
+  - 17. 24 | Španielsko / España | Análisis clínicos | |
 
-  - 17. 25 | Taliansko / Italia | Patologia clinica | |
+  - 17. 25 | Švédsko / Sverige | - | |
 
-  - 17. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 17. 26 | Taliansko / Italia | Patologia clinica | |
 
-  - 17. 27 | Island / Ísland | - | |
+  - 17. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 17. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 17. 28 | Island / Ísland | - | |
 
-  - 17. 29 | Nórsko / Norge | - | |
+  - 17. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 17. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 17. 30 | Nórsko / Norge | - | |
+
+  - 17. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 18. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická mikrobiológia
 
@@ -1114,45 +1150,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 18. 10 | Holandsko / Nederland | Medische microbiologie | |
 
-  - 18. 11 | Írsko / Ireland | Microbiology | |
+  - 18. 11 | Chorvátsko / Hrvatska | Klinička mikrobiologija | |
 
-  - 18. 12 | Litva / Lietuva | - | |
+  - 18. 12 | Írsko / Ireland | Microbiology | |
 
-  - 18. 13 | Lotyšsko / Latvija | Mikrobioloģija | |
+  - 18. 13 | Litva / Lietuva | - | |
 
-  - 18. 14 | Luxembursko / Luxembourg | Microbiologie | |
+  - 18. 14 | Lotyšsko / Latvija | Mikrobioloģija | |
 
-  - 18. 15 | Maďarsko / Magyarország | Orvosi mikrobiológia | |
+  - 18. 15 | Luxembursko / Luxembourg | Microbiologie | |
 
-  - 18. 16 | Malta / Malta | Mikrobijoloġija | |
+  - 18. 16 | Maďarsko / Magyarország | Orvosi mikrobiológia | |
 
-  - 18. 17 | Nemecko / Deutschland | Mikrobiologie (Virologie) und Infektionsepidemiologie | |
+  - 18. 17 | Malta / Malta | Mikrobijoloġija | |
 
-  - 18. 18 | Poľsko / Polska | Mikrobiologia lekarska | |
+  - 18. 18 | Nemecko / Deutschland | Mikrobiologie (Virologie) und Infektionsepidemiologie | |
 
-  - 18. 19 | Portugalsko / Portugal | - | |
+  - 18. 19 | Poľsko / Polska | Mikrobiologia lekarska | |
 
-  - 18. 20 | Rakúsko / Österreich | Hygiene und Mikrobiologie | |
+  - 18. 20 | Portugalsko / Portugal | - | |
 
-  - 18. 21 | Rumunsko / România | - | |
+  - 18. 21 | Rakúsko / Österreich | Hygiene und Mikrobiologie | |
 
-  - 18. 22 | Slovinsko / Slovenija | Klinična mikrobiologija | |
+  - 18. 22 | Rumunsko / România | - | |
 
-  - 18. 23 | Španielsko / España | Microbiología y parasitología | |
+  - 18. 23 | Slovinsko / Slovenija | Klinična mikrobiologija | |
 
-  - 18. 24 | Švédsko / Sverige | Klinisk bakteriologi | |
+  - 18. 24 | Španielsko / España | Microbiología y parasitología | |
 
-  - 18. 25 | Taliansko / Italia | Microbiologia e virologia | |
+  - 18. 25 | Švédsko / Sverige | Klinisk bakteriologi | |
 
-  - 18. 26 | Veľká Británia a Severné Írsko / United Kingdom | Medical microbiology and virology | |
+  - 18. 26 | Taliansko / Italia | Microbiologia e virologia | |
 
-  - 18. 27 | Island / Ísland | Sýklafræði | |
+  - 18. 27 | Veľká Británia a Severné Írsko / United Kingdom | Medical microbiology and virology | |
 
-  - 18. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 18. 28 | Island / Ísland | Sýklafræði | |
 
-  - 18. 29 | Nórsko / Norge | Medisinsk mikrobiologi | |
+  - 18. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 18. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 18. 30 | Nórsko / Norge | Medisinsk mikrobiologi | |
+
+  - 18. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 19. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická biochémia
 
@@ -1174,45 +1212,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 19. 10 | Holandsko / Nederland | „Klinische Chemie (do 4. apríla 2000) | |
 
-  - 19. 11 | Írsko / Ireland | Chemical pathology | |
+  - 19. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 19. 12 | Litva / Lietuva | - | |
+  - 19. 12 | Írsko / Ireland | Chemical pathology | |
 
-  - 19. 13 | Lotyšsko / Latvija | - | |
+  - 19. 13 | Litva / Lietuva | - | |
 
-  - 19. 14 | Luxembursko / Luxembourg | Chimie biologique | |
+  - 19. 14 | Lotyšsko / Latvija | - | |
 
-  - 19. 15 | Maďarsko / Magyarország | - | |
+  - 19. 15 | Luxembursko / Luxembourg | Chimie biologique | |
 
-  - 19. 16 | Malta / Malta | Patoloġija Kimika | |
+  - 19. 16 | Maďarsko / Magyarország | - | |
 
-  - 19. 17 | Nemecko / Deutschland | Laboratoriumsmedizin | |
+  - 19. 17 | Malta / Malta | Patoloġija Kimika | |
 
-  - 19. 18 | Poľsko / Polska | - | |
+  - 19. 18 | Nemecko / Deutschland | Laboratoriumsmedizin | |
 
-  - 19. 19 | Portugalsko / Portugal | - | |
+  - 19. 19 | Poľsko / Polska | - | |
 
-  - 19. 20 | Rakúsko / Österreich | Medizinische und Chemische Labordiagnostik | |
+  - 19. 20 | Portugalsko / Portugal | - | |
 
-  - 19. 21 | Rumunsko / România | - | |
+  - 19. 21 | Rakúsko / Österreich | Medizinische und Chemische Labordiagnostik | |
 
-  - 19. 22 | Slovinsko / Slovenija | Medicinska biokemija | |
+  - 19. 22 | Rumunsko / România | - | |
 
-  - 19. 23 | Španielsko / España | Bioquímica clínica | |
+  - 19. 23 | Slovinsko / Slovenija | Medicinska biokemija | |
 
-  - 19. 24 | Švédsko / Sverige | Klinisk kemi | |
+  - 19. 24 | Španielsko / España | Bioquímica clínica | |
 
-  - 19. 25 | Taliansko / Italia | Biochimica clinica | |
+  - 19. 25 | Švédsko / Sverige | Klinisk kemi | |
 
-  - 19. 26 | Veľká Británia a Severné Írsko / United Kingdom | Chemical pathology | |
+  - 19. 26 | Taliansko / Italia | Biochimica clinica | |
 
-  - 19. 27 | Island / Ísland | Klínísk lífefnafræði | |
+  - 19. 27 | Veľká Británia a Severné Írsko / United Kingdom | Chemical pathology | |
 
-  - 19. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 19. 28 | Island / Ísland | Klínísk lífefnafræði | |
 
-  - 19. 29 | Nórsko / Norge | Klinisk kjemi | |
+  - 19. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 19. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 19. 30 | Nórsko / Norge | Klinisk kjemi | |
+
+  - 19. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 20. 01 | Belgicko / Belgique /België / Belgien | - | 4 roky | klinická imunológia a alergológia
 
@@ -1234,45 +1274,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 20. 10 | Holandsko / Nederland | Allergologie (do 12. augusta 1996) | |
 
-  - 20. 11 | Írsko / Ireland | Immunology (clinical and laboratory) | |
+  - 20. 11 | Chorvátsko / Hrvatska | Alergologija i klinička imunologija | |
 
-  - 20. 12 | Litva / Lietuva | - | |
+  - 20. 12 | Írsko / Ireland | Immunology (clinical and laboratory) | |
 
-  - 20. 13 | Lotyšsko / Latvija | Imunoloģija | |
+  - 20. 13 | Litva / Lietuva | - | |
 
-  - 20. 14 | Luxembursko / Luxembourg | Immunologie | |
+  - 20. 14 | Lotyšsko / Latvija | Imunoloģija | |
 
-  - 20. 15 | Maďarsko / Magyarország | Allergológia és klinikai immunológia | |
+  - 20. 15 | Luxembursko / Luxembourg | Immunologie | |
 
-  - 20. 16 | Malta / Malta | Immunoloġija | |
+  - 20. 16 | Maďarsko / Magyarország | Allergológia és klinikai immunológia | |
 
-  - 20. 17 | Nemecko / Deutschland | - | |
+  - 20. 17 | Malta / Malta | Immunoloġija | |
 
-  - 20. 18 | Poľsko / Polska | Immunologia kliniczna | |
+  - 20. 18 | Nemecko / Deutschland | - | |
 
-  - 20. 19 | Portugalsko / Portugal | - | |
+  - 20. 19 | Poľsko / Polska | Immunologia kliniczna | |
 
-  - 20. 20 | Rakúsko / Österreich | Immunologie | |
+  - 20. 20 | Portugalsko / Portugal | - | |
 
-  - 20. 21 | Rumunsko / România | - | |
+  - 20. 21 | Rakúsko / Österreich | Immunologie | |
 
-  - 20. 22 | Slovinsko / Slovenija | - | |
+  - 20. 22 | Rumunsko / România | - | |
 
-  - 20. 23 | Španielsko / España | Immunología | |
+  - 20. 23 | Slovinsko / Slovenija | - | |
 
-  - 20. 24 | Švédsko / Sverige | Klinisk immunologi | |
+  - 20. 24 | Španielsko / España | Immunología | |
 
-  - 20. 25 | Taliansko / Italia | - | |
+  - 20. 25 | Švédsko / Sverige | Klinisk immunologi | |
 
-  - 20. 26 | Veľká Británia a Severné Írsko / United Kingdom | Immunology | |
+  - 20. 26 | Taliansko / Italia | - | |
 
-  - 20. 27 | Island / Ísland | Ónæmisfræði | |
+  - 20. 27 | Veľká Británia a Severné Írsko / United Kingdom | Immunology | |
 
-  - 20. 28 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
+  - 20. 28 | Island / Ísland | Ónæmisfræði | |
 
-  - 20. 29 | Nórsko / Norge | Immunologi og transfusjonsmedisin | |
+  - 20. 29 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
 
-  - 20. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | – | |
+  - 20. 30 | Nórsko / Norge | Immunologi og transfusjonsmedisin | |
+
+  - 20. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | –
 
   - 21. 01 | Belgicko / Belgique /België / Belgien | Chirurgie plastique, reconstructrice et esthétique/Plastische, reconstructieve en esthetische heelkunde | 5 rokov | plastická chirurgia
 
@@ -1294,45 +1336,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 21. 10 | Holandsko / Nederland | Plastische chirurgie | |
 
-  - 21. 11 | Írsko / Ireland | Plastic, reconstructive and aesthetic surgery | |
+  - 21. 11 | Chorvátsko / Hrvatska | Plastična, rekonstrukcijska i estetska kirurgija | |
 
-  - 21. 12 | Litva / Lietuva | Plastinė ir rekonstrukcinė chirurgija | |
+  - 21. 12 | Írsko / Ireland | Plastic, reconstructive and aesthetic surgery | |
 
-  - 21. 13 | Lotyšsko / Latvija | Plastiskā ķirurģija | |
+  - 21. 13 | Litva / Lietuva | Plastinė ir rekonstrukcinė chirurgija | |
 
-  - 21. 14 | Luxembursko / Luxembourg | Chirurgie plastique | |
+  - 21. 14 | Lotyšsko / Latvija | Plastiskā ķirurģija | |
 
-  - 21. 15 | Maďarsko / Magyarország | Plasztikai (égési) sebészet | |
+  - 21. 15 | Luxembursko / Luxembourg | Chirurgie plastique | |
 
-  - 21. 16 | Malta / Malta | Kirurġija Plastika | |
+  - 21. 16 | Maďarsko / Magyarország | Plasztikai (égési) sebészet | |
 
-  - 21. 17 | Nemecko / Deutschland | Plastische (und Ästhetische) Chirurgie | |
+  - 21. 17 | Malta / Malta | Kirurġija Plastika | |
 
-  - 21. 18 | Poľsko / Polska | Chirurgia plastyczna | |
+  - 21. 18 | Nemecko / Deutschland | Plastische (und Ästhetische) Chirurgie | |
 
-  - 21. 19 | Portugalsko / Portugal | Cirurgia plástica, estética e reconstrutiva | |
+  - 21. 19 | Poľsko / Polska | Chirurgia plastyczna | |
 
-  - 21. 20 | Rakúsko / Österreich | Plastische, Ästhetische und Rekonstruktive Chirurgie | |
+  - 21. 20 | Portugalsko / Portugal | Cirurgia plástica, estética e reconstrutiva | |
 
-  - 21. 21 | Rumunsko / România | Chirurgie plastică — microchirurgie reconstructivă | |
+  - 21. 21 | Rakúsko / Österreich | Plastische, Ästhetische und Rekonstruktive Chirurgie | |
 
-  - 21. 22 | Slovinsko / Slovenija | Plastična, rekonstrukcijska in estetska kirurgija | |
+  - 21. 22 | Rumunsko / România | Chirurgie plastică — microchirurgie reconstructivă | |
 
-  - 21. 23 | Španielsko / España | Cirugía plástica, estética y reparadora | |
+  - 21. 23 | Slovinsko / Slovenija | Plastična, rekonstrukcijska in estetska kirurgija | |
 
-  - 21. 24 | Švédsko / Sverige | Plastikkirurgi | |
+  - 21. 24 | Španielsko / España | Cirugía plástica, estética y reparadora | |
 
-  - 21. 25 | Taliansko / Italia | Chirurgia plastica e ricostruttiva | |
+  - 21. 25 | Švédsko / Sverige | Plastikkirurgi | |
 
-  - 21. 26 | Veľká Británia a Severné Írsko / United Kingdom | Plastic surgery | |
+  - 21. 26 | Taliansko / Italia | Chirurgia plastica e ricostruttiva | |
 
-  - 21. 27 | Island / Ísland | Lýtalækningar | |
+  - 21. 27 | Veľká Británia a Severné Írsko / United Kingdom | Plastic surgery | |
 
-  - 21. 28 | Lichtenštajnsko / Liechtenstein | Plastische- und Wiederherstellungschirurgie | |
+  - 21. 28 | Island / Ísland | Lýtalækningar | |
 
-  - 21. 29 | Nórsko / Norge | Plastikkirurgi | |
+  - 21. 29 | Lichtenštajnsko / Liechtenstein | Plastische- und Wiederherstellungschirurgie | |
 
-  - 21. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgie plastique, reconstructive et esthétique Chirurgia plastica, ricostruttiva ed estetica | |
+  - 21. 30 | Nórsko / Norge | Plastikkirurgi | |
+
+  - 21. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgie plastique, reconstructive et esthétique Chirurgia plastica, ricostruttiva ed estetica
 
   - 22. 01 | Belgicko / Belgique /België / Belgien | Chirurgie thoracique/Heelkunde op de thorax | 5 rokov | hrudníková chirurgia
 
@@ -1354,45 +1398,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 22. 10 | Holandsko / Nederland | Cardio-thoracale chirurgie | |
 
-  - 22. 11 | Írsko / Ireland | Thoracic surgery | |
+  - 22. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 22. 12 | Litva / Lietuva | Krūtinės chirurgija | |
+  - 22. 12 | Írsko / Ireland | Thoracic surgery | |
 
-  - 22. 13 | Lotyšsko / Latvija | Torakālā ķirurģija | |
+  - 22. 13 | Litva / Lietuva | Krūtinės chirurgija | |
 
-  - 22. 14 | Luxembursko / Luxembourg | Chirurgie thoracique | |
+  - 22. 14 | Lotyšsko / Latvija | Torakālā ķirurģija | |
 
-  - 22. 15 | Maďarsko / Magyarország | Mellkassebészet | |
+  - 22. 15 | Luxembursko / Luxembourg | Chirurgie thoracique | |
 
-  - 22. 16 | Malta / Malta | Kirurġija Kardjo-Toraċika | |
+  - 22. 16 | Maďarsko / Magyarország | Mellkassebészet | |
 
-  - 22. 17 | Nemecko / Deutschland | Thoraxchirurgie | |
+  - 22. 17 | Malta / Malta | Kirurġija Kardjo-Toraċika | |
 
-  - 22. 18 | Poľsko / Polska | Chirurgia klatki piersiowej | |
+  - 22. 18 | Nemecko / Deutschland | Thoraxchirurgie | |
 
-  - 22. 19 | Portugalsko / Portugal | Cirurgia cardiotorácica | |
+  - 22. 19 | Poľsko / Polska | Chirurgia klatki piersiowej | |
 
-  - 22. 20 | Rakúsko / Österreich | Thoraxchirurgie | |
+  - 22. 20 | Portugalsko / Portugal | Cirurgia cardiotorácica | |
 
-  - 22. 21 | Rumunsko / România | Chirurgie toracică | |
+  - 22. 21 | Rakúsko / Österreich | Thoraxchirurgie | |
 
-  - 22. 22 | Slovinsko / Slovenija | Torakalna kirurgija | |
+  - 22. 22 | Rumunsko / România | Chirurgie toracică | |
 
-  - 22. 23 | Španielsko / España | Cirugía torácica | |
+  - 22. 23 | Slovinsko / Slovenija | Torakalna kirurgija | |
 
-  - 22. 24 | Švédsko / Sverige | Thoraxkirurgi | |
+  - 22. 24 | Španielsko / España | Cirugía torácica | |
 
-  - 22. 25 | Taliansko / Italia | Chirurgia toracica; Cardiochirurgia | |
+  - 22. 25 | Švédsko / Sverige | Thoraxkirurgi | |
 
-  - 22. 26 | Veľká Británia a Severné Írsko / United Kingdom | Cardo-thoracic surgery | |
+  - 22. 26 | Taliansko / Italia | Chirurgia toracica; Cardiochirurgia | |
 
-  - 22. 27 | Island / Ísland | Brjóstholsskurðlækningar | |
+  - 22. 27 | Veľká Británia a Severné Írsko / United Kingdom | Cardo-thoracic surgery | |
 
-  - 22. 28 | Lichtenštajnsko / Liechtenstein | Herz- und thorakale Gefässchirurgie | |
+  - 22. 28 | Island / Ísland | Brjóstholsskurðlækningar | |
 
-  - 22. 29 | Nórsko / Norge | Thoraxkirurgi | |
+  - 22. 29 | Lichtenštajnsko / Liechtenstein | Herz- und thorakale Gefässchirurgie | |
 
-  - 22. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Herz- und thorakale Gefässchirurgie Chirurgie cardiaque et vasculaire thoracique Chirurgia del cuore e dei vasi toracici | |
+  - 22. 30 | Nórsko / Norge | Thoraxkirurgi | |
+
+  - 22. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Herz- und thorakale Gefässchirurgie Chirurgie cardiaque et vasculaire thoracique Chirurgia del cuore e dei vasi toracici
 
   - 23. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | detská chirurgia
 
@@ -1414,45 +1460,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 23. 10 | Holandsko / Nederland | - | |
 
-  - 23. 11 | Írsko / Ireland | Paediatric surgery | |
+  - 23. 11 | Chorvátsko / Hrvatska | Dječja kirurgija | |
 
-  - 23. 12 | Litva / Lietuva | Vaikų chirurgija | |
+  - 23. 12 | Írsko / Ireland | Paediatric surgery | |
 
-  - 23. 13 | Lotyšsko / Latvija | Bērnu ķirurģija | |
+  - 23. 13 | Litva / Lietuva | Vaikų chirurgija | |
 
-  - 23. 14 | Luxembursko / Luxembourg | Chirurgie pédiatrique | |
+  - 23. 14 | Lotyšsko / Latvija | Bērnu ķirurģija | |
 
-  - 23. 15 | Maďarsko / Magyarország | Gyermeksebészet | |
+  - 23. 15 | Luxembursko / Luxembourg | Chirurgie pédiatrique | |
 
-  - 23. 16 | Malta / Malta | Kirurġija Pedjatrika | |
+  - 23. 16 | Maďarsko / Magyarország | Gyermeksebészet | |
 
-  - 23. 17 | Nemecko / Deutschland | Kinderchirurgie | |
+  - 23. 17 | Malta / Malta | Kirurġija Pedjatrika | |
 
-  - 23. 18 | Poľsko / Polska | Chirurgia dziecięca | |
+  - 23. 18 | Nemecko / Deutschland | Kinderchirurgie | |
 
-  - 23. 19 | Portugalsko / Portugal | Cirurgia pediátrica | |
+  - 23. 19 | Poľsko / Polska | Chirurgia dziecięca | |
 
-  - 23. 20 | Rakúsko / Österreich | Kinder- und Jugendchirurgie | |
+  - 23. 20 | Portugalsko / Portugal | Cirurgia pediátrica | |
 
-  - 23. 21 | Rumunsko / România | Chirurgie pediatrică | |
+  - 23. 21 | Rakúsko / Österreich | Kinder- und Jugendchirurgie | |
 
-  - 23. 22 | Slovinsko / Slovenija | - | |
+  - 23. 22 | Rumunsko / România | Chirurgie pediatrică | |
 
-  - 23. 23 | Španielsko / España | Cirugía pediátrica | |
+  - 23. 23 | Slovinsko / Slovenija | - | |
 
-  - 23. 24 | Švédsko / Sverige | Barn- och ungdomskirurgi | |
+  - 23. 24 | Španielsko / España | Cirugía pediátrica | |
 
-  - 23. 25 | Taliansko / Italia | Chirurgia pediatrica | |
+  - 23. 25 | Švédsko / Sverige | Barn- och ungdomskirurgi | |
 
-  - 23. 26 | Veľká Británia a Severné Írsko / United Kingdom | Paediatric surgery | |
+  - 23. 26 | Taliansko / Italia | Chirurgia pediatrica | |
 
-  - 23. 27 | Island / Ísland | Barnaskurðlækningar | |
+  - 23. 27 | Veľká Británia a Severné Írsko / United Kingdom | Paediatric surgery | |
 
-  - 23. 28 | Lichtenštajnsko / Liechtenstein | Kinderchirurgie | |
+  - 23. 28 | Island / Ísland | Barnaskurðlækningar | |
 
-  - 23. 29 | Nórsko / Norge | Barnekirurgi | |
+  - 23. 29 | Lichtenštajnsko / Liechtenstein | Kinderchirurgie | |
 
-  - 23. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinderchirurgie Chirurgie pédiatrique Chirurgia pediatrica | |
+  - 23. 30 | Nórsko / Norge | Barnekirurgi | |
+
+  - 23. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinderchirurgie Chirurgie pédiatrique Chirurgia pediatrica
 
   - 24. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie des vaisseaux/Bloedvatenheelkunde | 5 rokov | cievna chirurgia
 
@@ -1474,45 +1522,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 24. 10 | Holandsko / Nederland | - | |
 
-  - 24. 11 | Írsko / Ireland | - | |
+  - 24. 11 | Chorvátsko / Hrvatska | Vaskularna kirurgija | |
 
-  - 24. 12 | Litva / Lietuva | Kraujagyslių chirurgija | |
+  - 24. 12 | Írsko / Ireland | - | |
 
-  - 24. 13 | Lotyšsko / Latvija | Asinsvadu ķirurģija | |
+  - 24. 13 | Litva / Lietuva | Kraujagyslių chirurgija | |
 
-  - 24. 14 | Luxembursko / Luxembourg | Chirurgie vasculaire | |
+  - 24. 14 | Lotyšsko / Latvija | Asinsvadu ķirurģija | |
 
-  - 24. 15 | Maďarsko / Magyarország | Érsebészet | |
+  - 24. 15 | Luxembursko / Luxembourg | Chirurgie vasculaire | |
 
-  - 24. 16 | Malta / Malta | Kirurġija Vaskolari | |
+  - 24. 16 | Maďarsko / Magyarország | Érsebészet | |
 
-  - 24. 17 | Nemecko / Deutschland | Gefäβchirurgie | |
+  - 24. 17 | Malta / Malta | Kirurġija Vaskolari | |
 
-  - 24. 18 | Poľsko / Polska | Chirurgia naczyniowa | |
+  - 24. 18 | Nemecko / Deutschland | Gefäβchirurgie | |
 
-  - 24. 19 | Portugalsko / Portugal | Angologia/Cirurgia vascular | |
+  - 24. 19 | Poľsko / Polska | Chirurgia naczyniowa | |
 
-  - 24. 20 | Rakúsko / Österreich | - | |
+  - 24. 20 | Portugalsko / Portugal | Angologia/Cirurgia vascular | |
 
-  - 24. 21 | Rumunsko / România | Chirurgie vasculară | |
+  - 24. 21 | Rakúsko / Österreich | - | |
 
-  - 24. 22 | Slovinsko / Slovenija | Kardiovaskularna kirurgija | |
+  - 24. 22 | Rumunsko / România | Chirurgie vasculară | |
 
-  - 24. 23 | Španielsko / España | Angiología y cirugía vascular | |
+  - 24. 23 | Slovinsko / Slovenija | Kardiovaskularna kirurgija | |
 
-  - 24. 24 | Švédsko / Sverige | - | |
+  - 24. 24 | Španielsko / España | Angiología y cirugía vascular | |
 
-  - 24. 25 | Taliansko / Italia | Chirurgia vascolare | |
+  - 24. 25 | Švédsko / Sverige | - | |
 
-  - 24. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 24. 26 | Taliansko / Italia | Chirurgia vascolare | |
 
-  - 24. 27 | Island / Ísland | Æðaskurðlækningar | |
+  - 24. 27 | Veľká Británia a Severné Írsko / United Kingdom | Vascular surgery | |
 
-  - 24. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 24. 28 | Island / Ísland | Æðaskurðlækningar | |
 
-  - 24. 29 | Nórsko / Norge | Karkirurgi | |
+  - 24. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 24. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 24. 30 | Nórsko / Norge | Karkirurgi | |
+
+  - 24. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 25. 01 | Belgicko / Belgique / België / Belgien | Cardiologie | 4 roky | kardiológia
 
@@ -1534,45 +1584,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 25. 10 | Holandsko / Nederland | Cardiologie | |
 
-  - 25. 11 | Írsko / Ireland | Cardiology | |
+  - 25. 11 | Chorvátsko / Hrvatska | Kardiologija | |
 
-  - 25. 12 | Litva / Lietuva | Kardiologija | |
+  - 25. 12 | Írsko / Ireland | Cardiology | |
 
-  - 25. 13 | Lotyšsko / Latvija | Kardioloģija | |
+  - 25. 13 | Litva / Lietuva | Kardiologija | |
 
-  - 25. 14 | Luxembursko / Luxembourg | Cardiologie et angiologie | |
+  - 25. 14 | Lotyšsko / Latvija | Kardioloģija | |
 
-  - 25. 15 | Maďarsko / Magyarország | Kardiológia | |
+  - 25. 15 | Luxembursko / Luxembourg | Cardiologie et angiologie | |
 
-  - 25. 16 | Malta / Malta | Kardjoloġija | |
+  - 25. 16 | Maďarsko / Magyarország | Kardiológia | |
 
-  - 25. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Kardiologie | |
+  - 25. 17 | Malta / Malta | Kardjoloġija | |
 
-  - 25. 18 | Poľsko / Polska | Kardiologia | |
+  - 25. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Kardiologie | |
 
-  - 25. 19 | Portugalsko / Portugal | Cardiologia | |
+  - 25. 19 | Poľsko / Polska | Kardiologia | |
 
-  - 25. 20 | Rakúsko / Österreich | - | |
+  - 25. 20 | Portugalsko / Portugal | Cardiologia | |
 
-  - 25. 21 | Rumunsko / România | Cardiologie | |
+  - 25. 21 | Rakúsko / Österreich | - | |
 
-  - 25. 22 | Slovinsko / Slovenija | - | |
+  - 25. 22 | Rumunsko / România | Cardiologie | |
 
-  - 25. 23 | Španielsko / España | Cardiología | |
+  - 25. 23 | Slovinsko / Slovenija | Kardiologija in vaskularna medicina | |
 
-  - 25. 24 | Švédsko / Sverige | Kardiologi | |
+  - 25. 24 | Španielsko / España | Cardiología | |
 
-  - 25. 25 | Taliansko / Italia | Cardiologia | |
+  - 25. 25 | Švédsko / Sverige | Kardiologi | |
 
-  - 25. 26 | Veľká Británia a Severné Írsko / United Kingdom | Cardiology | |
+  - 25. 26 | Taliansko / Italia | Cardiologia | |
 
-  - 25. 27 | Island / Ísland | Hjartalækningar | |
+  - 25. 27 | Veľká Británia a Severné Írsko / United Kingdom | Cardiology | |
 
-  - 25. 28 | Lichtenštajnsko / Liechtenstein | Kardiologie | |
+  - 25. 28 | Island / Ísland | Hjartalækningar | |
 
-  - 25. 29 | Nórsko / Norge | Hjertesykdommer | |
+  - 25. 29 | Lichtenštajnsko / Liechtenstein | Kardiologie | |
 
-  - 25. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kardiologie Cardiologie Cardiologia | |
+  - 25. 30 | Nórsko / Norge | Hjertesykdommer | |
+
+  - 25. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kardiologie Cardiologie Cardiologia
 
   - 26. 01 | Belgicko / Belgique / België / Belgien | Gastro-entérologie / Gastro-enterologie | 4 roky | gastroenterológia
 
@@ -1594,45 +1646,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 26. 10 | Holandsko / Nederland | Maag-darm-leverziekten | |
 
-  - 26. 11 | Írsko / Ireland | Gastro-enterology | |
+  - 26. 11 | Chorvátsko / Hrvatska | Gastroenterologija | |
 
-  - 26. 12 | Litva / Lietuva | Gastroenterologija | |
+  - 26. 12 | Írsko / Ireland | Gastro-enterology | |
 
-  - 26. 13 | Lotyšsko / Latvija | Gastroenteroloģija | |
+  - 26. 13 | Litva / Lietuva | Gastroenterologija | |
 
-  - 26. 14 | Luxembursko / Luxembourg | Gastro-enterologie | |
+  - 26. 14 | Lotyšsko / Latvija | Gastroenteroloģija | |
 
-  - 26. 15 | Maďarsko / Magyarország | Gasztroenterológia | |
+  - 26. 15 | Luxembursko / Luxembourg | Gastro-enterologie | |
 
-  - 26. 16 | Malta / Malta | Gastroenteroloġija | |
+  - 26. 16 | Maďarsko / Magyarország | Gasztroenterológia | |
 
-  - 26. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Gastroenterologie | |
+  - 26. 17 | Malta / Malta | Gastroenteroloġija | |
 
-  - 26. 18 | Poľsko / Polska | Gastroenterologia | |
+  - 26. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Gastroenterologie | |
 
-  - 26. 19 | Portugalsko / Portugal | Gastrenterologia | |
+  - 26. 19 | Poľsko / Polska | Gastroenterologia | |
 
-  - 26. 20 | Rakúsko / Österreich | - | |
+  - 26. 20 | Portugalsko / Portugal | Gastrenterologia | |
 
-  - 26. 21 | Rumunsko / România | Gastroenterologie | |
+  - 26. 21 | Rakúsko / Österreich | - | |
 
-  - 26. 22 | Slovinsko / Slovenija | Gastroenterologija | |
+  - 26. 22 | Rumunsko / România | Gastroenterologie | |
 
-  - 26. 23 | Španielsko / España | Aparato digestivo | |
+  - 26. 23 | Slovinsko / Slovenija | Gastroenterologija | |
 
-  - 26. 24 | Švédsko / Sverige | Medicinsk gastroenterologi och hepatologi | |
+  - 26. 24 | Španielsko / España | Aparato digestivo | |
 
-  - 26. 25 | Taliansko / Italia | Gastroenterologia | |
+  - 26. 25 | Švédsko / Sverige | Medicinsk gastroenterologi och hepatologi | |
 
-  - 26. 26 | Veľká Británia a Severné Írsko / United Kingdom | Gastro-enterology | |
+  - 26. 26 | Taliansko / Italia | Gastroenterologia | |
 
-  - 26. 27 | Island / Ísland | Meltingarlækningar | |
+  - 26. 27 | Veľká Británia a Severné Írsko / United Kingdom | Gastro-enterology | |
 
-  - 26. 28 | Lichtenštajnsko / Liechtenstein | Gastroenterologie | |
+  - 26. 28 | Island / Ísland | Meltingarlækningar | |
 
-  - 26. 29 | Nórsko / Norge | Fordøyelsessykdommer | |
+  - 26. 29 | Lichtenštajnsko / Liechtenstein | Gastroenterologie | |
 
-  - 26. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastroenterologie Gastroentérologie Gastroenterologia | |
+  - 26. 30 | Nórsko / Norge | Fordøyelsessykdommer | |
+
+  - 26. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Gastroenterologie Gastroentérologie Gastroenterologia
 
   - 27. 01 | Belgicko / Belgique / België / Belgien | Rhumathologie/reumatologie | 4 roky | reumatológia
 
@@ -1654,45 +1708,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 27. 10 | Holandsko / Nederland | Reumatologie | |
 
-  - 27. 11 | Írsko / Ireland | Rheumatology | |
+  - 27. 11 | Chorvátsko / Hrvatska | Reumatologija | |
 
-  - 27. 12 | Litva / Lietuva | Reumatologija | |
+  - 27. 12 | Írsko / Ireland | Rheumatology | |
 
-  - 27. 13 | Lotyšsko / Latvija | Reimatoloģija | |
+  - 27. 13 | Litva / Lietuva | Reumatologija | |
 
-  - 27. 14 | Luxembursko / Luxembourg | Rhumatologie | |
+  - 27. 14 | Lotyšsko / Latvija | Reimatoloģija | |
 
-  - 27. 15 | Maďarsko / Magyarország | Reumatológia | |
+  - 27. 15 | Luxembursko / Luxembourg | Rhumatologie | |
 
-  - 27. 16 | Malta / Malta | Rewmatoloġija | |
+  - 27. 16 | Maďarsko / Magyarország | Reumatológia | |
 
-  - 27. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Rheumatologie | |
+  - 27. 17 | Malta / Malta | Rewmatoloġija | |
 
-  - 27. 18 | Poľsko / Polska | Reumatologia | |
+  - 27. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Rheumatologie | |
 
-  - 27. 19 | Portugalsko / Portugal | Reumatologia | |
+  - 27. 19 | Poľsko / Polska | Reumatologia | |
 
-  - 27. 20 | Rakúsko / Österreich | - | |
+  - 27. 20 | Portugalsko / Portugal | Reumatologia | |
 
-  - 27. 21 | Rumunsko / România | Reumatologie | |
+  - 27. 21 | Rakúsko / Österreich | - | |
 
-  - 27. 22 | Slovinsko / Slovenija | - | |
+  - 27. 22 | Rumunsko / România | Reumatologie | |
 
-  - 27. 23 | Španielsko / España | Reumatología | |
+  - 27. 23 | Slovinsko / Slovenija | Revmatologija | |
 
-  - 27. 24 | Švédsko / Sverige | Reumatologi | |
+  - 27. 24 | Španielsko / España | Reumatología | |
 
-  - 27. 25 | Taliansko / Italia | Reumatologia | |
+  - 27. 25 | Švédsko / Sverige | Reumatologi | |
 
-  - 27. 26 | Veľká Británia a Severné Írsko / United Kingdom | Rheumatology | |
+  - 27. 26 | Taliansko / Italia | Reumatologia | |
 
-  - 27. 27 | Island / Ísland | Gigtarlækningar | |
+  - 27. 27 | Veľká Británia a Severné Írsko / United Kingdom | Rheumatology | |
 
-  - 27. 28 | Lichtenštajnsko / Liechtenstein | Rheumatologie | |
+  - 27. 28 | Island / Ísland | Gigtarlækningar | |
 
-  - 27. 29 | Nórsko / Norge | Revmatologi | |
+  - 27. 29 | Lichtenštajnsko / Liechtenstein | Rheumatologie | |
 
-  - 27. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rheumatologie Rhumatologie Reumatologia | |
+  - 27. 30 | Nórsko / Norge | Revmatologi | |
+
+  - 27. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Rheumatologie Rhumatologie Reumatologia
 
   - 28. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | hematológia a transfuziológia
 
@@ -1714,45 +1770,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 28. 10 | Holandsko / Nederland | - | |
 
-  - 28. 11 | Írsko / Ireland | Haematology (clinical and laboratory) | |
+  - 28. 11 | Chorvátsko / Hrvatska | Hematologija | |
 
-  - 28. 12 | Litva / Lietuva | Hematologija | |
+  - 28. 12 | Írsko / Ireland | Haematology (clinical and laboratory) | |
 
-  - 28. 13 | Lotyšsko / Latvija | Hematoloģija | |
+  - 28. 13 | Litva / Lietuva | Hematologija | |
 
-  - 28. 14 | Luxembursko / Luxembourg | Hématologie | |
+  - 28. 14 | Lotyšsko / Latvija | Hematoloģija | |
 
-  - 28. 15 | Maďarsko / Magyarország | Haematológia | |
+  - 28. 15 | Luxembursko / Luxembourg | Hématologie | |
 
-  - 28. 16 | Malta / Malta | Ematoloġija | |
+  - 28. 16 | Maďarsko / Magyarország | Haematológia | |
 
-  - 28. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Hämatologie und Onkologie | |
+  - 28. 17 | Malta / Malta | Ematoloġija | |
 
-  - 28. 18 | Poľsko / Polska | Hematologia | |
+  - 28. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Hämatologie und Onkologie | |
 
-  - 28. 19 | Portugalsko / Portugal | Imuno-hemoterapia | |
+  - 28. 19 | Poľsko / Polska | Hematologia | |
 
-  - 28. 20 | Rakúsko / Österreich | - | |
+  - 28. 20 | Portugalsko / Portugal | Imuno-hemoterapia | |
 
-  - 28. 21 | Rumunsko / România | Hematologie | |
+  - 28. 21 | Rakúsko / Österreich | - | |
 
-  - 28. 22 | Slovinsko / Slovenija | - | |
+  - 28. 22 | Rumunsko / România | Hematologie | |
 
-  - 28. 23 | Španielsko / España | Hematología y hemoterapia | |
+  - 28. 23 | Slovinsko / Slovenija | Hematologija | |
 
-  - 28. 24 | Švédsko / Sverige | Hematologi | |
+  - 28. 24 | Španielsko / España | Hematología y hemoterapia | |
 
-  - 28. 25 | Taliansko / Italia | Ematologia | |
+  - 28. 25 | Švédsko / Sverige | Hematologi | |
 
-  - 28. 26 | Veľká Británia a Severné Írsko / United Kingdom | Haematology | |
+  - 28. 26 | Taliansko / Italia | Ematologia | |
 
-  - 28. 27 | Island / Ísland | Blóðmeinafræði | |
+  - 28. 27 | Veľká Británia a Severné Írsko / United Kingdom | Haematology | |
 
-  - 28. 28 | Lichtenštajnsko / Liechtenstein | Hämatologie | |
+  - 28. 28 | Island / Ísland | Blóðmeinafræði | |
 
-  - 28. 29 | Nórsko / Norge | Blodsykdommer | |
+  - 28. 29 | Lichtenštajnsko / Liechtenstein | Hämatologie | |
 
-  - 28. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hämatologie Hématologie Ematologia | |
+  - 28. 30 | Nórsko / Norge | Blodsykdommer | |
+
+  - 28. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Hämatologie Hématologie Ematologia
 
   - 29. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | endokrinológia
 
@@ -1774,45 +1832,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 29. 10 | Holandsko / Nederland | - | |
 
-  - 29. 11 | Írsko / Ireland | Endocrinology and diabetes mellitus | |
+  - 29. 11 | Chorvátsko / Hrvatska | Endokrinologija i dijabetologija | |
 
-  - 29. 12 | Litva / Lietuva | Endokrinologija | |
+  - 29. 12 | Írsko / Ireland | Endocrinology and diabetes mellitus | |
 
-  - 29. 13 | Lotyšsko / Latvija | Endokrinoloģija | |
+  - 29. 13 | Litva / Lietuva | Endokrinologija | |
 
-  - 29. 14 | Luxembursko / Luxembourg | Endocrinologie, maladies du métabolisme et de la nutrition | |
+  - 29. 14 | Lotyšsko / Latvija | Endokrinoloģija | |
 
-  - 29. 15 | Maďarsko / Magyarország | Endokrinológia | |
+  - 29. 15 | Luxembursko / Luxembourg | Endocrinologie, maladies du métabolisme et de la nutrition | |
 
-  - 29. 16 | Malta / Malta | Endokrinoloġija u Dijabete | |
+  - 29. 16 | Maďarsko / Magyarország | Endokrinológia | |
 
-  - 29. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Endokrinologie und Diabetologie | |
+  - 29. 17 | Malta / Malta | Endokrinoloġija u Dijabete | |
 
-  - 29. 18 | Poľsko / Polska | Endokrynologia | |
+  - 29. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Endokrinologie und Diabetologie | |
 
-  - 29. 19 | Portugalsko / Portugal | Endocrinologia/Nutrição | |
+  - 29. 19 | Poľsko / Polska | Endokrynologia | |
 
-  - 29. 20 | Rakúsko / Österreich | - | |
+  - 29. 20 | Portugalsko / Portugal | Endocrinologia/Nutrição | |
 
-  - 29. 21 | Rumunsko / România | Endocrinologie | |
+  - 29. 21 | Rakúsko / Österreich | - | |
 
-  - 29. 22 | Slovinsko / Slovenija | - | |
+  - 29. 22 | Rumunsko / România | Endocrinologie | |
 
-  - 29. 23 | Španielsko / España | Endocrinología y nutrición | |
+  - 29. 23 | Slovinsko / Slovenija | - | |
 
-  - 29. 24 | Švédsko / Sverige | Endokrina sjukdomar | |
+  - 29. 24 | Španielsko / España | Endocrinología y nutrición | |
 
-  - 29. 25 | Taliansko / Italia | Endocrinologia e malattie del ricambio | |
+  - 29. 25 | Švédsko / Sverige | Endokrina sjukdomar | |
 
-  - 29. 26 | Veľká Británia a Severné Írsko / United Kingdom | Endocrinology and diabetes mellitus | |
+  - 29. 26 | Taliansko / Italia | Endocrinologia e malattie del ricambio | |
 
-  - 29. 27 | Island / Ísland | Efnaskipta – og innkirtlalækningar | |
+  - 29. 27 | Veľká Británia a Severné Írsko / United Kingdom | Endocrinology and diabetes mellitus | |
 
-  - 29. 28 | Lichtenštajnsko / Liechtenstein | Endokrinologie- Diabetologie | |
+  - 29. 28 | Island / Ísland | Efnaskipta – og innkirtlalækningar | |
 
-  - 29. 29 | Nórsko / Norge | Endokrinologi | |
+  - 29. 29 | Lichtenštajnsko / Liechtenstein | Endokrinologie- Diabetologie | |
 
-  - 29. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endokrinologie-Diabetologie Endocrinologie-diabétologie Endocrinologia-diabetologia | |
+  - 29. 30 | Nórsko / Norge | Endokrinologi | |
+
+  - 29. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Endokrinologie-Diabetologie Endocrinologie-diabétologie Endocrinologia-diabetologia
 
   - 30. 01 | Belgicko / Belgique / België / Belgien | Médecine physique et réadaptation/Fysische geneeskunde en revalidatie | 3 roky | fyziatria, balneológia a liečebná rehabilitácia
 
@@ -1834,45 +1894,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 30. 10 | Holandsko / Nederland | Revalidatiegeneeskunde | |
 
-  - 30. 11 | Írsko / Ireland | - | |
+  - 30. 11 | Chorvátsko / Hrvatska | Fizikalna medicina i rehabilitacija | |
 
-  - 30. 12 | Litva / Lietuva | Fizinė medicina ir reabilitacija | |
+  - 30. 12 | Írsko / Ireland | - | |
 
-  - 30. 13 | Lotyšsko / Latvija | Rehabilitoloģija Fiziskā rehabilitācija Fizikālā medicīna | |
+  - 30. 13 | Litva / Lietuva | Fizinė medicina ir reabilitacija | |
 
-  - 30. 14 | Luxembursko / Luxembourg | Rééducation et réadaptation fonctionnelles | |
+  - 30. 14 | Lotyšsko / Latvija | Rehabilitoloģija Fiziskā rehabilitācija Fizikālā medicīna | |
 
-  - 30. 15 | Maďarsko / Magyarország | Fizioterápia | |
+  - 30. 15 | Luxembursko / Luxembourg | Rééducation et réadaptation fonctionnelles | |
 
-  - 30. 16 | Malta / Malta | - | |
+  - 30. 16 | Maďarsko / Magyarország | Fizikális medicina és rehabilitációs orvoslás | |
 
-  - 30. 17 | Nemecko / Deutschland | Physikalische und Rehabilitative Medizin | |
+  - 30. 17 | Malta / Malta | - | |
 
-  - 30. 18 | Poľsko / Polska | Rehabilitacja medyczna | |
+  - 30. 18 | Nemecko / Deutschland | Physikalische und Rehabilitative Medizin | |
 
-  - 30. 19 | Portugalsko / Portugal | Medicina física e de reabilitação | |
+  - 30. 19 | Poľsko / Polska | Rehabilitacja medyczna | |
 
-  - 30. 20 | Rakúsko / Österreich | Physikalische Medizin und Allgemeine Rehabilitation | |
+  - 30. 20 | Portugalsko / Portugal | Medicina física e de reabilitação | |
 
-  - 30. 21 | Rumunsko / România | Recuperare, medicină fizică şi balneologie | |
+  - 30. 21 | Rakúsko / Österreich | Physikalische Medizin und Allgemeine Rehabilitation | |
 
-  - 30. 22 | Slovinsko / Slovenija | Fizikalna in rehabilitacijska medicina | |
+  - 30. 22 | Rumunsko / România | Recuperare, medicină fizică şi balneologie | |
 
-  - 30. 23 | Španielsko / España | Medicina física y rehabilitación | |
+  - 30. 23 | Slovinsko / Slovenija | Fizikalna in rehabilitacijska medicina | |
 
-  - 30. 24 | Švédsko / Sverige | Rehabiliteringsmedicin | |
+  - 30. 24 | Španielsko / España | Medicina física y rehabilitación | |
 
-  - 30. 25 | Taliansko / Italia | Medicina fisica e riabilitazione | |
+  - 30. 25 | Švédsko / Sverige | Rehabiliteringsmedicin | |
 
-  - 30. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 30. 26 | Taliansko / Italia | Medicina fisica e riabilitazione | |
 
-  - 30. 27 | Island / Ísland | Orku- og endurhæfingarlækningar | |
+  - 30. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 30. 28 | Lichtenštajnsko / Liechtenstein | Physikalische Medizin und Rehabilitation | |
+  - 30. 28 | Island / Ísland | Orku- og endurhæfingarlækningar | |
 
-  - 30. 29 | Nórsko / Norge | Fysikalsk medisin og rehabilitering | |
+  - 30. 29 | Lichtenštajnsko / Liechtenstein | Physikalische Medizin und Rehabilitation | |
 
-  - 30. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Physikalische Medizin und Rehabilitation Médecine physique et réadaptation Medicina fisica e riabilitazione | |
+  - 30. 30 | Nórsko / Norge | Fysikalsk medisin og rehabilitering | |
+
+  - 30. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Physikalische Medizin und Rehabilitation Médecine physique et réadaptation Medicina fisica e riabilitazione
 
   - 31. 01 | Belgicko / Belgique / België / Belgien | Neuropsychiatrie | 5 rokov | neuropsychiatria
 
@@ -1894,45 +1956,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 31. 10 | Holandsko / Nederland | Zenuw — en zielsziekten | |
 
-  - 31. 11 | Írsko / Ireland | - | |
+  - 31. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 31. 12 | Litva / Lietuva | - | |
+  - 31. 12 | Írsko / Ireland | - | |
 
-  - 31. 13 | Lotyšsko / Latvija | - | |
+  - 31. 13 | Litva / Lietuva | - | |
 
-  - 31. 14 | Luxembursko / Luxembourg | Neuropsychiatrie | |
+  - 31. 14 | Lotyšsko / Latvija | - | |
 
-  - 31. 15 | Maďarsko / Magyarország | - | |
+  - 31. 15 | Luxembursko / Luxembourg | Neuropsychiatrie | |
 
-  - 31. 16 | Malta / Malta | - | |
+  - 31. 16 | Maďarsko / Magyarország | - | |
 
-  - 31. 17 | Nemecko / Deutschland | Nervenheilkunde (Neurologie und Psychiatrie) | |
+  - 31. 17 | Malta / Malta | - | |
 
-  - 31. 18 | Poľsko / Polska | - | |
+  - 31. 18 | Nemecko / Deutschland | Nervenheilkunde (Neurologie und Psychiatrie) | |
 
-  - 31. 19 | Portugalsko / Portugal | - | |
+  - 31. 19 | Poľsko / Polska | - | |
 
-  - 31. 20 | Rakúsko / Österreich | Neurologie und Psychiatrie | |
+  - 31. 20 | Portugalsko / Portugal | - | |
 
-  - 31. 21 | Rumunsko / România | - | |
+  - 31. 21 | Rakúsko / Österreich | Neurologie und Psychiatrie | |
 
-  - 31. 22 | Slovinsko / Slovenija | - | |
+  - 31. 22 | Rumunsko / România | - | |
 
-  - 31. 23 | Španielsko / España | - | |
+  - 31. 23 | Slovinsko / Slovenija | - | |
 
-  - 31. 24 | Švédsko / Sverige | - | |
+  - 31. 24 | Španielsko / España | - | |
 
-  - 31. 25 | Taliansko / Italia | Neuropsichiatria | |
+  - 31. 25 | Švédsko / Sverige | - | |
 
-  - 31. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 31. 26 | Taliansko / Italia | Neuropsichiatria | |
 
-  - 31. 27 | Island / Ísland | - | |
+  - 31. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 31. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 31. 28 | Island / Ísland | - | |
 
-  - 31. 29 | Nórsko / Norge | - | |
+  - 31. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 31. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 31. 30 | Nórsko / Norge | - | |
+
+  - 31. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 32. 01 | Belgicko / Belgique / België / Belgien | Dermato-vénéréologie / Dermato-venereologie | 3 roky | dermatovenerológia
 
@@ -1954,45 +2018,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 32. 10 | Holandsko / Nederland | Dermatologie en venerologie | |
 
-  - 32. 11 | Írsko / Ireland | - | |
+  - 32. 11 | Chorvátsko / Hrvatska | Dermatologija i venerologija | |
 
-  - 32. 12 | Litva / Lietuva | Dermatovenerologija | |
+  - 32. 12 | Írsko / Ireland | - | |
 
-  - 32. 13 | Lotyšsko / Latvija | Dermatoloģija un veneroloģija | |
+  - 32. 13 | Litva / Lietuva | Dermatovenerologija | |
 
-  - 32. 14 | Luxembursko / Luxembourg | Dermato-vénéréologie | |
+  - 32. 14 | Lotyšsko / Latvija | Dermatoloģija un veneroloģija | |
 
-  - 32. 15 | Maďarsko / Magyarország | Bőrgyógyászat | |
+  - 32. 15 | Luxembursko / Luxembourg | Dermato-vénéréologie | |
 
-  - 32. 16 | Malta / Malta | Dermato-venerejoloġija | |
+  - 32. 16 | Maďarsko / Magyarország | Bőrgyógyászat | |
 
-  - 32. 17 | Nemecko / Deutschland | Haut — und Geschlechtskrankheiten | |
+  - 32. 17 | Malta / Malta | Dermato-venerejoloġija | |
 
-  - 32. 18 | Poľsko / Polska | Dermatologia i wenerologia | |
+  - 32. 18 | Nemecko / Deutschland | Haut — und Geschlechtskrankheiten | |
 
-  - 32. 19 | Portugalsko / Portugal | Dermatovenereologia | |
+  - 32. 19 | Poľsko / Polska | Dermatologia i wenerologia | |
 
-  - 32. 20 | Rakúsko / Österreich | Haut- und Geschlechtskrankheiten | |
+  - 32. 20 | Portugalsko / Portugal | Dermatovenereologia | |
 
-  - 32. 21 | Rumunsko / România | Dermatovenerologie | |
+  - 32. 21 | Rakúsko / Österreich | Haut- und Geschlechtskrankheiten | |
 
-  - 32. 22 | Slovinsko / Slovenija | Dermatovenerologija | |
+  - 32. 22 | Rumunsko / România | Dermatovenerologie | |
 
-  - 32. 23 | Španielsko / España | Dermatología médico-quirúrgica y venereología | |
+  - 32. 23 | Slovinsko / Slovenija | Dermatovenerologija | |
 
-  - 32. 24 | Švédsko / Sverige | Hud- och könssjukdomar | |
+  - 32. 24 | Španielsko / España | Dermatología médico-quirúrgica y venereología | |
 
-  - 32. 25 | Taliansko / Italia | Dermatologia e venerologia | |
+  - 32. 25 | Švédsko / Sverige | Hud- och könssjukdomar | |
 
-  - 32. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 32. 26 | Taliansko / Italia | Dermatologia e venerologia | |
 
-  - 32. 27 | Island / Ísland | Húð – og kynsjúkdómalækningar | |
+  - 32. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 32. 28 | Lichtenštajnsko / Liechtenstein | Dermatologie und Venereologie | |
+  - 32. 28 | Island / Ísland | Húð – og kynsjúkdómalækningar | |
 
-  - 32. 29 | Nórsko / Norge | Hudsykdommer og veneriske sykdommer | |
+  - 32. 29 | Lichtenštajnsko / Liechtenstein | Dermatologie und Venereologie | |
 
-  - 32. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie und Venerologie Dermatologie et vénéréologie Dermatologia e venereologia | |
+  - 32. 30 | Nórsko / Norge | Hudsykdommer og veneriske sykdommer | |
+
+  - 32. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Dermatologie und Venerologie Dermatologie et vénéréologie Dermatologia e venereologia
 
   - 33. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | tropická medicína
 
@@ -2014,45 +2080,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 33. 10 | Holandsko / Nederland | - | |
 
-  - 33. 11 | Írsko / Ireland | Tropical medicine | |
+  - 33. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 33. 12 | Litva / Lietuva | - | |
+  - 33. 12 | Írsko / Ireland | Tropical medicine | |
 
-  - 33. 13 | Lotyšsko / Latvija | - | |
+  - 33. 13 | Litva / Lietuva | - | |
 
-  - 33. 14 | Luxembursko / Luxembourg | - | |
+  - 33. 14 | Lotyšsko / Latvija | - | |
 
-  - 33. 15 | Maďarsko / Magyarország | Trópusi betegségek | |
+  - 33. 15 | Luxembursko / Luxembourg | - | |
 
-  - 33. 16 | Malta / Malta | - | |
+  - 33. 16 | Maďarsko / Magyarország | Trópusi betegségek | |
 
-  - 33. 17 | Nemecko / Deutschland | - | |
+  - 33. 17 | Malta / Malta | - | |
 
-  - 33. 18 | Poľsko / Polska | Medycyna transportu | |
+  - 33. 18 | Nemecko / Deutschland | - | |
 
-  - 33. 19 | Portugalsko / Portugal | Medicina tropical | |
+  - 33. 19 | Poľsko / Polska | Medycyna transportu | |
 
-  - 33. 20 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenhygiene | |
+  - 33. 20 | Portugalsko / Portugal | Medicina tropical | |
 
-  - 33. 21 | Rumunsko / România | - | |
+  - 33. 21 | Rakúsko / Österreich | Spezifische Prophylaxe und Tropenhygiene | |
 
-  - 33. 22 | Slovinsko / Slovenija | - | |
+  - 33. 22 | Rumunsko / România | - | |
 
-  - 33. 23 | Španielsko / España | - | |
+  - 33. 23 | Slovinsko / Slovenija | - | |
 
-  - 33. 24 | Švédsko / Sverige | - | |
+  - 33. 24 | Španielsko / España | - | |
 
-  - 33. 25 | Taliansko / Italia | Medicina tropicale | |
+  - 33. 25 | Švédsko / Sverige | - | |
 
-  - 33. 26 | Veľká Británia a Severné Írsko / United Kingdom | Tropical medicine | |
+  - 33. 26 | Taliansko / Italia | Medicina tropicale | |
 
-  - 33. 27 | Island / Ísland | - | |
+  - 33. 27 | Veľká Británia a Severné Írsko / United Kingdom | Tropical medicine | |
 
-  - 33. 28 | Lichtenštajnsko / Liechtenstein | Tropenmedizin | |
+  - 33. 28 | Island / Ísland | - | |
 
-  - 33. 29 | Nórsko / Norge | - | |
+  - 33. 29 | Lichtenštajnsko / Liechtenstein | Tropenmedizin | |
 
-  - 33. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Tropen- und Reisemedizin Médecine tropicale et médecine des voyages Medicina tropicale e medicina di viaggio | |
+  - 33. 30 | Nórsko / Norge | - | |
+
+  - 33. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Tropen- und Reisemedizin Médecine tropicale et médecine des voyages Medicina tropicale e medicina di viaggio
 
   - 34. 01 | Belgicko / Belgique / België / Belgien | Psychiatrie, particulièrement en psychiatrie infantojuvénile / Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie | 4 roky | detská psychiatria
 
@@ -2074,45 +2142,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 34. 10 | Holandsko / Nederland | - | |
 
-  - 34. 11 | Írsko / Ireland | Child and adolescent psychiatry | |
+  - 34. 11 | Chorvátsko / Hrvatska | Dječja i adolescentna psihijatrija | |
 
-  - 34. 12 | Litva / Lietuva | Vaikų ir paauglių psichiatrija | |
+  - 34. 12 | Írsko / Ireland | Child and adolescent psychiatry | |
 
-  - 34. 13 | Lotyšsko / Latvija | Bērnu psihiatrija | |
+  - 34. 13 | Litva / Lietuva | Vaikų ir paauglių psichiatrija | |
 
-  - 34. 14 | Luxembursko / Luxembourg | Psychiatrie infantile | |
+  - 34. 14 | Lotyšsko / Latvija | Bērnu psihiatrija | |
 
-  - 34. 15 | Maďarsko / Magyarország | Gyermek- és ifjúsági pszichiátria | |
+  - 34. 15 | Luxembursko / Luxembourg | Psychiatrie infantile | |
 
-  - 34. 16 | Malta / Malta | - | |
+  - 34. 16 | Maďarsko / Magyarország | Gyermek- és ifjúsági pszichiátria | |
 
-  - 34. 17 | Nemecko / Deutschland | Kinder- und Jugendpsychiatrie und -psychotherapie | |
+  - 34. 17 | Malta / Malta | - | |
 
-  - 34. 18 | Poľsko / Polska | Psychiatria dzieci i młodzieży | |
+  - 34. 18 | Nemecko / Deutschland | Kinder- und Jugendpsychiatrie und -psychotherapie | |
 
-  - 34. 19 | Portugalsko / Portugal | Psiquiatria da infância e da adolescência | |
+  - 34. 19 | Poľsko / Polska | Psychiatria dzieci i młodzieży | |
 
-  - 34. 20 | Rakúsko / Österreich | Kinder-und Jugendpsychiatrie | |
+  - 34. 20 | Portugalsko / Portugal | Psiquiatria da infância e da adolescência | |
 
-  - 34. 21 | Rumunsko / România | Psihiatrie pediatrică | |
+  - 34. 21 | Rakúsko / Österreich | Kinder-und Jugendpsychiatrie | |
 
-  - 34. 22 | Slovinsko / Slovenija | Otroška in mladostniška psihiatrija | |
+  - 34. 22 | Rumunsko / România | Psihiatrie pediatrică | |
 
-  - 34. 23 | Španielsko / España | - | |
+  - 34. 23 | Slovinsko / Slovenija | Otroška in mladostniška psihiatrija | |
 
-  - 34. 24 | Švédsko / Sverige | Barn- och ungdomspsykiatri | |
+  - 34. 24 | Španielsko / España | - | |
 
-  - 34. 25 | Taliansko / Italia | Neuropsichiatria infantile | |
+  - 34. 25 | Švédsko / Sverige | Barn- och ungdomspsykiatri | |
 
-  - 34. 26 | Veľká Británia a Severné Írsko / United Kingdom | Child and adolescent psychiatry | |
+  - 34. 26 | Taliansko / Italia | Neuropsichiatria infantile | |
 
-  - 34. 27 | Island / Ísland | Barna- og unglingageðlækningar | |
+  - 34. 27 | Veľká Británia a Severné Írsko / United Kingdom | Child and adolescent psychiatry | |
 
-  - 34. 28 | Lichtenštajnsko / Liechtenstein | Kinder – und Jugendpsychiatrie und –psychotherapie | |
+  - 34. 28 | Island / Ísland | Barna- og unglingageðlækningar | |
 
-  - 34. 29 | Nórsko / Norge | Barne – og ungdomspsykiatri | |
+  - 34. 29 | Lichtenštajnsko / Liechtenstein | Kinder – und Jugendpsychiatrie und –psychotherapie | |
 
-  - 34. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder – und Jugendpsychiatrie und –psychotherapie Psychiatrie et psychothérapie d’enfants et d’adolescents Psichiatria e psicoterapia infantile e dell’adolescenza | |
+  - 34. 30 | Nórsko / Norge | Barne – og ungdomspsykiatri | |
+
+  - 34. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Kinder – und Jugendpsychiatrie und –psychotherapie Psychiatrie et psychothérapie d’enfants et d’adolescents Psichiatria e psicoterapia infantile e dell’adolescenza
 
   - 35. 01 | Belgicko / Belgique / België / Belgien | Gériatrie / Geriatrie | 4 roky | geriatria
 
@@ -2134,45 +2204,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 35. 10 | Holandsko / Nederland | Klinische geriatrie | |
 
-  - 35. 11 | Írsko / Ireland | Geriatric medicine | |
+  - 35. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 35. 12 | Litva / Lietuva | Geriatrija | |
+  - 35. 12 | Írsko / Ireland | Geriatric medicine | |
 
-  - 35. 13 | Lotyšsko / Latvija | - | |
+  - 35. 13 | Litva / Lietuva | Geriatrija | |
 
-  - 35. 14 | Luxembursko / Luxembourg | Gériatrie | |
+  - 35. 14 | Lotyšsko / Latvija | - | |
 
-  - 35. 15 | Maďarsko / Magyarország | Geriátria | |
+  - 35. 15 | Luxembursko / Luxembourg | Gériatrie | |
 
-  - 35. 16 | Malta / Malta | Ġerjatrija | |
+  - 35. 16 | Maďarsko / Magyarország | Geriátria | |
 
-  - 35. 17 | Nemecko / Deutschland | - | |
+  - 35. 17 | Malta / Malta | Ġerjatrija | |
 
-  - 35. 18 | Poľsko / Polska | Geriatria | |
+  - 35. 18 | Nemecko / Deutschland | - | |
 
-  - 35. 19 | Portugalsko / Portugal | - | |
+  - 35. 19 | Poľsko / Polska | Geriatria | |
 
-  - 35. 20 | Rakúsko / Österreich | - | |
+  - 35. 20 | Portugalsko / Portugal | - | |
 
-  - 35. 21 | Rumunsko / România | Geriatrie şi gerontologie | |
+  - 35. 21 | Rakúsko / Österreich | - | |
 
-  - 35. 22 | Slovinsko / Slovenija | - | |
+  - 35. 22 | Rumunsko / România | Geriatrie şi gerontologie | |
 
-  - 35. 23 | Španielsko / España | Geriatría | |
+  - 35. 23 | Slovinsko / Slovenija | - | |
 
-  - 35. 24 | Švédsko / Sverige | Geriatrik | |
+  - 35. 24 | Španielsko / España | Geriatría | |
 
-  - 35. 25 | Taliansko / Italia | Geriatria | |
+  - 35. 25 | Švédsko / Sverige | Geriatrik | |
 
-  - 35. 26 | Veľká Británia a Severné Írsko / United Kingdom | Geriatric medicine | |
+  - 35. 26 | Taliansko / Italia | Geriatria | |
 
-  - 35. 27 | Island / Ísland | öldrunarlækningar | |
+  - 35. 27 | Veľká Británia a Severné Írsko / United Kingdom | Geriatric medicine | |
 
-  - 35. 28 | Lichtenštajnsko / Liechtenstein | Geriatrie | |
+  - 35. 28 | Island / Ísland | öldrunarlækningar | |
 
-  - 35. 29 | Nórsko / Norge | Geriatri | |
+  - 35. 29 | Lichtenštajnsko / Liechtenstein | Geriatrie | |
 
-  - 35. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 35. 30 | Nórsko / Norge | Geriatri | |
+
+  - 35. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 36. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | nefrológia
 
@@ -2194,45 +2266,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 36. 10 | Holandsko / Nederland | - | |
 
-  - 36. 11 | Írsko / Ireland | Nephrology | |
+  - 36. 11 | Chorvátsko / Hrvatska | Nefrologija | |
 
-  - 36. 12 | Litva / Lietuva | Nefrologija | |
+  - 36. 12 | Írsko / Ireland | Nephrology | |
 
-  - 36. 13 | Lotyšsko / Latvija | Nefroloģija | |
+  - 36. 13 | Litva / Lietuva | Nefrologija | |
 
-  - 36. 14 | Luxembursko / Luxembourg | Néphrologie | |
+  - 36. 14 | Lotyšsko / Latvija | Nefroloģija | |
 
-  - 36. 15 | Maďarsko / Magyarország | Nefrológia | |
+  - 36. 15 | Luxembursko / Luxembourg | Néphrologie | |
 
-  - 36. 16 | Malta / Malta | Nefroloġija | |
+  - 36. 16 | Maďarsko / Magyarország | Nefrológia | |
 
-  - 36. 17 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Nephrologie | |
+  - 36. 17 | Malta / Malta | Nefroloġija | |
 
-  - 36. 18 | Poľsko / Polska | Nefrologia | |
+  - 36. 18 | Nemecko / Deutschland | Innere Medizin und Schwerpunkt Nephrologie | |
 
-  - 36. 19 | Portugalsko / Portugal | Nefrologia | |
+  - 36. 19 | Poľsko / Polska | Nefrologia | |
 
-  - 36. 20 | Rakúsko / Österreich | - | |
+  - 36. 20 | Portugalsko / Portugal | Nefrologia | |
 
-  - 36. 21 | Rumunsko / România | Nefrologie | |
+  - 36. 21 | Rakúsko / Österreich | - | |
 
-  - 36. 22 | Slovinsko / Slovenija | Nefrologija | |
+  - 36. 22 | Rumunsko / România | Nefrologie | |
 
-  - 36. 23 | Španielsko / España | Nefrología | |
+  - 36. 23 | Slovinsko / Slovenija | Nefrologija | |
 
-  - 36. 24 | Švédsko / Sverige | Medicinska njursjukdomar (nefrologi) | |
+  - 36. 24 | Španielsko / España | Nefrología | |
 
-  - 36. 25 | Taliansko / Italia | Nefrologia | |
+  - 36. 25 | Švédsko / Sverige | Medicinska njursjukdomar (nefrologi) | |
 
-  - 36. 26 | Veľká Británia a Severné Írsko / United Kingdom | Renal medicine | |
+  - 36. 26 | Taliansko / Italia | Nefrologia | |
 
-  - 36. 27 | Island / Ísland | Nýrnalækningar | |
+  - 36. 27 | Veľká Británia a Severné Írsko / United Kingdom | Renal medicine | |
 
-  - 36. 28 | Lichtenštajnsko / Liechtenstein | Nephrologie | |
+  - 36. 28 | Island / Ísland | Nýrnalækningar | |
 
-  - 36. 29 | Nórsko / Norge | Nyresykdommer | |
+  - 36. 29 | Lichtenštajnsko / Liechtenstein | Nephrologie | |
 
-  - 36. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Néphrologie Nephrologie Nefralogia | |
+  - 36. 30 | Nórsko / Norge | Nyresykdommer | |
+
+  - 36. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Néphrologie Nephrologie Nefralogia
 
   - 37. 01 | Belgicko / Belgique/ België / Belgien | - | 4 roky | infektológia
 
@@ -2254,45 +2328,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 37. 10 | Holandsko / Nederland | - | |
 
-  - 37. 11 | Írsko / Ireland | Infectious diseases | |
+  - 37. 11 | Chorvátsko / Hrvatska | Infektologija | |
 
-  - 37. 12 | Litva / Lietuva | Infektologija | |
+  - 37. 12 | Írsko / Ireland | Infectious diseases | |
 
-  - 37. 13 | Lotyšsko / Latvija | Infektoloģija | |
+  - 37. 13 | Litva / Lietuva | Infektologija | |
 
-  - 37. 14 | Luxembursko / Luxembourg | Maladies contagieuses | |
+  - 37. 14 | Lotyšsko / Latvija | Infektoloģija | |
 
-  - 37. 15 | Maďarsko / Magyarország | Infektológia | |
+  - 37. 15 | Luxembursko / Luxembourg | Maladies contagieuses | |
 
-  - 37. 16 | Malta / Malta | Mard Infettiv | |
+  - 37. 16 | Maďarsko / Magyarország | Infektológia | |
 
-  - 37. 17 | Nemecko / Deutschland | - | |
+  - 37. 17 | Malta / Malta | Mard Infettiv | |
 
-  - 37. 18 | Poľsko / Polska | Choroby zakaźne | |
+  - 37. 18 | Nemecko / Deutschland | - | |
 
-  - 37. 19 | Portugalsko / Portugal | Doenças infecciosas | |
+  - 37. 19 | Poľsko / Polska | Choroby zakaźne | |
 
-  - 37. 20 | Rakúsko / Österreich | - | |
+  - 37. 20 | Portugalsko / Portugal | Doenças infecciosas | |
 
-  - 37. 21 | Rumunsko / România | Boli infecţioase | |
+  - 37. 21 | Rakúsko / Österreich | - | |
 
-  - 37. 22 | Slovinsko / Slovenija | Infektologija | |
+  - 37. 22 | Rumunsko / România | Boli infecţioase | |
 
-  - 37. 23 | Španielsko / España | - | |
+  - 37. 23 | Slovinsko / Slovenija | Infektologija | |
 
-  - 37. 24 | Švédsko / Sverige | Infektionssjukdomar | |
+  - 37. 24 | Španielsko / España | - | |
 
-  - 37. 25 | Taliansko / Italia | Malattie infettive | |
+  - 37. 25 | Švédsko / Sverige | Infektionssjukdomar | |
 
-  - 37. 26 | Veľká Británia a Severné Írsko / United Kingdom | Infectious diseases | |
+  - 37. 26 | Taliansko / Italia | Malattie infettive | |
 
-  - 37. 27 | Island / Ísland | Smitsjúkdómar | |
+  - 37. 27 | Veľká Británia a Severné Írsko / United Kingdom | Infectious diseases | |
 
-  - 37. 28 | Lichtenštajnsko / Liechtenstein | Infektiologie | |
+  - 37. 28 | Island / Ísland | Smitsjúkdómar | |
 
-  - 37. 29 | Nórsko / Norge | Infeksjonssykdommer | |
+  - 37. 29 | Lichtenštajnsko / Liechtenstein | Infektiologie | |
 
-  - 37. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Infektiologie Infectiologie Malattie infettive | |
+  - 37. 30 | Nórsko / Norge | Infeksjonssykdommer | |
+
+  - 37. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Infektiologie Infectiologie Malattie infettive
 
   - 38. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | verejné zdravotníctvo
 
@@ -2314,45 +2390,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 38. 10 | Holandsko / Nederland | Maatschappij en gezondheid | |
 
-  - 38. 11 | Írsko / Ireland | Public health medicine | |
+  - 38. 11 | Chorvátsko / Hrvatska | Javnozdravstvena medicina | |
 
-  - 38. 12 | Litva / Lietuva | - | |
+  - 38. 12 | Írsko / Ireland | Public health medicine | |
 
-  - 38. 13 | Lotyšsko / Latvija | - | |
+  - 38. 13 | Litva / Lietuva | - | |
 
-  - 38. 14 | Luxembursko / Luxembourg | Santé publique | |
+  - 38. 14 | Lotyšsko / Latvija | - | |
 
-  - 38. 15 | Maďarsko / Magyarország | Megelőző orvostan és népegészségtan | |
+  - 38. 15 | Luxembursko / Luxembourg | Santé publique | |
 
-  - 38. 16 | Malta / Malta | Saħħa Pubblika | |
+  - 38. 16 | Maďarsko / Magyarország | Megelőző orvostan és népegészségtan | |
 
-  - 38. 17 | Nemecko / Deutschland | Öffentliches Gesundheitswesen | |
+  - 38. 17 | Malta / Malta | Saħħa Pubblika | |
 
-  - 38. 18 | Poľsko / Polska | Zdrowie publiczne, epidemiologia | |
+  - 38. 18 | Nemecko / Deutschland | Öffentliches Gesundheitswesen | |
 
-  - 38. 19 | Portugalsko / Portugal | Saúde pública | |
+  - 38. 19 | Poľsko / Polska | Zdrowie publiczne, epidemiologia | |
 
-  - 38. 20 | Rakúsko / Österreich | Sozialmedizin | |
+  - 38. 20 | Portugalsko / Portugal | Saúde pública | |
 
-  - 38. 21 | Rumunsko / România | Sănătate publică şi management | |
+  - 38. 21 | Rakúsko / Österreich | Sozialmedizin | |
 
-  - 38. 22 | Slovinsko / Slovenija | Javno zdravje | |
+  - 38. 22 | Rumunsko / România | Sănătate publică şi management | |
 
-  - 38. 23 | Španielsko / España | Medicina preventiva y salud pública | |
+  - 38. 23 | Slovinsko / Slovenija | Javno zdravje | |
 
-  - 38. 24 | Švédsko / Sverige | Socialmedicin | |
+  - 38. 24 | Španielsko / España | Medicina preventiva y salud pública | |
 
-  - 38. 25 | Taliansko / Italia | Igiene e medicina preventiva | |
+  - 38. 25 | Švédsko / Sverige | Socialmedicin | |
 
-  - 38. 26 | Veľká Británia a Severné Írsko / United Kingdom | Public health medicine | |
+  - 38. 26 | Taliansko / Italia | Igiene e medicina preventiva | |
 
-  - 38. 27 | Island / Ísland | Félagslækningar | |
+  - 38. 27 | Veľká Británia a Severné Írsko / United Kingdom | Public health medicine | |
 
-  - 38. 28 | Lichtenštajnsko / Liechtenstein | Prävention und Gesundheitswesen | |
+  - 38. 28 | Island / Ísland | Félagslækningar | |
 
-  - 38. 29 | Nórsko / Norge | Samfunnsmedisin | |
+  - 38. 29 | Lichtenštajnsko / Liechtenstein | Prävention und Gesundheitswesen | |
 
-  - 38. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prävention und Gesundheitswesen Prévention et santé publique Prevenzione e salute pubblica | |
+  - 38. 30 | Nórsko / Norge | Samfunnsmedisin | |
+
+  - 38. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Prävention und Gesundheitswesen Prévention et santé publique Prevenzione e salute pubblica
 
   - 39. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | klinická farmakológia
 
@@ -2374,45 +2452,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 39. 10 | Holandsko / Nederland | - | |
 
-  - 39. 11 | Írsko / Ireland | Clinical pharmacology and therapeutics | |
+  - 39. 11 | Chorvátsko / Hrvatska | Klinička farmakologija s toksikologijom | |
 
-  - 39. 12 | Litva / Lietuva | - | |
+  - 39. 12 | Írsko / Ireland | Clinical pharmacology and therapeutics | |
 
-  - 39. 13 | Lotyšsko / Latvija | - | |
+  - 39. 13 | Litva / Lietuva | - | |
 
-  - 39. 14 | Luxembursko / Luxembourg | - | |
+  - 39. 14 | Lotyšsko / Latvija | - | |
 
-  - 39. 15 | Maďarsko / Magyarország | Klinikai farmakológia | |
+  - 39. 15 | Luxembursko / Luxembourg | - | |
 
-  - 39. 16 | Malta / Malta | Farmakoloġija Klinika u t-Terapewtika | |
+  - 39. 16 | Maďarsko / Magyarország | Klinikai farmakológia | |
 
-  - 39. 17 | Nemecko / Deutschland | Pharmakologie und Toxikologie | |
+  - 39. 17 | Malta / Malta | Farmakoloġija Klinika u t-Terapewtika | |
 
-  - 39. 18 | Poľsko / Polska | Farmakologia kliniczna | |
+  - 39. 18 | Nemecko / Deutschland | Pharmakologie und Toxikologie | |
 
-  - 39. 19 | Portugalsko / Portugal | - | |
+  - 39. 19 | Poľsko / Polska | Farmakologia kliniczna | |
 
-  - 39. 20 | Rakúsko / Österreich | Pharmakologie und Toxikologie | |
+  - 39. 20 | Portugalsko / Portugal | - | |
 
-  - 39. 21 | Rumunsko / România | Farmacologie clinică | |
+  - 39. 21 | Rakúsko / Österreich | Pharmakologie und Toxikologie | |
 
-  - 39. 22 | Slovinsko / Slovenija | - | |
+  - 39. 22 | Rumunsko / România | Farmacologie clinică | |
 
-  - 39. 23 | Španielsko / España | Farmacología clínica | |
+  - 39. 23 | Slovinsko / Slovenija | - | |
 
-  - 39. 24 | Švédsko / Sverige | Klinisk farmakologi | |
+  - 39. 24 | Španielsko / España | Farmacología clínica | |
 
-  - 39. 25 | Taliansko / Italia | Farmacologia | |
+  - 39. 25 | Švédsko / Sverige | Klinisk farmakologi | |
 
-  - 39. 26 | Veľká Británia a Severné Írsko / United Kingdom | Clinical pharmacology and therapeutics | |
+  - 39. 26 | Taliansko / Italia | Farmacologia | |
 
-  - 39. 27 | Island / Ísland | Lyfjafræði | |
+  - 39. 27 | Veľká Británia a Severné Írsko / United Kingdom | Clinical pharmacology and therapeutics | |
 
-  - 39. 28 | Lichtenštajnsko / Liechtenstein | Klinische Pharmakologie und Toxikologie | |
+  - 39. 28 | Island / Ísland | Lyfjafræði | |
 
-  - 39. 29 | Nórsko / Norge | Klinisk farmakologi | |
+  - 39. 29 | Lichtenštajnsko / Liechtenstein | Klinische Pharmakologie und Toxikologie | |
 
-  - 39. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Klinische Pharmakologie und Toxikologie Pharmacologie et toxicologie cliniques Farmacologia e tossicologia cliniche | |
+  - 39. 30 | Nórsko / Norge | Klinisk farmakologi | |
+
+  - 39. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Klinische Pharmakologie und Toxikologie Pharmacologie et toxicologie cliniques Farmacologia e tossicologia cliniche
 
   - 40. 01 | Belgicko / Belgique / België / Belgien | Médecine du travail/Arbeidsgeneeskunde | 4 roky | pracovné lekárstvo
 
@@ -2434,45 +2514,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 40. 10 | Holandsko / Nederland | Arbeid en gezondheid, bedrijfsgeneeskunde Arbeid en gezondheid, verzekeringsgeneeskunde | |
 
-  - 40. 11 | Írsko / Ireland | Occupational medicine | |
+  - 40. 11 | Chorvátsko / Hrvatska | Medicina rada i športa | |
 
-  - 40. 12 | Litva / Lietuva | Darbo medicina | |
+  - 40. 12 | Írsko / Ireland | Occupational medicine | |
 
-  - 40. 13 | Lotyšsko / Latvija | Arodslimības | |
+  - 40. 13 | Litva / Lietuva | Darbo medicina | |
 
-  - 40. 14 | Luxembursko / Luxembourg | Médecine du travail | |
+  - 40. 14 | Lotyšsko / Latvija | Arodslimības | |
 
-  - 40. 15 | Maďarsko / Magyarország | Foglalkozás-orvostan (üzemorvostan) | |
+  - 40. 15 | Luxembursko / Luxembourg | Médecine du travail | |
 
-  - 40. 16 | Malta / Malta | Mediċina Okkupazzjonali | |
+  - 40. 16 | Maďarsko / Magyarország | Foglalkozás-orvostan (üzemorvostan) | |
 
-  - 40. 17 | Nemecko / Deutschland | Arbeitsmedizin | |
+  - 40. 17 | Malta / Malta | Mediċina Okkupazzjonali | |
 
-  - 40. 18 | Poľsko / Polska | Medycyna pracy | |
+  - 40. 18 | Nemecko / Deutschland | Arbeitsmedizin | |
 
-  - 40. 19 | Portugalsko / Portugal | Medicina do trabalho | |
+  - 40. 19 | Poľsko / Polska | Medycyna pracy | |
 
-  - 40. 20 | Rakúsko / Österreich | Arbeitsmedizin | |
+  - 40. 20 | Portugalsko / Portugal | Medicina do trabalho | |
 
-  - 40. 21 | Rumunsko / România | Medicina muncii | |
+  - 40. 21 | Rakúsko / Österreich | Arbeitsmedizin | |
 
-  - 40. 22 | Slovinsko / Slovenija | Medicina dela, prometa in športa | |
+  - 40. 22 | Rumunsko / România | Medicina muncii | |
 
-  - 40. 23 | Španielsko / España | Medicina del trabajo | |
+  - 40. 23 | Slovinsko / Slovenija | Medicina dela, prometa in športa | |
 
-  - 40. 24 | Švédsko / Sverige | Yrkes- och miljömedicin | |
+  - 40. 24 | Španielsko / España | Medicina del trabajo | |
 
-  - 40. 25 | Taliansko / Italia | Medicina del lavoro | |
+  - 40. 25 | Švédsko / Sverige | Yrkes- och miljömedicin | |
 
-  - 40. 26 | Veľká Británia a Severné Írsko / United Kingdom | Occupational medicine | |
+  - 40. 26 | Taliansko / Italia | Medicina del lavoro | |
 
-  - 40. 27 | Island / Ísland | Atvinnulækningar | |
+  - 40. 27 | Veľká Británia a Severné Írsko / United Kingdom | Occupational medicine | |
 
-  - 40. 28 | Lichtenštajnsko / Liechtenstein | Arbeitsmedizin | |
+  - 40. 28 | Island / Ísland | Atvinnulækningar | |
 
-  - 40. 29 | Nórsko / Norge | Arbeidsmedisin | |
+  - 40. 29 | Lichtenštajnsko / Liechtenstein | Arbeitsmedizin | |
 
-  - 40. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Arbeitsmedizin Médecine du travail Medicina del lavoro | |
+  - 40. 30 | Nórsko / Norge | Arbeidsmedisin | |
+
+  - 40. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Arbeitsmedizin Médecine du travail Medicina del lavoro
 
   - 41. 01 | Belgicko / Belgique / België / Belgien | - | 3 roky | klinická imunológia a alergológia
 
@@ -2494,45 +2576,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 41. 10 | Holandsko / Nederland | Allergologie | |
 
-  - 41. 11 | Írsko / Ireland | - | |
+  - 41. 11 | Chorvátsko / Hrvatska | Alergologija i klinička imunologija | |
 
-  - 41. 12 | Litva / Lietuva | Alergologija ir klinikinė imunologija | |
+  - 41. 12 | Írsko / Ireland | - | |
 
-  - 41. 13 | Lotyšsko / Latvija | Alergoloģija | |
+  - 41. 13 | Litva / Lietuva | Alergologija ir klinikinė imunologija | |
 
-  - 41. 14 | Luxembursko / Luxembourg | - | |
+  - 41. 14 | Lotyšsko / Latvija | Alergoloģija | |
 
-  - 41. 15 | Maďarsko / Magyarország | Allergológia és klinikai immunológia | |
+  - 41. 15 | Luxembursko / Luxembourg | - | |
 
-  - 41. 16 | Malta / Malta | - | |
+  - 41. 16 | Maďarsko / Magyarország | Allergológia és klinikai immunológia | |
 
-  - 41. 17 | Nemecko / Deutschland | - | |
+  - 41. 17 | Malta / Malta | - | |
 
-  - 41. 18 | Poľsko / Polska | Alergologia | |
+  - 41. 18 | Nemecko / Deutschland | - | |
 
-  - 41. 19 | Portugalsko / Portugal | Imuno-alergologia | |
+  - 41. 19 | Poľsko / Polska | Alergologia | |
 
-  - 41. 20 | Rakúsko / Österreich | - | |
+  - 41. 20 | Portugalsko / Portugal | Imuno-alergologia | |
 
-  - 41. 21 | Rumunsko / România | Alergologie şi imunologie clinică | |
+  - 41. 21 | Rakúsko / Österreich | - | |
 
-  - 41. 22 | Slovinsko / Slovenija | - | |
+  - 41. 22 | Rumunsko / România | Alergologie şi imunologie clinică | |
 
-  - 41. 23 | Španielsko / España | Alergología | |
+  - 41. 23 | Slovinsko / Slovenija | - | |
 
-  - 41. 24 | Švédsko / Sverige | Allergisjukdomar | |
+  - 41. 24 | Španielsko / España | Alergología | |
 
-  - 41. 25 | Taliansko / Italia | Allergologia ed immunologia clinica | |
+  - 41. 25 | Švédsko / Sverige | Allergisjukdomar | |
 
-  - 41. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 41. 26 | Taliansko / Italia | Allergologia ed immunologia clinica | |
 
-  - 41. 27 | Island / Ísland | Ofnæmislækningar | |
+  - 41. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 41. 28 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
+  - 41. 28 | Island / Ísland | Ofnæmislækningar | |
 
-  - 41. 29 | Nórsko / Norge | - | |
+  - 41. 29 | Lichtenštajnsko / Liechtenstein | Allergologie und klinische Immunologie | |
 
-  - 41. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie und klinische Immunologie Allergologie et Immunologie clinique Allergologia e immunologia clinica | |
+  - 41. 30 | Nórsko / Norge | - | |
+
+  - 41. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Allergologie und klinische Immunologie Allergologie et Immunologie clinique Allergologia e immunologia clinica
 
   - 42. 01 | Belgicko / Belgique/ België / Belgien | Chirurgie abdominale/Heelkunde op het abdomen | 5 rokov | gastroenterologická chirurgia
 
@@ -2554,45 +2638,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 42. 10 | Holandsko / Nederland | - | |
 
-  - 42. 11 | Írsko / Ireland | - | |
+  - 42. 11 | Chorvátsko / Hrvatska | Abdominalna kirurgija | |
 
-  - 42. 12 | Litva / Lietuva | Abdominalinė chirurgija | |
+  - 42. 12 | Írsko / Ireland | - | |
 
-  - 42. 13 | Lotyšsko / Latvija | - | |
+  - 42. 13 | Litva / Lietuva | Abdominalinė chirurgija | |
 
-  - 42. 14 | Luxembursko / Luxembourg | Chirurgie gastro-entérologique | |
+  - 42. 14 | Lotyšsko / Latvija | - | |
 
-  - 42. 15 | Maďarsko / Magyarország | - | |
+  - 42. 15 | Luxembursko / Luxembourg | Chirurgie gastro-entérologique | |
 
-  - 42. 16 | Malta / Malta | - | |
+  - 42. 16 | Maďarsko / Magyarország | - | |
 
-  - 42. 17 | Nemecko / Deutschland | Visceralchirurgie | |
+  - 42. 17 | Malta / Malta | - | |
 
-  - 42. 18 | Poľsko / Polska | - | |
+  - 42. 18 | Nemecko / Deutschland | Visceralchirurgie | |
 
-  - 42. 19 | Portugalsko / Portugal | - | |
+  - 42. 19 | Poľsko / Polska | - | |
 
-  - 42. 20 | Rakúsko / Österreich | - | |
+  - 42. 20 | Portugalsko / Portugal | - | |
 
-  - 42. 21 | Rumunsko / România | - | |
+  - 42. 21 | Rakúsko / Österreich | - | |
 
-  - 42. 22 | Slovinsko / Slovenija | Abdominalna kirurgija | |
+  - 42. 22 | Rumunsko / România | - | |
 
-  - 42. 23 | Španielsko / España | Cirugía del aparato digestivo | |
+  - 42. 23 | Slovinsko / Slovenija | Abdominalna kirurgija | |
 
-  - 42. 24 | Švédsko / Sverige | - | |
+  - 42. 24 | Španielsko / España | Cirugía del aparato digestivo | |
 
-  - 42. 25 | Taliansko / Italia | Chirurgia dell'aparato digerente | |
+  - 42. 25 | Švédsko / Sverige | - | |
 
-  - 42. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 42. 26 | Taliansko / Italia | Chirurgia dell'aparato digerente | |
 
-  - 42. 27 | Island / Ísland | - | |
+  - 42. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 42. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 42. 28 | Island / Ísland | - | |
 
-  - 42. 29 | Nórsko / Norge | Gastroenterologisk kirurgi | |
+  - 42. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 42. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 42. 30 | Nórsko / Norge | Gastroenterologisk kirurgi | |
+
+  - 42. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 43. 01 | Belgicko / Belgique/ België / Belgien | Médecine nucléaire/Nucleaire geneeskunde | 4 roky | nukleárna medicína
 
@@ -2614,45 +2700,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 43. 10 | Holandsko / Nederland | Nucleaire geneeskunde | |
 
-  - 43. 11 | Írsko / Ireland | - | |
+  - 43. 11 | Chorvátsko / Hrvatska | Nuklearna medicina | |
 
-  - 43. 12 | Litva / Lietuva | - | |
+  - 43. 12 | Írsko / Ireland | - | |
 
-  - 43. 13 | Lotyšsko / Latvija | - | |
+  - 43. 13 | Litva / Lietuva | - | |
 
-  - 43. 14 | Luxembursko / Luxembourg | Médecine nucléaire | |
+  - 43. 14 | Lotyšsko / Latvija | - | |
 
-  - 43. 15 | Maďarsko / Magyarország | Nukleáris medicina (izotóp diagnosztika) | |
+  - 43. 15 | Luxembursko / Luxembourg | Médecine nucléaire | |
 
-  - 43. 16 | Malta / Malta | Mediċina Nukleari | |
+  - 43. 16 | Maďarsko / Magyarország | Nukleáris medicina | |
 
-  - 43. 17 | Nemecko / Deutschland | Nuklearmedizin | |
+  - 43. 17 | Malta / Malta | Mediċina Nukleari | |
 
-  - 43. 18 | Poľsko / Polska | Medycyna nuklearna | |
+  - 43. 18 | Nemecko / Deutschland | Nuklearmedizin | |
 
-  - 43. 19 | Portugalsko / Portugal | Medicina nuclear | |
+  - 43. 19 | Poľsko / Polska | Medycyna nuklearna | |
 
-  - 43. 20 | Rakúsko / Österreich | Nuklearmedizin | |
+  - 43. 20 | Portugalsko / Portugal | Medicina nuclear | |
 
-  - 43. 21 | Rumunsko / România | Medicină nucleară | |
+  - 43. 21 | Rakúsko / Österreich | Nuklearmedizin | |
 
-  - 43. 22 | Slovinsko / Slovenija | Nuklearna medicina | |
+  - 43. 22 | Rumunsko / România | Medicină nucleară | |
 
-  - 43. 23 | Španielsko / España | Medicina nuclear | |
+  - 43. 23 | Slovinsko / Slovenija | Nuklearna medicina | |
 
-  - 43. 24 | Švédsko / Sverige | Nukleärmedicin | |
+  - 43. 24 | Španielsko / España | Medicina nuclear | |
 
-  - 43. 25 | Taliansko / Italia | Medicina nucleare | |
+  - 43. 25 | Švédsko / Sverige | Nukleärmedicin | |
 
-  - 43. 26 | Veľká Británia a Severné Írsko / United Kingdom | Nuclear medicine | |
+  - 43. 26 | Taliansko / Italia | Medicina nucleare | |
 
-  - 43. 27 | Island / Ísland | Ísótópagreining | |
+  - 43. 27 | Veľká Británia a Severné Írsko / United Kingdom | Nuclear medicine | |
 
-  - 43. 28 | Lichtenštajnsko / Liechtenstein | Nuklearmedizin | |
+  - 43. 28 | Island / Ísland | Ísótópagreining | |
 
-  - 43. 29 | Nórsko / Norge | Nukleærmedisin | |
+  - 43. 29 | Lichtenštajnsko / Liechtenstein | Nuklearmedizin | |
 
-  - 43. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Nuklearmedizin Médecine nucléaire Medicina nucleare | |
+  - 43. 30 | Nórsko / Norge | Nukleærmedisin | |
+
+  - 43. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Nuklearmedizin Médecine nucléaire Medicina nucleare
 
   - 44. 01 | Belgicko / Belgique/ België / Belgien | - | 5 rokov | úrazová chirurgia urgentná medicína
 
@@ -2674,45 +2762,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 44. 10 | Holandsko / Nederland | - | |
 
-  - 44. 11 | Írsko / Ireland | Emergency medicine | |
+  - 44. 11 | Chorvátsko / Hrvatska | Hitna medicina | |
 
-  - 44. 12 | Litva / Lietuva | - | |
+  - 44. 12 | Írsko / Ireland | Emergency medicine | |
 
-  - 44. 13 | Lotyšsko / Latvija | - | |
+  - 44. 13 | Litva / Lietuva | - | |
 
-  - 44. 14 | Luxembursko / Luxembourg | - | |
+  - 44. 14 | Lotyšsko / Latvija | - | |
 
-  - 44. 15 | Maďarsko / Magyarország | Oxyológia és sürgősségi orvostan | |
+  - 44. 15 | Luxembursko / Luxembourg | - | |
 
-  - 44. 16 | Malta / Malta | Mediċina tal-Aċċidenti u l-Emerġenza | |
+  - 44. 16 | Maďarsko / Magyarország | Oxyológia és sürgősségi orvostan | |
 
-  - 44. 17 | Nemecko / Deutschland | - | |
+  - 44. 17 | Malta / Malta | Mediċina tal-Aċċidenti u l-Emerġenza | |
 
-  - 44. 18 | Poľsko / Polska | Medycyna ratunkowa | |
+  - 44. 18 | Nemecko / Deutschland | - | |
 
-  - 44. 19 | Portugalsko / Portugal | - | |
+  - 44. 19 | Poľsko / Polska | Medycyna ratunkowa | |
 
-  - 44. 20 | Rakúsko / Österreich | - | |
+  - 44. 20 | Portugalsko / Portugal | - | |
 
-  - 44. 21 | Rumunsko / România | Medicină de urgenţă | |
+  - 44. 21 | Rakúsko / Österreich | - | |
 
-  - 44. 22 | Slovinsko / Slovenija | - | |
+  - 44. 22 | Rumunsko / România | Medicină de urgenţă | |
 
-  - 44. 23 | Španielsko / España | - | |
+  - 44. 23 | Slovinsko / Slovenija | Urgentna medicina | |
 
-  - 44. 24 | Švédsko / Sverige | - | |
+  - 44. 24 | Španielsko / España | - | |
 
-  - 44. 25 | Taliansko / Italia | - | |
+  - 44. 25 | Švédsko / Sverige | - | |
 
-  - 44. 26 | Veľká Británia a Severné Írsko / United Kingdom | Emergency medicine | |
+  - 44. 26 | Taliansko / Italia | - | |
 
-  - 44. 27 | Island / Ísland | - | |
+  - 44. 27 | Veľká Británia a Severné Írsko / United Kingdom | Emergency medicine | |
 
-  - 44. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 44. 28 | Island / Ísland | - | |
 
-  - 44. 29 | Nórsko / Norge | - | |
+  - 44. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 44. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 44. 30 | Nórsko / Norge | - | |
+
+  - 44. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 45. 01 | Belgicko / Belgique / België / Belgien | - | 5 rokov | maxilofaciálna chirurgia
 
@@ -2734,45 +2824,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 45. 10 | Holandsko / Nederland | - | |
 
-  - 45. 11 | Írsko / Ireland | - | |
+  - 45. 11 | Chorvátsko / Hrvatska | Maksilofacijalna kirurgija | |
 
-  - 45. 12 | Litva / Lietuva | Veido ir žandikaulių chirurgija | |
+  - 45. 12 | Írsko / Ireland | - | |
 
-  - 45. 13 | Lotyšsko / Latvija | Mutes, sejas un žokļu ķirurģija | |
+  - 45. 13 | Litva / Lietuva | Veido ir žandikaulių chirurgija | |
 
-  - 45. 14 | Luxembursko / Luxembourg | Chirurgie maxillo-faciale | |
+  - 45. 14 | Lotyšsko / Latvija | Mutes, sejas un žokļu ķirurģija | |
 
-  - 45. 15 | Maďarsko / Magyarország | Szájsebészet | |
+  - 45. 15 | Luxembursko / Luxembourg | Chirurgie maxillo-faciale | |
 
-  - 45. 16 | Malta / Malta | - | |
+  - 45. 16 | Maďarsko / Magyarország | Szájsebészet | |
 
-  - 45. 17 | Nemecko / Deutschland | - | |
+  - 45. 17 | Malta / Malta | - | |
 
-  - 45. 18 | Poľsko / Polska | Chirurgia szczękowo-twarzowa | |
+  - 45. 18 | Nemecko / Deutschland | - | |
 
-  - 45. 19 | Portugalsko / Portugal | Cirurgia maxilo-facial | |
+  - 45. 19 | Poľsko / Polska | Chirurgia szczękowo-twarzowa | |
 
-  - 45. 20 | Rakúsko / Österreich | Mund- Kiefer- und Gesichtschirurgie | |
+  - 45. 20 | Portugalsko / Portugal | Cirurgia maxilo-facial | |
 
-  - 45. 21 | Rumunsko / România | - | |
+  - 45. 21 | Rakúsko / Österreich | Mund- Kiefer- und Gesichtschirurgie | |
 
-  - 45. 22 | Slovinsko / Slovenija | Maksilofacialna kirurgija | |
+  - 45. 22 | Rumunsko / România | - | |
 
-  - 45. 23 | Španielsko / España | Cirugía oral y maxilofacial | |
+  - 45. 23 | Slovinsko / Slovenija | Maksilofacialna kirurgija | |
 
-  - 45. 24 | Švédsko / Sverige | - | |
+  - 45. 24 | Španielsko / España | Cirugía oral y maxilofacial | |
 
-  - 45. 25 | Taliansko / Italia | Chirurgia maxillo-facciale | |
+  - 45. 25 | Švédsko / Sverige | - | |
 
-  - 45. 26 | Veľká Británia a Severné Írsko / United Kingdom | - | |
+  - 45. 26 | Taliansko / Italia | Chirurgia maxillo-facciale | |
 
-  - 45. 27 | Island / Ísland | - | |
+  - 45. 27 | Veľká Británia a Severné Írsko / United Kingdom | - | |
 
-  - 45. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 45. 28 | Island / Ísland | - | |
 
-  - 45. 29 | Nórsko / Norge | - | |
+  - 45. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 45. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale‘ | |
+  - 45. 30 | Nórsko / Norge | - | |
+
+  - 45. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale‘
 
   - 46. 01 | Belgicko / Belgique / België / Belgien | Oncologie médicale/ Medische oncologie | 5 rokov | klinická onkológia
 
@@ -2794,45 +2886,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 46. 10 | Holandsko / Nederland | - | |
 
-  - 46. 11 | Írsko / Ireland | Medical oncology | |
+  - 46. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 46. 12 | Litva / Lietuva | Chemoterapinė onkologija | |
+  - 46. 12 | Írsko / Ireland | Medical oncology | |
 
-  - 46. 13 | Lotyšsko / Latvija | Onkoloģija ķīmijterapija | |
+  - 46. 13 | Litva / Lietuva | Chemoterapinė onkologija | |
 
-  - 46. 14 | Luxembursko / Luxembourg | Oncologie médicale | |
+  - 46. 14 | Lotyšsko / Latvija | Onkoloģija ķīmijterapija | |
 
-  - 46. 15 | Maďarsko / Magyarország | Klinikai onkológia | |
+  - 46. 15 | Luxembursko / Luxembourg | Oncologie médicale | |
 
-  - 46. 16 | Malta / Malta | - | |
+  - 46. 16 | Maďarsko / Magyarország | Klinikai onkológia | |
 
-  - 46. 17 | Nemecko / Deutschland | - | |
+  - 46. 17 | Malta / Malta | - | |
 
-  - 46. 18 | Poľsko / Polska | Onkologia kliniczna | |
+  - 46. 18 | Nemecko / Deutschland | - | |
 
-  - 46. 19 | Portugalsko / Portugal | Oncologia médica | |
+  - 46. 19 | Poľsko / Polska | Onkologia kliniczna | |
 
-  - 46. 20 | Rakúsko / Österreich | - | |
+  - 46. 20 | Portugalsko / Portugal | Oncologia médica | |
 
-  - 46. 21 | Rumunsko / România | Oncologie medicala | |
+  - 46. 21 | Rakúsko / Österreich | - | |
 
-  - 46. 22 | Slovinsko / Slovenija | Internistična onkologija | |
+  - 46. 22 | Rumunsko / România | Oncologie medicala | |
 
-  - 46. 23 | Španielsko / España | - | |
+  - 46. 23 | Slovinsko / Slovenija | Internistična onkologija | |
 
-  - 46. 24 | Švédsko / Sverige | - | |
+  - 46. 24 | Španielsko / España | - | |
 
-  - 46. 25 | Taliansko / Italia | Oncologia medica | |
+  - 46. 25 | Švédsko / Sverige | - | |
 
-  - 46. 26 | Veľká Británia a Severné Írsko / United Kingdom | Medical oncology | |
+  - 46. 26 | Taliansko / Italia | Oncologia medica | |
 
-  - 46. 27 | Island / Ísland | - | |
+  - 46. 27 | Veľká Británia a Severné Írsko / United Kingdom | Medical oncology | |
 
-  - 46. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 46. 28 | Island / Ísland | - | |
 
-  - 46. 29 | Nórsko / Norge | - | |
+  - 46. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 46. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 46. 30 | Nórsko / Norge | - | |
+
+  - 46. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
   - 47. 01 | Belgicko / Belgique / België / Belgien | - | 4 roky | lekárska genetika
 
@@ -2854,45 +2948,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 47. 10 | Holandsko / Nederland | Klinische genetica | |
 
-  - 47. 11 | Írsko / Ireland | Clinical genetics | |
+  - 47. 11 | Chorvátsko / Hrvatska | - | |
 
-  - 47. 12 | Litva / Lietuva | Genetika | |
+  - 47. 12 | Írsko / Ireland | Clinical genetics | |
 
-  - 47. 13 | Lotyšsko / Latvija | Mutes, sejas un žokļu ķirurģija | |
+  - 47. 13 | Litva / Lietuva | Genetika | |
 
-  - 47. 14 | Luxembursko / Luxembourg | Médecine génétique | |
+  - 47. 14 | Lotyšsko / Latvija | Mutes, sejas un žokļu ķirurģija | |
 
-  - 47. 15 | Maďarsko / Magyarország | Klinikai genetika | |
+  - 47. 15 | Luxembursko / Luxembourg | Médecine génétique | |
 
-  - 47. 16 | Malta / Malta | - | |
+  - 47. 16 | Maďarsko / Magyarország | Klinikai genetika | |
 
-  - 47. 17 | Nemecko / Deutschland | Humangenetik | |
+  - 47. 17 | Malta / Malta | - | |
 
-  - 47. 18 | Poľsko / Polska | Genetyka kliniczna | |
+  - 47. 18 | Nemecko / Deutschland | Humangenetik | |
 
-  - 47. 19 | Portugalsko / Portugal | Genética médica | |
+  - 47. 19 | Poľsko / Polska | Genetyka kliniczna | |
 
-  - 47. 20 | Rakúsko / Österreich | Medizinische Genetik | |
+  - 47. 20 | Portugalsko / Portugal | Genética médica | |
 
-  - 47. 21 | Rumunsko / România | Genetica medicala | |
+  - 47. 21 | Rakúsko / Österreich | Medizinische Genetik | |
 
-  - 47. 22 | Slovinsko / Slovenija | Klinična genetika | |
+  - 47. 22 | Rumunsko / România | Genetica medicala | |
 
-  - 47. 23 | Španielsko / España | - | |
+  - 47. 23 | Slovinsko / Slovenija | Klinična genetika | |
 
-  - 47. 24 | Švédsko / Sverige | - | |
+  - 47. 24 | Španielsko / España | - | |
 
-  - 47. 25 | Taliansko / Italia | Genetica medica | |
+  - 47. 25 | Švédsko / Sverige | - | |
 
-  - 47. 26 | Veľká Británia a Severné Írsko / United Kingdom | Clinical genetics | |
+  - 47. 26 | Taliansko / Italia | Genetica medica | |
 
-  - 47. 27 | Island / Ísland | - | |
+  - 47. 27 | Veľká Británia a Severné Írsko / United Kingdom | Clinical genetics | |
 
-  - 47. 28 | Lichtenštajnsko / Liechtenstein | - | |
+  - 47. 28 | Island / Ísland | - | |
 
-  - 47. 29 | Nórsko / Norge | - | |
+  - 47. 29 | Lichtenštajnsko / Liechtenstein | - | |
 
-  - 47. 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | - | |
+  - 47. 30 | Nórsko / Norge | - | |
+
+  - 47. 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | -
 
     - b) Ako diplom o špecializácii v príslušnom špecializačnom odbore v povolaní lekár sa uzná aj
 
@@ -2912,7 +3008,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 1.7. 1. májom 2004 v Česku, Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte a Cypre,
 
-        - 1.8. 1. januárom 2007 v Bulharsku a Rumunsku;
+        - 1.8. 1. januárom 2007 v Bulharsku a Rumunsku,
+
+        - 1.9. 1. júlom 2013 v Chorvátsku.
 
         - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
@@ -2930,21 +3028,23 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
       - 8. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 25. júnom 1991, ak príslušný orgán Slovinska potvrdil, že táto odborná spôsobilosť má na území Slovinska rovnakú platnosť ako odborná spôsobilosť získaná v Slovinsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Slovinska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Slovinska vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Slovinska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-      - 9. taký doklad udelený príslušnými orgánmi členských štátov, v ktorom príslušný členský štát už zastavil realizáciu špecializačnej prípravy, ale spĺňa podmienky uvedené v tabuľke, a to takto:
+      - 9. doklad, z ktorého vyplýva, že získavanie tohto dokladu sa začalo na území bývalej Juhoslávie pred 8. októbrom 1991, ak príslušný orgán Chorvátska potvrdil, že táto odborná spôsobilosť má na území Chorvátska rovnakú platnosť ako odborná spôsobilosť získaná v Chorvátsku, uvedená v tabuľke. K takému potvrdeniu musí byť priložené osvedčenie vydané príslušným orgánom Chorvátska, ktoré osvedčuje, že táto osoba v súlade s právnymi predpismi Chorvátska vykonávala príslušnú špecializovanú činnosť v povolaní lekár na území Chorvátska najmenej počas troch po sebe nasledujúcich rokov v priebehu piatich rokov predchádzajúcich dňu vydania tohto osvedčenia,
 
-        - 9.1. doklad vydaný v Belgicku v odbore hrudná chirurgia pred 1. januárom 1983, v odbore cievna chirurgia pred 1. januárom 1983, v odbore neuropsychiatria pred 1. augustom 1987 okrem osôb, ktoré začali výcvik pred 1. augustom 1987, a v odbore gastroenterologická chirurgia vydaný pred 1. januárom 1983,
+      - 10. taký doklad udelený príslušnými orgánmi členských štátov, v ktorom príslušný členský štát už zastavil realizáciu špecializačnej prípravy, ale spĺňa podmienky uvedené v tabuľke, a to takto:
 
-        - 9. 2. doklad vydaný vo Francúzsku v odbore neuropsychiatria pred 31. decembrom 1971,
+        - 10.1. doklad vydaný v Belgicku v odbore hrudná chirurgia pred 1. januárom 1983, v odbore cievna chirurgia pred 1. januárom 1983, v odbore neuropsychiatria pred 1. augustom 1987 okrem osôb, ktoré začali výcvik pred 1. augustom 1987, a v odbore gastroenterologická chirurgia vydaný pred 1. januárom 1983,
 
-        - 9. 3. doklad vydaný v Luxembursku v odbore neuropsychiatria pred 5. marcom 1982,
+        - 10. 2. doklad vydaný vo Francúzsku v odbore neuropsychiatria pred 31. decembrom 1971,
 
-        - 9. 4. doklad vydaný v Holandsku v odbore neuropsychiatria pred 9. júlom 1984,
+        - 10. 3. doklad vydaný v Luxembursku v odbore neuropsychiatria pred 5. marcom 1982,
 
-        - 9. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999,
+        - 10. 4. doklad vydaný v Holandsku v odbore neuropsychiatria pred 9. júlom 1984,
 
-        - 9.6. doklad vydaný v Rakúsku v odbore neuropsychiatria pred 31. marcom 2004,
+        - 10. 5. doklad vydaný v Taliansku v odbore neuropsychiatria pred 31. októbrom 1999,
 
-        - 9.7. doklad vydaný v Rakúsku v odbore maxilofaciálna chirurgia pred 31. marcom 2004.
+        - 10.6. doklad vydaný v Rakúsku v odbore neuropsychiatria pred 31. marcom 2004,
+
+        - 10.7. doklad vydaný v Rakúsku v odbore maxilofaciálna chirurgia pred 31. marcom 2004.
 
     - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
@@ -2972,45 +3072,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10 | Holandsko / Nederland | Certificaat van inschrijving in een specialistenregister van huisartsen | Huisarts
 
-  - 11 | Írsko / Ireland | Certificate of specific qualifications in general medical Praktice | General medical practitioner
+  - 11 | Chorvátsko / Hrvatska | Diploma o specijalističkom usavršavanju | specijalist obiteljske medicine
 
-  - 12 | Litva / Lietuva | Šeimos gydytojo rezidentūros pažymėjimas | Šeimos medicinos gydytojas
+  - 12 | Írsko / Ireland | Certificate of specific qualifications in general medical Praktice | General medical practitioner
 
-  - 13 | Lotyšsko / Latvija | Ăimenes ārsta sertifikāts | Ăimenes (vispārējās prakses) ārsts
+  - 13 | Litva / Lietuva | Šeimos gydytojo rezidentūros pažymėjimas | Šeimos medicinos gydytojas
 
-  - 14 | Luxembursko / Luxembourg | Diplôme de formation spécifique en medicine générale | Médecin généraliste
+  - 14 | Lotyšsko / Latvija | Ăimenes ārsta sertifikāts | Ăimenes (vispārējās prakses) ārsts
 
-  - 15 | Maďarsko / Magyarország | Háziorvostan szakorvosa bizonyítvány | Háziorvostan szakorvosa
+  - 15 | Luxembursko / Luxembourg | Diplôme de formation spécifique en medicine générale | Médecin généraliste
 
-  - 16 | Malta / Malta | Tabib tal-familja | Mediëina tal-familja
+  - 16 | Maďarsko / Magyarország | Háziorvostan szakorvosa bizonyítvány | Háziorvostan szakorvosa
 
-  - 17 | Nemecko / Deutschland | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin | Facharzt/Fachärztin für Allgemeinmedizin
+  - 17 | Malta / Malta | Tabib tal-familja | Mediëina tal-familja
 
-  - 18 | Poľsko / Polska | Diplôme: Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej | Specjalista w dziedzinie medycyny rodzinnej
+  - 18 | Nemecko / Deutschland | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin | Facharzt/Fachärztin für Allgemeinmedizin
 
-  - 19 | Portugalsko / Portugal | Título de especialista em medicina geral e familiar | Especialista em medicina geral e familiar
+  - 19 | Poľsko / Polska | Diplôme: Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej | Specjalista w dziedzinie medycyny rodzinnej
 
-  - 20 | Rakúsko / Österreich | Arzt für Allgemeinmedizin | Arzt für Allgemeinmedizin
+  - 20 | Portugalsko / Portugal | Título de especialista em medicina geral e familiar | Especialista em medicina geral e familiar
 
-  - 21 | Rumunsko / România | Certificat de medic specialist medicină de familie | Medic specialist medicină de familie
+  - 21 | Rakúsko / Österreich | Arzt für Allgemeinmedizin | Arzt für Allgemeinmedizin
 
-  - 22 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicíně | Specialist družinske medicine/ Specialistka družinske medicine
+  - 22 | Rumunsko / România | Certificat de medic specialist medicină de familie | Medic specialist medicină de familie
 
-  - 23 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Médico de familia
+  - 23 | Slovinsko / Slovenija | Potrdilo o opravljeni specializaciji iz družinske medicíně | Specialist družinske medicine/ Specialistka družinske medicine
 
-  - 24 | Švédsko / Sverige | Bevis om kompetens som allmänpraktiserande läkare (Europaläkare) utfärdat av Socialstyrelsen | Allmänpraktiserande läkare (Europaläkare)
+  - 24 | Španielsko / España | Título de especialista en medicina familiar y comunitaria | Médico de familia
 
-  - 25 | Taliansko / Italia | Attestato di formazione specifica in medicina generale | Medico di medicina generale
+  - 25 | Švédsko / Sverige | Bevis om kompetens som allmänpraktiserande läkare (Europaläkare) utfärdat av Socialstyrelsen | Allmänpraktiserande läkare (Europaläkare)
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training in general practice | General medical practitioner
+  - 26 | Taliansko / Italia | Attestato di formazione specifica in medicina generale | Medico di medicina generale
 
-  - 27 | Island / Ísland | Almennt heimilislækningaleyfi (Evrópulækningaleyfi) | Almennur heimilislæknir (Evrópulæknir)
+  - 27 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of training in general practice | General medical practitioner
 
-  - 28 | Lichtenštajnsko / Liechtenstein | - | -
+  - 28 | Island / Ísland | Almennt heimilislækningaleyfi (Evrópulækningaleyfi) | Almennur heimilislæknir (Evrópulæknir)
 
-  - 29 | Nórsko / Norge | Bevis for kompetanse som allmenpraktiserende lege | Allmennpraktiserende lege
+  - 29 | Lichtenštajnsko / Liechtenstein | - | -
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom als praktischer Arzt/praktische Ärztin Diplôme de médecin praticien Diploma di medico generico | Médecin praticien Praktischer Arzt Medico generico“.
+  - 30 | Nórsko / Norge | Bevis for kompetanse som allmenpraktiserende lege | Allmennpraktiserende lege
+
+  - 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom als praktischer Arzt/praktische Ärztin Diplôme de médecin praticien Diploma di medico generico | Médecin praticien Praktischer Arzt Medico generico“.
 
     - d) Ako doklad o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár sa uzná aj doklad, z ktorého vyplýva, že osoba nie je držiteľom dokladu uvedeného v tabuľke č. 3, ale je držiteľom dokladu vydaného príslušným orgánom členského štátu potvrdzujúcim držiteľovo právo na výkon špecializovaných pracovných činností v špecializačnom odbore všeobecné lekárstvo a že má právo vykonávať tieto činnosti v rámci vnútroštátneho systému sociálneho zabezpečenia tohto štátu pred
 
@@ -3020,7 +3122,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
       - 3. 1. májom 2004 v Česku, Maďarsku, Poľsku, Slovinsku, Litve, Lotyšsku, Estónsku, na Malte, Cypre a
 
-      - 4. 1. januárom 2007 v Bulharsku, Rumunsku.
+      - 4. 1. januárom 2007 v Bulharsku, Rumunsku,
+
+      - 5. 1. júlom 2013 v Chorvátsku.
 
   - B. Uznávanie diplomov o špecializácii v povolaní zubný lekár
 
@@ -3036,7 +3140,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδον- τιάτρου στην Ορθοδοντική | Οδοντιατρικό Συµβούλιο
 
-  - 4 | Česko / Česká republika | - | -
+  - 4 | Česko / Česká republika | Diplom o specializaci (v oboru ortodoncie) | 1. Institut postgraduálního vzdělávání ve zdravotnictví 2. Ministerstvo zdravotnictví
 
   - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som specialtandlæge i ortodonti | Sundhedsstyrelsen
 
@@ -3050,45 +3154,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10 | Holandsko / Nederland | Bewijs van inschrijving als orthodontist in het Specialistenregister | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde
 
-  - 11 | Írsko / Ireland | Certificate of specialist dentist in orthodontics | Competent authority recognised for this purpose by the competent minister
+  - 11 | Chorvátsko / Hrvatska | - | -
 
-  - 12 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo ortodonto profesinę kvalifikaciją | Universitetas
+  - 12 | Írsko / Ireland | Certificate of specialist dentist in orthodontics | Competent authority recognised for this purpose by the competent minister
 
-  - 13 | Lotyšsko / Latvija | ‘Sertifikāts’— kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu ortodontijā | Latvijas Ārstu biedrība
+  - 13 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo ortodonto profesinę kvalifikaciją | Universitetas
 
-  - 14 | Luxembursko / Luxembourg | - | -
+  - 14 | Lotyšsko / Latvija | ‘Sertifikāts’— kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu ortodontijā | Latvijas Ārstu biedrība
 
-  - 15 | Maďarsko / Magyarország | Fogszabályozás szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
+  - 15 | Luxembursko / Luxembourg | - | -
 
-  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fl-Ortodonzja | Kumitat ta' Approvazzjoni dwar Speċjalisti
+  - 16 | Maďarsko / Magyarország | Fogszabályozás szakorvosa bizonyítvány | Nemzeti Vizsgabizottság
 
-  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Kieferorthopädie; | Landeszahnärztekammer
+  - 17 | Malta / Malta | Ċertifikat ta' speċjalista dentali fl-Ortodonzja | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie ortodoncji | Centrum Egzaminów Medycznych
+  - 18 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Kieferorthopädie; | Landeszahnärztekammer
 
-  - 19 | Portugalsko / Portugal | Título de Especialista em Ortodontia | Ordem dos Médicos Dentistas (OMD)
+  - 19 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie ortodoncji | Centrum Egzaminów Medycznych
 
-  - 20 | Rakúsko / Österreich | - | -
+  - 20 | Portugalsko / Portugal | Título de Especialista em Ortodontia | Ordem dos Médicos Dentistas (OMD)
 
-  - 21 | Rumunsko / România | Certificatul de specialist în Ortodonţie şi Ortopedie dento-facială | Ministerul Sănătăţii Publice
+  - 21 | Rakúsko / Österreich | - | -
 
-  - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz čeljustne in zobne ortopedije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
+  - 22 | Rumunsko / România | Certificatul de specialist în Ortodonţie şi Ortopedie dento-facială | Ministerul Sănătăţii Publice
 
-  - 23 | Španielsko / España | - | -
+  - 23 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz čeljustne in zobne ortopedije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
-  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i ortodonti | Socialstyrelsen
+  - 24 | Španielsko / España | - | -
 
-  - 25 | Taliansko / Italia | Diploma di specialista in Ortognatodonzia | Università
+  - 25 | Švédsko / Sverige | Bevis om specialistkompetens i ortodonti | Socialstyrelsen
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training in orthodontics | Competent authority recognised for this purpose
+  - 26 | Taliansko / Italia | Diploma di specialista in Ortognatodonzia | Università
 
-  - 27 | Island / Ísland | - | -
+  - 27 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of Completion of specialist training in orthodontics | Competent authority recognised for this purpose
 
-  - 28 | Lichtenštajnsko / Liechtenstein | - | -
+  - 28 | Island / Ísland | - | -
 
-  - 29 | Nórsko / Norge | Bevis for gjennomgått spesialistutdanning i kjeveortopedi | Odontologisk universitetsfakultet
+  - 29 | Lichtenštajnsko / Liechtenstein | - | -
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Kieferorthopädie Diplôme fédéral d’orthodontiste Diploma di ortodontista | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
+  - 30 | Nórsko / Norge | Bevis for gjennomgått spesialistutdanning i kjeveortopedi | Odontologisk universitetsfakultet
+
+  - 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Kieferorthopädie Diplôme fédéral d’orthodontiste Diploma di ortodontista | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
 
     - aa) ako diplom o špecializácii v špecializačnom odbore čeľustná ortopédia v povolaní zubný lekár sa uzná aj
 
@@ -3110,7 +3216,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 1.8 4. júnom 2008 v Portugalsku,
 
-        - 1.9 17. decembrom 2008 v Rumunsku;
+        - 1.9 17. decembrom 2008 v Rumunsku,
+
+        - 1.10. 19. júlom 2007 v Českej republike
 
       - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
@@ -3136,7 +3244,7 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 3 | Cyprus / Κύπρος | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Στοµατική Χειρουργική | Οδοντιατρικό Συµβούλιο
 
-  - 4 | Česko / Česká republika | - | -
+  - 4 | Česko / Česká republika | Diplom o specializaci (v oboru orální a maxilofaciální chirurgie) | 1. Institut postgraduálního vzdělávání ve zdravotnictví 2. Ministerstvo zdravotnictví
 
   - 5 | Dánsko / Danmark | Bevis for tilladelse til at betegne sig som specialtandlæge i hospitalsodontologi | Sundhedsstyrelsen
 
@@ -3150,45 +3258,47 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
   - 10 | Holandsko / Nederland | Bewijs van inschrijving als kaakchirurg in het Specialistenregister | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde
 
-  - 11 | Írsko / Ireland | Certificate of specialist dentist in oral surgery | Competent authority recognised for this purpose by the competent minister
+  - 11 | Chorvátsko / Hrvatska | - | -
 
-  - 12 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą burnos chirurgo profesinę kvalifikaciją | Universitetas
+  - 12 | Írsko / Ireland | Certificate of specialist dentist in oral surgery | Competent authority recognised for this purpose by the competent minister
 
-  - 13 | Lotyšsko / Latvija | - | -
+  - 13 | Litva / Lietuva | Rezidentūros pažymėjimas, nurodantis suteiktą burnos chirurgo profesinę kvalifikaciją | Universitetas
 
-  - 14 | Luxembursko / Luxembourg | - | -
+  - 14 | Lotyšsko / Latvija | - | -
 
-  - 15 | Maďarsko / Magyarország | Dento-alveoláris sebészet szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
+  - 15 | Luxembursko / Luxembourg | - | -
 
-  - 16 | Malta / Malta | Ċertifikat ta' speċjalista dentali fil- Kirurġija tal-ħalq | Kumitat ta' Approvazzjoni dwar Speċjalisti
+  - 16 | Maďarsko / Magyarország | Dento-alveoláris sebészet szakorvosa bizonyítvány | Nemzeti Vizsgabizottság
 
-  - 17 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Oralchirurgie/Mundchirurgie | Landeszahnärztekammer
+  - 17 | Malta / Malta | Ċertifikat ta' speċjalista dentali fil- Kirurġija tal-ħalq | Kumitat ta' Approvazzjoni dwar Speċjalisti
 
-  - 18 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie chirurgii stomatologicznej | Centrum Egzaminów Medycznych
+  - 18 | Nemecko / Deutschland | Fachzahnärztliche Anerkennung für Oralchirurgie/Mundchirurgie | Landeszahnärztekammer
 
-  - 19 | Portugalsko / Portugal | Título de Especialista em Cirurgia Oral | Ordem dos Médicos Dentistas (OMD)
+  - 19 | Poľsko / Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie chirurgii stomatologicznej | Centrum Egzaminów Medycznych
 
-  - 20 | Rakúsko / Österreich | - | -
+  - 20 | Portugalsko / Portugal | Título de Especialista em Cirurgia Oral | Ordem dos Médicos Dentistas (OMD)
 
-  - 21 | Rumunsko / România | Título de Especialista em Cirurgia Oral | Ministerul Sănătăţii Publice
+  - 21 | Rakúsko / Österreich | - | -
 
-  - 22 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
+  - 22 | Rumunsko / România | Título de Especialista em Cirurgia Oral | Ministerul Sănătăţii Publice
 
-  - 23 | Španielsko / España | - | -
+  - 23 | Slovinsko / Slovenija | Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 
-  - 24 | Švédsko / Sverige | Bevis om specialistkompetens i oral kirurgi | Socialstyrelsen
+  - 24 | Španielsko / España | - | -
 
-  - 25 | Taliansko / Italia | Diploma di specialista in Chirurgia Orale | Università
+  - 25 | Švédsko / Sverige | Bevis om specialistkompetens i oral kirurgi | Socialstyrelsen
 
-  - 26 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of specialist training in oral surgery | Competent authority recognised for this purpose
+  - 26 | Taliansko / Italia | Diploma di specialista in Chirurgia Orale | Università
 
-  - 27 | Island / Ísland | - | -
+  - 27 | Veľká Británia a Severné Írsko / United Kingdom | Certificate of completion of specialist training in oral surgery | Competent authority recognised for this purpose
 
-  - 28 | Lichtenštajnsko / Liechtenstein | - | -
+  - 28 | Island / Ísland | - | -
 
-  - 29 | Nórsko / Norge | - | -
+  - 29 | Lichtenštajnsko / Liechtenstein | - | -
 
-  - 30 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Oralchirurgie Diplôme fédéral de chirurgie orale Diploma di chirurgia orale | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
+  - 30 | Nórsko / Norge | - | -
+
+  - 31 | Švajčiarsko / Die Schweiz / La Suisse / La Svizzera / La Svizra | Diplom für Oralchirurgie Diplôme fédéral de chirurgie orale Diploma di chirurgia orale | Eidgenössisches Departement des Innern und Schweizerische Zahnärzte- Gesellschaft Département fédéral de l’intérieur et Société suisse d’odonto-stomatologie Dipartimento federale dell’interno e Società Svizzera di Odontologia e Stomatologia“.
 
     - ba) ako diplom o špecializácii v špecializačnom odbore maxilofaciálna chirurgia v povolaní zubný lekár sa uzná aj
 
@@ -3208,7 +3318,9 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 1.7 4. júnom 2008 v Portugalsku,
 
-        - 1.8 17. decembrom 2008 v Rumunsku;
+        - 1.8 17. decembrom 2008 v Rumunsku,
+
+        - 1.9. 19. júlom 2007 v Českej republike
 
       - Ministerstvo zdravotníctva môže požadovať, aby taký doklad bol doplnený osvedčením vydaným oprávneným orgánom príslušného členského štátu, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov príslušného členského štátu najmenej tri po sebe nasledujúce roky počas piatich rokov pred vydaním tohto osvedčenia,
 
