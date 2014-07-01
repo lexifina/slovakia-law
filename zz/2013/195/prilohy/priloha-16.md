@@ -1,3 +1,3 @@
 Príloha č. 16 k vyhláške č. 195/2013 Z. z.
 
-- VECNÝ A FINANČNÝ PREHĽAD OPRÁV A ÚDRŽBY V EURÁCH [Vzor 16](../assets/0e764064f3986478958df8ff3ecf1c625b0184291e34172b7412be9a4ec4f7a9.pdf)
+- VECNÝ A FINANČNÝ PREHĽAD OPRÁV A ÚDRŽBY V EURÁCH [Vzor 16](../assets/1ee77be50a297a1f0a5962bb34e9ec356d282c51e18830d0fc0e0968c6ff8153.pdf)
