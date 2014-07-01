@@ -4,7 +4,7 @@
 
 # § 241a
 
-(1) Ak Sociálna poisťovňa nepostúpi príspevky na bežný účet dôchodkového fondu príslušnej dôchodkovej správcovskej spoločnosti v lehote podľa § 226 ods. 1 písm. f), je povinná bez zbytočného odkladu od zistenia ich výšky vypočítať a zaplatiť penále. Penále podľa prvej vety je vo výške jednej tristošesťdesiatpätiny základnej úrokovej sadzby Národnej banky Slovenska z dlžnej sumy príspevkov za každý deň omeškania. Základná úroková sadzba je určená na kalendárny rok ako základná úroková sadzba Národnej banky Slovenska platná k 1. januáru tohto kalendárneho roka.
+(1) Ak Sociálna poisťovňa nepostúpi príspevky na bežný účet nepriradených platieb príslušnej dôchodkovej správcovskej spoločnosti v lehote podľa § 226 ods. 1 písm. f), je povinná bez zbytočného odkladu od zistenia ich výšky vypočítať a zaplatiť penále. Penále podľa prvej vety je vo výške jednej tristošesťdesiatpätiny základnej úrokovej sadzby Národnej banky Slovenska z dlžnej sumy príspevkov za každý deň omeškania. Základná úroková sadzba je určená na kalendárny rok ako základná úroková sadzba Národnej banky Slovenska platná k 1. januáru tohto kalendárneho roka.
 
 (2) Sociálna poisťovňa neplatí penále
 
