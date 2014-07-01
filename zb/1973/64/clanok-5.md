@@ -1,3 +1,0 @@
-# Článok 5
-
-Táto vyhláška nadobúda účinnosť 1. júlom 1973.
