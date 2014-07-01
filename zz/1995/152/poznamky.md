@@ -20,6 +20,8 @@
 
 - 1e) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 852/2004 v platnom znení, nariadenie (ES) č. 882/2004 v platnom znení, nariadenie (ES) č. 1234/2007 v platnom znení.
 
+- 1f) Napríklad nariadenie Komisie (ES) č. 2073/2005 z 15. novembra 2005 o mikrobiologických kritériách pre potraviny (Ú. v. EÚ L 338, 22. 12. 2005) v platnom znení.
+
 - 2) § 2 ods. 2 Obchodného zákonníka.
 
 - 2a) Nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34) v platnom znení.
@@ -159,6 +161,8 @@
 - 17e) Čl. 4 ods. 6 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
 - 17f) Napríklad rozhodnutie Komisie 2002/75/ES z 1. februára 2002, ktoré ustanovuje podmienky dovozu anízu z tretích krajín (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 40), kapitola V nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
+
+- 17fa) § 7 ods. 1 zákona č. 178/1998 Z. z. v znení zákona č. 101/2014 Z. z.
 
 - 17g) Čl. 6 a príloha II k nariadeniu Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
