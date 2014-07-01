@@ -82,7 +82,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 35. | Geodetické a kartografické činnosti | – úplné vysokoškolské vzdelanie v odbore geodézie a kartografie a 3 roky praxe v odbore alebo – úplné stredné geodetické a kartografické vzdelanie a 3 roky praxe v odbore | § 5 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov |
 
-- 36. | Vyhotovovanie programov starostlivosti o lesy | osvedčenie o odbornej spôsobilosti a osvedčenie o technickej spôsobilosti | § 42 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov |
+- 36. | Vyhotovovanie programov starostlivosti o lesy | osvedčenie o odbornej spôsobilosti | § 42 zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov |
 
 - 37. | Činnosť odborného lesného hospodára | osvedčenie o odbornej spôsobilosti | § 47 ods. 4 zákona č. 326/2005 Z. z. |
 
