@@ -1,0 +1,7 @@
+Príloha č. 2 k zákonu č. 180/2014 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Rady 93/109/ES zo 6. decembra 1993, ktorou sa stanovujú podrobnosti uplatňovania volebného práva a práva byť volený do Európskeho parlamentu pre občanov únie s bydliskom v členskom štáte, ktorého nie sú štátnymi príslušníkmi (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 329, 30. 12. 1993) v znení smernice Rady 2013/1/EÚ z 20. decembra 2012 (Ú. v. EÚ L 26, 26. 1. 2013).
+
+  - 2. Smernica Rady 94/80/ES z 19. decembra 1994, ktorou sa ustanovujú podrobnosti uplatňovania volebného práva občanov únie v komunálnych voľbách v členskom štáte, ktorého nie sú štátnymi príslušníkmi (Mimoriadne vydanie Ú. v. EÚ, kap. 20/zv. 1; Ú. v. ES L 368, 31. 12. 1994) v znení smernice Rady 96/30/ES z 13. mája 1996 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 1; Ú. v. ES L122, 27. 5. 1996 ), v znení Aktu o podmienkach pristúpenia Českej republiky, Estónskej republiky, Cyperskej republiky, Lotyšskej republiky, Litovskej republiky, Maďarskej republiky, Maltskej republiky, Poľskej republiky, Slovinskej republiky a Slovenskej republiky a o úpravách zmlúv, na ktorých je založená Európska únia (Ú. v. EÚ L 236, 23. 9. 2003), v znení smernice Rady 2006/106/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20. 12. 2006), v znení vykonávacieho rozhodnutia Komisie 2012/412/EÚ z 19. júla 2012 (Ú. v. EÚ L 192, 20. 7. 2012), v znení smernice Rady 2013/19/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013).
