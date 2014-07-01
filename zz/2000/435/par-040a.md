@@ -1,6 +1,8 @@
 # § 40a Poistenie zodpovednosti vlastníka námornej lode
 
-(1) Vlastník námornej lode preukazuje uzavretie zmluvy o poistení podľa § 40 písm. s) jedným alebo viacerými osvedčeniami o poistení zodpovednosti vlastníka námornej lode.
+(1) Vlastník námornej lode preukazuje uzavretie zmluvy o poistení podľa § 40 ods. 1 písm. s)
+
+jedným alebo viacerými osvedčeniami o poistení zodpovednosti vlastníka námornej lode.
 
 (2) Osvedčenie o poistení zodpovednosti vlastníka námornej lode obsahuje
 

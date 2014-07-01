@@ -1,6 +1,6 @@
-Príloha k zákonu č. 435/2000 Z. z.
+Príloha č. 1 k zákonu č. 435/2000 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Európskeho parlamentu a Rady 2009/15/ES z 23. apríla 2009 o spoločných pravidlách a normách pre organizácie vykonávajúce inšpekcie a prehliadky lodí a pre príslušné činnosti námorných úradov (prepracované znenie) (Ú. v. EÚ L 131, 28. 5. 2009).
 
@@ -31,3 +31,9 @@ Príloha k zákonu č. 435/2000 Z. z.
   - 14. Smernica Európskeho parlamentu a Rady 2009/20/ES z 23. apríla 2009 o poistení vlastníkov lodí, ktoré sa vzťahuje na námorné pohľadávky (Ú. v. EÚ L 131, 28. 5. 2009).
 
   - 15. Smernica Európskeho parlamentu a Rady 2009/21/ES z 23. apríla 2009 o plnení povinností vlajkového štátu (Ú. v. EÚ L 131, 28. 5. 2009).
+
+  - 16. Smernica Európskeho parlamentu a Rady 2012/35/EÚ z 21. novembra 2012, ktorou sa mení a dopĺňa smernica 2008/106/ES o minimálnej úrovni prípravy námorníkov (Ú. v. EÚ L 343, 14. 12. 2012).
+
+  - 17. Smernica Európskeho parlamentu a Rady 2013/38/EÚ z 12. augusta 2013 , ktorou sa mení smernica 2009/16/ES o štátnej prístavnej kontrole (Ú. v. EÚ L 218, 14. 8. 2013).
+
+  - 18. Smernica Európskeho parlamentu a Rady 2013/54/EÚ z 20. novembra 2013 o určitých zodpovednostiach vlajkového štátu za plnenie Dohovoru o pracovných normách v námornej doprave z roku 2006 a jeho presadzovanie (Ú. v. EÚ L 329, 10. 12. 2013).

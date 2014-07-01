@@ -20,6 +20,6 @@
 
 (8) Náklady súvisiace s inšpekciami hradia vlastník námornej lode, prevádzkovateľ námornej lode alebo zástupca vlastníka alebo prevádzkovateľa námornej lode.
 
-(9) Fyzická osoba alebo právnická osoba s oprávneným záujmom o bezpečnosť námornej lode, bezpečnosť alebo zdravie posádky, životné alebo pracovné podmienky na námornej lodi a prevenciu znečisťovania životného prostredia môže predložiť prístavnému orgánu sťažnosť.
+(9) Fyzická osoba alebo právnická osoba s oprávneným záujmom o bezpečnosť námornej lode, bezpečnosť alebo zdravie posádky, životné alebo pracovné podmienky na námornej lodi a prevenciu znečisťovania životného prostredia môže predložiť prístavnému orgánu sťažnosť; ak ide o sťažnosť na bezpečnosť alebo zdravie posádky alebo životné alebo pracovné podmienky na námornej lodi, môže predložiť sťažnosť aj na Národný inšpektorát práce.<sup>6e</sup>)
 
 (10) Ustanovenia odsekov 1 až 9 a § 26a sa nevzťahujú na námorné jachty.

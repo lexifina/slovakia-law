@@ -12,7 +12,13 @@
 
 - 1bc) Príloha II dodatok B časť II nariadenia Európskeho parlamentu a Rady (ES) č. 392/2009.
 
+- 1bca) Kapitola V časť A-V/2 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
 - 1bd) Kapitola II až IV Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 v znení zmien a doplnkov z roku 1995 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+
+- 1bda) Kapitola I časť A-I/7 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
+- 1bdb) Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
 - 1be) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
@@ -20,23 +26,25 @@
 
 - 1bg) § 8a ods. 5 nariadenia vlády Slovenskej republiky č. 67/2007 Z. z. o monitorovacom a informačnom systéme pre námornú plavbu v znení nariadenia vlády Slovenskej republiky č. 441/2010 Z. z.
 
+- 1bh) Kapitola I časti A-I/6, A-I/8, A-I/12 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
+- 1bi) Kapitola I časť A-I/6 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 2a) Nariadenie vlády Slovenskej republiky č. 243/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na námorné vybavenie v znení nariadenia vlády Slovenskej republiky č. 307/2002 Z. z.
+
+- 2b) Zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 3) § 123 až 142 a § 151a až 151g Občianskeho zákonníka.
 
 - Obchodný zákonník.
 
-- 4) Zákon č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 308/2000 Z. z.
-
-- 4a) Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 v znení zmien a doplnkov z roku 1995 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
-
 - 4b) Nariadenie vlády Slovenskej republiky č. 581/2006 Z. z. o systéme povinných kontrol pre bezpečnú prevádzku prievozných lodí ro-ro a vysokorýchlostných osobných plavidiel v pravidelnej preprave.
 
 - 4c) Kapitola IX Medzinárodného dohovoru o bezpečnosti ľudského života na mori (SOLAS 1974) v znení neskorších predpisov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
 
-- 5) § 20 ods. 2 písm. s) zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti.
+- 5) § 13 ods. 3 písm. b) zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napríklad zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení zákona č. 95/2000 Z. z., § 132 až 138 Zákonníka práce v znení neskorších predpisov.
 
@@ -47,6 +55,8 @@
 - 6c) § 2 písm. b) nariadenia vlády Slovenskej republiky č. 67/2007 Z. z.
 
 - 6d) Nariadenie vlády Slovenskej republiky č. 67/2007 Z. z.
+
+- 6e) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 18 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -72,9 +82,19 @@
 
 - 13) § 151a až 151m Občianskeho zákonníka.
 
-- 13a) Napríklad Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 v znení zmien a doplnkov z roku 1995 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.).
+- 13a) Kapitola V pravidlo 14 ods. 3 a 4 Medzinárodného dohovoru o bezpečnosti ľudského života na mori (SOLAS 1974) (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
+- 13b) Kapitola I časť A-I/14 a kapitola I časť B-I/14 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
 - 14) Napríklad Dohovor o ochrane zdravia a lekárskej starostlivosti pre námorníkov (č. 164) (oznámenie č. 445/1991 Zb.), zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.
+
+- 14a) Kapitola V pravidlo V/1-1 a V/1-2 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
+- 14b) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 14c) Kapitola I časť A-I/9 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
+
+- 14d) Napríklad Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
 - 15) § 37 ods. 3 Zákonníka práce v znení neskorších predpisov.
 
@@ -99,3 +119,5 @@
 - 21) Obchodný zákonník v znení neskorších predpisov.
 
 - 22) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 23) Kapitola I časť A-I/2 ods. 9 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
