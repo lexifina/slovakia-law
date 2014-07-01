@@ -36,6 +36,10 @@
 
 - 11f) § 9d, 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 11g) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
+
+- 11h) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
+
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
 - 13) § 7 ods. 1 písm. a) a § 8 zákona č. 576/2004 Z. z.
