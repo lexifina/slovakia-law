@@ -1,3 +1,3 @@
 Príloha č. 7 k vyhláške č. 222/2013 Z. z.
 
-- Údaje o odberných miestach* [Vzor 07](../assets/937707ef06281eda35c934b10cd11476b86a862f7ec2245276f5aa4e7c622425.pdf)
+- Údaje o odberných miestach* [Vzor 07](../assets/0b25e6754bbb08ff970c62b6151e1c49e5ad261839d7af18912a788214c9414f.pdf)

@@ -1,3 +1,3 @@
 Príloha č. 11 k vyhláške č. 222/2013 Z. z.
 
-- Náklady na výrobu tepla zo zdrojov tepla bez kombinovanej výroby [Vzor 11](../assets/8a3d0a1a706ad1f60841e468da2aea1b9cc0a12cf22dce7189573ca996d48dc6.pdf)
+- Náklady na výrobu tepla zo zdrojov tepla bez kombinovanej výroby [Vzor 11](../assets/b195718057d382e6688a7abaa1166b08c20eaa12244f988b8a109dcf50e74ce5.pdf)

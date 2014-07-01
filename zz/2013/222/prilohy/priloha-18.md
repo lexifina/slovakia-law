@@ -1,3 +1,3 @@
 Príloha č. 18 k vyhláške č. 222/2013 Z. z.
 
-- Skutočné náklady na výrobu tepla zo zdrojov tepla bez kombinovanej výroby [Vzor 18](../assets/c4dd03e7b46a9f82c112cbc5539e6c43731daac871b781ef1e4e6f31ede4ed05.pdf)
+- Skutočné náklady na výrobu tepla zo zdrojov tepla bez kombinovanej výroby [Vzor 18](../assets/bc7d9c635af1abfcc363e92c0a89838716ad5d9784ba4820d159b3a53699c2f4.pdf)

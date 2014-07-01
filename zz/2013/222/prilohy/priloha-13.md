@@ -1,3 +1,3 @@
 Príloha č. 13 k vyhláške č. 222/2013 Z. z.
 
-- Skutočné náklady na výrobu a dodávku tepla [Vzor 13](../assets/10d5c429cd5dcea6213fc0fbaae38a5f010e2cf92214ec95df7eebf7195ec860.pdf)
+- Skutočné náklady na výrobu a dodávku tepla [Vzor 13](../assets/a8d2b70a9bb53c195168baf57f6b63e7e5a1ff4767c45ef69b80483431ecebc9.pdf)
