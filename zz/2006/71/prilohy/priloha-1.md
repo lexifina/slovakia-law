@@ -13,3 +13,7 @@ Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia B
 3.
 
 Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 158, 10. 6. 2013).
+
+4.
+
+Smernica Komisie 2013/60/EÚ z 27. novembra 2013, ktorou sa na účely prispôsobenia technickému pokroku mení smernica Európskeho parlamentu a Rady 97/24/ES o niektorých komponentoch a charakteristikách dvoj- alebo trojkolesových motorových vozidiel, smernica Európskeho parlamentu a Rady 2002/24/ES o typovom schválení dvoj- a trojkolesových motorových vozidiel a smernica Európskeho parlamentu a Rady 2009/67/ES o montáži zariadenia na osvetlenie a svetelnú signalizáciu na dvoj- a trojkolesových motorových vozidlách (Ú. v. EÚ L 329, 10. 12. 2013).
