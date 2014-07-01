@@ -10,6 +10,8 @@
 
 - 3a) § 4 a 5, § 6 ods. 1, § 8 ods. 1 a 2 zákona Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov.
 
+- 3aa) § 13 ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 180/2014 Z. z.
+
 - 3b) § 200f Občianskeho súdneho poriadku.
 
 - 3c) § 2 ods. 1 písm. a) a c) zákona č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
