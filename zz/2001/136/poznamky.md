@@ -1,26 +1,24 @@
-- 1) Napríklad § 7 zákona č. 507/2001 Z. z. o poštových službách, § 5 a 7 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
+- 1) Napríklad § 5 a 7 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov.
 
 - 1aa) Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy o založení Európskeho spoločenstva (Úradný vestník Európskych spoločenstiev L 001, 4/1/2003).
 
 - 2) § 2 Obchodného zákonníka.
 
-- 5) Napríklad zákon č. 55/1997 Z. z., zákon č. 383/1997 Z. z. v znení zákona č. 234/2000 Z. z.
+- 3) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
-- 5a) Napríklad nariadenie Komisie (ES) č. 1400/2002 z 31. júla 2002 o uplatňovaní článku 81 (3) Zmluvy o založení Európskeho spoločenstva na niektoré kategórie vertikálnych dohôd a zosúladených postupov v sektore motorových vozidiel (Úradný vestník Európskych spoločenstiev L 203, 01/08/2002), nariadenie Komisie (ES) č. 358/2003 z 27. februára 2003 o uplatňovaní článku 81 (3) Zmluvy o založení Európskeho spoločenstva na niektoré kategórie dohôd, rozhodnutí a zosúladených postupov v sektore poisťovníctva (Úradný vestník Európskej únie L 053, 28/02/2003), nariadenie Komisie (ES) č. 2659/2000 o použití článku 81 (3) Zmluvy o založení Európskeho spoločenstva na kategórie dohôd o výskume a vývoji (Úradný vestník Európskych spoločenstiev L 304, 05/12/2000), nariadenie Komisie (ES) č. 240/96 z 31. januára 1996 o uplatňovaní článku 85 (3) Zmluvy o založení Európskeho spoločenstva na určité druhy zmlúv o prevode technológií (Úradný vestník Európskych spoločenstiev L 031, 09/02/1996), nariadenie Komisie (ES) č. 2658/2000 z 29. novembra 2000 o uplatňovaní článku 81 (3) Zmluvy o založení Európskeho spoločenstva na niektoré kategórie dohôd o špecializácii (Úradný vestník Európskych spoločenstiev L 304, 05/12/2000), nariadenie Komisie (ES) č. 823/2000 z 19. apríla 2000 o uplatňovaní článku 81 (3) Zmluvy o založení Európskeho spoločenstva na niektoré kategórie dohôd, rozhodnutí a zosúladených postupov medzi spoločnosťami pravidelnej námornej prepravy (Úradný vestník Európskych spoločenstiev L 100, 20/04/2000), nariadenie Komisie (ES) č. 2790/1999 z 22. decembra 1999 o použití článku 81 (3) Zmluvy o založení Európskeho spoločenstva na kategórie vertikálnych dohôd a zosúladených praktík (Úradný vestník Európskych spoločenstiev L 336, 29/12/1999).
+- Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
 
-- 5b) Čl. 81 a 82 Zmluvy o založení Európskeho spoločenstva (úplné znenie Úradný vestník Európskeho spoločenstva C 325, 24/12/2002).
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o Európskej únii a k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
+
+- 4) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4a) Napríklad § 281 až 288 Obchodného zákonníka.
+
+- 5a) Napríklad nariadenie Komisie (ES) č. 772/2004 zo 7. apríla 2004 o uplatňovaní článku 81 ods. 3 zmluvy na kategórie dohôd o transfere technológií (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 3; Ú. v. EÚ L 123, 27. 04. 2004), nariadenie Komisie (ES) č. 906/2009 z 28. septembra 2009 o uplatňovaní článku 81 ods. 3 zmluvy na určité kategórie dohôd, rozhodnutí a zosúladených postupov medzi spoločnosťami linkovej námornej dopravy (Ú. v. EÚ L 256, 29. 9. 2009), nariadenie Komisie (EÚ) č. 267/2010 z 24. marca 2010 o uplatňovaní článku 101 ods. 3 Zmluvy o fungovaní Európskej únie na niektoré kategórie dohôd, rozhodnutí a zosúladených postupov v odvetví poisťovníctva (Ú. v. EÚ L 083, 30. 3. 2010), nariadenie Komisie (EÚ) č. 330/2010 z 20. apríla 2010 o uplatňovaní článku 101 ods. 3 Zmluvy o fungovaní Európskej únie na kategórie vertikálnych dohôd a zosúladených postupov (Ú. v. EÚ L 102, 23. 4. 2010), nariadenie Komisie (EÚ) č. 461/2010 z 27. mája 2010 o uplatňovaní článku 101 ods. 3 Zmluvy o fungovaní Európskej únie na kategórie vertikálnych dohôd a zosúladených postupov v sektore motorových vozidiel (Ú. v. EÚ L 129, 28. 5. 2010), nariadenie Komisie (EÚ) č. 1217/2010 zo 14. decembra 2010 o uplatňovaní článku 101 ods. 3 Zmluvy o fungovaní Európskej únie na niektoré kategórie dohôd o výskume a vývoji (Ú. v. EÚ L 335, 18. 12. 2010), nariadenie Komisie (EÚ) č. 1218/2010 zo 14. decembra 2010 o uplatňovaní článku 101 ods. 3 Zmluvy o fungovaní Európskej únie na niektoré kategórie dohôd o špecializácii (Ú. v. EÚ L 335, 18. 12. 2010).
 
 - 6) § 69 ods. 3 Obchodného zákonníka.
 
-- 7) § 7 Obchodného zákonníka.
-
-- 8) Napríklad § 70 až 75 Obchodného zákonníka, § 8 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
-- 9) Napríklad zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy, zákon Národnej rady Slovenskej republiky č. 254/1993 Z. z. o územných finančných orgánoch v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 11) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
-
-- 12) Napríklad zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon č. 69/1998 Z. z. o Štátnom fonde životného prostredia v znení zákona č. 237/2000 Z. z., zákon Národnej rady Slovenskej republiky č. 379/1996 Z. z. o Fonde na podporu zahraničného obchodu v znení neskorších predpisov.
+- 8) Napríklad § 70 až 75 Obchodného zákonníka, § 40 až 43 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 348/2011 Z. z.
 
 - 13) § 281 až 288 Obchodného zákonníka.
 
@@ -28,15 +26,7 @@
 
 - 14a) Napríklad § 114 a nasl. zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 15) Položka 212 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
-- 16) § 281 až 288 Obchodného zákonníka.
-
 - 16a) Napríklad zákon č. 566/2001 Z. z., zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
-
-- 17) § 71 až 78 zákona č. 600/1992 Zb. o cenných papieroch v znení neskorších predpisov.
-
-- § 20 až 24 zákona č. 330/2000 Z. z. o burze cenných papierov.
 
 - 18) § 21 písm. b) zákona č. 575/2001 Z. z.
 
@@ -44,21 +34,27 @@
 
 - 19) § 22 ods. 2 zákona č. 575/2001 Z. z. v znení zákona č. 143/2002 Z. z.
 
+- 19a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 20) Ústavný zákon Národnej rady Slovenskej republiky č. 119/1995 Z. z. o zamedzení rozporu záujmov pri výkone funkcií ústavných činiteľov a vyšších štátnych funkcionárov.
 
 - 21) Zákon č. 143/1992 Zb. o plate a odmene za pracovnú pohotovosť v rozpočtových a v niektorých ďalších organizáciách a orgánoch v znení neskorších predpisov.
 
 - 22) § 63 ods. 1 a § 69 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 22a) Napríklad zákon č. 59/1997 Z. z. o ochrane pred dumpingom pri dovoze tovaru, zákon č. 214/1997 Z. z. o ochranných opatreniach pri dovoze, zákon č. 226/1997 Z. z. o subvenciách a vyrovnávacích opatreniach, zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
+- 22a) Čl. 101 a 102 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
 
-- 22b) § 78a Občianskeho súdneho poriadku.
+- 22b) Napríklad zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
-- 22c) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 22c) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 23) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 23) § 69 ods. 4 Trestného poriadku.
 
-- 24) § 17 Obchodného zákonníka.
+- 23a) § 78a Občianskeho súdneho poriadku.
+
+- 23b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 24) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
 - 24a) Nariadenie Komisie (ES) č. 139/2004.
 
@@ -66,8 +62,18 @@
 
 - 26) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. v znení neskorších predpisov.
 
-- 26a) Čl. 81 Zmluvy o založení Európskeho spoločenstva.
+- 27) Čl. 101 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
 
-- 27) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+- 28) Druhá hlava piatej časti Občianskeho súdneho poriadku.
 
-- 28) § 17 zákona Národnej rady Slovenskej republiky č.171/1993 Z. z. v znení neskorších predpisov.
+- 29) Napríklad § 81 písm. f) zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 30) § 2 písm. a) zákona č. 215/2004 Z. z.
+
+- 31) § 17 Obchodného zákonníka.
+
+- 32) Napríklad zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 215/2004 Z. z., zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 33) § 17 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+- 34) Zákon č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov.
