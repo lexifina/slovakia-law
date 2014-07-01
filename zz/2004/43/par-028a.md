@@ -2,7 +2,11 @@
 
 (1) Ak Sociálna poisťovňa postúpila dôchodkovej správcovskej spoločnosti povinné príspevky vo vyššej sume, ako mala postúpiť, zúčtuje sumu zodpovedajúcu rozdielu medzi postúpenou sumou povinných príspevkov a správnou sumou povinných príspevkov so sumou povinných príspevkov, ktoré postúpi po zistení tejto skutočnosti.
 
-(2) Ak sporiteľovi do jedného roka od zániku jeho účasti na starobnom dôchodkovom sporení nevznikne nová účasť na starobnom dôchodkovom sporení a nemožno uplatniť postup podľa odseku 1, Sociálna poisťovňa je povinná vyžiadať elektronickými prostriedkami od dôchodkovej správcovskej spoločnosti vrátenie povinných príspevkov, ktoré boli za sporiteľa postúpené bez právneho dôvodu.
+(2) Sociálna poisťovňa je povinná elektronickými prostriedkami vyžiadať od dôchodkovej správcovskej spoločnosti vrátenie povinných príspevkov, ktoré boli za sporiteľa postúpené bez právneho dôvodu, ak
+
+- a) sporiteľovi do 1 roka od zániku jeho účasti na starobnom dôchodkovom sporení nevznikla nová účasť na starobnom dôchodkovom sporení alebo
+
+- b) sporiteľ dovŕšil 53 rokov veku.
 
 (3) Dôchodková správcovská spoločnosť je povinná do piatich pracovných dní odo dňa, v ktorom sa dozvedela o smrti sporiteľa, oznámiť elektronickými prostriedkami túto skutočnosť Sociálnej poisťovni. Sociálna poisťovňa je povinná do 90 dní odo dňa, v ktorom sa dozvedela o smrti sporiteľa, elektronickými prostriedkami vyžiadať od dôchodkovej správcovskej spoločnosti vrátenie povinných príspevkov, ktoré boli za zomretého sporiteľa postúpené bez právneho dôvodu, oznámiť dôchodkovej správcovskej spoločnosti, že postúpi povinné príspevky alebo že neeviduje povinné príspevky postúpené bez právneho dôvodu.
 
