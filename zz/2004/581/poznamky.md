@@ -26,6 +26,10 @@
 
 - 14) § 6 ods. 9 a § 25 ods. 1 písm. b) zákona č. 580/2004 Z. z.
 
+- 14a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
+
+- 14b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
+
 - 15) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.
 
 - 16) § 42 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
@@ -93,6 +97,8 @@
 - 24) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 24a) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+
+- 24b) Príloha č. 7 k zákonu č. 577/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
 - 25) Zákon č. 577/2004 Z. z.
 
@@ -175,6 +181,8 @@
 - 39e) § 28 ods. 8 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
 
 - 40) § 4 ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+
+- 40a) § 4 ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
 
