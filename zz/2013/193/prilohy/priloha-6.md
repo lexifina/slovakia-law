@@ -1,3 +1,3 @@
 Príloha č. 6 k vyhláške č. 193/2013 Z. z.
 
-- Bilancia fyzických tokov plynu prevádzkovateľa distribučnej siete na vstupe do distribučnej siete [Vzor 06](../assets/b03a55d48f87bdecd2d3fa0cdba6045ed5ac295f5548f3331834694f5d1b0c1b.pdf)
+- Bilancia fyzických tokov plynu prevádzkovateľa distribučnej siete na vstupe do distribučnej siete [Vzor 06](../assets/72fc7813977156d1057994e5c8d095002324430ecebb29a3c1f1e656417fae99.pdf)

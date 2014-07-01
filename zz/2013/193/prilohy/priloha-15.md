@@ -1,3 +1,3 @@
 Príloha č. 15 k vyhláške č. 193/2013 Z. z.
 
-- Údaje potrebné na určenie osobných nákladov za distribúciu plynu – priemerné ročné osobné náklady na zamestnanca [Vzor 15](../assets/91d507650617d4d8e580b9c5275093d750ea1539d034c7194db3c3a88c68ee2b.pdf)
+- Údaje potrebné na určenie osobných nákladov za distribúciu plynu – priemerné ročné osobné náklady na zamestnanca [Vzor 15](../assets/62759ac8c6efcb7ed194a1013440a59356002d0e9c444b4b66abb3c95134ee28.pdf)

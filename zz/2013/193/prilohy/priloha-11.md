@@ -1,3 +1,3 @@
 Príloha č. 11 k vyhláške č. 193/2013 Z. z.
 
-- Údaje potrebné na výpočet maximálnej ceny za prístup do distribučnej siete a distribúciu plynu [Vzor 11](../assets/7ba4bffa98f2cbdec6b909f9a660b833ce7ba72be037ee325e9abaf97853ce4d.pdf)
+- Údaje potrebné na výpočet maximálnej ceny za prístup do distribučnej siete a distribúciu plynu [Vzor 11](../assets/103a00c2101bd69e6fec33b1622f2e4e77435c76041bc677ecbff60c8dd65e0e.pdf)
