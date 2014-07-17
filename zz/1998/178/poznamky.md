@@ -66,8 +66,6 @@
 
 - 21) § 21 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách.
 
-- 22) Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 125/1995 Z. z., ktorou sa upravuje kategorizácia pohostinských prevádzkarní a klasifikačné znaky na ich zaraďovanie do skupín a kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
-
 - 23) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z.§ 83 až 93 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 20. mája 1996 č. 981/1996-100 (oznámenie č. 195/1996 Z. z.).
 
 - 24) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení neskorších predpisov.
