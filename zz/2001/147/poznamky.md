@@ -1,7 +1,5 @@
 - 1) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z.
 
-- 1a) § 7 až 9 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
 - 1b) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
 - 2) § 8 až 12 Obchodného zákonníka.
@@ -13,10 +11,6 @@
 - 5) Napríklad § 10 ods. 1 a 2 zákona č. 634/1992 Zb. v znení neskorších predpisov, § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
 - 6) Napríklad § 20 zákona č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
-
-- 7) Napríklad § 41 až 55 Obchodného zákonníka.
-
-- 8) § 4 ods. 5 zákona č. 250/2007 Z. z.
 
 - 9) § 45 Obchodného zákonníka.
 
