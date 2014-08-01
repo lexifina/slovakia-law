@@ -2,4 +2,4 @@ Príloha č. 3 k zákonu č. 124/2006 Z. z.
 
 - Zoznam preberaných právne záväzných aktov Európskej únie
 
-  - Smernica Rady 89/391/EHS z 12. júna 1989 o zavádzaní opatrení na podporu zlepšenia bezpečnosti a zdravia pracovníkov pri práci (Ú. v. ES L 183, 29. 6. 1989).
+  - Smernica Rady 89/391/EHS z 12. júna 1989 o zavádzaní opatrení na podporu zlepšenia bezpečnosti a zdravia pracovníkov pri práci (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 183, 29. 6. 1989).

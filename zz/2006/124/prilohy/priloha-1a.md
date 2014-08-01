@@ -6,7 +6,7 @@ Príloha č. 1a k zákonu č. 124/2006 Z. z.
 
   - b) osoby na obsluhu kotla I. až V. triedy,
 
-  - c) osoby na opravu kotla I. až V. triedy a na opravu potrubného vedenia s médiom para, horúca voda alebo vzduch,
+  - c) osoby na opravu kotla I. až V. triedy a na opravu potrubného vedenia na rozvod nebezpečnej kvapaliny s najvyšším dovoleným tlakom nad 1 MPa,
 
   - d) revízneho technika vyhradených technických zariadení zdvíhacích,
 

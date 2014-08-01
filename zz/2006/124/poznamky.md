@@ -16,9 +16,9 @@
 
 - 6) § 146 ods. 2 Zákonníka práce.
 
-- 6a) § 30 ods. 6 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+- 6a) § 30a a 30d zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z.
 
-- 6aa) § 30 ods. 3 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 140/2008 Z. z.
+- 6aa) § 30e zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z.
 
 - 7) Napríklad Zákonník práce, zákon č. 121/2004 Z. z. o pracovnom čase a dobe odpočinku v doprave a o zmene a doplnení niektorých zákonov.
 
@@ -88,11 +88,7 @@
 
 - Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27) § 31 zákona č. 355/2007 Z. z.
-
 - 27a) § 5 ods. 3 písm. e) zákona Slovenskej národnej rady č. 51/1988 Zb. v znení zákona č. 58/2014 Z. z.
-
-- 28) Nariadenie vlády Slovenskej republiky č. 322/2006 Z. z. o spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
 - 29) Zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 
