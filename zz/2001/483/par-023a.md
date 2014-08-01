@@ -20,6 +20,16 @@
 
 - b) pohyblivú zložku celkovej odmeny.
 
-(3) Zaručená pevná zložka celkovej odmeny osoby podľa odseku 1 musí byť primerane vyvážená s pohyblivou zložkou celkovej odmeny; zaručená pevná zložka celkovej odmeny má predstavovať dostatočne vysoký podiel odmeny, aby bolo možné uplatňovať pružnú politiku v oblasti pohyblivých zložiek odmeny vrátane možnosti nevyplatiť žiadne pohyblivé zložky celkovej odmeny.
+(3) Zaručená pevná zložka celkovej odmeny osoby podľa odseku 1 musí byť primerane vyvážená s pohyblivou zložkou celkovej odmeny; pohyblivá zložka celkovej odmeny nesmie nikdy presiahnuť zaručenú pevnú zložku celkovej odmeny. Zaručená pevná zložka celkovej odmeny má predstavovať dostatočne vysoký podiel odmeny, aby bolo možné uplatňovať pružnú politiku v oblasti pohyblivých zložiek odmeny vrátane možnosti nevyplatiť žiadne pohyblivé zložky celkovej odmeny. Zaručená pevná zložka celkovej odmeny má zohľadňovať odbornú spôsobilosť a zodpovednosť osoby podľa odseku 1 v rámci organizácie a riadenia banky.
 
-(4) Zásady odmeňovania podľa odseku 1 sa vzťahujú aj na poskytovanie odstupného a odchodného.
+(4) Zásady odmeňovania podľa odseku 1 sa vzťahujú aj na poskytovanie odstupného, odchodného a na ďalšie kompenzácie v spojitosti s predchádzajúcim zamestnaním osôb podľa odseku 1.
+
+(5) Zásady odmeňovania banky podľa odseku 1 musia byť v súlade s účinným systémom riadenia rizík, obchodnou stratégiou a dlhodobými cieľmi banky a majú zahŕňať aj opatrenia na zabránenie konfliktu záujmov.
+
+(6) Ak banke bolo poskytnuté stabilizačné opatrenie štátu sledujúce zmiernenie vplyvov globálnej finančnej krízy, je povinná uplatniť aj zásady odmeňovania na
+
+- a) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré nepresiahnu 1 % z čistých príjmov, ak nie sú v súlade s obchodnou stratégiou banky, jej záujmami a s ukončením poskytnutej stabilizačnej pomoci,
+
+- b) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré majú byť v súlade s obchodnou stratégiou banky a jej záujmami; vykonanie takého zosúladenia je Národná banka Slovenska oprávnená kedykoľvek od banky požadovať,
+
+- c) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré sa nepriznajú za hodnotené obdobie, ak sú neodôvodnené.

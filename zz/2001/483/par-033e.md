@@ -1,117 +1,81 @@
 # § 33e
 
-(1) Ak odsek 2 neustanovuje inak, banka je povinná nepretržite zabezpečovať, aby jej majetková angažovanosť, po zohľadnení vplyvov zmierňovania kreditného rizika vrátane dňa vzniku majetkovej angažovanosti, neprekročila 25 % jej vlastných zdrojov voči
+(1) Národná banka Slovenska môže rozhodnúť o určení vankúša vlastného kapitálu Tier 1 na krytie systémového rizika pre banky so zámerom predísť dlhodobým necyklickým systémovým alebo makroprudenciálnym rizikám, na ktoré sa nevzťahuje osobitný predpis,<sup>30x</sup>) a zmierniť ich, a to v zmysle rizika narušenia finančného systému s potenciálnymi vážnymi negatívnymi dôsledkami na finančný sektor a národné hospodárstvo v Slovenskej republike.
 
-- a) osobe,
+(2) Ak banka okrem vlastného kapitálu Tier 1, ktorý udržiava na účely splnenia požiadaviek na vlastné zdroje podľa osobitného predpisu,<sup>30u</sup>) udržiava aj vankúš na krytie systémového rizika, tak výška tohto vankúša je najmenej 1 % rizikových expozícií vypočítaných podľa osobitného predpisu<sup>30v</sup>) na základe expozícií, na ktoré sa uplatňuje vankúš na krytie systémového rizika podľa odseku 8 na individuálnom základe, konsolidovanom základe alebo subkonsolidovanom základe, a to podľa osobitného predpisu.<sup>30y</sup>)
 
-- b) skupine hospodársky spojených osôb, ktorú tvorí materská spoločnosť banky a jej iné dcérske spoločnosti,
+(3) Na účely splnenia požiadaviek podľa § 6, požiadaviek uložených opatrením na nápravu podľa § 50, požiadaviek na vlastné zdroje podľa osobitného predpisu,<sup>30u</sup>) požiadaviek podľa § 33b ods. 1 a § 33c ods. 1, banka nesmie používať vlastný kapitál Tier 1, ktorý udržiava, na splnenie požiadavky podľa odseku 2.
 
-- c) skupine hospodársky spojených osôb, ktorú tvoria dcérske spoločnosti banky,
+(4) Ak banka na individuálnom základe, subkonsolidovanom základe alebo konsolidovanom základe podlieha vankúšu pre O-SII podľa § 33d a vankúšu na krytie systémového rizika, uplatní sa vyšší z nich. Ak banka na konsolidovanom základe podlieha
 
-- d) inej skupine hospodársky spojených osôb alebo
+- a) vankúšu pre G-SII a vankúšu na krytie systémového rizika súčasne, uplatní sa vyšší z nich alebo
 
-- e) štátu a centrálnej banke ustanoveným podľa odseku 12.
+- b) vankúšu pre G-SII, vankúšu pre O-SII podľa § 33d a vankúšu na krytie systémového rizika, uplatní sa vyšší z nich.
 
-(2) Banka je povinná nepretržite zabezpečovať, aby jej majetková angažovanosť po zohľadnení vplyvov zmierňovania kreditného rizika vrátane dňa vzniku majetkovej angažovanosti neprekročila jednu z vyšších hodnôt, a to 25 % vlastných zdrojov banky alebo 150 000 000 eur, voči osobe, ktorá je inštitúciou, a voči skupine hospodársky spojených osôb, z ktorých aspoň jedna osoba je inštitúciou, ak súčet hodnôt majetkových angažovaností banky po zohľadnení vplyvov zmierňovania kreditného rizika voči všetkým ostatným osobám, ktoré sú súčasťou skupín hospodársky spojených osôb a ktoré súčasne nie sú inštitúciami, neprekračuje 25 % vlastných zdrojov banky. Ak 150 000 000 eur je vyššia hodnota ako 25 % vlastných zdrojov, hodnota akejkoľvek expozície po zohľadnení vplyvu zmierňovania kreditného rizika banky nesmie prekročiť bankou určený percentuálny limit vlastných zdrojov banky. Tento percentuálny limit si banka určuje v súlade so systémom riadenia rizík podľa § 23 a 27; tento limit však banka určuje najviac na úrovni 100 % vlastných zdrojov banky.
+(5) Ak sa vankúš na krytie systémového rizika uplatňuje len na všetky expozície nachádzajúce sa v Slovenskej republike, tak tento vankúš na krytie systémového rizika doplní vankúš pre O-SII alebo vankúš pre G-SII, ktorý sa uplatňuje podľa § 33d, pričom neplatí odsek 4.
 
-(3) Prekročenie akéhokoľvek obmedzenia majetkovej angažovanosti podľa odsekov 1 a 2 je banka povinná bezodkladne oznámiť Národnej banke Slovenska, ktorá po posúdení okolností, za ktorých došlo k tomuto prekročeniu, určí obdobie, počas ktorého je banka povinná vykonať potrebnú nápravu. Ak banka uplatňuje postup podľa odseku 2, Národná banka Slovenska po posúdení okolností, za ktorých došlo k uplatňovaniu postupu podľa odseku 2, môže pre jednotlivé expozície banke umožniť, aby tieto expozície prekračovali svojou hodnotou 100 % vlastných zdrojov banky.
+(6) Ak sa uplatňuje odsek 4, tak skutočnosť, že banka je súčasťou skupiny alebo podskupiny, do ktorej patrí G-SII alebo O-SII, nie je dôvodom na nižšiu požiadavku na kombinovaný vankúš na individuálnom základe ako súčet vankúša na zachovanie kapitálu, proticyklického kapitálového vankúša a vyššieho z vankúšov pre O-SII a na krytie systémového rizika, uplatniteľnú na banku na individuálnom základe.
 
-(4) Banka môže obmedzenia majetkových angažovaností podľa odseku 1 alebo odseku 2 prekračovať, ak
+(7) Ak sa uplatňuje odsek 5, tak skutočnosť, že banka je súčasťou skupiny alebo podskupiny, do ktorej patrí G-SII alebo O-SII, nie je dôvodom na nižšiu požiadavku na kombinovaný vankúš na individuálnom základe ako súčet vankúša na zachovanie kapitálu, proticyklického kapitálového vankúša, vankúša pre O-SII a vankúša na krytie systémového rizika, uplatniteľnú na banku na individuálnom základe.
 
-- a) dodržiava obmedzenia majetkových angažovaností podľa odseku 1 alebo odseku 2, a ak
+(8) Vankúš na krytie systémového rizika sa môže uplatniť na expozície nachádzajúce sa v Slovenskej republike a na expozície v štátoch, ktoré nie sú členskými štátmi. Vankúš na krytie systémového rizika sa môže uplatniť na expozície nachádzajúce sa v inom členskom štáte v súlade s odsekom 19.
 
-  - 1. na ten účel nie je vo vlastných zdrojoch obsiahnutá hodnota doplnkových vlastných zdrojov banky a
+(9) Národná banka Slovenska môže určiť vankúš na krytie systémového rizika postupne na základe úprav o 0,5 percentuálneho bodu. Národná banka Slovenska môže určiť vankúš na krytie systémového rizika pre banky individuálne.
 
-  - 2. prekročenie vyplýva len z obchodov evidovaných v obchodnej knihe,
+(10) Národná banka Slovenska pri určení vankúša na krytie systémového rizika zabezpečí, aby vankúš na krytie systémového rizika nespôsoboval neprimerané negatívne účinky na celý finančný systém alebo jeho časti v iných členských štátoch alebo v Európskej únii ako celku a nepredstavoval alebo nevytváral tak prekážku fungovaniu vnútorného trhu Európskej únie. Národná banka Slovenska prehodnocuje vankúš na krytie systémového rizika najmenej raz za dva kalendárne roky.
 
-- b) z prekročení obmedzení majetkových angažovaností podľa odseku 1 alebo odseku 2 vypočítava dodatočné požiadavky na vlastné zdroje banky,
+(11) Národná banka Slovenska pred určením alebo zmenou miery vankúša na krytie systémového rizika do úrovne 3 % oznámi tento zámer Komisii, Európskemu výboru pre systémové riziká a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo) a dotknutým príslušným orgánom dohľadu a určeným orgánom členských štátov, a to v lehote jedného mesiaca pred uverejnením rozhodnutia podľa odseku 16. Ak sa vankúš na krytie systémového rizika vzťahuje na expozície umiestnené v štáte, ktorý nie je členským štátom, Národná banka Slovenska informuje aj príslušný orgán alebo určený orgán tohto štátu. Oznámenie obsahuje
 
-- c) zabezpečí, aby majetková angažovanosť podľa odseku 9 písm. d) neprekračovala 500 % jej vlastných zdrojov, ak neuplynulo viac než desať dní odo dňa prekročenia,
+- a) opis systémového rizika alebo makroprudenciálneho rizika v Slovenskej republike,
 
-- d) zabezpečí, aby súčet všetkých prekročení neprekračoval 600 % jej vlastných zdrojov, ak uplynulo viac než desať dní odo dňa týchto prekročení a
+- b) dôvody, pre ktoré rozsah systémového rizika alebo makroprudenciálneho rizika ohrozuje stabilitu finančného systému v Slovenskej republike a ktoré odôvodňujú mieru vankúša na krytie systémového rizika,
 
-- e) štvrťročne predkladá Národnej banke Slovenska hlásenie o týchto prekročeniach za predchádzajúci štvrťrok, ktorého predmetom sú informácie o počte a hodnotách týchto prekročení a voči akým osobám, skupinám osôb alebo iným subjektom k týmto prekročeniam došlo; v takom prípade sa odsek 3 nepoužije.
+- c) dôvody, pre ktoré sa vankúš na krytie systémového rizika považuje za účinný a primeraný prostriedok, ktorým možno znížiť riziko,
 
-(5) Banka je na účel obmedzenia vzniku neprimerane vysokého rizika majetkovej angažovanosti povinná
+- d) posúdenie pravdepodobného pozitívneho vplyvu alebo negatívneho vplyvu vankúša na krytie systémového rizika na vnútorný trh Európskej únie,
 
-- a) zisťovať existenciu skupín hospodársky spojených osôb, voči ktorým má banka alebo môže mať banka majetkovú angažovanosť; v rámci zisťovania existencie skupín hospodársky spojených osôb v súvislosti s expozíciami banky podľa § 32 ods. 1 písm. m), o) a p) má banka povinnosť overiť, či má expozície voči podkladovým aktívam obsiahnutým v položkách podľa § 32 ods. 1 písm. m), o) a p), a tieto expozície banka nepretržite sleduje, hodnotí a v súvislosti s týmito expozíciami identifikuje, meria, sleduje, zmierňuje a nepretržite vypočítava hodnotu rizika majetkovej angažovanosti v nich obsiahnutú,
+- e) dôvody, pre ktoré žiadne z opatrení podľa tohto zákona okrem opatrení podľa § 33m písm. f) až h) alebo podľa osobitného predpisu<sup>30z</sup>) nie je dostatočné na vysporiadanie sa s identifikovaným makroprudenciálnym rizikom alebo systémovým rizikom,
 
-- b) nepretržite identifikovať, merať, sledovať a vypočítavať hodnotu rizika majetkovej angažovanosti obsiahnutého v expozíciách banky voči emitentom cenných papierov slúžiacich ako financované zabezpečenie, voči osobám poskytujúcim nefinancované zabezpečenie a voči podkladovým aktívam obsiahnutým v položkách podľa § 32 ods. 1 písm. m), o) a p) a prijímať vlastné opatrenia na zmierňovanie tohto rizika; postup prijímania opatrení banky na zmierňovanie rizika majetkovej angažovanosti, ako aj obsah týchto opatrení banka upraví vo svojom vnútornom predpise,
+- f) mieru vankúša na krytie systémového rizika, ktorú bude Národná banka Slovenska požadovať.
 
-- c) dodržiavať ustanovené pomery majetkovej angažovanosti banky k jej vlastným zdrojom, prípadne k aktívam alebo skupinám aktív vo vzťahu k
+(12) Národná banka Slovenska
 
-  - 1. iným štátom,
+- a) pred určením alebo zmenou miery vankúša na krytie systémového rizika nad úroveň 3 % oznámi tento zámer Komisii, Európskemu výboru pre systémové riziká a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo), dotknutým príslušným orgánom dohľadu a určeným orgánom členských štátov; ak sa vankúš na krytie systémového rizika vzťahuje na expozície umiestnené v štáte, ktorý nie je členským štátom, Národná banka Slovenska informuje aj príslušný orgán alebo určený orgán tohto štátu; oznámenie podľa prvej vety obsahuje
 
-  - 2. zemepisným oblastiam,
+  - 1. opis systémového rizika alebo makroprudenciálneho rizika v Slovenskej republike,
 
-  - 3. hospodárskym odvetviam,
+  - 2. dôvody, pre ktoré rozsah systémového rizika alebo makroprudenciálneho rizika ohrozuje stabilitu finančného systému v Slovenskej republike a ktoré odôvodňujú mieru vankúša na krytie systémového rizika,
 
-  - 4. bankovým činnostiam, z ktorých táto angažovanosť vznikla,
+  - 3. dôvody, pre ktoré sa vankúš na krytie systémového rizika považuje za účinný a primeraný prostriedok, ktorým možno znížiť riziko,
 
-  - 5. osobám s osobitným vzťahom k banke okrem
+  - 4. posúdenie pravdepodobného pozitívneho vplyvu alebo negatívneho vplyvu vankúša na krytie systémového rizika na vnútorný trh Európskej únie,
 
-    - 5.a. osôb, ktoré majú priamu alebo nepriamu kontrolu nad bankou,
+  - 5. dôvody, pre ktoré žiadne z opatrení podľa tohto zákona okrem opatrení podľa § 33m písm. f) až h), alebo podľa osobitného predpisu<sup>30z</sup>) nie je dostatočné na vysporiadanie sa s identifikovaným makroprudenciálnym rizikom alebo systémovým rizikom,
 
-    - 5.b. osôb, ktoré sú nimi priamo alebo nepriamo kontrolované a
+  - 6. mieru vankúša na krytie systémového rizika, ktorú bude Národná banka Slovenska požadovať,
 
-    - 5.c. právnických osôb, ktoré kontroluje banka.
+- b) určí alebo zmení mieru vankúša na krytie systémového rizika podľa písmena a) až po schválení Komisiou.
 
-(6) Postup podľa odseku 5 je povinná primerane dodržiavať z pohľadu svojich dlhodobých zdrojov financovania aj pobočka zahraničnej banky okrem zahraničnej banky podľa § 11 ods. 1.
+(13) Národná banka Slovenska môže od 1. januára 2015 určiť alebo zmeniť mieru vankúša na krytie systémového rizika, ktorý sa vzťahuje na rizikové expozície nachádzajúce sa v Slovenskej republike a aj na rizikové expozície v štátoch, ktoré nie sú členskými štátmi do úrovne 5 % alebo nad 5 %. Pri určení alebo zmene miery vankúša na krytie systémového rizika do úrovne 5 % Národná banka Slovenska postupuje podľa odseku 11 a pri určení alebo zmene miery vankúša na krytie systémového rizika nad úroveň 5 % Národná banka Slovenska postupuje podľa odseku 12.
 
-(7) Materská banka podľa § 44 ods. 2 písm. a) je povinná zabezpečiť dodržiavanie obmedzení majetkovej angažovanosti a obmedzení vzniku neprimerane vysokého rizika majetkovej angažovanosti podľa odsekov 1 až 5 aj za konsolidovaný celok. Pri výpočte majetkovej angažovanosti banky za konsolidovaný celok sa majetkové angažovanosti medzi osobami, ktoré sú súčasťou konsolidovaného celku podľa § 44 ods. 2 písm. a), neberú do úvahy.
+(14) Národná banka Slovenska pred určením miery vankúša na krytie systémového rizika od úrovne 3 % do 5 % podľa odseku 13 oznámi tento zámer Komisii a počká na jej stanovisko. Ak je stanovisko Komisie negatívne, Národná banka Slovenska postupuje v súlade s týmto stanoviskom alebo uvedie dôvody, pre ktoré tak neurobí.
 
-(8) So súhlasom Národnej banky Slovenska vydaným na základe písomnej žiadosti banky s uvedením vecných dôvodov môže banka na účely posudzovania majetkovej angažovanosti podľa
+(15) Ak je banka dcérskou spoločnosťou, ktorej materská spoločnosť je zriadená v inom členskom štáte, Národná banka Slovenska skutočnosti podľa odseku 14 oznámi príslušným orgánom dohľadu tohto členského štátu, Komisii a Európskemu výboru pre systémové riziká a počká na odporúčanie Komisie a Európskeho výboru pre systémové riziká týkajúce sa opatrení prijatých podľa odseku 14. Ak je stanovisko príslušných orgánov dohľadu, Komisie alebo Európskeho výboru pre systémové riziká negatívne, Národná banka Slovenska môže požiadať Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o pomoc podľa osobitného predpisu<sup>19</sup>) a určí mieru vankúša na krytie systémového rizika v súlade s rozhodnutím Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo).
 
-- a) odsekov 1 a 2 vyňať osobu zo skupiny hospodársky spojených osôb, ak sa na všetky osoby v tejto skupine vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči skupine hospodársky spojených osôb, pre ktorú Národná banka Slovenska vydala súhlas podľa tohto písmena, najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
+(16) Národná banka Slovenska zverejní na svojom webovom sídle oznámenie o určení vankúša na krytie systémového rizika. Oznámenie obsahuje
 
-- b) odseku 1 písm. a) a odseku 2 nezahrnúť do výpočtu majetkovej angažovanosti expozíciu voči svojej dcérskej spoločnosti najviac do výšky 75 % hodnoty tejto expozície, ak sa na túto dcérsku spoločnosť vrátane tejto banky vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s právnymi predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči jej dcérskej spoločnosti podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
+- a) mieru vankúša na krytie systémového rizika,
 
-- c) odseku 1 písm. a) a odseku 2 nezahrnúť do výpočtu majetkovej angažovanosti expozíciu voči svojej materskej spoločnosti, ak ňou je inštitúcia so sídlom v členskom štáte, alebo voči jej inej dcérskej spoločnosti, ak sa na ne vzťahuje dohľad na konsolidovanom základe vykonávaný príslušným orgánom dohľadu členského štátu alebo príslušným orgánom dohľadu iného štátu v súlade s predpismi tohto štátu porovnateľnými s týmto zákonom; Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči jej materskej spoločnosti alebo voči jej iným dcérskym spoločnostiam podľa tohto písmena najmenej raz za kalendárny mesiac a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo),
+- b) banky, na ktoré sa vankúš na krytie systémového rizika vzťahuje,
 
-- d) odseku 1 písm. b) a c) a odseku 2 vyňať tie expozície, na ktoré sa vzťahuje postup Národnej banky Slovenska podľa písmen b) a c); Národná banka Slovenska je povinná pri výkone dohľadu overovať hodnotu expozícií voči skupine hospodársky spojených osôb, pre ktorú Národná banka Slovenska vydala súhlas podľa tohto písmena, a to najmenej raz za kalendárny mesiac, a obsah tohto postupu oznámi Komisii a Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo).
+- c) odôvodnenie vankúša na krytie systémového rizika,
 
-(9) Majetkovou angažovanosťou banky sa na účely tohto zákona rozumie súhrn
+- d) dátum, od ktorého musia banky uplatňovať určený alebo zmenený vankúš na krytie systémového rizika,
 
-- a) pohľadávok a iných majetkových práv banky vrátane pohľadávok a iných majetkových práv banky, ktorých vznik je viazaný na splnenie podmienky a ktoré nie sú zahrnuté v evidencii podľa § 39 ods. 1 až 6,
+- e) názvy štátov, v ktorých sa nachádzajú rizikové expozície, na ktoré sa uplatňuje vankúš na krytie systémového rizika.
 
-- b) budúcich pohľadávok banky, ktoré vzniknú na základe platných dohôd uzavretých pri výkone bankových činností, a ak z nich nevyplýva možnosť odstúpenia alebo jednostranného vypovedania, ktoré nie sú zahrnuté v evidencii podľa § 39 ods. 1 až 6,
+(17) Ak by zverejnenie informácie podľa odseku 16 písm. c) mohlo ohroziť stabilitu finančného systému, informácia podľa odseku 16 písm. c) sa v oznámení neuvedie.
 
-- c) expozícií derivátových obchodov, ktoré nie sú zahrnuté v evidencii podľa § 39 ods. 1 až 6,
+(18) Ak banka neplní v celom rozsahu požiadavku podľa odseku 1, podlieha obmedzeniam týkajúcim sa rozdeľovania podľa § 33k ods. 2 a 3. Ak uplatňovanie týchto obmedzení týkajúcich sa rozdeľovania nevedie vzhľadom na systémové riziko k uspokojivému zlepšeniu vlastného kapitálu Tier 1 banky, Národná banka Slovenska môže v súlade s § 50 a 63 prijať dodatočné opatrenia.
 
-- d) hodnôt pozícií zahrnutých v evidencii podľa § 39 ods. 1 až 6.
-
-(10) Veľkou majetkovou angažovanosťou sa na účely tohto zákona rozumie majetková angažovanosť voči jednej osobe alebo skupine hospodársky spojených osôb, ktorá je rovná alebo vyššia ako 10 % vlastných zdrojov.
-
-(11) Skupinou hospodársky spojených osôb sa na účely tohto zákona rozumie skupina osôb predstavujúcich spoločné riziko tým, že
-
-- a) v tejto skupine má jedna osoba kontrolu nad ostatnými osobami alebo
-
-- b) vzájomné hospodárske vzťahy v tejto skupine sú takej povahy a zo všetkých okolností je zrejmé, že finančné ťažkosti jednej osoby spôsobia neschopnosť ostatných osôb financovať alebo splácať svoje záväzky včas.
-
-(12) Opatrením,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia:
-
-- a) podrobnosti o spôsobe výpočtu majetkovej angažovanosti banky a spôsobe výpočtu majetkovej angažovanosti na konsolidovanom základe podľa odsekov 1, 2 a 7,
-
-- b) podrobnosti o majetkovej angažovanosti banky a majetkovej angažovanosti na konsolidovanom základe podľa odsekov 8 a 9,
-
-- c) podrobnosti o skupine hospodársky spojených osôb,
-
-- d) štáty a centrálne banky podľa odseku 1,
-
-- e) čo sa rozumie expozíciami derivátových obchodov, ktoré nie sú zahrnuté v evidencii podľa § 39 ods. 1 až 6, a pozíciami zahrnutými v evidencii podľa § 39 ods. 1 až 6,
-
-- f) podrobnosti o výpočte dodatočných požiadaviek na vlastné zdroje banky podľa odseku 4 písm. b),
-
-- g) pomery majetkovej angažovanosti podľa odseku 5 a rozsah, v akom týmto pravidlám podliehajú pobočky zahraničných bánk podľa odseku 6.
-
-(13) Postup podľa odseku 8 písm. b) a c) sa pri výpočte majetkovej angažovanosti za konsolidovaný celok na účely odseku 7 a na účely ôsmej časti neuplatňuje.
-
-(14) Možnosť podľa odseku 8 písm. a), b) alebo d) zaniká
-
-- a) uplynutím 180 kalendárnych dní od doručenia oznámenia Národnej banky Slovenska banke, že nesmie využívať možnosť podľa odseku 8 písm. a), b) alebo c),
-
-- b) ak pominuli vecné dôvody na jej uplatňovanie, ktoré boli uvedené v písomnej žiadosti banky, alebo
-
-- c) ak nie sú splnené všetky podmienky podľa odseku 8 písm. a), b) alebo c).
-
-(15) Na postup podľa odseku 3, 8 a 14 sa nevzťahujú ustanovenia o konaní vo veciach dohľadu nad finančným trhom ani všeobecné predpisy o správnom konaní.<sup>30f</sup>)
+(19) Národná banka Slovenska môže na základe oznámenia podľa odseku 11 uplatniť vankúš na krytie systémového rizika na všetky expozície. Ak Národná banka Slovenska rozhodne o určení vankúša na krytie systémového rizika až do úrovne 3 % na základe expozícií v iných členských štátoch, vankúš na krytie systémového rizika určí rovnako pre všetky expozície nachádzajúce sa v rámci Európskej únie ako celku.

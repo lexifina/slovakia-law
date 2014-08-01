@@ -4,8 +4,10 @@
 
 - a) nezávisle posudzuje zásady odmeňovania a ich dopadov na riadenie rizika, vlastných zdrojov a likvidity,
 
-- b) zodpovedá za prípravu rozhodnutí týkajúcich sa odmeňovania vrátane tých, ktoré majú dôsledky na riziká a riadenie rizík banky, ktoré majú byť prijímané štatutárnym orgánom a
+- b) zodpovedá za prípravu rozhodnutí týkajúcich sa odmeňovania vrátane tých, ktoré majú dôsledky na riziká a riadenie rizík banky, ktoré majú byť prijímané štatutárnym orgánom,
 
-- c) zohľadňuje dlhodobé záujmy akcionárov, investorov a iných zainteresovaných strán banky pri príprave svojich rozhodnutí.
+- c) zohľadňuje dlhodobé záujmy akcionárov, investorov a iných zainteresovaných strán banky pri príprave svojich rozhodnutí a
+
+- d) dozerá na odmeňovanie osôb podľa § 23a ods. 1 písm. a) a b).
 
 (2) Výbor pre odmeňovanie v banke pozostáva najmenej z troch členov.

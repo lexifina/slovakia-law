@@ -4,9 +4,9 @@
 
 (2) Koncentráciou rizík finančného konglomerátu na účely doplňujúceho dohľadu sa rozumie každá činnosť osôb finančného konglomerátu, ktorá môže spôsobiť takú stratu, ktorá môže ohroziť platobnú schopnosť alebo bezpečnosť a zdravie regulovaných osôb vo finančnom konglomeráte; taká koncentrácia môže byť v úverom riziku, investičnom riziku, poistnom riziku, trhovom riziku, riziku likvidity, kreditnom riziku, operačnom riziku a inom riziku alebo kombinácii týchto rizík.
 
-(3) Ak finančný konglomerát ovláda banka, vzťahuje sa na koncentráciu rizík finančného konglomerátu rovnako § 31. Ak finančný konglomerát ovláda iná regulovaná osoba, vzťahujú sa na koncentráciu rizík finančného konglomerátu primerane ustanovenia osobitného predpisu.<sup>45b</sup>)
+(3) Ak finančný konglomerát ovláda iná regulovaná osoba, vzťahujú sa na koncentráciu rizík finančného konglomerátu primerane ustanovenia osobitného predpisu.<sup>45b</sup>)
 
-(4) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najvýznamnejším finančným sektorom vo finančnom konglomeráte bankový sektor, vzťahujú sa na koncentráciu rizík bankového sektora a zmiešanej finančnej holdingovej spoločnosti primerane § 31 až 33.
+(4) Ak finančný konglomerát ovláda zmiešaná finančná holdingová spoločnosť a ak je najvýznamnejším finančným sektorom vo finančnom konglomeráte bankový sektor, vzťahuje sa na koncentráciu rizík bankového sektora a zmiešanej finančnej holdingovej spoločnosti primerane § 33.
 
 (5) Opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa ustanovia na účely zisťovania koncentrácie rizík podrobnosti o
 

@@ -18,7 +18,7 @@
 
 - c) ktorej zaradenie by bolo nevhodné alebo neprimerané z hľadiska cieľov doplňujúceho dohľadu.
 
-(7) Národná banka Slovenska nezaradenie osoby podľa odseku 6 písm. c) prerokuje s orgánmi dohľadu členských štátov, ktoré zodpovedajú za doplňujúci dohľad v príslušnom členskom štáte.
+(7) Národná banka Slovenska nezaradenie osoby podľa odseku 6 písm. c) prerokuje s príslušnými orgánmi dohľadu členských štátov, ktoré zodpovedajú za doplňujúci dohľad v príslušnom členskom štáte.
 
 (8) Ustanovením odseku 6 nie je dotknutá povinnosť dotknutých osôb poskytovať informácie na účely výkonu doplňujúceho dohľadu ani oprávnenie orgánov dohľadu poskytovať informácie o týchto osobách na účely výkonu doplňujúceho dohľadu alebo dohľadu nad finančnými konglomerátmi v inom členskom štáte.
 

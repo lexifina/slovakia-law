@@ -1,29 +1,51 @@
 # § 33a
 
-(1) Banky, ktoré používajú štandardizovaný prístup pre kreditné riziko alebo základný prístup interných ratingov pre kreditné riziko, môžu použiť zmierňovanie kreditného rizika formou financovaného zabezpečenia alebo formou nefinancovaného zabezpečenia pri výpočte hodnôt rizikovo vážených expozícií na účely § 30 ods. 5 písm. a) alebo pri odhade očakávaných strát na účely výpočtu vlastných zdrojov podľa § 30.
+Na účely tohto zákona sa rozumie
 
-(2) Aby mohli byť aktíva uznané na účely financovaného zabezpečenia voči kreditnému riziku, musia byť dostatočne likvidné a ich hodnota dlhodobo stála. Požičiavajúca banka musí mať právo včas speňažiť alebo si ponechať aktíva v prípade platobnej neschopnosti, úpadku, konkurzu dlžníka alebo inej podobnej udalosti, pričom stupeň vzájomnej závislosti medzi hodnotou aktív a kvalitou dlžníka z hľadiska kreditného rizika nesmie byť neprimeraný.
+- a) systémovo významnou bankou materská banka v Európskej únii, materská finančná holdingová spoločnosť v Európskej únii, materská zmiešaná finančná holdingová spoločnosť v Európskej únii alebo banka, ktorej zlyhanie alebo nedostatočné fungovanie by mohlo viesť k systémovému riziku,
 
-(3) Aby mohla byť osoba uznaná na účel nefinancovaného zabezpečenia voči kreditnému riziku, musí byť dostatočne spoľahlivá a dohoda o zabezpečení musí poskytovať primeranú istotu so zreteľom na prístup použitý pri výpočte hodnôt rizikovo vážených expozícií a vzhľadom na stupeň povoleného uznávania.
+- b) G-SII globálne systémovo významná banka, ktorou je systémovo významná banka určená Národnou bankou Slovenska podľa § 33d ods. 1 a 2, pričom G-SII nie je banka, ktorá je dcérskou spoločnosťou materskej banky v Európskej únii, materskej finančnej holdingovej spoločnosti v Európskej únii alebo materskej zmiešanej finančnej holdingovej spoločnosti v Európskej únii,
 
-(4) Banka neuplatní zmierňovanie kreditného rizika na takú expozíciu, s ktorou vytvára vyššiu hodnotu rizikovo váženej expozície, než by vytvárala táto expozícia bez zmierňovania kreditného rizika.
+- c) O-SII lokálne systémovo významná banka, ktorou je systémovo významná banka určená Národnou bankou Slovenska podľa § 33d ods. 1 a 3,
 
-(5) Dohody o zabezpečení uzatvorené požičiavajúcou bankou musia byť právne účinné a vymožiteľné vo všetkých príslušných právnych poriadkoch, ktoré majú alebo môžu mať vplyv na zabezpečenie alebo výkon práv zo zabezpečenia.
+- d) tlmiacou rezervou (ďalej len „vankúš“) na zachovanie kapitálu vlastné zdroje, ktoré banka udržiava podľa § 33b,
 
-(6) Národná banka Slovenska na účely zmierňovania kreditného rizika formou predchádzajúceho súhlasu
+- e) proticyklickým kapitálovým vankúšom špecifickým pre banku vlastné zdroje, udržiavané podľa § 33c,
 
-- a) uzná metódu merania rizika vznikajúceho zo základnej zmluvy o započítaní vytvorenú bankou na účel výpočtu účinkov zmierňovania kreditného rizika, ak je táto metóda spoľahlivá a dôveryhodná,
+- f) vankúšom pre G-SII vlastné zdroje udržiavané podľa § 33d ods. 4,
 
-- b) povolí banke použitie empirických korelácií v rámci kategórií rizík a medzi kategóriami rizík pri výpočte účinkov zmierňovania kreditného rizika, ak systém merania vzájomnej závislosti je spoľahlivý a dôveryhodný.
+- g) vankúšom pre O-SII vlastné zdroje udržiavané podľa § 33d ods. 5,
 
-(7) Ak hodnota rizikovo vážených expozícií už zohľadňuje zabezpečenie podľa štandardizovaného prístupu pre kreditné riziko alebo prístupu interných ratingov pre kreditné riziko, nepoužije sa výpočet zabezpečenia podľa odsekov 1 až 6.
+- h) vankúšom na krytie systémového rizika vlastné zdroje, ktoré banka udržiava podľa § 33e,
 
-(8) Opatrením,<sup>23</sup>) ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje v zbierke zákonov, sa na účel uplatňovania zmierňovania kreditného rizika ustanoví:
+- i) požiadavkou na kombinovaný vankúš celkový vlastný kapitál Tier 1 podľa osobitného predpisu<sup>30m</sup>) požadovaný na splnenie požiadavky na vankúš na zachovanie kapitálu, rozšírený v súlade s § 33d ods. 15 až 17 a § 33e ods. 4 a 5, a ak sa vankúše v prvom až štvrtom bode uplatňujú, o
 
-- a) čo sa rozumie požičiavajúcou bankou, dostatočnou likviditou podľa odseku 2, dlhodobou stálosťou podľa odseku 2, neprimeranosťou vzájomnej závislosti podľa odseku 2, empirickou koreláciou podľa odseku 6 písm. b), spoľahlivosťou a dôveryhodnosťou podľa odseku 6 písm. a) a b),
+  - 1. proticyklický vankúš špecifický pre banku,
 
-- b) prípustné formy zmierňovania kreditného rizika a požiadavky na ne, podrobnosti o financovanom zabezpečení a nefinancovanom zabezpečení, ako aj výpočet účinkov zmierňovania kreditného rizika vrátane možnosti úpravy výpočtu hodnôt rizikovo vážených expozícií a výšky očakávanej straty,
+  - 2. vankúš pre G-SII,
 
-- c) podrobnosti o uznaní a povolení podľa odseku 6,
+  - 3. vankúš pre O-SII,
 
-- d) náležitosti žiadosti o predchádzajúci súhlas podľa odseku 6 a doklady prikladané k žiadosti.
+  - 4. vankúš na krytie systémového rizika,
+
+- j) mierou proticyklického kapitálového vankúša miera, ktorú banka uplatňuje na výpočet svojho proticyklického kapitálového vankúša špecifického pre banku a ktorá je určená podľa § 33g a 33h alebo určeným orgánom štátu, ktorý nie je členským štátom,
+
+- k) finančnou holdingovou spoločnosťou finančná holdingová spoločnosť podľa osobitného predpisu,<sup>30n</sup>)
+
+- l) holdingovou spoločnosťou so zmiešanou činnosťou holdingová spoločnosť so zmiešanou činnosťou podľa osobitného predpisu,<sup>30o</sup>)
+
+- m) materskou bankou banka podľa osobitného predpisu,<sup>30p</sup>)
+
+- n) materskou finančnou holdingovou spoločnosťou materská finančná holdingová spoločnosť podľa osobitného predpisu,<sup>30r</sup>)
+
+- o) materskou bankou v Európskej únii materská banka podľa osobitného predpisu,<sup>30s</sup>)
+
+- p) materskou finančnou holdingovou spoločnosťou v Európskej únii materská finančná holdingová spoločnosť podľa osobitného predpisu,<sup>30t</sup>)
+
+- r) určeným orgánom členského štátu orgán členského štátu zodpovedný za určenie miery proticyklického kapitálového vankúša pre tento členský štát alebo za určenie vankúša na krytie systémového rizika,
+
+- s) zmiešanou finančnou holdingovou spoločnosťou<sup>30ta</sup>) materská spoločnosť iná ako regulovaná osoba, ktorá spolu so svojimi dcérskymi spoločnosťami, z ktorých aspoň jedna je regulovanou osobou so sídlom v členskom štáte, a spolu s ostatnými ovládanými osobami tvorí finančný konglomerát,
+
+- t) materskou zmiešanou finančnou holdingovou spoločnosťou materská zmiešaná finančná holdingová spoločnosť podľa osobitného predpisu,<sup>30tb</sup>)
+
+- u) materskou zmiešanou finančnou holdingovou spoločnosťou v Európskej únii materská zmiešaná finančná holdingová spoločnosť podľa osobitného predpisu.<sup>30tc</sup>)

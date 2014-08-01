@@ -4,6 +4,8 @@
 
 - 1aa) § 2 ods. 1 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
+- 1ab) Čl. 4 ods. 1 bod 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+
 - 2) § 313 až 322 Obchodného zákonníka.
 
 - 3) § 682 až 691 Obchodného zákonníka.
@@ -12,7 +14,13 @@
 
 - 5) Napríklad zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
+- 5a) Čl. 4 ods. 1 bod 42 nariadenia (EÚ) č. 575/2013.
+
+- 5b) Napríklad § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 6) Napríklad zákon č. 594/2003 Z. z., zákon č. 186/2009 Z. z.
+
+- 6a) Čl. 4 ods. 1 bod 17 nariadenia (EÚ) č. 575/2013.
 
 - 7) § 21 ods. 3 a 4 a § 28 ods. 3 Obchodného zákonníka.
 
@@ -34,37 +42,69 @@
 
 - 13b) § 25 až 32 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
+- 13ba) Čl. 4 ods. 1 bod 73 nariadenia (EÚ) č. 575/2013.
+
 - 13c) § 1 ods. 2 písm. a) zákona č. 186/2009 Z. z.
 
 - 13d) § 708 Obchodného zákonníka.
 
-- 14) Občiansky súdny poriadok.
+- 13e) Čl. 4 ods. 1 bod 27 nariadenia (EÚ) č. 575/2013.
 
-- Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
+- 13f) Čl. 4 ods. 1 bod 92 nariadenia (EÚ) č. 575/2013.
 
-- § 67 až 71 zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
+- § 3 ods. 1 zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+
+- 13g) Čl. 4 ods. 1 bod 93 nariadenia (EÚ) č. 575/2013.
+
+- 13h) Čl. 4 ods. 1 bod 40 nariadenia (EÚ) č. 575/2013.
+
+- 13i) Čl. 4 ods. 1 bod 98 nariadenia (EÚ) č. 575/2013.
+
+- Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 13j) Čl. 4 ods. 1 bod 45 a 46 nariadenia (EÚ) č. 575/2013.
+
+- 13k) Čl. 4 ods. 1 bod 3 nariadenia (EÚ) č. 575/2013.
+
+- 13l) Čl. 4 ods. 1 bod 61 nariadenia (EÚ) č. 575/2013.
+
+- 13m) Čl. 4 ods. 1 bod 26 nariadenia (EÚ) č. 575/2013.
+
+- § 49 ods. 5 písm. c) a d) zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
+
+- 13o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 14) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
+
+- 15) Napríklad zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 15a) § 6 až 11 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15b) Zákon č. 96/2002 Z. z. v znení zákona č. 43/2004 Z. z.
+- 16) § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 510/2002 Z. z. v znení neskorších predpisov.
-
-- 16) § 99 až 111 zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
-
-- 17) § 27 a 28 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- 17) § 3 až 17 a § 34 až 45 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
 - 18) Napríklad § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 18a) § 63 zákona č. 492/2009 Z. z.
+- 19) Čl. 19 nariadenia (EÚ) č. 1093/2010.
 
-- 18aa) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+- 20) Čl. 135 ods. 2 nariadenia (EÚ) č. 575/2013.
 
-- 18ab) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+- Čl. 18 ods. 3 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009) v platnom znení.
 
-- 19) § 21 ods. 2 písm. d) a § 21a až 21c zákona č. 510/2002 Z. z. v znení zákona č. 604/2003 Z. z.
+- 20a) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
-- 20) § 25 až 49 zákona č. 385/1999 Z. z. v znení zákona č. 329/2000 Z. z.
+- 20b) Čl. 32 nariadenia (EÚ) č. 1093/2010.
+
+- 20c) Čl. 177 nariadenia (EÚ) č. 575/2013.
+
+- 20d) Čl. 387 až 403 nariadenia (EÚ) č. 575/2013.
+
+- 20e) Čl. 362 až 377 nariadenia (EÚ) č. 575/2013.
+
+- 20f) Čl. 105 nariadenia (EÚ) č. 575/2013.
 
 - 21) § 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení zákona č. 242/1999 Z. z.
 
@@ -78,7 +118,9 @@
 
 - 23) § 1 ods. 1 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 44/1998 Z. z.
 
-- 23a) § 41a a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+- 23a) Čl. 4 ods. 1 bod 36 nariadenia (EÚ) č. 575/2013.
+
+- 23b) Čl. 4 ods. 1 bod 38 nariadenia (EÚ) č. 575/2013.
 
 - 24) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
@@ -90,6 +132,18 @@
 
 - 24ac) Napríklad § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
+- 24aaa) Čl. 4 ods. 1 bod 16 nariadenia (EÚ) č. 575/2013.
+
+- § 22 ods. 4 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 24aab) Čl. 4 ods. 1 bod 15 nariadenia (EÚ) č. 575/2013.
+
+- § 22 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 24aac) Čl. 4 ods. 1 bod 37 nariadenia (EÚ) č. 575/2013.
+
+- § 22 ods. 3 a 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
@@ -100,9 +154,37 @@
 
 - 25a) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (U. v. EÚ L 331, 15. 12. 2010).
 
+- 25aa) Čl. 4 ods. 1 bod 52 nariadenia (EÚ) č. 575/2013.
+
+- 25ab) Čl. 4 ods. 1 bod 94 nariadenia (EÚ) č. 575/2013.
+
+- 25ac) Čl. 4 ods. 1 bod 34 nariadenia (EÚ) č. 575/2013.
+
+- 25ad) Čl. 4 ods. 1 bod 57 nariadenia (EÚ) č. 575/2013.
+
+- 25ae) Čl. 143 ods.1, čl. 221, 225, čl. 259 ods. 3, čl. 312 ods. 2, čl. 283 a 363 nariadenia (EÚ) č. 575/2013.
+
+- 25af) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
+
 - 26a) § 2 ods. 2 a § 23 Obchodného zákonníka.
 
 - 26b) § 2 zákona č. 429/2002 Z. z.
+
+- 26c) Čl. 4 ods. 1 bod 18 nariadenia (EÚ) č. 575/2013.
+
+- 26d) Napríklad zákon č. 213/1997 Z. z. v znení neskorších predpisov, zákon č. 34/2002 Z. z. v znení neskorších predpisov.
+
+- 26e) Čl. 435 ods. 2 písm. b) a c) nariadenia (EÚ) č. 575/2013.
+
+- 26f) Čl. 433 a čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
+
+- 26g) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
+
+- 26g) § 19a zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 26h) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
+
+- 26i) Čl. 345 nariadenia (EÚ) č. 575/2013.
 
 - 27) Zákonník práce.
 
@@ -130,21 +212,107 @@
 
 - 30) § 116 Občianskeho zákonníka.
 
-- 30a) § 4 ods. 1 a § 11 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 30a) Čl. 4 ods. 1 bod 118 nariadenia (EÚ) č. 575/2013.
 
-- 30b) § 31 ods. 5 písm. b) a § 61 zákona č. 510/2002 Z. z.
+- 30b) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
-- 30c) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+- 30c) Čl. 142 až 150 nariadenia (EÚ) č. 575/2013.
 
-- 30d) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 30d) Čl. 147 ods. 2 nariadenia (EÚ) č. 575/2013.
 
-- Nariadenie Európskeho parlamentu a Rady (ES) č. 1606/2002 o uplatňovaní medzinárodných účtovných noriem.
+- 30e) Čl. 147 ods. 2 písm. a) až c) nariadenia (EÚ) č. 575/2013.
 
-- 30e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
+- 30f) Čl. 143 až 144 nariadenia (EÚ) č. 575/2013.
 
-- 30f) § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+- 30g) Čl. 145 nariadenia (EÚ) č. 575/2013.
 
-- Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+- 30h) Čl.144 ods. 1 a čl. 145 nariadenia (EÚ) č. 575/2013.
+
+- 30i) Čl. 360 nariadenia (EÚ) č. 575/2013.
+
+- 30j) Čl. 363 až 377 nariadenia (EÚ) č. 575/2013.
+
+- 30k) Čl. 366 nariadenia (EÚ) č. 575/2013.
+
+- 30l) Čl. 312 až 320 nariadenia (EÚ) č. 575/2013.
+
+- 30m) Čl. 50 nariadenia (EÚ) č. 575/2013.
+
+- 30n) Čl. 4 ods. 1 bod 20 nariadenia (EÚ) č. 575/2013.
+
+- 30o) Čl. 4 ods. 1 bod 22 nariadenia (EÚ) č. 575/2013.
+
+- 30p) Čl. 4 ods. 1 bod 28 nariadenia (EÚ) č. 575/2013.
+
+- 30r) Čl. 4 ods. 1 bod 30 nariadenia (EÚ) č. 575/2013.
+
+- 30s) Čl. 4 ods. 1 bod 29 nariadenia (EÚ) č. 575/2013.
+
+- 30t) Čl. 4 ods. 1 bod 31 nariadenia (EÚ) č. 575/2013.
+
+- 30ta) Čl. 4 ods. 1 bod 21 nariadenia (EÚ) č. 575/2013.
+
+- 30tb) Čl. 4 ods. 1 bod 32 nariadenia (EÚ) č. 575/2013.
+
+- 30tc) Čl. 4 ods. 1 bod 33 nariadenia (EÚ) č. 575/2013.
+
+- 30u) Čl. 92 nariadenia (EÚ) č. 575/2013.
+
+- 30v) Čl. 92 ods. 3 nariadenia (EÚ) č. 575/2013.
+
+- 30w) Čl. 6 až 24 nariadenia (EÚ) č. 575/2013.
+
+- 30x) Nariadenie (EÚ) č. 575/2013.
+
+- 30y) Čl. 6 až 24 nariadenia (EÚ) č. 575/2013.
+
+- 30z) Čl. 1 až 457 a 460 až 521 nariadenia (EÚ) č. 575/2013.
+
+- 30za) Čl. 16 nariadenia (EÚ) č. 1092/2010.
+
+- 30zb) Čl. 107 až 311 nariadenia (EÚ) č. 575/2013.
+
+- 30zc) Čl. 112 písm. a) až f) nariadenia (EÚ) č. 575/2013.
+
+- 30zd) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
+
+- 30ze) Čl. 362 až 377 nariadenia (EÚ) č. 575/2013.
+
+- 30zf) Čl. 242 až 270 nariadenia (EÚ) č. 575/2013.
+
+- 30zg) Čl. 10 až 14 nariadenia (EÚ) č. 1093/2010.
+
+- 30zh) Čl. 26 ods. 2 nariadenia (EÚ) č. 575/2013.
+
+- 30zi) Čl. 92 ods. 1 písm. c) nariadenia (EÚ) č. 575/2013.
+
+- 30zj) Čl. 26 ods. 1 písm. a) nariadenia (EÚ) č. 575/2013
+
+- 30zk) Čl. 26 ods. 1 písm. b) až e) nariadenia (EÚ) č. 575/2013.
+
+- 30zl) Čl. 124 ods. 2 nariadenia (EÚ) č. 575/2013.
+
+- 30zm) Čl. 125 ods. 2 písm. d) nariadenia (EÚ) č. 575/2013.
+
+- 30zn) Čl. 126 ods. 2 písm. d) nariadenia (EÚ) č. 575/2013.
+
+- 30zo) Čl. 164 ods. 5 nariadenia (EÚ) č. 575/2013.
+
+- 30zp) Čl. 458 ods. 2 písm. d) nariadenia (EÚ) č. 575/2013.
+
+- 30zr) Čl. 458 ods. 5 nariadenia (EÚ) č. 575/2013.
+
+- 30zs) Čl. 458 ods. 10 nariadenia (EÚ) č. 575/2013.
+
+- 30zt) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- § 9 zákona č. 266/2005 Z. z.
+
+- § 27 zákona č. 250/2007 Z. z. v znení neskorších predpisov.
+
+- 30zu) § 44 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- 30zv) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - 31) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
@@ -156,13 +324,19 @@
 
 - Zákon č. 129/2010 Z. z.
 
-- 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+- 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
+- § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
+- Čl. 431 až 455 nariadenia (EÚ) č. 575/2013.
 
 - 34) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 35) § 20 ods. 2 zákona č. 431/2002 Z. z.
 
 - 35a) § 2 zákona č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35aa) Čl. 432 nariadenia (EÚ) č. 575/2013.
 
 - 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -184,6 +358,8 @@
 
 - 37ab) § 41 a 42 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
+- 37ac) Čl. 4 ods. 1 bod 86 nariadenia (EÚ) č. 575/2013.
+
 - 38) § 2 ods. 4 písm. a) a b) a § 24 až 29 zákona č. 431/2002 Z. z.
 
 - Opatrenie Ministerstva financií Slovenskej republiky z 13. novembra 2002 č. 20 359/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre banky, pobočky zahraničných bánk, Národnú banku Slovenska, Fond ochrany vkladov, obchodníkov s cennými papiermi, pobočky zahraničných obchodníkov s cennými papiermi, Garančný fond investícií, správcovské spoločnosti, pobočky zahraničných správcovských spoločností a podielové fondy (oznámenie č. 644/2002 Z. z.).
@@ -198,7 +374,7 @@
 
 - 43) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
 
-- 44) § 6 ods. 4 a 5 a § 22 ods. 2 zákona č. 431/2002 Z. z.
+- 44) Čl. 11 nariadenia (EÚ) č. 575/2013.
 
 - 44a) Čl. 28 nariadenia (EÚ) č. 1093/2010.
 
@@ -246,11 +422,23 @@
 
 - 48aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
+- 48b) Čl. 377 ods. 5 nariadenia (EÚ) č. 575/2013.
+
+- 48c) § 37 ods. 3 zákona č. 747/2004 Z. z. v znení zákona č. 276/2009 Z. z.
+
+- 48d) § 27 ods. 7 zákona č. 747/2004 Z. z.
+
+- Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 48e) Napríklad Trestný poriadok v znení neskorších predpisov.
+
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 49a) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
 
 - § 2 ods. 3, § 10 a 25 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 49aa) Zákon č. 330/2007 Z. z. v znení neskorších predpisov.
 
 - 49b) Napríklad § 9 ods. 1 prvá veta Zákonníka práce, § 20 ods. 1 Občianskeho zákonníka.
 
@@ -307,12 +495,6 @@
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 68) § 16 ods. 4 a 5 a § 20 ods. 4 zákona č. 530/1990 Zb. v znení neskorších predpisov.
-
-- 69) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 530/1990 Zb. v znení neskorších predpisov.
-
-- 70) § 22 ods. 3 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 71) § 43b ods. 3 až 6 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
@@ -390,6 +572,8 @@
 
 - § 5 ods. 3 písm. h), i) a l) zákona č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení zákona č. 441/2012 Z. z.
 
+- 86dc) § 4 ods. 2, § 14 ods. 5 a 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. v znení zákona č. 394/2011 Z. z.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
@@ -440,7 +624,9 @@
 
 - 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
-- 89a) Zákon č. 276/2009 Z. z. o opatreniach na zmiernenie vplyvov globálnej finančnej krízy na bankový sektor a o zmene a doplnení niektorých zákonov.
+- 89a) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
+
+- 90) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 92) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 

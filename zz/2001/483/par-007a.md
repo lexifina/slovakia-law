@@ -1,6 +1,6 @@
 # § 7a
 
-(1) Národná banka Slovenska prerokuje žiadosť o udelenie bankového povolenia s orgánom
+(1) Národná banka Slovenska prerokuje žiadosť o udelenie bankového povolenia s príslušným orgánom
 
 - a) dohľadu členského štátu, v ktorom má zahraničná banka sídlo, ak ide o udelenie bankového povolenia podľa § 7 ods. 8 písm. a) až c),
 
