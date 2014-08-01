@@ -14,7 +14,7 @@
 
 - f) nekapitálové cenné papiere vydávané priebežne alebo opakovane bankami alebo zahraničnými bankami, ak tieto cenné papiere
 
-  - 1. nepredstavujú podriadené dlhy alebo nie sú vymeniteľné,
+  - 1. nepredstavujú podriadené dlhy alebo nie sú vymeniteľné za nimi vydané akcie alebo vymeniteľné za akcie iných obchodných spoločností,
 
   - 2. neoprávňujú na upísanie alebo získanie iného druhu cenných papierov a nie sú spojené s derivátovým nástrojom,
 
@@ -26,7 +26,7 @@
 
 - h) nekapitálové cenné papiere vydávané priebežne alebo opakovane bankami alebo zahraničnými bankami, ak je celková hodnota ponuky v Európskej únii nižšia ako 75 000 000 eur, pričom táto hodnota sa vypočíta za obdobie 12 mesiacov, ak tieto cenné papiere
 
-  - 1. nepredstavujú podriadené dlhy alebo nie sú vymeniteľné,
+  - 1. nepredstavujú podriadené dlhy alebo nie sú vymeniteľné za nimi vydané akcie alebo vymeniteľné za akcie iných obchodných spoločností,
 
   - 2. neoprávňujú na upísanie alebo získanie iných druhov cenných papierov a nie sú spojené s derivátovým nástrojom,
 

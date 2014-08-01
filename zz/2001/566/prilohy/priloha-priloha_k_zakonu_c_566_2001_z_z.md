@@ -51,3 +51,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 24. Smernica Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010, ktorou sa menia a dopĺňajú smernice 98/26/ES, 2002/87/ES, 2003/6/ES, 2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES, 2006/49/ES a 2009/65/ES v súvislosti s právomocami Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo), Európskeho orgánu dohľadu (Európskeho orgánu pre poisťovníctvo a dôchodkové poistenie zamestnancov) a Európskeho orgánu dohľadu (Európskeho orgánu pre cenné papiere a trhy) (Ú. v. EÚ L 331, 15. 12. 2010).
 
   - 25. Smernica Európskeho parlamentu a Rady 2011/89/EÚ zo 16. novembra 2011, ktorou sa menia a dopĺňajú smernice 98/78/ES, 2002/87/ES, 2006/48/ES a 2009/138/ES, pokiaľ ide o doplnkový dohľad nad finančnými inštitúciami vo finančnom konglomeráte (Ú. v. EÚ L 326, 8. 12. 2011).
+
+  - 26. Smernica Európskeho parlamentu a Rady 2013/36/EÚ z 26. júna 2013 o prístupe k činnosti úverových inštitúcií a prudenciálnom dohľade nad úverovými inštitúciami a investičnými spoločnosťami, o zmene smernice 2002/87/ES a o zrušení smerníc 2006/48/ES a 2006/49/ES (Ú. v. EÚ L 176, 27. 6. 2013).

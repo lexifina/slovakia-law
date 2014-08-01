@@ -64,6 +64,8 @@
 
 - 24c) § 535 Občianskeho zákonníka.
 
+- 24d) Čl. 4 ods. 1 bod 73 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
 - 26a) § 40 ods. 5 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
@@ -174,6 +176,14 @@
 
 - 56a) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 56aa) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
+
+- 56ab) Čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
+
+- 56ac) § 19a zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 56ad) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
+
 - 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
@@ -216,13 +226,21 @@
 
 - 58hg) § 22a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
 
-- 58i) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 58hh) Čl. 4 ods. 1 bod 118 nariadenia (EÚ) č. 575/2013.
+
+- 58hi) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
 - 58j) § 31 až 33d zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 58ja) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+- 58ja) Čl. 432 nariadenia (EÚ) č. 575/2013.
 
-- § 12 až 34 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+- 58jb) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
+
+- 58jc) Čl. 345 nariadenia (EÚ) č. 575/2013.
+
+- 58jd) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58k) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -476,6 +494,16 @@
 
 - 110e) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, § 13 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
+- 110f) § 47 ods. 9 a § 48 ods. 9 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 110g) § 30 až 32 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 110h) Čl. 366 nariadenia (EÚ) č. 575/2013.
+
+- 110i) § 31 ods. 1 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
+
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
 - 111a) Čl. 24 a 25 nariadenia (ES) č. 1060/2009.
@@ -495,6 +523,16 @@
 - 114b) § 1 až 24, 39a, 39b, § 59 až 64 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 114c) Nariadenie (EÚ) č. 648/2012, nariadenie (EÚ) č. 236/2012.
+
+- 114d) Čl. 377 nariadenia (EÚ) č. 575/2013.
+
+- 114e) § 37 ods. 3 zákona č. 747/2004 Z. z. v znení zákona č. 276/2009 Z. z.
+
+- 114f) § 27 ods. 7 zákona č. 747/2004 Z. z.
+
+- Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 114g) Napríklad Trestný poriadok v znení neskorších predpisov.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
 
@@ -526,8 +564,22 @@
 
 - § 65 ods. 7 zákona č. 483/2001 Z. z.
 
+- 123a) Čl. 4 ods. 1 bod 40 nariadenia (EÚ) č. 575/2013.
+
+- 123b) Nariadenie (EÚ) č. 575/2013.
+
+- 123c) Čl. 10 až 14 nariadenia (EÚ) č. 1093/2010.
+
+- 123d) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 124) § 6 ods. 3 zákona Slovenskej národnej rady č. 149/1975 Zb. o archívnictve v znení neskorších predpisov.
 
 - 125) Zákon č. 659/2007 Z. z.
 
 - 126) § 28a a 31b zákona č. 203/2011 Z. z. o kolektívnom investovaní v znení zákona č. 206/2013 Z. z.
+
+- 127) § 33b ods. 1 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 128) Čl. 92 ods. 3 nariadenia (EÚ) č. 575/2013.
+
+- 129) § 33d ods. 4 zákona č. 483/2001 Z. z. v znení neskorších predpisov.

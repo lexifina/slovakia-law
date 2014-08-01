@@ -4,8 +4,10 @@
 
 - a) nezávisle posudzuje zásady odmeňovania a ich dopadov na riadenie rizika, vlastných zdrojov a likvidity,
 
-- b) zodpovedá za prípravu rozhodnutí týkajúcich sa odmeňovania vrátane tých, ktoré majú dôsledky na riziká a riadenie rizík obchodníka s cennými papiermi, ktoré majú byť prijímané štatutárnym orgánom a
+- b) zodpovedá za prípravu rozhodnutí týkajúcich sa odmeňovania vrátane tých, ktoré majú dôsledky na riziká a riadenie rizík obchodníka s cennými papiermi, ktoré majú byť prijímané štatutárnym orgánom,
 
-- c) zohľadňuje dlhodobé záujmy akcionárov, investorov a iných zainteresovaných strán obchodníka s cennými papiermi pri príprave svojich rozhodnutí.
+- c) zohľadňuje dlhodobé záujmy akcionárov, investorov a iných zainteresovaných strán obchodníka s cennými papiermi pri príprave svojich rozhodnutí a
+
+- d) dozerá na odmeňovanie osôb podľa § 71da ods. 1 písm. a) a b).
 
 (2) Výbor pre odmeňovanie u obchodníka s cennými papiermi pozostáva najmenej z troch členov.
