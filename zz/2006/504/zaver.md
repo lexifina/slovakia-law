@@ -1,1 +1,0 @@
-Ivan Valentovič v. r.
