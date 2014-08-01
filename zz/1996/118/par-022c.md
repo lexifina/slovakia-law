@@ -6,7 +6,7 @@
 
 - b) o systéme ochrany vkladov, ktorý po zmene účasti banky na systéme ochrany vkladov bude zabezpečovať ochranu vkladov uložených v tejto banke, najmä presné označenie tohto systému ochrany vkladov, pravidlá ochrany vkladov v tomto systéme a pravidlá poskytovania náhrad za nedostupné vklady v tomto systéme vrátane miesta a lehôt na uplatňovanie a vyplácanie náhrad; táto informácia musí byť zverejnená v prevádzkových priestoroch banky alebo jej právneho nástupcu a priebežne aktualizovaná nepretržite počas vykonávania bankových činností na území Slovenskej republiky.
 
-(2) Banka, na ktorú sa vzťahuje odsek 1, je pred zmenou svojej účasti na systéme ochrany vkladov podľa odseku 1 povinná
+(2) Banka, na ktorú sa vzťahuje odsek 1, je najmenej 12 mesiacov pred uskutočnením zmeny svojej účasti na systéme ochrany vkladov podľa odseku 1 povinná
 
 - a) písomne oznámiť fondu a Národnej banke Slovenska presný dátum zmeny svojej účasti na systéme ochrany vkladov a preukázať im, že táto zmena sa uskutoční bez zníženia rozsahu ochrany vkladov v porovnaní s ochranou vkladov podľa tohto zákona,
 
