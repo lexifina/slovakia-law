@@ -36,6 +36,8 @@
 
 - 4h) § 10 zákona Národnej rady Slovenskej republiky č. 188/1994 Z. z. o ochrane hospodárskej súťaže.
 
+- 4i) Napríklad zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
+
 - 5) Obchodný zákonník.
 
 - 7) Občiansky zákonník.
@@ -97,6 +99,8 @@
 - 13) § 7 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 14) § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- 15) § 18 ods. 4 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - 1) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 

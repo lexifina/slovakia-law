@@ -50,6 +50,20 @@
 
 - e) určenie podielu na výmenu dlhopisov fondu za akcie fondu.
 
-(5) Prílohu privatizačného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
+(5) Rozhodnutie o privatizácii verejnou ponukou akcií obsahuje
 
-(6) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)
+- a) spôsob privatizácie akcií,
+
+- b) podmienky verejnej ponuky akcií,
+
+- c) ďalšie podmienky určené vládou.
+
+(6) Odsek 4 sa na rozhodnutie o privatizácii verejnou ponukou akcií nepoužije.
+
+(7) V rozhodnutí o privatizácii verejnou ponukou akcií môže vláda spojiť privatizáciu verejnou ponukou akcií s privatizáciou priamym predajom. Rozhodnutie o privatizácii verejnou ponukou akcií v spojení s privatizáciou priamym predajom obsahuje okrem náležitostí uvedených v odseku 5 primerane náležitosti rozhodnutia o privatizácii uvedené v odsekoch 1, 2 a 4.
+
+(8) Vláda môže rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja podľa odsekov 5 a 7.
+
+(9) Prílohu privatizačného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
+
+(10) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)
