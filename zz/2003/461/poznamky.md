@@ -40,6 +40,8 @@
 
 - 26) § 194 zákona č. 311/2001 Z. z.
 
+- 26a) § 31a až 31g zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z.
+
 - 27) § 92 ods. 4 zákona č. 315/2001 Z. z.
 
 - 28) § 8f zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. o bezpečnosti a ochrane zdravia pri práci v znení neskorších predpisov.
@@ -201,6 +203,8 @@
 - 92aa) § 4 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 92aba) 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 92ac) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti organov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, § 6 až 11 a § 34 zákona č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
