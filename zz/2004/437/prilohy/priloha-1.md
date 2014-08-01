@@ -2316,7 +2316,7 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 3. | Chronická choroba z fluóru a z jeho zlúčenín a následky choroby | 240 - 1 200
 
-- 4. | Perforácia nosovej priehradky z chrómu, fluóru alebo iných chemických agresívnych látok | 240 - 500
+- 4. | Perforácia nosovej priehradky z chrómu, alebo iných chemických agresívnych látok | 240 - 500
 
 - 5. | Choroba z ortuti a z jej zlúčenín a následky otravy | 360 - 1 680
 
@@ -2336,11 +2336,11 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 13. | Následky choroby alebo opakované choroby z odstreľových plynov | 240 - 1 200
 
-- 14. | Následky choroby z kyanovodíka a z kyanových zlúčenín | 240 - 900
+- 14. | Následky choroby z kyanovodíka a z kyanidových zlúčenín | 240 - 900
 
 - 15. | Chronická choroba z benzénu a následné choroby | 500 - 3 400
 
-- 16. | Chronická choroba z toluénu alebo z xylénu a následné choroby | 240 - 1 100
+- 16. | Chronická choroba z homológov benzénu a následné choroby | 240 - 1 100
 
 - 17. | Chronická choroba z olova a z jeho zlúčenín a následky choroby | 400 - 1 600
 
@@ -2358,7 +2358,7 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 24. | Chronická choroba z tetrachlórmetánu a následky choroby | 360 - 3 000
 
-- 25. | Chronická choroba z iných halogénovaných uhľovodíkov mastného alebo aromatického radu a následné choroby | 240 - 1 500
+- 25. | Chronická choroba z iných halogénovaných alifatických alebo aromatických uhľovodíkov a následné choroby | 240 - 1 500
 
 - 26. | Chronická choroba z dinitroglykolomu alebo z dinitrodiglykolomu a z iných dusičnatých esterov | 240 - 1 200
 
@@ -2370,7 +2370,7 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 30. | Poškodenie krvotvorby ionizujúcim žiarením | 600 - 6 000
 
-- 31. | Chronická subakútna dermatitis z ionizujúceho žiarenia | 240 - 1 800
+- 31. | Chronická subakútna dermatitída z ionizujúceho žiarenia | 240 - 1 800
 
 - 32. | Trvalé následky akútneho postradiačného syndrómu | 600 - 4 000
 
@@ -2382,7 +2382,7 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 36. | Profesionálna dermatóza | 240 - 1 700
 
-- 37. | Rakovina pľúc a dýchacích ciest z rádioaktívnych látok alebo dočasný chorobný stav, ktorý spôsobuje odôvodnené podozrenie z tohto ochorenia | 4 000 - 6 000
+- 37. | Rakovina pľúc a dýchacích ciest z rádioaktívnych látok | 4 000 - 6 000
 
 - 38. | Tuberkulóza pľúc | 400 - 3 000
 
@@ -2392,7 +2392,7 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 41. | Ostatné mimopľúcne tuberkulózy | 600 - 3 000
 
-- 42. | Následky epidemickej hepatitídy | 600 - 4 000
+- 42. | Chronická hepatitída a následky po hepatitíde. | 600 - 4 000
 
 - 43. | Následky týfu alebo paratýfu a bacilonosičstvo | 240 - 1 000
 
@@ -2402,9 +2402,9 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 46. | Následky kliešťovej encefalitídy | 300 - 3 000
 
-- 47. | Následky ostatných prenosných a parazitárnych chorôb | 300 - 2 400
+- 47. | Následky ostatných prenosných ochorení | 300 - 2 400
 
-- 48. | Následky tropických prenosných a parazitárnych chorôb | 300 - 3 000
+- 48. | Následky tropických prenosných ochorení | 300 - 3 000
 
 - 49. | Trvalé prejavy hyperbarickej alebo hypobarickej choroby | 600 - 3 000
 
@@ -2420,17 +2420,17 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 55. | Azbestóza pľúc | 800 - 4 000
 
-- 56. | Azbestóza v spojení s rakovinou pľúc | 3 000 - 6 000
+- 56. | Azbestóza v spojení s rakovinou pľúc a pleury | 3 000 - 6 000
 
 - 57. | Ochorenie pľúc pri výrobe spekaných karbidov | 800 - 4 000
 
-- 58. | Uhľoskopická pneumokonióza | 800 - 4 000
+- 58. | Uhľokopská pneumokonióza | 800 - 4 000
 
-- 59. | Uhľoskopická pneumokonióza v spojení s tuberkulózou | 1 200 - 4 000
+- 59. | Uhľokopská pneumokonióza v spojení s tuberkulózou | 1 200 - 4 000
 
 - 60. | Rakovina pľúc z chrómu | 4 000 - 8 000
 
-- 61. | Ťažká nedoslýchavosť až hluchota z hluku | 400 - 800
+- 61. | Nedoslýchavosť až hluchota z hluku | 400 - 800
 
 - 62. | Sivý očný zákal z pôsobenia krátkovlnných tepelných lúčov alebo ionizujúceho žiarenia na jednom alebo na oboch očiach | 200 - 400
 
@@ -2440,23 +2440,23 @@ Príloha č. 1 k zákonu č. 437/2004 Z. z.
 
 - 63b | na ľavej hornej končatine (u ľavákov na pravej) | 240 - 700
 
-- 64. | Rozdutie pľúc fúkačov skla | 100 - 600
+- 64. | Rozdutie pľúc | 100 - 600
 
 - 65. | Profesionálna nedomykavosť hlasiviek a uzlíky na hlasivkách | 360 - 1 000
 
-- 66. | Profesionálna asthma bronchiale | 400 - 3 000
+- 66. | Profesionálna asthma bronchiálna | 400 - 3 000
 
 - 67. | Ochorenia kostí, kĺbov, šliach a nervov končatín z dlhodobého, nadmerného a jednostranného zaťaženia | 300 - 1 000
 
 - 68. | Bronchopulmonálne choroby z organického prachu | 300 - 3 000
 
-- 69. | Alergické choroby horných dýchacích ciest (napríklad alergická rinitída) | 300 - 800
+- 69. | Alergické choroby horných dýchacích ciest | 300 - 800
 
 - 70. | Nádorové choroby vznikajúce následkom práce s dokázanými chemickými karcinogénmi alebo pri práci v pracovnom procese s dokázaným rizikom chemickej karcinogenity v príslušných cieľových orgánoch alebo tkanivách, ktoré nie sú uvedené inde | 3 000 - 6 000
 
 - 71. | Infekcia HIV | 2 000 - 3 000
 
-- 72. | Iné poškodenie na zdraví z práce | 60-3 000
+- 72. | Iné poškodenie zdravia z práce | 60-3 000
 
 - POMOCNÉ TABUĽKY
 
