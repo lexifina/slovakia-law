@@ -1,12 +1,12 @@
 Príloha č. 3 k zákonu č. 355/2007 Z. z.
 
-- ZOZNAM CHEMICKÝCH LÁTOK, NA KTORÝCH ODBORNÉ VYUŽÍVANIE SA NEVZŤAHUJÚ USTANOVENIA § 16 ODS. 19 A ODS. 24 PÍSM. A), C) A E) 1. | Kyselina kyanovodíková a jej rozpustné soli
+- ZOZNAM CHEMICKÝCH LÁTOK, NA KTORÝCH ODBORNÉ VYUŽÍVANIE SA NEVZŤAHUJÚ USTANOVENIA § 16 ODS. 19 A ODS. 25 PÍSM. A), C) A E) 1. | Kyselina kyanovodíková a jej rozpustné soli
 
 - 2. | Kyselina fluorovodíková a jej rozpustné soli
 
 - 3. | Akrylonitril
 
-- 4. | Tekuté stlačené amónium
+- 4. | Skvapalnený amoniak (čpavok)
 
 - 5. | Metylbromid
 
@@ -18,6 +18,6 @@ Príloha č. 3 k zákonu č. 355/2007 Z. z.
 
 - 9. | Sírouhlík
 
-- 10. | Fluorid uhličitý
+- 10. | Chlorid uhličitý
 
-- 11. | Trichlóracetonistril
+- 11. | Trichlóracetonitril

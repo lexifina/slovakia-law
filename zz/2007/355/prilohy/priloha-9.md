@@ -49,3 +49,5 @@ Príloha č. 9 k zákonu č. 355/2007 Z. z.
   - 23. Smernica Rady 97/43/Euratom z 30. júna 1997 o ochrane zdravia jednotlivcov pred účinkami ionizujúceho žiarenia na lekárske účely, a ktorou sa zrušuje smernica 84/466/Euratom (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3; Ú. v. ES L 180, 9. 7. 1997).
 
   - 24. Smernica Rady 2003/122/Euratom z 22. decembra 2003 o kontrole zapečatených zdrojov vysoko rádioaktívneho žiarenia a zdrojov zvyškového žiarenia (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 7; Ú. v. EÚ L 346, 31. 12. 2003).
+
+  - 25. Smernica Rady 89/391/EHS z 12. júna 1989 o zavádzaní opatrení na podporu zlepšenia bezpečnosti a ochrany zdravia pracovníkov pri práci (Mimoriadne vydanie Ú. v. EÚ, kap. 5/ zv. 1; Ú. v. ES L 183, 29. 6. 1989) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/ zv. 4; Ú. v. EÚ L 284, 31. 10. 2003), smernice Európskeho parlamentu a Rady 2007/30/ES z 20. júna 2007 (Ú. v. EÚ L 165, 27. 6. 2007) a nariadenia Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 (Ú. v. EÚ L 311, 21. 11. 2008).
