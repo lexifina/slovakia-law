@@ -50,6 +50,8 @@
 
 - 12) § 2 písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
 
+- 12a) § 12 ods. 2 písm. i) zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13) § 80 ods. 3 zákona č. 578/2004 Z. z.
 
 - 14) § 48 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.

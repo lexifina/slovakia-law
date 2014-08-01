@@ -12,7 +12,7 @@
 
 - d) alternatívach k umelému prerušeniu tehotenstva, najmä o možnosti
 
-  - 1. utajenia jej osoby v súvislosti s pôrodom (§ 11 ods. 10),<sup>6a</sup>)
+  - 1. utajenia jej osoby v súvislosti s pôrodom (§ 11 ods. 11),<sup>6a</sup>)
 
   - 2. osvojenia dieťaťa po narodení,<sup>6b</sup>)
 
