@@ -160,7 +160,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 64. | Autorizovaný bezpečnostný technik | osvedčenie autorizovaného bezpečnostného technika | § 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
 
-- 65. | Pracovná zdravotná služba | oprávnenie | § 21 zákona č. 124/2006 Z. z. v znení neskorších predpisov |
+- 65. | Pracovná zdravotná služba | oprávnenie | § 30b zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 204/2014 Z. z. |
 
 - 66. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejného vodovodu I. až III. kategórie alebo – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejnej kanalizácie I. až III. kategórie | § 6 ods. 3 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 230/2005 Z. z. |
 
@@ -170,7 +170,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 69. | Činnosť environmentálneho overovateľa | osvedčenie o akreditácii environmentálneho overovateľa | Čl. 20, 21, 22 a 28 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009). |
 
-- 71. | Kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie alebo Hodnotenie zdravotných rizík zo životného prostredia | osvedčenie o odbornej spôsobilosti | § 15 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 71. | – kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie – hodnotenie vplyvov na verejné zdravie – hodnotenie zdravotných rizík zo životného prostredia – odber vzoriek zo životného prostredia a z pracovného prostredia na účely kvalitatívneho a kvantitatívneho zisťovania faktorov životného prostredia a pracovného prostredia – prácu s dezinfekčnými prípravkami na profesionálne použitie a na prácu s prípravkami na reguláciu živočíšnych škodcov na profesionálne použitie | osvedčenie o odbornej spôsobilosti | § 15 ods. 1 písm. a) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. f) zákona č. 355/2007 Z. z. § 15 ods. 3 písm. b) zákona č. 355/2007 Z. z. |
 
 - 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
@@ -204,12 +204,28 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |
 
-- 87. | Vypracovanie a aktualizácia plánu ochrany obyvateľstva Vypracovanie a aktualizácia plánu ochrany zamestnancov a osôb prevzatých do starostlivosti | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 395/2011 Z. z.
+- 87. | Vypracovanie a aktualizácia plánu ochrany obyvateľstva Vypracovanie a aktualizácia plánu ochrany zamestnancov a osôb prevzatých do starostlivosti | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 395/2011 Z. z. |
 
-- 88. | Vzdelávacia činnosť na úseku civilnej ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 395/2011 Z. z.
+- 88. | Vzdelávacia činnosť na úseku civilnej ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 395/2011 Z. z. |
 
-- 89. | Servis a údržba chladiacich a klimatizačných zariadení a tepelných čerpadiel s obsahom kontrolovanej látky Servis, údržba a revízie protipožiarnych systémov a hasiacich prístrojov s obsahom kontrolovanej látky Kontrola úniku kontrolovaných látok zo zariadení Prevádzkovanie zariadenia na recykláciu kontrolovaných látok alebo na regeneráciu kontrolovaných látok Zhodnotenie kontrolovaných látok a odber kontrolovaných látok vrátane plnenia tlakových nádob na plyny s obsahom kontrolovanej látky Zneškodňovanie kontrolovaných látok vrátane podnikania v oblasti nakladania s odpadmi s obsahom kontrolovanej látky Uvádzanie kontrolovaných látok na trh | certifikát o odbornej spôsobilosti | § 5 ods. 1 zákona č. 321/2012 Z. z. o ochrane ozónovej vrstvy Zeme a o zmene a doplnení niektorých zákonov
+- 89. | Servis a údržba chladiacich a klimatizačných zariadení a tepelných čerpadiel s obsahom kontrolovanej látky Servis, údržba a revízie protipožiarnych systémov a hasiacich prístrojov s obsahom kontrolovanej látky Kontrola úniku kontrolovaných látok zo zariadení Prevádzkovanie zariadenia na recykláciu kontrolovaných látok alebo na regeneráciu kontrolovaných látok Zhodnotenie kontrolovaných látok a odber kontrolovaných látok vrátane plnenia tlakových nádob na plyny s obsahom kontrolovanej látky Zneškodňovanie kontrolovaných látok vrátane podnikania v oblasti nakladania s odpadmi s obsahom kontrolovanej látky Uvádzanie kontrolovaných látok na trh | certifikát o odbornej spôsobilosti | § 5 ods. 1 zákona č. 321/2012 Z. z. o ochrane ozónovej vrstvy Zeme a o zmene a doplnení niektorých zákonov |
 
-- 90. | Činnosť odborníka v oblasti prepravy nebezpečného tovaru | Osvedčenie o osobitných znalostiach | § 5b ods. 2 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z.
+- 90. | Činnosť odborníka v oblasti prepravy nebezpečného tovaru | Osvedčenie o osobitných znalostiach | § 5b ods. 2 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z. |
 
-- 91. | Vykonávanie školení žiadateľov o vydanie osvedčenia o osobitných znalostiach | Poverenie | § 5b ods. 3 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z.
+- 91. | Vykonávanie školení žiadateľov o vydanie osvedčenia o osobitných znalostiach | Poverenie | § 5b ods. 3 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z. |
+
+- 92. | Dohľad nad pracovnými podmienkami | – vysokoškolské vzdelanie druhého stupňa v magisterskom študijnom programe v študijnom odbore verejné zdravotníctvo | § 30a ods. 4 písm. c), § 63d ods. 6 a 7 zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z. |
+
+- | | – vysokoškolské vzdelanie prvého stupňa v bakalárskom študijnom programe v študijnom odbore verejné zdravotníctvo | |
+
+- | | – diplomovaný asistent hygieny a epidemiológie | |
+
+- | | – asistent hygieny a epidemiológie | |
+
+- | | – asistent hygienickej služby | |
+
+- | | – iný zdravotnícky pracovník so špecializáciou v špecializačnom odbore hygiena pracovných podmienok podľa predpisov účinných do 30. júna 2010 | |
+
+- | | – iný zdravotnícky pracovník so špecializáciou v špecializačnom odbore hygiena životného a pracovného prostredia podľa predpisov účinných do 28. marca 2002 | |
+
+- 93. | Odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb pri búracích prácach, údržbárskych prácach, opravách a iných činnostiach | Oprávnenie na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb | § 41 zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z. |
