@@ -3182,33 +3182,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j) | Vydanie duplikátu osvedčenia podľa písmena i) ..... | | 10 eur
 
-  - k) | Vydanie povolenia Úradu verejného zdravotníctva Slovenskej republiky na použitie inej látky v kozmetických výrobkoch ako látky uvedenej v zoznamoch povolených látok ..... | | 995,50 eura
+  - k) | Vydanie osobného radiačného preukazu ..... | | 20 eur
 
-  - l) | Vydanie povolenia Úradu verejného zdravotníctva Slovenskej republiky na neuvedenie látky v zozname zložiek v označení kozmetických výrobkov z dôvodu ochrany obchodného tajomstva ..... | | 663,50 eura
+  - l) | Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba</sup>)..... | | 500 eur
 
-  - m) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o povolení výnimky zo zákazu testovať zložky alebo kombináciu zložiek kozmetického výrobku na zvieratách ..... | | 663,50 eura
+  - m) | Zmena oprávnenia podľa písmena l) ..... | | 100 eur
 
-  - n) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o povolení výnimky zo zákazu testovať konečný kozmetický výrobok alebo jeho prototyp na zvieratách ..... | | 663,50 eura
+  - n) | Vydanie duplikátu oprávnenia podľa písmen l) a m) ..... | | 20 eur
 
-  - o) | Predĺženie platnosti povolenia podľa písmen k) a l) ..... | | 33 eur
+  - o) | Vydanie oprávnenia na výkon pracovnej zdravotnej služby<sup>36bb</sup>)..... | | 500 eur
 
-  - p) | Vydanie osobného radiačného preukazu ..... | | 20 eur
+  - p) | Zmena oprávnenia podľa písmena o) ..... | | 100 eur
 
-  - q) | Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba</sup>)..... | | 500 eur
+  - q) | Vydanie duplikátu oprávnenia podľa písmen o) a p) ..... | | 20 eur
 
-  - r) | Zmena oprávnenia podľa písmena q) ..... | | 100 eur
+  - r) | Vydanie povolenia na zaobchádzanie s vysoko rizikovými biologickými agensmi a toxínmi<sup>36bc</sup>)..... | | 500 eur
 
-  - s) | Vydanie duplikátu oprávnenia podľa písmen q) a r) ..... | | 20 eur
-
-  - t) | Vydanie oprávnenia na výkon pracovnej zdravotnej služby<sup>36bb</sup>)..... | | 500 eur
-
-  - u) | Zmena oprávnenia podľa písmena t) ..... | | 100 eur
-
-  - v) | Vydanie duplikátu oprávnenia podľa písmen t) a u) ..... | | 20 eur
-
-  - w) | Vydanie povolenia na zaobchádzanie s vysoko rizikovými biologickými agensmi a toxínmi<sup>36bc</sup>)..... | | 500 eur
-
-  - x) | Vydanie povolenia na činnosti vedúce k ožiareniu | |
+  - s) | Vydanie povolenia na činnosti vedúce k ožiareniu | |
 
   - | 1. | za jeden röntgenový prístroj ..... | 300 eur
 
@@ -3238,23 +3228,23 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 14. | za povolenie prepravy iných rádioaktívnych žiaričov a iných prepráv rádioaktívnych látok ..... | 200 eur
 
-  - y) | Vydanie povolenia na činnosti dôležité z hľadiska radiačnej ochrany ..... | |
+  - t) | Vydanie povolenia na činnosti dôležité z hľadiska radiačnej ochrany ..... | |
 
   - | 1. | za jednu povoľovanú činnosť ..... | 300 eur
 
   - | 2. | za každú ďalšiu povoľovanú činnosť ..... | 150 eur
 
-  - z) | Vydanie povolenia na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | | 300 eur
+  - u) | Vydanie povolenia na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | | 300 eur
 
-  - aa) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o tom, či sa na činnosť vzťahuje oznamovacia povinnosť alebo potreba povolenia ..... | | 300 eur
+  - v) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o tom, či sa na činnosť vzťahuje oznamovacia povinnosť alebo potreba povolenia ..... | | 300 eur
 
-  - ab) | Vyhotovenie duplikátu povolenia podľa písmen x) až z) a duplikátu rozhodnutia alebo záväzného stanoviska podľa písmen aa) a ae) ..... | | 10 eur
+  - w) | Vyhotovenie duplikátu povolenia podľa písmen s) až u) a duplikátu rozhodnutia alebo záväzného stanoviska podľa písmen v) a z) ..... | | 10 eur
 
-  - ac) | Vydanie potvrdenia Úradu verejného zdravotníctva Slovenskej republiky o zaevidovaní oznamovanej činnosti ..... | | 30 eur
+  - x) | Vydanie potvrdenia Úradu verejného zdravotníctva Slovenskej republiky o zaevidovaní oznamovanej činnosti ..... | | 30 eur
 
-  - ad) | Zrušenie povolenia podľa písmen x) a y), ak držiteľ požiada o jeho zrušenie ..... | | 30 eur
+  - y) | Zrušenie povolenia podľa písmen s) a t), ak držiteľ požiada o jeho zrušenie ..... | | 30 eur
 
-  - ae) | Vydanie rozhodnutia alebo záväzného stanoviska v oblasti radiačnej ochrany ..... | |
+  - z) | Vydanie rozhodnutia alebo záväzného stanoviska v oblasti radiačnej ochrany ..... | |
 
   - | 1. | ktoré je v kompetencii výlučne Úradu verejného zdravotníctva Slovenskej republiky ..... | 200 eur
 
@@ -3262,27 +3252,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | týkajúceho sa jadrových zariadení ..... | 1 000 eur
 
-  - af) | Zmena povolenia podľa písmen x) a y) z dôvodu | |
+  - aa) | Zmena povolenia podľa písmen s) a t) z dôvodu | |
 
   - | 1. | zmeny odborného zástupcu, zmeny obchodného mena, právnej formy alebo sídla, ak ide o právnickú osobu, alebo zmeny obchodného mena alebo miesta podnikania, ak ide o fyzickú osobu – podnikateľa v povolení na činnosti vedúce k ožiareniu, na činnosti dôležité z hľadiska radiačnej ochrany alebo na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | 30 eur
 
-  - | 2. | zmeny miesta vykonávania činnosti, typu alebo počtu používaných zdrojov ionizujúceho žiarenia alebo technologického zariadenia pracoviska dôležitého z hľadiska radiačnej ochrany za každý zdroj ionizujúceho žiarenia – poplatok sa vyberá podľa písmena x) bodov 2, 4, 5, 8, 9, 11, 13 a 14 |
+  - | 2. | zmeny miesta vykonávania činnosti, typu alebo počtu používaných zdrojov ionizujúceho žiarenia alebo technologického zariadenia pracoviska dôležitého z hľadiska radiačnej ochrany za každý zdroj ionizujúceho žiarenia – poplatok sa vyberá podľa písmena s) bodov 2, 4, 5, 8, 9, 11, 13 a 14 |
 
-  - | 3. | zmeny podľa bodu 2, ak jej predchádzalo vydanie rozhodnutia podľa písmena ae) ..... | 30 eur
+  - | 3. | zmeny podľa bodu 2, ak jej predchádzalo vydanie rozhodnutia podľa písmena z) ..... | 30 eur
 
-  - ag) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
+  - ab) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
 
-  - ah) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
+  - ac) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
 
-  - ai) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
+  - ad) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ... | | 100 eur
 
-  - aj) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - ae) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - ak) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - af) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - al) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+  - ag) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
 
-  - am) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
+  - ah) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
 
     - Položka 150a
 
