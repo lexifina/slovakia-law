@@ -1,8 +1,6 @@
-- 1) Čl. 102 ods. 2 nariadenia Rady (ES) č. 1234/2007 z 22. októbra 2007 o vytvorení spoločnej organizácie poľnohospodárskych trhov a osobitných ustanoveniach pre určité poľnohospodárske výrobky (nariadenie o jednotnej spoločnej organizácii trhov) (Ú. v. EÚ L 299, 16. 11. 2007) v platnom znení.
+- 1) Čl. 26 ods. 1 a 5 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami, a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
 
-- 2) Čl. 102 nariadenia (ES) č. 1234/2007.
-
-- Čl. 3 nariadenia Komisie (ES) č. 657/2008 z 10. júla 2008, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní mlieka a určitých mliečnych výrobkov žiakom vo vzdelávacích inštitúciách (Ú. v. EÚ L 183, 11. 7. 2008).
+- 2) Príloha I nariadenia Komisie (ES) č. 657/2008 z 10. júla 2008, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní mlieka a určitých mliečnych výrobkov žiakom vo vzdelávacích inštitúciách (Ú. v. EÚ L 183, 11. 7. 2008) v platnom znení.
 
 - 3) § 28 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
@@ -18,13 +16,11 @@
 
 - 9) Čl. 16 nariadenia (ES) č. 657/2008.
 
-- 10) Čl. 102 ods. 4 nariadenia (ES) č. 1234/2007.
+- 10) Čl. 6 ods. 1 nariadenia Rady (EÚ) č. 1370/2013 zo 16. decembra 2013, ktorým sa určujú opatrenia týkajúce sa stanovovania niektorých druhov pomoci a náhrad súvisiacich so spoločnou organizáciou trhov s poľnohospodárskymi výrobkami (Ú. v. EÚ L 346, 20. 12. 2013).
 
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, výnos Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky zo 14. augusta 2006 č. 2143/2006-100, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca mlieko a výrobky z mlieka, nariadenie Európskeho parlamentu a Rady (ES) č. 852/2004 z 29. apríla 2004 o hygiene potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 34), nariadenie Európskeho parlamentu a Rady (ES) č. 853/2004 z 29. apríla 2004, ktorým sa ustanovujú osobitné hygienické predpisy pre potraviny živočíšneho pôvodu (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 45) v platnom znení, čl. 3 a príloha I nariadenia (ES) č. 657/2008, zákon č. 543/2007 Z. z., zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) Čl. 102 ods. 3 nariadenia (ES) č. 1234/2007.
-
-- Čl. 4 nariadenia (ES) č. 657/2008.
+- 12) Čl. 6 ods. 2 nariadenia (EÚ) č. 1370/2013.
 
 - 13) Čl. 6 nariadenia (ES) č. 657/2008.
 
