@@ -1,43 +1,21 @@
-Príloha č. 2 k nariadeniu vlády č. 341/2009 Z. z.
+Príloha č. 2 k nariadeniu vlády č. 341/2014 Z. z.
 
-- Zoznam vykonávaných právne záväzných aktov Európskej únie
+- ZOZNAM VYKONÁVANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
-  - 1. Nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní Spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209/1, 11. 8. 2005) v znení
+  - 1. Nariadenie Komisie (ES) č. 288/2009 zo 7. apríla 2009, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní ovocia, zeleniny, spracovaného ovocia a zeleniny a výrobkov z banánov deťom vo vzdelávacích zariadeniach v rámci programu podpory konzumácie ovocia v školách (Ú. v. EÚ L 94, 8. 4. 2009) v znení
 
-  - – nariadenia Rady (ES) č. 320/2006 z 20. februára 2006 (Ú. v. EÚ L 58, 28. 2. 2006),
+  - – nariadenia Komisie (EÚ) č. 34/2011 z 18. januára 2011, ktorým sa mení a dopĺňa nariadenie (ES) č. 288/2009, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní ovocia a zeleniny, spracovaného ovocia a zeleniny a výrobkov z banánov deťom vo vzdelávacích zariadeniach v rámci programu podpory konzumácie ovocia v školách (Ú. v. EÚ L 94, 8. 4. 2009),
 
-  - – nariadenia Rady (ES) č. 378/2007 z 27. marca 2007 (Ú. v. EÚ L 95, 5. 4. 2007),
+  - – vykonávacieho nariadenia Komisie (EÚ) č. 1208/2011 z 22. novembra 2011, ktorým sa mení a dopĺňa nariadenie (ES) č. 288/2009, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní ovocia a zeleniny, spracovaného ovocia a zeleniny a výrobkov z banánov deťom vo vzdelávacích zariadeniach v rámci programu podpory konzumácie ovocia v školách (Ú. v. EÚ L 305, 23. 11. 2011),
 
-  - – nariadenia Rady (ES) č. 1437/2007 z 26. novembra 2007 (Ú. v. EÚ L 322, 7. 12. 2007),
+  - – vykonávacieho nariadenia Komisie (EÚ) č. 30/2013 zo 17. januára 2013, ktorým sa mení a dopĺňa nariadenie (ES) č. 288/2009, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní ovocia a zeleniny, spracovaného ovocia a zeleniny a výrobkov z banánov deťom vo vzdelávacích zariadeniach v rámci programu podpory konzumácie ovocia v školách, a ktorým sa zavádza výnimka z nariadenia (ES) č. 288/2009 (Ú. v. EÚ L 14, 18. 1. 2013),
 
-  - – nariadenia Rady (ES) č. 479/2008 z 29. apríla 2008 (Ú. v. EÚ L 148, 6. 6. 2008),
+  - – vykonávacieho nariadenia Komisie (EÚ) č. 221/2014 zo 7. marca 2014, ktorým sa mení nariadenie (ES) č. 288/2009, pokiaľ ide o stanovenie orientačného rozdelenia pomoci v rámci programu podpory konzumácie ovocia a zeleniny v školách (Ú. v. EÚ L 69, 8. 3. 2014),
 
-  - – nariadenia Rady (ES) č. 13/2009 z 18. decembra 2008 (Ú. v. EÚ, L 5, 9. 1. 2009),
+  - – delegovaného nariadenia Komisie (EÚ) č. 500/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zmenou nariadenia Komisie (ES) č. 288/2009, pokiaľ ide o poskytovanie pomoci na sprievodné opatrenia v rámci programu podpory konzumácie ovocia a zeleniny v školách (Ú. v. EÚ L 145, 16. 5. 2014).
 
-  - – nariadenia Rady (ES) č. 72/2009 z 19. januára 2009 (Ú. v. EÚ L 30, 31. 1. 2009),
+  - 2. Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami, a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. ES L 347, 20. 12. 2013) v znení
 
-  - – nariadenia Rady (ES) č. 73/2009 z 19. januára 2009 (Ú. v. EÚ L 30, 31. 1. 2009),
+  - – nariadenia Európskeho parlamentu a Rady (EÚ) č. 1310/2013 zo 17. decembra 2013, ktorým sa stanovujú niektoré prechodné ustanovenia o podpore rozvoja vidieka z Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) a ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1305/2013, pokiaľ ide o zdroje a ich rozdeľovanie na rok 2014, a ktorým sa mení nariadenie Rady (ES) č. 73/2009 a nariadenia Európskeho parlamentu a Rady (EÚ) č. 1307/2013, (EÚ) č. 1306/2013 a (EÚ) č. 1308/2013, pokiaľ ide o ich uplatňovanie v roku 2014 (Ú. v. EÚ L 347, 20. 12. 2013).
 
-  - – nariadenia Rady (ES) č. 473/2009 z 25. mája 2009 (Ú. v. EÚ L 144, 9. 6. 2009).
-
-  - 2. Nariadenie Rady (ES) č. 1234/2007 z 22. októbra 2007 o vytvorení spoločnej organizácie poľnohospodárskych trhov a o osobitných ustanoveniach pre určité poľnohospodárske výrobky (nariadenie o jednotnej spoločnej organizácii trhov) (Ú. v. EÚ L 299, 16. 11. 2007) v znení
-
-  - – nariadenia Rady (ES) č. 247/2008 zo 17. marca 2008 (Ú. v. EÚ L 76, 19. 3. 2008),
-
-  - – nariadenia Rady (ES) č. 248/2008 zo 17. marca 2008 (Ú. v. EÚ, L 76, 19. 3. 2008),
-
-  - – nariadenia Rady (ES) č. 361/2008 zo 14. apríla 2008 (Ú. v. EÚ, L 121, 7. 5. 2008),
-
-  - – nariadenia Rady (ES) č. 470/2008 z 26. mája 2008 (Ú. v. EÚ, L 140, 30. 5. 2008),
-
-  - – nariadenia Komisie (ES) č. 510/2008 zo 6. júna 2008 (Ú. v. EÚ, L 149, 7. 6. 2008),
-
-  - – nariadenia Rady (ES) č. 13/2009 z 18. decembra 2008 (Ú. v. EÚ L 5, 9. 1. 2009),
-
-  - – nariadenia Rady (ES) č. 72/2009 z 19. januára 2009 (Ú. v. EÚ L 30, 31. 1. 2009),
-
-  - – nariadenia Komisie (ES) č. 183/2009 zo 6. marca 2009 (Ú. v. EÚ L 63, 7. 3. 2009),
-
-  - – nariadenia Rady (ES) č. 491/2009 z 25. mája 2009 (Ú. v. EÚ L 154, 17. 6. 2009).
-
-  - 3. Nariadenie Komisie (ES) č. 288/2009 zo 7. apríla 2009, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1234/2007, pokiaľ ide o pomoc Spoločenstva pri poskytovaní ovocia, zeleniny, spracovaného ovocia a zeleniny a výrobkov z banánov deťom vo vzdelávacích zariadeniach v rámci programu podpory konzumácie ovocia v školách (Ú. v. EÚ L 94, 8. 4. 2009).
+  - 3. Nariadenie Rady (EÚ) č. 1370/2013 zo 16. decembra 2013, ktorým sa určujú opatrenia týkajúce sa stanovovania niektorých druhov pomoci a náhrad súvisiacich so spoločnou organizáciou trhov s poľnohospodárskymi výrobkami (Ú. v. EÚ L 346, 20. 12. 2013).
