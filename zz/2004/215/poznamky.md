@@ -1,4 +1,6 @@
-- 1) Napríklad § 17 Obchodného zákonníka, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23, 23a a 23b zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
+- 1) Čl. 141a ods. 5 písm. b), čl. 141a ods. 9 a čl. 154d ods. 1 Ústavy Slovenskej republiky v znení neskorších predpisov.
+
+- 1a) Napríklad § 17 Obchodného zákonníka, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23, 23a a 23b zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 2) § 89 ods. 9 Trestného zákona v znení neskorších predpisov.
 
@@ -26,7 +28,7 @@
 
 - 13a) Ústavný zákon č. 254/2006 Z. z. o zriadení a činnosti výboru Národnej rady Slovenskej republiky na preskúmavanie rozhodnutí Národného bezpečnostného úradu.
 
-- 14) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
+- 14) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
 - 15) Napríklad zákon č. 335/1991 Zb. v znení neskorších predpisov, zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
@@ -65,6 +67,10 @@
 - 27) § 11 vyhlášky Ministerstva obrany Slovenskej republiky č.177/1996 Z. z. o vykonávaní geodetických a kartografických činností pre potreby obrany štátu.
 
 - 28) § 61 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 28a) § 27ga ods. 7 a § 31 ods. 7 zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
+
+- 28b) § 5 ods. 7 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
 
 - 29) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
