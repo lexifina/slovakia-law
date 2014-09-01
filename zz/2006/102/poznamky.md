@@ -4,7 +4,7 @@
 
 - 2) § 4 ods. 3 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
-- § 5 ods. 4 písm. h) až j) a l) až ac) zákona č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 4 ods. 3 písm. d) až g), i) až q) a s) až u) zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 3) § 3 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -24,7 +24,7 @@
 
 - 9) Napríklad § 24 zákona č. 36/2005 Z. z. o rodine a o zmene a o doplnení niektorých zákonov.
 
-- 9a) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
+- 9a) § 9 ods. 3 zákona č. 417/2013 Z. z.
 
 - 9b) § 2 ods. 3 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -44,8 +44,8 @@
 
 - 12) § 4 ods. 5 písm. a) zákona č. 600/2003 Z. z.
 
-- 13) Zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
+- 13) § 9 zákona č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov.
 
-- 14) Zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+- 14) § 2a ods. 2 zákona č. 514/2009 Z. z. o doprave na dráhach v znení zákona č. 432/2013 Z. z.
 
 - 15) § 109 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
