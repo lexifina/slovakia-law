@@ -1,0 +1,1 @@
+- 1) Výnos Ministerstva financií Slovenskej republiky č. MF/013261/2008-132 o štandardoch pre informačné systémy verejnej správy (oznámenie č. 358/2008 Z. z.).
