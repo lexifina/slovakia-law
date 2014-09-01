@@ -1,0 +1,5 @@
+# Čl. VII
+
+Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z., zákona č. 562/2004 Z. z., zákona č. 24/2007 Z. z., zákona č. 657/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 477/2008 Z. z., zákona č. 160/2009 Z. z., zákona č. 487/2009 Z. z., zákona č. 136/2010 Z. z., zákona č. 547/2011 Z. z., zákona č. 9/2013 Z. z. a zákona č. 354/2013 Z. z. sa mení a dopĺňa takto:
+
+- V § 12 ods. 3 štvrtá veta znie: „Ak žiadateľ žiada o vydanie elektronickej podoby výpisu z obchodného registra, vydá ho registrový súd elektronickými prostriedkami<sup>21</sup>) podpísaný zaručeným elektronickým podpisom podľa odseku 10 bezodkladne po doručení žiadosti elektronickými prostriedkami, a to bezodplatne.“ a na konci sa pripája nová veta, ktorá znie: „Ak žiadateľ žiada o vydanie elektronickej podoby potvrdenia o tom, že v obchodnom registri určitý zápis nie je, vydá ho registrový súd elektronickými prostriedkami<sup>21</sup>) podpísané zaručeným elektronickým podpisom podľa odseku 10 do dvoch pracovných dní odo dňa, keď súdu prišla informácia o zaplatení súdneho poplatku.“.
