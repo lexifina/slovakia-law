@@ -2,6 +2,96 @@
 
 Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 462/2008 Z. z., zákona č. 37/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 37/2011 Z. z., zákona č. 390/2011 Z. z., zákona č. 324/2012 Z. z. a zákona č. 125/2013 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 11 odsek 3 znie:
+
+- „(3)
+
+- Pedagogickú dokumentáciu tvoria
+
+- a)
+
+- triedna kniha,
+
+- b)
+
+- triedny výkaz,
+
+- c)
+
+- katalógový list žiaka,
+
+- d)
+
+- osobný spis dieťaťa,
+
+- e)
+
+- denník evidencie odborného výcviku,
+
+- f)
+
+- protokol o maturitnej skúške,
+
+- g)
+
+- protokol o záverečnej skúške,
+
+- h)
+
+- protokol o absolutóriu,
+
+- i)
+
+- protokol o komisionálnych skúškach,
+
+- j)
+
+- denný záznam školského zariadenia,
+
+- k)
+
+- protokol o štátnej jazykovej skúške,
+
+- l)
+
+- denník výchovnej skupiny,
+
+- m)
+
+- rozvrh hodín,
+
+- n)
+
+- školský poriadok.“.
+
+- 2. V § 11 sa vypúšťa odsek 4.
+
+- Doterajšie odseky 5 až 12 sa označujú ako odseky 4 až 11.
+
+- 3. V § 11 ods. 4 sa slová „ písm. g) až s)“ nahrádzajú slovami „písm. a) až k)“.
+
+- 4. V § 11 ods. 6 písm. b) sa slová „telefónny kontakt“ nahrádzajú slovami „kontakt na účely komunikácie“.
+
+- 5. V § 11 ods. 7 sa slová „odseku 7“ nahrádzajú slovami „odseku 6“.
+
+- 6. V § 11 odsek 9 znie:
+
+- „(9)
+
+- Ďalšiu dokumentáciu tvorí najmä
+
+- a)
+
+- návrh na vzdelávanie dieťaťa alebo žiaka so špeciálnymi výchovno-vzdelávacími potrebami v materskej škole, v základnej škole, v strednej škole a v špeciálnej škole,
+
+- b)
+
+- organizačný poriadok.“.
+
+- 7. V § 11 ods. 10 sa slová „odseku 10 písm. a), b), c) a d)“ nahrádzajú slovami „odseku 9 písm. a)“.
+
+- 8. V § 11 ods. 11 sa slová „odseku 10“ nahrádzajú slovami „odseku 9“.
+
 - 9. V § 29 odsek 5 znie:
 
 - „(5)
@@ -87,6 +177,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - „61)
 
 - § 4 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 96/2013 Z. z.“.
+
+- 24. V § 108 ods. 1 sa slová „§ 11 ods. 10 písm. a)“ nahrádzajú slovami „§ 11 ods. 9 písm. a)“.
 
 - 25. V § 110 ods. 5 sa slová „§ 89 ods. 7 až 10“ nahrádzajú slovami „§ 89 ods. 7“.
 
