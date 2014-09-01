@@ -318,11 +318,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 24b |
 
-- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadku |
-
-- 1. v listinnej podobe | 6,50 eura,
-
-- 2. v elektronickej podobe | 0,33 eura,
+- a) Za vyhotovenie a vydanie výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 200b ods. 4 Občianskeho súdneho poriadkuv listinnej podobe | 6,50 eura,
 
 - b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 0,33 eura, najmenej 1,50 eura,
 
@@ -332,7 +328,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - e) za zaslanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín elektronickými prostriedkami | 0,33 eura,
 
-- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodliehajú. |
+- Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 200b ods. 4 Občianskeho súdneho poriadku, poplatku nepodliehajú. Vyhotovenie a vydanie výpisu z obchodného registra v elektronickej podobe poplatku nepodlieha. |
 
 - Položka 24c |
 
