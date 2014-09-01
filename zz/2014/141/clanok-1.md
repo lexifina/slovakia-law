@@ -68,11 +68,39 @@ Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávaj�
 
 - 3.
 
-- opakujúce sa plnenie v percentách za rok sa vynásobí podielom sumy, z ktorej sa vypočítava plnenie, a sumy zmluvne dohodnutých peňažných prostriedkov.“.
+- opakujúce sa plnenie v percentách za rok sa vynásobí podielom sumy, z ktorej sa vypočítava plnenie, a sumy zmluvne dohodnutých peňažných prostriedkov.
+
+- (4)
+
+- Na účely stanovenia najvyššej prípustnej výšky odplaty podľa § 1a sa použije priemerná hodnota ročnej percentuálnej miery nákladov bánk a pobočiek zahraničných bánk pre jednotlivé typy novoposkytnutých spotrebiteľských úverov zverejnená podľa osobitného predpisu,<sup>2a</sup>) naposledy v čase predchádzajúcom uzavretiu spotrebiteľskej zmluvy.“.
 
 - 3. Za § 1 sa vkladajú § 1a až 1c, ktoré vrátane nadpisov znejú:
 
-- „§ 1c
+- „§ 1a
+
+- Najvyššia prípustná výška odplaty (k § 53 ods. 6)
+
+- (1)
+
+- Ak odseky 2 a 3 neustanovujú inak, odplata pri poskytnutí peňažných prostriedkov spotrebiteľovi nesmie prevýšiť dvojnásobok priemernej ročnej percentuálnej miery nákladov podľa § 1 ods. 4 pri obdobnom úvere alebo pôžičke ročne. Na účely tohto nariadenia vlády sa obdobným úverom alebo pôžičkou rozumie obdobný produkt, ktorý je svojou povahou najbližší forme poskytnutia peňažných prostriedkov spotrebiteľovi podľa predchádzajúcej vety.
+
+- (2)
+
+- Ak ide o poskytnutie peňažných prostriedkov spotrebiteľovi na obdobie kratšie ako tri mesiace alebo o poskytnutie peňažných prostriedkov spotrebiteľovi, ktorých výška nepresiahne 100 eur, je najvyššia prípustná výška odplaty zo sumy zmluvne dohodnutých peňažných prostriedkov 30 % ročne.
+
+- (3)
+
+- Ak ide o poskytnutie peňažných prostriedkov spotrebiteľovi na nájom a kúpu veci, ktorú spotrebiteľ užíva s právom jej kúpy po uplynutí dojednaného času užívania (lízing), a súčasťou odplaty je aj havarijné poistenie, je najvyššia prípustná výška odplaty 2,5-násobok priemernej ročnej percentuálnej miery nákladov podľa § 1 ods. 4 ročne.
+
+- (4)
+
+- Najvyššia prípustná výška odplaty sa posudzuje podľa pravidiel uvedených v odsekoch 1 až 3 ku dňu uzavretia spotrebiteľskej zmluvy, ktorej predmetom je poskytnutie peňažných prostriedkov spotrebiteľovi.
+
+- (5)
+
+- Sumy alebo percentá vypočítané podľa tohto nariadenia vlády sa zaokrúhľujú na dve desatinné miesta nahor.
+
+- § 1c
 
 - Zodpovednosť za škodu spôsobenú na vnesených alebo odložených veciach (k § 434 ods. 1)
 
