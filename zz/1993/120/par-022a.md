@@ -1,4 +1,4 @@
-## SIEDMA ČASŤ
+## ÔSMA ČASŤ
 
 ## Platové pomery generálneho prokurátora Slovenskej republiky
 
