@@ -102,6 +102,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | v cudzom jazyku ..... | 8 eur
 
+  - m) | vyhotovenie výstupu z informačného systému Obchodný register okresným úradom ..... | 4 eurá
+
   - Oslobodenie Od poplatkov podľa písmen a) a b) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. Od poplatkov podľa písmena e) sú oslobodené úkony týkajúce sa dokladov o získaných špecializáciách zdravotníckych pracovníkov. | |
 
   - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena a) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
