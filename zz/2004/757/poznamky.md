@@ -38,20 +38,6 @@
 
 - 17) § 17 ods. 1 Trestného poriadku.
 
-- 17a) § 14 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17b) § 12 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17c) § 12a zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17d) § 22 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17e) § 24 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17f) § 13 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
-- 17g) § 17 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
-
 - 18) § 116 ods. 2 písm. c) zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
 - 18a) § 30 zákona č. 385/2000 Z. z.
@@ -61,6 +47,10 @@
 - Trestný poriadok.
 
 - 19) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+
+- 19a) § 24 ods. 4 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 19b) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 20) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
