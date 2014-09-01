@@ -76,6 +76,104 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
 - Finančné riaditeľstvo súčasne so zoznamom podľa odseku 6 zverejňuje aj zoznam vymazaných platiteľov dane z pridanej hodnoty, v ktorom sa okrem údajov uvedených v odseku 6 uvedie dátum výmazu platiteľa dane z pridanej hodnoty zo zoznamu podľa odseku 6, ak nastali skutočnosti podľa odseku 7.“.
 
+- 13. Za § 53 sa vkladajú § 53a až 53c, ktoré vrátane nadpisu nad § 53a znejú:
+
+- „Záväzné stanovisko
+
+- § 53a
+
+- (1)
+
+- Daňový subjekt môže písomne požiadať finančné riaditeľstvo o záväzné stanovisko k uplatneniu daňových predpisov. Rozsah daňových predpisov, ku ktorých uplatneniu možno vydať záväzné stanovisko, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
+
+- (2)
+
+- Žiadosť o záväzné stanovisko musí obsahovať podrobný popis skutočností, ktoré nastanú alebo sú očakávané a ktoré budú podkladom na vydanie záväzného stanoviska. V žiadosti daňový subjekt uvedie aj návrh na uplatnenie postupu podľa príslušných ustanovení daňových predpisov, právne posúdenie a sumu predpokladaného obchodného prípadu.
+
+- (3)
+
+- Ak žiadosť daňového subjektu neobsahuje predpísané náležitosti alebo ak skutočnosti, ku ktorým má byť záväzné stanovisko vydané, nie sú pre posúdenie dostatočné, finančné riaditeľstvo vyzve daňový subjekt v lehote do siedmich pracovných dní od doručenia žiadosti, aby v lehote do ôsmich pracovných dní od doručenia výzvy doplnil svoje podanie v požadovanom rozsahu. Ak daňový subjekt výzve finančného riaditeľstva nevyhovie v plnom rozsahu a v určenej lehote, považuje sa táto žiadosť za nepodanú a finančné riaditeľstvo oznámi túto skutočnosť daňovému subjektu.
+
+- (4)
+
+- Finančné riaditeľstvo záväzné stanovisko nevydá, ak na vydanie záväzného stanoviska je potrebné uplatniť právny predpis iného štátu alebo ak daňový subjekt žiada o záväzné stanovisko ku skutočnostiam, ktoré nastali v zdaňovacom období, za ktoré bolo podané daňové priznanie; o nevydaní záväzného stanoviska finančné riaditeľstvo informuje daňový subjekt.
+
+- (5)
+
+- Finančné riaditeľstvo vydá daňovému subjektu záväzné stanovisko v lehote 60 dní od doručenia žiadosti alebo od jej doplnenia na základe výzvy podľa odseku 3. Ak vzhľadom na zložitosť prípadu nemožno vydať záväzné stanovisko do 60 dní, finančné riaditeľstvo oznámi túto skutočnosť daňovému subjektu a požiada ho o vyjadrenie, či súhlasí s vydaním záväzného stanoviska v ním navrhnutej predĺženej lehote, pričom táto lehota nemôže presiahnuť šesť kalendárnych mesiacov odo dňa doručenia žiadosti, alebo od jej doplnenia na základe výzvy podľa odseku 3.
+
+- (6)
+
+- Ak daňový subjekt oznámi finančnému riaditeľstvu v lehote do ôsmich pracovných dní od doručenia oznámenia podľa odseku 5, že nesúhlasí s predĺžením lehoty na vydanie záväzného stanoviska, alebo ak sa v tejto lehote nevyjadrí, žiadosť sa považuje za späťvzatú.
+
+- (7)
+
+- Záväzné stanovisko obsahuje stanovisko ku všetkým v žiadosti uvedeným skutočnostiam a časový a vecný rozsah záväznosti.
+
+- (8)
+
+- Záväzné stanovisko je záväzné pre správcu dane a druhostupňový orgán. Záväzné stanovisko nezaväzuje správcu dane ani druhostupňový orgán, ak daňový subjekt, ktorému bolo vydané záväzné stanovisko, neuplatnil postup uvedený v záväznom stanovisku alebo ak sa preukáže, že rozhodujúce skutočnosti, na základe ktorých bolo záväzné stanovisko vydané, nie sú splnené, alebo ak záväzné stanovisko stratilo účinky podľa § 53b ods. 3.
+
+- § 53b
+
+- (1)
+
+- Ak záväzné stanovisko neobsahuje stanovisko ku všetkým skutočnostiam, ku ktorým daňový subjekt záväzné stanovisko žiadal, môže daňový subjekt proti nemu podať finančnému riaditeľstvu námietku do ôsmich dní od jeho doručenia.
+
+- (2)
+
+- Finančné riaditeľstvo posúdi námietku a záväzné stanovisko doplní, ak sú na to dôvody; o neopodstatnenosti námietky zašle daňovému subjektu oznámenie.
+
+- (3)
+
+- Záväzné stanovisko stráca účinky
+
+- a)
+
+- dňom nadobudnutia účinnosti zmeny právnej úpravy, na základe ktorej bolo záväzné stanovisko vydané,
+
+- b)
+
+- ak obchodný prípad, ku ktorému bolo záväzné stanovisko vydané, je v rozpore s právnymi predpismi, alebo ich obchádza, alebo zastiera iný právny úkon,
+
+- c)
+
+- ak vo veci právoplatne rozhodol súd.
+
+- § 53c
+
+- (1)
+
+- Daňový subjekt zaplatí spolu so žiadosťou o záväzné stanovisko úhradu vo výške
+
+- a)
+
+- 1 % zo sumy predpokladaného obchodného prípadu, najmenej však 4 000 eur, najviac 30 000 eur, ak žiada o záväzné stanovisko k uplatneniu jedného daňového predpisu,
+
+- b)
+
+- 2 % zo sumy predpokladaného obchodného prípadu, najmenej však 5 000 eur, najviac 30 000 eur, ak žiada o záväzné stanovisko k uplatneniu dvoch a viac daňových predpisov,
+
+- c)
+
+- 3 % zo sumy predpokladaného obchodného prípadu, najmenej však 6 000 eur, najviac 30 000 eur, ak žiada o záväzné stanovisko k uplatneniu daňových predpisov, pričom ide o opakované obchodné prípady.
+
+- (2)
+
+- Úhrada podľa odseku 1 sa platí bez výzvy a je splatná pri podaní žiadosti o záväzné stanovisko. Ak nebola úhrada zaplatená pri podaní žiadosti a v určenej výške podľa odseku 1, je splatná do 15 dní odo dňa doručenia písomnej výzvy finančného riaditeľstva na jej zaplatenie. Ak úhrada nebude zaplatená v lehote alebo vo výške určenej vo výzve, finančné riaditeľstvo záväzné stanovisko nevydá; túto skutočnosť finančné riaditeľstvo oznámi daňovému subjektu.
+
+- (3)
+
+- Ak skutočná výška sumy obchodného prípadu prevýši výšku sumy predpokladaného obchodného prípadu uvedenú v úplnej žiadosti podľa § 53a ods. 2 najmenej o 10 %, daňový subjekt je povinný zaplatiť rozdiel na úhrade podľa odseku 1 do 30 dní odo dňa tohto zistenia alebo od nadobudnutia právoplatnosti rozhodnutia daňového úradu alebo colného úradu, ak túto skutočnosť zistí daňový úrad alebo colný úrad. Daňový úrad alebo colný úrad vyrubí daňovému subjektu ročný úrok vo výške 1 % zo sumy rozdielu úhrady. Úrok sa počíta za každý deň omeškania odo dňa podania úplnej žiadosti podľa § 53a ods. 2 do dňa zaplatenia rozdielu na úhrade. Rovnako sa postupuje, ak záväzné stanovisko bolo vydané k jednému obchodnému prípadu a daňový subjekt uplatnil postup pre tento obchodný prípad opakovane.
+
+- (4)
+
+- Ak daňový subjekt v lehote 12 kalendárnych mesiacov nasledujúcich po vydaní záväzného stanoviska uplatnil postup uvedený v záväznom stanovisku aj na iný obchodný prípad ako predpokladaný obchodný prípad uvedený v žiadosti podľa § 53a ods. 2, je povinný zaplatiť úhradu zo sumy iného obchodného prípadu do 30 dní od uplatnenia postupu alebo od nadobudnutia právoplatnosti rozhodnutia daňového úradu alebo colného úradu, ktorý túto skutočnosť zistil. Na výpočet úhrady sa použije odsek 1 primerane. Daňový úrad alebo colný úrad vyrubí daňovému subjektu ročný úrok vo výške 1 % zo sumy úhrady. Úrok sa počíta za každý deň omeškania odo dňa podania úplnej žiadosti podľa § 53a ods. 2 do dňa zaplatenia úhrady.
+
+- (5)
+
+- Ak finančné riaditeľstvo záväzné stanovisko nevydá, vráti zaplatenú úhradu daňovému subjektu; túto skutočnosť oznámi finančné riaditeľstvo daňovému subjektu. Finančné riaditeľstvo vráti daňovému subjektu zaplatenú úhradu podľa odseku 1 do 30 dní odo dňa doručenia oznámenia podľa prvej vety. Ak nastanú skutočnosti podľa § 53a ods. 6, finančné riaditeľstvo zaplatí v lehote 30 dní odo dňa vrátenia úhrady daňovému subjektu ročný úrok vo výške 1 % zo sumy zaplatenej úhrady odo dňa podania úplnej žiadosti podľa § 53a ods. 2 do dňa doručenia oznámenia podľa prvej vety; túto skutočnosť oznámi daňovému subjektu.“.
+
 - 14. V § 54 ods. 1 sa nad slovom „súhlas“ umiestňuje odkaz 37b a vypúšťajú sa slová „podľa osobitného predpisu<sup>37a</sup>)“.
 
 - Poznámka pod čiarou k odkazu 37b znie:
