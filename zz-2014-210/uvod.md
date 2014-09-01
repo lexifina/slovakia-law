@@ -1,0 +1,11 @@
+## 210
+
+VÝNOS
+
+Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky
+
+zo 16. júla 2014
+
+## o rozšírení záväznosti kolektívnej zmluvy vyššieho stupňa (hutníctvo, geológia a ťažobný priemysel)
+
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky podľa § 7 ods. 11 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní v znení neskorších predpisov ustanovuje:
