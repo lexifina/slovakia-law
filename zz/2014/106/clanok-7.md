@@ -12,6 +12,12 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 3. V § 9 ods. 9 sa vypúšťajú slová „alebo jej prílohách“.
 
+- 4. § 9 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Veriteľ je povinný informovať spotrebiteľa o tom, že nedošlo k splateniu splátky zo spotrebiteľského úveru v lehote jej splatnosti písomne alebo formou krátkej textovej správy (SMS), a to najneskôr do 15 dní odo dňa splatnosti tejto splátky zo spotrebiteľského úveru.“.
+
 - 5. § 18 sa dopĺňa odsekom 3, ktorý znie:
 
 - „(3)
@@ -120,6 +126,8 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 21. V § 24 ods. 1 sa slová „ustanovenia § 2,“ nahrádzajú slovami „ustanovenia § 1 ods. 2 druhá veta, § 2,“.
 
+- 22. V § 24 ods. 1 sa slová „§ 9 ods. 1, 2, 9 a 10“ nahrádzajú slovami „§ 9 ods. 1, 2, 9 až 11“.
+
 - 23. Za § 25b sa vkladá § 25c, ktorý vrátane nadpisu znie:
 
 - „§ 25c
@@ -145,3 +153,11 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 - (5)
 
 - Podmienku podľa § 20 ods. 3 musí veriteľ zapísaný v registri veriteľov splniť najneskôr do 15. októbra 2014 a ak ide o nápravu a odstránenie nedostatkov vyplývajúcich z právoplatného rozhodnutia, ktoré je predmetom súdneho prieskumu podľa Občianskeho súdneho poriadku, do 60 dní od doručenia rozhodnutia súdu, proti ktorému nemožno podať opravný prostriedok; ustanovenie § 20 ods. 10 písm. g) platí rovnako. Ak veriteľ zapísaný v registri veriteľov Národnej banke Slovenska splnenie podmienky podľa § 20 ods. 3 v súlade s prvou vetou nepreukáže, stratí k 16. októbru 2014 alebo po uplynutí 60 dní od doručenia rozhodnutia súdu, proti ktorému nemožno podať opravný prostriedok, oprávnenie na poskytovanie spotrebiteľských úverov a Národná banka Slovenska zruší jeho zápis v registri veriteľov.“.
+
+- 25. Za § 25c sa vkladá § 25d, ktorý vrátane nadpisu znie:
+
+- „§ 25d
+
+- Prechodné ustanovenie k úpravám účinným od 1. septembra 2014
+
+- Ustanoveniami § 9 ods. 11 a § 24 ods. 1 sa spravujú aj právne vzťahy vzniknuté pred 1. septembrom 2014.“.
