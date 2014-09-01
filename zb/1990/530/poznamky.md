@@ -14,8 +14,6 @@
 
 - 2a) § 460 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
-- 2aa) § 163 zákona č. 566/2001 Z. z.
-
 - 2b) § 2 písm. b) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 2c) § 2 ods. 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
@@ -40,9 +38,11 @@
 
 - 3e) § 160 Obchodného zákonníka.
 
-- 3f) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
+- 3f) § 54 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 17 ods. 1 písm. c) zákona č. 291/2002 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 3fa) § 14 až 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
