@@ -8,9 +8,9 @@ Príloha č. 8 k vyhláške č. 282/2009 Z. z.
 
 - 22 Hutníctvo | Republiková únia zamestnávateľov v spolupráci so Slovenskou obchodnou a priemyselnou komorou
 
-- 23 Strojárstvo a ostatná kovospracúvacia výroba I | Slovenská obchodná a priemyselná komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a so Slovenskou živnostenskou komorou
+- 23 Strojárstvo a ostatná kovospracúvacia výroba I | Slovenská obchodná a priemyselná komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky, so Slovenskou živnostenskou komorou a Republikovou úniou zamestnávateľov
 
-- 24 Strojárstvo a ostatná kovospracúvacia výroba II | Slovenská obchodná a priemyselná komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a so Slovenskou živnostenskou komorou
+- 24 Strojárstvo a ostatná kovospracúvacia výroba II | Slovenská obchodná a priemyselná komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky, so Slovenskou živnostenskou komorou a Republikovou úniou zamestnávateľov
 
 - 26 Elektrotechnika | Slovenská obchodná a priemyselná komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a Republikovou úniou zamestnávateľov
 
@@ -26,7 +26,7 @@ Príloha č. 8 k vyhláške č. 282/2009 Z. z.
 
 - 33 Spracúvanie dreva a výroba hudobných nástrojov | Republiková únia zamestnávateľov v spolupráci so Slovenskou obchodnou a priemyselnou komorou a Slovenskou živnostenskou komorou
 
-- 34 Polygrafia a médiá | Asociácia zamestnávateľských zväzov a združení Slovenskej republiky v spolupráci so Slovenskou obchodnou a priemyselnou komorou
+- 34 Polygrafia a médiá | Asociácia zamestnávateľských zväzov a združení Slovenskej republiky v spolupráci so Slovenskou obchodnou a priemyselnou komorou a Republikovou úniou zamestnávateľov
 
 - 36 Stavebníctvo, geodézia a kartografia | Republiková únia zamestnávateľov v spolupráci so Slovenskou obchodnou a priemyselnou komorou, Slovenskou živnostenskou komorou a s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky
 
@@ -56,8 +56,8 @@ Príloha č. 8 k vyhláške č. 282/2009 Z. z.
 
 - 76 Učiteľstvo | nie je určená
 
-- 82 Umenie a umeleckoremeselná tvorba I | Slovenská živnostenská komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky
+- 82 Umenie a umeleckoremeselná tvorba I | Slovenská živnostenská komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a Republikovou úniou zamestnávateľov
 
-- 85 Umenie a umeleckoremeselná tvorba II | Slovenská živnostenská komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky
+- 85 Umenie a umeleckoremeselná tvorba II | Slovenská živnostenská komora v spolupráci s Asociáciou zamestnávateľských zväzov a združení Slovenskej republiky a Republikovou úniou zamestnávateľov
 
 - 92 Bezpečnostné služby | nie je určená

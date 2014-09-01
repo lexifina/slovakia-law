@@ -168,6 +168,8 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 3918 M | technické lýceum | 3918 6 | 2)
 
+  - 3964 M | ochrana osôb a majetku pred požiarom | 3964 6 | 2)
+
   - 3965 M | bezpečnosť a ochrana zdravia pri práci | 3965 6 | 2)
 
   - 3920 M | polytechnika | 2241 6 | 2)
@@ -460,7 +462,27 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 8283 M | reklamná tvorba | 8283 6 | 2), 3)
 
+  - 8288 M | scénické výtvarníctvo | |
+
+  - 8288 M 01 | scénické výtvarníctvo – kostýmová tvorba | 8288 6 | 2), 3)
+
+  - 8288 M 02 | scénické výtvarníctvo – maľba a dekoračná tvorba | 8288 6 | 2), 3)
+
+  - 8288 M 03 | scénické výtvarníctvo – štukatérska tvorba | 8288 6 | 2), 3)
+
+  - 8288 M 04 | scénické výtvarníctvo – maskérska tvorba | 8288 6 | 2), 3)
+
+  - 8288 M 05 | scénické výtvarníctvo – tvarovanie dreva | 8288 6 | 2), 3)
+
   - 8289 M | keramický dizajn | 8289 6 | 2), 3)
+
+  - 8294 M | obrazová a zvuková tvorba | |
+
+  - 8294 M 01 | obrazová a zvuková tvorba – kamera, zvuk strih | 8294 6 | 2), 3)
+
+  - 8294 M 02 | obrazová a zvuková tvorba – umelecká produkcia | 8294 6 | 2), 3)
+
+  - 8294 M 03 | obrazová a zvuková tvorba – virtuálna grafika | 8294 6 | 2), 3)
 
   - 8295 M | tvorba vitrážového skla a smaltu | 8295 6 | 2), 3)
 
@@ -532,7 +554,7 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 26 | ELEKTROTECHNIKA | | | |
 
-  - 2679 K | mechanik – mechatronik | 2679 4 | 12 | 10 | 1), 2), 3), 4)
+  - 2679 K | mechanik – mechatronik | 2679 4 | 12 | 10 | 1), 2), 4)
 
   - 2682 K | mechanik počítačových sietí | 2682 4 | 12 | 10 | 1), 2)
 

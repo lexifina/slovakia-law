@@ -92,6 +92,8 @@ Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 
 - 8238 Q | ručné výtvarné spracúvanie textílií | 8238 7 | 1)
 
+- 8276 Q | produktová tvorba | 8276 7 | 1)
+
 - 8293 Q | grafika vizuálnych komunikácií | 8293 7 | 1)
 
 - Vysvetlivky:
