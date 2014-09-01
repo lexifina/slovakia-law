@@ -152,6 +152,80 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - vo vzdelávaní v stredných odborných školách na získanie nižšieho stredného vzdelania podľa § 42 ods. 6.“.
 
+- 21. V § 62 odsek 1 znie:
+
+- „(1)
+
+- Do prvého ročníka štvorročného vzdelávacieho programu v gymnáziách môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+
+- a)
+
+- nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,0,
+
+- b)
+
+- splnil podmienky prijímacieho konania,
+
+- c)
+
+- získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,0.“.
+
+- 22. V § 62 odsek 3 znie:
+
+- „(3)
+
+- Do prvého ročníka päťročného vzdelávacieho programu bilingválneho vzdelávania môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+
+- a)
+
+- úspešne ukončil ôsmy ročník vzdelávacieho programu základnej školy a
+
+- 1.
+
+- nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku siedmeho ročníka a na konci prvého polroku ôsmeho ročníka horší ako 2,0,
+
+- 2.
+
+- splnil podmienky prijímacieho konania,
+
+- 3.
+
+- získal primárne vzdelanie podľa § 16 ods. 3 písm. a) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka horší ako 2,0 alebo
+
+- b)
+
+- úspešne ukončil deviaty ročník vzdelávacieho programu základnej školy a
+
+- 1.
+
+- nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,0,
+
+- 2.
+
+- splnil podmienky prijímacieho konania,
+
+- 3.
+
+- získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,0.“.
+
+- 23. V § 62 odsek 6 znie:
+
+- „(6)
+
+- Do prvého ročníka vzdelávacieho programu úplného stredného odborného vzdelávania môže byť prijatý uchádzač, ktorý spĺňa tieto podmienky:
+
+- a)
+
+- nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku ôsmeho ročníka a na konci prvého polroku deviateho ročníka horší ako 2,75,
+
+- b)
+
+- splnil podmienky prijímacieho konania,
+
+- c)
+
+- získal nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) a nemá priemerný prospech z povinných vyučovacích predmetov určených rámcovým učebným plánom pre druhý stupeň základných škôl, okrem vyučovacích predmetov s výchovným zameraním, na konci druhého polroku deviateho ročníka horší ako 2,75.“.
+
 - 24. V § 64 ods. 2 sa slová „30. júna“ nahrádzajú slovami „15. júna“, nad slová „Zriaďovateľ strednej školy“ sa umiestňuje odkaz 47a, vypúšťajú sa slová „na vyjadrenie“ a slová „15. júla“ sa nahrádzajú slovami „30. júna“.
 
 - Poznámka pod čiarou k odkazu 47a znie:
