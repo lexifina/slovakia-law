@@ -14,6 +14,8 @@
 
 - 4a) Čl. 141a ods. 1 Ústavy Slovenskej republiky.
 
+- 4b) § 19a a 29k zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení zákona č. 195/2014 Z. z.
+
 - 5) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 5a) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -35,3 +37,11 @@
 - 10) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - 11) Zákon č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
+
+- 12) § 11 ods. 1 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 13) § 69a zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
+
+- 14) § 28 ods. 2 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
+
+- 15) § 74da zákona č. 38/1993 Z. z. Národnej rady Slovenskej republiky o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení zákona č. 195/2014 Z. z.
