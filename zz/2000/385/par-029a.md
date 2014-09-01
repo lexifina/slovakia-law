@@ -6,4 +6,4 @@
 
 (1) Za rozhodovanie nemožno sudcu ani prísediaceho stíhať, a to ani po zániku ich funkcií.
 
-(2) Prísediaceho možno pre činy spáchané pri výkone sudcovskej funkcie alebo v súvislosti s výkonom tejto funkcie trestne stíhať alebo vziať do väzby len so súhlasom súdnej rady.
+(2) Prísediaceho možno pre činy spáchané pri výkone sudcovskej funkcie alebo v súvislosti s výkonom tejto funkcie vziať do väzby len so súhlasom súdnej rady.

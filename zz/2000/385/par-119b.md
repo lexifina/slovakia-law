@@ -1,6 +1,6 @@
 # § 119b
 
-(1) Za predsedu disciplinárneho senátu a za člena disciplinárneho senátu môže byť zvolený len sudca,
+(1) Za predsedu disciplinárneho senátu a za člena disciplinárneho senátu môže byť zvolený len sudca vrátane sudcu, ktorý má prerušený výkon funkcie podľa § 24 ods. 4,
 
 - a) ktorý vo funkcii sudcu pôsobí najmenej päť rokov,
 
@@ -12,7 +12,7 @@
 
 (2) Za člena disciplinárneho senátu môže byť zvolená aj iná osoba ako sudca, ktorá
 
-- a) spĺňa podmienky na vymenovanie za sudcu podľa § 5 ods. 1 písm. a) až e),
+- a) spĺňa podmienky na vymenovanie za sudcu podľa § 5 ods. 1 písm. a) až d) a f),
 
 - b) vykonáva právnickú prax najmenej desať rokov,
 

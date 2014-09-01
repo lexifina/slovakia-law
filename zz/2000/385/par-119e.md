@@ -20,4 +20,4 @@
 
 (2) Ak v disciplinárnom konaní začatom pred uplynutím funkčného obdobia predsedu disciplinárneho senátu alebo niektorého z jeho členov bol prednesený na ústnom pojednávaní návrh na začatie disciplinárneho konania, disciplinárne konanie dokončí tento senát v rovnakom zložení, aj keď funkčné obdobie predsedu disciplinárneho senátu alebo niektorého z jeho členov už uplynulo.
 
-(3) Ak v disciplinárnom senáte vytvorenom podľa § 119c zanikne funkcia predsedu disciplinárneho senátu alebo člena disciplinárneho senátu z iného dôvodu ako uplynutím funkčného obdobia, vyberie sa chýbajúci predseda disciplinárneho senátu alebo člen disciplinárneho senátu náhodným výberom z príslušnej databázy; bezodkladné vykonanie úkonov spojené s náhodným výberom zabezpečuje predseda súdu podľa § 119 ods. 4.
+(3) Ak zanikne funkcia predsedu disciplinárneho senátu alebo člena disciplinárneho senátu a ak odsek 2 neustanovuje inak, na uvoľnené miesto nastupuje náhradník, ak ho niet, postupuje sa podľa § 119a ods. 4.

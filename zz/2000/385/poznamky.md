@@ -16,6 +16,14 @@
 
 - 4b) Trestný zákon v znení neskorších predpisov.
 
+- 4c) Čl. 141a ods. 9 a čl. 154d ods. 1 Ústavy Slovenskej republiky v znení ústavného zákona č. 161/2014 Z. z.
+
+- § 69a a 69b zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
+
+- 4d) Čl. 154d ods. 1 až 3 Ústavy Slovenskej republiky v znení ústavného zákona č. 161/2014 Z. z.
+
+- 4e) Čl. 141a ods. 5 písm. b) Ústavy Slovenskej republiky v znení ústavného zákona č. 161/2014 Z. z.
+
 - 5) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
 
 - 5a) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -70,6 +78,8 @@
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
+- 19a) § 51 ods. 4 písm. a) zákona č. 757/2004 Z. z.
+
 - 20) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
 - 20a) Zákon č. 461/2003 Z. z. o sociálnom poistení.
@@ -95,6 +105,8 @@
 - 28aa) § 42 zákona č. 757/2004 Z. z.
 
 - 28b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 28c) § 82a zákona č. 757/2004 Z. z. v znení zákona č. 33/2011 Z. z.
 
 - 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
