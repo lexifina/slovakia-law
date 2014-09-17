@@ -74,8 +74,6 @@
 
 - 12a) Napríklad § 17 až 20 zákona č. 513/1991 Zb. Obchodný zákonník, § 91 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov, § 23 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 12aa) § 16 ods. 4 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
-
 - 12b) § 1 ods. 3 písm. b) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
