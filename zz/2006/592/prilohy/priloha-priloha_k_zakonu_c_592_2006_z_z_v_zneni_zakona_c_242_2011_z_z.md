@@ -4,7 +4,7 @@ Príloha k zákonu č. 592/2006 Z. z. v znení zákona č. 242/2011 Z. z.
 
   - Suma vianočného príspevku podľa § 1 ods. 8 písm. b) sa určí podľa tohto vzorca:
 
-  - VP = 75 – 0,10 * (D – ŽM),
+  - VP = 87,26 – 0,18 * (D – ŽM),
 
   - kde: VP – suma vianočného príspevku,
 
