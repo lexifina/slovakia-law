@@ -24,7 +24,9 @@
 
 - j) podať návrh na exekučné konanie,<sup>12ab</sup>)
 
-- k) zabezpečovať všetky ďalšie činnosti potrebné na riadny výkon správy domu v súlade so zmluvou o výkone správy a s týmto zákonom.
+- k) zabezpečovať všetky ďalšie činnosti potrebné na riadny výkon správy domu v súlade so zmluvou o výkone správy a s týmto zákonom,
+
+- l) priebežne zverejňovať na mieste v dome obvyklom v spoločných častiach domu alebo na webovom sídle správcu, ak ho má zriadené, postup pri obstarávaní tovarov a služieb, v rámci zabezpečovania prevádzky, údržby, opravy, rekonštrukcie a modernizácie a pri všetkých iných činnostiach spojených so správou domu, vrátane jednotlivých cenových ponúk.
 
 (3) Pri obstarávaní služieb a tovaru je správca povinný dojednať čo najvýhodnejšie podmienky, aké sa dali dojednať v prospech vlastníkov bytov a nebytových priestorov v dome. Správca je povinný riadiť sa rozhodnutím nadpolovičnej väčšiny vlastníkov bytov a nebytových priestorov v dome o výbere dodávateľa.
 
