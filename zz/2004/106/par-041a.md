@@ -2,9 +2,9 @@
 
 (1) Priestupku sa dopustí fyzická osoba, ktorá nie je oprávnená na podnikanie, ak
 
-- a) predá, ponúkne na predaj, skladuje alebo prepravuje spotrebiteľské balenie cigariet, ktoré nie je označené v súlade s týmto zákonom a osobitným predpisom,<sup>25a</sup>)
+- a) predá, ponúkne na predaj, skladuje alebo prepravuje spotrebiteľské balenie tabakových výrobkov, ktoré nie je označené v súlade s týmto zákonom a osobitným predpisom,<sup>25a</sup>)
 
-- b) označí spotrebiteľské balenie cigariet falzifikátom kontrolnej známky,
+- b) označí spotrebiteľské balenie tabakových výrobkov falzifikátom kontrolnej známky,
 
 - c) nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakových výrobkov u nej zistených, ktoré sa u nej nachádzajú alebo ktoré sa u nej nachádzali, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovými výrobkami ako s vlastnými,
 
@@ -12,9 +12,9 @@
 
 (2) Colný úrad uloží pokutu
 
-- a) za priestupok podľa odseku 1 písm. a) do 33 193,91 eura, najmenej však 66,38 eura, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
+- a) za priestupok podľa odseku 1 písm. a) do 33 193,91 eura, najmenej však 66,38 eura, a také spotrebiteľské balenie tabakových výrobkov zabezpečí,<sup>3</sup>)
 
-- b) za priestupok podľa odseku 1 písm. b) vo výške dane pripadajúcej na množstvo cigariet v spotrebiteľskom balení cigariet označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 1 659,69 eura, a také spotrebiteľské balenie cigariet zabezpečí,<sup>3</sup>)
+- b) za priestupok podľa odseku 1 písm. b) vo výške dane pripadajúcej na množstvo tabakových výrobkov v spotrebiteľskom balení tabakových výrobkov označenom falzifikátom kontrolnej známky zvýšenú o 100 %, najmenej však 1 659,69 eura, a také spotrebiteľské balenie tabakových výrobkov zabezpečí,<sup>3</sup>)
 
 - c) za priestupok podľa odseku 1 písm. c) do 33 193,91 eura, najmenej však 66,38 eura, a také tabakové výrobky zabezpečí,<sup>3</sup>)
 

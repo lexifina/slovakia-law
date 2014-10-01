@@ -6,6 +6,8 @@
 
 - 1aa) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
+- 1aaa) Čl. 349 a čl. 355 ods. 1 Zmluvy o fungovaní Európskej únie.
+
 - 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
 
 - 2) § 116 a 117 Občianskeho zákonníka.
@@ -34,11 +36,25 @@
 
 - 6) Nariadenie Komisie (ES) č. 31/96 z 10. januára 1996 o osvedčení o oslobodení od spotrebnej dane (Úradný vestník Európskeho spoločenstva L 008, 11/1/1996, s. 11 –15).
 
-- 7) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 8a) Napríklad vyhláška ministra zahraničných vecí č. 157/1964 Zb. o Viedenskom dohovore o diplomatických stykoch, vyhláška ministra zahraničných vecí č. 32/1969 Zb. o Viedenskom dohovore o konzulárnych stykoch, vyhláška ministra zahraničných vecí č. 40/1987 Zb. o Dohovore o osobitných misiách, vyhláška ministra zahraničných vecí č. 21/1968 Zb. o Dohovore o výsadách a imunitách medzinárodných odborných organizácií.
+
+- 8aa) Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- 8ab) Čl. 106 Zmluvy o fungovaní Európskej únie.
+
+- Rozhodnutie Komisie z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu (2012/21/EÚ) (Ú. v. EÚ L 7, 11. 1. 2012).
+
+- 8ac) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 8ad) Rozhodnutie 2012/21/EÚ.
 
 - 8b) § 15 ods. 5 zákona č. 563/2009 Z. z.
 

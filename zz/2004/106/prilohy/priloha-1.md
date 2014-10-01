@@ -9,3 +9,5 @@ Príloha č. 1 k zákonu č. 106/2004 Z. z. v znení zákona č. 547/2007 Z. z.
   - 3. Smernica Rady 2007/74/ES z 20. decembra 2007 o oslobodení tovaru, ktorý dovážajú osoby cestujúce z tretích krajín, od dane z pridanej hodnoty a spotrebnej dane (Ú. v. EÚ L 346, 29. 12. 2007).
 
   - 4. Smernica Rady 2006/79/ES z 5. októbra 2006 o oslobodení od daní pri dovoze malých zásielok tovaru neobchodného charakteru z tretích krajín (Ú. v. EÚ L 286, 17. 10. 2006).
+
+  - 5. Smernica Rady 2013/61/EÚ zo 17. decembra 2013, ktorou sa menia smernice 2006/112/ES a 2008/118/ES, pokiaľ ide o najvzdialenejšie francúzske regióny, a najmä Mayotte (Ú. v. EÚ L 353, 28. 12. 2013).
