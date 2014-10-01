@@ -10,6 +10,8 @@
 
 - 5) § 121 ods. 2 Občianskeho zákonníka.
 
+- 5a) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 6) Napr. zákon č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení neskorších predpisov.
 
 - 7) § 22 a nasl. zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
@@ -56,6 +58,8 @@
 
 - Zákon č. 116/1990 Zb. v znení neskorších predpisov.
 
+- 15a) § 74 až 77a zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+
 - 16) § 151b Občianskeho zákonníka.
 
 - 17) § 34 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
@@ -89,6 +93,8 @@
 - 24) Napr. § 6 ods. 6 vyhlášky č. 136/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej a individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve v znení neskorších predpisov.
 
 - 24a) Zákon č. 563/1991 Zb. o účtovníctve.
+
+- 24aa) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
 - 24b) § 15 ods. 1 vyhlášky Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
