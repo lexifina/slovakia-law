@@ -42,7 +42,7 @@
 
 - 18a) § 58 ods. 1 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 18b) § 19 zákona č. 563/2009 Z. z.
+- 18b) § 19 a § 37 ods. 4 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 18c) § 31 zákona č. 563/2009 Z. z. v znení zákona č. 440/2012 Z. z.
 
