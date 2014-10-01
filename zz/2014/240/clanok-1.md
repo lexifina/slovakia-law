@@ -2,6 +2,12 @@
 
 Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov v znení zákona č. 555/2007 Z. z., zákona č. 463/2008 Z. z., zákona č. 242/2011 Z. z. a zákona č. 338/2013 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 2 sa vypúšťajú slová "Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky,".
+
+- 2. V § 1 ods. 4 a 5 celom texte sa slová "1 až 3" nahrádzajú slovami "1 a 2".
+
+- 3. V § 1 ods. 8 písm. a) sa suma "75 eur" nahrádza sumou "87,26 eura".
+
 - 4. V § 1 odsek 10 znie:
 
 - „(10)
@@ -53,3 +59,13 @@ Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým pobe
   - Čl. 12 ods. 12.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 326, 26. 10. 2012).
 
   - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.“.
+
+- 6. Za § 2 sa vkladá § 3, ktorý vrátane nadpisu znie:
+
+- „§ 3
+
+- Prechodné ustanovenie účinné k 1. októbru 2014
+
+- Suma vianočného príspevku poskytnutého za rok 2014 sa poberateľovi dôchodku podľa § 1 ods. 1 a 2, ktorého úhrn súm dôchodkov podľa § 1 ods. 1, 2 a 10 nepresiahne dvojnásobok sumy životného minima pre jednu plnoletú fyzickú osobu podľa osobitného predpisu,<sup>4</sup>) jednorázovo zvýši o 12,74 eura.“.
+
+- 7. V prílohe sa číslo "75" nahrádza číslom "87,26" a číslo "0,10" sa nahrádza číslom "0,18".
