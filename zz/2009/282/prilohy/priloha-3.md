@@ -10,6 +10,8 @@ Príloha č. 3 k vyhláške č. 282/2009 Z. z.
 
 - 2478 F | strojárska výroba | 2478 0 | 12 | | 12 |
 
+- 2498 F | technické služby v autoservise | 6449 F | 10 | | 10 |
+
 - 27 | TECHNICKÁ CHÉMIA SILIKÁTOV | | | | |
 
 - 2752 F | výroba úžitkového skla | 2752 0 | 7 | | 7 | 1), 2)
@@ -47,10 +49,6 @@ Príloha č. 3 k vyhláške č. 282/2009 Z. z.
 - 4572 F | poľnohospodárska výroba | 4572 0 | 12 | | 12 |
 
 - 4579 F | lesná výroba | 4579 0 | 15 | | 12 |
-
-- 64 | EKONOMIKA A ORGANIZÁCIA, OBCHOD A SLUŽBY II | | | | |
-
-- 6449 F | technické služby v autoservise | 6449 0 | 10 | | 10 |
 
 - Vysvetlivky:
 

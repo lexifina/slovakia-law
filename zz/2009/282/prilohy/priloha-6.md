@@ -44,6 +44,8 @@ Príloha č. 6 k vyhláške č. 282/2009 Z. z.
 
 - 4210 Q 02 | agropodnikanie – hygiena potravín živočíšneho pôvodu | 4210 7 02 | 1)
 
+- 4220 Q | lesníctvo a lesnícky manažment | 4220 7 | 2)
+
 - 4221 Q | vidiecka turistika | 4221 7 | 2)
 
 - 4223 Q | krajinárske úpravy a tvorba krajiny | 4223 7 | 2)

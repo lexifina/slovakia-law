@@ -630,7 +630,7 @@ Príloha č. 5 k vyhláške č. 282/2009 Z. z.
 
   - 3778 K | technik informačných a telekomunikačných technológií | 3778 4 | 12 | 12 | 1), 2)
 
-  - 3792 K | poštový manipulant | 3792 4 | 12 | 12 | 1), 2)
+  - 3795 K | klientsky manažér pošty | 3792 K | 10 | 10 |
 
   - 45 | POĽNOHOSPODÁRSTVO, LESNÉ HOSPODÁRSTVO A ROZVOJ VIDIEKA II | | | |
 
