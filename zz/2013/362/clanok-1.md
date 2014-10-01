@@ -52,6 +52,8 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 12 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o čiastočné upustenie od zábezpeky, a ktorý“.
 
+- 12. V § 16 ods. 14 písm. c) úvodnej vete sa slovo „w)“ nahrádza slovom „v)“.
+
 - 13. V § 16 odsek 15 znie:
 
 - „(15)
@@ -63,6 +65,8 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - 15. V § 19 ods. 2 úvodnej vete sa na konci pripájajú tieto slová: „okrem údajov podľa osobitného predpisu<sup>84</sup>)“ a vypúšťa sa písmeno a).
 
 - Doterajšie písmená b) až d) sa označujú ako písmená a) až c).
+
+- 16. V § 19 ods. 9, § 26 ods. 4 a § 29 ods. 5 sa slová „písm. w)“ nahrádzajú slovami „písm. v)“.
 
 - 17. V § 19 ods. 10 písm. a) sa vypúšťajú slová „písomne alebo v elektronickej forme“.
 
@@ -110,6 +114,172 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - 29. V § 49 ods. 1 druhá veta znie: „Žiadosť musí obsahovať údaje podľa osobitného predpisu.<sup>84</sup>)“.
 
+- 30. V § 51 ods. 5 prvej vete sa slová „ods. 6“ nahrádzajú slovami „ods. 5“.
+
+- 31. V § 51 odsek 10 znie:
+
+- „(10)
+
+- Náležitosti, údaje, grafické prvky a vyhotovenie kontrolnej známky určenej na označovanie spotrebiteľského balenia, jej rozmery a cenu ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
+- 32. V § 51 ods. 11 sa vypúšťa slovo „písomného“.
+
+- 33. V § 52 ods. 1 úvodnej vete sa za slová „daňovom území“ vkladajú slová „okrem prevádzkovateľa daňového skladu“ a v písmene b) sa slová „písm. w)“ nahrádzajú slovami „písm. v)“.
+
+- 34. V § 52 ods. 6 sa slová „odseku 1 alebo 2“ nahrádzajú slovami „odseku 1 písm. a) prvého bodu alebo odseku 2 oznámiť colnému úradu do 30 dní odo dňa jej vzniku a zmenu údajov podľa odseku 1 písm. a) druhého bodu a písm. b) a c)“.
+
+- 35. V § 53 odseky 1 a 2 znejú:
+
+- „(1)
+
+- Kontrolné známky je oprávnená tlačiť tlačiareň, ktorou je Mincovňa Kremnica, štátny podnik.<sup>66</sup>) Tlač kontrolných známok v Mincovni Kremnica, štátny podnik je vykonávaná na základe zmluvy o tlači kontrolných známok uzatvorenej s ministerstvom. Tlač kontrolných známok vykonávaná na základe zmluvy o tlači kontrolných známok uzatvorenej medzi ministerstvom a tlačiarňou je službou vo verejnom záujme podľa osobitného predpisu.<sup>66a</sup>) Zmluva o tlači kontrolných známok musí obsahovať podmienky a náležitosti ustanovené osobitným predpisom,<sup>67</sup>) a to najmä obsah a trvanie záväzkov služby vo verejnom záujme, spôsob výpočtu výšky náhrady za službu vo verejnom záujme, kontrolu a prehodnocovanie výšky poskytnutej náhrady za službu vo verejnom záujme a opatrenia na predchádzanie vzniku nadmernej náhrady za službu vo verejnom záujme a na jej vrátenie. Zmluvu o tlači kontrolných známok zverejňuje ministerstvo v Centrálnom registri zmlúv.<sup>66b</sup>)
+
+- (2)
+
+- Cena kontrolných známok zohľadňuje výšku náhrad tlačiarne podľa osobitného predpisu.<sup>67</sup>) Cenu kontrolných známok, ktorú určila komisia zriadená ministerstvom, ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo podľa § 51 ods. 10. Komisia určuje cenu kontrolných známok na základe súhlasu väčšiny členov komisie. Komisia má päť členov, ktorými sú dvaja zástupcovia reprezentatívnych združení podnikateľov, ktorých členovia uvádzajú lieh do daňového voľného obehu a sú odberateľmi kontrolných známok, jeden zamestnanec finančného riaditeľstva, jeden zamestnanec tlačiarne a jeden zamestnanec ministerstva.“.
+
+- Poznámky pod čiarou k odkazom 66, 66a, 66b a 67 znejú:
+
+- „66)
+
+- Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+
+- 66a)
+
+- Čl. 106 Zmluvy o fungovaní Európskej únie.
+
+- Rozhodnutie Komisie z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu (2012/21/EÚ) (Ú. v. EÚ L 7, 11. 1. 2012).
+
+- 66b)
+
+- § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 67)
+
+- Rozhodnutie 2012/21/EÚ.“.
+
+- 36. Poznámky pod čiarou k odkazom 68 a 69 sa vypúšťajú.
+
+- 37. V § 53 sa vypúšťajú odseky 3 až 9 a 26.
+
+- Doterajšie odseky 10 až 25 sa označujú ako odseky 3 až 18 a odsek 27 sa označuje ako odsek 19.
+
+- 38. V § 53 odsek 3 znie:
+
+- „(3)
+
+- Finančné riaditeľstvo vykonáva daňový dozor nad nakladaním s kontrolnými známkami a ich likvidáciou v tlačiarni. Finančné riaditeľstvo je povinné zabezpečiť prítomnosť zamestnanca finančného riaditeľstva v tlačiarni pri nakladaní s kontrolnými známkami. Tlačiareň je povinná poskytnúť zamestnancovi finančného riaditeľstva v tlačiarni nevyhnutnú súčinnosť a primerané podmienky na výkon daňového dozoru. Ministerstvo uzatvorí zmluvu s finančným riaditeľstvom o predaji kontrolných známok odberateľovi kontrolných známok. Finančné riaditeľstvo zabezpečuje predaj kontrolných známok odberateľovi kontrolných známok v tlačiarni. Odoberať kontrolné známky môže odberateľ kontrolných známok iba v tlačiarni od zamestnanca finančného riaditeľstva.“.
+
+- 39. V § 53 ods. 5 piatej vete sa na konci pripájajú tieto slová: „a zodpovedá za bezchybnú tlač kontrolných známok“, v poslednej vete sa vypúšťajú slová „pri technických problémoch tlačiareň“ a za slovo „zásobu“ sa vkladajú slová „vytlačených tlačových listov“.
+
+- 40. V § 53 odsek 6 znie:
+
+- „(6)
+
+- Odberateľ kontrolných známok je povinný požiadať colný úrad o vydanie kontrolných známok elektronicky, a to na tlačive, ktorého vzor zverejní finančné riaditeľstvo na svojom webovom sídle; žiadosť musí byť podpísaná zaručeným elektronickým podpisom,<sup>38</sup>) ak sa odberateľ kontrolných známok s colným úradom nedohodnú inak. Počet objednávaných kusov kontrolných známok nesmie byť nižší ako 500 kusov alebo ich násobok; identifikačné čísla na odoberaných kontrolných známkach sú postupne radené. Tlačiareň balí kontrolné známky do balíkov obsahujúcich 500 kusov kontrolných známok (ďalej len „balík“). Na každom balíku je tlačiareň povinná uviesť označenie, ktoré obsahuje informáciu o identifikačných číslach kontrolných známok nachádzajúcich sa v balíku. Ak tlačiareň balí balíky do skupinového obalu alebo prepravného obalu, na každom skupinovom obale alebo prepravnom obale uvedie označenie, ktoré obsahuje informáciu o identifikačných číslach kontrolných známok v každom balíku nachádzajúcom sa v skupinovom obale alebo prepravnom obale. Colný úrad môže na žiadosť odberateľa kontrolných známok v odôvodnených prípadoch povoliť vydanie iného množstva kontrolných známok, ako je množstvo ustanovené v druhej vete. Ak je odberateľom kontrolných známok príjemca (odberateľ) liehu podľa § 26 ods. 1, v žiadosti o vydanie kontrolných známok uvedie počet objednaných kusov kontrolných známok najviac vo výške zábezpeky na daň zloženej podľa § 26 ods. 2 písm. b), a ak je odberateľom kontrolných známok dovozca spotrebiteľského balenia, najviac vo výške zábezpeky na daň zloženej podľa § 52 ods. 1 písm. b). Colný úrad bezodkladne elektronicky potvrdí odberateľovi kontrolných známok prijatie žiadosti o vydanie kontrolných známok a žiadosť o vydanie kontrolných známok zašle zamestnancovi finančného riaditeľstva v tlačiarni. Colný úrad najneskôr do troch pracovných dní po dni, keď potvrdil prijatie žiadosti o vydanie kontrolných známok, elektronicky oznámi odberateľovi kontrolných známok počet kontrolných známok, ktoré môže odobrať, cenu kontrolných známok, a to vo výške pripadajúcej na kontrolné známky, ktoré môže odobrať a číslo účtu finančného riaditeľstva, na ktorý je odberateľ kontrolných známok povinný pred prevzatím kontrolných známok zložiť peňažné prostriedky zodpovedajúce tejto cene.“.
+
+- 41. V § 53 odseky 7 až 9 znejú:
+
+- „(7)
+
+- Finančné riaditeľstvo určí termín prevzatia kontrolných známok odberateľom kontrolných známok, ktorý nesmie byť dlhší ako desať dní nasledujúcich po dni potvrdenia prijatia žiadosti o vydanie kontrolných známok colným úradom; termín prevzatia kontrolných známok finančné riaditeľstvo elektronicky oznámi odberateľovi kontrolných známok. Odberateľ kontrolných známok môže na prevzatie kontrolných známok v tlačiarni splnomocniť na základe plnomocenstva s úradne osvedčeným podpisom aj inú osobu. Finančné riaditeľstvo poskytne tlačiarni údaje o počte odoberaných kontrolných známok. Tlačiareň zodpovedá za správnosť vyhotovenia kontrolných známok podľa tohto zákona a všeobecne záväzného právneho predpisu vydaného podľa § 51 ods. 10, úplnosť balíku kontrolných známok, správnosť identifikačných čísel kontrolných známok uvedených na balíku kontrolných známok, vrátane identifikačných čísel kontrolných známok uvedených na každom skupinovom obale alebo prepravnom obale, ak sú kontrolné známky balené do týchto obalov, a hmotnú zodpovednosť za kontrolné známky až do ich odovzdania odberateľovi kontrolných známok. Zamestnanec finančného riaditeľstva v tlačiarni vydá kontrolné známky odberateľovi kontrolných známok alebo osobe, ktorú odberateľ kontrolných známok splnomocnil na prevzatie kontrolných známok v tlačiarni, spolu s dokladom vyhotoveným finančným riaditeľstvom, najviac v množstve pripadajúcom na cenu kontrolných známok, ktorú odberateľ kontrolných známok zaplatil na účet finančného riaditeľstva. Po vydaní kontrolných známok zodpovedá za kontrolné známky odberateľ kontrolných známok.
+
+- (8)
+
+- Zamestnanec finančného riaditeľstva v tlačiarni vyhotoví o prevzatí kontrolných známok protokol o prevzatí v dvoch vyhotoveniach, v ktorom uvedie počet skutočne prevzatých kontrolných známok odberateľom kontrolných známok a ich identifikačné čísla. Jedno vyhotovenie si ponechá zamestnanec finančného riaditeľstva v tlačiarni, druhé vyhotovenie odovzdá odberateľovi kontrolných známok alebo osobe, ktorú odberateľ kontrolných známok splnomocnil na prevzatie kontrolných známok v tlačiarni. Zamestnanec finančného riaditeľstva v tlačiarni súčasne elektronicky oznámi miestne príslušnému colnému úradu odberateľa kontrolných známok počet skutočne prevzatých kontrolných známok odberateľom kontrolných známok a ich identifikačné čísla.
+
+- (9)
+
+- Pri reklamácii kontrolných známok sa postupuje podľa § 411 až 441 Obchodného zákonníka. Odberateľ kontrolných známok, najneskôr tri pracovné dni pred predložením reklamovaných kontrolných známok zamestnancovi finančného riaditeľstva v tlačiarni, oznámi zamestnancovi finančného riaditeľstva v tlačiarni počet a identifikačné čísla reklamovaných kontrolných známok. Zamestnanec finančného riaditeľstva v tlačiarni vyhotoví o prevzatí kontrolných známok určených na reklamáciu protokol o reklamácii kontrolných známok v troch vyhotoveniach, v ktorom uvedie dôvod reklamácie, počet reklamovaných kontrolných známok a identifikačné čísla reklamovaných kontrolných známok. Jedno vyhotovenie si ponechá zamestnanec finančného riaditeľstva v tlačiarni, druhé vyhotovenie odovzdá odberateľovi kontrolných známok a tretie vyhotovenie odovzdá tlačiarni. Kontrolné známky, ktorých reklamáciu tlačiareň uznala, zničí tlačiareň na jej náklady pod dozorom zamestnanca finančného riaditeľstva v tlačiarni. Za kontrolné známky, ktorých reklamáciu tlačiareň uznala, zamestnanec finančného riaditeľstva v tlačiarni bezodplatne dodá odberateľovi kontrolných známok kontrolné známky v takom množstve, ktoré zodpovedá reklamovanému množstvu kontrolných známok, ktorých reklamáciu tlačiareň uznala. Za reklamované kontrolné známky nie je možné uplatniť peňažnú náhradu ani prípadnú náhradu vzniknutej škody. Zamestnanec finančného riaditeľstva v tlačiarni elektronicky oznámi miestne príslušnému colnému úradu odberateľa kontrolných známok identifikačné čísla kontrolných známok, ktorých reklamáciu tlačiareň uznala.“.
+
+- 42. V § 53 ods. 11 úvodnej vete sa za slovo „môže“ vkladajú slová „v odôvodnených prípadoch“, vypúšťa sa slovo „najmä“ a odsek 11 sa dopĺňa písmenami c) a d), ktoré znejú:
+
+- „c)
+
+- na základe priemerného množstva spotrebiteľských balení označených kontrolnou známkou rovnakého rozmeru, ktoré odberateľ kontrolných známok uviedol do daňového voľného obehu za obdobie šiestich predchádzajúcich po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o vydanie kontrolných známok, pričom prihliada na celkové množstvo odobraných kontrolných známok rovnakého rozmeru za obdobie 12 predchádzajúcich po sebe nasledujúcich kalendárnych mesiacov,
+
+- d)
+
+- na základe zloženej zábezpeky na daň, ak colný úrad nemôže posúdiť okolnosti podľa písmen a) až c), na základe ktorých možno odôvodnene predpokladať, že môže dôjsť k porušeniu daňových predpisov.“.
+
+- 43. V § 53 odsek 12 znie:
+
+- „(12)
+
+- Odberateľ kontrolných známok je v súvislosti s označovaním spotrebiteľského balenia kontrolnou známkou povinný oznamovať finančnému riaditeľstvu údaje ustanovené všeobecne záväzným právnym predpisom, ktorý vydá ministerstvo. Z týchto údajov finančné riaditeľstvo zverejňuje na svojom webovom sídle údaje nevyhnutne potrebné na overenie správnosti označenia spotrebiteľského balenia. Ministerstvo ustanoví všeobecne záväzným právnym predpisom
+
+- a)
+
+- štruktúru a spôsob označenia, ktoré obsahuje informáciu o identifikačných číslach kontrolných známok v balíku, v skupinovom obale alebo v prepravnom obale, ak sú balíky balené v skupinovom obale alebo v prepravnom obale podľa odseku 6,
+
+- b)
+
+- rozsah údajov, ktoré oznamuje odberateľ kontrolných známok podľa prvej vety, o identifikačných číslach použitých kontrolných známok na označovanie spotrebiteľského balenia a o spotrebiteľských baleniach označených kontrolnou známkou,
+
+- c)
+
+- rozsah údajov nevyhnutne potrebných na overenie správnosti označenia spotrebiteľského balenia kontrolnou známkou zverejňovaných finančným riaditeľstvom podľa druhej vety,
+
+- d)
+
+- lehoty na oznamovanie údajov oznamovaných odberateľom kontrolných známok podľa prvej vety,
+
+- e)
+
+- lehotu, v ktorej má finančné riaditeľstvo zverejňovať údaje oznamované odberateľom kontrolných známok podľa druhej vety.“.
+
+- 44. V § 53 ods. 15 sa slová „odseku 21“ nahrádzajú slovami „odseku 14“ a vypúšťa sa posledná veta.
+
+- 45. V § 53 ods. 16 prvej vete sa slová „odseku 14“ nahrádzajú slovami „odseku 7“ a v druhej vete sa slová „odseku 21“ nahrádzajú slovami „odseku 14“.
+
+- 46. V § 53 ods. 17 poslednej vete sa za slovo „a“ vkladajú slová „použije alebo“.
+
+- 47. V § 53 ods. 18 sa slová „Colný úrad“ nahrádzajú slovami „Finančné riaditeľstvo“.
+
+- 48. V § 53 ods. 19 písm. b) sa slová „odseku 16“ nahrádzajú slovami „odseku 9“, v písmene c) sa slová „odsekov 21 až 24“ nahrádzajú slovami „odsekov 14 až 17“.
+
+- 49. § 53 sa dopĺňa odsekmi 20 a 21, ktoré znejú:
+
+- „(20)
+
+- Odberateľ kontrolných známok je povinný viesť evidenciu kontrolných známok, v ktorej za každý kalendárny mesiac uvedie
+
+- a)
+
+- počiatočný stav zásob nenalepených kontrolných známok na začiatku kalendárneho mesiaca,
+
+- b)
+
+- počet odobratých kontrolných známok z tlačiarne,
+
+- c)
+
+- počet kontrolných známok nalepených na spotrebiteľské balenie,
+
+- d)
+
+- počet poškodených kontrolných známok a ich identifikačné čísla, ak nie je možné identifikovať identifikačné číslo, uvedie označenie, ktoré obsahuje informáciu o identifikačných číslach nachádzajúcich sa v balíku, z ktorého sú poškodené kontrolné známky,
+
+- e)
+
+- počet zničených kontrolných známok a ich identifikačné čísla, ak nie je možné identifikovať identifikačné číslo, uvedie označenie, ktoré obsahuje informáciu o identifikačných číslach nachádzajúcich sa v balíku, z ktorého sú zničené kontrolné známky,
+
+- f)
+
+- počet reklamovaných kontrolných známok odovzdaných zamestnancovi finančného riaditeľstva v tlačiarni a ich identifikačné čísla, ak nie je možné identifikovať identifikačné číslo, uvedie označenie, ktoré obsahuje informáciu o identifikačných číslach nachádzajúcich sa v balíku, z ktorého sú reklamované kontrolné známky,
+
+- g)
+
+- počet kontrolných známok, ktoré boli dodané odberateľovi kontrolných známok v rámci reklamácie,
+
+- h)
+
+- konečný stav nenalepených kontrolných známok na konci kalendárneho mesiaca.
+
+- (21)
+
+- Odberateľ kontrolných známok je povinný oznámiť údaje podľa odseku 20 písm. d) až f) za kalendárny mesiac colnému úradu elektronicky, najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, za ktorý sa údaje oznamujú, postupom určeným finančným riaditeľstvom a zverejneným na webovom sídle finančného riaditeľstva.“.
+
 - 50. V § 54 ods. 7 písm. d) sa za slová „odseku 3“ vkladajú slová „colnému úradu do 30 dní odo dňa ich vzniku“.
 
 - 51. V § 54 odsek 10 znie:
@@ -140,6 +310,12 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - je vyradená z evidencie dovozcov spotrebiteľského balenia alebo príjemcov (odberateľov) liehu podľa § 26 ods. 1.“.
 
+- 59. V § 54 odsek 22 znie:
+
+- „(22)
+
+- Osoba, ktorej zaniklo povolenie na predaj alebo oprávnenie na distribúciu, môže predať spotrebiteľské balenie len so súhlasom colného úradu; ustanovenia § 70 ods. 1 písm. s) a t) sa nepoužijú. Osoba, ktorej zaniklo povolenie na predaj alebo oprávnenie na distribúciu, alebo ktorej colný úrad odňal povolenie na predaj alebo oprávnenie na distribúciu, je povinná colnému úradu oznámiť v lehote určenej colným úradom údaje podľa odseku 7 písm. b) alebo odseku 15, a to podľa stavu ku dňu zániku alebo odňatia povolenia na predaj alebo oprávnenia na distribúciu; osoba, ktorá bola držiteľom oprávnenia na distribúciu, je povinná tieto údaje oznámiť elektronicky. Osoba, ktorej zaniklo alebo bolo odňaté oprávnenie na distribúciu, a ktorá so súhlasom colného úradu predala zásoby spotrebiteľského balenia, je povinná colnému úradu spôsobom podľa odseku 17 oznámiť údaje podľa odseku 15 písm. b) až d).“.
+
 - 60. § 54 sa dopĺňa odsekom 26, ktorý znie:
 
 - „(26)
@@ -161,6 +337,32 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 - vyzvať odberateľa kontrolných známok o predloženie nenalepených kontrolných známok, ktoré prevzal z tlačiarne a nachádzajú sa mimo daňového územia, ak nastali okolnosti, na základe ktorých možno odôvodnene predpokladať, že môže dôjsť k porušeniu daňových predpisov.“.
 
 - 63. V § 69 ods. 5 sa slová „Držiteľ povolenia na denaturáciu liehu“ nahrádzajú slovami „Prevádzkovateľ daňového skladu, ktorý denaturuje lieh,“.
+
+- 64. V § 70 ods. 1 písm. q) sa slová „ods. 11 alebo odseku 20“ nahrádzajú slovami „ods. 13, 15 až 17, alebo neoznámi údaje v rozsahu podľa všeobecne záväzného právneho predpisu vydaného ministerstvom podľa § 53 ods. 12“.
+
+- 65. V § 70 ods. 1 sa vypúšťajú písmená s) a x).
+
+- Doterajšie písmená t) až w) sa označujú ako písmená s) až v).
+
+- 66. V § 70 ods. 1 písm. v) sa na konci pripájajú tieto slová: „alebo si uplatní plnenie z bankovej záruky“.
+
+- 67. V § 70 ods. 2 písmeno p) znie:
+
+- „p)
+
+- od 1000 eur do 100 000 eur za správny delikt podľa odseku 1 písm. r),“.
+
+- 68. V § 70 ods. 2 sa vypúšťajú písmená q) a u).
+
+- Doterajšie písmená r) až t) sa označujú ako písmená q) až s).
+
+- 69. V § 70 ods. 2 písm. q) sa slová „písm. t) a u)“ nahrádzajú slovami „písm. s) a t)“.
+
+- 70. V § 70 ods. 2 písm. r) sa slová „písm. v)“ nahrádzajú slovami „písm. u)“.
+
+- 71. V § 70 ods. 2 písm. s) sa slová „písm. w)“ nahrádzajú slovami „písm. v)“.
+
+- 72. V § 70 ods. 3 sa slová „písm. t), u) a v)“ nahrádzajú slovami „písm. s), t) a u)“.
 
 - 73. V § 72 ods. 2 sa slová „§ 69 a § 71 ods. 6“ nahrádzajú slovami „sa v § 69, § 71 ods. 6 a odsekoch 6 a 7“.
 
@@ -254,6 +456,10 @@ Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení z
 
 - „§ 77a
 
-- Zrušujú sa:“.
+- Zrušujú sa:
+
+- 2.
+
+- vyhláška Ministerstva financií Slovenskej republiky č. 536/2011 Z. z., ktorou sa ustanovujú podrobnosti o zložení, rozhodovaní komisie a postupe komisie pri vyhodnocovaní návrhov verejnej súťaže na uzatvorenie zmluvy o dohľade nad tlačou kontrolných známok.“.
 
 - 88. V § 78 sa slová „§ 51, 52, § 53 ods. 8 až 27 a siedmeho bodu v § 77, ktoré nadobúdajú účinnosť 1. januára 2014“ nahrádzajú slovami „§ 51, 52, 53, ktoré nadobúdajú účinnosť 1. októbra 2014, a siedmeho bodu v § 77, ktorý nadobúda účinnosť 1. januára 2015“.
