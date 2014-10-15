@@ -1,4 +1,4 @@
-# § 81a Vyrubenie poplatku podľa pomôcok
+# § 81a Určenie poplatku podľa pomôcok
 
 (1) Správca dane písomne vyzve poplatníka, ktorý nesplní oznamovaciu povinnosť podľa § 80, na jej splnenie v primeranej lehote, ktorá nemôže byť kratšia ako osem dní.
 

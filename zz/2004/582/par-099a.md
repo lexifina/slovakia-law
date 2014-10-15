@@ -4,4 +4,4 @@
 
 (2) Ak vznikne daňová povinnosť k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje v priebehu zdaňovacieho obdobia, daňovník je povinný podať priznanie k tej dani, ku ktorej vznikla daňová povinnosť, najneskôr do 30 dní odo dňa vzniku tejto daňovej povinnosti.
 
-(3) Ak v priebehu zdaňovacieho obdobia daňovník nadobudne nehnuteľnosť vydražením, je povinný podať priznanie k dani z nehnuteľností do 30 dní od vzniku daňovej povinnosti.
+(3) Ak v priebehu zdaňovacieho obdobia daňovník nadobudne nehnuteľnosť vydražením alebo dedením, je povinný podať priznanie k dani z nehnuteľností do 30 dní od vzniku daňovej povinnosti.

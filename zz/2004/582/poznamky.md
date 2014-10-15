@@ -74,8 +74,6 @@
 
 - 22b) Napríklad § 20 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach, § 10 zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, § 10 zákona č. 657/2004 Z. z. o tepelnej energetike v znení zákona č. 99/2007 Z. z.
 
-- 23) § 3 vyhlášky Ministerstva hospodárstva Slovenskej republiky č. 277/2008 Z. z., ktorou sa ustanovujú klasifikačné znaky na ubytovacie zariadenia pri ich zaraďovaní do kategórií a tried.
-
 - 23a) § 2 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení zákona č. 453/2001 Z. z.
 
 - 24) § 2 písm. x) zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 450/2003 Z. z.

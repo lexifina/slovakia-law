@@ -2,7 +2,7 @@
 
 (1) Daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje vyrubuje správca dane každoročne podľa stavu k 1. januáru príslušného zdaňovacieho obdobia na celé zdaňovacie obdobie jedným rozhodnutím, ak odseky 2 až 4, 6 a 7 neustanovujú inak.
 
-(2) Pri nadobudnutí nehnuteľností vydražením správca dane vyrubí rozhodnutím pomernú časť dane z nehnuteľností vydražiteľovi, začínajúc mesiacom, v ktorom vznikla daňová povinnosť, až do konca príslušného zdaňovacieho obdobia. Ak správca dane nevyrubil daň vlastníkovi draženej nehnuteľnosti na príslušné zdaňovacie obdobie podľa stavu k 1. januáru, vyrubí rozhodnutím pomernú časť dane z nehnuteľností do konca mesiaca, v ktorom sa vydražiteľ stal vlastníkom nehnuteľnosti.
+(2) Pri nadobudnutí nehnuteľností vydražením alebo dedením správca dane vyrubí rozhodnutím pomernú časť dane z nehnuteľností vydražiteľovi alebo dedičovi, začínajúc mesiacom, v ktorom vznikla daňová povinnosť, až do konca príslušného zdaňovacieho obdobia. Ak správca dane nevyrubil daň vlastníkovi draženej nehnuteľnosti na príslušné zdaňovacie obdobie podľa stavu k 1. januáru, vyrubí rozhodnutím pomernú časť dane z nehnuteľností do konca mesiaca, v ktorom sa vydražiteľ stal vlastníkom nehnuteľnosti. Ak správca dane nevyrubil daň poručiteľovi dedenej nehnuteľnosti na príslušné zdaňovacie obdobie podľa stavu k 1. januáru, vyrubí rozhodnutím pomernú časť dane z nehnuteľností dedičovi začínajúc mesiacom, v ktorom mu vznikla daňová povinnosť, až do konca príslušného zdaňovacieho obdobia.
 
 (3) Ak vznikne v priebehu zdaňovacieho obdobia daňová povinnosť k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje, správca dane vyrubí pomernú časť dane rozhodnutím, začínajúc mesiacom, v ktorom vznikla daňová povinnosť, až do konca príslušného zdaňovacieho obdobia.
 
@@ -17,3 +17,5 @@
 (8) Včas podané odvolanie proti rozhodnutiu podľa odseku 1 má odkladný účinok v tej časti výroku rozhodnutia, ktorá bola odvolaním napadnutá. Ak je podaný opravný prostriedok, napadnutá časť výroku rozhodnutia sa vylúči na samostatné konanie, na ktoré sa uplatní postup podľa osobitného predpisu<sup>47</sup>) primerane. Právoplatnosť rozhodnutia v ostatných častiach výroku nie je dotknutá.
 
 (9) Správca dane môže vo všeobecne záväznom nariadení<sup>11</sup>) určiť sumu dane, ktorú nebude vyrubovať podľa tohto ustanovenia, najviac v úhrne do sumy piatich eur.
+
+(10) Ak dôjde počas zdaňovacieho obdobia k zániku daňovej povinnosti k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo niektorej z nich, správca dane vydá nové rozhodnutie, ktorým vyrubí pomernú časť dane. Novým rozhodnutím sa pôvodné rozhodnutie alebo časť výroku rozhodnutia zrušuje; proti novému rozhodnutiu alebo časti výroku rozhodnutia možno podať odvolanie.

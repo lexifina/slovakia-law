@@ -1,4 +1,4 @@
-# § 73a Vyrubenie dane podľa pomôcok
+# § 73a Určenie dane podľa pomôcok
 
 (1) Obec písomne vyzve daňovníka, ktorý nesplní oznamovaciu povinnosť o vzniku daňovej povinnosti, na jej splnenie v primeranej lehote, ktorá nemôže byť kratšia ako osem dní.
 
