@@ -168,7 +168,7 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
 
   - 6.2.1 Skripty na webovej stránke sa poskytujú v súlade s platnými technikami pre prístupné použitie Javaskriptu podľa prílohy č. 10.
 
-  - 6.2.2 Ak nie je možné vytvoriť webovú stránku použiteľnú bez skriptov, použije sa prvok ‹noscript› s ekvivalentným textovým popisom alebo sa použije skript na strane servera namiesto skriptu na strane klienta, prípadne sa poskytne alternatívna prístupná webová stránka podľa bodu 11.4. Ak nie je možné vytvoriť ekvivalentný textový popis, poskytuje sa na začiatku obsahu webovej stránky textové oznámenie „Pre správne fungovanie stránky povoľte Javascript vo Vašom prehliadači.“ a podobne.
+  - 6.2.2 Ak nie je možné vzhľadom na povahu poskytovaného obsahu, napríklad pri interaktívnych mapách, vytvoriť webovú stránku použiteľnú bez skriptov, použije sa prvok <noscript> s ekvivalentným textovým popisom alebo sa použije skript na strane servera namiesto skriptu na strane klienta, prípadne sa poskytne alternatívna prístupná webová stránka podľa bodu 11.4. Ak nie je možné z povahy poskytovaného obsahu vytvoriť úplný ekvivalentný textový popis, poskytuje sa prístupne čo najväčší rozsah poskytovaného obsahu, pričom na začiatku obsahu webovej stránky sa poskytuje textové oznámenie, napríklad v znení "Pre správne fungovanie stránky povoľte Javascript vo Vašom prehliadači.". Dôvodom na tento postup nie je ozdobné grafické spracovanie a animácie textu, ovládacích prvkov a podobne.
 
   - 6.2.3 V HTML 5 sa aktívne prvky dopĺňajú o opatrenia, ktoré sú v súlade so špecifikáciou WAI-ARIA 1.0.
 

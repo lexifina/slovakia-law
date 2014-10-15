@@ -19,3 +19,5 @@
 - 10) Zákon č. 211/2000 Z. z.
 
 - 11) Zákon č. 9/2010 Z. z. o sťažnostiach.
+
+- 11h) § 24 ods. 8 zákona č. 215/2002 Z. z. v znení neskorších predpisov.
