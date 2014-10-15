@@ -6,6 +6,8 @@
 
 - 4) Vykonávacie rozhodnutie Komisie 2012/115/EÚ z 10. februára 2012, ktorým sa ustanovujú pravidlá týkajúce sa prechodných národných programov podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách (Ú. v. EÚ L 52, 24. 2. 2012).
 
+- 4a) § 21 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
+
 - 5) § 5 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 411/2012 Z. z. o monitorovaní emisií zo stacionárnych zdrojov znečisťovania ovzdušia a kvality ovzdušia v ich okolí.
 
 - 6) § 22 ods. 1 písm. b) zákona č. 245/2003 Z. z. v znení neskorších predpisov.
