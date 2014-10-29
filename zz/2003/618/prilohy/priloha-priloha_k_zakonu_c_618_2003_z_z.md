@@ -17,3 +17,5 @@ Príloha k zákonu č. 618/2003 Z. z.
   - 7. Smernica Rady a Európskeho parlamentu 2001/84/ES z 27. septembra 2001 o práve ďalšieho predaja v prospech autora pôvodného umeleckého diela (Mimoriadne vydanie Ú. v. EÚ, kap.17/zv. 1, Ú. v. ES L 272, 13. 10. 2001).
 
   - 8. Smernica Európskeho parlamentu a Rady 2004/48/ES z 29. apríla 2004 o vymožiteľnosti práv duševného vlastníctva (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 2, Ú. v. EÚ L 157, 30. 4. 2004).
+
+  - 9. Smernica Európskeho parlamentu a Rady 2012/28/EÚ z 25. októbra 2012 o určitých povolených spôsoboch použitia osirelých diel (Ú. v. EÚ L 299, 27. 10. 2012).
