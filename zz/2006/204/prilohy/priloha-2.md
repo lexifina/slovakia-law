@@ -1,3 +1,0 @@
-Príloha č. 2 k nariadeniu vlády č. 204/2006 Z. z.
-
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV Smernica Rady 76/115/EHS z 18. decembra 1975 o aproximácii právnych predpisov členských štátov týkajúcich sa kotvových úchytiek bezpečnostných pásov motorových vozidiel (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 3.) v znení smernice Rady 81/575/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Komisie 82/318/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Komisie 90/629/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 10.), smernice Komisie 96/38/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 17.) a smernice Európskeho parlamentu a Rady 2005/41/ES (Ú. v. EÚ L 255, 30. 9. 2005).
