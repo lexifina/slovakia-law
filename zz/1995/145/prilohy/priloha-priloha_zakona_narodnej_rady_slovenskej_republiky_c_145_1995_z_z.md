@@ -3614,7 +3614,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - f) Vydanie dovozného, vývozného alebo tranzitného povolenia na omamné látky, psychotropné látky a prípravky s obsahom omamných látok alebo psychotropných látok ..... | 33 eur
 
-  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok ..... | 33 eur
+  - g) Vydanie povolenia na vývoz určených látok alebo povolenia na dovoz určených látok alebo jednorazového povolenia na dovoz obmedzených prekurzorov výbušnín podľa osobitného predpisu<sup>36u</sup>) ..... | 33 eur
 
   - h) Vydanie licencie na dovoz alebo vývoz vybraných chemických látok a prípravkov podľa osobitného predpisu<sup>36n</sup>) ..... | 33 eur
 

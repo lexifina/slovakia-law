@@ -382,6 +382,8 @@
 
 - 36t) § 29 ods. 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 308/2005 Z. z.
 
+- 36u) § 3 ods. 1 písm. d) zákona č. 262/2014 Z. z. o pôsobnosti orgánov štátnej správy vo veciach prekurzorov výbušnín a o zmene a doplnení niektorých zákonov.
+
 - 37) Napríklad zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 58/1997 Z. z., ktorým sa mení a dopĺňa zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave a zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 37a) Nariadenie Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 03) v platnom znení.
