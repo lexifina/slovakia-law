@@ -1,26 +1,12 @@
 Príloha č. 2 k vyhláške č. 12/2005 Z. z.
 
-- ROZSAH JEDNOTLIVÝCH ČASTÍ SKÚŠKY Z ODBORNEJ SPÔSOBILOSTI ČLENA POSÁDKY PLAVIDLA
+- ROZSAH JEDNOTLIVÝCH ČASTÍ SKÚŠKY Z ODBORNEJ SPÔSOBILOSTI ČLENA POSÁDKY PLAVIDLA A VEDÚCEHO PLAVBY NA PLAVEBNÝCH KOMORÁCH SLOVENSKEJ REPUBLIKY
 
-  - 1. Pravidlá bezpečnosti prevádzky plavidla po vnútrozemských vodných cestách Slovenskej republiky
+  - 1. Bezpečnosť prevádzky plavidla
 
-  - 1.1 Všeobecná časť
+  - 1.1 Európske pravidlá pre plavbu na vnútrozemských vodných cestách
 
-  - 1.2 Optická signalizácia plavidiel
-
-  - 1.3 Zvuková signalizácia a rádiové spojenie
-
-  - 1.4 Signálne znaky a znakovanie vodnej cesty
-
-  - 1.5 Pravidlá plavby
-
-  - 1.6 Pravidlá na státie
-
-  - 1.7 Ochrana vôd a nakladanie s odpadmi na plavidle
-
-  - 1.8 Osobitné ustanovenia pre plavbu malých plavidiel
-
-  - 1.9 Doplnkové pravidlá pre plavbu na vodných cestách Slovenskej republiky
+  - 1.2 Medzinárodné pravidlá na zabránenie zrážkam na mori
 
   - 2. Plavebný zemepis
 
@@ -40,7 +26,7 @@ Príloha č. 2 k vyhláške č. 12/2005 Z. z.
 
   - 2.2.2 Váh a vodné toky s výhľadovo sledovanou splavnosťou
 
-  - 2.3 Charakteristika európskych vnútrozemských vodných ciest
+  - 2.3 Charakteristika európskych vnútrozemských vodných ciest a vodných ciest námorného charakteru
 
   - 3. Plavebná náuka
 
@@ -66,6 +52,8 @@ Príloha č. 2 k vyhláške č. 12/2005 Z. z.
 
   - 3.1.4.6 Prevencia proti znečisťovaniu vodných ciest
 
+  - 3.1.4.7 Špecifické opatrenia týkajúce sa záchrany osôb, lodí a nákladu na vodných cestách námorného charakteru
+
   - 3.1.5 Zostavovanie lodných zostáv
 
   - 3.1.6 Státie plavidiel
@@ -78,7 +66,7 @@ Príloha č. 2 k vyhláške č. 12/2005 Z. z.
 
   - 3.1.10 Nakladanie a vykladanie plavidiel
 
-  - 3.1.11 Navigačné prístroje a pomôcky
+  - 3.1.11 Navigácia, terestrická navigácia, navigačné prístroje a pomôcky
 
   - 3.1.12 Plavebné úseky vodnej cesty
 
@@ -134,19 +122,19 @@ Príloha č. 2 k vyhláške č. 12/2005 Z. z.
 
   - 5. Stavba lodí
 
-  - 5.1 História plavby a stavby lodí
+  - 5.1 Základy teórie plavby
 
-  - 5.2 Základy teórie plavby
+  - 5.2 Lodné teleso
 
-  - 5.3 Lodné teleso
+  - 5.3 Lodné zariadenie
 
-  - 5.4 Lodné zariadenie
+  - 5.4 Lodná propulzia
 
-  - 5.5 Lodná propulzia
+  - 5.5 Lodné sústavy
 
-  - 5.6 Lodné sústavy
+  - 5.6 Technológia stavby lodí, skúšky a opravy plavidiel
 
-  - 5.7 Technológia stavby lodí, skúšky a opravy plavidiel
+  - 5.7 Doplňujúce technické požiadavky na plavidlá na vodných cestách námorného charakteru
 
   - 6. Strojové zariadenia lodí
 
