@@ -1,0 +1,1 @@
+- 1) STN EN 60529 Stupne ochrany krytom (krytie - IP kód) (33 0330).
