@@ -4,7 +4,7 @@
 
 (1) Okrem oprávnení podľa § 13 ods. 1 sú osoby uvedené v § 35c ods. 1 oprávnené vyžadovať od auditovanej osoby písomné oznámenie opatrení prijatých na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku.
 
-(2) Povinnosti podľa § 13 ods. 2 písm. a), b), c) a k) sa vzťahujú na osoby uvedené v § 35c ods. 1 rovnako.
+(2) Povinnosti podľa § 13 ods. 2 písm. a), b), c) a k) a § 15 sa vzťahujú na osoby uvedené v § 35c ods. 1 rovnako.
 
 (3) O zisteniach z vládneho auditu vypracujú osoby uvedené v § 35c ods. 1 predbežnú správu z vládneho auditu (ďalej len „predbežná správa“), predbežnú čiastkovú správu z vládneho auditu (ďalej len „predbežná čiastková správa“), čiastkovú správu a správu z vládneho auditu.
 

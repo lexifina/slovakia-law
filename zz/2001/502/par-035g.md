@@ -8,4 +8,4 @@
 
 (4) Kritériá a spôsob hodnotenia odborného vzdelávania vládnych audítorov určí ministerstvo financií. Kontrolu plnenia podmienok odborného vzdelávania vládnych audítorov vykonáva ministerstvo financií.
 
-(5) Ak sa vládny audítor na odbornom vzdelávaní vládnych audítorov nezúčastňuje, môže byť odvolaný podľa § 35c ods. 4 a 5.
+(5) Ak sa vládny audítor na odbornom vzdelávaní vládnych audítorov nezúčastňuje, môže byť odvolaný podľa § 35c ods. 5 a 6.

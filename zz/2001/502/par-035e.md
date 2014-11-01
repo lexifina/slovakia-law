@@ -28,11 +28,11 @@
 
 - m) iné údaje, ak je to vzhľadom na predmet vládneho auditu a závažnosť zistených skutočností odôvodnené.
 
-(2) Na náležitosti predbežnej čiastkovej správy sa vzťahuje odsek 1 rovnako.
+(2) Na náležitosti predbežnej čiastkovej správy sa vzťahuje odsek 1 písm. a) až k) a m) rovnako.
 
 (3) Na náležitosti správy z vládneho auditu sa vzťahuje odsek 1 písm. a) až f), i), j), l) a m) rovnako. Okrem týchto náležitostí správa z vládneho auditu obsahuje
 
-- a) dátum doručenia predbežnej správy auditovanej osobe,
+- a) dátum odovzdania predbežnej správy auditovanej osobe,
 
 - b) informáciu o tom, či auditovaná osoba podala námietky podľa § 35d ods. 5 písm. a),
 
@@ -46,7 +46,7 @@
 
 - g) lehotu na predloženie písomnej správy o splnení opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku.
 
-(4) Na náležitosti čiastkovej správy sa vzťahuje odsek 3 rovnako.
+(4) Na náležitosti čiastkovej správy sa vzťahuje odsek 3 rovnako okrem informácie o vypracovaní a obsahu čiastkovej správy.
 
 (5) Vládny audit je skončený doručením správy z vládneho auditu auditovanej osobe. Doručením čiastkovej správy je skončená tá časť vládneho auditu, ktorej sa čiastková správa týka.
 

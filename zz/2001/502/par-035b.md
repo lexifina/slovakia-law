@@ -18,7 +18,7 @@ Vládnym auditom sa v súlade s týmto zákonom a osobitnými predpismi<sup>12b<
 
   - 7. splnenie opatrení na nápravu nedostatkov zistených vládnym auditom a na odstránenie príčin ich vzniku a splnenie odporúčaní uvedených v čiastkovej správe z vládneho auditu (ďalej len „čiastková správa“) a správe z vládneho auditu,
 
-  - 8. dostupnosť, správnosť a úplnosť informácií o finančných operáciách a hospodárení auditovanej osoby,
+  - 8. dostupnosť, správnosť a úplnosť informácií o finančných operáciách alebo ich častiach a hospodárení auditovanej osoby,
 
   - 9. ďalšie skutočnosti, ak tak ustanovuje osobitný predpis,<sup>12a</sup>)
 
