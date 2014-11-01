@@ -72,13 +72,15 @@
 
 - 22ab) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
+- 22ac) § 20f až 20j Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
 - 22b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
 - 24) Napríklad zákon č. 607/2003 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov, zákon č. 238/2006 Z. z. o Národnom jadrovom fonde na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi (zákon o jadrovom fonde) a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2006 Z. z.
 
-- 24a) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
+- 24a) Napríklad § 12 a 15 zákona č. 528/2008 Z. z. v znení neskorších predpisov, § 16 a 25 zákona č. 292/2014 Z. z.
 
 - 24aa) Čl. 5 nariadenia Rady (ES, Euratom) č. 1605/2002 z 25. júna 2002 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Európskych spoločenstiev v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
 
@@ -179,6 +181,8 @@
 - 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov (úplné znenie č. 138/2004 Z. z.).
 
 - 48a) § 6a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 48b) Napríklad § 33 ods. 2 zákona č. 292/2014 Z. z.
 
 - 49) Napríklad zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov.
 
