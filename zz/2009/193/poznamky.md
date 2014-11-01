@@ -47,3 +47,5 @@
 - 6) § 39 písm. k) štvrtý bod zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
 
 - 7) § 39 písm. u) zákona č. 338/2000 Z. z. v znení zákona č. 191/2009 Z. z.
+
+- 8) § 31 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
