@@ -1,1 +1,0 @@
-Viliam Turský v. r.
