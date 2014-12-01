@@ -1,31 +1,39 @@
 # § 8d
 
-(1) Register je verejne prístupná evidencia hnuteľného majetku štátu, ktorého obstarávacia cena<sup>9a</sup>) alebo reprodukčná obstarávacia cena<sup>9a</sup>) je vyššia ako 10 000 eur, hnuteľného majetku štátu, ktorý určí zriaďovateľ svojím opatrením a nehnuteľného majetku štátu, ktorý bol vyhlásený za prebytočný a je predmetom osobitného ponukového konania alebo elektronickej aukcie. Register vedie ministerstvo financií a zverejňuje ho na svojom webovom sídle. Cenovú ponuku nemožno uplatniť prostredníctvom registra.
+(1) Register je verejne prístupná evidencia prebytočného majetku štátu ponúkaného v rámci ponukového konania, osobitného ponukového konania alebo elektronickej aukcie na predaj a dočasne prebytočného majetku štátu ponúkaného do nájmu, ak § 13 ods. 5 a 6 neustanovujú inak. Register je informačným systémom verejnej správy, ktorý spravuje ministerstvo financií.
 
 (2) Register obsahuje
 
-- a) identifikačné údaje správcu majetku štátu,
+- a) identifikačné údaje správcu,
 
-- b) identifikáciu majetku štátu s uvedením jeho charakteristiky,
+- b) identifikáciu majetku štátu,
 
-- c) primeranú cenu,
+- c) lehotu na doručenie ponúk na prevod správy,
 
-- d) lehotu na doručenie cenových ponúk záujemcov o prevod vlastníctva majetku štátu,
+- d) lehotu na doručenie cenových ponúk,
 
-- e) vyhodnotenie osobitného ponukového konania vrátane identifikačných údajov všetkých záujemcov a ich cenových ponúk,
+- e) požadovanú odplatu, primeranú cenu, primeranú cenu zníženú podľa § 8a ods. 8, 9 alebo ods. 11 alebo trhové nájomné,
 
-- f) identifikačné údaje kupujúceho a dohodnutú cenu,
+- f) vyhodnotenie ponukového konania,
 
-- g) údaje podľa § 14c ods. 4,
+- g) vyhodnotenie osobitného ponukového konania vrátane identifikačných údajov všetkých záujemcov a ich cenových ponúk,
 
-- h) vyhodnotenie cenových ponúk záujemcov podľa § 14c ods. 7 vrátane identifikačných údajov všetkých záujemcov a ich cenových ponúk,
+- h) vyhodnotenie výsledkov vyhlásenia elektronickej aukcie,
 
-- i) výsledky elektronickej aukcie vrátane identifikačných údajov kupujúceho.
+- i) vyhodnotenie elektronickej aukcie vrátane identifikačných údajov všetkých záujemcov a ich cenových ponúk,
 
-(3) Identifikačnými údajmi podľa odseku 2 písm. a) a f) sa rozumejú
+- j) vyhodnotenie cenových ponúk záujemcov o nájom majetku štátu vrátane identifikačných údajov všetkých záujemcov a ich cenových ponúk,
 
-- a) pri fyzických osobách meno, priezvisko a obec, v ktorej má fyzická osoba trvalý pobyt,
+- k) iné dôležité informácie.
 
-- b) pri právnických osobách názov, sídlo a identifikačné číslo.
+(3) Identifikačnými údajmi sa rozumejú pri
 
-(4) Správca je povinný predložiť žiadosť o zápis do registra najneskôr v deň zverejnenia ponuky v dennej tlači s celoštátnou pôsobnosťou. Žiadosť musí obsahovať údaje podľa odseku 2 písm. a) až d). Správca je povinný požiadať o zápis údajov podľa odseku 2 písm. e) do piatich pracovných dní od vyhodnotenia osobitného ponukového konania a údajov podľa odseku 2 písm. f) do piatich pracovných dní od uzavretia kúpnej zmluvy. Správca je povinný požiadať o zápis údajov podľa odseku 2 písm. h) do piatich pracovných dní od dňa vyhodnotenia cenových ponúk a údajov podľa odseku 2 písm. i) do piatich pracovných dní od uzavretia kúpnej zmluvy.
+- a) fyzických osobách meno, priezvisko a obec, v ktorej má fyzická osoba trvalý pobyt,
+
+- b) právnických osobách názov, sídlo a identifikačné číslo organizácie.
+
+(4) Správca je povinný zverejniť zápis údajov podľa odseku 2 písm. f) až h) v registri do piatich pracovných dní od ich vyhodnotenia.
+
+(5) Cenovú ponuku nemožno uplatniť prostredníctvom registra. Cenovú ponuku uplatňuje záujemca jej doručením správcovi v určenej lehote.
+
+(6) Každý správca je povinný mať na svojom webovom sídle odkaz na register.

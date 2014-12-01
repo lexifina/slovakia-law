@@ -4,7 +4,7 @@
 
 # § 13c
 
-(1) Koncesný majetok je majetok štátu v správe správcu, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej v koncesnej zmluve na uskutočnenie stavebných prác alebo v koncesnej zmluve na poskytnutie služby uzatvorenej podľa osobitného predpisu<sup>20c</sup>) (ďalej len „koncesná zmluva“).
+(1) Koncesný majetok je majetok štátu, ktorý užíva koncesionár v rozsahu, za podmienok a v lehote dohodnutej so správcom v koncesnej zmluve,<sup>20c</sup>) ak riziko vyplývajúce z práva na využívanie stavby alebo služby na dohodnutý čas alebo z tohto práva spojeného s peňažným plnením znáša v prevažnej miere koncesionár.
 
 (2) Správca nesmie koncesný majetok previesť do vlastníctva iných osôb. Ak je v koncesnej zmluve dohodnutá zmena správy koncesného majetku, pri prevode správy medzi správcom a nadobúdateľom sa ustanovenia § 8 nepoužijú. Na platnosť zmluvy o prevode správy sa nevyžaduje súhlas ministerstva financií a ani zriaďovateľa.
 

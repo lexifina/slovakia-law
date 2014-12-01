@@ -2,14 +2,20 @@
 
 (1) Na platnosť nakladania s majetkom štátu je v prípadoch ustanovených týmto zákonom potrebný súhlas ministerstva financií alebo zriaďovateľa.
 
-(2) Súhlas zriaďovateľa na nakladanie s majetkom štátu sa vyžaduje aj vtedy, ak si to zriaďovateľ podľa tohto zákona vyhradí svojím opatrením.
+(2) Funkciu zriaďovateľa na účely tohto zákona vykonáva
 
-(3) Funkciu zriaďovateľa na účely tohto zákona vykonáva
+- a) ústredný orgán štátnej správy,
 
-- a) ústredný orgán štátnej správy, ktorý zriadil štátnu rozpočtovú organizáciu alebo štátnu príspevkovú organizáciu,
+  - 1. ktorý zriadil správcu,
 
-- b) ústredný orgán štátnej správy, na ktorého rozpočet je zapojená finančnými vzťahmi alebo v ktorého vecnej pôsobnosti je štátna rozpočtová organizácia alebo štátna príspevková organizácia alebo štátny fond,
+  - 2. na ktorého rozpočet je zapojený správca, ktorý bol zriadený zákonom,
 
-- c) ministerstvo financií v prípadoch neuvedených v písmenách a) a b).
+  - 3. na ktorého rozpočet je zapojený správca, ktorým je štátny orgán bez právnej subjektivity,
 
-(4) Súhlas s nakladaním s majetkom štátu podľa tohto zákona je možné udeliť len vtedy, ak správca dodržal všetky podmienky ustanovené týmto zákonom a osobitnými zákonmi vzťahujúcimi sa na nakladanie s majetkom štátu. Na udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) tieto rozhodnutia nie sú preskúmateľné súdom.
+- b) Generálna prokuratúra Slovenskej republiky voči krajským prokuratúram a okresným prokuratúram,
+
+- c) Slovenská akadémia vied voči organizáciám akadémie,
+
+- d) ministerstvo financií v prípadoch neuvedených v písmenách a) až c).
+
+(3) Súhlas s nakladaním s majetkom štátu podľa tohto zákona je možné udeliť len vtedy, ak správca dodržal všetky podmienky ustanovené týmto zákonom a osobitnými zákonmi vzťahujúcimi sa na nakladanie s majetkom štátu. Na udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) tieto rozhodnutia nie sú preskúmateľné súdom.

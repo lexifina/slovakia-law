@@ -1,53 +1,41 @@
 # § 8a Osobitné ponukové konanie
 
-(1) Účelom osobitného ponukového konania je vytvorenie súťažného prostredia. Osobitné ponukové konanie sa začína zverejnením ponuky v dennej tlači s celoštátnou pôsobnosťou. Ponuka sa eviduje v registri prebytočného majetku štátu ponúkaného v osobitnom ponukovom konaní (ďalej len „register") a musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu podľa odseku 5, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako 10 kalendárnych dní odo dňa nasledujúceho po zverejnení ponuky.
+(1) Osobitné ponukové konanie sa začína dňom zverejnenia ponuky v registri. Ponuka v registri musí obsahovať najmä identifikáciu majetku štátu s uvedením jeho charakteristiky, primeranú cenu alebo primeranú cenu zníženú podľa odsekov 8, 9 alebo odseku 11, lehotu na doručenie cenových ponúk záujemcov, ktorá nesmie byť kratšia ako desať pracovných dní odo dňa nasledujúceho po dni zverejnenia ponuky, a údaj o výške a spôsobe zloženia zábezpeky, ak ju správca požaduje. Cenovú ponuku záujemcu možno akceptovať, ak bola predložená v lehote a za podmienok určených v osobitnom ponukovom konaní.
 
-(2) Správca
+(2) Správca nesmie osobitné ponukové konanie vykonať spôsobom, ktorý by bránil vytvoreniu čestného súťažného prostredia, a je povinný vylúčiť z osobitného ponukového konania cenovú ponuku záujemcu,
 
-- a) je oprávnený zrušiť osobitné ponukové konania, ak si to v ponuke vyhradil,
+- a) ktorý je spriaznenou osobou<sup>9c</sup>) s iným záujemcom,
 
-- b) môže od záujemcov požadovať zloženie finančnej zábezpeky, ktorú je povinný viesť na osobitnom účte,
+- b) ktorého cenová ponuka nebola v lehote určenej správcom doručená alebo ktorého cenová ponuka nebola vyjadrená pevnou sumou,
 
-- c) je povinný vylúčiť z osobitného ponukového konania cenové ponuky osôb blízkych,<sup>12b</sup>) majetkovo prepojených a personálne prepojených s iným záujemcom,
+- c) ktorý v lehote určenej správcom riadne nezložil zábezpeku, ak ju správca požadoval.
 
-- d) je povinný akceptovať cenovú ponuku vyjadrenú len jednou pevnou sumou,
+(3) Na účely tohto zákona sa za primeranú cenu považuje všeobecná hodnota majetku stanovená podľa osobitného predpisu.<sup>13b</sup>)
 
-- e) nesmie určiť podmienky, ktoré sťažujú alebo obmedzujú účasť záujemcu na osobitnom ponukovom konaní, ak tento zákon neustanovuje inak.
+(4) Správca môže od záujemcu žiadať zloženie zábezpeky v peňažných prostriedkoch. Výška správcom požadovanej zábezpeky nesmie prekročiť 10 % primeranej ceny alebo primeranej ceny zníženej podľa odsekov 8, 9 alebo odseku 11. Zábezpeka musí byť pripísaná na účet správcu do konca lehoty na doručovanie cenových ponúk. Zábezpeka záujemcu, s ktorým sa uzavrela kúpna zmluva, sa zarátava na splatenie kúpnej ceny.
 
-(3) Správca písomne pozve na vyhodnotenie cenových ponúk všetkých záujemcov najneskôr päť dní pred konaním vyhodnotenia; neúčasť niektorého záujemcu nie je prekážkou uskutočnenia ich vyhodnotenia. Správca je povinný otvoriť obálky a vyhodnotiť cenové ponuky záujemcov v komisii, ktorej členov vymenúva štatutárny orgán správcu. Pri rovnosti cenových ponúk je správca povinný vyzvať na vyhodnotení zúčastnených záujemcov na zvýšenie cenovej ponuky. Osobitné ponukové konanie je úspešné, ak najmenej jeden záujemca ponúkne primeranú cenu.
+(5) Správca je oprávnený zrušiť osobitné ponukové konanie, ak
 
-(4) Správca prevedie majetok štátu záujemcovi, ktorý v osobitnom ponukovom konaní ponúkne najvyššiu cenu. Ak záujemca, ktorý ponúkol v osobitnom ponukovom konaní najvyššiu cenovú ponuku, odstúpi od uzavretia zmluvy o prevode majetku štátu, správca môže vyzvať na uzavretie zmluvy o prevode majetku štátu v poradí ďalšieho záujemcu s cenovou ponukou vo výške aspoň primeranej ceny. Ak cenová ponuka žiadneho záujemcu nedosiahne výšku primeranej ceny, je správca povinný opakovať osobitné ponukové konanie.
+- a) bolo príslušným orgánom začaté konanie o vyvlastnení<sup>13ac</sup>) alebo konanie o obmedzení vlastníckeho práva štátu k predmetu prevodu alebo jeho časti,
 
-(5) Na účely tohto zákona sa za primeranú cenu považuje všeobecná hodnota majetku stanovená podľa osobitného predpisu.<sup>13b</sup>)
+- b) si to vyhradil v podmienkach osobitného ponukového konania.
 
-(6) Správca nie je povinný vykonať osobitné ponukové konanie pri prevode
+(6) Správca je povinný vyhodnotiť osobitné ponukové konanie v komisii. Členov komisie vymenúva a odvoláva štatutárny orgán správcu alebo ním poverená osoba. Správnosť výsledkov osobitného ponukového konania potvrdia členovia komisie. Osobitné ponukové konanie je úspešné, ak najmenej jeden záujemca, ktorý nie je osobou spriaznenou s iným záujemcom, predloží cenovú ponuku vyjadrenú pevnou sumou najmenej vo výške primeranej ceny a uhradí zábezpeku v plnej výške a v lehote určenej správcom na účet správcu, ak ju správca požadoval (ďalej len "určené podmienky").
 
-- a) majetku štátu uvedeného v § 8 ods. 2,
+(7) Správca vyzve na uzavretie kúpnej zmluvy záujemcu, ktorý v osobitnom ponukovom konaní splnil určené podmienky a ponúkol najvyššiu cenovú ponuku. Pri rovnosti najvyšších cenových ponúk je správca povinný záujemcov písomne vyzvať na zvýšenie cenových ponúk v lehote určenej správcom. Ak vyzvaný záujemca neuzatvorí kúpnu zmluvu v lehote určenej správcom alebo ak správca odstúpi od kúpnej zmluvy, pretože kupujúci v dohodnutej lehote nezaplatil kúpnu cenu, správca vyzve na uzatvorenie kúpnej zmluvy v poradí ďalšieho záujemcu, ktorý splnil určené podmienky. Ak vyzvaný záujemca neuzatvorí kúpnu zmluvu v primeranej lehote určenej správcom alebo správca odstúpi od kúpnej zmluvy, pretože kupujúci v dohodnutej lehote nezaplatil kúpnu cenu, zábezpeka prepadne v prospech štátu. Záujemcovi, ktorý nesplnil určené podmienky alebo ktorý odstúpil od svojej cenovej ponuky pred vyhodnotením osobitného ponukového konania, sa zábezpeka vráti po vyhodnotení osobitného ponukového konania. Záujemcovi, ktorý nebol vyzvaný na uzavretie zmluvy, aj keď splnil určené podmienky, sa zábezpeka vráti po úhrade kúpnej ceny kupujúcim, najneskôr do 90 dní od vyhodnotenia osobitného ponukového konania.
 
-- b) nezastavaného pozemku vo vlastníctve štátu, ak jeho celková výmera nepresahuje 200 m<sup>2</sup>,
+(8) Ak žiaden záujemca nesplní určené podmienky, správca je povinný opakovať osobitné ponukové konanie, v ktorom ponúkne majetok štátu za primeranú cenu zníženú o 10 %. Ak ani v opakovanom osobitnom ponukovom konaní žiaden záujemca nesplní určené podmienky a neponúkne za majetok štátu kúpnu cenu najmenej vo výške primeranej ceny zníženej o 10 %, správca vykoná osobitné ponukové konanie, v ktorom ponúkne majetok štátu za primeranú cenu zníženú o 30 %. Ak žiaden záujemca nesplní určené podmienky a neponúkne za majetok štátu kúpnu cenu najmenej vo výške primeranej ceny zníženej o 30%, správca vykoná osobitné ponukové konanie na majetok štátu za primeranú cenu zníženú o 60 %.
 
-- c) nehnuteľnej veci štátu do vlastníctva obce alebo mestskej časti hlavného mesta Slovenskej republiky Bratislavy a mestskej časti mesta Košice (ďalej len „obec“) za podmienky, že obec bude tento nehnuteľný majetok vo svojom mene využívať na poskytovanie všeobecne prospešných služieb<sup>13ad</sup>)alebo na výstavbu verejnoprospešných stavieb<sup>13ac</sup>) a že obec dodrží podmienky uvedené v § 11 ods. 4; to platí aj pri prevode nehnuteľnej veci štátu do vlastníctva vyššieho územného celku,
+(9) Ak je predmetom prevodu stavba<sup>13abf</sup>) spolu s pozemkom, cena podľa odseku 8 nemôže byť nižšia ako primeraná cena pozemku znížená o 50 %.
 
-- d) podielu majetku štátu, ktorým sa realizuje zákonné predkupné právo<sup>13c</sup>) alebo prednostné právo na prevod správy podielu majetku štátu v spoločnej správe podľa § 10 ods. 1,
+(10) Ak žiaden záujemca nesplní určené podmienky a neponúkne za majetok štátu kúpnu cenu najmenej vo výške primeranej ceny zníženej o 60 % alebo kúpnu cenu najmenej vo výške primeranej ceny pozemku zníženej o 50 %, správca je povinný bezodplatne ponúknuť majetok štátu obci, na ktorej území sa majetok štátu nachádza. Ak obec neprejaví do 30 dní od doručenia ponuky záujem o ponúkaný majetok štátu alebo ak neuzavrie darovaciu zmluvu do 30 dní od doručenia návrhu darovacej zmluvy, správca je povinný bezodplatne ponúknuť tento majetok vyššiemu územnému celku, v ktorého územnom obvode sa majetok nachádza, a to za rovnakých podmienok ako obci.
 
-- e) majetku štátu na účely poskytovania starostlivosti alebo výchovy a vzdelávania zariadeniu sociálnych služieb,<sup>13d</sup>) poskytovateľovi zdravotnej starostlivosti,<sup>13e</sup>) škole alebo školskému zariadeniu,<sup>13f</sup>) ak ide o právnickú osobu, ktorá nie je podnikateľom<sup>13g</sup>) a preukázateľne počas najmenej jedného roka poskytuje starostlivosť v zariadení sociálnych služieb,<sup>13d</sup>) najmenej jeden rok poskytuje zdravotnú starostlivosť<sup>13e</sup>) alebo je najmenej jeden rok zaradená do siete škôl a školských zariadení,<sup>13f</sup>) a ak zariadenie sociálnych služieb,<sup>13d</sup>) poskytovateľ zdravotnej starostlivosti,<sup>13e</sup>) škola alebo školské zariadenie<sup>13f</sup>) dodrží podmienky uvedené v § 11 ods. 4,
+(11) Ak je predmetom ponuky na prevod vlastníctva nepredajný majetok štátu okrem budovy, ktorá je národnou kultúrnou pamiatkou,<sup>17a</sup>) správca je oprávnený previesť ho v osobitnom ponukovom konaní za primeranú cenu zníženú o 90 %; ak je predmetom prevodu aj pozemok, najmenej za primeranú cenu pozemku zníženú o 50 %. Za nepredajný majetok štátu sa na účely tohto zákona považuje stavba,
 
-- f) nehnuteľnej veci štátu určenej pre potreby diplomatického zastúpenia cudzích štátov,
+- a) ktorú podľa potvrdenia stavebného úradu nie je možné z dôvodu jej technického stavu riadne užívať a ktorá ohrozuje život alebo zdravie osôb,
 
-- g) hnuteľnej veci štátu právnickej osobe, ktorá nie je podnikateľom,<sup>13g</sup>) ak preukázateľne počas najmenej jedného roka vykonáva činnosť zameranú na predchádzanie vzniku vážnych, ťažko liečiteľných chorôb a súvisiacu osvetovú činnosť a ak táto hnuteľná vec jej bude slúžiť na uvedené účely,
+- b) ktorú nie je možné hospodárne opraviť a
 
-- h) inej hnuteľnej veci štátu než uvedenej v písmenách d), e) a g) okrem vecí, ktoré určí zriaďovateľ svojím opatrením; na veci určené v tomto opatrení sa vzťahuje povinnosť vykonať osobitné ponukové konanie.
+- c) ktorej vlastníctvo sa nepodarilo previesť postupom podľa odsekov 8 až 10.
 
-(7) Ak správca nie je povinný vykonať ponukové konanie štátnym rozpočtovým organizáciám alebo štátnym príspevkovým organizáciám alebo osobitné ponukové konanie, prevedie nehnuteľný majetok štátu aspoň za primeranú cenu s výnimkou prevodu vlastníctva nehnuteľného majetku štátu
-
-- a) obci alebo vyššiemu územnému celku za podmienok uvedených v odseku 6 písm. c),
-
-- b) zariadeniu sociálnych služieb, poskytovateľovi zdravotnej starostlivosti, škole alebo školskému zariadeniu za podmienok uvedených v odseku 6 písm. e),
-
-- c) pre potreby diplomatického zastúpenia cudzích štátov.
-
-(8) Ak ani po opakovanom osobitnom ponukovom konaní vykonanom v časovom odstupe aspoň jedného mesiaca neponúkne žiadny záujemca primeranú cenu, ponúkne správca tento majetok obci, v územnom obvode ktorej sa tento majetok nachádza, za primeranú cenu podľa odseku 5 zníženú o 50 %. Ak do 30 dní od doručenia ponuky obec nezašle písomné stanovisko, v ktorom prejaví záujem takýto majetok prevziať za ponúknutú cenu, ponúkne správca takýto majetok vyššiemu územnému celku, v územnom obvode ktorého sa majetok nachádza, za rovnakých podmienok ako obci.
-
-(9) Ak aj vyšší územný celok do 30 dní od doručenia ponuky nezašle písomné stanovisko, v ktorom prejaví záujem takýto majetok prevziať za ponúknutú cenu, môže ho správca previesť do vlastníctva alebo správy inej právnickej osoby alebo fyzickej osoby, ktorá sa zúčastnila na osobitnom ponukovom konaní a ktorá ponúkla najvyššiu cenu, najmenej však za primeranú cenu podľa odseku 5 zníženú o 50 %. Na vyhodnotenie ponúknutých cien sa vzťahuje odsek 3.
-
-(10) Pri prevode nehnuteľného majetku štátu podľa odsekov 8 a 9 sa § 11 ods. 4 nepoužije. Pri prevode hnuteľného majetku štátu v rámci osobitného ponukového konania sa odseky 8 a 9 nepoužijú.
+(12) Predaj prebytočného majetku štátu, ktorý správca začal ponúkať v osobitnom ponukovom konaní, sa musí dokončiť týmto postupom.
