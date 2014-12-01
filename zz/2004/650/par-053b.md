@@ -6,9 +6,9 @@
 
 (2) Súčet menovitých hodnôt prevoditeľných cenných papierov a nástrojov peňažného trhu vo všetkých spravovaných doplnkových dôchodkových fondoch z jednej emisie nesmie tvoriť viac ako 30 % čistej hodnoty celej emisie; to neplatí pre cenné papiere a nástroje peňažného trhu vydané alebo zaručené členským štátom.
 
-(3) Vklady na bežných účtoch alebo na vkladových účtoch v jednej banke alebo pobočke zahraničnej banky podľa § 53a ods. 1 písm. b) nesmú tvoriť viac ako 20 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+(3) Vklady na bežných účtoch alebo na vkladových účtoch v jednej banke alebo pobočke zahraničnej banky podľa § 53a ods. 1 písm. b) nesmú tvoriť viac ako 20 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
 
-(4) Hodnota hypotekárnych záložných listov vydaných jednou bankou a dlhových cenných papierov vydaných jednou zahraničnou bankou so sídlom v členskom štáte alebo v nečlenskom štáte, ktorých menovitá hodnota vrátane výnosov je krytá pohľadávkami tejto banky z hypotekárnych úverov, nesmie tvoriť viac ako 25 % hodnoty majetku v doplnkovom dôchodkovom fonde.
+(4) Hodnota hypotekárnych záložných listov vydaných jednou bankou a dlhových cenných papierov vydaných jednou zahraničnou bankou so sídlom v členskom štáte alebo v nečlenskom štáte, ktorých menovitá hodnota vrátane výnosov je krytá pohľadávkami tejto banky z hypotekárnych úverov, nesmie tvoriť viac ako 25 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
 
 (5) Celková hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu neprijatých na obchodovanie na regulovanom trhu nesmie tvoriť viac ako 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde; tento limit sa nevzťahuje na investície podľa odseku 9.
 

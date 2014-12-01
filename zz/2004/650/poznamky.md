@@ -124,7 +124,7 @@
 
 - 40a) § 90 ods. 2 zákona č. 203/2011 Z. z.
 
-- 40b) § 66a Obchodného zákonníka.
+- 40b) Čl. 3 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17.11.2009) v platnom znení.
 
 - 41) § 2 ods. 1, 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
