@@ -4,7 +4,9 @@
 
 - Čl. 355 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. V. EÚ C 83, 30. 3. 2010).
 
-- 1aa) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
+- 1aa) Čl. 349 a 355 ods. 1 Zmluvy o fungovaní Európskej únie.
+
+- 1ab) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
 - 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
 
@@ -52,7 +54,7 @@
 
 - 6c) Rozhodnutie Európskeho parlamentu a Rady (ES) č. 1152/2003/ES zo 16. júna 2003 o informatizácii prepravy a kontroly výrobkov podliehajúcich spotrebnej dani (Mimoriadne vydanie Ú. v. EÚ, kap. 9/zv. 1; Ú. v. EÚ L 162, 1. 7. 2003).
 
-- 6d) § 88 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 6d) Napríklad zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64 až 66, § 68, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60, 83 a 83b Trestného zákona v znení neskorších predpisov, § 40 až 43 zákona č. 563/2009 Z. z.
 
