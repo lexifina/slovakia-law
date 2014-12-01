@@ -1,3 +1,0 @@
-- 1) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 2) Zákon č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.Výnos Ministerstva hospodárstva Slovenskej republiky z 11. decembra 2002 č. 1/2003, ktorým sa vykonávajú niektoré ustanovenia zákona č. 179/1998 Z. z. o obchodovaní s vojenským materiálom a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov (oznámenie č. 21/2003 Z. z.).
