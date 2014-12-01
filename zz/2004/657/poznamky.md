@@ -76,6 +76,10 @@
 
 - 16) § 415 až 459 Občianskeho zákonníka v znení neskorších predpisov.
 
+- 16a) § 6 zákona č. 555/2005 Z. z. v znení zákona č. 300/2012 Z. z.
+
+- 16b) § 3 ods. 7 zákona č. 555/2005 Z. z. v znení zákona č. 300/2012 Z. z.
+
 - 17) § 43 ods. 2 písm. a) až d) a h) zákona č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov.
 
 - 18) § 415 až 459 Občianskeho zákonníka v znení neskorších predpisov.
