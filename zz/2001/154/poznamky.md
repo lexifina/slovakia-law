@@ -1,6 +1,6 @@
 - 1) Zákon č. 153/2001 Z. z. o prokuratúre.
 
-- 4) § 21 ods. 3 zákona č. 172/1990 Zb. o vysokých školách v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+- 4) § 53 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) § 25 ods. 1 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Zb. o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách.
 
@@ -127,6 +127,8 @@
 - 65) Napríklad § 251 až 351 Občianskeho súdneho poriadku.
 
 - 66) Zákon č. 141/1961 Zb. v znení neskorších predpisov.
+
+- 66b) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 275/2002 Z. z.
 
 - 67) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

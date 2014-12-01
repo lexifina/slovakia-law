@@ -1,15 +1,11 @@
-# § 7a Výberová komisia
+# § 7a
 
-(1) Výberové konanie podľa § 7 uskutočňuje šesťčlenná výberová komisia. Na obdobie šiestich mesiacov určí žrebom po troch členoch výberovej komisie
+(1) Výberové konanie uskutočňuje výberová komisia. Výberová komisia má päť členov. Predsedom výberovej komisie a členom tejto komisie môže byť len prokurátor. Členov výberovej komisie a potrebný počet náhradníkov vymenúva a odvoláva generálny prokurátor na návrh Rady prokurátorov Slovenskej republiky (ďalej len "rada prokurátorov").
 
-- a) ústavnoprávny výbor Národnej rady Slovenskej republiky z kandidátov zvolených Národnou radou Slovenskej republiky a
+(2) Členovia výberovej komisie zvolia spomedzi seba predsedu výberovej komisie. Výberová komisia je uznášaniaschopná, ak sa na hlasovaní zúčastnia aspoň štyria jej členovia. Rozhodnutie výberovej komisie je platné, ak zaň hlasovali najmenej štyria jej členovia.
 
-- b) rada prokurátorov z kandidátov zvolených radou prokurátorov.
+(3) Výberová komisia zhodnotí výsledok výberového konania a určí poradie uchádzačov, ktorí úspešne absolvovali výberové konanie.
 
-(2) Na účely vytvorenia databázy kandidátov na členov výberovej komisie Národná rada Slovenskej republiky a rada prokurátorov volia na obdobie troch rokov po ôsmich kandidátoch na členov výberovej komisie; Národná rada Slovenskej republiky volí kandidátov komisie podľa pomeru politických síl. Databáza kandidátov sa zverejňuje na webovom sídle Národnej rady Slovenskej republiky a generálnej prokuratúry. Národná rada Slovenskej republiky a rada prokurátorov vykonajú aspoň tri mesiace pred uplynutím obdobia podľa prechádzajúcej vety úkony potrebné na voľbu nových kandidátov na členov výberovej komisie.
+(4) Predseda výberovej komisie predloží výsledok výberového konania na rozhodnutie generálnemu prokurátorovi. Súčasne zabezpečí zverejnenie zápisnice o priebehu výberového konania na webovom sídle generálnej prokuratúry.
 
-(3) Za kandidáta na člena výberovej komisie možno zvoliť alebo vymenovať len osobu, ktorá má morálne a odborné predpoklady pre nestranný výkon funkcie člena výberovej komisie, ktorá je spôsobilá posúdiť uchádzača podľa § 7 ods. 4 a ktorá pôsobí najmä v sektore vysokých škôl, neziskovom sektore alebo vykonáva právnické povolanie.
-
-(4) Členovia výberovej komisie volia spomedzi seba predsedu výberovej komisie. Výberová komisia je uznášaniaschopná, ak sa na hlasovaní zúčastnia aspoň štyria jej členovia. Jej rozhodnutie je platné, ak zaň hlasovali štyria jej členovia.
-
-(5) Výsledok výberového konania predloží predseda výberovej komisie generálnemu prokurátorovi, ktorý je výsledkom výberového konania viazaný.
+(5) Výsledok výberového konania oznámi generálny prokurátor uchádzačom do desiatich dní od skončenia výberového konania.

@@ -8,7 +8,7 @@
 
 - c) štátny občan Slovenskej republiky, ktorý spĺňa podmienky na vymenovanie do funkcie prokurátora (§ 6).
 
-(2) Na výberové konanie na funkcie uvedené v § 24a ods. 1 a 2 a na výberovú komisiu sa primerane použijú ustanovenia § 20 a 21.
+(2) Na výberové konanie na funkcie uvedené v § 24a ods. 1 a 2 a na výberovú komisiu sa primerane použijú ustanovenia § 21 a 21a.
 
 (3) Pred vymenovaním do funkcie alebo pridelením na výkon funkcie v Úrade špeciálnej prokuratúry generálny prokurátor
 
