@@ -40,8 +40,6 @@
 
 - 7a) § 116 Občianskeho zákonníka.
 
-- 7b) § 4 ods. 2 písm. a) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 9) § 34 zákona č. 757/2004 Z. z.
 
 - 10) § 45 zákona č. 757/2004 Z. z. v znení zákona č. 517/2008 Z. z.
@@ -110,7 +108,7 @@
 
 - 29) § 29 až 203 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
-- 30) Občiansky súdny poriadok.
+- 30) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
 
 - 33) Zákonník práce v znení neskorších predpisov.
 
