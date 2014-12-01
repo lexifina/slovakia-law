@@ -38,7 +38,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 14. | Výkon činnosti stavbyvedúceho alebo Výkon činnosti stavebného dozoru alebo Energetická certifikácia | – osvedčenie o vykonaní skúšky odbornej spôsobilosti alebo – osvedčenie o získaní osobitnej odbornej spôsobilosti | § 31 ods. 2 písm. j) a k) zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov |
 
-- 15. | Výkon činnosti energetického audítora | osvedčenie o zápise do zoznamu energetických audítorov | § 9 ods. 1 zákona č. 476/2008 Z. z. o efektívnosti pri používaní energie (zákon o energetickej efektívnosti) a o zmene a doplnení zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov v znení zákona è. 17/2007 Z. z. |
+- 15. | Výkon činnosti energetického audítora | - Osvedčenie o odbornej spôsobilosti energetického audítora | § 12 ods. 8 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov |
+
+- 15a. | Poskytovanie energetickej služby s garantovanou úsporou energie | - Osvedčenie o odbornej spôsobilosti na poskytovanie garantovanej energetickej služby alebo osvedčenie o odbornej spôsobilosti energetického audítora | § 19 ods. 3 alebo § 12 ods. 8 zákona č. 321/2014 Z. z. |
 
 - 16. | Vykonávanie trhacích prác | 1. oprávnenie strelmajstra, vek 21 rokov alebo 2. oprávnenie technického vedúceho odstrelu, vek 24 rokov | § 32 a 33 zákona č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov |
 
