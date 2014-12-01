@@ -2,9 +2,7 @@
 
 - 2) § 24 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
-- 3) Napríklad § 53 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z., zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov, § 74 zákona Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní, § 50 ods. 2 zákona Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni.
-
-- 3a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej.
+- 3) Napríklad zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení neskorších predpisov, zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 - 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 4) Napr. § 261 a nasl. zákona č. 513/1991 Zb. (Obchodný zákonník), § 488 a nasl. zákona č. 40/1964 Zb. (Občiansky zákonník) v znení neskorších predpisov.
 
@@ -12,17 +10,17 @@
 
 - 5a) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
-- 6) Zákon č. 600/1992 Zb. o cenných papieroch.
-
-- 7) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 567/1992 Zb.
-
-- § 14 ods. 2 vyhlášky Ministerstva financií Slovenskej republiky č. 638/1992 Zb. o hospodárení s prostriedkami štátneho rozpočtu Slovenskej republiky a o hospodárení rozpočtových a príspevkových organizácií.
-
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 9) § 244 až 246c, § 250l a nasl. zákona č. 41/1964 Zb. (Občiansky súdny poriadok) v znení neskorších predpisov.
+- 9a) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 9a) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
+- 9b) Napríklad čl. 4 Ústavy Slovenskej republiky, § 62 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
+
+- 9c) § 9 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 9d) § 3 písm. a) a b) zákona č. 392/2011 Z. z. o obchodovaní s výrobkami obranného priemyslu a o zmene a doplnení niektorých zákonov.
+
+- Výnos Ministerstva hospodárstva Slovenskej republiky z 20. júna 2013 č. 1/2013, ktorým sa vydáva zoznam výrobkov obranného priemyslu (oznámenie č. 198/2013 Z. z.).
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
@@ -30,13 +28,19 @@
 
 - 10a) Zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky.
 
+- 10b) Napríklad čl. 71 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013), čl. 7.5 Dohody medzi Európskou úniou, Islandom, Lichtenštajnským kniežatstvom a Nórskym kráľovstvom o finančnom mechanizme EHP na obdobie rokov 2009 - 2014 (Ú. v. EÚ L 291, 9. 11. 2010), čl. 7.5 Dohody medzi Nórskym kráľovstvom a Európskou úniou o nórskom finančnom mechanizme na obdobie rokov 2009 - 2014 (Ú. v. EÚ L 291, 9. 11. 2010).
+
+- 10c) Napríklad zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov, § 2 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 96/2012 Z. z., zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10d) § 6 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov.
+
 - 11) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon), zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 12) Napríklad § 135, 456 a 462 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 185g Občianskeho súdneho poriadku v znení zákona č. 263/1992 Zb., § 59 a 60 Trestného zákona.
 
 - 12a) Príloha č. 2 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení vyhlášky č. 647/2004 Z. z.
 
-- 12b) § 116, 117 Občianskeho zákonníka.
+- 12aa) Napríklad § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov, § 9 zákona č. 94/2013 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon) a o zmene niektorých zákonov.
 
 - 13) Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
@@ -66,9 +70,9 @@
 
 - 13c) Napr. § 140 Občianskeho zákonníka.
 
-- 13d) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 330/2007 Z. z.
+- 13d) § 45 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
-- Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 24b až 24d, § 25 až 29, § 32 až 40, § 56, § 58 až 60 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 13e) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -80,27 +84,23 @@
 
 - 14) § 23 ods. 3 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
 
-- 14a) § 21 ods. 4 písm. b) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
-
-- 15) Zákon č. 526/1990 Zb. o cenách.
+- 14a) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 16) § 43 a nasl. Občianskeho zákonníka.
 
-- 16a) Napríklad zákon č. 111/1990 Zb. v znení neskorších predpisov.
+- 16a) Napríklad zákon č. 111/1990 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
 
 - 17) § 588 a nasl., § 628 a nasl. a § 611 Občianskeho zákonníka.
 
 - 17a) § 2 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu.
 
-- 17b) § 39 Občianskeho zákonníka.
-
 - 17c) § 602 a § 603 ods. 2 a 3 Občianskeho zákonníka.
 
 - 18) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
-- 18a) § 4 zákona Slovenskej národnej rady č. 27/1987 Zb.
-
 - 18b) Výnos Ministerstva financií Slovenskej republiky z 27. februára 1996 č. 41/59/1996, ktorým sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách (oznámenie č. 66/1996 Z. z.) v znení výnosu Ministerstva financií Slovenskej republiky z 24. júna 1997 č. 28145/1996/41 (oznámenie č. 194/1997 Z. z.).
+
+- 18ba) § 15 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 18c) Napríklad zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -112,25 +112,25 @@
 
 - 20aa) § 676 ods. 2 Občianskeho zákonníka.
 
-- 20b) Výmer Ministerstva financií Slovenskej republiky z 12. marca 1996 č. R-1/1996, ktorým sa určuje rozsah tovaru s regulovanými cenami (oznámenie č. 89/1996 Z. z.) v znení neskorších predpisov.
+- 20b) § 43a ods. 3 písm. r) zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
 
 - 20c) Zákon č. 25/2006 Z. z. v znení neskorších predpisov.
 
 - 21) § 659 a nasl. Občianskeho zákonníka.
 
-- 21a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
-
 - 22) § 43i ods. 1 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 22a) § 43a ods. 3 písm. f), g), h) a i) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 22b) Napríklad zákon č. 135/1961 Zb. v znení neskorších predpisov.
+- 22b) Napríklad § 10 zákona č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov, § 66 zákona č. 351/2011 Z. z. o elektronických komunikáciách, § 11 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov.
 
 - 23) § 151a a nasl. Občianskeho zákonníka.
 
 - 23a) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 23aa) § 151n Občianskeho zákonníka.
+
+- 23aaa) Napríklad § 497 až 507 Obchodného zákonníka, § 36a, 68, 69 a 74 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23ab) § 154 až 220 Obchodného zákonníka.
 
@@ -176,4 +176,4 @@
 
 - 29) § 15 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov a v znení neskorších predpisov.
 
-- 30) Napríklad nariadenie Európskeho parlamentu a Rady 1081/2006/ES z 5. júla 2006 o Európskom sociálnom fonde, ktorým sa zrušuje nariadenie 1784/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006), nariadenie Rady 1083/2006/ES z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie 1260/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006).
+- 30) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 1304/2013 zo 17. decembra 2013 o Európskom sociálnom fonde a o zrušení nariadenia Rady (ES) č. 1081/2006 (Ú. v. EÚ L 347, 20.12. 2013), nariadenie (EÚ) č. 1303/2013.
