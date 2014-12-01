@@ -1,1 +1,0 @@
-- 1) § 2 ods. 3 zákona č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplnení niektorých zákonov.
