@@ -1,0 +1,3 @@
+# Čl. XII
+
+Tento zákon nadobúda účinnosť 1. decembra 2014 okrem čl. I, čl. II, čl. IV až VI, § 10 písm. a) a c) v čl. VIII, čl. IX bodov 1 až 4 a 7, čl. X bodu 4, § 2 písm. x) časť vety pred bodkočiarkou v bode 8, bodov 11, 24, § 8 ods. 4 prvej vety v bode 31, bodov 48 a 49, § 16b ods. 7 prvej až tretej vety v bode 50, bodov 51, 52, 54 až 56 a čl. XI, ktoré nadobúdajú účinnosť 1. januára 2015, a okrem čl. III, § 10 písm. b) v čl. VIII a čl. X bodov 1 až 3, 5 až 7, § 2 písm. x) časti vety za bodkočiarkou v bode 8, bodov 9, 10, 12 až 23, 25 až 30, § 8 ods. 4 poslednej vety v bode 31, bodov 32 až 47, § 16b ods. 7 poslednej vety v bode 50 a bodov 53, 57 a 58, ktoré nadobúdajú účinnosť 1. apríla 2015.
