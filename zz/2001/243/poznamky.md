@@ -18,7 +18,7 @@
 
 - 5) STN 3-6 (1998) + STN EN 3-6/A1 (2000), STN EN 3-7 + A1 (2008), STN EN 3-8 (2007) + STN EN 3-8/AC (2008), STN EN 3-9 (2007) + STN EN 3-9/AC (2008).
 
-- 6) Článok 1.3 STN EN 62388 (2008) Námorná navigácia a rádiokomunikačné zariadenia a systémy. Lodný radar. Požiadavky na funkčnú spôsobilosť, skúšobné metódy a vyžadované výsledky skúšok.
+- 6) Článok 1.3 STN EN 62388 (2008) Námorná navigácia a rádiokomunikačné zariadenia a systémy. Lodný radar. Požiadavky na funkčnú spôsobilosť, skúšobné metódy a vyžadované výsledky skúšok (32 6778).
 
 - 7) ISO 15372 (2000).
 
