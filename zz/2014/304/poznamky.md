@@ -1,0 +1,1 @@
+- 6) Článok 1.3 STN EN 62388 (2008) Námorná navigácia a rádiokomunikačné zariadenia a systémy. Lodný radar. Požiadavky na funkčnú spôsobilosť, skúšobné metódy a vyžadované výsledky skúšok (32 6778).
