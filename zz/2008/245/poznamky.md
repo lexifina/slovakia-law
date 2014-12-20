@@ -28,6 +28,8 @@
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
+- 14a) § 7 ods. 18 zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 377/2014 Z. z.
+
 - 15) § 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
 
 - 16) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
