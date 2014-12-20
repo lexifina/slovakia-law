@@ -8,7 +8,7 @@
 
 - c) zoznam žiadateľov, ktorým sa neposkytla dotácia s uvedením dôvodu jej neposkytnutia,
 
-- d) zmluvy uzatvorené medzi ministerstvom a žiadateľmi o dotáciu.
+- d) zmluvy o poskytnutí dotácie (ďalej len "zmluva") uzatvorené medzi ministerstvom a žiadateľmi o dotáciu,
 
 - e) vyhodnotenie výsledkov dosiahnutých už poskytnutými dotáciami, ak nimi ministerstvo disponuje,
 
