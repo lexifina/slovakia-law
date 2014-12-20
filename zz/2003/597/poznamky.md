@@ -42,6 +42,8 @@
 
 - 20a) § 13 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
+- 20b) § 13 ods. 5 až 7 zákona č. 245/2008 Z. z. v znení zákona č. 377/2014 Z. z.
+
 - 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.
 
 - 22) Zákon č. 291/2002 Z. z. o štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -127,6 +129,8 @@
 - § 2 ods. 1 písm. c) nariadenia vlády Slovenskej republiky č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov.
 
 - 24f) § 53 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
+
+- 24fa) § 13 ods. 7 písm. a) zákona č. 245/2008 Z. z. v znení zákona č. 377/2014 Z. z.
 
 - 24g) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
