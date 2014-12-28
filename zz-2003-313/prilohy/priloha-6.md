@@ -1,0 +1,3 @@
+Príloha č. 6 k nariadeniu vlády č. 313/2005 Z. z.
+
+- VYHLÁSENIE ÚRADNÉHO VETERINÁRNEHO LEKÁRA [Vzor 06](../assets/a2e14d3397a1ba3204890e5328ff99f486544e7db3450432077fd1227032422b.pdf)
