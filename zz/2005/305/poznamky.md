@@ -4,6 +4,8 @@
 
 - 3) Trestný zákon.
 
+- 3a) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov.
+
 - 4) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 5) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
