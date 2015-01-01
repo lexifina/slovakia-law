@@ -210,6 +210,26 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - Centrálny depozitár cenných papierov a člen centrálneho depozitára cenných papierov<sup>16</sup>) sú povinní z evidencií, ktoré vedú, poskytovať Národnej banke Slovenska ňou požadované informácie na účel výkonu dohľadu.
 
+- (13)
+
+- Pri výkone dohľadu nad jednotlivými bankami a pobočkami zahraničných bánk a dohľadu na konsolidovanom základe Národná banka Slovenska spolupracuje s príslušnými orgánmi dohľadu iného členského štátu, so Slovenskou komorou audítorov, s audítormi alebo audítorskými spoločnosťami<sup>17</sup>) (ďalej len „audítor“), s prevádzkovateľmi platobných systémov<sup>9</sup>) a má právo vymieňať si s nimi informácie a upozorniť ich na nedostatky zistené pri výkone dohľadu. Na poskytovanie informácií podľa tohto odseku sa nevzťahuje povinnosť mlčanlivosti podľa tohto zákona a osobitných predpisov.<sup>18</sup>) Na účely dohľadu nad pobočkou banky zriadenou v inom členskom štáte Národná banka Slovenska poskytuje príslušnému orgánu dohľadu iného členského štátu najmä informácie o riadení a vlastníckej štruktúre banky, informácie týkajúce sa dodržiavania pravidiel likvidity, udržiavania svojich vlastných zdrojov a obmedzení majetkovej angažovanosti banky, ďalšie skutočnosti, ktoré môžu ovplyvniť systémové riziko vyvolané bankou a informácie o systéme ochrany vkladov, administratívnych a účtovných postupoch a o vnútorných kontrolných postupoch banky. Národná banka Slovenska môže upozorniť Európsky orgán dohľadu (Európsky orgán pre bankovníctvo), ak bola jej žiadosť o spoluprácu, najmä o výmenu informácií, zamietnutá alebo nebola vybavená v primeranej lehote. Národná banka Slovenska poskytuje príslušnému orgánu dohľadu členského štátu akékoľvek informácie a zistenia týkajúce sa dohľadu nad likviditou banky v rozsahu, v ktorom sú dôležité pre ochranu vkladateľov alebo investorov v členskom štáte, v ktorom má banka pobočku; ak sa vyskytne alebo sa môže odôvodnene očakávať problém s likviditou, tieto informácie zahŕňajú aj údaje o plánovaní a realizácii plánu na obnovu a o opatreniach prijatých v rámci dohľadu. Ak ide o pobočku zahraničnej banky zriadenú v Slovenskej republike, Národná banka Slovenska informuje príslušný orgán dohľadu iného členského štátu o systéme ochrany vkladov uplatňovanom v Slovenskej republike. Dôverné informácie od príslušných orgánov dohľadu iných členských štátov môže Národná banka Slovenska zverejniť len so súhlasom týchto orgánov dohľadu, ktoré tieto informácie poskytli. Poskytnuté dôverné informácie od orgánov dohľadu iných členských štátov Národná banka Slovenska môže použiť len pri výkone svojich povinností a na účely
+
+- a)
+
+- dohľadu nad dohliadanými subjektmi pri kontrole a monitorovaní dodržiavania podmienok týkajúcich sa začatia podnikania dohliadaných subjektov a podnikania dohliadaných subjektov na individuálnom základe alebo konsolidovanom základe, najmä ak ide o monitorovanie ich likvidity, kapitálovej primeranosti, veľkej majetkovej angažovanosti, administratívnych a účtovných postupov a mechanizmov vnútornej kontroly,
+
+- b)
+
+- uplatňovania sankcií podľa tohto zákona alebo osobitných predpisov,<sup>15</sup>)
+
+- c)
+
+- konaní o opravných prostriedkoch proti rozhodnutiam Národnej banky Slovenska,
+
+- d)
+
+- súdnych konaní o preskúmavaní rozhodnutí Národnej banky Slovenska alebo iných súdnych konaní súvisiacich s dohliadanými subjektmi alebo s dohľadom nad dohliadanými subjektmi.
+
 - (14)
 
 - Ak Národná banka Slovenska dospeje k záveru, že pobočka zahraničnej banky je významná, podá žiadosť spolu s odôvodnením orgánu dohľadu iného členského štátu zodpovedného za výkon dohľadu na konsolidovanom základe nad zahraničnou bankou alebo orgánu dohľadu v inom členskom štáte, ktorý vykonáva dohľad nad zahraničnou bankou, ktorá pobočku zahraničnej banky zriadila, aby určil, že pobočka tejto zahraničnej banky je významná; Národná banka Slovenska pritom osobitne prihliada na
@@ -229,6 +249,10 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 - (15)
 
 - Národná banka Slovenska v záujme určenia, že pobočka zahraničnej banky je významná, spolupracuje s orgánmi dohľadu podľa odseku 14. Ak sa Národná banka Slovenska a orgán dohľadu podľa odseku 14 v lehote do dvoch kalendárnych mesiacov od doručenia žiadosti podľa odseku 14 nedohodnú o určení, že pobočka zahraničnej banky je významná, Národná banka Slovenska do dvoch kalendárnych mesiacov po uplynutí tejto lehoty určí, či táto pobočka zahraničnej banky je významná. Národná banka Slovenska pritom zohľadňuje názory a výhrady orgánu dohľadu podľa odseku 14. Ak v lehote dvoch mesiacov od doručenia žiadosti podľa odseku 14 orgán dohľadu podľa odseku 14 požiada Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o pomoc pri dosiahnutí dohody v súlade s osobitným predpisom,<sup>19</sup>) Národná banka Slovenska určí, či pobočka zahraničnej banky je významná v súlade s rozhodnutím Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo). Ak Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) také rozhodnutie nevydá najneskôr do jedného mesiaca po doručení žiadosti o pomoc, Národná banka Slovenska určí samostatne, či je pobočka zahraničnej banky významná. Národná banka Slovenska postúpi informáciu o tom, že pobočka zahraničnej banky je významná, spolu s úplným odôvodnením orgánu dohľadu podľa odseku 14. Určenie, že pobočka zahraničnej banky je významná, nemá vplyv na práva a povinnosti Národnej banky Slovenska podľa tohto zákona a ostatných súvisiacich všeobecne záväzných právnych predpisov.
+
+- (16)
+
+- Národná banka Slovenska oznamuje príslušnému orgánu dohľadu členského štátu, v ktorom je umiestnená pobočka banky určená ako významná, informácie podľa § 48 ods. 9 písm. c) a d) a pri spolupráci s týmto príslušným orgánom dohľadu postupuje podľa § 48 ods. 7 písm. c). Ak sa Národná banka Slovenska dozvie o kritickej situácii podľa § 48 ods. 1 v banke, ktorej pobočka je určená ako významná, bezodkladne upozorní príslušný orgán dohľadu členského štátu, v ktorom je umiestnená významná pobočka banky a ďalší orgán verejnej moci v tomto členskom štáte, ktorý má informácie o tejto pobočke banky. Národná banka Slovenska oznámi príslušnému orgánu dohľadu členského štátu, v ktorom je umiestnená významná pobočka banky, výsledok posúdenia rizika podľa odseku 2, ako aj svoje rozhodnutia podľa § 50 v rozsahu relevantnom pre túto pobočku banky. Národná banka Slovenska tiež konzultuje s príslušným orgánom dohľadu nápravné opatrenia, ak je to relevantné pre riziká týkajúce sa likvidity.
 
 - (17)
 
@@ -353,6 +377,14 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 - (27)
 
 - Národná banka Slovenska vykoná najmenej raz ročne stresové testovanie a výsledky vykonaných stresových testov<sup>20b</sup>) môže zverejniť alebo ich poskytnúť Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo) na účely zverejňovania výsledkov stresových testov z Európskej únie.
+
+- (28)
+
+- Ak príslušný orgán dohľadu členského štátu poskytne informácie a zistenia Národnej banke Slovenska týkajúce sa pobočky banky pri výkone bankových činností alebo banky pri výkone bankových činností na území tohto členského štátu, na základe ktorých je potrebné vykonať opatrenia na nápravu, tak Národná banka Slovenska oznámi a na požiadanie vysvetlí príslušnému orgánu dohľadu členského štátu, aké opatrenia na nápravu prijala. Ak príslušný orgán dohľadu členského štátu z dôvodu nesúhlasu s postupom Národnej banky Slovenska prijme vlastné opatrenia na nápravu a Národná banka Slovenska nesúhlasí s týmito opatreniami na nápravu, môže vec predložiť na vyjadrenie Európskemu orgánu dohľadu (Európskemu orgánu pre bankovníctvo) podľa osobitného predpisu.<sup>19</sup>)
+
+- (29)
+
+- Ak Národná banka Slovenska poskytne informácie a zistenia príslušnému orgánu dohľadu členského štátu týkajúce sa pobočky zahraničnej banky podľa § 11 ods. 1 pri výkone bankových činností alebo zahraničnej banky pri výkone bankových činností podľa § 11 ods. 2 na území Slovenskej republiky, na základe ktorých je potrebné vykonať opatrenia na nápravu, a tento členský štát neprijme primerané opatrenia, Národná banka Slovenska môže po informovaní tohto príslušného orgánu dohľadu a Európskeho orgánu dohľadu (Európskeho orgánu pre bankovníctvo) prijať náležité opatrenia na zabránenie ďalším porušeniam s cieľom chrániť záujmy vkladateľov, investorov a ostatných subjektov, ktorým sa poskytujú služby, alebo chrániť stabilitu finančného systému.
 
 - (30)
 
@@ -601,6 +633,32 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 - 23. V § 13 ods. 7 sa slová „§ 2 ods. 1 písm. b) a ods. 2“ nahrádzajú slovami „§ 2 ods. 2 okrem prijímania vkladov“.
 
 - 24. V § 16 sa slová „orgán dohľadu príslušného“ vo všetkých tvaroch nahrádzajú slovami „príslušný orgán dohľadu“ v príslušnom tvare a na konci sa pripájajú tieto vety: „Ak to Národná banka Slovenska považuje za potrebné z dôvodu finančnej stability v Slovenskej republike, môže po konzultácii s príslušným orgánom dohľadu členského štátu v pobočke zahraničnej banky vykonať dohľad na mieste a požadovať informácie na účely dohľadu. Po takom dohľade Národná banka Slovenska oznámi získané informácie a zistenia príslušnému orgánu dohľadu členského štátu na účely ním vykonávaného dohľadu v zahraničnej banke.“.
+
+- 25. § 17 znie:
+
+- „§ 17
+
+- (1)
+
+- Ak Národná banka Slovenska zistí, že pobočka zahraničnej banky podľa § 11 ods. 1 pri výkone bankových činností alebo zahraničná banka pri výkone bankových činností podľa § 11 ods. 2 na území Slovenskej republiky porušuje právne predpisy alebo existuje odôvodnené riziko nedodržiavania právnych predpisov, bezodkladne o tom informuje príslušný orgán dohľadu členského štátu, v ktorom má táto zahraničná banka sídlo. Ak Národná banka Slovenska zistí, že príslušný orgán dohľadu členského štátu neprijal opatrenia na odstránenie porušovania právnych predpisov alebo na odvrátenie odôvodneného rizika nedodržiavania právnych predpisov, môže požiadať Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o riešenie tohto stavu.
+
+- (2)
+
+- Národná banka Slovenska na základe informácií od príslušného orgánu dohľadu iného členského štátu o porušení právnych predpisov alebo o existencii odôvodneného rizika nedodržiavania právnych predpisov pobočkou banky alebo bankou, ktorá vykonáva bankové činnosti na území tohto členského štátu, prijme opatrenia na odstránenie porušovania právnych predpisov alebo na odvrátenie odôvodneného rizika nedodržiavania právnych predpisov touto bankou alebo pobočkou banky. O týchto opatreniach informuje príslušný orgán dohľadu tohto členského štátu.
+
+- (3)
+
+- Ak vec neznesie odklad a príslušný orgán dohľadu členského štátu neprijme opatrenia podľa odseku 1 alebo reorganizačné opatrenia podľa § 53 ods. 8, môže Národná banka Slovenska prijať preventívne opatrenia na ochranu klientov pobočky zahraničnej banky podľa odseku 1 alebo klientov zahraničnej banky podľa odseku 1, ktoré môžu spočívať aj v pozastavení platobných operácií<sup>24e</sup>) s vkladmi. Tieto preventívne opatrenia nemôžu uprednostniť veriteľov pobočky zahraničnej banky podľa odseku 1 alebo zahraničnej banky podľa odseku 1. O prijatí takých opatrení bezodkladne informuje Národná banka Slovenska Európsku Komisiu (ďalej len „Komisia“), Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a príslušný orgán dohľadu členského štátu, v ktorom má táto zahraničná banka sídlo. Ak príslušný orgán dohľadu iného členského štátu prijme preventívne opatrenia a Národná banka Slovenska má proti týmto opatreniam námietky, Národná banka Slovenska môže požiadať o pomoc Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) podľa osobitného predpisu.<sup>19</sup>)
+
+- (4)
+
+- Ak príslušný orgán členského štátu prijme reorganizačné opatrenia podľa § 53 ods. 8, tak preventívne opatrenia, ktoré prijala Národná banka Slovenska podľa odseku 3, sú neplatné a Národná banka Slovenska ich zruší. Ak príslušný orgán členského štátu neprijme reorganizačné opatrenia podľa § 53 ods. 8 a preventívne opatrenia, ktoré prijala Národná banka Slovenska podľa odseku 3, sa stanú neopodstatnenými, Národná banka Slovenska ich zruší.“.
+
+- Poznámka pod čiarou k odkazu 24e znie:
+
+- „24e)
+
+- § 2 ods. 2 zákona č. 492/2009 Z. z.“.
 
 - 26. V § 18 ods. 1 sa za slovo „účely“ vkladajú slová „a informačné účely“.
 
@@ -2150,6 +2208,52 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 
 - 54. V § 34 ods. 5 sa slová „ods. 10“ nahrádzajú slovami „ods. 14“.
 
+- 55. § 36a znie:
+
+- „§ 36a
+
+- (1)
+
+- Ak odseky 2 a 3 neustanovujú inak, § 75 ods. 1 písm. h), ods. 4 písm. a) až g), ods. 6, 9 až 12 sa použijú rovnako na úver poskytnutý bankou alebo pobočkou zahraničnej banky za týchto podmienok:
+
+- a)
+
+- úver sa poskytuje fyzickej osobe, ktorá pri uzatváraní a plnení zmluvy o takomto úvere nekoná v rámci predmetu svojho podnikania,
+
+- b)
+
+- úver je zabezpečený záložným právom k tuzemskej nehnuteľnosti, bytu alebo nebytovému priestoru, a to aj rozostavaným,
+
+- c)
+
+- účelom úveru je financovanie tuzemskej nehnuteľnosti, bytu alebo nebytového priestoru, a to aj rozostavaných,
+
+- d)
+
+- úver nie je hypotekárnym úverom ani spotrebiteľským úverom podľa osobitného predpisu.<sup>32a</sup>)
+
+- (2)
+
+- Ustanovenia § 75 ods. 1 písm. h), ods. 4 písm. d), ods. 6, 10 až 12 sa nepoužijú na úvery podľa odseku 1, ktoré majú fixnú úrokovú sadzbu počas celej doby splatnosti úveru.
+
+- (3)
+
+- Ustanovenia § 75 ods. 1 písm. h), ods. 4 písm. b) a d), ods. 6, 9 až 12 sa nepoužijú na úvery podľa odseku 1, ktoré poskytuje banka alebo pobočka zahraničnej banky svojim zamestnancom bez úroku alebo s úrokovou sadzbou nižšou, ako prevláda na finančnom trhu, a ktoré sa neponúkajú verejne.
+
+- (4)
+
+- Ak je fyzickou osobou podľa odseku 1 písm. a) osoba, ktorá ku dňu podania žiadosti o úver dovŕšila 18 rokov a neprekročila 35 rokov veku, zmluva o úvere podľa odseku 1 musí obsahovať aj záväzok banky alebo pobočky zahraničnej banky, že jej umožní odložiť splátky istiny úveru alebo znížiť mesačnú splátku úveru až na polovicu jej výšky na dobu 24 mesiacov, ak sa tejto osobe narodí dieťa a táto osoba o to banku alebo pobočku zahraničnej banky písomne požiada v lehote do troch mesiacov po narodení dieťaťa a k žiadosti priloží aj rodný list dieťaťa.
+
+- (5)
+
+- Odloženie splátok istiny úveru alebo zníženie mesačnej splátky úveru podľa odseku 4, a to na základe výberu z týchto možností osobou podľa odseku 4, začne plynúť dňom účinnosti zmeny zmluvy o úvere podľa odseku 1, ktorej predmetom je odloženie splátok istiny úveru alebo zníženie mesačnej splátky úveru.“.
+
+- Poznámka pod čiarou k odkazu 32a znie:
+
+- „32a)
+
+- Zákon č. 129/2010 Z. z. v znení neskorších predpisov.“.
+
 - 56. Poznámka pod čiarou k odkazu 33 znie:
 
 - „33)
@@ -2461,6 +2565,10 @@ Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov 
 - „g)
 
 - banka alebo pobočka zahraničnej banky poruší ustanovenie § 7 ods. 6 a 7, § 8 ods. 6 a 7 a § 28 ods. 5, 8 a 9.“.
+
+- 106. V § 75 ods. 1 písm. h) sa slová „odsekov 6 až 11“ nahrádzajú slovami „odsekov 6 až 12“.
+
+- 107. V § 75 ods. 8 sa za slová „písm. h)“ vkladá čiarka a slová „a to na základe výberu z týchto možností klientom podľa odseku 4 písm. h),“.
 
 - 108. V § 82 ods. 1 sa vypúšťajú slová „a podľa osobitného predpisu<sup>15</sup>)“.
 
