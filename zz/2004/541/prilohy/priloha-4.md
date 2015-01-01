@@ -11,3 +11,5 @@ Príloha č. 4 k zákonu č. 541/2004 Z. z.
   - 4. Smernica Rady 2009/71/Euratom z 25. júna 2009, ktorou sa zriaďuje rámec Spoločenstva pre jadrovú bezpečnosť jadrových zariadení (Ú. v. EÚ L 172, 2. 7. 2009).
 
   - 5. Smernica Rady 2011/70/Euratom z 19. júla 2011, ktorou sa zriaďuje rámec Spoločenstva pre zodpovedné a bezpečné nakladanie s vyhoretým palivom a rádioaktívnym odpadom (Ú. v. EÚ L 199, 2. 8. 2011).
+
+  - 6. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).

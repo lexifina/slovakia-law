@@ -44,11 +44,11 @@
 
 - 10) Napríklad § 5 ods. 1 zákona č. 656/2004 Z. z. o energetike a o zmene a doplnení niektorých zákonov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 10a) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 11a) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
-
-- 11b) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+- 11b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 12) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
