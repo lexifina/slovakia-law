@@ -26,6 +26,8 @@
 
 - 13a) Napríklad § 40 zákona č. 400/2009 Z. z.o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 13aa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 14) § 63 ods. 2 a 3 zákona č. 400/2009 Z. z..
 
 - 15) § 22 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
