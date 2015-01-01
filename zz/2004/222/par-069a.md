@@ -16,7 +16,7 @@
 
 (5) Daňový zástupca je povinný podať za zastúpených dovozcov daňové priznanie Daňovému úradu Bratislava za obdobie kalendárneho mesiaca, a to do 25 dní po skončení kalendárneho mesiaca. K daňovému priznaniu je daňový zástupca povinný priložiť zoznam zastúpených dovozcov s uvedením sumy všetkých základov dane ním deklarovaných dodaní tovaru osobitne za každého zastúpeného dovozcu.
 
-(6) Daňový zástupca je povinný podať za zastúpených dovozcov súhrnný výkaz podľa § 80 Daňovému úradu Bratislava za obdobie kalendárneho mesiaca, a to do 20 dní po skončení kalendárneho mesiaca.
+(6) Daňový zástupca je povinný podať za zastúpených dovozcov súhrnný výkaz podľa § 80 Daňovému úradu Bratislava za obdobie kalendárneho mesiaca, a to do 25 dní po skončení kalendárneho mesiaca.
 
 (7) Daňový zástupca má práva a povinnosti zastúpenej osoby v rozsahu, v akom koná za zastúpeného dovozcu vo veci oslobodenia od dane podľa § 48 ods. 3 na základe udeleného plnomocenstva.
 

@@ -1,6 +1,6 @@
 # § 78a Kontrolný výkaz
 
-(1) Platiteľ je povinný podať kontrolný výkaz elektronickými prostriedkami za každé zdaňovacie obdobie, za ktoré je povinný podať daňové priznanie, do 25 dní po skončení zdaňovacieho obdobia. Ak platiteľ podá daňové priznanie pred 25. dňom po skončení zdaňovacieho obdobia, je povinný podať kontrolný výkaz v deň podania daňového priznania. Platiteľ nie je povinný podať kontrolný výkaz za zdaňovacie obdobie, za ktoré podáva daňové priznanie, v ktorom
+(1) Platiteľ je povinný podať kontrolný výkaz elektronickými prostriedkami za každé zdaňovacie obdobie, za ktoré je povinný podať daňové priznanie, do 25 dní po skončení zdaňovacieho obdobia. Platiteľ nie je povinný podať kontrolný výkaz za zdaňovacie obdobie, za ktoré podáva daňové priznanie, v ktorom
 
 - a) nie je povinný uviesť žiadne údaje o plneniach,
 

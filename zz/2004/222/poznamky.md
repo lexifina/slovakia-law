@@ -26,11 +26,11 @@
 
 - Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov.
 
-- 5a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 659/2007 Z. z.
+- 5a) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
-- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
+- Čl. 12 ods. 12.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 83, 30. 3. 2010).
 
-- Čl. 111 ods. 1 až 3 Zmluvy o založení Európskeho spoločenstva v platnom znení (Ú. v. EÚ C 321E, 29. 12. 2006).
+- § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
 - 5aa) § 4 a 5 zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
@@ -123,6 +123,16 @@
 - 28) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 28a) Čl. 496 nariadenia Komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) č. 2913/92, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 6; Ú. v. ES L 253, 11.10.1993) v platnom znení.
+
+- 28aa) Vykonávacie nariadenie Komisie (EÚ) č. 815/2012 z 13. septembra 2012, ktorým sa ustanovujú podrobné pravidlá uplatňovania nariadenia Rady (EÚ) č. 904/2010, pokiaľ ide o osobitné úpravy pre neusadené zdaniteľné osoby, ktoré poskytujú telekomunikačné služby, služby rozhlasového vysielania a televízneho vysielania alebo elektronické služby nezdaniteľným osobám (Ú. v. EÚ L 249, 14. 9. 2012).
+
+- 28ab) § 13 ods. 5 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+
+- 28ac) § 13 ods. 6 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 28ad) Nariadenie Rady (EÚ) č. 967/2012 z 9. októbra 2012, ktorým sa mení a dopĺňa vykonávacie nariadenie EÚ č. 282/2011, pokiaľ ide o osobitné úpravy pre neusadené zdaniteľné osoby, ktoré poskytujú telekomunikačné služby, služby rozhlasového a televízneho vysielania alebo elektronické služby nezdaniteľným osobám (Ú. v. EÚ L 290, 20. 10. 2012).
+
+- 28ae) § 155 ods. 1 písm. g) a ods. 5 zákona č. 563/2009 Z. z.
 
 - 28b) Zákon č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
