@@ -13,3 +13,5 @@ Príloha č. 3 k nariadeniu vlády č. 305/2006 Z. z.
   - 5. Smernica Európskeho parlamentu a Rady 2011/87/EÚ zo 16. novembra 2011, ktorou sa mení a dopĺňa smernica 2000/25/ES, pokiaľ ide o uplatňovanie emisných etáp v prípade úzkorozchodných traktorov (Ú. v. EÚ L 301, 18. 11. 2011).
 
   - 6. Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 7. Smernica Komisie 2014/43/EÚ z 18. marca 2014, ktorou sa menia prílohy I, II a III k smernici Európskeho parlamentu a Rady 2000/25/ES o opatreniach proti emisiám plynných a pevných znečisťujúcich látok motorov na pohon poľnohospodárskych alebo lesných traktorov (Ú. v. EÚ L 82, 20. 3. 2014).
