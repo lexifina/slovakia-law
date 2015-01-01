@@ -1,0 +1,5 @@
+# Čl. I
+
+Výnos Ministerstva zdravotníctva Slovenskej republiky o minimálnych požiadavkách na personálne zabezpečenie a materiálno-technické vybavenie jednotlivých druhov zdravotníckych zariadení (oznámenie č. 410/2008 Z. z.) v znení výnosu z 10. decembra 2008 č. 25118/2008-OL (oznámenie č. 576/2008 Z. z.), výnosu z 10. augusta 2009 č. 16480/2009-OL (oznámenie č. 335/2009 Z. z.), výnosu zo 6. apríla 2011 č. 00707-OL-2011 (oznámenie č. 124/2011 Z. z.), výnosu zo 7. decembra 2011 č. 11943-OL-2011 (oznámenie č. 464/2011 Z. z.), výnosu zo 14. decembra 2012 č. 09780-OL-2012 (oznámenie č. 419/2012 Z. z.), výnosu z 2. mája 2014 (oznámenie č. 02395-OL-2014 (oznámenie č. 125/2014 Z. z.), výnosu z 9. decembra 2014 č. 09993-OL-2014 (oznámenie č. 348/2014 Z. z.), opatrenia z 2. decembra 2016 č. S08241-OL-2016 (oznámenie č. 335/2016 Z. z.), opatrenia zo 16. januára 2018 č. 02055-2017-OL (oznámenie č. 23/2018 Z. z.) a opatrenia zo 7. júla 2021 č. 13660-2021-OL sa mení a dopĺňa takto:
+
+- [príloha](assets/5bf80f24ef16771ca259049b959f16a1135d224040e24bbc537d15780e611d10.pdf)
