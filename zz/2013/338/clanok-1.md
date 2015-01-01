@@ -342,11 +342,27 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 62. V § 179 ods. 1 písm. e) sa za slovo „pozostalostnú“ vkladá slovo „úrazovú“.
 
+- 63. V § 226 sa odsek 1 dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- písomne oznámiť samostatne zárobkovo činnej osobe vznik povinného nemocenského poistenia a povinného dôchodkového poistenia, vymeriavací základ na platenie poistného, výšku poistného na nemocenské poistenie, výšku poistného na starobné poistenie a príspevkov na starobné dôchodkové sporenie, výšku poistného na invalidné poistenie a výšku poistného do rezervného fondu solidarity, dátum splatnosti poistného a príspevkov na starobné dôchodkové sporenie a údaje týkajúce sa úhrady poistného a príspevkov na starobné dôchodkové sporenie, určených na základe údajov vedených v informačnom systéme Sociálnej poisťovne, a to do 20 dní od vzniku povinného poistenia.“.
+
 - 64. § 227a sa dopĺňa odsekom 4, ktorý znie:
 
 - „(4)
 
 - Ak bol fyzickej osobe v právnom vzťahu na základe ňou určenej dohody o brigádnickej práci študentov podľa odseku 1, ktorý jej zakladá právo na pravidelný mesačný príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3, vyplatený príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3 po zániku tejto dohody, príjem rozhodujúci na vznik a zánik povinného dôchodkového poistenia je súčet pomernej časti príjmu vyplateného po skončení dohody podľa odseku 1 pripadajúcej na každý kalendárny mesiac trvania tejto dohody a mesačného príjmu z tejto dohody.“.
+
+- 65. V § 228 odsek 1 znie:
+
+- „(1)
+
+- Samostatne zárobkovo činná osoba, na ktorú sa v právnych vzťahoch sociálneho poistenia uplatňujú predpisy Slovenskej republiky podľa osobitného predpisu<sup>4</sup>) alebo podľa medzinárodnej zmluvy, ktorá má prednosť pred zákonmi Slovenskej republiky, je povinná oznámiť príslušnej pobočke výšku príjmov a výdavkov samostatne zárobkovo činnej osoby zo zárobkovej činnosti podľa § 3 ods. 3. Samostatne zárobkovo činná osoba podľa prvej vety je povinná oznámiť príslušnej pobočke aj skutočnosti rozhodujúce na posúdenie vzniku a zániku povinného nemocenského poistenia a povinného dôchodkového poistenia samostatne zárobkovo činnej osoby podľa § 21 ods. 4 a 5, a to do ôsmich dní odo dňa, v ktorom nastali. Údaje podľa prvej vety je samostatne zárobkovo činná osoba povinná oznámiť do ôsmich dní od právoplatného určenia príslušnosti k právnym predpisom Slovenskej republiky a v bežnom roku najneskôr do 31. mája kalendárneho roka za predchádzajúci kalendárny rok.“.
+
+- 66. V § 228 ods. 2 sa vypúšťa bodkočiarka a slová „splnenie povinnosti podľa odseku 1 sa nevyžaduje“.
+
+- 67. V § 228 ods. 4 sa za slovo „osoba“ vkladajú slová „uvedená v odseku 1“.
 
 - 68. V § 231 ods. 1 písm. b) treťom bode sa slová „tretej vety“ nahrádzajú slovami „štvrtej vety“ a písmeno b) sa dopĺňa piatym bodom až siedmym bodom, ktoré znejú:
 
@@ -388,7 +404,11 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 73. V § 233 ods. 6 písm. a) sa vypúšťajú slová „údaj o jednotlivých obdobiach výkonu zárobkovej činnosti samostatne zárobkovo činnou osobou v období, za ktoré sa podáva daňové priznanie,“ za slovami „zdravotné poistenie“ sa vypúšťa čiarka a slová „poistného na sociálne poistenie, povinného príspevku na starobné dôchodkové sporenie“.
 
+- 74. V § 233 ods. 6 písm. a) sa slová „30. júna“ nahrádzajú slovami „31. mája“ a slová „31. októbra“ sa nahrádzajú slovami „5. októbra“.
+
 - 75. V § 233 ods. 6 písm. b) sa za slovami „zdravotné poistenie“ vypúšťa čiarka a vypúšťajú sa slová „poistného na sociálne poistenie, povinného príspevku na starobné dôchodkové sporenie v lehote“.
+
+- 76. V § 233 ods. 6 písm. b) sa slová „do 30 dní “ nahrádzajú slovami „do 15 dní“.
 
 - 77. V § 233 ods. 9 sa na konci pripájajú tieto slová: „do 15 dní od jeho vydania alebo zrušenia.“.
 
@@ -472,7 +492,13 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - § 293dc
 
-- Sociálna poisťovňa môže postúpiť pohľadávky uvedené v § 293s ods. 1, § 293ak a § 293cd ods. 1 od 1. januára 2014 podľa § 149 ods. 1 účinného od 1. januára 2014.“.
+- Sociálna poisťovňa môže postúpiť pohľadávky uvedené v § 293s ods. 1, § 293ak a § 293cd ods. 1 od 1. januára 2014 podľa § 149 ods. 1 účinného od 1. januára 2014.
+
+- § 293dd
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2015
+
+- Ak samostatne zárobkovo činná osoba nesplní pred 1. januárom 2015 povinnosť podľa § 228 ods. 1 v znení účinnom do 31. decembra 2014, postupuje sa podľa zákona v znení účinnom pred 1. januárom 2015.“.
 
 - 80. V prílohe č. 5 sa vypúšťa druhý bod.
 
