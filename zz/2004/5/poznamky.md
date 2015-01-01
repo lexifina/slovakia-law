@@ -198,15 +198,15 @@
 
 - 45d) § 8 ods. 3 písm. b) zákona č. 568/2009 Z. z.
 
-- 46) Nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214, 9. 8. 2008).
-
-- 46a) § 281 až 288 Obchodného zákonníka.
+- 46) Nariadenie Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
 
 - 46b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 46c) § 140 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 46d) § 6 ods. 3 písm. b) zákona č. 124/2006 Z. z. v znení zákona č. 470/2011 Z. z.
+
+- 46e) Čl. 32 ods. 3 nariadenia (EÚ) č. 651/2014.
 
 - 49) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
@@ -216,9 +216,9 @@
 
 - 53) § 20f Občianskeho zákonníka.
 
-- 58) Nariadenie (ES) č. 1998/2006.
+- 58) Nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352, 24. 12. 2013).
 
-- 59aba) Nariadenie (ES) č. 800/2008.
+- 59aba) Nariadenie (EÚ) č. 651/2014.
 
 - Zákon č. 561/2007 Z. z. v znení neskorších predpisov.
 
@@ -226,13 +226,13 @@
 
 - 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
 
-- 59ad) Príloha 1 nariadenia (ES) č. 800/2008.
+- 59ad) Príloha I nariadenia (EÚ) č. 651/2014.
 
 - 59ae) § 2 ods. 2 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 59af) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
-- 59ag) Čl. 1 nariadenia (ES) č. 1998/2006.
+- 59ag) Čl. 1 nariadenia (EÚ) č. 1407/2013.
 
 - 59ah) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
@@ -276,7 +276,7 @@
 
 - 63aaa) Zákon č. 568/2009 Z. z.
 
-- 63ab) Napríklad nariadenie (ES) č. 1998/2006, nariadenie (ES) č. 800/2008.
+- 63ab) Napríklad nariadenie (EÚ) č. 1407/2013, nariadenie (EÚ) č. 651/2014.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 

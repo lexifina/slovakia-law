@@ -8,4 +8,6 @@ Príloha č. 1a k zákonu č. 5/2004 Z. z.
 
   - B. Vzor preukazu kontrolóra úradu
 
-  - ![obrázok 02](../assets/b0d134a3df63d1199bf1a8421707548de9ca8f68e3ebe2c609fb1b0dd3da7d6a.jpg)
+    - VZOR PREUKAZU
+
+  - ![Príloha č. 1a k zákonu č. 5/2004 Z. z.](../assets/b304f4f155d2558a90b500bec374ce8cab42f508d0e29da518d4294ea54ab248.jpg)
