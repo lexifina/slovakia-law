@@ -1,10 +1,6 @@
 - 1) Zákon č. 153/2001 Z. z. o prokuratúre.
 
-- 4) § 53 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 5) § 25 ods. 1 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Zb. o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách.
-
-- 6) § 25 ods. 2 zákona č. 172/1990 Zb. v znení zákona Národnej rady Slovenskej republiky č. 324/1996 Z. z.
+- 4) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -27,6 +23,8 @@
 - 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
 - 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 16a) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 17) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
