@@ -58,6 +58,20 @@ Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorý
 
   - Doterajšie odseky 5 až 7 sa označujú ako odseky 6 až 8.
 
+- 6. V § 3 odsek 6 znie:
+
+- „(6)
+
+- Akadémia zabezpečuje aj vytvorenie, správu a ochranu jednotnej databázy prípadov v podobe súdnych spisov v elektronickej podobe alebo písomnej podobe z oblasti trestného práva, správneho práva, pracovného práva, rodinného práva, obchodného práva a občianskeho práva, ktoré sú spracované na účely písomnej časti výberového konania na obsadenie voľného miesta sudcu. Na požiadanie výberovej komisie akadémia dodá z databázy súdnych prípadov pre potreby písomnej časti výberovej komisii súdne spisy na elektronickom nosiči v počte rovnajúcom sa dvojnásobku uchádzačov prihlásených do výberového konania, pričom polovicu takto dodaných súdnych spisov tvoria súdne spisy z oblasti trestného práva a druhú polovicu súdne spisy z oblasti správneho práva, pracovného práva, rodinného práva, obchodného práva a občianskeho práva.“.
+
+- 7. V § 3 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Akadémia zabezpečuje aj vytvorenie, správu a ochranu jednotnej databázy prípadov a spisov potrebných na vykonanie písomnej časti odbornej justičnej skúšky osobitne pre justičných čakateľov a osobitne pre právnych čakateľov prokuratúry.“.
+
+  - Doterajšie odseky 7 a 8 sa označujú ako odseky 8 a 9.
+
 - 8. V § 3 odsek 8 znie:
 
 - „(8)
@@ -71,6 +85,10 @@ Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorý
   - Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.“.
 
 - 9. V § 3 ods. 9 sa slová "odsekov 1 až 6" nahrádzajú slovami "odsekov 1 až 8".
+
+- 10. V § 6 ods. 3 sa slová "najviac v dvoch po sebe nasledujúcich obdobiach" nahrádzajú slovami "aj opakovane".
+
+- 11. V § 8 ods. 1 sa slová "najviac dve po sebe nasledujúce funkčné obdobia" nahrádzajú slovami "aj opakovane".
 
 - 12. V § 11 odsek 8 znie:
 
