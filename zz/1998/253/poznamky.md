@@ -30,6 +30,8 @@
 
 - 8a) Čl. 8, čl. 15 ods. 2 Prílohy VI. nariadenia Európskeho parlamentu a rady č. 211/2011, Ú. v. EÚ L 65, 11. 3. 2011, s. 1 až 22.
 
+- 8aa) Zákon č. 335/2014 Z. z. spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
+
 - 8b) § 3 ods. 1 a 2 zákona č. 275/2006 Z. z. v znení neskorších predpisov.
 
 - 8c) Nariadenie Európskeho parlamentu a Rady (ES) č. 767/2008 z 9. júla 2008 o vízovom informačnom systéme (VIS) a výmene údajov o krátkodobých vízach medzi členskými štátmi (nariadenie o VIS) (Ú. v. EÚ L 218, 13. 8. 2008) v platnom znení.
