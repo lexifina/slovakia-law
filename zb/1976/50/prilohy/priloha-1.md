@@ -1,4 +1,4 @@
-Príloha k zákonu č. 50/1976 Zb. v znení neskorších predpisov
+Príloha č. 1 k zákonu č. 50/1976 Zb. v znení neskorších predpisov
 
 - SÍDLA A ÚZEMNÉ OBVODY STAVEBNÝCH INŠPEKTORÁTOV Inšpektorát - sídlo | Územná pôsobnosť v obvodoch okresov
 

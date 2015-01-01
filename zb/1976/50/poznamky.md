@@ -20,6 +20,8 @@
 
 - 1g) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 1ga) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
+
 - 1h) § 27 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 1i) Napríklad zákon č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší), zákon č. 44/1988 Zb., zákon č. 195/2000 Z. z. o telekomunikáciách, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 58/1997 Z. z., zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov, zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
@@ -161,6 +163,20 @@
 - 15) Napríklad zákon č. 656/2004 Z. z. o energetike a o zmene niektorých zákonov, zákon č. 657/2004 Z. z. o tepelnej energetike, zákon č. 610/2003 Z. z. o elektronických komunikáciách v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
 - 15a) § 85 ods. 6 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 454/2007 Z. z.
+
+- 15b) § 29 a 37 zákona č. 24/2006 Z. z.
+
+- 15c) § 3 písm. k) zákona č. 24/2006 Z. z.
+
+- 15d) § 29 ods. 12, § 37 ods. 1 a § 19 ods. 1 zákona č. 24/2006 Z. z.
+
+- 15e) § 18 ods. 1 a 2 zákona č. 24/2006 Z. z.
+
+- 15f) § 3 písm. f) zákona č. 24/2006 Z. z.
+
+- 15g) § 29 ods. 1 písm. b) zákona č. 24/2006 Z. z.
+
+- 15h) § 22 ods. 1 zákona č. 24/2006 Z. z.
 
 - 17) § 2 ods. 1 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí.
 
