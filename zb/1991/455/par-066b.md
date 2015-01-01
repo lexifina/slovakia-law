@@ -17,3 +17,5 @@
 - b) potvrdenie o tom, že poskytovanie služieb na základe živnostenského oprávnenia nie je obmedzené alebo zakázané,
 
 - c) potvrdenie o prijatí oznámenia o cezhraničnom poskytovaní služieb na území Slovenskej republiky,
+
+- d) kópiu dokumentu alebo časti dokumentu podľa osobitného predpisu.<sup>39a</sup>)
