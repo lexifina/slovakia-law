@@ -134,6 +134,8 @@
 
 - Čl. 18 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
+- 47i) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
+
 - 48) Napríklad zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z., zákon č. 429/2002 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
 - 49) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
@@ -185,6 +187,20 @@
 - 56ad) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
 
 - 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+
+- 56ba) § 3 ods. 1 zákona č. 371/2014 Z. z.
+
+- 56bb) § 2 zákona č. 371/2014 Z. z.
+
+- 56bc) Čl. 31 písm. c) nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
+- 56bd) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
+- 56be) § 33t až 33y zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
+
+- 56bf) § 33t až 33v zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
+
+- 56bg) § 62 zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
 
@@ -503,6 +519,10 @@
 - 110i) § 31 ods. 1 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
+
+- 110k) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 

@@ -53,3 +53,5 @@ Príloha k zákonu č. 566/2001 Z. z.
   - 25. Smernica Európskeho parlamentu a Rady 2011/89/EÚ zo 16. novembra 2011, ktorou sa menia a dopĺňajú smernice 98/78/ES, 2002/87/ES, 2006/48/ES a 2009/138/ES, pokiaľ ide o doplnkový dohľad nad finančnými inštitúciami vo finančnom konglomeráte (Ú. v. EÚ L 326, 8. 12. 2011).
 
   - 26. Smernica Európskeho parlamentu a Rady 2013/36/EÚ z 26. júna 2013 o prístupe k činnosti úverových inštitúcií a prudenciálnom dohľade nad úverovými inštitúciami a investičnými spoločnosťami, o zmene smernice 2002/87/ES a o zrušení smerníc 2006/48/ES a 2006/49/ES (Ú. v. EÚ L 176, 27. 6. 2013).
+
+  - 27. Smernica Európskeho parlamentu a Rady 2014/59/EÚ z 15. mája 2014, ktorou sa stanovuje rámec pre ozdravenie a riešenie krízových situácií úverových inštitúcií a investičných spoločností a ktorou sa mení smernica Rady 82/891/EHS a smernice Európskeho parlamentu a Rady 2001/24/ES, 2002/47/ES, 2004/25/ES, 2005/56/ES, 2007/36/ES, 2011/35/EÚ, 2012/30/EÚ a 2013/36/EÚ a nariadenia Európskeho parlamentu a Rady (EÚ) č. 1093/2010 a (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014).
