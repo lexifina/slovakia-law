@@ -8,7 +8,7 @@
 
 (4) Ak exekútor, ktorého výkon funkcie exekútora zanikol, alebo iné osoby neumožnia náhradníkovi exekútora prevzatie exekučných spisov do 15 dní od zániku výkonu funkcie exekútora, prezídium komory (§ 214), poverení zástupcovia ministerstva a náhradník exekútora si môžu vynútiť vstup do priestorov exekútorského úradu, prípadne do iných priestorov, kde sa exekučné spisy nachádzajú. Na ten účel náhradník exekútora môže požiadať o súčinnosť príslušný útvar Policajného zboru.
 
-(5) Ak náhradník exekútora z dôvodov podľa § 44 ods. 3, § 57 alebo § 60 nebude pokračovať v konaniach podľa odseku 3, je povinný v lehote 14 dní vyporiadať plnenia, ktoré vymohol exekútor, ktorého výkon funkcie exekútora zanikol, vrátane trov exekútora, ktorého výkon funkcie exekútora zanikol.
+(5) Ak náhradník exekútora z dôvodov podľa § 44 ods. 4, § 57 alebo § 60 nebude pokračovať v konaniach podľa odseku 3, je povinný v lehote 14 dní vyporiadať plnenia, ktoré vymohol exekútor, ktorého výkon funkcie exekútora zanikol, vrátane trov exekútora, ktorého výkon funkcie exekútora zanikol.
 
 (6) Vyporiadaním plnenia podľa odseku 5 na účely tohto zákona je poukázanie vymoženého plnenia po odčítaní trov náhradníka exekútora
 

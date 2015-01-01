@@ -1,19 +1,23 @@
 # § 222c
 
-(1) Konferencia exekútorov volí na obdobie troch rokov 11 predsedov disciplinárnych senátov z dvojnásobného počtu exekútorov navrhnutých prezídiom komory, ktorí sa na účely vytvárania disciplinárnych senátov zaraďujú do databázy predsedov disciplinárnych senátov.
+(1) Predseda disciplinárneho senátu alebo člen disciplinárneho senátu, ktorý je exekútorom, musí spĺňať tieto podmienky:
 
-(2) Minister vymenúva na obdobie troch rokov
+- a) pôsobí vo funkcii najmenej päť rokov,
 
-- a) 11 členov disciplinárnych senátov z dvojnásobného počtu kandidátov z exekútorov, sudcov alebo iných osôb, ktoré pôsobia najmä v sektore vysokých škôl alebo vykonávajú právnické povolanie, navrhnutých prezídiom komory, ktorí sa na účely vytvárania disciplinárnych senátov zaraďujú do databázy členov disciplinárnych senátov navrhnutých komorou,
+- b) nevedie sa proti nemu disciplinárne konanie alebo trestné stíhanie,
 
-- b) 11 členov disciplinárnych senátov zo sudcov, zamestnancov ministerstva alebo iných osôb, ktoré pôsobia najmä v sektore vysokých škôl alebo vykonávajú právnické povolanie, ktorí sa na účely vytvárania disciplinárnych senátov zaraďujú do databázy členov disciplinárnych senátov navrhnutých ministrom.
+- c) nie je mu pozastavený výkon funkcie exekútora,
 
-(3) Minister vymenúva členov disciplinárnych senátov na základe žiadosti prezídia komory. V žiadosti prezídium komory určí
+- d) v posledných troch rokoch mu nebolo uložené disciplinárne opatrenie,
 
-- a) počet členov disciplinárnych senátov, ktorých je potrebné vymenovať,
+- e) nie je členom niektorého z iných orgánov komory.
 
-- b) databázu, do ktorej má byť člen disciplinárneho senátu vymenovaný,
+(2) Funkcia predsedu disciplinárneho senátu alebo člena disciplinárneho senátu, ktorý je exekútorom, zaniká
 
-- c) lehotu na vymenovanie kandidátov, ktorá nesmie byť kratšia ako 30 dní odo dňa doručenia žiadosti.
+- a) uplynutím funkčného obdobia, ak disciplinárny poriadok neustanoví inak,
 
-(4) Prezident komory je povinný zabezpečiť zverejnenie databáz podľa odsekov 1 a 2 na webovom sídle komory a bezodkladné zverejňovanie všetkých zmien v týchto databázach.
+- b) ak prestal spĺňať podmienky na výkon funkcie exekútora alebo podmienky podľa odseku 1,
+
+- c) vzdaním sa funkcie v disciplinárnej komisii.
+
+(3) Exekútor má ako predseda disciplinárneho senátu alebo člen disciplinárneho senátu nárok na odmenu a na náhradu hotových výdavkov. Podrobnosti o určení odmeny a náhrady hotových výdavkov a jej výške upraví vnútorný predpis komory.

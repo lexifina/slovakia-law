@@ -4,9 +4,9 @@
 
 # § 218d
 
-(1) Kontrolou exekučnej činnosti sa overuje
+(1) Kontrolou exekučnej činnosti sa overuje najmä
 
-- a) dodržiavanie ustanovení tohto zákona pri nakladaní s prostriedkami účastníkov konania, s ktorými disponuje exekútor,
+- a) dodržiavanie všeobecne záväzných právnych predpisov exekútorom a dodržiavanie ustanovení tohto zákona pri nakladaní s prostriedkami účastníkov konania, s ktorými disponuje exekútor,
 
 - b) dostupnosť, správnosť a úplnosť informácií o vykonávaných úkonoch exekútora pri hospodárení s prostriedkami účastníkov konania a správnosť vedenia a evidencie účtovných a iných dokladov preukazujúcich prijaté a poukázané plnenia,
 

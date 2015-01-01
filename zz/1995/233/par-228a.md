@@ -16,4 +16,4 @@
 
 (2) Proti rozhodnutiu o zastavení disciplinárneho konania podľa odseku 1 písm. a), c) a d) je prípustné odvolanie; o odvolaní rozhoduje iný disciplinárny senát.
 
-(3) Každé ďalšie odvolanie podané proti rozhodnutiu o zastavení konania sa prideľuje tomu disciplinárnemu senátu, ktorý bol vytvorený pri prvom podanom odvolaní v tomto disciplinárnom konaní.
+(3) Každé ďalšie odvolanie podané proti rozhodnutiu o zastavení konania sa prideľuje disciplinárnemu senátu podľa odseku 2, ktorý rozhodol v tomto disciplinárnom konaní o skôr podanom odvolaní.

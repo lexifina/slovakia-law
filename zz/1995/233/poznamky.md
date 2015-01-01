@@ -30,23 +30,55 @@
 
 - 4c) Napríklad § 14 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
-- 4d) Napríklad § 68c zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z., § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní, Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
+- 4d) Napríklad § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní, Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
 
 - 4e) Čl. 110 ods. 2, čl. 225a, čl. 244 a 256 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002).
 
-- 4ea) Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 (Ú. v. EÚ L 143, 30. 4. 2004).
-
 - 4eaa) § 8 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
+
+- 4eab) § 67 zákona č. 97/1963 Zb.
+
+- § 49 zákona č. 244/2002 Z. z.
+
+- 4eac) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004, nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006 z 12. decembra 2006, ktorým sa zavádza európske konanie o platobnom rozkaze (Ú. v. EÚ L 399, 30. 12. 2006), nariadenie Európskeho parlamentu a Rady (ES) č. 861/2007 z 11. júla 2007, ktorým sa ustanovuje Európske konanie vo veciach s nízkou hodnotou sporu (Ú. v. EÚ L 199, 31. 7. 2007), oddiel 1 kapitola IV nariadenia Rady (ES) č. 4/2009 z 18. decembra 2008 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a o spolupráci vo veciach vyživovacej povinnosti (Ú. v. EÚ L 7, 10. 1. 2009), nariadenie Európskeho parlamentu a Rady (EÚ) č. 1215/2012 z 12. decembra 2012 o právomoci a o uznávaní a výkone rozsudkov v občianskych a obchodných veciach (Ú. v. EÚ L 351, 20. 12. 2012), nariadenie Európskeho parlamentu a Rady (EÚ) č. 606/2013 z 12. júna 2013 o vzájomnom uznávaní ochranných opatrení v občianskych veciach (Ú. v. EÚ L 181, 29. 6. 2013).
+
+- 4ead) Zákon č. 335/2014 Z. z. spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
+
+- 4eae) § 67 ods. 2 a 3 zákona č. 97/1963 Zb. v znení zákona č. 388/2011 Z. z.
 
 - 4eb) Napríklad zmluva medzi Československou socialistickou republikou a Zväzom sovietskych socialistických republík o právnej pomoci a právnych vzťahoch v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 95/1983 Zb.), zmluva medzi Československou socialistickou republikou a Socialistickou federatívnou republikou Juhosláviou o úprave právnych vzťahov v občianskych, rodinných a trestných veciach (Vyhláška ministra zahraničných vecí č. 207/1964 Zb.).
 
 - 4f) § 5 ods. 2 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 288/1995 Z. z. o odmenách a náhradách súdnych exekútorov.
 
+- 4g) Príloha č. 3 k zákonu č. 335/2014 Z. z.
+
+- 4h) Nariadenie (EÚ) č. 1215/2012.
+
 - 5) § 53 Občianskeho súdneho poriadku.
 
 - 6) § 79 a nasl. Občianskeho súdneho poriadku.
 
-- 6a) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 98/1995 Z. z. o Liečebnom poriadku v znení neskorších predpisov.Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame.
+- 6a) § 67 ods. 2 a 3 zákona č. 97/1963 Zb. v znení zákona č. 388/2011 Z. z.
+
+- Nariadenie (ES) č. 805/2004.
+
+- Nariadenie (ES) č. 1896/2006.
+
+- Nariadenie (ES) č. 861/2007.
+
+- Nariadenia (ES) č. 4/2009.
+
+- Nariadenie (EÚ) č. 1215/2012.
+
+- Nariadenie (EÚ) č. 606/2013.
+
+- 6aa) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
+
+- Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6b) Napríklad § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., § 18a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
 
