@@ -42,23 +42,7 @@
 
 - 12aa) Napríklad § 17 zákona č. 229/1991 Zb. v znení neskorších predpisov, § 9 zákona č. 94/2013 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon) a o zmene niektorých zákonov.
 
-- 13) Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
-
-- 13a) § 54 ods. 1 písm. f) zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
-
-- 13aa) Napríklad zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
-
 - 13ab) Napríklad čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
-
-- 13aba) § 13 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
-
-- 13abb) § 132 až 142 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
-
-- 13abc) § 584 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
-
-- 13abd) § 462 Občianskeho zákonníka.
-
-- 13abe) § 585 až 587 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 13abf) § 43b ods. 1 a § 43c ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
 
@@ -149,8 +133,6 @@
 - 23bad) § 2 ods. 2 zákona č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galerijnej hodnoty v znení zákona č. 387/2001 Z. z.
 
 - 23bae) Napríklad zákon č. 44/1988 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
-
-- 23baf) § 580 a 581 Občianskeho zákonníka.
 
 - 23bag) § 19 ods. 15 zákona č. 523/2004 Z. z. v znení zákona č. 323/2007 Z. z.
 
