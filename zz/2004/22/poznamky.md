@@ -39,3 +39,7 @@
 - § 299 až 323 Obchodného zákonníka.
 
 - 17) § 2 písm. a) zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z.
+
+- 17a) § 1 ods. 3 písm. c) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17b) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
