@@ -14,23 +14,35 @@
 
 (3) Základom dane je množstvo tabakovej suroviny vyjadrené v kilogramoch. Daň sa vypočíta ako súčin základu dane a príslušnej sadzby dane. Sadzba dane na tabakovú surovinu je 71,11 eura/kg. Tabakovú surovinu nemožno predať na konečnú spotrebu za cenu nižšiu, ako je výška dane pripadajúcej na množstvo predávanej tabakovej suroviny na konečnú spotrebu a dane z pridanej hodnoty pripadajúcej na toto množstvo tabakovej suroviny.
 
-(4) Daňová povinnosť vzniká dňom
+(4) Daňová povinnosť z tabakovej suroviny vzniká dňom
 
-- a) dodania tabakovej suroviny konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny držiteľovi povolenia na obchodovanie s tabakovou surovinou alebo osobe registrovanej podľa § 19, ak daňová povinnosť nevzniká podľa písmena b),
+- a) dodania tabakovej suroviny na daňovom území konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny na daňovom území držiteľovi povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny, alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena b),
 
-- b) prevzatia tabakovej suroviny z územia iného členského štátu alebo z územia tretích štátov na daňovom území, ak daňová povinnosť nevzniká podľa písmena a).
+- b) prijatia tabakovej suroviny z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny a ak daňová povinnosť nevzniká podľa písmena a),
 
-(5) Platiteľom dane je osoba, ktorá
+- c) zistenia tabakovej suroviny, ktorá sa nachádza alebo nachádzala sa u osoby, ak táto osoba nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou; za deň zistenia tejto skutočnosti sa považuje deň, keď tieto skutočnosti zistil colný úrad,
 
-- a) dodáva tabakovú surovinu konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny držiteľovi povolenia na obchodovanie s tabakovou surovinou alebo osobe registrovanej podľa § 19, ak daňová povinnosť nevzniká podľa písmena b),
+- d) prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
 
-- b) prijíma (odoberá) tabakovú surovinu na daňovom území z územia iného členského štátu alebo z územia tretích štátov na daňovom území, ak daňová povinnosť nevzniká podľa písmena a).
+- e) vzniku colného dlhu iným spôsobom ako prijatím colného vyhlásenia.
 
-(6) Platiteľ dane je povinný pri vzniku daňovej povinnosti bezodkladne podať daňové priznanie colnému úradu a zaplatiť daň najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť. Na daňové priznanie sa použije § 13 primerane.
+(5) Platiteľom dane z tabakovej suroviny je osoba,
+
+- a) ktorá dodáva tabakovú surovinu na daňovom území konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny na daňovom území držiteľovi povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena b),
+
+- b) ktorá prijíma tabakovú surovinu z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny z územia iného členského štátu na daňovom území držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny, alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena a),
+
+- c) ktorá nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
+
+- d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
+
+- e) ktorej colný dlh vznikol iným spôsobom ako prijatím colného vyhlásenia.
+
+(6) Zdaňovacím obdobím je kalendárny mesiac. Platiteľ dane z tabakovej suroviny je povinný najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť, podať colnému úradu daňové priznanie vyhotovené podľa vzoru ustanoveného všeobecne záväzným právnym predpisom vydaným podľa osobitného predpisu<sup>8b</sup>) a v rovnakej lehote zaplatiť daň. Na daňové priznanie sa použije § 13 primerane. Pri vzniku daňovej povinnosti podľa odseku 4 písm. d) a e) sa na splatnosť dane použijú lehoty na splatnosť colného dlhu podľa colných predpisov.
 
 (7) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s tabakovou surovinou, musí požiadať colný úrad o vydanie povolenia na obchodovanie s tabakovou surovinou.
 
-(8) Povinnosť podľa odseku 7 sa nevzťahuje na osobu registrovanú colným úradom podľa § 19.
+(8) Na účely tohto zákona sa za obchodníka s tabakovou surovinou považuje aj prevádzkovateľ daňového skladu, ak chce vykonávať činnosti uvedené v odseku 2. Prevádzkovateľ daňového skladu, ktorý chce vykonávať činnosti uvedené v odseku 2, je povinný oznámiť colnému úradu údaje uvedené v odseku 9. Colný úrad vydá prevádzkovateľovi daňového skladu povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou ku dňu vydania povolenia na prevádzkovanie daňového skladu. Plnenie povinností podľa odseku 16 týmto nie je dotknuté.
 
 (9) Žiadosť o vydanie povolenia na obchodovanie s tabakovou surovinou musí obsahovať
 
@@ -103,3 +115,5 @@
 - d) identifikačné údaje osoby, ktorej predáva alebo od ktorej nakupuje tabakovú surovinu,
 
 - e) miesto dodania tabakovej suroviny.
+
+(19) Dovozom tabakovej suroviny sa na účely tohto zákona rozumie prepustenie tabakovej suroviny do voľného obehu<sup>2aa</sup>) v mieste dovozu. Miestom dovozu je miesto, kde sa tabaková surovina nachádza v čase prepustenia do voľného obehu.<sup>2aa</sup>) Dovozca je povinný preukázať sa colnému úradu, ktorý tabakovú surovinu prepúšťa do voľného obehu,<sup>2aa</sup>) povolením na obchodovanie s tabakovou surovinou.
