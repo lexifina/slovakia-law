@@ -224,7 +224,11 @@
 
 - 93ac) § 29b ods. 13 zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
+
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
+
+- 95b) § 30 a 46i zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 96) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
 
@@ -246,21 +250,23 @@
 
 - 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
 
-- 100aa) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 100b) § 27 ods. 2 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 100aaa) § 6 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
+- 100c) § 6 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
 
-- 100b) Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
+- 100d) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
 - 102) Občiansky súdny poriadok.
 
-- 102a) § 64 ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 449/2008 Z. z.
+- 102a) § 45 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 102aa) Zákon č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 102b) § 46 a 46a zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 104) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
@@ -269,8 +275,6 @@
 - 106) Zákon č. 241/2001 Z. z. v znení zákona č. 418/2002 Z. z.
 
 - 106a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
-
-- 106c) § 64a a 64b zákona č. 43/2004 Z. z.
 
 - 107) Zákon Národnej rady Slovenskej republiky č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
