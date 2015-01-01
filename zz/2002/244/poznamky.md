@@ -1,10 +1,12 @@
-- 1) § 99 Občianskeho súdneho poriadku.
+- 1) § 585 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 1a) Zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
 
 - 2) § 9 a 201 Občianskeho súdneho poriadku.
 
 - 3) § 96 ods. 1 a 2 a § 208 Občianskeho súdneho poriadku.
 
-- 4) § 3 zákona č. 610/2003 Z. z. o elektronických komunikáciách
+- 3a) Napríklad § 115 Obchodného zákonníka.
 
 - 5) Napríklad ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 14 ods. 1 Občianskeho súdneho poriadku.
 
@@ -12,13 +14,17 @@
 
 - 7) Napríklad § 124 Občianskeho súdneho poriadku, § 129 ods. 2 Trestného poriadku.
 
+- 7b) Napríklad zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení neskorších predpisov.
+
+- 7c) Napríklad § 90 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 8) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
 
+- 8b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 8c) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 214/2014 Z. z.
+
 - 9) § 41 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 9a) § 45a a nasl. Občianskeho súdneho poriadku.
-
-- 10) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 39 a 40 Občianskeho súdneho poriadku.
 
@@ -26,7 +32,9 @@
 
 - 13) Zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov.
 
-- 13a) Napríklad § 53 Občianskeho zákonníka, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z., zákon č. 266/2005 o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2008 Z. z., čl. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 2006/2004 z 27. októbra 2004 o spolupráci medzi národnými orgánmi zodpovednými za vynucovanie právnych predpisov na ochranu spotrebiteľa („nariadenie o spolupráci v oblasti ochrany spotrebiteľa“) (Ú. v. EÚ L 364/11, 9. 12. 2004).
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 864/2007 z 11. júla 2007 o rozhodnom práve pre mimozmluvné záväzky (Rím II) (Ú. v. EÚ L 199; 31. 7. 2007).
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) (Ú. v. EÚ L 177; 4. 7. 2008).
 
 - 13b) § 53 ods. 4 Občianskeho zákonníka.
 
@@ -35,10 +43,6 @@
 - 14) § 228 až 235 Občianskeho súdneho poriadku.
 
 - 15) § 41 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 16) § 45 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
-
-- 17) § 268 Občianskeho súdneho poriadku.§ 57 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 18) Občiansky súdny poriadok.
 
