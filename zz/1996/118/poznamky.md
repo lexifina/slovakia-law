@@ -1,5 +1,7 @@
 - 1) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
+- 1a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
 - 2a) § 2 ods. 1 a 2 a § 23 ods. 4 zákona č. 483/2001 Z. z.
