@@ -1,0 +1,7 @@
+# Čl. IX
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie
+
+- a) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 340/2005 Z. z., zákonom č. 519/2005 Z. z., zákonom č. 214/2006 Z. z., zákonom č. 644/2006 Z. z., zákonom č. 659/2007 Z. z., zákonom č. 552/2008 Z. z., zákonom č. 186/2009 Z. z., zákonom č. 276/2009 Z. z., zákonom č. 492/2009 Z. z., zákonom č. 129/2010 Z. z., zákonom č. 394/2011 Z. z., zákonom č. 547/2011 Z. z., zákonom č. 132/2013 Z. z., zákonom č. 352/2013 Z. z., zákonom č. 213/2014 Z. z. a článkom I tohto zákona,
+
+- b) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska, ako vyplýva zo zmien a doplnení vykonaných zákonom Národnej rady Slovenskej republiky č. 26/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 159/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 374/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 202/1995 Z. z., zákonom Národnej rady Slovenskej republiky č. 118/1996 Z. z., zákonom Národnej rady Slovenskej republiky č. 386/1996 Z. z., zákonom č. 348/1999 Z. z., zákonom č. 149/2001 Z. z., zákonom č. 602/2003 Z. z., zákonom č. 747/2004 Z. z., zákonom č. 519/2005 Z. z., zákonom č. 659/2007 Z. z., zákonom č. 492/2009 Z. z., zákonom č. 403/2010 Z. z. a článkom II tohto zákona.
