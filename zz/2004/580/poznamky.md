@@ -160,6 +160,10 @@
 
 - 44) § 39 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 44a) § 12a zákona č. 576/2004 Z. z. v znení zákona č. 185/2014 Z. z.
+
+- 44b) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 45) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -179,6 +183,8 @@
 - 49) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
 - 50) § 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
