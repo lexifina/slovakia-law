@@ -24,16 +24,12 @@
 
 - f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
 
-- g) ako vodič použije vymedzené úseky diaľnic, ciest pre motorové vozidlá a ciest I. triedy bez označenia motorového vozidla platnou nálepkou,
+- g) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy,
 
-- h) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy,
+- h) ako vodič sa odmietne podrobiť pokynom fyzickej osoby obsluhujúcej zariadenie na meranie hmotnosti, nápravových tlakov a rozmerov vozidla alebo odmietne uviesť východiskové miesto a miesto určenia uskutočňovanej prepravy.
 
-- i) ako vodič sa odmietne podrobiť pokynom fyzickej osoby obsluhujúcej zariadenie na meranie hmotnosti, nápravových tlakov a rozmerov vozidla alebo odmietne uviesť východiskové miesto a miesto určenia uskutočňovanej prepravy.
+(2) Za priestupok podľa odseku 1 písm. a) až f) a písm. g) možno uložiť pokutu do 330 eur.
 
-(2) Za priestupok podľa odseku 1 písm. a) až f) a písm. h) možno uložiť pokutu do 330 eur.
+(3) Za priestupok podľa odseku 1 písm. h) možno uložiť pokutu do 660 eur.
 
-(3) Za priestupok podľa odseku 1 písm. i) možno uložiť pokutu do 660 eur.
-
-(4) Za priestupok podľa odseku 1 písm. g) možno uložiť vodičovi pokutu do výšky päťdesiatnásobku úhrady na mesiac uvedenej v nariadení vlády Slovenskej republiky, ktorým sa ustanovuje výška úhrady za užívanie vymedzených úsekov diaľnic, ciest pre motorové vozidlá a ciest I. triedy, a v blokovom konaní do výšky desaťnásobku tejto úhrady.
-
-(5) Na priestupky a ich prejednávanie sa vzťahuje osobitný predpis<sup>10</sup>) s tým, že priestupok podľa odseku 1 písm. g) v blokovom konaní prejednávajú aj orgány Policajného zboru.
+(4) Na priestupky a ich prejednávanie sa vzťahuje osobitný predpis.<sup>10</sup>)
