@@ -102,6 +102,16 @@
 
 - 10a) § 2 písm. l) zákona č. 313/2009 Z. z. o vinohradníctve a vinárstve v znení neskorších predpisov.
 
+- 10b) Čl. 2 ods. 1 písm. n) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1305/2013 zo 17. decembra 2013 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) a o zrušení nariadenia Rady (ES) č. 1698/2005 (Ú. v. EÚ L 347, 20. 12. 2013).
+
+- 10c) Čl. 2 ods. 2 prílohy I nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
+
+- 10d) Čl. 2 ods. 3 prílohy I nariadenia (EÚ) č. 651/2014.
+
+- 10e) Nariadenie vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
+
+- 10f) Nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. o podmienkach poskytovania podpory podľa programu rozvoja vidieka v znení neskorších predpisov.
+
 - 11) § 32 a nasl. zákona č. 50/1976 Zb.
 
 - 11a) § 58 ods. 2 zákona č. 50/1976 Zb.
@@ -200,6 +210,8 @@
 
 - 23he) § 151a až 151me Občianskeho zákonníka.
 
+- 23hea) Zákon č. 140/2014 Z. z. o nadobúdaní vlastníctva poľnohospodárskeho pozemku a o zmene a doplnení niektorých zákonov.
+
 - 23hf) § 11 ods. 2 zákona č. 229/1991 Zb.
 
 - § 6 ods. 2 zákona č. 503/2003 Z. z.
@@ -207,6 +219,8 @@
 - 23hg) § 2 ods. 5 až 12 nariadenia vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
 
 - 23hh) § 30 ods. 4 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
+- 23hi) § 13 ods. 4 zákona č. 504/2003 Z. z. o nájme poľnohospodárskych pozemkov, poľnohospodárskeho podniku a lesných pozemkov a o zmene niektorých zákonov v znení zákona č. 363/2014 Z. z.
 
 - 23i) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 441/2000 Z. z.
 
