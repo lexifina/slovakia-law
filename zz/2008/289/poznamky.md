@@ -54,6 +54,8 @@
 
 - 20) § 37 až 39 a § 44 až 47 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 20a) § 40 až 43 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
 - 21) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
 - 22) § 35 ods. 8 až 12 zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.

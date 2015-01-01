@@ -1,4 +1,4 @@
-## Pokuty
+## Sankcie
 
 # § 16b
 
@@ -24,7 +24,7 @@
 
 - d) § 16a písm. am) a ap) 4 000 eur.
 
-(3) Pokuty podľa odsekov 1 a 2 sa ukladajú na mieste rozhodnutím. Ak daňový úrad alebo colný úrad neuloží pokutu rozhodnutím na mieste, postupuje podľa osobitného predpisu.<sup>19</sup>)
+(3) Pokuty podľa odsekov 1 a 2 sa ukladajú na mieste rozhodnutím. Pokutu rozhodnutím na mieste uloží ten colný úrad alebo daňový úrad, ktorý správny delikt zistil. Ak daňový úrad alebo colný úrad neuloží pokutu rozhodnutím na mieste, postupuje podľa osobitného predpisu.<sup>19</sup>)
 
 (4) Rozhodnutie o uložení pokuty na mieste podľa odseku 3 sa odovzdá osobe, s ktorou sa o zistení porušenia tohto zákona spísala zápisnica;<sup>18b</sup>) takéto odovzdanie sa považuje za doručenie podnikateľovi do vlastných rúk podľa osobitného predpisu,<sup>18c</sup>) a to aj ak osoba, s ktorou bola spísaná zápisnica,<sup>18b</sup>) odmietne rozhodnutie o uložení pokuty na mieste prevziať. Proti rozhodnutiu o uložení pokuty na mieste možno podať odvolanie, ktoré nemá odkladný účinok. Pokuta je splatná do troch pracovných dní od doručenia rozhodnutia o uložení pokuty na mieste a možno ju zaplatiť aj v hotovosti.
 
@@ -36,14 +36,16 @@
 
 - b) pri každom ďalšom zistení porušenia podľa § 16a písm. a) až d), am) a ap), pri ktorom došlo ku kráteniu prijatých tržieb, okrem pokuty uloženej podľa odseku 2 písm. a) alebo písm. d), podá návrh na zrušenie živnostenského oprávnenia.<sup>18a</sup>)
 
-(7) Ak podnikateľ nezaplatí pokutu podľa odseku 2 písm. a) alebo písm. d) za porušenie podľa § 16a písm. a) až d), am) a ap) najneskôr v posledný deň lehoty splatnosti, nesmie predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste odo dňa nasledujúceho po uplynutí splatnosti pokuty; tento zákaz stráca účinky dňom zaplatenia pokuty alebo dňom právoplatnosti rozhodnutia, ktorým bolo zrušené rozhodnutie o uložení pokuty na mieste.
+(7) Ak daňový úrad alebo colný úrad uloží pokutu na mieste rozhodnutím podľa odseku 6, uloží aj zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, a to od okamihu odovzdania rozhodnutia osobe, s ktorou sa o zistení porušenia tohto zákona spísala zápisnica, najviac však na 72 hodín. Daňový úrad alebo colný úrad zákaz predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, neuloží, ak by tým došlo k ohrozeniu života alebo zdravia osôb, ale predajné miesto na 72 hodín označí oznámením, v ktorom uvedie, že na tomto predajnom mieste došlo k porušeniu zákona o používaní elektronickej registračnej pokladnice. Proti rozhodnutiu možno podať odvolanie, ktoré nemá odkladný účinok.
 
-(8) Daňový úrad alebo colný úrad označí predajné miesto, na ktoré sa vzťahuje zákaz predávať tovar alebo poskytovať službu podľa odseku 7, oznámením, v ktorom uvedie, že na tomto predajnom mieste je zákaz predaja tovaru alebo poskytovania služby, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu.
+(8) Ak podnikateľ nezaplatí pokutu podľa odseku 2 písm. a) alebo písm. d) za porušenie podľa § 16a písm. a) až d), am) a ap) najneskôr v posledný deň lehoty splatnosti, nesmie predávať tovar alebo poskytovať službu, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste odo dňa nasledujúceho po uplynutí splatnosti pokuty; tento zákaz stráca účinky dňom zaplatenia pokuty alebo dňom právoplatnosti rozhodnutia, ktorým bolo zrušené rozhodnutie o uložení pokuty na mieste.
 
-(9) Ak podnikateľ poruší zákaz predávať tovar alebo poskytovať službu, na ktorú sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, daňový úrad alebo colný úrad uloží pokutu podľa odseku 1 písm. e) za porušenie podľa § 16a písm. ao) a po označení predajného miesta podľa odseku 8 podá návrh na zrušenie živnostenského oprávnenia,<sup>18a</sup>) ak ešte nebol podaný.
+(9) Daňový úrad alebo colný úrad označí predajné miesto, na ktoré sa vzťahuje zákaz predávať tovar alebo poskytovať službu podľa odseku 7 alebo odseku 8, oznámením, v ktorom uvedie, že na tomto predajnom mieste je zákaz predaja tovaru alebo poskytovania služby, na ktoré sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu.
 
-(10) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. a) až x), am), ao) a ap) vzájomne informujú.
+(10) Ak podnikateľ poruší zákaz predávať tovar alebo poskytovať službu, na ktorú sa vzťahuje povinnosť používať elektronickú registračnú pokladnicu na predajnom mieste, daňový úrad alebo colný úrad uloží pokutu podľa odseku 1 písm. e) za porušenie podľa § 16a písm. ao) a po označení predajného miesta podľa odseku 9 podá návrh na zrušenie živnostenského oprávnenia,<sup>18a</sup>) ak ešte nebol podaný.
 
-(11) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
+(11) Daňový úrad a colný úrad sa o zistení porušenia podľa § 16a písm. a) až x), am), ao) a ap) vzájomne informujú.
 
-(12) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
+(12) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
+
+(13) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
