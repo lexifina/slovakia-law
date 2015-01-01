@@ -4,4 +4,6 @@
 
 # § 19a
 
-Predsedovi Súdnej rady Slovenskej republiky patrí plat vo výške platu poslanca mesačne, začínajúc prvým dňom mesiaca, v ktorom bol ustanovený do funkcie, a paušálne náhrady podľa § 4 ods. 1.
+(1) Predsedovi Súdnej rady Slovenskej republiky patrí plat vo výške 1,5 násobku platu poslanca mesačne, začínajúc prvým dňom mesiaca, v ktorom bol ustanovený do funkcie, a paušálne náhrady podľa § 4 ods. 1.
+
+(2) Okrem platu podľa odseku 1 patrí predsedovi Súdnej rady Slovenskej republiky mesačný príplatok vo výške, ktorú určí Súdna rada Slovenskej republiky uznesením, a to začínajúc prvým dňom mesiaca, v ktorom bol ustanovený do funkcie.
