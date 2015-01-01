@@ -104,12 +104,6 @@ Zákon č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko ú�
 
 - emisiami skleníkových plynov na jednotku energie celková hmotnosť skleníkových plynov vyjadrená ako ekvivalent oxidu uhličitého, ktorá sa spája s pohonnou látkou a biokvapalinou alebo dodanou energiou, vydelená celkovým energetickým obsahom pohonnej látky a biokvapaliny alebo dodávanej energie.“.
 
-- 7. V § 3 sa odsek 4 dopĺňa písmenom h), ktoré znie:
-
-- „h)
-
-- všetku elektrinu z obnoviteľných zdrojov energie vyrobenú v zariadení na kombinovanú výrobu s celkovým inštalovaným výkonom nad 10 MW, ak podiel obnoviteľných zdrojov energie v palive je vyšší ako 30 % a podiel tepla dodaného na technologické účely je najviac 40 % z využiteľného tepla.“.
-
 - 8. V § 3 odsek 7 znie:
 
 - „(7)
