@@ -1,8 +1,6 @@
 - 1) Napríklad Občiansky súdny poriadok, Trestný poriadok.
 
-- 2) § 25 ods. 2 zákona č. 172/1990 Zb. o vysokých školách v znení neskorších predpisov.
-
-- 3) Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Zb. o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách.
+- 2) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 16 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -51,6 +49,8 @@
 - 11a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 11aa) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aaa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 12) § 143a Občianskeho zákonníka.
 
