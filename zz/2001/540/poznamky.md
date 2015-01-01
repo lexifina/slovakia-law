@@ -14,6 +14,8 @@
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3aa) § 10 ods. 3 zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
 - 3b) Napríklad zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov.
 
 - 3c) Napríklad zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov, zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
@@ -34,7 +36,9 @@
 
 - 7a) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov, zákon č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
-- 7b) Čl. 5 ods. 1 nariadenia (ES) č. 177/2008 a nariadenie Rady (ES) č. 2223/96 z 25. júna 1996 o Európskom systéme národných a regionálnych účtov spoločenstve (Mimoriadne vydanie Ú. v. EÚ, kap.10/zv. 2; Ú. v. ES L 310, 30.11.1996) v platnom znení.
+- 7b) Čl. 5 ods. 1 nariadenia (ES) č. 177/2008.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) č. 549/2013 z 21. mája 2013 o európskom systéme národných a regionálnych účtov v Európskej únii (Ú. v. EÚ L 174, 26. 06. 2013).
 
 - 7c) Čl. 13 nariadenia (ES) č. 177/2008.
 
@@ -56,9 +60,7 @@
 
 - 9d) Čl. 21 nariadenia (ES) č. 223/2009.
 
-- 9e) Nariadenie Komisie (ES) č. 831/2002 zo 17. mája 2002, ktorým sa vykonáva nariadenie Rady (ES) č. 322/97 o štatistike Spoločenstva so zreteľom na prístup k dôverným údajom na výskumné účely (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 133, 18. 5. 2002) v platnom znení.
-
-- 9f) Čl. 23 nariadenia (ES) č. 223/2009.
+- 9f) Napríklad § 26a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 233/2008 Z. z.
 
 - 10) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
 
