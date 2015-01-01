@@ -42,6 +42,8 @@
 
 - 10a) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 10ab) § 7 ods. 1 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 10b) § 3 a 4 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 10c) § 11 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
@@ -49,6 +51,8 @@
 - 10d) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
 - § 9 ods. 3 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
+
+- 10e) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 11) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
