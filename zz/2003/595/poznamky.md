@@ -104,6 +104,12 @@
 
 - 37ad) § 22 ods. 5 zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
 
+- 37ae) § 13 ods. 2 Občianskeho zákonníka v znení neskorších predpisov.
+
+- 37b) § 68 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 37c) § 2 ods. 1 písm. b) zákona Slovenskej národnej rady č. 310/1992 Zb. v znení zákona č. 658/2007 Z. z.
+
 - 38) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 39) Napríklad zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 201/2008 Z. z. o náhradnom výživnom a o zmene a doplnení zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení nálezu Ústavného súdu Slovenskej republiky č. 615/2006 Z. z. v znení zákona č. 554/2008 Z. z.
@@ -184,7 +190,11 @@
 
 - 59i) § 6 ods. 2 písm. d) zákona č. 406/2011 Z. z. o dobrovoľníctve a o zmene a doplnení niektorých zákonov.
 
+- 59ia) § 42 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
 - 59j) Oznámenie Federálneho ministerstva palív a energetiky č. 59/1990 Zb. o vydaní výnosu o deputátnom uhlí a dreve.
+
+- 59ja) § 9 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
 
@@ -230,6 +240,8 @@
 
 - 73) § 27 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 73a) § 39 až 46 zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
+
 - 74) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 74a) § 17 zákona č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
@@ -254,13 +266,27 @@
 
 - 77c) § 4 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 78) § 21a zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. v znení zákona č. 511/2002 Z. z.
+- 78) § 54 až 54b zákona č. 222/2004 Z. z. v znení neskorších predpisov.
 
 - 78a) § 369c Obchodného zákonníka v znení zákona č. 9/2013 Z. z.
 
 - 79) Napríklad § 369 Obchodného zákonníka.
 
-- 80) Napríklad § 664 až 669 Občianskeho zákonníka.
+- 79a) § 642 až 672a Obchodného zákonníka v znení neskorších predpisov.
+
+- 79b) § 47 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
+
+- § 22 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
+
+- § 4 písm. b) a § 6 až 12 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- § 4, § 27 a § 128 zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
+
+- Zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
+- 80) Napríklad § 51, § 151n až 151r, § 664 až 669 Občianskeho zákonníka v znení neskorších predpisov, § 6 zákona č. 116/1990 Zb. o nájme a podnájme nebytových priestorov v znení neskorších predpisov.
 
 - 80a) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
 
@@ -310,6 +336,8 @@
 
 - 88a) § 23 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
+- 88aa) § 4 ods. 6 zákona č. 171/2005 Z. z.
+
 - 89) Zákonník práce.
 
 - 90) Zákon č. 70/1998 Z. z. o energetike a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
@@ -336,6 +364,8 @@
 
 - 96) § 801 Občianskeho zákonníka.
 
+- 96a) § 1 ods. 3 zákona č. 371/2014 Z. z.
+
 - 97) Zákon č. 80/1997 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -360,11 +390,27 @@
 
 - 103) Napríklad zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení zákona č. 23/2002 Z. z.
 
+- 103a) § 4 ods. 3 zákona č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov.
+
 - 104) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 327/1996 Z. z. o poplatkoch za uloženie odpadov v znení neskorších predpisov.
 
 - 105) Nariadenie vlády Československej socialistickej republiky č. 35/1979 Zb. o odplatách vo vodnom hospodárstve v znení neskorších predpisov.
+
+- 105a) § 87 až 89 zákona č. 371/2014 Z. z.
+
+- 105a) § 2 písm. h) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 105b) § 47 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
+
+- § 22 zákona č. 650/2004 Z. z. v znení neskorších predpisov.
+
+- § 4 písm. b) a § 6 až 12 zákona č. 186/2009 Z. z.
+
+- § 4, § 27, § 128 zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
+
+- 105c) § 1 písm. c) opatrenia Národnej banky Slovenska z 2. septembra 2014 č. 19/2014 o predkladaní výkazu faktoringovou spoločnosťou, spoločnosťou splátkového financovania alebo lízingovou spoločnosťou na štatistické účely (oznámenie č. 248/2014 Z. z.).
 
 - 106) § 43a zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -418,6 +464,20 @@
 
 - 120f) § 7 ods. 7, 8 a 10 zákona č. 185/2009 Z. z.
 
+- 120g) Zákon č. 133/2002 Z. z. o Slovenskej akadémii vied v znení zákona č. 40/2011 Z. z.
+
+- 120h) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+
+- 120i) § 7 písm. d) zákona č. 172/2005 Z. z.
+
+- 120j) § 26a zákona č. 172/2005 Z. z. v znení zákona č. 233/2008 Z. z.
+
+- 120k) § 68 ods. 1 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- § 4 ods. 3 písm. v) zákona č. 333/2011 Z. z. v znení neskorších predpisov.
+
+- 120l) § 52 ods. 10 zákona č. 563/2009 Z. z. v znení zákona č. 333/2014 Z. z.
+
 - 121) § 24 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 122a) Napríklad Viedenský dohovor o diplomatických stykoch (vyhláška ministra zahraničných vecí č. 157/1964 Zb.), Viedenský dohovor o konzulárnych stykoch (vyhláška ministra zahraničných vecí č. 32/1969 Zb.).
@@ -463,6 +523,8 @@
 - 136a) § 61 ods. 1 a § 75 ods. 1 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
 - 136aa) § 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 136aaa) § 13a zákona č. 580/2004 Z. z. v znení zákona č. 364/2014 Z. z.
 
 - 136ab) § 7 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
@@ -539,3 +601,9 @@
 - 152) § 123ac zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
 
 - 153) § 14 až 17 zákona č. 530/1990 Z. z. v znení neskorších predpisov.
+
+- 154) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 328/2002 Z. z. v znení neskorších predpisov.

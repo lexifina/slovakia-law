@@ -4,7 +4,7 @@
 
 (2) Fyzická osoba, ktorá nie je registrovaná podľa odseku 1, je povinná v lehote do konca kalendárneho mesiaca po uplynutí mesiaca, v ktorom na území Slovenskej republiky začala vykonávať inú samostatnú zárobkovú činnosť alebo v ktorom na území Slovenskej republiky prenajala nehnuteľnosť okrem pozemku, požiadať správcu dane o registráciu.
 
-(3) Fyzická osoba a právnická osoba, ktorá nie je registrovaná podľa odseku 1 alebo 2, je povinná v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom vznikla povinnosť zrážať daň alebo preddavky na daň, alebo daň vyberať, požiadať správcu dane o registráciu ako platiteľ dane. Ak táto osoba je už registrovaná podľa odseku 1 alebo 2, je povinná, na účel vykonania zmien v registrácii, oznámiť miestne príslušnému správcovi dane skutočnosť, že sa stala platiteľom dane.
+(3) Fyzická osoba a právnická osoba, ktorá nie je registrovaná podľa odseku 1 alebo 2, je povinná v lehote do konca kalendárneho mesiaca nasledujúceho po uplynutí mesiaca, v ktorom vznikla povinnosť zrážať daň alebo preddavky na daň, alebo daň vyberať, požiadať správcu dane o registráciu ako platiteľ dane. Ak táto osoba je už registrovaná podľa odseku 1 alebo 2, je povinná, na účel vykonania zmien v registrácii, oznámiť miestne príslušnému správcovi dane skutočnosť, že sa stala platiteľom dane. Registračná a oznamovacia povinnosť podľa tohto ustanovenia sa nevzťahuje na platiteľa dane uvedeného v § 43 ods. 17.
 
 (4) Registračná povinnosť sa nevzťahuje na daňovníka, ktorý má príjmy len podľa § 5, § 7 alebo § 8 alebo len príjmy, z ktorých sa daň vyberá zrážkou (§ 43), alebo kombináciu týchto príjmov.
 
