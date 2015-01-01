@@ -94,15 +94,125 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Ak je elektronický systém kontrolných známok nedostupný na strane finančného riaditeľstva, je odberateľ kontrolných známok pri objednávaní kontrolných známok a pri oznamovaní údajov podľa všeobecne záväzného právneho predpisu vydaného ministerstvom podľa odseku 13 alebo údajov podľa odsekov 21 a 23 povinný postupovať spôsobom, ktorý určí finančné riaditeľstvo; postup odberateľa kontrolných známok pri nedostupnom elektronickom systéme kontrolných známok stanoví finančné riaditeľstvo a zverejní ho na svojom webovom sídle. Na účely tohto zákona sa elektronický systém kontrolných známok považuje za nedostupný, ak jeho nedostupnosť trvá najmenej 24 hodín. Ak je elektronický systém kontrolných známok nedostupný, na lehoty na splnenie povinností pri objednávaní kontrolných známok a pri oznamovaní údajov podľa všeobecne záväzného právneho predpisu vydaného ministerstvom podľa odseku 13 alebo údajov podľa odsekov 21 a 23 sa neprihliada. Odberateľ kontrolných známok je povinný po sprístupnení elektronického systému kontrolných známok údaje podľa prvej vety bezodkladne oznámiť prostredníctvom elektronického systému kontrolných známok.“.
 
+- 18. V § 19 ods. 5 sa na konci pripája táto veta: „Colný úrad v povolení na prevádzkovanie daňového skladu uvedie presné vymedzenie tabakového výrobku podľa § 4 ods. 2, ktorý žiadateľ uviedol v žiadosti podľa odseku 1 a ktorý je žiadateľ oprávnený vyrábať, spracúvať, skladovať, prijímať alebo odosielať v pozastavení dane.“.
+
+- 19. V § 19 ods. 6 prvá veta znie: „Prevádzkovateľ daňového skladu je povinný oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 1 písm. a) najneskôr 15 dní pred ich vznikom a údajov podľa odseku 2 písm. b) a c) a odseku 4 písm. e) až g) do 15 dní odo dňa ich vzniku.“.
+
+- 20. V § 19a odseky 4 až 6 znejú:
+
+- „(4)
+
+- Daňová povinnosť z tabakovej suroviny vzniká dňom
+
+- a)
+
+- dodania tabakovej suroviny na daňovom území konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny na daňovom území držiteľovi povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny, alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena b),
+
+- b)
+
+- prijatia tabakovej suroviny z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny a ak daňová povinnosť nevzniká podľa písmena a),
+
+- c)
+
+- zistenia tabakovej suroviny, ktorá sa nachádza alebo nachádzala sa u osoby, ak táto osoba nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou; za deň zistenia tejto skutočnosti sa považuje deň, keď tieto skutočnosti zistil colný úrad,
+
+- d)
+
+- prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
+
+- e)
+
+- vzniku colného dlhu iným spôsobom ako prijatím colného vyhlásenia.
+
+- (5)
+
+- Platiteľom dane z tabakovej suroviny je osoba,
+
+- a)
+
+- ktorá dodáva tabakovú surovinu na daňovom území konečnému spotrebiteľovi tabakovej suroviny alebo inému prevádzkovateľovi živnosti<sup>11</sup>) okrem dodania tabakovej suroviny na daňovom území držiteľovi povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena b),
+
+- b)
+
+- ktorá prijíma tabakovú surovinu z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny z územia iného členského štátu na daňovom území držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny, alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena a),
+
+- c)
+
+- ktorá nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
+
+- d)
+
+- na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
+
+- e)
+
+- ktorej colný dlh vznikol iným spôsobom ako prijatím colného vyhlásenia.
+
+- (6)
+
+- Zdaňovacím obdobím je kalendárny mesiac. Platiteľ dane z tabakovej suroviny je povinný najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť, podať colnému úradu daňové priznanie vyhotovené podľa vzoru ustanoveného všeobecne záväzným právnym predpisom vydaným podľa osobitného predpisu<sup>8b</sup>) a v rovnakej lehote zaplatiť daň. Na daňové priznanie sa použije § 13 primerane. Pri vzniku daňovej povinnosti podľa odseku 4 písm. d) a e) sa na splatnosť dane použijú lehoty na splatnosť colného dlhu podľa colných predpisov.“.
+
+- 21. V § 19a odsek 8 znie:
+
+- „(8)
+
+- Na účely tohto zákona sa za obchodníka s tabakovou surovinou považuje aj prevádzkovateľ daňového skladu, ak chce vykonávať činnosti uvedené v odseku 2. Prevádzkovateľ daňového skladu, ktorý chce vykonávať činnosti uvedené v odseku 2, je povinný oznámiť colnému úradu údaje uvedené v odseku 9. Colný úrad vydá prevádzkovateľovi daňového skladu povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou ku dňu vydania povolenia na prevádzkovanie daňového skladu. Plnenie povinností podľa odseku 16 týmto nie je dotknuté.“.
+
+- 22. § 19a sa dopĺňa odsekom 19, ktorý znie:
+
+- „(19)
+
+- Dovozom tabakovej suroviny sa na účely tohto zákona rozumie prepustenie tabakovej suroviny do voľného obehu<sup>2aa</sup>) v mieste dovozu. Miestom dovozu je miesto, kde sa tabaková surovina nachádza v čase prepustenia do voľného obehu.<sup>2aa</sup>) Dovozca je povinný preukázať sa colnému úradu, ktorý tabakovú surovinu prepúšťa do voľného obehu,<sup>2aa</sup>) povolením na obchodovanie s tabakovou surovinou.“.
+
+- 23. Za § 22 sa vkladá § 22a, ktorý vrátane nadpisu znie:
+
+- „§ 22a
+
+- Pozastavenie prístupu do elektronického systému
+
+- (1)
+
+- Colný úrad môže osobe podľa § 19, 23 alebo § 24, pri ktorej má odôvodnené podozrenie, že porušuje daňové prepisy, je ohrozená vymožiteľnosť dane a vybratie dane, dočasne pozastaviť na daňovom území prístup do elektronického systému,<sup>14a</sup>) najneskôr však do času pominutia týchto dôvodov.
+
+- (2)
+
+- Colný úrad je povinný osobu podľa § 19, 23 alebo § 24, ktorej dočasne pozastavil prístup do elektronického systému,<sup>14a</sup>) bezodkladne informovať. V oznámení o pozastavení prístupu do elektronického systému<sup>14a</sup>) colný úrad uvedie dôvody, na základe ktorých postupoval podľa odseku 1. Proti postupu colného úradu podľa odseku 1 nie je prípustná námietka. Ak pominú dôvody, na základe ktorých colný úrad postupoval podľa odseku 1, je colný úrad povinný bezodkladne umožniť osobe podľa § 19, 23 alebo § 24 prístup do elektronického systému<sup>14a</sup>) a o tejto skutočnosti ju bezodkladne informovať.“.
+
+- 24. V § 23 ods. 6 sa na konci pripája táto veta: „Colný úrad v povolení na prijímanie tabakových výrobkov z iného členského štátu v pozastavení dane opakovane uvedie presné vymedzenie tabakového výrobku podľa § 4 ods. 2, ktorý žiadateľ uviedol v žiadosti podľa odseku 2 a ktorý je žiadateľ oprávnený prijímať z iného členského štátu v pozastavení dane opakovane.“.
+
+- 25. V § 23 ods. 13 prvá veta znie: „Oprávnený príjemca je povinný každú zmenu údajov podľa odseku 2 písm. a) oznámiť colnému úradu najneskôr 15 dní pred prijatím tohto tabakového výrobku a zmenu údajov podľa odseku 4 písm. a), c) až f) je povinný oznámiť colnému úradu do 15 dní odo dňa jej vzniku.“.
+
 - 26. V § 41 sa odsek 1 dopĺňa písmenami o) a p), ktoré znejú:
 
 - „o)
 
-- nepredloží colnému úradu kontrolné známky, ktoré nepoužila v lehote podľa § 9b ods. 18, ak nejde o porušenie podľa písmena d),“.
+- nepredloží colnému úradu kontrolné známky, ktoré nepoužila v lehote podľa § 9b ods. 18, ak nejde o porušenie podľa písmena d),
+
+- p)
+
+- nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo sa nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou.“.
 
 - 27. V § 41 ods. 2 písm. a), b) a d) sa slovo „cigariet“ nahrádza slovami „tabakových výrobkov“ a v písmene n) sa slová „písm. n)“ nahrádzajú slovami „písm. n) a o)“.
 
+- 28. V § 41 sa odsek 2 dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- za správny delikt podľa odseku 1 písm. p) vo výške 50 % dane pripadajúcej na množstvo zistenej tabakovej suroviny, najmenej však 330 eur, a takú tabakovú surovinu zabezpečí.<sup>3</sup>)“.
+
+- 29. V § 41a sa odsek 1 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo sa nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou.“.
+
 - 30. V § 41a ods. 2 písm. a) a b) sa slovo „cigariet“ nahrádza slovami „tabakových výrobkov“.
+
+- 31. V § 41a sa odsek 2 dopĺňa písmenom e), ktoré znie:
+
+- „e)
+
+- za priestupok podľa odseku 1 písm. e) do 33 000 eur, najmenej však 66 eur, a takú tabakovú surovinu zabezpečí.<sup>3</sup>)“.
 
 - 32. V § 44o odsek 13 znie:
 
