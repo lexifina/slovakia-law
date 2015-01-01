@@ -30,6 +30,8 @@
 
 - 12a) § 2c zákona č. 291/2002 Z. z. v znení zákona č. 659/2005 Z. z.
 
+- 12aa) Napríklad § 28 zákona č. 528/2008 Z. z. v znení neskorších predpisov, § 42 a 43 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
+
 - 13) Nariadenie Rady (ES) č. 318/2006 z 20. februára 2006 o spoločnej organizácii trhov v sektore cukru v platnom znení (Ú. v. EÚ L 58, 28. 2. 2006).
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
@@ -129,6 +131,8 @@
 - 38) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 39) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. v znení neskorších predpisov.
+
+- 39a) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 384/2004 Z. z. o dostupnosti spotrebiteľských informácií o spotrebe paliva a o emisiách CO<sub>2</sub> pri predaji a leasingu nových osobných automobilov.
 
 - 40) Napríklad zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
