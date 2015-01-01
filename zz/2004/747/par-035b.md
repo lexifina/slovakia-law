@@ -1,0 +1,15 @@
+# § 35b Blokové konanie
+
+(1) Ak bolo pri výkone dohľadu na mieste spoľahlivo zistené, že dohliadaný subjekt v jednotlivom prípade porušil povinnosť v oblasti ochrany finančných spotrebiteľov podľa tohto zákona alebo podľa osobitného predpisu<sup>1</sup>) a ak dohliadaný subjekt súhlasí so zaplatením blokovej pokuty, osoba poverená výkonom dohľadu je v mene Národnej banky Slovenska príslušná priamo na mieste uložiť tomuto dohliadanému subjektu pokutu v blokovom konaní za zistený nedostatok. Ustanovenia § 16 ods. 2 a 6 a § 26 sa pred uložením pokuty v blokovom konaní nepoužijú.
+
+(2) V blokovom konaní možno podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zisteného nedostatku uložiť pokutu až do výšky 2 500 eur.
+
+(3) Na bloku o uložení pokuty sa uvedie meno a priezvisko osoby, ktorá v mene Národnej banky Slovenska uložila pokutu, číslo poverenia na výkon dohľadu na mieste a údaj o tom, kedy, za aké porušenie povinnosti a v akej výške bola pokuta v blokovom konaní uložená. Blok o uložení pokuty obsahuje aj odtlačok okrúhlej úradnej pečiatky Národnej banky Slovenska so štátnym znakom a podpis osoby, ktorá v mene Národnej banky Slovenska uložila pokutu.
+
+(4) Ak dohliadaný subjekt súhlasí so zaplatením uloženej blokovej pokuty a má dostatok finančných prostriedkov na zaplatenie uloženej blokovej pokuty na mieste v hotovosti, osoba poverená výkonom dohľadu mu vydá blok na blokovú pokutu zaplatenú na mieste. Prevzatie tohto bloku o uložení pokuty dohliadaný subjekt písomne potvrdí priamo na mieste uloženia blokovej pokuty, pričom tento blok je zároveň dokladom o súhlase dohliadaného subjektu s uložením blokovej pokuty a so zaplatením uloženej blokovej pokuty na mieste v hotovosti, ktorý má účinky právoplatného a vykonateľného rozhodnutia, a taktiež je potvrdením o zaplatení blokovej pokuty na mieste v hotovosti, ak bola bloková pokuta takto zaplatená.
+
+(5) Ak dohliadaný subjekt súhlasí so zaplatením uloženej blokovej pokuty, ale nemá dostatok finančných prostriedkov na zaplatenie uloženej blokovej pokuty na mieste v hotovosti, osoba poverená výkonom dohľadu mu vydá blok na blokovú pokutu nezaplatenú na mieste s poučením o spôsobe zaplatenia tejto pokuty, o lehote na jej zaplatenie do 30 dní odo dňa jej uloženia na mieste a o následkoch nezaplatenia uloženej pokuty. Prevzatie tohto bloku o uložení pokuty dohliadaný subjekt písomne potvrdí priamo na mieste uloženia blokovej pokuty, pričom tento blok je zároveň dokladom o súhlase dohliadaného subjektu s uložením blokovej pokuty a so zaplatením uloženej blokovej pokuty v určenej lehote, ktorý má účinky právoplatného rozhodnutia. Ak dohliadaný subjekt dobrovoľne nezaplatí celú sumu uloženej pokuty v určenej lehote, Národná banka Slovenska zabezpečí vymáhanie nezaplatenej sumy pokuty podľa § 34.
+
+(6) Zaplatením pokuty sa blokové konanie končí. Proti uloženiu pokuty v blokovom konaní nemožno podať opravný prostriedok a jej uloženie nemožno preskúmať ani mimo odvolacieho konania podľa § 32 ods. 5.
+
+(7) Bloky na ukladanie pokút vydáva Národná banka Slovenska.
