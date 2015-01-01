@@ -122,51 +122,11 @@
 
 - 37a) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
-- 38) § 3 ods. 3 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
-
-- 38a) § 114 a 115 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
-
-- 39) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
-
-- 40) § 127 ods. 6 zákona č. 8/2009 Z. z.
-
-- 41) § 3 ods. 1 zákona č. 725/2004 Z. z.
-
-- 42a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
-
-- 43) § 16 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
-
-- § 21 Obchodného zákonníka.
-
-- 44) § 8 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
-
-- 45) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 351/2005 Z. z.
-
-- 45a) Nariadenie vlády Slovenskej republiky č. 367/2006 Z. z. o technických požiadavkách na zníženie emisií zo zážihových motorov a vznetových motorov motorových vozidiel v znení nariadenia vlády č. 179/2007 Z. z.
-
-- Nariadenie vlády Slovenskej republiky č. 583/2006 Z. z. o technických požiadavkách na zníženie emisií znečisťujúcich látok zo vznetových motorov a zo zážihových motorov poháňaných zemným plynom alebo skvapalneným ropným plynom v znení nariadenia vlády č. 165/2007 Z. z.
-
-- Vyhláška Ministra zahraničných vecí č. 176/1960 Zb. o Dohode o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel.
-
-- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčasti motorových vozidiel.
-
-- 45aa) § 23 a § 112e ods. 1 zákona č. 725/2004 Z. z. v znení zákona č. 144/2010 Z. z.
-
-- 45ab) § 159 zákona č. 563/2009 Z. z.
-
-- 45ac) § 67 zákona č. 563/2009 Z. z.
-
-- 45b) § 79 zákona č. 563/2009 Z. z.
-
-- 46) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
-
 - 46a) § 30 zákona Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
 
 - § 25 zákona Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
 - 46aa) § 48 ods. 3 až 5 a § 49 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
-
-- 46b) § 7 ods. 1 a 4 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 47) Zákon č. 563/2009 Z. z.
 
