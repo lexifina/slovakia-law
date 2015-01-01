@@ -12,6 +12,8 @@
 
 - 6) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
+- 6a) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 7) § 9 až 11 zákona č. 365/2004 Z. z. v znení neskorších predpisov.
 
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 16/1993 Z. z. o Kancelárii prezidenta Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov, zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov, zákon č. 153/2001 Z. z. o prokuratúre v znení neskorších predpisov, zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, zákon č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 515/2003 Z. z. o krajských úradoch a obvodných úradoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -136,6 +138,8 @@
 
 - 59) § 1b zákona č. 575/2001 Z. z. v znení zákona č. 583/2008 Z. z.
 
+- 59a) Príloha č. 2 k zákonu č. 151/2010 Z. z. v znení zákona č. 325/2014 Z. z.
+
 - 60) § 31 zákona č. 355/2007 Z. z.
 
 - 61) Zákon Národnej rady Slovenskej republiky č. 241/1993 Z. z. o štátnych sviatkoch, dňoch pracovného pokoja a pamätných dňoch v znení neskorších predpisov.
@@ -160,4 +164,8 @@
 
 - 70) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
+- 70a) § 7 ods. 8 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 71) Nariadenie vlády Slovenskej republiky č. 550/2009 Z. z., ktorým sa ustanovujú zvýšené platové tarify štátnych zamestnancov.
+
+- 72) § 29l zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 362/2014 Z. z.

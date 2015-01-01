@@ -1,6 +1,6 @@
 # § 101a Náhrada za sťažené životné podmienky
 
-(1) Štátnemu zamestnancovi, ktorý je dočasne vyslaný podľa § 40 v štáte so sťaženými životnými podmienkami, patrí mesačne náhrada až do výšky 20 % z platovej tarify 1. platovej triedy podľa prílohy č. 3 alebo podľa § 113 vynásobenej platovým koeficientom podľa § 103. Náhrada za sťažené životné podmienky sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
+(1) Štátnemu zamestnancovi, ktorý je dočasne vyslaný podľa § 40 v štáte so sťaženými životnými podmienkami, patrí mesačne náhrada až do výšky 20 % z platovej tarify 1. platovej triedy podľa podľa osobitného predpisu<sup>59a</sup>) vynásobenej platovým koeficientom podľa § 103. Náhrada za sťažené životné podmienky sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
 
 (2) Sťažené životné podmienky sú
 
