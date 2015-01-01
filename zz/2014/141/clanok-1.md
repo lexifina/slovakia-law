@@ -100,6 +100,12 @@ Nariadenie vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávaj�
 
 - Sumy alebo percentá vypočítané podľa tohto nariadenia vlády sa zaokrúhľujú na dve desatinné miesta nahor.
 
+- § 1b
+
+- Veľkosť písma v spotrebiteľskej zmluve a súvisiacich dokumentoch (k § 53c)
+
+- Ustanovenia spotrebiteľskej zmluvy, ako aj ustanovenia obsiahnuté vo všeobecných obchodných podmienkach alebo v akýchkoľvek iných zmluvných dokumentoch súvisiacich so spotrebiteľskou zmluvou musí dodávateľ uviesť písmom, ktorého výška je najmenej 1,9 mm.
+
 - § 1c
 
 - Zodpovednosť za škodu spôsobenú na vnesených alebo odložených veciach (k § 434 ods. 1)
