@@ -13,3 +13,5 @@ Príloha č. 5 k nariadeniu vlády č. 335/2006 Z. z.
   - 5. Smernica Komisie 2010/62/EÚ z 8. septembra 2010, ktorou sa z dôvodu prispôsobenia ich technických ustanovení menia a dopĺňajú smernice Rady 80/720/EHS a 86/297/EHS a smernice Európskeho parlamentu a Rady 2003/37/ES, 2009/60/ES a 2009/144/ES týkajúce sa typového schvaľovania poľnohospodárskych alebo lesných traktorov. (Ú. v. EÚ L 238, 9. 9. 2010).
 
   - 6. Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 7. Smernica Komisie 2014/44/EÚ z 18. marca 2014, ktorou sa menia prílohy I, II a III k smernici Európskeho parlamentu a Rady 2003/37/ES o typovom schválení poľnohospodárskych alebo lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, spolu s ich systémami, komponentmi a samostatnými technickými jednotkami (Ú. v. EÚ L 82, 20. 3. 2014).
