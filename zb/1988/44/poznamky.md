@@ -26,6 +26,8 @@
 
 - 7a) § 9 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 479/2005 Z. z.
 
+- 7aa) § 29 ods. 12 a § 37 ods. 1 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení zákona č. 314/2014 Z. z.
+
 - 7b) § 33 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 7c) § 32 písm. c) zákona č. 50/1976 Zb. v znení neskorších predpisov.
@@ -60,6 +62,20 @@
 
 - 13b) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
+- 13ba) § 29 ods. 12, § 37 ods. 1 a § 19 ods. 1 zákona č. 24/2006 Z. z.
+
+- 13bb) § 19 ods. 1 zákona č. 24/2006 Z. z.
+
+- § 28 ods. 4 zákona č. 543/2002 Z. z.
+
+- 13bc) § 3 písm. f) zákona č. 24/2006 Z. z.
+
+- 13bd) § 29 ods. 1 písm. b) zákona č. 24/2006 Z. z.
+
+- 13be) § 22 ods. 1 zákona č. 24/2006 Z. z.
+
+- 13bf) § 3 písm. k) zákona č. 24/2006 Z. z.
+
 - 13c) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 14) § 58 vyhlášky Federálneho ministerstva pre technický a investičný rozvoj č. 85/1976 Zb. o podrobnejšej úprave územného konania a stavebnom poriadku v znení vyhlášky č. 155/1980 Zb.
@@ -87,6 +103,8 @@
 - 16c) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 16d) § 5 a 6 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
+- 16da) Zákon č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
 - 16e) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov, zákon č. 115/1998 Z. z. o múzeách a galériách a o ochrane predmetov múzejnej hodnoty a galérijnej hodnoty v znení neskorších predpisov, zákon č. 313/1999 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z., vyhláška Ministerstva hospodárstva Slovenskej republiky č. 419/2001 Z. z., ktorou sa upravuje kategorizácia ubytovacích zariadení a klasifikačné znaky na ich zaraďovanie do tried.
 
