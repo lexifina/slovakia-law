@@ -1,4 +1,4 @@
-- 1) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z.
+- 1) Napríklad zákon č. 634/1992 Zb. o ochrane spotrebiteľa v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 1/1996 Z. z. o audiovízii v znení neskorších predpisov, zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách v znení zákona č. 147/2001 Z. z., zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) Napríklad zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -53,6 +53,8 @@
 - 21) Zákon č. 362/2011 Z. z.
 
 - 21a) § 3 ods. 1 písm. b) a c) zákona č. 126/2006 Z. z. o verejnom zdravotníctve a o zmene a doplnení niektorých zákonov.
+
+- 21b) § 1 ods. 3 písm. c) zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov.
 
