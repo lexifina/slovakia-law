@@ -8,7 +8,7 @@
 
 (4) Invázne druhy živočíchov, ktorých zoznam ustanoví ministerstvo všeobecne záväzným právnym predpisom, sa zakazuje držať, prepravovať, dovážať, chovať, rozmnožovať, obchodovať s nimi alebo vypúšťať do voľnej prírody; výnimku zo zákazu môže povoliť orgán ochrany prírody na účely výskumu alebo vzdelávania.
 
-(5) Vlastník, správca alebo užívateľ pozemku, užívateľ poľovného revíru, užívateľ rybárskeho revíru alebo osoba vykonávajúca hospodársky chov rýb sú povinní na vlastné náklady odstraňovať invázne druhy živočíchov podľa odseku 4 spôsobom, ktorý ustanoví ministerstvo všeobecne záväzným právnym predpisom.
+(5) Vlastník, správca alebo užívateľ pozemku, užívateľ poľovného revíru, užívateľ rybárskeho revíru alebo osoba vykonávajúca hospodársky chov rýb sú povinní odstraňovať invázne druhy živočíchov podľa odseku 4 spôsobom, ktorý ustanoví ministerstvo všeobecne záväzným právnym predpisom.
 
 (6) Orgán ochrany prírody upozorňuje vlastníka pozemku a osoby podľa odseku 5 na výskyt inváznych druhov živočíchov a povinnosť ich odstraňovania.
 

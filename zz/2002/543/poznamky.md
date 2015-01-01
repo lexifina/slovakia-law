@@ -274,6 +274,10 @@
 
 - 98a) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 98aa) § 37 ods. 4 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
+- 98ab) § 8 ods. 1 a § 30 ods. 1 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
 - 98b) Napríklad § 4 ods. 5 zákona č. 139/2002 Z. z., § 21 zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
 
 - 99) Čl. V zákona Slovenskej národnej rady č. 295/1992 Zb. o niektorých opatreniach v miestnej samospráve a v štátnej správe.
@@ -326,7 +330,7 @@
 
 - 113a) § 25 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 113b) § 27a zákona č. 14/2006 Z. z. v znení zákona č. 408/2011 Z. z.
+- 113b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 114) Napríklad § 18 až 20a a § 20f až 21 Občianskeho zákonníka, zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 

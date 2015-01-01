@@ -36,9 +36,9 @@
 
 - p) vedie evidenciu zmlúv, ktoré uzavrela podľa § 61a až 61d,
 
-- q) spravuje jaskyne a pozemky v chránených územiach a ich ochranných pásmach, ktoré nadobudla ako opatrenie podľa § 28 alebo ktoré vykúpila podľa § 61c alebo podľa § 63,
+- q) spravuje jaskyne a pozemky v chránených územiach a ich ochranných pásmach, ktoré nadobudla ako opatrenie podľa § 28 alebo ktoré nadobudla podľa § 30 ods. 7, § 61c ods. 1 alebo § 63,
 
-- r) užíva pozemky v chránených územiach a ich ochranných pásmach, ktoré sú predmetom nájmu podľa § 61b, ako aj iné pozemky v chránených územiach a ich ochranných pásmach, ktoré má v nájme alebo výpožičke,
+- r) užíva pozemky v chránených územiach a ich ochranných pásmach, ktoré sú predmetom nájmu podľa § 30 ods. 7 a § 61b, ako aj iné pozemky v chránených územiach a ich ochranných pásmach, ktoré má v nájme alebo výpožičke,
 
 - s) poskytuje vlastníkovi alebo nájomcovi pozemku súčinnosť pri zabezpečení starostlivosti o pozemok podľa § 61d,
 
@@ -58,26 +58,4 @@
 
 (3) Evidencia podľa odseku 2 písm. d) obsahuje najmä meno, priezvisko a trvalý pobyt držiteľa jedinca, alebo názov, alebo obchodné meno a sídlo alebo miesto podnikania držiteľa jedinca, evidenčné číslo držiteľa jedinca, ak sa vyžaduje podľa tohto zákona, názov druhu a opis jedinca a spôsob jeho označenia; ďalšie podrobnosti o obsahových náležitostiach evidencie ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
 
-(4) Na činnosti, ktoré vykonáva alebo obstaráva Štátna ochrana prírody Slovenskej republiky v súvislosti so zabezpečovaním starostlivosti o osobitne chránené časti prírody a krajiny, sa
-
-- a) nevzťahujú zákazy podľa
-
-  - 1. § 13 ods. 1,
-
-  - 2. § 14 ods. 1 písm. a), b), c) a h),
-
-  - 3. § 15 ods. 1 písm. a), ak ide o činnosti uvedené v § 14 ods. 1 písm. a), b), c) a h),
-
-  - 4. § 15 ods. 1 písm. c) a f),
-
-  - 5. § 16 ods. 1 písm. a), ak ide o činnosti uvedené v § 14 ods. 1 písm. a), b), c) a h) a § 15 ods. 1 písm. c) a f),
-
-- b) nevyžadujú súhlasy podľa
-
-  - 1. § 13 ods. 2 písm. a), b), d), g) a i),
-
-  - 2. § 14 ods. 2 písm. a), ak ide o činnosti podľa § 13 ods. 2 písm. a), b), d) a i),
-
-  - 3. § 14 ods. 2 písm. b),
-
-  - 4. § 15 ods. 2 písm. a), ak ide o činnosti podľa § 13 ods. 2 písm. a) a i).
+(4) Na činnosti, ktoré vykonáva alebo obstaráva Štátna ochrana prírody Slovenskej republiky pri zabezpečení plnenia jej úlohy podľa tohto zákona, ak ide o výskum, monitoring a starostlivosť o osobitne chránené časti prírody a krajiny, sa nevzťahujú zákazy podľa § 13 ods. 1, § 14 ods. 1, § 15 ods. 1, § 24 ods. 4, 6, 9 a 11 a nevyžadujú sa súhlasy podľa § 13 ods. 2, § 14 ods. 2, § 15 ods. 2, § 24 ods. 5, 7, 10 a 12, § 49 ods. 3 a § 56 ods. 2.

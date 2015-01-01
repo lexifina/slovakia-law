@@ -7,3 +7,5 @@ Príloha č. 2 k zákonu č. 543/2002 Z. z.
   - 2. Smernica Rady 1999/22/ES z 29. marca 1999 o chove voľne žijúcich živočíchov v zoologických záhradách (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 4; Ú. v. ES L 94, 9. 4. 1999).
 
   - 3. Smernica Európskeho parlamentu a Rady 2009/147/ES z 30. novembra 2009 o ochrane voľne žijúceho vtáctva (Ú. v. EÚ L 20, 26. 1. 2010) v znení smernice Rady 2013/17/EÚ z 13. mája 2013 (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 4. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).
