@@ -22,7 +22,7 @@
 
 - a) je dcérskou účtovnou jednotkou a jej materská účtovná jednotka má zriadený výbor pre audit a tento výbor vykonáva činnosti podľa odseku 3 aj pre dcérsku účtovnú jednotku,
 
-- b) má sídlo v inom členskom štáte Európskej únie (ďalej len „členský štát") alebo v štáte, ktorý je zmluvnou stranou dohody o Európskom hospodárskom priestore (ďalej len „štát Európskeho hospodárskeho priestoru"), a má vytvorený orgán vykonávajúci činnosti ako výbor pre audit, ktorý je založený a vykonáva svoje činnosti podľa právnych predpisov platných v tomto členskom štáte alebo štáte Európskeho hospodárskeho priestoru; v takom prípade účtovná jednotka zverejní vo výročnej správe, ktorý orgán tieto činnosti vykonáva a aké je jeho zloženie,
+- b) má sídlo v inom členskom štáte alebo v štáte, ktorý je zmluvnou stranou dohody o Európskom hospodárskom priestore (ďalej len „štát Európskeho hospodárskeho priestoru"), a má vytvorený orgán vykonávajúci činnosti ako výbor pre audit, ktorý je založený a vykonáva svoje činnosti podľa právnych predpisov platných v tomto členskom štáte alebo štáte Európskeho hospodárskeho priestoru; v takom prípade účtovná jednotka zverejní vo výročnej správe, ktorý orgán tieto činnosti vykonáva a aké je jeho zloženie,
 
 - c) jej dozorná rada vykonáva činnosti výboru pre audit; činnosti výboru pre audit nemôže vykonávať predseda dozornej rady,
 

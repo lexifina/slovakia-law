@@ -134,6 +134,8 @@
 
 - 29n) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 29o) § 66b ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
 - 30) Zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 31) Zákon č. 483/2001 Z. z.Zákon č. 95/2002 Z. z.

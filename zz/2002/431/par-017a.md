@@ -2,7 +2,7 @@
 
 (1) Individuálnu účtovnú závierku podľa osobitných predpisov<sup>22a</sup>) zostavuje účtovná jednotka, ktorou je
 
-- a) banka, Exportno-importná banka Slovenskej republiky, správcovská spoločnosť, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) zaisťovňa, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť, Burza cenných papierov a účtovná jednotka zriadená osobitným predpisom,<sup>22aaa</sup>)
+- a) banka, správcovská spoločnosť, poisťovňa okrem zdravotnej poisťovne,<sup>19</sup>) zaisťovňa, Slovenská kancelária poisťovateľov, dôchodková správcovská spoločnosť, doplnková dôchodková spoločnosť, Burza cenných papierov a účtovná jednotka zriadená osobitným predpisom,<sup>22aaa</sup>)
 
 - b) pobočka zahraničnej banky, pobočka zahraničnej správcovskej spoločnosti, pobočka poisťovne z iného členského štátu, pobočka zahraničnej poisťovne, pobočka zaisťovne z iného členského štátu a pobočka zahraničnej zaisťovne.
 
@@ -10,7 +10,7 @@
 
 - a) celková suma majetku presiahla 170 000 000 eur, pričom sumou majetku sa rozumie suma zistená zo súvahy v ocenení neupravenom o položky podľa § 26 ods. 3,
 
-- b) čistý obrat presiahol 170 000 000 eur, pričom čistým obratom na tento účel sú výnosy dosiahnuté z predaja výrobkov, tovarov, poskytnutých služieb a iné výnosy súvisiace s bežnou činnosťou účtovnej jednotky po odpočítaní zliav,
+- b) čistý obrat presiahol 170 000 000 eur,
 
 - c) priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
 

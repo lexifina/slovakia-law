@@ -21,3 +21,5 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 9. Smernica Európskeho parlamentu a Rady 2009/101/ES zo 16. septembra 2009 o koordinácii záruk, ktoré sa od obchodných spoločností v zmysle článku 48 druhého odseku zmluvy vyžadujú v členských štátoch na ochranu záujmov spoločníkov a tretích osôb s cieľom zabezpečiť rovnocennosť týchto záruk (Ú. v. EÚ L 258, 1. 10. 2009).
 
   - 10. Smernica Európskeho parlamentu a Rady 2012/6/EÚ zo 14. marca 2012, ktorou sa mení a dopĺňa smernica Rady 78/660/EHS o ročnej účtovnej závierke niektorých typov spoločností, pokiaľ ide o mikrosubjekty (Ú. v. EÚ L 81, 21. 3. 2012).
+
+  - 11. Smernica Európskeho parlamentu a Rady 2013/34/EÚ z 26. júna 2013 o ročných účtovných závierkach, konsolidovaných účtovných závierkach a súvisiacich správach určitých druhov podnikov, ktorou sa mení smernica Európskeho parlamentu a Rady 2006/43/ES a zrušujú smernice Rady 78/660/EHS a 83/349/EHS (Ú. v. EÚ L 182, 29. 6. 2013).
