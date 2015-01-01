@@ -458,6 +458,20 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Platiteľ dane, ktorého daňová povinnosť za zdaňovacie obdobie nepresiahne 5 eur, okrem platiteľa dane podľa odseku 2, nie je povinný podať daňové priznanie a zaplatiť daň; to neplatí, ak sa uplatní postup podľa odseku 4.“.
 
+- 7. V § 14 odsek 1 znie:
+
+- „(1)
+
+- Daň z tabakových výrobkov preukázateľne zdanených na daňovom území možno vrátiť
+
+- a)
+
+- prevádzkovateľovi daňového skladu, ak prevzal takéto tabakové výrobky alebo má tabakové výrobky zdanené podľa tohto zákona a sú vrátené z dôvodu ich zničenia alebo znehodnotenia; prevádzkovateľ daňového skladu k daňovému priznaniu podľa § 13 ods. 2 alebo k dodatočnému daňovému priznaniu predloží úradný záznam o zničení kontrolných známok,
+
+- b)
+
+- oprávnenému príjemcovi alebo dovozcovi tabakových výrobkov, ak majú takéto tabakové výrobky a tieto tabakové výrobky sú znehodnotené alebo zničené pod dozorom colného úradu; k daňovému priznaniu oprávnený príjemca alebo dovozca tabakových výrobkov priloží úradný záznam o zničení kontrolných známok a úradný záznam o zničení spotrebiteľských balení tabaku, cigár alebo cigariek alebo spotrebiteľských balení cigariet.“.
+
 - 8. V § 14 ods. 3 sa slová „ktorých zdanenie“ nahrádzajú slovami „ak platba dane z týchto tabakových výrobkov bola vykonaná podľa osobitného predpisu<sup>8c</sup>) alebo bola započítaná s vrátením dane a ich zdanenie“.
 
 - Poznámka pod čiarou k odkazu 8c znie:
@@ -971,5 +985,11 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - (23)
 
 - Na odberateľa kontrolných známok, ktorý do 31. decembra 2014 postupuje podľa § 9 predpisu účinného do 30. septembra 2014, sa uplatnia pokuty podľa § 40 ods. 1 písm. c) alebo písm. d) predpisu účinného do 30. septembra 2014.“.
+
+- 41. Za § 45a sa vkladá § 45b, ktorý znie:
+
+- „§ 45b
+
+- Zrušuje sa vyhláška Ministerstva financií Slovenskej republiky č. 552/2010 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolnej známky na označovanie spotrebiteľského balenia cigariet a o grafických prvkoch a údajoch.“.
 
 - 42. Slová „dovozca cigariet“ vo všetkých tvaroch sa v celom texte zákona nahrádzajú slovami „dovozca tabakových výrobkov“ v príslušnom tvare.
