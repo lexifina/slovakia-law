@@ -91,3 +91,5 @@
 - 36) Napríklad Občiansky zákonník v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
 
 - 37) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- 38) § 29l zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 362/2014 Z. z.
