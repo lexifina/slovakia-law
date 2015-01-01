@@ -26,9 +26,13 @@
 
 - 8a) Zákon č. 646/2005 Z. z. o ochrane niektorých rozhlasových programových služieb a televíznych programových služieb a služieb informačnej spoločnosti a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
+- 9) Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 9a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+- 9a) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 9aa) § 23 ods. 1 druhá veta zákona č. 129/2010 Z. z. v znení zákona č. 373/2014 Z. z.
+
+- 9ab) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9b) Nariadenie Európskeho parlamentu a Rady (ES) č. 1907/2006 z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a 2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006) v platnom znení.
 
