@@ -96,6 +96,8 @@ Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice 
 
 - 20. V § 7 ods. 1 písm. b) sa za slovo „doklad“ vkladajú slová „s uvedením výrobného čísla elektronickej registračnej pokladnice alebo fiskálnej tlačiarne“.
 
+- 21. V § 7 ods. 3 sa na konci pripája táto veta: „Podnikateľovi s trvalým pobytom alebo sídlom mimo územia Slovenskej republiky pridelí daňový kód elektronickej registračnej pokladnice ktorýkoľvek daňový úrad.“.
+
 - 22. V § 7 ods. 4 sa slová „pamäte; túto skutočnosť“ nahrádzajú slovami „pamäte a zaznamenaním kódu fiskálnej pamäte do knihy elektronickej registračnej pokladnice; tieto skutočnosti“.
 
 - 23. V § 7 ods. 5 sa na konci pripája táto veta: „Servisná organizácia do knihy elektronickej registračnej pokladnice zaznamená aj číslo plomby, ktorou označila elektronickú registračnú pokladnicu podľa prvej vety.“.
