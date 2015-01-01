@@ -1,3 +1,0 @@
-# § 24b
-
-Právnická osoba, ktorá podá písomné stanovisko podľa § 23 ods. 4, § 30 ods. 5 alebo podľa § 35 ods. 3, z ktorého vyplýva jej záujem o rozhodnutie, má v rámci následného povoľovacieho konania podľa osobitného predpisu<sup>2</sup>) postavenie účastníka konania.<sup>25</sup>) Táto právnická osoba sa považuje za zainteresovanú verejnosť, ktorej právo na priaznivé životné prostredie môže byť rozhodnutím dotknuté. Ak ide o právnickú osobu, ktorá sa zapisuje do obchodného registra alebo obdobného registra predloží právnická osoba príslušnému orgánu výpis z takéhoto registra, nie starší ako tri mesiace spolu s podaním písomného stanoviska.

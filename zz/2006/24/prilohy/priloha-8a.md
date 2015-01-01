@@ -42,11 +42,7 @@ Príloha č. 8a k zákonu č. 24/2006 Z. z.
 
     - 3. Výpis z katastra nehnuteľností
 
-    - 4. Vyjadrenie dotknutého štátneho orgánu ochrany prírody a krajiny
-
-    - 5. Stanovisko príslušného orgánu územného plánovania, či zmena navrhovanej činnosti je v súlade s platnými územnoplánovacími dokumentáciami platnými pre dané územie
-
-    - 6. Dokumentácia k zmene navrhovanej činnosti:
+    - 4. Dokumentácia k zmene navrhovanej činnosti:
 
   - VII. Dátum spracovania
 

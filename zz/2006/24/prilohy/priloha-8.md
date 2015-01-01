@@ -34,8 +34,6 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 12. | Ťažba kaolínu, keramických a žiaruvzdorných ílov a ílovcov | od 200 000 t/rok alebo od 10 ha záberu plochy | od 100 000 t/rok do 200 000 t/rok alebo od 5 ha do 10 ha záberu plochy
 
-  - 13. | Lomy a povrchová ťažba vápenca | od 200 000 t/rok alebo od 10 ha záberu plochy | od 100 000 t/rok do 200 000 t/rok alebo od 5 ha do 10 ha záberu plochy
-
   - 14. | Ťažba sklárskych a zlievárenských pieskov | od 200 000 t/rok alebo od 10 ha záberu plochy | od 100 000 t/rok do 200 000 t/rok alebo od 5 ha do 10 ha záberu plochy
 
   - 15. | Ťažba ostatných nerastov, ak nie sú uvedené v položkách č. 1 - 6, 9 - 14 | od 200 000 t/rok alebo od 10 ha záberu plochy | od 100 000 t/rok do 200 000 t/rok alebo od 5 ha do 10 ha záberu plochy
@@ -98,11 +96,11 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 1. | Prevádzky na úpravu, praženie alebo aglomeráciu rúd (vrátane sulfidových rúd) | od 100 000 t/rok | do 100 000 t/rok
 
-  - 2. | Prevádzky na spracovanie železných kovov a) valcovne za teplab) kováčske dielne s kladivami, ktorých energia presahuje c) kovanie výbuchom d) prevádzky na nanášanie ochranných povlakov z roztavených kovov (pokovovanie) | | od 20 t/hod. surovej ocele 50 kJ/kladivo alebo 20 MW tepelného výkonu bez limitu od 1 t surovej ocele/hod.
+  - 2. | Prevádzky na spracovanie železných kovov a) valcovne za tepla b) kováčske dielne s kladivami, ktorých energia presahuje c) kovanie výbuchom d) prevádzky na nanášanie ochranných povlakov z roztavených kovov (pokovovanie) | | od 20 t/hod. surovej ocele 50 kJ/kladivo alebo 20 MW tepelného výkonu bez limitu od 1 t surovej ocele/hod.
 
   - 3. | Zlievárne železných kovov | | nad 20 t/deň
 
-  - 4. | Prevádzky na primárnu výrobu surového železa, liatiny alebo ocele (primárna alebo sekundárna tavba) vrátane kontinuálneho odlievania s kapacitou | od 2,5 t/hod. | od 0,5 t/hod. do 2,5 t/hod.
+  - 4. | Prevádzky na primárnu výrobu surového železa, liatiny alebo ocele (primárna alebo sekundárna tavba) vrátane kontinuálneho odlievania s kapacitou | bez limitu |
 
   - 5. | Prevádzky na výrobu surových neželezných kovov z rúd, koncentrátov alebo druhotných surovín metalurgickými, chemickými alebo elektrolytickými procesmi | bez limitu |
 
@@ -110,7 +108,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 7. | Tavenie zliatin s obsahom toxických zlúčenín | | od 4 t/deň
 
-  - 8. | Prevádzky na povrchovú úpravu kovov a plastov využívajúce elektrolytické alebo chemické procesy upravenej plochy | od 30 m<sup>3</sup> kapacity používaných kadí | od 10 m3 do 30 m<sup>3</sup> kapacity používaných kadí
+  - 8. | Prevádzky na povrchovú úpravu kovov a plastov využívajúce elektrolytické alebo chemické procesy upravenej plochy | od 30 m<sup>3</sup> kapacity používaných kadí | od 10 m<sup>3</sup> do 30 m<sup>3</sup> kapacity používaných kadí
 
   - 4. Chemický, farmaceutický a petrochemický priemysel
 
@@ -324,7 +322,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 2. | Intenzívny chov rýb | | bez limitu
 
-  - 3. | Melioračné zásahy, najmä a) odvodnenie, závlahy, protierózna ochrana pôd, úpravy pozemkovb) lesnícko-technické meliorácie | od 500 ha | od 10 ha do 500 ha od 50 ha len v chránených územiach
+  - 3. | Vodohospodárske projekty pre poľnohospodárstvo vrátane melioračných zásahov, najmä a) odvodnenie, závlahy, protierózna ochrana pôd, úpravy pozemkov b) lesnícko-technické meliorácie | od 500 ha | od 10 do 500 ha od 50 ha len v chránených územiach
 
   - 4. | Objekty na skladovanie – pesticídov – kvapalných a suspendovaných priemyselných hnojív | od 10 t od 50 t | bez limitu
 
@@ -434,13 +432,13 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 1. | Športové a rekreačné prístavy | v chránených územiach | neuvedené v časti A
 
-  - 2. | Zjazdové trate, bežecké trate, lyžiarske vleky, skokanské mostíky, lanovky a ostatné zariadenia | | bez limitu
+  - 2. | Zjazdové trate, bežecké trate, lyžiarske vleky, skokanské mostíky, lanovky a ostatné zariadenia | | v zastavanom území od 10 000 m<sup>2</sup> mimo zastavaného územia od 5 000 m<sup>2</sup> v území sústavy chránených území bez limitu
 
   - 3. | Trvalé pretekárske trate a skúšobné trate pre motorové vozidlá | v chránených územiach | neuvedené v časti A
 
   - 4. | Tematické parky | | bez limitu
 
-  - 5. | Športové a rekreačné areály neuvedené v položkách č. 1 – 4 | | v zastavanom území od 10 000 m<sup>2</sup>mimo zastavaného územia od 5 000 m<sup>2</sup>
+  - 5. | Športové a rekreačné areály vrátane trvalých kempingov a karavánových miest neuvedené v položkách č. 1 - 4 | | v zastavanom území od 10 000 m<sup>2</sup> mimo zastavaného územia od 5 000 m<sup>2</sup>
 
   - 15. Vojenské stavby
 

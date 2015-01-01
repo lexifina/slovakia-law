@@ -60,7 +60,7 @@ Príloha č. 6 k zákonu č. 24/2006 Z. z.
 
     - 6. Vyhlásenie sumarizujúce, ako boli začlenené úvahy o environmentálnych aspektoch do strategického dokumentu, ako bola zohľadnená správa o hodnotení strategického dokumentu, ako boli zohľadnené stanoviská verejnosti k správe o hodnotení strategického dokumentu, výsledky uskutočnených konzultácií, dôvody výberu schváleného strategického dokumentu v porovnaní s inými prijateľnými variantmi a informácia o opatreniach, o ktorých sa rozhodlo v súvislosti s monitoringom.
 
-    - 7. Informácia pre schvaľujúci orgán o zainteresovanej verejnosti pri posudzovaní vplyvov strategických dokumentov.
+    - 7. Informácia pre schvaľujúci orgán o dotknutej verejnosti pri posudzovaní vplyvov strategických dokumentov.
 
   - VII. Potvrdenie správnosti údajov
 

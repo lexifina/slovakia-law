@@ -1,6 +1,6 @@
 Príloha č. 13 k zákonu č. 24/2006 Z. z.
 
-- ZOZNAM ČINNOSTÍ PODLIEHAJÚCICH POVINNE MEDZINÁRODNÉMU POSUDZOVANIU Z HĽADISKA ICH VPLYVOV NA ŽIVOTNÉ PROSTREDIE, PRESAHUJÚCICH ŠTÁTNE HRANICE
+- ZOZNAM ČINNOSTÍ PODLIEHAJÚCICH MEDZINÁRODNÉMU POSUDZOVANIU Z HĽADISKA ICH VPLYVOV NA ŽIVOTNÉ PROSTREDIE, PRESAHUJÚCICH ŠTÁTNE HRANICE
 
   - 1. Rafinérie ropy (s výnimkou závodov, ktoré vyrábajú len mazivá z ropy) a zariadenia na splyňovanie a skvapalňovanie 500 a viac ton uhlia alebo bitúmenových bridlíc za deň.
 

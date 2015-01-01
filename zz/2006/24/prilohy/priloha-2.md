@@ -52,7 +52,7 @@ Príloha č. 2 k zákonu č. 24/2006 Z. z.
 
   - IV. Dotknuté subjekty
 
-    - 1. Vymedzenie zainteresovanej verejnosti vrátane jej združení.
+    - 1. Vymedzenie dotknutej verejnosti vrátane jej združení.
 
     - 2. Zoznam dotknutých subjektov.
 
