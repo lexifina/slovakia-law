@@ -26,11 +26,23 @@
 
 - 11b) § 16 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
+- 11c) Čl. 2 ods. 1 písm. n) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1305/2013 zo 17. decembra 2013 o podpore rozvoja vidieka prostredníctvom Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (EPFRV) a o zrušení nariadenia Rady (ES) č. 1698/2005 (Ú. v. EÚ L 347, 20. 12. 2013).
+
+- 11d) Čl. 2 ods. 2 prílohy I nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
+
+- 11e) Čl. 2 ods. 3 prílohy I nariadenia (EÚ) č. 651/2014.
+
+- 11f) Nariadenie vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení neskorších predpisov.
+
+- 11g) Nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. o podmienkach poskytovania podpory podľa programu rozvoja vidieka v znení neskorších predpisov.
+
 - 12) Zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 12a) § 7 ods. 4 zákona č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
 - 12b) § 2 ods. 2 písm. a) zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 12c) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 13) § 7 zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
@@ -43,6 +55,8 @@
 - 17) § 11 ods. 4 zákona č. 61/1977 Zb. v znení neskorších predpisov.
 
 - 17a) § 2 písm. h) zákona č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- 17b) § 40 zákona č. 326/2005 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon č. 61/1977 Zb. v znení neskorších predpisov.
 
