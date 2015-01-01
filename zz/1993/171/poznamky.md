@@ -184,4 +184,6 @@
 
 - 28jd) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
+- 28je) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
