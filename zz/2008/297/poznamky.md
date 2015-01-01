@@ -102,6 +102,10 @@
 
 - 51) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
+- 51a) Čl. 3 ods. 22 nariadenia Komisie (EÚ) č. 389/2013, ktorým sa zriaďuje register Únie podľa smernice Európskeho parlamentu a Rady 2003/87/ES a rozhodnutí Európskeho parlamentu a Rady č. 280/2004/ES a č. 406/2009/ES a ktorým sa zrušujú nariadenia Komisie (EÚ) č. 920/2010 a č. 1193/2011 (Ú. v. EÚ L 122/1, 3. 5. 2013).
+
+- § 17 ods. 1 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 399/2014 Z. z.
+
 - 52) § 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
 
 - 53) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1993 Zb. v znení neskorších predpisov, zákon č. 483/2001 Z. z.
