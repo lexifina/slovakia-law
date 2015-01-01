@@ -1,6 +1,6 @@
 # § 21c Osobitné prípady použitia ochrannej kukly príslušníkom zboru
 
-(1) Ak je to nutné v záujme osobnej bezpečnosti príslušníka zboru alebo jemu blízkej osoby,<sup>7a</sup>) je príslušník zboru na základe rozhodnutia riaditeľa ústavu oprávnený použiť na účely utajenia svojej fyzickej identity ochrannú kuklu pri
+(1) Ak je to nutné v záujme osobnej bezpečnosti príslušníka zboru alebo jemu blízkej osoby,<sup>7aa</sup>) je príslušník zboru na základe rozhodnutia riaditeľa ústavu oprávnený použiť na účely utajenia svojej fyzickej identity ochrannú kuklu pri
 
 - a) služobnom zákroku proti obvineným alebo odsúdeným v prípade vzbury alebo odmietnutia zhromaždených obvinených alebo odsúdených rozísť sa,
 

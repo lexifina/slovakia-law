@@ -108,6 +108,8 @@
 
 - 18d) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
+- 18e) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 19) § 30 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z.
 
 - § 25 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
