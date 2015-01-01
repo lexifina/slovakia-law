@@ -150,6 +150,8 @@
 
 - 24d) § 29 ods. 3 zákona č. 297/2008 Z. z.
 
+- 24e) § 2 ods. 2 zákona č. 492/2009 Z. z.
+
 - 25) § 173 a 174 Obchodného zákonníka.
 
 - 25a) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (U. v. EÚ L 331, 15. 12. 2010).
@@ -181,6 +183,8 @@
 - 26g) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
 
 - 26g) § 19a zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 26ga) § 19a zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 26h) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
 
@@ -314,15 +318,25 @@
 
 - 30zv) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
 
+- 30zw) Čl. 6 ods. 4 nariadenia Rady (EÚ) č. 1024/2013 z 15. októbra 2013, ktorým sa Európska centrálna banka poveruje osobitnými úlohami, pokiaľ ide o politiky týkajúce sa prudenciálneho dohľadu nad úverovými inštitúciami (Ú. v. EÚ L 287, 29. 10. 2013).
+
+- 30zx) § 3 ods. 1 zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
+
+- 30zy) § 10 zákona č. 371/2014 Z. z.
+
+- 30zz) § 2 písm. j) zákona č. 371/2014 Z. z.
+
+- 30zza) Čl. 19 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
+- 30zzb) § 84 zákona č. 371/2014 Z. z.
+
 - 31) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
 - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 32) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 32a) Zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
-
-- Zákon č. 129/2010 Z. z.
+- 32a) Zákon č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
@@ -357,6 +371,8 @@
 - 37aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
 - 37ab) § 41 a 42 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 37aba) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. v znení neskorších predpisov, § 20 a 21 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 37ac) Čl. 4 ods. 1 bod 86 nariadenia (EÚ) č. 575/2013.
 
@@ -414,6 +430,8 @@
 
 - 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, § 6 zákona č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení zákona č. 233/2012 Z. z.
 
+- 46a) § 51 zákona č. 371/2014 Z. z.
+
 - 47) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
 - 48) § 178 ods. 3 a 4 a § 187 písm. e) Obchodného zákonníka.
@@ -431,6 +449,8 @@
 - Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 48e) Napríklad Trestný poriadok v znení neskorších predpisov.
+
+- 48f) § 53 zákona č. 371/2014 Z. z.
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -458,13 +478,15 @@
 
 - § 180 zákona č. 7/2005 Z. z.
 
-- 54) § 31 ods. 4 Obchodného zákonníka.
+- 54) § 5b zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 136/2010 Z. z.
 
 - 55) Napríklad § 70, § 87 a § 94 až 101 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 56) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
 - 57) § 6, 7 a § 12 ods. 4, 5 a 7 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
+- § 98 ods. 2 písm. b) zákona č. 371/2014 Z. z.
 
 - 58) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 

@@ -1,0 +1,5 @@
+# § 33s Ustanovenia o proporcionalite
+
+(1) Národná banka Slovenska môže aj bez návrhu, s ohľadom na možný dopad zlyhania banky na finančný systém, ostatné inštitúcie vrátane podmienok ich financovania a hospodárstvo ako celok, rozhodnutím primerane obmedziť rozsah uplatnenia požiadaviek uvedených v § 33o a 33q a určiť odlišne lehotu na vypracovanie ozdravného plánu a frekvenciu jeho aktualizácie. Národná banka Slovenska pritom prihliadne k povahe podnikania banky, zložitosti jej činnosti, jej akcionárskej štruktúre, rizikovému profilu, veľkosti, právnemu postaveniu, previazanosti s inými účastníkmi finančného systému, na členstvo v inštitucionálnom systéme ochrany alebo inom obdobnom systéme podľa osobitného predpisu <sup>26g</sup>) a k investičným službám poskytovaným touto bankou. Ak dôjde k zmene okolností, rezolučná rada môže kedykoľvek toto rozhodnutie Národnej banky Slovenska nahradiť novým rozhodnutím, ktorým banke určí nový rozsah povinností podľa § 33o a 33q.
+
+(2) Národná banka Slovenska informuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) o tom, či využila postup podľa odseku 1, a o podrobnostiach svojho postupu.
