@@ -4,6 +4,8 @@
 
 - 1a) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
+- 1aa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 2) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 3 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
@@ -195,5 +197,7 @@
 - 51) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení neskorších predpisov.
 
 - 52) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 52a) § 7 ods. 8 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 53) § 3 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
