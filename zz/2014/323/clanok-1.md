@@ -20,6 +20,32 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
   - Napríklad zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 3. V § 21 ods. 5 sa na konci pripája táto veta: "Colný úrad v povolení na prevádzkovanie daňového skladu uvedie príslušný kód kombinovanej nomenklatúry minerálneho oleja podľa § 4 ods. 2 písm. a), c) až i) a podľa § 6 ods. 1, ktorý žiadateľ uviedol v žiadosti podľa odseku 1, a ktorý je žiadateľ oprávnený vyrábať, spracúvať, skladovať, prijímať alebo odosielať v pozastavení dane; ak dôjde k zmene kódu kombinovanej nomenklatúry príslušného minerálneho oleja, pôvodné povolenie na prevádzkovanie daňového skladu zostáva v platnosti.".
+
+- 4. V § 21 ods. 6 prvá veta znie: "Prevádzkovateľ daňového skladu je povinný oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 1 písm. a) najneskôr päť pracovných dní pred ich vznikom a zmenu údajov podľa odseku 2 písm. b) a c) a odseku 4 písm. e) až g) do 15 dní odo dňa ich vzniku.".
+
+- 5. Za § 24 sa vkladá § 24a, ktorý vrátane nadpisu znie:
+
+- „§ 24a
+
+- Pozastavenie prístupu do elektronického systému prepráv
+
+- (1)
+
+- Colný úrad môže osobe podľa § 11, 21, 25 alebo § 26 dočasne pozastaviť na daňovom území prístup do elektronického systému,<sup>6c</sup>) ak má odôvodnenú obavu, že nesplatná daň alebo nevyrubená daň bude, v rozsahu presahujúcom zloženú zábezpeku na daň, v čase jej splatnosti a vymáhateľnosti nevymožiteľná alebo že v tomto čase bude vymáhanie dane spojené so značnými ťažkosťami.
+
+- (2)
+
+- Colný úrad je povinný osobu podľa § 11, 21, 25 alebo § 26, ktorej dočasne pozastavil prístup do elektronického systému,<sup>6c</sup>) bezodkladne informovať. V oznámení o pozastavení prístupu do elektronického systému<sup>6c</sup>) colný úrad uvedie dôvody, na základe ktorých postupoval podľa odseku 1. Proti postupu colného úradu podľa odseku 1 je prípustná námietka, ktorá nemá odkladný účinok.
+
+- (3)
+
+- Ak pominú dôvody, na základe ktorých colný úrad postupoval podľa odseku 1, je colný úrad povinný bezodkladne umožniť osobe podľa § 11, 21, 25 alebo § 26 prístup do elektronického systému<sup>6c</sup>) a o tejto skutočnosti ju bezodkladne informovať.“.
+
+- 6. V § 25 ods. 7 sa na konci pripája táto veta: "Colný úrad v povolení prijímať minerálny olej z iného členského štátu v pozastavení dane opakovane uvedie príslušný kód kombinovanej nomenklatúry minerálneho oleja podľa § 4 ods. 2 písm. a), c) až i) a podľa § 6 ods. 1, ktorý žiadateľ uviedol v žiadosti podľa odseku 2, a ktorý je žiadateľ oprávnený prijímať z iného členského štátu v pozastavení dane opakovane; ak dôjde k zmene kódu kombinovanej nomenklatúry príslušného minerálneho oleja, pôvodné povolenie prijímať minerálny olej z iného členského štátu v pozastavení dane zostáva v platnosti.".
+
+- 7. V § 25 ods. 14 prvá veta znie: "Oprávnený príjemca je povinný každú zmenu údajov podľa odseku 2 písm. a) oznámiť colnému úradu najneskôr päť pracovných dní pred prijatím tohto minerálneho oleja a zmenu údajov podľa odseku 4 písm. a), c) až f) je povinný oznámiť colnému úradu do 15 dní odo dňa jej vzniku.".
+
 - 9. V § 31 ods. 3 druhá veta znie: "Platiteľ dane, ktorý je zároveň osobou uvedenou v § 14 ods. 2, podáva samostatné daňové priznanie na minerálny olej prijatý mimo pozastavenia dane na podnikateľské účely najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť.".
 
 - 10. V § 41 ods. 3 sa na konci pripája táto veta: "Finančné riaditeľstvo uverejní na svojom webovom sídle údaje podľa odseku 2 písm. i) a j).".

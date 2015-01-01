@@ -2,6 +2,24 @@
 
 Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení zákona č. 69/2012 Z. z., zákona č. 246/2012 Z. z., zákona č. 362/2013 Z. z. a zákona č. 218/2014 Z. z. sa mení a dopĺňa takto:
 
+- 1. Za § 18 sa vkladá § 18a, ktorý vrátane nadpisu znie:
+
+- „§ 18a
+
+- Pozastavenie prístupu do elektronického systému
+
+- (1)
+
+- Colný úrad môže osobe podľa § 9, 15, 19 alebo § 20 dočasne pozastaviť na daňovom území prístup do elektronického systému,<sup>36</sup>) ak má odôvodnenú obavu, že nesplatná daň alebo nevyrubená daň bude, v rozsahu presahujúcom zloženú zábezpeku na daň, v čase jej splatnosti a vymáhateľnosti nevymožiteľná alebo že v tomto čase bude vymáhanie dane spojené so značnými ťažkosťami.
+
+- (2)
+
+- Colný úrad je povinný osobu podľa § 9, 15, 19 alebo § 20, ktorej dočasne pozastavil prístup do elektronického systému,<sup>36</sup>) bezodkladne informovať. V oznámení o pozastavení prístupu do elektronického systému<sup>36</sup>) colný úrad uvedie dôvody, na základe ktorých postupoval podľa odseku 1. Proti postupu colného úradu podľa odseku 1 je prípustná námietka, ktorá nemá odkladný účinok.
+
+- (3)
+
+- Ak pominú dôvody, na základe ktorých colný úrad postupoval podľa odseku 1, je colný úrad povinný bezodkladne umožniť osobe podľa § 9, 15, 19 alebo § 20 prístup do elektronického systému<sup>36</sup>) a o tejto skutočnosti ju bezodkladne informovať.“.
+
 - 2. V § 53 ods. 6 poslednej vete sa vypúšťajú slová "finančného riaditeľstva".
 
 - 3. V § 53 ods. 7 prvej vete sa slová "potvrdenia prijatia žiadosti o vydanie kontrolných známok colným úradom" nahrádzajú slovami "pripísania peňažných prostriedkov pripadajúcich na cenu kontrolných známok, ktoré môže odberateľ kontrolných známok odobrať v počte oznámenom colným úradom podľa odseku 6" a piata veta znie: "Zamestnanec finančného riaditeľstva v tlačiarni vydá kontrolné známky odberateľovi kontrolných známok alebo osobe, ktorú odberateľ kontrolných známok splnomocnil na prevzatie kontrolných známok v tlačiarni, len ak boli peňažné prostriedky, pripadajúce na počet kontrolných známok oznámených colným úradom podľa odseku 6, pripísané na účet oznámený colným úradom.".
