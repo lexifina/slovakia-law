@@ -6,6 +6,10 @@
 
 - § 74 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
+- 1aaa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
+- 1aab) § 13 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 1ab) Zákon č. 420/2004 Z. z. o mediácii a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1b) § 2 písm. h) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
