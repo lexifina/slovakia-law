@@ -44,21 +44,23 @@
 
 - 2db) Zmluva medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi, zúčastnenými v Partnerstve za mier vzťahujúca sa na štatút ich ozbrojených síl (oznámenie č. 324/1997 Z. z.).
 
-- 2e) Príloha č. 1 časť B bod 2 písm. a) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 2e) Zákon č. 474/2013 Z. z. o výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 488/2013 Z. z. o diaľničnej známke a o zmene niektorých zákonov.
 
 - 2ea) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 168/1996 Z. z. o cestnej doprave v znení neskorších predpisov.
 
-- 2f) Príloha č. 1 časť B bod 3 písm. a) zákona č. 725/2004 Z. z.
+- 2f) Zákon č. 488/2013 Z. z.
 
 - 2fa) Zákon č. 639/2004 Z. z. v znení neskorších predpisov.
 
-- 2g) Príloha č. 1 časť B bod 2 písm. a) a bod 5 písm. a) zákona č. 725/2004 Z. z.
+- 2g) Zákon č. 488/2013 Z. z.
 
 - 2ga) § 94 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
 - 2gb) § 4 ods. 2 písm. b) vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 41/2000 Z. z. v znení vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 414/2000 Z. z.
 
-- 2h) Príloha č. 1 časť B bod 3 písm. a) a bod 5 písm. a) a b) zákona č. 725/2004 Z. z.
+- 2h) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 2i) § 2 písm. a) nariadenia vlády Slovenskej republiky č. 344/2006 Z. z. o minimálnych bezpečnostných požiadavkách na tunely v cestnej sieti.
 
