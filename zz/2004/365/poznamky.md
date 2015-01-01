@@ -1,5 +1,7 @@
 - 1) Napríklad zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov, zákon č. 312/2001 Z. z. o štátnej službe a zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov, zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov, zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1a) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 2) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 606/2003 Z. z.
 
 - 3) Zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
