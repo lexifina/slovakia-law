@@ -2,6 +2,20 @@
 
 Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2002 Z. z., zákona č. 670/2002 Z. z., zákona č. 426/2003 Z. z., zákona č. 458/2003 Z. z., zákona č. 462/2003 Z. z., zákona č. 505/2003 Z. z., zákona č. 514/2003 Z. z., zákona č. 548/2003 Z. z., zákona č. 267/2004 Z. z., zákona č. 403/2004 Z. z., zákona č. 530/2004 Z. z., zákona č. 586/2004 Z. z., zákona č. 609/2004 Z. z., zákona č. 757/2004 Z. z., zákona č. 122/2005 Z. z., zákona č. 622/2005 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 15/2008 Z. z., zákona č. 517/2008 Z. z., zákona č. 520/2008 Z. z., zákona č. 59/2009 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 290/2009 Z. z., zákona č. 291/2009 Z. z., zákona č. 500/2010 Z. z., zákona č. 543/2010 Z. z., zákona č. 33/20011 Z. z., zákona č. 100/2011 Z. z., zákona č. 467/2011 Z. z., zákona č. 503/2011 Z. z. a zákona č. 79/2012 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 5 ods. 1 písmeno b) znie:
+
+- „b)
+
+- získal vysokoškolské vzdelanie druhého stupňa v študijnom odbore právo na právnickej fakulte vysokej školy v Slovenskej republike<sup>2</sup>) alebo má uznaný doklad o vysokoškolskom právnickom vzdelaní druhého stupňa vydaný zahraničnou vysokou školou; ak získal vysokoškolské vzdelanie najprv v prvom stupni a následne v druhom stupni, vyžaduje sa, aby v oboch stupňoch získal vzdelanie v odbore právo,“.
+
+- Poznámka pod čiarou k odkazu 2 znie:
+
+- „2)
+
+- Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 2. Poznámka pod čiarou k odkazu 3 sa vypúšťa.
+
 - 3. § 12 vrátane nadpisu znie:
 
 - „§ 12

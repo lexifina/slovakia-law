@@ -6,6 +6,8 @@ Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/199
 
 - 2. V § 2 ods. 1 sa slová „Slovenská advokátska komora (ďalej len „komora“)“ nahrádzajú slovom „komora“.
 
+- 3. V § 3 ods. 1 písm. b) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak žiadateľ získal vysokoškolské vzdelanie najprv v prvom stupni a následne v druhom stupni, vyžaduje sa, aby v oboch stupňoch získal vzdelanie v študijnom odbore právo,“.
+
 - 4. V § 3 ods. 1 písmeno c) znie:
 
 - „c)
@@ -251,6 +253,8 @@ Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/199
 - po uplynutí skúšobnej doby, počas ktorej mu bol podmienečne odložený výkon disciplinárneho opatrenia, ak nenastala žiadna skutočnosť, pre ktorú sa disciplinárne opatrenie muselo vykonať.“.
 
 - 40. V § 62 ods. 1 úvodnej vete sa slovo „alebo“ nahrádza čiarkou a za slovo „obmedzeným“ sa vkladá čiarka a slová „usadeného euroadvokáta alebo organizačnej zložky zahraničného združenia, ktorí sú zapísaní v príslušnom zozname vedenom komorou najmenej tri roky“.
+
+- 41. V § 62 ods. 1 písm. b) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „od absolventa zahraničnej vysokej školy môže predsedníctvo komory požadovať, aby preukázal pred skúšobným senátom komory, že je schopný aplikovať právny poriadok Slovenskej republiky; ak žiadateľ získal vysokoškolské vzdelanie najprv v prvom stupni a následne v druhom stupni, vyžaduje sa, aby v oboch stupňoch získal vzdelanie v odbore právo; podrobnosti o preukazovaní schopnosti aplikovať právny poriadok Slovenskej republiky určí predpis komory.“.
 
 - 42. V § 62 ods. 1 písmeno c) znie:
 
