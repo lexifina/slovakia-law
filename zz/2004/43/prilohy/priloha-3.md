@@ -1,19 +1,19 @@
-Príloha č. 3 k zákonu č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
+Príloha č. 3 k zákonu č. 43/2004 Z. z.
 
-- VZOREC NA VÝPOČET VÝŠKY ODPLATY ZA ZHODNOTENIE MAJETKU V DÔCHODKOVOM FONDE Vzorec na výpočet výšky odplaty za zhodnotenie majetku v dôchodkovom fonde:
+- VYHLÁSENIE
 
-- ![Vzorec](../assets/ecf14157e25b2f2b81e0ae798c677e5c644c3c4ffbb444c5707f406c180419f7.png)
+- Podpísaný
 
-- Pri výpočte odplaty za zhodnotenie majetku v dôchodkovom fonde sa použijú tieto veličiny, funkcie a ich označenia:
+- .........................................................................................................................................................................
 
-- O<sub>t</sub> | výška odplaty za zhodnotenie majetku v dôchodkovom fonde pre deň t
+- (meno, priezvisko, dátum narodenia a bydlisko)
 
-- NAV<sub>t</sub> | druhá predbežná čistá hodnota majetku v dôchodkovom fonde platná pre deň t
+- týmto vyhlasujem, že som si vedomý skutočnosti, že v akciovom negarantovanom dôchodkovom fonde, v zmiešanom negarantovanom dôchodkovom fonde a v indexovom negarantovanom dôchodkovom fonde nie je dôchodková správcovská spoločnosť povinná dopĺňať majetok podľa § 63d zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. S vedomím tejto skutočnosti som rozhodnutý zostať sporiteľom v dôchodkovom fonde, v ktorom som k dnešnému dňu sporiteľom.
 
-- AHDJ<sub>t</sub> | predbežná aktuálna hodnota dôchodkovej jednotky platná pre deň t
+- V .................................. dňa ................... 2013
 
-- maxAHDJ<sub>t-1</sub> | maximálna aktuálna hodnota dôchodkovej jednotky dosiahnutá za tri roky predchádzajúce dňu t, najneskôr od 1. apríla 2012
+- ........................................
 
-- K | koeficient na určenie výšky odplaty za zhodnotenie majetku v dôchodkovom fonde, ktorý môže byť maximálne vo výške 0,1
+- Podpis
 
-- t | pracovný deň bezprostredne predchádzajúci dňu výpočtu odplaty za zhodnotenie majetku v dôchodkovom fonde.
+- Poučenie: Podľa § 123ai zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z., je sporiteľ, ktorý má záujem zostať sporiteľom v akciovom negarantovanom dôchodkovom fonde, v zmiešanom negarantovanom dôchodkovom fonde a v indexovom negarantovanom dôchodkovom fonde, povinný toto vyhlásenie podpísať a doručiť dôchodkovej správcovskej spoločnosti najneskôr do 31. marca 2013, inak sa dňom 30. apríla 2013 stane sporiteľom výlučne v dlhopisovom garantovanom dôchodkovom fonde.

@@ -1,17 +1,11 @@
-# § 74a Účet nepriradených platieb a bežný účet pre nepriradené platby
+# § 74a Účet nepriradených platieb
 
-(1) Majetok evidovaný na účte nepriradených platieb nie je súčasťou majetku dôchodkovej správcovskej spoločnosti.
+(1) Majetok evidovaný na účte nepriradených platieb okrem výnosov podľa odseku 3 nie je súčasťou majetku dôchodkovej správcovskej spoločnosti.
 
-(2) Peňažné prostriedky evidované na účte nepriradených platieb sú uložené na bežnom účte pre nepriradené platby vedenom u depozitára.
+(2) Poplatky depozitárovi za vedenie účtu nepriradených platieb a poplatky za poskytovanie platobných služieb v súvislosti s účtom nepriradených platieb znáša dôchodková správcovská spoločnosť.
 
-(3) Majetok evidovaný na účte nepriradených platieb je majetkom sporiteľov v príslušných dôchodkových fondoch v rozsahu, v akom sú na účte nepriradených platieb zastúpené identifikované príspevky, penále alebo iné peňažné prostriedky vzťahujúce sa k príslušnému dôchodkovému fondu, ak tento zákon neustanovuje inak. Majetok evidovaný na účte nepriradených platieb presahujúci súčet súm identifikovaných príspevkov, penále alebo iných peňažných prostriedkov vzťahujúcich sa k jednotlivým dôchodkovým fondom, je majetkom jeho vlastníkov alebo je pohľadávkou príslušného fondu Sociálnej poisťovne a dôchodková správcovská spoločnosť je povinná s ním nakladať podľa zákona.
+(3) Výnosy plynúce z peňažných prostriedkov na účte nepriradených platieb sú príjmom dôchodkovej správcovskej spoločnosti.
 
-(4) Poplatky depozitárovi za vedenie bežného účtu pre nepriradené platby a poplatky za poskytovanie platobných služieb v súvislosti s bežným účtom podľa odseku 2 znáša dôchodková správcovská spoločnosť.
+(4) Všetky platby postupované Sociálnou poisťovňou, prevádzané dôchodkovou správcovskou spoločnosťou pri prestupe sporiteľa a platby dobrovoľných príspevkov musia byť realizované prostredníctvom účtu nepriradených platieb. Účet nepriradených platieb je určený aj na zúčtovanie odplaty za vedenie osobného dôchodkového účtu. Účet nepriradených platieb možno použiť na vedenie peňažných prostriedkov sporiteľa, ktorých suma je uvedená v certifikáte, a to odo dňa vydania certifikátu, alebo na vedenie peňažných prostriedkov po zomretom sporiteľovi. Z účtu nepriradených platieb možno vykonať prevod dobrovoľných príspevkov dôchodkovej správcovskej spoločnosti podľa § 21 ods. 6 písm. a), prevod dobrovoľných príspevkov poistiteľovi podľa § 21 ods. 6 písm. b) a c), prevod sumy podľa § 40 ods. 1 na osobný dôchodkový účet oprávnenej osoby alebo dediča, ak sú sporiteľmi, výplatu dobrovoľných príspevkov fyzickej osobe podľa § 21 ods. 6 písm. d) a výplatu sumy zodpovedajúcej aktuálnej hodnote osobného dôchodkového účtu zomretého sporiteľa podľa § 40 ods. 1.
 
-(5) Výnosy plynúce z finančných prostriedkov uložených na bežnom účte pre nepriradené platby sú príjmom dôchodkovej správcovskej spoločnosti.
-
-(6) Všetky platby poukazované Sociálnou poisťovňou, inou dôchodkovou správcovskou spoločnosťou pri prestupe sporiteľa do inej dôchodkovej správcovskej spoločnosti a platby dobrovoľných príspevkov musia byť realizované prostredníctvom účtu nepriradených platieb, ak tento zákon neustanovuje inak. Účet nepriradených platieb je určený aj na zúčtovanie odplaty za vedenie osobného dôchodkového účtu.
-
-(7) Pri prestupe sporiteľa do inej dôchodkovej správcovskej spoločnosti poukazuje dôchodková správcovská spoločnosť sumu zodpovedajúcu aktuálnej hodnote osobného dôchodkového účtu sporiteľa zo dňa predchádzajúceho dňu prestupu sporiteľa podľa § 97 na účet nepriradených platieb dôchodkovej správcovskej spoločnosti, do ktorej sporiteľ prestupuje.
-
-(8) Majetok evidovaný na účte nepriradených platieb okrem výnosov podľa odseku 5 nie je súčasťou konkurznej podstaty dôchodkovej správcovskej spoločnosti ani nesmie byť použitý na vyrovnanie s veriteľmi dôchodkovej správcovskej spoločnosti podľa osobitného predpisu.<sup>49</sup>)
+(5) Peňažné prostriedky na účte nepriradených platieb okrem výnosov podľa odseku 3 nie sú súčasťou konkurznej podstaty dôchodkovej správcovskej spoločnosti ani nesmú byť použité na vyrovnanie s veriteľmi dôchodkovej správcovskej spoločnosti podľa osobitného predpisu.<sup>49</sup>)

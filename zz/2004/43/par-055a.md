@@ -20,9 +20,9 @@
 
 - e) zabezpečiť, aby aktuálna úroveň rizík zodpovedala systému vnútorných rizikových limitov podľa písmena d) príslušného dôchodkového fondu,
 
-- f) zaviesť a uplatňovať primerané postupy, ktoré pri skutočnom alebo predpokladanom porušení systému vnútorných rizikových limitov podľa písmena d) zabezpečia včasné nápravné opatrenia v záujme sporiteľov dôchodkových fondov a poberateľov dôchodkov starobného dôchodkového sporenia.
+- f) zaviesť a uplatňovať primerané postupy, ktoré pri skutočnom alebo predpokladanom porušení systému vnútorných rizikových limitov podľa písmena d) zabezpečia včasné nápravné opatrenia v záujme sporiteľov.
 
-(3) Na účely odsekov 1 a 2 sa za významné riziká, ktoré môžu byť očakávané s rozumnou mierou istoty, že sa dotknú záujmov sporiteľov alebo poberateľov starobného dôchodku, považujú
+(3) Na účely odsekov 1 a 2 sa za významné riziká, ktoré môžu byť očakávané s rozumnou mierou istoty, že sa dotknú záujmov sporiteľov, považujú
 
 - a) kreditné riziko, ktorým je riziko straty pre dôchodkový fond vyplývajúce z toho, že dlžník alebo iná zmluvná strana si nesplní svoje záväzky; kreditné riziko zahŕňa aj riziko protistrany, ktoré znamená riziko straty pre dôchodkový fond vyplývajúce zo skutočnosti, že protistrana v rámci uzatvoreného obchodu nesplní svoje záväzky pred konečným vyrovnaním peňažných tokov v rámci obchodu,
 

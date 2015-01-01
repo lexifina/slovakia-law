@@ -2,7 +2,7 @@
 
 (1) Sporiteľ môže prestúpiť z dôchodkovej správcovskej spoločnosti do inej dôchodkovej správcovskej spoločnosti, ak dôchodkovej správcovskej spoločnosti, do ktorej vstupuje a s ktorou uzatvorí zmluvu o starobnom dôchodkovom sporení, predloží originál akceptačného listu. Zmluva o starobnom dôchodkovom sporení podľa prvej vety musí obsahovať aj výslovný písomný prejav vôle sporiteľa prestúpiť do inej dôchodkovej správcovskej spoločnosti.
 
-(2) Akceptačný list podľa odseku 1 vydá bez zbytočného odkladu pobočka Sociálnej poisťovne príslušná podľa miesta pobytu sporiteľa, ktorý má záujem prestúpiť do inej dôchodkovej správcovskej spoločnosti a osobne požiada o vydanie akceptačného listu. Ak ku dňu vydania akceptačného listu uplynuli viac ako dva roky odo dňa vzniku prvého dôchodkového poistenia podľa osobitného predpisu<sup>3</sup>) a ak odo dňa posledného prestupu do dôchodkovej správcovskej spoločnosti, z ktorej sporiteľ prestupuje, neuplynul najmenej jeden rok, zaplatí sporiteľ Sociálnej poisťovni poplatok za vydanie akceptačného listu v sume 16 eur.
+(2) Akceptačný list podľa odseku 1 vydá bez zbytočného odkladu pobočka Sociálnej poisťovne príslušná podľa miesta pobytu sporiteľa, ktorý má záujem prestúpiť do inej dôchodkovej správcovskej spoločnosti a osobne požiada o vydanie akceptačného listu. Ak ku dňu vydania akceptačného listu uplynuli viac ako dva roky odo dňa vzniku prvého dôchodkového poistenia podľa osobitného predpisu<sup>3</sup>) a ak odo dňa posledného prestupu neuplynul najmenej jeden rok, zaplatí sporiteľ Sociálnej poisťovni poplatok za vydanie akceptačného listu v sume 16 eur.
 
 (3) Akceptačný list obsahuje najmä meno a priezvisko sporiteľa, adresu jeho trvalého pobytu, identifikačné číslo sociálneho zabezpečenia sporiteľa a vyjadrenie Sociálnej poisťovne, že sporiteľ splnil podmienky podľa odseku 2.
 
@@ -14,6 +14,14 @@
 
 - b) po 15. dni kalendárneho mesiaca, je deň prestupu do inej dôchodkovej správcovskej spoločnosti prvý deň druhého kalendárneho mesiaca, ktorý nasleduje po kalendárnom mesiaci, v ktorom bola zmluva zapísaná do registra zmlúv.
 
-(6) Sociálna poisťovňa je povinná bez zbytočného odkladu po zápise zmluvy o starobnom dôchodkovom sporení uzatvorenej s dôchodkovou správcovskou spoločnosťou, do ktorej sporiteľ prestupuje, informovať o tomto zápise dôchodkovú správcovskú spoločnosť, z ktorej sporiteľ prestupuje, a dôchodkovú správcovskú spoločnosť, do ktorej sporiteľ prestupuje.
+(6) Sociálna poisťovňa je povinná
 
-(7) Sporiteľ nemôže prestúpiť do inej dôchodkovej správcovskej spoločnosti, ak podal žiadosť o vyplácanie dôchodku podľa tohto zákona v dôchodkovej správcovskej spoločnosti, s ktorou má uzatvorenú zmluvu o starobnom dôchodkovom sporení.
+- a) bez zbytočného odkladu po zápise zmluvy o starobnom dôchodkovom sporení uzatvorenej s dôchodkovou správcovskou spoločnosťou, do ktorej sporiteľ prestupuje, informovať o tomto zápise dôchodkovú správcovskú spoločnosť, z ktorej sporiteľ prestupuje, a dôchodkovú správcovskú spoločnosť, do ktorej sporiteľ prestupuje,
+
+- b) súčasne so zápisom zmluvy o starobnom dôchodkovom sporení uzatvorenej s dôchodkovou správcovskou spoločnosťou, do ktorej sporiteľ prestupuje, zaevidovať túto skutočnosť v ponukovom systéme.
+
+(7) Sporiteľ nemôže prestúpiť do inej dôchodkovej správcovskej spoločnosti odo dňa
+
+- a) zadania pokynu na vydanie certifikátu podľa § 45 do dňa skončenia záväznosti ponuky podľa § 46, 46a a 46b alebo
+
+- b) uzatvorenia zmluvy o poistení dôchodku alebo dohody o vyplácaní dôchodku programovým výberom.

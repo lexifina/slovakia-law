@@ -6,8 +6,6 @@
 
 - Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov.
 
-- 2) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 3) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 4) § 4 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
@@ -16,11 +14,17 @@
 
 - 6) § 27 zákona č. 461/2003 Z. z.
 
+- 6a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
 - 7) § 7 zákona č. 461/2003 Z. z. v znení zákona č. 543/2010 Z. z.
 
-- 8) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 8) § 2 ods. 1 zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
-- 9) § 51 Občianskeho zákonníka.
+- 8a) § 2 ods. 2 zákona č. 8/2008 Z. z.
+
+- 8b) § 2 ods. 4 zákona č. 8/2008 Z. z.
+
+- 8c) Príloha č. 1 časť A siedmy bod zákona č. 8/2008 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 19) § 26 zákona č. 461/2003 Z. z.
 
@@ -44,25 +48,35 @@
 
 - 36a) § 241a ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 555/2007 Z. z.
 
+- 36b) § 67 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 36c) § 67 ods. 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 37) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
 
-- 38) § 50a Občianskeho zákonníka.
+- 38) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 39) § 9 a 10 zákona č. 461/2003 Z. z.
+- 38a) § 40 zákona č. 328/2002 Z. z.
 
-- 39a) § 74 ods. 5 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 38b) § 126 a 143c ods. 4 zákona č. 328/2002 Z. z. v znení zákona č. 732/2004 Z. z.
 
-- 39b) § 76 ods. 4 a 5 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 38c) § 46 a 129 zákona č. 328/2002 Z. z. v znení zákona č. 80/2013 Z. z.
 
-- 40) § 117 ods. 3 zákona č. 461/2003 Z. z.
+- 38d) § 51 a 129 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
 
-- 41) Zákon Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení zákona č. 451/2002 Z. z.
+- 40) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
-- 42) Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 41) Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 42) § 3 ods. 1 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 42a) § 81 ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 42b) § 179 ods. 1 písm. h) zákona č. 461/2003 Z. z. v znení zákona č. 183/2014 Z. z.
+
+- 42c) § 2 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z.
 
 - 43) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
-
-- 44) Zákon č. 9/2010 Z. z. o sťažnostiach.
 
 - 45) Obchodný zákonník.
 
@@ -82,7 +96,7 @@
 
 - 48) § 8 písm. e) zákona č. 566/2001 Z. z.
 
-- 49) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 49) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 50) § 37 ods. 1 zákona č. 96/2002 Z. z.
 
@@ -94,13 +108,13 @@
 
 - § 60 ods. 3 zákona č. 429/2002 Z. z. o burze cenných papierov.
 
+- 51a) § 7 ods. 14 až 16 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 52) § 8 písm. i) zákona č. 566/2001 Z. z.
 
 - 53) § 8 písm. j) zákona č. 566/2001 Z. z.
 
 - 54) § 8 písm. h) zákona č. 566/2001 Z. z.
-
-- 55) § 35 zákona č. 96/2002 Z. z.
 
 - 56) § 66b Obchodného zákonníka.
 
@@ -110,17 +124,17 @@
 
 - Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
 
-- 58a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 58a) § 4 ods. 2 písm. a) zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
-- 58b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+- 58b) § 4 ods. 1 zákona č. 122/2013 Z. z.
 
 - 58c) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 58d) § 4 ods. 1 písm. a) až c), § 7 ods. 3, ods. 5 druhá veta a ods. 6 druhá veta, § 8 ods. 2 a § 10 ods. 6 zákona č. 428/2002 Z. z.
+- 58d) § 4 ods. 3 písm. a) zákona č. 122/2013 Z. z.
 
-- 58e) § 7 ods. 6 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+- 58e) § 4 ods. 3 písm. a) prvý bod a druhý bod zákona č. 122/2013 Z. z.
 
-- 58f) § 23 a 55 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+- 58f) § 31 zákona č. 122/2013 Z. z.
 
 - 59) § 17 až 23 zákona č. 431/2002 Z. z. o účtovníctve.
 
@@ -148,7 +162,7 @@
 
 - 68a) § 226 ods. 1 písm. k) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 69) § 4 zákona č. 328/1991 Zb.
+- 69) § 11 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 70) § 5 zákona č. 566/2001 Z. z.
 
@@ -186,9 +200,11 @@
 
 - 82) Napríklad Obchodný zákonník, zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 83) § 50 až 65 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 83) § 9 ods. 1 a § 50 až 65 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 84) § 156 zákona č. 566/2001 Z. z.
+
+- 84a) Napríklad § 8 a 8a zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 85) § 708 až 715 Obchodného zákonníka.
 
@@ -214,7 +230,11 @@
 
 - 93a) Napríklad zákon č. 297/2008 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. v znení neskorších predpisov.
 
+- 93b) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
 - 94) Napríklad Trestný poriadok, Zákonník práce.
+
+- 94a) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 95) § 178 ods. 1 a 2 Obchodného zákonníka.
 

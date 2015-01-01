@@ -1,5 +1,7 @@
 # § 46c Ponukový list
 
+(1) Sociálna poisťovňa zašle sporiteľovi najneskôr nasledujúci pracovný deň od vyhotovenia certifikátu spôsobom uvedeným v žiadosti podľa § 44 ods. 7 ponukový list.
+
 (2) Súčasťou ponukového listu sú
 
 - a) ponuky podľa § 46, na základe ktorých možno dohodnúť vyplácanie doživotného starobného dôchodku alebo doživotného predčasného starobného dôchodku,
