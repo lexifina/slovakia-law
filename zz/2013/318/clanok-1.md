@@ -620,6 +620,10 @@ Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnen
 
 - vykonáva rovnaké činnosti pre doplnkový dôchodkový fond a pre iného klienta alebo klientov, ktorí nie sú doplnkovým dôchodkovým fondom,
 
+- e)
+
+- získava alebo získa podľa § 34d v súvislosti s činnosťou spravovania doplnkových dôchodkových fondov od osoby, ktorá nie je doplnkovým dôchodkovým fondom, prospech v akejkoľvek forme, ktorý nie je obvyklou províziou alebo poplatkom za túto službu.
+
 - (4)
 
 - Doplnková dôchodková spoločnosť je povinná pri identifikovaní jednotlivých druhov konfliktov záujmov vziať do úvahy záujmy
@@ -785,6 +789,144 @@ Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnen
 - 102. V § 34 ods. 13 a 14 sa slová „odseku 10“ nahrádzajú slovami „odseku 12“.
 
 - 103. V § 34 ods. 15 sa slová „odsekov 10 až 12“ nahrádzajú slovami „odsekov 12 až 14“.
+
+- 104. Za § 34 sa vkladajú § 34a až 34d, ktoré vrátane nadpisov znejú:
+
+- „§ 34a
+
+- Vykonávanie rozhodnutí o nakladaní s majetkom v doplnkovom dôchodkovom fonde
+
+- (1)
+
+- Doplnková dôchodková spoločnosť je povinná pri vykonávaní rozhodnutí o nakladaní s majetkom v doplnkovom dôchodkovom fonde a pri spravovaní majetku v doplnkovom dôchodkovom fonde konať v najlepšom záujme účastníkov a poberateľov dávok.
+
+- (2)
+
+- Doplnková dôchodková spoločnosť je povinná na účely odseku 1 prijať také opatrenia, aby dosiahla najlepší možný výsledok pre účastníkov a poberateľov dávok pri zohľadnení ceny, nákladov, rýchlosti a pravdepodobnosti vykonania a vyrovnania obchodu, veľkosti a povahy pokynu alebo iných okolností týkajúcich sa vykonania pokynu.
+
+- (3)
+
+- Dôležitosť okolností podľa odseku 2 sa určuje na základe
+
+- a)
+
+- investičných cieľov, investičnej politiky a rizík podľa rizikového profilu doplnkového dôchodkového fondu,
+
+- b)
+
+- charakteristiky pokynu,
+
+- c)
+
+- charakteristiky finančných nástrojov, ktoré sú predmetom pokynu,
+
+- d)
+
+- charakteristiky miest výkonu, kde môže byť pokyn postúpený.
+
+- (4)
+
+- Doplnková dôchodková spoločnosť je povinná zaviesť a dodržiavať účinné opatrenia na splnenie povinnosti ustanovenej v odseku 2, a to najmä zaviesť a dodržiavať politiku, ktorá jej umožní dosiahnuť najlepší možný výsledok podľa odseku 1 pri vykonávaní pokynov pri nakladaní s majetkom v doplnkovom dôchodkovom fonde.
+
+- (5)
+
+- Doplnková dôchodková spoločnosť je povinná sledovať účinnosť svojich opatrení a politík na vykonávanie pokynov na účely identifikácie a nápravy nedostatkov. Politika vykonávania pokynov sa musí aktualizovať aspoň raz ročne a vždy pri podstatných zmenách, ktoré majú vplyv na schopnosť doplnkovej dôchodkovej spoločnosti získať najlepší možný výsledok pre účastníkov a poberateľov dávok ňou spravovaného doplnkového dôchodkového fondu.
+
+- (6)
+
+- Doplnková dôchodková spoločnosť je povinná sprístupniť účastníkom a poberateľom dávok informácie o svojich politikách vykonávania pokynov a o ich podstatných zmenách.
+
+- (7)
+
+- Doplnková dôchodková spoločnosť je povinná preukázať, že vykonala pokyny v súvislosti so správou doplnkového dôchodkového fondu v súlade so svojou politikou vykonávania pokynov.
+
+- § 34b
+
+- Zadávanie pokynov na nakladanie s majetkom v doplnkovom dôchodkovom fonde na vykonanie iným osobám
+
+- (1)
+
+- Doplnková dôchodková spoločnosť je povinná konať v najlepšom záujme účastníkov a poberateľov dávok aj vtedy, ak zadáva pokyny na nakladanie s majetkom v doplnkovom dôchodkovom fonde v súvislosti so správou doplnkového dôchodkového fondu na vykonanie iným osobám.
+
+- (2)
+
+- Doplnková dôchodková spoločnosť je podľa odseku 1 povinná prijať také opatrenia, aby získala najlepší možný výsledok pre účastníkov a poberateľov dávok pri zohľadnení okolností podľa § 34a ods. 2. Dôležitosť týchto okolností sa určuje podľa § 34a ods. 3.
+
+- (3)
+
+- Doplnková dôchodková spoločnosť je povinná zaviesť a dodržiavať politiku, ktorá jej umožní splnenie povinnosti podľa odseku 2. Táto politika musí určiť pre každý druh finančného nástroja osoby, ktorým môže doplnková dôchodková spoločnosť zadať pokyny. Doplnková dôchodková spoločnosť môže uzavrieť s inými osobami dohody o vykonaní pokynu, len ak tieto dohody umožnia doplnkovej dôchodkovej spoločnosti dodržať povinnosti podľa tohto zákona pri zadávaní pokynov na nakladanie s majetkom v doplnkovom dôchodkovom fonde na vykonanie iným osobám. Doplnková dôchodková spoločnosť môže uzavrieť dohody o vykonaní pokynu inou osobou, len ak táto osoba má zavedenú politiku vykonávania pokynov minimálne na úrovni požiadaviek podľa § 34a.
+
+- (4)
+
+- Doplnková dôchodková spoločnosť je povinná sprístupniť účastníkom a poberateľom dávok informácie o politike pri zadávaní pokynov na vykonanie inej osobe a informácie o podstatných zmenách v tejto politike.
+
+- (5)
+
+- Doplnková dôchodková spoločnosť je povinná sledovať účinnosť politiky zadávania pokynov na vykonanie iným osobám, najmä kvalitu vykonávania pokynov zo strany osôb, ktoré sú uvedené v tejto politike, na účely identifikácie a nápravy nedostatkov. Politika zadávania pokynov na vykonanie iným osobám sa musí aktualizovať aspoň raz ročne a vždy pri podstatných zmenách, ktoré majú vplyv na schopnosť doplnkovej dôchodkovej spoločnosti dosahovať najlepší možný výsledok pre účastníkov a poberateľov dávok v súvislosti so správou doplnkového dôchodkového fondu.
+
+- (6)
+
+- Doplnková dôchodková spoločnosť je povinná preukázať, že zadávala pokyny na nakladanie s majetkom v doplnkovom dôchodkovom fonde v súvislosti so správou doplnkového dôchodkového fondu na vykonanie iným osobám v súlade s odsekom 3.
+
+- § 34c
+
+- Spojenie a alokácia pokynov
+
+- (1)
+
+- Doplnková dôchodková spoločnosť môže spájať pokyny súvisiace so správou doplnkového dôchodkového fondu s pokynmi súvisiacimi so správou iných ňou spravovaných doplnkových dôchodkových fondov a s pokynmi obchodov na vlastný účet doplnkovej dôchodkovej spoločnosti, len ak
+
+- a)
+
+- nie je pravdepodobné, že spojenie pokynov a obchodov bude celkovo nevýhodné pre niektorý doplnkový dôchodkový fond, ktorého pokyny majú byť spojené,
+
+- b)
+
+- má zavedenú a účinne dodržiava politiku alokácie pokynov, ktorá zabezpečuje spravodlivú alokáciu spojených pokynov a obchodov za dostatočne presných podmienok, najmä ako objem a cena určujú alokáciu a podmienky zaobchádzania s čiastočne vykonanými pokynmi.
+
+- (2)
+
+- Ak doplnková dôchodková spoločnosť spája pokyn súvisiaci so správou doplnkového dôchodkového fondu s jedným alebo viacerými pokynmi súvisiacimi so správou iných doplnkových dôchodkových fondov a spojený pokyn bol čiastočne vykonaný, je povinná alokovať súvisiace obchody v súlade so svojou politikou alokácie pokynov.
+
+- (3)
+
+- Doplnková dôchodková spoločnosť, ktorá spojila obchody na vlastný účet s jedným pokynom alebo viacerými pokynmi súvisiacimi so správou doplnkových dôchodkových fondov, nesmie alokovať súvisiace obchody spôsobom, ktorý poškodzuje doplnkový dôchodkový fond.
+
+- (4)
+
+- Ak doplnková dôchodková spoločnosť spája pokyn súvisiaci so správou doplnkových dôchodkových fondov s obchodom na vlastný účet a spojený pokyn bol čiastočne vykonaný, je povinná alokovať súvisiace obchody prednostne doplnkovému dôchodkovému fondu. Ak doplnková dôchodková spoločnosť preukáže, že bez tohto spojenia by pokyn nemohla vykonať za tak výhodných podmienok alebo vôbec, môže alokovať obchod na vlastný účet proporcionálne v súlade so svojou politikou alokácie pokynov.
+
+- § 34d
+
+- Stimuly
+
+- (1)
+
+- Za konanie doplnkovej dôchodkovej spoločnosti, ktoré je v rozpore s jej povinnosťou konať podľa § 34 ods. 2, sa považuje aj to, ak doplnková dôchodková spoločnosť alebo príslušná osoba v súvislosti s riadením investícií alebo administráciou pri správe doplnkového dôchodkového fondu hradí alebo prijíma poplatok alebo províziu, alebo poskytuje, alebo prijíma nepeňažné plnenie okrem
+
+- a)
+
+- poplatku, provízie alebo nepeňažného plnenia hradeného z majetku v doplnkovom dôchodkovom fonde alebo poskytnutých v prospech majetku v doplnkovom dôchodkovom fonde alebo poplatku, provízie alebo nepeňažného plnenia hradeného inou osobou alebo poskytnutých inej osobe konajúcej na účet doplnkového dôchodkového fondu,
+
+- b)
+
+- poplatku, provízie alebo nepeňažného plnenia hradeného inou osobou alebo poskytnutého inej osobe alebo poplatku, provízie alebo nepeňažného plnenia hradeného osobou alebo poskytnutého osobe konajúcej v mene tejto inej osoby, ak sú splnené tieto podmienky:
+
+- 1.
+
+- pred poskytnutím príslušnej služby musí doplnková dôchodková spoločnosť v štatúte príslušného doplnkového dôchodkového fondu jednoznačne, podrobne, presne a zrozumiteľným spôsobom uviesť informáciu o existencii, povahe a výške poplatku, provízie alebo nepeňažného plnenia alebo, ak ich výšku nemožno zistiť, o metóde jej výpočtu,
+
+- 2.
+
+- uhradenie poplatku, provízie alebo poskytnutie nepeňažného plnenia musí zvýšiť kvalitu príslušnej služby vo vzťahu, ku ktorej sa poplatok hradí, alebo vo vzťahu, ku ktorej sa nepeňažné plnenie poskytuje, a nesmie brániť plneniu povinnosti doplnkovej dôchodkovej spoločnosti konať v záujme účastníkov a poberateľov dávok,
+
+- c)
+
+- primeraného poplatku, ktorý umožní alebo je potrebný na poskytnutie príslušných služieb, najmä poplatok za úschovu, poplatok za vyrovnanie obchodu, poplatok organizátorom regulovaného trhu, poplatok orgánu dohľadu, správny poplatok alebo súdny poplatok a ktorý svojím charakterom nemôže viesť k rozporu s povinnosťami doplnkovej dôchodkovej spoločnosti konať podľa § 34 ods. 2.
+
+- (2)
+
+- Doplnková dôchodková spoločnosť je oprávnená na účely odseku 1 písm. b) prvého bodu poskytnúť účastníkovi alebo poberateľovi dávky hlavné podmienky dohody týkajúcej sa poplatkov, provízie alebo nepeňažného plnenia v súhrnnej forme, ak súčasne umožní účastníkovi alebo poberateľovi dávky získať podrobnejšie informácie na základe jeho žiadosti; táto povinnosť sa považuje za splnenú aj uvedením v štatúte príslušného doplnkového dôchodkového fondu. Národná banka Slovenska je oprávnená rozhodnutím pozastaviť alebo zrušiť toto oprávnenie poskytnúť hlavné podmienky dohody v súhrnnej forme, ak zistí, že doplnková dôchodková spoločnosť nevyhovela žiadosti účastníka alebo poberateľa dávky o získanie podrobnejšej informácie podľa predchádzajúcej vety.“.
 
 - 105. V § 35 ods. 1 písm. b) sa za slová „majetku v“ vkladá slovo „príspevkovom“.
 
