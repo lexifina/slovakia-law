@@ -30,6 +30,8 @@
 
 - n) pôsobenia centier odborného vzdelávania a prípravy podľa osobitného predpisu.<sup>22ea</sup>)
 
+- o) prevencie kriminality a inej protispoločenskej činnosti.
+
 (2) Žiadosť zriaďovateľa obsahuje najmä
 
 - a) cieľ projektu,
