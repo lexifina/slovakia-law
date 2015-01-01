@@ -460,8 +460,6 @@
 
 - 39ob) § 9 ods. 1 zákona č. 409/2011 Z. z.
 
-- 39oc) § 17 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 39p) § 7 zákona č. 258/2011 Z. z.
 
 - 39q) § 10 ods. 2 zákona č. 258/2011 Z. z.

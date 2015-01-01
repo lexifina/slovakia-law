@@ -182,6 +182,16 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - p) iná zmena údajov zapísaných v zozname správcov ..... | 10 eur
 
+  - q) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory zriaďovateľovi stáleho rozhodcovského súdu | 3 000 eur
+
+  - r) Konanie o udelenie povolenia rozhodovať spotrebiteľské spory rozhodcovi | 500 eur
+
+  - s) Vykonanie skúšky odbornej spôsobilosti rozhodcu podľa osobitného predpisu | 300 eur
+
+  - t) Výpis zo zoznamu rozhodcov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
+
+  - u) Výpis zo zoznamu stálych rozhodcovských súdov oprávnených rozhodovať spotrebiteľské spory, za každú stranu | 1,50 eura
+
   - Poznámka Poplatok podľa písmena c) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. Ročný poplatok správcu je splatný do 90 dní od uplynutia roka, za ktorý sa poplatok vyberá. Správca-fyzická osoba nemá povinnosť platiť ročný poplatok správcu, ak je spoločníkom správcu-právnickej osoby. Ročný poplatok správcu sa nevyberá za obdobie, počas ktorého má správca pozastavený výkon správcovskej činnosti. |
 
   - Oslobodenie Od poplatku podľa písmena d) tejto položky sú oslobodené gymnázia, stredné odborné školy, konzervatóriá, školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami, základné umelecké školy, jazykové školy, ktoré žiadajú o akreditáciu vzdelávacieho programu ďalšieho vzdelávania zodpovedajúcu študijným odborom alebo učebným odborom, ktoré sú uvedené pre príslušnú školu v sieti,<sup>20</sup>) a vysoká škola, ktorá žiada o akreditáciu vzdelávacieho programu ďalšieho vzdelávania v rozsahu platnej akreditácie vysokoškolských študijných programov.<sup>21</sup>) |
@@ -3954,10 +3964,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Žiadosť o povolenie zabezpečenia úloh záchrannej služby náhradným spôsobom<sup>39g</sup>) ........... | 20 eur
 
-    - Položka 171k
-
-  - Podanie žiadosti o vydanie alebo zmenu oprávnenia na overovanie správ podľa zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.............................................................................. | 193 eur
-
     - Položka 171l
 
   - a) Podanie žiadosti o zapísanie do zoznamu odborne spôsobilých osôb na posudzovanie vplyvov na životné prostredie<sup>39l</sup>) | 109 eur
@@ -3981,10 +3987,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - a) | Podanie žiadosti o schválenie návrhu plánu prác na odstránenie environmentálnej záťaže, schválenie zmeny plánu prác na odstránenie environmentálnej záťaže, alebo schválenie aktualizácie plánu prác na odstránenie environmentálnej záťaže<sup>39oa</sup>) ..... | 33 eur
 
   - b) | Podanie žiadosti o ukončenie realizácie plánu prác na odstránenie environmentálnej záťaže<sup>39ob</sup>) ........ | 33 eur
-
-    - Položka 171q
-
-  - Vydanie alebo zmena oprávnenia na výpočet pridelenia kvót<sup>39oc</sup>) ................ | 193 eur
 
   - XI. ČASŤ BANSKÁ ČINNOSŤ, VÝBUŠNINY, VÝBUŠNÉ PREDMETY A MUNÍCIA
 
