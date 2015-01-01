@@ -1,6 +1,6 @@
 # § 200ba Osobitné ustanovenia pre elektronické podanie námietok proti odmietnutiu vykonania zápisu
 
-(1) Námietky proti odmietnutiu vykonania zápisu možno podať elektronickými prostriedkami. Námietky musia byť podané v elektronickej podobe tlačiva, ktorá sa pre elektronické podanie zverejní na internetovej stránke ústredného portálu verejnej správy,<sup>25a</sup>) a podpísané zaručeným elektronickým podpisom navrhovateľa, inak na ne registrový súd neprihliada.
+(1) Námietky proti odmietnutiu vykonania zápisu možno podať elektronickými prostriedkami. Námietky musia byť podané v elektronickej podobe tlačiva, ktorá sa pre elektronické podanie zverejní na webovom sídle ústredného portálu verejnej správy a špecializovaného portálu, a podpísané zaručeným elektronickým podpisom navrhovateľa, inak na ne registrový súd neprihliada.
 
 (2) Ak boli námietky podané v listinnej podobe a ich súčasťou je podanie nového návrhu na zápis alebo iných listín, tento návrh a listiny musia mať listinnú podobu. Ak boli námietky podané elektronickými prostriedkami, prikladané listiny možno podať v listinnej podobe alebo elektronickými prostriedkami v elektronickej podobe. Pri podávaní listín sa primerane použijú ustanovenia osobitného predpisu.<sup>25b</sup>) Listinná podoba prikladaných listín prevádzaná do elektronickej podoby na účely jej podania v elektronickej podobe musí mať formu ustanovenú osobitným zákonom. Elektronická podoba listiny, ktorá bola vytvorená prevedením z listinnej podoby, sa podpisuje zaručeným elektronickým podpisom osoby oprávnenej na podanie návrhu.
 

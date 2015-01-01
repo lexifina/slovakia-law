@@ -30,6 +30,10 @@
 
 - 10a) Napríklad Obchodný zákonník, zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov, zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 10b) § 25 zákona č. 250/2007 Z. z. v znení neskorších predpisov.
+
+- 10c) § 21 ods. 4 zákona č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov.".
+
 - 11) § 108 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
 - 12) Čl. 234 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24.12. 2002).
@@ -79,8 +83,6 @@
 - 24) § 102 ods. 1 zákona č. 36/2005 Z. z.
 
 - 24a) § 73k zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
-
-- 25) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 25a) § 2 písm. h) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
 
