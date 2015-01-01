@@ -12,6 +12,8 @@
 
 - 3b) § 31 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
+- 3c) § 11 a 12 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
 - 4) § 2 ods. 2 Obchodného zákonníka.
 
 - 6) § 52, § 223 až 228 Zákonníka práce.
@@ -42,13 +44,17 @@
 
 - Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
 
+- § 10 zákona č. 319/2013 Z. z. o pôsobnosti orgánov štátnej správy pre sprístupňovanie biocídnych výrobkov na trh a ich používanie a o zmene a doplnení niektorých zákonov (biocídny zákon).
+
+- 15aaa) § 7 a 13 zákona č. 307/2014 Z. z.
+
 - 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 16a) § 16 ods. 1 písm. a) prvý bod zákona č. 124/2006 Z. z. v znení zákona č. 154/2013 Z. z.
 
 - 17) § 11 ods. 4 a 5 Zákonníka práce.
 
-- 17a) § 37 zákona č. 462/2007 Z. z.
+- 17a) Napríklad § 37 zákona č. 462/2007 Z. z., § 14 a 15 zákona č. 307/2014 Z. z.
 
 - 17aa) § 15 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
@@ -67,6 +73,8 @@
 - 18ad) § 5a a 7c zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - § 5 až 7 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+
+- § 7 a 13 zákona č. 307/2014 Z. z.
 
 - 18ae) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
