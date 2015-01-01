@@ -170,13 +170,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 5 ods. 3 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
 
-- 69. | Činnosť environmentálneho overovateľa | osvedčenie o akreditácii environmentálneho overovateľa | Čl. 20, 21, 22 a 28 nariadenia Európskeho parlamentu a Rady (ES) č. 1221/2009 z 25. novembra 2009 o dobrovoľnej účasti organizácií v schéme Spoločenstva pre environmentálne manažérstvo a audit (EMAS), ktorým sa zrušuje nariadenie (ES) č. 761/2001 a rozhodnutia Komisie 2001/681/ES a 2006/193/ES (Ú. v. EÚ L 342, 22. 12. 2009). |
-
 - 71. | – kvalitatívne a kvantitatívne zisťovanie faktorov životného prostredia a pracovného prostredia na účely posudzovania ich možného vplyvu na zdravie – hodnotenie vplyvov na verejné zdravie – hodnotenie zdravotných rizík zo životného prostredia – odber vzoriek zo životného prostredia a z pracovného prostredia na účely kvalitatívneho a kvantitatívneho zisťovania faktorov životného prostredia a pracovného prostredia – prácu s dezinfekčnými prípravkami na profesionálne použitie a na prácu s prípravkami na reguláciu živočíšnych škodcov na profesionálne použitie | osvedčenie o odbornej spôsobilosti | § 15 ods. 1 písm. a) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. b) zákona č. 355/2007 Z. z. § 15 ods. 1 písm. f) zákona č. 355/2007 Z. z. § 15 ods. 3 písm. b) zákona č. 355/2007 Z. z. |
 
 - 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
-
-- 72. | Oprávnené overovanie správ o emisiách skleníkových plynov z prevádzky | osvedčenie o zápise do registra oprávnených overovateľov | § 15 ods. 4 zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
 - 73. | Havarijný technik alebo Špecialista na prevenciu závažných priemyselných havárií | – osvedčenie o odbornej spôsobilosti havarijného technika alebo – osvedčenie o odbornej spôsobilosti špecialistu na prevenciu závažných priemyselných havárií | § 12 ods. 6 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 

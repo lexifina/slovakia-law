@@ -240,7 +240,9 @@
 
 - 38) Druhá časť a tretia časť zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
-- 39) § 2 písm. a) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
+- 39) § 2 písm. a) zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov, § 23c ods. 5 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 39a) § 23c zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 40) § 118 Trestného zákona.
 
