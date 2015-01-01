@@ -22,17 +22,25 @@
 
 - 9a) § 3 ods. 2 a 3 zákona č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
 
+- 9aa) § 18 ods. 6 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 399/2014 Z. z.
+
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
 
 - 11a) § 2 písm. d) zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
 
+- 11aa) § 18 ods. 6 písm. c) zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
+
 - 11b) § 14 ods. 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
 
 - 11c) § 35 ods. 4 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
 - 11d) § 28 ods. 2 zákona č. 326/2005 Z. z. o lesoch.
+
+- 11e) § 29 ods. 4 a 5 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 11f) Vykonávacie rozhodnutie Komisie (EÚ) č. 2011/877/EÚ z 19. decembra 2011, ktorým sa ustanovujú harmonizované referenčné hodnoty účinnosti samostatnej výroby elektriny a tepla pri uplatňovaní smernice Európskeho parlamentu a Rady 2004/8/ES a ktorým sa zrušuje rozhodnutie Komisie 2007/74/ES (Ú. v. EÚ L 343, 23. 12. 2011).
 
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
@@ -41,6 +49,20 @@
 - 12b) § 8 ods. 2 a § 12 ods. 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z.
 
 - 12c) § 10 ods. 10 zákona č. 414/2012 Z. z.
+
+- 12d) Príloha č. 1 tabuľky A a B zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
+
+- 12e) § 8a ods. 4 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
+
+- 12f) § 18 ods. 6 písm. a) a b) zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
+
+- 12g) § 8a ods. 5 zákona č. 523/2004 Z. z.
+
+- 12h) § 26 ods. 4 a 5 zákona č. 414/2012 Z. z.
+
+- 12i) § 26 odsek 4 zákona č. 414/2012 Z. z.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
