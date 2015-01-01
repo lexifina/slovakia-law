@@ -76,6 +76,10 @@
 
 - 29) Napríklad nariadenie Rady (ES) č. 485/2008 z 26. mája 2008 o kontrole opatrení tvoriacich súčasť systému financovania Európskeho poľnohospodárskeho záručného fondu, vykonávaných členskými štátmi (kodifikované znenie) (Ú. v. EÚ L 143, 3. 6. 2008), nariadenie Komisie (ES) č. 1276/2008 zo 17. decembra 2008 o monitorovaní vývozu poľnohospodárskych výrobkov, na ktoré sa poskytujú náhrady alebo iné sumy, prostredníctvom fyzických kontrol (Ú. v. EÚ L 339, 18. 12. 2008) v platnom znení, § 5 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
+- 29a) § 4b zákona č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení zákona č. 333/2014 Z. z.
+
+- 29b) § 17a zákona č. 289/2008 Z. z. v znení zákona č. 333/2014 Z. z.
+
 - 30) Napríklad Dohovor vypracovaný na základe článku K.3 Zmluvy o Európskej únii o vzájomnej pomoci a spolupráci medzi colnými správami (podpísaný v Bruseli 18. 12. 1997).
 
 - 30a) Rozhodnutie Rady 2009/917/SVV z 30. novembra 2009 o využívaní informačných technológií na colné účely (Ú. v. EÚ, L 323, 10. 12. 2009).
@@ -171,6 +175,8 @@
 - 54) § 5 ods. 1 zákona č. 610/2003 Z. z.
 
 - 54a) § 8 zákona č. 428/2002 Z. z.
+
+- 54b) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 55) § 3 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 628/2005 Z. z.
 
