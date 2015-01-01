@@ -186,6 +186,8 @@
 
 - 50) § 22 a 23 zákona č. 576/2004 Z. z.
 
+- 50a) Zákon č. 289/2008 Z. z. o používaní elektronickej registračnej pokladnice a o zmene a doplnení zákona Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov v znení neskorších predpisov.
+
 - 51) § 6 ods. 7 zákona č. 355/2007 Z. z.
 
 - 52) § 39 ods. 6 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
