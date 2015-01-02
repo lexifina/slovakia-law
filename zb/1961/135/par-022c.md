@@ -24,11 +24,13 @@
 
 - f) neodstráni v termíne určenom cestným správnym orgánom pevnú prekážku na diaľnici, ceste alebo na miestnej komunikácii alebo nesplní podmienky udelenej výnimky,
 
-- g) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy,
+- g) umiestni v rozhľadovom poli vodiča na križovatke skládky materiálov, reklamné stavby alebo iné zariadenie, ktoré neslúži na správu pozemnej komunikácie, na riadenie cestnej premávky ani na prevádzku dopravy, ktoré bránia v rozhľade vodičovi,
 
-- h) ako vodič sa odmietne podrobiť pokynom fyzickej osoby obsluhujúcej zariadenie na meranie hmotnosti, nápravových tlakov a rozmerov vozidla alebo odmietne uviesť východiskové miesto a miesto určenia uskutočňovanej prepravy.
+- h) ako vodič sa odmietne podrobiť pokynom fyzickej osoby obsluhujúcej zariadenie na meranie hmotnosti, nápravových tlakov a rozmerov vozidla alebo odmietne uviesť východiskové miesto a miesto určenia uskutočňovanej prepravy,
 
-(2) Za priestupok podľa odseku 1 písm. a) až f) a písm. g) možno uložiť pokutu do 330 eur.
+- i) umiestni reklamnú stavbu v rozpore s § 10 ods. 3 až 5.
+
+(2) Za priestupok podľa odseku 1 písm. a) až f) a písm. g) a i) možno uložiť pokutu do 330 eur.
 
 (3) Za priestupok podľa odseku 1 písm. h) možno uložiť pokutu do 660 eur.
 

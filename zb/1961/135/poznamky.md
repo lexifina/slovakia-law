@@ -84,7 +84,7 @@
 
 - 2s) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
-- 3) § 71 ods. 1 zákona č. 50/1976 Zb.
+- 3) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
