@@ -26,7 +26,7 @@
 
 (6) Vlastníci a správcovia pozemných komunikácií sú povinní pozemné komunikácie udržiavať v stave zodpovedajúcom účelu, na ktorý sú určené.
 
-(7) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme len na určitý čas, najviac na 30 rokov. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok a iné zariadenia (napr. reklamné, informačné a propagačné zariadenia alebo telekomunikačné zariadenia).
+(7) Súčasti diaľnic a ciest vo vlastníctve štátu sa môžu prenechať v nájme len na určitý čas, najviac na 30 rokov. Na prenajatých súčastiach diaľnic a ciest možno zriadiť a prevádzkovať stavby slúžiace užívateľom diaľnic a ciest, najmä motoresty, motely, čerpacie stanice pohonných látok, reklamné stavby a iné zariadenia.
 
 (8) Správcovia diaľnic, ciest a miestnych komunikácií vedú o týchto pozemných komunikáciách technickú evidenciu.
 

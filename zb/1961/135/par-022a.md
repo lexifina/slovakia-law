@@ -34,4 +34,6 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33
 
 - h) nedodrží podmienky uvedené v povolení na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pre nadmernú a nadrozmernú prepravu,
 
-- ch) umiestni reklamné, informačné a propagačné zariadenia na diaľniciach, cestách pre motorové vozidlá a medzinárodných cestných ťahoch a v ich ochranných pásmach (okrem odpočívadiel) alebo umiestni na križovatke a v rozhľadovom poli vodiča na križovatke transparenty, skládky materiálov alebo reklamné, informačné a propagačné zariadenia, ako aj iné zariadenia, ktoré neslúžia pre správu pozemných komunikácií ani pre riadenie cestnej premávky a prevádzku dopravy.
+- ch) umiestni v rozhľadovom poli vodiča na križovatke skládky materiálov, reklamné stavby alebo iné zariadenie, ktoré neslúži na správu pozemnej komunikácie, na riadenie cestnej premávky ani na prevádzku dopravy, ktoré bránia v rozhľade vodičovi,
+
+- i) umiestni reklamnú stavbu v rozpore s § 10 ods. 3 až 5.
