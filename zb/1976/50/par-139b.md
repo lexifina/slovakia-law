@@ -10,7 +10,9 @@
 
 - d) oporné múry,
 
-- e) podzemné stavby, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup> a hĺbka 6 m.
+- e) podzemné stavby, ak ich zastavaná plocha nepresahuje 300 m<sup>2</sup> a hĺbka 6 m,
+
+- f) reklamné stavby, na ktorých najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup>.
 
 (2) Stavby uvedené v odseku 1 písm. c) a e) sa považujú za jednoduché stavby iba vtedy, ak z hľadiska požiarnej bezpečnosti je pre ich užívanie počet osôb určený podľa technickej normy, najviac však 30 osôb.
 
@@ -40,7 +42,9 @@
 
 - c) prípojky stavieb a pozemkov na verejné rozvodné siete a kanalizáciu všetkých stavieb a pozemkov a pripojenie drobných stavieb a pozemkov na rozvodné siete a kanalizáciu hlavnej stavby,
 
-- d) nástupné ostrovčeky hromadnej verejnej dopravy, priechody cez chodníky a na susedné pozemky, priepusty a pod.
+- d) nástupné ostrovčeky hromadnej verejnej dopravy, priechody cez chodníky a na susedné pozemky, priepusty a pod,
+
+- e) reklamné stavby, na ktorých najväčšia informačná plocha je menšia ako 3 m<sup>2</sup>.
 
 (8) Za drobné stavby sa nepovažujú stavby skladov horľavín a výbušnín, stavby pre civilnú ochranu, stavby pre požiarnu ochranu, stavby uránového priemyslu a jadrových zariadení, vodné stavby, stavby čerpacích staníc kvapalných palív, skvapalnených plynov alebo stlačených plynov pre pohon motorových vozidiel, stavby prečerpávacích staníc horľavých kvapalín, horľavých plynov a stavby plniarní tlakových nádob horľavým plynom alebo horenie podporujúcim plynom.
 

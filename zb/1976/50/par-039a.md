@@ -22,7 +22,7 @@
 
 - d) stavby umiestňované v uzavretých priestoroch existujúcich stavieb, ak sa nemení vonkajšie pôdorysné ohraničenie a výškové usporiadanie priestoru,
 
-- e) informačné zariadenia, reklamné zariadenia a propagačné zariadenia.
+- e) reklamné stavby.
 
 (4) Stavebný úrad spojí územné konanie o umiestnení stavby so stavebným konaním pri jednoduchej stavbe alebo jej prístavbe a nadstavbe, ak sú podmienky umiestnenia jednoznačné vzhľadom na pomery v území; pri ostatných stavbách tak urobí za predpokladu, že podmienky na ich umiestnenie vyplývajú z územného plánu zóny.
 
