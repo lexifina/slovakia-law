@@ -38,4 +38,6 @@
 
 - p) zábavné a oddychové parky, zoologické a botanické záhrady,
 
-- r) ostatné inžinierske stavby, napríklad skládky odpadu.
+- r) reklamné stavby,
+
+- s) ostatné inžinierske stavby, napríklad skládky odpadu.

@@ -140,6 +140,8 @@
 
 - 12ab) Čl. 4 ods. 4 Dohovoru o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie č. 43/2006 Z. z.).
 
+- 12ac) § 3 ods. 4 písm. j) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 305/2013 Z. z.
+
 - 12b) § 21 ods. 1 zákona č. 17/1992 Zb.
 
 - 12c) § 420 a nasl. Občianskeho zákonníka.
