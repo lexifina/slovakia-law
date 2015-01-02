@@ -1112,6 +1112,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - h) | na stavby dočasných objektov zariadení staveniska, ak sa vydáva samostatné stavebné povolenie na stavby ..... | | 50 eur
 
+  - i) | na reklamnú stavbu, na ktorej najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup> do 20 m<sup>2</sup> .......... | | 60 eur
+
+  - j) | na reklamnú stavbu, na ktorej najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ........... | | 150 eur
+
   - Oslobodenie 1. Od poplatku za vydanie stavebného povolenia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. 2. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 3. Od poplatku za vydanie stavebného povolenia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
 
   - Poznámky 1. Ak stavebné povolenie zahŕňa stavbu viacerých samostatných objektov, vyberie sa súhrnný poplatok za všetky samostatné objekty uvedené v stavebnom povolení okrem prípojok [písmená a) a b)]. 2. Hotelové a iné ubytovacie zariadenia sa posudzujú ako nebytová výstavba. 3. Garáže s viac ako dvoma miestami sa posudzujú ako samostatné stavby. 4. Podľa tejto položky spoplatňujú stavebné povolenia stavebné úrady, špeciálne stavebné úrady, vojenské a iné stavebné úrady podľa ustanovení § 117, 120 a 121 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov. | | |
@@ -1124,27 +1128,35 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | fyzickú osobu ..... | 30 eur
 
-  - b) | Ohlásenie jednoduchej stavby pre ..... | |
+  - b) | Žiadosť o zmenu doby trvania | |
+
+  - | 1. | reklamnej stavby, na ktorej najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup> do 20 m<sup>2</sup> ........... | 60 eur
+
+  - | 2. | reklamnej stavby, na ktorej najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ........... | 150 eur
+
+  - c) | Ohlásenie jednoduchej stavby pre ..... | |
 
   - | 1. | právnickú osobu ..... | 50 eur
 
   - | 2. | fyzickú osobu ..... | 20 eur
 
-  - c) | Ohlásenie drobnej stavby, stavebných úprav a udržiavacích prác pre | |
+  - d) | Ohlásenie reklamnej stavby, na ktorej najväčšia informačná plocha je menšia ako 3 m<sup>2</sup> ........... | | 30 eur
+
+  - e) | Ohlásenie drobnej stavby, stavebných úprav a udržiavacích prác pre | |
 
   - | 1. | právnickú osobu ..... | 30 eur
 
   - | 2. | fyzickú osobu ..... | 10 eur
 
-  - d) | Ohlásenie stavby elektronickej komunikačnej siete, jej prízemnej stavby a výmeny a doplnenia telekomunikačného zariadenia ..... | | 80 eur
+  - f) | Ohlásenie stavby elektronickej komunikačnej siete, jej prízemnej stavby a výmeny a doplnenia telekomunikačného zariadenia ..... | | 80 eur
 
-  - e) | Žiadosť o potvrdenie pasportu stavby, ak sa nezachovala pôvodná dokumentácia stavby ..... | | 10 eur
+  - g) | Žiadosť o potvrdenie pasportu stavby, ak sa nezachovala pôvodná dokumentácia stavby ..... | | 10 eur
 
-  - f) | Žiadosť o uložení opatrenia na susednom pozemku alebo stavbe ..... | | 30 eur
+  - h) | Žiadosť o uložení opatrenia na susednom pozemku alebo stavbe ..... | | 30 eur
 
-  - g) | Žiadosť o predĺženie termínu dokončenia stavby ..... | | 10 eur
+  - i) | Žiadosť o predĺženie termínu dokončenia stavby ..... | | 10 eur
 
-  - Oslobodenie Od poplatku sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. | | |
+  - Oslobodenie 1. Od poplatku sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. 2. Od poplatku podľa písmena d) tejto položky je oslobodené označenie prevádzky vyplývajúce zo zákona o živnostenskom podnikaní. | | |
 
     - Položka 61
 
@@ -1162,15 +1174,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | fyzickú osobu ..... | 20 eur
 
-  - | 3. | informačného, reklamného alebo propagačného zariadenia, ak je plocha |
-
-  - | | do 15 m<sup>2</sup>vrátane ..... | 60 eur
-
-  - | | od 15 m<sup>2</sup>do 40 m<sup>2</sup> vrátane ..... | 200 eur
-
-  - | | nad 40 m<sup>2 .....</sup> | 430 eur
-
-  - | 4. | terénnych úprav pre |
+  - | 3. | terénnych úprav pre |
 
   - | | právnickú osobu ..... | 100 eur
 
@@ -1180,7 +1184,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) | Žiadosť o zrušenie vyvlastňovacieho rozhodnutia ..... | | 20 eur
 
-  - Oslobodenie 1. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 2. Od poplatku podľa písmena a) tretieho bodu tejto položky je oslobodené označenie prevádzky vyplývajúce zo zákona o živnostenskom podnikaní. 3. Od poplatku podľa písmena b) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
+  - Oslobodenie 1. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 2. Od poplatku podľa písmena b) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
 
     - Položka 62a
 
@@ -1243,6 +1247,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - | nad 1 000 000 eur do 10 000 000 eur vrátane ..... | | 530 eur
 
   - | nad 10 000 000 eur ..... | | 660 eur
+
+  - h) | na reklamné stavby, na ktorých najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ........... | | 50 eur
 
   - Oslobodenie 1. Od poplatku za vydanie kolaudačného rozhodnutia na zmeny dokončených stavieb na bývanie sú oslobodení držitelia preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. 2. Oslobodenie od poplatku tu platí obdobne ako pri položke 59. 3. Od poplatku za vydanie kolaudačného rozhodnutia podľa písmena g) tejto položky je oslobodená Národná diaľničná spoločnosť, a. s. | | |
 
@@ -2052,7 +2058,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Povolenie výnimky zo zákazu činnosti v ochrannom pásme pozemnej komunikácie ..... | | 115 eur
 
-  - b) | Povolenie výnimky zo zákazu činnosti v ochrannom pásme pozemnej komunikácie na umiestnenie reklamného, informačného a propagačného zariadenia ..... | | 500 eur
+  - b) | Povolenie výnimky zo zákazu činnosti v ochrannom pásme pozemnej komunikácie na umiestnenie | |
+
+  - | 1. | reklamnej stavby, na ktorej najväčšia informačná plocha je menšia ako 3 m<sup>2</sup> ........... | 30 eur
+
+  - | 2. | reklamnej stavby, na ktorej najväčšia informačná plocha má veľkosť od 3 m<sup>2</sup> do 20 m<sup>2</sup> ........... | 60 eur
+
+  - | 3. | reklamnej stavby, na ktorej najväčšia informačná plocha je väčšia ako 20 m<sup>2</sup> ........... | 150 eur
 
   - c) | Povolenie na zriadenie zjazdu z pozemnej komunikácie na susedné nehnuteľnosti ..... | | 30 eur
 
@@ -2062,7 +2074,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | miestnou komunikáciou ..... | 75 eur
 
-  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa tejto položky zvýšiť až na päťnásobok, prípadne ho znížiť alebo odpustiť. | | |
+  - Splnomocnenie Správny orgán môže v odôvodnených prípadoch poplatok podľa písmena a), c) alebo d) tejto položky zvýšiť až na päťnásobok, prípadne ho znížiť alebo odpustiť. Správny orgán môže v odôvodnených prípadoch poplatok podľa písmena b) tejto položky zvýšiť až na dvojnásobok, prípadne ho znížiť alebo odpustiť. | | |
 
   - Poznámka Poznámka 1 k položke 84 tu platí obdobne. | | |
 
