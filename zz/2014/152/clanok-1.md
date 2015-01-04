@@ -52,6 +52,10 @@ Zákon č. 435/2000 Z. z. o námornej plavbe v znení zákona č. 581/2003 Z. z.
 
 - zabezpečuje dostupnosť najnovších zmien vnútroštátnych predpisov a medzinárodných predpisov týkajúcich sa bezpečnosti a ochrany morského životného prostredia na námorných lodiach oprávnených plávať pod štátnou vlajkou Slovenskej republiky v určenom pracovnom dorozumievacom jazyku,
 
+- w)
+
+- poskytuje Európskej komisii každoročne informácie podľa prílohy č. 2 zaznamenané do 31. decembra predchádzajúceho roka na účely štatistickej analýzy v elektronickej podobe umožňujúcej uchovávanie údajov na štatistické účely; na poskytovanie týchto informácií sa nevzťahuje osobitný predpis<sup>1be</sup>) a osobné údaje musia byť anonymizované,
+
 - x)
 
 - schvaľuje a uznáva knihu výcviku podľa medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.<sup>1bdb</sup>)“.
