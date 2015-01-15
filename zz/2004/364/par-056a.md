@@ -1,35 +1,37 @@
 # § 56a Odborná spôsobilosť
 
-(1) Odborná spôsobilosť je súhrn teoretických vedomostí a praktických schopností, ktoré musí spĺňať hlavný zamestnanec odborného technicko-bezpečnostného dohľadu štátnej organizácie, poverenej na výkon odborného technicko-bezpečnostného dohľadu (§ 56 ods. 5), alebo hlavný zamestnanec odborného technicko-bezpečnostného dohľadu vlastníka vodnej stavby a preukazuje sa osvedčením o odbornej spôsobilosti na výkon odborného technicko-bezpečnostného dohľadu (ďalej len „osvedčenie o odbornej spôsobilosti").
+(1) Odborná spôsobilosť je súhrn teoretických vedomostí a praktických schopností, ktoré musí spĺňať hlavný zamestnanec odborného technicko-bezpečnostného dohľadu štátnej organizácie poverenej na výkon odborného technicko-bezpečnostného dohľadu (§ 56 ods. 5), alebo hlavný zamestnanec odborného technicko-bezpečnostného dohľadu vlastníka vodnej stavby uvedenej v § 56 ods. 4, a preukazuje sa osvedčením o odbornej spôsobilosti na výkon odborného technicko-bezpečnostného dohľadu (ďalej len "osvedčenie o odbornej spôsobilosti"). Vydaním osvedčenia o odbornej spôsobilosti vzniká odborne spôsobilej osobe právo používať okrúhlu pečiatku so štátnym znakom.
 
-(2) Ministerstvo overuje odbornú spôsobilosť na výkon odborného technicko-bezpečnostného dohľadu odbornou skúškou pred skúšobnou komisiou zloženou z odborníkov z teórie a praxe a udeľuje osvedčenie o odbornej spôsobilosti. Odborné skúšky sa konajú spravidla raz za dva roky. Termíny a organizáciu odborných skúšok určí ministerstvo. Členov skúšobnej komisie vymenúva a odvoláva minister.
+(2) Ministerstvo overuje odbornú spôsobilosť na výkon odborného technicko-bezpečnostného dohľadu odbornou skúškou pred skúšobnou komisiou zloženou z odborníkov z teórie a praxe a udeľuje osvedčenie o odbornej spôsobilosti. Termín odbornej skúšky určuje ministerstvo. Členov skúšobnej komisie vymenúva a odvoláva minister životného prostredia Slovenskej republiky. Ministerstvo môže odbornú skúšku organizovať aj prostredníctvom štátnej organizácie, ktorá je poverená na výkon odborného technicko-bezpečnostného dohľadu.
 
-(3) Podmienky na udelenie osvedčenia o odbornej spôsobilosti sú:
+(3) Podmienky na udelenie osvedčenia o odbornej spôsobilosti sú
 
 - a) vzdelanie,
 
-- b) odborná prax v príslušnom vodohospodárskom odvetví,
+- b) odborná prax v príslušnom vodohospodárskom odvetví, ktorou je súhrn takých znalostí a skúseností získaných pri výkone predchádzajúcich pracovných činností, ktoré môže odborne spôsobilá osoba využiť pri výkone odborného technicko-bezpečnostného dohľadu (ďalej len "odborná prax"),
 
-- c) spôsobilosť na právne úkony,
+- c) spôsobilosť na právne úkony v plnom rozsahu,
 
 - d) bezúhonnosť,
 
 - e) úspešné vykonanie odbornej skúšky.
 
-(4) Splnenie požiadaviek podľa odseku 3 písm. a) a b) na výkon odborného technicko-bezpečnostného dohľadu nad vodnými stavbami I. a II. kategórie sa preukazuje dokladom o
+(4) Splnenie požiadaviek podľa odseku 3 písm. a) a b) na výkon odborného technicko-bezpečnostného dohľadu nad vodnými stavbami I. a II. kategórie sa preukazuje
 
-- a) skončení vysokoškolského vzdelania 1. stupňa v príslušnom technickom alebo prírodovednom odbore a o vykonaní sedemročnej odbornej praxe alebo
+- a) dokladom o nadobudnutí vysokoškolského vzdelania získaného štúdiom v bakalárskom študijnom programe zameranom najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb, vodné hospodárstvo alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia akreditovanom podľa osobitného predpisu<sup>61a</sup>) a dokladom o získaní minimálne sedemročnej odbornej praxe alebo
 
-- b) skončení vysokoškolského vzdelania 2. stupňa v príslušnom technickom alebo prírodovednom odbore a o vykonaní päťročnej odbornej praxe.
+- b) dokladom o nadobudnutí vysokoškolského vzdelania získaného štúdiom v magisterskom alebo inžinierskom študijnom programe zameranom najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb, vodné hospodárstvo alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia akreditovanom podľa osobitného predpisu<sup>61a</sup>) a dokladom o získaní minimálne päťročnej odbornej praxe.
 
-(5) Splnenie požiadaviek podľa odseku 3 písm. a) a b) na výkon odborného technicko-bezpečnostného dohľadu nad vodnými stavbami III. a IV. kategórie sa preukazuje dokladom o
+(5) Splnenie požiadaviek podľa odseku 3 písm. a) a b) na výkon odborného technicko-bezpečnostného dohľadu nad vodnými stavbami III. a IV. kategórie sa preukazuje
 
-- a) skončení úplného stredného odborného vzdelania príslušného technického alebo prírodovedného zamerania a o vykonaní desaťročnej odbornej praxe,
+- a) dokladom o nadobudnutí úplného stredného odborného vzdelania získaného absolvovaním vzdelávacích programov zameraných najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb, vodné hospodárstvo alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia a dokladom o získaní minimálne desaťročnej odbornej praxe,
 
-- b) skončení úplného stredného vzdelania s pomaturitným štúdiom príslušného technického alebo prírodovedného zamerania a o vykonaní sedemročnej odbornej praxe,
+- b) dokladom o nadobudnutí vyššieho odborného vzdelania získaného absolvovaním vzdelávacieho programu akreditovaného podľa osobitného predpisu<sup>61b</sup>) v študijných odboroch zameraných najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb, vodné hospodárstvo alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia a dokladom o získaní minimálne sedemročnej odbornej praxe,
 
-- c) skončení vysokoškolského vzdelania 1. stupňa v príslušnom technickom alebo prírodovednom odbore a o vykonaní sedemročnej odbornej praxe, alebo
+- c) dokladom o nadobudnutí vysokoškolského vzdelania získaného štúdiom v bakalárskom študijnom programe zameranom najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb, vodné hospodárstvo alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia akreditovanom podľa osobitného predpisu<sup>61a</sup>) a dokladom o získaní minimálne sedemročnej odbornej praxe alebo
 
-- d) skončení vysokoškolského vzdelania 2. stupňa v príslušnom technickom alebo prírodovednom odbore a o vykonaní päťročnej odbornej praxe.
+- d) dokladom o nadobudnutí vysokoškolského vzdelania získaného štúdiom v magisterskom alebo inžinierskom študijnom programe zameranom najmä na projektovú prípravu, výstavbu a prevádzku vodných stavieb alebo na vzťah vodnej stavby k relevantným zložkám životného prostredia akreditovanom podľa osobitného predpisu<sup>61a</sup>) a dokladom o získaní minimálne päťročnej odbornej praxe.
 
-(6) Za bezúhonného sa považuje ten, kto nebol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie o odbornej spôsobilosti, za trestný čin všeobecného ohrozenia alebo trestný čin ohrozenia životného prostredia. Bezúhonnosť sa preukazuje výpisom z registra trestov, ktorý v deň podania žiadosti nie je starší ako tri mesiace.
+(6) Za doklad preukazujúci splnenie požiadavky vzdelania podľa odseku 3 písm. a) sa považuje aj doklad o odbornej kvalifikácii vydaný školou alebo iným oprávneným orgánom podľa právnych predpisov príslušného štátu, uznaný za podmienok uvedených v osobitnom predpise.<sup>61c</sup>)
+
+(7) Za bezúhonného sa považuje ten, kto nebol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie o odbornej spôsobilosti, za trestný čin všeobecného ohrozenia alebo trestný čin ohrozenia životného prostredia. Bezúhonnosť sa preukazuje výpisom z registra trestov, ktorý v deň podania žiadosti nie je starší ako tri mesiace.

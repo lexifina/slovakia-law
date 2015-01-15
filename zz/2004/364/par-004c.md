@@ -46,17 +46,17 @@
 
 (10) Dobrým chemickým stavom podzemných vôd je chemický stav útvaru podzemných vôd určený podľa kritérií ustanovených všeobecne záväzným právnym predpisom podľa § 81 ods. 1 písm. i).
 
-(11) Prahové hodnoty podzemných vôd sa musia určiť pre znečisťujúce látky, skupiny znečisťujúcich látok a ukazovatele znečistenia, ktoré boli identifikované ako faktor, ktorý prispieva k charakterizácii útvaru podzemných vôd alebo skupiny útvarov podzemných vôd ako útvarov, ktorým hrozí nedosiahnutie dobrého chemického stavu podzemnej vody, na základe minimálneho zoznamu uvedeného v prílohe č. 1b.
+(11) Prahové hodnoty podzemných vôd sa musia určiť v súlade s podmienkami podľa odseku 13 pre znečisťujúce látky, skupiny znečisťujúcich látok a ukazovatele znečistenia, ktoré boli identifikované ako faktor, ktorý prispieva k charakterizácii útvaru podzemných vôd alebo skupiny útvarov podzemných vôd ako útvarov, ktorým hrozí nedosiahnutie dobrého chemického stavu podzemnej vody, minimálne na základe Zoznamu znečisťujúcich látok alebo iónov a ich ukazovateľov uvedeného v prílohe č. 1b. Ak výsledky monitorovania v reprezentatívnych monitorovacích miestach prekročia prahové hodnoty, naznačí to riziko nesplnenia jednej z podmienok alebo viacero podmienok na dosiahnutie dobrého chemického stavu podzemných vôd ustanovenom vo všeobecne záväznom predpise vydanom podľa § 81 ods. 1 písm. i).
 
-(12) Prahové hodnoty pre klasifikáciu dobrého chemického stavu sú založené na ochrane útvarov podzemných vôd podľa odseku 13 pri zohľadnení ich vplyvu na súvisiace povrchové vody a od nich priamo závislé suchozemské ekosystémy a mokrade a vzájomné vzťahy s nimi a okrem iného zohľadnení toxikologických poznatkov a ekotoxikologických poznatkov.
+(12) Prahové hodnoty pre klasifikáciu dobrého chemického stavu sú založené na ochrane útvarov podzemných vôd podľa odseku 13, pričom sa musí vziať do úvahy najmä ich vplyv na súvisiace povrchové vody a od nich priamo závislé suchozemské ekosystémy a mokrade a vzájomné vzťahy s nimi a okrem iného zohľadnení toxikologických poznatkov a ekotoxikologických poznatkov.
 
-(13) Pri určení prahových hodnôt sa zohľadňujú tieto skutočnosti:
+(13) Pri určení prahových hodnôt sa musia vziať do úvahy tieto podmienky:
 
 - a) rozsah vzájomného pôsobenia medzi podzemnými vodami a s nimi spojenými vodnými a závislými suchozemskými ekosystémami,
 
 - b) zasahovanie do skutočného alebo potenciálneho oprávneného využívania alebo funkcií podzemných vôd,
 
-- c) každá znečisťujúca látka, ktorá charakterizuje útvar podzemných vôd ako rizikový, pričom sa berie do úvahy minimálny zoznam uvedený v prílohe č. 1b,
+- c) každá znečisťujúca látka, ktorá charakterizuje útvar podzemných vôd ako rizikový, pričom sa berie do úvahy minimálne Zoznamu znečisťujúcich látok alebo iónov a ich ukazovateľov uvedený v prílohe č. 1b,
 
 - d) hydrogeologická vlastnosť vrátane informácií o pozaďových úrovniach a o vodnej bilancii,
 
@@ -86,7 +86,7 @@
 
 (20) Trendy obsahu znečisťujúcich látok, ktoré predstavujú významné riziko poškodenia kvality vodných ekosystémov alebo suchozemských ekosystémov, ľudského zdravia alebo skutočného alebo potenciálneho využitia vodného prostredia, sa zvrátia prostredníctvom programu opatrení podľa § 15 s cieľom postupne znižovať znečisťovanie a zabrániť zhoršeniu kvality podzemných vôd. Stanovenie trendov koncentrácií znečisťujúcich látok v podzemných vodách a postupy na ich zvrátenie ustanoví všeobecne záväzný právny predpis podľa § 81 ods. 2 písm. m).
 
-(21) Počiatočný bod zvrátenia trendu sa definuje ako percentuálny podiel úrovne noriem kvality podzemných vôd uvedených v prílohe č. 1a a prahových hodnôt ustanovených všeobecne záväzným právnym predpisom podľa § 81 ods. 1 písm. k) na základe identifikovaného trendu a s ním spojeného rizika pre životné prostredie.
+(21) Počiatočný bod zvrátenia trendu sa definuje ako percentuálny podiel úrovne noriem kvality podzemných vôd uvedených v prílohe č. 1a a prahových hodnôt podľa odsekov 11 až 16 na základe identifikovaného trendu a s ním spojeného rizika pre životné prostredie podľa všeobecne záväzného predpisu vydaného podľa § 81 ods. 2 písm. m).
 
 (22) Spôsob, akým hodnotenie trendu z jednotlivých monitorovacích bodov v rámci útvaru alebo skupiny útvarov podzemných vôd prispelo k zisteniu, že tieto útvary podliehajú významnému a trvalo vzostupnému trendu obsahu akejkoľvek znečisťujúcej látky alebo došlo k zvráteniu tohto trendu, a tiež dôvody na určenie počiatočných bodov zvrátenia trendu sa zhrnú v plánoch manažmentu povodia.
 

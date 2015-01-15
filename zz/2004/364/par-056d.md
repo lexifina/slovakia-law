@@ -1,11 +1,17 @@
-# § 56d Preskúšanie
+# § 56d Povinnosti odborne spôsobilej osoby
 
-(1) Ministerstvo preskúša odborne spôsobilé osoby, ak
+Odborne spôsobilá osoba pri výkone odborného technicko-bezpečnostného dohľadu je povinná
 
-- a) sa pri výkone odborného technicko-bezpečnostného dohľadu dopustili závažných nedostatkov odbornej povahy,
+- a) overiť minimálne raz ročne správnosť realizovaných meraní a pozorovaní priamo na vodnej stavbe a na jej hlavných objektoch,
 
-- b) sa nezúčastnia školenia organizovaného ministerstvom každých päť rokov,
+- b) požiadať orgán štátnej vodnej správy o výkon štátneho vodoochranného dozoru a technicko-bezpečnostného dozoru pri zistení bezprostredného ohrozenia bezpečnosti vodnej stavby, ak vlastník vodnej stavby nezabezpečí realizáciu potrebných opatrení na nápravu,
 
-- c) päť rokov nevykonávali odborný technicko-bezpečnostný dohľad.
+- c) raz ročne poskytovať štátnej organizácii, ktorá je poverená na výkon odborného technicko-bezpečnostného dohľadu, informácie o vodných stavbách, nad ktorými zabezpečuje výkon odborného technicko-bezpečnostného dohľadu vrátane elektronickej kópie ním vypracovaných dokumentov dohľadu, ktoré štátna organizácia poverená výkonom odborného technicko-bezpečnostného dohľadu sprístupní v elektronickej forme orgánom štátnej vodnej správy,
 
-(2) Ustanovenie § 56a ods. 2 rovnako platí aj na preskúšanie.
+- d) poskytnúť odbornú súčinnosť pri výkone vodoochranného dozoru a technicko-bezpečnostného dozoru na požiadanie orgánov štátnej vodnej správy,
+
+- e) poskytnúť odbornú súčinnosť počas povodňovej aktivity,
+
+- f) informovať štátnu organizáciu poverenú výkonom odborného technicko-bezpečnostného dohľadu, ktorá na základe poverenia ministerstva vedie zoznam odborne spôsobilých osôb o zmene údajov podľa § 56c ods. 2,
+
+- g) zúčastniť sa aspoň jedenkrát ročne školenia podľa § 56b ods. 2 písm. c); zohľadňuje a uznáva sa aj školenie s rovnocenným obsahom, ktorý odborne spôsobilá osoba absolvuje v iných členských štátoch Európskej únie.
