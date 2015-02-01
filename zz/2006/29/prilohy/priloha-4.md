@@ -1,9 +1,5 @@
-Príloha č. 4 k vyhláške č. 29/2006 Z. z.
+Príloha č. 4 k vyhláške č. 29/2006 Z. z. VZOR TLAČIVA
 
-- VZOR TLAČIVA Potvrdenie o technickej kontrole na vydanie prepravného povolenia v slovenskom jazyku
+Potvrdenie o technickej kontrole na vydanie prepravného povolenia
 
-- [Príloha 04 SK](../assets/6016024b3c20cfb55c444cd464d4f014473dcde5c8725fa908121a03e82520fc.pdf)
-
-- Potvrdenie o technickej kontrole na vydanie prepravného povolenia v anglickom jazyku
-
-- [Príloha 04 EN](../assets/51c32ae86e1394e000ddd06081b04cb01df7f2a2b461d635b0cd8d21f72aa9df.pdf)
+[Potvrdenie o technickej kontrole na vydanie prepravného povolenia](../assets/230cdc797ca431773c3430afad33aa31d1534b598d207b60240dcf5a1d2981d4.pdf)

@@ -4,6 +4,8 @@
 
 - 3) § 52 ods. 4 zákona č. 725/2004 Z. z.
 
+- 3a) Európska dohoda o medzinárodnej cestnej preprave nebezpečných vecí (ADR) (vyhláška ministra zahraničných vecí č. 64/1987 Zb.) v platnom znení.
+
 - 4) § 52 ods. 5 zákona č. 725/2004 Z. z.
 
 - 5) § 52 ods. 7 zákona č. 725/2004 Z. z.

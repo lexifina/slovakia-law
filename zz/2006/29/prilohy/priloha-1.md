@@ -1,3 +1,3 @@
 Príloha č. 1 k vyhláške č. 29/2006 Z. z.
 
-- VZOR TLAČIVA Protokol o technickej kontrole vozidla [Vzor 01](../assets/f32528dc3f55e531cb8bb8eb02c5e926ad61d7a8defb76afdb5f48118698369f.pdf)
+- VZOR TLAČIVA Protokol o technickej kontrole vozidla [VZOR TLAČIVA Protokol o technickej kontrole vozidla](../assets/d1f55eeb750c312e09ce31dbd9ac0eebbd258986b04794d834d0abbfb1e82e3c.pdf)
