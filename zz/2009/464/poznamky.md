@@ -24,7 +24,9 @@
 
 - 12) Príloha č. 1 k nariadeniu vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá.
 
-- 13) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 30/2006 Z. z., ktorou sa ustanovujú podrobnosti o záchrannej zdravotnej službe.
+- 13) Výnos Ministerstva zdravotníctva Slovenskej republiky z 11. marca 2009 č. 10548/2009-OL, ktorým sa ustanovujú podrobnosti o záchrannej zdravotnej službe) (oznámenie č. 98/2009 Z. z.) v znení výnosu z 9. júla 2010 č. 14016/2010-OL (oznámenie č. 338/2010 Z. z.)
+
+- 13a) STN EN 1789+A1 Vozidlá záchrannej zdravotnej služby a ich vybavenie. Cestné ambulancie (Konsolidovaný text) (84 7080).
 
 - 14) § 8 ods. 3 písm. a) a § 10 ods. 1 a 2 zákona č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -50,6 +52,12 @@
 
 - 25) § 5 a 7 nariadenia vlády Slovenskej republiky č. 349/2009 Z. z.
 
+- 25a) Príloha V nariadenia Komisie (EÚ) č. 406/2010 z 26. apríla 2010, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 79/2009 o typovom schvaľovaní motorových vozidiel na vodíkový pohon. (Ú. v. EÚ L 122, 18. 5. 2010).
+
+- 25b) Nariadenie Európskeho parlamentu a Rady (ES) č. 1013/2006 zo 14. júna 2006 o preprave odpadu (Ú. v. EÚ L 190, 12. 7. 2006) v platnom znení.
+
+- 25c) STN 01 8020 Dopravné značky na pozemných komunikáciách (01 8020). STN EN 12899-1 Trvalé zvislé dopravné značky. Časť 1: Trvalé dopravné značky (73 7021).
+
 - 26) Bod 3.4 prílohy č. 2 k nariadeniu vlády Slovenskej republiky č. 387/2006 Z. z. o požiadavkách na zaistenie bezpečnostného a zdravotného označenia pri práci.
 
 - 27) Príloha č. 1 k nariadeniu vlády Slovenskej republiky č. 554/2006 Z. z. o povinnom používaní bezpečnostných pásov a detských zadržiavacích zariadení vo vozidlách určitých kategórii.
@@ -74,6 +82,10 @@
 
 - 37) § 8 zákona č.135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
 
+- 37a) § 34 zákona č. 8/2009 Z. z.
+
+- 37b) § 24 ods. 3 zákona č. 8/2009 Z. z.
+
 - 38) Nariadenie vlády Slovenskej republiky č. 383/2009 Z. z. o technických požiadavkách na rádiové odrušenie motorových vozidiel a ich prípojných vozidiel.
 
 - 39) § 40 zákona č. 8/2009 Z. z.
@@ -85,6 +97,10 @@
 - 42) Napríklad STN EN 13356 Výstražné doplnky na neprofesionálne použitie. Skúšobné metódy a požiadavky, STN EN 471 + A1 Výstražné odevy s vysokou viditeľnosťou na profesionálne použitie. Skúšobné metódy a požiadavky (Konsolidovaný text).
 
 - 42a) STN EN 15194 Bicykle. Bicykle na elektrický pohon. Bicykle EPAC.
+
+- 42aa) STN EN 15918+A1 Bicykle. Prívesy bicyklov. Bezpečnostné požiadavky a skúšobné metódy (Konsolidovaný text) (30 9053).
+
+- 42ab) STN EN 14344 Výrobky pre deti a na starostlivosť o deti. Detské sedačky na bicykle. Bezpečnostné požiadavky a skúšobné metódy (94 3009).
 
 - 43) STN EN 12184 Elektrické invalidné kreslá, skútre a ich nabíjačky. Požiadavky a skúšobné metódy.
 
