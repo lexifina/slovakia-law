@@ -1,3 +1,3 @@
-Príloha č. 3 k vyhláške č. 25/2014 Z. z.
+Príloha č. 3 k vyhláške č. 25/2014 Z.z.
 
-- SADZOBNÍK ÚHRAD ZA ČINNOSŤ OBSLUŽNÉHO MIESTA [príloha 03](../assets/47f17f06de28f06380ea9e7575dbef65297b5d40f79f54523df77bc88bae6e66.pdf)
+- SADZOBNÍK ÚHRAD ZA ČINNOSŤ OBSLUŽNÉHO MIESTA [SADZOBNÍK ÚHRAD ZA ČINNOSŤ OBSLUŽNÉHO MIESTA](../assets/7e62a14d66ef1d9da2f83d4a0d2f26b9c7d71ed1c3b193e0dbfc1ef7b65084e3.pdf)
