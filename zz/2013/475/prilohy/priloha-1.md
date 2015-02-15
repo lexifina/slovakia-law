@@ -1,4 +1,4 @@
-Príloha k vyhláške č. 475/2013 Z. z.
+Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 1. VYMEDZENÉ ÚSEKY DIAĽNIC A RÝCHLOSTNÝCH CIEST
 
@@ -178,7 +178,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - R01-023 | Hronská Breznica | I/50, II/525, III/525007 | Budča 1 | I/50, III/050092 | 0,671
 
-- R01-024 | Budča 1 | I/50, III/050092 | Ostrá Lúka-Budča | I/50, III/050085 | 1,545
+- R01-024 | Budča 1 | I/50, III/050092 | Ostrá Lúka-Budča | I/50, III/050085 | 0,545
 
 - R01-025 | Ostrá Lúka-Budča | I/50, III/050085 | Budča 2 | I/50, I/69, III/050149 | 1,931
 
@@ -198,7 +198,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - R01-032b | Žarnovica-Malé Podzámčie | I/65 | Lehôtka pod Brehmi | I/65 | 8,487
 
-- R01-033 | Lehôtka pod Brehmi | I/65 | Žiar nad Hronom-Šáš. Podhradie | I/50, I/65, III/050092 | 8,868
+- R01-033a | Lehôtka pod Brehmi | I/65 | Žiar nad Hronom-juh | R2, R1 | 3,934
+
+- R01-033b | Žiar nad Hronom-juh | R2, R1 | Žiar nad Hronom-Šáš. Podhradie | I/50, I/65, III/050092 | 4,934
 
 - R01-034 | Lehota | R1 | Nitra-Čermáň | R1, II/562 | 5,568
 
@@ -210,7 +212,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - R01-038 | Tesárske Mlyňany | R1, I/65 | Čaradice | R1, I/65, III/0761 | 9,902
 
-- R01-039 | Čaradice | R1, I/65, III/0761 | Tekovské Nemce | R1 | 4,080
+- R01-039 | Čaradice | R1, I/65, III/0761 | Tekovské Nemce | R1 | 1,080
 
 - Zoznam úsekov na rýchlostnej ceste R2 | | | | |
 
@@ -231,6 +233,8 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - R02-010 | Gemer | I/50, I/50B | | I/50, I/50B | 0,453
 
 - R02-011 | Košice-Šaca-východ | I/50, MK | Košice-západ | R2 | 8,459
+
+- R02-018 | Lovčica-Trubín | I/50, R2 | Žiar nad Hronom-juh | R1, R2 | 5,600
 
 - Zoznam úsekov na rýchlostnej ceste R3 | | | | |
 
@@ -447,6 +451,10 @@ Príloha k vyhláške č. 475/2013 Z. z.
 - 018-116 | Fričovce-východ | I/18 | | D/1, I/18 | 0,904
 
 - Zoznam úsekov na ceste I/50 | | | | |
+
+- 050-076 | Lovčica-Trubín 3 | I/50, III/050073 | Lutila | I/50, III/050074 | 2,794
+
+- 050-077 | Lutila | I/50, III/050074 | Žiar nad Hronom-západ | I/50 | 0,908
 
 - 050-080 | Ladomerská Vieska-sever | I/50 | | I/50, III/065028 | 1,139
 
@@ -1776,9 +1784,9 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-010a | Komjatná | I/59, III/070001 | | MK-a, I/59 | 0,441
 
-- 059-010b | | MK-a, I/59 | | MK-b, I/59 | 1,972
+- 059-010b | | MK-a, I/59 | | MK-b, I/59 | 1,591
 
-- 059-010c | | MK-b, I/59 | | MK-c, I/59 | 0,516
+- 059-010c | | MK-b, I/59 | | MK-c, I/59 | 0,728
 
 - 059-010d | | MK-c, I/59 | | MK-d, I/59 | 0,932
 
@@ -1788,7 +1796,7 @@ Príloha k vyhláške č. 475/2013 Z. z.
 
 - 059-013 | Vyšný Kubín-sever | I/59 | Dolný Kubín-juh | I/59 | 0,400
 
-- 059-A014 | Dolný Kubín-sever | I/59 | Dolný Kubín-Kňažia | I/59, III/059006 | 2,724
+- 059-A014 | Dolný Kubín-sever | I/59 | Dolný Kubín-Kňažia | I/59, III/059006 | 0,724
 
 - 059-016a | Dolný Kubín-Kňažia | I/59, III/059006 | | MK-a, I/59 | 1,968
 
