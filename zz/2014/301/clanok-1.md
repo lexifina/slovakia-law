@@ -2,9 +2,13 @@
 
 Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., zákona č. 584/2005 Z. z., zákona č. 310/2006 Z. z., zákona č. 209/2007 Z. z., zákona č. 555/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 449/2008 Z. z., zákona č. 186/2009 Z. z., zákona č. 557/2009 Z. z., zákona č. 520/2011 Z. z., zákona č. 318/2013 Z. z. a zákona č. 352/2013 Z. z. sa mení a dopĺňa takto:
 
-„(3)
+- 1. V § 19 ods. 1 sa slová "suma predčasného výberu" nahrádzajú slovom "suma" a za slovo "účastníkom" sa vkladajú slová "alebo ním určená časť tejto sumy".
 
-Prvýkrát môže byť predčasný výber vyplatený najskôr po uplynutí desiatich rokov odo dňa uzatvorenia prvej účastníckej zmluvy, na základe ktorej boli zaplatené príspevky, ktoré sú súčasťou majetku, z ktorého sa má predčasný výber vyplatiť. Ďalší predčasný výber môže byť vyplatený najskôr po uplynutí desiatich rokov odo dňa výplaty posledného predčasného výberu; plynutie lehoty desiatich rokov nekončí prestupom do inej doplnkovej dôchodkovej spoločnosti.“.
+- 2. V § 19 odsek 3 znie:
+
+- „(3)
+
+- Prvýkrát môže byť predčasný výber vyplatený najskôr po uplynutí desiatich rokov odo dňa uzatvorenia prvej účastníckej zmluvy, na základe ktorej boli zaplatené príspevky, ktoré sú súčasťou majetku, z ktorého sa má predčasný výber vyplatiť. Ďalší predčasný výber môže byť vyplatený najskôr po uplynutí desiatich rokov odo dňa výplaty posledného predčasného výberu; plynutie lehoty desiatich rokov nekončí prestupom do inej doplnkovej dôchodkovej spoločnosti.“.
 
 - 3. V § 53b ods. 3 sa za slová "20 %" vkladá slovo "čistej".
 
@@ -21,6 +25,8 @@ Prvýkrát môže byť predčasný výber vyplatený najskôr po uplynutí desia
 - „40b)
 
 - Čl. 3 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17.11.2009) v platnom znení.“.
+
+- 6. § 64 sa dopĺňa odsekom 5, ktorý znie:
 
 - „(5)
 
