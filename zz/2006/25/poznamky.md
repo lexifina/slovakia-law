@@ -24,7 +24,7 @@
 
 - 6ae) § 3 ods. 2 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
 
-- 6af) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
+- 6af) Rozhodnutie Rady z 1. decembra 2009, ktorým sa ustanovujú opatrenia na vykonávanie rozhodnutia Európskej rady o vykonávaní predsedníctva Rady a o predsedníctve prípravných orgánov Rady (2009/908/ EÚ) (Ú. v. EÚ L 322, 9. 12. 2009).
 
 - 6ag) § 5 zákona Slovenskej národnej rady č. 4/1958 Zb. o ľudovej umeleckej výrobe a umeleckých remeslách.
 
@@ -55,6 +55,8 @@
 - 9ab) § 2 ods. 2, 4 a 5 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
+
+- 9c) Čl. 3 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
 - 10) § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
