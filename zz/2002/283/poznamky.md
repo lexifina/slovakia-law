@@ -2,6 +2,10 @@
 
 - 1a) Napríklad § 536 až 576, § 642 až 651 Obchodného zákonníka, zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 631 až 656 Občianskeho zákonníka, § 39 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon).
 
+- 1aa) § 40 ods. 10 Zákonníka práce.
+
+- 1b) § 57 ods. 2 Zákonníka práce.
+
 - 2) Zákon č. 435/2000 Z. z. o námornej plavbe.
 
 - 3) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
@@ -9,6 +13,8 @@
 - § 3 až 8 zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
 - Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 3a) § 58 ods. 5 Zákonníka práce.
 
 - 4) § 115 Občianskeho zákonníka.
 
@@ -85,3 +91,5 @@
 - 21) § 13c zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 530/2004 Z. z.
 
 - § 9 ods. 6 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 530/2004 Z. z.
+
+- 22) Rozhodnutie Rady z 1. decembra 2009, ktorým sa ustanovujú opatrenia na vykonávanie rozhodnutia Európskej rady o vykonávaní predsedníctva Rady a o predsedníctve prípravných orgánov Rady (2009/908/EÚ) (Ú. v. EÚ L 322, 9. 12. 2009) v platnom znení.
