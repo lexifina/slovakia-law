@@ -168,10 +168,6 @@
 
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
-- 35b) § 58a zákona č. 311/2001 Z. z. v znení neskorších predpisov.
-
-- 35c) § 48 ods. 4 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
-
 - 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 36) Zákon č. 595/2003 Z. z. o dani z príjmov.
