@@ -602,6 +602,12 @@
 
 - 153) § 14 až 17 zákona č. 530/1990 Z. z. v znení neskorších predpisov.
 
+- 153a) § 123aq ods. 2 zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
+
+- 153b) § 123aq ods. 5 písm. b) a ods. 6 písm. b) a c) zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
+
+- 153c) § 33a ods. 4 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
+
 - 154) Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
