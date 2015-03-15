@@ -20,4 +20,6 @@
 
 - 11) Zákon č. 9/2010 Z. z. o sťažnostiach.
 
+- 11a) § 31 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
+
 - 11h) § 24 ods. 8 zákona č. 215/2002 Z. z. v znení neskorších predpisov.

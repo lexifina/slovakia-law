@@ -38,6 +38,12 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
 
   - 1.5.1 Používa sa v súlade s bodmi 1.2 a 9.1.
 
+  - 1.6 Predpisy, určujúce typ písma, obsahujú aj niektorý z generických fontov písma.
+
+  - 1.6.1 Definícia typu písma, ktorým je napríklad atribút "font-family“ v kaskádových štýloch CSS a podobne, obsahuje aj uvedenie generického fontu. V rámci výpočtu jednotlivých typov písma sa generický font uvádza na poslednom mieste.
+
+  - 1.6.2 Generickým fontom pre serifové (pätkové) písmo, ktorým je napríklad Times New Roman, je "serif“, pre bezserifové (bezpätkové) písmo, ktorými sú napríklad Arial alebo Verdana, je "sans-serif“ a pre neproporcionálne písmo, ktorým je napríklad Courier, je "monospace“.
+
   - Pravidlo 2. Nespoliehanie sa len na farbu.
 
   - Texty a grafika si zachovávajú zrozumiteľnosť, aj keď sa zobrazia bez použitia farby.
@@ -53,6 +59,14 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
   - Pravidlo 3. Používanie zvýrazňovania a štýlov a ich správne používanie.
 
   - Dokumenty sa zvýrazňujú pomocou vhodných štrukturálnych prvkov. Prezentácia sa ovláda najmä pomocou štýlov, ako pomocou prezentačných prvkov a atribútov.
+
+  - 3.1 Na prezentovanie informácií sa namiesto obrázkov uprednostňuje vhodný značkovací skript, ak existuje.
+
+  - 3.1.1 Na zvýraznenie matematických rovníc sa používa MathML.
+
+  - 3.1.2 Na formátovanie a rozloženie textu sa používajú štýly (style sheets), napríklad kaskádové štýly (CSS).
+
+  - 3.1.3 Je nevhodné používať obrázky ako náhrady textu, okrem prípadov, okrem prípadov, ak súvisia s dekoratívnym dizajnom alebo ak nie sú textom plne nahraditeľné, napríklad schémy a grafy; používa sa text a štýly.
 
   - 3.2 Dokumenty sa vytvárajú v súlade s oficiálnou formálnou úpravou a syntaxom príslušného kódu. Kód webových stránok zodpovedá niektorej zverejnenej finálnej špecifikácii jazyka HTML podľa World Wide Web Consortium (W3C) alebo XHTML podľa World Wide Web Consortium (W3C) a neobsahuje syntaktické chyby, ktoré je technický prevádzkovateľ alebo správca obsahu schopný odstrániť.
 
@@ -146,6 +160,12 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
 
   - 5.3.1 Ak agent používateľa podporuje nastavenie pomocou štýlov, tabuľky sa na vizuálne rozloženie nepoužívajú.
 
+  - 5.4 Ak je tabuľka použitá iba na vizuálne rozloženie obsahu, nepoužívajú sa žiadne štrukturálne označenia za účelom vizuálneho formátovania.
+
+  - 5.4.1 V HTML sa prvok ‹th› nepoužíva na to, aby bol obsah bunky zobrazený centrovane a napísaný tučným písmom a podobne.
+
+  - 5.4.2 Nedefinujú sa zbytočne prvky na označenie hlavičky, päty a podobne, v HTML sú to napríklad prvky ‹tfoot› a ‹caption›.
+
   - 5.5 Vo všetkých tabuľkách sa uvádzajú zhrnutia.
 
   - 5.5.1 V HTML sa v prvku ‹table› používa atribút "summary“.
@@ -190,6 +210,16 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
 
   - 7.2 Ak používateľom ich agent neumožňuje kontrolu blikania obsahu, zabráni sa tomu, aby obsah webovej stránky blikal. Prezentácia sa mení v pravidelných intervaloch, vypína sa, zapína sa a podobne.
 
+  - 7.3 Ak agent používateľa neumožňuje používateľom „zamraziť” multimediálny obsah, na webových stránkach sa vyhýba „pohybu” akými sú flashové animácie, automaticky prehrávaný zvuk a podobne.
+
+  - 7.3.1 Ak webová stránka obsahuje pohyblivý obsah, poskytuje sa v rámci skriptu alebo apletu mechanizmus, ktorý umožní používateľom „zamraziť” pohyb a aktualizácie.
+
+  - 7.3.2 Vytvorenie pohyblivých prvkov na webovej stránke pomocou použitia štýlov so skriptovaním umožňuje používateľom ľahšie vypnúť, či zrušiť tento efekt.
+
+  - 7.3.3 Animácie sa nepoužívajú pri texte, ktorý slúži na zobrazenie dôležitých informácií.
+
+  - 7.3.4 Ak sa audio na webovej stránke prehráva dlhšie ako 3 sekundy, je k dispozícii prístupný a nezávislý mechanizmus, ktorý umožní audio dočasne alebo úplne zastaviť.
+
   - 7.4 Ak agent používateľa neposkytuje možnosť zastaviť obnovovanie, nie je vhodné vytvárať webové stránky, ktoré sa pravidelne sami obnovujú. Obsah sa mení len vtedy, ak používateľ aktivuje nejaký prvok.
 
   - 7.4.1 V HTML nie je vhodné vytvárať webové stránky tak, aby sa samé obnovovali pomocou metadátového prvku "HTTP-EQUIV=refresh", ak agent používateľa neumožňuje používateľom tento prvok vypnúť.
@@ -227,6 +257,10 @@ Príloha č. 1 k výnosu č. 55/2014 Z. z.
   - 9.2 Zabezpečí sa, aby každý prvok, ktorý má svoje vlastné rozhranie, mohol byť použitý spôsobom nezávislým na zariadení.
 
   - 9.3 Pri skriptoch sa uprednostňuje špecifikácia logických správcov udalostí pred správcami udalostí závislých od zariadení.
+
+  - 9.4 Vytvára sa logické príkazové navádzanie pomocou odkazov, ovládačov formátu a objektov.
+
+  - 9.4.1 V HTML sa logické zoradenie špecifikuje pomocou atribútu "tabindex" alebo sa zabezpečí logický dizajn webovej stránky, ktorý zachováva hierarchickú postupnosť obsahu a prechádzania jednotlivých prvkov.
 
   - 9.5 K dôležitým odkazom vrátane tých, ktoré sa nachádzajú v interaktívnych mapách na strane klienta, k ovládačom formátu a k skupinám ovládačov formátov sa poskytujú klávesové skratky.
 
