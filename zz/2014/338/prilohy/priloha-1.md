@@ -1,1 +1,1 @@
-Príloha č. 1 - 36 k opatreniu č. 338/2014 Z. z. [Príloha č. l - 36 k opatreniu č. 338/2014 Z. z.](../assets/cc5d8b3436515ecc950f5c104c2012bac686a18828a3786465940f72f74b6892.pdf)
+Príloha č. 1 - 36 k opatreniu č. 338/2014 Z. z. [Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2014/338/20150315_4416762-2.pdf; Prílohy č. 1 - 36 (príloha v PDF); reason: too large]
