@@ -50,7 +50,7 @@
 
 (10) Od zmluvy o poistení dôchodku možno odstúpiť len z dôvodov a v lehote podľa odseku 9 písm. a) a b); odstupné nemožno dojednať. Ak dôjde k odstúpeniu podľa predchádzajúcej vety, sumu dôchodku vyplateného na základe zmluvy o poistení dôchodku poistený nie je povinný vrátiť. Jednorazové poistné znížené o sumu dôchodku vyplateného na základe zmluvy o poistení dôchodku je poistiteľ povinný vrátiť do troch pracovných dní odo dňa odstúpenia.
 
-(11) Zmluva o poistení dôchodku obsahuje najmä spôsob výplaty dôchodku, pomer, ktorým sa prebytok z výnosov rozdelí medzi poistiteľa a poistených podľa § 42a ods. 1, a spôsob výplaty podielu na prebytku z výnosov podľa § 42a ods. 4.
+(11) Zmluva o poistení dôchodku obsahuje najmä spôsob výplaty dôchodku, percentuálnu výšku garantovaného výnosu z umiestnenia prostriedkov technických rezerv použitú pri výpočte mesačnej sumy dôchodku, pomer, ktorým sa prebytok z výnosov rozdelí medzi poistiteľa a poistených podľa § 42a ods. 1, a spôsob výplaty podielu na prebytku z výnosov podľa § 42a ods. 4.
 
 (12) Ak je v zmluve o poistení dôchodku dohodnuté vyplácanie pozostalostného dôchodku
 

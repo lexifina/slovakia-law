@@ -30,11 +30,13 @@
 
 - m) o ročnej sume výnosu z investovania vyplatenej sporiteľovi,
 
-- n) o zápise zmluvy o starobnom dôchodkovom sporení podľa § 64b ods. 1 do registra zmlúv.
+- n) o zápise zmluvy o starobnom dôchodkovom sporení podľa § 64b ods. 1 do registra zmlúv,
+
+- o) o percentuálnej výške garantovaného výnosu z umiestnenia prostriedkov technických rezerv použitej pri výpočte mesačnej sumy dôchodku,
 
 (3) Dôchodková správcovská spoločnosť poskytuje Sociálnej poisťovni údaje podľa odseku 2 písm. b), f), l) a m).
 
-(4) Poistiteľ poskytuje Sociálnej poisťovni údaje podľa odseku 2 písm. a), f), j) a l).
+(4) Poistiteľ poskytuje Sociálnej poisťovni údaje podľa odseku 2 písm. a), f), j), l) a o).
 
 (5) Útvar sociálneho zabezpečenia a Vojenský úrad sociálneho zabezpečenia poskytuje Sociálnej poisťovni údaje podľa odseku 2 písm. h).
 
@@ -48,7 +50,7 @@
 
 - d) Ústredie práce, sociálnych vecí a rodiny a úrad práce, sociálnych vecí a rodiny na účely posudzovania nároku na pomoc v hmotnej núdzi, a to k údajom podľa odseku 2 písm. f) až h) a m).
 
-(7) Sociálna poisťovňa poskytuje údaje podľa odseku 2 písm. f) až h) a j) až m) ministerstvu a Národnej banke Slovenska na štatistické a analytické účely.
+(7) Sociálna poisťovňa poskytuje údaje podľa odseku 2 písm. f) až h), j) až m) a o) ministerstvu a Národnej banke Slovenska na štatistické a analytické účely.
 
 (8) Najneskôr pred predložením prvej ponuky podľa § 46 ods. 1 písm. a) alebo oznámenia podľa § 46 ods. 1 písm. b) poistiteľ zaeviduje do ponukového systému najnižšiu mesačnú sumu doživotného dôchodku bez zvyšovania dôchodku a bez pozostalostných dôchodkov, ktorú má poistiteľ záujem vyplácať.
 
