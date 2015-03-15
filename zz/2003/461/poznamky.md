@@ -313,3 +313,5 @@
 - 121) § 123ac zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
 
 - 122) § 123ae zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
+
+- 123) § 123aq zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
