@@ -14,17 +14,17 @@
 
 (5) Do 31. decembra 2014 sa na tlačiareň podľa § 9b ods. 1 predpisu účinného od 1. októbra 2014 nevzťahuje povinnosť mať dostatočnú zásobu vytlačených tlačových listov kontrolných známok podľa § 9b ods. 5 predpisu účinného od 1. októbra 2014.
 
-(6) Registračné odberné číslo pridelené osobe podľa § 9 predpisu účinného do 30. septembra 2014 zaniká k 31. augustu 2015.
+(6) Registračné odberné číslo pridelené osobe podľa § 9 predpisu účinného do 30. septembra 2014 zaniká k 30. novembru 2015.
 
-(7) Označovať spotrebiteľské balenie cigariet kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 je možné najneskôr do 31. marca 2015.
+(7) Označovať spotrebiteľské balenie cigariet kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 je možné najneskôr do 30. júna 2015.
 
-(8) Spotrebiteľské balenie cigariet označené kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 je možné uvádzať do daňového voľného obehu najneskôr do 30. júna 2015.
+(8) Spotrebiteľské balenie cigariet označené kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 je možné uvádzať do daňového voľného obehu najneskôr do 30. septembra 2015.
 
-(9) Odberateľ kontrolných známok, ktorý odobral kontrolné známky vyhotovené podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014, vykoná s colným úradom zúčtovanie odberu a použitia týchto kontrolných známok do 31. júla 2015. Nepoužité kontrolné známky odberateľ kontrolných známok odovzdá colnému úradu pri zúčtovaní odberu a použitia kontrolných známok, ktorý ich zničí na náklady odberateľa kontrolných známok. Zúčtovanie kontrolných známok sa vykoná podľa § 9 ods. 24 a 25 predpisu účinného do 30. septembra 2014. Colný úrad o zničení kontrolných známok vyhotoví protokol o zničení.
+(9) Odberateľ kontrolných známok, ktorý odobral kontrolné známky vyhotovené podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014, vykoná s colným úradom zúčtovanie odberu a použitia týchto kontrolných známok do 31. októbra 2015. Nepoužité kontrolné známky odberateľ kontrolných známok odovzdá colnému úradu pri zúčtovaní odberu a použitia kontrolných známok, ktorý ich zničí na náklady odberateľa kontrolných známok. Zúčtovanie kontrolných známok sa vykoná podľa § 9 ods. 24 a 25 predpisu účinného do 30. septembra 2014. Colný úrad o zničení kontrolných známok vyhotoví protokol o zničení.
 
-(10) Spotrebiteľské balenie cigariet označené kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 možno predávať najneskôr do 31. augusta 2015. Po tomto dátume bude takto označené spotrebiteľské balenie cigariet považované za neoznačené.
+(10) Spotrebiteľské balenie cigariet označené kontrolnou známkou vyhotovenou podľa § 9 ods. 8 predpisu účinného do 30. septembra 2014 možno predávať najneskôr do 30. novembra 2015. Po tomto dátume bude takto označené spotrebiteľské balenie cigariet považované za neoznačené.
 
-(11) Osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia cigariet a ktorá skladuje spotrebiteľské balenia cigariet uvedené v odseku 10, ktoré nepredala do 31. augusta 2015, je povinná do 15. septembra 2015 oznámiť colnému úradu množstvo takto označených spotrebiteľských balení cigariet a zároveň v tejto lehote požiadať colný úrad o ich zničenie; colný úrad takéto spotrebiteľské balenia cigariet zničí na náklady osoby a o zničení vyhotoví protokol o zničení, pričom ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
+(11) Osoba, ktorá je oprávnená v rámci podnikania predávať spotrebiteľské balenia cigariet a ktorá skladuje spotrebiteľské balenia cigariet uvedené v odseku 10, ktoré nepredala do 30. novembra 2015, je povinná do 15. decembra 2015 oznámiť colnému úradu množstvo takto označených spotrebiteľských balení cigariet a zároveň v tejto lehote požiadať colný úrad o ich zničenie; colný úrad takéto spotrebiteľské balenia cigariet zničí na náklady osoby a o zničení vyhotoví protokol o zničení, pričom ustanovenie § 41 ods. 1 písm. a) sa nepoužije.
 
 (12) Do 31. decembra 2014 sa na označovanie spotrebiteľského balenia cigár a cigariek nevzťahuje § 5 ods. 2, § 6 ods. 5, § 9, § 9a, § 9b, § 10 ods. 1, § 41 ods. 1 písm. a) a b) a § 41a ods. 1 písm. a) a b) predpisu účinného od 1. októbra 2014. Na kontrolných známkach určených na označovanie spotrebiteľských balení cigár alebo cigariek je od 1. januára 2015 uvedený znak pre sadzbu dane, ktorým je veľké písmeno „A“.
 
