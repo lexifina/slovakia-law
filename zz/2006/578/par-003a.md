@@ -114,7 +114,7 @@
 
 - b) jednotlivo vyrobeného alebo jednotlivo dovezeného systému, komponentu alebo samostatnej technickej jednotky.
 
-(10) Protokol podľa odseku 9 obsahuje tie údaje podľa odseku 4, ktoré zodpovedajú danému druhu protokolu; poverená technická služba overovania vozidiel ho vypracuje v troch rovnopisoch, z ktorých jeden sa archivuje, druhý je určený pre obvodný úrad dopravy a tretí sa vydá žiadateľovi.
+(10) Protokol podľa odseku 9 obsahuje tie údaje podľa odseku 4, ktoré zodpovedajú danému druhu protokolu; poverená technická služba overovania vozidiel ho vypracuje v troch rovnopisoch, z ktorých jeden sa archivuje, druhý je určený pre okresný úrad a tretí sa vydá žiadateľovi.
 
 (11) Poverená technická služba overovania vozidiel môže schvaľujúcemu orgánu odporučiť udelenie výnimiek z plnenia technických požiadaviek a v opodstatnených dôvodoch môže navrhnúť alternatívne požiadavky. V niektorých prípadoch (napríklad pri deštrukčných skúškach, pri veľmi malých sériách alebo pri výrobe jednotlivého vozidla) môže odporučiť nahradenie protokolu o skúške protokolom o posúdení konštrukcie z hľadiska jej predpokladov na splnenie technických požiadaviek, prípadne na vykonanie obmedzených skúšok podľa vlastnej úvahy.
 

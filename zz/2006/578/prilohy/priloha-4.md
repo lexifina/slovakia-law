@@ -282,7 +282,7 @@ Príloha č. 4 k vyhláške č. 578/2006 Z. z.
 
       - i) podklady použité pri kontrole vozidla a na zistenie technických údajov vozidla,
 
-      - j) návrh pre obvodný úrad dopravy,
+      - j) návrh pre okresný úrad,
 
       - k) vyhodnotenie výsledku kontroly,
 
