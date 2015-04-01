@@ -70,4 +70,8 @@
 
 - 34) § 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
-- 35) § 6 ods. 2 zákona č. 581/2004 Z. z.
+- 35) Napríklad § 628 až 630 Občianskeho zákonníka.
+
+- 36) § 13 zákona č. 576/2004 Z. z.
+
+- 37) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
