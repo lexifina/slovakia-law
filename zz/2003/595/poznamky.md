@@ -456,7 +456,7 @@
 
 - 120b) § 8 ods. 1 písm. a) a b) zákona č. 561/2007 Z. z. v znení neskorších predpisov.
 
-- 120c) § 10 ods. 6 zákona č. 561/2007 Z. z. v znení zákona č. 70/2013 Z. z.
+- 120c) § 9 ods. 1 a 2, § 10 ods. 9 zákona č. 561/2007 Z. z. v znení neskorších predpisov.
 
 - 120d) Zákon č. 185/2009 Z. z. o stimuloch pre výskum a vývoj a o doplnení zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 

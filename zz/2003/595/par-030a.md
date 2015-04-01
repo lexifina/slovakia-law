@@ -4,9 +4,9 @@
 
 (2) Daňovník si môže uplatniť nárok na úľavu na dani do výšky dane pripadajúcej na pomernú časť základu dane. Pomerná časť základu dane sa vypočíta tak, že základ dane sa vynásobí koeficientom, ktorý sa vypočíta ako podiel
 
-- a) oprávnených nákladov,<sup>120b</sup>) na ktoré bola schválená poskytnutá investičná pomoc podľa osobitného predpisu,<sup>120a</sup>) najviac však do úhrnnej výšky obstarávacej ceny dlhodobého hmotného a dlhodobého nehmotného majetku tejto investície obstaraného po vydaní písomného potvrdenia žiadateľovi, že investičný zámer spĺňa podmienky na poskytnutie investičnej pomoci<sup>120c</sup>) do konca príslušného zdaňovacieho obdobia, za ktoré sa uplatňuje nárok na úľavu na dani, a
+- a) oprávnených nákladov,<sup>120b</sup>) na ktoré bola schválená poskytnutá investičná pomoc podľa osobitného predpisu,<sup>120a</sup>) najviac však do úhrnnej výšky obstarávacej ceny dlhodobého hmotného a dlhodobého nehmotného majetku tejto investície obstaraného po podaní investičného zámeru podľa osobitného predpisu<sup>120c</sup>) do konca príslušného zdaňovacieho obdobia, za ktoré sa uplatňuje nárok na úľavu na dani, a
 
-- b) súčtu hodnoty vlastného imania daňovníka vykázaného v účtovnej závierke za zdaňovacie obdobie, v ktorom bolo vydané písomné potvrdenie podľa osobitného predpisu,<sup>120c</sup>) a oprávnených nákladov uvedených v písmene a).
+- b) súčtu hodnoty vlastného imania daňovníka vykázaného v účtovnej závierke za zdaňovacie obdobie, v ktorom bol investičný zámer podaný podľa osobitného predpisu,<sup>120c</sup>) a oprávnených nákladov uvedených v písmene a).
 
 (3) Osobitnými podmienkami podľa odseku 1 sú:
 
