@@ -168,11 +168,11 @@
 
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
-- 45) § 39 a 40 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 45) § 6 až 17 a § 26 až 41 a § 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- § 6 až 17 a § 26 až 41 a § 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- § 44 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 53/2015 Z. z.
 
-- § 44 ods. 1 zákona č. 577//2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 347/2005 Z. z.
+- § 119 a 120 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 45a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
@@ -201,8 +201,6 @@
 - 55a) § 42 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
-
-- 55ba) § 44 ods. 2 zákona č. 577/2004 Z. z. v znení zákona č. 365/2013 Z. z.
 
 - 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
 
