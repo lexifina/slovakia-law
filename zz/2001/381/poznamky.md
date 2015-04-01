@@ -1,10 +1,10 @@
-- 1) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+- 1) Zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
-- Občiansky zákonník.
+- Občiansky zákonník v znení neskorších predpisov.
 
 - 3) § 21 Obchodného zákonníka.
 
-- 4) Zákon č. 95/2002 Z. z.
+- 4) Zákon č. 39/2015 Z. z.
 
 - 5) § 88 ods. 5 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení neskorších predpisov.
 
@@ -80,19 +80,15 @@
 
 - 24) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
-- 24a) § 23 zákona č. 95/2002 Z. z.
+- 24a) § 173 zákona č. 39/2015 Z. z.
 
-- 24b) § 24 zákona č. 95/2002 Z. z. v znení zákona č. 186/2004 Z. z.
+- 24b) § 174 zákona č. 39/2015 Z. z.
 
-- 24c) § 22 ods. 7 zákona č. 95/2002 Z. z.
+- 24c) § 66b Obchodného zákonníka v znení neskorších predpisov.
 
-- 24d) § 22 ods. 1 písm. d) zákona č. 95/2002 Z. z. v znení zákona č. 262/2006 Z. z.
+- 24d) § 178 ods. 1 zákona č. 39/2015 Z. z.
 
-- 24e) § 29 ods. 1 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
-
-- 24f) § 29 ods. 2 a 3 zákona č. 95/2002 Z. z. v znení zákona č. 747/2004 Z. z.
-
-- 25) § 4 ods. 12 písm. b) štvrtý bod zákona č. 95/2002 Z. z.
+- 24e) § 178 ods. 2 zákona č. 39/2015 Z. z.
 
 - 26) Zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
 
@@ -102,7 +98,7 @@
 
 - 27) § 18 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
 
-- 28) Zákon č. 95/2002 Z. z. v znení neskorších predpisov.
+- 28) Zákon č. 39/2015 Z. z.
 
 - Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
