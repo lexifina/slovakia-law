@@ -26,7 +26,7 @@
 
 - 6af) Rozhodnutie Rady z 1. decembra 2009, ktorým sa ustanovujú opatrenia na vykonávanie rozhodnutia Európskej rady o vykonávaní predsedníctva Rady a o predsedníctve prípravných orgánov Rady (2009/908/ EÚ) (Ú. v. EÚ L 322, 9. 12. 2009).
 
-- 6ag) § 5 zákona Slovenskej národnej rady č. 4/1958 Zb. o ľudovej umeleckej výrobe a umeleckých remeslách.
+- 6ag) § 2 písm. b) bod 28 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6ah) § 6 zákona Slovenskej národnej rady č. 4/1958 Zb.
 
