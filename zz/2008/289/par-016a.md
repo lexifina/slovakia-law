@@ -2,25 +2,25 @@
 
 Správneho deliktu sa dopustí ten, kto
 
-- a) nepoužil elektronickú registračnú pokladnicu na evidenciu tržby podľa § 3 ods. 1 alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou, ktorý nie je pokladničným dokladom,
+- a) nepoužil elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu na evidenciu tržby podľa § 3 ods. 1 alebo prijme tržbu na základe dokladu vyhotoveného elektronickou registračnou pokladnicou alebo virtuálnou registračnou pokladnicou, ktorý nie je pokladničným dokladom,
 
-- b) svojím zásahom vyradí elektronickú registračnú pokladnicu z prevádzky,
+- b) svojím zásahom vyradí elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu z prevádzky,
 
-- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 3,
+- c) na evidenciu prijatej tržby používa elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4 ods. 1 až 4 alebo virtuálnu registračnú pokladnicu, ktorá nespĺňa požiadavky podľa § 4a,
 
 - d) neodovzdá paragón podľa § 10 ods. 4,
 
-- e) zaeviduje tržbu v elektronickej registračnej pokladnici, ale neodovzdá pokladničný doklad podľa § 8 ods. 1 a 2,
+- e) zaeviduje tržbu v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici, ale neodovzdá pokladničný doklad podľa § 8 ods. 1, 2 a 7,
 
-- f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1 a 2 alebo § 10 ods. 4,
+- f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1, 2 a 7 alebo § 10 ods. 4,
 
 - g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. zc),
 
-- h) nezaeviduje v elektronickej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3,
+- h) nezaeviduje v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3,
 
 - i) nepostupuje v súlade s § 3 ods. 4,
 
-- j) nepoužíva elektronickú registračnú pokladnicu v súlade s § 3 ods. 6,
+- j) nepoužíva elektronickú registračnú pokladnicu alebo virtuálnu registračnú pokladnicu v súlade s § 3 ods. 6,
 
 - k) nezabezpečí vykonanie povinnej údržby elektronickej registračnej pokladnice podľa § 4 ods. 7,
 
@@ -30,13 +30,13 @@ Správneho deliktu sa dopustí ten, kto
 
 - n) neodovzdá kupujúcemu pokladničný doklad alebo paragón podľa § 8 ods. 4,
 
-- o) nesplní povinnosť podľa § 8 ods. 5,
+- o) nesplní povinnosť podľa § 8 ods. 5 alebo ods. 6,
 
-- p) nesplní povinnosť podľa § 9,
+- p) nesplní povinnosť podľa § 7a ods. 3, § 9 alebo § 10 ods. 7,
 
 - q) nenahlási servisnej organizácii poškodenie alebo chýbanie plomby podľa § 4 ods. 8 alebo poruchu elektronickej registračnej pokladnice podľa § 10 ods. 1,
 
-- r) nezaeviduje v elektronickej registračnej pokladnici údaje z vyhotovených paragónov v lehote podľa § 10 ods. 5,
+- r) nezaeviduje v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici údaje z vyhotovených paragónov v lehote podľa § 10 ods. 5,
 
 - s) neuchová fiskálnu pamäť v lehote podľa § 11 ods. 2,
 
@@ -46,7 +46,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - v) nedodrží postup pri zmene vlastníka elektronickej registračnej pokladnice podľa § 14,
 
-- w) neoznámi ukončenie prevádzky elektronickej registračnej pokladnice podľa § 15 ods. 2,
+- w) neoznámi ukončenie prevádzky elektronickej registračnej pokladnice podľa § 15 ods. 2 alebo ukončenie používania virtuálnej registračnej pokladnice podľa § 15a ods. 1,
 
 - x) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 10 ods. 1 alebo ods. 3,
 
@@ -62,7 +62,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - ad) nevedie evidenciu plomb podľa § 5 ods. 2 písm. b),
 
-- ae) neoznámi daňovému úradu zistenie poškodenia plomby alebo chýbanie plomby, zmeny údajov uložených v elektronickej registračnej pokladnici alebo odchýlky od elektronickej registračnej pokladnice certifikovanej akreditovanou osobou podľa § 5 ods. 2 písm. c),
+- ae) neoznámi daňovému úradu zistenie poškodenia plomby alebo chýbanie plomby, zmeny údajov uložených v elektronickej registračnej pokladnici alebo odchýlky od elektronickej registračnej pokladnice certifikovanej Colným úradom Bratislava podľa § 5 ods. 2 písm. c),
 
 - af) nezabezpečí výmenu poškodenej plomby alebo doplnenie chýbajúcej plomby podľa § 5 ods. 2 písm. d),
 

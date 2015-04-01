@@ -24,6 +24,8 @@
 
 - 12) § 69 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
+- 13) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
 - 14) § 67 ods. 9 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 14b) § 66 ods. 10 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty.
@@ -35,6 +37,8 @@
 - 16a) § 51 zákona č. 563/2009 Z. z. v znení zákona č. 440/2012 Z. z.
 
 - 16b) § 57 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+
+- 16c) § 29 ods. 1 písm. g) a § 30 ods. 1 písm. c) zákona č. 56/2012 Z. z. o cestnej doprave.
 
 - 17) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
