@@ -1,6 +1,6 @@
 # § 13a
 
-(1) Do výchovného a vzdelávacieho procesu v školách a školských zariadeniach môžu vstupovať školskí inšpektori Štátnej školskej inšpekcie.
+(1) Do výchovného a vzdelávacieho procesu v školách, školských zariadeniach a pracoviskách praktického vyučovania môžu vstupovať školskí inšpektori Štátnej školskej inšpekcie.
 
 (2) Školským inšpektorom môže byť ten, kto spĺňa kvalifikačné predpoklady vysokoškolského vzdelania pre príslušný druh, typ a stupeň školy alebo školského zariadenia, má osem rokov pedagogickej praxe v škole alebo v školskom zariadení, absolvoval I. kvalifikačnú skúšku alebo jej náhradu a pôsobil minimálne tri roky v riadiacej funkcii v školstve alebo v pracovnom zaradení metodika alebo v pracovnom zaradení školského inšpektora, alebo absolvoval II. kvalifikačnú skúšku alebo jej náhradu.
 

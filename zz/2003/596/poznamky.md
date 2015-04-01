@@ -104,9 +104,13 @@
 
 - 36) § 4 zákona č. 302/2001 Z. z.
 
+- 36a) § 31 ods. 2 a 3 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
 - 37) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
-- 38) § 21 ods. 6 zákona č. 303/1995 Z. z. v znení neskorších predpisov.
+- 38) § 28 ods. 2 písm. c) zákona č. 61/2015 Z. z.
+
+- 38a) § 15 ods. 1 písm. c) zákona č. 61/2015 Z. z.
 
 - 39) § 10 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -148,15 +152,9 @@
 
 - 49) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 552/2003 Z. z.
 
-- 49a) § 7 ods. 13 a § 8 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 21 ods. 7 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
-
 - 50) Napríklad zákon č. 502/2001 Z. z. v znení neskorších predpisov, zákon č. 10/1996 Z. z. v znení neskorších predpisov, zákon č. 182/2002 Z. z., ktorým sa mení a dopĺňa zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly a ktorým sa menia a dopĺňajú niektoré ďalšie zákony, zákon č. 85/1990 Zb. v znení neskorších predpisov.
 
 - 50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.
-
-- 50b) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
 
 - 51) § 2, 9a, 10a a 33a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -176,17 +174,11 @@
 
 - 58) § 45 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 59) § 2 a 63 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 60) § 63 ods. 4 a 5 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
 - 60a) § 7 ods. 2 písm. b) a ods. 6 zákona č. 317/2009 Z. z.
 
 - 61) § 1 zákona Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín.
 
 - 62) § 44 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 63) § 2 ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
 - 64) § 63 ods. 4 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
@@ -199,10 +191,6 @@
 - 68) § 116 Občianskeho zákonníka.
 
 - 77) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
-
-- 78) § 24 zákona č. 29/1984 Zb. v znení neskorších predpisov.
-
-- 79) Zákon o rodine.
 
 - 79a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
