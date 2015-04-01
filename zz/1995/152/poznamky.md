@@ -14,10 +14,6 @@
 
 - 1b) Nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 z 27. januára 1997 o nových druhoch potravín a potravinových prísad (Ú. v. ES L 102, 19. 04. 1997).
 
-- 1c) Nariadenie (ES) č. 1829/2003 Európskeho parlamentu a Rady z 22. septembra 2003 o geneticky modifikovaných potravinách a krmivách (Ú. v. ES L 268, 18. 10. 2003).
-
-- 1d) Čl. 2 ods. 2 bod 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 z 20. decembra 2006 o výživových a zdravotných tvrdeniach o potravinách (Ú. v. EÚ L 404, 30. 12. 2006) v platnom znení.
-
 - 1e) Napríklad nariadenie (ES) č. 178/2002 v platnom znení, nariadenie (ES) č. 852/2004 v platnom znení, nariadenie (ES) č. 882/2004 v platnom znení, nariadenie (ES) č. 1234/2007 v platnom znení.
 
 - 1f) Napríklad nariadenie Komisie (ES) č. 2073/2005 z 15. novembra 2005 o mikrobiologických kritériách pre potraviny (Ú. v. EÚ L 338, 22. 12. 2005) v platnom znení.
@@ -50,17 +46,29 @@
 
 - 8c) Nariadenie Európskeho parlamentu a Rady (ES) č. 1924/2006 o výživových a zdravotných tvrdeniach o potravinách (Ú. v. L 409, 30. 12. 2006).
 
+- 8ca) Čl. 2 písm. a) vykonávacieho nariadenia Komisie (EÚ) č. 208/2013 z 11. marca 2013 o požiadavkách na vysledovateľnosť klíčkov a semien určených na výrobu klíčkov (Ú. v. EÚ L 68, 12. 3. 2013).
+
+- 8cb) Čl. 2 a príloha nariadenia Komisie (EÚ) č. 210/2013 z 11. marca 2013 o schválení prevádzkarní produkujúcich klíčky podľa nariadenia Európskeho parlamentu a Rady (ES) č. 852/2004 (Ú. v. EÚ L 68, 12. 3. 2013).
+
+- Čl. 2 ods. 1 písm. d), čl. 6 a príloha I nariadenia (ES) č. 852/2004.
+
 - 8d) Čl. 14 nariadenia (ES) č. 178/2002 v platnom znení.
 
 - 8da) § 6 zákona č. 39/2007 Z. z. v znení neskorších predpisov.
+
+- 8daa) Čl. 24 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení.
+
+- 8dab) Čl. 2 ods. 2 písm. r) a čl. 24 nariadenia (EÚ) č. 1169/2011.
 
 - 8e) Čl. 2 ods. 2 nariadenia Komisie (EÚ) č. 16/2011 z 10. januára 2011, ktorým sa stanovujú vykonávacie opatrenia pre systém rýchleho varovania pre potraviny a krmivá (Ú. v. EÚ L 64, 11. 3. 2011).
 
 - 8f) Čl. 3 ods. 6 nariadenia (ES) č. 882/2004 v platnom znení.
 
-- 9) § 45 a 46 Obchodného zákonníka.
+- 8g) § 8 až 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
 
-- 9a) Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení.
+- 9) Nariadenie (EÚ) č. 1169/2011.
+
+- 9a) Čl. 29 až 34 nariadenia (EÚ) č. 1169/2011.
 
 - 9aa) Napríklad § 20f až 20j Občianskeho zákonníka.
 
