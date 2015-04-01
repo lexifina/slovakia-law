@@ -64,6 +64,8 @@
 
 - 32) Napríklad zákon č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon).
 
+- 32a) § 2 písm. b) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 35/2015 Z. z.
+
 - 33) Napríklad zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 34) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
