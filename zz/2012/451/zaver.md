@@ -1,1 +1,0 @@
-Dušan Čaplovič v. r.
