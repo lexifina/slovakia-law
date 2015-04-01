@@ -8,6 +8,10 @@
 
 - 7) § 14 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 7a) § 5 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
+
+- 7b) § 4 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
 - 8) Zákon č. 71/1967 Zb.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z.
@@ -29,6 +33,10 @@
 - 14a) § 22 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
 - 14b) § 80 písm. c) Občianskeho súdneho poriadku.
+
+- 14c) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
+
+- Zákon č. 503/2003 Z. z. o navrátení vlastníctva k pozemkom a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov v znení neskorších predpisov.
 
 - 15) § 2 ods. 1 zákona Slovenskej národnej rady č. 307/1992 Zb. o ochrane poľnohospodárskeho pôdneho fondu.
 
@@ -67,6 +75,8 @@
 - Zákon Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
 - 30a) Napríklad zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 326/2005 Z. z. o lesoch v znení neskorších predpisov.
+
+- 30aa) § 2 písm. q) zákona č. 326/2005 Z. z.
 
 - 31) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z.
 
@@ -128,8 +138,6 @@
 
 - 56) § 14 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 57) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
-
 - 58) § 13 až 17 zákona Slovenskej národnej rady č. 293/1992 Zb.
 
 - 59) § 142, 149, 481 a 484 Občianskeho zákonníka.
@@ -137,3 +145,7 @@
 - 60) § 2 zákona č. 265/1992 Zb.
 
 - 61) § 9 ods. 4 a 5 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
+
+- 62) § 11 zákona č. 229/1991 Zb. v znení neskorších predpisov.
+
+- § 6 zákona č. 503/2003 Z. z. v znení neskorších predpisov.
