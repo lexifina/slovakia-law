@@ -12,6 +12,10 @@ Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a
 
 - vydáva záväzné informácie o nomenklatúrnom zatriedení tovaru a záväzné informácie o pôvode tovaru,
 
+- b)
+
+- rozhoduje v konaní o certifikácii elektronickej registračnej pokladnice podľa osobitného predpisu,<sup>29a</sup>)
+
 - c)
 
 - vykonáva technickú expertízu elektronickej registračnej pokladnice.<sup>29b</sup>)“.

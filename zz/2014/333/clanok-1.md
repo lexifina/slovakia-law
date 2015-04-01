@@ -798,7 +798,7 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN
 
-- [ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN](assets/98e4a68ba5815d14e96d20907360fa0c7cbf6935e9c3e60be7f061f3593e29fe.pdf)“.
+- [ZARADENIE HMOTNÉHO MAJETKU DO ODPISOVÝCH SKUPÍN](assets/771270e6e1e6b6f6a627ccf1105fb91ed2ed610c9cd4801d7cad91ebdb8d85d2.pdf)“.
 
 - 95. Zákon sa dopĺňa prílohou č. 6, ktorá vrátane nadpisu znie:
 
