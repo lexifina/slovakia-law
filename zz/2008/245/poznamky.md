@@ -8,9 +8,13 @@
 
 - 5) Oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb. o dojednaní Dohovoru o ochrane ľudských práv a základných slobôd a Protokolov na tento Dohovor nadväzujúcich.
 
+- 5a) § 28 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
 - 6) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
 
-- 6a) § 2 ods. 3 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
+- 6aa) Zákon č. 61/2015 Z. z.
+
+- 6ab) § 20 zákona č. 61/2015 Z. z.
 
 - 7) § 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -72,7 +76,7 @@
 
 - 32a) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 24 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 527/2007 Z. z. o podrobnostiach o požiadavkách na zariadenia pre deti a mládež.
 
-- 32b) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.
+- 32b) § 29 ods. 2 písm. a) zákona č. 61/2015 Z. z.
 
 - 33) § 5 ods. 13 písm. c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -88,10 +92,6 @@
 
 - 39) § 5 ods. 4 písm. l) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 40) Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 770/2004 Z. z., ktorou sa ustanovujú určujúce znaky jednotlivých druhov zdravotníckych zariadení v znení neskorších predpisov.
-
-- 41) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 42) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
 - 44) § 5 ods. 4 písm. k) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -103,6 +103,8 @@
 - 47) § 5 ods. 13 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 47a) § 19 ods. 2 písm. d) a e) zákona č. 596/2003 Z. z.
+
+- 47aa) § 17 zákona č. 61/2015 Z. z.
 
 - 48) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
@@ -201,6 +203,10 @@
 - 91) § 2 ods. 2 Obchodného zákonníka.
 
 - 92) Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 678/2006 Z. z.
+
+- 92a) § 19 zákona č. 61/2015 Z. z.
+
+- 92b) § 53 Zákonníka práce.
 
 - 93) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 596/2003 Z. z. v znení neskorších predpisov, zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
