@@ -338,6 +338,10 @@
 
 - 32a) Zákon č. 129/2010 Z. z. v znení neskorších predpisov.
 
+- 32b) § 1 až 8, § 9 až 19, § 20 ods. 8, § 21 a § 25e ods. 1, 5 a 6 zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a zmene a doplnení niektorých zákonov v znení zákona č. 35/2015 Z. z.
+
+- 32c) § 8a, § 20 ods. 1 až 7, § 20a až 20e, § 23, 24 a § 25e ods. 2 až 4, ods. 7 a 8 zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
+
 - 33) § 22c zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
 - § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
@@ -353,6 +357,12 @@
 - 35aa) Čl. 432 nariadenia (EÚ) č. 575/2013.
 
 - 35b) Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
+
+- 35ba) § 6 a 7 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+
+- 35bb) § 6 a 8 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+
+- 35bc) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 35c) § 2 ods. 1 písm. d) a ods. 9 zákona č. 492/2009 Z. z.
 
