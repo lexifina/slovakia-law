@@ -8,7 +8,7 @@
 
 - 4) § 264 Obchodného zákonníka.
 
-- 5) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+- 5) Zákon č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 5a) § 7a zákona č. 455/1991 Zb. v znení zákona č. 279/2001 Z. z.
 
