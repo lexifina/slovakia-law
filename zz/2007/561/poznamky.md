@@ -1,18 +1,16 @@
-- 1) Čl. 13 Nariadenia Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa článkov 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. ES L 214/3, 9. 8. 2008).
+- 1) Čl. 14 nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
 
 - 2) § 5 ods. 3 zákona č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
-- 2a) Čl. 1 ods. 7 nariadenia (ES) č. 800/2008.
+- 2a) Čl. 1 ods. 2 až 5 a čl. 13 nariadenia (EÚ) č. 651/2014.
 
-- 3) Čl. 2 bod 1 nariadenia (ES) č. 800/2008.
-
-- 4) Čl. 2 bod 14 nariadenia (ES) č. 800/2008.
+- 3) Čl. 2 ods. 49 nariadenia (EÚ) č. 651/2014.
 
 - 4a) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5) Čl. 2 bod 10 nariadenia (ES) č. 800/2008.
+- 5) Čl. 2 ods. 29 nariadenia (EÚ) č. 651/2014.
 
-- 6) Čl. 2 bod 11 nariadenia (ES) č. 800/2008.
+- 6) Čl. 2 ods. 30 nariadenia (EÚ) č. 651/2014.
 
 - 7) § 30a zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 561/2007 Z. z.
 
@@ -26,11 +24,9 @@
 
 - 11a) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
-- 11b) Čl. 1 ods. 2 a 3 nariadenia (ES) č. 800/2008.
-
 - 12) § 66a Obchodného zákonníka.
 
-- 14) Príloha I nariadenia (ES) č. 800/2008.
+- 14) Príloha I nariadenia (EÚ) č. 651/2014.
 
 - 15) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -52,7 +48,7 @@
 
 - Zákon č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
 
-- 16e) Čl. 8 nariadenia (ES) č. 800/2008.
+- 16dc) § 21 ods. 2 Obchodného zákonníka.
 
 - 17) § 6 ods. 4 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -64,17 +60,23 @@
 
 - § 53d zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
-- Nariadenie (ES) č. 800/2008.
+- Nariadenie (EÚ) č. 651/2014.
 
-- 20a) Čl. 2 bod 12 nariadenia (ES) č. 800/2008.
+- 20a) Čl. 2 ods. 52 nariadenia (EÚ) č. 651/2014.
 
-- 21) Čl. 3 nariadenia (ES) č. 800/2008, čl. 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C115, 9. 5. 2008).
+- 21) Čl. 108 Zmluvy o fungovaní Európskej únie.
 
-- 22) Čl. 6 nariadenia (ES) č. 800/2008, čl. 108 Zmluvy o fungovaní Európskej únie.
+- Čl. 3 nariadenia (EÚ) č. 651/2014.
+
+- 22) Čl. 108 Zmluvy o fungovaní Európskej únie.
+
+- Čl. 4 nariadenia (EÚ) č. 651/2014.
 
 - 23) Nariadenie Komisie (ES) č. 794/2004 z 21. apríla 2004, ktorým sa vykonáva nariadenie Rady (ES) č. 659/1999, ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o Európskom spoločenstve (Mimoriadne vydanie Ú. v. EÚ, 8/zv. 4) v znení nariadenia Komisie (ES) č. 1627/2006 z 24. októbra 2006 (Ú. v. EÚ L 302, 1. 11. 2006).
 
 - 24) Čl. 107 ods. 3 písm. a) a čl. 108 ods. 3 Zmluvy o fungovaní Európskej únie.
+
+- 24a) Čl. 2 ods. 28 nariadenia (EÚ) č. 651/2014.
 
 - 25) Napríklad zákon č. 231/1999 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 523/2004 Z. z. v znení neskorších predpisov, zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
