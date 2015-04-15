@@ -4,4 +4,4 @@ Príloha č. 1 k vyhláške č. 116/2014 Z. z.
 
   - Výpočet ročného zúčtovania poistného podľa § 19 zákona č. 580/2004 Z.z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z.z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len "zákon")
 
-- [príloha](../assets/313d3a70c311548ca9303372cad7cc7ec022cadb71d76356a2a69c601eff760f.pdf)
+- [príloha](../assets/587ca3d618447215013e7078e060650bc33f44b291bd789ef758df8fea853595.pdf)
