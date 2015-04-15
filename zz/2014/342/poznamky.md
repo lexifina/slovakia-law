@@ -22,7 +22,7 @@
 
 - 12) Čl. 4 ods. 1 písm. e) nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
-- 13) Čl. 72 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 zo 17. decembra 2013 o financovaní, riadení a monitorovaní spoločnej poľnohospodárskej politiky a ktorým sa zrušujú nariadenia Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008 (Ú. v. L 347, 20.12.2013) v platnom znení.
+- 13) Hlava II delegovaného nariadenia Komisie (EÚ) č. 640/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1306/2013 vzhľadom na integrovaný administratívny a kontrolný systém, podmienky zamietnutia alebo odňatia platieb a administratívne sankcie uplatniteľné na priame platby, podporné nariadenia na rozvoj vidieka a krížové plnenie (Ú. v. EÚ L 181, 20. 6. 2014).
 
 - 14) Čl. 9 ods. 2 tretí pododsek písm. a) nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
@@ -30,9 +30,11 @@
 
 - 16) Čl. 12 ods. 4 delegovaného nariadenia (EÚ) č. 639/2014.
 
+- 16a) Čl. 93 ods. 3 nariadenia Európskeho parlamentu a rady (EÚ) č. 1306/2013 zo 17. decembra 2013 o financovaní, riadení a monitorovaní spoločnej poľnohospodárskej politiky a ktorým sa zrušujú nariadenia Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008 (Ú. v. L 347, 20. 12. 2013) v platnom znení.
+
 - 17) Čl. 73 ods. 3 vykonávacieho nariadenia (EÚ) č. 809/2014.
 
-- 18) Čl. 37 ods. 1 druhý pododsek delegovaného nariadenia Komisie (EÚ) č. 640/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1306/2013 vzhľadom na integrovaný administratívny a kontrolný systém, podmienky zamietnutia alebo odňatia platieb a administratívne sankcie uplatniteľné na priame platby, podporné nariadenia na rozvoj vidieka a krížové plnenie (Ú. v. EÚ L 181, 20.06.2014).
+- 18) Čl. 37 ods. 1 druhý pododsek delegovaného nariadenia (EÚ) č. 640/2014.
 
 - 19) § 7 ods. 1 písm. aa) zákona č. 543/2007 Z. z. v znení zákona č. 115/2014 Z. z.
 
@@ -52,7 +54,7 @@
 
 - 27) Čl. 44 ods. 1 druhý pododsek nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
-- 28) Čl. 44 ods. 3 nariadenia (EÚ) č. 1307/2013 v platnom znení.
+- 28) Čl. 44 ods. 2 a 3 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 29) § 26 a 27 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 

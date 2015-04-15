@@ -12,7 +12,7 @@ Príloha č. 5 k nariadeniu vlády č. 342/2014 Z. z.
 
 - | Stromy v rade | 2
 
-- | Skupina stromov/húštiny v poli | 1,5
+- | Skupina stromov | 1,5
 
 - | Medza | 1,5
 

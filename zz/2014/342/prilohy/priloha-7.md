@@ -10,6 +10,8 @@ Príloha č. 7 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Cirok zrnový | Sorghum bicolor L. Moench
 
+- Facélia vratičolistá | Phacelia tanacetifolia L.
+
 - Horčica biela | Sinapis alba
 
 - Hrach siaty roľný | Pisum sativum
