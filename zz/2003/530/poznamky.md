@@ -20,7 +20,9 @@
 
 - 6a) § 68 ods. 12 Obchodného zákonníka.
 
-- 6b) § 2 písm. h) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+- 6b) § 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+- 6ba) § 5 ods. 3 zákona č. 305/2013 Z. z.
 
 - 6c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 25/2004 Z. z., ktorou sa ustanovujú vzory tlačív na podávanie návrhov na zápis do obchodného registra a zoznam listín, ktoré je potrebné k návrhu na zápis priložiť v znení vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 563/2004 Z. z.
 

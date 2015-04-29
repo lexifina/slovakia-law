@@ -1,6 +1,6 @@
 Príloha k zákonu č. 530/2003 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Šiesta smernica Rady 82/891/EHS zo 17. decembra 1982 o rozdelení akciových spoločností, vychádzajúca z článku 54 ods. 3 písm. g) zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. ES L 378, 31. 12. 1982).
 
