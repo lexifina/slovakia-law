@@ -36,6 +36,8 @@
 
 - 11) § 156 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
+- 11a) § 234 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
 - 12) § 56 ods. 6 Obchodného zákonníka.
 
 - 13) Zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov.
@@ -49,6 +51,8 @@
 - Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona 667/2004 Z. z.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
+- 14a) § 279 ods. 2 Občianskeho súdneho poriadku, § 71 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 15) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
