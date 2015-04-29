@@ -14,6 +14,8 @@
 
 - 2) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) § 13 ods. 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
+
 - 3) Zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
 
 - 4) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. ES L 166, 30. 4. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
@@ -62,7 +64,7 @@
 
 - 33) § 69 ods. 2 zákona č. 131/2002 Z. z.
 
-- 33a) Napríklad § 131 ods. 2 a 4, § 154 ods. 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 348/2011 Z. z.
+- 33a) Napríklad § 131 ods. 2 a 4, § 154 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 348/2011 Z. z.
 
 - 35) § 19 ods. 1 písm. n) a § 40 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
@@ -94,7 +96,7 @@
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
-- 41a) § 2 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov.
+- 41a) § 2 zákona č. 7/2005 Z. z. v znení zákona č. 348/2011 Z. z.
 
 - 42) Napríklad zákon č. 154/2001 Z. z. v znení neskorších predpisov.
 
