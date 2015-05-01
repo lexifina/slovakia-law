@@ -2,9 +2,9 @@
 
 (1) Poskytovateľ, ktorý je držiteľom povolenia a ktorý nepožiadal úrad pre dohľad o pridelenie číselného kódu poskytovateľa do 30. júna 2013, je povinný požiadať o pridelenie kódu najneskôr do 31. mája 2014.
 
-(2) Do 31. decembra 2016 je zdravotnícky pracovník oprávnený používať elektronický preukaz zdravotníckeho pracovníka a technické zariadenia slúžiace na autentizáciu v národnom zdravotníckom informačnom systéme.
+(2) Do 31. decembra 2016 je zdravotnícky pracovník oprávnený používať elektronický preukaz zdravotníckeho pracovníka a technické zariadenia slúžiace na autentizáciu v národnom zdravotníckom informačnom systéme a v informačnom systéme zdravotnej poisťovne.
 
-(3) Do 31. decembra 2016 je poskytovateľ oprávnený vytvoriť pri poskytnutí ambulantnej zdravotnej starostlivosti elektronický zdravotný záznam o poskytnutej ambulantnej zdravotnej starostlivosti podpísaný elektronickým podpisom,<sup>55h</sup>) ak používa informačný systém poskytovateľa zdravotnej starostlivosti, ktorý má overenie zhody<sup>55e</sup>) do elektronickej zdravotnej knižky; ustanovenie sa nevzťahuje na zdravotnú starostlivosť súvisiacu s tehotenstvom a pôrodom podľa osobitného predpisu.
+(3) Do 31. decembra 2016 je poskytovateľ oprávnený vytvoriť pri poskytnutí ambulantnej zdravotnej starostlivosti príslušný elektronický zdravotný záznam podpísaný elektronickým podpisom,<sup>55h</sup>) ak používa informačný systém poskytovateľa zdravotnej starostlivosti, ktorý má overenie zhody<sup>55e</sup>) do elektronickej zdravotnej knižky; ustanovenie sa nevzťahuje na zdravotnú starostlivosť súvisiacu s tehotenstvom a pôrodom podľa osobitného predpisu.
 
 (4) Do 31. decembra 2016 je poskytovateľ oprávnený vytvoriť bezodkladne po prepustení osoby z ústavnej zdravotnej starostlivosti elektronický zdravotný záznam podpísaný elektronickým podpisom<sup>55h</sup>) v rozsahu ustanovenom osobitným predpisom, ak používa informačný systém poskytovateľa zdravotnej starostlivosti, ktorý má overenie zhody,<sup>55e</sup>) do elektronickej zdravotnej knižky; ustanovenie sa nevzťahuje na zdravotnú starostlivosť súvisiacu s tehotenstvom a pôrodom podľa osobitného predpisu.
 

@@ -2,7 +2,7 @@ Príloha č. 1a k zákonu č. 578/2004 Z. z.
 
 - ŠPECIALIZOVANÉ AMBULANCIE
 
-  - 1. gynekologická ambulancia,
+  - 1. gynekologicko-pôrodnícka ambulancia,
 
   - 2. ambulancia zubného lekárstva,
 
@@ -62,70 +62,72 @@ Príloha č. 1a k zákonu č. 578/2004 Z. z.
 
   - 30. urologická ambulancia,
 
-  - 31. mamologická ambulancia,
+  - 31. otorinolaryngologická ambulancia,
 
-  - 32. otorinolaryngologická ambulancia,
+  - 32. ambulancia hrudníkovej chirurgie,
 
-  - 33. ambulancia hrudníkovej chirurgie,
+  - 33. oftalmologická ambulancia,
 
-  - 34. oftalmologická ambulancia,
+  - 34. dermatovenerologická ambulancia,
 
-  - 35. dermatovenerologická ambulancia,
+  - 35. neurologická ambulancia,
 
-  - 36. neurologická ambulancia,
+  - 36. psychiatrická ambulancia,
 
-  - 37. psychiatrická ambulancia,
+  - 37. ambulancia detskej psychiatrie,
 
-  - 38. ambulancia detskej psychiatrie,
+  - 38. ambulancia klinickej psychológie,
 
-  - 39. ambulancia klinickej psychológie,
+  - 39. ambulancia klinickej logopédie,
 
-  - 40. ambulancia klinickej logopédie,
+  - 40. ambulancia liečebnej pedagogiky,
 
-  - 41. ambulancia liečebnej pedagogiky,
+  - 41. ambulancia lekárskej genetiky,
 
-  - 42. ambulancia lekárskej genetiky,
+  - 42. ambulancia klinickej imunológie a alergológie,
 
-  - 43. ambulancia klinickej imunológie a alergológie,
+  - 43. ambulancia fyziatrie, balneológie a liečebnej rehabilitácie,
 
-  - 44. ambulancia fyziatrie, balneológie a liečebnej rehabilitácie,
+  - 44. ambulancia akupunktúry,
 
-  - 45. ambulancia akupunktúry,
+  - 45. ambulancia telovýchovného lekárstva,
 
-  - 46. ambulancia telovýchovného lekárstva,
+  - 46. ambulancia pediatrickej endokrinológie a diabetológie a porúch látkovej premeny a výživy,
 
-  - 47. ambulancia andrológie,
+  - 47. ambulancia pediatrickej chirurgie,
 
-  - 48. ambulancia pediatrickej endokrinológie a diabetológie a porúch látkovej premeny a výživy,
+  - 48. ambulancia pediatrickej gastroenterológie, hepatológie a výživy,
 
-  - 49. ambulancia pediatrickej chirurgie,
+  - 49. ambulancia pediatrickej gynekológie,
 
-  - 50. ambulancia pediatrickej gastroenterológie, hepatológie a výživy,
+  - 50. ambulancia pediatrickej hematológie a onkológie,
 
-  - 51. ambulancia pediatrickej gynekológie,
+  - 51. ambulancia pediatrickej kardiológie,
 
-  - 52. ambulancia pediatrickej hematológie a onkológie,
+  - 52. ambulancia pediatrickej nefrológie,
 
-  - 53. ambulancia pediatrickej kardiológie,
+  - 53. ambulancia pediatrickej neurológie,
 
-  - 54. ambulancia pediatrickej nefrológie,
+  - 54. ambulancia pediatrickej oftalmológie,
 
-  - 55. ambulancia pediatrickej neurológie,
+  - 55. ambulancia pediatrickej pneumológie a ftizeológie,
 
-  - 56. ambulancia pediatrickej oftalmológie,
+  - 56. ambulancia pediatrickej reumatológie,
 
-  - 57. ambulancia pediatrickej pneumológie a ftizeológie,
+  - 57. ambulancia pediatrickej urológie,
 
-  - 58. ambulancia pediatrickej reumatológie,
+  - 58. ambulancia paliatívnej medicíny,
 
-  - 59. ambulancia pediatrickej urológie,
+  - 59. ambulancia nukleárnej medicíny,
 
-  - 60. ambulancia paliatívnej medicíny,
+  - 60. ambulancia dentálnej hygieny,
 
-  - 61. ambulancia nukleárnej medicíny,
+  - 61. hepatologická ambulancia,
 
-  - 62. ambulancia dentálnej hygieny,
+  - 62. ambulancia anestéziológie a intenzívnej medicíny len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť v odbore anestéziológia a intenzívna medicína,
 
-  - 63. špecializovaná ambulancia Horskej záchrannej služby,
+  - 63. pediatrická ambulancia len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť najmenej v jednom pediatrickom odbore,
 
-  - 64. špecializovaná ambulancia Hasičského záchranného zboru.
+  - 64. špecializovaná ambulancia Horskej záchrannej služby,
+
+  - 65. špecializovaná ambulancia Hasičského záchranného zboru.

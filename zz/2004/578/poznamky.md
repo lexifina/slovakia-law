@@ -80,6 +80,8 @@
 
 - 23aa) § 12 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
+- 23aaa) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
 - 24) Čl. 54 Ústavy Slovenskej republiky.
 
 - 24a) § 22 ods. 7 písm. h) prvý bod zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

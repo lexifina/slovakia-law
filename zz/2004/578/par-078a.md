@@ -16,11 +16,21 @@
 
 - f) dátum nadobudnutia právoplatnosti rozhodnutia,
 
-- g) dátum dočasného pozastavenia licencie,
+- g) dátum začatia dočasného pozastavenia licencie,
 
-- h) dátum zrušenia licencie,
+- h) číslo rozhodnutia o dočasnom pozastavení licencie,
 
-- i) dátum zániku platnosti licencie.
+- i) dôvod dočasného pozastavenia licencie,
+
+- j) dátum skončenia dočasného pozastavenia licencie,
+
+- k) číslo rozhodnutia o zrušení licencie,
+
+- l) dôvod zrušenia licencie,
+
+- m) dátum zrušenia licencie,
+
+- n) dátum zániku platnosti licencie.
 
 (3) Komora v registri licencií bezodkladne po nadobudnutí právoplatnosti rozhodnutia vykoná zmenu údajov podľa odseku 2.
 

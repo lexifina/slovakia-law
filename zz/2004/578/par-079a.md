@@ -14,7 +14,7 @@
 
 - c) dodržiavať poradie poistencov v zozname poistencov čakajúcich na poskytnutie zdravotnej starostlivosti, ak taký zoznam zdravotná poisťovňa vytvorila,<sup>58a</sup>)
 
-- d) oznamovať príslušnej zdravotnej poisťovni k poslednému dňu v kalendárnom mesiaci na tlačive predpísanom úradom pre dohľad
+- d) oznamovať príslušnej zdravotnej poisťovni k poslednému dňu v kalendárnom mesiaci v listinnej podobe na tlačive predpísanom úradom pre dohľad alebo v elektronickej podobe
 
   - 1. každé poskytnutie zdravotnej starostlivosti osobe v dôsledku porušenia liečebného režimu<sup>58b</sup>) alebo užitia alkoholu alebo inej návykovej látky,
 
