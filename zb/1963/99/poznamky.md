@@ -112,6 +112,10 @@
 
 - 30g) § 2 a 3 vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 246/2008 Z. z. o pravidlách a postupoch pri premene menovitej hodnoty vkladov do imania a menovitej hodnoty základných imaní zo slovenskej meny na eurá.
 
+- 30h) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 606/2013 zo dňa 12. júna 2013 o vzájomnom uznávaní ochranných opatrení v občianskych veciach (Ú. v. EÚ L 181, 29. 6. 2013).
+
+- 30i) § 14g zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 54/2015 Z. z.
+
 - 31) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 32) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení zákona č. 608/2004 Z. z.
