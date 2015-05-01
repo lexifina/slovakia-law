@@ -16,13 +16,13 @@
 
 (2) Výška úhrady poistenca
 
-- a) za spracúvanie údajov zistených pri poskytovaní ambulantnej starostlivosti v elektronickej forme pri každej návšteve [§ 38 ods. 3 písm. b)] je najviac 0,64 % zo sumy životného minima,
+- a) za spracúvanie údajov zistených pri poskytovaní ambulantnej starostlivosti v elektronickej forme pri každej návšteve [§ 38 ods. 3 písm. b)] je najviac 0,00 % zo sumy životného minima,
 
 - b) za spracúvanie údajov zistených pri poskytovaní ambulantnej starostlivosti v rámci lekárskej služby prvej pomoci a ústavnej pohotovostnej služby pri každej návšteve [§ 38 ods. 3 písm. c)] je najviac 1,7 % zo sumy životného minima,
 
-- c) za štatistické spracúvanie lekárskeho predpisu súvisiace s vydaním liekov alebo dietetických potravín predpísaných na jednom lekárskom predpise [§ 38 ods. 3 písm. d)] je najviac 0,64 % zo sumy životného minima,
+- c) za štatistické spracúvanie lekárskeho predpisu súvisiace s vydaním liekov alebo dietetických potravín predpísaných na jednom lekárskom predpise [§ 38 ods. 3 písm. d)] je najviac 0,64 % zo sumy životného minima; ak ide o lekársky predpis s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0,00 % zo sumy životného minima.
 
-- d) za štatistické spracúvanie lekárskeho poukazu súvisiace s vydaním zdravotníckych pomôcok predpísaných na jednom lekárskom poukaze [§ 38 ods. 3 písm. e)] je najviac 0,64 % zo sumy životného minima,
+- d) za štatistické spracúvanie lekárskeho poukazu súvisiace s vydaním zdravotníckych pomôcok predpísaných na jednom lekárskom poukaze [§ 38 ods. 3 písm. e)] je najviac 0,64 % zo sumy životného minima; ak ide o lekársky poukaz s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0,00 % zo sumy životného minima.
 
 - e) za pobyt sprievodcu v ústavnej starostlivosti [§ 38 ods. 3 písm. f)] za každý deň pobytu je najviac 2,8 % zo sumy životného minima,
 

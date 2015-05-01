@@ -62,6 +62,10 @@
 
 - 28a) § 2 písm. a) a § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 28b) § 120 ods. 1 písm. v) zákona č. 362/2011 Z. z. v znení neskorších predpisov.
+
+- 28c) § 5 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 77/2015 Z. z.
+
 - 30) § 7 zákona č. 581/2004 Z. z.
 
 - 31) § 2 ods. 11 zákona č. 576/2004 Z. z.
