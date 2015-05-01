@@ -2,13 +2,7 @@
 
 - 2) Nariadenie vlády Slovenskej republiky č. 253/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou azbestu pri práci.
 
-- 3) § 23 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení zákona č. 128/2002 Z. z.
-
-- Výnos Ministerstva hospodárstva Slovenskej republiky č. 2/2002 Z. z. na vykonanie zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov (oznámenie č. 384/2002 Z. z.).
-
-- 4) § 24 zákona č. 163/2001 Z. z. v znení neskorších predpisov.
-
-- Výnos Ministerstva hospodárstva Slovenskej republiky č. 2/2002 Z. z. v znení neskorších predpisov.
+- 3) Príloha I k nariadeniu Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
 
 - 5) Nariadenie vlády Slovenskej republiky č. 355/2006 Z. z. o ochrane zamestnancov pred rizikami súvisiacimi s expozíciou chemickým faktorom pri práci.
 
