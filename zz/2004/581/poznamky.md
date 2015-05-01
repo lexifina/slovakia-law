@@ -98,6 +98,10 @@
 
 - 24a) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
+- 24aa) § 120 ods. 1 písm. a) až u) zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24ab) Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 24b) Príloha č. 7 k zákonu č. 577/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
 - 25) Zákon č. 577/2004 Z. z.
@@ -146,11 +150,25 @@
 
 - 35aab) § 27 ods. 2 a § 27a ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 185/2012 Z. z.
 
+- 35aac) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
 
 - 35c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 35ca) § 23 ods. 18 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 35cb) § 9c ods. 6 zákon č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 35cc) § 29b ods. 6 až 14 a ods. 16 až 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 35cd) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35ce) § 8 ods. 6 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 35cf) § 4 ods. 2 písm. a) zákona č. 122/2013 Z. z.
 
 - 35d) § 5 ods. 1 písm. a) až h), j) a k) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -202,11 +220,11 @@
 
 - 41ba) § 16 ods. 15 zákona č. 580/2004 Z. z. v znení zákona č. 421/2012 Z. z.
 
-- 41bb) § 7 ods. 6 zákona č. 580/2004 Z. z. v znení zákona č. 41/2013 Z. z.
-
 - 41bc) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 41bd) § 68 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 41be) § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z.
 
 - 41c) § 3 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
@@ -252,6 +270,8 @@
 
 - § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
+- 45b) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 46) § 41 ods. 2 a § 116 až 152 Trestného zákona.
 
 - 47) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
@@ -263,6 +283,8 @@
 - 50) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - Zákon č. 580/2004 Z. z.
+
+- 50a) Napríklad § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 51) § 2 ods. 1 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -387,6 +409,12 @@
 - 95a) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 95b) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 95c) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 95d) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 95e) Napríklad zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov, zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 96) § 167 a 168 Trestného zákona.
 

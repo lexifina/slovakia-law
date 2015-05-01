@@ -26,7 +26,7 @@
 
 - h) úhrada čiastky, o ktorú bol limit spoluúčasti prekročený (§ 6 ods. 1 písm. s),
 
-- i) príspevok na správu národného zdravotníckeho informačného systému (§ 8b).
+- i) príspevok na správu a rozvoj národného zdravotníckeho informačného systému (§ 8b),
 
 (4) Ročný úhrn podľa odseku 1 sa vypočíta ako súčet preddavkov na poistné<sup>18f</sup>) splatných v príslušnom kalendárnom roku, nedoplatkov z ročného zúčtovania poistného<sup>18g</sup>) splatných v príslušnom kalendárnom roku a úrokov z omeškania<sup>18h</sup>) splatných v príslušnom kalendárnom roku znížený o preplatky z ročného zúčtovania poistného<sup>18b</sup>) splatné v príslušnom kalendárnom roku.
 

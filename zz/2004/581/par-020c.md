@@ -6,11 +6,11 @@
 
 (3) Podmienkou na získanie odbornej spôsobilosti pre klasifikačný systém sú
 
-- a) pracovnoprávny vzťah s užívateľom klasifikačného systému,
+- a) pracovnoprávny vzťah s užívateľom klasifikačného systému, ministerstvom zdravotníctva alebo úradom,
 
 - b) vysokoškolské vzdelanie druhého stupňa.
 
-(4) Žiadosť o odbornú prípravu podáva centru pre klasifikačný systém užívateľ klasifikačného systému (§ 20b ods. 2), s ktorým je osoba v pracovnoprávnom vzťahu.
+(4) Žiadosť o odbornú prípravu podáva centru pre klasifikačný systém užívateľ klasifikačného systému (§ 20b ods. 2), s ktorým je osoba v pracovnoprávnom vzťahu, zamestnanec ministerstva zdravotníctva alebo zamestnanec úradu.
 
 (5) Na základe žiadosti podľa odseku 4 centrum pre klasifikačný systém vykoná odbornú prípravu osoby do šiestich kalendárnych mesiacov odo dňa podania žiadosti.
 
@@ -30,7 +30,7 @@
 
 - a) meno, priezvisko a akademický titul odborne spôsobilej osoby,
 
-- b) názov a sídlo užívateľa klasifikačného systému, s ktorým je osoba v pracovnoprávnom vzťahu,
+- b) názov alebo obchodné meno a sídlo zamestnávateľa odborne spôsobilej osoby,
 
 - c) dátum získania odbornej spôsobilosti pre klasifikačný systém.
 
