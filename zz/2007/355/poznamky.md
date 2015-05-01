@@ -48,6 +48,8 @@
 
 - 12b) § 59 ods. 2 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
+- 12c) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
+
 - 13) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1223/2009 z 30. novembra 2009 o kozmetických výrobkoch (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
 
 - 13a) § 3 ods. 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.

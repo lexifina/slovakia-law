@@ -4,7 +4,7 @@
 
 - a) všeobecnému lekárovi, s ktorým má posudzovaná osoba uzatvorenú dohodu o poskytovaní zdravotnej starostlivosti,<sup>37a</sup>)
 
-- b) Národnému centru zdravotníckych informácií,
+- b) národnému centru,
 
 - c) posudzovanej osobe,
 

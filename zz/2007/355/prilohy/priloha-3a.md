@@ -1,1 +1,1 @@
-Príloha č. 3a k zákonu č. 355/2007 Z. z. [príloha 3a](../assets/584f8e1bc06edfb93c4f64157e9cf414fcbbf47af4f6ad688893e59b02d6c62a.pdf)
+Príloha č. 3a k zákonu č. 355/2007 Z. z. [príloha 3a](../assets/6e32c598f2ef763a44dc97acc0d493df3eea958e223f23002eb5dc8bf73faaf9.pdf)
