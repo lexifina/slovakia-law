@@ -8,6 +8,8 @@
 
 - 6) § 10 ods. 2 zákona č. 129/2002 Z. z.
 
+- 6b) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
+
 - 7) § 4 zákona č. 578/2004 Z. z.
 
 - 8) § 2 ods. 2 písm. b) zákona č. 129/2002 Z. z.
