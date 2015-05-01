@@ -20,9 +20,7 @@
 
 - 4a) Zákon č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov v znení zákona č. 344/2007 Z. z.
 
-- 5) § 18 až 38 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
-
-- Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+- 5) § 32 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 6) § 62 ods. 1 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
@@ -69,6 +67,8 @@
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 15) § 2 ods. 3 zákona č. 576/2004 Z. z.
+
+- 15a) Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 16) § 79 ods. 1 písm. d) zákona č. 578/2004 Z. z.
 
@@ -187,6 +187,8 @@
 - 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+- 51d) § 23a až 23c zákona č. 253/1998 Z. z. v znení neskorších predpisov.
 
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 

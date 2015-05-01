@@ -55,5 +55,3 @@
 (10) V rozhodnutí podľa odseku 9 úrad určí každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a). Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
 
 (11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie poistného pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
-
-(12) Zdravotná poisťovňa nesmie vykonať opravu údajov oznámených podľa odseku 2 písm. a) až d); na akúkoľvek dodatočnú opravu údajov úrad neprihliada.

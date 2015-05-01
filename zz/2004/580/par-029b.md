@@ -54,38 +54,8 @@
 
 (15) Subjekty uvedené v odseku 6 poskytujú zdravotným poisťovniam a úradu súčinnosť pri ročnom zúčtovaní poistného.
 
-(16) Ministerstvo vnútra Slovenskej republiky poskytuje úradu elektronicky údaje z registra obyvateľov Slovenskej republiky na účel overenia informácií o poistencovi podľa § 23 ods. 1 písm. a) v tomto rozsahu:
+(16) Ministerstvo vnútra Slovenskej republiky sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)
 
-- a) meno, priezvisko a rodné priezvisko,
-
-- b) pohlavie,
-
-- c) dátum, miesto a okres narodenia; štát narodenia, ak sa občan narodil v zahraničí,
-
-- d) rodné číslo,
-
-- e) okres pobytu,
-
-- f) obec pobytu,
-
-- g) časť obce,
-
-- h) ulica, ak sa obec člení na ulice,
-
-- i) súpisné číslo a orientačné číslo domu, prípadne aj číslo bytu,
-
-- j) druh pobytu,
-
-- k) predchádzajúci trvalý pobyt v rozsahu podľa písmen e) až i),
-
-- l) doba prechodného pobytu,
-
-- m) štát, miesto a predpokladanú dobu pobytu, ak ide o občanov cestujúcich do zahraničia na viac ako 90 dní,
-
-- n) štát a miesto pobytu a údaj o poslednom trvalom pobyte, ak ide o občanov, ktorí nemajú trvalý pobyt na území Slovenskej republiky,
-
-- o) dátum zmeny údaja, nový platný údaj o rodnom čísle, mene, priezvisku, trvalom pobyte.
-
-(17) Ministerstvo vnútra Slovenskej republiky poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 16. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s Ministerstvom vnútra Slovenskej republiky. Úrad je povinný tieto údaje poskytnúť zdravotnej poisťovni do ôsmich pracovných dní odo dňa ich prijatia.
+(17) Ministerstvo vnútra Slovenskej republiky poskytuje súčinnosť úradu pri overovaní údajov uvedených v odseku 16. Preukazovanie skutočností podľa § 23 ods.1 písm. a) upraví dohoda, ktorú uzatvorí úrad s Ministerstvom vnútra Slovenskej republiky.
 
 (18) Preukazovanie skutočností podľa § 11 ods. 7 písm. v) prvého bodu sa upraví dohodou, ktorú uzatvorí úrad s Ústredím práce, sociálnych vecí a rodiny. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do troch dní odo dňa ich prijatia.

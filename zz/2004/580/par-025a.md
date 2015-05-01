@@ -2,13 +2,13 @@
 
 (1) Dlžník na účely tohto zákona je
 
-- a) poistenec podľa § 9 ods. 2 prvej vety,
+- a) poistenec podľa § 9 ods. 2,
 
 - b) platiteľ poistného, ktorý nezaplatil zdravotnej poisťovni preddavok na poistné (§ 16) za tri mesiace v príslušnom kalendárnom roku alebo nedoplatok v celkovej sume vyššej ako 10 eur.
 
 (2) Zoznam dlžníkov obsahuje
 
-- a) u fyzickej osoby meno a priezvisko, trvalý pobyt alebo prechodný pobyt a výšku pohľadávky a ak ide o samostatne zárobkovo činnú osobu, obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo, ak je pridelené, a výšku pohľadávky,
+- a) u fyzickej osoby meno a priezvisko, trvalý pobyt alebo prechodný pobyt výšku pohľadávky a údaj o tom, či má poistenec právo na úhradu zdravotnej starostlivosti podľa § 9 ods. 1 a ak ide o samostatne zárobkovo činnú osobu, obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo, ak je pridelené, výšku pohľadávky a údaj o tom, či má poistenec právo na úhradu zdravotnej starostlivosti podľa § 9 ods. 1,
 
 - b) u právnickej osoby obchodné meno, sídlo alebo miesto podnikania, identifikačné číslo a výšku pohľadávky.
 
