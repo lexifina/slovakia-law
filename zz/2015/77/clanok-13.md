@@ -1,0 +1,3 @@
+# Čl. XIII
+
+Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, ako vyplýva zo zmien a doplnení vykonaných zákonom č. 140/2008 Z. z., zákonom č. 461/2008 Z. z., zákonom č. 540/2008 Z. z., zákonom č. 170/2009 Z. z., zákonom č. 67/2010 Z. z., zákonom č. 132/2010 Z. z., zákonom č. 136/2010 Z. z., zákonom č. 172/2011 Z. z., zákonom č. 470/2011 Z. z., zákonom č. 306/2012 Z. z., zákonom č. 74/2013 Z. z., zákonom č. 153/2013 Z. z., zákonom č. 204/2014 Z. z. a týmto zákonom.
