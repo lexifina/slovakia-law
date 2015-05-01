@@ -20,7 +20,13 @@
 
 - g) dátum nadobudnutia právoplatnosti povolenia,
 
-- h) dátum zrušenia povolenia.
+- h) dátum zrušenia povolenia,
+
+- i) číslo rozhodnutia o zrušení povolenia,
+
+- j) označenie orgánu, ktorý rozhodnutie vydal, a jeho sídlo,
+
+- k) identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky.<sup>23aa</sup>)
 
 (4) Na spracúvanie osobných údajov podľa tohto zákona sa vzťahuje všeobecný predpis o ochrane osobných údajov.<sup>23a</sup>)
 
