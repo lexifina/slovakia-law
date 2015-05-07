@@ -1,1 +1,1 @@
-Príloha č. 18 k vyhláške č. 25/2004 Z. z. [Vzor 18 - Návrh na zápis zmeny zapísaných údajov o inej právnickej osobe do obchodného registra](../assets/45f91a7ec6e8959b5a5bb46cdaef37d6fb0230330d538b0a3f409ced9efcf673.pdf)
+Príloha č. 18 k vyhláške č. 25/2004 Z. z. [Vzor 18 - Návrh na zápis zmeny zapísaných údajov o inej právnickej osobe do obchodného registra](../assets/ec66b3d84cc04a28ded9082d84e881c40ed55fe110a055818e4c02bd26bbc220.pdf)

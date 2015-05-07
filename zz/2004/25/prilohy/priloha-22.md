@@ -1,1 +1,1 @@
-Príloha č. 22 k vyhláške č. 25/2004 Z. z. [Vzor 22 - Návrh na výmaz Európskeho zoskupenia hospodárskych záujmov z obchodného registra po prenesení jeho sídla do iného členského štátu](../assets/a4d1cbc061e1e9a8a1ebc13485cfe97fa7f0c22cc76344faa95bd30856881989.pdf)
+Príloha č. 22 k vyhláške č. 25/2004 Z. z. [Vzor 22 - Návrh na výmaz Európskeho zoskupenia hospodárskych záujmov z obchodného registra po prenesení jeho sídla do iného členského štátu](../assets/3b46fb41aeaee567ea4eb46b5fc7d92134f2e3294222576a8fd13f8632ae29c3.pdf)
