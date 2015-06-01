@@ -1,5 +1,3 @@
-- 1) § 3 ods. 1 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
-
 - 2) Nariadenie vlády Slovenskej republiky č. 513/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na jednoduché tlakové nádoby.
 
 - Vyhláška Ministerstva hospodárstva Slovenskej republiky č. 330/2001 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na aerosólové rozprašovače.
@@ -27,5 +25,9 @@
 - Predpisy medzinárodnej organizácie civilného letectva („ICAO“).
 
 - Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel.
+
+- 4a) Čl. 2 ods. 7 a 8 nariadenia Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 (Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
+
+- 4b) Príloha I časti 2 a 3 k nariadeniu (ES) č. 1272/2008 v platnom znení.
 
 - 5) Napríklad Protokol k Európskej dohode o pridružení uzatvorenej medzi Európskymi spoločenstvami a ich členskými štátmi na jednej strane a Slovenskou republikou na druhej strane o posudzovaní zhody a uznávaní priemyselných výrobkov – PECA.
