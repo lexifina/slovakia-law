@@ -18,7 +18,21 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - „zu)
 
-- dodržiavať cenník všetkých zdravotných výkonov, ktorý musí bezodkladne a preukázateľne zaslať vrátane každej jeho zmeny samosprávnemu kraju príslušnému podľa miesta prevádzkovania zdravotníckeho zariadenia,“.
+- dodržiavať cenník všetkých zdravotných výkonov, ktorý musí bezodkladne a preukázateľne zaslať vrátane každej jeho zmeny samosprávnemu kraju príslušnému podľa miesta prevádzkovania zdravotníckeho zariadenia,
+
+- zv)
+
+- umiestniť na prístupnom a viditeľnom mieste vo vstupných priestoroch alebo v priestoroch čakárne zoznam zdravotných výkonov poskytovaných pri chorobe uvedenej v zozname chorôb, pri ktorých sa zdravotné výkony plne uhrádzajú alebo čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia, a služieb súvisiacich s poskytovaním zdravotnej starostlivosti, ktoré poskytovateľ poskytuje a pri ktorých môže požadovať úhradu podľa osobitných predpisov<sup>55jah</sup>) (ďalej len „zoznam zdravotných výkonov a služieb, pri ktorých možno požadovať úhradu“), ak ide o poskytovateľa, s ktorým má zdravotná poisťovňa uzatvorenú zmluvu podľa osobitného predpisu,<sup>11</sup>)
+
+- zw)
+
+- dodržiavať zoznam zdravotných výkonov a služieb, pri ktorých možno požadovať úhradu, ktorý musí bezodkladne a preukázateľne zaslať vrátane každej jeho zmeny samosprávnemu kraju príslušnému podľa miesta prevádzkovania zdravotníckeho zariadenia, ak ide o poskytovateľa, s ktorým má zdravotná poisťovňa uzatvorenú zmluvu podľa osobitného predpisu.<sup>11</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 55jah znie:
+
+  - „55jah)
+
+  - Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.“.
 
 - 4. V § 79 ods. 3 písm. a) sa za slová „zi) až zp)“ vkladá čiarka a slová „zu) až zw)“.
 
