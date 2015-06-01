@@ -16,6 +16,22 @@ Zákon č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných lieč
 
 - identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky.<sup>23aa</sup>)“.
 
+- 2. V § 34a odsek 6 znie:
+
+- „(6)
+
+- Štátna kúpeľná komisia poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aa</sup>) údaje z registra povolení Národnému centru zdravotníckych informácií na účely vedenia Národného registra poskytovateľov zdravotnej starostlivosti a Úradu pre dohľad nad zdravotnou starostlivosťou na účel pridelenia číselného kódu poskytovateľa zdravotnej starostlivosti.<sup>23ab</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 23aa a 23ab znejú:
+
+  - „23aa)
+
+  - § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+  - 23ab)
+
+  - § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 3. Za § 50b sa vkladá § 50c, ktorý vrátane nadpisu znie:
 
 - „§ 50c

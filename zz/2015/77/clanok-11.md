@@ -82,6 +82,12 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky.“.
 
+- 4. V § 7 odsek 12 znie:
+
+- „(12)
+
+- Ministerstvo zdravotníctva a samosprávny kraj poskytujú v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>10a</sup>) údaje z registra povolení Národnému centru zdravotníckych informácií (ďalej len „národné centrum“); ak ide o povolenie na poskytovanie lekárenskej starostlivosti, poskytujú údaje aj Úradu pre dohľad nad zdravotnou starostlivosťou.“.
+
 - 5. V § 15 sa odsek 1 dopĺňa písmenom ag), ktoré znie:
 
 - „ag)

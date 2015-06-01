@@ -38,6 +38,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 10. V nadpise pod § 8b a prvej vete sa za slovo „správu“ vkladajú slová „a rozvoj“ a druhej vete sa slová „0,27 %“ nahrádzajú slovami „0,41 %“.
 
+- 12. V § 15 ods. 1 písm. w) sa slová „najneskôr posledný deň kalendárneho mesiaca za predchádzajúci kalendárny mesiac“ nahrádzajú slovami „denne pri zmene týchto údajov“.
+
 - 13. V § 15 sa odsek 1 dopĺňa písmenami y) až ab), ktoré znejú:
 
 - „y)
@@ -46,13 +48,25 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - z)
 
-- poskytovať národnému centru údaje zo zmlúv o poskytovaní zdravotnej starostlivosti uzatvorených s poskytovateľmi zdravotnej starostlivosti a údaje z dodatkov k zmluvám o poskytovaní zdravotnej starostlivosti v rozsahu číselný kód zdravotnej poisťovne, identifikačné číslo poskytovateľa zdravotnej starostlivosti, dátum platnosti zmluvy a dátum ukončenia platnosti zmluvy, číselný kód zdravotníckeho pracovníka a číselný kód poskytovateľa zdravotnej starostlivosti pridelený úradom, dátumy začiatku platnosti, dočasného pozastavenia, obnovenia platnosti a ukončenia platnosti evidencie číselného kódu zdravotníckeho pracovníka a číselného kódu poskytovateľa zdravotnej starostlivosti v príslušnej zmluve, počet lekárskych miest,“.
+- poskytovať národnému centru údaje zo zmlúv o poskytovaní zdravotnej starostlivosti uzatvorených s poskytovateľmi zdravotnej starostlivosti a údaje z dodatkov k zmluvám o poskytovaní zdravotnej starostlivosti v rozsahu číselný kód zdravotnej poisťovne, identifikačné číslo poskytovateľa zdravotnej starostlivosti, dátum platnosti zmluvy a dátum ukončenia platnosti zmluvy, číselný kód zdravotníckeho pracovníka a číselný kód poskytovateľa zdravotnej starostlivosti pridelený úradom, dátumy začiatku platnosti, dočasného pozastavenia, obnovenia platnosti a ukončenia platnosti evidencie číselného kódu zdravotníckeho pracovníka a číselného kódu poskytovateľa zdravotnej starostlivosti v príslušnej zmluve, počet lekárskych miest,
+
+- aa)
+
+- dodržiavať príslušné štandardy zdravotníckej informatiky,<sup>35aad</sup>)
+
+- ab)
+
+- poskytovať národnému centru údaje podľa písmena z) v súlade s príslušnými štandardmi zdravotníckej informatiky.<sup>35aad</sup>)“.
 
   - Poznámky pod čiarou k odkazom 35aac a 35aad znejú:
 
   - „35aac)
 
-  - § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.“.
+  - § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
+
+  - 35aad)
+
+  - § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
 
 - 15. V § 16 ods. 6 sa slová „f), h) až k)“ nahrádzajú slovami „f) až k)“.
 
@@ -97,6 +111,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - „35cf)
 
   - § 4 ods. 2 písm. a) zákona č. 122/2013 Z. z.“.
+
+- 18. V § 20 ods. 1 písm. b) sa za slovo „prvého,“ vkladá slovo „druhého,“ a na konci sa pripájajú tieto slová: „v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>35aad</sup>)“.
 
 - 19. V § 20 ods. 1 písm. d) sa spojka „a“ nahrádza čiarkou a za slová „poskytovateľom zdravotnej starostlivosti“ sa vkladajú slová „a zariadeniam sociálnych služieb<sup>14a</sup>) a zariadeniam sociálnoprávnej ochrany detí a sociálnej kurately<sup>14b</sup>)“.
 

@@ -56,6 +56,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - identifikátor zdravotníckeho zariadenia podľa príslušných štandardov zdravotníckej informatiky.<sup>23aaa</sup>)“.
 
+- 7. V § 26a ods. 5 sa slová „najmenej raz za desať dní“ nahrádzajú slovami „v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>)“ a na konci sa pripájajú tieto slová: „na účely vedenia Národného registra poskytovateľov zdravotnej starostlivosti a úradu pre dohľad na účely pridelenia číselného kódu poskytovateľa.<sup>55k</sup>)“.
+
 - 8. V § 63 ods. 5 sa číslica „5“ nahrádza číslicou „15“.
 
 - 9. § 63 sa dopĺňa odsekom 11, ktorý znie:
@@ -73,6 +75,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - h)
 
 - dôvod zrušenia registrácie.“.
+
+- 11. V § 64 ods. 3 sa slová „najmenej raz za desať dní“ nahrádzajú slovami „v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>)“.
 
 - 13. V § 70 ods. 2 písmeno e) znie:
 
@@ -105,6 +109,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - dôvod zrušenia licencie.“.
 
   - Doterajšie písmená h) a i) sa označujú ako písmená m) a n).
+
+- 16. V § 78a odsek 4 znie:
+
+- „(4)
+
+- Komora poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>) údaje z registra licencií v rozsahu podľa odseku 2 písm. b) až d) a f) až n) a § 70 ods. 2 písm. c) a e) národnému centru.“.
 
 - 22. V § 79 ods. 7 sa slová „ktorý je držiteľom povolenia“ nahrádzajú slovami „podľa § 4“ a za slovo „povolenia“ sa vkladá čiarka a slová „licencie na výkon samostatnej zdravotníckej praxe alebo živnostenského oprávnenia“.
 
