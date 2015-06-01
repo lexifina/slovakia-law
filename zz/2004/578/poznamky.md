@@ -224,6 +224,8 @@
 
 - 55jag) Druhá hlava zákona č. 576/2004 Z. z.
 
+- 55jah) Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.

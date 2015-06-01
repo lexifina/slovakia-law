@@ -34,4 +34,4 @@
 
 (3) Komora v registri licencií bezodkladne po nadobudnutí právoplatnosti rozhodnutia vykoná zmenu údajov podľa odseku 2.
 
-(4) Komora poskytuje v elektronickej podobe najmenej raz za desať dní údaje z registra licencií národnému centru.
+(4) Komora poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>) údaje z registra licencií v rozsahu podľa odseku 2 písm. b) až d) a f) až n) a § 70 ods. 2 písm. c) a e) národnému centru.

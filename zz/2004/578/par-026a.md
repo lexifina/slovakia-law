@@ -36,4 +36,4 @@
 
 (4) Orgán príslušný na vydanie povolenia bezodkladne po nadobudnutí právoplatnosti rozhodnutia vykoná v registri povolení zápis údajov alebo zmenu údajov podľa odseku 3.
 
-(5) Orgán príslušný na vydanie povolenia poskytuje v elektronickej podobe najmenej raz za desať dní údaje z registra povolení Národnému centru zdravotníckych informácií (ďalej len „národné centrum“).<sup>23aa</sup>)
+(5) Orgán príslušný na vydanie povolenia poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>) údaje z registra povolení Národnému centru zdravotníckych informácií (ďalej len „národné centrum“)<sup>23aa</sup>) na účely vedenia Národného registra poskytovateľov zdravotnej starostlivosti a úradu pre dohľad na účely pridelenia číselného kódu poskytovateľa.<sup>55k</sup>)
