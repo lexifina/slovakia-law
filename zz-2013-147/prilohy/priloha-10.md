@@ -1,0 +1,7 @@
+Príloha č. 10 k vyhláške č. 147/2013 Z. z.
+
+- Zoznam preberaných právne záväzných aktov Európskej únie
+
+  - 1. Smernica Európskeho parlamentu a Rady 2006/25/ES z 5. apríla 2006 o minimálnych zdravotných a bezpečnostných požiadavkách týkajúcich sa vystavenia pracovníkov rizikám vyplývajúcim z fyzikálnych faktorov (umelé optické žiarenie) (19. samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS) (Ú. v. EÚ L 114, 27. 4. 2006) v znení smernice Európskeho parlamentu a Rady 2007/30/ES z 20. júna 2007, ktorou sa mení a dopĺňa smernica Rady 89/391/EHS, jej samostatné smernice, ako aj smernice Rady 83/477/EHS, 91/383/EHS, 92/29/EHS a 94/33/ES s cieľom zjednodušiť a zracionalizovať správy o vykonávaní v praxi (Ú. v. EÚ L 165, 27. 6. 2007) a v znení nariadenia Európskeho parlamentu a Rady (ES) č. 1137/2008 z 22. októbra 2008 o prispôsobení určitých nástrojov, na ktoré sa vzťahuje postup ustanovený v článku 251 zmluvy, rozhodnutiu Rady 1999/468/ES, pokiaľ ide o regulačný postup s kontrolou – Prispôsobenie právnych aktov regulačnému postupu s kontrolou – Prvá časť (Ú. v. EÚ L 311, 21. 11. 2008).
+
+  - 2. Smernica Európskeho parlamentu a Rady 2009/104/ES zo 16. septembra 2009 o minimálnych požiadavkách na bezpečnosť a ochranu zdravia pri používaní pracovných prostriedkov pracovníkmi pri práci (druhá samostatná smernica v zmysle článku 16 ods. 1 smernice 89/391/EHS) (kodifikované znenie) (Ú. v. EÚ L 260, 3. 10. 2009).
