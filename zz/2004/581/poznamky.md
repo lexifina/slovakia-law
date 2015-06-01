@@ -152,6 +152,8 @@
 
 - 35aac) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
 
+- 35aad) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
 - 35b) § 9 ods. 4 zákona č. 580/2004 Z. z.
