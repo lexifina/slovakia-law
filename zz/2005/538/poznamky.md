@@ -40,6 +40,10 @@
 
 - 23a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 23aa) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 23ab) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 23b) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 24) Nariadenie vlády Slovenskej republiky č. 40/2002 Z. z. o ochrane zdravia pred hlukom a vibráciami v znení neskorších predpisov.

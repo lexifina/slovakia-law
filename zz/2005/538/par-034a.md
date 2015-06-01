@@ -32,4 +32,4 @@
 
 (5) Štátna kúpeľná komisia bezodkladne po vydaní rozhodnutia vykoná v registri povolení zápis údajov alebo zmenu údajov podľa odseku 3.
 
-(6) Štátna kúpeľná komisia poskytuje v elektronickej podobe najmenej raz za desať dní údaje z registra povolení Národnému centru zdravotníckych informácií.
+(6) Štátna kúpeľná komisia poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aa</sup>) údaje z registra povolení Národnému centru zdravotníckych informácií na účely vedenia Národného registra poskytovateľov zdravotnej starostlivosti a Úradu pre dohľad nad zdravotnou starostlivosťou na účel pridelenia číselného kódu poskytovateľa zdravotnej starostlivosti.<sup>23ab</sup>)
