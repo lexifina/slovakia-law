@@ -50,4 +50,8 @@
 
 - 5k) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 6) § 1 ods. 2 zákona č. 135/1961 Zb. v znení zákona Národnej rady Slovenskej republiky č. 160/1996 Z. z.
+
+- STN 73 6108 Lesná dopravná sieť.
+
 - 8) § 9 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
