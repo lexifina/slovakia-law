@@ -34,6 +34,12 @@
 
 - 16aa) § 3, 8, 12,18 a 19 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
+- 16ab) Bod 4.2.2. prílohy XII nariadenia Komisie (ES) č. 809/2004 z 29. apríla 2004, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2003/71/ES, pokiaľ ide o informácie obsiahnuté v prospekte, ako aj ich formát, uvádzanie odkazov a uverejnenie týchto prospektov a šírenie reklamy (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 7; Ú. v. EÚ L 149, 30. 4. 2004) v platnom znení.
+
+- 16ac) § 18 až 24 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 16ad) Kapitoly 4 a 6 prílohy I usmernenia Európskej centrálnej banky č. ECB/2011/14 (2011/817/EÚ) z 20. septembra 2011 o nástrojoch a postupoch menovej politiky Eurosystému (Ú. v. EÚ L 331, 14. 12. 2011) v platnom znení.
+
 - 16b) Čl. 38 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241, 2. 9. 2006).
 
 - 17) Čl. 38 a 39 nariadenia Komisie (ES) č. 1287/2006/ES.

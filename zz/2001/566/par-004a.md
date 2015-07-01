@@ -1,51 +1,65 @@
 # § 4a Investičné certifikáty
 
-(1) Investičný certifikát je cenný papier, ktorého hodnota je naviazaná na hodnotu indexov, úrokových mier, akcií, dlhových cenných papierov, výmenných kurzov, komodít, prípadne iných podkladových aktív (košov), alebo ich kombinácie. S investičným certifikátom je spojené právo nadobudnúť finančný nástroj, ktorý je podkladovým aktívom investičného certifikátu, alebo právo na vyrovnanie v hotovosti, alebo ich kombinácia. Investičný certifikát môžu vydávať len banky alebo pobočky zahraničných bánk.
+(1) Investičný certifikát je cenný papier, ktorého hodnota je naviazaná na hodnotu indexov, úrokových mier, akcií, dlhových cenných papierov, výmenných kurzov, komodít, prípadne iných podkladových aktív, alebo ich kombinácie. S investičným certifikátom je spojené právo na vyrovnanie
 
-(2) Investičný certifikát môže mať len formu cenného papiera na doručiteľa alebo cenného papiera na meno.
+- a) prostredníctvom nadobudnutia finančných nástrojov alebo zlata, ktoré sú podkladovým aktívom investičného certifikátu,
+
+- b) v hotovosti,
+
+- c) kombináciou spôsobov podľa písmen a) a b).
+
+(2) Emitentom investičného certifikátu môže byť len banka, zahraničná banka, obchodník s cennými papiermi, ktorý spĺňa požiadavky na výšku základného imania najmenej v rozsahu podľa § 54 ods. 12, alebo obdobný zahraničný obchodník s cennými papiermi.
 
 (3) Investičný certifikát musí obsahovať
 
-- a) obchodné meno, sídlo, identifikačné číslo emitenta,
+- a) obchodné meno, sídlo, identifikačné číslo emitenta a identifikátor právneho subjektu (LEI), ak mu bol pridelený,
 
-- b) ISIN, názov a formu investičného certifikátu,
+- b) označenie „investičný certifikát“, formu a podobu investičného certifikátu,
 
-- c) celkový počet investičných certifikátov vydávaných v emisii,
+- c) názov investičného certifikátu a ISIN,
 
-- d) menovitú hodnotu investičného certifikátu,
+- d) menovitú hodnotu investičného certifikátu v eurách alebo v inej mene,
 
-- e) termín splatnosti alebo vyrovnania, ak je podľa emisných podmienok s investičným certifikátom spojené aj právo na nadobudnutie finančného nástroja, ktorý je podkladovým aktívom investičného certifikátu,
+- e) spôsob vyrovnania a určenia jeho hodnoty,
 
-- f) pri investičných certifikátoch na meno aj tieto údaje o prvom majiteľovi:
+- f) informácie o podkladovom aktíve podľa osobitného predpisu,<sup>16ab</sup>)
 
-  - 1. obchodné meno, sídlo a identifikačné číslo, ak je právnickou osobou,
+- g) termín alebo termíny vyrovnania,
 
-  - 2. meno a priezvisko, trvalý pobyt a rodné číslo, ak je fyzickou osobou; pri zahraničnej fyzickej osobe sa namiesto rodného čísla môže uviesť dátum narodenia.
+- h) údaj o prevoditeľnosti alebo obmedzení prevoditeľnosti investičného certifikátu.
 
-(4) Emisné podmienky obsahujú práva a povinnosti emitenta a majiteľa investičných certifikátov, ako aj práva spojené s investičnými certifikátmi. Emisné podmienky obsahujú najmä:
+(4) Investičný certifikát môže obsahovať ďalšie písomné vymedzenie práv a povinností.
 
-- a) údaje podľa odseku 3 písm. a) až e),
+(5) Emisné podmienky investičných certifikátov sú súhrnom práv a povinností emitenta a majiteľa investičných certifikátov.
 
-- b) názov investičného certifikátu,
+(6) Za údaje uvedené v emisných podmienkach investičných certifikátov zodpovedá emitent. Emisné podmienky investičných certifikátov musia obsahovať vyhlásenie emitenta o tom, že údaje v nich sú úplné, pravdivé a sú v súlade s náležitosťami investičných certifikátov podľa odsekov 3 a 4.
 
-- c) spôsob určenia výnosu a termín jeho výplaty, ak je podľa emisných podmienok s investičným certifikátom spojené aj právo na vyrovnanie v hotovosti,
+(7) Kto v emisných podmienkach investičných certifikátov uvedie neúplné alebo nepravdivé údaje alebo údaje v rozpore s náležitosťami investičných certifikátov podľa odsekov 3 a 4, zodpovedá za škodu, ktorú tým spôsobil.
 
-- d) spôsob určenia výnosu, podmienky vyrovnania a termín vyrovnania, ak je podľa emisných podmienok s investičným certifikátom spojené aj právo na nadobudnutie finančného nástroja, ktorý je podkladovým aktívom investičného certifikátu,
+(8) Emitent môže zmeniť emisné podmienky investičných certifikátov, len ak ide o zmenu označenia emitenta, zmenu sídla emitenta, zmenu platobného miesta alebo o opravu chýb v písaní, počítaní alebo iných zrejmých nesprávností.
 
-- e) najvyššiu sumu menovitých hodnôt a emisný kurz,
+(9) Emitent je povinný sprístupniť emisné podmienky investičných certifikátov najneskôr v deň začiatku ich vydávania na
 
-- f) dátum začiatku vydávania, predpokladanú lehotu vydávania, spôsob ich vydania,
+- a) nosiči informácií, ktorý umožňuje reprodukciu emisných podmienok investičných certifikátov v nezmenenej podobe a ich uchovanie tak, aby mohli byť využívané aspoň do splatnosti investičných certifikátov,
 
-- g) údaj o tom, či bude podaná žiadosť o prijatie investičných certifikátov na obchodovanie na regulovanom trhu a identifikáciu tohto regulovaného trhu,
+- b) webovom sídle emitenta alebo
 
-- h) ďalšie práva a povinnosti spojené s investičnými certifikátmi.
+- c) webovom sídle finančnej inštitúcie umiestňujúcej alebo predávajúcej tieto investičné certifikáty.
 
-(5) Emitent nesmie zmeniť emisné podmienky vydaných investičných certifikátov s výnimkou zmeny obchodného mena a sídla emitenta a platobného miesta.
+(10) Zmeny emisných podmienok investičných certifikátov a úplné znenie emisných podmienok investičných certifikátov je emitent povinný sprístupniť bezodkladne po ich vykonaní spôsobom, akým boli sprístupnené pôvodné emisné podmienky investičných certifikátov.
 
-(6) Emitent je povinný najneskôr týždeň pred začiatkom vydávania investičných certifikátov zverejniť emisné podmienky investičných certifikátov spôsobom uvedeným v § 125a. Zmeny v emisných podmienkach investičných certifikátov podľa odseku 5 je emitent povinný najneskôr do desiatich dní od platnosti týchto zmien zverejniť spôsobom uvedeným v § 125a.
+(11) Emitent je povinný poskytnúť majiteľovi investičných certifikátov na jeho žiadosť úplné znenie emisných podmienok investičných certifikátov.
 
-(7) Vydanie investičných certifikátov bez predchádzajúceho zverejnenia schváleného prospektu investičného certifikátu sa zakazuje. Ak sa pri vydaní investičného certifikátu bude uskutočňovať verejná ponuka, použijú sa ustanovenia § 120 až 125h; ak sa pri vydaní investičného certifikátu nebude uskutočňovať verejná ponuka cenných papierov a emitent cenných papierov nežiada o prijatie cenných papierov na regulovaný trh, ustanovenia § 120 až 125c sa použijú primerane. Ak prospekt investičného certifikátu obsahuje údaje obsahovo zodpovedajúce údajom v emisných podmienkach investičných certifikátov, nahrádzajú príslušné časti prospektu emisné podmienky investičných certifikátov; v takomto prípade sa ustanovenie odseku 6 nepoužije. Na zmeny tých údajov v prospekte cenného papiera, ktoré nahrádzajú emisné podmienky investičných certifikátov, sa vzťahuje odsek 5; ak sa súčasne s týmito zmenami nezostavuje dodatok k prospektu investičného certifikátu, uvedie sa táto skutočnosť. Tieto zmeny sa zverejňujú spôsobom uvedeným v § 125c.
+(12) Emitent je povinný predložiť centrálnemu depozitárovi emisné podmienky investičných certifikátov do 15 dní odo dňa začatia ich vydávania. Centrálny depozitár sprístupní na žiadosť majiteľa investičného certifikátu emisné podmienky týchto investičných certifikátov. Pri zmene emisných podmienok investičných certifikátov je emitent povinný bezodkladne predložiť centrálnemu depozitárovi zmeny emisných podmienok investičných certifikátov a úplné znenie emisných podmienok investičných certifikátov.
 
-(8) Ak je emitent v omeškaní s výplatou výnosu alebo vyrovnaním výnosu z investičného certifikátu, je povinný bezodkladne oznámiť túto skutočnosť Národnej banke Slovenska. Pri investičných certifikátoch prijatých na obchodovanie na regulovanom trhu je emitent povinný bezodkladne zverejniť v periodickej tlači s celoštátnou pôsobnosťou uverejňujúcej burzové správy oznámenie o omeškaní s výplatou výnosu alebo vyrovnaním výnosu z investičných certifikátov. Investičný certifikát, ktorý nadobudne jeho emitent pred dobou jeho splatnosti, nezaniká, ak emitent nerozhodne inak. Práva a záväzky spojené s investičnými certifikátmi, ktoré sú v majetku emitenta, zanikajú v deň splatnosti investičného certifikátu, ak k ich zániku nedošlo skôr na základe rozhodnutia emitenta.
+(13) Pri investičných certifikátoch, pre ktoré bol vypracovaný na účely verejnej ponuky prospekt cenného papiera podľa ustanovení § 120 až 125h, môže emitent nahradiť emisné podmienky investičných certifikátov samostatnou časťou prospektu cenného papiera, ktorá obsahuje výlučne úplné znenie emisných podmienok investičných certifikátov, pričom Centrálnemu depozitárovi sa v tomto prípade predkladá samostatná časť prospektu cenného papiera obsahujúca emisné podmienky investičných certifikátov; tým nie sú dotknuté ustanovenia odsekov 5 až 8, 10 a 11.
 
-(9) Emisné podmienky investičných certifikátov je emitent povinný predložiť Národnej banke Slovenska do 15 dní odo dňa začatia vydávania investičných certifikátov; to neplatí, ak všetky údaje obsiahnuté v emisných podmienkach investičných certifikátov sú obsahovo zhodné s prospektom investičného certifikátu.
+(14) Investičný certifikát, ktorý nadobudne jeho emitent pred dobou jeho splatnosti, nezaniká, ak emitent nerozhodne inak. Práva a záväzky spojené s investičnými certifikátmi, ktoré sú v majetku emitenta, zanikajú v deň splatnosti investičného certifikátu, ak k ich zániku nedošlo skôr na základe rozhodnutia emitenta.
+
+(15) Emisiu investičných certifikátov je možné vydávať v lehote pre upisovanie aj postupne po častiach (tranžiach), ak je táto možnosť uvedená v emisných podmienkach investičných certifikátov.
+
+(16) Ak nedôjde k vydaniu investičných certifikátov, je emitent povinný do 20 dní po dni skončenia lehoty pre upisovanie vrátiť upisovateľovi ním upísanú a splatenú sumu vrátane úroku vo výške váženého priemeru základnej úrokovej sadzby Európskej centrálnej banky za obdobie od dátumu splatenia emisného kurzu.
+
+(17) Práva z investičných certifikátov sa premlčujú za desať rokov odo dňa termínu vyrovnania.
+
+(18) Investičný certifikát poskytovaný alebo poskytnutý ako zábezpeka na zabezpečenie obchodu Národnej banky Slovenska<sup>16ac</sup>) musí spĺňať požiadavky a podmienky ustanovené osobitnými predpismi.<sup>16ad</sup>)

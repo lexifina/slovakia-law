@@ -24,7 +24,7 @@
 
 - d) preskúmavanie, či hodnoty aktív a pasív ponúkaných klientom zohľadňujú obchodný a investičný zámer a stratégiu riadenia rizík.
 
-(3) Funkciu riadenie rizík vykonáva jeden alebo viacerí zamestnanci obchodníka s cennými papiermi alebo iné osoby na základe zmluvy, a to nezávisle od iných organizačných zložiek obchodníka s cennými papiermi a od orgánov obchodníka s cennými papiermi, pričom sú priamo podriadení dozornej rade, ktorú bezodkladne informujú o akomkoľvek nedostatku, ktorý by mohol mať vplyv na porušenie povinností podľa odseku 1.
+(3) Funkciu riadenie rizík vykonáva jeden alebo viacerí zamestnanci obchodníka s cennými papiermi alebo iné osoby na základe zmluvy, a to nezávisle od iných organizačných zložiek obchodníka s cennými papiermi a od orgánov obchodníka s cennými papiermi, pričom bezodkladne informujú dozornú radu o akomkoľvek nedostatku, ktorý by mohol mať vplyv na porušenie povinností podľa odseku 1.
 
 (4) Obchodník s cennými papiermi nie je povinný zriadiť funkciu riadenia rizík podľa odseku 2, ak to nie je primerané k povahe, rozsahu a zložitosti jeho predmetu činností a rozsahu poskytovaných investičných služieb, vedľajších služieb a výkonu investičných činností a ak môže preukázať, že prijal účinné stratégie a postupy podľa odseku 1.
 
