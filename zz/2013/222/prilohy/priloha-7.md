@@ -1,3 +1,3 @@
 Príloha č. 7 k vyhláške č. 222/2013 Z. z.
 
-- Údaje o odberných miestach* [Vzor 07](../assets/0b25e6754bbb08ff970c62b6151e1c49e5ad261839d7af18912a788214c9414f.pdf)
+- Zoznam odberateľov tepla a skutočná dodávka tepla do doberných miest ![Zoznam odberateľov tepla a skutočná dodávka tepla do doberných miest](../assets/e3d2d07bd2ffcda4791ff4809add89eab5004820fb33c4fd362ac13166430ace.jpg)
