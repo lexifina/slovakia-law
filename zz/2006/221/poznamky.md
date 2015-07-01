@@ -1,5 +1,7 @@
 - 1) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
+- 1a) § 82 zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov.
 
 - 3) § 68 ods. 3 zákona č. 4/2001 Z. z.
@@ -51,6 +53,10 @@
 - 15) Napríklad § 30 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 13 ods. 2 zákona č. 461/2003 Z. z., § 29 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 15a) § 5 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
+
+- 15b) § 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 15c) Zákon č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 16) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
