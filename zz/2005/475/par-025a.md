@@ -4,7 +4,7 @@
 
 - a) oznámenie v písomnej forme, ktoré sa má dodať na adresu uvedenú na oznámení alebo na obálke,
 
-- b) účet, faktúra, finančný výkaz alebo iná správa nerovnakého obsahu a formy, ktoré súvisia so záväzkovými alebo inými vzťahmi medzi odosielateľom a obvineným,
+- b) účet, faktúra, finančný výkaz alebo iná správa nerovnakého obsahu a formy, ktoré súvisia so záväzkovými alebo inými vzťahmi medzi odosielateľom a odsúdeným,
 
 - c) kresba, fotografia.
 

@@ -22,6 +22,8 @@
 
 - 10) § 10 ods. 1 zákona č. 301/2005 Z. z.
 
+- 10a) Zákon č. 78/2015 Z. z. o kontrole výkonu niektorých rozhodnutí technickými prostriedkami a o zmene a doplnení niektorých zákonov.
+
 - 11) § 20 zákona č. 355/2007 Z. z.
 
 - 11a) § 7 zákona č. 324/2011 Z. z. o poštových službách a o zmene a doplnení niektorých zákonov.
@@ -59,6 +61,10 @@
 - Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 16) Zákon č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 16a) § 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 16b) Zákon č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 17) § 1 ods. 1 nariadenia vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia.
 
@@ -107,10 +113,6 @@
 - 34) § 135 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 34a) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
-
-- 37) § 66 a 67 zákona č. 300/2005 Z. z.
-
-- § 415 až 417 zákona č. 301/2005 Z. z.
 
 - 38) § 412 zákona č. 301/2005 Z. z.
 
