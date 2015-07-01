@@ -2,9 +2,33 @@
 
 Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., zákona č. 600/1992 Zb., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 106/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 317/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 373/1996 Z. z., zákona č. 11/1998 Z. z., zákona č. 127/1999 Z. z., zákona č. 263/1999 Z. z., zákona č. 238/2000 Z. z., zákona č. 147/2001 Z. z., zákona č. 500/2001 Z. z., zákona č. 426/2002 Z. z., zákona č. 510/2002 Z. z., zákona č. 526/2002 Z. z., zákona č. 530/2003 Z. z., zákona č. 432/2004 Z. z., zákona č. 315/2005 Z. z., zákona č. 19/2007 Z. z., zákona č. 84/2007 Z. z., zákona č. 657/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 429/2008 Z. z., zákona č. 454/2008 Z. z., zákona č. 477/2008 Z. z., zákona č. 276/2009 Z. z., zákona č. 487/2009 Z. z., zákona č. 492/2009 Z. z., zákona č. 546/2010 Z. z., zákona č. 193/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 197/2012 Z. z., zákona č. 246/2012 Z. z., zákona č. 440/2012 Z. z., zákona č. 9/2013 Z. z., zákona č. 352/2013 Z. z. a zákona č. 357/2013 Z. z. sa mení a dopĺňa takto:
 
+- 3. § 59a sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Hodnota plnenia poskytnutého podľa zmluvy, ktorá nenadobudla účinnosť, sa musí spoločnosti vrátiť podľa zásad o bezdôvodnom obohatení. Členovia štatutárneho orgánu, ktorí vykonávali funkciu v čase jeho poskytnutia, ručia spoločne a nerozdielne za jeho vrátenie. Spolu s nimi ručia tí, ktorí vykonávali funkciu člena štatutárneho orgánu v období, v ktorom spoločnosť nárok na vrátenie plnenia neuplatňovala a o tejto povinnosti s prihliadnutím na všetky okolnosti vedeli alebo mohli vedieť.“.
+
 - 6. V § 66 ods. 2 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Ak nedošlo k vzdaniu sa funkcie na zasadnutí orgánu spoločnosti, ktorý je oprávnený vymenovať alebo zvoliť nového člena orgánu, vzdanie sa funkcie musí byť písomné a listina s týmto obsahom musí byť vlastnoručne podpísaná v prítomnosti notára alebo ním povereného zamestnanca.“.
 
 - 7. Za § 67 sa vkladajú § 67a až 67k, ktoré vrátane nadpisov znejú:
+
+- „§ 67k
+
+- (1)
+
+- Hodnota vkladu vráteného v rozpore s týmto zákonom sa musí spoločnosti podľa zásad o bezdôvodnom obohatení vrátiť späť, a to v rozsahu rozdielu medzi protiplnením skutočne poskytnutým a protiplnením, ktoré by bolo poskytnuté ako primerané.
+
+- (2)
+
+- Splnenie povinnosti podľa odseku 1 nemôže spoločnosť odpustiť a štatutárny orgán je povinný ju vymáhať. Členovia štatutárneho orgánu, ktorí vykonávali funkciu v čase vrátenia vkladu v rozpore s týmto zákonom, ručia spoločne a nerozdielne za jeho vrátenie späť. Spolu s nimi ručia tí, ktorí vykonávali funkciu člena štatutárneho orgánu v období, v ktorom spoločnosť nárok na vrátenie vkladu späť neuplatňovala, a o tejto povinnosti s prihliadnutím na všetky okolnosti vedeli alebo mohli vedieť.
+
+- (3)
+
+- Ručenie podľa odseku 2 vzniká voči spoločnosti a voči veriteľom spoločnosti. Ručenie voči veriteľom spoločnosti zaniká vrátením hodnoty vkladu späť spoločnosti.
+
+- (4)
+
+- Ak sa nepreukáže opak, predpokladá sa, že plnenie poskytnuté spoločnosťou bez primeraného protiplnenia osobe, pri ktorej nie je možné zistiť konečného užívateľa výhod podľa osobitného predpisu, bolo vrátením vkladu niektorému zo spoločníkov spoločnosti.“.
 
 - 8. V § 93 ods. 3 sa na konci pripája táto veta: „Spoločnosť nesmie komanditistom vrátiť ich vklady.“.
 
