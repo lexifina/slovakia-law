@@ -2,6 +2,8 @@
 
 - 2) Rozhodnutie Rady 2009/316/SVV zo 6. apríla 2009 o zriadení Európskeho informačného systému registrov trestov (ECRIS) podľa článku 11 rámcového rozhodnutia 2009/315/SVV (Ú. v. EÚ L 93, 7. 4. 2009).
 
+- 2a) § 3 ods. 2 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) § 15 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov.
