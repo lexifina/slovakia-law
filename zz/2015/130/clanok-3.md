@@ -1,0 +1,5 @@
+# Čl. III
+
+Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z., zákona č. 631/2004 Z. z., zákona č. 533/2005 Z. z., zákona č. 610/2005 Z. z., zákona č. 547/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 305/2009 Z. z., zákona č. 477/2009 Z. z., zákona č. 491/2010 Z. z., zákona č. 546/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 288/2012 Z. z., zákona č. 381/2013 Z. z., zákona č. 218/2014 Z. z., zákona č. 323/2014 Z. z. a zákona č. 54/2015 Z. z. sa dopĺňa takto:
+
+- V § 9b ods. 7 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Ak odberateľ kontrolných známok v elektronickom systéme kontrolných známok uvedie termín prevzatia kontrolných známok, ktorý je dlhší ako desať dní nasledujúcich po dni pripísania peňažných prostriedkov pripadajúcich na cenu kontrolných známok, lehota podľa prvej vety sa nepoužije; termín prevzatia kontrolných známok odberateľom kontrolných známok elektronicky oznámi finančné riaditeľstvo po dohode s odberateľom kontrolných známok.“.
