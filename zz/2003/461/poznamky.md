@@ -70,6 +70,8 @@
 
 - 35a) § 20 zákona č. 447/2008 Z. z.
 
+- 35b) § 2 zákona č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 38) Zákonník práce.
