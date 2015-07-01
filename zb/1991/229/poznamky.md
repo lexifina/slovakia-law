@@ -74,8 +74,6 @@
 
 - Zákon č. 265/1992 Zb. o zápisoch vlastníckych a iných vecných práv k nehnuteľnostiam. Zákon Slovenskej národnej rady č. 266/1992 Zb. o katastri nehnuteľností v Slovenskej republike.
 
-- 13c) § 3 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z. a § 6 až 9 a § 70 vyhlášky Úradu geodézie, kartogafie a katastra Slovenskej republiky č. 461/2009 Z. z. ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
 - 14) § 8 zákona č. 169/1949 Zb.
 
 - 16) § 2, 4 a 5 zákona ČNR č. 20/1987 Zb. o štátnej pamiatkovej starostlivosti.
