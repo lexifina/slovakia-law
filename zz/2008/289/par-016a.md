@@ -14,7 +14,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - f) odovzdá pokladničný doklad, doklad alebo paragón, ktoré nespĺňajú náležitosti podľa § 8 ods. 1, 2 a 7 alebo § 10 ods. 4,
 
-- g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. zc),
+- g) nemá knihu elektronickej registračnej pokladnice umiestnenú na predajnom mieste podľa § 2 písm. zd),
 
 - h) nezaeviduje v elektronickej registračnej pokladnici alebo vo virtuálnej registračnej pokladnici vklad hotovosti podľa § 3 ods. 3,
 
@@ -48,7 +48,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - w) neoznámi ukončenie prevádzky elektronickej registračnej pokladnice podľa § 15 ods. 2 alebo ukončenie používania virtuálnej registračnej pokladnice podľa § 15a ods. 1,
 
-- x) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 10 ods. 1 alebo ods. 3,
+- x) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 8, § 10 ods. 1 alebo ods. 3 alebo podľa § 15 ods. 4,
 
 - y) neuvedie informáciu o umiestnení plomb podľa § 4 ods. 2 písm. b) pätnásteho bodu,
 
@@ -74,7 +74,7 @@ Správneho deliktu sa dopustí ten, kto
 
 - aj) neodovzdá daňovému úradu poškodené plomby alebo z iného dôvodu nepoužiteľné plomby alebo nedodrží postup pri zúčtovaní odberu alebo použitia prevzatých plomb s daňovým úradom podľa § 16 ods. 5, 6 alebo ods. 7,
 
-- ak) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 až 4 alebo § 15 ods. 1 a 4,
+- ak) nezaznamená do knihy elektronickej registračnej pokladnice skutočnosti podľa § 4 ods. 7, § 5 ods. 2 písm. c) a d), § 7 ods. 4 a 5, § 10 ods. 2, § 11 ods. 2 až 4 alebo § 15 ods. 1,
 
 - al) uvádza elektronickú registračnú pokladnicu do prevádzky alebo vykonáva opravu a údržbu elektronických registračných pokladníc a nie je zapísaný v registri servisných organizácií podľa § 6,
 
@@ -82,6 +82,6 @@ Správneho deliktu sa dopustí ten, kto
 
 - an) uvedie do prevádzky alebo umožní používať elektronickú registračnú pokladnicu, ktorá nespĺňa požiadavky podľa tohto zákona,
 
-- ao) poruší zákaz predávať tovar alebo poskytovať službu na predajnom mieste podľa § 16b ods. 7,
+- ao) poruší zákaz predávať tovar alebo poskytovať službu na predajnom mieste podľa § 16b ods. 7 a 8,
 
 - ap) neukončí prevádzku elektronickej registračnej pokladnice podľa § 15 ods. 5,

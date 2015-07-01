@@ -20,16 +20,18 @@
 
 - d) § 16a písm. an) 4 000 eur,
 
-(3) Spáchanie správnych deliktov podľa § 16a písm. al) a an) sa považuje za osobitne závažné porušenie tohto zákona.
+(3) Colný úrad Bratislava uloží pokutu za správny delikt podľa § 16a písm. z) od 330 eur do 3 000 eur.
 
-(4) Daňový úrad
+(4) Spáchanie správnych deliktov podľa § 16a písm. al) a an) sa považuje za osobitne závažné porušenie tohto zákona.
+
+(5) Daňový úrad
 
 - a) pri prvom opakovanom zistení porušenia podľa § 16a písm. al) a an) okrem pokuty uloženej podľa odseku 2 písm. c) alebo písm. d) môže podať podnet na zrušenie živnostenského oprávnenia,<sup>18a</sup>)
 
 - b) pri každom ďalšom zistení porušenia podľa § 16a písm. al) a an) okrem pokuty uloženej podľa odseku 2 písm. c) alebo písm. d) podá podnet na zrušenie živnostenského oprávnenia.<sup>18a</sup>)
 
-(5) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
+(6) Pri ukladaní pokuty podľa odsekov 1 až 3 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
 
-(6) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
+(7) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
 
-(7) Pokutu podľa odsekov 1 a 2 nemožno uložiť, ak uplynulo päť rokov od konca roka, v ktorom došlo k porušeniu tohto zákona.
+(8) Pokutu podľa odsekov 1 až 3 nemožno uložiť, ak uplynulo päť rokov od konca roka, v ktorom došlo k porušeniu tohto zákona.

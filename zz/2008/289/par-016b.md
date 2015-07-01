@@ -49,3 +49,5 @@
 (12) Pri ukladaní pokuty podľa odsekov 1 a 2 sa prihliada na závažnosť, trvanie a následky protiprávneho stavu.
 
 (13) Uložením pokuty nezanikajú povinnosti, za ktorých porušenie bola pokuta uložená.
+
+(14) Pokutu podľa odseku 3 poslednej vety nemožno uložiť, ak uplynulo päť rokov od konca roka, v ktorom došlo k porušeniu tohto zákona.
