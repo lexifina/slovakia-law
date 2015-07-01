@@ -94,10 +94,6 @@
 
 - 13) § 11 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
 
-- 13a) § 5, 7 a 9 zákona č. 343/2007 Z. z. o podmienkach evidencie, verejného šírenia a uchovávania audiovizuálnych diel, multimediálnych diel a zvukových záznamov umeleckých výkonov a o zmene a doplnení niektorých zákonov (audiovizuálny zákon).
-
-- 13b) § 39 zákona č. 343/2007 Z. z.
-
 - 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
 - 14a) § 27 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).

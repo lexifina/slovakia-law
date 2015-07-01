@@ -304,18 +304,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Zápis zmeny v zozname periodickej tlače<sup>13</sup>) pri zmene vydavateľa periodickej tlače alebo názvu periodickej tlače, za každý úkon ......................................................................................... | 6,50 eura |
 
-    - Položka 12a
-
-  - a) Podanie žiadosti o zápis do zoznamu slovenských audiovizuálnych diel,zoznamu slovenských zvukových záznamov slovesného diela alebo hudobného diela alebo zoznamu slovenských multimediálnych diel<sup>13a</sup>) | 3 eurá
-
-  - b) Podanie žiadosti o zápis do registra nezávislých producentov<sup>13b</sup>) | 1,50 eura
-
-  - c) Podanie žiadosti o zmenu v zápise v registri nezávislých producentov<sup>13b</sup>) | 1,50 eura
-
-  - Oslobodenie |
-
-  - Od poplatku podľa písmena a) tejto položky je oslobodená žiadosť o zápis slovenského audiovizuálneho diela, slovenského zvukového záznamu slovesného diela alebo hudobného diela alebo slovenského multimediálneho diela vyhotoveného pre zdravotne postihnutých. |
-
     - Položka 13
 
   - a) Udelenie licencie na vysielanie<sup>14</sup>) |
@@ -684,29 +672,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Žiadosť o vydanie zbrojného sprievodného listu na každú zbraň, jej hlavnú časť alebo strelivo ........... | 16,50 eura |
 
-  - c) Žiadosť o vydanie povolenia na znehodnotenie zbrane alebo na výrobu rezu zbrane .............................. | 6,50 eura |
+  - c) Žiadosť o vydanie povolenia na znehodnotenie, zničenie, výrobu rezu zbrane a streliva a úpravu zbrane podľa § 58 ods. 1 zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení neskorších predpisov .............................. | 6,50 eura |
 
   - d) Žiadosť o vydanie povolenia na prepravu zbraní a streliva podnikateľom .................................................. | 33 eur |
 
-  - e) Žiadosť o vydanie výnimky na zbraň kategórie A .............................................................................................. | 99,50 eura |
+  - e) Žiadosť o vydanie výnimky na zbraň kategórie A ........................................................................ | 99,50 eura |
 
   - f) Žiadosť o vydanie povolenia na prevoz zbrane cez územie Slovenskej republiky zamestnancom bezpečnostnej služby vykonávajúcej profesionálnu cezhraničnú prepravu eurovej hotovosti cestnou dopravou ..... | 16,50 eura |
 
   - Oslobodenie 1. Oslobodenie od poplatku tu platí obdobne ako pri položke 30. 2. Od poplatku podľa tejto položky sú oslobodené osoby, ktoré sa zúčastnia na medzinárodnej súťaži v športovej streľbe alebo inej obdobnej súťaži, ktorej súčasťou je športová streľba, ako aj osoby, ktoré získajú zbrane ako ceny v týchto súťažiach. 3. Od poplatku podľa písmen c) a d) tejto položky sú oslobodené osoby, ktorým sa podľa medzinárodných zmlúv poskytuje pri ich pobyte na území Slovenskej republiky osobná ochrana, a členovia ozbrojených sprievodov týchto osôb. 4. Od poplatku podľa písmena b) tejto položky sú oslobodení príslušníci policajných zborov iných štátov, ak vyvážajú alebo dovážajú zbrane a strelivo pri plnení bezpečnostných úloh v rámci spolupráce s Policajným zborom. 5. Od poplatku podľa písmen c) a d) tejto položky sú oslobodení cudzinci, ktorí prídu do Slovenskej republiky na pozvanie alebo so súhlasom Národnej rady Slovenskej republiky, prezidenta Slovenskej republiky a vlády Slovenskej republiky, ak úkony robí útvar Policajného zboru vykonávajúci pasovú kontrolu na hraničnom priechode. | |
 
-  - Poznámky 1. Od osôb, ktoré vykonávajú funkciu člena stráže prírody podľa § 58 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, a od osôb, ktoré vykonávajú funkciu člena poľnej stráže podľa zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, vyberie sa príslušný poplatok podľa tejto položky znížený o 50 %. 2. Poplatok za zaevidovanie každej zbrane alebo jej hlavnej časti podľa písmena a) tejto položky sa nevyberie, ak sa poplatok vybral za dovoz zbrane podľa písmena c) tejto položky. 3. Poplatok podľa písmena c) tejto položky sa nevyberie, ak sa vyváža zbraň alebo jej hlavná časť a poplatok sa vybral podľa písmena a) tejto položky. 4. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža alebo dováža zbraň a k nej najviac sto kusov streliva a poplatok sa vybral podľa písmena c) tejto položky. 5. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža strelivo a poplatok sa vybral podľa písmena b) tejto položky. |
+  - Poznámky 1. Od osôb, ktoré vykonávajú funkciu člena stráže prírody podľa § 58 ods. 4 až 6 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, a od osôb, ktoré vykonávajú funkciu člena poľnej stráže podľa zákona Národnej rady Slovenskej republiky č. 255/1994 Z. z. o poľnej stráži, vyberie sa príslušný poplatok podľa tejto položky znížený o 50 %. 2. Poplatok za zaevidovanie každej zbrane alebo jej hlavnej časti podľa písmena a) tejto položky sa nevyberie, ak sa poplatok vybral za dovoz zbrane podľa písmena c) tejto položky. 3. Poplatok podľa písmena b) tejto položky sa nevyberie, ak sa vyváža zbraň alebo jej hlavná časť a poplatok sa vybral podľa písmena a) tejto položky. 4. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža alebo dováža zbraň a k nej najviac sto kusov streliva a poplatok sa vybral podľa písmena c) tejto položky. 5. Poplatok podľa písmena d) tejto položky sa nevyberie, ak sa vyváža strelivo a poplatok sa vybral podľa písmena b) tejto položky. |
 
     - Položka 32
 
-  - a) Úschova každej zbrane, hlavnej časti zbrane alebo streliva do nej ............................................... | 16,50 eura
+  - a) Úschova každej zbrane, hlavnej časti zbrane alebo streliva do nej ............................................... | 16,50 eura |
 
-  - b) Predĺženie úschovy zbrane, hlavnej časti zbrane alebo streliva do nej ......................................... | 9,50 eura
+  - b) Vydanie povolenia na vystavovanie zbraní a streliva ......................................................................... | 165,50 eura |
 
-  - c) Vydanie povolenia na vystavovanie zbraní a streliva ......................................................................... | 165,50 eura
+  - Oslobodenie 1. Oslobodenie od poplatku podľa položky 30 prvého a štvrtého bodu platí takisto pri písmene a) tejto položky. 2. Od poplatku podľa písmena a) tejto položky je oslobodená úschova po úmrtí držiteľa do siedmich dní od ukončenia dedičského konania a úschova odňatej, zaistenej, nájdenej, odovzdanej alebo zhabanej zbrane, jej hlavnej časti alebo streliva. | |
 
-  - Oslobodenie 1. Oslobodenie od poplatku podľa položky 30 prvého a štvrtého bodu platí takisto pri písmenách a) a b) tejto položky. 2. Od poplatku podľa písmen a) a b) tejto položky je oslobodená úschova zbrane alebo jej hlavnej časti po úmrtí držiteľa do ukončenia dedičského konania a úschova nájdenej, odovzdanej alebo zhabanej zbrane alebo jej hlavnej časti. |
-
-  - Poznámka Od poplatku podľa písmena c) tejto položky je oslobodené vystavovanie zbraní ozbrojenými silami Slovenskej republiky, ozbrojenými zbormi Slovenskej republiky, múzeami, ktoré zbrane vystavujú v rámci predmetu svojej činnosti, a vystavovanie zbraní Slovenskej informačnej služby. |
+  - Poznámka Od poplatku podľa písmena b) tejto položky je oslobodené vystavovanie zbraní ozbrojenými silami Slovenskej republiky, ozbrojenými zbormi Slovenskej republiky, múzeami, ktoré zbrane vystavujú v rámci predmetu svojej činnosti, a vystavovanie zbraní Slovenskej informačnej služby. | |
 
     - Položka 33
 
