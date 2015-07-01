@@ -2170,9 +2170,9 @@
 
             - Každý určený úrad musí uplatňovať aspoň jedno z uvedených kritérií a môže uplatňovať aj obidve.
 
-          - (b) Žiadosť podľa odseku (a)
+          - (b) Žiadosť podľa odseku (a) sa musí podať:
 
-            - (i) sa musí podať v určenom úrade v lehote jedného mesiaca od príslušnej lehoty podľa článku 22,
+            - (i) v určenom úrade v lehote jedného mesiaca od príslušnej lehoty podľa článku 22, alebo ak prihlasovateľ vyslovene požiada určený úrad podľa článku 23(2), v lehote jedného mesiaca od dátumu prijatia takej žiadosti určeným úradom.
 
             - (ii) musí zdôvodniť zanedbanie podania medzinárodnej prihlášky v období priority a prípadne doložiť vyhlásenie alebo iný dôkaz, ktorý sa vyžaduje podľa odseku (c), a
 
@@ -3058,9 +3058,9 @@
 
         - (b) Ak predloženie prekladu medzinárodnej prihlášky podľa článku 39 (1) Zmluvy zvolený úrad nepožaduje, môže tento úrad požadovať od prihlasovateľa, aby predložil v lehote uvedenej v tomto článku preklad každého náhradného listu uvedeného v pravidle 70.16., ktorý je priložený k správe o medzinárodnom predbežnom prieskume a nie je v jazyku, v ktorom bola medzinárodná prihláška zverejnená.
 
-    - Pravidlo 76 Preklad prioritného dokladu.
+    - Pravidlo 76 Preklad prioritného dokladu
 
-      - Použitie niektorých pravidiel v konaní pred zvolenými úradmi.
+      - Použitie niektorých pravidiel v konaní pred zvolenými úradmi
 
       - 76.1 zrušené
 
@@ -3078,7 +3078,7 @@
 
         - (i) určený úrad, prípadne určený štát sa považuje za zvolený úrad, prípadne za zvolený štát;
 
-        - (ii) každý odkaz v uvedených pravidlách na článok 22 alebo článok 24 (2) sa bude považovať za odkaz na článok 39 (1) alebo článok 39 (3);
+        - (ii) každý odkaz v uvedených pravidlách na článok 22, článok 23(2) alebo článok 24(2) sa bude považovať za odkaz na článok 39(1), článok 40(2) alebo článok 39(3);
 
         - (iii) (bez zmeny, okrem toho, že bodka sa nahrádza bodkočiarkou);
 
@@ -3452,13 +3452,13 @@
 
         - (b) Ak sú dvaja alebo viacerí prihlasovatelia a všetci prihlasovatelia neustanovili spoločného zástupcu podľa pravidla 90.1(a) alebo spoločného splnomocnenca podľa odseku (a), bude sa prvý prihlasovateľ, ktorý je uvedený v žiadosti, ktorý je oprávnený podľa pravidla 19.1 podať medzinárodnú prihlášku na prijímacom úrade, považovať za spoločného splnomocnenca všetkých prihlasovateľov.
 
-      - 90.3. Účinky úkonov zástupcov a spoločných splnomocnencov alebo voči zástupcom a spoločným splnomocnencom
+      - 90.3. Účinky úkonov zástupcov a spoločných zástupcov alebo úkonov voči zástupcom a spoločným zástupcom
 
         - (a) Každý úkon zástupcu alebo voči zástupcovi má účinok úkonu prihlasovateľa alebo prihlasovateľov alebo voči dotyčnému prihlasovateľovi alebo prihlasovateľom.
 
         - (b) Ak sú dvaja alebo viacerí zástupcovia, ktorí zastupujú rovnakého prihlasovateľa alebo rovnakých prihlasovateľov, bude mať každý úkon týchto zástupcov alebo úkon voči nim účinok úkonu prihlasovateľa alebo prihlasovateľov alebo voči spomenutému prihlasovateľovi alebo prihlasovateľom.
 
-        - (c) S výhradou pravidla 90 bis 5 (a), druhá veta, má každý úkon spoločného splnomocnenca alebo jeho zástupcu, alebo úkon voči nim, účinok úkonu všetkých prihlasovateľov alebo účinok úkonu voči nim.
+        - (c) S výhradou pravidla 90bis.5 druhej vety má každý úkon spoločného zástupcu alebo jeho zástupcu, alebo úkon voči nim, účinok úkonu všetkých prihlasovateľov alebo účinok úkonu voči nim.
 
       - 90.4 Spôsob ustanovenia zástupcu alebo spoločného splnomocnenca
 
@@ -3484,7 +3484,7 @@
 
         - (c) Ktorýkoľvek prijímací úrad, orgán pre medzinárodnú rešerš, orgán kompetentný vykonávať doplnkovú rešerš a orgán pre medzinárodný predbežný prieskum sa smie zrieknuť požiadavky podľa odseku (a)(ii) na priloženie kópie plnej moci k žiadosti, návrhu alebo osobitnému oznámeniu, podľa toho, o ktorý prípad ide.
 
-        - (d) Napriek odseku (c), ak zástupca predloží akékoľvek oznámenie o späťvzatí podľa pravidla 90bis.1 až 90bis.4 prijímaciemu úradu, orgánu pre medzinárodnú rešerš, orgánu pre doplnkovú rešerš alebo orgánu pre medzinárodný predbežný prieskum, podľa toho, o ktorý prípad ide, zašle kópiu všeobecného plnomocenstva zástupcu tomuto úradu alebo orgánu.
+        - (d) Napriek odseku (c), ak zástupca predloží akékoľvek oznámenie o späťvzatí podľa pravidla 90bis.1 až 90bis.4 prijímaciemu úradu, orgánu pre doplnkovú rešerš, orgánu pre medzinárodný predbežný prieskum alebo Medzinárodnému úradu, podľa toho, o ktorý prípad ide, zašle kópiu všeobecného plnomocenstva tomuto úradu, orgánu alebo Medzinárodnému úradu.
 
       - 90.6. Odvolanie a zrieknutie sa
 
