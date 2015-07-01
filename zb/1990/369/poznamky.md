@@ -10,8 +10,6 @@
 
 - Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
 
-- 2) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
-
 - 2a) Zákon č. 85/1990 Zb. o petičnom práve v znení zákona č. 242/1998 Z. z.
 
 - 2b) § 4 ods. 1 zákona č. 184/1999 Z. z. o používaní jazykov národnostných menšín.
