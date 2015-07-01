@@ -2,7 +2,7 @@
 
 - 2) ISO/IEC 10646:2012 Univerzálny kódovaný súbor znakov (UCS).
 
-- 3) Napríklad § 5 až 5b zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+- 3) Napríklad § 5 až 5b a § 14 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 4) Napríklad zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
@@ -23,3 +23,11 @@
 - 11a) § 31 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
 - 11h) § 24 ods. 8 zákona č. 215/2002 Z. z. v znení neskorších predpisov.
+
+- 11i) STN EN ISO 3166-1 Kódy názvov krajín a ich častí. Časť 1: Kódy krajín (ISO 3166-1: 2013) (01 0190).
+
+- 11j) ISO 13616 Finančné služby. Medzinárodné bankové číslo účtu (IBAN).
+
+- 11k) ISO 9362 Bankovníctvo. Bankové telekomunikačné správy. Bankové identifikačné kódy (BIC).
+
+- 11l) RFC 5646: Značky pre identifikáciu jazykov. STN ISO 639-1 Kódy názvov jazykov. Časť 1: Dvojmiestne abecedné kódy (01 0400). STN ISO 639-2 Kódy názvov jazykov. Časť 2: Trojmiestne abecedné kódy (01 0400).
