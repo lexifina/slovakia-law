@@ -26,7 +26,7 @@
 
 - 15) Zákon č. 179/1998 Z. z. v znení neskorších predpisov.
 
-- 15a) § 9 zákona č. 108/2000 Z. z. o ochrane spotrebiteľa pri podomovom predaji a zásielkovom predaji v znení neskorších predpisov.
+- 15a) § 2 ods. 1 zákona č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
