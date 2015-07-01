@@ -10,4 +10,4 @@
 
 (5) Občan, ktorý má platný občiansky preukaz bez elektronického čipu, môže požiadať o vydanie nového občianskeho preukazu bez splnenia podmienok ustanovených v § 7.
 
-(6) Občan, ktorý má platný občiansky preukaz vydaný do 30. júna 2008, môže požiadať o vydanie nového občianskeho preukazu len na okresnom riaditeľstve v územnom obvode, v ktorom má trvalý pobyt.
+(6) Občan, ktorý má občiansky preukaz vydaný do 30. júna 2008, môže požiadať o vydanie nového občianskeho preukazu len na okresnom riaditeľstve v územnom obvode, v ktorom má trvalý pobyt.

@@ -4,6 +4,12 @@
 
 - 2) § 27 ods. 2 Občianskeho zákonníka.
 
+- 2a) § 116 Občianskeho zákonníka.
+
+- 2b) § 29 ods. 2 písm. i) a j) zákona č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov.
+
+- 2c) § 107 ods. 2 písm. k) zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov.
+
 - 3) § 6 ods. 1 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
 
 - 4) § 10 písm. f) zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení zákona č. 454/2004 Z. z.
