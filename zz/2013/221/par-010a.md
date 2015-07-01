@@ -1,6 +1,6 @@
-# § 10a Cena elektriny pre zariadenie výrobcu elektriny uvedené do prevádzky od 1. januára 2015
+# § 10a Cena elektriny pre zariadenie výrobcu elektriny uvedené do prevádzky v roku 2015
 
-(1) Cena elektriny vyrobenej z obnoviteľných zdrojov energie v zariadení výrobcu elektriny uvedeného do prevádzky od 1. januára 2015 sa určuje priamym určením pevnej ceny v eurách na megawatthodinu takto:
+(1) Cena elektriny vyrobenej z obnoviteľných zdrojov energie v zariadení výrobcu elektriny uvedeného do prevádzky v roku 2015 sa určuje priamym určením pevnej ceny v eurách na megawatthodinu takto:
 
 a) | z vodnej energie s celkovým inštalovaným výkonom zariadenia výrobcu elektriny | |
 
@@ -50,7 +50,7 @@ g) | zo spaľovania | |
 
 | 8. | fermentovanej zmesi vyrobenej aeróbnou fermentáciou biologicky rozložiteľného odpadu | 95,50 eura/MWh.
 
-(2) Cena elektriny vyrobenej vysoko účinnou kombinovanou výrobou v zariadení výrobcu elektriny uvedeného do prevádzky od 1. januára 2015 sa určuje priamym určením pevnej ceny v eurách na megawatthodinu takto:
+(2) Cena elektriny vyrobenej vysoko účinnou kombinovanou výrobou v zariadení výrobcu elektriny uvedeného do prevádzky v roku 2015 sa určuje priamym určením pevnej ceny v eurách na megawatthodinu takto:
 
 a) | v spaľovacej turbíne s kombinovaným cyklom | | 74,75 eura/MWh,
 
