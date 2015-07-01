@@ -18,8 +18,6 @@
 
 - 9a) Napríklad zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
-- 10) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov, § 47c zákona č. 92/1991 Zb. v znení neskorších predpisov.
-
 - 10a) § 13 ods. 1 písm. f) zákona č. 523/2004 Z. z.
 
 - 11) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z.

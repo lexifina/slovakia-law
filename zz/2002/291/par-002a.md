@@ -30,19 +30,17 @@
 
 (2) Vstupom do záväzku sa rozumie právny úkon, na ktorého základe sa uskutoční výdavok z rozpočtu klienta, najmä uzavretie zmluvy o dielo na dodávku tovarov alebo služieb, objednávka alebo rozhodnutie o transfere z rozpočtu klienta.
 
-(3) Centrálnym registrom majetku štátu sa rozumie centrálny zoznam majetku štátu v správe správcov majetku štátu podľa osobitného predpisu<sup>10</sup>) a v správe štátnych podnikov (ďalej len „správca majetku štátu”); súčasťou centrálneho registra majetku štátu je aj centrálny zoznam správcov majetku štátu.
+(3) Likviditou Štátnej pokladnice sa rozumie schopnosť Štátnej pokladnice splácať záväzky vyplývajúce zo systému štátnej pokladnice.
 
-(4) Likviditou Štátnej pokladnice sa rozumie schopnosť Štátnej pokladnice splácať záväzky vyplývajúce zo systému štátnej pokladnice.
+(4) Riadením likvidity Štátnej pokladnice sa rozumie súhrn činností, ktorých cieľom je efektívne a bezpečné zabezpečenie likvidity Štátnej pokladnice.
 
-(5) Riadením likvidity Štátnej pokladnice sa rozumie súhrn činností, ktorých cieľom je efektívne a bezpečné zabezpečenie likvidity Štátnej pokladnice.
+(5) Rizikom na účely tohto zákona sa rozumie kreditné riziko, trhové riziko, riziko likvidity, operačné riziko, refinančné riziko a ďalšie riziká, ktoré môžu spôsobiť finančnú stratu pre štátny rozpočet a ktoré vyplývajú z činnosti systému štátnej pokladnice.
 
-(6) Rizikom na účely tohto zákona sa rozumie kreditné riziko, trhové riziko, riziko likvidity, operačné riziko, refinančné riziko a ďalšie riziká, ktoré môžu spôsobiť finančnú stratu pre štátny rozpočet a ktoré vyplývajú z činnosti systému štátnej pokladnice.
+(6) Riadením rizík na účely tohto zákona sa rozumie súhrn činností, ktorých cieľom je predchádzať možným finančným stratám pre štátny rozpočet v rozsahu určenom ministerstvom podľa tohto zákona.
 
-(7) Riadením rizík na účely tohto zákona sa rozumie súhrn činností, ktorých cieľom je predchádzať možným finančným stratám pre štátny rozpočet v rozsahu určenom ministerstvom podľa tohto zákona.
+(7) Tuzemským prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v mene euro na území Slovenskej republiky.
 
-(8) Tuzemským prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v mene euro na území Slovenskej republiky.
-
-(9) Cezhraničným prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v
+(8) Cezhraničným prevodom sa na účely tohto zákona rozumie platobná operácia vykonávaná v
 
 - a) cudzej mene na území Slovenskej republiky,
 
