@@ -1,3 +1,0 @@
-# Čl. II
-
-Predseda Národnej rady Slovenskej republiky sa splnomocňuje, aby v Zbierke zákonov Slovenskej republiky vyhlásil úplné znenie zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí, ako vyplýva zo zmien a doplnení vykonaných zákonom Slovenskej národnej rady č. 8/1992 Zb., zákonom Národnej rady Slovenskej republiky č. 60/1993 Z. z., zákonom Národnej rady Slovenskej republiky č. 252/1994 Z. z., zákonom Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákonom č. 233/1998 Z. z., nálezom Ústavného súdu Slovenskej republiky č. 318/1998 Z. z., zákonom č. 331/1998 Z. z., zákonom č. 389/1999 Z. z., zákonom č. 302/2000 Z. z a týmto zákonom.
