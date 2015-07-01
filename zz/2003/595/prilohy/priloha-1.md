@@ -1,1 +1,1 @@
-Príloha č. 1 k zákonu č. 595/2003 Z. z. [Príloha č. 1 k zákonu č. 595/2003 Z. z.](../assets/8ea22351b8ea89eee2fc0546ab39f13bac0e19c2c35b5c01931c3e56aefa03a2.pdf)
+Príloha č. 1 k zákonu č. 595/2003 Z. z. [Príloha č. 1 k zákonu č. 595/2003 Z. z.](../assets/3b7d05c653a433b876c6eda46b34e57352084850ca85d4cf063aeef8fe3c329c.pdf)
