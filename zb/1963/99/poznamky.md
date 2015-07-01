@@ -124,15 +124,11 @@
 
 - 32aa) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
-- 33) § 15 ods. 3 písm. a) zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
+- 33) § 52 ods. 4 a § 82 ods. 4 zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov.
 
-- § 10 ods. 3 písm. a) zákona č. 331/2003 Z. z. o voľbách do Európskeho parlamentu.
+- 34) § 140 ods. 5 a § 145 ods. 5 zákona č. 180/2014 Z. z.
 
-- 34) § 20 ods. 4 zákona č. 333/2004 Z. z.
-
-- § 15 ods. 4 zákona č. 331/2003 Z. z.
-
-- 35) § 15 ods. 3 a § 20 ods. 2 zákona č. 303/2001 Z. z. o voľbách do orgánov samosprávnych krajov a o doplnení Občianskeho súdneho poriadku.
+- 35) § 172 ods. 4 a § 177 ods. 4 zákona č. 180/2014 Z. z.
 
 - 36) Zákon č. 85/2005 Z. z. o politických stranách a politických hnutiach.
 

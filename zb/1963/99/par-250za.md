@@ -1,15 +1,15 @@
-# § 250za Konanie vo veciach registrácie kandidátnych listín
+# § 250za Konanie vo veciach registrácie kandidátnych listín pre voľby do Národnej rady Slovenskej republiky a pre voľby do Európskeho parlamentu
 
-(1) Ak volebná komisia príslušná podľa osobitného zákona<sup>33</sup>) rozhodla
+(1) Ak Štátna komisia pre voľby a kontrolu financovania politických strán rozhodla
 
-- a) o registrácii kandidátnej listiny, môže sa dotknutá kandidujúca politická strana alebo koalícia obrátiť na Najvyšší súd Slovenskej republiky s návrhom na zrušenie registrácie kandidátnej listiny,
+- a) o registrácii kandidátnej listiny s úpravami,<sup>33</sup>) môže sa dotknutá kandidujúca politická strana, politické hnutie alebo koalícia politických strán a politických hnutí obrátiť na Najvyšší súd Slovenskej republiky s návrhom na vydanie rozhodnutia o ponechaní kandidáta na kandidátnej listine,
 
-- b) o registrácii kandidátnej listiny s úpravou vykonanou podľa osobitného zákona<sup>34</sup>), môže sa dotknutá kandidujúca politická strana alebo koalícia obrátiť na Najvyšší súd Slovenskej republiky s návrhom na vydanie rozhodnutia o ponechaní kandidáta na kandidátnej listine,
+- b) o odmietnutí registrácie kandidátnej listiny, môže sa dotknutá kandidujúca politická strana, politické hnutie alebo koalícia politických strán a politických hnutí obrátiť na Najvyšší súd Slovenskej republiky s návrhom na vydanie rozhodnutia o zaregistrovaní kandidátnej listiny.
 
-- c) o odmietnutí registrácie kandidátnej listiny, môže sa dotknutá kandidujúca politická strana alebo koalícia obrátiť na Najvyšší súd Slovenskej republiky s návrhom na vydanie rozhodnutia o zaregistrovaní tejto kandidátnej listiny.
+(2) Návrh podľa odseku 1 možno podať do troch dní odo dňa prevzatia rozhodnutia Štátnej komisie pre voľby a kontrolu financovania politických strán.
 
-(2) Účastníkmi konania sú politická strana alebo koalícia, ktorá podala návrh podľa odseku 1, a Ústredná volebná komisia.
+(3) Účastníkmi konania sú politická strana, politické hnutie alebo koalícia politických strán a politických hnutí, ktorá podala návrh podľa odseku 1, a Štátna komisia pre voľby a kontrolu financovania politických strán.
 
-(3) Súd rozhodne uznesením do piatich dní od podania návrhu.
+(4) Súd rozhodne uznesením do päť dní od podania návrhu. Rozhodnutie sa doručuje bezodkladne účastníkom konania.
 
-(4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
+(5) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.

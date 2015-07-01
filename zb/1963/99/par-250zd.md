@@ -1,9 +1,11 @@
-# § 250zd Konanie vo veciach registrácie kandidátnych listín pre voľby do orgánov samosprávneho kraja
+# § 250zd Konanie vo veciach registrácie kandidátnych listín pre voľby do orgánov samosprávy obcí
 
-(1) Ak volebná komisia príslušná podľa osobitného zákona<sup>35</sup>) rozhodla o vyčiarknutí kandidáta z kandidátnej listiny pre voľby do orgánov samosprávneho kraja alebo registráciu kandidátnej listiny odmietla, môže sa dotknutá politická strana alebo dotknutý kandidát do 24 hodín od doručenia rozhodnutia volebnej komisie samosprávneho kraja obrátiť na okresný súd v sídle volebnej komisie samosprávneho kraja s návrhom na vydanie rozhodnutia o povinnosti volebnej komisie samosprávneho kraja ponechať kandidáta na kandidátnej listine alebo zaregistrovať kandidátnu listinu.
+(1) Ak miestna volebná komisia alebo mestská volebná komisia rozhodla o nezaregistrovaní kandidáta pre voľby do orgánov samosprávy obcí,<sup>35</sup>) môže sa dotknutá kandidujúca politická strana, politické hnutie alebo koalícia politických strán a politických hnutí, alebo dotknutý nezávislý kandidát obrátiť na príslušný okresný súd s návrhom na vydanie rozhodnutia o zaregistrovaní kandidáta.
 
-(2) Účastníkmi konania sú dotknutá politická strana, dotknutý kandidát a volebná komisia samosprávneho kraja.
+(2) Návrh podľa odseku 1 možno podať do troch dní odo dňa prevzatia rozhodnutia miestnej volebnej komisie.
 
-(3) Súd rozhodne uznesením do troch dní od podania návrhu.
+(3) Účastníkmi konania sú politická strana, politické hnutie, alebo koalícia politických strán a politických hnutí, alebo nezávislý kandidát podľa odseku 1 a miestna volebná komisia alebo mestská volebná komisia.
 
-(4) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
+(4) Súd rozhodne uznesením do troch dní odo dňa podania návrhu. Rozhodnutie sa doručuje bezodkladne účastníkom konania.
+
+(5) Proti rozhodnutiu súdu nie je prípustný opravný prostriedok.
