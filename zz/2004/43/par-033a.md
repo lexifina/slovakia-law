@@ -17,3 +17,5 @@
 (6) Starobný dôchodok a predčasný starobný dôchodok podľa odseku 3 je mesačne najviac v sume podľa § 46e ods. 9 platnej v kalendárnom roku, v ktorom bola uzatvorená dohoda o vyplácaní dôchodku programovým výberom.
 
 (7) Dôchodková správcovská spoločnosť nie je povinná vyplácať starobný dôchodok alebo predčasný starobný dôchodok programovým výberom v sume nižšej ako suma podľa § 46e ods. 9 platnej v kalendárnom roku, v ktorom bola uzatvorená dohoda o vyplácaní dôchodku programovým výberom; to neplatí, ak ide o poslednú splátku starobného dôchodku alebo predčasného starobného dôchodku vyplácaného programovým výberom.
+
+(8) Ak sporiteľ ku dňu evidencie poznámky o uzatvorení zmluvy o poistení dôchodku, na základe ktorej sa vypláca doživotný starobný dôchodok alebo doživotný predčasný starobný dôchodok, splnil podmienky podľa odseku 2, považujú sa tieto podmienky pri uzatváraní dohody o vyplácaní dôchodku programovým výberom za splnené.
