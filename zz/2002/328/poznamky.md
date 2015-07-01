@@ -176,6 +176,10 @@
 
 - 39b) Zákon č. 274/2007 Z. z. o príplatku k dôchodku politickým väzňom.
 
+- 39c) § 82b zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.
+
+- 39d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 592/2006 Z. z. v znení neskorších predpisov, zákon č. 274/2007 Z. z. v znení neskorších predpisov, zákon č. 285/2009 Z. z. v znení neskorších predpisov.
+
 - 40) § 76 zákona č. 380/1997 Z. z.
 
 - 41) Zákon č. 420/1991 Zb. v znení neskorších predpisov.
