@@ -6,7 +6,7 @@
 
 (2) Združenie obcí je právnická osoba.
 
-(3) Združenie obcí vzniká dňom registrácie v registri združení obcí obvodným úradom v sídle kraja.
+(3) Združenie obcí vzniká dňom registrácie v registri združení obcí okresným úradom v sídle kraja.
 
 (4) Predmetom činnosti združenia obcí je najmä oblasť sociálnych vecí, starostlivosti o životné prostredie (predovšetkým zhromažďovanie, odvoz a spracúvanie komunálneho odpadu, odvádzanie a čistenie odpadových vôd), miestna doprava, oblasť školstva, kultúry a miestny cestovný ruch; svojou činnosťou združenie obcí napomáha vytvárať podmienky na plnenie úloh obcí, ako aj úloh vyššieho územného celku.
 
