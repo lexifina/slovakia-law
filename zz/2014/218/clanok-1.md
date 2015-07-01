@@ -336,6 +336,22 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 13. V § 78a ods. 1 sa vypúšťa druhá veta.
 
+- 14. V § 79 ods. 6 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak bola časť nadmerného odpočtu vrátená podľa odseku 7, vráti daňový úrad rozdiel medzi nadmerným odpočtom vo výške zistenej daňovým úradom a nadmerným odpočtom vráteným podľa odseku 7.“.
+
+- 15. V § 79 sa za odsek 6 vkladá nový odsek 7, ktorý znie:
+
+- „(7)
+
+- Ak daňový úrad začal daňovú kontrolu podľa odseku 6, vráti časť nadmerného odpočtu pred skončením daňovej kontroly vo výške uvedenej v čiastkovom protokole vyhotovenom podľa osobitného predpisu.<sup>29c</sup>) Daňový úrad vráti časť nadmerného odpočtu do desiatich dní odo dňa odoslania čiastkového protokolu.“.
+
+- Doterajší odsek 7 sa označuje ako odsek 8.
+
+- Poznámka pod čiarou k odkazu 29c znie:
+
+- „29c)
+
+- § 47a zákona č. 563/2009 Z. z. v znení zákona č. 218/2014 Z. z.“.
+
 - 16. V § 79 ods. 8 sa slová „vo výške“ nahrádzajú slovami „do výšky“.
 
 - 17. V § 80 ods. 2 sa slová „100 000 eur“ nahrádzajú slovami „50 000 eur“.
