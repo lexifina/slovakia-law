@@ -75,3 +75,5 @@
 - 29) § 3 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona č. 173/2004 Z. z. a § 6 až 9 a § 70 vyhlášky vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 30) § 34 ods. 1 zákona Slovenskej národnej rady č. 330/1991 Zb.
+
+- 31) § 3 ods. 1 nariadenia vlády Slovenskej republiky č. 237/2010 Z. z., ktorým sa ustanovujú podrobnosti o postupe Slovenského pozemkového fondu pri poskytovaní náhradných pozemkov.
