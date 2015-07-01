@@ -156,6 +156,8 @@
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 29c) § 47a zákona č. 563/2009 Z. z. v znení zákona č. 218/2014 Z. z.
+
 - 30) § 25 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 31) Zákon č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
