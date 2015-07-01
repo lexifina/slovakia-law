@@ -26,12 +26,6 @@
 
 - 13) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 14) Zákon č. 333/2004 Z. z.
-
-- 15) § 3 ods. 1 zákona č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
-
-- 16) § 24 zákona č. 333/2004 Z. z.
-
 - 17) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 530/2004 Z. z.
 
 - 18) Zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
@@ -55,6 +49,12 @@
 - 25) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 26) Zákon č. 116/1985 Zb. o podmienkach činnosti organizácií s medzinárodným prvkom v Československej socialistickej republike v znení zákona č. 157/1989 Zb.
+
+- 26a) § 4 zákona č. 181/2014 Z. z. o volebnej kampani a o zmene a doplnení zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení neskorších predpisov.
+
+- 26b) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 26c) § 3 ods. 8 zákona č. 181/2014 Z. z.
 
 - 27) § 35 písm. g) zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
