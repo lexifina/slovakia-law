@@ -23,3 +23,7 @@ Príloha k zákonu č. 431/2002 Z. z. v znení neskorších predpisov
   - 10. Smernica Európskeho parlamentu a Rady 2012/6/EÚ zo 14. marca 2012, ktorou sa mení a dopĺňa smernica Rady 78/660/EHS o ročnej účtovnej závierke niektorých typov spoločností, pokiaľ ide o mikrosubjekty (Ú. v. EÚ L 81, 21. 3. 2012).
 
   - 11. Smernica Európskeho parlamentu a Rady 2013/34/EÚ z 26. júna 2013 o ročných účtovných závierkach, konsolidovaných účtovných závierkach a súvisiacich správach určitých druhov podnikov, ktorou sa mení smernica Európskeho parlamentu a Rady 2006/43/ES a zrušujú smernice Rady 78/660/EHS a 83/349/EHS (Ú. v. EÚ L 182, 29. 6. 2013).
+
+  - 12. Smernica Európskeho parlamentu a Rady 2014/95/EÚ z 22. októbra 2014, ktorou sa mení smernica 2013/34/EÚ, pokiaľ ide o zverejňovanie nefinančných informácií a informácií týkajúcich sa rozmanitosti niektorými veľkými podnikmi a skupinami (Ú. v. EÚ L 330, 15. 11. 2014).
+
+  - 13. Smernica Rady 2014/102/EÚ zo 7. novembra 2014, ktorou sa upravuje smernica Európskeho parlamentu a Rady 2013/34/EÚ o ročných účtovných závierkach, konsolidovaných účtovných závierkach a súvisiacich správach určitých druhov podnikov z dôvodu pristúpenia Chorvátskej republiky (Ú. v. EÚ L 334, 21. 11. 2014).
