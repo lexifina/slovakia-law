@@ -114,6 +114,8 @@
 
 - 10jb) § 31 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 10jba) § 4a ods. 1 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa významných investícií a o zmene a doplnení niektorých zákonov v znení zákona č. 154/2015 Z. z.
+
 - 10jc) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 10k) § 2 až 15, § 18 a 19 vyhlášky č. 465/1991 Zb.
