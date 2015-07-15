@@ -92,6 +92,12 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - D01-043 | Lemešany | D/1, III/068010 | Budimír | D/1, I/68, III/068019 | 9,606
 
+- D01-048 | Dubná Skala | D1, I/18 | Martin | D1 | 5,700
+
+- D01-049 | Martin | D1 | | D1, I/18 | 1,690
+
+- D01-050 | Martin | D1 | Turany | I/18, D1 | 10,700
+
 - Zoznam úsekov na diaľnici D2 | | | | |
 
 - D02-002 | Malacky | D/2, II/503 | Lozorno | D/2, I/2 | 11,474
@@ -331,6 +337,44 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 - 018-016 | Horný Hričov 1 | I/18, III/018261 | Horný Hričov 2 | III/018087, I/18 | 0,421
 
 - 018-A018 | Horný Hričov 2 | III/018087, I/18 | Žilina-Strážov-západ | I/18 | 2,867
+
+- 018-026b2 | Dubná Skala | I/18, D1 | Martin-sever | I/18 | 1,313
+
+- 018-028a | Martin-východ | I/18 | | I/18, D1 | 0,360
+
+- 018-028b | | I/18, D1 | Priekopa | I/18, III/2137 | 0,501
+
+- 018-029a | Martin | I/18, III/2137 | | MK-a, I/18 | 0,257
+
+- 018-029b | | MK-a, I/18 | | MK-b, I/18 | 0,867
+
+- 018-029c | | MK-b, I/18 | | MK-c, I/18 | 0,263
+
+- 018-029d | | MK-c, I/18 | | MK-d, I/18 | 0,271
+
+- 018-029e | | MK-d, I/18 | Sučany-západ | I/18 | 0,211
+
+- 018-030e | Sučany-východ | I/18 | | MK-b, I/18 | 0,770
+
+- 018-030c | | MK-b, I/18 | | MK-c, I/18 | 0,320
+
+- 018-030d | | MK-c, I/18 | Turany 1 | III/2138, I/18 | 0,337
+
+- 018-031a | Turany 1 | III/2138, I/18 | | MK-a, I/18 | 0,465
+
+- 018-031b | | MK-a, I/18 | | MK-b, I/18 | 0,733
+
+- 018-031c | | MK-b, I/18 | Turany 2 | I/18, III/2138 | 0,516
+
+- 018-032a | Turany 2 | I/18, III/2138 | | MK-a, I/18 | 0,477
+
+- 018-032k | | MK-a, I/18 | | MK-c, I/18 | 0,292
+
+- 018-032d | | MK-c, I/18 | | MK-d, I/18 | 0,708
+
+- 018-032l | | MK-d, I/18 | | MK-g, I/18 | 0,226
+
+- 018-032m | | MK-g, I/18 | | I/18, D1 | 0,850
 
 - 018-047a | Važec 2 | I/18, PD/8 | | MK-a, I/18 | 1,164
 
@@ -1054,43 +1098,9 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 018-026a | Strečno 2 | I/18, III/018160 | | MK-a, I/18 | 6,926
 
-- 018-026b | | MK-a, I/18 | Martin-sever | I/18 | 3,313
+- 018-026b1 | | MK-a, I/18 | Dubná Skala | I/18, D1 | 2,000
 
-- 018-028 | Martin-východ | I/18 | Priekopa | I/18, III/018254 | 0,861
-
-- 018-029a | Martin | I/18, III/018254 | | MK-a, I/18 | 0,257
-
-- 018-029b | | MK-a, I/18 | | MK-b, I/18 | 0,867
-
-- 018-029c | | MK-b, I/18 | | MK-c, I/18 | 0,263
-
-- 018-029d | | MK-c, I/18 | | MK-d, I/18 | 0,271
-
-- 018-029e | | MK-d, I/18 | Sučany-západ | I/18 | 0,211
-
-- 018-030e | Sučany-východ | I/18 | | MK-b, I/18 | 0,770
-
-- 018-030c | | MK-b, I/18 | | MK-c, I/18 | 0,320
-
-- 018-030d | | MK-c, I/18 | Turany 1 | III/018255, I/18 | 0,337
-
-- 018-031a | Turany 1 | III/018255, I/18 | | MK-a, I/18 | 0,465
-
-- 018-031b | | MK-a, I/18 | | MK-b, I/18 | 0,733
-
-- 018-031c | | MK-b, I/18 | Turany 2 | I/18, III/018255 | 0,516
-
-- 018-032a | Turany 2 | I/18, III/018255 | | MK-a, I/18 | 0,477
-
-- 018-032k | | MK-a, I/18 | | MK-c, I/18 | 0,292
-
-- 018-032d | | MK-c, I/18 | | MK-d, I/18 | 0,708
-
-- 018-032l | | MK-d, I/18 | | MK-g, I/18 | 0,226
-
-- 018-032m | | MK-g, I/18 | | MK-i, I/18 | 1,018
-
-- 018-032j | | MK-i, I/18 | Krpeľany | III/018093, I/18 | 0,468
+- 018-032j | | I/18, D1 | Krpeľany | III/2131, I/18 | 0,650
 
 - 018-033a | Krpeľany | III/018093, I/18 | | MK-a, I/18 | 0,328
 
@@ -1786,7 +1796,7 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 059-010b | | MK-a, I/59 | | MK-b, I/59 | 1,591
 
-- 059-010c | | MK-b, I/59 | | MK-c, I/59 | 0,728
+- 059-010c | | MK-b, I/59 | | MK-c, I/59 | 0,516
 
 - 059-010d | | MK-c, I/59 | | MK-d, I/59 | 0,932
 
@@ -2348,11 +2358,11 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 075-001 | | I/62, I/75 | Sládkovičovo-západ | I/75 | 0,453
 
-- 075-002 | Sládkovičovo-východ | I/75 | Galanta-západ | I/75 | 4,316
+- 075-002 | Sládkovičovo-východ | I/75 | Galanta-západ | I/75 | 4,196
 
 - 075-004 | Galanta-východ | I/75 | | I/75 | 0,496
 
-- 075-005 | | I/75A | | I/75 | 1,195
+- 075-005 | Galanta 3 | I/75A | | I/75 | 1,075
 
 - 075-006 | | I/75A, I/75 | Kajal 1 | III/075002, I/75 | 1,105
 
@@ -2439,6 +2449,12 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 - 075-047 | Dolné Semerovce | III/508019, I/75 | | III/066003, I/75 | 2,236
 
 - 075-048 | | III/066003, I/75 | | I/66, I/75 | 0,343
+
+- 075-078 | Galanta-západ | I/75 | Galanta 1 | I/75 | 1,000
+
+- 075-079 | Galanta 1 | I/75 | Galanta 2 | I/75 | 1,900
+
+- 075-080 | Galanta 2 | I/75 | Galanta 3 | I/75 | 1,200
 
 - Zoznam úsekov na ceste I/76 | | | | |
 
@@ -3828,9 +3844,7 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 068-i010 | Budimír-sever | I/68 | Budimír-juh | I/68 | 1,513
 
-- 068-013 | Št. hr. SK/PL | I/68 | Mníšek nad Popradom-sever | I/68 | 0,208
-
-- 068-i011 | Mníšek nad Popradom-sever | I/68 | Mníšek nad Popradom-juh | I/68 | 3,100
+- 068-i011 | Mníšek nad Popradom-sever | I/68 | Mníšek nad Popradom-juh | I/68 | 3,250
 
 - 068-014 | Mníšek nad Popradom-juh | I/68 | Hraničné-sever | I/68 | 2,100
 
@@ -4188,7 +4202,7 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 075-i001 | Sládkovičovo-západ | I/75 | Sládkovičovo-východ | I/75 | 0,509
 
-- 075-i002 | Galanta-západ | I/75 | Galanta-východ | I/75 | 3,361
+- 075-i002 | Galanta-západ | I/75 | Galanta-východ | I/75 | 3,611
 
 - 075-i003 | Šaľa-západ | I/75 | Šala-Veča-východ | I/75 | 4,017
 
