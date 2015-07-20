@@ -122,7 +122,7 @@
 
 - Občiansky súdny poriadok.
 
-- 40) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 720/2004 Z. z.
+- 40) § 146 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 41) § 37 zákona č. 36/2005 Z. z.
 
