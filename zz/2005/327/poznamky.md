@@ -1,4 +1,4 @@
-- 1) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) § 77 až 100 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1a) § 54 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
 
@@ -80,6 +80,8 @@
 
 - 19a) § 19 ods. 1 písm. i) zákona č. 480/2002 Z. z. v znení neskorších predpisov.
 
-- 19b) Zákon č. 48/2002 Z. z.
+- 19b) § 2 ods. 4 zákona č. 404/2011 Z. z.
+
+- 19c) § 88 ods. 5 zákona č. 404/2011 Z. z.
 
 - 20) Občiansky súdny poriadok.

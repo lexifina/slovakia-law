@@ -1,3 +1,3 @@
 # § 24d
 
-Ak nie je v § 24a až 24c ustanovené inak, na poskytovanie právnej pomoci v azylových veciach a v konaní o administratívnom vyhostení sa primerane použijú ustanovenia tohto zákona.
+Ak nie je v § 24a až 24c ustanovené inak, na poskytovanie právnej pomoci v azylových veciach, v konaní o administratívnom vyhostení, v konaní o zaistení štátneho príslušníka tretej krajiny alebo v konaní o zaistení žiadateľa o udelenie azylu sa primerane použijú ustanovenia tohto zákona.
