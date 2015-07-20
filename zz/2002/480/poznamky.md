@@ -34,6 +34,8 @@
 
 - 8d) § 24a zákona č. 327/2005 Z. z. v znení zákona č. 451/2008 Z. z.
 
+- 8e) § 56 ods. 7 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
+
 - 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 10) § 250l Občianskeho súdneho poriadku.
@@ -51,6 +53,8 @@
 - 12) Napríklad Zákonník práce.
 
 - 13) § 2 Obchodného zákonníka.
+
+- 13a) § 53 ods. 7 zákona č. 305/2005 Z. z. v znení neskorších predpisov.
 
 - 15) Zákon č. 381/1997 Z. z. o cestovných dokladoch v znení zákona č. 48/2002 Z. z.
 

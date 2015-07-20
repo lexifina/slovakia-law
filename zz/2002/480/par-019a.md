@@ -44,6 +44,8 @@
 
 (7) Ministerstvo pri posudzovaní žiadosti o udelenie azylu vychádza z toho, že ochrana pred prenasledovaním alebo vážnym bezprávím je v krajine pôvodu spravidla poskytovaná, keď štát, politické strany alebo politické hnutia alebo organizácie, ktoré ovládajú štát alebo podstatnú časť jeho územia, prijmú primerané opatrenia na zabránenie prenasledovaniu alebo vážnemu bezpráviu, najmä účinným právnym systémom na odhalenie, stíhanie a potrestanie činov predstavujúcich prenasledovanie alebo vážne bezprávie, pričom táto ochrana je účinná a nie je iba dočasná, a žiadateľ má prístup k takej ochrane; ak sa ochrana pred prenasledovaním neposkytne z dôvodu uvedeného v § 8 písm. a), považuje sa to za prenasledovanie z tohto dôvodu.
 
-(8) Ministerstvo si na posúdenie žiadosti o udelenie azylu vyžiada vyjadrenie Slovenskej informačnej služby, ktorá svoje vyjadrenie zašle ministerstvu do desiatich dní od doručenia žiadosti; ministerstvo na ten účel umožní Slovenskej informačnej službe vstup do evidencií podľa § 48 ods. 1. Slovenská informačná služba je oprávnená na účely podania vyjadrenia spracúvať osobné údaje podľa § 48 ods. 1.
+(8) Ministerstvo zabezpečí preklad dokumentov, ktoré sú potrebné na posúdenie žiadosti o udelenie azylu.
 
-(9) Posúdenie žiadosti o udelenie azylu vykoná poverený zamestnanec ministerstva s primeranými vedomosťami v oblasti azylu; v prípade maloletého bez sprievodu aj s primeranými vedomosťami o jeho osobitných potrebách.
+(9) Ministerstvo si na posúdenie žiadosti o udelenie azylu vyžiada vyjadrenie Slovenskej informačnej služby, ktorá svoje vyjadrenie zašle ministerstvu do desiatich dní od doručenia žiadosti; ministerstvo na ten účel umožní Slovenskej informačnej službe vstup do evidencií podľa § 48 ods. 1. Slovenská informačná služba je oprávnená na účely podania vyjadrenia spracúvať osobné údaje podľa § 48 ods. 1.
+
+(10) Posúdenie žiadosti o udelenie azylu vykoná poverený zamestnanec ministerstva s primeranými vedomosťami v oblasti azylu; v prípade maloletého bez sprievodu aj s primeranými vedomosťami o jeho osobitných potrebách.

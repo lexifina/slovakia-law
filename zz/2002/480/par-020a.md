@@ -12,4 +12,8 @@
 
 - b) policajnému útvaru príslušnému podľa miesta azylového zariadenia, v ktorom je žiadateľ umiestnený, alebo podľa miesta pobytu žiadateľa, ak má povolený pobyt mimo pobytového tábora,
 
-- c) policajnému útvaru podľa miesta pobytu azylanta alebo cudzinca, ktorému sa poskytla doplnková ochrana.
+- c) policajnému útvaru podľa miesta pobytu azylanta alebo cudzinca, ktorému sa poskytla doplnková ochrana,
+
+- d) zariadeniu sociálnoprávnej ochrany detí a sociálnej kurately, v ktorom je maloletý bez sprievodu umiestnený,
+
+- e) opatrovníkovi, ak sa podľa odseku 1 rozhodnutie doručuje len zástupcovi alebo Centru právnej pomoci.
