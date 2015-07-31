@@ -24,4 +24,4 @@ Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na zá
 
 - ZOZNAM PRIORITNÝCH CHORÔB
 
-- [ZOZNAM PRIORITNÝCH CHORÔB](assets/24cdc60971f8883e5f6a1b8209a8d59b8940923db0d16d552489b8b7077816a5.pdf)“.
+- [ZOZNAM PRIORITNÝCH CHORÔB](assets/ca91dafc15be6945fcd720e77593e221530d723eafd91879753617688a3312d7.pdf)“.
