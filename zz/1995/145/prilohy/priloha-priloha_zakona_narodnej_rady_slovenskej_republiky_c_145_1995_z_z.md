@@ -3932,35 +3932,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 171c
 
-  - a) Žiadosť o vydanie osvedčenia o odbornej spôsobilosti v odbornosti „havarijný technik" a „špecialista na prevenciu závažných priemyselných havárií" .................................................... | 99 eur
+  - a) Vydanie osvedčenia o odbornej spôsobilosti „špecialista na prevenciu závažných priemyselných havárií“................................................................................................................. | 99 eur
 
-  - b) Žiadosť o predĺženie platnosti osvedčenia podľa písmena a) ............................................... | 40 eur
+  - b) Predĺženie platnosti osvedčenia podľa písmena a) ................................................................ | 40 eur
 
     - Položka 171d
 
-  - a) Žiadosť o vydanie oprávnenia na vykonávanie odbornej prípravy podľa osobitného predpisu<sup>39d</sup>) | 99 eur
+  - a) Vydanie oprávnenia na vykonávanie odbornej prípravy podľa osobitného predpisu<sup>39d</sup>)............ | 99 eur
 
-  - b) Žiadosť o predĺženie platnosti oprávnenia podľa písmena a) .............................................................. | 40 eur
+  - b) Predĺženie platnosti oprávnenia podľa písmena a) .............................................................. | 40 eur
 
     - Položka 171e
 
-  - a) Žiadosť o vydanie rozhodnutia o autorizácii na výkon niektorých činností podľa osobitného predpisu<sup>39e</sup>) ................................................................................................................................... | 398 eur
+  - a) Vydanie rozhodnutia o autorizácii na výkon činností podľa osobitného predpisu<sup>39e</sup>) ............................ | 398 eur
 
-  - b) Žiadosť o predĺženie platnosti rozhodnutia o autorizácii podľa písmena a) ....................................... | 79 eur
+  - b) Predĺženie platnosti rozhodnutia o autorizácii podľa písmena a) ............................................................ | 79 eur
 
     - Položka 171f
 
-  - a) Žiadosť o vydanie súhlasu k bezpečnostnej správe<sup>39f</sup>) |
+  - a) Vydanie súhlasu k bezpečnostnej správe<sup>39f</sup>)........................................................... | 398 eur
 
-  - 1. za prvú bezpečnostnú správu ........................................................................................ | 398 eur
-
-  - 2. za zmenu (aktualizáciu) bezpečnostnej správy .......................................................... | 119 eur
-
-  - b) Žiadosť o povolenie výnimky z rozsahu bezpečnostnej správy ................................ | 40 eur
-
-    - Položka 171g
-
-  - Žiadosť o povolenie zabezpečenia úloh záchrannej služby náhradným spôsobom<sup>39g</sup>) ........... | 20 eur
+  - b) Vydanie súhlasu k aktualizácii bezpečnostnej správy .............................................. | 119 eur
 
     - Položka 171l
 

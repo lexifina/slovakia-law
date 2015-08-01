@@ -426,13 +426,11 @@
 
 - 39cd) § 5 ods. 2 zákona č. 39/2013 Z. z.
 
-- 39d) § 13 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+- 39d) § 20 zákona č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
-- 39e) § 14 až 16 zákona č. 261/2002 Z. z.
+- 39e) § 21 zákona č. 128/2015 Z. z.
 
-- 39f) § 9 zákona č. 261/2002 Z. z.
-
-- 39g) § 21 zákona č. 261/2002 Z. z.
+- 39f) § 27 zákona č. 128/2015 Z. z.
 
 - 39h) § 2 ods. 4 písm. c) zákona č. 491/2005 Z. z. o environmentálnom overovaní a registrácii organizácií v schéme Európskeho spoločenstva pre environmentálne manažérstvo a audit a o zmene a doplnení niektorých zákonov.
 
