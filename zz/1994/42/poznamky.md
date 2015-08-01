@@ -4,6 +4,12 @@
 
 - 1b) § 48 ods. 2 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 172/2011 Z. z.
 
+- 1c) § 8 zákona č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
+- 1d) § 13 zákona č. 128/2015 Z. z.
+
+- 1e) Článok 8 a piaty a šiesty bod prílohy č. 7 Dohovoru o cezhraničných účinkoch priemyselných havárií (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 506/2003 Z. z.).
+
 - 2) Zákon Slovenskej národnej rady č. 595/1990 Zb. o štátnej správe pre životné prostredie.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
@@ -42,7 +48,7 @@
 
 - 16ba) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
-- 16c) § 4 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+- 16c) Zákon č. 128/2015 Z. z.
 
 - 17) § 3 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov.
 
