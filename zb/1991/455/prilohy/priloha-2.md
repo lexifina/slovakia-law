@@ -174,12 +174,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
-- 73. | Havarijný technik alebo Špecialista na prevenciu závažných priemyselných havárií | – osvedčenie o odbornej spôsobilosti havarijného technika alebo – osvedčenie o odbornej spôsobilosti špecialistu na prevenciu závažných priemyselných havárií | § 12 ods. 6 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
-
-- 74. | Vykonávanie odbornej prípravy na úseku prevencie závažných priemyselných havárií | oprávnenie | § 13 zákona č. 261/2002 Z. z. |
-
-- 75. | Vykonávanie hodnotenia rizík, vypracúvanie a aktualizovanie bezpečnostnej správy a havarijného plánu a konzultačná a poradenská činnosť v určených oblastiach na úseku prevencie závažných priemyselných havárií | autorizácia | § 14 zákona č. 261/2002 Z. z. |
-
 - 76. | Podnikanie v oblasti nakladania s nebezpečným odpadom | – vysokoškolské vzdelanie prvého alebo druhého stupňa príslušného technického, prírodovedného, farmaceutického, poľnohospodárskeho, veterinárneho alebo lekárskeho smeru a najmenej tri roky praxe v príslušnom odbore alebo – stredoškolské vzdelanie príslušného technického, poľnohospodárskeho alebo zdravotníckeho smeru a najmenej päť rokov praxe v príslušnom odbore | § 40 ods. 9 zákona č. 223/2001 Z. z. o odpadoch v znení neskorších predpisov |
 
 - 77. | Posudzovanie vplyvov na životné prostredie | osvedčenie o odbornej spôsobilosti | § 61 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov |
