@@ -48,7 +48,7 @@
 
 - 15aaa) § 7 a 13 zákona č. 307/2014 Z. z.
 
-- 16) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 16) Zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 16a) § 16 ods. 1 písm. a) prvý bod zákona č. 124/2006 Z. z. v znení zákona č. 154/2013 Z. z.
 
