@@ -1,1 +1,0 @@
-László Miklós v. r.
