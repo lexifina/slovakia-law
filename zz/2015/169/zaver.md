@@ -1,0 +1,1 @@
+Jozef Mihok v. r.
