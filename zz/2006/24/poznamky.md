@@ -56,6 +56,8 @@
 
 - 19) Zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
+- 20) § 1 ods. 2 zákona č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
+
 - 22) § 5 zákona č. 17/1992 Zb. v znení zákona č. 287/1994 Z. z.
 
 - 22a) Napríklad § 17 až 31 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 31 zákona č. 364/2004 Z. z. v znení neskorších predpisov, § 26, 32 a 35 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
