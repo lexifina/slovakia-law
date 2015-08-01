@@ -72,7 +72,7 @@
 
 - 20) Napríklad Zákonník práce, zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov.
 
-- 21) Zákon č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 21) Zákon č. 128/2015 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
