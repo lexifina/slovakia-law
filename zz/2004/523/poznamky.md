@@ -36,6 +36,8 @@
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
+- 13b) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
+
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 14a) Napríklad zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 553/2002 Z. z. o sprístupnení dokumentov o činnosti bezpečnostných zložiek štátu 1939 – 1989 a o založení Ústavu pamäti národa a o doplnení niektorých zákonov (zákon o pamäti národa) v znení neskorších predpisov, zákon č. 607/2003 Z. z. v znení neskorších predpisov, zákon č. 639/2004 Z. z. o Národnej diaľničnej spoločnosti a o zmene a doplnení zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov v znení zákona č. 664/2007 Z. z., zákon č. 238/2006 Z. z. v znení neskorších predpisov, zákon č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
@@ -55,6 +57,8 @@
 - 17) Napríklad zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18a) Čl. 3 a 4 nariadenia Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
 
 - 19) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
@@ -152,7 +156,7 @@
 
 - 42ac) Čl. 3 ods. 1 písm. b) Zmluvy o stabilite, koordinácii a správe v hospodárskej a menovej únii medzi Belgickým kráľovstvom, Bulharskou republikou, Dánskym kráľovstvom, Spolkovou republikou Nemecko, Estónskou republikou, Írskom, Helénskou republikou, Španielskym kráľovstvom, Francúzskou republikou, Talianskou republikou, Cyperskou republikou, Lotyšskou republikou, Litovskou republikou, Luxemburským veľkovojvodstvom, Maďarskom, Maltou, Holandským kráľovstvom, Rakúskou republikou, Poľskou republikou, Portugalskou republikou, Rumunskom, Slovinskou republikou, Slovenskou republikou, Fínskou republikou a Švédskym kráľovstvom (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 18/2013 Z. z.).
 
-- Nariadenie Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
+- Nariadenie (ES) č. 1466/97 v platnom znení.
 
 - Nariadenie Rady (ES) č. 1467/97 zo 7. júla 1997 o urýchľovaní a objasňovaní vykonania postupu pri nadmernom schodku (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
 

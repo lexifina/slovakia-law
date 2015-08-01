@@ -4,7 +4,7 @@
 
 (2) Ak tak ustanovuje osobitný zákon,<sup>14a</sup>) z výdavkov štátneho rozpočtu sa v súlade so zákonom o štátnom rozpočte na príslušný rozpočtový rok poskytujú aj dotácie právnickým osobám zriadeným osobitným zákonom.<sup>14a</sup>) Z výdavkov štátneho rozpočtu sa ďalej v súlade so zákonom o štátnom rozpočte na príslušný rozpočtový rok poskytujú dotácie obciam a vyšším územným celkom na úhradu nákladov preneseného výkonu štátnej správy a dotácie z kapitoly Všeobecná pokladničná správa. Rozsah, spôsob a ďalšie podrobnosti o poskytovaní dotácií na úhradu nákladov preneseného výkonu štátnej správy ustanoví všeobecne záväzný právny predpis, ktorý vydá správca kapitoly, ktorý je orgánom štátnej správy. Rozsah, spôsob a ďalšie podrobnosti o poskytovaní dotácií z kapitoly Všeobecná pokladničná správa ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo financií.
 
-(3) Dotácie podľa odseku 1 sa poskytujú na základe žiadosti. Prílohou žiadosti sú doklady preukazujúce splnenie podmienok na poskytnutie dotácie ustanovených týmto zákonom alebo osobitným predpisom.
+(3) Dotácie podľa odseku 1 sa poskytujú na základe žiadosti. Prílohou žiadosti sú doklady preukazujúce splnenie podmienok na poskytnutie dotácie ustanovených týmto zákonom alebo osobitným predpisom. Na základe rozhodnutia poskytovateľa dotácie možno doklady preukazujúce splnenie podmienok na poskytnutie dotácie predložiť najneskôr do schválenia poskytnutia dotácie.
 
 (4) Dotáciu podľa odseku 1 možno poskytnúť žiadateľovi, ak
 
