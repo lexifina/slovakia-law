@@ -28,7 +28,7 @@
 
 (6) Odborne spôsobilá osoba je povinná každých päť rokov od vykonania skúšky zúčastniť sa školenia a po jeho skončení absolvovať preskúšanie; ak sa školenia nezúčastní alebo nevyhovie na preskúšaní, stratí odbornú spôsobilosť. Osoba, ktorá stratí odbornú spôsobilosť, je povinná bezodkladne odovzdať osvedčenie ministerstvu vnútra.
 
-(7) Odborná príprava na získanie odbornej spôsobilosti sa vykonáva za úhradu; to sa nevzťahuje na zamestnanca ministerstva, ostatného ústredného orgánu štátnej správy, iného ústredného štátneho orgánu, obvodného úradu, samosprávneho kraja a obce. Úhrada zodpovedá rozsahu nevyhnutných nákladov a je príjmom štátneho rozpočtu.
+(7) Odborná príprava na získanie odbornej spôsobilosti sa vykonáva za úhradu; to sa nevzťahuje na zamestnanca ministerstva, ostatného ústredného orgánu štátnej správy, iného ústredného štátneho orgánu, okresného úradu, samosprávneho kraja a obce. Úhrada zodpovedá rozsahu nevyhnutných nákladov a je príjmom štátneho rozpočtu.
 
 (8) Ministerstvo vnútra vedie v elektronickej forme evidenciu osvedčení.
 

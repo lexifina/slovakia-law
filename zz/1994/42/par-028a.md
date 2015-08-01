@@ -6,7 +6,7 @@
 
 (3) Obec na základe žiadosti posúdi v súčinnosti s
 
-- a) obvodným úradom rozsah poškodenia obydlia,
+- a) okresným úradom rozsah poškodenia obydlia,
 
 - b) úradom práce, sociálnych vecí a rodiny sociálnu situáciu žiadateľa.
 
@@ -20,7 +20,7 @@
 
 - d) osoba, ktorá dovŕšila vek potrebný na nárok na starobný dôchodok.<sup>31e</sup>)
 
-(5) Obec predloží zoznam žiadostí obvodnému úradu. Zoznam obsahuje najmä
+(5) Obec predloží zoznam žiadostí okresnému úradu. Zoznam obsahuje najmä
 
 - a) meno, priezvisko a adresu trvalého pobytu žiadateľa,
 
@@ -28,7 +28,7 @@
 
 - c) popis sociálnej situácie žiadateľa.
 
-(6) Obvodný úrad vypracuje zoznam žiadostí, ktoré predložili obce v jeho územnom obvode, ktorý predloží so svojím stanoviskom ministerstvu vnútra. Ministerstvo vnútra vypracuje návrh na poskytnutie výpomoci, ktorý predloží na schválenie vláde; ak sa výpomoc má poskytnúť z rozpočtovej rezervy vlády, Ministerstvu financií Slovenskej republiky na zabezpečenie postupu podľa osobitného zákona.<sup>31f</sup>)
+(6) Okresný úrad vypracuje zoznam žiadostí, ktoré predložili obce v jeho územnom obvode, ktorý predloží so svojím stanoviskom ministerstvu vnútra. Ministerstvo vnútra vypracuje návrh na poskytnutie výpomoci, ktorý predloží na schválenie vláde; ak sa výpomoc má poskytnúť z rozpočtovej rezervy vlády, Ministerstvu financií Slovenskej republiky na zabezpečenie postupu podľa osobitného zákona.<sup>31f</sup>)
 
 (7) Na poskytnutie výpomoci nie je právny nárok.
 
