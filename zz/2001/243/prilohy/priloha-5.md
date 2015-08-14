@@ -15,3 +15,5 @@ Príloha č. 5 k nariadeniu vlády č. 243/2001 Z. z.
   - 6. Smernica Komisie 2012/32/EÚ z 25. októbra 2012, ktorou sa mení a dopĺňa smernica Rady 96/98/ES o vybavení námorných lodí (Ú. v. EÚ L 312, 10. 11. 2012).
 
   - 7. Smernica Komisie 2013/52/EÚ z 30. októbra 2013, ktorou sa mení a dopĺňa smernica Rady 96/98/ES o vybavení námorných lodí (Ú. v. EÚ L 304, 14. 11. 2013).
+
+  - 8. Smernica Komisie 2014/93/EÚ z 18. júla 2014, ktorou sa mení smernica Rady 96/98/ES o vybavení námorných lodí (Ú. v. EÚ L 220, 25. 7. 2014).
