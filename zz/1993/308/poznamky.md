@@ -1,5 +1,3 @@
-- 1) Dohovor o právach dieťaťa (oznámenie Federálneho ministerstva zahraničných vecí č. 104/1991 Zb.).
-
 - 1a) § 18 ods. 2 písm. d) Občianskeho zákonníka.
 
 - 1aa) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
