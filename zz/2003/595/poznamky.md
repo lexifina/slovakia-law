@@ -150,7 +150,7 @@
 
 - 51) Napríklad vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej republiky č. 326/1990 Zb. o poskytovaní štipendií študentom vysokých škôl v znení neskorších predpisov.
 
-- 51a) § 12 ods. 2 a 3 zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+- 51a) § 27 ods. 3 a 6 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 52) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
@@ -176,7 +176,7 @@
 
 - 59b) Napríklad § 141 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 59c) § 13 ods. 2 zákona č. 184/2009 Z. z.
+- 59c) § 26 zákona č. 61/2015 Z. z.
 
 - 59d) § 29 ods. 11 písm. a) druhý a tretí bod zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
@@ -296,6 +296,8 @@
 
 - 80ab) § 87a zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
+- 80ac) § 19 zákona č. 61/2015 Z. z.
+
 - 80b) § 16 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
@@ -322,9 +324,7 @@
 
 - 86a) Napríklad § 152 Zákonníka práce.
 
-- 86aa) § 12 a 13 zákona č. 184/2009 Z. z.
-
-- 86ab) Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
+- 86aa) § 27 zákona č. 61/2015 Z. z.
 
 - 87) Zákon č. 283/2002 Z. z.
 
