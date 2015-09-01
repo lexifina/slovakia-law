@@ -196,6 +196,16 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie Od poplatku podľa písmena d) tejto položky sú oslobodené gymnázia, stredné odborné školy, konzervatóriá, školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami, základné umelecké školy, jazykové školy, ktoré žiadajú o akreditáciu vzdelávacieho programu ďalšieho vzdelávania zodpovedajúcu študijným odborom alebo učebným odborom, ktoré sú uvedené pre príslušnú školu v sieti,<sup>20</sup>) a vysoká škola, ktorá žiada o akreditáciu vzdelávacieho programu ďalšieho vzdelávania v rozsahu platnej akreditácie vysokoškolských študijných programov.<sup>21</sup>) |
 
+    - Položka 5a
+
+  - a) Vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti technika požiarnej ochrany a špecialistu požiarnej ochrany podľa osobitného predpisu<sup>10c</sup>) | 82,50 eura
+
+  - b) Vydanie osvedčenia o odbornej spôsobilosti podľa osobitného predpisu<sup>10d</sup>) | 6,50 eura
+
+  - c) Konanie o udelenie oprávnenia na vykonávanie odbornej prípravy podľa osobitného predpisu<sup>10e</sup>) | 100 eur
+
+  - d) Konanie o udelenie oprávnenia na vykonávanie odbornej prípravy a vydávanie osobitných oprávnení podľa osobitného predpisu<sup>10f</sup>) | 100 eur.
+
     - Položka 6
 
   - a) Vydanie preukazu (osvedčenia), ak nejde o úkon spoplatňovaný podľa inej položky sadzobníka ..... | 4,50 eura
@@ -436,9 +446,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 20 eur
 
-  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov bol v čase jej narodenia československým štátnym občanom | 20 eur
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 20 eur
 
-  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl<sup>16a</sup>) a presídlenci z Ukrajiny z oblasti Černobyľu. |
+  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl<sup>16a</sup>) a presídlenci z Ukrajiny z oblasti Černobyľu, cudzinci nad 65 rokov veku, invalidní dôchodcovia, osoby s ťažkým zdravotným postihnutím a cudzinci, ktorí stratili štátne občianstvo Slovenskej republiky po 1. januári 1993. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
@@ -462,9 +472,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 10 eur
 
-  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky osoby ku dňu jej úmrtia alebo k inému dňu, ktorý predchádza dňu podania žiadosti | 10 eur
+  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky | 10 eur
 
   - Oslobodenie Od poplatku podľa tejto položky je oslobodené konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky na účely vydania prvého občianskeho preukazu. |
+
+  - Poznámka Ak žiadateľ požaduje vydanie viacerých osvedčení o štátnom občianstve Slovenskej republiky alebo potvrdení o štátnom občianstve Slovenskej republiky, poplatok sa vyrubuje za každý takýto vydaný originál. |
 
     - Položka 22a
 
@@ -4944,9 +4956,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 245
 
-  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky | 10 eur
+  - a) Konanie o vydanie osvedčenia o štátnom občianstve Slovenskej republiky........................................................................ | 10 eur
 
-  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky osoby ku dňu jej úmrtia alebo k inému dňu, ktorý predchádza dňu podania žiadosti | 10 eur
+  - b) Konanie o vydanie potvrdenia o štátnom občianstve Slovenskej republiky........................................................................ | 10 eur
+
+  - Poznámka Ak žiadateľ požaduje vydanie viacerých osvedčení o štátnom občianstve Slovenskej republiky alebo potvrdení o štátnom občianstve Slovenskej republiky, poplatok sa vyrubuje za každý takýto vydaný originál. |
 
     - Položka 246
 
@@ -4978,7 +4992,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) Udelenie štátneho občianstva Slovenskej republiky štátnym občanom Českej republiky narodeným po 1. 1. 1993 | 20 eur
 
-  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov bol v čase jej narodenia československým štátnym občanom | 20 eur
+  - e) Udelenie štátneho občianstva Slovenskej republiky osobe, ktorej aspoň jeden z rodičov alebo prarodičov bol československým štátnym občanom | 20 eur
+
+  - Oslobodenie Od poplatkov podľa tejto položky sú oslobodení cudzinci, ktorým sa udelil azyl, presídlenci z Ukrajiny z oblasti Černobyľu, cudzinci nad 65 rokov veku, invalidní dôchodcovia, osoby s ťažkým zdravotným postihnutím a cudzinci, ktorí stratili štátne občianstvo Slovenskej republiky po 1. januári 1993. |
 
   - Poznámka Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 

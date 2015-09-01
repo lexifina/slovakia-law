@@ -86,6 +86,22 @@
 
 - 10b) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
+- 10c) § 11 ods. 5 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 129/2015 Z. z.
+
+- § 11a ods. 3 písm. a) zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- 10d) § 11 ods. 5 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- § 11a ods. 9 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- § 40 ods. 5 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- § 77b ods. 4 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- 10e) § 12 ods. 1 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
+- 10f) § 11c ods. 9 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
 - 11) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
