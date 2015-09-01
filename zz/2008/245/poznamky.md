@@ -42,6 +42,8 @@
 
 - Dohoda medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami o náboženskej výchove a vzdelávaní (č. 395/2004 Z. z.).
 
+- 17a) § 4 ods. 2 zákona č. 61/2015 Z. z.
+
 - 18) Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich skratiek viažucich sa na odbornú spôsobilosť na výkon zdravotníckeho povolania.
 
 - 19) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -61,6 +63,8 @@
 - 25) § 5 ods. 4 písm. h) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 26) § 57 ods. 3 zákona č. 195/1998 Z. z. v znení neskorších predpisov.
+
+- 26a) Dohovor, ktorým sa definuje štatút Európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
 
 - 27) § 5 ods. 3 písm. d) a ods. 4 písm. b) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -106,13 +110,17 @@
 
 - 47aa) § 17 zákona č. 61/2015 Z. z.
 
+- 47b) § 9 zákona č. 61/2015 Z. z.
+
 - 48) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 49) § 11 ods. 6 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- 49a) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
+- 49a) § 28 ods. 2 písm. c) zákona č. 61/2015 Z. z.
 
 - 50) § 10 odsek 14 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 51) § 7 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
 - 52) § 13 ods. 11 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
