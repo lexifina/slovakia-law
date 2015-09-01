@@ -1,1 +1,0 @@
-- 1) Zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov.
