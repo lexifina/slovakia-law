@@ -1,5 +1,7 @@
 - 1) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi.
 
+- 1a) § 2 ods. 6 písm. a) zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+
 - 2) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov.
 
 - 2a) Napríklad čl. 1 ods. 5 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení ústavného zákona č. 566/2005 Z. z., § 6 ods. 3 zákona č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov, zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
