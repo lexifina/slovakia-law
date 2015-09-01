@@ -14,7 +14,7 @@
 
 - f) určenie odstupových vzdialeností od stavby,
 
-- g) vybavenie stavby požiarnotechnickými zariadeniami,
+- g) vybavenie stavby požiarnymi zariadeniami,
 
 - h) zabezpečenie stavby vodou na hasenie požiarov,
 
@@ -22,11 +22,7 @@
 
 - j) určenie požiadaviek na elektroinštaláciu stavby,
 
-- k) zhodnotenie zdrojov plynu a rozvodov plynu,
-
-- l) riešenie protipožiarnej bezpečnosti pri umiestňovaní technologického zariadenia alebo technického zariadenia,
-
-- m) posúdenie dokladov o vhodnosti použitia stavebných výrobkov.<sup>8</sup>)
+- k) zhodnotenie zdrojov plynu a rozvodov plynu.
 
 (2) Obsah riešenia protipožiarnej bezpečnosti stavby je uvedený v prílohe č. 7.
 
@@ -40,7 +36,7 @@
 
 - d) spojovacie prostriedky, akustické poplachové zariadenia a núdzové osvetlenie,
 
-- e) stabilné hasiace zariadenia a zariadenia na odvod dymu a tepla,
+- e) stabilné hasiace zariadenia a zariadenia na odvod tepla a splodín horenia,
 
 - f) hasiace prístroje, odberné miesta, vodné clony a stanice na zvyšovanie tlaku vody,
 

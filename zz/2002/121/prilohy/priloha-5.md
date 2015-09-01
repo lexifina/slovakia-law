@@ -1,1 +1,3 @@
-Príloha č. 5 k vyhláške č. 121/2002 Z. z. [Vzor 05](../assets/812fd363958025146f67ba3218d0eb039763b6e850c209550068d8ba2fa21976.pdf)
+Príloha č. 3a k vyhláške č. 121/2002 Z. z.
+
+- Osvedčenie o odbornej spôsobilosti [Osvedčenie o odbornej spôsobilosti](../assets/ab9c50546834dcb5968857e66f4a102f8b647f3f50b37aa7e30b1def76f2906d.pdf)
