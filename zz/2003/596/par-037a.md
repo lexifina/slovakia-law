@@ -36,10 +36,26 @@
 
   - 2. zrušil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich vyradení zo siete,
 
-- c) od 100 eur do 3000 eur zriaďovateľovi, ktorý údaje podľa § 35a neposkytol alebo poskytol nepravdivé údaje.
+- c) od 100 eur do 3000 eur zriaďovateľovi, ktorý údaje podľa § 35a neposkytol alebo poskytol nepravdivé údaje,
 
-(6) Pokutu možno uložiť do jedného roka odo dňa, keď správny orgán zistil porušenie povinností, najneskôr však do troch rokov odo dňa, keď k porušeniu povinností došlo.
+- d) do 5 000 eur zriaďovateľovi, ktorý
 
-(7) Pri ukladaní pokuty správny orgán prihliada najmä na závažnosť, čas trvania a následky protiprávneho konania.
+  - 1. nespracuje alebo spracuje nesprávne, nepravdivé alebo neúplné údaje podľa § 23a ods. 3 písm. d), g) až j) a ods. 4 písm. c) alebo
 
-(8) Výnos z pokút je príjmom štátneho rozpočtu okrem výnosu z pokút podľa odseku 1, ktorý je príjmom obce.
+  - 2. nesplní povinnosť oznámiť údaje podľa § 23a ods. 10,
+
+(6) Ministerstvo uloží pokutu do 3 000 eur škole alebo školskému zariadeniu, ak
+
+- a) neposkytne alebo poskytne nesprávne, nepravdivé alebo neúplné údaje do Centrálneho registra detí, žiakov a poslucháčov,<sup>79b</sup>)
+
+- b) nesplní povinnosť oznámiť údaje na spracovanie údajov v Centrálnom registri detí, žiakov a poslucháčov podľa osobitného predpisu,<sup>79c</sup>)
+
+- c) nezaznamená alebo zaznamená nesprávne, nepravdivé alebo neúplné údaje do Centrálneho registra pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení<sup>79d</sup>) alebo
+
+- d) nesplní povinnosť oznámiť údaje na spracovanie v Centrálnom registri pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení podľa osobitného predpisu.<sup>79e</sup>)
+
+(7) Pokutu možno uložiť do jedného roka odo dňa, keď správny orgán zistil porušenie povinností, najneskôr však do troch rokov odo dňa, keď k porušeniu povinností došlo.
+
+(8) Pri ukladaní pokuty správny orgán prihliada najmä na závažnosť, čas trvania a následky protiprávneho konania.
+
+(9) Výnos z pokút je príjmom štátneho rozpočtu okrem výnosu z pokút podľa odseku 1, ktorý je príjmom obce.

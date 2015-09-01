@@ -6,6 +6,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
+- 3a) § 5 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 4) § 7 ods. 3, § 42 a 43 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
 - 5) Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
@@ -29,8 +31,6 @@
 - 13) § 11 ods. 4 písm. k) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - § 11 ods. 2 písm. g) zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
-
-- 13a) Čl. 1 ods. 2 Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z.).
 
 - 13b) § 6 zákona č. 317/2009 Z. z.
 
@@ -120,10 +120,6 @@
 
 - 41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.
 
-- 41aa) § 2 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
-
-- 41ab) § 80 ods. 7 a § 84 ods. 1 zákona č. 245/2008 Z. z.
-
 - 41b) § 27 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 42) Zákon č. 152/1998 Z. z.
@@ -194,9 +190,19 @@
 
 - 79a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 79b) § 157 a 158 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 79c) § 158 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 79d) § 58 a 59 zákona č. 317/2009 Z. z. v znení zákona č. 390/2011 Z. z.
+
+- 79e) § 59 ods. 3 zákona č. 317/2009 Z. z. v znení neskorších predpisov.
+
 - 80) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 81) § 7 Občianskeho súdneho poriadku.
+
+- 81a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
 - 82) § 15 ods. 2 zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
