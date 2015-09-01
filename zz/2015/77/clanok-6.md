@@ -116,7 +116,51 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - Komora poskytuje v elektronickej podobe v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>) údaje z registra licencií v rozsahu podľa odseku 2 písm. b) až d) a f) až n) a § 70 ods. 2 písm. c) a e) národnému centru.“.
 
+- 17. V § 79 ods. 1 písmeno zb) znie:
+
+- „zb)
+
+- zasielať v elektronickej forme centru pre klasifikačný systém diagnosticko-terapeutických skupín<sup>55c</sup>) údaje o
+
+- 1.
+
+- poskytnutej zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia okrem údajov o zdravotnej starostlivosti poskytnutej v špecializačnom odbore psychiatria alebo v špecializačnom odbore detská psychiatria podľa zoznamu zdravotných výkonov pre klasifikačný systém diagnosticko-terapeutických skupín (§ 79 ods. 10) kódovaných podľa pravidiel kódovania chorôb a pravidiel kódovania zdravotných výkonov (§ 79 ods. 12) do 31. marca kalendárneho roka za predchádzajúci kalendárny rok,
+
+- 2.
+
+- poskytnutej zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia okrem údajov o zdravotnej starostlivosti poskytnutej v špecializačnom odbore psychiatria alebo v špecializačnom odbore detská psychiatria podľa zoznamu chorôb<sup>55ca</sup>) kódovaných podľa pravidiel kódovania chorôb a pravidiel kódovania zdravotných výkonov (§ 79 ods. 12) do 31. marca kalendárneho roka za predchádzajúci kalendárny rok,
+
+- 3.
+
+- nákladoch na poskytnutú zdravotnú starostlivosť uhrádzanú na základe verejného zdravotného poistenia okrem údajov o nákladoch na zdravotnú starostlivosť poskytnutú v špecializačnom odbore psychiatria alebo v špecializačnom odbore detská psychiatria do 30. apríla kalendárneho roka za predchádzajúci kalendárny rok,“.
+
+  - Poznámky pod čiarou k odkazom 55c a 55ca znejú:
+
+  - „55c)
+
+  - § 20 ods. 1 písm. m) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+  - 55ca)
+
+  - Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.“.
+
+- 20. V § 79 ods. 1 písm. zk) sa vypúšťajú slová „ak ide o poskytovateľa ústavnej zdravotnej starostlivosti“.
+
+- 21. V § 79 ods. 3 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- odseku 1 písm. zb) a zk) sa vzťahujú len na poskytovateľa, ktorý je držiteľom povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorý má so zdravotnou poisťovňou uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti,<sup>11</sup>)“.
+
+  - Doterajšie písmená c) až e) sa označujú ako písmená d) až f).
+
 - 22. V § 79 ods. 7 sa slová „ktorý je držiteľom povolenia“ nahrádzajú slovami „podľa § 4“ a za slovo „povolenia“ sa vkladá čiarka a slová „licencie na výkon samostatnej zdravotníckej praxe alebo živnostenského oprávnenia“.
+
+- 23. § 79 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Pravidlá kódovania chorôb a pravidlá kódovania zdravotných výkonov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.“.
 
 - 24. V § 79a ods. 1 písm. d) úvodnej vete sa za slovo „mesiaci“ vkladajú slová „v listinnej podobe“ a za slovo „dohľad“ sa vkladajú slová „alebo v elektronickej podobe“.
 

@@ -150,6 +150,10 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
   - § 14 ods. 1 písm. a) zákona č. 153/2013 Z. z.“.
 
+- 25. V § 20b ods. 2 sa slová „poskytovatelia zdravotnej starostlivosti“ nahrádzajú slovami „poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorí majú so zdravotnou poisťovňou uzatvorenú zmluvu podľa § 7“.
+
+- 26. V § 20b sa vypúšťa odsek 3.
+
 - 27. V § 20c ods. 3 písm. a) sa na konci pripájajú tieto slová: „ministerstvom zdravotníctva alebo úradom,“.
 
 - 28. V § 20c ods. 4 sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „zamestnanec ministerstva zdravotníctva alebo zamestnanec úradu.“.
