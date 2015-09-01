@@ -2,6 +2,8 @@
 
 - 1a) Napríklad § 61 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 1aa) § 244 Občianskeho súdneho poriadku.
+
 - 1b) § 15 a 16 zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
 - 1c) § 71 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
