@@ -92,6 +92,10 @@ Zákon č. 311/2001 Z. z. Zákonník práce v znení zákona č. 165/2002 Z. z.,
 
 - Pracovný pomer zaniká aj na základe zákona podľa § 58 ods. 7.“.
 
+- 16. V § 63 ods. 1 písm. b) sa na konci pripájajú tieto slová: „a zamestnávateľ, ktorý je agentúrou dočasného zamestnávania, aj ak sa zamestnanec stane nadbytočným vzhľadom na skončenie dočasného pridelenia podľa § 58 pred uplynutím doby, na ktorú bol dohodnutý pracovný pomer na určitú dobu“.
+
+- 17. V § 63 ods. 2 úvodnej vete sa za slovo „nejde“ vkladajú slová „o výpoveď z dôvodu nadbytočnosti zamestnanca vzhľadom na skončenie dočasného pridelenia podľa § 58 pred uplynutím doby, na ktorú bol dohodnutý pracovný pomer na určitú dobu,“.
+
 - 18. V § 99 sa na konci pripája táto veta: „Počas dočasného pridelenia zamestnávateľ vedie evidenciu podľa prvej vety v mieste výkonu práce dočasne prideleného zamestnanca.“.
 
 - 19. V § 103 ods. 3 sa za slovami „odbornej výchovy“ slovo „a“ nahrádza čiarkou a za slovom „vychovávateľa“ sa vkladajú slová „ a dovolenka odborného zamestnanca podľa osobitného predpisu“.
