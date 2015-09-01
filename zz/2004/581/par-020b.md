@@ -30,6 +30,4 @@
 
 - n) vykonáva školenia odborne spôsobilých osôb pre klasifikačný systém,
 
-(2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia zdravotnej starostlivosti.
-
-(3) Na zabezpečenie činností uvedených v odseku 1 je užívateľ klasifikačného systému povinný odovzdávať centru pre klasifikačný systém klinické údaje o poskytnutej zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia, ktorými sú popis zdravotnej starostlivosti poskytnutej poskytovateľom zdravotnej starostlivosti a popis vyžiadanej zdravotnej starostlivosti vykázanej iným poskytovateľom zdravotnej starostlivosti, než ktorý túto zdravotnú starostlivosť poskytol, pričom tieto údaje musia byť upravené tak, aby neumožnili identifikáciu jednotlivých pacientov.
+(2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorí majú so zdravotnou poisťovňou uzatvorenú zmluvu podľa § 7.
