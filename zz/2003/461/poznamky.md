@@ -92,6 +92,8 @@
 
 - Zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
+- Zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov.
+
 - 39d) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
 - Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
