@@ -4,17 +4,17 @@
 
 - § 3 ods. 1 vyhlášky Ministerstva školstva Slovenskej republiky č. 307/2008 Z. z. o výchove a vzdelávaní žiakov s intelektovým nadaním.
 
-- 3) § 14 a § 161 ods. 11 a 14 zákona č. 245/2008 Z. z.
-
-- Príloha k vyhláške Ministerstva školstva Slovenskej republiky č. 314/2008 Z. z. o stredných školách a o zozname študijných odborov a učebných odborov, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania.
-
-- 4) § 107 ods. 4 zákona č. 245/2008 Z. z.
-
 - 5) § 54 ods. 2 zákona č. 245/2008 Z. z.
 
-- 6) § 118 zákona č. 245/2008 Z. z.
+- 6) § 161da zákona č. 245/2008 Z. z. v znení zákona č. 61/2015 Z. z.
 
-- 6a) § 42 ods. 6 zákona č. 245/2008 Z. z. v znení zákona č. 324/2012 Z. z.
+- 6a) § 42 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 6b) § 29 ods. 2 písm. a) a b) zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+
+- 6c) § 10 ods. 5 zákona č. 61/2015 Z. z.
+
+- 6d) § 47a zákona č. 245/2008 Z. z. v znení zákona č. 61/2015 Z. z.
 
 - 7) § 117 zákona č. 245/2008 Z. z.
 
