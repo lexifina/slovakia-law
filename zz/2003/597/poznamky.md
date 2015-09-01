@@ -12,7 +12,7 @@
 
 - 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 1 písm. a) až c) a e) až h) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
-- 7) § 4 ods. 2 písm. c) zákona č. 184/2009 Z. z. v znení zákona č. 324/2012 Z. z.
+- 7) § 31 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 10) § 10 ods. 1 písm. h) a j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
@@ -27,8 +27,6 @@
 - 15) § 26 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 16) § 151 ods. 1 zákona č. 245/2008 Z. z.
-
-- 17) § 35 a 36 zákona č. 596/2003 Z. z. v znení neskorších predpisov.§ 23 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 17a) § 7 Zákonníka práce.
 
@@ -59,8 +57,6 @@
 - 22d) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
 
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 22ea) § 11 zákona č. 184/2009 Z. z.
 
 - 22f) § 19 ods. 2 písm. a) až c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
@@ -118,7 +114,9 @@
 
 - 24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.
 
-- 24ba) § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+- 24ba) § 29 ods. 2 písm. a) a b) zákona č. 61/2015 Z. z.
+
+- 24bb) § 10 ods. 5 zákona č. 61/2015 Z. z.
 
 - 24c) § 19 ods. 2 písm. a), b) a d) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 

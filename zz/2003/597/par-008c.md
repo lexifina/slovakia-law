@@ -6,7 +6,7 @@
 
 - b) nákladov súvisiacich s činnosťou predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a jej členov vrátane odborníkov z praxe, predsedu skúšobnej komisie pre záverečnú skúšku a pre absolventskú skúšku a jej členov vrátane odborníkov z praxe podľa osobitného predpisu.<sup>25aa</sup>)
 
-(2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného obvodného úradu v sídle kraja v priebehu kalendárneho roka.
+(2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja v priebehu kalendárneho roka.
 
 (3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, verejným materským školám a verejným školským zariadeniam
 

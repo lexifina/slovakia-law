@@ -1,28 +1,6 @@
 # § 6c Dotácie
 
-(1) Ministerstvo môže poskytnúť z rozpočtu kapitoly ministerstva dotáciu na tieto činnosti:
-
-- a) rozvoj výchovy a vzdelávania v oblastiach podľa § 4d ods. 1,
-
-- b) podporu aktivít súvisiacich so zabezpečením praktického výcviku žiakov na detských dopravných ihriskách,
-
-- c) podporu vydávania odborných časopisov pre zamestnancov škôl a školských zariadení a pre deti, žiakov a poslucháčov škôl a školských zariadení,
-
-- d) podporu vydávania publikácií a dátových nosičov pre školy a školské zariadenia využívaných ako doplnok k učebniciam,
-
-- e) zabezpečenie experimentálneho overovania v základných umeleckých školách, materských školách, jazykových školách a školských zariadeniach,
-
-- f) zabezpečenie prepisu publikácií využívaných ako doplnok k učebniciam do foriem vhodných z hľadiska možností vnímania žiakov so zdravotným znevýhodnením,
-
-- g) podporu aktivít súvisiacich s umeleckým vzdelávaním v základných umeleckých školách,
-
-- h) organizačné zabezpečenie celoslovenských súťaží pedagogických zamestnancov a odborných zamestnancov škôl a školských zariadení,
-
-- i) podporu prevádzky a ďalšieho rozširovania infraštruktúry, ktorú používajú školy a školské zariadenia zaradené do siete podľa osobitného predpisu;<sup>5</sup>) infraštruktúrou sa rozumie technologicko-komunikačné prostredie zabezpečujúce najmä implementáciu a prevádzkovanie informačných systémov, poskytovanie a rozvoj elektronických služieb,
-
-- j) ocenenie výhercov súťaží, ktorých organizátorom alebo spoluorganizátorom je ministerstvo okrem súťaží pedagogických zamestnancov a odborných zamestnancov a súťaží detí a žiakov škôl a školských zariadení,
-
-- k) výstavbu, prístavbu, rekonštrukciu a modernizáciu materských škôl a školských zariadení.
+(1) Ministerstvo môže poskytnúť z kapitoly ministerstva dotáciu zameranú na rozvoj výchovy a vzdelávania. Zoznam oblastí zameraných na rozvoj výchovy a vzdelávania zverejňuje ministerstvo na svojom webovom sídle.
 
 (2) Dotáciu na činnosti podľa odseku 1 (ďalej len „aktivity“) možno poskytnúť po splnení podmienok podľa tohto zákona a podľa osobitného predpisu<sup>23i</sup>) žiadateľom, ktorými sú:
 
@@ -40,7 +18,7 @@
 
 - b) refundáciu výdavkov uhradených v predchádzajúcich rozpočtových rokoch.
 
-(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne. Žiadosť podľa odseku 1 písm. a) až c), g) a k) predkladá žiadateľ na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy. Žiadosť podľa odseku 1 písm. d) až f) a h) až j) predkladá žiadateľ v priebehu kalendárneho roka.
+(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne v priebehu kalendárneho roka alebo na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy.
 
 (5) Ministerstvo zverejňuje na svojom webovom sídle výzvu na predloženie žiadostí, a to najmenej 30 dní pred termínom predkladania žiadostí. Výzva na predloženie žiadostí obsahuje najmä
 
@@ -104,7 +82,7 @@
 
 - j) súhlas žiadateľa so zhromažďovaním, spracovaním a zverejňovaním poskytnutých údajov.
 
-(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity podľa odseku 1 písm. a) až c), g) a k) určí ministerstvo vo výzve a podľa odseku 1 písm. d) až f) a h) až j) určí ministerstvo v zmluve o poskytnutí dotácie.
+(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity určuje ministerstvo vo výzve alebo v zmluve o poskytnutí dotácie.
 
 (9) Ministerstvo poskytne žiadateľovi dotáciu na realizáciu aktivity podľa odseku 1 najmä podľa
 

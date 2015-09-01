@@ -22,7 +22,7 @@
 
 - j) všetkých žiakov základných škôl, základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, päťročných gymnázií, osemročných gymnázií a osemročných konzervatórií podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby; v cirkevných stredných školách a v súkromných stredných školách žiakov do dovŕšenia 15 rokov veku,
 
-- k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obvodného úradu v sídle kraja, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby.
+- k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti okresného úradu v sídle kraja, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby,
 
 (2) Na účely zberu údajov podľa odseku 1 sa do počtu detí, žiakov a poslucháčov započítavajú deti, žiaci a poslucháči prijatí do školy alebo do školského zariadenia na základe rozhodnutia riaditeľa školy alebo riaditeľa školského zariadenia.<sup>24g</sup>)
 
@@ -44,9 +44,9 @@
 
 (7) Údaje podľa odsekov 1 až 5 je
 
-- a) obec povinná poskytnúť za všetky školy a školské zariadenia so sídlom na jej území príslušnému obvodnému úradu v sídle kraja najneskôr do 5. októbra kalendárneho roka,
+- a) obec povinná poskytnúť za všetky školy a školské zariadenia so sídlom na jej území príslušnému okresnému úradu v sídle kraja najneskôr do 5. októbra kalendárneho roka,
 
-- b) obvodný úrad v sídle kraja povinný oznámiť za obce vo svojej územnej pôsobnosti ministerstvu do 15. októbra kalendárneho roka.
+- b) okresný úrad v sídle kraja povinný oznámiť za obce vo svojej územnej pôsobnosti ministerstvu do 15. októbra kalendárneho roka.
 
 (8) Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo zriaďovateľom škôl a školských zariadení a obciam každoročne najneskôr do 31. augusta.
 

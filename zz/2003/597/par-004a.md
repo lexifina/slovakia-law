@@ -18,7 +18,7 @@
 
 - c) počet asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním, na ktorých sa požadujú finančné prostriedky.
 
-(5) Žiadosť podľa odsekov 3 a 4 predkladá zriaďovateľ ministerstvu prostredníctvom príslušného obvodného úradu v sídle kraja najneskôr do 30. septembra príslušného kalendárneho roka.
+(5) Žiadosť podľa odsekov 3 a 4 predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja najneskôr do 30. septembra príslušného kalendárneho roka.
 
 (6) Ministerstvo pridelí zriaďovateľovi verejnej školy finančné prostriedky na účely podľa odseku 2 písm. b) podľa
 
@@ -30,6 +30,6 @@
 
 - d) bariér, ktoré žiak nedokáže prekonať bez pomoci z dôvodu zdravotného znevýhodnenia; za bariéry sa považujú najmä dorozumievacie ťažkosti, problémy s orientáciou v priestore, stavebné prekážky a neschopnosť adaptácie.
 
-(7) Zriaďovateľ školy je povinný do 10 dní od skončenia činnosti asistenta učiteľa v škole predložiť obvodnému úradu v sídle kraja zúčtovanie poskytnutých finančných prostriedkov a vrátiť nevyčerpané finančné prostriedky, ak asistent učiteľa skončil činnosť v škole pred uplynutím obdobia, na ktoré mu boli tieto finančné prostriedky poskytnuté. Obvodný úrad v sídle kraja do 5 dní od predloženia zúčtovania zriaďovateľom oznámi ministerstvu návrh na ich ďalšie pridelenie. Ministerstvo pridelí finančné prostriedky ďalšiemu žiadateľovi podľa odseku 6.
+(7) Zriaďovateľ školy je povinný do 10 dní od skončenia činnosti asistenta učiteľa v škole predložiť okresnému úradu v sídle kraja zúčtovanie poskytnutých finančných prostriedkov a vrátiť nevyčerpané finančné prostriedky, ak asistent učiteľa skončil činnosť v škole pred uplynutím obdobia, na ktoré mu boli tieto finančné prostriedky poskytnuté. Okresný úrad v sídle kraja do 5 dní od predloženia zúčtovania zriaďovateľom oznámi ministerstvu návrh na ich ďalšie pridelenie. Ministerstvo pridelí finančné prostriedky ďalšiemu žiadateľovi podľa odseku 6.
 
 (8) Ministerstvo každoročne zverejňuje zoznam škôl a ich zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 2 písm. b), a výšku pridelených finančných prostriedkov na svojom webovom sídle najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte.
