@@ -204,7 +204,9 @@
 
 - 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
-- 55c) § 20b zákona č. 581/2004 Z. z. v znení zákona č. 34/2011 Z. z.
+- 55c) § 20 ods. 1 písm. m) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 55ca) Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
 
