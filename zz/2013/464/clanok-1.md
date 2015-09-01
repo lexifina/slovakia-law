@@ -118,11 +118,49 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 29 žiakov v triede piateho až deviateho ročníka.“.
 
+- 10. V § 29 odsek 8 znie:
+
+- „(8)
+
+- Najnižší počet žiakov v triede základnej školy je
+
+- a)
+
+- osem žiakov v triede nultého ročníka; šesť žiakov v triede nultého ročníka v neplnoorganizovanej základnej škole,
+
+- e)
+
+- 15 žiakov v triede piateho až deviateho ročníka.“.
+
 - 11. § 29 sa dopĺňa odsekmi 14 až 16, ktoré znejú:
 
 - „(14)
 
-- Ak riaditeľ základnej školy povolil plniť povinnú školskú dochádzku mimo územia Slovenskej republiky, a preto je počet žiakov vzdelávaných v triede nižší ako počet žiakov v triede podľa odseku 5, riaditeľ základnej školy môže navýšiť počet vzdelávaných žiakov v triede o počet žiakov, ktorí plnia povinnú školskú dochádzku mimo územia Slovenskej republiky.“.
+- Ak riaditeľ základnej školy povolil plniť povinnú školskú dochádzku mimo územia Slovenskej republiky, a preto je počet žiakov vzdelávaných v triede nižší ako počet žiakov v triede podľa odseku 5, riaditeľ základnej školy môže navýšiť počet vzdelávaných žiakov v triede o počet žiakov, ktorí plnia povinnú školskú dochádzku mimo územia Slovenskej republiky.
+
+- (15)
+
+- Ak je na území obce zriadená základná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku a súčasne v jazyku príslušnej národnostnej menšiny, alebo ak je na území obce zriadená základná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku a súčasne základná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v jazyku príslušnej národnostnej menšiny s rovnakým zriaďovateľom, počet žiakov v triede podľa odseku 8 sa môže znížiť o dvoch žiakov.
+
+- (16)
+
+- Zriaďovateľ základnej školy môže určiť v osobitných prípadoch aj nižší počet žiakov v triede, ako je počet žiakov uvedený v odsekoch 8 a 15. Za osobitný prípad sa považuje
+
+- a)
+
+- znížená dostupnosť žiakov do školy; za zníženú dostupnosť žiakov do školy sa považuje dĺžka dopravnej cesty vlakom alebo autobusom z miesta trvalého pobytu žiaka dlhšia ako 6 kilometrov,
+
+- b)
+
+- vzdelávanie žiakov v jazyku národnostnej menšiny, ak v okruhu 6 kilometrov od miesta trvalého pobytu žiaka nie je žiadna iná základná škola s vyučovacím jazykom národnostnej menšiny,
+
+- c)
+
+- vzdelávanie žiakov zo sociálne znevýhodneného prostredia, ak je z celkového počtu žiakov školy viac ako 80 % žiakov zo sociálne znevýhodneného prostredia, alebo
+
+- d)
+
+- ďalšie prípady hodné osobitného zreteľa.“.
 
 - 12. V § 33 ods. 1 sa číslo „30“ nahrádza číslom „31“.
 
@@ -131,6 +169,22 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - „(6)
 
 - Ak riaditeľ strednej školy povolil absolvovať časť štúdia v škole obdobného typu v zahraničí, a preto je počet žiakov vzdelávaných v triede nižší ako počet žiakov v triede podľa odseku 1, riaditeľ strednej školy môže navýšiť počet vzdelávaných žiakov v triede o počet žiakov, ktorí absolvujú časť štúdia v škole obdobného typu v zahraničí.
+
+- (7)
+
+- Najnižší počet žiakov v triede strednej školy je
+
+- a)
+
+- 17 žiakov v triede strednej školy v dennej forme štúdia,
+
+- b)
+
+- 8 žiakov v triede strednej školy v externej forme štúdia.
+
+- (8)
+
+- Zriaďovateľ strednej odbornej školy môže určiť v osobitnom prípade aj nižší počet žiakov v triede, ako je počet žiakov uvedený v odseku 7, a to v dennej forme štúdia 13 žiakov a v externej forme štúdia 5 žiakov. Za osobitný prípad sa považuje v stredných odborných školách zaradenie študijného odboru alebo učebného odboru do zoznamu študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce,<sup>32b</sup>) ak nie je možné zriadiť triedu podľa odseku 10.
 
 - (9)
 
@@ -154,17 +208,39 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 14. V § 48 ods. 1 sa slová „organizáciu vzdelávania v nich“ nahrádzajú slovami „organizáciu vzdelávania v triede strednej školy“.
 
+- 15. V § 55 ods. 7 sa slová „prípravného ročníka a prvého ročníka základnej školy“ nahrádzajú slovami „prípravného ročníka, prvého ročníka základnej školy a žiaka s mentálnym postihnutím vo všetkých ročníkoch základnej školy“.
+
+- 16. § 55 sa dopĺňa odsekom 23, ktorý znie:
+
+- „(23)
+
+- Žiak s mentálnym postihnutím, žiak s autizmom alebo ďalšími pervazívnymi vývinovými poruchami, okrem žiaka odborného učilišťa, sa môže hodnotiť podľa odseku 1 písm. a) slovným komentárom o dosiahnutých vzdelávacích výsledkoch bez vyjadrenia stupňov.“.
+
 - 17. V § 64 odsek 2 znie:
 
 - „(2)
 
 - Riaditeľ strednej školy po prerokovaní v pedagogickej rade školy a v rade školy predloží zriaďovateľovi školy najneskôr do 15. júna návrh na počet tried prvého ročníka pre prijímacie konanie v nasledujúcom školskom roku v členení na jednotlivé študijné odbory alebo jednotlivé učebné odbory a návrh na počet spoločných tried prvého ročníka pre prijímacie konanie v nasledujúcom školskom roku v členení na jednotlivé príbuzné študijné odbory alebo jednotlivé príbuzné učebné odbory. Zriaďovateľ strednej školy<sup>47a</sup>) predloží návrhy podľa prvej vety do 30. júna samosprávnemu kraju, do ktorého územnej pôsobnosti stredná škola patrí.“.
 
+- 18. V § 79 ods. 2 písmeno c) znie:
+
+- „c)
+
+- na strednej odbornej škole, v ktorej sa žiaci pripravujú na výkon povolaní a odborných činností v umení, praktickú skúšku z hlavného odboru štúdia vrátane obhajoby absolventskej písomnej práce, teoretickú skúšku z odborných predmetov podľa charakteru príslušného študijného odboru; súčasťou absolventskej skúšky môže byť aj súborná skúška z pedagogickej prípravy,“.
+
 - 19. V § 89 sa vypúšťajú odseky 8 až 10.
 
 - Poznámka pod čiarou k odkazu 55 sa vypúšťa.
 
 - 20. V § 97 ods. 4 sa na konci pripája táto veta: „Ak sa na vzdelávanie detí a žiakov podľa § 94 ods. 2 písm. g) nezriadi škola pri zdravotníckom zariadení, môže toto vzdelávanie vykonávať pedagogický zamestnanec školy podľa § 95 ods. 1 písm. a) alebo písm. b).“.
+
+- 21. V 99 odsek 4 znie:
+
+- „(4)
+
+- V triede praktickej školy môže byť najviac desať žiakov a najmenej štyria žiaci; v triede praktickej školy pre žiakov s viacnásobným postihnutím alebo v triede pre žiakov s autizmom alebo ďalšími pervazívnymi vývinovými poruchami môže byť najviac šesť žiakov a najmenej štyria žiaci.“.
+
+- 22. V § 100 ods. 8 sa za slová „14 žiakov“ vkladajú slová „a najmenej štyria žiaci“.
 
 - 23. V § 107 odsek 4 znie:
 
@@ -202,7 +278,23 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - Prechodné ustanovenie k úpravám účinným od 1. marca 2014
 
-- O žiadosti o uznanie jazykového certifikátu ako náhrady maturitnej skúšky z cudzieho jazyka podanej podľa § 89 ods. 9 do 28. februára 2014 rozhodne riaditeľ školy podľa doterajších predpisov. Rozhodnutie o uznaní náhrady maturitnej skúšky z cudzieho jazyka sa môže uplatniť najneskôr v školskom roku 2014/2015.“.
+- O žiadosti o uznanie jazykového certifikátu ako náhrady maturitnej skúšky z cudzieho jazyka podanej podľa § 89 ods. 9 do 28. februára 2014 rozhodne riaditeľ školy podľa doterajších predpisov. Rozhodnutie o uznaní náhrady maturitnej skúšky z cudzieho jazyka sa môže uplatniť najneskôr v školskom roku 2014/2015.
+
+- § 161e
+
+- Prechodné ustanovenia k úpravám účinným od 1. septembra 2015
+
+- (1)
+
+- Na počty žiakov v triede druhého až štvrtého ročníka základnej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich štvrtého ročníka základnej školy sa vzťahuje právny predpis účinný do 31. augusta 2015.
+
+- (2)
+
+- Na počty žiakov v triede šiesteho až deviateho ročníka základnej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich deviateho ročníka základnej školy sa vzťahuje právny predpis účinný do 31. augusta 2015.
+
+- (3)
+
+- Na počty žiakov v triede druhého až ôsmeho ročníka strednej školy trojročného až osemročného štúdia strednej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich štúdia sa vzťahuje právny predpis účinný do 31. augusta 2015.“.
 
 - 31. V § 162 sa za slovo „právne“ vkladá slovo „záväzné“ a vypúšťajú sa slová „Európskych spoločenstiev a“.
 
