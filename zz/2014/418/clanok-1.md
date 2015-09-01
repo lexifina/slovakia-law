@@ -2,6 +2,38 @@
 
 Nariadenie vlády Slovenskej republiky č. 630/2008 Z. z., ktorým sa ustanovujú podrobnosti rozpisu finančných prostriedkov zo štátneho rozpočtu pre školy a školské zariadenia v znení nariadenia vlády Slovenskej republiky č. 29/2009 Z. z., nariadenia vlády Slovenskej republiky č. 598/2009 Z. z., nariadenia vlády Slovenskej republiky č. 517/2010 Z. z., nariadenia vlády Slovenskej republiky č. 494/2011 Z. z., nariadenia vlády Slovenskej republiky č. 443/2012 Z. z., nariadenia vlády Slovenskej republiky č. 102/2013 Z. z. a nariadenia vlády Slovenskej republiky č. 507/2013 Z. z. sa mení a dopĺňa takto:
 
+- 1. § 4 sa dopĺňa odsekmi 15 a 16, ktoré znejú:
+
+- „(15)
+
+- Normatív na žiaka prvého ročníka strednej odbornej školy a jeho nasledujúcich ročníkov vzdelávajúceho sa v študijnom odbore alebo v učebnom odbore zaradenom
+
+- a)
+
+- v zozname študijných odborov a učebných odborov, ktoré sú nad rozsah potrieb trhu práce,<sup>6b</sup>) je 90 % normatívu na žiaka príslušnej kategórie školy počas doby zaradenia študijného odboru alebo učebného odboru v tomto zozname,
+
+- b)
+
+- v zozname študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce,<sup>6b</sup>) je 110 % normatívu na žiaka príslušnej kategórie školy počas doby zaradenia študijného odboru alebo učebného odboru v tomto zozname.
+
+- (16)
+
+- Normatív na žiaka strediska praktického vyučovania, ktorý je žiakom prvého ročníka strednej odbornej školy a jeho nasledujúcich ročníkov vzdelávajúceho sa v študijnom odbore alebo učebnom odbore zaradenom
+
+- a)
+
+- v zozname študijných odborov a učebných odborov, ktoré sú nad rozsah potrieb trhu práce,<sup>6b</sup>) je 90 % normatívu na žiaka strediska praktického vyučovania počas doby zaradenia študijného odboru alebo učebného odboru v tomto zozname,
+
+- b)
+
+- v zozname študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce<sup>6b</sup>) je 110 % normatívu na žiaka strediska praktického vyučovania počas doby zaradenia študijného odboru alebo učebného odboru v tomto zozname.“.
+
+  - Poznámka pod čiarou k odkazu 6b znie:
+
+  - „6b)
+
+  - § 3 ods. 1 písm. c) zákona č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení zákona č. 324/2012 Z. z.“.
+
 - 2. V § 7 ods. 14 písmeno b) znie:
 
 - „b)
