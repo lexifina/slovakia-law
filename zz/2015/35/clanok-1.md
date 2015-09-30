@@ -38,7 +38,191 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 6. § 7 sa dopĺňa odsekmi 3 až 17, ktoré znejú:
 
-- „(15)
+- „(3)
+
+- Veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky<sup>17a</sup>) sú povinní na účely poskytovania spotrebiteľských úverov poskytovať údaje o spotrebiteľských úveroch aspoň do jedného elektronického registra údajov o spotrebiteľských úveroch (ďalej len "register").
+
+- (4)
+
+- Veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky<sup>17a</sup>) sú povinní s vynaložením odbornej starostlivosti na účely posudzovania schopnosti spotrebiteľa splácať spotrebiteľský úver získavať a účelne využívať údaje o spotrebiteľských úveroch tak, aby boli splnené podmienky podľa odsekov 15 a 16.
+
+- (5)
+
+- Veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka, pobočka zahraničnej banky<sup>17a</sup>) alebo ich záujmové združenie musia na účely podľa odsekov 3 a 4 zriadiť aspoň jeden register; tým nie je dotknuté právo iných právnických osôb alebo fyzických osôb zriadiť register. Register vedie prevádzkovateľ. Prevádzkovateľom registra nemôže byť veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky.<sup>17a</sup>) Prevádzkovateľ v registri spracúva osobné údaje spotrebiteľa podľa odseku 8, s ktorým veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky<sup>17a</sup>) uzatvorili zmluvu o spotrebiteľskom úvere.
+
+- (6)
+
+- Prevádzkovateľ registra je povinný poskytnúť veriteľovi podľa § 20 ods. 1 písm. a), banke, zahraničnej banke a pobočke zahraničnej banky údaje z registra v rozsahu podľa odseku 8 písm. b) až p) na splnenie účelu podľa odseku 4 aj bez súhlasu spotrebiteľa, za podmienok určených týmto prevádzkovateľom. Prevádzkovateľ registra je oprávnený na základe splnomocnenia od veriteľa získať údaje podľa prvej vety aj z iných registrov.
+
+- (7)
+
+- Veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky<sup>17a</sup>) sú povinní aj bez súhlasu spotrebiteľa poskytnúť do registra údaje v rozsahu podľa odseku 8 o každom spotrebiteľovi, s ktorým uzatvoril zmluvu o spotrebiteľskom úvere, na splnenie účelu podľa odseku 4 do jedného mesiaca od uzatvorenia zmluvy o spotrebiteľskom úvere, za podmienok určených prevádzkovateľom registra. Za správnosť, úplnosť a aktuálnosť údajov poskytnutých do registra zodpovedá veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky,<sup>17a</sup>) ktorí poskytnú údaje do registra.
+
+- (8)
+
+- Prevádzkovateľ registra je povinný umožniť každému veriteľovi podľa § 20 ods. 1 písm. a), banke, zahraničnej banke a pobočke zahraničnej banky<sup>17a</sup>) plnenie ich povinností podľa tohto zákona za rovnakých podmienok. Register obsahuje tieto údaje:
+
+- a)
+
+- obchodné meno, sídlo alebo miesto podnikania a identifikačné číslo veriteľa, ak je pridelené,
+
+- b)
+
+- meno a priezvisko spotrebiteľa, dátum narodenia, rodné číslo, adresu trvalého pobytu,
+
+- c)
+
+- dátum poskytnutia spotrebiteľského úveru,
+
+- d)
+
+- výšku poskytnutého spotrebiteľského úveru,
+
+- e)
+
+- výšku splátky a periodicitu platenia splátok spotrebiteľom na základe zmluvy o spotrebiteľskom úvere,
+
+- f)
+
+- menu, v ktorej je poskytnutý spotrebiteľský úver,
+
+- g)
+
+- dlžnú čiastku po splatnosti a počet dlžných splátok,
+
+- h)
+
+- dátum vzniku omeškania spotrebiteľa,
+
+- i)
+
+- dátum zániku omeškania spotrebiteľa,
+
+- j)
+
+- doba omeškania, počet dní a mesiacov omeškania spotrebiteľa,
+
+- k)
+
+- počet a sumu zostávajúcich splátok,
+
+- l)
+
+- dátum splatnosti spotrebiteľského úveru,
+
+- m)
+
+- dátum postúpenia práv zo zmluvy o spotrebiteľskom úvere a identifikačné údaje o subjekte, na ktoré boli práva vyplývajúce zo zmluvy o spotrebiteľskom úvere postúpené,
+
+- n)
+
+- údaj o zabezpečení pohľadávky zo zmluvy o spotrebiteľskom úvere,
+
+- o)
+
+- dátum zániku záväzkov spotrebiteľa zo zmluvy o spotrebiteľskom úvere a
+
+- p)
+
+- ďalšie údaje, ak sú potrebné na posúdenie schopnosti spotrebiteľa splácať spotrebiteľský úver.
+
+- (9)
+
+- Prevádzkovateľ registra je povinný oznámiť Národnej banke Slovenska zriadenie registra, dátum vzniku a začatia vykonávania činnosti registra, názov registra a sídlo prevádzkovateľa registra, zoznam údajov v registri, zoznam zriaďovateľov registra a zoznam veriteľov, ktorí poskytujú údaje do registra a každú zmenu týchto údajov. Za správnosť informácií podľa prvej vety zodpovedá zriaďovateľ registra. Zoznam registrov zverejňuje a aktualizuje Národná banka Slovenska na svojom webovom sídle.
+
+- (10)
+
+- Údaje z registra je prevádzkovateľ registra povinný bezodplatne na účely dohľadu a na štatistické účely poskytovať orgánu dohľadu podľa § 23.
+
+- (11)
+
+- Údaje z registra poskytne prevádzkovateľ registra bez súhlasu spotrebiteľa na písomné vyžiadanie
+
+- a)
+
+- súdu vrátane notára ako súdneho komisára na účely občianskeho súdneho konania, ktorého účastníkom konania je spotrebiteľ alebo ktorého predmetom konania je majetok spotrebiteľa,
+
+- b)
+
+- orgánu činného v trestnom konaní alebo súdu na účely trestného konania a orgánu verejnej moci na účely priestupkového konania,<sup>17b</sup>)
+
+- c)
+
+- orgánu štátnej správy v oblasti daní, poplatkov a colníctva<sup>17c</sup>) a správcu dane, ktorým je obec,<sup>17d</sup>) na účely správy daní<sup>17e</sup>) alebo colného orgánu vo veciach colného konania, vo veci týkajúcej sa spotrebiteľa vrátane vymáhania colného dlhu v colnom exekučnom konaní,
+
+- d)
+
+- správy finančnej kontroly pri výkone finančnej kontroly podľa osobitného predpisu<sup>17f</sup>) u spotrebiteľa,
+
+- e)
+
+- súdneho exekútora povereného vykonaním exekúcie podľa osobitného predpisu,<sup>17g</sup>)
+
+- f)
+
+- orgánu verejnej správy na účely výkonu rozhodnutia,<sup>17h</sup>) ktorým bola uložená spotrebiteľovi povinnosť uhradiť peňažné plnenie,
+
+- g)
+
+- Policajného zboru na účely odhaľovania trestných činov, zisťovanie ich páchateľov a pátrania po nich<sup>17i</sup>) a na účely plnenia úloh o preukazovaní pôvodu majetku podľa osobitného predpisu,<sup>17j</sup>)
+
+- h)
+
+- ministerstva pri výkone kontroly ustanovenej týmto zákonom alebo osobitným predpisom,<sup>17k</sup>)
+
+- i)
+
+- správcu alebo predbežného správcu v konkurznom konaní, reštrukturalizačnom konaní, vyrovnacom konaní alebo v konaní o oddlžení alebo dozorného správcu vykonávajúceho dozornú správu, ak ide o záležitosti týkajúce sa spotrebiteľa, na majetok ktorého sa vedie konkurzné konanie, reštrukturalizačné konanie, vyrovnacie konanie, konanie o oddlžení alebo nad ktorým bola zavedená dozorná správa podľa osobitného predpisu,<sup>17l</sup>)
+
+- j)
+
+- príslušného štátneho orgánu na účely plnenia záväzkov z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná,<sup>17m</sup>)
+
+- k)
+
+- Národného bezpečnostného úradu, Slovenskej informačnej služby, Vojenského spravodajstva a Policajného zboru na účely vykonávania bezpečnostných previerok v ich pôsobnosti podľa osobitného predpisu,<sup>17n</sup>)
+
+- l)
+
+- Najvyššieho kontrolného úradu Slovenskej republiky na účely kontroly podľa osobitného predpisu,<sup>17o</sup>) u spotrebiteľa,
+
+- m)
+
+- Justičnej pokladnice na účely vymáhania súdnej pohľadávky podľa osobitného predpisu<sup>17p</sup>) od spotrebiteľa,
+
+- n)
+
+- Slovenskej informačnej služby na účely boja proti organizovanej trestnej činnosti a terorizmu podľa osobitného predpisu,<sup>17q</sup>)
+
+- o)
+
+- Vojenského spravodajstva na účely získavania, sústreďovania a vyhodnocovania informácií dôležitých na zabezpečenie obrany Slovenskej republiky o aktivitách cudzích spravodajských služieb, terorizme a o skutočnostiach spôsobilých vážne ohroziť alebo poškodiť vojensko-hospodárske záujmy Slovenskej republiky podľa osobitného predpisu,<sup>17r</sup>)
+
+- p)
+
+- Kriminálneho úradu finančnej správy na účely plnenia úloh pri odhaľovaní trestných činov, zisťovaní ich páchateľov a pátraní po nich.<sup>17s</sup>)
+
+- (12)
+
+- Údaje o spotrebiteľovi a jeho spotrebiteľských úveroch, ktoré veriteľ poskytol do registra, sa uchovávajú v registri päť rokov od zániku záväzkov spotrebiteľa zo spotrebiteľských zmlúv voči veriteľovi. Veriteľ je povinný preukázateľne uviesť v registri dátum zániku záväzkov spotrebiteľa zo zmluvy o spotrebiteľskom úvere.
+
+- (13)
+
+- Spotrebiteľ si uplatní práva súvisiace s jeho osobnými údajmi u prevádzkovateľa registra za podmienok ustanovených osobitným predpisom.<sup>17t</sup>) Spotrebiteľ má právo bezodplatne raz ročne požiadať prevádzkovateľa registra o poskytnutie
+
+- a)
+
+- menovitého zoznamu osôb, ktorým boli z registra poskytnuté údaje o ňom,
+
+- b)
+
+- zoznamu údajov, ktoré sú vedené v príslušnom registri o ňom, a o jemu poskytnutých spotrebiteľských úveroch.
+
+- (14)
+
+- Ak spotrebiteľ namieta správnosť údajov v registri alebo správnosť zápisu údajov v registri, môže podať sťažnosť proti zápisu veriteľovi. Ak veriteľ sťažnosti do 30 dní od jej doručenia nevyhovie a nezabezpečí v registri opravu alebo výmaz údajov v súlade s tým, čoho sa domáha spotrebiteľ, má spotrebiteľ proti veriteľovi právo domáhať sa výmazu alebo opravy údajov v registri na súde; výmaz údajov z registra alebo ich opravu na základe rozhodnutia súdu zabezpečí veriteľ alebo prevádzkovateľ registra. Veriteľ zodpovedá za škodu, ktorá spotrebiteľovi vznikla v dôsledku zápisu nesprávnych údajov do registra, a prevádzkovateľ registra zodpovedá za škodu, ktorá vznikla v dôsledku nesprávneho zápisu do registra.
+
+- (15)
 
 - Veriteľ je povinný postupovať pri poskytovaní spotrebiteľského úveru na základe zmluvy o spotrebiteľskom úvere obozretne a ponúkať a poskytovať spotrebiteľské úvery
 
@@ -60,11 +244,109 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - b)
 
-- posúdi schopnosť spotrebiteľa splácať spotrebiteľský úver s ohľadom na získané informácie o spotrebiteľovi;
+- posúdi schopnosť spotrebiteľa splácať spotrebiteľský úver s ohľadom na získané informácie o spotrebiteľovi; ak je veriteľom veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky,<sup>17a</sup>) posúdi schopnosť spotrebiteľa splácať spotrebiteľský úver najmä s ohľadom na údaje získané z jedného alebo viacerých registrov, do ktorých poskytujú údaje veritelia, ktorých počet sa rovná aspoň dvojtretinovej väčšine veriteľov zverejnených v zozname veriteľov podľa § 8a v čase posudzovania schopnosti spotrebiteľa splácať spotrebiteľský úver.
 
 - (17)
 
 - Veriteľ je povinný v záujme odbornej starostlivosti pri poskytovaní spotrebiteľských úverov vytvoriť a udržiavať systém posúdenia schopnosti spotrebiteľa splácať spotrebiteľský úver a postupovať v súlade s týmto systémom a vytvoriť a udržiavať systém poskytovania spotrebiteľských úverov.“.
+
+  - Poznámky pod čiarou k odkazom 17a až 17t znejú:
+
+  - „17a)
+
+  - § 2 ods. 1, 7 a 8 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+  - 17b)
+
+  - Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+  - Trestný poriadok v znení neskorších predpisov.
+
+  - 17c)
+
+  - Zákon č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení neskorších predpisov.
+
+  - 17d)
+
+  - § 4 ods. 1 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+
+  - 17e)
+
+  - § 2 písm. a) zákona č. 563/2009 Z. z.
+
+  - 17f)
+
+  - Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+
+  - 17g)
+
+  - § 36 až 61c zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
+  - 17h)
+
+  - § 71 až 80 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+  - 17i)
+
+  - § 2 ods. 1 písm. b), c) a l), § 29a a 76 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
+  - 17j)
+
+  - § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z. o preukazovaní pôvodu majetku.
+
+  - 17k)
+
+  - Napríklad zákon č. 126/2011 Z. z. o vykonávaní medzinárodných sankcií v znení zákona č. 394/2011 Z. z.
+
+  - 17l)
+
+  - Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - 17m)
+
+  - Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
+
+  - Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie Federálneho ministerstva zahraničných vecí č. 462/1991 Zb.).
+
+  - Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.).
+
+  - Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.).
+
+  - Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.).
+
+  - Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
+
+  - 17n)
+
+  - § 15 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+
+  - 17o)
+
+  - § 2 a 4 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov.
+
+  - 17p)
+
+  - § 6 až 13 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
+
+  - 17q)
+
+  - § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
+  - 17r)
+
+  - § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+
+  - 17s)
+
+  - Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - § 5 ods. 3 písm. h), i) a l) zákona č. 333/2011 Z. z. v znení zákona č. 441/2012 Z. z.
+
+  - 17t)
+
+  - § 28 až 30 zákona č. 122/2013 Z. z. ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.“.
 
 - 7. V § 8 ods. 1 sa slovo "spracúva" nahrádza slovami "spracováva v registri alebo".
 
