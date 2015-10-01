@@ -1,4 +1,6 @@
-- 1) § 7 ods. 1 písm. b) bod 5 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 1) § 9 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1a) § 11 zákona č. 400/2009 Z. z. v znení neskorších predpisov.
 
 - 2) § 330 až 362 Trestného poriadku v znení neskorších predpisov.
 
