@@ -87,3 +87,11 @@ d) | v protitlakovej parnej turbíne alebo v kondenzačnej parnej turbíne s odb
 e) | spaľovanie energeticky využiteľných plynov vznikajúcich pri hutníckej výrobe ocele | | 80,02 eura/MWh,
 
 f) | v Rankinovom organickom cykle | | 98,31 eura/MWh.
+
+(3) Cena elektriny podľa odseku 1 písm. b) sa na jednej budove uplatní len pre jedného výrobcu elektriny a pre jedno zariadenie výrobcu elektriny.
+
+(4) Cena elektriny podľa odseku 1 písm. e) až g) sa uplatní len pre jedného výrobcu elektriny a pre jedno zariadenie výrobcu elektriny, ktoré obsahuje všetky technologické časti zariadenia výrobcu elektriny, ktorými sa vykonáva celý proces premeny energie obsiahnutej v biomase na elektrinu.
+
+(5) Pri technológii podľa odseku 2 písm. c) štvrtého bodu a piateho bodu, technológii podľa odseku 2 písm. d) siedmeho bodu a technológii podľa odseku 2 písm. e) sa spolu so žiadosťou výrobcu elektriny o vydanie potvrdenia o pôvode elektriny vyrobenej vysoko účinnou kombinovanou výrobou predkladá aj potvrdenie o pôvode paliva, v ktorom sa uvedie názov výrobcu paliva, chemické zloženie paliva a jeho výhrevnosť preskúšané v akreditovanom laboratóriu podľa osobitného predpisu.<sup>52</sup>)
+
+(6) Cena elektriny podľa odseku 2 písm. f) sa uplatní, ak je elektrina vyrábaná výhradne v tomto zariadení výrobcu elektriny a zároveň zariadenie výrobcu elektriny obsahuje všetky technologické časti zariadenia výrobcu elektriny, ktorými sa vykonáva celý proces premeny energie obsiahnutej v primárnom palive na elektrinu.

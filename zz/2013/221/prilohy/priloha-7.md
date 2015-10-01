@@ -1,3 +1,3 @@
 Príloha č. 7 k vyhláške č. 221/2013 Z. z.
 
-- Podklady návrhu ceny dodávateľa elektriny pre malý podnik podľa odsekov 2 až 4 [Vzor 07](../assets/ce2444b43682c20ad826596446ff2b8766288a0f59709476aef3a31dcdc1759a.pdf)
+- Podklady návrhu ceny dodávateľa elektriny pre malý podnik podľa odsekov 2 až 4 [Vzor 07](../assets/1ccb48b72214ce49f19740867a6f6c444d30ea7b3e87f497533e74b5be5d106d.pdf)
