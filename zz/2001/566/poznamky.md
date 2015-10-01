@@ -134,7 +134,7 @@
 
 - 47f) § 32 ods. 4 zákona č. 510/2002 Z. z.
 
-- 47g) § 151m ods. 1, 2 a 3 posledná veta, ods. 7 a 9 a § 151ma ods. 1 a 2 Občianskeho zákonníka.
+- 47g) § 180 zákona č. 7/2005 Z. z. v znení zákona č. 117/2015 Z. z.
 
 - 47h) § 18, 19 a 23 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -423,6 +423,8 @@
 - 95) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 96) Napríklad zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. v znení zákona č. 409/2000 Z. z., zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
+
+- 96a) Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
 
 - 97) § 71 až 80 zákona č. 71/1967 Zb.
 

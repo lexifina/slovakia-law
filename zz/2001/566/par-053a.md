@@ -14,7 +14,13 @@
 
 - e) iná osoba ako osoba podľa písmena c) podliehajúca obozretnému dohľadu, ktorej hlavným predmetom podnikania je nadobúdanie podielov na majetku podľa osobitného predpisu,<sup>47c</sup>) ako aj osoba so sídlom v zahraničí s obdobným predmetom činnosti,
 
-- f) centrálny depozitár, prevádzkovateľ platobného systému,<sup>47d</sup>) zúčtovací agent,<sup>47e</sup>) clearingový ústav,<sup>47f</sup>) spoločný zástupca majiteľov dlhopisov alebo iných dlhových cenných papierov, ako aj osoba so sídlom v zahraničí s obdobným predmetom činnosti vrátane osoby, ktorej predmetom činnosti je zúčtovanie a vyrovnanie obchodov s finančnými nástrojmi alebo výkon činností ústrednej protistrany, aj keď nie je zahraničným centrálnym depozitárom.
+- f) centrálny depozitár, prevádzkovateľ platobného systému,<sup>47d</sup>) zúčtovací agent,<sup>47e</sup>) clearingový ústav,<sup>47f</sup>) spoločný zástupca majiteľov dlhopisov alebo iných dlhových cenných papierov, ako aj osoba so sídlom v zahraničí s obdobným predmetom činnosti vrátane osoby, ktorej predmetom činnosti je zúčtovanie a vyrovnanie obchodov s finančnými nástrojmi alebo výkon činností ústrednej protistrany, aj keď nie je zahraničným centrálnym depozitárom,
+
+- g) iná osoba, ako je uvedená v písmenách a) až f), ak sú splnené tieto podmienky:
+
+  - 1. druhou zmluvnou stranou je niektorá z osôb uvedených v písmenách a) až d) a f),
+
+  - 2. záložné právo zabezpečuje pohľadávku zo zmluvy o záverečnom vyrovnaní ziskov a strát alebo pohľadávku z obchodov, ktorých vysporiadanie môže byť predmetom zmluvy o záverečnom vyrovnaní ziskov a strát podľa osobitného predpisu.<sup>47g</sup>)
 
 (2) Zmluvné záložné právo podľa odseku 1 k listinnému cennému papieru vzniká jeho odovzdaním záložnému veriteľovi alebo tretej osobe do úschovy alebo do úschovy a správy, ak sa na tom záložca a záložný veriteľ dohodli. Na vznik zmluvného záložného práva podľa odseku 1 k listinnému cennému papieru, ktorý je prevoditeľný rubopisom, vyžaduje sa aj záložný rubopis. Záložný rubopis musí obsahovať doložku „na založenie" a osobu záložného veriteľa. Inak musí záložný rubopis obsahovať primerane náležitosti uvedené v § 21 ods. 2. Ak záložné právo k listinnému cennému papieru, ktorý sa opatril záložným rubopisom, zanikne, záložný veriteľ je povinný vyznačiť na založenom listinnom cennom papieri zánik záložného práva. Ustanovením tohto odseku nie sú dotknuté ustanovenia osobitného zákona.<sup>44</sup>)
 
