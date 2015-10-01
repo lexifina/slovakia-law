@@ -46,6 +46,8 @@
 
 - 11) Zákon č. 249/2011 Z. z. o riadení bezpečnosti pozemných komunikácií a o zmene a doplnení niektorých zákonov.
 
+- 11a) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov.
+
 - 12) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
