@@ -18,7 +18,7 @@
 
 - 6) § 2 ods. 5 a 8 zákona č. 483/2001 Z. z. v znení zákona č. 554/2004 Z. z.
 
-- 7) § 5 písm. e) zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 7) § 3 písm. f) zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 8) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
