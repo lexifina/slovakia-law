@@ -156,6 +156,26 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 4. V § 50 ods. 5 sa na konci pripájajú tieto vety: „Ak cenný papier zanikol a bol vymazaný z evidencie ustanovenej podľa § 99, centrálny depozitár vykoná registráciu zániku záložného práva k tomuto cennému papieru aj bez príkazu. Centrálny depozitár je povinný túto skutočnosť oznámiť záložcovi a záložnému veriteľovi na adresu registrovanú pri záložnom práve.“.
 
+- 5. V § 53a sa odsek 1 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- iná osoba, ako je uvedená v písmenách a) až f), ak sú splnené tieto podmienky:
+
+- 1.
+
+- druhou zmluvnou stranou je niektorá z osôb uvedených v písmenách a) až d) a f),
+
+- 2.
+
+- záložné právo zabezpečuje pohľadávku zo zmluvy o záverečnom vyrovnaní ziskov a strát alebo pohľadávku z obchodov, ktorých vysporiadanie môže byť predmetom zmluvy o záverečnom vyrovnaní ziskov a strát podľa osobitného predpisu.<sup>47g</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 47g znie:
+
+  - „47g)
+
+  - § 180 zákona č. 7/2005 Z. z. v znení zákona č. 117/2015 Z. z.“.
+
 - 6. V § 53a sa za odsek 4 vkladá nový odsek 5, ktorý znie:
 
 - „(5)
@@ -172,6 +192,80 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 10. V § 101 ods. 1 druhej vete sa na konci pripájajú tieto slová: „inej osobe ako osobe uvedenej v § 99 ods. 11“.
 
+- 11. V § 103 ods. 2 písm. b) sa za slovo „členov“ vkladajú slová „vrátane určenia právnických osôb, ktorým môže centrálny depozitár zriadiť účet majiteľa“ a slovo „odovzdávania“ sa nahrádza slovom „poskytovania“.
+
+- 12. V § 103 ods. 3 sa na konci pripájajú tieto slová: „po prerokovaní vo Výbore pre služby alebo v inom poradnom orgáne určenom v prevádzkovom poriadku“.
+
+- 13. V § 105 ods. 2 sa vypúšťa prvá veta a na konci sa pripája táto veta: „Centrálny depozitár môže zriadiť účet majiteľa aj inej právnickej osobe, ak je to uvedené v prevádzkovom poriadku.“.
+
+- 14. V § 105 ods. 3 prvej vete sa vypúšťajú slová „na ich žiadosť“ a slová „alebo centrálny depozitár“.
+
+- 15. V § 105 ods. 7 prvá a druhá veta znejú: „Centrálny depozitár alebo člen je povinný poskytnúť majiteľovi účtu výpis z tohto účtu bezodkladne po tom, čo vykoná účtový zápis v prospech alebo na ťarchu tohto účtu, ak sa nedohodnú inak, alebo na žiadosť majiteľa účtu. Ak centrálny depozitár alebo člen vedie účet majiteľa, je povinný bezplatne poskytnúť majiteľovi účtu výpis z tohto účtu v rozsahu údajov podľa odseku 8 druhej vety aspoň raz ročne na trvanlivom médiu, ak nie je dohodnuté častejšie poskytovanie výpisu; táto povinnosť sa neuplatňuje od smrti majiteľa účtu do právoplatnosti rozhodnutia o dedičstve.“.
+
+- 16. V § 105 odsek 9 znie:
+
+- „(9)
+
+- Ak je cenný papier v podielovom spoluvlastníctve viacerých majiteľov, centrálny depozitár alebo člen eviduje cenný papier na účte majiteľa, na držiteľskom účte (§ 105a) alebo na klientskom účte člena (§ 106)
+
+- a)
+
+- podľa zmluvy,
+
+- b)
+
+- podľa právoplatného rozhodnutia o dedičstve,
+
+- c)
+
+- na základe právoplatného rozhodnutia iného štátneho orgánu alebo
+
+- d)
+
+- na základe iných právnych skutočností.“.
+
+- 17. § 105 sa dopĺňa odsekom 11, ktorý znie:
+
+- „(11)
+
+- Centrálny depozitár na žiadosť majiteľa účtu vyhradí účet majiteľa v prospech Národnej banky Slovenska, Európskej centrálnej banky alebo inej centrálnej banky tvoriacej súčasť Eurosystému,<sup>47h</sup>) na účel zabezpečovania pohľadávok záložným právom podľa § 53a ods. 1 až 5. Na vyhradený účet majiteľa možno nadobudnúť zaknihované cenné papiere len presunom podľa § 18a alebo prevodom podľa § 19. Vyhradenie účtu majiteľa nie je možné zrušiť, ak sa na účte majiteľa nachádzajú cenné papiere.“.
+
+- 18. V § 106 ods. 3 sa slovo „zriadi“ nahrádza slovami „môže zriadiť“.
+
+- 20. Za § 107b sa vkladá § 107c, ktorý vrátane nadpisu znie:
+
+- „§ 107c
+
+- Agent emisie
+
+- (1)
+
+- Agent emisie je oprávnený na základe zmluvy s emitentom zastupovať emitenta voči centrálnemu depozitárovi a jeho členom v rozsahu dohodnutom v zmluve vrátane podania žiadosti o zriadenie registra emitenta.
+
+- (2)
+
+- Centrálny depozitár a člen sú povinní sprístupniť agentovi emisie rovnaké údaje ako emitentovi, ak agenta emisie na ich získavanie splnomocnil emitent.
+
+- (3)
+
+- Činnosť agenta emisie môže vykonávať člen centrálneho depozitára, obchodník s cennými papiermi alebo zahraničný obchodník s cennými papiermi, Agentúra pre riadenie dlhu a likvidity alebo iná právnická osoba určená v prevádzkovom poriadku.“.
+
+- 21. V § 110 ods. 1 sa za písmeno f) vkladá nové písmeno g), ktoré znie:
+
+- „g)
+
+- ministerstvu alebo iným ministerstvám pri riadení a kontrole poskytovania prostriedkov z fondov Európskej únie a prostriedkov štátneho rozpočtu určených na financovanie spoločných programov Slovenskej republiky a Európskej únie a ochrane finančných záujmov Európskej únie na účely plnenia úloh podľa osobitných predpisov.<sup>96a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 96a znie:
+
+  - „96a)
+
+  - Napríklad zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.“.
+
+  - Doterajšie písmená g) až k) sa označujú ako písmená h) až l).
+
+- 22. V § 110 ods. 3 sa za prvú vetu vkladá nová druhá veta, ktorá znie: „Vyžiadanie oprávnených subjektov a podanie správy môže byť aj elektronické, pričom centrálny depozitár upraví podrobné podmienky a postup pri vyžiadaní oprávnených subjektov a podaní správy v prevádzkovom poriadku.“.
+
 - 23. § 110 sa dopĺňa odsekom 7, ktorý znie:
 
 - „(7)
@@ -187,6 +281,28 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 - 27. V § 144 ods. 12 sa za slová „sankcie podľa“ vkladajú slová „odseku 1 písm. d) a“.
 
 - 28. V § 146 ods. 2 sa za slová „má obchodník s cennými papiermi“ vkladajú slová „alebo centrálny depozitár“ a za slová „obchodníkovi s cennými papiermi“ sa vkladajú slová „alebo centrálnemu depozitárovi“.
+
+- 29. Za § 173u sa vkladá § 173v, ktorý vrátane nadpisu znie:
+
+- „§ 173v
+
+- Prechodné ustanovenia k úpravám účinným od 1. októbra 2015
+
+- (1)
+
+- Účet majiteľa zriadený u centrálneho depozitára do 30. septembra 2015 pre fyzickú osobu alebo právnickú osobu, ktorej nie je centrálny depozitár povinný od 1. októbra 2015 podľa § 105 ods. 2 zriadiť na jej žiadosť účet majiteľa, sa považuje za nezaradený účet majiteľa. Na nezaradený účet majiteľa sa vzťahujú ustanovenia o účte majiteľa, ak v odsekoch 2 až 5 nie je ustanovené inak.
+
+- (2)
+
+- Príkaz na registráciu prevodu zaknihovaného cenného papiera a príkazy na iné zápisy na nezaradený účet majiteľa podáva majiteľ nezaradeného účtu majiteľa od 1. januára 2016 centrálnemu depozitárovi prostredníctvom člena. Na podávanie príkazov podľa prvej vety môže byť ku každému nezaradenému účtu majiteľa určený len jeden člen.
+
+- (3)
+
+- Nezaradený účet majiteľa zaniká okamihom, keď na ňom nie je evidovaný žiadny zaknihovaný cenný papier.
+
+- (4)
+
+- Na žiadosť majiteľa nezaradeného účtu majiteľa predloženú členovi sú centrálny depozitár a člen povinní bezplatne previesť zaknihované cenné papiere z tohto účtu na účet majiteľa zriadený u člena.“.
 
 - 30. Príloha sa dopĺňa bodom 28, ktorý znie:
 
