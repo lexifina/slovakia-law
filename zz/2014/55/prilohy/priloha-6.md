@@ -1,3 +1,3 @@
 Príloha č. 6 k výnosu č. 55/2014 Z. z.
 
-- Úrovne autentifikácie elektronických služieb verejnej správy [Príloha 06](../assets/3001eefd926c887ac9b2589fae130a5b5b7d5e2df397714da38f261fbd5e5f78.pdf)
+- Úrovne autentifikácie elektronických služieb verejnej správy [Príloha 06](../assets/74ee83e19cf519bf85c71226f987739287c798554674755d27087e96c3a08212.pdf)
