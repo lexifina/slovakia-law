@@ -66,7 +66,53 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - „a ak je použitie fontov potrebné pre zobrazenie obsahu súborov,“.
 
+- 10. § 18 sa dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- spracovanie obsahu ľubovoľného formátu textového súboru alebo grafického súboru podľa prílohy č. 1 pravidla 2 obdobne ako pri webových stránkach.“.
+
+- 11. V § 19 písm. a) druhý a tretí bod znejú:
+
+- „2.
+
+- Portable Document Format (.pdf) minimálne vo verzii 1.3 a maximálne vo verzii 1.7,
+
+- ak
+
+- 2a.
+
+- neobsahujú animácie, audio alebo video záznamy,
+
+- 2b.
+
+- neobsahujú dynamický obsah a aplikácie, najmä technológie XML Forms Architecture, Adobe JavaScript a 3D náhľady, môžu však obsahovať PDF AcroForms podľa prílohy č. 3 bodov 1.1.6 a 2.6.10 a
+
+- 2c.
+
+- neobsahujú kryptograficky chránený obsah, napríklad na základe Digital Rights Management (DRM) alebo osobitného spôsobu šifrovania,
+
+- 3.
+
+- Plain Text Format (.txt) v kódovaní UTF-8 podľa technických noriem,<sup>4a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 4a znie:
+
+  - „4a)
+
+  - RFC 2046: Formát Multipurpose Internet Mail Extensions (MIME). Časť 2: Typy médií, RFC 3629:UTF-8 transformácia UCS (univerzálnej znakovej sady), ISO/IEC 10646 - Informačné technológie. Univerzálna znaková sada (UCS).“.
+
 - 12. V § 19 písm. b) sa slová "doručených formátov textových súborov na iné účely ako podľa písmena a) na základe vlastného uváženia" nahrádzajú slovami "formátov textových súborov podľa písmena a) a ďalších formátov na základe vlastného uváženia doručených".
+
+- 13. V § 20 písm. a) druhom bode sa na konci pripájajú tieto slová:
+
+- „podľa technickej normy<sup>7a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 7a znie:
+
+  - „7a)
+
+  - ISO/IEC 15948: Informačné technológie. Počítačová grafika a spracovanie obrázkov. Prenosná sieťová grafika (PNG). Funkčná špecifikácia.“.
 
 - 14. V § 30 písm. c) sa na konci pripájajú tieto slová:
 
@@ -186,6 +232,112 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - „Štandardy pre formáty elektronických dokumentov podpísateľných elektronickým podpisom
 
+- § 57a
+
+- Prijímanie a čítanie podpísaných elektronických dokumentov
+
+- Štandardom pre prijímanie a čítanie podpísaných elektronických dokumentov je prijímanie a čítanie
+
+- a)
+
+- priamo podpísaných elektronických dokumentov vo formáte textových súborov Portable Document Format vo verzii A-1a (PDF/A-1a) a podľa technickej normy,<sup>11b</sup>)
+
+- b)
+
+- externe podpísaných elektronických dokumentov vo formáte
+
+- 1.
+
+- textových súborov Portable Document Format vo verzii A-1a (PDF/A-1a) a podľa technickej normy,<sup>11c</sup>)
+
+- 2.
+
+- textových súborov podľa § 19 písm. a) tretieho bodu,
+
+- 3.
+
+- grafických súborov podľa § 20 písm. a) druhého bodu,
+
+- c)
+
+- elektronických dokumentov vo formáte jazyka pre prenos dátových prvkov podľa § 12 v štruktúre podľa prílohy č. 11 (ďalej len "kontajner XML údajov"), pričom ak nejde o vyplnené údaje elektronického formulára, zároveň
+
+- 1.
+
+- sa v tomto elektronickom dokumente používa znaková sada podľa § 13 písm. c),
+
+- 2.
+
+- schéma tohto elektronického dokumentu je vytvorená v súlade s § 13 písm. a),
+
+- 3.
+
+- transformácia tohto elektronického dokumentu je vytváraná v súlade s § 13 písm. d) a zabezpečuje vytvorenie podpisovej prezentácie vo formáte podľa prílohy č. 3 bodu 2.6.7,
+
+- d)
+
+- iných formátov elektronických dokumentov ako uvedených v písmenách a) až c), ak sa na tom zasielateľ a prijímateľ dohodnú,
+
+- e)
+
+- formátov elektronických dokumentov podľa písmen a) až d) s obmedzeniami podľa osobitného predpisu,<sup>11d</sup>)
+
+- f)
+
+- podpísaných elektronických dokumentov podľa písmena a) podpísaných viacerými osobami, iba ak tieto osoby podpísali rovnaký informačný obsah elektronického dokumentu,
+
+- g)
+
+- podpísaných elektronických dokumentov podľa písmena a) podpísaných viacerými osobami, ak niektorá z týchto osôb podpísala iný informačný obsah tohto elektronického dokumentu ako ostatné osoby, ak sa o tom zasielateľ a prijímateľ dohodnú.
+
+- § 57b
+
+- Prijímanie a čítanie podpisových kontajnerov
+
+- Štandardom pre prijímanie a čítanie podpisových kontajnerov je prijímanie a čítanie
+
+- a)
+
+- podpisového kontajneru vo formáte Associated Signature Containers (.asics, .scs, .asice, .sce) podľa technických noriem,<sup>11e</sup>) a to aj viacnásobne vnoreného, pričom ak ide o degradovaný Associated Signature Containers, tento je vo verzii podľa § 25 ods. 1 písm. a) prvého bodu,
+
+- b)
+
+- iných formátov podpisových kontajnerov ako uvedených v písmene a), ak sa na tom zasielateľ a prijímateľ dohodnú.
+
+- § 57c
+
+- Vytváranie podpisových kontajnerov a podpísaných elektronických dokumentov
+
+- Štandardom pre vytváranie podpisových kontajnerov a podpísaných elektronických dokumentov podpísaných elektronickým podpisom alebo elektronickou pečaťou je
+
+- a)
+
+- pri úkonoch súvisiacich s poskytovaním elektronických služieb verejnej správy, povinným poskytovaním informácií podľa osobitných predpisov,<sup>3</sup>) alebo ak je podpísaním vykonaná autorizácia podľa osobitného predpisu,<sup>11f</sup>) používanie formátov podľa § 57a písm. a) až e) a § 57b písm. a),
+
+- b)
+
+- používanie iných formátov ako uvedených v písmene a), napríklad ostatných formátov podľa § 19 až 24, ak sa na tom všetky strany príslušnej komunikácie dohodnú, s vedomím možných škôd a nezrovnalostí v ďalšom konaní vyplývajúcich z takého postupu,
+
+- c)
+
+- spravidla nevytváranie viacnásobne vnorených podpisových kontajnerov.
+
+- § 57d
+
+- Identifikovanie formátu podpísaného elektronického dokumentu, identifikovanie formátu podpisového kontajneru a identifikovanie podpísaného elektronického dokumentu
+
+- (1)
+
+- Štandardom pre identifikovanie formátu podpísaného elektronického dokumentu sú hodnoty identifikátorov podľa prílohy č. 12 prvého bodu.
+
+- (2)
+
+- Štandardom pre identifikovanie formátu podpisového kontajneru sú hodnoty identifikátorov podľa prílohy č. 12 druhého bodu.
+
+- (3)
+
+- Štandardom pre identifikovanie podpísaného elektronického dokumentu je identifikátor hašovacej funkcie použitej na výpočet digitálneho odtlačku a hodnota digitálneho odtlačku z podpísaného elektronického dokumentu podľa osobitného predpisu.<sup>11g</sup>)
+
 - § 57e
 
 - Prostriedky týkajúce sa overovania a vytvárania zaručeného elektronického podpisu a zaručenej elektronickej pečate
@@ -266,7 +418,33 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - Pri prenose dátových prvkov alebo ich atribútov, ktorých hodnoty sú založené na základných číselníkoch, sa používa najmenej hodnota dátového prvku základného číselníka "kód položky" alebo identifikátor položky základného číselníka.".
 
-- Poznámky pod čiarou k odkazom 11b až 11h znejú:“.
+- Poznámky pod čiarou k odkazom 11b až 11h znejú:
+
+- "“.
+
+- 11b)
+
+- ETSI TS 103 172 V2.2.2: Elektronické podpisy a infraštruktúry (ESI): Základný profil PadES.
+
+- 11c)
+
+- ISO 19005-1:2005: Správa dokumentov. Formát súboru elektronického dokumentu pre dlhodobé uchovávanie. Časť 1: Používanie PDF 1.4 (PDF/A-1).
+
+- 11d)
+
+- § 3 ods. 5 vyhlášky Národného bezpečnostného úradu č. 136/2009 Z. z. o spôsobe a postupe používania elektronického podpisu v obchodnom styku a administratívnom styku.
+
+- 11e)
+
+- ETSI TS 102 918 Elektronické podpisy a infraštruktúry (ESI): Formát Associated Signature Containers (ASiC), ETSI TS 103 174 V2.2.1: Elektronické podpisy a infraštruktúry (ESI): Základný profil Associated Signature Containers (ASiC).
+
+- 11f)
+
+- Zákon č. 305/2013 Z. z.
+
+- 11g)
+
+- Vyhláška Národného bezpečnostného úradu č. 135/2009 Z. z. o formáte a spôsobe vyhotovenia zaručeného elektronického podpisu, spôsobe zverejňovania verejného kľúča úradu, podmienkach platnosti pre zaručený elektronický podpis, postupe pri overovaní a podmienkach overovania zaručeného elektronického podpisu, formáte časovej pečiatky a spôsobe jej vyhotovenia, požiadavkách na zdroj časových údajov a požiadavkách na vedenie dokumentácie časových pečiatok (o vyhotovení a overovaní elektronického podpisu a časovej pečiatky) v znení neskorších predpisov.
 
 - 11h)
 
@@ -285,6 +463,10 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - „6.2.2
 
 - Ak nie je možné vzhľadom na povahu poskytovaného obsahu, napríklad pri interaktívnych mapách, vytvoriť webovú stránku použiteľnú bez skriptov, použije sa prvok <noscript> s ekvivalentným textovým popisom alebo sa použije skript na strane servera namiesto skriptu na strane klienta, prípadne sa poskytne alternatívna prístupná webová stránka podľa bodu 11.4. Ak nie je možné z povahy poskytovaného obsahu vytvoriť úplný ekvivalentný textový popis, poskytuje sa prístupne čo najväčší rozsah poskytovaného obsahu, pričom na začiatku obsahu webovej stránky sa poskytuje textové oznámenie, napríklad v znení "Pre správne fungovanie stránky povoľte Javascript vo Vašom prehliadači.". Dôvodom na tento postup nie je ozdobné grafické spracovanie a animácie textu, ovládacích prvkov a podobne.“.
+
+- 28. V prílohe č. 2 sa v celom texte pred slovo "číselník" vo všetkých tvaroch vkladá slovo "základný" v príslušnom tvare.
+
+- 29. V prílohe č. 2 sa v celom texte vypúšťajú slová "Uvádza sa atribút KODPOL.", " (atribút POZN)" a "Uvádza sa položka NAZSKS.".
 
 - 30. V prílohe č. 2 sa v celom texte slová
 
@@ -320,6 +502,8 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
   - p) "Opatrenie Telekomunikačného úradu Slovenskej republiky z 1. februára 2007 č. O-14/2007 o číslovacom pláne." nahrádzajú slovami "Opatrenie Telekomunikačného úradu Slovenskej republiky z 8. decembra 2011 č. O-26/2011 o číslovacom pláne".
 
+- 31. V prílohe č. 2 bode D.1.2.9 Základné imanie (Equity) tabuľke Popisné atribúty riadku Definícia a stĺpci Hodnota sa slovo "soby" nahrádza slovom "osoby".
+
 - 32. V prílohe č. 2 bode D.1.3 Fyzická adresa (PhysicalAddress) tabuľke Skrátená forma popisu súčastí dátového prvku Fyzická adresa (PhysicalAddress) riadku Ulica a stĺpci Poznámka sa slová "obsah sa nepredpisuje. Ak sa má udávať názov osady" nahrádzajú slovami "štruktúra zápisu ulice sa nepredpisuje. Ak obec nemá ulice, vypĺňa sa názov obce, a to" a slovo "osada" vo všetkých tvaroch sa nahrádza slovom "obec" v príslušnom tvare.
 
 - 33. V prílohe č. 2 bode D.1.4.2 Číslo (Number) tabuľke Skrátená forma popisu súčastí dátového prvku Číslo (Number) riadku Formátované číslo stĺpci Poznámka a časti textu Hodnoty sa slovo "ktoré" nahrádza slovom "ktorý".
@@ -337,6 +521,16 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - 37. V prílohe č. 3 bode 2.2.1 písm. g) sa na konci pripájajú tieto slová:
 
 - „a úpravou sa rozumie aj doplnenie ďalšej prezentácie alebo prezentačnej schémy do publikovaného elektronického formulára“.
+
+- 38. V prílohe č. 3 sa za bod 2.3.1 vkladá nový bod 2.3.2, ktorý znie:
+
+- „2.3.2
+
+- Súčasťou dátovej štruktúry elektronického formulára a prvým dátovým prvkom je "párovací kód vyplnených údajov" s XML názvom "SynchCodeVyplneneData", ktorý slúži na priradenie vyplnených údajov elektronického formulára k príslušnému elektronickému formuláru vrátane príslušnej verzie. Jeho hodnota je tvorená identifikátorom elektronického formulára a jeho verzie v štruktúre referencovateľného identifikátora.“.
+
+  - Doterajšie body 2.3.2 až 2.3.5 sa označujú ako body 2.3.3 až 2.3.6.
+
+- 39. V prílohe č. 3 bode 2.3.3 sa slovo "prvým" nahrádza slovom "druhým".
 
 - 40. V prílohe č. 3 sa bod 2.3 dopĺňa bodom 2.3.7, ktorý znie:
 
@@ -674,6 +868,42 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 78. V prílohe č. 10 bode 19.2 sa slovo "Zväčšenie" nahrádza slovom "Zväčšením".
 
-- „2.
+- 79. Výnos sa dopĺňa prílohami č. 11 až 13, ktoré vrátane nadpisov znejú:
 
-- Hodnoty pre identifikovanie formátu podpisového kontajneru“.
+- „Príloha č. 11 k výnosu č. 55/2014 Z. z.
+
+- [Príloha č. 11 k výnosu č. 55/2014 Z. z.](assets/2c6869b05b0e86c43772043c19ad37c3f500721ec6d205f91594b107be15e1fc.pdf)“.
+
+  - Poznámka pod čiarou k odkazu 21 znie:
+
+  - „21)
+
+  - RFC 3061: Menný priestor vo formáte Uniform Resource Name (URN) pre identifikátory objektov.“.
+
+- Príloha č. 12 k výnosu č. 55/2014 Z. z.
+
+  - 1. Hodnoty pre identifikovanie formátu podpísaného elektronického dokumentu
+
+- Podpísaný elektronický dokument podľa | Identifikátor vo forme prípony súboru | Identifikátor vo forme položky "Content-type" v elektronickom podpise
+
+- § 57a písm. a) a b) prvého bodu | .pdf | application/pdf
+
+- § 57a písm. b) druhého bodu | .txt | text/plain; charset=UTF-8
+
+- § 57a písm. b) tretieho bodu | .png | image/png
+
+- § 57a písm. c) | .xml | application/vnd.gov.sk.xmldatacontainer+xml; charset=UTF-8
+
+  - 2. Hodnoty pre identifikovanie formátu podpisového kontajneru
+
+- Podpisový kontajner | Identifikátor vo forme prípony súboru | Identifikátor vo forme položky "Content-type" v elektronickom podpise
+
+- § 57b písm. a) | asics, ..scs | application/vnd.etsi.asic-s+zip
+
+- § 57b písm. a), degradovaný podpisový kontajner | .zip | application/zip
+
+- § 57b písm. a), rozšírený podpisový kontajner | .asice, .sce | application/vnd.etsi.asic-e+zip
+
+- Príloha č. 13 k výnosu č. 55/2014 Z. z.
+
+- [Príloha č. 13 k výnosu č. 55/2014 Z. z.](assets/75c5ae73182cb122159fca183598f35bebf85295ffcb9709b0c7ce6c9c7ba4c6.pdf)
