@@ -14,12 +14,6 @@
 
 - c) preukázateľne uhradiť fondu neuhradený ročný príspevok alebo neuhradenú časť ročného príspevku za kalendárny rok, v ktorom dochádza k zmene účasti banky na systéme ochrany vkladov podľa odseku 1,
 
-- d) preukázateľne uhradiť fondu mimoriadny príspevok vo výške, ktorá sa rovná
-
-  - 1. hornej hranici rozpätia sadzby mimoriadneho príspevku (§ 6 ods. 3), ak ku dňu zmeny účasti banky na systéme ochrany vkladov podľa odseku 1 nie je pre nedostatok finančných prostriedkov fondu splatený úver, ktorý bol poskytnutý fondu na zabezpečenie výplaty náhrad za nedostupné vklady, alebo
-
-  - 2. polovici rozpätia sadzby mimoriadneho príspevku (§ 6 ods. 3), ak ku dňu zmeny účasti banky na systéme ochrany vkladov podľa odseku 1 sa na banku nevzťahuje bod 1 a pre nedostatok finančných prostriedkov fondu nie sú vytvorené vlastné finančné zdroje fondu na zabezpečenie výplaty náhrad najmenej vo výške 1,5 % z celkovej hodnoty všetkých vkladov chránených týmto zákonom.
-
 (3) Splnenie povinností banky uvedených v odsekoch 1 a 2 je odkladacou podmienkou na zmenu<sup>18bb</sup>) účasti tejto banky na systéme ochrany vkladov podľa tohto zákona.
 
 (4) Ak členmi orgánov fondu sú zástupcovia banky, ktorej zanikla účasť na systéme ochrany vkladov podľa tohto zákona, dňom zániku tejto účasti zaniká aj členstvo zástupcov tejto banky v orgánoch fondu.
@@ -29,3 +23,5 @@
 - a) zahraničná banka, ktorá podľa osobitného predpisu<sup>18bc</sup>) vykonáva bankové činnosti na území Slovenskej republiky prostredníctvom svojej pobočky alebo bez založenia pobočky, pričom sa nezúčastňovala ani sa nezúčastňuje na systéme ochrany vkladov podľa tohto zákona,
 
 - b) zahraničná finančná inštitúcia, ktorá podľa osobitného predpisu<sup>18bc</sup>) vykonáva bankové činnosti na území Slovenskej republiky a ktorá je dcérskou spoločnosťou zahraničnej banky.
+
+(6) Banka je povinná poskytnúť vkladateľovi tri mesiace po zverejnení informácie podľa odseku 1 bezplatný výber alebo prevod časti chráneného vkladu presahujúcej výšku náhrady podľa § 9 vrátane úrokov a plnení z tejto časti vkladu.

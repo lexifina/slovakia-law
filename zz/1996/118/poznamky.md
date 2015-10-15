@@ -2,9 +2,15 @@
 
 - 1a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
+- 1aa) Napríklad zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
+
+- 1ab) Čl. 113 ods. 7 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
+
+- 1ac) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách.
 
-- 2a) § 2 ods. 1 a 2 a § 23 ods. 4 zákona č. 483/2001 Z. z.
+- 2a) § 5 písm. i) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 2b) § 2 ods. 2 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov.
 
@@ -16,64 +22,6 @@
 
 - 3) § 70 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení zákona č. 526/2002 Z. z.
 
-- 4) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
-
-- 4a) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z.
-
-- 5) Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
-
-- 5a) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
-
-- 5b) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
-
-- 5ba) § 8 ods. 3 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
-
-- 5c) Zákon č. 483/2001 Z. z.
-
-- Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
-
-- 5d) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
-
-- 5da) § 81 zákona č. 492/2009 Z. z.
-
-- 5db) § 63 zákona č. 492/2009 Z. z.
-
-- 5dc) § 2 ods. 3 zákona č. 492/2009 Z. z.
-
-- 5dd) § 31 ods. 1 písm. c) a ods. 5, § 38 ods. 1, § 48 ods. 1 a 3 a § 61 zákona č. 510/2002 Z. z.
-
-- 5de) § 45 ods. 1 a 3, § 47, § 52 ods. 2, § 53, § 54 ods. 1 a § 55 zákona č. 492/2009 Z. z.
-
-- 5df) § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 5dg) § 99 ods. 3 písm. h) a ods. 15 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 5e) Zákon č. 429/2002 Z. z. o burze cenných papierov.
-
-- 5f) Zákon č. 229/1992 Zb. o komoditných burzách v znení zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z.
-
-- 5g) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
-
-- 5ga) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 5h) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
-
-- 5ia) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
-
-- 5j) § 2 ods. 2 a § 5 zákona č. 507/2001 Z. z. o poštových službách.
-
-- 5k) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 5l) Napríklad § 2 ods. 7 a 8 zákona č. 483/2001 Z. z., § 54 ods. 3 až 5 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 3 ods. 11 a 12, § 4 ods. 4 až 8, § 75 až 80 a § 81 ods. 2 zákona č. 594/2003 Z. z. v znení neskorších predpisov, § 2 ods. 2 až 5 a ods. 8 až 11 zákona č. 8/2008 Z. z.
-
-- 5m) Napríklad § 39 ods. 1 prvá veta Obchodného zákonníka, § 3 a 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov, čl. 61 a 62 nariadenia Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 4, Ú. v. ES L 294, 10. 11. 2001), čl. 68 až 71 nariadenia Rady (ES) č. 1435/2003 z 22. júla 2003 o stanovách európskeho družstva (SCE) (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1, Ú. v. EÚ L 207, 18. 8. 2003).
-
-- 5n) Napríklad zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov, zákon č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
-
-- 5o) Napríklad § 80 ods. 1 zákona č. 566/2001 Z. z.
-
-- 5p) § 44 ods. 5 písm. l) zákona č. 483/2001 Z. z. v znení zákona č. 554/2004 Z. z.
-
 - 6) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 7) § 63 a 64 zákona č. 483/2001 Z. z.
@@ -84,17 +32,35 @@
 
 - 7b) § 782, 785, 879d a § 879e ods. 5 Občianskeho zákonníka.
 
-- 7c) § 35 až 74 zákona č. 594/2003 Z. z.
+- 7c) § 5 a § 99 ods. 3 písm. h) a odsek 15 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
 
-- 7d) § 25 ods. 1 až 3 č. 429/2002 Z. z.
+- 7d) Čl. 4 ods. 1 bod 118 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 7e) § 5 a 6 a § 8 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 7e) § 2 ods. 1 zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
-- 7f) § 80 ods. 1, § 81 ods. 1 a 2 a § 82 ods. 1 zákona č. 566/2001 Z. z.
+- 7f) Čl. 4 ods. 1 bod 26 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
-- 7g) § 7 ods. 2 písm. a) a § 30 zákona č. 483/2001 Z. z.
+- 7g) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 7h) Zákon č. 8/2008 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 39/2015 Z. z.
+
+- 7i) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
+
+- 7j) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7k) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7l) Napríklad zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7m) Čl. 336 ods. 1 tabuľka č. 1 položky patriace do prvej alebo druhej kategórie nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 8) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov.
+
+- 8a) § 19 ods. 7 zákona č. 483/2001 Z. z. v znení zákona č. 520/2011 Z. z.
+
+- 8b) Čl. 16 nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
 - 9) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
@@ -118,7 +84,7 @@
 
 - 12a) § 2 ods. 2 zákona č. 492/2009 Z. z.
 
-- 12aa) § 248 písm. d) Občianskeho súdneho poriadku.
+- 12aa) Napríklad § 248 písm. d) zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov, § 7 písm. h) zákona č. 162/2015 Z. z. Správneho súdneho poriadku.
 
 - 13a) § 101 a 785 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -128,13 +94,21 @@
 
 - 14) Napríklad § 76 ods. 1 písm. e), § 175e ods. 1 a 2, § 305 písm. b) zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
 
-- 15) § 35 zákona č. 483/2001 Z. z.
+- 14a) § 29 ods. 3 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
+
+- § 15 písm. c) zákona č. 650/2004 Z. z.
+
+- 15) Napríklad zákon č. 126/2011 Z. z. o vykonávaní medzinárodných sankcií v znení zákona č. 394/2011 Z. z.
 
 - 15a) § 682 až 691 Obchodného zákonníka v znení neskorších predpisov.
 
 - 15aa) § 54 a 55 zákona č. 483/2001 Z. z.
 
 - § 8, § 14 ods. 1 písm. a) a l) a § 50 ods. 3 písm. a) a ods. 4 zákona č. 328/1991 Zb. v znení neskorších predpisov.
+
+- 15aaa) § 22 ods. 1 a § 31 až 33b Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 15aab) § 20 ods. 2 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 15ab) Zákon č. 36/1967 Z. z. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
@@ -144,15 +118,23 @@
 
 - 15d) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 15e) Napríklad § 784 Občianskeho zákonníka.
-
 - 15ea) § 492 a § 546 až 550 Občianskeho zákonníka.
 
 - 15eaa) § 7 ods. 3 a § 10 ods. 1 písm. d) zákona č. 428/2002 Z. z.
 
+- 15eab) Čl. 19 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
 - 15f) § 9 vyhlášky Ministerstva financií č. 47/1964 Zb. o peňažných službách občanom v znení vyhlášky Štátnej banky československej č. 31/1990 Zb.
 
+- 15fa) Napríklad zákon č. 371/2014 Z. z. v znení neskorších predpisov, čl. 16 ods. 1 delegovaného nariadenia Komisie (EÚ) č. 2015/63 z 21. októbra 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/59/EÚ, pokiaľ ide o príspevky ex ante do mechanizmov financovania riešenia krízových situácií (Ú. v. EÚ L 11, 17. 1. 2015).
+
+- 15fa) Čl. 20 ods. 4 delegovaného nariadenia Komisie (EÚ) č. 2015/63.
+
 - 15g) Napríklad zákon č. 431/2002 Z. z., zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
+
+- 15ga) Čl. 70 nariadenia (EÚ) č. 1093/2010 v platnom znení.
+
+- 15gb) Zákon č. 506/2009 Z. z. o ochranných známkach.
 
 - 15h) § 8 ods. 1 písm. i) a ods. 2 a § 13 ods. 1 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -191,7 +173,5 @@
 - 18d) Napríklad § 1 ods. 2 písm. b) zákona č. 283/2002 Z. z. o cestovných náhradách.
 
 - 18e) § 61 ods. 5 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 505/2010 Z. z.
-
-- 19) Zákon Slovenskej národnej rady č. 24/1991 Zb. o poisťovníctve v znení neskorších predpisov.
 
 - 20) § 2 ods. 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
