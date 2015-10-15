@@ -210,8 +210,66 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 52. V prílohe č. 3 bode 7.5.7 sa slová "e) a k)" nahrádzajú slovami "e), j), k) a l)".
 
+- 53. V prílohe č. 3 sa bod 7.5 dopĺňa bodmi 7.5.8 a 7.5.9, ktoré znejú:
+
+- „7.5.8
+
+- Podmienky vypĺňania atribútov podľa bodu 7.5.6 sú
+
+- a)
+
+- atribúty "media-type", "full-path" a "filename" sa vypĺňajú pre každý súbor elektronického formulára,
+
+- b)
+
+- atribúty "reference-digest-method-algorithm" a "reference-digest-value" sa vypĺňajú pre každý externe uložený súbor elektronického formulára, a ak ide o súbor v jazyku XML, vypĺňa sa aj atribút "reference-transform-algorithm",
+
+- c)
+
+- atribúty "media-destination", "media-destination-type" a "media-destination-type-description" sa vypĺňajú pre každú prezentačnú schému elektronického formulára,
+
+- d)
+
+- atribúty "xslfo-reference-procesor" a "xslfo-reference-procesor-url" sa vypĺňajú pre každú prezentačnú schému elektronického formulára používajúcu referenčný XSL-FO procesor alebo správne spracovateľnú referenčným XSL-FO procesorom,
+
+- e)
+
+- atribút "media-language" sa vypĺňa podľa podmienky v bode 7.5.6 písm. e),
+
+- f)
+
+- atribút "target-environment" sa vypĺňa podľa podmienky v bode 7.5.6 písm. j),
+
+- g)
+
+- atribút "full-path-url" sa vypĺňa pre každú súčasť elektronického formulára, pre ktorú sa poskytuje funkčný priamy odkaz,
+
+- h)
+
+- atribút "description" sa vypĺňa podľa potreby.
+
+- 7.5.9
+
+- Pre každú prezentačnú schému sa v elektronickom formulári vytvára jedinečná kombinácia hodnôt atribútov podľa bodu 7.5.6 písm. b), d), e) a j), a to aj vtedy, ak nie sú použité atribúty "target-environment" alebo "media-language".“.
+
 - 54. V prílohe č. 3 bode 7.9.5 sa slová "poskytuje rozdielnu prezentačnú schému" nahrádzajú slovami "obsahuje osobitné prezentačné schémy" a slová "s technickými normami.<sup>16</sup>)" sa nahrádzajú slovami "so základným číselníkom CL010076 Jazyky".
 
   - Poznámka pod čiarou k odkazu 16 sa vypúšťa.
 
 - 56. V prílohe č. 3 bode 7.12.3 sa slová "<xs:attribute type="xs:string" name="filename" use="optional"/>" nahrádzajú slovami "<xs:attribute type="xs:string" name="filename" use="required"/>".
+
+- 57. Príloha č. 11 vrátane nadpisu znie:
+
+- „Príloha č. 11 k výnosu č. 55/2014 Z. z.
+
+- Štruktúra údajov pre kontajner XML údajov
+
+- [Štruktúra údajov pre kontajner XML údajov](assets/d148d2acd6b2671aa8adb2defd1109de7ff0a0f439e1f1fd62041ddccf39065f.pdf)“.
+
+- 58. Príloha č. 13 vrátane nadpisu znie:
+
+- „Príloha č. 13 k výnosu č. 55/2014 Z. z.
+
+- Dátová štruktúra základného číselníka
+
+- [Dátová štruktúra základného číselníka](assets/ad6159dffb70b131c3418cb73c1945c016242d823d088ad0b350c9c51580d234.pdf)“.
