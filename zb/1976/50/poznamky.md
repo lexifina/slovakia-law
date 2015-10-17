@@ -18,6 +18,8 @@
 
 - 1fb) § 9 zákona č. 24/2006 Z. z.
 
+- 1fc) § 1 ods. 3, 8, 11 a 12 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 1g) § 24 až 27 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 1ga) Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
