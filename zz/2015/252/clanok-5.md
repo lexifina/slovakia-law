@@ -1,0 +1,3 @@
+# Čl. V
+
+Tento zákon nadobúda účinnosť pätnástym dňom odo dňa jeho vyhlásenia okrem čl. I druhého bodu, piateho bodu, šiesteho bodu, ôsmeho bodu, pätnásteho bodu, sedemnásteho bodu až dvadsiateho bodu, § 45 ods. 10 a 11 dvadsiateho prvého bodu, dvadsiateho druhého bodu až dvadsiateho deviateho bodu, tridsiateho prvého bodu až štyridsiateho štvrtého bodu, štyridsiateho šiesteho bodu až štyridsiateho ôsmeho bodu, päťdesiateho bodu, päťdesiateho tretieho bodu, päťdesiateho štvrtého bodu, päťdesiateho šiesteho bodu, päťdesiateho siedmeho bodu a § 155q ods. 6 šesťdesiateho bodu a čl. II až IV, ktoré nadobúdajú účinnosť 1. novembra 2015.
