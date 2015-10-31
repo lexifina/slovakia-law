@@ -46,6 +46,10 @@
 
 - 8b) Napríklad Obchodný zákonník, zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 8c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 8d) § 9 písm. f) zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 9) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 679/2004 Z. z.
 
 - 9a) § 4 ods. 3 písm. f) zákona č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení zákona č. 465/2002 Z. z.
@@ -55,8 +59,6 @@
 - 9ab) § 2 ods. 2, 4 a 5 zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 223/2011 Z. z.
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
-
-- 9c) Čl. 3 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
 
 - 10) § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -107,6 +109,14 @@
 - 20) Čl. XIX Dohody o vládnom obstarávaní.
 
 - 21) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 21a) Čl. 2 ods. 1 ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z.
+
+- 21b) § 5 zákona č. 297/2008 Z. z. v znení neskorších predpisov.
+
+- 21c) Napríklad čl. 7 ods. 2 a 4 Ústavy Slovenskej republiky, Čl. 339 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012; oznámenie č. 486/2009 Z. z.), čl. 37 ods. 37.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojeného k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012), § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- 21d) § 9 písm. e) zákona č. 297/2008 Z. z. v znení neskorších predpisov.
 
 - 23aa) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
