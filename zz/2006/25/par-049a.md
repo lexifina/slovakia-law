@@ -34,4 +34,6 @@
 
 (4) Ponuky uchádzačov sa v profile zverejňujú až po uzavretí zmluvy, koncesnej zmluvy alebo rámcovej dohody a po ukončení súťaže návrhov. Ak dôjde k zrušeniu postupu zadávania zákazky a súťaže návrhov, ponuky sa v profile nezverejňujú.
 
-(5) Osobné údaje možno v profile zverejniť v rozsahu meno a priezvisko, obchodné meno alebo názov, adresu pobytu alebo sídlo, identifikačné číslo alebo dátum narodenia, ak nebolo pridelené identifikačné číslo.
+(5) Verejný obstarávateľ alebo obstarávateľ môže splniť povinnosť uverejniť dokumenty alebo informácie v profile aj uverejnením priameho odkazu na informáciu alebo dokument uverejnený na inom webovom sídle; povinnosť zabezpečiť bezplatne neobmedzený, úplný a priamy prístup prostredníctvom elektronických prostriedkov tým nie je dotknutá.
+
+(6) Osobné údaje možno v profile zverejniť v rozsahu meno a priezvisko, obchodné meno alebo názov, adresu pobytu alebo sídlo, identifikačné číslo alebo dátum narodenia, ak nebolo pridelené identifikačné číslo.

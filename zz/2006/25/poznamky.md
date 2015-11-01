@@ -60,6 +60,12 @@
 
 - 9b) § 38 ods. 11 a 12 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
 
+- 9d) Rozhodnutie Komisie 2009/767/ES zo 16. októbra 2009, ktorým sa ustanovujú opatrenia na uľahčenie postupov elektronickými spôsobmi prostredníctvom miest jednotného kontaktu podľa smernice Európskeho parlamentu a Rady 2006/123/ES o službách na vnútornom trhu (2009/767/ES) (Ú. v. EÚ L 274, 20. 10. 2009) v platnom znení.
+
+- 9e) Rozhodnutie Komisie 2011/130/EÚ z 25. februára 2011, ktorým sa ustanovujú minimálne požiadavky na cezhraničné spracovanie dokumentov elektronicky podpísaných príslušnými orgánmi v zmysle smernice Európskeho parlamentu a Rady 2006/123/ES o službách na vnútornom trhu (Ú. v. EÚ L 53, 26. 2. 2011) v platnom znení.
+
+- 9f) Článok 1 ods. 2 rozhodnutia 2011/130/EÚ.
+
 - 10) § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 4 ods. 4 a § 15 ods. 1 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení zákona č. 134/2004 Z. z.

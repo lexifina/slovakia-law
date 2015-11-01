@@ -10,4 +10,6 @@
 
 (5) Konanie o žiadosti o nápravu a konanie o námietkach, ktoré sa vzťahujú na verejné obstarávanie podľa odseku 1 alebo odseku 2, sa dokončia podľa predpisov účinných do 31. októbra 2015.
 
+(6) Verejný obstarávateľ a obstarávateľ môže do 31. augusta 2016 postupovať podľa § 18 v znení účinnom do 31. októbra 2015.
+
 (7) Verejný obstarávateľ alebo obstarávateľ môže vypovedať podľa § 134e zmluvu, koncesnú zmluvu alebo rámcovú dohodu uzavretú po 1. novembri 2015.
