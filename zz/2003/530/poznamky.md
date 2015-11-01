@@ -4,7 +4,7 @@
 
 - 1b) § 69aa ods. 1 písm. d) Obchodného zákonníka.
 
-- 2) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- 2) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -77,6 +77,8 @@
 - 14j) Čl. 22 nariadenia Rady (ES) č. 1435/2003.
 
 - 14k) Čl. 35 ods. 2 až 6 nariadenia Rady (ES) č. 1435/2003.
+
+- 14l) Napríklad zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 15) § 218l ods. 1 Obchodného zákonníka.
 
