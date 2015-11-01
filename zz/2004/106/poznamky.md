@@ -56,6 +56,8 @@
 
 - 8ad) Rozhodnutie 2012/21/EÚ.
 
+- 8ae) Vyhláška Ministerstva financií Slovenskej republiky č. 255/2014 Z. z. o označovaní balení kontrolných známok určených na označovanie spotrebiteľského balenia tabakových výrobkov a o oznamovaní a zverejňovaní údajov o týchto kontrolných známkach.
+
 - 8b) § 15 ods. 5 zákona č. 563/2009 Z. z.
 
 - 8c) § 55 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
@@ -126,7 +128,7 @@
 
 - 25) Nariadenie Rady (ES) č. 2073/2004 zo 16. novembra 2004 o správnej spolupráci v oblasti spotrebných daní (Ú. v. ES L 359, 4. 12. 2004).
 
-- 25a) Vyhláška Ministerstva financií Slovenskej republiky č. 182/2004 Z. z., ktorou sa ustanovujú podrobnosti o vyhotovení kontrolnej známky na označovanie spotrebiteľského balenia cigariet a o jej grafických prvkoch a údajoch.
+- 25a) Vyhláška Ministerstva financií Slovenskej republiky č. 254/2014 Z. z., ktorou sa ustanovujú náležitosti, vyhotovenie a cena kontrolnej známky určenej na označovanie spotrebiteľského balenia tabakových výrobkov.
 
 - 25b) § 42 a 43 zákona č. 563/2009 Z. z.
 

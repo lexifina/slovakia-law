@@ -31,3 +31,5 @@
 (5) Tabakové výrobky, ktoré colný úrad zabezpečí a ktoré sa dňom nadobudnutia právoplatnosti rozhodnutia o prepadnutí tabakových výrobkov stanú majetkom štátu,<sup>3</sup>) je colný úrad povinný zničiť. Na postup pri ničení tabakových výrobkov sa primerane použije osobitný predpis.<sup>25b</sup>)
 
 (6) Za priestupok podľa odseku 1 písm. a) a c) môže colný úrad uložiť pokutu v blokovom konaní do výšky 165,96 eura. Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.<sup>25c</sup>)
+
+(7) Ak fyzická osoba, ktorá nie je oprávnená na podnikanie predá, ponúkne na predaj, skladuje alebo prepravuje spotrebiteľské balenie tabakových výrobkov označené kontrolnými známkami, ktoré nie sú falzifikátom, a ak sa preukáže, že tieto kontrolné známky boli vydané podľa § 9b ods. 7, ustanovenie odseku 1 písm. a) sa nepoužije.

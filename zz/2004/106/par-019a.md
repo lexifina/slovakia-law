@@ -22,7 +22,7 @@
 
 - c) zistenia tabakovej suroviny, ktorá sa nachádza alebo nachádzala sa u osoby, ak táto osoba nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou; za deň zistenia tejto skutočnosti sa považuje deň, keď tieto skutočnosti zistil colný úrad,
 
-- d) prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
+- d) prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie nie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom; dovozca, ktorý je držiteľom povolenia na obchodovanie s tabakovou surovinou a súčasne prevádzkovateľom daňového skladu, je povinný preukázať sa colnému úradu, ktorý tabakovú surovinu prepúšťa do voľného obehu,<sup>2aa</sup>) povolením na prevádzkovanie daňového skladu a čestným vyhlásením, že nie je konečným spotrebiteľom tabakovej suroviny,
 
 - e) vzniku colného dlhu iným spôsobom ako prijatím colného vyhlásenia.
 
@@ -34,7 +34,7 @@
 
 - c) ktorá nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
 
-- d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>)
+- d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) okrem predloženia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom tabakovej suroviny,
 
 - e) ktorej colný dlh vznikol iným spôsobom ako prijatím colného vyhlásenia.
 
