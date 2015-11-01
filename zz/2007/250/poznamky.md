@@ -82,6 +82,8 @@
 
 - 20) § 2 ods. 1 písm. a) zákona č. 178/1998 Z. z. v znení zákona č. 524/2005 Z. z.
 
+- 20a) § 2ods. 1 písm. s) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 273/2015 Z. z.
+
 - 21) § 3 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 22) § 622 a 623 Občianskeho zákonníka.
