@@ -1,5 +1,7 @@
 - 1) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
+- 1a) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
 - 2) § 68 až 75 Obchodného zákonníka.
 
 - 3) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
