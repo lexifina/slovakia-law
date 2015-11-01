@@ -20,6 +20,8 @@
 
 - 4aa) § 7 zákona č. 305/2013 Z. z.
 
+- 4ab) § 9a zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
 - 4c) Napríklad zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4d) § 10 zákona č. 305/2013 Z. z.
@@ -45,3 +47,5 @@
 - 11c) Príloha č. IV k nariadeniu (EÚ) č. 211/2011.
 
 - 12) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 13) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
