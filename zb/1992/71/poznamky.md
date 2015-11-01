@@ -54,6 +54,8 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
+- 4c) Napríklad § 5 ods. 2 zákona č. 530/2003 Z. z. o Obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 5) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 5a) § 55 až 58 Občianskeho súdneho poriadku.
@@ -84,9 +86,7 @@
 
 - 7c) § 8 ods. 3 až 5 zákona č. 530/2003 Z. z.
 
-- 7d) § 5b až 5d zákona č. 530/2003 Z. z. v znení zákona č. 136/2010 Z. z.
-
-- 7e) § 5 ods. 1 zákona č. 530/2003 Z. z.
+- 7e) § 43 a 44 zákona č. 305/2013 Z. z.
 
 - 7f) § 3 písm. c) zákona č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
