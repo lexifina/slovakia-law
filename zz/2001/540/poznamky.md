@@ -4,6 +4,8 @@
 
 - 1b) Čl. 4 a 5 nariadenia Európskeho parlamentu a Rady (ES) č. 223/2009 z 11. marca 2009 o európskej štatistike a o zrušení nariadenia (ES, Euratom) č. 1101/2008 o prenose dôverných štatistických údajov Štatistickému úradu Európskych spoločenstiev, nariadenia Rady (ES) č. 322/97 o štatistike Spoločenstva a rozhodnutia Rady 89/382/EHS, Euratom o založení Výboru pre štatistické programy Európskych spoločenstiev (Ú. v. EÚ L 87, 31. 3. 2009).
 
+- 1c) § 9 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
 - 2) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 564/1992 Zb. o spôsobe vykonania referenda a zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov.
 
 - 2a) § 38 ods. 1 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácií ústrednej štátnej správy v znení neskorších predpisov.
