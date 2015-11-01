@@ -2,6 +2,8 @@
 
 - 1a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
 - 2) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 2a) § 9a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 478/ 2009 Z. z.
