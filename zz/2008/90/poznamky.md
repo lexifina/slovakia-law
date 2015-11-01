@@ -32,6 +32,8 @@
 
 - 6a) Čl. 7 a 14 nariadenia (ES) č. 1082/2006 v platnom znení.
 
+- 6aa) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
 - 7) Čl. 8 ods. 1 a čl. 9 ods. 1 nariadenia (ES) č. 1082/2006 v platnom znení.
 
 - 8) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
