@@ -606,6 +606,8 @@
 
 - 86dc) § 4 ods. 2, § 14 ods. 5 a 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. v znení zákona č. 394/2011 Z. z.
 
+- 86dd) § 134a až 134d zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2015 Z. z.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
