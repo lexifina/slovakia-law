@@ -112,9 +112,7 @@
 
 - 23c) Zákon Slovenskej národnej rady č. 52/1988 Zb. o geologických prácach a o Slovenskom geologickom úrade v znení zákona Slovenskej národnej rady č. 497/1991 Zb.
 
-- 23d) § 4 zákona č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z.
-
-- Zákon č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
+- 23d) § 5 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23e) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
@@ -227,6 +225,8 @@
 - 36i) Zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
 - 36j) § 23 ods. 7 zákona č. 218/2013 o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
+
+- 36k) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
