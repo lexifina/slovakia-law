@@ -366,12 +366,4 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 30: |
 
-- Za výpis z registra trestov a odpis registra trestov (aj negatívne) | 4 eurá
-
-- Položka 31 |
-
-- Za poskytnutie údajov z úschovne dokumentácie registra trestov | 3 eurá
-
-- Položka 32 |
-
-- Za poskytnutie informácie o odsúdení v inom štáte Európskej únie fyzickej osobe | 16,50 eura
+- Za výpis z registra trestov, odpis registra trestov, za poskytnutie výpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe a za poskytnutie odpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe (aj negatívne) | 4 eurá
