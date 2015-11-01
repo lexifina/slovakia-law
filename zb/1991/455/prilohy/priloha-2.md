@@ -166,7 +166,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 66. | Prevádzkovanie verejných vodovodov I. až III. kategórie a prevádzkovanie verejných kanalizácií I. až III. kategórie | – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejného vodovodu I. až III. kategórie alebo – osvedčenie o odbornej spôsobilosti na prevádzkovanie verejnej kanalizácie I. až III. kategórie | § 6 ods. 3 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 230/2005 Z. z. |
 
-- 67. | Správa registratúry | – úplné stredné vzdelanie a 3 roky praxe v odbore alebo – vysokoškolské vzdelanie v študijnom odbore archívnictvo a pomocné historické vedy alebo v príbuznom študijnom odbore | § 23 ods. 2 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých ­zákonov v znení neskorších predpisov |
+- 67. | Správa registratúry | – úplné stredné vzdelanie a 5 rokov praxe v odbore alebo – vysokoškolské vzdelanie v študijnom odbore archívnictvo a pomocné historické vedy alebo v príbuznom študijnom odbore | § 23 ods. 2 písm. b) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých ­zákonov v znení neskorších predpisov |
 
 - 68. | Odborné poradenstvo v oblasti integrovanej prevencie a kontroly znečisťovania životného prostredia | osvedčenie na poskytovanie odborného poradenstva v oblasti integrovanej prevencie a kontroly znečisťovania | § 5 ods. 3 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov |
 
