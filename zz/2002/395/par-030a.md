@@ -48,10 +48,12 @@
 
 - x) neoznámi ako zriaďovateľ archívu vznik a zánik pracovného pomeru osoby vykonávajúcej odborné činnosti v archíve,
 
-- y) nevráti povolenie, ktoré nepoužil.
+- y) nevráti povolenie, ktoré nepoužil,
 
-(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až y) pokutu do 1659 eur.
+- z) nepredloží návrh na vyradenie v lehote podľa § 18 ods. 3.
+
+(2) Za priestupok podľa odseku 1 písm. a) až d) možno uložiť pokutu do 33 193 eur, za priestupok podľa odseku 1 písm. e) až j) pokutu do 16 596 eur, za priestupok podľa odseku 1 písm. k) až p) pokutu do 3319 eur a za priestupok podľa odseku 1 písm. r) až z) pokutu do 1659 eur.
 
 (3) Priestupky podľa tohto zákona prejednáva ministerstvo.
 
-(4) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch<sup>36a</sup>).
+(4) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch<sup>36b</sup>).

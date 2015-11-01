@@ -1,111 +1,25 @@
 Príloha č. 1 k zákonu č. 395/2002 Z. z.
 
-- NÁZVY, SÍDLA A ÚZEMNÉ OBVODY ŠTÁTNYCH ARCHÍVOV S REGIONÁLNOU ÚZEMNOU PÔSOBNOSŤOU A ICH POBOČKY NÁZOV/SÍDLO<sup>1</sup>) | ÚZEMNÝ OBVOD OKRES
+- NÁZVY, SÍDLA A ÚZEMNÉ OBVODY ŠTÁTNYCH ARCHÍVOV ZRIAĎOVANÝCH MINISTERSTVOM NÁZOV/ SÍDLO | ÚZEMNÝ OBVOD/ OKRES
 
-- I. Štátny archív v Banskej Bystrici |
+- I. Slovenský národný archív Špecializované pracovisko: Slovenský banský archív v Banskej Štiavnici |
 
-- Pobočka: |
+- II. Štátny archív v Banskej Bystrici Pracovisko: 1. Archív Banská Štiavnica 2. Archív Kremnica 3. Archív Lučenec 4. Archív Rimavská Sobota 5. Archív Veľký Krtíš 6. Archív Zvolen | Banská Bystrica, Brezno Banská Štiavnica Žarnovica, Žiar nad Hronom Lučenec, Poltár Rimavská Sobota Veľký Krtíš Detva, Krupina, Zvolen
 
-- 1. Banská Bystrica | Banská Bystrica, Brezno
+- III. Štátny archív v Bratislave Pracovisko: Archív Modra | Bratislava Malacky, Pezinok, Senec
 
-- 2. Banská Štiavnica | Banská Štiavnica
+- IV. Štátny archív v Košiciach Pracovisko: 1. Archív Michalovce 2. Archív Rožňava 3. Archív Spišská Nová Ves 4. Archív Trebišov | Košice, Košice-okolie Michalovce, Sobrance Revúca, Rožňava Gelnica, Spišská Nová Ves Trebišov
 
-- 3. Kremnica | Žarnovica, Žiar nad Hronom
+- V. Štátny archív v Nitre Sídlo: Ivanka pri Nitre Pracovisko: 1. Archív Komárno 2. Archív Levice 3. Archív Nové Zámky 4. Archív Šaľa 5. Archív Topoľčany | Nitra, Zlaté Moravce Komárno Levice Nové Zámky Dunajská Streda, Galanta, Šaľa Bánovce nad Bebravou, Partizánske, Topoľčany
 
-- 4. Lučenec | Lučenec, Poltár
+- VI. Štátny archív v Prešove Špecializované pracovisko: 1. Spišský archív v Levoči Pracovisko: 2. Archív Bardejov 3. Archív Humenné 4. Archív Poprad 5. Archív Stará Ľubovňa 6. Archív Svidník 7. Archív Vranov nad Topľou | Prešov, Sabinov Levoča Bardejov Humenné, Medzilaborce, Snina Kežmarok, Poprad Stará Ľubovňa Stropkov, Svidník Vranov nad Topľou
 
-- 5. Rimavská Sobota | Rimavská Sobota
+- VII. Štátny archív v Trenčíne Pracovisko: 1. Archív Bojnice 2. Archív Považská Bystrica | Myjava, Nové Mesto nad Váhom, Trenčín Prievidza Ilava, Považská Bystrica, Púchov
 
-- 6. Veľký Krtíš | Veľký Krtíš
+- VIII. Štátny archív v Trnave Pracovisko: Archív Skalica | Hlohovec, Piešťany, Trnava Senica, Skalica
 
-- 7. Zvolen | Zvolen, Detva, Krupina
+- IX. Štátny archív v Žiline Sídlo: Bytča Pracovisko: 1. Archív Čadca 2. Archív Dolný Kubín 3. Archív Liptovský Mikuláš 4. Archív Martin | Bytča, Žilina Čadca, Kysucké Nové Mesto Dolný Kubín, Námestovo, Tvrdošín Liptovský Mikuláš, Ružomberok Martin, Turčianske Teplice
 
-- II. Štátny archív v Bratislave | Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V
+  - Vysvetlivka:
 
-- Pobočka: |
-
-- 1. Modra | Malacky, Pezinok, Senec
-
-- 2. Skalica | Myjava, Skalica, Senica
-
-- 3. Šaľa | Dunajská Streda, Galanta, Šaľa
-
-- 4. Trenčín | Nové Mesto nad Váhom, Trenčín
-
-- 5. Trnava | Hlohovec, Piešťany, Trnava
-
-- III. Štátny archív v Bytči |
-
-- Pobočka: |
-
-- 1. Čadca | Čadca, Kysucké Nové Mesto
-
-- 2. Dolný Kubín | Dolný Kubín, Námestovo, Tvrdošín
-
-- 3. Liptovský Mikuláš | Liptovský Mikuláš, Ružomberok
-
-- 4. Martin | Martin, Turčianske Teplice
-
-- 5. Považská Bystrica | Ilava, Považská Bystrica, Púchov
-
-- 6. Žilina | Bytča, Žilina
-
-- IV. Štátny archív v Košiciach |
-
-- Pobočka: |
-
-- 1. Košice | Košice I, Košice II, Košice III, Košice IV, Košice-okolie
-
-- 2. Michalovce | Michalovce, Sobrance
-
-- 3. Rožňava | Revúca, Rožňava
-
-- 4. Trebišov | Trebišov
-
-- V. Štátny archív v Levoči |
-
-- Pobočka: |
-
-- 1. Levoča | Levoča
-
-- 2. Poprad | Kežmarok, Poprad
-
-- 3. Spišská Nová Ves | Gelnica, Spišská Nová Ves
-
-- 4. Stará Ľubovňa | Stará Ľubovňa
-
-- VI. Štátny archív v Nitre |
-
-- sídlo: Ivanka pri Nitre |
-
-- Pobočka: |
-
-- 1. Nitra | Nitra, Zlaté Moravce
-
-- 2. Bojnice | Prievidza
-
-- 3. Komárno | Komárno
-
-- 4. Levice | Levice
-
-- 5. Nové Zámky | Nové Zámky
-
-- 6. Topoľčany | Bánovce nad Bebravou, Partizánske, Topoľčany
-
-- VII. Štátny archív v Prešove |
-
-- Pobočka: |
-
-- 1. Prešov | Prešov, Sabinov
-
-- 2. Bardejov | Bardejov
-
-- 3. Humenné | Humenné, Medzilaborce, Snina
-
-- 4. Svidník | Svidník, Stropkov
-
-- 5. Vranov nad Topľou | Vranov nad Topľou
-
-- VIII. Archív hlavného mesta SR Bratislavy | Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V
-
-  - 1) Sídlo sa uvádza len v prípade, ak nie je totožné s mestom uvedeným v názve štátneho archívu.
+  - Sídlo sa uvádza len v prípade, ak nie je totožné s mestom uvedeným v názve štátneho archívu.
