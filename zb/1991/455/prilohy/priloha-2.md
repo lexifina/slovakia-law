@@ -74,7 +74,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 30. | Výkon špecializovaných činností v oblasti telesnej kultúry okrem horskej vodcovskej činnosti | doklad o získanej odbornej spôsobilosti | § 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 444/2008 Z. z. o akreditačnej komisii pre oblasť telesnej kultúry a o Jednotnom vzdelávacom systéme odborníkov v športe Slovenskej republiky |
 
-- 31. | Horská vodcovská činnosť vrátane vedenia a sprevádzania osôb po turistických chodníkoch a trasách | osvedčenie o odbornej spôsobilosti na vykonávanie horskej vodcovskej činnosti vydané asociáciou alebo zahraničnou právnickou osobou, ktorá je členom Medzinárodného združenia asociácií horských vodcov (UIAGM/IFMGA) | § 2d ods. 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov |
+- 31. | Horská vodcovská činnosť vrátane vedenia a sprevádzania osôb po turistických chodníkoch a trasách | osvedčenie o odbornej spôsobilosti na výkon horskej vodcovskej činnosti vydané Národnou asociáciou horských vodcov Slovenskej republiky | § 2d ods. 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov |
+
+- 31a | Horská sprievodcovská činnosť | osvedčenie o odbornej spôsobilosti na výkon horskej sprievodcovskej činnosti vydané Slovenskou asociáciou horských sprievodcov | § 2g ods. 2 zákona č. 544/2002 Z. z. v znení zákona č. 274/2015 Z. z. |
 
 - 32. | Vykonávanie odbornej prípravy na úseku ochrany pred požiarmi | oprávnenie | § 12 ods. 1 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov |
 
