@@ -134,7 +134,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 2.1.7 | Závažie 5. triedy presnosti<sup>2</sup>),<sup>3</sup>) | nie | áno | 2 roky | 17
 
-    - 2.1.8 | Váhy s automatickou činnosťou na váženie cestných vozidiel za pohybu triedy presnosti 0,2; 0,5; 1 a2<sup>2</sup>),<sup>3</sup>) | áno | áno | 1 rok | 30
+    - 2.1.8 | Váhy s automatickou činnosťou na váženie cestných vozidiel za pohybu a na meranie nápravového zaťaženia triedy presnosti 0,2; 0,5; 1 a 2 pre hmotnosť vozidla a triedy presnosti A, B, C a D pre zaťaženie jednotlivej nápravy a pre zaťaženie skupiny náprav <sup>2</sup>),<sup>3</sup>) | áno | áno | 1 rok | 30
 
     - 2.1.9 | Váhy s automatickou činnosťou na váženie koľajových vozidiel triedy presnosti 0,2; 0,5; 1 a 2<sup>2</sup>),<sup>3</sup>) | áno | áno | 2 roky | 46
 

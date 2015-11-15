@@ -1,3 +1,3 @@
 Príloha č. 59 k vyhláške č. 210/2000 Z. z.
 
-- Momentové kľúče [Príloha č. 59 k vyhláške č. 210/2000 Z. z.](../assets/d67587e82c696212f92e9b8b5161c8c33a54508aed1f9932f38f86d2f5edb70e.pdf)
+- Momentové kľúče [Príloha č. 59 k vyhláške č. 210/2000 Z. z.](../assets/022e94491e25e1503d1263c73aac3ea47b4abbfa3ccfe66d98292ed71cbafd4d.pdf)

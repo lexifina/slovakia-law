@@ -1,3 +1,3 @@
 Príloha č. 12 k vyhláške č. 210/2000 Z. z.
 
-- MERACIE ZOSTAVY NA KVAPALINY OKREM VODY [Príloha 12](../assets/e281f737eea8719c36c4802f09c7ccf3fe82cbdfb2a1e2ff9e94b5bb175fe9c6.pdf)
+- MERACIE ZOSTAVY NA KVAPALINY OKREM VODY [Príloha 12](../assets/02376d3362fbb920f3b966b0ac0dc752c9d9124910ef5b65a3614ff61347fe4b.pdf)
