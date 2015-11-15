@@ -6,16 +6,18 @@ Asociácia najmä
 
 - b) vykonáva odbornú prípravu osôb, ktoré vykonávajú horskú vodcovskú činnosť,
 
-- c) vydáva osvedčenie o odbornej spôsobilosti na vykonávanie horskej vodcovskej činnosti,
+- c) vydáva osvedčenie o odbornej spôsobilosti na výkon horskej vodcovskej činnosti,
 
 - d) podieľa sa na zvyšovaní odbornej spôsobilosti osôb vykonávajúcich horskú vodcovskú činnosť,
 
-- e) oznamuje príslušnému orgánu štátnej správy osoby, ktorým zanikla platnosť osvedčenia o odbornej spôsobilosti na vykonávanie horskej vodcovskej činnosti,
+- e) oznamuje príslušnému orgánu štátnej správy osoby, ktorým zanikla platnosť osvedčenia o odbornej spôsobilosti na výkon horskej vodcovskej činnosti,
 
-- f) poskytuje informačné a poradenské služby,
+- f) rozhoduje podľa osobitného predpisu<sup>4a</sup>) o uznaní odbornej spôsobilosti na výkon horskej vodcovskej činnosti získanej v zahraničí,
 
-- g) spolupracuje so štátnymi orgánmi pri tvorbe právnych predpisov týkajúcich sa horskej vodcovskej činnosti,
+- g) poskytuje informačné a poradenské služby,
 
-- h) spolupracuje s obdobnými právnickými osobami v zahraničí,
+- h) spolupracuje so štátnymi orgánmi pri tvorbe právnych predpisov týkajúcich sa horskej vodcovskej činnosti,
 
-- i) je oprávnená prostredníctvom svojich členov požadovať preukázanie totožnosti osôb pri porušení povinností vyplývajúcich z § 11 ods. 2 písm. a); pritom sa preukazujú preukazom člena asociácie.
+- i) spolupracuje s obdobnými právnickými osobami v zahraničí,
+
+- j) je oprávnená prostredníctvom svojich členov požadovať preukázanie totožnosti osôb pri porušení povinností vyplývajúcich z § 11 ods. 2 písm. a); pritom sa preukazujú preukazom člena asociácie.

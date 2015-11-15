@@ -6,7 +6,11 @@
 
 - 4) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 5) Zákon č. 543/2002 Z. z. o ochrane prírody a krajiny.
+- 4a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
+
+- 5) § 24 ods. 1 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny.
+
+- 5a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme.
 
@@ -20,9 +24,11 @@
 
 - 9) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
-- 9a) Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
+- 9a) § 23 ods. 1 písm. g) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 9aa) § 41 ods. 1 písm. d) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 653/2007 Z. z.
+- 9b) § 41 ods. 1 písm. d) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
+
+- 9c) Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
 - 10) § 16 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
