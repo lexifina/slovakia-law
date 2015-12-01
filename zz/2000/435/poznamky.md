@@ -96,6 +96,8 @@
 
 - 14d) Napríklad Medzinárodný dohovor o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
+- 14e) § 43 Zákonníka práce v znení neskorších predpisov.
+
 - 15) § 37 ods. 3 Zákonníka práce v znení neskorších predpisov.
 
 - 16) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.

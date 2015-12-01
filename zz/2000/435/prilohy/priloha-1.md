@@ -37,3 +37,7 @@ Príloha č. 1 k zákonu č. 435/2000 Z. z.
   - 17. Smernica Európskeho parlamentu a Rady 2013/38/EÚ z 12. augusta 2013 , ktorou sa mení smernica 2009/16/ES o štátnej prístavnej kontrole (Ú. v. EÚ L 218, 14. 8. 2013).
 
   - 18. Smernica Európskeho parlamentu a Rady 2013/54/EÚ z 20. novembra 2013 o určitých zodpovednostiach vlajkového štátu za plnenie Dohovoru o pracovných normách v námornej doprave z roku 2006 a jeho presadzovanie (Ú. v. EÚ L 329, 10. 12. 2013).
+
+  - 19. Smernica Komisie 2014/100/EÚ z 28. októbra 2014, ktorou sa mení smernica Európskeho parlamentu a Rady 2002/59/ES, ktorou sa zriaďuje monitorovací a informačný systém Spoločenstva pre lodnú dopravu (Ú. v. EÚ L 308, 29. 10. 2014).
+
+  - 20. Vykonávacia smernica Komisie 2014/111/EÚ zo 17. novembra 2014, ktorou sa mení smernica 2009/15/ES, pokiaľ ide o prijatie určitých kódexov a s tým súvisiacich zmien určitých dohovorov a protokolov Medzinárodnou námornou organizáciou (IMO) (Ú. v. EÚ L 366, 20. 12. 2014).
