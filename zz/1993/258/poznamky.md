@@ -26,9 +26,9 @@
 
 - 10) Zákon č. 526/1990 Zb. o cenách.
 
-- 11) Zákon č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 11) Príloha č. 12a k zákonu č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení zákona č. 259/2015 Z. z.
 
-- 12) Napríklad vyhláška Ministerstva zdravotníctva a sociálnych vecí č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon Slovenskej národnej rady o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení, v znení neskorších predpisov.
+- 12) Príloha č. 13 časť B druhý bod k zákonu č. 513/2009 Z. z. v znení zákona č. 259/2015 Z. z.
 
 - 13) Zákon č. 526/1990 Zb. o cenách.
 
