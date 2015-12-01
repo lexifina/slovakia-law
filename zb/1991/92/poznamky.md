@@ -16,7 +16,7 @@
 
 - 4c) Napr. § 8 ods. 2 zákona č. 17/1992 Zb.
 
-- 4da) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení zákona č. 152/1997 Z. z.
+- 4da) Príloha č. 12a k zákonu č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení zákona č. 259/2015 Z. z.
 
 - 4db) Zákon č. 61/1977 Zb. o lesoch v znení neskorších predpisov.
 
