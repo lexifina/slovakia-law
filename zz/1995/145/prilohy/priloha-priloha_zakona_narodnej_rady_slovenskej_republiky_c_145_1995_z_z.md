@@ -1494,13 +1494,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 70
 
-  - a) | Schválenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 1 200 eur
+  - a) | Povolenie typu dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 1 200 eur
 
-  - b) | Schválenie podstatnej zmeny dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 300 eur
+  - b) | Povolenie modernizácie alebo obnovy dráhového vozidla s vlastným pohonom pre železničnú dráhu alebo osobného vozňa pre rýchlosť nad 160 km/h ..... | 300 eur
 
-  - c) | Schválenie typu ťahaného dráhového vozidla pre železničnú dráhu ..... | 400 eur
+  - c) | Povolenie typu ťahaného dráhového vozidla pre železničnú dráhu ..... | 400 eur
 
-  - d) | Schválenie podstatnej zmeny ťahaného dráhového vozidla pre železničnú dráhu ..... | 120 eur
+  - d) | Povolenie modernizácie alebo obnovy ťahaného dráhového vozidla pre železničnú dráhu ..... | 120 eur
 
   - e) | Schválenie typu výstroja alebo súčasti dráhového vozidla ..... | 90 eur
 
@@ -1512,7 +1512,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) | Povolenie skúšky koľajového vozidla pre železničné dráhy počas chodu (jazdy) ..... | 30 eur
 
-  - j) | Vydanie druhého originálu dokladu o schválení typu podľa písmen a) až h) ..... | 20 eur
+  - j) | Vydanie druhého originálu dokladu o schválení typu alebo o povolení typu podľa písmen a) až h) ..... | 20 eur
 
   - k) | Vydanie poverenia na vzdelávanie a overovanie odbornej spôsobilosti zamestnancov prevádzkovateľov dráh a dráhových podnikov, okrem prevádzkovateľov lanových dráh ..... | 200 eur
 
@@ -1528,7 +1528,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - q) | Vydanie poverenia na vydávanie osvedčení osobám zodpovedným za údržbu železničných nákladných vozňov a údržbárskym dielňam na údržbu nákladných vozňov ..... | 200 eur
 
-  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d) a g) tejto položky bez zreteľa na počet odchýlok od schváleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie, len ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. | |
+  - Poznámky 1. Príslušný správny dráhový úrad vyberie poplatok podľa písmen b), d) a g) tejto položky bez zreteľa na počet odchýlok od schváleného typu alebo povoleného typu dráhového vozidla v rámci jedného podania. 2. Správny poplatok podľa písmena e) tejto položky sa vyberie, len ak sa typ výstroja alebo súčasti schvaľuje oddelene od schvaľovania typu alebo podstatnej zmeny dráhového vozidla. | |
 
     - Položka 71
 
