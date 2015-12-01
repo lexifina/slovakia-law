@@ -70,6 +70,8 @@
 
 - 20) § 43 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
+- 20a) Čl. 62 až 73 nariadenia Európskeho parlamentu a Rady (EÚ) č. 650/2012 zo 4. júla 2012 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a prijatí a výkone verejných listín v dedičských veciach a o zavedení európskeho osvedčenia o dedičstve (Ú. v. EÚ L 201, 27. 7. 2012).
+
 - 21) Zákon Slovenskej národnej rady č. 323/1992 Zb.
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 31/1993 Z. z.
