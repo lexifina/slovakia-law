@@ -1,3 +1,3 @@
 Príloha č. 60 k vyhláške č. 210/2000 Z. z.
 
-- NAPÍNACIE ZARIADENIA NA PREDPÄTÝ BETÓN [Príloha 60](../assets/b8c9f267f774da5a102e30d25aa8ec36d50e46338d8ab81e8afa3e49afcd42be.pdf)
+- NAPÍNACIE ZARIADENIA NA PREDPÄTÝ BETÓN [Príloha 60](../assets/954459cdfae574d4b8a2d6e87df1266e263b78eb5bb06bc436b35a2a68bc0ba2.pdf)

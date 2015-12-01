@@ -1,3 +1,3 @@
 Príloha č. 17 k vyhláške č. 210/2000 Z. z.
 
-- ZÁVAŽIA [Príloha 17](../assets/362ea60a821e27633d7d82d30fefbddc83cef59e63f990a020e277668c639f67.pdf)
+- ZÁVAŽIA [Príloha č. 17 k vyhláške č. 210/2000 Z. z.](../assets/848274bb6bdec24c827370fb43832638f6eaae34faa2b673a50d3b560fa369a5.pdf)

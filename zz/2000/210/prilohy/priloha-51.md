@@ -1,3 +1,3 @@
 Príloha č. 51 k vyhláške č. 210/2000 Z. z.
 
-- MERAČE TEPLA [Príloha 51](../assets/532098e7ae5d2455a5fe1849563e7f4c412f74a85772499b219c78081526adf9.pdf)
+- MERAČE TEPLA [Príloha 51](../assets/21ae5b8e2f978686ca8535fe03de60a212e649aa32243133b4417f45c7e06a40.pdf)

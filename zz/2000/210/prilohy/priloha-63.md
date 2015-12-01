@@ -1,3 +1,3 @@
 Príloha č. 63 k vyhláške č. 210/2000 Z. z.
 
-- TVRDOMERY NA BETÓN [Príloha 63](../assets/db828ea63ad0ec2cf72e6d48b355ee5e579bddc957d2b903da82795d6aa99f8a.pdf)
+- TVRDOMERY NA BETÓN [Príloha 63](../assets/878bf644fbb6a0dc9726765c205f2077d140fb3bca1fac4fadee1e61f7a993c3.pdf)

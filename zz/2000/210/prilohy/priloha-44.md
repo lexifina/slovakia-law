@@ -1,3 +1,3 @@
 Príloha č. 44 k vyhláške č. 210/2000 Z. z.
 
-- TÓNOVÉ AUDIOMETRE [Príloha 44](../assets/2b305a6a4696b2bfb011532009414bf4284747c1f873e3faa3aea7fb245be38a.pdf)
+- TÓNOVÉ AUDIOMETRE [Príloha 44](../assets/1ab3890e862d605d9f44c6902f31ec13110fc236a70d42850f8f54821007ce46.pdf)

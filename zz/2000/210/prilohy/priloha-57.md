@@ -1,3 +1,3 @@
 Príloha č. 57 k vyhláške č. 210/2000 Z. z.
 
-- LUXMETRE [Príloha č. 57 k vyhláške č. 210/2000 Z. z.](../assets/ae937bf55906368802f80301036757933b27cacd7f721f784b2faff74da09e34.pdf)
+- LUXMETRE [Príloha č. 57 k vyhláške č. 210/2000 Z. z.](../assets/78885a6d80e67a88e8c84dbddc06fa3d0aacd95438aca4caba91aa1e6113d2f7.pdf)

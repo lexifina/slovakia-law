@@ -1,3 +1,3 @@
 Príloha č. 69 k vyhláške č. 210/2000 Z. z.
 
-- PREPOČÍTAVAČE MNOŽSTVA KVAPALÍN [Príloha 69](../assets/cb42c37b96e19ceaf48e6c057b499739150b7568bb45b3629ac5959693dfce69.pdf)
+- PREPOČÍTAVAČE MNOŽSTVA KVAPALÍN [Príloha 69](../assets/3cdcca70ff94455ba4776a7b105f78ccae8ae8891648c8647c773b6bbce9e201.pdf)
