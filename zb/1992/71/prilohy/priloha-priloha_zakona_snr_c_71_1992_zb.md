@@ -234,7 +234,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 18d |
 
-- Z návrhu na uznanie alebo vyhlásenie vykonateľnosti cudzích rozhodnutí | 66 eur
+- Z návrhu na uznanie alebo vyhlásenie vykonateľnosti cudzích rozhodnutí alebo z návrhu na premenu cudzieho vecného práva, opatrenia alebo príkazu | 66 eur
 
 - Položka 18e |
 
