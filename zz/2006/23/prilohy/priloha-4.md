@@ -1,31 +1,31 @@
-Príloha č. 4 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 4 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na jaskynnú záchrannú činnosť Por. číslo | Téma | Vyučovacie a výcvikové hodiny | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA JASKYNNÚ ZÁCHRANNÚ ČINNOSŤ Por.číslo | Téma | Vyučovacie a výcvikové hodiny |
 
-- | | teória | prax | skúška/ preskúšanie
+- | | teória | prax
 
-- 1. | Bezpečnostné zásady pri činnosti v jaskyni | 2 | – | áno
+- 1. | Bezpečnostné zásady pri činnosti v jaskyni | 2 | -
 
-- 2. | Osobný výstroj a osobná výzbroj | 1 | 2 | áno
+- 2. | Osobný výstroj a osobná výzbroj | 2 | 2
 
-- 3. | Záchranný materiál | 1 | 1 | áno
+- 3. | Jednolanová technika, práca na lane | 2 | 5
 
-- 4. | Jednolanová technika, práca na lane | 2 | 11 | áno
+- 4. | Vystrojovanie priepasti | 1 | 3
 
-- 5. | Vystrojovanie priepasti | 2 | 5 | áno
+- 5. | Technika individuálnej záchrannej činnosti | 1 | 3
 
-- 6. | Technika individuálnej záchrannej činnosti | 2 | 5 | áno
+- 6. | Zásady poskytovania prvej pomoci v jaskyni | 4 | 1
 
-- 7. | Technika kolektívnej záchrannej činnosti | 2 | 5 | áno
+- 7. | Prežitie v podzemí | 1 | 1
 
-- 8. | Taktika záchrannej akcie | 2 | – | áno
+- 8. | Záchranný materiál | 1 | -
 
-- 9. | Zásady poskytovania prvej pomoci v jaskyni | 2 | 2 | áno
+- 9. | Vystrojovanie záchranného stanovišťa | 1 | 3
 
-- 10. | Prežitie v podzemí | 2 | 4 | áno
+- 10. | Technika kolektívnej záchrannej činnosti | 1 | 3
 
-- 11. | Krasológia | 2 | 2 | áno
+- 11. | Zásady starostlivosti o postihnutú osobu počas transportu | 2 | 3
 
-- | Spolu | 20 | 37 |
+- 12. | Taktika záchrannej činnosti | 2 | 3
 
-- | CELKOVE | 57 | |
+- | Spolu | 20 | 26

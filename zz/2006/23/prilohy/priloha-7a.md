@@ -1,23 +1,21 @@
-Príloha č. 7a k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 7a k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na odbornú činnosť Por. číslo | Téma | Vyučovacie a výcvikové hodiny | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA ODBORNÚ ČINNOSŤ Por.číslo | Téma | Vyučovacie hodiny
 
-- | | teória | prax | skúška/ preskúšanie
+- | | teória
 
-- 1. | Ministerstvo vnútra Slovenskej republiky, postavenie, pôsobnosť a organizačná štruktúra | 2 | – | áno
+- 1. | Ministerstvo vnútra Slovenskej republiky, postavenie, pôsobnosť a organizačná štruktúra | 2
 
-- 2. | Postavenie Horskej záchrannej služby, štatút a organizačný poriadok | 2 | – | áno
+- 2. | Postavenie Horskej záchrannej služby, štatút a organizačný poriadok | 2
 
-- 3. | Všeobecne záväzné právne predpisy upravujúce činnosť Horskej záchrannej služby | 6 | – | áno
+- 3. | Všeobecne záväzné právne predpisy upravujúce činnosť Horskej záchrannej služby | 6
 
-- 4. | Integrovaný záchranný systém | 2 | – | áno
+- 4. | Integrovaný záchranný systém | 2
 
-- 5. | Štátna služba a jej výkon v podmienkach Horskej záchrannej služby | 2 | – | áno
+- 5. | Štátna služba a jej výkon v podmienkach Horskej záchrannej služby | 2
 
-- 6. | Sociálne zabezpečenie príslušníka Horskej záchrannej služby | 2 | – | áno
+- 6. | Sociálne zabezpečenie príslušníka Horskej záchrannej služby | 2
 
-- 7. | Etický kódex príslušníka Horskej záchrannej služby | 2 | – | áno
+- 7. | Etický kódex príslušníka Horskej záchrannej služby | 2
 
-- | Spolu | 18 | – |
-
-- | CELKOVE | 18 | |
+- | Spolu | 18

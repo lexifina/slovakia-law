@@ -1,27 +1,31 @@
-Príloha č. 2 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 2 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na pozemnú záchrannú činnosť Por. číslo | Téma | Vyučovacie a výcvikové hodiny | | | | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA POZEMNÚ ZÁCHRANNÚ ČINNOSŤ Por.číslo | Téma | Vyučovacie a výcvikové hodiny | | |
 
-- | | letná časť | | | zimná časť | |
+- | | letná časť | zimná časť | |
 
-- | | teória | prax | skúška/ preskúšanie | teória | prax | skúška/ preskúšanie
+- | | teória | prax | teória | prax
 
-- 1. | Improvizácia pri záchrannej akcii | 2 | 10 | áno | 2 | 10 | áno
+- 1. | Organizácia záchrannej činnosti, algoritmy | 2 | - | 2 | -
 
-- 2. | Technické a transportné prostriedky (oceľové lano, sane) | 2 | 8 | áno | – | – | –
+- 2. | Manažment rizík pri záchrannej činnosti | 1 | - | 1 | -
 
-- 3. | Záchrana pomocou statického lana (lanovka, zariadenie určené na osobnú lanovú dopravu, ľadopád) | 3 | 12 | áno | 3 | 8 | áno
+- 3. | Technické prostriedky a transportné prostriedky | 1 | 2 | 1 | 2
 
-- 4. | Lavíny | – | – | – | 3 | 9 | áno
+- 4. | Záchrana pomocou statického lana zo zariadenia určeného na osobnú lanovú dopravu osôb | 1 | 2 | 1 | 2
 
-- 5. | Rádiospojenie | – | – | áno | 1 | 1 | áno
+- 5. | Používanie snežného skútra pri záchrannej činnosti | - | - | 1 | 2
 
-- 6. | Organizácia záchrannej akcie, algoritmy | 1 | – | áno | 1 | – | áno
+- 6. | Improvizácia pri záchrannej činnosti, záchrana osoby používajúcej lietajúce športové zariadenie | 1 | 2 | - | 2
 
-- 7. | Ochrana a bezpečnosť pri práci | 1 | – | – | 1 | – | –
+- 7. | Zdravoveda, odporúčania Medzinárodnej komisie pre alpskú záchranu (ICAR), algoritmy | 4 | - | 4 | -
 
-- 8. | Zdravoveda, odporúčania Medzinárodnej komisie pre alpskú záchranu (ICAR), algoritmy | 5 | 4 | áno | 5 | 4 | áno
+- 8. | Jednolanová technika | 2 | 6 | - | -
 
-- | Spolu | 14 | 34 | | 16 | 32 |
+- 9. | Techniky kolektívnej záchrannej činnosti pomocou statických lán, záchrana z ľadopádu | 1 | 3 | 1 | 3
 
-- | CELKOVE | 96 | | | | |
+- 10. | Záchrana pomocou lana typu Dyneema | 1 | 3 | 1 | 3
+
+- 11. | Organizácia práce pri záchrannej činnosti na lavíne | - | - | 2 | 4
+
+- | Spolu | 14 | 18 | 14 | 18

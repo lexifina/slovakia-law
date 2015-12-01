@@ -1,39 +1,41 @@
-Príloha č. 1 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 1 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na základnú záchrannú činnosť Por. číslo | Téma | Vyučovacie a výcvikové hodiny | | | | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA ZÁKLADNÚ ZÁCHRANNÚ ČINNOSŤ Por.číslo | Téma | Vyčovacie a výcvikové hodiny | | |
 
-- | | letná časť | | | zimná časť | |
+- | | letná časť | zimná časť | |
 
-- | | teória | prax | skúška/ preskúšanie | teória | prax | skúška/ preskúšanie
+- | | teória | prax | teória | prax
 
-- 1. | Záchrana v horách na Slovensku – história a štatistika | 1 | – | – | – | – | –
+- 1. | Ochrana a bezpečnosť pri práci | 1 | - | 1 | -
 
-- 2. | Horské nešťastia, záchranár, právo a etika | 1 | – | – | 1 | – | –
+- 2. | Záchranná činnosť, právo a etika | 1 | - | - | -
 
-- 3. | Spolupráca záchranných zložiek integrovaného záchranného systému | 1 | – | áno | – | – | –
+- 3. | Spolupráca záchranných zložiek integrovaného záchranného systému | 1 | - | - | -
 
-- 4. | Základy pohybu v horskom teréne, horolezectvo | 4 | 11 | áno | 2 | 11 | áno
+- 4. | Typy lán, práca s lanom, uzlová technika | 1 | 3 | 1 | 3
 
-- 5. | Sneh a lavíny, primárna záchrana | – | – | – | 3 | 7 | áno
+- 5. | Topografia a orientácia v teréne, práca s globálnym satelitným navigačným systémom | 2 | 1 | 2 | 1
 
-- 6. | Topografia a orientácia v teréne | 4 | 2 | áno | – | – | –
+- 6. | Sneh a lavíny, vyhodnotenie lavínovej situácie, primárna záchrana | - | - | 3 | 2
 
-- 7. | Rádiospojenie | 2 | 1 | áno | – | – | –
+- 7. | Meteorológia a vyhodnotenie poveternostnej situácie | 2 | 1 | 1 | 1
 
-- 8. | Meteorológia, búrky a ochrana pred bleskom | 2 | – | – | – | – | –
+- 8. | Obsluha rádiového zariadenia | 1 | 1 | - | -
 
-- 9. | Zdravoveda, odporúčania Medzinárodnej komisie pre alpskú záchranu (ICAR), algoritmy | 8 | 6 | áno | 8 | 4 | áno
+- 9. | Zásady pohybu okolo vrtuľníka | 1 | 1 | 1 | 1
 
-- 10. | Lyžovanie – skialpinizmus | – | – | – | 2 | 7 | áno
+- 10. | Navádzanie vrtuľníka na pristátie | 1 | 1 | 1 | 1
 
-- 11. | História leteckej záchrany, zásady pohybu okolo vrtuľníka | 1 | – | – | 1 | – | –
+- 11. | Organizácia záchrannej činnosti | 1 | 1 | 1 | 1
 
-- 12. | Organizácia záchrannej akcie | 2 | – | áno | 1 | – | áno
+- 12. | Poskytovanie prvej pomoci v teréne | - | - | 2 | 2
 
-- 13. | Ochrana prírody | 1 | – | – | – | – | –
+- 13. | Technické transportné prostriedky, zvoz na lyžiach | 1 | 2 | 1 | 2
 
-- 14. | Materiál pre pohyb v horách, jeho kontrola a životnosť, ochrana a bezpečnosť pri práci | 1 | – | – | 1 | – | –
+- 14. | Záchranný materiál, jeho kontrola a životnosť, ochrana a bezpečnosť pri práci | 1 | - | 1 | -
 
-- | Spolu | 28 | 20 | | 19 | 29 |
+- 15. | Lyžovanie, skialpinizmus a horolezectvo | 1 | 5 | 1 | 5
 
-- | CELKOVE | 96 | | | | |
+- 16. | Nácvik záchrannej činnosti na lyžiarskej trati | - | - | 1 | 6
+
+- | Spolu | 15 | 16 | 17 | 25

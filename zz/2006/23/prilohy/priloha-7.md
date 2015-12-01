@@ -1,25 +1,21 @@
-Príloha č. 7 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 7 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na záchrannú činnosť na lyžiarskej trati Por. číslo | Téma | Vyučovacie a výcvikové hodiny | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA ZÁCHRANNÚ ČINNOSŤ NA LYŽIARSKEJ TRATI Por.číslo | Téma | Vyučovacie a výcvikové hodiny |
 
-- | | zimná časť | |
+- | | teória | prax
 
-- | | teória | prax | skúška/ preskúšanie
+- 1. | Ochrana a bezpečnosť pri práci | 1 | -
 
-- 1. | Zdravotná príprava | 8 | 6 | áno
+- 2. | Poskytovanie prvej pomoci v teréne | 2 | 2
 
-- 2. | Technické transportné prostriedky | 2 | 8 | áno
+- 3. | Technické transportné prostriedky | 1 | -
 
-- 3. | Rádiospojenie | 2 | – | áno
+- 4. | Organizácia záchrannej činnosti, navádzanie vrtuľníka, integrovaný záchranný systém | 1 | -
 
-- 4. | Lavíny | 1 | 1 | –
+- 5. | Obsluha rádiového zariadenia | 1 | -
 
-- 5. | Navádzanie vrtuľníka | 1 | – | –
+- 6. | Lyžovanie | - | 1
 
-- 6. | Nácvik záchrannej akcie v teréne | – | 6 | áno
+- 7. | Nácvik záchrannej činnosti na lyžiarskej trati | 1 | 6
 
-- 7. | Organizácia záchrannej akcie | 1 | – | áno
-
-- | Spolu | 15 | 21 |
-
-- | CELKOVE | 36 | |
+- | Spolu | 7 | 9

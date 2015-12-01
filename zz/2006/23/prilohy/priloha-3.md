@@ -1,29 +1,27 @@
-Príloha č. 3 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 3 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky a preskúšania na záchrannú činnosť pomocou vrtuľníka lanovou technikou Por. číslo | Téma | Vyučovacie a výcvikové hodiny | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA ZÁCHRANNÚ ČINNOSŤ POMOCOU VRTUĽNÍKA LANOVOU TECHNIKOU Por.číslo | Téma | Vyučovacie a výcvikové hodiny |
 
-- | | teória | prax | skúška/ preskúšanie
+- | | teória | prax
 
-- 1. | Zásady leteckej záchrany v horskej oblasti | 3 | – | áno
+- 1. | Zásady leteckej záchrannej činnosti | 1 | -
 
-- 2. | Transportné prostriedky pod vrtuľník | 1 | – | –
+- 2. | Transportné prostriedky pod vrtuľník | 1 | 1
 
-- 3. | Rádiospojenie a korešpondencia | 1 | – | –
+- 3. | Navádzanie vrtuľníka | 0,5 | 0,5
 
-- 4. | Navádzanie vrtuľníka | 1 | 1 | –
+- 4. | Obsluha rádiového zariadenia a korešpondencia | 0,5 | 0,5
 
-- 5. | Nastupovanie, vystupovanie, nakladanie a vykladanie postihnutej osoby pri zapnutom motore vrtuľníka v šikmom teréne | 1 | 1 | –
+- 5. | Nácvik činnosti na trenažéri | |
 
-- 6. | Nácvik činnosti na trenažéri | 1 | 3 | áno
+- 6. | Nastupovanie, vystupovanie, nakladanie a vykladanie postihnutej osoby pri zapnutom motore vrtuľníka v šikmom teréne | 0,5 | 0,5
 
-- 7. | Zlaňovanie z visu vrtuľníka | – | 1 | –
+- 7. | Zlaňovanie z visu vrtuľníka | - | 1
 
-- 8. | Práca s palubným žeriavom | – | 1 | –
+- 8. | Práca s palubným žeriavom | - | 1
 
-- 9. | Práca s vrtuľníkom v podvese | – | 1 | –
+- 9. | Práca s vrtuľníkom v podvese | - | 1
 
-- 10. | Nácvik záchrannej akcie v teréne | – | 2 | –
+- 10. | Nácvik evakuácie z vysokohorského terénu, zo steny a rokliny | 2 | 3
 
-- | Spolu | 8 | 10 |
-
-- | CELKOVE | 18 | |
+- | Spolu | 5,5 | 10,5

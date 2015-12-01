@@ -1,27 +1,23 @@
-Príloha č. 6 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 134/2008 Z. z.
+Príloha č. 6 k vyhláške č. 23/2006 Z. z. v znení vyhlášky č. 320/2015 Z. z.
 
-- Obsah a rozsah prípravy, skúšky, školenia a preskúšania na záchrannú činnosť pomocou lavínového a pátracieho psa Por. číslo | Téma | Vyučovacie a výcvikové hodiny | |
+- OBSAH A ROZSAH PRÍPRAVY A SKÚŠKY NA ZÁCHRANNÚ ČINNOSŤ POMOCOU LAVÍNOVÉHO A PÁTRACIEHO PSA Por. číslo | Téma | Vyučovacie a výcvikové hodiny | | |
 
-- | | teória | prax | skúška/ preskúšanie
+- | | letná časť | | zimná časť |
 
-- 1. | Špeciálny výcvik na lavíne a v horskom teréne | 6 | 49 | áno
+- | | teória | prax | teória | prax
 
-- 2. | Výcvik poslušnosti a ovládateľnosti psa | 4 | 14 | áno
+- 1. | Organizácia záchrannej činnosti so psom | 1 | 1 | 1 | 1
 
-- 3. | Problematika lavín | 2 | 1 | –
+- 2. | Spôsoby nasadenia záchranára a psa na vyhľadávanie na lavíne | - | - | 1 | 6
 
-- 4. | Veterinárna prednáška | 2 | 1 | –
+- 3. | Nasadenie záchranára a psa pomocou vrtuľníka | - | 5 | - | 5
 
-- 5. | Zdravotná príprava | 2 | 1 | –
+- 4. | Spôsoby nasadenia záchranára a psa pri vyhľadávaní osoby v tiesni | 1 | 2 | 1 | 2
 
-- 6. | Rádiospojenie | 1 | 1 | áno
+- 5. | Záchranná činnosť so psom na lavíne | 1 | 4 | 1 | 4
 
-- 7. | Nasadenie psa pomocou vrtuľníka | 2 | 7 | –
+- 6. | Záchranná činnosť so psom s použitím globálneho satelitného navigačného systému | 2 | 3 | 2 | 3
 
-- 8. | Organizácia záchrannej akcie | 1 | 1 | –
+- 7. | Vyhodnocovanie záchrannej činnosti s nasadením psa | 1 | - | 1 | -
 
-- 9. | Ochrana a bezpečnosť pri práci | 1 | – | –
-
-- | Spolu | 21 | 75 |
-
-- | CELKOVE | 96 | |
+- | Spolu | 6 | 15 | 7 | 21
