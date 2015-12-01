@@ -434,6 +434,8 @@
 
 - § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
+- 97ba) Napríklad § 35a zákona č. 502/2001 Z. z. v znení neskorších predpisov, čl. 125 a 127 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
+
 - 97c) § 29 ods. 11 písm. a) zákona č. 92/1991 Zb. v znení zákona č. 160/2009 Z. z.
 
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
