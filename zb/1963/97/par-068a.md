@@ -8,4 +8,4 @@ Na konanie o uznaní cudzieho rozhodnutia osobitným výrokom je príslušný
 
 - b) okresný súd, v ktorého obvode má dieťa bydlisko, a ak nemá bydlisko, súd, v ktorého obvode sa zdržuje; ak nie je taký súd, na konanie je príslušný Okresný súd Bratislava I, ak ide o cudzie rozhodnutie o zverení dieťaťa do osobnej starostlivosti alebo o úprave styku s ním,
 
-- c) súd, ktorý je príslušný na nariadenie výkonu rozhodnutia alebo vydanie poverenia na vykonanie exekúcie, ak nie je daná jeho príslušnosť podľa písmena b); ak ide o rozhodnutie, ktoré nevyžaduje výkon, je príslušný všeobecný súd osoby, voči ktorej sa rozhodnutie má uznať.
+- c) súd, ktorý je príslušný na nariadenie výkonu rozhodnutia alebo vydanie poverenia na vykonanie exekúcie, ak nie je daná jeho príslušnosť podľa písmena b); ak ide o rozhodnutie, ktoré nevyžaduje výkon, je príslušný všeobecný súd osoby, voči ktorej sa rozhodnutie má uznať, a ak nie je taký súd, na konanie je príslušný Okresný súd Trnava.
