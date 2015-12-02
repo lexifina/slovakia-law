@@ -36,13 +36,13 @@
 
 - 10) Zákon Národnej rady Slovenskej republiky č. 246/1993 Z. z. o zbraniach a strelive v znení zákona Národnej rady Slovenskej republiky č. 284/1995 Z. z.
 
-- 11) Zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
-
-- 12) Vyhláška Slovenského banského úradu č. 536/1991 Zb. o pyrotechnických výrobkoch.
+- 11) § 2 písm. a) a b) zákona č. 58/2014 Z. z. o výbušninách, výbušných predmetoch a munícii a o zmene a doplnení niektorých zákonov.
 
 - 13) Zákon Slovenskej národnej rady č. 445/1990 Zb., ktorým sa upravujú podmienky predaja a rozširovania tlače a iných vecí spôsobilých ohroziť mravnosť.
 
 - 14) § 2 ods. 4 písm. a) a k) zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 142/2013 Z. z.
+
+- 14a) § 1 zákona Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb v znení neskorších predpisov.
 
 - 15) Nariadenie vlády Slovenskej socialistickej republiky č. 206/1988 Zb. o jedoch a niektorých iných látkach škodlivých zdraviu v znení nariadenia vlády Slovenskej republiky č. 232/1990 Zb.
 
@@ -74,7 +74,7 @@
 
 - 26) § 2 ods. 2 Obchodného zákonníka v znení neskorších predpisov.Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
-- 27) Zákon č. 105/1990 Zb. v znení neskorších predpisov.§ 2 ods. 3 zákona č. 634/1992 Zb. v znení neskorších predpisov.
+- 27) Napríklad § 3 ods. 1 písm. b) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon), § 6 a 7 zákona č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
 - 28) § 30 ods. 1 až 5 zákona č. 455/1991 Zb. v znení neskorších predpisov.§ 14 zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
