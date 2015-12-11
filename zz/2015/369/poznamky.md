@@ -1,0 +1,1 @@
+- * In accordance with Article 17, the membership of this Agreement is not limited to Visegrad countries. This Agreement is open to accession by other countries of the region. Although the Visegrad Patent Institute is established by the Visegrad countries, legally speaking it is not an institution of the Visegrad Cooperation.
