@@ -174,6 +174,8 @@
 
 - 47aa) § 8 ods. 1 písm. c) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
+- 47aaa) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
+
 - 47b) § 56 a nasl. Obchodného zákonníka.
 
 - 48) § 70 až 73 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
