@@ -2,16 +2,16 @@ Príloha č. 1 k vyhláške č. 475/2013 Z. z.
 
 - 1. Vymedzené úseky diaľnic a rýchlostných ciest
 
-- [príloha](../assets/246c86336ff86a47fa75c13dc6969b57e87046ff3bdf1ea5ecd6d45834c4eccb.pdf)
+- [príloha](../assets/e9bda4333b48209571c55f69e6e00cda35d4fda6fde0ae77dccd06be3a84856c.pdf)
 
 - 2. Vymedzené úseky ciest I. triedy súbežných s diaľnicami a rýchlostnými cestami
 
-- [príloha](../assets/d81b6a51d1f07f2eba20f5e9d678cb17bda99e1774a82ffc90f4c4a3b2805342.pdf)
+- [príloha](../assets/1d228e9ac9c79bbdecd8c73b4212dcb36ae5ec805e0bbdadc8cc34c6ccf6c9e7.pdf)
 
 - 3. Vymedzené úseky ciest I. triedy, ktoré nie sú súbežné s diaľnicami a rýchlostnými cestami
 
-- [príloha](../assets/7c1e4421236a709c5e99ef3844958693dafa9d2579820b5f402b87938b42ef02.pdf)
+- [príloha](../assets/1f0b5983f4a925ee10af7f3a1e4e7ca0c66c81818ea9d7fd42609ea84d868ed7.pdf)
 
 - 4. Vymedzené úseky ostatných ciest I. triedy:
 
-- [príloha](../assets/d38e3d88e95563a41f592dedad173c17dec8dc03dbeec93feec7c065af6ddf5f.pdf)
+- [príloha](../assets/228efcc788ff9af08aad39148b7754df583611ec512f23a139443985a8055667.pdf)
