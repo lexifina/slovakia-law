@@ -32,6 +32,8 @@
 
 - 7aaa) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 7b) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
+
 - 8) § 31 zákona č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - § 67 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
