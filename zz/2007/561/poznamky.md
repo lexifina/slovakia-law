@@ -32,6 +32,8 @@
 
 - 15a) § 2 ods. 1 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 466/2005 Z. z.
 
+- 15b) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
+
 - 16) § 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 16a) § 12 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
