@@ -8,6 +8,6 @@
 
 (4) Ak sa vráti zásielka obsahujúca rozhodnutie o návrhu na nariadenie predbežného opatrenia z adresy, ktorú uviedol účastník vykázaný zo spoločného obydlia, súd vyvesí rozhodnutie na úradnej tabuli súdu.
 
-(5) Lehota na prípravu pojednávania podľa § 115 ods. 2 sa nepoužije.
+(5) Lehota na prípravu pojednávania podľa § 115 ods. 3 sa nepoužije.
 
 (6) Uznesenie o nariadení predbežného opatrenia podľa § 76 ods. 1 písm. g) zašle súd na vedomie aj útvaru Policajného zboru, ktorého policajt vykázal účastníka zo spoločného obydlia podľa osobitného predpisu.<sup>6a</sup>)

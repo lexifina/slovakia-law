@@ -44,6 +44,8 @@
 
 - 13aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 861/2007 z 11. júla 2007, ktorým sa ustanovuje Európske konanie vo veciach s nízkou hodnotou sporu.
 
+- 13aaa) § 17 zákona č. 191/1950 Sb. zmenkového a šekového v znení zákona č. 438/2015 Z. z.
+
 - 14) § 161 ods. 5 Obchodného zákonníka.
 
 - 15) § 15 zákona č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
@@ -125,6 +127,10 @@
 - 32a) Zákon č. 183/2011 Z. z. o uznávaní a výkone rozhodnutí o peňažnej sankcii v Európskej únii a o zmene a doplnení niektorých zákonov.
 
 - 32aa) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
+
+- 32ab) § 44 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 32ac) § 57 ods. 1 písm. m) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 438/2015 Z. z.
 
 - 33) § 52 ods. 4 a § 82 ods. 4 zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov.
 

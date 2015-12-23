@@ -4,7 +4,7 @@
 
 (2) Rozsudkom pre zmeškanie možno spor rozhodnúť, ak
 
-- a) žalovaný sa nedostavil na pojednávanie vo veci, hoci bol naň riadne a včas predvolaný (§ 79 ods. 4 a § 115 ods. 2) s poučením o následkoch nedostavenia sa vrátane možnosti rozhodnutia podľa odseku 1,
+- a) žalovaný sa nedostavil na pojednávanie vo veci, hoci bol naň riadne a včas predvolaný (§ 79 ods. 6 a § 115 ods. 2) s poučením o následkoch nedostavenia sa vrátane možnosti rozhodnutia podľa odseku 1,
 
 - b) žalovaný sa k žalobe a prílohám písomne nevyjadril do 15 dní odo dňa, keď mu boli doručené, hoci ho súd na to vyzval a poučil ho o následkoch nesplnenia tejto povinnosti (§ 114 ods. 2),
 
