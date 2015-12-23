@@ -1,0 +1,1 @@
+# Čl. III. SPOLOČNÉ USTANOVENIA.
