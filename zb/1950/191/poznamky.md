@@ -1,0 +1,1 @@
+- 1) Napríklad § 52 zákona č. 40/1964 Zb. Občiansky zákonník, § 5a zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 102/2014 Z. z.
