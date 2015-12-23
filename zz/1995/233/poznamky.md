@@ -32,6 +32,8 @@
 
 - 4d) Napríklad § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní, Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
 
+- 4da) § 17 zákona č. 191/1950 Sb. zmenkového a šekového v znení zákona č. 438/2015 Z. z.
+
 - 4e) Čl. 110 ods. 2, čl. 225a, čl. 244 a 256 Zmluvy o založení Európskeho spoločenstva (Ú. v. ES C 325, 24. 12. 2002).
 
 - 4eaa) § 8 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
