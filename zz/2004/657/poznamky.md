@@ -88,6 +88,8 @@
 
 - 19) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
+- 19a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 19b) § 7a ods. 2 písm. a) zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 20) Zákon č. 656/2004 Z. z.
