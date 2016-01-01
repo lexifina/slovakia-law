@@ -6,6 +6,8 @@ Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niekto
 
 - 2. V § 4 ods. 3 písm. c) sa za slová "invalidného dôchodku" vkladajú slová "bez jeho zvýšenia na sumu minimálneho dôchodku".
 
+- 3. V § 4 ods. 3 písm. c) sa na konci pripájajú tieto slová: "a z vyrovnávacieho príplatku,".
+
 - 4. V § 7 ods. 2 písm. e) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: "to platí aj na čas, v ktorom sa fyzickej osobe poskytuje odľahčovacia služba podľa osobitného predpisu,<sup>26a</sup>)".
 
   - Poznámka pod čiarou k odkazu 26a znie:

@@ -2,6 +2,34 @@
 
 Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 447/2002 Z. z., zákona č. 534/2002 Z. z., zákona č. 463/2003 Z. z., zákona č. 365/2004 Z. z., zákona č. 732/2004 Z. z., zákona č. 592/2006 Z. z., zákona č. 274/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 643/2007 Z. z., zákona č. 61/2008 Z. z., zákona č. 445/2008 Z. z., zákona č. 449/2008 Z. z., zákona č. 58/2009 Z. z., zákona č. 59/2009 Z. z., zákona č. 70/2009 Z. z., zákona č. 82/2009 Z. z., zákona č. 285/2009 Z. z., zákona č. 543/2010 Z. z., zákona č. 220/2011 Z. z., zákona č. 185/2012 Z. z. a zákona č. 80/2013 Z. z. sa mení a dopĺňa takto:
 
+- 1. § 81 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Vyrovnávací príplatok podľa osobitného predpisu<sup>35aa</sup>) priznáva, zvyšuje, znižuje, vypláca, zastavuje a odníma
+
+- a)
+
+- policajtovi útvar sociálneho zabezpečenia ministerstva, ktorý mu vypláca starobný dôchodok podľa všeobecných predpisov o sociálnom poistení,
+
+- b)
+
+- profesionálnemu vojakovi Vojenský úrad sociálneho zabezpečenia, ktorý mu vypláca starobný dôchodok podľa všeobecných predpisov o sociálnom poistení.“.
+
+  - Poznámka pod čiarou k odkazu 35aa znie:
+
+  - „35aa)
+
+  - § 69b až 69d zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.“.
+
+- 2. V § 81a a § 94 ods. 1 písm. b) desiatom bode sa nad slovom "predpisu" odkaz "<sup>35aa</sup>)" nahrádza odkazom "<sup>35ab</sup>)".
+
+  - Poznámka pod čiarou k odkazu 35ab znie:
+
+  - „35ab)
+
+  - Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.“.
+
 - 3. V § 94 ods. 1 sa písmeno b) dopĺňa dvanástym bodom, ktorý znie:
 
 - „12.
@@ -14,6 +42,12 @@ Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zm
 
   - § 82b zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.“.
 
+- 4. V § 94 ods. 1 sa písmeno b) dopĺňa trinástym bodom, ktorý znie:
+
+- „13.
+
+- vyrovnávací príplatok podľa osobitného predpisu.<sup>35aa</sup>)“.
+
 - 5. V § 94 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
 
 - „(3)
@@ -21,6 +55,8 @@ Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zm
 - Finančné prostriedky na úhradu nákladov na zvýšenie sumy starobného dôchodku a sumy invalidného dôchodku vyplácaného po dovŕšení dôchodkového veku na sumu minimálneho dôchodku podľa odseku 1 písm. b) dvanásteho bodu sa poukazujú podľa odseku 2 na osobitný účet prostredníctvom rozpočtových výdavkov kapitoly štátneho rozpočtu Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky.“.
 
   - Doterajší odsek 3 sa označuje ako odsek 4.
+
+- 6. V § 94 ods. 3 sa za slová "dvanásteho bodu" vkladajú slová "a na vyrovnávací príplatok podľa odseku 1 písm. b) trinásteho bodu".
 
 - 7. V § 95 písm. a) sa slová "podľa § 101" nahrádzajú slovami "podľa osobitných predpisov<sup>39d</sup>)".
 
