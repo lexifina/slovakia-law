@@ -169,3 +169,5 @@
 - 71) Nariadenie vlády Slovenskej republiky č. 550/2009 Z. z., ktorým sa ustanovujú zvýšené platové tarify štátnych zamestnancov.
 
 - 72) § 29l zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 362/2014 Z. z.
+
+- 73) § 29n zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 338/2015 Z. z.
