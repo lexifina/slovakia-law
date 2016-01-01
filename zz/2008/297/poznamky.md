@@ -1,4 +1,6 @@
-- 1) Zákon č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť v znení zákona č.127/2005 Z. z.
+- 1) Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
+
+- 1a) Zákon č. 460/2002 Z. z. o vykonávaní medzinárodných sankcií zabezpečujúcich medzinárodný mier a bezpečnosť v znení zákona č.127/2005 Z. z.
 
 - 2) § 2 ods. 1 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
