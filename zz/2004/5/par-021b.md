@@ -16,7 +16,7 @@
 
 (4) Úrad vydá potvrdenie o možnosti obsadenia voľného pracovného miesta bez prihliadnutia na situáciu na trhu práce, ak ide o štátneho príslušníka tretej krajiny, ktorý vykonáva v Slovenskej republike sústavnú vzdelávaciu činnosť alebo vedeckú činnosť ako pedagogický zamestnanec, vysokoškolský učiteľ, výskumný pracovník alebo umelecký pracovník vysokej školy, výskumný zamestnanec alebo vývojový zamestnanec vo výskumnej činnosti.
 
-(5) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na dva roky.
+(5) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na dva roky alebo najviac na päť rokov, ak to ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná, a ak jej niet, ak je zaručená vzájomnosť.
 
 (6) Potvrdenie o možnosti obsadenia voľného pracovného miesta sa vydáva na tlačive, ktorého vzor určí ústredie.
 

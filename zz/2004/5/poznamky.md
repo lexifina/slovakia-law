@@ -194,6 +194,8 @@
 
 - 45d) § 8 ods. 3 písm. b) zákona č. 568/2009 Z. z.
 
+- 45e) Napríklad zákon č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 124/2006 Z. z. v znení neskorších predpisov, zákon č. 280/2006 Z. z. o povinnej základnej kvalifikácii a pravidelnom výcviku niektorých vodičov v znení neskorších predpisov.
+
 - 46) Nariadenie Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
 
 - 46b) Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
@@ -229,6 +231,8 @@
 - 59af) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
 - 59ag) Čl. 1 nariadenia (EÚ) č. 1407/2013.
+
+- 59aga) § 15 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
 - 59ah) § 8 až 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
@@ -273,6 +277,8 @@
 - 63aaa) Zákon č. 568/2009 Z. z.
 
 - 63ab) Napríklad nariadenie (EÚ) č. 1407/2013, nariadenie (EÚ) č. 651/2014.
+
+- 63ac) § 19 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 64) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 

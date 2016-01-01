@@ -48,7 +48,7 @@
 
 (9) Ministerstvo financií určí ďalšie podmienky a postup poskytovania finančnej pomoci a technického zabezpečenia finančnej pomoci a postup pri realizácii záruky v zmluve podľa odseku 1.
 
-(10) Ministerstvo financií môže uzavrieť s právnickou osobou so 100 % majetkovou účasťou štátu písomnú mandátnu zmluvu o vymáhaní pohľadávky z realizovanej záruky spolu s príslušenstvom, ktorou sa upraví rozsah práv a povinností tejto právnickej osoby pri vymáhaní.
+(10) Ministerstvo financií môže uzavrieť zmluvu o vymáhaní pohľadávky z realizovanej záruky spolu s príslušenstvom postupom podľa osobitného predpisu<sup>59aga</sup>) okamžite po uplynutí jej splatnosti.
 
 (11) Kontrolu dodržiavania podmienok poskytovania finančnej pomoci vykonáva ministerstvo financií. Ministerstvo financií je oprávnené požadovať od banky všetky podklady na kontrolu dodržiavania podmienok poskytovania finančnej pomoci. Na výkon tejto kontroly sa vzťahujú pravidlá kontrolnej činnosti podľa osobitného predpisu.<sup>59ah</sup>)
 
