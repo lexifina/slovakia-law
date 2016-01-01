@@ -2,7 +2,33 @@
 
 Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zákona č. 556/2004 Z. z., zákona č. 631/2004 Z. z., zákona č. 533/2005 Z. z., zákona č. 610/2005 Z. z., zákona č. 547/2007 Z. z., zákona č. 378/2008 Z. z., zákona č. 465/2008 Z. z., zákona č. 305/2009 Z. z., zákona č. 477/2009 Z. z., zákona č. 491/2010 Z. z., zákona č. 546/2011 Z. z., zákona č. 547/2011 Z. z., zákona č. 288/2012 Z. z., zákona č. 381/2013 Z. z., zákona č. 218/2014 Z. z., zákona č. 323/2014 Z. z., zákona č. 54/2015 Z. z. a zákona č. 130/2015 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 5 ods. 1 sa vypúšťajú slová „v kusoch alebo“.
+
+- 3. V § 5 ods. 2 sa na konci pripája táto veta: „Na sprievodnom dokumente alebo inom obchodnom dokumente musí byť uvedený údaj o hmotnosti v kilogramoch alebo gramoch prijímaných, skladovaných, odosielaných alebo ponúkaných na predaj cigár a cigariek; to neplatí, ak je údaj o hmotnosti cigár a cigariek uvedený na spotrebiteľskom balení cigár a cigariek.“.
+
+- 4. V § 5 odsek 6 znie:
+
+- „(6)
+
+- Daň z tabaku, cigár a cigariek sa vypočíta ako súčin základu dane a sadzby dane.“.
+
+- 5. V § 6 odsek 1 znie:
+
+- „(1)
+
+- Sadzba dane z tabakových výrobkov okrem cigariet sa ustanovuje takto:
+
+- opis tovaru | sadzba dane
+
+- cigary, cigarky | 71,11 eura/kg
+
+- tabak | 71,11 eura/kg
+
+- “.
+
 - 6. V § 9 ods. 9 sa slová „po dohode s tlačiarňou“ nahrádzajú slovami „so súhlasom tlačiarne“.
+
+- 7. V § 9a ods. 1 písm. b) sa za slovo „tabaku“ vkladá čiarka a slová „v kilogramoch a cigár, cigariek“ sa nahrádzajú slovami „cigár a cigariek v kilogramoch“.
 
 - 8. V § 9b odsek 3 znie:
 
@@ -115,6 +141,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - (3)
 
 - Ak pominú dôvody, na základe ktorých colný úrad postupoval podľa odseku 1, je colný úrad povinný bezodkladne umožniť osobe podľa § 19, 23 alebo § 24 prístup do elektronického systému<sup>14a</sup>) a o tejto skutočnosti ju bezodkladne informovať.“.
+
+- 21. V § 33a ods. 11 poslednej vete a § 33b ods. 1 písm. b) druhom bode sa za slová „v kusoch“ vkladajú slová „alebo v kilogramoch“ a v prvom a treťom bode sa na konci pripájajú slová „alebo v kilogramoch“.
 
 - 22. V § 41 ods. 1 písm. c) sa vypúšťajú slová „alebo neoznámi údaje v rozsahu podľa všeobecne záväzného právneho predpisu vydaného ministerstvom podľa § 9b ods. 13“.
 
