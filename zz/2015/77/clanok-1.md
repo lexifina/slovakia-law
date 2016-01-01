@@ -106,6 +106,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - pri zmene zdravotnej poisťovne podľa § 7 ods. 2 oznámiť elektronickou formou údaje potrebné na výpočet preddavku samostatne zárobkovo činnej osoby z ročného zúčtovania poistného za predchádzajúci kalendárny rok príslušnej zdravotnej poisťovni do 15. januára kalendárneho roka.“.
 
+- 30. § 25 sa dopĺňa odsekom 3, ktorý znie:
+
+- „(3)
+
+- Zdravotná poisťovňa poskytuje zo svojho informačného systému Sociálnej poisťovni na základe uzavretej dohody elektronicky na účely vykonávania sociálneho poistenia na vyžiadanie údaje o platiteľoch poistného podľa § 11 ods. 1 písm. a) až c) v rozsahu názov, sídlo, identifikačné číslo, meno, priezvisko, rodné priezvisko, štátna príslušnosť, rodné číslo, alebo ak ide o cudzinca, dátum narodenia, adresa trvalého pobytu alebo adresa na doručovanie, dátum vzniku a zániku platiteľa poistného podľa § 11 ods. 1 písm. a) až c); zdravotná poisťovňa poskytuje Sociálnej poisťovni aj údaj o príslušnosti poistenca k zdravotnej poisťovni a súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu.“.
+
 - 31. V § 25a ods. 1 písm. a) sa vypúšťajú slová „prvej vety“.
 
 - 32. V § 25a ods. 2 písm. a) sa slová „a výšku pohľadávky“ nahrádzajú slovami „výšku pohľadávky a údaj o tom, či má poistenec právo na úhradu zdravotnej starostlivosti podľa § 9 ods. 1“.
@@ -121,6 +127,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 - Ministerstvo vnútra Slovenskej republiky sprístupňuje úradu a zdravotnej poisťovni elektronicky údaje z registra fyzických osôb<sup>51d</sup>) na účely vykonávania verejného zdravotného poistenia.<sup>9</sup>)“.
 
 - 36. V § 29b ods. 17 sa vypúšťa posledná veta.
+
+- 37. § 29b sa dopĺňa odsekom 19, ktorý znie:
+
+- „(19)
+
+- Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni na základe uzavretej dohody elektronicky na účely vykonávania verejného zdravotného poistenia údaje o zamestnancoch zaniknutých zamestnávateľov v rozsahu meno, priezvisko, dátum narodenia, adresa trvalého pobytu, údaje o osobách, na ktoré sa podľa osobitných predpisov<sup>3a</sup>) vzťahujú právne predpisy Slovenskej republiky, v rozsahu meno, priezvisko, dátum narodenia, osobné identifikačné číslo, alebo ak ide o cudzinca, osobné identifikačné číslo pridelené Sociálnou poisťovňou, adresa trvalého pobytu alebo adresa na doručovanie a dátum začiatku a ukončenia uplatňovania právnych predpisov Slovenskej republiky; Sociálna poisťovňa poskytuje zdravotnej poisťovni aj súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu.“.
 
 - 38. Za § 38eb sa vkladajú § 38ec a 38ed, ktoré vrátane nadpisov znejú:
 

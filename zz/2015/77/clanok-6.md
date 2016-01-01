@@ -78,6 +78,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 11. V § 64 ods. 3 sa slová „najmenej raz za desať dní“ nahrádzajú slovami „v súlade s príslušnými štandardmi zdravotníckej informatiky<sup>23aaa</sup>)“.
 
+- 12. V § 64 ods. 3 sa slová „až f)“ nahrádzajú slovami „až h)“.
+
 - 13. V § 70 ods. 2 písmeno e) znie:
 
 - „e)
