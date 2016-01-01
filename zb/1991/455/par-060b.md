@@ -2,7 +2,7 @@
 
 (1) Ministerstvo vnútra Slovenskej republiky elektronickou formou diaľkovo umožní prístup k údajom o podnikateľoch zapísaných v registri a ku zmenám týchto údajov
 
-- a) daňovému úradu a Daňovému riaditeľstvu Slovenskej republiky,
+- a) daňovému úradu a Finančnému riaditeľstvu Slovenskej republiky,
 
 - b) orgánu štátnej štatistiky,
 
@@ -10,13 +10,15 @@
 
 - d) orgánu, ktorý vedie centrálny register poistencov povinného zdravotného poistenia,<sup>37d</sup>)
 
-- e) Sociálnej poisťovni.
+- e) Sociálnej poisťovni,
+
+- f) zdravotným poisťovniam.
 
 (2) Ministerstvo vnútra Slovenskej republiky sprístupní Slovenskej živnostenskej komore údaje o podnikateľoch zapísaných v registri v rozsahu verejnej časti registra.
 
 (3) Ministerstvo vnútra Slovenskej republiky zašle alebo sprístupní ďalším orgánom údaje registra za podmienok ustanovených osobitným zákonom. Zaslanie alebo sprístupnenie údajov registra elektronickou formou sa považuje za ich písomné oznámenie.
 
-(4) Údaje vyžadované na daňovú registráciu alebo na prihlásenie sa do systému povinného zdravotného poistenia podľa osobitných predpisov sú bezodkladne po vzniku živnostenského oprávnenia zasielané informačným systémom živnostenského podnikania v elektronickej podobe na adresu elektronickej podateľne spoločnej pre daňové úrady alebo informačnému systému príslušnej zdravotnej poisťovne. Na adresu elektronickej podateľne spoločnej pre daňové úrady a informačnému systému príslušnej zdravotnej poisťovni sa bezodkladne zasielajú aj zmeny údajov z registra oznámené podľa § 49.
+(4) Údaje vyžadované na daňovú registráciu alebo na prihlásenie sa do systému verejného zdravotného poistenia podľa osobitných predpisov sú bezodkladne po vzniku živnostenského oprávnenia zasielané informačným systémom živnostenského podnikania v elektronickej podobe do elektronickej podateľne, ktorú prevádzkuje Finančné riaditeľstvo Slovenskej republiky, informačnému systému príslušnej zdravotnej poisťovne a do elektronickej schránky<sup>37da</sup>) príslušnej zdravotnej poisťovne. Do elektronickej podateľne, ktorú prevádzkuje Finančné riaditeľstvo Slovenskej republiky, informačnému systému príslušnej zdravotnej poisťovne a do elektronickej schránky<sup>37da</sup>) príslušnej zdravotnej poisťovne sa bezodkladne zasielajú aj zmeny údajov z registra oznámené podľa § 49.
 
 (5) Údaje registra určené na zabezpečenie výpisu z registra trestov živnostenský úrad bezodkladne zašle elektronickou formou Registru trestov Generálnej prokuratúry Slovenskej republiky.
 
