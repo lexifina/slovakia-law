@@ -16,8 +16,6 @@
 
 - 9) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 9a) Zákon č. 264/2008 Z. z. o kolkových známkach a o zmene a doplnení niektorých zákonov.
-
 - 9b) § 16a zákona Slovenskej národnej rady č. 71/1992 Zb. v znení zákona č. 347/2013 Z. z.
 
 - § 18a zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 347/2013 Z. z.
