@@ -36,7 +36,9 @@
 
 - 9b) § 13 písm. a) zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
 
-- 9c) Zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení zákona č. 92/1992 Zb.
+- 9c) § 2 ods. 3 zákona č. 87/1991 Zb. o mimosúdnych rehabilitáciách.
+
+- § 47 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
 - 9d) § 10 ods. 2 zákona č. 92/1991 Zb.
 
@@ -58,12 +60,6 @@
 
 - 15) § 5 ods. 2 zákona č. 87/1991 Zb.
 
-- 16) Nariadenie vlády Slovenskej republiky č. 289/1991 Zb. o výške finančnej náhrady v hotovosti poskytovanej podľa zákona č. 87/1991 Zb.
-
-- 17) § 11 ods. 3 písm. f) zákona Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky.
-
-- 18) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
-
-- Nariadenie vlády Slovenskej republiky č. 289/1991 Zb.
-
 - 19) § 47 ods. 3 zákona č. 92/1991 Zb. v znení zákona č. 92/1992 Zb.
+
+- 20) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.
