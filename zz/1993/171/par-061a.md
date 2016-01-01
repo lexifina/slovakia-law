@@ -1,10 +1,8 @@
 # § 61a Použitie špeciálneho streliva
 
-(1) Policajt je oprávnený použiť špeciálne strelivo pri služobných zákrokoch pod jednotným velením podľa § 66 a pri služobných zákrokoch pod priamym velením podľa § 68.
+(1) Špeciálnym strelivom sa na účely tohto zákona rozumie strelivo s gumovým projektilom, strelivo s projektilom naplneným značkovacím farbivom, strelivo s projektilom naplneným slzotvornou látkou.
 
-(2) Špeciálnym strelivom sa na účely tohto zákona rozumie strelivo s gumovým projektilom, strelivo s projektilom naplneným značkovacím farbivom, strelivo s projektilom naplneným slzotvornou látkou.
-
-(3) Policajt je pri služobných zákrokoch podľa odseku 1 oprávnený použiť
+(2) Policajt je pri služobných zákrokoch oprávnený použiť
 
 - a) gumové projektily
 
@@ -16,4 +14,4 @@
 
 - c) projektily naplnené slzotvornou látkou na rozptýlenie účastníkov podujatí za podmienok uvedených v § 54, ak sa páchateľ, proti ktorému zákrok smeruje, na výzvu nevzdá alebo sa zdráha opustiť úkryt, alebo ak nemožno inak prekonať odpor smerujúci k zmareniu služobného zákroku.
 
-(4) Pri použití špeciálneho streliva je policajt povinný dbať na potrebnú opatrnosť a najmä na to, aby nebol ohrozený život osôb a aby čo najviac šetril zdravie osôb, proti ktorým zákrok smeruje, a zdravie nezúčastnených osôb.
+(3) Pri použití špeciálneho streliva je policajt povinný dbať na potrebnú opatrnosť a najmä na to, aby nebol ohrozený život osôb a aby čo najviac šetril zdravie osôb, proti ktorým zákrok smeruje, a zdravie nezúčastnených osôb.
