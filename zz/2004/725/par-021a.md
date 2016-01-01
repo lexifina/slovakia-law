@@ -4,6 +4,6 @@
 
 (2) Ustanovenie odseku 1 neplatí pre vozidlo, ktorému bolo udelené typové schválenie ES podľa osobitného predpisu.<sup>11a</sup>)
 
-(3) Na zápis zmeny podľa odseku 1 je príslušný okresný úrad podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby. Okresný úrad vydá nové osvedčenie o evidencii časť II bez záznamu o priečkovom systéme.
+(3) Na zápis zmeny podľa odseku 1 je príslušný okresný úrad podľa miesta prihlásenia vozidla do evidencie vozidiel.<sup>5</sup>) Okresný úrad vydá nové osvedčenie o evidencii časť II bez záznamu o priečkovom systéme.
 
 (4) Prevádzkovateľ vozidla je povinný do 15 dní odo dňa vydania nového osvedčenia o evidencii časť II podľa odseku 3 oznámiť vykonanú zmenu príslušnému orgánu Policajného zboru, ktorý v osvedčení o evidencii časť II vykoná evidenčný úkon.

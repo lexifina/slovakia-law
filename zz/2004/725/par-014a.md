@@ -1,6 +1,6 @@
 # § 14a
 
-(1) Nedokončené vozidlo, ktoré si vyžaduje dokončenie ešte minimálne v jednom stupni a nemá udelené viacstupňové typové schválenie alebo viacstupňové typové schválenie ES vozidla, musí byť schválené ako jednotlivo dokončované vozidlo. Na vydanie rozhodnutia o schválení jednotlivo dokončovaného vozidla je príslušný okresný úrad podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
+(1) Nedokončené vozidlo, ktoré si vyžaduje dokončenie ešte minimálne v jednom stupni a nemá udelené viacstupňové typové schválenie alebo viacstupňové typové schválenie ES vozidla, musí byť schválené ako jednotlivo dokončované vozidlo. Na vydanie rozhodnutia o schválení jednotlivo dokončovaného vozidla je príslušný okresný úrad podľa miesta pobytu<sup>8aa)</sup> fyzickej osoby alebo podľa adresy sídla alebo adresy umiestnenia organizačnej zložky právnickej osoby alebo podľa miesta podnikania alebo adresy prevádzkarne fyzickej osoby – podnikateľa.
 
 (2) Žiadosť o schválenie jednotlivo dokončovaného vozidla musí obsahovať
 

@@ -4,7 +4,7 @@
 
 (2) Prevádzkovateľ vozidla kategórie S a P<sub>N</sub> a výmenných nadstavieb, ktoré nemajú vydané technické osvedčenie vozidla podľa predpisov účinných do 1. decembra 2006, môže požiadať o vydanie technického osvedčenia vozidla podľa odsekov 3, 12 až 16.
 
-(3) Na vydanie rozhodnutia o vydaní osvedčenia o evidencii časť II podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný okresný úrad<sup>8</sup>) podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
+(3) Na vydanie rozhodnutia o vydaní osvedčenia o evidencii časť II podľa odseku 1 a na vydanie technického osvedčenia vozidla podľa odseku 2 je príslušný okresný úrad<sup>8</sup>) podľa miesta pobytu<sup>8aa)</sup> fyzickej osoby alebo podľa adresy sídla alebo adresy umiestnenia organizačnej zložky právnickej osoby alebo podľa miesta podnikania alebo adresy prevádzkarne fyzickej osoby – podnikateľa.
 
 (4) Žiadosť o vydanie osvedčenia o evidencii časť II musí obsahovať
 
@@ -61,3 +61,5 @@
 (15) Okresný úrad vydá technické osvedčenie vozidla, ak žiadateľ splnil podmienky uvedené v odsekoch 12 až 14; inak žiadosť zamietne.
 
 (16) Ak okresný úrad rozhodne o vydaní technického osvedčenia vozidla, vystaví základný technický opis vozidla a technické osvedčenie vozidla, v ktorom uvedie údaje zo základného technického opisu vozidla.
+
+(17) Ak okresný úrad požiada o prihlásenie dosiaľ neevidovaného vozidla do evidencie vozidiel prostredníctvom elektronickej služby zavedenej na tento účel, je povinný bezodplatne v elektronickej podobe oznámiť orgánu Policajného zboru údaje o vlastníkovi vozidla a držiteľovi vozidla, ktorých orgán Policajného zboru zapíše do osvedčenia o evidencii časť I a časť II, druhu a rozmere tabuľky s evidenčným číslom, mieste a spôsobe doručenia osvedčenia o evidencii časť I a o osobe, ktorá prevezme osvedčenie o evidencii časť II a tabuľky s evidenčným číslom.

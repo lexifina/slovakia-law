@@ -1,10 +1,10 @@
 # § 48a Monitorovanie stanice technickej kontroly
 
-(1) Priestor kontrolnej linky stanice technickej kontroly sa monitoruje pomocou monitorovacieho záznamového zariadenia. Monitorovacím záznamovým zariadením sa vyhotovuje záznam v digitálnej podobe, ktorý umožní preukázať, že vozidlá podliehajúce technickej kontrole sa na nej skutočne zúčastnili. Monitorovanie je určené na účely zvýšenia kvality výkonu technických kontrol, identifikácie vozidiel a zvýšenia bezpečnosti vozidiel v premávke na pozemných komunikáciách.
+(1) Priestor kontrolnej linky stanice technickej kontroly a priestor miesta na prevádzkovanie mobilnej stanice technickej kontroly sa monitoruje pomocou monitorovacieho záznamového zariadenia. Monitorovacím záznamovým zariadením sa vyhotovuje záznam v digitálnej podobe, ktorý umožní preukázať, že vozidlá podliehajúce technickej kontrole sa na nej skutočne zúčastnili. Monitorovanie je určené na účely zvýšenia kvality výkonu technických kontrol, identifikácie vozidiel a zvýšenia bezpečnosti vozidiel v premávke na pozemných komunikáciách.
 
 (2) Monitorovacie záznamové zariadenie musí byť používané tak, aby nezasahovalo do súkromia fyzických osôb, ktoré sa nezúčastňujú na technickej kontrole.
 
-(3) Priestor kontrolnej linky stanice technickej kontroly monitorovaný pomocou monitorovacieho záznamového zariadenia musí byť zreteľne označený ako monitorovaný priestor.
+(3) Priestor kontrolnej linky stanice technickej kontroly a priestor miesta na prevádzkovanie mobilnej stanice technickej kontroly monitorovaný pomocou monitorovacieho záznamového zariadenia musí byť zreteľne označený ako monitorovaný priestor.
 
 (4) Záznam vyhotovený z monitorovacieho záznamového zariadenia poskytuje poverená technická služba technickej kontroly vozidiel [§ 30 ods. 1 písm. j) a k)] len na účely konania podľa tohto zákona
 

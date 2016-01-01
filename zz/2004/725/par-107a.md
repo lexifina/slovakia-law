@@ -12,6 +12,6 @@
 
 (6) Poriadkovú pokutu podľa odsekov 1 až 5 možno uložiť aj opakovane.
 
-(7) Konanie o uloženie poriadkovej pokuty podľa odsekov 1 až 5 možno začať do dvoch mesiacov odo dňa, v ktorom sa príslušný orgán štátneho odborného dozoru dozvedel o porušení povinnosti; najneskôr do jedného roka odo dňa, keď k porušeniu povinnosti došlo.
+(7) Poriadkovú pokutu podľa odsekov 1 až 5 možno uložiť do jedného roka odo dňa, keď sa príslušný orgán štátneho odborného dozoru dozvedel o porušení povinnosti, najneskôr však do dvoch rokov odo dňa porušenia povinnosti.
 
 (8) Poriadková pokuta je splatná do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o uložení pokuty. Výnos z poriadkových pokút je príjmom štátneho rozpočtu.

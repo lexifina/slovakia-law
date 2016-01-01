@@ -20,7 +20,7 @@
 
 - f) je v evidencii vozidiel vozidlo, ktoré bolo odcudzené pred rozhodnutím okresného úradu o uznaní typového schválenia ES jednotlivo dovezeného vozidla alebo o uznaní schválenia jednotlivo dovezeného vozidla alebo o schválení jednotlivo dovezeného vozidla.
 
-(2) Ak prevádzkovateľ vozidla po nadobudnutí právoplatnosti rozhodnutia v určenej lehote nesplnil povinnosť podľa odseku 1, okresný úrad rozhodne o trvalom vyradení vozidla z premávky na pozemných komunikáciách. Pri vozidlách, ktoré nepodliehajú prihláseniu do evidencie vozidiel, okresný úrad odníme technické osvedčenie vozidla.
+(2) V prípadoch podľa odseku 1 okresný úrad rozhodne o trvalom vyradení vozidla z premávky na pozemných komunikáciách. Pri vozidlách, ktoré nepodliehajú prihláseniu do evidencie vozidiel, okresný úrad odníme technické osvedčenie vozidla.
 
 (3) Okresný úrad zasiela v elektronickej forme orgánu Policajného zboru údaje o vozidlách trvalo vyradených z premávky na pozemných komunikáciách a jedno vyhotovenie právoplatného rozhodnutia o trvalom vyradení vozidla na vyradenie vozidla z evidencie; to neplatí, ak ide o vozidlo, ktoré nie je prihlásené v evidencii vozidiel.
 

@@ -48,7 +48,7 @@
 
 - j) návrh osvedčenia o schválení jednotlivého vozidla vydaný poverenou technickou službou overovania vozidiel,
 
-- k) potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo.<sup>8b</sup>)
+- k) potvrdenie o prevzatí zodpovednosti za nakladanie s odpadom pochádzajúcim z vozidla, ktoré je jednotlivo dovezeným vozidlom.<sup>8b</sup>)
 
 (9) Nové jednotlivo dovezené vozidlo musí na účely schválenia spĺňať rovnaké technické požiadavky, ako sú ustanovené na typové schválenie alebo typové schválenie ES vozidla príslušnej kategórie. Ojazdené jednotlivo dovezené vozidlo musí na účely schválenia spĺňať rovnaké technické požiadavky, ako sú ustanovené na typové schválenie alebo typové schválenie ES vozidla príslušnej kategórie okrem požiadaviek pre brzdy, znečisťujúce látky vo výfukových plynoch, emisie zvuku a elektromagnetickú kompatibilitu, kde vozidlá kategórie L, M, N, O, T a C môžu spĺňať o stupeň nižšie technické požiadavky, ako sú ustanovené. Štátny dopravný úrad môže pre konkrétne vozidlo na základe odôvodnenej žiadosti udeliť výnimku, len ak vozidlo spĺňa alternatívne požiadavky; oslobodenie od dodržania ustanovených technických požiadaviek možno pripustiť iba z opodstatnených dôvodov súvisiacich s bezpečnosťou premávky na pozemných komunikáciách, ochranou životného prostredia a bezpečnosťou cestujúcich.
 

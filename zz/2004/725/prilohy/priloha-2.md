@@ -1,6 +1,6 @@
 Príloha č. 2 k zákonu č. 725/2004 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
+- Zoznam preberaných právne záväzných aktov Európskej únie
 
   - 1. Smernica Rady 96/96/ES z 20. decembra 1996 o aproximácii právnych predpisov členských štátov o kontrole technického stavu motorových vozidiel a ich prípojných vozidiel (Mimoriadne vydanie Ú. v. EÚ, kap.7/zv. 2; Ú. v. ES L 46,17. 2. 1997) v znení smernice Komisie 1999/52/ES z 26. mája 1999 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 4; Ú. v. ES L 142, 5. 6. 1999), smernice Komisie 2001/9/ES z 12. februára 2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 5; Ú. v. ES L 48, 17. 2. 2001), smernice Komisie 2001/11/ES zo 14. februára 2001 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 5; Ú. v. ES L 48, 17. 2. 2001), smernice Komisie 2003/27/ES z 3. apríla 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 7/zv. 7; Ú. v. EÚ L 90, 8. 4. 2003) a nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003).
 

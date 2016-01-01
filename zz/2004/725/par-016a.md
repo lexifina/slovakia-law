@@ -36,9 +36,9 @@
 
   - 4. osvedčenie o evidencii, ak taký doklad bol v členskom štáte vydaný; ak má osvedčenie o evidencii dve časti, musia byť predložené obidve časti,
 
-  - 5. potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo;<sup>8b</sup>)
+  - 5. potvrdenie o prevzatí zodpovednosti za nakladanie s odpadom pochádzajúcim z vozidla, ktoré je jednotlivo dovezeným vozidlom;<sup>8b</sup>)
 
-  - 6. potvrdenie výrobcu alebo zástupcu výrobcu, že jednotlivo dovezené vozidlo je novým vozidlom, ktoré nebolo prihlásené do evidencie vozidiel, alebo odborný posudok o kontrole originality vozidla podľa § 83a ods. 2 písm. c) s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách, nie starší ako 15 dní odo dňa jeho vydania.
+  - 6. odborný posudok o kontrole originality vozidla podľa § 83a ods. 2 písm. c) s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách nie starší ako 15 dní odo dňa jeho vydania; to neplatí, ak žiadosť podal výrobca alebo zástupcu výrobcu,
 
 - b) ak ide o nové vozidlo, ktoré bolo prihlásené do evidencie vozidiel v členskom štáte, alebo ak ide o ojazdené vozidlo
 
@@ -54,7 +54,7 @@
 
   - 6. platný protokol o emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách alebo platný doklad o vykonaní emisnej kontroly motorového vozidla vydaný v členskom štáte, napríklad osvedčenie o emisnej kontrole len v prípade, ak záznam o emisnej kontrole nie je súčasťou dokladu o vykonaní technickej kontroly podľa piateho bodu; uvedené doklady sa predkladajú len v prípade ojazdeného vozidla, ak vozidlo takej kontrole podlieha,
 
-  - 7. potvrdenie o zaplatení príspevku do Recyklačného fondu za dovezené vozidlo.<sup>8b</sup>)
+  - 7. potvrdenie o prevzatí zodpovednosti za nakladanie s odpadom pochádzajúcim z vozidla, ktoré je jednotlivo dovezeným vozidlom.<sup>8b</sup>)
 
 (3) Okresný úrad vyzve žiadateľa na doplnenie konkrétnych chýbajúcich technických údajov o vozidle v rozsahu údajov potrebných na vystavenie osvedčenia o evidencii časti II pre vozidlo s konkrétnym identifikačným číslom vozidla VIN, ak osvedčenie o evidencii podľa odseku 2 písm. b) druhého bodu vydané v členskom štáte nie je harmonizovaným osvedčením o evidencii a neobsahuje všetky technické údaje potrebné na vystavenie osvedčenia o evidencii časti II v Slovenskej republike, pričom okresný úrad nevie tieto údaje získať najmä z evidencie vozidiel. Chýbajúce technické údaje môžu byť doplnené predložením napríklad originálu alebo kópie osvedčenia o zhode vozidla COC, ak taký doklad bol vydaný, alebo dokladov získaných od výrobcu alebo zástupcu výrobcu alebo dokladov získaných od evidenčného orgánu iného členského štátu, kde bolo vozidlo prihlásené do evidencie vozidiel. Ak žiadateľ nepredloží požadované doklady v určenej lehote, okresný úrad konanie zastaví.
 

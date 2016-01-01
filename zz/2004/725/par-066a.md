@@ -1,10 +1,10 @@
 # § 66a Monitorovanie pracoviska emisnej kontroly
 
-(1) Priestor pracoviska emisnej kontroly určený na samotné vykonávanie emisnej kontroly sa monitoruje pomocou monitorovacieho záznamového zariadenia. Monitorovacím záznamovým zariadením sa vyhotovuje záznam v digitálnej podobe, ktorý umožní preukázať, že vozidlá podliehajúce emisnej kontrole sa na nej skutočne zúčastnili.
+(1) Priestor pracoviska emisnej kontroly a priestor miesta na prevádzkovanie mobilného pracoviska emisnej kontroly určený na samotné vykonávanie emisnej kontroly sa monitoruje pomocou monitorovacieho záznamového zariadenia. Monitorovacím záznamovým zariadením sa vyhotovuje záznam v digitálnej podobe, ktorý umožní preukázať, že vozidlá podliehajúce emisnej kontrole sa na nej skutočne zúčastnili.
 
 (2) Monitorovacie záznamové zariadenie musí byť používané tak, aby nezasahovalo do súkromia fyzických osôb, ktoré sa nezúčastňujú na emisnej kontrole.
 
-(3) Priestor pracoviska emisnej kontroly určený na samotné vykonávanie emisnej kontroly monitorovaný pomocou monitorovacieho záznamového zariadenia musí byť zreteľne označený ako monitorovaný priestor.
+(3) Priestor pracoviska emisnej kontroly a priestor miesta na prevádzkovanie mobilného pracoviska emisnej kontroly určený na samotné vykonávanie emisnej kontroly monitorovaný pomocou monitorovacieho záznamového zariadenia musí byť zreteľne označený ako monitorovaný priestor.
 
 (4) Záznam vyhotovený z monitorovacieho záznamového zariadenia poskytuje poverená technická služba emisnej kontroly motorových vozidiel [§ 31 ods. 1 písm. j) a k)] len na účely konania podľa tohto zákona
 

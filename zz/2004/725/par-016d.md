@@ -6,7 +6,7 @@
 
 (1) Vozidlo vyradené z evidencie vozidiel podľa osobitného predpisu<sup>8c</sup>) z dôvodu jeho odcudzenia možno prevádzkovať v premávke na pozemných komunikáciách len po jeho opätovnom schválení (ďalej len „opätovné schválenie vozidla“). Opätovne schváliť možno iba vozidlo, ktorému bolo udelené typové schválenie ES, typové schválenie alebo iné schválenie na prevádzku v premávke na pozemných komunikáciách v Slovenskej republike.
 
-(2) Vlastník vozidla, ktorý chce vozidlo opätovne prevádzkovať v premávke na pozemných komunikáciách, je povinný písomne požiadať okresný úrad<sup>8</sup>) o opätovné schválenie vozidla. Na vydanie rozhodnutia je príslušný okresný úrad podľa miesta trvalého pobytu fyzickej osoby alebo sídla právnickej osoby.
+(2) Vlastník vozidla, ktorý chce vozidlo opätovne prevádzkovať v premávke na pozemných komunikáciách, je povinný písomne požiadať okresný úrad<sup>8</sup>) o opätovné schválenie vozidla. Na vydanie rozhodnutia je príslušný okresný úrad podľa miesta pobytu<sup>8aa)</sup> fyzickej osoby alebo podľa adresy sídla alebo adresy umiestnenia organizačnej zložky právnickej osoby alebo podľa miesta podnikania alebo adresy prevádzkarne fyzickej osoby – podnikateľa.
 
 (3) Žiadosť o opätovné schválenie vozidla musí obsahovať
 
@@ -32,6 +32,8 @@
 
   - 7. identifikačné číslo vozidla VIN.
 
+- c) dátum a číslo rozhodnutia okresného úradu o pridelení náhradného identifikačného čísla vozidla VIN, ak vozidlo malo pôvodné identifikačné číslo vozidla VIN nečitateľné, neúplné alebo pozmenené.
+
 (4) Prílohou k žiadosti podľa odseku 3 sú
 
 - a) doklad orgánu Policajného zboru o oznámení odcudzenia vozidla,
@@ -40,13 +42,11 @@
 
 - c) doklad orgánu Policajného zboru o vrátení vozidla,
 
-- d) rozhodnutie o pridelení náhradného identifikačného čísla vozidla VIN, ak vozidlo malo pôvodné identifikačné číslo vozidla VIN nečitateľné, neúplné alebo pozmenené,
+- d) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia „spôsobilé“ alebo „dočasne spôsobilé“ z dôvodu chybného zápisu údajov v evidencii vozidiel, nie starší ako 15 dní odo dňa jeho vydania,
 
-- e) odborný posudok o kontrole originality vozidla podľa § 85 s výsledkom hodnotenia „spôsobilé“ alebo „dočasne spôsobilé“ z dôvodu chybného zápisu údajov v evidencii vozidiel, nie starší ako 15 dní odo dňa jeho vydania,
+- e) platný protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. a), ak vozidlo takej kontrole podlieha, s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách,
 
-- f) platný protokol o technickej kontrole vozidla podľa § 49 ods. 2 písm. a), ak vozidlo takej kontrole podlieha, s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách,
-
-- g) platný protokol o emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), ak vozidlo takej kontrole podlieha, s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách.
+- f) platný protokol o emisnej kontrole motorového vozidla podľa § 67 ods. 2 písm. a), ak vozidlo takej kontrole podlieha, s výsledkom hodnotenia spôsobilé na premávku na pozemných komunikáciách.
 
 (5) Okresný úrad opätovne schváli vozidlo, ak žiadateľ splnil podmienky uvedené v odsekoch 3 a 4; inak žiadosť zamietne.
 
