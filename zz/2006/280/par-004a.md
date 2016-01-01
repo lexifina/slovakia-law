@@ -10,22 +10,54 @@
 
 - a) plán na zabezpečenie vykonávania kurzov základnej kvalifikácie, v ktorom uvedie organizáciu a rozsah výučby a výcviku vrátane najväčšieho počtu účastníkov v jednotlivých kurzoch, jednotlivé učebné predmety a spôsob vykonania výučby a výcviku vrátane zodpovedajúcich učebných materiálov,
 
-- b) zoznam lektorov; zoznam musí obsahovať meno, priezvisko, odborné predpoklady lektorov, ktorí majú
+- b) zoznam lektorov, ktorý obsahuje meno, priezvisko lektorov; prílohou zoznamu sú originály alebo úradne osvedčené kópie dokladov preukazujúcich odborné predpoklady a prax lektorov, ktorí majú:
 
-  - 1. stredné vzdelanie s maturitnou skúškou v odboroch súvisiacich s ekonomikou a prevádzkou cestnej dopravy alebo
+  - 1. stredné vzdelanie s maturitnou skúškou v odboroch súvisiacich s ekonomikou a prevádzkou cestnej dopravy a minimálne päť rokov praxe v danom odbore alebo
 
-  - 2. vysokoškolské vzdelanie súvisiace s ekonomikou a prevádzkou cestnej dopravy,
+  - 2. vysokoškolské vzdelanie súvisiace s ekonomikou a prevádzkou cestnej dopravy a minimálne päť rokov praxe v danom odbore,
 
-  - 3. stredné vzdelanie s maturitnou skúškou v odboroch odborných tém teoretickej časti podľa prílohy č. 1 oddielu 1 alebo
+  - 3. stredné vzdelanie s maturitnou skúškou v odboroch odborných tém teoretickej časti podľa prílohy č. 1 oddielu 1 a minimálne päť rokov praxe v danom odbore alebo
 
-  - 4. vysokoškolské vzdelanie v odboroch odborných tém teoretickej časti podľa prílohy č. 1 oddielu 1,
+  - 4. vysokoškolské vzdelanie v odboroch odborných tém teoretickej časti podľa prílohy č. 1 oddielu 1 a minimálne päť rokov praxe v danom odbore,
 
-  - 5. inštruktorské oprávnenie,<sup>3b</sup>) ak ide o vykonávanie praktických jázd,
+  - 5. inštruktorské oprávnenie,<sup>3b</sup>) ak ide o vykonávanie praktických jázd a minimálne päť rokov praxe v danom odbore,
 
-- c) doklad preukazujúci vlastníctvo alebo nájom miestnosti ako učebne zodpovedajúcej všeobecným stavebno-technickým požiadavkám na pobytové miestnosti,
+- c) doklad preukazujúci vlastníctvo alebo nájom miestnosti ako učebne zodpovedajúcej všeobecným stavebno-technickým požiadavkám na pobytové miestnosti a požiadavkám ustanoveným všeobecne záväzným právnym predpisom vydaným podľa § 11h písm. f),
 
-- d) doklad preukazujúci vlastníctvo alebo nájom výcvikových vozidiel, ktoré zodpovedajú skupine vodičského oprávnenia, a ich počet je primeraný počtu účastníkov v kurze,
+- d) doklad preukazujúci vlastníctvo alebo nájom výcvikových vozidiel, ktoré zodpovedajú skupine vodičského oprávnenia a zodpovedajú požiadavkám ustanoveným všeobecne záväzným právnym predpisom; počet výcvikových vozidiel je primeraný počtu účastníkov v kurze,
 
 - e) údaje o kontrolnom systéme na sledovanie súladu výučby a výcviku s plánom podľa písmena a),
 
+- f) výpis z registra trestov žiadateľa a štatutárneho orgánu nie starší ako tri mesiace,
+
+- g) meno a priezvisko osoby, ktorá je zodpovedným zástupcom školiaceho strediska.
+
 (3) Registrácia na vykonávanie kurzov základnej kvalifikácie je neprevoditeľná a neprechádza na právneho nástupcu.
+
+(4) Registráciu na vykonávanie kurzov základnej kvalifikácie je možné udeliť samostatne alebo spoločne podľa druhu dopravy uvedenej v § 2 ods. 1. Údaje o udelenej registrácii školiaceho strediska sa zapisujú prostredníctvom informačného systému.
+
+(5) Rozhodnutie o registrácii školiaceho strediska obsahuje
+
+- a) obchodné meno prevádzkovateľa školiaceho strediska,
+
+- b) identifikačné číslo prevádzkovateľa školiaceho strediska,
+
+- c) sídlo podnikania prevádzkovateľa školiaceho strediska,
+
+- d) adresu prevádzok školiaceho strediska vrátane ich učební na vykonávanie kurzov,
+
+- e) meno a priezvisko zodpovedného zástupcu školiaceho strediska,
+
+- f) rozsah registrácie podľa druhu dopravy,
+
+- g) evidenčné čísla výcvikových vozidiel používaných v kurzoch,
+
+- h) menný zoznam lektorov a inštruktorov podľa výučby teoretickej časti a praktickej časti.
+
+(6) Registrácia na vykonávanie kurzov základnej kvalifikácie sa neudelí, ak žiadateľ alebo štatutárny orgán žiadateľa bol
+
+- a) právoplatne odsúdený za úmyselný trestný čin a trest nebol zahladený,
+
+- b) právoplatne odsúdený za nedbanlivostný trestný čin súvisiaci s cestnou premávkou alebo s poskytovaním služieb zákazníkom a trest nebol zahladený alebo
+
+- c) ak mu bola v posledných piatich rokoch právoplatne zrušená registrácia na vykonávanie kurzov podľa tohto zákona.

@@ -16,6 +16,10 @@
 
 (4) Okresný úrad v sídle kraja zruší registráciu na vykonávanie kurzov základnej kvalifikácie, ak prevádzkovateľ školiaceho strediska
 
-- a) neodstráni nedostatok v určenej lehote alebo
+- a) neodstráni nedostatok v určenej lehote,
 
 - b) požiada o zrušenie registrácie,
+
+- c) prestal spĺňať požiadavky na registráciu alebo
+
+- d) prestal spĺňať podmienky bezúhonnosti podľa § 4a ods. 6.

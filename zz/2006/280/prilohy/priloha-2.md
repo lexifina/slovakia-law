@@ -40,7 +40,7 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
         - 8. obec pobytu,
 
-        - 9. skupiny (podskupiny) vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
+        - 9. skupiny vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
 
       - e) nadpis „Vzor Európskych spoločenstiev“ v štátnom jazyku Slovenskej republiky a záhlavie „kvalifikačná karta vodiča“ v ostatných jazykoch členských štátov vytlačený modrou farbou tak, aby tvorili pozadie karty, a to
 
@@ -100,7 +100,7 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
       - a) údaje o držiteľovi zoradené a očíslované takto:
 
-        - 9. skupiny (podskupiny) vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
+        - 9. skupiny vodičských oprávnení, na ktoré spĺňa základnú kvalifikáciu a pravidelný výcvik,
 
         - 10. kód Spoločenstva podľa zoznamu kódov Spoločenstva (§ 11 ods. 3),
 
@@ -118,4 +118,4 @@ Príloha č. 2 k zákonu č. 280/2006 Z. z.
 
   - C. Vzhľad kvalifikačnej karty vodiča uznávaný Európskym spoločenstvom
 
-- [Obrázok 02-1](../assets/a587450bbb37059cf0d123ed0ecd57592b366d256855a84ac6b11f7161351e07.pdf)
+- [Obrázok 02-1](../assets/ad6558b09f2728a63c59308bbb5cade2cc595168416eaf7e9fb2655f495e62c6.pdf)

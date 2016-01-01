@@ -1,16 +1,16 @@
 Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
-- OBSAH A ROZSAH KURZOV ZÁKLADNEJ KVALIFIKÁCIE
+- OBSAH A ROZSAH KURZOV ZÁKLADNEJ KVALIFIKÁCIE A PRAVIDELNÉHO VÝCVIKU
 
   - Oddiel 1: Zoznam oblastí vedomostí
 
-    - Minimálna úroveň vedomostí vo všetkých kurzoch základnej kvalifikácie a v kurzoch pravidelného výcviku musí obsahovať aspoň vedomosti uvedené v tomto oddiele. Vodiči musia dosiahnuť úroveň vedomostí a praktickej zručnosti potrebnej na bezpečné vedenie vozidla podľa skupín a podskupín vodičských oprávnení.
+    - Minimálna úroveň vedomostí vo všetkých kurzoch základnej kvalifikácie a v kurzoch pravidelného výcviku musí obsahovať aspoň vedomosti uvedené v tomto oddiele. Vodiči musia dosiahnuť úroveň vedomostí a praktickej zručnosti potrebnej na bezpečné vedenie vozidla podľa skupín vodičských oprávnení.
 
     - Minimálna úroveň vedomostí nesmie byť nižšia ako úroveň 2 úrovňovej štruktúry uvedenej v prílohe 1 k rozhodnutiu Rady 85/368/EHS zo 16. júla 1985 o porovnateľnosti kvalifikácií v odbornom vzdelávaní medzi členskými štátmi Európskeho spoločenstva (Ú. v. ES L 199, 31. 7. 1985).
 
     - 1. Zlepšenie racionálneho jazdného správania na základe bezpečnostných predpisov
 
-    - – určené pre všetky skupiny a podskupiny vodičských oprávnení podľa § 2 ods. 1
+    - – určené pre všetky skupiny vodičských oprávnení podľa § 2 ods. 1
 
     - 1.1 Cieľ: poznať charakteristiky prevodového systému, aby sa najlepšie využili:
 
@@ -24,7 +24,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
       - optimalizácia spotreby paliva používaním know-how podľa bodov 1.1 a 1.2.
 
-    - – určené pre vodičské oprávnenia skupín C, C+E a C1+E a podskupiny C1
+    - – určené pre vodičské oprávnenia skupín C, CE, C1 a C1E
 
     - 1.4 Cieľ: schopnosť zaručiť bezpečnosť nákladu pri uplatňovaní bezpečnostných predpisov a správneho využitia vozidla:
 
@@ -32,7 +32,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
       - hlavné kategórie tovaru, ktoré vyžadujú zabezpečenie nákladu, techniky upínania a zabezpečenia, používanie upevňovacích pásov, kontrola zabezpečovacích zariadení, používanie prekladacích zariadení a umiestňovanie a odstraňovanie plachiet.
 
-    - – určené pre vodičské oprávnenia skupín D, D+E a D1+E a podskupiny D1
+    - – určené pre vodičské oprávnenia skupín D, DE, D1 a D1E
 
     - 1.5 Cieľ: schopnosť zaručiť pohodlie a bezpečnosť cestujúcich:
 
@@ -44,19 +44,19 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
     - 2. Uplatňovanie predpisov
 
-    - – určené pre všetky skupiny a podskupiny vodičských oprávnení podľa § 2 ods. 1
+    - – určené pre všetky skupiny vodičských oprávnení podľa § 2 ods. 1
 
     - 2.1 Cieľ: poznať sociálne prostredie cestnej dopravy a predpisy, ktorými sa spravuje:
 
       - maximálne povolené časy pre odvetvie dopravy; princípy, uplatňovanie a dôsledky nariadení (EHS) 3820/85 a (EHS) 3821/85; pokuty za porušovanie, nesprávne používanie a neoprávnené zásahy do záznamových zariadení; vedomosti o sociálnom prostredí cestnej dopravy; práva a povinnosti vodičov z hľadiska základnej kvalifikácie a pravidelného výcviku.
 
-    - – určené pre vodičské oprávnenia skupín C, C+E a C1+E a podskupiny C1
+    - – určené pre vodičské oprávnenia skupín C, CE, C1 a C1E
 
     - 2.2 Cieľ: poznať predpisy, ktorými sa spravuje preprava tovaru:
 
       - dopravné prevádzkové licencie, povinnosti v rámci štandardných zmlúv o preprave tovaru, zhotovovanie dokumentov, ktoré tvoria zmluvu o preprave nákladu, povolenia v medzinárodnej doprave, povinnosti vyplývajúce z Dohovoru o prepravnej zmluve v medzinárodnej nákladnej doprave, zhotovovanie medzinárodných nákladných listov, prekračovanie hraníc, špeditéri, špeciálne sprievodné dokumenty na tovar.
 
-    - – určené pre vodičské oprávnenia skupín D, D+E a D1+E a podskupiny D1
+    - – určené pre vodičské oprávnenia skupín D, DE, D1 a D1E
 
     - 2.3 Cieľ: poznať predpisy, ktorými sa spravuje preprava osôb:
 
@@ -64,7 +64,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
     - 3. Zdravie, cestná a environmentálna bezpečnosť, služby, logistika
 
-    - – určené pre všetky skupiny a podskupiny vodičských oprávnení podľa § 2 ods. 1
+    - – určené pre všetky skupiny vodičských oprávnení podľa § 2 ods. 1
 
     - 3.1 Cieľ: uvedomenie si rizík v cestnej premávke a rizík pracovných úrazov vodičov:
 
@@ -90,13 +90,13 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
       - správanie sa vodiča a imidž podniku; význam kvality služieb poskytovaných vodičom pre podnik, rôzne úlohy vodiča, ľudia, s ktorými bude vodič v styku, údržba vozidla, organizácia práce, obchodné a finančné dôsledky právneho sporu.
 
-    - – určené pre vodičské oprávnenia skupín C, C+E a C1+E a podskupiny C1
+    - – určené pre vodičské oprávnenia skupín C, CE, C1 a C1E
 
     - 3.7 Cieľ: poznať ekonomické prostredie nákladnej cestnej dopravy a organizáciu trhu:
 
       - cestná nákladná doprava vo vzťahu k ostatným druhom dopravy (hospodárska súťaž, zasielatelia), rôzne činnosti cestnej dopravy (doprava vykonávaná za poplatok alebo odmenu, doprava pre vlastné potreby, pomocné dopravné činnosti), organizácia hlavných typov dopravnej spoločnosti a pomocných dopravných činností, rôzne dopravné špecializácie (cisternové vozidlá, regulovaná teplota, atď.), zmeny v sektore dopravy (diverzifikácia poskytovaných služieb, kombinovaná doprava železnica – cesta, subdodávateľ atď.).
 
-    - – určené pre vodičské oprávnenia skupín D, D+E a D1+E a podskupiny D1
+    - – určené pre vodičské oprávnenia skupín D, DE, D1 a D1E
 
     - 3.8 Cieľ: poznať ekonomické prostredie osobnej cestnej dopravy a organizáciu trhu:
 
@@ -104,7 +104,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
   - Oddiel 2: Riadne kurzy základnej kvalifikácie
 
-    - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí uvedených v oddiele 1 v rozsahu 280 hodín.
+    - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí uvedených v oddiele 1 v rozsahu 280 vyučovacích hodín; vyučovacia hodina trvá 45 minút. Riadne kurzy základnej kvalifikácie sa vykonávajú maximálne v desaťhodinových denných sústredeniach.
 
     - Každý účastník kurzov musí v rámci praktického výcviku osobne viesť aspoň 20 hodín výcvikové vozidlo v sprievode inštruktora školiaceho strediska, ktorý musí byť zamestnancom prevádzkovateľa školiaceho strediska, v ktorej sa vykonávajú kurzy.
 
@@ -116,7 +116,7 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
   - Oddiel 3: Kurzy zrýchlenej základnej kvalifikácie
 
-    - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí vedomostí uvedených v oddiele 1 v rozsahu 140 hodín.
+    - Kurzy musia obsahovať výučbu teórie zo všetkých oblastí vedomostí uvedených v oddiele 1 v rozsahu 140 vyučovacích hodín; vyučovacia hodina trvá 45 minút. Kurzy zrýchlenej základnej kvalifikácie sa vykonávajú maximálne v desaťhodinových denných sústredeniach.
 
     - Každý účastník kurzu musí v rámci praktického výcviku osobne viesť aspoň 10 hodín výcvikové vozidlo v sprievode inštruktora školiaceho strediska, ktorý musí byť zamestnancom prevádzkovateľa školiaceho strediska.
 
@@ -128,6 +128,6 @@ Príloha č. 1 k zákonu č. 280/2006 Z. z.
 
   - Oddiel 4: Kurzy pravidelného výcviku
 
-    - Kurz musí obsahovať výučbu teórie zo všetkých cieľov uvedených v oddieli 1 v rozsahu 35 hodín v sedemhodinových denných sústredeniach, a to raz za päť rokov.
+    - Kurz musí obsahovať výučbu teórie zo všetkých cieľov uvedených v oddieli 1 v rozsahu 35 hodín v minimálne sedemhodinových denných sústredeniach a v maximálne desaťhodinových denných sústredeniach, a to raz za päť rokov; vyučovacia hodina trvá 45 minút.
 
     - Praktické jazdy možno uskutočniť pod dohľadom inštruktora školiaceho strediska na výcvikovom vozidle na špeciálnom autocvičisku alebo v cestnej premávke a sčasti aj na trenažéri.
