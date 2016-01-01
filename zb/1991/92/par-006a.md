@@ -1,6 +1,6 @@
 # § 6a
 
-(1) Súčasťou privatizačného projektu predloženého po 29. februári 1992 musí byť vyhodnotenie záväzkov podniku z hľadiska ochrany životného prostredia potvrdené príslušným orgánom štátnej správy pre životné prostredie.
+(1) Súčasťou projektu o prevode majetku predloženého po 29. februári 1992 musí byť vyhodnotenie záväzkov podniku z hľadiska ochrany životného prostredia potvrdené príslušným orgánom štátnej správy pre životné prostredie.
 
 (2) Vyhodnotenie podľa odseku 1 zahŕňa
 
