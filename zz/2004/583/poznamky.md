@@ -66,6 +66,10 @@
 
 - 22) § 18 ods. 3 písm. b) zákona č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov.
 
+- 22a) § 7 písm. a) zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov.
+
+- 22b) § 18 ods. 3 písm. c) zákona č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákona č. 434/2010 Z. z. o poskytovaní dotácií v pôsobnosti Ministerstva kultúry Slovenskej republiky v znení zákona č. 79/2013 Z. z.
+
 - 23) § 6 ods. 1 písm. b) zákona č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania.
 
 - 23a) § 66 a 97 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
