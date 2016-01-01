@@ -168,11 +168,11 @@
 
 - 51) § 4 ods. 3 zákona č. 428/2002 Z. z.
 
-- 52) § 5 ods. 2 zákona č. 610/2003 Z. z.
+- 52) § 63 ods. 5 zákona č. 351/2011 Z. z. o elektronických komunikáciách.
 
-- 53) § 2 zákona č. 610/2003 Z. z.
+- 53) § 63 ods. 6 až 13 zákona č. 351/2011 Z. z. v znení zákona č. 397/2015 Z. z.
 
-- 54) § 5 ods. 1 zákona č. 610/2003 Z. z.
+- 54) Napríklad čl. 4 a 5, čl. 7 ods. 2 a 4 nariadenia Rady (ES) č. 338/97 z 9. decembra 1996 o ochrane druhov voľne žijúcich živočíchov a rastlín reguláciou obchodu s nimi (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 3, Ú. v. ES L 61, 3. 3. 1997) v platnom znení, § 34, 35 a 39 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 2 a 5 zákona č. 15/2005 Z. z. o ochrane druhov voľne žijúcich živočíchov a voľne rastúcich rastlín reguláciou obchodu s nimi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2, 5 a 7 zákona č. 331/2005 Z. z. v znení zákona č. 425/2010 Z. z.
 
 - 54a) § 8 zákona č. 428/2002 Z. z.
 
