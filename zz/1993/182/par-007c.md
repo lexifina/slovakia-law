@@ -10,7 +10,7 @@
 
 - d) iný orgán, ak tak ustanoví zmluva o spoločenstve.
 
-(2) Predseda je štatutárny orgán, ktorý riadi činnosť spoločenstva a koná v jeho mene. Predsedu volí zhromaždenie nadpolovičnou väčšinou všetkých hlasov vlastníkov bytov a nebytových priestorov v dome na tri roky. Za predsedu môže byť zvolená len fyzická osoba, ktorá je spôsobilá na právne úkony a je bezúhonná. Predseda rozhoduje o všetkých záležitostiach spoločenstva, ak nie sú týmto zákonom, zmluvou o spoločenstve alebo stanovami zverené inému orgánu spoločenstva. Predseda navrhuje po prerokovaní v rade zhromaždeniu na schválenie
+(2) Predseda je štatutárny orgán, ktorý riadi činnosť spoločenstva a koná v jeho mene. Predsedu volí zhromaždenie nadpolovičnou väčšinou všetkých hlasov vlastníkov bytov a nebytových priestorov v dome na tri roky. Za predsedu môže byť zvolená len fyzická osoba, ktorá je spôsobilá na právne úkony, je vlastníkom alebo spoluvlastníkom bytu alebo nebytového priestoru v dome a je bezúhonná. Predseda rozhoduje o všetkých záležitostiach spoločenstva, ak nie sú týmto zákonom, zmluvou o spoločenstve alebo stanovami zverené inému orgánu spoločenstva. Predseda navrhuje po prerokovaní v rade zhromaždeniu na schválenie
 
 - a) rozpočet spoločenstva na príslušný kalendárny rok,
 
@@ -30,7 +30,7 @@
 
 - i) vykonanie dobrovoľnej dražby<sup>12ac</sup>) bytu alebo nebytového priestoru v dome na uspokojenie pohľadávok podľa § 15.
 
-(3) Predsedu odvoláva zhromaždenie nadpolovičnou väčšinou hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Ak je predseda odvolaný a nie je súčasne zvolený nový predseda, ak sa predseda vzdá funkcie alebo ju nie je schopný vykonávať z iných dôvodov najmenej po dobu troch po sebe nasledujúcich kalendárnych mesiacov, do zvolenia nového predsedu vykonáva funkciu predsedu člen rady určený radou.
+(3) Predsedu odvoláva zhromaždenie nadpolovičnou väčšinou hlasov všetkých vlastníkov bytov a nebytových priestorov v dome. Funkčné obdobie predsedu sa skončí dňom, keď zanikne vlastnícke právo predsedu k bytu alebo k nebytovému priestoru v dome. Ak je predseda odvolaný alebo sa skončilo funkčné obdobie predsedu z dôvodu zániku jeho vlastníckeho práva k bytu alebo k nebytovému priestoru v dome a nie je súčasne zvolený nový predseda, ak sa predseda vzdá funkcie alebo ju nie je schopný vykonávať z iných dôvodov najmenej po dobu troch po sebe nasledujúcich kalendárnych mesiacov, do zvolenia nového predsedu vykonáva funkciu predsedu člen rady určený radou.
 
 (4) Predseda zodpovedá za škodu spôsobenú spoločenstvu, vlastníkom bytov a nebytových priestorov v dome alebo tretím osobám porušením svojich povinností alebo prekročením svojich právomocí.
 
