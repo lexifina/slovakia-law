@@ -1,6 +1,6 @@
 # § 21b Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí
 
-(1) Zamestnancovi, ktorý vykonáva práce vo verejnom záujme v zahraničí v krajine so sťaženými životnými podmienkami a ktorému sa poskytuje plat podľa § 22, patrí mesačne náhrada až do výšky 20 % z platovej tarify prvého platového stupňa šiestej platovej triedy základnej stupnice platových taríf vynásobenej objektivizovaným platovým koeficientom. Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
+(1) Zamestnancovi, ktorý vykonáva práce vo verejnom záujme v zahraničí v krajine so sťaženými životnými podmienkami a ktorému sa poskytuje plat podľa § 22, patrí mesačne náhrada až do výšky 20 % z platovej tarify prvého platového stupňa šiestej platovej triedy základnej stupnice platových taríf zamestnancov pri výkone práce vo verejnom záujme v zahraničí podľa prílohy č. 8 vynásobenej objektivizovaným platovým koeficientom podľa § 23. Náhrada za sťažené životné podmienky počas výkonu práce vo verejnom záujme v zahraničí sa určí pevnou sumou zaokrúhlenou na 50 eurocentov nahor.
 
 (2) Sťaženými životnými podmienkami sú
 
@@ -20,6 +20,6 @@
 
 (5) Náhrada podľa odsekov 1 a 3 sa zamestnancovi nekráti za poskytnuté pracovné voľno, za ktoré patrí zahraničný funkčný plat alebo náhrada zo zahraničného funkčného platu.
 
-(6) Podrobnosti o sťažených životných podmienkach podľa odseku 2 ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo zahraničných vecí Slovenskej republiky.
+(6) Podrobnosti o sťažených životných podmienkach podľa odseku 2 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zahraničných vecí.
 
-(7) Zoznam krajín so sťaženými životnými podmienkami podľa odseku 6 ustanoví Ministerstvo zahraničných vecí Slovenskej republiky opatrením, ktoré sa vyhlási uverejnením jeho úplného znenia v Zbierke zákonov Slovenskej republiky.
+(7) Zoznam krajín so sťaženými životnými podmienkami podľa odseku 6 ustanoví ministerstvo zahraničných vecí opatrením, ktoré sa vyhlási uverejnením jeho úplného znenia v Zbierke zákonov Slovenskej republiky.

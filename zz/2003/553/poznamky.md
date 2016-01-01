@@ -122,7 +122,7 @@
 
 - 33e) Dohovor, ktorým sa definuje štatút európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
 
-- 34) § 99 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
+- 34) § 103 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 35) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 

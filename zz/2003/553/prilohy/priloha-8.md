@@ -1,0 +1,7 @@
+Príloha č. 8 k zákonu č. 553/2003 Z. z.
+
+- ZÁKLADNÁ STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV PRI VÝKONE PRÁCE VO VEREJNOM ZÁUJME V ZAHRANIČÍ
+
+  - (v eurách mesačne)
+
+- ![VZOR](../assets/7fa955efa88005ed85d14b27199f58ca81b7f5c409b6b6927fb87f24223a2310.jpg)
