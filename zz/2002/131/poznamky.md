@@ -66,6 +66,8 @@
 
 - 28aa) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 28b) § 33 až 35 zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
+
 - 29) § 17 až 19 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 29a) Zákon č. 346/2005 Z. z. v znení neskorších predpisov.
@@ -83,8 +85,6 @@
 - 33b) Nariadenie vlády Slovenskej republiky č. 104/2003 Z. z. o Akreditačnej komisii.
 
 - 33c) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 34) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - 34a) Napríklad § 33 zákona č. 578/2004 Z. z. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení neskorších predpisov, zákon č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov.
 

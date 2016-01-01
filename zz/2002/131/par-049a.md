@@ -4,7 +4,7 @@
 
 (2) Zahraničná vysoká škola spolu so žiadosťou o udelenie oprávnenia predloží
 
-- a) doklady preukazujúce jej zriadenie a pôsobenie v členskom štáte jej sídla ako štátom uznanej vysokej školy,<sup>34</sup>)
+- a) doklady preukazujúce jej zriadenie a pôsobenie v členskom štáte jej sídla ako štátom uznanej vysokej školy,
 
 - b) údaje o jej štatutárnych orgánoch,
 
@@ -44,6 +44,4 @@
 
 (13) Ministerstvo na svojom webovom sídle zverejňuje informácie o udelení oprávnenia podľa odseku 1 a informácie o odňatí oprávnenia podľa odseku 1, ktoré sa stali právoplatné.
 
-(14) Doklady o vzdelaní získané štúdiom na zahraničnej vysokej škole sa uznávajú podľa § 106, ak osobitné predpisy neustanovujú inak.<sup>34</sup>)
-
-(15) Oprávnenie udelené ministerstvom nie je prenosné na inú právnickú osobu a neprechádza na právnych nástupcov zahraničnej vysokej školy.
+(14) Oprávnenie udelené ministerstvom nie je prenosné na inú právnickú osobu a neprechádza na právnych nástupcov zahraničnej vysokej školy.
