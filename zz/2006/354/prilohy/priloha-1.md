@@ -16,7 +16,7 @@ Príloha č. 1 k nariadeniu vlády č. 354/2006 Z. z.
 
   - 5. | Kultivovateľné mikroorganizmy pri 22 <sup>o</sup>C | KM22 | 200 500 100 | KTJ v 1 ml v 1 ml v 1 ml | MH MH MH | HZ IZ BPV
 
-  - 6. | Kultivovateľné mikroorganizmy pri 37 <sup>o</sup>C | KM22 | 50 100 20 | KTJ v 1 ml v 1 ml v 1 ml | MH MH MH | HZ IZ BPV
+  - 6. | Kultivovateľné mikroorganizmy pri 37 <sup>o</sup>C | KM37 | 50 100 20 | KTJ v 1 ml v 1 ml v 1 ml | MH MH MH | HZ IZ BPV
 
   - 7. | Bezfarebné bičíkovce | BB | 10 50 | jedince/ml | MH MH | HZ pitnou vodou nezabezpečovanou dezinfekciou. Pre dezinfikovanú vodu je limit 0. IZ
 
@@ -48,7 +48,7 @@ Príloha č. 1 k nariadeniu vlády č. 354/2006 Z. z.
 
     - 18. | Bromičnany | Br | 0,01 | mg/l | NMH | Je potrebné snažiť sa, ak je to možné bez zhoršenia kvality dezinfekcie, o nižšiu hodnotu, ako je limitná hodnota.
 
-    - 19. | Dusičnany | N | 50 | mg/l | MH | Súčet pomerov zisteného obsahu dusičnanov delený 50 a zistený obsah dusitanov delený 3 musí byť menší alebo sa musí rovnať 1. Obsah dusitanov v pitnej vode na výstupe z úpravne musí byť nižší ako 0,1 mg/l.
+    - 19. | Dusičnany | N | 50 | mg/l | NMH | Súčet pomerov zisteného obsahu dusičnanov delený 50 a zistený obsah dusitanov delený 3 musí byť menší alebo sa musí rovnať 1. Obsah dusitanov v pitnej vode na výstupe z úpravne musí byť nižší ako 0,1 mg/l.
 
     - 20. | Dusitany | N | 0,5 | mg/l | NMH | Súčet pomerov zisteného obsahu dusičnanov delený 50 a zistený obsah dusitanov delený 3 musí byť menší alebo sa musí rovnať 1. Obsah dusitanov v pitnej vode na výstupe z úpravne musí byť nižší ako 0,1 mg/l.
 
@@ -102,7 +102,7 @@ Príloha č. 1 k nariadeniu vlády č. 354/2006 Z. z.
 
     - 43. | Tetrachlóretén | PCE | 10 | µg/l | NMH | Súčet koncentrácií tetrachlóreténu a trichlóreténu nesmie prekročiť 10 µg/l.
 
-    - 44. | Tetrachlórmetán | CCl<sub>4</sub> | 2,0 | µg/l | MHRR |
+    - 44. | Tetrachlórmetán | CCl<sub>4</sub> | 2,0 | µg/l | NMH |
 
     - 45. | Toluén | C<sub>7</sub>H<sub>8</sub> | 50 700 | µg/l µg/l | MH NMH |
 
@@ -118,7 +118,7 @@ Príloha č. 1 k nariadeniu vlády č. 354/2006 Z. z.
 
     - Por. čís. | Ukazovateľ | Symbol ukazovateľa | Limit | Jednotka | Druh limitu | Poznámky
 
-    - 50. | Voľný chlór | Cl<sub>2</sub> | 0,3 | mg/l | MH | Vzťahuje sa na obsah voľného chlóru po úprave vody. Ak sa voda dezinfikuje chlórom, musí byť minimálna hodnota v distribučnej sieti 0,05 mg/l.
+    - 50. | Voľný chlór | Cl<sub>2</sub> | 0,3 | mg/l | MH |
 
     - 51. | Brómdichlórmetán | BDM | 0,015 0,025 | mg/l mg/l | MH NMH | Prekročenie MH koncentrácie BDM do 0,025 mg/l je dôvodom na zníženie medznej hodnoty koncentrácie chloroformu na 0,03 mg/l. Koncentrácia sa meria pri odtoku vody z úpravne.
 
@@ -192,8 +192,46 @@ Príloha č. 1 k nariadeniu vlády č. 354/2006 Z. z.
 
     - f) Rádiologické ukazovatele
 
-    - Por. čís. | Ukazovateľ | Symbol ukazovateľa | Limit | Jednotka | Druh limitu | Poznámky
+    - Por. číslo | Ukazovateľ | Symbol ukazovateľa | Limit | Jednotka | Druh limitu | Poznámky
 
-    - 82. | Trícium | <sup>3H</sup> | 100 | Bq/l | IH | Monitorovanie objemovej aktivity trícia v pitnej vode a objemovej aktivity rádionuklidov v pitnej vode na účely stanovenia celkového úväzku efektívnej dávky z príjmu rádionuklidov pitnou vodou sa nevyžaduje, ak je iným monitorovaním preukázané, že úroveň objemovej aktivity trícia alebo vypočítaného celkového úväzku efektívnej dávky z príjmu rádionuklidov pitnou vodou je dostatočne pod indikačnou hodnotou rádiologického ukazovateľa. Ak sa monitorovanie nevyžaduje, Úrad verejného zdravotníctva SR informuje komisiu podľa osobitného predpisu<sup>14</sup>) o dôvodoch takého rozhodnutia a poskytne jej výsledky monitorovania, na základe ktorého takto rozhodol. Príjem trícia, <sup>40</sup>K, radónu a jeho rozpadových produktov sa nezapočítava do príjmu na účely hodnotenia celkového úväzku efektívnej dávky z príjmu rádionuklidov pitnou vodou za rok. Podrobnosti o požiadavkách na monitorovanie prírodných rádionuklidov v pitnej vode sú uvedené vo vykonávacom predpise.<sup>7</sup>)
+    - 82. | Trícium | <sup>3</sup>H | 100 | Bq/l | IH | Monitorovanie objemovej aktivity <sup>3</sup>H v pitnej vode sa nevyžaduje, ak je iným monitorovaním preukázané, že úroveň objemovej aktivity <sup>3</sup>H je dostatočne pod IH. Ak je IH prekročená postupuje sa podľa prílohy č. 2, obrázku č. 1. Ak sa monitorovanie nevyžaduje, Úrad verejného zdravotníctva SR informuje komisiu podľa osobitného predpisu<sup>14</sup>) o dôvodoch takého rozhodnutia a poskytne jej výsledky monitorovania, na základe ktorého takto rozhodol.
 
-    - 83. | Celkový úväzok efektívnej dávky z príjmu rádionuklidov za rok | E() | 0,10 | mSv/rok | IH |
+    - 83. | Radón | <sup>222</sup>Rn | 100 | Bq/l | IH | Vzťahuje sa na pitnú vodu dodávanú z podzemných zdrojov.
+
+    - 84. | Celková objemová aktivita alfa | a<sub>Vcα</sub> | 0,1 | Bq/l | IH |
+
+    - 85. | Celková objemová aktivita beta | a<sub>vcβ</sub> | 0,5 | Bq/l | IH |
+
+    - 86. | Indikačná dávka | ID | 0,1 | mSv/rok | IH | Postupuje sa podľa prílohy č. 2 bodu 2.2.
+
+    - 87. | Prírodné rádionuklidy | <sup>238</sup>U | 3,0 | Bq/l | MH | MH sú vypočítané na úrovni ročného úväzku efektívnej dávky 0,1 mSv a ročnom objeme vody prijatého ingesciou 730 litrov. Táto tabuľka nezohľadňuje chemickú toxicitu uránu
+
+    - 88. | | <sup>234</sup>U | 2,8 | Bq/l | MH |
+
+    - 89. | | <sup>226</sup>Ra | 0,5 | Bq/l | MH |
+
+    - 90. | | <sup>228</sup>Ra | 0,2 | Bq/l | MH |
+
+    - 91. | | <sup>210</sup>Pb | 0,2 | Bq/l | MH |
+
+    - 92. | | <sup>210</sup>Po | 0,1 | Bq/l | MH |
+
+    - 93. | | <sup>222</sup>Rn | 300 | Bq/l | MH |
+
+    - 94. | Umelé rádionuklidy | <sup>14</sup>C | 240 | Bq/l | MH |
+
+    - 95. | | <sup>90</sup>Sr | 4,9 | Bq/l | MH |
+
+    - 96. | | <sup>239</sup>Pu/<sup>240</sup>Pu | 0,6 | Bq/l | MH |
+
+    - 97 | | <sup>241</sup>Am | 0,7 | Bq/l | MH |
+
+    - 98. | | <sup>60</sup>Co | 40 | Bq/l | MH |
+
+    - 99. | | <sup>134</sup>Cs | 7,2 | Bq/l | MH |
+
+    - 100. | | <sup>137</sup>Cs | 11 | Bq/l | MH |
+
+    - 101. | | <sup>131</sup>I | 6,2 | Bq/l | MH |
+
+      - Vysvetlivky: IH - indikačná hodnota, MH - medzná hodnota, ID - indikačná dávka, NMH - najvyššia medzná hodnota, OH- odporúčaná hodnota.

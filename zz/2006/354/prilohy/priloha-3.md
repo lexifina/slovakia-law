@@ -1,6 +1,6 @@
 Príloha č. 3 k nariadeniu vlády č. 354/2006 Z. z.
 
-- KRITÉRIÁ SPRÁVNOSTI A PRESNOSTI METÓD
+- KRITÉRIÁ SPRÁVNOSTI A PRESNOSTI METÓD, KRITÉRIÁ NAJMENŠEJ DETEGOVATEĽNEJ AKTIVITY A RELATÍVNEJ ROZŠÍRENEJ NEISTOTY PRE RÁDIOLOGICKÉ UKAZOVATELE
 
   - 1. Správnosť je tesnosť zhody medzi priemernou hodnotou získanou z veľkého radu výsledkov skúšok a prijatou referenčnou hodnotou.<sup>15</sup>)
 
@@ -199,3 +199,43 @@ Príloha č. 3 k nariadeniu vlády č. 354/2006 Z. z.
     - Pre ukazovateľ enterokoky sa môže použiť alternatívna metóda.<sup>23</sup>)
 
     - Pre ukazovateľ Clostridium perfringens sa môžu použiť alternatívne metódy podľa slovenskej technickej normy.<sup>24</sup>)
+
+    - f) Rádiologické ukazovatele
+
+  - Číslo ukazovateľa | Ukazovateľ | Najmenšia detegovateľná objemová aktivita Bq/l | U<sub>rel</sub> % | Poznámky
+
+  - 82. | <sup>3</sup>H | 10 | 20 | Najmenšia detegovateľnáobjemová aktivita sa vypočíta pre kvantil normálneho rozdelenia k<sub>1-α</sub>=k<sub>1-β</sub>=1,65 a interval spoľahlivosti sa vypočíta pre kvantil normálneho rozdelenia k<sub>1-γ</sub>=1,96. <sup>25</sup>) U<sub>rel</sub> je relatívna rozšírená neistota a zároveň cieľová neistota stanovenia
+
+  - 83. | <sup>222</sup>Rn | 10 | 20 |
+
+  - 84. | Celková objemová aktivita alfa | 0,04 | 60 |
+
+  - 85. | Celková objemová aktivita beta | 0,20 | 20 |
+
+  - 87. | <sup>238</sup>U | 0,02 | 20 |
+
+  - 88. | <sup>234</sup>U | 0,02 | 20 |
+
+  - 89. | <sup>226</sup>Ra | 0,04 | 20 |
+
+  - 90. | <sup>228</sup>Ra | 0,02 | 20 |
+
+  - 91. | <sup>210</sup>Pb | 0,02 | 20 |
+
+  - 92. | <sup>210</sup>Po | 0,01 | 20 |
+
+  - 94. | <sup>14</sup>C | 20 | 20 |
+
+  - 95. | <sup>90</sup>Sr | 0,40 | 20 |
+
+  - 96. | <sup>239</sup>Pu/<sup>240</sup>Pu | 0,04 | 20 |
+
+  - 97. | <sup>241</sup>Am | 0,06 | 20 |
+
+  - 98. | <sup>60</sup>Co | 0,50 | 20 |
+
+  - 99. | <sup>134</sup>Cs | 0,50 | 20 |
+
+  - 100. | <sup>137</sup>Cs | 0,50 | 20 |
+
+  - 101 | <sup>131</sup>I | 0,50 | 20 |

@@ -12,15 +12,17 @@
 
 - 5a) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
 
-- 6) § 17 ods. 3 zákona č. 355/2007 Z. z.
+- 5aa) § 5 ods. 5 písm. h) a § 6 ods. 5 zákona č. 355/2007 Z. z.
 
-- 7) Príloha č. 4 k vyhláške Ministerstva zdravotníctva Slovenskej republiky č. 528/2007 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na obmedzenie ožiarenia z prírodného žiarenia.
+- 6) § 17 ods. 3 zákona č. 355/2007 Z. z.
 
 - 8) STN ISO 5667-3 Kvalita vody. Odber vzoriek. Časť 3: Pokyny na konzerváciu vzoriek a manipuláciu s nimi.
 
 - 9) § 17 ods. 2 zákona č. 355/2005 Z. z.
 
 - 10) § 17 ods. 6 zákona č. 355/2007 Z. z.
+
+- 10a) § 8 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
 
 - 11) STN 75 7715 Kvalita vody. Biologický rozbor povrchovej vody.
 
@@ -49,3 +51,5 @@
 - 23) Napríklad Enterolert-E - Defined Substrate Technology“, (DST“).
 
 - 24) Napríklad STN EN 26461-2 Kvalita vody. Stanovenie spór anaeróbov redukujúcich siričitany (klostrídií) Časť 2: Metóda membránovej filtrácie, STN EN ISO 7937 Mikrobiológia potravín a krmív. Horizontálna metóda stanovenia počtu baktérií Clostridium perfringens. Metóda počítania kolónií (ISO 7934:2004).
+
+- 25) ISO 11929 Stanovenie charakteristických limitov (detekčných limitov a hraníc intervalu spoľahlivosti) pri meraniach ionizujúceho žiarenia - Základy a použitie.
