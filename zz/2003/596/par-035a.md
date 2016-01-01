@@ -1,3 +1,7 @@
+## DESIATA ČASŤ
+
+## SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA
+
 # § 35a
 
 (1) Školy a školské zariadenia, ktoré sú zaradené do siete, majú povinnosť pri ročných zisťovaniach poskytnúť ministerstvu štatistické údaje o

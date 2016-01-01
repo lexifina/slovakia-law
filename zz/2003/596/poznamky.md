@@ -118,8 +118,6 @@
 
 - 41) § 3a zákona č. 29/1984 Zb. v znení neskorších predpisov.
 
-- 41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.
-
 - 41b) § 27 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 42) Zákon č. 152/1998 Z. z.
