@@ -58,11 +58,9 @@
 
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22f) § 19 ods. 2 písm. a) až c) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 22g) § 107 ods. 4 a 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
-- 22g) § 107 ods. 4 a 5 zákona č. 245/2008 Z. z.
-
-- 22h) § 107 ods. 6 zákona č. 245/2008 Z. z.
+- 22h) § 107 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 23) § 117 zákona č. 245/2008 Z. z.
 
