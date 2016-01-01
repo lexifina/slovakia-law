@@ -8,7 +8,7 @@
 
 - b) na nevyhnutne potrebný čas zotrval na určenom mieste.
 
-(3) Ak možno dôvodne predpokladať, že dieťa, ktoré sa má odňať, sa nachádza v byte alebo v inom uzavretom priestore (ďalej len „byt“) a osoba oprávnená užívať byt nerešpektuje výzvy sudcu na umožnenie odňatia dieťaťa, sudca je oprávnený zabezpečiť otvorenie bytu, vstúpiť doň a vykonať opatrenia na odňatie dieťaťa.
+(3) Ak možno dôvodne predpokladať, že dieťa, ktoré sa má odňať, sa nachádza v obydlí a osoba oprávnená užívať obydlie nerešpektuje výzvy sudcu na umožnenie odňatia dieťaťa, sudca je oprávnený zabezpečiť otvorenie obydlia, vstúpiť doň a vykonať opatrenia na odňatie dieťaťa.
 
 (4) Ak sa dieťa, ktoré sa má odňať, nachádza v priestore, ktorý užíva právnická osoba, poskytne táto právnická osoba sudcovi súčinnosť pri výkone rozhodnutia o odňatí dieťaťa. Ustanovenie odseku 3 sa použije primerane.
 

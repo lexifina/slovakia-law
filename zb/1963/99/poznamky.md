@@ -18,6 +18,8 @@
 
 - 6b) § 194 ods. 1 Exekučného poriadku.
 
+- 6c) Zákon č. 78/2015 Z. z. o kontrole výkonu niektorých rozhodnutí technickými prostriedkami a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
 - Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy o založení Európskeho spoločenstva (Ú. v. EÚ L 001, 4.1. 2003).
@@ -80,7 +82,15 @@
 
 - 21a) Dohovor o občianskoprávnych aspektoch medzinárodných únosov detí (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 119/2001 Z. z.).
 
+- Nariadenie Rady (ES) č. 2201/2003 z 27. novembra 2003 o právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie (ES) č. 1347/2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 19/ zv. 6; Ú. v. EÚ L 338, 23. 12. 2003) v platnom znení.
+
 - 22) § 33 a 58 zákona č. 36/2005 Z. z.
+
+- 22a) § 93b ods. 1 zákona č. 305/2005 Z. z. v znení zákona č. 175/2015 Z. z.
+
+- 22b) § 93b ods. 1 písm. a) zákona č. 305/2005 Z. z. v znení zákona č. 175/2015 Z. z.
+
+- 22c) § 93g ods. 2 zákona č. 305/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
 - 23) § 52 ods. 6, § 55 ods. 2, § 98 až 104 zákona č. 36/2005 Z. z.
 

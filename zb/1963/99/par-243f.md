@@ -15,3 +15,5 @@
 - b) o podmienkach konania, o zastavení alebo o prerušení konania, alebo ktorými sa upravuje vedenie konania,
 
 - c) o dovolaní alebo o mimoriadnom dovolaní,
+
+- d) o návrhu o návrat neoprávnene premiestneného alebo zadržiavaného dieťaťa podľa medzinárodnej zmluvy.<sup>38b</sup>)

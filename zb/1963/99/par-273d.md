@@ -6,7 +6,7 @@
 
 - a) uplatnená náhrada mzdy zúčastnených osôb pri výkone rozhodnutia o odňatí dieťaťa okrem náhrady mzdy oprávneného,
 
-- b) účelne vynaložené náklady spojené najmä s otvorením bytu podľa § 273aa ods. 3 alebo s otvorením priestoru podľa § 273aa ods. 4,
+- b) účelne vynaložené náklady spojené najmä s otvorením obydlia podľa § 273aa ods. 3 alebo s otvorením priestoru podľa § 273aa ods. 4,
 
 - c) náklady na dopravu zúčastnených osôb okrem nákladov na dopravu oprávneného,
 
