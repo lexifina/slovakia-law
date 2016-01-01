@@ -2,15 +2,25 @@
 
 - 2) § 2 písm. a) zákona č. 22/2004 Z. z.
 
+- 2a) Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
 - 3) § 43a ods. 3 písm. h) a i), § 55 ods. 2 a § 139a ods. 10 písm. e) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 4) Medzinárodný dohovor o telekomunikáciách, Montreux 1965 (vyhláška Ministerstva zahraničných vecí č. 190/1968 Zb.).
 
+- 4a) § 2 písm. e) nariadenia vlády Slovenskej republiky č. 194/2005 Z. z. o elektromagnetickej kompatibilite.
+
 - 5) § 2 ods. 2 písm. c) Obchodného zákonníka.
 
-- 6) § 2 písm. a) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
-
 - 6a) Zákon č. 402/2013 Z. z. o Úrade pre reguláciu elektronických komunikácií a poštových služieb a Dopravnom úrade a o zmene a doplnení niektorých zákonov.
+
+- 6b) Čl. 2 ods. 4 písm. d) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1285/2013 z 11. decembra 2013 o zriadení a využívaní európskych systémov satelitnej navigácie, ktorým sa ruší nariadenie Rady (ES) č. 876/2002 a nariadenie Európskeho parlamentu a Rady (ES) č. 683/2008 (Ú. v. EÚ L 347, 20. 12. 2013).
+
+- 6c) Nariadenie (EÚ) č. 1285/2013.
+
+- 6d) Čl. 8 rozhodnutia Európskeho parlamentu a Rady (EÚ) č. 1104/2011 z 25. októbra 2011 o pravidlách prístupu k verejnej regulovanej službe, ktorú poskytuje globálny satelitný navigačný systém zriadený v rámci programu Galileo (Ú. v. EÚ L 287, 4. 11. 2011).
+
+- 6e) Napríklad čl. 8 rozhodnutia (EÚ) č. 1104/2011, rozhodnutie Komisie (EÚ, Euratom) č. 2015/444 z 13. marca 2015 o bezpečnostných predpisoch na ochranu utajovaných skutočností EÚ (Ú. v. EÚ L 72, 17. 3. 2015), rozhodnutie Rady z 23. septembra 2013 o bezpečnostných predpisoch na ochranu utajovaných skutočností EÚ (2013/488/EÚ) (Ú. v. EÚ L 274, 15. 10. 2013).
 
 - 7) § 20 ods. 1 písm. c) zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení zákona č. 68/2005 Z. z.
 
@@ -23,6 +33,10 @@
 - 11) Napríklad § 68 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
 - 11a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
+
+- 12) Zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 13) § 2 písm. a) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 15) § 17 až 20 Obchodného zákonníka.
 
@@ -64,7 +78,11 @@
 
 - § 17 a 52 zákona č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov.
 
+- 31a) Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
+
 - 32) § 9 ods. 3 a § 12 ods. 8 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 32a) Nariadenie vlády Slovenskej republiky č. 194/2005 Z. z.
 
 - 33) Napríklad § 9 až 11, 40 až 54, 69 a 70 zákona č. 220/2007 Z. z. v znení zákona č. 532/2010 Z. z., § 30 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
@@ -74,15 +92,21 @@
 
 - 36) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
+- 36a) Napríklad § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 25a zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov (v znení zákona č. 718/2004 Z. z.) v znení neskorších predpisov, § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 36b) § 3 ods. 1 zákona č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
 - 37) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z.
 
-- 38) Zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+- 38) § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
 
-- § 3 zákona č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších predpisov.
+- 38a) § 40 ods. 4 Občianskeho zákonníka.
 
 - 39) Napríklad zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
 - 39a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
+
+- 39b) § 4 zákona č. 220/2007 Z. z. v znení zákona č. 498/2009 Z. z.
 
 - 40) § 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -96,15 +120,27 @@
 
 - Zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších prepisov.
+
+- Zákon č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 43) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 44) § 4 ods. 6 zákona č. 22/2004 Z. z. v znení zákona č. 160/2005 Z. z.
+
+- 44a) Napríklad § 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, § 76a ods. 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov, § 58 ods. 3 zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45) § 116 Trestného poriadku.
 
 - Zákon č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním) v znení neskorších predpisov.
 
-- 46) § 76 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+- 46) § 116 Trestného poriadku,
+
+- § 76 ods. 4 a 5 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
+
+- 46a) § 4a zákona č. 166/2003 Z. z.
+
+- 46b) § 9 zákona č. 166/2003 Z. z.
 
 - 47) Nariadenie Európskeho parlamentu a Rady (ES) č. 460/2004 z 10. marca 2004 o zriadení Európskej agentúry pre bezpečnosť sietí a informácií (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 5, Ú. v. EÚ L 77, 13. 3. 2004) v platnom znení.
 
@@ -134,9 +170,13 @@
 
 - 56) § 8a ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
-- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 3 a 5, čl. 5 ods. 1, čl. 7 až 13 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012).
+- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 5, čl. 5 ods. 1, čl. 7 až 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012).
 
-- 58) Čl. 4 ods. 4, čl. 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia (EÚ) č. 531/2012.
+- 58a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
+
+- Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
+
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o Európskej únii a k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
 - 59) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
