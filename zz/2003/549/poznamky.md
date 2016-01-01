@@ -24,6 +24,8 @@
 
 - 13) Zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov.
 
+- 13a) Zákon č. 78/2015 Z. z. o kontrole výkonu niektorých rozhodnutí technickými prostriedkami a o zmene a doplnení niektorých zákonov.
+
 - 14) § 43 ods. 1 písm. a) zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - 14a) § 10 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
