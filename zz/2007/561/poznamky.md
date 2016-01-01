@@ -80,6 +80,8 @@
 
 - 24a) Čl. 2 ods. 28 nariadenia (EÚ) č. 651/2014.
 
+- 24aa) § 2 zákona č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
 - 25) Napríklad zákon č. 231/1999 Z. z. v znení neskorších predpisov, zákon č. 5/2004 Z. z. v znení neskorších predpisov, zákon č. 523/2004 Z. z. v znení neskorších predpisov, zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov, zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov, zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
