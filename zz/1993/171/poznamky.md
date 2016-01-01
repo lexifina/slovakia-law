@@ -160,7 +160,7 @@
 
 - 28) Zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii.
 
-- 28c) § 5 ods. 2 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
+- 28c) § 63 ods. 5 zákona č. 351/2011 Z. z. o elektronických komunikáciách.
 
 - 28d) Zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch v znení neskorších predpisov.
 
@@ -170,9 +170,7 @@
 
 - 28g) § 85 ods. 1 zákona Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách.
 
-- 28h) § 1 zákona č. 610/2003 Z. z.
-
-- 28i) § 55 ods. 1 písm. b) a c) zákona č. 610/2003 Z. z.
+- 28h) § 63 ods. 6 až 13 zákona č. 351/2011 Z. z. v znení neskorších predpisov.
 
 - 28j) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
@@ -180,7 +178,9 @@
 
 - 28jb) Čl. 17 ods. 1 rozhodnutia Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
 
-- 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008).
+- Čl. 3 rozhodnutia Rady 2008/617/SVV z 23. júna 2008 o zlepšení spolupráce medzi osobitnými zásahovými jednotkami členských štátov Európskej únie v krízových situáciách (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008). Rozhodnutie Rady 2008/617/SVV z 23. júna 2008 o zlepšení spolupráce medzi osobitnými zásahovými jednotkami členských štátov Európskej únie v krízových situáciách (Ú. v. EÚ L 210, 6. 8. 2008).
 
 - 28jd) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 

@@ -18,7 +18,7 @@
 
 (5) Príjemca údajov podľa odsekov 1 až 4 je oprávnený spracúvať osobné údaje na iný účel, než na aký sa poskytli alebo sprístupnili, len s predchádzajúcim súhlasom Policajného zboru; to neplatí, ak sa účel v žiadosti neuvádza. Ak je príjemca údajov podľa odsekov 1 až 4 Policajným zborom požiadaný o informáciu, ako je nakladané s týmito údajmi, je povinný do 14 dní písomne informovať Policajný zbor.
 
-(6) Do zahraničia možno poskytovať a sprístupňovať osobné údaje i bez písomnej žiadosti, ak tak ustanovuje zákon, osobitný predpis<sup>27dd</sup>) alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná.
+(6) Do zahraničia možno poskytovať a sprístupňovať osobné údaje i bez písomnej žiadosti, ak tak ustanovuje zákon, osobitný predpis<sup>27dd</sup>) alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná. Aj bez písomnej žiadosti možno poskytovať a sprístupňovať osobné údaje Interpolu pri predchádzaní, odhaľovaní a vyšetrovaní trestných činov, zisťovaní páchateľov trestných činov, vyšetrovaní trestných činov alebo pri zabezpečovaní verejného poriadku.
 
 (7) Policajný zbor môže pri poskytovaní a sprístupnení osobných údajov iným orgánom alebo osobám určiť lehotu, po uplynutí ktorej je príjemca povinný osobné údaje zlikvidovať, blokovať alebo preveriť, či sú pre neho naďalej potrebné.
 
