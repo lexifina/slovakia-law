@@ -14,6 +14,8 @@
 
 - 11b) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 11ba) Napríklad zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
+
 - 11c) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 13) § 244 až 250k Občianskeho súdneho poriadku.
@@ -21,6 +23,10 @@
 - 14) § 80 písm. c) Občianskeho súdneho poriadku.
 
 - 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
+
+- 15) § 11 až 16 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
+
+- Zákon č. 122/2013 Z. z. o ochrane osobných údajov v znení zákona č. 84/2014 Z. z.
 
 - 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -56,21 +62,23 @@
 
 - Zákon č. 380/1997 Z. z.
 
-- 32) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
-
 - 33) § 6 ods. 10 zákona č. 366/1999 Z. z. o daniach z príjmov.
 
 - 35) Zákon č. 88/1968 Zb. o predĺžení materskej dovolenky, o dávkach v materstve a o prídavkoch na deti z nemocenského poistenia v znení neskorších predpisov.
 
-- 36) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
+- 36) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 36a) Štvrtá časť zákona č. 283/2002 Z. z. o cestovných náhradách.
-
-- 36b) § 33b až 33k zákona č. 283/2002 Z. z. o cestovných náhradách v znení zákona č. 503/2011 Z. z.
+- 36a) § 10 ods. 3 a 4 zákona č. 548/2003 Z. z.
 
 - 37) § 66 ods. 1 a § 85 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
 - 38) § 67 ods. 1 a § 85 zákona č. 385/2000 Z. z.
+
+- 39) Opatrenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 400/2014 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
+
+- 39a) Štvrtá časť zákona č. 283/2002 Z. z. v znení neskorších predpisov.
+
+- 39b) § 33b až 33k zákona č. 283/2002 Z. z. v znení neskorších predpisov.
 
 - 40) § 22c a 22d zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 57/1999 Z. z.
 
@@ -98,13 +106,23 @@
 
 - 53) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
 
-- 54) Zákon č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom.
+- 54) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 55) Vyhláška ministerstiev zdravotníctva a spravodlivosti, Štátneho úradu sociálneho zabezpečenia a Ústrednej rady odborov č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení neskorších predpisov.
 
 - 56) Zákon č. 238/1998 Z. z. o príspevku na pohreb.
 
-- 57) Napríklad § 2 ods. 1 a § 10 ods. 1 písm. g) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+- 57) Napríklad § 2 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, § 77 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, § 11 zákona č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 57a) Napríklad § 13 ods. 3, § 15 ods. 2 a § 35 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov, § 104 ods. 4 a 5 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 91 ods. 1 písm. d) piaty bod zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 57b) Zákon č. 372/1990 Z. z. v znení neskorších predpisov.
+
+- 57c) Napríklad § 58 ods. 2 a 3 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 64 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 4 až 6 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+
+- 57d) Napríklad § 11 až 18 a § 20 zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov, § 92 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 11 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení neskorších predpisov, § 91 ods. 1 písm. d) piaty bod, ods. 3, 5 a 6 zákona č. 251/2012 Z. z. v znení neskorších predpisov.
+
+- 57e) § 53 zákona č. 153/2001 Z. z. v znení neskorších predpisov.
 
 - 58) Napríklad zákon Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
 
@@ -124,9 +142,7 @@
 
 - 65) Napríklad § 251 až 351 Občianskeho súdneho poriadku.
 
-- 66) Zákon č. 141/1961 Zb. v znení neskorších predpisov.
-
-- 66b) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení zákona č. 275/2002 Z. z.
+- 66a) § 30a až 30c zákona č. 153/2001 Z. z. v znení zákona č. 401/2015 Z. z.
 
 - 67) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
