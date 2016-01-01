@@ -1,4 +1,4 @@
-- 1) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 1) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
 - 2) § 2 písm. e) zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
 
@@ -8,9 +8,9 @@
 
 - § 103 ods. 4 zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
-- 3b) § 138 ods. 2, § 208 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 3b) § 156 ods. 2, § 232 zákona č. 281/2015 Z. z.
 
-- 3ea) § 149 zákona č. 346/2005 Z. z. v znení neskorších predpisov.
+- 3ea) § 168 zákona č. 281/2015 Z. z.
 
 - 3eb) § 15k zákona č. 570/2005 Z. z. v znení zákona č. 518/2007 Z. z.
 
@@ -22,7 +22,7 @@
 
 - § 52 ods. 3 a 4 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- § 173 a 179 zákona č. 281/2015 Z. z.
 
 - 3f) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -34,25 +34,19 @@
 
 - § 102ad zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- § 116 zákona č. 346/2005 Z. z. v znení zákona č. 48/2011 Z. z.
+- § 131 zákona č. 281/2015 Z. z.
 
 - 4) § 9 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 5) § 81 ods. 1 písm. d) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície.
-
-- § 127 ods. 2 písm. l) a m) zákona č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov.
-
-- § 76 ods. 1 písm. d) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 6) § 118 ods. 2 zákona č. 311/2001 Z. z. Zákonník práce.
 
 - 7) § 109 ods. 1 a 2 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
-- 8) § 138 ods. 2 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 8) § 156 ods. 2 zákona č. 281/2015 Z. z.
 
-- 9) § 208 zákona č. 346/2005 Z. z.
+- 9) § 232 zákona č. 281/2015 Z. z.
 
-- 9a) § 150 zákona č. 346/2005 Z. z. v znení neskorších predpisov.
+- 9a) § 170 zákona č. 281/2015 Z. z.
 
 - 10) Zákon č. 385/2000 Z. z. v znení neskorších predpisov.
 
@@ -68,15 +62,15 @@
 
 - § 34 ods. 6, § 40 ods. 2 až 4 a § 42 ods. 3 zákona č. 200/1998 Z. z.
 
-- 23a) § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 23a) § 173 a 179 zákona č. 281/2015 Z. z.
 
 - 24) § 46 ods. 4 zákona č. 73/1998 Z. z.
 
-- § 65 ods. 9 a 10 zákona č. 346/2005 Z. z.
+- § 179 ods. 3 zákona č. 281/2015 Z. z.
 
 - 25) § 81 zákona č. 73/1998 Z. z. v znení zákona č. 201/2004 Z. z.
 
-- § 104 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- § 116 zákona č. 281/2015 Z. z.
 
 - 29) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
@@ -106,9 +100,9 @@
 
 - 31a) § 63 ods. 1 písm. j) zákona č. 315/2001 Z. z. v znení zákona č. 519/2007 Z. z.
 
-- 31b) § 196, 215e a 215k zákona č. 346/2005 Z. z. v znení neskorších predpisov.
+- 31b) § 223 zákona č. 281/2015 Z. z.
 
-- 31c) § 70 ods. 1 písm. d) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 31c) § 83 ods. 1 písm. c) zákona č. 281/2015 Z. z.
 
 - 31d) § 10 ods. 1 písm. b) Trestného zákona.
 
@@ -118,11 +112,11 @@
 
 - 31fa) § 63 ods. 1 písm. d) zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- 31g) § 13 ods. 1 písm. f) až h) zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 31g) § 16 ods. 1 písm. d) a e) zákona č. 281/2015 Z. z.
 
-- 31h) § 119 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 31h) § 139 ods. 1 písm. b) zákona č. 281/2015 Z. z.
 
-- 32) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov, zákon č. 370/1997 Z. z. v znení neskorších predpisov.
+- 32) Napríklad zákon č. 73/1998 Z. z. v znení neskorších predpisov, zákon č. 200/1998 Z. z. v znení neskorších predpisov, zákon č. 281/2015 Z. z.
 
 - 33) § 25 ods. 1 zákona č. 119/1990 Zb. o súdnej rehabilitácii.
 
@@ -130,11 +124,11 @@
 
 - 33a) § 53a a § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- 33b) § 62 ods. 3 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 33b) § 173 zákona č. 281/2015 Z. z.
 
-- 33c) § 65 ods. 3 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 33c) § 179 zákona č. 281/2015 Z. z.
 
-- 33d) Napríklad § 35 ods. 10 a § 43 ods. 5 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 34 ods. 8 a § 40 ods. 4 zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov, § 52 ods. 5 zákona č. 315/2001 Z. z., § 62 ods. 2 a § 65 ods. 3 a 4 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 33d) Napríklad § 35 ods. 10 a § 43 ods. 5 zákona č. 73/1998 Z. z. v znení neskorších predpisov, § 34 ods. 8 a § 40 ods. 4 zákona č. 200/1998 Z. z. v znení neskorších predpisov, § 104 zákona č. 154/2001 Z. z. v znení neskorších predpisov, § 52 ods. 5 zákona č. 315/2001 Z. z., § 173 a 179 zákona č. 281/2015 Z. z.
 
 - 33e) § 261 ods. 3 a § 293l ods. 1 zákona č. 461/2003 Z. z. v znení zákona č. 310/2006 Z. z.
 
@@ -152,7 +146,9 @@
 
 - 35a) § 58 ods. 1 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 35aa) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
+- 35aa) § 69b až 69d zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.
+
+- 35ab) Zákon č. 285/2009 Z. z. o poskytovaní príspevku účastníkom národného boja za oslobodenie a vdovám a vdovcom po týchto osobách a o zmene a doplnení niektorých zákonov.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -160,7 +156,7 @@
 
 - 36a) Napríklad zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
-- 37) Napríklad § 41 až 43 zákona č. 380/1997 Z. z. v znení zákona č. 563/2001 Z. z., zákon č. 283/2002 Z. z. o cestovných náhradách.
+- 37) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 38) § 136 zákona č. 311/2001 Z. z. Zákonník práce.
 
@@ -180,8 +176,6 @@
 
 - 39d) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 592/2006 Z. z. v znení neskorších predpisov, zákon č. 274/2007 Z. z. v znení neskorších predpisov, zákon č. 285/2009 Z. z. v znení neskorších predpisov.
 
-- 40) § 76 zákona č. 380/1997 Z. z.
-
 - 41) Zákon č. 420/1991 Zb. v znení neskorších predpisov.
 
 - Zákon č. 66/1994 Z. z. v znení neskorších predpisov.
@@ -192,11 +186,11 @@
 
 - Zákon č. 154/2001 Z. z.
 
-- 41a) § 97 a 98 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 41a) § 175 zákona č. 281/2015 Z. z.
 
 - § 48 zákona č. 385/2000 Z. z. v znení neskorších predpisov. § 59 zákona č. 154/2001 Z. z. v znení neskorších predpisov.
 
-- 42) Napríklad § 79 ods. 1 písm. a) zákona č. 385/2000 Z. z. v znení neskorších predpisov, § 94 ods. 1 písm. a) a b) zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 148 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 42) Napríklad § 79 ods. 1 písm. a) zákona č. 385/2000 Z. z. v znení neskorších predpisov, § 94 ods. 1 písm. a) a b) zákona č. 312/2001 Z. z. v znení neskorších predpisov, § 166 zákona č. 281/2015 Z. z.
 
 - 43) Zákon č. 382/1990 Zb. o rodičovskom príspevku v znení neskorších predpisov.
 
@@ -208,9 +202,9 @@
 
 - 45b) § 54 ods. 1 a 2 zákona č. 315/2001 Z. z. v znení neskorších predpisov.
 
-- 46) § 63 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 46) § 74 zákona č. 281/2015 Z. z.
 
-- 47) § 65 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 47) § 76 zákona č. 281/2015 Z. z.
 
 - § 46 zákona č. 73/1998 Z. z. v znení neskorších predpisov.
 
