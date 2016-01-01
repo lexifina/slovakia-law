@@ -12,12 +12,16 @@
 
 - 5a) § 82 ods. 3 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov a v znení zákona č. 300/2012 Z. z.
 
+- 5b) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
+
+- 5c) Napríklad čl. 107 a 108 zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa čl. 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214. 9. 8. 2008).
+
+- 5d) STN 73 0540-2: 2012 Tepelná ochrana budov, Tepelnotechnické vlastnosti stavebných konštrukcií a budov, Časť 2: Funkčné požiadavky.
+
+- 5e) Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č. 276/2015 Z. z.
+
 - 6) § 23a ods. 1 zákona Slovenskej národnej rady č. 138/1992 Zb. v znení zákona č. 236/2000 Z. z.
 
 - 7) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 8) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
-- 9) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 383/2008 Z. z.
-
-- 10) Napríklad čl. 107 a 108 zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa čl. 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214. 9. 8. 2008).

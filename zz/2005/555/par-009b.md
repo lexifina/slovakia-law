@@ -2,7 +2,7 @@
 
 (1) Žiadateľom o dotáciu môže byť právnická osoba a fyzická osoba-podnikateľ.
 
-(2) Žiadateľ musí spĺňať požiadavky podľa osobitného predpisu.<sup>9</sup>) Ak je dotácia štátnou pomocou,<sup>10</sup>) musia byť splnené aj požiadavky podľa predpisov o štátnej pomoci.
+(2) Žiadateľ musí spĺňať požiadavky podľa osobitného predpisu.<sup>5b</sup>) Ak je dotácia štátnou pomocou,<sup>5c</sup>) musia byť splnené aj požiadavky podľa predpisov o štátnej pomoci.
 
 (3) Dotáciu možno poskytnúť na základe písomnej žiadosti o poskytnutie dotácie (ďalej len „žiadosť“), ktorú žiadateľ môže podať ministerstvu až na základe oznámenia o podávaní žiadostí (ďalej len „oznámenie“) zverejnenom na webovom sídle ministerstva.
 
