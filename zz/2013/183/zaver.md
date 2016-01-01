@@ -1,1 +1,0 @@
-Peter Žiga v. r.
