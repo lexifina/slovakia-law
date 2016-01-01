@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 233/2011 Z. z. [Vzor 02](../assets/24e0b5e257104ebcb124f170434b3117e47c492430c9bdf1b86bfb5f4ef44662.pdf)
+Príloha č. 2 k vyhláške č. 233/2011 Z. z. [Vzor 02](../assets/af04113c7342b48d73d4b50f4328429a6a4f48e607904e38942dc6bf4e1c9892.pdf)

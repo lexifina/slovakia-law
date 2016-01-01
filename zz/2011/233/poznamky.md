@@ -1,1 +1,0 @@
-- 1) Vyhláška Štatistického úradu Slovenskej republiky č. 114/2011 Z. z., ktorou sa vydáva Štatistická klasifikácia odborov vzdelania.
