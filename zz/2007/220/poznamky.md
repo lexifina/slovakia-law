@@ -8,6 +8,8 @@
 
 - 5) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
+- 5a) § 18aa zákona č. 308/2000 Z. z. v znení zákona č. 278/2015 Z. z.
+
 - 6) Napríklad zákon č. 308/2000 Z. z. v znení neskorších predpisov, zákon č. 610/2003 Z. z. v znení neskorších predpisov.
 
 - 7) Napríklad čl. 2 ods. 3 písm. i), j) a r), čl. 3 ods. 3 písm. i), j) a p), čl. 4 ods. 4 písm. j) a k) a čl. 5 ods. 3 písm. i) a j) ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
