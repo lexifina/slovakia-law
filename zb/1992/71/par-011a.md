@@ -4,11 +4,9 @@
 
 - a) platobnou kartou,
 
-- b) kolkovými známkami,
+- b) v hotovosti alebo
 
-- c) v hotovosti alebo
-
-- d) elektronicky prostredníctvom ústredného portálu verejnej správy.
+- c) elektronicky prostredníctvom ústredného portálu verejnej správy.
 
 (2) Pri podaní návrhu na zápis prostredníctvom jednotného kontaktného miesta podľa osobitného zákona je poplatok splatný pri podaní návrhu na zápis jednotnému kontaktnému miestu.
 
