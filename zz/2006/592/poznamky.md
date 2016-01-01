@@ -12,6 +12,8 @@
 
 - 5) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 5a) § 69b až 69d zákona č. 461/2003 Z. z. v znení zákona č. 140/2015 Z. z.
+
 - 6) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012) v platnom znení.
 
 - Čl. 12 ods. 12.1 Protokolu o štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 326, 26. 10. 2012).
