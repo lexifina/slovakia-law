@@ -324,6 +324,12 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 54. V § 36 ods. 6 sa za slovo „vyhlásenie“ vkladá čiarka a slová „ktorého vzor určí finančné riaditeľstvo a uverejní ho na svojom webovom sídle,“.
 
+- 55. V § 38 ods. 1 sa na konci pripájajú tieto slová: „a tiež o uplatnenie postupu podľa § 50“.
+
+- 56. V § 38 ods. 2 sa za slovo „zúčtovania“ vkladajú slová „vrátane uplatnenia postupu podľa § 50“.
+
+- 57. V § 38 ods. 3 sa za slová „zúčtovanie podľa odsekov 1 a 2“ vkladajú slová „a uplatní postup podľa § 50“.
+
 - 58. V § 38 ods. 7 a § 40 ods. 5 sa slová „3,32 eura“ nahrádzajú slovami „5 eur“.
 
 - 59. V § 38 ods. 9 sa na konci pripája táto veta: „Rovnaký postup sa použije, ak správca dane zistí, že zamestnávateľ, ktorý je platiteľom dane, nevystavil a nedoručil v lehote ustanovenej v tomto zákone doklad uvedený v § 39 ods. 5 a 6.“.
@@ -339,6 +345,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - „(6)
 
 - Zamestnávateľ, ktorý je platiteľom dane, je povinný doručiť zamestnancovi doklad o vykonanom ročnom zúčtovaní (§ 38 ods. 10) najneskôr do konca apríla roku, v ktorom zamestnancovi vykonal ročné zúčtovanie. Na žiadosť zamestnanca je zamestnávateľ, ktorý je platiteľom dane, povinný do desiatich dní od doručenia žiadosti vystaviť doplnený doklad o vykonanom ročnom zúčtovaní, a to o údaj o vysporiadaní daňového nedoplatku, preplatku, zamestnaneckej prémie alebo daňového bonusu vyplývajúceho z tohto ročného zúčtovania. Zamestnávateľ, ktorý je platiteľom dane, za zdaňovacie obdobie, za ktoré vystavil doplnený doklad o vykonanom ročnom zúčtovaní nebude po dátume vyplnenia tohto dokladu zrážať alebo vyplácať sumy daňového nedoplatku, preplatku, zamestnaneckej prémie alebo daňového bonusu uvedené v tomto doklade.“.
+
+- 63. V § 39 odsek 7 znie:
+
+- „(7)
+
+- Zamestnávateľ, ktorý je platiteľom dane a ktorý vykonal zamestnancovi ročné zúčtovanie, uvedie do tlačiva podľa odseku 9 písm. b) údaje na zabezpečenie postupu podľa § 50 za tohto zamestnanca, ale len vtedy, ak zamestnanec splnil podmienky podľa § 50 ods. 6 a požiadal zamestnávateľa, ktorý je platiteľom dane, na žiadosti o vykonanie ročného zúčtovania (§ 38) aj o uplatnenie postupu podľa § 50.“.
+
+- 64. V § 39 ods. 9 písm. b) sa na konci pripájajú tieto slová: „a vyhlásenie na účely postupu podľa § 50 obsahujúce údaje uvedené v § 50 ods. 3“.
 
 - 65. V § 39 ods. 11 sa na konci pripája táto veta: „Ak bol zamestnávateľ, ktorý je platiteľom dane, povinný podať prehľad a tento nepodal v lehote uvedenej v § 49 ods. 2 na podanie prehľadu, správca dane použije postup podľa osobitného predpisu,<sup>132a</sup>) ak zamestnávateľovi, ktorý je platiteľom dane, za tento kalendárny mesiac vznikla povinnosť odviesť preddavky na daň z príjmov zo závislej činnosti alebo žiadal správcu dane o vyplatenie daňového bonusu alebo zamestnaneckej prémie.“.
 
@@ -612,9 +626,19 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 8 eur pre jedného prijímateľa, ak je daňovníkom právnická osoba.“.
 
+- 96. V § 50 ods. 3 sa vypúšťajú písmená a) a c).
+
+- Doterajšie písmená b), d) a e) sa označujú ako písmena a),b) a c).
+
 - 97. V § 50 ods. 4 sa vypúšťa písmeno i).
 
 - Doterajšie písmeno j) sa označuje ako písmeno i).
+
+- 98. V § 50 ods. 6 písmeno a) znie:
+
+- „a)
+
+- daňovník nemá do lehoty na podanie daňového priznania alebo hlásenia daňový nedoplatok, pričom daň za zdaňovacie obdobie, za ktoré podáva vyhlásenie, zaplatil v lehote podľa § 49 ods. 2, ak podáva daňové priznanie alebo v lehote podľa § 38 ods. 7, ak mu zamestnávateľ vykonal ročné zúčtovanie,“.
 
 - 99. V § 50 ods. 8 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Ak predložené vyhlásenie obsahuje aj iné nesprávne údaje, správca dane vyzve daňovníka na ich opravu, a ak nebudú nedostatky vo vyhlásení v lehote určenej vo výzve odstránené, nárok na poukázanie podielu zaplatenej dane podľa odseku 1 zanikne.“.
 
@@ -695,6 +719,14 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 - Prechodné ustanovenie k úprave účinnej od 1. marca 2014
 
 - Ak Slovenská republika uzatvorí medzinárodnú zmluvu o zamedzení dvojitého zdanenia alebo medzinárodnú zmluvu o výmene informácií týkajúcich sa daní v priebehu zdaňovacieho obdobia roku 2014, príslušný štát bude doplnený do zoznamu podľa § 2 písm. x) bez ohľadu na skutočnosť, že medzinárodná zmluva o zamedzení dvojitého zdanenia alebo medzinárodná zmluva o výmene informácií týkajúcich sa daní nadobudne účinnosť po 31. decembri 2014.“.
+
+- 108. Za § 52zb sa vkladá § 52zc, ktorý vrátane nadpisu znie:
+
+- „§ 52zc
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2016
+
+- Postup podľa § 39 ods. 7 a ods. 9 písm. b) a § 50 ods. 6 písm. a) v znení účinnom od 1. januára 2016 sa použije po prvýkrát pri poukázaní podielu zaplatenej dane po 31. decembri 2015.“.
 
 - 109. V prílohe č. 3 sa vypúšťajú slová „Belgicko“, „Guernsey“, „Ostrov Man (Isle of Man)“, „Britské panenské ostrovy (British Virgin Islands)“, „Ostrovy Turks a Caicos“ a slová „Holandské Antily“ sa nahrádzajú slovami „Sint Maarten, Curaçao, Bonaire, Sint Eustatius, Saba“.
 
