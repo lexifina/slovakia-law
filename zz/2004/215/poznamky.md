@@ -72,6 +72,8 @@
 
 - 28b) § 5 ods. 7 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 195/2014 Z. z.
 
+- 28c) § 6 ods. 2 písm. e) zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
+
 - 29) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 30) Zákonník práce v znení neskorších predpisov.
@@ -93,3 +95,5 @@
 - 37) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 38) § 29l zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 362/2014 Z. z.
+
+- 39) § 29n zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 338/2015 Z. z.
