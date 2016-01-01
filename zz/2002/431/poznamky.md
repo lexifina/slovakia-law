@@ -64,7 +64,7 @@
 
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
-- 22c) § 2 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+- 22c) § 2 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 22ca) § 14 ods. 2 zákona č. 595/2003 Z. z. v znení zákona č. 688/2006 Z. z.
 
@@ -82,7 +82,7 @@
 
 - 26aa) Napríklad § 25 zákona č. 147/1997 Z. z., § 34 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
-- 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 35 ods. 2 zákona č. 34/2002 Z. z.
+- 27) Napríklad § 39 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 33 ods. 3 zákona č. 213/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z. v znení zákona č. 463/2013 Z. z.
 
 - 27a) §161d ods. 2 Obchodného zákonníka.
 
@@ -92,13 +92,21 @@
 
 - 28aa) § 8 písm. f ) zákona č. 566/2001 Z. z.
 
+- 28ab) Napríklad § 15 zákona č. 429/2002 Z. z. v znení neskorších predpisov, § 76 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 28b) § 23 zákona č. 540/2007 Z. z.
 
 - 28c) Napríklad § 18 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
+- 28d) Príloha č. 1 sekcia B divízia 05 až 08 nariadenia Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v platnom znení.
+
+- 28e) Príloha č. 1 sekcia A divízia 02 skupina 02.2 nariadenia (ES) č. 1893/2006 v platnom znení.
+
 - 29a) Sekcia C prílohy vyhlášky Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 29b) Napríklad zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
+
+- 29ba) § 5 zákona č. 523/2004 Z. z.
 
 - 29c) § 2 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -177,8 +185,6 @@
 - 37b) § 119 zákona č. 203/2011 Z. z.
 
 - 38) Obchodný zákonník v znení neskorších predpisov.
-
-- 39) § 95 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 41) § 659 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
