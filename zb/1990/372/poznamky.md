@@ -24,9 +24,11 @@
 
 - 3ba) § 74 ods. 2 zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
 
-- 3c) § 16 zákona č. 8/2009 Z. z.
+- 3bb) § 2 ods. 1 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3d) § 137 ods. 2 písm. g) až o) a q) až x) zákona č. 8/2009 Z. z. v znení zákona č. 313/2011 Z. z.
+- 3c) § 16, § 27 ods. 3, § 34 ods. 1, § 49 ods. 2, § 59 ods. 3 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
+
+- 3d) § 137 ods. 2 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 3e) § 49a zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2009 Z. z.
 
