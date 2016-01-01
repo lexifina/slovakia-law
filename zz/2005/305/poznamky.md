@@ -6,7 +6,9 @@
 
 - 3a) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov.
 
-- 4) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
+- 3aa) Čl. 5 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2015 Z. z.
+
+- 4) Zákon č. 36/2005 Z. z. v znení neskorších predpisov.
 
 - 5) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
@@ -21,6 +23,10 @@
 - 9a) § 179,180 a 367 Trestného zákona.
 
 - 9b) Zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov.
+
+- 9c) § 37 ods. 4 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
+
+- 9d) § 37 ods. 2 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
 - 10) § 37 ods. 3 zákona č. 36/2005 Z. z.
 
@@ -110,6 +116,8 @@
 
 - 38a) § 92 a 93 Trestného zákona.
 
+- 38aa) § 45 ods. 4 a § 50 ods. 1 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
+
 - 38b) § 7 ods. 8 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2014 Z. z.
 
 - 38c) § 31 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -140,6 +148,8 @@
 
 - 44b) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
 
+- 44ba) § 5 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+
 - 44c) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
 
 - 45) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
@@ -161,8 +171,6 @@
 - 49a) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
 - 50) Napríklad Trestný zákon, Trestný poriadok, Občiansky súdny poriadok.
-
-- 51) § 49 ods. 1 zákona č. 36/2005 Z. z.
 
 - 52) § 60, § 102 ods. 3 zákona č. 36/2005 Z. z.
 
@@ -227,6 +235,18 @@
 - 73) § 12 ods. 2 až 4 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
 
 - 74) § 12 a 19 zákona č. 317/2009 Z. z.
+
+- 74a) Napríklad § 25 a 45 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+
+- 74b) § 12 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 74c) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 74d) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
+
+- 74e) § 179b Občianskeho súdneho poriadku v znení zákona č. 175/2015 Z. z.
+
+- 74f) § 10 ods. 8 až 10 Trestného poriadku v znení neskorších predpisov.
 
 - 75) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
