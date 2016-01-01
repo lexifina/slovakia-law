@@ -22,7 +22,7 @@ Príloha č. 2 k zákonu č. 541/2004 Z. z.
 
   - f) doklad o schválení typu prepravného zariadenia,
 
-  - g) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu, ak sa vyžaduje,
+  - g) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu, ak sa vyžaduje podľa osobitného predpisu,<sup>7b</sup>)
 
   - h) ak ide o povolenie na tranzit jadrových materiálov a vyhoretého jadrového paliva, doklad od príslušného orgánu štátu odosielateľa, že je zabezpečené ich spätné prevzatie, pokiaľ sa tranzit nedokončí,
 

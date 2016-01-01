@@ -38,6 +38,10 @@
 
 - 7a) Dohovor o jadrovej bezpečnosti (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 163/1997 Z. z.).
 
+- 7b) Zákon č. 54/2015 Z. z. o občianskoprávnej zodpovednosti za jadrovú škodu a o jej finančnom krytí a o zmene a doplnení niektorých zákonov.
+
+- 7c) § 4 ods. 4 zákona č. 54/2015 Z. z.
+
 - 8) Napríklad § 31 ods. 2 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov, zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 9) Nariadenie Rady (ES) č. 428/2009 z 5. mája 2009, ktorým sa stanovuje režim Spoločenstva na kontrolu vývozu, prepravy, sprostredkovania a tranzitu položiek s dvojakým použitím (prepracované znenie) (Ú. v. EÚ L 134, 29. 5. 2009).
@@ -47,6 +51,10 @@
 - 10a) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 11aa) § 8 ods. 1 zákona č. 54/2015 Z. z.
+
+- 11ab) § 8 ods. 5 až 8 zákona č. 54/2015 Z. z.
 
 - 11b) § 24 a 25 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 

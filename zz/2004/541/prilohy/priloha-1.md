@@ -76,7 +76,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - m) koncepčný plán vyraďovania jadrového zariadenia z prevádzky,
 
-    - n) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu okrem úložiska,
+    - n) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu okrem úložiska podľa osobitného predpisu,<sup>7b</sup>)
 
     - o) systém odbornej prípravy zamestnancov,
 
@@ -112,7 +112,7 @@ Príloha č. 1 k zákonu č. 541/2004 Z. z.
 
     - g) plán nakladania a prepravy rádioaktívnych odpadov a plán nakladania s konvenčným odpadom z vyraďovania,
 
-    - h) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu,
+    - h) doklad o zabezpečení finančného krytia zodpovednosti za jadrovú škodu podľa osobitného predpisu,<sup>7b</sup>)
 
     - i) program kontrol vybraných zariadení,
 
