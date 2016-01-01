@@ -78,9 +78,7 @@
 
 - 32) § 102 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 33) Zákon Národnej rady Slovenskej republiky č. 200/1994 Z. z. o Komore reštaurátorov a o výkone reštaurátorskej činnosti jej členov.
-
-- 34) § 5 ods. 2 písm. a) až d) zákona Národnej rady Slovenskej republiky č. 200/1994 Z. z.
+- 33) Zákon Národnej rady Slovenskej republiky č. 200/1994 Z. z. o Komore reštaurátorov a o výkone reštaurátorskej činnosti jej členov v znení neskorších predpisov.
 
 - 35) § 95 zákona č. 50/1976 Zb. v znení zákona č. 229/1997 Z. z.
 
