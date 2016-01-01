@@ -1,10 +1,10 @@
 # § 37a
 
-(1) Ustanovenia § 34 až 36 sa nevzťahujú, ak tento zákon neustanovuje inak, na
+(1) Ustanovenia § 34 a 35 sa nevzťahujú, ak tento zákon neustanovuje inak, na
 
 - a) podielové listy otvoreného podielového fondu a na cenné papiere zahraničných subjektov kolektívneho investovania,
 
-- b) štát, obec a vyšší územný celok, verejnú medzinárodnú organizáciu, ktorej členom je najmenej jeden členský štát, Európsku centrálnu banku a centrálne banky členských štátov bez ohľadu na to, či vydávajú, alebo nevydávajú akcie alebo iné cenné papiere, a
+- b) štát, obec a vyšší územný celok, verejnú medzinárodnú organizáciu, ktorej členom je najmenej jeden členský štát, Európsku centrálnu banku, Európsky nástroj finančnej stability a iný mechanizmus zriadený s cieľom zachovať finančnú stabilitu európskej menovej únie poskytovaním dočasnej finančnej pomoci členským štátom, ktorých menou je euro, a centrálne banky členských štátov bez ohľadu na to, či vydávajú, alebo nevydávajú akcie alebo iné cenné papiere, a
 
 - c) emitentov, ktorí vydávajú výhradne dlhové cenné papiere prijaté na obchodovanie na regulovanom trhu, pričom menovitá hodnota jedného dlhového cenného papiera je najmenej 100 000 eur, alebo ak ide o dlhové cenné papiere vydané v inej mene ako euro, je menovitá hodnota jedného dlhového cenného papiera k dátumu emisie v prepočte najmenej 100 000 eur,
 

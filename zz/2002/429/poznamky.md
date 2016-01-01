@@ -162,7 +162,7 @@
 
 - Nariadenie Európskej komisie (ES) č. 1725/2003 z 29. septembra 2003, ktorým sa prijímajú určité medzinárodné účtovné štandardy, v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 (Ú. v. EÚ L 261, 13. 10. 2003, Mimoriadne vydanie Ú. v. EÚ 13/zv. 32).
 
-- 53e) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 53e) § 20a a 20b zákona č. 431/2002 Z. z. v znení zákona č. 130/2015 Z. z.
 
 - 53f) § 176b ods. 2 Obchodného zákonníka.
 
@@ -177,6 +177,12 @@
 - 58) § 5 písm. j) zákona č. 594/2003 Z. z.
 
 - 58a) § 5 ods. 1 písm. a), d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 58aa) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Národnej banky Slovenska č. 23/2014, ktorým sa ustanovujú národné voľby pre inštitúcie podľa osobitného predpisu (oznámenie č. 405/2014 Z. z.).
+
+- 58ab) Nariadenie Komisie (ES) č. 2273/2003 z 22. decembra 2003, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2003/6/ES, pokiaľ ide o výnimky pre programy spätného výkupu a stabilizácie finančných nástrojov (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 6, Ú. v. EÚ L 336, 23. 12. 2003).
 
 - 58b) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
