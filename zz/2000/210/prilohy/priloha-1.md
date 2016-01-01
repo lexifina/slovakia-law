@@ -94,7 +94,7 @@ Príloha č. 1 k vyhláške č. 210/2000 Z. z.
 
     - 1.3.17 | Plynomery membránové vrátane plynomerov s teplotnou korekciou<sup>2</sup>) | | | | 13
 
-    - | a) do veľkosti G6 vrátane pri priemernej ročnej spotrebe do 500 m<sup>3</sup> | áno | áno | 15 rokov |
+    - | a) s membránami z prírodného materiálu do veľkosti G6 vrátane, pri priemernej ročnej spotrebe do 500 m<sup>3</sup> a so syntetickými membránami do veľkosti G6 vrátane | áno | áno | 15 rokov |
 
     - | b) ostatné membránové plynomery | áno | áno | 10 rokov |
 

@@ -1,3 +1,3 @@
 Príloha č. 29 k vyhláške č. 210/2000 Z. z.
 
-- VÁHY S AUTOMATICKOU ČINNOSŤOU DISKONTINUÁLNE SČÍTAVACIE [Príloha 29](../assets/affd3d41cf2a6d199ac7e93103a17f0c7cc690ab69f0cf05a32f52a11ef2fc1a.pdf)
+- VÁHY S AUTOMATICKOU ČINNOSŤOU DISKONTINUÁLNE SČÍTAVACIE [Príloha 29](../assets/44f4e13861fcee0e01b4d1fbab0dd3d533286bb99ff529d5d179ceef4df220e8.pdf)

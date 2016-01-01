@@ -1,3 +1,3 @@
 Príloha č. 45 k vyhláške č. 210/2000 Z. z.
 
-- AKUSTICKÉ KALIBRÁTORY [Príloha 45](../assets/cbc4e03f8dabb9d199096a3af246a81f6cbebdb377486e9fb1df16f7fb128ce7.pdf)
+- AKUSTICKÉ KALIBRÁTORY [Príloha 45](../assets/2421c8dad8922b5078af6c59fc872be6d0cecf99a087e0678b8fe5371d1542d8.pdf)

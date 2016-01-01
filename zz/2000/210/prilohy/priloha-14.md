@@ -1,3 +1,3 @@
 Príloha č. 14 k vyhláške č. 210/2000 Z. z.
 
-- ELEKTROMERY [Príloha 14](../assets/5a4c032e54e3b5bd5fb214c089be00f29585d6aa9090e3d63459203ac1ad2469.pdf)
+- ELEKTROMERY [príloha](../assets/b20aa9b97d7d31024eedad5bc297f104fc77536a53366aabcd91457878925dc6.pdf)
