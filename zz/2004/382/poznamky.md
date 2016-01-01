@@ -4,6 +4,8 @@
 
 - § 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
+- 2a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
+
 - 3) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov, § 10 zákona č. 431/2002 Z. z. o účtovníctve, § 15 zákona Národnej rady Slovenskej republiky č. 289/1995 Z. z. o dani z pridanej hodnoty.
 
 - 3a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
