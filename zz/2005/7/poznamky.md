@@ -2,11 +2,13 @@
 
 - 1a) § 408a Obchodného zákonníka.
 
+- 1b) § 67a ods. 2 Obchodného zákonníka.
+
 - 2) § 9 ods. 3 a § 42 ods. 2 Zákonníka práce.
 
 - 3) § 116 Občianskeho zákonníka.
 
-- 3a) § 108 ods. 1 a § 162 ods. 3 Obchodného zákonníka.
+- 3a) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
 - 4) § 42 ods. 3 Občianskeho súdneho poriadku.
 
@@ -53,6 +55,8 @@
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 14a) § 279 ods. 2 Občianskeho súdneho poriadku, § 71 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 14b) § 13a ods. 1 Obchodného zákonníka.
 
 - 15) Napríklad zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
