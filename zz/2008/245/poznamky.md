@@ -140,7 +140,7 @@
 
 - 60) § 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 61) § 4 zákona č. 544/2010 Z. z. o dotáciách v pôsobnosti Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v znení zákona č. 96/2013 Z. z.
+- 61) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.
 
 - 62) Zákon č. 601/2003 Z. z. v znení neskorších predpisov.
 
