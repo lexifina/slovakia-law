@@ -68,7 +68,7 @@
 
 - 34) § 2 nariadenia vlády Slovenskej republiky č. 617/2004 Z. z., ktorým sa ustanovujú citlivé oblasti a zraniteľné oblasti.
 
-- 35) § 6 vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 199/2008 Z. z., ktorou sa ustanovuje Program poľnohospodárskych činností vo vyhlásených zraniteľných oblastiach v znení vyhlášky Ministerstva pôdohospodárstva Slovenskej republiky č. 462/2011 Z. z.
+- 35) § 10c zákona č. 136/2000 Z. z. o hnojivách v znení zákona č. 394/2015 Z. z.
 
 - 36) Čl. 46 ods. 4 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 

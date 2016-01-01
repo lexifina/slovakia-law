@@ -14,7 +14,7 @@ Príloha č. 7 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Horčica biela | Sinapis alba
 
-- Hrach siaty roľný | Pisum sativum
+- Hrach siaty | Pisum sativum
 
 - Konopa siata | Cannabis sativa
 

@@ -8,6 +8,8 @@ Príloha č. 5 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Krajinné prvky: | |
 
+- | Živé ploty | 2
+
 - | Samostatne stojaci strom | 1,5
 
 - | Stromy v rade | 2

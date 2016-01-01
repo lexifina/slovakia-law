@@ -40,7 +40,7 @@ Príloha č. 6 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Ostatné |
 
-- Hrach siaty roľný | Pisum sativum
+- Hrach siaty | Pisum sativum
 
 - Lucerna siata | Medicago sativa
 
