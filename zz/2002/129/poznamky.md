@@ -2,6 +2,10 @@
 
 - 1a) § 17 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 
+- 1aa) § 1 ods. 2 zákona č. 579/2004 Z. z. v znení neskorších predpisov.
+
+- 1aaa) § 5 ods. 3 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 3) § 16 ods. 6 a 7 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 117/1998 Z. z.§ 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 348/1998 Z. z. o zabezpečovaní technických a prevádzkových podmienok informačného systému civilnej ochrany.
