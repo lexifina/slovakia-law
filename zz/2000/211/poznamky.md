@@ -106,7 +106,7 @@
 
 - 22) Napríklad zákon č. 540/2001 Z. z. o štátnej štatistike, § 36 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, zákon Slovenskej národnej rady č. 81/1992 Zb. o Česko-slovenskej tlačovej kancelárii Slovenskej republiky v znení zákona č. 442/2003 Z. z., zákon č. 619/2003 Z. z. o Slovenskom rozhlase, zákon č. 16/2004 Z. z. o Slovenskej televízii.
 
-- 23) Napríklad zákon č. 383/1997 Z. z. Autorský zákon a zákon, ktorým sa mení a dopĺňa Colný zákon v znení neskorších predpisov, zákon č. 527/1990 Zb. o vynálezoch priemyselných vzorov a zlepšovacích návrhov; zákon č. 478/1992 Zb. o úžitkových vzoroch; zákon č. 132/1989 Zb. o ochrane práv k novým odrodám rastlín a plemenám zvierat; zákon č. 529/1991 Zb. o ochrane topografií polovodičových výrobkov.
+- 23) Napríklad zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch v znení neskorších predpisov, zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov v znení zákona č. 84/2007 Z. z., zákon č. 517/2007 Z. z. o úžitkových vzoroch a o zmene a doplnení niektorých zákonov v znení zákona č. 495/2008 Z. z., zákon č. 202/2009 Z. z. o právnej ochrane odrôd rastlín, zákon č. 185/2015 Z. z. Autorský zákon.
 
 - 24) § 82a ods. 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení zákona č. 33/2011 Z. z.
 
@@ -134,29 +134,43 @@
 
 - 27e) § 2 ods. 2 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 363/2007 Z. z.
 
+- 27ea) § 8 zákona č. 126/2015 Z. z. o knižniciach a o zmene a doplnení zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 38/2014 Z. z.
+
 - 27f) § 2 ods. 5 a 6 zákona č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 27g) § 3 ods. 1 zákona č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej.
+- 27g) § 2 ods. 1 zákona č. 126/2015 Z. z.
 
 - 27h) § 4 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
-- 27i) § 2 ods. 1 zákona č. 384/1997 Z. z. v znení zákona č. 416/2001 Z. z.
-
-- 27j) § 28 písm. a) výnosu Ministerstva financií Slovenskej republiky č. 312/2010 Z. z. o štandardoch pre informačné systémy verejnej správy.
+- 27j) § 29 písm. a) výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy
 
 - 27k) § 16 zákona č. 428/2002 Z. z.
 
+- 27ka) Napríklad § 55aa zákona č. 153/2001 Z. z. v znení zákona č. 192/2011 Z. z., § 10 ods. 4 až 6 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 27kb) Napríklad § 13 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 27l) Napríklad zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 200/2011 Z. z.
+
+- 27la) Zákon č. 185/2015 Z. z. Autorský zákon.
 
 - 27m) § 2 písm. j) zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
 
-- 27n) Napríklad zákon č. 275/2006 Z. z., výnos Ministerstva financií Slovenskej republiky č. 312/2010 Z. z.
+- 27ma) § 76 zákona č. 185/2015 Z. z.
+
+- 27n) Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+
+- 27na) § 52 výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. v znení výnosu č. 276/2014 Z. z.
+
+- 27nb) § 51 ods. 2 výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
+
+- 27nc) § 2 písm. w) výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
 
 - 27o) § 6 zákona č. 275/2006 Z. z. v znení zákona č. 570/2009 Z. z.
 
-- Výnos Ministerstva financií Slovenskej republiky č. 312/2010 Z. z.
+- Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z.
 
-- 27p) § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
+- 27p) § 2 ods. 1 zákona č. 663/2007 Z. z. o minimálnej mzde v znení zákona č. 460/2008 Z. z.
 
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

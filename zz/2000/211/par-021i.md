@@ -2,7 +2,7 @@
 
 (1) Lehota na vybavenie žiadosti je 20 pracovných dní. Zo závažných dôvodov môže povinná osoba predĺžiť túto lehotu, najviac však o 20 pracovných dní. Predĺženie lehoty povinná osoba oznámi žiadateľovi bez zbytočného odkladu, najneskôr do 21 dní odo dňa podania žiadosti alebo odo dňa odstránenia jej nedostatkov. V oznámení uvedie dôvody, ktoré viedli k predĺženiu lehoty.
 
-(2) Ak povinná osoba má určené podmienky opakovaného použitia informácií, na základe podanej žiadosti preskúma, či žiadateľ splnil tieto podmienky, a v prípade ich splnenia sprístupní rozhodnutím informácie na účel ich opakovaného použitia; inak žiadosť rozhodnutím odmietne. Žiadosť rozhodnutím odmietne aj vtedy, ak sa požadované informácie nesprístupňujú podľa § 21c a 21d; ak ide o informáciu podľa § 21c ods. 1 písm. c), povinná osoba v rozhodnutí žiadateľovi oznámi, kto je nositeľom práva duševného vlastníctva, ak je povinnej osobe známy.
+(2) Ak povinná osoba má určené podmienky opakovaného použitia informácií, na základe podanej žiadosti preskúma, či žiadateľ splnil tieto podmienky, a v prípade ich splnenia sprístupní rozhodnutím informácie na účel ich opakovaného použitia; inak žiadosť rozhodnutím odmietne. Žiadosť rozhodnutím odmietne aj vtedy, ak sa požadované informácie nesprístupňujú podľa § 21c a 21d; ak ide o informáciu podľa § 21c ods. 1 písm. c), povinná osoba v rozhodnutí žiadateľovi oznámi, kto je nositeľom práva duševného vlastníctva, ak je povinnej osobe známy. Povinnosť oznámiť, kto je nositeľom práva duševného vlastníctva, sa nevzťahuje na múzeá, galérie, knižnice, akademické knižnice a archívy.
 
 (3) Ak povinná osoba nemá určené podmienky opakovaného použitia informácií a ak sprístupňuje informácie podľa § 21d,
 
