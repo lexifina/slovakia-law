@@ -2,8 +2,6 @@
 
 - § 75 a 75a Občianskeho súdneho poriadku.
 
-- 2) § 49 zákona č. 36/2005 Z. z.
-
 - 3) § 45 až 47 zákona č. 36/2005 Z. z.
 
 - 4) § 48, § 50 až 52 zákona č. 36/2005 Z. z.
@@ -18,7 +16,7 @@
 
 - 7) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
-- 8) § 51 zákona č. 36/2005 Z. z.
+- 8) § 45 a 51 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
 - 9) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
