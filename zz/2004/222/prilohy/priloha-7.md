@@ -2,6 +2,28 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 
 - ZOZNAM TOVAROV SO ZNÍŽENOU SADZBOU DANE Číselné kódy Spoločného colného sadzobníka<sup>1</sup>) | | Opis tovaru
 
+- 0201 | | – Mäso z hovädzích zvierat, čerstvé alebo chladené okrem mäsa z divých hovädzích zvierat položky 0102
+
+- ex 0203 | | – Mäso zo svíň, čerstvé, chladené alebo mrazené - len mäso z domácich svíň, čerstvé alebo chladené
+
+- ex 0204 | | – Mäso z oviec alebo kôz, čerstvé, chladené alebo mrazené len mäso z oviec alebo kôz, čerstvé alebo chladené okrem mäsa z divých oviec a kôz
+
+- ex 0207 | | – Mäso a jedlé droby, z hydiny položky 0105, čerstvé, chladené alebo mrazené - len mäso a jedlé droby z domácej hydiny, čerstvé alebo chladené
+
+- ex 0208 | | – Ostatné mäso a jedlé mäsové droby, čerstvé, chladené alebo mrazené - len mäso a jedlé droby z domácich králikov, čerstvé alebo chladené
+
+- ex 0301 | | – Živé ryby - len sladkovodné ryby okrem ozdobných rýb položky 0301 11 00
+
+- ex 0302 | | – Ryby, čerstvé alebo chladené, okrem rybieho filé a ostatného rybieho mäsa položky 0304 - len sladkovodné ryby okrem ozdobných rýb položky 0301 11 00
+
+- ex 0304 | | – Rybie filé a ostatné rybie mäso (tiež mleté), čerstvé, chladené alebo mrazené - len rybie filé a ostatné rybie mäso (tiež mleté) zo sladkovodných rýb okrem ozdobných rýb položky 0301 11 00, čerstvé alebo chladené
+
+- ex 0401 | | – Mlieko a smotana nezahustené ani neobsahujúce pridaný cukor ani ostatné sladidlá - len mlieko
+
+- 0405 10 | | – Maslo
+
+- ex 1905 90 30 | | – Chlieb, neobsahujúci pridaný med, vajcia, syr alebo ovocie a obsahujúci v sušine najviac 5 % hmotnosti cukrov a najviac 5 % hmotnosti tuku - len čerstvý chlieb podľa osobitného predpisu.<sup>2</sup>)
+
 - ex2844 40 | | – Rádioaktívne prvky a izotopy a zlúčeniny, iné ako podpoložiek 2844 10, 2844 20 alebo 2844 30; zliatiny, disperzie (vrátane cermetov), keramické výrobky a zmesi obsahujúce tieto prvky, izotopy alebo zlúčeniny; rádioaktívne zvyšky - len pre zdravotníctvo
 
 - 2925 11 00 | | – Sacharín a jeho soli
@@ -45,3 +67,5 @@ Príloha č. 7 k zákonu č. 222/2004 Z. z., v znení zákona č. 656/2006 Z. z
 - 9619 00 | | Hygienické vložky a tampóny, detské plienky a prebaly pre deti, a podobné výrobky, z akéhokoľvek materiálu – určené len na inkontinenciu
 
   - 1) Nariadenie Rady (EHS) č. 2658/87 z 23. 7. 1987 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku v znení nariadenia Rady (EHS) č. 3528/89 z 23. 11. 1989, nariadenia Rady (EHS) č. 3845/89 z 18.12. 1989, nariadenia Rady (EHS) č. 2913/92 z 12. 10. 1992, nariadenia Rady (EHS) č. 1969/93 z 19. 7. 1993, nariadenia Rady (ES) č. 254/2000 z 31. 1. 2000.
+
+  - 2) § 2 písm. c) a i) vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 24/2014 Z. z. o pekárskych výrobkoch, cukrárskych výrobkoch a cestovinách.

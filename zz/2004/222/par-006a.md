@@ -4,4 +4,4 @@
 
 (2) Ak zdaniteľná osoba spĺňa podmienky na registráciu podľa § 5 alebo § 6 a je registrovaná podľa § 4, považuje sa za platiteľa registrovaného podľa § 5 alebo § 6 odo dňa, keď prestala mať v tuzemsku sídlo, miesto podnikania, prevádzkareň, bydlisko alebo miesto, kde sa obvykle zdržiava; túto skutočnosť je povinná oznámiť daňovému úradu do desiatich dní odo dňa, keď prestala mať v tuzemsku sídlo, miesto podnikania, prevádzkareň, bydlisko alebo miesto, kde sa obvykle zdržiava.
 
-(3) Daňový úrad vykoná zmenu osvedčenia o registrácii pre daň podľa odseku 1 alebo odseku 2 ku dňu, keď nastala skutočnosť, na základe ktorej došlo k zmene registrácie.
+(3) Daňový úrad vykoná zmenu osvedčenia o registrácii pre daň podľa odseku 1 alebo odseku 2 ku dňu, keď nastala skutočnosť, na základe ktorej došlo k zmene registrácie a to do 30 dní odo dňa doručenia oznámenia podľa odseku 1 alebo odseku 2.

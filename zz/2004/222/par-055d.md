@@ -14,7 +14,7 @@
 
 (7) Ak Daňový úrad Bratislava rozhodne o vrátení dane, vráti daň najneskôr do desiatich pracovných dní od uplynutia lehoty na oznámenie rozhodnutia o žiadosti o vrátenie dane podľa odseku 1, 5 alebo 6.
 
-(8) Daňový úrad Bratislava vráti daň na účet vedený v banke v tuzemsku alebo na základe žiadosti žiadateľa na účet vedený v zahraničnej banke v inom členskom štáte. Pri vrátení dane na účet vedený v zahraničnej banke v inom členskom štáte sa od sumy dane odpočítajú bankové poplatky za prevod peňažných prostriedkov.
+(8) Daňový úrad Bratislava vráti daň na účet vedený v banke v tuzemsku alebo na základe žiadosti žiadateľa na účet vedený v zahraničnej banke v inom členskom štáte, ak ju nemožno použiť podľa osobitného predpisu.<sup>27bd</sup>) Pri vrátení dane na účet vedený v zahraničnej banke v inom členskom štáte sa od sumy dane odpočítajú bankové poplatky za prevod peňažných prostriedkov.
 
 (9) Rozhodnutie, ktorým sa zamieta žiadosť o vrátenie celej dane alebo časti dane, musí obsahovať odôvodnenie. Proti rozhodnutiu o zamietnutí žiadosti o vrátenie celej dane alebo časti dane sa môže žiadateľ odvolať spôsobom a v lehote podľa osobitného predpisu.<sup>27c</sup>)
 
@@ -22,4 +22,4 @@
 
 (11) Daňový úrad Bratislava vráti daň za obdobie kalendárneho roka, na ktoré sa žiadosť o vrátenie dane vzťahuje, zníženú alebo zvýšenú o sumu, ktorá zodpovedá oprave dane vykonanej podľa § 55c ods. 4 a 5. Ak sa oprava dane vykoná podaním samostatného vyhlásenia podľa § 55c ods. 5, Daňový úrad Bratislava rozhodne o zvýšení alebo znížení dane na základe samostatného vyhlásenia o oprave dane.
 
-(12) Na účely odsekov 1, 5 a 6 sa rozhodnutie považuje za oznámené dňom odoslania dátovej správy na elektronickú adresu uvedenú v žiadosti o vrátenie dane.
+(12) Na účely § 55c ods. 6 a odsekov 1, 5 a 6 sa rozhodnutie považuje za oznámené dňom odoslania dátovej správy na elektronickú adresu uvedenú v žiadosti o vrátenie dane.

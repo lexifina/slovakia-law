@@ -72,7 +72,7 @@
 
 - 19) § 43h zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 20) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 20) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 20a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 186/2004 Z. z.
 
@@ -112,6 +112,8 @@
 
 - 27bc) § 32 zákona č. 563/2009 Z. z.
 
+- 27bd) § 79 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
 - 27c) § 72 zákona č. 563/2009 Z. z.
 
 - 27d) § 155 ods. 1 písm. f) druhý bod zákona č. 563/2009 Z. z.
@@ -141,6 +143,8 @@
 - 28d) Napríklad § 151j a 553c Občianskeho zákonníka.
 
 - 28da) Príloha I k nariadeniu Rady (EHS) č. 2658/87 o colnej a štatistickej nomenklatúre a o Spoločnom colnom sadzobníku (Mimoriadne vydanie Ú.v. EÚ, kap. 2/zv. 2; Ú.v. ES L 256, 7. 9. 1987) v platnom znení.
+
+- 28db) Nariadenie Komisie (EÚ) č. 1209/2014 z 29. októbra 2014, ktorým sa mení nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93.
 
 - 28e) § 2 písm. al) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
