@@ -38,6 +38,8 @@
 
 - 4eaa) § 8 zákona č. 466/2009 Z. z. o medzinárodnej pomoci pri vymáhaní niektorých finančných pohľadávok a o zmene a doplnení niektorých zákonov.
 
+- 4eaaa) § 10 zákona č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
 - 4eab) § 67 zákona č. 97/1963 Zb.
 
 - § 49 zákona č. 244/2002 Z. z.
