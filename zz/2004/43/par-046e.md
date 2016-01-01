@@ -16,7 +16,7 @@
 
 - f) o sume starobného dôchodku, predčasného starobného dôchodku alebo pozostalostného dôchodku vyplácaného poberateľovi,
 
-- g) o sume dôchodku podľa osobitného predpisu<sup>3</sup>) vyplácaného fyzickej osobe, ktorá je alebo bola sporiteľ,
+- g) o sume dôchodkovej dávky podľa osobitného predpisu<sup>3</sup>) vyplácanej fyzickej osobe, ktorá je alebo bola sporiteľ,
 
 - h) o sume výsluhového dôchodku podľa osobitného predpisu,<sup>38</sup>) invalidného výsluhového dôchodku podľa osobitného predpisu,<sup>38a</sup>) invalidného dôchodku podľa osobitného predpisu<sup>38b</sup>) a čiastočného invalidného dôchodku podľa osobitného predpisu,<sup>38b</sup>) vyplácaných fyzickej osobe, ktorá je alebo bola sporiteľ,
 
