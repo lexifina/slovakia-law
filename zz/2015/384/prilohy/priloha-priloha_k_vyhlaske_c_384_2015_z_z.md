@@ -1,0 +1,3 @@
+Príloha k vyhláške č. 384/2015 Z. z.
+
+- ŠTATISTICKÁ KLASIFIKÁCIA ZAMESTNANÍ SK ISCO-08 [priloha](../assets/749071e0388c93213e18e3841b67ba8e9927d50df45745d4a75546afe44e006f.pdf)
