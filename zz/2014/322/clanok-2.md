@@ -4,6 +4,12 @@ Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niekto
 
 - 1. V § 24 ods. 7 sa slová "piatich rokov" nahrádzajú slovami "jedného roka".
 
+- 2. V § 28 odsek 2 znie:
+
+- „(2)
+
+- Výberového konania sa môže zúčastniť ten, kto spĺňa predpoklady na vymenovanie za sudcu podľa § 5 ods. 1 písm. b) až d), f), g) a odseku 2, najneskôr v posledný deň výberového konania dosiahne vek aspoň 30 rokov, udelí písomný súhlas s overením predpokladov sudcovskej spôsobilosti Národným bezpečnostným úradom,<sup>4c</sup>) ak sa vo výberovom konaní umiestni ako prvý v poradí a absolvoval prípravné vzdelávanie v Justičnej akadémii Slovenskej republiky zamerané na osvojenie si zručností potrebných na výkon funkcie sudcu; podmienka prípravného vzdelávania sa nevzťahuje na osobu, ktorá vykonáva alebo vykonávala funkciu justičného čakateľa alebo vyššieho súdneho úradníka aspoň jeden rok.“.
+
 - 3. V § 28 ods. 5 sa na konci pripája táto veta: "Ústna časť výberového konania sa zaznamenáva aj s využitím technického zariadenia určeného na zaznamenávanie zvuku; takto vyhotovený záznam sa zverejňuje spolu so zápisnicou o priebehu výberového konania.".
 
 - 4. V § 28 ods. 9 sa za slová "príslušného súdu" vkladajú slová "a pozostáva z ústnej časti".
