@@ -16,6 +16,30 @@ Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých
 
 - 2. V § 7 ods. 15 sa na konci pripája táto veta: „Registrový súd rovnako preverí, či voči zanikajúcej spoločnosti a spoločnosti, na ktorú prechádza imanie zanikajúcej spoločnosti nebolo začaté konkurzné konanie alebo reštrukturalizačné konanie, vyhlásený konkurz alebo povolená reštrukturalizácia.“.
 
+- 3. § 7 sa dopĺňa odsekom 17, ktorý znie:
+
+- „(17)
+
+- Pred zápisom člena štatutárneho orgánu, člena dozorného orgánu, vedúceho organizačnej zložky podniku, vedúceho podniku zahraničnej osoby, vedúceho organizačnej zložky podniku zahraničnej osoby alebo prokuristu registrový súd v registri diskvalifikácií preverí, či osoba, ktorá sa má zapísať, nie je vylúčená.<sup>15aca</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 15aca znie:
+
+  - „15aca)
+
+  - § 13a Obchodného zákonníka.“.
+
+- 4. Za § 8a sa vkladá § 8b, ktorý znie:
+
+- „§ 8b
+
+- (1)
+
+- Súd aj bez návrhu vykoná výmaz zapísaného člena štatutárneho orgánu, člena dozorného orgánu, vedúceho organizačnej zložky podniku, vedúceho podniku zahraničnej osoby, vedúceho organizačnej zložky podniku zahraničnej osoby alebo prokuristu v obchodnej spoločnosti alebo v družstve, ktorý je vylúčený.<sup>15aca</sup>)
+
+- (2)
+
+- Potvrdenie o vykonaní výmazu a výpis z obchodného registra sa doručí zapísanej osobe.“.
+
 - 5. V § 10 odsek 2 znie:
 
 - „(2)

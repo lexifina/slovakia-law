@@ -8,6 +8,22 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 
 - 3. V § 3 ods. 3 sa na konci pripájajú tieto slová: „a ani záväzky prislúchajúce pohľadávkam podľa § 155a“.
 
+- 4. V § 4 ods. 1 sa na konci pripája táto veta: „Dlžníkovi hrozí úpadok najmä vtedy, ak je v kríze.<sup>1b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 1b znie:
+
+  - „1b)
+
+  - § 67a ods. 2 Obchodného zákonníka.“.
+
+- 5. V § 11 ods. 2 sa na konci pripájajú tieto vety: „Platí, že pre prípad porušenia povinnosti podať návrh na vyhlásenie konkurzu včas sa medzi spoločnosťou s ručením obmedzeným alebo akciovou spoločnosťou a osobou povinnou podať návrh na vyhlásenie konkurzu v jej mene, dojednala zmluvná pokuta vo výške rovnakej ako je polovica najnižšej hodnoty základného imania pre akciovú spoločnosť. Vzniku tohto nároku nebráni, ak je dlžník právnym nástupcom spoločnosti, ktorá bola zrušená bez likvidácie. Dohoda medzi spoločnosťou s ručením obmedzeným alebo akciovou spoločnosťou a osobou povinnou podať návrh na vyhlásenie konkurzu v jej mene, ktorá vylučuje alebo obmedzuje vznik nároku na zmluvnú pokutu, je zakázaná; spoločenská zmluva ani stanovy nemôžu obmedziť alebo vylúčiť vznik nároku na jej zaplatenie. Spoločnosť sa nemôže nároku na zaplatenie zmluvnej pokuty vzdať alebo uzatvoriť ohľadom tohto nároku dohodu o urovnaní; nepripúšťa sa započítanie, ani iný spôsob vyrovnania. Vznik nároku na zmluvnú pokutu sa nedotýka oprávnenia požadovať náhradu škody presahujúcu zmluvnú pokutu.“.
+
+- 6. V § 11 sa vypúšťa odsek 4.
+
+  - Doterajší odsek 5 sa označuje ako odsek 4.
+
+  - Poznámka pod čiarou k odkazu 3a sa vypúšťa.
+
 - 7. V § 12 ods. 2 písm. c) sa na konci vypúšťa slovo „alebo“.
 
 - 8. V § 12 ods. 2 písm. d) sa na konci bodka nahrádza čiarkou a pripája sa slovo „alebo“.
@@ -35,6 +51,16 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 - 13. V § 27 ods. 1 písm. f) sa slovo „alebo“ nahrádza čiarkou.
 
 - 14. V § 27 ods. 1 písm. g) sa na konci pripája slovo „alebo“.
+
+- 15. § 29 sa dopĺňa odsekmi 9 a 10, ktoré znejú:
+
+- „(9)
+
+- Ten, kto by s poukazom na výhradu vlastníctva mohol inak žiadať vylúčenie veci zo súpisu, môže svoje práva v konkurze uplatniť prihláškou rovnako, ako by uplatňoval zabezpečovacie právo. Takýto veriteľ prihláškou poveruje správcu na súpis a speňaženie veci s výhradou vlastníctva. Na postavenie takéhoto veriteľa sa použijú primerane ustanovenia upravujúce postavenie zabezpečeného veriteľa.
+
+- (10)
+
+- Odsek 9 sa použije rovnako aj pre uplatňovanie práv veriteľom, ktorý dlžníkovi prenajal vec za dohodnuté nájomné na dobu určitú, s cieľom prevodu prenajatej veci do vlastníctva dlžníka.“.
 
 - 16. V § 32 sa vypúšťa odsek 20.
 
@@ -72,6 +98,34 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 
 - Rozhodnutie podľa odseku 3 súd doručí správcovi a veriteľovi, o ktorého právach spojených s popretou pohľadávkou rozhodoval; rozhodnutie sa nezverejňuje v Obchodnom vestníku. Proti rozhodnutiu je oprávnený podať odvolanie veriteľ, o ktorého právach spojených s popretou pohľadávkou súd rozhodoval.“.
 
+- 18. Za § 45 sa vkladá § 45a, ktorý vrátane nadpisu znie:
+
+- „§ 45a
+
+- Výhrada vlastníctva a finančný lízing
+
+- (1)
+
+- Ak úpadca pred vyhlásením konkurzu predal vec s výhradou vlastníctva a kupujúcemu ju odovzdal, môže kupujúci vec vrátiť alebo trvať na plnení zmluvy.
+
+- (2)
+
+- Ak úpadca pred vyhlásením konkurzu kúpil a prevzal vec s výhradou vlastníctva bez toho, aby k nej nadobudol vlastnícke právo, nemôže predávajúci uplatňovať vrátenie veci, ak správca splní povinnosti podľa zmluvy bez zbytočného odkladu po tom, ako bol predávajúcim k plneniu vyzvaný.
+
+- (3)
+
+- Správca môže splniť povinnosti podľa odseku 2, ak sa vec u úpadcu nachádza pri konaní s odbornou starostlivosťou zistí, že ich splnenie je pre podstatu výhodnejšie.
+
+- (4)
+
+- Ak sa vec prevzatá podľa odseku 2 u úpadcu nenachádza, možno nároky v konkurze uplatňovať len prihláškou.
+
+- (5)
+
+- Ustanovenia odsekov 1 až 4 sa použijú primerane aj na zmluvu, predmetom ktorej je prenájom veci za dohodnuté nájomné na dobu určitú, s cieľom prevodu prenajatej veci do vlastníctva.“.
+
+- 19. V § 47 ods. 2 sa za slovo „deti“ vkladá čiarka a slová „konanie o povinnosti zaplatiť zmluvnú pokutu podľa § 11 ods. 2“.
+
 - 20. V § 56 sa na konci pripája táto veta: „Oprávnenie podľa prvej vety má správca aj vtedy, ak koná za úpadcu v pracovnoprávnych vzťahoch vo vzťahu k zamestnancom úpadcu podľa osobitného predpisu.<sup>11a</sup>)“.
 
   - Poznámka pod čiarou k odkazu 11a znie:
@@ -96,7 +150,57 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 
   - § 279 ods. 2 Občianskeho súdneho poriadku, § 71 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.“.
 
+- 23. § 74a znie:
+
+- „§ 74a
+
+- (1)
+
+- Správca vyzve osoby, pri ktorých má za to, že im vznikla povinnosť zaplatiť zmluvnú pokutu podľa § 11 ods. 2, vrátane osôb určených veriteľským výborom, aby túto povinnosť v prospech všeobecnej podstaty splnili, alebo preukázali, že im nevznikla, alebo osvedčili, že sa jej zbavili.
+
+- (2)
+
+- Ak vyzvaná osoba v určenej lehote, nie kratšej ako 15 dní, povinnosť zaplatiť zmluvnú pokutu v prospech všeobecnej podstaty nesplní alebo nepreukáže, že jej táto povinnosť nevznikla alebo neosvedčí, že sa jej zbavila, správca uplatní nárok na zaplatenie zmluvnej pokuty žalobou na súde, ktorý vyhlásil konkurz. Vo veci koná a rozhoduje samosudca, ktorý koná a rozhoduje v konkurznej veci úpadcu; vo veci samej rozhodne rozsudkom.
+
+- (4)
+
+- Súd uloží povinnosť zaplatiť zmluvnú pokutu, ak žalovaný nepreukáže, že mu táto povinnosť nevznikla. Túto zmluvnú pokutu nemožno znížiť.
+
+- (5)
+
+- Povinnosti zaplatiť zmluvnú pokutu sa zbaví ten, kto osvedčí, že
+
+- a)
+
+- konal s odbornou starostlivosťou, najmä ak pre nedostatok súčinnosti tých, s ktorými koná spoločne, nemohol túto povinnosť splniť, pričom bez zbytočného odkladu, ako sa dozvedel alebo mohol dozvedieť o predlžení, uložil do zbierky listín oznámenie, že dlžník je v predlžení,
+
+- b)
+
+- ako člen štatutárneho orgánu bol ustanovený počas úpadku za účelom jeho prekonania a návrh na vyhlásenie konkurzu podal bez zbytočného odkladu po tom, ako pri konaní s odbornou starostlivosťou zistil, že prijaté opatrenia nebudú viesť k jeho prekonaniu,
+
+- c)
+
+- v lehote podľa § 11 ods. 2 poveril správcu vypracovaním reštrukturalizačného posudku a podal návrh na povolenie reštrukturalizácie, na základe ktorého súd povolil reštrukturalizáciu.
+
+- (6)
+
+- Právoplatný rozsudok súdu, ktorým sa rozhodlo o uložení povinnosti zaplatiť zmluvnú pokutu, je rozhodnutím o vylúčení.<sup>14b</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 14b znie:
+
+  - „14b)
+
+  - § 13a ods. 1 Obchodného zákonníka.“.
+
 - 24. V § 87 ods. 2 písm. a) sa slovo „a“ nahrádza čiarkou a za slová „odmena správcu“ sa vkladajú slová „a odmena a výdavky predbežného správcu“.
+
+- 25. V § 95 ods. 3 sa za slová „je alebo“ vkladajú slová „kedykoľvek od vzniku pohľadávky“ a za slovo „úpadcom“ sa vkladajú slová „(ďalej len „spriaznené pohľadávky“)“.
+
+- 26. § 95 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Ustanovenie odseku 3 sa nepoužije na uspokojenie veriteľa, ktorý nie je spriaznený s úpadcom a v čase nadobudnutia spriaznenej pohľadávky nevedel a ani pri vynaložení odbornej starostlivosti nemohol vedieť, že nadobúda spriaznenú pohľadávku. Predpokladá sa, že veriteľ pohľadávky z dlhopisu alebo iného finančného nástroja na základe obchodu na regulovanom trhu, mnohostrannom obchodnom systéme alebo obdobnom zahraničnom organizovanom trhu, o spriaznenosti pohľadávky nevedel.“.
 
 - 27. V § 105 sa za slovo „základe“ vkladajú slová „výpisu zo“.
 
@@ -183,6 +287,12 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 - „c)
 
 - posudok vypracoval správca zapísaný do zoznamu správcov, ktorý má kanceláriu zriadenú v obvode odvolacieho konkurzného súdu, v ktorom sídli príslušný konkurzný súd,“.
+
+- 34. § 120 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Veriteľ dlžníka, ktorý z dôvodu začatia reštrukturalizačného konania nemôže účinne vypovedať zmluvu alebo odstúpiť od zmluvy, na základe ktorej je dlžník oprávnený mať u seba vec, ku ktorej môže po splnení zmluvných podmienok nadobudnúť vlastnícke právo, môže svoje práva v reštrukturalizácii uplatniť tak, akoby išlo o zabezpečenú pohľadávku.“.
 
 - 35. V § 124 odsek 1 znie:
 
@@ -383,6 +493,12 @@ Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení 
 - pravidelne vyhodnocovať, či veriteľom vznikol nárok podľa § 159b; túto skutočnosť bez zbytočného odkladu zverejní v Obchodnom vestníku,“.
 
   - Doterajšie písmeno d) sa označuje ako písmeno e).
+
+- 62. Za § 172 sa vkladá § 172a, ktorý znie:
+
+- „§ 172a
+
+- Ustanovenia o zmluvnej pokute pre porušenie povinnosti podať návrh na vyhlásenie konkurzu včas sa použijú, ak slovenský súd začal hlavné konkurzné konanie podľa osobitného predpisu.<sup>26</sup>)“.
 
 - 63. V § 198 ods. 4 sa vypúšťajú slová „podľa § 32 ods. 16,“.
 
