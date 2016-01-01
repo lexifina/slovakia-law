@@ -30,8 +30,6 @@
 
 - 10) § 7 ods. 3 a § 12 ods. 9 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov.
 
-- 10a) Napríklad § 2 zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
-
 - 10aa) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
 - 10b) § 4 ods. 3 zákona č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
@@ -113,6 +111,8 @@
 - 20) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení zákona č. 47/1991 Zb.Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
 - 21) § 2 ods. 5 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 22) § 27 ods. 1 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 23) Zákon Slovenskej národnej rady č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
