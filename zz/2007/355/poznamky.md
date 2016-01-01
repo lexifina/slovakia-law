@@ -50,6 +50,10 @@
 
 - 12c) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
 
+- 12d) Čl. 9 ods. 1 písm. a), b), c), d), g), h), j), i), k) a ods. 2, čl. 10 ods. 1 a čl. 15 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení.
+
+- § 16 výnosu Ministerstva pôdohospodárstva Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky z 25. júla 2007 č. 16826/2007-OL, ktorým sa vydáva hlava Potravinového kódexu Slovenskej republiky upravujúca požiadavky na potraviny na osobitné výživové účely a na výživové doplnky (oznámenie č. 370/2007 Z. z.).
+
 - 13) Čl. 2 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1223/2009 z 30. novembra 2009 o kozmetických výrobkoch (Ú. v. EÚ L 342, 22. 12. 2009) v platnom znení.
 
 - 13a) § 3 ods. 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.

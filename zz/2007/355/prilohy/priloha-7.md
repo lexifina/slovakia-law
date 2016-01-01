@@ -1,3 +1,3 @@
 Príloha č. 7 k zákonu č. 355/2007 Z. z.
 
-- Individuálne hlásenie výsledkov mikrobiologických vyšetrení pracovníkmi mikrobiologických laboratórií [Vzor 07](../assets/1316bb8bbabab40f352711fc85d8bd0f0ee21514ee1c3dc2e3fe5c029172c590.pdf)
+- Individuálne hlásenie výsledkov mikrobiologických vyšetrení pracovníkmi mikrobiologických laboratórií [Vzor 07](../assets/b76129592404a3d470215b7c9e8f66d5f8d44562d68c96afd54659ae02e22477.pdf)
