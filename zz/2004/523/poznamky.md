@@ -1,12 +1,10 @@
 - 1) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 2) § 11 ods. 5 zákona č. 503/2001 Z. z. o podpore regionálneho rozvoja v znení zákona č. 351/2004 Z. z.
+- 1a) Napríklad zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov, zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov.
 
-- § 1 písm. c) zákona č. 274/2006 Z. z. o podpore v pôdohospodárstve a rozvoji vidieka.
+- 2) § 9 zákona č. 528/2008 Z. z. v znení neskorších predpisov,
 
-- Nariadenie Rady (ES) č. 1083/2006 z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie (ES) č. 1260/1999 v platnom znení (Ú. v. EÚ L 210, 31. 7. 2006).
-
-- Nariadenie Rady (ES) č. 1198/2006 z 27. júla 2006 o Európskom fonde pre rybné hospodárstvo (Ú. v. EÚ L 223, 15. 8. 2006).
+- § 9 zákona č. 292/2014 Z. z.
 
 - 3) § 19 až 21 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
@@ -81,6 +79,8 @@
 - 22ac) § 20f až 20j Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
 - 22b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22ba) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 23) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
 
@@ -176,11 +176,11 @@
 
 - 43) Napríklad zákon č. 311/2001 Z. z. Zákonník práce, zákon č. 400/2009 Z. z. v znení neskorších predpisov.
 
-- 44) Napríklad § 2 zákona č. 502/2001 Z. z., § 246 zákona č. 461/2003 Z. z. v znení zákona č. 43/2004 Z. z.
+- 44) Napríklad § 246 zákona č. 461/2003 Z. z. v znení neskorších predpisov, § 2 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
-- 45) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 502/2001 Z. z., zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov.
+- 45) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov, zákon č. 357/2015 Z. z.
 
-- 46) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+- 46) § 4 zákona č. 357/2015 Z. z.
 
 - 46a) Nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005).
 
