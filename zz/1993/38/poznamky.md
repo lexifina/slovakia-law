@@ -12,11 +12,15 @@
 
 - 7) § 4 ods. 1 zákona č. 335/1991 Zb. o súdoch a sudcoch.
 
+- 7a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 8) Občiansky súdny poriadok a Trestný poriadok.
 
 - 8a) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 8b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
+
+- 8c) Zákon Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 9) Čl. 7 a 125 Ústavy.
 
