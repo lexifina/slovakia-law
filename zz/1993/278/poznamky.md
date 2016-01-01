@@ -80,7 +80,7 @@
 
 - 17c) § 602 a § 603 ods. 2 a 3 Občianskeho zákonníka.
 
-- 18) Zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+- 18) Zákon č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov.
 
 - 18b) Výnos Ministerstva financií Slovenskej republiky z 27. februára 1996 č. 41/59/1996, ktorým sa vykonávajú niektoré ustanovenia zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách (oznámenie č. 66/1996 Z. z.) v znení výnosu Ministerstva financií Slovenskej republiky z 24. júna 1997 č. 28145/1996/41 (oznámenie č. 194/1997 Z. z.).
 
