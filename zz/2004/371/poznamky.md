@@ -8,6 +8,8 @@
 
 - 1ac) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov.
 
+- 1ad) Zákon č. 54/2015 Z. z. o občianskoprávnej zodpovednosti za jadrovú škodu a o jej finančnom krytí a o zmene a doplnení niektorých zákonov.
+
 - 2) § 50 ods. 2 písm. f) zákona č. 757/2004 Z. z.
 
 - 3) § 151n zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení zákona č. 59/2009 Z. z.
