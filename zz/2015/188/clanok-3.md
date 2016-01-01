@@ -18,6 +18,26 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
   - Doterajšie písmená l) a m) sa označujú ako písmená m) a n).
 
+- 3. V § 4e sa slová „verejná základná škola“ vo všetkých tvaroch v celom texte ustanovenia nahrádzajú slovami „základná škola“ v príslušnom tvare.
+
+- 4. V § 4e ods. 1 sa slová „zriaďovateľovi<sup>22f</sup>) základnej školy a základnej školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami (ďalej len „verejná základná škola“)“ nahrádzajú slovami „zriaďovateľovi základnej školy“.
+
+  - Poznámka pod čiarou k odkazu 22f sa vypúšťa.
+
+- 5. Poznámka pod čiarou k odkazu 22g znie:
+
+- „22g)
+
+- § 107 ods. 4 a 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
+
+- 6. V § 4e ods. 2 sa vypúšťajú slová „a základných školách pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami“.
+
+- 7. Poznámka pod čiarou k odkazu 22h znie:
+
+- „22h)
+
+- § 107 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.“.
+
 - 8. § 7 sa dopĺňa odsekom 19, ktorý znie:
 
 - „(19)

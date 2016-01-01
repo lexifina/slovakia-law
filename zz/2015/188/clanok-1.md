@@ -154,6 +154,82 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 36. V § 99 ods. 6 prvá veta znie: „Praktická škola má tri ročníky; žiaci viacerých ročníkov sa môžu vzdelávať v jednej triede.“.
 
+- 37. § 107 vrátane nadpisu znie:
+
+- „§ 107
+
+- Výchova a vzdelávanie detí zo sociálne znevýhodneného prostredia a žiakov zo sociálne znevýhodneného prostredia
+
+- (1)
+
+- Výchova a vzdelávanie detí zo sociálne znevýhodneného prostredia a žiakov zo sociálne znevýhodneného prostredia sa v školách uskutočňuje podľa individuálnych podmienok. Individuálnymi podmienkami sú:
+
+- a)
+
+- úprava organizácie výchovy a vzdelávania,
+
+- b)
+
+- úprava prostredia, v ktorom sa výchova a vzdelávanie uskutočňuje, alebo
+
+- c)
+
+- uplatnenie špecifických metód a foriem výchovy a vzdelávania.
+
+- (2)
+
+- Dieťa alebo žiak, ktorého špeciálne výchovno-vzdelávacie potreby vyplývajú výlučne z jeho vývinu v sociálne znevýhodnenom prostredí, nemôže byť prijatý do špeciálnej školy alebo do špeciálnej triedy materskej školy, špeciálnej triedy základnej školy alebo do špeciálnej triedy strednej školy.
+
+- (3)
+
+- Deti zo sociálne znevýhodneného prostredia alebo žiaci zo sociálne znevýhodneného prostredia sa zaraďujú do triedy materskej školy, triedy základnej školy alebo do triedy strednej školy spolu s ostatnými deťmi alebo žiakmi. To neplatí, ak ide o zaradenie žiaka zo sociálne znevýhodneného prostredia, ktorý je zaradený
+
+- a)
+
+- do nultého ročníka základnej školy s informovaným súhlasom zákonného zástupcu alebo
+
+- b)
+
+- do špecializovanej triedy podľa § 29 ods. 11.
+
+- (4)
+
+- Ministerstvo školstva môže poskytnúť zriaďovateľovi školy podľa § 27 ods. 2 písm. b) príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia (ďalej len „príspevok na žiakov zo sociálne znevýhodneného prostredia“). Príspevok na žiakov zo sociálne znevýhodneného prostredia sa poskytuje podľa počtu žiakov zo sociálne znevýhodneného prostredia, ktorí nie sú vzdelávaní v špeciálnej triede alebo formou školskej integrácie, na úhradu nákladov na
+
+- a)
+
+- mzdu alebo plat asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie,
+
+- b)
+
+- vybavenie didaktickou technikou a učebnými pomôckami,
+
+- c)
+
+- účasť žiakov na aktivitách podľa § 30 ods. 7,
+
+- d)
+
+- výchovu a vzdelávanie žiakov v špecializovaných triedach,
+
+- e)
+
+- zabránenie prenosu nákazy prenosného ochorenia,
+
+- f)
+
+- príplatok<sup>61</sup>) za prácu so žiakmi zo sociálne znevýhodneného prostredia.
+
+- (5)
+
+- Výšku príspevku na žiaka zo sociálne znevýhodneného prostredia určuje a zverejňuje ministerstvo školstva na svojom webovom sídle.“.
+
+  - Poznámka pod čiarou k odkazu 61 znie:
+
+  - „61)
+
+  - § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.“.
+
 - 38. V § 130 ods. 6 sa na konci pripája táto veta: „Ministerstvo školstva na základe podnetu preskúma ďalšiu pedagogickú dokumentáciu podľa § 11 ods. 9 písm. a) a b), ak existuje dôvodné podozrenie, že nie je v súlade s výchovno-vzdelávacími potrebami dieťaťa alebo žiaka, a vydá písomné stanovisko, ktoré doručí zákonnému zástupcovi dieťaťa alebo žiaka, príslušnému školskému zariadeniu výchovného poradenstva a prevencie, riaditeľovi školy alebo riaditeľovi školského zariadenia, ktorý rozhoduje o prijatí dieťaťa alebo žiaka, a Štátnej školskej inšpekcii.“.
 
 - 39. V § 146 ods. 1 písm. d) sa slová „azyl alebo o doplnkovú ochranu“ nahrádzajú slovami „udelenie azylu“.
@@ -199,6 +275,12 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - Prechodné ustanovenie k úpravám účinným od 1. januára 2016
 
 - V školskom roku 2015/2016 sa príspevok na žiakov zo sociálne znevýhodneného prostredia poskytuje podľa podmienok ustanovených právnymi predpismi účinnými do 31. decembra 2015.“.
+
+- 49. § 163 sa dopĺňa bodom 41, ktorý znie:
+
+- „41.
+
+- Vyhláška Ministerstva školstva Slovenskej republiky č. 649/2008 Z. z. o účele použitia príspevku na žiakov zo sociálne znevýhodneného prostredia v znení vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 452/2011 Z. z.“.
 
 - 50. V prílohe sa vypúšťa druhý bod.
 
