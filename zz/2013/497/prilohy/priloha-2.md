@@ -2,19 +2,19 @@ Príloha č. 2 k nariadeniu vlády č. 497/2013 Z. z.
 
 - 1. SADZBY MÝTA ZA UŽÍVANIE VYMEDZENÝCH ÚSEKOV CIEST I. TRIEDY SÚBEŽNÝCH S DIAĽNICAMI A RÝCHLOSTNÝMI CESTAMI
 
-  - eur/km bez DPH
+- eur/km bez DPH
 
-- | Kategória vozidla | EURO 0 – II | EURO III, IV | EURO V, VI a EEV
+- | Kategória vozidla | EURO O – II | EURO III, IV | EURO V, VI a EEV
 
 - Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,103 | 0,093 | 0,080
 
-- | 12 000 kg a viac – 2 nápravy | 0,222 | 0,201 | 0,172
+- | 12 000 kg a viac – 2 nápravy | 0,221 | 0,200 | 0,172
 
-- | 12 000 kg a viac – 3 nápravy | 0,234 | 0,212 | 0,181
+- | 12 000 kg a viac – 3 nápravy | 0,233 | 0,211 | 0,181
 
-- | 12 000 kg a viac – 4 nápravy | 0,243 | 0,220 | 0,188
+- | 12 000 kg a viac – 4 nápravy | 0,242 | 0,219 | 0,188
 
-- | 12 000 kg a viac – 5 a viac náprav | 0,234 | 0,212 | 0,181
+- | 12 000 kg a viac – 5 náprav | 0,233 | 0,211 | 0,181
 
 - BUS** | 3 500 kg – 12 000 kg* | 0,040 | 0,030 | 0,020
 
@@ -22,7 +22,7 @@ Príloha č. 2 k nariadeniu vlády č. 497/2013 Z. z.
 
   - * Jednotne pre akýkoľvek počet náprav.
 
-  - **BUS – vozidlá umožňujúce prepravu viac ako deviatich osôb vrátane vodiča.
+  - ** BUS – vozidlá umožňujúce prepravu viac ako deviatich osôb vrátane vodiča.
 
 - 2. SADZBY MÝTA ZA UŽÍVANIE VYMEDZENÝCH ÚSEKOV CIEST I. TRIEDY, KTORÉ NIE SÚ SÚBEŽNÉ S DIAĽNICAMI A RÝCHLOSTNÝMI CESTAMI
 
