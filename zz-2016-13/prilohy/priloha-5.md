@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 13/2016 Z. z. [Štruktúra údajov o verejných budovách v správe ústredného orgánu štátnej správy významne obnovených v predchádzajúcom kalendárnom roku](../assets/d658a98931bd81ba886960010cac8a346269209b4fd202fd64326209af3cebbe.pdf)

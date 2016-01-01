@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 13/2016 Z. z. [Súbor údajov o celkovej spotrebe energie za predchádzajúci kalendárny rok poskytovaný do monitorovacieho systému podľa § 24 ods. 3 písm. a) až d) a g) zákona](../assets/ed671db10f1dfb0b2f8cffef8e39ac68b82bbc8167182de717d4d506341c73ea.pdf)

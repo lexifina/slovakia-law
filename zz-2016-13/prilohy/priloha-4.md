@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 13/2016 Z. z. [Súbor údajov o vykonaných opatreniach zúčastneného subjektu na zlepšenie energetickej efektívnosti a o dosiahnutých úsporách energie za predchádzajúci kalendárny rok poskytovaných do monitorovacieho systému](../assets/92b0dabda0e40416c06a07d07cdbd604c89805bf48e0bf3c1d719d6707b46ed0.pdf)
