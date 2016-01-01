@@ -26,6 +26,8 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - 11. V § 77c ods. 6 druhej vete sa za slovami "názov banky" čiarka nahrádza bodkou a vypúšťajú sa slová "výška dôchodku.".
 
+- 12. V § 77c sa vypúšťa odsek 7 vrátane poznámky pod čiarou k odkazu 97aa.
+
 - 13. Za § 86m sa vkladá § 86n, ktorý vrátane nadpisu znie:
 
 - „§ 86n
