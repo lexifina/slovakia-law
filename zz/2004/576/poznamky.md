@@ -188,6 +188,28 @@
 
 - 52aaa) § 32 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 185/2014 Z. z.
 
+- 52aab) § 3 ods. 2 písm. f) a § 50 ods. 1 písm. a) zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
+
+- § 35 ods. 2 a § 36 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 52aac) § 3 ods. 2 písm. f) a § 50 ods. 1 písm. a) zákona č. 422/2015 Z. z.
+
+- § 35 ods. 3 a § 37a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 52aad) § 30 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 52aae) § 44 až 48 zákona č. 422/2015 Z. z.
+
+- 52aaf) § 50 ods. 1 písm. f) a § 59 zákona č. 422/2015 Z. z.
+
+- 52aag) § 51 zákona č. 422/2015 Z. z.
+
+- 52aah) § 83 ods. 14 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 52aai) § 49a ods. 1 a 6 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 52aaj) § 55 zákona č. 422/2015 Z. z.
+
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 52ac) Zákon č. 540/2001 Z. z. v znení neskorších predpisov.

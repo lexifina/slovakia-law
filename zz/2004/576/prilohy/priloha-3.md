@@ -15,3 +15,5 @@ Príloha č. 3 k zákonu č. 576/2004 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti (Ú. v. EÚ L 88, 4. 4. 2011).
 
   - 7. Vykonávacia smernica Komisie 2012/25/EÚ z 9. októbra 2012, ktorou sa stanovujú informačné postupy na výmenu ľudských orgánov určených na transplantáciu medzi členskými štátmi (Ú. v. EÚ L 275, 10. 10. 2012).
+
+  - 8. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).

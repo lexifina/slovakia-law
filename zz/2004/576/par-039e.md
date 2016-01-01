@@ -2,7 +2,7 @@
 
 # § 39e
 
-(1) Poskytovateľ podľa § 35 ods. 1 je povinný
+(1) Poskytovateľ podľa § 35 ods. 1 okrem poskytovateľa, ktorý je tkanivovým zariadením, je povinný
 
 - a) vytvoriť systém vysledovateľnosti všetkých orgánov, ktoré boli odobraté, pridelené a transplantované na území Slovenskej republiky od darcu po príjemcu a naopak s cieľom chrániť zdravie darcov a príjemcov,
 
@@ -34,12 +34,12 @@
 
 - f) bezodkladne oznamovať charakteristiku orgánu a charakteristiku darcu národnej transplantačnej organizácii.
 
-(2) Poskytovateľ podľa § 35 ods. 1 je povinný
+(2) Poskytovateľ podľa § 35 ods. 1 okrem poskytovateľa, ktorý je tkanivovým zariadením, je povinný
 
 - a) vykonávať v rámci systému vnútornej kontroly primerané kontrolné opatrenia tak, aby prevádzkovanie činností prebiehalo v súlade s týmto zákonom a za podmienok ustanovených v osobitnom predpise,<sup>4</sup>)
 
 - b) sprístupniť všetky dokumenty týkajúce sa systému kvality pre prípad kontroly vykonávanej ministerstvom zdravotníctva alebo úradom pre dohľad.
 
-(3) Poskytovateľ podľa § 35 ods. 1, ktorý vykonáva dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín, musí mať povolenie na tento druh činnosti podľa osobitného predpisu.<sup>4</sup>) Na každý dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín je potrebný súhlas národnej transplantačnej organizácie.
+(3) Poskytovateľ podľa § 35 ods. 1 okrem poskytovateľa, ktorý je tkanivovým zariadením, ktorý vykonáva dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín, musí mať povolenie na tento druh činnosti podľa osobitného predpisu.<sup>4</sup>) Na každý dovoz orgánov z tretích krajín alebo vývoz orgánov do tretích krajín je potrebný súhlas národnej transplantačnej organizácie.
 
-(4) Poskytovateľ podľa § 35 ods. 1 vykonávajúci odber orgánu, ktorý sa dodáva do iného členského štátu Európskej únie, je povinný oznámiť charakteristiku orgánu a charakteristiku darcu príslušnému transplantačnému centru iného členského štátu Európskej únie a národnej transplantačnej organizácii spôsobom podľa § 39l, ak ide o oznámenie doplňujúcich informácií o charakteristike orgánu a charakteristiku darcu, ktoré neboli oznámené pred odovzdaním orgánu, s cieľom, umožniť lekárovi rozhodnutie.
+(4) Poskytovateľ podľa § 35 ods. 1 okrem poskytovateľa, ktorý je tkanivovým zariadením, vykonávajúci odber orgánu, ktorý sa dodáva do iného členského štátu Európskej únie, je povinný oznámiť charakteristiku orgánu a charakteristiku darcu príslušnému transplantačnému centru iného členského štátu Európskej únie a národnej transplantačnej organizácii spôsobom podľa § 39l, ak ide o oznámenie doplňujúcich informácií o charakteristike orgánu a charakteristiku darcu, ktoré neboli oznámené pred odovzdaním orgánu, s cieľom, umožniť lekárovi rozhodnutie.
