@@ -1,1 +1,0 @@
-- 1) § 36 ods. 4 zákona č. 180/2014 Z. z. o podmienkach výkonu volebného práva a o zmene a doplnení niektorých zákonov.
