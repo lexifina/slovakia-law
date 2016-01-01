@@ -28,7 +28,7 @@
 
 (5) Výkaz nedoplatkov je právoplatný a vykonateľný márnym uplynutím lehoty na podanie námietok podľa odseku 4.
 
-(6) Ak platiteľ poistného podá voči doručenému výkazu nedoplatkov námietky v lehote podľa odseku 4 a zdravotná poisťovňa im nevyhovie v celom rozsahu, zdravotná poisťovňa do 15 dní od ich doručenia podá úradu návrh na vydanie platobného výmeru spolu s námietkami platiteľa poistného a stručným stanoviskom zdravotnej poisťovne k námietkam. Podaním návrhu na vydanie platobného výmeru na úrad výkaz nedoplatkov stráca platnosť bez upovedomenia platiteľa poistného.
+(6) Ak platiteľ poistného podá voči doručenému výkazu nedoplatkov námietky v lehote podľa odseku 4 a zdravotná poisťovňa im nevyhovie v celom rozsahu, zdravotná poisťovňa do 30 dní od ich doručenia podá úradu návrh na vydanie platobného výmeru spolu s námietkami platiteľa poistného a stručným stanoviskom zdravotnej poisťovne k námietkam. Podaním návrhu na vydanie platobného výmeru na úrad výkaz nedoplatkov stráca platnosť bez upovedomenia platiteľa poistného.
 
 (7) Ak zdravotná poisťovňa námietkam platiteľa poistného v celom rozsahu vyhovie, vydá nový výkaz nedoplatkov, ktorým zruší predchádzajúci.
 

@@ -68,7 +68,7 @@
 
 - 15) § 2 ods. 3 zákona č. 576/2004 Z. z.
 
-- 15a) Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.
+- 15a) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
 - 16) § 79 ods. 1 písm. d) zákona č. 578/2004 Z. z.
 
@@ -115,6 +115,8 @@
 - 22) § 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 23) § 8 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 23a) § 3 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 24) § 3 ods. 2 písm. c) a § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
