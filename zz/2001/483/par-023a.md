@@ -10,13 +10,19 @@
 
 - d) zamestnancov zodpovedných za riadenie rizík banky vrátane zamestnancov oprávnených určovať limity alebo prekročenie limitov v rámci riadenia rizík banky,
 
+- e) všetkých členov dozornej rady banky,
+
+- f) vedúceho útvaru vnútornej kontroly a vnútorného auditu,
+
+- g) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až d), ktorí sú zodpovední za podstupovanie rizika a ktorých profesionálne činnosti majú významný vplyv na rizikový profil banky podľa osobitného predpisu.<sup>25aea</sup>)
+
 (2) V rámci zásad odmeňovania osôb podľa odseku 1 banka uplatňuje
 
 - a) zaručenú pevnú zložku celkovej odmeny ako
 
-  - 1. základnú zložku mzdy, ak ide o zamestnanca podľa odseku 1 písm. b) až d),
+  - 1. základnú zložku mzdy, ak ide o zamestnanca,
 
-  - 2. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu banky podľa odseku 1 písm. a),
+  - 2. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu banky a člena dozornej rady banky,
 
 - b) pohyblivú zložku celkovej odmeny.
 
@@ -30,6 +36,6 @@
 
 - a) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré nepresiahnu 1 % z čistých príjmov, ak nie sú v súlade s obchodnou stratégiou banky, jej záujmami a s ukončením poskytnutej stabilizačnej pomoci,
 
-- b) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré majú byť v súlade s obchodnou stratégiou banky a jej záujmami; vykonanie takého zosúladenia je Národná banka Slovenska oprávnená kedykoľvek od banky požadovať,
+- b) základe požiadania Národnej banky Slovenska tak, aby upravila ich štruktúru, a ak je to potrebné, aj ustanovenie limitov na odmeňovanie členov štatutárneho orgánu a členov dozornej rady, takým spôsobom, aby boli v súlade s vhodným riadením rizík,
 
-- c) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré sa nepriznajú za hodnotené obdobie, ak sú neodôvodnené.
+- c) pohyblivé zložky celkovej odmeny členov štatutárneho orgánu a členov dozornej rady, ktoré sa nepriznajú za hodnotené obdobie, ak sú neodôvodnené.

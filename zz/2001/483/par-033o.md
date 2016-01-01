@@ -1,6 +1,6 @@
 # § 33o
 
-(1) Banka, ktorá nepodlieha dohľadu na konsolidovanom základe, banka, ktorá podlieha dohľadu Európskej centrálnej banky podľa osobitného predpisu,<sup>30zw</sup>) alebo banka, ktorá má významný podiel na finančnom systéme, je povinná vypracovať, pravidelne aktualizovať a dodržiavať ozdravný plán obsahujúci opatrenia, ktoré prijme s cieľom obnoviť svoju finančnú pozíciu po tom, čo by došlo k jej výraznému zhoršeniu. Banka má významný podiel na finančnom systéme, ak
+(1) Banka, ktorá nepodlieha dohľadu na konsolidovanom základe alebo banka, ktorá má významný podiel na finančnom systéme, je povinná vypracovať, pravidelne aktualizovať a dodržiavať ozdravný plán, ktorý je súčasťou systému riadenia banky. Banka má významný podiel na finančnom systéme, ak
 
 - a) celková hodnota jej aktív je vyššia ako 30 000 000 000 eur alebo
 
@@ -8,21 +8,21 @@
 
 (2) Náležitosťami ozdravného plánu sú najmä
 
-- a) zhrnutie kľúčových prvkov ozdravného plánu a zhrnutie celkovej ozdravnej kapacity; na účely tohto zákona sa ozdravnou kapacitou rozumie schopnosť banky obnoviť svoju finančnú situáciu po výraznom zhoršení finančnej situácie banky,
+- a) zhrnutie hlavných častí ozdravného plánu a zhrnutie celkovej ozdravnej kapacity; na účely tohto zákona sa ozdravnou kapacitou rozumie schopnosť banky obnoviť svoju finančnú situáciu po jej výraznom zhoršení,
 
-- b) zhrnutie podstatných zmien vykonaných v banke od naposledy predloženého ozdravného plánu,
+- b) zhrnutie podstatných zmien vykonaných v banke od posledného ozdravného plánu predloženého Národnej banke Slovenska,
 
 - c) plán komunikácie a poskytovania informácií, v ktorom sa uvedie, aké opatrenia banka prijme na zvládnutie prípadných nepriaznivých reakcií trhu,
 
-- d) rozsah opatrení v oblasti kapitálu a likvidity požadovaných na zachovanie alebo obnovu zdravia banky a finančnej situácie banky,
+- d) rozsah opatrení v oblasti kapitálu a likvidity požadovaných na zachovanie alebo obnovu finančnej situácie banky a jej schopnosti pokračovať v činnosti,
 
-- e) odhad časového rámca pre realizáciu každého vecného aspektu ozdravného plánu,
+- e) odhad časového rámca na realizáciu podstatných aspektov ozdravného plánu,
 
-- f) podrobný opis akýchkoľvek podstatných prekážok účinného a včasného vykonania ozdravného plánu vrátane zhodnotenia vplyvu na zvyšok skupiny, klientov a zmluvné protistrany; skupinou sa na účely § 33o až 33z rozumie materská spoločnosť a dcérska spoločnosť,
+- f) podrobný opis akýchkoľvek podstatných prekážok účinného a včasného vykonania ozdravného plánu vrátane zhodnotenia dopadu na ostatných členov skupiny, klientov a zmluvné protistrany,
 
 - g) identifikovanie kritických funkcií banky,
 
-- h) podrobný opis postupov určenia hodnoty a predajnosti operácií, hlavných oblastí obchodnej činnosti, jednotlivých činností a aktív banky,
+- h) podrobný opis postupov určenia hodnoty a možností predaja alebo prevodu hlavných oblastí obchodných činností a aktív banky,
 
 - i) podrobný opis toho, ako je plánovanie ozdravenia integrované do systému riadenia banky, postupy schvaľovania ozdravného plánu a označenie osôb zodpovedných za vypracovanie a vykonávanie ozdravného plánu,
 
@@ -44,7 +44,7 @@
 
 - o) opatrenia potrebné na zachovanie nepretržitého prístupu k infraštruktúram finančného trhu,
 
-- p) mechanizmy a opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov banky vrátane infraštruktúry a služieb týkajúcich sa informačných technológií,
+- p) opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov banky vrátane infraštruktúry a informačných technológií,
 
 - q) prípravné opatrenia na zjednodušenie predaja aktív alebo oblastí obchodnej činnosti tak, aby došlo k včasnému obnoveniu finančnej stability banky,
 
@@ -54,7 +54,7 @@
 
 - t) sústava ukazovateľov, na základe ktorých sa určia momenty, v ktorých banka môže prijať opatrenia uvedené v ozdravnom pláne; tieto ukazovatele majú kvalitatívny alebo kvantitatívny charakter týkajúci sa finančnej situácie banky a musia byť jednoducho sledovateľné bankou,
 
-- u) opatrenia, ktoré by mohla prijať banka, ak sú splnené podmienky podľa § 50 ods. 12 alebo ods. 14,
+- u) opatrenia, ktoré je banka pripravená prijať, ak sú splnené podmienky podľa § 65a,
 
 - v) analýza, akým spôsobom a kedy môže banka na základe okolností uvedených v ozdravnom pláne požiadať o použitie likviditných operácií centrálnej banky, a určenie aktív, ktoré by banka mohla použiť ako zábezpeku.
 
@@ -70,6 +70,6 @@
 
 (6) Ozdravný plán musí obsahovať primerané postupy na zabezpečenie včasného uplatnenia jednotlivých opatrení a určenie všetkých možných spôsobov ozdravenia banky. Opatrenia musia zohľadňovať čo najviac možných scenárov makroekonomických stresových situácií a finančných stresových situácií, ktorým môže byť banka vystavená vzhľadom na charakter vykonávaných bankových činností, a to vrátane systémových stresových situácií, stresových situácií týkajúcich sa konkrétnej právnickej osoby a skupiny právnických osôb.
 
-(7) Ozdravný plán schvaľuje štatutárny orgán banky a banka ho následne predloží Národnej banke Slovenska so žiadosťou o zaujatie stanoviska.
+(7) Ozdravný plán schvaľuje štatutárny orgán banky a banka ho následne predloží na posúdenie Národnej banke Slovenska.
 
-(8) Banka je povinná aktualizovať svoj ozdravný plán najmenej raz ročne a po každej zmene organizačnej štruktúry, obchodnej činnosti alebo finančnej situácie, ktorá by mohla mať významný vplyv na opatrenia uvedené v ozdravnom pláne; pri aktualizácii postupuje v súlade s odsekom 7.
+(8) Banka je povinná aktualizovať svoj ozdravný plán najmenej raz ročne a po každej zmene organizačnej štruktúry, obchodnej činnosti alebo finančnej situácie, ktorá by mohla mať významný vplyv na opatrenia uvedené v ozdravnom pláne; pri aktualizácii postupuje v súlade s odsekom 7. Národná banka Slovenska môže požadovať od banky aktualizáciu ozdravného plánu častejšie ako raz ročne.

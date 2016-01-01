@@ -30,6 +30,8 @@
 
 - 9a) Zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení zákona č. 129/2010 Z. z.
 
+- 9b) § 12 zákona č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov.
+
 - 10) § 19 ods. 1 zákona č. 595/2003 Z. z. o dani z príjmov.
 
 - 11) Napríklad zákon Národnej rady Slovenskej republiky č. 124/1996 Z. z. o Štátnom fonde rozvoja bývania v znení neskorších predpisov.
@@ -73,6 +75,14 @@
 - § 49 ods. 5 písm. c) a d) zákona č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 492/2009 Z. z. v znení neskorších predpisov.
+
+- 13ma) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13mb) § 2 ods. 9 zákona č. 492/2009 Z. z.
 
 - 13o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
@@ -166,6 +176,8 @@
 
 - 25ae) Čl. 143 ods.1, čl. 221, 225, čl. 259 ods. 3, čl. 312 ods. 2, čl. 283 a 363 nariadenia (EÚ) č. 575/2013.
 
+- 25aea) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
+
 - 25af) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
 
 - 26a) § 2 ods. 2 a § 23 Obchodného zákonníka.
@@ -206,7 +218,13 @@
 
 - 27fa) § 716 Obchodného zákonníka.
 
-- 27fb) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
+- 27fba) § 81 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
+
+- § 65 Trestného zákona v znení neskorších predpisov.
+
+- 27fbb) § 2 ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 659/2009 Z. z.
+
+- 27fbc) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
 - 27g) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
@@ -318,17 +336,19 @@
 
 - 30zv) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
 
-- 30zw) Čl. 6 ods. 4 nariadenia Rady (EÚ) č. 1024/2013 z 15. októbra 2013, ktorým sa Európska centrálna banka poveruje osobitnými úlohami, pokiaľ ide o politiky týkajúce sa prudenciálneho dohľadu nad úverovými inštitúciami (Ú. v. EÚ L 287, 29. 10. 2013).
-
 - 30zx) § 3 ods. 1 zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
-- 30zy) § 10 zákona č. 371/2014 Z. z.
+- 30zy) § 2 písm. f) zákona č. 371/2014 Z. z. v znení zákona č. 39/2015 Z. z.
 
 - 30zz) § 2 písm. j) zákona č. 371/2014 Z. z.
 
 - 30zza) Čl. 19 nariadenia (EÚ) č. 1093/2010 v platnom znení.
 
+- 30zzaa) Čl. 4 ods. 1 bod 29 nariadenia (EÚ) č. 575/2013 v platnom znení.
+
 - 30zzb) § 84 zákona č. 371/2014 Z. z.
+
+- 30zzc) § 16 ods. 3 až 5 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 31) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
 
@@ -347,6 +367,12 @@
 - § 31 až 42 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
 - Čl. 431 až 455 nariadenia (EÚ) č. 575/2013.
+
+- 33a) § 2 ods. 36 zákona č. 492/2009 Z. z. v znení zákona č. 405/2015 Z. z.
+
+- 33b) § 38 ods. 3 až 5 zákona č. 492/2009 Z. z. v znení zákona č. 405/2015 Z. z.
+
+- 33c) § 34 písm. d) zákona č. 492/2009 Z. z. v znení zákona č. 405/2015 Z. z.
 
 - 34) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
@@ -440,8 +466,6 @@
 
 - 46) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov, zákon č. 431/2002 Z. z. v znení neskorších predpisov, zákon č. 510/2002 Z. z. v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, § 6 zákona č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení zákona č. 233/2012 Z. z.
 
-- 46a) § 51 zákona č. 371/2014 Z. z.
-
 - 47) § 178 ods. 1 a 2 a § 187 písm. e) Obchodného zákonníka.
 
 - 48) § 178 ods. 3 a 4 a § 187 písm. e) Obchodného zákonníka.
@@ -463,10 +487,6 @@
 - 48f) § 53 zákona č. 371/2014 Z. z.
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 49a) § 14, 15 a 27 zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z.
-
-- § 2 ods. 3, § 10 a 25 zákona č. 540/2007 Z. z. o audítoroch, audite a dohľade nad výkonom auditu a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 49aa) Zákon č. 330/2007 Z. z. v znení neskorších predpisov.
 
@@ -503,6 +523,12 @@
 - Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
 
 - 60) § 68 ods. 7 Obchodného zákonníka.
+
+- 60a) § 51 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
+- 60b) § 29, 30 a 32 zákona č. 747/2004 Z. z.
+
+- 60c) § 10 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
 - 61) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -558,6 +584,8 @@
 
 - 76a) § 38 ods. 6 zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
 
+- 76aa) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+
 - 77) § 3 ods. 3 a § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
 - 78) Zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
@@ -608,9 +636,15 @@
 
 - 86dd) § 134a až 134d zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2015 Z. z.
 
+- 86de) § 22 ods. 2 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
+
+- Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 2; Ú. v. ES L 1, 4. 1. 2003) v platnom znení.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
+
+- 86g) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
@@ -677,3 +711,5 @@
 - 98) Napríklad § 17a a § 17b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 99) § 3 ods. 4 až 9 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 100) § 32 ods. 1 zákona č. 492/2009 Z. z.
