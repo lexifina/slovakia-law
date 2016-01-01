@@ -1,0 +1,3 @@
+Príloha č. 1 k vyhláške č. 342/2015 Z. z.
+
+- ŽIADOSŤ O POSKYTNUTIE PRÍSPEVKU NA ZATEPLENIE RODINNÉHO DOMU [VZOR](../assets/9f5540edd575cab38558e349b0240b9d3616f0fb3b54acb6fa6c25c0f499f56f.pdf)
