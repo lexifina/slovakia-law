@@ -38,6 +38,8 @@ Príloha č. 10 k vyhláške č. 578/2006 Z. z.
 
     - q) kód kontrolnej linky.
 
+    - r) GPS súradnice pracoviska kontroly originality.
+
   - 2. Údaje o odborne spôsobilých osobách
 
     - a) kód odborne spôsobilej osoby,

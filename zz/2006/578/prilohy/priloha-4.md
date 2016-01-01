@@ -38,6 +38,8 @@ Príloha č. 4 k vyhláške č. 578/2006 Z. z.
 
     - q) kód kontrolnej linky alebo kódy kontrolných liniek.
 
+    - r) GPS súradnice stacionárnej stanice technickej kontroly alebo GPS súradnice miest prevádzkovania mobilnej stanice technickej kontroly.
+
   - 2. Údaje o odborne spôsobilých osobách
 
     - a) kód odborne spôsobilej osoby,

@@ -28,4 +28,4 @@ Príloha č. 4b k vyhláške č. 578/2006 Z. z.
 
 - ***) v prípade ťahačov návesov musí na točnicu ťahača pôsobiť zaťaženie zodpovedajúce aspoň hmotnosti, ktorú na točnicu prenesie akýkoľvek nezaťažený náves.
 
-- Uvedené miery zaťaženia sa nevzťahujú na vozidlá schválené na prepravu nebezpečných vecí a vozidlá, ktoré z technických dôvodov alebo iných dôvodov nemožno pristaviť na technickú kontrolu v zaťaženom stave (napríklad vozidlá na prepravu hydiny, uhynutých zvierat).
+- Uvedené miery zaťaženia sa nevzťahujú na vozidlá schválené na prepravu nebezpečných vecí okrem ťahačov bez návesu pri vykonávaní technickej kontroly na prepravu nebezpečných vecí, a vozidlá, ktoré z technických dôvodov alebo iných dôvodov nemožno pristaviť na technickú kontrolu v zaťaženom stave (napríklad vozidlá na prepravu hydiny, uhynutých zvierat).

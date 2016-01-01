@@ -38,6 +38,8 @@ Príloha č. 12 k vyhláške č. 578/2006 Z. z.
 
     - q) kód kontrolnej linky.
 
+    - r) GPS súradnice pracoviska montáže plynových zariadení.
+
   - 2. Údaje o odborne spôsobilých osobách
 
     - a) kód odborne spôsobilej osoby,
@@ -172,6 +174,8 @@ Príloha č. 12 k vyhláške č. 578/2006 Z. z.
 
       - cc) kód a priezvisko technika montáže plynových zariadení, ktorý montáž vykonal.
 
+      - dd) poradové číslo opisu Protokolu o montáži plynového zariadenia.
+
     - 3.2 Montáž plynového zariadenia CNG
 
       - a) séria a evidenčné číslo protokolu o montáži plynového zariadenia,
@@ -277,6 +281,8 @@ Príloha č. 12 k vyhláške č. 578/2006 Z. z.
       - bb) číslo konania a dátum rozhodnutia o povolení prestavby jednotlivého vozidla; ak nejde o retrofitný systém,
 
       - cc) kód a priezvisko technika montáže plynových zariadení, ktorý montáž vykonal.
+
+      - dd) poradové číslo opisu Protokolu o montáži plynového zariadenia.
 
   - 4. Údaje o školeniach alebo kurzoch
 

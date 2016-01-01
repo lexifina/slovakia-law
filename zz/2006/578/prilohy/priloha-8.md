@@ -38,6 +38,8 @@ Príloha č. 8 k vyhláške č. 578/2006 Z. z.
 
     - q) kód kontrolnej linky.
 
+    - r) GPS súradnice stacionárneho pracoviska emisnej kontroly alebo GPS súradnice miest prevádzkovania mobilného pracoviska emisnej kontroly.
+
   - 2. Údaje o odborne spôsobilých osobách
 
     - a) kód odborne spôsobilej osoby,
