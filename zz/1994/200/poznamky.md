@@ -4,6 +4,10 @@
 
 - 1b) § 2 ods. 2 zákona č. 206/2009 Z. z. o múzeách a galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 1ba) § 13 ods. 8 zákona č. 206/2009 Z. z. v znení zákona č. 376/2015 Z. z.
+
+- 1bb) § 33 ods. 7 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení zákona č. 376/2015 Z. z.
+
 - 1c) § 2 písm. b) zákona č. 293/2007 Z. z.
 
 - 2) § 829 a nasl. Občianskeho zákonníka.
