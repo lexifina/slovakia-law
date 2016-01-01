@@ -1,7 +1,0 @@
-# § 10b Vyhodnocovanie žiadostí
-
-(1) Žiadosti vyhodnocuje najmenej trojčlenná komisia, ktorú zriaďuje ministerstvo. Člen komisie nesmie byť žiadateľom ani zaujatý vo vzťahu k žiadateľovi. Člen komisie ani jemu blízka osoba<sup>1d</sup>) nesmie byť štatutárnym orgánom alebo členom štatutárneho orgánu žiadateľa, ani spoločníkom právnickej osoby, ktorá je žiadateľom. Členom komisie nesmie byť ani osoba, ktorá je zamestnancom žiadateľa alebo zamestnancom záujmového združenia podnikateľov, ktorého je žiadateľ členom.
-
-(2) Komisia je pri vyhodnocovaní žiadostí nezávislá a vyhodnocuje ich podľa kritérií uvedených vo výzve na predkladanie žiadostí, pričom jednotlivé žiadosti musia byť očíslované a bez identifikácie žiadateľa.
-
-(3) Podrobnosti o zložení, rozhodovaní komisie, organizácii práce, postupe komisie pri vyhodnocovaní žiadostí a kritériá pre vyhodnocovanie žiadostí ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.
