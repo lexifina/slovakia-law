@@ -96,22 +96,18 @@ Príloha č. 1 k zákonu č. 442/2004 Z. z.
 
   - Rozdelenie teoretickej a praktickej výučby do rôznych skupín bude vyvážené a koordinované takým spôsobom, aby bolo možné dosiahnuť vymenované vedomosti a skúsenosti spôsobom, ktorý adekvátne umožní veterinárnym lekárom vykonávať všetky činnosti.
 
-- Časť B OBLASTI, KTORÝCH ZNALOSŤ JE PREDPOKLADOM ZÍSKANIA DIPLOMU, VYSVEDČENIA ALEBO INÉHO DOKLADU O POŽADOVANOM VZDELANÍ PRE VETERINÁRNEHO LEKÁRA
+- ČASŤ B OBLASTI, KTORÝCH ZNALOSŤ JE PREDPOKLADOM ZÍSKANIA DIPLOMU, VYSVEDČENIA ALEBO INÉHO DOKLADU O POŽADOVANOM VZDELANÍ PRE VETERINÁRNEHO LEKÁRA
 
   - Znalosti:
 
-  - a) vo vedných odboroch, na ktorých je založená činnosť veterinárneho lekára,
+  - a) vo vedných odboroch, na ktorých je založená činnosť veterinárneho lekára a právnych predpisoch Európskej únie, ktoré súvisia s činnosťou veterinárneho lekára,
 
-  - b) o stavbe a funkciách zdravých zvierat, o ich chove, rozmnožovaní a hygiene ako celku, ako aj o ich výžive vrátane technológie výroby a uskladňovania potravy zodpovedajúcej ich potrebám,
+  - b) o stavbe, funkciách, správaní a fyziologických potrebách zvierat, ako aj zručnosti a spôsobilosť na ich chov, kŕmenie, rozmnožovanie a hygienu ako celku,
 
-  - c) o správaní a ochrane zvierat,
+  - c) o klinike, epidemiológii a analýze prevencie, diagnostikovaní a liečení chorôb zvierat, vrátane anestézie, sterilizácie a bezbolestnej smrti, či sa posudzujú individuálne alebo v skupinách, vrátane špeciálnych znalostí o chorobách, ktoré sa môžu preniesť na ľudí,
 
-  - d) o príčinách, povahe, priebehu, dôsledkoch, diagnostikovaní a liečení chorôb zvierat, či sa posudzujú individuálne alebo v skupinách vrátane špeciálnych vedomostí o chorobách, ktoré sa môžu preniesť na ľudí,
+  - d) o preventívnom lekárstve vrátane spôsobilosti vyšetrovať a vydávať potvrdenia,
 
-  - e) o preventívnom lekárstve,
+  - e) o hygiene a technológii výroby, spracovania, distribúcie a uvádzania na trh krmív a potravín živočíšneho pôvodu určených na ľudskú spotrebu vrátane znalosti osvedčených postupov v tejto oblasti,
 
-  - f) o hygiene a technológiách výroby, spracovania a distribúcie potravín pre zvieratá alebo potravín živočíšneho pôvodu určených na konzumáciu ľuďmi,
-
-  - g) o zákonoch, nariadeniach a vykonávacích predpisoch vzťahujúcich sa na uvedené predmety,
-
-  - h) klinické a iné praktické skúsenosti pod primeraným dohľadom.
+  - f) o zodpovednom a primeranom používaní veterinárnych liekov s cieľom liečenia zvierat a zaistenia bezpečnosti potravinového reťazca a ochrany životného prostredia.

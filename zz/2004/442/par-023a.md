@@ -6,7 +6,7 @@
 
 - b) ak ide o súkromné veterinárne činnosti, je občanom tretej krajiny a spĺňa podmienky podľa osobitného predpisu.<sup>16</sup>)
 
-(2) Odborné veterinárne činnosti môže vykonávať veterinárny lekár, ktorý skončil najmenej päťročné denné teoretické a praktické vysokoškolské štúdium veterinárneho lekárstva v členskom štáte, ktorého obsah je v súlade s prílohou č. 1, a je držiteľom diplomu, certifikátu alebo iného dokladu o vzdelaní (ďalej len „doklad o vzdelaní“) uvedeného v prílohe č. 2, a
+(2) Odborné veterinárne činnosti môže vykonávať veterinárny lekár, ktorý skončil najmenej päťročné denné teoretické a praktické vysokoškolské štúdium veterinárneho lekárstva v členskom štáte, ktoré môže byť vyjadrené aj ako ekvivalent kreditov európskeho systému prenosu a zhromažďovania kreditov a ktorého obsah je v súlade s prílohou č. 1, a je držiteľom diplomu, certifikátu alebo iného dokladu o vzdelaní (ďalej len „doklad o vzdelaní“) uvedeného v prílohe č. 2, a
 
 - a) je občanom členského štátu, alebo
 

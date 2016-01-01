@@ -36,14 +36,14 @@
 
 - 16) § 17 a 34 zákona č. 48/2002 Z. z. v znení neskorších predpisov.
 
-- 17) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+- 17) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
-- 18) § 29 ods. 3 zákona č. 293/2007 Z. z.
+- 18) § 51 zákona č. 422/2015 Z. z.
 
-- 19) § 7 a 29 zákona č. 293/2007 Z. z.
+- 19) § 43 a 51 zákona č. 422/2015 Z. z.
 
-- 20) § 26 zákona č. 293/2007 Z. z.
+- 20) § 56 zákona č. 422/2015 Z. z.
 
-- 21) § 27 zákona č. 293/2007 Z. z.
+- 21) § 55 zákona č. 422/2015 Z. z.
 
 - 22) § 3 až 8 a § 10 až § 16 zákona č. 136/2010 Z. z.
