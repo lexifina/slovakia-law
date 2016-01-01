@@ -10,13 +10,13 @@
 
   - 3. má doklad o vzdelaní uznaný podľa § 16,
 
-  - 4. je oprávnený v domovskom členskom štáte vykonávať regulované povolanie; inak je povinný predložiť doklad o tom, že vykonával počas predchádzajúcich desiatich rokov najmenej dva roky činnosti, ktoré sú obsahom regulovaného povolania podľa § 4, 4a alebo 5,
+  - 4. je oprávnený v domovskom členskom štáte vykonávať regulované povolanie; inak je povinný predložiť doklad o tom, že vykonával počas predchádzajúcich desiatich rokov najmenej jeden rok činnosti, ktoré sú obsahom regulovaného povolania podľa § 4, 4a alebo 5,
 
   - 5. je poistený zo zodpovednosti za škodu spôsobenú výkonom povolania s platnosťou pre územie Slovenskej republiky,
 
 - b) pri predĺžení času hosťovania alebo pri opakovanom hosťovaní, ak od predchádzajúceho hosťovania neuplynuli viac ako dva roky, toho, kto preukáže, že spĺňa požiadavky podľa písmena a) druhého a piateho bodu.
 
-(2) Žiadosť o zapísanie sa podáva na tlačive komory v štátnom jazyku; jej prílohou sú doklady preukazujúce požiadavky podľa odseku 1. Žiadosť o zapísanie možno podať aj prostredníctvom obvodného úradu, ktorý plní úlohy jednotného kontaktného miesta<sup>13a</sup>) (ďalej len „jednotné kontaktné miesto“).
+(2) Žiadosť o zapísanie sa podáva na tlačive komory v štátnom jazyku; jej prílohou sú doklady preukazujúce požiadavky podľa odseku 1. Žiadosť o zapísanie možno podať aj prostredníctvom okresného úradu, ktorý plní úlohy jednotného kontaktného miesta<sup>13a</sup>) (ďalej len „jednotné kontaktné miesto“).
 
 (3) Komora nezapíše do registra toho, kto spĺňa podmienky podľa odseku 1, ale o kom zistí, že je v členskom štáte
 
@@ -32,8 +32,6 @@
 
 (6) Zapísanie do registra komora oznámi regulačnému orgánu domovského členského štátu, v ktorom je hosťujúci architekt usadený. O zapísaní do registra vydá komora hosťujúcemu architektovi registračné osvedčenie.
 
-(7) Proti zamietnutiu žiadosti o zapísanie do registra môže uchádzač podať žalobu na súd podľa osobitného predpisu.
+(7) Podrobné pravidlá o zapísaní do registra upraví autorizačný poriadok komory.
 
-(8) Podrobné pravidlá o zapísaní do registra upraví autorizačný poriadok komory.
-
-(9) Ak bola žiadosť o zapísanie podaná na jednotnom kontaktnom mieste, komora informuje jednotné kontaktné miesto o zapísaní do registra alebo o rozhodnutí o zamietnutí žiadosti.
+(8) Ak bola žiadosť o zapísanie podaná na jednotnom kontaktnom mieste, komora informuje jednotné kontaktné miesto o zapísaní do registra alebo o rozhodnutí o zamietnutí žiadosti.
