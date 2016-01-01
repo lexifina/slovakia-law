@@ -218,6 +218,10 @@ Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov 
 
 - Prevádzkovateľom servisného zariadenia je podnikateľ, ktorý spravuje jedno servisné zariadenie alebo viac servisných zariadení alebo poskytuje železničným podnikom jednu službu alebo viac služieb uvedených v prílohe č. 13 časti B druhom až štvrtom bode.
 
+- (5)
+
+- Ak je prevádzkovateľ servisného zariadenia podľa prílohy č. 13 časti B druhého bodu písm. a) až d), g) a i) priamo kontrolovaný alebo nepriamo kontrolovaný železničným podnikom, ktorý je tiež aktívny a má dominantné postavenie na vnútroštátnych trhoch so službami železničnej dopravy, musí byť od neho organizačne a rozhodovacími právomocami nezávislý, pričom musí mať pre všetky servisné zariadenia podľa prílohy č. 13 časti B druhého bodu oddelené účty vrátane súvah a výkazov zisku a strát. Táto nezávislosť sa môže dosiahnuť zriadením organizačne oddelených divízií v rámci toho istého subjektu.
+
 - (6)
 
 - Žiadosti železničných podnikov o prístup k servisnému zariadeniu podľa prílohy č. 13 časti B druhého bodu a o poskytovanie služieb v tomto zariadení vybavuje prevádzkovateľ servisného zariadenia v lehote, ktorá nepresiahne 30 dní, ak regulačný orgán neurčí dlhšiu lehotu. Žiadosti môže zamietnuť, ak na trhu železničnej dopravy existuje reálna alternatíva, ktorá železničnému podniku umožňuje prevádzkovať železničnú dopravu na tých istých trasách alebo alternatívnych trasách v hospodársky prijateľných podmienkach. Prevádzkovateľovi servisného zariadenia sa tým neukladá povinnosť investovať do zdrojov alebo zariadení s cieľom rozšíriť kapacitu servisného zariadenia, a tak vyhovieť všetkým žiadostiam železničných podnikov.
