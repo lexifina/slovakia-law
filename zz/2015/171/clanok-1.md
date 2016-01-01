@@ -12,6 +12,14 @@ Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytova
 
 - 2. V § 8a ods. 3 sa na konci pripája táto veta: "Na základe rozhodnutia poskytovateľa dotácie možno doklady preukazujúce splnenie podmienok na poskytnutie dotácie predložiť najneskôr do schválenia poskytnutia dotácie.".
 
+- 3. V § 9 sa odsek 1 dopĺňa písmenom n), ktoré znie:
+
+- „n)
+
+- Kancelárie Súdnej rady Slovenskej republiky.“.
+
+- 4. V § 9 ods. 5 prvej vete sa za slová "Najvyšší súd Slovenskej republiky" vkladajú slová "a Kancelária Súdnej rady Slovenskej republiky" a v druhej vete sa za slová "Najvyššieho súdu Slovenskej republiky" vkladajú slová "a kapitoly Kancelárie Súdnej rady Slovenskej republiky.".
+
 - 5. V § 10 ods. 4 sa slová "správu národnej rade v rámci správy o plnení" nahrádzajú slovami "informáciu národnej rade v rámci návrhu".
 
 - 6. V § 14 odsek 1 znie:
