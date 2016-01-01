@@ -56,6 +56,14 @@ Nariadenie vlády Slovenskej republiky č. 630/2008 Z. z., ktorým sa ustanovuj�
 
 - 9. Príloha č. 1 sa vypúšťa.
 
+- 10. Príloha č. 2 vrátane nadpisu znie:
+
+- „Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.
+
+- KOEFICIENTY PERSONÁLNEJ, EKONOMICKEJ A PREVÁDZKOVEJ NÁROČNOSTI PRE KATEGÓRIE ŠKÔL, V KTORÝCH SA ŽIACI PRIPRAVUJÚ NA POVOLANIE
+
+- [KOEFICIENTY PERSONÁLNEJ, EKONOMICKEJ A PREVÁDZKOVEJ NÁROČNOSTI PRE KATEGÓRIE ŠKÔL, V KTORÝCH SA ŽIACI PRIPRAVUJÚ NA POVOLANIE](assets/ec69890a21620bb3d59e4e8a08d6fcea4615ba31c30921bf88730dbb520afd09.pdf)“.
+
 - 11. Nariadenie vlády sa dopĺňa prílohou č. 13, ktorá vrátane nadpisu znie:
 
 - „Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z.
