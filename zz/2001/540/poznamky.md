@@ -26,6 +26,8 @@
 
 - 4) Napríklad zákon č. 165/1998 Z. z. o sčítaní obyvateľov, domov a bytov v roku 2001.
 
+- 4a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
 - 5) Napríklad zákon č. 241/2001 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 6) Napríklad zákon č. 263/1999 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
