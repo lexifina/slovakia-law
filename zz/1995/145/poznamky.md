@@ -36,7 +36,7 @@
 
 - 7a) § 27 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
-- 7aa) § 43 ods. 8 a 9 a § 44 ods. 8 a 9 zákona č. 305/2013 Z. z.
+- 7aa) § 43 a 44 zákona č. 305/2013 Z. z.
 
 - 7ab) Napríklad § 2 a 8 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -70,6 +70,8 @@
 
 - 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8c) Napríklad zákon č. 455/1991 Z. z. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov.
+
 - 9) Zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
 - Zákon Slovenskej národnej rady č. 100/1977 Zb. o hospodárení v lesoch a štátnej správe lesného hospodárstva v znení neskorších predpisov.
@@ -98,7 +100,7 @@
 
 - 10e) § 12 ods. 1 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
 
-- 10f) § 11c ods. 9 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
+- 10f) § 11c ods. 12 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
 
 - 11) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -154,9 +156,13 @@
 
 - 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2009 Z. z.
 
+- 20aa) § 2 ods. 1 písm. a) až c) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
 - 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
-- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek, § 30 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá a § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek.
+- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek v znení neskorších predpisov, § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek v znení neskorších predpisov, § 30 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá v znení neskorších predpisov, čl. 39 nariadenia Európskeho parlamentu a Rady (EÚ) č. 167/2013 z 5. februára 2013 o schvaľovaní poľnohospodárskych a lesných vozidiel a o dohľade nad trhom s týmito vozidlami (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení, čl. 44 nariadenia Európskeho parlamentu a Rady (EÚ) č. 168/2013 z 15. januára 2013 o schvaľovaní a dohľade nad trhom dvoj- alebo trojkolesových vozidiel a štvorkoliek (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
+
+- 21b) Zákon č. 387/2015 Z. z. o jednotnom informačnom systéme v cestnej doprave a o zmene a doplnení niektorých zákonov.
 
 - 22) § 4 zákona č. 725/2004 Z. z.
 
@@ -208,7 +214,7 @@
 
 - 25b) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 26) § 75 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
+- 26) § 67 až 67d, § 67f a 77 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
 
 - 27) § 31 zákona č. 610/2003 Z. z.
 
@@ -220,7 +226,7 @@
 
 - 27d) § 35 ods. 4 písm. a) zákona č. 610/2003 Z. z.
 
-- 27e) § 36 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
+- 27e) § 37 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
 
 - 27f) § 14 ods. 3 zákona č. 610/2003 Z. z. v znení zákona č. 117/2006 Z. z.
 
@@ -289,6 +295,10 @@
 - 32) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov.
 
 - 32a) Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 32aa) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
+
+- Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 33) § 22 ods. 1 písm. e) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -418,7 +428,23 @@
 
 - 37h) § 13a zákona č. 15/2005 Z. z. v znení zákona č. 447/2012 Z. z.
 
-- 38) Zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 38) Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých predpisov.
+
+- 38a) § 17 ods. 1 písm. b) zákona č. 137/2010 Z. z. o ovzduší v znení zákona č. 318/2012 Z. z.
+
+- 38b) § 17 ods. 1 písm. c) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
+
+- 38c) § 17 ods. 1 písm. d) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
+
+- 38d) § 17 ods. 1 písm. e) zákona č. 137/2010 Z. z.
+
+- 38e) § 17 ods. 1 písm. f) zákona č. 137/2010 Z. z.
+
+- 38f) § 17 ods. 1 písm. g) zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
+
+- 38g) § 18 ods. 9 zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
+
+- 38h) § 31 ods. 2 zákona č. 137/2010 Z. z. v znení zákona č. 318/2012 Z. z.
 
 - 39) Zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon).
 
@@ -431,8 +457,6 @@
 - 39bb) § 20 ods. 3 písm. b) zákona č. 137/2010 Z. z. o ovzduší.
 
 - 39c) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 273/2001 Z. z. o autorizácii, o vydávaní odborných posudkov vo veciach odpadov, o ustanovovaní osôb oprávnených na vydávanie odborných posudkov a o overovaní odbornej spôsobilosti týchto osôb v znení vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 399/2002 Z. z.
-
-- 39ca) § 4 ods. 5 zákona č. zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
 - 39cb) § 19 ods. 1 zákona č. 39/2013 Z. z.
 

@@ -72,7 +72,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - a) | Vyhotovenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, evidencií, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu ..... | 1,50 eura
 
-  - b) | Vyhotovenie výpisu z matričnej knihy alebo písomného potvrdenia matričným úradom s výnimkou prvého úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí ..... | 5 eur
+  - b) | Vyhotovenie výpisu z matričnej knihy alebo písomného potvrdenia matričným úradom alebo osobitnou matrikou s výnimkou prvého úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí ..... | 5 eur
 
   - c) | Osvedčenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu |
 
@@ -104,9 +104,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - m) | vyhotovenie výstupu z informačného systému Obchodný register okresným úradom ..... | 4 eurá
 
-  - Oslobodenie Od poplatkov podľa písmen a) a b) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. Od poplatkov podľa písmena e) sú oslobodené úkony týkajúce sa dokladov o získaných špecializáciách zdravotníckych pracovníkov. | |
+  - n) | Vyhotovenie fotokópie listiny, ktorá je súčasťou podania na začatie konania na správnom orgáne podľa osobitných predpisov<sup>8c</sup>) za každé aj začaté dve strany | 0,50 eura.
 
-  - Poznámky 1. Poplatok podľa písmena a) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena a) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
+  - Oslobodenie Od poplatkov podľa písmen a) a c) tejto položky sú oslobodené osvetové strediská, hvezdárne, planetáriá, knižnice, múzeá, galérie a štátne divadlá. Od poplatkov podľa písmena e) sú oslobodené úkony týkajúce sa dokladov o získaných špecializáciách zdravotníckych pracovníkov. | |
+
+  - Poznámky 1. Poplatok podľa písmen a) a n) tejto položky sa vyberie po vykonaní úkonu na základe ústnej alebo písomnej výzvy. 2. Poplatok podľa písmena b) tejto položky sa nevyberie za vyhotovenie úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí po oprave chybného údaja vykonaného z úradnej povinnosti. | |
 
     - Položka 3
 
@@ -430,7 +432,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodená zmena mena alebo priezviska podľa § 7 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 300/1993 Z. z. o mene a priezvisku v znení neskorších predpisov. 2. Od poplatku podľa tejto položky je oslobodená zmena mena alebo zmena priezviska v dôsledku nesprávneho alebo neúplného zápisu v matrike. |
 
-  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
+  - Poznámky 1. Za zmenu priezviska manželov a ich maloletých detí alebo za zmenu priezviska rodiča a maloletých detí na spoločné priezvisko sa vyberie jeden poplatok. 2. Podľa písmena a) tejto položky sa vyberie poplatok za povolenie zmeny priezviska dieťaťa zvereného do náhradnej osobnej starostlivosti na priezvisko osoby, ktorej bolo zverené, na spoločné priezvisko pestúnov alebo na priezvisko dohodnuté pre ich vlastné deti, ak osobou, ktorej bolo zverené, alebo pestúnmi sú starí rodičia alebo súrodenci rodičov maloletých detí. 3. Za zmenu priezviska viacerých maloletých detí toho istého rodiča sa vyberie len jeden poplatok. 4. Poplatok podľa tejto položky sa vyberie až po vykonaní úkonu. |
 
     - Položka 20
 
@@ -639,18 +641,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 28
 
   - Návrh vlastníka ochrannej stavby na začatie konania o zrušení zariadenia civilnej ochrany ..... | 66 eur
-
-    - Položka 29
-
-  - a) | Poskytnutie geodetických súradníc hraničných bodov a hraničných znakov, za každý bod/znak ..... | 2 eurá
-
-  - b) | Vydanie stanoviska Ministerstva vnútra Slovenskej republiky k stavbe, stavebnému, technickému a inému opatreniu v bezprostrednej blízkosti štátnych hraníc ..... | 6,50 eura
-
-  - c) | Vydanie stanoviska k žiadosti o vybratie hraničného znaku |
-
-  - | pre fyzickú osobu ..... | 50 eur
-
-  - | pre právnickú osobu ..... | 400 eur
 
     - Položka 30
 
@@ -1358,7 +1348,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodený zápis držiteľa motorového vozidla alebo prípojného vozidla nadobudnutého dedením, na základe úradného príkazu alebo rozhodnutia súdu a zániku bezpodielového spoluvlastníctva manželov. 2. Od poplatku podľa písmen a) a b) tejto položky je oslobodený prvý zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> a ďalší zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub>podľa písmena d) tejto položky, ak bol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 3. Od poplatku podľa písmena a) tejto položky je oslobodený prvý zápis držiteľa motorového vozidla kategórie L<sub>1e</sub>podľa § 23a zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
 
-  - Poznámky 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie osobami s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 2. Poplatníkom je nový držiteľ motorového alebo prípojného vozidla. | |
+  - Poznámky 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie osobami s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 2. Poplatníkom je nový držiteľ motorového alebo prípojného vozidla. 3. Poplatok podľa písmena b) tejto položky sa zníži o 50 % pri prvom zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20aa</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na 4 deti najviac do veku 18 rokov vrátane. Pri prvom zápise držiteľa motorového vozidla podľa prvej vety je potrebné priložiť fotokópiu rodného listu dieťaťa. | |
 
     - Položka 66
 
@@ -1474,7 +1464,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - l) povolenie, schválenie alebo uznanie podľa písmen a) až k) pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla alebo peňažný príspevok na úpravu osobného motorového vozidla podľa osobitného zákona<sup>20a).....</sup> | 2 eurá.
 
-  - Splnomocnenie 1. Za podanie žiadosti o dodatočné vydanie povolenia podľa písmen a) a b) tejto položky správny orgán vyberie poplatok do výšky päťnásobku sadzby. 2. Správny orgán vyberie trojnásobok správneho poplatku podľa písmen c), e) až h), ak poplatník (účastník konania) pri doručení žiadosti žiada rozhodnúť urýchlene do 10 pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Príplatok za urýchlené rozhodnutie je splatný v deň podania žiadosti. Ak sa konanie zastavilo alebo žiadosť bola zamietnutá, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o žiadosti nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky. |
+  - Splnomocnenie 1. Za podanie žiadosti o dodatočné vydanie povolenia podľa písmen a) a b) tejto položky správny orgán vyberie poplatok do výšky päťnásobku sadzby. 2. Správny orgán vyberie trojnásobok správneho poplatku podľa písmen c), e) až h), ak poplatník (účastník konania) pri doručení žiadosti žiada rozhodnúť urýchlene do piatich pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Príplatok za urýchlené rozhodnutie je splatný v deň podania žiadosti. Ak sa konanie zastavilo alebo žiadosť bola zamietnutá, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o žiadosti nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky. |
 
   - | | Poznámka Ak žiadateľ jednou žiadosťou podľa písmen c), d) a i) tejto položky požaduje viac schválení, poplatky sa sčítavajú. |
 
@@ -1490,7 +1480,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 69a
 
-  - Povolenie evidencie, uvedenia na trh alebo uvedenia do prevádzky v premávke na pozemných komunikáciách nových vozidiel zhodných s typom vozidla, ktorého typové schválenie alebo typové schválenie ES už stratilo platnosť (vozidlá končiacich sérií) podľa osobitných predpisov,<sup>21a</sup>) a to za každé povolené vozidlo.................. | 33 eur
+  - Povolenie evidencie, uvedenia na trh alebo uvedenia do prevádzky v premávke na pozemných komunikáciách nových vozidiel zhodných s typom vozidla, ktorého typové schválenie alebo typové schválenie ES už stratilo platnosť (vozidlá končiacich sérií) podľa osobitných predpisov,<sup>21a</sup>) a to za každé povolené vozidlo | |
+
+  - a) | kategórie L<sub>1e</sub>, L<sub>2e</sub>, L<sub>6e</sub>, O<sub>1</sub>, O<sub>2</sub>, Ra a Sa ...... | 25 eur
+
+  - b) | ostatných kategórií iných, ako sú uvedené v písmene a) ....... | 50 eur.
+
+    - Položka 69b
+
+  - Podanie žiadosti o |
+
+  - a) poskytnutie údajov z jednotného informačného systému v cestnej doprave,<sup>21b</sup>) ktoré sa týkajú osoby žiadateľa ......................... | 5 eur
+
+  - b) vydanie štatistických údajov z jednotného informačného systému v cestnej doprave,<sup>21b</sup>) ktoré neobsahujú osobné údaje ...................... | 20 eur
+
+  - Poznámka Poplatok podľa písmena b) tejto položky vyberá Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky. |
 
     - Položka 70
 
@@ -1668,17 +1672,33 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) | Vykonanie skúšky pri preskúšaní odbornej spôsobilosti držiteľa vodičského oprávnenia | 16,50 eura
 
-  - e) | Vykonanie skúšky na získanie inštruktorského oprávnenia |
+  - e) | Vykonanie skúšky na udelenie inštruktorského oprávnenia v rozsahu |
 
-  - | 1. skupiny AM, A1, A2, A | 16,5 eura
+  - | 1. skupiny A | 20 eur
 
-  - | 2. skupiny B1, B, BE, T | 33 eur
+  - | 2. skupiny B | 40 eur
 
-  - | 3. skupiny C1, C1E, D1, D1E | 49,5 eura
+  - | 3. skupiny C | 60 eur
 
-  - | 4. skupiny C, CE, D, DE | 66 eur
+  - | 4. skupiny D | 60 eur
 
-  - f) | Vykonanie skúšky na predĺženie platnosti inštruktorského oprávnenia | 16,50 eura
+  - | 5. skupiny BE | 40 eur
+
+  - | 6. skupiny CE | 80 eur
+
+  - | 7. skupiny C1E | 80 eur
+
+  - | 8. skupiny DE | 80 eur
+
+  - | 9. skupiny D1E | 80 eur
+
+  - | 10. skupiny AM | 20 eur
+
+  - | 11. skupiny T | 20 eur
+
+  - f) | Vykonanie skúšky na predĺženie platnosti inštruktorského preukazu | 20 eur
+
+  - g) | Vydanie inštruktorského preukazu alebo predĺženie jeho platnosti | 10 eur
 
   - Poznámky 1. Správny orgán vyberie poplatky podľa tejto položky vo výške 25 %, ak ide o skúšku na získanie vodičského oprávnenia, ak sa výcvik vykonával na stredných (aj vojenských) školách a odborných učilištiach v rámci povinného predmetu dopravnej výchovy, ak sa výcvik vykonával na stredných odborných školách Policajného zboru v rámci odbornej prípravy, ak ide o vykonanie skúšky na získanie vodičského oprávnenia odvedencov a o opakované skúšky. 2. Poplatok podľa tejto položky sa nevyberie za preskúšanie odbornej spôsobilosti pri vydaní vodičského preukazu náhradou za vodičský preukaz vydaný v cudzine. 3. Poplatok podľa písmena a) tejto položky sa vyberie za každú skupinu vodičského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín vodičského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. 4. Správny orgán vyberie poplatok podľa písmena e) tejto položky vo výške 50 % za opakovanú skúšku na získanie inštruktorského oprávnenia. Poplatok podľa písmena e) tejto položky sa vyberie za každú skupinu inštruktorského oprávnenia, ktorú žiadateľ získava. Pri získavaní viacerých skupín inštruktorského oprávnenia v rámci jednej skúšky sa poplatky sčítavajú. To neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
 
@@ -1722,37 +1742,53 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 77
 
-  - Vydanie osvedčenia o registrácii autoškoly, ak ide | |
+  - Podanie žiadosti o
 
-  - a) | o vykonávanie výučby a výcviku účastníkov prípravy na skúšku odbornej spôsobilosti na vydanie oprávnenia viesť motorové vozidlá a doškoľovacích kurzov držiteľov vodičských oprávnení |
+  - a) | registráciu autoškoly na vykonávanie kurzov |
 
   - | 1. skupiny AM, A1, A2, A | 100 eur
 
-  - | 2. skupiny B1, B, BE, T | 100 eur
+  - | 2. skupiny B1, B, BE | 100 eur
 
-  - | 3. skupiny C1, C1E, D1, D1E | 100 eur
+  - | 3. skupiny C1, C1E, C, CE | 100 eur
 
-  - | 4. skupiny C, CE, D, DE | 100 eur
+  - | 4. skupiny D1, D1E, D, DE | 100 eur
 
-  - b) | o vykonanie zmeny v osvedčení o registrácii | 100 eur
+  - | 5. skupiny T | 100 eur
+
+  - b) | rozšírenie rozsahu skupín v rámci registrácie autoškoly sa vyberie poplatok podľa písmena a), |
+
+  - c) | vykonanie zmeny druhu vykonávaných kurzov v rámci registrácie autoškoly | 100 eur
+
+  - d) | vykonanie akejkoľvek inej zmeny ako podľa písmen b) a c) | 20 eur
 
   - Poznámky | |
 
-  - 1. Poplatok podľa písmena a) sa vyberie za každú skupinu samostatne. Ak sa jedna registrácia týka viacerých skupín, poplatky uvedené za jednotlivé skupiny sa zrátajú; to neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
+  - 1. Poplatok podľa písmena a) a b) sa vyberie za každú skupinu samostatne. Ak sa jedna registrácia týka viacerých skupín, poplatky uvedené za jednotlivé skupiny sa zrátajú; to neplatí, ak získaná skupina zahŕňa ďalšiu skupinu. | |
 
-  - 2. Poplatok podľa písmena b) sa nevyberie, ak ide o zmenu registrácie na základe úradného rozhodnutia, napr. v dôsledku zmeny názvu ulice alebo číslovania domov. | |
+  - 2. Poplatok podľa písmena d) sa nevyberie, ak ide o zmenu registrácie na základe úradného rozhodnutia, napr. v dôsledku zmeny názvu ulice alebo číslovania domov. | |
 
     - Položka 77a
 
   - a) | Registrácia na vykonávanie kurzu základnej kvalifikácie alebo pravidelného výcviku | 100 eur
 
-  - b) | Vydanie osvedčenia o základnej kvalifikácii alebo osvedčenia o pravidelnom výcviku vodiča | 5 eur
+  - b) | Zmena v registrácii na vykonávanie kurzov základnej kvalifikácie alebo pravidelného výcviku | 30 eur
 
-  - c) | Vydanie kvalifikačnej karty vodiča | 50 eur
+  - c) | Vydanie osvedčenia o základnej kvalifikácii alebo osvedčenia o pravidelnom výcviku vodiča | 5 eur
 
-  - d) | Vykonanie skúšky základnej kvalifikácie ..... | 50 eur.
+  - d) | Vydanie kvalifikačnej karty vodiča | 50 eur
 
-  - Splnomocnenie Pri podaní prihlášky o opakovanú skúšku podľa písmena d) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. | |
+  - e) | Vykonanie skúšky základnej kvalifikácie ..... | 50 eur.
+
+  - Splnomocnenie Pri podaní prihlášky o opakovanú skúšku podľa písmena e) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. | |
+
+  - Poznámky | |
+
+  - 1. Ak sa jedným podaním žiada o registráciu na vykonávanie kurzu základnej kvalifikácie a o registráciu na vykonávanie kurzu pravidelného výcviku, vyberie sa iba jeden správny poplatok podľa písmena a). | |
+
+  - 2. Ak sa jedným podaním žiada o zmenu v registrácii na vykonávanie kurzu základnej kvalifikácie a o zmenu v registrácii na vykonávanie kurzu pravidelného výcviku, vyberie sa iba jeden správny poplatok podľa písmena b). | |
+
+  - 3. Poplatok podľa písmena b) sa nevyberie, ak ide o zmenu registrácie na základe úradného rozhodnutia, napr. v dôsledku zmeny názvu ulice alebo číslovania domov. | |
 
     - Položka 77b
 
@@ -1761,6 +1797,10 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - a) | schválenie spôsobilosti trenažéra používaného v autoškolách ..... | 100 eur
 
   - b) | zmenu v osvedčení o spôsobilosti trenažéra používaného v autoškolách ..... | 50 eur
+
+  - c) | schválenie spôsobilosti typu identifikačného zariadenia na používanie v autoškolách alebo schválenie programového vybavenia autoškoly ................... | 100 eur
+
+  - d) | zmenu v osvedčení o spôsobilosti typu identifikačného zariadenia na používanie v autoškolách alebo v osvedčení o schválení programového vybavenia autoškoly........ | 50 eur
 
   - Poznámka Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice. | |
 
@@ -1796,11 +1836,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 78a
 
-  - a) Podanie prihlášky na vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti alebo predĺženia platnosti osvedčenia o odbornej spôsobilosti |
+  - a) Podanie žiadosti o vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti alebo predĺženia platnosti osvedčenia o odbornej spôsobilosti |
 
   - 1. kontrolného technika ..... | 100 eur,
 
-  - 2. technika emisnej kontroly ..... | 80 eur,
+  - 2. technika emisnej kontroly ..... | 100 eur,
 
   - 3. technika kontroly originality ..... | 100 eur,
 
@@ -1820,7 +1860,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie |
 
-  - Pri podaní prihlášky o opakovanú skúšku podľa písmena a) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. |
+  - Pri podaní žiadosti o opakovanú skúšku podľa písmena a) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. |
 
   - Poznámka |
 
@@ -1868,7 +1908,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | na neobmedzený počet prepráv jedným vozidlom ..... | 1 100 eur
 
-  - d) | Podanie žiadosti o schválenie cestovného poriadku alebo o jeho zmenu ..... | | 15 eur
+  - d) | Schválenie cestovného poriadku alebo jeho zmeny ..... | | 15 eur
 
   - e) | Vydanie povolenia medzinárodnej organizácie (CEMT)<sup>23)</sup>na medzinárodnú nákladnú cestnú dopravu | |
 
@@ -1886,31 +1926,35 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | na opakovanú (kyvadlovú) dopravu ..... | 20 eur
 
-  - g) | Vydanie povolenia na vykonávanie povolania prevádzkovateľa osobnej cestnej dopravy<sup>22b)</sup>alebo vydanie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej dopravy<sup>22b)</sup>alebo udelenie koncesie na výkon taxislužby<sup>22ba</sup>) ..... | | 30 eur
+  - g) | Podanie žiadosti o vydanie povolenia na vykonávanie povolania prevádzkovateľa osobnej cestnej dopravy<sup>22b)</sup>alebo o vydanie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej dopravy<sup>22b)</sup>alebo o udelenie koncesie na výkon taxislužby<sup>22ba</sup>) ..... | | 30 eur
 
-  - h) | Vydanie licencie Spoločenstva<sup>22c)</sup> ..... | | 20 eur
+  - h) | Podanie žiadosti o vydanie licencie Spoločenstva<sup>22c)</sup> ..... | | 20 eur
 
-  - i) | Vydanie overenej kópie licencie Spoločenstva na každé vozidlo ..... | | 3 eurá
+  - i) | Podanie žiadosti o vydanie overenej kópie licencie Spoločenstva na každé vozidlo ..... | | 3 eurá
 
   - j) | Vydanie osvedčenia o prevádzkovaní cestnej dopravy pre vlastnú potrebu podľa osobitného predpisu<sup>22d)</sup> ..... | | 10 eur
 
-  - k) | Vydanie, predĺženie platnosti alebo vydanie duplikátu osvedčenia o odbornej príprave bezpečnostného poradcu<sup>22a)</sup> ..... | | 30 eur
+  - k) | Podanie žiadosti o vydanie, zmenu údajov, predĺženie platnosti alebo vydanie duplikátu osvedčenia o odbornej spôsobilosti bezpečnostného poradcu na prepravu nebezpečných vecí<sup>22a</sup>) ........... | | 30 eur
 
   - l) | Vydanie osvedčenia vodiča<sup>22e)</sup> ..... | | 10 eur
 
-  - m) | Vydanie osvedčenia vodičov vozidiel prepravujúcich nebezpečné veci vo forme a s obsahom podľa dohody ADR (Európskej dohody o medzinárodnej cestnej preprave nebezpečných vecí) ..... | | 20 eur
+  - m) | Podanie žiadosti o vydanie, zmenu údajov alebo vydanie duplikátu ADR osvedčenia o školení vodiča<sup>22a</sup>) ..... | | 20 eur
 
-  - n) | Vykonanie skúšky vodiča taxislužby<sup>22bb</sup>) ..... | | 50 eur
+  - n) | Podanie prihlášky na vykonanie skúšky vodiča taxislužby<sup>22bb</sup>) ..... | | 50 eur
 
-  - o) | Vydanie preukazu vodiča vozidla taxislužby<sup>22bc</sup>) ..... | | 50 eur
+  - o) | Podanie žiadosti o vydanie preukazu vodiča vozidla taxislužby<sup>22bc</sup>) alebo jeho duplikátu..... | | 50 eur
 
-  - p) | Odňatie povolenia na vykonávanie prevádzkovateľa nákladnej cestnej alebo osobnej cestnej dopravy alebo koncesie na taxislužbu, na vlastnú žiadosť prevádzkovateľa cestnej dopravy ..... | | 10 eur
+  - p) | Podanie žiadosti o odňatie povolenia na vykonávanie povolania prevádzkovateľa nákladnej cestnej alebo osobnej cestnej dopravy alebo koncesie na taxislužbu ..... | | 10 eur
 
-  - q) | Zmena povolenia na vykonávanie povolania prevádzkovateľa cestnej dopravy podľa písmena g) položky<sup>22bd</sup>) ..... | | 10 eur
+  - q) | Podanie žiadosti o zmenu povolenia na vykonávanie povolania prevádzkovateľa cestnej dopravy podľa písmena g) položky<sup>22bd</sup>) ..... | | 10 eur
 
-  - r) | Vykonanie skúšky odbornej spôsobilosti v oblasti cestnej nákladnej dopravy alebo osobnej cestnej dopravy alebo spôsobilosti v taxislužbe ..... | | 100 eur
+  - r) | Podanie prihlášky na vykonanie skúšky odbornej spôsobilosti v oblasti cestnej nákladnej dopravy alebo osobnej cestnej dopravy alebo spôsobilosti v taxislužbe ..... | | 100 eur
 
-  - s) | Vydanie osvedčenia o odbornej spôsobilosti v cestnej nákladnej doprave alebo v cestnej osobnej doprave, alebo v taxislužbe ..... | | 10 eur
+  - s) | Podanie žiadosti o vydanie osvedčenia o odbornej spôsobilosti v cestnej nákladnej doprave alebo v cestnej osobnej doprave, alebo v taxislužbe alebo jeho duplikátu ..... | | 10 eur
+
+  - t) | Podanie žiadosti o vydanie poverenia na vykonávanie odbornej prípravy bezpečnostných poradcov a vodičov vozidiel prepravujúcich nebezpečné veci alebo žiadosť o predĺženie jeho platnosti ..... | | 100 eur
+
+  - u) | Podanie žiadosti o vykonanie zmeny v poverení na vykonávanie odbornej prípravy bezpečnostných poradcov a vodičov vozidiel prepravujúcich nebezpečné veci ..... | | 50 eur
 
   - Splnomocnenie 1. Správny orgán môže upustiť od vybratia poplatku, ak ide o prepravu poľnohospodárskych výrobkov, prepravu vykonanú z humanitných dôvodov alebo z dôvodov verejného záujmu. 2. Správny orgán môže na základe vzájomnosti od vybratia poplatku upustiť alebo sadzbu poplatku znížiť. V odôvodnených prípadoch, predovšetkým z hľadiska zabezpečenia zásad dopravnej politiky, môže správny orgán poplatok podľa tejto položky zvýšiť až na trojnásobok. 3. Za dodatočne vydávanú licenciu (povolenie) môže správny orgán zvýšiť príslušnú sadzbu poplatku až na trojnásobok. 4. Pri podaní prihlášky o opakovanú skúšku podľa písmen n) a r) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. 5. Od poplatku podľa písmena d) je oslobodený dopravca, ktorý žiada o schválenie alebo zmenu cestovného poriadku na autobusovej linke, ktorá je súčasťou záväzku dopravcu, ktorý pre neho vyplýva zo zmluvy o službách vo verejnom záujme uzatvorenej s objednávateľom dopravných služieb. | | |
 
@@ -1984,7 +2028,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 2. | ostatné prípady ..... | | 380 eur
 
-  - c) | za prepravu nadmerného alebo nadrozmerného stavebného mechanizmu po vlastnej osi alebo na podvozku | | |
+  - c) | | za nadmernú prepravu, ak celková hmotnosť motorového vozidla alebo jazdnej súpravy neprekročí 60 t, alebo nadrozmernú prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac šesť mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na päťnásobok | |
+
+  - d) | | za nadmernú prepravu, ak celková hmotnosť motorového vozidla alebo jazdnej súpravy prekročí 60 t, alebo nadrozmernú prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac troch mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na dva a pol násobok | |
+
+  - e) | za prepravu nadmerného alebo nadrozmerného stavebného mechanizmu po vlastnej osi alebo na podvozku | | |
 
   - | 1. | za každú jednotlivú prepravnú trasu a prepravný zámer, ak celková hmotnosť stavebného mechanizmu vrátane podvozku a ťahača | |
 
@@ -1998,9 +2046,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | | 2.2. | pri splnení podmienok podľa bodu 1.2 ..... | 1 150 eur
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti s poľnohospodárskymi prácami. Splnomocnenie 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. 3. Správny orgán môže pri nadmerných alebo nadrozmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. | | | |
+  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti s poľnohospodárskymi prácami. Splnomocnenie 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu za nadrozmernú prepravu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. 3. Pri určení poplatku vyberaného dodatočne rozhodnutím cestného správneho orgánu za nadmernú prepravu, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu, sa čiastkové sadzby podľa písmena a) bodov 2.1 a 2.2 posudzujú jednotlivo podľa toho, o aké percentuálne preťaženie celkovej hmotnosti vrátane nákladu alebo nápravového zaťaženia ide 3.1 pri prekročení prípustnej celkovej hmotnosti vrátane nákladu, ak preťaženie (vyjadrené v %) je od 3,01 % do 6 % ........................ sadzba určená podľa písmena a) bodu 2.1 od 6,01 % do 9 % ....................... dvojnásobok sadzby určenej podľa písmena a) bodu 2.1 nad 9,01 % .................................. trojnásobok sadzby určenej podľa písmena a) bodu 2.1 3.2 pri prekročení prípustnej hmotnosti na nápravu bez rozdielu, o akú nápravu ide, ak preťaženie (vyjadrené v %) je od 3,01 % do 6 % ........................ sadzba určená podľa písmena a) bodu 2.2 od 6,01 % do 9 % ...................... dvojnásobok sadzby určenej podľa písmena a) bodu 2.2 nad 9,01 % ............................. trojnásobok sadzby určenej podľa písmena a) bodu 2.2 Výsledný poplatok pri dodržaní bodov 6 a 8 časti Poznámky sa určí ako súčet čiastkových sadzieb bodov 3.1 a 3.2. 4. Správny orgán môže pri nadmerných alebo nadrozmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. | | | |
 
-  - Poznámky 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>) 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke. 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty. 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1 (1.1 až 1.3). 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá. 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel. 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá. 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1 a 2.2. 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2. 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a) ešte sadzba podľa písmena b). 13. Poplatky podľa písmena c) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania vo vzdialenosti 30 km. | | | |
+  - Poznámky 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>) 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke. 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty. 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1 (1.1 až 1.3). 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave, s výnimkou návesovej súpravy. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá. 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel. 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá. 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1 a 2.2. 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2. 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a), c) alebo d) ešte sadzba podľa písmena b). Pri poplatku vyberanom podľa Splnomocnenia bodu 2 sa sadzba podľa písmena b) pripočíta len raz a to len vtedy, ak má cestný správny orgán preukázané, že k tranzitu došlo. 13. Poplatky podľa písmena e) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania vo vzdialenosti 30 km. 14. Poplatok podľa písmena d) sa použije, ak dopravca preukáže, že nie je technicky možné znížiť hmotnosť prepravy ani použiť iný spôsob prepravy a že zaťažiteľnosť mostov a nosnosť vozoviek overená štatistickým posúdením umožní realizáciu prepravy. 15. Ak sa už čiastočne alebo celkom vykonala preprava podľa písmena c) alebo d) a meraním hmotnosti, nápravových tlakov a rozmerov sa zistí, že boli porušené podmienky povolenia na zvláštne užívanie, takáto preprava sa posudzuje ako preprava bez povolenia na zvláštne užívanie. 16. Ak sa už čiastočne alebo celkom vykonala preprava podľa písmena e) bez povolenia na zvláštne užívanie, dodatočne rozhodnutím cestného správneho orgánu podľa Splnomocnenia bodu 3 sa posudzuje suma z čiastkových sadzieb uvedených v písmene a). | | | |
 
     - Položka 80a
 
@@ -2854,11 +2902,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Podanie návrhu na rozhodnutie sporu<sup>26</sup>) |
 
-  - a) o prístupe alebo prepojení........................................................................ | 1 659,50 eura
+  - a) o prístupe alebo prepojení, o prístupe k existujúcej fyzickej infraštruktúre a o koordinácii výstavby | 1 659,50 eura
 
-  - b) o spoločnom umiestnení a používaní zariadení....................................... | 829,50 eura
+  - b) o spoločnom umiestnení a používaní zariadení, o poskytovaní informácií o dostupnosti fyzickej infraštruktúry, o poskytovaní informácií o plánovaných stavbách a o prístupe k fyzickej infraštruktúre v budove | 829,50 eura
 
-  - c) okrem sporov podľa písm. a) a b)............................................................. | 331,50 eura
+  - c) okrem sporov podľa písm. a) a b) | 331,50 eura
 
     - Položka 100
 
@@ -2880,19 +2928,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 102
 
-  - a) vydanie osvedčenia o osobitnej odbornej spôsobilosti<sup>27e</sup>).................................................................. | 9,50 eura
+  - a) vydanie nového osvedčenia o osobitnej odbornej spôsobilosti bez overenia osobitnej odbornej spôsobilosti skúškou................................................................................................... | 6,50 eura
 
-  - b) žiadosť o vydanie duplikátu osvedčenia o osobitnej odbornej spôsobilosti.......................................... | 6,50 eura
+  - b) vykonanie skúšky osobitnej odbornej spôsobilosti v mimoriadnom termíne pre jedného žiadateľa..................................................................................................................................... | 100 eur
 
     - Položka 103
 
-  - a) overenie osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo plavebnej pohyblivej služby<sup>27e</sup>) | 6,50 eura
+  - a) vydanie osvedčenia o osobitnej odbornej spôsobilosti operátora amatérskych staníc, rádiotelefonistu leteckej pohyblivej služby alebo plavebnej pohyblivej služby<sup>27e</sup>)............................... | 20 eur
 
-  - b) overenie osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>) | 16,50 eura
+  - b) vydanie osvedčenia o osobitnej odbornej spôsobilosti pre ostatné druhy osvedčení<sup>27e</sup>)............... | 30 eur
 
-  - c) opravná skúška pri overení podľa písmena a) | 3 eurá
+  - c) opravná skúška pri overení podľa písmena a).................................................................................. | 3 eurá
 
-  - d) opravná skúška pri overení podľa písmena b) | 6,50 eura
+  - d) opravná skúška pri overení podľa písmena b).................................................................................. | 6,50 eura
 
     - Položka 104
 
@@ -2982,9 +3030,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 143
 
-  - a) Vydanie rozhodnutia o delegovaní miestnej príslušnosti na správu dane, vydanie rozhodnutia o predĺžení lehoty, vydanie rozhodnutia o odpustení zmeškanej lehoty, vydanie rozhodnutia o povolení odkladu platenia dane alebo platenia dane v splátkach, vydanie rozhodnutia o povolení úľavy na dani alebo odpustení daňového nedoplatku na dani v daňovom konaní na základe žiadosti daňového subjektu podľa osobitného predpisu<sup>32a</sup>) ................. | 9,50 eura | |
+  - a) Vydanie rozhodnutia o delegovaní miestnej príslušnosti na správu dane, vydanie rozhodnutia o predĺžení lehoty, vydanie rozhodnutia o odpustení zmeškanej lehoty, vydanie rozhodnutia o povolení odkladu platenia dane alebo platenia dane v splátkach, vydanie rozhodnutia o povolení úľavy na dani alebo odpustení daňového nedoplatku na dani v daňovom konaní na základe žiadosti daňového subjektu podľa osobitného predpisu<sup>32a</sup>) ......................... | 9,50 eura | |
 
-  - b) Vydanie potvrdenia orgánom finančnej správy podľa osobitného predpisu<sup>32a</sup>) .................. | 3 eurá | |
+  - b) Vydanie potvrdenia obcou<sup>32a</sup>) alebo orgánom finančnej správy podľa osobitného predpisu<sup>32aa</sup>) .................. | 3 eurá | |
 
   - c) Doplnenie údajov na predtlačenom tlačive, ktoré predloží žiadateľ ......................................................... | 1,50 eura | |
 
@@ -3086,23 +3134,27 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - d) | Podanie žiadosti o udelenie akreditácie .... | | 165,50 eura
 
-  - e) | Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na objekte osobitnej dôležitosti, za každú osobu ..... | | 3 eurá
+  - e) | Podanie žiadosti o vydanie novej licencie na prevádzku bezpečnostnej služby, vlastnej ochrany alebo technickej služby ..................... | | 20 eur
 
-  - f) | Podanie žiadosti o vydanie preukazu odbornej spôsobilosti bez vykonania skúšky a odbornej prípravy podľa § 19 ods. 3 a 4 zákona o súkromnej bezpečnosti ..... | | 50 eur
+  - f) | Uznanie odbornej spôsobilosti ................. | | 100 eur
 
-  - g) | Vydanie licencie na prevádzkovanie bezpečnostnej služby, vlastnej ochrany alebo technickej služby ..... | | 33 eur
+  - g) | Podanie žiadosti o preverenie spoľahlivosti osoby, ktorá má byť poverená výkonom fyzickej ochrany na objekte osobitnej dôležitosti, za každú osobu ..... | | 3 eurá
 
-  - h) | Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ..... ..... | | 33 eur
+  - h) | Podanie žiadosti o vydanie preukazu odbornej spôsobilosti bez vykonania skúšky a odbornej prípravy podľa § 19 ods. 3 a 4 zákona o súkromnej bezpečnosti ..... | | 50 eur
 
-  - i) | Vydanie preukazu odbornej spôsobilosti ..... | | 16,50 eura
+  - i) | Vydanie licencie na prevádzkovanie bezpečnostnej služby, vlastnej ochrany alebo technickej služby ..... | | 33 eur
 
-  - j) | Vydanie rozhodnutia o udelení akreditácie ..... | | 33 eur
+  - j) | Vydanie osvedčenia o vykonaní kvalifikačnej skúšky ..... ..... | | 33 eur
 
-  - k) | Vydanie rozhodnutia o zmene rozhodnutia o udelení licencie ..... | | 16,50 eura
+  - k) | Vydanie preukazu odbornej spôsobilosti ..... | | 16,50 eura
 
-  - l) | Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ..... | | 66 eur
+  - l) | Vydanie rozhodnutia o udelení akreditácie ..... | | 33 eur
 
-  - m) | Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | | 16,50 eura
+  - m) | Vydanie rozhodnutia o zmene rozhodnutia o udelení licencie ..... | | 16,50 eura
+
+  - n) | Vydanie rozhodnutia o zmene rozhodnutia o udelení akreditácie ..... | | 66 eur
+
+  - o) | Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | | 16,50 eura
 
   - Oslobodenie Od poplatku podľa písmen b) a h) tejto položky sú oslobodení príslušníci Vojenskej polície, príslušníci ozbrojených bezpečnostných zborov Slovenskej republiky a príslušníci ozbrojených zborov Slovenskej republiky. | | |
 
@@ -3198,7 +3250,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - g) | Vyhotovenie duplikátu záväzného stanoviska alebo rozhodnutia podľa písmena f) ..... | | 10 eur
 
-  - h) | Vykonanie skúšky pred komisiou na preskúšanie odbornej spôsobilosti ..... | | 30 eur
+  - h) | vykonanie skúšky odbornej spôsobilosti alebo vykonanie opakovanej skúšky<sup>36b</sup>) | | 30 eur
 
   - i) | Vydanie osvedčenia o odbornej spôsobilosti<sup>36b</sup>)..... | | 20 eur
 
@@ -3282,19 +3334,21 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 3. | zmeny podľa bodu 2, ak jej predchádzalo vydanie rozhodnutia podľa písmena z) ..... | 30 eur
 
-  - ab) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
+  - ab) | oznámenie o zložení a označovaní výživových doplnkov alebo nových potravín, ktoré sa umiestňujú na trh .................... | | 50 eur
 
-  - ac) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
+  - ac) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii študijného programu sústavného vzdelávania<sup>36bd</sup>)..... | | 70 eur
 
-  - ad) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ... | | 100 eur
+  - ad) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
 
-  - ae) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - ae) | Vydanie osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>) ..... | | 100 eur
 
-  - af) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
+  - af) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - ag) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+  - ag) | Zmena osvedčenia Ministerstva zdravotníctva Slovenskej republiky o akreditácii kurzu inštruktora prvej pomoci<sup>36bd</sup>)..... | | 50 eur
 
-  - ah) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
+  - ah) | Oznámenie sprostredkovania nákupu alebo predaja humánnych liekov ..... | | 100 eur
+
+  - ai) | Oznámenie výroby, dovozu alebo distribúcie účinnej látky ..... | | 100 eur
 
     - Položka 150a
 
@@ -3768,57 +3822,69 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 162
 
-  - a) Žiadosť o udelenie súhlasu na prevádzkovanie zariadenia na zneškodňovanie odpadov<sup>38</sup>) okrem spaľovní odpadov a zariadení na spoluspaľovanie odpadov ..... | 11 eur
+  - a) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zneškodňovanie odpadov<sup>38</sup>) okrem spaľovní odpadov, zariadení na spoluspalovanie odpadov a vodných stavieb, v ktorých sa zneškodňujú osobitné druhv kvapalných odpadov | 11 eur
 
-  - b) Žiadosť o udelenie súhlasu na zneškodňovanie odpadov,<sup>38</sup>) na ktoré nebol daný súhlas podľa písm. a), okrem zneškodňovania odpadov v spaľovniach a v zariadeniach na spoluspaľovanie odpadov ..... | 11 eur
+  - b) Vydanie rozhodnutia o udelení súhlasu na zneškodňovanie odpadov,<sup>38</sup>) na ktoré nebol daný súhlas podľa písmena a) a zhodnocovanie odpadov, na ktoré nebol vydaný súhlas podľa písmena c), okrem zneškodňovania alebo zhodnocovania odpadov v spaľovniach odpadov, v zariadeniach na spoluspaľovanie odpadov a vo vodných stavbách, v ktoiých sa zneškodňujú alebo zhodnocujú osobitné druhy kvapalných odpadov | 11 eur
 
-  - c) Žiadosť o udelenie súhlasu na prevádzkovanie zariadenia na zhodnocovanie odpadov<sup>38</sup>) okrem spaľovní odpadov a zariadení na spoluspaľovanie odpadov ..... | 11 eur
+  - c) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zhodnocovanie odpadov<sup>38</sup>) okrem spaľovní odpadov, zariadení na spoluspaľovanie odpadov, vodných stavieb, v ktorých sa zhodnocujú osobitné druhy kvapalných odpadov, zariadení na zhodnocovanie biologicky rozložiteľného komunálneho odpadu zo zelene, ak jeho ročná kapacita neprevyšuje 100 ton a zariadení na zmenšovanie objemu komunálnych odpadov, ak jeho ročná kapacita neprevyšuje 50 ton | 11 eur
 
-  - d) Žiadosť o udelenie súhlasu na prevádzkovanie zariadenia na zber odpadov,<sup>38</sup>) ak ide o zariadenie, na prevádzku ktorého nebol daný súhlas podľa písm. a) a c) ..... | 11 eur
+  - d) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie zariadenia na zber odpadov,<sup>38</sup>) ak ide o zariadenie, na prevádzku ktorého nebol daný súhlas podľa písmen a) a c) vrátane zberného dvora<sup>38</sup>) | 11 eur
 
-  - e) Žiadosť o udelenie súhlasu na zmenu a rekonštrukcie zariadení na zhodnocovanie odpadov, zneškodňovanie odpadov a zber odpadov alebo ich častí, na ktorých prevádzkovanie sa vydáva súhlas, ak majú vplyv na nakladanie s odpadmi v zariadení<sup>38</sup>) ..... | 11 eur
+  - e) Vydanie rozhodnutia o udelení súhlasu na vydanie prevádzkového poriadku zariadenia na zneškodňovanie odpadov, zariadenia na zhodnocovanie odpadov a vydanie prevádzkového poriadku mobilného zariadenia na zhodnocovanie alebo zneškodňovanie odpadov<sup>38</sup>) | 11 eur
 
-  - f) Žiadosť o udelenie súhlasu na nakladanie s nebezpečnými odpadmi<sup>38</sup>) ..... | 11 eur
+  - f) Vydanie rozhodnutia o udelení súhlasu na nakladanie s nebezpečnými odpadmi<sup>38</sup>) vrátane ich prepravy, ak nie je súčasťou žiadosti podľa iných písmen tejto položky, a to v prípade, ak pôvodca odpadu alebo držiteľ odpadu ročne nakladá v súhrne s väčším množstvom ako 1 tona alebo ak prepravca prepravuje ročne väčšie množstvo ako 1 tona nebezpečných odpadov | 11 eur
 
-  - g) Žiadosť o udelenie súhlasu na prepravu nebezpečných odpadov<sup>38</sup>) ...... | 11 eur
+  - g) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie nebezpečných odpadov u pôvodcu alebo držiteľa, ak zhromažďuje ročne väčšie množstvo ako 1 tona nebezpečných odpadov<sup>38</sup>) | 11 eur
 
-  - h) Žiadosť o udelenie súhlasu na vydanie prevádzkového poriadku zariadenia na zneškodňovanie odpadov a zariadenia na zhodnocovanie nebezpečných odpadov<sup>38</sup>) ..... | 11 eur
+  - h) Vydanie rozhodnutia o udelení súhlasu na zhodnocovanie odpadov alebo zneškodňovanie odpadov mobilným zariadením;<sup>38</sup>) v tom prípade sa ustanovenia písmen a) až c) nepoužijú | 11 eur
 
-  - i) Žiadosť o udelenie súhlasu na použitie technológie na nakladanie s nebezpečnými odpadmi na mobilných zariadeniach vrátane všeobecných podmienok prevádzkovania mobilného zariadenia<sup>38</sup>) ..... | 20 eur
+  - i) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie odpadov držiteľom odpadu bez predchádzajúceho triedenia,<sup>38</sup>) ak vzhľadom na následný spôsob ich zhodnocovania alebo zneškodňovania nie je triedenie a oddelené zhromažďovanie možné alebo účelné | 11 eur
 
-  - j) Žiadosť o udelenie súhlasu na prvé uvedenie technológie na nakladanie s nebezpečnými odpadmi na trh v Slovenskej republike<sup>38</sup>) ..... | 20 eur
+  - j) Vydanie rozhodnutia o udelení súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie iei rekultivácie a jej následné monitorovanie<sup>38</sup>) | 11 eur
 
-  - k) Žiadosť o udelenie súhlasu na zhromažďovanie odpadov držiteľom odpadu bez predchádzajúceho triedenia,<sup>38</sup>) ak vzhľadom na následný spôsob ich zhodnocovania alebo zneškodňovania nie je triedenie a oddelené zhromažďovanie možné alebo účelné ..... | 11 eur
+  - k) Vydanie rozhodnutia o udelení súhlasu na využívanie odpadov na povrchovú úpravu terénu<sup>38</sup>) | 11 eur
 
-  - l) Žiadosť o udelenie súhlasu na uzavretie skládky odpadov alebo jej časti, vykonanie jej rekultivácie a jej následné monitorovanie<sup>38</sup>) ..... | 11 eur
+  - l) Vydanie rozhodnutia o udelení súhlasu na dekontamináciu<sup>38</sup>) | 11 eur
 
-  - m) Žiadosť o udelenie súhlasu na zber a spracovanie starých vozidiel<sup>38</sup>) ..... | 11 eur
+  - m) Vydanie rozhodnutia o udelení súhlasu na zneškodňovanie použitých polychlórovaných bifenylov alebo zariadení obsahujúcich polychlórované bifenyly, ak nie je súčasťou žiadosti podľa písmen a), b) alebo f)<sup>38</sup>) | 11 eur
 
-  - n) Žiadosť o udelenie autorizácie, predĺženie autorizácie alebo jej zmeny<sup>38</sup>) ..... | 20 eur
+  - n) Vydanie rozhodnutia o udelení súhlasu na zneškodňovanie odpadov z výroby oxidu titaničitého<sup>38</sup>) | 11 eur
 
-  - o) Žiadosť o udelenie povolenia na dovoz, vývoz a tranzit odpadov<sup>38</sup>) ..... | 20 eur
+  - o) Vydanie rozhodnutia o udelení súhlasu na odovzdávanie odpadov vhodných na využitie v domácnosti<sup>38</sup>) | 11 eur
 
-  - p) Žiadosť o schválenie programu odpadového hospodárstva pôvodcu odpadu ..... | 11 eur
+  - p) Vydanie rozhodnutia o udelení súhlasu na to, že látka alebo vec sa považuje za vedľajší produkt a nie za odpad<sup>38</sup>) | 11 eur
 
-  - r) Žiadosť o rozhodnutie o zaradení odpadu, ak držiteľ odpadu nemôže odpad jednoznačne zaradiť podľa Katalógu odpadov<sup>38</sup>) ..... | 11 eur
+  - r) Vydanie rozhodnutia o udelení súhlasu na vykonávanie prípravy na opätovné použitie<sup>38</sup>) | 11 eur
 
-  - s) Žiadosť o zmenu udelených súhlasov podľa písmen a), c), d), f), g), h), i) a m) a žiadosť o predĺženie vydaného súhlasu podľa písmena f) ..... | 4 eurá
+  - s) Vydanie rozhodnutia o udelení súhlasu na prevádzkovanie úložiska dočasného uskladnenia kovovej ortuti, na uzavretie úložiska dočasného uskladnenia kovovej ortuti alebo jeho časti, a jeho následné monitorovanie<sup>38</sup>) | 11 eur
 
-  - t) Vydanie súhlasu na umiestnenie stavieb malých zdrojov znečisťovania ovzdušia ..... | 5 eur
+  - t) Vydanie rozhodnutia o udelení súhlasu na zhromažďovanie odpadu dlhšie ako jeden rok pred jeho zneškodnením alebo dlhšie ako tri roky pred jeho zhodnotením.<sup>38</sup>) | 11 eur
 
-  - u) Vydanie súhlasu na užívanie stavieb malých zdrojov znečisťovania ovzdušia ..... | 5 eur
+  - u) Vydanie rozhodnutia o udelení autorizácie, predĺženie autorizácie alebo jej zmeny<sup>38</sup>) | 20 eur
 
-  - v) Vydanie súhlasu na zmenu stavby malých zdrojov znečisťovania ovzdušia ..... | 5 eur
+  - v) Vydanie rozhodnutia o udelení povolenia na cezhraničný pohyb odpadov<sup>38</sup>) | 50 eur
 
-  - w) Vydanie súhlasu na zmenu používaných palív a surovín v stacionárnych zdrojoch znečisťovania ovzdušia ..... | 5 eur
+  - x) Vydanie rozhodnutia o zaradení odpadu, ak držiteľ odpadu nemôže odpad jednoznačne zaradiť podľa Katalógu odpadov<sup>38</sup>) | 11 eur
 
-  - x) Vydanie súhlasu na zmenu technológie zariadení zdrojov znečisťovania ovzdušia ..... | 5 eur
+  - y) Vydanie rozhodnutia o zmene udelených súhlasov podľa písmen a) až s) | 4 eurá
 
-  - y) Vydanie súhlasu na zmenu užívania zdrojov znečisťovania ovzdušia ..... | 5 eur
+  - aa) Vydanie rozhodnutia či zariadenie je alebo nie je elektrozariadením<sup>38</sup>) | 30 eur
 
-  - z) Vydanie súhlasu na prevádzku stacionár-nych zdrojov po vykonaných zmenách ..... | 5 eur
+  - ab) Vydanie súhlasu na inštaláciu automatizovaných meracích systémov emisií a automatizovaných meracích systémov kvality ovzdušia a na ich prevádzku, na ich zmeny a na prevádzku po vykonaných zmenách<sup>38a</sup>) | 10 eur
 
-  - aa) Vydanie rozhodnutia na inštaláciu technologických celkov zdrojov znečisťovania ovzdušia, na ich zmeny, na ich uvedenie do prevádzky, ak ich povoľovanie nepodlieha stavebnému konaniu ..... | 30 eur
+  - ac) Vydanie súhlasu na zmeny používaných palív a surovín, na zmeny technologických zariadení stacionárnych zdrojov a na zmeny ich užívania a na prevádzku stacionárnych zdrojov po vykonaných zmenách<sup>38b</sup>) | 5 eur
+
+  - ad) Vydanie súhlasu na vydanie súboru technicko-prevádzkových parametrov a technicko--organizačných opatrení a na ieho zmeny<sup>38c</sup>) | 10 eur
+
+  - ae) Vydanie súhlasu na prevádzku výskumno-vývojových technologických celkov patriacich do kategórie veľkých zdrojov alebo stredných zdrojov<sup>38d</sup>) | 10 eur
+
+  - af) Vydanie súhlasu na inštaláciu technologických celkov patriacich do kategórie veľkých zdrojov, stredných zdrojov alebo malých zdrojov, na ich zmeny a na ich prevádzku, ak ich povoľovanie nepodlieha stavebnému konaniu<sup>38e</sup>) | 10 eur
+
+  - ag) Vydanie súhlasu na technický výpočet údajov o dodržaní emisných limitov, technických požiadaviek a podmienok prevádzkovania, určenie výnimiek alebo osobitných podmienok a osobitných lehôt zisťovania množstiev vypúšťaných znečisťujúcich látok a údajov o dodržaní určených emisných limitov, technických požiadaviek a podmienok prevádzkovania stacionárnych zdrojov a monitorovania úrovne znečistenia ovzdušia a na predĺženie lehoty alebo na upustenie od oprávnených meraní<sup>38f</sup>) | 10 eur
+
+  - ah) Vydanie rozhodnutia na povolenie ďalšej prevádzky spaľovne odpadov alebo zariadenia na spoluspaľovanie odpadov<sup>38g</sup>) | 30 eur
+
+  - ai) Vydanie rozhodnutia o zmene podmienok a požiadaviek určených na prevádzku a monitorovanie stacionárneho zdroja znečisťovania ovzdušia<sup>38h</sup>) | 10 eur
 
     - Položka 163
 
@@ -3914,13 +3980,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Žiadosť o predĺženie platnosti osvedčenia uvedenej v písmene a) ..... | 59 eur
 
-  - c) Zmena údajov v osvedčení uvedených v písmene a) ..... | 4 eurá
+  - c) Zmena údajov v osvedčení uvedených v písmene a) a e) ..... | 4 eurá
 
   - d) Vydanie jednorázového povolenia na vydanie odborného posudku pre osobu, ktorá nie je oprávnenou osobou<sup>38</sup>) ..... | 20 eur
 
   - e) Vydanie osvedčenia o odbornej spôsobilosti na autorizáciu<sup>38</sup>) ..... | 119 eur
 
   - f) Žiadosť o vykonanie skúšky o odbornej spôsobilosti na autorizáciu<sup>39c</sup>) a žiadosť o opakovanie skúšky ..... | 20 eur
+
+  - g) Žiadosť o vykonanie skúšky o odbornej spôsobilosti na vydávanie odborných posudkov<sup>38</sup>) a žiadosť o opakovanie skúšky | 20 eur
 
   - Splnomocnenie |
 
@@ -3930,13 +3998,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 171a
 
-  - a) Predbežné prerokovanie žiadosti prevádzkovateľom so Slovenskou inšpekciou životného prostredia<sup>39ca</sup>) .......... | 100 eur
+  - a) Vydanie integrovaného povolenia pre novú prevádzku<sup>39cb</sup>) ................................. | 1 400 eur
 
-  - b) Vydanie integrovaného povolenia<sup>39cb</sup>) .......... | 1 400 eur
+  - b) Vydanie integrovaného povolenia pre podstatnú zmenu v prevádzke <sup>39cc</sup>) ............ | 500 eur
 
-  - c) Zmena integrovaného povolenia<sup>39cc</sup>) .......... | 500 eur
-
-  - Splnomocnenie 1. Správny orgán môže znížiť poplatok podľa písmen a) až c) tejto položky až o 50 % v závislosti od rozsahu a náročnosti posudzovania prevádzky alebo zmeny v nej. 2. Správny orgán môže upustiť od vybrania poplatku podľa písmen a) až c) tejto položky, ak sa žiadosť o zmenu povolenia podáva na výzvu z dôvodov uvedených v § 30 ods. 1 písm. c), d), e) a f) zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov. |
+  - Splnomocnenie Správny orgán môže znížiť poplatok podľa písmena b) tejto položky až o 50 % v závislosti od rozsahu a náročnosti posudzovania prevádzky alebo zmeny v nej. |
 
     - Položka 171b
 
@@ -4776,7 +4842,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - d) kolektívnej ochrannej známky do troch tried tovarov alebo služieb podanej po uplynutí ochrannej doby, najneskôr však do šiestich mesiacov od tohto dátumu ..... | 531 eur
 
-    - e) individuálnej alebo kolektívnej ochrannej známky, za každú triedu tovarov alebo služieb nad tri triedy ..... | 16,50 eura
+    - e) individuálnej alebo kolektívnej ochrannej známky, za každú triedu tovarov alebo služieb nad tri triedy ..... | 17 eur
 
     - Poznámka Ak dôjde k zápisu ochrannej známky do registra ochranných známok po uplynutí jej ochrannej doby, poplatok za obnovu zápisu je splatný bez žiadosti majiteľa ochrannej známky do dvoch mesiacov od vydania osvedčenia na základe písomnej výzvy. |
 
@@ -4854,9 +4920,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - SPLNOMOCNENIE K XVIII. ČASTI
 
-    - 1. Ministerstvo zahraničných vecí Slovenskej republiky a zastupiteľský úrad Slovenskej republiky môžu v odôvodnených prípadoch a z dôvodov všeobecného, politického alebo humanitného záujmu poplatok znížiť alebo upustiť od jeho vybratia.
+    - 1. Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky a zastupiteľský úrad Slovenskej republiky môžu v odôvodnených prípadoch a z dôvodov všeobecného, politického alebo humanitného záujmu poplatok znížiť alebo upustiť od jeho vybratia.
 
-    - 2. Zastupiteľský úrad Slovenskej republiky môže vybrať popri poplatku aj náhradu skutočných výdavkov spojených s vykonaním úkonu; v odôvodnených prípadoch paušálnou sumou podľa určenia zastupiteľského úradu Slovenskej republiky.
+    - 2. Zastupiteľský úrad Slovenskej republiky môže vybrať popri poplatku aj náhradu skutočných výdavkov spojených s vykonaním úkonu; v odôvodnených prípadoch paušálnou sumou podľa určenia Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky.
 
     - 3. Výška poplatku môže byť zmenená alebo môže byť upustené od jeho vybratia, ak tak ustanovuje medzinárodná zmluva, ktorou je Slovenská republika viazaná.
 
@@ -4893,6 +4959,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 4. Správny orgán vráti poplatok z dôvodov uvedených v osobitnom predpise.<sup>16b</sup>) |
 
   - 5. Správny orgán vráti poplatok podľa písmena e), ak sa odvolaniu vyhovie. |
+
+  - 6. Poplatok podľa písmen a) a b) tejto položky je možno platiť aj prostredníctvom externého poskytovateľa služieb určeného podľa osobitného predpisu.<sup>16b</sup>) |
 
     - Položka 241
 
@@ -5026,7 +5094,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) Vyhotovenie prekladu matričného dokladu a jeho osvedčenie ................................................ | 30 eur
 
-  - Poznámka Poplatok podľa písmena a) sa nevyberie, ak ide o doručenie prvopisu matričného dokladu. |
+  - c) Zabezpečenie matričného dokladu alebo iného obdobného dokladu zo zahraničia .................. | 10 eur
+
+  - Poznámka 1. Poplatok podľa písmena a) sa nevyberie, ak ide o doručenie prvopisu matričného dokladu. 2. Poplatok podľa písmena c) je možné vybrať aj po vykonaní úkonu. |
 
     - Položka 251
 
@@ -5034,11 +5104,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 252
 
-  - Spísanie písomnosti o právnych úkonoch, najmä zmlúv, závetov a podobne ......................................... | 50 eur
-
-    - Položka 253
-
-  - Vidovanie listín bez osvedčenia .................................................................................................... | 10 eur
+  - Spísanie písomnosti o právnych úkonoch, najmä zmlúv ......................................... | 50 eur
 
     - Položka 254
 
@@ -5084,13 +5150,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 258
 
-  - Úradná úschova |
+  - Úradná úschova listín alebo spisov........................................................................................ | 20 eur
 
-  - a) peňazí, cenných papierov, vkladných knižiek a iných cenných predmetov, zo sumy alebo z ceny predmetu za každý rok ..................................................................................................... | 1 %, najmenej 30 eur
-
-  - b) listín alebo spisov, za každý rok ....................................................................................................... | 20 eur
-
-  - Poznámka Poplatok sa nevyberie v prípade, ak je predmet uložený na zastupiteľskom úrade len na účely jeho doručenia. |
+  - Poznámka Poplatok sa nevyberie, ak je predmet uložený na zastupiteľskom úrade len na účely jeho doručenia. |
 
     - Položka 259
 
@@ -5129,6 +5191,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Položka 262
 
   - Podanie žiadosti na zastupiteľskom úrade, ak nejde o úkon spoplatnený podľa inej položky tejto časti sadzobníka ............................................................................................. | 20 eur
+
+  - Poznámka Poplatok podľa tejto položky je možné vybrať aj po vykonaní úkonu. |
 
     - Položka 263
 
