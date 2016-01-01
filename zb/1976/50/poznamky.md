@@ -54,6 +54,12 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 216/1995 Z. z. o Komore geodetov a kartografov.
 
+- 2ba) § 67a ods. 1 písm. f) zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č. 247/2015 Z. z.
+
+- 2bb) § 67a ods. 1 písm. g) zákona č. 351/2011 Z. z. v znení zákona č. 247/2015 Z. z.
+
+- 2bc) § 67e zákona č. 351/2011 Z. z. v znení zákona č. 247/2015 Z. z.
+
 - 2c) Zákon č. 138/1973 Zb.
 
 - 3) Napríklad zákon č. 309/1991 Zb.
