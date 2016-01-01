@@ -6,11 +6,11 @@
 
 - b) vedenie evidencie, v ktorej uvedie najmä
 
-  - 1. množstvo prijatých tabakových výrobkov v kusoch,
+  - 1. množstvo prijatých tabakových výrobkov v kusoch alebo v kilogramoch,
 
-  - 2. množstvo predaných tabakových výrobkov v kusoch členené podľa zahraničných zástupcov a množstvo predaných tabakových výrobkov v kusoch od začiatku kalendárneho roka,
+  - 2. množstvo predaných tabakových výrobkov v kusoch členené podľa zahraničných zástupcov a množstvo predaných tabakových výrobkov v kusoch alebo v kilogramoch od začiatku kalendárneho roka,
 
-  - 3. stav zásob tabakových výrobkov v kusoch.
+  - 3. stav zásob tabakových výrobkov v kusoch alebo v kilogramoch.
 
 (2) Na vedenie evidencie podľa odseku 1 písm. b) sa vzťahuje § 34 ods. 4 rovnako a § 34 ods. 2 a 3 primerane.
 
