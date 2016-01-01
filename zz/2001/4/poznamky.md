@@ -56,6 +56,10 @@
 
 - 11c) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
+- 11ca) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 11cb) § 32, 46 a 47 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z.
+
 - 11d) Trestný poriadok.
 
 - 11e) § 9 ods. 3 a 4 zákona č. 221/2006 Z. z.
@@ -101,6 +105,22 @@
 - 18a) § 6 ods. 5 zákona č. 122/2013 Z. z.
 
 - 18b) § 31 zákona č. 122/2013 Z. z.
+
+- 18ba) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, Trestný poriadok v znení neskorších predpisov, § 18 zákona č. 153/2001 Z. z. o prokuratúre a zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 18bb) Napríklad § 18 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií), § 97a zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z. a § 60a zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
+
+- 18bc) § 17 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení zákona č. 662/2007 Z. z.
+
+- 18bd) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
+
+- 18be) § 58 zákona Národnej rady Slovenskej republiky č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, § 340 a § 341 Trestného zákona.
+
+- 18bf) § 26 až 30 Občianskeho zákonníka.
+
+- 18bg) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 18bh) Zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov.
 
 - 18c) § 51 ods. 3 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z.
 
