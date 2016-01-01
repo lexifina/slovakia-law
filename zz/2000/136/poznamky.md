@@ -4,6 +4,10 @@
 
 - 1b) Nariadenie Európskeho parlamentu a Rady (ES) č. 2003/2003 z 21. novembra 2003 o hnojivách (Ú. v. EÚ L 304, 21. 11. 2003).
 
+- 1ba) Čl. 2 písm. w) nariadenia (ES) č. 2003/2003 v platnom znení.
+
+- 1c) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
+
 - 2) § 2 Obchodného zákonníka.§ 25 a 26 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
 
 - 2a) § 27 zákona č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch.
@@ -18,17 +22,13 @@
 
 - 5) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 6) § 12a až 12e zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
-
 - 7) Napríklad zákon č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon).
 
 - 7a) § 3 až 5 a 9 zákona č. 188/2003 Z. z. o aplikácii čistiarenského kalu a dnových sedimentov do pôdy a o doplnení zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 7aa) § 2 nariadenia vlády Slovenskej republiky č. 617/2004 Z. z., ktorým sa ustanovujú citlivé a zraniteľné oblasti.
+- 7b) § 39 ods. 1 písm. b) až e) zákona č. 326/2005 Z. z. o lesoch v znení zákona č. 182/2014 Z. z.
 
-- 7b) § 44 ods. 1 zákona č. 326/2005 Z. z. o lesoch.
-
-- 7c) § 2 písm. f) a g) zákona č. 188/2003 Z. z.
+- 7c) § 43 ods. 1 písm. a) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 8) § 3 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
@@ -37,5 +37,7 @@
 - 9a) Napríklad § 81 ods. 4 zákona č. 364/2004 Z. z.
 
 - 10) Zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení zákona č. 359/2007 Z. z.
+
+- 10b) Nariadenie Európskeho parlamentu a Rady (ES) č. 764/2008 z 9. júla 2008, ktorým sa ustanovujú postupy týkajúce sa uplatňovania určitých vnútroštátnych technických pravidiel na výrobky, ktoré sú v súlade s právnymi predpismi uvedené na trh v inom členskom štáte, a ktorým sa zrušuje rozhodnutie č. 3052/95/ES (Ú. v. EÚ L 218, 13. 8. 2008).
 
 - 11) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).

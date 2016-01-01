@@ -1,17 +1,27 @@
-# § 3a Používanie sekundárnych zdrojov živín
+# § 3a Používanie sekundárneho zdroja živín a kompostu
 
-(1) Ústredný kontrolný a skúšobný ústav poľnohospodársky (ďalej len „kontrolný ústav“) vydá povolenie na používanie sekundárnych zdrojov živín na pôde na základe žiadosti producenta.
+(1) Producent sekundárneho zdroja živín a producent kompostu je povinný pred ich aplikáciou alebo pred ich uvedením do obehu vyžiadať si od Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho v Bratislave (ďalej len „kontrolný ústav“) povolenie na ich používanie. Producent sekundárneho zdroja živín a producent kompostu môže aplikovať alebo uvádzať sekundárny zdroj živín a kompost do obehu len na základe povolenia vydaného kontrolným ústavom.
 
-(2) Žiadosť musí obsahovať
+(2) Kontrolný ústav na základe žiadosti producenta podľa odseku 1 vydá do 30 dní od doručenia žiadosti povolenie na používanie sekundárneho zdroja živín a kompostu na aplikáciu do poľnohospodárskej pôdy a zároveň určí podmienky aplikácie, ak obsah rizikových prvkov a mikrobiologických parametrov neprekračuje limitné hodnoty.
 
-- a) meno, priezvisko, adresu trvalého pobytu alebo adresu miesta podnikania, ak je miesto podnikania odlišné od trvalého pobytu, a identifikačné číslo, ak bolo pridelené, ak je žiadateľom fyzická osoba-podnikateľ, alebo obchodné meno, sídlo a identifikačné číslo, ak je žiadateľom právnická osoba,
+(3) Žiadosť producenta podľa odseku 1 musí obsahovať
 
-- b) úradne osvedčený doklad o právnej forme podnikateľa,
+- a) meno, priezvisko, adresu trvalého pobytu alebo adresu miesta podnikania, ak je miesto podnikania odlišné od trvalého pobytu, a identifikačné číslo organizácie, ak je žiadateľom fyzická osoba – podnikateľ alebo obchodné meno, sídlo a identifikačné číslo organizácie, ak je žiadateľom právnická osoba,
 
-- c) údaje o vyprodukovanom množstve a deklarovanej dávke sekundárnych zdrojov živín,
+- b) výpis z obchodného registra alebo iného obdobného registra alebo evidencie,
 
-- d) údaje o obsahu sušiny a organického podielu sekundárnych zdrojov živín,
+- c) údaj o vyprodukovanom množstve a deklarovanej dávke sekundárneho zdroja živín alebo kompostu,
 
-- e) hodnotu pH, celkový obsah dusíka, fosforu, draslíka a horčíka v sekundárnych zdrojoch živín,
+- d) údaj o obsahu sušiny a organického podielu v sekundárnom zdroji živín alebo v komposte,
 
-- f) obsah hodnoty rizikových prvkov (Cd, Pb, Cr, As, Ni, Hg) a mikrobiologických parametrov.
+- e) hodnotu pH, celkový obsah dusíka, fosforu, draslíka a horčíka v sekundárnom zdroji živín alebo v komposte,
+
+- f) hodnoty obsahu rizikových prvkov ako sú kadmium, olovo, chróm, arzén, nikel a ortuť a mikrobiologických parametrov v sekundárnom zdroji živín alebo v komposte.
+
+(4) Producent sekundárneho zdroja živín alebo producent kompostu je povinný
+
+- a) viesť evidenciu o množstve a zložení sekundárnych zdrojov živín a kompostov odovzdaných na aplikáciu,
+
+- b) viesť register odberateľov sekundárnych zdrojov živín a kompostov, vedenie registra sa nevzťahuje na odberateľov – fyzické osoby.
+
+(5) Producent sekundárneho zdroja živín s ročnou produkciou sekundárneho zdroja živín vyššou ako 100 t a producent kompostu s ročnou produkciou kompostu vyššou ako 100 t je povinný zaslať kontrolnému ústavu každoročne do 15. februára hlásenie o celkovom množstve sekundárnych zdrojov živín a kompostov uvedených do obehu za predchádzajúci kalendárny rok podľa druhu a podľa odberateľov.

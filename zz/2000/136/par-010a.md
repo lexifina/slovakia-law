@@ -13,3 +13,5 @@
 (4) Údaje podľa odseku 3 zasiela odberateľ každoročne do 20. januára za predchádzajúci kalendárny rok producentovi čistiarenského kalu alebo producentovi dnových sedimentov.
 
 (5) Údaje podľa odseku 2 zasiela producent čistiarenského kalu alebo producent dnových sedimentov každoročne do 31. januára za predchádzajúci kalendárny rok Výskumnému ústavu vodného hospodárstva.
+
+(6) Producent čistiarenského kalu, producent dnových sedimentov a odberateľ sú povinní na požiadanie kontrolného ústavu bezodkladne mu predložiť dokumentáciu vedenú podľa odsekov 1 a 3.
