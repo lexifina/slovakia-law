@@ -22,11 +22,11 @@
 
 (5) Podiel pohyblivej zložky celkovej odmeny, ktorá bude osobe podľa § 71da ods. 1 poskytovaná vo forme cenných papierov a iných finančných nástrojov podľa odseku 1 písm. d) a e), musí predstavovať najmenej 50 % sumy pohyblivej zložky celkovej odmeny.
 
-(6) Osobe podľa § 71da ods. 1, ktorá sa pripravuje na samostatnú prácu v oblasti riadenia rizík, možno výnimočne v období od uzavretia pracovného pomeru s obchodníkom s cennými papiermi najdlhšie do uplynutia jedného roka poskytovať pohyblivú zložku celkovej odmeny v zaručenej výške bez ohľadu na hodnotenie plnenia úloh touto osobou.
+(6) Osobe podľa § 71da ods. 1, ktorá sa pripravuje na samostatnú prácu, možno výnimočne v období od uzavretia pracovného pomeru s obchodníkom s cennými papiermi najdlhšie do uplynutia jedného roka poskytovať pohyblivú zložku celkovej odmeny v zaručenej výške bez ohľadu na hodnotenie plnenia úloh touto osobou.
 
 (7) Pri určení pohyblivej zložky celkovej odmeny sa zohľadňuje aj schopnosť obchodníka s cennými papiermi plniť povinnosti podľa § 74.
 
-(8) Obchodník s cennými papiermi v rámci zásad odmeňovania určuje kritériá na zrážky z pohyblivej zložky celkovej odmeny a na spätné vymáhanie vyplatenej pohyblivej zložky celkovej odmeny.
+(8) Obchodník s cennými papiermi v rámci zásad odmeňovania určuje kritériá na zrážky z pohyblivej zložky celkovej odmeny a na spätné vymáhanie vyplatenej pohyblivej zložky celkovej odmeny. Zrážkam z pohyblivej zložky celkovej odmeny a spätnému vymáhaniu pohyblivej zložky celkovej odmeny podlieha až 100 % pohyblivej zložky celkovej odmeny. Kritériá zahŕňajú situáciu, keď sa osoba podľa § 71da ods. 1 podieľala na konaní, ktoré viedlo k významným finančným stratám obchodníka s cennými papiermi alebo bola za také konanie zodpovedná.
 
 (9) Obchodník s cennými papiermi v rámci zásad odmeňovania určuje kritériá pre dobrovoľné platby dôchodkového zabezpečenia.
 

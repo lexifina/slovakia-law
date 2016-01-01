@@ -46,6 +46,8 @@
 
 - 18) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
 
+- 18a) § 27 ods. 3 a 6 zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
+
 - 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
 - 20) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
@@ -190,11 +192,15 @@
 
 - 56ac) § 19a zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 56aca) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
+
 - 56ad) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
 
 - 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 56ba) § 3 ods. 1 zákona č. 371/2014 Z. z.
+
+- 56baa) § 2 písm. f) zákona č. 371/2014 Z. z. v znení zákona č. 39/2015 Z. z.
 
 - 56bb) § 2 zákona č. 371/2014 Z. z.
 
@@ -206,7 +212,7 @@
 
 - 56bf) § 33t až 33v zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
 
-- 56bg) § 62 zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
+- 56bg) § 62a zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
 
 - 57) Čl. 2 bod 10 nariadenia Komisie (ES) č. 1287/2006/ES.
 
@@ -265,6 +271,8 @@
 - 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58k) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 58l) § 8 ods. 14 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 253/2015 Z. z.
 
 - 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
@@ -402,6 +410,10 @@
 
 - 90aa) § 45 zákona č. 492/2009 Z. z.
 
+- 90ab) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.
+
+- 90ac) Čl. 2 ods. 1 bod 30 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014).
+
 - 91) Občiansky súdny poriadok v znení neskorších predpisov.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
@@ -436,7 +448,9 @@
 
 - 97ba) Napríklad § 35a zákona č. 502/2001 Z. z. v znení neskorších predpisov, čl. 125 a 127 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1303/2013 zo 17. decembra 2013, ktorým sa stanovujú spoločné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde, Európskom poľnohospodárskom fonde pre rozvoj vidieka a Európskom námornom a rybárskom fonde a ktorým sa stanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde, Kohéznom fonde a Európskom námornom a rybárskom fonde, a ktorým sa zrušuje nariadenie Rady (ES) č. 1083/2006 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
 
-- 97c) § 29 ods. 11 písm. a) zákona č. 92/1991 Zb. v znení zákona č. 160/2009 Z. z.
+- 97bb) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
+
+- 97c) § 6 zákona č. 375/2015 Z. z.
 
 - 98) § 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -457,6 +471,8 @@
 - 103) Zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
 - 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
+
+- 104) § 3 ods. 3 písm. p) tretí bod zákona č. 429/2002 Z. z. v znení zákona č. 388/2015 Z. z.
 
 - 107) § 37 ods. 1 písm. f) zákona č. 747/2004 Z. z.
 

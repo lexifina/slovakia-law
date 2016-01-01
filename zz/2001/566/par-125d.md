@@ -20,6 +20,6 @@
 
   - 2. ktoré oprávňujú na získanie prevoditeľných cenných papierov alebo peňažných prostriedkov z dôvodu ich výmeny alebo uplatnenia práv s nimi spojených, ak emitent nekapitálových cenných papierov nie je emitentom podkladových cenných papierov alebo osobou patriacou k skupine tohto emitenta,
 
-- c) pre emitentov cenných papierov so sídlom v nečlenskom štáte, ktorí nie sú uvedení v písmene b), členský štát, pre ktorý je verejná ponuka cenných papierov určená po prvýkrát po 31. decembri 2003 alebo v ktorom sa podá prvá žiadosť o prijatie na obchodovanie na regulovanom trhu, pričom nie je dotknuté právo emitenta určiť si domovský členský štát.
+- c) pre emitentov cenných papierov so sídlom v nečlenskom štáte, ktorí nie sú uvedení v písmene b), členský štát, v ktorom je určená verejná ponuka cenných papierov po prvýkrát po 26. novembri 2013 alebo v ktorom je podaná prvá žiadosť o prijatie na obchodovanie na regulovanom trhu, pričom nie je dotknuté právo emitenta určiť si domovský členský štát, ak domovský členský štát nebol určený jeho voľbou alebo podľa osobitného predpisu.<sup>104</sup>)
 
 (6) Hostiteľským členským štátom emitenta sa na účely tohto zákona rozumie štát, v ktorom sa uskutočňuje verejná ponuka cenných papierov alebo v ktorom sa žiada o prijatie na obchodovanie na regulovanom trhu, ak sa odlišuje od domovského členského štátu emitenta.

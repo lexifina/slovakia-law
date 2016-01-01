@@ -10,4 +10,4 @@
 
 - d) dozerá na odmeňovanie osôb podľa § 71da ods. 1 písm. a) a b).
 
-(2) Výbor pre odmeňovanie u obchodníka s cennými papiermi pozostáva najmenej z troch členov.
+(2) Výbor pre odmeňovanie u obchodníka s cennými papiermi pozostáva najmenej z troch členov. Členom výboru pre odmeňovanie môže byť len člen dozornej rady vrátane člena dozornej rady, ktorý bol zvolený zamestnancami obchodníka s cennými papiermi.

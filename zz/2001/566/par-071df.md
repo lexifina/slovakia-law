@@ -2,7 +2,7 @@
 
 (1) Obchodník s cennými papiermi je povinný v stanovách rozdeliť a upraviť právomoci a zodpovednosť za vypracovanie, uskutočňovanie a aktualizáciu ozdravného plánu obchodníka s cennými papiermi (ďalej len "ozdravný plán") podľa odseku 2.
 
-(2) Obchodník s cennými papiermi, ktorý nepodlieha dohľadu na konsolidovanom základe alebo ktorý má významný podiel na finančnom systéme Slovenskej republiky, je povinný vypracovať, pravidelne aktualizovať a dodržiavať ozdravný plán obsahujúci opatrenia, ktoré prijme s cieľom obnoviť svoju finančnú pozíciu po tom, čo by došlo k jej výraznému zhoršeniu. Obchodník s cennými papiermi má významný podiel na finančnom systéme Slovenskej republiky, ak
+(2) Obchodník s cennými papiermi, ktorý nepodlieha dohľadu na konsolidovanom základe alebo ktorý má významný podiel na finančnom systéme Slovenskej republiky, je povinný vypracovať, pravidelne aktualizovať a dodržiavať ozdravný plán, ktorý je súčasťou systému riadenia obchodníka s cennými papiermi. Obchodník s cennými papiermi má významný podiel na finančnom systéme Slovenskej republiky, ak
 
 - a) celková hodnota jeho aktív je vyššia ako 30 000 000 000 eur alebo
 
@@ -10,21 +10,21 @@
 
 (3) Náležitosťami ozdravného plánu sú najmä
 
-- a) zhrnutie kľúčových prvkov ozdravného plánu a zhrnutie celkovej ozdravnej kapacity; na účely tohto zákona sa ozdravnou kapacitou rozumie schopnosť obchodníka s cennými papiermi obnoviť svoju finančnú situáciu po výraznom zhoršení jeho finančnej situácie,
+- a) zhrnutie hlavných častí ozdravného plánu a zhrnutie celkovej ozdravnej kapacity; na účely tohto zákona sa ozdravnou kapacitou rozumie schopnosť obchodníka s cennými papiermi obnoviť svoju finančnú situáciu po výraznom zhoršení jeho finančnej situácie,
 
-- b) zhrnutie podstatných zmien vykonaných v obchodníkovi s cennými papiermi od naposledy predloženého ozdravného plánu,
+- b) zhrnutie podstatných zmien vykonaných v obchodníkovi s cennými papiermi od posledného ozdravného plánu predloženého Národnej banke Slovenska,
 
 - c) plán komunikácie a poskytovania informácií, v ktorom sa uvedie, aké opatrenia prijme obchodník s cennými papiermi na zvládnutie prípadných nepriaznivých reakcií trhu,
 
-- d) rozsah opatrení v oblasti kapitálu a likvidity požadovaných na zachovanie alebo obnovu stability a finančnej situácie obchodníka s cennými papiermi,
+- d) rozsah opatrení v oblasti kapitálu a likvidity požadovaných na zachovanie alebo obnovu finančnej situácie obchodníka s cennými papiermi a jeho schopnosti pokračovať v činnosti,
 
-- e) odhad časového rámca na realizáciu každého vecného aspektu ozdravného plánu,
+- e) odhad časového rámca na realizáciu podstatných aspektov ozdravného plánu,
 
-- f) podrobný opis akýchkoľvek podstatných prekážok účinného a včasného vykonania ozdravného plánu vrátane zhodnotenia vplyvu na zvyšok skupiny, klientov a zmluvné protistrany; skupinou sa na účely § 71df až 71dl rozumie materská spoločnosť a dcérska spoločnosť,
+- f) podrobný opis akýchkoľvek podstatných prekážok účinného a včasného vykonania ozdravného plánu vrátane zhodnotenia dopadu na ostatných členov skupiny, klientov a zmluvné protistrany; skupinou sa na účely § 71df až 71dl rozumie materská spoločnosť a dcérska spoločnosť,
 
 - g) identifikovanie kritických funkcií obchodníka s cennými papiermi,
 
-- h) podrobný opis postupov určenia hodnoty a predajnosti operácií, hlavných oblastí obchodnej činnosti, jednotlivých činností a aktív obchodníka s cennými papiermi,
+- h) podrobný opis postupov určenia hodnoty a možností predaja alebo prevodu hlavných oblastí obchodných činností a aktív obchodníka s cennými papiermi,
 
 - i) podrobný opis toho, ako je plánovanie ozdravenia integrované do systému riadenia obchodníka s cennými papiermi, postupy schvaľovania ozdravného plánu a označenie osôb zodpovedných za vypracovanie a vykonávanie ozdravného plánu,
 
@@ -46,7 +46,7 @@
 
 - o) opatrenia potrebné na zachovanie nepretržitého prístupu k infraštruktúram finančného trhu,
 
-- p) mechanizmy a opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov obchodníka s cennými papiermi vrátane infraštruktúry a služieb týkajúcich sa informačných technológií,
+- p) opatrenia potrebné na zachovanie nepretržitého fungovania prevádzkových procesov obchodníka s cennými papiermi vrátane infraštruktúry a informačných technológií,
 
 - q) prípravné opatrenia na zjednodušenie predaja aktív alebo oblastí obchodnej činnosti tak, aby došlo k včasnému obnoveniu finančnej stability obchodníka s cennými papiermi,
 
@@ -56,7 +56,7 @@
 
 - t) sústava ukazovateľov, na základe ktorých sa určia momenty, v ktorých obchodník s cennými papiermi môže prijať opatrenia uvedené v ozdravnom pláne; tieto ukazovatele majú kvalitatívny alebo kvantitatívny charakter týkajúci sa finančnej situácie obchodníka s cennými papiermi a musia byť jednoducho sledovateľné obchodníkom s cennými papiermi,
 
-- u) opatrenia, ktoré by mohol prijať obchodník s cennými papiermi, ak sú splnené podmienky podľa § 144 ods. 24 alebo ods. 29,
+- u) opatrenia, ktoré by mohol prijať obchodník s cennými papiermi, ak sú splnené podmienky podľa § 144 ods. 24,
 
 - v) analýza, akým spôsobom a kedy môže obchodník s cennými papiermi na základe okolností uvedených v ozdravnom pláne požiadať o použitie likviditných operácií centrálnej banky, a určenie aktíva, ktoré by obchodník s cennými papiermi mohol použiť ako zábezpeku.
 
@@ -72,6 +72,6 @@
 
 (7) Ozdravný plán obsahuje primerané postupy na zabezpečenie včasného uplatnenia jednotlivých opatrení a určenie všetkých možných spôsobov ozdravenia obchodníka s cennými papiermi. Opatrenia musia zohľadňovať čo najviac možných scenárov makroekonomických stresových situácií a finančných stresových situácií, ktorým môže byť obchodník s cennými papiermi vystavený vzhľadom na charakter vykonávaných bankových činností, a to vrátane systémových stresových situácií, stresových situácií týkajúcich sa konkrétnej právnickej osoby a skupiny právnických osôb.
 
-(8) Ozdravný plán schvaľuje štatutárny orgán obchodníka s cennými papiermi a obchodník s cennými papiermi ho následne predloží Národnej banke Slovenska so žiadosťou o zaujatie stanoviska.
+(8) Ozdravný plán schvaľuje štatutárny orgán obchodníka s cennými papiermi a obchodník s cennými papiermi ho následne predloží na posúdenie Národnej banke Slovenska.
 
-(9) Obchodník s cennými papiermi je povinný aktualizovať svoj ozdravný plán najmenej raz ročne a po každej zmene organizačnej štruktúry, obchodnej činnosti alebo finančnej situácie, ktorá by mohla mať významný vplyv na opatrenia uvedené v ozdravnom pláne; pri aktualizácii postupuje v súlade s odsekom 8.
+(9) Obchodník s cennými papiermi je povinný aktualizovať svoj ozdravný plán najmenej raz ročne a po každej zmene organizačnej štruktúry, obchodnej činnosti alebo finančnej situácie, ktorá by mohla mať významný vplyv na opatrenia uvedené v ozdravnom pláne; pri aktualizácii postupuje v súlade s odsekom 8. Národná banka Slovenska môže požadovať od obchodníka s cennými papiermi aktualizáciu ozdravného plánu častejšie ako raz ročne.

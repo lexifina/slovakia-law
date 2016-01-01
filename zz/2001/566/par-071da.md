@@ -10,13 +10,19 @@
 
 - d) zamestnancov zodpovedných za riadenie rizík obchodníka s cennými papiermi vrátane zamestnancov oprávnených určovať limity alebo prekročenie limitov v rámci riadenia rizík obchodníka s cennými papiermi,
 
+- e) všetkých členov dozornej rady obchodníka s cennými papiermi,
+
+- f) vedúceho útvaru vnútorného auditu,
+
+- g) ďalších zamestnancov, ktorí nie sú uvedení v písmenách a) až d), ktorí sú zodpovední za podstupovanie rizika a ktorých profesionálne činnosti majú významný vplyv na rizikový profil banky podľa osobitného predpisu.<sup>56aca</sup>)
+
 (2) V rámci zásad odmeňovania osôb podľa odseku 1 obchodník s cennými papiermi uplatňuje
 
 - a) zaručenú pevnú zložku celkovej odmeny ako
 
-  - 1. základnú zložku mzdy, ak ide o zamestnanca podľa odseku 1 písm. b) až d),
+  - 1. základnú zložku mzdy, ak ide o zamestnanca,
 
-  - 2. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu obchodníka s cennými papiermi podľa odseku 1 písm. a),
+  - 2. pevnú zložku odmeny, ak ide o člena štatutárneho orgánu obchodníka s cennými papiermi a člena dozornej rady obchodníka s cennými papiermi,
 
 - b) pohyblivú zložku celkovej odmeny.
 
