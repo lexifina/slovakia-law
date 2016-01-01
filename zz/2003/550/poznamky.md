@@ -8,6 +8,8 @@
 
 - 4) § 454 až 460 Trestného poriadku.
 
+- 4a) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+
 - 5) § 14 zákona č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - 6) Zákon č. 549/2003 Z. z. o súdnych úradníkoch.
