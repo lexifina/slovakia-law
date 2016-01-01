@@ -57,3 +57,5 @@
 - 22) § 113 zákona č. 400/2009 Z. z.
 
 - § 28 zákona č. 553/2003 Z. z.
+
+- 23) § 29n zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 338/2015 Z. z.
