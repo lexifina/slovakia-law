@@ -16,11 +16,11 @@
 
 - 9) § 28 Občianskeho zákonníka.
 
-- 10) § 13 ods. 3 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+- 10) § 33 ods. 9 písm. e) a § 39 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 180a Občianskeho súdneho poriadku.
 
-- 12) Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti v znení neskorších predpisov.
+- 12) Zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov.
 
 - 13) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení zákona č. 372/2004 Z. z.
 
@@ -34,4 +34,6 @@
 
 - 17b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 18) Napríklad zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 285/2004 Z. z., zákon č. 235/1998 Z. z. o príspevku pri narodení dieťaťa, o príspevku rodičom, ktorým sa súčasne narodili tri deti alebo viac detí alebo ktorým sa v priebehu dvoch rokov opakovane narodili dvojčatá a ktorým sa menia ďalšie zákony v znení neskorších predpisov.
+- 17b) § 11 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18) Napríklad zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 383/2013 Z. z. o príspevku pri narodení dieťaťa a príspevku na viac súčasne narodených detí a o zmene a doplnení niektorých zákonov v znení zákona č. 185/2014 Z. z.

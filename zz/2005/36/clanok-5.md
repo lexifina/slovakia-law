@@ -1,39 +1,21 @@
-# Čl. V
+# Čl. 5
 
-Zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z., zákona č. 416/2001 Z. z., zákona č. 198/2002 Z. z. a zákona č. 515/2003 Z. z. sa mení a dopĺňa takto:
+Záujem maloletého dieťaťa je prvoradým hľadiskom pri rozhodovaní vo všetkých veciach, ktoré sa ho týkajú. Pri určovaní a posudzovaní záujmu maloletého dieťaťa sa zohľadňuje najmä
 
-- 1. V § 2 ods. 2 sa slovo „otcovstva" nahrádza slovom „rodičovstva".
+- a) úroveň starostlivosti o dieťa,
 
-- 2. § 13 sa dopĺňa odsekom 5, ktorý znie:
+- b) bezpečie dieťaťa, ako aj bezpečie a stabilita prostredia, v ktorom sa dieťa zdržiava,
 
-- „(5)
+- c) ochrana dôstojnosti, ako aj duševného, telesného a citového vývinu dieťaťa,
 
-- Zápis dieťaťa, ktoré matka zanechala po pôrode v zdravotníckom zariadení a súčasne písomne požiadala o utajenie svojej osoby v súvislosti s pôrodom,<sup>7a</sup>) do knihy narodení sa vykoná na základe správy lekára, ktorý pôsobil pri pôrode; správa sa posiela najneskôr v deň prepustenia matky zo zdravotníckeho zariadenia a musí obsahovať údaje podľa odseku 1 písm. a) a údaj o pohlaví dieťaťa.“.
+- d) okolnosti, ktoré súvisia so zdravotným stavom dieťaťa alebo so zdravotným postihnutím dieťaťa,
 
-- Poznámka pod čiarou k odkazu 7a znie:
+- e) ohrozenie vývinu dieťaťa zásahmi do jeho dôstojnosti a ohrozenie vývinu dieťaťa zásahmi do duševnej, telesnej a citovej integrity osoby, ktorá je dieťaťu blízkou osobou,
 
-- „7a)
+- f) podmienky na zachovanie identity dieťaťa a na rozvoj schopností a vlôh dieťaťa,
 
-- § 11 ods. 10 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.“.
+- g) názor dieťaťa a jeho možné vystavenie konfliktu lojality a následnému pocitu viny,
 
-- 3. V § 16 písm. a) sa vypúšťa slovo „nezrušiteľné" a za slovo „osvojenie" sa vkladajú slová „podľa osobitného predpisu<sup>9a</sup>)".
+- h) podmienky na vytváranie a rozvoj vzťahových väzieb s obidvomi rodičmi, súrodencami a s inými blízkymi osobami,
 
-- Poznámka pod čiarou k odkazu 9a znie:
-
-- „9a)
-
-- § 108 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.“.
-
-- 4. Poznámka pod čiarou k odkazu 14 znie:
-
-- „14)
-
-- § 3 a 4 zákona č. 36/2005 Z. z.“.
-
-- 5. V § 24 sa nad slovo „skutočnostiach" umiestňuje odkaz 14a.
-
-- Poznámka pod čiarou k odkazu 14a znie:
-
-- „14a)
-
-- § 108 zákona č. 36/2005 Z. z.“.
+- i) využitie možných prostriedkov na zachovanie rodinného prostredia dieťaťa, ak sa zvažuje zásah do rodičovských práv a povinností.
