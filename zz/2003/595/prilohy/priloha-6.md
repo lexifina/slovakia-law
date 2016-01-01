@@ -12,7 +12,7 @@ Príloha č. 6 k zákonu č. 595/2003 Z. z.
 
   - PŽM je životné minimum platné k 1. 1. príslušného zdaňovacieho obdobia,
 
-  - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) prvého bodu vyjadrená desatinným číslom.
+  - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) bodu 1a. vyjadrená desatinným číslom.
 
   - 1. Ak suma nepeňažného plnenia poskytnutého zamestnancovi je rovná alebo nižšia ako vypočítaná suma plnenia (P), potom suma navýšeného nepeňažného plnenia (NNP) sa vypočíta nasledovne:
 
@@ -24,7 +24,7 @@ Príloha č. 6 k zákonu č. 595/2003 Z. z.
 
     - NP je nepeňažné plnenie poskytnuté zamestnancovi,
 
-    - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) prvého bodu vyjadrená desatinným číslom.
+    - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) bodu 1a. vyjadrená desatinným číslom.
 
     - Nepeňažné plnenie čiastočne navýšené o preddavok na daň (ČNP) zamestnávateľ navýši o povinné poistné, ktoré je povinný platiť zamestnanec podľa osobitných predpisov,<sup>154</sup>) nasledovným spôsobom:
 
@@ -50,9 +50,9 @@ Príloha č. 6 k zákonu č. 595/2003 Z. z.
 
     - NP je nepeňažné plnenie poskytnuté zamestnancovi,
 
-    - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) prvého bodu vyjadrená desatinným číslom,
+    - SD<sub>1</sub> je sadzba dane podľa § 15 písm. a) bodu 1a. vyjadrená desatinným číslom,
 
-    - SD<sub>2</sub> je sadzba dane podľa § 15 písm. a) druhého bodu vyjadrená desatinným číslom.
+    - SD<sub>2</sub> je sadzba dane podľa § 15 písm. a) bodu 1b. vyjadrená desatinným číslom.
 
     - Nepeňažné plnenie čiastočne navýšené o preddavok na daň (ČNP) zamestnávateľ navýši o povinné poistné, ktoré je povinný platiť zamestnanec podľa osobitných predpisov,<sup>154</sup>) nasledovným spôsobom:
 

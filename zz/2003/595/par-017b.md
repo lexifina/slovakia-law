@@ -14,7 +14,7 @@
 
   - 4. u vkladateľa nepeňažného vkladu dôjde k predaju alebo inému úbytku cenných papierov a obchodného podielu pod hodnotu finančného majetku<sup>1</sup>) nadobudnutého týmto nepeňažným vkladom alebo u prijímateľa nepeňažného vkladu dôjde k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku nadobudnutého nepeňažným vkladom, je vkladateľ nepeňažného vkladu povinný zahrnúť celú zostávajúcu časť vykázaného rozdielu do základu dane v tom zdaňovacom období, v ktorom dôjde k vzniku niektorej z týchto skutočností,
 
-- c) upraví o rozdiel medzi zostatkovou cenou vkladaného odpisovaného majetku zistenou podľa osobitného predpisu<sup>1</sup>) a jeho zostatkovou cenou podľa § 25 ods. 3 a rozdiel medzi reprodukčnou obstarávacou cenou<sup>1</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g) v tom zdaňovacom období, v ktorom dôjde k splateniu nepeňažného vkladu,<sup>80c</sup>)
+- c) upraví o rozdiel medzi zostatkovou cenou vkladaného odpisovaného majetku zistenou podľa osobitného predpisu<sup>1</sup>) a jeho zostatkovou cenou podľa § 25 ods. 3 a rozdiel medzi reálnou hodnotou<sup>80ad</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g) v tom zdaňovacom období, v ktorom dôjde k splateniu nepeňažného vkladu,<sup>80c</sup>)
 
 - d) zníži o sumu (výšku) rezervy, ktorej tvorba nebola zahrnutá do základu dane podľa § 20, ak náklad vzťahujúci sa k tejto rezerve by bol daňovým výdavkom a ktorá je súčasťou nepeňažného vkladu podniku alebo jeho časti v tom zdaňovacom období, v ktorom dôjde k splateniu nepeňažného vkladu,<sup>80c</sup>)
 
@@ -58,19 +58,19 @@
 
 - a) pri postúpení nepremlčanej pohľadávky nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 36 mesiacov,
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 1 080 dní,
 
 - b) pri odpise nepremlčanej pohľadávky nadobudnutej prijímateľom nepeňažného vkladu v ocenení reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 36 mesiacov.
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky nepeňažným vkladom uplynula doba dlhšia ako 1 080 dní.
 
 (7) Ak počas najviac siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, počnúc zdaňovacím obdobím, v ktorom došlo k splateniu nepeňažného vkladu,<sup>80c</sup>) dôjde u prijímateľa nepeňažného vkladu k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku nadobudnutého nepeňažným vkladom, je prijímateľ nepeňažného vkladu túto skutočnosť povinný oznámiť vkladateľovi nepeňažného vkladu s výnimkou, ak oznámil skutočnosti podľa odseku 2, a to do 30 dní odo dňa vzniku tejto skutočnosti.
 

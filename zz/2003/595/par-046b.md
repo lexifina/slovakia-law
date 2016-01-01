@@ -30,6 +30,16 @@ c) | za zdaňovacie obdobie dosiahol ročný obrat<sup>136bb</sup>) viac ako 500
 
 - d) za zdaňovacie obdobia podľa § 41 ods. 4, 6, 8 a 9.
 
+- e) ktorým je pozemkové spoločenstvo, ak dosahuje len príjmy z činností podľa osobitného predpisu<sup>136be</sup>) s ročným obratom neprevyšujúcim 10 000 eur,<sup>136bb</sup>)
+
+- f) počnúc zdaňovacím obdobím, v ktorom podal návrh na zrušenie bez likvidácie<sup>136bf</sup>) okrem situácie, keď imanie prechádza na právneho nástupcu; ak daňovník vezme späť návrh na zrušenie bez likvidácie alebo, ak súd pred vydaním rozhodnutia o zrušení spoločnosti zistí, že spoločnosť má obchodný majetok a nariadi jej likvidáciu, je daňovník povinný podať
+
+  - 1. dodatočné daňové priznanie za zdaňovacie obdobia, za ktoré neplatil daňovú licenciu, počnúc zdaňovacím obdobím, v ktorom podal návrh na zrušenie bez likvidácie do konca tretieho kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom došlo k späťvzatiu návrhu na zrušenie bez likvidácie alebo súd nariadil likvidáciu spoločnosti; v tejto lehote je priznaná daňová licencia splatná,
+
+  - 2. daňové priznanie podľa § 41 ods. 3, ak súd nariadil likvidáciu spoločnosti a platí daňovú licenciu podľa odsekov 1 až 10,
+
+  - 3. daňové priznanie podľa § 41 ods. 1 za zdaňovacie obdobie, v ktorom došlo k späťvzatiu návrhu na zrušenie bez likvidácie, a platí daňovú licenciu podľa odsekov 1 až 10.
+
 (8) Nárok na zápočet daňovej licencie alebo kladného rozdielu medzi daňou vypočítanou v daňovom priznaní a daňovou licenciou zaniká
 
 - a) ak daňovníkovi nevznikne možnosť odpočítať daňovú licenciu alebo rozdiel medzi daňou vypočítanou v daňovom priznaní za predchádzajúce zdaňovacie obdobia podľa odseku 4,

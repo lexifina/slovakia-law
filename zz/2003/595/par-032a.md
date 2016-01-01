@@ -26,10 +26,10 @@
 
 (4) Zamestnancovi, ktorý poberal posudzované príjmy v zdaňovacom období 12 kalendárnych mesiacov a sú splnené všetky podmienky uvedené v odseku 1, vzniká nárok na zamestnaneckú prémiu podľa odseku 3 v plnej výške. Zamestnancovi, ktorý poberal posudzované príjmy v zdaňovacom období menej ako 12 kalendárnych mesiacov a sú splnené všetky podmienky uvedené v odseku 1, vzniká nárok na pomernú časť zamestnaneckej prémie za kalendárne mesiace, za ktoré poberal tieto príjmy. Vypočítaná pomerná časť zamestnaneckej prémie sa zaokrúhľuje na eurocenty nahor.
 
-(5) Zamestnancovi, ktorému vznikol za príslušné zdaňovacie obdobie nárok na zamestnaneckú prémiu a ktorému zamestnávateľ, ktorý je platiteľom dane,<sup>122</sup>) vykoná ročné zúčtovanie, zamestnaneckú prémiu prizná a vyplatí na jeho žiadosť tento zamestnávateľ. Ak boli tomuto zamestnancovi zrazené preddavky na daň z príjmov zo závislej činnosti (§ 35), zamestnávateľ, ktorý je platiteľom dane,<sup>122</sup>) pri vykonaní ročného zúčtovania použije postup podľa § 38 ods. 6.
+(5) Zamestnancovi, ktorému vznikol za príslušné zdaňovacie obdobie nárok na zamestnaneckú prémiu a ktorému zamestnávateľ, ktorý je platiteľom dane, vykoná ročné zúčtovanie, zamestnaneckú prémiu prizná a vyplatí na jeho žiadosť tento zamestnávateľ. Ak boli tomuto zamestnancovi zrazené preddavky na daň z príjmov zo závislej činnosti (§ 35), zamestnávateľ, ktorý je platiteľom dane, pri vykonaní ročného zúčtovania použije postup podľa § 38 ods. 6.
 
 (6) Zamestnancovi, ktorému vznikol za príslušné zdaňovacie obdobie nárok na zamestnaneckú prémiu a podá daňové priznanie, zamestnaneckú prémiu vyplatí na jeho žiadosť správca dane, ktorý pri vyplatení zamestnaneckej prémie postupuje ako pri vrátení daňového preplatku.<sup>126</sup>) Rovnako postupuje správca dane aj v prípade, ak boli tomuto zamestnancovi zrazené preddavky na daň z príjmov zo závislej činnosti (§ 35).
 
-(7) Zamestnávateľ, ktorý je platiteľom dane,<sup>122</sup>) zodpovedá za vyplatenie zamestnaneckej prémie v správnej výške a v lehote podľa tohto zákona.
+(7) Zamestnávateľ, ktorý je platiteľom dane, zodpovedá za vyplatenie zamestnaneckej prémie v správnej výške a v lehote podľa tohto zákona.
 
 (8) Ak sa postupuje pri vykonaní ročného zúčtovania alebo pri podaní daňového priznania podľa odsekov 5 alebo 6, na účely uplatnenia zamestnaneckej prémie sa vypočítaná daň rovná nule a postup podľa § 11 sa nepoužije.

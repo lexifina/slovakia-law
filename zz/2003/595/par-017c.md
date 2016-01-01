@@ -4,7 +4,7 @@
 
 - a) upraví o sumu vo výške oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev vykázanú podľa osobitného predpisu,<sup>1</sup>) ak tieto oceňovacie rozdiely nezahrnuje do základu dane právny nástupca tohto daňovníka,
 
-- b) upraví o rozdiel medzi zostatkovou cenou odpisovaného hmotného majetku zistenou podľa osobitného predpisu<sup>1</sup>) a jeho zostatkovou cenou podľa § 25 ods. 3 a o rozdiel medzi reprodukčnou obstarávacou cenou<sup>1</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g) a o goodwill alebo záporný goodwill ešte nezahrnutý do základu dane,
+- b) upraví o rozdiel medzi zostatkovou cenou odpisovaného hmotného majetku zistenou podľa osobitného predpisu<sup>1</sup>) a jeho zostatkovou cenou podľa § 25 ods. 3 a o rozdiel medzi reálnou hodnotou<sup>80ad</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g) a o goodwill alebo záporný goodwill ešte nezahrnutý do základu dane,
 
 - c) zníži o sumu (výšku) rezervy, ktorej tvorba nebola uznaná za daňový výdavok podľa § 20, ak náklad vzťahujúci sa k tejto rezerve by bol daňovým výdavkom a ktorá prechádza na právneho nástupcu daňovníka zrušeného bez likvidácie,
 
@@ -46,19 +46,19 @@
 
 - a) pri postúpení nepremlčanej pohľadávky nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 36 mesiacov,
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 1 080 dní,
 
 - b) pri odpise nepremlčanej pohľadávky nadobudnutej zlúčením, splynutím alebo rozdelením obchodných spoločností alebo družstiev ocenenej reálnou hodnotou, ktorá nesmie byť vyššia ako jej menovitá hodnota, sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 36 mesiacov.
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia pohľadávky pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev<sup>77c</sup>) uplynula doba dlhšia ako 1 080 dní.
 
 (5) Pri odpočítavaní daňovej straty u právneho nástupcu daňovníka zrušeného bez likvidácie sa postupuje podľa § 30.
 

@@ -11,3 +11,7 @@ Príloha č. 2 k zákonu č. 595/2003 Z. z.
   - 4. Smernica Rady 2003/48/ES z 3. júna 2003 o zdaňovaní príjmu z úspor v podobe výplat úrokov (Ú. v. EÚ L 157, 26. 06. 2003) v znení rozhodnutia Rady 2004/587/ES z 19. júla 2004 (Ú. v. EÚ L 257, 04. 08. 2004), smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004) v znení smernice Rady 2006/98/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20.12. 2006).
 
   - 5. Smernica Rady 2003/49/ES z 3. júna 2003 o spoločnom systéme zdaňovania uplatňovanom na výplaty úrokov a licenčných poplatkov medzi združenými spoločnosťami rôznych členských štátov (Ú. v. EÚ L 157, 26. 06. 2003) v znení smernice Rady 2004/66/ES z 26. apríla 2004 (Ú. v. ES L 168, 1. 5. 2004), smernice Rady 2004/76/ES z 29. apríla 2004 (Ú. v. ES L 157, 30. 4. 2004) v znení smernice Rady 2006/98/ES z 20. novembra 2006 (Ú. v. EÚ L 363, 20.12. 2006).
+
+  - 6. Smernica Rady 2014/86/EÚ z 8. júla 2014, ktorou sa mení smernica 2011/96/EÚ o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. EÚ L 219, 25. 7. 2014).
+
+  - 7. Smernica Rady (EÚ) 2015/121 z 27. januára 2015, ktorou sa mení smernica 2011/96/EÚ o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. EÚ L 21, 28. 1. 2015).

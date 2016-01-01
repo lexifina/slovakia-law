@@ -12,7 +12,7 @@
 
 (2) Daňovník kupujúci podnik, ktorý zisťuje základ dane podľa § 17 ods. 1 písm. a), ocení majetok podniku alebo jeho časť v reálnej hodnote, pričom pri odpisovaní majetku sa uplatní postup podľa § 26. Opravnú položku k nadobudnutému majetku odpisuje tento daňovník podľa osobitného predpisu.<sup>1</sup>) Pri pohľadávkach, ktoré nadobudol daňovník kúpou podniku alebo jeho časti, uplatní postup podľa § 17 ods. 12 písm. d). Záväzky prevzaté daňovníkom kupujúcim podnik od daňovníka predávajúceho podnik sa zahrnú do základu dane v tom zdaňovacom období, v ktorom ich tento kupujúci uhradí, ak ide o úhradu záväzkov, ktoré by boli pred predajom podniku alebo jeho časti u daňovníka predávajúceho podnik daňovým výdavkom.
 
-(3) Daňovník predávajúci podnik, ktorý zisťuje základ dane podľa § 17 ods. 1 písm. b) alebo písm. c), upraví výsledok hospodárenia zistený v účtovníctve<sup>1</sup>) pri odpisovanom majetku o rozdiel vzniknutý medzi zostatkovou cenou zistenou podľa osobitného predpisu<sup>1</sup>) a zostatkovou cenou podľa § 25 ods. 3 a o rozdiel medzi reprodukčnou obstarávacou cenou<sup>1</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g).
+(3) Daňovník predávajúci podnik, ktorý zisťuje základ dane podľa § 17 ods. 1 písm. b) alebo písm. c), upraví výsledok hospodárenia zistený v účtovníctve<sup>1</sup>) pri odpisovanom majetku o rozdiel vzniknutý medzi zostatkovou cenou zistenou podľa osobitného predpisu<sup>1</sup>) a zostatkovou cenou podľa § 25 ods. 3 a o rozdiel medzi reálnou hodnotou<sup>80ad</sup>) neodpisovaného majetku nadobudnutého darom a jeho vstupnou cenou podľa § 25 ods. 1 písm. a) a g).
 
 (4) Základ dane daňovníka predávajúceho podnik podľa odseku 3 sa zníži o
 
@@ -38,19 +38,19 @@
 
 - a) postúpení tejto pohľadávky reálnu hodnotu tejto pohľadávky bez príslušenstva, najviac do výšky príjmu z jej postúpenia alebo sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 36 mesiacov,
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 1 080 dní,
 
 - b) odpise pohľadávky sumu najviac do výšky
 
-  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 12 mesiacov,
+  - 1. 20 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 360 dní,
 
-  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 24 mesiacov,
+  - 2. 50 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 720 dní,
 
-  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 36 mesiacov.
+  - 3. 100 % z reálnej hodnoty pohľadávky bez príslušenstva, ak odo dňa nadobudnutia účinnosti zmluvy o predaji podniku alebo jeho časti uplynula doba dlhšia ako 1 080 dní.
 
 (8) Úprava základu dane u daňovníka predávajúceho podnik podľa odsekov 1, 3 a 4 sa vykoná v zdaňovacom období, v ktorom nastane účinnosť zmluvy o predaji podniku alebo jeho časti.<sup>30</sup>)
 
