@@ -502,6 +502,10 @@ Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002
 
 - Povinnosti zhotoviteľa požiarnotechnického zariadenia a registrácia požiarnotechnického zariadenia
 
+- (1)
+
+- Zhotoviteľ požiarnotechnického zariadenia je povinný zaregistrovať požiarnotechnické zariadenie pred jeho prvým zabudovaním do stavby.
+
 - (2)
 
 - Žiadosť o registráciu požiarnotechnického zariadenia obsahuje názov a sídlo zhotoviteľa požiarnotechnického zariadenia, identifikačné číslo organizácie (ďalej len „identifikačné číslo“), druh a typ požiarnotechnického zariadenia a jeho označenie s uvedením technického predpisu na jeho projektovanie. K žiadosti zhotoviteľ požiarnotechnického zariadenia priloží
