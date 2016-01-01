@@ -46,7 +46,7 @@
 
 - 6bb) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6bc) § 175d Občianskeho súdneho poriadku.
+- 6bc) § 14 zákona č. 420/2004 Z. z. v znení zákona č. 390/2015 Z. z.
 
 - 6c) Zákon č. 9/2010 Z. z. o sťažnostiach v znení zákona č. 289/2012 Z. z.
 
