@@ -20,6 +20,8 @@
 
 - 6a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 6b) § 12 zákona č. 392/2015 Z. z. o rozvojovej spolupráci a o zmene a doplnení niektorých zákonov.
+
 - 7) § 3 ods. 1 písm. b) prvý bod zákona č. 240/2001 Z. z. o orgánoch štátnej správy v colníctve.
 
 - 8) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
@@ -59,5 +61,7 @@
 - 17) § 91 ods. 4 zákona č. 483/2001 Z. z.
 
 - 18) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení zákona č. 515/2003 Z. z.
+
+- 18a) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
 
 - 19) § 116 a 117 zákona č. 40/1964 Zb. Občiansky zákonník.
