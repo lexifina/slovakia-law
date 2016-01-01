@@ -2,17 +2,27 @@
 
 - 2) § 116 Občianskeho zákonníka.
 
-- 3) § 1 ods. 2 písm. d) zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky.
+- 3) § 12 ods. 1 písm. b) a § 13 písm. f) zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
+- 3a) § 140 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
 
-- 5) Napríklad zákon č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov, § 6 a 15 zákona č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 3b) § 141 ods. 1 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení zákona č. 236/2012 Z. z.
 
-- 6) Napríklad zákon č. 141/1961 Zb. v znení neskorších predpisov, zákon č. 58/1969 Zb. o zodpovednosti za škodu spôsobenú rozhodnutím orgánu štátu alebo jeho nesprávnym úradným postupom, zákon č. 255/1998 Z. z. o odškodňovaní osôb poškodených násilnými trestnými činmi, zákon č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov.
+- 4) Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. v znení neskorších predpisov.
 
-- 7) Zákon č. 141/1961 Zb. v znení neskorších predpisov.
+- 4a) Napríklad § 243e Občianskeho súdneho poriadku, § 47 ods. 3 a 4, § 369 a 389 Trestného poriadku.
 
-- 8) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona Národnej rady Slovenskej republiky č. 273/1996 Z. z.
+- 4b) Napríklad § 207a ods. 2, § 363 až 367, § 380 ods. 4 a § 530 Trestného poriadku, § 4 ods. 2 zákona č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov, zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 94 ods. 1 písm. d) zákona č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
+
+- 5) Napríklad Trestný poriadok, zákon č. 475/2005 Z. z. v znení neskorších predpisov, zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
+
+- 6) Napríklad § 46, 50, 95 Trestného poriadku, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov, zákon č. 215/2006 Z. z. o odškodňovaní osôb poškodených násilnými trestnými činmi v znení neskorších predpisov.
+
+- 7) Napríklad Trestný poriadok, zákon č. 154/2010 Z. z. o európskom zatýkacom rozkaze v znení zákona č. 344/2012 Z. z.
+
+- 7a) § 88 ods. 1 a § 88a ods. 1 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 8) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení neskorších predpisov.
 
 - 9) § 93 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
@@ -42,13 +52,13 @@
 
 - 20) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 21) Napríklad § 158 zákona č. 141/1961 Zb. v znení neskorších predpisov, § 17 až 27 zákona Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov), zákon č. 152/1998 Z. z. o sťažnostiach.
+- 21) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, § 62 až 70 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 9/2010 Z. z. o sťažnostiach v znení zákona č. 289/2012 Z. z.
+
+- 21a) § 10 ods. 8 Trestného poriadku.
+
+- 21b) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 22) § 24 zákona č. 71/1967 Zb.
-
-- 23) § 4 ods. 2 zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry.
-
-- 24) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
 
 - 25) Zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
@@ -71,8 +81,6 @@
 - 31) § 9 až 11 a § 84 až 89a Občianskeho súdneho poriadku v znení neskorších predpisov.
 
 - § 13 až 26 zákona č. 141/1961 Zb. v znení neskorších predpisov.
-
-- 32) § 30 a 31 zákona č. 141/1961 Zb. v znení neskorších predpisov.
 
 - 33) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 

@@ -2,7 +2,7 @@
 
 (1) Prokuratúry sú povinné zverejňovať právoplatné uznesenia prokurátora, ktorými sa skončilo trestné stíhanie vedené proti určitej osobe, a to do 15 pracovných dní odo dňa nadobudnutia právoplatnosti uznesenia.
 
-(2) Generálna prokuratúra zverejňuje aj právoplatné rozhodnutia disciplinárnych komisií, a to do troch pracovných dní odo dňa nadobudnutia právoplatnosti rozhodnutia.
+(2) Generálna prokuratúra zverejňuje aj právoplatné rozhodnutia disciplinárnych komisií, a to do 15 pracovných dní odo dňa nadobudnutia právoplatnosti rozhodnutia.
 
 (3) Pred zverejnením rozhodnutí podľa odsekov 1 a 2 sa v nich anonymizujú údaje, ktorých anonymizovaním bude pri zverejňovaní zabezpečená ochrana práv a právom chránených záujmov.
 
