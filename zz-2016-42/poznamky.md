@@ -1,0 +1,1 @@
+- 1) § 44 ods. 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
