@@ -20,7 +20,7 @@
 
 - 10) § 6 ods. 1 písm. h) zákona č. 581/2004 Z. z.
 
-- 11) Príloha č. 1 zákona č. 576/2004 Z. z.
+- 11) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
 - 11a) § 11 ods. 10 zákona č. 576/2004 Z. z.
 
