@@ -46,6 +46,8 @@
 
 - 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
+- 13aa) § 39f ods. 1 písm. f) zákona č. 576/2004 Z. z. v znení zákona č. 313/2014 Z. z.
+
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
@@ -82,11 +84,19 @@
 
 - 23aaa) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
-- 24) Čl. 54 Ústavy Slovenskej republiky.
+- 24) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
-- 24a) § 22 ods. 7 písm. h) prvý bod zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 24a) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24aa) § 44 až 47 zákona č. 422/2015 Z. z.
 
 - 24b) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 24c) § 18 zákona č. 422/2015 Z. z.
+
+- 24d) § 25 ods. 4 zákona č. 422/2015 Z. z.
+
+- 24e) § 55 zákona č. 422/2015 Z. z.
 
 - 25) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 602/2003 Z. z.
 
@@ -94,15 +104,23 @@
 
 - 27) § 2 ods. 6 a § 21 zákona č. 576/2004 Z. z.
 
-- 28) Zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 445/2003 Z. z.
+- 27a) § 49 ods. 1 písm. d) zákona č. 422/2015 Z. z.
 
-- 28a) § 85 Zákonníka práce.
+- 27b) § 45 ods. 1 písm. ad) zákona č. 576/2004 Z. z. v znení zákona č. 422/2015 Z. z.
+
+- 27c) § 45 ods. 1 písm. ae) zákona č. 576/2004 Z. z. v znení zákona č. 422/2015 Z. z.
+
+- 27d) § 25 ods. 3 zákona č. 422/2015 Z. z.
 
 - 28aa) § 154 Zákonníka práce.
 
 - 28ab) § 140 Zákonníka práce.
 
-- 28b) Napríklad § 52 ods. 5, § 53 ods. 5 prvá veta, ods. 6 prvá veta, ods. 7 prvá veta a ods. 8 okrem písm. d) a f), § 54 ods. 15 prvá veta a § 76 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov, § 8 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
+- 28b) § 2 ods. 5 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
+
+- 28c) § 37 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
+
+- 28d) Napríklad § 52 ods. 5, § 53 ods. 6 okrem poslednej vety, ods. 7 okrem poslednej vety, ods. 8 okrem poslednej vety a ods. 9 okrem písm. d), e) a f), § 54 ods. 15 prvá veta a § 76 zákona č. 131/2002 Z. z. v znení neskorších predpisov, zákon č. 422/2015 Z. z.
 
 - 29) § 11 Trestného zákona.
 
@@ -172,8 +190,6 @@
 
 - 45) § 6 až 17 a § 26 až 41 a § 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- § 44 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 53/2015 Z. z.
-
 - § 119 a 120 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
 - 45a) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
@@ -206,7 +222,7 @@
 
 - 55c) § 20 ods. 1 písm. m) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
-- 55ca) Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.
+- 55ca) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
 
@@ -227,6 +243,20 @@
 - 55jag) Druhá hlava zákona č. 576/2004 Z. z.
 
 - 55jah) Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
+
+- 55jaj) § 37 ods. 5 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 55jak) § 39a ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+
+- 55jal) § 39b ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+
+- 55jam) § 39b ods. 9 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+
+- 55jan) § 39c ods. 1 a 2 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+
+- 55jao) § 39e zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 55jap) § 44 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 53/2015 Z. z.
 
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

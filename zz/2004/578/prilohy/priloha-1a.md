@@ -124,10 +124,14 @@ Príloha č. 1a k zákonu č. 578/2004 Z. z.
 
   - 61. hepatologická ambulancia,
 
-  - 62. ambulancia anestéziológie a intenzívnej medicíny len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť v odbore anestéziológia a intenzívna medicína,
+  - 62. ambulancia poradenskej psychológie,
 
-  - 63. pediatrická ambulancia len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť najmenej v jednom pediatrickom odbore,
+  - 63. ambulancia pracovnej a organizačnej psychológie,
 
-  - 64. špecializovaná ambulancia Horskej záchrannej služby,
+  - 64. ambulancia anestéziológie a intenzívnej medicíny len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť v odbore anestéziológia a intenzívna medicína,
 
-  - 65. špecializovaná ambulancia Hasičského záchranného zboru.
+  - 65. pediatrická ambulancia len v nemocnici, v ktorej sa poskytuje ústavná zdravotná starostlivosť najmenej v jednom pediatrickom odbore,
+
+  - 66. špecializovaná ambulancia Horskej záchrannej služby,
+
+  - 67. špecializovaná ambulancia Hasičského záchranného zboru.

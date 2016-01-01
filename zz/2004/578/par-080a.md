@@ -1,4 +1,4 @@
-## Osobitné ustanovenia o minimálnej výške základnej zložky mzdy niektorých zdravotníckych pracovníkov pracujúcich v zariadeniach ústavnej zdravotnej starostlivosti
+## Osobitné ustanovenia o minimálnej výške základnej zložky mzdy niektorých zdravotníckych pracovníkov
 
 # § 80a
 

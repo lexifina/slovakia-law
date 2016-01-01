@@ -3046,6 +3046,8 @@ Príloha č. 3 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
 
         - 10.7. doklad vydaný v Rakúsku v odbore maxilofaciálna chirurgia pred 31. marcom 2004.
 
+      - 11. doklad vydaný v Taliansku, z ktorého vyplýva, že špecializačná príprava nespĺňala všetky minimálne požiadavky uvedené v osobitnom predpise a špecializačná príprava osoby sa začala po 31. decembri 1983 a pred 1. januárom 1991, ak takýto doklad bol doplnený osvedčením vydaným oprávneným orgánom Talianska, v ktorom sa uvádza, že jeho držiteľ sa venoval príslušným špecializovaným činnostiam podľa právnych predpisov Talianska najmenej sedem po sebe nasledujúcich rokov počas desiatich rokov pred vydaním tohto osvedčenia.
+
     - c) Diplom, certifikát a iný doklad o kvalifikácii, ktorý vydal príslušný orgán členského štátu, sa uznáva ako diplom o špecializácii v špecializačnom odbore všeobecné lekárstvo v povolaní lekár získaný v Slovenskej republike podľa tabuľky č. 3:
 
     - Tabuľka č. 3

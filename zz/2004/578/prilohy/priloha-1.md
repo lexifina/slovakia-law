@@ -19,3 +19,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti (Ú. v. EÚ L 88, 4. 4. 2011).
 
   - 9. Smernica Rady 2013/25/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti práva usadiť sa a slobody poskytovať služby (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).
