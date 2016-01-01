@@ -1,3 +1,29 @@
 Príloha č. 1 k nariadeniu vlády č. 299/2007 Z. z.
 
-- STUPNICA ZÁKLADNÝCH PLATOV DUCHOVNÝCH V EURÁCH MESAČNE [STUPNICA ZÁKLADNÝCH PLATOV DUCHOVNÝCH V EURÁCH MESAČNE](../assets/fad3c863b7b376895d8641102d6357c7109ca505c56a1635b7c52aede05fc787.pdf)
+- Stupnica základných platov duchovných v eurách mesačne Platový stupeň | Započítateľná doba vykonávania duchovenskej činnosti v rokoch | Stupnica základných platov podľa zaradenia do skupiny a započítateľnej doby vykonávania duchovenskej činnosti | | | | | |
+
+- | | S k u p i n a | | | | | |
+
+- | | A | B | C | D | E | F | G
+
+- 1 | do 3 | 285,01 | 311,69 | 342,36 | 377,08 | 415,42 | 457,40 | 504,74
+
+- 2 | od 3 do 6 | 296,30 | 324,73 | 356,82 | 392,39 | 432,98 | 477,22 | 525,46
+
+- 3 | od 6 do 9 | 308,08 | 337,37 | 370,76 | 407,78 | 450,15 | 497,06 | 546,69
+
+- 4 | od 9 d o 12 | 319,33 | 350,02 | 385,64 | 423,08 | 467,34 | 516,93 | 568,80
+
+- 5 | od 12 do 15 | 331,07 | 363,07 | 400,07 | 439,37 | 485,35 | 535,87 | 590,49
+
+- 6 | od 15 do 18 | 343,23 | 375,75 | 414,93 | 455,17 | 503,40 | 555,27 | 612,11
+
+- 7 | od 18 do 21 | 355,42 | 388,78 | 429,41 | 471,81 | 521,46 | 574,19 | 633,74
+
+- 8 | od 21 do 24 | 367,63 | 401,44 | 444,31 | 488,48 | 539,00 | 593,61 | 655,88
+
+- 9 | od 24 do 27 | 379,80 | 414,93 | 459,20 | 505,20 | 557,06 | 613,46 | 677,99
+
+- 10 | od 27 do 30 | 391,98 | 428,51 | 473,61 | 521,87 | 575,12 | 633,35 | 700,06
+
+- 11 | nad 30 | 404,58 | 441,59 | 488,48 | 538,60 | 593,16 | 653,63 | 723,54
