@@ -11,3 +11,5 @@
 - Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení zákona č. 42/1992 Zb. a zákona č. 93/1992 Zb.
 
 - 5) § 2 ods. 3 nariadenia vlády Slovenskej republiky č. 75/1993 Z. z., ktorým sa podrobnejšie upravuje postup pri uplatňovaní a vyporiadaní reštitučných nárokov k poľnohospodárskemu majetku.
+
+- 6) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.
