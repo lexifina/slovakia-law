@@ -12,8 +12,6 @@
 
 - 7) § 7 a § 8 ods. 5 zákona č. 401/1998 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších predpisov.
 
-- 8) § 32 ods. 3 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
-
 - 8a) § 32a ods. 6 zákona č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov.
 
 - 8b) § 26 ods. 4 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
@@ -86,11 +84,9 @@
 
 - § 19 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22) Zákon č. 502/2001 Z. z.
+- 22) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
-- Zákon č. 523/2004 Z. z.
-
-- 22a) § 11 a 12 zákona č. 502/2001 Z. z. v znení neskorších predpisov.
+- Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 22b) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
