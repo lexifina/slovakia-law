@@ -6,9 +6,7 @@
 
 - a) mužstva a poddôstojníkov povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
-- b) práporčíkov vymenúva alebo povyšuje veliteľ vojenského útvaru poverený náčelníkom generálneho štábu,
-
-- c) dôstojníkov do vojenskej hodnosti
+- b) dôstojníkov do vojenskej hodnosti
 
   - 1. poručík až kapitán vymenúva alebo povyšuje veliteľ vojenského útvaru poverený náčelníkom generálneho štábu,
 
@@ -20,9 +18,7 @@
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
-- b) práporčíkov, vymenúva alebo povyšuje veliteľ vojenského útvaru poverený ministrom,
-
-- c) dôstojníkov do vojenskej hodnosti
+- b) dôstojníkov do vojenskej hodnosti
 
   - 1. poručík až plukovník, vymenúva alebo povyšuje veliteľ vojenského útvaru poverený ministrom,
 
@@ -32,9 +28,7 @@
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
-- b) práporčíkov, vymenúva alebo povyšuje veliteľ vojenského útvaru poverený prezidentom Slovenskej republiky,
-
-- c) dôstojníkov do vojenskej hodnosti
+- b) dôstojníkov do vojenskej hodnosti
 
   - 1. poručík až plukovník, vymenúva alebo povyšuje veliteľ vojenského útvaru poverený prezidentom Slovenskej republiky,
 

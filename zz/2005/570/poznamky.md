@@ -2,7 +2,7 @@
 
 - 2) Zákon č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu.
 
-- 3) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+- 3) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
 - 4) Čl. 2 ústavného zákona č. 227/2002 Z. z.
 
@@ -10,13 +10,13 @@
 
 - 6) § 1 ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 7) § 34 ods. 4 prvý bod písm. c) až i), druhý a tretí bod zákona č. 346/2005 Z. z.
+- 7) § 42 ods. 3 písm. c) až s) zákona č. 281/2015 Z. z.
 
-- 8) § 21 ods. 11, 13 a 14 zákona č. 346/2005 Z. z.
+- 8) § 32 zákona č. 281/2015 Z. z.
 
-- 8a) § 70 ods. 1 písm. c) zákona č. 346/2005 Z. z.
+- 8a) § 83 ods. 1 písm. b) zákona č. 281/2015 Z. z.
 
-- 8b) § 69 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 8b) § 83 ods. 2 písm. b) až f) zákona č. 281/2015 Z. z.
 
 - 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
@@ -48,11 +48,11 @@
 
 - 22) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 24) § 139 zákona č. 346/2005 Z. z.
+- 24) § 157 zákona č. 281/2015 Z. z.
 
 - 25) § 139 zákona č. 311/2001 Z. z. Zákonníka práce v znení zákona č. 210/2003 Z. z.
 
-- 26) Napríklad čl. 11 ods. 3 písm. b) ústavného zákona č. 227/2002 Z. z., zákon č. 346/2005 Z. z.
+- 26) Napríklad čl. 11 ods. 3 písm. b) ústavného zákona č. 227/2002 Z. z., zákon č. 281/2015 Z. z.
 
 - 27) § 10 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
@@ -60,9 +60,9 @@
 
 - 29) Čl. 5 ústavného zákona č. 227/2002 Z. z.
 
-- 29a) § 51a zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 29a) § 60 zákona č. 281/2015 Z. z.
 
-- 29b) § 34 zákona č. 346/2005 Z. z.
+- 29b) § 42 zákona č. 281/2015 Z. z.
 
 - 29c) Zákon č. 463/2003 Z. z. o vojnových veteránoch a o doplnení zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 219/2006 Z. z.
 
@@ -72,7 +72,7 @@
 
 - 29f) Napríklad zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 29g) § 117 ods. 1 až 6, § 122 ods. 3 a § 123 až 134 zákona č. 346/2005 Z. z. v znení zákona č. 253/2007 Z. z.
+- 29g) § 132 ods. 1 až 5, § 137 ods. 3 a § 138 až 153 zákona č. 281/2015 Z. z.
 
 - 29h) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -99,6 +99,14 @@
 - 34) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 732/2004 Z. z.
 
 - 34a) § 32 zákona č. 595/2003 Z. z.
+
+- 34aa) § 38 a 40 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 34ab) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie v znení zákona č. 101/1964 Zb.
+
+- 34ac) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
+
+- Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
 
 - 34b) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 

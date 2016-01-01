@@ -16,6 +16,4 @@
 
 - a) ponechá vo vojenskej hodnosti vojak 2. stupňa alebo povýši do vojenskej hodnosti slobodník, ak je pripravovaný pre hodnostný zbor mužstva a poddôstojníkov,
 
-- b) vymenuje do vojenskej hodnosti podpráporčík, ak je pripravovaný pre hodnostný zbor práporčíkov,
-
-- c) vymenuje do vojenskej hodnosti poručík, ak je pripravovaný pre hodnostný zbor dôstojníkov.
+- b) vymenuje do vojenskej hodnosti poručík, ak je pripravovaný pre hodnostný zbor dôstojníkov.
