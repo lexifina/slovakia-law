@@ -6,6 +6,8 @@
 
 - 2a) Zákon Národnej rady Slovenskej republiky č. 173/1993 Z. z. o niektorých náhradách v súvislosti s prevodom majetku štátu na iné osoby.Nariadenie vlády Slovenskej republiky č. 75/1993 Z. z., ktorým sa podrobnejšie upravuje postup pri uplatňovaní a vyporiadaní reštitučných nárokov k poľnohospodárskemu majetku.
 
+- 2b) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení zákona č. 541/1990 Zb.
 
 - 4) Zákon Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení zákona Slovenskej národnej rady č. 501/1991 Zb.
@@ -30,6 +32,10 @@
 
 - 4f) Zákon Národnej rady Slovenskej republiky č. 221/1994 Z. z. o preukazovaní pôvodu finančných prostriedkov pri privatizácii.
 
+- 4fa) § 13 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 4fb) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+
 - 4g) Zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
 - Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
@@ -50,35 +56,13 @@
 
 - 7e) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
-- 7f) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
-
 - 8) Zákon č. 248/1992 Zb. o investičných spoločnostiach a investičných fondoch v znení zákona č. 600/1992 Zb.
 
 - 8a) § 13 a 19 zákona č. 600/1992 Zb. o cenných papieroch.
 
-- 8b) Zákon Slovenskej národnej rady č. 253/1991 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov majetku štátu na iné osoby a o Fonde národného majetku Slovenskej republiky v znení zákona Slovenskej národnej rady č. 501/1991 Zb., zákona Slovenskej národnej rady č. 29/1992 Zb. a zákona Národnej rady Slovenskej republiky č. 17/1993 Z. z.
-
-- 8ba) § 54 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
-
-- 8c) § 15 a 16 ods. 1 zákona Slovenskej národnej rady č. 474/1990 Zb. o pôsobnosti orgánov Slovenskej republiky vo veciach prevodov vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.§ 7 písm. b), § 10 ods. 3 a § 22 ods. 3 zákona č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd v znení neskorších predpisov.
-
-- 8ca) § 49b ods. 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 348/1999 Z. z.
-
 - 8d) Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov. Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
 - 8e) § 16 ods. 2 zákona Slovenskej národnej rady č. 474/1990 Zb. v znení neskorších predpisov.
-
-- 8f) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov. Zákon Slovenskej národnej rady č. 474/1990 Zb. v znení neskorších predpisov.
-
-- 8g) § 17a a 32 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
-
-- 8ga) Napríklad zákon Slovenskej národnej rady č. 193/1992 Zb. o Štátnom fonde zdravia v znení zákona Národnej rady Slovenskej republiky č. 242/1994 Z. z.
-
-- 8h) Zákon Národnej rady Slovenskej republiky č. 567/1992 Zb. o rozpočtových pravidlách Slovenskej republiky v znení neskorších predpisov.
-
-- 8i) § 105 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
-
-- 8j) § 22 zákona č. 566/2001 Z. z. v znení zákona č. 644/2006 Z. z.
 
 - 9) § 163 ods. 1 písm. e) Obchodného zákonníka.
 
@@ -101,6 +85,10 @@
 - 14) § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 15) § 18 ods. 4 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 16) § 14 ods. 1 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 17) Zákon Slovenskej národnej rady č. 319/1991 Zb. o zmiernení niektorých majetkových a iných krívd a o pôsobnosti orgánov štátnej správy Slovenskej republiky v oblasti mimosúdnych rehabilitácií v znení neskorších predpisov.
 
 - 1) Zákon č. 427/1990 Zb. o prevodoch vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby v znení neskorších predpisov.
 

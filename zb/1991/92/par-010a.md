@@ -1,46 +1,46 @@
 # § 10a
 
-(1) Rozhodnutie o privatizácii podniku obsahuje
+(1) Rozhodnutie o prevode majetku podniku obsahuje
 
 - a) identifikáciu projektu,
 
-- b) označenie schváleného spôsobu privatizácie,
+- b) označenie schváleného spôsobu prevodu majetku,
 
-- c) účtovnú hodnotu majetku jednotlivých samostatne privatizovaných jednotiek zodpovedajúcich privatizačnému projektu, ktorý bol týmto rozhodnutím určený na realizáciu,
+- c) účtovnú hodnotu majetku jednotlivých samostatne prevádzaných jednotiek zodpovedajúcich projektu o prevode majetku, ktorý bol týmto rozhodnutím určený na realizáciu,
 
 - d) v prípade existencie majetku nepoužiteľného na podnikateľské účely jeho účtovnú hodnotu po odpočítaní prípadných výnosov z jeho realizácie a spôsob naloženia s týmto majetkom,
 
-- e) prípadnú skutočnosť, že s prevodom privatizovaného majetku je spojený vznik nového záväzku nadobúdateľa s uvedením jeho rozsahu a sankcií za jeho neplnenie,
+- e) prípadnú skutočnosť, že s prevodom prevádzaného majetku je spojený vznik nového záväzku nadobúdateľa s uvedením jeho rozsahu a sankcií za jeho neplnenie,
 
-- f) prípadnú skutočnosť, že privatizačný projekt alebo jeho časť bude realizovať Slovenský pozemkový fond,
+- f) prípadnú skutočnosť, že projekt o prevode majetku alebo jeho časť bude realizovať Slovenský pozemkový fond,
 
-- g) prípadnú skutočnosť, že v rámci privatizačného projektu sa bezodplatne prevádzajú viacúčelové sklady a majetok civilnej ochrany,
+- g) prípadnú skutočnosť, že v rámci projektu o prevode majetku sa bezodplatne prevádzajú viacúčelové sklady a majetok civilnej ochrany,
 
-- h) prípadnú skutočnosť, že fond uzatvorí na základe rozhodnutia vlády s nadobúdateľom zmluvu o úhrade nákladov vynaložených na vyporiadanie ekologických záväzkov vzniknutých pred privatizáciou,
+- h) prípadnú skutočnosť, že ministerstvo uzatvorí na základe rozhodnutia vlády s nadobúdateľom zmluvu o úhrade nákladov vynaložených na vyporiadanie ekologických záväzkov vzniknutých pred prevodom majetku,
 
 - ch) spôsob vyporiadania nároku oprávnených osôb<sup>4e</sup>),
 
 - i) prípadné ďalšie podmienky.
 
-(2) Rozhodnutie o privatizácii priamym predajom vopred určenému záujemcovi obsahuje okrem náležitostí uvedených v odseku 1
+(2) Rozhodnutie o prevode majetku priamym predajom vopred určenému záujemcovi obsahuje okrem náležitostí uvedených v odseku 1
 
 - a) spôsob výberu nadobúdateľa,
 
-- b) nadobúdateľa privatizovaného majetku s uvedením jeho identifikačného alebo rodného čísla, ak je nadobúdateľom obchodná spoločnosť, k rozhodnutiu musí byť okrem výpisu z obchodného registra priložená aj spoločenská, resp. zakladateľská zmluva alebo zakladateľská listina,
+- b) nadobúdateľa prevádzaného majetku s uvedením jeho identifikačného alebo rodného čísla, ak je nadobúdateľom obchodná spoločnosť, k rozhodnutiu musí byť okrem výpisu z obchodného registra priložená aj spoločenská, resp. zakladateľská zmluva alebo zakladateľská listina,
 
 - c) spôsob určenia kúpnej ceny; ak je kúpna cena určená dohodou, uvedie sa absolútna suma,
 
 - d) platobné podmienky vrátane preukázania zdroja zaplatenia kúpnej ceny alebo prvej splátky, ak platobné podmienky určujú zaplatenie kúpnej ceny v splátkach, a preukázanie pôvodu finančných prostriedkov podľa osobitného predpisu<sup>4f</sup>).
 
-(3) Rozhodnutie o privatizácii verejnou súťažou obsahuje okrem náležitostí uvedených v odseku 1
+(3) Rozhodnutie o prevode majetku verejnou súťažou obsahuje okrem náležitostí uvedených v odseku 1
 
-- a) podmienky verejnej súťaže a kritériá na posúdenie ich splnenia, ktoré fond po vyhlásení víťaza súťaže nemôže meniť,
+- a) podmienky verejnej súťaže a kritériá na posúdenie ich splnenia, ktoré ministerstvo po vyhlásení víťaza súťaže nemôže meniť,
 
-- b) vymedzenie okruhu účastníkov privatizácie.
+- b) vymedzenie okruhu účastníkov prevodu majetku.
 
-(4) Rozhodnutie o privatizácii vložením privatizovaného majetku do obchodnej spoločnosti a rozhodnutie o privatizácii majetkovej účasti štátu obsahuje okrem náležitostí uvedených v odseku 1
+(4) Rozhodnutie o prevode majetku vložením prevádzaného majetku do obchodnej spoločnosti a rozhodnutie o prevode majetkovej účasti štátu obsahuje okrem náležitostí uvedených v odseku 1
 
-- a) spôsob privatizácie akcií (obchodných podielov) vyjadrený percentuálnymi podielmi jednotlivých spôsobov privatizácie akcií (obchodných podielov), prípadne percentuálne podiely predávané jednotlivým nadobúdateľom,
+- a) spôsob prevodu majetku akcií (obchodných podielov) vyjadrený percentuálnymi podielmi jednotlivých spôsobov prevodu majetku akcií (obchodných podielov), prípadne percentuálne podiely predávané jednotlivým nadobúdateľom,
 
 - b) prípadnú existenciu akcií s osobitnými právami,
 
@@ -48,22 +48,22 @@
 
 - d) pri predaji akcií (obchodného podielu) za dohodnutú kúpnu cenu cenu jednej akcie (obchodného podielu) alebo dohodnutú celkovú cenu,
 
-- e) určenie podielu na výmenu dlhopisov fondu za akcie fondu.
+- e) určenie podielu na výmenu dlhopisov ministerstva za akcie ministerstva.
 
-(5) Rozhodnutie o privatizácii verejnou ponukou akcií obsahuje
+(5) Rozhodnutie o prevode majetku verejnou ponukou akcií obsahuje
 
-- a) spôsob privatizácie akcií,
+- a) spôsob prevodu majetku akcií,
 
 - b) podmienky verejnej ponuky akcií,
 
 - c) ďalšie podmienky určené vládou.
 
-(6) Odsek 4 sa na rozhodnutie o privatizácii verejnou ponukou akcií nepoužije.
+(6) Odsek 4 sa na rozhodnutie o prevode majetku verejnou ponukou akcií nepoužije.
 
-(7) V rozhodnutí o privatizácii verejnou ponukou akcií môže vláda spojiť privatizáciu verejnou ponukou akcií s privatizáciou priamym predajom. Rozhodnutie o privatizácii verejnou ponukou akcií v spojení s privatizáciou priamym predajom obsahuje okrem náležitostí uvedených v odseku 5 primerane náležitosti rozhodnutia o privatizácii uvedené v odsekoch 1, 2 a 4.
+(7) V rozhodnutí o prevode majetku verejnou ponukou akcií môže vláda spojiť prevod majetku verejnou ponukou akcií s prevodom majetku priamym predajom. Rozhodnutie o prevode majetku verejnou ponukou akcií v spojení s prevodom majetku priamym predajom obsahuje okrem náležitostí uvedených v odseku 5 primerane náležitosti rozhodnutia o prevode majetku uvedené v odsekoch 1, 2 a 4.
 
-(8) Vláda môže rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja podľa odsekov 5 a 7.
+(8) Vláda môže rozhodnutím o prevode majetku uložiť ministerstvu zabezpečenie predaja podľa odsekov 5 a 7.
 
-(9) Prílohu privatizačného projektu vybraného rozhodnutím o privatizácii na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
+(9) Prílohu projektu o prevode majetku vybraného rozhodnutím o prevode majetku na realizáciu tvorí súpis nehnuteľného majetku podľa údajov katastra nehnuteľností.
 
-(10) Pri privatizačnom projekte majetkových účastí možno rozhodnutím o privatizácii uložiť fondu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)
+(10) Pri projekte o prevode majetkovej účasti možno rozhodnutím o prevode majetku uložiť ministerstvu zabezpečenie predaja, prípadne vyporiadanie nároku osoby oprávnenej podľa osobitných predpisov.<sup>2</sup>)
