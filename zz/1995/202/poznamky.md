@@ -70,6 +70,10 @@
 
 - 23b) § 57 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
+- 23c) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
+- § 3 ods. 1 a 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+
 - 29) Čl. 119 písm. d) a čl. 118 Ústavy Slovenskej republiky.
 
 - 30) Zákon č. 747/2004 Z. z. v znení neskorších predpisov.

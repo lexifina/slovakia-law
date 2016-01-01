@@ -36,4 +36,4 @@
 
 (8) Uložená pokuta je splatná do 30 dní od právoplatnosti rozhodnutia o uložení pokuty a výnos z pokuty je príjmom štátneho rozpočtu.
 
-(9) Pokuty, ktoré uložil devízový orgán, spravuje správa finančnej kontroly príslušná podľa sídla, miesta podnikania alebo trvalého pobytu kontrolovanej osoby.
+(9) Pokuty, ktoré právoplatne uložil devízový orgán, spravuje Úrad vládneho auditu;<sup>23c</sup>) na tento účel devízový orgán zašle Úradu vládneho auditu právoplatné rozhodnutie o uložení pokuty.
