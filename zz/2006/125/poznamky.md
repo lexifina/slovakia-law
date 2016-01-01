@@ -58,6 +58,8 @@
 
 - 17aa) § 15 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
+- 17aaa) § 34 ods. 6 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+
 - 18) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - § 7 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
