@@ -78,6 +78,24 @@ Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 
 
 - 12. V § 18 ods. 3 sa slová "na formulári v písomnej podobe alebo v elektronickej podobe" nahrádzajú slovami "ustanoveným spôsobom podľa odseku 5".
 
+- 13. V § 18 sa za odsek 4 vkladajú nové odseky 5 a 6, ktoré znejú:
+
+- „(5)
+
+- Spravodajská jednotka poskytuje úradu údaje požadované na štatistické zisťovanie vyplnením a odoslaním elektronického formulára. Spravodajská jednotka, ktorá je fyzickou osobou alebo fyzickou osobou - podnikateľom a k 31. decembru predchádzajúceho kalendárneho roka nemá žiadneho zamestnanca, alebo spravodajská jednotka, ktorá má sídlo v obci bez internetového pripojenia alebo signálu, môže povinnosť podľa odseku 3 splniť aj odovzdaním vyplneného formulára v písomnej podobe. Na poskytovanie údajov prostredníctvom elektronických formulárov štatistických zisťovaní podľa tohto zákona sa nevzťahujú ustanovenia osobitného zákona.<sup>4a</sup>)
+
+- (6)
+
+- Podrobnosti o spôsobe poskytovania údajov spravodajskými jednotkami ustanoví úrad vyhláškou.“.
+
+  - Doterajšie odseky 5 a 6 sa označujú ako odseky 7 a 8 .
+
+  - Poznámka pod čiarou k odkazu 4a znie:
+
+  - „4a)
+
+  - Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).“.
+
 - 14. Nadpis § 19 znie: "Klasifikácie a číselníky".
 
 - 15. V § 19 odsek 1 znie:
