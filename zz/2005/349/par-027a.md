@@ -1,3 +1,0 @@
-# § 27a
-
-Touto vyhláškou sa preberajú právne záväzné akty Európskej únie uvedené v prílohe č. 4.
