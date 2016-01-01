@@ -28,6 +28,8 @@
 
 - § 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
 
+- 12aa) § 79 ods. 1 písm. zx) zákona č. 578/2004 Z. z. v znení zákona č. 428/2015 Z. z.
+
 - 13) § 27 Občianskeho zákonníka.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
