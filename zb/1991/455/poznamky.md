@@ -48,6 +48,8 @@
 
 - 11a) Zákon č. 219/2014 Z. z. o sociálnej práci a o podmienkach na výkon niektorých odborných činností v oblasti sociálnych vecí a rodiny a o zmene a doplnení niektorých zákonov.
 
+- 11b) § 4 a 6 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+
 - 12) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
@@ -124,7 +126,7 @@
 
 - 23ha) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
-- 23i) Zákon č. 283/1997 Z. z. o kolektívnej správe práv podľa autorského zákona a o zmene a doplnení niektorých zákonov v znení zákona č. 234/2000 Z. z.
+- 23i) § 141 zákona č. 185/2015 Z. z. Autorský zákon.
 
 - 23j) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
@@ -237,6 +239,8 @@
 - 37c) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 37d) § 20 ods. 1 písm. e) zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
+
+- 37da) § 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti ogánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
 - 37e) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 

@@ -52,7 +52,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 214 – Ostatné | | | |
 
-- 20. | Prevádzkovanie autoškoly | osvedčenie o registrácii autoškoly | § 3 ods. 8 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 20. | Prevádzkovanie autoškoly | - úplné stredoškolské vzdelanie a najmenej dva roky praxe prevádzkovateľa autoškoly zodpovedného zástupcu v autoškole alebo inštruktora autoškoly počas troch rokov pred podaním ohlásenia živnosti alebo pred podaním žiadosti o vydanie osvedčenia o živnostenskom oprávnení | § 4 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
 - 21. | Inštruktor autoškoly | inštruktorský preukaz | § 10 zákona č. 93/2005 Z. z. |
 
@@ -66,13 +66,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 26. | Výchova a vzdelávanie v oblasti ochrany práce | oprávnenie | § 27 zákona č. 124/2006 Z. z. |
 
-- 27. | Odborné poradenské služby pre uchádzačov a záujemcov o zamestnanie | vysokoškolské vzdelanie druhého stupňa | § 43 ods. 9 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+- 27. | Odborné poradenské služby pre uchádzačov a záujemcov o zamestnanie okrem činnosti športového agenta | vysokoškolské vzdelanie druhého stupňa | § 43 ods. 9 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
-- 28. | Sprostredkovanie zamestnania za úhradu | vysokoškolské vzdelanie najmenej prvého stupňa*) | § 25 zákona č. 5/2004 Z. z. *)§ 72d zákona č. 5/2004 Z. z. |
-
-- 29. | Prevádzkovanie vzdelávacích zariadení na prípravu vykonávania špecializovaných činností v oblasti ­te­les­nej kultúry | potvrdenie o akreditácii | § 11 ods. 4 zákona č. 288/1997 Z. z. o telesnej kultúre a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
-
-- 30. | Výkon špecializovaných činností v oblasti telesnej kultúry okrem horskej vodcovskej činnosti | doklad o získanej odbornej spôsobilosti | § 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 444/2008 Z. z. o akreditačnej komisii pre oblasť telesnej kultúry a o Jednotnom vzdelávacom systéme odborníkov v športe Slovenskej republiky |
+- 28. | Sprostredkovanie zamestnania za úhradu okrem činnosti športového agenta | vysokoškolské vzdelanie najmenej prvého stupňa*) | § 25 zákona č. 5/2004 Z. z. *)§ 72d zákona č. 5/2004 Z. z. |
 
 - 31. | Horská vodcovská činnosť vrátane vedenia a sprevádzania osôb po turistických chodníkoch a trasách | osvedčenie o odbornej spôsobilosti na výkon horskej vodcovskej činnosti vydané Národnou asociáciou horských vodcov Slovenskej republiky | § 2d ods. 2 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení neskorších predpisov |
 
@@ -184,11 +180,19 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 71. | Vykonávanie skúšky na overenie odbornej spôsobilosti | Oprávnenie na vykonávanie skúšky na overenie odbornej spôsobilosti | § 15 až 18 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov. |
 
-- 76. | Podnikanie v oblasti nakladania s nebezpečným odpadom | – vysokoškolské vzdelanie prvého alebo druhého stupňa príslušného technického, prírodovedného, farmaceutického, poľnohospodárskeho, veterinárneho alebo lekárskeho smeru a najmenej tri roky praxe v príslušnom odbore alebo – stredoškolské vzdelanie príslušného technického, poľnohospodárskeho alebo zdravotníckeho smeru a najmenej päť rokov praxe v príslušnom odbore | § 40 ods. 9 zákona č. 223/2001 Z. z. o odpadoch v znení neskorších predpisov |
+- 76. | Podnikanie v oblasti nakladania s nebezpečným odpadom | – vysokoškolské vzdelanie prvého alebo druhého stupňa príslušného technického, prírodovedného, farmaceutického, poľnohospodárskeho, veterinárneho alebo lekárskeho smeru a najmenej tri roky praxe v oblasti nakladania s nebezpečnými odpadmi alebo – stredoškolské vzdelanie príslušného technického, poľnohospodárskeho alebo zdravotníckeho smeru a najmenej päť rokov praxe v oblasti nakladania s nebezpečnými odpadmi | § 25 ods. 9 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov o odpadoch v znení neskorších predpisov |
 
 - 77. | Posudzovanie vplyvov na životné prostredie | osvedčenie o odbornej spôsobilosti | § 61 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov |
 
-- 78. | Oprávnené merania emisií, všeobecných podmienok prevádzkovania, alebo technických požiadaviek na stacionárnych zdrojoch ovzdušia Oprávnené merania parametrov kvality ovzdušia Oprávnené kaliberácie automatizovaných meracích systémov emisií, alebo kvality ovzdušia Oprávnené skúšky automatizovaných meracích systémov emisií, alebo kvality ovzdušia Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií, alebo kvality ovzdušia | osvedčenie o osobitnej odbornej spôsobilosti na odborné činnosti v členení podľa § 20 ods. 1 zákona č. 137/2010 Z. z. | § 20 zákona č. 137/2010 Z. z. o ovzduší |
+- 78. | Oprávnené merania emisií, všeobecných podmienok prevádzkovania, alebo technických požiadaviek na stacionárnych zdrojoch ovzdušia | osvedčenie o osobitnej odbornej spôsobilosti na odborné činnosti v členení podľa § 20 ods. 1 zákona č. 137/2010 Z. z. | § 20 zákona č. 137/2010 Z. z. o ovzduší |
+
+- | Oprávnené merania parametrov kvality ovzdušia | | |
+
+- | Oprávnené kaliberácie automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
+
+- | Oprávnené skúšky automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
+
+- | Oprávnené inšpekcie zhody automatizovaných meracích systémov emisií, alebo kvality ovzdušia | | |
 
 - 79. | Pravidelná kontrola vykurovacích systémov, pravidelná kontrola klimatizačných systémov | osvedčenie | § 7 ods. 5 zákona č. 314/2012 Z. z. o pravidelnej kontrole vykurovacích systémov a klimatizačných systémov a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov |
 
@@ -206,7 +210,9 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 86. | Vykonávanie kvalifikačného kurzu žiadateľov o preukaz odbornej spôsobilosti vodcu malého plavidla | poverenie | § 31 ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z. |
 
-- 87. | Vypracovanie a aktualizácia plánu ochrany obyvateľstva Vypracovanie a aktualizácia plánu ochrany zamestnancov a osôb prevzatých do starostlivosti | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 395/2011 Z. z. |
+- 87. | Vypracovanie a aktualizácia plánu ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení zákona č. 395/2011 Z. z. |
+
+- | Vypracovanie a aktualizácia plánu ochrany zamestnancov a osôb prevzatých do starostlivosti | | |
 
 - 88. | Vzdelávacia činnosť na úseku civilnej ochrany obyvateľstva | Osvedčenie o odbornej spôsobilosti na úseku civilnej ochrany obyvateľstva | § 18a ods. 5 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení zákona č. 395/2011 Z. z. |
 
@@ -231,3 +237,13 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 - | | – iný zdravotnícky pracovník so špecializáciou v špecializačnom odbore hygiena životného a pracovného prostredia podľa predpisov účinných do 28. marca 2002 | |
 
 - 93. | Odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb pri búracích prácach, údržbárskych prácach, opravách a iných činnostiach | Oprávnenie na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb | § 41 zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z. |
+
+- 94. | Inštalácia, servis, údržba, oprava alebo vyraďovanie zariadení s obsahom fluórovaných skleníkových plynov | Osvedčenie o odborných znalostiach | § 6 ods. 12 zákona č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
+
+- | Kontrola úniku fluórovaných skleníkových plynov zo zariadení | | |
+
+- | Zhodnotenie fluórovaných skleníkových plynov | | |
+
+- | Zneškodňovanie fluórovaných skleníkových plynov vrátane podnikania v oblasti nakladania s odpadmi s obsahom fluórovaných skleníkových plynov | | |
+
+- | Uvádzanie fluórovaných skleníkových plynov na trh | | |
