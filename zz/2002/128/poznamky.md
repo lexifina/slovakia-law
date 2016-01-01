@@ -6,6 +6,8 @@
 
 - 1a) Napríklad Občiansky zákonník, zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 377/2004 Z. z. o ochrane nefajčiarov a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2005 Z. z., zákon č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho a o zmene a doplnení niektorých zákonov, zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z., zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov, zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon), zákon č. 78/2012 Z. z. o bezpečnosti hračiek a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1aa) Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, zákon č. 337/1998 Z. z. o veterinárnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
@@ -41,6 +43,12 @@
 - 9c) Napríklad zákon č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov, delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1062/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie televízorov energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
 
 - 9d) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1007/2011 z 27. septembra 2011 o názvoch textilných vlákien a súvisiacom označení vláknového zloženia textilných výrobkov etiketou a iným označením, ktorým sa zrušuje smernica Rady 73/44/EHS a smernice Európskeho parlamentu a Rady 96/73/ES a 2008/121/ES (Ú. v. EÚ L 272, 18. 10. 2011) v platnom znení.
+
+- 9e) § 13a zákona č. 725/2004 Z. z. v znení zákona č. 387/2015 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 384/2004 Z. z. o dostupnosti spotrebiteľských informácií o spotrebe paliva a o emisiách CO<sub>2</sub> pri predaji a leasingu nových osobných automobilov.
+
+- Čl. 5 a 6 nariadenia (ES) č. 1222/2009 v platnom znení.
 
 - 10) § 6a zákona č. 634/1992 Zb. v znení neskorších predpisov.
 
@@ -79,8 +87,6 @@
 - Zákon č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
 
 - 18a) § 2 písm. a) zákona č. 22/2004 Z. z.
-
-- 18aa) § 12 ods. 4 a 6 zákona č. 725/2004 Z. z.
 
 - 18b) § 7 až 9 zákona č. 250/2007 Z. z.
 
