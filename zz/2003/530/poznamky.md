@@ -90,6 +90,8 @@
 
 - 15ac) § 218la až 218lk Obchodného zákonníka.
 
+- 15aca) § 13a Obchodného zákonníka.
+
 - 15ad) § 68 ods. 3 písm. d) Obchodného zákonníka.
 
 - 15b) § 68 ods. 8 Obchodného zákonníka.
