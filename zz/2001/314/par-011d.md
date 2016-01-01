@@ -1,5 +1,7 @@
 # § 11d Povinnosti zhotoviteľa požiarnotechnického zariadenia a registrácia požiarnotechnického zariadenia
 
+(1) Zhotoviteľ požiarnotechnického zariadenia je povinný zaregistrovať požiarnotechnické zariadenie pred jeho prvým zabudovaním do stavby.
+
 (2) Žiadosť o registráciu požiarnotechnického zariadenia obsahuje názov a sídlo zhotoviteľa požiarnotechnického zariadenia, identifikačné číslo organizácie (ďalej len „identifikačné číslo“), druh a typ požiarnotechnického zariadenia a jeho označenie s uvedením technického predpisu na jeho projektovanie. K žiadosti zhotoviteľ požiarnotechnického zariadenia priloží
 
 - a) zoznam komponentov, z ktorých bude registrované požiarnotechnické zariadenie pozostávať, vrátane uvedenia ich výrobcu a uvedenia technického predpisu na jeho projektovanie,
