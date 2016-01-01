@@ -6,7 +6,7 @@
 
 - Vyhláška Štatistického úradu Slovenskej republiky č. 377/2010 Z. z., ktorou sa vydáva Štatistický číselník krajín.
 
-- 2) § 60 ods. 5 Obchodného zákonníka.
+- 2) § 60 ods. 4 Obchodného zákonníka.
 
 - 2a) § 54 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 246/2012 Z. z.
 
@@ -61,6 +61,10 @@
 - 3) § 69a ods. 3 písm. a) Obchodného zákonníka.
 
 - 4) § 69a ods. 3 písm. b) Obchodného zákonníka.
+
+- 4a) § 67a Obchodného zákonníka.
+
+- 4b) § 152a ods. 6 Obchodného zákonníka.
 
 - 5) § 69a ods. 3 písm. c) Obchodného zákonníka.
 
