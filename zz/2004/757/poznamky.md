@@ -114,6 +114,8 @@
 
 - 42e) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
+- 42f) § 13a Obchodného zákonníka.
+
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
 - 44) Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
