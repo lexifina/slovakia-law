@@ -1,14 +1,12 @@
-- 1) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov.
+- 1) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- 2) § 4 ods. 2 zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
+- Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2) § 13 ods. 3 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 3) Zákonník práce.
 
-- 4) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
-
-- 5) Zákon Národnej rady Slovenskej republiky č. 274/1994 Z. z. o Sociálnej poisťovni v znení neskorších predpisov.
-
-- 6) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
+- 4) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 7) Zákon č. 540/2001 Z. z. o štátnej štatistike.
 
@@ -18,6 +16,6 @@
 
 - 10) § 115 Občianskeho zákonníka.
 
-- 11) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 11) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 12) § 13a ods. 1 zákona Slovenskej národnej rady č. 369/1990 Zb.
