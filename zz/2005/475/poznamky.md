@@ -42,6 +42,8 @@
 
 - 13a) § 3 ods. 4 zákona č. 324/2011 Z. z.
 
+- 13aa) § 65a ods. 2 zákona č. 4/2001 Z. z. v znení neskorších predpisov.
+
 - 13b) § 13 ods. 1 písm. a) zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - § 2 ods. 2 zákona č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2006 Z. z.
