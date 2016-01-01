@@ -1,7 +1,5 @@
 - 1) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 11 ods. 10 a § 28 ods. 4 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
-- 1a) Zákon č. 92/1991 Zb. v znení neskorších predpisov.
-
 - 1b) § 21 zákona č. 523/2004 Z. z.
 
 - 1c) § 19 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
