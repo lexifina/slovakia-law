@@ -20,7 +20,7 @@
 
 - 4) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. ES L 166, 30. 4. 2004) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 988/2009 zo 16. septembra 2009 (Ú. v. EÚ L 284, 30. 10. 2009).
 
-- 5) § 5 ods. 1 písm. a) až h), ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 5) § 5 ods. 1 písm. a) až h) a m), ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 6) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -140,6 +140,12 @@
 
 - 56a) Napríklad čl. 1 nariadenia Rady (EHS Euroatom, ESUO) č. 259/1968 z 29. februára 1968, ktorým sa ustanovuje Služobný poriadok a podmienky zamestnávania ostatných zamestnancov Európskych spoločenstiev a osobitné pravidlá, ktoré sa dočasne uplatňujú na úradníkov Komisie (Ú. v. ES L 56, 4. 3. 1968) v platnom znení, čl. 36 ods. 36.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012), čl. 1 rozhodnutia Európskej centrálnej banky ECB/1998/4 (1999/330/ES) z 9. júna 1998 o prijatí podmienok zamestnávania zamestnancov Európskej centrálnej banky (Ú. v. ES L 125, 19. 5. 1999) v platnom znení.
 
+- 56aa) § 45 ods. 6 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
+
+- 56ab) Čl. 219 ods. 1 až 3 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012) v platnom znení.
+
+- Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 326, 26. 10. 2012).
+
 - 56b) Nariadenie vlády Slovenskej republiky č. 200/2012 Z. z., ktorým sa ustanovuje spôsob určenia poistno-matematického ekvivalentu nároku na starobný dôchodok vo vzťahu k dôchodkovému systému Európskej únie alebo jej inštitúcie.
 
 - 58) § 24 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
@@ -236,9 +242,13 @@
 
 - 93ac) § 29b ods. 13 zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 93ad) § 29b ods. 19 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
+
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
+
+- 95aa) Zákon č. 112/2015 Z. z. o príspevku športovému reprezentantovi a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 95b) § 30 a 46i zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
@@ -327,3 +337,5 @@
 - 122) § 123ae zákona č. 43/2004 Z. z. v znení zákona č. 252/2012 Z. z.
 
 - 123) § 123aq zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
+
+- 124) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
