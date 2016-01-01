@@ -46,6 +46,8 @@
 
 - 12c) § 68 až 75 Obchodného zákonníka.
 
+- 12ca) Zákon č. 246/2015 Z. z. o správcoch bytových domov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+
 - 12d) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 12e) § 46 Občianskeho súdneho poriadku v znení neskorších predpisov.

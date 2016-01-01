@@ -1,6 +1,6 @@
 # § 8b
 
-(1) Správca je povinný vykonávať správu domu samostatne v mene vlastníkov bytov a nebytových priestorov v dome a na ich účet a je oprávnený konať pri správe domu za vlastníkov bytov a nebytových priestorov v dome pred súdom.
+(1) Správca je povinný vykonávať správu domu samostatne v mene vlastníkov bytov a nebytových priestorov v dome a na ich účet a je oprávnený konať pri správe domu za vlastníkov bytov a nebytových priestorov v dome pred súdom. Správca zastupuje v konaní na súde vlastníkov bytov a nebytových priestorov v dome, proti ktorým smeruje návrh na začatie konania podaný prehlasovaným vlastníkom bytu a nebytového priestoru v dome, návrh na začatie konania o určenie platnosti zmluvy o výkone správy podaný iným vlastníkom bytu a nebytového priestoru v dome alebo návrh na začatie konania o zdržanie sa výkonu záložného práva alebo zákaz výkonu záložného práva podaný iným vlastníkom bytu a nebytového priestoru v dome; toto zastupovanie trvá, kým sa v konaní pred súdom nepreukáže rozpor záujmov správcu so záujmom zastupovaných vlastníkov bytov a nebytových priestorov v dome.
 
 (2) Pri správe domu je správca povinný
 
