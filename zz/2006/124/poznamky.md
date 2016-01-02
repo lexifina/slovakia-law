@@ -1,6 +1,10 @@
 - 1) § 2 ods. 2 Obchodného zákonníka.
 
-- 2) § 2 písm. c) a e) a § 15 zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
+- 1a) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
+- 1b) § 13 ods. 5 písm. a) a § 14d zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2015 Z. z.
+
+- 2) § 2 ods. 1 písm. c) a e) a § 15 zákona č. 570/2005 Z. z. v znení neskorších predpisov.
 
 - 3) § 12 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 
