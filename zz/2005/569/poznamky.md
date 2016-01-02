@@ -2,6 +2,10 @@
 
 - 2) § 2 písm. c) zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 58 ods. 1 zákona č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
+
+- Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení neskorších predpisov.
+
 - 3) § 2 písm. a) zákona č. 570/2005 Z. z.
 
 - 4) § 2 písm. d) zákona č. 570/2005 Z. z.
