@@ -8,12 +8,12 @@
 
 - a) osobný spis vojaka mimoriadnej služby uvedeného v § 2 písm. e) prvom bode,
 
-- b) osobnú kartu vojaka mimoriadnej služby uvedeného v § 2 písm. e) druhom až štvrtom bode.
+- b) osobnú kartu vojaka mimoriadnej služby uvedeného v § 2 písm. e) druhom až piatom bode.
 
 (4) Po prepustení z výkonu mimoriadnej služby vojenský útvar
 
 - a) osobný spis vojaka mimoriadnej služby podľa odseku 3 písm. a) uloží vo svojej evidencii,
 
-- b) osobnú kartu vojaka mimoriadnej služby podľa odseku 3 písm. b) zašle do 30 dní od prepustenia z výkonu mimoriadnej služby obvodnému úradu v sídle kraja.
+- b) osobnú kartu vojaka mimoriadnej služby podľa odseku 3 písm. b) zašle do 30 dní od prepustenia z výkonu mimoriadnej služby okresnému úradu v sídle kraja.
 
-(5) Uchovávanie údajov podľa odseku 2 o vojakoch mimoriadnej služby uvedených v § 2 písm. e) druhom až štvrtom bode v období krízovej situácie zabezpečuje obvodný úrad v sídle kraja.
+(5) Uchovávanie údajov podľa odseku 2 o vojakoch mimoriadnej služby uvedených v § 2 písm. e) druhom až piatom bode v období krízovej situácie zabezpečuje okresný úrad v sídle kraja.

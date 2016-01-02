@@ -4,11 +4,15 @@
 
 - 3) Zákon č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
+- 3a) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
 - 4) Čl. 2 ústavného zákona č. 227/2002 Z. z.
 
 - 5) Čl. 3 ústavného zákona č. 227/2002 Z. z.
 
 - 6) § 1 ods. 2 zákona č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
+- 6a) § 8 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
 
 - 7) § 42 ods. 3 písm. c) až s) zákona č. 281/2015 Z. z.
 
@@ -17,6 +21,8 @@
 - 8a) § 83 ods. 1 písm. b) zákona č. 281/2015 Z. z.
 
 - 8b) § 83 ods. 2 písm. b) až f) zákona č. 281/2015 Z. z.
+
+- 8c) Napríklad § 192 ods. 1 písm. b) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, § 63 ods. 1 písm. e) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, § 183 ods. 1 písm. b) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
@@ -48,11 +54,21 @@
 
 - 22) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
+- 22a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
+
 - 24) § 157 zákona č. 281/2015 Z. z.
 
 - 25) § 139 zákona č. 311/2001 Z. z. Zákonníka práce v znení zákona č. 210/2003 Z. z.
 
-- 26) Napríklad čl. 11 ods. 3 písm. b) ústavného zákona č. 227/2002 Z. z., zákon č. 281/2015 Z. z.
+- 26) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 26a) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 26b) § 132 zákona č. 281/2015 Z. z.
+
+- 26c) § 178 až 180, § 181 ods. 1 a 2, § 182 až 184, § 185 ods. 1 a 2, § 186 až 189, § 191 ods. 2 a § 192 až 198 Zákonníka práce.
+
+- § 209 až 216 zákona č. 281/2015 Z. z.
 
 - 27) § 10 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky.
 

@@ -16,9 +16,9 @@
 
 (8) Vojak mimoriadnej služby môže na prevzatie platu písomne splnomocniť inú osobu.
 
-(9) Vojakovi mimoriadnej služby, ktorý je v zajatí alebo ktorý je vyhlásený za nezvestného, sa plat patriaci počas zajatia alebo počas vyhlásenia za nezvestného poukazuje na účet obvodného úradu v sídle kraja.
+(9) Vojakovi mimoriadnej služby, ktorý je v zajatí alebo ktorý je vyhlásený za nezvestného, sa plat patriaci počas zajatia alebo počas vyhlásenia za nezvestného poukazuje na účet okresného úradu v sídle kraja.
 
-(10) Ak pominú dôvody podľa odseku 9, obvodný úrad v sídle kraja vyplatí vojakovi mimoriadnej služby časť platu, na ktorú mu vznikol nárok počas zajatia alebo počas vyhlásenia za nezvestného.
+(10) Ak pominú dôvody podľa odseku 9, okresný úrad v sídle kraja vyplatí vojakovi mimoriadnej služby časť platu, na ktorú mu vznikol nárok počas zajatia alebo počas vyhlásenia za nezvestného.
 
 (11) Peňažné nároky vojaka mimoriadnej služby jeho smrťou nezanikajú. Do štvornásobku jeho platu prechádzajú nároky vyplývajúce z výkonu mimoriadnej služby postupne priamo na jeho manžela, manželku, deti a rodičov. Predmetom dedičstva sa stávajú, ak týchto osôb niet.
 
