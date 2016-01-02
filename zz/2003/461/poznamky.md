@@ -10,7 +10,7 @@
 
 - 1b) Zákon č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 253/2007 Z. z.
 
-- 1c) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
+- 1c) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -74,6 +74,8 @@
 
 - 35b) § 2 zákona č. 256/1998 Z. z. o ochrane svedka a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 35c) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
 - 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
 
 - 38) Zákonník práce.
@@ -99,6 +101,8 @@
 - 39d) Zákon č. 221/2006 Z. z. o výkone väzby v znení neskorších predpisov.
 
 - Zákon č. 475/2005 Z. z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 40) § 11 ods. 2 písm. a) a b) a ods. 3 a 4 zákona č. 378/2015 Z. z.
 
 - 41) Zákon č. 314/2001 Z. z. o ochrane pred požiarmi v znení zákona č. 438/2002 Z. z.
 
