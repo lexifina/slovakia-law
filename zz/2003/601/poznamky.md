@@ -35,3 +35,7 @@
 - 14) § 70 zákona č. 305/2005 Z. z.
 
 - 15) Zákon č. 592/2006 Z. z. o poskytovaní vianočného príspevku niektorým poberateľom dôchodku a o doplnení niektorých zákonov.
+
+- 16) § 32 až 38 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
+- 17) § 14c ods. 1 písm. a), c) a d), § 14h a 19b zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
