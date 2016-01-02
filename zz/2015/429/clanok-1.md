@@ -4,6 +4,22 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 1. V § 6 ods. 8 štvrtej vete sa za slová „poistenie až do“ vkladajú slová „doby vzniku zdravotného poistenia v zdravotnej poisťovni na základe“.
 
+- 2. V § 10b ods. 1 písmeno e) znie:
+
+- „e)
+
+- podiel na zisku, vyrovnací podiel a podiel na výsledku podnikania, ktoré nie sú predmetom dane z príjmov podľa osobitného predpisu<sup>24</sup>) okrem podielu na zisku akciovej spoločnosti alebo obdobnej obchodnej spoločnosti so sídlom v zahraničí, ktorej akcie sú prijaté na obchodovanie na regulovanom trhu<sup>23a</sup>) alebo na obdobnom zahraničnom regulovanom trhu a okrem podielu na likvidačnom zostatku obchodnej spoločnosti alebo družstva a podiel na zisku, ktorý je oslobodený od dane z príjmov podľa osobitného predpisu<sup>24a</sup>) (ďalej len „dividendy“).“.
+
+  - Poznámky pod čiarou k odkazom 24 a 24a znejú:
+
+  - „24)
+
+  - § 3 ods. 2 písm. c) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+  - 24a)
+
+  - § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.“.
+
 - 3. V § 11 ods. 2 písmeno c) znie:
 
 - „c)
