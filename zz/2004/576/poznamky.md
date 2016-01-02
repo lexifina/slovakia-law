@@ -90,6 +90,10 @@
 
 - 26a) § 12 ods. 7 a 8 zákona č. 570/2005 Z. z.
 
+- 26b) § 14 ods. 4 zákona č. 570/2005 Z. z. v znení zákona č. 378/2015 Z. z.
+
+- 26c) § 8 ods. 5 písm. a) zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
 - 27) Zákon č. 453/2003 Z. z. o orgánoch štátnej správy v oblasti sociálnych vecí, rodiny a služieb zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 5/2004 Z. z.
 
 - Zákon č. 94/1963 Zb. v znení neskorších predpisov.
