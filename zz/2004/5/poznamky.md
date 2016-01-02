@@ -28,6 +28,10 @@
 
 - 13b) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
+- 13ba) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
+- 13bb) § 14 a 14d zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 13c) § 16 ods. 4 písm. b) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 13d) § 2 písm. b) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení zákona č. 692/2006 Z. z.
