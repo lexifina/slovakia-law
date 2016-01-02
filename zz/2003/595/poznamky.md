@@ -156,7 +156,11 @@
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 191/2004 Z. z.
 
-- 47) Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 47) § 19b zákona č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov v znení zákona č. 518/2007 Z. z.
+
+- 47a) § 14c ods. 1 písm. a), c) a d) zákona č. 570/2005 Z. z. v znení zákona č. 378/2015 Z. z.
+
+- 47b) § 14h zákona č. 570/2005 Z. z. v znení zákona č. 378/2015 Z. z.
 
 - 49) Napríklad zákon č. 328/2002 Z. z. v znení neskorších predpisov.
 
@@ -215,6 +219,12 @@
 - 59j) Oznámenie Federálneho ministerstva palív a energetiky č. 59/1990 Zb. o vydaní výnosu o deputátnom uhlí a dreve.
 
 - 59ja) § 9 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
+
+- 59jb) § 32 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
+
+- 59jc) § 33 zákona č. 378/2015 Z. z.
+
+- 59jd) § 34 až 38 zákona č. 378/2015 Z. z.
 
 - 59k) § 4 ods. 9 a § 5 ods. 6 zákona č. 406/2011 Z. z.
 
