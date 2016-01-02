@@ -34,7 +34,7 @@
 
 - c) podľa § 11 ods. 7 písm. q) v rozsahu meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, dátum udelenia, zániku a odňatia azylu,
 
-(9) Ministerstvo obrany Slovenskej republiky poskytuje úradu elektronicky údaje na účely vykonania ročného zúčtovania poistného o fyzickej osobe podľa § 11 ods. 7 písm. b), s) v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, údaj o dátume začiatku a ukončenia nároku na dávku alebo príslušný druh dôchodku, IČO platiteľa poistného, druh dôchodku.
+(9) Ministerstvo obrany Slovenskej republiky poskytuje úradu elektronicky údaje na účely vykonania ročného zúčtovania poistného o fyzickej osobe podľa § 11 ods. 7 písm. b), s) a w) v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, údaj o dátume začiatku a ukončenia nároku na dávku alebo príslušný druh dôchodku, IČO platiteľa poistného, druh dôchodku.
 
 (10) Ministerstvo školstva Slovenskej republiky poskytuje úradu elektronicky údaje na účely vykonania ročného zúčtovania poistného o fyzickej osobe podľa § 11 ods. 7 písm. a), h), t) v rozsahu rodné číslo, meno a priezvisko, rodné priezvisko, dátum narodenia, pohlavie, štátna príslušnosť, adresa trvalého pobytu, adresa prechodného pobytu, kategória zahraničného študenta, forma štúdia, stupeň štúdia, štandardná dĺžka štúdia, dátum začiatku štúdia, dátum ukončenia štúdia, dátum začiatku prerušenia štúdia, dátum ukončenia prerušenia štúdia, dôvod prerušenia štúdia, ukončené predchádzajúce vysokoškolské štúdium.
 

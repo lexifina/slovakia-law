@@ -118,7 +118,9 @@
 
 - 23a) § 3 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
-- 24) § 3 ods. 2 písm. c) a § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 24) § 3 ods. 2 písm. c) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
+- 24a) § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -177,6 +179,8 @@
 - 47aa) § 8 ods. 1 písm. c) zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 47aaa) § 2 ods. 1 zákona č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov.
+
+- 47ab) § 2 ods. 2 zákona č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
 - 47b) § 56 a nasl. Obchodného zákonníka.
 
