@@ -1,0 +1,3 @@
+Príloha č. 4 k vyhláške č. 544/2005 Z. z.
+
+- ŽIADOSŤ O POSKYTNUTIE PRÁVNEJ POMOCI SÚVISIACEJ S OZNAMOVANÍM PROTISPOLOČENSKEJ ČINNOSTI [príloha](../assets/bdfdc65e00b957b8838e3ce4c4e3fb38077b15acbc06c4e928d75f606f6ef3bf.pdf)
