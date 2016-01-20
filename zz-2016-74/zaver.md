@@ -1,0 +1,1 @@
+Rastislav Chovanec v. r.
