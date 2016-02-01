@@ -182,4 +182,6 @@
 
 - 60) § 246 ods. 2 Občianskeho súdneho poriadku.
 
+- 60a) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
+
 - 61) § 52 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
