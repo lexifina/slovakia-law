@@ -62,6 +62,8 @@
 
 - 11a) § 6 ods. 2 a 3 zákona č. 377/2004 Z. z. v znení zákona č. 87/2009 Z. z.
 
+- 11b) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
+
 - 12) Čl. 21 Ústavy Slovenskej republiky.
 
 - 13) Zákon č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
