@@ -19,3 +19,5 @@ Príloha č. 2 k zákonu č. 250/2007 Z. z.
   - 8. Smernica Európskeho parlamentu a Rady 2009/22/ES z 23. apríla 2009 o súdnych príkazoch na ochranu spotrebiteľských záujmov (kodifikované znenie) (Ú. v. EÚ L 110, 1. 5. 2009).
 
   - 9. Smernica Európskeho parlamentu a Rady 2011/83/EÚ z 25. októbra 2011 o právach spotrebiteľov, ktorou sa mení a dopĺňa smernica Rady 93/13/EHS a smernica Európskeho parlamentu a Rady 1999/44/ES a ktorou sa zrušuje smernica Rady 85/577/EHS a smernica Európskeho parlamentu a Rady 97/7/ES (Ú. v. EÚ L 304, 22. 11. 2011).
+
+  - 10. Smernica Európskeho parlamentu a Rady 2013/11/EÚ z 21. mája 2013 o alternatívnom riešení spotrebiteľských sporov, ktorou sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES (smernica o alternatívnom riešení spotrebiteľských sporov) (Ú. v. EÚ L 165, 18. 6. 2013).

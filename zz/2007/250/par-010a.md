@@ -24,6 +24,8 @@
 
 - j) informáciu o kompatibilite elektronického obsahu s hardvérom a softvérom, ktoré sú predávajúcemu známe alebo je rozumné očakávať, že sú mu známe, ak je to vhodné,
 
+- k) informáciu o možnosti obrátiť sa na subjekt alternatívneho riešenia sporov v prípadoch ustanovených osobitným predpisom.<sup>9</sup>)
+
 (2) Povinnosti podľa odseku 1 sa vzťahujú aj na zmluvu o poskytovaní elektronického obsahu nedodávaného na hmotnom nosiči.
 
 (3) Ustanovenia odseku 1 sa nepoužijú, ak pre predávajúceho vyplýva z osobitného predpisu<sup>15c</sup>) povinnosť poskytnúť informácie spotrebiteľovi pred uzavretím zmluvy.

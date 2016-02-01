@@ -22,7 +22,7 @@
 
 - 8) Napríklad § 21 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 30 písm. c) zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, § 3 zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 451/2004 Z. z., § 88 ods. 1 zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov, § 1 ods. 2 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, § 4 ods. 1 písm. b) a c) zákona č. 39/2007 Z. z. o veterinárnej starostlivosti v znení zákona č. 342/2011 Z. z., § 3 ods. 1 písm. b) a c) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov, § 6 ods. 1 písm. b) zákona č. 351/2011 Z. z. o elektronických komunikáciách, § 127 písm. a) a c) zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
-- 9a) Napríklad zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva hospodárstva Slovenskej republiky č. 97/2008 Z. z. o podrobnostiach duálneho zobrazovania pre oblasť ochrany spotrebiteľov.
+- 9) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
 
 - 10) Napríklad zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov, zákon č. 276/2001 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
