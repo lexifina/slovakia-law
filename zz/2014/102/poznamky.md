@@ -40,6 +40,10 @@
 
 - 21) § 2 písm. s) zákona č. 250/2007 Z. z. v znení neskorších predpisov.
 
+- 21a) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
+
+- 21b) Čl. 14 ods. 1 a 2 nariadenia Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21. mája 2013 o riešení spotrebiteľských sporov online, ktorým sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES (nariadenie o riešení spotrebiteľských sporov online) (Ú. v. EÚ L 165, 18. 6. 2013).
+
 - 22) Zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z.
 
 - 23) § 40 ods. 4 Občianskeho zákonníka.
