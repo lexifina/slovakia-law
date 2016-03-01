@@ -4,6 +4,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 1. V § 5 ods. 1 sa vypúšťajú slová „v kusoch alebo“.
 
+- 2. V § 5 ods. 2 sa slová „20 g“ nahrádzajú slovami „30 g“.
+
 - 3. V § 5 ods. 2 sa na konci pripája táto veta: „Na sprievodnom dokumente alebo inom obchodnom dokumente musí byť uvedený údaj o hmotnosti v kilogramoch alebo gramoch prijímaných, skladovaných, odosielaných alebo ponúkaných na predaj cigár a cigariek; to neplatí, ak je údaj o hmotnosti cigár a cigariek uvedený na spotrebiteľskom balení cigár a cigariek.“.
 
 - 4. V § 5 odsek 6 znie:
