@@ -6,14 +6,10 @@ Príloha č. 1 k vyhláške č. 490/2004 Z. z.
 
   - 2. Ekonómia a manažment
 
-  - 3. Elektronické komunikácie
+  - 3. Elektrotechnika
 
-  - 4. Elektrotechnika
+  - 4. Stavebníctvo
 
-  - 5. Lesníctvo
+  - 5. Strojárstvo
 
-  - 6. Poľnohospodárstvo
-
-  - 7. Stavebníctvo
-
-  - 8. Strojárstvo
+  - 6. Kriminalistika.

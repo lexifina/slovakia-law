@@ -4,4 +4,10 @@
 
 - 3) Zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z.
 
-- 4) Zákon č. 669/2007 Z. z. o jednorazových mimoriadnych opatreniach v príprave niektorých stavieb diaľnic a ciest pre motorové vozidlá a o doplnení zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností (katastrálny zákon) v znení neskorších predpisov v znení neskorších predpisov.
+- 4) STN EN ISO 9001 Systémy manažérstva kvality. Požiadavky. (EN ISO 9001).
+
+- STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (EN ISO/IEC 17025).
+
+- STN EN ISO 15189 Medicínske laboratóriá. Požiadavky na kvalitu a kompetentnosť (EN ISO 15189).
+
+- 5) § 17 ods. 6 zákona č. 382/2004 Z. z.

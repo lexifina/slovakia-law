@@ -115,7 +115,3 @@ Príloha č. 5 k vyhláške č. 490/2004 Z. z.
   - V. Znalecká doložka
 
     - Obsah znaleckej doložky je uvedený v prílohe č. 4.
-
-    - Názov titulnej strany doplnenia znie: DOPLNENIE č. .................... znaleckého posudku č. .../................ Jednotlivé doplnenia sa číslujú samostatne vo vzťahu k dopĺňanému posudku. K doplneniu sa pripája znalecká doložka s uvedením poradového čísla úkonu, pod ktorým je úkon zapísaný v denníku.
-
-    - Názov titulnej strany kópie posudku znie: KÓPIA č. ....................... znaleckého posudku č. .../.................. Jednotlivé kópie sa číslujú samostatne vo vzťahu ku kopírovanému posudku. Ku kópii posudku sa pripája znalecká doložka s uvedením poradového čísla úkonu, pod ktorým je úkon zapísaný v denníku.
