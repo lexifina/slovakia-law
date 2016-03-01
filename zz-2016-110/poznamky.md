@@ -1,0 +1,1 @@
+- 1) § 109 ods. 1 až 4 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení zákona č. 528/2003 Z. z.
