@@ -228,6 +228,8 @@
 
 - 36j) § 23 ods. 7 zákona č. 218/2013 o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
 
+- 36ja) § 108e ods. 6 zákona č. 725/2004 Z. z. v znení zákona č. 412/2015 Z. z.
+
 - 36k) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 37) Zákon Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení neskorších predpisov.
