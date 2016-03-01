@@ -70,6 +70,8 @@
 
 - 13b) Napríklad nariadenie vlády Slovenskej republiky č. 144/2006 Z. z. o technických požiadavkách na montáž zariadení na osvetlenie a svetelnú signalizáciu motorových vozidiel a ich prípojných vozidiel v znení nariadenia vlády Slovenskej republiky č. 237/2008 Z. z., nariadenie vlády Slovenskej republiky č. 199/2006 Z. z. o technických požiadavkách na montáž zariadení na osvetlenie a svetelnú signalizáciu poľnohospodárskych kolesových traktorov a lesných kolesových traktorov v znení nariadenia vlády Slovenskej republiky č. 652/2006 Z. z. a nariadenie vlády Slovenskej republiky č. 373/2006 Z. z. o technických požiadavkách na montáž zariadení na osvetlenie a svetelnú signalizáciu na dvojkolesových motorových vozidlách, trojkolesových motorových vozidlách a na ľahkých štvorkolkách.
 
+- 13ba) § 40 ods. 2 a 3 zákona č. 8/2009 Z. z v znení neskorších predpisov.
+
 - 13c) § 52 ods. 1 písm. k) zákona č. 223/2001 Z. z. v znení neskorších predpisov.
 
 - 14) STN EN ISO/IEC 17025 (01 5253) Všeobecné požiadavky na spôsobilosť skúšobných a kalibračných laboratórií (EN ISO/IEC 17025:1999).
@@ -157,6 +159,8 @@
 - 41a) Nariadenie vlády Slovenskej republiky č. 384/2004 Z. z.
 
 - Čl. 5 a 6 nariadenia (ES) č. 1222/2009 v platnom znení.
+
+- 41b) § 58 ods. 1 písm. e) zákona č. 455/1991 Zb. v znení zákona č. 412/2015 Z. z.
 
 - 42) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
