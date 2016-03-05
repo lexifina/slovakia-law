@@ -4,9 +4,13 @@
 
 - 1aa) § 6 ods. 3 písm. b) zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 1ab) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
 - 1b) § 51 a 853 Občianskeho zákonníka.
 
 - § 269 ods. 2 Obchodného zákonníka.
+
+- 1ba) § 16 ods. 4 písm. c) a d) zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1c) § 21 zákona č. 514/2009 Z. z. o doprave na dráhach.
 
