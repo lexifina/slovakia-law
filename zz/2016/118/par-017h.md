@@ -1,0 +1,5 @@
+# § 17h
+
+(1) Národná banka Slovenska uverejňuje nominálne hodnoty, vzhľad, technické parametre, základné ochranné prvky a ďalšie náležitosti eurobankoviek a euromincí vydaných a určených do peňažného obehu v eurozóne a v zúčastnených tretích štátoch vrátane vzhľadu všetkých národných strán euromincí a pamätných euromincí, ako aj nominálne hodnoty, vzhľad, technické parametre a ďalšie náležitosti zberateľských euromincí vydaných Národnou bankou Slovenska, a to v rozsahu potrebnom na informovanie verejnosti v Slovenskej republike o eurobankovkách a eurominciach a na vytvorenie predpokladov na rozlišovanie pravých eurobankoviek a pravých euromincí od iných podobných predmetov, najmä od falšovaných bankoviek a mincí a od reprodukcií bankoviek a mincí. Takéto oznámenia Národnej banky Slovenska pre verejnosť o eurobankovkách a eurominciach sa uverejňujú v zbierke zákonov podľa osobitného predpisu,<sup>3o</sup>) vo Vestníku Národnej banky Slovenska (§ 44) a na webovom sídle Národnej banky Slovenska.<sup>3p</sup>)
+
+(2) Národná banka Slovenska ustanovuje všeobecne záväzným právnym predpisom hodnoty, technické parametre, vzhľad a ďalšie náležitosti obchodných mincí.
