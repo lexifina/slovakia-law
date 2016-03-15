@@ -226,7 +226,299 @@ Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektor
 
 - Platobné účty v balíku služieb s ďalším produktom alebo službou
 
-- Ak poskytovateľ platobných služieb poskytuje platobný účet ako súčasť balíka služieb spolu s iným produktom alebo platobnou službou, ktoré nie sú viazané na platobný účet, poskytovateľ platobných služieb je povinný informovať spotrebiteľa pred uzatvorením rámcovej zmluvy o možnosti uzatvoriť rámcovú zmluvu súvisiacu s platobnou službou aj samostatne a poskytnúť spotrebiteľovi informácie o poplatkoch spojených s každým produktom a každou službou ponúkanou v balíku služieb, ktorú možno kúpiť samostatne.“.
+- Ak poskytovateľ platobných služieb poskytuje platobný účet ako súčasť balíka služieb spolu s iným produktom alebo platobnou službou, ktoré nie sú viazané na platobný účet, poskytovateľ platobných služieb je povinný informovať spotrebiteľa pred uzatvorením rámcovej zmluvy o možnosti uzatvoriť rámcovú zmluvu súvisiacu s platobnou službou aj samostatne a poskytnúť spotrebiteľovi informácie o poplatkoch spojených s každým produktom a každou službou ponúkanou v balíku služieb, ktorú možno kúpiť samostatne.
+
+- § 44d
+
+- Presun platobného účtu
+
+- (1)
+
+- Presunom platobného účtu sa na účely tohto zákona rozumie presun informácií týkajúcich sa všetkých úhrad alebo niektorých úhrad, všetkých inkás alebo niektorých inkás vykonávaných na platobnom účte na základe žiadosti spotrebiteľa o presun platobného účtu od odovzdávajúceho poskytovateľa platobných služieb k prijímajúcemu poskytovateľovi platobných služieb. Presunom platobného účtu môže byť aj prevod finančných prostriedkov z platobného účtu spotrebiteľa vedeného u odovzdávajúceho poskytovateľa platobných služieb na platobný účet vedený u prijímajúceho poskytovateľa platobných služieb, a to so zrušením platobného účtu alebo bez zrušenia platobného účtu spotrebiteľa u odovzdávajúceho poskytovateľa platobných služieb, ak odsek 12 neustanovuje inak.
+
+- (2)
+
+- Odovzdávajúcim poskytovateľom platobných služieb sa na účely tohto zákona rozumie poskytovateľ platobných služieb s miestom podnikania na území Slovenskej republiky, ktorý odovzdáva prijímajúcemu poskytovateľovi platobných služieb informácie potrebné na presun platobného účtu.
+
+- (3)
+
+- Prijímajúcim poskytovateľom platobných služieb sa na účely tohto zákona rozumie poskytovateľ platobných služieb s miestom podnikania na území Slovenskej republiky, ktorý prijíma od odovzdávajúceho poskytovateľa platobných služieb informácie potrebné na presun platobného účtu.
+
+- (4)
+
+- Poskytovateľ platobných služieb je povinný poskytovať presun platobného účtu za podmienok ustanovených týmto zákonom, ak platobné služby súvisiace s presunom platobného účtu poskytuje v rámci svojej podnikateľskej činnosti.
+
+- (5)
+
+- Pri presune platobného účtu sa za spotrebiteľa vždy považuje aj osoba, ktorá v čase uzatvorenia rámcovej zmluvy o poskytovaní platobných služieb zamestnáva menej ako desať osôb a ktorej ročný obrat alebo celková ročná bilančná hodnota nepresahuje 2 000 000 eur.
+
+- (6)
+
+- Presun platobného účtu je povinný vykonať prijímajúci poskytovateľ platobných služieb na základe písomnej žiadosti spotrebiteľa o presun platobného účtu, ktorý má vedený u odovzdávajúceho poskytovateľa platobných služieb. Presun platobného účtu sa vykoná, len ak ide o platobné účty vedené v rovnakej mene. Presun platobného účtu je bezodplatný, ak odsek 13 neustanovuje inak.
+
+- (7)
+
+- Žiadosť o presun platobného účtu doručí spotrebiteľ v listinnej podobe osobne alebo poštou v dvoch vyhotoveniach prijímajúcemu poskytovateľovi platobných služieb. Žiadosť o presun platobného účtu doručovaná poštou musí obsahovať úradné osvedčenie pravosti podpisu. Žiadosť o presun platobného účtu môže podať spotrebiteľ v elektronickej podobe, ak je podpísaná zaručeným elektronickým podpisom,<sup>27</sup>) a ak to umožňujú technické možnosti prijímajúceho poskytovateľa platobných služieb. Ak je viacero majiteľov platobného účtu, žiadosť o presun platobného účtu musí obsahovať písomný súhlas všetkých majiteľov platobného účtu. Žiadosť o presun platobného účtu musí byť vyhotovená v štátnom jazyku alebo v inom jazyku, na ktorom sa dohodnú prijímajúci poskytovateľ platobných služieb a spotrebiteľ. Vzor tlačív používaných na podávanie a vykonávanie žiadosti o presun platobného účtu a podrobnosti o postupe pri presune platobného účtu a s tým súvisiace poskytovanie informácií ustanoví všeobecne záväzný právny predpis, ktorý vydá Ministerstvo financií Slovenskej republiky.
+
+- (8)
+
+- Súčasťou žiadosti o presun platobného účtu môže byť súhlas spotrebiteľa
+
+- a)
+
+- pre prijímajúceho poskytovateľa platobných služieb na vykonanie jednotlivých úkonov podľa odsekov 19 a 21,
+
+- b)
+
+- pre odovzdávajúceho poskytovateľa platobných služieb na vykonanie jednotlivých úkonov podľa odseku 20,
+
+- c)
+
+- na informovanie pre platiteľov inkasa alebo príjemcov inkasa, najmä zmeny údajov platobného účtu spotrebiteľa, ak také informovanie žiada spotrebiteľ v žiadosti o presun platobného účtu,
+
+- d)
+
+- na prevod finančných prostriedkov alebo zostatku finančných prostriedkov.
+
+- (9)
+
+- V žiadosti o presun platobného účtu spotrebiteľ určí dátum, od ktorého sa majú trvalé príkazy na úhradu alebo inkasá vykonávať u prijímajúceho poskytovateľa platobných služieb, najskôr 20 pracovných dní odo dňa prijatia riadnej a úplnej žiadosti o presun platobného účtu prijímajúcim poskytovateľom platobných služieb, ak sa prijímajúci poskytovateľ platobných služieb a spotrebiteľ nedohodnú inak. Ak spotrebiteľ požiada prijímajúceho poskytovateľa platobných služieb o informovanie platiteľov uskutočňujúcich úhrady na platobný účet spotrebiteľa, spotrebiteľ v žiadosti o presun platobného účtu určí dátum, od ktorého môžu platitelia uskutočňovať úhrady na platobný účet spotrebiteľa, najskôr 20 pracovných dní odo dňa prijatia riadnej a úplnej žiadosti o presun účtu prijímajúcim poskytovateľom platobných služieb, ak sa prijímajúci poskytovateľ platobných služieb a spotrebiteľ nedohodnú inak. Dátum zrušenia trvalých príkazov na úhradu a inkás a ukončenie prijímania prichádzajúcich úhrad a inkás u odovzdávajúceho poskytovateľa platobných služieb predchádza dňu, keď sa u prijímajúceho poskytovateľa platobných služieb začnú vykonávať trvalé príkazy na úhradu a inkasá a od ktorého môžu platitelia uskutočňovať úhrady na platobný účet spotrebiteľa alebo od ktorého môžu príjemcovia predkladať platobné príkazy na inkaso z platobného účtu spotrebiteľa.
+
+- (10)
+
+- Ak žiadosť o presun platobného účtu nie je úplná alebo riadne vyplnená, vyzve prijímajúci poskytovateľ platobných služieb spotrebiteľa na jej doplnenie do desiatich pracovných dní od doručenia výzvy spotrebiteľovi. Ak spotrebiteľ nedoplní žiadosť o presun platobného účtu v lehote podľa prvej vety, prijímajúci poskytovateľ platobných služieb žiadosť o presun platobného účtu zamietne a bezodkladne informuje spotrebiteľa o dôvodoch zamietnutia presunu platobného účtu. Počas lehoty na doplnenie žiadosti o presun platobného účtu lehoty súvisiace s presunom platobného účtu a výpovedná lehota neplynú. Ak je výzva na doplnenie žiadosti podľa prvej vety odoslaná, po zaslaní žiadosti podľa odseku 19 odovzdávajúcemu poskytovateľovi platobných služieb prijímajúci poskytovateľ platobných služieb oznámi odovzdávajúcemu poskytovateľovi platobných služieb informáciu o výzve na doplnenie podľa prvej vety. Výpovedná lehota opätovne začne plynúť dňom doručenia doplnenia žiadosti spotrebiteľom prijímajúcemu poskytovateľovi platobných služieb, o čom upovedomí prijímajúci poskytovateľ platobných služieb odovzdávajúceho poskytovateľa platobných služieb. Ak v dôsledku doplnenia žiadosti nie je možné dodržať dátumy určené podľa odseku 9, prijímajúci poskytovateľ informuje spotrebiteľa o najbližšom dátume, ku ktorému možno vykonať presun platobného účtu.
+
+- (11)
+
+- Spotrebiteľ môže požiadať o presun toho istého platobného účtu len u jedného prijímajúceho poskytovateľa platobných služieb. Ak spotrebiteľ požiada o presun toho istého platobného účtu u viacerých prijímajúcich poskytovateľov platobných služieb, odovzdávajúci poskytovateľ platobných služieb príjme žiadosť o presun platobného účtu, ktorá prišla v poradí ako prvá. O odmietnutí presunu platobného účtu a dôvodoch odmietnutia presunu platobného účtu informuje každého prijímajúceho poskytovateľa platobných služieb, od ktorého prišla žiadosť o presun platobného účtu po prijatí prvej žiadosti o presun platobného účtu, a spotrebiteľa.
+
+- (12)
+
+- Presun základného bankového produktu<sup>24b</sup>) alebo platobného účtu so základnými funkciami<sup>24c</sup>) sa uskutoční len so súčasným vypovedaním rámcovej zmluvy spotrebiteľa k základnému bankovému produktu alebo k platobnému účtu so základnými funkciami u odovzdávajúceho poskytovateľa platobných služieb. Presun platobného účtu na platobný účet, ktorý je základným bankovým produktom alebo platobným účtom so základnými funkciami, sa uskutoční len so súčasným vypovedaním rámcovej zmluvy k platobnému účtu spotrebiteľa u odovzdávajúceho poskytovateľa platobných služieb. Ustanovenia prvej a druhej vety sa nevzťahujú na presun platobného účtu spotrebiteľa podľa odseku 5.
+
+- (13)
+
+- Ak spotrebiteľ požiada odovzdávajúceho poskytovateľa platobných služieb o prevod finančných prostriedkov na účet zriadený u prijímajúceho poskytovateľa platobných služieb, odovzdávajúci poskytovateľ platobných služieb prevedie finančné prostriedky, ak tomu nebránia záväzky spotrebiteľa k platobnému účtu, ktorý sa presúva, v deň určený spotrebiteľom v žiadosti o presun platobného účtu, najskôr 20 pracovných dní odo dňa prijatia riadnej a úplnej žiadosti o presun platobného účtu prijímajúcim poskytovateľom platobných služieb, ak sa odovzdávajúci poskytovateľ platobných služieb a spotrebiteľ nedohodnú inak. Ak spotrebiteľ požiada odovzdávajúceho poskytovateľa platobných služieb o prevod zostatku finančných prostriedkov na účet zriadený u prijímajúceho poskytovateľa platobných služieb, odovzdávajúci poskytovateľ platobných služieb prevedie finančné prostriedky, ak tomu nebránia záväzky spotrebiteľa k platobnému účtu, ktorý sa presúva, v deň ukončenia výpovednej lehoty pri vypovedaní rámcovej zmluvy u odovzdávajúceho poskytovateľa platobných služieb. Prevod finančných prostriedkov alebo zostatku finančných prostriedkov sa vykoná v mene euro, ak sa odovzdávajúci poskytovateľ a spotrebiteľ nedohodnú inak. Ak sa prevod finančných prostriedkov alebo zostatku finančných prostriedkov vykoná v inej mene ako mene euro, taký prevod môže byť odplatný.
+
+- (14)
+
+- Ak má spotrebiteľ na platobnom účte záväzky, ktoré bránia prevodu finančných prostriedkov, odovzdávajúci poskytovateľ platobných služieb o týchto záväzkoch bezodkladne informuje spotrebiteľa. Ak spotrebiteľ v lehote určenej odovzdávajúcim poskytovateľom platobných služieb neodstráni túto prekážku, odovzdávajúci poskytovateľ platobných služieb neprevedie finančné prostriedky a informuje spotrebiteľa o dôvodoch odmietnutia prevodu finančných prostriedkov.
+
+- (15)
+
+- Ak má spotrebiteľ na platobnom účte záväzky, ktoré bránia zrušeniu platobného účtu, odovzdávajúci poskytovateľ platobných služieb o týchto záväzkoch bezodkladne informuje spotrebiteľa. Ak spotrebiteľ v lehote určenej odovzdávajúcim poskytovateľom platobných služieb neodstráni túto prekážku, odovzdávajúci poskytovateľ platobných služieb platobný účet nezruší a informuje spotrebiteľa o dôvodoch odmietnutia zrušenia platobného účtu.
+
+- (16)
+
+- Odovzdávajúci poskytovateľ platobných služieb nezruší vydané platobné prostriedky k platobnému účtu počas presunu platobného účtu, ak ide o presun platobného účtu so zrušením platobného účtu; tým nie je dotknuté zablokovanie platobných prostriedkov z dôvodov podľa § 28 ods. 2.
+
+- (17)
+
+- Ak spotrebiteľ požiada prijímajúceho poskytovateľa platobných služieb o informovanie platiteľov uskutočňujúcich úhrady na platobný účet spotrebiteľa o údajoch platobného účtu spotrebiteľa vedeného u prijímajúceho poskytovateľa platobných služieb a o dátume, od ktorého môžu vykonávať príkazy na úhradu na platobný účet spotrebiteľa, spotrebiteľ musí v žiadosti o presun platobného účtu uviesť kontaktné údaje platiteľov.
+
+- (18)
+
+- Ak spotrebiteľ požiada prijímajúceho poskytovateľa platobných služieb o informovanie len niektorých príjemcov inkasa spotrebiteľa o údajoch platobného účtu spotrebiteľa vedeného u prijímajúceho poskytovateľa platobných služieb a o dátume, od ktorého môžu príjemcovia predkladať platobné príkazy na inkaso z platobného účtu spotrebiteľa, spotrebiteľ musí v žiadosti o presun platobného účtu uviesť kontaktné údaje len týchto príjemcov inkasa.
+
+- (19)
+
+- V lehote dvoch pracovných dní odo dňa nasledujúceho po prijatí úplnej a riadnej žiadosti o presun platobného účtu je prijímajúci poskytovateľ platobných služieb povinný zaslať žiadosť o presun platobného účtu odovzdávajúcemu poskytovateľovi platobných služieb a v súlade s touto žiadosťou ho požiadať o
+
+- a)
+
+- predloženie informácií
+
+- 1.
+
+- o úhradách a inkasách vrátane trvalých príkazov,
+
+- 2.
+
+- najmä o type ochrany platobného účtu spotrebiteľa voči inkasu, o referencii mandátu na inkaso a o jedinečnom identifikátore príjemcu inkasa, ak ide o inkaso v eurách,
+
+- 3.
+
+- o úhradách a inkasách vrátane cezhraničných so splatnosťou po dni presunu platobného účtu spotrebiteľa,
+
+- 4.
+
+- o prichádzajúcich úhradách a inkasách, ktoré sa vykonali na platobnom účte spotrebiteľa v posledných 13 mesiacoch; informácie sa predložia aj spotrebiteľovi, ak o to požiada,
+
+- b)
+
+- ukončenie prijímania prichádzajúcich úhrad a inkás ku dňu určenému v žiadosti o presun platobného účtu, ak odovzdávajúci poskytovateľ platobných služieb neposkytuje systém automatického presmerovania prichádzajúcich úhrad a inkás na platobný účet spotrebiteľa vedený u prijímajúceho poskytovateľa platobných služieb,
+
+- c)
+
+- zrušenie trvalých príkazov na úhradu a inkás s účinnosťou odo dňa určeného v žiadosti o presun platobného účtu,
+
+- d)
+
+- prevedenie finančných prostriedkov na platobný účet zriadený u prijímajúceho poskytovateľa platobných služieb v deň určený spotrebiteľom podľa § 44d ods. 13, ak tomu nebránia záväzky spotrebiteľa k platobnému účtu vedeného u odovzdávajúceho poskytovateľa platobných služieb,
+
+- e)
+
+- zrušenie platobného účtu dňom uplynutia výpovednej lehoty.
+
+- (20)
+
+- Odovzdávajúci poskytovateľ platobných služieb je, v súlade so žiadosťou o presun platobného účtu, povinný
+
+- a)
+
+- zaslať do piatich pracovných dní odo dňa nasledujúceho po doručení žiadosti prijímajúcemu poskytovateľovi platobných služieb informácie podľa odseku 19 písm. a),
+
+- b)
+
+- ukončiť prijímanie prichádzajúcich úhrad a inkás na platobnom účte s účinnosťou ku dňu určenému v žiadosti o presun platobného účtu, ak odovzdávajúci poskytovateľ platobných služieb neposkytuje systém na automatické presmerovanie trvalých príkazov na úhradu a inkás na platobný účet, ktorý má spotrebiteľ zriadený u prijímajúceho poskytovateľa platobných služieb,
+
+- c)
+
+- zrušiť trvalé príkazy na úhradu a inkasá s účinnosťou odo dňa určeného v žiadosti o presun platobného účtu,
+
+- d)
+
+- previesť finančné prostriedky na účet zriadený u prijímajúceho poskytovateľa platobných služieb v deň určený spotrebiteľom podľa odseku 13, ak tomu nebránia záväzky spotrebiteľa k platobnému účtu vedeného u odovzdávajúceho poskytovateľa platobných služieb,
+
+- e)
+
+- zrušiť platobný účet dňom uplynutia výpovednej lehoty.
+
+- (21)
+
+- Prijímajúci poskytovateľ platobných služieb je povinný do piatich pracovných dní odo dňa prijatia informácií podľa odseku 20 a v súlade so žiadosťou o presun platobného účtu
+
+- a)
+
+- zriadiť trvalé príkazy na úhradu a inkasá a vykonávať ich odo dňa určeného v žiadosti o presun platobného účtu, ak to umožňujú technické možnosti prijímajúceho poskytovateľa platobných služieb,
+
+- b)
+
+- nastaviť typ ochrany platobného účtu voči inkasu tak, aby bolo možné realizovať inkasá odo dňa určeného v žiadosti o presun platobného účtu,
+
+- c)
+
+- informovať spotrebiteľa o právach spotrebiteľa týkajúcich sa inkasa<sup>24d</sup>) zmluvne dohodnutým spôsobom,
+
+- d)
+
+- informovať so súhlasom spotrebiteľa platiteľov uskutočňujúcich úhrady na platobný účet spotrebiteľa o údajoch platobného účtu spotrebiteľa vedeného u prijímajúceho poskytovateľa platobných služieb a o dátume, od ktorého môžu vykonávať príkazy na úhradu na tento platobný účet spotrebiteľa, a pošle im kópiu žiadosti o presun platobného účtu od spotrebiteľa len v časti, ktorá sa týka dotknutého platiteľa,
+
+- e)
+
+- informovať so súhlasom spotrebiteľa príjemcov používajúcich inkaso na zúčtovanie finančných prostriedkov z tohto platobného účtu spotrebiteľa o údajoch platobného účtu spotrebiteľa vedeného u prijímajúceho poskytovateľa platobných služieb a o dátume, od ktorého môžu príjemcovia predkladať platobné príkazy na inkaso z platobného účtu spotrebiteľa, a pošle im kópiu žiadosti o presun platobného účtu od spotrebiteľa len v časti, ktorá sa týka dotknutého príjemcu inkasa; prijímajúcim poskytovateľom platobných služieb doručenú zmenu mandátu na inkaso je príjemca inkasa povinný akceptovať a udelený súhlas platiteľa s takým odpísaním je príjemca inkasa povinný upraviť podľa obsahu zmeny mandátu na inkaso odo dňa uvedeného spotrebiteľom v žiadosti o presun platobného účtu.
+
+- (22)
+
+- Ak odovzdávajúci poskytovateľ platobných služieb príjme platobný príkaz na inkaso pred dátumom zrušenia trvalých príkazov na úhradu alebo inkás u odovzdávajúceho poskytovateľa platobných služieb, je povinný vykonať taký platobný príkaz na inkaso a následne oznámiť túto skutočnosť prijímajúcemu poskytovateľovi platobných služieb. Ak spotrebiteľ požiadal o postup podľa odseku 20 písm. b), odovzdávajúci poskytovateľ platobných služieb bezodkladne po vykonaní takého príkazu ukončí prijímanie prichádzajúcich úhrad a inkás.
+
+- (23)
+
+- Ak prijímajúci poskytovateľ platobných služieb nemá informácie potrebné na splnenie úkonov podľa odseku 21 písm. d) alebo písm. e) a odovzdávajúci poskytovateľ platobných služieb neposkytol tieto informácie v súlade so žiadosťou o presun platobného účtu, vyzve prijímajúci poskytovateľ platobných služieb spotrebiteľa na doplnenie informácií potrebných na vykonanie úkonov podľa odseku 21 písm. d) alebo písm. e). Ak by z dôvodu nedostatku informácií na splnenie povinností podľa odseku 21 písm. d) alebo písm. e) nebolo možné dodržať dátumy uvedené v žiadosti o presun platobného účtu, prijímajúci poskytovateľ platobných služieb informuje spotrebiteľa o najbližšom možnom dátume, od ktorého sa na platobnom účte spotrebiteľa u prijímajúceho poskytovateľa platobných služieb budú vykonávať úhrady a inkasá. Ak spotrebiteľ do desiatich pracovných dní odo dňa doručenia výzvy na doplnenie žiadosti o presun platobného účtu neoznámi prijímajúcemu poskytovateľovi informácie podľa odseku 21 písm. d) alebo písm. e), alebo informácie nie sú dostačujúce, prijímajúci poskytovateľ platobných služieb nevykoná požadované úkony a oznámi dôvody neukončenia presunu platobného účtu spotrebiteľovi v časti presunu platobného účtu podľa odseku 21 písm. d) alebo písm. e) .
+
+- (24)
+
+- Ak prijímajúci poskytovateľ platobných služieb nemá súhlas spotrebiteľa vyplývajúci zo žiadosti o presun platobného účtu na informovanie platiteľov podľa odseku 21 písm. d), môže tieto informácie poskytnúť platiteľom spotrebiteľ. Prijímajúci poskytovateľ platobných služieb je povinný poskytnúť spotrebiteľovi údaje o jeho platobnom účte na účely poskytnutia informácií podľa odseku 21 písm. d).
+
+- § 44e
+
+- Cezhraničné zriaďovanie platobného účtu
+
+- (1)
+
+- Ak si spotrebiteľ chce zriadiť platobný účet u poskytovateľa platobných služieb v inom členskom štáte, môže požiadať o spoluprácu pri zriaďovaní tohto platobného účtu poskytovateľa platobných služieb, u ktorého má vedený platobný účet. Žiadosť o spoluprácu podáva spotrebiteľ v listinnej podobe osobne alebo poštou. Žiadosť o spoluprácu doručovaná poštou, musí obsahovať úradné osvedčenie pravosti podpisu. Žiadosť o spoluprácu môže podať spotrebiteľ v elektronickej podobe, ak je podpísaná zaručeným elektronickým podpisom<sup>27</sup>) a ak to umožňujú technické možnosti poskytovateľa platobných služieb, v štátnom jazyku alebo v inom jazyku, na ktorom sa poskytovateľ platobných služieb a spotrebiteľ dohodnú. V žiadosti o spoluprácu musí byť uvedený dátum, kedy poskytovateľ platobných služieb poskytne spotrebiteľovi spoluprácu podľa odsekov 2 a 3. Ak spotrebiteľ určil dátum, ktorý je kratší ako šesť pracovných dní odo dňa nasledujúceho po doručení žiadosti o spoluprácu, poskytovateľ platobných služieb poskytne požadovanú spoluprácu šiesty pracovný deň po doručení žiadosti o spoluprácu poskytovateľovi platobných služieb.
+
+- (2)
+
+- Poskytovateľ platobných služieb v súlade so žiadosťou o spoluprácu je povinný poskytnúť spotrebiteľovi informácie
+
+- a)
+
+- o jeho úhradách a inkasách vrátane trvalých príkazov ku dňu podania žiadosti o spoluprácu,
+
+- b)
+
+- najmä o type ochrany platobného účtu spotrebiteľa voči inkasu, o referencii mandátu na inkaso a o jedinečnom identifikátore príjemcu inkasa, ak ide o inkaso v eurách,
+
+- c)
+
+- o prichádzajúcich trvalých príkazoch na úhradu a inkasách, ktoré sa vykonali na platobnom účte spotrebiteľa v posledných 13 mesiacoch.
+
+- (3)
+
+- Poskytovateľ platobných služieb v súlade so žiadosťou o spoluprácu je povinný
+
+- a)
+
+- previesť finančné prostriedky z platobného účtu spotrebiteľa na platobný účet zriadený spotrebiteľom alebo ktorého je spotrebiteľ majiteľom u poskytovateľa platobných služieb v inom členskom štáte, ak žiadosť o spoluprácu zahŕňa údaje umožňujúce identifikáciu poskytovateľa platobných služieb v inom členskom štáte a platobného účtu spotrebiteľa,
+
+- b)
+
+- zrušiť platobný účet spotrebiteľa.
+
+- (4)
+
+- Na žiadosť o spoluprácu sa použijú primerane ustanovenia § 44d ods. 5, 10, 13 až 16.
+
+- § 44f
+
+- Spoločné ustanovenia k presunu platobného účtu a cezhraničnému zriaďovaniu platobného účtu
+
+- (1)
+
+- Všetky úkony súvisiace s presunom platobného účtu podľa § 44d a cezhraničným zriaďovaním platobného účtu podľa § 44e sú pre spotrebiteľa bezplatné. Vzájomná výmena informácií a spolupráca medzi prijímajúcim poskytovateľom platobných služieb a odovzdávajúcim poskytovateľom platobných služieb týkajúca sa presunu platobného účtu podľa § 44d a cezhraničného zriaďovania platobného účtu podľa § 44e sú bezplatné.
+
+- (2)
+
+- Poskytovateľ platobných služieb je povinný sprístupniť informácie podľa odsekov 3 a 4 bezplatne na svojom webovom sídle a vo svojich prevádzkových priestoroch; na žiadosť spotrebiteľa je povinný poskytnúť informácie podľa odsekov 3 a 4 bezplatne v listinnej podobe alebo na inom trvanlivom médiu.
+
+- (3)
+
+- Informácie o postupe pri presune platobného účtu musia obsahovať
+
+- a)
+
+- zoznam úkonov vykonávaných odovzdávajúcim poskytovateľom platobných služieb a prijímajúcim poskytovateľom platobných služieb pri presune platobného účtu,
+
+- b)
+
+- lehoty súvisiace s presunom platobného účtu,
+
+- c)
+
+- informáciu o bezplatnosti presunu platobného účtu,
+
+- d)
+
+- informácie požadované od spotrebiteľa potrebné na presun platobného účtu,
+
+- e)
+
+- postup pri mimosúdnom riešení sporov.
+
+- (4)
+
+- Informácie o postupe pri cezhraničnom zriaďovaní platobného účtu musia obsahovať
+
+- a)
+
+- spôsob a formu podania žiadosti o spoluprácu,
+
+- b)
+
+- formy spolupráce podľa § 44e ods. 2 a 3,
+
+- c)
+
+- lehoty súvisiace s cezhraničným zriaďovaním platobného účtu.
+
+- (5)
+
+- Finančná strata je peňažné plnenie vrátane poplatkov a úrokov, ktoré spotrebiteľ musel uhradiť tretím stranám a ktoré priamo súvisia s nedodržaním povinností uvedených v § 44d a 44e poskytovateľom platobných služieb pri presune platobného účtu. Poskytovateľ platobných služieb, ktorý finančnú stratu spôsobil a ktorý nepreukáže opak, je povinný ju bezodkladne spotrebiteľovi uhradiť.
+
+- (6)
+
+- Poskytovateľ platobných služieb nie je zodpovedný za finančnú stratu, ktorá bola spôsobená vážnym objektívnym dôvodom, ktorý poskytovateľ platobných služieb nezapríčinil, nemohol predvídať ani odvrátiť alebo mu vyplýva z jeho zákonných povinností.“.
 
   - Poznámky pod čiarou k odkazom 24b až 24d znejú:
 
