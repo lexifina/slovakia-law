@@ -1,3 +1,3 @@
 Príloha č. 7 k výnosu č. 55/2014 Z. z.
 
-- Štandard pre architektúru cloud computingu [príloha 07](../assets/7aef91a36f8b1d1d78ae30b6fc5918adcb5ac9f96196716aebbbebd9c0f50516.pdf)
+- Štandard pre architektúru cloud computingu [príloha 07](../assets/a2654036eda149e53be94098d7d1c36804e2105f63b96031119e6f3d4e0aa4ee.pdf)
