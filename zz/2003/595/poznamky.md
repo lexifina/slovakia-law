@@ -252,6 +252,10 @@
 
 - 66) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
+- 66a) § 4 ods. 2 písm. b) a § 26d a 26e zákona č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- § 220b Obchodného zákonníka v znení zákona č. 361/2015 Z. z.
+
 - 67) § 2 ods. 1 Obchodného zákonníka.
 
 - 68) Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení zákona č. 445/2001 Z. z.
