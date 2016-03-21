@@ -474,6 +474,10 @@
 
 - 48aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
+- 48aaa) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
+- § 3 ods. 1 a 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+
 - 48b) Čl. 377 ods. 5 nariadenia (EÚ) č. 575/2013.
 
 - 48c) § 37 ods. 3 zákona č. 747/2004 Z. z. v znení zákona č. 276/2009 Z. z.
@@ -533,6 +537,8 @@
 - 61) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
 - 62) § 20 ods. 1 písm. a) zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 62a) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
 
 - 63) § 139 ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
 
@@ -604,7 +610,7 @@
 
 - Zákon č. 199/2004 Z. z. v znení neskorších predpisov.
 
-- 82) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
+- 82) Zákon č. 357/2015 Z. z.
 
 - 82a) § 16b zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 341/2005 Z. z.
 
