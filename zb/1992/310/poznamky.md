@@ -22,11 +22,15 @@
 
 - 3d) § 2 ods. 1písm. d) a ods. 9 zákona č. 492/2009 Z. z.
 
+- 3e) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
+
 - 4) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 4a) § 374 Obchodného zákonníka.
+
+- 4aa) § 2 ods. 9 zákona č. 492/2009 Z. z.
 
 - 4b) § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
