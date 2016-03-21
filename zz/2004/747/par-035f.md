@@ -17,3 +17,5 @@
 - g) uložiť inú sankciu ustanovenú osobitným predpisom<sup>1</sup>) v oblasti finančného trhu s cieľom ochrany finančných spotrebiteľov.
 
 (2) Tomu, kto opakovane porušil práva finančného spotrebiteľa alebo opakovane porušil povinnosti v oblasti ochrany finančných spotrebiteľov v období 12 mesiacov nasledujúcich po sebe, je Národná banka Slovenska príslušná podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zisteného nedostatku uložiť pokutu až do výšky dvojnásobku pokuty podľa odseku 1 písm. a); týmto nie je dotknuté ustanovenie § 35g ods. 1.
+
+(3) Národná banka Slovenska je aj mimo konania o uložení sankcie za nedostatky v oblasti ochrany finančných spotrebiteľov podľa tohto zákona oprávnená uložiť dohliadanému subjektu povinnosť predkladať osobitné výkazy, hlásenia a správy a prerokovať nedostatky v činnosti dohliadaného subjektu s osobami oprávnenými konať v mene dohliadaného subjektu, ktorí sú povinní poskytnúť Národnej banke Slovenska ňou požadovanú súčinnosť.

@@ -2,7 +2,7 @@
 
 - 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
 
-- 1aa) § 23 ods. 1 druhá veta zákona č. 129/2010 Z. z. v znení zákona č. 373/2014 Z. z.
+- 1aa) § 23 ods. 1 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - 1aaa) § 52 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -88,6 +88,8 @@
 
 - 28) Napríklad § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 147 až 155 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 109 a 110 zákona č. 594/2003 Z. z., § 51 až 59 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
 
+- 28a) § 65a zákona č. 483/2001 Z. z. v znení zákona č. 371/2014 Z. z.
+
 - 29) Napríklad § 114 až 118 zákona č. 566/2001 Z. z. v znení zákona č. 594/2003 Z. z.
 
 - 29a) Napríklad § 50 ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 144 ods. 7 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 67 ods. 5 zákona č. 8/2008 Z. z. v znení zákona č. 552/2008 Z. z.
@@ -125,6 +127,10 @@
 - 42a) Napríklad § 246d Občianskeho súdneho poriadku v znení zákona č. 428/2004 Z. z., § 50 ods. 10 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 42b) Napríklad § 7 ods. 1 a 3, § 42 ods. 1 až 3, § 74 až 77a, § 80 písm. b) a § 161 ods. 3 Občianskeho súdneho poriadku v znení neskorších predpisov.
+
+- 42c) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
+- § 3 ods. 1 a 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
 - 42d) § 7 až 9 zákona č. 250/2007 Z. z. v znení neskorších predpisov.
 
