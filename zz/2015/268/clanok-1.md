@@ -260,6 +260,8 @@ Zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 350/200
 
 - 35. V § 78 ods. 9 poslednej vete sa slová „vykoná kontrolu“ nahrádzajú slovami „začne daňovú kontrolu do 30 dní od podania daňového priznania“.
 
+- 36. V § 78a ods. 6 sa na konci pripája táto veta: „Ak za dané zdaňovacie obdobie je celková suma odpočítanej dane zo zjednodušených faktúr 3 000 eur a viac, je platiteľ povinný uviesť osobitne celkovú sumu základov dane, celkovú sumu dane a celkovú sumu odpočítanej dane v členení podľa jednotlivých dodávateľov tovarov a služieb s uvedením ich identifikačného čísla pre daň.“.
+
 - 37. V § 79 ods. 1 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Ak platiteľovi vznikne nadmerný odpočet v poslednom zdaňovacom období, v ktorom prestal byť platiteľom, nadmerný odpočet daňový úrad vráti do 30 dní od uplynutia lehoty na podanie daňového priznania za toto zdaňovacie obdobie.“.
 
 - 38. V § 79 ods. 2 písm. c) sa číslo „12“ nahrádza číslom „6“ a na konci sa pripájajú tieto slová: „v súhrne viac ako 1 000 eur“.
