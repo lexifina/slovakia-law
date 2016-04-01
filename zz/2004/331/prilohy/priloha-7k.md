@@ -1,9 +1,0 @@
-Príloha č. 7 k vyhláške č. 331/2004 Z. z. [Príloha 07-1](../assets/e920f7db648667130db80eb236277a76d046456ecf9b102817c24d5b55e7e466.pdf)
-
-[Príloha 07-2](../assets/75823a3387871ee3d088a95f84add50094743588c24bdc6100336c5a1d079d40.pdf)
-
-[Príloha 07-3](../assets/9414aef33848f4b1d48a6613a0da9c80c942e8dd562fd701ea152ea895783828.pdf)
-
-[Príloha 07-4](../assets/a5ca4e535bdc8f409566700c9a76a5f07877b183a0d79ecf7592ac995f2a52cb.pdf)
-
-[Príloha 07-5](../assets/631fa8541d6ff8ff5871c0a893c186ae8369699b3b6850b8bab803f43315b081.pdf)
