@@ -4,7 +4,7 @@ Príloha č. 1 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom onkologickom registri sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10:
+    - V národnom onkologickom registri sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa medzinárodnej klasifikácie chorôb, ktorú Ministerstvo zdravotníctva Slovenskej republiky uverejňuje na svojom webovom sídle<sup>2</sup>) (ďalej len „choroba“):
 
     - 1. zhubné nádory (C00.0 – C97),
 
@@ -22,11 +22,9 @@ Príloha č. 1 k vyhláške č. 74/2014 Z. z.
 
     - 1. hlásenie zhubného nádoru,
 
-    - 2. kontrolné hlásenie zhubného nádoru,
+    - 2. hlásenie o histopatologickej diagnostike zhubného nádoru.
 
-    - 3. hlásenie o histopatologickej diagnostike zhubného nádoru.
-
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav pacienta, určenie diagnózy a jej TNM (tumor, nodus, metastázy) klasifikácia zhubných nádorov, liečebné postupy vrátane operačného výkonu.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav pacienta, určenie choroby vrátane jej kódu a štádií podľa špecifickej onkologickej klasifikácie, liečebné postupy vrátane operačného výkonu.
 
   - c) Použitá metóda získavania údajov
 
@@ -34,10 +32,12 @@ Príloha č. 1 k vyhláške č. 74/2014 Z. z.
 
   - d) Okruh spravodajských jednotiek
 
-    - Poskytovateľ zdravotnej starostlivosti, ktorý určil definitívnu diagnózu.
+    - Poskytovateľ zdravotnej starostlivosti, ktorý určil chorobu alebo poskytuje liečbu.
 
   - e) Podrobnosti o lehotách hlásení
 
-    - Do 30 dní od určenia definitívnej diagnózy.
+    - Do 30 dní od určenia choroby.
 
-    - Do 30 dní od ukončenia onkologickej liečby.
+    - Do 30 dní od začatia liečby alebo po jej ukončení.
+
+    - Do 30 dní od určenia histopatologickej diagnostiky.

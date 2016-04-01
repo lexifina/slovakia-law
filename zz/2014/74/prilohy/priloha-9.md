@@ -4,7 +4,7 @@ Príloha č. 9 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom registri pacientov so zápalovým reumatickým ochorením sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10:
+    - V národnom registri pacientov so zápalovým reumatickým ochorením sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou:
 
     - 1. alkaptonúria (E70.2),
 
@@ -20,7 +20,7 @@ Príloha č. 9 k vyhláške č. 74/2014 Z. z.
 
     - hlásenie zápalovej reumatickej choroby.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie diagnózy, liečba, rodinná a osobná anamnéza.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie choroby, liečba, rodinná a osobná anamnéza.
 
   - c) Použitá metóda získavania údajov
 
@@ -34,4 +34,4 @@ Príloha č. 9 k vyhláške č. 74/2014 Z. z.
 
   - e) Podrobnosti o lehotách hlásení
 
-    - Do 30 dní od určenia diagnózy.
+    - Do 30 dní od určenia choroby.

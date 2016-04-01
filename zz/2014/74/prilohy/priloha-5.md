@@ -4,7 +4,7 @@ Príloha č. 5 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom registri pacientov s neurologickým ochorením sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10:
+    - V národnom registri pacientov s neurologickým ochorením sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou:
 
     - 1. Parkinsonova choroba (G20.00 – G20.91),
 
@@ -42,7 +42,7 @@ Príloha č. 5 k vyhláške č. 74/2014 Z. z.
 
     - 4. hlásenie neuromuskulárnej choroby.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie diagnózy, liečba, rodinná a osobná anamnéza a rizikové faktory životného štýlu.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie choroby, liečba, rodinná a osobná anamnéza a rizikové faktory životného štýlu.
 
   - c) Použitá metóda získavania údajov
 
@@ -54,4 +54,4 @@ Príloha č. 5 k vyhláške č. 74/2014 Z. z.
 
   - e) Podrobnosti o lehotách hlásení
 
-    - Do 30 dní od určenia klinickej diagnózy.
+    - Do 30 dní od určenia klinickej choroby.

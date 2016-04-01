@@ -4,7 +4,7 @@ Príloha č. 10 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom registri osôb s úrazom vyžadujúcim poskytnutie ústavnej zdravotnej starostlivosti sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10:
+    - V národnom registri osôb s úrazom vyžadujúcim poskytnutie ústavnej zdravotnej starostlivosti sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou:
 
     - 1. poranenia hlavy, krku (S00.00 – S19.9),
 
@@ -40,7 +40,7 @@ Príloha č. 10 k vyhláške č. 74/2014 Z. z.
 
     - hlásenie úrazu vyžadujúceho poskytnutie ústavnej zdravotnej starostlivosti.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie diagnózy, liečba, informácie o okolnostiach vzniku úrazu, následky úrazu, resp. liečenia u detí.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie choroby, liečba, informácie o okolnostiach vzniku úrazu, následky úrazu, resp. liečenia u detí.
 
   - c) Použitá metóda získavania údajov
 

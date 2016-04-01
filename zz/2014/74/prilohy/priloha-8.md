@@ -4,7 +4,7 @@ Príloha č. 8 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom artroplastickom registri sa zhromažďujú a spracovávajú údaje o pacientoch, ktorí podstúpili primárnu a/alebo revíznu aloplastickú operáciu indikovanú pre chorobu podľa MKCH-10:
+    - V národnom artroplastickom registri sa zhromažďujú a spracovávajú údaje o pacientoch, ktorí podstúpili primárnu a/alebo revíznu aloplastickú operáciu indikovanú pre chorobu:
 
     - 1. artróza (M16.0 – M16.9, M17.0 – M17.9, M19.01 – M19.99),
 
@@ -34,7 +34,7 @@ Príloha č. 8 k vyhláške č. 74/2014 Z. z.
 
     - 8. hlásenie revízie endoprotézy členkového kĺbu.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie diagnózy, typy operačných výkonov a typy implantátov podľa ich konštrukcie.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav, určenie choroby, typy operačných výkonov a typy implantátov podľa ich konštrukcie.
 
   - c) Použitá metóda získavania údajov
 

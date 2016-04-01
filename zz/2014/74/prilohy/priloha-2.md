@@ -4,7 +4,7 @@ Príloha č. 2 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom registri pacientov s diabetes mellitus sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10: diabetes mellitus (E10.01 – E14.91).
+    - V národnom registri pacientov s diabetes mellitus sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou: diabetes mellitus (E10.01 – E14.91).
 
     - Národný register pacientov s diabetes mellitus zahŕňa:
 
@@ -20,7 +20,7 @@ Príloha č. 2 k vyhláške č. 74/2014 Z. z.
 
     - 2. hlásenie diabetes mellitus u dospelých.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav pacienta, určenie diagnózy, nastavenie liečby, rodinná a osobná anamnéza a rizikové faktory životného štýlu.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav pacienta, určenie choroby, nastavenie liečby, rodinná a osobná anamnéza a rizikové faktory životného štýlu.
 
   - c) Použitá metóda získavania údajov
 
@@ -44,4 +44,4 @@ Príloha č. 2 k vyhláške č. 74/2014 Z. z.
 
   - e) Podrobnosti o lehotách hlásení
 
-    - Do 30 dní od určenia diagnózy.
+    - Do 30 dní od určenia choroby.

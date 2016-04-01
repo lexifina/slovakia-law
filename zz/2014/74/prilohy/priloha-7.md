@@ -4,7 +4,7 @@ Príloha č. 7 k vyhláške č. 74/2014 Z. z.
 
   - a) Podrobnosti o obsahu
 
-    - V národnom registri pacientov s tuberkulózou sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou podľa MKCH-10:
+    - V národnom registri pacientov s tuberkulózou sa zhromažďujú a spracovávajú údaje o pacientoch s chorobou:
 
     - 1. tuberkulóza (A15.0 – A19.9),
 
@@ -18,7 +18,7 @@ Príloha č. 7 k vyhláške č. 74/2014 Z. z.
 
     - 2. kontrolné hlásenie tuberkulózy.
 
-    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav a jeho prognóza, určenie diagnózy, liečba, zdravotno-sociálna starostlivosť.
+    - Obsahom zhromažďovaných a spracovávaných údajov je klinický stav a jeho prognóza, určenie choroby, liečba, zdravotno-sociálna starostlivosť.
 
   - c) Použitá metóda získavania údajov
 
@@ -30,6 +30,6 @@ Príloha č. 7 k vyhláške č. 74/2014 Z. z.
 
   - e) Podrobnosti o lehotách hlásení
 
-    - Do 30 dní od určenia definitívnej diagnózy.
+    - Do 30 dní od určenia definitívnej choroby.
 
     - Kontrolné hlásenie do 12 mesiacov od ukončenia liečby.
