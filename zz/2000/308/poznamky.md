@@ -58,7 +58,7 @@
 
 - 21a) Zákon č. 152/1998 Z. z. o sťažnostiach.
 
-- 21b) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+- 21b) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
 - 21c) Napríklad § 3 zákona č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z.
 
@@ -145,6 +145,10 @@
 - 50) Zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 50a) Zákon č. 22/2004 Z. z. o elektronickom obchode a o zmene a doplnení zákona č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení zákona č. 284/2002 Z. z. v znení zákona č. 160/2005 Z. z.
+
+- 50b) § 23a až § 23c zákona č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
+
+- 50c) § 15 písm. a) prvý, druhý a šiesty bod a písm. b) prvý bod zákona č. 253/1998 Z. z.
 
 - 51) § 24 ods. 3 zákona č. 220/2007 Z. z.
 
