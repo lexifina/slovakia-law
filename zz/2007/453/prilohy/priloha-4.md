@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 453/2007 Z. z. [Vzor 04 - VÝPOŽIČKOVÁ KNIHA](../assets/f94ca05b54c047fa0d42b06a961baa1948edeca91ecf8ab542310a78dda865f4.pdf)
+Príloha č. 4 k vyhláške č. 453/2007 Z. z. [Vzor 04 - VÝPOŽIČKOVÁ KNIHA](../assets/b1bffb8376e41388d1a63e64119c85010268b9a14e5d9dec64a304f7c843c153.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 12 k vyhláške č. 453/2007 Z. z. [Vzor 12 - ZBERNÝ SPIS](../assets/dd7df338f210913811a04f50a0026cf74a7a0bd27da728ee668013ec1432bc72.pdf)
+Príloha č. 12 k vyhláške č. 453/2007 Z. z. [Vzor 12 - ZBERNÝ SPIS](../assets/472d6299142fb31c2b10a8fdfca6c05e563187179972e9ca14c83fe0b42685d3.pdf)

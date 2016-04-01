@@ -2,6 +2,8 @@
 
 - 2) § 2 ods. 16 zákona č. 395/2002 Z. z.
 
+- 2a) § 8a zákona č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním) v znení zákona č. 404/2015 Z. z.
+
 - 3) § 9 vyhlášky Ministerstva vnútra Slovenskej republiky č. 628/2002 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona o archívoch a registratúrach a o doplnení niektorých zákonov.
 
 - 4) § 2 ods. 18 zákona č. 395/2002 Z. z.
