@@ -40,7 +40,7 @@
 
 (5) Ak je faktúra vyhotovená o dodaní tovaru, z ktorého je povinný platiť daň príjemca plnenia podľa § 69 ods. 12 písm. f) a g), uvádzajú sa v kontrolnom výkaze aj prvé štyri číslice číselného kódu podľa osobitného predpisu<sup>28da</sup>) a množstvo tovaru.
 
-(6) Ak platiteľ dane má o dodaní tovarov a služieb zjednodušené faktúry podľa § 74 ods. 3 písm. a) až c), uvádza na účely odseku 2 písm. b) bodu 2 v kontrolnom výkaze celkovú sumu základov dane, celkovú sumu dane a celkovú sumu odpočítanej dane zo všetkých prijatých zjednodušených faktúr, z ktorých si za dané zdaňovacie obdobie uplatňuje odpočítanie dane.
+(6) Ak platiteľ dane má o dodaní tovarov a služieb zjednodušené faktúry podľa § 74 ods. 3 písm. a) až c), uvádza na účely odseku 2 písm. b) bodu 2 v kontrolnom výkaze celkovú sumu základov dane, celkovú sumu dane a celkovú sumu odpočítanej dane zo všetkých prijatých zjednodušených faktúr, z ktorých si za dané zdaňovacie obdobie uplatňuje odpočítanie dane. Ak za dané zdaňovacie obdobie je celková suma odpočítanej dane zo zjednodušených faktúr 3 000 eur a viac, je platiteľ povinný uviesť osobitne celkovú sumu základov dane, celkovú sumu dane a celkovú sumu odpočítanej dane v členení podľa jednotlivých dodávateľov tovarov a služieb s uvedením ich identifikačného čísla pre daň.
 
 (7) Z faktúry podľa § 71 ods. 2 sa v kontrolnom výkaze uvádzajú údaje podľa odseku 4 písm. a) a b), poradové číslo pôvodnej faktúry, údaje podľa odseku 4 písm. d) až g) a odseku 5, ak sa menia. Ak platiteľ nemá faktúru a opraví odpočítanú daň podľa § 53 ods. 1, v kontrolnom výkaze uvádza údaje podľa prvej vety okrem údaja podľa odseku 4 písm. b).
 
