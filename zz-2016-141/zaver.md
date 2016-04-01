@@ -1,0 +1,1 @@
+Viliam Čislák v. r.
