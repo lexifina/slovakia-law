@@ -1,1 +1,0 @@
-Miroslav Jureňa v. r.
