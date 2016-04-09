@@ -6,4 +6,8 @@ Zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o s
 
 - „(7)
 
-- Ak poslancovi patrí aj plat poslanca Národnej rady Slovenskej republiky, počas poberania platu poslanca Národnej rady Slovenskej republiky patrí poslancovi odmena podľa odseku 4 alebo odseku 6 najviac v sume minimálnej mzdy.“.
+- Ak poslancovi patrí aj plat poslanca Národnej rady Slovenskej republiky, počas poberania platu poslanca Národnej rady Slovenskej republiky patrí poslancovi odmena podľa odseku 4 alebo odseku 6 najviac v sume minimálnej mzdy.
+
+- (8)
+
+- Ak poslancovi patrí aj plat starostu obce alebo primátora mesta, alebo ich zástupcov, počas poberania platu starostu obce alebo primátora mesta, alebo ich zástupcov patrí poslancovi odmena podľa odseku 4 alebo odseku 6 najviac v sume minimálnej mzdy.“.
