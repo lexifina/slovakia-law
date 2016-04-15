@@ -1,3 +1,0 @@
-Príloha č. 10 k vyhláške č. 338/2005 Z. z.
-
-- SPÔSOB SPRACOVANIA BILANČNÉHO POROVNANIA ŽIVÍN NA POĽNOHOSPODÁRSKOM POZEMKU [Vzor 10](../assets/91935e0a9eed1db4d65d13c1e691a98fe6fcbbed85a84b43e2181c5bf8799f6e.pdf)

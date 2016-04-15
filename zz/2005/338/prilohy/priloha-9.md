@@ -1,3 +1,0 @@
-Príloha č. 9 k vyhláške č. 338/2005 Z. z.
-
-- VZOR PREHĽAD O SPOTREBE HNOJÍV V POĽNOHOSPODÁRSKOM PODNIKU [Vzor 09](../assets/162738fc91fae547f26371ed7b077f78a6b6e38a1aacce3107620d49b8b36f22.pdf)
