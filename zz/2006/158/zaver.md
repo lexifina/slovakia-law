@@ -1,1 +1,0 @@
-Béla Angyal v. r.
