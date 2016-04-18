@@ -1,9 +1,0 @@
-# § 145b Ex ante kontrola
-
-(1) Ak ide o nadlimitnú zákazku, financovanú čo aj z časti z prostriedkov Európskej únie, verejný obstarávateľ môže požiadať úrad o výkon ex ante kontroly pred vyhlásením alebo začatím verejného obstarávania, a to vo vzťahu k dokumentom, proti ktorým je možné podať námietku podľa § 138 ods. 2 písm. a) až c); ex ante kontrola sa nevzťahuje na posudzovanie požiadaviek na technické špecifikácie, funkčné charakteristiky a odborné požiadavky predmetu zákazky podľa § 34.
-
-(2) Na ex ante kontrolu verejného obstarávania sa nevzťahuje postup podľa § 146 až 146d.
-
-(3) Výsledkom ex ante kontroly je oznámenie úradu verejnému obstarávateľovi, obsahujúce konštatovanie o súlade alebo nesúlade predložených dokumentov s týmto zákonom, ktoré úrad doručí verejnému obstarávateľovi. Úrad vydá oznámenie podľa prvej vety do 30 dní odo dňa doručenia dokumentov verejným obstarávateľom. Ak úrad v oznámení podľa prvej vety nekonštatuje súlad všetkých predložených dokumentov s týmto zákonom, označí v oznámení tie časti dokumentov, ktoré nie sú v súlade s týmto zákonom a uvedie k nesúladu stručné odôvodnenie.
-
-(4) Úrad na účely informovania verejných obstarávateľov a obstarávateľov o postupoch, ktoré sú v súlade s týmto zákonom, zverejňuje oznámenie podľa odseku 3 a dokumenty, na základe ktorých bolo vydané na webovom sídle úradu najneskôr do 30 dní po uzavretí zmluvy, koncesnej zmluvy alebo rámcovej dohody, ktorá je výsledkom tohto verejného obstarávania.
