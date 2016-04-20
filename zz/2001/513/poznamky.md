@@ -1,1 +1,0 @@
-- 1) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 230/2003 Z. z. o prijatí Protokolu k Európskej dohode o pridružení uzatvorenej medzi Európskymi spoločenstvami a ich členskými štátmi na jednej strane a Slovenskou republikou na druhej strane o posudzovaní zhody a uznávaní priemyselných výrobkov (PECA).
