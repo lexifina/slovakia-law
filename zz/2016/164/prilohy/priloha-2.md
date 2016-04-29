@@ -1,0 +1,1 @@
+anglické znenie textu
