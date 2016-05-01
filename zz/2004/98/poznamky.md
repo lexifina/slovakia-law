@@ -8,11 +8,11 @@
 
 - 1ab) Čl. 355 ods. 3 Zmluvy o fungovaní Európskej únie.
 
-- 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
+- 1b) Čl. 210 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
-- 2a) Čl. 79 nariadenia č. 2913/92 v platnom znení.
+- 2a) Čl. 77 ods. 1 písm. a) nariadenia (EÚ) č. 952/2013.
 
 - 2aa) § 7 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
@@ -130,13 +130,13 @@
 
 - 22) Napríklad STN EN 1442+A1 Zariadenie a príslušenstvo na LPG. Plniteľné zvárané oceľové fľaše na prepravu skvapalneného uhľovodíkového plynu (LPG). Návrh a konštrukcia (Konsolidovaný text) (078518).
 
-- 25a) Čl. 161 nariadenia č. 2913/92 v platnom znení.
+- 25a) Čl. 269 nariadenia (EÚ) č. 952/2013.
 
 - 25b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
 
 - 25c) Čl. 4 bod 4d nariadenia č. 2913/92 v platnom znení.
 
-- 25d) Čl. 66 nariadenia č. 2913/92 v platnom znení.
+- 25d) Čl. 174 nariadenia (EÚ) č. 952/2013.
 
 - 26) Nariadenie Komisie (EHS) č. 3649/92 zo 17. decembra 1992 o zjednodušenom sprievodnom dokumente na prepravu tovaru podliehajúceho spotrebnej dani vo vnútri Spoločenstva, ktorý bol uvoľnený do daňového voľného obehu v odosielajúcom členskom štáte (Úradný vestník Európskych spoločenstiev L 369, 18/12/1992, s. 17–24).
 
