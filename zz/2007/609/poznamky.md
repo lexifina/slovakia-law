@@ -64,7 +64,7 @@
 
 - 19a) § 68 zákona č. 563/2009 Z. z.
 
-- 19b) Čl. 79 nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4) v platnom znení.
+- 19b) Čl. 77 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 20) § 2 písm. c) 13. bod zákona č. 656/2004 Z. z.
 
