@@ -8,13 +8,13 @@
 
 - 1aaa) Čl. 349 a čl. 355 ods. 1 Zmluvy o fungovaní Európskej únie.
 
-- 1b) Čl. 84 bod 1 písm. a) nariadenia Rady (EHS) č. 2913/92 z 12. októbra 1992, ktorým sa ustanovuje Colný kódex spoločenstva (Mimoriadne vydanie Ú. v. EÚ, kap. 2/zv. 4; Ú. v. ES L 302, 19. 10. 1992) v platnom znení.
+- 1b) Čl. 210 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
 - 2) § 116 a 117 Občianskeho zákonníka.
 
 - 2a) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
-- 2aa) Čl. 79 nariadenia č. 2913/92 v platnom znení.
+- 2aa) Čl. 77 ods. 1 písm. a) nariadenia (EÚ) č. 952/2013.
 
 - 2aaa) § 7 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
 
@@ -106,13 +106,13 @@
 
 - 19) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov
 
-- 19a) Čl. 161 nariadenia č. 2913/92 v platnom znení.
+- 19a) Čl. 269 nariadenia (EÚ) č. 952/2013.
 
 - 19b) Čl. 4 bod 4c nariadenia č. 2913/92 v platnom znení.
 
 - 19c) Čl. 4 bod 4d nariadenia č. 2913/92 v platnom znení.
 
-- 19d) Čl. 66 nariadenia č. 2913/92 v platnom znení.
+- 19d) Čl. 174 nariadenia (EÚ) č. 952/2013.
 
 - 21) Zákon č. 104/2004 Z. z. o spotrebnej dani z vína.
 

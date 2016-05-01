@@ -24,7 +24,7 @@
 
 - d) prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie nie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom; dovozca, ktorý je držiteľom povolenia na obchodovanie s tabakovou surovinou a súčasne prevádzkovateľom daňového skladu, je povinný preukázať sa colnému úradu, ktorý tabakovú surovinu prepúšťa do voľného obehu,<sup>2aa</sup>) povolením na prevádzkovanie daňového skladu a čestným vyhlásením, že nie je konečným spotrebiteľom tabakovej suroviny,
 
-- e) vzniku colného dlhu iným spôsobom ako prijatím colného vyhlásenia.
+- e) vzniku colného dlhu iným spôsobom ako podľa písmena d).
 
 (5) Platiteľom dane z tabakovej suroviny je osoba,
 
@@ -36,7 +36,7 @@
 
 - d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) okrem predloženia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom tabakovej suroviny,
 
-- e) ktorej colný dlh vznikol iným spôsobom ako prijatím colného vyhlásenia.
+- e) ktorej colný dlh vznikol iným spôsobom ako podľa písmena d).
 
 (6) Zdaňovacím obdobím je kalendárny mesiac. Platiteľ dane z tabakovej suroviny je povinný najneskôr do 25. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom mu vznikla daňová povinnosť, podať colnému úradu daňové priznanie vyhotovené podľa vzoru ustanoveného všeobecne záväzným právnym predpisom vydaným podľa osobitného predpisu<sup>8b</sup>) a v rovnakej lehote zaplatiť daň. Na daňové priznanie sa použije § 13 primerane. Pri vzniku daňovej povinnosti podľa odseku 4 písm. d) a e) sa na splatnosť dane použijú lehoty na splatnosť colného dlhu podľa colných predpisov.
 
