@@ -23,3 +23,7 @@ Príloha č. 2 k zákonu č. 652/2004 Z. z.
   - 10. zvláštne znamenia,
 
   - 11. biometrické údaje.
+
+  - 12. funkcia,
+
+  - 13. telefónne číslo a adresa elektronickej pošty.
