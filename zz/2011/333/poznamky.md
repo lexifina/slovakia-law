@@ -30,6 +30,8 @@
 
 - 13) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
+- 13a) Čl. 95 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
+
 - 14) § 13 zákona č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 55/2010 Z. z.
 
 - 15) Nariadenie (ES) č. 638/2004 v platnom znení.
