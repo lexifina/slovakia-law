@@ -146,4 +146,10 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - (2)
 
-- Vymeriavací základ podľa § 13 ods. 16 tohto zákona v znení účinnom od 1. mája 2015 sa prvýkrát použije pri vykonaní ročného zúčtovania za rok 2015.“.
+- Vymeriavací základ podľa § 13 ods. 16 tohto zákona v znení účinnom od 1. mája 2015 sa prvýkrát použije pri vykonaní ročného zúčtovania za rok 2015.
+
+- § 38ed
+
+- Prechodné ustanovenie k úpravám účinným od 1. augusta 2015
+
+- Na účely vydania preukazu poistenca je príslušná zdravotná poisťovňa povinná od 1. augusta 2015 do 15. novembra 2016 v pracovné dni elektronicky zasielať národnému centru zoznam poistencov v rozsahu údajov podľa § 10a ods. 4 tak, aby počet poistencov za jeden pracovný deň nepresiahol 0,4 % z počtu jej poistencov k prvému dňu kalendárneho mesiaca.“.

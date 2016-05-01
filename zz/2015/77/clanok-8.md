@@ -208,7 +208,7 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - „f)
 
-- nie je považovaná za nedôveryhodnú osobu podľa osobitných predpisov<sup>50a</sup>) v oblasti finančného trhu,
+- nie je považovaná za nedôveryhodnú osobu podľa osobitných predpisov50a) v oblasti finančného trhu,
 
 - g)
 
