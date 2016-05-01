@@ -42,6 +42,10 @@
 
 - 6ab) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 732/2002 Z. z. o zozname zálohovaných obalov, ktoré nie sú opakovane použiteľné, a o výške zálohy za ne a o výške zálohy za zálohované opakovane použiteľné obaly.
 
+- 6aba) Čl. 77 ods. 1 písm. a) nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
+
+- 6abb) Čl. 79 nariadenia (EÚ) č. 952/2013.
+
 - 6ac) § 116 Občianskeho zákonníka.
 
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
