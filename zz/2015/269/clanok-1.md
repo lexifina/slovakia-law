@@ -134,6 +134,18 @@ Zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplne
 
 - 16. V § 46 ods. 10 sa vypúšťa slovo „kalendárnych“.
 
+- 17. V § 52 ods. 1 písmeno a) znie:
+
+- „a)
+
+- daňových dlžníkov podľa stavu k poslednému dňu kalendárneho mesiaca, u ktorých úhrnná výška daňových nedoplatkov presiahla 170 eur,“.
+
+- 18. V § 52 odsek 4 znie:
+
+- „(4)
+
+- Finančné riaditeľstvo na svojom webovom sídle zverejňuje zoznam podľa odseku 1 písm. a) do konca kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, za ktorý sa zoznam vyhotovuje, a zoznamy podľa odseku 1 písm. b) a c) v prvom polroku bežného roka. Zoznamy podľa odseku 2 zverejňuje obec v prvom polroku bežného roka na svojom webovom sídle alebo na mieste obvyklom na oznamovanie informácií.“.
+
 - 19. V poznámke pod čiarou k odkazu 37ac sa slová „ods. 6“ nahrádzajú slovami „ods. 7“.
 
 - 20. § 52 sa dopĺňa odsekom 11, ktorý znie:
