@@ -798,6 +798,12 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 56. V § 24 a 26 sa slová „úrad vlády“ vo všetkých tvaroch nahrádzajú slovami „správca modulu elektronických formulárov“ v príslušnom tvare.
 
+- 57. V § 24 ods. 3 písmeno a) znie:
+
+- „a)
+
+- vytvoriť elektronické podanie a k elektronickému podaniu pripojiť iné elektronické dokumenty ako prílohy k elektronickému podaniu podľa § 25 ods. 4, ako aj vytvoriť a odoslať elektronickú úradnú správu s týmto podaním a jeho prílohami,“.
+
 - 58. V § 25 ods. 1 prvej vete sa bodka na konci nahrádza čiarkou a pripájajú sa tieto slová: „ktoré je autorizované za podmienok podľa § 23 ods. 1.“.
 
 - 59. V § 28 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
@@ -995,6 +1001,354 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
   - § 29 ods. 4 zákona Slovenskej národnej rady č. 323/1992 Zb. v znení neskorších predpisov.“.
 
 - 89. V § 39 ods. 8 prvej vete sa za slovo „Advokát“ vkladá čiarka a slová „patentový zástupca“ a v druhej vete sa vypúšťajú slová „alebo z činnosti orgánu verejnej moci s rovnakou vecnou príslušnosťou, ale inou miestnou príslušnosťou“.
+
+- 90. V piatej časti sa vo všetkých tvaroch slová „poskytovateľ úhrady“ nahrádzajú slovom „poplatník“, slová „prijímateľ úhrady“ sa nahrádzajú slovom „príjemca“, slová „pokyn na úhradu“ sa nahrádzajú slovami „príkaz na úhradu“ a slovo „platca“ sa nahrádza slovom „platiteľ“ v príslušnom tvare.
+
+- 91. V § 40 písmená d) až f) znejú:
+
+- „d)
+
+- hromadnou úhradou vykonanie viacerých úhrad naraz, ktorú vykoná akreditovaný platiteľ alebo prevádzkovateľ integrovaného obslužného miesta na účet príjemcu úhrady,
+
+- e)
+
+- príkazom na úhradu elektronický dokument obsahujúci jednoznačný identifikátor úhrady, identifikáciu účtu, na ktorý sa má úhrada vykonať, výšku úhrady a ktorý obsahuje alebo umožňuje zistiť jedinečnú a jednoznačnú identifikáciu príjemcu úhrady, orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, ak je odlišný od príjemcu úhrady,
+
+- f)
+
+- informáciou o úhrade informácia obsahujúca identifikátor príkazu na úhradu a údaje uvedené v príkaze na úhradu, na základe ktorého sa úhrada vykonala, výšku úhrady, ktorá bola vykonaná, čas a dátum vykonania úhrady a označenie akreditovaného platiteľa alebo prevádzkovateľa integrovaného obslužného miesta, prostredníctvom ktorých bola úhrada vykonaná.“.
+
+- 92. V § 42 odseky 2 až 4 znejú:
+
+- „(2)
+
+- Ak povinnosť vykonať úhradu vzniká inak ako podľa odseku 1, príkaz na úhradu vytvorí správca alebo prevádzkovateľ prístupového miesta, pričom
+
+- a)
+
+- identifikátor úhrady, identifikáciu účtu, na ktorý sa má úhrada vykonať, identifikáciu príjemcu úhrady, identifikáciu orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, ak je odlišný od príjemcu úhrady, a výšku úhrady určí na základe informácií získaných prostredníctvom platobného modulu, ak nie je v odseku 4 ustanovené inak,
+
+- b)
+
+- iné náležitosti príkazu na úhradu ako podľa písmena a) určí na základe typu úkonu alebo konania, a ak je to potrebné, aj na základe informácie od poplatníka.
+
+- (3)
+
+- Súčasne s vytvorením príkazu na úhradu podľa
+
+- a)
+
+- odseku 1 orgán verejnej moci doručí príkaz na úhradu poplatníkovi a orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, ak je odlišný od orgánu, ktorý príkaz na úhradu vytvoril,
+
+- b)
+
+- odseku 2 správca alebo prevádzkovateľ prístupového miesta zabezpečuje sprístupnenie príkazu na úhradu poplatníkovi a zaslanie príkazu na úhradu do elektronickej schránky poplatníka, ak o to poplatník požiada, a súčasne zabezpečí pripojenie príkazu na úhradu ako prílohy k elektronickému podaniu, ku ktorému je príkaz na úhradu vytváraný na prístupovom mieste.
+
+- (4)
+
+- Ak je príjemcom úhrady vyšší územný celok alebo obec a nejde o prenesený výkon štátnej správy, údaje pre vytvorenie príkazu na úhradu podľa odseku 1 určí príjemca úhrady. Na základe dohody vyššieho územného celku alebo obce s ministerstvom financií môžu byť údaje pre vytvorenie príkazu na úhradu zabezpečené prostredníctvom platobného modulu.“.
+
+- 93. § 42 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Ak príjemca úhrady nie je orgánom verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, a na účely poskytovania informácií o splnení povinnosti vykonať úhradu, ako aj informácií potrebných na evidenciu a zúčtovanie úhrad je potrebná výmena informácií vo väčšom rozsahu, než ustanovuje tento zákon, poskytovanie takýchto informácií zabezpečujú tieto orgány verejnej moci vo vzájomnej súčinnosti.“.
+
+- 94. § 43 až 46 vrátane nadpisov znejú:
+
+- „§ 43
+
+- Vykonanie úhrady prostredníctvom integrovaného obslužného miesta
+
+- (1)
+
+- Prostredníctvom integrovaného obslužného miesta je možné vykonať úhradu v hotovosti, bezhotovostným prevodom alebo iným spôsobom, ktorý podporuje prevádzkovateľ integrovaného obslužného miesta.
+
+- (2)
+
+- Poplatník na základe údajov v príkaze na úhradu vykoná úhradu v prospech prevádzkovateľa integrovaného obslužného miesta.
+
+- (3)
+
+- Prevádzkovateľ integrovaného obslužného miesta zabezpečuje, aby bezodkladne po vykonaní úhrady odoslal informačný systém integrovaného obslužného miesta platobnému modulu informáciu o úhrade.
+
+- (4)
+
+- Správca komunikačnej časti platobného modulu prostredníctvom funkcionality platobného modulu zabezpečí zaslanie informácie o úhrade príjemcovi úhrady a orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, ak je odlišný od príjemcu úhrady.
+
+- (5)
+
+- Okamihom odoslania informácie o úhrade podľa odseku 3 vzniká záväzok prevádzkovateľa integrovaného obslužného miesta uhradiť plnenie v sume uvedenej v tejto informácii o úhrade v prospech príjemcu úhrady uvedeného v nej.
+
+- (6)
+
+- Orgán verejnej moci overí súlad údajov z príkazu na úhradu, okrem výšky úhrady, s údajmi v informácii o úhrade, a ak sa tieto údaje zhodujú a zároveň vznikla povinnosť vykonať úhradu podľa osobitného predpisu alebo na jeho základe, považuje sa informácia o úhrade za zaručenú informáciu o úhrade, povinnosť poplatníka vykonať úhradu sa považuje vo výške uvedenej v zaručenej informácii o úhrade za splnenú a vzniká pohľadávka príjemcu úhrady voči prevádzkovateľovi integrovaného obslužného miesta.
+
+- (7)
+
+- Prevádzkovateľ integrovaného obslužného miesta je povinný splniť záväzok podľa odseku 5 do desiatich pracovných dní odo dňa jeho vzniku, a to jednotlivo alebo hromadnou úhradou.
+
+- § 44
+
+- Vykonanie úhrady prostredníctvom akreditovaného platiteľa
+
+- (1)
+
+- Prostredníctvom akreditovaného platiteľa je možné vykonať úhradu niektorým zo spôsobov bezhotovostného prevodu z účtu vedeného v banke alebo v pobočke zahraničnej banky,<sup>24</sup>) ktorý akreditovaný platiteľ poskytuje, poukazom poštového platobného styku alebo iným spôsobom, ktorý poskytuje akreditovaný platiteľ.
+
+- (2)
+
+- Správca komunikačnej časti platobného modulu zabezpečuje, aby bolo prostredníctvom platobného modulu umožnené poplatníkovi vykonať úhradu, na ktorej vykonanie je povinný podľa osobitného predpisu, alebo na jeho základe, a to najmenej pri každom elektronickom podaní, ktoré je spojené s povinnosťou vykonať úhradu podľa osobitných predpisov, bezprostredne po odoslaní elektronického podania, alebo po jeho odoslaní na základe výzvy alebo na základe vykonateľného rozhodnutia orgánu verejnej moci. Správca alebo prevádzkovateľ ústredného portálu alebo špecializovaného portálu zabezpečuje, aby prostredníctvom tohto prístupového miesta bolo poplatníkovi umožnené využiť funkcionalitu platobného modulu podľa prvej vety.
+
+- (3)
+
+- Poplatník vykoná úhradu prostredníctvom akreditovaného platiteľa tak, že v rámci funkcionality prístupového miesta, platobného modulu alebo iného informačného systému verejnej správy<sup>3</sup>) zvolí spôsob vykonania úhrady akreditovaného platiteľa a uvedie informácie potrebné na vykonanie úhrady, ktoré poplatník použije pri vykonaní úhrady prostredníctvom akreditovaného platiteľa.
+
+- (4)
+
+- Ak akreditovaný platiteľ v súlade s podmienkami, za ktorých úhradu vykoná, dohodnutých medzi ním a poplatníkom na základe ich právneho vzťahu, overí, že úhradu je v zadanej výške možné vykonať, odošle platobnému modulu informáciu o úhrade.
+
+- (5)
+
+- Správca komunikačnej časti platobného modulu prostredníctvom funkcionality platobného modulu zabezpečí zaslanie informácie o úhrade príjemcovi úhrady a orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, ak je odlišný od príjemcu úhrady.
+
+- (6)
+
+- Okamihom odoslania informácie o úhrade podľa odseku 4
+
+- a)
+
+- je akreditovaný platiteľ povinný uhradiť plnenie v sume uvedenej v informácii o úhrade v prospech príjemcu úhrady uvedeného v tejto informácii, ak akreditovaný platiteľ spravuje prostriedky poplatníka a uhrádza toto plnenie z prostriedkov poplatníka,
+
+- b)
+
+- vzniká záväzok akreditovaného platiteľa uhradiť plnenie v sume uvedenej v informácii o úhrade v prospech príjemcu úhrady uvedeného v tejto informácii, ak akreditovaný platiteľ nespravuje prostriedky poplatníka a neuhrádza tento záväzok z prostriedkov poplatníka.
+
+- (7)
+
+- Orgán verejnej moci overí súlad údajov z príkazu na úhradu, okrem výšky úhrady, s údajmi v informácii o úhrade, a ak sa tieto údaje zhodujú a zároveň vznikla povinnosť vykonať úhradu podľa osobitného predpisu alebo na jeho základe, považuje sa informácia o úhrade za zaručenú informáciu o úhrade, povinnosť poplatníka vykonať úhradu sa považuje vo výške uvedenej v zaručenej informácii o úhrade za splnenú, a ak akreditovaný platiteľ nespravuje prostriedky poplatníka a neuhrádza tento záväzok z prostriedkov poplatníka, vzniká v rovnakej výške pohľadávka príjemcu úhrady voči akreditovanému platiteľovi.
+
+- (8)
+
+- Akreditovaný platiteľ je povinný splniť povinnosť podľa odseku 6 do piatich pracovných dní odo dňa jej vzniku, a to jednotlivo alebo hromadnou úhradou.
+
+- (9)
+
+- Ak akreditovaný platiteľ spravuje prostriedky poplatníka a uhrádza plnenie podľa odseku 6 písm. a) z prostriedkov poplatníka, okamihom odoslania informácie o úhrade podľa odseku 4 prostriedky poplatníka vo výške uvedenej v tejto informácii nepodliehajú výkonu rozhodnutia podľa osobitných predpisov.
+
+- Akreditovaný platiteľ
+
+- § 45
+
+- (1)
+
+- Akreditovaným platiteľom sa na účely tejto časti rozumie osoba zapísaná v zozname akreditovaných platiteľov.
+
+- (2)
+
+- Zoznam akreditovaných platiteľov vedie správca komunikačnej časti platobného modulu. Správca komunikačnej časti platobného modulu do zoznamu akreditovaných platiteľov zapíše,
+
+- a)
+
+- ak nejde o vykonanie úhrady platobnou kartou,
+
+- 1.
+
+- banku alebo pobočku zahraničnej banky,<sup>24</sup>) ak o to požiadajú,
+
+- 2.
+
+- platobnú inštitúciu alebo pobočku zahraničnej platobnej inštitúcie<sup>25</sup>) vrátane mobilného operátora,<sup>26</sup>) ktorý má platné povolenie na poskytovanie platobných služieb, ak o to požiadajú,
+
+- 3.
+
+- právnickú osobu zriadenú zákonom na vykonávanie rozpočtu orgánov verejnej moci a vykonávanie súvisiacich platobných operácií, ak o to požiada,
+
+- 4.
+
+- poštový podnik oprávnený poskytovať poštový platobný styk,<sup>27</sup>) ak o to požiada,
+
+- b)
+
+- ak ide o vykonanie úhrady platobnou kartou, osobu podľa odseku 1, s ktorou správca administratívnej časti platobného modulu uzatvoril zmluvu o výkone činnosti akreditovaného platiteľa podľa § 47.
+
+- § 46
+
+- (1)
+
+- Žiadosť o zápis do zoznamu akreditovaných platiteľov podáva žiadateľ správcovi komunikačnej časti platobného modulu. Táto žiadosť musí byť autorizovaná alebo vlastnoručne podpísaná žiadateľom a obsahuje
+
+- a)
+
+- identifikátor osoby žiadateľa a identifikátor osoby fyzickej osoby oprávnenej konať za žiadateľa alebo v jeho mene,
+
+- b)
+
+- spôsob vykonania úhrady poskytovaný žiadateľom, a ak poskytuje rôzne spôsoby vykonania úhrady, uvedie každý zo spôsobov osobitne,
+
+- c)
+
+- dátum podania.
+
+- (2)
+
+- Prílohou žiadosti podľa odseku 1 je dokument, z ktorého vyplýva, že žiadateľ je osobou podľa § 45 ods. 2 písm. a).
+
+- (3)
+
+- Žiadosť podľa odseku 1 sa podáva v listinnej podobe alebo v elektronickej podobe a jej vzor zverejňuje správca komunikačnej časti platobného modulu na ústrednom portáli.
+
+- (4)
+
+- Ak žiadosť podľa odseku 1 spĺňa všetky náležitosti podľa odsekov 1 a 2 a ak funkcionalita platobného modulu umožňuje spôsob vykonania úhrady uvedený v tejto žiadosti, správca komunikačnej časti platobného modulu zapíše žiadateľa do zoznamu akreditovaných platiteľov. Ak žiadosť podľa odseku 1 nespĺňa niektorú z náležitostí podľa odsekov 1 a 2, správca komunikačnej časti platobného modulu vyzve žiadateľa, aby žiadosť doplnil v určenej lehote, ktorá nesmie byť kratšia ako sedem pracovných dní odo dňa doručenia výzvy; ak žiadateľ túto žiadosť v určenej lehote nedoplní, správca komunikačnej časti platobného modulu ju odmietne a upovedomí o tom žiadateľa.
+
+- (5)
+
+- Ak chce akreditovaný platiteľ poskytovať spôsob vykonania úhrady inak, než uviedol v žiadosti podľa odseku 1 písm. b), je povinný pred začatím takéhoto poskytovania požiadať správcu komunikačnej časti platobného modulu o zápis zmeny do zoznamu akreditovaných platiteľov. Na zápis zmeny sa použijú ustanovenia odsekov 1, 3 a 4 rovnako. Akreditovaný platiteľ je oprávnený poskytovať spôsob vykonania úhrady, ktorého sa zmena týka, odo dňa zápisu zmeny do zoznamu akreditovaných platiteľov.
+
+- (6)
+
+- Správca komunikačnej časti platobného modulu v zozname akreditovaných platiteľov vedie o každom akreditovanom platiteľovi údaje v rozsahu podľa odseku 1 písm. a) a b); osobné údaje akreditovaného platiteľa a osoby oprávnenej konať za akreditovaného platiteľa alebo v jeho mene, najmä identifikátor osoby, je správca komunikačnej časti platobného modulu oprávnený spracúvať na účely plnenia povinností podľa tejto časti v rozsahu nevyhnutnom na dosiahnutie tohto účelu a počas nevyhnutnej doby. Správca komunikačnej časti platobného modulu zverejňuje na ústrednom portáli všetky spôsoby vykonania úhrady, ktoré funkcionalita platobného modulu umožňuje, ako aj obchodné meno alebo názov akreditovaného platiteľa pre každý z podporovaných spôsobov vykonania úhrady.
+
+- (7)
+
+- Správca komunikačnej časti platobného modulu vyčiarkne zo zoznamu akreditovaných platiteľov akreditovaného platiteľa
+
+- a)
+
+- ku dňu jeho zániku,
+
+- b)
+
+- ku dňu jeho vstupu do likvidácie,
+
+- c)
+
+- ku dňu nadobudnutia právoplatnosti rozhodnutia o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo o zastavení konkurzu alebo o zrušení konkurzu pre nedostatok majetku podľa osobitného predpisu,<sup>27a</sup>)
+
+- d)
+
+- ku dňu zániku jeho oprávnenia na podnikanie,
+
+- e)
+
+- ak ide o banku alebo pobočku zahraničnej banky,<sup>24</sup>) platobnú inštitúciu alebo pobočku zahraničnej platobnej inštitúcie,<sup>25</sup>) ku dňu odobratia alebo zániku bankového povolenia alebo povolenia na poskytovanie jej platobných služieb,
+
+- f)
+
+- na jeho žiadosť, a to ku dňu doručenia žiadosti, ak v žiadosti nie je uvedený neskorší dátum,
+
+- g)
+
+- ak ide o akreditovaného platiteľa podľa § 45 ods. 2 písm. b), aj dňom skončenia alebo zániku zmluvy o výkone činnosti akreditovaného platiteľa.
+
+- (8)
+
+- Na účely plnenia povinností správcu komunikačnej časti platobného modulu podľa odseku 7 oznamuje bezodkladne správcovi komunikačnej časti platobného modulu skutočnosti podľa odseku 7
+
+- a)
+
+- písm. a) až d) orgán verejnej moci, ktorý vedie register právnických osôb, podnikateľov a orgánov verejnej moci,<sup>12c</sup>) s uvedením dátumu vzniku skutočnosti a identifikátora osoby,
+
+- b)
+
+- písm. e) Národná banka Slovenska, s uvedením dátumu vzniku skutočnosti a identifikátora osoby.“.
+
+  - Poznámka pod čiarou k odkazu 27a znie:
+
+  - „27a)
+
+  - Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 95. V § 47 sa slová „ministerstvo financií“ vo všetkých tvaroch nahrádzajú slovami „správca administratívnej časti platobného modulu“ v príslušnom tvare.
+
+- 96. V § 47 odsek 9 znie:
+
+- „(9)
+
+- Správca administratívnej časti platobného modulu bezodkladne po uzavretí zmluvy oznámi správcovi komunikačnej časti platobného modulu, že došlo k uzavretiu zmluvy podľa odseku 8, a správca komunikačnej časti platobného modulu zapíše akreditovaného platiteľa podľa § 45 ods. 2 písm. b) do zoznamu akreditovaných platiteľov.“.
+
+- 97. § 48 vrátane nadpisu znie:
+
+- „§ 48
+
+- Povinnosti správcu komunikačnej časti platobného modulu, správcu administratívnej časti platobného modulu, akreditovaného platiteľa a orgánu verejnej moci, ktorého sa úhrada týka
+
+- (1)
+
+- Správca komunikačnej časti platobného modulu a správca administratívnej časti platobného modulu, každý v rozsahu pôsobnosti k časti platobného modulu, ktorej sú správcom, sú povinní v rámci funkcionality platobného modulu
+
+- a)
+
+- poskytnúť poplatníkovi vždy pred autorizáciou úhrady informáciu o nákladoch spojených s vykonaním úhrady, ktoré znáša poplatník, ak sú známe,
+
+- b)
+
+- sprístupniť v platobnom module všetky podporované spôsoby vykonania úhrady a v rámci nich prístup k podporovaným službám každého akreditovaného platiteľa,
+
+- c)
+
+- umožniť v rámci jednotlivých podporovaných spôsobov vykonania úhrady a jednotlivých akreditovaných platiteľov poplatníkovi zadať všetky informácie a vykonať všetky úkony, ktoré sú na vykonanie úhrady potrebné,
+
+- d)
+
+- umožniť akreditovaným platiteľom integrovať ich informačné systémy a iné prostriedky potrebné na výkon činnosti podľa tejto časti na zverejnené komunikačné rozhranie platobného modulu podľa odseku 3 a poskytnúť im nevyhnutnú súčinnosť,
+
+- e)
+
+- zabezpečiť vedenie evidencie prijatých informácií od integrovaného obslužného miesta a akreditovaného platiteľa podľa tejto časti a odoslaných informácií o úhrade, a to počas piatich rokov odo dňa prijatia informácie a odoslania informácie o úhrade,
+
+- f)
+
+- umožniť prevádzkovateľom integrovaného obslužného miesta a orgánu verejnej moci, ktorého sa úhrada týka, integrovať ich informačné systémy a iné prostriedky potrebné na výkon činnosti podľa tejto časti na zverejnené komunikačné rozhranie platobného modulu a poskytnúť im nevyhnutnú súčinnosť.
+
+- (2)
+
+- Akreditovaný platiteľ je povinný
+
+- a)
+
+- zabezpečiť na účely vykonania úhrady podľa tejto časti dostupnosť svojich informačných systémov a iných prostriedkov každodenne,
+
+- b)
+
+- poskytovať správcovi komunikačnej časti platobného modulu a správcovi administratívnej časti platobného modulu vždy aktuálnu informáciu o nákladoch spojených s vykonaním úhrady, ktoré znáša poplatník, na účely plnenia povinnosti podľa odseku 1 písm. a),
+
+- c)
+
+- poskytnúť správcovi komunikačnej časti platobného modulu a správcovi administratívnej časti platobného modulu informácie na účely plnenia povinnosti podľa odseku 1 písm. c) a poskytnúť na tento účel všetku potrebnú súčinnosť.
+
+- (3)
+
+- Správca komunikačnej časti platobného modulu zverejňuje na ústrednom portáli komunikačné rozhranie platobného modulu na účely integrácie informačných systémov a iných prostriedkov akreditovaných platiteľov.
+
+- (4)
+
+- Správca administratívnej časti platobného modulu zverejňuje metainformácie o komunikačnom rozhraní v centrálnom metainformačnom systéme.
+
+- (5)
+
+- Orgán verejnej moci, ktorého sa úhrada týka, je povinný viesť evidenciu prijatých informácií o úhrade.
+
+- (6)
+
+- Správca komunikačnej časti platobného modulu a správca administratívnej časti platobného modulu sú povinní poskytnúť orgánu verejnej moci, ktorého sa úhrada týka, prevádzkovateľovi integrovaného obslužného miesta a akreditovanému platiteľovi nevyhnutnú súčinnosť na účely plnenia ich povinností podľa tejto časti.
+
+- (7)
+
+- Orgány verejnej moci sú povinné oznámiť správcovi administratívnej časti platobného modulu identifikáciu účtu, na ktorom prijímajú úhrady podľa tejto časti, a to najneskôr v deň zriadenia tohto účtu; táto povinnosť sa obdobne vzťahuje aj na informáciu o zmene či zrušení takéhoto účtu. Ak orgán verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, je odlišný od príjemcu úhrady, sú oba tieto orgány povinné túto skutočnosť spolu s identifikáciou konania alebo úkonu oznámiť správcovi administratívnej časti platobného modulu; táto povinnosť sa obdobne vzťahuje aj na informáciu o zmene takejto skutočnosti.
+
+- (8)
+
+- Orgány verejnej moci sú povinné poskytnúť správcovi administratívnej časti platobného modulu potrebné informácie a súčinnosť pri určovaní výšky úhrad na účely vytvárania príkazu na úhradu.
+
+- (9)
+
+- Prevádzkovateľ integrovaného obslužného miesta alebo akreditovaný platiteľ môže vykonať hromadnú úhradu len vtedy, ak uzatvoril písomnú dohodu o hromadných úhradách so správcom administratívnej časti platobného modulu. Dohoda podľa prvej vety musí byť v druhovo rovnakých prípadoch rovnaká s každým prevádzkovateľom integrovaného obslužného miesta a s každým akreditovaným platiteľom a musí obsahovať aj povinnosť prevádzkovateľa integrovaného obslužného miesta a akreditovaného platiteľa vytvárať a poskytovať informácie na účely evidencie a identifikácie hromadných úhrad. Informácie podľa prvej vety sa poskytujú spôsobom, ktorý umožní identifikáciu výšky v spojení s úhradou, ktorej sa výška týka, a s identifikáciou poplatníka, orgánu verejnej moci, ktorý spoplatnené konanie alebo úkon vykonáva, a identifikáciu právneho titulu, na základe ktorého sa úhrada vykonáva.
+
+- (10)
+
+- Orgán verejnej moci a prevádzkovateľ integrovaného obslužného miesta sú oprávnení na účely plnenia povinností podľa tejto časti spracúvať osobné údaje poplatníka, najmä identifikátor osoby poplatníka, v rozsahu nevyhnutnom na dosiahnutie tohto účelu a na nevyhnutnú dobu.“.
 
 - 98. V § 49 sa za písmeno d) vkladajú nové písmená e) a f), ktoré znejú:
 
