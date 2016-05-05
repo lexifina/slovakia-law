@@ -1,0 +1,1 @@
+- 1) Slovenský preklad bol vyhotovený na základe anglického originálu súdnym prekladateľom. Pri sporoch ohľadom výkladu Dodatku je rozhodujúce znenie originálu (pozn. predkladateľa).
