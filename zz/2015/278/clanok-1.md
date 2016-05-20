@@ -160,6 +160,10 @@ Zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/
 
 - Ustanovenie § 28b ods. 4 a povinnosť uvádzať dátum prvého uvedenia slovenských hudobných diel na verejnosti podľa § 28c ods. 1 písm. c) sa nevzťahujú na vysielanie rozhlasovej programovej služby, ak rada rozhodla, že určenie podielu nových slovenských hudobných diel je zameraním programovej služby úplne vylúčené.“.
 
+- 16. V § 31a ods. 8 sa slová „cigariet a iných tabakových výrobkov“ nahrádzajú slovami „cigariet, iných tabakových výrobkov, elektronických cigariet a plniacich fľaštičiek pre elektronické cigarety“.
+
+- 17. V § 39 ods. 7 a § 39a ods. 7 sa slová „cigariet alebo iných tabakových výrobkov“ nahrádzajú slovami „cigariet, iných tabakových výrobkov, elektronických cigariet alebo plniacich fľaštičiek pre elektronické cigarety“.
+
 - 18. V § 67 ods. 1 písm. a) sa slová „písm. a) až d) a h)“ nahrádzajú slovami „písm. a) až d), h) a i) a ods. 8“.
 
 - 19. V § 67 ods. 2 písm. d) sa na konci pripájajú tieto slová: „alebo písm. o)“.
@@ -214,4 +218,16 @@ Zákon č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/
 
 - (2)
 
-- Ustanovenie odseku 1 sa nevzťahuje na vysielanie rozhlasovej programovej služby, ak rada rozhodla, že určenie podielu slovenských hudobných diel je zameraním programovej služby úplné vylúčené.“.
+- Ustanovenie odseku 1 sa nevzťahuje na vysielanie rozhlasovej programovej služby, ak rada rozhodla, že určenie podielu slovenských hudobných diel je zameraním programovej služby úplné vylúčené.
+
+- § 76di
+
+- Prechodné ustanovenie k úpravám účinným od 20. mája 2016
+
+- Ustanovenia § 31a ods. 8, § 39 ods. 7 a § 39a ods. 7 v znení účinnom od 20. mája 2016 sa nevzťahujú na programy vyrobené pred 20. májom 2016.“.
+
+- 24. Doterajší text prílohy sa označuje ako prvý bod a dopĺňa sa druhým bodom, ktorý znie:
+
+- „2.
+
+- Smernica Európskeho parlamentu a Rady 2014/40/EÚ z 3. apríla 2014 o aproximácii zákonov, iných právnych predpisov a správnych opatrení členských štátov týkajúcich sa výroby, prezentácie a predaja tabakových a súvisiacich výrobkov a o zrušení smernice 2001/37/ES (Ú. v. EÚ L 127, 29. 4. 2014).“.
