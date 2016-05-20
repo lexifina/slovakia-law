@@ -88,7 +88,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 38. | Zber, spracúvanie, skladovanie, pestovanie a uvádzanie do obehu reprodukčného materiálu lesných drevín | osvedčenie o odbornej spôsobilosti | § 24 zákona č. 217/2004 Z. z. o lesnom reprodukčnom materiáli a o zmene niektorých zákonov v znení neskorších predpisov |
 
-- 39. | Výroba tabakových výrobkov | osvedčenie | § 8 zákona č. 63/1950 Zb. o úprave hospodárenia s tabakom, soľou a liehom a o zrušení štátnych finančných monopolov v znení neskorších predpisov |
+- 39. | Výroba tabakových výrobkov | vysokoškolské vzdelanie v potravinárskom odbore alebo stredné odborné vzdelanie v potravinárskom odbore a najmenej dvojročná prax v odbore výroby tabakových výrobkov | § 3 ods. 1 zákona č. 335/2011 Z. z. o tabakových výrobkoch |
 
 - 40. | Projektovanie pozemkových úprav | osvedčenie | § 25 ods. 1 a § 25a zákona Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov |
 
