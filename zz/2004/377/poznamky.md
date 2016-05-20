@@ -1,4 +1,4 @@
-- 1) § 13 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
+- 1) § 2 ods. 3 písm. d) zákona č. 89/2016 Z. z. o výrobe, označovaní a predaji tabakových výrobkov a súvisiacich výrobkov a o zmene a doplnení niektorých zákonov.
 
 - 1a) Napríklad § 18 a 19 Obchodného zákonníka.
 
