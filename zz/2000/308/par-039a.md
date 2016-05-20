@@ -20,4 +20,4 @@
 
 (6) Umiestňovanie produktov v programoch pre vekovú skupinu maloletých do 12 rokov<sup>36</sup>) sa zakazuje.
 
-(7) Umiestňovanie produktov je v spojitosti s fyzickou osobou alebo právnickou osobou, ktorej hlavnou činnosťou je výroba alebo predaj cigariet alebo iných tabakových výrobkov, zakázané.
+(7) Umiestňovanie produktov je v spojitosti s fyzickou osobou alebo právnickou osobou, ktorej hlavnou činnosťou je výroba alebo predaj cigariet, iných tabakových výrobkov, elektronických cigariet alebo plniacich fľaštičiek pre elektronické cigarety, zakázané.

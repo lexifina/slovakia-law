@@ -30,7 +30,7 @@
 
 - d) nabádať na konanie, ktorým sa hrubo poškodzuje životné prostredie.
 
-(8) Mediálna komerčná komunikácia týkajúca sa cigariet a iných tabakových výrobkov sa zakazuje. Obchádzanie tohto zákazu prostredníctvom používania značkových názvov, ochranných známok, emblémov alebo iných výrazných znakov týchto výrobkov sa zakazuje.
+(8) Mediálna komerčná komunikácia týkajúca sa cigariet, iných tabakových výrobkov, elektronických cigariet a plniacich fľaštičiek pre elektronické cigarety sa zakazuje. Obchádzanie tohto zákazu prostredníctvom používania značkových názvov, ochranných známok, emblémov alebo iných výrazných znakov týchto výrobkov sa zakazuje.
 
 (9) Mediálna komerčná komunikácia týkajúca sa alkoholických nápojov
 
