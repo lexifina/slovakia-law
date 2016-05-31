@@ -378,7 +378,11 @@ Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov 
 
 - 29. § 10 sa dopĺňa odsekmi 12 až 17, ktoré znejú:
 
-- „(13)
+- „(12)
+
+- Ak sa v období do 31. decembra 2023 vyplácanie náhrad neskončí do siedmich pracovných dní od vyhlásenia podľa § 8 ods. 3 alebo od rozhodnutia podľa § 3 ods. 5 písm. b), fond na základe údajov podľa § 12 ods. 1 zabezpečí, aby mali vkladatelia do piatich pracovných dní po podaní žiadosti o časť náhrady vyplatenú aspoň časť náhrady najmenej do výšky priemernej mesačnej nominálnej mzdy zamestnanca v národnom hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny štvrťrok predchádzajúci kalendárnemu štvrťroku, ktorý predchádza kalendárnemu štvrťroku, v ktorom bola podaná táto žiadosť. Rozdiel medzi takto vyplatenou náhradou a náhradou, ktorá patrí vkladateľovi, sa vyplatí podľa odseku 2. Ustanoveniami tohto odseku nie sú dotknuté lehoty na vyplácanie náhrad uvedené v § 28bf ods. 8.
+
+- (13)
 
 - Fond komunikuje s vkladateľom v slovenskom jazyku.
 
