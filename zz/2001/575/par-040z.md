@@ -1,0 +1,7 @@
+# § 40z
+
+(1) Pôsobnosť Ministerstva financií Slovenskej republiky v oblasti informatizácie spoločnosti podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
+
+(2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo financií Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ v príslušnom gramatickom tvare.
+
+(3) V súvislosti s prechodom kompetencií podľa odseku 1 prechádzajú od 1. júna 2016 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z Ministerstva financií Slovenskej republiky na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Majetok štátu, ktorý bol do 31. mája 2016 v správe Ministerstva financií Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií podľa odseku 1, prechádza od 1. júna 2016 do správy Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom financií Slovenskej republiky a Úradom podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
