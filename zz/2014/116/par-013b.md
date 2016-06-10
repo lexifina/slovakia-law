@@ -1,0 +1,5 @@
+# § 13b Prechodné ustanovenia k ročnému zúčtovaniu poistného za rok 2015
+
+(1) Údaje potrebné na výpočet ročného zúčtovania poistného za rok 2015 sú uvedené v prílohe č. 6.
+
+(2) Podkladom na ročné zúčtovanie poistného plateného štátom podľa § 9 za rok 2015 je aj počet poistencov štátu podľa § 11 ods. 7 písm. a) až l), n) až r) a t) až v) zákona, ktorí splnili podmienku uvedenú v § 11 ods. 8 zákona a ich vymeriavací základ znížený o vymeriavací základ zamestnanca podľa § 11 ods. 7 písm. v) zákona, na ktorý sa použila sadzba poistného podľa § 12 ods. 1 písm. a) druhého bodu zákona, neprekročil 15-násobok životného minima platného k prvému dňu kalendárneho roka rozhodujúceho obdobia alebo pomerná časť zníženého vymeriavacieho základu prislúchajúca k počtu kalendárnych dní, počas ktorých poistenec bol osobou podľa § 11 ods. 7 písm. a) až l), n) až r) a t) až v) zákona, neprekročila pomernú časť 15-násobku životného minima prislúchajúcu k počtu kalendárnych dní, počas ktorých poistenec bol osobou podľa § 11 ods. 7 písm. a) až l), n) až r) a t) až v) zákona.
