@@ -70,15 +70,15 @@
 
 - 24) Napríklad § 40 zákona č. 483/2001 Z. z., § 34 ods. 3 zákona č. 34/2002 Z. z.
 
-- 24a) § 18 zákona č. 540/2007 Z. z.
+- 24a) § 19 zákona č. 423/2015 Z. z.
 
 - 24aa) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+
+- 24aaa) § 34 zákona č. 423/2015 Z. z.
 
 - 25) Napríklad § 40 zákona č. 483/2001 Z. z., § 35 ods. 4 zákona č. 34/2002 Z. z.
 
 - 26) § 50 zákona č. 595/2003 Z. z.
-
-- 26a) § 2 ods. 1 a § 21 ods. 4 zákona č. 540/2007 Z. z.
 
 - 26aa) Napríklad § 25 zákona č. 147/1997 Z. z., § 34 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
