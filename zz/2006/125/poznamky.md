@@ -14,6 +14,8 @@
 
 - 3c) § 11 a 12 zákona č. 307/2014 Z. z. o niektorých opatreniach súvisiacich s oznamovaním protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
+- 3d) § 4 zákona č. 351/2015 Z. z. o cezhraničnej spolupráci pri vysielaní zamestnancov na výkon prác pri poskytovaní služieb a o zmene a doplnení niektorých zákonov.
+
 - 4) § 2 ods. 2 Obchodného zákonníka.
 
 - 6) § 52, § 223 až 228 Zákonníka práce.
@@ -34,7 +36,11 @@
 
 - 13) Napríklad zákon č. 124/2006 Z. z., vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 718/2002 Z. z. na zaistenie bezpečnosti a ochrany zdravia pri práci a bezpečnosti technických zariadení.
 
-- 14) § 5 ods. 2 až 5 Zákonníka práce.
+- 14) § 5 ods. 2 až 10 Zákonníka práce.
+
+- 14a) § 5 ods. 10 Zákonníka práce.
+
+- § 4 ods. 1 až 3 zákona č. 351/2015 Z. z.
 
 - 15) Zákon č. 462/2007 Z. z. o organizácii pracovného času v doprave a o zmene a doplnení zákona č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
@@ -45,6 +51,8 @@
 - Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon).
 
 - § 10 zákona č. 319/2013 Z. z. o pôsobnosti orgánov štátnej správy pre sprístupňovanie biocídnych výrobkov na trh a ich používanie a o zmene a doplnení niektorých zákonov (biocídny zákon).
+
+- Zákon č. 351/2015 Z. z.
 
 - 15aaa) § 7 a 13 zákona č. 307/2014 Z. z.
 
@@ -77,6 +85,8 @@
 - § 5 až 7 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
 - § 7 a 13 zákona č. 307/2014 Z. z.
+
+- Zákon č. 351/2015 Z. z.
 
 - 18ae) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
