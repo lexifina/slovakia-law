@@ -440,6 +440,18 @@ Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu 
 
 - Proti rozhodnutiu rady vo veciach, ktoré neboli zverené do pôsobnosti výkonného člena rady, nemožno podať rozklad.
 
+- (13)
+
+- Proti rozhodnutiu rady vo veciach, ktoré neboli zverené do pôsobnosti výkonného člena rady, možno podať správnu žalobu podľa osobitného predpisu<sup>28f</sup>) na príslušný súd.
+
+- (14)
+
+- Správnu žalobu podľa osobitného predpisu<sup>28f</sup>) možno na príslušný súd podať aj proti rozhodnutiu rady o rozklade.
+
+- (15)
+
+- Poučenie o možnosti podať správnu žalobu podľa osobitného predpisu<sup>28f</sup>) je obsahom rozhodnutia rady v pléne.
+
 - § 6f
 
 - Ochrana práv tretích osôb
@@ -493,6 +505,10 @@ Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu 
   - 28e)
 
   - § 6 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+  - 28f)
+
+  - § 177 až 193 Správneho súdneho poriadku.
 
   - 28g)
 
@@ -1111,6 +1127,18 @@ Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu 
 - „(5)
 
 - Doručením je rozhodnutie podľa odseku 1 vykonateľné.“.
+
+- 90. V § 43 odsek 2 znie:
+
+- „(2)
+
+- Osoba, ktorá o sebe tvrdí, že má byť účastníkom v rezolučnom konaní, môže správnou žalobou podľa osobitného predpisu<sup>83</sup>) napadnúť rozhodnutie, ktorým rada odmietne návrh podľa § 38 ods. 2.“.
+
+  - Poznámka pod čiarou k odkazu 83 znie:
+
+  - „83)
+
+  - § 179 Správneho súdneho poriadku.“.
 
 - 91. V § 47 sa odsek 1 dopĺňa písmenami p), q) a r), ktoré znejú:
 
