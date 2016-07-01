@@ -48,9 +48,9 @@
 
 - 12ca) Zákon č. 246/2015 Z. z. o správcoch bytových domov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
-- 12d) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 12d) Napríklad zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 12e) § 46 Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 12e) § 106, 112 a 113 Civilného sporového poriadku.
 
 - 13) Napr. § 54 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
@@ -60,7 +60,7 @@
 
 - Zákon č. 116/1990 Zb. v znení neskorších predpisov.
 
-- 15a) § 74 až 77a zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+- 15a) § 324 až 340 Civilného sporového poriadku.
 
 - 16) § 151b Občianskeho zákonníka.
 
@@ -88,7 +88,7 @@
 
 - Obchodný zákonník.
 
-- 23) Napríklad § 335 až 338 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 14 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
+- 23) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 14 ods. 1 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 111/1990 Zb. o štátnom podniku v znení neskorších predpisov.
 
 - 23a) Napríklad § 588 Občianskeho zákonníka, § 56 až 220 Obchodného zákonníka.
 
@@ -136,6 +136,6 @@
 
 - 33) § 50a Občianskeho zákonníka.
 
-- 34) Napríklad zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 335 až 338 Občianskeho súdneho poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 34) Napríklad zákon č. 7/2005 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 35) Zákon Národnej rady Slovenskej republiky č. 124/1996 Z. z. o Štátnom fonde rozvoja bývania v znení zákona Národnej rady Slovenskej republiky č. 1/1997 Z. z.
