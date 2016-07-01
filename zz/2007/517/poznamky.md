@@ -20,7 +20,7 @@
 
 - 11) § 442a Občianskeho zákonníka.
 
-- 12) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
+- 12) § 324 až 345 Civilného sporového poriadku.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
