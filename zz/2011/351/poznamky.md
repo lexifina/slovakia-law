@@ -160,6 +160,24 @@
 
 - 51) § 35 ods. 1 a § 60 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 51a) Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 51b) Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 51c) Zákon č. 45/2011 o kritickej infraštruktúre.
+
+- 51d) § 3 ods. 14 a 15 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 51e) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 51f) Napríklad zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 51g) § 52 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 51h) § 43b ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 51i) § 4 ods. 5 zákona č. 305/2005 Z. z.
+
 - 52) § 32 písm. a) a c) a § 55 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 53) Čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C115, 9. 5. 2008).
@@ -179,8 +197,6 @@
 - Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky pripojený k Zmluve o Európskej únii a k Zmluve o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012).
 
 - 59) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
-
-- 60) § 246 ods. 2 Občianskeho súdneho poriadku.
 
 - 60a) Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov.
 
