@@ -2,6 +2,12 @@
 
 - 2) § 116 Občianskeho zákonníka.
 
+- 2a) Civilný sporový poriadok.
+
+- Civilný mimosporový poriadok.
+
+- Správny súdny poriadok.
+
 - 3) § 12 ods. 1 písm. b) a § 13 písm. f) zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
 - 3a) § 140 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov.
@@ -27,6 +33,34 @@
 - 9) § 93 ods. 2 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení zákona č. 155/1999 Z. z.
 
 - § 6 ods. 2 písm. e), § 14 a § 55 ods. 7 zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení zákona č. 241/1998 Z. z.
+
+- 9a) Napríklad § 105 Trestného zákona, § 21 a 29 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní, § 6 zákona Národnej rady Slovenskej republiky č. 221/1994 Z. z. o preukazovaní pôvodu finančných prostriedkov pri privatizácii, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 12 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu, Civilný sporový poriadok, Civilný mimosporový poriadok.
+
+- 9b) Civilný sporový poriadok.
+
+- Civilný mimosporový poriadok.
+
+- 9c) Správny súdny poriadok.
+
+- 9d) Napríklad § 1 ods. 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska.
+
+- 9e) § 45 Správneho súdneho poriadku.
+
+- 9f) § 46 Správneho súdneho poriadku.
+
+- 9g) § 47, § 466 ods. 3 Správneho súdneho poriadku.
+
+- 9h) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+- 9i) § 45 ods. 1, § 178 ods. 2 Správneho súdneho poriadku.
+
+- 9j) § 45 ods. 3, § 350 Správneho súdneho poriadku.
+
+- 9k) § 45 ods. 4, § 359 ods. 1 Správneho súdneho poriadku.
+
+- 9l) § 45 ods. 2, § 244 ods. 2 Správneho súdneho poriadku.
+
+- 9m) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 10) Napríklad § 35 Občianskeho súdneho poriadku v znení neskorších predpisov, § 86 Trestného zákona v znení neskorších predpisov, § 21 a 29 zákona č. 2/1991 Zb. o kolektívnom vyjednávaní, § 6 zákona Národnej rady Slovenskej republiky č. 221/1994 Z. z. o preukazovaní pôvodu finančných prostriedkov pri privatizácii, zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, § 12 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu.
 
@@ -78,9 +112,9 @@
 
 - § 14a zákona č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 517/2008 Z. z.
 
-- 31) § 9 až 11 a § 84 až 89a Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 31) Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
-- § 13 až 26 zákona č. 141/1961 Zb. v znení neskorších predpisov.
+- § 13 až 24 Trestného poriadku.
 
 - 33) Zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 
