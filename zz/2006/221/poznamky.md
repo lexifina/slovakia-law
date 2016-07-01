@@ -80,11 +80,13 @@
 
 - 21) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
-- 22) Napríklad Občiansky súdny poriadok, Zákonník práce, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 22) Napríklad Zákonník práce, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22a) § 293 až 295 Občianskeho súdneho poriadku v znení zákona č. 519/1991 Z. z.
+- 22a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 22b) Napríklad § 293 až 296 Občianskeho súdneho poriadku v znení zákona č. 519/1991 Z. z.
+- Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
+
+- 22b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. v znení neskorších predpisov.
 
 - 22c) Zákon č. 67/2010 Z. z. o podmienkach uvedenia chemických látok a chemických zmesí na trh a o zmene a doplnení niektorých zákonov (chemický zákon) v znení zákona č. 339/2012 Z. z.
 
