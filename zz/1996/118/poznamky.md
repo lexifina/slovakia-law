@@ -84,7 +84,7 @@
 
 - 12a) § 2 ods. 2 zákona č. 492/2009 Z. z.
 
-- 12aa) Napríklad § 248 písm. d) zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov, § 7 písm. h) zákona č. 162/2015 Z. z. Správneho súdneho poriadku.
+- 12aa) § 7 písm. h) Správneho súdneho poriadku.
 
 - 13a) § 101 a 785 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -92,7 +92,7 @@
 
 - 13b) § 781 ods. 2 Občianskeho zákonníka.
 
-- 14) Napríklad § 76 ods. 1 písm. e), § 175e ods. 1 a 2, § 305 písm. b) zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+- 14) Napríklad § 325 ods. 2 písm. c) Civilného sporového poriadku, § 179 a 180 Civilného mimosporového poriadku.
 
 - 14a) § 29 ods. 3 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
