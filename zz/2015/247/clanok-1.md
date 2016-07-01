@@ -446,6 +446,416 @@ Zákon č. 351/2011 Z. z. o elektronických komunikáciách v znení zákona č.
 
 - Ustanoveniami odsekov 2 až 6 nie je dotknuté vlastnícke právo vlastníka nehnuteľnosti.“.
 
+- 69. Za § 67 sa vkladajú § 67a až 67g, ktoré vrátane nadpisov znejú:
+
+- „§ 67a
+
+- Prístup k existujúcej fyzickej infraštruktúre
+
+- (1)
+
+- Na účely tohto zákona sa rozumie
+
+- a)
+
+- inými službami služby výroby, prepravy alebo distribúcie plynu, výroby, prenosu alebo distribúcie elektriny, zabezpečovania verejného osvetlenia, výroby, distribúcie alebo dodávky tepla, prevádzkovania verejnej kanalizácie a prevádzky železničnej<sup>51a</sup>) a cestnej infraštruktúry, prístavov a leteckej infraštruktúry,
+
+- b)
+
+- prevádzkovateľom siete podnik podľa § 5 ods. 1, osoba, ktorá prevádzkuje fyzickú infraštruktúru, alebo osoba, ktorá uskutočňuje výstavbu siete alebo siete určenej na poskytovanie iných služieb alebo fyzickej infraštruktúry,
+
+- c)
+
+- vysokorýchlostnou sieťou sieť, ktorá je schopná zabezpečiť pripojenie všetkých užívateľov používajúcich služby poskytované prostredníctvom tejto siete s rýchlosťou najmenej 30 Mbit/s v jednom smere,
+
+- d)
+
+- stavbou taká budova alebo inžinierska stavba,<sup>51b</sup>) ktorá obsahuje jednu časť alebo viac častí fyzickej infraštruktúry,
+
+- e)
+
+- fyzickou infraštruktúrou v budove fyzická infraštruktúra nachádzajúca sa v priestoroch koncového užívateľa vrátane spoločných zariadení budovy, ktorá je využiteľná na zriadenie prístupových sietí schopných zabezpečiť pripojenie k službe a spojenie prístupového bodu s koncovým bodom siete,
+
+- f)
+
+- vysokorýchlostnou fyzickou infraštruktúrou v budove fyzická infraštruktúra v budove určená na umiestnenie vedenia alebo telekomunikačného zariadenia vysokorýchlostnej siete alebo ktorá umožňuje zriadenie vysokorýchlostnej siete v budove,
+
+- g)
+
+- prístupovým bodom fyzický bod vo vnútri budovy alebo mimo budovy, ku ktorému majú prístup podniky a ktorého prostredníctvom môžu podniky získať prístup k vysokorýchlostnej fyzickej infraštruktúre v budove.
+
+- (2)
+
+- Prevádzkovateľ siete má právo a na základe písomnej žiadosti podniku povinnosť rokovať s ním o prístupe k svojej fyzickej infraštruktúre a ak mu v tom nebránia dôvody ustanovené osobitnými predpismi<sup>2a</sup>) alebo ak tento zákon neustanovuje inak, na základe zmluvy poskytnúť podniku prístup k svojej fyzickej infraštruktúre za primeraných, nediskriminačných a transparentných podmienok vrátane ceny na účely umiestnenia vedení alebo telekomunikačných zariadení vysokorýchlostných sietí. Písomná žiadosť musí obsahovať kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa pre doručovanie, telefonický kontakt a emailová adresa, informácie o type, dĺžke a priemere vedenia a type a rozmeroch telekomunikačných zariadení vysokorýchlostných sietí, pre ktoré sa prístup požaduje, vrátane predpokladaného časového harmonogramu ich umiestnenia, predpokladaných technických požiadaviek, odhadovaných investícií a navrhovanej ceny za prístup k fyzickej infraštruktúre. Prevádzkovateľ siete je povinný zachovať mlčanlivosť ohľadom informácií, ktoré sú predmetom obchodného tajomstva, a iných obchodných informácií dôverného charakteru obsiahnutých v žiadosti podľa predchádzajúcej vety; to sa nevzťahuje na poskytnutie informácií úradu na účely riešenia sporu podľa odseku 5.
+
+- (3)
+
+- Odmietnuť prístup podľa odseku 2 je možné len na základe objektívnych, transparentných a primeraných kritérií, najmä z dôvodu
+
+- a)
+
+- technickej nevhodnosti fyzickej infraštruktúry, ku ktorej podnik žiada prístup na umiestnenie vedení alebo telekomunikačných zariadení vysokorýchlostných sietí,
+
+- b)
+
+- nedostatočného priestoru na umiestnenie vedení alebo telekomunikačných zariadení vysokorýchlostných sietí pri zohľadnení budúcich potrieb prevádzkovateľa siete, ktoré dostatočne preukáže,
+
+- c)
+
+- zaistenia bezpečnosti a ochrany verejného zdravia,
+
+- d)
+
+- zabezpečenia integrity a bezpečnosti akejkoľvek siete, najmä prvkov kritickej infraštruktúry,<sup>51c</sup>) ochrany utajovaných skutočností<sup>16</sup>) a citlivých informácií,<sup>51d</sup>)
+
+- e)
+
+- rizika škodlivého rušenia plánovaných elektronických komunikačných služieb poskytovaním iných služieb prostredníctvom tej istej fyzickej infraštruktúry,
+
+- f)
+
+- existencie referenčnej ponuky na prístup k určitým sieťovým prostriedkom, ktoré je možné využiť na účely umiestnenia vedení alebo telekomunikačných zariadení vysokorýchlostných sietí a ktorú uverejnil podnik na základe rozhodnutia úradu podľa § 18.
+
+- (4)
+
+- Prevádzkovateľ siete je povinný písomne oznámiť žiadajúcemu podniku dôvody odmietnutia prístupu najneskôr do dvoch mesiacov odo dňa doručenia úplnej žiadosti podľa odseku 2.
+
+- (5)
+
+- Ak prevádzkovateľ siete odmietol prístup alebo ak nedošlo k uzavretiu zmluvy podľa odseku 2 do dvoch mesiacov odo dňa doručenia úplnej žiadosti podľa odseku 2, je ktorákoľvek zo strán oprávnená predložiť úradu návrh na riešenie sporu.
+
+- (6)
+
+- Návrh na riešenie sporu podľa odseku 5, okrem náležitostí podľa osobitného predpisu,<sup>59</sup>) obsahuje doklad preukazujúci nedosiahnutie dohody.
+
+- (7)
+
+- Úrad rozhodne spor najneskôr do dvoch mesiacov od doručenia návrhu podľa odseku 6. Ak je to potrebné na rozhodnutie, úrad si vyžiada záväzné stanovisko dotknutých orgánov a v takomto prípade preruší konanie až do dňa doručenia záväzného stanoviska. Dotknutý orgán poskytne úradu záväzné stanovisko najneskôr do jedného mesiaca odo dňa doručenia písomnej žiadosti úradu o záväzné stanovisko obsahujúcej podklady a informácie potrebné na vydanie záväzného stanoviska. Dotknuté orgány sú povinné na tento účel poskytnúť úradu súčinnosť. Úrad pri rozhodovaní zohľadní potrebu vytvorenia a zabezpečenia podmienok efektívnej hospodárskej súťaže v prospech užívateľov, pričom určí technické a prevádzkové podmienky prístupu a pravidlá pre stanovenie ceny a rozdelenie nákladov. V odôvodnených prípadoch, najmä ak je potrebné vyžiadať si záväzné stanovisko dotknutých orgánov, môže úrad lehotu na vydanie rozhodnutia predĺžiť, najviac však o dva mesiace. O predĺžení lehoty úrad informuje obe strany sporu.
+
+- (8)
+
+- Ustanoveniami odsekov 2 až 7 nie je dotknuté vlastnícke právo vlastníka fyzickej infraštruktúry a nie je dotknuté ani vlastnícke právo vlastníka nehnuteľnosti.
+
+- (9)
+
+- Úrad konanie zastaví, ak sa konanie netýka povinností vyplývajúcich z tohto zákona, z rozhodnutia, zo všeobecne záväzného právneho predpisu vydaného úradom alebo z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.
+
+- § 67b
+
+- Informácie o dostupnosti fyzickej infraštruktúry
+
+- (1)
+
+- Ak tento zákon neustanovuje inak, sú ústredné orgány štátnej správy, miestne orgány štátnej správy, vyššie územné celky a obce (ďalej len „povinná osoba“) a prevádzkovatelia sietí povinní na základe písomnej žiadosti podniku poskytnúť
+
+- a)
+
+- informácie o dostupnosti existujúcej fyzickej infraštruktúry najmenej v rozsahu umiestnenie a trasa, typ a súčasné využívanie fyzickej infraštruktúry a kontaktné údaje prevádzkovateľa siete v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa a
+
+- b)
+
+- informácie o plánovaných alebo prebiehajúcich stavbách v rozsahu miesto a druh stavby, časti fyzickej infraštruktúry, ktoré sú predmetom alebo súčasťou stavby, odhadovaný dátum začatia stavby a jej trvanie a kontaktné údaje osoby poverenej vedením uskutočňovania stavby v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa.
+
+- (2)
+
+- Podnik v žiadosti podľa odseku 1 uvedie kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa a jednoznačne identifikuje geografickú oblasť, v ktorej plánuje umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete.
+
+- (3)
+
+- Povinnosť podľa odseku 1 sa nevzťahuje na informácie týkajúce sa prvkov kritickej infraštruktúry, informácie, ktoré sú predmetom obchodného tajomstva alebo utajovanou skutočnosťou,<sup>16</sup>) na citlivé informácie<sup>51d</sup>) a na informácie, ktorých poskytnutím by mohlo dôjsť k ohrozeniu bezpečnosti alebo integrity akejkoľvek siete.
+
+- (4)
+
+- Ak povinná osoba má informácie podľa odseku 1 k dispozícii, sprístupní ich podniku najneskôr do dvoch mesiacov odo dňa doručenia písomnej žiadosti. V rovnakej lehote podniku sprístupní informácie na základe písomnej žiadosti aj prevádzkovateľ siete za primeraných, nediskriminačných a transparentných podmienok. Takto získané informácie možno použiť len na účely ustanovené týmto paragrafom.
+
+- (5)
+
+- Prevádzkovateľ siete je povinný za primeraných, nediskriminačných a transparentných podmienok umožniť podniku na základe jeho odôvodnenej písomnej žiadosti prieskum konkrétnych častí fyzickej infraštruktúry na mieste. Podnik v žiadosti uvedie, ktoré časti fyzickej infraštruktúry chce využiť pre umiestnenie vedenia alebo telekomunikačného zariadenia vysokorýchlostnej siete, predpokladaný časový harmonogram ich umiestnenia a predpokladané technické požiadavky. Povinnosť umožniť prieskum konkrétnych častí fyzickej infraštruktúry sa vzťahuje len na fyzickú infraštruktúru, o ktorej podnik získal informácie postupom podľa odseku 1.
+
+- (6)
+
+- Prevádzkovateľ siete je povinný umožniť podniku prieskum alebo mu písomne oznámiť dôvody pre odmietnutie prieskumu konkrétnych častí fyzickej infraštruktúry na mieste do jedného mesiaca odo dňa doručenia žiadosti podľa odseku 5. Odôvodnené náklady, ktoré vzniknú prevádzkovateľovi siete v súvislosti s umožnením prieskumu konkrétnych častí fyzickej infraštruktúry, hradí podnik.
+
+- (7)
+
+- Ak prevádzkovateľ siete neposkytol podniku informácie do dvoch mesiacov odo dňa podania žiadosti podľa odseku 1, odmietol prieskum na mieste alebo ak písomne neoznámil podniku dôvody na odmietnutie prieskumu konkrétnych častí fyzickej infraštruktúry na mieste do jedného mesiaca odo dňa doručenia úplnej žiadosti podľa odseku 5, je ktorákoľvek zo strán oprávnená predložiť úradu návrh na riešenie sporu.
+
+- (8)
+
+- Návrh na riešenie sporu podľa odseku 7 okrem náležitostí podľa osobitného predpisu,<sup>59</sup>) obsahuje doklad preukazujúci nedosiahnutie dohody.
+
+- (9)
+
+- Úrad rozhodne spor najneskôr do dvoch mesiacov odo dňa doručenia návrhu podľa odseku 8. Ak je to potrebné pre rozhodnutie, úrad si vyžiada záväzné stanovisko dotknutých orgánov a v takomto prípade preruší konanie až do dňa doručenia záväzného stanoviska. Dotknutý orgán poskytne úradu záväzné stanovisko najneskôr do jedného mesiaca odo dňa doručenia písomnej žiadosti úradu o záväzné stanovisko obsahujúcej podklady a informácie potrebné pre vydanie záväzného stanoviska. Dotknuté orgány sú povinné na tento účel poskytnúť úradu súčinnosť. Úrad pri rozhodovaní zohľadní potrebu vytvorenia a zabezpečenia podmienok efektívnej hospodárskej súťaže v prospech užívateľov. V odôvodnených prípadoch, najmä ak je potrebné vyžiadať si záväzné stanovisko dotknutých orgánov, môže úrad lehotu na vydanie rozhodnutia predĺžiť, najviac však o dva mesiace. O predĺžení lehoty úrad informuje obe strany sporu.
+
+- (10)
+
+- Úrad konanie zastaví, ak sa konanie netýka povinností vyplývajúcich z tohto zákona, z rozhodnutia, zo všeobecne záväzného právneho predpisu vydaného úradom alebo z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.
+
+- (11)
+
+- Podnik je povinný zachovať mlčanlivosť ohľadom informácií, ktoré sú predmetom obchodného tajomstva, a iných obchodných informácií dôverného charakteru, ku ktorým získal prístup; to sa nevzťahuje na poskytnutie informácií úradu na účely riešenia sporu podľa odseku 9.
+
+- § 67c
+
+- Koordinácia výstavby
+
+- (1)
+
+- Prevádzkovateľ siete má právo a v prípade stavebných prác úplne alebo čiastočne financovaných z verejných prostriedkov<sup>51e</sup>) povinnosť vyhovieť za primeraných, nediskriminačných a transparentných podmienok každej odôvodnenej písomnej žiadosti podniku o koordináciu činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete. Písomná žiadosť musí obsahovať kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa, informácie o type, dĺžke a priemere vedenia a type a rozmeroch telekomunikačných zariadení vysokorýchlostných sietí, ktorých umiestnenie sa predpokladá, vrátane predpokladaného časového harmonogramu ich umiestnenia a predpokladaných technických požiadaviek. Prevádzkovateľ siete má právo odmietnuť koordináciu činností spojených s uskutočnením stavby v prípade prác úplne alebo čiastočne financovaných z verejných prostriedkov, ktoré sa týkajú prvkov kritickej infraštruktúry, ochrany utajovaných skutočností a citlivých informácií.<sup>51d</sup>)
+
+- (2)
+
+- Prevádzkovateľ siete žiadosti podniku podľa odseku 1 nie je povinný vyhovieť, ak
+
+- a)
+
+- koordinácia činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete vyvolá vznik dodatočných nákladov vrátane nákladov vyplývajúcich z nedodržania termínov dokončenia stavby,
+
+- b)
+
+- koordinácia činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete bude brániť výkonu kontroly prevádzkovateľa siete nad koordináciou stavby,
+
+- c)
+
+- podnik predloží písomnú žiadosť o koordináciu činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete menej ako jeden mesiac pred predpokladaným termínom predloženia podkladov, ktoré je prevádzkovateľ siete povinný predložiť stavebnému úradu podľa osobitného predpisu<sup>51b</sup>) s cieľom uskutočniť stavbu alebo jej zmenu,
+
+- d)
+
+- musí bezodkladne uskutočniť stavbu z dôvodu zabezpečenia plnenia povinností vyplývajúcich z osobitných predpisov.<sup>51f</sup>)
+
+- (3)
+
+- Podmienky koordinácie činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete vrátane pravidiel úhrady nákladov spojených s koordináciou a uskutočnením stavby sa dohodnú v zmluve uzavretej medzi prevádzkovateľom siete a podnikom. Odôvodnené náklady, ktoré vzniknú prevádzkovateľovi siete v súvislosti s koordináciou činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete, uhrádza podnik.
+
+- (4)
+
+- Ak v prípade prác úplne alebo čiastočne financovaných z verejných prostriedkov nedôjde k uzavretiu zmluvy podľa odseku 3 do jedného mesiaca odo dňa doručenia žiadosti podľa odseku 1, je ktorákoľvek zo strán oprávnená predložiť úradu návrh na riešenie sporu.
+
+- (5)
+
+- Návrh na riešenie sporu podľa odseku 4, okrem náležitostí podľa osobitného predpisu,<sup>59</sup>) obsahuje doklad preukazujúci nedosiahnutie dohody.
+
+- (6)
+
+- Úrad rozhodne spor najneskôr do dvoch mesiacov odo dňa doručenia návrhu podľa odseku 5. Ak je to potrebné na rozhodnutie, úrad si vyžiada záväzné stanovisko dotknutých orgánov a v takomto prípade preruší konanie až do dňa doručenia záväzného stanoviska. Dotknutý orgán poskytne úradu záväzné stanovisko najneskôr do jedného mesiaca odo dňa doručenia písomnej žiadosti úradu o záväzné stanovisko obsahujúcej podklady a informácie potrebné na vydanie záväzného stanoviska. Dotknuté orgány sú povinné na tento účel poskytnúť úradu súčinnosť. Úrad pri rozhodovaní zohľadní potrebu vytvorenia a zabezpečenia podmienok efektívnej hospodárskej súťaže v prospech užívateľov, pričom určí podmienky koordinácie a pravidlá na stanovenie ceny a rozdelenie nákladov. V odôvodnených prípadoch, najmä ak je potrebné vyžiadať si záväzné stanovisko dotknutých orgánov, môže úrad lehotu na vydanie rozhodnutia predĺžiť, najviac však o dva mesiace. O predĺžení lehoty úrad informuje obe strany sporu.
+
+- (7)
+
+- Úrad konanie zastaví, ak sa konanie netýka povinností vyplývajúcich z tohto zákona, z rozhodnutia, zo všeobecne záväzného právneho predpisu vydaného úradom alebo z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.
+
+- § 67d
+
+- Informácie o plánovaných stavbách
+
+- (1)
+
+- Ak tento zákon neustanovuje inak, prevádzkovateľ siete je povinný na základe písomnej žiadosti podniku o koordináciu činností spojených s uskutočnením stavby s cieľom umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete písomne poskytnúť podniku najmenej tieto informácie o prebiehajúcich alebo plánovaných stavbách:
+
+- a)
+
+- miesto a druh stavby,
+
+- b)
+
+- časti fyzickej infraštruktúry, ktoré sú predmetom alebo súčasťou stavby,
+
+- c)
+
+- odhadovaný dátum začatia stavby a jej trvanie,
+
+- d)
+
+- kontaktné údaje osoby oprávnenej na koordinovanie stavby v rozsahu meno, priezvisko, adresa pre doručovanie, telefonický kontakt a emailová adresa.
+
+- (2)
+
+- Ak ide o stavby, pri ktorých sa vyžaduje stavebné povolenie alebo územné rozhodnutie, je prevádzkovateľ siete povinný poskytnúť podniku informácie podľa odseku 1 týkajúce sa stavieb
+
+- a)
+
+- s vydaným stavebným povolením alebo územným rozhodnutím,
+
+- b)
+
+- pri ktorých prebieha konanie o vydanie stavebného povolenia alebo územného rozhodnutia a
+
+- c)
+
+- pri ktorých prevádzkovateľ siete predpokladá podanie žiadosti o vydanie stavebného povolenia alebo územného rozhodnutia v nasledujúcich šiestich mesiacoch.
+
+- (3)
+
+- Ak ide o stavby, pri ktorých sa vyžaduje ohlásenie stavebnému úradu, je prevádzkovateľ siete povinný poskytnúť podniku informácie podľa odseku 1 týkajúce sa stavieb,
+
+- a)
+
+- ku ktorým bolo prevádzkovateľovi siete doručené písomné oznámenie stavebného úradu, že proti uskutočneniu stavby nemá námietky,
+
+- b)
+
+- ktorých uskutočnenie prevádzkovateľ siete písomne ohlásil stavebnému úradu, ale zatiaľ nebolo doručené písomné oznámenie stavebného úradu, že proti uskutočneniu stavby nemá námietky,
+
+- c)
+
+- pri ktorých prevádzkovateľ predpokladá podanie ohlásenia stavebnému úradu v nasledujúcich šiestich mesiacoch.
+
+- (4)
+
+- Ak ide o stavby, pri ktorých sa nevyžaduje stavebné povolenie, územné rozhodnutie ani ohlásenie stavebnému úradu, je prevádzkovateľ siete povinný poskytnúť podniku informácie podľa odseku 1 o stavbách, ktoré prevádzkovateľ siete predpokladá uskutočniť v nasledujúcich šiestich mesiacoch.
+
+- (5)
+
+- Prevádzkovateľ siete je povinný poskytnúť podniku za primeraných, nediskriminačných a transparentných podmienok informácie podľa odseku 1 do dvoch týždňov odo dňa doručenia písomnej žiadosti. Písomná žiadosť musí obsahovať kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa, identifikáciu geografickej oblasti, v ktorej podnik plánuje umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete, informácie o type, dĺžke a priemere vedenia a type a rozmeroch telekomunikačných zariadení vysokorýchlostných sietí vrátane predpokladaného časového harmonogramu ich umiestnenia a predpokladaných technických požiadaviek. Takto získané informácie možno použiť len na účely ustanovené týmto paragrafom.
+
+- (6)
+
+- Prevádzkovateľ siete môže odmietnuť poskytnutie informácií podľa odseku 1, ak požadované informácie zverejnil v elektronickej podobe.
+
+- (7)
+
+- Prevádzkovateľ siete neposkytne podniku informácie týkajúce sa prvkov kritickej infraštruktúry, informácie, ktoré sú predmetom obchodného tajomstva, utajovanou skutočnosťou,<sup>16</sup>) citlivé informácie<sup>51d</sup>) alebo informácie, ktorých poskytnutím by mohlo dôjsť k ohrozeniu bezpečnosti alebo integrity akejkoľvek siete.
+
+- (8)
+
+- Ak prevádzkovateľ siete neposkytne podniku informácie v lehote podľa odseku 5, je ktorákoľvek zo strán oprávnená predložiť úradu návrh na riešenie sporu.
+
+- (9)
+
+- Návrh na riešenie sporu podľa odseku 8, okrem náležitostí podľa osobitného predpisu,<sup>59</sup>) obsahuje doklad preukazujúci nedosiahnutie dohody.
+
+- (10)
+
+- Úrad rozhodne spor najneskôr do dvoch mesiacov odo dňa doručenia návrhu podľa odseku 9. Ak je to potrebné na rozhodnutie, úrad si vyžiada záväzné stanovisko dotknutých orgánov a v takomto prípade preruší konanie až do dňa doručenia záväzného stanoviska. Dotknutý orgán poskytne úradu záväzné stanovisko najneskôr do jedného mesiaca odo dňa doručenia písomnej žiadosti úradu o záväzné stanovisko obsahujúcej podklady a informácie potrebné na vydanie záväzného stanoviska. Dotknuté orgány sú povinné na tento účel poskytnúť úradu súčinnosť. Úrad pri rozhodovaní zohľadní potrebu vytvorenia a zabezpečenia podmienok efektívnej hospodárskej súťaže v prospech užívateľov, pričom určí aj pravidlá na poskytnutie informácií podľa odseku 1. V odôvodnených prípadoch, najmä ak je potrebné vyžiadať si záväzné stanovisko dotknutých orgánov, môže úrad lehotu na vydanie rozhodnutia predĺžiť, najviac však o dva mesiace. O predĺžení lehoty úrad informuje obe strany sporu.
+
+- (11)
+
+- Úrad konanie zastaví, ak sa konanie netýka povinností vyplývajúcich z tohto zákona, z rozhodnutia, zo všeobecne záväzného právneho predpisu vydaného úradom alebo z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.
+
+- § 67e
+
+- (1)
+
+- Každá novopostavená budova a budova, ktorá prechádza stavebnými úpravami vnútorných rozvodov,<sup>51g</sup>) na ktorých uskutočnenie sa vyžaduje stavebné povolenie, musí byť vybavená vysokorýchlostnou fyzickou infraštruktúrou v budove a prístupovým bodom.
+
+- (2)
+
+- Povinnosť podľa odseku 1 sa nevzťahuje na
+
+- a)
+
+- budovy a pamätníky chránené z dôvodu architektonickej alebo historickej hodnoty alebo ako súčasť charakteristického prostredia,
+
+- b)
+
+- kostoly a iné budovy používané ako miesta na bohoslužby alebo na náboženské podujatia,
+
+- c)
+
+- budovy, ktoré sú dočasnými stavbami s plánovaným časom užívania kratším ako dva roky,
+
+- d)
+
+- vojenské objekty, priemyselné stavby, stavby jadrových zariadení a stavby súvisiace s jadrovým zariadením nachádzajúce sa v areáli ohraničenom hranicami jadrového zariadenia, dielne a nebytové poľnohospodárske budovy,
+
+- e)
+
+- budovy, ktoré sú určené na užívanie menej než štyri mesiace v roku alebo na obmedzené užívanie počas roka,
+
+- f)
+
+- rodinné domy,<sup>51h</sup>)
+
+- g)
+
+- zariadenia sociálnoprávnej ochrany detí a sociálnej kurately.<sup>51i</sup>)
+
+- § 67f
+
+- Prístup k fyzickej infraštruktúre v budove
+
+- (1)
+
+- Prevádzkovateľ siete, ktorý prevádzkuje prístupový bod, alebo vlastník prístupového bodu je povinný na základe písomnej žiadosti podniku umožniť mu za primeraných, nediskriminačných a transparentných podmienok vrátane ceny a nákladov zriadenie siete až po prístupový bod na náklady podniku.
+
+- (2)
+
+- Ak by vybudovanie paralelnej fyzickej infraštruktúry k existujúcej fyzickej infraštruktúre v budove nebolo technicky uskutočniteľné, bolo by možné ho uskutočniť len s obmedzením využívania cudzích nehnuteľností alebo na jeho uskutočnenie vlastník alebo správca budovy neudelil písomný súhlas do tridsiatich dní odo dňa predloženia písomnej žiadosti podniku o súhlas s vybudovaním fyzickej infraštruktúry v budove, je prevádzkovateľ siete, ktorý prevádzkuje fyzickú infraštruktúru v budove alebo vlastník fyzickej infraštruktúry v budove, povinný na základe písomnej žiadosti podniku umožniť mu za primeraných, nediskriminačných a transparentných podmienok vrátane ceny a nákladov, prístup k existujúcej fyzickej infraštruktúre v budove na účely umiestnenia vedenia alebo telekomunikačného zariadenia vysokorýchlostnej siete.
+
+- (3)
+
+- Písomná žiadosť podľa odsekov 1 a 2 musí obsahovať kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa, informácie o type, dĺžke a priemere vedenia a type a rozmeroch telekomunikačných zariadení vysokorýchlostných sietí vrátane predpokladaného časového harmonogramu ich umiestnenia a predpokladaných technických požiadaviek.
+
+- (4)
+
+- Zriadenie siete po prístupový bod podľa odseku 1 a prístup k fyzickej infraštruktúre v budove podľa odseku 2 je možné odmietnuť iba z dôvodu technickej neuskutočniteľnosti.
+
+- (5)
+
+- Ak prevádzkovateľ siete, ktorý prevádzkuje prístupový bod alebo fyzickú infraštruktúru v budove, alebo vlastník prístupového bodu alebo fyzickej infraštruktúry v budove nevyhovie žiadosti podniku podľa odsekov 1 a 2 do dvoch mesiacov odo dňa doručenia písomnej žiadosti podniku, je ktorákoľvek zo strán oprávnená predložiť úradu návrh na riešenie sporu.
+
+- (6)
+
+- Návrh na riešenie sporu podľa odseku 5, okrem náležitostí podľa osobitného predpisu,<sup>59</sup>) obsahuje doklad preukazujúci nedosiahnutie dohody.
+
+- (7)
+
+- Úrad rozhodne spor najneskôr do dvoch mesiacov odo dňa doručenia návrhu podľa odseku 6. Ak je to potrebné na rozhodnutie, úrad si vyžiada záväzné stanovisko dotknutých orgánov a v takomto prípade preruší konanie až do dňa doručenia záväzného stanoviska. Dotknutý orgán poskytne úradu záväzné stanovisko najneskôr do jedného mesiaca odo dňa doručenia písomnej žiadosti úradu o záväzné stanovisko obsahujúcej podklady a informácie potrebné na vydanie záväzného stanoviska. Dotknuté orgány sú povinné na tento účel poskytnúť úradu súčinnosť. Úrad pri rozhodovaní zohľadní potrebu vytvorenia a zabezpečenia podmienok efektívnej hospodárskej súťaže v prospech užívateľov, pričom určí podmienky zriadenia siete podľa odseku 1 alebo prístupu podľa odseku 2. V odôvodnených prípadoch, najmä ak je potrebné vyžiadať si záväzné stanovisko dotknutých orgánov, môže úrad lehotu na vydanie rozhodnutia predĺžiť, najviac však o dva mesiace. O predĺžení lehoty úrad informuje obe strany sporu.
+
+- (8)
+
+- Úrad konanie zastaví, ak sa konanie netýka povinností vyplývajúcich z tohto zákona, z rozhodnutia, zo všeobecne záväzného právneho predpisu vydaného úradom alebo z medzinárodnej zmluvy, ktorou je Slovenská republika viazaná.
+
+- (9)
+
+- Ak budova nie je vybavená fyzickou infraštruktúrou v budove, ak využitie existujúcej fyzickej infraštruktúry v budove pre vysokorýchlostnú sieť nie je technicky uskutočniteľné alebo ak úrad v spore podľa odseku 7 rozhodol, že využitie existujúcej fyzickej infraštruktúry v budove nie je technicky uskutočniteľné, je vlastník budovy povinný po splnení podmienok podľa § 66 umožniť podniku ukončiť svoju vysokorýchlostnú sieť v priestoroch účastníka, ak s tým účastník súhlasí. Podnik je povinný počínať si tak, aby nespôsobil škodu a aby neobmedzil vlastníka alebo užívateľa nehnuteľnosti.
+
+- (10)
+
+- Ustanoveniami odsekov 1 až 9 nie je dotknuté vlastnícke právo vlastníka prístupového bodu alebo fyzickej infraštruktúry v budove, právo prevádzkovateľa prístupového bodu alebo fyzickej infraštruktúry v budove ani vlastnícke právo vlastníka nehnuteľnosti.
+
+- § 67g
+
+- Ministerstvo oznámi Európskej komisii názov a sídlo orgánu určeného na riešenie sporov podľa § 67a až 67f, ako aj každú zmenu v oznámených údajoch predtým, než takáto zmena nadobudne účinnosť.“.
+
+  - Poznámky pod čiarou k odkazom 51a až 51i znejú:
+
+  - „51a)
+
+  - Zákon č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - 51b)
+
+  - Zákon č. 50/1976 Zb. v znení neskorších predpisov.
+
+  - 51c)
+
+  - Zákon č. 45/2011 o kritickej infraštruktúre.
+
+  - 51d)
+
+  - § 3 ods. 14 a 15 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - 51e)
+
+  - § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+  - 51f)
+
+  - Napríklad zákon č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - 51g)
+
+  - § 52 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+  - 51h)
+
+  - § 43b ods. 3 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+  - 51i)
+
+  - § 4 ods. 5 zákona č. 305/2005 Z. z.“.
+
 - 70. V § 68 ods. 5 sa slová „1,5 m“ nahrádzajú slovami „0,5 m“.
 
 - 71. V § 73 odseky 1 až 3 znejú:
