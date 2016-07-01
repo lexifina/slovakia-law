@@ -86,7 +86,7 @@
 
 - 13o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
-- 14) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
+- 14) Napríklad Civilný sporový poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
 
 - 15) Napríklad zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
@@ -334,7 +334,7 @@
 
 - 30zu) § 44 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 30zv) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 30zv) § 7 písm. h) Správneho súdneho poriadku.
 
 - 30zx) § 3 ods. 1 zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
@@ -568,7 +568,7 @@
 
 - 72b) Napríklad § 8 ods. 5 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 72c) Napríklad § 2 ods. 3 a § 53 ods. 1 a 4 Občianskeho zákonníka, § 87 písm. f) a § 88 ods. 2 Občianskeho súdneho poriadku, čl. 6 a 19 nariadenia Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) (Ú. v. EÚ L 177, 4. 7. 2008) v platnom znení.
+- 72c) Napríklad § 2 ods. 3 a § 53 ods. 1 a 4 Občianskeho zákonníka, § 19 písm. d) a § 20 písm. e) Civilného sporového poriadku, čl. 6 a 19 nariadenia Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) (Ú. v. EÚ L 177, 4. 7. 2008) v platnom znení.
 
 - 72d) § 2 písm. m) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov.
 
@@ -596,7 +596,11 @@
 
 - 78) Zákon Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov.
 
-- 79) Občiansky súdny poriadok.
+- 79) Civilný sporový poriadok.
+
+- Civilný mimosporový poriadok.
+
+- Správny súdny poriadok.
 
 - 80) Trestný poriadok v znení neskorších predpisov.
 
@@ -658,7 +662,7 @@
 
 - 87aa) § 75 ods. 12 zákona č. 7/2005 Z. z.
 
-- 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
+- 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
 
@@ -692,7 +696,7 @@
 
 - Zákon č. 244/2002 Z. z. v znení neskorších predpisov.
 
-- 88l) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 88l) Napríklad Civilný sporový poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 88m) Zákon č. 244/2002 Z. z.
 
@@ -712,7 +716,7 @@
 
 - 96) Usmernenie Európskej centrálnej banky č. ECB/2006/9 (2006/525/ES) zo 14. júla 2006 o niektorých prípravách na prechod na hotovostné euro a o predzásobovaní a druhotnom predzásobovaní eurobankovkami a euromincami mimo eurozóny (Ú.v. EÚ L 207, 28. 7. 2006).
 
-- 97) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, § 251 až 351 Občianskeho súdneho poriadku.
+- 97) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - 98) Napríklad § 17a a § 17b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
