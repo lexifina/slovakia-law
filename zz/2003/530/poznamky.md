@@ -98,7 +98,7 @@
 
 - 15c) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 16) Občiansky súdny poriadok.
+- 16) Civilný mimosporový poriadok.
 
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
@@ -108,7 +108,7 @@
 
 - 18) § 3a, § 9 ods. 4 a § 21 ods. 7 až 9 Obchodného zákonníka.
 
-- 19) § 53 Občianskeho súdneho poriadku.
+- 19) § 102 Civilného sporového poriadku.
 
 - 21) § 7 ods. 2 zákona č. 275/2006 Z. z.
 
