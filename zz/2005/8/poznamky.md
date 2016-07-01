@@ -4,6 +4,8 @@
 
 - 2) § 2 ods. 1 Obchodného zákonníka.
 
+- 2a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
 - 3) Napríklad § 54 ods. 3 až 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení zákona č. 603/2003 Z. z., § 148 ods. 2 a 3 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch), § 52 ods. 3 a 4 zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 7/2005 Z. z., § 110 zákona č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
 
 - 4) § 9 zákona č. 7/2005 Z. z.
