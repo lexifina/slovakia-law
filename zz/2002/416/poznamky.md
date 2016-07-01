@@ -22,7 +22,7 @@
 
 - 12) § 134 a 135 Zákonníka práce.
 
-- 13) Občiansky súdny poriadok.
+- 13) Civilný sporový poriadok.
 
 - 14) Čl. 44 ods. 2 Ústavy Slovenskej republiky.
 
