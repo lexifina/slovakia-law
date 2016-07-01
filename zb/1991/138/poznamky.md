@@ -96,7 +96,7 @@
 
 - 21d) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 21e) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 21e) Napríklad zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 22) § 2 ods. 2 a § 3 zákona SNR č. 377/1990 Zb. v znení zákona SNR č. 523/1990 Zb.
 
