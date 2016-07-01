@@ -34,4 +34,4 @@
 
 (10) Na rozhodovanie o spore medzi centrálnym správcom a vypožičiavateľom o rozsahu vypožičiavateľom užívaného nehnuteľného majetku štátu, primeranosti umiestnenia vypožičiavateľa alebo o vhodnosti stavu nehnuteľného majetku štátu užívaného vypožičiavateľom sa primerane použije § 7.
 
-(11) Na rozhodnutie o prechode správy nehnuteľného majetku štátu podľa odseku 2 sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) toto rozhodnutie nie je preskúmateľné súdom.
+(11) Na rozhodnutie o prechode správy nehnuteľného majetku štátu podľa odseku 2 sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) toto rozhodnutie nie je preskúmateľné správnym súdom.

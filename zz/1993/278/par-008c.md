@@ -18,4 +18,4 @@
 
 - d) ministerstvo financií v prípadoch neuvedených v písmenách a) až c).
 
-(3) Súhlas s nakladaním s majetkom štátu podľa tohto zákona je možné udeliť len vtedy, ak správca dodržal všetky podmienky ustanovené týmto zákonom a osobitnými zákonmi vzťahujúcimi sa na nakladanie s majetkom štátu. Na udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) tieto rozhodnutia nie sú preskúmateľné súdom.
+(3) Súhlas s nakladaním s majetkom štátu podľa tohto zákona je možné udeliť len vtedy, ak správca dodržal všetky podmienky ustanovené týmto zákonom a osobitnými zákonmi vzťahujúcimi sa na nakladanie s majetkom štátu. Na udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní;<sup>8</sup>) tieto rozhodnutia nie sú preskúmateľné správnym súdom.
