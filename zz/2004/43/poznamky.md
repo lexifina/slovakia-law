@@ -150,7 +150,7 @@
 
 - 63) § 3 ods. 4 zákona č. 429/2002 Z. z.
 
-- 64) Občiansky súdny poriadok.
+- 64) Civilný sporový poriadok.
 
 - 65) Trestný poriadok.
 
@@ -212,7 +212,7 @@
 
 - 87) Napríklad § 2 ods. 1 písm. d) a § 4 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z., § 91 ods. 4 písm. h) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 88) Občiansky súdny poriadok.
+- 88) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
