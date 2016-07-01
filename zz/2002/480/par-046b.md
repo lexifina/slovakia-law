@@ -8,6 +8,8 @@
 
 - c) cudzinec uvedený v § 46a ods. 1 zomrel.
 
-(2) Proti rozhodnutiu o zastavení konania podľa odseku 1 nemožno podať rozklad. V prípadoch podľa odseku 1 písm. a) a c) sa písomné rozhodnutie nevydáva; rozhodnutie o zastavení konania sa vyznačí iba v spise.
+(2) Proti rozhodnutiu ministerstva o zastavení konania podľa odseku 1 nemožno podať rozklad; toto rozhodnutie ministerstva nie je preskúmateľné správnym súdom.
 
-(3) Ak sa konanie o odovzdaní do iného štátu zastaví podľa odseku 1 písm. a), v zisťovaní, či je iný štát príslušný na konanie o udelenie azylu, sa pokračuje v konaní o udelenie azylu.
+(3) Rozhodnutie ministerstva o zastavení konania podľa odseku 1 písm. a) a c) sa iba vyznačí v spise.
+
+(4) Ak sa konanie o odovzdaní do iného štátu zastaví podľa odseku 1 písm. a), v zisťovaní, či je iný štát príslušný na konanie o udelenie azylu, sa pokračuje v konaní o udelenie azylu.

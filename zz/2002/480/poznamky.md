@@ -38,10 +38,6 @@
 
 - 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
-- 10) § 250l Občianskeho súdneho poriadku.
-
-- 11) § 250n Občianskeho súdneho poriadku.
-
 - 11a) Napríklad Trestný poriadok.
 
 - 11ab) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
