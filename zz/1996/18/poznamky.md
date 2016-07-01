@@ -50,8 +50,6 @@
 
 - 17) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 18) § 244 a nasl. Občianskeho súdneho poriadku.
-
 - 18a) Zákon č. 276/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 507/2001 Z. z. v znení neskorších predpisov.
@@ -62,7 +60,7 @@
 
 - 19a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
-- 20) § 248 ods. 3 zákona č. 99/1963 Zb. Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 20) § 7 písm. h) Správneho súdneho poriadku.
 
 - 21) § 3 zákona Slovenskej národnej rady č. 500/1991 Zb. o pôsobnosti obcí vo veciach nájmu a podnájmu nebytových priestorov.
 
