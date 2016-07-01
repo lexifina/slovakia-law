@@ -18,6 +18,10 @@
 
 - e) nemá evidované nedoplatky poistného na zdravotné poistenie, sociálne poistenie a príspevkov na starobné dôchodkové sporenie,
 
+- f) nemá právoplatne uložený trest zákazu prijímať dotácie alebo subvencie,
+
+- g) nemá právoplatne uložený trest zákazu prijímať pomoc a podporu poskytovanú z fondov Európskej únie,
+
 (5) Žiadateľ preukazuje splnenie podmienok podľa odseku 4
 
 - a) čestným vyhlásením žiadateľa, že má vysporiadané finančné vzťahy so štátnym rozpočtom, a potvrdením miestne príslušného správcu dane, nie starším ako tri mesiace, že žiadateľ nemá daňové nedoplatky, ak ide o splnenie podmienky podľa odseku 4 písm. a),
@@ -30,7 +34,9 @@
 
 - e) potvrdením Sociálnej poisťovne a každej zdravotnej poisťovne, nie starším ako tri mesiace, ak ide o splnenie podmienky podľa odseku 4 písm. e).
 
-(6) Subjekty, ktoré vydávajú potvrdenia podľa odseku 5, sú povinné na požiadanie vydať tieto potvrdenia bezplatne. Na žiadateľa, ktorý je subjektom verejnej správy, sa ustanovenia odseku 4 písm. b) a c) a odseku 5 písm. b) a c) nevzťahujú. Splnenie podmienok podľa odseku 4 písm. b) a e) preukazuje len žiadateľ, ktorým je právnická osoba a fyzická osoba - podnikateľ. Fyzická osoba, s výnimkou fyzickej osoby - podnikateľa, preukazuje splnenie podmienky uvedenej v odseku 4 písm. a) čestným vyhlásením. Fyzická osoba a právnická osoba, ktorá je žiadateľom o dotáciu na účely financovania aktivít zameraných na podporu Slovákov žijúcich v zahraničí podľa osobitného predpisu,<sup>14cb</sup>) preukazuje splnenie podmienok uvedených v odseku 4 čestným vyhlásením.
+- f) výpisom z registra trestov nie starším ako tri mesiace, ak ide o splnenie podmienky podľa odseku 4 písm. f) a g).
+
+(6) Subjekty, ktoré vydávajú potvrdenia podľa odseku 5, sú povinné na požiadanie vydať tieto potvrdenia bezplatne. Na žiadateľa, ktorý je subjektom verejnej správy, sa ustanovenia odseku 4 písm. b) a c) a odseku 5 písm. b) a c) nevzťahujú. Splnenie podmienok podľa odseku 4 písm. b) a e) preukazuje len žiadateľ, ktorým je právnická osoba a fyzická osoba - podnikateľ. Fyzická osoba, s výnimkou fyzickej osoby - podnikateľa, preukazuje splnenie podmienky uvedenej v odseku 4 písm. a) čestným vyhlásením. Fyzická osoba a právnická osoba, ktorá je žiadateľom o dotáciu na účely financovania aktivít zameraných na podporu Slovákov žijúcich v zahraničí podľa osobitného predpisu,<sup>14cb</sup>) preukazuje splnenie podmienok uvedených v odseku 4 čestným vyhlásením. Splnenie podmienok podľa odseku 4 písm. f) a g) preukazuje len žiadateľ, ktorým je právnická osoba, okrem právnickej osoby podľa osobitného predpisu.<sup>14caa</sup>)
 
 (7) Použitie dotácií podlieha povinnému zúčtovaniu so štátnym rozpočtom, ktorého spôsob určuje ministerstvo financií; pri zúčtovaní finančných vzťahov so štátnym rozpočtom sa nevyčerpané prostriedky nevracajú, ak ich suma nepresiahne 5 eur. Poskytovateľ dotácie je povinný určiť termín na odvod výnosov z prostriedkov štátneho rozpočtu, a to najneskôr k termínu povinného zúčtovania so štátnym rozpočtom. Platiteľovi dane z pridanej hodnoty, ak si môže uplatniť odpočítanie dane z pridanej hodnoty, nemôže byť pri zúčtovaní dotácie poskytnutej zo štátneho rozpočtu uznaný výdavok na úhradu dane z pridanej hodnoty.
 

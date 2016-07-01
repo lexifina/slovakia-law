@@ -46,6 +46,8 @@
 
 - 14ca) § 2 ods. 5 zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
+- 14caa) § 5 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov.
+
 - 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
