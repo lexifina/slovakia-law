@@ -48,7 +48,7 @@
 
 - 7) Občiansky zákonník.
 
-- 7a) Napríklad § 80, 251 a nasl. zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (úplné znenie č. 501/1992 Zb.), zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 7a) Napríklad § 137 Civilného sporového poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 7c) § 46 ods. 1 písm. a) až c) zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov.
 
