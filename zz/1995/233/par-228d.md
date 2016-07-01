@@ -14,4 +14,4 @@
 
 (7) Disciplinárny senát vyhotoví a odošle rozhodnutie do 30 dní odo dňa jeho vyhlásenia. Rozhodnutie disciplinárneho senátu sa doručí účastníkom konania a vždy aj ministrovi, ak nie je navrhovateľom.
 
-(8) Proti rozhodnutiu disciplinárneho senátu, ktorým sa rozhodlo o tom, či sa exekútor dopustil disciplinárneho previnenia, možno podať opravný prostriedok v lehote 15 dní od doručenia rozhodnutia na súd.
+(8) Proti rozhodnutiu disciplinárneho senátu, ktorým sa rozhodlo o tom, či sa exekútor dopustil disciplinárneho previnenia, nie je možné podať opravný prostriedok. Proti rozhodnutiu disciplinárneho senátu možno podať správnu žalobu do 15 dní odo dňa doručenia rozhodnutia, ktorým sa rozhodlo o tom, či sa exekútor dopustil disciplinárneho previnenia.

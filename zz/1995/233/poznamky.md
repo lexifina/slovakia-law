@@ -26,9 +26,9 @@
 
 - 4a) § 73 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 4b) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 4b) Napríklad zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov, zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 4c) Napríklad § 14 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
+- 4c) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 68d zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení zákona č. 589/2003 Z. z.
 
 - 4d) Napríklad § 47 zákona č. 244/2002 Z. z. o rozhodcovskom konaní, Nariadenie Európskeho parlamentu a Rady (ES) č. 805/2004 z 21. apríla 2004, ktorým sa vytvára európsky exekučný titul pre nesporné nároky (Ú. v. EÚ L 143, 30. 4. 2004).
 
@@ -58,9 +58,7 @@
 
 - 4h) Nariadenie (EÚ) č. 1215/2012.
 
-- 5) § 53 Občianskeho súdneho poriadku.
-
-- 6) § 79 a nasl. Občianskeho súdneho poriadku.
+- 5) § 102 Civilného sporového poriadku.
 
 - 6a) § 67 ods. 2 a 3 zákona č. 97/1963 Zb. v znení zákona č. 388/2011 Z. z.
 
@@ -86,7 +84,9 @@
 
 - 6b) Napríklad § 10 ods. 9 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z., § 18a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona č. 72/1999 Z. z.
 
-- 7) § 163 Občianskeho súdneho poriadku.
+- 7) § 231 Civilného sporového poriadku.
+
+- § 121 Civilného mimosporového poriadku.
 
 - 7a) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
@@ -101,6 +101,8 @@
 - Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8b) Zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
+
+- 8c) § 2 písm. a) zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - 11) § 716 a nasl. Obchodného zákonníka.
 
@@ -119,8 +121,6 @@
 - Zákon č. 55/1997 Z. z. o ochranných známkach v znení zákona č. 577/2001 Z. z.
 
 - Zákon č. 146/2000 Z. z. o ochrane topografií polovodičových výrobkov.
-
-- 11ac) § 48 Občianskeho súdneho poriadku.
 
 - 11ad) § 148 ods. 3 Obchodného zákonníka.
 
@@ -160,13 +160,13 @@
 
 - 13b) Napríklad zákon č. 600/1992 Zb. v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový, zákon č. 144/1998 Z. z. o skladiskovom záložnom liste, tovarovom záložnom liste a o doplnení niektorých ďalších zákonov.
 
-- 13ba) § 80 písm. c) Občianskeho súdneho poriadku.
+- 13ba) § 137 písm. c) Civilného sporového poriadku.
 
 - 13c) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku.
 
 - 13d) § 151h, § 151ma a 151md Občianskeho zákonníka.
 
-- 14) § 201 a nasl. Občianskeho súdneho poriadku.
+- 14) Civilný sporový poriadok.
 
 - 15) § 476 a nasl. Obchodného zákonníka.
 
@@ -178,7 +178,7 @@
 
 - 17b) § 2 ods. 1 zákona č. 600/1992 Zb. v znení neskorších predpisov.
 
-- 17ba) § 49a Občianskeho súdneho poriadku.
+- 17ba) § 108 Civilného sporového poriadku.
 
 - 17bb) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení zákona č. 651/2004 Z. z.
 

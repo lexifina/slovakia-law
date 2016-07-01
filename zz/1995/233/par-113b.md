@@ -10,7 +10,7 @@
 
 - c) zakáže obchodnej spoločnosti, aby po vydaní príkazu na začatie exekúcie udelila súhlas na prevod obchodného podielu, ak je taký súhlas potrebný.
 
-(3) Upovedomenie o začatí exekúcie doručí exekútor oprávnenému, povinnému a obchodnej spoločnosti podľa osobitného predpisu.<sup>11ac</sup>) Príkaz na začatie exekúcie doručí exekútor obchodnej spoločnosti do vlastných rúk.
+(3) Upovedomenie o začatí exekúcie doručí exekútor oprávnenému, povinnému a obchodnej spoločnosti. Príkaz na začatie exekúcie doručí exekútor obchodnej spoločnosti do vlastných rúk.
 
 (4) Po uplynutí lehoty na podanie námietok alebo po nadobudnutí právoplatnosti uznesenia, ktorým sa námietky zamietli, vydá exekútor exekučný príkaz. Exekučný príkaz sa doručí oprávnenému, povinnému a obchodnej spoločnosti do vlastných rúk.
 
