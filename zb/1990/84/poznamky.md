@@ -4,8 +4,6 @@
 
 - Zákon Slovenskej národnej rady č. 315/1992 Zb. o verejných telovýchovných, športových a turistických podujatiach.
 
-- 2) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov (§ 244 – 250).
-
 - 3) Zákon č. 60/1961 Zb. o úlohách národných výborov pri zabezpečovaní socialistického poriadku v znení neskorších predpisov.Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 4) Zákon č. 71/1967 Zb.
