@@ -316,7 +316,7 @@
 
 - 54) § 5 ods. 3 zákona č. 229/1991 Zb.
 
-- 55) § 80 písm. c) Občianskeho súdneho poriadku.
+- 55) § 137 písm. c) Civilného sporového poriadku.
 
 - 56) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
