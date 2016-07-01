@@ -94,9 +94,7 @@
 
 - 28) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 29) § 293 až 295 Občianskeho súdneho poriadku v znení neskorších predpisov.
-
-- 29a) Napríklad § 293 až 296 Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 29) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - 30) Zákon č. 663/2007 Z. z. o minimálnej mzde v znení neskorších predpisov.
 
