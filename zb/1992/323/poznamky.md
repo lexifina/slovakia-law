@@ -44,9 +44,15 @@
 
 - 6baa) Napríklad nariadenie Rady (ES) č. 2157/2001 z 8. októbra 2001 o stanovách európskej spoločnosti (SE) (Úradný vestník Európskych spoločenstiev L 294 z 10. novembra 2001), zákon č. 562/2004 Z. z. o európskej spoločnosti a o zmene a doplnení niektorých zákonov, zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
+- 6bab) § 345 až 351 Civilného mimosporového poriadku.
+
+- 6bac) § 568 Občianskeho zákonníka.
+
+- 6bad) § 335 až 344 Civilného mimosporového poriadku.
+
 - 6bb) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6bc) § 14 zákona č. 420/2004 Z. z. v znení zákona č. 390/2015 Z. z.
+- 6bc) § 176 až 178 Civilného mimosporového poriadku.
 
 - 6c) Zákon č. 9/2010 Z. z. o sťažnostiach v znení zákona č. 289/2012 Z. z.
 

@@ -2,7 +2,7 @@
 
 # § 73d
 
-(1) Komora vedie Notársky centrálny register záložných práv (ďalej len „register záložných práv"), ktorý obsahuje:
+(1) Komora vedie register záložných práv, ktorý obsahuje:
 
 - a) meno a priezvisko (obchodné meno), adresu trvalého pobytu (sídlo) a dátum narodenia (identifikačné číslo organizácie) záložcu,
 
