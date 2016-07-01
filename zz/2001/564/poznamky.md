@@ -24,9 +24,11 @@
 
 - 12) Zákon č. 241/2001 Z. z.
 
-- 12a) Zákon č. 99/1963 Zb. v znení neskorších predpisov.
+- 12a) Civilný sporový poriadok.
 
-- Zákon č. 301/2005 Z. z. Trestný poriadok.
+- Civilný mimosporový poriadok.
+
+- Správny súdny poriadok.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov Slovenskej republiky v znení neskorších predpisov.
 
