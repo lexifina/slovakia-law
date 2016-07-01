@@ -1,1 +1,1 @@
-Príloha č. 4 k zákonu č. 190/2003 Z. z. [Vzor 04](../assets/a8f8f3a0c4ee1d26fc86e944864cafba9d8dd8c9811dbe9ddb3c8d13599919ba.pdf)
+Príloha č. 4 k zákonu č. 190/2003 Z. z. [Vzor 04](../assets/00fbe9b8aa48b23e7f85ab468eb4fcc65a0dca8b2f39c04fceb6a727d7fda5f1.pdf)

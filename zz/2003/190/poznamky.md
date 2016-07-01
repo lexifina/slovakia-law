@@ -80,7 +80,7 @@
 
 - 34) § 21 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 35) § 195 až 200 Občianskeho súdneho poriadku.
+- 35) § 220 až 230 Civilného mimosporového poriadku.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
