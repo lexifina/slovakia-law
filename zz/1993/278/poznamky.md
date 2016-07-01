@@ -36,7 +36,7 @@
 
 - 11) Napríklad zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 10/2004 Z. z. o puncovníctve a skúšaní drahých kovov (puncový zákon), zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 12) Napríklad § 135, 456 a 462 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 185g Občianskeho súdneho poriadku v znení zákona č. 263/1992 Zb., § 59 a 60 Trestného zákona.
+- 12) Napríklad § 135, 456 a 462 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 357 Civilného mimosporového poriadku, § 59 a 60 Trestného zákona.
 
 - 12a) Príloha č. 2 k vyhláške Úradu geodézie, kartografie a katastra Slovenskej republiky č. 79/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení vyhlášky č. 647/2004 Z. z.
 
@@ -88,7 +88,7 @@
 
 - 18c) Napríklad zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) § 35 ods. 1 Občianskeho súdneho poriadku.
+- 19) § 93 ods. 1 Civilného sporového poriadku.
 
 - 20) § 663 a nasl. Občianskeho zákonníka.
 
@@ -142,7 +142,7 @@
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
 
-- 24a) Napríklad zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 24a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 25) § 2b ods. 2 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona č. 447/2001 Z. z.
 
