@@ -28,7 +28,7 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
 
-- 10) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 8 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
+- 10) Napríklad Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 8 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
 - 11) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
