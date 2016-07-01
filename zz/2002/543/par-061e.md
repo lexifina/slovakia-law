@@ -44,7 +44,7 @@
 
 (8) Finančná náhrada na lesných pozemkoch sa vypláca každoročne vyplatením pomernej časti z celkovej sumy náhrady za obdobie platnosti programu starostlivosti o lesy po uplynutí roku, za ktorý sa vypláca, ak oprávnená osoba nepožiadala o vyplatenie finančnej náhrady za viac rokov. Ak oprávnená osoba požiadala o vyplatenie finančnej náhrady za viac rokov, finančná náhrada sa vypláca po uplynutí rokov, za ktoré sa vypláca.
 
-(9) O nároku na vyplatenie finančnej náhrady a zániku tohto nároku podľa odseku 6 písm. b) až d) rozhoduje okresný úrad v sídle kraja, v územnej pôsobnosti ktorého sa dotknutý pozemok nachádza. O opravnom prostriedku proti rozhodnutiu o nároku na finančnú náhradu rozhoduje súd. Orgán, ktorý rozhodol o nároku na vyplatenie finančnej náhrady, je povinný viesť evidenciu rozhodnutí o vyplatení finančnej náhrady. Finančná náhrada sa poskytuje zo štátneho rozpočtu a je splatná do 60 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o jej priznaní.
+(9) O nároku na vyplatenie finančnej náhrady a zániku tohto nároku podľa odseku 6 písm. b) až d) rozhoduje okresný úrad v sídle kraja, v územnej pôsobnosti ktorého sa dotknutý pozemok nachádza. Orgán, ktorý rozhodol o nároku na vyplatenie finančnej náhrady, je povinný viesť evidenciu rozhodnutí o vyplatení finančnej náhrady. Finančná náhrada sa poskytuje zo štátneho rozpočtu a je splatná do 60 dní odo dňa nadobudnutia právoplatnosti rozhodnutia o jej priznaní.
 
 (10) Nárok na vyplatenie finančnej náhrady zaniká, ak
 
