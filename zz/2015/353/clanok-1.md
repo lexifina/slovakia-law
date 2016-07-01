@@ -126,7 +126,11 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - f)
 
-- nemá evidované neuspokojené nároky svojich zamestnancov vyplývajúce z pracovného pomeru,“.
+- nemá evidované neuspokojené nároky svojich zamestnancov vyplývajúce z pracovného pomeru,
+
+- g)
+
+- nemá právoplatne uložený trest zákazu prijímať dotácie alebo subvencie alebo trest zákazu prijímať pomoc a podporu poskytovanú z fondov Európskej únie, ak ide o právnickú osobu.“.
 
 - 16. V § 70 sa za odsek 7 vkladá nový odsek 8, ktorý znie:
 
@@ -162,4 +166,10 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - (2)
 
-- Občan, ktorému neuplynula lehota na podanie žiadosti podľa § 53a ods. 3 v znení účinnom do 31. decembra 2015, môže požiadať o poskytnutie príspevku na presťahovanie za prácou podľa § 53a v znení účinnom do 31. decembra 2015 do uplynutia tejto lehoty. Pri poskytovaní príspevku na presťahovanie za prácou podľa § 53a v znení účinnom do 31. decembra 2015 na základe žiadosti podanej podľa prvej vety sa postupuje podľa predpisov účinných do 31. decembra 2015.“.
+- Občan, ktorému neuplynula lehota na podanie žiadosti podľa § 53a ods. 3 v znení účinnom do 31. decembra 2015, môže požiadať o poskytnutie príspevku na presťahovanie za prácou podľa § 53a v znení účinnom do 31. decembra 2015 do uplynutia tejto lehoty. Pri poskytovaní príspevku na presťahovanie za prácou podľa § 53a v znení účinnom do 31. decembra 2015 na základe žiadosti podanej podľa prvej vety sa postupuje podľa predpisov účinných do 31. decembra 2015.
+
+- § 72y
+
+- Prechodné ustanovenie k úpravám účinným od 1. júla 2016
+
+- Ústredie a úrad posúdi žiadosť právnickej osoby o poskytnutie príspevku podľa tohto zákona podanú pred 1. júlom 2016 podľa predpisov účinných do 30. júna 2016.“.
