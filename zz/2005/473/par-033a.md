@@ -4,7 +4,7 @@
 
 - a) uplynula lehota ustanovená v § 31a ods. 1 písm. a) až f), i) alebo j) a dôvody, na základe ktorých bolo pozastavené oprávnenie prevádzkovať bezpečnostnú službu, trvajú,
 
-- b) prevádzkovateľ, ktorý je fyzickou osobou, prestane spĺňať podmienky uvedené v § 11a ods. 1 písm. a), c) až g) a nejde o prípad podľa § 31a ods. 1 písm. d),
+- b) prevádzkovateľ, ktorý je fyzickou osobou, prestane spĺňať podmienky uvedené v § 11a ods. 1 písm. a), c) až g) a nejde o prípad podľa § 31a ods. 1 písm. d) a prevádzkovateľ, ktorý je právnickou osobou, prestal spĺňať podmienky spoľahlivosti podľa § 14 ods. 1 písm. c) až f) a nejde o prípad podľa § 31a ods. 1 písm. d),
 
 - c) prevádzkovateľ neoznámi skutočnosti uvedené v § 31a ods. 1 písm. a) až f), i) alebo j) ministerstvu do 15 dní, odkedy nastali a márne uplynula lehota uvedená v § 31a ods. 1 písm. a) až f), i) alebo j).
 

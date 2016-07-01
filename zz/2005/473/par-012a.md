@@ -1,6 +1,6 @@
 # § 12a Podmienky udelenia licencie na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) právnickej osobe
 
-(1) Ministerstvo udelí licenciu na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) právnickej osobe, ktorá je spoľahlivá podľa § 14 ods. 1 písm. f), ak tomu nebráni záujem vnútorného poriadku a bezpečnosti a
+(1) Ministerstvo udelí licenciu na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) právnickej osobe, ktorá je spoľahlivá podľa § 14 ods. 1 písm. c) až f), ak tomu nebráni záujem vnútorného poriadku a bezpečnosti a
 
 - a) fyzická osoba alebo fyzické osoby, ktoré sú jej štatutárnym orgánom alebo členmi štatutárneho orgánu, spĺňajú podmienky ustanovené v § 11a ods. 1 písm. a) až g),
 

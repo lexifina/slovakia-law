@@ -8,7 +8,7 @@
 
 - c) ak fyzická osoba, ktorá má najmenej 15 % majetkový podiel v právnickej osobe, prestane spĺňať podmienku bezúhonnosti alebo spoľahlivosti, najdlhšie na dva mesiace odo dňa, keď osoba prestala spĺňať uvedené podmienky,
 
-- d) ak prevádzkovateľ, ktorý je fyzickou osobou, prestane spĺňať podmienku spoľahlivosti ustanovenú v § 14 ods. 1 písm. d), najdlhšie na dva mesiace odo dňa, keď osoba prestala spĺňať uvedenú podmienku,
+- d) ak prevádzkovateľ prestane spĺňať podmienku spoľahlivosti ustanovenú v § 14 ods. 1 písm. d), najdlhšie na dva mesiace odo dňa, keď osoba prestala spĺňať uvedenú podmienku,
 
 - e) ak fyzická osoba, ktorá je prokuristom, vedúcim organizačnej zložky podniku, vedúcim podniku zahraničnej fyzickej osoby alebo splnomocnencom prevádzkovateľa, prestane spĺňať podmienky ustanovené v § 11a ods. 1 písm. a), c) až g) najdlhšie na dva mesiace odo dňa, keď osoba prestala spĺňať uvedené podmienky,
 
