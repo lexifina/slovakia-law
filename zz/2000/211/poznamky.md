@@ -122,8 +122,6 @@
 
 - 26) Napríklad § 73 ods. 2 písm. b) zákona č. 65/1965 Zb. Zákonník práce v znení neskorších predpisov, § 34 ods. 4 zákona č. 229/1992 Zb. o komoditných burzách v znení neskorších predpisov, § 10 ods. 2 zákona č. 124/1992 Zb. o Vojenskej polícii, § 54 ods. 3 zákona č. 335/1991 Zb. v znení neskorších predpisov, § 15 ods. 3 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. v znení neskorších predpisov, § 16 zákona Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky, § 12 ods. 1 zákona Národnej rady Slovenskej republiky č. 180/1996 Z. z. Colný zákon v znení neskorších predpisov, § 40 a 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 11 ods. 2 písm. k) zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, § 80 ods. 1 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
-- 27) § 244 a nasl. Občianskeho súdneho poriadku.
-
 - 27a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 27b) § 66a Obchodného zákonníka.
