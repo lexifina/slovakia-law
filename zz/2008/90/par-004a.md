@@ -18,4 +18,4 @@
 
 (4) Na konanie o udelení súhlasu s účasťou slovenského subjektu v zoskupení založenom na území členského štátu a o schválení navrhovaného dohovoru a o schválení zmeny dohovoru sa vzťahuje všeobecný predpis o správnom konaní,<sup>5b</sup>) ak osobitný predpis<sup>1</sup>) alebo tento zákon neustanovuje inak.
 
-(5) Proti rozhodnutiu o návrhu podľa odseku 1 nie je možné podať opravný prostriedok; toto rozhodnutie je preskúmateľné súdom.<sup>5c</sup>)
+(5) Proti rozhodnutiu o návrhu podľa odseku 1 nie je možné podať opravný prostriedok.

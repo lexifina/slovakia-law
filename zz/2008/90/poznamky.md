@@ -26,8 +26,6 @@
 
 - 5b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
-- 5c) § 247 až 250k Občianskeho súdneho poriadku.
-
 - 6) Článok 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1082/2006.
 
 - 6a) Čl. 7 a 14 nariadenia (ES) č. 1082/2006 v platnom znení.
