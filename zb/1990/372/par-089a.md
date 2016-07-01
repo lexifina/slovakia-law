@@ -6,7 +6,7 @@
 
 - a) trestného konania,
 
-- b) občianskoprávneho alebo správneho konania,
+- b) civilného procesu alebo správneho konania,
 
 - c) osvedčovania bezúhonnosti a spoľahlivosti fyzickej osoby.
 

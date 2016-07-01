@@ -50,17 +50,11 @@
 
 - 8b) Napríklad § 44 ods. 3 písm. a) a b) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 8c) Napríklad § 75a Občianskeho súdneho poriadku, § 44 ods. 3 písm. c) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 8c) Napríklad § 365 Civilného mimosporového poriadku, § 44 ods. 3 písm. c) zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 40/1974 Zb. o Zbore národnej bezpečnosti v znení neskorších predpisov.
 
 - 10) Najmä zákon č. 40/1974 Zb.
-
-- 11) § 53 a nasl. správneho poriadku.
-
-- 12) § 75 správneho poriadku.
-
-- 13) § 244 a nasl. Občianskeho súdneho poriadku (úplné znenie č. 78/1983 Zb.).
 
 - 14) § 8 zákona č. 25/2007 Z. z. o elektronickom výbere mýta za užívanie vymedzených úsekov pozemných komunikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 86/2008 Z. z.
 
