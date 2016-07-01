@@ -58,4 +58,4 @@
 
 - 4a) Napríklad Občiansky zákonník, Obchodný zákonník.
 
-- 5) § 185i až 185s Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 5) § 310 až 332 Civilného mimosporového poriadku.
