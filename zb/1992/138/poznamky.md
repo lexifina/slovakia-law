@@ -32,11 +32,7 @@
 
 - § 14 ods. 1 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
 
-- 15) § 244 ods. 2 a § 250 a nasl. Občianskeho súdneho poriadku.
-
 - 16) Zákon č. 85/1990 Zb. o petičnom práve.
-
-- 17) § 244 ods. 2 Občianskeho súdneho poriadku.
 
 - 18) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 

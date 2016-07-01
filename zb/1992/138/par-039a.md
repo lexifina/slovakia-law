@@ -8,7 +8,7 @@
 
 - c) vyčiarknutie z registra.
 
-(2) Ustanovenia § 39 ods. 2 až 9 sa použijú aj na disciplinárnu zodpovednosť hosťujúcich architektov. Oznámenie o uložení disciplinárneho opatrenia komora oznámi aj regulačnému orgánu domovského členského štátu.
+(2) Ustanovenia § 39 ods. 2 až 8 sa použijú aj na disciplinárnu zodpovednosť hosťujúcich architektov. Oznámenie o uložení disciplinárneho opatrenia komora oznámi aj regulačnému orgánu domovského členského štátu.
 
 (3) Komora môže odovzdať vybavenie disciplinárneho previnenia regulačnému orgánu domovského členského štátu.
 

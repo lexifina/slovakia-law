@@ -27,5 +27,3 @@
 - l) je v konkurze alebo v likvidácii, alebo proti nemu bol zamietnutý návrh na vyhlásenie konkurzu pre nedostatok majetku, alebo je v obdobnom konaní podľa zákonov a predpisov platných v domovskom členskom štáte.
 
 (2) Komora oznámi vyčiarknutie z registra podľa odseku 1 regulačnému orgánu domovského členského štátu, v ktorom je hosťujúci architekt usadený, a ak ide o vyčiarknutie podľa odseku 1 písm. b) až i), aj vyčiarknutému architektovi.
-
-(3) Vyčiarknutie z registra je preskúmateľné súdom na základe žaloby vyčiarknutého.
