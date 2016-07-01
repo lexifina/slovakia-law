@@ -32,7 +32,7 @@
 
 - 10ac) § 21 ods. 3 zákona č. 527/2002 Z. z. v znení zákona č. 568/2007 Z. z.
 
-- 10b) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 10b) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, Civilný sporový poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 10c) § 62 až 69 zákona č. 71/1967 Zb.
 
@@ -42,7 +42,7 @@
 
 - 10ea) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov v znení zákona č. 568/2007 Z. z.
 
-- 10eb) § 44a a 159a Občianskeho súdneho poriadku.
+- 10eb) § 228 Civilného sporového poriadku.
 
 - 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
 
@@ -50,7 +50,7 @@
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 15/1993 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi.
 
-- 15) Zákon Slovenskej národnej rady č. 517/1990 Zb. o územnom a správnom členení Slovenskej republiky v znení zákona Slovenskej národnej rady č. 295/1992 Zb.
+- 15) § 2c zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 125/2015 Z. z..
 
 - 16) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
