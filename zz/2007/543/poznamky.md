@@ -194,7 +194,7 @@
 
 - 41a) Napríklad nariadenie (ES) č. 73/2009 v platnom znení, nariadenie Komisie (ES) č. 1122/2009 v platnom znení, nariadenie vlády Slovenskej republiky č. 499/2008 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 488/2010 Z. z. o podmienkach poskytovania podpory v poľnohospodárstve formou priamych platieb v znení neskorších predpisov.
 
-- 41b) § 247 až 250k Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 41b) § 177 až 193 Správneho súdneho poriadku.
 
 - 41c) Napríklad čl. 58 nariadenia (ES) č. 1122/2009 v platnom znení, čl. 16 nariadenia Komisie (EÚ) č. 65/2011 z 27. januára 2011, ktorým sa stanovujú podrobné pravidlá uplatňovania nariadenia Rady (ES) č. 1698/2005, pokiaľ ide o realizáciu kontrolných postupov a krížového plnenia pri opatreniach na podporu rozvoja vidieka (Ú. v. EÚ L 025, 28. 1. 2011) v platnom znení.
 
@@ -206,7 +206,7 @@
 
 - 41db) § 53 až 68 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 41e) § 80 písm. c) Občianskeho súdneho poriadku.
+- 41e) § 137 písm. c) Civilného sporového poriadku.
 
 - 41ea) § 63 ods. 3 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
