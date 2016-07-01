@@ -34,7 +34,7 @@
 
 - 13b) § 10 zákona č. 132/1989 Zb. v znení neskorších predpisov.
 
-- 14) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
+- 14) § 324 až 345 Civilného sporového poriadku.
 
 - 15) Vyhláška ministra zahraničných vecí č. 212/1989 Zb. o Budapeštianskej zmluve o medzinárodnom uznávaní uloženia mikroorganizmov na účely patentového konania a Vykonávacieho predpisu k nej.
 
