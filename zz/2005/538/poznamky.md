@@ -26,7 +26,7 @@
 
 - 17) Zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane zdravia ľudí v znení neskorších predpisov.
 
-- 18) § 175e ods. 1 Občianskeho súdneho poriadku.
+- 18) § 179 Civilného mimosporového poriadku.
 
 - 19) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
