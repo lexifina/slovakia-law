@@ -30,7 +30,7 @@
 
 - 10) § 69 a 70 Trestného zákona.
 
-- 11) § 195 až 200 Občianskeho súdneho poriadku.
+- 11) § 220 až 230 Civilného mimosporového poriadku.
 
 - 12) § 128 Občianskeho zákonníka v znení neskorších predpisov.
 
