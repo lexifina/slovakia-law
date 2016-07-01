@@ -18,9 +18,9 @@
 
 - 11c) Zákon č. 503/2011 Z. z. o vysielaní civilných expertov na výkon práce v aktivitách krízového manažmentu mimo územia Slovenskej republiky a o zmene a doplnení niektorých zákonov.
 
-- 13) § 244 až 250k Občianskeho súdneho poriadku.
+- 13) § 177 a 193 Správneho súdneho poriadku.
 
-- 14) § 80 písm. c) Občianskeho súdneho poriadku.
+- 14) § 137 písm. c) Civilného sporového poriadku.
 
 - 14a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
@@ -28,7 +28,7 @@
 
 - Zákon č. 122/2013 Z. z. o ochrane osobných údajov v znení zákona č. 84/2014 Z. z.
 
-- 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 22 až 24, § 27 a 28 Občianskeho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 16) Napríklad § 22 až 33b Občianskeho zákonníka, § 89 až 92 Civilného sporového poriadku a § 49 až 52 Správneho súdneho poriadku, § 16 ods. 1, § 17 ods. 1, 4 a 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 16a) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
@@ -90,9 +90,9 @@
 
 - 43) Zákon č. 366/1999 Z. z. v znení neskorších predpisov.
 
-- 44) Napríklad § 251 až 351 Občianskeho súdneho poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 44) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 45) Napríklad § 279 Občianskeho súdneho poriadku, § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 235/1998 Z. z.
+- 45) Napríklad § 71 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 235/1998 Z. z.
 
 - 47) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 114/1998 Z. z. o sociálnom zabezpečení vojakov v znení zákona č. 131/1999 Z. z., zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z.
 
@@ -140,7 +140,7 @@
 
 - 64a) § 250l až 250s Občianskeho súdneho poriadku v znení neskorších predpisov.
 
-- 65) Napríklad § 251 až 351 Občianskeho súdneho poriadku.
+- 65) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 66a) § 30a až 30c zákona č. 153/2001 Z. z. v znení zákona č. 401/2015 Z. z.
 
