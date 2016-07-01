@@ -1,5 +1,0 @@
-# § 175zcd
-
-(1) Osoba oprávnená podľa osobitného predpisu môže navrhnúť, aby súd určil, že vydané európske osvedčenie o dedičstve nezodpovedá skutočnosti.
-
-(2) Osoba oprávnená podľa osobitného predpisu môže navrhnúť, aby súd určil, že odmietnutie vydať európske osvedčenie o dedičstve bolo nedôvodné.

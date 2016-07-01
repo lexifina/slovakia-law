@@ -1,3 +1,0 @@
-# § 210a
-
-Uznesenie o povinnosti zaplatiť súdny poplatok alebo uznesenie, z ktorého nenadobudla dosiaľ práva iná osoba ako odvolateľ, alebo uznesenie, ktorým bolo uložené poriadkové opatrenie (§ 53), alebo uznesenie o odmietnutí návrhu na začatie konania (§ 43 ods. 2, § 78c ods. 3), alebo uznesenie o zastavení konania o dedičstve, alebo uznesenie podľa § 75a, môže na odvolanie zmeniť priamo súd prvého stupňa, pokiaľ odvolaniu v celom rozsahu vyhovie.

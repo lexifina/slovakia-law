@@ -1,7 +1,0 @@
-# § 178h
-
-Pojednávanie nie je potrebné nariadiť, ak
-
-- a) sa má za to, že ten, kto podľa navrhovateľa právo porušuje, proti návrhu nemá námietky alebo
-
-- b) na rozhodnutie vo veci postačujú účastníkmi predložené listinné dôkazy a účastníci sa práva účasti na prejednávaní veci vzdali, alebo s rozhodnutím veci bez nariadenia pojednávania súhlasia.
