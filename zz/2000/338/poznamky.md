@@ -4,7 +4,7 @@
 
 - 1b) § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
-- 1c) Nariadenie Komisie (EÚ) č. 164/2010 z 25. januára 2010 o technických špecifikáciách pre elektronické hlásenia z lodí pri vnútrozemskej plavbe uvedené v článku 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v Spoločenstve (Ú. v. EÚ L 57, 6. 3. 2010).
+- 1c) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
 - 2) Časť 1 kapitola 1.8 bod 1.8.3.1 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
