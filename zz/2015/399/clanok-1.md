@@ -64,6 +64,14 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 
 - § 71 zákona č. 180/2014 Z. z.“.
 
+- 12. Za § 9 sa vkladá § 9a, ktorý vrátane nadpisu znie:
+
+- „§ 9a
+
+- Etický kódex poslanca
+
+- Poslanec je povinný pri výkone svojej funkcie správať sa v súlade so zásadami slušného správania a dobrých mravov a dodržiavať ústavu, zákony a Etický kódex poslanca, ktorý môže schváliť národná rada uznesením.“.
+
 - 13. Poznámky pod čiarou k odkazom 17 a 20 znejú:
 
 - „17)
@@ -306,6 +314,14 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 
 - Čl.78 ods. 2 Ústavy Slovenskej republiky.“.
 
+- 63. § 135 sa dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- porušenie Etického kódexu poslanca.“.
+
+- 64. V § 136 ods. 2 písm. c) sa na konci pripájajú tieto slová: „alebo ak ide o porušenie Etického kódexu poslanca“.
+
 - 65. V § 138 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
 
 - „(2)
@@ -315,6 +331,16 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
   - Doterajší odsek 2 sa označuje ako odsek 3.
 
 - 66. V § 139 ods. 1 a 2 sa slová „5 000 Sk“ nahrádzajú slovami „1 000 eur“.
+
+- 67. V § 139 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Ak mandátový a imunitný výbor zistí, že poslanec porušil Etický kódex poslanca, odporučí národnej rade, aby mu uložila pokutu až do výšky 500 eur.“.
+
+  - Doterajší odsek 4 sa označuje ako odsek 5.
+
+- 68. V § 139 ods. 5 sa slová „odsekoch 1, 2 a 3“ nahrádzajú slovami „odsekoch 1 až 4“.
 
 - 69. V § 143 ods. 1 druhej vete sa bodka na konci nahrádza bodkočiarkou a pripájajú sa tieto slová: „plní tiež úlohy spojené s činnosťou Parlamentnej rady Slovenskej republiky.<sup>84aa</sup>)“.
 
@@ -339,6 +365,8 @@ Zákon Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriad
 - Čl. 75 ods. 2, čl. 77 ods. 2, čl. 78 ods. 5, čl. 81 a 81a Ústavy Slovenskej republiky.
 
 - Ústavný zákon č. 357/2004 Z. z. v znení ústavného zákona č. 545/2005 Z. z.“.
+
+- 73. V § 148 ods. 1 sa slová „§ 139 ods. 1 a 2“ nahrádzajú slovami „§ 139 ods. 1, 2 a 4“.
 
 - 74. Za § 150 sa vkladá § 150a, ktorý vrátane nadpisu znie:
 
