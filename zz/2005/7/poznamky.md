@@ -10,7 +10,7 @@
 
 - 3a) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
-- 4) § 42 ods. 3 Občianskeho súdneho poriadku.
+- 4) § 127 Civilného sporového poriadku.
 
 - 4a) § 2 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 323/2007 Z. z.
 
@@ -54,7 +54,7 @@
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 14a) § 279 ods. 2 Občianskeho súdneho poriadku, § 71 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 14a) § 71 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 14b) § 13a ods. 1 Obchodného zákonníka.
 
@@ -76,7 +76,7 @@
 
 - 22b) § 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
-- 22c) § 59 ods. 1 a § 83b ods. 4 Trestného zákona v znení zákona č. 224/2010 Z. z.
+- 22c) § 59 ods. 1 Trestného zákona v znení zákona č. 224/2010 Z. z.
 
 - 23) Obchodný zákonník.
 
@@ -116,6 +116,6 @@
 
 - § 16 ods. 3 až 7 a § 20 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 33a) § 17 ods. 1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+- 33a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 34) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
