@@ -1,4 +1,4 @@
-- 1) Napríklad Občiansky súdny poriadok, Trestný poriadok.
+- 1) Napríklad Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, Trestný poriadok.
 
 - 2) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -86,7 +86,7 @@
 
 - 21a) Opatrenie Ministerstva zahraničných vecí Slovenskej republiky č. 502/2010 Z. z., ktorým sa ustanovuje platový koeficient príslušného štátu.
 
-- 22) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 22) Napríklad zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 23a) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
