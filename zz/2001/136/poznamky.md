@@ -50,7 +50,7 @@
 
 - 23) § 69 ods. 4 Trestného poriadku.
 
-- 23a) § 78a Občianskeho súdneho poriadku.
+- 23a) § 430 až 437 Správneho súdneho poriadku.
 
 - 23b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
@@ -64,7 +64,7 @@
 
 - 27) Čl. 101 Zmluvy o fungovaní Európskej únie v platnom znení (Ú. v. EÚ C 326, 26. 10. 2012).
 
-- 28) Druhá hlava piatej časti Občianskeho súdneho poriadku.
+- 28) § 177 až 193 Správneho súdneho poriadku.
 
 - 29) Napríklad § 81 písm. f) zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
