@@ -122,7 +122,7 @@
 
 - 40) § 52 zákona č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom.
 
-- 41) § 250l až 250s Občianskeho súdneho poriadku.
+- 41) § 177 až 193 Správneho súdneho poriadku.
 
 - 42) § 476 až 488 Obchodného zákonníka v znení neskorších predpisov.
 
