@@ -18,7 +18,7 @@
 
 - 10) § 33 ods. 9 písm. e) a § 39 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11) § 180a Občianskeho súdneho poriadku.
+- 11) § 137 až 142 Civilného mimosporového poriadku.
 
 - 12) Zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov.
 
