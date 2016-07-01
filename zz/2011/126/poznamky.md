@@ -36,8 +36,6 @@
 
 - 18) Zákon č. 474/2007 Z. z. o obchodovaní s tovarom, ktorý možno použiť na vykonávanie trestu smrti, mučenie alebo iné kruté, neľudské alebo ponižujúce zaobchádzanie alebo trestanie.
 
-- 19) Občiansky súdny poriadok v znení neskorších predpisov.
-
 - 20) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
 
 - 21) Napríklad zákon č. 200/2004 Z. z. o opatreniach proti porušovaniu práv duševného vlastníctva pri dovoze, vývoze a spätnom vývoze tovaru v znení neskorších predpisov.
