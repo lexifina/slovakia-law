@@ -266,7 +266,7 @@
 
 - 44) § 7 ods. 2 Občianskeho zákonníka.
 
-- § 195 až 200 Občianskeho súdneho poriadku.
+- § 220 až 230 Civilného mimosporového poriadku.
 
 - 45) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -376,7 +376,7 @@
 
 - 81b) § 10 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
-- 82) § 250b ods. 1 Občianskeho súdneho poriadku.
+- 82) § 181 Správneho súdneho poriadku.
 
 - 82a) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
 
@@ -396,7 +396,7 @@
 
 - 89) § 8 ods. 5 zákona č. 530/2003 Z. z.
 
-- 90) § 200b ods. 6 Občianskeho súdneho poriadku.
+- 90) § 286 Civilného mimosporového poriadku.
 
 - 91) § 12 ods. 1 Trestného poriadku.
 
