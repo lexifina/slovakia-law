@@ -16,7 +16,7 @@
 
 - 3) § 2 ods. 3 písm. d) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
 
-- 4) Napríklad Občiansky súdny poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z., zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
+- 4) Napríklad Civilný sporový poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z., zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
 
 - 5) § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
@@ -56,7 +56,7 @@
 
 - 18) § 6 ods. 1 písm. b) a § 8 ods. 1 až 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 19) § 244 a 247 Občianskeho súdneho poriadku.
+- 19) § 177 až 193 Správneho súdneho poriadku.
 
 - 20) Napríklad § 40 zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov.
 
@@ -122,11 +122,11 @@
 
 - 41) § 22 až 27 zákona č. 153/2001 Z. z. o prokuratúre.
 
-- 42) § 244, § 246 ods. 2 písm. b) a § 247 až 250k Občianskeho súdneho poriadku.
+- 42) § 177 až 193 Správneho súdneho poriadku.
 
-- 42a) Napríklad § 246d Občianskeho súdneho poriadku v znení zákona č. 428/2004 Z. z., § 50 ods. 10 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 42a) Napríklad § 71 Správneho súdneho poriadku, § 50 ods. 10 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 42b) Napríklad § 7 ods. 1 a 3, § 42 ods. 1 až 3, § 74 až 77a, § 80 písm. b) a § 161 ods. 3 Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 42b) Napríklad § 3 a 4, § 123 až 128, § 137 písm. a), § 229, § 324 až 344 Civilného sporového poriadku.
 
 - 42c) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
@@ -164,7 +164,7 @@
 
 - 49b) § 63 písm. b) a § 79a zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
 
-- 49c) § 248 písm. d) Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 49c) § 7 písm. h) Správneho súdneho poriadku.
 
 - 50) § 517 ods. 2 Občianskeho zákonníka.
 
@@ -172,7 +172,7 @@
 
 - § 18 a § 44 písm. b) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
-- 51) Napríklad § 251 Občianskeho súdneho poriadku, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 51) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 51a) § 41 ods. 2 písm. g) a i) a § 45 ods. 5 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
