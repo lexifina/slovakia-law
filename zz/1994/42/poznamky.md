@@ -76,7 +76,7 @@
 
 - 24) § 46 zákona č. 92/1949 Zb.
 
-- 25) § 186 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+- 25) § 231 až 251 Civilného mimosporového poriadku.
 
 - 26) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
 
