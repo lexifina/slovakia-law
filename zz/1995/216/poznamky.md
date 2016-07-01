@@ -16,8 +16,6 @@
 
 - 3) § 266a Zákonníka práce.
 
-- 4) § 244 až 250 Občianskeho súdneho poriadku.
-
 - 5) Vyhláška Slovenského úradu geodézie a kartografie č. 11/1974 Zb. o geodetických prácach vo výstavbe.
 
 - 6) Vyhláška Slovenského úradu geodézie a kartografie č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
