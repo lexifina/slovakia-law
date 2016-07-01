@@ -50,7 +50,7 @@
 
 - 8c) § 8a ods. 4 zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 8d) § 250zfa ods. 6 Občianskeho súdneho poriadku.
+- 8d) § 362 Správneho súdneho poriadku.
 
 - 9) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
@@ -92,8 +92,6 @@
 
 - 16g) § 11 ods. 3 zákona č. 152/1998 Z. z.
 
-- 17) § 250l až 250s Občianskeho súdneho poriadku.
-
 - 17a) § 70 až 75a Obchodného zákonníka v znení neskorších predpisov.
 
 - 18) § 139a ods. 6 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
@@ -104,7 +102,7 @@
 
 - 18b) § 136 ods. 2 Zákonníka práce v znení zákona č. 210/2003 Z. z.
 
-- 18c) Napríklad zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 18ba) § 4 ods. 2 písm. d) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19) § 63 ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov.
 
