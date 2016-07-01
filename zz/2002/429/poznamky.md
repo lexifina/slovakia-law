@@ -58,8 +58,6 @@
 
 - 22a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 23) Občiansky súdny poriadok.
-
 - 24) Trestný poriadok.
 
 - 24a) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
@@ -191,5 +189,3 @@
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
 - 71) § 25 zákona č. 747/2004 Z. z.
-
-- 72) § 247 až 250k Občianskeho súdneho poriadku.
