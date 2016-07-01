@@ -18,8 +18,6 @@
 
 - 10) § 12 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
-- 11) § 30 Občianskeho súdneho poriadku.
-
 - 12) Zákon č. 328/1991 Zb. v znení neskorších predpisov.
 
 - 13) Zákon č. 550/2003 Z. z. o probačných a mediačných úradníkoch a o zmene a doplnení niektorých zákonov.
@@ -32,6 +30,10 @@
 
 - 15) Zákon č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.
 
-- 16) Občiansky súdny poriadok v znení neskorších predpisov.
+- 16) Civilný sporový poriadok.
+
+- Civilný mimosporový poriadok.
+
+- Správny súdny poriadok.
 
 - Trestný poriadok v znení neskorších predpisov.
