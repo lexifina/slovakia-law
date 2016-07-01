@@ -1,6 +1,6 @@
 - 1a) Občiansky zákonník.
 
-- 2) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
+- 2) § 324 až § 345 Civilného sporového poriadku.
 
 - 3) Zákon č. 71/1967 Zb. o správnom konaní v znení zákona č. 215/2002 Z. z.
 
