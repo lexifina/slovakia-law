@@ -82,9 +82,9 @@
 
 - 19b) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
 
-- 19c) § 273 ods. 2 písm. b) Občianskeho súdneho poriadku.
+- 19c) § 383 ods. 1 písm. b) Civilného mimosporového poriadku.
 
-- 19d) § 273 ods. 3 Občianskeho súdneho poriadku.
+- 19d) § 383 ods. 2 Civilného mimosporového poriadku.
 
 - 19e) § 5 ods. 11 a 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2009 Z. z.
 
@@ -98,13 +98,11 @@
 
 - § 12 ods. 1 písm. b) až d) zákona č. 305/2005 Z. z. v znení zákona č. 466/2008 Z. z.
 
-- 21) § 276 až 302 Občianskeho súdneho poriadku.
-
-- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 21) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - Nariadenie vlády Slovenskej republiky č. 89/1997 Z. z. o rozsahu zrážok zo mzdy povinného pri nútenom výkone rozhodnutia.
 
-- 22) § 317 ods. 2 Občianskeho súdneho poriadku.
+- 22) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - § 78 ods. 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
 
