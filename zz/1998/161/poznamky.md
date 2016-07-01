@@ -18,6 +18,4 @@
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 8) § 244 a nasl. Občianskeho súdneho poriadku.
-
 - 9) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
