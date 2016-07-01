@@ -6,7 +6,7 @@
 
 - 3) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
-- 4) Napríklad Trestný zákon v znení neskorších predpisov, Trestný poriadok v znení neskorších predpisov, § 116 ods. 2 a § 124 Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 4) Napríklad Trestný zákon v znení neskorších predpisov, Trestný poriadok v znení neskorších predpisov, § 174 ods. 1 a § 203 Civilného sporového poriadku, § 111 a § 126 Správneho súdneho poriadku.
 
 - 5) Napríklad § 2 Obchodného zákonníka v znení neskorších predpisov.
 
