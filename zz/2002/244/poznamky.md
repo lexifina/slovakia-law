@@ -2,17 +2,15 @@
 
 - 1a) Zákon č. 335/2014 Z. z. o spotrebiteľskom rozhodcovskom konaní a o zmene a doplnení niektorých zákonov.
 
-- 2) § 9 a 201 Občianskeho súdneho poriadku.
+- 2) § 3 Civilného sporového poriadku.
 
-- 3) § 96 ods. 1 a 2 a § 208 Občianskeho súdneho poriadku.
+- 3) § 144 až 146 Civilného sporového poriadku.
 
 - 3a) Napríklad § 115 Obchodného zákonníka.
 
-- 5) Napríklad ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 14 ods. 1 Občianskeho súdneho poriadku.
+- 5) Napríklad ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 49 ods. 1 Civilného sporového poriadku.
 
 - 6) § 3 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
-
-- 7) Napríklad § 124 Občianskeho súdneho poriadku, § 129 ods. 2 Trestného poriadku.
 
 - 7b) Napríklad zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení neskorších predpisov.
 
@@ -26,7 +24,7 @@
 
 - 9) § 41 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 11) § 39 a 40 Občianskeho súdneho poriadku.
+- 11) § 104 Civilného sporového poriadku.
 
 - 12) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -40,10 +38,8 @@
 
 - 13c) § 7 až 9 zákona č. 250/2007 Z. z.
 
-- 14) § 228 až 235 Občianskeho súdneho poriadku.
-
 - 15) § 41 ods. 2 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
-- 18) Občiansky súdny poriadok.
+- 18) Civilný sporový poriadok.
 
 - 19) Napríklad vyhláška ministra zahraničných vecí č. 74/1959 Zb. o Dohovore o uznaní a výkone cudzích rozhodcovských rozhodnutí, vyhláška ministra zahraničných vecí č. 176/1964 Zb. o Európskom dohovore o medzinárodnej obchodnej arbitráži.
