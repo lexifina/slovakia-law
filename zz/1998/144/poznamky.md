@@ -58,9 +58,9 @@
 
 - 29) Napríklad § 56 zákona č. 42/1980 Zb. o hospodárskych stykoch so zahraničím v znení neskorších predpisov.
 
-- 30) § 185i Občianskeho súdneho poriadku.
+- 30) § 310 Civilného mimosporového poriadku.
 
-- 31) § 74 a 251 Občianskeho súdneho poriadku.Exekučný poriadok.
+- 31) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov. § 324 Civilného sporového poriadku. Exekučný poriadok.
 
 - 32) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
