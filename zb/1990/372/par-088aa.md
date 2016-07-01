@@ -4,6 +4,6 @@
 
 (2) Ak sú splnené podmienky podľa odseku 1, vydá orgán uskutočňujúci výkon rozhodnutia tomu, kto páchateľovi priestupku príjem podľa odseku 1 vypláca, exekučný príkaz na vykonanie zrážok z tohto príjmu.
 
-(3) Pri výkone rozhodnutia podľa odsekov 1 a 2 sa primerane použijú ustanovenia Občianskeho súdneho poriadku.
+(3) Pri výkone rozhodnutia podľa odsekov 1 a 2 sa primerane použijú ustanovenia Exekučného poriadku.
 
 (4) Výkon rozhodnutia zrážkami z príjmu podľa odseku 1 nemožno vykonať exekúciou podľa osobitného predpisu.<sup>14d</sup>)
