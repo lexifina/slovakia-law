@@ -4,8 +4,6 @@
 
 - Zákon SNR č. 207/1968 Zb. o zriadení ministerstiev a iných ústredných orgánov štátnej správy Slovenskej socialistickej republiky v znení neskorších predpisov.
 
-- 3) § 244 - 250 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších zmien a doplnkov.
-
 - 4) Zákon č. 109/1964 Zb. Hospodársky zákonník (úplné znenie č. 80/1989 Zb.).
 
 - 5) Zákon č. 84/1990 Zb. o zhromažďovacom práve.
