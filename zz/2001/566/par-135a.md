@@ -1,12 +1,12 @@
 # § 135a
 
-(1) Národná banka Slovenska je povinná spolupracovať s príslušnými orgánmi členských štátov zodpovednými za dohľad nad finančným trhom, vymieňať si s nimi informácie na účely výkonu dohľadu a spolupracovať pri vyšetrovaní obchodovania s využitím dôverných informácií a manipulácie s trhom a na účely výkonu dohľadu nad obchodníkmi s cennými papiermi a trhmi s finančnými nástrojmi v súlade s osobitným predpisom.<sup>60b</sup>)
+(1) Národná banka Slovenska je povinná spolupracovať s príslušnými orgánmi členských štátov zodpovednými za dohľad nad finančným trhom,<sup>110ja</sup>) vymieňať si s nimi informácie na účely výkonu dohľadu a spolupracovať pri vyšetrovaní obchodovania s využitím dôverných informácií a manipulácie s trhom<sup>110ja</sup>) a na účely výkonu dohľadu nad obchodníkmi s cennými papiermi a trhmi s finančnými nástrojmi v súlade s osobitným predpisom.<sup>60b</sup>)
 
 (2) Ak príslušný orgán členského štátu požiada Národnú banku Slovenska o informácie na účely podľa odseku 1, Národná banka Slovenska je povinná bezodkladne tejto žiadosti vyhovieť. Ak Národná banka Slovenska nemá k dispozícii požadované informácie a nemá oprávnenie ich získať, bezodkladne oznámi žiadajúcemu orgánu túto skutočnosť.
 
 (3) Národná banka Slovenska je oprávnená odmietnuť poskytnutie informácií podľa odseku 1, ak
 
-- a) poskytnutie požadovaných informácií by mohlo nepriaznivo ovplyvniť suverenitu, bezpečnosť alebo verejný záujem Slovenskej republiky,
+- a) sú splnené podmienky podľa osobitného predpisu,<sup>110jb</sup>) ak ide o informácie týkajúce sa obchodovania s využitím dôverných informácii a manipulácie s trhom,
 
 - b) už v Slovenskej republike sa začalo súdne konanie s ohľadom na tie isté aktivity a voči tým istým osobám, ktorých sa týka žiadosť o poskytnutie informácií, alebo
 

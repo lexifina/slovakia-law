@@ -104,8 +104,6 @@
 
 - 39) Napríklad § 28 ods. 1 písm. a) zákona č. 483/2001 Z. z.
 
-- 40) Napríklad § 313 Občianskeho súdneho poriadku.
-
 - 41) Napríklad zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 42) § 131 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
@@ -118,7 +116,7 @@
 
 - 46) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
-- 47) Napríklad zákon Slovenskej národnej rady č. 511/1992 v znení neskorších predpisov, Občiansky súdny poriadok v znení neskorších predpisov.
+- 47) Civilný sporový poriadok.
 
 - 47a) § 2 písm. l) opatrenia Národnej banky Slovenska zo 16. januára 2004 č. 4/2004 o primeranosti vlastných zdrojov financovania bánk (oznámenie č. 36/2004 Z. z.).
 
@@ -360,7 +358,7 @@
 
 - Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 76a) § 248 písm. d) Občianskeho súdneho poriadku.
+- 76a) § 7 písmeno h) Správneho súdneho poriadku.
 
 - 77) Napríklad § 23 zákona č. 530/1990 Zb.
 
@@ -376,7 +374,7 @@
 
 - 81) § 781 ods. 2 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 82) Napríklad § 76 ods. 1 písm. e), § 175e ods. 1 a 2, § 305 písm. b) Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 82) Napríklad § 325 ods. 2 písm. c) Civilného sporového poriadku, § 179 a § 180 Civilného mimosporového poriadku.
 
 - 83) § 116 Občianskeho zákonníka.
 
@@ -406,15 +404,13 @@
 
 - 90) § 158 a 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
-- 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 71/1967 Zb. v znení neskorších predpisov.
+- 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 90aa) § 45 zákona č. 492/2009 Z. z.
 
 - 90ab) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.
 
 - 90ac) Čl. 2 ods. 1 bod 30 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014).
-
-- 91) Občiansky súdny poriadok v znení neskorších predpisov.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
 
@@ -464,7 +460,7 @@
 
 - 102a) § 4 ods. 6 zákona č. 594/2003 Z. z. o kolektívnom investovaní.
 
-- 102aa) § 161 ods. 3 Občianskeho súdneho poriadku.
+- 102aa) § 229 Civilného sporového poriadku.
 
 - 102b) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
@@ -473,14 +469,6 @@
 - 103a) Nariadenie Komisie (ES) č. 809/2004/ES z 29. apríla 2004 o vykonávaní Smernice 2003/71/ES Európskeho parlamentu a Rady, pokiaľ ide o informácie obsiahnuté v prospekte, ako ich formát, uvádzanie odkazu a uverejnenie týchto prospektov a šírenia reklám (Ú. v. EÚ L 149 z 30. 4. 2004).
 
 - 104) § 3 ods. 3 písm. p) tretí bod zákona č. 429/2002 Z. z. v znení zákona č. 388/2015 Z. z.
-
-- 107) § 37 ods. 1 písm. f) zákona č. 747/2004 Z. z.
-
-- 107a) Napríklad § 2 ods. 1 zákona č. 107/2004 Z. z. o spotrebnej dani z piva.
-
-- 107b) Nariadenie Komisie (ES) č. 2273/2003 z 22. decembra 2003 implementujúce smernicu č. 2003/6/ES vzhľadom na výnimky pre programy spätného odkupu a stabilizáciu finančných nástrojov (Ú. v. EÚ L 336, 23. 12. 2003).
-
-- 107c) Napríklad zákon č. 81/1966 Zb. o periodickej tlači a o ostatných hromadných informačných prostriedkoch v znení neskorších predpisov.
 
 - 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
@@ -500,7 +488,7 @@
 
 - 108b) Čl. 21 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1095/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/77/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
 
-- 109) Občiansky súdny poriadok v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 218/1996 Z. z. o rozhodcovskom konaní.
+- 109) Civilný sporový poriadok.
 
 - 109a) § 44 až 49 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -546,9 +534,17 @@
 
 - 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
+- 110ja) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú.v. EÚ L 173, 12. 6. 2014).
+
+- 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
+
 - 110k) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
+
+- 110m) Čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014.
+
+- 110n) Čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
@@ -558,7 +554,7 @@
 
 - 113) § 178 ods. 3 a § 187 písm. e) Obchodného zákonníka.
 
-- 114) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov.
+- 114) Napríklad Trestný zákon v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov, zákon č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov.
 
 - 114a) § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
