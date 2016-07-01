@@ -34,8 +34,6 @@
 
 - 9c) Nariadenie Slovenskej národnej rady č. 52/1945 Zb. SNR, ktorým sa zrušujú nadobudnutia nehnuteľností spadajúcich pod československú pozemkovú reformu, ktoré sa uskutočnili na území dočasne okupovanom maďarským štátom.
 
-- 9d) § 250l až 250s Občianskeho súdneho poriadku.
-
 - 9e) Čl. 4 Ústavy Slovenskej republiky.
 
 - § 19 a 31 zákona č. 138/1973 Zb. o vodách (vodný zákon).
