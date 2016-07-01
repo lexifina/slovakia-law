@@ -54,7 +54,7 @@
 
 - 18) § 553 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 19) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 19) Napríklad zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov a zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 19a) § 281 až 288 Obchodného zákonníka.
 
