@@ -8,8 +8,6 @@
 
 (2) O odmietnutí registrácie rozhodne okresný úrad v sídle kraja do 30 dní od začatia konania.
 
-(3) Proti rozhodnutiu o odmietnutí registrácie možno podať do 15 dní od doručenia rozhodnutia splnomocnencovi opravný prostriedok na súd.
+(3) Ak správny súd zruší rozhodnutie o odmietnutí registrácie združenia obcí, deň právoplatnosti rozhodnutia správneho súdu je dňom registrácie združenia obcí. Okresný úrad v sídle kraja na vyžiadanie zašle jedno vyhotovenie stanov splnomocnencovi združenia obcí, na ktorom vyznačí deň registrácie.
 
-(4) Súd rozhodnutie okresného úradu v sídle kraja zruší, ak neboli dané dôvody na odmietnutie registrácie. Deň právoplatnosti rozhodnutia súdu je dňom registrácie združenia obcí. Okresný úrad v sídle kraja na žiadosť splnomocnenca združenia obcí mu zašle jedno vyhotovenie stanov, na ktorom vyznačí deň registrácie.
-
-(5) Ak splnomocnencovi združenia obcí nebolo do 60 dní od začatia konania doručené rozhodnutie okresného úradu v sídle kraja o odmietnutí registrácie, združenie obcí nadobúda právnu subjektivitu dňom nasledujúcom po uplynutí tejto lehoty; tento deň je dňom registrácie. Okresný úrad v sídle kraja zašle splnomocnencovi združenia obcí jedno vyhotovenie stanov, na ktorom vyznačí deň registrácie.
+(4) Ak splnomocnencovi združenia obcí nebolo do 60 dní od začatia konania doručené rozhodnutie okresného úradu v sídle kraja o odmietnutí registrácie, združenie obcí nadobúda právnu subjektivitu dňom nasledujúcom po uplynutí tejto lehoty; tento deň je dňom registrácie. Okresný úrad v sídle kraja zašle splnomocnencovi združenia obcí jedno vyhotovenie stanov, na ktorom vyznačí deň registrácie.
