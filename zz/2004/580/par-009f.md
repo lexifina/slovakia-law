@@ -10,6 +10,6 @@
 
 (5) Príslušná zdravotná poisťovňa môže o odvolaní rozhodnúť sama, ak odvolaniu v plnom rozsahu vyhovie; ak nerozhodne do 15 pracovných dní odo dňa prijatia odvolania, je povinná v tejto lehote predložiť odvolanie spolu s výsledkami doplneného konania a so spisovým materiálom úradu.
 
-(6) O odvolaní podľa odseku 5 rozhodne úrad do 15 pracovných dní odo dňa prijatia odvolania spolu s výsledkami doplneného konania a so spisovým materiálom. Rozhodnutie úradu je preskúmateľné súdom.<sup>16he</sup>)
+(6) O odvolaní podľa odseku 5 rozhodne úrad do 15 pracovných dní odo dňa prijatia odvolania spolu s výsledkami doplneného konania a so spisovým materiálom.
 
 (7) Na konanie podľa odsekov 1 a 3 až 6 sa vzťahuje všeobecný predpis o správnom konaní,<sup>56</sup>) ak tento zákon neustanovuje inak.

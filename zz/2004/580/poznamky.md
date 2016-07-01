@@ -98,8 +98,6 @@
 
 - 16hd) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
-- 16he) § 247 až 250k Občianskeho súdneho poriadku.
-
 - 17) Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 189 z 18. júna 2003 s cieľom zaviesť Európsku kartu zdravotného poistenia, ktorá nahradí formuláre potrebné na aplikáciu nariadení Rady (EHS) č. 1408/71 a č. 574/72 vzťahujúce sa na prístup k zdravotnej starostlivosti počas dočasného pobytu v členskom štáte inom ako príslušnom alebo inom ako v štáte bydliska (2003/751/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
 - Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 190 z 18. júna 2003 týkajúce sa technických špecifikácií Európskej karty zdravotného poistenia (2003/752/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
