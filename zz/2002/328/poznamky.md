@@ -226,7 +226,7 @@
 
 - 51) § 45 a 46 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
 
-- 52) § 278 a 279 zákona č. 99/1963 Zb. Občiansky súdny poriadok.
+- 52) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - § 69 až 73 zákona č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 235/1998 Z. z.
 
