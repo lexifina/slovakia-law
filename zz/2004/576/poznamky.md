@@ -10,7 +10,7 @@
 
 - 4a) § 103 zákona č. 36/2005 Z. z.
 
-- § 75 a 75a Občianskeho súdneho poriadku.
+- § 324 až 344 Civilného sporového poriadku a § 365 Civilného mimosporového poriadku.
 
 - 4aa) § 22 ods. 1 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
@@ -28,7 +28,7 @@
 
 - 6b) § 102 ods. 1 písm. b) zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
-- § 180a ods. 1, § 180a ods. 6 a § 181 ods. 5 Občianskeho súdneho poriadku.
+- § 137 ods. 2, § 141 a § 145 Civilného mimosporového poriadku.
 
 - 6c) § 4 zákona Slovenskej národnej rady č. 73/1986 Zb. o umelom prerušení tehotenstva v znení zákona č. 419/1991 Zb.
 
