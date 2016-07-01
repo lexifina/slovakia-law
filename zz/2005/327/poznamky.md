@@ -30,7 +30,7 @@
 
 - 4) § 87 ods. 2 zákona č. 586/2003 Z. z. v znení zákona č. 332/2011 Z. z.
 
-- 4a) Napríklad § 241 ods. 1, § 250a Občiansky súdny poriadok v znení neskorších predpisov, § 20 ods. 2 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky o konaní pred ním a o postavení jeho sudcov v znení zákona č. 124/2002 Z. z.
+- 4a) Napríklad § 91, § 428 a 429 Civilného sporového poriadku, Správny súdny poriadok, § 20 ods. 2 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky o konaní pred ním a o postavení jeho sudcov v znení zákona č. 124/2002 Z. z.
 
 - 4b) Zákon č. 420/2004 Z. z. v znení neskorších predpisov.
 
@@ -72,7 +72,7 @@
 
 - 17b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 337/2011 Z. z.
 
-- 18) § 142 až 151a Občianskeho súdneho poriadku.
+- 18) § 251 až 264 Civilného sporového poriadku.
 
 - 18a) § 14a až 14f vyhlášky Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
 
@@ -83,5 +83,3 @@
 - 19b) § 2 ods. 4 zákona č. 404/2011 Z. z.
 
 - 19c) § 88 ods. 5 zákona č. 404/2011 Z. z.
-
-- 20) Občiansky súdny poriadok.
