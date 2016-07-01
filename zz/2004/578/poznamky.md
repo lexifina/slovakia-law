@@ -172,17 +172,13 @@
 
 - 40) § 153 až 155 Zákonníka práce.
 
-- 41) § 172 až 175 Občianskeho súdneho poriadku.
+- 41) § 265 až 268 Civilného sporového poriadku.
 
 - 41a) § 3 ods. 1 písm. a) druhý bod zákona č. 153/2013 Z. z.
 
 - 41aa) § 61 ods. 4 Trestného zákona.
 
 - 42) § 50 ods. 2 písm. d) zákona č. 581/2004 Z. z.
-
-- 43) § 251 až 351 Občianskeho súdneho poriadku.
-
-- Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 43a) § 49 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
