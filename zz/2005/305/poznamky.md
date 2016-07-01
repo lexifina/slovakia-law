@@ -52,7 +52,7 @@
 
 - 17a) Napríklad § 24 zákona č. 36/2005 Z. z. v znení zákona č. 217/2010 Z. z.
 
-- 18) § 100 ods. 3 Občianskeho súdneho poriadku.
+- 18) § 38 Civilného mimosporového poriadku.
 
 - 19) § 39 ods. 3, § 57 ods. 4 a § 60 zákona č. 36/2005 Z. z.
 
@@ -76,11 +76,11 @@
 
 - 27) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 28) § 75a Občianskeho súdneho poriadku.
+- 28) § 365 Civilného mimosporového poriadku.
 
 - 29) Dohovor o občianskoprávnych aspektoch medzinárodných únosov detí (oznámenie č. 119/2001 Z. z.).
 
-- 30) § 75 a 75a Občianskeho súdneho poriadku.
+- 30) § 360 až 369 Civilného mimosporového poriadku.
 
 - 31) Nariadenie vlády Slovenskej republiky č. 716/2002 Z. z., ktorým sa vydáva zoznam bezpečných tretích krajín a bezpečných krajín pôvodu v znení nariadenia vlády Slovenskej republiky č. 288/2004 Z. z.
 
@@ -128,7 +128,7 @@
 
 - 39) Zákon č. 36/2005 Z. z.
 
-- Občiansky súdny poriadok.
+- Civilný mimosporový poriadok.
 
 - 40) § 146 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
@@ -170,7 +170,7 @@
 
 - 49a) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
-- 50) Napríklad Trestný zákon, Trestný poriadok, Občiansky súdny poriadok.
+- 50) Napríklad Trestný zákon, Trestný poriadok, Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - 52) § 60, § 102 ods. 3 zákona č. 36/2005 Z. z.
 
@@ -210,7 +210,7 @@
 
 - 61) Dohovor o právomoci, rozhodnom práve, uznávaní a výkone a spolupráci v oblasti rodičovských práv a povinností a opatrení na ochranu dieťaťa (oznámenie č. 344/2002 Z. z.).
 
-- 62) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov, § 93 ods. 2 Občianskeho súdneho poriadku.
+- 62) Napríklad zákon č. 97/1963 Zb. o medzinárodnom práve súkromnom a procesnom v znení neskorších predpisov, § 95 ods. 1 Civilného sporového poriadku a § 12 ods. 1 Civilného mimosporového poriadku.
 
 - 64) Čl. 4 Dohovoru o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
@@ -218,7 +218,7 @@
 
 - 66) Čl. 17 Dohovoru o ochrane detí a o spolupráci pri medzištátnych osvojeniach (oznámenie č. 380/2001 Z. z.).
 
-- 67) Napríklad zákon č. 36/2005 Z. z., Občiansky súdny poriadok.
+- 67) Napríklad zákon č. 36/2005 Z. z., Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok.
 
 - 68) § 136 ods. 1 Zákonníka práce.
 
