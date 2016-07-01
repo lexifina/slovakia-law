@@ -50,7 +50,7 @@
 
 - 25) § 20 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
-- 26) § 250l až 250s Občianskeho súdneho poriadku.
+- 26) § 177 až 193 Správneho súdneho poriadku.
 
 - 27) § 476 až 488 Obchodného zákonníka.
 
@@ -58,7 +58,7 @@
 
 - 29) Napríklad § 72 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 30) § 175e ods. 1 Občianskeho súdneho poriadku.
+- 30) § 179 Civilného mimosporového poriadku.
 
 - 31) § 16 písm. p) zákona č. 308/2000 Z. z.
 
