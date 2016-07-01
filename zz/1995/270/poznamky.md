@@ -4,7 +4,7 @@
 
 - 3) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností.
 
-- 4) Napríklad § 18 Občianskeho súdneho poriadku v znení zákona č. 341/2005 Z. z., zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín, zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín, § 5 ods. 1 písm. g) zákona č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov, § 2 ods. 20 Trestného poriadku, § 2 ods. 2 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon), § 11 ods. 2, § 12 ods. 3 a § 18 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+- 4) Napríklad § 155 ods. 1 Civilného sporového poriadku, zákon Národnej rady Slovenskej republiky č. 191/1994 Z. z. o označovaní obcí v jazyku národnostných menšín, zákon č. 184/1999 Z. z. o používaní jazykov národnostných menšín, § 5 ods. 1 písm. g) zákona č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov, § 2 ods. 20 Trestného poriadku, § 2 ods. 2 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon), § 11 ods. 2, § 12 ods. 3 a § 18 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
 - 5) Napríklad § 120 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 2 zákona č. 532/2010 Z. z., § 2 a 17 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -64,7 +64,7 @@
 
 - 11g) § 2 ods. 2 zákona č. 184/1999 Z. z.
 
-- 12) Napríklad § 18 Občianskeho súdneho poriadku v znení zákona č. 341/2005 Z. z., zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 20 Trestného poriadku.
+- 12) Napríklad § 155 ods. 1 Civilného sporového poriadku, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 ods. 20 Trestného poriadku.
 
 - 13) Napríklad § 9 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 24 zákona č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov, § 13 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
