@@ -4,6 +4,8 @@ Zákon č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektor
 
 - 1. V § 2 písm. b) sa za slová „správnom konaní alebo“ vkladajú slová „v obdobnom konaní vedenom podľa“.
 
+- 2. V poznámke pod čiarou k odkazu 10 sa vypúšťa citácia „Občiansky súdny poriadok v znení neskorších predpisov.“.
+
 - 3. V § 4 ods. 3 druhej vete sa na konci pripájajú tieto slová: „alebo príslušenstvo<sup>12</sup>) pohľadávky štátu nepresiahne 20 eur“.
 
 - 4. V § 13 ods. 1 písm. h) sa vypúšťajú slová „alebo riadnym a včasným splnením reštrukturalizačného plánu<sup>11</sup>)“.
@@ -87,3 +89,5 @@ Zákon č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektor
 - Do uzavretia zmluvy o postúpení pohľadávky štátu je správca oprávnený pri správe pohľadávky štátu postupovať podľa § 4 a § 7 až 11. Ak zanikol dôvod nepostúpenia pohľadávky štátu podľa odseku 1 písm. b), d) alebo písm. e) alebo správca nepostúpi pohľadávku štátu v lehote podľa odseku 1, povinnosť postúpiť pohľadávku štátu naďalej trvá. Ak právoplatnosťou rozhodnutia príslušného súdu, ktorým nebolo rozhodnutie, na základe ktorého vznikla pohľadávka štátu, zrušené, alebo právoplatnosťou rozhodnutia Ústavného súdu Slovenskej republiky, ktorým nebolo zrušené rozhodnutie príslušného súdu, zanikol dôvod nepostúpenia verejnej pohľadávky štátu, správca ju nepostúpi podľa odseku 1 a môže s ňou naložiť podľa § 14 až 18.“.
 
 - 16. V § 23 ods. 2 sa na konci pripája táto veta: „Ak ide o pohľadávky štátu vzniknuté do 31. decembra 2013, údaje podľa § 5 ods. 2 sa v centrálnom registri nezverejňujú.“.
+
+- 17. Slová „preskúmateľné súdom“ sa v celom texte zákona nahrádzajú slovami „preskúmateľné správnym súdom“.
