@@ -20,7 +20,7 @@
 
 - 10) Čl. 7 ods. 2 a čl. 120 ods. 2 Ústavy Slovenskej republiky.
 
-- 10a) § 250zfa ods. 6 Občianskeho súdneho poriadku.
+- 10a) § 362 Správneho súdneho poriadku.
 
 - 11) Zákon č. 431/2001 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -56,6 +56,6 @@
 
 - 18f) Napríklad zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
 
-- 19) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 19) § 4 ods. 2 písm. c) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene
 
-- 20) § 250l Občianskeho súdneho poriadku.
+- a doplnení niektorých zákonov v znení neskorších predpisov.
