@@ -32,7 +32,7 @@
 
 - 14a) § 22 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
 
-- 14b) § 80 písm. c) Občianskeho súdneho poriadku.
+- 14b) § 137 písm. c) Civilného sporového poriadku.
 
 - 14c) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
@@ -54,11 +54,9 @@
 
 - 22) § 16 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
-- 23) Napríklad § 80 písm. c) Občianskeho súdneho poriadku, § 9 zákona č. 229/1991 Zb.
+- 23) Napríklad § 137 písm. c) Civilného sporového poriadku, § 9 zákona č. 229/1991 Zb.
 
-- 24) § 247 až 250k Občianskeho súdneho poriadku.
-
-- 25) § 80 písm. c) Občianskeho súdneho poriadku.
+- 25) § 137 písm. c) Civilného sporového poriadku.
 
 - 25a) § 134 Občianskeho zákonníka.
 
@@ -67,8 +65,6 @@
 - 27) § 2 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam.
 
 - 28) § 14 ods. 1 a 2 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení zákona Slovenskej národnej rady č. 306/1992 Zb., zákona Národnej rady Slovenskej republiky č. 43/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. a zákona Národnej rady Slovenskej republiky č. 245/1994 Z. z.
-
-- 29) § 250l až 250s Občianskeho súdneho poriadku.
 
 - 30) Zákon č. 229/1991 Zb. v znení neskorších predpisov.
 
@@ -126,7 +122,7 @@
 
 - 49) § 142 a 149 Občianskeho zákonníka.
 
-- 50) § 175q Občianskeho súdneho poriadku.
+- 50) § 203 Civilného mimosporového poriadku.
 
 - 51) § 43 ods. 2 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
 
