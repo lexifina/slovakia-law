@@ -42,6 +42,8 @@
 
 - 17) § 8a ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
+- 17a) § 5 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov.
+
 - 18) § 31 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 19) § 116 Občianskeho zákonníka.
