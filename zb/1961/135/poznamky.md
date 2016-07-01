@@ -98,9 +98,9 @@
 
 - 6b) § 140a a § 140b zákona č. 50/1976 Zb. v znení zákona č. 479/2005 Z. z.
 
-- 6c) § 111 ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 6c) § 4 ods. 3 zákona č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
-- 6d) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
+- 6d) Napríklad zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov, zákon č. 669/2007 Z. z. o jednorazových mimoriadnych opatreniach v príprave niektorých stavieb diaľnic a ciest pre motorové vozidlá a o doplnení zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností (katastrálny zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 282/2015 Z. z.
 
 - 7) Napríklad zákon č. 51/1964 Zb. o dráhach v znení zákona č. 104/1974 Zb., zákon č. 50/1976 Zb. v znení neskorších predpisov.
 
