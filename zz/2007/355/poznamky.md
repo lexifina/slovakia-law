@@ -144,7 +144,7 @@
 
 - 30) § 3 zákona č. 163/2001 Z. z.
 
-- 31) Zákon č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov.
+- 31) Civilný mimosporový poriadok.
 
 - Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
