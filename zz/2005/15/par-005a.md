@@ -10,7 +10,7 @@
 
 (3) Ministerstvo udelí licenciu právnickej osobe,
 
-- a) ktorá spĺňa podmienku podľa § 3 ods. 4 písm. b),
+- a) ktorá spĺňa podmienku podľa § 3 ods. 4 písm. b) a ods. 5 písm. b),
 
 - b) ak fyzická osoba, ktorá je štatutárnym orgánom alebo členom štatutárneho orgánu, je bezúhonnou osobou (§ 3 ods. 4); bezúhonnosť sa preukazuje výpisom z registra trestov nie starším ako tri mesiace.
 

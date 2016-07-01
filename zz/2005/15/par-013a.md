@@ -16,7 +16,7 @@
 
 - c) obchodné meno, sídlo, miesto podnikania a identifikačné číslo podnikateľa; ak je žiadateľom právnická osoba, aj meno, priezvisko, adresu a dátum narodenia fyzickej osoby, ktorá je oprávnená konať v mene právnickej osoby.
 
-(4) Podnikateľ priloží k žiadosti o udelenie licencie na krúžky výpis z registra trestov nie starší ako tri mesiace. Ak je podnikateľom právnická osoba, má túto povinnosť štatutárny orgán alebo člen štatutárneho orgánu.
+(4) Podnikateľ priloží k žiadosti o udelenie licencie na krúžky výpis z registra trestov nie starší ako tri mesiace. Ak je podnikateľom právnická osoba, má túto povinnosť táto právnická osoba a jej štatutárny orgán alebo člen štatutárneho orgánu.
 
 (5) Licencia na krúžky obsahuje evidenčný kód výrobcu krúžkov alebo distribútora krúžkov, dobu platnosti licencie na krúžky, vzor označenia krúžkov, údaje podľa odseku 3 a ďalšie podmienky prevádzkovania činnosti.
 
