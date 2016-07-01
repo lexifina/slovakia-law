@@ -1,7 +1,5 @@
 - 1) Nariadenie Európskeho parlamentu a Rady (ES) č. 562/2006 z 15. marca 2006, ktorým sa ustanovuje kódex Spoločenstva o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc) (Ú. v. EÚ L 105, 13. 4. 2006).
 
-- 2) § 75 a 75a Občianskeho súdneho poriadku.
-
 - 3) Nariadenie Rady (ES) č. 2252/2004 z 13. decembra 2004 o normách pre bezpečnostné znaky a biometriu v pasoch a cestovných dokladoch vydávaných členskými štátmi (Ú. v. EÚ L 385, 29. 12. 2004) v platnom znení.
 
 - 4) § 110 ods. 5 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -38,7 +36,7 @@
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 16) § 176 zákona č. 99/1963 Zb. Občianskeho súdneho poriadku.
+- 16) § 111 Civilného mimosporového poriadku.
 
 - 16a) Čl. 1 ods. 2a nariadenia Rady (ES) č. 2252/2004.
 
@@ -48,15 +46,11 @@
 
 - 19) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 20) § 74 Občianskeho súdneho poriadku.
-
 - 21) Čl. 1 ods. 2 nariadenia Rady (ES) č. 2252/2004.
 
 - 21a) § 82 ods. 1 písm. a) Trestného poriadku.
 
 - 21b) § 73 Trestného poriadku v znení neskorších predpisov.
-
-- 22) § 250l Občianskeho súdneho poriadku.
 
 - 23) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
