@@ -1,4 +1,4 @@
-- 1) Napríklad § 127 ods. 3 Občianskeho súdneho poriadku.
+- 1) Napríklad § 210 Civilného sporového poriadku.
 
 - 2) § 2 ods. 1 Obchodného zákonníka.
 
@@ -18,9 +18,9 @@
 
 - 6a) § 3 až 8 a § 10 až 16 zákona č. 136/2010 Z. z.
 
-- 7) Napríklad § 105 ods. 2 Trestného poriadku, § 127 ods. 1 Občianskeho súdneho poriadku.
+- 7) Napríklad § 105 ods. 2 Trestného poriadku, § 206 a § 207 Civilného sporového poriadku.
 
-- 8) Napríklad § 107 ods. 2 Trestného poriadku, § 127 ods. 1 Občianskeho súdneho poriadku.
+- 8) Napríklad § 107 ods. 2 Trestného poriadku, § 208 Civilného sporového poriadku.
 
 - 9) Napríklad § 110 Trestného poriadku.
 
