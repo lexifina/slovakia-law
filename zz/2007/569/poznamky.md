@@ -32,7 +32,7 @@
 
 - § 66b zákona č. 455/1991 Zb. v znení zákona č. 136/2010 Z. z.
 
-- 12) § 175e zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení zákona č. 263/1992 Zb.
+- 12) § 179 Civilného mimosporového poriadku.
 
 - 12a) § 2 písm. d) a § 8 ods. 1 zákona č. 136/2010 Z. z.
 
