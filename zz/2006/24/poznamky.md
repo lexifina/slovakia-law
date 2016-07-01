@@ -72,8 +72,6 @@
 
 - § 20f až 20j Občianskeho zákonníka.
 
-- 26) Piata časť Občianskeho súdneho poriadku.
-
 - 27) § 32 až 42, 54 až 70 a 76 až 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 28) Napríklad § 140b zákona č. 50/1976 Zb. v znení neskorších predpisov, § 16 ods. 2 zákona č. 223/2001 Z. z. v znení neskorších predpisov, § 103 ods. 7 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 73 ods. 18 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
