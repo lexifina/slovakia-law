@@ -98,7 +98,7 @@
 
 - 30) § 131a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 31) Občiansky súdny poriadok.
+- 31) Civilný sporový poriadok.
 
 - 32) Trestný zákon.
 
@@ -142,7 +142,7 @@
 
 - 41f) Napríklad § 2 ods. 1 písm. d) a § 4 ods. 1 a 3 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov,§ 91 ods. 4 písm. g) zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 41g) § 251 až 320a Občianskeho súdneho poriadku v znení neskorších predpisov a zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 41g) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov a zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 41h) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
