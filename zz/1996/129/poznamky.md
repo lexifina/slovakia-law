@@ -28,7 +28,7 @@
 
 - Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.Zákon Národnej rady Slovenskej republiky č. 282/1993 Z. z. o zmiernení niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam.
 
-- 17) § 352 Občianskeho súdneho poriadku.
+- 17) § 359 Civilného mimosporového poriadku.
 
 - 18) § 13 zákona č. 87/1991 Zb.§ 14 zákona č. 229/1991 Zb.
 
