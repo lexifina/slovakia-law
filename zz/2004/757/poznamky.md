@@ -1,6 +1,6 @@
 - 1) Zákon č. 371/2004 Z. z. o sídlach a obvodoch súdov Slovenskej republiky a o zmene zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov v znení zákona č. 428/2004 Z. z.
 
-- 2) Občiansky súdny poriadok.
+- 2) Civilný sporový poriadok. Civilný mimosporový poriadok. Správny súdny poriadok.
 
 - 3) Trestný poriadok.
 
@@ -32,7 +32,7 @@
 
 - 15) § 73 ods. 3, § 75 a 79 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
-- 16) § 175za Občianskeho súdneho poriadku.
+- 16) § 16 Civilného mimosporového poriadku.
 
 - 16a) Zákon č. 385/2000 Z. z.
 
@@ -42,7 +42,11 @@
 
 - 18a) § 30 zákona č. 385/2000 Z. z.
 
-- Občiansky súdny poriadok.
+- Civilný sporový poriadok.
+
+- Civilný mimosporový poriadok.
+
+- Správny súdny poriadok.
 
 - Trestný poriadok.
 
