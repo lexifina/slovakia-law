@@ -6,17 +6,11 @@
 
 - 3) § 20 ods. 1 Občianskeho zákonníka.
 
-- 4) § 250ze Občianskeho súdneho poriadku.
-
-- 5) § 247 až 250k Občianskeho súdneho poriadku.
-
 - 6) Napríklad zákon č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky.
 
 - 7) § 14 ods. 2 písm. e) zákona č. 153/2001 Z. z. o prokuratúre.
 
 - 8) § 70 až 75a Obchodného zákonníka.
-
-- 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
 - 10) § 673 až 681 Obchodného zákonníka.
 
