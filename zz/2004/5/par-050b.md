@@ -14,7 +14,7 @@
 
 (2) Na účely poskytovania podpory a pomoci zamestnancom nájsť zamestnanie na otvorenom trhu práce, sociálny podnik pracovnej integrácie spolupracuje s úradom, právnickými osobami alebo fyzickými osobami, ktoré podporujú alebo vykonávajú integráciu znevýhodnených uchádzačov o zamestnanie na trhu práce.
 
-(3) Fyzickej osobe môže byť priznané postavenie sociálneho podniku pracovnej integrácie, ak je bezúhonná. U právnickej osoby musí podmienku bezúhonnosti spĺňať osoba, ktorá koná v mene právnickej osoby; bezúhonnosť na účely tohto zákona sa preukazuje výpisom z registra trestov<sup>32</sup>) nie starším ako tri mesiace.
+(3) Právnickej osobe alebo fyzickej osobe môže byť priznané postavenie sociálneho podniku pracovnej integrácie, ak je bezúhonná. U právnickej osoby musí podmienku bezúhonnosti spĺňať aj osoba, ktorá koná v mene právnickej osoby; bezúhonnosť sa preukazuje výpisom z registra trestov<sup>32</sup>) nie starším ako tri mesiace.
 
 (4) Postavenie sociálneho podniku pracovnej integrácie prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Postavenie sociálneho podniku pracovnej integrácie je možné priznať aj chránenej dielni alebo chránenému pracovisku za podmienok ustanovených v predchádzajúcej vete. Ústredie neprizná postavenie sociálneho podniku pracovnej integrácie právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
 
