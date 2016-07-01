@@ -126,6 +126,38 @@ Zákon č. 7/2005 o konkurze a reštrukturalizácii a o zmene a doplnení niekto
 
   - § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.“.
 
+- 2. V § 28 ods. 2 sa na konci pripája táto veta: „Doručením prihlášky do elektronickej schránky správcu sa prihláška považuje za doručenú aj na súde.“.
+
+- 3. Za § 197 sa vkladá § 197a, ktorý vrátane nadpisu znie:
+
+- „§ 197a
+
+- Elektronické podanie správcovi
+
+- (1)
+
+- Písomnosti určené správcovi možno podať elektronicky aj do elektronickej schránky správcu prostredníctvom na to určeného elektronického formulára; elektronické podanie a jeho prílohy musia byť podpísané zaručeným elektronickým podpisom osoby oprávnenej na podanie elektronického podania.
+
+- (2)
+
+- Súčasťou prihlášky nepeňažnej pohľadávky podávanej elektronicky do elektronickej schránky správcu musí byť znalecký posudok podľa § 29 ods. 7.
+
+- (3)
+
+- Ak písomnosti určené správcovi nemožno doručiť elektronicky do elektronickej schránky správcu preukázateľne z dôvodov, ktoré nenastali na strane podávajúcej osoby, lehota na podanie písomností sa považuje za zachovanú, ak sa písomnosti doručia správcovi najneskôr do troch pracovných dní po uplynutí lehoty podľa tohto zákona.
+
+- (4)
+
+- Na elektronické doručovanie elektronických podaní správcovi sa použije osobitný predpis.<sup>33a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 33a znie:
+
+  - „33a)
+
+  - Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.“.
+
+- 4. § 204a sa vypúšťa.
+
 - 5. Doterajší text § 206c sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
 
 - „(2)
