@@ -44,7 +44,7 @@
 
 - 23) § 17 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 23a) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
+- 23a) Napríklad Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
 - 23b) Nariadenie Rady (ES) č. 116/2009 z 18. decembra 2008 o vývoze tovaru kultúrneho charakteru (kodifikované znenie), (Ú. v. EÚ L 39, 10. 2. 2009).
 
@@ -94,7 +94,7 @@
 
 - 38) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
-- 38a) § 108 až 116 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 38a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
 - 40) Zákon č. 71/1967 Zb.
 
