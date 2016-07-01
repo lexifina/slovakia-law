@@ -18,7 +18,7 @@
 
 - 3) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 4) Napríklad Trestný zákon,Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
+- 4) Napríklad Trestný zákon, Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 4a) Napríklad § 141 až 152 Trestného poriadku.
 
@@ -32,7 +32,7 @@
 
 - 8) § 116 zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov.
 
-- 8a) Napríklad § 52 Občianskeho súdneho poriadku v znení neskorších predpisov, § 120 ods. 3 a § 128 Trestného poriadku, § 42 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+- 8a) Napríklad § 101 Civilného sporového poriadku, § 77 Správneho súdneho poriadku, § 120 ods. 3 a § 128 Trestného poriadku, § 42 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 9) Napr. zákon Národnej rady Slovenskej republiky č. 162/1993 Z. z. o občianskych preukazoch, zákon č. 381/1997 Z. z. o cestovných dokladoch v znení neskorších predpisov, zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -62,13 +62,13 @@
 
 - 11bdb) § 13 zákona č. 404/2011 Z. z.
 
-- 11be) § 76 ods. 1 písm. g) Občianskeho súdneho poriadku.
+- 11be) § 325 ods. 2 písm. e) Civilného sporového poriadku.
 
 - 11bf) § 1 zákona Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
 - 11bg) § 47 ods. 1 písm. a) zákona Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
-- 11bh) § 75b Občianskeho súdneho poriadku.
+- 11bh) § 328 až 332 Civilného sporového poriadku.
 
 - 11bi) Šiesta časť zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
