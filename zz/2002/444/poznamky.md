@@ -10,7 +10,7 @@
 
 - 5a) Občiansky zákonník.
 
-- 6) § 74 až 77 a § 102 Občianskeho súdneho poriadku.
+- 6) § 324 až 345 Civilného sporového poriadku.
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
@@ -27,5 +27,3 @@
 - 13) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
 - 14) Článok 71 nariadenia Rady (ES) č. 6/2002 z 12. decembra 2001 o dizajnoch Spoločenstva.
-
-- 15) § 275 ods. 1 Občianskeho súdneho poriadku.
