@@ -1,6 +1,6 @@
 - 1) § 45, 48 a § 56 ods. 2 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
-- § 75 a 75a Občianskeho súdneho poriadku.
+- § 360 a 365 Civilného mimosporového poriadku.
 
 - 3) § 45 až 47 zákona č. 36/2005 Z. z.
 
@@ -8,7 +8,7 @@
 
 - 5) § 56 až 59 zákona č. 36/2005 Z. z.
 
-- 6) § 75 a 75a Občianskeho súdneho poriadku.
+- 6) § 360 a 365 Civilného mimosporového poriadku.
 
 - 6a) § 103 zákona č. 36/2005 Z. z.
 
@@ -52,13 +52,13 @@
 
 - 22) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
-- 23) Občiansky súdny poriadok.
+- 23) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
 
 - Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - Nariadenie vlády Slovenskej republiky č. 89/1997 Z. z. o rozsahu zrážok zo mzdy povinného pri výkone rozhodnutia.
 
-- 24) Napríklad Občiansky súdny poriadok, § 78 ods. 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 24) Napríklad zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, § 78 ods. 5 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
