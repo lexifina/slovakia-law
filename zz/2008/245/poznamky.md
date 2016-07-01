@@ -152,7 +152,7 @@
 
 - 66) Napríklad § 103 Trestného zákona, § 54 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
-- 67) § 75 a 75a Občianskeho súdneho poriadku.
+- 67) § 360 a 365 Civilného mimosporového poriadku.
 
 - 68) § 37 ods. 2 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
