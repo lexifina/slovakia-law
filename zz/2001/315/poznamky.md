@@ -130,8 +130,6 @@
 
 - Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 491/2004 Z. z. o odmenách, náhradách výdavkov a náhradách za stratu času pre znalcov, tlmočníkov a prekladateľov.
 
-- 27) Občiansky súdny poriadok v znení neskorších predpisov.
-
 - 27a) § 7 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - § 70 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
