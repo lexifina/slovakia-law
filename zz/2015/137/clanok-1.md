@@ -8,17 +8,35 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 3. V § 10 sa za slová "Secure Sockets Layer (SSL)" vkladajú slová "najmenej vo verzii 3.0".
 
+- 4. V § 11 písm. g) sa za slovo "zverejnenej" vkladajú slová "po dohode s ministerstvom podľa § 4 ods. 1 písm. c) zákona".
+
 - 5. V § 13 písm. a) sa vypúšťajú slová "jazyka Extensible Markup Language (.xml) vo verzii 1.0 podľa World Wide Web Consortium (W3C) pri výmene dátových prvkov, pričom ak je cieľom automatizované spracovanie rozlišujúce význam obsahu dátových prvkov, je možné namiesto Extensible Markup Language použiť dátový model Resource Description Framework (RDF); pri otvorených údajoch je možné použiť aj formát CSV podľa § 23 písm. e) alebo formát JavaScript Object Notation (JSON),".
 
 - 6. V § 13 písm. b) sa za slová "pri výmene dátových prvkov," vkladajú slová " a to s hodnotou atribútu pre deklaráciu menného priestoru spravidla v tvare referencovateľného identifikátora,".
 
 - 7. V poznámke pod čiarou k odkazu 3 sa za slovo "5b" vkladajú slová "a § 14".
 
+- 8. V § 19 písm. e) sa na konci pripájajú tieto slová:
+
+- „primerane podľa požiadavky na úpravu“.
+
 - 9. V § 20 sa slová "Portable Document Format (.pdf) minimálne vo verzii 1.3 a maximálne vo verzii 1.5" nahrádzajú slovami "podľa § 19 písm. a) druhého bodu".
 
 - 10. V § 24 písm. b) sa za slová "technicky možné" vkladajú slová "alebo pri poskytovaní informácií primerané".
 
 - 11. V § 24 písm. b) druhom bode sa za slová "písm. a)" vkladajú slová "prvom a druhom bode".
+
+- 12. V § 24 písm. d) sa za slová "vizuálne zobrazený obsah" vkladajú slová "s rovnakým zachovávaním aktívnych vzorcov a funkcií".
+
+- 13. § 24 sa dopĺňa písmenami i) a j), ktoré znejú:
+
+- „i)
+
+- spravidla poskytovanie možnosti lokálneho uloženia obsahu tabuľky v rovnakej štruktúre v jednom z formátov podľa § 24 písm. b) druhého bodu, ak sa poskytuje súbor obsahujúci tabuľky vo forme webovej stránky podľa písmena b), a to najmä vo formáte obsahujúceho tabuľky Comma Separated Values (CSV) alebo v oboch formátoch podľa § 24 písm. b) prvého bodu súčasne,
+
+- j)
+
+- primerané zohľadňovanie podmienok podľa § 51 až 53 pri postupe podľa písmen b) až d).“.
 
 - 14. V § 37 písm. d) sa slová "§ 3 ods. 1 písm. a)" nahrádzajú slovami "§ 3 ods. 3 písm. a)".
 
@@ -41,6 +59,12 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - c)
 
 - rozširovanie typov dátových prvkov na osobitné dátové typy podľa prílohy č. 2, ak je to potrebné.“.
+
+- 16. § 47 sa dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- poskytovanie dokumentácie potrebnej pre používanie elektronických služieb poskytovaných cez aplikačné rozhrania, a to vrátane dokumentácie pre tieto aplikačné rozhrania.“.
 
 - 17. V § 53 písm. e) sa slovo "§ 13" nahrádza slovom "§ 11".
 
@@ -172,6 +196,10 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 40. V prílohe č. 3 bode 7.2.1 písm. g) sa slová "transformačných schém" nahrádzajú slovami "dokumentácie elektronického formulára".
 
+- 41. V prílohe č. 3 bode 7.2.2 sa vypúšťa slovo "a)," a na konci sa pripája táto veta:
+
+- „Ak je kontajner vo formáte ZIP archívu, časť kontajnera podľa písmena a) je povinná.“.
+
 - 42. V prílohe č. 3 bode 7.3.1 prvom riadku tabuľky sa za slová "náhradná reprezentácia nie je potrebná" dopĺňajú slová ", na účel identifikácie formátu sa používa deklarácia menného priestoru s hodnotou v tvare referencovateľného identifikátora v koreňovom dátovom prvku "e-form"".
 
 - 43. V prílohe č. 3 bode 7.3.2 sa slová "full-path="/e-form/meta:meta"" nahrádzajú slovami "full-path="/e-form/meta:meta" filename="meta.xml"", slová "full-path="/e-form/xs:schema"" sa nahrádzajú slovami "full-path="/e-form/xs:schema" filename="schema.xsd"", slová "full-path="/e-form/data:data"" sa nahrádzajú slovami "full-path="/e-form/data:data" filename="data.xml"", slová "full-path="/e-form/content:file1"" sa nahrádzajú slovami "full-path="/e-form/content:file[@id='1']"", slová "media-destination-description" sa nahrádzajú slovami "media-destination-type-description", slová "full-path="/e-form/content:file2"" sa nahrádzajú slovami "full-path="/e-form/content:file[@id='2']"", slová "<content:file1 xmlns:content="urn:content:1.0">" sa nahrádzajú slovami "<content:file id="1" xmlns:content="urn:content:1.0">", slová "</content:file1>" a "</content:file2>" sa nahrádzajú slovami "</content:file>" a slová "<content:file2 xmlns:content="urn:content:1.0">" sa nahrádzajú slovami "<content:file id="2" xmlns:content="urn:content:1.0">".
@@ -255,6 +283,8 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - 54. V prílohe č. 3 bode 7.9.5 sa slová "poskytuje rozdielnu prezentačnú schému" nahrádzajú slovami "obsahuje osobitné prezentačné schémy" a slová "s technickými normami.<sup>16</sup>)" sa nahrádzajú slovami "so základným číselníkom CL010076 Jazyky".
 
   - Poznámka pod čiarou k odkazu 16 sa vypúšťa.
+
+- 55. V prílohe č. 3 bode 7.10.1 sa vypúšťa druhá veta a na konci sa pripája táto veta: "Používa sa najmä pre prezentáciu pre tlač bez vyplnených údajov podľa bodu 2.6.2.".
 
 - 56. V prílohe č. 3 bode 7.12.3 sa slová "<xs:attribute type="xs:string" name="filename" use="optional"/>" nahrádzajú slovami "<xs:attribute type="xs:string" name="filename" use="required"/>".
 
