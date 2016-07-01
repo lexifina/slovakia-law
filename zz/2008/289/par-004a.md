@@ -2,7 +2,7 @@
 
 (1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len virtuálnu registračnú pokladnicu, ktorá je zriadená na webovom sídle finančného riaditeľstva; na jedno predajné miesto môže byť vytvorený len jeden prístup do virtuálnej registračnej pokladnice.
 
-(2) Podnikateľ môže používať virtuálnu registračnú pokladnicu, len ak počet vydaných pokladničných dokladov v jednom kalendárnom mesiaci nie je viac ako 1 000.
+(2) Podnikateľ môže používať virtuálnu registračnú pokladnicu, len ak počet vydaných pokladničných dokladov v jednom kalendárnom mesiaci nie je viac ako počet ustanovený všeobecne záväzným právnym predpisom, ktorý vydá Ministerstvo financií Slovenskej republiky.
 
 (3) Virtuálna registračná pokladnica musí umožňovať
 
