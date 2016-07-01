@@ -102,7 +102,7 @@
 
 - Vykonávacie nariadenie Komisie (EÚ) č. 607/2012 zo 6. júla 2012 o podrobných pravidlách v súvislosti so systémom náležitej starostlivosti a pravidelnosťou a povahou kontrol monitorovacích organizácií v zmysle nariadenia Európskeho parlamentu a Rady (EÚ) č. 995/2010, ktorým sa ustanovujú povinnosti hospodárskych subjektov uvádzajúcich na trh drevo a výrobky z dreva (Ú. v. EÚ L 177, 7. 7. 2012).
 
-- 34) § 9 ods. 4 písm. b) Občianskeho súdneho poriadku v znení neskorších predpisov.
+- 34) Civilný sporový poriadok.
 
 - 35) § 415 až 450 Občianskeho zákonníka v znení neskorších predpisov.
 
