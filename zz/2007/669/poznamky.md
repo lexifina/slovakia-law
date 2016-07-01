@@ -28,12 +28,12 @@
 
 - 11) § 57 ods. 2 a § 69 ods. 2 zákona č. 71/1967 Zb.
 
-- 12) Zákon č. 50/1976 Zb. v znení neskorších predpisov a jeho vykonávacie predpisy.
-
-- Zákon č. 135/1961 Zb. v znení neskorších predpisov.
+- 12) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
 
 - 13) Zákon Národnej rady Slovenskej republiky č. 129/1996 Z. z. o niektorých opatreniach na urýchlenie prípravy výstavby diaľnic a ciest pre motorové vozidlá v znení neskorších predpisov.
 
-- 14) § 112 ods. 4 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 14) § 17 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- § 4 zákona č. 282/2015 Z. z.
 
 - 15) § 14 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
