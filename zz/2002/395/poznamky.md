@@ -6,8 +6,6 @@
 
 - 4) § 151a až 151g Občianskeho zákonníka.
 
-- 5) § 321 Občianskeho súdneho poriadku.
-
 - 6) § 114 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (exekučný poriadok) a o zmene a doplnení ďalších zákonov.
 
 - 7) Čl. 20 ods. 4 Ústavy Slovenskej republiky.
@@ -52,7 +50,7 @@
 
 - 27) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
-- 28) § 250l až 250s Občianskeho súdneho poriadku.
+- 28) § 4 ods. 2 písm. c) a d) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 125/2016 Z. z.
 
 - 29) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z.
 
