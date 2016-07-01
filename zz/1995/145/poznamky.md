@@ -1,6 +1,6 @@
 - 1) § 4 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
-- 1a) § 38 Občianskeho súdneho poriadku.
+- 1a) § 16 Civilného mimosporového poriadku.
 
 - 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
