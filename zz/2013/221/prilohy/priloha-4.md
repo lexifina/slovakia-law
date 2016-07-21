@@ -1,3 +1,3 @@
 Príloha č. 4 k vyhláške č. 221/2013 Z. z.
 
-- Podklady k návrhu ceny prevádzkovateľa regionálnej distribučnej sústavy [Vzor 04](../assets/5a1d3f341d57cec9e3f74da5232434b7a9145ca3318eece4b8416f9f5a2bed36.pdf)
+- Podklady k návrhu ceny prevádzkovateľa regionálnej distribučnej sústavy [Vzor 04](../assets/2ab106db646ca44be60e082b187302850c0196e1ac0900dde7c4bc5d78583e1c.pdf)
