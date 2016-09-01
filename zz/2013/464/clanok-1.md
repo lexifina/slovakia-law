@@ -128,6 +128,18 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - osem žiakov v triede nultého ročníka; šesť žiakov v triede nultého ročníka v neplnoorganizovanej základnej škole,
 
+- b)
+
+- 12 žiakov v triede, v ktorej sú žiaci dvoch ročníkov prvého stupňa základnej školy,
+
+- c)
+
+- 11 žiakov v triede prvého ročníka,
+
+- d)
+
+- 13 žiakov v triede druhého až štvrtého ročníka,
+
 - e)
 
 - 15 žiakov v triede piateho až deviateho ročníka.“.
