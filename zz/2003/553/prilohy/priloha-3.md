@@ -1,0 +1,3 @@
+Príloha č. 3 k zákonu č. 553/2003 Z. z.
+
+- ZÁKLADNÁ STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV PRI VÝKONE PRÁCE VO VEREJNOM ZÁUJME [príloha](../assets/27ab5b23e6a29d6f27ab8c7ec45a6843461c635da148ea5fecfd85bfd9dad1e6.pdf)
