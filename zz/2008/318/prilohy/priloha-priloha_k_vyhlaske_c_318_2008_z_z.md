@@ -10,7 +10,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - | | | | | príprava | odpoveď
 
-  - 1 | anglický jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 1 | anglický jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
@@ -20,7 +20,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 3 | dejepis | | – | – | 20´ | 20´
 
-  - 4 | francúzsky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 4 | francúzsky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
@@ -40,7 +40,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 11 | náuka o spoločnosti | | – | – | 20´ | 20´
 
-  - 12 | nemecký jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 12 | nemecký jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
@@ -48,7 +48,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 13 | občianska náuka | | – | – | 20´ | 20´
 
-  - 14 | ruský jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 14 | ruský jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
@@ -58,13 +58,13 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 16 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 100´ | 150´ | 20´ | 20´
 
-  - 17 | španielsky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 17 | španielsky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
   - | | B1 | 100´ | 60´ | 20´ | 20´
 
-  - 18 | taliansky jazyk | C1 | 120´ | 60´ | 20´ | 20´
+  - 18 | taliansky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
   - | | B2 | 120´ | 60´ | 20´ | 20´
 
