@@ -2,9 +2,53 @@
 
 Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov sa mení a dopĺňa takto:
 
+- 1. V § 1 sa vypúšťa písmeno b).
+
+  - Doterajšie písmená c) a d) sa označujú ako písmená b) a c).
+
+- 2. V § 1 písm. b) sa za slovom "lietadiel" čiarka nahrádza slovom "a" a vypúšťajú sa slová "a ostatných účastníkov systému obchodovania".
+
+- 3. V § 2 písm. c) sa vypúšťajú slová "a znečisťujúcich látok".
+
+- 4. V § 2 sa vypúšťa písmeno e).
+
+  - Doterajšie písmená f) až o) sa označujú ako písmená e) až n).
+
 - 5. V § 3 ods. 2 písm. f) sa slová "vypúšťaných skleníkových plynov" nahrádzajú slovami "vypúšťaných emisií skleníkových plynov".
 
 - 6. V § 3 ods. 2 písm. f) a § 5 ods. 3 písm. b) sa slová "osobitného predpisu<sup>1</sup>)" nahrádzajú slovami "osobitného predpisu<sup>1</sup>) a prílohy č. 3a".
+
+- 7. § 4 sa vypúšťa.
+
+  - Poznámky pod čiarou k odkazom 3 a 4 sa vypúšťajú.
+
+- 8. V nadpise § 5 sa vypúšťajú slová "a povolenia na vypúšťanie znečisťujúcich látok do ovzdušia".
+
+- 9. V § 5 sa vypúšťa odsek 2.
+
+  - Doterajšie odseky 3 až 7 sa označujú ako odseky 2 až 6.
+
+  - Poznámka pod čiarou k odkazu 5 sa vypúšťa.
+
+- 10. V § 5 odsek 2 znie:
+
+- „(2)
+
+- Povolenie na vypúšťanie emisií skleníkových plynov sa môže vzťahovať na jednu prevádzku alebo na viac prevádzok na tom istom mieste prevádzkovaných tým istým prevádzkovateľom.“.
+
+- 11. V § 5 ods. 3 až 5, § 6 nadpise, § 6 ods. 3 na konci vety, § 6 ods. 5, § 27 a 28 sa slovo "povolenie" vo všetkých tvaroch nahrádza slovami "povolenie na vypúšťanie emisií skleníkových plynov" v príslušnom tvare.
+
+- 12. V § 5 ods. 3 písm. b) sa vypúšťajú slová "alebo znečisťujúcich látok, ktorý bol schválený, alebo schválenie návrhu takého postupu".
+
+- 13. V § 5 ods. 3 písm. c) sa vypúšťajú slová "alebo znečisťujúcich látok".
+
+- 14. V § 6 odsek 1 znie:
+
+- „(1)
+
+- Prevádzkovateľ je povinný bezodkladne oznámiť okresnému úradu každú plánovanú zmenu činnosti prevádzky a každú významnú zmenu kapacity prevádzky,<sup>8</sup>) ktorá môže byť dôvodom na zmenu povolenia na vypúšťanie emisií skleníkových plynov alebo na vyradenie zo schémy obchodovania. Okresný úrad zmení povolenie na vypúšťanie emisií skleníkových plynov, ak je to potrebné, alebo vydá rozhodnutie o vyradení prevádzky zo schémy obchodovania, ak jej prevádzkovateľ nezostane dobrovoľným účastníkom schémy obchodovania. Na konanie o zmene povolenia na vypúšťanie emisií skleníkových plynov sa primerane vzťahujú § 3 ods. 4 a § 5.“.
+
+- 15. V § 6 ods. 5 sa vypúšťajú slová "alebo § 4".
 
 - 16. V poznámke pod čiarou k odkazu 9 sa citácia "Nariadenie Komisie (EÚ) č. 1193/2011 zo dňa 18. novembra 2011, ktorým sa zriaďuje register Únie na obdobie obchodovania začínajúce 1. januára 2013 a na nasledujúce obdobia obchodovania v rámci systému Únie na obchodovanie s emisnými kvótami podľa smernice Európskeho parlamentu a Rady 2003/87/ES a rozhodnutia Európskeho parlamentu a Rady č. 280/2004/ES a ktorým sa menia a dopĺňajú nariadenia (ES) č. 2216/2004 a (EÚ) č. 920/2010 (Ú. v. EÚ L 315, 29. 11. 2011)." nahrádza citáciou "Nariadenie Komisie (EÚ) č. 389/2013, ktorým sa zriaďuje register Únie podľa smernice Európskeho parlamentu a Rady 2003/87/ES a rozhodnutí Európskeho parlamentu a Rady č. 280/2004/ES a č. 406/2009/ES a ktorým sa zrušujú nariadenia Komisie (EÚ) č. 920/2010 a č. 1193/2011 (Ú. v. EÚ L 122, 3. 5. 2013).".
 
@@ -54,6 +98,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - 19. V § 7 ods. 8 sa za slovom "účtami "vkladá slovo "kvót".
 
+- 20. § 8 sa vypúšťa.
+
 - 21. V § 10 ods. 1 sa slová "Bezodplatné kvóty sa nezapíšu prevádzkovateľovi prevádzky" nahrádzajú slovami "Vnútroštátny správca nezapíše bezodplatné kvóty prevádzkovateľovi".
 
 - 22. V § 10 ods. 2 sa vypúšťa druhá veta.
@@ -65,6 +111,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - 25. V § 10 ods. 9 prvej vete, § 11 ods. 1 úvodnej vete a ods. 2 sa vypúšťa slovo "prevádzky".
 
 - 26. V § 10 sa vypúšťa odsek 10.
+
+- 27. V § 11 ods. 3 písm. c) sa slová "§ 2 písm. f)" nahrádzajú slovami "§ 2 písm. e)".
 
 - 28. V § 11 sa odsek 3 dopĺňa písmenom e), ktoré znie:
 
@@ -97,6 +145,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - Prevádzkovateľom komerčnej leteckej dopravy je osoba, ktorá za úhradu poskytuje verejnosti služby pravidelnej leteckej dopravy alebo nepravidelnej leteckej dopravy prepravujúcej cestujúcich, náklad alebo poštu.“.
 
 - 32. V § 13 ods. 2 prvá veta znie: "Prevádzkovateľ lietadla zisťuje a vykazuje údaje o emisiách skleníkových plynov v rozsahu a postupom podľa osobitného predpisu<sup>1</sup>) a prílohy č. 3a a v súlade s monitorovacím plánom na zisťovanie a vykazovanie emisií skleníkových plynov podľa osobitného predpisu.<sup>1</sup>)".
+
+- 33. § 16 sa vypúšťa.
+
+  - Poznámky pod čiarou k odkazom 13 a 14 sa vypúšťajú.
 
 - 34. V § 17 ods. 1 sa za slovo "zapisovania," vkladá slovo "prideľovania,".
 
@@ -142,6 +194,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - Finančné prostriedky podľa odseku 6 poskytuje Environmentálny fond.“.
 
+- 44. § 19 sa vypúšťa.
+
+  - Poznámka pod čiarou k odkazu 17 sa vypúšťa.
+
 - 45. V § 20 ods. 1 písmeno b) znie:
 
 - „b)
@@ -155,6 +211,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - 48. V § 20 ods. 4 sa za slová "§ 21 ods. 1 písm. b)" vkladajú slová "a § 21 ods. 2 písm. b)".
 
 - 49. V § 20 ods. 5 sa slová "správcu registra" nahrádzajú slovami "vnútroštátneho správcu".
+
+- 50. V § 20 ods. 6 sa vypúšťajú slová "alebo kvóty znečisťujúcich látok".
 
 - 51. V § 20 odseky 7 a 8 znejú:
 
@@ -208,9 +266,17 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - Prevádzkovateľ alebo prevádzkovateľ lietadla nemôžu uskutočňovať ďalšie prevody kvót, ak správa o emisiách skleníkových plynov podľa odseku 1 písm. a) nebola overovateľom podľa § 24 overená ako správna v súlade s kritériami podľa osobitného predpisu;<sup>19</sup>) to neplatí, ak ide o prevádzkovateľa lietadla, na ktorého sa vzťahuje § 38a ods. 2. Vnútroštátny správca pozastaví prístup k účtu<sup>9</sup>) prevádzkovateľovi alebo prevádzkovateľovi lietadla, ak neodovzdajú množstvo kvót podľa § 20 ods. 7 alebo § 20 ods. 8.“.
 
+- 53. V § 21 sa vypúšťa odsek 4.
+
+  - Doterajší odsek 5 sa označuje ako odsek 4.
+
+  - Poznámky pod čiarou k odkazom 21 a 22 sa vypúšťajú.
+
 - 54. V § 21 ods. 4 písm. b) sa za slovo "dňa" vkladá slovo "zistenia".
 
 - 55. V § 21 ods. 4 písm. c) sa slová "do 31. decembra príslušného kalendárneho roka" nahrádzajú slovami "do 31. januára kalendárneho roka nasledujúceho po roku, ktorého sa týka zníženie úrovne činnosti časti prevádzky, zníženie a nasledujúce zvýšenie úrovne činnosti časti prevádzky".
+
+- 56. V § 23 sa vypúšťa odsek 4.
 
 - 57. § 24 vrátane nadpisu znie:
 
@@ -244,6 +310,10 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - Čl. 72 nariadenia Komisie (EÚ) č. 600/2012.“.
 
+- 58. V § 26 ods. 1 sa vypúšťa písmeno f).
+
+  - Doterajšie písmená g) až s ) sa označujú ako písmená f) až r).
+
 - 59. V § 26 ods. 1 písm. f) sa vypúšťa slovo "nepridelené".
 
 - 60. V § 26 ods. 1 písmeno g) znie:
@@ -264,11 +334,35 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - predkladá každoročne do 31. marca vnútroštátnemu správcovi potvrdenie o správnosti správy podľa § 21 ods. 2 písm. a),“.
 
+- 63. V § 26 ods. 1 sa vypúšťa písmeno q).
+
+  - Doterajšie písmeno r) sa označuje ako písmeno q).
+
+- 64. V § 26 odsek 2 znie:
+
+- „(2)
+
+- Podrobnosti o používaní elektronického systému nahlasovania vybraných údajov podľa § 3, 21 a 27 ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo.“.
+
+  - Poznámka pod čiarou k odkazu 25 sa vypúšťa.
+
+- 65. V § 27 ods. 1 písm. a) a b) sa vypúšťajú slová "alebo systému obchodovania".
+
+- 66. V § 27 ods. 1 sa vypúšťajú písmená c) a d).
+
+  - Doterajšie písmená e) až k) sa označujú ako písmená c) až i).
+
 - 67. V § 27 ods. 1 písmeno c) znie:
 
 - „c)
 
 - vydáva prevádzkovateľom a dobrovoľným účastníkom schémy obchodovania potvrdenia o správnosti správy predloženej podľa § 21 ods. 1 písm. a),“.
+
+- 68. V § 27 ods. 1 sa vypúšťa písmeno e).
+
+  - Doterajšie písmená f) až i) sa označujú ako písmená e) až h).
+
+- 69. V § 27 ods. 1 písm. f) sa slová "§ 26 ods. 1 písm. o)" nahrádzajú slovami "§ 26 ods. 1 písm. n)".
 
 - 70. V § 27 ods. 1 písm. h) sa vypúšťa slovo "prevádzky".
 
@@ -300,17 +394,37 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - Čl. 70 nariadenia Komisie (EÚ) č. 601/2012.“.
 
+- 72. V § 27 ods. 2 slová "a), c) a h)" sa nahrádzajú slovami "a) a e)".
+
 - 73. V § 28 odsek 1 znie:
 
 - „(1)
 
 - Okresný úrad, a ak ide o prevádzkovateľa lietadla ministerstvo, uloží prevádzkovateľovi, prevádzkovateľovi lietadla alebo dobrovoľnému účastníkovi schémy obchodovania, ktorý každoročne do 30. apríla neodovzdá do registra kvóty potrebné na pokrytie emisií za predchádzajúci rok podľa § 21 ods. 1 písm. b) a ods. 2 písm. b), pokutu 100 eur za každú nepokrytú tonu ekvivalentu oxidu uhličitého emitovaného z prevádzky a lietadla. Zaplatenie pokuty za neodovzdanie kvót nezbavuje prevádzkovateľa, dobrovoľného účastníka schémy obchodovania a prevádzkovateľa lietadla povinnosti odovzdať kvóty rovnajúce sa príslušnému prekročeniu emisií najneskôr pri odovzdávaní kvót za nasledujúci kalendárny rok. Pokuty za neodovzdanie kvót vydaných na obdobie podľa § 9 ods. 1 sa zvýšia v súlade s európskym indexom spotrebiteľských cien.“.
 
+- 74. V § 28 ods. 2 písm. a) sa vypúšťajú slová "alebo 4 alebo § 36".
+
+- 75. V § 28 ods. 2 písm. d) sa slová "ods. 5" nahrádzajú slovami "ods. 4".
+
+- 76. V § 28 sa vypúšťa odsek 5.
+
+  - Doterajšie odseky 6 až 9 sa označujú ako odseky 5 až 8.
+
+  - Poznámka pod čiarou k odkazu 27 sa vypúšťa.
+
+- 77. V § 28 odsek 5 znie:
+
+- „(5)
+
+- Ministerstvo zverejňuje na svojom webovom sídle zoznam povinných účastníkov schémy obchodovania a dobrovoľných účastníkov schémy obchodovania, ktorí porušia požiadavku na odovzdanie množstva kvót podľa § 21 ods. 1 písm. b).“.
+
 - 78. § 28 sa dopĺňa odsekom 9, ktorý znie:
 
 - „(9)
 
 - Ministerstvo po schválení žiadosti Komisiou zabezpečí vykonanie zákazu prevádzky a informuje Komisiu o opatreniach prijatých na vykonanie zákazu.“.
+
+- 79. V § 29 ods. 1 písm. c) sa vypúšťajú slová "a f)".
 
 - 80. V § 29 sa odsek 1 dopĺňa písmenom d), ktoré znie:
 
@@ -325,6 +439,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 - „(5)
 
 - Údaje podľa odseku 1 sa zverejňujú bezodkladne spôsobom, ktorý zabezpečuje nediskriminačný prístup.“.
+
+- 83. V § 30 ods. 2 sa na konci slová "písm. e)" nahrádzajú slovami "písm. c)".
 
 - 84. § 31 sa vypúšťa.
 
@@ -386,11 +502,15 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - Zrušuje sa vyhláška Ministerstva životného prostredia Slovenskej republiky č. 10/2013 Z. z., ktorou sa ustanovuje účel využitia výnosov z predaja kvót v dražbách.“.
 
+- 87. V prílohe č. 1 sa vypúšťa Tabuľka C.
+
 - 88. V prílohe č. 1 sa Tabuľka D dopĺňa písmenom k), ktoré znie:
 
 - „k)
 
 - lety, ktoré by inak patrili pod túto činnosť a ktoré vykonáva nekomerčný prevádzkovateľ lietadiel prevádzkujúci lety s celkovými ročnými emisiami nižšími ako 1 000 ton za rok, uskutočňované od 1. januára 2013 do 31. decembra 2020.“.
+
+- 89. V prílohe č. 2 sa vypúšťa Tabuľka B.
 
 - 90. Za prílohu č. 3 sa vkladajú prílohy č. 3a a 3b, ktoré vrátane nadpisov znejú:
 
