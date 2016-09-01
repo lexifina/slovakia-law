@@ -76,6 +76,8 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 17. V § 29 ods. 5 písm. b) sa slovo „dvoch“ nahrádza slovom „viacerých“.
 
+- 18. V § 29 ods. 8 písm. b) sa slovo „dvoch“ nahrádza slovom „viacerých“.
+
 - 19. V § 29 odsek 11 znie:
 
 - „(11)
@@ -275,6 +277,14 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - Prechodné ustanovenie k úpravám účinným od 1. januára 2016
 
 - V školskom roku 2015/2016 sa príspevok na žiakov zo sociálne znevýhodneného prostredia poskytuje podľa podmienok ustanovených právnymi predpismi účinnými do 31. decembra 2015.“.
+
+- 48. Za § 161f sa vkladá § 161g, ktorý vrátane nadpisu znie:
+
+- „§ 161g
+
+- Prechodné ustanovenie k úpravám účinným od 1. septembra 2016
+
+- Na najnižšie počty žiakov v triede druhého až štvrtého ročníka základnej školy zriadené do 31. augusta 2016 a ich nasledujúce ročníky až do ukončenia ich štvrtého ročníka základnej školy sa vzťahuje právny predpis účinný do 31. augusta 2016.“.
 
 - 49. § 163 sa dopĺňa bodom 41, ktorý znie:
 
