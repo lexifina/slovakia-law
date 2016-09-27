@@ -1,3 +1,3 @@
 Príloha č. 7 k vyhláške č. 490/2004 Z. z.
 
-- Osnova prekladu [príloha](../assets/458631976c63bdd485095bb8f3533bb75f7ad2551ed0841621e4408748de9f85.pdf)
+- Osnova prekladu [príloha](../assets/21457fbd83fba9422473d71b3ea9b7231230f76182b54d45edab08e9b5313ede.pdf)

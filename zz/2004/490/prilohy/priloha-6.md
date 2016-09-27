@@ -1,3 +1,3 @@
 Príloha č. 6 k vyhláške č. 490/2004 Z. z.
 
-- TITULNÁ STRANA PREKLADU [príloha](../assets/b0eac46ff87ab65f15bd5c16c21fec3d7e47c7153234a1701aae1c0608e27d5d.pdf)
+- TITULNÁ STRANA PREKLADU [príloha](../assets/06cb32d12fb62fc5a8f79f20e4a547250ddcfabfa2f2c7df0ac215ec30c6b280.pdf)
