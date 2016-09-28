@@ -1,0 +1,1 @@
+Príloha č. 2 k opatreniu č. 23/2016 Z. z. ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE Smernica Komisie (EÚ) 2016/970 z 27. mája 2016, ktorou sa mení smernica Európskeho parlamentu a Rady 2009/43/ES, pokiaľ ide o zoznam výrobkov obranného priemyslu (Ú. v. EÚ L 163, 21. 06. 2016).
