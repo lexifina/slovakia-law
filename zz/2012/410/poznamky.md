@@ -2,6 +2,8 @@
 
 - 2) Vyhláška Ministerstva pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky č. 361/2010 Z. z., ktorou sa ustanovujú technické požiadavky a všeobecné podmienky prevádzkovania stacionárnych zdrojov znečisťovania ovzdušia prevádzkujúcich zariadenia používané na skladovanie, plnenie a prepravu benzínu a spôsob a požiadavky na zisťovanie a preukazovanie údajov o ich dodržaní.
 
+- 2a) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 228/2014 Z. z., ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách v znení vyhlášky č. 367/2015 Z. z.
+
 - 3) STN 65 6481 Skvapalnené uhľovodíkové plyny. Propán. STN 65 6482 Skvapalnené uhľovodíkové plyny. Propán-bután. STN 65 6483 Skvapalnené uhľovodíkové plyny. Bután.
 
 - 4) Vykonávacie rozhodnutie Komisie 2012/115/EÚ z 10. februára 2012, ktorým sa ustanovujú pravidlá týkajúce sa prechodných národných programov podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách (Ú. v. EÚ L 52, 24. 2. 2012).
@@ -52,6 +54,8 @@
 
 - 25) Nariadenie vlády Slovenskej republiky č. 140/2009 Z. z. ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá.
 
+- 25a) Čl. 10 a príloha V nariadenia Komisie (EÚ) č. 142/2011 z 25. februára 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1069/2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu, a ktorým sa vykonáva smernica Rady 97/78/ES, pokiaľ ide o určité vzorky a predmety vyňaté spod povinnosti veterinárnych kontrol na hraniciach podľa danej smernice (Ú. v. EÚ L 54, 26. 2. 2011) v platnom znení.
+
 - 26) Čl. 6 ods. 1 písm. b) nariadenia Európskej komisie (EÚ) č. 142/2011 z 25. februára 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1069/2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu a ktorým sa vykonáva smernica Rady 97/78/ES, pokiaľ ide o určité vzorky a predmety vyňaté spod povinnosti veterinárnych kontrol na hraniciach podľa danej smernice (Ú. v. EÚ L 54, 26. 2. 2011).
 
 - 27) § 4 ods. 2 a 3 a § 5 vyhlášky č. 362/2010 Z. z.
@@ -59,6 +63,8 @@
 - 28) Čl. 6 ods. 3, 4 a 5 Nariadenia Európskej komisie (EÚ) č. 142/2011.
 
 - 29) Bod 11 Vestníka Ministerstva životného prostredia Slovenskej republiky č. 5/2008 Všeobecné emisné závislosti a všeobecné emisné faktory pre vybrané technológie a zariadenia.
+
+- 29a) Napríklad vykonávacie rozhodnutie Komisie 2013/163/EÚ z 26. marca 2013, ktorým sa stanovujú závery o najlepších dostupných technikách (BAT) podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách na výrobu cementu, vápna a oxidu horečnatého (Ú. v. EÚ L 100, 9. 4. 2013).
 
 - 30) § 7, 14 a 15 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 411/2012 Z. z. (o monitorovaní)
 
