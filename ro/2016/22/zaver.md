@@ -1,0 +1,1 @@
+Vladimír Kešjar v. r.
