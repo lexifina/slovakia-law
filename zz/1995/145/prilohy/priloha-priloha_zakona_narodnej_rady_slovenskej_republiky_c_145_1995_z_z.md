@@ -44,7 +44,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
 - XIX. | Štatistika | 266 až 267
 
-- XX. | Elektronický podpis | 268
+- XX. | Dôveryhodné služby | 268
 
 - XXI. | Poštová činnosť | 269 až 270
 
@@ -5234,17 +5234,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Poplatok podľa tejto položky vyberá Štatistický úrad Slovenskej republiky. |
 
-  - XX. ČASŤ ELEKTRONICKÝ PODPIS
+  - XX. ČASŤ DÔVERYHODNÉ SLUŽBY
 
     - Položka 268
 
-  - a) Podanie žiadosti o akreditáciu poskytovateľa certifikačných služieb ..... | 663,50 eura
+  - a) | Udelenie kvalifikovaného štatútu | 665 eur
 
-  - b) Podanie žiadosti o uznanie zhody technických prostriedkov na vyhotovenie a overenie elektronického podpisu ..... | 331,50 eura
-
-  - c) Podanie žiadosti o uznanie zhody elektronickej podateľne s požiadavkami zákona ................ | 331,50 eura
-
-  - d) Podanie žiadosti o predĺženie platnosti certifikátu pre elektronický podpis vydaného na základe konania o uznanie zhody technických prostriedkov na vyhotovenie a overenie elektronického podpisu ..... | 165,50 eura
+  - b) | Certifikácia | 332 eur
 
   - XXI. ČASŤ POŠTOVÁ ČINNOSŤ
 
