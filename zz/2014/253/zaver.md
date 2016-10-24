@@ -1,1 +1,0 @@
-Peter Kažimír v. r.
