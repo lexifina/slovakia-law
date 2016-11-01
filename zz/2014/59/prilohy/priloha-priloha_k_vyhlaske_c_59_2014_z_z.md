@@ -20,19 +20,21 @@ Príloha k vyhláške č. 59/2014 Z. z.
 
 - | | B.3 | Návrh riešenia územného plánu obce | 42
 
-- | | B.4 | Návrh riešenia územného plánu zóny | 26
+- | | B.4 | Návrh riešenia územného plánu zóny | 32
 
-- | | B.5 | Koncept riešenia územného plánu obce a návrh riešenia územného plánu obce | 47
+- | | B.5 | Koncept riešenia územného plánu obce a návrh riešenia územného plánu obce | 30
 
-- | | B.6 | Koncept riešenia územného plánu zóny a návrh riešenia územného plánu zóny | 32
+- | | B.6 | Koncept riešenia územného plánu zóny a návrh riešenia územného plánu zóny | 30
 
-- | | B.7 | Návrh zmien a doplnkov územného plánu obce (ak v roku podania žiadosti alebo v roku predchádzajúcom roku podania žiadosti neobstarávala žiadne iné zmeny a doplnky územného plánu) | 26
+- | | B.7 | Návrh zmien a doplnkov územného plánu obce (ak v roku podania žiadosti alebo v roku predchádzajúcom roku podania žiadosti neobstarávala žiadne iné zmeny a doplnky územného plánu) | 16
 
-- | | B.8 | Návrh zmien a doplnkov územného plánu zóny (ak v roku podania žiadosti alebo v roku predchádzajúcom roku podania žiadosti neobstarávala žiadne iné zmeny a doplnky územného plánu) | 20
+- | | B.8 | Návrh zmien a doplnkov územného plánu zóny (ak v roku podania žiadosti alebo v roku predchádzajúcom roku podania žiadosti neobstarávala žiadne iné zmeny a doplnky územného plánu) | 16
 
-- C Aktivity obce v regionálnom rozvoji | Ministerstvo vnútra Slovenskej republiky | C.1 | Žiadateľom je obec, ktorá sa nachádza v „Registri združení obcí“ vedenom na Ministerstve vnútra Slovenskej republiky | 10
+- C Aktivity obce v regionálnom rozvoji | Ministerstvo vnútra Slovenskej republiky | C.1 | Žiadateľom je obec, ktorá sa nachádza v Registri združení obcí vedenom na Ministerstve vnútra Slovenskej republiky | 10
 
-- | | C.2 | Žiadateľom je obec, na ktorej území sa nachádza marginalizovaná rómska komunita podľa Atlasu rómskych komunít na Slovensku v a) urbanistickej koncentrácii vnútri obce, b) urbanistickej koncentrácii na okraji obce alebo c) urbanisticky segregovanej koncentrácii | 20
+- | | C.2 | Žiadateľom je obec, na ktorej území sa nachádza marginalizovaná rómska komunita podľa Atlasu rómskych komunít na Slovensku v a) urbanistickej koncentrácii vo vnútri obce, b) urbanistickej koncentrácii na okraji obce alebo c) urbanisticky segregovanej koncentrácii | 20
+
+- | Ústredie práce, sociálnych vecí a rodiny | C.3 | Žiadateľom je obec, ktorá sa nachádza v okrese, ktorý je zapísaný v zozname najmenej rozvinutých okresov | 20
 
 - D Výskyt územia alebo stavby v katastri obce, chránených podľa osobitných predpisov | Okresný úrad v sídle kraja | D | Žiadateľom je obec, na ktorej území sa nachádzajú a) kultúrne pamiatky, národné kultúrne pamiatky, pamiatkové rezervácie a pamiatkové zóny zapísané v Ústrednom zozname pamiatkového fondu vedeného Pamiatkovým úradom Slovenskej republiky, b) archeologické nálezy, archeologické náleziská evidované v Centrálnej evidencii archeologických nálezísk vedené Archeologickým ústavom Slovenskej akadémie vied v Nitre, c) chránené ložiskové územia vedené Hlavným banským úradom, d) chránené vtáčie územia, chránené územia európskeho významu a zóny chránených území navrhované alebo patriace do európskej sústavy chránených území (NATURA 2000) zapísané v registri Štátnej ochrany prírody Slovenskej republiky alebo e) kúpeľné miesta, ktorých štatút bol vydaný nariadením vlády Slovenskej republiky | 20
 
@@ -50,12 +52,14 @@ Príloha k vyhláške č. 59/2014 Z. z.
 
 - | | G.2 | Žiadateľom je obec, s počtom obyvateľov od 2 001, ktorá si opätovne podala žiadosť a v predchádzajúcom roku jej žiadosť nebola schválená, hoci splnila podmienky poskytnutia dotácie | 10
 
-- H Rozsah čerpania dotácií poskytnutých žiadateľovi v predchádzajúcich troch rokoch | ministerstvo | H.1 | Rozsah čerpania dotácie je 90 % a viac, ale menej ako 100 % schválenej dotácie | -2
+- H Rozsah čerpania dotácií poskytnutých žiadateľovi v predchádzajúcich troch rokoch | ministerstvo | H.1 | Rozsah čerpania dotácie je 90 % a viac, ale menej ako 100 % schválenej dotácie | -5
 
-- | | H.2 | Rozsah čerpania dotácie je 80 % a viac, ale menej ako 90 % schválenej dotácie | -6
+- | | H.2 | Rozsah čerpania dotácie je 80 % a viac, ale menej ako 90 % schválenej dotácie | -10
 
-- | | H.3 | Rozsah čerpania dotácie je 70 % a viac, ale menej ako 80 % schválenej dotácie | -9
+- | | H.3 | Rozsah čerpania dotácie je 70 % a viac, ale menej ako 80 % schválenej dotácie | -15
 
-- | | H.4 | Rozsah čerpania dotácie je 60 % a viac, ale menej ako 70 % schválenej dotácie | -12
+- | | H.4 | Rozsah čerpania dotácie je 60 % a viac, ale menej ako 70 % schválenej dotácie | -20
 
-- | | H.5 | Rozsah čerpania dotácie je menej ako 60 % schválenej dotácie | -25
+- | | H.5 | Rozsah čerpania dotácie je 30 % a viac, ale menej ako 60 % schválenej dotácie | -40
+
+- | | H.6 | Rozsah čerpania dotácie je menej ako 30 % schválenej dotácie | -60
