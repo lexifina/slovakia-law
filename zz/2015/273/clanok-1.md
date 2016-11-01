@@ -788,9 +788,39 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - § 22a
 
+- (1)
+
+- Právnická osoba alebo podnikateľ, o ktorých právach, právom chránených záujmoch a povinnostiach orgán verejnej moci pri výkone verejnej moci elektronicky koná alebo vo vzťahu ku ktorým verejnú moc vykonáva, môže použiť na účely prístupu k prístupovému miestu alebo spoločnému modulu automatizovaný spôsob s použitím technického prostriedku alebo programového prostriedku a s použitím autentifikačného kvalifikovaného certifikátu.<sup>12b</sup>) Na identifikáciu osoby pri jej prístupe k prístupovému miestu alebo spoločnému modulu spôsobom podľa prvej vety sa použije identifikátor osoby z autentifikačného kvalifikovaného certifikátu a na autentifikáciu sa použije tento autentifikačný kvalifikovaný certifikát; ustanovenia o autentifikátore sa nepoužijú. Na orgán verejnej moci sa pri elektronickej komunikácii pri výkone verejnej moci prvá a druhá veta použijú rovnako.
+
 - (2)
 
-- Právnická osoba, podnikateľ alebo orgán verejnej moci môžu pristupovať alebo disponovať s elektronickou schránkou automatizovaným spôsobom s použitím technického alebo programového prostriedku a s použitím autentifikačného kvalifikovaného certifikátu.<sup>12b</sup>) Na identifikáciu osoby oprávnenej na prístup alebo disponovanie s elektronickou schránkou spôsobom podľa prvej vety sa použije identifikátor osoby z autentifikačného kvalifikovaného certifikátu a na autentifikáciu sa použije tento autentifikačný kvalifikovaný certifikát; ustanovenia o autentifikátore sa nepoužijú.“.
+- Právnická osoba, podnikateľ alebo orgán verejnej moci môžu pristupovať alebo disponovať s elektronickou schránkou automatizovaným spôsobom s použitím technického alebo programového prostriedku a s použitím autentifikačného kvalifikovaného certifikátu.<sup>12b</sup>) Na identifikáciu osoby oprávnenej na prístup alebo disponovanie s elektronickou schránkou spôsobom podľa prvej vety sa použije identifikátor osoby z autentifikačného kvalifikovaného certifikátu a na autentifikáciu sa použije tento autentifikačný kvalifikovaný certifikát; ustanovenia o autentifikátore sa nepoužijú.
+
+- § 22b
+
+- (1)
+
+- Register autentifikačných kvalifikovaných certifikátov je informačným systémom verejnej správy,<sup>3</sup>) ktorého správcom je správca komunikačnej časti autentifikačného modulu.
+
+- (2)
+
+- V registri autentifikačných kvalifikovaných certifikátov sa vedie zoznam autentifikačných kvalifikovaných certifikátov<sup>12b</sup>) právnických osôb, podnikateľov a orgánov verejnej moci, ktoré sa používajú na účely podľa § 22a, ako aj údaj o tom, že autentifikačný kvalifikovaný certifikát<sup>12b</sup>) bol zrušený.
+
+- (3)
+
+- Správca komunikačnej časti autentifikačného modulu zapíše do registra autentifikačných kvalifikovaných certifikátov autentifikačný kvalifikovaný certifikát<sup>12b</sup>) na žiadosť toho, komu bol vydaný. Ten, komu bol autentifikačný kvalifikovaný certifikát<sup>12b</sup>) vydaný, je povinný oznámiť správcovi komunikačnej časti autentifikačného modulu zrušenie tohto certifikátu bezodkladne po tom, ako k zrušeniu dôjde.
+
+- (4)
+
+- Správca komunikačnej časti autentifikačného modulu je povinný každý deň vydať zoznam platných autentifikačných kvalifikovaných certifikátov<sup>12b</sup>) a zverejniť ho na ústrednom portáli.
+
+- (5)
+
+- Zoznam platných autentifikačných kvalifikovaných certifikátov<sup>12b</sup>) podľa odseku 4 platí 24 hodín od jeho vydania a autentifikačný kvalifikovaný certifikát<sup>12b</sup>) uvedený v zozname sa považuje za platný počas celej doby platnosti zoznamu, kým sa nepreukáže opak.
+
+- (6)
+
+- Ak je autentifikačný kvalifikovaný certifikát<sup>12b</sup>) zrušený, správca komunikačnej časti autentifikačného modulu to bezodkladne oznámi správcom alebo prevádzkovateľom modulu úradnej komunikácie a modulu elektronických schránok, ktorí sú povinní bezodkladne zabezpečiť, aby s použitím zrušeného autentifikačného kvalifikovaného certifikátu<sup>12b</sup>) nebolo možné vykonať úspešnú autentifikáciu pri elektronickej komunikácii s použitím modulu úradnej komunikácie a modulu elektronických schránok.“.
 
 - 52. V § 23 ods. 1 prvej vete sa za slová „elektronickým podpisom“ vkladajú slová „a mandátnym certifikátom“ a v druhej vete sa za slová „elektronickým podpisom“ vkladajú slová „alebo zaručenou elektronickou pečaťou<sup>18</sup>)“.
 
