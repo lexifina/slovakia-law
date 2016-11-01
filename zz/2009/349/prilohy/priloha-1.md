@@ -12,7 +12,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - | 3. | izotermických vozidiel kategórie N a O | 2,60 m ,
 
-  - | 4. | vozidiel kategórie T okrem T<sub>4.2 a</sub>C | 2,55 m<sub>,</sub><sup>b)</sup>
+  - | 4. | vozidiel kategórie T a C, okrem T<sub>4.2</sub> a C<sub>4.2</sub> | 2,55 m,<sup>b</sup>)
 
   - | 5. | vozidiel kategórie L<sub>1e</sub> | 1,00 m ,
 
@@ -20,7 +20,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - | 7. | prípojných vozidiel za dvojkolesové motorové vozidlá | 1,00 m ,
 
-  - | 8. | vozidiel kategórie T<sub>4.2</sub>, R, S a PS | 3,00 m ,<sup>b)</sup>
+  - | 8. | vozidiel kategórie T<sub>4.2</sub>, C<sub>4.2</sub>, R, S, PS | 3,00 m,<sup>b</sup>)
 
   - | 9. | vozidiel kategórie P<sub>N</sub> | 3,00 m ,
 
@@ -58,7 +58,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - | 10. | súpravy motorového vozidla s jedným prívesom kategórie O<sub>4</sub>určeným na prepravu vozidiel | 20,75 m ,
 
-  - | 11. | súpravy motorového vozidla s dvoma prívesmi alebo s návesom a jedným prívesom | 22,00 m ,<sup>c)</sup>
+  - | 11. | súpravy motorového vozidla s dvoma návesmi, s dvoma prívesmi alebo s návesom a jedným prívesom | 22,00 m ,<sup>c)</sup>
 
   - | 12. | súpravy traktora kategórie T alebo C s vozidlom kategórie R alebo S | 18,75 m ,
 
@@ -74,29 +74,31 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - 2. Najväčšie prípustné hmotnosti
 
-  - a) | motorových vozidiel s dvomi nápravami | 18,00 t,
+  - a) | motorových vozidiel s dvoma nápravami ak je hnacia náprava vybavená dvojitou montážou pneumatík a vzduchovým odpružením alebo odpružením uznaným za rovnocenné v rámci Európskych spoločenstiev alebo ak ide o autobus | 18,00 t, 19,50 t,
 
   - b) | motorových vozidiel s tromi nápravami | 25,00 t,
 
   - | ak je hnacia náprava vybavená dvojitou montážou pneumatík a vzduchovým odpružením alebo odpružením uznaným za rovnocenné v rámci Európskych spoločenstiev alebo ak je každá hnacia náprava vybavená dvojitou montážou pneumatík a najväčšia prípustná hmotnosť pripadajúca na nápravu nepresahuje 9,50 t | 26,00 t,
 
-  - c) | motorových vozidiel so štyrmi a viacerými nápravami | 32,00 t,
+  - c) | motorových vozidiel so štyrmi nápravami | 32,00 t,
 
-  - d) | prívesov s dvomi nápravami | 18,00 t,
+  - d) | motorových vozidiel s piatimi a viacerými nápravami | 40,00 t,
 
-  - e) | prívesov s tromi nápravami | 24,00 t,
+  - e) | prívesov s dvomi nápravami | 18,00 t,
 
-  - f) | prívesov so štyrmi a viacerými nápravami | 32,00 t,
+  - f) | prívesov s tromi nápravami | 24,00 t,
 
-  - g) | dvojčlánkových kĺbových autobusov s tromi nápravami | 28,00 t,
+  - g) | prívesov so štyrmi a viacerými nápravami | 32,00 t,
 
-  - h) | dvojčlánkových kĺbových autobusov so štyrmi a viacerými nápravami | 35,00 t,
+  - h) | dvojčlánkových kĺbových autobusov s tromi nápravami | 28,00 t,
 
-  - i) | jazdných súprav | 40,00 t,
+  - i) | dvojčlánkových kĺbových autobusov so štyrmi a viacerými nápravami | 35,00 t,
 
-  - j) | jazdných súprav prepravujúcich prepravné kontajnery v kombinovanej doprave,<sup>4a</sup>) súpravy ťahača a manipulovateľného cestného návesu v kombinovanej doprave,<sup>4a</sup>) jazdnej súpravy s cisternovým kontajnerom alebo výmennou nadstavbou v kombinovanej doprave<sup>4a</sup>) | 44,00 t,
+  - j) | jazdných súprav | 40,00 t,
 
-  - k) | pásových vozidiel | 18,00 t.
+  - k) | jazdných súprav prepravujúcich prepravné kontajnery v kombinovanej doprave,<sup>4a</sup>) súpravy ťahača a manipulovateľného cestného návesu v kombinovanej doprave,<sup>4a</sup>) jazdnej súpravy s cisternovým kontajnerom alebo výmennou nadstavbou v kombinovanej doprave<sup>4a</sup>) | 44,00 t,
+
+  - l) | pásových vozidiel | 32,00 t.
 
   - 3. Najväčšia prípustná hmotnosť pripadajúca na nápravu
 
@@ -124,11 +126,15 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
   - | 4. | 1,8 m alebo viac (1,8 d) | 20,00 t,
 
-  - e) | trojnápravy prívesov a návesov súčet zaťaženia všetkých náprav trojnápravy nesmie prevýšiť, ak vzdialenosť (d) medzi nápravami je | |
+  - e) | trojnápravy motorových vozidiel súčet zaťaženia všetkých náprav trojnápravy nesmie prevýšiť | | 27,00 t,
+
+  - f) | trojnápravy prívesov a návesov súčet zaťaženia všetkých náprav trojnápravy nesmie prevýšiť, ak vzdialenosť (d) medzi nápravami je | |
 
   - | 1. | 1,3 m alebo menej (d ≤ 1,3) | 21,00 t,
 
   - | 2. | viac ako 1,3 m až do 1,4 m (1,3 < d ≤ 1,4),4) | 24,00 t.
+
+  - | 3. | viac ako 1,4 m (d > 1,4) | 27,00 t.
 
     - Dvojnápravou sa rozumejú dve za sebou umiestnené nápravy, ktorých stredy sú pri prípustnej hmotnosti od seba vzdialené (čiastkový rázvor) najviac 1,8 m. Trojnápravou sa rozumejú tri za sebou umiestnené nápravy, ktorých súčet čiastkových rázvorov je najviac 2,8 m. Hmotnosť pripadajúca na jednu nápravu dvojnápravy a trojnápravy prívesov a návesov nesmie prekročiť 10,00 t.
 
@@ -140,7 +146,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
     - c) vymeniteľné nadstavby a normalizované nákladové jednotky, ako sú kontajnery, sú zahrnuté v rozmeroch uvedených v prvom bode písm. a) až f) a v štvrtom bode písm. k),
 
-    - d) motorové vozidlo alebo jazdná súprava, ktoré sa pohybujú, musia byť schopné otočiť sa vo vymedzenom kruhu, ktorý má vonkajší polomer 12,50 m a vnútorný polomer 5,30 m,
+    - d) motorové vozidlo alebo jazdná súprava podľa § 2 písm. c) prvého a druhého bodu, ktoré sa pohybujú, musia byť schopné otočiť sa vo vymedzenom kruhu, ktorý má vonkajší polomer 12,50 m a vnútorný polomer 5,30 m,
 
     - e) hmotnosť pripadajúca na hnaciu nápravu alebo hnacie nápravy vozidla alebo jazdnej súpravy nesmie klesnúť pod 25 % celkovej hmotnosti naloženého vozidla alebo jazdnej súpravy,
 
@@ -150,7 +156,7 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
     - h) pri vozidlách kategórie M a N pri zapojení nebrzdeného prípojného vozidla kategórie O nesmie prevýšiť hmotnosť ustanovenú výrobcom ťažného vozidla, najviac však 0,75 t. Pri vozidlách kategórie M pri zapojení brzdeného prípojného vozidla kategórie O nesmie prevýšiť hmotnosť ustanovenú výrobcom ťažného vozidla, najviac však 3,50 t,
 
-    - i) pri vozidlách v kombinovanej doprave<sup>4a</sup>) rozmery ustanovené v prvom bode písmena c) bodoch 3, 8 a 9 a v prvom bode písmena d) môžu byť prekročené o 0,15 m,
+    - i) pri vozidlách v kombinovanej doprave<sup>4a</sup>) rozmery ustanovené v prvom bode písmena c) bodoch 3, 8, 9 a 11 a v prvom bode písmena d) môžu byť prekročené o 0,15 m,
 
     - j) ak autobus stojí, musí sa na zemi urobiť čiara pozdĺž vertikálnej roviny dotýkajúcej sa strany vozidla, ktorá je obrátená smerom von z kruhu. V prípade kĺbového autobusu musia byť obidve jeho pevné časti s touto rovinou rovnobežné. Ak sa vozidlo pohybuje z priameho smeru do kruhovej oblasti popísanej v písmene d), žiadna jeho časť nesmie vyčnievať z vertikálnej roviny o viac než 0,60 m,
 
@@ -160,15 +166,15 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
     - m) prostredné vozidlo jazdnej súpravy musí mať vyššiu alebo rovnakú okamžitú hmotnosť ako posledné vozidlo jazdnej súpravy,
 
-    - n) najväčšia prípustná hmotnosť v tonách motorového vozidla so štyrmi nápravami nesmie prevýšiť päťnásobnú vzdialenosť v metroch medzi stredmi najprednejšej a poslednej nápravy vozidla,
+    - n) pri preprave dlhého dreva prostredníctvom oplenového prívesu nesmie drevo prečnievať za oplenom viac ako 5,0 m,
 
-    - o) náklad na vozidle alebo jazdnej súprave musí byť rovnomerne rozložený a riadne zaistený vhodným technickým zariadením5) proti pohybu. Ak je na pripevnenie nákladu použitá upevňovacia súprava, musí byť v riadnom technickom stave a viazacia sila uvedená na štítku musí zodpovedať hmotnosti prepravovaného nákladu,
+    - o) náklad na vozidle alebo jazdnej súprave musí byť riadne rozložený vzhľadom na zaťaženie náprav a riadne upevnený proti pohybu vhodnými upevňovacími prostriedkami v riadnom technickom stave; ak sú na upevnenie nákladu použité viazacie prostriedky,<sup>5</sup>) upevnenie sa vykoná dostatočným počtom upevňovacích prostriedkov,<sup>5a</sup>)
 
     - p) najväčšia prípustná hmotnosť saní za vozidlo kategórie L<sub>S</sub> nesmie prevýšiť 50 % prevádzkovej hmotnosti ťažného vozidla,
 
     - q) najväčšie prípustné hmotnosti zvláštnych vozidiel nesmú prekročiť hodnoty platné pre vozidlá uvedené v druhom bode písm. a) až k) a
 
-      - 1. pri vozidlách kategórie R s nápravami v strede môžu byť vyššie ako hmotnosti ustanovené pri prívesoch uvedených v druhom bode písm. d), e) a f) v závislosti od počtu náprav o hmotnosť pripadajúcu na spájacie zariadenie (oko oja), a to pri traktorových návesoch maximálne o 3,00 t a pri traktorových prívesoch s nápravami v strede maximálne o 1,00 t,
+      - 1. pri vozidlách kategórie R s nápravami v strede môžu byť vyššie ako hmotnosti ustanovené pri prívesoch uvedených v druhom bode písm. d), e) a f) v závislosti od počtu náprav o hmotnosť pripadajúcu na spájacie zariadenie (oko oja), a to pri traktorových návesoch maximálne o 4,00 t a pri traktorových prívesoch s nápravami v strede maximálne o 1,00 t,
 
       - 2. pri vozidlách kategórie S nesmú prevýšiť hodnoty ustanovené pre traktorové prívesy alebo návesy,
 
@@ -187,6 +193,8 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
       - 3. pri vozidlách kategórie T po namontovaní nadstavby, pracovného stroja neseného alebo ťahaného vymeniteľného stroja najviac 20 % hmotnosti pripadajúcej na nápravu,
 
     - t) pri vozidlách kategórie T a C pri zapojení nebrzdeného vozidla kategórie R a S súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy nesmie prevýšiť hmotnosť ustanovenú výrobcom najviac 3,50 t pri súčasnom znížení rýchlosti na 20 km.h<sup>-1</sup>. Brzdovým zariadením nájazdového typu môžu byť vybavené vozidlá kategórie R a S, ktorých súčet najväčšej prípustnej hmotnosti pripadajúcej na všetky nápravy je menej ako 3,50 t. Také vozidlá kategórie R a S možno pripojiť iba k ťažnému vozidlu, ktorého prevádzková hmotnosť je rovná alebo prevyšuje najväčšiu prípustnú celkovú hmotnosť prípojného vozidla.
+
+    - u) do celkovej dĺžky návesovej jazdnej súpravy sa nezapočítava dĺžka prečnievajúceho nedeliteľného nákladu, ak nepresahuje náves o viac než 1,40 m, pričom požiadavky na maximálne vybočenie zadnej časti vozidla podľa osobitného predpisu<sup>5b</sup>) a požiadavky na označenie prečnievajúceho nákladu podľa osobitného predpisu<sup>5c</sup>) musia zostať zachované,
 
   - Vysvetlivky:
 
