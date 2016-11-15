@@ -110,7 +110,13 @@
 
 - 32) § 151me Občianskeho zákonníka.
 
-- 32a) Zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 32a) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 32b) § 13 ods. 4 písm. g) zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
+- 32c) Čl. 2 ods. 2 a príloha I nariadenia Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187, 26. 6. 2014).
+
+- 32d) § 11 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 340/2003 Z. z.
 
 - 33) § 72, 74, 76 a 77 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
