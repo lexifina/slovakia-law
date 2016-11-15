@@ -104,6 +104,8 @@
 
 - 39) Napríklad § 28 ods. 1 písm. a) zákona č. 483/2001 Z. z.
 
+- 39a) Zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií a o zmene a doplnení niektorých zákonov.
+
 - 41) Napríklad zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 42) § 131 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
