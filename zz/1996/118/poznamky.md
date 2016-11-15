@@ -144,6 +144,8 @@
 
 - 15i) § 2 ods. 3 a § 8 až 13 zákona č. 386/2002 Z. z.
 
+- 15ia) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, § 71 až 80 zákona č. 71/1967 Zb. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 655/2014 z 15. mája 2014 o zavedení konania týkajúceho sa európskeho príkazu na zablokovanie účtov s cieľom uľahčiť cezhraničné vymáhanie pohľadávok v občianskych a obchodných veciach (Ú. v. EÚ L 189, 27. 6. 2014).
+
 - 15j) § 4 ods. 3 prvá veta zákona č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení zákona č. 233/2012 Z. z.
 
 - 16) Zákon č. 431/2002 Z. z.
