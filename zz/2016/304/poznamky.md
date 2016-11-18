@@ -1,0 +1,1 @@
+- *) Okresný úrad, v pôsobnosti ktorého je zabezpečovanie volieb, § 13 ods. 5 zákona SNR č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, v spojení s § 3 ods. 2 písm. c) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
