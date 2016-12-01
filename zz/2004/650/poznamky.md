@@ -164,8 +164,6 @@
 
 - 47) § 178 ods. 3 Obchodného zákonníka.
 
-- 48) § 28 zákona č. 566/2001 Z. z.
-
 - 49) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 50) § 3 zákona č. 530/2003 Z. z. v znení zákona č. 432/2004 Z. z.
