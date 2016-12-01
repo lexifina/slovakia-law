@@ -492,6 +492,8 @@
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 49a) § 156a Obchodného zákonníka v znení neskorších predpisov.
+
 - 49aa) Zákon č. 330/2007 Z. z. v znení neskorších predpisov.
 
 - 49b) Napríklad § 9 ods. 1 prvá veta Zákonníka práce, § 20 ods. 1 Občianskeho zákonníka.
