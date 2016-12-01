@@ -40,6 +40,10 @@
 
 - 16ad) Kapitoly 4 a 6 prílohy I usmernenia Európskej centrálnej banky č. ECB/2011/14 (2011/817/EÚ) z 20. septembra 2011 o nástrojoch a postupoch menovej politiky Eurosystému (Ú. v. EÚ L 331, 14. 12. 2011) v platnom znení.
 
+- 16ae) Nariadenie (EÚ) č. 575/2013 v platnom znení.
+
+- Delegované nariadenie Komisie (EÚ) č. 241/2014 zo 7. januára 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o regulačné technické predpisy týkajúce sa požiadaviek na vlastné zdroje inštitúcií (Ú. v. EÚ L 74, 14. 3. 2014) v platnom znení.
+
 - 16b) Čl. 38 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241, 2. 9. 2006).
 
 - 17) Čl. 38 a 39 nariadenia Komisie (ES) č. 1287/2006/ES.
@@ -106,6 +110,8 @@
 
 - 39a) Zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií a o zmene a doplnení niektorých zákonov.
 
+- 40) Napríklad zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií.
+
 - 41) Napríklad zákon č. 594/2003 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov.
 
 - 42) § 131 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 280/1999 Z. z.
@@ -155,6 +161,8 @@
 - 50a) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
 
 - 50aa) Napríklad zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
+
+- 50ab) Čl. 92 až 95 a časť IV nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
 
@@ -265,6 +273,8 @@
 - 58jb) Čl. 326 až 350 nariadenia (EÚ) č. 575/2013.
 
 - 58jc) Čl. 345 nariadenia (EÚ) č. 575/2013.
+
+- 58jca) Čl. 15 nariadenia (EÚ) č. 575/2013 v platnom znení.
 
 - 58jd) § 33a až 33n zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -400,19 +410,27 @@
 
 - 88b) § 18, 19, 23 a 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 89) § 156 Obchodného zákonníka v znení neskorších predpisov.
+- 89) Čl. 16 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014).
 
-- 89a) Napríklad čl. 3 ods. 3.1 prvá zarážka, čl. 9 ods. 9.2, čl. 12 ods. 12.1, čl. 34 ods. 34.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 115, 9. 5. 2008).
+- 89a) Čl. 16 až 21, 54 až 57 a čl. 69 ods. 2, 4 a 5 nariadenia (EÚ) č. 909/2014.
 
-- 90) § 158 a 159 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
+- 89b) Napríklad zákon č. 203/2011 Z. z. v znení neskorších predpisov.
+
+- 89c) Čl. 23 a 25 nariadenia (EÚ) č. 909/2014.
+
+- 89d) § 10 zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
+
+- 89e) Čl. 31 a príloha oddiel A prvý a druhý bod nariadenia (EÚ) č. 909/2014.
+
+- 90) Nariadenie (EÚ) č. 909/2014.
 
 - 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 90aa) § 45 zákona č. 492/2009 Z. z.
 
-- 90ab) § 2 ods. 2 zákona č. 375/2015 Z. z. o zrušení Fondu národného majetku a o zmene a doplnení niektorých zákonov.
+- 90ab) Čl. 20 ods. 1 písm. a) nariadenia (EÚ) č. 909/2014.
 
-- 90ac) Čl. 2 ods. 1 bod 30 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014).
+- 90ac) Čl. 20 ods. 5 nariadenia (EÚ) č. 909/2014.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
 
@@ -484,6 +502,10 @@
 
 - § 75 zákona č. 215/2004 Z. z.
 
+- 107f) § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
+
+- § 75 zákona č. 215/2004 Z. z. v znení zákona č. 195/2014 Z. z.
+
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
 - 108a) Zákon č. 428/2002 Z. z.
@@ -544,6 +566,8 @@
 
 - 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
 
+- 110la) Čl. 63 ods. 2 nariadenia (EÚ) č. 909/2014.
+
 - 110m) Čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014.
 
 - 110n) Čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014.
@@ -577,6 +601,10 @@
 - Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 114g) Napríklad Trestný poriadok v znení neskorších predpisov.
+
+- 114h) Čl. 62 nariadenia (EÚ) č. 909/2014.
+
+- 114i) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
 - 115) § 25 zákona č. 747/2004 Z. z.
 

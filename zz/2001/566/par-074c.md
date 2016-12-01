@@ -15,3 +15,5 @@
 (4) Ekonomická hodnota obchodníka s cennými papiermi nesmie klesnúť o viac než 20 % z hodnoty jeho vlastných zdrojov následkom náhlej a neočakávanej zmeny úrokových mier na trhu, ktorej dôsledok sa vypočíta z pozícií zaznamenaných v neobchodnej knihe obchodníka s cennými papiermi, spôsobí pokles ekonomickej hodnoty obchodníka s cennými papiermi o viac ako 20 % hodnoty jeho vlastných zdrojov, Národná banka Slovenska mu uloží opatrenie na nápravu podľa § 144 ods. 1 písm. m).
 
 (5) Na účely tohto zákona sa ekonomickou hodnotou rozumie rozdiel reálnej hodnoty úrokovo citlivých aktív zaznamenaných v neobchodnej knihe a reálnej hodnoty úrokovo citlivých pasív zaznamenaných v neobchodnej knihe; úrokovo citlivé aktívum a úrokovo citlivé pasívum je aktívum a pasívum, ktorého reálna hodnota je premenlivá v závislosti od zmeny úrokových mier na trhu.
+
+(6) Ak Národná banka Slovenska udelila výnimku na uplatňovanie požiadaviek na vlastné zdroje na konsolidovanom základe podľa osobitného predpisu,<sup>58jca</sup>) požiadavky podľa odseku 1 sa uplatňujú na individuálnom základe.

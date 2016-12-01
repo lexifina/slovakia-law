@@ -14,7 +14,7 @@
 
   - 2. počet kusov cenného papiera príslušnej emisie a ich podiel z takejto emisie,
 
-  - 3. iné údaje o cennom papieri, najmä údaj o registrácii pozastavenia práva nakladať podľa § 28 ods. 3 písm. e) a f),
+  - 3. iné údaje o cennom papieri, najmä údaj o registrácii pozastavenia práva nakladať pre celú emisiu zaknihovaných cenných papierov,
 
 - d) dátum a čas príslušného účtového zápisu na tomto technickom účte.
 

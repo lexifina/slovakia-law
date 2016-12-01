@@ -24,7 +24,7 @@
 
 - f) informácie o podkladovom aktíve podľa osobitného predpisu,<sup>16ab</sup>)
 
-- g) termín alebo termíny vyrovnania,
+- g) termín alebo termíny vyrovnania, ak v emisných podmienkach investičných certifikátov nie je uvedené, že ide o trvalý finančný nástroj bez povinnosti jeho vyrovnania,
 
 - h) údaj o prevoditeľnosti alebo obmedzení prevoditeľnosti investičného certifikátu.
 
@@ -63,3 +63,5 @@
 (17) Práva z investičných certifikátov sa premlčujú za desať rokov odo dňa termínu vyrovnania.
 
 (18) Investičný certifikát poskytovaný alebo poskytnutý ako zábezpeka na zabezpečenie obchodu Národnej banky Slovenska<sup>16ac</sup>) musí spĺňať požiadavky a podmienky ustanovené osobitnými predpismi.<sup>16ad</sup>)
+
+(19) Ak v emisných podmienkach investičných certifikátov emitent uviedol, že ide o trvalý finančný nástroj bez povinnosti jeho vyrovnania alebo je v nich uvedená skutočnosť, ktorá trvalo alebo dočasne znižuje hodnotu investičného certifikátu a umožňuje jeho konverziu na nástroje vlastného kapitálu Tier 1 podľa osobitného predpisu,<sup>16ae</sup>) takéto investičné certifikáty môžu byť predmetom ponuky len pre profesionálnych klientov podľa § 8a ods. 2.

@@ -1,6 +1,6 @@
 # § 107a Neodvolateľnosť príkazu na registráciu prevodu
 
-(1) Od okamihu prijatia príkazu na registráciu prevodu nesmie účastník systému vyrovnania ani žiadna tretia osoba platne odvolať ani zrušiť príkaz na registráciu prevodu prijatý systémom vyrovnania a ani inak nesmie byť znemožnené vykonanie takéhoto príkazu.
+(1) Od okamihu určeného v prevádzkovom poriadku nesmie účastník systému vyrovnania ani žiadna tretia osoba platne odvolať ani zrušiť príkaz na registráciu prevodu prijatý systémom vyrovnania a ani inak nesmie byť znemožnené vykonanie takéhoto príkazu.
 
 (2) Vyhlásením konkurzu alebo povolením reštrukturalizácie na majetok účastníka systému vyrovnania alebo účastníka systému vyrovnania v prepojenom systéme nie je dotknuté právo použiť peňažné prostriedky a cenné papiere z účtu tohto účastníka na splnenie záväzkov tohto účastníka v systéme vyrovnania alebo v prepojenom systéme v pracovnom dni systému vyrovnania, v ktorom bol vyhlásený konkurz alebo povolená reštrukturalizácia. Pracovný deň systému vyrovnania je časové obdobie, v ktorom sa vykonávajú všetky činnosti v priebehu jedného pracovného cyklu systému vyrovnania.
 
