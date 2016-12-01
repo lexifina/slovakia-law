@@ -240,6 +240,6 @@
 
 - 96) § 178 ods. 3 Obchodného zákonníka.
 
-- 97) § 28 zákona č. 566/2001 Z. z.
+- 97) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
 - 98) § 1 ods. 2 písm. i), § 2 a 18 zákona č. 659/2007 Z. z.
