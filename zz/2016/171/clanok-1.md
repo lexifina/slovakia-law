@@ -8,6 +8,8 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - 3. V § 7 ods. 1 druhej vete sa vypúšťajú slová „pre informatizáciu spoločnosti a“.
 
+- 4. V § 14 sa vypúšťa odsek 3.
+
 - 5. § 21 sa dopĺňa písmenom k), ktoré znie:
 
 - „k)
@@ -98,4 +100,14 @@ Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústred
 
 - (3)
 
-- V súvislosti s prechodom kompetencií podľa odseku 1 prechádzajú od 1. júna 2016 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií, ako aj práva a povinnosti z iných právnych vzťahov z Úradu vlády Slovenskej republiky na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Majetok štátu, ktorý bol do 31. mája 2016 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií podľa odseku 1, prechádza od 1. júna 2016 do správy Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Úradom podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.“.
+- V súvislosti s prechodom kompetencií podľa odseku 1 prechádzajú od 1. júna 2016 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií, ako aj práva a povinnosti z iných právnych vzťahov z Úradu vlády Slovenskej republiky na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Majetok štátu, ktorý bol do 31. mája 2016 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií podľa odseku 1, prechádza od 1. júna 2016 do správy Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Úradom podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
+
+- § 40ab
+
+- (1)
+
+- Pôsobnosť Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky v oblasti poskytovania dotácií v oblasti ľudských práv podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo spravodlivosti Slovenskej republiky; to neplatí pre dotácie poskytnuté do 30. novembra 2016.
+
+- (2)
+
+- Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo spravodlivosti Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.“.
