@@ -14,4 +14,4 @@ Odborne spôsobilá osoba pri výkone odborného technicko-bezpečnostného doh�
 
 - f) informovať štátnu organizáciu poverenú výkonom odborného technicko-bezpečnostného dohľadu, ktorá na základe poverenia ministerstva vedie zoznam odborne spôsobilých osôb o zmene údajov podľa § 56c ods. 2,
 
-- g) zúčastniť sa aspoň jedenkrát ročne školenia podľa § 56b ods. 2 písm. c); zohľadňuje a uznáva sa aj školenie s rovnocenným obsahom, ktorý odborne spôsobilá osoba absolvuje v iných členských štátoch Európskej únie.
+- g) zúčastniť sa aspoň jedenkrát počas piatich rokov školenia podľa § 56b ods. 2 písm. c); zohľadňuje a uznáva sa aj školenie s rovnocenným obsahom, ktorý odborne spôsobilá osoba absolvuje v iných členských štátoch Európskej únie.

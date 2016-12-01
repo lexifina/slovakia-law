@@ -4,7 +4,7 @@
 
 (2) Začaté a právoplatne neukončené konania do 14. januára 2015 sa dokončia podľa zákona účinného do 14. januára 2015.
 
-(3) Práva a povinnosti vyplývajúce z povolení a rozhodnutí vydaných do 14. januára 2015, ktoré nie sú v súlade so zákonom účinným od 15. januára 2015, je potrebné do 30. septembra 2017 uviesť s ním do súladu, inak povolenia a rozhodnutia strácajú platnosť.
+(3) Práva a povinnosti vyplývajúce z povolení a rozhodnutí vydaných do 14. januára 2015, ktoré nie sú v súlade so zákonom účinným od 15. januára 2015, je potrebné do 31. decembra 2018 uviesť s ním do súladu, inak povolenia a rozhodnutia strácajú platnosť.
 
 (4) Správca vodohospodársky významných vodných tokov prevezme správu vodných tokov podľa § 80 ods. 5 druhej vety do 31. decembra 2019, ak ministerstvo neprevedie správu na inú osobu podľa § 51 ods. 1.
 

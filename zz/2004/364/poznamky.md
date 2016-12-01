@@ -78,7 +78,7 @@
 
 - 24a) Zákon č. 617/2007 Z. z. o oficiálnej rozvojovej pomoci a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 545/2010 Z. z.
 
-- 24b) Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+- 24b) Ústavný zákon č. 227/2002 Z. z. v znení neskorších predpisov.
 
 - 25) § 3 zákona č. 355/2007 Z. z.
 
@@ -90,11 +90,13 @@
 
 - 29) § 40 ods. 4 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
-- 30) Príloha č. 3 k nariadeniu vlády Slovenskej republiky č. 491/2002 Z. z.
+- 30) Príloha č. 6 k nariadeniu vlády Slovenskej republiky č. 269/2010 Z. z. v znení nariadenia vlády Slovenskej republiky č. 398/2012 Z. z.
 
-- 31) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
+- 31) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. v znení neskorších predpisov.
 
 - 31a) § 18 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
+
+- 31aa) § 20 zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení neskorších predpisov.
 
 - 31b) § 57 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -124,10 +126,6 @@
 
 - 41) § 3 zákona č. 44/1988 Zb. v znení neskorších predpisov.
 
-- 42) Napríklad nariadenie vlády Slovenskej republiky č. 64/1998 Z. z., ktorým sa vyhlasuje záväzná časť územného plánu veľkého územného celku Bratislavský kraj v znení neskorších predpisov.
-
-- 43) Zákon Národnej rady Slovenskej republiky č. 127/1994 Z. z. o posudzovaní vplyvov na životné prostredie v znení neskorších predpisov.
-
 - 44) Zákon č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 45) § 13 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
@@ -138,7 +136,7 @@
 
 - 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 46b) § 4 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 46b) § 4 ods. 3 písm. g) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 48) § 4 zákona č. 569/2007 Z. z.
 
@@ -162,13 +160,13 @@
 
 - 56a) § 38a ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z.
 
-- 57) Zákon č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 180/2013 Z. z.
+- 57) Zákon č. 7/2010 Z. z. v znení neskorších predpisov.
 
 - 58) Zákon č. 338/2000 Z. z. v znení zákona č. 580/2003 Z. z.
 
 - 58a) § 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
-- 58b) § 37 ods. 5 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
+- 58b) § 37 ods. 5 zákona č. 7/2010 Z. z.
 
 - 58c) § 15 a 16 a 27 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -192,9 +190,11 @@
 
 - Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení neskorších predpisov.
 
-- 61d) § 3 ods. 3 písm. a) nariadenia vlády Slovenskej republiky č. 270/2010 Z. z. o environmentálnych normách kvality v oblasti vodnej politiky.
+- 61d) § 3 ods. 3 písm. a) nariadenia vlády Slovenskej republiky č. 167/2015 Z. z. o environmentálnych normách kvality v oblasti vodnej politiky.
 
 - 61e) § 16 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
+
+- 61f) Nariadenie vlády Slovenskej republiky č. 167/2015 Z. z.
 
 - 62) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
@@ -216,6 +216,8 @@
 
 - Zákon č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
 
+- 66d) § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
+
 - 67) § 106 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 67a) § 125 ods. 1 Trestného zákona.
@@ -224,7 +226,7 @@
 
 - 69) Napríklad vyhláška ministra zahraničných vecí č. 109/1978 Zb. o Zmluve medzi Československou socialistickou republikou a Maďarskou ľudovou republikou o výstavbe a prevádzke Sústavy vodných diel Gabčíkovo – Nagymaros.
 
-- 70) § 2 písm. a) štvrtý bod zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
+- 70) § 2 písm. c) piaty bod až siedmy bod zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
 
 - 70a) § 1 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z., ktorým sa ustanovuje výška neregulovaných platieb, výška poplatkov a podrobnosti súvisiace so spoplatňovaním užívania vôd.
 
@@ -233,6 +235,8 @@
 - 70c) § 9 zákona č. 194/1998 Z. z. o šlachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - § 31 ods. 5 zákona č. 139/2002 Z. z.
+
+- 70d) Zákon č. 189/2009 Z. z. o ekologickej poľnohospodárskej výrobe.
 
 - 71) Zákon č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -244,7 +248,7 @@
 
 - 74) § 71 ods. 1 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
-- 75) Príloha č. 1 k nariadeniu vlády Slovenskej republiky č. 270/2010 Z. z. o environmentálnych normách kvality v oblasti vodnej politiky.
+- 75) Príloha č. 1 k nariadeniu vlády Slovenskej republiky č. 167/2015 Z. z.
 
 - 76) Zákon č. 405/2011 Z. z. o rastlinolekárskej starostlivosti a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
