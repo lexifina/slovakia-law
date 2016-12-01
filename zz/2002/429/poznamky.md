@@ -188,4 +188,6 @@
 
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
+- 70a) § 156a Obchodného zákonníka v znení neskorších predpisov.
+
 - 71) § 25 zákona č. 747/2004 Z. z.
