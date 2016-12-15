@@ -12,7 +12,7 @@
 
 - d) dodanie tabakovej suroviny na daňovom území na konečnú spotrebu alebo inému prevádzkovateľovi živnosti.<sup>11</sup>)
 
-(3) Základom dane je množstvo tabakovej suroviny vyjadrené v kilogramoch. Daň sa vypočíta ako súčin základu dane a príslušnej sadzby dane. Sadzba dane na tabakovú surovinu je 71,11 eura/kg. Tabakovú surovinu nemožno predať na konečnú spotrebu za cenu nižšiu, ako je výška dane pripadajúcej na množstvo predávanej tabakovej suroviny na konečnú spotrebu a dane z pridanej hodnoty pripadajúcej na toto množstvo tabakovej suroviny.
+(3) Základom dane je množstvo tabakovej suroviny vyjadrené v kilogramoch. Daň sa vypočíta ako súčin základu dane a príslušnej sadzby dane. Sadzba dane na tabakovú surovinu sa ustanovuje vo výške sadzby dane na tabak. Tabakovú surovinu nemožno predať na konečnú spotrebu za cenu nižšiu, ako je výška dane pripadajúcej na množstvo predávanej tabakovej suroviny na konečnú spotrebu a dane z pridanej hodnoty pripadajúcej na toto množstvo tabakovej suroviny.
 
 (4) Daňová povinnosť z tabakovej suroviny vzniká dňom
 
