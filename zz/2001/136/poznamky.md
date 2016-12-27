@@ -46,6 +46,8 @@
 
 - 22b) Napríklad zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
+- 22ba) Zákon č. 350/2016 Z. z. o niektorých pravidlách uplatňovania nárokov na náhradu škody spôsobenej porušením práva hospodárskej súťaže a ktorým sa mení a dopĺňa zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
+
 - 22c) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 23) § 69 ods. 4 Trestného poriadku.
