@@ -15,3 +15,5 @@ Príloha č. 5 k zákonu č. 462/2007 Z. z.
   - 6. Smernica Komisie 2009/4/ES z 23. januára 2009 o protiopatreniach na prevenciu a odhaľovanie manipulácie so záznamami tachografov, ktorou sa mení a dopĺňa smernica Európskeho parlamentu a Rady 2006/22/ES o minimálnych podmienkach vykonávania nariadení Rady (EHS) č. 3820/85 a (EHS) č. 3821/85 o právnych predpisoch v sociálnej oblasti, ktoré sa týkajú cestnej dopravy, a o zrušení smernice Rady 88/599/EHS (Ú. v. EÚ L 21, 24. 1. 2009).
 
   - 7. Smernica Komisie 2009/5/ES z 30. januára 2009, ktorou sa mení a dopĺňa príloha III k smernici Európskeho parlamentu a Rady 2006/22/ES o minimálnych podmienkach vykonávania nariadení Rady (EHS) č. 3820/85 a (EHS) č. 3821/85 o právnych predpisoch v sociálnej oblasti, ktoré sa týkajú cestnej dopravy (Ú. v. EÚ L 29, 31. 1. 2009).
+
+  - 8. Smernica Rady 2014/112/EÚ z 19. decembra 2014, ktorou sa vykonáva Európska dohoda o niektorých aspektoch organizácie pracovného času vo vnútrozemskej vodnej doprave, ktorú uzatvorili Európsky zväz riečnej plavby (EBU), Európska organizácia lodných kapitánov (ESO) a Európska federácia pracovníkov v doprave (ETF) (Ú. v. EÚ L 367, 23. 12. 2014).
