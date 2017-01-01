@@ -68,8 +68,6 @@
 
 - 30) § 7 zákona č. 581/2004 Z. z.
 
-- 31) § 2 ods. 11 zákona č. 576/2004 Z. z.
-
 - 32) § 2 ods. 5 zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. v znení neskorších predpisov.
 
 - 34) § 9 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
