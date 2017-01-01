@@ -258,13 +258,15 @@
 
 - 61a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
+- 61aa) § 14 ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
+
 - 61b) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
 
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - Zákon č. 502/2001 Z. z. v znení zákona č. 618/2004 Z. z.
 
-- Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
