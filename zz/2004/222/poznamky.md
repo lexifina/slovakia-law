@@ -164,6 +164,8 @@
 
 - Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 29ba) § 68a zákona č. 563/2009 Z. z. v znení zákona č. 298/2016 Z. z.
+
 - 29c) § 47a zákona č. 563/2009 Z. z. v znení zákona č. 218/2014 Z. z.
 
 - 30) § 25 zákona č. 595/2003 Z. z. v znení neskorších predpisov.

@@ -8,7 +8,7 @@
 
 (2) Kontrolný výkaz musí obsahovať údaje o daňovej povinnosti a odpočítaní dane za príslušné zdaňovacie obdobie v tomto členení:
 
-- a) údaje z každej faktúry, ktorú bol platiteľ povinný vyhotoviť podľa § 71 až 75 o dodaní tovarov a služieb, pri ktorých je osobou povinnou platiť daň v tuzemsku a ktoré nie sú oslobodené od dane, okrem zjednodušenej faktúry, alebo z ktorých je povinný platiť daň v tuzemsku príjemca plnenia podľa § 69 ods. 12 písm. f) až i), okrem zjednodušenej faktúry,
+- a) údaje z každej faktúry, ktorú bol platiteľ povinný vyhotoviť podľa § 71 až 75 o dodaní tovarov a služieb, pri ktorých je osobou povinnou platiť daň v tuzemsku a ktoré nie sú oslobodené od dane, okrem zjednodušenej faktúry, alebo z ktorých je povinný platiť daň v tuzemsku príjemca plnenia podľa § 69 ods. 12 písm. f) až j), okrem zjednodušenej faktúry,
 
 - b) údaje z každej prijatej faktúry o dodaní tovarov a služieb,
 

@@ -12,7 +12,7 @@
 
   - 1. prepravných služieb a s nimi súvisiacich doplnkových služieb, ktoré sú oslobodené od dane podľa § 47 ods. 6, 8, 10 a 12 a § 48 ods. 8,
 
-  - 2. služby a dodania tovaru, ak je osobou povinnou platiť daň príjemca podľa § 69 ods. 2 a 3,
+  - 2. služby a dodania tovaru, ak je osobou povinnou platiť daň príjemca podľa § 69 ods. 2, 3 a 12,
 
   - 3. tovaru podľa § 13 ods. 1 písm. e) a f), ak je osobou povinnou platiť daň osoba, ktorej je tento tovar dodaný podľa § 69 ods. 9,
 
