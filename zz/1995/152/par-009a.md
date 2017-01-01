@@ -14,7 +14,7 @@
 
 (7) Kontrolu overovania dodržiavania špecifikácie poľnohospodárskych výrobkov a potravín pred ich umiestnením na trh podľa osobitného predpisu<sup>9aaf</sup>) vykonávajú orgány alebo organizácie autorizované ministerstvom. Spôsobilosť sa preukazuje osvedčením o akreditácii na certifikáciu výrobkov.<sup>9ab</sup>) O výsledku kontroly písomne informujú ministerstvo.
 
-(8) Úradnú kontrolu poľnohospodárskych výrobkov a potravín s chráneným označením pôvodu, chráneným zemepisným označením alebo s označením zaručenej tradičnej špeciality spĺňajúcich požiadavky podľa osobitných predpisov<sup>9aba</sup>) vykonávajú orgány štátnej veterinárnej a potravinovej správy podľa osobitného predpisu.<sup>9abb</sup>)
+(8) Úradnú kontrolu poľnohospodárskych výrobkov a potravín s chráneným označením pôvodu, chráneným zemepisným označením, s označením zaručenej tradičnej špeciality alebo s označením nepovinnými výrazmi kvality podľa osobitných predpisov<sup>9aba</sup>) vykonávajú orgány štátnej veterinárnej a potravinovej správy podľa osobitného predpisu.<sup>9abb</sup>)
 
 (9) Kontrolu overovania dodržiavania špecifikácie liehovín so zemepisným označením pred ich umiestnením na trh podľa osobitných predpisov<sup>9abc</sup>) vykonávajú orgány alebo organizácie autorizované ministerstvom. Spôsobilosť sa preukazuje osvedčením o akreditácii na certifikáciu výrobkov.<sup>9ab</sup>)
 

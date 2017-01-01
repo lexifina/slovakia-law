@@ -1,4 +1,4 @@
-- 1) Čl. 3 ods. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6) v platnom znení.
+- 1) Čl. 3 ods. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 178/2002 z 28. januára 2002, ktorým sa ustanovujú všeobecné zásady a požiadavky potravinového práva, zriaďuje Európsky úrad pre bezpečnosť potravín a stanovujú postupy v záležitostiach bezpečnosti potravín (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 6; Ú. v. ES L 31, 1. 2. 2002) v platnom znení.
 
 - 1a) Čl. 1 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 z 29. apríla 2004 o úradných kontrolách uskutočňovaných za účelom zabezpečenia dodržiavania potravinového a krmivového práva a predpisov o zdraví zvierat a pohode zvierat (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 45) v platnom znení.
 
@@ -60,7 +60,13 @@
 
 - 8dab) Čl. 2 ods. 2 písm. r) a čl. 24 nariadenia (EÚ) č. 1169/2011.
 
+- 8dac) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov a zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
+
+- 8dad) § 52 ods. 1 písm. b) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a čl. 4 ods. 2 a príloha II kapitola I nariadenia (ES) č. 852/2004 v platnom znení.
+
 - 8e) Čl. 2 ods. 2 nariadenia Komisie (EÚ) č. 16/2011 z 10. januára 2011, ktorým sa stanovujú vykonávacie opatrenia pre systém rýchleho varovania pre potraviny a krmivá (Ú. v. EÚ L 64, 11. 3. 2011).
+
+- 8ea) Čl. 3 ods. 1 písm. d) nariadenia (ES) č. 882/2004 v platnom znení.
 
 - 8f) Čl. 3 ods. 6 nariadenia (ES) č. 882/2004 v platnom znení.
 
@@ -74,6 +80,12 @@
 
 - 9aaa) Napríklad nariadenie (ES) č. 510/2006 v platnom znení, nariadenie (ES) č. 110/2008 v platnom znení, nariadenie (ES) č. 1234/2007 v platnom znení.
 
+- 9aaaa) Čl. 16 ods. 3 a príloha V bod 19 nariadenia (EÚ) č. 1169/2011 v platnom znení.
+
+- 9aaab) Nariadenie vlády Slovenskej republiky č. 359/2011 Z. z., ktorým sa ustanovujú požiadavky na niektoré potravinárske prevádzkarne a na malé množstvá.
+
+- Nariadenie vlády Slovenskej republiky č. 360/2011 Z. z., ktorým sa ustanovujú hygienické požiadavky na priamy predaj a dodávanie malého množstva prvotných produktov rastlinného a živočíšneho pôvodu a dodávanie mlieka a mliečnych výrobkov konečnému spotrebiteľovi a iným maloobchodným prevádzkarňam v znení nariadenia vlády Slovenskej republiky č. 100/2016 Z. z.
+
 - 9aab) Nariadenie Rady (ES) č. 509/2006 z 20. marca 2006 o zaručených tradičných špecialitách poľnohospodárskych výrobkov a potravín (Ú. v. EÚ L 93, 31. 3. 2006).
 
 - 9aac) Čl. 7 ods. 5 nariadenia Rady (ES) č. 509/2006 v platnom znení.
@@ -86,7 +98,7 @@
 
 - 9ab) Zákon č. 264/1999 Z. z.
 
-- 9aba) Čl. 14 nariadenia Rady (ES) č. 509/2006 v platnom znení, čl. 10 nariadenia Rady (ES) č. 510/2006 v platnom znení.
+- 9aba) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1151/2012 z 21. novembra 2012 o systémoch kvality pre poľnohospodárske výrobky a potraviny (Ú. v. EÚ L 343, 14. 12. 2012).
 
 - 9abb) Nariadenie Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
@@ -139,6 +151,8 @@
 - 12aa) Čl. 54 ods. 2 písm. c) nariadenia (ES) č. 882/2004 v platnom znení.
 
 - 12ab) Čl. 54 ods. 2 písm. e) nariadenia (ES) č. 882/2004 v platnom znení.
+
+- 12ac) § 15 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
 - 12b) Čl. 14 nariadenia Európskeho parlamentu a Rady (ES) č. 882/2004 v platnom znení.
 
