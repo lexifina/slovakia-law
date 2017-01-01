@@ -12,6 +12,10 @@
 
 - 7) § 15 a 16 zákona č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov.
 
+- 7a) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7b) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 8) § 25 ods. 1 a ods. 2 písm. a) zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8a) § 16 ods. 2 Trestného poriadku.
@@ -50,7 +54,7 @@
 
 - Trestný poriadok.
 
-- 19) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 19) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 19a) § 24 ods. 4 zákona č. 385/2000 Z. z. v znení neskorších predpisov.
 
@@ -119,6 +123,8 @@
 - 42e) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 42f) § 13a Obchodného zákonníka.
+
+- 42g) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 43) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 

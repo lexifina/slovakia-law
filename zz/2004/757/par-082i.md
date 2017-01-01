@@ -7,3 +7,5 @@
 (2) Údaje z registra diskvalifikácií sú súčasťou centrálneho informačného systému.
 
 (3) Z registra diskvalifikácií sa na základe žiadosti po splnení poplatkovej povinnosti vydá osvedčenie o tom, či o žiadateľovi v registri diskvalifikácií určitý záznam je alebo nie je.
+
+(4) Register diskvalifikácií vedie Okresný súd Žilina.

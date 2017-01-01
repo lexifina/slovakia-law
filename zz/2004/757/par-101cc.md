@@ -1,0 +1,3 @@
+# § 101cc Prechodné ustanovenie k úpravám účinným od 1. januára 2017
+
+V súvislosti s prechodom pôsobnosti pri výkone správy najvyššieho súdu podľa tohto zákona, s výnimkou vybavovania personálnych vecí sudcov najvyššieho súdu a činností uvedených v § 74 ods. 1 písm. b), i) a k), prechádzajú od 1. januára 2017 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov zamestnancov najvyššieho súdu, ako aj práva a povinnosti z iných právnych vzťahov z najvyššieho súdu na kanceláriu najvyššieho súdu. Majetok štátu, ktorý je k 31. decembru 2016 v správe najvyššieho súdu, prechádza od 1. januára 2017 do správy kancelárie najvyššieho súdu.
