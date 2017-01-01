@@ -34,6 +34,8 @@
 
 - 13a) Napríklad zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
+- 13aa) Čl. 8 ústavného zákona č. 493/2011 Z. z.
+
 - 13b) Zákon č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
 
 - 14) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
@@ -60,6 +62,8 @@
 
 - 18a) Čl. 3 a 4 nariadenia Rady (ES) č. 1466/97 zo 7. júla 1997 o posilnení dohľadu nad stavmi rozpočtov a o dohľade nad hospodárskymi politikami a ich koordinácii (Mimoriadne vydanie Ú. v. EÚ, kap. 10/zv. 1, Ú. v. ES L 209, 2. 8. 1997) v platnom znení.
 
+- 18b) § 27 ods. 2 zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
+
 - 19) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
 - 20) § 88 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
@@ -75,6 +79,10 @@
 - 22a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, Občiansky súdny poriadok, zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 353/2005 Z. z.
 
 - 22aa) Napríklad § 36 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22aaa) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- § 8 ods. 2 zákona č. 396/2012 Z. z. o Fonde na podporu vzdelávania v znení zákona č. 352/2016 Z. z.
 
 - 22ab) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
@@ -191,6 +199,8 @@
 - 48) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov (úplné znenie č. 138/2004 Z. z.).
 
 - 48a) § 6a zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
+
+- 48aa) § 2 písm. h) zákona č. 357/2015 Z. z.
 
 - 48b) Napríklad § 33 ods. 2 zákona č. 292/2014 Z. z.
 
