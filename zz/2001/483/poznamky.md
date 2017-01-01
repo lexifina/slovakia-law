@@ -652,11 +652,17 @@
 
 - Nariadenie Rady (ES) č. 1/2003 zo 16. decembra 2002 o vykonávaní pravidiel hospodárskej súťaže ustanovených v článkoch 81 a 82 Zmluvy (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 2; Ú. v. ES L 1, 4. 1. 2003) v platnom znení.
 
+- 86df) § 15b ods. 6 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
 
 - 86g) Zákon č. 359/2015 Z. z. o automatickej výmene informácií o finančných účtoch na účely správy daní a o zmene a doplnení niektorých zákonov.
+
+- 86h) § 7 ods. 6, 7 a 11 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+
+- 86i) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
 
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
@@ -665,6 +671,12 @@
 - 87aa) § 75 ods. 12 zákona č. 7/2005 Z. z.
 
 - 87ab) Napríklad zákon č. 527/2002 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+
+- 87ac) § 17 ods. 1 a 2 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+
+- § 525 ods. 2 Občianskeho zákonníka v znení neskorších predpisov.
+
+- 87ad) § 20 ods. 6 a 8 zákona č. 90/2016 Z. z.
 
 - 87b) § 4 ods. 3, § 5, § 23 a 55 zákona č. 428/2002 Z. z.
 
