@@ -104,6 +104,12 @@
 
 - 36) Napríklad § 136 zákona č. 311/2001 Z. z. Zákonník práce, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
+- 36a) § 85 ods. 11 zákona č. 199/2004 Z. z. v znení zákona č. 298/2016 Z. z.
+
+- § 20 ods. 3 zákona č. 563/2009 Z. z. v znení zákona č. 298/2016 Z. z.
+
+- 36b) § 85 ods. 11 druhá veta zákona č. 199/2004 Z. z. v znení zákona č. 298/2016 Z. z.
+
 - 37) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 37a) § 18 a 20a zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
