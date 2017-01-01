@@ -4,7 +4,17 @@ Opatrenie Ministerstva financií Slovenskej republiky z 8. decembra 2004 č. MF/
 
 - 1. V § 1 ods. 3 písm. b) sa číslo "6" nahrádza číslom "7“.
 
+- 2. V § 1 ods. 3 písmeno c) znie:
+
+- „c) pohybov na účtoch rozpočtových organizácií.“.
+
 - 3. V § 1 ods. 4 písm. a) sa za slovom „služby“ čiarka nahrádza slovom „a“ a vypúšťajú sa slová “ako aj platby za trvanlivé tovary a vybavenie na vojenské účely, na výstavbu vojenského charakteru a vojenských budov,“.
+
+- 4. V § 1 ods. 6 sa slová „mimorozpočtových bankových účtoch rozpočtových organizácií, z ktorých sa nerealizuje čerpanie prostredníctvom príjmov štátneho rozpočtu a výdavkov štátneho rozpočtu“ nahrádzajú slovami „účtoch rozpočtových organizácií“.
+
+- 5. V prílohe tretej časti písmene B. položke 637 sa za podpoložku 637039 vkladá podpoložka 637040, ktorá znie:
+
+- „637040 Služby v oblasti informačno-komunikačných technológií“.
 
 - 6. V prílohe tretej časti písmene B. položka 646 znie:
 
