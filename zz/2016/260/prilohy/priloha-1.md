@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 260/2016 Z. z. [príloha](../assets/9a93fc3001a62b3a176dcd205a488d0632ca4f24f5c7527dd224302a78baad59.pdf)
+Príloha č. 1 k vyhláške č. 260/2016 Z. z. [príloha](../assets/0de52638e6c41daa5f8231c3fae4be00c8b91c4bc0cad185b6e26fcff57ab1db.pdf)
