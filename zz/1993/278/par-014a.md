@@ -8,7 +8,7 @@
 
 (2) V pôsobnosti ministerstva financií je vykonávanie vládneho auditu dodržiavania ustanovení tohto zákona a osobitných predpisov
 
-- a) pri správe majetku štátu vykonávanej ministerstvami, ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23a</sup>) Kanceláriou Národnej rady Slovenskej republiky, Kanceláriou prezidenta Slovenskej republiky, Ústavným súdom Slovenskej republiky, Najvyšším súdom Slovenskej republiky, Generálnou prokuratúrou Slovenskej republiky, Slovenskou akadémiou vied a Slovenskou informačnou službou,
+- a) pri správe majetku štátu vykonávanej ministerstvami, ostatnými ústrednými orgánmi štátnej správy Slovenskej republiky,<sup>23a</sup>) Kanceláriou Národnej rady Slovenskej republiky, Kanceláriou prezidenta Slovenskej republiky, Ústavným súdom Slovenskej republiky, Kanceláriou Najvyššieho súdu Slovenskej republiky, Generálnou prokuratúrou Slovenskej republiky, Slovenskou akadémiou vied a Slovenskou informačnou službou,
 
 - b) pri udeľovaní súhlasu zriaďovateľmi,
 
