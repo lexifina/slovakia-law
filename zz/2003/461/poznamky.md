@@ -222,6 +222,8 @@
 
 - 92aa) § 4 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
+- 92aaa) § 14 ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 310/2016 Z. z.
+
 - 92ab) § 23 ods. 4 písm. j), § 26 písm. a) a § 27b písm. c) zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 92aba) 66h ods. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
