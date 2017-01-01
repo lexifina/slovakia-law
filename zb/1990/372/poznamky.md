@@ -26,6 +26,8 @@
 
 - 3bb) § 2 ods. 1 zákona č. 93/2005 Z. z. o autoškolách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 3bc) § 139a ods. 8 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
 - 3c) § 16, § 27 ods. 3, § 34 ods. 1, § 49 ods. 2, § 59 ods. 3 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
 - 3d) § 137 ods. 2 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
