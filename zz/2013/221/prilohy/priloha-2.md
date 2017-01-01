@@ -1,3 +1,0 @@
-Príloha č. 2 k vyhláške č. 221/2013 Z. z.
-
-- PODKLADY K NÁVRHU CENY ORGANIZÁTORA KRÁTKODOBÉHO TRHU S ELEKTRINOU [Vzor 02](../assets/9ba16919e0f7fad5c8e7555fa822292d5c978a3edc5ade62bf430ca55814ef4f.pdf)
