@@ -14,4 +14,4 @@
 
 (5) Ak príslušný orgán na základe žiadosti navrhovateľa upustil od požiadavky variantného riešenia navrhovanej činnosti alebo jej zmeny postupom podľa doterajších predpisov, na obsah ním predkladaného zámeru sa nevzťahuje povinnosť podľa § 22 ods. 3 tohto zákona.
 
-(6) Navrhovateľovi, ktorému bol vydaný rozsah hodnotenia navrhovanej činnosti alebo jej zmeny pred 1. januárom 2015 a ktorý do 30. novembra 2017 nepredloží správu o hodnotení činnosti, platnosť jeho rozsahu hodnotenia k navrhovanej činnosti alebo jej zmeny zaniká 1. decembra 2017. Povinnosť sa nevzťahuje na prípady, keď bol v rozsahu hodnotenia navrhovanej činnosti alebo jej zmeny určený harmonogram.
+(6) Navrhovateľovi, ktorému bol vydaný rozsah hodnotenia navrhovanej činnosti alebo jej zmeny pred 1. januárom 2015 a ktorý do 30. novembra 2018 nepredloží správu o hodnotení činnosti, platnosť jeho rozsahu hodnotenia k navrhovanej činnosti alebo jej zmeny zaniká 1. decembra 2018. Povinnosť sa nevzťahuje na prípady, keď bol v rozsahu hodnotenia navrhovanej činnosti alebo jej zmeny určený harmonogram.

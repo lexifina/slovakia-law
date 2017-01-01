@@ -88,7 +88,7 @@ Príloha č. 9 k zákonu č. 24/2006 Z. z.
 
     - 13. Ďalší postup hodnotenia vplyvov s uvedením najzávažnejších okruhov problémov.
 
-  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu
+  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
 
   - (vrátane porovnania s nulovým variantom)
 

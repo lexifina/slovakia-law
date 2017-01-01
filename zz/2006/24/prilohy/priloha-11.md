@@ -184,7 +184,7 @@ Príloha č. 11 k zákonu č. 24/2006 Z. z.
 
     - 6. Vyjadrenie k technicko-ekonomickej realizovateľnosti opatrení.
 
-  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu
+  - V. Porovnanie variantov navrhovanej činnosti a návrh optimálneho variantu s prihliadnutím na vplyvy na životné prostredie
 
   - (vrátane porovnania s nulovým variantom)
 

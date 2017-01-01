@@ -38,7 +38,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 15. | Ťažba ostatných nerastov, ak nie sú uvedené v položkách č. 1 - 6, 9 - 14 | od 200 000 t/rok alebo od 10 ha záberu plochy | od 100 000 t/rok do 200 000 t/rok alebo od 5 ha do 10 ha záberu plochy
 
-  - 16. | Ťažobné vrty (s výnimkou vrtov na skúmanie stability pôdy) najmä: - geotermálne vrty - vrty pre vodné zdroje - vrty na ukladanie rádioaktívneho odpadu | od 500 m bez limitu | do 500 m od 300 m
+  - 16. | Vrty (okrem vrtov na skúmanie stability pôdy súvisiacich s ťažobnou činnosťou) najmä: – vrty na využívanie geotermálnej energie a geotermálnych vôd – vrty na uskladnenie rádioaktívneho odpadu – vrty pre vodné zdroje | od 500 m bez limitu | od 600 m do 500 m od 300 m
 
   - 17. | Trvalé ukladanie oxidu uhličitého do geologického prostredia | bez limitu |
 
@@ -52,9 +52,9 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 1. | Tepelné elektrárne a ostatné zariadenia na spaľovanie s tepelným výkonom | od 300 MW | od 50 MW do 300 MW
 
-  - 2. | Priemyselné zariadenia na výrobu elektriny z vodnej energie (hydroelektrárne) | od 50 MW | od 5 MW do 50 MW
+  - 2. | Priemyselné zariadenia na výrobu elektriny z vodnej energie (hydroelektrárne) | od 0,1 MW | do 0,1 MW
 
-  - 3. | Zariadenia na využívanie vetra na výrobu energie (veterné elektrárne) | bez limitu |
+  - 3. | Zariadenia na využívanie vetra na výrobu energie(veterné elektrárne) | bez limitu |
 
   - 4. | Jadrové elektrárne a iné zariadenia s jadrovými reaktormi (s výnimkou výskumných zariadení na výrobu a konverziu štiepnych a obohatených materiálov, ktorých maximálny tepelný výkon nepresahuje 1 kW stáleho tepelného výkonu) vrátane ich vyraďovania a likvidácie. Jadrové elektrárne a jadrové reaktory prestávajú byť takýmto zariadením, keď je z ich územia trvalo odstránené jadrové palivo a iné rádioaktívne kontaminované prvky | bez limitu |
 
@@ -120,9 +120,11 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 1. | Prevádzky na splyňovanie a skvapalňovanie uhlia, lignitu (plynárne, koksárne) a bituminóznych hornín | od 500 t/deň | od 100 t/deň do 500 t/deň
 
-  - 2. | Rafinérie ropy, minerálnych olejov a plynu (okrem zariadení na výrobu mazív z ropy) vrátane závodov na regeneráciu opotrebovaných minerálnych olejov | od 500 t/deň a viac | od 50 t/deň do 500t/deň
+  - 2. | Rafinérie ropy, minerálnych olejov a plynu (okrem zariadení na výrobu mazív z ropy) | bez limitu |
 
-  - 3. | Chemické prevádzky, t. j. prevádzky na výrobu chemikálií alebo skupín chemikálií, alebo medziproduktov v priemyselnom rozsahu, ktoré sú určené na výrobu: 3.1. základných organických chemikálií, ako sú: a) jednoduché uhľovodíky (lineárne alebo cyklické, nasý- tené alebo nenasýtené, alifatické alebo aromatické), b) organické zlúčeniny obsahujúce kyslík, ako sú alko- holy, aldehydy, ketóny, karboxylové kyseliny, estery, acetáty, étery, peroxidy, epoxidové živice, c) organické zlúčeniny obsahujúce síru, d) organické zlúčeniny obsahujúce dusík, ako sú amíny, amidy, dusité, dusné alebo dusičné zlúčeniny, nitrily, kyanáty, izokyanáty, e) organické zlúčeniny obsahujúce fosfor, f) halogénové uhľovodíky, g) organokovové zlúčeniny, h) základné plastické hmoty (polymérové syntetické vlák- na a vlákna na celulózovom základe), i) syntetické gumy, j) farbivá a pigmenty, k) povrchovo aktívne látky a sulfooktany, 3.2. základných anorganických chemikálií, ako sú: a) plyny, ako sú čpavok, chlór alebo chlorovodík, fluór alebo fluorovodík, oxidy uhlíka, zlúčeniny síry, oxidy dusíka, vodík, oxid siričitý, karbonylchlorid, b) kyseliny, ako sú kyselina chrómová (chromitá), kyseli- na fluorovodíková, kyselina fosforečná, kyselina du- sičná, kyselina chlorovodíková, kyselina sírová, oleum a ostatné kyseliny síry, c) zásady, ako sú hydroxid amónny, hydroxid draselný, hydroxid sodný, d) soli, ako sú chlorid amónny, chlorečnan draselný, uh- ličitan draselný, uhličitan sodný, tetraboritan (peroxo- boritan), dusičnan strieborný, e) nekovy, oxidy kovov alebo iné anorganické zlúčeniny, ako sú karbid vápenatý (karbid vápnika), kremík, kar- bid kremičitý (karbid kremíka), 3.3. prevádzky na výrobu fosforečných, dusíkatých ale- bo draselných hnojív (jednoduchých alebo kombi- novaných), 3.4. prevádzky na výrobu základných prípravkov na ochranu rastlín a na výrobu biocídov, 3.5. prevádzky na výrobu základných farmaceutických výrobkov vyžívajúce chemické, biochemické alebo biologické procesy, 3.6. prevádzky na výrobu výbušnín | bez limitu |
+  - 2a. | Zariadenia na regeneráciu odpadových minerálnych olejov | od 500 t/deň a viac | od 50 t/deň do 500 t/deň
+
+  - 3. | Chemické prevádzky, t. j. prevádzky na výrobu chemikálií alebo skupín chemikálií, alebo medziproduktov v priemyselnom rozsahu, ktoré sú určené na výrobu: 3.1. základných organických chemikálií, ako sú: a) jednoduché uhľovodíky (lineárne alebo cyklické, nasýtené alebo nenasýtené, alifatické alebo aromatické), b) organické zlúčeniny obsahujúce kyslík, ako sú alkoholy, aldehydy, ketóny, karboxylové kyseliny, estery, acetáty, étery, peroxidy, epoxidové živice, c) organické zlúčeniny obsahujúce síru, d) organické zlúčeniny obsahujúce dusík, ako sú amíny, amidy, dusité, dusné alebo dusičné zlúčeniny, nitrily, kyanáty, izokyanáty, e) organické zlúčeniny obsahujúce fosfor, f) halogénové uhľovodíky, g) organokovové zlúčeniny, h) základné plastické hmoty (polymérové syntetické vlákna a vlákna na celulózovom základe), i) syntetické gumy, j) farbivá a pigmenty, k) povrchovo aktívne látky a sulfooktany, 3.2. základných anorganických chemikálií, ako sú: a) plyny, ako sú čpavok, chlór alebo chlorovodík, fluór alebo fluorovodík, oxidy uhlíka, zlúčeniny síry, oxidy dusíka, vodík, oxid siričitý, karbonylchlorid, b) kyseliny, ako sú kyselina chrómová (chromitá), kyselina fluorovodíková, kyselina fosforečná, kyselina dusičná, kyselina chlorovodíková, kyselina sírová, oleum a ostatné kyseliny síry, c) zásady, ako sú hydroxid amónny, hydroxid draselný, hydroxid sodný, d) soli, ako sú chlorid amónny, chlorečnan draselný, uhličitan draselný, uhličitan sodný, tetraboritan (peroxoboritan), dusičnan strieborný, e) nekovy, oxidy kovov alebo iné anorganické zlúčeniny, ako sú karbid vápenatý (karbid vápnika), kremík, karbid kremičitý (karbid kremíka), 3.3. prevádzky na výrobu fosforečných, dusíkatých alebo draselných hnojív (jednoduchých alebo kombinovaných), 3.4. prevádzky na výrobu základných prípravkov na ochranu rastlín a na výrobu biocídov, 3.5. prevádzky na výrobu základných farmaceutických výrobkov vyžívajúce chemické, biochemické alebo biologické procesy, 3.6. prevádzky na výrobu výbušnín | bez limitu |
 
   - 4. | Prevádzky na výroba uhlíka (grafitu) alebo elektrografitu vypaľovaním alebo grafitizáciou | bez limitu |
 
@@ -234,6 +236,8 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 11. | Zariadenia na zachytávanie prúdu oxidu uhličitého na účely trvalého ukladania oxidu uhličitého do geologického prostredia | od 1 500 000 t/rok | do 1 500 000 t/rok
 
+  - 12. | Výroba a spracovanie výrobkov založených na elastoméroch | | bez limitu
+
   - 9. Infraštruktúra
 
     - Rezortný orgán:
@@ -294,7 +298,7 @@ Príloha č. 8 k zákonu č. 24/2006 Z. z.
 
   - 1. | Priehrady, nádrže a iné zariadenia určené na zadržiavanie alebo na akumuláciu vody vrátane suchých nádrží – s výškou hrádze nad terénom alebo – s celkovým novým objemom, alebo dodatočne zadržaným objemom, alebo – s rozlohou | od 8 m alebo od 1 mil. m<sup>3</sup> alebo od 100 ha | od 3m do 8 m od 0,5 mil. m<sup>3</sup> do 1 mil. m<sup>3</sup> alebo od 50 ha do 100 ha
 
-  - 2. | Zariadenia na prevod podzemných vôd medzi povodiami, ak takýto prenos je zameraný na prevenciu pred možným nedostatkom vody | od 10 mil. m<sup>3</sup>/rok | od 3 mil. m<sup>3</sup>/rok do 10 mil. m<sup>3</sup>/rok
+  - 2. | Zariadenia na prevod povrchových a podzemných vôd medzi povodiami, ak taký prenos je zameraný na prevenciu pred možným nedostatkom vody | od 10 mil. m<sup>3</sup>/rok | do 10 mil. m<sup>3</sup>/rok
 
   - 3. | Zariadenia na prevod vodných zdrojov medzi povodiami, ak dlhoročný priemerný prietok toku, z ktorého sa má voda čerpať, presahuje | od 300 mil. m<sup>3</sup>/rok a keď množstvo prevádzanej vody presahuje 5 % prietoku | od 60 mil. mVrok do 300 mil. mVrok
 
