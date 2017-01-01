@@ -2982,45 +2982,51 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 140
 
-  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: | |
+  - a) udelenie individuálnej licencie na prevádzkovanie týchto hazardných hier: |
 
-  - 1. číselné lotérie ..... | 331,50 eura |
+  - 1. číselné lotérie ..... | 350 eur
 
-  - 2. okamžité lotérie ..... | 331,50 eura |
+  - 2. okamžité lotérie ..... | 350 eur
 
-  - 3. výherné prístroje, za každý výherný prístroj ..... | 1 500 eur |
+  - 3. výherné prístroje, za každý výherný prístroj ..... | 1 500 eur
 
-  - 4. charitatívne lotérie alebo stávkové hry okrem kurzových stávok ..... | 331,50 eura |
+  - 4. charitatívne lotérie alebo stávkové hry okrem kurzových stávok ..... | 350 eur
 
-  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ..... | 331,50 eura |
+  - 5. žrebové peňažné lotérie alebo žrebové peňažno-vecné lotérie ..... | 350 eur
 
-  - 6. kurzové stávky ..... | 3 319 eur |
+  - 6. kurzové stávky ..... | 4 000 eur
 
-  - 7. hazardné hry v kasíne ..... | 6 700 eur |
+  - 7. hazardné hry v kasíne ..... | 7 000 eur
 
-  - 8. bingo vrátane špeciálneho binga ..... | 3 319 eur |
+  - 8. bingo vrátane špeciálneho binga ..... | 4 000 eur
 
-  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom telekomunikačných zariadení a videohry ............. | 1 350 eur |
+  - 9. hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi hazardných hier alebo prevádzkované prostredníctvom |
 
-  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 1 350 eur |
+  - telekomunikačných zariadení a videohry ..... | 1 700 eur
 
-  - b) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartových hier pokrového typu prevádzkovaných mimo kasína, pri ktorých hráči hrajú jeden proti druhému, ..... | 100 eur |
+  - 10. hazardné hry neuvedené v prvom bode až deviatom bode ..... | 1 700 eur
 
-  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri | |
+  - b) oznámenie právnickej osoby alebo prevádzkovateľa o zámere prevádzkovať žrebovú vecnú lotériu, tombolu alebo kartovú hru mimo kasína |
 
-  - 1. hazardných hrách uvedených v písmene a) prvom až piatom bode ..... | 200 eur |
+  - alebo o zámere pokračovať v prevádzkovaní ..... | 100 eur
 
-  - 2. hazardných hrách uvedených v písmene a) šiestom až desiatom bode ..... | 500 eur |
+  - c) zmena licencie na základe oznámenia alebo požiadania prevádzkovateľa hazardnej hry pri |
 
-  - d) vydanie identifikačnej karty výherného prístroja ..... | 16,50 eura |
+  - 1. hazardných hrách uvedených v písmene a) prvom až piatom bode ..... | 200 eur
 
-  - e) vydanie identifikačnej karty výherného prístroja ako náhrady za stratenú, zničenú, poškodenú alebo odcudzenú identifikačnú kartu ..... | 16,50 eura |
+  - 2. hazardných hrách uvedených v písmene a) šiestom až desiatom bode ..... | 800 eur
 
-  - f) vydanie vyjadrenia k umiestneniu technických zariadení alebo zariadení používaných pri prevádzkovaní videohier, za každé vyjadrenie | 100 eur |
+  - d) oznámenie prevádzkovateľa žrebovej vecnej lotérie, tomboly alebo kartovej hry mimo kasína o zmenách v údajoch alebo dokladoch, na základe ktorých bola právnická osoba zapísaná do evidencie prevádzkovateľov |
+
+  - hazardných hier na základe všeobecnej licencie ..... | 30 eur
+
+  - e) vydanie vyjadrenia k umiestneniu technických zariadení alebo zariadení používaných |
+
+  - pri prevádzkovaní videohier, za každé vyjadrenie ..... | 100 eur
 
     - Položka 141
 
-  - Vydanie poverenia na odborné posudzovanie podľa zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov .................................................................................................... | 1 659,50 eura
+  - Vydanie poverenia na odborné posudzovanie podľa zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov ..... | 1 660 eur
 
     - Položka 142
 
