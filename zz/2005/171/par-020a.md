@@ -18,7 +18,7 @@
 
 - a) výšku kmeňového imania podľa stavu ku dňu podania žiadosti o udelenie individuálnej licencie podľa odseku 1 predložením dokladu preukazujúceho túto výšku kmeňového imania,
 
-- b) splatenie finančnej zábezpeky v celej výške priložením výpisu z účtu v banke alebo pobočke zahraničnej banky,
+- b) splatenie finančnej zábezpeky v celej výške priložením potvrdenia daňového úradu miestne príslušného podľa sídla žiadateľa,
 
 - c) prehľadný, dôveryhodný a zákonný pôvod finančných prostriedkov predstavujúcich finančnú zábezpeku uvedením skutočností o pôvode týchto finančných prostriedkov.
 

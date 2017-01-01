@@ -1,6 +1,6 @@
 # § 20b
 
-(1) Žiadosť o udelenie individuálnej licencie na prevádzkovanie charitatívnej lotérie môže podať len nadácia<sup>11a</sup>) so sídlom na území Slovenskej republiky (ďalej len „nadácia“) alebo záujmové združenie nadácií<sup>11b</sup>) so sídlom na území Slovenskej republiky (ďalej len „záujmové združenie“), ak
+(1) Žiadosť o udelenie individuálnej licencie na prevádzkovanie charitatívnej lotérie môže podať len nadácia<sup>11aa</sup>) so sídlom na území Slovenskej republiky (ďalej len „nadácia“) alebo záujmové združenie nadácií<sup>11b</sup>) so sídlom na území Slovenskej republiky (ďalej len „záujmové združenie“), ak
 
 - a) nadačné imanie nadácie je najmenej 166 000 eur alebo takúto výšku dosahuje súčet nadačných imaní všetkých členov záujmového združenia,
 
@@ -22,7 +22,7 @@
 
 - a) výšku nadačného imania alebo súčet nadačných imaní všetkých členov záujmového združenia podľa stavu ku dňu podania žiadosti o udelenie individuálnej licencie podľa odseku 1 predložením dokladu preukazujúceho túto skutočnosť,
 
-- b) splatenie finančnej zábezpeky v celej výške priložením výpisu z účtu v banke alebo pobočke zahraničnej banky,
+- b) splatenie finančnej zábezpeky v celej výške priložením potvrdenia daňového úradu miestne príslušného podľa sídla žiadateľa,
 
 - c) prehľadný, dôveryhodný a zákonný pôvod finančných prostriedkov predstavujúcich finančnú zábezpeku uvedením skutočností o pôvode týchto finančných prostriedkov.
 

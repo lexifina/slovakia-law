@@ -4,6 +4,16 @@
 
 - 1aa) Napríklad § 9 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov, § 12 ods. 2 a 3 zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
 
+- 1aaa) § 43a ods. 2 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 237/2000 Z. z.
+
+- 1ab) § 2 ods. 5 zákona č. 351/2011 Z. z. o elektronických komunikáciách.
+
+- 1ac) Zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov.
+
+- 1ad) § 1 ods. 1 zákona č. 1/2014 Z. z. o organizovaní verejných športových podujatí a o zmene a doplnení niektorých zákonov.
+
+- 1ae) § 1 ods. 6 zákona č. 1/2014 Z. z.
+
 - 1b) § 3 ods. 1 zákona č. 610/2003 Z. z. o elektronických komunikáciách.
 
 - 2) § 4 ods. 1 zákona č. 610/2003 Z. z.
@@ -12,7 +22,17 @@
 
 - 4) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 4a) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- 4b) Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- 4c) § 98a zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
+- § 41 ods. 6 zákona č. 351/2011 Z. z. v znení zákona č. 386/2016 Z. z.
+
 - 5) Napríklad Trestný poriadok, zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov, zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, zákon č. 367/2000 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 5a) § 5 vyhlášky Ministerstva financií Slovenskej republiky č. 641/2008 Z. z., ktorou sa ustanovujú požiadavky na zariadenia a systémy využívané pri prevádzkovaní hazardných hier, ktorými sú videohry.
 
 - 6) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
@@ -30,13 +50,29 @@
 
 - 10) Napríklad Civilný sporový poriadok, Civilný mimosporový poriadok a Správny súdny poriadok, zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, § 8 zákona č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
 
+- 10a) § 19 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10b) Napríklad § 17 až 20 Obchodného zákonníka v znení zákona č. 249/1994 Z. z., zákon č. 215/2004 Z. z. v znení neskorších predpisov, § 11 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10c) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z.
+
+- 10d) § 2 ods. 3 písm. a) až d) zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z.
+
+- 10e) Zákon č. 351/2011 Z. z. v znení neskorších predpisov.
+
+- 10f) § 4a zákona č. 166/2003 Z. z. o ochrane súkromia pred neoprávneným použitím informačno-technických prostriedkov a o zmene a doplnení niektorých zákonov (zákon o ochrane pred odpočúvaním) v znení neskorších predpisov.
+
 - 11) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
-- 11a) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+- 11a) § 6 zákona č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11aa) Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
 
 - 11b) § 20f až 20j Občianskeho zákonníka v znení neskorších predpisov.
 
 - 11c) § 19 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11d) § 3 ods. 1 a 3 zákona Slovenskej národnej rady č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení zákona č. 624/2004 Z. z.
 
 - 12) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -88,21 +124,37 @@
 
 - 16) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
+- 16a) § 12 ods. 2 písm. a) prvý bod zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
+
 - 17) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 
 - 18) Občiansky zákonník.
 
-- 18a) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
+- 18a) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
+
+- 18aa) § 3 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+- 18ab) § 3 ods. 1 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18ac) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 18ad) § 4 ods. 2 písm. b) zákona č. 122/2013 Z. z.
+
+- 18ae) § 31 ods. 4 zákona č. 417/2013 Z. z.
+
+- 18af) § 24 ods. 5 až 7 zákona č. 576/2004 Z. z. v znení zákona č. 386/2016 Z. z.
+
+- 18ag) Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
+- 18ah) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 18b) § 4 zákona č. 7/2010 Z. z. o ochrane pred povodňami.
 
-- 18c) Kód F63.0 prílohy č. 1 k zákonu č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 18d) § 116 a 117 Občianskeho zákonníka.
-
 - 19) § 1 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
 
-- 19a) Nariadenie Komisie (ES) č. 1998/2006 z 15. decembra 2006 o uplatňovaní článkov 87 a 88 Zmluvy na pomoc de minimis (Ú. v. EÚ L 379, 28. 12. 2006).
+- 19a) § 94 ods. 2 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+
+- 19aa) Nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352, 24. 12. 2013).
 
 - 19b) § 5 ods. 3 zákona č. 34/2002 Z. z.
 
@@ -110,6 +162,10 @@
 
 - 21) Napríklad Trestný zákon, Zákonník práce, Občiansky zákonník, Obchodný zákonník.
 
+- 21a) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
+
 - 22) Zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
 - 23) Zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 24) § 9 ods. 7 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
