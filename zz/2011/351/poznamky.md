@@ -90,6 +90,8 @@
 
 - 35) § 11 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
+- 35a) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 36) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 36a) Napríklad § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, § 25a zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov (v znení zákona č. 718/2004 Z. z.) v znení neskorších predpisov, § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
