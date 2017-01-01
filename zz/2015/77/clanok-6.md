@@ -146,6 +146,20 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Príloha č. 1 k zákonu č. 576/2004 Z. z. v znení neskorších predpisov.“.
 
+- 18. V § 79 ods. 1 písm. zh) sa slová „elektronický zdravotný záznam o poskytnutej ambulantnej zdravotnej starostlivosti<sup>55g</sup>)“ nahrádzajú slovami „príslušný elektronický zdravotný záznam<sup>55g</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 55g znie:
+
+  - „55g)
+
+  - § 5 ods. 1 písm. b) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
+
+- 19. Poznámka pod čiarou k odkazu 55j znie:
+
+- „55j)
+
+- § 5 ods. 1 písm. b) deviaty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
+
 - 20. V § 79 ods. 1 písm. zk) sa vypúšťajú slová „ak ide o poskytovateľa ústavnej zdravotnej starostlivosti“.
 
 - 21. V § 79 ods. 3 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
@@ -165,6 +179,8 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 - Pravidlá kódovania chorôb a pravidlá kódovania zdravotných výkonov ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva.“.
 
 - 24. V § 79a ods. 1 písm. d) úvodnej vete sa za slovo „mesiaci“ vkladajú slová „v listinnej podobe“ a za slovo „dohľad“ sa vkladajú slová „alebo v elektronickej podobe“.
+
+- 25. V § 80 ods. 1 písm. k) sa na konci pripájajú tieto slová: „a v informačnom systéme zdravotnej poisťovne.“.
 
 - 26. V § 102m ods. 2 sa na konci pripájajú tieto slová: „a v informačnom systéme zdravotnej poisťovne“.
 

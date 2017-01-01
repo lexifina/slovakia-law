@@ -28,6 +28,14 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - refunduje zdravotnej poisťovni, ktorá uhradila poskytovateľovi zdravotnej starostlivosti alebo inštitúcii miesta pobytu, alebo inštitúcii miesta bydliska v inom členskom štáte bez právneho dôvodu alebo z dôvodu zániku poistného vzťahu v tejto zdravotnej poisťovni, náklady na poskytnutú zdravotnú starostlivosť za svojho poistenca alebo za osobu, pre ktorú je inštitúciou miesta pobytu alebo inštitúciou miesta bydliska; súčasne tejto zdravotnej poisťovni poskytuje údaje z účtu poistenca týkajúce sa poskytnutej zdravotnej starostlivosti a ostatnú potrebnú súčinnosť.“.
 
+- 6. V § 6 ods. 3 sa na konci pripája táto veta: „Návrh poskytovateľa zdravotnej starostlivosti na zaradenie do zoznamu obsahuje identifikátor záznamu návrhu na zaradenie do zoznamu v elektronickej zdravotnej knižke.<sup>16g</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 16g znie:
+
+  - „16g)
+
+  - § 5 ods. 1 písm. b) 13. bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015.“.
+
 - 7. V § 6a ods. 3 písm. i) sa za slovo „správu“ vkladajú slová „a rozvoj“.
 
 - 8. V § 6a sa odsek 3 dopĺňa písmenom j), ktoré znie:
@@ -53,6 +61,18 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 10. V nadpise pod § 8b a prvej vete sa za slovo „správu“ vkladajú slová „a rozvoj“ a druhej vete sa slová „0,27 %“ nahrádzajú slovami „0,41 %“.
+
+- 11. V § 9 ods. 3 sa na konci pripája táto veta: „Kontrolou na diaľku sa rozumie aj vyhodnocovanie elektronických zdravotných záznamov v elektronickej zdravotnej knižke revíznym lekárom a revíznym farmaceutom v rozsahu ustanovenom osobitným predpisom.<sup>27d</sup>) Revízny lekár a revízny farmaceut pristupujú k elektronickým zdravotným záznamom v elektronickej zdravotnej knižke prostredníctvom elektronického preukazu zdravotníckeho pracovníka.<sup>27e</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 27d a 27e znejú:
+
+  - „27d)
+
+  - § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+  - 27e)
+
+  - § 7 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
 
 - 12. V § 15 ods. 1 písm. w) sa slová „najneskôr posledný deň kalendárneho mesiaca za predchádzajúci kalendárny mesiac“ nahrádzajú slovami „denne pri zmene týchto údajov“.
 
@@ -83,6 +103,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
   - 35aad)
 
   - § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
+
+- 14. § 15 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Ak zdravotná poisťovňa vykonáva kontrolu na diaľku vyhodnocovaním elektronických zdravotných záznamov v elektronickej zdravotnej knižke podľa § 9 ods. 3, je povinná používať informačný systém zdravotnej poisťovne, ktorý má overenie zhody vydané národným centrom.“.
 
 - 15. V § 16 ods. 6 sa slová „f), h) až k)“ nahrádzajú slovami „f) až k)“.
 
