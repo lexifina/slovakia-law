@@ -54,9 +54,11 @@
 
 - 20) § 2 písm. l) a § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 20a) Zákon č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov.
+- 20a) Zákon č. 384/2011 Z. z. o osobitnom odvode vybraných finančných inštitúcií a o doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 235/2012 Z. z.
+- Zákon č. 235/2012 Z. z. v znení neskorších predpisov.
+
+- § 68a zákona č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 339/2016 Z. z.
 
 - 21) § 128 ods. 1 Trestného zákona.
 
