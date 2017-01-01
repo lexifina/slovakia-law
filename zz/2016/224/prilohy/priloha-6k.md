@@ -1,1 +1,1 @@
-Príloha č. 6 k vyhláške č. 224/2016 Z. z. [Príloha č. 6 k vyhláške č. 224/2016 Z. z.](../assets/021f8821e5f0b3b728dc85e1689862efa10b65cb1e32cd30d093a2de7a36f7e0.pdf)
+Príloha č. 6 k vyhláške č. 224/2016 Z. z. [Príloha č. 6 k vyhláške č. 224/2016 Z. z.](../assets/8c9a86615ec7b0ac3887761e3de8e7db792f46dcded220b44a40bfde0df785c2.pdf)
