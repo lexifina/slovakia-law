@@ -1,13 +1,15 @@
-Príloha č. 12 k vyhláške č. 24/2013 Z. z. VÝPOČET REFERENČNEJ CENY PLYNU
+Príloha č. 12 k vyhláške č. 24/2013 Z. z.
 
-- Referenčná cena plynu sa vypočíta podľa vzorca
+- VÝPOČET REFERENČNEJ CENY PLYNU NA ÚČEL OBCHODNÉHO VYVAŽOVANIA DISTRIBUČNEJ SIETE
 
-- R = P + Kpd,
+  - Referenčná cena plynu sa vypočíta podľa vzorca
 
-- kde
+  - R = P + Kp,
 
-- R - referenčná cena plynu v eurách za MWh,
+  - kde
 
-- P - cena plynu produktu NCG uverejnená na webovom sídle http://www.eex.com/en v časti Natural Gas / Daily Reference Price & Index v tabuľke Spot Market / Daily Reference Price v riadku NCG, uverejnená deň pred dňom finančného vyrovnania na účely obchodného vyvažovania podľa § 61 ods. 4,
+  - R – referenčná cena plynu v eurách za MWh,
 
-- Kpd - koeficient prepravy plynu a distribúcie plynu, ktorý je ustanovený vo výške 0 eur/MWh.
+  - P – cena plynu produktu NCG uverejnená na webovom sídle http://www.eex.com/en v časti Natural Gas / Daily Reference Price & Index v tabuľke Spot Market / Daily Reference Price v riadku NCG, deň pred dňom finančného vyrovnania na účel obchodného vyvažovania podľa § 61 ods. 4,
+
+  - Kp – koeficient prepravy plynu, ktorý je určený vo výške 1,20 eura/MWh.

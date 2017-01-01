@@ -4,14 +4,14 @@ Príloha č. 10 k vyhláške č. 24/2013 Z. z.
 
   - Poplatok za prekročenie dennej prepravnej kapacity sa vypočíta podľa vzorca
 
-  - PCE = CE x 5 x k(m) x P<sub>0</sub>,
+  - PCE = CE × 5 × k(m) × P0,
 
   - kde
 
-  - PCE - výška poplatku za prekročenie dohodnutej dennej prepravnej kapacity v EUR za deň, keď došlo k prekročeniu dohodnutej dennej kapacity,
+  - PCE – výška poplatku za prekročenie dohodnutej dennej prepravnej kapacity v eurách za deň, keď došlo k prekročeniu dohodnutej dennej kapacity,
 
-  - CE - výška najvyššieho prekročenia dohodnutej dennej prepravnej kapacity v mesiaci, v ktorom k tomuto prekročeniu došlo, v m<sup>3</sup>alebo v kWh,
+  - CE – výška najvyššieho prekročenia dohodnutej dennej prepravnej kapacity v mesiaci, v ktorom k tomuto prekročeniu došlo, v MWh,
 
-  - k(m) - faktor kalendárneho mesiaca, v ktorom došlo k prekročeniu dennej prepravnej kapacity, pričom hodnota k(m) je rovná 0,4 pre mesiace január, február a december a 0,2 pre mesiace marec a november a 0,1 pre mesiace apríl, máj, jún, júl, august, september a október,
+  - k(m) – faktor kalendárneho mesiaca, v ktorom došlo k prekročeniu dennej prepravnej kapacity, pričom hodnota k(m) je rovná 0,4 pre mesiace január, február a december a 0,2 pre mesiace marec a november a 0,1 pre mesiace apríl, máj, jún, júl, august, september a október,
 
-  - P<sub>0</sub> - východisková ročná sadzba na danom vstupnom bode alebo výstupnom bode za zmluvne dohodnutú dennú prepravnú kapacitu na vstupnom bode alebo výstupnom bode do prepravnej siete v m<sup>3</sup>/deň určenú úradom pre prevádzkovateľa prepravnej siete za prepravu plynu na príslušný kalendárny rok v EUR za m<sup>3</sup>/deň alebo za kWh/deň.
+  - P0 – východisková ročná sadzba na danom vstupnom bode alebo výstupnom bode za zmluvne dohodnutú dennú prepravnú kapacitu na vstupnom bode alebo výstupnom bode do prepravnej siete v MWh/deň určenú úradom pre prevádzkovateľa prepravnej siete za prepravu plynu na príslušný kalendárny rok v eurách za MWh/deň.

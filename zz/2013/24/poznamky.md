@@ -28,6 +28,8 @@
 
 - 15) § 34 ods. 2 písm. f) prvý bod zákona č. 251/2012 Z. z.
 
+- 15a) § 2 písm. a) bod 15. zákona č. 251/2012 Z. z.
+
 - 16) § 2 písm. a) druhý bod zákona č. 251/2012 Z. z.
 
 - 17) § 28 ods. 2 písm. o) zákona č. 251/2012 Z. z.
@@ -50,6 +52,8 @@
 
 - 25) § 15 ods. 16 zákona č. 251/2012 Z. z.
 
+- 25a) § 12 vyhlášky Úradu pre reguláciu sieťových odvetví č. 260/2016 Z. z., ktorou sa ustanovuje cenová regulácia v elektroenergetike a niektoré podmienky vykonávania regulovaných činností v elektroenergetike.
+
 - 26) Napríklad Občiansky zákonník v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov a zákon č. 251/2012 Z. z.
 
 - 27) § 37 a 38 zákona č. 250/2012 Z. z.
@@ -65,6 +69,8 @@
 - 32) § 47 ods. 4 zákona č. 251/2012 Z. z.
 
 - 33) § 49 ods. 1 písm. c) a d) zákona č. 251/2012 Z. z.
+
+- 33a) Čl. 3 ods. 4 nariadenia Komisie (EÚ) č. 984/2013 zo 14. októbra 2013, ktorým sa stanovuje sieťový predpis o mechanizmoch prideľovania kapacity v plynárenských prepravných sieťach a ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (ES) č. 715/2009 (Ú. v. EÚ L 273, 15. 10. 2013).
 
 - 34) § 47 ods. 5 zákona č. 251/2012 Z. z.
 
