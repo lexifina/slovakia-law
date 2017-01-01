@@ -80,7 +80,15 @@ Zákon č. 443/2010 Z. z. o dotáciách na rozvoj bývania a o sociálnom bývan
 
 - 12. V § 10 sa za odsek 3 vkladajú nové odseky 4 až 8, ktoré znejú:
 
-- „(6)
+- „(4)
+
+- Dotáciu podľa § 4 písm. d) možno poskytnúť, ak obstarávaný nájomný byt, ktorý predávajúci získal stavebnými úpravami ostatných budov na bývanie<sup>9</sup>) alebo stavebnými úpravami nebytového priestoru, spĺňa minimálne požiadavky na energetickú hospodárnosť budov pre novú budovu podľa osobitného predpisu.<sup>24a</sup>)
+
+- (5)
+
+- Dotáciu podľa § 4 písm. c) a f) možno poskytnúť, ak žiadateľ preukáže, že stavba po stavebných úpravách bude spĺňať minimálne požiadavky na energetickú hospodárnosť budov podľa osobitného predpisu.<sup>24a</sup>)
+
+- (6)
 
 - Dotáciu podľa § 4 ods. 1 písm. c), d) a f) možno poskytnúť iba vtedy, ak všetky technické zariadenia budovy boli vymenené najviac 5 rokov pred podaním žiadosti alebo budú vymenené počas realizácie stavebných úprav.
 

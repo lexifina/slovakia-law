@@ -100,6 +100,10 @@ Zákon č. 555/2005 Z. z. o energetickej hospodárnosti budov a o zmene a doplne
 
 - zateplenie rodinného domu zrealizoval zhotoviteľ, ktorý má na systém podľa písmena c) správu z inšpekcie vydanú akreditovaným inšpekčným orgánom,
 
+- e)
+
+- výmena otvorových konštrukcií bola uskutočnená zhotoviteľom, ktorý má vydanú licenciu na zabudovanie vonkajších otvorových konštrukcií do stavby,
+
 - f)
 
 - kolaudačné rozhodnutie alebo iný doklad preukazuje, že rodinný dom bol daný do užívania aspoň 10 rokov pred realizáciou jeho zateplenia,
