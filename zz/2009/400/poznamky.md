@@ -171,3 +171,5 @@
 - 72) § 29l zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 362/2014 Z. z.
 
 - 73) § 29n zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 338/2015 Z. z.
+
+- 74) § 29o zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 340/2016 Z. z.
