@@ -254,6 +254,8 @@
 
 - 55jap) § 44 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 53/2015 Z. z.
 
+- 55jar) § 8c ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 356/2016 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -280,7 +282,7 @@
 
 - 55k) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
 
-- 56) § 9 ods. 2 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+- 56) § 25a zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
 - 57) § 9 ods. 3 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 

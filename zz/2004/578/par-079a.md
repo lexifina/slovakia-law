@@ -4,7 +4,7 @@
 
 - a) vyžiadať si od zdravotnej poisťovne potvrdenie skutočnosti, či ide o neodkladnú zdravotnú starostlivosť pri poskytnutí neodkladnej zdravotnej starostlivosti
 
-  - 1. osobe, ktorá nezaplatila príslušnej zdravotnej poisťovni preddavok na poistné za tri mesiace v príslušnom kalendárnom roku, nedoplatok za poistné alebo úhradu za zdravotnú starostlivosť v prípadoch ustanovených osobitným predpisom,<sup>56</sup>)
+  - 1. osobe, ktorá je zaradená v zozname dlžníkov podľa osobitného predpisu,<sup>56</sup>)
 
   - 2. osobe, ktorá nemá podanú prihlášku,<sup>57</sup>) a
 
