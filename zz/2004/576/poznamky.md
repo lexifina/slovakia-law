@@ -122,6 +122,8 @@
 
 - 31a) § 30 ods. 12 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
 
+- 31b) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
 - 32) § 115 Občianskeho zákonníka.
 
 - 33) § 116 Občianskeho zákonníka.
