@@ -100,6 +100,12 @@
 
 - 24aa) § 120 ods. 1 písm. a) až u) zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 24aaa) § 9 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 24aab) § 7 ods. 4 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 24aac) § 7 ods. 3 písm. f) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
 - 24ab) Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 24b) Príloha č. 7 k zákonu č. 577/2004 Z. z. v znení zákona č. 185/2014 Z. z.
@@ -115,6 +121,8 @@
 - 27b) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 27c) § 3 zákona č. 153/2013 Z. z.
+
+- 27f) § 13 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -236,7 +244,7 @@
 
 - 41e) § 7 až 11 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
 
-- 41f) § 3 ods. 1 písm. c) zákona č. 578/2004 Z. z.
+- 41f) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 41g) Zákon č. 577/2004 Z. z. v znení neskorších predpisov.
 

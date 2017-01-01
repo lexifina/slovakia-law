@@ -2,7 +2,7 @@
 
 (1) Centrum pre klasifikačný systém najmä
 
-- a) zabezpečuje zber, spracovanie a kontrolu dát užívateľov klasifikačného systému diagnosticko-terapeutických skupín (ďalej len „klasifikačný systém“),
+- a) zabezpečuje zber, spracovanie a kontrolu dát užívateľov klasifikačného systému,
 
 - b) vykonáva výpočet základných údajov na nastavenie parametrov klasifikačného systému a spracovanie podkladov pre zoznam diagnosticko-terapeutických skupín,
 
@@ -29,5 +29,11 @@
 - m) vedie zoznam odborne spôsobilých osôb pre klasifikačný systém (ďalej len „zoznam odborne spôsobilých osôb“) s náležitosťami podľa § 20c ods. 10,
 
 - n) vykonáva školenia odborne spôsobilých osôb pre klasifikačný systém,
+
+- o) vydáva osvedčenia o zhode počítačového programu s definičnou príručkou (ďalej len „osvedčenie zhody“),
+
+- p) dočasne pozastavuje platnosť osvedčenia o zhode,
+
+- q) zrušuje platnosť osvedčenia o zhode,
 
 (2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorí majú so zdravotnou poisťovňou uzatvorenú zmluvu podľa § 7.
