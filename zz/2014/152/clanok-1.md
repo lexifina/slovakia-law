@@ -454,6 +454,8 @@ Zákon č. 435/2000 Z. z. o námornej plavbe v znení zákona č. 581/2003 Z. z.
 
 - Ministerstvo na žiadosť členského štátu, tretieho štátu, vlastníka námornej lode alebo prevádzkovateľa námornej lode poskytne písomnú informáciu o pravosti a platnosti ním vydaného preukazu odbornej spôsobilosti, preukazu spôsobilosti podľa § 4 ods. 2 písm. p), potvrdenia preukazu odbornej spôsobilosti, potvrdenia o uznaní preukazu odbornej spôsobilosti, námorníckej knižky a výnimky podľa § 4 ods. 2 písm. m).
 
+- Ministerstvo sprístupňuje informácie podľa prvej vety v elektronickej forme.
+
 - (10)
 
 - Ak platnosť potvrdenia preukazu odbornej spôsobilosti skončila pred 1. januárom 2017, ministerstvo určí, či žiadateľ o vydanie potvrdenia preukazu odbornej spôsobilosti je povinný preukázať, že spĺňa podmienky ustanovené v medzinárodnej zmluve, ktorou je Slovenská republika viazaná.<sup>1bdb</sup>)
