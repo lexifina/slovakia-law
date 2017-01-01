@@ -202,6 +202,18 @@ Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o 
 
 - Obec a vyšší územný celok nesmú prevziať záväzok z úveru, pôžičky alebo iného dlhu fyzickej osoby alebo právnickej osoby okrem prevzatia záväzku právnickej osoby v zriaďovateľskej pôsobnosti obce a vyššieho územného celku ani záruku za úver, pôžičku, alebo iný dlh fyzickej osoby alebo právnickej osoby, okrem záruky prevzatej obcou za poskytnutie návratnej finančnej výpomoci zo štátneho rozpočtu.
 
+- (6)
+
+- Obec a vyšší územný celok môžu na plnenie svojich úloh prijať návratné zdroje financovania, len ak
+
+- a)
+
+- celková suma dlhu obce alebo vyššieho územného celku neprekročí 60 % skutočných bežných príjmov predchádzajúceho rozpočtového roka a
+
+- b)
+
+- suma splátok návratných zdrojov financovania, vrátane úhrady výnosov a suma splátok záväzkov z investičných dodávateľských úverov<sup>21a</sup>) neprekročí v príslušnom rozpočtovom roku 25 % skutočných bežných príjmov predchádzajúceho rozpočtového roka znížených o prostriedky poskytnuté v príslušnom rozpočtovom roku obci alebo vyššiemu územnému celku z rozpočtu iného subjektu verejnej správy, prostriedky poskytnuté z Európskej únie a iné prostriedky zo zahraničia alebo prostriedky získané na základe osobitného predpisu.<sup>17a</sup>)
+
 - (7)
 
 - Celkovou sumou dlhu obce alebo vyššieho územného celku sa na účely tohto zákona rozumie súhrn záväzkov vyplývajúcich zo splácania istín návratných zdrojov financovania, záväzkov z investičných dodávateľských úverov<sup>21a</sup>) a ručiteľských záväzkov obce alebo vyššieho územného celku.
