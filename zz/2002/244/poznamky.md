@@ -43,3 +43,5 @@
 - 18) Civilný sporový poriadok.
 
 - 19) Napríklad vyhláška ministra zahraničných vecí č. 74/1959 Zb. o Dohovore o uznaní a výkone cudzích rozhodcovských rozhodnutí, vyhláška ministra zahraničných vecí č. 176/1964 Zb. o Európskom dohovore o medzinárodnej obchodnej arbitráži.
+
+- 20) § 101 Občianskeho zákonníka.
