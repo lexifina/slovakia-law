@@ -1,1 +1,0 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 199/2005 Z. z. o ochranných opatreniach proti zavlečeniu a rozširovaniu organizmov škodlivých pre rastliny alebo rastlinné produkty v znení nariadenia vlády Slovenskej republiky č. 245/2006 Z. z.
