@@ -134,9 +134,33 @@ Zákon č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 515
 
 - Belianske Tatry,
 
+- b)
+
+- Bukovské vrchy,
+
+- c)
+
+- Javorníky,
+
+- d)
+
+- Kremnické vrchy,
+
+- e)
+
+- Kysucká vrchovina,
+
+- f)
+
+- Kysucké Beskydy,
+
 - g)
 
 - Malá Fatra,
+
+- h)
+
+- Moravsko-sliezske Beskydy,
 
 - i)
 
