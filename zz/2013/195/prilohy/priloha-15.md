@@ -1,3 +1,0 @@
-Príloha č. 15 k vyhláške č. 195/2013 Z. z.
-
-- PREHĽAD INVESTÍCIÍ (INVESTIČNEJ VÝSTAVBY) A PREHĽAD INVESTIČNÝCH VÝDAVKOV V EURÁCH [Vzor 15](../assets/51924ebd40ca7119f9d78acc7f05d58fd546f5bba3c38335b499bf38e1b801f5.pdf)

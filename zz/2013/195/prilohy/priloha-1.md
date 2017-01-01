@@ -1,3 +1,0 @@
-Príloha č. 1 k vyhláške č. 195/2013 Z. z.
-
-- ÚDAJE POTREBNÉ NA VÝPOČET CENY ZA VÝROBU, DISTRIBÚCIU A DODÁVKU PITNEJ VODY [Vzor 01](../assets/3d0e6265807911d27a4eaeca3c7f94bbf3a0c95ca7d8724013e5d438b278936f.pdf)

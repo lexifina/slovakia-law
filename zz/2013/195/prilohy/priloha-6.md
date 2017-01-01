@@ -1,3 +1,0 @@
-Príloha č. 6 k vyhláške č. 195/2013 Z. z.
-
-- KALKULÁCIA ROZPISU REŽIJNÝCH NÁKLADOV PODĽA § 4 ODS. 2 V TISÍCOCH EUR [Vzor 06](../assets/68332aa731c005730a8b7e875a0fad365b7dfe6c446d42122979eb7c20893807.pdf)
