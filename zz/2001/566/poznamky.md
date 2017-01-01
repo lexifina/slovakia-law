@@ -1,6 +1,6 @@
 - 1) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, § 155 až 159 Obchodného zákonníka v znení neskorších predpisov, zákon č. 191/1950 Zb. zákon zmenkový a šekový.
 
-- 2) § 155 až 159 Obchodného zákonníka v znení neskorších predpisov.
+- 2) § 155 až 159 a § 220h a 220i Obchodného zákonníka.
 
 - 3) § 176 Obchodného zákonníka.
 
@@ -431,6 +431,8 @@
 - 90ab) Čl. 20 ods. 1 písm. a) nariadenia (EÚ) č. 909/2014.
 
 - 90ac) Čl. 20 ods. 5 nariadenia (EÚ) č. 909/2014.
+
+- 90b) § 3 ods. 1 písm. a) zákona č. 323/1992 Zb. o notároch a notárskej činnosti (notársky poriadok) v znení neskorších predpisov.
 
 - 92) Trestný poriadok v znení neskorších predpisov.
 
