@@ -1,1 +1,1 @@
-Príloha č. 9 k vyhláške č. 248/2016 Z. z. [príloha](../assets/edcffff239be12e49df75bfed2709e70954bfa46eee853ed34f5c97a9e6452f7.pdf)
+Príloha č. 9 k vyhláške č. 248/2016 Z. z. [príloha](../assets/067d884d9caf640bf91671c8ff9e66bf44e5c56ebf7be906ee443120d95738f7.pdf)

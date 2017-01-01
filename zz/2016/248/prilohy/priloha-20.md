@@ -1,1 +1,1 @@
-Príloha č. 20 k vyhláške č. 248/2016 Z. z. [príloha](../assets/b5f9a93c7683e7d452f1c48cd704a9e333a48b5b7998e8b1d8ca8d466d9abab4.pdf)
+Príloha č. 20 k vyhláške č. 248/2016 Z. z. [príloha](../assets/120dc5cb61d21d4910e94d99289802abc4e2b866b1fda14dbf371f745e543eed.pdf)

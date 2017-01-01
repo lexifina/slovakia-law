@@ -1,1 +1,1 @@
-Príloha č. 5 k vyhláške č. 248/2016 Z. z. [príloha](../assets/0930868468f538b8f4227de3093f5ff66c5ac98c8b0b84cf75a9778925d56e58.pdf)
+Príloha č. 5 k vyhláške č. 248/2016 Z. z. [príloha](../assets/fea99b8b8b2e47bf2cd80f714d40834eab31b6dfa33622a833d91d8888bd487c.pdf)

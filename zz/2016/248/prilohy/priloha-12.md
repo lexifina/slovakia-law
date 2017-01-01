@@ -1,1 +1,1 @@
-Príloha č. 12 k vyhláške č. 248/2016 Z. z. [príloha](../assets/07090922163fc1501c817fd2d0f78a7b1b52968e521a7e87829740d0e050bb74.pdf)
+Príloha č. 12 k vyhláške č. 248/2016 Z. z. [príloha](../assets/d5feaafecb6e943149997a095a77a92c6315de414961f0725804a15c49a6af6c.pdf)
