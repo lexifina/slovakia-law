@@ -60,6 +60,12 @@
 
 - b) plynné druhotné palivo dodávané do verejnej siete zemného plynu; špecifické požiadavky prevádzkovateľa verejnej siete na dodávané druhotné palivo nie sú touto vyhláškou dotknuté.
 
+(11) Druhotné palivo možno vyrábať len v zariadení, ktorého prevádzkovateľ má certifikovaný systém environmentálneho manažérstva a systém manažérstva kvality podľa technických noriem,<sup>19d</sup>) ktorý zároveň spĺňa požiadavky špecifickej technickej normy pre systém manažérstva výroby druhotného paliva,<sup>19e</sup>) (ďalej len „systém integrovaného manažérstva“); ak pre systém manažérstva výroby daného druhu druhotného paliva špecifická technická norma nie je vydaná, uplatňujú sa požiadavky technickej normy<sup>19e</sup>) primerane.
+
+(12) Systém integrovaného manažérstva najmenej raz ročne overí certifikačný orgán pre systémy integrovaného manažérstva podľa osobitného predpisu<sup>19f</sup>) s akreditáciou podľa technickej normy<sup>19g</sup>) pre činnosti NACE divízie 38 a 39 a potvrdí súlad systému integrovaného manažérstva s požiadavkami ustanovenými v technickej norme<sup>19g</sup>) alebo je kontrolovaný odborne spôsobilou osobou<sup>19h)</sup> alebo inou na tento účel schválenou certifikačnou schémou<sup>19i</sup>).
+
+(13) Certifikovaný systém environmentálneho manažérstva alebo certifikovaný systém manažérstva kvality možno nahradiť registráciou a pravidelným overovaním v systéme environmentálneho riadenia a auditu podľa osobitných predpisov.<sup>19f</sup>)
+
 (14) Špecifické požiadavky ustanovené pre druhotné palivá podľa odsekov 1 až 13 sa nevzťahujú na
 
 - a) odpad z biomasy,<sup>3a</sup>)
