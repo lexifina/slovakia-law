@@ -1,10 +1,6 @@
 # § 25a Zoznam dlžníkov
 
-(1) Dlžník na účely tohto zákona je
-
-- a) poistenec podľa § 9 ods. 2,
-
-- b) platiteľ poistného, ktorý nezaplatil zdravotnej poisťovni preddavok na poistné (§ 16) za tri mesiace v príslušnom kalendárnom roku alebo nedoplatok v celkovej sume vyššej ako 10 eur.
+(1) Dlžník na účely tohto zákona je poistenec alebo platiteľ poistného, voči ktorému príslušná zdravotná poisťovňa eviduje ku dňu zverejnenia zoznamu dlžníkov pohľadávku na preddavku na poistnom po lehote splatnosti najmenej za tri mesiace, na nedoplatku alebo pohľadávku na poistnom, ktorú bol povinný uhradiť odo dňa vzniku skutočnosti zakladajúcej vznik verejného zdravotného poistenia do dňa potvrdenia prihlášky príslušnou zdravotnou poisťovňou, v celkovej sume vyššej ako 100 eur.
 
 (2) Zoznam dlžníkov obsahuje
 

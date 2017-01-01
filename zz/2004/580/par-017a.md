@@ -8,19 +8,21 @@
 
 - b) u fyzickej osoby meno, priezvisko, trvalý pobyt a rodné číslo; ak ide o fyzickú osobu oprávnenú podnikať, výkaz nedoplatkov musí obsahovať aj obchodné meno, miesto podnikania a identifikačné číslo, ak je pridelené,
 
-- c) výšku nedoplatkov podľa stavu účtu platiteľa poistného k určitému dňu vychádzajúcemu z údajov vykázaných platiteľom poistného alebo z kontrol vykonaných zdravotnou poisťovňou, z výšky preddavkov na poistné stanovenej podľa ustanovenia § 20 ods. 5 a z úrokov z omeškania vypočítaných k tomuto dňu,
+- c) určenie platiteľa poistného podľa § 11 ods. 1 písm. b) alebo ods. 2 s uvedením dátumu začatia a dátumu skončenia povinnosti platiť poistné,
 
-- d) deň, ku ktorému bola výška nedoplatkov zistená,
+- d) výšku nedoplatkov podľa stavu účtu platiteľa poistného k určitému dňu vychádzajúcemu z údajov vykázaných platiteľom poistného alebo z kontrol vykonaných zdravotnou poisťovňou, z výšky preddavkov na poistné stanovenej podľa ustanovenia § 20 ods. 4 a z úrokov z omeškania vypočítaných k tomuto dňu,
 
-- e) rozpis výšky nedoplatkov podľa písmena c) na jednotlivé mesiace obdobia, za ktoré je výkaz nedoplatkov vystavený,
+- e) deň, ku ktorému bola výška nedoplatkov zistená,
 
-- f) číslo účtu príslušnej zdravotnej poisťovne, na ktorý musia byť nedoplatky uhradené,
+- f) rozpis výšky nedoplatkov podľa písmena c) na jednotlivé mesiace obdobia, za ktoré je výkaz nedoplatkov vystavený,
 
-- g) poučenie o možnosti podať námietky podľa odseku 4,
+- g) číslo účtu príslušnej zdravotnej poisťovne, na ktorý musia byť nedoplatky uhradené,
 
-- h) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
+- h) poučenie o možnosti podať námietky podľa odseku 4,
 
-- i) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
+- i) označenie zdravotnej poisťovne, ktorá výkaz nedoplatkov vydala, dátum vydania,
+
+- j) podpis alebo faksimile podpisu s uvedením mena, priezviska a funkcie oprávnenej osoby.
 
 (3) Platiteľ poistného sa vopred neupovedomuje o zostavení výkazu nedoplatkov na zdravotnom poistení.
 
@@ -32,7 +34,7 @@
 
 (7) Ak zdravotná poisťovňa námietkam platiteľa poistného v celom rozsahu vyhovie, vydá nový výkaz nedoplatkov, ktorým zruší predchádzajúci.
 
-(8) Zdravotná poisťovňa môže výkaz nedoplatkov zrušiť aj z vlastného podnetu, o čom písomne upovedomí platiteľa poistného.
+(8) Zdravotná poisťovňa môže výkaz nedoplatkov zrušiť aj z vlastného podnetu, o čom písomne upovedomí platiteľa poistného; v upovedomení uvedie dôvod zrušenia výkazu nedoplatkov.
 
 (9) Na konanie o vydanie výkazu nedoplatkov sa nevzťahujú všeobecné predpisy o správnom konaní.
 

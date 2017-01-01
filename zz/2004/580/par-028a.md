@@ -1,6 +1,6 @@
 # § 28a
 
-(1) Úrad je povinný vykonať dohľad nad zaradením poistencov do farmaceuticko-nákladových skupín na účely mesačného prerozdeľovania v zdravotnej poisťovni raz za polrok a skontrolovať zaradenie najmenej 300 poistencov, z ktorých
+(1) Úrad je povinný vykonať dohľad nad zaradením poistencov do farmaceuticko-nákladových skupín na účely mesačného prerozdeľovania v zdravotnej poisťovni raz za kalendárny rok a skontrolovať zaradenie najmenej 300 poistencov, z ktorých
 
 - a) 25 % tvorí náhodný výber poistencov zaradených do farmaceuticko-nákladových skupín,
 

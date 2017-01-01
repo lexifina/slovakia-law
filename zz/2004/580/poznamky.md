@@ -10,7 +10,7 @@
 
 - 3) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- § 42 až 57 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3a) Nariadenie Európskeho parlamentu a Rady (ES) č. 883/2004 z 29. apríla 2004 o koordinácii systémov sociálneho zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 5; Ú. v. EÚ L 200, 7. 6. 2004) v platnom znení.
 
@@ -34,6 +34,8 @@
 
 - Čl. 11 nariadenia (ES) č. 987/2009 v platnom znení.
 
+- 8aaa) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 8ab) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
@@ -44,11 +46,7 @@
 
 - 9) § 2 ods. 1 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov.
 
-- 10) § 27 Občianskeho zákonníka.
-
-- Zákon č. 94/1963 Zb. o rodine v znení neskorších predpisov.
-
-- Zákon č. 265/1998 Z. z. o pestúnskej starostlivosti a o príspevkoch pestúnskej starostlivosti v znení neskorších predpisov.
+- 10) Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
 - 11) § 4 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov.
 
@@ -62,7 +60,7 @@
 
 - § 45a ods. 3 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 13b) § 16 ods. 1 písm. f) zákona č. 581/2004 Z. z.
+- 13aaa) § 40 Občianskeho zákonníka v znení neskorších predpisov.
 
 - 14) § 2 ods. 11 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
@@ -70,7 +68,9 @@
 
 - 15a) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
-- 16) § 79 ods. 1 písm. d) zákona č. 578/2004 Z. z.
+- 15aa) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16) § 15 ods. 1 písm. f) zákona č. 581/2004 Z. z.
 
 - 16a) § 18 ods. 1 písm. f) zákona č. 581/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
@@ -102,7 +102,7 @@
 
 - Rozhodnutie Správnej komisie Európskych spoločenstiev pre sociálne zabezpečenie migrujúcich pracovníkov č. 190 z 18. júna 2003 týkajúce sa technických špecifikácií Európskej karty zdravotného poistenia (2003/752/ES) (Ú. v. EÚ L 276, 27. 10. 2003).
 
-- 18) § 5 ods. 1 písm. a) až h), j) a k) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+- 18) § 5 ods. 1 písm. a) až h), k) a m) a ods. 2 a 3 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 19a) § 1 ods. 2 a 3, § 31, 33 a 69 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -110,15 +110,15 @@
 
 - 21) § 20 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
-- 22) § 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 22) § 7 ods. 1 písm. c), f) a h) a ods. 2 a 3 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 23) § 8 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 23a) § 3 zákona č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov.
 
-- 24) § 3 ods. 2 písm. c) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 24) § 3 ods. 2 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 24a) § 5 ods. 7 písm. i) zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+- 24a) § 5 ods. 7 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 25) Zákon č. 595/2003 Z. z. v znení neskorších predpisov.
 
@@ -133,6 +133,8 @@
 - 30) § 60 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 31) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32) § 38 až 43, § 125 a 126 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -196,6 +198,8 @@
 
 - 51d) § 23a až 23c zákona č. 253/1998 Z. z. v znení neskorších predpisov.
 
+- 51e) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
+
 - 52) § 20 ods. 1 písm. e) prvý bod zákona č. 581/2004 Z. z.
 
 - 52a) § 61g zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
@@ -234,6 +238,12 @@
 
 - 55) § 43 zákona č. 581/2004 Z. z.
 
+- 55a) § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 9 ods. 1 a § 10 ods. 1 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 55b) § 5 ods. 2 až 4, § 6 ods. 2, § 7 ods. 2, § 9 ods. 2 a § 10 ods. 2 zákona č. 292/2014 Z. z. v znení neskorších predpisov.
+
+- 55c) § 2 ods. 1 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 57) Zákon č. 581/2004 Z. z.
@@ -257,3 +267,5 @@
 - 62) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
 - 63) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+
+- 64) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.

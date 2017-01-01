@@ -26,7 +26,7 @@
 
 (7) Ak pacient trpí zriedkavou chorobou, ktorá podlieha predchádzajúcemu súhlasu zdravotnej poisťovne, alebo ak existuje podozrenie, že trpí zriedkavou chorobou, ktorá podlieha predchádzajúcemu súhlasu zdravotnej poisťovne, môže sa vykonať klinické hodnotenie lekárom v príslušnom špecializačnom odbore. Ak v Slovenskej republike nie je možné nájsť žiadneho lekára v príslušnom špecializačnom odbore alebo ak stanovisko lekára nevedie k jednoznačnému záveru, zdravotná poisťovňa môže požiadať národné kontaktné miesto<sup>16h</sup>) o zabezpečenie stanoviska z iného členského štátu Európskej únie.
 
-(8) Poistenec má právo na preplatenie nákladov cezhraničnej zdravotnej starostlivosti podľa odsekov 2 a 3, ak písomne požiada príslušnú zdravotnú poisťovňu podľa § 10 do troch mesiacov od poskytnutia cezhraničnej zdravotnej starostlivosti.
+(8) Poistenec má právo na preplatenie nákladov cezhraničnej zdravotnej starostlivosti podľa odsekov 2 a 3, ak písomne požiada príslušnú zdravotnú poisťovňu podľa § 10 do šiestich mesiacov od poskytnutia cezhraničnej zdravotnej starostlivosti.
 
 (9) Ak príslušná zdravotná poisťovňa udelí predchádzajúci súhlas na poskytnutie cezhraničnej zdravotnej starostlivosti podľa odseku 4, overí, či sú splnené podmienky ustanovené v osobitných predpisoch;<sup>3a</sup>) ak sú splnené podmienky uvedené v osobitných predpisoch,<sup>3a</sup>) príslušná zdravotná poisťovňa udelí súhlas podľa § 9b ods. 10 a pri preplatení nákladov príslušná zdravotná poisťovňa postupuje podľa osobitných predpisov,<sup>16c</sup>) ak poistenec nepožaduje preplatenie nákladov podľa odseku 10.
 

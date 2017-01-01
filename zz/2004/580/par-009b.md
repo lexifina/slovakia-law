@@ -52,7 +52,7 @@
 
 - a) ochorenie nie je možné liečiť v Slovenskej republike v primeranej lehote<sup>16b</sup>) pri zohľadnení súčasného zdravotného stavu poistenca a možného vývoja jeho ochorenia,
 
-- b) požadovaná liečba sa v Slovenskej republike nevykonáva,
+- b) požadovaná liečba, ani ekvivalent liečby s porovnateľnou účinnosťou a bezpečnosťou liečby, sa v Slovenskej republike nevykonáva,
 
 - c) boli vyčerpané všetky možnosti liečby v Slovenskej republike a od liečby v inom členskom štáte sa očakáva podstatné zlepšenie zdravotného stavu alebo zabránenie zhoršeniu zdravotného stavu poistenca,
 
