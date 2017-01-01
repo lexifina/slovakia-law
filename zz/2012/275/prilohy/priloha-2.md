@@ -1,3 +1,0 @@
-Príloha č. 2 k vyhláške č. 275/2012 Z. z.
-
-- VYHODNOTENIE ŠTANDARDOV KVALITY PRENOSU ELEKTRINY [Tabuľka 02](../assets/60babe91c35462a8b0264e56507dbd97d7e0e4fe87ddadeb220e3a1b101630f8.pdf)

@@ -1,3 +1,0 @@
-Príloha č. 7 k vyhláške č. 275/2012 Z. z.
-
-- EVIDOVANIE ŠTANDARDOV KVALITY DODÁVKY ELEKTRINY [Tabuľka 07](../assets/273728b6456d108fcdd70ab5fef10207ed858afd9608731e586813d60aec257b.pdf)
