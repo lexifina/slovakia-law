@@ -15,3 +15,5 @@ Príloha č. 2 k zákonu č. 595/2003 Z. z.
   - 6. Smernica Rady 2014/86/EÚ z 8. júla 2014, ktorou sa mení smernica 2011/96/EÚ o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. EÚ L 219, 25. 7. 2014).
 
   - 7. Smernica Rady (EÚ) 2015/121 z 27. januára 2015, ktorou sa mení smernica 2011/96/EÚ o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. EÚ L 21, 28. 1. 2015).
+
+  - 8. Smernica Rady (EÚ) 2015/2060 z 10. novembra 2015, ktorou sa zrušuje smernica 2003/48/ES o zdaňovaní príjmu z úspor v podobe výplaty úrokov (Ú. v. EÚ L 301, 18. 11. 2015).

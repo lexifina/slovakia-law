@@ -106,6 +106,8 @@
 
 - 37ab) Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
+- 37aba) § 20 ods. 1 písm. i) zákona č. 362/2011 Z. z.
+
 - 37ac) Zákon č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 37ad) § 22 ods. 5 zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach.
@@ -270,6 +272,8 @@
 
 - 72) Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
+- 73) § 3 až 20a zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
 - 73a) § 39 až 46 zákona č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
 - 74) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -340,15 +344,19 @@
 
 - 80c) § 59 a 60 Obchodného zákonníka v znení neskorších predpisov.
 
-- 80d) § 53c ods. 1 písm. a) zákona č. 563/2009 Z. z. v znení zákona č. 435/2013 Z. z.
-
-- 80e) § 53c ods. 1 písm. b) zákona č. 563/2009 Z. z. v znení zákona č. 435/2013 Z. z.
+- 80d) § 154 ods. 1 písm. i) zákona č. 563/2009 Z. z.
 
 - 81) Zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva.
 
 - 82) § 44 až 47 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 82a) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
+- 82b) § 3 ods. 6 druhá veta zákona č. 563/2009 Z. z. v znení zákona č. 435/2013 Z. z.
+
+- 82c) § 155 ods. 1 písm. f) zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 82d) § 155 ods. 1 písm. g) zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 83) Napríklad § 5 ods. 1 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z. v znení zákona Národnej rady Slovenskej republiky č. 375/1996 Z. z.
 
@@ -430,6 +438,8 @@
 
 - 103a) § 4 ods. 3 zákona č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov.
 
+- 103aa) § 659 až 662 Občianskeho zákonníka v znení neskorších predpisov.
+
 - 103b) § 40a zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení zákona č. 373/2014 Z. z.
 
 - 104) Zákon č. 223/2001 Z. z. v znení neskorších predpisov.
@@ -437,8 +447,6 @@
 - Zákon Národnej rady Slovenskej republiky č. 327/1996 Z. z. o poplatkoch za uloženie odpadov v znení neskorších predpisov.
 
 - 105) Nariadenie vlády Československej socialistickej republiky č. 35/1979 Zb. o odplatách vo vodnom hospodárstve v znení neskorších predpisov.
-
-- 105a) § 87 až 89 zákona č. 371/2014 Z. z.
 
 - 105a) § 2 písm. h) zákona č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 

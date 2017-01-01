@@ -10,7 +10,7 @@
 
   - 3. neuplatnil postup podľa § 43 ods. 7 pri príjmoch, z ktorých sa daň vyberá zrážkou podľa § 43,
 
-  - 4. nepoberal príjmy uvedené v § 3 ods. 2 písm. c) a d), § 5 ods. 1 písm. b) až e), g) a h), § 5 ods. 3 a § 5 ods. 7 písm. i),
+  - 4. nepoberal príjmy uvedené v § 5 ods. 1 písm. b) až e), g) a h) a ods. 3,
 
   - 5. nepoberal iné zdaniteľné príjmy (§ 6 až 8) okrem príjmov uvedených v treťom bode,
 
