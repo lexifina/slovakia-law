@@ -74,6 +74,8 @@
 
 - 6b) § 218la až 218lk Obchodného zákonníka.
 
+- 6c) § 220zh ods. 1 písm. a) Obchodného zákonníka v znení zákona č. 389/2015 Z. z.
+
 - 7) § 218o ods. 1 Obchodného zákonníka.
 
 - 7a) § 75 ods. 2 Obchodného zákonníka.

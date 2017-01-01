@@ -1,1 +1,1 @@
-Príloha č. 14 k vyhláške č. 25/2004 Z. z. [Vzor 14 - Návrh na zápis zmeny zapísaných údajov o štátnom podniku do obchodného registra](../assets/19205baa090b38b596fae5a54d7bab140b64a3dead1a24085e222d74bd692fec.pdf)
+Príloha č. 14 k vyhláške č. 25/2004 Z. z. [príloha](../assets/bff34007412e2fddea7b831044b24bd2c9cd6afb6bd04ebc4da1191b4c8117a8.pdf)

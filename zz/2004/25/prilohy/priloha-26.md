@@ -1,1 +1,1 @@
-Príloha č. 26 k vyhláške č. 25/2004 Z. z. [Vzor 26 - Návrh na zápis Európskeho družstva do obchodného registra](../assets/cb20cb494fd66cc58e2cebfed4104aa86959017db55d7f2f5e942caf8b5566d5.pdf)
+Príloha č. 26 k vyhláške č. 25/2004 Z. z. [príloha](../assets/2e9cfccedeb2883c98a44f8381b3c81b483e50bdb7d0400d779d7d1d29654410.pdf)
