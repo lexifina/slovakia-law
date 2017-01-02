@@ -312,6 +312,10 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 25. V § 20 ods. 8 sa slová „§ 24 a § 25e ods. 2, 3, 4, 7 a 8“ nahrádzajú slovami „§ 24 ods. 2 až 7 a § 25f ods. 2, 3, 4 a 8“.
 
+- 26. V § 20a ods. 1 úvodná veta znie:
+
+- „Na udelenie povolenia poskytovať spotrebiteľské úvery podľa § 20 ods. 1 písm. a) musí mať žiadateľ právnu formu akciovej spoločnosti, právnu formu jednoduchej spoločnosti na akcie, právnu formu spoločnosti s ručením obmedzeným alebo právnu formu európskej spoločnosti alebo musí byť založený na účely zápisu akciovej spoločnosti, na účely zápisu jednoduchej spoločnosti na akcie, na účely zápisu spoločnosti s ručením obmedzeným alebo na účely zápisu európskej spoločnosti do obchodného registra a musí preukázať splnenie týchto podmienok:“.
+
 - 27. V § 20a ods. 1 písm. d), ods. 2 písm. b) a ods. 3 písm. e) sa za slovo „kontroly“ vkladá čiarka a slová „a vedúceho organizačnej zložky“ sa nahrádzajú slovami „vedúceho zamestnanca zodpovedného za výkon vnútornej kontroly alebo vedúceho organizačnej zložky“.
 
 - 28. V § 20a ods. 3 písmeno d) znie:
@@ -378,6 +382,8 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 39. V § 20b ods. 6 sa na konci pripája táto veta: „Veriteľ podľa § 20 ods. 1 písm. b) je povinný bezodkladne písomne oznámiť Národnej banke Slovenska deň začatia poskytovania spotrebiteľských úverov.“.
 
+- 40. V § 20d ods. 1 písm. d) sa za slová „jednoduchou spoločnosťou na akcie“ vkladá čiarka a slová „alebo spoločnosťou s ručením obmedzeným“ sa nahrádzajú slovami „spoločnosťou s ručením obmedzeným alebo európskou spoločnosťou“.
+
 - 41. V § 20d ods. 3 písmeno d) znie:
 
 - „d)
@@ -427,6 +433,10 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 - 49. V § 24 ods. 1 sa slová „15 až 17“ nahrádzajú slovami „16 až 42“.
 
 - 50. V § 24 ods. 3 sa za slovo „oprávnený“ vkladajú slová „ponúkať a“.
+
+- 51. V § 24 ods. 5 úvodná veta znie:
+
+- „Na udelenie povolenia pre iného veriteľa musí mať žiadateľ právnu formu akciovej spoločnosti, právnu formu jednoduchej spoločnosti na akcie, právnu formu spoločnosti s ručením obmedzeným alebo právnu formu európskej spoločnosti alebo musí byť založený na účely zápisu akciovej spoločnosti, na účely zápisu jednoduchej spoločnosti na akcie, na účely zápisu spoločnosti s ručením obmedzeným alebo na účely zápisu európskej spoločnosti do obchodného registra a musí preukázať splnenie týchto podmienok:“.
 
 - 52. V § 24 ods. 7 písm. e) sa za slovom „rady“ vypúšťa čiarka a slová „vedúceho útvaru vnútornej kontroly a vedúceho organizačnej zložky žiadateľa“.
 
