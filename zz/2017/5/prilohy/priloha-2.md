@@ -1,0 +1,1 @@
+[anglický text](../assets/4f7aba25ce612ed901d74ccd9482730c14786d50b5938cc318898e86a04d4602.pdf)
