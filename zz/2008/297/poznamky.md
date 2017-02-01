@@ -114,7 +114,7 @@
 
 - 53) Napríklad zákon č. 455/1991 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 566/1993 Zb. v znení neskorších predpisov, zákon č. 483/2001 Z. z.
 
-- 53a) § 134a až 134d zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2015 Z. z.
+- 53a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
 - 54) § 1 ods. 3 písm. a) zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 2 písm. n) zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z.
 
