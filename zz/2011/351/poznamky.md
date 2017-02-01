@@ -144,6 +144,8 @@
 
 - 46b) § 9 zákona č. 166/2003 Z. z.
 
+- 46c) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
+
 - 47) Nariadenie Európskeho parlamentu a Rady (ES) č. 460/2004 z 10. marca 2004 o zriadení Európskej agentúry pre bezpečnosť sietí a informácií (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 5, Ú. v. EÚ L 77, 13. 3. 2004) v platnom znení.
 
 - 48) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
@@ -190,7 +192,7 @@
 
 - 56) § 8a ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
-- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 5, čl. 5 ods. 1, čl. 7 až 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012).
+- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 5, čl. 5 ods. 1, čl. 7 až 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012) v platnom znení. Čl. 3 ods. 2 až 5, čl. 4 ods. 1 a 2 a čl. 5 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/2120 z 25. novembra 2015, ktorým sa ustanovujú opatrenia týkajúce sa prístupu k otvorenému internetu a ktorým sa mení smernica 2002/22/ES o univerzálnej službe a právach užívateľov týkajúcich sa elektronických komunikačných sietí a služieb a nariadenie (EÚ) č. 531/2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (Ú. v. EÚ L 310, 26. 11. 2015).
 
 - 58a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
