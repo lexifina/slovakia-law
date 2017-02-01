@@ -70,11 +70,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 2
 
-  - a) | Vyhotovenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, evidencií, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu ..... | 1,50 eura
+  - a) | Vyhotovenie odpisu (fotokópie), listinnej podoby elektronického dokumentu, výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, evidencií, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu ..... | 1,50 eura
 
   - b) | Vyhotovenie výpisu z matričnej knihy alebo písomného potvrdenia matričným úradom alebo osobitnou matrikou s výnimkou prvého úradného výpisu z knihy narodení, knihy manželstiev, knihy úmrtí ..... | 5 eur
 
-  - c) | Osvedčenie odpisu (fotokópie), výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu |
+  - c) | Osvedčenie odpisu (fotokópie), listinnej podoby elektronického dokumentu, výpisu alebo písomnej informácie z úradných kníh, úradných záznamov, registrov listín a zo spisov alebo súkromných spisov v úradnej úschove, za každú aj začatú stranu |
 
   - | v slovenskom jazyku ..... | 1,50 eura
 
@@ -1306,49 +1306,123 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 65
 
-  - a) | Prvý zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub>a N<sub>1</sub> do evidencie vozidiel v Slovenskej republike, ak je výkon motora do 80 kW vrátane a prvý zápis držiteľa motorového vozidla kategórie N<sub>1</sub> s najviac tromi miestami na sedenie aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ..... | 33 eur
+      - a) Zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub> a N<sub>1</sub>, okrem kategórie N<sub>1</sub> s najviac tromi miestami na sedenie, do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov............. suma vypočítaná podľa vzorca, najmenej 33 eur
 
-  - b) | Prvý zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub>a N<sub>1</sub>, okrem kategórie N<sub>1</sub> s najviac tromi miestami na sedenie, do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak je výkon motora ..... |
+        - RP = P<sub>kw</sub> x RV<sub>1-n</sub>
 
-  - | nad 80 kW do 86 kW ..... | 167 eur
+        - kde:
 
-  - | nad 86 kW do 92 kW ..... | 217 eur
+        - RP – výška poplatku,
 
-  - | nad 92 kW do 98 kW ..... | 267 eur
+        - P<sub>kw</sub> – sadzba poplatku za zápis vozidla v eurách podľa výkonu motora (prvá evidencia vozidla), ktorej hodnoty sú uvedené v tabuľke č. 1,
 
-  - | nad 98 kW do 104 kW ..... | 327 eur
+        - RV<sub>1-n</sub> – koeficient zostatkovej hodnoty vozidla zodpovedajúci zostatkovej hodnote vozidla podľa veku vozidla v rokoch odo dňa prvej evidencie vozidla, ktorého hodnoty sú uvedené v tabuľke č. 2.
 
-  - | nad 104 kW do 110 kW ..... | 397 eur
+      - Tabuľka č. 1
 
-  - | nad 110 kW do 121 kW ..... | 477 eur
+      - Výkon motora v kW | | Sadzba poplatku v eurách
 
-  - | nad 121 kW do 132 kW ..... | 657 eur
+      - nad | do |
 
-  - | nad 132 kW do 143 kW ..... | 787 eur
+      - | 80 vrátane | 33
 
-  - | nad 143 kW do 154 kW ..... | 957 eur
+      - 80 | 86 vrátane | 90
 
-  - | nad 154 kW do 165 kW ..... | 1 157 eur
+      - 86 | 92 vrátane | 110
 
-  - | nad 165 kW do 176 kW ..... | 1 397 eur
+      - 92 | 98 vrátane | 150
 
-  - | nad 176 kW do 202 kW ..... | 1 697 eur
+      - 98 | 104 vrátane | 210
 
-  - | nad 202 kW do 228 kW ..... | 2 047 eur
+      - 104 | 110 vrátane | 260
 
-  - | nad 228 kW do 254 kW ..... | 2 467 eur
+      - 110 | 121 vrátane | 360
 
-  - | nad 254 kW | 2 997 eur
+      - 121 | 132 vrátane | 530
 
-  - c) | Prvý zápis držiteľa motorového vozidla okrem kategórie vozidiel podľa písmen a) a b) alebo prípojného vozidla do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ..... | 33 eur
+      - 132 | 143 vrátane | 700
 
-  - d) | Prvý zápis držiteľa motorového vozidla, ktorého jediným zdrojom energie je elektrina (elektromobil), do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ..... | 33 eur
+      - 143 | 154 vrátane | 870
 
-  - e) | Ďalší zápis držiteľa motorového vozidla okrem prvého zápisu držiteľa motorového vozidla podľa písmen a) až d) alebo prípojného vozidla do evidencie v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov ..... | 33 eur
+      - 154 | 165 vrátane | 1 100
 
-  - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodený zápis držiteľa motorového vozidla alebo prípojného vozidla nadobudnutého dedením, na základe úradného príkazu alebo rozhodnutia súdu a zániku bezpodielového spoluvlastníctva manželov. 2. Od poplatku podľa písmen a) a b) tejto položky je oslobodený prvý zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> a ďalší zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub>podľa písmena d) tejto položky, ak bol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 3. Od poplatku podľa písmena a) tejto položky je oslobodený prvý zápis držiteľa motorového vozidla kategórie L<sub>1e</sub>podľa § 23a zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. | |
+      - 165 | 176 vrátane | 1 250
 
-  - Poznámky 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie osobami s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. 2. Poplatníkom je nový držiteľ motorového alebo prípojného vozidla. 3. Poplatok podľa písmena b) tejto položky sa zníži o 50 % pri prvom zápise držiteľa motorového vozidla kategórie M1 s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20aa</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na 4 deti najviac do veku 18 rokov vrátane. Pri prvom zápise držiteľa motorového vozidla podľa prvej vety je potrebné priložiť fotokópiu rodného listu dieťaťa. | |
+      - 176 | 202 vrátane | 1 900
+
+      - 202 | 228 vrátane | 2 300
+
+      - 228 | 254 vrátane | 2 700
+
+      - 254 | a viac | 3 900
+
+      - Tabuľka č. 2
+
+      - Vek vozidla | Koeficient zostatkovej hodnoty vozidla
+
+      - prvá evidencia | 1,00
+
+      - do 1 roka vrátane odo dňa prvej evidencie | 0,82
+
+      - do 2 rokov vrátane odo dňa prvej evidencie | 0,68
+
+      - do 3 rokov vrátane odo dňa prvej evidencie | 0,56
+
+      - do 4 rokov vrátane odo dňa prvej evidencie | 0,46
+
+      - do 5 rokov vrátane odo dňa prvej evidencie | 0,38
+
+      - do 6 rokov vrátane odo dňa prvej evidencie | 0,32
+
+      - do 7 rokov vrátane odo dňa prvej evidencie | 0,26
+
+      - do 8 rokov vrátane odo dňa prvej evidencie | 0,23
+
+      - do 9 rokov vrátane odo dňa prvej evidencie | 0,19
+
+      - do 10 rokov vrátane odo dňa prvej evidencie | 0,16
+
+      - do 11 rokov vrátane odo dňa prvej evidencie | 0,14
+
+      - do 12 rokov vrátane odo dňa prvej evidencie | 0,12
+
+      - do 13 rokov vrátane odo dňa prvej evidencie | 0,10
+
+      - do 14 rokov vrátane odo dňa prvej evidencie | 0,09
+
+      - do 15 rokov vrátane odo dňa prvej evidencie | 0,08
+
+      - do 16 rokov vrátane odo dňa prvej evidencie | 0,07
+
+      - nad 16 rokov odo dňa prvej evidencie | 0,06
+
+      - b) Zápis držiteľa motorového vozidla okrem kategórie vozidiel podľa písmena a) alebo prípojného vozidla do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov.......................................................... 33 eur
+
+      - c) Zápis držiteľa motorového vozidla, ktorého jediným zdrojom energie je elektrina (elektromobil) do evidencie vozidiel v Slovenskej republike aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov.........................................................33 eur
+
+      - d) Zápis držiteľa motorového vozidla kategórie L, M<sub>1</sub> a N<sub>1</sub>, okrem kategórie N<sub>1</sub> s najviac tromi miestami na sedenie do evidencie vozidiel v Slovenskej republike, ktoré je určené na predaj a ktoré doteraz nebolo evidované v žiadnej evidencii vozidiel aj s vykonaním úprav v dokladoch vrátane vydania týchto dokladov, ak sa ako držiteľ zapisuje výrobca vozidla,<sup>20aa</sup>) zástupca výrobcu vozidla,<sup>20ab</sup>) právnická osoba alebo fyzická osoba podnikateľ, ktorej predmetom podnikania je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla........................................................... 33 eur
+
+      - Oslobodenie
+
+        - 1. Od poplatku podľa tejto položky je oslobodený zápis držiteľa motorového vozidla alebo prípojného vozidla nadobudnutého dedením, na základe úradného príkazu alebo rozhodnutia súdu a zániku bezpodielového spoluvlastníctva manželov.
+
+        - 2. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub>, ak bol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+        - 3. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie L<sub>1</sub>e podľa § 23a zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+      - Poznámky
+
+        - 1. Poplatok podľa tejto položky sa zníži o 50 %, najviac však o 100 eur, pri zápise držiteľa motorového vozidla, ktorým je držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom alebo ak ide o motorové vozidlo upravené na vedenie fyzickou osobou s ťažkým zdravotným postihnutím a nebol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+        - 2. Poplatníkom je nový držiteľ motorového vozidla alebo prípojného vozidla.
+
+        - 3. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa motorového vozidla kategórie M<sub>1</sub> s najmenej šiestimi miestami na sedenie s výkonom motora do 110 kW vrátane, ak ide o zápis držiteľa, ktorým je osoba podľa osobitného predpisu<sup>20ac</sup>) uplatňujúca si nárok na prídavok na dieťa najmenej na štyri deti najneskôr do dovŕšenia 19 rokov veku. Pri zápise držiteľa podľa prvej vety je potrebné priložiť fotokópiu rodného listu dieťaťa.
+
+        - 4. Poplatník môže pri zápise motorového vozidla podľa písmena a) tejto položky predložiť znalecký posudok podľa osobitného predpisu,<sup>20ad</sup>) na ktorého základe sa vypočíta iný koeficient zostatkovej hodnoty vozidla ako je uvedený v tabuľke č. 2 zodpovedajúci veku vozidla odo dňa prvej evidencie vozidla. Koeficient zostatkovej hodnoty vozidla sa vypočíta na základe znaleckého posudku ako pomer zostatkovej hodnoty vozidla vyjadrenej v eurách a počiatočnej hodnoty vozidla vyjadrenej v eurách. Takto vypočítaný koeficient zostatkovej hodnoty vozidla zaokrúhlený matematicky na dve desatinné miesta sa použije vo vzorci na výpočet poplatku podľa písmena a) tejto položky.
+
+        - 5. Poplatok podľa písmena a) tejto položky sa zníži o 50 %, najviac však na 33 eur, pri zápise držiteľa hybridného motorového vozidla,<sup>20ae</sup>) hybridného elektrického vozidla,<sup>20af</sup>) motorového vozidla s pohonom na stlačený zemný plyn (CNG),<sup>20ag</sup>) motorového vozidla s pohonom na skvapalnený zemný plyn (LNG)<sup>20ag</sup>) a motorového vozidla na vodíkový pohon.<sup>20ah</sup>)
+
+        - 6. Ak predmetom podnikania osoby uvedenej v písmene d) je predaj vozidiel na základe zmluvného vzťahu s výrobcom vozidla alebo zástupcom výrobcu vozidla, pri zápise držiteľa vozidla do evidencie vozidiel je povinná tento vzťah preukázať správnemu orgánu. Ak držiteľ motorového vozidla podľa písmena d) do jedného roka odo dňa zápisu motorového vozidla do evidencie vozidiel nevykoná prevod držby motorového vozidla na inú osobu, je povinný najneskôr pri nasledujúcej zmene v evidencii vozidiel zaplatiť poplatok podľa písmena a) v sume zodpovedajúcej sume poplatku pri prvej evidencii vozidla.
 
     - Položka 66
 
@@ -1620,11 +1694,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) povolenie výnimky podľa osobitného predpisu<sup>22ac)</sup> ..... | 20 eur,
 
-  - d) trvalé vyradenie vozidla z evidencie vozidiel ..... | 5 eur,
+  - d) trvalé vyradenie vozidla z evidencie, ktoré nepodlieha spracovaniu podľa osobitného predpisu<sup>38</sup>) ...... | 5 eur,
 
   - e) pridelenie náhradného identifikačného čísla vozidla VIN ..... | 20 eur.
 
   - f) vydanie osvedčenia o schválení vozidla na prepravu určitých nebezpečných vecí ..... | 10 eur.
+
+  - Oslobodenie Poplatok za vyradenie vozidla z evidencie sa nevyberie pri trvalom vyradení vozidla z evidencie vozidiel, ak bolo vozidlo odcudzené. |
 
   - Poznámky 1. Poplatok podľa písmen a) a b) tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z premávky na pozemných komunikáciách. 2. Pri predĺžení dočasného vyradenia vozidla z premávky na pozemných komunikáciách sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z premávky na pozemných komunikáciách. |
 
@@ -3042,8 +3118,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - c) Doplnenie údajov na predtlačenom tlačive, ktoré predloží žiadateľ ......................................................... | 1,50 eura | |
 
-  - d) Pridelenie registračného odberného čísla ................................................................................................... | 9,50 eura | |
-
   - Oslobodenie 1. Od poplatku podľa tejto položky je oslobodené vydanie potvrdenia o daňovej rezidencii a vydanie potvrdenia o zaplatení dane na území Slovenskej republiky pre nerezidentné osoby na účely aplikácie medzinárodných zmlúv, ktorými je Slovenská republika viazaná. 2. Od poplatku podľa tejto položky je oslobodené potvrdenie o registrácii podľa výnosu Ministerstva financií Slovenskej republiky č. 63/161/1995 o náležitostiach žiadosti o vydanie povolenia na nákup liehu oslobodeného od spotrebnej dane z liehu. |
 
   - Poznámka Poplatok podľa položky 143 písmena b) sa nevyberie, ak sa potvrdenie vydáva na účely prepustenia zo štátneho zväzku Slovenskej republiky. | | |
@@ -3060,7 +3134,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - e) Udelenie súhlasu s nakladaním s predmetom záložného práva<sup>32a</sup>) .......................... | 9,50 eura
 
-  - f) Žiadosť o prerušenie daňového konania<sup>8</sup>) ....................................................................................... | 9,50 eura
+  - f) Žiadosť o prerušenie daňového konania<sup>32a</sup>) ....................................................................................... | 9,50 eura
 
     - Položka 146
 
@@ -3162,9 +3236,9 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - o) | Vydanie výpisu z evidencie informačného systému súkromnej bezpečnosti ..... | | 16,50 eura
 
-  - Oslobodenie Od poplatku podľa písmen b) a h) tejto položky sú oslobodení príslušníci Vojenskej polície, príslušníci ozbrojených bezpečnostných zborov Slovenskej republiky a príslušníci ozbrojených zborov Slovenskej republiky. | | |
+  - Oslobodenie Od poplatku podľa písmen b) a j) tejto položky sú oslobodení príslušníci Vojenskej polície, príslušníci ozbrojených bezpečnostných zborov Slovenskej republiky a príslušníci ozbrojených zborov Slovenskej republiky. | | |
 
-  - Poznámky 1. Správny orgán zvýši poplatok podľa písmena i) do výšky dvojnásobku uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydaný pri druhej strate alebo krádeži. Pri každej ďalšej strate alebo krádeži preukazu odbornej spôsobilosti sa poplatok zvýši na dvojnásobok predchádzajúceho poplatku. 2. Správny orgán správny poplatok podľa písmena k) nevyberie, ak zmena rozhodnutia o udelení licencie je vykonaná na podnet správneho orgánu. 3. Správny orgán správny poplatok podľa písmena l) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná na podnet správneho orgánu. | | |
+  - Poznámky 1. Správny orgán zvýši poplatok podľa písmena k) do výšky dvojnásobku uvedenej sadzby, ak je preukaz odbornej spôsobilosti vydaný pri druhej strate alebo krádeži. Pri každej ďalšej strate alebo krádeži preukazu odbornej spôsobilosti sa poplatok zvýši na dvojnásobok predchádzajúceho poplatku. 2. Správny orgán správny poplatok podľa písmena m) nevyberie, ak zmena rozhodnutia o udelení licencie je vykonaná na podnet správneho orgánu. 3. Správny orgán správny poplatok podľa písmena n) nevyberie, ak zmena rozhodnutia o udelení akreditácie je vykonaná na podnet správneho orgánu. | | |
 
     - Položka 149a
 
@@ -5217,28 +5291,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - c) Vydanie osvedčenia Slováka žijúceho v zahraničí ako náhrady za stratené, zničené alebo poškodené osvedčenie........... | 20 eur
 
   - d) vydanie nového osvedčenia Slováka žijúceho v zahraničí v prípade zápisu zmien a doplnkov ................ | 10 eur
-
-  - XIX. ČASŤ ŠTATISTIKA
-
-    - Položka 266
-
-  - a) Pridelenie identifikačného čísla (IČO) .................................................................................................................. | 3 eurá
-
-  - b) Zmena údajov v pôvodnom doklade o pridelení IČO ........................................................................................... | 3 eurá
-
-  - c) Vydanie náhradného potvrdenia (duplikátu) o pridelení identifikačného čísla ako náhrady za stratené, zničené, poškodené alebo odcudzené potvrdenie .................................................................................................. | 6,50 eura
-
-  - d) Výpis zo štatistického registra, za každú registrovanú jednotku ......................................................................... | 1,50 eura
-
-  - Poznámka Poplatky podľa tejto položky vyberá Štatistický úrad Slovenskej republiky. |
-
-    - Položka 267
-
-  - a) Zatriedenie produkcie podľa štatistickej klasifikácie, za každú žiadosť ................................................... | 6,50 eura
-
-  - b) Vydanie náhradného potvrdenia (duplikátu) o zatriedení produkcie podľa štatistickej klasifikácie ako náhrady za stratené, zničené, poškodené alebo odcudzené potvrdenie ............................................... | 3 eurá
-
-  - Poznámka Poplatok podľa tejto položky vyberá Štatistický úrad Slovenskej republiky. |
 
   - XX. ČASŤ DÔVERYHODNÉ SLUŽBY
 

@@ -2,6 +2,8 @@
 
 - 1a) § 16 Civilného mimosporového poriadku.
 
+- 1aa) § 3 ods. 2 písm. a) zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
+
 - 1b) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 1c) § 5 ods. 1 zákona č. 460/2007 Z. z. o Slovenskom Červenom kríži a ochrane znaku a názvu Červeného kríža a o zmene a doplnení niektorých zákonov.
@@ -52,7 +54,7 @@
 
 - § 19c zákona č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
-- 7e) § 3 písm. c) zákona č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+- 7e) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 8) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
@@ -156,7 +158,27 @@
 
 - 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2009 Z. z.
 
-- 20aa) § 2 ods. 1 písm. a) až c) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 20aa) § 2 písm. ab) zákona č. 725/2004 Z. z.
+
+- 20ab) § 2 písm. ac) zákona č. 725/2004 Z. z. v znení neskorších predpisov.
+
+- 20ac) § 2 ods. 1 písm. a) až c) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- 20ad) Napríklad § 16 až 18 a § 33 zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2015 Z. z., vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 20ae) § 3 písm. i) nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.
+
+- 20af) § 3 písm. j) nariadenia vlády Slovenskej republiky č. 140/2009 Z. z.
+
+- 20ag) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel (vyhláška ministra zahraničných vecí č. 176/1960 Zb.).
+
+- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 245/1996 Z. z. o uskutočnení notifikácie sukcesie Slovenskej republiky do Dohody o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel.
+
+- Predpis Európskej hospodárskej komisie Organizácie Spojených národov (EHK OSN) č. 110 – Jednotné ustanovenia o typovom schvaľovaní I. špecifických súčastí motorových vozidiel používajúcich stlačený zemný plyn (CNG) v svojich pohonných systémoch; - II. vozidiel vzhľadom na inštaláciu špecifických súčastí schváleného typu na použitie stlačeného zemného plynu vo svojich pohonných systémoch
+
+- (Ú.v. EÚ L 120, 7. 5. 2011).
+
+- 20ah) Nariadenie Európskeho parlamentu a Rady (ES) č. 79/2009 zo 14. januára 2009 o typovom schvaľovaní motorových vozidiel na vodíkový pohon, ktorým sa mení a dopĺňa smernica 2007/46/ES (Ú. v. EÚ L 35, 4. 2. 2009).
 
 - 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
