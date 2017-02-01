@@ -312,6 +312,10 @@
 
 - 57) § 116 Občianskeho zákonníka.
 
+- 57a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 57b) § 3 ods. 3 zákona č. 315/2016 Z. z.
+
 - 58) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 59) § 68 ods. 3 písm. c) Obchodného zákonníka.
