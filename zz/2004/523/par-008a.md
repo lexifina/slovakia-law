@@ -22,6 +22,8 @@
 
 - g) nemá právoplatne uložený trest zákazu prijímať pomoc a podporu poskytovanú z fondov Európskej únie,
 
+- h) je zapísaný v registri partnerov verejného sektora,<sup>14ba</sup>) ak ide o žiadateľa, ktorý má povinnosť zapisovať sa do registra partnerov verejného sektora.<sup>14bb</sup>)
+
 (5) Žiadateľ preukazuje splnenie podmienok podľa odseku 4
 
 - a) čestným vyhlásením žiadateľa, že má vysporiadané finančné vzťahy so štátnym rozpočtom, a potvrdením miestne príslušného správcu dane, nie starším ako tri mesiace, že žiadateľ nemá daňové nedoplatky, ak ide o splnenie podmienky podľa odseku 4 písm. a),
