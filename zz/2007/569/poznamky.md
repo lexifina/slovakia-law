@@ -16,6 +16,8 @@
 
 - 6) § 31 ods. 2 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
+- 7) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 8) § 21 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 8a) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
