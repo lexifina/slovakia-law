@@ -32,6 +32,8 @@
 
 - 3d) § 137 ods. 2 zákona č. 8/2009 Z. z. v znení neskorších predpisov.
 
+- 3da) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 3e) § 49a zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 465/2009 Z. z.
 
 - 3f) § 5a zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 299/2013 Z. z.
