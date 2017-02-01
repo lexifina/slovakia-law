@@ -120,6 +120,12 @@
 
 - 22g) Napríklad zákon Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
+- 22ga) § 3 ods. 1 zákona č. 523/2004 Z. z.
+
+- 22gb) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 22gc) § 18 zákona č. 315/2016 Z. z.
+
 - 22h) Napríklad zákon č. 44/1988 Zb. o ochrane a využití nerastného bohatstva (banský zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov.
 
 - 22i) Napríklad zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov, čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010).
