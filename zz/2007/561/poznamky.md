@@ -24,6 +24,10 @@
 
 - 11a) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
+- 11c) § 18 zákona č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 11d) Zákon č. 315/2016 Z. z.
+
 - 12) § 66a Obchodného zákonníka.
 
 - 14) Príloha I nariadenia (EÚ) č. 651/2014.
