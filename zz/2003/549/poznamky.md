@@ -12,9 +12,13 @@
 
 - 7) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
 
+- 7a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 8) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 9) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok.
+
+- 9a) Zákon č. 307/2016 Z. z. o upomínacom konaní a o doplnení niektorých zákonov.
 
 - 10) § 12 zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
