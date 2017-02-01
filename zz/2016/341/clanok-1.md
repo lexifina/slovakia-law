@@ -174,6 +174,18 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - výdavky (náklady) na nájomné za prenájom hnuteľnej veci, nehnuteľnosti, odplaty za poskytnutie práva na použitie alebo za použitie predmetu priemyselného vlastníctva, počítačových programov (softvér), návrhov alebo modelov, plánov, výrobno-technických a iných hospodársky využiteľných poznatkov (know-how) a odplaty za poskytnutie práva na použitie alebo za použitie autorského práva alebo práva príbuzného autorskému právu, pričom tieto výdavky (náklady) a odplaty zaplatené fyzickej osobe za príslušné zdaňovacie obdobie sa uznajú najviac do výšky časovo rozlíšenej sumy prislúchajúcej na zdaňovacie obdobie,“.
 
+- 20. § 17 sa dopĺňa odsekom 39, ktorý znie:
+
+- „(39)
+
+- Základ dane držiteľa motorového vozidla podľa osobitného predpisu,<sup>80aca</sup>) ktorý do jedného roka od zápisu motorového vozidla do evidencie vozidiel v Slovenskej republike nevykoná prevod držby motorového vozidla a zároveň najneskôr do 15 dní po uplynutí tejto lehoty neuhradí poplatok podľa osobitného predpisu<sup>80acb</sup>) vo výške zodpovedajúcej sume poplatku pri prvej evidencii vozidla, sa v zdaňovacom období, v ktorom uplynie lehota na úhradu poplatku podľa osobitného predpisu,<sup>80acb</sup>) zvyšuje o výdavky na obstaranie, technické zhodnotenie, prevádzkovanie, opravy a udržiavanie motorového vozidla uplatnené v zdaňovacom období, v ktorom došlo k zápisu motorového vozidla do evidencie vozidiel v Slovenskej republike. Počnúc zdaňovacím obdobím nasledujúcim po zdaňovacom období, v ktorom došlo k zápisu motorového vozidla do evidencie vozidiel v Slovenskej republike, sa základ dane držiteľa motorového vozidla<sup>80aca</sup>) zvyšuje o výdavky na obstaranie, technické zhodnotenie, prevádzkovanie, opravy a udržiavanie motorového vozidla uplatnené v základe dane, a to za každé zdaňovacie obdobie až do zdaňovacieho obdobia predchádzajúceho zdaňovaciemu obdobiu, v ktorom dôjde k úhrade poplatku podľa osobitného predpisu<sup>80acb</sup>) vo výške zodpovedajúcej sume poplatku pri prvej evidencii vozidla. Držiteľ motorového vozidla<sup>80aca</sup>) do zdaňovacieho obdobia, ktoré predchádza zdaňovaciemu obdobiu, v ktorom dôjde k úhrade poplatku podľa osobitného predpisu<sup>80acb</sup>) vo výške zodpovedajúcej sume poplatku pri prvej evidencii vozidla, nemôže pri motorovom vozidle, pri ktorom nie je tento poplatok uhradený podľa osobitného predpisu,<sup>80acb</sup>) uplatniť prerušenie odpisovania podľa § 22 ods. 9.“.
+
+  - Poznámky pod čiarou k odkazom 80aca a 80acb znejú:
+
+  - „<sup>80aca</sup>) Položka 65 písm. d) sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 342/2016 Z. z.
+
+  - <sup>80acb</sup>) Šiesty bod poznámok k položke 65 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. v znení zákona č. 342/2016 Z. z.“.
+
 - 21. V § 18 odsek 1 znie:
 
 - „(1)
@@ -281,6 +293,8 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
   - „<sup>103aa</sup>) § 659 až 662 Občianskeho zákonníka v znení neskorších predpisov.“.
 
 - 29. V § 21 ods. 2 sa vypúšťa písmeno o) vrátane poznámky pod čiarou k odkazu 105a, ktorá znie: „<sup>105a</sup>) § 87 až 89 zákona č. 371/2014 Z. z.“.
+
+- 30. V § 25 ods. 3 sa za slová „ods. 34“ vkladajú slová „a 39“.
 
 - 31. V § 32a ods. 1 písm. a) štvrtý bod znie:
 
@@ -450,7 +464,13 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - (9)
 
-- Pri určení základu dane podľa § 43 ods. 5 písm. d) a § 51e ods. 2 a 3 v znení účinnom od 1. januára 2017 sa za hodnotu splateného vkladu obstaraného do 31. decembra 2015 považuje hodnota splateného vkladu ustanovená podľa predpisu účinného do 31. decembra 2015 a posudzovaná za každý vyrovnací podiel a podiel na likvidačnom zostatku jednotlivo. Ak je hodnota splateného vkladu vyššia ako vyrovnací podiel alebo podiel na likvidačnom zostatku, na rozdiel sa neprihliada.“.
+- Pri určení základu dane podľa § 43 ods. 5 písm. d) a § 51e ods. 2 a 3 v znení účinnom od 1. januára 2017 sa za hodnotu splateného vkladu obstaraného do 31. decembra 2015 považuje hodnota splateného vkladu ustanovená podľa predpisu účinného do 31. decembra 2015 a posudzovaná za každý vyrovnací podiel a podiel na likvidačnom zostatku jednotlivo. Ak je hodnota splateného vkladu vyššia ako vyrovnací podiel alebo podiel na likvidačnom zostatku, na rozdiel sa neprihliada.
+
+- § 52zj
+
+- Prechodné ustanovenie k úpravám účinným od 1. februára 2017
+
+- Ustanovenia § 17 ods. 39 a § 25 ods. 3 v znení účinnom od 1. februára 2017 sa použijú pri motorovom vozidle evidovanom v evidencii vozidiel v Slovenskej republike po 31. januári 2017.“.
 
 - 43. Príloha č. 2 sa dopĺňa ôsmym bodom, ktorý znie:
 
