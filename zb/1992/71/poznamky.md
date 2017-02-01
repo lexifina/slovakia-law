@@ -26,6 +26,8 @@
 
 - 3cab) § 430 až 437 Správneho súdneho poriadku.
 
+- 3cac) § 14 ods. 2 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov v znení zákona č. 87/2015 Z. z.
+
 - 3cb) Nariadenie Rady (ES) č. 4/2009 z 18. decembra 2008 o právomoci, rozhodnom práve, uznávaní a výkone rozhodnutí a o spolupráci vo veciach vyživovacej povinnosti (Ú. v. EÚ L 7, 10. 1. 2009) v platnom znení.
 
 - 3d) Zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
@@ -78,7 +80,7 @@
 
 - 7e) § 43 a 44 zákona č. 305/2013 Z. z.
 
-- 7f) § 3 písm. c) zákona č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
+- 7f) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 7g) Čl. 106 Zmluvy o fungovaní Európskej únie.
 
