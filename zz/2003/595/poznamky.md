@@ -338,6 +338,10 @@
 
 - 80ac) § 19 zákona č. 61/2015 Z. z.
 
+- 80aca) Položka 65 písm. d) sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 342/2016 Z. z.
+
+- 80acb) Šiesty bod poznámok k položke 65 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. v znení zákona č. 342/2016 Z. z.
+
 - 80ad) § 25 ods. 1 písm. d) prvý bod zákona č. 431/2002 Z. z.
 
 - 80b) § 16 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
