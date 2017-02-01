@@ -70,6 +70,12 @@
 
 - 14a) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
+- 15) § 3 ods. 1 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
+
+- 15a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 15b) § 18 zákona č. 315/2016 Z. z.
+
 - 16) § 43 a nasl. Občianskeho zákonníka.
 
 - 16a) Napríklad zákon č. 111/1990 Zb. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. v znení neskorších predpisov.
