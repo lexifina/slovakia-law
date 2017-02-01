@@ -57,3 +57,5 @@
 (10) Osobitné predpisy v oblasti štátnej pomoci nie sú týmto zákonom dotknuté.
 
 (11) Pri nakladaní s cennými papiermi a majetkovými podielmi na právnických osobách, dôsledkom ktorého je zmena vlastníctva, musí vyšší územný celok postupovať podľa odsekov 1 až 7, ak tento postup nevylučuje osobitný predpis.<sup>1</sup>)
+
+(12) Fyzická osoba a právnická osoba, ktorá nie je subjektom verejnej správy,<sup>19ga</sup>) ktorá má povinnosť zapisovať sa do registra partnerov verejného sektora,<sup>19gb</sup>) môže byť nadobúdateľom majetku vyššieho územného celku podľa tohto zákona len vtedy, ak je zapísaná v registri partnerov verejného sektora.<sup>19gc</sup>)
