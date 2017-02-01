@@ -646,7 +646,7 @@
 
 - 86dc) § 4 ods. 2, § 14 ods. 5 a 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. v znení zákona č. 394/2011 Z. z.
 
-- 86dd) § 134a až 134d zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2015 Z. z.
+- 86dd) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
 - 86de) § 22 ods. 2 zákona č. 136/2001 Z. z. v znení neskorších predpisov.
 
