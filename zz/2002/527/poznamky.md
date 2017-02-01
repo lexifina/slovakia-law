@@ -48,4 +48,6 @@
 
 - 16) Napríklad Občiansky súdny poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z., zákon Slovenskej národnej rady č. 511/1992 Zb.
 
+- 17) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 18) § 553 až 553c Občianskeho zákonníka.
