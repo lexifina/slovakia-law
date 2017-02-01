@@ -58,4 +58,10 @@
 
 - 25) § 116 Občianskeho zákonníka.
 
+- 25a) § 3 ods. 1 zákona č. 523/2004 Z. z.
+
+- 25b) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 25c) § 18 zákona č. 315/2016 Z. z.
+
 - 26) Občiansky zákonník, Obchodný zákonník.
