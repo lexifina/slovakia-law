@@ -60,7 +60,9 @@
 
 - 17) § 19 a 22 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 17b) § 35 ods. 1 a § 39a ods. 7 a 8 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 17a) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 17b) § 4 a Tretia časť zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
 
 - 19) § 116 Občianskeho zákonníka.
 

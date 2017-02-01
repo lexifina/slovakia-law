@@ -8,7 +8,7 @@
 
 - a) údaje podľa § 25,
 
-- b) číslo povolenia,
+- b) číslo povolenia; ak ide o tkanivové zariadenie, aj kód tkanivového zariadenia Európskej únie,
 
 - c) dátum vydania povolenia,
 
