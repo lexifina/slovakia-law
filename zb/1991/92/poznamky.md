@@ -64,6 +64,10 @@
 
 - 8e) § 16 ods. 2 zákona Slovenskej národnej rady č. 474/1990 Zb. v znení neskorších predpisov.
 
+- 8k) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 8l) § 18 zákona č. 315/2016 Z. z.
+
 - 9) § 163 ods. 1 písm. e) Obchodného zákonníka.
 
 - 10) § 489 až 496 Obchodného zákonníka.
