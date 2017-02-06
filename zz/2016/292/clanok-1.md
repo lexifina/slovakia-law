@@ -38,11 +38,19 @@ Z. z., zákona č. 39/2015 Z. z., zákona č. 117/2015 Z. z., zákona č. 253/20
 
 - 9. V § 23 ods. 2 sa za slovami „§ 70 ods. 1 písm. a)“ vypúšťa čiarka a slová „§ 102 ods. 1 písm. a) a b)“.
 
+- 10. V § 28 ods. 3 písm. e) sa vypúšťajú slová „výplaty úrokových výnosov, splatenia menovitej hodnoty,“.
+
+- 11. V § 28 ods. 3 sa vypúšťa písmeno f).
+
+  - Doterajšie písmená g) až l) sa označujú ako písmená f) až k).
+
 - 12. V § 28 ods. 3 písm. g) sa na konci pripájajú tieto slová: „alebo na účel plnenia povinností podľa osobitných predpisov,<sup>40</sup>) alebo centrálny depozitár na nevyhnutný čas na účel nápravy zisteného nesúladu v evidencii“.
 
   - Poznámka pod čiarou k odkazu 40 znie:
 
   - „<sup>40</sup>) Napríklad zákon č. 289/2016 Z. z. o vykonávaní medzinárodných sankcií.“.
+
+- 13. V § 28 ods. 4 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak osoba podľa odseku 3 písm. a), g) a i) neuvedie v príkaze označenie cenných papierov a počet kusov cenného papiera, príkaz sa vzťahuje na všetky cenné papiere evidované na účte majiteľa v čase podania príkazu.“ a v druhej vete sa slová „všetky náležitosti“ nahrádzajú slovami „náležitosti najmenej v rozsahu prvej vety“.
 
 - 14. V § 28 ods. 5 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ktorý vedie emisiu v registri emitenta.“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Ak sa pozastavenie práva nakladať vzťahuje na celú emisiu, ktorej cenné papiere sú evidované na držiteľskom účte centrálneho depozitára, je centrálny depozitár povinný zaregistrovať pozastavenie práva nakladať v evidencii, ktorú vedie podľa § 105c na základe oznámenia centrálneho depozitára, ktorý vedie register emitenta; oznámenie môže byť realizované elektronickou formou a musí obsahovať údaje v rovnakom rozsahu, ako boli uvedené v príkaze na registráciu pozastavenia práva nakladať.“.
 
@@ -61,6 +69,18 @@ Z. z., zákona č. 39/2015 Z. z., zákona č. 117/2015 Z. z., zákona č. 253/20
 - „(4)
 
 - Emitent, ktorého cenné papiere sú prijaté na obchodovanie na regulovanom trhu alebo na inom obchodnom mieste, môže uzavrieť zmluvu podľa odseku 1 len s centrálnym depozitárom alebo so zahraničným centrálnym depozitárom, ktorý vykonáva túto činnosť.“.
+
+- 21. V § 47 ods. 1 písmeno c) znie:
+
+- „c)
+
+- označenie založeného cenného papiera obsahujúce ISIN pri zaknihovanom cennom papieri alebo pri listinnom cennom papieri označenie založeného cenného papiera obsahujúce druh a formu cenného papiera, identifikačné číslo, obchodné meno alebo názov a sídlo emitenta, ak je právnickou osobou, alebo meno a priezvisko a trvalý pobyt emitenta, ak je fyzickou osobou,“.
+
+- 22. V § 47 odsek 2 znie:
+
+- „(2)
+
+- Centrálny depozitár je povinný na písomnú žiadosť právnickej osoby alebo fyzickej osoby vydať výpis z registra záložných práv v rozsahu údajov podľa odseku 1 písm. a), c), f) a h), pričom výpis môže obsahovať aj ďalšie údaje z registra emitenta.“.
 
 - 23. V § 50 odseky 2 a 3 znejú:
 
