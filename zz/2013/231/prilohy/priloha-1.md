@@ -6,43 +6,23 @@ Príloha č. 1 k vyhláške č. 231/2013 Z. z.
 
   - podľa osobitného predpisu<sup>6</sup>)
 
-  - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/termíny
+  - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/ termíny
 
-  - Správa o emisiách z veľkých spaľovacích zariadení | Informácie o veľkých spaľovacích zariadeniach za uplynulé tri roky vrátane údajov o a) celkovom MTP spaľovacieho zariadenia [MW], b) druhu spaľovacieho zariadenia (kotol, plynová turbína, zážihový motor, vznetový motor, iné), c) dátume uvedenia do prevádzky spaľovacieho zariadenia, d) celkových ročných emisiách TZL, SO<sub>2</sub>a NOx [t/rok], e) počte prevádzkovaných hodín [h/rok], f) druhoch spaľovaných palív, g) tepelnom vstupe dodanom v každom druhu paliva [TJ/rok]. Osobitne sa uvedú údaje o rafinériách. | Každé 3 roky, /do 12 mesiacov od konca príslušného trojročného obdobia/
+  - Správa o veľkých spaľovacích zariadeniach | a) celkový MTP spaľovacieho zariadenia [MW], b) druh spaľovacieho zariadenia (kotol, plynová turbína, zážihový motor, vznetový motor, iné), c) dátum uvedenia spaľovacieho zariadenia do prevádzky, d) celkové ročné emisie TZL, SO<sub>2</sub> a NO<sub>X</sub> [t/rok], e) počet prevádzkovaných hodín [h/rok], f) druh spaľovaných palív, g) tepelný vstup dodaný v každom druhu paliva [TJ/rok], h) údaje uvedené v písmenách a) až g) o zariadeniach, na ktoré sa vzťahujú prechodné opatrenia podľa § 15a ods. 1 zákona (prechodný národný program, osobitný režim pre zariadenia CZT, osobitný režim pre spaľovacie zariadenia určené na dožitie), i) počet prevádzkových hodín zariadení zaradených v osobitnom režime na dožitie podľa § 15a ods. 1 písm. c) zákona, j) podiel výroby využiteľného tepla zo zariadení zaradených do osobitného režimu CZT podľa § 15a ods. 1 písm. b) zákona, ktoré sa dodalo vo forme pary alebo teplej vody do verejnej siete na diaľkové vykurovanie, vyjadrený ako plávajúci päťročný priemer, k) počet prevádzkových hodín za uplynulý rok vyjadrených ako plávajúci päťročný priemer za zariadenia zaradené v obmedzenom prevádzkovom režime, l) obsah síry v používanom domácom tuhom palive a dosiahnutý stupeň odsírenia, a to ako priemer za každý mesiac pre zariadenia, pre ktoré platí stupeň odsírenia; pri prvom uvedení tejto informácie sa oznámi aj technické odôvodnenie nemožnosti dodržiavať emisný limit vyjadrený ako koncentrácia SO<sub>2</sub>. | Každoročne do 31. marca
 
-  - Správa o spaľovacích zariadeniach v OPR | Informácie o spaľovacích zariadeniach zaradených v OPR vrátane údajov o a) počte odprevádzkovaných hodín za uplynulý rok vyjadrených ako plávajúci päťročný priemer, b) určených emisných limitoch pre SO<sub>2</sub> a NOX. | Každoročne /do 30. septembra/
-
-  - Správa o spaľovacích zariadeniach, ktoré uplatňujú stupeň odsírenia | Informácie o spaľovacích zariadeniach, ktoré uplatňujú stupeň odsírenia za uplynulý rok, vrátane údajov o a) obsahu síry v použitom domácom tuhom palive, b) dosiahnutej koncentrácii SO<sub>2</sub>a stupni odsírenia. Ak ide o 1. report, ako príloha správa, ktorou sa preukáže, že zariadenie vzhľadom na povahu paliva nie je schopné plniť emisný limit pre SO<sub>2</sub>. | Každoročne /do 30. septembra/
-
-  - Správa o zariadeniach spaľujúcich tuhé palivo s obsahom VOC < 10 % (v období do konca roku 2016) | Informácie o zariadeniach spaľujúcich tuhé palivo s obsahom VOC < 10 % vrátane údajov o a) obsahu VOC v spaľovanom palive, b) určenom emisnom limite NO<sub>x</sub>. | Každoročne /do 30. septembra/
-
-  - Správy o plnení prechodných opatrení | PNP SR Monitorovanie plnenia národných emisných stropov pre PNP za uplynulý rok. | Každoročne od roku 2016 počas uplatňovania prechodného opatrenia
-
-  - | Osobitný režim pre zariadenia CZT Zoznam zariadení v osobitnom režime pre zariadenia CZT vrátane údajov za uplynulý rok o podiele výroby využiteľného tepla z každého zariadenia, ktoré sa dodalo vo forme pary alebo teplej vody do verejnej siete na diaľkové vykurovanie, vyjadrenom ako plávajúci päťročný priemer. |
-
-  - | Osobitný režim pre spaľovacie zariadenia určené na dožitie Zoznam zariadení v osobitnom režime na dožitie vrátane údajov o počte prevádzkovaných hodín za konkrétne spaľovacie zariadenie. |
-
-  - Správa o spaľovacích zariadeniach v režime s ukončením prevádzky do 20 000 h (1. 1. 2008 – 31.12. 2015) | Počet prevádzkovaných hodín od 1. 1. 2008 a zvyšných prevádzkových hodín do ukončenia prevádzky spaľovacieho zariadenia. | Každoročne počas uplatňovania daného režimu
-
-  - Oznámenie o spaľovacích zariadeniach zaradených v osobitných režimoch | Pre zariadenia v osobitnom režime CZT Zoznam veľkých spaľovacích zariadení vrátane týchto údajov: a) celkový menovitý tepelný príkon spaľovacieho zariadenia, b) druhy spaľovaných palív, c) emisné limity pre TZL, SO<sub>2</sub>, NOX. | Do 1. januára 2016
-
-  - | Pre spaľovacie zariadenia určené na dožitie Zoznam veľkých spaľovacích zariadení v režime na dožitie vrátane týchto údajov: a) identifikačné údaje o zariadení, b) celkový menovitý tepelný príkon spaľovacieho zariadenia, c) druhy spaľovaných palív, d) emisné limity pre TZL, SO<sub>2</sub>, NOX. | Do 1. januára 2016
-
-  - | O zmene v PNP Informácia o zmene emisných stropov v PNP. | Bezodkladne
+  - Oznámenie o spaľovacích zariadeniach zaradených v PNP | Oznámenie zmeny PNP | Bezodkladne
 
   - Oznámenie o uplatnení výnimky z emisných limitov | Pre nedostatok nízkosírneho paliva. | Bezodkladne
 
   - | Pri prerušení dodávky plynu, ak ide o zariadenie, ktoré používa v riadnej prevádzke len plynné palivá. | Bezodkladne
 
+  - Vysvetlivky:
+
   - CZT – zariadenia centrálneho zásobovania teplom
 
   - MTP – menovitý tepelný príkon
 
-  - OPR – obmedzený prevádzkový režim
-
   - PNP – prechodný národný program
-
-  - VOC – prchavé organické zlúčeniny
 
   - 2. SPAĽOVNE ODPADOV A ZARIADENIA NA SPOLUSPAĽOVANIE ODPADOV
 
@@ -74,23 +54,101 @@ Príloha č. 1 k vyhláške č. 231/2013 Z. z.
 
   - | Na plnenie do skladovacích zariadení na čerpacích staniciach, ktoré boli realizované alebo sa plánujú prijať, a dôvody na ich prijatie. | Bezodkladne
 
-  - 5. NÁRODNÉ EMISNÉ STROPY ZNEČISŤUJÚCICH LÁTOK
+  - 5. NÁRODNÉ ZÁVÄZKY ZNIŽOVANIA ZNEČISŤOVANIA OVZDUŠIA
 
-  - podľa § 4 ods. 4 zákona
+    - Inventúry emisií a projekcie emisií podľa § 23 písm. h) zákona
 
-  - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/ termíny
+  - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/ termíny na podávanie správ
 
-  - Národná emisná inventúra | Konečné inventúry za predminulý rok. Predbežné emisné inventúry za predchádzajúci rok. | Každoročne /do 31. decembra/
+  - Národná inventúra emisií - základný rozsah | Podľa tabuľky A | Každoročne do 15. februára<sup>9</sup>)
 
-  - Emisné projekcie | Emisné projekcie vrátane informácií o kľúčových socio-ekonomických predpokladoch použitých pri ich príprave. | Každoročne /do 31. decembra/
+  - Národná inventúra emisií - osobitný rozsah | Podľa tabuľky B | Každoročne do 15. februára,<sup>9</sup>) ak sú údaje dostupné
+
+  - Priestorovo členené národné inventúry emisií a inventúry veľkých bodových zdrojov | Podľa tabuľky C | Každé 4 roky do 1. mája
+
+  - Projekcie emisií | Podľa tabuľky C Emisné projekcie vrátane informácií o kľúčových socio-ekonomických predpokladoch použitých pri ich príprave | Každé 2 roky do 15. marca
+
+  - Informatívne správy o inventúrach | Podľa tabuľky D | Každoročne do 15. marca
+
+  - Národné programy riadenia znečisťovania ovzdušia | Postup minimalizovania antropogénnych emisií na účel dosiahnutia takej úrovne kvality ovzdušia, ktorá nemá výrazný nepriaznivý vplyv na ľudské zdravie a životné prostredie a nepredstavuje pre ne riziko | Do 1. apríla 2019 Do 2 mesiacov po každej aktualizácii
+
+  - Poloha monitorovacích miest a súvisiace ukazovatele, ktoré sa používajú na monitorovanie vplyvov znečistenia ovzdušia | Opis monitorovacích plôch, kde sa sleduje vplyv znečistenia ovzdušia na ekosystémy | Každé 4 roky do 1. júla 1. podanie do 1. júla 2018
+
+  - Monitorované údaje | Monitorované údaje o vplyve znečistenia ovzdušia na ekosystémy | Každé 4 roky do 1. júla 1. podanie do 1. júla 2019
+
+    - A. Požiadavky na národné inventúry emisií – základný rozsah
+
+    - Predmet | Znečisťujúce látky | Časové rady | Lehoty/ termíny na podávanie správ
+
+    - Celkové národné emisie podľa kategórie zdroja<sup>1</sup>) NFR<sup>2</sup>) | - SO<sub>2</sub>, NO<sub>x</sub>, NMVOC, NH<sub>3</sub>, CO - Ťažké kovy [Cd, Hg, Pb]<sup>3</sup>) - POP<sup>4</sup>) [PAH celkovo<sup>5</sup>), benzo(a)pyrén, benzo(b)fluorantén, benzo(k)fluorantén, indeno(1,2,3-c,d)pyrén, dioxíny/furány, PCB<sup>6</sup>), HCB<sup>7</sup>)] | Ročne, od roku 1990 do roku nahlasovania mínus 2 (X-2) | Každoročne do 15. februára<sup>9</sup>)
+
+    - Celkové národné emisie podľa kategórie zdroja<sup>1</sup>) NFR<sup>2</sup>) | - PM<sub>2,5</sub>, PM<sub>10</sub><sup>8</sup>) a BC, ak je k dispozícii | Ročne, od roku 2000 do roku nahlasovania mínus 2 (X-2) | Každoročne do 15. februára<sup>9</sup>)
+
+    - Vysvetlivky:
+
+    - 1) Nomenklatúra na podávanie správ podľa osobitného predpisu.<sup>11a</sup>)
+
+    - 2) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v príručke EMEP/EEA pre emisnú inventúru znečisťujúcich látok. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
+
+    - 3) Cd (kadmium), Hg (ortuť), Pb (olovo).
+
+    - 4) POP (perzistentné organické látky).
+
+    - 5) PAH (polycyklické aromatické uhľovodíky).
+
+    - 6) PCB (polychlórované bifenyly).
+
+    - 7) HCB (hexachlórbenzén).
+
+    - 8) Častice PM<sub>10</sub> sú častice s aerodynamickým priemerom 10 µm alebo menším.
+
+    - Častice PM<sub>2,5</sub> sú častice s aerodynamickým priemerom 2,5 µm alebo menším.
+
+    - 9) Národné inventúry emisií, ktoré je potrebné v dôsledku chýb vypracovať znovu a ktoré obsahujú relevantné vysvetlenie vykonaných zmien, sa predkladajú najneskôr do štyroch týždňov od vykonania zmien.
+
+    - B. Požiadavky na národné inventúry emisií – osobitný rozsah
+
+    - Predmet | Znečisťujúce látky | Časové rady | Lehoty/ termíny na podávanie správ
+
+    - Celkové národné emisie podľa kategórie zdroja NFR<sup>1</sup>) | - Ťažké kovy [As, Cr, Cu, Ni, Se a Zn a ich zlúčeniny]<sup>2</sup>) - TZL<sup>3</sup>) | Ročne, od roku 1990 (v prípade TZL od roku 2000) do roku nahlasovania mínus 2 (X-2) | Každoročne do 15. februára<sup>9</sup>)
+
+    - Vysvetlivky:
+
+    - 1) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v EMEP/EEA príručke pre emisnú inventúru znečisťujúcich látok. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
+
+    - 2) As (arzén), Cr (chróm), Cu (meď), Ni (nikel), Se (selén), Zn (zinok).
+
+    - 3) TZL (celkové suspendované častice).
+
+    - C. Požiadavky na priestorovo členené národné inventúry emisií a inventúry veľkých bodových zdrojov a národné projekcie emisií
+
+    - Predmet | Znečisťujúce látky | Časové rady/cieľové roky | Lehoty/ termíny na podávanie správ
+
+    - Údaje z národnej siete o emisiách podľa kategórie zdroja (GNFR) | - SO<sub>2</sub>, NO<sub>x</sub>, NMVOC, CO, NH<sub>3</sub>, PM<sub>10</sub>, PM<sub>2,5</sub> - ťažké kovy (Cd, Hg, Pb) - POP (PAH celkovo, HCB, PCB, dioxíny/furány) - BC, ak je k dispozícii | Každé 4 roky za rok nahlasovania mínus 2 (X-2) | Každé 4 roky do 1. mája<sup>1</sup>)
+
+    - Veľké bodové zdroje (LPS) podľa kategórie zdroja (GNFR) | - SO<sub>2</sub>, NO<sub>x</sub>, NMVOC, CO, NH<sub>3</sub>, PM<sub>10</sub>, PM<sub>2,5</sub> - ťažké kovy (Cd, Hg, Pb) - POP (PAH celkovo, HCB, PCB, dioxíny/furány) - BC, ak je k dispozícii | Každé 4 roky za rok nahlasovania mínus 2 (X-2) | Každé 4 roky do 1. mája<sup>1</sup>)
+
+    - Projekcie emisií podľa súhrnu NFR | - SO<sub>2</sub>, NO<sub>x</sub>, NH<sub>3</sub>, NMVOC, PM<sub>2,5</sub> a BC, ak je k dispozícii | Každé 2 roky, vzťahuje sa na projekčné roky 2020, 2025, 2030 a roky 2040 a 2050, ak sú k dispozícii | Každé 2 roky do 15. marca
+
+    - Vysvetlivky:
+
+    - 1) Priestorovo členené národné inventúry emisií a inventúry veľkých bodových zdrojov, ktoré je potrebné v dôsledku chýb vypracovať znovu a ktoré obsahujú relevantné vysvetlenie vykonaných zmien, sa predkladajú do štyroch týždňov od vykonania zmien.
+
+    - D. Požiadavky na podávanie výročnej informatívnej správy o inventúrach
+
+    - Predmet | Znečisťujúce látky | Časové rady/cieľové roky | Lehoty/ termíny na podávanie správ
+
+    - Informatívna správa o inventúrach | - SO<sub>2</sub>, NO<sub>x</sub>, NMVOC, NH<sub>3</sub>, CO, PM<sub>2,5</sub>, PM<sub>10</sub>, - ťažké kovy (Cd, Hg, Pb) a BC - POP (PAH celkovo, benzo(a)pyrén, benzo(b)fluorantén, benzo(k)fluorantén, indeno(1,2,3-cd)pyrén, dioxíny/furány, PCB, HCB) - ťažké kovy (As, Cr, Cu, Ni, Se a Zn a ich zlúčeniny), ak sú k dispozícii, a TZL | Všetky roky (ako sa uvádza v tabuľkách A, B, C) | Každoročne do 15. marca
+
+    - .
 
   - 6. KVALITA PALÍV
 
-  - podľa osobitného predpisu<sup>12</sup>)
+  - podľa § 14 ods. 3 zákona a osobitného predpisu<sup>12</sup>)
 
   - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/ termíny
 
-  - Správa o národných údajoch o kvalite palív | Obsah správy: a) národné údaje o kvalite palív, b) celkový objem automobilového benzínu a motorovej nafty predávaných na území Slovenskej republiky, c) predávaný objem bezolovnatého automobilového benzínu a motorovej nafty s obsahom síry maximálne 10 mg/kg, d) dostupnosť automobilového benzínu a motorovej nafty s obsahom síry maximálne 10 mg/kg predávaných na vhodne vyváženom zemepisnom základe. | Každoročne /do 30. júna/
+  - Správa o národných údajoch o kvalite palív | Obsah správy: a) národné údaje o kvalite palív, b) celkový objem automobilového benzínu a motorovej nafty predávaných na území Slovenskej republiky, c) predávaný objem bezolovnatého automobilového benzínu a motorovej nafty s obsahom síry maximálne 10 mg/kg, d) dostupnosť automobilového benzínu a motorovej nafty s obsahom síry maximálne 10 mg/kg predávaných na vhodne vyváženom zemepisnom základe. | Každoročne do 31. augusta
 
   - Oznámenie o prijatí osobitných ustanovení | Zavedenie automobilového benzínu s maximálnym obsahom síry 10 mg/kg pre najvzdialenejšie regióny. | Bezodkladne
 
@@ -143,3 +201,17 @@ Príloha č. 1 k vyhláške č. 231/2013 Z. z.
   - Informácie o programoch na zlepšenie kvality ovzdušia | Informácie o programoch na zlepšenie kvality ovzdušia. | Do dvoch rokov od konca kalendárneho roka, v ktorom bolo prvé prekročenie
 
   - Informácie o informačnom a výstražnom prahu | Oznámenie o predbežných informáciách týkajúcich sa zaznamenaných úrovní a trvania období, počas ktorých bol výstražný alebo informačný prah prekročený. | Mesačne /od 1. 4. do 30. 9./
+
+  - 9. STREDNE VEĽKÉ SPAĽOVACIE ZARIADENIA
+
+  - Predmet správy, oznámenia | Údaje, ktoré treba oznamovať | Lehoty/ termíny
+
+  - Správa o stredne veľkých spaľovacích zariadeniach | 1. Kvalitatívne a kvantitatívne informácie o vykonávaní smernice, o opatreniach prijatých s cieľom overiť súlad prevádzky s ustanovenými požiadavkami a o ostatných prijatých opatreniach. 2. Odhad celkových ročných emisií SO<sub>2</sub>, NO<sub>x</sub> a TZL, podľa druhu spaľovacieho zariadenia, druhu paliva a kapacitnej triedy. | Do 1. októbra 2026 Do 1. októbra 2031
+
+  - Správa o odhade celkových ročných emisií CO | Odhad celkových ročných emisií CO a všetky dostupné informácie o koncentráciách CO zo stredne veľkých spaľovacích zariadení podľa druhu paliva a kapacitnej triedy. | Do 1. januára 2021
+
+  - Oznámenie o uplatnení výnimky z emisných limitov | Pre nedostatok nízkosírneho paliva. | Do jedného mesiaca od uplatnenia výnimky
+
+  - | Pri prerušení dodávky plynu, ak ide o zariadenie, ktoré používa v riadnej prevádzke len plynné palivá. | Do jedného mesiaca od uplatnenia výnimky
+
+  - .

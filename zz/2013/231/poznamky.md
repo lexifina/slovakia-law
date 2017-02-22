@@ -20,7 +20,9 @@
 
 - 11) Čl. 5 smernice Rady 91/692 EHS z 23. decembra 1991, ktorá štandardizuje a racionalizuje správy o vykonaní určitých smerníc, ktoré súvisia so životným prostredím (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1.).
 
-- 12) Vyhláška Ministerstva pôdohospodárstva životného prostredia a regionálneho rozvoja Slovenskej republiky č. 362/2010 Z. z., ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách.
+- 11a) Vyhláška ministra zahraničných vecí č. 5/1985 Zb. o Dohovore o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov.
+
+- 12) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 228/2014 Z. z., ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách v znení vyhlášky č. 367/2015 Z. z.
 
 - 13) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 127/2011 Z. z., ktorou sa ustanovuje zoznam regulovaných výrobkov, označovanie ich obalov a požiadavky na obmedzenie emisií prchavých organických zlúčenín pri používaní organických rozpúšťadiel v regulovaných výrobkoch.
 
