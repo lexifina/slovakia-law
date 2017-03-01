@@ -216,6 +216,8 @@
 
 - 53aab) § 61f ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 53aac) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 53ab) § 39 ods. 7 zákona č. 140/1998 Z. z. v znení zákona č. 633/2004 Z. z.
 
 - 53ac) § 12 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
@@ -268,4 +270,6 @@
 
 - 63) Zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
 
-- 64) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+- 64) § 7 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 77/2015 Z. z.
+
+- 65) § 11 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
