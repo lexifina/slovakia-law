@@ -94,7 +94,11 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - f)
 
-- ktorý je zamestnancom, za ktorého nezaplatil preddavok na poistné zamestnávateľ,“.
+- ktorý je zamestnancom, za ktorého nezaplatil preddavok na poistné zamestnávateľ,
+
+- g)
+
+- ktorému bol určený splátkový kalendár podľa osobitného predpisu.<sup>15aa</sup>)“.
 
   - Poznámka pod čiarou k odkazu 15aa znie:
 
