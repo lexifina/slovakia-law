@@ -8,7 +8,7 @@
 
 (4) Do 31. decembra 2017 je poskytovateľ oprávnený vytvoriť bezodkladne po prepustení osoby z ústavnej zdravotnej starostlivosti elektronický zdravotný záznam podpísaný elektronickým podpisom<sup>55h</sup>) v rozsahu ustanovenom osobitným predpisom, ak používa informačný systém poskytovateľa zdravotnej starostlivosti, ktorý má overenie zhody,<sup>55e</sup>) do elektronickej zdravotnej knižky; ustanovenie sa nevzťahuje na zdravotnú starostlivosť súvisiacu s tehotenstvom a pôrodom podľa osobitného predpisu.
 
-(5) Do 31. decembra 2017 je poskytovateľ oprávnený nesprístupniť elektronický zdravotný záznam v elektronickej zdravotnej knižke osobe, ktorej sa poskytuje zdravotná starostlivosť v špecializačnom odbore psychiatria alebo v špecializačnom odbore klinická psychológia, ak by jeho sprístupnenie negatívne ovplyvnilo jej liečbu.
+(5) Do 31. decembra 2017 je poskytovateľ oprávnený nesprístupniť elektronický zdravotný záznam v elektronickej zdravotnej knižke osobe, ktorej sa poskytuje zdravotná starostlivosť v špecializačnom odbore psychiatria, klinická psychológia, poradenská psychológia alebo pracovná a organizačná psychológia, ak by jeho sprístupnenie negatívne ovplyvnilo jej liečbu.
 
 (6) Do 31. decembra 2017 je zdravotnícky pracovník, ktorému bol vydaný elektronický preukaz zdravotníckeho pracovníka, povinný podpísať elektronický zdravotný záznam podľa odsekov 3 až 5 elektronickým podpisom.<sup>55h</sup>)
 
