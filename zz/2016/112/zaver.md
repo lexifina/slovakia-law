@@ -1,1 +1,0 @@
-Tomáš Borec v. r.
