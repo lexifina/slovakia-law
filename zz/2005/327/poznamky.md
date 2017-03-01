@@ -22,6 +22,8 @@
 
 - 1e) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1f) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) § 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení opatrenia Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 372/2004 Z. z.
 
 - 2a) § 3 zákona č. 601/2003 Z. z. v znení neskorších predpisov.
