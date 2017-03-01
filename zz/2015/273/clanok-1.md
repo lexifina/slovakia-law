@@ -992,6 +992,14 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 77. V § 36 ods. 4 písm. c) sa na konci pripájajú tieto slová: „alebo inou verziou rovnakého formátu elektronického dokumentu“.
 
+- 78. V § 36 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Osoba vykonávajúca konverziu je povinná vyžiadať si pred začatím vykonávania zaručenej konverzie evidenčné číslo záznamu o vykonanej zaručenej konverzii od ministerstva financií.“.
+
+  - Doterajšie odseky 5 a 6 sa označujú ako odseky 6 a 7.
+
 - 79. V § 37 ods. 1 písm. a) sa na konci pripájajú tieto slová: „a elektronický odtlačok pôvodného elektronického dokumentu,“.
 
 - 80. V § 37 ods. 1 písm. h) a ods. 2 písm. e) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak bola zaručená konverzia vykonaná automatizovaným spôsobom, tieto údaje sa neuvádzajú,“.
@@ -1018,7 +1026,11 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 88. V § 39 sa za odsek 5 vkladajú nové odseky 6 a 7, ktoré znejú:
 
-- „(7)
+- „(6)
+
+- Ministerstvo financií vedie centrálnu evidenciu záznamov o vykonanej zaručenej konverzii, ktorá je informačným systémom verejnej správy,<sup>3</sup>) a prideľuje osobám vykonávajúcim konverziu evidenčné číslo záznamu o vykonanej zaručenej konverzii. Obsahom centrálnej evidencie záznamov o vykonanej zaručenej konverzii sú údaje z evidencií záznamov o vykonanej zaručenej konverzii. Osoba vykonávajúca konverziu zasiela ministerstvu financií údaje z evidencie záznamov o vykonanej zaručenej konverzii spôsobom a v lehotách ustanovených všeobecne záväzným právnym predpisom. Ak ide o notára, pridelenie evidenčného čísla záznamu o vykonanej zaručenej konverzii a zasielanie údajov z evidencie záznamov o vykonanej zaručenej konverzii zabezpečuje Notárska komora Slovenskej republiky prostredníctvom Centrálneho informačného systému podľa osobitného predpisu.<sup>22a</sup>)
+
+- (7)
 
 - Ak osoba vykonávajúca konverziu použije na výkon zaručenej konverzie postupy, technické prostriedky a programové prostriedky, ktoré boli osvedčené znalcom alebo znaleckým ústavom v odvetví bezpečnosti a ochrany informačných systémov, predpokladá sa, že zaručená konverzia je vykonaná v súlade s podmienkami podľa § 36 ods. 1.“.
 

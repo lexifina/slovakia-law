@@ -96,11 +96,15 @@ Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
 
 - 10. V § 4 ods. 7 sa slová „odseku 3“ nahrádzajú slovami „odseku 6“.
 
+- 11. V § 7 ods. 3 sa slová „osvedčená listinná podoba elektronického odpisu opatrená osvedčovacou doložkou“ nahrádzajú slovami „súhrn údajov z informačného systému verejnej správy v listinnej podobe, ktorý je vytvorený zaručenou konverziou elektronického odpisu“.
+
 - 12. § 8 sa dopĺňa odsekom 5, ktorý znie:
 
 - „(5)
 
 - Osvedčujúca osoba je povinná zabezpečiť spracúvanie údajov a ich ochranu podľa osobitných predpisov.<sup>11</sup>)“.
+
+- 13. § 9 sa vypúšťa.
 
 - 15. Doterajší text § 11 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
 
