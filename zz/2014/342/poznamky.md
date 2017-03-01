@@ -16,6 +16,8 @@
 
 - 9) Čl. 9 delegovaného nariadenia Komisie (EÚ) č. 639/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1307/2013, ktorým sa ustanovujú pravidlá priamych platieb pre poľnohospodárov na základe režimov podpory v rámci spoločnej poľnohospodárskej politiky, a ktorým sa mení príloha X k uvedenému nariadeniu (Ú. v. EÚ L 181, 20. 6. 2014).
 
+- 9a) Čl. 32 ods. 2 nariadenia (EÚ) č. 1307/2013 v platnom znení.
+
 - 10) Čl. 45 ods. 4 druhý pododsek vykonávacieho nariadenia Komisie (EÚ) č. 809/2014 zo 17. júla 2014, ktorým sa stanovujú pravidlá uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 v súvislosti s integrovaným administratívnym a kontrolným systémom, opatreniami na rozvoj vidieka a krížovým plnením (Ú. v. EÚ L 227, 31. 07. 2014).
 
 - 11) Čl. 4 ods. 1 písm. c) bod i) nariadenia (EÚ) č. 1307/2013 v platnom znení.
@@ -30,8 +32,6 @@
 
 - 16) Čl. 12 ods. 4 delegovaného nariadenia (EÚ) č. 639/2014.
 
-- 16a) Čl. 93 ods. 3 nariadenia Európskeho parlamentu a rady (EÚ) č. 1306/2013 zo 17. decembra 2013 o financovaní, riadení a monitorovaní spoločnej poľnohospodárskej politiky a ktorým sa zrušujú nariadenia Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008 (Ú. v. L 347, 20. 12. 2013) v platnom znení.
-
 - 17) Čl. 73 ods. 3 vykonávacieho nariadenia (EÚ) č. 809/2014.
 
 - 18) Čl. 37 ods. 1 druhý pododsek delegovaného nariadenia (EÚ) č. 640/2014.
@@ -43,8 +43,6 @@
 - 21) Napríklad § 13 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 22) Čl. 4 ods. 1 písm. g) nariadenia (EÚ) č. 1307/2013 v platnom znení.
-
-- 23) Čl. 32 ods. 2 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 24) Napríklad § 13 zákona č. 543/2002 Z. z. v znení neskorších predpisov a § 35 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení zákona č. 384/2009 Z. z.
 
@@ -133,3 +131,9 @@
 - 65) § 3 ods. 2 písm. j) zákona č. 543/2007 Z. z.
 
 - 66) § 32 ods. 3 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
+
+- 69) Zákon č. 136/2000 Z. z. v znení neskorších predpisov.
+
+- Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 151/2016 Z. z., ktorou sa ustanovujú podrobnosti o agrochemickom skúšaní pôd a o skladovaní a používaní hnojív.
+
+- Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 215/2016 Z. z., ktorou sa ustanovujú podrobnosti o obhospodarovaní poľnohospodárskej pôdy v zraniteľných oblastiach.

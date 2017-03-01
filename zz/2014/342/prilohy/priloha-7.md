@@ -24,6 +24,10 @@ Príloha č. 7 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Lupina žltá | Lupinus luteus
 
+- Lupina biela | Lupinus albus
+
+- Lupina uzkolistá | Lupinus angustum folius
+
 - Mätonoh mnohokvetý | Lolium multiflorum
 
 - Mätonoh trváci | Lolium perenne)

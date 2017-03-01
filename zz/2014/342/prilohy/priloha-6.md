@@ -32,11 +32,11 @@ Príloha č. 6 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Vika siata | Vicia sativa
 
-- Vlčí bôb a jeho klony (Lupinus spp.) |
+- Lupina a jej klony (Lupinus spp.) |
 
-- Vlčí bôb biely | Lupinus albus
+- Lupina biela | Lupinus albus
 
-- Vlčí bôb žltý | Lupinus arboreus
+- Lupina žltá | Lupinus arboreus
 
 - Ostatné |
 

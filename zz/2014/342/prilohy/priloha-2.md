@@ -1,3 +1,3 @@
 Príloha č. 2 k nariadeniu vlády č. 342/2014 Z. z.
 
-- Pravidlá krížového plnenia [Príloha č. 2 k nariadeniu vlády č. 342/2014 Z. z.](../assets/39b30f7ab405b00c0535a466fbfcc46d66a37872c81f214f3211b0919ca503db.pdf)
+- Pravidlá krížového plnenia [Príloha č. 2 k nariadeniu vlády č. 342/2014 Z. z.](../assets/db07016990125a8b7d4438ce7e8a13e52c0659f6da14c25bb2dc22cb578c7e3e.pdf)
