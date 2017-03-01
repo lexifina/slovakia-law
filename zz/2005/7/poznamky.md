@@ -72,6 +72,8 @@
 
 - 21) Napríklad zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
+- 21a) § 460 až 487 Občianskeho zákonníka.
+
 - 22a) Trestný poriadok v znení neskorších predpisov.
 
 - 22b) § 5 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
@@ -83,6 +85,18 @@
 - 24) Zákon č. 231/1999 Z. z. o štátnej pomoci v znení neskorších predpisov.
 
 - 25) § 502 Obchodného zákonníka.
+
+- 25a) Zákon č. 327/2005 Z. z. o poskytovaní právnej pomoci osobám v materiálnej núdzi a o zmene a doplnení zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 8/2005 Z. z. v znení neskorších predpisov.
+
+- 25b) Zákon č. 98/2014 Z. z. o krátkodobom nájme bytu v znení zákona č. 125/2016 Z. z.
+
+- 25c) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
+
+- 25d) § 32 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 25e) § 22 zákona č. 527/2002 Z. z.
+
+- 25f) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/848 z 20. mája 2015 o insolvenčnom konaní (Ú. v. EÚ L 141, 5. 6. 2015).
 
 - 26) Nariadenie Rady (ES) č. 1346/2000 z 29. mája 2000 o konkurznom konaní (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 01; Ú. v. ES L 160, 30. 6. 2004) v platnom znení.
 

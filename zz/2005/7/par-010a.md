@@ -48,6 +48,8 @@
 
   - 18. informácie o lehotách pre účastníkov konania na vykonanie úkonov v konaniach podľa tohto zákona,
 
+  - 19. miera uspokojenia zabezpečených veriteľov a nezabezpečených veriteľov v konaniach vedených podľa druhej a tretej časti tohto zákona.
+
 - b) zoznam úpadcov v konkurze a zoznam dlžníkov v reštrukturalizačnom konaní v rozsahu údajov podľa písmena a) štvrtého bodu,
 
 - c) ďalšie informácie o konaniach podľa tohto zákona zverejnené v Obchodnom vestníku,
@@ -55,3 +57,5 @@
 - d) informácie o službách obstarávaných správcom.
 
 (3) Údaje zverejnené v registri úpadcov majú štruktúrovanú podobu, ktorá umožňuje ich vyhľadávanie a automatizované spracovanie.
+
+(4) Ministerstvo zverejňuje na svojom webovom sídle štatistické údaje o konaniach podľa tohto zákona, a to najmä údaje o priemernej dĺžke týchto konaní, priemernej miere uspokojenia veriteľov a priemerných nákladoch týchto konaní.
