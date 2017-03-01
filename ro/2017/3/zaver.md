@@ -1,0 +1,1 @@
+Ján Breja v. r.

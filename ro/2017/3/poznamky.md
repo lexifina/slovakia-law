@@ -1,0 +1,1 @@
+- 1) Čl. 3 vykonávacieho nariadenia Komisie (EÚ) 2015/909 z 12. júna 2015 o metódach výpočtu nákladov, ktoré vznikajú priamo ako výsledok prevádzky vlakových služieb (Ú. v. EÚ L 148, 13.6.2015).
