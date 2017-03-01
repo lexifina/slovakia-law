@@ -290,6 +290,8 @@
 
 - Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 102ab) Zákon č. 7/2005 Z. z. v znení neskorších predpisov.
+
 - 102b) § 46 a 46a zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 104) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
