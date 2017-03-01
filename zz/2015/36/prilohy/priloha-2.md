@@ -1,6 +1,6 @@
 Príloha č. 2 k nariadeniu vlády č. 36/2015 Z. z.
 
-- MINIMÁLNY POČET VYSIATYCH ALEBO VYSADENÝCH KUSOV DRUHOV ZELENINY NA 1 ha A MINIMÁLNA HMOTNOSŤ OSIVA NA ÚČELY PLATBY NA PESTOVANIE VYBRANÝCH DRUHOV ZELENINY S VEĽMI VYSOKOU PRÁCNOSŤOU | Druh zeleniny | Minimálny počet kusov druhov zeleniny na 1 ha (v kusoch) | Minimálna hmotnosť osiva (v gramoch)
+- Minimálny počet kusov druhov zeleniny na 1 ha a minimálna hmotnosť osiva na účely platby na pestovanie vybraných druhov zeleniny s veľmi vysokou prácnosťou | Druh zeleniny | Minimálny počet kusovdruhov zeleniny na 1 ha (v kusoch) | Minimálnahmotnosť osiva (v gramoch)
 
 - Cibuľová zelenina | Cibuľa | 600 000 | 2 280
 
@@ -28,7 +28,7 @@ Príloha č. 2 k nariadeniu vlády č. 36/2015 Z. z.
 
 - | Špargľa | 20 000 | 400
 
-- Plodová zelenina | Paprika | 65 000 | 390
+- Plodová zelenina | Paprika | 40 000 | 240
 
 - | Uhorky nakladačky | 30 000 | 750
 

@@ -1,6 +1,6 @@
 Príloha č. 1 k nariadeniu vlády č. 36/2015 Z. z.
 
-- MINIMÁLNY POČET VYSIATYCH ALEBO VYSADENÝCH KUSOV DRUHOV ZELENINY NA 1 ha A MINIMÁLNA HMOTNOSŤ OSIVA NA ÚČELY PLATBY NA PESTOVANIE VYBRANÝCH DRUHOV ZELENINY S VYSOKOU PRÁCNOSŤOU | Druh zeleniny | Minimálny počet kusov druhov zeleniny na 1 ha (v kusoch) | Minimálnahmotnosť osiva (v gramoch)
+- Minimálny počet kusov druhov zeleniny na 1 ha a minimálna hmotnosť osiva na účely platby na pestovanie vybraných druhov zeleniny s vysokou prácnosťou | Druh zeleniny | Minimálny počet kusov druhov zeleniny na 1 ha (v kusoch) | Minimálnahmotnosť osiva (v gramoch)
 
 - Struková zelenina | Hrach | 800 000 | 200 000
 
