@@ -4,4 +4,4 @@ Príloha k zákonu č. 275/2006 Z. z.
 
   - Žiadosť o posúdenie elektronického systému zberu vyhlásení o podpore iniciatívy občanov
 
-- [Vzor](../assets/221f4e472393eea94ced721b1215f2d6419ca3f5250dd2d6314d9862a80d30e7.pdf)
+- [Vzor](../assets/32ae4f2e01e10ce4fa681677f4075dbb292a5e6293a1eede9185731a75401412.pdf)
