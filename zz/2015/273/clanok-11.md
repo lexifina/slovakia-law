@@ -106,6 +106,10 @@ Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
 
 - 13. § 9 sa vypúšťa.
 
+- 14. V § 10 ods. 1 písm. c) sa vypúšťa druhý bod.
+
+  - Doterajšie body 3 a 4 sa označujú ako body 2 a 3.
+
 - 15. Doterajší text § 11 sa označuje ako odsek 1 a dopĺňa sa odsekom 2, ktorý znie:
 
 - „(2)
