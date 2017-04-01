@@ -1,1 +1,0 @@
-Tibor Menyhart v. r.
