@@ -68,6 +68,14 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - údaje zo záznamu podľa prvého až tretieho bodu,
 
+- ac)
+
+- prevziať od držiteľa registrácie humánneho lieku humánny liek zaradený v zozname kategorizovaných liekov objednaný podľa § 23 ods. 1 písm. at) a au) na účel dodania držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni,
+
+- ad)
+
+- dodať humánny liek zaradený v zozname kategorizovaných liekov, ktorý prevzal podľa písmena ac), držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni do 48 hodín od uskutočnenia objednávky podľa § 23 ods. 1 písm. at) a au); ak má držiteľ povolenia na veľkodistribúciu humánnych liekov voči držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo nemocničnej lekárni pohľadávky za dodané lieky po uplynutí dvojnásobku zmluvne dohodnutej lehoty splatnosti, musí dodať humánny liek zaradený v zozname kategorizovaných liekov, prevzatý podľa písmena ac), len ak držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo nemocničnej lekárni uhradí cenu humánneho lieku zaradeného v zozname kategorizovaných liekov objednaného podľa § 23 ods. 1 písm. at) najneskôr pri jeho prevzatí,
+
 - ae)
 
 - vrátiť držiteľovi registrácie humánneho lieku humánny liek zaradený v zozname kategorizovaných liekov objednaný podľa § 23 ods. 1 písm. at), ktorý nedodal držiteľovi povolenia na poskytovanie lekárenskej starostlivosti, ak má držiteľ povolenia na veľkodistribúciu humánnych liekov voči držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo nemocničnej lekárni pohľadávky za dodané lieky po uplynutí dvojnásobku zmluvne dohodnutej lehoty splatnosti a ak držiteľ povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo nemocničnej lekárni neuhradí cenu humánneho lieku najneskôr pri jeho prevzatí podľa písmena ad).“.
@@ -208,6 +216,22 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - vydávať humánne lieky zaradené v zozname kategorizovaných liekov vo verejnej lekárni alebo v nemocničnej lekárni; za porušenie tejto povinnosti sa nepovažuje spätný predaj týchto liekov držiteľovi povolenia na veľkodistribúciu humánnych liekov, ktorý ich držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni dodal, ani prvý predaj humánnych liekov zaradených v zozname kategorizovaných liekov medzi držiteľmi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni na účel ich výdaja vo verejnej lekárni alebo v nemocničnej lekárni,
 
+- at)
+
+- zabezpečiť na základe lekárskeho predpisu, okrem lekárskeho predpisu, na ktorom je vyznačená poznámka „HRADÍ PACIENT“, dodanie humánnych liekov zaradených v zozname kategorizovaných liekov od držiteľa ich registrácie objednávkou uskutočnenou prostredníctvom informačného systému na zabezpečenie automatizovaného elektronického zadávania, prijímania a potvrdzovania mimoriadnych objednávok humánnych liekov zaradených v zozname kategorizovaných liekov (ďalej len „informačný systém na mimoriadne objednávanie liekov“), vytvoreného a prevádzkovaného držiteľom ich registrácie, ak nie je možné zabezpečiť dodanie humánneho lieku zaradeného v zozname kategorizovaných liekov od držiteľa povolenia na veľkodistribúciu humánnych liekov podľa § 18 ods. 1 písm. f); pri výpadku informačného systému na mimoriadne objednávanie liekov môže uskutočňovať objednávky humánnych liekov zaradených v zozname kategorizovaných liekov od držiteľa ich registrácie inou preukázateľnou formou,
+
+- au)
+
+- priložiť k objednávke podľa písmena at) lekársky predpis v anonymizovanej podobe,
+
+- av)
+
+- viesť evidenciu držiteľov povolenia na veľkodistribúciu humánnych liekov a držiteľov registrácie humánnych liekov, od ktorých prijal humánne lieky zaradené v zozname kategorizovaných liekov za kalendárny rok, uchovávať ju najmenej päť rokov a na požiadanie predložiť túto evidenciu alebo údaje z nej ministerstvu zdravotníctva v lehote určenej ministerstvom zdravotníctva v elektronickej podobe umožňujúcej automatizované spracúvanie údajov; evidencia musí obsahovať aj názov prijatého humánneho lieku zaradeného v zozname kategorizovaných liekov, kód prijatého humánneho lieku zaradeného v zozname kategorizovaných liekov a počet prijatých balení,
+
+- aw)
+
+- prevziať humánny liek zaradený v zozname kategorizovaných liekov objednaný u držiteľa ich registrácie podľa písmen at) a au) do 48 hodín od objednania,
+
 - ax)
 
 - vydať humánny liek zaradený v zozname kategorizovaných liekov dodaný podľa písmena at).“.
@@ -218,7 +242,31 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
   - 12. V § 60 sa odsek 1 dopĺňa písmenami z) až af, ktoré znejú:
 
-  - „af)
+  - „z)
+
+  - zabezpečiť vytvorenie a prevádzkovanie informačného systému na mimoriadne objednávanie liekov, ktorých je držiteľom registrácie, pričom informačný systém na mimoriadne objednávanie liekov musí poskytovať držiteľovi registrácie humánnych liekov prehľad o držiteľoch povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni, ktorým dodal humánne lieky zaradené v zozname kategorizovaných liekov, ktorých je držiteľom registrácie; informačný systém na mimoriadne objednávanie liekov obsahuje aj informáciu o tom, ktorým držiteľom povolenia na veľkodistribúciu humánnych liekov držiteľ registrácie humánneho lieku humánny liek zaradený v zozname kategorizovaných liekov dodal,
+
+  - aa)
+
+  - technicky zabezpečiť udržiavanie informačného systému na mimoriadne objednávanie liekov podľa písmena z) v nepretržitej prevádzke,
+
+  - ab)
+
+  - zabezpečiť prijímanie a potvrdzovanie objednávok humánnych liekov zaradených v zozname kategorizovaných liekov, ktorých je držiteľom registrácie, prostredníctvom informačného systému na mimoriadne objednávanie liekov podľa písmena z), a pri jeho výpadku aj objednávok uskutočnených inou preukázateľnou formou,
+
+  - ac)
+
+  - dodávať humánne lieky zaradené v zozname kategorizovaných liekov, ktorých je držiteľom registrácie, objednané podľa § 23 ods. 1 písm. at) s priloženým lekárskym predpisom podľa § 23 ods. 1 písm. au), držiteľom povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni alebo držiteľom povolenia na veľkodistribúciu humánnych liekov na účel dodania humánneho lieku držiteľom povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni do 24 hodín od prijatia objednávky; to neplatí, ak držiteľ registrácie humánneho lieku zaradeného v zozname kategorizovaných liekov má voči držiteľovi povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo nemocničnej lekárni pohľadávky za dodané lieky po uplynutí dvojnásobku zmluvne dohodnutej lehoty splatnosti alebo ak prebieha konanie o vyradení humánneho lieku objednaného podľa § 23 ods. 1 písm. at) a au) zo zoznamu kategorizovaných liekov podľa osobitného predpisu.<sup>56c</sup>)
+
+  - ad)
+
+  - oznámiť držiteľovi povolenia na veľkodistribúciu humánnych liekov čas prijatia objednávky držiteľa povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni podľa § 23 ods. 1 písm. at) s priloženým lekárskym predpisom podľa § 23 ods. 1 písm. au) pri dodaní humánneho lieku zaradeného v zozname kategorizovaných liekov držiteľovi povolenia na veľkodistribúciu humánnych liekov podľa písmena ac),
+
+  - ae)
+
+  - oznámiť ministerstvu zdravotníctva údaje o informačnom systéme na mimoriadne objednávanie liekov, ktorých je držiteľom registrácie, umožňujúce držiteľovi povolenia na poskytovanie lekárenskej starostlivosti objednávanie humánnych liekov zaradených v zozname kategorizovaných liekov podľa § 23 ods. 1 písm. at) a bezodkladne ohlásiť ministerstvu zdravotníctva každú zmenu týchto údajov; ministerstvo zdravotníctva tieto údaje zverejní na svojom webovom sídle,
+
+  - af)
 
   - viesť evidenciu držiteľov povolenia na veľkodistribúciu humánnych liekov a držiteľov povolenia na poskytovanie lekárenskej starostlivosti vo verejnej lekárni alebo v nemocničnej lekárni, ktorým dodal humánne lieky zaradené v zozname kategorizovaných liekov za kalendárny rok, uchovávať ju najmenej päť rokov a na požiadanie predložiť túto evidenciu alebo údaje z nej ministerstvu zdravotníctva v elektronickej podobe umožňujúcej automatizované spracúvanie údajov v lehote určenej ministerstvom zdravotníctva; evidencia musí obsahovať aj názov dodaného humánneho lieku zaradeného v zozname kategorizovaných liekov, kód dodaného humánneho lieku zaradeného v zozname kategorizovaných liekov a počet dodaných balení.“.
 
