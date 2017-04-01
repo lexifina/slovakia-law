@@ -52,7 +52,13 @@
 
 - 20) Napríklad § 88, 88a, 88c a 88d Trestného poriadku, § 10 zákona č. 46/1993 Z. z., § 39 č. 171/1993 Z. z., § 10 č.198/1994 Z. z., § 37 zákona č. 57/1998 Z. z., § 26 zákona č. 4/2001 Z. z., § 25 zákona č. 240/2001 Z. z.
 
-- 21) § 2 ods. 1 písm. b), c) a e) zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení zákona č. 436/2001 Z. z.
+- 21) Čl. 2 ods. 3 nariadenia Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
+
+- 21a) Čl. 2 ods. 4 nariadenia (ES) č. 765/2008.
+
+- 21b) Čl. 2 ods. 5 nariadenia (ES) č. 765/2008.
+
+- 21c) Čl. 2 ods. 6 nariadenia (ES) č. 765/2008.
 
 - 22) Napríklad zákon č. 264/1999 Z. z., zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
 
