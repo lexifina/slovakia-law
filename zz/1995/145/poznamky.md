@@ -564,14 +564,14 @@
 
 - 47ab) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 142/2000 Z. z. v znení neskorších predpisov.
+- 47ac) § 11 ods. 3 písm. a) alebo písm. b) zákona č. 264/1999 Z. z.
 
-- § 14 zákona č. 254/2011 Z. z. o prepravovateľných tlakových zariadeniach a o zmene a doplnení niektorých zákonov.
+- 47ad) § 11 ods. 3 písm. c) zákona č. 264/1999 Z. z.
 
-- 47ac) § 14 ods. 11 zákona č. 254/2011 Z. z.
+- 47ae) § 11 ods. 9 druhá veta zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
-- 47ad) § 20 ods. 1 a 2 zákona č. 474/2013 Z. z.
+- 47af) § 11 ods. 15 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
-- 47ae) § 20 ods. 11 zákona č. 474/2013 Z. z.
+- 47ag) § 11 ods. 16 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.

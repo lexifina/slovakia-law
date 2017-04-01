@@ -4964,27 +4964,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 236
 
-  - Prihláška na registráciu výrobcu, opravára alebo montážnika určených meradiel alebo prevádzkovateľa baliarne alebo dovozcu spotrebiteľských balení označených značkou „e“ podľa osobitného predpisu<sup>47aa</sup>) ....... | 33 eur
+  - Prihláška na registráciu opravára alebo montážnika určených meradiel alebo prevádzkovateľa baliarne alebo dovozcu spotrebiteľských balení označených značkou „e“ podľa osobitného predpisu<sup>47aa</sup>) ....... | 33 eur
 
     - Položka 237
 
-  - Žiadosť o |
+    - a) | Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria dokumenty podľa osobitného predpisu<sup>47ac</sup>) | 1 000 eur
 
-  - a) autorizáciu podľa osobitného predpisu<sup>47ab</sup>) ... | 330 eur
+    - b) | Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria aspoň pre jeden technický predpis z oblasti posudzovania zhody výlučne dokumenty podľa osobitného predpisu<sup>47ad</sup>) | 5 000 eur
 
-  - b) zápis zmeny podľa osobitného predpisu<sup>47ac</sup>) .... | 33 eur
+    - c) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47ae</sup>) | 330 eur
 
-    - Položka 238
+    - d) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47af</sup>) | 33 eur
 
-  - Podanie žiadosti o |
-
-  - a) autorizáciu na vykonávanie posudzovania zhody zložiek interoperability vrátane cestných zariadení podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
-
-  - b) autorizáciu na vykonávanie posudzovania vhodnosti zložiek interoperability na použitie podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
-
-  - c) autorizáciu na vykonávanie dohľadu nad posudzovaním zhody a posudzovaním vhodnosti podľa písm. a) a b) podľa osobitného predpisu<sup>47ad</sup>) ..... | 1 000 eur
-
-  - d) zmenu údajov alebo o obmedzenie rozsahu autorizácie podľa osobitného predpisu<sup>47ae</sup>) ..... | 500 eur.
+    - e) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47ag</sup>) | 330 eur
 
     - Položka 239
 
