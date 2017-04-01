@@ -1,4 +1,4 @@
-- 1a) § 44zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+- 1a) § 34, 37 a 53 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 2/2017 Z. z.
 
 - 1b) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -91,5 +91,7 @@
 - 8) § 3 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 9) § 2 zákona č. 659/2007 Z. z. v znení zákona č. 270/2008 Z. z.
+
+- 9a) Zákon č. 54/2017 Z. z. o európskom príkaze na zablokovanie účtov a o doplnení zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
 
 - 10) Nariadenie Európskeho parlamentu a Rady (ES) č. 1896/2006 z 12. decembra 2006, ktorým sa zavádza európske konanie o platobnom rozkaze (Ú. v. EÚ L 399, 30. 12. 2006) v platnom znení.

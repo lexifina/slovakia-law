@@ -12,6 +12,18 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - c) z návrhu na nariadenie alebo zrušenie neodkladného opatrenia | 33 eur.
 
+- d) z návrhu na nariadenie neodkladného opatrenia podľa osobitného predpisu,<sup>9a</sup>) ktoré sa má vykonať |
+
+- 1. čo i len sčasti v Slovenskej republike | 49,50 eura
+
+- 2. v inom členskom štáte Európskej únie | 33 eur
+
+- e) z návrhu na zrušenie alebo zmenu neodkladného opatrenia podľa osobitného predpisu<sup>9a</sup>) | 33 eur
+
+- f) zo žiadosti o získanie informácie, ktorá je súčasťou návrhu na nariadenie neodkladného opatrenia podľa osobitného predpisu<sup>9a</sup>) | 3 eurá za každý členský štát Európskej únie, v ktorom sa má informácia získať
+
+- g) z návrhu na vykonanie neodkladného opatrenia podľa osobitného predpisu<sup>9a</sup>) nariadeného v inom členskom štáte Európskej únie | 16,50 eura.
+
 - Poznámky k položke 1 1. Zo žaloby na určenie, či tu právo je, alebo nie je, a zo žaloby na vypratanie nehnuteľnosti, bytu a nebytových priestorov alebo na vydanie veci sa poplatok vyberie podľa písmena b) tejto položky. Ak je predmetom konania viac hnuteľných vecí alebo nehnuteľných vecí, poplatok sa vyberie iba za jednu z nich. 2. Ak žalovaný alebo odporca v konaní uplatňuje svoje práva vzájomnou žalobou alebo vzájomným návrhom, platí poplatok z ceny predmetu poplatkového úkonu. Ak žalovaný alebo odporca uplatňuje vzájomnou žalobou alebo vzájomným návrhom svoju pohľadávku na započítanie, platí súdny poplatok len zo sumy, ktorá prevyšuje to, čo uplatnil žalobca alebo navrhovateľ. Z prejavu žalovaného alebo odporcu, ktorý súd posudzuje ako prostriedok procesnej obrany proti žalobe alebo návrhu, sa súdny poplatok neplatí. 3. Poplatky podľa rovnakej sadzby sa platia i v odvolacom konaní vo veci samej. Súdny poplatok sa platí aj za odvolanie proti rozhodnutiu súdu o návrhu na vydanie neodkladného opatrenia. Ak odvolanie podá žalobca alebo navrhovateľ aj žalovaný alebo odporca, platí každý z nich poplatok podľa ceny predmetu svojho odvolania. Ak je odvolateľov na strane žalobcu, navrhovateľa, žalovaného alebo odporcu viac, platia súdny poplatok v závislosti od povahy ich procesného spoločenstva tak, že v prípade samostatného procesného spoločenstva (§ 72 Civilného sporového poriadku) platia súdny poplatok samostatne podľa predmetu svojho odvolania a v prípade nerozlučného procesného spoločenstva (§ 72 Civilného sporového poriadku) spoločne a nerozdielne. 4. Z odvolania proti rozsudku, ktorým súd rozhodol len o základe predmetu konania, sa poplatok neplatí. 5. Podľa položky 1 písmena a) sa platí poplatok aj vtedy, ak má súd o žalobe rozhodnúť vydaním platobného rozkazu alebo európskeho platobného rozkazu.<sup>10</sup>) 6. Ak je predmetom konania viac nárokov, každý nárok sa spoplatňuje samostatne; to neplatí, ak ide o viac nárokov na peňažné plnenie a sú vyjadrené jednou sumou. Ak je predmetom poplatkového úkonu neodkladné opatrenie s viacerými výrokmi, poplatok podľa položky 1 písm. c) sa platí iba raz. 7. Ak žalobca alebo navrhovateľ uplatní alternatívne viac nárokov, poplatok sa platí iba z toho nároku, z ktorého sa podľa tohto zákona vyberá vyšší poplatok. |
 
 - Položka 3 |
@@ -120,9 +132,13 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 13 |
 
-- a) Zo žiadosti o udelenie poverenia súdnemu exekútorovi | 16,50 eura
+- a) Z návrhu na vykonanie exekúcie | 16,50 eura
 
-- Poznámky: 1. Poplatok podľa písmena a) platí poplatník podľa § 2 ods. 1 písm. e) tohto zákona. V odvolacom konaní sa poplatky podľa tejto položky nevyberajú. 2. Ak dôjde k vylúčeniu veci na samostatné konanie, poplatok podľa písmena a) sa vo vylúčených veciach už nevyberá. |
+- b) Za rozhodnutie v exekučnom konaní o zmene oprávneného alebo za vydanie dodatku k povereniu na vykonanie exekúcie, ak je dôvodom zmeny oprávneného postúpenie vymáhaného nároku alebo predaj podniku alebo jeho časti | 16,50 eura
+
+- c) Za rozhodnutie o návrhu oprávneného na zmenu súdneho exekútora | 16,50 eura
+
+- Poznámky: Poplatok podľa písmena b) platia spoločne a nerozdielne pôvodný oprávnený a nový oprávnený v exekučnom konaní. Poplatok podľa písmena c) sa platí v exekučnom konaní, v ktorom môže oprávnený zmeniť exekútora bez udania dôvodu. |
 
 - Položka 14 |
 
