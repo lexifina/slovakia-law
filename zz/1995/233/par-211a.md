@@ -22,9 +22,9 @@
 
   - 3. vydania uznesenia o zastavení exekúcie, ak sa exekúcia zastavila v časti,
 
-- f) označenie vymáhaného nároku, na ktorého vymáhanie poveril exekútora súd,
+- f) označenie vymáhaného nároku, na ktorého vymáhanie poveril exekútora súd, ako aj údaj o aktuálnom stave vymoženia nároku a trov exekútora,
 
-- g) ak ide o povinného
+- g) ak ide o povinného a oprávneného
 
   - 1. fyzickú osobu, meno, priezvisko, dátum narodenia, rodné číslo, adresa bydliska,
 
@@ -38,6 +38,6 @@
 
 (4) Na účely zápisu, zmeny a výmazu údajov používa exekútor pri svojej činnosti technické a programové vybavenie na elektronické ukladanie, spracúvanie, vyhľadávanie a prenos dát určené vnútorným predpisom komory.
 
-(5) Do registra exekúcií majú bezplatný prístup exekútori a orgány verejnej moci.
+(5) Do registra exekúcií majú bezplatný prístup exekútori, orgány verejnej moci, Centrum právnej pomoci a právnická osoba so 100 % majetkovou účasťou štátu, ktorej predmetom podnikania je konsolidácia pohľadávok verejného sektora. Oprávnený a povinný majú bezplatný prístup do registra vo svojej veci.
 
 (6) Ak povinný namieta zápis v registri exekúcií, môže podať sťažnosť proti zápisu. Sťažnosť proti zápisu v registri exekúcií komora vybaví do 14 dní od jej doručenia postupom podľa § 218b ods. 1 až 3. Ak komora námietke vyhovie, vymaže údaje z registra exekúcií v lehote na vybavenie sťažnosti.

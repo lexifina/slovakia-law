@@ -14,7 +14,7 @@
 
 (5) Zodpovednosť komory za správny delikt zanikne, ak ministerstvo nezačne konanie, ktorého predmetom je zodpovednosť za správny delikt, do dvoch rokov odo dňa, keď sa o ňom dozvedelo, najneskôr však do piatich rokov odo dňa, keď bol správny delikt spáchaný.
 
-(6) Právoplatné rozhodnutie o uložení pokuty je exekučným titulom podľa § 41 ods. 2 písm. i).
+(6) Právoplatné rozhodnutie o uložení pokuty je exekučným titulom podľa § 45 ods. 2 písm. i).
 
 (7) Výnosy pokút sú príjmom štátneho rozpočtu.
 

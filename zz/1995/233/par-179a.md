@@ -6,7 +6,7 @@
 
 (1) Exekútor môže vydať príkaz na zadržanie vodičského preukazu tomu, kto nesplní výživné stanovené rozhodnutím súdu.
 
-(2) Exekučný príkaz na zadržanie vodičského preukazu exekútor doručí orgánu Policajného zboru, príslušnému podľa miesta pobytu povinného; k exekučnému príkazu priloží aj fotokópiu poverenia súdu na vykonanie exekúcie.
+(2) Exekučný príkaz na zadržanie vodičského preukazu exekútor doručí orgánu Policajného zboru, príslušnému podľa miesta pobytu povinného.
 
 (3) Exekútor exekučný príkaz doručí aj oprávnenému a povinnému. Povinnému sa príkaz doručí do vlastných rúk.
 

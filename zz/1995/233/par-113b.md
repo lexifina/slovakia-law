@@ -12,7 +12,7 @@
 
 (3) Upovedomenie o začatí exekúcie doručí exekútor oprávnenému, povinnému a obchodnej spoločnosti. Príkaz na začatie exekúcie doručí exekútor obchodnej spoločnosti do vlastných rúk.
 
-(4) Po uplynutí lehoty na podanie námietok alebo po nadobudnutí právoplatnosti uznesenia, ktorým sa námietky zamietli, vydá exekútor exekučný príkaz. Exekučný príkaz sa doručí oprávnenému, povinnému a obchodnej spoločnosti do vlastných rúk.
+(4) Po márnom uplynutí lehoty na podanie návrhu na zastavenie exekúcie, ktorý má odkladný účinok, alebo po tom, keď sa mu doručí rozhodnutie súdu, ktorým sa takýto návrh zamietol, vydá exekútor exekučný príkaz. Exekučný príkaz sa doručí oprávnenému, povinnému a obchodnej spoločnosti do vlastných rúk.
 
 (5) Doručením exekučného príkazu zaniká účasť povinného v obchodnej spoločnosti, ak osobitný predpis<sup>11ad</sup>) neustanovuje inak. Ak tak ustanovuje osobitný predpis,<sup>11b</sup>) obchodná spoločnosť sa doručením exekučného príkazu zrušuje.
 

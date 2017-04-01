@@ -1,7 +1,9 @@
-# § 61b
+# § 61b Doručenie upovedomenia o začatí exekúcie
 
-(1) Exekúciu možno vykonať len v rozsahu pohľadávky vyplývajúcej z exekučného titulu, jej príslušenstva a trov exekúcie (§ 57 ods. 3); to neplatí, ak sa exekúcia vykonáva predajom hnuteľnej veci, ktorá sa nedá rozdeliť, alebo predajom nehnuteľnosti a povinný nemá dostatok iného majetku, z ktorého by bolo možné uspokojiť pohľadávku oprávneného.
+(1) Upovedomenie o začatí exekúcie sa doručí oprávnenému a povinnému. Povinnému sa doručí do vlastných rúk; ustanovenia § 111 ods. 3 a § 116 ods. 2 Civilného sporového poriadku sa nepoužijú.
 
-(2) Exekútor je návrhom na vykonanie exekúcie viazaný a nemôže vykonať exekúciu vo väčšom rozsahu, než navrhuje oprávnený, aj keby bol z exekučného titulu oprávnený uplatňovať viac; to platí aj pre trovy exekúcie.
+(2) Ak sa upovedomenie o začatí exekúcie nepodarilo doručiť na adresu uvedenú oprávneným, exekútor vykoná šetrenie na zistenie inej adresy povinného. Pri vykonaní šetrenia pobytu povinného vychádza najmä z registrov, ktoré má k dispozícii. Upovedomenie o začatí exekúcie bezodkladne odošle na takto zistenú adresu.
 
-(3) Ak ide o splnenie povinnosti zaplatiť peňažnú pohľadávku a oprávnený podá návrh na vykonanie exekúcie viac ako tri roky od nadobudnutia vykonateľnosti exekučného titulu, nemožno vykonať exekúciu na vymoženie príslušenstva pohľadávky priznanej exekučným titulom; to neplatí, ak oprávnený k návrhu na vykonanie exekúcie priloží dohodu o postupnom splnení pohľadávky priznanej exekučným titulom uzavretú s povinným v priebehu troch rokov od nadobudnutia vykonateľnosti exekučného titulu.
+(3) Ak sa napriek vykonanému šetreniu nepodarí upovedomenie o začatí exekúcie doručiť povinnému do troch mesiacov od začatia exekúcie, doručí sa mu oznámením v Obchodnom vestníku; súčasne sa upovedomenie o začatí exekúcie doručí súdu, ktorý ho zverejní na úradnej tabuli alebo na webovej stránke. Upovedomenie o začatí exekúcie sa v takom prípade považuje za doručené uplynutím 30 dní odo dňa nasledujúceho po zverejnení oznámenia v Obchodnom vestníku.
+
+(4) Podrobnosti o zisťovaní pobytu povinného exekútorom ustanoví všeobecne záväzný právny predpis vydaný ministerstvom.

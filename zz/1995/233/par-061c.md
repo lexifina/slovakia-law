@@ -1,17 +1,19 @@
-# § 61c
+## Účinky upovedomenia o začatí exekúcie
 
-(1) Exekúcii nepodlieha
+# § 61c Bežné právne úkony
 
-- a) nehnuteľný majetok štátu v správe správcu podľa osobitného predpisu<sup>7a</sup>) okrem nehnuteľností v dočasnej správe podľa osobitného predpisu,<sup>7a</sup>)
+(1) Povinný po doručení upovedomenia o začatí exekúcie musí obmedziť svoju činnosť na uskutočňovanie bežných právnych úkonov v rozsahu, v ktorom to od neho možno spravodlivo požadovať, s ohľadom na výšku a význam vymáhaného nároku.
 
-- b) príjmy štátneho rozpočtu, prostriedky na bežnom účte štátnej rozpočtovej organizácie a pohľadávky z právnych vzťahov zakladajúcich tieto príjmy,
+(2) Za bežné právne úkony právnickej osoby alebo podnikateľa podľa § 2 ods. 2 Obchodného zákonníka sa považujú právne úkony, ktoré sú nevyhnutne potrebné na zabezpečenie riadneho výkonu tých činností, ktoré sú predmetom ich činnosti alebo podnikania.
 
-- c) cenné papiere vo vlastníctve štátu a majetkové účasti štátu v právnických osobách,
+(3) Bežné právne úkony inej fyzickej osoby ako podľa odseku 2 sú tie právne úkony, ktoré sú nevyhnutne potrebné na zabezpečenie jej bežných životných potrieb, ako aj bežných životných potrieb tých, voči ktorým má fyzická osoba vyživovaciu povinnosť.
 
-- d) prostriedky určené na krytie schodku štátneho rozpočtu a krytie štátneho dlhu,
+(4) Za bežný právny úkon sa na účely tohto zákona nepovažuje najmä
 
-- e) iný majetok štátu, o ktorom tak ustanoví osobitný zákon.
+- a) založenie obchodnej spoločnosti, družstva alebo inej právnickej osoby,
 
-(2) Majetok štátu, ktorý nie je uvedený v odseku 1, a majetok Exportno-importnej banky Slovenskej republiky podliehajúci exekúcii je vylúčený z exekúcie, ak súd rozhodol o zastavení exekúcie podľa § 57 ods. 1 písm. k). Návrh na zastavenie exekúcie podľa § 57 ods. 1 písm. k) môže povinný podať do 60 dní od doručenia upovedomenia o začatí exekúcie.
+- b) nadobudnutie účasti alebo prevod účasti na obchodnej spoločnosti, družstve alebo inej právnickej osobe,
 
-(3) Exekúciu na majetok štátu podľa odseku 2 možno vykonať len na majetok štátu v správe správcu majetku štátu,<sup>7a</sup>) z ktorého činnosti pohľadávka oprávneného vznikla.
+- c) prevod nehnuteľnosti alebo prenájom nehnuteľnosti, prípadne ich zaťaženie právom tretej osoby,
+
+- d) uskutočnenie právneho úkonu bez primeraného protiplnenia.
