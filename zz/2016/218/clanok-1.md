@@ -2,6 +2,30 @@
 
 Nariadenie vlády Slovenskej republiky č. 51/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva olejnín a priadnych rastlín na trh v znení nariadenia vlády Slovenskej republiky č.185/2010 Z. z. a nariadenia vlády Slovenskej republiky č. 175/2011 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 12 ods. 1 sa písmeno a) dopĺňa trinástym bodom, ktorý znie:
+
+- „13.
+
+- úradne pridelené sériové číslo,“.
+
+- 2. V § 12 ods. 1 sa písmeno c) dopĺňa dvanástym bodom, ktorý znie:
+
+- „12.
+
+- úradne pridelené sériové číslo.“.
+
+- 3. V § 16 ods. 2 sa písmeno a) dopĺňa ôsmym bodom, ktorý znie:
+
+- „8.
+
+- úradne pridelené sériové číslo.“.
+
+- 4. V § 16 ods. 2 sa písmeno b) dopĺňa dvanástym bodom, ktorý znie:
+
+- „12.
+
+- úradne pridelené sériové číslo,“.
+
 - 5. V § 17 sa za slovo „preberajú“ vkladajú slová „a vykonávajú“.
 
 - 6. V prílohe č. 2 časti I ods. 2 písmeno b) znie:
