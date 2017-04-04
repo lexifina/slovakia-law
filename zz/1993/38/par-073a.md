@@ -1,4 +1,4 @@
-## Jedenásty oddiel
+## Dvanásty oddiel
 
 ## Konanie o preskúmaní rozhodnutia vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov
 

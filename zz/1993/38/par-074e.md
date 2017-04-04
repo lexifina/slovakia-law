@@ -1,4 +1,4 @@
-## Pätnásty oddiel
+## Šestnásty oddiel
 
 ## Ďalšia disciplinárna a iná právomoc Ústavného súdu
 

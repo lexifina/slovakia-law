@@ -2,7 +2,7 @@
 
 (1) Ak tento zákon neustanovuje inak a povaha veci to nevylučuje, použijú sa na konanie pred Ústavným súdom primerane ustanovenia Civilného sporového poriadku alebo Trestného poriadku.
 
-(2) Ustanovenia osobitného predpisu<sup>7a</sup>) upravujúceho elektronickú podobu výkonu pôsobnosti orgánov verejnej moci sa použijú aj na konania podľa tretej časti druhej hlavy prvého až piateho a siedmeho až pätnásteho oddielu.
+(2) Ustanovenia osobitného predpisu<sup>7a</sup>) upravujúceho elektronickú podobu výkonu pôsobnosti orgánov verejnej moci sa použijú aj na konania podľa tretej časti druhej hlavy prvého až piateho a ôsmeho až šestnásteho oddielu.
 
 (3) Vytváranie, aktualizáciu a zrušovanie platnosti elektronického formulára pre elektronický úradný dokument na účely konania podľa tohto zákona vykonáva Ústavný súd.
 

@@ -1,4 +1,4 @@
-## Trinásty oddiel
+## Štrnásty oddiel
 
 ## Konanie o súlade rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu
 
