@@ -1,4 +1,4 @@
-## Štrnásty oddiel
+## Pätnásty oddiel
 
 ## Konanie o sťažnosti proti uzneseniu Súdnej rady Slovenskej republiky
 
