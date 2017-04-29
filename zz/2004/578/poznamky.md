@@ -46,8 +46,6 @@
 
 - 13a) § 22 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
-- 13aa) § 39f ods. 1 písm. f) zákona č. 576/2004 Z. z. v znení zákona č. 313/2014 Z. z.
-
 - 13b) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 14) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
@@ -242,19 +240,23 @@
 
 - 55jah) Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
 
-- 55jaj) § 37 ods. 5 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 55jaia) § 15 zákona č. 317/2016 Z. z.
 
-- 55jak) § 39a ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+- 55jaj) § 5 zákona č. 317/2016 Z. z.
 
-- 55jal) § 39b ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+- 55jak) § 24 zákona č. 317/2016 Z. z.
 
-- 55jam) § 39b ods. 9 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+- 55jal) § 30 ods. 3 zákona č. 317/2016 Z. z.
 
-- 55jan) § 39c ods. 1 a 2 zákona č. 576/2004 Z. z. v znení zákona č. 282/2006 Z. z.
+- 55jam) § 30 ods. 6 zákona č. 317/2016 Z. z.
 
-- 55jao) § 39e zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 55jan) § 3 zákona č. 317/2016 Z. z.
+
+- 55jao) Druhá časť zákona č. 317/2016 Z. z.
 
 - 55jap) § 44 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení zákona č. 53/2015 Z. z.
+
+- 55jaq) § 17 ods. 6, § 21 až 23, § 25 a 26 zákona č. 317/2016 Z. z.
 
 - 55jar) § 8c ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 

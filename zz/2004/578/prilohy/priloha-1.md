@@ -21,3 +21,7 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 9. Smernica Rady 2013/25/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti práva usadiť sa a slobody poskytovať služby (Ú. v. EÚ L 158, 10. 6. 2013).
 
   - 10. Smernica Európskeho parlamentu a Rady 2013/55/EÚ z 20. novembra 2013, ktorou sa mení smernica 2005/36/ES o uznávaní odborných kvalifikácií a nariadenie (EÚ) č. 1024/2012 o administratívnej spolupráci prostredníctvom informačného systému o vnútornom trhu (nariadenie o IMI) (Ú. v. EÚ L 354, 28. 12. 2013).
+
+  - 11. Smernica Komisie (EÚ) 2015/565 z 8. apríla 2015, ktorou sa mení smernica 2006/86/ES, pokiaľ ide o určité technické požiadavky na kódovanie ľudských tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
+
+  - 12. Smernica Komisie (EÚ) 2015/566 z 8. apríla 2015, ktorou sa vykonáva smernica 2004/23/ES, pokiaľ ide o postupy overovania ekvivalentných noriem kvality a bezpečnosti dovážaných tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
