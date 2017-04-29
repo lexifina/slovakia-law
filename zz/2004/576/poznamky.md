@@ -22,9 +22,13 @@
 
 - Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
+- 5a) § 3 a 4 zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
+
 - 6) § 72 Trestného zákona.
 
 - 6a) § 13 ods. 5 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
+
+- 6aa) § 3 ods. 8 zákona č. 131/2010 Z. z. o pohrebníctve.
 
 - 6b) § 102 ods. 1 písm. b) zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
@@ -58,6 +62,8 @@
 
 - 14a) Napríklad § 233 ods. 2 písm. d) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 43/2004 Z. z.
 
+- 14aa) § 5 ods. 2 zákona č. 317/2016 Z. z.
+
 - 14b) § 9f zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
 - 14c) § 9d zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
@@ -74,9 +80,13 @@
 
 - 20) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
+- 20a) § 23 ods. 5 zákona č. 317/2016 Z. z.
+
 - 21) § 3 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
 
 - 21a) § 9 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
+- 21b) § 6 ods. 3, § 8 ods. 4, § 9 ods. 2 a § 28 ods. 7 zákona č. 317/2016 Z. z.
 
 - 22) § 10 a 73 zákona č. 578/2004 Z. z.
 
@@ -156,23 +166,15 @@
 
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
-- 40a) Napríklad zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
-
-- 40b) § 138 ods. 2 Zákonníka práce.
-
 - 41) § 8 Občianskeho zákonníka.
-
-- 41a) § 13 až 15 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
-
-- 41aa) § 48 ods. 4 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
-
-- 41b) § 79 a 79a zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 42) § 17 zákona č. 581/2004 Z. z.
 
 - 43) § 10 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 44) § 39 ods. 3 zákona č. 578/2004 Z. z.
+
+- 45) § 5 zákona č. 317/2016 Z. z.
 
 - 48) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
@@ -218,11 +220,7 @@
 
 - 52ab) § 21 ods. 5 písm. b) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
-- 52ac) Zákon č. 540/2001 Z. z. v znení neskorších predpisov.
-
-- Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
-
-- 52ad) § 4 nariadenia vlády Slovenskej republiky č. 622/2007 Z. z., ktorým sa ustanovujú podrobnosti o spracovaní, uschovaní, skladovaní alebo distribúcii tkanív a buniek a o hlásení a vyšetrovaní nežiaducich reakcií a udalostí a prijatých opatreniach.
+- § 33 zákona č. 317/2016 Z. z.
 
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 
@@ -231,13 +229,3 @@
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
 - 55) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
-
-- 56) STN EN ISO 3166-1 Kódy názvov krajín a ich častí.
-
-- Časť 1: Kódy krajín (ISO 3166-1: 2006) (01 0190).
-
-- 1) § 80 ods. 5 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 2) Vyhláška Štatistického úradu Slovenskej republiky Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
-
-- 3) § 4 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
