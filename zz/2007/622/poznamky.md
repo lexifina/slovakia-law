@@ -1,1 +1,0 @@
-- 1) § 25 písm. g) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č.77/2015 Z. z.
