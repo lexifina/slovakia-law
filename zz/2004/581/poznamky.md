@@ -348,6 +348,8 @@
 
 - 68a) § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
+- 68aa) § 7 ods. 3 písm. h) zákona č. 578/2004 Z. z. v znení zákona č. 428/2015 Z. z.
+
 - 69) § 43 zákona č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 70) Zákon č. 578/2004 Z. z. v znení neskorších predpisov.
