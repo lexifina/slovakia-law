@@ -10,9 +10,11 @@
 
 - d) ktorý je nežiaducou osobou,
 
-- e) na účel určenia jeho veku, ak nie je celkom zjavné, že ide o maloletého cudzinca, alebo
+- e) na účel určenia jeho veku, ak nie je celkom zjavné, že ide o maloletého cudzinca,
 
-- f) staršiemu ako 14 rokov na účel konania o udelenie azylu podľa osobitného predpisu.<sup>10aa</sup>)
+- f) staršiemu ako 14 rokov na účel konania o udelenie azylu podľa osobitného predpisu,<sup>10aa</sup>) alebo
+
+- g) na účely kontroly pobytu cudzincov.
 
 (2) Policajt je oprávnený odobrať daktyloskopické odtlačky aj osobe, ktorá o to písomne požiadala.
 
