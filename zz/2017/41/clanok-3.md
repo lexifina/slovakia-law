@@ -20,6 +20,8 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
   - „<sup>53aac</sup>) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 8. § 38ed sa vypúšťa.
+
 - 10. Za § 38ei sa vkladá § 38ej, ktorý vrátane nadpisu znie:
 
 - „§ 38ej
