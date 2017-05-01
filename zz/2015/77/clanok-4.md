@@ -4,29 +4,11 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 1. V § 2 ods. 4 sa vypúšťa posledná veta.
 
-- 2. V § 4 ods. 5 sa na konci pripájajú tieto slová: „a vytváranie elektronických zdravotných záznamov v elektronickej zdravotnej knižke osoby<sup>4aaa</sup>)“.
-
-  - Poznámka pod čiarou k odkazu 4aaa znie:
-
-  - „4aaa)
-
-  - § 5 a príloha č. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
-
-- 3. V § 8 ods. 4 sa za slová „vrátane jej kódu“ vkladá čiarka a slová „špecializačný odbor“ a na konci sa pripája táto veta: „Odporúčanie obsahuje identifikátor záznamu o odporúčaní všeobecného lekára na špecializovanú ambulantnú starostlivosť v elektronickej zdravotnej knižke<sup>4aaa</sup>) okrem odporúčania vystaveného ručne z dôvodu nefunkčnosti technických zariadení alebo vystaveného ručne pri poskytovaní zdravotnej starostlivosti formou návštevnej služby v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa ambulantná starostlivosť poskytuje.“.
-
 - 4. § 8 sa dopĺňa odsekom 8, ktorý znie:
 
 - „(8)
 
 - Na poskytnutie špecializovanej zdravotnej starostlivosti podľa odseku 5 písm. b) sa vyžaduje odporúčanie ošetrujúceho lekára špecialistu. Odporúčanie ošetrujúceho lekára špecialistu sa vyžaduje aj na poskytnutie zdravotnej starostlivosti v zariadení spoločných vyšetrovacích a liečebných zložiek, ak ide o poskytovanie liečby. Na náležitosti odporúčania ošetrujúceho lekára špecialistu sa primerane vzťahujú náležitosti odporúčania všeobecného lekára podľa odseku 4.“.
-
-- 5. V § 9 ods. 2 sa slová „jej kódu a odôvodnenie odporúčania“ nahrádzajú slovami „jej kódu, odôvodnenie odporúčania a identifikátor záznamu o odporúčaní ošetrujúceho lekára na prijatie do ústavnej starostlivosti v elektronickej zdravotnej knižke<sup>4aaa</sup>) okrem odporúčania vystaveného ručne z dôvodu nefunkčnosti technických zariadení alebo vystaveného ručne pri poskytovaní zdravotnej starostlivosti formou návštevnej služby v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa ambulantná starostlivosť poskytuje“.
-
-- 6. § 18 sa dopĺňa odsekom 4, ktorý znie:
-
-- „(4)
-
-- Údaje zo zdravotnej dokumentácie sa zaznamenávajú v elektronickej zdravotnej knižke<sup>4aaa</sup>) vedenej v národnom zdravotníckom informačnom systéme.“.
 
 - 7. V § 21 ods. 2 sa slová „odtlačkom pečiatky a podpisom ošetrujúceho zdravotníckeho pracovníka“ nahrádzajú slovami „podpisom ošetrujúceho zdravotníckeho pracovníka, a ak má zdravotnícky pracovník pridelený číselný kód úradom pre dohľad, aj odtlačkom pečiatky“.
 
