@@ -1,4 +1,4 @@
-Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
+Príloha č. 1 k zákonu č. 578/2004 Z. z.
 
 - Zoznam preberaných právne záväzných aktov Európskej únie
 
@@ -25,3 +25,5 @@ Príloha č. 1 k zákonu č. 578/2004 Z. z. v znení zákona č. 464/2007 Z. z.
   - 11. Smernica Komisie (EÚ) 2015/565 z 8. apríla 2015, ktorou sa mení smernica 2006/86/ES, pokiaľ ide o určité technické požiadavky na kódovanie ľudských tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
 
   - 12. Smernica Komisie (EÚ) 2015/566 z 8. apríla 2015, ktorou sa vykonáva smernica 2004/23/ES, pokiaľ ide o postupy overovania ekvivalentných noriem kvality a bezpečnosti dovážaných tkanív a buniek (Ú. v. EÚ L 93, 9. 4. 2015).
+
+  - 13. Delegované rozhodnutie Komisie (EÚ) 2016/790 z 13. januára 2016, ktorým sa mení príloha V k smernici Európskeho parlamentu a Rady 2005/36/ES, pokiaľ ide o doklady o formálnej kvalifikácii a názvy špecializačných odborov (Ú. v. EÚ L 134, 24. 5. 2016).
