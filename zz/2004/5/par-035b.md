@@ -6,4 +6,10 @@
 
 (3) Sektorová rada na účely tohto zákona je dobrovoľné nezávislé profesijné a odborné združenie zástupcov zamestnávateľov, zástupcov odborových organizácií, vzdelávacích inštitúcií a ďalších organizácií, orgánov štátnej správy a orgánov územnej samosprávy. Zloženie sektorovej rady, spôsob vymenúvania jej členov, dôvody zániku členstva a spôsob rokovania sektorovej rady upraví štatút sektorovej rady.
 
-(4) Do pôsobnosti sektorovej rady patrí najmä aktualizovanie informačného systému podľa § 35a ods. 1, určovanie požiadaviek na odborné vedomosti, zručnosti a schopnosti potrebné na vykonávanie pracovných činností na pracovných miestach na trhu práce a vytvorenie predpokladov na ich prenos do systému celoživotného vzdelávania.
+(4) Sektorová rada najmä
+
+- a) aktualizuje informačný systém podľa § 35a ods. 1,
+
+- b) určuje požiadavky na odborné vedomosti, zručnosti a schopnosti potrebné na vykonávanie pracovných činností na pracovných miestach na trhu práce a vytvára predpoklady na ich prenos do systému celoživotného vzdelávania,
+
+- c) spolupracuje pri príprave a realizácii projektov vzdelávania a prípravy pre trh práce podľa tohto zákona.

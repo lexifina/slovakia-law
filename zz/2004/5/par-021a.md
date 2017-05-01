@@ -2,7 +2,7 @@
 
 (1) Ústredie vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas alebo nesúhlas s jeho obsadením, na žiadosť útvaru Policajného zboru do piatich pracovných dní odo dňa doručenia žiadosti.
 
-(2) Žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa podáva na tlačive, ktorého vzor určí ústredie. Prílohou k žiadosti je kópia
+(2) Žiadosť o vydanie potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa podáva na formulári, ktorého vzor určí ústredie. Prílohou k žiadosti je kópia
 
 - a) pracovnej zmluvy na výkon zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, alebo písomného prísľubu zamestnávateľa na prijatie štátneho príslušníka tretej krajiny do zamestnania, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, podľa osobitného predpisu,<sup>22f</sup>)
 
@@ -12,8 +12,8 @@
 
 (3) Ústredie vydá potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas s jeho obsadením, ak voľné pracovné miesto nie je možné obsadiť uchádzačom o zamestnanie vedeným v evidencii uchádzačov o zamestnanie a ak doklad podľa odseku 2 písm. b) zodpovedá požiadavkám na výkon vysokokvalifikovaného zamestnania uvedeného v pracovnej zmluve alebo v prísľube zamestnávateľa. Pri vydávaní potvrdenia o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ústredie prihliada na situáciu na trhu práce.
 
-(4) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na tri roky.
+(4) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ktoré obsahuje súhlas s jeho obsadením, sa vydáva na obdobie, počas ktorého by malo zamestnanie trvať, najviac však na štyri roky.
 
-(5) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa vydáva na tlačive, ktorého vzor určí ústredie.
+(5) Potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, sa vydáva na formulári, ktorého vzor určí ústredie.
 
 (6) Ústredie môže zrušiť potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, ak bolo kontrolnou činnosťou podľa § 68 zistené porušenie všeobecne záväzných právnych predpisov, pričom prihliada na závažnosť zistených nedostatkov a závažnosť ich následkov a opakované zistenie toho istého nedostatku.

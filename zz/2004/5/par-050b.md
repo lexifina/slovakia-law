@@ -16,7 +16,7 @@
 
 (3) Právnickej osobe alebo fyzickej osobe môže byť priznané postavenie sociálneho podniku pracovnej integrácie, ak je bezúhonná. U právnickej osoby musí podmienku bezúhonnosti spĺňať aj osoba, ktorá koná v mene právnickej osoby; bezúhonnosť sa preukazuje výpisom z registra trestov<sup>32</sup>) nie starším ako tri mesiace.
 
-(4) Postavenie sociálneho podniku pracovnej integrácie prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Postavenie sociálneho podniku pracovnej integrácie je možné priznať aj chránenej dielni alebo chránenému pracovisku za podmienok ustanovených v predchádzajúcej vete. Ústredie neprizná postavenie sociálneho podniku pracovnej integrácie právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
+(4) Postavenie sociálneho podniku pracovnej integrácie prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Na účely priznania postavenia sociálneho podniku pracovnej integrácie sa podmienka ustanovená v odseku 1 písm. c), a ak ide o právnickú osobu alebo fyzickú osobu, ktorá má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) aj podmienky ustanovené v odseku 1 písm. a) a b) považujú za splnené. Ústredie neprizná postavenie sociálneho podniku pracovnej integrácie právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
 
 (5) Ústredie prizná postavenie sociálneho podniku pracovnej integrácie na dobu neurčitú. Na základe písomnej žiadosti sociálneho podniku pracovnej integrácie alebo písomného návrhu úradu ústredie rozhodnutie o priznaní postavenia sociálneho podniku pracovnej integrácie zmení, pozastaví alebo zruší, alebo vydá duplikát rozhodnutia. Duplikát vydá ústredie pri strate, odcudzení, znehodnotení rozhodnutia o priznaní postavenia sociálneho podniku pracovnej integrácie alebo pri strate rozhodnutia o zmene, pozastavení alebo zrušení postavenia sociálneho podniku pracovnej integrácie.
 
@@ -32,7 +32,7 @@
 
 - a) podnikateľský plán vrátane kalkulácie predpokladaných príjmov, výdavkov a zisku pred rozdelením,
 
-- b) dokumenty a doklady preukazujúce plnenie podmienok podľa odseku 1 písm. a) až c) a odseku 3,
+- b) doklady preukazujúce splnenie podmienok ustanovených v odseku 1 písm. a) a b) a odseku 3, a ak žiadateľom je právnická osoba alebo fyzická osoba, ktorá má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) doklady preukazujúce splnenie podmienky ustanovenej v odseku 3,
 
 - c) výpis z obchodného registra alebo iný doklad oprávňujúci na podnikanie a na vykonávanie predmetu činnosti,
 
@@ -52,14 +52,16 @@
 
 - c) zmeny alebo zánik skutočností zapísaných v rozhodnutí o priznaní postavenia sociálneho podniku pracovnej integrácie.
 
-(10) Sociálnemu podniku pracovnej integrácie, ktorý najmenej 12 kalendárnych mesiacov neplní podmienky podľa tohto zákona, ústredie priznané postavenie sociálneho podniku pracovnej integrácie zruší. Ústredie opätovne prizná postavenie sociálneho podniku pracovnej integrácie najskôr po uplynutí dvoch rokov od zrušenia predchádzajúceho postavenia sociálneho podniku pracovnej integrácie.
+(10) Sociálnemu podniku pracovnej integrácie, ktorý najmenej 12 kalendárnych mesiacov neplní podmienky podľa tohto zákona alebo ktorý nesplnil povinnosť ustanovenú v odseku 11 písm. a), ústredie priznané postavenie sociálneho podniku pracovnej integrácie zruší. Ústredie opätovne prizná postavenie sociálneho podniku pracovnej integrácie najskôr po uplynutí dvoch rokov od zrušenia predchádzajúceho postavenia sociálneho podniku pracovnej integrácie.
 
 (11) Sociálny podnik pracovnej integrácie je povinný
 
-- a) zabezpečovať ochranu osobných údajov svojich zamestnancov,
+- a) do štyroch mesiacov odo dňa priznania postavenia sociálneho podniku splniť podmienky ustanovené v odseku 1 písm. a) a b), ak ide o sociálny podnik, ktorý má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) a predložiť ústrediu doklady preukazujúce splnenie týchto podmienok,
 
-- b) vytvoriť podmienky na výkon kontroly svojej činnosti a poskytovať informácie a doklady požadované orgánom kontroly,
+- b) zabezpečovať ochranu osobných údajov svojich zamestnancov,
 
-- c) predkladať raz ročne ústrediu správu o výsledkoch svojej činnosti v štruktúre podľa odseku 1 písm. a) až c),
+- c) vytvoriť podmienky na výkon kontroly svojej činnosti a poskytovať informácie a doklady požadované orgánom kontroly,
 
-- d) oznamovať ústrediu všetky zmeny údajov uvedených v rozhodnutí o priznaní postavenia sociálneho podniku pracovnej integrácie.
+- d) predkladať ústrediu správu o svojej činnosti za uplynulý kalendárny rok v termíne do 31. marca nasledujúceho kalendárneho roka na formulári, ktorého vzor určí ústredie,
+
+- e) oznamovať ústrediu všetky zmeny údajov uvedených v rozhodnutí o priznaní postavenia sociálneho podniku pracovnej integrácie.

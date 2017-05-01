@@ -6,6 +6,8 @@
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov.
 
+- 3) § 42 ods. 2 písm. c) zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
+
 - 4) Obchodný zákonník.
 
 - 5) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
@@ -25,6 +27,8 @@
 - 13) Napríklad Občiansky zákonník, Obchodný zákonník.
 
 - 13a) Zákon č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13aa) § 20 až 23 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13b) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
@@ -52,7 +56,7 @@
 
 - Zákon č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 18) § 37 ods. 3 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 495/2013 Z. z.
+- 18) § 37 ods. 3 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
 - 18a) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
@@ -80,7 +84,7 @@
 
 - 21) Zákon č. 283/2002 Z. z. o cestovných náhradách.
 
-- 21a) § 63 ods. 1 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2011 Z. z.
+- 21a) § 63 ods. 1 zákona č. 447/2008 Z. z. v znení zákona č. 180/2011 Z. z.
 
 - 22) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
 
@@ -90,7 +94,7 @@
 
 - 22c) § 23 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
 
-- 22ca) § 23 ods. 5 zákona č. 404/2011 Z. z. v znení zákona č. 495/2013 Z. z.
+- 22ca) § 23 ods. 6 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
 - 22d) § 27 zákona č. 404/2011 Z. z.
 
@@ -100,9 +104,7 @@
 
 - 22f) § 38 ods. 5 písm. a) a ods. 6 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 22g) § 106 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 2 písm. a) a § 24 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 81/2013 Z. z.
+- 22g) Zákon č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov.
 
 - 22h) § 38 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
@@ -111,6 +113,14 @@
 - 22j) § 6 až 14 zákona č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
 
 - 22k) § 31 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 75/2012 Z. z.
+
+- 22ka) § 2 ods. 1 písm. d) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22kb) § 2 ods. 1 písm. s) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22kc) § 32 ods. 16 zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 22kd) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22l) Dohovor o zrušení požiadavky vyššieho overenia zahraničných verejných listín (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 213/2002 Z. z.).
 
@@ -134,7 +144,7 @@
 
 - 28) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 324/1997 Z. z. o uzavretí Zmluvy medzi štátmi, ktoré sú stranami Severoatlantickej zmluvy, a inými štátmi zúčastnenými v Partnerstve za mier vzťahujúcej sa na štatút ich ozbrojených síl.
 
-- 28a) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
+- 28a) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
 
@@ -152,6 +162,10 @@
 
 - 28g) § 15 zákona č. 404/2011 Z. z.
 
+- 28h) § 2 ods. 1 písm. f) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
+
+- 28i) § 3 písm. g) zákona č. 561/2007 Z. z. v znení neskorších predpisov.
+
 - 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
@@ -167,8 +181,6 @@
 - 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 33a) § 149 a 239 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
-
-- 34) Zákon č. 95/2000 Z. z. o inšpekcii práce a o zmene a doplnení niektorých zákonov v znení zákona č. 231/2002 Z. z.
 
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
@@ -209,6 +221,8 @@
 - 46d) § 6 ods. 3 písm. b) zákona č. 124/2006 Z. z. v znení zákona č. 470/2011 Z. z.
 
 - 46e) Čl. 32 ods. 3 nariadenia (EÚ) č. 651/2014.
+
+- 47) Zákon č. 336/2015 Z. z. o podpore najmenej rozvinutých okresov a o zmene a doplnení niektorých zákonov v znení zákona č. 378/2016 Z. z.
 
 - 49) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
@@ -256,15 +270,13 @@
 
 - 61) Zákon č. 151/2010 Z. z. o zahraničnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 403/2010 Z. z.
 
-- 61a) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
+- 61a) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 61aa) § 14 ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
 
-- 61b) Zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
-
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
-- Zákon č. 502/2001 Z. z. v znení zákona č. 618/2004 Z. z.
+- Zákon č. 357/2015 Z. z.
 
 - Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 

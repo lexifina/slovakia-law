@@ -10,15 +10,17 @@
 
   - 1. po uplynutí 12 mesiacov nepretržitého pobytu na území Slovenskej republiky od udelenia prechodného pobytu na účel zlúčenia rodiny,
 
-  - 2. ktorý je rodinným príslušníkom držiteľa modrej karty alebo
+  - 2. ktorý je rodinným príslušníkom držiteľa modrej karty,
 
-  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f) prvého bodu,
+  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 6 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
+
+  - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f) prvého bodu,
 
 - d) ktorý je rodinným príslušníkom občana členského štátu Európskej únie a ktorý má právo na pobyt na území Slovenskej republiky,
 
-- e) ktorý má udelený prechodný pobyt na účel štúdia<sup>24</sup>) a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
+- e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) okrem poslucháča jazykovej školy, a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
 
-- f) ktorý má udelený prechodný pobyt na účel výskumu a vývoja<sup>24a</sup>) a
+- f) ktorý má udelený prechodný pobyt na účel výskumu a vývoja, ak osobitný predpis neustanovuje inak,<sup>24a</sup>) a
 
   - 1. ktorý vykonáva výskum alebo vývoj na základe dohody o hosťovaní<sup>24b</sup>) alebo
 
@@ -40,7 +42,7 @@
 
   - 2. výkonný umelec, ktorý sa zúčastňuje na umeleckom podujatí,
 
-- m) ktorý zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení, programátorské práce alebo odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu alebo vyslania na výkon práce nepresiahne celkovo 90 dní v kalendárnom roku,
+- m) ktorý zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo v súvislosti s dodávkou tovaru uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení alebo v súvislosti s dodávkou tovaru alebo služieb uskutočňuje programátorské práce alebo odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu alebo vyslania na výkon práce nepresiahne celkovo 90 dní v kalendárnom roku,
 
 - n) ktorý je prijatý do pracovnoprávneho vzťahu na základe medzinárodnej zmluvy, ktorou je Slovenská republika viazaná a ktorá ustanovuje, že na prijatie štátneho príslušníka tretej krajiny do pracovnoprávneho vzťahu nie je potrebné povolenie na zamestnanie,<sup>27</sup>)
 
@@ -82,6 +84,14 @@
 
 - af) ktorý vykonáva duchovenskú činnosť z poverenia registrovanej cirkvi alebo náboženskej spoločnosti,
 
-- ag) ktorému bolo udelené národné vízum<sup>28g</sup>) a na ktorého sa vzťahuje program pracovnej dovolenky, ktorý schválila vláda Slovenskej republiky.
+- ag) ktorý má udelené národné vízum<sup>28g</sup>) a
+
+  - 1. na ktorého sa vzťahuje program pracovnej dovolenky, ktorý schválila vláda Slovenskej republiky, alebo
+
+  - 2. ktorý sa podieľa na realizácii filmového projektu na území Slovenskej republiky,
+
+- ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>) od zamestnávateľa v členskom štáte Európskej únie v rámci vnútropodnikového presunu,
+
+- ai) ktorý pre centrum strategických služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom strategických služieb nepresiahne celkovo 90 dní v kalendárnom roku.
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.

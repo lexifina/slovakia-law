@@ -2,7 +2,7 @@
 
 (1) Ústredie a úrad uložia pokutu
 
-- a) zamestnávateľovi za porušenie povinností podľa tohto zákona do výšky 33 193,91 eura, ak tento zákon neustanovuje inak,
+- a) zamestnávateľovi, hostiteľskému subjektu alebo informujúcej organizácii za porušenie povinností podľa tohto zákona do výšky 33 193,91 eura, ak tento zákon neustanovuje inak,
 
 - b) právnickej osobe alebo fyzickej osobe za porušenie zákazu nelegálneho zamestnávania podľa osobitného predpisu<sup>18a</sup>) od výšky 2 000 eur do 200 000 eur, a ak ide o nelegálne zamestnávanie dvoch a viac fyzických osôb súčasne, najmenej 5 000 eur,
 

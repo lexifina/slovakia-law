@@ -27,3 +27,7 @@ Príloha č. 4 k zákonu č. 5/2004 Z. z.
   - 12. Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).
 
   - 13. Smernica Európskeho parlamentu a Rady 2011/98/EÚ z 13. decembra 2011 o jednotnom postupe vybavovania žiadostí o jednotné povolenie na pobyt a zamestnanie na území členského štátu pre štátnych príslušníkov tretích krajín a o spoločnom súbore práv pracovníkov z tretích krajín s oprávneným pobytom v členskom štáte (Ú. v. EÚ L 343, 23. 12. 2011).
+
+  - 14. Smernica Európskeho parlamentu a Rady 2014/36/EÚ z 26. februára 2014 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účel zamestnania ako sezónni pracovníci (Ú. v. EÚ L 94, 28. 3. 2014).
+
+  - 15. Smernica Európskeho parlamentu a Rady 2014/66/EÚ z 15. mája 2014 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín v rámci vnútropodnikového presunu (Ú. v. EÚ L 157, 27. 5. 2014).

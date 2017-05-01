@@ -10,10 +10,18 @@
 
 (5) Tuzemská právnická osoba alebo tuzemská fyzická osoba, ktorá uzatvorila zmluvu so zahraničnou právnickou osobou alebo so zahraničnou fyzickou osobou, na ktorej základe sú k nej vysielaní zamestnanci zahraničného zamestnávateľa vykonávať prácu na území Slovenskej republiky (ďalej len „informujúca organizácia“), je zodpovedná za pracovné podmienky a podmienky zamestnávania podľa osobitných predpisov.<sup>30</sup>)
 
-(6) Zamestnávateľ, ktorý zamestnáva občana členského štátu Európskej únie, jeho rodinných príslušníkov alebo štátneho príslušníka tretej krajiny podľa § 23a, poskytuje písomne úradu údaje na tlačive, ktorého vzor určí ústredie, najneskôr do siedmich pracovných dní odo dňa nástupu do zamestnania a najneskôr do siedmich pracovných dní odo dňa skončenia zamestnania. Rovnakú povinnosť má aj informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 23a ods. 1 písm. l), m), w) až z), najneskôr do siedmich pracovných dní odo dňa vyslania štátneho príslušníka tretej krajiny a najneskôr do siedmich pracovných dní odo dňa skončenia vyslania štátneho príslušníka tretej krajiny.
+(6) Zamestnávateľ, ktorý zamestnáva občana členského štátu Európskej únie, jeho rodinných príslušníkov alebo štátneho príslušníka tretej krajiny podľa § 23a, poskytuje písomne úradu údaje na formulári, ktorého vzor určí ústredie, najneskôr do siedmich pracovných dní odo dňa nástupu do zamestnania a najneskôr do siedmich pracovných dní odo dňa skončenia zamestnania. Rovnakú povinnosť má aj informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 23a ods. 1 písm. l), m), w) až z), najneskôr do siedmich pracovných dní odo dňa vyslania štátneho príslušníka tretej krajiny a najneskôr do siedmich pracovných dní odo dňa skončenia vyslania štátneho príslušníka tretej krajiny.
 
-(7) Informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 22 ods. 7 a 8, je povinná písomne informovať úrad o začiatku vyslania a o skončení vyslania štátneho príslušníka tretej krajiny do siedmich pracovných dní odo dňa vyslania a do siedmich pracovných dní odo dňa skončenia vyslania.
+(7) Informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 22 ods. 9 a 10, je povinná písomne informovať úrad o začiatku vyslania a o skončení vyslania štátneho príslušníka tretej krajiny do siedmich pracovných dní odo dňa vyslania a do siedmich pracovných dní odo dňa skončenia vyslania.
 
 (8) Ak nedošlo k vyslaniu štátneho príslušníka tretej krajiny, ktorému bolo udelené povolenie na zamestnanie, informujúca organizácia je povinná o tom písomne informovať úrad do siedmich pracovných dní odo dňa, keď sa dozvedela, že k vyslaniu nedôjde.
 
 (9) Na účely odsekov 1, 2 a 6 sa za zamestnanie považuje výkon práce v pracovnoprávnom vzťahu.
+
+(10) Hostiteľský subjekt je povinný písomne informovať ústredie o začiatku a skončení vnútropodnikového presunu a o začiatku a skončení mobility v rámci vnútropodnikového presunu do siedmich pracovných dní odo dňa, keď nastala táto skutočnosť.
+
+(11) Zamestnávateľ je povinný štátnemu príslušníkovi tretej krajiny, ktorému
+
+- a) bolo odňaté povolenie na zamestnanie na účel sezónneho zamestnania podľa § 23 ods. 2 písm. b) druhého bodu, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k odňatiu povolenia na zamestnanie nedošlo, alebo
+
+- b) bol zrušený prechodný pobyt na účel sezónneho zamestnania na základe zrušenia potvrdenia o možnosti obsadenia voľného pracovného miesta podľa § 21b ods. 8 druhej vety, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k zrušeniu prechodného pobytu nedošlo.

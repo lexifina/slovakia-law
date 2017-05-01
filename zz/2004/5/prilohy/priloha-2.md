@@ -4,13 +4,13 @@ Príloha č. 2 k zákonu č. 5/2004 Z. z.
 
   - A. Súčasťou žiadosti o zaradenie do evidencie uchádzačov o zamestnanie podľa § 34 ods. 2 sú tieto doklady:
 
-    - a) fotokópia potvrdenia o zamestnaní<sup>65</sup>) alebo dokladu o spôsobe skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu, ak spôsob skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu nie je uvedený v potvrdení o zamestnaní alebo ak sa potvrdenie o zamestnaní nevydáva,
+    - a) kópia potvrdenia o zamestnaní<sup>65</sup>) alebo dokladu o spôsobe skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu, ak spôsob skončenia pracovnoprávneho vzťahu alebo obdobného pracovného vzťahu nie je uvedený v potvrdení o zamestnaní alebo ak sa potvrdenie o zamestnaní nevydáva,
 
-    - b) fotokópia dokladu o skončení alebo pozastavení prevádzkovania alebo vykonávania samostatnej zárobkovej činnosti,
+    - b) kópia dokladu o skončení alebo pozastavení prevádzkovania alebo vykonávania samostatnej zárobkovej činnosti,
 
     - c) čestné vyhlásenie, že nevykonáva zárobkovú činnosť na základe právneho vzťahu podľa osobitného predpisu,<sup>13</sup>)
 
-    - d) fotokópia dohody alebo zmluvy, na základe ktorej vykonáva zárobkovú činnosť podľa § 6 ods. 2,
+    - d) kópia dohody alebo zmluvy, na základe ktorej vykonáva zárobkovú činnosť podľa § 6 ods. 2,
 
     - e) potvrdenie o ukončení školy,
 
@@ -32,6 +32,6 @@ Príloha č. 2 k zákonu č. 5/2004 Z. z.
 
     - c) právoplatné rozhodnutie súdu vo veci neplatnosti rozviazania pracovného pomeru alebo obdobného pracovného vzťahu,
 
-    - d) fotokópia dokladu o dosiahnutom stupni vzdelania,
+    - d) kópia dokladu o dosiahnutom stupni vzdelania,
 
-    - e) fotokópie dokladov o nadobudnutých zručnostiach a oprávneniach.
+    - e) kópie dokladov o nadobudnutých zručnostiach a oprávneniach.
