@@ -78,6 +78,10 @@
 
 - 18aa) § 34 ods. 1 písm. f) zákona č. 462/2007 Z. z.
 
+- 18aaa) § 21b ods. 8 druhá veta zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení zákona č. 82/2017 Z. z.
+
+- 18aab) § 23 ods. 2 písm. b) druhý bod zákona č. 5/2004 Z. z. v znení zákona č. 82/2017 Z. z.
+
 - 18ac) § 7a ods.1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
 - 18ad) § 5a a 7c zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
@@ -94,7 +98,7 @@
 
 - 18ba) § 3 ods. 3 zákona č. 82/2005 Z. z. v znení zákona č. 52/2010 Z. z.
 
-- 18bb) § 31 a 58 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 18bb) § 31 a 58 zákona č. 5/2004 Z. z. v znení neskorších predpisov.
 
 - 18c) § 149 Zákonníka práce.
 
