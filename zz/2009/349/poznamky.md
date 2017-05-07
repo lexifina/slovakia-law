@@ -1,4 +1,8 @@
-- 1) Nariadenie vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách v znení nariadenia vlády Slovenskej republiky č. 141/2007 Z. z.
+- 1) Nariadenie vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá v znení neskorších predpisov.
+
+- 1a) § 2 ods. 4 zákona č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov.
+
+- 1b) Nariadenie vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách v znení nariadenia vlády Slovenskej republiky č. 141/2007 Z. z.
 
 - 1b) Nariadenie Komisie (EÚ) č. 19/2011 z 11. januára 2011 týkajúce sa požiadaviek na typové schválenie povinného štítku výrobcu a identifikačného čísla motorových vozidiel a ich prípojných vozidiel, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 661/2009 o požiadavkách na typové schválenie motorových vozidiel, ich prípojných vozidiel a systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá z hľadiska všeobecnej bezpečnosti v platnom znení (Ú. v. EÚ L 8, 12. 1. 2011) v platnom znení.
 

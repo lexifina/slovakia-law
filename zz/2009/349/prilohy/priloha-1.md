@@ -196,6 +196,28 @@ Príloha č. 1 k nariadeniu vlády č. 349/2009 Z. z.
 
     - u) do celkovej dĺžky návesovej jazdnej súpravy sa nezapočítava dĺžka prečnievajúceho nedeliteľného nákladu, ak nepresahuje náves o viac než 1,40 m, pričom požiadavky na maximálne vybočenie zadnej časti vozidla podľa osobitného predpisu<sup>5b</sup>) a požiadavky na označenie prečnievajúceho nákladu podľa osobitného predpisu<sup>5c</sup>) musia zostať zachované,
 
+    - v) najväčšie prípustné hmotnosti ustanovené v druhom bode písm. a) (okrem dvojnápravových autobusov), písm. b) a h) možno zvýšiť o dodatočnú hmotnosť najviac
+
+    - 1 t potrebnú pre technológiu alternatívnych palív; požiadavky ustanovené v treťom bode musia zostať zachované. Informácia o dodatočnej hmotnosti pre vozidlá s alternatívnym palivom sa uvádza v doklade podľa § 5 ods. 1 písm. c).
+
+  - 5. Technické požiadavky na vozidlá a jazdné súpravy vybavené aerodynamickými zariadeniami
+
+    - a) na zvýšenie energetickej účinnosti môžu byť vozidlá alebo jazdné súpravy vybavené aerodynamickými zariadeniami. Takto vybavené vozidlá a jazdné súpravy môžu presiahnuť najväčšie prípustné dĺžky ustanovené v prvom bode písm. c) podbodoch 3 až 11 pri dodržaní súladu so štvrtým bodom písm. d). Presiahnutie najväčšej prípustnej dĺžky nesmie viesť k zvýšeniu nakladacej dĺžky vozidiel alebo jazdných súprav,
+
+    - b) aerodynamické zariadenia, ktoré presahujú dĺžku 500 mm, musia byť pred uvedením na trh schválené podľa osobitného predpisu,<sup>1</sup>)
+
+    - c) aerodynamické zariadenia musia spĺňať tieto prevádzkové požiadavky:
+
+      - 1. v situácii, keď je ohrozená bezpečnosť účastníkov premávky na pozemných komunikáciách, zariadenie sa zloží, zatiahne alebo odstráni,
+
+      - 2. pri používaní v mestskej cestnej infraštruktúre a medzimestskej cestnej infraštruktúre zohľadniť osobitné špecifiká oblastí, v ktorých je povolená rýchlosť 50 km/h alebo menej a v ktorých sa s vyššou pravdepodobnosťou vyskytujú zraniteľní účastníci premávky na pozemných komunikáciách,
+
+      - 3. ich používanie je v súlade s prevádzkou intermodálnej prepravy podľa § 2 písm. o) a ak sú zatiahnuté alebo zložené, nepresiahnu najväčšiu prípustnú dĺžku o viac ako 200 mm.
+
+  - 6. Tolerancia pre vozidlá alebo jazdné súpravy, ktorých kabíny majú lepšie aerodynamické vlastnosti
+
+    - Na zvýšenie energetickej účinnosti najmä s ohľadom na aerodynamické vlastnosti kabín ako aj bezpečnosť premávky na pozemných komunikáciách môžu vozidlá alebo jazdné súpravy, ak ich kabíny majú lepšie aerodynamické vlastnosti, energetickú účinnosť a sú bezpečnejšie, presiahnuť maximálne dĺžky ustanovené v prvom bode písm. c) podbodoch 3 až 11 pri dodržaní súladu so štvrtým bodom písm. d). Presiahnutie najväčšej prípustnej dĺžky nesmie viesť k zvýšeniu nakladacej dĺžky vozidiel alebo jazdných súprav. Toto ustanovenie sa vzťahuje na vozidlá, ktoré sú z hľadiska zvýšenia energetickej účinnosti na tento účel schválené podľa osobitného predpisu.<sup>1</sup>).
+
   - Vysvetlivky:
 
     - a) Najväčšie prípustné rozmery vozidiel a jazdných súprav sa merajú bez žiadnych kladných tolerancií podľa STN 30 0026 – Základná terminológia cestných vozidiel. Rozmery vozidiel. Termíny a definície.
