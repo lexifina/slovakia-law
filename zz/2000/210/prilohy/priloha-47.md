@@ -1,3 +1,3 @@
 Príloha č. 47 k vyhláške č. 210/2000 Z. z.
 
-- ODMERNÉ NÁDOBY KOVOVÉ [Príloha 47](../assets/13ca79d62c202eb67243f3c600b72c3b33f9d2ed84992097b32eebf13d1fbc65.pdf)
+- ODMERNÉ NÁDOBY KOVOVÉ [Príloha 47](../assets/6c47515fa0e6ab65e81aba189399f8d8b571bfd83b2778b6e869107ac8a47a1d.pdf)
