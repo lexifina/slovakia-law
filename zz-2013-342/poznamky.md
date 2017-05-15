@@ -1,0 +1,1 @@
+- 1) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov (Mimoriadne vydanie Ú. v. EÚ, kap. 3/zv. 20) v platnom znení.
