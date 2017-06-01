@@ -1,10 +1,10 @@
-- 1) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 1) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 2) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
-- 3) § 81 až 114, § 132 až 134 zákona č. 400/2009 Z. z.
+- 3) Zákon č. 55/2017 Z. z.
 
-- 4) § 113 zákona č. 400/2009 Z. z.
+- 4) § 159 zákona č. 55/2017 Z. z.
 
 - 4a) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení neskorších predpisov.
 
