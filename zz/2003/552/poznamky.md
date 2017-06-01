@@ -16,6 +16,10 @@
 
 - 10) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
+- 10a) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- 10b) § 25 zákona č. 55/2017 Z. z.
+
 - 11) Napríklad zákon Slovenskej národnej rady č. 254/1991 Zb. o Slovenskej televízii v znení neskorších predpisov, zákon Slovenskej národnej rady č. 255/1991 Zb. o Slovenskom rozhlase v znení neskorších predpisov.
 
 - 12) Napríklad § 85, 101, 133 a 194 zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov, § 11 ods. 4 zákona Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, § 3 ods. 3 zákona č. 385/1997 Z. z. o Slovenskom národnom divadle v znení zákona č. 103/2014 Z. z., § 4 ods. 2. zákona č. 114/2000 Z. z. o Slovenskej filharmónii v znení zákona č. 103/2014 Z. z., § 11 ods. 2 písm. h) zákona č. 302/2001 Z. z. v znení neskorších predpisov, § 17 ods. 1 zákona č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov, § 5 ods. 3 zákona č. 103/2014 Z. z. o divadelnej činnosti a hudobnej činnosti a o zmene a doplnení niektorých zákonov.
@@ -24,10 +28,10 @@
 
 - 13) Napríklad zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-- 13a) Napríklad § 40 zákona č. 400/2009 Z. z.o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 13a) Napríklad § 64 zákona č. 55/2017 Z. z..
 
 - 13aa) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
-- 14) § 63 ods. 2 a 3 zákona č. 400/2009 Z. z..
+- 14) § 114 ods. 2 a 3 zákona č. 55/2017 Z. z..
 
 - 15) § 22 ods. 1 zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
