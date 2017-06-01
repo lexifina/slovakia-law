@@ -1,1 +1,0 @@
-Viera Petríková v. r.
