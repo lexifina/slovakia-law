@@ -10,6 +10,16 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - Ustanovenia odseku 1 písm. e), g) a h) sa vzťahujú aj na vedúceho zamestnanca v priamej riadiacej pôsobnosti predstavenstva zdravotnej poisťovne a osobu zodpovednú za výkon vnútornej kontroly.“.
 
+- 3. V § 6 ods. 1 písmená a) a b) znejú:
+
+- „a)
+
+- prijíma a potvrdzuje prihlášku na verejné zdravotné poistenie,<sup>11</sup>)
+
+- b)
+
+- vydáva poistencovi verejného zdravotného poistenia (ďalej len „poistenec“) preukaz poistenca s elektronickým čipom podľa osobitného predpisu<sup>11a</sup>) (ďalej len „preukaz poistenca“),“.
+
 - 4. V § 6 ods. 1 písm. i) sa za slovo „vyhotovuje“ vkladajú slová „všeobecný lekár alebo“.
 
 - 5. V § 6 sa odsek 1 dopĺňa písmenom w), ktoré znie:
@@ -19,6 +29,12 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 - refunduje zdravotnej poisťovni, ktorá uhradila poskytovateľovi zdravotnej starostlivosti alebo inštitúcii miesta pobytu, alebo inštitúcii miesta bydliska v inom členskom štáte bez právneho dôvodu alebo z dôvodu zániku poistného vzťahu v tejto zdravotnej poisťovni, náklady na poskytnutú zdravotnú starostlivosť za svojho poistenca alebo za osobu, pre ktorú je inštitúciou miesta pobytu alebo inštitúciou miesta bydliska; súčasne tejto zdravotnej poisťovni poskytuje údaje z účtu poistenca týkajúce sa poskytnutej zdravotnej starostlivosti a ostatnú potrebnú súčinnosť.“.
 
 - 7. V § 6a ods. 3 písm. i) sa za slovo „správu“ vkladajú slová „a rozvoj“.
+
+- 8. V § 6a sa odsek 3 dopĺňa písmenom j), ktoré znie:
+
+- „j)
+
+- úhrada za doručenie preukazu poistenca a bezpečnostného kódu k preukazu poistenca podľa osobitného predpisu.<sup>11a</sup>)“.
 
 - 9. § 7 sa dopĺňa odsekom 20, ktorý znie:
 
