@@ -14,6 +14,10 @@
 
 - 6a) § 15c ods. 1 zákona č. 138/1992 Zb. o autorizovaných architektoch a autorizovaných stavebných inžinieroch v znení neskorších predpisov.
 
+- § 38 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
+- § 3 ods. 4 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
 - 7) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
 - 7a) § 19 zákona č. 473/2005 Z. z. v znení zákona č. 598/2008 Z. z.
@@ -56,7 +60,7 @@
 
 - 26) Zákon č. 549/2003 Z. z. o súdnych úradníkoch v znení zákona č. 757/2004 Z. z.
 
-- 26a) § 19 ods. 4 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 26a) § 38 ods. 8 zákona č. 55/2017 Z. z.
 
 - 27) Napríklad § 2 ods. 3, § 34a ods. 2, § 36 a 37 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 7 ods. 15 písm. a) zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 3 písm. a) bod prvý zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 21a ods. 14 písm. a) a § 61 ods. 8 zákona č. 510/2002 Z. z. o platobnom styku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 48 ods. 12 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 23 ods. 12 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 ods. 1 zákona č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov, § 2 písm. e) bod prvý zákona č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov v znení zákona č. 644/2006 Z. z.
 
