@@ -4,6 +4,10 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 1. V § 1 ods. 2 druhej vete sa za slová „platobný účet spotrebiteľa“ vkladajú slová „alebo na účet stavebného sporiteľa“.
 
+- 2. V § 1 ods. 6 sa slová „§ 8, § 9 ods. 1 a ods. 2 písm. a) až l) a o) a t), ods. 4 a 6 až 8, § 11, § 12, § 14, § 16, § 18“ nahrádzajú slovami „§ 7 ods. 3, 6 až 14, § 8, § 9 ods. 1 a ods. 2 písm. a) až m), p) a u), ods. 4 a 6 až 8, § 11, § 12, § 14, § 16“.
+
+- 3. V § 1 ods. 6 sa na konci pripája táto veta: „To platí aj vtedy, ak na veriteľa prešla alebo bola prevedená pohľadávka z pôvodnej zmluvy o spotrebiteľskom úvere z pôvodného veriteľa.“.
+
 - 4. V § 7 ods. 3 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí pre údaje o iných úveroch a pôžičkách pre spotrebiteľov, ktoré nie sú spotrebiteľskými úvermi, ktoré poskytuje veriteľ podľa § 20 ods. 1 písm. a), banka, zahraničná banka a pobočka zahraničnej banky.“.
 
 - 5. V § 7 ods. 4 sa slová „15 a 16“ nahrádzajú slovami „16 a 17“.
@@ -11,6 +15,18 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 - 6. V § 7 ods. 6 a 7 sa vypúšťa slovo „aj“.
 
 - 7. V § 7 ods. 8 prvej vete sa za slovo „banky<sup>17a</sup>)“ vkladá čiarka a slová „a to bez ohľadu na to, či údaje získava z registra priamo alebo prostredníctvom iného registra,“.
+
+- 8. V § 7 ods. 8 písm. o) sa slovo „a“ nahrádza čiarkou.
+
+- 9. V § 7 sa odsek 8 dopĺňa písmenami q) a r), ktoré znejú:
+
+- „q)
+
+- dátum uplatnenia práva veriteľa na splatenie celého spotrebiteľského úveru a
+
+- r)
+
+- dôvod uplatnenia práva veriteľa na splatenie celého spotrebiteľského úveru.“.
 
 - 10. V § 7 ods. 9 tretej vete sa za slovo „registrov“ vkladajú slová „v rozsahu údajov podľa prvej vety“.
 
