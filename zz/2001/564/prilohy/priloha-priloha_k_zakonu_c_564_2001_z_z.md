@@ -666,23 +666,23 @@ Príloha k zákonu č. 564/2001 Z. z.
 
     - Platová trieda | Platová tarifa
 
-    - 1. | 420,50
+    - 1. | 471,00
 
-    - 2. | 447,00
+    - 2. | 499,50
 
-    - 3. | 489,50
+    - 3. | 545,00
 
-    - 4. | 524,50
+    - 4. | 583,00
 
-    - 5. | 628,00
+    - 5. | 694,50
 
-    - 6. | 675,00
+    - 6. | 745,00
 
-    - 7. | 757,50
+    - 7. | 834,00
 
-    - 8. | 904,50
+    - 8. | 992,00
 
-    - 9. | 1 047,00
+    - 9. | 1 145,50
 
     - STUPNICA PLATOVÝCH TARÍF ZAMESTNANCOV KANCELÁRIE VEREJNÉHO OCHRANCU PRÁV PRI VYKONÁVANÍ VEREJNEJ SLUŽBY
 

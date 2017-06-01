@@ -40,23 +40,23 @@
 
 - 17) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 18) Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 18) Zákon č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 19) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - Zákon č. 311/2001 Z. z. Zákonník práce.
 
-- 20) Zákon č. 400/2009 Z. z.
+- 20) Zákon č. 55/2017 Z. z.
 
 - Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
-- 21) Zákon č. 400/2009 Z. z.
+- 21) Zákon č. 55/2017 Z. z.
 
 - Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 311/2001 Z. z.
 
-- 22) § 113 zákona č. 400/2009 Z. z.
+- 22) § 159 zákona č. 55/2017 Z. z.
 
 - § 28 zákona č. 553/2003 Z. z.
 
