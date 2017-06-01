@@ -20,6 +20,12 @@
 
 - 11a) § 10a zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
+- 11aa) § 4a zákona č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení zákona č. 49/2012 Z. z.
+
+- 11ab) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11ac) Čl. 1 písm. k) nariadenia (ES) č. 883/2004 v platnom znení.
+
 - 12) § 17 ods. 7, § 18 a § 19 ods. 12 zákona č. 580/2004 Z. z.
 
 - 13) § 9 ods. 7 zákona č. 580/2004 Z. z.
