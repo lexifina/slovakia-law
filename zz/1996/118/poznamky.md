@@ -174,6 +174,6 @@
 
 - 18d) Napríklad § 1 ods. 2 písm. b) zákona č. 283/2002 Z. z. o cestovných náhradách.
 
-- 18e) § 61 ods. 5 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 505/2010 Z. z.
+- 18e) § 112 ods. 5 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 20) § 2 ods. 2 zákona Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov.
