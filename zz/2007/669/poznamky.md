@@ -8,7 +8,9 @@
 
 - 4) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
-- 4a) § 43a ods. 2 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+- 4a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
+
+- 4c) § 67 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 5) § 79 zákona č. 50/1976 Zb.
 
