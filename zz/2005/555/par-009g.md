@@ -28,4 +28,8 @@
 
   - 4. najneskorší termín vyhodnotenia žiadostí o príspevok,
 
+  - 5. technické parametre pre zdroj tepla, ktorého náklady je možné započítať do oprávnených nákladov podľa § 9c ods. 4 písm. c),
+
+- c) identifikačné údaje rodinného domu, na ktorého zateplenie bol poskytnutý príspevok.
+
 (3) Finančné prostriedky podľa § 9f ods. 9 vedie ministerstvo na samostatnom mimorozpočtovom účte.

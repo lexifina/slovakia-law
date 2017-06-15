@@ -10,6 +10,6 @@
 
 (2) Ak je rodinný dom v podielovom spoluvlastníctve viacerých fyzických osôb, žiadosť o príspevok môže podať ktorýkoľvek spoluvlastník, ktorý predloží úradne overený písomný súhlas všetkých spoluvlastníkov so zateplením rodinného domu a zároveň je ostatnými spoluvlastníkmi splnomocnený na zastupovanie v konaní o poskytnutí príspevku, prijímanie doručovaných písomností týkajúcich sa konania a na vyplatenie poskytnutého príspevku. Na uvedené účely môže byť splnomocnený len jeden spoluvlastník. Podpisy spoluvlastníkov na súhlase a písomnom plnomocenstve musia byť úradne overené.
 
-(3) Ak je rodinný dom v bezpodielovom spoluvlastníctve manželov, žiadosť o príspevok môže podať ktorýkoľvek z manželov, pričom je povinný predložiť aj písomný súhlas druhého manžela s podaním takejto žiadosti. Podpis druhého manžela na tejto listine musí byť úradne overený.
+(3) Ak je rodinný dom v bezpodielovom spoluvlastníctve manželov, žiadosť o príspevok môže podať ktorýkoľvek z manželov, pričom musí byť druhým manželom splnomocnený na zastupovanie v konaní o poskytnutí príspevku a prijímanie doručovaných písomností týkajúcich sa konania. Podpis druhého manžela na písomnom plnomocenstve musí byť úradne osvedčený.
 
 (4) Ak dôjde k prechodu vlastníckeho práva k rodinnému domu na oprávnených dedičov, títo preukazujú splnenie podmienky uvedenej v odseku 1 písm. c) predložením výpisu z listu vlastníctva, na ktorom je vedený rodinný dom.

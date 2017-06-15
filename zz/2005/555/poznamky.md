@@ -16,7 +16,7 @@
 
 - 5c) Napríklad čl. 107 a 108 zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 83, 30. 3. 2010), nariadenie Komisie (ES) č. 800/2008 zo 6. augusta 2008 o vyhlásení určitých kategórií pomoci za zlučiteľné so spoločným trhom podľa čl. 87 a 88 zmluvy (Všeobecné nariadenie o skupinových výnimkách) (Ú. v. EÚ L 214. 9. 8. 2008).
 
-- 5d) STN 73 0540-2: 2012 Tepelná ochrana budov, Tepelnotechnické vlastnosti stavebných konštrukcií a budov, Časť 2: Funkčné požiadavky.
+- 5d) STN 73 0540-2 Tepelná ochrana budov. Tepelnotechnické vlastnosti stavebných konštrukcií a budov. Časť 2: Funkčné požiadavky (73 0540).
 
 - 5e) Zákon č. 150/2013 Z. z. o Štátnom fonde rozvoja bývania v znení zákona č. 276/2015 Z. z.
 
