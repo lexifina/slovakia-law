@@ -1,3 +1,3 @@
 Príloha č. 2 k vyhláške č. 342/2015 Z. z.
 
-- ZHRNUTIE VÝSLEDKOV ENERGETICKÉHO HODNOTENIA [VZOR](../assets/c7b1da17aa678cd558b663905131757922449321ffacafd0e9d81f24e26e94c9.pdf)
+- ZHRNUTIE VÝSLEDKOV ENERGETICKÉHO HODNOTENIA [Príloha č. 2 k vyhláške č. 342/2015 Z. z.](../assets/12ea6f75e9a143eed72bfcc553c8880a06f705d5b849fbbec8951b31517dcddc.pdf)
