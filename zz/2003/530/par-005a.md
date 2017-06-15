@@ -1,6 +1,6 @@
 # § 5a Osobitné ustanovenia pre elektronické podanie
 
-(1) Návrh na zápis možno podať elektronickými prostriedkami. Tento návrh na zápis sa podáva v elektronickej podobe tlačiva, ktoré je zverejnené na webovom sídle ústredného portálu verejnej správy<sup>6b</sup>) a špecializovaného portálu<sup>6ba</sup>) a ktoré obsahuje náležitosti ustanovené osobitným predpisom,<sup>6c</sup>) a tento návrh musí byť podpísaný zaručeným elektronickým podpisom<sup>5aa</sup>) navrhovateľa, inak registrový súd naň neprihliada.
+(1) Návrh na zápis možno podať elektronickými prostriedkami. Tento návrh na zápis sa podáva v elektronickej podobe tlačiva, ktoré je zverejnené na webovom sídle ústredného portálu verejnej správy<sup>6b</sup>) a špecializovaného portálu<sup>6ba</sup>) a ktoré obsahuje náležitosti ustanovené osobitným predpisom,<sup>6c</sup>) a tento návrh musí byť autorizovaný<sup>5aa</sup>) navrhovateľom, inak registrový súd naň neprihliada.
 
 (2) Ten, kto podpisuje návrh na zápis elektronickým podpisom, je povinný zabezpečiť overenie svojich osobných údajov na účely elektronického konania.
 

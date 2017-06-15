@@ -14,7 +14,7 @@
 
 - 5a) § 69aa ods. 2 Obchodného zákonníka.
 
-- 5aa) § 4 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov.
+- 5aa) § 23 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
@@ -100,6 +100,8 @@
 
 - 16) Civilný mimosporový poriadok.
 
+- 16a) Vykonávacie nariadenie Komisie (EÚ) 2015/884 z 8. júna 2015, ktorým sa stanovujú technické špecifikácie a postupy potrebné pre systém prepojenia registrov stanovený smernicou Európskeho parlamentu a Rady 2009/101/ES (Ú. v. EÚ L 144, 10. 6. 2015).
+
 - 17) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
 
 - 17a) § 99 zákona č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
@@ -113,6 +115,8 @@
 - 21) § 7 ods. 2 zákona č. 275/2006 Z. z.
 
 - 21a) § 7 a 8 zákona č. 275/2006 Z. z.
+
+- 21aa) Čl. 3 ods. 27 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
 
 - 22) § 10 a nasl. zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 70/2008 Z. z.
 
