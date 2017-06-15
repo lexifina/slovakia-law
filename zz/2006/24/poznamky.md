@@ -2,6 +2,8 @@
 
 - 2) Napríklad zákon č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov, zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 313/1999 Z. z. o geologických prácach a o štátnej geologickej správe (geologický zákon) v znení neskorších predpisov, zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
 - 3) § 6 zákona č. 17/1992 Zb.
 
 - 4) § 8 zákona č. 17/1992 Zb.
@@ -60,7 +62,7 @@
 
 - 22) § 5 zákona č. 17/1992 Zb. v znení zákona č. 287/1994 Z. z.
 
-- 22a) Napríklad § 17 až 31 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 31 zákona č. 364/2004 Z. z. v znení neskorších predpisov, § 26, 32 a 35 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 22a) Napríklad § 17 až 31 zákona č. 543/2002 Z. z. v znení neskorších predpisov, § 16 a 31 zákona č. 364/2004 Z. z. v znení neskorších predpisov, § 26, 32 a 35 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22b) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
@@ -71,6 +73,10 @@
 - 25) Zákon č. 83/1990 Zb. v znení neskorších predpisov.
 
 - § 20f až 20j Občianskeho zákonníka.
+
+- 25a) Zákon č. 364/2004 Z. z. v znení neskorších predpisov.
+
+- 25b) § 10 a 11 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
 
 - 27) § 32 až 42, 54 až 70 a 76 až 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -83,6 +89,8 @@
 - 34b) § 15a zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
 - 35b) § 11 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 35c) § 28 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 36) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 

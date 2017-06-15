@@ -20,7 +20,7 @@ Príloha č. 8a k zákonu č. 24/2006 Z. z.
 
     - 1. Umiestnenie navrhovanej činnosti (kraj, okres, obec, katastrálne územie, parcelné číslo).
 
-    - 2. Stručný opis technického a technologického riešenia vrátane požiadaviek na vstupy (záber pôdy, spotreba vody, ostatné surovinové a energetické zdroje, dopravná a iná infraštruktúra, nároky na pracovné sily, iné nároky) a údajov o výstupoch (napríklad zdroje znečistenia ovzdušia, odpadové vody, iné odpady, zdroje hluku, vibrácií, žiarenia, tepla a zápachu, iné očakávané vplyvy, napríklad vyvolané investície).
+    - 2. Opis technického a technologického riešenia vrátane požiadaviek na vstupy (záber pôdy, spotreba vody, ostatné surovinové a energetické zdroje, dopravná a iná infraštruktúra, nároky na pracovné sily, iné nároky) a údajov o výstupoch (napríklad zdroje znečistenia ovzdušia, odpadové vody, iné odpady, zdroje hluku, vibrácií, žiarenia, tepla a zápachu, iné očakávané vplyvy, napríklad vyvolané investície).
 
     - 3. Prepojenie s ostatnými plánovanými a realizovanými činnosťami v dotknutom území a možné riziká havárií vzhľadom na použité látky a technológie.
 
