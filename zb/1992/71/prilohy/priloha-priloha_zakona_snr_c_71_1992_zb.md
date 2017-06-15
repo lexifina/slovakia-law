@@ -278,11 +278,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - b) za vyhotovenie fotokópie listiny uloženej v zbierke listín, za každú, aj začatú stranu | 0,33 eura, najmenej 1,50 eura,
 
-- c) za zaslanie elektronickej podoby listiny uloženej v zbierke listín elektronickými prostriedkami | 0,33 eura,
-
-- d) za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 3 eurá,
-
-- e) za zaslanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín elektronickými prostriedkami | 0,33 eura,
+- c) za vyhotovenie a vydanie potvrdenia o tom, že v obchodnom registri určitý zápis nie je, alebo potvrdenia o tom, že určitá listina nie je uložená do zbierky listín | 3 eurá,
 
 - Poznámka: Vyhotovenie a vydanie výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa 285 ods. 3 Civilného mimosporového poriadku, poplatku nepodliehajú. Vyhotovenie a vydanie výpisu z obchodného registra v elektronickej podobe poplatku nepodlieha. |
 
