@@ -162,18 +162,6 @@ Zákon č. 435/2000 Z. z. o námornej plavbe v znení zákona č. 581/2003 Z. z.
 
 - V poverení podľa odseku 4 ministerstvo môže ustanoviť povinnosť pre uznanú klasifikačnú spoločnosť zriadiť organizačnú zložku so sídlom na území Slovenskej republiky.
 
-- (6)
-
-- Ministerstvo predkladá Medzinárodnej námornej organizácii žiadosť o vykonanie auditu.
-
-- (7)
-
-- Ministerstvo zabezpečí, aby sa audit vykonaný na ministerstve Medzinárodnou námornou organizáciou uskutočnil najmenej raz za sedem rokov.
-
-- (8)
-
-- Výsledky auditu sa zverejnia v súlade s osobitným predpisom.<sup>1be</sup>)
-
 - (9)
 
 - Ministerstvo vydá osvedčenie<sup>1bb</sup>) o poistení zodpovednosti dopravcu<sup>1bb</sup>) pre prípad smrti alebo úrazu cestujúcich, ak dopravca uzavrel zmluvu o poistení zodpovednosti dopravcu pre prípad námornej nehody námornej osobnej lode v súlade s osobitným predpisom<sup>1bf</sup>) na jeden rok.
