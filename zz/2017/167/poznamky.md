@@ -1,0 +1,1 @@
+- *) § 13 ods. 5 zákona Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov a § 3 ods. 2 písm. c) zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
