@@ -44,6 +44,10 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - zmluva o poskytovaní zdravotnej starostlivosti obsahuje náležitosti podľa § 7 ods. 9 písm. e) a f),
 
+- b)
+
+- počítačový program zdravotnej poisťovne má osvedčenú zhodu podľa § 20ca ods. 11.
+
 - (3)
 
 - Príslušná zdravotná poisťovňa uhrádza zdravotné výkony poskytnuté poistencovi zariadením spoločných zložiek počas poskytovania ústavnej zdravotnej starostlivosti hradenej podľa klasifikačného systému poskytovateľovi ústavnej starostlivosti, kde úhrada za zdravotné výkony zariadenia spoločných zložiek je zahrnutá v celkovej úhrade za poskytnutú ústavnú zdravotnú starostlivosť, alebo zariadeniu spoločných zložiek v závislosti od dohody o úhrade podľa § 7 ods. 9 písm. f).
@@ -116,7 +120,11 @@ Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou 
 
 - q)
 
-- zrušuje platnosť osvedčenia o zhode,“.
+- zrušuje platnosť osvedčenia o zhode,
+
+- r)
+
+- overuje správnosť zaradenia hospitalizačného prípadu do diagnosticko-terapeutickej skupiny na žiadosť zdravotnej poisťovne alebo poskytovateľa ústavnej zdravotnej starostlivosti.“.
 
 - 10. Za § 20c sa vkladá § 20ca, ktorý vrátane nadpisu znie:
 
