@@ -96,6 +96,10 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - určiť na pokyn operačného strediska tiesňového volania záchrannej zdravotnej služby lekára a sestru zo zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti, ktoré prevádzkuje a v ktorom má byť dieťa hospitalizované, na zabezpečenie poskytovania zdravotnej starostlivosti pri preprave dieťaťa transportným inkubátorom a pri preprave dieťaťa, ktorému zlyhávajú základné životné funkcie, ktoré bezprostredne ohrozujú jeho život, z iného zdravotníckeho zariadenia ústavnej zdravotnej starostlivosti,
 
+- zy)
+
+- vypracovať traumatologický plán<sup>55jai</sup>) na poskytovanie zdravotnej starostlivosti pri udalosti s hromadným postihnutím osôb, ak ide o poskytovateľa ústavnej zdravotnej starostlivosti zaradeného v pevnej sieti poskytovateľov (§ 5 ods. 3),
+
 - zz)
 
 - vytvoriť a dodržiavať systém kvality a bezpečnosti tkanivového zariadenia (§ 9a) a priebežne ho aktualizovať,
@@ -150,7 +154,11 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Poznámky pod čiarou k odkazom 55jai až 55jap znejú:
 
-  - „55jaj)
+  - „55jai)
+
+  - § 4a písm. a) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 428/2015 Z. z.
+
+  - 55jaj)
 
   - § 37 ods. 5 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
