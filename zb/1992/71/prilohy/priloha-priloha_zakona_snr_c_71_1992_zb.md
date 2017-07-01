@@ -308,7 +308,7 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 28 |
 
-- Za vyhotovenie ďalšieho rovnopisu rozhodnutia vydaného súdom alebo za vyhotovenie odpisu alebo výpisu zo záznamov, zápisníc a spisov vedených súdom | 1,50 eura za každých začatých desať strán rovnopisu, odpisu alebo výpisu
+- Za vyhotovenie ďalšieho rovnopisu rozhodnutia vydaného súdom alebo za vyhotovenie odpisu alebo výpisu zo záznamov, zápisníc a spisov vedených súdom | 10 eur za každý rovnopis, odpis alebo výpis
 
 - Položka 29 |
 
