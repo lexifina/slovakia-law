@@ -1,0 +1,1 @@
+Ján Čarnogurský v. r.
