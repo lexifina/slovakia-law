@@ -240,6 +240,8 @@
 
 - 55jah) Napr. zákon č. 577/2004 Z. z., § 13 zákona č. 576/2004 Z. z., nariadenie vlády Slovenskej republiky č. 722/2004 Z. z. o výške úhrady poistenca za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 777/2004 Z. z., ktorým sa vydáva Zoznam chorôb, pri ktorých sa zdravotné výkony čiastočne uhrádzajú alebo sa neuhrádzajú na základe verejného zdravotného poistenia.
 
+- 55jai) § 4a písm. a) zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení zákona č. 428/2015 Z. z.
+
 - 55jaia) § 15 zákona č. 317/2016 Z. z.
 
 - 55jaj) § 5 zákona č. 317/2016 Z. z.
