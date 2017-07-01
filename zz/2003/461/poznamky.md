@@ -76,7 +76,7 @@
 
 - 35c) Zákon č. 378/2015 Z. z. o dobrovoľnej vojenskej príprave a o zmene a doplnení niektorých zákonov.
 
-- 36) Zákon č. 280/2002 Z. z. o rodičovskom príspevku v znení neskorších predpisov.
+- 36) Zákon č. 571/2009 Z. z. o rodičovskom príspevku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 38) Zákonník práce.
 
@@ -264,21 +264,33 @@
 
 - 98) § 5 zákona č. 283/2002 Z. z. o cestovných náhradách.
 
-- 100) Zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov.
-
-- § 69 až 73 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
-
-- § 29b ods. 3 zákona č. 59/1965 Zb. v znení neskorších predpisov.
-
-- § 12b ods. 3 zákona Národnej rady Slovenskej republiky č. 156/1993 Z. z. v znení zákona č. 451/2002 Z. z.
-
 - 100a) § 26 ods. 3 zákona č. 43/2004 Z. z.
+
+- 100aa) Napríklad zákon č. 328/2002 Z. z. v znení neskorších predpisov, zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 100ab) § 73 ods. 10 a § 74 ods. 7 písm. h) zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
+
+- 100ac) § 73 ods. 1 až 8 a 10 zákona č. 448/2008 Z. z. v znení neskorších predpisov.
+
+- 100ad) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 100ae) § 19 zákona č. 447/2008 Z. z.
+
+- 100af) Napríklad zákon č. 238/1998 Z. z. o príspevku na pohreb v znení neskorších predpisov, zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 571/2009 Z. z. v znení neskorších predpisov.
+
+- 100ag) Zákon č. 627/2005 Z. z. o príspevkoch na podporu náhradnej starostlivosti o dieťa v znení neskorších predpisov.
+
+- 100ah) § 64 až 70 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 100ai) § 716 až 719 Obchodného zákonníka.
+
+- 100aj) Napríklad § 8 ods. 10 zákona č. 523/2004 Z. z. v znení zákona č. 171/2005 Z. z., § 92 ods. 11 zákona č. 448/2008 Z. z.
+
+- 100ak) § 14 zákona č. 514/2008 Z. z. o nakladaní s odpadom z ťažobného priemyslu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 100b) § 27 ods. 2 zákona č. 43/2004 Z. z. v znení neskorších predpisov.
 
 - 100c) § 6 ods. 1 zákona č. 98/1987 Zb. o osobitnom príspevku baníkom v znení neskorších predpisov.
-
-- 100d) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
 
 - 101) § 8a ods. 1 písm. r) zákona Národnej rady Slovenskej republiky č. 330/1996 Z. z. v znení zákona č. 158/2001 Z. z.
 
