@@ -36,4 +36,6 @@
 
 - q) zrušuje platnosť osvedčenia o zhode,
 
+- r) overuje správnosť zaradenia hospitalizačného prípadu do diagnosticko-terapeutickej skupiny na žiadosť zdravotnej poisťovne alebo poskytovateľa ústavnej zdravotnej starostlivosti.
+
 (2) Užívateľmi klasifikačného systému sú zdravotné poisťovne a poskytovatelia ústavnej zdravotnej starostlivosti, ktorí sú držiteľmi povolenia na prevádzkovanie všeobecnej nemocnice alebo povolenia na prevádzkovanie špecializovanej nemocnice a ktorí majú so zdravotnou poisťovňou uzatvorenú zmluvu podľa § 7.
