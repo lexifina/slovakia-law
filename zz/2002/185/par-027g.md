@@ -4,7 +4,7 @@
 
 - a) člen súdnej rady,
 
-- b) minister spravodlivosti Slovenskej republiky,
+- b) minister spravodlivosti,
 
 - c) stavovská organizácia sudcov,
 

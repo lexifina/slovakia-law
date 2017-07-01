@@ -2,7 +2,7 @@
 
 # § 4a
 
-(1) Návrh kandidáta na voľbu predsedu súdnej rady môžu podať najmenej traja členovia súdnej rady. K návrhu sa prikladá vlastnoručne podpísané vyhlásenie kandidáta, že súhlasí so svojou kandidatúrou. Voľba predsedu súdnej rady sa vykonáva tajným hlasovaním.
+(1) Návrh kandidáta na voľbu predsedu súdnej rady môžu podať najmenej traja členovia súdnej rady. K návrhu sa prikladá vlastnoručne podpísané vyhlásenie kandidáta, že súhlasí so svojou kandidatúrou.
 
 (2) O priebehu a výsledkoch volieb predsedu súdnej rady sa vyhotoví zápisnica, v ktorej sa uvedie najmä
 
