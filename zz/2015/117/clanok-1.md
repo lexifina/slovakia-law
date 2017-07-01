@@ -232,6 +232,32 @@ Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o z
 
 - 18. V § 106 ods. 3 sa slovo „zriadi“ nahrádza slovami „môže zriadiť“.
 
+- 19. § 107 sa dopĺňa odsekmi 14 až 19, ktoré znejú:
+
+- „(14)
+
+- Emitent môže požiadať o presun emisie cenných papierov z registra emitenta v evidencii centrálneho depozitára do registra emitenta v evidencii iného centrálneho depozitára. Centrálny depozitár, v ktorého evidencii je emisia cenných papierov zaregistrovaná, je povinný na základe zmluvy umožniť emitentovi presun emisie cenných papierov k inému centrálnemu depozitárovi, ktorý povedie pre emitenta evidenciu podľa § 99.
+
+- (15)
+
+- Presun emisie cenných papierov centrálni depozitári vykonajú tak, aby nedošlo k obmedzeniu práv súvisiacich s cennými papiermi predmetnej emisie cenných papierov.
+
+- (16)
+
+- Emitent listinných akcií na meno môže požiadať o presun vedenia zoznamu akcionárov listinných akcií na meno centrálny depozitár, v ktorom má záujem o vedenie zoznamu akcionárov listinných akcií na meno, a centrálny depozitár, v ktorom má vedený zoznam akcionárov listinných akcií na meno v čase podania tejto žiadosti. Centrálny depozitár, ktorý vedie zoznam akcionárov listinných akcií na meno, je povinný na základe zmluvy umožniť emitentovi zmenu centrálneho depozitára, ktorý povedie pre emitenta evidenciu akcionárov listinných akcií na meno.
+
+- (17)
+
+- Žiadosť podaná emitentom podľa odseku 16 sa vzťahuje na všetky zoznamy akcionárov listinných akcií na meno daného emitenta, ktoré boli v čase podania žiadosti vedené v evidencii zoznamov majiteľov listinných akcií na meno.
+
+- (18)
+
+- Za vedenie zoznamu majiteľov listinných akcií na meno zodpovedá ten centrálny depozitár, v ktorého evidencii je zoznam akcionárov listinných akcií na meno vedený podľa ustanovení tohto paragrafu, a to od prvého dňa vedenia zoznamu akcionárov listinných akcií na meno do dňa ukončenia vedenia zoznamu akcionárov listinných akcií na meno.
+
+- (19)
+
+- Centrálny depozitár je povinný v prevádzkovom poriadku upraviť podrobnejšie podmienky zmeny vedenia registra emitenta a zmeny vedenia zoznamu akcionárov listinných akcií na meno.“.
+
 - 20. Za § 107b sa vkladá § 107c, ktorý vrátane nadpisu znie:
 
 - „§ 107c
