@@ -654,6 +654,10 @@
 
 - 86df) § 15b ods. 6 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
 
+- 86dg) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 86dh) § 225j zákona č. 461/2003 Z. z. v znení zákona č. 2/2017 Z. z.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
