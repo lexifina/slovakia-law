@@ -94,13 +94,7 @@
 
 - 25) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 27) Napríklad § 2 ods. 1 a § 10 ods. 1 písm. b) zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch.
-
-- 28) Napríklad § 82f ods. 4 a 5 zákona Slovenskej národnej rady Slovenskej republiky č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov, § 13 ods. 3, § 15 ods. 2 a § 35 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
-
 - 28a) § 4 ods. 2 písm. b) zákona č. 185/2002 Z. z. o Súdnej rade Slovenskej republiky a o zmene a doplnení niektorých zákonov.
-
-- 28aa) § 42 zákona č. 757/2004 Z. z.
 
 - 28b) Napríklad zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 

@@ -18,7 +18,7 @@
 
 - d) lehotu na predloženie návrhov na kandidátov, ktorá nesmie byť kratšia ako 45 dní odo dňa doručenia žiadosti.
 
-(3) Sudcovské rady, minister a národná rada predložia súdnej rade dvojnásobný počet kandidátov na členov disciplinárnych senátov alebo kandidátov na predsedov disciplinárnych senátov, ktorých bude súdna rada voliť. Ak bol ten istý kandidát navrhnutý viacerými navrhovateľmi, súdna rada si od toho, koho návrh bol doručený neskôr, bez zbytočného odkladu vyžiada nový návrh na kandidáta.
+(3) Sudcovské rady, minister a národná rada predložia súdnej rade kandidátov na členov disciplinárnych senátov alebo kandidátov na predsedov disciplinárnych senátov, ktorých bude súdna rada voliť. Ak bol ten istý kandidát navrhnutý viacerými navrhovateľmi, súdna rada si od toho, koho návrh bol doručený neskôr, bez zbytočného odkladu vyžiada nový návrh na kandidáta.
 
 (4) Ak nebol zvolený potrebný počet predsedov disciplinárneho senátu alebo členov disciplinárneho senátu v jednotlivých databázach, vyhlási súdna rada bezodkladne v potrebnom rozsahu doplňujúce voľby.
 

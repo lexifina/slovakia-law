@@ -12,4 +12,4 @@
 
 (4) O priznaní odmeny predsedovi okresného súdu rozhodne predseda príslušného krajského súdu a o priznaní odmeny predsedovi krajského súdu rozhodne minister. O priznaní odmeny predsedovi najvyššieho súdu rozhoduje súdna rada na návrh podpredsedu najvyššieho súdu.
 
-(5) Odmenu možno priznať v mesiaci november a vyplatiť vo výplatnom termíne určenom na výplatu platu za mesiac november. Priznanie a vyplatenie odmeny nesmie ohroziť financovanie zákonom priznaných platových náležitostí v rámci príslušnej rozpočtovej kapitoly.
+(5) Odmenu možno priznať v mesiaci november a vyplatiť vo výplatnom termíne určenom na výplatu platu za mesiac november; to neplatí pre odmeny vyplácané z rozpočtovej kapitoly Kancelárie Najvyššieho súdu Slovenskej republiky. Priznanie a vyplatenie odmeny nesmie ohroziť financovanie zákonom priznaných platových náležitostí v rámci príslušnej rozpočtovej kapitoly.

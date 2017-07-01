@@ -2,7 +2,7 @@
 
 Pri hodnotení sudcu sa vychádza
 
-- a) z prieskumu rozhodovacej činnosti, plynulosti a dôstojnosti vedenia súdneho konania v hodnotenom období,
+- a) z prieskumu rozhodovacej činnosti, plynulosti a dôstojnosti vedenia súdneho konania v hodnotenom období, pričom sa prihliada na právnu a skutkovú zložitosť vecí pridelených sudcovi,
 
 - b) zo stanovísk odvolacích senátov, prípadne dovolacích senátov,
 

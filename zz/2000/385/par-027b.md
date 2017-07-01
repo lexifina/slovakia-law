@@ -1,13 +1,9 @@
 # § 27b
 
-(1) Hodnotenie sudcu vykonáva
+(1) Hodnotenie sudcov v obvode krajského súdu vykonáva trojčlenná hodnotiaca komisia zložená zo sudcov. Za člena hodnotiacej komisie podľa prvej vety môže byť zvolený aj sudca, ktorý má prerušený výkon funkcie podľa § 24 ods. 4.
 
-- a) predseda grémia alebo spoločného grémia, ktorého je hodnotený sudca členom, ak ide o sudcu okresného súdu; ak grémium ani spoločné grémium nie je zriadené, hodnotenie sudcu okresného súdu vykonáva sudca zvolený plénom okresného súdu,
+(2) Členov hodnotiacej komisie volí a odvoláva súdna rada. Pre obvod krajského súdu zvolí troch členov zo sudcov iného obvodu krajského súdu. Funkčné obdobie členov hodnotiacej komisie je päť rokov. Návrh na voľbu člena hodnotiacej komisie môže súdnej rade podať člen súdnej rady, minister spravodlivosti, stavovská organizácia sudcov, kolégiá predsedov sudcovských rád, sudcovské rady, a ak ide o hodnotiacu komisiu najvyššieho súdu, aj predseda najvyššieho súdu.
 
-- b) predseda kolégia, ktorého je hodnotený sudca členom, ak ide o sudcu krajského súdu a najvyššieho súdu,
+(3) Sudca zvolený za člena hodnotiacej komisie nevykonáva funkciu sudcu. Členstvo v hodnotiacej komisii sa považuje za výkon funkcie sudcu. Ustanovenia tohto zákona o dočasnom pridelení sudcu sa použijú primerane aj na člena hodnotiacej komisie.
 
-- c) sudca Špecializovaného trestného súdu zvolený plénom tohto súdu.
-
-(2) Ak predseda grémia alebo predseda kolégia nie je zvolený, hodnotenie sudcu vykonávajú traja funkčne najstarší sudcovia príslušného súdu, ktorí sa súčasne hodnotia navzájom.
-
-(3) Predsedu grémia okresného súdu hodnotí iný člen grémia určený grémiom. Predsedu kolégia hodnotí iný člen kolégia určený kolégiom.
+(4) Hodnotenie sudcu najvyššieho súdu vykonáva predseda kolégia, ktorého je hodnotený sudca členom. Predsedu kolégia hodnotí iný člen kolégia určený kolégiom.

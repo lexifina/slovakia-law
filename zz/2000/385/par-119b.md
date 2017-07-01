@@ -20,4 +20,4 @@
 
 (3) Sudca môže byť zvolený za predsedu disciplinárneho senátu alebo člena disciplinárneho senátu a iná osoba ako sudca za člena disciplinárneho senátu najviac dve po sebe nasledujúce funkčné obdobia.
 
-(4) Na účely disciplinárneho konania sa sudcovia zvolení podľa odseku 1, ktorí nie sú sudcami najvyššieho súdu, považujú za sudcov dočasne pridelených podľa § 12 ods. 1 na najvyšší súd; nezakladá to však nárok na základný plat alebo príplatky, ktoré takému prideleniu zodpovedajú podľa tohto zákona. Iná osoba ako sudca, ktorá je zvolená za člena disciplinárneho senátu, vykonáva funkciu člena disciplinárneho senátu bez nároku na odmenu; má však nárok na náhradu výdavkov spojených s výkonom jeho funkcie člena disciplinárneho senátu podľa osobitného predpisu.<sup>16</sup>)
+(4) Iná osoba ako sudca, ktorá je zvolená za člena disciplinárneho senátu, vykonáva funkciu člena disciplinárneho senátu za odmenu, pričom má nárok aj na náhradu výdavkov spojených s výkonom jeho funkcie člena disciplinárneho senátu podľa osobitného predpisu;<sup>16</sup>) podrobnosti ustanoví ministerstvo všeobecne záväzným právnym predpisom.
