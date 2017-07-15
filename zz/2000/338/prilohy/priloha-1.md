@@ -29,3 +29,5 @@ Príloha č. 1 k zákonu č. 338/2000 Z. z. v znení zákona č. 193/2007 Z. z.
   - 13. Smernica Rady 2013/22/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti dopravnej politiky (Ú. v. EÚ L 158, 10. 6. 2013).
 
   - 14. Smernica Komisie 2014/103/EÚ z 21. novembra 2014, ktorou sa prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru tretíkrát prispôsobujú vedecko-technickému pokroku (Ú. v. EÚ L 335, 22. 11. 2014).
+
+  - 15. Smernica Komisie (EÚ) 2016/2309 zo 16. decembra 2016, ktorou sa prílohy k smernici Európskeho parlamentu a Rady 2008/68/ES o vnútrozemskej preprave nebezpečného tovaru štvrtýkrát prispôsobujú vedecko-technickému pokroku (Ú. v. EÚ L 345, 20. 12. 2016).
