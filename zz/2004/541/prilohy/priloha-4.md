@@ -13,3 +13,7 @@ Príloha č. 4 k zákonu č. 541/2004 Z. z.
   - 5. Smernica Rady 2011/70/Euratom z 19. júla 2011, ktorou sa zriaďuje rámec Spoločenstva pre zodpovedné a bezpečné nakladanie s vyhoretým palivom a rádioaktívnym odpadom (Ú. v. EÚ L 199, 2. 8. 2011).
 
   - 6. Smernica Európskeho parlamentu a Rady 2011/92/EÚ z 13. decembra 2011 o posudzovaní vplyvov určitých verejných a súkromných projektov na životné prostredie (kodifikované znenie) (Ú. v. EÚ L 26, 28. 1. 2012).
+
+  - 7. Smernica Rady 2013/59/Euratom z 5. decembra 2013, ktorou sa stanovujú základné bezpečnostné normy ochrany pred nebezpečenstvami vznikajúcimi v dôsledku ionizujúceho žiarenia, a ktorou sa zrušujú smernice 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom a 2003/122/Euratom (Ú. v. EÚ L 13, 17. 1. 2014).
+
+  - 8. Smernica Rady 2014/87/Euratom z 8. júla 2014, ktorou sa mení smernica 2009/71/Euratom z 25. júna 2009, ktorou sa zriaďuje rámec Spoločenstva pre jadrovú bezpečnosť jadrových zariadení (Ú. v. EÚ L 219, 25. 7. 2014).

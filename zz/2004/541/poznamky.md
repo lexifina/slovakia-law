@@ -8,6 +8,10 @@
 
 - 1aaa) § 2 ods. 2 písm. u) zákona č. 355/2007 Z. z.
 
+- 1aaaa) Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 1aaaaa) Čl. 30 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Ú. v. EÚ C 203, 7. 6. 2016).
+
 - 1ab) Čl. 2 ods. 13 nariadenia Komisie (Euratom) č. 302/2005 z 8. februára 2005 o uplatňovaní systému záruk Euratomu (Ú. v. EÚ L 54, 28. 2. 2005).
 
 - 1ac) Tabuľka č. 1 prílohy č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
@@ -26,8 +30,6 @@
 
 - 3b) Čl. 4 ods. 4 Dohovoru o prístupe k informáciám, účasti verejnosti na rozhodovacom procese a prístupe k spravodlivosti v záležitostiach životného prostredia (oznámenie č. 43/2006 Z. z.).
 
-- 3c) § 11 ods. 1 písm. h) zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 145/2010 Z. z.
-
 - 4) Napríklad Dohovor o včasnom oznamovaní jadrovej havárie (oznámenie č. 327/2001 Z. z.), rozhodnutie Rady 87/600/Euratom zo dňa 14. decembra 1987 o opatreniach Spoločenstva pre včasnú výmenu informácií v prípade radiačnej mimoriadnej situácie (Úradný vestník Európskych spoločenstiev L 371, 30. 12. 1987).
 
 - 5) Článok 37 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
@@ -35,8 +37,6 @@
 - 6) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - 7) § 121 ods. 2 písm. e) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
-
-- 7a) Dohovor o jadrovej bezpečnosti (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 163/1997 Z. z.).
 
 - 7b) Zákon č. 54/2015 Z. z. o občianskoprávnej zodpovednosti za jadrovú škodu a o jej finančnom krytí a o zmene a doplnení niektorých zákonov.
 
@@ -94,11 +94,7 @@
 
 - 20h) § 1 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky.
 
-- 21) Čl. 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Ú. v. EÚ C 84, 30. 3. 2010).
-
-- Nariadenie Rady (Euratom) č. 2587/1999 zo dňa 2. decembra 1999, ktorým sa vymedzujú investičné projekty, ktoré treba oznamovať Komisii v súlade s článkom 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Mimoriadne vydanie Ú. v. EÚ, kap. 12/zv. 2; Ú. v. ES L 315, 9.12. 1999).
-
-- Nariadenie Komisie (ES) č. 1209/2000 zo dňa 8. júna 2000 o podávaní oznámení podľa článku 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu (Mimoriadne vydanie Ú. v. EÚ, kap. 12/zv. 2; Ú. v. ES L 138, 9. 6. 2000) v platnom znení.
+- 21) Čl. 41 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
 
 - 22) § 43 až 85 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
@@ -117,6 +113,8 @@
 - Nariadenie vlády Slovenskej republiky č. 312/2007 Z. z., ktorým sa ustanovujú podrobnosti o spôsobe výberu a platenia povinného príspevku na Národný jadrový fond na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi.
 
 - 29) Článok 7 ods. 4 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
+
+- 29a) § 5 ods. 5 písm. b) zákona č. 355/2007 Z. z.
 
 - 30) § 11 zákona č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
@@ -142,7 +140,19 @@
 
 - 37c) Zákon č. 482/2002 Z. z. v znení neskorších predpisov.
 
+- 37d) § 50 zákona č. 215/2004 Z. z.
+
+- 37e) § 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
+
+- § 3 vyhlášky Ministerstva vnútra Slovenskej republiky č. 533/2006 Z. z. o podrobnostiach o ochrane obyvateľstva pred účinkami nebezpečných látok.
+
 - 38) Napríklad § 13 ods. 1 písm. i) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 38a) Čl. 1 a 2 Dohovoru o včasnom oznamovaní jadrovej havárie (oznámenie č. 327/2001 Z. z.).
+
+- 38b) Čl. 1 rozhodnutia Rady 87/600/Euratom.
+
+- 38c) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov, § 3 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
 - 39) Viedenský dohovor o občianskoprávnej zodpovednosti za škody spôsobené jadrovou udalosťou (oznámenie č. 70/1996 Z. z.).
 
@@ -161,6 +171,16 @@
 - 44) § 51až 88 zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 45) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 45a) § 23 ods. 1 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
+
+- 45b) § 29 až 33 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 45c) § 2 ods. 2 písm. a) zákona č. 305/2013 Z. z.
+
+- 45d) § 6 ods. 10 zákona č. 215/2004 Z. z.
+
+- Vyhláška Národného bezpečnostného úradu č. 453/2007 Z. z. o administratívnej bezpečnosti v znení neskorších predpisov.
 
 - 46) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998 o postupe pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
 
