@@ -132,23 +132,31 @@ Príloha č. 2 k vyhláške č. 271/2011 Z. z.
 
     - 6. Emisie z ťažby alebo pestovania surovín „e<sub>ec</sub>“ zahŕňajú emisie zo samotného procesu ťažby alebo pestovania, zo zberu surovín, z odpadov a úniku látok a z výroby chemických látok alebo produktov používaných pri ťažbe alebo pestovaní. Zachytávanie CO<sub>2</sub> pri pestovaní surovín sa nezahŕňa. Certifikované zníženie emisií skleníkových plynov zo spaľovania prebytočného plynu na mieste produkcie ropy kdekoľvek na svete sa odpočítava. Odhadované množstvá emisií z pestovania možno vypočítať podľa údajov uvedených v správach členských štátov o NUTS, ktoré uzná Európska komisia.
 
-    - 7. Množstvo emisií za rok, vyplývajúcich zo zmien zásob uhlíka spôsobených zmenami vo využívaní pôdy „e<sub>l</sub>“, sa vypočítava rovnomerným delením celkových emisií počas obdobia dvadsiatich rokov. Na výpočet týchto emisií sa používa tento vzorec:
+    - 7. Množstvo emisií za rok vyplývajúcich zo zmien zásob uhlíka spôsobených zmenami vo využívaní pôdy, el, sa vypočítava rovnomerným rozdelením celkových emisií za obdobie 20 rokov. Na výpočet týchto emisií sa používa tento vzorec:
 
-      - e<sub>l</sub> = (CS<sub>R</sub> – CS<sub>A</sub>) × 3,664 × 1/20 × 1/P – e<sub>B</sub> ,
+      - e<sub>l</sub> = (CS<sub>R</sub> - CS<sub>A</sub>) × 3,664 × <sup>1</sup>⁄<sub>20</sub> × <sup>1</sup>⁄<sub>P</sub> - e<sub>B</sub>*),
 
       - kde
 
-      - el = ročné emisie skleníkových plynov, ktoré vznikajú pri zmenách zásob uhlíka spôsobených zmenami vo využívaní pôdy (vyjadrené v hmotnosti ekvivalentu CO<sub>2</sub> na jednotku energie získanej z biopaliva),
+      - e<sub>l</sub> je množstvo emisií skleníkových plynov na rok vyplývajúcich zo zmien zásob uhlíka spôsobených zmenou využívania pôdy [g CO<sub>2eq</sub>/MJ]; orná pôda **) a pôda pre trváce plodiny***) sa považujú za jedno využitie pôdy,
 
-      - CSR = zásoba uhlíka na jednotku plochy súvisiaca s referenčným využívaním pôdy (vyjadrená v hmotnosti uhlíka na jednotku plochy vrátane pôdy a vegetácie). Za referenčné využívanie pôdy sa považuje využívanie pôdy v januári 2008 alebo využívanie pôdy dvadsať rokov predtým, ako sa získali suroviny, podľa toho, ktoré využívanie sa realizovalo neskôr,
+      - CS<sub>R</sub> je zásoba uhlíka na jednotku plochy súvisiaca s referenčným využívaním pôdy (vyjadrená v hmotnosti uhlíka [t] na jednotku plochy vrátane pôdy a vegetácie). Za referenčné využívanie pôdy sa považuje využívanie pôdy v januári 2008 alebo využívanie pôdy 20 rokov pred tým, ako sa získali suroviny, podľa toho, ktoré využívanie sa realizovalo neskôr,
 
-      - CS<sub>A</sub> = zásoba uhlíka na jednotku plochy súvisiaca so skutočným využívaním pôdy (vyjadrená v hmotnosti uhlíka na jednotku plochy vrátane pôdy a vegetácie). Ak sa zásoba uhlíka zhromažďuje viac ako jeden rok, hodnotou CS<sub>A</sub> je odhadovaná zásoba na jednotku plochy po dvadsiatich rokoch alebo po dozretí plodín, podľa toho, ktoré obdobie nastane skôr,
+      - CS<sub>A</sub> je zásoba uhlíka na jednotku plochy súvisiaca so skutočným využívaním pôdy (vyjadrená v hmotnosti uhlíka [t] na jednotku plochy vrátane pôdy a vegetácie). Ak sa zásoba uhlíka zhromažďuje viac ako jeden rok, hodnotou CS<sub>A</sub> je odhadovaná zásoba na jednotku plochy po dvadsiatich rokoch alebo po dozretí plodín, podľa toho, ktoré obdobie nastane skôr,
 
-      - P = produktivita plodín (meraná ako energia získaná z biopaliva na jednotku plochy za rok) a
+      - P je produktivita plodín (meraná ako energia získaná z biopaliva a biokvapaliny na jednotku plochy za rok) a
 
-      - e<sub>B</sub> = bonus vo výške 29g CO<sub>2eq</sub>/MJ biopalív alebo biokvapalín, ak sa biomasa získava z obnovenej znehodnotenej pôdy za podmienok ustanovených v bode 8.
+      - e<sub>B</sub> je bonus vo výške 29 g CO<sub>2eq</sub>/MJ biopalív alebo biokvapalín, ak sa biomasa získava z obnovenej znehodnotenej pôdy za podmienok ustanovených v ôsmom bode.
 
-      - Hodnoty CS<sub>R</sub> a CS<sub>A</sub> možno vypočítať podľa osobitného predpisu.<sup>9</sup>)
+      - Vysvetlivky:
+
+        - *) Konštanta získaná vydelením molekulovej hmotnosti CO<sub>2</sub> (44,01 g/mol) molekulovou hmotnosťou uhlíka (12,011 g/mol) sa rovná 3,664.
+
+        - **) Orná pôda tak, ako ju vymedzil IPCC.
+
+        - ***) Trvácne plodiny sa vymedzujú ako viacročné plodiny, ktorých kmene sa väčšinou každoročne nezberajú, ako napríklad rýchlorastúce výmladkové porasty a palma olejná.
+
+      - Hodnoty CS<sub>R</sub> a CS<sub>A</sub> možno vypočítať podľa osobitného predpisu.<sup>8</sup>)
 
     - 8. Bonus vo výške 29g CO<sub>2eq</sub>/MJ sa udelí, ak sa preukáže, že daná pôda:
 
