@@ -18,11 +18,9 @@
 
 - d) schvaľuje rokovací poriadok rady,
 
-- e) určuje audítora na overenie účtovnej závierky pozemkového fondu,
+- e) prerokúva
 
-- f) prerokúva
-
-  - 1. právne akty podľa § 35b ods. 2 a predkladá k nim štatutárnym orgánom odporúčajúce alebo neodporúčajúce stanovisko,
+  - 1. právne akty podľa § 35b ods. 2 a predkladá k nim štatutárnym orgánom odporúčajúce alebo neodporúčajúce stanovisko, okrem právnych aktov, ktoré sú uzatvárané na základe právoplatných rozhodnutí súdov,
 
   - 2. návrh rozpočtu príjmov a výdavkov,
 
@@ -32,7 +30,7 @@
 
   - 5. výročnú správu pozemkového fondu,
 
-- g) prešetruje sťažnosti<sup>23v</sup>) na pozemkový fond.
+- f) prešetruje sťažnosti<sup>23v</sup>) na pozemkový fond.
 
 (6) Rada môže požiadať ministerstvo o súčinnosť pri výkone kontroly alebo pri prešetrovaní sťažnosti. Rada môže požiadať o posúdenie činnosti alebo postupu pozemkového fondu nezávislého audítora.
 
