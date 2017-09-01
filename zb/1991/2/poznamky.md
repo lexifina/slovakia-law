@@ -12,10 +12,6 @@
 
 - 4aa) Nariadenie Európskeho parlamentu a Rady (ES) č. 1893/2006 z 20. decembra 2006, ktorým sa zavádza štatistická klasifikácia ekonomických činností NACE Revision 2 a ktorým sa mení a dopĺňa nariadenie Rady (EHS) č. 3037/90 a niektoré nariadenia ES o osobitných oblastiach štatistiky (Ú. v. EÚ L 393, 30. 12. 2006) v znení nariadenia Európskeho parlamentu a Rady (ES) č. 259/2008 z 11. marca 2008 (Ú. v. EÚ L 97, 9. 4. 2008).
 
-- 4ab) § 30 a 31 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
-
-- 4ac) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
-
 - 4ad) § 3 ods. 1 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 348/2011 Z. z.
 
 - 4ae) § 70 až 75 Obchodného zákonníka.
@@ -25,6 +21,10 @@
 - 4ag) § 40 ods. 8 Zákonníka práce.
 
 - 4ah) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 4ai) § 30 a 31 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
+
+- 4aj) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
 
 - 4b) Zákon č. 311/1999 Z. z. o registri trestov.
 
