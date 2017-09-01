@@ -74,7 +74,7 @@
 
 - 30) § 9 ods. 2 písm. c) zákona Slovenskej národnej rady č. 138/1991 Zb. v znení neskorších predpisov.
 
-- 30a) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 171/2005 Z. z.
+- 30a) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 30b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
 
@@ -90,7 +90,7 @@
 
 - Zákon č. 564/2004 Z. z. v znení zákona č. 171/2005 Z. z.
 
-- 32) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov.
+- 32) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 33) Zákon Národnej rady Slovenskej republiky č. 152/1998 Z. z. o sťažnostiach.
 
@@ -145,8 +145,6 @@
 - 48) § 8 zákona č. 597/2003 Z. z.
 
 - 49) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 552/2003 Z. z.
-
-- 50) Napríklad zákon č. 502/2001 Z. z. v znení neskorších predpisov, zákon č. 10/1996 Z. z. v znení neskorších predpisov, zákon č. 182/2002 Z. z., ktorým sa mení a dopĺňa zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly a ktorým sa menia a dopĺňajú niektoré ďalšie zákony, zákon č. 85/1990 Zb. v znení neskorších predpisov.
 
 - 50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.
 
