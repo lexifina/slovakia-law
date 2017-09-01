@@ -1,0 +1,1 @@
+- 2) Zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení neskorších predpisov.
