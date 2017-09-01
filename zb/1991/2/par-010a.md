@@ -28,7 +28,7 @@
 
 (9) Zoznam sprostredkovateľov a zoznam rozhodcov obsahujú meno a priezvisko sprostredkovateľa alebo rozhodcu, miesto trvalého pobytu, pracovné zaradenie a odborné zameranie.
 
-(10) Zoznam sprostredkovateľov a zoznam rozhodcov zverejní ministerstvo v dennej tlači a zašle ho na vedomie reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.<sup>4ac</sup>)
+(10) Zoznam sprostredkovateľov a zoznam rozhodcov zverejní ministerstvo v dennej tlači a zašle ho na vedomie reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.
 
 (11) Ministerstvo vyčiarkne sprostredkovateľa alebo rozhodcu zo zoznamu sprostredkovateľov alebo zo zoznamu rozhodcov, ak sprostredkovateľ alebo rozhodca
 
@@ -40,7 +40,7 @@
 
 - d) bez vážneho dôvodu odmietne vykonať sprostredkovateľskú činnosť alebo rozhodcovskú činnosť.
 
-(12) Ministerstvo písomne oznámi sprostredkovateľovi alebo rozhodcovi jeho vyčiarknutie zo zoznamu sprostredkovateľov alebo zo zoznamu rozhodcov, ako aj reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.<sup>4ac</sup>)
+(12) Ministerstvo písomne oznámi sprostredkovateľovi alebo rozhodcovi jeho vyčiarknutie zo zoznamu sprostredkovateľov alebo zo zoznamu rozhodcov, ako aj reprezentatívnym združeniam zamestnávateľov a reprezentatívnym združeniam odborových zväzov.
 
 (13) Sprostredkovateľ alebo rozhodca určený ministerstvom v konkrétnom spore môže do siedmich dní odo dňa určenia oznámiť, že je predpojatý; ministerstvo určí bez zbytočného odkladu iného sprostredkovateľa alebo rozhodcu.
 
