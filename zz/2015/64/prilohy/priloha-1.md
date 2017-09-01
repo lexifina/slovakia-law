@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 64/2015 Z. z. [Príloha č. 1 k vyhláške č. 64/2015 Z. z.](../assets/d741b35771953cb7cfef80460d64d921019d5f3d316d0fc4270968975617480a.pdf)
+Príloha č. 1 k vyhláške č. 64/2015 Z. z. [Príloha č. 1 k vyhláške č. 64/2015 Z. z.](../assets/168e7ac80988d0677085f9d36c3b4c08003f4f0417d4b588e79d0bdd90e06686.pdf)

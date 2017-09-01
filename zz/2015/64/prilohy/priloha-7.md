@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 64/2015 Z. z. [Príloha č. 7 k vyhláške č. 64/2015 Z. z.](../assets/80537ec1d2b5e5f3768c7dccb40349218fa1b6e2ce84ad0ab2abecf1861f7bec.pdf)
+Príloha č. 7 k vyhláške č. 64/2015 Z. z. [Príloha č. 7 k vyhláške č. 64/2015 Z. z.](../assets/7d706054f75d9f53c3b1574f363a9463dad9b36743e219999cc10c7189f15de3.pdf)
