@@ -26,7 +26,7 @@
 
 (8) Skúška sa skladá z písomnej časti a ústnej časti. Ak účastník na skúške nevyhovel, môže skúšku opakovať najviac dvakrát, najneskôr do jedného roka odo dňa prvého vykonania skúšky.
 
-(9) Držiteľ osvedčenia musí každých päť rokov opakovať odbornú prípravu a vykonanie skúšky.
+(9) Držiteľ osvedčenia musí každých desať rokov opakovať odbornú prípravu a vykonanie skúšky.
 
 (10) Fyzickej osobe oprávnenie na projektovanie pozemkových úprav zanikne, ak
 
