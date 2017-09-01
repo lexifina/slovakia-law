@@ -4,4 +4,4 @@
 
 (2) Tým nie je dotknuté právo domáhať sa určenia vlastníctva na súde podľa osobitného predpisu.<sup>25</sup>)
 
-(3) Na vydanie rozhodnutia podľa odseku 1 sa primerane použije ustanovenie § 11 ods. 2, 3, 5 až 8.
+(3) Na vydanie rozhodnutia podľa odseku 1 sa primerane použije ustanovenie § 11.

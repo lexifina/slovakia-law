@@ -60,6 +60,8 @@
 
 - 25a) § 134 Občianskeho zákonníka.
 
+- 25aa) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z.
+
 - 26) § 63 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
 - 27) § 2 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam.
