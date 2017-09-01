@@ -44,6 +44,16 @@
 
 - 12c) § 34 ods. 3 zákona Slovenskej národnej rady č. 330/1991 Zb. v znení neskorších predpisov.
 
+- 12d) § 15 zákona č. 330/1991 Zb. v znení zákona č. 549/2004 Z. z.
+
+- 12e) § 14 zákona č. 330/1991 Zb.
+
+- 12f) § 17 zákona č. 220/2004 Z. z.
+
+- 12g) § 42i zákona č. 330/1991 Zb.
+
+- 12h) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
 - 13) § 7 zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka.
 
 - 14) Obchodný zákonník.
