@@ -32,7 +32,9 @@
 
 - 14) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
-- 14a) § 7 ods. 18 zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 377/2014 Z. z.
+- 14a) § 4ad zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 182/2017 Z. z.
+
+- 14b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
 - 15) § 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
 
@@ -139,8 +141,6 @@
 - 59) § 226 ods. 2 Zákonníka práce.
 
 - 60) § 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
-
-- 61) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.
 
 - 62) Zákon č. 601/2003 Z. z. v znení neskorších predpisov.
 
