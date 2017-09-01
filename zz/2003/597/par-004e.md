@@ -1,6 +1,6 @@
 # § 4e Financovanie nákladov na žiakov zo sociálne znevýhodneného prostredia
 
-(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra zriaďovateľovi základnej školy v priebehu kalendárneho roka príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia podľa osobitného predpisu.<sup>22g</sup>)
+(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra zriaďovateľovi základnej školy v priebehu kalendárneho roka príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia.
 
 (2) Príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia podľa odseku 1 sa pridelí podľa počtu žiakov zo sociálne znevýhodneného prostredia a výšky príspevku na žiaka zo sociálne znevýhodneného prostredia. Výška príspevku na žiaka zo sociálne znevýhodneného prostredia na kalendárny rok sa určí ako podiel objemu finančných prostriedkov vyčlenených na tento účel a počtu všetkých žiakov zo sociálne znevýhodneného prostredia v základných školách v Slovenskej republike podľa stavu k 15. septembru predchádzajúceho kalendárneho roka.
 
@@ -20,6 +20,20 @@
 
 - b) odseku 5 písm. b) upraví príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia na nový školský rok pre jednotlivé školy vo svojej zriaďovateľskej pôsobnosti.
 
-(7) Zriaďovateľ základnej školy je povinný použiť finančné prostriedky pridelené podľa odseku 1 na účely podľa osobitného predpisu.<sup>22h</sup>)
+(7) Príspevok na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia sa poskytuje podľa počtu žiakov zo sociálne znevýhodneného prostredia, ktorí nie sú vzdelávaní v špeciálnej triede alebo formou školskej integrácie, na úhradu nákladov na
+
+- a) osobné náklady asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia alebo sociálneho pedagóga,
+
+- b) vybavenie didaktickou technikou a učebnými pomôckami,
+
+- c) účasť žiakov na aktivitách podľa osobitného predpisu,<sup>22g</sup>)
+
+- d) výchovu a vzdelávanie žiakov v špecializovaných triedach,
+
+- e) zabránenie prenosu nákazy prenosného ochorenia,
+
+- f) príplatok za prácu so žiakmi zo sociálne znevýhodneného prostredia.<sup>22h</sup>)
 
 (8) Zriaďovateľ základnej školy, v ktorej sa vzdeláva viac ako 100 žiakov zo sociálne znevýhodneného prostredia, je povinný použiť najmenej 50 % z celkového príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia pre základnú školu na mzdy a platy asistentov učiteľa pre žiakov zo sociálne znevýhodneného prostredia vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie.
+
+(9) Výšku príspevku na skvalitnenie podmienok na výchovu a vzdelávanie na žiaka zo sociálne znevýhodneného prostredia každoročne zverejňuje ministerstvo na svojom webovom sídle.

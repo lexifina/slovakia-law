@@ -12,7 +12,9 @@
 
 - 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 1 písm. a) až c) a e) až h) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
-- 7) § 31 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
+- 7) § 64 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- § 31 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
 - 10) § 10 ods. 1 písm. h) a j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
@@ -28,6 +30,10 @@
 
 - 16) § 151 ods. 1 zákona č. 245/2008 Z. z.
 
+- 16a) § 28 ods. 3 až 7, § 114 ods. 3 až 7 a § 116 ods. 6 a 7 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 17) § 117 ods. 5 až 8, § 126 a 127, § 140 ods. 8 až 13 a § 141 ods. 4 až 9 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+
 - 17a) § 7 Zákonníka práce.
 
 - § 3 ods. 2 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
@@ -40,7 +46,9 @@
 
 - 20a) § 13 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
-- 20b) § 13 ods. 5 až 7 zákona č. 245/2008 Z. z. v znení zákona č. 377/2014 Z. z.
+- 20aa) § 2 písm. k) zákona č. 245/2008 Z. z.
+
+- 20b) § 13 ods. 6 až 9 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 21) § 76a Zákonníka práce v znení zákona č. 257/2011 Z. z.
 
@@ -48,19 +56,27 @@
 
 - 22a) § 95 ods. 1 a § 104 ods. 1 zákona č. 245/2008 Z. z.
 
-- 22b) § 8 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+- 22b) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
 
-- § 29 ods. 10 zákona č. 245/2008 Z. z.
+- 22ba) § 21 zákona č. 56/2012 Z. z. o cestnej doprave.
 
-- 22c) § 2 písm. k) a q) zákona č. 245/2008 Z. z.
+- 22bb) § 8a zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22d) § 3 a 5 vyhlášky Ministerstva školstva Slovenskej republiky č. 322/2008 Z. z. o špeciálnych školách.
+- 22d) § 8 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 22da) § 13 ods. 10 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 22e) Napríklad § 226 ods. 2 Zákonníka práce, § 4 ods. 1 písm. e) a t) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22g) § 107 ods. 4 a 5 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+- 22f) Napríklad § 86 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon), § 5 ods. 2 písm. h) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 245/2008 Z. z., § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22h) § 107 ods. 4 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
+- 22fa) Zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22fb) Napríklad § 415 a § 417 ods. 1 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 7 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. v znení neskorších predpisov.
+
+- 22g) § 30 ods. 7 zákona č. 245/2008 Z. z.
+
+- 22h) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.
 
 - 23) § 117 zákona č. 245/2008 Z. z.
 
@@ -71,10 +87,6 @@
 - 23c) § 27 ods. 2 písm. b), § 95 ods. 1 písm. b) a § 104 ods. 1 písm. b) zákona č. 245/2008 Z. z.
 
 - 23d) § 27 ods. 2 písm. c), § 95 ods. 1 písm. c) až e) a § 104 ods. 1 písm. c) zákona č. 245/2008 Z. z.
-
-- 23e) § 12 a 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
-- 23f) § 29 ods. 5, § 33 ods. 1, § 97 ods. 6, § 98 ods. 3, § 99 ods. 4 a § 100 ods. 8 zákona č. 245/2008 Z. z.
 
 - 23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -126,7 +138,7 @@
 
 - 24f) § 53 zákona č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení zákona č. 390/2011 Z. z.
 
-- 24fa) § 13 ods. 7 písm. a) zákona č. 245/2008 Z. z. v znení zákona č. 377/2014 Z. z.
+- 24fa) § 29 ods. 5, § 33 ods. 1, § 97 ods. 6, § 98 ods. 3, § 99 ods. 4 a § 100 ods. 8 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
 
 - 24g) § 5 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 

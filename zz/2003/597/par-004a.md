@@ -1,35 +1,27 @@
-# § 4a Financovanie špecifík
+# § 4a Finančné prostriedky na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením
 
-(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra na žiadosť zriaďovateľa verejnej školy finančné prostriedky na špecifiká. Prostredníctvom špecifík sa financujú náklady, ktoré sa opakujú a nie sú zohľadnené v normatíve školy podľa § 4 ods. 4.
+(1) Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra na žiadosť zriaďovateľa verejnej školy finančné prostriedky na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením.
 
-(2) Špecifikami sú náklady
+(2) Žiadosť zriaďovateľa o pridelenie finančných prostriedkov na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením obsahuje najmä
 
-- a) na dopravu žiakov podľa osobitných predpisov,<sup>22b</sup>)
+- a) počet žiakov so zdravotným znevýhodnením,
 
-- b) na mzdy a platy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním<sup>22c</sup>) vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie.
+- b) druh, stupeň a mieru postihnutia žiakov,<sup>22b</sup>)
 
-(3) Žiadosť zriaďovateľa o pridelenie finančných prostriedkov podľa odseku 2 písm. a) obsahuje údaj o výške cestovných nákladov na dopravu žiaka do školy z miesta trvalého pobytu a späť.
+- c) počet asistentov učiteľa pre žiakov so zdravotným znevýhodnením, na ktorých sa požadujú finančné prostriedky.
 
-(4) Žiadosť zriaďovateľa o pridelenie finančných prostriedkov podľa odseku 2 písm. b) obsahuje najmä
+(3) Žiadosť podľa odseku 2 na nový školský rok predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja najneskôr do 31. mája príslušného kalendárneho roka.
 
-- a) počet žiakov so zdravotným znevýhodnením alebo s nadaním,
+(4) Ministerstvo prideľuje zriaďovateľovi verejnej školy finančné prostriedky na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením podľa
 
-- b) stupeň a mieru postihnutia žiakov,<sup>22d</sup>)
+- a) počtu žiakov so zdravotným znevýhodnením,
 
-- c) počet asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním, na ktorých sa požadujú finančné prostriedky.
-
-(5) Žiadosť podľa odsekov 3 a 4 predkladá zriaďovateľ ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja najneskôr do 30. septembra príslušného kalendárneho roka.
-
-(6) Ministerstvo pridelí zriaďovateľovi verejnej školy finančné prostriedky na účely podľa odseku 2 písm. b) podľa
-
-- a) počtu žiakov so zdravotným znevýhodnením alebo s nadaním,
-
-- b) stupňa a miery postihnutia žiakov so zdravotným znevýhodnením,
+- b) druhu, stupňa a miery postihnutia žiakov so zdravotným znevýhodnením,
 
 - c) skutočnosti, či boli zriaďovateľovi školy pridelené finančné prostriedky v predchádzajúcom kalendárnom roku,
 
 - d) bariér, ktoré žiak nedokáže prekonať bez pomoci z dôvodu zdravotného znevýhodnenia; za bariéry sa považujú najmä dorozumievacie ťažkosti, problémy s orientáciou v priestore, stavebné prekážky a neschopnosť adaptácie.
 
-(7) Zriaďovateľ školy je povinný do 10 dní od skončenia činnosti asistenta učiteľa v škole predložiť okresnému úradu v sídle kraja zúčtovanie poskytnutých finančných prostriedkov a vrátiť nevyčerpané finančné prostriedky, ak asistent učiteľa skončil činnosť v škole pred uplynutím obdobia, na ktoré mu boli tieto finančné prostriedky poskytnuté. Okresný úrad v sídle kraja do 5 dní od predloženia zúčtovania zriaďovateľom oznámi ministerstvu návrh na ich ďalšie pridelenie. Ministerstvo pridelí finančné prostriedky ďalšiemu žiadateľovi podľa odseku 6.
+(5) Ak asistent učiteľa pre žiakov so zdravotným znevýhodnením skončil činnosť v škole pred uplynutím obdobia, na ktoré boli zriaďovateľovi poskytnuté finančné prostriedky, zriaďovateľ školy predloží okresnému úradu v sídle kraja zúčtovanie poskytnutých finančných prostriedkov do desiatich dní od skončenia činnosti asistenta učiteľa pre žiakov so zdravotným znevýhodnením v škole a nevyčerpané finančné prostriedky vráti. Okresný úrad v sídle kraja do piatich dní od predloženia zúčtovania zriaďovateľom oznámi ministerstvu návrh na pridelenie vrátených finančných prostriedkov. Ministerstvo pridelí tieto finančné prostriedky ďalšiemu žiadateľovi podľa odseku 4.
 
-(8) Ministerstvo každoročne zverejňuje zoznam škôl a ich zriaďovateľov, ktorým boli pridelené finančné prostriedky na účely podľa odseku 2 písm. b), a výšku pridelených finančných prostriedkov na svojom webovom sídle najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte.
+(6) Ministerstvo každoročne zverejňuje zoznam škôl a ich zriaďovateľov, ktorým boli pridelené finančné prostriedky na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením, a výšku pridelených finančných prostriedkov na svojom webovom sídle najneskôr do 31. júla príslušného kalendárneho roka.

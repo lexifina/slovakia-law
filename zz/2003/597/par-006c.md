@@ -18,7 +18,7 @@
 
 - b) refundáciu výdavkov uhradených v predchádzajúcich rozpočtových rokoch.
 
-(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne v priebehu kalendárneho roka alebo na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy.
+(4) Žiadosť o poskytnutie dotácie (ďalej len „žiadosť“) podáva žiadateľ písomne bez výzvy v priebehu kalendárneho roka alebo na základe výzvy na predloženie žiadosti najneskôr do 30 dní od zverejnenia výzvy.
 
 (5) Ministerstvo zverejňuje na svojom webovom sídle výzvu na predloženie žiadostí, a to najmenej 30 dní pred termínom predkladania žiadostí. Výzva na predloženie žiadostí obsahuje najmä
 
@@ -82,7 +82,7 @@
 
 - j) súhlas žiadateľa so zhromažďovaním, spracovaním a zverejňovaním poskytnutých údajov.
 
-(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity určuje ministerstvo vo výzve alebo v zmluve o poskytnutí dotácie.
+(8) Výšku spoluúčasti žiadateľa na uskutočňovaní aktivity určuje ministerstvo vo výzve alebo v zmluve o poskytnutí dotácie z výšky poskytnutej dotácie.
 
 (9) Ministerstvo poskytne žiadateľovi dotáciu na realizáciu aktivity podľa odseku 1 najmä podľa
 
@@ -126,7 +126,9 @@
 
 - h) podmienky použitia prostriedkov dotácie, ktorých nesplnenie je spojené s povinnosťou ich vrátenia.<sup>23o</sup>)
 
-(14) Ministerstvo do 30 dní od rozhodnutia o žiadosti zverejňuje na svojom webovom sídle
+(14) Odseky 6 až 13 sa vzťahujú rovnako na obsah, vyhodnocovanie a rozhodovanie o žiadosti o poskytnutie dotácie bez výzvy a na uzatvorenie zmluvy o poskytnutí dotácie bez výzvy.
+
+(15) Ministerstvo do 30 dní od rozhodnutia o žiadosti zverejňuje na svojom webovom sídle
 
 - a) zoznam žiadateľov, ktorým bola schválená dotácia na aktivity podľa odseku 1, a výšku poskytnutej dotácie a zmluvu o poskytnutí dotácie,
 
@@ -136,12 +138,12 @@
 
 - d) informáciu o tom, v ktorých prípadoch rozhodlo ministerstvo o schválení alebo neschválení dotácie inak, ako navrhla komisia zriadená pre vyhodnocovanie žiadostí a zdôvodnenie tohto rozhodnutia.
 
-(15) Ak žiadateľ poruší finančnú disciplínu, uplatní sa postup podľa osobitného predpisu.<sup>23p</sup>)
+(16) Ak žiadateľ poruší finančnú disciplínu, uplatní sa postup podľa osobitného predpisu.<sup>23p</sup>)
 
-(16) Na poskytovanie a používanie prostriedkov dotácie sa vzťahuje osobitný predpis.<sup>23q</sup>)
+(17) Na poskytovanie a používanie prostriedkov dotácie sa vzťahuje osobitný predpis.<sup>23q</sup>)
 
-(17) Na poskytnutie dotácie nie je právny nárok.
+(18) Na poskytnutie dotácie nie je právny nárok.
 
-(18) Dotáciu podľa tohto zákona, ktorá je štátnou pomocou,<sup>23r</sup>) možno poskytnúť len v súlade s týmto zákonom a osobitnými predpismi v oblasti štátnej pomoci.<sup>23s</sup>)
+(19) Dotáciu podľa tohto zákona, ktorá je štátnou pomocou,<sup>23r</sup>) možno poskytnúť len v súlade s týmto zákonom a osobitnými predpismi v oblasti štátnej pomoci.<sup>23s</sup>)
 
-(19) Týmto zákonom nie sú dotknuté ustanovenia o obmedzení prístupu k informáciám podľa osobitného predpisu.<sup>23t</sup>)
+(20) Týmto zákonom nie sú dotknuté ustanovenia o obmedzení prístupu k informáciám podľa osobitného predpisu.<sup>23t</sup>)

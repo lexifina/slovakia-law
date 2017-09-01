@@ -12,49 +12,47 @@
 
   - 4. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4e ods. 6 písm. b),
 
-  - 5. oznámenie o porušení povinností podľa § 6a ods. 6,
+  - 5. predloženie zúčtovania podľa § 4a ods. 5,
 
-  - 6. oznámenie o odstránení porušenia povinností podľa § 6a ods. 6,
+  - 6. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a),
 
-  - 7. rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na kalendárny rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a),
+  - 7. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b),
 
-  - 8. úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b),
+  - 8. predloženie správy o hospodárení okresnému úradu v sídle kraja podľa § 7 ods. 1,
 
-  - 9. predloženie správy o hospodárení okresnému úradu v sídle kraja podľa § 7 ods. 1,
+  - 9. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
 
-  - 10. predloženie údajov o počtoch detí alebo žiakov a ďalších údajov podľa § 7 ods. 4 alebo
-
-  - 11. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 13 písm. a) a ods. 14,
+  - 10. rozpis finančných prostriedkov školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti podľa § 7 ods. 12 písm. a) a ods. 13,
 
 - b) pokutu 200 eur za neoznámenie výšky normatívnych finančných prostriedkov na kalendárny rok alebo na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 11,
 
-- c) školy podľa § 6 a 6a pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
+- c) súkromnej školy, súkromného školského zariadenia, cirkevnej školy alebo cirkevného školského zariadenia pokutu vo výške sumy, ktorá zodpovedá sume použitej inak, ako ustanovil zákon, za nedodržanie účelu použitia
 
-  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 3,
+  - 1. normatívnych finančných prostriedkov podľa § 2 ods. 3, § 6 ods. 3 alebo § 6a ods. 3,
 
-  - 2. finančných prostriedkov pridelených na špecifiká podľa § 4a,
+  - 2. finančných prostriedkov na osobné náklady asistentov učiteľa pre žiakov so zdravotným znevýhodnením,
 
-  - 3. finančných prostriedkov pridelených za mimoriadne výsledky žiakov podľa § 4b,
+  - 3. príspevku na dopravu,
 
-  - 4. finančných prostriedkov pridelených na havarijné situácie podľa § 4c,
+  - 4. príspevku na kurz pohybových aktivít v prírode,
 
-  - 5. finančných prostriedkov pridelených v rámci rozvojových projektov podľa § 4d,
+  - 5. príspevku na školu v prírode,
 
-  - 6. finančných prostriedkov pridelených prostredníctvom príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia podľa § 4e,
+  - 6. príspevku na učebnice,
 
-  - 7. normatívnych finančných prostriedkov podľa § 6 ods. 3,
+  - 7. príspevku na záujmové vzdelávanie žiakov,
 
-  - 8. normatívnych finančných prostriedkov podľa § 6a ods. 7,
+  - 8. finančných prostriedkov za mimoriadne výsledky žiakov,
 
-  - 9. finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie detí materských škôl, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, na kalendárny rok alebo na nový školský rok pre jednotlivé materské školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 5,
+  - 9. finančných prostriedkov na riešenie havarijných situácií,
 
-  - 10. finančných prostriedkov pridelených prostredníctvom príspevku na záujmové vzdelávanie žiakov podľa § 7 ods. 8,
+  - 10. finančných prostriedkov na realizáciu rozvojových projektov,
 
-  - 11. finančných prostriedkov pridelených podľa § 7 ods. 15,
+  - 11. príspevku na skvalitnenie podmienok výchovy a vzdelávania žiakov zo sociálne znevýhodneného prostredia,
 
-  - 12. finančných prostriedkov pridelených podľa § 7 ods. 19,
+  - 12. finančných prostriedkov na odchodné,
 
-  - 13. finančných prostriedkov pridelených školám a školským zariadeniam v rámci dohodovacieho konania podľa § 2 ods. 3,
+  - 13. finančných prostriedkov na úhradu nákladov súvisiacich so starostlivosťou o pedagogického zamestnanca a odborného zamestnanca školy,<sup>1</sup>) v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie, na úhradu vakcíny proti chrípke a vakcíny proti hepatitíde typu A a B,
 
 - d) pokutu 2 000 eur za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3,
 

@@ -2,7 +2,7 @@
 
 (1) Na účely rozdeľovania a poukazovania výnosu dane z príjmov obciam na nasledujúci kalendárny rok podľa osobitného predpisu<sup>24d</sup>) sa zbierajú údaje o počte
 
-- a) žiakov základnej umeleckej školy v individuálnej forme vzdelávania a v skupinovej forme vzdelávania od troch rokov veku do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školách a v súkromných školách žiakov do dovŕšenia 15 rokov veku,
+- a) žiakov základnej umeleckej školy v individuálnej forme vzdelávania a v skupinovej forme vzdelávania od piatich rokov veku do dovŕšenia 25 rokov veku podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školách a v súkromných školách žiakov do dovŕšenia 15 rokov veku,
 
 - b) detí materskej školy podľa stavu k 15. septembru začínajúceho školského roka,
 
@@ -16,13 +16,15 @@
 
 - g) detí v školských kluboch detí pri zdravotníckom zariadení podľa skutočného priemerného denného počtu detí v predchádzajúcom školskom roku; v novovzniknutých školských kluboch detí pri zdravotníckom zariadení detí podľa stavu k 15. septembru začínajúceho školského roka,
 
-- h) žiakov základných škôl podľa stavu k 15. septembru začínajúceho školského roka zriadených na území obce na účely financovania školských klubov detí,
+- h) žiakov v školských kluboch detí z nultého až piateho ročníka základnej školy podľa stavu k 15. septembru začínajúceho školského roka,
 
 - i) detí školských internátov z materských škôl, materských škôl pre deti so špeciálnymi výchovno-vzdelávacími potrebami, základných škôl, základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, päťročných gymnázií, osemročných gymnázií a osemročných konzervatórií podľa stavu k 15. septembru začínajúceho školského roka; v cirkevných školských zariadeniach a v súkromných školských zariadeniach detí zo stredných škôl do dovŕšenia 15 rokov veku,
 
-- j) všetkých žiakov základných škôl, základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, päťročných gymnázií, osemročných gymnázií a osemročných konzervatórií podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby; v cirkevných stredných školách a v súkromných stredných školách žiakov do dovŕšenia 15 rokov veku,
+- j) všetkých žiakov základných škôl, základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami, päťročných gymnázií, osemročných gymnázií a osemročných konzervatórií podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby, ak je na území obce zriadené zariadenie školského stravovania; v cirkevných stredných školách a v súkromných stredných školách žiakov do dovŕšenia 15 rokov veku,
 
 - k) všetkých žiakov základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti okresného úradu v sídle kraja, ak tieto školy nemajú na území obce zriadené vlastné zariadenie školského stravovania a žiaci sa stravujú v zariadeniach školského stravovania v zriaďovateľskej pôsobnosti obce, štátom uznanej cirkvi alebo náboženskej spoločnosti a inej právnickej osoby alebo fyzickej osoby,
+
+- l) žiakov základných škôl podľa stavu k 15. septembru začínajúceho školského roka v zriaďovateľskej pôsobnosti obce.
 
 (2) Na účely zberu údajov podľa odseku 1 sa do počtu detí, žiakov a poslucháčov započítavajú deti, žiaci a poslucháči prijatí do školy alebo do školského zariadenia na základe rozhodnutia riaditeľa školy alebo riaditeľa školského zariadenia.<sup>24g</sup>)
 
@@ -30,7 +32,7 @@
 
 (4) Na účely rozdeľovania a poukazovania výnosu dane obciam môže žiaka základnej umeleckej školy, poslucháča jazykovej školy a dieťa materskej školy alebo školského zariadenia podľa odsekov 1 a 2 uviesť do zberu údajov len jeden zriaďovateľ základnej umeleckej školy, jazykovej školy, materskej školy alebo školského zariadenia v jednej základnej umeleckej škole, v jednej jazykovej škole, v jednej materskej škole alebo v jednom školskom zariadení.
 
-(5) Ak žiak základnej umeleckej školy, poslucháč jazykovej školy, dieťa materskej školy, dieťa školského zariadenia výchovného poradenstva a prevencie alebo plnoletá osoba navštevuje viac škôl alebo školských zariadení rovnakého druhu, zákonný zástupca dieťaťa, žiaka alebo poslucháča, zástupca zariadenia, v ktorom sa vykonáva ústavná starostlivosť, výchovné opatrenie, neodkladné opatrenie alebo ochranná výchova, výkon väzby alebo výkon trestu odňatia slobody, alebo plnoletá osoba poskytne písomné čestné vyhlásenie jednej príslušnej škole alebo jednému školskému zariadeniu rovnakého druhu na započítanie dieťaťa, žiaka alebo poslucháča do zberu údajov podľa odseku 1 písm. a) až d) a odseku 2 (ďalej len „čestné vyhlásenie pre zber údajov“). Čestné vyhlásenie pre zber údajov predloží riaditeľ príslušnej školy alebo školského zariadenia zriaďovateľovi. Čestné vyhlásenie pre zber údajov obsahuje
+(5) Ak dieťa školského klubu detí, žiak základnej umeleckej školy, poslucháč jazykovej školy, dieťa materskej školy, dieťa školského zariadenia výchovného poradenstva a prevencie alebo plnoletá osoba navštevuje viac škôl alebo školských zariadení rovnakého druhu, zákonný zástupca dieťaťa, žiaka alebo poslucháča, zástupca zariadenia, v ktorom sa vykonáva ústavná starostlivosť, výchovné opatrenie, neodkladné opatrenie alebo ochranná výchova, výkon väzby alebo výkon trestu odňatia slobody, alebo plnoletá osoba poskytne písomné čestné vyhlásenie jednej príslušnej škole alebo jednému školskému zariadeniu rovnakého druhu na započítanie dieťaťa, žiaka alebo poslucháča do zberu údajov podľa odseku 1 písm. a) až d) a odseku 2 (ďalej len „čestné vyhlásenie pre zber údajov“). Čestné vyhlásenie pre zber údajov predloží riaditeľ príslušnej školy alebo školského zariadenia zriaďovateľovi. Čestné vyhlásenie pre zber údajov obsahuje
 
 - a) identifikačné údaje o dieťati, žiakovi alebo poslucháčovi; meno a priezvisko, dátum a miesto narodenia, adresu pobytu a druh pobytu,
 
