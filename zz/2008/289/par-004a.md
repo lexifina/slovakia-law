@@ -2,9 +2,7 @@
 
 (1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len virtuálnu registračnú pokladnicu, ktorá je zriadená na webovom sídle finančného riaditeľstva; na jedno predajné miesto môže byť vytvorený len jeden prístup do virtuálnej registračnej pokladnice.
 
-(2) Podnikateľ môže používať virtuálnu registračnú pokladnicu, len ak počet vydaných pokladničných dokladov v jednom kalendárnom mesiaci nie je viac ako počet ustanovený všeobecne záväzným právnym predpisom, ktorý vydá Ministerstvo financií Slovenskej republiky.
-
-(3) Virtuálna registračná pokladnica musí umožňovať
+(2) Virtuálna registračná pokladnica musí umožňovať
 
 - a) vytlačenie ochranného znaku a unikátneho identifikačného kódu pokladničného dokladu vygenerovaného virtuálnou registračnou pokladnicou len na pokladničnom doklade, a to až po vytlačení iných údajov uvedených v § 8 ods. 1, 2 a 7,
 
@@ -30,4 +28,4 @@
 
 - l) získať údaje potrebné na plnenie povinností vyplývajúcich z osobitných predpisov.<sup>13</sup>)
 
-(4) Tlačiareň, ktorá bude komunikovať s virtuálnou registračnou pokladnicou, musí umožňovať vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené.
+(3) Tlačiareň, ktorá bude komunikovať s virtuálnou registračnou pokladnicou, musí umožňovať vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené.
