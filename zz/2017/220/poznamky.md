@@ -1,0 +1,1 @@
+- 1) Na účely tejto prílohy „neželezné kovy“ znamenajú olovo, zinok, meď a priemyselné zlato.
