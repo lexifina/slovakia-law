@@ -1,0 +1,1 @@
+- 1) § 4 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
