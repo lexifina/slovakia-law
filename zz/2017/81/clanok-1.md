@@ -286,6 +286,12 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - Účastníkovi projektov a programov podľa odseku 1 možno poskytnúť finančný príspevok.“.
 
+- 44. V § 60 odsek 1 znie:
+
+- „(1)
+
+- Úrad poskytuje zamestnávateľovi na zamestnávanie občanov so zdravotným postihnutím v chránenej dielni alebo na chránenom pracovisku alebo samostatne zárobkovo činnej osobe, ktorá je občanom so zdravotným postihnutím a ktorá na chránenom pracovisku prevádzkuje alebo vykonáva samostatnú zárobkovú činnosť, príspevok na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska a na úhradu nákladov na dopravu zamestnancov (ďalej len „príspevok“), ak o príspevok písomne požiada.“.
+
 - 45. V § 60 ods. 3 úvodnej vete sa vypúšťajú slová „chránenej dielne alebo“ a slovo „zriadených“ sa nahrádza slovom „zriadeného“.
 
 - 46. V § 60 ods. 3 písm. b) sa slová „prevádzkovaná chránená dielňa alebo“ nahrádzajú slovom „prevádzkované“.
@@ -295,6 +301,58 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 - 48. V § 60 ods. 3 písm. h) a i) sa vypúšťajú slová „chránenej dielne alebo“.
 
 - 49. V § 60 ods. 4 sa vypúšťajú slová „v chránenej dielni alebo“.
+
+- 50. V § 60 odseky 8 a 9 znejú:
+
+- „(8)
+
+- Úrad poskytuje príspevok na základe písomnej dohody o poskytnutí príspevku uzatvorenej medzi úradom a zamestnávateľom alebo medzi úradom a samostatne zárobkovo činnou osobou.
+
+- (9)
+
+- Dohoda o poskytnutí príspevku podľa odseku 8 obsahuje
+
+- a)
+
+- identifikačné údaje účastníkov dohody,
+
+- b)
+
+- počet občanov so zdravotným postihnutím, na ktorých sa príspevok poskytuje, s uvedením počtu občanov so zdravotným postihnutím, ktorí majú pre dlhodobo nepriaznivý zdravotný stav pokles schopnosti vykonávať zárobkovú činnosť vyšší ako 70 %, a rozsah dohodnutého pracovného času,
+
+- c)
+
+- sídlo chránenej dielne alebo chráneného pracoviska,
+
+- d)
+
+- maximálnu výšku príspevku a spôsob jeho poskytovania,
+
+- e)
+
+- záväzok zamestnávateľa alebo samostatne zárobkovo činnej osoby, že oznámi úradu každú zmenu dohodnutých podmienok najneskôr do 30 kalendárnych dní,
+
+- f)
+
+- podmienky poskytnutia príspevku,
+
+- g)
+
+- spôsob kontroly plnenia dohodnutých podmienok,
+
+- h)
+
+- podmienky a spôsob vrátenia príspevku alebo jeho časti pri nesplnení dohodnutých podmienok,
+
+- i)
+
+- ďalšie dohodnuté náležitosti.“.
+
+- 51. § 60 sa dopĺňa odsekom 10, ktorý znie:
+
+- „(10)
+
+- Úrad poskytuje príspevok za kalendárny štvrťrok vo výške preukázanej na základe dokladov o úhrade vynaložených nákladov podľa odsekov 2 až 5 za príslušný kalendárny štvrťrok, najviac vo výške 25 % zo súm ustanovených v odseku 6. Doklady podľa prvej vety sú zamestnávateľ alebo samostatne zárobkovo činná osoba povinní predložiť úradu najneskôr do konca kalendárneho mesiaca nasledujúceho po kalendárnom štvrťroku, za ktorý sa príspevok poskytuje. Úrad poskytne príspevok do 60 kalendárnych dní odo dňa predloženia dokladov podľa prvej vety.“.
 
 - 52. V § 68 ods. 1 druhá veta znie: „Pri finančnej kontrole podľa osobitného predpisu<sup>61a</sup>) ministerstvo, ústredie a úrad spolupracujú s ministerstvom financií.“.
 
@@ -364,7 +422,13 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - (8)
 
-- Úrad rozhodne o žiadosti o priznanie, zrušenie, zmenu alebo pozastavenie postavenia chránenej dielne alebo chráneného pracoviska alebo o vydanie duplikátu dokladu o priznanom postavení chránenej dielne alebo chráneného pracoviska podanej pred 1. májom 2017, ktorá nebola vybavená, podľa tohto zákona v znení účinnom od 1. mája 2017.“.
+- Úrad rozhodne o žiadosti o priznanie, zrušenie, zmenu alebo pozastavenie postavenia chránenej dielne alebo chráneného pracoviska alebo o vydanie duplikátu dokladu o priznanom postavení chránenej dielne alebo chráneného pracoviska podanej pred 1. májom 2017, ktorá nebola vybavená, podľa tohto zákona v znení účinnom od 1. mája 2017.
+
+- § 72ab
+
+- Prechodné ustanovenie k úpravám účinným od 1. októbra 2017
+
+- Pri poskytovaní príspevku podľa § 60 za štvrtý štvrťrok roku 2017 sa postupuje podľa tohto zákona v znení účinnom do 30. septembra 2017.“.
 
 - 60. V prílohe č. 2 celom texte sa slovo „fotokópia“ nahrádza slovom „kópia“ a slovo „fotokópie“ sa nahrádza slovom „kópie“.
 
