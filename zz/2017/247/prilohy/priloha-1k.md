@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 247/2017 Z. z. [UKAZOVATELE KVALITY PITNEJ VODY A ICH LIMITY](../assets/9beb0aa623faa6d24e88a9294bf0560e32d0e90bd9630cfdf5ed078622f0a810.pdf)
