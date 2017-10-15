@@ -18,6 +18,8 @@
 
 - Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu.
 
+- 8) § 17 ods. 3 zákona č. 355/2007 Z. z. v znení zákona č. 150/2017 Z. z.
+
 - 9) Napríklad zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z., zákon č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákon č. 276/2001 Z. z. v znení neskorších predpisov.
 
 - 10) Napríklad zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 585/2008 Z. z., ktorou sa ustanovujú podrobnosti o prevencii a kontrole prenosných ochorení.
@@ -51,6 +53,8 @@
 - 23) Zákon Národnej rady Slovenskej republiky č. 315/1996 Z. z. o premávke na pozemných komunikáciách v znení zákona č. 396/2002 Z. z.
 
 - 25) Zákon č. 302/2001 Zb. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch).
+
+- 25a) § 13 ods. 4 písm. n) zákona č. 355/2007 Z. z. v znení zákona č. 150/2017.
 
 - 26) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
