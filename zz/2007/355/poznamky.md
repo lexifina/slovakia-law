@@ -120,7 +120,23 @@
 
 - 23a) Zákon č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
 
-- 24) Nariadenie vlády Slovenskej republiky č. 354/2006 Z. z., ktorým sa ustanovujú požiadavky na vodu určenú na ľudskú spotrebu a kontrolu kvality vody určenej na ľudskú spotrebu v znení nariadenia vlády Slovenskej republiky č. 496/2010 Z. z.
+- 24) Zákon č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 24a) Nariadenie Európskeho parlamentu a Rady (ES) č. 1907/2006 z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemikálií (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a 2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006) v platnom znení.
+
+- Nariadenie Európskeho parlamentu a Rady (ES) č. 1272/2008 zo 16. decembra 2008 o klasifikácii, označovaní a balení látok a zmesí, o zmene, doplnení a zrušení smerníc 67/548/EHS a 1999/45/ES a o zmene a doplnení nariadenia (ES) č. 1907/2006 ( Ú. v. EÚ L 353, 31. 12. 2008) v platnom znení.
+
+- 24b) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 528/2012 z 22. mája 2012 o sprístupňovaní biocídnych výrobkov na trhu a ich používaní (Ú. v. EÚ L 167, 27. 6. 2012) v platnom znení.
+
+- 24c) § 3 ods. 1 zákona č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení zákona č. 394/2009 Z. z.
+
+- 24d) § 4 ods. 3 zákona č. 442/2002 Z. z.
+
+- 24e) § 43b zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24f) § 43c zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
+
+- 24g) Zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 25) § 3 ods. 2 zákona č. 364/2004 Z. z. v znení zákona č. 384/2009 Z. z.
 
