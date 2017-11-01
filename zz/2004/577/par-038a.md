@@ -1,31 +1,37 @@
 # § 38a Výška úhrady
 
-(1) Výška úhrady poistenca za stravovanie a pobyt na lôžku počas poskytovania ústavnej starostlivosti je najviac
+(1) Pri poskytovaní ústavnej zdravotnej starostlivosti plne uhrádzanej alebo čiastočne uhrádzanej na základe verejného zdravotného poistenia je výška úhrady poistenca za služby podľa § 38 ods. 3 písm. a) za každý deň, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. a)
 
-- a) 1,5 % zo sumy životného minima na jednu plnoletú fyzickú osobu podľa osobitného predpisu<sup>28a</sup>) (ďalej len „suma životného minima”),
+- a) 0 eur za stravovanie a pobyt na lôžku počas poskytovania ústavnej zdravotnej starostlivosti vrátane poskytovania ústavnej zdravotnej starostlivosti v liečebni pre dlhodobo chorých, ak v písmenách b) až d) nie je ustanovené inak,
 
-  - 1. za každý deň ústavnej starostlivosti, najviac však za 21 dní tej istej ústavnej starostlivosti u jedného poskytovateľa, ak ďalej nie je ustanovené inak,
+- b) 1,70 eura za stravovanie a pobyt na lôžku počas poskytovania ústavnej zdravotnej starostlivosti v prírodných liečebných kúpeľoch pri indikáciách zaradených v skupine A podľa § 7 ods. 3 bez ohľadu na dĺžku ústavnej zdravotnej starostlivosti,
 
-  - 2. za každý deň ústavnej starostlivosti v liečebni bez ohľadu na dĺžku ústavnej starostlivosti,
+- c) 5 eur za stravovanie a štandardný pobyt na lôžku počas poskytovania ústavnej zdravotnej starostlivosti v prírodných liečebných kúpeľoch pri indikáciách zaradených v skupine B podľa § 7 ods. 3 v I. a IV. štvrťroku bez ohľadu na dĺžku ústavnej zdravotnej starostlivosti,
 
-  - 3. za každý deň ústavnej starostlivosti v prírodných liečebných kúpeľoch a v kúpeľných liečebniach pri indikáciách zaradených v skupine A podľa § 7 ods. 3 bez ohľadu na dĺžku ústavnej starostlivosti,
+- d) 7,30 eura za stravovanie a štandardný pobyt na lôžku počas poskytovania ústavnej zdravotnej starostlivosti v prírodných liečebných kúpeľoch pri indikáciách zaradených v skupine B podľa § 7 ods. 3 v II. a III. štvrťroku bez ohľadu na dĺžku ústavnej zdravotnej starostlivosti.
 
-- b) 3,9 % zo sumy životného minima za každý deň ústavnej starostlivosti v prírodných liečebných kúpeľoch a v kúpeľných liečebniach pri indikáciách zaradených v skupine B podľa § 7 ods. 3 v I. a IV. kvartáli bez ohľadu na dĺžku ústavnej starostlivosti,
+(2) Za štandardný pobyt na lôžku sa považuje ubytovanie v jednej ubytovacej jednotke s najmenej dvoma posteľami s umiestnením spoločného sociálneho zariadenia mimo tejto ubytovacej jednotky.
 
-- c) 5,3 % zo sumy životného minima za každý deň ústavnej starostlivosti v prírodných liečebných kúpeľoch a v kúpeľných liečebniach pri indikáciách zaradených v skupine B podľa § 7 ods. 3 v II. a III. kvartáli bez ohľadu na dĺžku ústavnej starostlivosti.
+(3) Pri poskytovaní ambulantnej zdravotnej starostlivosti je výška úhrady poistenca za služby podľa § 38 ods. 3 písm. b) 0 eur pri každej návšteve poskytovateľa zdravotnej starostlivosti.
 
-(2) Výška úhrady poistenca
+(4) Pri poskytovaní zdravotnej starostlivosti v rámci ambulantnej pohotovostnej služby a zubno-lekárskej pohotovostnej služby je výška úhrady poistenca za služby podľa § 38 ods. 3 písm. c), ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. c) 2 eurá. Ak bol poistenec následne odoslaný k poskytovateľovi ústavnej pohotovostnej služby je výška úhrady za služby podľa § 38 ods. 3 písm. c) 0 eur.
 
-- a) za spracúvanie údajov zistených pri poskytovaní ambulantnej starostlivosti v elektronickej forme pri každej návšteve [§ 38 ods. 3 písm. b)] je najviac 0,00 % zo sumy životného minima,
+(5) Pri poskytovaní zdravotnej starostlivosti v rámci pevnej ambulantnej pohotovostnej služby<sup>28aa</sup>) formou návštevnej služby v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa pevná ambulantná pohotovostná služba poskytuje, je výška úhrady za služby podľa § 38 ods. 3 písm. c), ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. c), 10 eur.
 
-- b) za spracúvanie údajov zistených pri poskytovaní ambulantnej starostlivosti v rámci lekárskej služby prvej pomoci a ústavnej pohotovostnej služby pri každej návšteve [§ 38 ods. 3 písm. c)] je najviac 1,7 % zo sumy životného minima,
+(6) Pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby je výška úhrady poistenca za služby podľa § 38 ods. 3 písm. c), ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. c)
 
-- c) za štatistické spracúvanie lekárskeho predpisu súvisiace s vydaním liekov alebo dietetických potravín predpísaných na jednom lekárskom predpise [§ 38 ods. 3 písm. d)] je najviac 0,64 % zo sumy životného minima; ak ide o lekársky predpis s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0,00 % zo sumy životného minima.
+- a) 10 eur, ak v písmene b) alebo písmene c) nie je uvedené inak,
 
-- d) za štatistické spracúvanie lekárskeho poukazu súvisiace s vydaním zdravotníckych pomôcok predpísaných na jednom lekárskom poukaze [§ 38 ods. 3 písm. e)] je najviac 0,64 % zo sumy životného minima; ak ide o lekársky poukaz s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0,00 % zo sumy životného minima.
+- b) 2 eurá, ak poistenec navštívi poskytovateľa ústavnej pohotovostnej služby v čase medzi 16. a 22. hodinou v pracovných dňoch a v čase medzi 7. a 22. hodinou v dňoch pracovného pokoja v okrese, v územnom obvode ktorého sa neposkytuje ambulantná pohotovostná služba<sup>28a</sup>) alebo
 
-- e) za pobyt sprievodcu v ústavnej starostlivosti [§ 38 ods. 3 písm. f)] za každý deň pobytu je najviac 2,8 % zo sumy životného minima,
+- c) 2 eurá, ak bol poistenec k poskytovateľovi ústavnej pohotovostnej služby odoslaný bezprostredne po poskytnutí ambulantnej pohotovostnej služby.
 
-- f) za dopravu [§ 38 ods. 3 písm. g)] za jeden kilometer jazdy je najviac 0,085 % zo sumy životného minima,
+(7) Pri poskytovaní lekárenskej starostlivosti pri výdaji liekov alebo dietetických potravín je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. d) 0,17 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. d); ak ide o lekársky predpis s identifikátorom preskripčného záznamu<sup>28b</sup>) v elektronickej zdravotnej knižke,<sup>28c</sup>) je výška úhrady poistenca 0 eur.
 
-- g) za poskytnutie výpisu zo zdravotnej dokumentácie (§ 38 ods. 11) najviac 3 % zo sumy životného minima.
+(8) Pri poskytovaní lekárenskej starostlivosti pri výdaji zdravotníckych pomôcok je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. e) 0,17 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. e); ak ide o lekársky poukaz s identifikátorom preskripčného záznamu v elektronickej zdravotnej knižke, je výška úhrady poistenca 0 eur.
+
+(9) Pri poskytovaní ústavnej zdravotnej starostlivosti je výška úhrady poistenca za jeden deň pobytu sprievodcu za služby uvedené v § 38 ods. 3 písm. f) 3,30 eura, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. f).
+
+(10) Pri poskytovaní dopravy je výška úhrady poistenca za služby uvedené v § 38 ods. 3 písm. g) 0,10 eura za jeden kilometer jazdy, ak poistenec nie je oslobodený od povinnosti úhrady podľa § 38 ods. 8 písm. g).
+
+(11) Pri poskytnutí výpisu zo zdravotnej dokumentácie na účely súvisiace s poskytovaním zdravotnej starostlivosti je výška úhrady poistenca najviac 2 eurá.

@@ -50,6 +50,8 @@
 
 - 23) § 2 ods. 5 zákona č. 576/2004 Z. z.
 
+- 23a) § 27 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 24) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27) § 57 a 64 zákona č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
@@ -61,6 +63,8 @@
 - Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
 - 28a) § 2 písm. a) a § 5 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 28aa) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 28b) § 120 ods. 1 písm. v) zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 

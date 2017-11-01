@@ -40,9 +40,9 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | 8. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 9. až 10. mesiaci života
 
-- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 11. až 12. mesiaci života
+- | 9. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Podporí sa laktačný program. Poskytne sa rodičom poradenstvo o potrebe prvej preventívnej prehliadky ústnej dutiny dieťaťa u zubného lekára. | vykonáva sa v 11. až 12. mesiaci života
 
-- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Poskytne sa poradenstvo rodičom vrátane informácie o fluorizácii, podporí sa laktačný program. | vykonáva sa v 15. mesiaci života
+- | 10. preventívna prehliadka Výkon zahŕňa: anamnézu, vyšetrenie celkového stavu, antropometrické merania, vyšetrenie kože a svalového tonusu, vyšetrenie lymfatických uzlín. Hodnotí sa: tvar a veľkosť VF, záhlavie, obvod hlavy a hrudníka, oči, nos, ústna dutina, stav dentície; tvar a pohyblivosť krku, lymfatické uzliny; fyzikálny nález na srdci a pľúcach; veľkosť pečene a stav pupka; slabiny, pulzácie tepien, stav pohlavných orgánov; symetria dolných končatín, pohyblivosť. Vyšetrí sa psychomotorický vývin. Orientačne sa vyšetrí sluch a zraková ostrosť. Podporí sa laktačný program. Vyžiada sa informácia od rodiča o absolvovaní preventívnej prehliadky ústnej dutiny dieťaťa u zubného lekára. | vykonáva sa v 15. mesiaci života
 
 - | 11. preventívna prehliadka Výkon zahŕňa: anamnézu od rodičov so zameraním na nové anamneastické údaje. Vyšetrenie celkového stavu, antropometrické merania. Kompletné pediatrické vyšetrenie. Overenie laterality, znalosť farby, odmeranie krvného tlaku, vyšetrenie moču, vyšetrenie reči, slovnej zásoby, vyšetrenie sluchu, kontrola chrbtice, genitálu. Odoslanie dieťaťa na potrebné odborné vyšetrenie. Posúdenie psychického vývoja. Zhodnotenie sociálnej situácie. Poskytne sa poradenstvo rodičom vrátane výživy. | vykonáva sa v 3. roku života
 
@@ -126,6 +126,8 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Kreatinín v kapilárnej krvi (REP) |
 
+- | Alanínaminotransferáza ALT |
+
 - | Močový sediment (semikvantitatívne) |
 
 - | Základné patologické súčasti moču (nekompletný dôkaz) |
@@ -160,9 +162,9 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Elektrokardiogram - štandardný 12-zvodový | u poistencov, ktorí dovŕšili 40 rokov veku; v prípade, že ambulancia nie je vybavená EKG prístrojom, výkon vykoná lekár s príslušnou špecializáciou
 
-- Preventívna stomatologická prehliadka | |
+- Preventívna prehliadka ústnej dutiny
 
-- Obsah: | Podrobná prehliadka chrupu, parodontu, mäkkých tkanív ústnej dutiny, kontrola medzičeľustných vzťahov a vzájomného postavenia zubov, zubných náhrad, dentálnej hygieny a hygienických návykov, určenie indexov KPE a CPITN. |
+- Obsah: | Podrobná prehliadka chrupu, parodontu, mäkkých tkanív ústnej dutiny, kontrola medzičeľustných vzťahov a vzájomného postavenia zubov, zubných náhrad, dentálnej hygieny a hygienických návykov, určenie indexov KPE a CPITN, Palpácia regionálnych lymfatických uzlín. |
 
 - Vykonáva: | zubný lekár |
 
@@ -178,9 +180,9 @@ Príloha č. 2 k zákonu č. 577/2004 Z. z.
 
 - | Názov výkonu | Indikačné obmedzenie
 
-- | Preventívna stomatologická prehliadka | u poistencov od 18 rokov veku; ak z výsledku prehliadky vyplýva potreba ďalšieho ošetrenia preventívneho charakteru (odstránenie povlakov, zubného kameňa), je takto poskytnutý výkon pripočítateľnou položkou k preventívnej prehliadke
+- | Preventívna prehliadka ústnej dutiny | u poistencov od 18 rokov veku; ak z výsledku prehliadky vyplýva potreba ďalšieho ošetrenia preventívneho charakteru (odstránenie povlakov, zubného kameňa), je takto poskytnutý výkon pripočítateľnou položkou k preventívnej prehliadke
 
-- | Preventívna pedostomatologická prehliadka | u poistencov do 18 rokov veku; ak z výsledku prehliadky vyplýva potreba ďalšieho ošetrenia preventívneho alebo invazívneho charakteru (odstránenie povlakov, zubného kameňa, výplň alebo extrakcia atď.), je takto poskytnutý výkon pripočítateľnou položkou k preventívnej prehliadke
+- | Preventívna prehliadka ústnej dutiny u detí a dorastu | u poistencov do 18 rokov veku; ak z výsledku prehliadky vyplýva potreba ďalšieho ošetrenia preventívneho alebo invazívneho charakteru (remineralizácia skloviny, odstránenie povlakov, zubného kameňa, výplň alebo extrakcia atď.), je takto poskytnutý výkon pripočítateľnou položkou k preventívnej prehliadke
 
 - Preventívna gynekologická prehliadka | |
 
