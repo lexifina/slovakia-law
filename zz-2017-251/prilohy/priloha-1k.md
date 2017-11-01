@@ -1,0 +1,1 @@
+Príloha č. 1 k vyhláške č. 251/2017 Z. z. [OCHRANNÉ PÁSMO I. STUPŇA PRÍRODNÉHO LIEČIVÉHO ZDROJA V ČERVENOM KLÁŠTORE](../assets/9a38d7ecad46de9f251d8ccf74d12680eeb3acc37732041003c844537b1628f7.pdf)
