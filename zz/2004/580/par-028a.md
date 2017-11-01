@@ -10,7 +10,11 @@
 
 - d) 25 % tvoria poistenci, ktorí sú zaradení do farmaceuticko-nákladovej skupiny s indexom rizika nákladov nad 5,0000.
 
-(2) Ministerstvo zdravotníctva oznámi zdravotnej poisťovni do 31. decembra kalendárneho roka
+(2) Úrad je povinný vykonávať najmenej raz za kalendárny rok dohľad nad údajmi oznamovanými zdravotnou poisťovňou na účely vykonania mesačného prerozdeľovania poistného (§ 27), pričom údaje podľa § 27 ods. 2 písm. b) a c) skontroluje najmenej na vzorke náhodne vybratých 0,1 ‰ poistencov, u ktorých skontroluje správnosť zaradenia poistenca v skupinách podľa pohlavia, veku a platiteľa poistného podľa stavu v tom kalendárnom mesiaci, za ktorý vykonáva dohľad.
+
+(3) Úrad je povinný vykonávať najmenej raz za kalendárny rok na účely vykonania ročného prerozdeľovania poistného (§ 27a) dohľad nad údajmi oznamovanými zdravotnou poisťovňou do centrálneho registra poistencov, pričom správnosť poskytnutých údajov zdravotnými poisťovňami do centrálneho registra poistencov skontroluje najmenej na vzorke náhodne vybratých 0,1 ‰ poistencov podľa stavu údajov v centrálnom registri poistencov v čase vykonávania dohľadu nad údajmi poistencov týkajúcich sa kalendárneho roka, ktorý predchádza kalendárnemu roku vykonávania dohľadu.
+
+(4) Ministerstvo zdravotníctva oznámi zdravotnej poisťovni do 31. decembra kalendárneho roka
 
 - a) popis spôsobu výpočtu indexu rizika nákladov a výstupy zo štatistického softvéru použitého na výpočet indexu rizika nákladov, ktorý obsahuje
 

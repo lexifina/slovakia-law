@@ -60,7 +60,7 @@
 
 (18) Preukazovanie skutočností podľa § 11 ods. 7 písm. v) prvého bodu sa upraví dohodou, ktorú uzatvorí úrad s Ústredím práce, sociálnych vecí a rodiny. Úrad je povinný tieto údaje oznámiť príslušnej zdravotnej poisťovni do troch dní odo dňa ich prijatia.
 
-(19) Sociálna poisťovňa poskytuje zdravotnej poisťovni na účely vykonávania verejného zdravotného poistenia súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu. Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni na základe uzavretej dohody elektronicky na účely vykonávania verejného zdravotného poistenia údaje o
+(19) Sociálna poisťovňa poskytuje zdravotnej poisťovni na účely vykonávania verejného zdravotného poistenia súčinnosť pri vykonávaní kontrolnej činnosti v rozsahu nevyhnutnom na dosiahnutie tohto účelu. Sociálna poisťovňa poskytuje zo svojho informačného systému zdravotnej poisťovni prostredníctvom informačného systému verejnej správy podľa osobitného predpisu<sup>55c</sup>) elektronicky na účely vykonávania verejného zdravotného poistenia údaje o
 
 - a) fyzickej osobe a jej nemocenských dávkach v rozsahu meno, priezvisko, rodné číslo, alebo ak ide o cudzinca, identifikačné číslo sociálneho zabezpečenia pridelené Sociálnou poisťovňou, dátum narodenia, bydlisko, dátum začiatku a ukončenia poberania nemocenskej dávky, druh nemocenskej dávky, druh poistného vzťahu v Sociálnej poisťovni, dátum začiatku a ukončenia podporného obdobia,
 

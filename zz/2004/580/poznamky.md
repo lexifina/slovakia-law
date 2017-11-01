@@ -242,11 +242,11 @@
 
 - 55) § 43 zákona č. 581/2004 Z. z.
 
-- 55a) § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 9 ods. 1 a § 10 ods. 1 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 55a) § 5 ods. 1, § 6 ods. 1, § 7 ods. 1, § 9 ods. 1 a § 10 ods. 1 zákona č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálnych a investičných fondov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a § 17 ods. 6 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
-- 55b) § 5 ods. 2 až 4, § 6 ods. 2, § 7 ods. 2, § 9 ods. 2 a § 10 ods. 2 zákona č. 292/2014 Z. z. v znení neskorších predpisov.
+- 55b) § 5 ods. 2 až 4, § 6 ods. 2, § 7 ods. 2, § 9 ods. 2 a § 10 ods. 2 zákona č. 292/2014 Z. z. v znení neskorších predpisov a § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
-- 55c) § 2 ods. 1 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 55c) § 10 ods. 3 písm. h) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 238/2017 Z. z.
 
 - 56) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
