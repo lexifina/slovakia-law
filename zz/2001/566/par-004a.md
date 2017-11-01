@@ -12,7 +12,7 @@
 
 (3) Investičný certifikát musí obsahovať
 
-- a) obchodné meno, sídlo, identifikačné číslo emitenta a identifikátor právneho subjektu (LEI), ak mu bol pridelený,
+- a) obchodné meno, sídlo, identifikačné číslo emitenta a kód LEI, ak mu bol pridelený,
 
 - b) označenie „investičný certifikát“, formu a podobu investičného certifikátu,
 

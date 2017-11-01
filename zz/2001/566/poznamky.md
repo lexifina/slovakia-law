@@ -76,7 +76,7 @@
 
 - 24c) § 535 Občianskeho zákonníka.
 
-- 24d) Čl. 4 ods. 1 bod 73 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013).
+- 24d) Čl. 4 ods. 1 bod 73 nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení.
 
 - 25) Napríklad § 2 ods. 6 zákona č. 483/2001 Z. z.
 
@@ -204,7 +204,7 @@
 
 - 56ad) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
 
-- 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
+- 56b) Čl. 8 ods. 1 písm. l) a čl. 76 ods. 4 nariadenia Európskeho Parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
 
 - 56ba) § 3 ods. 1 zákona č. 371/2014 Z. z.
 
@@ -328,6 +328,18 @@
 
 - 60s) § 11 zákona č. 483/2001 Z. z. v znení zákona č. 214/2006 Z. z.
 
+- 60t) Delegované nariadenie (EÚ) 2017/571.
+
+- 60u) Napríklad § 4 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 60ua) Čl. 6 a 20 nariadenia (EÚ) č. 600/2014.
+
+- 60v) Čl. 4 ods. 1 písm. a) a b) nariadenia (EÚ) č. 600/2014.
+
+- 60w) Čl. 3 ods. 1 nariadenia (EÚ) č. 600/2014.
+
+- 60x) Čl. 26 nariadenia (EÚ) č. 600/2014.
+
 - 61) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
 
 - 61a) § 2 Obchodného zákonníka.
@@ -410,7 +422,7 @@
 
 - 88b) § 18, 19, 23 a 27 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
-- 89) Čl. 16 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014).
+- 89) Čl. 16 nariadenia Európskeho parlamentu a Rady (EÚ) č. 909/2014 z 23. júla 2014 o zlepšení vyrovnania transakcií s cennými papiermi v Európskej únii, centrálnych depozitároch cenných papierov a o zmene smerníc 98/26/ES a 2014/65/EÚ a nariadenia (EÚ) č. 236/2012 (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
 
 - 89a) Čl. 16 až 21, 54 až 57 a čl. 69 ods. 2, 4 a 5 nariadenia (EÚ) č. 909/2014.
 
@@ -494,9 +506,11 @@
 
 - 107ca) Nariadenie Európskeho parlamentu a Rady (ES) č. 1060/2009 zo 16. septembra 2009 o ratingových agentúrach (Ú. v. EÚ L 302, 17. 11. 2009).
 
-- 107cb) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012).
+- 107cb) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
 - 107cc) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 236/2012 zo 14. marca 2012 o predaji nakrátko a určitých aspektoch swapov na úverové zlyhanie (Ú. v. EÚ L 86, 24. 3. 2012).
+
+- 107cd) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1011 z 8. júna 2016 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov, ktorým sa menia smernice 2008/48/ES a 2014/17/EÚ a nariadenie (EÚ) č. 596/2014 (Ú. v. EÚ L 171, 29. 6. 2016).
 
 - 107d) § 33 zákona č. 428/2002 Z. z.
 
@@ -507,6 +521,8 @@
 - 107f) § 2 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení neskorších predpisov.
 
 - § 75 zákona č. 215/2004 Z. z. v znení zákona č. 195/2014 Z. z.
+
+- 107g) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2365 z 25. novembra 2015 o transparentnosti transakcií financovania prostredníctvom cenných papierov a opätovného použitia a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 337, 23. 12. 2015).
 
 - 108) § 23, 26, 27 a § 29 písm. a) a d) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 149/2001 Z. z.
 
@@ -560,7 +576,7 @@
 
 - 110j) Čl. 92 až 386 nariadenia (EÚ) č. 575/2013.
 
-- 110ja) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú.v. EÚ L 173, 12. 6. 2014).
+- 110ja) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie (EÚ) č. 2015/2365, nariadenie (EÚ) č. 2016/1011.
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
@@ -570,9 +586,9 @@
 
 - 110la) Čl. 63 ods. 2 nariadenia (EÚ) č. 909/2014.
 
-- 110m) Čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014.
+- 110m) Napríklad čl. 30 ods. 1 nariadenia (EÚ) č. 596/2014, čl. 22 nariadenia (EÚ) č. 2015/2365, čl. 42 nariadenia (EÚ) č. 2016/1011.
 
-- 110n) Čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014.
+- 110n) Napríklad čl. 30 ods. 2 a čl. 31 nariadenia (EÚ) č. 596/2014, čl. 22 a 23 nariadenia (EÚ) 2015/2365, čl. 42 a 43 nariadenia (EÚ) 2016/1011.
 
 - 111) Napríklad Obchodný zákonník v znení neskorších predpisov, Občiansky zákonník v znení neskorších predpisov, zákon č. 659/2007 Z. z.
 
@@ -657,3 +673,11 @@
 - 128) Čl. 92 ods. 3 nariadenia (EÚ) č. 575/2013.
 
 - 129) § 33d ods. 4 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 130) Čl. 4 nariadenia (EÚ) č. 648/2012.
+
+- 131) Čl. 11 ods. 3 nariadenia (EÚ) č. 648/2012.
+
+- 132) Čl. 10 ods. 1 nariadenia (EÚ) č. 648/2012.
+
+- 133) Čl. 10 nariadenia (EÚ) č. 648/2012.

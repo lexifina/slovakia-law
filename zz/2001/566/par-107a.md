@@ -4,11 +4,11 @@
 
 (2) Vyhlásením konkurzu alebo povolením reštrukturalizácie na majetok účastníka systému vyrovnania alebo účastníka systému vyrovnania v prepojenom systéme nie je dotknuté právo použiť peňažné prostriedky a cenné papiere z účtu tohto účastníka na splnenie záväzkov tohto účastníka v systéme vyrovnania alebo v prepojenom systéme v pracovnom dni systému vyrovnania, v ktorom bol vyhlásený konkurz alebo povolená reštrukturalizácia. Pracovný deň systému vyrovnania je časové obdobie, v ktorom sa vykonávajú všetky činnosti v priebehu jedného pracovného cyklu systému vyrovnania.
 
-(3) Vyhlásením konkurzu alebo povolením reštrukturalizácie na majetok účastníka systému vyrovnania alebo účastníka systému vyrovnania v prepojenom systéme nie je dotknutá povinnosť systému vyrovnania spracovať a zúčtovať príkazy tohto účastníka na registráciu prevodu, ani platnosť a vymáhateľnosť týchto príkazov na registráciu prevodu voči tretím osobám, ak ide o príkazy na registráciu prevodu, ktoré boli v súlade s prevádzkovým poriadkom prijaté systémom vyrovnania alebo systémom vyrovnania v prepojenom systéme
+(3) Vyhlásením konkurzu alebo povolením reštrukturalizácie na majetok účastníka systému vyrovnania alebo účastníka systému vyrovnania v prepojenom systéme nie je dotknutá povinnosť systému vyrovnania spracovať a vyrovnať príkazy tohto účastníka na registráciu prevodu, ani platnosť a vymáhateľnosť týchto príkazov na registráciu prevodu voči tretím osobám, ak ide o príkazy na registráciu prevodu, ktoré sa stali od okamihu určeného v prevádzkovom poriadku neodvolateľnými
 
 - a) pred okamihom vyhlásenia konkurzu alebo povolenia reštrukturalizácie,
 
-- b) v okamihu vyhlásenia konkurzu alebo povolenia reštrukturalizácie a po tomto okamihu, ak príkazy na registráciu prevodu boli podané v pracovný deň vyhlásenia konkurzu alebo povolenia reštrukturalizácie, a to len vtedy, ak centrálnemu depozitárovi nebolo vyhlásenie konkurzu alebo povolenie reštrukturalizácie známe, a to ani z oznámení podľa odsekov 7 a 8.
+- b) v okamihu vyhlásenia konkurzu alebo povolenia reštrukturalizácie a po tomto okamihu, ak príkazy na registráciu prevodu boli prijaté systémom vyrovnania v pracovný deň vyhlásenia konkurzu alebo povolenia reštrukturalizácie, a to len vtedy, ak centrálnemu depozitárovi nebolo vyhlásenie konkurzu alebo povolenie reštrukturalizácie známe, a to ani z oznámení podľa odsekov 7 a 8.
 
 (4) Spätné prepočítanie vzájomných pohľadávok a záväzkov účastníkov systému vyrovnania v tomto systéme vyrovnania sa zakazuje. Rovnako sa zakazuje spätné prepočítanie vzájomných pohľadávok a záväzkov účastníkov systému vyrovnania v prepojenom systéme.
 

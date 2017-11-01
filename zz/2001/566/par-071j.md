@@ -12,7 +12,7 @@
 
 (2) Ustanovenie odseku 1 sa nevzťahuje na banku ani zahraničnú banku so sídlom v členskom štáte, ak ide o vklady vedené v tejto inštitúcii.
 
-(3) Kvalifikovaným fondom peňažného trhu sa rozumie otvorený podielový fond alebo európsky fond, alebo iný zahraničný subjekt kolektívneho investovania, ktorý podlieha dohľadu alebo ktorému bolo udelené povolenie na činnosť podľa právnych predpisov členského štátu a ktorý spĺňa tieto podmienky:
+(3) Kvalifikovaným fondom peňažného trhu sa rozumie otvorený fond alebo európsky fond, alebo iný zahraničný subjekt kolektívneho investovania, ktorý podlieha dohľadu alebo ktorému bolo udelené povolenie na činnosť podľa právnych predpisov členského štátu a ktorý spĺňa tieto podmienky:
 
 - a) hlavným cieľom jeho investovania je udržiavanie čistej hodnoty aktív, a to na rovnakej hodnote investície po odrátaní výnosov alebo na počiatočnej hodnote investície investora po zarátaní výnosov,
 
