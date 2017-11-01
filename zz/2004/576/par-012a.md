@@ -10,7 +10,7 @@
 
 (3) Dočasná pracovná neschopnosť sa začína dňom, v ktorom príslušný ošetrujúci lekár zistil chorobu podľa medzinárodnej klasifikácie chorôb (§ 3 ods. 1), ktorá vyžaduje dočasnú pracovnú neschopnosť. Ak sa zdravotná starostlivosť poskytne zamestnancovi po odpracovaní jeho pracovnej zmeny, dočasná pracovná neschopnosť sa začína nasledujúcim kalendárnym dňom.
 
-(4) Príslušný ošetrujúci lekár môže uznať osobu za dočasne práceneschopnú spätne najviac tri kalendárne dni na základe lekárskeho nálezu lekárskej služby prvej pomoci alebo ústavnej pohotovostnej služby, ak v odsekoch 14 a 15 nie je ustanovené inak.
+(4) Príslušný ošetrujúci lekár môže uznať osobu za dočasne práceneschopnú spätne najviac tri kalendárne dni na základe lekárskeho nálezu zubno-lekárskej pohotovostnej služby, ambulantnej pohotovostnej služby alebo ústavnej pohotovostnej služby, ak v odsekoch 14 a 15 nie je ustanovené inak.
 
 (5) Osoba, ktorej potvrdenie o dočasnej pracovnej neschopnosti vystavil ošetrujúci lekár podľa odseku 1 písm. b), je povinná dostaviť sa k ošetrujúcemu lekárovi podľa odseku 1 písm. a) do troch dní odo dňa jej prepustenia zo zdravotníckeho zariadenia ústavnej starostlivosti.
 

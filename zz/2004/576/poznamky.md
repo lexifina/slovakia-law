@@ -16,6 +16,8 @@
 
 - 4ab) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
+- 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
 - 5) § 27 Občianskeho zákonníka.
 
 - Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
@@ -41,6 +43,12 @@
 - 7a) Zákon č. 579/2004 Z. z. v znení neskorších predpisov.
 
 - 7b) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 7c) § 12 ods. 14 zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 7d) § 12 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 7e) § 8 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 8) § 27 zákona č. 578/2004 Z. z.
 
@@ -225,6 +233,8 @@
 - 53) § 18 ods. 5 zákona č. 578/2004 Z. z.
 
 - 53a) § 4 zákona č. 414/2002 Z. z. o hospodárskej mobilizácii a o zmene zákona Národnej rady Slovenskej republiky č. 274/1993 Z. z. o vymedzení pôsobnosti orgánov vo veciach ochrany spotrebiteľa v znení neskorších predpisov.
+
+- 53aa) § 79 ods. 1 písm. ap) zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 54) Napríklad zákon č. 370/1997 Z. z. o vojenskej službe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
