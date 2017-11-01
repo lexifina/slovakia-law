@@ -52,6 +52,12 @@
 
 - 16f) § 9a až 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 16h) § 14a zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 16i) § 66a Obchodného zákonníka.
+
+- 16j) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
@@ -118,7 +124,7 @@
 
 - 25) Zákon č. 577/2004 Z. z.
 
-- 27) § 2 ods. 19 zákona č. 576/2004 Z. z.
+- 27) § 2 ods. 29 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 27a) § 2 ods. 1 písm. a) a § 3 zákona č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov.
 
@@ -129,6 +135,8 @@
 - 27c) § 3 zákona č. 153/2013 Z. z.
 
 - 27f) § 13 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 27g) § 8a ods. 1 písm. a) prvý bod zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 28) § 17 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -467,3 +475,5 @@
 - 100) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
 - § 156 ods. 7 Obchodného zákonníka.
+
+- 101) § 25 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
