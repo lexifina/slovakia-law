@@ -70,6 +70,10 @@
 
 - 5ad) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
+- 5ae) § 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 5af) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
 - 6a) § 47 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) § 67 ods. 1 písm. c) zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
@@ -87,6 +91,10 @@
 - Rozhodnutie Komisie (EÚ) č. 2012/21/EÚ z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu (Ú. v. EÚ L 7, 11. 1. 2012).
 
 - 7h) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 7i) § 2 ods. 1 písm. r) a f) zákona č. 275/2006 Z. z. v znení neskorších predpisov.
+
+- 7j) § 26 až 28 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 8) § 3 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
