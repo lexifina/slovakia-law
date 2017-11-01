@@ -98,23 +98,9 @@
 
 - 35aa) § 73b až 73m a § 73o až 73v zákona č. 566/2001 Z. z.
 
-- 35b) Články 30 a 32 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241/1, 2. 9. 2006).
+- 35b) Čl. 4 a 9 nariadenia (EÚ) č. 600/2014.
 
-- 35c) Článok 17 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35d) Článok 29 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35e) Články 18 a 19 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35f) Článok 20 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35g) Článok 27 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35h) Články 29 a 32 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35i) Článok 28 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 35j) § 78 až 78b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 35c) Čl. 3 ods. 1 a čl. 8 ods. 1 nariadenia (EÚ) č. 600/2014.
 
 - 36) § 99 ods. 3 písm. h) a § 103 ods. 2 písm. k) zákona č. 566/2001 Z. z.
 
@@ -123,6 +109,8 @@
 - 38) § 12 zákona č. 244/2002 Z. z. v znení zákona č. 521/2005 Z. z.
 
 - 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, Obchodný zákonník, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, nariadenie Komisie (ES) č. 1287/2006/ES.
+
+- 39a) § 7 ods. 30 zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
 - 40) § 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
@@ -186,8 +174,54 @@
 
 - 59) § 184 ods. 3 a 4, § 184a ods. 1 a 2 a § 190f ods. 1 Obchodného zákonníka.
 
+- 60) § 71, § 71a, § 71g, § 71l ods. 4 a § 75 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 60a) § 71m, § 71n, § 71p, § 73b, § 73c, § 73d, § 73f, § 73g, § 73h, § 73o až 73t zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 61) § 73b až 73m, § 73o, § 73p, § 73s až § 73t zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 62) Čl. 5 nariadenia (EÚ) č. 648/2012.
+
+- 63) § 73o zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 64) § 71l, § 71m, § 71p, § 73b až 73d, § 73f až 73h, § 73m, § 73o, § 73p a 73s zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 65) Delegované nariadenie (EÚ) 2017/569.
+
+- 66) Čl. 78 delegovaného nariadenia Komisie (EÚ) 2017/565 z 25. apríla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 66a) Čl. 77 delegovaného nariadenia (EÚ) 2017/565.
+
+- 66aa) § 120 až 125h zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 66b) Čl. 3 ods. 1 bod 21 nariadenia (EÚ) č. 596/2014.
+
+- 66c) Čl. 3 ods. 1 bod 25 nariadenia (EÚ) č. 596/2014.
+
+- 66d) Čl. 3 ods. 1 bod 26 nariadenia (EÚ) č. 596/2014.
+
+- 66e) Čl. 79 delegovaného nariadenia (EÚ) 2017/565.
+
+- 67) Delegované nariadenie Komisie (EÚ) 2017/591 z 1. decembra 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy na uplatňovanie obmedzení pozícií komoditných derivátov (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 68) Čl. 83 delegovaného nariadenia (EÚ) 2017/565.
+
+- 68a) Čl. 26 nariadenia (EÚ) č. 600/2014 a čl. 8 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1227/2011 z 25. októbra 2011 o integrite a transparentnosti veľkoobchodného trhu s energiou (Ú. v. EÚ L 326, 8.12. 2011).
+
+- 68b) Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 69) § 54 ods. 3 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 69a) Delegované nariadenie Komisie (EÚ) 2017/574 zo 7. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa úrovne presnosti obchodných hodín (Ú. v. EÚ L 87, 31. 3. 2017).
+
 - 70) Napríklad Zákonník práce, Trestný zákon.
 
 - 70a) § 156a Obchodného zákonníka v znení neskorších predpisov.
 
+- 70aa) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 70ab) § 10 ods. 5 zákona č. 747/2004 Z. z.
+
 - 71) § 25 zákona č. 747/2004 Z. z.
+
+- 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
