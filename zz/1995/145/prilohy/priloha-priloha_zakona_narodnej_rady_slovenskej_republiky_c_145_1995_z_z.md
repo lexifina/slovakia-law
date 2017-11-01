@@ -5342,12 +5342,32 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 275
 
-  - a) Poskytnutie asistovanej služby za vyhotovenie výpisu z registra trestov, odpisu registra trestov, za poskytnutie výpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe a za poskytnutie odpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe (aj negatívne) podľa položky 30 sadzobníka súdnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky............................................ | 2 eurá
+  - a) Poskytnutie asistovanej služby za vyhotovenie výpisu z registra trestov, odpisu registra trestov, za poskytnutie výpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe a za poskytnutie odpisu z registra trestov obsahujúceho informáciu o odsúdení v inom štáte Európskej únie fyzickej osobe (aj negatívne) podľa položky 30 sadzobníka súdnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky vrátane prvej zaručenej konverzie takto vydaných dokumentov............................................ | 2 eurá
 
-  - b) Poskytnutie asistovanej služby pri vyhotovení a vydaní výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 285 ods. 3 Civilného mimosporového poriadku v listinnej podobe podľa položky 24b písm. a) sadzobníka súdnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky....................................................................................................................................... | 4,50 eur
+  - b) Poskytnutie asistovanej služby pri vyhotovení a vydaní výpisu z obchodného registra s výnimkou výpisu z obchodného registra, ktorý sa vydáva po vykonaní zápisu podľa § 8 ods. 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a po vykonaní zápisu podľa § 285 ods. 3 Civilného mimosporového poriadku v listinnej podobe podľa položky 24b písm. a) sadzobníka súdnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky vrátane prvej zaručenej konverzie takto vydaných dokumentov............................................................ | 4,50 eur
 
-  - c) Poskytnutie asistovanej služby pri vydaní výpisu z katastra nehnuteľností, za každých aj začatých 20 parciel, 20 stavieb, 20 bytov alebo nebytových priestorov v rámci jedného výpisu podľa položky 10 písm. a) prvého bodu sadzobníka správnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky.................................................................................................................................................. | 4 eurá
+  - c) Poskytnutie asistovanej služby pri vydaní výpisu z katastra nehnuteľností, za každých aj začatých 20 parciel, 20 stavieb, 20 bytov alebo nebytových priestorov v rámci jedného výpisu podľa položky 10 písm. a) prvého bodu sadzobníka správnych poplatkov integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky vrátane prvej zaručenej konverzie takto vydaných dokumentov................................................. | 4 eurá
 
-  - d) Poskytnutie asistovanej služby pri iných úkonoch, ako sú uvedené v písmenách a) až c), integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky ..................................... | 50 % zo sadzby poplatku príslušnej položky sadzobníka správnych poplatkov alebo sadzobníka súdnych poplatkov, najviac 70 eur.
+  - d) Poskytnutie asistovanej služby pri iných úkonoch, ako sú uvedené v písmenách a) až c), integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky vrátane prvej zaručenej konverzie takto vydaných dokumentov ..................................... | 50 % zo sadzby poplatku príslušnej položky sadzobníka správnych poplatkov alebo sadzobníka súdnych poplatkov, najviac 70 eur.
 
-  - Poznámka Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2. |
+  - e) Poskytnutie zaručenej konverzie podľa § 39 ods. 8 zákona č. 305/2013 Z. z. integrovaným obslužným miestom prevádzkovaným Ministerstvom vnútra Slovenskej republiky: |
+
+  - 1. za vytvorenie osvedčovacej doložky .... | 1 euro
+
+  - 2. za každých, aj začatých päť strán pôvodného listinného dokumentu formátu A4 .... | 0,5 eura
+
+  - 3. za každých, aj začatých päť strán pôvodného listinného dokumentu formátu A3 .... | 1 euro
+
+  - 4. za každých, aj začatých päť strán novovzniknutého listinného dokumentu formátu A4 ...... | 1 euro
+
+  - 5. za každých, aj začatých päť strán novovzniknutého listinného dokumentu formátu A3 ...... | 2 eurá
+
+  - 6. za zaručenú konverziu jedného elektronického dokumentu podľa § 35 ods. 1 písm. c) zákona .... | 0,5 eura
+
+  - 7. ak sa na zaručenú konverziu použije technológia optického rozpoznávania znakov (OCR), za každú, aj začatú stranu novovzniknutého listinného dokumentu formátu A4 .... | 5 eur
+
+  - 8. ak sa na zaručenú konverziu použije technológia optického rozpoznávania znakov (OCR), za každú, aj začatú stranu novovzniknutého listinného dokumentu formátu A3 ... | 10 eur
+
+  - 9. za každú, aj začatú stranu formátu A4 novovzniknutého dokumentu obsahujúcu konverziu informačného obsahu podľa § 2 písm. g) zákona .... | 0,5 eura
+
+  - Poznámka 1. Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2. 2. Súčasťou poplatku podľa písmena e) sú aj hotové výdavky na spotrebný materiál. |

@@ -42,6 +42,14 @@
 
 - 7ab) Napríklad § 2 a 8 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 7ac) § 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 7ad) § 5 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
+- 7ae) § 7 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 7ag) § 26 až 28 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 7b) § 78 zákona č. 71/1967 Zb. v znení zákona č. 527/2003 Z. z.
 
 - 7c) Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -56,6 +64,8 @@
 
 - 7e) § 4 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
+- 7f) § 2 ods. 1 písm. r) a f) zákona č. 275/2006 Z. z. v znení neskorších predpisov.
+
 - 8) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 8a) § 106 ods. 3 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
@@ -69,6 +79,8 @@
 - Rozhodnutie Komisie (EÚ) č. 2012/21/EÚ z 20. decembra 2011 o uplatňovaní článku 106 ods. 2 Zmluvy o fungovaní Európskej únie na štátnu pomoc vo forme náhrady za službu vo verejnom záujme udeľovanej podnikom povereným poskytovaním služieb všeobecného hospodárskeho záujmu. (Ú. v. EÚ L 7, 11. 1. 2012).
 
 - 8ad) § 5a ods. 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+- 8ae) § 5 ods. 6 písm. b) a ods. 7 zákona č. 305/2013 Z. z. v znení zákona č. 238/2017 Z. z.
 
 - 8b) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
