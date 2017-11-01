@@ -46,7 +46,7 @@
 
 - 14) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 747/2004 Z. z.
 
-- 15) Napríklad § 11 ods. 1 písm. d) a e) zákona č. 211/2000 Z. z. v znení zákona č. 747/2004 Z. z., čl. 38.1 Protokolu č. 18 o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky k Zmluve o založení Európskeho spoločenstva v platnom znení, prílohy k zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
+- 15) Napríklad § 11 ods. 1 písm. g) a h) zákona č. 211/2000 Z. z. v znení neskorších predpisov, čl. 37 ods. 37.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 202, 7. 6. 2016) v platnom znení.
 
 - 15a) § 20f až 20j Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -81,6 +81,8 @@
 - 26) § 2 ods. 11 zákona č. 483/2001 Z. z.
 
 - 26a) § 6 ods. 3 druhá veta zákona č. 381/2001 Z. z. v znení neskorších predpisov.
+
+- 26b) Napríklad delegované nariadenie Komisie (EÚ) č. 2016/301 z 30. novembra 2015, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2003/71/ES, pokiaľ ide o regulačné technické predpisy týkajúce sa schvaľovania a uverejňovania prospektov a šírenia inzerátov, a ktorým sa mení nariadenie Komisie (ES) č. 809/2004 (Ú. v. EÚ L 58, 4. 3. 2016).
 
 - 27) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
@@ -158,7 +160,7 @@
 
 - 43b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 44) § 44 ods. 1 písm. a) a § 125 zákona č. 594/2003 Z. z.
+- 44) § 88 ods. 1 písm. a) a § 125 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 44a) Napríklad čl. 12 ods. 2 nariadenia (EÚ) č. 648/2012.
 
@@ -166,9 +168,9 @@
 
 - Zákon č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 46) Zákon č. 594/2003 Z. z. v znení neskorších predpisov.
+- 46) Zákon č. 203/2011 Z. z. v znení neskorších predpisov.
 
-- 47) Zákon č. 95/2002 Z. z. v znení neskorších predpisov.
+- 47) Zákon č. 39/2015 Z. z. v znení neskorších predpisov.
 
 - 47a) Nariadenie (EÚ) č. 596/2014.
 
@@ -184,7 +186,7 @@
 
 - 47f) Napríklad zákon Národnej rady Slovenskej republiky č. 308/1993 Z. z. o zriadení Slovenského národného strediska pre ľudské práva v znení neskorších predpisov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a o nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 48) § 38 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+- 48) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 49) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -198,11 +200,11 @@
 
 - § 3 nariadenia vlády Slovenskej republiky č. 87/1995 Z. z., ktorým sa vykonávajú niektoré ustanovenia Občianskeho zákonníka.
 
-- § 18 a § 44 písm. b) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
+- § 17 ods. 1 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 397/2008 Z. z.
 
 - 51) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
-- 51a) § 41 ods. 2 písm. g) a i) a § 45 ods. 5 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
+- 51a) § 45 ods. 2 písm. i) a l), § 49 a § 243h ods. 1 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 52) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov.
 
@@ -210,6 +212,6 @@
 
 - 53) Zákon č. 96/2002 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 54) § 2, 3 a § 4 ods. 1 písm. c) zákona č. 514/2003 Z. z.
+- 54) § 2, 3 a § 4 ods. 1 písm. d) zákona č. 514/2003 Z. z. v znení zákona č. 508/2010 Z. z.
 
 - 55) § 53 ods. 2 zákona č. 96/2002 Z. z. v znení neskorších predpisov.

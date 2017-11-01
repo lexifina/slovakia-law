@@ -2,7 +2,7 @@
 
 (1) Národná banka Slovenska rozhodnutím zakáže dohliadanému subjektu
 
-- a) nekalú obchodnú praktiku,<sup>42d</sup>) ktorá ešte nebola vykonaná, ale jej vykonanie bezprostredne hrozí, a to aj bez ohľadu na jej príčiny a bez ohľadu na vznik škody alebo spôsobenie iného následku finančným spotrebiteľom,
+- a) nekalú obchodnú praktiku,<sup>42d</sup>) aj keď ešte nebola vykonaná, ale jej vykonanie bezprostredne hrozí, a to aj bez ohľadu na jej príčiny a bez ohľadu na vznik škody alebo spôsobenie iného následku finančným spotrebiteľom,
 
 - b) používať neprijateľnú podmienku v neprospech finančného spotrebiteľa (ďalej len "neprijateľná podmienka") v zmluve o poskytnutí finančnej služby ani dojednávať zmluvy s finančnými spotrebiteľmi obsahujúce neprijateľnú podmienku.<sup>42e</sup>)
 
