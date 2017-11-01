@@ -824,7 +824,51 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 52. V § 23 ods. 1 prvej vete sa za slová „elektronickým podpisom“ vkladajú slová „a mandátnym certifikátom“ a v druhej vete sa za slová „elektronickým podpisom“ vkladajú slová „alebo zaručenou elektronickou pečaťou<sup>18</sup>)“.
 
+- 53. V § 23 ods. 4 sa vypúšťajú slová „v informačnom systéme verejnej správy<sup>3</sup>)“, slová „[§ 49 písm. f)]“ sa nahrádzajú slovami „[§ 49 písm. h)]“ a na konci sa pripája táto veta: „Evidenciu podľa prvej vety vedie orgán verejnej moci prostredníctvom centrálneho registra elektronických plnomocenstiev podľa § 23a.“.
+
+- 54. V § 23 ods. 5 sa vypúšťajú slová „v informačnom systéme verejnej správy<sup>3</sup>)“, za slová „inej osoby“ sa vkladajú slová „podľa odseku 4“ a za slová „či oprávnenie“ sa vkladajú slová „podľa odseku 4“.
+
 - 55. Za § 23 sa vkladá § 23a, ktorý vrátane nadpisu znie:
+
+- „§ 23a
+
+- Centrálny register elektronických plnomocenstiev
+
+- (1)
+
+- Zriaďuje sa centrálny register elektronických plnomocenstiev, ktorý je informačným systémom verejnej správy, a jeho správcom je ministerstvo vnútra. V centrálnom registri elektronických plnomocenstiev sa vedú najmä elektronické plnomocenstvá a údaje podľa § 23 ods. 4.
+
+- (2)
+
+- Elektronickým plnomocenstvom sa na účely vedenia v centrálnom registri elektronických plnomocenstiev rozumie plnomocenstvo udelené v elektronickej podobe vo forme údajov vyplnených podľa elektronického formulára elektronického plnomocenstva obsahujúce náležitosti plnomocenstva podľa osobitných predpisov, najmä však identifikátor osoby splnomocniteľa a splnomocnenca, ako aj jednoznačné určenie rozsahu oprávnenia splnomocnenca konať v mene splnomocniteľa a ktoré je autorizované splnomocniteľom.
+
+- (3)
+
+- Pre elektronické plnomocenstvo vytvára elektronický formulár elektronického plnomocenstva správca centrálneho registra elektronických plnomocenstiev alebo ústredný orgán štátnej správy na účely zastupovania v konaní v oblastiach, v ktorých vykonáva ústrednú štátnu správu a v ktorých sa vykonáva verejná moc elektronicky. Centrálny register elektronických plnomocenstiev je prístupný prostredníctvom ústredného portálu, a to aj automatizovaným spôsobom.
+
+- (4)
+
+- Správca centrálneho registra elektronických plnomocenstiev zabezpečí každému
+
+- a)
+
+- splnomocniteľovi po úspešnej autentifikácii možnosť uloženia a odvolania elektronického plnomocenstva v centrálnom registri elektronických plnomocenstiev,
+
+- b)
+
+- splnomocnencovi po úspešnej autentifikácii možnosť vypovedania elektronického plnomocenstva,
+
+- c)
+
+- splnomocniteľovi, splnomocnencovi a orgánu verejnej moci, ktorý koná vo veci, ktorej sa elektronické plnomocenstvo týka, sprístupnenie elektronického plnomocenstva.
+
+- (5)
+
+- Uloženie, odvolanie, vypovedanie a sprístupnenie elektronického plnomocenstva sú bezodplatné a vykonávajú sa prostredníctvom na to určenej funkcie centrálneho registra elektronických plnomocenstiev v spojení s autorizáciou úkonu, pričom ak dôjde k odvolaniu alebo vypovedaniu elektronického plnomocenstva, centrálny register elektronických plnomocenstiev bezodkladne vyznačí informáciu o tejto skutočnosti pri príslušnom elektronickom plnomocenstve.
+
+- (6)
+
+- Správca centrálneho registra elektronických plnomocenstiev sprístupní elektronické formuláre elektronických plnomocenstiev bezodplatne prostredníctvom modulu elektronických formulárov.“.
 
 - 56. V § 24 a 26 sa slová „úrad vlády“ vo všetkých tvaroch nahrádzajú slovami „správca modulu elektronických formulárov“ v príslušnom tvare.
 
