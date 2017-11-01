@@ -26,6 +26,8 @@
 
 - 10) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 10a) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
 - 11) § 7 zákona č. 581/2004 Z. z.
 
 - 12) § 34 ods. 2 zákona č. 140/1998 Z. z. v znení neskorších predpisov.
@@ -62,6 +64,14 @@
 
 - 17b) § 4 a Tretia časť zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
 
+- 17c) § 2 ods. 30 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 17d) § 66a Obchodného zákonníka.
+
+- 17e) § 2 ods. 31 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 17f) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
 - 19) § 116 Občianskeho zákonníka.
 
 - 19a) § 3 zákona č. 579/2004 Z. z. v znení zákona č. 351/2005 Z. z.
@@ -71,6 +81,8 @@
 - § 50 ods. 2 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
 - 21) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+
+- 21a) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 22) § 50 ods. 3 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
@@ -262,6 +274,12 @@
 
 - 55jar) § 8c ods. 3 zákona č. 581/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
+- 55jas) § 8a ods. 5 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 55jat) § 2 ods. 32 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 55jau) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -325,6 +343,8 @@
 - 60) Napríklad zákon Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
 
 - 60aa) § 119 ods. 3 Zákonníka práce.
+
+- 60aaa) § 118 Zákonníka práce.
 
 - 60ab) § 85 Zákonníka práce.
 

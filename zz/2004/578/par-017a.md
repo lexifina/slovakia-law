@@ -11,3 +11,5 @@
 (5) Náhradný odborný zástupca musí spĺňať podmienky ustanovené pre odborného zástupcu [§ 12 ods. 3 písm. a) a ods. 9 až 11], ak v odseku 2 nie je ustanovené inak. Ustanovenie § 12 ods. 12 platí rovnako.
 
 (6) Určenie náhradného odborného zástupcu nevyžaduje vydanie nového povolenia.
+
+(7) Orgánom príslušným na vydanie povolenia podľa odseku 3 sa rozumie ministerstvo zdravotníctva, ak ide o určenie náhradného odborného zástupcu držiteľa povolenia na prevádzkovanie ústavného zdravotníckeho zariadenia zaradeného do koncovej siete poskytovateľov (§ 5a).

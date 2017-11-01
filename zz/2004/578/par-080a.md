@@ -1,7 +1,19 @@
-## Osobitné ustanovenia o minimálnej výške základnej zložky mzdy niektorých zdravotníckych pracovníkov
+## Osobitné ustanovenia o odmeňovaní niektorých zdravotníckych pracovníkov
 
 # § 80a
 
 (1) Základná zložka mzdy<sup>60aa</sup>) lekára a zubného lekára [§ 27 ods. 1 písm. a) a b)] pracujúceho v pracovnom pomere na ustanovený týždenný pracovný čas v zariadení ústavnej zdravotnej starostlivosti (§ 7 ods. 4), ktorý získal odbornú spôsobilosť na výkon odborných pracovných činností (§ 33 ods. 2) a vykonáva odborné pracovné činnosti v rozsahu získaného vzdelania, je najmenej 1,25-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
 
 (2) Základná zložka mzdy<sup>60aa</sup>) lekára a zubného lekára [§ 27 ods. 1 písm. a) a b)] pracujúceho v pracovnom pomere na ustanovený týždenný pracovný čas v zariadení ústavnej zdravotnej starostlivosti (§ 7 ods. 4), ktorý získal odbornú spôsobilosť na výkon špecializovaných pracovných činností (§ 33 ods. 4) v špecializačnom odbore a vykonáva špecializované pracovné činnosti v príslušnom špecializačnom odbore, je najmenej 2,30-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.
+
+(3) Mzda<sup>60aaa</sup>) lekára za hodinu vykonávania zdravotníckeho povolania v pracovnoprávnom vzťahu s organizátorom v ambulancii pevnej ambulantnej pohotovostnej služby [§ 7 ods. 3 písm. a) bod 3a] je 12 eur. Zamestnávateľ zamestnávajúci lekára podľa predchádzajúcej vety sa s ním môže dohodnúť aj na vyššej mzde.
+
+(4) Odmena za hodinu poskytovania pevnej ambulantnej pohotovostnej služby je najmenej vo výške celkových mzdových nákladov zodpovedajúcich mzde lekára podľa odseku 3 prvej vety, ak ide o odmenu pre poskytovateľa zdravotnej starostlivosti poskytujúceho zdravotnú starostlivosť v ambulancii pevnej ambulantnej pohotovostnej služby na základe iného vzťahu, ako je uvedený v odseku 3.
+
+(5) Odmena za poskytovanie pevnej ambulantnej pohotovostnej služby na základe rozpisu zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby vo výške podľa odseku 4 sa poskytovateľovi zdravotnej starostlivosti určenému v rozpise zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby v kalendárnom mesiaci, v ktorom nebolo zabezpečené poskytovanie pevnej ambulantnej pohotovostnej služby, znižuje o
+
+- a) 2 %, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené menej ako 7 hodín alebo 7 hodín,
+
+- b) 2,5 % za každé začaté 4 hodiny, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené viac ako 7 hodín a menej ako 49 hodín alebo 49 hodín,
+
+- c) 40 %, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené viac ako 49 hodín.
