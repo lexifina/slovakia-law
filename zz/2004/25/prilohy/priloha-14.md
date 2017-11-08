@@ -1,1 +1,1 @@
-Príloha č. 14 k vyhláške č. 25/2004 Z. z. [príloha](../assets/bff34007412e2fddea7b831044b24bd2c9cd6afb6bd04ebc4da1191b4c8117a8.pdf)
+Príloha č. 14 k vyhláške č. 25/2004 Z. z. [príloha](../assets/960b02b4b074818f3e9ac7a778f593882869eecdaa18ff73a8ffb7f2fb37da83.pdf)

@@ -26,4 +26,6 @@
 
 - h) dohoda o spôsobe a rozsahu účasti zamestnancov na riadení, ak tak ustanovuje osobitný predpis,<sup>6b</sup>) alebo rozhodnutie o ukončení rokovaní podľa osobitného predpisu,<sup>6b</sup>) alebo písomné vyhlásenie štatutárneho orgánu o tom, že lehota na vyjednávanie podľa osobitného predpisu<sup>6b</sup>) uplynula bez uzavretia dohody,
 
-- i) iné listiny, ak tak ustanoví osobitný predpis.
+- i) správa audítora podľa osobitného predpisu<sup>4c</sup>) alebo správa nezávislého experta podľa osobitného predpisu,<sup>4d</sup>)
+
+- j) iné listiny, ak tak ustanoví osobitný predpis.

@@ -1,1 +1,1 @@
-Príloha č. 15 k vyhláške č. 25/2004 Z. z. [príloha](../assets/069b0600c7ac0a1be017ab9648ebb14cb5f8b5bb3b33ea3dd6e0820951cf161b.pdf)
+Príloha č. 15 k vyhláške č. 25/2004 Z. z. [príloha](../assets/cd35b91f16b5a9d3844198e14035c0b99b7b5075d303e9827610a2b6c38c20cc.pdf)

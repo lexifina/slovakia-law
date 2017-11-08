@@ -66,6 +66,10 @@
 
 - 4b) § 152a ods. 6 Obchodného zákonníka.
 
+- 4c) § 69 ods. 14 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
+
+- 4d) § 69 ods. 15 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
+
 - 5) § 69a ods. 3 písm. c) Obchodného zákonníka.
 
 - 6) § 218k ods. 1 a 5 Obchodného zákonníka.
