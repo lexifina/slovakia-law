@@ -16,6 +16,8 @@
 
 - 5aa) § 23 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
+- 5b) § 69 ods. 14 a 15 Obchodného zákonníka.
+
 - 6) Zákon Slovenskej národnej rady č. 80/1992 Zb. o sídlach a obvodoch súdov Slovenskej republiky, štátnej správe súdov, vybavovaní sťažností a o voľbách prísediacich (zákon o štátnej správe súdov) v znení neskorších predpisov.
 
 - 6a) § 68 ods. 12 Obchodného zákonníka.
