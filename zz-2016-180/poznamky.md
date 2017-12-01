@@ -1,0 +1,1 @@
+- 1) Nariadenie Európskeho parlamentu a Rady (ES) č. 1332/2008 zo 16. decembra 2008 o potravinárskych enzýmoch, ktorým sa mení a dopĺňa smernica Rady 83/417/EHS, nariadenie Rady (ES) č. 1493/1999, smernica 2000/13/ES, smernica Rady 2001/112/ES a nariadenie (ES) č. 258/97 (Ú. v. EÚ L 354, 31. 12. 2008).
