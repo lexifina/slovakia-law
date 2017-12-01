@@ -1,3 +1,1 @@
-Príloha č. 3c k zákonu č. 355/2007 Z. z.
-
-- VZORY LEKÁRSKYCH POSUDKOV O ZDRAVOTNEJ SPÔSOBILOSTI NA PRÁCU [príloha 3c](../assets/5bfaa16dc9fbe429b686664a05b1b9cd3dc997db5ac7eceb4626822f9141b62a.pdf)
+Príloha č. 3c k zákonu č. 355/2007 Z. z. [Príloha č. 3c k zákonu č. 355/2007 Z. z.](../assets/ff71578905f7ab28ceed023fc2d9b5f6216185e81d4a15d32bd07ce0aa6a312a.pdf)

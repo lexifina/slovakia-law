@@ -6,12 +6,8 @@
 
 - a) spôsobilý na výkon posudzovanej práce,
 
-- b) spôsobilý na výkon posudzovanej práce s dočasným obmedzením,
+- b) spôsobilý na výkon posudzovanej práce s dočasným obmedzením alebo
 
-- c) spôsobilý na výkon posudzovanej práce s trvalým obmedzením,
-
-- d) dočasne nespôsobilý na výkon posudzovanej práce, alebo
-
-- e) dlhodobo nespôsobilý na výkon posudzovanej práce.
+- c) dlhodobo nespôsobilý na výkon posudzovanej práce.
 
 (3) Vzory lekárskych posudkov o zdravotnej spôsobilosti na prácu podľa odseku 2 sú uvedené v prílohe č. 3c.

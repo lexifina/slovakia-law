@@ -12,9 +12,9 @@
 
 - d) doklady, že žiadateľ o oprávnenie na pracovnú zdravotnú službu má
 
-  - 1. minimálny tím zdravotníckych pracovníkov podľa § 30a ods. 6, s ktorými má uzatvorený pracovnoprávny vzťah alebo obdobný pracovný vzťah,
+  - 1. minimálny tím pracovnej zdravotnej služby podľa § 30a ods. 5, s ktorými má uzatvorený pracovnoprávny vzťah alebo obdobný pracovný vzťah,
 
-  - 2. povolenie na prevádzkovanie ambulancie alebo zmluvu na prenájom ambulancie [§ 30a ods. 3 písm. b)],
+  - 2. povolenie na prevádzkovanie ambulancie alebo zmluvu na prenájom ambulancie [§ 30ad písm. d)],
 
   - 3. vypracovaný pracovný postup na vykonávanie jednotlivých odborných činností.
 
@@ -26,9 +26,9 @@
 
 - c) vyhlásenie, že fyzická osoba alebo založená právnická osoba má zabezpečené
 
-  - 1. minimálny tím zdravotníckych pracovníkov podľa § 30a ods. 6,
+  - 1. minimálny tím zdravotníckych pracovníkov podľa § 30a ods. 5,
 
-  - 2. ambulanciu na výkon lekárskych preventívnych prehliadok vo vzťahu k práci podľa § 30a ods. 3 písm. b),
+  - 2. ambulanciu na výkon lekárskych preventívnych prehliadok vo vzťahu k práci podľa § 30ad písm. d),
 
 - d) pracovný postup na vykonávanie jednotlivých odborných činností.
 
@@ -46,11 +46,11 @@
 
 - c) obchodné meno, právnu formu, sídlo a identifikačné číslo právnickej osoby, ak ide o založenú právnickú osobu, obchodné meno, právnu formu a sídlo.
 
-(6) Fyzická osoba alebo založená právnická osoba, ktorej bolo vydané oprávnenie na pracovnú zdravotnú službu podľa odseku 5, môže začať vykonávať činnosť pracovnej zdravotnej služby, ak má živnostenské oprávnenie podľa osobitného predpisu<sup>34h</sup>) a úradu verejného zdravotníctva písomne predloží do 30 dní od získania živnostenského oprávnenia doklady podľa odseku 2 písm. a) až c) a písm. d) prvého bodu a druhého bodu.
+(6) Fyzická osoba alebo založená právnická osoba, ktorej bolo vydané oprávnenie na pracovnú zdravotnú službu podľa odseku 5, môže začať vykonávať činnosť pracovnej zdravotnej služby, ak má živnostenské oprávnenie podľa osobitného predpisu<sup>34g</sup>) a úradu verejného zdravotníctva písomne predloží do 30 dní od získania živnostenského oprávnenia doklady podľa odseku 2 písm. a) až c) a písm. d) prvého bodu a druhého bodu.
 
 (7) Úrad verejného zdravotníctva vydáva oprávnenie na pracovnú zdravotnú službu na dobu neurčitú.
 
-(8) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu odoberie, ak fyzická osoba – podnikateľ alebo právnická osoba (ďalej len „držiteľ oprávnenia na pracovnú zdravotnú službu“) opakovane neplní povinnosti podľa § 30c ods. 1 písm. a) až i).
+(8) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu odoberie, ak fyzická osoba – podnikateľ alebo právnická osoba (ďalej len „držiteľ oprávnenia na pracovnú zdravotnú službu“) opakovane neplní povinnosti podľa § 30d.
 
 (9) Úrad verejného zdravotníctva oprávnenie na pracovnú zdravotnú službu ďalej odoberie, ak fyzická osoba alebo držiteľ oprávnenia na pracovnú zdravotnú službu požiada o odobratie oprávnenia na pracovnú zdravotnú službu.
 
@@ -68,13 +68,19 @@
 
 (12) Fyzická osoba – podnikateľ alebo právnická osoba, ktorej úrad verejného zdravotníctva odobral oprávnenie na pracovnú zdravotnú službu, môže opätovne požiadať o vydanie oprávnenia na pracovnú zdravotnú službu najskôr po uplynutí jedného roka odo dňa nadobudnutia právoplatnosti rozhodnutia o odobratí oprávnenia na pracovnú zdravotnú službu; to sa nevzťahuje na oprávnenia na pracovnú zdravotnú službu odobraté
 
-- a) za neplnenie povinností uvedených v § 30c ods. 1 písm. a) a b),
+- a) za neplnenie povinností uvedených v § 30d ods. 1 písm. a) a b),
 
 - b) na základe žiadosti podľa odseku 9.
 
-(13) Fyzická osoba – podnikateľ alebo právnická osoba uvedená v § 30a ods. 4 písm. b) až d), ktorá samostatne vykonáva činnosť pracovnej zdravotnej služby, musí písomne úradu verejného zdravotníctva ohlásiť začatie svojej činnosti; v ohlásení uvedie údaje podľa § 5 ods. 4 písm. s) a dátum začatia vykonávania niektorých činností pracovnej zdravotnej služby [§ 30d ods. 1 písm. a) až d), písm. f), g), h) prvého bodu a písm. i)]. K ohláseniu predloží kópiu licencie na výkon zdravotníckeho povolania alebo licencie na výkon samostatnej zdravotníckej praxe [§ 30a ods. 4 písm. b)] alebo živnostenské oprávnenie [§ 30a ods. 4 písm. c) a d)].
+(13) Fyzická osoba – podnikateľ alebo právnická osoba podľa § 30aa ods. 2 písm. a) až d), ktorá samostatne vykonáva činnosť pracovnej zdravotnej služby, je povinná úradu verejného zdravotníctva písomne ohlásiť začatie vykonávania svojej činnosti v lehote do 30 dní od začatia činnosti; v ohlásení uvedie údaje podľa § 5 ods. 4 písm. s) a dátum začatia vykonávania činností pracovnej zdravotnej služby (§ 30ab). Osoba podľa
 
-(14) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz z dôvodu opakovaného neplnenia povinností podľa § 30c ods. 3; návrh na výmaz dáva regionálny úrad verejného zdravotníctva.
+- a) § 30aa ods. 2 písm. a) je povinná k ohláseniu priložiť kópiu licencie na výkon samostatnej zdravotníckej praxe alebo kópiu licencie na výkon zdravotníckeho povolania,
+
+- b) § 30aa ods. 2 písm. b) je povinná k ohláseniu priložiť kópiu licencie na výkon činnosti odborného zástupcu,
+
+- c) § 30aa ods. 2 písm. c) a d) je povinná k ohláseniu priložiť kópiu živnostenského oprávnenia a doklad o praxi na pracovisku orgánu verejného zdravotníctva alebo pracovnej zdravotnej služby v trvaní najmenej dvoch rokov.
+
+(14) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz z dôvodu opakovaného neplnenia povinností podľa § 30c; návrh na výmaz dáva regionálny úrad verejného zdravotníctva.
 
 (15) Úrad verejného zdravotníctva v evidencii osôb, ktoré samostatne vykonávajú niektoré činnosti pracovnej zdravotnej služby, vykoná výmaz aj
 
@@ -84,7 +90,7 @@
 
 - c) po zániku živnostenského oprávnenia,
 
-- d) po odobratí alebo zániku licencie na výkon zdravotníckeho povolania alebo licencie na výkon samostatnej zdravotníckej praxe,
+- d) po odobratí alebo zániku licencie na výkon samostatnej zdravotníckej praxe, licencie na výkon zdravotníckeho povolania alebo licencie na výkon činnosti odborného zástupcu,
 
 - e) po smrti fyzickej osoby alebo fyzickej osoby – podnikateľa, ktorá samostatne vykonáva niektoré činnosti pracovnej zdravotnej služby, alebo jej vyhlásením za mŕtvu.
 

@@ -188,17 +188,19 @@
 
 - 34b) § 58 a 58a Zákonníka práce v znení neskorších predpisov.
 
-- 34c) § 4 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+- 34c) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
-- 34d) Príloha č. 2 položka č. 92 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 204/2014 Z. z.
+- 34d) § 27 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 34e) § 21 až 24 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+- 34e) § 21 ods. 9 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
 
-- 34f) § 21 ods. 9 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+- 34f) § 4 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 34g) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
+- 34g) Príloha č. 2 položka č. 92 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 204/2014 Z. z.
 
-- 34h) Príloha č. 2 položka č. 65 zákona č. 455/1991 Zb. v znení zákona č. 204/2014 Z. z.
+- 34h) § 8 ods. 1 písm. a) tretí bod zákona č. 124/2006 Z. z. v znení zákona č. 470/2011 Z. z.
+
+- § 40 ods. 22 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 34i) § 95 zákona č. 461/2003 Z. z.
 
@@ -207,6 +209,8 @@
 - § 40 ods. 22 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 34k) § 11 zákona č. 124/2006 Z. z. v znení neskorších predpisov.
+
+- 34l) § 7 ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
 
 - 35) Napríklad zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti) v znení neskorších predpisov, zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 513/2009 Z. z. v znení neskorších predpisov, zákon č. 514/2009 Z. z. o doprave na dráhach v znení neskorších predpisov.
 

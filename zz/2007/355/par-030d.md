@@ -1,43 +1,33 @@
-# § 30d Náplň činnosti pracovnej zdravotnej služby
+# § 30d Povinnosti držiteľa oprávnenia na pracovnú zdravotnú službu
 
-(1) Pracovná zdravotná služba vykonáva zdravotný dohľad najmä tým, že
+(1) Držiteľ oprávnenia na pracovnú zdravotnú službu je povinný po celý čas vykonávania činnosti pracovnej zdravotnej služby
 
-- a) hodnotí faktory práce a pracovného prostredia a spôsob vykonávania práce z hľadiska ich možného vplyvu na zdravie zamestnancov [§ 30 ods. 1 písm. h)],
+- a) zabezpečiť zdravotníckych pracovníkov v minimálnom tíme pracovnej zdravotnej služby podľa § 30a ods. 5, s ktorými má uzatvorený pracovnoprávny vzťah alebo obdobný pracovný vzťah,
 
-- b) zisťuje expozíciu zamestnancov faktorom práce a pracovného prostredia a ich možné kombinované účinky na zdravie,
+- b) zabezpečiť podľa podmienok na pracovisku a zdravotného rizika pri práci ďalších zdravotníckych pracovníkov v tíme pracovnej zdravotnej služby podľa § 30a ods. 7, s ktorými má uzatvorený pracovnoprávny vzťah, obdobný pracovný vzťah alebo iný zmluvný vzťah,
 
-- c) hodnotí zdravotné riziká, ktoré ohrozujú zdravie zamestnancov pri práci, a podieľa sa na vypracovaní posudku o riziku pre zamestnávateľa, navrhuje zamestnávateľovi opatrenia na zníženie alebo odstránenie rizika,
+- c) mať povolenie na prevádzkovanie ambulancie<sup>34l</sup>) alebo zmluvu na prenájom ambulancie s poskytovateľom zdravotnej starostlivosti, ktorý má povolenie na prevádzkovanie ambulancie,
 
-- d) vypracúva návrhy na zaradenie prác do kategórií z hľadiska zdravotných rizík,
+- d) vykonávať odborné činnosti podľa § 30ab a § 30ad podľa osobitných predpisov,
 
-- e) vypracúva návrhy na zmenu alebo vyradenie prác z tretej kategórie alebo štvrtej kategórie,
+- e) vykonávať odborné činnosti v súlade so zistenými a preukázateľnými informáciami o vykonávanej práci a o pracovisku s dôrazom na ochranu zdravia zamestnancov,
 
-- f) podporuje prispôsobovanie práce a pracovných podmienok zamestnancom z hľadiska ochrany zdravia,
+- f) vykonávať činnosť pracovnej zdravotnej služby nestranne,
 
-- g) poskytuje primerané poradenstvo zamestnávateľovi a zamestnancom pri
+- g) viesť dokumentáciu o vykonávaní odborných činností podľa § 30ab a § 30ad a dokumentáciu súvisiacu s povinnosťami zamestnávateľa podľa § 30 ods. 1 písm. a) až d), f), l) až n),
 
-  - 1. plánovaní a organizácii práce a odpočinku zamestnancov vrátane usporiadania pracovísk a pracovných miest a spôsobu výkonu práce z hľadiska ochrany zdravia,
+- h) oznámiť bezodkladne úradu verejného zdravotníctva písomne zmenu obchodného mena alebo miesta podnikania, ak ide o fyzickú osobu – podnikateľa, obchodného mena, sídla alebo právnej formy, ak ide o právnickú osobu alebo osoby vedúceho tímu pracovnej zdravotnej služby,
 
-  - 2. ochrane zdravia pred nepriaznivým vplyvom faktorov práce a pracovného prostredia alebo technológií, ktoré sa používajú alebo plánujú používať,
+- i) umožniť úradu verejného zdravotníctva kontrolu plnenia
 
-  - 3. ochrane a kladnom ovplyvňovaní zdravia, hygiene, fyziológii práce, psychológii práce a ergonómii,
+  - 1. podmienok výkonu pracovnej zdravotnej služby, na základe ktorých bolo vydané oprávnenie na pracovnú zdravotnú službu podľa § 30b ods. 2,
 
-- h) zúčastňuje sa na
+  - 2. povinností pracovnej zdravotnej služby podľa písmen a) až h),
 
-  - 1. vypracúvaní programov ochrany a podpory zdravia zamestnancov, na zlepšovaní pracovných podmienok a na vyhodnocovaní nových zariadení a technológií zo zdravotného hľadiska,
+- j) umožniť príslušnému orgánu verejného zdravotníctva kontrolu plnenia povinností pracovnej zdravotnej služby podľa písmen d) až g).
 
-  - 2. činnostiach spojených so zaraďovaním zamestnancov na pracovnú rehabilitáciu,<sup>34i</sup>)
+(2) Držiteľ oprávnenia na pracovnú zdravotnú službu u zamestnávateľa, s ktorým má zmluvu na výkon činnosti pracovnej zdravotnej služby (§ 30ab a 30ad), môže dodávateľským spôsobom zmluvne poveriť so súhlasom zamestnávateľa
 
-  - 3. rozboroch pracovnej neschopnosti, chorôb z povolania a ochorení súvisiacich s prácou,
+- a) iného držiteľa oprávnenia na pracovnú zdravotnú službu vykonávaním určitých špecifických činností u tohto zamestnávateľa vrátane výkonu lekárskych preventívnych prehliadok vo vzťahu k práci, ktoré vykonávajú lekári podľa § 30e ods. 3, 4 a 6,
 
-  - 4. organizovaní systému prvej pomoci, ak ide o ohrozenie života alebo zdravia zamestnancov,
-
-  - 5. organizovaní vzdelávania vybraných zamestnancov na poskytovanie prvej pomoci alebo vzdeláva vybraných zamestnancov na poskytovanie prvej pomoci podľa osobitného predpisu,<sup>34j</sup>)
-
-  - 6. zabezpečovaní rekondičného pobytu,<sup>34k</sup>)
-
-- i) spolupracuje pri poskytovaní informácií, vzdelávania a výchovy v oblasti ochrany a kladného ovplyvňovania zdravia, hygieny, fyziológie, psychológie práce a ergonómii,
-
-- j) vykonáva lekárske preventívne prehliadky vo vzťahu k práci na účel posudzovania zdravotnej spôsobilosti na prácu (§ 30e ods. 1).
-
-(2) Minimálny rozsah výkonu pracovnej zdravotnej služby podľa kategórie prác (§ 31 ods. 1 až 5) u zamestnávateľa je uvedený v prílohe č. 3b.
+- b) poskytovateľa zdravotnej starostlivosti výkonom lekárskych preventívnych prehliadok vo vzťahu k práci, ktoré vykonávajú lekári podľa § 30e ods. 3, 4 a 6.
