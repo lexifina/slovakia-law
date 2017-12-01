@@ -4054,6 +4054,26 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Splnomocnenie 1. Správny orgán zníži poplatok podľa písmena a) tejto položky až o 50 %, ak ide o rozšírenie rozsahu osvedčenia. 2. Správny orgán môže odpustiť poplatok podľa písmen a) a b) tejto položky, ak ide o osvedčenie oprávneného posudzovateľa, ktorý je odborným konzultantom podľa osobitného predpisu.<sup>39bb</sup>) |
 
+    - Položka 170a
+
+    - Žiadosť o povolenie
+
+      - a) dočasného vjazdu cestných motorových vozidiel potrebnej pre vjazd do nízkoemisnej zóny pri
+
+        - 1. fyzickej osobe ...........................................................................................................10 eur
+
+        - 2. právnickej osobe alebo fyzickej osobe – podnikateľa ............................................. 50 eur
+
+      - b) trvalého vjazdu cestných motorových vozidiel potrebnej pre vjazd do nízkoemisnej zóny pri
+
+        - 1. fyzickej osobe .......................................................................................................... 20 eur
+
+        - 2. právnickej osobe alebo fyzickej osobe – podnikateľa ........................................... 100 eur
+
+    - Oslobodenie
+
+    - Správny orgán môže od poplatku podľa tejto položky oslobodiť fyzickú osobu s ťažkým zdravotným postihnutím, poberateľa starobného dôchodku, poberateľa predčasného starobného dôchodku alebo invalidného dôchodku.
+
     - Položka 171
 
   - a) Vydanie osvedčenia o odbornej spôsobilosti na vydávanie odborných posudkov<sup>38</sup>) ..... | 119 eur
