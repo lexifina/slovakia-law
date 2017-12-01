@@ -222,13 +222,11 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 91. | Vykonávanie školení žiadateľov o vydanie osvedčenia o osobitných znalostiach | Poverenie | § 5b ods. 3 zákona č. 338/2000 Z. z. v znení zákona č. 35/2014 Z. z. |
 
-- 92. | Dohľad nad pracovnými podmienkami | – vysokoškolské vzdelanie druhého stupňa v magisterskom študijnom programe v študijnom odbore verejné zdravotníctvo | § 30a ods. 4 písm. c), § 63d ods. 6 a 7 zákona č. 355/2007 Z. z. v znení zákona č. 204/2014 Z. z. |
+- 92. | Dohľad nad pracovnými podmienkami | – vysokoškolské vzdelanie druhého stupňa v magisterskom študijnom programe v študijnom odbore verejné zdravotníctvo | § 30aa ods. 2 písm. c) a d), § 63d ods. 6 a 7 zákona č. 355/2007 Z. z. v znení zákona č. 289/2017 Z. z. |
 
 - | | – vysokoškolské vzdelanie prvého stupňa v bakalárskom študijnom programe v študijnom odbore verejné zdravotníctvo | |
 
 - | | – diplomovaný asistent hygieny a epidemiológie | |
-
-- | | – asistent hygieny a epidemiológie | |
 
 - | | – asistent hygienickej služby | |
 
