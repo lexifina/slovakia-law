@@ -22,6 +22,8 @@
 
 - 9aa) § 18 ods. 6 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 399/2014 Z. z.
 
+- 9ab) § 135c ods. 11 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
+
 - 10) § 21 ods. 4 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) § 41 ods. 1 zákona č. 364/2004 Z. z.
