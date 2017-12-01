@@ -1,93 +1,49 @@
 Príloha č. 10 k vyhláške č. 244/2016 Z. z.
 
-- INFORMAČNÉ PRAHY, VÝSTRAŽNÉ PRAHY A ZÁVÄZNÉ TEXTY VYHLÁSENIA A ODVOLANIA SIGNÁLOV ICH PREKROČENIA
+- INFORMAČNÉ PRAHY, VÝSTRAŽNÉ PRAHY A PODMIENKY NA VYDANIE OZNÁMENIA O VZNIKU SMOGOVEJ SITUÁCIE, OZNÁMENIA O POMINUTÍ SMOGOVEJ SITUÁCIE, VÝSTRAHY PRED ZÁVAŽNOU SMOGOVOU SITUÁCIOU A OZNÁMENIA O ZRUŠENÍ VÝSTRAHY PRED ZÁVAŽNOU SMOGOVOU SITUÁCIOU
 
-  - A. Výstražné prahy pre znečisťujúce látky oxid siričitý a oxid dusičitý
+  - A. Informačné prahy a výstražné prahy
 
-    - Hodnoty sa merajú počas troch po sebe nasledujúcich hodín na miestach reprezentujúcich kvalitu ovzdušia pre aspoň 100 km<sup>2</sup> alebo celú zónu, či aglomeráciu podľa toho, čo je menšie.
+  - Znečisťujúca látka | Informačné prahy v µg/m<sup>3</sup> | Výstražné prahy v µg/m<sup>3</sup>
 
-    - Znečisťujúca látka | Výstražný prah
+  - prachové častice PM<sub>10</sub> | 100<sup>1</sup>) | 150<sup>1</sup>)
 
-    - Oxid siričitý | 500 µg/m<sup>3</sup>
+  - oxid siričitý | - | 500<sup>2</sup>)
 
-    - Oxid dusičitý | 400 µg/m<sup>3</sup>
+  - oxid dusičitý | - | 400<sup>2</sup>)
 
-  - B. Informačné a výstražné prahy pre ozón
+  - ozón | 180<sup>3</sup>) | 240<sup>4</sup>)
 
-  - Účel | Priemerované obdobie | Prah
+    - Poznámky:
 
-  - Informácie | 1 h | 180 µg/m<sup>3</sup>
+    - <sup>1</sup>) Platí ako kĺzavý priemer 12 h nasledujúcich bezprostredne po sebe.
 
-  - Výstraha | 1 h<sup>1</sup>) | 240 µg/m<sup>3</sup>
+    - <sup>2</sup>) Platí ako priemerná hodinová hodnota koncentrácie danej látky počas 3 h nasledujúcich bezprostredne po sebe na miestach reprezentujúcich kvalitu ovzdušia pre aspoň 100 km<sup>2</sup> alebo celú zónu alebo aglomeráciu podľa toho, čo je menšie.
 
-  - Poznámka:
+    - <sup>3</sup>) Priemerované obdobie je 1 h.
 
-  - <sup>1</sup>) Na vykonávanie § 12 ods. 2 a § 13 zákona sa prekročenie prahu meria alebo predpovedá tri po sebe nasledujúce hodiny.
+    - <sup>4</sup>) Platí ako priemerná hodinová hodnota koncentrácie danej látky počas 3 h nasledujúcich bezprostredne po sebe.
 
-    - B1. Signál upozornenia a výstrahy pre ozón
+  - B. Podmienky na vydanie oznámenia o vzniku smogovej situácie, oznámenia o pominutí smogovej situácie, výstrahy pred závažnou smogovou situáciou a oznámenia o zrušení výstrahy pre závažnou smogovou situáciou
 
-      - Signál „Upozornenie“ nasleduje pri ozóne po prekročení informačného prahu 180 µg/m<sup>3</sup> vyjadreného ako 1-hodinový priemer a signál „Výstraha“ nasleduje po prekročení výstražného prahu 240 µg/m<sup>3</sup> vyjadreného ako 1-hodinový priemer.
+    - 1. Častice PM<sub>10</sub>, SO<sub>2</sub> a NO<sub>2</sub>
 
-    - B2. Záväzné texty vyhlásenia a odvolania signálov pre ozón
+      - 1.1 Podmienky na vydanie oznámenia o vzniku smogovej situácie nastanú, ak je prekročená hodnota informačného prahu častice PM<sub>10</sub> a súčasne podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede nie je odôvodnené predpokladať zníženie koncentrácie tejto znečisťujúcej látky počas nasledujúcich 24 h pod hodnotu informačného prahu.
 
-      - Text vyhlásenia signálu „Upozornenie“
+      - 1.2 Podmienky na vydanie výstrahy pred závažnou smogovou situáciou nastanú, ak je prekročená hodnota výstražného prahu ktorejkoľvek znečisťujúcej látky PM<sub>10</sub>, SO<sub>2</sub> alebo NO<sub>2</sub> a súčasne podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede nie je odôvodnené predpokladať zníženie koncentrácie všetkých znečisťujúcich látok počas nasledujúcich 24 h pod hodnotu výstražného prahu.
 
-      - „Upozorňujeme, že v najbližších hodinách môže nastať ozónová smogová situácia.
+      - 1.3 Podmienky na vydanie oznámenia o pominutí smogovej situácie alebo oznámenia o zrušení výstrahy pred závažnou smogovou situáciu nastanú, ak koncentrácia žiadnej znečisťujúcej látky neprekračuje príslušnú prahovú hodnotu a tento stav trvá
 
-      - Platnosť signálu sa začína o ..... hodine dňa..... do odvolania.“.
+        - a) súvisle 24 h a podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede nie je odôvodnené predpokladať opätovné prekročenie príslušnej prahovej hodnoty žiadnej zo znečisťujúcich látok PM<sub>10</sub>, SO<sub>2</sub> alebo NO<sub>2</sub> počas nasledujúcich 24 h, alebo
 
-      - Text odvolania signálu „Upozornenie“
+        - b) najmenej 3 h a podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede je takmer vylúčené opätovné prekročenie hodnoty informačného prahu pre PM<sub>10</sub> a hodnoty výstražného prahu žiadnej zo znečisťujúcich látok PM<sub>10</sub>, SO<sub>2</sub> alebo NO<sub>2</sub> počas nasledujúcich 24 h.
 
-      - „Odvoláva sa signál „Upozornenie“ na možnosť výskytu ozónovej smogovej situácie.
+    - 2. Ozón
 
-      - Platnosť signálu sa končí o ..... hodine dňa.... .“.
+      - 1.1 Podmienky na vydanie oznámenia o vzniku smogovej situácie a výstrahy pred závažnou smogovou situáciou nastanú, ak je prekročená príslušná prahová hodnota pre ozón.
 
-      - Text vyhlásenia signálu „Výstraha“
+      - 1.2 Podmienky na vydanie oznámenia o pominutí smogovej situácie a oznámenia o zrušení výstrahy pred závažnou smogovou situáciou nastanú, ak koncentrácia ozónu neprekračuje príslušnú prahovú hodnotu a tento stav trvá
 
-      - „Nastala ozónová smogová situácia. Vyhlasuje sa signál „Výstraha“.
+        - a) súvisle 24 h a podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede nie je odôvodnené predpokladať opätovné prekročenie príslušnej prahovej hodnoty počas nasledujúcich 24 h, alebo
 
-      - Platnosť signálu sa začína o ..... hodine dňa..... do odvolania.“.
-
-      - Text odvolania signálu „Výstraha“
-
-      - „Odvoláva sa signál „Výstraha“. Platnosť signálu sa končí o ..... hodine dňa..... .“.
-
-  - C. Informačný a výstražný prah pre častice PM<sub>10</sub>
-
-  - Účel | Priemerované obdobie | Prah
-
-  - Upozornenie | 24 h | 100 µg/m<sup>3</sup>
-
-  - Výstraha | 24 h | 150 µg/m<sup>3</sup>
-
-    - C1. Signál upozornenia a výstrahy pre častice PM<sub>10</sub>
-
-      - Signály upozornenia a výstrahy pre častice PM<sub>10</sub> nasledujú po nameraní prekročenia prahu dva po sebe nasledujúce dni a zároveň je za posledných 6 h na automatických monitorovacích staniciach v zóne alebo aglomerácii rastúci trend hodinových koncentrácií častíc PM<sub>10</sub> aspoň na polovici počtu staníc.
-
-      - Signál „Upozornenie“ nasleduje pre častice PM<sub>10</sub> po prekročení informačného prahu
-
-      - 100 µg/m<sup>3</sup> vyjadreného ako dvadsaťštyrihodinová priemerná hodnota koncentrácie častíc PM<sub>10</sub> a signál „Výstraha“ nasleduje po prekročení výstražného prahu 150 µg/m<sup>3</sup> vyjadreného ako dvadsaťštyrihodinová priemerná hodnota koncentrácie častíc PM<sub>10</sub>.
-
-    - C2. Záväzné texty vyhlásenia a odvolania signálov pre častice PM<sub>10</sub>
-
-      - Text vyhlásenia signálu „Upozornenie“
-
-      - „Upozorňujeme, že v najbližších hodinách môže nastať smogová situácia pre častice PM<sub>10</sub>.
-
-      - Platnosť signálu sa začína o ..... hodine dňa..... do odvolania.“.
-
-      - Text odvolania signálu „Upozornenie“
-
-      - „Odvoláva sa signál „Upozornenie“ na možnosť výskytu smogovej situácie pre častice PM<sub>10</sub>.
-
-      - Platnosť signálu sa končí o ..... hodine dňa..... .“.
-
-      - Text vyhlásenia signálu „Výstraha“
-
-      - „Nastala smogová situácia pre častice PM<sub>10</sub>. Vyhlasuje sa signál „Výstraha“.
-
-      - Platnosť signálu sa začína o ..... hodine dňa..... do odvolania.“.
-
-      - Text odvolania signálu „Výstraha“
-
-      - „Odvoláva sa signál „Výstraha“. Platnosť signálu sa končí o ..... hodine dňa....... .“.
+        - b) najmenej 3 h a podľa vyhodnotenia vývoja znečistenia ovzdušia na základe meteorologickej predpovede je takmer vylúčené opätovné prekročenie hodnoty informačného prahu počas nasledujúcich 24 h.

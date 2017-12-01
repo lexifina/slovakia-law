@@ -32,7 +32,7 @@ Príloha č. 1 k vyhláške č. 244/2016 Z. z.
 
   - Častice PM<sub>2,5</sub> | kalendárny rok | Do 1. januára 2020: 25 µg/m<sup>3</sup> Od 1. januára 2020: 20 µg/m<sup>3</sup>
 
-  - SO<sub>2</sub> | 1 h | 350 µg/m<sup>3</sup> sa nesmie prekročiť viac ako 4-krát za kalendárny rok
+  - SO<sub>2</sub> | 1 h | 350 µg/m<sup>3</sup> sa nesmie prekročiť viac ako 24-krát za kalendárny rok
 
   - | 1 deň | 125 µg/m<sup>3</sup> sa nesmie prekročiť viac ako 3-krát za kalendárny rok
 
