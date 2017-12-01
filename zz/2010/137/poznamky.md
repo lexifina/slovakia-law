@@ -4,19 +4,29 @@
 
 - 1a) Nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko.
 
-- 2) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 2037/2000 z 29. júna 2000 o látkach, ktoré poškodzujú ozónovú vrstvu (Mimoriadne vydanie Ú. v. EÚ, kap. 15/zv. 5) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 842/2006 zo 17. mája 2006 o určitých fluórovaných skleníkových plynoch (Ú. v. EÚ L 161, 14. 6. 2006) v platnom znení, § 2 ods. 2 písm. q) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+- 2) Napríklad zákon č. 321/2012 Z. z. o ochrane ozónovej vrstvy Zeme a o zmene a doplnení niektorých zákonov v znení zákona č. 180/2013 Z. z., zákon č. 286/2009 Z. z. o fluórovaných skleníkových plynoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 3) § 2 ods. 1 zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+- § 2 ods. 2 písm. q) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
+- 3) § 2 ods. 1 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov.
+
+- 3a) § 143 písm. c) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 3b) Zákon Slovenskej národnej rady č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v znení neskorších predpisov.
+
+- Zákon Slovenskej národnej rady č. 401/1990 Zb. o meste Košice v znení neskorších predpisov.
+
+- 3c) § 2 ods. 5 zákona č. 79/2015 Z. z. v znení neskorších predpisov.
 
 - 4) § 2 písm. a) zákona č. 572/2004 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení zákona č. 117/2007 Z. z.
 
-- 5) § 5 zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+- 5) § 2 písm. o) zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
-- 5a) § 17 ods. 2 písm. a) zákona č. 572/2004 Z. z.
+- 5a) § 2 písm. d) zákona č. 39/2013 Z. z.
 
 - 6) § 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
-- 7) § 19 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení zákona č. 454/2007 Z. z.
+- 7) § 19 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
 - 8) § 18 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
@@ -24,11 +34,23 @@
 
 - 10) § 6 zákona č. 17/1992 Zb. o životnom prostredí.
 
-- 11) § 6 zákona č. 355/2007 Z. z.
+- 10a) Napríklad nariadenie Európskeho parlamentu a Rady (ES) č. 715/2007 z 20. júna 2007 o typovom schvaľovaní motorových vozidiel so zreteľom na emisie ľahkých osobných a úžitkových vozidiel (Euro 5 a Euro 6) a o prístupe k informáciám o opravách a údržbe vozidiel (Ú. v. EÚ L 171, 29. 6. 2007) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 595/2009 z 18. júna 2009 o typovom schvaľovaní motorových vozidiel a motorov s ohľadom na emisie z ťažkých úžitkových vozidiel (Euro VI) a o prístupe k informáciám o oprave a údržbe vozidiel, a ktorým sa mení a dopĺňa nariadenie (ES) č. 715/2007 a smernica 2007/46/ES a zrušujú smernice 80/1269/EHS, 2005/55/ES a 2005/78/ES (Ú. v. EÚ L 188, 18. 7. 2009) v platnom znení.
 
-- 12) § 2 zákona č. 534/2003 Z. z. o organizácii štátnej správy na úseku cestnej dopravy a pozemných komunikácií a o zmene a doplnení niektorých zákonov.
+- 10b) § 31 ods. 1 písm. l) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- § 3d ods. 5 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+- 10c) § 3 zákona č. 135/1961 Zb. o pozemných komunikáciách (cestný zákon) v znení neskorších predpisov.
+
+- 10d) § 2 písm. am) zákona č. 725/2004 Z. z. v znení neskorších predpisov.
+
+- 11) § 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
+- 12) § 3d ods. 5 zákona č. 135/1961 Zb. v znení zákona č. 416/2001 Z. z.
+
+- 12a) § 5 ods. 1 zákona č. 201/2009 Z. z. o štátnej hydrologickej službe a štátnej meteorologickej službe.
+
+- 12b) § 12 ods. 1 písm. e) zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 12c) Zákon č. 3/2010 Z. z. o národnej infraštruktúre pre priestorové informácie v znení zákona č. 362/2015 Z. z.
 
 - 13) § 8 ods. 1 zákona č. 245/2003 Z. z .
 
@@ -39,6 +61,8 @@
 - 16) § 8 ods. 6 zákona č. 245/2003 Z. z.
 
 - 16a) Zákon č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 16b) § 33a zákona č. 17/1992 Zb. v znení zákona č. 211/2000 Z. z.
 
 - 17) § 28 ods. 1 písm. a) zákona č. 245/2003 Z. z.
 
@@ -84,14 +108,30 @@
 
 - 33) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
+- 33a) Príloha č. 1 zákona č. 180/2013 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov.
+
 - 34) § 20 až 23 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 34a) § 8 až 13 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 
 - 35) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35a) Zákon č. 215/2004 Z. z. v znení neskorších prepisov.
+
+- Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 36) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
 - 37) § 12 ods. 4 zákona č. 245/2003 Z. z. v znení zákona č. 532/2005 Z. z.
 
 - 38) § 29 ods. 2 zákona č. 245/2003 Z. z.
+
+- 39) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
+
+- 40) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
+
+- 41) Zmluva medzi štátmi, ktoré sú zmluvnými stranami Severoatlantickej zmluvy, vzťahujúca sa na status ich ozbrojených síl (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 566/2004 Z. z.).
+
+- 42) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.

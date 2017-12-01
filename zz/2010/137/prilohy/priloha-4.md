@@ -1,6 +1,6 @@
 Príloha č. 4 k zákonu č. 137/2010 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKEJ ÚNIE
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
   - 1. Smernica Európskeho parlamentu a Rady 98/70/ES z 13. októbra 1998 týkajúca sa kvality benzínu a naftových palív, a ktorou sa mení a dopĺňa smernica Rady 93/12/ES (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 23; Ú. v. ES L 350, 28.12.1998) v znení smernice Komisie č. 2000/71/ES zo 7. novembra 2000 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 26; Ú. v. ES L 287, 14. 11. 2000), smernice Európskeho parlamentu a Rady 2003/17/ES z 3. marca 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 31; Ú. v. EÚ L 76, 22. 3. 2003), nariadenia Európskeho parlamentu a Rady (ES) č. 1882/2003 z 29. septembra 2003 (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. EÚ L 284, 31. 10. 2003) a smernice Európskeho parlamentu a Rady 2009/30/ES z 23. apríla 2009 (Ú. v. EÚ L 140, 5. 6. 2009).
 
@@ -23,3 +23,5 @@ Príloha č. 4 k zákonu č. 137/2010 Z. z.
   - 10. Smernica Európskeho parlamentu a Rady 2008/50/ES z 21. mája 2008 o kvalite okolitého ovzdušia a čistejšom ovzduší v Európe (Ú. v. EÚ L 152, 11. 6. 2008).
 
   - 11. Smernica Európskeho parlamentu a Rady 2010/75/EÚ z 24. novembra 2010 o priemyselných emisiách (integrovaná prevencia a kontrola znečisťovania životného prostredia) (prepracované znenie) (Ú. v. EÚ L 334, 17. 12. 2010).
+
+  - 12. Smernica Európskeho parlamentu a Rady (EÚ) 2015/2193 z 25. novembra 2015 o obmedzení emisií určitých znečisťujúcich látok do ovzdušia zo stredne veľkých spaľovacích zariadení (Ú. v. EÚ L 313, 28. 11. 2015).
