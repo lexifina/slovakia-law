@@ -2,7 +2,7 @@
 
 (1) Tomu, kto porušil práva finančného spotrebiteľa alebo porušil povinnosti v oblasti ochrany finančných spotrebiteľov podľa tohto zákona alebo osobitných predpisov,<sup>1</sup>) Národná banka Slovenska je podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zisteného nedostatku príslušná
 
-- a) uložiť pokutu do výšky 700 000 eur, ak v odseku 2 nie je ustanovené inak,
+- a) uložiť pokutu do výšky 1 000 000 eur, ak v odseku 2 nie je ustanovené inak,
 
 - b) uložiť opatrenie na odstránenie a nápravu zistených nedostatkov,
 

@@ -1,4 +1,4 @@
-# § 38b Osobitné prostriedky komunikácie
+# § 38b
 
 (1) Národná banka Slovenska určí na prijímanie a skúmanie správ o porušeniach osobitné prostriedky komunikácie, ktoré sú nezávislé, autonómne, bezpečné a zaručia dôvernosť nimi prenášaných údajov.
 

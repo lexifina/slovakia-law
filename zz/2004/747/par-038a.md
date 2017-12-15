@@ -1,4 +1,6 @@
-# § 38a Postupy prijímania správ o porušeniach
+## Pravidlá pre prijímanie a preskúmavanie správ o porušeniach
+
+# § 38a
 
 (1) Národná banka Slovenska zavedie postupy na umožnenie nahlasovania správ o porušeniach, ktoré upravia
 
@@ -16,6 +18,6 @@
 
 - a) poskytuje všetkým zainteresovaným osobám informácie o postupoch na nahlasovanie porušení,
 
-- b) prijíma a preskúmava správy o porušeniach,
+- b) spracúva správy o porušeniach,
 
 - c) udržiava kontakt s nahlasujúcou osobou, ak sa táto osoba identifikovala.

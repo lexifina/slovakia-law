@@ -33,3 +33,7 @@ Príloha k zákonu č. 747/2004 Z. z.
   - 15. Vykonávacia smernica Komisie (EÚ) 2015/2392 zo 17. decembra 2015 o nariadení Európskeho parlamentu a Rady (EÚ) č. 596/2014, pokiaľ ide o nahlasovanie skutočných alebo možných porušení daného nariadenia príslušným orgánom (Ú. v. EÚ L 332, 18. 12. 2015).
 
   - 16. Smernica Európskeho parlamentu a Rady 2014/65/EÚ z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorou sa mení smernica 2002/92/ES a smernica 2011/61/EÚ (prepracované znenie) (Ú. v. EÚ L 173, 12. 6. 2014) v znení nariadenia (EÚ) č. 909/2014 (Ú. v. EÚ L 257, 28. 8. 2014) a smernice (EÚ) 2016/1034 (Ú. v. EÚ L 175, 30. 6. 2016).
+
+  - 17. Smernica Európskeho parlamentu a Rady (EÚ) 2015/2366 z 25. novembra 2015 o platobných službách na vnútornom trhu, ktorou sa menia smernice 2002/65/ES, 2009/110/ES a 2013/36/EÚ a nariadenie (EÚ) č. 1093/2010 a ktorou sa zrušuje smernica 2007/64/ES (Ú. v. EÚ L 337, 23. 12. 2015).
+
+  - 18. Smernica Európskeho parlamentu a Rady (EÚ) 2016/97 z 20. januára 2016 o distribúcii poistenia (prepracované znenie) (Ú. v. EÚ L 26, 2. 2. 2016).

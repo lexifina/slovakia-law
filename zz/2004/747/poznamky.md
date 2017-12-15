@@ -1,8 +1,8 @@
-- 1) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov, § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 519/2005 Z. z., § 6, 7, 11 až 13, 24 a 24a zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov, § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov, zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 18 ods. 2 a 5 a § 29 ods. 3 až 5 zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov, zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 63 až 87 a 89 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 924/2009 zo 16. septembra 2009 o cezhraničných platbách v Spoločenstve, ktorým sa zrušuje nariadenie (ES) č. 2560/2001 (Ú. v. EÚ L 266, 9. 10. 2009) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení, zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení, vykonávacie nariadenie Komisie (EÚ) č. 680/2014 zo 16. apríla 2014, ktorým sa stanovujú vykonávacie technické predpisy, pokiaľ ide o vykazovanie inštitúciami na účely dohľadu podľa nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 (Ú. v. EÚ L 191, 28. 6. 2014), nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1286/2014 z 26. novembra 2014 o dokumentoch s kľúčovými informáciami pre štrukturalizované retailové investičné produkty a investičné produkty založené na poistení (PRIIP) (Ú. v. EÚ L 352, 9. 12. 2014).
+- 1) Napríklad zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení neskorších predpisov, § 2 ods. 3 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 519/2005 Z. z., § 6, 7, 11 až 13, 24 a 24a zákona Národnej rady Slovenskej republiky č. 202/1995 Z. z. Devízový zákon a zákon, ktorým sa mení a dopĺňa zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov, § 22 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov, zákon č. 147/2001 Z. z. o reklame a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 381/2001 Z. z. o povinnom zmluvnom poistení zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov, zákon č. 429/2002 Z. z. o burze cenných papierov v znení neskorších predpisov, zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov v znení neskorších predpisov, zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 18 ods. 2 a 5 a § 29 ods. 3 až 5 zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov, zákon č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 63 až 87 a 89 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 924/2009 zo 16. septembra 2009 o cezhraničných platbách v Spoločenstve, ktorým sa zrušuje nariadenie (ES) č. 2560/2001 (Ú. v. EÚ L 266, 9. 10. 2009) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení, zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013 z 26. júna 2013 o prudenciálnych požiadavkách na úverové inštitúcie a investičné spoločnosti a o zmene nariadenia (EÚ) č. 648/2012 (Ú. v. EÚ L 176, 27. 6. 2013) v platnom znení, vykonávacie nariadenie Komisie (EÚ) č. 680/2014 zo 16. apríla 2014, ktorým sa stanovujú vykonávacie technické predpisy, pokiaľ ide o vykazovanie inštitúciami na účely dohľadu podľa nariadenia Európskeho parlamentu a Rady (EÚ) č. 575/2013 (Ú. v. EÚ L 191, 28. 6. 2014), nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 1286/2014 z 26. novembra 2014 o dokumentoch s kľúčovými informáciami pre štrukturalizované retailové investičné produkty a investičné produkty založené na poistení (PRIIP) (Ú. v. EÚ L 352, 9. 12. 2014) v platnom znení, nariadenie Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
 
 - 1a) § 18 ods. 5 zákona č. 80/1997 Z. z. v znení zákona č. 492/2009 Z. z.
 
-- 1aa) § 23 ods. 1 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+- 1aa) Napríklad § 2 písm. b) a c), § 23 ods. 1 a § 24 ods. 1 zákona č. 129/2010 Z. z. v znení neskorších predpisov, zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov v znení zákona č. 299/2016 Z. z.
 
 - 1aaa) § 52 ods. 4 Občianskeho zákonníka v znení neskorších predpisov.
 
@@ -20,6 +20,8 @@
 
 - 5) § 41 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 5a) Napríklad § 3 a § 7 ods. 1 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+
 - 6) § 9 ods. 3 Zákonníka práce.
 
 - 6a) Čl. 16 nariadenia (EÚ) č. 1093/2010.
@@ -30,7 +32,7 @@
 
 - 7) § 2, 3, 29 a 39 ods. 1 a § 73a až 73k zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 8) § 2 ods. 4 a 5, § 6 až 8, § 16, 27 a 28 zákona č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov.
+- 8) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
 
 - 9) § 99 až 111 zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -38,7 +40,9 @@
 
 - 11) Napríklad zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 8 až 9a zákona č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov.
 
-- 11a) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. v znení neskorších predpisov, § 20 a 21 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov.
+- 11a) Napríklad zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11b) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, § 2 až 9 zákona č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov, § 20 a 21 zákona č. 540/2006 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 12) Napríklad § 2 ods. 1 a § 15 zákona č. 466/2002 Z. z.
 
@@ -86,7 +90,7 @@
 
 - 27) § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení zákona č. 602/2003 Z. z.
 
-- 27a) Napríklad § 3 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+- 27a) § 1 ods. 1 písm. c) a § 23 až 23d zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 28) Napríklad § 53 až 62 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 147 až 155 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 109 a 110 zákona č. 594/2003 Z. z., § 51 až 59 zákona č. 95/2002 Z. z. v znení neskorších predpisov.
 
@@ -97,6 +101,8 @@
 - 29a) Napríklad § 50 ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov, § 144 ods. 7 zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 67 ods. 5 zákona č. 8/2008 Z. z. v znení zákona č. 552/2008 Z. z.
 
 - 29b) Napríklad § 52 ods. 1 zákona č. 483/2001 Z. z., § 146 ods. 1 zákona č. 566/2001 Z. z. v znení zákona č. 747/2004 Z. z., § 86 ods. 1 zákona č. 8/2008 Z. z.
+
+- 29c) § 2 ods. 3 Obchodného zákonníka v znení neskorších predpisov.
 
 - 30) § 31 ods. 5 zákona č. 507/2001 Z. z. o poštových službách v znení zákona č. 15/2004 Z. z.
 
@@ -154,11 +160,11 @@
 
 - 42f) Napríklad Občiansky zákonník v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov, Zákonník práce v znení neskorších predpisov, Trestný zákon v znení neskorších predpisov.
 
-- 43) § 78 ods. 1 zákona č. 483/2001 Z. z.
-
 - 43a) Napríklad § 1 ods. 1 písm. c) a § 13 až 17 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 20 a 24 zákona č. 129/2010 Z. z. v znení neskorších predpisov, § 31a a 31b zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
 
 - 43b) Zákon č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 43c) Napríklad § 38 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 44) § 88 ods. 1 písm. a) a § 125 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
@@ -185,6 +191,40 @@
 - 47e) § 4 ods. 3 písm. i) a § 6 ods. 2 písm. b) a d) zákona č. 122/2013 Z. z.
 
 - 47f) Napríklad zákon Národnej rady Slovenskej republiky č. 308/1993 Z. z. o zriadení Slovenského národného strediska pre ľudské práva v znení neskorších predpisov, zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a o nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 47g) Napríklad čl. 17 ods. 2 nariadenia (EÚ) č. 1286/2014 v platnom znení, čl. 42 ods. 2 nariadenia (EÚ) č. 600/2014.
+
+- 47h) Čl. 17 nariadenia (EÚ) č. 1286/2014.
+
+- Čl. 42 nariadenia (EÚ) č. 600/2014.
+
+- 47i) Čl. 17 ods. 4 nariadenia (EÚ) č. 1286/2014.
+
+- Čl. 42 ods. 4 nariadenia (EÚ) č. 600/2014.
+
+- 47j) Napríklad nariadenie (EÚ) č. 600/2014, nariadenie (EÚ) č. 1286/2014.
+
+- 47k) Napríklad čl. 17 ods. 3 a 4 nariadenia (EÚ) č. 1286/2014, čl. 42 ods. 3 a 4 nariadenia (EÚ) č. 600/2014.
+
+- 47l) Čl. 17 ods. 2 písm. a) nariadenia (EÚ) č. 1286/2014.
+
+- Čl. 42 ods. 2 písm. a) nariadenia (EÚ) č. 600/2014.
+
+- 47m) § 12 ods. 1 písm. b) a § 13 písm. f) zákona č. 400/2015 Z. z. o tvorbe právnych predpisov a o Zbierke zákonov Slovenskej republiky a o zmene a doplnení niektorých zákonov.
+
+- 47n) Nariadenie (EÚ) č. 600/2014.
+
+- 47o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. EÚ L 347, 20. 12. 2013) v platnom znení.
+
+- 47p) Čl. 5 ods. 1, čl. 6 a 7, čl. 8 ods. 1 až 3, čl. 9, čl. 10 ods. 1, čl. 13 ods. 1, 3 a 4 a čl. 14, 19 a 34 nariadenia (EÚ) č. 1286/2014.
+
+- 47r) Čl. 25 nariadenia (EÚ) č. 1286/2014.
+
+- 47s) Čl. 5 až 14 nariadenia (EÚ) č. 1286/2014.
+
+- 47t) Čl. 6, 7, 8 alebo čl. 10 nariadenia (EÚ) č. 1286/2014.
+
+- 47u) § 22 a jedenásty bod prílohy zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 48) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 

@@ -1,4 +1,4 @@
-# § 38c Uchovávanie záznamov o prijatých správach
+# § 38c
 
 (1) Národná banka Slovenska zabezpečí uchovávanie záznamov<sup>47d</sup>) o prijatých správach o porušeniach.
 

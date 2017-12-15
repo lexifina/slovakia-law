@@ -1,4 +1,4 @@
-# § 38d Ochrana nahlasujúcich osôb
+# § 38d
 
 (1) Dohliadaný subjekt nesmie uplatňovať voči svojmu zamestnancovi, ktorý nahlásil Národnej banke Slovenska správu o porušeniach, žiadne postihy za nahlásenie správy o porušeniach a ani iným spôsobom porušovať princíp rovnakého zaobchádzania vo vzťahu k tomuto zamestnancovi.
 
