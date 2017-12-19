@@ -1,0 +1,13 @@
+# § 17a Obmedzený prevádzkový režim pre väčšie stredné spaľovacie zariadenia
+
+(1) Do obmedzeného prevádzkového režimu možno zaradiť väčšie stredné spaľovacie zariadenie s prevádzkou do 500 h ročne, pričom, ak ide o
+
+- a) jestvujúce zariadenie, prevádzkové hodiny sa počítajú ako päťročný plávajúci priemer,
+
+- b) nové zariadenie, prevádzkové hodiny sa počítajú ako trojročný plávajúci priemer.
+
+(2) Pre väčšie stredné spaľovacie zariadenie, ktoré je jestvujúcim zariadením, možno obmedzený prevádzkový režim predĺžiť na 1 000 h ročne v núdzi a za mimoriadnych okolností pre zariadenia používané na výrobu tepla pri výnimočne chladnom počasí.
+
+(3) Na zariadenia v obmedzenom prevádzkovom režime sa emisné limity neuplatňujú, okrem emisného limitu pre TZL pri spaľovaní tuhých palív, vrátane biomasy.
+
+(4) Osobitne sa ustanovuje obmedzený prevádzkový režim pre motory, do ktorého možno zaradiť dieselové motory alebo dvojpalivové motory začlenené ako nové zariadenia s prevádzkou od 500 h do 1500 h ročne. Na zariadenia v tomto prevádzkovom režime platí osobitný emisný limit pre NO<sub>x</sub> podľa prílohy č. 4 štvrtej časti bodu 4. 2 tabuľky B.

@@ -1,8 +1,14 @@
 - 1) Zákon č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia.
 
+- 1a) § 2 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Vyhláška Ministerstva pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky č. 361/2010 Z. z., ktorou sa ustanovujú technické požiadavky a všeobecné podmienky prevádzkovania stacionárnych zdrojov znečisťovania ovzdušia prevádzkujúcich zariadenia používané na skladovanie, plnenie a prepravu benzínu a spôsob a požiadavky na zisťovanie a preukazovanie údajov o ich dodržaní.
 
 - 2a) Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 228/2014 Z. z., ktorou sa ustanovujú požiadavky na kvalitu palív a vedenie prevádzkovej evidencie o palivách v znení vyhlášky č. 367/2015 Z. z.
+
+- 2aa) Čl. 9 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 1069/2009.
+
+- 2ab) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/1628 zo 14. septembra 2016 o požiadavkách na emisné limity plynných a pevných znečisťujúcich látok a typové schválenie spaľovacích motorov necestných pojazdných strojov, ktorým sa menia nariadenia (EÚ) č. 1024/2012 a (EÚ) č. 167/2013 a ktorým sa mení a zrušuje smernica 97/68/ES (Ú. v. EÚ L 252, 16. 9. 2016).
 
 - 3) STN 65 6481 Skvapalnené uhľovodíkové plyny. Propán. STN 65 6482 Skvapalnené uhľovodíkové plyny. Propán-bután. STN 65 6483 Skvapalnené uhľovodíkové plyny. Bután.
 
@@ -59,6 +65,8 @@
 - 26) Čl. 6 ods. 1 písm. b) nariadenia Európskej komisie (EÚ) č. 142/2011 z 25. februára 2011, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 1069/2009, ktorým sa ustanovujú zdravotné predpisy týkajúce sa vedľajších živočíšnych produktov a odvodených produktov neurčených na ľudskú spotrebu a ktorým sa vykonáva smernica Rady 97/78/ES, pokiaľ ide o určité vzorky a predmety vyňaté spod povinnosti veterinárnych kontrol na hraniciach podľa danej smernice (Ú. v. EÚ L 54, 26. 2. 2011).
 
 - 27) § 4 ods. 2 a 3 a § 5 vyhlášky č. 362/2010 Z. z.
+
+- 27c) Smernica Európskeho parlamentu a rady 98/34/ES z 22. júna 1998, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
 
 - 28) Čl. 6 ods. 3, 4 a 5 Nariadenia Európskej komisie (EÚ) č. 142/2011.
 

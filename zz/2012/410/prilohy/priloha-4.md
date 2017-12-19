@@ -1,3 +1,3 @@
 Príloha č. 4 k vyhláške č. 410/2012 Z. z.
 
-- ŠPECIFICKÉ POŽIADAVKY NA SPAĽOVACIE ZARIADENIA [príloha](../assets/4df36dfb7e5666ffd6c08cd3d536753397b0ebf118b6dc287dafa2dd1e2958e5.pdf)
+- ŠPECIFICKÉ POŽIADAVKY NA SPAĽOVACIE ZARIADENIA [Príloha č. 4 k vyhláške č. 410/2012 Z. z.](../assets/4c14d01b9d0457a0d54eaf5ffe2c78d416732a5f1ada3cb588d222f58f37ef26.pdf)
