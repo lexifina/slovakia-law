@@ -110,7 +110,7 @@ Príloha č. 2 k vyhláške č. 411/2012 Z. z.
 
       - b) nainštalované spoločné odlučovacie zariadenie, nie je pochybnosť, či emisný limit bude dodržaný aj počas prevádzky všetkých výrobných liniek alebo iných obdobných častí, ktoré podľa dokumentácie možno prevádzkovať súčasne.
 
-    - 15. Ak sa technologické zariadenie alebo zariadenie používajúce organické rozpúšťadlá, ktoré je stredným zdrojom znečisťovania ovzdušia, skladá z viacerých výrobných liniek alebo iných obdobných častí, pre ktoré platí rovnaký emisný limit a odpadové plyny sa odvádzajú viacej ako troma výduchmi, možno samostatne alebo kombinovane
+    - 15. Ak sa technologické zariadenie alebo zariadenie používajúce organické rozpúšťadlá, ktoré je stredným zdrojom znečisťovania ovzdušia, skladá z viacerých výrobných liniek alebo iných obdobných častí, pre ktoré platí rovnaký emisný limit a odpadové plyny sa odvádzajú viacej ako troma výduchmi, alebo podľa povolenia ide o zariadenie, ktoré je prevádzkované sezónne, najviac však 90 dní za kalendárny rok, možno samostatne alebo kombinovane
 
       - a) periódu trvania jednotlivého merania znížiť z 30 minút na 15 minút a zo 60 minút na 30 minút alebo
 
@@ -144,7 +144,7 @@ Príloha č. 2 k vyhláške č. 411/2012 Z. z.
 
     - 5. Ak ide o diskontinuálnu technológiu a inú emisnú hodnotu ako podľa bodu 4 písm. b), z ktorej sa emisie vypúšťajú počas dlhšej periódy, ako je určená perióda merania, meranie sa vykoná tak, aby určená perióda merania alebo odberu vzorky pokryla časové obdobie najvyšších emisií. Ak je to možné, počas manuálneho odberu vzorky sa má čas vypúšťania najvyšších emisií kontrolovať paralelným meraním vhodnej veličiny prístrojovou metódou, najmä meraním koncentrácie vybranej znečisťujúcej látky, kyslíka, rýchlosti prúdenia alebo inej vhodnej stavovej veličiny. Ak to nie je možné, priebeh emisií sa zistí experimentálne alebo teoretické predpoklady sa preveria jednorazovým meraním alebo v rámci prvého periodického merania.
 
-    - 6. Ak ide o inú diskontinuálnu technológiu a iné emisné hodnoty ako podľa štvrtého bodu a piateho bodu, z ktorej sa emisie vypúšťajú počas kratšej periódy ako 20 minút alebo 50 minút, alebo ak ide o kontinuálnu technológiu a štandardná metodika neumožňuje súvislé meranie alebo odber vzorky počas 20-minútovej alebo 40-minútovej periódy, ako jednotlivá hodnota sa vyhodnotí výsledok vypočítaný ako
+    - 6. Ak ide o inú diskontinuálnu technológiu a iné emisné hodnoty ako podľa štvrtého bodu a piateho bodu, z ktorej sa emisie vypúšťajú počas kratšej periódy ako 20 minút alebo 50 minút, alebo ak ide o kontinuálnu technológiu a štandardná metodika neumožňuje súvislé meranie alebo odber vzorky počas 20-minútovej alebo 50-minútovej periódy, ako jednotlivá hodnota sa vyhodnotí výsledok vypočítaný ako
 
       - a) aritmetický priemer série takého počtu krátkodobých meraní alebo čiastkových odberov vzoriek vyhodnotených ako spoločne analyzovaná vzorka alebo vypočítaný ako podiel celkového množstva znečisťujúcej látky a celkového objemu odobratého plynu, ktoré pri kontinuálnej technológii reprezentujú prevádzku za najmenej 20 minút alebo za 50 minút; ak dodržať danú periódu neumožňuje oprávnená metodika a nemožno počas nej ani priebežne odobrať reprezentatívnu vzorku do vzorkovacieho vaku alebo iného prostriedku, za reprezentatívne sa považujú najmenej tri 3-minútové čiastkové merania alebo odbery, ak ide o 30-minútovú periódu, a najmenej tri 6-minútové čiastkové merania alebo odbery, ak ide o 60-minútovú periódu a ak sa čiastkové meranie alebo odber vykoná na začiatku, v strede a na konci danej periódy,
 
@@ -196,7 +196,7 @@ Príloha č. 2 k vyhláške č. 411/2012 Z. z.
 
   - Periodické meranie | 3 | | | | | | | 2 | 1 | 5 | | | | 3 | 2 | 1
 
-  - Veličina | Emisný stupeň, stupeň odsírenia, limitný emisný faktor – denný priemer, individuálny emisný faktor | | | | | | | | | | | | | | |
+  - Veličina | Emisný stupeň, stupeň odsírenia, limitný emisný faktor – denný priemer, | | | | | | | | | | | | | | |
 
   - Perióda merania | 6 hodín až 8 hodín | | | | | | | | | 12 hodín až 24 hodín | | | | | |
 

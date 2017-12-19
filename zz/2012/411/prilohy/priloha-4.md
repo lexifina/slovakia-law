@@ -16,7 +16,7 @@ Príloha č. 4 k vyhláške č. 411/2012 Z. z.
 
     - b) sa vypočíta ako aritmetický priemer najmenej z dvoch tretín čiastkových platných údajov pri intervalovom (diskrétnom) spôsobe spracovania meraného signálu a čas medzi intervalmi spracovania signálu je najviac tri minúty, pri 10-minútovom intervale najviac jedna minúta, ak v osobitných prípadoch podľa stavu techniky nie je nevyhnutný iný interval,
 
-    - c) prepočty na štandardné stavové a referenčné podmienky alebo výpočty hmotnostného toku sa vykonajú na základe časovo zodpovedajúcich priemerných hodnôt paralelne meraných stavových a referenčných veličín a objemového prietoku odpadového plynu, ak sa v odôvodnených prípadoch nepostupuje podľa písmena d),
+    - c) prepočty na štandardné stavové a referenčné podmienky alebo výpočty hmotnostného toku sa vykonajú na základe priemerných hodnôt paralelne meraných stavových a referenčných veličín a objemového prietoku odpadového plynu, časovo zodpovedajúcich jednotlivej priemernej hodnote, ak sa v odôvodnených prípadoch nepostupuje podľa písmena d),
 
     - d) sa prepočty podľa písmena c) vykonali s použitím náhradných hodnôt príslušných veličín v súlade s dokumentáciou a s určenými podmienkami a oprávnenosť ich použitia prevádzkovateľ stacionárneho zdroja odôvodnil,
 

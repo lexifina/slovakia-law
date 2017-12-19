@@ -22,6 +22,12 @@
 
 - 12) § 28 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 410/2012 Z. z.
 
+- 12a) Napríklad STN EN ISO 11771 Ochrana ovzdušia. Zisťovanie časovo spriemerovaných množstiev emisií a emisných faktorov. Všeobecný postup (ISO 11771: 2010) (83 4512), STN ISO 11222 Ochrana ovzdušia. Vonkajšie ovzdušie. Stanovenie neistoty časového priemeru pri meraniach na zisťovanie kvality ovzdušia (83 5514), STN EN ISO Ochrana ovzdušia. Návod na odhad neistoty merania (ISO 20988: 2007) (83 4102).
+
+- 12b) § 33 ods. 2 zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
+
+- 12c) § 17 ods. 3 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 410/2012 Z. z., ktorou sa vykonávajú niektoré ustanovenia zákona o ovzduší v znení neskorších predpisov v znení vyhlášky č. 315/2017 Z. z.
+
 - 13) § 37 zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení zákona č. 408/2011 Z. z.
 
 - 14) Napríklad súbor STN EN 15267 Ochrana ovzdušia. Certifikácia automatizovaných meracích systémov.
@@ -50,6 +56,8 @@
 
 - 25) § 2 vyhlášky Ministerstva pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky č. 360/2010 Z. z.
 
+- 25a) § 9 ods. 8 písm. d) zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 42/2017 Z. z.
+
 - 26) STN EN 15259 Ochrana ovzdušia. Meranie emisií zo stacionárnych zdrojov. Požiadavky na úseky a miesta merania, účel a plán merania a na správu o meraní.
 
 - 27) Napríklad Dohovor 5/1985 Zb. o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov, vykonávacie rozhodnutie Komisie 2012/119/EÚ z 10. februára 2012, ktorým sa ustanovujú pravidlá o usmerneniach na zber údajov, vypracovanie referenčných dokumentov o BAT a zabezpečenie ich kvality podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách (Ú. v. EÚ L 63, 2. 3. 2012), vykonávacie rozhodnutie Komisie 2012/134/EÚ z 28. februára 2012, ktorým sa podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách ustanovujú závery o najlepších dostupných technikách (BAT) pre výrobu skla (Ú. v. EÚ L 70, 8. 3. 2012), vykonávacie rozhodnutie Komisie 2012/135/EÚ z 28. februára 2012, ktorým sa podľa smernice Európskeho parlamentu a Rady 2010/75/EÚ o priemyselných emisiách stanovujú závery o najlepších dostupných technikách (BAT) pre výrobu železa a ocele (Ú. v. EÚ L 70, 8. 3. 2012).
@@ -61,6 +69,8 @@
 - 30) § 6 vyhlášky Ministerstva životného prostredia Slovenskej republiky č. 60/2011 Z. z.
 
 - 31) STN ISO 80000-1. Veličina a jednotky. Časť 1: Všeobecne.
+
+- 31a) Smernica Európskeho parlamentu a Rady (EÚ) 2015/1535 z 9. septembra 2015, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických predpisov a pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Ú. v. EÚ L 241, 17. 9. 2015).
 
 - 32) Kapitola 7 a príloha B STN EN 15259 Ochrana ovzdušia. Meranie emisií zo stacionárnych zdrojov. Požiadavky na úseky a miesta merania, účel a plán merania a na správu o meraní.
 

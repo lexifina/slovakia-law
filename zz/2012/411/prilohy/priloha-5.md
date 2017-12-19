@@ -90,7 +90,7 @@ Príloha č. 5 k vyhláške č. 411/2012 Z. z.
 
       - 3. bola vypočítaná s použitím nedostatočného počtu platných jednotlivých priemerných hodnôt,
 
-    - b) celkový čas ustálenej prevádzky a ďalšie časy podľa prvého bodu písm. b) v členení po dňoch a celkove za mesiac,
+    - b) celkový čas ustálenej prevádzky a ďalšie časy podľa štvrtého bodu písm. b) v členení po dňoch a celkove za mesiac,
 
     - c) priemernú hodnotu za kalendárny mesiac a jej označenie, ak sa nedodržala požiadavka, ktorá sa vyhodnocuje za mesiac,
 
