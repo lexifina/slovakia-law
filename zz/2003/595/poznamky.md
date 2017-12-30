@@ -52,7 +52,7 @@
 
 - 22) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 22a) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+- 22a) § 35 a 49a zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov v znení zákona č. 335/2017 Z. z.
 
 - 23) Zákon č. 462/2003 Z. z. o náhrade príjmu pri dočasnej pracovnej neschopnosti zamestnanca a o zmene a doplnení niektorých zákonov.
 
