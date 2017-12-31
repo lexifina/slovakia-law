@@ -1,6 +1,6 @@
 # § 65a
 
-(1) Od 1. januára 2017 dôchodkový vek v príslušnom kalendárnom roku je súčet dôchodkového veku v kalendárnom roku, ktorý predchádza príslušnému kalendárnemu roku a počtu dní, ktorý sa určí ako súčin čísla 365 a rozdielu priemernej strednej dĺžky života zistenej za prvé referenčné obdobie a priemernej strednej dĺžky života zistenej za druhé referenčné obdobie. Takto určený počet dní sa zaokrúhľuje na celé dni nadol.
+(1) Od 1. januára 2017 dôchodkový vek v príslušnom kalendárnom roku je súčet dôchodkového veku v kalendárnom roku, ktorý predchádza príslušnému kalendárnemu roku a počtu dní, ktorý sa určí ako súčin čísla 365 a rozdielu priemernej strednej dĺžky života zistenej za prvé referenčné obdobie a priemernej strednej dĺžky života zistenej za druhé referenčné obdobie. Takto určený počet dní sa zaokrúhľuje na celé dni nadol. Dôchodkový vek upravený podľa prvej vety platí pre poistenca, ktorý v príslušnom kalendárnom roku prvýkrát dovŕši referenčný vek.
 
 (2) Na účely určovania dôchodkového veku
 
