@@ -174,15 +174,15 @@
 
 - 67) § 2 ods. 1, 2 a 5 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
-- 68) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
+- 67a) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
+- 68) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 69) § 3 zákona č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - 69a) Zákon č. 552/2003 Z. z. v znení neskorších predpisov.
 
 - 69b) Ústavný zákon č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov.
-
-- 70) Vyhláška Štatistického úradu Slovenskej republiky č. 306/2007 Z. z., ktorou sa vydáva Štatistická klasifikácia ekonomických činností.
 
 - 71) Napríklad zákon č. 26/1964 Zb. o vnútrozemskej plavbe v znení zákona č. 126/1974 Zb., zákon Národnej rady Slovenskej republiky č. 164/1996 Z. z. o dráhach a o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov, zákon č. 130/1998 Z. z. o mierovom využívaní jadrovej energie a o zmene a doplnení zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce v znení zákona Národnej rady Slovenskej republiky č. 256/1994 Z. z. a zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 37/2002 Z. z.
 
@@ -247,6 +247,8 @@
 - 93ac) § 29b ods. 13 zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
 - 93ad) § 29b ods. 19 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 93ada) § 24 ods. 3 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 

@@ -14,6 +14,6 @@
 
 - e) príslušný kalendárny rok je rok, v ktorom sa dôchodkový vek upravuje.
 
-(3) Počet dní, o ktorý sa upravuje dôchodkový vek, dôchodkový vek vyjadrený v rokoch a dňoch na príslušný kalendárny rok a referenčný vek na príslušný kalendárny rok, sa ustanoví opatrením, ktoré vydá ministerstvo podľa údajov štatistického úradu a vyhlási jeho úplné znenie uverejnením v Zbierke zákonov najneskôr do 31. októbra kalendárneho roka, ktorý predchádza príslušnému kalendárnemu roku.
+(3) Počet dní, o ktorý sa upravuje dôchodkový vek, dôchodkový vek vyjadrený v rokoch a dňoch na príslušný kalendárny rok a referenčný vek na príslušný kalendárny rok, sa ustanoví opatrením, ktoré vydá Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“) podľa údajov štatistického úradu a vyhlási jeho úplné znenie uverejnením v Zbierke zákonov Slovenskej republiky (ďalej len „Zbierka zákonov“) najneskôr do 31. októbra kalendárneho roka, ktorý predchádza príslušnému kalendárnemu roku.
 
 (4) Dôchodkový vek poistenca, ktorý po 31. decembri 2016 dovŕši dôchodkový vek určený podľa § 65 ods. 4 až 8 a § 274, sa zachováva.
