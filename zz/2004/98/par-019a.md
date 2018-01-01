@@ -38,7 +38,7 @@
 
 - c) dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku, o zrušení konkurzu pre nedostatok majetku, alebo dňom, ktorým bolo potvrdené nútené vyrovnanie, povolené vyrovnanie alebo bola povolená reštrukturalizácia.
 
-(7) Daňová povinnosť podľa § 12 ods. 1 písm. g) nevzniká, ak nadväzuje oslobodenie od dane podľa § 10 ods. 3 písm. a).
+(7) Daňová povinnosť podľa § 12 ods. 1 písm. g) nevzniká, ak nadväzuje oslobodenie od dane podľa § 10 ods. 3.
 
 (8) Osoba, ktorá vyrába na daňovom území biogénnu látku uvedenú v § 4 ods. 7 písm. b) výhradne len na potravinárske účely a túto aj na tento účel ponúka, nie je povinná požiadať colný úrad o zaradenie do evidencie výrobcov biogénnej látky.
 

@@ -20,11 +20,11 @@
 
 - § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 2ac) § 7 Obchodného zákonníka.
-
 - 2b) Zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
 - 2c) § 2 ods. 1 písm. d) zákona č. 309/2009 Z. z. o podpore obnoviteľných zdrojov energie a vysoko účinnej kombinovanej výroby a o zmene a doplnení niektorých zákonov v znení zákona č. 492/2010 Z. z.
+
+- 2ca) § 14f zákona č. 309/2009 Z. z. v znení zákona č. 181/2017 Z. z.
 
 - 2d) Napríklad STN EN 228 Automobilové palivá. Bezolovnatý benzín. Požiadavky a skúšobné metódy.
 
@@ -102,7 +102,11 @@
 
 - § 86 zákona č. 563/2009 Z. z.
 
-- 19) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov. Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 19) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 19a) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
@@ -143,10 +147,6 @@
 - 27) § 44 až 47 zákona č. 563/2009 Z. z.
 
 - 28) § 69 zákona č. 563/2009 Z. z.
-
-- 29a) § 14a a 15 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
-
-- 29b) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení zákona č. 492/2010 Z. z.
 
 - 30) Nariadenie Rady (EÚ) č. 389/2012 z 2. mája 2012 o administratívnej spolupráci v oblasti spotrebných daní a zrušení nariadenia (ES) č. 2073/2004 (Ú. v. L 121, 8. 5. 2012).
 

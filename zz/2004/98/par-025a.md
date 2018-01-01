@@ -30,7 +30,7 @@
 
 (7) Žiadateľ je povinný na požiadanie colného úradu spresniť údaje uvedené v tejto žiadosti a v jej prílohách.
 
-(8) Colný úrad pred vydaním povolenia na obchodovanie alebo vydaním odberného poukazu podľa odseku 4 preverí skutočnosti a údaje v žiadosti podľa odseku 5 a v prílohách podľa odseku 6. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad vydá žiadateľovi podľa odseku 1 povolenie na obchodovanie alebo žiadateľovi podľa odseku 4 odberný poukaz do 30 dní odo dňa podania tejto žiadosti.
+(8) Colný úrad pred vydaním povolenia na obchodovanie alebo vydaním odberného poukazu podľa odseku 4 preverí skutočnosti a údaje v žiadosti podľa odseku 5 a v prílohách podľa odseku 6. Ak sú tieto skutočnosti a údaje pravdivé, colný úrad vydá žiadateľovi podľa odseku 1 povolenie na obchodovanie alebo žiadateľovi podľa odseku 4 odberný poukaz do 30 dní odo dňa podania tejto žiadosti. Obchodovať s vybraným minerálnym olejom je na daňovom území možné len na základe povolenia na obchodovanie vydaného colným úradom.
 
 (9) Na vydanie odberného poukazu, jeho používanie a odňatie, na vyradenie z evidencie, ako aj nakladanie s daňovo zvýhodneným minerálnym olejom podľa § 11 ods. 2 písm. b) sa použije § 11 ods. 5, 7 až 9 a 11 až 13 primerane.
 
