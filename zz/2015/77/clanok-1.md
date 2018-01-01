@@ -308,6 +308,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - 21. V § 22 ods. 2 písm. f) sa slová „1, 4 a 6“ nahrádzajú slovami „1, 3, 4, 6, 11, 12 a 15 až 17“.
 
+- 22. V § 22 ods. 2 písmeno j) znie:
+
+- „j)
+
+- preukazovať sa pri poskytnutí zdravotnej starostlivosti u poskytovateľa zdravotnej starostlivosti preukazom poistenca alebo potvrdením o verejnom zdravotnom poistení a vložiť preukaz poistenca alebo občiansky preukaz s elektronickým čipom a príslušným certifikátom do technického zariadenia poskytovateľa zdravotnej starostlivosti počas vytvorenia príslušného elektronického zdravotného záznamu v elektronickej zdravotnej knižke; povinnosť vložiť preukaz poistenca do technického zariadenia poskytovateľa zdravotnej starostlivosti sa nevzťahuje na poskytnutie neodkladnej starostlivosti,“.
+
 - 23. V § 22 ods. 2 písm. l) sa na konci vypúšťa čiarka a pripájajú sa tieto slová: „do 30 dní od zmeny zdravotnej poisťovne,“.
 
 - 24. V § 23 ods. 1 písm. b) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „ak ide o vznik platiteľa poistného podľa § 11 ods. 2, najneskôr do ôsmeho dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom nastal vznik platiteľa poistného podľa § 11 ods. 2,“.

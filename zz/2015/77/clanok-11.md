@@ -106,11 +106,15 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - poskytovať národnému centru údaje v rámci štatistického zisťovania v zdravotníctve a údaje do Národného registra zdravotníckych pracovníkov.<sup>15a</sup>)“.
 
+- 7. V § 23 ods. 1 písm. ag) sa za slová „s údajmi v“ vkladajú slová „preskripčnom zázname a s údajmi na“.
+
 - 8. V § 23 sa odsek 1 dopĺňa písmenom ao), ktoré znie:
 
 - „ao)
 
 - poskytovať národnému centru údaje v rámci štatistického zisťovania v zdravotníctve a údaje do Národného registra zdravotníckych pracovníkov.<sup>15a</sup>)“.
+
+- 9. V § 23 ods. 3 prvej vete sa na konci vypúšťa odkaz 30ab a pripájajú sa tieto slová: „a na požiadanie vložiť preukaz poistenca s elektronickým čipom alebo občiansky preukaz s elektronickým čipom a príslušným certifikátom do technického zariadenia poskytovateľa zdravotnej starostlivosti.“.
 
 - 10. V § 60 sa odsek 1 dopĺňa písmenom y), ktoré znie:
 
@@ -120,7 +124,37 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 11. V § 118 ods. 3 sa slová „z) a ag)“ nahrádzajú slovami „z), ag) a ao)“.
 
+- 12. Poznámka pod čiarou k odkazu 80a znie:
+
+- „80a)
+
+- § 5 ods. 1 písm. b) desiaty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
+
 - 13. V § 120 ods. 1 písm. v) sa vypúšťa odkaz 83a vrátane poznámky pod čiarou.
+
+- 14. V § 120 ods. 7 prvej vete sa slová „najviac dva druhy humánneho lieku alebo dva druhy liečiva“ nahrádzajú slovami „jeden humánny liek alebo liečivo“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Ak je lekársky predpis vystavený ručne z dôvodu nefunkčnosti technických zariadení alebo ručne pri poskytovaní zdravotnej starostlivosti formou návštevnej služby v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa ambulantná zdravotná starostlivosť poskytuje, môže predpisujúci lekár predpísať na lekársky predpis najviac dva druhy humánneho lieku alebo dva druhy liečiva.“.
+
+- 15. V § 121 ods. 1 sa na konci pripája táto veta: „Rovnako je osoba, ktorá vydáva humánny liek, zdravotnícku pomôcku alebo dietetickú potravinu na základe lekárskeho predpisu alebo lekárskeho poukazu povinná kontrolovať správnosť údajov uvedených na lekárskom predpise alebo lekárskom poukaze s údajmi uvedenými v preskripčnom zázname.“.
+
+- 16. V § 121 ods. 2 sa za slová „lekárskeho poukazu“ vkladajú slová „alebo o správnosti preskripčného záznamu“.
+
+- 17. V § 121 ods. 3 písmeno d) znie:
+
+- „d)
+
+- je povinná bezodkladne vytvoriť dispenzačný záznam<sup>83b</sup>) podpísaný elektronickým podpisom<sup>80b</sup>) v elektronickej zdravotnej knižke o vydanom humánnom lieku, ktorého výdaj je viazaný na lekársky predpis, dietetickej potravine, ktorá je uvedená v zozname kategorizovaných dietetických potravín,<sup>17</sup>) alebo zdravotníckej pomôcke, ktorá je uvedená v zozname kategorizovaných zdravotníckych pomôcok,<sup>18</sup>) ak je dietetická potravina alebo zdravotnícka pomôcka uhrádzaná na základe verejného zdravotného poistenia.“.
+
+  - Poznámka pod čiarou k odkazu 83b znie:
+
+  - „83b)
+
+  - § 5 ods. 1 písm. b) 11. bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
+
+- 18. Poznámka pod čiarou k odkazu 84d znie:
+
+- „84d)
+
+- § 5 ods. 1 písm. b) 12. bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.“.
 
 - 19. V § 129 sa odsek 2 dopĺňa písmenom aa), ktoré znie:
 
@@ -153,6 +187,14 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 - „ak)
 
 - neposkytne národnému centru údaje podľa § 18 ods. 1 písm. z).“.
+
+- 24. V § 138 ods. 5 písm. as) sa slová „preukaze poistenca alebo v európskom preukaze zdravotného poistenia“ nahrádzajú slovami „preukaze poistenca s elektronickým čipom a s údajmi v preskripčnom zázname“.
+
+- 25. V § 138 ods. 5 písmeno bc) znie:
+
+- „bc)
+
+- nevytvorí bezodkladne dispenzačný záznam<sup>83b</sup>) podpísaný elektronickým podpisom<sup>80b</sup>) v elektronickej zdravotnej knižke o vydanom humánnom lieku, ktorého výdaj je viazaný na lekársky predpis, dietetickej potravine, ktorá je uvedená v zozname kategorizovaných dietetických potravín,<sup>17</sup>) alebo zdravotníckej pomôcke, ktorá je uvedená v zozname kategorizovaných zdravotníckych pomôcok,<sup>18</sup>) ak je dietetická potravina alebo zdravotnícka pomôcka uhrádzaná na základe verejného zdravotného poistenia,“.
 
 - 26. V § 138 sa odsek 5 dopĺňa písmenom bh), ktoré znie.
 
