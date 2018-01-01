@@ -40,11 +40,19 @@
 
 - 11h) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
+- 11i) § 7a zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 11j) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
 - 13) § 7 ods. 1 písm. a) a § 8 zákona č. 576/2004 Z. z.
 
 - 16) § 7 ods. 3 písm. e) a f) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 538/2005 Z. z.
+
+- 16a) § 3 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 16b) § 27c ods. 3 zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 22) § 11 ods. 2 písm. h) zákona č. 578/2004 Z. z.
 
