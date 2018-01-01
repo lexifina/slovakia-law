@@ -86,6 +86,12 @@ Zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niekto
 
 - 21. V § 27e ods. 5 prvej vete sa slová „Ak osoba, ktorá vykonáva hodnotenie sudcu, jeho námietkam“ nahrádzajú slovami „Ak ten, kto vykonáva hodnotenie sudcu námietkam sudcu“ a druhej vete sa slová „Osoba, ktorá vykonáva hodnotenie sudcu,“ nahrádzajú slovami „Ten, kto vykonáva hodnotenie sudcu“.
 
+- 22. Za § 27g sa vkladá § 27h, ktorý znie:
+
+- „§ 27h
+
+- Ten, kto vykonáva hodnotenie sudcu, zabezpečí zverejnenie hodnotenia sudcu v plnom znení na webovom sídle ministerstva najneskôr do 30 dní odo dňa, kedy sa hodnotenie sudcu stalo konečným; spolu s hodnotením sudcu zverejní aj námietky sudcu, ak boli uplatnené vrátane stanoviska sudcovskej rady, ako aj hodnotenie sudcu zmenené podľa § 27e ods. 5.“.
+
 - 23. § 28 znie:
 
 - „§ 28
