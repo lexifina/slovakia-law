@@ -120,6 +120,14 @@
 
 - 39) Zákon č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov v znení zákona č. 397/2008 Z. z.
 
+- 39a) § 27g zákona č. 530/1990 Zb. o dlhopisoch v znení zákona č. 279/2017 Z. z.
+
+- § 122ya zákona č. 483/2001 Z. z. v znení zákona č. 279/2017 Z. z.
+
+- 39b) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 39c) § 70 ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 279/2017 Z. z.
+
 - 40) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 40a) § 90 ods. 2 zákona č. 203/2011 Z. z.

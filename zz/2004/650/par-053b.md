@@ -8,7 +8,7 @@
 
 (3) Vklady na bežných účtoch alebo na vkladových účtoch v jednej banke alebo pobočke zahraničnej banky podľa § 53a ods. 1 písm. b) nesmú tvoriť viac ako 20 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
 
-(4) Hodnota hypotekárnych záložných listov vydaných jednou bankou a dlhových cenných papierov vydaných jednou zahraničnou bankou so sídlom v členskom štáte alebo v nečlenskom štáte, ktorých menovitá hodnota vrátane výnosov je krytá pohľadávkami tejto banky z hypotekárnych úverov, nesmie tvoriť viac ako 25 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+(4) Hodnota hypotekárnych záložných listov<sup>39a</sup>) a krytých dlhopisov<sup>39b</sup>) vydaných jednou bankou a dlhových cenných papierov vydaných jednou zahraničnou bankou so sídlom v členskom štáte alebo v nečlenskom štáte, ktorých menovitá hodnota vrátane výnosov je krytá pohľadávkami tejto banky z hypotekárnych úverov,<sup>39c</sup>) nesmie tvoriť viac ako 25 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
 
 (5) Celková hodnota prevoditeľných cenných papierov a nástrojov peňažného trhu neprijatých na obchodovanie na regulovanom trhu nesmie tvoriť viac ako 10 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde; tento limit sa nevzťahuje na investície podľa odseku 9.
 
@@ -20,7 +20,7 @@
 
 - b) 5 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde, ak je protistranou iná osoba ako banka podľa písmena a).
 
-(8) Súčet investícií do prevoditeľných cenných papierov a nástrojov peňažného trhu podľa odseku 1 vydaných bankou spĺňajúcou podmienky podľa § 53a ods. 1 písm. b), hypotekárnych záložných listov podľa odseku 4 vydaných touto bankou, vkladov v tejto banke, a hodnoty rizika protistrany podľa odseku 7 písm. a), ktorou je táto banka, nesmie prekročiť 35 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
+(8) Súčet investícií do prevoditeľných cenných papierov a nástrojov peňažného trhu podľa odseku 1 vydaných bankou spĺňajúcou podmienky podľa § 53a ods. 1 písm. b), hypotekárnych záložných listov<sup>39a</sup>) a krytých dlhopisov<sup>39b</sup>) podľa odseku 4 vydaných touto bankou, vkladov v tejto banke, a hodnoty rizika protistrany podľa odseku 7 písm. a), ktorou je táto banka, nesmie prekročiť 35 % čistej hodnoty majetku v doplnkovom dôchodkovom fonde.
 
 (9) Hodnota podielových listov
 
