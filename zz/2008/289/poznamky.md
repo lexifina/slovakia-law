@@ -12,7 +12,7 @@
 
 - 7) § 2 ods. 5 zákona č. 483/2001 Z. z. v znení zákona č. 659/2007 Z. z.
 
-- 8) § 16 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+- 8) § 2 ods. 3 a § 16 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - 9) § 829 až 841 Občianskeho zákonníka.
 
@@ -54,11 +54,15 @@
 
 - Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
+- 18e) Napríklad § 10 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 198/2007 Z. z., § 29 ods. 1 písm. g) a § 30 ods. 1 písm. c) zákona č. 56/2012 Z. z.
+
 - 19) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
 - 20) § 37 až 39 a § 44 až 47 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 20a) § 40 až 43 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 20b) § 35 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 21) Vyhláška Ministerstva financií Slovenskej republiky č. 55/1994 Z. z. o spôsobe vedenia evidencie tržieb elektronickou registračnou pokladnicou v znení neskorších predpisov.
 
@@ -72,4 +76,4 @@
 
 - 26) § 35 ods. 8 až 14 zákona Slovenskej národnej rady č. 511/1992 Zb. v znení neskorších predpisov.
 
-- 26a) Smernica Európskeho parlamentu a Rady 98/34/ES z 22. júna 1998, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických noriem a predpisov, ako aj pravidiel vzťahujúcich sa na služby informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 20) v platnom znení.
+- 26a) Smernica Európskeho parlamentu a Rady (EÚ) 2015/1535 z 9. septembra 2015, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických predpisov a pravidiel vzťahujúcich sa na služby informačnej spoločnosti (kodifikované znenie) (Ú. v. EÚ L 241, 17. 9. 2015).

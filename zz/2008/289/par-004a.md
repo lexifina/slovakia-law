@@ -1,6 +1,6 @@
 # § 4a Požiadavky na virtuálnu registračnú pokladnicu
 
-(1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len virtuálnu registračnú pokladnicu, ktorá je zriadená na webovom sídle finančného riaditeľstva; na jedno predajné miesto môže byť vytvorený len jeden prístup do virtuálnej registračnej pokladnice.
+(1) Na účely plnenia povinnosti podľa § 3 ods. 1 možno používať len virtuálnu registračnú pokladnicu podľa § 2 písm. b).
 
 (2) Virtuálna registračná pokladnica musí umožňovať
 
@@ -28,4 +28,6 @@
 
 - l) získať údaje potrebné na plnenie povinností vyplývajúcich z osobitných predpisov.<sup>13</sup>)
 
-(3) Tlačiareň, ktorá bude komunikovať s virtuálnou registračnou pokladnicou, musí umožňovať vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené.
+(3) Tlačiareň, ktorá bude komunikovať s virtuálnou registračnou pokladnicou, musí umožňovať vytlačenie tlačových výstupov čitateľných po dobu piatich rokov od konca kalendárneho roka, v ktorom boli vyhotovené. Obsah alebo usporiadanie údajov výsledných výstupov vytvorených virtuálnou registračnou pokladnicou nie je možné ďalej doplňovať alebo upravovať.
+
+(4) Používať iné klientske prostredie pre používanie virtuálnej registračnej pokladnice podnikateľom, okrem klientskeho prostredia podľa § 2 písm. b) druhého bodu, je zakázané.

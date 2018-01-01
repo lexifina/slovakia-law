@@ -22,7 +22,7 @@
 
 (8) Ak elektronická registračná pokladnica alebo fiskálna tlačiareň spolu s vlastným registračným programom nespĺňa niektorú z požiadaviek podľa § 4 ods. 2 až 4 alebo ak výrobca, dovozca alebo distribútor elektronickej registračnej pokladnice nepredloží na výzvu Colného úradu Bratislava všetky doklady alebo veci podľa odsekov 2 až 4, ktoré sú nevyhnutné na posúdenie splnenia požiadaviek na elektronickú registračnú pokladnicu alebo fiskálnu tlačiareň spolu s vlastným registračným programom podľa § 4 ods. 2 až 4, Colný úrad Bratislava vydá rozhodnutie o zamietnutí certifikácie.
 
-(9) Colný úrad Bratislava je povinný o žiadosti podľa odseku 2 rozhodnúť do 90 dní od začatia konania o certifikácii; túto lehotu môže v odôvodnených prípadoch odvolací orgán rozhodnutím predĺžiť o 30 dní.
+(9) Colný úrad Bratislava je povinný o žiadosti podľa odseku 2 rozhodnúť do 90 dní od začatia konania o certifikácii; túto lehotu môže v odôvodnených prípadoch odvolací orgán predĺžiť o 90 dní. O predĺžení lehoty s uvedením dôvodov Colný úrad Bratislava písomne upovedomí výrobcu, dovozcu alebo distribútora elektronickej registračnej pokladnice.
 
 (10) Odvolacím orgánom je finančné riaditeľstvo; ak ide o rozhodnutie finančného riaditeľstva, je odvolacím orgánom prezident finančnej správy, ktorý rozhoduje na základe návrhu ním určenej osobitnej komisie.
 
@@ -37,3 +37,5 @@
 (15) Ak výrobca, dovozca alebo distribútor elektronickej registračnej pokladnice poruší povinnosť podľa odseku 5 poslednej vety alebo odseku 14, Colný úrad Bratislava rozhodnutie o certifikácii zruší. Colný úrad Bratislava rozhodnutie o certifikácii nezruší, ak výrobca, dovozca alebo distribútor elektronickej registračnej pokladnice hodnoverne preukáže, že nemôže splniť povinnosť podľa odseku 5 poslednej vety.
 
 (16) Ak Colný úrad Bratislava zruší rozhodnutie o certifikácii, oznámi to finančnému riaditeľstvu a finančné riaditeľstvo je povinné o tejto skutočnosti bez zbytočného odkladu písomne informovať podnikateľa.
+
+(17) Finančné riaditeľstvo vypracúva na základe právoplatných rozhodnutí o certifikácii podľa odseku 7 zoznam certifikovaných elektronických registračných pokladníc alebo fiskálnych tlačiarní vrátane vlastného registračného programu, ktorý priebežne aktualizuje a zverejňuje na svojom webovom sídle.

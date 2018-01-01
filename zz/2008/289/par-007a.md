@@ -4,4 +4,6 @@
 
 (2) Ak má žiadosť nedostatky, vyzve daňový úrad podnikateľa, aby ich podľa jeho pokynu v určenej lehote odstránil. Súčasne podnikateľa poučí, že ak nedostatky v lehote určenej daňovým úradom neodstráni, kód virtuálnej registračnej pokladnice daňový úrad nepridelí.
 
-(3) Podnikateľ je povinný oznámiť daňovému úradu zmenu predajného miesta, ak je odlišné od miesta podnikania alebo sídla v lehote podľa osobitného predpisu<sup>14</sup>) na účel vykonania zmeny tohto údaja v evidencii daňového úradu.
+(3) Podnikateľ je povinný oznámiť daňovému úradu zmenu predajného miesta, ak je odlišné od miesta podnikania alebo sídla do 15 dní od uskutočnenia tejto zmeny na účel vykonania zmeny tohto údaja v evidencii daňového úradu.
+
+(4) Ak sa virtuálna registračná pokladnica používa na rôznych predajných miestach v odlišnom čase, ako predajné miesto sa uvedie prenosná pokladnica.
