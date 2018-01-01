@@ -8,6 +8,8 @@
 
 - 4a) § 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
+- 4aa) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 4b) § 19 ods. 2 písm. d) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4c) § 19 ods. 2 písm. e) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
@@ -52,9 +54,11 @@
 
 - 16) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 132/2002 Z. z. o vede a technike.
+- Zákon č. 133/2002 Z. z. o Slovenskej akadémii vied v znení neskorších predpisov.
 
-- Zákon č. 133/2002 Z. z. o Slovenskej akadémii vied.
+- Zákon č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
+
+- Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov.
 
