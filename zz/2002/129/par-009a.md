@@ -8,4 +8,4 @@
 
 - c) zúčastňujú sa na odbornej príprave (§ 16),
 
-- d) spracúvajú údaje o svojej činnosti, silách a prostriedkoch a predkladajú ich obvodnému úradu v sídle kraja do konca februára za predchádzajúci kalendárny rok.
+- d) spracúvajú údaje o svojej činnosti, silách a prostriedkoch a predkladajú ich okresnému úradu v sídle kraja do konca februára za predchádzajúci kalendárny rok.

@@ -65,3 +65,5 @@
 - 28) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 29) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 30) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/758 z 29. apríla 2015 o požiadavkách typového schválenia pri zavádzaní palubného systému eCall využívajúceho službu tiesňovej linky 112 a o zmene smernice 2007/46/ES (Ú. v. EÚ L 123, 19. 5. 2015) v platnom znení.
