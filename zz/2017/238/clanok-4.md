@@ -88,6 +88,24 @@ Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych popla
 
 - Ministerstvo financií Slovenskej republiky sprístupní funkcionality číselníka poplatkov orgánom verejnej moci podľa § 15a ods. 4 na účely jeho používania podľa tohto zákona najneskôr od 1. apríla 2018.“.
 
+- 14. V Sadzobníku správnych poplatkov časti I. Všeobecná správa položke 2 písm. a) a c) a položke 3 prvom bode písm. a) a druhom bode sa suma „1,50 eura“ nahrádza sumou „2 eurá“.
+
+- 15. V Sadzobníku správnych poplatkov časti II. Vnútorná správa položke 16 sa suma „1,50 eura“ nahrádza sumou „2 eurá“.
+
+- 16. V Sadzobníku správnych poplatkov časti II. Vnútorná správa sa za položku 16 vkladá nová položka 17, ktorá znie:
+
+- „Položka 17
+
+- a)
+
+- Žiadosť o zápis matričnej udalosti, ktorá nastala v cudzine do osobitnej matriky ........10 eur
+
+- b)
+
+- Príprava podkladov k uzavretiu manželstva pred orgánom registrovanej cirkvi alebo náboženskej spoločnosti ................................................................................10 eur.“.
+
+- 17. V Sadzobníku správnych poplatkov časti II. Vnútorná správa položke 18 sa suma „16,50 eura“ nahrádza sumou „20 eur“, suma „66 eur“ nahrádza sumou „70 eur“, suma „33 eur“ nahrádza sumou „35 eur“, suma „165,50 eur“ nahrádza sumou „200 eur“ a suma „199 eur“ nahrádza sumou „200 eur“.
+
 - 18. V Sadzobníku správnych poplatkov časti XXIV. Výkon verejnej moci elektronicky položke 275 písm. a) až d) sa na konci pripájajú slová „vrátane prvej zaručenej konverzie takto vydaných dokumentov“.
 
 - 19. V Sadzobníku správnych poplatkov časti XXIV. Výkon verejnej moci elektronicky sa položka 275 dopĺňa písmenom e), ktoré znie:

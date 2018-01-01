@@ -344,6 +344,8 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - 41. V § 23a ods. 1 sa slová „23 ods. 4“ nahrádzajú slovami „23 ods. 6“.
 
+- 42. V § 24 ods. 2 písm. a) sa na konci vkladá bodkočiarka a pripájajú sa slová „prezentačná schéma nemusí byť súčasťou elektronického formulára, ak je používateľské rozhranie pre vyplnenie elektronického formulára poskytované pre prístupové miesto zo špecializovaného portálu,“.
+
 - 43. V § 24 ods. 5 sa na konci pripája táto veta: „Obsahom elektronického formulára pre elektronické podanie môže byť aj identifikátor osoby.“.
 
 - 44. V § 25 ods. 1 sa na konci pripája táto veta: „Elektronické podanie je podané jeho odoslaním do elektronickej schránky orgánu verejnej moci; na účely preukázania momentu odoslania sa použijú údaje z potvrdenia podľa § 5 ods. 8.“.
