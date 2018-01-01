@@ -6,7 +6,7 @@
 
 - b) doplnková ambulantná pohotovostná služba poskytovaná organizátorom nepretržite v rozsahu najmenej dvoch hodín v pracovných dňoch v čase medzi 16. a 22. hodinou nepretržite v rozsahu najmenej dvoch hodín v dňoch pracovného pokoja v čase medzi 7. a 22. hodinou, ak má organizátor vydané povolenie<sup>7d</sup>) na prevádzkovanie ambulancie doplnkovej ambulantnej pohotovostnej služby.
 
-(2) V rámci pevnej ambulantnej pohotovostnej služby možno poskytovať návštevnú službu v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa pevná ambulantná pohotovostná služba poskytuje; poskytovanie návštevnej služby nezbavuje organizátora povinnosti úplne zabezpečiť poskytovanie pevnej ambulantnej pohotovostnej služby v ambulancii pevnej ambulantnej pohotovostnej služby.
+(2) V rámci pevnej ambulantnej pohotovostnej služby možno poskytovať návštevnú službu v domácom prostredí alebo v inom prirodzenom prostredí osoby, ktorej sa pevná ambulantná pohotovostná služba poskytuje; pri poskytovaní návštevnej služby nesmie byť zo strany organizátora prerušené poskytovanie pevnej ambulantnej pohotovostnej služby v ambulancii pevnej ambulantnej pohotovostnej služby.
 
 (3) Poskytovanie ambulantnej pohotovostnej služby zabezpečuje organizátor podľa osobitného predpisu<sup>7e</sup>) prostredníctvom lekára s profesijným titulom
 

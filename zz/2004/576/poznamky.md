@@ -14,6 +14,8 @@
 
 - 4aa) § 22 ods. 1 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 185/2014 Z. z.
 
+- 4aaa) § 5 a príloha č. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
 - 4ab) § 45 ods. 1 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení zákona č. 466/2008 Z. z.
 
 - 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
@@ -52,9 +54,25 @@
 
 - 8) § 27 zákona č. 578/2004 Z. z.
 
+- 8a) § 5 ods. 1 písm. b) šiesty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8b) § 5 ods. 1 písm. b) ôsmy bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8c) § 5 ods. 1 písm. b) štvrtý bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8d) § 5 ods. 1 písm. b) siedmy bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8e) § 5 ods. 1 písm. b) deviaty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 8f) § 7 ods. 15 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 9) Zákon č. 140/1998 Z. z. o liekoch a zdravotníckych pomôckach, o zmene zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov a o zmene a doplnení zákona Národnej rady Slovenskej republiky č. 220/1996 Z. z. o reklame v znení neskorších predpisov.
 
 - 9a) § 9d ods. 1 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+
+- 9aa) § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 9ab) § 7a zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 10) § 5 zákona č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon).
 
@@ -176,6 +194,10 @@
 
 - 41) § 8 Občianskeho zákonníka.
 
+- 41a) § 3 zákona č. 579/2004 Z. z. v znení neskorších predpisov.
+
+- 41b) § 6 zákona č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov.
+
 - 42) § 17 zákona č. 581/2004 Z. z.
 
 - 43) § 10 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. o matrikách v znení neskorších predpisov.
@@ -183,6 +205,8 @@
 - 44) § 39 ods. 3 zákona č. 578/2004 Z. z.
 
 - 45) § 5 zákona č. 317/2016 Z. z.
+
+- 46) Zákon č. 131/2010 Z. z.
 
 - 48) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
