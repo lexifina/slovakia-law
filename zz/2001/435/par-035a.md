@@ -1,6 +1,6 @@
 # § 35a
 
-(1) Časť podania podľa § 35 ods. 2 písm. c) môže prihlasovateľ nahradiť odkazom na prvú prihlášku, ak v prihláške uplatnil právo prednosti podľa § 36 ods. 2.
+(1) Pri podaní prihlášky môže prihlasovateľ časť podania podľa § 35 ods. 2 písm. c) nahradiť odkazom na prvú prihlášku, ak v prihláške uplatnil právo prednosti podľa § 36 ods. 2.
 
 (2) Odkaz na prvú prihlášku podľa odseku 1 obsahuje
 
