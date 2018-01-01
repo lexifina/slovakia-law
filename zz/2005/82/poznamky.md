@@ -6,7 +6,7 @@
 
 - 4) § 21 ods. 1 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 6) § 231 ods. 1 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 82/2005 Z. z.
+- 6) § 231 ods. 1 písm. b) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 8) Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení zákona č. 75/2013 Z. z.
 
@@ -32,7 +32,7 @@
 
 - 12) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-- 13) Napríklad § 68a ods. 1 písm. b) zákona č. 5/2004 Z. z. v znení neskorších predpisov, § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26 ods. 1 písm. g) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 232/2008 Z. z., § 19 ods. 2 písm. a) prvý bod zákona č. 125/2006 Z. z. v znení neskorších predpisov.
+- 13) Napríklad § 68a ods. 1 písm. b) zákona č. 5/2004 Z. z. v znení neskorších predpisov, § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 32 ods. 1 písm. g) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, § 19 ods. 2 písm. a) prvý bod zákona č. 125/2006 Z. z. v znení neskorších predpisov.
 
 - 14) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
@@ -64,6 +64,10 @@
 
 - 24) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
+- 24a) § 58 a 58a zákona č. 311/2001 Z. z. v znení neskorších predpisov.
+
+- 24b) § 66a Obchodného zákonníka.
+
 - 25) § 150 zákona č. 311/2001 Z. z. v znení zákona č. 124/2006 Z. z.
 
 - 26) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
@@ -73,3 +77,5 @@
 - Zákon č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení neskorších predpisov.
 
 - Zákon č. 34/2002 Z. z. o nadáciách a o zmene Občianskeho zákonníka v znení neskorších predpisov v znení neskorších predpisov.
+
+- 27) Napríklad § 8a ods. 4 písm. d) zákona č. 523/2004 Z. z. v znení neskorších predpisov, § 32 ods. 1 písm. g) zákona č. 343/2015 Z. z.

@@ -20,10 +20,20 @@
 
 (6) Poskytovateľ služby je povinný na požiadanie právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, ktorým dodáva prácu alebo poskytuje službu podľa odseku 5, bezodkladne poskytnúť v nevyhnutnom rozsahu doklady a osobné údaje fyzických osôb, prostredníctvom ktorých im dodáva prácu alebo poskytuje službu, ktoré sú potrebné na to, aby právnická osoba alebo fyzická osoba, ktorá je podnikateľom, mohli skontrolovať, či poskytovateľ služby neporušuje zákaz nelegálneho zamestnávania.
 
-(7) Kontrolný orgán uloží právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za porušenie zákazu prijať prácu alebo službu podľa odseku 5 pokutu od 2 000 eur do 200 000 eur, a ak ide o dve a viac fyzických osôb súčasne, najmenej 5 000 eur.
+(7) Dodávka práce na účely tohto zákona je
 
-(8) Pokutu podľa odseku 7 možno uložiť do dvoch rokov odo dňa prerokovania protokolu o výsledku kontroly a najneskôr do troch rokov odo dňa porušenia zákazu.
+- a) vnútroštátna dodávka práce, ktorou je dočasné pridelenie fyzickej osoby na výkon práce podľa osobitného predpisu,<sup>24a</sup>)
 
-(9) Pokutu podľa odseku 7 nemožno uložiť právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, ktorým bola za to isté porušenie už právoplatne uložená pokuta iným kontrolným orgánom.
+- b) cezhraničná dodávka práce, ktorou je
 
-(10) Pokuta je príjmom štátneho rozpočtu.
+  - 1. dočasné pridelenie fyzickej osoby z iného štátu ako Slovenskej republiky na výkon práce k užívateľskému zamestnávateľovi na území Slovenskej republiky,
+
+  - 2. vyslanie fyzickej osoby z iného štátu ako Slovenskej republiky na územie Slovenskej republiky uskutočnené medzi ovládajúcou osobou a ovládanou osobou<sup>24b</sup>) alebo medzi ovládanými osobami.
+
+(8) Kontrolný orgán uloží právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, za porušenie zákazu prijať prácu alebo službu podľa odseku 5 pokutu od 2 000 eur do 200 000 eur, a ak ide o dve a viac fyzických osôb súčasne, najmenej 5 000 eur.
+
+(9) Pokutu podľa odseku 8 možno uložiť do dvoch rokov odo dňa prerokovania protokolu o výsledku kontroly a najneskôr do troch rokov odo dňa porušenia zákazu.
+
+(10) Pokutu podľa odseku 8 nemožno uložiť právnickej osobe alebo fyzickej osobe, ktorá je podnikateľom, ktorým bola za to isté porušenie už právoplatne uložená pokuta iným kontrolným orgánom.
+
+(11) Pokuta je príjmom štátneho rozpočtu.
