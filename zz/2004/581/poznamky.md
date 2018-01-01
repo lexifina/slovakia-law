@@ -52,6 +52,8 @@
 
 - 16f) § 9a až 9f a § 10 zákona č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
 
+- 16g) § 5 ods. 1 písm. b) 13. bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015.
+
 - 16h) § 14a zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 16i) § 66a Obchodného zákonníka.
@@ -62,9 +64,13 @@
 
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
+- 17b) § 7a zákona č. 363/2011 Z. z. v znení zákona č. 336/2017.
+
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
 - 18a) § 26 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 18aa) § 21a ods. 3 zákona č. 363/2011 Z. z v znení zákona č. 336/2017.
 
 - 18b) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
@@ -120,7 +126,21 @@
 
 - 24ab) Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 24b) Príloha č. 7 k zákonu č. 577/2004 Z. z. v znení zákona č. 185/2014 Z. z.
+- 24b) § 10a ods. 7 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 24ba) § 5 ods. 3 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 24bb) § 8 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
+
+- 24c) § 10a ods. 6 až 8 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 24d) § 10a ods. 3 a 4 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 24e) Príloha č. 1 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 24f) § 4 ods. 6 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 24g) § 10a ods. 5 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 25) Zákon č. 577/2004 Z. z.
 
@@ -130,9 +150,15 @@
 
 - 27aa) § 27a zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
+- 27aaa) § 2 ods. 27 a § 9a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
 - 27b) § 27a ods. 9 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 27c) § 3 zákona č. 153/2013 Z. z.
+
+- 27d) § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 27e) § 7 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 27f) § 13 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
@@ -230,11 +256,9 @@
 
 - 41) Nariadenie Rady (EHS) č. 574/72 z 21. marca 1972, ktorým sa ustanovuje postup na vykonávanie nariadenia Rady (EHS) č. 1408/71 o uplatňovaní systémov sociálneho zabezpečenia na zamestnané osoby, samostatne zárobkovo činné osoby a ich rodinných príslušníkov, ktorí sa pohybujú v rámci spoločenstva (Úradný vestník Európskych spoločenstiev L 28, 30.01.1977) v platnom znení.
 
-- 41a) § 42 ods. 2 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
-
 - 41aa) § 35 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 41aaa) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009).
+- 41aaa) § 120 ods. 5 zákona č. 461/2003 Z. z. v znení zákona č. 266/2017 Z. z.
 
 - 41aab) § 25 ods. 1 písm. e) druhý bod zákona č. 580/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
@@ -290,6 +314,8 @@
 
 - § 220 až 230 Civilného mimosporového poriadku.
 
+- 44b) Napríklad § 20 zákona č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, § 140 až 184 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 45) Zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 45a) Čl. 12 ods. 12.1 Protokolu o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky (Ú. v. EÚ C 321E, 29. 12. 2006).
@@ -342,6 +368,10 @@
 
 - 61aa) § 18 až 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
+- 61ab) § 5 ods. 6 písm. p) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 61ac) § 7 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 61b) § 33 ods. 6 zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
 
 - 62) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
@@ -350,7 +380,23 @@
 
 - 63a) § 89 ods. 9 Trestného zákona.
 
-- 64) § 42 zákona č. 576/2004 Z. z.
+- 63b) § 3 ods. 1 písm. g) zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 63c) § 27 ods. 1 písm. a) zákona č. 578/2004 Z. z. v znení zákona č. 192/2009 Z. z.
+
+- 63d) § 7 ods. 2 písm. b) zákona č. 578/2004 Z. z. v znení zákona č. 653/2007 Z. z.
+
+- 63e) § 2 ods. 4 zákona č. 576/2004 Z. z. znení zákona č. 77/2015 Z. z.
+
+- 63g) § 7 ods. 1 písm. a) prvý bod zákona č. 576/2004 Z. z.
+
+- 63h) § 7 ods. 1 písm. a) tretí bod zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- 63i) § 79 ods. 1 písm. za) zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 63j) § 8a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 63k) § 77 zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
 - 65) § 115 Trestného poriadku.
 
@@ -371,6 +417,8 @@
 - Zákon č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 71) § 81 ods. 1 písm. a) a b) zákona č. 578/2004 Z. z. v znení zákona č. 351/2005 Z. z.
+
+- 71a) § 79 ods. 1 písm. w) zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
 - 72) Zákon č. 599/2001 Z. z. o osvedčovaní listín a podpisov na listinách obvodnými úradmi a obcami v znení zákona č. 515/2003 Z. z.
 
@@ -426,6 +474,8 @@
 
 - 90) § 286 Civilného mimosporového poriadku.
 
+- 90a) Napríklad § 26 ods. 11 zákona č. 576/2004 Z. z. v znení zákona č. 662/2007 Z. z., § 2 ods. 3, § 3 ods. 6 a 11, § 7 ods. 4 a § 42 zákona č. 577/2004 Z. z. v znení neskorších predpisov, § 7, § 19 a 23 zákona č. 580/2004 Z. z. v znení neskorších predpisov, § 21 ods. 9, § 25 ods. 1 písm. d), § 29 ods. 16, § 40 ods. 6, § 41 ods. 5 a 7, § 43 písm. r), § 44 písm. m) a o), § 45 ods. 4 a § 120 ods. 15 zákona č. 362/2011 Z. z. v znení neskorších predpisov, § 3 ods. 2 a § 4 zákona č. 363/2011 Z. z. v znení neskorších predpisov, § 5 ods. 6 písm. f) a g) zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 91) § 12 ods. 1 Trestného poriadku.
 
 - 92) § 2 ods. 1 zákona č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2002 Z. z. o správach finančnej kontroly v znení zákona č. 182/2002 Z. z.
@@ -449,6 +499,10 @@
 - 95d) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 95e) Napríklad zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov, zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 95f) § 25 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+
+- 95g) § 2 ods. 1 a § 3 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 96) § 167 a 168 Trestného zákona.
 
@@ -476,4 +530,4 @@
 
 - § 156 ods. 7 Obchodného zákonníka.
 
-- 101) § 25 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+- 101) Čl. 1 ods. 2 písm. a) nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
