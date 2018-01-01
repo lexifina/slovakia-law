@@ -38,6 +38,8 @@
 
 - 15) Zákon č. 8/2005 Z. z.
 
+- 15a) § 24 ods. 2 zákona č. 274/2017 o obetiach trestných činov a o zmene a doplnení niektorých zákonov.
+
 - 16) Zákon Národnej rady Slovenskej republiky č. 40/1993 Z. z. o štátnom občianstve Slovenskej republiky v znení neskorších predpisov.
 
 - 17) § 11 ods. 1 a § 13 ods. 1 zákona Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení neskorších predpisov.
