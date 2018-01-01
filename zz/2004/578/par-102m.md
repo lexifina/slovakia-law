@@ -12,14 +12,12 @@
 
 (6) Do 31. decembra 2017 je zdravotnícky pracovník, ktorému bol vydaný elektronický preukaz zdravotníckeho pracovníka, povinný podpísať elektronický zdravotný záznam podľa odsekov 3 až 5 elektronickým podpisom.<sup>55h</sup>)
 
-(7) Poskytovateľ všeobecnej ambulantnej zdravotnej starostlivosti je povinný vytvoriť pacientsky sumár osobe, s ktorou má uzavretú dohodu o poskytovaní zdravotnej starostlivosti podľa osobitného predpisu, najneskôr do 30. júna 2018.
+(7) Do 31. decembra 2017 je poskytovateľ všeobecnej zdravotnej starostlivosti oprávnený vytvoriť pacientsky sumár osobe, s ktorou má uzavretú dohodu o poskytovaní zdravotnej starostlivosti podľa osobitného predpisu.<sup>55f</sup>)
 
-(8) Do 31. decembra 2017 je poskytovateľ všeobecnej zdravotnej starostlivosti oprávnený vytvoriť pacientsky sumár osobe, s ktorou má uzavretú dohodu o poskytovaní zdravotnej starostlivosti podľa osobitného predpisu.<sup>55f</sup>)
+(8) Absolvent štúdia v zdravotníckom študijnom odbore, ktorý získal odbornú spôsobilosť na výkon zdravotníckeho povolania do 30. júna 2013, oznámi údaje potrebné na registráciu v lehote podľa doterajších predpisov.
 
-(9) Absolvent štúdia v zdravotníckom študijnom odbore, ktorý získal odbornú spôsobilosť na výkon zdravotníckeho povolania do 30. júna 2013, oznámi údaje potrebné na registráciu v lehote podľa doterajších predpisov.
+(9) Orgán príslušný na vydanie povolenia je povinný vytvoriť register povolení do 31. decembra 2013.
 
-(10) Orgán príslušný na vydanie povolenia je povinný vytvoriť register povolení do 31. decembra 2013.
+(10) Komora je povinná zosúladiť register zdravotníckych pracovníkov vedený podľa doterajších predpisov s týmto zákonom do 30. septembra 2013.
 
-(11) Komora je povinná zosúladiť register zdravotníckych pracovníkov vedený podľa doterajších predpisov s týmto zákonom do 30. septembra 2013.
-
-(12) Komora je povinná vytvoriť register licencií do 31. decembra 2013.
+(11) Komora je povinná vytvoriť register licencií do 31. decembra 2013.

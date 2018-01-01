@@ -12,6 +12,8 @@
 
 - 5) § 43 zákona č. 581/2004 Z. z.
 
+- 5a) § 47b až 47f zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 6) Napríklad zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 7) Napríklad Zákonník práce.
@@ -22,7 +24,9 @@
 
 - 9a) § 3 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
 
-- 9b) § 33 zákona č. 538/2005 Z. z. o prírodných liečivých vodách, prírodných liečebných kúpeľoch, kúpeľných miestach a prírodných minerálnych vodách a o zmene a doplnení niektorých zákonov.
+- 9b) § 9a zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 9c) Nariadenie vlády Slovenskej republiky č. 640/2008 Z. z. o verejnej minimálnej sieti poskytovateľov zdravotnej starostlivosti v znení neskorších predpisov.
 
 - 10) Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -208,7 +212,9 @@
 
 - 48) § 19 až 21 zákona č. 576/2004 Z. z.
 
-- 49) § 18, 24 a 25 zákona č. 576/2004 Z. z. v znení zákona č. 350/2005 Z. z.
+- 49) § 18, § 24 a 25 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+
+- § 5 a príloha č. 2 prvý bod zákona č. 153/2013 Z. z. v znení neskorších predpisov.
 
 - 50) § 22 a 23 zákona č. 576/2004 Z. z.
 
@@ -224,7 +230,11 @@
 
 - 55) § 3 ods. 5 zákona č. 577/2004 Z. z.
 
-- 55a) § 42 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 55aa) § 47d ods. 7 a 9 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 55ab) § 47d ods. 13 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 55ac) § 47c ods. 2 a 3 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 55b) § 48 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
@@ -233,6 +243,16 @@
 - 55ca) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
 - 55d) § 14 ods. 1 písm. a) až d) zákona č. 153/2013 Z. z.
+
+- 55e) § 11 zákona č. 153/2013 Z. z.
+
+- 55f) § 6 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 55g) § 5 ods. 1 písm. b) zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 55h) § 3 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
+
+- 55i) § 19 ods. 4 zákona č. 576/2004 Z. z.
 
 - 55ja) § 10 ods. 1 Trestného poriadku.
 
@@ -332,6 +352,8 @@
 
 - Zákon č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 58cf) § 27c ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.
+
 - 58d) § 15, 18 a 60 zákona č. 362/2011 Z. z.
 
 - 58e) Zákon č. 362/2011 Z. z.
@@ -351,6 +373,8 @@
 - 60ac) Zákonník práce.
 
 - 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 60d) § 64 ods. 5 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 
 - 61) Napríklad zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -397,3 +421,7 @@
 - 80) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
 
 - 81) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 82) § 5 ods. 1 písm. b) tretí bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
+
+- 83) § 5 ods. 1 písm. b) trinásty bod zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.

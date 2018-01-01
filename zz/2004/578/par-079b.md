@@ -11,3 +11,5 @@
 (5) Ustanovenia odsekov 1 až 4 sa nepoužijú, ak osoba trvá na poskytnutí cezhraničnej zdravotnej starostlivosti,<sup>55jab</sup>) ktorú uhrádza poistenec iného členského štátu Európskej únie priamo poskytovateľovi, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, podľa zverejneného cenníka.
 
 (6) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, nesmie pri poskytovaní zdravotnej starostlivosti podľa odsekov 1 až 4 uprednostňovať poistenca z iného členského štátu pred poskytovaním zdravotnej starostlivosti poistencovi, ktorý čaká na poskytnutie zdravotnej starostlivosti.<sup>58a</sup>)
+
+(7) Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný poskytnúť zdravotnú starostlivosť osobe s poskytnutou doplnkovou ochranou, ktorá sa preukáže dokladom o oprávnení na poskytnutie zdravotnej starostlivosti.<sup>58cf</sup>)
