@@ -10,6 +10,8 @@
 
 - 4) § 2 ods. 1 až 6 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
+- 4a) § 67 až 80 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
 - 5) § 116 Občianskeho zákonníka.
 
 - 6) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
