@@ -344,6 +344,10 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - 38. V § 45 ods. 4 sa slová „prílohy č. 3“ nahrádzajú slovami „zoznamu uverejneného na webovom sídle ministerstva“.
 
+- 39. § 46b sa vypúšťa.
+
+  - Poznámky pod čiarou k odkazom 136bb až 136be sa vypúšťajú.
+
 - 40. V § 49a ods. 7 sa vypúšťajú prvá až tretia veta.
 
 - 41. Za § 51d sa vkladá § 51e, ktorý vrátane nadpisu znie:
@@ -470,7 +474,13 @@ Zákon č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 43/2004 Z. z., 
 
 - Prechodné ustanovenie k úpravám účinným od 1. februára 2017
 
-- Ustanovenia § 17 ods. 39 a § 25 ods. 3 v znení účinnom od 1. februára 2017 sa použijú pri motorovom vozidle evidovanom v evidencii vozidiel v Slovenskej republike po 31. januári 2017.“.
+- Ustanovenia § 17 ods. 39 a § 25 ods. 3 v znení účinnom od 1. februára 2017 sa použijú pri motorovom vozidle evidovanom v evidencii vozidiel v Slovenskej republike po 31. januári 2017.
+
+- § 52zk
+
+- Prechodné ustanovenie k úpravám účinným od 1. januára 2018
+
+- Ustanovenie § 46b v znení účinnom do 31. decembra 2017 sa naposledy uplatní za zdaňovacie obdobie končiace 31. decembra 2017, a ak je zdaňovacím obdobím hospodársky rok, za zdaňovacie obdobie končiace v priebehu kalendárneho roka 2018. Ak daňovník zaplatil za zdaňovacie obdobia končiace v rokoch 2015 až 2017 a pri zdaňovacom období, ktorým je hospodársky rok, končiace v rokoch 2015 až 2018, daňovú licenciu podľa § 46b v znení účinnom do 31. decembra 2017, nárok podľa § 46b ods. 5 v znení účinnom do 31. decembra 2017 na zápočet kladného rozdielu medzi daňovou licenciou a daňou vypočítanou v daňovom priznaní sa uplatňuje aj po 31. decembri 2017 v súlade s § 46b ods. 5 v znení účinnom do 31. decembra 2017.“.
 
 - 43. Príloha č. 2 sa dopĺňa ôsmym bodom, ktorý znie:
 
