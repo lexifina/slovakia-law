@@ -334,6 +334,8 @@ Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnanc
 
 - oznámiť ministerstvu skutočnosti uvedené v § 42 ods. 7 písm. d) v lehote do 15 dní, odkedy zmena uvedenej skutočnosti nastala.“.
 
+- 32. V § 46 sa vypúšťa odsek 5.
+
 - 33. § 47 vrátane nadpisu znie:
 
 - „§ 47
