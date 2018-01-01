@@ -6,6 +6,8 @@
 
 - 1aa) § 11 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 151/2010 Z. z.
 
+- 1ab) Napríklad Zmluva medzi Slovenskou republikou a Svätou stolicou o duchovnej službe katolíckym veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 648/2002 Z. z.), Dohoda medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami o výkone pastoračnej služby ich veriacim v ozbrojených silách a ozbrojených zboroch Slovenskej republiky č. 270/2005 Z. z.
+
 - 1b) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 2) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
