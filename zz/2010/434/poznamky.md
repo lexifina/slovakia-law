@@ -20,6 +20,10 @@
 
 - 10) Zákon č. 147/1997 Z. z. o neinvestičných fondoch a o doplnení zákona Národnej rady Slovenskej republiky č. 207/1996 Z. z. v znení neskorších predpisov.
 
+- 10a) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10b) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 11) § 4 a § 19 ods. 1 zákona č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení zákona č. 394/2000 Z. z.
 
 - 12) Zákon č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov.
