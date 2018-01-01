@@ -1,0 +1,1 @@
+Príloha č. 2 k vyhláške č. 325/2018 Z. z. [OCHRANNÉ PÁSMO II. STUPŇA PRÍRODNÉHO MINERÁLNEHO ZDROJA V KAMIENKE](../assets/3659031d418f73f9d0f3194d5faf2bf9c4116ec1d2a14c2b83275ebc84bbf53a.pdf)
