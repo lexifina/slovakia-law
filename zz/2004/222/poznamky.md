@@ -96,13 +96,13 @@
 
 - 24a) § 115 Občianskeho zákonníka.
 
-- 24aa) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 24ab) Zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
+- 24aa) § 54 a 55 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
 - 24b) § 19 ods. 2 písm. l) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 60/2009 Z. z.
 
 - 26) § 22 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 26a) § 43 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 27) § 76 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 

@@ -16,7 +16,7 @@
 
   - 3. tovaru podľa § 13 ods. 1 písm. e) a f), ak je osobou povinnou platiť daň osoba, ktorej je tento tovar dodaný podľa § 69 ods. 9,
 
-  - 4. tovaru z tuzemska do iného členského štátu, ktorý bol dovezený z tretieho štátu žiadateľom, ktorý bol zastúpený daňovým zástupcom podľa § 69a,
+  - 4. tovaru z tuzemska do iného členského štátu, ktorý bol dovezený z tretieho štátu žiadateľom, ktorý bol zastúpený daňovým zástupcom podľa § 69a, a dodania tovaru z tuzemska do iného členského štátu alebo tretieho štátu, ktorý bol nadobudnutý zahraničnou osobou v tuzemsku z iného členského štátu, a zahraničná osoba bola zastúpená daňovým zástupcom podľa § 69aa,
 
   - 5. tovaru v rámci trojstranného obchodu podľa § 45, na ktorom sa zúčastnil ako prvý odberateľ a osobou povinnou platiť daň je druhý odberateľ.
 
@@ -24,4 +24,4 @@
 
 (4) Žiadateľ má nárok na vrátenie dane, ak by takáto daň bola odpočítateľná podľa § 49.
 
-(5) Žiadateľ nemá nárok na vrátenie dane, ktorú dodávateľ neuplatnil v súlade s týmto zákonom, a dane uplatnenej pri tovare, ktorý je alebo môže byť oslobodený od dane podľa § 43 alebo § 47 ods. 2. Ak žiadateľ uplatňuje osobitnú úpravu uplatňovania dane pre cestovné kancelárie, nemá nárok na vrátenie dane pri službách cestovného ruchu.
+(5) Žiadateľ nemá nárok na vrátenie dane, ktorú dodávateľ neuplatnil v súlade s týmto zákonom, a dane uplatnenej pri tovare, ktorý je alebo môže byť oslobodený od dane podľa § 43 alebo § 47 ods. 2. Ak žiadateľ podľa zákona platného v inom členskom štáte uplatňuje osobitnú úpravu zodpovedajúcu ustanoveniam podľa § 65, nemá nárok na vrátenie dane pri tovaroch a službách obstaraných na účel uskutočnenia cesty.
