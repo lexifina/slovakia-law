@@ -78,6 +78,14 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
 
 - preukazovať sa pri poskytnutí zdravotnej starostlivosti u poskytovateľa zdravotnej starostlivosti
 
+- 1.
+
+- občianskym preukazom s elektronickým čipom, ak osoba má vydaný občiansky preukaz s elektronickým čipom, a vložiť občiansky preukaz s elektronickým čipom do technického zariadenia poskytovateľa zdravotnej starostlivosti počas vytvorenia príslušného elektronického zdravotného záznamu v elektronickej zdravotnej knižke,
+
+- 2.
+
+- dokladom o pobyte s elektronickým čipom,<sup>53aac</sup>) ak osoba má vydaný doklad o pobyte s elektronickým čipom, a vložiť doklad o pobyte s elektronickým čipom do technického zariadenia poskytovateľa zdravotnej starostlivosti počas vytvorenia príslušného elektronického zdravotného záznamu v elektronickej zdravotnej knižke,
+
 - 3.
 
 - preukazom poistenca, európskym preukazom alebo náhradným certifikátom, ak osoba nemá vydaný občiansky preukaz s elektronickým čipom ani doklad o pobyte s elektronickým čipom,
@@ -89,6 +97,12 @@ Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona �
   - Poznámka pod čiarou k odkazu 53aac znie:
 
   - „<sup>53aac</sup>) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 6. § 22 sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Povinnosť vložiť občiansky preukaz s elektronickým čipom alebo doklad o pobyte s elektronickým čipom do technického zariadenia poskytovateľa zdravotnej starostlivosti sa nevzťahuje na poskytnutie neodkladnej starostlivosti.“.
 
 - 7. § 38c sa vypúšťa.
 

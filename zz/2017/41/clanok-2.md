@@ -12,4 +12,6 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - Doterajšie písmeno f) sa označuje ako písmeno g).
 
+- 3. V § 79 ods. 1 písm. zj) sa slová „psychiatria alebo v špecializačnom odbore klinická psychológia“ nahrádzajú slovami „psychiatria, klinická psychológia, poradenská psychológia alebo pracovná a organizačná psychológia“.
+
 - 4. V § 102m ods. 5 sa slová „psychiatria alebo v špecializačnom odbore klinická psychológia“ nahrádzajú slovami „psychiatria, klinická psychológia, poradenská psychológia alebo pracovná a organizačná psychológia“.
