@@ -6,6 +6,8 @@
 
 - 2) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 52 ods. 1, 3, 5 a 6 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
+
 - 3) Napríklad zákon Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 59 ods. 3, § 59a a § 59b Obchodného zákonníka.
@@ -39,6 +41,8 @@
 - 6cd) § 11a zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 6d) Napríklad § 768e Obchodného zákonníka, § 9 ods. 5 a § 10 až 15 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov, poznámka 5 k položke 17 v prílohe zákona Slovenskej národnej rady č. 71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov v znení neskorších predpisov.
+
+- 6e) § 52 ods. 3 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
 - 7) § 78 ods. 1 Obchodného zákonníka.
 
@@ -111,6 +115,8 @@
 - 17b) § 11 zákona č. 136/2010 Z. z.
 
 - 18) § 3a, § 9 ods. 4 a § 21 ods. 7 až 9 Obchodného zákonníka.
+
+- 18a) § 66 ods. 3 Obchodného zákonníka.
 
 - 19) § 102 Civilného sporového poriadku.
 
