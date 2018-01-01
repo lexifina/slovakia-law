@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 372/2015 Z. z. [Príloha č. 1 k vyhláške č. 372/2015 Z. z.](../assets/43b0d15cf5975e6f35a8aac7a12139c9c544a1772557830c34cfbeb6f96454bc.pdf)
+Príloha č. 1 k vyhláške č. 372/2015 Z. z. [Príloha č. 1 k vyhláške č. 372/2015 Z. z.](../assets/ec64f10b89a3adf20577851f75539a1a9fa25b44c035ed0af0641a7e9ef4129b.pdf)

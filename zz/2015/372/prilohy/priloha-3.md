@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 372/2015 Z. z. [Príloha č. 3 k vyhláške č. 372/2015 Z. z.](../assets/0381e63910656b130d4f4ee222b8f9953266562b82dc34689ebf97b89c8bdf9e.pdf)
+Príloha č. 3 k vyhláške č. 372/2015 Z. z. [Príloha č. 3 k vyhláške č. 372/2015 Z. z.](../assets/f8e5f60111497f4e8e416f000c733f043cf1d0fd9d7d40aec85fc9a32986b158.pdf)
