@@ -50,7 +50,7 @@
 
 - 18) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 19) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 19) Zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20) § 2 písm. l) a § 49 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
