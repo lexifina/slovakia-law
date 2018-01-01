@@ -22,6 +22,18 @@ Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálny
 
 - 7. V § 6 ods. 2 písm. h) sa slová „pre výkon kompetencií riadiaceho orgánu a prijíma potrebné opatrenia podľa osobitného predpisu“ nahrádzajú slovami „určenia riadiaceho orgánu a certifikačného orgánu“.
 
+- 8. V § 7 odsek 5 znie:
+
+- „(5)
+
+- Riadiaci orgán zriadi monitorovací výbor.<sup>41</sup>) Členmi monitorovacieho výboru sú zástupcovia riadiaceho orgánu, sprostredkovateľského orgánu, ostatných organizácií štátnej správy a nimi zriadených alebo založených právnických osôb a zástupcovia ostatných subjektov.<sup>41a</sup>) Zloženie monitorovacieho výboru upraví štatút monitorovacieho výboru tak, aby zástupcovia ostatných subjektov mali v monitorovacom výbore väčšinu hlasov; to neplatí pre operačný program Interact, program cezhraničnej spolupráce Slovenská republika – Česká republika, program cezhraničnej spolupráce Slovenská republika – Rakúsko. Riadiaci orgán môže zriadiť pri monitorovacom výbore komisiu najmä na plnenie úloh podľa § 26. Riadiaci orgán na svojom webovom sídle zverejní zoznam členov monitorovacieho výboru, zoznam komisií zriadených pri monitorovacom výbore a členov týchto komisií.“.
+
+  - Poznámky pod čiarou k odkazom 41 a 41a znejú:
+
+  - „<sup>41</sup>) Čl. 47 až 49 nariadenia (EÚ) č. 1303/2013 v platnom znení.
+
+  - <sup>41a</sup>) Čl. 5 nariadenia (EÚ) č. 1303/2013 v platnom znení.“.
+
 - 9. § 8 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
 
 - „(5)
@@ -417,6 +429,20 @@ Zákon č. 292/2014 Z. z. o príspevku poskytovanom z európskych štrukturálny
   - Poznámka pod čiarou k odkazu 115a znie:
 
   - „<sup>115a</sup>) § 12 ods. 1 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 57. § 48 sa dopĺňa odsekom 8, ktorý znie:
+
+- „(8)
+
+- Centrálny koordinačný orgán zverejňuje údaje evidované podľa § 49 ods. 2 a 3 automaticky prostredníctvom informačného monitorovacieho systému elektronicky, spôsobom umožňujúcim hromadný prístup,<sup>117a</sup>) a to v rozsahu dostupnej funkcionality informačného monitorovacieho systému podľa § 49 ods. 1; to neplatí pre údaje a informácie, ktoré sú chránené podľa osobitných predpisov.<sup>117b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 117a a 117b znejú:
+
+  - „<sup>117a</sup>) § 4 ods. 2 zákona č. 211/2000 Z. z.
+
+  - <sup>117b</sup>) Napríklad § 17 až 20 Obchodného zákonníka, § 40 zákona č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov, § 91 až 93a zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 11 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.“.
+
+- 58. V § 49 ods. 5 sa na konci pripája táto veta: „Agentúra zverejňuje údaje evidované v informačnom systéme podľa predchádzajúcej vety elektronicky, spôsobom umožňujúcim hromadný prístup,<sup>117a</sup>) a to v rozsahu dostupnej funkcionality informačného systému; to neplatí pre údaje a informácie, ktoré sú chránené podľa osobitných predpisov.<sup>117b</sup>)“.
 
 - 59. Za § 51 sa vkladá § 52, ktorý vrátane nadpisu znie:
 
