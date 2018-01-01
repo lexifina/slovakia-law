@@ -1,3 +1,0 @@
-Príloha č. 1 k opatreniu č. 449/2013 Z. z.
-
-- VZOR ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA OBSTARANIE NÁJOMNÉHO BYTU NA ÚČEL SOCIÁLNEHO BÝVANIA [príloha](../assets/103f343feb5dcd2878aeb6562a508e819dd46d8b805e51fd41d802b551ad937b.pdf)

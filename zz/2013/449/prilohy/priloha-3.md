@@ -1,3 +1,0 @@
-Príloha č. 3 k opatreniu č. 449/2013 Z. z.
-
-- VZOR ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA ODSTRÁNENIE SYSTÉMOVEJ PORUCHY BYTOVÉHO DOMU [príloha](../assets/0da30fc829bc6f9d363bba929b5a55bd9a97dd5621ca3f4e25bb20dc7e822932.pdf)
