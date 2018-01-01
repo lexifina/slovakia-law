@@ -184,7 +184,11 @@
 
 - 77a) § 22 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
-- 78) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+- 78) § 27g zákona č. 530/1990 Zb. v znení zákona č. 279/2017 Z. z.
+
+- § 122ya zákona č. 483/2001 Z. z. v znení zákona č. 279/ 2017 Z. z.
+
+- 78a) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 79) § 41 a 42 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
