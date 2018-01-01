@@ -378,6 +378,32 @@ Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzov
 
 - Neoprávnené rozšírenie slovenskej technickej normy je poskytnutie slovenskej technickej normy alebo jej časti vrátane ponuky na jej poskytnutie akýmkoľvek spôsobom a v akejkoľvek podobe bez súhlasu slovenského národného normalizačného orgánu s cieľom získať priamy majetkový prospech alebo nepriamy majetkový prospech.“.
 
+- 12. § 7 vrátane nadpisu znie:
+
+- „§ 7
+
+- Zhoda so slovenskou technickou normou
+
+- (1)
+
+- Zhoda so slovenskou technickou normou je dobrovoľná.
+
+- (2)
+
+- Ak neexistuje harmonizovaná technická norma,<sup>6a</sup>) úrad po prerokovaní s príslušným ministerstvom určí slovenskú technickú normu vhodnú na posudzovanie zhody. Určenie slovenskej technickej normy vhodnej na posudzovanie zhody oznámi úrad vo vestníku. V oznámení úrad zároveň uvedie názov technického predpisu, na ktorý sa slovenská technická norma vhodná na posudzovanie zhody vzťahuje.
+
+- (3)
+
+- Návrh na zrušenie určenia slovenskej technickej normy vhodnej na posudzovanie zhody sú oprávnené podávať príslušné ministerstvá a orgány dohľadu ustanovené v § 30 na základe vlastného zistenia alebo na iný podnet.
+
+- (4)
+
+- Dodržanie harmonizovanej technickej normy alebo slovenskej technickej normy vhodnej na posudzovanie zhody sa považuje za splnenie technických požiadaviek určených technickým predpisom.“.
+
+  - Poznámka pod čiarou k odkazu 6a znie:
+
+  - „<sup>6a</sup>) Čl. 2 ods. 1 písm. c) nariadenia (EÚ) č. 1025/2012 v platnom znení.“.
+
 - 13. V § 8 ods. 3 v celom texte sa slová „Európskych spoločenstiev“ nahrádzajú slovami „Európskej únie“.
 
 - 14. V § 8 ods. 3 písm. a) sa slovo „európska“ nahrádza slovom „technická“.
