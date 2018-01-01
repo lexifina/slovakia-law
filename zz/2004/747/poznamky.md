@@ -228,11 +228,19 @@
 
 - 48) § 39 ods. 4 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 48a) Napríklad § 4 ods. 2 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
+
 - 49) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 49a) § 81 ods. 1 písm. b) a § 87 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
 
+- 49aa) § 3 ods. 4, 6 a 7 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 49ab) § 3 ods. 3 a 4 zákona č. 431/2002 Z. z.
+
 - 49b) § 63 písm. b) a § 79a zákona č. 492/2009 Z. z. v znení zákona č. 352/2012 Z. z.
+
+- 49ba) § 2 písm. b) a § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení neskorších predpisov.
 
 - 49c) § 7 písm. h) Správneho súdneho poriadku.
 
