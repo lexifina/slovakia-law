@@ -28,6 +28,8 @@
 
 - 9) Napríklad § 43 ods. 5 písm. n), § 44 ods. 5 písm. o) a § 106a zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 477/2002 Z. z. o uznávaní odborných kvalifikácií a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov, príloha č. 7 k zákonu č. 488/2002 Z. z. o veterinárnej starostlivosti a o zmene niektorých zákonov v znení neskorších predpisov.
 
+- 9a) Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 10) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
 - 11) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
