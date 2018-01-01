@@ -222,9 +222,9 @@ Príloha zákona SNR č. 71/1992 Zb.
 
 - Položka 20a |
 
-- 1. Za vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria súdny spis, a rovnopisu podaní a ich príloh doručovaných stranám alebo účastníkom, ak bolo podanie urobené elektronickými prostriedkami podpísané zaručeným elektronickým podpisom podľa osobitného zákona 2. Vyhotovenie rovnopisu podaní a ich príloh, ktoré vytvoria registrový spis pri podaniach do obchodného registra urobených elektronickými prostriedkami, poplatku nepodlieha. | za každú stranu 0,10 eura najmenej 10 eur za podanie, ktoré je žalobou alebo návrhom na začatie konania s prílohami, najmenej 3 eurá za ostatné podania s prílohami
+- Za spracovanie podania a jeho príloh v listinnej podobe, ak zákon ustanovuje povinnosť doručovať podanie do elektronickej schránky súdu<sup>1aa</sup>) a za spracovanie podania a jeho príloh v elektronickej podobe doručeného súdu inak ako do elektronickej schránky súdu, ak zákon ustanovuje povinnosť doručovať podanie do elektronickej schránky súdu<sup>1aa</sup>) | 20 eur za podanie vrátane jeho príloh
 
-- Poznámka: V prípade podaní urobených elektronickými prostriedkami podpísaných zaručeným elektronickým podpisom súd vyhotoví potrebný počet rovnopisov a ich príloh bez toho, aby žiadal náhradu vecných nákladov podľa 125 ods. 3 Civilného sporového poriadku. 3. V upomínacom konaní a v exekučnom konaní sa poplatok podľa tejto položky neplatí. |
+- Poznámka: Poplatku nepodlieha podanie urobené ústne na pojednávaní. |
 
 - Položka 20b |
 

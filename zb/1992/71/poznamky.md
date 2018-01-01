@@ -1,5 +1,7 @@
 - 1a) § 34, 37 a 53 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení zákona č. 2/2017 Z. z.
 
+- 1aa) § 82l ods. 3 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení zákona č. 152/2017 Z. z.
+
 - 1b) § 5 zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 1c) § 34 zákona č. 757/2004 Z. z.
