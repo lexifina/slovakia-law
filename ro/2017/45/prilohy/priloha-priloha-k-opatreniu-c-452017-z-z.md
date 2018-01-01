@@ -1,0 +1,1 @@
+Príloha k opatreniu č. 45/2017 Z. z. [Image omitted: https://static.slov-lex.sk/pdf/prilohy/SK/OP/2017/45/20180101_95ace100-f112-4de7-9da0-b1079886bcfb.pdf; príloha (príloha v PDF); reason: too large]
