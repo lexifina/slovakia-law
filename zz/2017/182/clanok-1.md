@@ -2,6 +2,18 @@
 
 Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 523/2004 Z. z., zákona č. 564/2004 Z. z., zákona č. 689/2006 Z. z., zákona č. 245/2008 Z. z., zákona č. 462/2008 Z. z., zákona č. 179/2009 Z. z., zákona č. 184/2009 Z. z., zákona č. 38/2011 Z. z., zákona č. 390/2011 Z. z., zákona č. 325/2012 Z. z., zákona č. 345/2012 Z. z., zákona č. 81/2013 Z. z., zákona č. 464/2013 Z. z., zákona č. 307/2014 Z. z., zákona č. 377/2014 Z. z., zákona č. 61/2015 Z. z., zákona č. 188/2015 Z. z. a zákona č. 125/2016 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 1 ods. 1 písm. b) prvý bod znie:
+
+- „1.
+
+- príspevku na čiastočnú úhradu nákladov na výchovu a vzdelávanie detí materských škôl<sup>2b</sup>) zaradených do siete podľa osobitného predpisu,<sup>5</sup>) ktoré majú jeden rok pred plnením povinnej školskej dochádzky<sup>5a</sup>) alebo ktoré sú členmi domácnosti,<sup>5b</sup>) ktorej členovi sa poskytuje pomoc v hmotnej núdzi<sup>5c</sup>) a zákonný zástupca dieťaťa túto skutočnosť preukáže riaditeľovi materskej školy (ďalej len „príspevok na výchovu a vzdelávanie“),“.
+
+  - Poznámky pod čiarou k odkazom 5b a 5c znejú:
+
+  - „<sup>5b</sup>) § 3 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+  - <sup>5c</sup>) Zákon č. 417/2013 Z. z. v znení neskorších prepisov.“.
+
 - 2. Poznámka pod čiarou k odkazu 7 znie:
 
 - „<sup>7</sup>) § 64 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.
@@ -410,6 +422,66 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
   - <sup>22fb</sup>) Napríklad § 415 a § 417 ods. 1 Občianskeho zákonníka v znení zákona č. 509/1991 Zb., § 7 zákona Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, § 10 ods. 9 a § 14 ods. 3 zákona č. 583/2004 Z. z. v znení neskorších predpisov.“.
 
+- 16. § 4d vrátane nadpisu znie:
+
+- „§ 4d
+
+- Financovanie rozvojových projektov
+
+- (1)
+
+- Ministerstvo môže prideliť z kapitoly ministerstva a z kapitoly ministerstva vnútra účelovo viazané finančné prostriedky na realizáciu rozvojového projektu najviac do výšky
+
+- 10 000 eur. Rozvojový projekt je projekt zameraný na rozvoj výchovy a vzdelávania v školách a školských zariadeniach a služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami.
+
+- (2)
+
+- Žiadosť o financovanie rozvojového projektu predkladá zriaďovateľ verejnej školy, verejnej materskej školy alebo verejného školského zariadenia ministerstvu prostredníctvom príslušného okresného úradu v sídle kraja. Zoznam oblastí rozvojových projektov a výzvy na podanie žiadosti o financovanie rozvojového projektu zverejňuje ministerstvo na svojom webovom sídle v priebehu kalendárneho roka.
+
+- (3)
+
+- Žiadosť podľa odseku 2 obsahuje najmä
+
+- a)
+
+- cieľ projektu,
+
+- b)
+
+- charakteristiku projektu,
+
+- c)
+
+- časový harmonogram realizácie projektu,
+
+- d)
+
+- analýzu finančného zabezpečenia realizácie projektu,
+
+- e)
+
+- doklad o spoluúčasti zriaďovateľa, inej fyzickej osoby alebo právnickej osoby.
+
+- (4)
+
+- Výšku spoluúčasti zriaďovateľa, inej fyzickej osoby alebo právnickej osoby na realizácii rozvojového projektu určuje ministerstvo vo výzve z výšky finančných prostriedkov pridelených ministerstvom na realizáciu rozvojového projektu.
+
+- (5)
+
+- Ministerstvo prideľuje finančné prostriedky na realizáciu rozvojového projektu podľa využitia rozvojového projektu
+
+- a)
+
+- vo výchove a vzdelávaní v školách a školských zariadeniach alebo v službách spojených s výchovou a vzdelávaním poskytovaných verejnými školskými účelovými zariadeniami,
+
+- b)
+
+- v mieste sídla žiadateľa o financovanie rozvojového projektu, v územnej pôsobnosti okresu alebo v územnej pôsobnosti kraja.
+
+- (6)
+
+- Ministerstvo každoročne zverejňuje na svojom webovom sídle zoznam škôl, školských zariadení a ich zriaďovateľov, ktorým boli pridelené finančné prostriedky na realizáciu rozvojového projektu, a výšku pridelených finančných prostriedkov. Tento zoznam ministerstvo aktualizuje najneskôr do piatich pracovných dní po uplynutí kalendárneho štvrťroku.“.
+
 - 17. V § 4e ods. 1 sa vypúšťajú slová „podľa osobitného predpisu<sup>22g</sup>)“.
 
 - 18. V § 4e odsek 7 znie:
@@ -448,6 +520,8 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
   - <sup>22h</sup>) § 14d zákona č. 553/2003 Z. z. v znení zákona č. 390/2011 Z. z.“.
 
+- 19. V § 4e ods. 8 sa číslo „100“ nahrádza číslom „85“ a slová „mzdy a platy asistentov učiteľa pre žiakov zo sociálne znevýhodneného prostredia vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie“ sa nahrádzajú slovami „osobné náklady asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia alebo sociálneho pedagóga“.
+
 - 20. § 4e sa dopĺňa odsekom 9, ktorý znie:
 
 - „(9)
@@ -461,6 +535,20 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
   - Doterajší odsek 7 sa označuje ako odsek 3.
 
   - Poznámky pod čiarou k odkazom 23e a 23f sa vypúšťajú.
+
+- 23. V § 6b ods. 5 úvodnej vete sa vypúšťajú slová „ktoré majú jeden rok pred plnením povinnej školskej dochádzky,“.
+
+- 24. V § 6c odsek 1 znie:
+
+- „(1)
+
+- Ministerstvo môže poskytnúť z kapitoly ministerstva dotáciu zameranú na rozvoj výchovy a vzdelávania v školách a školských zariadeniach, rozvoj služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami a modernizáciu školských objektov. Zoznam oblastí na poskytnutie dotácie podľa prvej vety zverejňuje ministerstvo na svojom webovom sídle.“.
+
+- 25. V § 6c ods. 2 písmeno a) znie:
+
+- „a)
+
+- zriaďovatelia škôl a školských zariadení okrem zriaďovateľa školy a školského zariadenia, ktorým je okresný úrad v sídle kraja,“.
 
 - 26. V § 6c ods. 4 sa za slovo „písomne“ vkladajú slová „bez výzvy“.
 
@@ -481,6 +569,20 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 - 31. V § 7 ods. 8 písm. b) sa vypúšťajú slová „ods. 2 písm. b)“.
 
 - 32. V § 7 ods. 8 písm. d) sa slová „odseku 8“ nahrádzajú slovami „§ 4ae“.
+
+- 33. V § 7 odsek 9 znie:
+
+- „(9)
+
+- Ministerstvo môže prideliť z kapitoly ministerstva vnútra na žiadosť okresného úradu v sídle kraja pre školy a školské zariadenia v jeho zriaďovateľskej pôsobnosti finančné prostriedky podľa naliehavosti riešenia potreby na
+
+- a)
+
+- nákup strojov, prístrojov, zariadení, techniky, náradia a osobných automobilov,
+
+- b)
+
+- výstavbu, prístavbu, modernizáciu a rekonštrukciu školských objektov.“.
 
 - 34. V § 7 ods. 10 sa za slovami „až 6b“ vypúšťa čiarka a slová „§ 7 ods. 8“.
 
