@@ -16,7 +16,7 @@
 
 - 8b) § 26 ods. 4 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon).
 
-- 9) § 10 ods. 10, § 16 ods. 8 a § 18 ods. 7 a 9 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov.
+- 9) § 18 ods. 11 a 14 zákona č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9a) § 3 ods. 2 a 3 zákona č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
 
@@ -42,13 +42,15 @@
 
 - 11f) Vykonávacie rozhodnutie Komisie (EÚ) č. 2011/877/EÚ z 19. decembra 2011, ktorým sa ustanovujú harmonizované referenčné hodnoty účinnosti samostatnej výroby elektriny a tepla pri uplatňovaní smernice Európskeho parlamentu a Rady 2004/8/ES a ktorým sa zrušuje rozhodnutie Komisie 2007/74/ES (Ú. v. EÚ L 343, 23. 12. 2011).
 
+- 11g) §18 vyhlášky Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 453/2006 Z. z. o hospodárskej úprave lesov a o ochrane lesa.
+
 - 12) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme.
 
 - 12a) § 79 ods. 7 zákona č. 364/2004 Z. z. v znení neskorších predpisov.
 
 - 12b) § 8 ods. 2 a § 12 ods. 2 nariadenia vlády Slovenskej republiky č. 755/2004 Z. z.
 
-- 12c) § 10 ods. 10 zákona č. 414/2012 Z. z.
+- 12c) § 18 ods. 11 zákona č. 414/2012 Z. z.
 
 - 12d) Príloha č. 1 tabuľky A a B zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
 
@@ -63,6 +65,14 @@
 - 12h) § 26 ods. 4 a 5 zákona č. 414/2012 Z. z.
 
 - 12i) § 26 odsek 4 zákona č. 414/2012 Z. z.
+
+- 12j) § 25 písm. f) zákona č. 7/2010 Z. z. o ochrane pred povodňami v znení zákona č. 292/2017 Z. z.
+
+- 12k) § 36 ods. 1 písm. z) zákona č. 569/2007 Z. z. v znení zákona č. 292/2017 Z. z.
+
+- 12l) § 31 ods. 2 vyhlášky Ministerstva vnútra Slovenskej republiky č. 611/2006 Z. z. o hasičských jednotkách.
+
+- 12m) § 6 ods. 3 písm. aa) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
 
 - 13) § 30 ods. 2 zákona č. 523/2004 Z. z.
 
