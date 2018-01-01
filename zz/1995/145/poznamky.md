@@ -68,8 +68,6 @@
 
 - 8) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 8a) § 106 ods. 3 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
-
 - 8aa) § 3 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 8ab) § 2 zákona č. 659/2007 Z. z. v znení zákona č. 270 /2008 Z. z.
@@ -587,3 +585,5 @@
 - 47ag) § 11 ods. 16 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
+
+- 48) Dohoda o Vyšehradskom patentovom inštitúte (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 369/2015 Z. z.).
