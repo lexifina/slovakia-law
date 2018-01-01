@@ -12,6 +12,10 @@
 
 - 4) § 2 ods. 5 zákona č. 483/2001 Z. z.
 
+- 4a) Napríklad nariadenie Európskej centrálnej banky (EÚ) 2016/867 z 18. mája 2016 o zbere podrobných údajov o úveroch a kreditnom riziku (ECB/2016/13) (Ú. v. EÚ L 144, 1. 6. 2016).
+
+- 4b) Napríklad § 38 zákona č. 483/2001 Z. z. v znení neskorších predpisov, nariadenie (EÚ) 2016/867.
+
 - 5) § 91 a 92 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - § 8 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení zákona č. 747/2004 Z. z.
