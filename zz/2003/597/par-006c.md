@@ -1,10 +1,10 @@
 # § 6c Dotácie
 
-(1) Ministerstvo môže poskytnúť z kapitoly ministerstva dotáciu zameranú na rozvoj výchovy a vzdelávania. Zoznam oblastí zameraných na rozvoj výchovy a vzdelávania zverejňuje ministerstvo na svojom webovom sídle.
+(1) Ministerstvo môže poskytnúť z kapitoly ministerstva dotáciu zameranú na rozvoj výchovy a vzdelávania v školách a školských zariadeniach, rozvoj služieb spojených s výchovou a vzdelávaním poskytovaných školskými účelovými zariadeniami a modernizáciu školských objektov. Zoznam oblastí na poskytnutie dotácie podľa prvej vety zverejňuje ministerstvo na svojom webovom sídle.
 
 (2) Dotáciu na činnosti podľa odseku 1 (ďalej len „aktivity“) možno poskytnúť po splnení podmienok podľa tohto zákona a podľa osobitného predpisu<sup>23i</sup>) žiadateľom, ktorými sú:
 
-- a) zriaďovatelia <sup>24a</sup>) základných umeleckých škôl, materských škôl, jazykových škôl a školských zariadení,
+- a) zriaďovatelia škôl a školských zariadení okrem zriaďovateľa školy a školského zariadenia, ktorým je okresný úrad v sídle kraja,
 
 - b) občianske združenia,<sup>23j</sup>) nadácie<sup>23k</sup>) a neziskové organizácie poskytujúce všeobecne prospešné služby<sup>23l</sup>) alebo štátom uznaná cirkev alebo náboženská spoločnosť,<sup>23m</sup>) ktoré nie sú zriaďovateľmi škôl a školských zariadení a podieľajú sa na výchove a vzdelávaní v školách a v školských zariadeniach,
 

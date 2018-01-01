@@ -34,6 +34,6 @@
 
 - f) príplatok za prácu so žiakmi zo sociálne znevýhodneného prostredia.<sup>22h</sup>)
 
-(8) Zriaďovateľ základnej školy, v ktorej sa vzdeláva viac ako 100 žiakov zo sociálne znevýhodneného prostredia, je povinný použiť najmenej 50 % z celkového príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia pre základnú školu na mzdy a platy asistentov učiteľa pre žiakov zo sociálne znevýhodneného prostredia vrátane poistného na povinné verejné zdravotné poistenie, poistného na sociálne poistenie, príspevku na starobné dôchodkové sporenie a príspevku na doplnkové dôchodkové sporenie.
+(8) Zriaďovateľ základnej školy, v ktorej sa vzdeláva viac ako 85 žiakov zo sociálne znevýhodneného prostredia, je povinný použiť najmenej 50 % z celkového príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia pre základnú školu na osobné náklady asistenta učiteľa pre žiakov zo sociálne znevýhodneného prostredia alebo sociálneho pedagóga.
 
 (9) Výšku príspevku na skvalitnenie podmienok na výchovu a vzdelávanie na žiaka zo sociálne znevýhodneného prostredia každoročne zverejňuje ministerstvo na svojom webovom sídle.

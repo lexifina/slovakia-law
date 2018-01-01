@@ -10,6 +10,10 @@
 
 - 5a) § 19 zákona č. 245/2008 Z. z.
 
+- 5b) § 3 zákona č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov.
+
+- 5c) Zákon č. 417/2013 Z. z. v znení neskorších prepisov.
+
 - 6) § 6 ods. 1, § 9 ods. 1 a § 10 ods. 1 písm. a) až c) a e) až h) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
 - 7) § 64 ods. 3 zákona č. 245/2008 Z. z. v znení neskorších predpisov.

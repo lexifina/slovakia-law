@@ -18,7 +18,7 @@
 
 - b) podľa odseku 3 písm. b) upraví finančné prostriedky na nový školský rok pre jednotlivé materské školy<sup>2b</sup>) vo svojej zriaďovateľskej pôsobnosti.
 
-(5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky, a to len na
+(5) Finančné prostriedky pridelené zriaďovateľovi podľa odseku 1 možno použiť na aktivity súvisiace s výchovou a vzdelávaním detí, a to len na
 
 - a) osobný príplatok alebo odmenu zamestnancov materskej školy<sup>2b</sup>) podľa osobitného predpisu,<sup>23h</sup>) ktorí sa podieľajú na výchove a vzdelávaní detí,
 
