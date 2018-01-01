@@ -2,7 +2,7 @@
 
 (1) Odbornú spôsobilosť pre živnosti zaradené do zoznamu III spĺňa osoba spoločenstva, ktorá vykonávala príslušnú činnosť po dobu
 
-- a) troch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra<sup>42b</sup>) alebo
+- a) troch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra alebo
 
 - b) dvoch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce vzdelanie, alebo
 
