@@ -186,6 +186,8 @@
 
 - 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
+- 35e) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
+
 - 36) Zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 37) Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
