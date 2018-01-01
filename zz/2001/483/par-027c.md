@@ -6,7 +6,7 @@
 
 - b) spotrebiteľ podá banke alebo pobočke zahraničnej banky písomnú žiadosť o poskytnutie základného bankového produktu,
 
-- c) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu v banke a pobočke zahraničnej banky zriadený platobný účet okrem vkladového účtu,<sup>27fa</sup>) peňažného vkladu potvrdeného vkladnou knižkou alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou, sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov,
+- c) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu v banke a pobočke zahraničnej banky zriadený platobný účet okrem vkladového účtu,<sup>27fa</sup>) osobitného účtu dlžníka podľa § 27f, peňažného vkladu potvrdeného vkladnou knižkou alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou, sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov,
 
 - d) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu čistý mesačný príjem vyšší ako 400 eur,
 
@@ -18,7 +18,7 @@
 
 (3) Ak spotrebiteľ požiada poskytovateľa platobných služieb, u ktorého má vedený platobný účet, o zmenu platobného účtu na základný bankový produkt, poskytovateľ platobných služieb je povinný túto zmenu vykonať bezodkladne a bezplatne.
 
-(4) Spotrebiteľ si v období, počas ktorého mu banka alebo pobočka zahraničnej banky poskytuje základný bankový produkt, nesmie zriadiť žiaden ďalší platobný účet okrem vkladového účtu, peňažného vkladu potvrdeného vkladnou knižkou v banke a pobočke zahraničnej banky alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou alebo sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov.
+(4) Spotrebiteľ si v období, počas ktorého mu banka alebo pobočka zahraničnej banky poskytuje základný bankový produkt, nesmie zriadiť žiaden ďalší platobný účet okrem vkladového účtu, osobitného účtu dlžníka podľa § 27f, peňažného vkladu potvrdeného vkladnou knižkou v banke a pobočke zahraničnej banky alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou alebo sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov.
 
 (5) Ak banka a pobočka zahraničnej banky zistia nepravdivosť čestného vyhlásenia podľa odseku 2 alebo nedodržanie ustanovenia odseku 3, banka a pobočka zahraničnej banky zrušia poskytovanie základného bankového produktu spotrebiteľovi, ak sa banka alebo pobočka zahraničnej banky nedohodnú so spotrebiteľom inak.
 

@@ -84,6 +84,12 @@
 
 - 13mb) § 2 ods. 9 zákona č. 492/2009 Z. z.
 
+- 13mc) § 167o ods. 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 13n) § 118 ods. 2, § 119 ods. 2, § 151a až 151me a § 555 Občianskeho zákonníka v znení neskorších predpisov.
+
+- Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 13o) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 1093/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre bankovníctvo) a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/78/ES (Ú. v. EÚ L 331, 15. 12. 2010).
 
 - 14) Napríklad Civilný sporový poriadok, zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov, § 90 až 95 zákona č. 492/2009 Z. z.
@@ -138,10 +144,6 @@
 
 - 24aa) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
 
-- 24ab) Napríklad § 14 až 17 a § 20 zákona č. 530/1990 Zb. v znení neskorších predpisov, § 73j ods. 2 zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
-
-- 24ac) Napríklad § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
-
 - 24aaa) Čl. 4 ods. 1 bod 16 nariadenia (EÚ) č. 575/2013.
 
 - § 22 ods. 4 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
@@ -178,7 +180,7 @@
 
 - 25aea) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
 
-- 25af) Čl. 28, 52 a 63 nariadenia (EÚ) č. 575/2013.
+- 25af) Čl. 52 alebo 63 nariadenia (EÚ) č. 575/2013.
 
 - 26a) § 2 ods. 2 a § 23 Obchodného zákonníka.
 
@@ -226,9 +228,21 @@
 
 - 27fbc) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
+- 27fbd) § 167o ods. 4 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 27g) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 28) § 476 až 488 Obchodného zákonníka.
+
+- 28a) § 32 až 83 a 195a zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+
+- 28b) § 5 Obchodného zákonníka.
+
+- § 28 Zákonníka práce v znení zákona č. 348/2007 Z. z.
+
+- 28c) § 478 Obchodného zákonníka.
+
+- § 42a a 42b Občianskeho zákonníka v znení neskorších predpisov.
 
 - 29) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
@@ -398,6 +412,8 @@
 
 - Opatrenie Národnej banky Slovenska z 22. novembra 2011 č. 17/2011 o predkladaní výkazov bankami, pobočkami zahraničných bánk, obchodníkmi s cennými papiermi a pobočkami zahraničných obchodníkov s cennými papiermi na štatistické účely (oznámenie č. 24/2012 Z. z.).
 
+- 35da) Napríklad nariadenie Európskej centrálnej banky (EÚ) 2016/867 z 18. mája 2016 o zbere podrobných údajov o úveroch a kreditnom riziku (ECB/2016/13) (Ú. v. EÚ L 144, 1. 6. 2016).
+
 - 36) § 36 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
 - 37) Zákon č. 428/2002 Z. z. o ochrane osobných údajov.
@@ -506,6 +522,8 @@
 
 - 52) § 3 až 107 a § 176 až 195 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
 
+- 52a) § 3 ods. 6 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
 - 53) § 42a a 42b Občianskeho zákonníka.
 
 - 53a) § 151me Občianskeho zákonníka v znení neskorších predpisov.
@@ -536,33 +554,49 @@
 
 - 60c) § 10 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
-- 61) § 14 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+- 61) § 20b zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
-- 62) § 20 ods. 1 písm. a) zákona č. 530/1990 Zb. v znení neskorších predpisov.
+- 61a) § 2 ods. 1 písm. t) zákona č. 530/2003 Z. z. v znení zákona č. 91/2016 Z. z.
 
-- 62a) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
+- 61aa) §195a ods. 2 až 8 zákona č. 7/2005 Z. z. v znení zákona č. 279/2007 Z. z.
 
-- 63) § 139 ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona Národnej rady Slovenskej republiky č. 199/1995 Z. z.
+- 61ab) § 61q ods. 1 zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení zákona č. 2/2017 Z. z.
 
-- 64) § 18 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+- 61b) § 1 ods. 3 zákona č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
 
-- 64a) Napríklad § 8, § 28 ods. 2, § 69 a § 176 až 196 zákona č. 7/2005 Z. z. v znení neskorších predpisov.
+- 61c) Čl. 178 ods. 1 nariadenia (EÚ) č. 575/2013.
 
-- 65) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení zákona Národnej rady Slovenskej republiky č. 222/1996 Z. z.
+- 62) Zákon č. 371/2014 Z. z. v znení neskorších predpisov.
 
-- 66) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
+- 62a) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
 
-- § 17 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky, Ministerstva financií Slovenskej socialistickej republiky a predsedu Štátnej banky československej č. 36/1985 Zb. o finančnej, úverovej a inej pomoci družstevnej individuálnej bytovej výstavbe a modernizácii rodinných domčekov v osobnom vlastníctve v znení neskorších predpisov.
+- § 6 ods. 2 opatrenia Národnej banky Slovenska z 13. decembra 2016 č. 10/2016, ktorým sa ustanovujú podrobnosti o posúdení schopnosti spotrebiteľa splácať úver na bývanie (oznámenie č. 373/2016 Z. z.).
 
-- 66a) § 151k ods. 3 Občianskeho zákonníka.
+- 63) § 15 ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
-- 66b) § 16 až 18b zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+- § 8 ods. 16 a § 9 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+
+- 64) § 8 ods. 16 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+
+- § 8 opatrenia č. 10/2016 (oznámenie č. 373/2016 Z. z.).
+
+- 64a) Čl. 129 ods.1 písm. c) nariadenia (EÚ) č. 575/2013.
+
+- 64b) Usmernenie Európskej centrálnej banky (EÚ) 2015/510 (ECB/2014/60) z 19. decembra 2014 o vykonávaní rámca menovej politiky Eurosystému (Ú. v. EÚ L 91, 2. 4. 2015) v platnom znení.
+
+- 65) § 5 ods. 1 písm. d) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+- 66) Čl. 30 delegovaného nariadenia Komisie (EÚ) 2016/2251 zo 4. októbra 2016, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov, pokiaľ ide o regulačné technické predpisy pre postupy zmierňovania rizika pre zmluvy o mimoburzových derivátoch, ktoré centrálna protistrana nezúčtovala (Ú. v. EÚ L 340, 15. 12. 2016) v platnom znení.
+
+- Odsek 6.4.1 Prílohy k nariadenia Komisie (EÚ) 2016/2067 z 22. novembra 2016, ktorým sa mení nariadenie (ES) č. 1126/2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy, pokiaľ, ide o medzinárodný štandard finančného výkazníctva 9 (Ú. v. EÚ L 323, 29. 11. 2016) v platnom znení.
+
+- 66a) Čl. 10 a 11 delegovaného nariadenia Komisie (EÚ) 2015/61 z 10. októbra 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o požiadavku na krytie likvidity pre úverové inštitúcie (Ú. v. EÚ L 11, 17. 1. 2015).
+
+- 66b) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
+
+- 66c) Napríklad § 34b ods. 1 písm. a) až c) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, § 36 ods. 2 až 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 67) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
-
-- 68) § 16 ods. 4 a 5 a § 20 ods. 4 zákona č. 530/1990 Zb. v znení neskorších predpisov.
-
-- 71) § 43b ods. 3 až 6 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.
 
 - 72) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.
 
@@ -638,7 +672,7 @@
 
 - 86d) § 2 ods. 1 písm. d) a ods. 2 zákona Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení zákona č. 256/1999 Z. z.
 
-- 86da) § 2 ods. 1 písm. b) až d) zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
+- 86da) § 2 ods. 1 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení neskorších predpisov.
 
 - 86db) § 11 ods. 2 zákona č. 199/2004 Z. z. v znení neskorších predpisov.
 
@@ -741,3 +775,7 @@
 - 99) § 3 ods. 4 až 9 zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
 
 - 100) § 32 ods. 1 zákona č. 492/2009 Z. z.
+
+- 101) § 3 ods. 6 a 11 a § 27f ods. 1 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 102) § 3 ods. 8 až 10 zákona č. 530/1990 Zb. v znení neskorších predpisov.

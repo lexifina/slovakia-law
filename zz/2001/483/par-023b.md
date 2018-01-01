@@ -8,9 +8,9 @@
 
 - c) motivačná zložka odmeny, ktorej výška závisí od plnenia dosahovaných výsledkov dlhodobej obchodnej stratégie a záujmov banky,
 
-- d) cenné papiere, ktorých možnosť obchodovania na trhu s cennými papiermi bude odložená najmenej o tri roky od ich vydania osobe podľa § 23a ods. 1,
+- d) cenné papiere,
 
-- e) iné finančné nástroje, ktoré primerane odrážajú kreditnú kvalitu banky pri pokračovaní jej činnosti vrátane nástrojov podľa osobitného predpisu<sup>25af</sup>) a
+- e) vždy, ak je to možné, iné finančné nástroje podľa osobitného predpisu<sup>25af</sup>) alebo iné nástroje, ktoré možno plne konvertovať na nástroje kapitálu Tier 1 alebo odpísať, pričom musí byť zabezpečené, že tieto nástroje primerane odrážajú kreditnú kvalitu banky pri pokračovaní jej činnosti,
 
 - f) dobrovoľné platby dôchodkového zabezpečenia.
 

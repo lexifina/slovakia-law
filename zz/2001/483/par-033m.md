@@ -4,7 +4,7 @@ Národná banka Slovenska rozhodne o
 
 - a) určení preferenčnej rizikovej váhy vo výške od 35 % do 150 % na úvery úplne zabezpečené nehnuteľným majetkom určeným na bývanie podľa osobitného predpisu,<sup>30zl</sup>)
 
-- b) určení preferenčnej rizikovej váhy vo výške od 50 % do 150 % na časť expozície zabezpečenú hypotékami na nehnuteľný majetok určený na podnikanie, ktorá nepresiahne 50 % trhovej hodnoty nehnuteľnosti alebo 60 % hodnoty na hypotekárne financovanie príslušnej nehnuteľnosti podľa osobitného predpisu,<sup>30zl</sup>)
+- b) určení preferenčnej rizikovej váhy vo výške od 50 % do 150 % na časť expozície zabezpečenú záložným právom na nehnuteľný majetok určený na podnikanie, ktorá nepresiahne 50 % trhovej hodnoty nehnuteľnosti alebo 60 % hodnoty na úverové financovanie príslušnej nehnuteľnosti podľa osobitného predpisu,<sup>30zl</sup>)
 
 - c) určení prísnejších kritérií na časť expozície, ktorá sa považuje za zabezpečenú nehnuteľnosťou na bývanie podľa osobitného predpisu,<sup>30zm</sup>)
 
