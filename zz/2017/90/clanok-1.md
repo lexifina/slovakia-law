@@ -90,6 +90,20 @@ Zákon č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v
 
 - 13. V § 52 ods. 30 sa slová „vždy do 30. apríla“ nahrádzajú slovami „najneskôr do 15. júla“.
 
+- 14. § 54 sa dopĺňa odsekom 5, ktorý znie:
+
+- „(5)
+
+- Výrobca obalov, ktorý poskytuje ľahké plastové tašky k nákupu tovaru alebo výrobkov, je povinný
+
+- a)
+
+- poskytovať ich za úhradu; táto povinnosť sa nevzťahuje na poskytovanie veľmi ľahkých plastových tašiek,
+
+- b)
+
+- poskytovať aj iné druhy tašiek.“.
+
 - 15. V § 69 ods. 8 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „spätný zber odpadových pneumatík sa môže vykonávať aj na zbernom dvore alebo na inom mieste určenom obcou.“.
 
 - 16. V § 70 písm. b) sa vypúšťajú slová „prostredníctvom distribútora odpadových pneumatík“.
