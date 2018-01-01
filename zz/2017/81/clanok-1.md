@@ -52,6 +52,12 @@ Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektor
 
 - Určený zamestnanec úradu uvedie na potvrdení o dočasnej pracovnej neschopnosti uchádzača o zamestnanie údaje o čase a mieste vykonanej kontroly dodržiavania liečebného režimu, potvrdí ich svojím podpisom a zistené porušenie dodržiavania liečebného režimu oznámi ošetrujúcemu lekárovi.“.
 
+- 10. V § 34 ods. 1 prvej vete sa za slová „písomnej žiadosti“ vkladajú slová „alebo na základe žiadosti podanej elektronickými prostriedkami podpísanej kvalifikovaným elektronickým podpisom<sup>35e</sup>)“ a za slovami „odo dňa“ sa vypúšťa slovo „osobného“.
+
+  - Poznámka pod čiarou k odkazu 35e znie:
+
+  - „<sup>35e</sup>) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).“.
+
 - 11. V § 34 odsek 5 znie:
 
 - „(5)
