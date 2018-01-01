@@ -18,6 +18,8 @@
 
 - 9a) Napríklad zákon č. 80/1997 Z. z. o Exportno-importnej banke Slovenskej republiky v znení neskorších predpisov.
 
+- 9b) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 10a) § 13 ods. 1 písm. f) zákona č. 523/2004 Z. z.
 
 - 11) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z.
