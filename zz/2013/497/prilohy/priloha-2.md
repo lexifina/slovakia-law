@@ -6,19 +6,19 @@ Príloha č. 2 k nariadeniu vlády č. 497/2013 Z. z.
 
 - | Kategória vozidla | EURO O - II | EURO III, IV | EURO V, VI a EEV
 
-- Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,103 | 0,093 | 0,080
+- Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,105 | 0,095 | 0,082
 
-- | 12 000 kg a viac – 2 nápravy | 0,220 | 0,199 | 0,172
+- | 12 000 kg a viac – 2 nápravy | 0,224 | 0,203 | 0,176
 
-- | 12 000 kg a viac – 3 nápravy | 0,232 | 0,210 | 0,181
+- | 12 000 kg a viac – 3 nápravy | 0,237 | 0,214 | 0,185
 
-- | 12 000 kg a viac – 4 nápravy | 0,241 | 0,218 | 0,188
+- | 12 000 kg a viac – 4 nápravy | 0,246 | 0,222 | 0,192
 
-- | 12 000 kg a viac – 5 náprav | 0,232 | 0,210 | 0,181
+- | 12 000 kg a viac – 5 náprav | 0,237 | 0,214 | 0,185
 
-- BUS** | 3 500 kg – 12 000 kg* | 0,040 | 0,030 | 0,020
+- BUS** | 3 500 kg – 12 000 kg* | 0,041 | 0,031 | 0,021
 
-- | 12 000 kg a viac* | 0,080 | 0,070 | 0,04
+- | 12 000 kg a viac* | 0,082 | 0,072 | 0,041
 
 - * Jednotne pre akýkoľvek počet náprav.
 
@@ -26,27 +26,27 @@ Príloha č. 2 k nariadeniu vlády č. 497/2013 Z. z.
 
 - 2. SADZBY MÝTA ZA UŽÍVANIE VYMEDZENÝCH ÚSEKOV CIEST I. TRIEDY, KTORÉ NIE SÚ SÚBEŽNÉ S DIAĽNICAMI A RÝCHLOSTNÝMI CESTAMI
 
-  - eur/km bez DPH
+- eur/km bez DPH
 
-- | Kategória vozidla | EURO 0 – II | EURO III, IV | EURO V, VI a EEV
+- | Kategória vozidla | EURO O - II | EURO III, IV | EURO V, VI a EEV
 
-- Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,080 | 0,072 | 0,062
+- Nákladné vozidlá | 3 500 kg – 12 000 kg* | 0,082 | 0,074 | 0,064
 
-- | 12 000 kg a viac – 2 nápravy | 0,172 | 0,156 | 0,133
+- | 12 000 kg a viac – 2 nápravy | 0,176 | 0,159 | 0,136
 
-- | 12 000 kg a viac – 3 nápravy | 0,181 | 0,164 | 0,140
+- | 12 000 kg a viac – 3 nápravy | 0,185 | 0,167 | 0,143
 
-- | 12 000 kg a viac – 4 nápravy | 0,185 | 0,167 | 0,143
+- | 12 000 kg a viac – 4 nápravy | 0,189 | 0,171 | 0,146
 
-- | 12 000 kg a viac – 5 a viac náprav | 0,181 | 0,164 | 0,140
+- | 12 000 kg a viac – 5 náprav | 0,185 | 0,167 | 0,143
 
-- BUS** | 3 500 kg – 12 000 kg* | 0,040 | 0,030 | 0,020
+- BUS** | 3 500 kg – 12 000 kg* | 0,041 | 0,031 | 0,021
 
-- | 12 000 kg a viac* | 0,080 | 0,070 | 0,040
+- | 12 000 kg a viac* | 0,082 | 0,072 | 0,041
 
-  - * Jednotne pre akýkoľvek počet náprav.
+- * Jednotne pre akýkoľvek počet náprav.
 
-  - **BUS – vozidlá umožňujúce prepravu viac ako deviatich osôb vrátane vodiča.
+- ** BUS – vozidlá umožňujúce prepravu viac ako deviatich osôb vrátane vodiča.
 
 - 3. SADZBY MÝTA ZA UŽÍVANIE VYMEDZENÝCH ÚSEKOV OSTATNÝCH CIEST I. TRIEDY
 
