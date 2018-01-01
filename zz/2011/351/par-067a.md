@@ -26,7 +26,7 @@
 
 - c) zaistenia bezpečnosti a ochrany verejného zdravia,
 
-- d) zabezpečenia integrity a bezpečnosti akejkoľvek siete, najmä prvkov kritickej infraštruktúry,<sup>51c</sup>) ochrany utajovaných skutočností<sup>16</sup>) a citlivých informácií,<sup>51d</sup>)
+- d) zabezpečenia integrity a bezpečnosti akejkoľvek siete, najmä prvkov kritickej infraštruktúry,<sup>51c</sup>) jadrových zariadení,<sup>51ca</sup>) ochrany utajovaných skutočností<sup>16</sup>) a citlivých informácií,<sup>51d</sup>)
 
 - e) rizika škodlivého rušenia plánovaných elektronických komunikačných služieb poskytovaním iných služieb prostredníctvom tej istej fyzickej infraštruktúry,
 

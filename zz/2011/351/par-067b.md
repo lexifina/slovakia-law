@@ -1,14 +1,18 @@
 # § 67b Informácie o dostupnosti fyzickej infraštruktúry
 
-(1) Ak tento zákon neustanovuje inak, sú ústredné orgány štátnej správy, miestne orgány štátnej správy, vyššie územné celky a obce (ďalej len „povinná osoba“) a prevádzkovatelia sietí povinní na základe písomnej žiadosti podniku poskytnúť
+(1) Ak tento zákon neustanovuje inak a ak tieto informácie už nie sú sprístupnené prostredníctvom jednotného informačného miesta, ústredné orgány štátnej správy, miestne orgány štátnej správy, vyššie územné celky a obce (ďalej len „povinná osoba“) a prevádzkovatelia sietí sú povinní na základe písomnej žiadosti podniku poskytnúť tieto minimálne informácie o dostupnosti existujúcej fyzickej infraštruktúry:
 
-- a) informácie o dostupnosti existujúcej fyzickej infraštruktúry najmenej v rozsahu umiestnenie a trasa, typ a súčasné využívanie fyzickej infraštruktúry a kontaktné údaje prevádzkovateľa siete v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa a
+- a) základné technické parametre a určenie druhu fyzickej infraštruktúry,
 
-- b) informácie o plánovaných alebo prebiehajúcich stavbách v rozsahu miesto a druh stavby, časti fyzickej infraštruktúry, ktoré sú predmetom alebo súčasťou stavby, odhadovaný dátum začatia stavby a jej trvanie a kontaktné údaje osoby poverenej vedením uskutočňovania stavby v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa.
+- b) umiestnenie fyzickej infraštruktúry vymedzené obcou, katastrálnym územím a číslom parcely,
+
+- c) údaje o súčasnom využívaní fyzickej infraštruktúry a
+
+- d) údaje kontaktnej osoby prevádzkovateľa siete v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa.
 
 (2) Podnik v žiadosti podľa odseku 1 uvedie kontaktné údaje žiadateľa v rozsahu meno, priezvisko, adresa na doručovanie, telefonický kontakt a emailová adresa a jednoznačne identifikuje geografickú oblasť, v ktorej plánuje umiestniť vedenia alebo telekomunikačné zariadenia vysokorýchlostnej siete.
 
-(3) Povinnosť podľa odseku 1 sa nevzťahuje na informácie týkajúce sa prvkov kritickej infraštruktúry, informácie, ktoré sú predmetom obchodného tajomstva alebo utajovanou skutočnosťou,<sup>16</sup>) na citlivé informácie<sup>51d</sup>) a na informácie, ktorých poskytnutím by mohlo dôjsť k ohrozeniu bezpečnosti alebo integrity akejkoľvek siete.
+(3) Povinnosť podľa odseku 1 sa nevzťahuje na informácie týkajúce sa prvkov kritickej infraštruktúry, jadrových zariadení, prvkov infraštruktúry siete Govnet,<sup>51da</sup>) informácie, ktoré sú predmetom obchodného tajomstva alebo utajovanou skutočnosťou,<sup>16</sup>) na citlivé informácie<sup>51d</sup>) a na informácie, ktorých poskytnutím by mohlo dôjsť k ohrozeniu bezpečnosti alebo integrity akejkoľvek siete.
 
 (4) Ak povinná osoba má informácie podľa odseku 1 k dispozícii, sprístupní ich podniku najneskôr do dvoch mesiacov odo dňa doručenia písomnej žiadosti. V rovnakej lehote podniku sprístupní informácie na základe písomnej žiadosti aj prevádzkovateľ siete za primeraných, nediskriminačných a transparentných podmienok. Takto získané informácie možno použiť len na účely ustanovené týmto paragrafom.
 

@@ -30,6 +30,10 @@
 
 - 10) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií v znení zákona č. 560/2008 Z. z.
 
+- 10a) Čl. 6c nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012) v platnom znení.
+
+- Čl. 5 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/2120 z 25. novembra 2015, ktorým sa ustanovujú opatrenia týkajúce sa prístupu k otvorenému internetu a ktorým sa mení smernica 2002/22/ES o univerzálnej službe a právach užívateľov týkajúcich sa elektronických komunikačných sietí a služieb a nariadenie (EÚ) č. 531/2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (Ú. v. EÚ L 310, 26. 11. 2015).
+
 - 11) Napríklad § 68 zákona č. 308/2000 Z. z. v znení neskorších predpisov.
 
 - 11a) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
@@ -47,6 +51,8 @@
 - 18) § 2 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 19) § 16 ods.1 zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
+
+- 19a) § 34 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
 - 20) Nariadenie vlády Slovenskej republiky č. 443/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na rádiové zariadenia a koncové telekomunikačné zariadenia.
 
@@ -78,11 +84,7 @@
 
 - § 17 a 52 zákona č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov.
 
-- 31a) Nariadenie Európskeho parlamentu a Rady (ES) č. 765/2008 z 9. júla 2008, ktorým sa stanovujú požiadavky akreditácie a dohľadu nad trhom v súvislosti s uvádzaním výrobkov na trh a ktorým sa zrušuje nariadenie (EHS) č. 339/93 (Ú. v. EÚ L 218, 13. 8. 2008).
-
 - 32) § 9 ods. 3 a § 12 ods. 8 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 32a) Nariadenie vlády Slovenskej republiky č. 194/2005 Z. z.
 
 - 33) Napríklad § 9 až 11, 40 až 54, 69 a 70 zákona č. 220/2007 Z. z. v znení zákona č. 532/2010 Z. z., § 30 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
@@ -91,6 +93,8 @@
 - 35) § 11 ods. 2 zákona č. 540/2001 Z. z. o štátnej štatistike.
 
 - 35a) Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 35b) Čl. 3 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/758 z 29. apríla 2015 o požiadavkách typového schválenia pri zavádzaní palubného systému eCall využívajúceho službu tiesňovej linky 112 a o zmene smernice 2007/46/ES (Ú. v. EÚ L 123, 19. 5. 2015) v platnom znení.
 
 - 36) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
@@ -109,6 +113,8 @@
 - 39a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
 
 - 39b) § 4 zákona č. 220/2007 Z. z. v znení zákona č. 498/2009 Z. z.
+
+- 39c) Čl. 4 ods. 1 nariadenia (EÚ) 2015/2120.
 
 - 40) § 19 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
@@ -170,7 +176,11 @@
 
 - 51c) Zákon č. 45/2011 o kritickej infraštruktúre.
 
-- 51d) § 3 ods. 14 a 15 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 51ca) § 2 písm. f) zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 51d) § 3 ods. 16 a 17 zákona č. 541/2004 Z. z. v znení neskorších predpisov.
+
+- 51da) § 2 ods. 1 písm. u) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 51e) § 2 písm. a) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov.
 
@@ -186,13 +196,17 @@
 
 - 53) Čl. 107 až 109 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C115, 9. 5. 2008).
 
+- 53a) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 54) § 8a ods. 4 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
 - 55) § 8a ods. 5 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
 - 56) § 8a ods. 8 zákona č. 523/2004 Z. z. v znení zákona č. 383/2008 Z. z.
 
-- 57) Čl. 3 ods. 1, 5 až 7, čl. 4 ods. 1 až 5, čl. 5 ods. 1, čl. 7 až 14 a čl. 15 ods. 1 až 3, 5 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 531/2012 z 13. júna 2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (prepracované znenie) (Ú. v. EÚ L 172, 30. 6. 2012) v platnom znení. Čl. 3 ods. 2 až 5, čl. 4 ods. 1 a 2 a čl. 5 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/2120 z 25. novembra 2015, ktorým sa ustanovujú opatrenia týkajúce sa prístupu k otvorenému internetu a ktorým sa mení smernica 2002/22/ES o univerzálnej službe a právach užívateľov týkajúcich sa elektronických komunikačných sietí a služieb a nariadenie (EÚ) č. 531/2012 o roamingu vo verejných mobilných komunikačných sieťach v rámci Únie (Ú. v. EÚ L 310, 26. 11. 2015).
+- 57) Nariadenie (EÚ) č. 531/2012.
+
+- Nariadenie (EÚ) č. 2015/2120.
 
 - 58a) § 28 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
