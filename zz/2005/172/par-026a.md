@@ -2,7 +2,7 @@
 
 (1) Účelom hodnotenia spôsobilosti osôb podľa § 7 na vykonávanie výskumu a vývoja (ďalej len „hodnotenie spôsobilosti“), ktorým sa poskytuje podpora na výskum a vývoj podľa § 16 ods. 2 písm. a), je hodnotiť kvalitu vykonávaného výskumu a vývoja a efektívnosť použitia poskytnutých finančných prostriedkov.
 
-(2) Odborným hodnotiteľským orgánom ministerstva školstva, ktorý vykonáva hodnotenie spôsobilosti, je hodnotiteľská komisia, ktorá sa skladá z predsedu, podpredsedu a ďalších členov (ďalej len „člen komisie“), ktorých vymenúva a odvoláva minister školstva na základe návrhov ústredných orgánov, v ktorých zriaďovateľskej pôsobnosti alebo vecnej pôsobnosti sú právnické osoby podľa § 7 písm. a) uskutočňujúce výskum a vývoj, na základe návrhov orgánov reprezentácie vysokých škôl, Slovenskej akadémie vied a reprezentatívnych združení zamestnávateľov.
+(2) Odborným hodnotiteľským orgánom ministerstva školstva, ktorý vykonáva hodnotenie spôsobilosti, je hodnotiteľská komisia, ktorá sa skladá z predsedu, podpredsedu a ďalších členov (ďalej len „člen komisie“), ktorých vymenúva a odvoláva minister školstva na základe návrhov ústredných orgánov, v ktorých zriaďovateľskej pôsobnosti alebo vecnej pôsobnosti sú právnické osoby podľa § 7 písm. a) a b) uskutočňujúce výskum a vývoj, na základe návrhov orgánov reprezentácie vysokých škôl, Slovenskej akadémie vied a reprezentatívnych združení zamestnávateľov.
 
 (3) Hodnotiteľská komisia má 15 členov, z ktorých desať členov sú zástupcovia aplikovaného výskumu, zástupcovia vývoja a zástupcovia podnikateľskej sféry. Za člena hodnotiteľskej komisie môže byť vymenovaná len bezúhonná fyzická osoba podľa § 14 ods. 3. Bezúhonnosť sa preukazuje výpisom z registra trestov, nie starším ako tri mesiace.
 
@@ -36,13 +36,13 @@
 
 (8) Minister školstva môže upraviť rozsah a štruktúru ukazovateľov podľa odseku 7 s prihliadnutím na zaradenie hodnotenej osoby do sektora výskumu a vývoja podľa § 7.
 
-(9) Na právnické osoby podľa § 7 písm. b) a organizácie Slovenskej akadémie vied sa odseky 1 až 8 nevzťahujú.
+(9) Na právnické osoby podľa § 7 písm. c) a organizácie Slovenskej akadémie vied sa odseky 1 až 8 nevzťahujú.
 
 (10) Hodnotiteľská komisia je oprávnená pre plnenie svojich úloh požadovať od hodnotenej osoby informácie, podklady a súčinnosť, ktoré sú nevyhnutné pre jej činnosť.
 
-(11) Hodnotenie spôsobilosti sa vykonáva na základe žiadosti právnickej osoby zriadenej ústredným orgánom štátnej správy a osôb podľa § 7 písm. c) a d) (ďalej len „žiadateľ o hodnotenie spôsobilosti“). Ministerstvo školstva na základe hodnotenia spôsobilosti podľa odseku 7 vydáva žiadateľovi o hodnotenie spôsobilosti osvedčenie o spôsobilosti a tým oprávnenie uchádzať sa o podporu výskumu a vývoja podľa § 16 ods. 3.
+(11) Hodnotenie spôsobilosti sa vykonáva na základe žiadosti právnickej osoby zriadenej ústredným orgánom štátnej správy a osôb podľa § 7 písm. d) a e) (ďalej len „žiadateľ o hodnotenie spôsobilosti“). Ministerstvo školstva na základe hodnotenia spôsobilosti podľa odseku 7 vydáva žiadateľovi o hodnotenie spôsobilosti osvedčenie o spôsobilosti a tým oprávnenie uchádzať sa o podporu výskumu a vývoja podľa § 16 ods. 3.
 
-(12) Ministerstvo školstva vydá právnickým osobám podľa § 7 písm. b) a organizáciám Slovenskej akadémie vied osvedčenie o spôsobilosti na základe hodnotenia vykonaného podľa osobitných predpisov.<sup>35b</sup>)
+(12) Ministerstvo školstva vydá právnickým osobám podľa § 7 písm. c) a organizáciám Slovenskej akadémie vied osvedčenie o spôsobilosti na základe hodnotenia vykonaného podľa osobitných predpisov.<sup>35b</sup>)
 
 (13) Platnosť osvedčenia o spôsobilosti je šesť rokov od jeho vydania.
 

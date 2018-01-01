@@ -6,6 +6,8 @@
 
 - 4) Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
+- 4a) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
+
 - 5) Zákon č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 6) Napríklad zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
@@ -63,8 +65,6 @@
 - 19) § 1 ods. 2 zákona č. 231/1999 Z. z. v znení neskorších predpisov.
 
 - 20) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie, nariadenie Rady (ES) č. 994/98 zo 7. mája 1998 o uplatňovaní článkov 92 a 93 Zmluvy o založení Európskeho spoločenstva na určité kategórie horizontálnej štátnej pomoci (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 1; Ú. v. ES L 142, 14. 5. 1998), nariadenie Rady (ES) č. 659/1999 z 22. marca 1999 ustanovujúce podrobné pravidlá na uplatňovanie článku 93 Zmluvy o ES (Mimoriadne vydanie Ú. v. EÚ, kap. 8/zv. 1; Ú. v. ES L 83, 27. 3. 1999) v platnom znení, nariadenie Komisie (ES) č. 800/2008, zákon č. 231/1999 Z. z. v znení neskorších predpisov.
-
-- 21) § 5 ods. 1 a 2 zákona č. 133/2002 Z. z.
 
 - 22) § 89 ods. 5 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 

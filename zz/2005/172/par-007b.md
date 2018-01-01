@@ -22,7 +22,7 @@
 
 (4) Vedecko-technologický park uskutočňuje najmä podporu komerčného uplatnenia výsledkov výskumu a vývoja v praxi prostredníctvom malých podnikateľov alebo stredných podnikateľov, ktorí sú jeho súčasťou. Výsledky výskumu a vývoja získava vedecko-technologický park vlastnou činnosťou alebo zmluvne od osôb uvedených v § 7.
 
-(5) Výskumno-vývojové centrum zabezpečuje využitie výsledkov výskumu a vývoja vykonávaného právnickou osobou podľa § 7 písm. b) až d) vo vlastnej výrobnej praxi. Zakladateľmi a spoločníkmi výskumno-vývojového centra sú podnikateľ<sup>9</sup>) a právnická osoba podľa § 7 písm. b) až d), ktorej výsledky výskumu a vývoja sa budú využívať vo výrobnej praxi výskumno-vývojového centra.
+(5) Výskumno-vývojové centrum zabezpečuje využitie výsledkov výskumu a vývoja vykonávaného právnickou osobou podľa § 7 vo vlastnej výrobnej praxi. Zakladateľmi a spoločníkmi výskumno-vývojového centra sú podnikateľ<sup>9</sup>) a právnická osoba podľa § 7, ktorej výsledky výskumu a vývoja sa budú využívať vo výrobnej praxi výskumno-vývojového centra.
 
 (6) Technologický inkubátor vytvára podporné prostredie pre začínajúcich malých podnikateľov, ktorí využívajú výsledky výskumu a vývoja pre inováciu tovarov a služieb alebo samy vykonávajú výskum a vývoj. Technologický inkubátor poskytuje začínajúcim malým podnikateľom okrem podpory podľa odseku 3 aj
 
