@@ -72,6 +72,18 @@
 
 - 19) Napríklad zákon č. 461/2003 Z. z. v znení neskorších predpisov, zákon č. 92/1991 Zb. v znení neskorších predpisov, zákon Slovenskej národnej rady č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových spoločenstvách v znení neskorších predpisov.
 
+- 19a) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- § 11 ods. 3 zákona č. 544/2002 Z. z. o Horskej záchrannej službe v znení zákona č. 274/2015 Z. z.
+
+- § 2 ods. 1 písm. c) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 564/2004 Z. z.
+
+- § 28, 49, 53, 114, 116, 117 a 126 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19b) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 19c) § 10 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+
 - 20) § 88 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov.
 
 - § 63a zákona Slovenskej národnej rady č. 511/1992 Zb. v znení zákona č. 609/2003 Z. z.
@@ -89,6 +101,8 @@
 - 22aaa) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - § 8 ods. 2 zákona č. 396/2012 Z. z. o Fonde na podporu vzdelávania v znení zákona č. 352/2016 Z. z.
+
+- Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
 
 - 22ab) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
@@ -120,23 +134,15 @@
 
 - 28) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
+- Zákon č. 243/2017 Z. z.
+
 - 28a) § 3 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
+- 28b) § 829 až 841 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
+
+- 28c) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 140 a 141 zákona č. 245/2008 Z. z. v znení neskorších predpisov, § 70 ods. 2 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+
 - 29) § 489 až 496 Obchodného zákonníka.
-
-- 30) § 829 až 841 Občianskeho zákonníka.
-
-- 31) Napríklad § 152 Zákonníka práce v znení neskorších predpisov, § 70 ods. 2 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 32) § 92 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
-
-- § 2 ods. 1 písm. c) zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 564/2004 Z. z.
-
-- 33) Napríklad zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- 34) § 10 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení zákona č. 419/2002 Z. z.
-
-- 35) Napríklad § 35 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov.
 
 - 35a) § 8 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
