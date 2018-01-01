@@ -20,7 +20,7 @@
 
 (3) Do základu dane právneho nástupcu daňovníka zrušeného bez likvidácie sa
 
-- a) oceňovacie rozdiely z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev vykázané podľa osobitného predpisu<sup>1</sup>) môžu zahrnúť podľa odseku 2 alebo až do ich úplného zahrnutia, najdlhšie počas siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, najmenej vo výške jednej sedminy ročne, počnúc zdaňovacím obdobím, v ktorom nastal rozhodný deň;<sup>77c</sup>) ak počas tohto obdobia dôjde k zvýšeniu základného imania, vyplateniu dividend, k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku, ku ktorému sa viažu oceňovacie rozdiely, je tento právny nástupca povinný zahrnúť zostávajúcu časť týchto rozdielov do základu dane v tom zdaňovacom období, v ktorom dôjde k vzniku niektorej z týchto skutočností; ak počas tohto obdobia
+- a) oceňovacie rozdiely z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev vykázané podľa osobitného predpisu<sup>1</sup>) môžu zahrnúť podľa odseku 2 alebo až do ich úplného zahrnutia, najdlhšie počas siedmich bezprostredne po sebe nasledujúcich zdaňovacích období, najmenej vo výške jednej sedminy ročne, počnúc zdaňovacím obdobím, v ktorom nastal rozhodný deň,<sup>77c</sup>) ak odsek 11 neustanovuje inak; ak počas tohto obdobia dôjde k zvýšeniu základného imania, vyplateniu dividend, k predaju alebo inému vyradeniu viac ako 50 % reálnej hodnoty hmotného majetku a nehmotného majetku, ku ktorému sa viažu oceňovacie rozdiely, je tento právny nástupca povinný zahrnúť zostávajúcu časť týchto rozdielov do základu dane v tom zdaňovacom období, v ktorom dôjde k vzniku niektorej z týchto skutočností; ak počas tohto obdobia
 
   - 1. sa daňovník zrušuje s likvidáciou, najneskôr v zdaňovacom období ukončenom ku dňu predchádzajúcemu dňu jeho vstupu do likvidácie,<sup>80b</sup>)
 
@@ -67,3 +67,13 @@
 (7) Ak pri zrušení daňovníka bez likvidácie so sídlom mimo územia Slovenskej republiky, ktorého právnym nástupcom je daňovník so sídlom na území Slovenskej republiky a majetok ostáva súčasťou stálej prevádzkarne mimo územia Slovenskej republiky, tento právny nástupca môže oceniť majetok a záväzky reálnou hodnotou, ak oceňovacie rozdiely z precenenia majetku sú súčasťou základu dane právneho nástupcu podľa odseku 3 písm. a) a neuplatní postup podľa § 17e.
 
 (8) Na uplatnenie daňových výdavkov pri majetku a záväzkoch nadobudnutých pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev sa na účely tohto zákona vychádza z reálnej hodnoty majetku a záväzkov podľa odseku 2.
+
+(9) Ak majetok a záväzky daňovníka zrušeného bez likvidácie nie sú funkčne spojené so stálou prevádzkarňou právneho nástupcu so sídlom v zahraničí umiestnenou na území Slovenskej republiky, daňovník zrušený bez likvidácie postupuje podľa odseku 1 písm. a) a nemôže uplatniť postup podľa § 17e.
+
+(10) Ak právnemu nástupcovi daňovníka zrušeného bez likvidácie so sídlom v zahraničí vznikne na území Slovenskej republiky stála prevádzkareň a majetok a záväzky daňovníka zrušeného bez likvidácie sú funkčne spojené s touto stálou prevádzkarňou a následne dôjde k presunu majetku podľa § 17f ods. 1 písm. b) alebo k presunu podnikateľskej činnosti podľa § 17f ods. 2 písm. b) z tejto stálej prevádzkarne, uplatní sa postup podľa § 17f.
+
+(11) Ak u právneho nástupcu daňovníka zrušeného bez likvidácie dôjde k výplate oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev vykázaných podľa osobitného predpisu<sup>1</sup>) v sume vyššej ako je suma oceňovacích rozdielov zahrnutá do základu dane v úhrne podľa odseku 3 písm. a), je právny nástupca daňovníka zrušeného bez likvidácie povinný zahrnúť do základu dane v zdaňovacom období, v ktorom dôjde k výplate oceňovacích rozdielov, sumu prevyšujúcu oceňovacie rozdiely už zahrnuté do základu dane. Rovnako sa postupuje, ak plynie príjem
+
+- a) zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo predtým základné imanie zvýšené z oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev,
+
+- b) z prerozdelenia kapitálového fondu z príspevkov<sup>2d</sup>) v časti, v akej bol kapitálový fond z príspevkov<sup>2d</sup>) zvýšený z oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev.

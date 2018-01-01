@@ -26,7 +26,17 @@
 
 (7) Pri odpočítavaní daňovej straty u právneho nástupcu daňovníka zrušeného bez likvidácie sa postupuje podľa § 30.
 
-(8) Ak pri zrušení daňovníka bez likvidácie so sídlom na území Slovenskej republiky, ktorého právnym nástupcom je daňovník so sídlom mimo územia Slovenskej republiky, vznikne tomuto právnemu nástupcovi na území Slovenskej republiky stála prevádzkareň, právny nástupca
+(8) Odseky 1 až 7 sa uplatnia, ak
+
+- a) právnym nástupcom daňovníka zrušeného bez likvidácie je právny nástupca so sídlom v členskom štáte Európskej únie alebo štáte, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore,
+
+- b) majetok a záväzky daňovníka zrušeného bez likvidácie zostávajú funkčne spojené so stálou prevádzkarňou právneho nástupcu umiestnenou na území Slovenskej republiky,
+
+- c) členský štát Európskej únie alebo štát, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore, v ktorom má právny nástupca sídlo, umožňuje ocenenie majetku a záväzkov nadobudnutých právnym nástupníctvom v pôvodných cenách,
+
+- d) právny nástupca ocení majetok a záväzky nadobudnuté právnym nástupníctvom v pôvodných cenách.
+
+(9) Ak pri zrušení daňovníka bez likvidácie so sídlom na území Slovenskej republiky, ktorého právnym nástupcom je daňovník so sídlom mimo územia Slovenskej republiky, vznikne tomuto právnemu nástupcovi na území Slovenskej republiky stála prevádzkareň a sú splnené podmienky podľa odseku 8, právny nástupca
 
 - a) neupravuje základ dane o zostatky rezerv, opravných položiek a účtov časového rozlíšenia, ak sa vzťahujú k majetku a záväzkom tejto stálej prevádzkarne, s výnimkou opravnej položky k pohľadávkam podľa § 20,
 
@@ -34,14 +44,20 @@
 
 - c) odpočítava daňovú stratu daňovníka zrušeného bez likvidácie vo výške a spôsobom podľa § 30, ak sa vzťahuje k majetku a záväzkom tejto stálej prevádzkarne.
 
-(9) Ak pri zrušení daňovníka bez likvidácie so sídlom mimo územia Slovenskej republiky, ktorého právnym nástupcom je daňovník so sídlom na území Slovenskej republiky, vznikne tomuto právnemu nástupcovi podľa § 2 písm. d) druhého bodu mimo územia Slovenskej republiky stála prevádzkareň, tento právny nástupca pri vyčíslení základu dane podľa § 17 ods. 14
+(10) Ak pri zrušení daňovníka bez likvidácie so sídlom v zahraničí, ktorého právnym nástupcom je daňovník so sídlom na území Slovenskej republiky, vznikne tomuto právnemu nástupcovi podľa § 2 písm. d) druhého bodu stála prevádzkareň v zahraničí a štát, v ktorom má daňovník zrušený bez likvidácie sídlo, umožňuje právnemu nástupcovi prevzatie majetku a záväzkov v pôvodných cenách a právny nástupca ocení majetok a záväzky nadobudnuté právnym nástupníctvom v pôvodných cenách, tento právny nástupca pri vyčíslení základu dane podľa § 17 ods. 14 pokračuje v tvorbe rezerv, opravných položiek a účtov časového rozlíšenia, ak sa vzťahujú k majetku a záväzkom tejto stálej prevádzkarne a v odpisovaní hmotného majetku a nehmotného majetku stálej prevádzkarne začatom daňovníkom, ktorý bol zrušený bez likvidácie so sídlom v zahraničí primerane podľa odseku 5.
 
-- a) pokračuje v tvorbe rezerv, opravných položiek a účtov časového rozlíšenia, ak sa vzťahujú k majetku a záväzkom tejto stálej prevádzkarne a v odpisovaní hmotného majetku a nehmotného majetku stálej prevádzkarne začatom daňovníkom, ktorý bol zrušený bez likvidácie so sídlom mimo územia Slovenskej republiky primerane podľa odseku 5 alebo
-
-- b) oceňuje majetok reálnou hodnotou podľa § 17c ods. 2, ak oceňovacie rozdiely z precenenia majetku sú súčasťou základu dane právneho nástupcu podľa § 17c ods. 3.
-
-(10) Pôvodnou cenou pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev je ocenenie
+(11) Pôvodnou cenou pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev je ocenenie
 
 - a) majetku a záväzkov u daňovníka zrušeného bez likvidácie zistené podľa osobitného predpisu<sup>1</sup>) bez precenenia na reálnu hodnotu a
 
 - b) hmotného majetku a nehmotného majetku u daňovníka zrušeného bez likvidácie zistené podľa § 25.
+
+(12) Ak právnemu nástupcovi daňovníka zrušeného bez likvidácie so sídlom v zahraničí vznikne na území Slovenskej republiky stála prevádzkareň a majetok a záväzky daňovníka zrušeného bez likvidácie sú funkčne spojené s touto stálou prevádzkarňou a následne dôjde k presunu majetku podľa § 17f ods. 1 písm. b) alebo k presunu podnikateľskej činnosti podľa § 17f ods. 2 písm. b) z tejto stálej prevádzkarne, uplatní sa postup podľa § 17f.
+
+(13) Odseky 1 až 11 sa neuplatnia, a uplatní sa postup podľa § 17c, ak hlavným účelom alebo jedným z hlavných účelov zlúčenia, splynutia alebo rozdelenia obchodných spoločností alebo družstiev je zníženie daňovej povinnosti alebo vyhnutie sa daňovej povinnosti. Ak zlúčenie, splynutie alebo rozdelenie obchodných spoločností alebo družstiev nebolo realizované z riadnych obchodných dôvodov ako je reštrukturalizácia alebo racionalizácia činností, možno predpokladať, že hlavným cieľom alebo jedným z hlavných dôvodov zlúčenia, splynutia alebo rozdelenia obchodných spoločností alebo družstiev je zníženie daňovej povinnosti alebo vyhnutie sa daňovej povinnosti.
+
+(14) Ak u právneho nástupcu daňovníka zrušeného bez likvidácie dôjde k výplate oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev vykázaných podľa osobitného predpisu<sup>1</sup>) v sume vyššej ako je súčin podielu sumy vykázaných oceňovacích rozdielov a najdlhšej doby odpisovania podľa § 26 ods. 1 u majetku nadobudnutého pri zlúčení, splynutí alebo rozdelení a počtu zdaňovacích období odpisovania tohto majetku, suma vyplatených oceňovacích rozdielov prevyšujúca tento podiel sa zdaní podľa § 43. Rovnako sa postupuje, ak u právneho nástupcu daňovníka zrušeného bez likvidácie dôjde k výplate prostriedkov v peňažnej forme alebo nepeňažnej forme
+
+- a) zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo predtým základné imanie zvýšené z oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev,
+
+- b) z prerozdelenia kapitálového fondu z príspevkov<sup>2d</sup>) v časti, v akej bol kapitálový fond z príspevkov zvýšený z oceňovacích rozdielov z precenenia pri zlúčení, splynutí alebo rozdelení obchodných spoločností alebo družstiev.

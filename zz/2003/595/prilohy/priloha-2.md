@@ -17,3 +17,5 @@ Príloha č. 2 k zákonu č. 595/2003 Z. z.
   - 7. Smernica Rady (EÚ) 2015/121 z 27. januára 2015, ktorou sa mení smernica 2011/96/EÚ o spoločnom systéme zdaňovania uplatňovanom v prípade materských spoločností a dcérskych spoločností v rozličných členských štátoch (Ú. v. EÚ L 21, 28. 1. 2015).
 
   - 8. Smernica Rady (EÚ) 2015/2060 z 10. novembra 2015, ktorou sa zrušuje smernica 2003/48/ES o zdaňovaní príjmu z úspor v podobe výplaty úrokov (Ú. v. EÚ L 301, 18. 11. 2015).
+
+  - 9. Smernica Rady (EÚ) 2016/1164 z 12. júla 2016, ktorou sa stanovujú pravidlá proti praktikám vyhýbania sa daňovým povinnostiam, ktoré majú priamy vplyv na fungovanie vnútorného trhu (Ú. v. EÚ L 193, 19. 7. 2016).

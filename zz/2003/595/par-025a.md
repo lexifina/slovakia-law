@@ -24,4 +24,6 @@ Vstupnou cenou finančného majetku<sup>1</sup>) je
 
 - e) pôvodná cena, ak ide o finančný majetok,<sup>1</sup>) ktorý nadobudol prijímateľ nepeňažného vkladu pri uplatnení pôvodných cien podľa § 17d a právny nástupca daňovníka zrušeného bez likvidácie pri uplatnení pôvodných cien podľa § 17e; finančný majetok,<sup>1</sup>) ktorý nadobúda vkladateľ nepeňažného vkladu, je ocenený pôvodnou cenou, ktorou sa rozumie celková hodnota nepeňažného vkladu vyjadrená v pôvodných cenách, ktorú preberá príjemca nepeňažného vkladu podľa § 17d,
 
-- f) hodnota splateného peňažného vkladu vrátane emisného ážia; za splatený vklad sa považuje aj zvýšenie základného imania obchodnej spoločnosti alebo družstva zo zisku po zdanení na základe rozhodnutia valného zhromaždenia<sup>92</sup>) obchodnej spoločnosti alebo predstavenstva družstva.<sup>93</sup>)
+- f) hodnota splateného peňažného vkladu [§ 2 písm. ac)],
+
+- g) reálna hodnota presunutého finančného majetku, ktorou bol finančný majetok ocenený na účely zdanenia pri presune majetku daňovníka, odchode daňovníka alebo presune podnikateľskej činnosti daňovníka do zahraničia (§ 17f ods. 6 a 8).

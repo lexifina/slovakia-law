@@ -26,9 +26,9 @@
 
 (6) Prijímateľ nepeňažného vkladu je povinný evidovať výšku pôvodne oceneného majetku a záväzkov počnúc zdaňovacím obdobím, v ktorom došlo k splateniu nepeňažného vkladu,<sup>80c</sup>) najmenej do uplynutia lehoty pre zánik práva vyrubiť daň podľa osobitného predpisu.<sup>34</sup>)
 
-(7) Vkladateľ nepeňažného vkladu, ktorým je individuálne vložený majetok mimo územia Slovenskej republiky, ktorý uplatní postup podľa odseku 1, je povinný preukázať, že prijímateľ nepeňažného vkladu prevzal pôvodné ceny majetku. Rovnako sa postupuje, ak vkladateľom nepeňažného vkladu je daňovník s obmedzenou daňovou povinnosťou [§ 2 písm. e)] pri individuálne vloženom majetku.
+(7) Odseky 1 až 6 sa uplatnia, ak predmetom nepeňažného vkladu je individuálne vložený majetok, ktorým je cenný papier alebo obchodný podiel alebo podnik alebo jeho časť, ktorý vkladá vkladateľ nepeňažného vkladu so sídlom na území Slovenskej republiky prijímateľovi nepeňažného vkladu do členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou Dohody o Európskom hospodárskom priestore, pričom tento majetok, podnik alebo jeho časť zostáva funkčne spojený so stálou prevádzkarňou prijímateľa nepeňažného vkladu umiestnenou na území Slovenskej republiky a prijímateľ nepeňažného vkladu prevezme nepeňažný vklad v pôvodných cenách. Ak u prijímateľa nepeňažného vkladu nezostáva majetok, podnik alebo jeho časť funkčne spojený so stálou prevádzkarňou umiestnenou na území Slovenskej republiky, vkladateľ nepeňažného vkladu postupuje podľa § 17b.
 
-(8) Ak predmetom nepeňažného vkladu je podnik alebo jeho časť a vkladateľom tohto nepeňažného vkladu je daňovník so sídlom na území Slovenskej republiky, pričom prijímateľovi tohto nepeňažného vkladu so sídlom mimo územia Slovenskej republiky vznikne na území Slovenskej republiky stála prevádzkareň, prijímateľ nepeňažného vkladu pri vyčíslení základu dane stálej prevádzkarne
+(8) Ak predmetom nepeňažného vkladu je podnik alebo jeho časť alebo individuálne vložený majetok a vkladateľom tohto nepeňažného vkladu je daňovník so sídlom na území Slovenskej republiky a sú splnené podmienky podľa odseku 7, prijímateľ nepeňažného vkladu pri vyčíslení základu dane stálej prevádzkarne
 
 - a) prevezme hodnotu majetku a záväzkov podľa odseku 1 písm. a) v pôvodných cenách, vytvorené rezervy, opravné položky a účty časového rozlíšenia, ktoré sa vzťahujú k majetku a záväzkom tejto stálej prevádzkarne a
 
@@ -40,10 +40,14 @@
 
 - b) pokračuje v odpisovaní hmotného majetku a nehmotného majetku tejto stálej prevádzkarne primerane podľa odseku 5.
 
-(10) Ak vkladateľom nepeňažného vkladu je daňovník, ktorý zisťuje základ dane podľa § 17 ods. 1 písm. a), uplatní primerane postup podľa odsekov 1 a 4.
+(10) Ak predmetom nepeňažného vkladu je podnik alebo jeho časť, ktorého vkladateľom je daňovník so sídlom na území Slovenskej republiky, a podnik alebo jeho časť zostáva funkčne spojený so stálou prevádzkarňou prijímateľa nepeňažného vkladu so sídlom v zahraničí umiestnenou na území Slovenskej republiky a následne dôjde k presunu majetku podľa § 17f ods. 1 písm. b) alebo k presunu podnikateľskej činnosti podľa § 17f ods. 2 písm. b) z tejto stálej prevádzkarne, uplatní sa postup podľa § 17f.
 
-(11) Pôvodnou cenou pri nepeňažnom vklade je ocenenie
+(11) Ak vkladateľom nepeňažného vkladu je daňovník, ktorý zisťuje základ dane podľa § 17 ods. 1 písm. a), uplatní primerane postup podľa odsekov 1, 4 a 7.
+
+(12) Pôvodnou cenou pri nepeňažnom vklade je ocenenie
 
 - a) majetku a záväzkov u vkladateľa nepeňažného vkladu zistené podľa osobitného predpisu<sup>1</sup>) a
 
 - b) hmotného majetku a nehmotného majetku u vkladateľa nepeňažného vkladu zistené podľa § 25.
+
+(13) Odseky 1 až 12 sa neuplatnia, a uplatní sa postup podľa § 17b, ak hlavným účelom alebo jedným z hlavných účelov nepeňažného vkladu podniku alebo jeho časti je zníženie daňovej povinnosti alebo vyhnutie sa daňovej povinnosti. Ak nepeňažný vklad podniku alebo jeho časti nebol realizovaný z riadnych obchodných dôvodov ako je reštrukturalizácia alebo racionalizácia činností, možno predpokladať, že hlavným cieľom alebo jedným z hlavných dôvodov nepeňažného vkladu podniku alebo jeho časti je zníženie daňovej povinnosti alebo vyhnutie sa daňovej povinnosti.
