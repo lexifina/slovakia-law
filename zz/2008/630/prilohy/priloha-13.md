@@ -1,6 +1,6 @@
 Príloha č. 13 k nariadeniu vlády č. 630/2008 Z. z.
 
-- HODNOTY KOEFICIENTOV NA VÝPOČET MZDOVÉHO NORMATÍVU NA ŽIAKA STREDNEJ ODBORNEJ ŠKOLY, KTORÝ SA PRIPRAVUJE V SYSTÉME DUÁLNEHO VZDELÁVANIA, PODĽA KATEGÓRIÍ STREDNÝCH ODBORNÝCH ŠKÔL Kategória školy s jednotným mzdovým normatívom podľa § 2 ods. 1 písm. e) až s) | Koeficient
+- HODNOTY KOEFICIENTOV NA VÝPOČET MZDOVÉHO NORMATÍVU NA ŽIAKA STREDNEJ ODBORNEJ ŠKOLY, KTORÝ SA PRIPRAVUJE V SYSTÉME DUÁLNEHO VZDELÁVANIA, PODĽA KATEGÓRIÍ STREDNÝCH ODBORNÝCH ŠKÔL Kategória školy s jednotným mzdovým normatívom podľa § 2 ods. 1 | Koeficient
 
 - Stredná odborná škola – 1. kategória | 0,9882
 

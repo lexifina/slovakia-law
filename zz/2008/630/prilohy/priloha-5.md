@@ -6,11 +6,9 @@ Príloha č. 5 k nariadeniu vlády č. 630/2008 Z. z.
 
 - 1. | školský klub detí | školský klub detí
 
-- 2. | školské hospodárstvo a stredisko odbornej praxe | školské hospodárstvo
+- 2. | stredisko odbornej praxe | stredisko odbornej praxe
 
-- | | stredisko odbornej praxe
-
-- 3. | centrum voľného času | centrum voľného času
+- | | | 3. | centrum voľného času | centrum voľného času
 
 - Tabuľka č. 2 Kategórie školských zariadení podľa § 8 ods. 1
 

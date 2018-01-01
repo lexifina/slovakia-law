@@ -1,3 +1,3 @@
 Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.
 
-- KOEFICIENTY PERSONÁLNEJ, EKONOMICKEJ A PREVÁDZKOVEJ NÁROČNOSTI PRE KATEGÓRIE ŠKÔL, V KTORÝCH SA ŽIACI PRIPRAVUJÚ NA POVOLANIE [Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.](../assets/5fb11304809dd6cd09f5d969353bde1dee08fd0e964b8ea932dfab196020559a.pdf)
+- Kategórie škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, a koeficienty personálnej náročnosti, ekonomickej náročnosti výchovno-vzdelávacieho procesu a prevádzkovej náročnosti [Príloha č. 2 k nariadeniu vlády č. 630/2008 Z. z.](../assets/6896b086ea2ca53e89663b5110da9aa644a901fa7917076bdec9def4b3bbe63a.pdf)
