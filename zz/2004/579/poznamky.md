@@ -8,7 +8,13 @@
 
 - 6) § 10 ods. 2 zákona č. 129/2002 Z. z.
 
+- 6a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
+
 - 6b) § 14 ods. 1 písm. a) a d) zákona č. 153/2013 Z. z.
+
+- 6c) § 47d ods. 2 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení zákona č. 351/2017 Z. z.
+
+- 6d) § 47d ods. 6 písm. d), § 47d ods. 11 a 12 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 7) § 4 zákona č. 578/2004 Z. z.
 
