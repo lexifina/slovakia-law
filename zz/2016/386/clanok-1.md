@@ -978,6 +978,12 @@ Zákon č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých
 
 - Hazardné hry, ktoré môžu byť zameniteľné alebo podobné štátnej lotérii, sa zakazuje prevádzkovať iným prevádzkovateľom hazardných hier ako národnej lotériovej spoločnosti, ak § 9a neustanovuje inak.“.
 
+- 68. V § 35 odsek 24 znie:
+
+- „(24)
+
+- Prevádzkovať hazardné hry prevádzkované prostredníctvom výherných prístrojov, hazardné hry prevádzkované prostredníctvom technických zariadení obsluhovaných priamo hráčmi a videohry možno len v herni, pričom v herni musí byť umiestnených najmenej 12 výherných prístrojov, technických zariadení obsluhovaných priamo hráčmi alebo terminálov videohier alebo spoločne najmenej 12 takých prístrojov, zariadení alebo terminálov slúžiacich na prevádzkovanie týchto hazardných hier; každý taký prístroj, také zariadenie alebo taký terminál sa považuje za jeden kus prístroja, zariadenia alebo terminálu bez ohľadu na počet hracích miest.“.
+
 - 69. Za § 35 sa vkladá § 35a, ktorý vrátane nadpisu znie:
 
 - „§ 35a
