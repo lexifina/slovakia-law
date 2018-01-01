@@ -92,6 +92,8 @@
 
 - 13d) § 8 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
+- 13e) § 4c ods. 6 písm. d) zákona č. 587/2004 Z. z. o Environmentálnom fonde a o zmene a doplnení niektorých zákonov v znení zákona č. 292/2017 Z. z.
+
 - 14) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení zákona č. 431/2004 Z. z.
 
 - 14a) Čl. 2 ods. 1 písm. q) nariadenia (ES) č.1223/2009 v platnom znení.
