@@ -28,7 +28,7 @@
 
 - 12a) Čl. 1 bod 16 a čl. 4k až 4t nariadenia (EHS) č. 2454/93 v platnom znení.
 
-- 13) Zákon č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
+- 13) Zákon č. 563/2009 Z. z. v znení neskorších predpisov.
 
 - 13a) Čl. 95 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (prepracované znenie) (Ú. v. EÚ L 269, 10. 10. 2013).
 
@@ -81,6 +81,8 @@
 - Zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 27c) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
+
+- 27d) § 87b zákona č. 199/2004 Z. z. v znení zákona č. 272/2017 Z. z.
 
 - 28) Napríklad čl. 308a, 308d a 458 nariadenia (EHS) č. 2454/93 v platnom znení, nariadenie (ES) č. 1383/2003, nariadenie (ES) č. 1891/2004 v platnom znení, zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 233 ods. 6 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 572/2009 Z. z., zákon č. 98/2004 Z. z. v znení neskorších predpisov, zákon č. 199/2004 Z. z. v znení neskorších predpisov, zákon č. 200/2004 Z. z. v znení neskorších predpisov, zákon č. 222/2004 Z. z. v znení neskorších predpisov, zákon č. 171/2005 Z. z. v znení neskorších predpisov, zákon č. 331/2005 Z. z. o orgánoch štátnej správy vo veciach drogových prekurzorov a o zmene a doplnení niektorých zákonov v znení zákona č. 425/2010 Z. z., zákon č. 289/2008 Z. z. v znení neskorších predpisov, zákon č. 39/2011 Z. z.
 
