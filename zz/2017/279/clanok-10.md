@@ -424,6 +424,44 @@ Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení
 
   - <sup>47u</sup>) § 22 a jedenásty bod prílohy zákona č. 431/2002 Z. z. v znení neskorších predpisov.“.
 
+- 56. V § 40 ods. 1 sa na konci pripája táto veta:
+
+- „Ročné príspevky je povinný ako prispievateľ uhrádzať aj dohliadaný subjekt, ktorý má sídlo mimo územia Slovenskej republiky a ktorý je na území Slovenskej republiky oprávnený prostredníctvom pobočky alebo aj bez zriadenia pobočky vytvárať alebo spravovať fondy podľa osobitných predpisov.<sup>48a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 48a znie:
+
+  - „<sup>48a</sup>) Napríklad § 4 ods. 2 zákona č. 203/2011 Z. z. v znení neskorších predpisov.“.
+
+- 57. V § 40 ods. 2 prvej vete sa slová „za rovnakých podmienok“ nahrádzajú slovami „toho istého druhu za rovnakých podmienok, rovnakým spôsobom a“, v tretej vete sa slovo „roka,“ nahrádza slovami „roka alebo k poslednému dňu prispievateľovho hospodárskeho roka,<sup>49aa</sup>)“, v štvrtej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak ide o prispievateľa podľa odseku 1 druhej vety, pri ktorom sa na účely ročných príspevkov považuje za celkový objem aktív len majetok vo fondoch podľa osobitných predpisov<sup>48a</sup>) spravovaných prispievateľom na území Slovenskej republiky.“ a v piatej vete sa slová „kalendárneho roka,“ nahrádzajú slovami „svojho účtovného obdobia,<sup>49ab</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 49aa a 49ab znejú:
+
+  - „<sup>49aa</sup>) § 3 ods. 4, 6 a 7 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+  - <sup>49ab</sup>) § 3 ods. 3 a 4 zákona č. 431/2002 Z. z.“.
+
+- 58. V § 40 ods. 3 druhá veta znie:
+
+- „Pri sadzbe pre ročné príspevky ustanovenej pevnou sumou výška ročného príspevku určená pre samostatných finančných agentov a finančných poradcov, ktorí sú právnickou osobou, môže byť najmenej 50 eur a najviac 1 000 eur, pre poskytovateľov schváleného mechanizmu zverejňovania (APA), poskytovateľov konsolidovaného informačného systému (CTP) a poskytovateľov schváleného mechanizmu podávania správ (ARM), ktorí sú právnickou osobou, môže byť najmenej 500 eur a najviac 10 000 eur, pre pobočky alebo iné organizačné zložky zahraničných správcovských spoločností a pre zahraničné správcovské spoločnosti, ktoré bez zriadenia pobočky vykonávajú na území Slovenskej republiky iné činnosti ako vytváranie a spravovanie fondov podľa osobitných predpisov,<sup>48a</sup>) môže byť najmenej 500 eur a najviac 10 000 eur, pre pobočky zahraničných investičných spoločností a pre zahraničné investičné spoločnosti, ktoré vykonávajú činnosti na území Slovenskej republiky bez zriadenia pobočky, môže byť najmenej 500 eur a najviac 10 000 eur, pre burzy cenných papierov, pre inštitúcie elektronických peňazí oprávnené vydávať elektronické peniaze len v obmedzenom rozsahu<sup>49a</sup>) a pre platobné inštitúcie oprávnené poskytovať platobné služby len v obmedzenom rozsahu<sup>49b</sup>) môže byť najviac 10 000 eur a pre centrálnych depozitárov cenných papierov môže byť najviac 10 000 eur, ak zákon v § 40 neustanovuje inak.“.
+
+- 59. V § 40 ods. 4 sa slovo „ktoré“ nahrádza slovom „ktorí“ a za slová „200 eur“ sa vkladajú slová „a pre poskytovateľov schváleného mechanizmu zverejňovania (APA), poskytovateľov konsolidovaného informačného systému (CTP) a poskytovateľov schváleného mechanizmu podávania správ (ARM), ktorí sú fyzickou osobou, môže byť najmenej 50 eur a najviac 1 000 eur“.
+
+- 60. V § 40 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+
+- „(5)
+
+- Základ sadzby pre ročný príspevok veriteľov oprávnených poskytovať spotrebiteľské úvery bez obmedzenia rozsahu<sup>49ba</sup>) určený podľa odseku 2 sa pomerne zníži v závislosti od pomeru objemu pohľadávok zo spotrebiteľských úverov a celkového objemu pohľadávok z úverov poskytnutých týmito prispievateľmi k 31. decembru kalendárneho roka alebo k poslednému dňu ich hospodárskeho roka,<sup>49aa</sup>) ktorý bezprostredne predchádza kalendárnemu roku, v ktorom banková rada určuje ročný príspevok na príslušný kalendárny rok. Na účely postupu podľa prvej vety je rozhodujúci objem pohľadávok z poskytnutých spotrebiteľských úverov a celkový objem pohľadávok z poskytnutých úverov vyplývajúci z výkazov predkladaných Národnej banke Slovenska podľa § 35.“.
+
+  - Doterajšie odseky 5 až 11 sa označujú ako odseky 6 až 12.
+
+  - Poznámka pod čiarou k odkazu 49ba znie:
+
+  - „<sup>49ba</sup>) § 2 písm. b) a § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení neskorších predpisov.“.
+
+- 61. V § 40 ods. 12 a § 41 ods. 3 sa slovo „dohode“ nahrádza slovom „prerokovaní“.
+
+- 62. V § 40a ods. 3 sa slová „ods. 6 a 8 až 10“ nahrádzajú slovami „ods. 7 a 9 až 11“.
+
 - 63. V § 43 ods. 3 sa slovo „písomnostiach“ nahrádza slovami „iných písomnostiach vyhotovených v rámci konania vo veciach dohľadu a v písomnostiach“.
 
 - 64. Za § 45e sa vkladá § 45f, ktorý vrátane nadpisu znie:
