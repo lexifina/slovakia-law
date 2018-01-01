@@ -6,7 +6,7 @@
 
 - b) obchodný názov spotrebiteľského balenia tabakového výrobku a predpokladané celkové ročné množstvo dovážaného tabaku, cigár a cigariek v kilogramoch alebo cigariet v kusoch.
 
-(2) Dovozca tabakových výrobkov je povinný pred odberom kontrolných známok zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré chce uviesť do daňového voľného obehu. Na zábezpeku na daň sa použije § 20 primerane. Colný úrad vráti zloženú zábezpeku na daň, ak bolo spotrebiteľské balenie tabakových výrobkov prepustené do voľného obehu,<sup>2aa</sup>) ak sa colný úrad s dovozcom tabakových výrobkov nedohodne inak; ustanovenie § 41 ods. 1 písm. m) sa nepoužije.
+(2) Dovozca tabakových výrobkov je povinný pred odberom kontrolných známok alebo pred dovozom tabakových výrobkov, ak dovozca neodoberá kontrolné známky, zložiť zábezpeku na daň vo výške dane pripadajúcej na množstvo tabakových výrobkov, ktoré chce uviesť do daňového voľného obehu. Na zábezpeku na daň sa použije § 20 primerane. Colný úrad vráti zloženú zábezpeku na daň, ak bolo spotrebiteľské balenie tabakových výrobkov prepustené do voľného obehu,<sup>2aa</sup>) ak sa colný úrad s dovozcom tabakových výrobkov nedohodne inak; ustanovenie § 41 ods. 1 písm. m) sa nepoužije.
 
 (3) Žiadateľ podľa odseku 1 musí spĺňať tieto podmienky:
 
@@ -14,7 +14,7 @@
 
 - b) nemá nedoplatky voči colnému úradu ani daňovému úradu,
 
-- c) nemá nedoplatky na povinných odvodoch poistného a na príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>7</sup>)
+- c) nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>7</sup>)
 
 - d) nebol právoplatne odsúdený za úmyselný trestný čin hospodársky, trestný čin proti majetku alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo kontrolných orgánov žiadateľa,
 

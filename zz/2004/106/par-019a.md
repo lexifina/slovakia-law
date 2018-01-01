@@ -20,7 +20,7 @@
 
 - b) prijatia tabakovej suroviny z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny a ak daňová povinnosť nevzniká podľa písmena a),
 
-- c) zistenia tabakovej suroviny, ktorá sa nachádza alebo nachádzala sa u osoby, ak táto osoba nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou; za deň zistenia tejto skutočnosti sa považuje deň, keď tieto skutočnosti zistil colný úrad,
+- c) zistenia tabakovej suroviny, ktorá sa nachádza alebo nachádzala sa u osoby, ak táto osoba nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakovej suroviny, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou; za deň zistenia tejto skutočnosti sa považuje deň, keď tieto skutočnosti zistil colný úrad,
 
 - d) prijatia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie nie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom; dovozca, ktorý je držiteľom povolenia na obchodovanie s tabakovou surovinou a súčasne prevádzkovateľom daňového skladu, je povinný preukázať sa colnému úradu, ktorý tabakovú surovinu prepúšťa do voľného obehu,<sup>2aa</sup>) povolením na prevádzkovanie daňového skladu a čestným vyhlásením, že nie je konečným spotrebiteľom tabakovej suroviny,
 
@@ -32,7 +32,7 @@
 
 - b) ktorá prijíma tabakovú surovinu z územia iného členského štátu na daňovom území okrem prijatia tabakovej suroviny z územia iného členského štátu na daňovom území držiteľom povolenia na obchodovanie s tabakovou surovinou, ak nie je konečným spotrebiteľom tabakovej suroviny, alebo dodania tabakovej suroviny do iného členského štátu alebo na územie tretieho štátu, a ak daňová povinnosť nevzniká podľa písmena a),
 
-- c) ktorá nevie preukázať pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
+- c) ktorá nevie preukázať v súlade s týmto zákonom pôvod alebo spôsob nadobudnutia tabakovej suroviny u nej zistenej, ktorá sa u nej nachádza alebo nachádzala, a to bez ohľadu na to, či nakladá alebo nakladala s tabakovou surovinou ako s vlastnou,
 
 - d) na ktorej účet bolo predložené colné vyhlásenie na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) okrem predloženia colného vyhlásenia na prepustenie tabakovej suroviny do voľného obehu,<sup>2aa</sup>) ak také prepustenie je na účet držiteľa povolenia na obchodovanie s tabakovou surovinou, ktorý je prevádzkovateľom daňového skladu a nie je konečným spotrebiteľom tabakovej suroviny,
 
@@ -42,7 +42,7 @@
 
 (7) Osoba, ktorá chce na daňovom území v rámci podnikania obchodovať s tabakovou surovinou, musí požiadať colný úrad o vydanie povolenia na obchodovanie s tabakovou surovinou.
 
-(8) Na účely tohto zákona sa za obchodníka s tabakovou surovinou považuje aj prevádzkovateľ daňového skladu, ak chce vykonávať činnosti uvedené v odseku 2. Prevádzkovateľ daňového skladu, ktorý chce vykonávať činnosti uvedené v odseku 2, je povinný oznámiť colnému úradu údaje uvedené v odseku 9. Colný úrad vydá prevádzkovateľovi daňového skladu povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou ku dňu vydania povolenia na prevádzkovanie daňového skladu. Plnenie povinností podľa odseku 16 týmto nie je dotknuté.
+(8) Prevádzkovateľ daňového skladu, ktorý chce vykonávať činnosti uvedené v odseku 2, je povinný oznámiť colnému úradu údaje uvedené v odseku 9. Colný úrad vydá prevádzkovateľovi daňového skladu povolenie na obchodovanie s tabakovou surovinou a zaradí ho do evidencie držiteľov povolenia na obchodovanie s tabakovou surovinou ku dňu vydania povolenia na prevádzkovanie daňového skladu. Plnenie povinností podľa odseku 16 týmto nie je dotknuté.
 
 (9) Žiadosť o vydanie povolenia na obchodovanie s tabakovou surovinou musí obsahovať
 

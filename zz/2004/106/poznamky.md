@@ -22,9 +22,9 @@
 
 - § 42 zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov.
 
-- 2aac) § 7 Obchodného zákonníka.
-
 - 2ab) STN 56 0280-3 Metódy skúšania tabakových výrobkov. Stanovenie šírky rezu.
+
+- 2ac) STN Metódy skúšania tabakových výrobkov. Stanovenie hmotnosti obsahu balíčkov tabaku (56 0280-6).
 
 - 3) Napríklad § 135, 456 a 462 Občianskeho zákonníka, § 64 až 66, § 68, 69, 75, 77, 83 a 84a zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 59, 60, 83 a 83b Trestného zákona, § 40 až 43 zákona č. 563/2009 Z. z.
 
@@ -139,6 +139,8 @@
 - 25e) Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov.
 
 - Zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
+
+- 25f) Smernica Európskeho parlamentu a Rady (EÚ) 2015/1535 z 9. septembra 2015, ktorou sa stanovuje postup pri poskytovaní informácií v oblasti technických predpisov a pravidiel vzťahujúcich sa na služby informačnej spoločnosti (kodifikované znenie) (Ú. v. EÚ L 241, 17. 9. 2015).
 
 - 26) § 29 zákona č. 431/2002 Z. z.
 
