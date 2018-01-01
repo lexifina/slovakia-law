@@ -105,3 +105,5 @@
 - 39) § 29n zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 338/2015 Z. z.
 
 - 40) § 29o zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 340/2016 Z. z.
+
+- 41) § 29p zákona Národnej rady Slovenskej republiky č. 120/1993 Z. z. v znení zákona č. 334/2017 Z. z.
