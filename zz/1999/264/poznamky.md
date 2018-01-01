@@ -64,6 +64,8 @@
 
 - 6) Čl. 2 ods. 1 písm. d) nariadenia (EÚ) č. 1025/2012 v platnom znení.
 
+- 6a) Čl. 2 ods. 1 písm. c) nariadenia (EÚ) č. 1025/2012 v platnom znení.
+
 - 7) Čl. 21 nariadenia (ES) č. 765/2008.
 
 - 7a) Dohoda o technických prekážkach obchodu (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 152/2000 Z. z.).
