@@ -30,6 +30,8 @@
 
 - 7c) § 43 ods. 1 písm. a) zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
+- 7d) § 2 písm. c) zákona č. 505/2009 Z. z. o akreditácii orgánov posudzovania zhody a o zmene a doplnení niektorých zákonov.
+
 - 8) § 3 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe.

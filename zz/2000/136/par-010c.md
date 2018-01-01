@@ -2,11 +2,11 @@
 
 (1) Obhospodarovateľ je povinný dodržiavať zakázané obdobia uvedené v prílohe č. 2, ak odseky 2 až 11 neustanovujú inak. Zakázané obdobia sa nevzťahujú na výkaly a moč pasúcich sa zvierat a pri hnojení zakrytých plôch v skleníkoch a fóliovníkoch.
 
-(2) Obhospodarovateľ môže požiadať kontrolný ústav o udelenie výnimky zo zákazu podľa odseku 1. Kontrolný ústav môže udeliť výnimku zo zákazu podľa odseku 1 len na poľnohospodárskej pôde v zraniteľných oblastiach so svahovitosťou do 5° na obdobie 14 dní od začiatku zakázaného obdobia alebo 14 dní pred koncom zakázaného obdobia, ak v tomto období nastane priaznivý vývoj klimatických podmienok a priemerná denná teplota vzduchu je na základe meteorologických predpovedí Slovenského hydrometeorologického ústavu vyššia ako 5° C s prognózou jej dlhšieho trvania. Žiadosť obhospodarovateľa o udelenie výnimky zo zákazu podľa odseku 1 sa eviduje v registračnom a informačnom systéme, ktorý vedie organizácia, ktorej zriaďovateľom je ministerstvo. Ak je obhospodárovateľom fyzická osoba, uvedie v žiadosti svoje meno, priezvisko a adresu trvalého pobytu.
+(2) Obhospodarovateľ môže požiadať kontrolný ústav o udelenie výnimky zo zákazu podľa odseku 1. Kontrolný ústav môže udeliť výnimku zo zákazu podľa odseku 1 len na poľnohospodárskej pôde v zraniteľných oblastiach so svahovitosťou do 5° na obdobie 14 dní od začiatku zakázaného obdobia alebo 14 dní pred koncom zakázaného obdobia, ak v tomto období nastane priaznivý vývoj klimatických podmienok a priemerná denná teplota vzduchu je na základe meteorologických predpovedí Slovenského hydrometeorologického ústavu vyššia ako 5° C s prognózou jej dlhšieho trvania. Žiadosť obhospodarovateľa o udelenie výnimky zo zákazu podľa odseku 1 sa eviduje v registračnom a informačnom systéme, ktorý vedie organizácia, ktorej zriaďovateľom je ministerstvo.
 
 (3) Obhospodarovateľ môže použiť dusíkaté hnojivé látky
 
-- a) na pôde bez vegetačného krytu bezprostredným zaoraním, ak ide o tuhé hnojivá, a podpovrchovou aplikáciou, ak ide o kvapalné hnojivá a pri hospodárení na odvodnených územiach s funkčným melioračným systémom spôsobom, ktorý zodpovedá vysokému stupňu obmedzenia,
+- a) na pôde bez vegetačného krytu bezprostredným zapracovaním, ak ide o tuhé hnojivá, a podpovrchovou aplikáciou, ak ide o kvapalné hnojivá a pri hospodárení na odvodnených územiach s funkčným melioračným systémom spôsobom, ktorý zodpovedá vysokému stupňu obmedzenia,
 
 - b) ak dodrží dávky dusíka pre jednotlivé plodiny podľa ich potreby živín, ktorá je uvedená v prílohe č. 3.
 
@@ -32,7 +32,7 @@
 
 - d) používať závlahovú vodu tak, aby nedošlo k znečisteniu povrchových a podzemných vôd, najmä stekaním,
 
-- e) dodržiavať dávky dusíka aplikovaného vo forme hospodárskych hnojív tak, aby neprevýšili dávku dusíka 170 kg/ha za hospodársky rok, pričom do tohto limitu sa započítavajú aj exkrementy zvierat na pasienku a nezapočítava sa dusík pozberových zvyškov rastlín alebo vedľajších produktov plodín, ak boli zaorané do poľnohospodárskej pôdy; produkcia dusíka jedným zvieraťom za kalendárny rok je uvedená v prílohe č. 4, obsah živín v hospodárskych hnojivách je uvedený v prílohe č. 5 a limitné dávky dusíka pri jednotlivých plodinách sú uvedené v prílohe č. 7,
+- e) dodržiavať dávky dusíka aplikovaného vo forme hospodárskych hnojív tak, aby neprevýšili dávku dusíka 170 kg/ha za hospodársky rok, pričom do tohto limitu sa započítavajú aj exkrementy zvierat na pasienku a nezapočítava sa dusík pozberových zvyškov rastlín alebo vedľajších produktov plodín, ak boli zaorané do poľnohospodárskej pôdy; produkcia dusíka jedným zvieraťom za kalendárny rok je uvedená v prílohe č. 4, obsah živín v hospodárskych hnojivách je uvedený v prílohe č. 5, pričom hodnoty v nej uvedené platia, ak analytický rozbor vykonaný akreditovanou osobou<sup>7d</sup>) nepreukáže iné hodnoty obsahu dusíka v hospodárskom hnojive, a limitné dávky dusíka pri jednotlivých plodinách sú uvedené v prílohe č. 7,
 
 - f) zabezpečiť, aby sa pri aplikácii dusíkatých hnojivých látok podľa odseku 6 neprekročili limitné dávky pre plodiny uvedené v prílohe č. 7; to sa vzťahuje aj na aplikáciu len minerálnych dusíkatých hnojív, ak sa neaplikujú hospodárske hnojivá.
 

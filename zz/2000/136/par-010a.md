@@ -1,6 +1,6 @@
 # § 10a Registrovanie čistiarenského kalu a dnových sedimentov
 
-(1) Producent čistiarenského kalu alebo producent dnových sedimentov<sup>7c</sup>) je povinný viesť
+(1) Producent čistiarenského kalu alebo producent dnových sedimentov je povinný viesť
 
 - a) evidenciu o množstve, kvalite, zložení a vlastnostiach vyprodukovaného čistiarenského kalu alebo dnových sedimentov odovzdaných na ich ďalšie zhodnotenie vo forme kompostov, pestovateľských substrátov a iných sekundárnych zdrojov živín,
 

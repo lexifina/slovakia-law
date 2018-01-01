@@ -1,8 +1,8 @@
 # § 3a Používanie sekundárneho zdroja živín a kompostu
 
-(1) Producent sekundárneho zdroja živín a producent kompostu je povinný pred ich aplikáciou alebo pred ich uvedením do obehu vyžiadať si od Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho v Bratislave (ďalej len „kontrolný ústav“) povolenie na ich používanie. Producent sekundárneho zdroja živín a producent kompostu môže aplikovať alebo uvádzať sekundárny zdroj živín a kompost do obehu len na základe povolenia vydaného kontrolným ústavom.
+(1) Producent sekundárneho zdroja živín a producent kompostu je povinný pred ich prvou aplikáciou do poľnohospodárskej pôdy alebo na lesné pozemky, pred ich uvedením do obehu alebo pri zmene výrobných podmienok vyžiadať si od Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho v Bratislave (ďalej len „kontrolný ústav“) povolenie na ich používanie. Producent sekundárneho zdroja živín a producent kompostu môže aplikovať alebo uvádzať sekundárny zdroj živín a kompost do obehu len na základe povolenia vydaného kontrolným ústavom.
 
-(2) Kontrolný ústav na základe žiadosti producenta podľa odseku 1 vydá do 30 dní od doručenia žiadosti povolenie na používanie sekundárneho zdroja živín a kompostu na aplikáciu do poľnohospodárskej pôdy a zároveň určí podmienky aplikácie, ak obsah rizikových prvkov a mikrobiologických parametrov neprekračuje limitné hodnoty.
+(2) Kontrolný ústav na základe žiadosti producenta podľa odseku 1 vydá do 30 dní od doručenia žiadosti povolenie na používanie sekundárneho zdroja živín a kompostu na aplikáciu do poľnohospodárskej pôdy a zároveň určí podmienky aplikácie, ak obsah rizikových prvkov a mikrobiologických parametrov neprekračuje limitné hodnoty. Povolenie vydané kontrolným ústavom platí po dobu jedného roka od jeho vydania, ak počas trvania platnosti nedôjde k zmene technologického postupu výroby.
 
 (3) Žiadosť producenta podľa odseku 1 musí obsahovať
 

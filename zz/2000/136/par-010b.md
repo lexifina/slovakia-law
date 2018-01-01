@@ -14,9 +14,9 @@
 
 - a) zabezpečiť, aby nedošlo k znečisteniu povrchových vôd alebo podzemných vôd,
 
-- b) uskutočniť vývoz maštaľného hnoja z pevnej podložky na voľnú skládku najskôr po troch mesiacoch od poslednej navážky; to sa nevzťahuje na tuhé hospodárske hnojivá z hlbokých podstielok, pri stelivových prevádzkach s kanalizáciou na oddelenie močovky od maštaľného hnoja a z chovu zvierat bez produkcie močovky pri dennej spotrebe steliva vyššej ako 6 kg na dobytčiu jednotku na deň, o ktorej sa vedie evidencia o spotrebe podstielky a o počte chovaných zvierat a ktoré môžu byť uložené na poľnohospodárskej pôde bez nutnosti predchádzajúceho uskladnenia na pevných hnojiskách,
+- b) uskutočniť vývoz maštaľného hnoja z pevnej podložky na voľnú skládku najskôr po troch mesiacoch od poslednej navážky; to sa nevzťahuje na tuhé hospodárske hnojivá z hlbokých podstielok, pri stelivových prevádzkach s kanalizáciou na oddelenie močovky od maštaľného hnoja a z chovu zvierat bez produkcie močovky pri dennej spotrebe steliva vyššej ako 6 kg na dobytčiu jednotku na deň, o ktorej sa vedie evidencia o spotrebe podstielky a o počte chovaných zvierat a ktoré môžu byť uložené na poľnohospodárskej pôde bez nutnosti predchádzajúceho uskladnenia na pevných hnojiskách, pričom vývoz na voľnú skládku sa nesmie uskutočniť v období, v ktorom je používanie dusíkatých hnojivých látok v zraniteľných oblastiach zakázané podľa prílohy č. 2,
 
-- c) spracovať voľnú skládku do ôsmich mesiacov od prvej navážky; opakované zriadenie voľnej skládky na tom istom mieste možno až po štyroch rokoch,
+- c) spracovať voľnú skládku do ôsmich mesiacov od prvej navážky najneskôr však do začiatku obdobia, v ktorom je používanie dusíkatých hnojivých látok v zraniteľných oblastiach zakázané podľa prílohy č. 2; opakované zriadenie voľnej skládky na tom istom mieste možno až po štyroch rokoch,
 
 - d) viesť evidenciu o mieste skladovania a prvej navážke hnoja a kompostu na voľnú skládku.
 
