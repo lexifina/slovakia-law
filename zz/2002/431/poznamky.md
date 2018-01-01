@@ -22,7 +22,7 @@
 
 - 8) § 4 ods. 2 zákona Národnej rady Slovenskej republiky č. 1/1993 Z. z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov.
 
-- 9) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 9) Napríklad § 56 zákona č. 43/2004 Z. z. v znení neskorších predpisov, § 40 zákona č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 10) § 61 ods. 1 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
@@ -52,7 +52,7 @@
 
 - Nariadenie Komisie (ES) č. 1126/2008 z 3. novembra 2008, ktorým sa v súlade s nariadením Európskeho parlamentu a Rady (ES) č. 1606/2002 prijímajú určité medzinárodné účtovné štandardy (Ú. v. EÚ L 320, 29. 11. 2008) v platnom znení.
 
-- 22aa) § 5 písm. j) zákona č. 594/2003 Z. z.
+- 22aa) § 25 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 22aaa) Zákon Národnej rady Slovenskej republiky č. 258/1993 Z. z. o Železniciach Slovenskej republiky v znení neskorších predpisov.
 
@@ -61,6 +61,12 @@
 - 22ac) Medzinárodný účtovný štandard 27 bod 38, Medzinárodné účtovné štandardy 28 a 31, nariadenie (ES) č. 1126/2008 v platnom znení.
 
 - 22ad) Zákon č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 22ae) § 4 zákona č. 562/2004 Z. z. o európskej spoločnosti a o zmene a doplnení niektorých zákonov.
+
+- 22af) § 4 zákona č. 91/2007 Z. z. o európskom družstve.
+
+- 22ag) § 2 zákona č. 177/2004 Z. z. o európskom zoskupení hospodárskych záujmov, ktorým sa mení a dopĺňa zákon č. 595/2003 Z. z. o dani z príjmov.
 
 - 22b) Protokol o Štatúte Európskeho systému centrálnych bánk a Európskej centrálnej banky, príloha č. 18 k Zmluve o založení Európskeho spoločenstva (oznámenie č. 185/2004 Z. z.).
 
@@ -114,7 +120,7 @@
 
 - 29da) § 34 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 29db) § 6 ods. 21 zákona č. 483/2001 Z. z. v znení zákona č. 46/2011 Z. z.
+- 29db) § 5 písm. ab) zákona č. 483/2001 Z. z. v znení zákona č. 213/2014 Z. z.
 
 - 29e) Napríklad § 24 zákona č. 147/1997 Z. z. v znení zákona č. 445/2008 Z. z., § 33 zákona č. 213/1997 Z. z. v znení neskorších predpisov, § 8 zákona č. 119/2010 Z. z. o obaloch a o zmene zákona č. 223/2001 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 90/2008 Z. z. o európskom zoskupení územnej spolupráce a o doplnení zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
@@ -168,7 +174,7 @@
 
 - Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
-- 35aa) § 15 ods. 1 zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 503/2009 Z. z.
+- 35aa) § 4 ods. 1 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
 
 - 35ab) § 88b zákona č. 43/2004 Z. z. v znení zákona č. 334/2011 Z. z.
 
@@ -194,6 +200,8 @@
 
 - 44) Napríklad zákon č. 183/2000 Z. z. o knižniciach, o doplnení zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti a o zmene a doplnení zákona č. 68/1997 Z. z. o Matici slovenskej v znení neskorších predpisov, zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov, zákon č. 319/2002 Z. z. o obrane Slovenskej republiky v znení neskorších predpisov, zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov, zákon č. 581/2004 Z. z. v znení neskorších predpisov, zákon č. 206/2009 Z. z. o múzeách a o galériách a o ochrane predmetov kultúrnej hodnoty a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
+- 44a) § 123 ods. 2 a § 217a Obchodného zákonníka.
+
 - 45) § 184 Zákonníka práce.
 
 - 45a) Napríklad zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov.
@@ -211,5 +219,7 @@
 - 47ac) Vyhláška Ministerstva financií Slovenskej republiky č. 75/2008 Z. z., ktorou sa ustanovujú pravidlá vykazovania, prepočtu a zaokrúhľovania peňažných súm v súvislosti s prechodom na menu euro na účely účtovníctva, daní a colné účely.
 
 - 47ad) § 1 ods. 2 písm. f) zákona č. 659/2007 Z. z.
+
+- 47ae) § 58 ods. 1 písm. c) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 48) § 46 zákona č. 563/2009 Z. z.

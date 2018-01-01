@@ -14,15 +14,17 @@
 
 - c) priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2 000.
 
-(3) Účtovná jednotka okrem účtovnej jednotky podľa odseku 1 alebo odseku 2 sa môže rozhodnúť zostavovať individuálnu účtovnú závierku podľa osobitného predpisu,<sup>22a</sup>) ak
+(3) Účtovná jednotka okrem účtovnej jednotky podľa odseku 1 alebo odseku 2 sa môže rozhodnúť zostavovať individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) ak
 
 - a) v účtovnom období emitovala cenné papiere a tieto boli prijaté na obchodovanie na regulovanom trhu,<sup>22aa</sup>) alebo
 
 - b) je platobnou inštitúciou,<sup>22ad</sup>) inštitúciou elektronických peňazí, obchodníkom s cennými papiermi, pobočkou zahraničného obchodníka s cennými papiermi a nie je súčasne bankou, pobočkou zahraničnej banky, správcovskou spoločnosťou alebo pobočkou zahraničnej správcovskej spoločnosti, alebo
 
-- c) je nástupníckou účtovnou jednotkou a zanikajúca účtovná jednotka alebo nástupnícka účtovná jednotka pred rozhodným dňom<sup>7a</sup>) zostavovala individuálnu účtovnú závierku podľa osobitného predpisu,<sup>22a</sup>) alebo
+- c) je nástupníckou účtovnou jednotkou a zanikajúca účtovná jednotka alebo nástupnícka účtovná jednotka pred rozhodným dňom<sup>7a</sup>) zostavovala individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>) alebo
 
-- d) je novovzniknutou dcérskou účtovnou jednotkou a ku dňu, ku ktorému zostavuje prvú individuálnu účtovnú závierku, spĺňa podmienky podľa odseku 2 a zároveň jej materská účtovná jednotka, ktorá podlieha právu niektorého členského štátu, zostavuje individuálnu účtovnú závierku podľa osobitného predpisu.<sup>22a</sup>)
+- d) je novovzniknutou dcérskou účtovnou jednotkou a ku dňu, ku ktorému zostavuje prvú individuálnu účtovnú závierku, spĺňa podmienky podľa odseku 2 a zároveň jej materská účtovná jednotka, ktorá podlieha právu niektorého členského štátu, zostavuje individuálnu účtovnú závierku podľa osobitných predpisov,<sup>22a</sup>)
+
+- e) je európskou spoločnosťou<sup>22ae</sup>) so sídlom na území Slovenskej republiky, európskym družstvom<sup>22af</sup>) so sídlom na území Slovenskej republiky alebo je európskym zoskupením hospodárskych záujmov<sup>22ag</sup>) so sídlom na území Slovenskej republiky, ak pred premiestnením sídla na územie Slovenskej republiky zostavovali individuálnu účtovnú závierku podľa osobitných predpisov.<sup>22a</sup>)
 
 (4) Účtovná jednotka uvedená v odsekoch 1 až 3 zostaví na účely osobitného predpisu<sup>22ab</sup>) aj individuálnu účtovnú závierku,<sup>22a</sup>) v ktorej sa cenné papiere a podiely vykážu podľa osobitného predpisu.<sup>22ac</sup>)
 
