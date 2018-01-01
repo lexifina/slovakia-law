@@ -30,6 +30,6 @@
 
 - b) námietky boli podané, právoplatnosťou uznesenia o zamietnutí námietok.
 
-(6) Ak ide o dôvod podľa odseku 1 písm. c), upovedomenie o zastavení exekúcie zverejní exekútor bezodkladne aj v Obchodnom vestníku. Ak ide o obchodnú spoločnosť zapísanú v obchodnom registri, uplynutím lehoty šiestich mesiacov od zverejnenia upovedomenia o zastavení exekúcie v Obchodnom vestníku sa obchodná spoločnosť zrušuje bez toho, aby sa vyžadovala jej likvidácia; to neplatí, ak ohľadom nej neprebieha konkurzné konanie. Registrový súd bezodkladne po uplynutí lehoty podľa druhej vety vykoná výmaz obchodnej spoločnosti z obchodného registra.
+(6) Ak ide o dôvod podľa odseku 1 písm. c), upovedomenie o zastavení exekúcie zverejní exekútor bezodkladne po ukončení exekučného konania aj v Obchodnom vestníku. Ak ide o obchodnú spoločnosť zapísanú v obchodnom registri, uplynutím lehoty šiestich mesiacov od zverejnenia upovedomenia o zastavení exekúcie v Obchodnom vestníku sa obchodná spoločnosť zrušuje bez toho, aby sa vyžadovala jej likvidácia; to neplatí, ak ohľadom nej prebieha konkurzné konanie. Registrový súd bezodkladne po uplynutí lehoty podľa druhej vety vykoná výmaz obchodnej spoločnosti z obchodného registra.
 
 (7) Lehoty podľa odseku 1 písm. c) a d) sa predlžujú o dobu odkladu exekúcie.
