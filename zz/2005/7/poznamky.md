@@ -10,6 +10,10 @@
 
 - 3a) § 2 písm. b) zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 570/2009 Z. z.
 
+- 3b) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/848 z 20. mája 2015 o insolvenčnom konaní (prepracované znenie) (Ú. v. EÚ L 141, 5. 6. 2015) v platnom znení.
+
+- 3c) Čl. 5 nariadenia (EÚ) č. 2015/848 v platnom znení.
+
 - 4) § 127 Civilného sporového poriadku.
 
 - 4a) § 2 písm. e) zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 323/2007 Z. z.
@@ -27,6 +31,8 @@
 - 8a) Zákon č. 371/2014 Z. z. o riešení krízových situácií na finančnom trhu a o zmene a doplnení niektorých zákonov.
 
 - 8b) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 655/2004 Z. z. o odmenách a náhradách advokátov za poskytovanie právnych služieb v znení neskorších predpisov.
+
+- 8c) § 3 ods. 1 zákona č. 523/2004 Z. z.
 
 - 9) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
@@ -72,7 +78,11 @@
 
 - 21) Napríklad zákon Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
-- 21a) § 460 až 487 Občianskeho zákonníka.
+- 21a) Napríklad čl. 11 ods. 3 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení, čl. 3 delegovaného nariadenia Komisie (EÚ) 2016/2251 zo 4. októbra 2016, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 648/2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov, pokiaľ ide o regulačné technické predpisy pre postupy zmierňovania rizika pre zmluvy o mimoburzových derivátoch, ktoré centrálna protistrana nezúčtovala (Ú. v. EÚ L 340, 15. 12. 2016) v platnom znení.
+
+- 21aa) § 67 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 21b) § 460 až 487 Občianskeho zákonníka.
 
 - 22a) Trestný poriadok v znení neskorších predpisov.
 
@@ -92,13 +102,21 @@
 
 - 25c) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
 
+- 25ca) § 5 písm. ag) a § 27f zákona č. 483/2001 Z. z. v znení zákona č. 264/2017 Z. z.
+
+- 25cb) § 27f zákona č. 483/2001 Z. z. v znení zákona č. 264/2017 Z. z.
+
 - 25d) § 32 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
 - 25e) § 22 zákona č. 527/2002 Z. z.
 
-- 25f) Čl. 3 nariadenia Európskeho parlamentu a Rady (EÚ) 2015/848 z 20. mája 2015 o insolvenčnom konaní (Ú. v. EÚ L 141, 5. 6. 2015).
-
 - 26) Nariadenie Rady (ES) č. 1346/2000 z 29. mája 2000 o konkurznom konaní (Mimoriadne vydanie Ú. v. EÚ, kap. 19/zv. 01; Ú. v. ES L 160, 30. 6. 2004) v platnom znení.
+
+- Nariadenie (EÚ) č. 2015/848 v platnom znení.
+
+- 26a) Čl. 36 nariadenia (EÚ) č. 2015/848 v platnom znení.
+
+- 26b) Čl. 2 ods. 11 a čl. 36 ods. 11 nariadenia (EÚ) č. 2015/848 v platnom znení.
 
 - 27) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
@@ -112,6 +130,8 @@
 
 - 28c) Zákon č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 28d) § 2 ods. 1 písm. a) zákona č. 90/2016 Z. z.
+
 - 29) § 54 ods. 1 písm. a) zákona č. 492/2009 Z. z.
 
 - Zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
@@ -122,8 +142,6 @@
 
 - § 107a zákona č. 566/2001 Z. z. v znení zákona č. 510/2002 Z. z.
 
-- 32) § 151me Občianskeho zákonníka.
-
 - 32a) § 11 ods. 1 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. o ochrane vkladov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 32b) § 13 ods. 4 písm. g) zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
@@ -132,10 +150,32 @@
 
 - 32d) § 11 ods. 4 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 340/2003 Z. z.
 
-- 33) § 72, 74, 76 a 77 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
-
-- § 16 ods. 3 až 7 a § 20 ods. 4 zákona č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov.
+- 33) § 67 ods. 10 až 13 zákona č. 483/2001 Z. z. v znení zákona č. 279/2007 Z. z.
 
 - 33a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
+
+- 33aa) § 1 ods. 6 zákona č. 90/2016 Z. z. v znení zákona č. 279/2017 Z. z.
+
+- 33b) § 67 až 80 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 33c) § 68 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 33d) § 55 a § 67 ods. 10 až 13 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 33e) § 28 ods. 1 písm. g) a ods. 2 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+
+- 33f) § 3 ods. 6 zákona č. 530/1990 Zb. v znení neskorších predpisov.
+
+- 33g) § 70 ods. 1 zákona č. 483/2001 Z. z. v znení zákona č. 279/2017 Z. z.
+
+- 33h) § 5 Obchodného zákonníka.
+
+- § 28 Zákonníka práce v znení zákona č. 348/2007 Z. z.
+
+- 33i) § 478 Obchodného zákonníka.
+
+- § 42a a 42b Občianskeho zákonníka v znení neskorších predpisov.
+
+- 33j) § 2 ods. 1 písm. t) zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 34) § 2 písm. a) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
