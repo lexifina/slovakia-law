@@ -276,11 +276,11 @@
 
 - 42a) Zákon č. 293/2007 Z. z. o uznávaní odborných kvalifikácií.
 
-- 42b) § 2 písm. p) zákona č. 293/2007 Z. z.
+- 42b) § 26 zákona č. 422/2015 Z. z. o uznávaní dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých zákonov v znení zákona č. 276/2017 Z. z.
 
 - 42c) § 19 a 20 zákona č. 293/2007 Z. z.
 
-- 42d) Napríklad § 42 ods. 5 a 6 a § 47 zákona č. 326/2005 Z. z. o lesoch, § 25 zákona č. 217/2004 Z. z. o lesnom reprodukčnom materiáli a o zmene niektorých zákonov v znení zákona č. 545/2004 Z. z.
+- 42d) Zákon č. 422/2015 Z. z. v znení zákona č. 276/2017 Z. z.
 
 - 43) Zákon č. 83/1990 Zb. o združovaní občanov v znení zákona č. 300/1990 Zb.
 

@@ -2,13 +2,13 @@
 
 (1) Odbornú spôsobilosť pre živnosti zaradené do zoznamu II spĺňa osoba spoločenstva, ktorá vykonávala príslušnú činnosť po dobu
 
-- a) piatich po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra<sup>42b</sup>) alebo
+- a) piatich po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra alebo
 
 - b) troch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie, alebo
 
 - c) štyroch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej dvojročné vzdelanie, alebo
 
-- d) troch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba, ak súčasne preukáže, že vykonávala príslušnú činnosť v postavení zamestnanca najmenej päť rokov, alebo
+- d) troch po sebe nasledujúcich rokov ako samostatne zárobkovo činná osoba alebo v postavení manažéra, ak súčasne preukáže, že vykonávala príslušnú činnosť v postavení zamestnanca najmenej päť rokov, alebo
 
 - e) piatich po sebe nasledujúcich rokov v postavení zamestnanca, ak súčasne preukáže, že pre príslušnú činnosť získala predchádzajúce najmenej trojročné vzdelanie, alebo
 
