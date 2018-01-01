@@ -27,3 +27,17 @@
   - 4. výpočet koeficientov determinácie jednotlivých farmaceuticko-nákladových skupín,
 
 - b) výsledky splnenia kritérií na zaradenie farmaceuticko-nákladovej skupiny do zoznamu farmaceuticko-nákladových skupín podľa jednotlivých kritérií uvedených v § 27b ods. 4 písm. a) až e).
+
+(5) Ministerstvo zdravotníctva oznámi úradu do 31. októbra kalendárneho roka na účely výpočtu nadlimitnej sumy podľa § 27aa a kontroly správnosti údajov o poistencoch, ktoré predkladajú zdravotné poisťovne, údaje o poistencoch za predchádzajúci kalendárny rok v rozsahu
+
+- a) rodné číslo poistenca, pri ktorom hodnota nadlimitnej sumy je nenulová; ak ide o cudzinca, ktorý nemá pridelené rodné číslo, meno, priezvisko a dátum narodenia,
+
+- b) pohlavie,
+
+- c) výška skutočných nákladov zdravotnej poisťovne na zdravotnú starostlivosť na poistenca,
+
+- d) zaradenie poistenca do skupiny určenej indexom podľa § 28 ods. 3,
+
+- e) výška nadlimitnej sumy za poistenca,
+
+- f) kód príslušnej zdravotnej poisťovne poistenca.
