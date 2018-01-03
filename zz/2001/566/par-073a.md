@@ -12,6 +12,8 @@
 
   - 4. doklady a údaje preukazujúce oprávnenie na zastupovanie v prípade zástupcu a splnenie ostatných požiadaviek a podmienok na uzavretie alebo vykonanie obchodu, ktoré sú ustanovené týmto zákonom alebo osobitnými predpismi alebo ktoré sú dohodnuté s obchodníkom s cennými papiermi,
 
+  - 5. osobné údaje, ktoré sa týkajú ekonomickej identity klienta na účely tohto zákona,
+
 - b) umožniť získať kopírovaním, skenovaním alebo iným zaznamenávaním
 
   - 1. osobné údaje<sup>58a</sup>) o totožnosti z dokladu totožnosti v rozsahu obrazová podobizeň, titul, meno, priezvisko, rodné priezvisko, rodné číslo, dátum narodenia, miesto a okres narodenia, adresa trvalého pobytu, adresa prechodného pobytu, štátna príslušnosť, záznam o obmedzení spôsobilosti na právne úkony, druh a číslo dokladu totožnosti, vydávajúci orgán, dátum vydania a platnosť dokladu totožnosti, a

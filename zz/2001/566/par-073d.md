@@ -1,39 +1,53 @@
 # § 73d
 
-(1) Obchodník s cennými papiermi je povinný poskytnúť klientom alebo potenciálnym klientom nasledujúce informácie v zrozumiteľnej forme, ktoré sú potrebné na to, aby mohli správne porozumieť charakteru a rizikám investičnej služby, konkrétnemu druhu ponúkaného finančného nástroja a následne zodpovedne prijať investičné rozhodnutia, a to informácie o
+(1) Obchodník s cennými papiermi je povinný poskytnúť klientom alebo potenciálnym klientom v zrozumiteľnej forme informácie, ktoré sú potrebné na to, aby mohli správne porozumieť charakteru a rizikám investičnej služby, konkrétnemu druhu ponúkaného finančného nástroja a následne zodpovedne prijať investičné rozhodnutia, a to informácie o
 
 - a) obchodníkovi s cennými papiermi a ním poskytovaných službách,
 
-- b) finančných nástrojoch a navrhovaných investičných stratégiách vrátane príslušných poučení a upozornení v súvislosti s rizikami spojenými s investíciami v týchto nástrojoch alebo s konkrétnymi investičnými stratégiami a ochrane finančných nástrojov alebo peňažných prostriedkov klienta,
+- b) finančných nástrojoch a navrhovaných investičných stratégiách vrátane príslušných poučení a upozornení v súvislosti s rizikami spojenými s investíciami v týchto nástrojoch alebo s konkrétnymi investičnými stratégiami a ochrane finančných nástrojov alebo peňažných prostriedkov klienta, a či je finančný nástroj určený pre neprofesionálnych klientov alebo profesionálnych klientov, s ohľadom na identifikovaný cieľový trh,
 
 - c) mieste výkonu služby,
 
-- d) nákladoch a súvisiacich poplatkoch.
+- d) všetkých nákladoch a súvisiacich poplatkoch, ktoré musia obsahovať informácie súvisiace s investičnými službami a vedľajšími službami vrátane nákladov na poradenstvo, nákladov na finančné nástroje odporúčané klientovi a ako ich klient môže uhradiť, vrátane akýchkoľvek platieb tretej strany.
 
-(2) Obchodník s cennými papiermi je povinný poskytnúť neprofesionálnemu klientovi alebo potenciálnemu neprofesionálnemu klientovi v dostatočnom časovom predstihu pred tým, ako bude neprofesionálny klient alebo potenciálny neprofesionálny klient viazaný akoukoľvek zmluvou o poskytnutí investičných služieb alebo vedľajších služieb, alebo pred poskytnutím týchto služieb, podľa toho, ktorá situácia nastane skôr, tieto informácie:
+(2) Ak je poskytované investičné poradenstvo, obchodník s cennými papiermi je povinný včas pred poskytnutím investičného poradenstva informovať klienta o tom, či
 
-- a) podmienky takejto zmluvy,
+- a) sa poradenstvo poskytuje na nezávislom základe alebo nie,
 
-- b) informácie podľa odseku 1 písm. a), ktoré sa týkajú takejto zmluvy alebo týchto investičných služieb alebo vedľajších služieb.
+- b) je poradenstvo založené na širšej analýze alebo užšej analýze rôznych druhov finančných nástrojov a najmä či rozsah finančných nástrojov je obmedzený na finančné nástroje vydané alebo poskytované osobami, ktoré majú úzke väzby s príslušným obchodníkom s cennými papiermi alebo iné právne vzťahy alebo obchodné vzťahy, ako napríklad zmluvný vzťah, ktoré sú také úzke, že by potenciálne mohli ovplyvniť nezávislosť poskytovaného poradenstva,
 
-(3) Informácie podľa odsekov 1, 2 a 6 až 8 v prípade neprofesionálneho klienta alebo podľa odsekov 6 a 7 v prípade profesionálneho klienta musia byť poskytnuté v dostatočnom časovom predstihu pred poskytnutím príslušnej investičnej služby alebo vedľajšej služby na trvanlivom médiu alebo prostredníctvom webového sídla spĺňajúcej podmienky podľa § 73v. Informácie môžu byť poskytované aj v štandardizovanej forme.
+- c) sa poskytne klientovi pravidelné posúdenie vhodnosti finančných nástrojov odporúčaných obchodníkom s cennými papiermi príslušným klientom.
 
-(4) Poskytnutie informácií podľa odseku 2 môže byť odložené až od času, keď bude tento klient viazaný zmluvou o poskytnutí investičných služieb alebo vedľajších služieb podľa odseku 1 až do začatia poskytovania služby a to v týchto prípadoch, ak
+(3) Ak obchodník s cennými papiermi informuje klienta, že investičné poradenstvo poskytuje na nezávislom základe, obchodník s cennými papiermi
 
-- a) obchodník s cennými papiermi nemôže dodržať lehoty podľa odseku 3, pretože zmluva bola na žiadosť klienta uzatvorená prostredníctvom prostriedkov diaľkovej komunikácie, ktoré neumožňujú poskytnutie informácie podľa odseku 1 alebo 2,
+- a) je povinný posúdiť dostatočný rozsah finančných nástrojov dostupných na trhu, ktoré musia byť dostatočne rozmanité, ak ide o ich typ a emitentov alebo poskytovateľov produktov na zabezpečenie dostatočného plnenia investičných cieľov klienta, a nesmú byť obmedzené na finančné nástroje vydané alebo poskytované
 
-- b) sa neuplatňuje ustanovenie osobitného zákona,<sup>58ha</sup>) obchodník s cennými papiermi postupuje podľa ustanovenia osobitného zákona,<sup>58ha</sup>) vo vzťahu k neprofesionálnemu klientovi alebo potenciálnemu neprofesionálnemu klientovi ako keby bol tento klient alebo potenciálny klient spotrebiteľom a obchodník s cennými papiermi dodávateľom podľa osobitného predpisu.<sup>58ha</sup>)
+  - 1. samotným obchodníkom s cennými papiermi alebo osobami, ktoré majú úzke väzby s obchodníkom s cennými papiermi alebo
 
-(5) Obchodník s cennými papiermi je povinný bezodkladne oznámiť klientovi každú významnú zmenu informácií poskytnutých podľa odseku 1, ktorá sa týka investičnej služby alebo vedľajšej služby, ktorú klientovi poskytuje. Toto oznámenie sa poskytuje na trvanlivom médiu, ak sa na trvanlivom médiu poskytli informácie, ktorých sa oznámenie týka.
+  - 2. inými osobami, ktoré majú také úzke právne vzťahy alebo obchodné vzťahy s obchodníkom s cennými papiermi, ako sú zmluvné vzťahy, ktoré by potenciálne mohli ovplyvniť nezávislosť poskytovaného poradenstva,
 
-(6) Obchodník s cennými papiermi je povinný informovať klienta alebo potenciálneho klienta o skutočnosti, že účty, na ktorých sú vedené finančné nástroje alebo peňažné prostriedky tohto klienta alebo potenciálneho klienta, podliehajú alebo budú podliehať právnym predpisom nečlenského štátu vrátane upozornenia, že práva tohto klienta alebo potenciálneho klienta spojené s týmito finančnými nástrojmi alebo peňažnými prostriedkami sa môžu z tohto dôvodu odlišovať.
+- b) nesmie prijímať ani si ponechávať poplatky, provízie alebo iné peňažné výhody a nepeňažné výhody zaplatené alebo poskytnuté akoukoľvek treťou osobou alebo osobou, ktorá koná v mene tretej osoby v súvislosti s poskytnutím služby klientom; menšie nepeňažné výhody, ktoré boli oznámené klientovi pred poskytnutím príslušnej investičnej služby a ktoré môžu zvýšiť kvalitu služieb poskytovaných klientovi a v dôsledku svojho rozsahu a povahy sa nepovažujú za narúšajúce súlad s povinnosťou obchodníka s cennými papiermi konať v najlepšom záujme klienta, pričom menšie nepeňažné výhody môžu byť opísané všeobecným spôsobom.
 
-(7) Obchodník s cennými papiermi je povinný informovať klienta o existencii a podmienkach všetkých finančných zábezpek vo vzťahu k finančným nástrojom alebo peňažným prostriedkom klienta, ktoré obchodník s cennými papiermi má alebo môže mať, alebo o akomkoľvek práve na zápočet pohľadávky v súvislosti s týmito nástrojmi alebo peňažnými prostriedkami. Obchodník s cennými papiermi je tiež povinný informovať klienta o prípadnej skutočnosti, že osoba, u ktorej sú evidované finančné nástroje, môže mať záložné právo alebo iné zabezpečovacie právo na tieto finančné nástroje alebo peňažné prostriedky klienta, alebo právo na zápočet pohľadávky v súvislosti s týmito finančnými nástrojmi alebo peňažnými prostriedkami klienta.
+(4) Obchodník s cennými papiermi pri poskytovaní investičnej služby riadenie portfólia neakceptuje ani si neponecháva poplatky, provízie alebo iné peňažné výhody a nepeňažné výhody zaplatené alebo poskytnuté akoukoľvek treťou osobou alebo osobou, ktorá koná v mene tretej osoby v súvislosti s poskytnutím služby klientom. Menšie nepeňažné výhody, ktoré boli oznámené klientovi pred poskytnutím príslušnej investičnej služby a ktoré môžu zvýšiť kvalitu služieb poskytovaných klientovi a v dôsledku svojho rozsahu a povahy sa nepovažujú za výhody, ktoré narúšajú súlad s povinnosťou obchodníka s cennými papiermi konať v najlepšom záujme klienta, pričom menšie nepeňažné výhody môžu byť opísané všeobecným spôsobom.
 
-(8) Obchodník s cennými papiermi pred uzavretím obchodu spočívajúceho vo financovaní cenných papierov týkajúcom sa finančných nástrojov neprofesionálneho klienta alebo v inom použití týchto finančných nástrojov na svoj vlastný účet alebo účet iného klienta je povinný poskytnúť neprofesionálnemu klientovi na trvanlivom médiu a v dostatočnom časovom predstihu pred použitím týchto nástrojov prehľadné, úplné a presné informácie o povinnostiach a zodpovednostiach obchodníka s cennými papiermi v súvislosti s použitím týchto finančných nástrojov, vrátane podmienok vrátenia finančných nástrojov, a o rizikách, ktoré s nimi súvisia.
+(5) Poplatky, provízie alebo iné peňažné plnenia uhradené alebo poskytnuté obchodníkovi s cennými papiermi poskytujúcemu klientovi investičné poradenstvo na nezávislom základe alebo vykonávajúcemu pre klienta investičnú službu riadenia portfólia akoukoľvek treťou osobou alebo osobou, ktorá koná v jej mene v súvislosti s poskytnutím služieb klientovi je obchodník s cennými papiermi povinný bezodkladne po ich prijatí previesť v plnej výške na príslušného klienta.
 
-(9) Obchodník s cennými papiermi je povinný pri poskytovaní investičnej služby riadenie portfólia vypracovať na základe investičných cieľov klienta a druhov finančných nástrojov v portfóliu klienta vhodnú metódu oceňovania a porovnávania, ktorá bude slúžiť ako orientácia pre klienta potrebná na to, aby klient, ktorému sa služba poskytuje, mohol zhodnotiť výkonnosť obchodníka s cennými papiermi.
+(6) Obchodník s cennými papiermi je povinný zaviesť a dodržiavať opatrenia s cieľom dodržiavať povinnosti podľa odseku 5 a pravidelne informovať klienta o poplatkoch, províziách alebo iných peňažných plneniach prevedených na klienta.
 
-(10) V prípade podielových listov otvorených podielových fondov a cenných papierov európskych fondov sa považuje zjednodušený prospekt vypracovaný v súlade s osobitným zákonom<sup>58hb</sup>) za primeraný spôsob informovania na účely odseku 1 písm. b) a d) s ohľadom na náklady a poplatky súvisiace s otvoreným podielovým fondom alebo európskym fondom vrátane vstupných poplatkov a výstupných poplatkov.
+(7) Obchodník s cennými papiermi poskytujúci investičné poradenstvo na nezávislom základe alebo vykonávajúci investičnú službu riadenia portfólia nesmie prijímať nepeňažné výhody iné ako sú menšie nepeňažné výhody, ktoré majú spôsobilosť zvýšiť kvalitu poskytovanej služby pre klienta a ktoré majú taký rozsah a povahu, že ich nie je možné posudzovať ako spôsobilé oslabiť schopnosť obchodníka s cennými papiermi konať v záujme svojich klientov. Menšie nepeňažné výhody sú prijateľné len vtedy, ak ide o
 
-(11) Národná banka Slovenska ustanoví opatrením, ktoré vydá Národná banka Slovenska a ktoré sa vyhlasuje uverejnením jeho úplného znenia v zbierke zákonov, čo sa rozumie informáciami podľa odseku 1.
+- a) dokumentáciu alebo informácie, ktoré sa týkajú finančného nástroja alebo investičnej služby; táto informácia môže byť všeobecnej povahy alebo personalizovaná za účelom zohľadnenia podmienok individuálneho klienta,
+
+- b) písomnosti od tretej osoby, ktoré objednal a zaplatil emitent alebo potenciálny emitent, ktorí sú obchodnou spoločnosťou, s cieľom propagovať vydanie novej emisie cenných papierov tohto emitenta alebo ak tretia osoba je zmluvne zaviazaná a platená emitentom priebežne vytvárať také písomnosti a ak tento vzťah je jednoznačne uvedený v písomnosti a písomnosť je sprístupnená v rovnakom čase každému obchodníkovi s cennými papiermi, ktorý má o ňu záujem alebo je verejne prístupná,
+
+- c) účasť na konferenciách, seminároch a iných vzdelávacích podujatiach o výhodách a vlastnostiach určitých finančných nástrojov alebo investičných služieb,
+
+- d) stravovanie a ubytovanie v primeranom rozsahu a minimálnej hodnote, najmä strava a nápoje počas obchodných rokovaní alebo konferencií, seminárov a vzdelávacích podujatí podľa písmena c),
+
+- e) iné malé nepeňažné výhody, ktoré môžu zlepšiť kvalitu služby poskytovanej klientovi a s ohľadom na celkovú výšku plnení, ktoré poskytuje jeden subjekt alebo skupina subjektov, majú taký rozsah a povahu, že nemôžu narušiť povinnosť obchodníka s cennými papiermi konať v najlepšom záujme klienta.
+
+(8) Prijateľné malé nepeňažné výhody musia byť primerané a proporcionálne a musia byť v takom rozsahu, ktorý nemôže akýmkoľvek spôsobom ovplyvniť správanie obchodníka s cennými papiermi, ktoré by mohlo narušiť záujmy príslušného klienta.
+
+(9) Informovanie o malých nepeňažných výhodách sa musí uskutočniť pred poskytnutím príslušných investičných služieb alebo vedľajších služieb klientom. Malé nepeňažné výhody môžu byť opísané všeobecným spôsobom.
+
+(10) Informácie o nákladoch a poplatkoch podľa odseku 1 vrátane nákladov a poplatkov v súvislosti s investičnou službou a finančným nástrojom, ktoré nie sú spôsobené výskytom základného trhového rizika, musia byť zrátané, aby klient vedel pochopiť celkové náklady, ako aj kumulatívny vplyv na návratnosť investície, a na žiadosť klienta sa musí poskytnúť rozpis obsahujúci jednotlivé položky. Ak je to vhodné, tieto informácie sa poskytujú klientovi pravidelne, najmenej raz ročne, v priebehu životnosti investície.

@@ -1,6 +1,6 @@
 # § 145a
 
-(1) Národná banka Slovenska môže osobe tvoriacej súčasť finančného konglomerátu, nad ktorým vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu od 10 000 Sk do 20 000 000 Sk, ak táto osoba
+(1) Národná banka Slovenska môže osobe tvoriacej súčasť finančného konglomerátu, nad ktorým vykonáva doplňujúci dohľad, podľa závažnosti, rozsahu, dĺžky trvania, následkov a povahy zistených nedostatkov uložiť pokutu v rozpätí sadzby podľa § 144 ods. 1 písm. e), ak táto osoba
 
 - a) neumožní vykonať dohľad na mieste,
 

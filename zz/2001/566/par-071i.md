@@ -9,3 +9,5 @@
 - a) povaha finančných nástrojov alebo investičných služieb súvisiacich s týmito nástrojmi si vyžaduje, aby boli tieto finančné nástroje uložené u tretej osoby v nečlenskom štáte,
 
 - b) ak sú finančné nástroje držané na účet profesionálneho klienta a tento klient písomne požiada obchodníka s cennými papiermi o uloženie týchto finančných nástrojov u tretej osoby v nečlenskom štáte.
+
+(4) Ustanovenia odsekov 2 a 3 sa uplatňujú, aj ak príslušná tretia osoba zverila ktorúkoľvek zo svojich funkcií týkajúcich sa držby a úschovy finančných nástrojov inej tretej osobe.

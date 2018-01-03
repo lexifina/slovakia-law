@@ -31,3 +31,11 @@
 (4) Zásady odmeňovania podľa odseku 1 sa vzťahujú aj na poskytovanie odstupného, odchodného a na ďalšie kompenzácie v spojitosti s predchádzajúcim zamestnaním osôb podľa odseku 1.
 
 (5) Zásady odmeňovania obchodníka s cennými papiermi podľa odseku 1 musia byť v súlade s účinným systémom riadenia rizík, obchodnou stratégiou a dlhodobými cieľmi obchodníka s cennými papiermi a majú zahŕňať aj opatrenia na zabránenie konfliktu záujmov.
+
+(6) Ak obchodníkovi s cennými papiermi bolo poskytnuté stabilizačné opatrenie štátu sledujúce zmiernenie vplyvov globálnej finančnej krízy, je povinný uplatniť aj zásady odmeňovania na
+
+- a) pohyblivé zložky celkovej odmeny osoby podľa odseku 1, ktoré nepresiahnu 1 % z čistých príjmov, ak nie sú v súlade s obchodnou stratégiou obchodníka s cennými papiermi, jeho záujmami a s ukončením poskytnutej stabilizačnej pomoci,
+
+- b) základe požiadania Národnej banky Slovenska tak, aby upravil ich štruktúru, a ak je to potrebné, aj určenie limitov na odmeňovanie členov štatutárneho orgánu a členov dozornej rady, takým spôsobom, aby boli v súlade s vhodným riadením rizík,
+
+- c) pohyblivé zložky celkovej odmeny členov štatutárneho orgánu a členov dozornej rady, ktoré sa nepriznajú za hodnotené obdobie, ak sú neodôvodnené.

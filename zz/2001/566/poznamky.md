@@ -24,13 +24,15 @@
 
 - 13) Zákon č. 42/1992 Zb. o úprave majetkových vzťahov a vyporiadaní majetkových nárokov v družstvách v znení neskorších predpisov.
 
+- 13a) Čl. 2 ods. 1 bod 27 nariadenia Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
+
 - 14) § 2 ods. 2 a § 3 ods. 1 písm. c) a ods. 2 zákona č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení zákona č. 468/2005 Z. z.
 
 - 15) Zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
 - 16) § 535 až 539 Občianskeho zákonníka v znení zákona č. 509/1991 Zb.
 
-- 16a) § 39a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+- 16a) § 51 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
 - 16aa) § 3, 8, 12,18 a 19 zákona č. 530/1990 Zb. v znení neskorších predpisov.
 
@@ -44,13 +46,31 @@
 
 - Delegované nariadenie Komisie (EÚ) č. 241/2014 zo 7. januára 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 575/2013, pokiaľ ide o regulačné technické predpisy týkajúce sa požiadaviek na vlastné zdroje inštitúcií (Ú. v. EÚ L 74, 14. 3. 2014) v platnom znení.
 
+- 16af) Čl. 2 ods. 4 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1227/2011 z 25. októbra 2011 o integrite a transparentnosti veľkoobchodného trhu s energiou (Ú. v. EÚ L 326, 8. 12. 2011).
+
 - 16b) Čl. 38 nariadenia Komisie (ES) č. 1287/2006/ES z 10. augusta 2006, ktorým sa vykonáva smernica 2004/39/ES Európskeho parlamentu a Rady, pokiaľ ide o povinnosti pri vedení záznamov pre investičné spoločnosti, oznamovanie transakcií, priehľadnosť trhu, prijatie finančných nástrojov na obchodovanie a vymedzené pojmy na účely tejto smernice (Ú. v. EÚ L 241, 2. 9. 2006).
 
-- 17) Čl. 38 a 39 nariadenia Komisie (ES) č. 1287/2006/ES.
+- 17a) Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 17b) Čl. 9 delegovaného nariadenia Komisie (EÚ) 2017/565 z 25. apríla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o organizačné požiadavky a podmienky výkonu činnosti investičných spoločností, ako aj o vymedzené pojmy na účely uvedenej smernice (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 18) § 15 ods. 1 písm. b) zákona č. 330/2000 Z. z. o burze cenných papierov.
 
 - 18a) § 27 ods. 3 a 6 zákona č. 203/2011 Z. z. v znení zákona č. 206/2013 Z. z.
+
+- 18b) § 3 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+
+- 18c) Čl. 20 a 21 nariadenia (EÚ) č. 600/2014.
+
+- 18d) Čl. 6, 7, 10,12, 13, 20 a 21 nariadenia (EÚ) č. 600/2014.
+
+- 18e) Čl. 2 ods. 1 bod 28 nariadenia (EÚ) č. 600/2014.
+
+- 18f) Čl. 2 ods. 1 bod 29 nariadenia (EÚ) č. 600/2014.
+
+- 18g) Čl. 2 ods. 1 bod 30 nariadenia (EÚ) č. 600/2014.
+
+- 18h) Čl. 1 a príloha I časti I až XX a XXIV oddiel 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 zo 17. decembra 2013, ktorým sa vytvára spoločná organizácia trhov s poľnohospodárskymi výrobkami, a ktorým sa zrušujú nariadenia Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007 (Ú. v. L EÚ 347, 20. 12. 2013) v platnom znení.
 
 - 19) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
@@ -122,6 +142,8 @@
 
 - 45) Napríklad § 18, 19 a 24 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
 
+- 45a) Napríklad § 56 ods. 1 prvá veta a tretia veta Obchodného zákonníka, § 2 ods. 1 písm. c) zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov, usmernenie Európskej centrálnej banky (EÚ) 2015/510 (ECB/2014/60) z 19. decembra 2014 o vykonávaní rámca menovej politiky Eurosystému (Ú. v. EÚ L 91, 2. 4. 2015) v platnom znení.
+
 - 46) Napríklad zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 47) Civilný sporový poriadok.
@@ -156,6 +178,8 @@
 
 - 49a) Zákon č. 386/2002 Z. z. o štátnom dlhu a štátnych zárukách a ktorým sa dopĺňa zákon č. 291/2002 Z. z. o Štátnej pokladnici a o zmene a doplnení niektorých zákonov.
 
+- 49b) Napríklad zákon č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (ES) č. 714/2009 z 13. júla 2009 o podmienkach prístupu do sústavy pre cezhraničné výmeny elektriny, ktorým sa zrušuje nariadenie (ES) č. 1228/2003 (Ú. v. EÚ L 211, 14. 8. 2009) v platnom znení, nariadenie Európskeho parlamentu a Rady (ES) č. 715/2009 z 13. júla 2009 o podmienkach prístupu do prepravných sietí pre zemný plyn, ktorým sa zrušuje nariadenie (ES) č. 1775/2005 (Ú. v. EÚ L 211, 14. 8. 2009) v platnom znení.
+
 - 50) § 21 a 28 ods. 3 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 50a) Zákon č. 340/2005 Z. z. o sprostredkovaní poistenia a sprostredkovaní zaistenia a o zmene a doplnení niektorých zákonov.
@@ -166,13 +190,19 @@
 
 - 50b) § 10 ods. 5 zákona č. 340/2005 Z. z.
 
-- 51) § 27 ods. 5 Zákonníka práce v znení neskorších predpisov.
+- 50c) § 56 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 50d) Napríklad delegované nariadenie (EÚ) 2017/565, delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017), delegované nariadenie Komisie (EÚ) 2017/589 z 19. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy, ktorými sa spresňujú organizačné požiadavky investičných spoločností zapojených do algoritmického obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 51) § 9 ods. 3 Zákonníka práce v znení zákona č. 257/2011 Z. z.
 
 - 52) § 30 zákona č. 328/1991 Zb. v znení neskorších predpisov.
 
-- 52a) § 18a zákona č. 429/2002 Z. z.
-
 - 53) § 29 zákona č. 747/2004 Z. z.
+
+- 53a) § 52 ods. 5 až 8 a § 55 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- Čl. 3 až 26 nariadenia (EÚ) č. 600/2014.
 
 - 54) § 27 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
@@ -186,19 +216,25 @@
 
 - 54e) §12 zákona č. 186/2009 Z. z.
 
+- 54f) Čl. 14 až 26 nariadenia (EÚ) č. 600/2014.
+
 - 55) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 55a) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 56) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
 
-- 56a) § 23 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
+- 56a) Čl. 21 až 43 delegovaného nariadenia (EÚ) 2017/565.
 
 - 56aa) Čl. 113 ods. 7 nariadenia (EÚ) č. 575/2013.
 
 - 56ab) Čl. 435 ods. 2 písm. c) nariadenia (EÚ) č. 575/2013.
 
-- 56ac) § 19a zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+- 56aba) § 14 a 38a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 56abb) Napríklad § 18 a 52 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
+- 56ac) § 34 zákona č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 56aca) Delegované nariadenie Komisie (EÚ) č. 604/2014 zo 4. marca 2014, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2013/36/EÚ, pokiaľ ide o regulačné technické predpisy so zreteľom na kvalitatívne a vhodné kvantitatívne kritériá na vymedzenie kategórií pracovníkov, ktorých profesionálne činnosti majú významný vplyv na rizikový profil inštitúcie (Ú. v. EÚ L 167, 6. 6. 2014).
 
@@ -226,6 +262,8 @@
 
 - 57a) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
 
+- 57aa) Čl. 33 a 34 delegovaného nariadenia (EÚ) 2017/565.
+
 - 57b) § 22 zákona č. 186/2009 Z. z.
 
 - 58) § 65 Obchodného zákonníka.
@@ -246,21 +284,29 @@
 
 - 58h) § 23 a 55 zákona č. 428/2002 Z. z.
 
-- 58ha) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
+- 58haa) Čl. 50 delegovaného nariadenia (EÚ) 2017/565.
 
 - 58hb) § 90 zákona č. 594/2003 Z. z. v znení neskorších predpisov.
 
 - 58hc) § 4 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
-- 58hd) Tabuľka 1 prílohy 1 nariadenia Komisie (ES) č. 1287/2006/ES.
+- 58hca) Čl. 36 nariadenia Komisie (EÚ) č. 583/2010 z 1. júla 2010, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2009/65/ES, pokiaľ ide o kľúčové informácie pre investorov a podmienky, ktoré treba splniť pri poskytovaní kľúčových informácií pre investorov alebo prospektu na trvanlivom médiu inom ako papier alebo prostredníctvom webových stránok (Ú. v. EÚ L 176, 10. 7. 2010).
+
+- 58hcb) Čl. 57 delegovaného nariadenia (EÚ) 2017/565.
+
+- 58hcc) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov v znení zákona č. 299/2016 Z. z.
 
 - 58he) Zákon č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 258/2001 Z. z. o spotrebiteľských úveroch a o zmene a doplnení zákona Slovenskej národnej rady č. 71/1986 Zb. o Slovenskej obchodnej inšpekcii v znení neskorších predpisov v znení zákona č. 264/2006 Z. z.
 
-- 58hf) Nariadenie Komisie (ES) č. 1287/2006/ES.
+- 58hf) Čl. 23 a 28 nariadenia (EÚ) č. 600/2014.
 
-- 58hg) § 22a zákona č. 429/2002 Z. z. v znení zákona č. 209/2007 Z. z.
+- 58hfa) Čl. 4 ods. 1 a 2 nariadenia (EÚ) č. 600/2014.
+
+- 58hfb) Delegované nariadenie (EÚ) 2017/565.
+
+- 58hg) Čl. 61 a 71 delegovaného nariadenia (EÚ) 2017/565.
 
 - 58hh) Čl. 4 ods. 1 bod 118 nariadenia (EÚ) č. 575/2013.
 
@@ -280,9 +326,13 @@
 
 - 58je) § 33a a 33c zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 58jf) Napríklad čl. 72 až 76 delegovaného nariadenia (EÚ) 2017/565.
+
 - 58k) § 39 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 58l) § 8 ods. 14 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 253/2015 Z. z.
+
+- 58la) Čl. 59 a 60 delegovaného nariadenia (EÚ) 2017/565.
 
 - 59) § 17 až 20 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 562/2003 Z. z.
 
@@ -295,8 +345,6 @@
 - 60aa) § 23 zákona č. 431/2002 Z. z.
 
 - 60b) Článok 15 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 60c) Článok 9 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 60d) Článok 14 nariadenia Komisie (ES) č. 1287/2006/ES.
 
@@ -321,8 +369,6 @@
 - 60n) Článok 25 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 60o) Články 30 a 32 nariadenia Komisie (ES) č. 1287/2006/ES.
-
-- 60p) Článok 27 nariadenia Komisie (ES) č. 1287/2006/ES.
 
 - 60r) § 13, 18a, 20, § 21 ods. 1, § 22a, 23 a 39a zákona č. 429/2002 Z. z. v znení neskorších predpisov.
 
@@ -436,7 +482,7 @@
 
 - 90) Nariadenie (EÚ) č. 909/2014.
 
-- 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov.
+- 90a) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, nariadenie Európskeho parlamentu a Rady (EÚ) č. 655/2014 z 15. mája 2014 o zavedení konania týkajúceho sa európskeho príkazu na zablokovanie účtov s cieľom uľahčiť cezhraničné vymáhanie pohľadávok v občianskych a obchodných veciach (Ú. v. EÚ L 189, 27. 6. 2014).
 
 - 90aa) § 45 zákona č. 492/2009 Z. z.
 
@@ -580,6 +626,10 @@
 
 - 110jb) Čl. 25 ods. 2 nariadenia (EÚ) č. 596/2014.
 
+- 110jc) § 17 zákona č. 414/2012 Z. z. v znení zákona č. 399/2014 Z. z.
+
+- 110jd) Nariadenie (EÚ) č. 1308/2013.
+
 - 110k) Napríklad zákon č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 8/2008 Z. z. v znení neskorších predpisov, zákon č. 492/2009 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 110l) Čl. 19 nariadenia (EÚ) č. 1093/2010.
@@ -648,17 +698,19 @@
 
 - 121) § 31 ods. 4 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
+- 121a) Nariadenie (EÚ) č. 600/2014.
+
 - 122) § 68 ods. 7 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - 123) § 70 až 75 Obchodného zákonníka v znení zákona č. 500/2001 Z. z.
 
 - § 65 ods. 7 zákona č. 483/2001 Z. z.
 
-- 123a) Čl. 4 ods. 1 bod 40 nariadenia (EÚ) č. 575/2013.
+- 123a) Napríklad čl. 4 ods. 1 bod 40 nariadenia (EÚ) č. 575/2013.
 
-- 123b) Nariadenie (EÚ) č. 575/2013.
+- 123b) Napríklad nariadenie (EÚ) č. 575/2013.
 
-- 123c) Čl. 10 až 14 nariadenia (EÚ) č. 1093/2010.
+- 123c) Napríklad čl. 10 až 14 nariadenia (EÚ) č. 1093/2010.
 
 - 123d) Napríklad zákon Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov, zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
