@@ -6,7 +6,7 @@
 
 - 3) Zákon č. 566/2001 Z. z.
 
-- 4) Zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 4) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 
 - 5) Zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov.
 
@@ -20,13 +20,13 @@
 
 - 10) § 28 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
-- 11) Zákon Národnej rady Slovenskej republiky č. 123/1996 Z. z. o doplnkovom dôchodkovom poistení zamestnancov a o zmene a doplnení niektorých zákonov v znení zákona č. 409/2000 Z. z.
+- 11) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11a) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
 
 - 11b) § 535 Občianskeho zákonníka.
 
-- 11c) § 125d ods. 5 písm. c) zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
+- 11c) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.
 
 - 12) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 
@@ -42,6 +42,12 @@
 
 - 16a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
+- 16aa) Delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 16ab) § 79i ods. 2 písm. g) a ods. 5 písm. g) zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
+
+- Čl. 6, 10 a 26 nariadenia Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
+
 - 16b) Zákon č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov.
 
 - 17) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov.
@@ -54,9 +60,13 @@
 
 - 20) § 47 ods. 2 zákona č. 96/2002 Z. z.
 
+- 20a) Napríklad zákon č. 566/2001 Z. z., nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.
+
 - 22) § 66 ods. 3 Obchodného zákonníka.
 
 - 22a) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 22aa) Delegované nariadenie Komisie (EÚ) 2017/588 zo 14. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa režimu veľkosti tiku pre akcie, vkladové potvrdenky a fondy obchodované na burze (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 24) Trestný poriadok.
 
@@ -104,11 +114,13 @@
 
 - 36) § 99 ods. 3 písm. h) a § 103 ods. 2 písm. k) zákona č. 566/2001 Z. z.
 
+- 36a) Čl. 14 až 54 nariadenia (EÚ) č. 648/2012.
+
 - 37) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní v znení neskorších predpisov.
 
 - 38) § 12 zákona č. 244/2002 Z. z. v znení zákona č. 521/2005 Z. z.
 
-- 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, Obchodný zákonník, zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 594/2003 Z. z. v znení neskorších predpisov, nariadenie Komisie (ES) č. 1287/2006/ES.
+- 39) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, delegované nariadenie Komisie (EÚ) 2017/568 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy pre prijatie finančných nástrojov na obchodovanie na regulovaných trhoch (Ú. v. EÚ L 87, 31. 3. 2017).
 
 - 39a) § 7 ods. 30 zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
@@ -132,8 +144,6 @@
 
 - 51) § 156 ods. 8 Obchodného zákonníka.
 
-- 51a) § 125a zákona č. 566/2001 Z. z. v znení zákona č. 336/2005 Z. z.
-
 - 52) Zákon č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 53) § 160 Obchodného zákonníka.
@@ -152,15 +162,17 @@
 
 - 53f) § 176b ods. 2 Obchodného zákonníka.
 
-- 54) § 130 zákona č. 566/2001 Z. z.
-
 - 55) Napríklad § 99 ods. 4 písm. a) zákona č. 566/2001 Z. z.
 
 - 56) § 28 ods. 3 písm. e) a f) zákona č. 566/2001 Z. z.
 
+- 56a) § 5 ods. 1 písm. d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
 - 57) § 119 zákona č. 566/2001 Z. z.
 
-- 58) § 5 písm. j) zákona č. 594/2003 Z. z.
+- 57a) Delegované nariadenie Komisie (EÚ) 2017/569 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa pozastavenia obchodovania s finančnými nástrojmi a vylúčenia finančných nástrojov z obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 58) Čl. 7 a 17 nariadenia (EÚ) č. 596/2014.
 
 - 58a) § 5 ods. 1 písm. a), d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -170,7 +182,7 @@
 
 - 58ab) Nariadenie Komisie (ES) č. 2273/2003 z 22. decembra 2003, ktorým sa vykonáva smernica Európskeho parlamentu a Rady 2003/6/ES, pokiaľ ide o výnimky pre programy spätného výkupu a stabilizácie finančných nástrojov (Mimoriadne vydanie Ú. v. EÚ, kap. 6/zv. 6, Ú. v. EÚ L 336, 23. 12. 2003).
 
-- 58b) § 132b zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+- 58b) Nariadenie (EÚ) č. 596/2014.
 
 - 59) § 184 ods. 3 a 4, § 184a ods. 1 a 2 a § 190f ods. 1 Obchodného zákonníka.
 
@@ -223,5 +235,7 @@
 - 70ab) § 10 ods. 5 zákona č. 747/2004 Z. z.
 
 - 71) § 25 zákona č. 747/2004 Z. z.
+
+- 71a) Nariadenie (EÚ) č. 600/2014.
 
 - 72) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
