@@ -18,11 +18,273 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
 
 - poskytovať služby vykazovania údajov podľa osobitného predpisu.<sup>3</sup>)“.
 
+- 3. V § 3 ods. 1 sa vypúšťa slovo „regulovaného“.
+
+- 4. Poznámka pod čiarou k odkazu 4 znie:
+
+- „4)
+
+- Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.“.
+
+- 5. V § 3 ods. 3 písm. f) sa slová „doplnková dôchodková poisťovňa,<sup>11</sup>)“ nahrádzajú slovami „doplnková dôchodková spoločnosť,<sup>11</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 11 znie:
+
+  - „<sup>11</sup>) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 6. V § 3 ods. 3 písmeno o) znie:
+
+- „o)
+
+- centrálnou protistranou centrálna protistrana podľa osobitného predpisu,<sup>11c</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 11c znie:
+
+  - „<sup>11c</sup>) Čl. 2 ods. 1 nariadenia Európskeho parlamentu a Rady (EÚ) č. 648/2012 zo 4. júla 2012 o mimoburzových derivátoch, centrálnych protistranách a archívoch obchodných údajov (Ú. v. EÚ L 201, 27. 7. 2012) v platnom znení.“.
+
+- 7. V § 3 sa odsek 3 dopĺňa písmenami t) až ad), ktoré znejú:
+
+- „t)
+
+- tvorcom trhu osoba, ktorá sústavne prejavuje na finančných trhoch svoj záujem obchodovať na vlastný účet tým, že kupuje a predáva finančné nástroje s využitím vlastného majetku a pri cenách určených touto osobou,
+
+- u)
+
+- malým a stredným podnikom podnik, ktorého priemerná trhová kapitalizácia je na základe koncoročných kotácií za predchádzajúce tri kalendárne roky nižšia ako
+
+- 200 000 000 eur,
+
+- v)
+
+- limitovaným pokynom pokyn kupovať alebo predávať finančný nástroj v rámci určeného cenového limitu alebo výhodnejšie a v konkrétnom objeme,
+
+- w)
+
+- organizátorom trhu osoba alebo osoby, ktoré riadia alebo organizujú činnosť regulovaného trhu a môže ním byť aj samotný regulovaný trh; pričom organizátorom trhu na území Slovenskej republiky je burza,
+
+- x)
+
+- mnohostranným systémom každý systém alebo platforma, v rámci ktorých môžu navzájom pôsobiť viaceré záujmy o obchodovanie tretích osôb, ak ide o kúpu a predaj finančných nástrojov; všetky mnohostranné systémy môžu byť organizované len ako regulovaný trh, mnohostranný obchodný systém alebo ako organizovaný obchodný systém podľa tohto zákona,
+
+- y)
+
+- obchodným miestom regulovaný trh, mnohostranný obchodný systém alebo organizovaný obchodný systém,
+
+- z)
+
+- likvidným trhom trh pre finančný nástroj alebo druh finančných nástrojov, na ktorom sa nepretržite nachádzajú pripravení kupujúci a predávajúci so záujmom obchodovať, ktorý sa so zreteľom na osobitnú štruktúru trhu konkrétneho finančného nástroja alebo konkrétneho druhu finančných nástrojov posudzuje v súlade s týmito kritériami:
+
+- 1.
+
+- priemerná frekvencia a objem transakcií za rôznych trhových podmienok so zreteľom na povahu a životný cyklus produktov v rámci príslušného druhu finančných nástrojov,
+
+- 2.
+
+- počet a typ účastníkov trhu vrátane pomeru účastníkov trhu k obchodovaným nástrojom vo vzťahu k určitému produktu,
+
+- 3.
+
+- priemerná veľkosť rozpätí medzi nákupnými cenami a predajnými cenami, ak sú známe,
+
+- aa)
+
+- riadiacim orgánom štatutárny orgán burzy splnomocnený určiť stratégiu, ciele a celkové smerovanie burzy, ako aj orgán vykonávajúci kontrolu a monitoring nad rozhodovaním manažmentu; za riadiaci orgán sa považuje aj iná osoba alebo orgán odlišný od štatutárneho orgánu, ak skutočne vykonáva riadiacu činnosť,
+
+- ab)
+
+- vrcholovým manažmentom fyzické osoby, ktoré vykonávajú výkonné funkcie na burze a ktoré sú zodpovedné riadiacemu orgánu za každodenné riadenie burzy vrátane vykonávania politík týkajúcich sa distribúcie služieb a produktov klientom,
+
+- ac)
+
+- obchodovaním párovaním na vlastný účet transakcia, pri ktorej sprostredkovateľ vstupuje medzi kupujúceho a predávajúceho spôsobom, pri ktorom počas vykonávania transakcie nie je nikdy vystavený trhovému riziku, obe strany transakcie sa vykonávajú súčasne a transakcia sa realizuje pri cene, pri ktorej sprostredkovateľ nevytvára zisk ani stratu okrem vopred zverejnenej provízie, poplatku alebo platby za transakciu,
+
+- ad)
+
+- priamym elektronickým prístupom mechanizmus, v rámci ktorého člen, účastník alebo klient obchodného miesta umožní určitej osobe používať svoj kód pre obchodovanie, aby táto osoba mohla elektronicky zasielať pokyny týkajúce sa finančného nástroja priamo obchodnému miestu, a to ako
+
+- 1.
+
+- priamy prístup na trh, ktorým sa rozumejú opatrenia na používanie infraštruktúry člena, účastníka alebo klienta obchodného miesta touto osobou alebo akéhokoľvek prepojovacieho systému zabezpečovaného členom, účastníkom alebo klientom obchodného miesta na zasielanie pokynov, alebo
+
+- 2.
+
+- sponzorovaný prístup na trh, ktorým sa rozumejú opatrenia, pri ktorých sa nepoužíva infraštruktúra alebo systém pripojenia podľa prvého bodu na zasielanie pokynov.“.
+
 - 8. Za § 3 sa vkladá § 3a, ktorý znie:
 
 - „§ 3a
 
 - Bez príslušného povolenia Národnej banky Slovenska nie je možné organizovať žiadny mnohostranný systém.“.
+
+- 9. V § 4 ods. 2 písm. h) sa za slovo „systém“ vkladajú slová „alebo organizovaný obchodný systém alebo poskytovať služby vykazovania údajov“.
+
+- 10. V § 4 ods. 3 písm. e) sa na konci pripájajú tieto slová: „alebo organizovaný obchodný systém alebo poskytovať služby vykazovania údajov“.
+
+- 11. V § 4 sa odsek 4 dopĺňa písmenom h), ktoré znie:
+
+- „h)
+
+- obchodný plán obsahujúci druhy plánovaných podnikateľských činností a organizačná štruktúra burzy, ktorými sa preukáže prijatie všetkých potrebných opatrení na dodržanie povinností burzy.“.
+
+- 12. § 4 sa dopĺňa odsekmi 15 až 23, ktoré znejú:
+
+- „(15)
+
+- Burza môže požiadať Národnú banku Slovenska o povolenie na poskytovanie služieb vykazovania údajov súčasne so žiadosťou o udelenie povolenia alebo na základe žiadosti o zmenu povolenia.
+
+- (16)
+
+- Členovia riadiaceho orgánu burzy musia byť dôveryhodní, mať primerané znalosti, schopnosti, skúsenosti; pričom burza je povinná zabezpečiť, aby zloženie riadiaceho orgánu odrážalo primerane široký rozsah skúseností.
+
+- (17)
+
+- Členovia riadiaceho orgánu burzy sú povinní venovať dostatok času výkonu svojich povinností. Počet riadiacich funkcií, ktoré člen riadiaceho orgánu môže súčasne vykonávať v akejkoľvek právnickej osobe, musí zohľadňovať konkrétne okolnosti a povahu, rozsah a zložitosť činností organizátora trhu.
+
+- (18)
+
+- Členovia riadiacich orgánov burzy, ktorá je významná z hľadiska jej veľkosti, vnútornej organizácie, povahy, rozsahu a zložitosti jej činností, ak nezastupujú členský štát, môžu vykonávať súčasne funkcie podľa jednej z týchto kombinácií:
+
+- a)
+
+- jedna výkonná riadiaca funkcia s dvoma nevýkonnými riadiacimi funkciami,
+
+- b)
+
+- štyri nevýkonné riadiace funkcie.
+
+- (19)
+
+- Výkonné riadiace funkcie alebo nevýkonné riadiace funkcie v rámci rovnakej skupiny alebo podnikov, v ktorých burza vlastní kvalifikovanú účasť, sa počítajú ako jedna riadiaca funkcia.
+
+- (20)
+
+- Národná banka Slovenska môže povoliť členovi riadiaceho orgánu burzy, aby zastával jednu dodatočnú nevýkonnú riadiacu funkciu. Národná banka Slovenska pravidelne informuje Európsky orgán dohľadu (Európsky orgán pre cenné papiere a trhy) o tejto skutočnosti.
+
+- (21)
+
+- Na riadiace funkcie v právnickej osobe, ktorá nie je zriadená na podnikanie, sa nevzťahuje obmedzenie počtu riadiacich funkcií, ktoré môže člen riadiaceho orgánu zastávať.
+
+- (22)
+
+- Burza je povinná zabezpečiť, že riadiaci orgán burzy je povinný mať ako kolektív primerané znalosti, schopnosti a skúsenosti, aby rozumel činnostiam burzy vrátane hlavných rizík. Členovia riadiaceho orgánu burzy sú povinní konať čestne, bezúhonne a nezávisle s cieľom, účinne posudzovať, a ak je to potrebné, spochybňovať rozhodnutia vrcholového manažmentu, a účinne dozerať na rozhodovanie manažmentu a monitorovať ho.
+
+- (23)
+
+- Burza je povinná venovať zaškoleniu a odbornej príprave členov riadiaceho orgánu primerané ľudské zdroje a finančné zdroje.“.
+
+- 13. V § 5 ods. 5 sa za slová „Národná banka Slovenska“ vkladajú slová „zostaví a“ a na konci sa pripája táto veta: „Tento zoznam obsahuje aj jedinečný kód ustanovený v osobitnom predpise,<sup>16aa</sup>) ktorý identifikuje regulované trhy pre použitie v správach podľa osobitných predpisov.<sup>16ab</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 16aa a 16ab znejú:
+
+  - „<sup>16aa</sup>) Delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017).
+
+  - <sup>16ab</sup>) § 79i ods. 2 písm. g) a ods. 5 písm. g) zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
+
+  - Čl. 6, 10 a 26 nariadenia Európskeho parlamentu a Rady (EÚ) č. 600/2014 z 15. mája 2014 o trhoch s finančnými nástrojmi, ktorým sa mení nariadenie (EÚ) č. 648/2012 (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.“.
+
+- 14. V § 13 ods. 6 sa na konci pripája táto veta: „Útvar inšpekcie burzových obchodov je povinný sprístupniť Národnej banke Slovenska údaje týkajúce sa knihy objednávok alebo sprístupniť knihu objednávok s cieľom umožniť Národnej banke Slovenska monitorovať obchodovanie.“.
+
+- 15. V § 13 ods. 8 sa slová „osobitného zákona,<sup>3</sup>)“ nahrádzajú slovami „osobitných predpisov,<sup>20a</sup>)“.
+
+  - Poznámka k odkazu 20a znie:
+
+  - „<sup>20a</sup>) Napríklad zákon č. 566/2001 Z. z., nariadenie Európskeho parlamentu a Rady (EÚ) č. 596/2014 zo 16. apríla 2014 o zneužívaní trhu (nariadenie o zneužívaní trhu) a o zrušení smernice Európskeho parlamentu a Rady 2003/6/ES a smerníc Komisie 2003/124/ES, 2003/125/ES a 2004/72/ES (Ú. v. EÚ L 173, 12. 6. 2014) v platnom znení.“.
+
+- 16. V § 13 ods. 11 sa na konci pripája táto veta: „Na organizovanie organizovaného obchodného systému burzou alebo obchodníkom s cennými papiermi sa toto ustanovenie vzťahuje rovnako.“.
+
+- 17. V § 14 ods. 5 písm. b) sa na konci pripájajú tieto slová: „na zabezpečenie odolnosti obchodného systému a dostatku kapacít na zvládnutie prudko zvýšeného objemu pokynov a správ obchodným systémom, na zabezpečenie riadneho obchodovania v podmienkach veľmi napätého trhu, na úplné otestovanie zabezpečenia splnenia týchto podmienok, a podliehali účinným opatreniam na zabezpečenie nepretržitého pokračovania činnosti s cieľom zabezpečiť nepretržité poskytovanie služieb, ak sa vyskytne akékoľvek zlyhanie systémov obchodovania,“.
+
+- 18. V § 14 sa odsek 5 dopĺňa písmenami d) až g), ktoré znejú:
+
+- „d)
+
+- účinné systémy, postupy a opatrenia vrátane určenia povinnosti, aby členovia alebo účastníci vykonávali vhodné testovanie algoritmov, a vytvorenia podmienok, ktoré takéto testovanie umožnia, s cieľom zabezpečiť, aby systémy algoritmického obchodovania nemohli vytvoriť narušenie podmienok obchodovania na príslušnom trhu alebo prispieť k takémuto narušeniu, a zvládnuť akékoľvek narušenie podmienok obchodovania, ktoré vyplýva zo systémov algoritmického obchodovania, vrátane systémov na obmedzenie podielu nevykonaných pokynov na transakciách, ktoré môže do systému vkladať člen alebo účastník, aby bolo možné spomaliť tok pokynov, ak hrozí dosiahnutie úplnej kapacity systému, a obmedziť a presadiť minimálnu veľkosť tiku,<sup>22aa</sup>) ktorý je možné vykonať na trhu,
+
+- e)
+
+- účinné systémy, postupy a opatrenia na regulovanom trhu, ktorý povoľuje priamy elektronický prístup, s cieľom zabezpečiť, aby členovia alebo účastníci mohli poskytovať takéto služby, len ak sú obchodníkom s cennými papiermi, zahraničným obchodníkom s cennými papiermi, bankou alebo zahraničnou bankou a zaviesť a uplatňovať primerané kritériá, ak ide o vhodnosť osôb, ktorým sa môže poskytnúť takýto prístup, a aby člen alebo účastník niesol zodpovednosť za pokyny a obchody vykonané prostredníctvom priameho elektronického prístupu vo vzťahu k požiadavkám tohto zákona a osobitného predpisu,<sup>3</sup>)
+
+- f)
+
+- primerané normy, ak ide o kontrolu rizika a prahové hodnoty súvisiace s obchodovaním prostredníctvom priameho elektronického prístupu, a aby bola schopná rozpoznať, a ak je to potrebné, zastaviť pokyny alebo obchodovanie, ktoré vykonáva osoba s priamym elektronickým prístupom, oddelene od ostatných pokynov alebo obchodovania, ktoré vykonáva člen alebo účastník,
+
+- g)
+
+- opatrenia na pozastavenie alebo ukončenie poskytovania priameho elektronického prístupu klientovi zo strany člena alebo účastníka, ak nie sú dodržané požiadavky na priamy elektronický prístup na regulovaný trh uvedené v písmenách e) a f).“.
+
+  - Poznámka pod čiarou k odkazu 22aa znie:
+
+  - „<sup>22aa</sup>) Delegované nariadenie Komisie (EÚ) 2017/588 zo 14. júla 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa režimu veľkosti tiku pre akcie, vkladové potvrdenky a fondy obchodované na burze (Ú. v. EÚ L 87, 31. 3. 2017).“.
+
+- 19. § 14 sa dopĺňa odsekmi 6 až 14, ktoré znejú:
+
+- „(6)
+
+- Burza je povinná mať na regulovanom trhu
+
+- a)
+
+- uzavreté písomné dohody so všetkými obchodníkmi s cennými papiermi a zahraničnými obchodníkmi s cennými papiermi, ktorí na regulovanom trhu vykonávajú stratégiu tvorby trhu,
+
+- b)
+
+- zavedené systémy na zabezpečenie účasti dostatočného počtu obchodníkov s cennými papiermi alebo zahraničných obchodníkov s cennými papiermi na takýchto dohodách, ktoré od nich vyžadujú, aby zverejňovali záväzné kotácie pri konkurenčných cenách, výsledkom čoho je, že sa trhu poskytuje na pravidelnom a predvídateľnom základe likvidita, ak je takáto požiadavka vhodná vzhľadom na povahu a rozsah obchodovania na tomto regulovanom trhu.
+
+- (7)
+
+- Písomná dohoda uvedená v odseku 6 písm. a) zahŕňa minimálne
+
+- a)
+
+- povinnosti obchodníka s cennými papiermi a zahraničného obchodníka s cennými papiermi vo vzťahu k poskytovaniu likvidity, a ak je to vhodné, akékoľvek iné povinnosti vyplývajúce z účasti v systéme uvedenom v odseku 6 písm. b),
+
+- b)
+
+- akékoľvek zvýhodnenie vo forme zliav alebo v inej forme, ktoré ponúka regulovaný trh obchodníkovi s cennými papiermi alebo zahraničnému obchodníkovi s cennými papiermi na to, aby sa trhu na pravidelnom a predvídateľnom základe poskytovala likvidita, a aj akékoľvek iné práva, ktoré má obchodník s cennými papiermi alebo zahraničný obchodník s cennými papiermi na základe účasti v systéme uvedenom v odseku 6 písm. b).
+
+- (8)
+
+- Burza na regulovanom trhu monitoruje a presadzuje dodržiavanie požiadaviek takýchto písomných dohôd zo strany obchodníkov s cennými papiermi a zahraničných obchodníkov s cennými papiermi. Burza bezodkladne informuje Národnú banku Slovenska o obsahu písomnej dohody a na požiadanie jej poskytne všetky ďalšie informácie potrebné na to, aby sa Národná banka Slovenska mohla ubezpečiť, že regulovaný trh plní požiadavky podľa odseku 6.
+
+- (9)
+
+- Burza je povinná na regulovanom trhu zaviesť účinné systémy, postupy a opatrenia na odmietnutie pokynov, ktoré prekračujú vopred určené objemové a cenové prahové hodnoty alebo ktoré sú jednoznačne chybné.
+
+- (10)
+
+- Burza je povinná na regulovanom trhu zabezpečiť prehľadné, spravodlivé a nediskriminačné pravidlá týkajúce sa služieb spoločného umiestňovania.
+
+- (11)
+
+- Burza je povinná na regulovanom trhu zabezpečiť, že jeho štruktúra poplatkov vrátane poplatkov za vykonanie pokynov, vedľajších poplatkov a akýchkoľvek zliav je prehľadná, spravodlivá a nediskriminačná a že nevytvára podnet na umiestnenie, zmenu alebo zrušenie pokynov alebo na vykonanie transakcií takým spôsobom, ktorý prispieva k narušeniu podmienok obchodovania alebo k zneužívaniu trhu. Výmenou za poskytnutie akýchkoľvek zliav, ktoré sa udelia pri individuálnych akciách alebo pri vhodnom balíku akcií, burza uloží povinnosť tvorby trhu.
+
+- (12)
+
+- Burza na regulovanom trhu môže upraviť svoje poplatky za zrušené pokyny v závislosti od dĺžky času, počas ktorého sa pokyn uchovával, a tieto poplatky nastaviť pre každý finančný nástroj, na ktorý sa vzťahujú.
+
+- (13)
+
+- Burza na regulovanom trhu môže určiť vyšší poplatok za zadanie pokynu, ktorý sa následne zruší, ako za pokyn, ktorý sa vykoná, a určiť vyšší poplatok pre účastníkov s vysokým podielom zrušených pokynov voči vykonaným pokynom, a pre účastníkov, ktorí používajú metódu vysokofrekvenčného algoritmického obchodovania, aby sa zohľadnilo dodatočné zaťaženie kapacity systému.
+
+- (14)
+
+- Burza je povinná na regulovanom trhu prostredníctvom označenia členmi alebo účastníkmi identifikovať pokyny generované algoritmickým obchodovaním, jednotlivé algoritmy použité na vytvorenie pokynov a príslušné osoby, ktoré tieto pokyny iniciovali. Burza je povinná uvedené informácie sprístupniť Národnej banke Slovenska na požiadanie.“.
+
+- 20. § 18a sa vypúšťa.
+
+- 21. V § 20 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- je dôveryhodná a bezúhonná.“.
+
+- 22. V § 22 sa vypúšťajú odseky 1 a 2. Doterajšie odseky 3 až 6 sa označujú ako odseky 1 až 4.
+
+- 23. V § 22 odsek 1 znie:
+
+- „(1)
+
+- Rozsah zverejňovaných údajov o burzových obchodoch, spôsob a frekvenciu ich zverejňovania upraví burza v burzových pravidlách.“.
 
 - 24. § 22a znie:
 
@@ -37,6 +299,46 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
   - <sup>35c</sup>) Čl. 3 ods. 1 a čl. 8 ods. 1 nariadenia (EÚ) č. 600/2014.“.
 
   - Poznámky pod čiarou k odkazom 35d až 35j sa vypúšťajú.
+
+- 25. V § 23 ods. 2 druhej vete sa za slovo „vyrovnanie“ vkladajú slová „niektorých obchodov alebo všetkých“ a na konci sa pripája táto veta: „Tým nie sú dotknuté ustanovenia osobitného predpisu.<sup>36a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 36a znie:
+
+  - „<sup>36a</sup>) Čl. 14 až 54 nariadenia (EÚ) č. 648/2012.“.
+
+- 26. V § 23 odsek 3 znie:
+
+- „(3)
+
+- Národná banka Slovenska môže pri zohľadnení podmienok pre systémy vyrovnania podľa odseku 4 zakázať burze alebo organizátorovi mnohostranného obchodného systému použitie centrálnej protistrany, clearingového ústavu alebo systému vyrovnania v inom štáte, len ak je to odôvodnené potrebou zachovania riadneho fungovania burzy alebo mnohostranného obchodného systému. Tým nie sú dotknuté ustanovenia osobitného predpisu.<sup>36a</sup>)“.
+
+- 27. § 23 sa dopĺňa odsekom 6, ktorý znie:
+
+- „(6)
+
+- Národná banka Slovenska zabezpečí, aby sa zabránilo nenáležitej duplicitnej kontrole a dohľadu nad systémom zúčtovania a vyrovnania.“.
+
+- 28. Poznámka pod čiarou k odkazu 39 znie:
+
+- „<sup>39</sup>) Napríklad zákon č. 530/1990 Zb. o dlhopisoch v znení neskorších predpisov, zákon č. 566/2001 Z. z. v znení neskorších predpisov, delegované nariadenie Komisie (EÚ) 2017/568 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy pre prijatie finančných nástrojov na obchodovanie na regulovaných trhoch (Ú. v. EÚ L 87, 31. 3. 2017).“.
+
+- 29. § 25 sa dopĺňa odsekmi 6 a 7, ktoré znejú:
+
+- „(6)
+
+- Burza je povinná na regulovanom trhu zaviesť režimy veľkosti tiku pre akcie, vkladové potvrdenky, fondy obchodované na burze, certifikáty a ostatné podobné finančné nástroje a pre akékoľvek iné finančné nástroje podľa osobitného predpisu.<sup>22aa</sup>)
+
+- (7)
+
+- Režimy veľkosti tikov uvedené v odseku 6
+
+- a)
+
+- musia byť nastavené tak, aby odzrkadľovali profil likvidity finančného nástroja na rôznych trhoch a priemerné rozpätie ponuky kúpy a predaja s prihliadnutím na umožnenie primerane stabilných cien bez toho, aby sa neprimerane obmedzilo ďalšie zúženie týchto rozpätí,
+
+- b)
+
+- musia primeraným spôsobom upravovať veľkosť tiku pre každý finančný nástroj.“.
 
 - 30. V § 26 ods. 2 písmeno a) znie:
 
@@ -54,6 +356,8 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
 
 - obchodné meno, sídlo, identifikačné číslo a kód LEI emitenta; ak emitent nie je žiadateľom, aj obchodné meno a sídlo žiadateľa,“.
 
+- 32. V § 27 ods. 2 písm. c) sa slovo „úrad“ nahrádza slovami „Národná banka Slovenska“.
+
 - 33. V § 29 ods. 1 sa za písmeno i) vkladá nové písmeno j), ktoré znie:
 
 - „j)
@@ -62,11 +366,155 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
 
   - Doterajšie písmeno j) sa označuje ako písmeno k).
 
+- 34. V § 29 ods. 1 písm. k) sa za slová „tento zákon“ vkladá čiarka a slová „alebo osobitný zákon,<sup>39</sup>)“ sa nahrádzajú slovami „Obchodný zákonník alebo osobitné predpisy,<sup>39</sup>)“.
+
+- 35. V § 29 sa vypúšťa odsek 4. Doterajší odsek 5 sa označuje ako odsek 4. Poznámka pod čiarou k odkazu 51a sa vypúšťa.
+
+- 36. § 37 znie:
+
+- „§ 37
+
+- Za správnosť údajov, ktoré emitent vypracúva a zverejňuje podľa tohto zákona a podľa osobitného zákona,<sup>4</sup>) zodpovedá emitent v plnom rozsahu. Týmto nie je dotknutá zodpovednosť podľa iných všeobecne záväzných právnych predpisov.“.
+
 - 37. § 37b sa dopĺňa odsekom 3, ktorý znie:
 
 - „(3)
 
 - Emitent cenných papierov prijatých na obchodovanie na regulovanom trhu je povinný zabezpečiť, aby mal pridelený platný kód LEI.“.
+
+- 38. § 38 znie:
+
+- „§ 38
+
+- (1)
+
+- Burza môže pozastaviť obchodovanie s finančným nástrojom na trhu alebo vylúčiť finančný nástroj z obchodovania na príslušnom trhu, ktorý organizuje, ak finančný nástroj alebo emitent prestanú spĺňať podmienky na prijatie finančného nástroja na príslušný trh burzy ustanovené týmto zákonom alebo burzovými pravidlami alebo ak emitent neplní povinnosti, pri ktorých zákon vyžaduje pozastavenie obchodovania. Burza písomne vyzve emitenta na odstránenie nedostatkov; ak nie je možné emitentovi doručiť písomnú výzvu, môže vyzvať emitenta aj zverejnením v tlači s celoštátnou pôsobnosťou alebo iným vhodným spôsobom určeným v burzových pravidlách. Burza bezodkladne pozastaví obchodovanie s finančným nástrojom alebo vylúči finančný nástroj, ak sa dozvie o skutočnostiach, ktoré by pri nepozastavení obchodovania mohli viesť k poškodeniu investorov alebo ohrozeniu verejného záujmu, ak zistila manipuláciu s trhom alebo ak má dôvodné podozrenie z manipulácie s trhom v súvislosti s týmto finančným nástrojom. Burza nie je povinná pozastaviť obchodovanie s finančným nástrojom alebo vylúčiť finančný nástroj, ak by to spôsobilo závažné poškodenie záujmov investorov alebo ohrozilo riadne fungovanie trhu.
+
+- (2)
+
+- Ak burza pozastaví obchodovanie s finančným nástrojom, alebo vylúči finančný nástroj z obchodovania na príslušnom trhu, je povinná zároveň pozastaviť obchodovanie s derivátmi alebo vylúčiť z obchodovania na príslušnom trhu deriváty v súlade s osobitným predpisom,<sup>56a</sup>) ktoré súvisia s týmto finančným nástrojom alebo pre ktoré je tento finančný nástroj referenciou, ak je to potrebné na podporu cieľov pozastavenia alebo vylúčenia podkladového finančného nástroja.
+
+- (3)
+
+- Burza môže pozastaviť obchodovanie s finančným nástrojom najviac na tri mesiace. Útvar inšpekcie burzových obchodov preverí skutočnosti, ktoré viedli k pozastaveniu obchodovania podľa odseku 1 tretej vety, podá správu Národnej banke Slovenska, predstavenstvu a generálnemu riaditeľovi. V správe uvedie najmä, či bol porušený zákon a burzové pravidlá, rozsah tohto porušenia a osoby zodpovedné za toto porušenie. Ak bolo pozastavené obchodovanie podľa odseku 1 a emitent v určenej lehote na výzvu burzy neodstráni nedostatky, burza vylúči finančný nástroj z obchodovania na príslušnom trhu alebo preradí na iný trh burzy, ktorého podmienky spĺňa.
+
+- (4)
+
+- Skončenie obchodovania, pozastavenie obchodovania alebo vylúčenie finančného nástroja z obchodovania na príslušnom trhu burza bezodkladne oznámi Národnej banke Slovenska a zverejní v tlači s celoštátnou pôsobnosťou. Burza je oprávnená zverejniť skutočnosť, že emitent neplní alebo nie je schopný plniť povinnosti vyplývajúce z prijatia ním vydaných finančných nástrojov na trh burzy.
+
+- (5)
+
+- Ak emitent alebo právny nástupca emitenta požiada burzu o skončenie obchodovania pri zániku finančných nástrojov prijatých na príslušný trh burzy, burza skončí obchodovanie s týmito finančnými nástrojmi v požadovanej lehote; ak lehota nie je uvedená, skončí obchodovanie do piatich dní odo dňa doručenia žiadosti.
+
+- (6)
+
+- Ak požiada burzu o skončenie obchodovania na príslušnom trhu burzy emitent akcií, na ktorého sa vzťahuje povinnosť podľa § 39 alebo podľa osobitného predpisu,<sup>57</sup>) je povinný predložiť burze doklady o splnení tejto povinnosti alebo rozhodnutie všetkých akcionárov emitenta o skončení obchodovania na príslušnom trhu burzy. Burza skončí obchodovanie s týmito akciami do piatich dní odo dňa, keď jej emitent oznámil splnenie záväzkov z povinnej ponuky na prevzatie,<sup>32</sup>) alebo bezodkladne po prijatí oznámenia emitenta o rozhodnutí všetkých akcionárov emitenta o skončení obchodovania na príslušnom trhu burzy.
+
+- (7)
+
+- Emitent cenného papiera prijatého na príslušný regulovaný trh alebo emitent cenného papiera prijatého na príslušný regulovaný trh, ktorý má v prospekte uvedený údaj o tom, že s cenným papierom bude možné obchodovať na burze alebo že emitent požiada o prijatie cenného papiera na príslušný regulovaný trh, zodpovedá majiteľom cenných papierov a investorom za škody, ktoré im vznikli v dôsledku pozastavenia obchodovania s finančným nástrojom podľa odseku 1 alebo v dôsledku vylúčenia cenného papiera z príslušného regulovaného trhu z dôvodu podľa odseku 3 štvrtej vety.
+
+- (8)
+
+- Emitent akcií prijatých na trh kótovaných cenných papierov alebo emitent akcií prijatých na regulovaný voľný trh, ktorý má v prospekte uvedený údaj o tom, že s akciami bude možné obchodovať na burze alebo že emitent požiada o prijatie akcií na príslušný trh burzy, je povinný vyhlásiť povinnú ponuku na prevzatie<sup>33</sup>) na kúpu všetkých akcií, s ktorými by po vylúčení z trhu burzy podľa odseku 3 už nebolo možné obchodovať na žiadnej burze, na zahraničnej burze alebo na zahraničnom regulovanom trhu; tým nie je dotknuté ustanovenie
+
+- § 39 ani osobitný predpis.<sup>57</sup>) Na účely vykonania povinnej ponuky na prevzatie sa akcie vylúčené z trhu považujú za akcie prijaté na regulovanom trhu.
+
+- (9)
+
+- Ak burza pozastaví obchodovanie s finančným nástrojom alebo derivátom alebo vylúči finančný nástroj alebo derivát podľa odsekov 1 a 2, Národná banka Slovenska je oprávnená aj na ostatných regulovaných trhoch, na mnohostranných obchodných systémoch, na organizovaných obchodných systémoch a na systematických internalizátoroch, pre ktoré je príslušným orgánom dohľadu a na ktorých sa obchoduje s týmto finančným nástrojom alebo derivátmi podľa osobitného predpisu,<sup>56a</sup>) ktoré súvisia s týmto finančným nástrojom alebo pre ktoré je tento finančný nástroj referenciou, v súlade s osobitným predpisom<sup>57a</sup>) pozastaviť obchodovanie s týmto finančným nástrojom alebo s derivátmi, alebo vylúčiť tento finančný nástroj alebo deriváty z obchodovania, ak je pozastavenie alebo vylúčenie spôsobené podozrením zo zneužívania trhu, ponukou na prevzatie alebo nezverejnením dôverných informácií o emitentovi alebo o finančnom nástroji v rozpore s osobitným predpisom;<sup>58</sup>) to neplatí, ak by takéto pozastavenie alebo vylúčenie mohlo spôsobiť závažné poškodenie záujmov investorov alebo riadneho fungovania trhu.
+
+- (10)
+
+- Ak Národná banka Slovenska dostala oznámenie o pozastavení alebo vylúčení od príslušného orgánu iného členského štátu, rozhodne v súvislosti s tým istým finančným nástrojom alebo derivátmi podľa osobitného predpisu,<sup>58</sup>) ktoré súvisia s týmto finančným nástrojom alebo pre ktoré je tento finančný nástroj referenciou o pozastavení obchodovania alebo vylúčení finančného nástroja z obchodovania, ak je pozastavenie obchodovania alebo vylúčenie oznámené príslušným orgánom iného členského štátu spôsobené podozrením zo zneužívania trhu, ponukou na prevzatie alebo nezverejnením dôverných informácií o emitentovi alebo finančnom nástroji v rozpore s osobitným predpisom;<sup>58</sup>) to neplatí, ak by takéto pozastavenie alebo vylúčenie mohlo spôsobiť závažné poškodenie záujmov investorov alebo riadneho fungovania trhu.
+
+- (11)
+
+- Národná banka Slovenska oznámi rozhodnutie burzy podľa odsekov 1 a 2 a svoje rozhodnutie podľa odsekov 9 a 10 Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy) a ostatným príslušným orgánom; ak sa rozhodne obchodovanie s finančným nástrojom nepozastaviť alebo ho nevylúčiť z obchodovania alebo nepozastaviť obchodovanie s derivátmi alebo nevylúčiť z obchodovania deriváty podľa osobitného predpisu,<sup>56a</sup>) ktoré súvisia s týmto finančným nástrojom alebo pre ktoré je tento finančný nástroj referenciou, v rozhodnutí uvedie aj vysvetlenie.
+
+- (12)
+
+- Odseky 1, 2, 9 až 11 sa uplatňujú, aj ak sa pozastavenie obchodovania s finančným nástrojom alebo vylúčenie finančného nástroja z obchodovania alebo pozastavenie obchodovania s derivátmi alebo vylúčenie z obchodovania derivátov podľa osobitného predpisu,<sup>56a</sup>) ktoré súvisia s týmto finančným nástrojom alebo pre ktoré je tento finančný nástroj referenciou, zrušilo.
+
+- (13)
+
+- Za splnenie povinnosti podľa odseku 1 sa považuje, aj ak burza preradí finančný nástroj na iný trh burzy, ktorého podmienky spĺňa.
+
+- (14)
+
+- O prijatí opatrení podľa odsekov 1 až 8, 12 a 13 je burza povinná bezodkladne informovať Národnú banku Slovenska a zverejniť oznámenie o prijatí takýchto opatrení na svojom webovom sídle.“.
+
+  - Poznámky pod čiarou k odkazom 56a, 57a a 58 znejú:
+
+  - „<sup>56a</sup>) § 5 ods. 1 písm. d) až j) zákona č. 566/2001 Z. z. v znení neskorších predpisov.
+
+  - <sup>57a</sup>) Delegované nariadenie Komisie (EÚ) 2017/569 z 24. mája 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa pozastavenia obchodovania s finančnými nástrojmi a vylúčenia finančných nástrojov z obchodovania (Ú. v. EÚ L 87, 31. 3. 2017).
+
+  - <sup>58</sup>) Čl. 7 a 17 nariadenia (EÚ) č. 596/2014.“.
+
+- 39. Za § 38 sa vkladá § 38a, ktorý vrátane nadpisu znie:
+
+- „§ 38a
+
+- Dočasné zastavenie obchodovania s finančnými nástrojmi
+
+- (1)
+
+- Burza môže dočasne zastaviť alebo obmedziť obchodovanie, ak nastane významný pohyb cien finančného nástroja na príslušnom trhu alebo súvisiacom trhu v krátkom čase.
+
+- (2)
+
+- Burza je oprávnená vo výnimočných situáciách zrušiť, zmeniť alebo opraviť akúkoľvek transakciu. Burza je povinná zabezpečiť, že parametre pre zastavenie obchodovania na regulovanom trhu sú vhodne nastavené spôsobom, ktorý berie do úvahy likviditu jednotlivých tried a podtried aktív, povahu trhového modelu a typy používateľov a ktorý je dostačujúci na to, aby sa zabránilo významným narušeniam riadneho obchodovania.
+
+- (3)
+
+- Burza je povinná podávať správy o parametroch na zastavenie obchodovania na regulovanom trhu a o všetkých podstatných zmenách týchto parametrov Národnej banke Slovenska uceleným a porovnateľným spôsobom, ktorá ich následne oznámi Európskemu orgánu dohľadu (Európskemu orgánu pre cenné papiere a trhy).
+
+- (4)
+
+- Pri dočasnom zastavení obchodovania s finančným nástrojom na regulovanom trhu, ktorý je významný z hľadiska likvidity v príslušnom finančnom nástroji, je burza povinná mať zavedené nevyhnutné systémy a postupy, ktoré zabezpečia, že bude informovať príslušné orgány, aby mohli koordinovať reakciu v rámci celého trhu a určiť, či je vhodné zastaviť obchodovanie na ostatných obchodných miestach, na ktorých sa s týmto finančným nástrojom obchoduje, až kým sa neobnoví obchodovanie na pôvodnom trhu.“.
+
+- 40. § 39 znie:
+
+- „§ 39
+
+- Emitent akcií prijatých na regulovaný trh, ktorý má v prospekte uvedený údaj o tom, že s akciami bude možné obchodovať na burze alebo že emitent požiada o prijatie akcií na príslušný trh burzy, môže rozhodnúť o tom, že akcie prestanú byť obchodované na burze len za podmienok a postupom podľa osobitného zákona;<sup>57</sup>) to neplatí, ak sa skončenie obchodovania s týmito akciami netýka všetkých búrz, zahraničných búrz alebo zahraničných regulovaných trhov, na ktorých sa s týmito akciami obchoduje.“.
+
+- 41. § 39a a 39b sa vypúšťajú. Poznámka pod čiarou k odkazu 54 sa vypúšťa.
+
+- 42. V § 43 ods. 3 písm. f) druhom bode sa slová „rodné číslo“ nahrádzajú slovami „dátum narodenia“, bodkočiarka sa nahrádza čiarkou a vypúšťajú sa slová „u zahraničnej osoby sa namiesto rodného čísla uvádza dátum narodenia,“.
+
+- 43. Poznámka pod čiarou k odkazu 58b znie:
+
+- „<sup>58b</sup>) Nariadenie (EÚ) č. 596/2014.“.
+
+- 44. V § 45 ods. 4 druhej vete sa za slovo „jeden“ vkladá slovo „domovský“.
+
+- 45. V § 47 ods. 4 úvodná veta znie:
+
+- „Emitent je povinný zverejniť regulované informácie prostredníctvom prostriedkov na šírenie regulovaných informácií, ktorými sú“.
+
+- 46. V § 47 ods. 4 písm. b) sa na konci vypúšťa slovo „alebo“.
+
+- 47. V § 47 ods. 4 písm. c) sa na konci bodka nahrádza slovom „alebo“.
+
+- 48. V § 47 sa odsek 4 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- iným vhodným spôsobom zabezpečujúcim včasný a nediskriminačný prístup k regulovaným informáciám.“.
+
+- 49. V § 47 odsek 5 znie:
+
+- „(5)
+
+- Regulované informácie emitent zverejní spôsobom podľa odseku 4 písm. a) a zároveň aj jedným zo spôsobov podľa odseku 4 písm. b) až d). Za šírenie regulovaných informácií podľa odseku 4 písm. d) sa považuje aj ich zverejnenie podľa § 47 ods. 1.“.
+
+- 50. V § 47 ods. 9 prvá veta znie:
+
+- „Emitent oznámi regulované informácie prostredníctvom prostriedkov na šírenie regulovaných informácií v úplnom a nezmenenom znení.“.
+
+- 51. V § 47 ods. 9 druhej vete sa slová „predbežné vyhlásenie“ nahrádzajú slovami „ročné správy o platbách orgánom verejnej moci“.
 
 - 52. Za § 50 sa vkladajú § 51 až 57c, ktoré vrátane nadpisov znejú:
 
@@ -652,6 +1100,34 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
 
   - <sup>69a</sup>) Delegované nariadenie Komisie (EÚ) 2017/574 zo 7. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa úrovne presnosti obchodných hodín (Ú. v. EÚ L 87, 31. 3. 2017).“.
 
+- 53. V § 58 ods. 1 sa slová „burzou, členmi burzy, organizátorom mnohostranného obchodného systému,“ nahrádzajú slovami „burzou a iným organizátorom mnohostranného systému, ich členmi a účastníkmi, poskytovateľom služieb vykazovania údajov,“.
+
+- 54. V § 59a ods. 3 sa za slovom „trh“ slovo „alebo“ nahrádza čiarkou a za slová „obchodný systém“ sa vkladajú slová „alebo organizovaný obchodný systém“.
+
+- 55. V § 60 ods. 1 písm. e) sa za slová „právnickej osobe“ vkladajú slová „alebo fyzickej osobe“ a číslo „5“ sa nahrádza číslom „10“.
+
+- 56. V § 60 ods. 1 sa vypúšťa písmeno i).
+
+- 57. V § 60 sa za odsek 3 vkladá nový odsek 4, ktorý znie:
+
+- „(4)
+
+- Národná banka Slovenska môže držiteľom pozícií uložiť sankcie podľa odseku 1 za porušenia obmedzenia pozícií určených podľa tohto zákona, ak
+
+- a)
+
+- pozície, ktoré držia osoby nachádzajúce sa alebo pôsobiace na území Slovenskej republiky alebo v zahraničí, prekračujú obmedzenia týkajúce sa zmlúv na komoditné deriváty, ktoré Národná banka Slovenska určila v súvislosti s týmito derivátovými zmluvami na obchodných miestach nachádzajúcich sa alebo pôsobiacich na území Slovenskej republiky alebo s ekonomicky rovnocennými mimoburzovými derivátovými zmluvami,
+
+- b)
+
+- pozície, ktoré držia osoby nachádzajúce sa alebo pôsobiace na území Slovenskej republiky, prekračujú obmedzenia týkajúce sa zmlúv na komoditné deriváty určené príslušnými orgánmi v iných členských štátoch.“.
+
+  - Doterajšie odseky 4 až 13 sa označujú ako odseky 5 až 14.
+
+- 58. V § 60 ods. 6 sa slová „odsekov 1 až 3“ nahrádzajú slovami „odsekov 1 až 4“, v ods. 9 sa slová „odsekov 1 až 4“ nahrádzajú slovami „odsekov 1 až 5“, v ods. 10 sa slová „odseku 8“ nahrádzajú slovami „odseku 9“, v ods. 11 sa slová „odseku 9“ nahrádzajú slovami „odseku 10“ a slová „odseku 8“ nahrádzajú slovami „odseku 9“, v ods. 12 sa slová „odseku 8“ nahrádzajú slovami „odseku 9“, v ods. 13 sa slová „odseku 8“ nahrádzajú slovami „odseku 9“ a v ods. 14 sa slová „odsekov 10 a 11“ nahrádzajú slovami „odsekov 11 a 12“.
+
+- 59. V § 60 ods. 14 sa vypúšťajú slová „Európskej komisii a“.
+
 - 60. V § 61 ods. 1 prvej vete sa slovo „dvoch“ nahrádza slovom „troch“ a druhá veta sa nahrádza vetami, ktoré znejú:
 
 - „Premlčacie lehoty podľa prvej vety sa prerušujú, keď nastala skutočnosť zakladajúca prerušenie lehoty podľa osobitného predpisu,<sup>70aa</sup>) pričom od prerušenia premlčania začína plynúť nová premlčacia lehota. Nedostatky v činnosti burzy alebo inej osoby, nad ktorou sa vykonáva dohľad podľa tohto zákona, uvedené v protokole o vykonanom dohľade na mieste sa považujú za zistené odo dňa skončenia príslušného dohľadu na mieste podľa osobitného predpisu.<sup>70ab</sup>)“.
@@ -661,6 +1137,34 @@ Zákon č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 594/200
   - „<sup>70aa</sup>) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
   - <sup>70ab</sup>) § 10 ods. 5 zákona č. 747/2004 Z. z.“.
+
+- 61. V § 63 odsek 1 znie:
+
+- „(1)
+
+- Národná banka Slovenska je oprávnená pozastaviť obchodovanie s finančným nástrojom alebo vylúčiť finančný nástroj z obchodovania na príslušnom trhu mnohostranného systému alebo pozastaviť alebo zrušiť burzový obchod.“.
+
+- 62. V § 63 odsek 4 znie:
+
+- „(4)
+
+- Národná banka Slovenska je oprávnená uložiť burze alebo obchodníkovi s cennými papiermi organizujúcim mnohostranný systém vykonanie opatrení podľa odseku 1 v rámci ich pôsobnosti.“.
+
+- 63. § 63a znie:
+
+- „§ 63a
+
+- Emitent cenných papierov prijatých na trh burzy je povinný predložiť Národnej banke Slovenska všetky informácie, ktoré sú potrebné na ochranu investorov a na zabezpečenie bezproblémového fungovania trhu burzy a podľa požiadaviek Národnej banky Slovenska tieto informácie zverejniť rovnakým spôsobom ako informácie podľa § 37. Ak emitent požiadavke Národnej banke Slovenska na zverejnenie informácie nevyhovie, túto informáciu je oprávnená zverejniť Národná banka Slovenska.“.
+
+- 64. V § 64 odsek 2 znie:
+
+- „(2)
+
+- Národná banka Slovenska môže odobrať povolenie pri vzniku závažných nedostatkov v činnosti burzy, pri závažnom a systematickom porušovaní povinností uložených týmto zákonom alebo osobitným predpisom<sup>71a</sup>) alebo ak burza neplní podmienky podľa § 4 ods. 2.“.
+
+  - Poznámka pod čiarou k odkazu 71a znie:
+
+  - „<sup>71a</sup>) Nariadenie (EÚ) č. 600/2014.“.
 
 - 65. V § 65a sa za slovo „rozhodovanie“ vkladá slovo „burzy“, za slová „§ 65“ sa vkladajú slová „ods. 1 a 2“ a na konci sa bodka nahrádza čiarkou a pripájajú sa tieto slová: „pričom proti rozhodnutiu burzy nie je možné podať opravný prostriedok; na konanie a rozhodovanie burzy sa nevzťahujú všeobecné predpisy o správnom konaní.<sup>72</sup>)“.
 
