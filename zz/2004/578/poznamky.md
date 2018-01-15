@@ -410,6 +410,8 @@
 
 - 75b) § 31a zákona č. 213/1997 Z. z.
 
+- 75c) § 31a ods. 1 zákona č. 213/1997 Z. z. v znení zákona č. 35/2002 Z. z.
+
 - 76) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov.
 
 - 77) Zákon Slovenskej národnej rady č. 27/1992 Zb. o Slovenskej komore vysokoškolsky vzdelaných zdravotníckych pracovníkov v znení zákona Národnej rady Slovenskej republiky č. 277/1994 Z. z.
