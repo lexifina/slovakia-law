@@ -34,6 +34,10 @@
 
 - 2f) Napríklad STN EN 590 Automobilové palivá. Nafta. Požiadavky a skúšobné metódy.
 
+- 2g) Napríklad zákon č. 309/2009 Z. z. v znení neskorších predpisov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 271/2011 Z. z., ktorou sa ustanovujú kritériá trvalej udržateľnosti a ciele na zníženie emisií skleníkových plynov z pohonných látok.
+
+- 2h) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení neskorších predpisov.
+
 - 3) Vyhláška Štatistického úradu Slovenskej republiky č. 632/2002 Z. z., ktorou sa vydáva štatistická klasifikácia produkcie.
 
 - 4a) Napríklad zákon Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
