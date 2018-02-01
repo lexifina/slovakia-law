@@ -1,1 +1,0 @@
-- 1) § 25 ods. 2 zákona č. 218/2013 Z. z. o núdzových zásobách ropy a ropných výrobkov a o riešení ropnej núdze a o zmene a doplnení niektorých zákonov.
