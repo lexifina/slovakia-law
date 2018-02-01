@@ -712,6 +712,18 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - Orgány verejnej moci, ktoré sú štátnou rozpočtovou organizáciou, sú povinné postupovať podľa § 31a ods. 1 najneskôr od 1. novembra 2018.
 
+- (5)
+
+- Sociálna poisťovňa je do 31. decembra 2019 oprávnená vytvárať a aktualizovať elektronický formulár elektronického podania a elektronického úradného dokumentu len ako elektronický dokument, ktorý nemusí spĺňať ďalšie náležitosti elektronického formulára podľa § 3 písm. i), § 24 ods. 2 písm. b) a c) a ods. 3 písm. a) a e). Počas doby podľa prvej vety je možné podať Sociálnej poisťovni elektronické podanie a Sociálna poisťovňa môže vydať elektronický úradný dokument aj ako elektronický dokument, ktorého údaje nemusia byť vyplnené v štruktúre podľa elektronického formulára.
+
+- (6)
+
+- Správca špecializovaného portálu alebo agendového systému slúžiaceho na elektronickú úradnú komunikáciu s orgánmi finančnej správy v colnom konaní alebo inom správnom konaní pred colným orgánom<sup>34</sup>) a v správe daní,<sup>35</sup>) nie je do 31. decembra 2020 povinný prepojiť informačné systémy verejnej správy<sup>3</sup>) v jeho správe s ústredným portálom, ak umožňuje elektronickú komunikáciu s nimi prostredníctvom ústredného portálu iným spôsobom.
+
+- (7)
+
+- Ak ide o doručovanie elektronických úradných správ orgánmi finančnej správy v colnom konaní alebo inom správnom konaní pred colným orgánom<sup>34</sup>) a v správe daní,<sup>35</sup>) elektronická úradná správa, vrátane všetkých elektronických dokumentov, sa do 31. decembra 2020 považuje za doručenú aj okamihom sprístupnenia prostredníctvom funkcionality informačného systému Centrálny elektronický priečinok<sup>36</sup>) alebo prostredníctvom funkcionality špecializovaného portálu alebo agendového systému orgánu finančnej správy, ktoré sú podľa predpisov účinných do 31. októbra 2017 zriadené ako miesto na elektronické doručovanie, ak tento okamih predchádza okamihu doručenia podľa § 32 ods. 5; na tento účel správca modulu elektronických schránok, správca informačného systému Centrálny elektronický priečinok<sup>36</sup>) a správca príslušného špecializovaného portálu alebo agendového systému finančnej správy vo vzájomnej súčinnosti zabezpečia jednotný spôsob informovania o momente doručenia a jeho evidenciu.
+
 - (8)
 
 - Správca špecializovaného portálu a správca informačného systému integrovaného obslužného miesta zabezpečia sprístupnenie podľa § 5 ods. 6 písm. b) najneskôr od 1. apríla 2018.“.
