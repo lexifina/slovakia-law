@@ -24,9 +24,113 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
   - „<sup>2ca</sup>) § 14f zákona č. 309/2009 Z. z. v znení zákona č. 181/2017 Z. z.“.
 
+- 5. V § 6 ods. 1 písmeno a) znie:
+
+- „
+
+- „a) motorový benzín<sup>2d</sup>) kódu kombinovanej nomenklatúry 2710 12 41, 2710 12 45, 2710 12 49 | 554 eur/1 000 l,“.
+
+- “.
+
+- 6. V § 6 ods. 1 písmeno d) znie:
+
+- „
+
+- „d) plynový olej<sup>2f</sup>) kódu kombinovanej nomenklatúry 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 15, 2710 20 17 a 2710 20 19 | 394 eur/1 000 l,“.
+
+- “.
+
+- 7. V § 6 ods. 4 sa vypúšťajú slová „prvého bodu“.
+
 - 8. V § 6 ods. 4 sa za druhú vetu vkladá nová tretia veta, ktorá znie:
 
 - „Ak bol minerálny olej podľa odseku 1 písm. e) alebo písm. g) použitý ako pohonná látka a osoba, ktorá ho na tento účel použila, nevie preukázať pôvod alebo spôsob jeho nadobudnutia v súlade s týmto zákonom, na takýto minerálny olej sa uplatní sadzba dane podľa odseku 1 písm. d).“.
+
+- 9. Za § 6 sa vkladá § 7, ktorý vrátane nadpisu znie:
+
+- „§ 7
+
+- Zvýhodnená sadzba dane na minerálny olej s obsahom biogénnej látky
+
+- (1)
+
+- Na motorový benzín kódu kombinovanej nomenklatúry 2710 12 41, 2710 12 45,
+
+- 2710 12 49 je možné uplatniť sadzbu dane vo výške 514 eur/1 000 l, ak obsahuje
+
+- a)
+
+- bioetanolovú zložku
+
+- 1.
+
+- od 1. januára 2018 v objeme 5,9 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>)
+
+- 2.
+
+- od 1. januára 2019 v objeme 6,2 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>)
+
+- 3.
+
+- od 1. januára 2020 v objeme 7,4 % a viac s presnosťou v súlade s technickou normou<sup>2ea</sup>) vrátane biogénnej látky uvedenej v § 4 ods. 7 písm. e) v objeme 0,5 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>)
+
+- b)
+
+- biogénnu látku uvedenú v § 4 ods. 7 písm. e)
+
+- 1.
+
+- od 1. januára 2021 v objeme 1 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>)
+
+- 2.
+
+- od 1. januára 2022 v objeme 1,5 % a viac s presnosťou v súlade s technickou normou.<sup>2ea</sup>)
+
+- (2)
+
+- Na plynový olej kódu kombinovanej nomenklatúry 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 15, 2710 20 17 a 2710 20 19 je možné uplatniť sadzbu dane vo výške 368 eur/1 000 l, ak obsahuje
+
+- a)
+
+- od 1. januára 2018 do 31. decembra 2020
+
+- 1.
+
+- biodiesel v objeme 6,9 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>) alebo
+
+- 2.
+
+- biodiesel v objeme 6,4 % a viac s presnosťou v súlade s technickou normou<sup>2ea</sup>) a biogénnu látku uvedenú v § 4 ods. 7 písm. e) v objeme 0,5 % a viac s presnosťou v súlade s technickou normou,<sup>2ea</sup>)
+
+- b)
+
+- od 1. januára 2021 biogénnu látku uvedenú v § 4 ods. 7 písm. e) v objeme 1 % a viac s presnosťou v súlade s technickou normou.<sup>2ea</sup>)
+
+- (3)
+
+- Na účely tohto zákona sa bioetanolovou zložkou rozumie bioetyltercbutyléter alebo zmes bioetyltercbutyléteru a bioetanolu, pričom zmes musí obsahovať podiel bioetyltercbutyléteru najmenej 3 %, čo predstavuje objem 1,41 % bioetanolovej zložky. Objem bioetyltercbutyléteru sa do objemu bioetanolovej zložky zmesi započítava 47 % svojho objemu.
+
+- (4)
+
+- Sadzbu dane podľa odsekov 1 a 2 je možné uplatniť, len ak biogénna látka spĺňa kritériá trvalej udržateľnosti podľa osobitných predpisov<sup>2g</sup>) a nebola doteraz zohľadnená na účely splnenia povinností podľa osobitného predpisu<sup>2h</sup>) ani na účely splnenia obdobnej povinnosti na území iného členského štátu. Osoba, ktorá si uplatní sadzbu dane podľa odsekov 1 a 2, je povinná preukázať colnému úradu, že biogénna látka spĺňa kritériá trvalej udržateľnosti podľa osobitných predpisov<sup>2g</sup>) predložením potvrdenia o pôvode biopaliva alebo biokvapaliny a čestným vyhlásením, že biogénna látka nebola doteraz zohľadnená na účely splnenia povinností podľa osobitného predpisu<sup>2h</sup>) ani na účely splnenia obdobnej povinnosti na území iného členského štátu v čase
+
+- a)
+
+- podania daňového priznania na minerálny olej s obsahom biogénnej látky uvedeného do daňového voľného obehu alebo
+
+- b)
+
+- prepustenia minerálneho oleja s obsahom biogénnej látky do voľného obehu<sup>2a</sup>) v mieste dovozu, ak po jeho prepustení do voľného obehu<sup>2a</sup>) nenadväzuje pozastavenie dane.
+
+- (5)
+
+- Minerálny olej podľa odsekov 1 a 2 musí byť pri preprave sprevádzaný obchodnými dokumentmi, ktoré musia obsahovať informáciu o druhu a množstve biogénnej látky v percentách objemu.“.
+
+  - Poznámky pod čiarou k odkazom 2g a 2h znejú:
+
+  - „<sup>2g</sup>) Napríklad zákon č. 309/2009 Z. z. v znení neskorších predpisov, vyhláška Ministerstva životného prostredia Slovenskej republiky č. 271/2011 Z. z., ktorou sa ustanovujú kritériá trvalej udržateľnosti a ciele na zníženie emisií skleníkových plynov z pohonných látok.
+
+  - <sup>2h</sup>) § 14a ods. 1 zákona č. 309/2009 Z. z. v znení neskorších predpisov.“.
 
 - 10. V § 10 ods. 3 sa vypúšťa písmeno b). Súčasne sa zrušuje označenie písmena a).
 
@@ -105,6 +209,12 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - 14. V § 12 ods. 2 písm. d) sa slová „dodania alebo dňom použitia“, písmene e) slovo „použitia“ a písmena f) slová „dodania alebo použitia“ nahrádzajú slovami „použitia, dodania alebo ponúkania na použitie“.
 
 - 15. V § 13 ods. 2 písm. d) a f) sa slová „dodala alebo použila“ a písmene e) slovo „použila“ nahrádzajú slovami „použila, dodala alebo ponúkala na použitie“.
+
+- 16. V § 15 sa odsek 1 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- osobe podľa § 21, 25 alebo § 31, ktorá na minerálny olej podľa § 7 ods. 1 uplatnila sadzbu dane podľa § 6 ods. 1 písm. a) alebo na minerálny olej podľa § 7 ods. 2 uplatnila sadzbu dane podľa § 6 ods. 1 písm. d), ak preukáže, že minerálny olej podľa § 7 ods. 1 alebo ods. 2 spĺňal podmienky podľa § 7 ods. 4, pričom v čase podania daňového priznania na minerálny olej s obsahom biogénnej látky podľa § 7 ods. 1 alebo ods. 2 nemohla k daňovému priznaniu priložiť doklad preukazujúci, že biogénna látka spĺňa kritériá trvalej udržateľnosti podľa osobitných predpisov.<sup>2g</sup>)“.
 
 - 17. V § 18 ods. 6 sa slová „minerálne oleje kódu kombinovanej nomenklatúry 2711 v pozastavení dane skladujú, prijímajú a odosielajú, prípadne miešajú“ nahrádzajú slovami „v pozastavení dane skladujú, prijímajú, odosielajú alebo miešajú len minerálne oleje kódu kombinovanej nomenklatúry 2711,“.
 
@@ -220,6 +330,8 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - „Obchodovať s vybraným minerálnym olejom je na daňovom území možné len na základe povolenia na obchodovanie vydaného colným úradom.“.
 
+- 43. V § 25b celom texte sa slová „alebo písm. f)“ nahrádzajú slovami „a f) alebo v § 7 ods. 1 a 2“ a v odseku 6 poslednej vete sa za slová „v § 6 ods. 1 písm. a) a d)“ vkladajú slová „alebo v § 7 ods. 1 a 2“.
+
 - 46. V § 31 ods. 2 úvodnej vete sa za slová „je povinný“ vkladajú slová „najneskôr jeden deň“.
 
 - 47. V § 31 ods. 3 sa slovo „bezodkladne“ nahrádza slovami „najneskôr do troch pracovných dní“.
@@ -239,6 +351,22 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - 52. V § 41 ods. 3 sa slová „2 písm. i)“ nahrádzajú slovami „2 písm. f), i)“.
 
 - 53. V § 42 ods. 1 písm. e), i) a l) a § 42a ods. 1 písm. a), d) a e) sa za slovo „použije“ vkladá čiarka a slová „dodá alebo ponúka na použitie“.
+
+- 54. V § 42 ods. 1 písmená j) a k) znejú:
+
+- „j)
+
+- uplatní sadzbu dane podľa § 7 ods. 1 na minerálny olej podľa § 6 ods. 1 písm. a), ak tento minerálny olej nespĺňa podmienky podľa § 7 ods. 1 a 4,
+
+- k)
+
+- uplatní sadzbu dane podľa § 7 ods. 2 na minerálny olej podľa § 6 ods. 1 písm. d), ak tento minerálny olej nespĺňa podmienky podľa § 7 ods. 2 a 4,“.
+
+- 56. V § 42 sa odsek 1 dopĺňa písmenom q), ktoré znie:
+
+- „q)
+
+- nesplní povinnosť podľa § 7 ods. 5.“.
 
 - 58. V § 42 odsek 2 znie:
 
@@ -263,6 +391,8 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 - d)
 
 - podľa odseku 1 písm. n) až p) od 100 eur do 100 000 eur.“.
+
+- 59. V § 42 ods. 2 písm. d) sa slová „až p)“ nahrádzajú slovami „až q)“.
 
 - 62. V § 42a odsek 2 znie:
 
