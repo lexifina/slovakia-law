@@ -1,1 +1,1 @@
-Príloha k nariadeniu vlády č. 420/2012 Z. z. [Národná tabuľka frekvenčného spektra 2017](../assets/4ddbb660e9daffffd32a3e2f5dd4ae6bd72a757de8c5c4cb2cef4b04da92d35f.pdf)
+Príloha k nariadeniu vlády č. 420/2012 Z. z. [Príloha k nariadeniu vlády č. 420/2012 Z. z.](../assets/b568a8706675eafe274c95d61a209e0b3c8e4c834f62eed7e56eed0480dd2edd.pdf)
