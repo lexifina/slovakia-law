@@ -1,0 +1,9 @@
+Príloha č. 2 k nariadeniu vlády č. 46/2009 Z. z.
+
+- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Rady 75/324/EHS z 20. mája 1975 o aproximácii právnych predpisov členských štátov týkajúcich sa aerosólových rozprašovačov (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 2) v znení smernice Komisie 94/1/ES zo 6. januára 1994 zohľadňujúcej niektoré technické stránky smernice Rady 75/324/EHS o aproximácii právnych predpisov členských štátov týkajúcich sa aerosólových rozprašovačov (Mimoriadne vydanie Ú. v. EÚ, kap. 13/zv. 13), smernice Komisie 2008/47/ES z 8. apríla 2008, ktorou sa na účely prispôsobenia technickému pokroku mení a dopĺňa smernica Rady 75/324/EHS o aproximácii právnych predpisov členských štátov týkajúcich sa aerosólových rozprašovačov (Ú. v. EÚ L 96, 9. 4. 2008), smernice Komisie 2013/10/EÚ z 19. marca 2013, ktorou sa mení a dopĺňa smernica Rady 75/324/EHS o aproximácii právnych predpisov členských štátov týkajúcich sa aerosólových rozprašovačov s cieľom prispôsobiť jej ustanovenia o označovaní nariadeniu Európskeho parlamentu a Rady (ES) č. 1272/2008 o klasifikácii, označovaní a balení látok a zmesí (Ú. v. EÚ L 77, 20. 3. 2013).
+
+  - 2. Smernica Európskeho parlamentu a Rady 2007/45/ES zo dňa 5. septembra 2007, ktorou sa stanovujú pravidlá pre menovité množstvá spotrebiteľsky balených výrobkov, zrušujú sa smernice Rady 75/106/EHS a 80/232/EHS a ktorou sa mení a dopĺňa smernica Rady 76/211/EHS (Ú. v. EÚ L 247, 21. 9. 2007).
+
+  - 3. Smernica Komisie (EÚ) 2016/2037 z 21. novembra 2016, ktorou sa mení smernica Rady 75/324/EHS, pokiaľ ide o maximálny povolený tlak aerosólových rozprašovačov a s cieľom prispôsobiť jej ustanovenia o označovaní nariadeniu Európskeho parlamentu a Rady (ES) č. 1272/2008 o klasifikácii, označovaní a balení látok a zmesí (Ú. v. EÚ L 314, 22. 11. 2016).
