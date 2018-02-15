@@ -1,1 +1,0 @@
-Peter Plavčan v. r.
