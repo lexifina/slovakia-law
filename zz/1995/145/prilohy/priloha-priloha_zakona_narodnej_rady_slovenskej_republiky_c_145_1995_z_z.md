@@ -4172,7 +4172,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 171p
 
-  - a) | Podanie žiadosti o schválenie návrhu plánu prác na odstránenie environmentálnej záťaže, schválenie zmeny plánu prác na odstránenie environmentálnej záťaže, alebo schválenie aktualizácie plánu prác na odstránenie environmentálnej záťaže<sup>39oa</sup>) ..... | 33 eur
+  - a) | Podanie žiadosti o schválenie plánu prác na odstránenie environmentálnej záťaže, schválenie zmeny plánu prác na odstránenie environmentálnej záťaže, alebo schválenie aktualizácie plánu prác na odstránenie environmentálnej záťaže<sup>39oa</sup>) ..... | 33 eur
 
   - b) | Podanie žiadosti o ukončenie realizácie plánu prác na odstránenie environmentálnej záťaže<sup>39ob</sup>) ........ | 33 eur
 
