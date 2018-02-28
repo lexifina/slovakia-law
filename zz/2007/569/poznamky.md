@@ -104,6 +104,14 @@
 
 - 34) § 36 a 37 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
+- 34a) Zákon č. 282/2015 Z. z. o vyvlastňovaní pozemkov a stavieb a o nútenom obmedzení vlastníckeho práva k nim a o zmene a doplnení niektorých zákonov.
+
+- 34b) § 19 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 34c) § 35 a 58 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 34d) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
+
 - 35) Napríklad § 2 ods. 2 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby v znení zákona č. 35/2002 Z. z.
 
 - 36) § 1 ods. 2 písm. b) zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z.
