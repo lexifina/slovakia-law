@@ -3678,11 +3678,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - i) | Žiadosť o prevod registrácie veterinárneho lieku ..... | | | 165,50 eura
 
-  - j) | Vydanie rozhodnutia o schválení veterinárneho prípravku a veterinárnej zdravotníckej pomôcky<sup>36k</sup>) ..... | | | 99,50 eura
+  - j) | Žiadosť o schválenie veterinárneho prípravku<sup>36k</sup>) a oznámenie uvádzania veterinárnej technickej pomôcky na trh<sup>36l</sup>) ..... | | | 200 eur
 
-  - k) | Vydanie rozhodnutia o zmene alebo predĺžení rozhodnutia uvedeného v písmene i) ..... | | | 16,50 eura
+  - k) | Žiadosť o predĺženie platnosti rozhodnutia o schválení veterinárneho prípravku<sup>36m</sup>) ..... | | | 150 eur
 
-  - l) | Vydanie povolenia na klinické skúšanie veterinárnych liekov a veterinárnych zdravotníckych pomôcok<sup>36l</sup>) ..... | | | 16,50 eura
+  - l) | Žiadosť o schválenie zmeny údajov a skutočností uvedených v žiadosti o schválenie veterinárneho prípravku<sup>36ma</sup>) ..... | | | 100 eur
 
   - m) | Vydanie povolenia na dovoz a uvádzanie do obehu neregistrovaného veterinárneho lieku<sup>36m</sup>) ..... | | | 16,50 eura
 

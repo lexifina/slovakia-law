@@ -418,11 +418,13 @@
 
 - 36cn) § 59 zákona č. 362/2011 Z. z.
 
-- 36k) § 65 ods. 2 písm.c) zákona č. 140/1998 Z. z. v znení neskorších predpisov.
+- 36k) § 6 ods. 2 zákona č. 17/2018 Z. z. o veterinárnych prípravkoch a veterinárnych technických pomôckach.
 
-- 36l) § 65 ods. 2 písm. e) zákona 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+- 36l) § 16 ods. 2 zákona č. 17/2018 Z. z.
 
-- 36m) § 51 ods. 4 zákona č. 140/1998 Z. z. v znení zákona č. 488/2001 Z. z.
+- 36m) § 8 ods. 1 zákona č. 17/2018 Z. z.
+
+- 36ma) § 8 ods. 2 zákona č. 17/2018 Z. z.
 
 - 36n) Zákon č. 163/2001 Z. z. o chemických látkach a chemických prípravkoch v znení neskorších predpisov.
 
