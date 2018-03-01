@@ -2,7 +2,7 @@ Príloha č. 2 k nariadeniu vlády č. 104/2003 Z. z.
 
 - Formulár k žiadosti o vyjadrenie o spôsobilosti nevysokoškolskej inštitúcie podieľať sa na uskutočňovaní doktorandského študijného programu
 
-[príloha 02](../assets/6abf7ec4c58585488bd9467dd49cabec833147be5ccf071c5f4a2d2df1bbcb3b.pdf)
+[príloha 02](../assets/6fb94f54f00ab04d2b053160c9671fa602e2fc1c3931c93ffe5836dabdfeda8f.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

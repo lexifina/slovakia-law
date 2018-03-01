@@ -2,7 +2,7 @@ Príloha č. 3 k nariadeniu vlády č. 104/2003 Z. z.
 
 - Formulár k žiadosti o vyjadrenie o spôsobilosti vysokej školy uskutočňovať habilitačné konanie a konanie na vymenúvanie profesorov
 
-[príloha 03](../assets/182ab8eb04696df1e7fcc3ac2d5dcf22199ccf6129c715b4097b72247e8cc9d5.pdf)
+[príloha 03](../assets/a2cf03c5758cd7e3a2a399a1cd18713e426e3ca073a235117fc6eb672505661e.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

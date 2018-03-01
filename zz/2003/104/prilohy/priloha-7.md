@@ -1,6 +1,6 @@
 Príloha č. 7 k nariadeniu vlády č. 104/2003 Z. z.
 
-- Vedecko-pedagogická alebo umelecko-pedagogická charakteristika fyzickej osoby [príloha 07](../assets/85c7f7ffce2b7a9523f62f42df29194444fdf703425845fcbe0751ef411734e3.pdf)
+- Vedecko-pedagogická alebo umelecko-pedagogická charakteristika fyzickej osoby [príloha 07](../assets/3c58948361bae019bfb9197dada334ff52037580f4d34b4b7e0c913ef6ca5f1c.pdf)
 
   - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

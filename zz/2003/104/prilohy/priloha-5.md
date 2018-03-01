@@ -2,7 +2,7 @@ Príloha č. 5 k nariadeniu vlády č. 104/2003 Z. z.
 
 - Formulár na predloženie podkladov na účely komplexnej akreditácie činností vysokej školy
 
-[príloha 05](../assets/43b509164e3eb8788520fa28b51edb4c8b431ffddfdbfcae49af3b80afd9be1d.pdf)
+[príloha 05](../assets/8e8e6d1d599f63f28300f70f32356fee4d7aa329b6d885e74fe5365d95282896.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

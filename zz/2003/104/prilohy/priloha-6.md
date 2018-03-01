@@ -1,4 +1,4 @@
-Príloha č. 6 k nariadeniu vlády č. 104/2003 Z. z. [príloha 06](../assets/faa6e584f65b1cc89cc3b33d6048006b2185c4b44b2762a0f2285bb38bcda9cf.pdf)
+Príloha č. 6 k nariadeniu vlády č. 104/2003 Z. z. [príloha 06](../assets/c9e5928121113d274f3499c07ec4e239f68460bc2dd7b05d9895c75614ac23bf.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

@@ -2,7 +2,7 @@ Príloha č. 1 k nariadeniu vlády č. 104/2003 Z. z.
 
 - FORMULÁR K ŽIADOSTI O VYJADRENIE O SPÔSOBILOSTI VYSOKEJ ŠKOLY USKUTOČŇOVAŤ ŠTUDIJNÝ PROGRAM OPRÁVŇUJÚCI UDELIŤ JEHO ABSOLVENTOM AKADEMICKÝ TITUL
 
-[príloha 01](../assets/672240b77b90f43b542d11aa0f1e7b7698690e34e3bbaaa79352d495f0f11bb9.pdf)
+[príloha 01](../assets/62cb54496db7824140d1e8bbf3d808d3ffab9919018aa31beca9751159fec770.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 

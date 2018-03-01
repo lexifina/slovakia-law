@@ -2,7 +2,7 @@ Príloha č. 4 k nariadeniu vlády č. 104/2003 Z. z.
 
 - Formulár k žiadosti o vyjadrenie k návrhu na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla verejnej vysokej školy, štátnej vysokej školy, fakulty verejnej vysokej školy, fakulty štátnej vysokej školy alebo fakulty súkromnej vysokej školy
 
-[príloha 04](../assets/993d42b751112f2682904f52f5cb7916d1dac89d4affd17f9ddf2972b10ecc80.pdf)
+[príloha 04](../assets/06a228dc2d6bb919b7d94494bafc549052d55f4b51a525257b9bc7f3d7869996.pdf)
 
 - Vyplnený formulár sa v elektronickej podobe predkladá v štandarde pre textové súbory.<sup>7</sup>)
 
