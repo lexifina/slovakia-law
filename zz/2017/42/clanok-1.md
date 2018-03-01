@@ -426,6 +426,10 @@ Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákon
 
 - má preukázateľne zabezpečenú nadväznosť používaných etalónov a meradiel,
 
+- c)
+
+- v prípade žiadosti na výkon overovania určených meradiel má akreditáciu podľa osobitného predpisu<sup>9</sup>) v oblasti a rozsahu, ktorá je predmetom žiadosti o autorizáciu na výkon overovania určených meradiel,
+
 - d)
 
 - má zástupcu zodpovedného za činnosť alebo je sama zástupcom zodpovedným za činnosť, ktorá je predmetom autorizácie (ďalej len „zodpovedný zástupca“), ktorý má spôsobilosť v oblasti metrológie podľa § 29; taká osoba môže byť zodpovedným zástupcom len pre jednu autorizovanú osobu,
