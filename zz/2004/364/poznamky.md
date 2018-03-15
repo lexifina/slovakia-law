@@ -72,7 +72,11 @@
 
 - 22) Zákon č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení zákona č. 309/2014 Z. z.
 
-- 23) Napríklad zákon č. 17/1992 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov.
+- 22a) § 4 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
+- 22b) § 31 a 36 zákona č. 24/2006 Z. z.
+
+- 23) Napríklad zákon č. 17/1992 Zb. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 139/2002 Z. z. v znení neskorších predpisov.
 
 - 24) § 8 zákona č. 17/1992 Zb.
 
@@ -82,15 +86,21 @@
 
 - 25) § 3 zákona č. 355/2007 Z. z.
 
-- 26) § 23 ods. 1 zákona č. 338 /2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení zákona č. 580/2003 Z. z.
+- 25a) § 39 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 27) Zákon č. 338/2000 Z. z. v znení zákona č. 580/2003 Z. z.
+- 25b) § 6 ods. 1 zákona č. 139/2002 Z. z.
+
+- 26) § 23 ods. 1 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+
+- 27) Zákon č. 338/2000 Z. z. v znení neskorších predpisov.
 
 - 28) § 40 ods. 2 písm. a) zákona č. 44/1988 Zb.
 
 - 29) § 40 ods. 4 zákona č. 44/1988 Zb. v znení zákona Slovenskej národnej rady č. 498/1991 Zb.
 
 - 30) Príloha č. 6 k nariadeniu vlády Slovenskej republiky č. 269/2010 Z. z. v znení nariadenia vlády Slovenskej republiky č. 398/2012 Z. z.
+
+- 30a) § 40 ods. 2 písm. c) zákona č. 44/1988 Zb.
 
 - 31) Čl. 2 a 3 ústavného zákona č. 227/2002 Z. z. v znení neskorších predpisov.
 
@@ -116,6 +126,14 @@
 
 - 37a) § 19 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
 
+- 37b) § 22 zákona č. 569/2007 Z. z. v znení neskorších predpisov.
+
+- 37c) § 27 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 37d) § 17 zákona č. 44/1988 Zb. v znení neskorších predpisov.
+
+- 37e) § 9 až 13 a 17 až 19 zákona č. 51/1988 Zb. v znení neskorších predpisov.
+
 - 38) § 2 zákona č. 569/2007 Z. z.
 
 - 39) Zákon č. 326/2005 Z. z. v znení neskorších predpisov.
@@ -137,6 +155,12 @@
 - 46a) Napríklad zákon č. 326/2005 Z. z. v znení neskorších predpisov, zákon č. 220/2004 Z. z. o ochrane a využívaní poľnohospodárskej pôdy a o zmene zákona č. 245/2003 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46b) § 4 ods. 3 písm. g) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+
+- 47) § 36 ods. 7 písm. a) zákona č. 442/2002 Z. z. v znení neskorších predpisov.
+
+- 47a) § 2 písm. b) a § 5 zákona č. 442/2002 Z. z. v znení neskorších predpisov.
+
+- 47b) § 25 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 48) § 4 zákona č. 569/2007 Z. z.
 
@@ -164,7 +188,7 @@
 
 - 58) Zákon č. 338/2000 Z. z. v znení zákona č. 580/2003 Z. z.
 
-- 58a) § 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
+- 58a) § 2 písm. j) zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
 - 58b) § 37 ods. 5 zákona č. 7/2010 Z. z.
 
@@ -215,6 +239,8 @@
 - 66c) Zákon č. 359/2007 Z. z. o prevencii a náprave environmentálnych škôd a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 409/2011 Z. z. o niektorých opatreniach na úseku environmentálnej záťaže a o zmene a doplnení niektorých zákonov.
+
+- Zákon č. 24/2006 Z. z. v znení neskorších predpisov.
 
 - 66d) § 19 zákona Slovenskej národnej rady č. 51/1988 Zb. v znení neskorších predpisov.
 

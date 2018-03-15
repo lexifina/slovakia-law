@@ -34,4 +34,4 @@
 
 (6) Za doklad preukazujúci splnenie požiadavky vzdelania podľa odseku 3 písm. a) sa považuje aj doklad o odbornej kvalifikácii vydaný školou alebo iným oprávneným orgánom podľa právnych predpisov príslušného štátu, uznaný za podmienok uvedených v osobitnom predpise.<sup>61c</sup>)
 
-(7) Za bezúhonného sa považuje ten, kto nebol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie o odbornej spôsobilosti, za trestný čin všeobecného ohrozenia alebo trestný čin ohrozenia životného prostredia. Bezúhonnosť sa preukazuje výpisom z registra trestov, ktorý v deň podania žiadosti nie je starší ako tri mesiace.
+(7) Za bezúhonného sa považuje ten, kto nebol právoplatne odsúdený za trestný čin, ktorého skutková podstata súvisí s predmetom činnosti, na ktorú žiada udeliť osvedčenie o odbornej spôsobilosti, za trestný čin proti životnému prostrediu. Bezúhonnosť sa preukazuje výpisom z registra trestov, ktorý v deň podania žiadosti nie je starší ako tri mesiace.
