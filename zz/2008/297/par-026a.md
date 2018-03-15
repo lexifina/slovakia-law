@@ -1,0 +1,7 @@
+# § 26a Národné hodnotenie rizík
+
+(1) Finančná spravodajská jednotka vypracúva národné hodnotenie rizík, ktoré spočíva v posudzovaní rizík legalizácie a financovania terorizmu na úrovni Slovenskej republiky. Na spracovaní národného hodnotenia rizík a jeho priebežnej aktualizácii sa na požiadanie zúčastňujú povinné osoby, Národná banka Slovenska, orgány činné v trestnom konaní, ostatné zainteresované štátne orgány a iné inštitúcie, ktoré sú povinné finančnej spravodajskej jednotke poskytnúť potrebnú súčinnosť.
+
+(2) Posudzovanie rizík podľa odseku 1 zohľadňuje rizikové faktory uvedené v prílohe č. 2, ako aj hodnotenie rizík vypracované orgánmi Európskej únie a ďalšími medzinárodnými inštitúciami.
+
+(3) Národné hodnotenie rizík sa aktualizuje najmä s ohľadom na vývoj rizík legalizácie a financovania terorizmu a s ohľadom na činnosť orgánov Európskej únie.
