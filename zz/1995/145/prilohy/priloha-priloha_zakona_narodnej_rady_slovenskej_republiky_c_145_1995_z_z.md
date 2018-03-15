@@ -402,9 +402,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 17
 
-      - a) Žiadosť o zápis matričnej udalosti, ktorá nastala v cudzine do osobitnej matriky ........10 eur
-
-      - b) Príprava podkladov k uzavretiu manželstva pred orgánom registrovanej cirkvi alebo náboženskej spoločnosti ................................................................................10 eur.
+      - Žiadosť o zápis matričnej udalosti, ktorá nastala v cudzine do osobitnej matriky ........10 eur
 
     - Položka 18
 
