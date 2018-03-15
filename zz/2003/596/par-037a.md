@@ -28,7 +28,7 @@
 
 (5) Ministerstvo uloží pokutu
 
-- a) do 3 319,00 eur zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom alebo porušil povinnosť podľa § 17 ods. 5,
+- a) do 3 319,00 eur zriaďovateľovi, ktorý porušil povinnosť podľa § 17 ods. 5 alebo podľa § 22 ods. 4,
 
 - b) do 33 193,50 eura zriaďovateľovi, ktorý
 
@@ -40,7 +40,7 @@
 
 - d) do 5 000 eur zriaďovateľovi, ktorý
 
-  - 1. nespracuje alebo spracuje nesprávne, nepravdivé alebo neúplné údaje podľa § 23a ods. 3 písm. d), g) až j) a ods. 4 písm. c) alebo
+  - 1. nespracuje alebo spracuje nesprávne, nepravdivé alebo neúplné údaje podľa § 23a ods. 3 písm. d), g) až k) a ods. 4 písm. c) alebo
 
   - 2. nesplní povinnosť oznámiť údaje podľa § 23a ods. 10,
 
