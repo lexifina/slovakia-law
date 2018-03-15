@@ -18,27 +18,21 @@
 
 - 9a) Čl. 32 ods. 2 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
-- 10) Čl. 45 ods. 4 druhý pododsek vykonávacieho nariadenia Komisie (EÚ) č. 809/2014 zo 17. júla 2014, ktorým sa stanovujú pravidlá uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 v súvislosti s integrovaným administratívnym a kontrolným systémom, opatreniami na rozvoj vidieka a krížovým plnením (Ú. v. EÚ L 227, 31. 07. 2014).
+- 10) Čl. 9 ods. 7 druhý pododsek delegovaného nariadenia (EÚ) č. 639/2014 v platnom znení.
 
 - 11) Čl. 4 ods. 1 písm. c) bod i) nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 12) Čl. 4 ods. 1 písm. e) nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
+- 12a) Čl. 4 ods. 1 písm. h) nariadenia (EÚ) č. 1307/2013 v platnom znení.
+
 - 13) Hlava II delegovaného nariadenia Komisie (EÚ) č. 640/2014 z 11. marca 2014, ktorým sa dopĺňa nariadenie Európskeho parlamentu a Rady (EÚ) č. 1306/2013 vzhľadom na integrovaný administratívny a kontrolný systém, podmienky zamietnutia alebo odňatia platieb a administratívne sankcie uplatniteľné na priame platby, podporné nariadenia na rozvoj vidieka a krížové plnenie (Ú. v. EÚ L 181, 20. 6. 2014).
 
-- 14) Čl. 9 ods. 2 tretí pododsek písm. a) nariadenia (EÚ) č. 1307/2013 v platnom znení.
-
-- 15) Čl. 12 ods. 3 delegovaného nariadenia (EÚ) č. 639/2014.
-
-- 16) Čl. 12 ods. 4 delegovaného nariadenia (EÚ) č. 639/2014.
-
-- 17) Čl. 73 ods. 3 vykonávacieho nariadenia (EÚ) č. 809/2014.
+- 17) Čl. 73 ods. 3 vykonávacieho nariadenia Komisie (EÚ) č. 809/2014 zo 17. júla 2014, ktorým sa stanovujú pravidlá uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1306/2013 v súvislosti s integrovaným administratívnym a kontrolným systémom, opatreniami na rozvoj vidieka a krížovým plnením (Ú. v. EÚ L 227, 31. 7. 2014) v platnom znení.
 
 - 18) Čl. 37 ods. 1 druhý pododsek delegovaného nariadenia (EÚ) č. 640/2014.
 
 - 19) § 7 ods. 1 písm. aa) zákona č. 543/2007 Z. z. v znení zákona č. 115/2014 Z. z.
-
-- 20) Čl. 4 ods. 1 písm. h) nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
 - 21) Napríklad § 13 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov.
 
@@ -62,7 +56,7 @@
 
 - 32) Čl. 46 ods. 1 nariadenia (EÚ) č. 1307/2013 v platnom znení.
 
-- 33) Čl. 45 ods. 9 druhý pododsek delegovaného nariadenia (EÚ) č. 639/2014.
+- 33) Čl. 45 ods. 9 tretí pododsek delegovaného nariadenia (EÚ) č. 639/2014 v platnom znení.
 
 - 34) § 2 nariadenia vlády Slovenskej republiky č. 617/2004 Z. z., ktorým sa ustanovujú citlivé oblasti a zraniteľné oblasti.
 
@@ -75,6 +69,8 @@
 - 38) § 8 až 14 zákona č. 568/2009 Z. z. o celoživotnom vzdelávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2012 Z. z.
 
 - 39) Hlava II, kapitola II vykonávacieho nariadenia (EÚ) č. 809/2014.
+
+- 39a) Čl. 17 vykonávacieho nariadenia (EÚ) č. 809/2014 v platnom znení.
 
 - 40) Čl. 13 ods. 1 prvý pododsek delegovaného nariadenia (EÚ) č. 640/2014.
 

@@ -20,8 +20,10 @@ Príloha č. 5 k nariadeniu vlády č. 342/2014 Z. z.
 
 - Nárazníkové zóny | | 1,5
 
-- Plochy s rýchlorastúcimi drevinami | | 0,3
+- Plochy s rýchlorastúcimi drevinami | | 0,5
 
 - Plochy s medziplodinami alebo zelenou pokrývkou | | 0,3
 
-- Plochy s plodinami, ktoré viažu dusík | | 0,7
+- Plochy s plodinami, ktoré viažu dusík | | 1
+
+- Medze iné ako medze uvedené v prílohe č. 2 | | 1,5
