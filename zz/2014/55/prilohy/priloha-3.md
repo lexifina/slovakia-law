@@ -1,3 +1,1 @@
-Príloha č. 3 k výnosu č. 55/2014 Z. z.
-
-- Štandard pre elektronické formuláre [príloha](../assets/4cc3aae438956f140fa24c451d8a76450b18ceec86a526e5ccc01d7db26a0509.pdf)
+Príloha č. 3 k výnosu č. 55/2014 Z. z. [Príloha č. 3 k výnosu č. 55/2014 Z. z.](../assets/25231ab23a22826b538819785d6681e101a6cedc5e3e0fc22afb232a41517b7c.pdf)

@@ -1,3 +1,1 @@
-Príloha č. 5 k výnosu č. 55/2014 Z. z.
-
-- Technické podmienky tvorby formátu Comma Separated Values (CSV) [príloha 05](../assets/41b454769352b4453143975f9d03adcc2f8806abe017fb96417f14ef93665f98.pdf)
+Príloha č. 5 k výnosu č. 55/2014 Z. z. [Príloha č. 5 k výnosu č. 55/2014 Z. z.](../assets/76e9903f3993ca4866bdd870c6dfffc08d8db40531598d2122e742e74ba76997.pdf)

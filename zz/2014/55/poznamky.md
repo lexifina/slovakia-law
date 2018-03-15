@@ -8,6 +8,8 @@
 
 - 4a) RFC 2046: Formát Multipurpose Internet Mail Extensions (MIME). Časť 2: Typy médií, RFC 3629:UTF-8 transformácia UCS (univerzálnej znakovej sady), ISO/IEC 10646 - Informačné technológie. Univerzálna znaková sada (UCS).
 
+- 4aa) RFC 6838: Špecifikácie typov médií a registračné postupy z dôvodu zjednotenia používaných hodnôt.
+
 - 5) ISO/IEC 29500:2012 Formáty súborov Office Open XML.
 
 - 6) § 4 ods. 3 zákona č. 211/2000 Z. z.
@@ -26,13 +28,23 @@
 
 - 11a) § 31 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
-- 11b) ETSI TS 103 172 V2.2.2: Elektronické podpisy a infraštruktúry (ESI): Základný profil PadES.
+- 11ab) RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests.
 
-- 11c) ISO 19005-1:2005: Správa dokumentov. Formát súboru elektronického dokumentu pre dlhodobé uchovávanie. Časť 1: Používanie PDF 1.4 (PDF/A-1).
+- 11ac) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11d) § 3 ods. 5 vyhlášky Národného bezpečnostného úradu č. 136/2009 Z. z. o spôsobe a postupe používania elektronického podpisu v obchodnom styku a administratívnom styku.
+- 11b) Vykonávacie rozhodnutie Komisie (EÚ) 2015/1506 z 8. septembra 2015, ktorým sa ustanovujú špecifikácie týkajúce sa formátov zdokonalených elektronických podpisov a zdokonalených elektronických pečatí, ktoré môžu subjekty verejného sektora uznávať, podľa článkov 27 ods. 5 a 37 ods. 5 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách, pre elektronické transakcie na vnútornom trhu (Ú. v. EÚ L 235, 9. 9. 2015).
+
+- 11c) ISO 19005-1, ISO 19005-2.
+
+- 11ca) § 34 až § 39 zákona č. 305/2013 Z. z.
 
 - 11e) ETSI TS 102 918 Elektronické podpisy a infraštruktúry (ESI): Formát Associated Signature Containers (ASiC), ETSI TS 103 174 V2.2.1: Elektronické podpisy a infraštruktúry (ESI): Základný profil Associated Signature Containers (ASiC).
+
+- 11ea) ETSI TS 102 918 Elektronické podpisy a infraštruktúry (ESI): Formát Associated Signature Containers (ASiC), ETSI TS 103 174 V2.2.1: Elektronické podpisy a infraštruktúry (ESI): Základný profil Associated Signature Containers (ASiC).
+
+- 11eb) ETSI EN 319 162-1.
+
+- 11ec) § 11 ods. 1 písm. k) zákona č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
 - 11f) Zákon č. 305/2013 Z. z.
 

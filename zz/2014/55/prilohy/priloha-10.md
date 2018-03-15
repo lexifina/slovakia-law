@@ -1,3 +1,1 @@
-Príloha č. 10 k výnosu č. 55/2014 Z. z.
-
-- Techniky pre prístupné použitie Javaskriptu [príloha 10](../assets/eda8ce278574e000011f57ef1c86e16eff647daf04af8f14fe0872e4201e21fd.pdf)
+Príloha č. 10 k výnosu č. 55/2014 Z. z. [Príloha č. 10 k výnosu č. 55/2014 Z. z.](../assets/5db92e0ac05e79218e634a63834955517ee0003e5df9d8c6681f689be94fe6cc.pdf)

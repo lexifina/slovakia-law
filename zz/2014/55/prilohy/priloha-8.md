@@ -1,3 +1,3 @@
 Príloha č. 8 k výnosu č. 55/2014 Z. z.
 
-- Zoznam atribútov SAML Assertion [príloha 08](../assets/ed473ece84870b850b700a3ef651ea3a0d3fcf4979cc8b621f05b01639a93843.pdf)
+- Zoznam atribútov SAML Assertion [príloha 08](../assets/9da3b708570a47adf9a24e6ef5f56b3f92170ea1ce317ffcbccca802a62b865d.pdf)
