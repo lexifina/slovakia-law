@@ -18,13 +18,13 @@ Príloha č. 2 k nariadeniu vlády č. 36/2015 Z. z.
 
 - | Kaleráb | 80 000 | 240
 
-- Koreňová zelenina | Mrkva | 800 000 | 960
+- Koreňová zelenina | Mrkva | 600 000 | 960
 
-- | Petržlen | 800 000 | 960
+- | Petržlen | 400 000 | 960
 
 - | Reďkev | 1 000 000 | 7 000
 
-- | Cvikla | 300 000 | 3 900
+- | Cvikla | 200 000 | 3 900
 
 - | Špargľa | 20 000 | 400
 
@@ -34,9 +34,9 @@ Príloha č. 2 k nariadeniu vlády č. 36/2015 Z. z.
 
 - | Uhorky šalátové | 25 000 | 500
 
-- | Melón | 5 000 | 200
+- | Melón | 3 000 | 200
 
-- | Dyňa | 5 000 | 200
+- | Dyňa | 3 000 | 200
 
 - | Cuketa | 5 000 | 500
 
