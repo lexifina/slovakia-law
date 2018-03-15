@@ -32,6 +32,8 @@
 
 - 8b) § 27 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 8c) § 7 ods. 2 zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení zákona č. 402/2013 Z. z.
+
 - 9) Napríklad § 41 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z., § 31 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
 
 - 9a) § 63 zákona č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení zákona č. 144/2010 Z. z.
@@ -118,13 +120,13 @@
 
 - 18bf) § 26 až 30 Občianskeho zákonníka.
 
+- 18bfa) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
+
 - 18bg) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 18bh) Zákon č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov.
 
-- 18c) § 51 ods. 3 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z.
-
-- § 39 ods. 3 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
+- 18c) § 40 písm. i) a § 51 ods. 3 zákona č. 475/2005 Z. z. v znení zákona č. 370/2013 Z. z., § 30 ods. 2 písm. i) a § 39 ods. 3 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
 
 - 18d) Zákon Slovenskej národnej rady č. 372/1990 Zb. v znení neskorších predpisov.
 

@@ -10,8 +10,8 @@
 
 - d) ide o sťažnosť toho istého sťažovateľa v tej istej veci a ak v sťažnosti neuvádza nové skutočnosti,
 
-- e) je z nej zrejmé, že vo veci, ktorá je predmetom sťažnosti, koná súd, prokuratúra alebo iný orgán činný v trestnom konaní,
+- e) zistí, že vo veci, ktorá je predmetom sťažnosti, koná orgán činný v trestnom konaní alebo súd,
 
 - f) sťažovateľ sťažnosť pred jej vybavením písomne vezme späť.
 
-(2) Odloženie sťažnosti a dôvody jej odloženia podľa odseku 1 písm. a) až e) organizačná zložka zboru alebo ministerstvo sťažovateľovi písomne oznámi do desiatich pracovných dní od doručenia sťažnosti. Ďalšie sťažnosti podľa odseku 1 písm. d) sa neprešetrujú a založia sa k príslušnému spisovému materiálu.
+(2) Odloženie sťažnosti a dôvody jej odloženia podľa odseku 1 písm. a) až e) organizačná zložka zboru alebo ministerstvo sťažovateľovi písomne oznámi do desiatich pracovných dní od odloženia sťažnosti, v lehote podľa § 65dg. Ďalšie sťažnosti podľa odseku 1 písm. d) sa neprešetrujú a založia sa k príslušnému spisovému materiálu.

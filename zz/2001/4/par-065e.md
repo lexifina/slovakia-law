@@ -14,7 +14,9 @@
 
 - d) poruší zákaz používať označenie zboru a služobnú rovnošatu zboru podľa § 11a,
 
-- e) poruší zákaz zasielať v balíku adresovanému odsúdenému alebo obvinenému alkoholické nápoje, lieky, omamné látky, psychotropné látky, jedy, prekurzory, tlačoviny alebo predmety propagujúce národnostnú, rasovú, etnickú alebo náboženskú neznášanlivosť, fašizmus alebo iné hnutia smerujúce k potláčaniu práv a slobôd občanov, násilie, krutosť alebo ohrozujúce mravnosť, zbrane, strelivo a predmety, ktoré možno zneužiť na zmarenie účelu výkonu väzby, účelu výkonu trestu odňatia slobody alebo na ohrozenie bezpečnosti v objektoch ústavu podľa osobitného predpisu.<sup>18c</sup>)
+- e) zašle v korešpondencii alebo v balíku adresovanému odsúdenému alebo obvinenému alkoholické nápoje, lieky, omamné látky, psychotropné látky, jedy, prekurzory, tlačoviny alebo predmety propagujúce národnostnú, rasovú, etnickú alebo náboženskú neznášanlivosť, fašizmus alebo iné hnutia smerujúce k potláčaniu práv a slobôd občanov, násilie, krutosť alebo ohrozujúce mravnosť, zbrane, strelivo a predmety, ktoré možno zneužiť na zmarenie účelu výkonu väzby, účelu výkonu trestu odňatia slobody alebo na ohrozenie bezpečnosti v objektoch ústavu podľa osobitného predpisu,<sup>18c</sup>)
+
+- f) poruší zákaz činnosti lietadla spôsobilého lietať bez pilota podľa § 13c.
 
 (2) Za priestupky podľa odseku 1 možno uložiť pokutu od 33 eur do 331eur.
 
