@@ -702,6 +702,8 @@
 
 - 86i) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení zákona č. 35/2015 Z. z.
 
+- 86j) Zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
 - 87) Napríklad zákon č. 36/1967 Zb. o znalcoch a tlmočníkoch v znení zákona č. 238/2000 Z. z., zákon č. 466/2002 Z. z.
 
 - 87a) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
