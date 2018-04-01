@@ -1,12 +1,4 @@
-- 1) Príloha č. 2, tabuľka č. 1 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
-
-- 2) Príloha č. 1 časť A bod 39 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
 - 2a) § 6 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.
-
-- 2aa) § 11 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 2ab) § 15 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
 
 - 3) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov.
 
@@ -108,10 +100,6 @@
 
 - 18) Zákon č. 470/2005 Z. z. o pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 19) § 28 ods. 2 písm. b) zákona č. 541/2004 Z. z.
-
-- 20) § 2 zákona č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
-
 - 20a) § 140b ods. 4 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 540/2008 Z. z.
 
 - 21) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
@@ -204,6 +192,8 @@
 
 - § 40 ods. 22 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 34ha) § 51 zákona č. 87/2018 Z. z.
+
 - 34i) § 95 zákona č. 461/2003 Z. z.
 
 - 34j) § 8 ods. 1 písm. a) tretí bod zákona č. 124/2006 Z. z.
@@ -240,7 +230,11 @@
 
 - 40) Nariadenie vlády Slovenskej republiky č. 416/2005 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou vibráciám v znení nariadenia vlády Slovenskej republiky č. 629/2005 Z. z.
 
-- 41) Nariadenie vlády Slovenskej republiky č. 329/2006 Z. z.
+- 41) Nariadenie vlády Slovenskej republiky č. 209/2016 Z. z. o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred rizikami súvisiacimi s expozíciou elektromagnetickému poľu.
+
+- 41a) § 3 ods. 6 písm. c) nariadenia vlády Slovenskej republiky č. 209/2016 Z. z.
+
+- 41b) § 3 ods. 6 písm. b) nariadenia vlády Slovenskej republiky č. 209/2016 Z. z.
 
 - 42) Nariadenie vlády Slovenskej republiky č. 281/2006 Z. z.
 
@@ -296,34 +290,6 @@
 
 - 47o) Čl. 2 ods. 1 písm. d) nariadenia (ES) č. 1223/2009 v platnom znení.
 
-- 48) § 3 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 49) Príloha č. 7 tabuľka č.1 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 50) § 6 až 33, § 39 až 48 a § 49 ods. 3 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 51) § 35 až 38 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 52) § 3 až 14 a § 16 nariadenia vlády Slovenskej republiky č. 340/2006 Z. z. o ochrane zdravia osôb pred nepriaznivými účinkami ionizujúceho žiarenia pri lekárskom ožiarení.
-
-- 53) § 3 ods. 3, § 4 až 8 a § 9 ods. 5 nariadenia vlády Slovenskej republiky č. 348/2006 Z. z. o požiadavkách na zabezpečenie kontroly vysokoaktívnych žiaričov a opustených žiaričov.
-
-- 54) § 4 nariadenia vlády Slovenskej republiky č. 346/2006 Z. z. o požiadavkách na zabezpečenie radiačnej ochrany externých pracovníkov vystavených riziku ionizujúceho žiarenia počas ich činnosti v kontrolovanom pásme.
-
-- 55) Zákon č. 541/2004 Z. z. v znení neskorších predpisov.
-
-- 56) § 26 a 27 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 57) § 5 až 33, § 39 až 48 a § 49 ods. 3 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 58) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 59) § 6 až 20 a § 26 až 28 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
-- 60) § 3 nariadenia vlády Slovenskej republiky č. 346/2006 Z. z.
-
-- 61) § 35 ods. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z.
-
 - 61a) § 6 až 9 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 62) § 12 až 15 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
@@ -335,6 +301,8 @@
 - 64) § 3 ods. 6 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. v znení neskorších predpisov.
 
 - 65) Zákon č. 217/2003 Z. z. o podmienkach uvedenia biocídnych výrobkov na trh a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 65a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2283 z 25. novembra 2015 o nových potravinách, ktorým sa mení nariadenie Európskeho parlamentu a Rady (EÚ) č. 1169/2011, ktorým sa zrušuje nariadenie Európskeho parlamentu a Rady (ES) č. 258/97 a nariadenie Komisie (ES) č. 1852/2001 (Ú. v. EÚ L 327, 11. 12. 2015).
 
 - 66) § 26 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
@@ -359,5 +327,3 @@
 - 74) Zákon č. 312/2001 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
-
-- 1) Príloha č. 1 k zákonu č. 541/2004 Z. z. v znení neskorších predpisov.

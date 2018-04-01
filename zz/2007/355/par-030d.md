@@ -6,7 +6,7 @@
 
 - b) zabezpečiť podľa podmienok na pracovisku a zdravotného rizika pri práci ďalších zdravotníckych pracovníkov v tíme pracovnej zdravotnej služby podľa § 30a ods. 7, s ktorými má uzatvorený pracovnoprávny vzťah, obdobný pracovný vzťah alebo iný zmluvný vzťah,
 
-- c) mať povolenie na prevádzkovanie ambulancie<sup>34l</sup>) alebo zmluvu na prenájom ambulancie s poskytovateľom zdravotnej starostlivosti, ktorý má povolenie na prevádzkovanie ambulancie,
+- c) mať povolenie na prevádzkovanie ambulancie<sup>34l</sup>) alebo zmluvu na prenájom ambulancie s poskytovateľom zdravotnej starostlivosti, ktorý má povolenie na prevádzkovanie ambulancie, pri posúdení zdravotného rizika z expozície ionizujúcemu žiareniu spolupracuje s pracovnou zdravotnou službou aj expert na radiačnú ochranu,<sup>34ha</sup>)
 
 - d) vykonávať odborné činnosti podľa § 30ab a § 30ad podľa osobitných predpisov,
 

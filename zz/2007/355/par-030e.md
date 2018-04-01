@@ -24,8 +24,6 @@
 
   - 2. ak jej zdravotnú spôsobilosť na prácu vyžaduje osobitný predpis.<sup>35</sup>)
 
-- d) pracovníka so zdrojmi ionizujúceho žiarenia kategórie A.<sup>2</sup>)
-
 (2) Povinnosť zamestnanca podrobiť sa lekárskej preventívnej prehliadke vo vzťahu k práci na účel posudzovania zdravotnej spôsobilosti na prácu upravuje osobitný predpis.<sup>35a</sup>)
 
 (3) Ak ide o práce zaradené do tretej kategórie alebo štvrtej kategórie, lekárske preventívne prehliadky vo vzťahu k práci vykonávajú lekári pracovnej zdravotnej služby so špecializáciou v špecializačnom odbore pracovné lekárstvo, špecializačnom odbore klinické pracovné lekárstvo a klinická toxikológia alebo špecializačnom odbore služby zdravia pri práci.
@@ -56,7 +54,7 @@
 
 - a) jeden raz za dva roky u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do tretej kategórie,
 
-- b) jeden raz za rok u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do štvrtej kategórie, a u pracovníka so zdrojmi ionizujúceho žiarenia kategórie A.<sup>2</sup>)
+- b) jeden raz za rok u zamestnanca a fyzickej osoby – podnikateľa, ktorá nezamestnáva iné fyzické osoby, ak vykonávajú práce zaradené do štvrtej kategórie.<sup>2</sup>)
 
 (11) Lekárske preventívne prehliadky vo vzťahu k práci podľa odseku 9 písm. e) sa vykonávajú jeden raz za tri roky pri prácach s rizikovými faktormi s neskorými následkami na zdravie, ktoré sú zaradené do tretej kategórie alebo štvrtej kategórie.
 

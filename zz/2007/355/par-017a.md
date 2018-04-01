@@ -35,15 +35,3 @@
 - m) informovať dotknutých obyvateľov o zhoršení kvality pitnej vody, ktoré by mohlo ohroziť ich zdravie, a o opatreniach, ktoré musia vykonať,
 
 - n) sprístupniť verejnosti primerané výsledky manažmentu rizík pri zásobovaní pitnou vodou.
-
-(3) Dodávateľ pitnej vody v oblasti radiačnej ochrany je povinný
-
-- a) oznámiť bezodkladne úradu verejného zdravotníctva alebo regionálnemu úradu verejného zdravotníctva prekročenie medznej hodnoty rádiologického ukazovateľa kvality pitnej vody alebo indikačnej hodnoty rádiologického ukazovateľa kvality pitnej vody,
-
-- b) vykonať do šiestich mesiacov opakovaný odber vzorky pitnej vody, ak sa pri kontrole rádiologických ukazovateľov kvality pitnej vody zistilo prekročenie limitu ustanoveného indikačnou hodnotou všeobecne záväzným právnym predpisom vydaným podľa § 62 písm. aa),
-
-- c) zabezpečiť optimalizáciu radiačnej ochrany, ak pitná voda obsahuje viac rádionuklidov a súčet podielov objemových aktivít jednotlivých rádionuklidov a ich medzných hodnôt je väčší ako jeden alebo sú prekročené indikačné hodnoty rádiologických ukazovateľov kvality pitnej vody, a bezodkladne o výsledkoch optimalizácie informovať úrad verejného zdravotníctva alebo regionálny úrad verejného zdravotníctva a obyvateľov,
-
-- d) predkladať elektronicky výsledky monitorovania rádiologických ukazovateľov kvality pitnej vody za kalendárny rok úradu verejného zdravotníctva a regionálnemu úradu verejného zdravotníctva do konca februára nasledujúceho roka,
-
-- e) vykonať kontrolu rádiologických ukazovateľov kvality pitnej vody pri znížení rozsahu kontroly alebo početnosti kontroly rádiologických ukazovateľov kvality pitnej vody najmenej raz za päť rokov.

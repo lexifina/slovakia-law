@@ -23,11 +23,3 @@
 - b) návrh rozsahu kontroly alebo početnosti kontroly ukazovateľov kvality pitnej vody,
 
 - c) manažment rizík pri zásobovaní pitnou vodou podľa všeobecne záväzného právneho predpisu vydaného podľa § 62 písm. aa).
-
-(3) Žiadosť o výnimku na zníženie rozsahu kontroly alebo početnosti kontroly rádiologických ukazovateľov kvality pitnej vody obsahuje
-
-- a) údaje podľa odseku 1 písm. a),
-
-- b) návrh rozsahu kontroly alebo početnosti kontroly rádiologických ukazovateľov kvality pitnej vody a jeho odôvodnenie,
-
-- c) výsledky najmenej štyroch stanovení celkovej objemovej aktivity alfa, celkovej objemovej aktivity beta, objemovej aktivity <sup>222</sup>Rn alebo ďalších rádionuklidov v priebehu troch po sebe nasledujúcich rokov pred podaním žiadosti tak, aby najmenej štyri odbery vzoriek pitnej vody boli vykonané s odstupom najmenej troch mesiacov a jednotlivé odbery vzorky pitnej vody boli vykonané v inom ročnom období.
