@@ -130,6 +130,10 @@
 
 - 13ab) § 16 ods. 7 nariadenia vlády Slovenskej republiky č. 193/2009 Z. z. v znení nariadenia vlády Slovenskej republiky č. 416/2009 Z. z.
 
+- 13ac) § 2 písm. f) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- 13ad) § 23 zákona č. 56/2018 Z. z.
+
 - 13b) Napríklad zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov, zákon č. 65/2001 Z. z. o správe a vymáhaní súdnych pohľadávok v znení neskorších predpisov, zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 14) § 7 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní.
@@ -184,9 +188,13 @@
 
 - 23f) Časť 8 kapitola 8.2 bod 8.2.1.2 a kapitola 8.6 bod 8.6.2 Európskej dohody o medzinárodnej preprave nebezpečného tovaru po vnútrozemských vodných cestách (ADN) (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 331/2010 Z. z.) v platnom znení.
 
-- 23g) Zákon č. 579/2004 Z. z. o záchrannej zdravotnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 23g) § 26 písm. c) a § 27 zákona č. 56/2018 Z. z.
 
-- 23h) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, zákon č. 129/2002 Z. z. o integrovanom záchrannom systéme v znení neskorších predpisov, zákon č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov, zákon č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 39/2007 Z. z. o veterinárnej starostlivosti v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 479/2009 Z. z. o orgánoch štátnej správy v oblasti daní a poplatkov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 333/2011 Z. z. o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva v znení neskorších predpisov.
+- 23h) Nariadenie vlády Slovenskej republiky č. 77/2016 Z. z. o sprístupňovaní rekreačných plavidiel a vodných skútrov na trhu.
+
+- 23i) Zákon č. 56/2018 Z. z.
+
+- Nariadenie vlády Slovenskej republiky č. 77/2016 Z. z.
 
 - 24) Nariadenie Komisie (ES) č. 416/2007 z 22. marca 2007 týkajúce sa technických špecifikácií plavebných správ pre veliteľov lodí, na ktoré odkazuje článok 5 smernice Európskeho parlamentu a Rady 2005/44/ES o harmonizovaných riečnych informačných službách (RIS) na vnútrozemských vodných cestách v rámci Spoločenstva (Ú. v. EÚ L 105, 23. 4. 2007).
 
