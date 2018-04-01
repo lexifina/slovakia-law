@@ -48,6 +48,8 @@
 
 - § 27 zákona č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení zákona č. 422/2002 Z. z.
 
+- 18a) § 5 ods. 2 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
 - 19) § 88b Trestného poriadku.
 
 - 20) Napríklad § 88, 88a, 88c a 88d Trestného poriadku, § 10 zákona č. 46/1993 Z. z., § 39 č. 171/1993 Z. z., § 10 č.198/1994 Z. z., § 37 zákona č. 57/1998 Z. z., § 26 zákona č. 4/2001 Z. z., § 25 zákona č. 240/2001 Z. z.
@@ -63,6 +65,8 @@
 - 22) Napríklad zákon č. 264/1999 Z. z., zákon č. 90/1998 Z. z. o stavebných výrobkoch v znení neskorších predpisov.
 
 - 23) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z., zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z., zákon č. 256/1998 Z. z.
+
+- 23a) § 11 ods. 1 zákona č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
 - 24) § 4 ods. 4 zákona Národnej rady Slovenskej republiky č. 215/1995 Z. z. o geodézii a kartografii.
 
