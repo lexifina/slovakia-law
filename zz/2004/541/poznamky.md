@@ -82,7 +82,7 @@
 
 - 20b) Rozhodnutie Komisie 2008/312/Euratom z 5. marca 2008, ktorým sa ustanovuje štandardný dokument o dozore a kontrole pri preprave rádioaktívneho odpadu a vyhoretého jadrového paliva, ako uvádza smernica Rady 2006/117/Euratom (Ú. v. EÚ L 107, 17. 4. 2008).
 
-- 20c) § 5 ods. 5 zákona č. 355/2007 Z. z.
+- 20c) § 28 ods. 7 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 20d) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

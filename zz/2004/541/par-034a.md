@@ -8,7 +8,7 @@
 
 (4) Ročný príspevok za uvádzanie jadrového zariadenia do prevádzky a prevádzku jadrového zariadenia [§ 5 ods. 3 písm. b) a c)] podľa druhu jadrového zariadenia je
 
-- a) 766,76 eura za každý MWt nominálneho inštalovaného tepelného výkonu ustanoveného k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) prvého bodu; ak došlo k trvalému zníženiu nominálneho inštalovaného tepelného výkonu na nulovú úroveň a tento stav trvá k 1. januáru predchádzajúceho roka, nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon pred jeho trvalým znížením na nulovú úroveň,
+- a) 766,76 eura za každý MWt nominálneho inštalovaného tepelného výkonu ustanoveného k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) prvého bodu, to neplatí pre jadrové zariadenie v období od právoplatnosti rozhodnutia o uvádzaní jadrového zariadenia do prevádzky do právoplatnosti súhlasu na skúšobnú prevádzku jadrového zariadenia, keď platí 1,5 násobok tejto sumy; ak došlo k trvalému zníženiu nominálneho inštalovaného tepelného výkonu na nulovú úroveň a tento stav trvá k 1. januáru predchádzajúceho roka, nominálnym inštalovaným tepelným výkonom sa rozumie najvyšší projektovaný výkon pred jeho trvalým znížením na nulovú úroveň,
 
 - b) 36,51 eura za každý palivový článok skladovaný ku koncu predchádzajúceho roka pre jadrové zariadenie podľa § 2 písm. f) tretieho bodu,
 
@@ -16,7 +16,7 @@
 
 - d) 91,28 eura za každý vláknobetónový kontajner uložený v priebehu predchádzajúceho roka v jadrovom zariadení podľa § 2 písm. f) štvrtého bodu,
 
-- e) 6,22 eura za každý TBq maximálnej projektovej aktivity skladovaných rádioaktívnych odpadov ustanovenej k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) štvrtého bodu.
+- e) 6,22 eura za každých sto TBq maximálnej projektovej aktivity skladovaných rádioaktívnych odpadov ustanovenej k 1. januáru predchádzajúceho roka, pre jadrové zariadenie podľa § 2 písm. f) štvrtého bodu.
 
 (5) Ročný príspevok za stavbu jadrového zariadenia [§ 5 ods. 3 písm. a)] podľa druhu jadrového zariadenia je
 

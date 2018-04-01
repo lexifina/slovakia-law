@@ -4,7 +4,7 @@
 
 - a) rádioaktívnych odpadov z jadrových zariadení, prepravu vyhoretého jadrového paliva a pre prepravu inštitucionálnych rádioaktívnych odpadov z miesta úpravy na úložisko je úrad,
 
-- b) inštitucionálnych rádioaktívnych odpadov okrem prepravy inštitucionálnych rádioaktívnych odpadov podľa písmena a) je Úrad verejného zdravotníctva Slovenskej republiky.<sup>20c</sup>)
+- b) inštitucionálnych rádioaktívnych odpadov okrem prepravy inštitucionálnych rádioaktívnych odpadov podľa písmena a) je ministerstvo dopravy a výstavby.<sup>20c</sup>)
 
 (2) Dozorný orgán postupom primerane podľa § 16h zabezpečí bezpečné vrátenie do krajiny pôvodu, ak
 
