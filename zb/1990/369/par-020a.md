@@ -22,8 +22,10 @@
 
 - a) určenie sídla spoločného obecného úradu; ak spoločný obecný úrad zabezpečuje prenesený výkon štátnej správy pre obec, ktorá ho uskutočňuje podľa osobitného predpisu aj pre iné obce, je jeho sídlom táto obec,
 
-- b) určenie počtu zamestnancov, spôsobu financovania jeho nákladov a jeho organizáciu,
+- b) spôsob financovania jeho nákladov a jeho organizáciu,
 
 - c) určenie starostu, ktorý bude štatutárnym orgánom v majetkovoprávnych veciach týkajúcich sa spoločného obecného úradu a v pracovnoprávnych veciach týkajúcich sa zamestnancov v spoločnom obecnom úrade.
 
 (4) Na platnosť zmluvy je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov každej obce, ktorá je účastníkom zmluvy. Za záväzky vzniknuté voči tretím osobám zo zmluvy uzavretej na účel uskutočnenia konkrétnej úlohy alebo činnosti účastníci zmluvy zodpovedajú spoločne a nerozdielne, ak zmluva neustanovuje inak.
+
+(5) Obec, ktorá je sídlom spoločného obecného úradu, predkladá správu o činnosti a hospodárení spoločného obecného úradu ministerstvu do 31. marca za dva predchádzajúce kalendárne roky; obsah správy určí ministerstvo v súčinnosti s Ministerstvom financií Slovenskej republiky a zverejní na svojom webovom sídle.

@@ -16,7 +16,7 @@
 
 - g) zmenou trvalého pobytu mimo územia obce; v mestách so samosprávou mestských častí aj v prípade zmeny trvalého pobytu mimo územia mestskej časti, v ktorej vykonáva funkciu,
 
-- h) v prípadoch podľa § 13 ods. 3, ak starosta do 30 dní odo dňa vzniku nezlučiteľnosti funkcie neurobí relevantný úkon na odstránenie tohto rozporu,
+- h) v prípadoch podľa § 13 ods. 3, ak starosta do 30 dní odo dňa vzniku nezlučiteľnosti funkcií nevykoná právny úkon na odstránenie nezlučiteľnosti funkcií,
 
 - i) smrťou,
 
@@ -26,14 +26,8 @@
 
 (3) Obecné zastupiteľstvo
 
-- a) vyhlási miestne referendum o odvolaní starostu, ak
-
-  - 1. o to petíciou požiada aspoň 30 % oprávnených voličov,<sup>12</sup>)
-
-  - 2. hrubo alebo opakovane zanedbáva povinnosti starostu, porušuje Ústavu Slovenskej republiky, ústavné zákony, zákony a ostatné všeobecne záväzné právne predpisy,
+- a) vyhlási miestne referendum o odvolaní starostu, ak to petíciou požaduje aspoň 30 % oprávnených voličov,<sup>12</sup>)
 
 - b) môže vyhlásiť miestne referendum o odvolaní starostu, ak neprítomnosť alebo nespôsobilosť starostu na výkon funkcie trvá dlhšie ako šesť mesiacov.
 
-(4) O návrhu podľa odseku 3 písm. a) druhého bodu rozhoduje obecné zastupiteľstvo nadpolovičnou väčšinou hlasov všetkých poslancov.
-
-(5) Starosta je povinný skutočnosti podľa odseku 1 písm. d), g) a h) bezodkladne písomne oznámiť obci.
+(4) Starosta je povinný skutočnosti podľa odseku 1 písm. d), g) a h) bezodkladne písomne oznámiť obci.
