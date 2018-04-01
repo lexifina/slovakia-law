@@ -6,7 +6,7 @@
 
 - b) neudržuje čistotu a poriadok na užívanom pozemku alebo na inej nehnuteľnosti, a tým naruší vzhľad alebo prostredie obce, alebo ak znečistí verejné priestranstvo alebo odkladá veci mimo vyhradených miest,
 
-- c) nesplní v určenej lehote bez vážneho dôvodu povinnosť uloženú starostom poskytnúť osobnú pomoc alebo vecnú pomoc pri odstraňovaní následkov živelnej pohromy alebo inej mimoriadnej udalosti,
+- c) poruší povinnosť podľa § 2b ods. 6,
 
 - d) poruší povinnosť podľa § 2c ods. 3,
 

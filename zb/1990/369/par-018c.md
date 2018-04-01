@@ -1,6 +1,6 @@
 # § 18c Plat hlavného kontrolóra
 
-(1) Plat hlavného kontrolóra je súčinom priemernej mesačnej mzdy zamestnanca v národnom hospodárstve, vyčíslenej na základe údajov Štatistického úradu Slovenskej republiky za predchádzajúci kalendárny rok, a koeficientu podľa počtu obyvateľov obce, ktorý je v obciach
+(1) Plat hlavného kontrolóra je súčin priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky za predchádzajúci kalendárny rok a koeficientu podľa počtu obyvateľov obce k 31. decembru predchádzajúceho kalendárneho roka podľa údajov Štatistického úradu Slovenskej republiky, ktorý je v obci
 
 a) | | do | 500 obyvateľov | 1,15
 

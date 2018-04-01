@@ -4,7 +4,7 @@
 
 (2) Vznik združenia obcí ako právnickej osoby, jeho názov a sídlo oznámi okresný úrad v sídle kraja do 7 dní od registrácie Štatistickému úradu Slovenskej republiky; to platí aj pre vznik združenia obcí podľa § 20d ods. 3 a 4.
 
-(3) Na konanie o registrácii sa vzťahuje všeobecný predpis o správnom konaní,<sup>15</sup>) ak tento zákon neustanovuje inak.
+(3) Na konanie o registrácii sa vzťahuje správny poriadok, ak tento zákon neustanovuje inak.
 
 (4) Okresný úrad v sídle kraja vedie register združení obcí. Register združení obcí je verejný zoznam, do ktorého sa zapisujú
 
