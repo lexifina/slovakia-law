@@ -100,6 +100,62 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 20. V § 19a ods. 8 sa vypúšťa prvá veta.
 
+- 21. V § 19a sa za odsek 10 vkladá nový odsek 11, ktorý znie:
+
+- „(11)
+
+- Žiadateľ o vydanie povolenia na obchodovanie s tabakovou surovinou a osoba, ktorej colný úrad vydal povolenie na obchodovanie s tabakovou surovinou, musí spĺňať tieto podmienky:
+
+- a)
+
+- vedie účtovníctvo podľa osobitného predpisu,<sup>8</sup>)
+
+- b)
+
+- nemá nedoplatky voči colnému úradu ani daňovému úradu,
+
+- c)
+
+- nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>7</sup>)
+
+- d)
+
+- vykazuje na základe súvahy z riadnej účtovnej závierky kladný rozdiel medzi majetkom a záväzkami<sup>8</sup>) za dve predchádzajúce účtovné obdobia,
+
+- e)
+
+- nebol právoplatne odsúdený za úmyselný trestný čin hospodársky alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzické osoby, ktoré sú členmi riadiacich orgánov alebo členmi kontrolných orgánov žiadateľa,
+
+- f)
+
+- nie je v likvidácii, nie je na neho právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.“.
+
+  - Doterajšie odseky 11 až 19 sa označujú ako odseky 12 až 20.
+
+- 22. V § 19a ods. 12 sa za slová „odsekov 9 a 10“ vkladajú slová „a splnenie podmienok podľa odseku 11“ a za slová „údaje pravdivé“ sa vkladajú slová „a žiadateľ spĺňa podmienky podľa odseku 11“.
+
+- 23. V § 19a ods. 14 sa slová „odseku 12“ nahrádzajú slovami „odseku 13“.
+
+- 24. V § 19a sa odsek 16 dopĺňa písmenom d), ktoré znie:
+
+- „d)
+
+- prestal spĺňať niektorú z podmienok uvedených v odseku 11.“.
+
+- 25. § 19a sa dopĺňa odsekom 21, ktorý znie:
+
+- „(21)
+
+- Od dane z tabakovej suroviny je oslobodená tabaková surovina
+
+- a)
+
+- odobratá ako vzorka na účely daňového dozoru alebo na účely inej úradnej kontroly, úradnej skúšky alebo úradného zisťovania v technologicky odôvodnenom množstve alebo
+
+- b)
+
+- zničená colným úradom alebo pod jeho dozorom, a to aj ak sa vlastníkom tabakovej suroviny stal štát podľa osobitného predpisu.<sup>3</sup>)“.
+
 - 26. V § 19aa ods. 8 sa vypúšťa prvá veta.
 
 - 27. V § 19aa ods. 12 druhej vete sa za slová „colný úrad“ vkladajú slová „ho zaradí do evidencie držiteľov povolenia na prijatie a dovoz bezdymového tabakového výrobku,“.
@@ -182,6 +238,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - Colný úrad môže prostredníctvom elektronického systému uložiť príjemcovi (odberateľovi) tabakových výrobkov po začatí prepravy tabakových výrobkov v pozastavení dane povinnosť bezodkladne po prijatí tabakových výrobkov na mieste určenia oznámiť prijatie tabakových výrobkov prostredníctvom elektronického systému colnému úradu a počas dvoch hodín od zaslania oznámenia o tejto skutočnosti prostredníctvom elektronického systému tabakové výrobky nevyložiť, alebo s týmito tabakovými výrobkami nenakladať.“.
 
+- 36. V § 23 ods. 5 sa za slovo „mesiacov“ vkladá čiarka a slová „najmenej však vo výške 5 000 eur, a to“.
+
 - 37. V § 23 odsek 9 znie:
 
 - „(9)
@@ -195,6 +253,12 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 - b)
 
 - zvýšiť zloženú zábezpeku na daň o sumu, o ktorú neuhradená daň prevyšuje zloženú zábezpeku na daň.“.
+
+- 38. V § 23 odsek 11 znie:
+
+- „(11)
+
+- Oprávnený príjemca, ktorý prijíma tabakové výrobky z iného členského štátu v pozastavení dane opakovane, môže požiadať colný úrad alebo s písomným súhlasom colného úradu banku, ktorá vystavila bankovú záruku, o zníženie zloženej zábezpeky na daň, ak zložená zábezpeka na daň prevyšuje o viac ako 20 % daň, ktorá pripadá na množstvo tabakových výrobkov uvedených do daňového voľného obehu za šesť po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o zníženie zloženej zábezpeky na daň, za predpokladu, že tento stav trvá aj v čase posudzovania žiadosti o zníženie zábezpeky na daň a ak žiadateľ spĺňa podmienky daňovej spoľahlivosti podľa § 20 ods. 13 písm. c) a d) počas najmenej 24 po sebe nasledujúcich kalendárnych mesiacov pred podaním žiadosti o zníženie zloženej zábezpeky na daň. Colný úrad do 30 dní odo dňa podania žiadosti o zníženie zloženej zábezpeky na daň vráti sumu vypočítanú ako rozdiel medzi výškou zloženej zábezpeky na daň a priemerom výšky dane pripadajúcej na množstvo tabakových výrobkov uvedených do daňového voľného obehu za šesť po sebe nasledujúcich kalendárnych mesiacov, najviac však do výšky minimálnej zábezpeky na daň podľa odseku 5.“.
 
 - 39. V § 23 ods. 14 písmeno d) znie:
 
