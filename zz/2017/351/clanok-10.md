@@ -80,9 +80,19 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 11. V § 119 ods. 17 sa na konci pripája táto veta: „Na takéto predpisovanie humánnych liekov, zdravotníckych pomôcok alebo dietetických potravín sa nevzťahuje povinnosť vytvoriť preskripčný záznam; takto vystavený lekársky predpis alebo lekársky poukaz neobsahuje identifikátor preskripčného záznamu podľa § 120 ods. 1 písm. v).“.
 
+- 12. V § 119 odsek 19 znie:
+
+- „(19)
+
+- Ak pacient predpísaný humánny liek pravidelne užíva, je predpisujúci lekár oprávnený predpísať humánny liek na lekársky predpis s poznámkou „REPETETUR“. Súčasne je povinný vytvoriť preskripčný záznam podpísaný elektronickým podpisom v elektronickej zdravotnej knižke. Doba platnosti lekárskeho predpisu s poznámkou „REPETETUR“ je najviac jeden rok. Ak predpisujúci lekár predpíše humánny liek na lekársky predpis s poznámkou „REPETETUR“, je povinný na takomto lekárskom predpise vyznačiť dobu platnosti tohto lekárskeho predpisu a uviesť povolený počet opakovaného výdaja a počet balení humánneho lieku, ktoré je možné vydať na jeden výdaj; zároveň je oprávnený uviesť frekvenciu výberu humánneho lieku s prihliadnutím na veľkosť dávky predpísaného humánneho lieku. Takýto preskripčný záznam je predpisujúci lekár povinný stornovať z dôvodu opravy chýb na lekárskom predpise s poznámkou „REPETETUR“ alebo preskripčnom zázname a z dôvodu zmeny zdravotného stavu pacienta v rozsahu nevydaných balení humánneho lieku. Lekársky predpis s poznámkou „REPETETUR“ musí obsahovať identifikátor preskripčného záznamu a nesmie sa predpisovať ručne.“.
+
 - 13. § 119 sa dopĺňa odsekmi 20 a 21, ktoré znejú:
 
-- „(21)
+- „(20)
+
+- Humánny liek, ktorého úhrada podlieha schváleniu zdravotnou poisťovňou pacienta, je predpisujúci lekár oprávnený predpísať najviac na dobu platnosti súhlasu zdravotnej poisťovne. Humánny liek predpísaný všeobecným lekárom na základe odporúčania odborného lekára je predpisujúci lekár oprávnený predpísať najviac na dobu platnosti tohto odporúčania.
+
+- (21)
 
 - Veterinárny lekár je oprávnený predpisovať na veterinárny lekársky predpis humánny liek, ak je potrebný na podanie zvieraťu podľa § 106 ods. 1 písm. b).“.
 
@@ -160,9 +170,19 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - „e)
 
-- je povinná vydať humánny liek, zdravotnícku pomôcku alebo dietetickú potravinu na základe preskripčného záznamu, ak bol humánny liek, zdravotnícka pomôcka alebo dietetická potravina predpísaná elektronicky vytvorením preskripčného záznamu,“.
+- je povinná vydať humánny liek, zdravotnícku pomôcku alebo dietetickú potravinu na základe preskripčného záznamu, ak bol humánny liek, zdravotnícka pomôcka alebo dietetická potravina predpísaná elektronicky vytvorením preskripčného záznamu,
+
+- f)
+
+- humánneho lieku na základe lekárskeho predpisu s poznámkou „REPETETUR“, je povinná zaznamenať v dispenzačnom zázname počet balení vydaného humánneho lieku.“.
 
 - 22. V § 121 ods. 8 sa slovo „oprávnená“ nahrádza slovom „povinná“.
+
+- 23. § 121 sa dopĺňa odsekom 10, ktorý znie:
+
+- „(10)
+
+- Držiteľovi povolenia na poskytovanie lekárenskej starostlivosti sa zakazuje podmieňovať výdaj humánneho lieku predpísaného na lekárskom predpise s poznámkou „REPETETUR“ ďalším výdajom takto predpísaného humánneho lieku u toho istého poskytovateľa lekárenskej starostlivosti.“.
 
 - 24. V § 121a odsek 2 znie:
 
@@ -202,7 +222,39 @@ Zákon č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a dop
 
 - 33. V § 138 ods. 5 písm. bq) sa za slová „lekárskeho predpisu“ vkladá čiarka a slová „preskripčného záznamu alebo lekárskeho veterinárneho predpisu“.
 
+- 34. V § 138 sa odsek 5 dopĺňa písmenami br) a bs), ktoré znejú:
+
+- „br)
+
+- nezaznamená v dispenzačnom zázname počet balení vydaného humánneho lieku predpísaného na lekársky predpis s poznámkou „REPETETUR“,
+
+- bs)
+
+- nestornuje dispenzačný záznam z dôvodu opravy chýb pri výdaji humánneho lieku, zdravotníckej pomôcky alebo dietetickej potraviny.“.
+
 - 35. V § 138 ods. 21 písm. a) sa slová „na objednávky a zdravotnícke pomôcky“ nahrádzajú slovami „na objednávky, zdravotnícke pomôcky“ a na konci sa pripájajú tieto slová: „alebo v rozpore s dohodou s pacientom nepredpisuje humánne lieky, zdravotnícke pomôcky alebo dietetické potraviny vytvorením preskripčného záznamu.“.
+
+- 36. V § 138 sa odsek 21 dopĺňa písmenami aa) až ae), ktoré znejú:
+
+- „aa)
+
+- nestornuje preskripčný záznam z dôvodu opravy v zázname alebo na lekárskom predpise; ak ide o lekársky predpis s poznámkou „REPETETUR“, aj z dôvodu zmeny zdravotného stavu pacienta,
+
+- ab)
+
+- neinformuje pacienta o možnosti predpísania humánneho lieku, zdravotníckej pomôcky alebo dietetickej potraviny elektronicky vytvorením preskripčného záznamu a o možnosti jeho výdaja na základe preskripčného záznamu,
+
+- ac)
+
+- predpíše humánny liek na lekársky predpis s poznámkou „REPETETUR“, ak humánny liek pacientovi predpisuje prvýkrát,
+
+- ad)
+
+- nevyznačí dobu platnosti lekárskeho predpisu s poznámkou „REPETETUR“ a neuvedie počet opakovaného výdaja a celkový počet balení humánneho lieku, ktorý je možné vydať,
+
+- ae)
+
+- predpíše na lekársky predpis s poznámkou „REPETETUR“ humánny liek bez platného súhlasu zdravotnej poisťovne alebo bez platného odporúčania odborného lekára.“.
 
 - 37. V § 138 sa odsek 22 dopĺňa písmenom h), ktoré znie:
 
