@@ -134,6 +134,8 @@
 
 - 20e) Položka 1.3.13 prílohy č. 1 k vyhláške č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
 
+- 20f) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
+
 - 21) Napríklad zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 142/2000 Z. z. v znení neskorších predpisov, nariadenie vlády Slovenskej republiky č. 294/2005 Z. z. o meradlách.
 
 - 22) Napríklad STN EN 1442+A1 Zariadenie a príslušenstvo na LPG. Plniteľné zvárané oceľové fľaše na prepravu skvapalneného uhľovodíkového plynu (LPG). Návrh a konštrukcia (Konsolidovaný text) (078518).
@@ -155,6 +157,8 @@
 - 30) Nariadenie Rady (EÚ) č. 389/2012 z 2. mája 2012 o administratívnej spolupráci v oblasti spotrebných daní a zrušení nariadenia (ES) č. 2073/2004 (Ú. v. L 121, 8. 5. 2012).
 
 - 30a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
+
+- 30aa) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 30b) § 67 zákona č. 563/2009 Z. z. v znení zákona č. 331/2011 Z. z.
 
