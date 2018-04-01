@@ -56,15 +56,11 @@
 
 - 19) § 21 ods. 9 zákona č. 541/2004 Z. z.
 
-- 19a) § 3 ods. 2 nariadenia vlády Slovenskej republiky č. 348/2006 Z. z. o požiadavkách na zabezpečenie kontroly vysokoaktívnych žiaričov a opustených žiaričov.
-
 - 19b) § 3 ods. 4 nariadenia vlády Slovenskej republiky č. 348/2006 Z. z.
 
-- 19c) § 45 ods. 3 písm. f) zákona č. 355/2007 Z. z.
+- 19c) § 30 ods. 8 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
-- 19d) Príloha č. 2 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
-
-- 19e) § 2 písm. i) nariadenia vlády Slovenskej republiky č. 348/2006 Z. z.
+- 19e) § 28 ods. 1 písm. c) zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 19f) Nariadenie vlády Slovenskej republiky č. 426/2010 Z. z., ktorým sa ustanovujú podrobnosti o výške odvodu z dodanej elektriny koncovým odberateľom a spôsobe jeho výberu pre Národný jadrový fond na vyraďovanie jadrových zariadení a na nakladanie s vyhoretým jadrovým palivom a rádioaktívnymi odpadmi.
 
