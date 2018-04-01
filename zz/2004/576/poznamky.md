@@ -20,15 +20,19 @@
 
 - 4ac) § 6b zákona č. 578/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
-- 5) § 27 Občianskeho zákonníka.
+- 5) § 365 a 367 Civilného mimosporového poriadku.
 
-- Zákon č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
+- § 37 ods. 3 a § 54 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení zákona č. 175/2015 Z. z.
 
-- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
+- Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5a) § 3 a 4 zákona č. 317/2016 Z. z. o požiadavkách a postupoch pri odbere a transplantácii ľudského orgánu, ľudského tkaniva a ľudských buniek a o zmene a doplnení niektorých zákonov (transplantačný zákon).
 
 - 6) § 72 Trestného zákona.
+
+- § 365 a 367 Civilného mimosporového poriadku.
+
+- § 37 ods. 2 a 3 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
 - 6a) § 13 ods. 5 zákona Národnej rady Slovenskej republiky č. 154/1994 Z. z. v znení neskorších predpisov.
 
@@ -192,6 +196,14 @@
 
 - 40) § 15 ods. 12 zákona č. 140/1998 Z. z.
 
+- 40a) § 110 ods. 1 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
+
+- 40b) § 9a ods. 2 zákona č. 578/2004 Z. z. v znení zákona č. 87/2018 Z. z.
+
+- 40c) § 32 ods. 4 písm. a) bod 7 zákona č. 87/2018 Z. z.
+
+- 40d) § 9a ods. 6 a 7 zákona č. 578/2004 Z. z. v znení zákona č. 87/2018 Z. z.
+
 - 41) § 8 Občianskeho zákonníka.
 
 - 41a) § 3 zákona č. 579/2004 Z. z. v znení neskorších predpisov.
@@ -207,6 +219,16 @@
 - 45) § 5 zákona č. 317/2016 Z. z.
 
 - 46) Zákon č. 131/2010 Z. z.
+
+- 46a) § 2 a príloha č. 2 zákona č. 577/2004 Z. z. v znení neskorších predpisov.
+
+- 46b) § 109 zákona č. 87/2018 Z. z.
+
+- 47) § 63 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností.
+
+- 47a) § 109 zákona č. 87/2018 Z. z.
+
+- 47b) § 111 zákona č. 87/2018 Z. z.
 
 - 48) Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
 
