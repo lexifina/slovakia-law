@@ -62,9 +62,9 @@
 
 - w) ktorého vyslal zamestnávateľ so sídlom v členskom štáte Európskej únie v rámci poskytovania služieb zabezpečovaných týmto zamestnávateľom,
 
-- x) ktorý je spoločník obchodnej spoločnosti, štatutárny orgán obchodnej spoločnosti alebo člen štatutárneho orgánu obchodnej spoločnosti, ktorý plní úlohy pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc,<sup>28b</sup>) vykonávaním činností, a to počas obdobia, na ktoré bolo vydané rozhodnutie o schválení investičnej pomoci,
+- x) ktorý je spoločník obchodnej spoločnosti, štatutárny orgán obchodnej spoločnosti alebo člen štatutárneho orgánu obchodnej spoločnosti, ktorý plní úlohy pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc,<sup>28b</sup>) vykonávaním činností, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
 
-- y) ktorý pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc, zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení, programátorské práce alebo odborné školenia, a to počas obdobia, na ktoré bolo vydané rozhodnutie o schválení investičnej pomoci,
+- y) ktorý pre obchodnú spoločnosť, ktorej bola poskytnutá investičná pomoc, zabezpečuje na základe obchodnej zmluvy dodávky tovaru alebo služieb a tento tovar dodáva alebo uskutočňuje montáž, záručné a opravárenské práce, práce týkajúce sa nastavenia systémov výrobných zariadení, programátorské práce alebo odborné školenia, a to počas obdobia, na ktoré bolo vydané rozhodnutie o poskytnutí investičnej pomoci,
 
 - z) ktorý je zamestnaný v medzinárodnej hromadnej doprave, ak je na výkon práce vyslaný svojím zahraničným zamestnávateľom,
 
@@ -92,6 +92,6 @@
 
 - ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>) od zamestnávateľa v členskom štáte Európskej únie v rámci vnútropodnikového presunu,
 
-- ai) ktorý pre centrum strategických služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom strategických služieb nepresiahne celkovo 90 dní v kalendárnom roku.
+- ai) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku.
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.

@@ -150,7 +150,7 @@
 
 - Zákon č. 184/2009 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 28b) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 28b) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
 - 28c) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 219/2013 Z. z.
 
@@ -164,7 +164,7 @@
 
 - 28h) § 2 ods. 1 písm. f) zákona č. 404/2011 Z. z. v znení zákona č. 82/2017 Z. z.
 
-- 28i) § 3 písm. g) zákona č. 561/2007 Z. z. v znení neskorších predpisov.
+- 28i) § 5 písm. c) zákona č. 57/2018 Z. z.
 
 - 29) Zákon č. 480/2002 Z. z. v znení neskorších predpisov.
 
@@ -236,13 +236,11 @@
 
 - 58) Nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352, 24. 12. 2013).
 
-- 59aba) Nariadenie (EÚ) č. 651/2014.
+- 59aba) Zákon č. 57/2018 Z. z.
 
-- Zákon č. 561/2007 Z. z. v znení neskorších predpisov.
+- 59abb) § 22 ods. 17 písm. a) zákona č. 57/2018 Z. z.
 
-- 59abb) § 5 a 6 zákona č. 561/2007 Z. z. v znení zákona č. 231/2011 Z. z.
-
-- 59ac) § 2 ods. 2 zákona č. 561/2007 Z. z.
+- 59ac) § 12 zákona č. 57/2018 Z. z.
 
 - 59ad) Príloha I nariadenia (EÚ) č. 651/2014.
 
