@@ -632,6 +632,10 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - evidovať oprávnenia podľa § 23 ods. 6 alebo požaduje preukázanie oprávnenia v rozpore s § 23 ods. 7,
 
+- 5.
+
+- získať informácie o rozsahu oprávnenia podľa § 23a ods. 7,
+
 - h)
 
 - od 250 eur do 1 000 eur orgánu verejnej moci, ktorý závažným spôsobom poruší inú povinnosť podľa tohto zákona, než je uvedená v písmenách a) až g).“.
