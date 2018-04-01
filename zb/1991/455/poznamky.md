@@ -116,6 +116,8 @@
 
 - 23d) § 5 zákona č. 541/2004 Z. z. o mierovom využívaní jadrovej energie (atómový zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 23da) Zákon č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
+
 - 23e) Zákon č. 473/2005 Z. z. o poskytovaní služieb v oblasti súkromnej bezpečnosti a o zmene a doplnení niektorých zákonov (zákon o súkromnej bezpečnosti).
 
 - 23f) Zákon č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov.
@@ -153,6 +155,8 @@
 - 23ph) § 88 zákona č. 725/2004 Z. z.
 
 - 23q) Zákon č. 8 /2005 Z. z. o správcoch a zmene a doplnení niektorých zákonov.
+
+- 23qa) § 10 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
 
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
