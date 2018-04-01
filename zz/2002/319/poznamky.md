@@ -1,5 +1,13 @@
 - 1) Čl. 7 ods. 4 Ústavy Slovenskej republiky.
 
+- 1a) § 3 písm. b) zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
+- 1b) § 27 ods. 10 zákona č. 69/2018 Z. z.
+
+- 1c) § 2 písm. a) zákona č. 45/2011 Z. z. o kritickej infraštruktúre.
+
+- 1d) § 4a zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve v znení zákona č. 69/2018 Z. z.
+
 - 2) Napríklad zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 198/1994 Z. z. o Vojenskom spravodajstve.
 
 - 3) Zákon č. 757/2004 Z. z. o súdoch a o zmene a doplnení niektorých zákonov.
@@ -43,6 +51,8 @@
 - 12) Čl. 11 ods. 6 ústavného zákona č. 227/2002 Z. z.
 
 - 15c) § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení zákona č. 90/2005 Z. z.
+
+- 15d) § 4a ods. 3 zákona Národnej rady Slovenskej republiky č. 198/1994 Z. z. v znení zákona č. 69/2018 Z. z.
 
 - 16) § 6 zákona č. 570/2005 Z. z.
 
