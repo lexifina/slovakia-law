@@ -30,6 +30,12 @@
 
 - 1bi) Kapitola I časť A-I/6 Medzinárodného dohovoru o normách výcviku, kvalifikácie a strážnej služby námorníkov (STCW) 1978 (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 165/2001 Z. z.) v platnom znení.
 
+- 1bj) § 26 písm. h) zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
+
+- 1bk) § 27 až 29 zákona č. 56/2018 Z. z.
+
 - 2) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 2a) Nariadenie vlády Slovenskej republiky č. 243/2001 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na námorné vybavenie v znení nariadenia vlády Slovenskej republiky č. 307/2002 Z. z.
