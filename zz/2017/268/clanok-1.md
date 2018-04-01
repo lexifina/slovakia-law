@@ -292,7 +292,37 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - Počas platnosti rozhodnutia o doplnení zábezpeky na daň podľa odseku 1 je prevádzkovateľ daňového skladu povinný sledovať výšku zloženej zábezpeky na daň a upraviť zloženú zábezpeku na daň, ak daň pripadajúca na množstvo skladovaného minerálneho oleja v pozastavení dane prevyšuje o viac ako 10 % daň, ktorá pripadá na množstvo skladovaného minerálneho oleja v pozastavení dane, na ktoré je zložená zábezpeka na daň. Prevádzkovateľ daňového skladu je povinný zvýšiť zábezpeku na daň o sumu dane, ktorá prevyšuje zloženú zábezpeku na daň, a to v lehote piatich pracovných dní odo dňa vzniku tejto skutočnosti.“.
 
+- 31. V § 23 ods. 1 písmeno a) znie:
+
+- „a)
+
+- z daňového skladu do iného daňového skladu alebo na miesto priameho dodania uvedené v elektronickom dokumente; miestom priameho dodania uvedeným v elektronickom dokumente sa na účely tohto zákona rozumie miesto, na ktoré je dodaný minerálny olej prepravovaný v pozastavení dane, ak je prepravovaný priamo osobe, ktorú určí príjemca (odberateľ), ktorým je prevádzkovateľ daňového skladu, alebo oprávnený príjemca podľa
+
+- § 25 ods. 1, ktorý prijíma opakovane minerálny olej v pozastavení dane z iného členského štátu, a táto osoba je osobou uvedenou v § 11, § 25a alebo v § 25b ods. 1, 4 alebo ods. 16,“.
+
 - 32. V § 23 ods. 2 písm. c) prvom bode sa slová „ods. 15“ nahrádzajú slovami „ods. 16“.
+
+- 33. § 23 sa dopĺňa odsekmi 15 a 16, ktoré znejú:
+
+- „(15)
+
+- Ak sa minerálny olej v pozastavení dane prepravuje na miesto priameho dodania podľa odseku 1 písm. a), je príjemca (odberateľ) minerálneho oleja povinný bezodkladne pred začatím prepravy oznámiť colnému úradu adresu miesta priameho dodania uvedeného v elektronickom dokumente.
+
+- (16)
+
+- Colný úrad môže prostredníctvom elektronického systému<sup>6c</sup>) uložiť príjemcovi (odberateľovi) minerálneho oleja po začatí prepravy minerálneho oleja v pozastavení dane povinnosť bezodkladne po prijatí minerálneho oleja na mieste určenia oznámiť prijatie minerálneho oleja prostredníctvom elektronického systému<sup>6c</sup>) colnému úradu a počas dvoch hodín od zaslania oznámenia o tejto skutočnosti prostredníctvom elektronického systému<sup>6c</sup>) minerálny olej nevyložiť, neprečerpať alebo s týmto minerálnym olejom nenakladať.“.
+
+- 34. V § 24 ods. 1 písm. c) sa na konci pripájajú tieto slová: „alebo na miesto priameho dodania uvedené v elektronickom dokumente“.
+
+- 35. § 24 sa dopĺňa odsekmi 15 a 16, ktoré znejú:
+
+- „(15)
+
+- Ak sa minerálny olej v pozastavení dane prepravuje na miesto priameho dodania podľa odseku 1 písm. c), je príjemca (odberateľ) minerálneho oleja povinný bezodkladne pred začatím prepravy oznámiť colnému úradu adresu miesta priameho dodania uvedeného v elektronickom dokumente.
+
+- (16)
+
+- Colný úrad môže prostredníctvom elektronického systému<sup>6c</sup>) uložiť príjemcovi (odberateľovi) minerálneho oleja po začatí prepravy minerálneho oleja v pozastavení dane povinnosť bezodkladne po prijatí minerálneho oleja na mieste určenia oznámiť prijatie minerálneho oleja prostredníctvom elektronického systému<sup>6c</sup>) colnému úradu a počas dvoch hodín od zaslania oznámenia o tejto skutočnosti prostredníctvom elektronického systému<sup>6c</sup>) minerálny olej nevyložiť, neprečerpať alebo s týmto minerálnym olejom nenakladať.“.
 
 - 36. § 24a sa dopĺňa odsekom 4, ktorý znie:
 
@@ -332,11 +362,403 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 43. V § 25b celom texte sa slová „alebo písm. f)“ nahrádzajú slovami „a f) alebo v § 7 ods. 1 a 2“ a v odseku 6 poslednej vete sa za slová „v § 6 ods. 1 písm. a) a d)“ vkladajú slová „alebo v § 7 ods. 1 a 2“.
 
+- 44. § 25b vrátane nadpisu znie:
+
+- „§ 25b
+
+- Distribútor pohonných látok, predajca pohonných látok a spotrebiteľ pohonných látok
+
+- (1)
+
+- Distribútorom pohonných látok je osoba, ktorá v rámci podnikateľskej činnosti na daňovom území v daňovom voľnom obehu distribuuje minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 a má vydané povolenie na distribúciu minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu (ďalej len „povolenie na distribúciu“). Osoba, ktorá chce byť distribútorom pohonných látok, je povinná požiadať colný úrad o vydanie povolenia na distribúciu a spĺňať podmienky uvedené v odsekoch 7 a 8. Osoba podľa § 21, ktorá chce byť distribútorom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7 písm. a), c) až i). Osoba podľa
+
+- § 25, ktorá chce byť distribútorom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7 písm. a), c) až f), h) a i). Distribútor pohonných látok je oprávnený distribuovať v daňovom voľnom obehu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 len na základe povolenia na distribúciu.
+
+- (2)
+
+- Na účely tohto zákona sa za distribúciu minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu považuje každé
+
+- a)
+
+- nadobudnutie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na daňovom území od prevádzkovateľa živnosti<sup>20d</sup>) alebo z územia iného členského štátu, alebo z územia tretieho štátu; nadobudnutím minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 sa rozumie nadobudnutie práva nakladať s minerálnym olejom uvedeným v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 ako vlastník a
+
+- b)
+
+- dodanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na daňovom území inému prevádzkovateľovi živnosti<sup>20d</sup>) alebo osobe podľa odseku 16, alebo dodanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na územie iného členského štátu, alebo vývoz minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na územie tretieho štátu; dodaním minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 sa rozumie prevod práva nakladať s minerálnym olejom uvedeným v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 ako vlastník nadobúdateľovi vrátane dodávok minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, ak je tento tovar odoslaný alebo prepravený dodávateľom alebo nadobúdateľom na ich účet.
+
+- (3)
+
+- Žiadosť o vydanie povolenia na distribúciu musí obsahovať
+
+- a)
+
+- identifikačné údaje žiadateľa a adresu umiestnenia prevádzkarní súvisiacich s distribúciou minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+
+- b)
+
+- druh minerálneho oleja a príslušný kód kombinovanej nomenklatúry,
+
+- c)
+
+- zoznam dodávateľov a odberateľov minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (4)
+
+- Predajcom pohonných látok je osoba, ktorá v rámci podnikateľskej činnosti na daňovom území v daňovom voľnom obehu predáva minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu a má vydané povolenie na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu (ďalej len „povolenie na predaj“). Osoba, ktorá chce byť predajcom pohonných látok, je povinná požiadať colný úrad o vydanie povolenia na predaj a spĺňať podmienky uvedené v odsekoch 7 a 8. Osoba podľa § 21, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7. Osoba podľa § 25, ktorá chce byť predajcom pohonných látok, nie je povinná preukázať splnenie podmienok uvedených v odseku 7 písm. a) až f), h) a i). Predajca pohonných látok je oprávnený predávať v daňovom voľnom obehu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu len na základe povolenia na predaj.
+
+- (5)
+
+- Na účely tohto zákona sa za predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu na konečnú spotrebu považuje predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 predajcom pohonných látok na konečnú spotrebu prostredníctvom výdajného stojana na pohonné látky, ktorým je meracia zostava na kvapaliny okrem vody<sup>20e</sup>) alebo meracia zostava na skvapalnené plyny,<sup>20e</sup>) ktorý je pevne zabudovaný v teréne a pevne spojený so skladovacím zariadením.
+
+- (6)
+
+- Žiadosť o vydanie povolenia na predaj musí obsahovať
+
+- a)
+
+- identifikačné údaje žiadateľa a adresu umiestnenia miest určených na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, ak nie sú totožné so sídlom alebo s trvalým pobytom žiadateľa,
+
+- b)
+
+- druh minerálneho oleja a príslušný kód kombinovanej nomenklatúry,
+
+- c)
+
+- zoznam dodávateľov minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- d)
+
+- meno, priezvisko a trvalý pobyt osoby zodpovednej za prevádzkovanie miesta určeného na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (7)
+
+- Žiadateľ o vydanie povolenia na distribúciu alebo povolenia na predaj musí spĺňať tieto podmienky:
+
+- a)
+
+- má živnostenské oprávnenie na obchodnú živnosť<sup>20f</sup>) a má zámer v rámci podnikania nakupovať a predávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo § 7 ods. 1 a 2,
+
+- b)
+
+- má ročný objem predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 minimálne 30 000 000 l alebo minerálneho oleja uvedeného v § 6 ods. 1 písm. f) minimálne 150 000 kg, ak je žiadateľom o vydanie povolenia na distribúciu podľa odseku 1; to neplatí, ak je žiadateľom o vydanie povolenia na distribúciu osoba, ktorá dodáva len minerálny olej podľa § 6 ods. 1 písm. d) užívateľskému podniku podľa § 11 na účely oslobodené od dane podľa § 10 ods. 1 písm. a),
+
+- c)
+
+- má splatené vklady do základného imania v minimálnej výške 500 000 eur, ak je právnickou osobou alebo nakupuje a predáva v rámci podnikania minerálny olej uvedený v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 minimálne jeden rok pred podaním žiadosti o vydanie povolenia na distribúciu, ak je fyzickou osobou; to platí, ak žiadateľ o vydanie povolenia na distribúciu v čase podania žiadosti o vydanie povolenia na distribúciu nedosahuje ročný objem predaja minerálneho oleja uvedeného v písmene b),
+
+- d)
+
+- vedie účtovníctvo podľa osobitného predpisu,<sup>17</sup>)
+
+- e)
+
+- nemá nedoplatky voči colnému úradu ani daňovému úradu,
+
+- f)
+
+- nemá nedoplatky na povinných odvodoch poistného a na povinných príspevkoch na starobné dôchodkové sporenie podľa osobitných predpisov,<sup>19</sup>)
+
+- g)
+
+- vykazuje na základe údajov z riadnej účtovnej závierky kladný rozdiel medzi majetkom a záväzkami<sup>17</sup>) za dve účtovné obdobia bezprostredne predchádzajúce žiadosti o vydanie povolenia na distribúciu alebo povolenia na predaj,
+
+- h)
+
+- nebol právoplatne odsúdený za úmyselne spáchaný trestný čin hospodársky alebo iný trestný čin, ktorého skutková podstata súvisí s predmetom podnikania; to sa vzťahuje aj na zodpovedného zástupcu a fyzickú osobu, ktorá je členom riadiaceho orgánu alebo členom kontrolného orgánu žiadateľa,
+
+- i)
+
+- nie je v likvidácii ani na neho nie je právoplatne vyhlásený konkurz, povolené vyrovnanie, potvrdené nútené vyrovnanie alebo povolená reštrukturalizácia.
+
+- (8)
+
+- Osoba podľa odsekov 1 a 4 alebo odseku 16 je povinná prijímať a vydávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 prostredníctvom vhodného meracieho zariadenia<sup>21</sup>) a skladovať tento minerálny olej v skladovacom zariadení. Ak osoba podľa odsekov 1 a 4 alebo odseku 16 nemá skladovacie zariadenie, ktoré je vybavené overeným meracím zariadením, alebo nemá skladovacie zariadenie, ktoré je určeným meradlom, zohľadní colný úrad pri príjme minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 aj iné meracie zariadenia a iné postupy merania, ktorými môže táto osoba hodnoverne a preukázateľne zistiť prijaté množstvo tohto minerálneho oleja. Podmienky podľa prvej vety musí spĺňať osoba podľa odsekov 1 a 16 len vtedy, ak má skladovacie zariadenie na skladovanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2. Ak osoba podľa odsekov 1 a 4 alebo odseku 16 distribuuje, predáva na konečnú spotrebu alebo nakupuje na vlastnú spotrebu minerálny olej uvedený v § 6 ods. 1 písm. a) a d) alebo v
+
+- § 7 ods. 1 a 2 výlučne v uzavretých spotrebiteľských baleniach na konečnú spotrebu, nemusí mať skladovacie zariadenie, pri príjme a výdaji tohto minerálneho oleja nie je povinná postupovať podľa osobitných predpisov<sup>21</sup>) a nemusí spĺňať podmienky uvedené v odseku 7 písm. b) a c).
+
+- (9)
+
+- Colný úrad pred vydaním povolenia na distribúciu alebo povolenia na predaj preverí skutočnosti a údaje podľa odseku 3 alebo odseku 6. Ak sú tieto skutočnosti pravdivé a žiadateľ spĺňa podmienky podľa odsekov 7 a 8, colný úrad vydá žiadateľovi povolenie na distribúciu alebo povolenie na predaj do 60 dní odo dňa podania žiadosti podľa odseku 1 alebo odseku 4.
+
+- (10)
+
+- Povolenie na distribúciu alebo povolenie na predaj zaniká dňom
+
+- a)
+
+- úmrtia distribútora pohonných látok alebo predajcu pohonných látok alebo dňom nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení distribútora pohonných látok alebo predajcu pohonných látok za mŕtveho, ak je distribútorom pohonných látok alebo predajcom pohonných látok fyzická osoba,
+
+- b)
+
+- nadobudnutia právoplatnosti rozhodnutia súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku alebo o zrušení konkurzu pre nedostatok majetku, dňom, keď bolo potvrdené nútené vyrovnanie, povolené vyrovnanie alebo bola povolená reštrukturalizácia,
+
+- c)
+
+- odňatia povolenia na distribúciu alebo povolenia na predaj colným úradom,
+
+- d)
+
+- výmazu z obchodného registra alebo z iného obdobného registra alebo dňom zrušenia živnostenského oprávnenia za podmienok ustanovených osobitnými predpismi,<sup>19a</sup>) ak osoba nepodala žiadosť podľa písmena e),
+
+- e)
+
+- podania žiadosti o výmaz z obchodného registra alebo z iného obdobného registra alebo dňom podania žiadosti o zrušenie živnostenského oprávnenia, alebo dňom podania oznámenia o ukončení podnikania.
+
+- (11)
+
+- Colný úrad povolenie na distribúciu alebo povolenie na predaj odníme, ak distribútor pohonných látok alebo predajca pohonných látok
+
+- a)
+
+- vstúpi do likvidácie,
+
+- b)
+
+- prestal spĺňať niektorú z podmienok uvedených v odsekoch 7 a 8,
+
+- c)
+
+- porušuje povinnosti ustanovené týmto zákonom a uloženie pokuty a ani výzvy colného úradu alebo upozornenia colného úradu neviedli k náprave,
+
+- d)
+
+- požiada o odňatie povolenia na distribúciu alebo povolenia na predaj.
+
+- (12)
+
+- Ak distribútor pohonných látok alebo predajca pohonných látok končí svoju činnosť alebo činnosť v niektorej z jeho prevádzkarní alebo mu colný úrad odňal povolenie na distribúciu alebo povolenie na predaj a má zásoby minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, môže so súhlasom colného úradu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 dodať distribútorovi pohonných látok, predajcovi pohonných látok alebo osobe podľa § 21. Rovnako postupuje aj správca konkurznej podstaty distribútora pohonných látok alebo predajcu pohonných látok, súdny exekútor alebo iná osoba, ak pri výkone rozhodnutia predávajú alebo distribuujú minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (13)
+
+- Držiteľovi povolenia na distribúciu alebo držiteľovi povolenia na predaj, ktorému bolo odňaté povolenie na distribúciu alebo povolenie na predaj podľa odseku 11 písm. b) a c), môže byť nové povolenie na distribúciu alebo povolenie na predaj vydané najskôr po uplynutí dvoch rokov po nadobudnutí právoplatnosti rozhodnutia o odňatí povolenia na distribúciu alebo povolenia na predaj.
+
+- (14)
+
+- Distribútor pohonných látok je povinný
+
+- a)
+
+- najneskôr do 25. dňa kalendárneho mesiaca predložiť colnému úradu hlásenie o množstve nadobudnutého a dodaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 a stave zásob minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 za predchádzajúci kalendárny mesiac samostatne za každú prevádzkareň v členení podľa jednotlivých druhov tohto minerálneho oleja, vyhotovené podľa vzoru, ktorý zverejní Finančné riaditeľstvo Slovenskej republiky (ďalej len „finančné riaditeľstvo“) na svojom webovom sídle; to neplatí, ak je distribútor pohonných látok osobou podľa § 21,
+
+- b)
+
+- predložiť na požiadanie colného úradu účtovné doklady o nadobudnutí minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- c)
+
+- viesť za kalendárny mesiac podľa účtovných dokladov evidenciu nakúpeného a predaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2; evidenciu je distribútor pohonných látok povinný viesť samostatne za každú prevádzkareň a uchovávať ju tri roky odo dňa výdaja alebo predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- d)
+
+- skladovať samostatne minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, ak má skladovacie zariadenie na skladovanie tohto minerálneho oleja,
+
+- e)
+
+- nakupovať alebo inak odoberať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v
+
+- § 7 ods. 1 a 2 len od distribútora pohonných látok,
+
+- f)
+
+- predávať na daňovom území alebo inak dodávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 len distribútorovi pohonných látok, predajcovi pohonných látok, osobe podľa odseku 16 alebo osobe podľa § 11 a 21,
+
+- g)
+
+- oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 3 písm. a) do 30 dní odo dňa ich vzniku, každú zmenu údajov podľa odseku 3 písm. b) najneskôr 15 dní pred začatím distribúcie minerálneho oleja a každú zmenu údajov podľa odseku 3 písm. c) do 15 dní odo dňa ich vzniku,
+
+- h)
+
+- spĺňať podmienky podľa odseku 7 písm. a) až f) a h) a i) počas celého obdobia platnosti povolenia na distribúciu,
+
+- i)
+
+- spĺňať podmienky podľa odseku 8 počas celého obdobia platnosti povolenia na distribúciu, ak má skladovacie zariadenie na skladovanie minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (15)
+
+- Predajca pohonných látok je povinný
+
+- a)
+
+- predložiť na požiadanie colného úradu účtovné doklady o nadobudnutí minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- b)
+
+- viesť za kalendárny mesiac podľa účtovných dokladov evidenciu nakúpeného a predaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 a v mieste určenom na predaj minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 mať k dispozícii doklady o prevzatí minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 preukazujúce nadobudnutie tohto minerálneho oleja alebo ich kópie, a to k aktuálnemu stavu zásob tohto minerálneho oleja, ktorý sa nachádza v mieste predaja; evidenciu je predajca pohonných látok povinný viesť samostatne za každú prevádzkareň a uchovávať ju tri roky odo dňa výdaja alebo predaja minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- c)
+
+- skladovať samostatne minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- d)
+
+- nakupovať na daňovom území alebo inak odoberať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 len od distribútora pohonných látok,
+
+- e)
+
+- oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 6 písm. a) do 30 dní odo dňa ich vzniku, každú zmenu údajov podľa odseku 6 písm. b) najneskôr 15 dní pred začatím predaja minerálneho oleja a každú zmenu údajov podľa odseku 6 písm. c) a d) do 15 dní odo dňa ich vzniku,
+
+- f)
+
+- spĺňať podmienky podľa odsekov 7 a 8 počas celého obdobia platnosti povolenia na predaj,
+
+- g)
+
+- vydávať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 na konečnú spotrebu len prostredníctvom výdajného stojana na pohonné látky okrem výdaja tohto minerálneho oleja v uzavretých spotrebiteľských baleniach na konečnú spotrebu.
+
+- (16)
+
+- Osoba, ktorá chce na daňovom území nakupovať alebo inak odoberať v rámci svojej podnikateľskej činnosti v daňovom voľnom obehu na vlastnú spotrebu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 od osoby podľa odseku 1 (ďalej len „spotrebiteľ pohonných látok“), je povinná oznámiť túto skutočnosť colnému úradu najneskôr pred prvým nákupom tohto minerálneho oleja alebo jeho prvým odberom. Ak spotrebiteľ pohonných látok skladuje nakúpený alebo odobratý minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, musí mať skladovacie zariadenie podľa odseku 8 okrem spotrebiteľa pohonných látok, ktorý nakupuje tento minerálny olej v uzavretých spotrebiteľských baleniach na konečnú spotrebu. Spotrebiteľ pohonných látok v oznámení podľa prvej vety uvedie
+
+- a)
+
+- identifikačné údaje oznamovateľa a adresu umiestnenia skladovacieho zariadenia podľa odseku 8, ak nie je totožná so sídlom alebo s trvalým pobytom oznamovateľa,
+
+- b)
+
+- druh minerálneho oleja, ktorý bude nakupovať alebo inak odoberať, a príslušný kód kombinovanej nomenklatúry tohto minerálneho oleja,
+
+- c)
+
+- číslo povolenia na distribúciu distribútora pohonných látok, od ktorého bude nakupovať alebo inak odoberať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (17)
+
+- Colný úrad preverí údaje a skutočnosti podľa odseku 16 a odseku 18 písm. a), a ak sú tieto údaje a skutočnosti pravdivé, zaradí spotrebiteľa pohonných látok do evidencie spotrebiteľov pohonných látok a vydá osvedčenie o zaradení do evidencie spotrebiteľov pohonných látok najneskôr do 15 pracovných dní odo dňa oznámenia podľa odseku 16.
+
+- (18)
+
+- Spotrebiteľ pohonných látok je povinný
+
+- a)
+
+- skladovať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v skladovacom zariadení podľa odseku 8, ak má skladovacie zariadenie alebo ak tento minerálny olej nenakupuje v uzavretých spotrebiteľských baleniach na konečnú spotrebu,
+
+- b)
+
+- nakupovať alebo inak odoberať minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v
+
+- § 7 ods. 1 a 2 len od distribútora pohonných látok,
+
+- c)
+
+- predložiť pri prvom odbere minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 distribútorovi pohonných látok osvedčenie o zaradení do evidencie spotrebiteľov pohonných látok,
+
+- d)
+
+- oznámiť colnému úradu každú zmenu skutočností a údajov podľa odseku 16 písm. a) do 30 dní odo dňa jej vzniku a podľa odseku 16 písm. b) a c) do 15 dní odo dňa ich vzniku,
+
+- e)
+
+- predložiť na požiadanie colného úradu účtovné doklady o nadobudnutí minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2,
+
+- f)
+
+- viesť evidenciu prijatého a spotrebovaného minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 a evidenciu stavu zásob tohto minerálneho oleja.
+
+- (19)
+
+- Colný úrad vyradí spotrebiteľa pohonných látok z evidencie spotrebiteľov pohonných látok, ak
+
+- a)
+
+- spotrebiteľ pohonných látok podal žiadosť o výmaz z obchodného registra alebo z iného obdobného registra, podal žiadosť o zrušenie živnostenského oprávnenia, oznámil ukončenie podnikania alebo bol zrušený, ak nebol zriadený alebo založený na podnikateľské účely,
+
+- b)
+
+- spotrebiteľom pohonných látok je fyzická osoba a táto zomrela alebo nadobudlo právoplatnosť rozhodnutie súdu o vyhlásení tejto fyzickej osoby za mŕtvu,
+
+- c)
+
+- nadobudlo právoplatnosť rozhodnutie súdu o vyhlásení konkurzu, o zamietnutí návrhu na vyhlásenie konkurzu pre nedostatok majetku, o zrušení konkurzu pre nedostatok majetku alebo bolo potvrdené nútené vyrovnanie, povolené vyrovnanie, alebo bola povolená reštrukturalizácia,
+
+- d)
+
+- spotrebiteľ pohonných látok vstúpil do likvidácie,
+
+- e)
+
+- spotrebiteľ pohonných látok požiadal o vyradenie z evidencie spotrebiteľov pohonných látok.
+
+- (20)
+
+- Ak spotrebiteľ pohonných látok končí svoju činnosť a má zásoby minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, môže so súhlasom colného úradu minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 dodať osobe podľa odsekov 1, 4 a 16 alebo osobe podľa § 21. Rovnako postupuje aj spotrebiteľ pohonných látok, ktorý má zásoby minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2, ktoré nemôže spotrebovať, a správca konkurznej podstaty spotrebiteľa pohonných látok, súdny exekútor alebo iná osoba, ak pri výkone rozhodnutia predávajú minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2.
+
+- (21)
+
+- Pri prepustení minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 do voľného obehu<sup>2a</sup>) v mieste dovozu, ktorý nebude uvedený do pozastavenia dane, je dovozca povinný preukázať sa povolením na distribúciu colnému úradu, ktorý minerálny olej uvedený v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 prepúšťa do voľného obehu.<sup>2a</sup>)
+
+- (22)
+
+- Ustanovenia odsekov 1 až 21 sa nevzťahujú na osobu, ktorá
+
+- a)
+
+- v daňovom voľnom obehu distribuuje, predáva na konečnú spotrebu alebo nakupuje na vlastnú spotrebu výlučne minerálny olej uvedený v § 6 ods. 1 písm. f) prvom bode v zariadeniach vyrobených v súlade s technickými normami<sup>22</sup>) alebo minerálny olej uvedený v § 6 ods. 1 písm. f) druhom bode,
+
+- b)
+
+- v rámci podnikateľskej činnosti vykonáva na daňovom území zúčtovanie nákupov minerálneho oleja uvedeného v § 6 ods. 1 písm. a), d) a f) alebo v § 7 ods. 1 a 2 v daňovom voľnom obehu pre konečného spotrebiteľa, ak táto osoba tento minerálny olej nenadobúda a ak konečný spotrebiteľ odobral tento minerálny olej od predajcu pohonných látok podľa odseku 4 prostredníctvom výdajného stojana na pohonné látky.“.
+
+  - Poznámka pod čiarou k odkazu 20f znie:
+
+  - „<sup>20f</sup>) Zákon č. 455/1991 Zb. v znení neskorších predpisov.“.
+
+- 45. Za § 25b sa vkladá § 25c, ktorý vrátane nadpisu znie:
+
+- „§ 25c
+
+- Pozastavenie uplatňovania povolenia
+
+- (1)
+
+- Kriminálny úrad finančnej správy osobe podľa § 21, 25a, § 25b ods. 1 alebo ods. 4 dočasne pozastaví uplatňovanie povolenia na prevádzkovanie daňového skladu, povolenia na obchodovanie, povolenia na distribúciu alebo povolenia na predaj (ďalej len „pozastavenie uplatňovania povolenia“), ak bolo vyšetrovateľom finančnej správy začaté trestné stíhanie pre podozrenie zo spáchania daňového trestného činu; to neplatí, ak colný úrad osobe podľa § 21, ktorá je prevádzkovateľom daňového skladu, ktorý je podnikom na výrobu minerálneho oleja, upustil od povinnosti zložiť zábezpeku na daň úplne alebo čiastočne. Kriminálny úrad finančnej správy v rozhodnutí o pozastavení uplatňovania povolenia uvedie dôvody, na základe ktorých toto rozhodnutie vydal. Kriminálny úrad finančnej správy je povinný bezodkladne informovať colný úrad o pozastavení uplatňovania povolenia.
+
+- (2)
+
+- Kriminálny úrad finančnej správy môže osobe podľa odseku 1 pozastaviť uplatňovanie povolenia na obdobie najviac 60 dní odo dňa doručenia rozhodnutia o pozastavení uplatňovania povolenia. V odôvodnených prípadoch je možné predĺžiť pozastavenie uplatňovania povolenia na 120 dní. Rozhodnutie o pozastavení uplatňovania povolenia je vykonateľné dňom jeho doručenia. Proti rozhodnutiu o pozastavení uplatňovania povolenia je možné podať odvolanie, ktoré nemá odkladný účinok.
+
+- (3)
+
+- Ak pominú dôvody, na základe ktorých Kriminálny úrad finančnej správy rozhodol o pozastavení uplatňovania povolenia osobe podľa odseku 1, je povinný o tejto skutočnosti bezodkladne informovať túto osobu a colný úrad. Dňom doručenia oznámenia o ukončení pozastavenia uplatňovania povolenia Kriminálnym úradom finančnej správy môže osoba podľa odseku 1 vykonávať svoju činnosť.
+
+- (4)
+
+- V čase pozastavenia uplatňovania povolenia je minerálny olej skladovaný osobou podľa
+
+- § 21 v daňovom sklade považovaný za minerálny olej v pozastavení dane.
+
+- (5)
+
+- Prevádzkovateľ daňového skladu, ktorý je podnikom na výrobu minerálneho oleja, v čase pozastavenia uplatňovania povolenia
+
+- a)
+
+- môže minerálny olej v pozastavení dane vyrábať, spracúvať a skladovať,
+
+- b)
+
+- nemôže minerálny olej v pozastavení dane prijímať a odosielať.“.
+
 - 46. V § 31 ods. 2 úvodnej vete sa za slová „je povinný“ vkladajú slová „najneskôr jeden deň“.
 
 - 47. V § 31 ods. 3 sa slovo „bezodkladne“ nahrádza slovami „najneskôr do troch pracovných dní“.
 
 - 48. V § 31 ods. 8 a § 32 ods. 1 sa za slová „z ktorého vznikla daňová povinnosť,“ vkladajú slová „a minerálny olej podľa § 4 ods. 8“.
+
+- 49. V § 40 sa odsek 3 dopĺňa písmenami h) až j), ktoré znejú:
+
+- „h)
+
+- uložiť osobe podľa § 25b ods. 1 a 4 alebo § 31 povinnosť oznamovať colnému úradu v určenom čase dátum a čas príjmu minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2,
+
+- i)
+
+- uložiť osobe podľa § 21, 25, § 25b ods. 1 a 4 alebo § 31 povinnosť odoberať vzorky minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 v čase určenom colným úradom za prítomnosti zamestnanca colného úradu,
+
+- j)
+
+- uložiť osobe podľa § 25b ods. 4 v odôvodených prípadoch povinnosť, aby sa príjem minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 uskutočňoval len za prítomnosti zamestnanca colného úradu.“.
 
 - 50. V § 40 sa vypúšťa odsek 9.
 
@@ -362,11 +784,31 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - uplatní sadzbu dane podľa § 7 ods. 2 na minerálny olej podľa § 6 ods. 1 písm. d), ak tento minerálny olej nespĺňa podmienky podľa § 7 ods. 2 a 4,“.
 
+- 55. V § 42 ods. 1 písmená n) až p) znejú:
+
+- „n)
+
+- nesplní povinnosť podľa § 25a ods. 1,
+
+- o)
+
+- nesplní povinnosť podľa § 25a ods. 10 písm. b),
+
+- p)
+
+- nesplní povinnosť podľa § 25b ods. 1, 4 alebo ods. 16.“.
+
 - 56. V § 42 sa odsek 1 dopĺňa písmenom q), ktoré znie:
 
 - „q)
 
 - nesplní povinnosť podľa § 7 ods. 5.“.
+
+- 57. V § 42 sa odsek 1 dopĺňa písmenom r), ktoré znie:
+
+- „r)
+
+- nesplní povinnosť podľa § 25b ods. 14 písm. a), c) až h), ods. 15 písm. b) až g), ods. 18 písm. a) až d).“.
 
 - 58. V § 42 odsek 2 znie:
 
@@ -394,13 +836,39 @@ Zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení zákona
 
 - 59. V § 42 ods. 2 písm. d) sa slová „až p)“ nahrádzajú slovami „až q)“.
 
+- 60. V § 42 ods. 2 písm. d) sa slová „až q)“ nahrádzajú slovami „až r)“.
+
+- 61. V § 42 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Ak bola osobe opakovane uložená pokuta za správny delikt podľa odseku 1 písm. r) a colný úrad zistí, že nebola vykonaná náprava, podá podnet na miestne príslušný živnostenský úrad na konanie podľa osobitného predpisu.<sup>30aa</sup>)“.
+
+  - Doterajšie odseky 3 a 4 sa označujú ako odseky 4 a 5.
+
+  - Poznámka pod čiarou k odkazu 30aa znie:
+
+  - „<sup>30aa</sup>) § 58 ods. 2 písm. a) zákona č. 455/1991 Zb. v znení neskorších predpisov.“.
+
 - 62. V § 42a odsek 2 znie:
 
 - „(2)
 
 - Za priestupok podľa odseku 1 uloží colný úrad pokutu od 100 eur do 100 000 eur.“.
 
+- 63. V § 43 ods. 2 sa slová „ods. 3“ nahrádzajú slovami „ods. 4“.
+
 - 64. V § 44 ods. 4 sa slová „12 a 13“ nahrádzajú slovami „12, 13 a 14“ a za slová „§ 22 ods. 12,“ sa vkladajú slová „§ 22a ods. 1 a 2,“.
+
+- 65. V § 44 odsek 4 znie:
+
+- „(4)
+
+- Proti rozhodnutiu colného úradu vydanému podľa § 11 ods. 12, 13 a 14, § 19 ods. 10,
+
+- § 19a ods. 5, § 21 ods. 8, 9 a ods. 10 písm. a) a d), § 22 ods. 12, § 22a ods. 1, § 23 ods. 3 a 14, § 24 ods. 12 a 13, § 25 ods. 16, 17 a ods. 18 písm. a) a d), § 25a ods. 11, § 25b ods. 11 a 19,
+
+- § 26 ods. 6, § 28 ods. 10, § 31 ods. 4 a § 40 ods. 3 písm. h) až j) nemožno podať odvolanie.“.
 
 - 66. Za § 46o sa vkladajú § 46p a 46q, ktoré vrátane nadpisov znejú:
 
