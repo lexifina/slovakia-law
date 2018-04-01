@@ -96,6 +96,12 @@
 
 - 19) § 58 zákona č. 455/1991 Zb. v znení neskorších predpisov.
 
+- 19a) Nariadenie vlády Slovenskej republiky č. 397/1999 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strelné zbrane a strelivo v znení neskorších predpisov.
+
+- 19b) § 2 ods. 1 písm. p) zákona č. 190/2003 Z. z. o strelných zbraniach a strelive a o zmene a doplnení niektorých zákonov v znení zákona č. 92/2010 Z. z.
+
+- 19c) Nariadenie vlády Slovenskej republiky č. 262/2016 Z. z. o vybavení námorných lodí.
+
 - 20) Napríklad § 11 zákona č. 264/1999 Z. z. v znení zákona č. 436/2001 Z. z.
 
 - 21) § 58 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
