@@ -200,7 +200,7 @@
 
 - 44) § 50 ods. 3 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
-- 45) § 6 až 17 a § 26 až 41 a § 43 zákona č. 576/2004 Z. z. v znení neskorších predpisov.
+- 45) § 6 až 17 a § 26 až 34, § 39 až 41 a § 43 až 44d zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
 - § 119 a 120 zákona č. 362/2011 Z. z. v znení neskorších predpisov.
 
@@ -299,6 +299,12 @@
 - 55jat) § 2 ods. 32 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 55jau) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 55jawa) Príloha č. 9 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
+
+- 55jawb) § 29 ods. 1 písm. a) zákona č. 87/2018 Z. z.
+
+- 55jawc) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
