@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 247/2017 Z. z. [ANALYTICKÉ METÓDY POUŽÍVANÉ NA ÚČELY MONITOROVANIA A KONTROLY KVALITY PITNEJ VODY](../assets/d64058abb5e0a6ea00e93f263aabbe2f561b202474236202bcca9cd282d9860e.pdf)
+Príloha č. 4 k vyhláške č. 247/2017 Z. z. [Príloha č. 4 k vyhláške č. 247/2017 Z. z.](../assets/43d4a8dd05d48d2877bd69c53d6429aa9a5eb8ae7ff70b95028a17a02a1d97c4.pdf)
