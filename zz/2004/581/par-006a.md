@@ -28,6 +28,8 @@
 
 - i) príspevok na správu a rozvoj národného zdravotníckeho informačného systému (§ 8b),
 
+- j) preplatenie úhrady pri poskytovaní zdravotnej starostlivosti v rámci ústavnej pohotovostnej služby podľa osobitného predpisu.<sup>18da</sup>)
+
 (4) Ročný úhrn podľa odseku 1 sa vypočíta ako súčet preddavkov na poistné<sup>18f</sup>) splatných v príslušnom kalendárnom roku, nedoplatkov z ročného zúčtovania poistného<sup>18g</sup>) splatných v príslušnom kalendárnom roku a úrokov z omeškania<sup>18h</sup>) splatných v príslušnom kalendárnom roku znížený o preplatky z ročného zúčtovania poistného<sup>18b</sup>) splatné v príslušnom kalendárnom roku.
 
 (5) Ustanovenia odsekov 1 až 4 sa nevzťahujú na použitie

@@ -72,11 +72,15 @@
 
 - 18aa) § 21a ods. 3 zákona č. 363/2011 Z. z v znení zákona č. 336/2017.
 
+- 18ab) § 2 ods. 9 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
 - 18b) § 19 ods. 12 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 18c) § 27 ods. 9 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
 
 - 18d) § 27a ods. 10 zákona č. 580/2004 Z. z. v znení zákona č. 352/2005 Z. z.
+
+- 18da) § 38a ods. 6 písm. a) zákona č. 577/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 18e) § 20 ods. 17 zákona č. 595/2003 Z. z. o dani z príjmov v znení zákona č. 660/2005 Z. z.
 
@@ -203,6 +207,8 @@
 - 35aad) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 35aae) § 81 ods. 1 písm. a) a g) zákona č. 578/2004 Z. z. v znení zákona č. 428/2015 Z. z.
+
+- 35aah) § 38b zákona č. 577/2004 Z. z. v znení zákona č. 87/2018 Z. z.
 
 - 35ab) § 60b ods. 4 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení zákona č. 358/2007 Z. z.
 
