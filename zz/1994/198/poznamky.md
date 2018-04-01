@@ -4,9 +4,21 @@
 
 - 1b) Zákon č. 39/2011 Z. z. o položkách s dvojakým použitím a o zmene zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
+- 1ba) § 3 písm. b) zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
 - 1c) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) Napríklad zákon č. 215/2004 Z. z. v znení neskorších predpisov, zákon č. 383/2011 Z. z. o zastúpení Slovenskej republiky v Eurojuste.
+
+- 2a) § 2 ods. 2 zákona č. 319/2002 Z. z. o obrane Slovenskej republiky v znení zákona č. 69/2018 Z. z.
+
+- 2b) Zákon č. 69/2018 Z. z.
+
+- 2c) § 27 ods. 5 zákona č. 319/2002 Z. z. v znení zákona č. 330/2003 Z. z.
+
+- 2d) § 2 písm. a) zákona č. 45/2011 Z. z. o kritickej infraštruktúre.
+
+- 2e) § 8 zákona č. 69/2018 Z. z.
 
 - 3) § 71 ods. 1 písm. b) zákona č. 281/2015 Z. z. o štátnej službe profesionálnych vojakov a o zmene a doplnení niektorých zákonov.
 
