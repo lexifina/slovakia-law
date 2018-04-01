@@ -4,4 +4,4 @@ Príloha č. 3 k zákonu č. 351/2011 Z. z.
 
   - ŽIADOSŤ O POSKYTNUTIE DOTÁCIE NA PODPORU PROJEKTU
 
-- [Vzor 01](../assets/b10d7c4965d319b56daa9449e2cfb681cd2a7489728483fc6dd4e9c1d2043599.pdf)
+- [Vzor 01](../assets/a5a5977495be4c8b738ef803abfe79e210ee7f22bac0cebaae0ce136ce70a728.pdf)

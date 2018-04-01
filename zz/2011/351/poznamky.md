@@ -44,6 +44,8 @@
 
 - 15) § 17 až 20 Obchodného zákonníka.
 
+- 15a) Zákon č. 69/2018 o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov.
+
 - 16) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
@@ -83,6 +85,10 @@
 - § 24 zákona č. 338/2000 Z. z. o vnútrozemskej plavbe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - § 17 a 52 zákona č. 435/2000 Z. z. o námornej plavbe v znení neskorších predpisov.
+
+- 31b) Napríklad zákon č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov, nariadenie vlády Slovenskej republiky č. 127/2016 Z. z. o elektromagnetickej kompatibilite, nariadenie vlády Slovenskej republiky č. 193/2016 Z. z. o sprístupňovaní rádiových zariadení na trhu.
+
+- 31c) Napríklad zákon č. 128/2002 Z. z. o štátnej kontrole vnútorného trhu vo veciach ochrany spotrebiteľa a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 26 písm. a) zákona č. 56/2018 Z. z.
 
 - 32) § 9 ods. 3 a § 12 ods. 8 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
