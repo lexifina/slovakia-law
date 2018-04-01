@@ -556,9 +556,9 @@
 
 - Opatrenie Štatistického úradu Slovenskej republiky č. 128/2000 Z. z.
 
-- 120a) Zákon č. 561/2007 Z. z. o investičnej pomoci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 120a) Zákon č. 57/2018 Z. z. o regionálnej investičnej pomoci a o zmene a doplnení niektorých zákonov.
 
-- 120b) § 8 ods. 1 písm. a) a b) zákona č. 561/2007 Z. z. v znení neskorších predpisov.
+- 120b) § 6 zákona č. 57/2018 Z. z.
 
 - 120c) § 9 ods. 1 a 2, § 10 ods. 9 zákona č. 561/2007 Z. z. v znení neskorších predpisov.
 
