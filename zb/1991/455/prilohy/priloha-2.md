@@ -158,7 +158,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 58. | Vykonávanie školení žiadateľov o vydanie osvedčenia o odbornej spôsobilosti bezpečnostného poradcu | poverenie | § 5a ods. 5 zákona č. 338/2000 Z. z. § 20 ods. 11 zákona č. 168/1996 Z. z. |
 
-- 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 11 zákona č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 15 zákona č. 90/1998 Z. z. |
+- 59. | Činnosť autorizovanej osoby | – rozhodnutie o autorizácii | § 15 zákona č. 90/1998 Z. z. |
 
 - 61. | Sprostredkovanie predaja, prenájmu a kúpy nehnuteľností (realitná činnosť) | – vysokoškolské vzdelanie ekonomického alebo právnického alebo ­stavebného alebo architektonického smeru ­alebo – úplné stredné vzdelanie s maturitnou skúškou a 5 rokov praxe v odbore | |
 
