@@ -84,6 +84,14 @@
 
 - 7u) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. v znení neskorších predpisov.
 
+- 7v) Zákon č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 276/2001 Z. z. o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 7x) § 81 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 7y) § 2 písm. a) zákona č. 657/2004 Z. z. o tepelnej energetike v znení neskorších predpisov.
+
+- 7z) § 2 písm. k) zákona č. 657/2004 Z. z.
+
 - 8) Napríklad Zákonník práce, zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8a) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
