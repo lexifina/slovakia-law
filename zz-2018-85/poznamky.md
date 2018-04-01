@@ -1,0 +1,1 @@
+- 1) § 16 ods. 2 písm. a) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
