@@ -3342,7 +3342,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - j) | Vydanie duplikátu osvedčenia podľa písmena i) ..... | | 10 eur
 
-  - k) | Vydanie osobného radiačného preukazu ..... | | 20 eur
+  - k) | Vydanie dokladu osobných dávok z centrálneho registra osobných dávok za pracovníka ..... | | 10 eur
 
   - l) | Vydanie oprávnenia na odstraňovanie azbestu alebo materiálov obsahujúcich azbest zo stavieb<sup>36ba</sup>)..... | | 500 eur
 
@@ -3358,67 +3358,113 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - r) | Vydanie povolenia na zaobchádzanie s vysoko rizikovými biologickými agensmi a toxínmi<sup>36bc</sup>)..... | | 500 eur
 
-  - s) | Vydanie povolenia na činnosti vedúce k ožiareniu | |
+  - s) | Vydanie povolenia na | |
 
-  - | 1. | za jeden röntgenový prístroj ..... | 300 eur
+  - | 1. | prevádzku jadrového zariadenia a etapy vyraďovania jadrového zariadenia z prevádzky z hľadiska radiačnej ochrany ..... | 1000 eur
 
-  - | 2. | za každý ďalší röntgenový prístroj ..... | 100 eur
+  - | 2. | odber, skladovanie a manipuláciu s čerstvým jadrovým palivom z hľadiska radiačnej ochrany ..... | 1000 eur
 
-  - | 3. | za rádioaktívny žiarič, aj vysokoaktívny ..... | 300 eur
+  - | 3. | nakladanie s vyhoretým jadrovým palivom a nakladanie s rádioaktívnym odpadom vrátane zberu, triedenia, skladovania, spracovania, úpravy na uloženie a ukladania rádioaktívneho odpadu z hľadiska radiačnej ochrany ..... | 1000 eur
 
-  - | 4. | za každý ďalší rádioaktívny žiarič ..... | 50 eur
+  - | 4. | prepravu rádioaktívnej látky alebo štiepnej látky, rádioaktívneho žiariča, rádioaktívneho odpadu, vyhoretého jadrového paliva a rádioaktívne kontaminovaných predmetov, ktoré pre ich aktivitu nemožno uvoľniť spod administratívnej kontroly, v areáli jadrového zariadenia, z hľadiska radiačnej ochrany ..... | 1000 eur
 
-  - | 5. | za každý ďalší vysokoaktívny žiarič ..... | 100 eur
+  - | 5. | uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnosti vedúcej k ožiareniu vykonávanej na základe povolenia v jadrovom zariadení, spod administratívnej kontroly ..... | 1000 eur
 
-  - | 6. | podľa § 45 ods. 2 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, okrem jadrových zariadení ..... | 700 eur
+  - | 6. | prepravu zásielok rádioaktívneho materiálu, ktoré obsahujú jadrový materiál ..... | 1000 eur
 
-  - | 7. | za jeden urýchľovač častíc pre rádioterapiu ..... | 400 eur
+  - | 7. | prepravu zásielok rádioaktívneho materiálu, za jedno UN číslo ..... | 50 eur
 
-  - | 8. | za každý ďalší urýchľovač častíc pre rádioterapiu ..... | 150 eur
+  - | 8. | výrobu zdroja ionizujúceho žiarenia alebo výrobu ionizačných hlásičov požiaru ..... | 50 eur
 
-  - | 9. | za pracovisko so zvýšeným prírodným ionizujúcim žiarením ..... | 400 eur
+  - | 9. | nakladanie s opustenými žiaričmi, rádioaktívnym materiálom neznámeho pôvodu a zachyteným rádioaktívnym materiálom ..... | 50 eur
 
-  - | 10. | za iný zdroj ionizujúceho žiarenia ..... | 300 eur
+  - | 10. | nakladanie s rádioaktívnymi rezíduami ..... | 50 eur
 
-  - | 11. | za každý iný ďalší zdroj ionizujúceho žiarenia ..... | 100 eur
+  - | 11. | pridávanie rádionuklidov alebo rádioaktívnych látok do spotrebných výrobkov a predmetov, do liekov a zdravotníckych pomôcok, dovoz a vývoz takých výrobkov ..... | 50 eur
 
-  - | 12. | za každé jadrové zariadenie, za prepravu vyhoretého jadrového paliva ..... | 1 000 eur
+  - | 12. | vykonávanie skúšok zdrojov ionizujúceho žiarenia podľa § 28 ods. 2 písm. f), vykonávanie inštalácie, údržby a opráv zdrojov ionizujúceho žiarenia ..... | 50 eur
 
-  - | 13. | za pracovisko s otvorenými rádioaktívnymi žiaričmi I. a II. kategórie ..... | 400 eur
+  - | 13. | zber, zhromažďovanie, skladovanie a úpravu rádioaktívnych žiaričov vrátane ionizačných hlásičov požiaru na likvidáciu, prevádzkovanie pracoviska určeného na zhromažďovanie alebo skladovanie rádioaktívnych žiaričov vrátane prepravy v rámci pracoviska ..... | 50 eur
 
-  - | 14. | za povolenie prepravy iných rádioaktívnych žiaričov a iných prepráv rádioaktívnych látok ..... | 200 eur
+  - | 14. | používanie zdroja ionizujúceho žiarenia na nelekárske ožiarenie mimo zdravotníckeho zariadenia ..... | 50 eur
 
-  - t) | Vydanie povolenia na činnosti dôležité z hľadiska radiačnej ochrany ..... | |
+  - | 15. | monitorovanie ionizujúceho žiarenia na pracovisku alebo v jeho okolí na hodnotenie ožiarenia osôb .... | 50 eur
 
-  - | 1. | za jednu povoľovanú činnosť ..... | 300 eur
+  - | 16. | prevádzku urýchľovača častíc určeného na účel výskumu a vývoja, na technický účel alebo na výrobu rádionuklidov .... | 50 eur
 
-  - | 2. | za každú ďalšiu povoľovanú činnosť ..... | 150 eur
+  - | 17. | prevádzku generátora žiarenia alebo zariadenia, ktorého súčasťou je generátor žiarenia .... | 50 eur
 
-  - u) | Vydanie povolenia na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | | 300 eur
+  - | 18. | odber, skladovanie a používanie uzavretého žiariča alebo zariadenia, ktoré obsahuje uzavretý žiarič .... | 50 eur
 
-  - v) | Vydanie rozhodnutia Úradu verejného zdravotníctva Slovenskej republiky o tom, či sa na činnosť vzťahuje oznamovacia povinnosť alebo potreba povolenia ..... | | 300 eur
+  - | 19. | odber, skladovanie a používanie vysokoaktívneho žiariča alebo zariadenia, ktoré obsahuje vysokoaktívny žiarič alebo odber, skladovanie a používanie uzavretého žiariča na nedeštruktívne testovanie materiálu ... | 50 eur
 
-  - w) | Vyhotovenie duplikátu povolenia podľa písmen s) až u) a duplikátu rozhodnutia alebo záväzného stanoviska podľa písmen v) a z) ..... | | 10 eur
+  - | 20. | odber, skladovanie a používanie otvoreného žiariča ... | 50 eur
 
-  - x) | Vydanie potvrdenia Úradu verejného zdravotníctva Slovenskej republiky o zaevidovaní oznamovanej činnosti ..... | | 30 eur
+  - | 21. | odber, skladovanie a používanie uzavretého žiariča určeného na ožarovanie potravín, predmetov bežného používania a iných materiálov a surovín alebo na prevádzku iného stacionárneho ožarovača určeného na použitie v priemysle alebo na vedeckovýskumný účel ... | 50 eur
 
-  - y) | Zrušenie povolenia podľa písmen s) a t), ak držiteľ požiada o jeho zrušenie ..... | | 30 eur
+  - | 22. | používanie zdroja ionizujúceho žiarenia na dočasnom pracovisku ... | 50 eur
 
-  - z) | Vydanie rozhodnutia alebo záväzného stanoviska v oblasti radiačnej ochrany ..... | |
+  - | 23. | odber, skladovanie a používanie otvoreného žiariča na účely diagnostiky, liečby alebo výskumu na zvieratách vo veterinárnej medicíne ... | 50 eur
 
-  - | 1. | ktoré je v kompetencii výlučne Úradu verejného zdravotníctva Slovenskej republiky ..... | 200 eur
+  - | 24. | používanie zdroja ionizujúceho žiarenia na vykonávanie lekárskeho ožiarenia ... | 50 eur
 
-  - | 2. | ktoré je v kompetencii regionálneho úradu verejného zdravotníctva ..... | 100 eur
+  - | 25. | uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnosti vedúcej k ožiareniu spod administratívnej kontroly ... | 50 eur
 
-  - | 3. | týkajúceho sa jadrových zariadení ..... | 1 000 eur
+  - | 26. | zmiešavanie rádioaktívneho materiálu uvoľňovaného z pracoviska, kde sa nakladá s materiálom so zvýšeným obsahom prírodných rádionuklidov s nerádioaktívnym materiálom na opätovné použitie alebo recykláciu ... | 50 eur
 
-  - aa) | Zmena povolenia podľa písmen s) a t) z dôvodu | |
+  - | 27. | nakladanie s produktmi banskej činnosti, ktoré vznikli v súvislosti so získavaním rádioaktívneho nerastu a sú uložené na odvaloch a odkaliskách ... | 50 eur
 
-  - | 1. | zmeny odborného zástupcu, zmeny obchodného mena, právnej formy alebo sídla, ak ide o právnickú osobu, alebo zmeny obchodného mena alebo miesta podnikania, ak ide o fyzickú osobu – podnikateľa v povolení na činnosti vedúce k ožiareniu, na činnosti dôležité z hľadiska radiačnej ochrany alebo na uvoľňovanie rádioaktívnych látok a rádioaktívne kontaminovaných predmetov, ktoré vznikli alebo sa používali pri činnostiach vedúcich k ožiareniu vykonávaných na základe povolenia orgánu verejného zdravotníctva ..... | 30 eur
+  - | 28. | distribúciu, predaj a prenájom zdroja ionizujúceho žiarenia, na používanie ktorého je potrebné oznámenie, registrácia alebo povolenie ... | 50 eur
 
-  - | 2. | zmeny miesta vykonávania činnosti, typu alebo počtu používaných zdrojov ionizujúceho žiarenia alebo technologického zariadenia pracoviska dôležitého z hľadiska radiačnej ochrany za každý zdroj ionizujúceho žiarenia – poplatok sa vyberá podľa písmena s) bodov 2, 4, 5, 8, 9, 11, 13 a 14 |
+  - | 29. | dovoz zdroja ionizujúceho žiarenia z tretích krajín ... | 50 eur
 
-  - | 3. | zmeny podľa bodu 2, ak jej predchádzalo vydanie rozhodnutia podľa písmena z) ..... | 30 eur
+  - | 30. | poskytovanie služby dôležitej z hľadiska radiačnej ochrany ... | 50 eur
+
+  - t) | Zmena povolenia | |
+
+  - | 1. | podľa písmena s) prvého bodu až šiesteho bodu ..... | 1000 eur
+
+  - | 2. | podľa písmena s) siedmeho bodu až tridsiateho bodu ..... | 50 eur
+
+  - u) | Vydanie rozhodnutia o registrácii | |
+
+  - | 1. | činnosti vedúcej k ožiareniu alebo jeho zmena ... | 30 eur
+
+  - | 2. | služby dôležitej z hľadiska radiačnej ochrany alebo jeho zmena ... | 30 eur
+
+  - v) | Vydanie rozhodnutia ... | | 50 eur
+
+  - w) | Vydanie záväzného stanoviska | |
+
+  - | 1. | pre jadrové zariadenia z hľadiska radiačnej ochrany ... | 1000 eur
+
+  - | 2. | k optimalizačnej štúdii k uvoľňovaniu jadrových materiálov z jadrového zariadenia ... | 1000 eur
+
+  - | 3. | k optimalizačnej štúdii k uvoľňovaniu rádioaktívnych materiálov spod administratívnej kontroly ... | 50 eur
+
+  - | 4. | k projektu dobývania ložiska rádioaktívneho nerastu, ťažby a spracovania materiálov, ktoré obsahujú prírodné rádionuklidy ... | 50 eur
+
+  - | 5. | k optimalizačnej štúdii k uvoľňovaniu rádioaktívnych materiálov z pracoviska ... | 50 eur
+
+  - | 6. | k projektu skúšky technologického zariadenia ... | 50 eur
+
+  - x) | Vykonanie skúšky odbornej spôsobilosti v oblasti radiačnej ochrany a vykonanie opakovanej skúšky ... | | 30 eur
+
+  - y) | Vydanie osvedčenia o odbornej spôsobilosti v oblasti radiačnej ochrany, uznanie odbornej spôsobilosti ... | | 20 eur
+
+  - z) | Vydanie certifikátu experta na radiačnú ochranu ... | | 50 eur
+
+  - aa) | Vydanie duplikátu | |
+
+  - | 1. | povolenia podľa písmena s) ... | 10 eur
+
+  - | 2. | rozhodnutia podľa písmena u) a písmena v) ... | 10 eur
+
+  - | 3. | záväzného stanoviska podľa písmena w) ... | 10 eur
+
+  - | 4. | osvedčenia o odbornej spôsobilosti podľa písmena y) ... | 10 eur
+
+  - | 5. | certifikátu experta podľa písmena z) ... | 10 eur
 
   - ab) | oznámenie o zložení a označovaní výživových doplnkov alebo nových potravín, ktoré sa umiestňujú na trh .................... | | 50 eur
 
@@ -4996,11 +5042,15 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - b) | Rozhodnutie o autorizácii podľa osobitného predpisu,<sup>47ab</sup>) ak prílohu k žiadosti tvoria aspoň pre jeden technický predpis z oblasti posudzovania zhody výlučne dokumenty podľa osobitného predpisu<sup>47ad</sup>) | 5 000 eur
 
-    - c) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47ae</sup>) | 330 eur
+    - c) | Rozhodnutie o predĺžení autorizácie podľa osobitného predpisu<sup>47ae</sup>) | 330 eur
 
-    - d) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47af</sup>) | 33 eur
+    - d) | Rozhodnutie o zmene autorizácie podľa osobitného predpisu<sup>47af</sup>) | 33 eur
 
-    - e) | Rozhodnutie o autorizácii podľa osobitného predpisu<sup>47ag</sup>) | 330 eur
+    - e) | Rozhodnutie o zmene autorizácie podľa osobitného predpisu<sup>47ag</sup>) | 330 eur
+
+    - Poznámka
+
+    - Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2.
 
     - Položka 239
 

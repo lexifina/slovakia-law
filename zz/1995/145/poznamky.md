@@ -580,11 +580,11 @@
 
 - 47ad) § 11 ods. 3 písm. c) zákona č. 264/1999 Z. z.
 
-- 47ae) § 11 ods. 9 druhá veta zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+- 47ae) § 16 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
 
-- 47af) § 11 ods. 15 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+- 47af) § 15 ods. 1 písm. a) až d) zákona č. 56/2018 Z. z.
 
-- 47ag) § 11 ods. 16 zákona č. 264/1999 Z. z. v znení neskorších predpisov.
+- 47ag) § 15 ods. 1 písm. e) a f) zákona č. 56/2018 Z. z.
 
 - 47b) § 15 zákona č. 507/2001 Z. z. o poštových službách.
 
