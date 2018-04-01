@@ -357,3 +357,5 @@
 - 123) § 123aq zákona č. 43/2004 Z. z. v znení zákona č. 25/2015 Z. z.
 
 - 124) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+
+- 124a) § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti v znení neskorších predpisov, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 653/2007 Z. z.
