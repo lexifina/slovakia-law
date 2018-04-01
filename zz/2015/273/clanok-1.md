@@ -868,7 +868,11 @@ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov ve
 
 - (6)
 
-- Správca centrálneho registra elektronických plnomocenstiev sprístupní elektronické formuláre elektronických plnomocenstiev bezodplatne prostredníctvom modulu elektronických formulárov.“.
+- Správca centrálneho registra elektronických plnomocenstiev sprístupní elektronické formuláre elektronických plnomocenstiev bezodplatne prostredníctvom modulu elektronických formulárov.
+
+- (7)
+
+- Ak je elektronické plnomocenstvo uložené v centrálnom registri elektronických plnomocenstiev, orgán verejnej moci, ktorý koná vo veci, ktorej sa elektronické plnomocenstvo týka, je povinný získať informácie o rozsahu oprávnenia splnomocnenca z elektronického plnomocenstva a nie je oprávnený požadovať od splnomocniteľa alebo splnomocnenca preukázanie tohto oprávnenia, ak nemá odôvodnenú pochybnosť o jeho rozsahu alebo o tom, či oprávnenie trvá.“.
 
 - 56. V § 24 a 26 sa slová „úrad vlády“ vo všetkých tvaroch nahrádzajú slovami „správca modulu elektronických formulárov“ v príslušnom tvare.
 
