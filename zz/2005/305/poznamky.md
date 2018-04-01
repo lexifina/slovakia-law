@@ -1,5 +1,7 @@
 - 1) Dohovor o právach dieťaťa (oznámenie č. 104/1991 Zb.).
 
+- 1a) Napríklad Trestný poriadok, zákon Slovenskej národnej rady č. 564/1991 Zb. o obecnej polícii v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 308/1993 Z. z. o zriadení Slovenského národného strediska pre ľudské práva v znení neskorších predpisov, zákon č. 564/2001 Z. z. o verejnom ochrancovi práv v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 176/2015 Z. z. o komisárovi pre deti a komisárovi pre osoby so zdravotným postihnutím a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) Trestný zákon.
@@ -14,11 +16,11 @@
 
 - 6) § 103 zákona č. 36/2005 Z. z.
 
-- 7) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
+- 7) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov.
 
 - 8) Napríklad zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.
 
-- 9) Napríklad zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 36/2005 Z. z.
+- 9) Napríklad zákon č. 36/2005 Z. z. v znení neskorších predpisov, zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9a) § 179,180 a 367 Trestného zákona.
 
@@ -118,55 +120,45 @@
 
 - 38aa) § 45 ods. 4 a § 50 ods. 1 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
-- 38b) § 7 ods. 8 a § 10a zákona č. 576/2004 Z. z. v znení neskorších predpisov.
-
-- § 3 ods. 15 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
-
-- § 31 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
-- § 7a a 8 ods. 10 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-
 - 39) Zákon č. 36/2005 Z. z.
 
 - Civilný mimosporový poriadok.
 
-- 40) § 146 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+- 40) § 37 ods. 2 písm. d) zákona č. 36/2005 Z. z. v znení zákona č. 175/2005 Z. z.
 
-- 41) § 37 zákona č. 36/2005 Z. z.
+- 41) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
-- 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov.
+- 42) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 42a) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+- 43) Zákon č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
-- 43) Vyhláška Ministerstva školstva Slovenskej republiky č. 437/2009 Z. z., ktorou sa ustanovujú kvalifikačné predpoklady a osobitné kvalifikačné predpoklady pre jednotlivé kategórie pedagogických zamestnancov a odborných zamestnancov.
+- 44) § 101 a 102 zákona č. 36/2005 Z. z. v znení zákona č. 175/2015 Z. z.
 
-- 43a) Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov.
+- 45) Zákon Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
-- 44) §101 a 102 zákona č. 36/2005 Z. z.
+- 45a) Zákon č. 417/2013 Z. z. v znení neskorších predpisov.
 
-- 44a) § 62 zákona č. 36/2005 Z. z.
+- 45b) § 5 a 6 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
-- 44b) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
+- 45c) § 2 písm. a) zákona č. 601/2003 Z. z. v znení neskorších predpisov.
 
-- 44ba) § 5 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
+- 45d) § 10 ods. 2 písm. a) zákona č. 417/2013 Z. z.
 
-- 44c) Zákon č. 599/2003 Z. z. v znení neskorších predpisov.
+- 45e) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
-- 45) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
+- 45f) § 7 ods. 8 a § 10a zákona č. 576/2004 Z. z. v znení neskorších predpisov.
 
-- 45a) § 33 a 34 zákona č. 36/2005 Z. z.
+- § 3 ods. 15 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 45b) § 39 zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
+- § 31 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
-- 46) § 2 písm. a) zákona č. 601/2003 Z. z.
+- § 7a a 8 ods. 10 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 47) Zákon Národnej rady Slovenskej republiky č. 156/1993 Z. z. o výkone väzby v znení neskorších predpisov.
-
-- Zákon č. 59/1965 Zb. o výkone trestu odňatia slobody v znení neskorších predpisov.
+- 46) Zákon Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 48) Napríklad Dohovor o právomoci, rozhodnom práve, uznávaní a výkone a spolupráci v oblasti rodičovských práv a povinností a opatrení na ochranu dieťaťa (oznámenie č. 344/2002 Z. z.). Nariadenie Rady (ES) č. 2201/2003 z 27. novembra 2003 o súdnej právomoci a uznávaní a výkone rozsudkov v manželských veciach a vo veciach rodičovských práv a povinností, ktorým sa zrušuje nariadenie (ES) č. 1347/2000 (Ú. v. EÚ L 338, 23. 12. 2003) v znení jeho zmien a doplnkov nariadením rady (ES) č. 2116/2004 z 2. decembra 2004 (Ú. v. EÚ L 367, 14. 12. 2004).
 
-- 49) Zákon č. 523/2003 Z. z. o verejnom obstarávaní a o zmene zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
+- 49) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 49a) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
@@ -232,9 +224,9 @@
 
 - Zákon č. 502/2001 Z. z. o finančnej kontrole a vnútornom audite a o zmene a doplnení niektorých zákonov v znení zákona č. 618/2004 Z. z.
 
-- 73) § 12 ods. 2 až 4 a § 16 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
+- 73) § 2, § 17 až 19 nariadenia vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
-- 74) § 12 a 19 zákona č. 317/2009 Z. z.
+- 74) Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 74a) Napríklad § 25 a 45 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
@@ -245,8 +237,6 @@
 - 74d) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. v znení neskorších predpisov.
 
 - 74e) § 179b Občianskeho súdneho poriadku v znení zákona č. 175/2015 Z. z.
-
-- 74f) § 10 ods. 8 až 10 Trestného poriadku v znení neskorších predpisov.
 
 - 75) Zákon č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
