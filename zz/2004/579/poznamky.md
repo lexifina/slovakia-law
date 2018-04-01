@@ -36,6 +36,8 @@
 
 - 12aa) § 79 ods. 1 písm. zx) zákona č. 578/2004 Z. z. v znení zákona č. 428/2015 Z. z.
 
+- 12ab) § 29 ods. 1 písm. a) zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
+
 - 13) § 27 Občianskeho zákonníka.
 
 - 14) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
