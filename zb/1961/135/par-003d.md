@@ -4,7 +4,7 @@
 
 (2) Cesty II. triedy a III. triedy vrátane ich prejazdných úsekov cez obce sú vo vlastníctve samosprávneho kraja, ak osobitný predpis<sup>2a</sup>) neustanovuje inak. Prejazdné úseky ciest II. a III. triedy cez colné priestory sú vo vlastníctve štátu.
 
-(3) Miestne komunikácie sú vo vlastníctve obcí.
+(3) Miestne komunikácie sú vo vlastníctve obcí. Miestne komunikácie pre cestnú nemotorovú dopravu sú vo vlastníctve štátu, samosprávneho kraja, obce alebo iných právnických osôb alebo fyzických osôb.
 
 (4) Účelové komunikácie sú vo vlastníctve štátu<sup>2b</sup>) alebo iných právnických osôb alebo fyzických osôb.
 
