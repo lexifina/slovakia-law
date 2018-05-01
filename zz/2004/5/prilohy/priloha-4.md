@@ -31,3 +31,5 @@ Príloha č. 4 k zákonu č. 5/2004 Z. z.
   - 14. Smernica Európskeho parlamentu a Rady 2014/36/EÚ z 26. februára 2014 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účel zamestnania ako sezónni pracovníci (Ú. v. EÚ L 94, 28. 3. 2014).
 
   - 15. Smernica Európskeho parlamentu a Rady 2014/66/EÚ z 15. mája 2014 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín v rámci vnútropodnikového presunu (Ú. v. EÚ L 157, 27. 5. 2014).
+
+  - 16. Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016).

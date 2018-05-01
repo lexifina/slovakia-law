@@ -242,6 +242,18 @@ Príloha č. 1 k zákonu č. 5/2004 Z. z.
 
       - 4. percentuálna miera poklesu schopnosti vykonávania zárobkovej činnosti (len pri invalidnom dôchodku) uchádzača o zamestnanie,
 
+    - f) údaje na účely zistenia splnenia podmienok na poskytovanie príspevkov podľa tohto zákona, a to
+
+      - 1. meno a priezvisko zamestnanca,
+
+      - 2. identifikačné číslo sociálneho zabezpečenia zamestnanca,
+
+      - 3. dátum začatia a skončenia evidencie zamestnanca v registri poistencov a sporiteľov starobného dôchodkového sporenia,
+
+      - 4. názov a identifikačné číslo zamestnávateľa,
+
+      - 5. suma vymeriavacieho základu zamestnanca.
+
   - F. Ústav informácií a prognóz školstva poskytuje podľa § 67 ods. 8 ústrediu tieto osobné údaje o absolventoch stredných škôl a vysokých škôl:
 
     - a) rodné číslo žiaka alebo študenta,

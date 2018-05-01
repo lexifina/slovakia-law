@@ -10,9 +10,15 @@
 
 (5) Tuzemská právnická osoba alebo tuzemská fyzická osoba, ktorá uzatvorila zmluvu so zahraničnou právnickou osobou alebo so zahraničnou fyzickou osobou, na ktorej základe sú k nej vysielaní zamestnanci zahraničného zamestnávateľa vykonávať prácu na území Slovenskej republiky (ďalej len „informujúca organizácia“), je zodpovedná za pracovné podmienky a podmienky zamestnávania podľa osobitných predpisov.<sup>30</sup>)
 
-(6) Zamestnávateľ, ktorý zamestnáva občana členského štátu Európskej únie, jeho rodinných príslušníkov alebo štátneho príslušníka tretej krajiny podľa § 23a, poskytuje písomne úradu údaje na formulári, ktorého vzor určí ústredie, najneskôr do siedmich pracovných dní odo dňa nástupu do zamestnania a najneskôr do siedmich pracovných dní odo dňa skončenia zamestnania. Rovnakú povinnosť má aj informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 23a ods. 1 písm. l), m), w) až z), najneskôr do siedmich pracovných dní odo dňa vyslania štátneho príslušníka tretej krajiny a najneskôr do siedmich pracovných dní odo dňa skončenia vyslania štátneho príslušníka tretej krajiny.
+(6) Zamestnávateľ, ktorý zamestnáva občana členského štátu Európskej únie, jeho rodinných príslušníkov alebo štátneho príslušníka tretej krajiny podľa § 23a, poskytuje písomne úradu údaje na formulári, ktorého vzor určí ústredie, najneskôr do siedmich pracovných dní odo dňa nástupu do zamestnania a najneskôr do siedmich pracovných dní odo dňa skončenia zamestnania. Ak ide o zamestnávanie štátneho príslušníka tretej krajiny podľa § 23a ods. 1 písm. u), ktorý nepodlieha vízovej povinnosti podľa osobitného predpisu, prílohou k formuláru podľa prvej vety je aj doklad potvrdzujúci zabezpečenie ubytovania, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na obdobie zamestnania. Povinnosť podľa prvej vety má aj informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 23a ods. 1 písm. l), m), w) až z), najneskôr do siedmich pracovných dní odo dňa vyslania štátneho príslušníka tretej krajiny a najneskôr do siedmich pracovných dní odo dňa skončenia vyslania štátneho príslušníka tretej krajiny. Ak ide o štátneho príslušníka tretej krajiny podľa § 23a ods. 1 písm. w), prílohou k formuláru podľa prvej vety je aj
 
-(7) Informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 22 ods. 9 a 10, je povinná písomne informovať úrad o začiatku vyslania a o skončení vyslania štátneho príslušníka tretej krajiny do siedmich pracovných dní odo dňa vyslania a do siedmich pracovných dní odo dňa skončenia vyslania.
+- a) doklad potvrdzujúci zabezpečenie ubytovania, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na predpokladané obdobie vyslania, ak ide o štátneho príslušníka tretej krajiny, ktorý nepodlieha vízovej povinnosti podľa osobitného predpisu,
+
+- b) kópia osvedčenia o uplatniteľných právnych predpisoch,<sup>30aa</sup>) ak bolo poskytnuté,
+
+- c) kópia dokladu o pobyte na území členského štátu, v ktorom štátny príslušník tretej krajiny bežne pracuje, ak sa povolenie na pobyt vyžaduje podľa právnych predpisov štátu, z ktorého je vyslaný.
+
+(7) Informujúca organizácia, ku ktorej sú vysielaní štátni príslušníci tretej krajiny podľa § 22 ods. 10, je povinná písomne informovať úrad o začiatku vyslania a o skončení vyslania štátneho príslušníka tretej krajiny do siedmich pracovných dní odo dňa vyslania a do siedmich pracovných dní odo dňa skončenia vyslania.
 
 (8) Ak nedošlo k vyslaniu štátneho príslušníka tretej krajiny, ktorému bolo udelené povolenie na zamestnanie, informujúca organizácia je povinná o tom písomne informovať úrad do siedmich pracovných dní odo dňa, keď sa dozvedela, že k vyslaniu nedôjde.
 
@@ -24,4 +30,8 @@
 
 - a) bolo odňaté povolenie na zamestnanie na účel sezónneho zamestnania podľa § 23 ods. 2 písm. b) druhého bodu, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k odňatiu povolenia na zamestnanie nedošlo, alebo
 
-- b) bol zrušený prechodný pobyt na účel sezónneho zamestnania na základe zrušenia potvrdenia o možnosti obsadenia voľného pracovného miesta podľa § 21b ods. 8 druhej vety, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k zrušeniu prechodného pobytu nedošlo.
+- b) bol zrušený prechodný pobyt na účel sezónneho zamestnania na základe zrušenia potvrdenia o možnosti obsadenia voľného pracovného miesta podľa § 21b ods. 9 druhej vety, vyplatiť peňažnú náhradu v sume mzdy za obdobie, za ktoré by mu patrila, ak by k zrušeniu prechodného pobytu nedošlo.
+
+(12) Informujúca organizácia je povinná zabezpečiť štátnym príslušníkom tretej krajiny, ktorí sú k nej vyslaní podľa § 23a ods. 1 písm. w), ubytovanie, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na predpokladané obdobie vyslania. Zamestnávateľ je povinný zabezpečiť štátnemu príslušníkovi tretej krajiny, ktorého zamestnáva podľa § 23a ods. 1 písm. u), ubytovanie, ktoré spĺňa minimálne požiadavky podľa osobitného predpisu,<sup>23aa</sup>) najmenej na obdobie zamestnania.
+
+(13) Príslušný úrad pre splnenie informačnej povinnosti podľa odsekov 2, 3, 6 až 8 je úrad, v ktorého územnom obvode je miesto výkonu práce.

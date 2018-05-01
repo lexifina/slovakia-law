@@ -60,7 +60,7 @@
 
 - 18a) Zákon č. 82/2005 Z. z. v znení neskorších predpisov.
 
-- 18aa) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 18aa) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18b) § 7a ods. 1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
@@ -128,6 +128,8 @@
 
 - 23a) § 30 zákona č. 404/2011 Z. z.
 
+- 23aa) § 62 písm. f) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
+
 - 24) § 24 zákona č. 404/2011 Z. z.
 
 - 24a) § 26 zákona č. 404/2011 Z. z.
@@ -154,11 +156,11 @@
 
 - 28c) § 3 zákona č. 175/1999 Z. z. o niektorých opatreniach týkajúcich sa prípravy významných investícií a o doplnení niektorých zákonov v znení zákona č. 219/2013 Z. z.
 
-- 28d) § 58 ods. 2 písm. c) a § 59 ods. 1 zákona č. 404/2011 Z. z. v znení zákona č. 75/2013 Z. z.
+- 28d) § 58 ods. 1 písm. c) a § 59 ods. 1 zákona č. 404/2011 Z. z. v znení neskorších predpisov.
 
-- 28e) § 58 ods. 2 písm. b) zákona č. 404/2011 Z. z.
+- 28e) § 58 ods. 1 písm. b) zákona č. 404/2011 Z. z. v znení zákona č. 108/2018 Z. z.
 
-- 28f) § 58 ods. 3 zákona č. 404/2011 Z. z.
+- 28f) § 58 ods. 2 zákona č. 404/2011 Z. z. v znení zákona č. 108/2018 Z. z.
 
 - 28g) § 15 zákona č. 404/2011 Z. z.
 
@@ -174,6 +176,8 @@
 
 - 30a) Čl. 1 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) č. 492/2011 z 5. apríla 2011 o slobode pohybu pracovníkov v rámci Únie (Ú. v. EÚ L 141, 27. 5. 2011).
 
+- 30aa) Čl. 19 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 987/2009 zo 16. septembra 2009, ktorým sa stanovuje postup vykonávania nariadenia (ES) č. 883/2004 o koordinácii systémov sociálneho zabezpečenia (Ú. v. EÚ L 284, 30. 10. 2009) v platnom znení.
+
 - 31) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 32) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -185,6 +189,8 @@
 - 35a) § 5 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
+
+- 35da) § 12 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
 
 - 35e) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
 
@@ -256,6 +262,22 @@
 
 - 59ai) § 91 ods. 2 až 7, § 92 ods. 1 až 7 a § 93 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
+- 59b) § 2 ods. 5 zákona č. 112/2018 Z. z.
+
+- 59c) § 2 písm. n) zákona č. 595/2003 Z. z.
+
+- 59d) § 138 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 59e) § 2 ods. 6 a § 12 ods. 3 písm. b) a c) zákona č. 112/2018 Z. z.
+
+- 59f) § 2 ods. 5 písm. b) zákona č. 112/2018 Z. z.
+
+- 59g) Čl. 2 ods. 99 nariadenia (EÚ) č. 651/2014 v platnom znení.
+
+- 59h) § 2 ods. 5 písm. a) tretí bod a štvrtý bod zákona č. 112/2018 Z. z.
+
+- 59i) Čl. 34 ods. 2 a čl. 35 ods. 2 nariadenia (EÚ) č. 651/2014 v platnom znení.
+
 - 60) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
 
 - 60a) § 51 a 853 Občianskeho zákonníka.
@@ -273,6 +295,8 @@
 - 61a) Zákon č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 61aa) § 14 ods. 5 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení zákona č. 310/2016 Z. z.
+
+- 61aaa) § 36a, § 108 ods. 2 a § 117 ods. 1 zákona č. 343/2015 Z. z. v znení zákona č. 112/2018 Z. z.
 
 - 62) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení neskorších predpisov.
 

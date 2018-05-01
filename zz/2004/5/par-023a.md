@@ -12,13 +12,13 @@
 
   - 2. ktorý je rodinným príslušníkom držiteľa modrej karty,
 
-  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 6 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
+  - 3. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa § 21b ods. 7 písm. b) alebo písm. c) alebo podľa písmena ah) alebo
 
-  - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f) prvého bodu,
+  - 4. ktorý je rodinným príslušníkom štátneho príslušníka tretej krajiny podľa písmena f),
 
 - d) ktorý je rodinným príslušníkom občana členského štátu Európskej únie a ktorý má právo na pobyt na území Slovenskej republiky,
 
-- e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) okrem poslucháča jazykovej školy, a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
+- e) ktorý má udelený prechodný pobyt na účel štúdia, ak osobitný predpis neustanovuje inak,<sup>24</sup>) a výkon jeho práce nepresiahne u všetkých zamestnávateľov 10 hodín týždenne alebo 20 hodín týždenne, ak je študentom vysokej školy, alebo tomu zodpovedajúci počet dní alebo mesiacov za rok,
 
 - f) ktorý má udelený prechodný pobyt na účel výskumu a vývoja, ak osobitný predpis neustanovuje inak,<sup>24a</sup>) a
 
@@ -56,7 +56,7 @@
 
 - t) ktorý úspešne absolvoval štúdium na strednej škole alebo štúdium na vysokej škole na území Slovenskej republiky,
 
-- u) ktorý bude zamestnaný na určené obdobie na účel zvýšenia jeho kvalifikácie vo vykonávanom zamestnaní, najviac na jeden rok,
+- u) ktorý bude zamestnaný na určené obdobie na účel jeho zaškolenia, najviac na šesť po sebe nasledujúcich týždňov v kalendárnom roku, ak ide o výkon zamestnania s nedostatkom pracovnej sily v okrese podľa § 12 písm. ai), a ktorý má podanú žiadosť o udelenie prechodného pobytu na účel zamestnania na to isté pracovné miesto,
 
 - v) ktorý nedovŕšil 26 rokov veku a ktorý bude zamestnávaný príležitostnými a časovo obmedzenými prácami v rámci výmeny medzi školami alebo v rámci programov pre mládež alebo programov pre vzdelávanie, ktorých sa Slovenská republika zúčastňuje,
 
@@ -90,8 +90,14 @@
 
   - 2. ktorý sa podieľa na realizácii filmového projektu na území Slovenskej republiky,
 
-- ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>) od zamestnávateľa v členskom štáte Európskej únie v rámci vnútropodnikového presunu,
+- ah) ktorý u neho dočasne pôsobí na základe mobility<sup>28h</sup>)
 
-- ai) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku.
+  - 1. od zamestnávateľa v členskom štáte Európskej únie v rámci vnútropodnikového presunu alebo
+
+  - 2. ktorý vykonáva výskum a vývoj na základe dohody o hosťovaní alebo ktorého pedagogická činnosť nepresiahne celkovo 50 dní v kalendárnom roku,
+
+- ai) ktorého výkon práce u všetkých zamestnávateľov nepresiahne 20 hodín týždenne alebo tomu zodpovedajúci počet dní alebo mesiacov za rok, ak ide o študenta vysokej školy, ktorý sa na území Slovenskej republiky zdržiava na základe mobility,<sup>28h</sup>)
+
+- aj) ktorý pre centrum podnikových služieb<sup>28i</sup>) poskytuje odborné školenia, ak trvanie jeho pracovnoprávneho vzťahu s centrom podnikových služieb nepresiahne celkovo 90 dní v kalendárnom roku.
 
 (2) U štátneho príslušníka tretej krajiny podľa odseku 1 sa nevyžaduje potvrdenie o možnosti obsadenia voľného pracovného miesta, ktoré zodpovedá vysokokvalifikovanému zamestnaniu, potvrdenie o možnosti obsadenia voľného pracovného miesta a povolenie na zamestnanie.
