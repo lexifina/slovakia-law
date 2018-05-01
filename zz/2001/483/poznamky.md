@@ -660,6 +660,8 @@
 
 - 84a) § 4 ods. 5 písm. c) zákona č. 101/2010 Z. z. o preukazovaní pôvodu majetku.
 
+- 84b) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
+
 - 85) Napríklad § 5 a 6 zákona Slovenskej národnej rady č. 310/1992 Zb. v znení neskorších predpisov, § 2 písm. a), § 6, § 12 ods. 1, § 14 ods. 6 a § 16 ods. 6 zákona č. 126/2011 Z. z. o vykonávaní medzinárodných sankcií.
 
 - 86) Napríklad Dohovor Organizácie Spojených národov proti nedovolenému obchodu s omamnými a psychotropnými látkami (oznámenie č. 462/1991 Zb.), Dohovor o boji s podplácaním zahraničných verejných činiteľov v medzinárodných obchodných transakciách (oznámenie č. 318/1999 Z. z.), Dohovor o praní špinavých peňazí, vyhľadávaní, zhabaní a konfiškácii ziskov z trestnej činnosti (oznámenie č. 109/2002 Z. z.), Trestnoprávny dohovor o korupcii (oznámenie č. 375/2002 Z. z.), Medzinárodný dohovor o potláčaní financovania terorizmu (oznámenie č. 593/2002 Z. z.).
