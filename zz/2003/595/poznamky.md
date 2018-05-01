@@ -78,6 +78,30 @@
 
 - 24c) Vyhláška Štatistického úradu Slovenskej republiky č. 250/2017 Z. z., ktorou sa vydáva Program štátnych štatistických zisťovaní na roky 2018 až 2020.
 
+- 24d) § 118 ods. 4 písm. a) Zákonníka práce v znení zákona č. 63/2018 Z. z.
+
+- § 20 ods. 1 písm. f) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- 24e) § 130 ods. 2 Zákonníka práce v znení neskorších predpisov.
+
+- § 20 ods. 2 zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 5 zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 24f) § 134 Zákonníka práce v znení neskorších predpisov.
+
+- § 29 ods. 2 zákona č. 553/2003 Z. z. v znení neskorších predpisov.
+
+- § 160 ods. 2 zákona č. 55/2017 Z. z.
+
+- 24g) § 118 ods. 4 písm. b) Zákonníka práce v znení zákona č. 63/2018 Z. z.
+
+- § 20 ods. 1 písm. g) zákona č. 553/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 1 písm. h) zákona č. 55/2017 Z. z. v znení zákona č. 63/2018 Z. z.
+
 - 25) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 430/2003 Z. z., zákon Slovenskej národnej rady č. 10/1992 Zb. o súkromných veterinárnych lekároch a o Komore veterinárnych lekárov Slovenskej republiky v znení zákona č. 337/1998 Z. z., zákon č. 466/2002 Z. z. o audítoroch a Slovenskej komore audítorov, zákon Slovenskej národnej rady č. 78/1992 Zb. o daňových poradcoch a Slovenskej komore daňových poradcov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
