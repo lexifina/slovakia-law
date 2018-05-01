@@ -1,1 +1,1 @@
-Príloha č. 2 k zákonu č. 570/2005 Z. z. [Vzor 02](../assets/f53909b25fbb0ff8c85f4a6d696c1517ce17e24fe59090a347a6a53340fba51d.pdf)
+Príloha č. 2 k zákonu č. 570/2005 Z. z. [Vzor 02](../assets/0ec11678bc0510ffd3c745b150b22f8e0b14a1f9060735824015aee11168e1c0.pdf)

@@ -2,7 +2,7 @@
 
 (1) Evidenciu vojakov v aktívnych zálohách vedie vojenský útvar, pre ktorý je vojak v aktívnej zálohe pripravovaný.
 
-(2) Evidencia podľa odseku 1 obsahuje údaje uvedené v § 21 ods. 3 písm. a) až d), g) až o) a r).
+(2) Evidencia podľa odseku 1 obsahuje údaje uvedené v § 21 ods. 5 písm. a) až d), h) až p) a s).
 
 (3) Na zabezpečenie evidencie podľa odseku 1 vojenský útvar vedie
 

@@ -56,15 +56,21 @@
 
 - 22a) Zákon č. 365/2004 Z. z. o rovnakom zaobchádzaní v niektorých oblastiach a o ochrane pred diskrimináciou a o zmene a doplnení niektorých zákonov (antidiskriminačný zákon) v znení neskorších predpisov.
 
+- 22b) § 139 zákona č. 311/2001 Z. z. Zákonníka práce v znení neskorších predpisov.
+
 - 24) § 157 zákona č. 281/2015 Z. z.
 
-- 25) § 139 zákona č. 311/2001 Z. z. Zákonníka práce v znení zákona č. 210/2003 Z. z.
+- 25a) § 6 ods. 1 a 2 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 25b) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 26) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 
 - 26a) Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 26b) § 132 zákona č. 281/2015 Z. z.
+- 26b) § 132, § 138, §140 až 150 zákona č. 281/2015 Z. z. v znení zákona č. 125/2016 Z. z.
 
 - 26c) § 178 až 180, § 181 ods. 1 a 2, § 182 až 184, § 185 ods. 1 a 2, § 186 až 189, § 191 ods. 2 a § 192 až 198 Zákonníka práce.
 
@@ -110,19 +116,25 @@
 
 - 32) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
+- 32a) § 17 ods.1 písm. a) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
 - 33a) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 34) § 38 zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení zákona č. 732/2004 Z. z.
 
-- 34a) § 32 zákona č. 595/2003 Z. z.
-
 - 34aa) § 38 a 40 zákona č. 328/2002 Z. z. v znení neskorších predpisov.
+
+- 34aaa) Zákon č. 463/2003 Z. z. o vojnových veteránoch a o doplnení zákona č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení neskorších predpisov.
 
 - 34ab) Zákon č. 255/1946 Zb. o príslušníkoch československej armády v zahraničí a o niektorých iných účastníkoch národného boja za oslobodenie v znení zákona č. 101/1964 Zb.
 
 - 34ac) Zákon č. 119/1990 Zb. o súdnej rehabilitácii v znení neskorších predpisov.
 
 - Zákon č. 87/1991 Zb. o mimosúdnych rehabilitáciách v znení neskorších predpisov.
+
+- 34ad) § 5a zákona č. 105/2002 Z. z. o poskytnutí jednorazového finančného príspevku príslušníkom československých zahraničných alebo spojeneckých armád, ako aj domáceho odboja v rokoch 1939 – 1945 v znení zákona č. 439/2002 Z. z.
+
+- § 4 zákona č. 463/2003 Z. z.
 
 - 34b) § 10 zákona Národnej rady Slovenskej republiky č. 181/1995 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 

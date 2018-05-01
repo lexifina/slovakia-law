@@ -2,7 +2,7 @@
 
 (1) Vojak mimoriadnej služby môže byť mimoriadne vymenovaný alebo mimoriadne povýšený do vojenskej hodnosti o jeden stupeň vyššej, než akú dosiahol, ak významnou mierou prispel k plneniu služobných povinností alebo ak vykonal záslužný čin.
 
-(2) Vojaka mimoriadnej služby v hodnostnom zbore
+(2) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 ods. 1 písm. g) druhom bode alebo treťom bode v hodnostnom zbore
 
 - a) mužstva a poddôstojníkov povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
@@ -14,7 +14,7 @@
 
   - 3. brigádny generál až generál vymenúva alebo povyšuje prezident Slovenskej republiky.
 
-(3) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. g) štvrtom bode v hodnostnom zbore
+(3) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 ods. 1 písm. g) prvom bode alebo štvrtom bode v hodnostnom zbore
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 
@@ -24,7 +24,7 @@
 
   - 2. brigádny generál až generál, vymenúva alebo povyšuje prezident Slovenskej republiky.
 
-(4) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 písm. g) piatom bode v hodnostnom zbore
+(4) Vojaka mimoriadnej služby, ktorý vykonáva mimoriadnu službu vo vojenskom útvare uvedenom v § 2 ods. 1 písm. g) piatom bode v hodnostnom zbore
 
 - a) mužstva a poddôstojníkov, povyšuje veliteľ vojenského útvaru, v ktorom vykonáva mimoriadnu službu,
 

@@ -10,21 +10,27 @@
 
 - c) adresu trvalého pobytu a prechodného pobytu vojaka v aktívnej zálohe,
 
-- d) názov a sídlo vojenského útvaru, pre ktorý bude vojak v aktívnej zálohe pripravovaný,
+- d) kontaktné údaje a identifikačné údaje zamestnávateľa a číslo jeho účtu v banke alebo pobočke zahraničnej banky, ak ide o vojaka v aktívnej zálohe, ktorému patrí náhrada mzdy,<sup>22b</sup>)
 
-- e) názov funkcie, na ktorú bude vojak v aktívnej zálohe pripravovaný,
+- e) číslo účtu v banke alebo pobočke zahraničnej banky vojaka v aktívnej zálohe a jeho daňové identifikačné číslo, ak ide o vojaka v aktívnej zálohe, ktorému patrí náhrada príjmov z podnikania podľa § 14c ods. 2,
 
-- f) dobu, na ktorú sa uzatvára,
+- f) názov a sídlo vojenského útvaru, pre ktorý bude vojak v aktívnej zálohe pripravovaný,
 
-- g) odmeňovanie,
+- g) názov funkcie, na ktorú bude vojak v aktívnej zálohe pripravovaný,
 
-- h) naturálne náležitosti.
+- h) dobu, na ktorú sa uzatvára,
+
+- i) odmeňovanie,
+
+- j) naturálne náležitosti.
 
 (3) Veliteľ vojenského útvaru podľa odseku 1 môže dohodu o zaradení vypovedať, ak vojak v aktívnej zálohe
 
 - a) sa opakovane nezúčastní pravidelného cvičenia alebo plnenia úloh ozbrojených síl,
 
 - b) opakovane porušuje vojenskú disciplínu,
+
+- c) svojím konaním narušil vážnosť ozbrojených síl alebo ohrozil dôveru v ozbrojené sily.
 
 (4) Vojak v aktívnej zálohe môže dohodu o zaradení vypovedať aj bez uvedenia dôvodu.
 

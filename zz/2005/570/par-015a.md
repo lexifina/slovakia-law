@@ -2,9 +2,9 @@
 
 (1) Vojakovi mimoriadnej služby patrí vojenská hodnosť.<sup>29b</sup>) Vojenskou hodnosťou sa vyjadruje pripravenosť vojaka mimoriadnej služby na výkon funkcie, do ktorej má byť ustanovený.
 
-(2) Vojakovi mimoriadnej služby uvedenému v § 2 písm. e) prvom bode patrí vojenská hodnosť, ktorú dosiahol ku dňu nariadenia výkonu mimoriadnej služby.
+(2) Vojakovi mimoriadnej služby uvedenému v § 2 ods. 1 písm. e) prvom bode patrí vojenská hodnosť, ktorú dosiahol ku dňu nariadenia výkonu mimoriadnej služby.
 
-(3) Vojakovi mimoriadnej služby uvedenému v § 2 písm. e) druhom bode a treťom bode patrí vojenská hodnosť, ktorú dosiahol ku dňu zaradenia do záloh alebo do ktorej bol po zaradení do záloh vymenovaný alebo povýšený podľa tohto zákona alebo podľa predpisu upravujúceho vojnových veteránov.<sup>29c</sup>)
+(3) Vojakovi mimoriadnej služby uvedenému v § 2 ods. 1 písm. e) druhom bode a treťom bode patrí vojenská hodnosť, ktorú dosiahol ku dňu zaradenia do záloh alebo do ktorej bol po zaradení do záloh vymenovaný alebo povýšený podľa tohto zákona alebo podľa predpisu upravujúceho vojnových veteránov.<sup>29c</sup>)
 
 (4) Vojaka mimoriadnej služby bez vojenskej hodnosti po prezentácii vo vojenskom útvare veliteľ <sup>29d</sup>) vymenuje do vojenskej hodnosti vojak 1. stupňa a zaradí ho do základného výcviku.
 
