@@ -18,6 +18,8 @@
 
 - 8) § 2 ods. 3 zákona č. 576/2004 Z. z.
 
+- 8a) § 2a, § 6 ods. 13, § 8 ods. 10, § 19 ods. 7 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 10) § 6 ods. 1 písm. h) zákona č. 581/2004 Z. z.
 
 - 11) § 3 ods. 1 zákona č. 576/2004 Z. z. v znení zákona č. 428/2015 Z. z.
@@ -43,6 +45,10 @@
 - 11i) § 7a zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 11j) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 11k) § 2 ods. 33 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 11l) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 12) § 7 ods. 1 písm. b) a § 9 zákona č. 576/2004 Z. z.
 
