@@ -14,6 +14,20 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - Doterajší odkaz 1 sa označuje ako odkaz 1a a doterajšia poznámka pod čiarou k odkazu 1 sa označuje ako poznámka pod čiarou k odkazu 1a.
 
+- 2. § 17 sa dopĺňa odsekmi 5 a 6, ktoré znejú:
+
+- „(5)
+
+- Vnútroštátny správca potvrdzuje ročné overené emisie v tabuľke overených emisií v registri na základe údajov predložených podľa § 26 ods. 1 písm. n) a vkladá a potvrdzuje ročné overené emisie v tabuľke overených emisií v registri na základe údajov predložených podľa § 26 ods. 1 písm. t).
+
+- (6)
+
+- Ak vnútroštátny správca alebo overovateľ nevloží do tabuľky overených emisií v registri ročné overené emisie za predchádzajúci rok každoročne do 31. marca, prevod kvót z účtu prevádzkovateľa alebo prevádzkovateľa lietadla bude zablokovaný spôsobom ustanoveným v osobitnom predpise o zriadení registra Únie.<sup>13</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 13 znie:
+
+  - „<sup>13</sup>) Čl. 36 nariadenia (EÚ) č. 389/2013.“.
+
 - 3. V § 18 ods. 6 písm. a) sa slová „ods. 4“ nahrádzajú slovami „ods. 3“.
 
 - 4. V § 18 ods. 6 písm. b) sa slová „ods. 5“ nahrádzajú slovami „ods. 4“.
@@ -31,6 +45,12 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
   - „<sup>17</sup>) Čl. 3 ods. 3 až 5 rozhodnutia č. 406/2009/ES.
 
   - <sup>17a</sup>) § 4 ods. 1 písm. k), l), n), p), ae) a af) zákona č. 587/2004 Z. z. v znení neskorších predpisov.“.
+
+- 7. V § 21 ods. 1 písm. a) sa za slová „1. marca“ vkladajú slová „prostredníctvom elektronického systému vkladania vybraných údajov (ďalej len „elektronický systém“)“.
+
+- 8. V § 21 ods. 1 sa vypúšťa písmeno d).
+
+- 9. V § 21 ods. 4 písm. d) sa za slovo „každoročne“ vkladajú slová „prostredníctvom elektronického systému“.
 
 - 10. V § 24 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
 
@@ -60,6 +80,8 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
   - Doterajšie odseky 3 a 4 sa označujú ako odseky 4 a 5.
 
+- 11. V § 24 ods. 5 sa vypúšťajú slová „ods. 1 písm. a) a“ a vypúšťa sa posledná veta.
+
 - 12. V § 26 sa odsek 1 dopĺňa písmenami r) až t), ktoré znejú:
 
 - „r)
@@ -68,11 +90,25 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - s)
 
-- spravuje ročne pridelené emisné kvóty (AEA) a je oprávnené s nimi obchodovať podľa § 18 ods. 13,“.
+- spravuje ročne pridelené emisné kvóty (AEA) a je oprávnené s nimi obchodovať podľa § 18 ods. 13,
+
+- t)
+
+- predkladá každoročne do 31. marca vnútroštátnemu správcovi údaje o ročných emisiách z prevádzky podľa osobitného predpisu o zriadení registra Únie.<sup>25</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 25 znie:
+
+  - „<sup>25</sup>) Príloha IX nariadenia (EÚ) č. 389/2013.“.
 
 - 13. V § 26 sa vypúšťa odsek 2.
 
   - Doterajšie odseky 3 až 5 sa označujú ako odseky 2 až 4.
+
+- 14. V § 27 ods. 1 sa vypúšťa písmeno f).
+
+  - Doterajšie písmená g) až k) sa označujú ako písmená f) až j).
+
+- 15. V § 27 ods. 1 písm. i) sa za slovo „vykonáva“ vkladajú slová „prostredníctvom elektronického systému“.
 
 - 16. V § 27 sa odsek 1 dopĺňa písmenami k) až m), ktoré znejú:
 
@@ -82,7 +118,11 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - l)
 
-- posudzuje správnosť údajov, ktoré uvádza nový účastník schémy obchodovania v procese vydávania povolenia na vypúšťanie emisií skleníkových plynov, a vkladá do elektronického systému kópiu tohto povolenia podľa § 31 ods. 5,“.
+- posudzuje správnosť údajov, ktoré uvádza nový účastník schémy obchodovania v procese vydávania povolenia na vypúšťanie emisií skleníkových plynov, a vkladá do elektronického systému kópiu tohto povolenia podľa § 31 ods. 5,
+
+- m)
+
+- vkladá prevádzkovateľovi do elektronického systému kópiu potvrdenia o správnosti správy o emisiách skleníkových plynov z prevádzky podľa § 31 ods. 6.“.
 
 - 17. Za § 30 sa vkladá § 31, ktorý vrátane nadpisu znie:
 
@@ -142,7 +182,15 @@ Zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplne
 
 - (5)
 
-- Nový účastník schémy obchodovania, ktorý získa prístup do elektronického systému, vypracováva monitorovací plán v rozsahu podľa § 3 ods. 2 písm. f), ktorý priloží k žiadosti o vydanie povolenia na vypúšťanie emisií skleníkových plynov. Správnosť údajov, ktoré uvádza nový účastník schémy obchodovania, posudzuje okresný úrad v procese vydávania povolenia na vypúšťanie emisií skleníkových plynov podľa § 5. Okresný úrad vkladá do elektronického systému novému účastníkovi schémy obchodovania kópiu povolenia na vypúšťanie emisií skleníkových plynov.“.
+- Nový účastník schémy obchodovania, ktorý získa prístup do elektronického systému, vypracováva monitorovací plán v rozsahu podľa § 3 ods. 2 písm. f), ktorý priloží k žiadosti o vydanie povolenia na vypúšťanie emisií skleníkových plynov. Správnosť údajov, ktoré uvádza nový účastník schémy obchodovania, posudzuje okresný úrad v procese vydávania povolenia na vypúšťanie emisií skleníkových plynov podľa § 5. Okresný úrad vkladá do elektronického systému novému účastníkovi schémy obchodovania kópiu povolenia na vypúšťanie emisií skleníkových plynov.
+
+- (6)
+
+- Okresný úrad vkladá prevádzkovateľovi do elektronického systému každoročne do 31. marca kópiu potvrdenia o správnosti správy o emisiách skleníkových plynov z prevádzky. Ak prevádzkovateľ alebo dobrovoľný účastník schémy obchodovania nepredloží správu o emisiách skleníkových plynov z prevádzky v termíne podľa § 21 ods. 1 písm. a), okresný úrad vykoná konzervatívny odhad emisií.
+
+- (7)
+
+- Overovateľ vkladá do elektronického systému správu o overení podľa § 24 ods. 3 písm. b) a správu o overení úrovne činnosti častí prevádzky podľa § 24 ods. 3 písm. e).“.
 
 - 18. Za § 38a sa vkladá § 38b, ktorý vrátane nadpisu znie:
 
