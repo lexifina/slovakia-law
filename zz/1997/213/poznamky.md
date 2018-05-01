@@ -26,4 +26,10 @@
 
 - 12) Zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov.
 
+- 12a) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
+
+- 12b) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z.
+
+- 12c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 13) § 100b a 100c zákona č. 578/2004 Z. z. v znení zákona č. 8/2010 Z. z.
