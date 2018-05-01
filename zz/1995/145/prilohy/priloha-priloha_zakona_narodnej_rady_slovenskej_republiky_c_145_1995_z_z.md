@@ -602,13 +602,13 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - b) prvýkrát žiadajú o vydanie dokladu o pobyte ako cudzinci, ktorým bol udelený azyl, alebo cudzinci, ktorým bola poskytnutá doplnková ochrana.
 
-  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a), ods. 2 písm. a) a c) a ods. 3 zákona č. 404/2011 Z. z.
+  - 7. Od poplatkov podľa písmen i) a j) tejto položky sú oslobodené osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a c) a ods. 2 zákona č. 404/2011 Z. z.
 
-  - 8. Od poplatku podľa písmena l) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 2 písm. c) a ods. 3 zákona č. 404/2011 Z. z.
+  - 8. Od poplatku podľa písmena l) tejto položky sú oslobodené osoby, ktorým bol udelený tolerovaný pobyt podľa § 58 ods. 1 písm. c) a ods. 2 zákona č. 404/2011 Z. z.
 
   - 9. Od poplatkov podľa písmen l) až n) tejto položky sú oslobodené
 
-  - a) osoby, ktoré žiadajú o udelenie tolerovaného pobytu podľa § 58 ods. 1 písm. a) a ods. 2 písm. a) zákona č. 404/2011 Z. z.,
+  - a) osoby, ktoré majú udelený tolerovaný pobyt podľa § 58 ods. 1 písm. a) alebo ktoré zotrvávajú na území Slovenskej republiky podľa § 61a ods. 1 písm. a) zákona č. 404/2011 Z. z.,
 
   - b) osoby, ktorým má byť cudzinecký pas vydaný podľa § 74 ods. 2 písm. b) a c) zákona č. 404/2011 Z. z.,
 
