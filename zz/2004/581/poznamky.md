@@ -60,6 +60,10 @@
 
 - 16j) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 16k) § 2 ods. 33 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 16l) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 17) § 2 ods. 3 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
@@ -207,6 +211,10 @@
 - 35aad) § 9 a § 14 ods. 2 zákona č. 153/2013 Z. z. v znení zákona č. 77/2015 Z. z.
 
 - 35aae) § 81 ods. 1 písm. a) a g) zákona č. 578/2004 Z. z. v znení zákona č. 428/2015 Z. z.
+
+- 35aaf) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 35aag) § 79 ods. 1 písm. at) zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 35aah) § 38b zákona č. 577/2004 Z. z. v znení zákona č. 87/2018 Z. z.
 
