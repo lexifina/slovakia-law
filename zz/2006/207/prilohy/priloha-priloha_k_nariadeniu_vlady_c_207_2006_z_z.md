@@ -1,3 +1,0 @@
-Príloha k nariadeniu vlády č. 207/2006 Z. z.
-
-- ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV Smernica Rady 75/321/EHS z 20. mája 1975 o aproximácii zákonov členských štátov, týkajúca sa riadenia kolesových poľnohospodárskych alebo lesných traktorov (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 2.) v znení smernice Rady 82/890/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Komisie 88/411/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 9.), smernice Európskeho parlamentu a Rady 97/54/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 19.) a smernice Komisie 98/39/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 20.).
