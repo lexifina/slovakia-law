@@ -20,6 +20,10 @@
 
 - 7) Zákon č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 7a) § 23 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
+- 7b) § 5 ods. 2 zákona č. 112/2018 Z. z.
+
 - 8) § 3 zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení.
 
 - 9) § 134 Zákonníka práce.
