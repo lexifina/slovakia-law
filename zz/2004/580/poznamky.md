@@ -196,6 +196,8 @@
 
 - 50) § 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
+- 50a) § 5 ods. 7 písm. n) a o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
 - 51) Napríklad zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov, zákon č. 385/2000 Z. z. o sudcoch a prísediacich a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení neskorších predpisov, zákon č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov, zákon č. 346/2005 Z. z. v znení neskorších predpisov.
 
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
@@ -277,3 +279,17 @@
 - 64) § 7 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení zákona č. 77/2015 Z. z.
 
 - 65) § 11 zákona č. 153/2013 Z. z. v znení neskorších predpisov.
+
+- 66) § 118 ods. 4 písm. a) Zákonníka práce v znení zákona č. 63/2018 Z. z.
+
+- § 20 ods. 1 písm. f) zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- § 142 ods. 1 písm. g) zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 63/2018 Z. z.
+
+- 67) § 134 Zákonníka práce v znení neskorších predpisov.
+
+- § 29 ods. 2 zákona č. 553/2003 Z. z. v znení neskorších predpisov.
+
+- § 160 ods. 2 zákona č. 55/2017 Z. z.
+
+- 68) § 5 ods. 7 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
