@@ -46,9 +46,53 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
 
 - 6. V § 7 ods. 7 sa číslo „7“ nahrádza číslom „6“ a v odseku 8 sa číslo „6“ nahrádza číslom „5“.
 
+- 7. V § 8 ods. 3 sa na konci pripájajú tieto slová: „a limit na podiel výšky celkovej zadlženosti k príjmu“.
+
+- 8. V § 8 ods. 5 sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „tento limit možno prekročiť pri predĺžení lehoty splatnosti z dôvodu neočakávaných finančných ťažkostí spotrebiteľa, a to najviac o šesť mesiacov.“.
+
+- 9. V § 8 ods. 7 sa za slová „splácať úver“ vkladajú slová „a limit na podiel výšky celkovej zadlženosti k príjmu“.
+
+- 10. V § 8 ods. 9 úvodnej vete sa za slová „úver na bývanie“ vkladajú slová „a limitu na podiel výšky celkovej zadlženosti k príjmu“.
+
+- 11. V § 8 odsek 10 znie:
+
+- „(10)
+
+- Veriteľ je povinný na účely podľa odseku 3 použiť dostatočné, primerané a aktuálne informácie o príjmoch, nákladoch na zabezpečenie základných životných potrieb spotrebiteľa a osôb, voči ktorým má spotrebiteľ vyživovaciu povinnosť,<sup>23a</sup>) peňažných záväzkoch spotrebiteľa, výške celkovej zadlženosti a ďalšie informácie o finančnej a ekonomickej situácii spotrebiteľa. Informácie o príjmoch podľa prvej vety je potrebné dokladovať a overovať prostredníctvom interných zdrojov alebo externých zdrojov, ktoré sú nezávislé od spotrebiteľa. Veriteľ je povinný, bez súhlasu spotrebiteľa, len na splnenie účelu posúdenia schopnosti spotrebiteľa splácať úver na bývanie a na účely podľa odseku 3, elektronicky overiť informácie súvisiace s príjmom spotrebiteľa od Sociálnej poisťovne,<sup>23aa</sup>) a to prostredníctvom prevádzkovateľa registra. Veriteľ overuje len informácie súvisiace s príjmom spotrebiteľa, ktoré vopred získal od spotrebiteľa, u ktorého posudzuje schopnosť splácať úver na bývanie. Náklady na zabezpečenie základných životných potrieb spotrebiteľa a osôb, voči ktorým má spotrebiteľ vyživovaciu povinnosť,<sup>23a</sup>) je nevyhnutné posudzovať s ohľadom na životné minimum podľa osobitného predpisu<sup>23b</sup>) a na príjem spotrebiteľa.“.
+
+  - Poznámka pod čiarou k odkazu 23aa znie:
+
+  - „<sup>23aa</sup>) § 170 ods. 19 a 20 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 279/2017 Z. z.“.
+
+- 12. V § 8 ods. 11 sa za slová „pri posudzovaní príjmu spotrebiteľa“ vkladajú slová „na účely výpočtu ukazovateľa schopnosti spotrebiteľa splácať úver na bývanie“.
+
+- 13. V § 8 sa odsek 16 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- limite na podiel výšky celkovej zadlženosti k príjmu, výške tohto limitu a metodiku na výpočet tohto podielu.“.
+
+- 14. V § 8 ods. 23 sa číslo „30“ nahrádza číslom „31“.
+
+- 15. V § 8 sa za odsek 24 vkladá nový odsek 25, ktorý znie:
+
+- „(25)
+
+- Prevádzkovateľ registra je povinný v súčinnosti so Sociálnou poisťovňou zabezpečiť elektronické overovanie informácií súvisiacich s príjmom spotrebiteľa veriteľom.<sup>23aa</sup>)“.
+
+  - Doterajšie odseky 25 až 36 sa označujú ako odseky 26 až 37.
+
+- 16. V § 8 ods. 28 a 29 sa za slovo „podľa“ vkladajú slová „odseku 10,“.
+
+- 17. V § 8 ods. 33 úvodnej vete sa slová „33 a 35“ nahrádzajú slovami „34 a 36“ a číslo „31“ sa nahrádza číslom „32“.
+
 - 18. V § 8 ods. 34 sa vypúšťa písmeno e).
 
   - Doterajšie písmeno f) sa označuje ako písmeno e).
+
+- 19. V § 8 ods. 34 až 37 sa číslo „32“ nahrádza číslom „33“.
+
+- 20. V § 13 ods. 8 sa slová „alebo ktoré“ nahrádzajú slovami „a ktoré“.
 
 - 21. § 13 sa dopĺňa odsekom 19, ktorý znie:
 
@@ -69,6 +113,8 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
   - Poznámka pod čiarou k odkazu 43a znie:
 
   - „<sup>43a</sup>) § 137 ods. c) a d) Civilného sporového poriadku.“.
+
+- 23. V § 21 ods. 4 a § 22 ods. 4 sa číslo „27“ nahrádza číslom „28“.
 
 - 24. Za § 26 sa vkladá § 26a, ktorý znie:
 
@@ -106,4 +152,4 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
 
 - k zákonu č. 90/2016 Z. z.
 
-- [Vzor](assets/9987c66677267797ce900a5f0699d32c2f71763698048ce3846e33af6c7a95ff.pdf)“.
+- [Vzor](assets/3328a113f117d7c079e1461cb6f1913ae32a5fa593bdac78a4e834257fb8a7f0.pdf)“.
