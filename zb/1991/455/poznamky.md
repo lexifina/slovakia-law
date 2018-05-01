@@ -4,6 +4,8 @@
 
 - § 1 ods. 1 dekrétu prezidenta republiky č. 50/1945 Zb. o opatreniach v oblasti filmu.
 
+- 1a) § 5 ods. 2 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
 - 2) Zákon č. 527/1990 Zb. o vynálezoch, priemyselných vzoroch a zlepšovacích návrhoch.
 
 - Zákon č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení zákona č. 89/1990 Zb. (úplné znenie č. 247/1990 Zb.)
