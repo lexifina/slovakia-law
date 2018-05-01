@@ -250,6 +250,18 @@
 
 - 93ada) § 24 ods. 3 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
+- 93adb) § 2 písm. a) zákona č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a pôžičkách pre spotrebiteľov a o zmene a doplnení niektorých zákonov v znení zákona č. 394/2011 Z. z.
+
+- 93adc) § 20 ods. 1 písm. a) zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+
+- § 2 ods. 1 písm. a) zákona č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
+
+- 93add) § 2 ods. 1, 7 a 8 zákona č. 483/2001 Z. z. o bankách v znení neskorších predpisov.
+
+- 93ade) § 7 zákona č. 129/2010 Z. z. v znení neskorších predpisov.
+
+- § 8 zákona č. 90/2016 Z. z. v znení zákona č. 299/2016 Z. z.
+
 - 94) § 44 zákona č. 43/2004 Z. z. v znení zákona č. 183/2014 Z. z.
 
 - 95a) § 139 a 140a zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov v znení zákona č. 252/2012 Z. z.
@@ -359,3 +371,7 @@
 - 124) § 35 zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
 
 - 124a) § 7 ods. 4 písm. a) zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti v znení neskorších predpisov, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 653/2007 Z. z.
+
+- 125) § 5 ods. 7 písm. n) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
+
+- 126) § 5 ods. 7 písm. o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
