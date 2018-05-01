@@ -16,7 +16,11 @@
 
 - 6) Zákon č. 563/1991 Zb. o účtovníctve v znení neskorších predpisov.
 
-- 6a) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+- 6a) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
+
+- 6b) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z.
+
+- 6c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 7) Napríklad zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe, zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení zákona č. 150/2001 Z. z.
 
