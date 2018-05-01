@@ -70,6 +70,8 @@
 
 - 19f) Napríklad § 140 Občianskeho zákonníka.
 
+- 19fa) § 17 ods. 1 písm. f) zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
 - 19g) Napríklad zákon Slovenskej národnej rady č. 189/1992 Zb. o úprave niektorých pomerov súvisiacich s nájmom bytov a s bytovými náhradami v znení neskorších predpisov.
 
 - 19ga) § 3 ods. 1 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
