@@ -86,6 +86,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - ak ide o poskytovateľa ústavnej zdravotnej starostlivosti, ktorý poskytuje urgentnú zdravotnú starostlivosť na urgentnom príjme 1. typu alebo na urgentnom príjme 2. typu,“.
 
+- 7. V § 79 ods. 1 písmeno za) znie:
+
+- „za)
+
+- ak ide o zdravotnícke zariadenie, v ktorom sa poskytuje ambulantná zdravotná starostlivosť, umiestniť na viditeľnom mieste ordinačné hodiny schválené a potvrdené samosprávnym krajom a doplnkové ordinačné hodiny schválené a potvrdené samosprávnym krajom, ak sú určené, a označiť doplnkové ordinačné hodiny nápisom „DOPLNKOVÉ ORDINAČNÉ HODINY“ a schválené ordinačné hodiny a doplnkové ordinačné hodiny dodržiavať; povinnosť dodržiavať doplnkové ordinačné hodiny neplatí v čase, v ktorom poskytovateľ nemá objednaných pacientov,“.
+
 - 8. V § 79 ods. 1 písmeno zg) znie:
 
 - „zg)
@@ -106,6 +112,34 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 10. V § 79 ods. 1 písm. zj) sa slová „psychiatria, klinická psychológia, poradenská psychológia alebo pracovná a organizačná psychológia“ nahrádzajú slovami „psychiatria alebo v špecializačnom odbore klinická psychológia“.
 
+- 11. V § 79 ods. 1 písm. ap) sa za slová „35 ordinačných hodín<sup>55jat</sup>)“ vkladajú slová „bez doplnkových ordinačných hodín<sup>55jata</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 55jata znie:
+
+  - „<sup>55jata</sup>) § 2 ods. 33 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
+
+- 12. V § 79 sa odsek 1 dopĺňa písmenami at) až aw), ktoré znejú:
+
+- „at)
+
+- umožniť pacientom, ak má určené doplnkové ordinačné hodiny, objednanie sa na vyšetrenie počas doplnkových ordinačných hodín prostredníctvom národného informačného systému na objednávanie osôb prevádzkovaného národným centrom zdravotníckych informácií alebo informačného systému na objednávanie osôb, ktorý má overenie zhody,<sup>55e</sup>)
+
+- au)
+
+- poskytnúť pacientovi zdravotnú starostlivosť počas doplnkových ordinačných hodín najneskôr do 20 dní od objednania sa pacienta prostredníctvom informačného systému na objednávanie osôb prevádzkovaného národným centrom zdravotníckych informácií alebo informačného systému na objednávanie osôb, ktorý má overenie zhody,<sup>55e</sup>) ak ide o poskytovateľa, ktorý má určené doplnkové ordinačné hodiny,
+
+- av)
+
+- poskytnúť pacientovi zdravotnú starostlivosť na základe odporúčania všeobecného lekára počas ordinačných hodín najneskôr do 20 dní od objednania sa prostredníctvom informačného systému na objednávanie osôb prevádzkovaného národným centrom zdravotníckych informácií alebo informačného systému na objednávanie osôb, ktorý má overenie zhody,<sup>55e</sup>) ak ide o poskytovateľa špecializovanej ambulantnej starostlivosti, ktorý má určené doplnkové ordinačné hodiny,
+
+- aw)
+
+- do 20. dňa kalendárneho mesiaca oznamovať v elektronickej podobe zdravotnej poisťovni poistenca, ktorému bola poskytnutá zdravotná starostlivosť v predchádzajúcom mesiaci počas doplnkových ordinačných hodín alebo v rámci domácej starostlivosti na žiadosť osoby podľa osobitného predpisu,<sup>55jaw</sup>) informáciu o tomto poistencovi v rozsahu meno, priezvisko a rodné číslo, ak ho má poistenec pridelené, alebo bezvýznamové identifikačné číslo, alebo osobné identifikačné číslo poistenca iného členského štátu s bydliskom v Slovenskej republike a výkonoch, ktoré mu boli poskytnuté za predchádzajúci kalendárny mesiac.“.
+
+  - Poznámka pod čiarou k odkazu 55jaw znie:
+
+  - „<sup>55jaw</sup>) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
+
 - 14. § 79b sa dopĺňa odsekom 7, ktorý znie:
 
 - „(7)
@@ -118,7 +152,51 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 16. V § 81 ods. 1 písm. a) sa za slová „okrem § 79 ods. 1 písm. g),“ vkladá slovo „w),“.
 
+- 17. V § 81 ods. 1 písm. g) sa slovo „a“ za slovami „ah), an)“ nahrádza čiarkou a slová „a ap).“ sa nahrádzajú slovami „ap), as) až av).“.
+
 - 18. V § 82 ods. 1 písm. a) sa vypúšťa slovo „w),“.
+
+- 19. V § 82 ods. 10 sa slová „§ 79 ods. 1 písm. ah) a an)“ nahrádzajú slovami „§ 79 ods. 1 písm. ah), an), as) až av)“.
+
+- 20. V § 82 sa odsek 13 dopĺňa písmenom c), ktoré znie:
+
+- „c)
+
+- odseku 14 a 15 poskytovateľovi, ak mu bola za porušenie týchto povinností počas predchádzajúcich dvanástich mesiacov viac ako dva razy právoplatne uložená pokuta.“.
+
+- 21. V § 82 sa za odsek 13 vkladajú nové odseky 14 a 15, ktoré znejú:
+
+- „(14)
+
+- Samosprávny kraj príslušný podľa miesta prevádzkovania zdravotníckeho zariadenia poskytovateľa uloží pokutu až do výšky 2 000 eur tomu, kto
+
+- a)
+
+- prekročí počtom osôb vyšetrených počas doplnkových ordinačných hodín 30 % z celkového počtu vyšetrených osôb v predchádzajúcom kalendárnom mesiaci podľa osobitného predpisu,<sup>66</sup>)
+
+- b)
+
+- poruší povinnosť umožniť objednanie pacientov na vyšetrenie počas doplnkových ordinačných hodín prostredníctvom informačného systému na objednávanie osôb podľa
+
+- § 79 ods. 1 písm. as),
+
+- c)
+
+- poruší povinnosť poskytnúť zdravotnú starostlivosť počas doplnkových ordinačných hodín najneskôr do 20 dní po objednaní sa pacienta prostredníctvom informačného systému na objednávanie osôb podľa § 79 ods. 1 písm. at),
+
+- d)
+
+- poruší povinnosť poskytnúť zdravotnú starostlivosť na základe odporúčania všeobecného lekára počas ordinačných hodín najneskôr do 20 dní po objednaní sa prostredníctvom informačného systému na objednávanie osôb podľa § 79 ods. 1 písm. au).
+
+- (15)
+
+- Ministerstvo zdravotníctva alebo samosprávny kraj príslušný podľa miesta prevádzkovania zdravotníckeho zariadenia poskytovateľa uloží pokutu až do výšky trojnásobku priemerného mesačného príjmu poskytovateľa finančných prostriedkov od zdravotných poisťovní za posledné tri kalendárne mesiace, najmenej však 1 000 eur tomu, kto prijme od osoby úhradu za zdravotnú starostlivosť poskytovanú počas doplnkových ordinačných hodín a súčasne takúto zdravotnú starostlivosť vykáže zdravotnej poisťovni na úhradu.“.
+
+  - Doterajší odsek 14 sa označuje ako odsek 16.
+
+  - Poznámka pod čiarou k odkazu 66 znie:
+
+  - „<sup>66</sup>) § 2a ods. 1 písm. b) zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
 
 - 22. § 82 sa dopĺňa odsekom 17, ktorý znie:
 

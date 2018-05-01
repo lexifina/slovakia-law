@@ -12,7 +12,11 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
 
 - uhrádza poskytovateľovi zdravotnej starostlivosti, s ktorým má uzatvorenú zmluvu podľa
 
-- § 7b, mesačne paušálnu úhradu podľa § 8 ods. 9,“.
+- § 7b, mesačne paušálnu úhradu podľa § 8 ods. 9,
+
+- aa)
+
+- uhrádza poskytovateľovi zdravotnej starostlivosti humánne lieky, zdravotnícke pomôcky, dietetické potraviny a zdravotné výkony poskytnuté zariadením spoločných zložiek, ktoré lekár predpísal alebo indikoval pri poskytovaní zdravotnej starostlivosti počas doplnkových ordinačných hodín<sup>16k</sup>) alebo počas poskytovania domácej starostlivosti na žiadosť osoby.<sup>16l</sup>)“.
 
   - Poznámky pod čiarou k odkazom 16k a 16l znejú:
 
@@ -21,6 +25,12 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
   - <sup>16l</sup>) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
 
 - 3. V § 6 ods. 4 písm. h), § 9 ods. 1 a 11, § 18 ods. 1 písm. c) úvodnej vete, § 20 ods. 1 písm. d) a písm. e) desiatom bode, § 47a, § 50 ods. 4, § 64 ods. 4, § 76 ods. 5 písm. a) siedmom bode a písm. b) treťom bode sa slová „zariadenia sociálnych služieb<sup>14a</sup>) a zariadenia sociálnoprávnej ochrany detí a sociálnej kurately<sup>14b</sup>)“ v príslušnom tvare nahrádzajú slovami „zariadenie sociálnej pomoci“ v príslušnom tvare.
+
+- 4. V § 7 sa odsek 9 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- dohodu o úhrade humánnych liekov, zdravotníckych pomôcok, dietetických potravín a zdravotných výkonov poskytnutých zariadením spoločných zložiek, ktoré lekár predpísal alebo indikoval pri poskytovaní zdravotnej starostlivosti počas doplnkových ordinačných hodín<sup>16k</sup>) alebo počas poskytovania domácej starostlivosti na žiadosť osoby,<sup>16l</sup>) ak ide o poskytovateľa zdravotnej starostlivosti, ktorý poskytuje zdravotnú starostlivosť v doplnkových ordinačných hodinách<sup>16k</sup>) alebo ktorý poskytuje domácu zdravotnú starostlivosť na žiadosť osoby.<sup>16l</sup>)“.
 
 - 5. V § 7 odsek 20 znie:
 
@@ -155,6 +165,18 @@ Z. z., zákona č. 538/2005 Z. z., zákona č. 660/2005 Z. z., zákona č. 25/20
   - Poznámka pod čiarou k odkazu 27aaa znie:
 
   - „<sup>27aaa</sup>) § 2 ods. 27 a § 9a ods. 1 písm. a) zákona č. 576/2004 Z. z. v znení neskorších predpisov.“.
+
+- 11. V § 15 sa odsek 1 dopĺňa písmenom ad), ktoré znie:
+
+- „ad)
+
+- poskytovať samosprávnemu kraju na vyžiadanie informácie o poistencovi v rozsahu meno, priezvisko a rodné číslo, ak ho má poistenec pridelené, alebo bezvýznamové identifikačné číslo, alebo osobné identifikačné číslo poistenca iného členského štátu s bydliskom v Slovenskej republike a výkonoch, ktoré mu boli poskytnuté za predchádzajúci kalendárny mesiac počas doplnkových ordinačných hodín a počas poskytovania domácej starostlivosti na žiadosť osoby podľa osobitného predpisu,<sup>35aaf</sup>) ktoré jej oznámil poskytovateľ podľa osobitného predpisu.<sup>35aag</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 35aaf a 35aag znejú:
+
+  - „<sup>35aaf</sup>) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
+  - <sup>35aag</sup>) § 79 ods. 1 písm. at) zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
 
 - 12. V § 18 ods. 1 písm. b) úvodnej vete sa slová „(§ 50 ods. 2, 3 a 7)“ nahrádzajú slovami „(§ 50 ods. 2, 3 a 10)“.
 

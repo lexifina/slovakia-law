@@ -4,6 +4,86 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 1. V § 2 ods. 27 sa slová „neodkladná starostlivosť“ nahrádzajú slovami „zdravotná starostlivosť nepresahujúca 24 hodín“.
 
+- 2. § 2 sa dopĺňa odsekom 33, ktorý znie:
+
+- „(33)
+
+- Doplnkové ordinačné hodiny sú nepretržitý časový úsek, ktorý si môže určiť nad rámec ordinačných hodín za podmienok podľa § 2a poskytovateľ, ktorý má uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti so zdravotnou poisťovňou<sup>2b</sup>) a v ktorom poskytuje ambulantnú starostlivosť za podmienok podľa § 2a osobám, ktoré sú poistencami tejto zdravotnej poisťovne a sú objednané na vyšetrenie prostredníctvom informačného systému na objednávanie osôb.“.
+
+  - Poznámka pod čiarou k odkazu 2b znie:
+
+  - „<sup>2b</sup>) § 7 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
+- 3. Za § 2 sa vkladá § 2a, ktorý vrátane nadpisu znie:
+
+- „§ 2a
+
+- Doplnkové ordinačné hodiny
+
+- (1)
+
+- Doplnkové ordinačné hodiny musia byť určené tak, aby
+
+- a)
+
+- ich rozsah za kalendárny týždeň nepresiahol 30 % schválených ordinačných hodín v kalendárnom týždni,
+
+- b)
+
+- počet osôb vyšetrených počas doplnkových ordinačných hodín v kalendárnom mesiaci nepresiahol 30 % z celkového počtu osôb vyšetrených v predchádzajúcom kalendárnom mesiaci,
+
+- c)
+
+- v pracovný deň
+
+- 1.
+
+- začínali najskôr od 13. hodiny a trvali nepretržite až do konca pracovnej doby, alebo
+
+- 2.
+
+- začínali kedykoľvek, ak v tento deň nie sú určené ordinačné hodiny a nejde o poskytovateľa všeobecnej ambulantnej starostlivosti.
+
+- (2)
+
+- Zdravotná starostlivosť počas doplnkových ordinačných hodín sa poskytuje osobe najneskôr do 20 dní po objednaní sa prostredníctvom informačného systému na objednávanie osôb prevádzkovaného národným centrom zdravotníckych informácií alebo informačného systému na objednávanie osôb, ktorý má overenie zhody,<sup>2c</sup>) pričom takéto objednanie sa osoby sa považuje za preukázateľný súhlas tejto osoby s podmienkami úhrady zdravotnej starostlivosti poskytovanej počas doplnkových ordinačných hodín uhrádzanej podľa odseku 3.
+
+- (3)
+
+- Zdravotnú starostlivosť poskytovanú počas doplnkových ordinačných hodín uhrádza osoba podľa cenníka všetkých zdravotných výkonov, ktoré poskytuje poskytovateľ. Úhrada osoby za poskytnutú zdravotnú starostlivosť počas doplnkových ordinačných hodín za jednu návštevu nemôže presiahnuť 30 eur.
+
+- (4)
+
+- Doplnkové ordinačné hodiny nemožno určiť, ak
+
+- a)
+
+- rozsah ordinačných hodín bez doplnkových ordinačných hodín je za týždeň menší ako 30 hodín,
+
+- b)
+
+- ide o ambulantnú pohotovostnú službu,
+
+- c)
+
+- ide o poskytovanie zubnolekárskej zdravotnej starostlivosti,
+
+- d)
+
+- poskytovateľ ambulantnej zdravotnej starostlivosti nie je registrovaný v informačnom systéme na objednávanie osôb prevádzkovanom národným centrom zdravotníckych informácií.
+
+- (5)
+
+- Na vyšetrenie v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť objednaná a v doplnkových ordinačných hodinách poskytovateľa všeobecnej ambulantnej starostlivosti môže byť vyšetrená len osoba, ktorá má s týmto poskytovateľom uzatvorenú dohodu o poskytovaní všeobecnej ambulantnej starostlivosti podľa § 12 ods. 7.
+
+- (6)
+
+- Poskytovateľ zdravotnej starostlivosti, ktorý má určené doplnkové ordinačné hodiny, musí spolu s ordinačnými hodinami umiestniť na viditeľnom mieste aj nápis „DOPLNKOVÉ ORDINAČNÉ HODINY“ pre doplnkové ordinačné hodiny.“.
+
+  - Poznámka pod čiarou k odkazu 2c znie:
+
+  - „<sup>2c</sup>) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
+
 - 4. V § 4 ods. 3 druhej vete sa na konci pripájajú tieto slová: „a v súlade so štandardnými postupmi na výkon prevencie, štandardnými diagnostickými postupmi a štandardnými terapeutickými postupmi pri zohľadnení individuálneho stavu pacienta“.
 
 - 5. V § 4 ods. 6 sa za slová „a sociálnej kurately<sup>4ab</sup>)“ vkladajú slová „(ďalej len „zariadenie sociálnej pomoci“)“ a slová „so štandardnými ošetrovateľskými postupmi“ sa nahrádzajú slovami „v súlade so štandardnými postupmi na výkon prevencie, štandardnými diagnostickými postupmi a štandardnými terapeutickými postupmi“.
@@ -24,6 +104,12 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 10. V § 8 ods. 5 úvodnej vete sa za slová „všeobecného lekára“ vkladajú slová „alebo elektronický záznam o odporúčaní lekára na špecializovanú ambulantnú starostlivosť“.
 
+- 11. V § 8 sa odsek 5 dopĺňa písmenom f), ktoré znie:
+
+- „f)
+
+- na poskytnutie špecializovanej ambulantnej starostlivosti v doplnkových ordinačných hodinách alebo v rámci domácej starostlivosti na žiadosť osoby podľa § 8 ods. 10.“.
+
 - 12. V § 8 ods. 6 sa na konci pripájajú tieto vety:
 
 - „Rovnako je ošetrujúci lekár povinný bezodkladne vytvoriť elektronický záznam o poskytnutej ambulantnej starostlivosti v elektronickej zdravotnej knižke.<sup>8b</sup>) Na základe dohody s pacientom ošetrujúci lekár po vytvorení záznamu o poskytnutej ambulantnej starostlivosti správu o poskytnutej zdravotnej starostlivosti v listinnej podobe nevyhotoví; o tejto možnosti je ošetrujúci lekár povinný informovať pacienta.“.
@@ -39,6 +125,8 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - 15. § 8 sa dopĺňa odsekmi 9 a 10, ktoré znejú:
 
 - „(9) Výsledok vyšetrenia spoločných vyšetrovacích a liečebných zložiek sa poskytuje prostredníctvom elektronického záznamu o výsledku vyšetrenia spoločných vyšetrovacích a liečebných zložiek.<sup>8c</sup>) Na základe dohody poskytovateľov sa výsledok vyšetrenia spoločných vyšetrovacích a liečebných zložiek v listinnej podobe nevyhotoví.
+
+- (10) Poskytovateľ ambulantnej starostlivosti môže na žiadosť osoby poskytovať domácu starostlivosť mimo ordinačných hodín, ktorú osoba uhrádza podľa cenníka všetkých zdravotných výkonov.“.
 
   - Poznámka pod čiarou k odkazu 8c znie:
 
@@ -178,6 +266,12 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 21. V § 19 ods. 2 písm. c) sa za slová „o chorobe osoby,“ vkladajú slová „žiadanku na vyšetrenia spoločných vyšetrovacích a liečebných zložiek, údaje“.
 
+- 22. § 19 sa dopĺňa odsekom 7, ktorý znie:
+
+- „(7)
+
+- Ak sa má poskytnúť zdravotná starostlivosť v doplnkových ordinačných hodinách alebo ako domáca starostlivosť na žiadosť osoby mimo ordinačných hodín, zdravotná dokumentácia osoby musí obsahovať aj zápis, v ktorom sa uvedie poučenie osoby v čase poskytnutia zdravotnej starostlivosti, že ide o zdravotnú starostlivosť uhrádzanú touto osobou podľa cenníka všetkých zdravotných výkonov, ktoré poskytuje poskytovateľ, výšku úhrady za poskytnutie tejto zdravotnej starostlivosti a poučenie o možnosti poskytnutia zdravotnej starostlivosti uhrádzanej z verejného zdravotného poistenia mimo doplnkových ordinačných hodín. Tento zápis musí osoba potvrdiť ošetrujúcemu zdravotníckemu pracovníkovi svojím podpisom.“.
+
 - 24. V § 41 odsek 1 znie:
 
 - „(1)
@@ -239,6 +333,8 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 - 30. V § 45 ods. 1 sa vypúšťa písmeno ac).
 
   - Doterajšie písmená ad) až al) sa označujú ako písmená ac) až ak).
+
+- 31. V § 46 ods. 1 písm. m) sa za slovo „hodiny“ vkladajú slová „a doplnkové ordinačné hodiny“.
 
 - 33. Zákon sa dopĺňa prílohou č. 1, ktorá vrátane nadpisu znie:
 
