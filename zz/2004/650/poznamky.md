@@ -154,6 +154,8 @@
 
 - 41h) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 41k) Zákon č. 186/2009 Z. z. v znení neskorších predpisov.
+
 - 42) § 6 zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z.
 
 - 43) Zákon č. 540/2001 Z. z. o štátnej štatistike v znení zákona č. 215/2004 Z. z.

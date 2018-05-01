@@ -15,3 +15,5 @@ Príloha č. 2 k zákonu č. 650/2004 Z. z. v znení zákona č. 318/2013 Z. z.
   - 6. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
 
   - 7. Smernica Európskeho parlamentu a Rady 2013/14/EÚ z 21. mája 2013, ktorou sa mení a dopĺňa smernica 2003/41/ES o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia, smernica 2009/65/ES o koordinácii zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa podnikov kolektívneho investovania do prevoditeľných cenných papierov (PKIPCP) a smernica 2011/61/EÚ o správcoch alternatívnych investičných fondov v súvislosti s nadmerným spoliehaním sa na úverové ratingy (Ú. v. EÚ L 145, 31. 5. 2013).
+
+  - 7. Smernica Európskeho parlamentu a Rady 2014/50/EÚ zo 16. apríla 2014 o minimálnych požiadavkách na posilnenie mobility pracovníkov medzi členskými štátmi zlepšením nadobúdania a zachovávania doplnkových dôchodkových práv (Ú. v. EÚ L 128, 30. 4. 2014).
