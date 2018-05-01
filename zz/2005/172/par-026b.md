@@ -20,6 +20,8 @@
 
 - g) vyhlásenie prijímajúcej organizácie alebo cudzinca, ktorý nie je občanom členského štátu, že cudzinec, ktorý nie je občanom členského štátu, má počas svojho pobytu uhradené zdravotné poistenie,<sup>25</sup>)
 
+- h) informáciu o predpokladanom vykonávaní časti výskumu a vývoja vo výskumnej organizácii v inom členskom štáte.
+
 (4) Prijímajúca organizácia bezodkladne informuje ministerstvo školstva o skutočnosti, ktorá by mohla zabrániť vykonávaniu dohody o hosťovaní.
 
 (5) Dohoda o hosťovaní zaniká, ak cudzincovi nie je udelené povolenie na prechodný pobyt na účely výskumu a vývoja,<sup>35e</sup>) je ukončená jeho činnosť pre prijímajúcu organizáciu alebo prijímajúcej organizácii bolo odňaté povolenie prijímať cudzincov, ktorí nie sú občanmi členského štátu, na účely výskumu a vývoja.
