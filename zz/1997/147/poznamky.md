@@ -14,6 +14,12 @@
 
 - 8) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
+- 8a) Zákon č. 423/2015 Z. z. o štatutárnom audite a o zmene a doplnení zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov v znení zákona č. 91/2016 Z. z.
+
+- 8b) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z. o účtovníctve.
+
+- 8c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
 - 9) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 10) Napríklad zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
