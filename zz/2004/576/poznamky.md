@@ -4,6 +4,10 @@
 
 - 2a) § 11 zákona č. 578/2004 Z. z. v znení neskorších predpisov.
 
+- 2b) § 7 zákona č. 581/2004 Z. z. o zdravotných poisťovniach, dohľade nad zdravotnou starostlivosťou a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 2c) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) § 3 ods. 1 až 4 zákona č. 577/2004 Z. z. o rozsahu zdravotnej starostlivosti uhrádzanej na základe verejného zdravotného poistenia a o úhradách za služby súvisiace s poskytovaním zdravotnej starostlivosti.
 
 - 4) Zákon č. 578/2004 Z. z.
