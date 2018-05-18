@@ -1,0 +1,1 @@
+[Doplnkový protokol z Nagoje a Kuala Lumpuru o zodpovednosti a náhrade škôd ku Kartagenskému protokolu o biologickej bezpečnosti](../assets/b6f1dc2d6396ac986c0e73970327b7f264a68544e8eb16448afa669366eabc64.pdf)
