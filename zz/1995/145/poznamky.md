@@ -166,11 +166,11 @@
 
 - 20) § 15 ods. 4 zákona č. 596/2003 o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení zákona č. 8/2009 Z. z.
+- 20a) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 20aa) § 2 písm. ab) zákona č. 725/2004 Z. z.
+- 20aa) § 2 ods. 21 písm. a) zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 20ab) § 2 písm. ac) zákona č. 725/2004 Z. z. v znení neskorších predpisov.
+- 20ab) § 2 ods. 21 písm. b) zákona č. 106/2018 Z. z.
 
 - 20ac) § 2 ods. 1 písm. a) až c) zákona č. 600/2003 Z. z. o prídavku na dieťa a o zmene a doplnení zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
@@ -192,15 +192,9 @@
 
 - 21) § 83 zákona č. 131/2002 v znení neskorších predpisov.
 
-- 21a) Napríklad § 14 nariadenia vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek v znení neskorších predpisov, § 12 nariadenia vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek v znení neskorších predpisov, § 30 nariadenia vlády Slovenskej republiky č. 140/2009 Z. z., ktorým sa ustanovujú podrobnosti o typovom schvaľovaní motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá v znení neskorších predpisov, čl. 39 nariadenia Európskeho parlamentu a Rady (EÚ) č. 167/2013 z 5. februára 2013 o schvaľovaní poľnohospodárskych a lesných vozidiel a o dohľade nad trhom s týmito vozidlami (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení, čl. 44 nariadenia Európskeho parlamentu a Rady (EÚ) č. 168/2013 z 15. januára 2013 o schvaľovaní a dohľade nad trhom dvoj- alebo trojkolesových vozidiel a štvorkoliek (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
-
 - 21b) Zákon č. 387/2015 Z. z. o jednotnom informačnom systéme v cestnej doprave a o zmene a doplnení niektorých zákonov.
 
-- 22) § 4 zákona č. 725/2004 Z. z.
-
 - 22a) § 41 ods. 1 písm. p) zákona č. 56/2012 Z. z. o cestnej doprave.
-
-- 22ac) § 111 zákona č. 725/2004 Z. z.
 
 - 22b) § 42 písm. a) zákona č. 56/2012 Z. z.
 
@@ -219,12 +213,6 @@
 - 22e) § 41 písm. m) zákona č. 56/2012 Z. z.
 
 - 23) § 41 ods. 1 písm. f) zákona č. 56/2012 Z. z.
-
-- 24) Bod 1 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z. o najväčších prípustných rozmeroch vozidiel a jazdných súprav, najväčších prípustných hmotnostiach vozidiel a jazdných súprav, ďalších technických požiadavkách na vozidlá a jazdné súpravy v súvislosti s hmotnosťami a rozmermi a o označovaní vozidiel a jazdných súprav.
-
-- 25) Bod 2 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z.
-
-- 25a) Bod 3 prílohy č. 1 k nariadeniu vlády Slovenskej republiky č. 349/2009 Z. z.
 
 - 25aa) § 45 ods. 1 písm. c) až e) zákona č. 143/1998 Z. z. o civilnom letectve (letecký zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 

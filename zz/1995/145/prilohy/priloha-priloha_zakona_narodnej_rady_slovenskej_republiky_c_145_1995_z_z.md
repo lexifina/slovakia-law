@@ -1414,7 +1414,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
         - 2. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub>, ak bol na kúpu motorového vozidla kategórie M<sub>1</sub> a N<sub>1</sub> držiteľovi alebo vlastníkovi poskytnutý príspevok podľa zákona č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-        - 3. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie L<sub>1</sub>e podľa § 23a zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+        - 3. Od poplatku podľa písmena a) tejto položky je oslobodený zápis držiteľa motorového vozidla kategórie L1e podľa § 43 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
       - Poznámky
 
@@ -1436,135 +1436,331 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 67
 
-  - Podanie žiadosti o |
+    - Podanie návrhu o
 
-  - a) udelenie typového schválenia (celého) vozidla |
+      - a) udelenie typového schválenia EÚ celého vozidla
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub>, R<sub>a</sub>, Sa, P<sub>N</sub> a L<sub>S .....</sub> | 150 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ............... 400 eur
 
-  - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 200 eur,
+        - 2. pre kategórie O3, O4, Rb, Sb .......................................................... 300 eur
 
-  - b) udelenie typového schválenia ES (celého) vozidla |
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode .................... 200 eur
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2 .....</sub> | 200 eur,
+      - b) udelenie viacstupňového typového schválenia EÚ celého vozidla
 
-  - 2. pre kategórie vozidiel L<sub>1e</sub> až L<sub>7e .....</sub> | 300 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ................ 200 eur
 
-  - 3. pre kategórie vozidiel iné ako v prvom a druhom bode <sub>.....</sub> | 400 eur,
+        - 2. pre kategórie O3, O4, Rb, Sb ........................................................... 150 eur
 
-  - c) udelenie typového schválenia ES vozidla podľa regulačného aktu alebo o udelenie homologizácie typu vozidla <sub>.....</sub> | 200 eur,
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode .................... 100 eur
 
-  - d) udelenie viacstupňového typového schválenia vozidla |
+      - c) udelenie predbežného typového schválenia EÚ celého vozidla
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub>, R<sub>a</sub>, Sa, P<sub>N</sub> a L<sub>S .....</sub> | 150 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ................ 600 eur
 
-  - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 200 eur,
+        - 2. pre kategórie O3, O4, Rb, Sb .......................................................... 500 eur
 
-  - e) udelenie viacstupňového typového schválenia ES vozidla |
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode .................... 400 eur
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2 .....</sub> | 200 eur,
+      - d) udelenie typového schválenia EÚ celého vozidla vyrábaného
 
-  - 2. pre kategórie vozidiel L<sub>1e</sub> až L<sub>7e .....</sub> | 300 eur,
+      - v malej sérií
 
-  - 3. pre kategórie vozidiel iné ako v prvom a druhom bode <sub>.....</sub> | 400 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ............... 400 eur
 
-  - f) udelenie typového schválenia systému, komponentu alebo samostatnej technickej jednotky <sub>.....</sub> | 100 eur,
+        - 2. pre kategórie O3, O4, Rb, Sb ......................................................... 300 eur
 
-  - g) udelenie typového schválenia ES systému, komponentu alebo samostatnej technickej jednotky podľa regulačného aktu alebo o udelenie homologizácie typu systému, komponentu alebo samostatnej technickej jednotky <sub>.....</sub> | 150 eur,
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode ................... 200 eur
 
-  - h) udelenie typového schválenia pre časti a vybavenia predstavujúce vážne nebezpečenstvo <sub>.....</sub> | 150 eur,
+      - e) rozšírenie, zmenu, revíziu, prípadne predĺženie platnosti
 
-  - i) rozšírenie, zmenu, revíziu prípadne predĺženie platnosti v udelenom typovom schválení <sub>.....</sub> | 50 eur,
+      - v udelenom typovom schválení EÚ celého vozidla podľa
 
-  - j) rozšírenie, zmenu, revíziu prípadne predĺženie platnosti v udelenom typovom schválení ES alebo homologizácii typu <sub>.....</sub> | 100 eur,
+      - písmen a), c) a d)
 
-  - k) uznanie typového schválenia ES vozidla <sub>.....</sub> | 100 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ............. 200 eur
 
-  - l) uznanie rozšíreného typového schválenia ES vozidla <sub>.....</sub> | 50 eur,
+        - 2. pre kategórie O3, O4, Rb, Sb ....................................................... 150 eur
 
-  - m) zaslanie žiadosti na Európsku komisiu o povolenie udeliť typové schválenie ES pri použití nových technológií alebo koncepcií nezlučiteľných s jedným alebo viacerými regulačnými aktmi <sub>.....</sub> | 200 eur,
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode ................. 100 eur
 
-  - n) povolenie hromadnej prestavby vozidla <sub>.....</sub> | 50 eur,
+      - f) rozšírenie, zmenu, revíziu, prípadne predĺženie platnosti
 
-  - o) schválenie hromadnej prestavby typu vozidla |
+      - v udelenom typovom schválení EÚ celého vozidla podľa
 
-  - 1. montážou plynového zariadenia <sub>.....</sub> | 50 eur,
+      - písmena b)
 
-  - 2. inou prestavbou ako v prvom bode <sub>.....</sub> | 200 eur,
+        - 1. pre kategórie M1, N1, M2, M3, N2, N3, Tb, Cb, L, Ta, Ca ............ 100 eur
 
-  - p) rozšírenie, zmenu, predĺženie platnosti hromadnej prestavby typu vozidla <sub>.....</sub> | 50 eur.
+        - 2. pre kategórie O3, O4, Rb, Sb ........................................................ 75 eur
 
-  - Splnomocnenie Za podanie žiadosti o dodatočné vydanie povolenia podľa písmena n) tejto položky správny orgán vyberie poplatok do výšky päťnásobku sadzby. |
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode .................. 50 eur
 
-  - | | Poznámka Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+      - g) udelenie vnútroštátneho typového schválenia celého vozidla
+
+        - 1. pre kategórie Ra, Sa, PN, a LS .................................................... 150 eur
+
+        - 2. pre kategórie vozidiel iné ako v prvom bode ................................ 200 eur
+
+      - h) udelenie viacstupňového vnútroštátneho typového schválenia
+
+      - celého vozidla
+
+        - 1. pre kategórie Ra, Sa, PN, a LS .................................................... 100 eur
+
+        - 2. pre kategórie vozidiel iné ako v prvom bode ................................ 150 eur
+
+      - i) udelenie predbežného vnútroštátneho typového schválenia
+
+      - celého vozidla
+
+        - 1. pre kategórie Ra, Sa, PN, a LS .................................................... 300 eur
+
+        - 2. pre kategórie vozidiel iné ako v prvom bode ................................ 400 eur
+
+      - j) udelenie vnútroštátneho typového schválenia celého vozidla
+
+      - vyrábaného v malej sérií
+
+        - 1. pre kategórie Ra, Sa, PN, a LS ..................................................... 150 eur
+
+        - 2. pre kategórie vozidiel iné ako v prvom bode ................................. 200 eur
+
+      - k) rozšírenie, zmenu, revíziu, prípadne predĺženie platnosti
+
+      - v udelenom vnútroštátnom typovom schválení celého vozidla
+
+      - podľa písmen g) až j) ............................................................................... 50 eur
+
+      - l) udelenie typového schválenia EÚ vozidla podľa regulačného aktu ......... 200 eur
+
+      - m) udelenie typového schválenia EÚ systému, komponentu
+
+      - alebo samostatnej technickej jednotky podľa regulačného aktu .............. 150 eur
+
+      - n) rozšírenie, zmenu, revíziu prípadne predĺženie platnosti v udelenom
+
+      - typovom schválení EÚ podľa regulačného aktu
+
+        - 1. podľa písmena l) ............................................................................... 100 eur
+
+        - 2. podľa písmena m) ............................................................................... 75 eur
+
+      - o) vnútroštátne typové schválenie systému, komponentu
+
+      - alebo samostatnej technickej jednotky ................................................... 100 eur
+
+      - p) rozšírenie, zmenu, revíziu, prípadne predĺženie platnosti
+
+      - v udelenom vnútroštátnom typovom schválení systému,
+
+      - komponentu alebo samostatnej technickej jednotky
+
+      - podľa písmena o) ...................................................................................... 50 eur
+
+      - q) udelenie typového schválenia EÚ spaľovacieho motora
+
+      - necestných pojazdných strojov ................................................................ 300 eur
+
+      - r) rozšírenie, zmenu, revíziu prípadne predĺženie platnosti v udelenom
+
+      - typovom schválení EÚ spaľovacieho motora necestných
+
+      - pojazdných strojov podľa písmena q) ...................................................... 200 eur
+
+      - s) uznanie typového schválenia EÚ celého vozidla ...................... .......... 100 eur
+
+      - t) uznanie rozšíreného typového schválenia EÚ celého vozidla ............... 50 eur
+
+      - u) zaslanie žiadosti na Európsku komisiu o povolenie udeliť
+
+      - typové schválenie EÚ pri použití nových technológií
+
+      - alebo koncepcií nezlučiteľných s jedným alebo
+
+      - viacerými regulačnými aktmi .................................................................... 200 eur
+
+      - v) povolenie hromadnej prestavby typu vozidla ......................................... 50 eur
+
+      - w) schválenie hromadnej prestavby typu vozidla
+
+        - 1. montážou plynového zariadenia ....................................................... 20 eur
+
+        - 2. pri prestavbe vozidla na prepravu telesne postihnutej osoby ........... 10 eur
+
+        - 3. inou prestavbou ako v prvom a druhom bode ................................. 200 eur
+
+      - x) rozšírenie, zmenu, predĺženie platnosti hromadnej prestavby
+
+      - typu vozidla
+
+        - 1. montážou plynového zariadenia ........................................................ 20 eur
+
+        - 2. pri prestavbe vozidla na prepravu telesne postihnutej osoby ............ 10 eur
+
+        - 3. inou prestavbou ako v prvom a druhom bode .................................... 50 eur
+
+      - y) povolenie skúšobnej prevádzky vozidla ................................................. 100 eur
+
+    - Splnomocnenie
+
+      - Za podanie žiadosti o dodatočné vydanie povolenia podľa písmena u) tejto položky správny orgán vyberie poplatok vo výške päťnásobku určenej sadzby.
+
+    - Poznámky
+
+      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov.
+
+      - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 68
 
-  - Podanie žiadosti o |
+    - Podanie návrhu o
 
-  - a) povolenie výroby jednotlivého vozidla <sub>.....</sub> | 20 eur,
+      - a) vnútroštátne jednotlivé schválenie jednotlivo vyrobeného vozidla
 
-  - b) povolenie prestavby jednotlivého vozidla <sub>.....</sub> | 20 eur,
+        - 1. pre kategórie vozidiel O1, O2, Ra, Sa, PN .................................. 100 eur
 
-  - c) schválenie jednotlivo vyrobeného vozidla |
+        - 2. pre kategórie vozidiel iné ako v prvom bode ............................... 200 eur
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub>, Ra, Sa a P<sub>N .....</sub> | 100 eur,
+      - b) jednotlivé schválenie EÚ jednotlivo vyrobeného vozidla
 
-  - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 200 eur,
+        - 1. pre kategórie vozidiel O1, O2, Ra, Sa, PN .................................. 200 eur
 
-  - d) schválenie jednotlivo dokončovaného vozidla |
+        - 2. pre kategórie vozidiel iné ako v prvom bode ............................... 400 eur
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub> a R<sub>a</sub><sub>.....</sub> | 20 eur,
+      - c) vnútroštátne schválenie jednotlivo vyrobeného vozidla
 
-  - 2. pre kategórie vozidiel M<sub>2</sub>a M<sub>3</sub><sub>.....</sub> | 100 eur,
+      - s obmedzenou prevádzkou ................................................................. 20 eur
 
-  - 3. pre kategórie vozidiel iné ako v prvom a druhom bode <sub>.....</sub> | 50 eur,
+      - d) vnútroštátne schválenie jednotlivo dokončovaného vozidla
 
-  - e) uznanie typového schválenia ES jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+        - 1. pre kategórie vozidiel O1, O2, Ra, Sa ........................................... 20 eur
 
-  - f) uznanie schválenia jednotlivo dovezeného vozidla <sub>.....</sub> | 100 eur,
+        - 2. pre kategórie vozidiel M2, M3 ...................................................... 100 eur
 
-  - g) schválenie jednotlivo dovezeného vozidla |
+        - 3. pre kategórie vozidiel iné ako v prvom a druhom bode ............... 50 eur
 
-  - 1. pre kategórie vozidiel O<sub>1</sub>, O<sub>2</sub>, Ra, Sa a P<sub>N .....</sub> | 150 eur,
+      - e) vnútroštátne jednotlivé schválenie systému, komponentu
 
-  - 2. pre kategórie vozidiel iné ako v prvom bode <sub>.....</sub> | 300 eur,
+      - alebo samostatnej technickej jednotky ..................................................... 50 eur
 
-  - h) opätovné schválenie jednotlivého vozidla <sub>.....</sub> | 100 eur,
+      - f) uznanie typového schválenia EÚ jednotlivo dovezeného vozidla
 
-  - i) schválenie jednotlivo vyrobeného alebo jednotlivo dovezeného systému, komponentu alebo samostatnej technickej jednotky <sub>.....</sub> | 50 eur,
+      - alebo uznanie schválenia jednotlivo dovezeného vozidla .................... 100 eur
 
-  - j) schválenie prestavby jednotlivého vozidla |
+      - g) jednotlivé schválenie EÚ jednotlivo dovezeného vozidla
 
-  - 1. montážou plynového zariadenia <sub>.....</sub> | 50 eur,
+        - 1. pre kategórie vozidiel M1 a N1 ...................................................... 500 eur
 
-  - 2. inou prestavbou ako v prvom bode <sub>.....</sub> | 300 eur,
+        - 2. pre kategórie vozidiel iné ako v prvom bode .................................. 300 eur
 
-  - k) výmenu karosérie vozidla rovnakého typu v rámci jedného typového radu vozidla, výmenu rámu vozidla rovnakého typu v rámci jedného typového radu vozidla alebo zmenu obsaditeľnosti vozidla zväčšením počtu miest na sedenie, ak je vozidlo výrobcom vybavené úchytnými miestami sedadiel a kotevnými miestami bezpečnostných pásov <sub>.....</sub> | 20 eur,
+      - h) vnútroštátne jednotlivé schválenie jednotlivo dovezeného vozidla
 
-  - l) povolenie, schválenie alebo uznanie podľa písmen a) až k) pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa poskytol peňažný príspevok na kúpu osobného motorového vozidla alebo peňažný príspevok na úpravu osobného motorového vozidla podľa osobitného zákona<sup>20a).....</sup> | 2 eurá.
+        - 1. pre kategórie vozidiel M1 a N1 ...................................................... 300 eur
 
-  - Splnomocnenie 1. Za podanie žiadosti o dodatočné vydanie povolenia podľa písmen a) a b) tejto položky správny orgán vyberie poplatok do výšky päťnásobku sadzby. 2. Správny orgán vyberie trojnásobok správneho poplatku podľa písmen c), e) až h), ak poplatník (účastník konania) pri doručení žiadosti žiada rozhodnúť urýchlene do piatich pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Príplatok za urýchlené rozhodnutie je splatný v deň podania žiadosti. Ak sa konanie zastavilo alebo žiadosť bola zamietnutá, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o žiadosti nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky. |
+        - 2. pre kategórie vozidiel iné ako v prvom bode .................................. 150 eur
 
-  - | | Poznámka Ak žiadateľ jednou žiadosťou podľa písmen c), d) a i) tejto položky požaduje viac schválení, poplatky sa sčítavajú. |
+      - i) opätovné schválenie jednotlivého vozidla ............................................. 20 eur
+
+      - j) dodatočné schválenie jednotlivého vozidla .......................................... 100 eur
+
+      - k) povolenie prestavby jednotlivého vozidla .............................................. 20 eur
+
+      - l) schválenie prestavby jednotlivého vozidla
+
+        - 1. montážou plynového zariadenia .................................................... 20 eur
+
+        - 2. pre kategórie vozidiel O1, O2, Ra, Sa ........................................... 100 eur
+
+        - 3. pre iné prestavby ako v prvom a druhom bode ............................. 300 eur
+
+      - m) zmenu údajov v osvedčení o evidencii časť II alebo v technickom
+
+      - osvedčení vozidla z dôvodu výmeny karosérie alebo rámu ..................... 20 eur
+
+      - n) zmenu údajov v osvedčení o evidencii časť II alebo v technickom
+
+      - osvedčení vozidla z dôvodu výmeny motora ........................................... 10 eur
+
+      - o) zmenu údajov v osvedčení o evidencii časť II alebo v technickom
+
+      - osvedčení vozidla z dôvodu inej technickej zmeny na vozidle ................. 10 eur
+
+      - p) vydanie duplikátu osvedčenia o evidencii časť II alebo
+
+      - technického osvedčenia vozidla na schvaľovací orgán ............................ 10 eur
+
+      - q) vydanie osvedčenia o evidencii časť II pri výmene technického
+
+      - osvedčenia vozidla alebo vydanie technického osvedčenia
+
+      - vozidla pri výmene technického osvedčenia vozidla ................................ 10 eur
+
+      - r) dočasné povolenie na prevádzku neschváleného jednotlivého
+
+      - vozidla .................................................................................................... 10 eur
+
+      - s) povolenie, schválenie alebo uznanie podľa písmen a) až l)
+
+      - pre fyzické osoby s ťažkým zdravotným postihnutím, ktorým sa
+
+      - poskytol peňažný príspevok na kúpu osobného motorového vozidla
+
+      - alebo peňažný príspevok na úpravu osobného motorového vozidla
+
+      - podľa osobitného zákona<sup>20a</sup>) ..................................................................... 2 eurá
+
+      - t) povolenie alebo schválenie podľa písmen d), j) a l) pre vozidlo
+
+      - na prepravu osôb na invalidnom vozíku ................................................... 10 eur
+
+    - Oslobodenie
+
+      - Od poplatku podľa písmen f) až h) tejto položky sú oslobodené osoby, ktoré mali jednotlivo dovezené vozidlo v zahraničí evidované na svoje meno v rámci zastupiteľských úradov, diplomati, konzuli z povolania a ďalšie osoby, ktoré podľa medzinárodného práva požívajú výsady a imunity počas svojho pôsobenia.
+
+    - Splnomocnenie
+
+      - 1. Poplatok podľa tejto položky sa znižuje podľa § 6 ods. 2, aj ak osobitný predpis ustanovuje niektoré prílohy návrhu výlučne v listinnej podobe, napríklad predloženia osvedčenia o zhode COC alebo dokladov vozidla.
+
+      - 2. Za podanie návrhu o dodatočné vydanie povolenia podľa písmena k) tejto položky správny orgán vyberie poplatok vo výške päťnásobku určenej sadzby.
+
+      - 3. Správny orgán vyberie trojnásobok poplatku podľa písmen f) až h), ak poplatník (účastník konania) pri doručení návrhu žiada rozhodnúť urýchlene do piatich pracovných dní. Ak sa konanie prerušilo, lehota prestáva plynúť dňom vydania rozhodnutia o prerušení konania. Trojnásobok poplatku podľa písmen f) až h) za urýchlené rozhodnutie je splatný v deň podania návrhu. Ak sa konanie zastavilo alebo návrh bol zamietnutý, poplatok sa nevracia. Ak správny orgán v skrátenom termíne o návrhu nerozhodne, vráti rozdiel medzi poplatkom zaplateným podľa splnomocnenia za urýchlené rozhodnutie a poplatkom určeným podľa príslušného písmena tejto položky.
+
+    - Poznámky
+
+      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov.
+
+      - 2. Ak žiadateľ jednou žiadosťou podľa písmen a), b), d) a e) tejto položky požaduje viac schválení, poplatky sa sčítavajú.
 
     - Položka 68a
 
-  - a) | Vydanie osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla vrátane vykonania zmien v týchto dokladoch a doručenia osvedčenia o evidencii časti I na určenú adresu ..... | 6 eur
+      - a) Vydanie osvedčenia o evidencii časti I orgánom Policajného zboru
 
-  - b) | Podanie žiadosti výrobcu alebo zástupcu výrobcu o vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, a to za každý duplikát osvedčenia o evidencii časti II alebo technického osvedčenia vozidla, o ktorý žiada ..... | 6 eur
+      - vrátane vykonania zmien v týchto dokladoch a doručenia
 
-  - c) | Vydanie osvedčenia o evidencii časti I urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka vrátane doručenia osvedčenia o evidencii časti I na určenú adresu ..... | 30 eur
+      - osvedčenia o evidencii časti I na určenú adresu ........................................ 6 eur
 
-  - Oslobodenie Od poplatku podľa písmena a) tejto položky sú oslobodené osoby, ktorým sa vydáva osvedčenie o evidencii časti I alebo časti II alebo technické osvedčenie vozidla ako náhrada pri zmene nezavinenej občanom, alebo ak bola v osvedčení o evidencii časti I alebo časti II alebo technickom osvedčení vozidla zistená chyba zapríčinená výrobcom osvedčenia o evidencii časti I alebo časti II alebo technického osvedčenia vozidla alebo chyba zapríčinená orgánom, ktorý osvedčenie o evidencii časti I alebo časti II alebo technické osvedčenie vozidla vydal, okrem prípadov, keď chybné osvedčenie o evidencii časti II alebo technické osvedčenie vozidla vystavil výrobca alebo zástupca výrobcu. | |
+      - b) Vydanie osvedčenia o evidencii časti II orgánom Policajného zboru
+
+      - vrátane vykonania zmien v týchto dokladoch ............................................ 6 eur
+
+      - c) Vydanie osvedčenia o evidencii časti I orgánom Policajného zboru
+
+      - urýchlene do dvoch pracovných dní na výslovnú žiadosť poplatníka
+
+      - vrátane doručenia osvedčenia o evidencii časti I na určenú adresu .......... 30 eur
+
+    - Oslobodenie
+
+      - Od poplatku podľa písmen a) a b) tejto položky sú oslobodené osoby, ktorým sa vydáva osvedčenie o evidencii časti I alebo osvedčenie o evidencii časti II ako náhrada pri zmene nezavinenej občanom, alebo ak bola v osvedčení o evidencii časti I alebo v osvedčení o evidencii časti II zistená chyba zapríčinená výrobcom osvedčenia o evidencii časti I alebo osvedčenia o evidencii časti II alebo chyba zapríčinená orgánom, ktorý osvedčenie o evidencii časti I alebo osvedčenie o evidencii časti II vydal, okrem prípadov, keď chybné osvedčenie o evidencii časti II vystavil výrobca alebo zástupca výrobcu.
 
     - Položka 69a
 
-  - Povolenie evidencie, uvedenia na trh alebo uvedenia do prevádzky v premávke na pozemných komunikáciách nových vozidiel zhodných s typom vozidla, ktorého typové schválenie alebo typové schválenie ES už stratilo platnosť (vozidlá končiacich sérií) podľa osobitných predpisov,<sup>21a</sup>) a to za každé povolené vozidlo | |
+    - Povolenie evidencie, uvedenia na trh alebo uvedenia do prevádzky v cestnej premávke nových vozidiel zhodných s typom vozidla, ktorého typové schválenie už stratilo platnosť (vozidlá ukončenej série), a to za každé povolené vozidlo
 
-  - a) | kategórie L<sub>1e</sub>, L<sub>2e</sub>, L<sub>6e</sub>, O<sub>1</sub>, O<sub>2</sub>, Ra a Sa ...... | 25 eur
+      - a) kategórie L1e, L2e, L6e, O1, O2, Ra a Sa ............................................. 25 eur
 
-  - b) | ostatných kategórií iných, ako sú uvedené v písmene a) ....... | 50 eur.
+      - b) ostatných kategórií iných, ako sú uvedené v písmene a) ...................... 50 eur
 
     - Položka 69b
 
@@ -1654,61 +1850,93 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 72
 
-  - Podanie žiadosti o |
+    - Podanie návrhu o
 
-  - a) udelenie osvedčenia výrobcu<sup>22</sup>)...................................................................................... | 20 eur,
+      - a) udelenie osvedčenia výrobcu .............................................................. 20 eur
 
-  - b) udelenie osvedčenia zástupcu výrobcu<sup>22</sup>)...................................................................................................................................... | 30 eur,
+      - b) udelenie osvedčenia zástupcu výrobcu ............................................... 30 eur
 
-  - c) zmenu údajov v osvedčeniach výrobcu alebo o predĺženie ich platnosti................................................................................... | 20 eur,
+      - c) zmenu údajov v osvedčeniach výrobcu alebo o predĺženie
 
-  - d) zmenu údajov v osvedčeniach zástupcu výrobcu alebo o predĺženie ich platnosti.................................................................. | 30 eur.
+      - ich platnosti ............................................................................................... 20 eur
 
-  - Poznámka Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+      - d) zmenu údajov v osvedčeniach zástupcu výrobcu alebo o predĺženie
+
+      - ich platnosti ................................................................................................ 30 eur
+
+    - Poznámky
+
+      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov.
+
+      - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 72a
 
-  - a) Podanie žiadosti o udelenie poverenia na vykonávanie technickej služby overovania vozidiel.................................. | 300 eur
+    - Podanie návrhu o
 
-  - b) Podanie žiadosti o zmenu v poverení na vykonávanie technickej služby overovania vozidiel........................................................................................................................................................... | 50 eur
+      - a) udelenie poverenia na vykonávanie technickej služby overovania ................... 200 eur
 
-  - c) Podanie žiadosti o oznámenie poverenej technickej služby overovania vozidiel v orgánoch Európskej hospodárskej komisie, Európskych spoločenstiev a Európskej únie.............................................................. | 100 eur
+      - b) zmenu v poverení na vykonávanie technickej služby overovania ..................... 100 eur
 
-  - d) Podanie žiadosti o doplnenie oznámenia poverenej technickej služby overovania vozidiel v orgánoch Európskej hospodárskej komisie, Európskych spoločenstiev a Európskej únie.............................................................. | 50 eur.
+      - c) oznámenie technickej služby overovania
 
-  - Poznámka Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+      - v orgánoch Európskej únie .............................................................................. 300 eur
+
+      - d) doplnenie oznámenia technickej služby overovania
+
+      - v orgánoch Európskej únie .............................................................................. 150 eur
+
+      - e) oznámenie technickej služby overovania vozidiel
+
+      - v orgánoch Európskej hospodárskej komisie .................................................. 200 eur
+
+      - f) doplnenie oznámenia technickej služby overovania
+
+      - v orgánoch Európskej hospodárskej komisie .................................................. 100 eur
+
+    - Poznámky
+
+      - 1. Poplatok podľa písmen a) a b) tejto položky zahŕňa aj vydanie príslušných dokladov.
+
+      - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 73
 
-  - Podanie žiadosti o |
+    - Podanie návrhu o
 
-  - a) dočasné vyradenie vozidla z premávky |
+      - a) dočasné vyradenie vozidla, ktoré nepodlieha prihláseniu
 
-  - 1. v lehote do 1 roka ..... | 5 eur,
+      - do evidencie vozidiel, z cestnej premávky
 
-  - 2. v lehote od 1 roka do 2 rokov ..... | 20 eur,
+        - 1. v lehote do päť rokov ........................................................................ 5 eur
 
-  - 3. v lehote od 2 rokov do 4 rokov ..... | 35 eur,
+        - 2. v lehote nad päť rokov ..................................................................... 50 eur
 
-  - 4. v lehote od 4 rokov do 6 rokov ..... | 70 eur,
+      - b) opätovné uvedenie vozidla do prevádzky ešte pred uplynutím
 
-  - 5. v lehote od 6 rokov do 10 rokov ..... | 170 eur,
+      - skončenia dočasného vyradenia vozidla ................................................ 5 eur
 
-  - 6. v lehote nad 10 rokov ..... | 350 eur,
+      - c) pridelenie náhradného identifikačného čísla vozidla VIN ..................... 20 eur
 
-  - b) opätovné uvedenie vozidla do prevádzky ešte pred uplynutím skončenia dočasného vyradenia vozidla z premávky ..... | 5 eur,
+      - d) povolenie výnimky z technických požiadaviek pre vozidlá ................... 20 eur
 
-  - c) povolenie výnimky podľa osobitného predpisu<sup>22ac)</sup> ..... | 20 eur,
+      - e) vydanie osvedčenia o schválení vozidla na prepravu určitých
 
-  - d) trvalé vyradenie vozidla z evidencie, ktoré nepodlieha spracovaniu podľa osobitného predpisu<sup>38</sup>) ...... | 5 eur,
+      - nebezpečných vecí .............................................................................. 10 eur
 
-  - e) pridelenie náhradného identifikačného čísla vozidla VIN ..... | 20 eur.
+      - f) vydanie súhlasu na vydanie duplikátu osvedčenia o evidencii časti II
 
-  - f) vydanie osvedčenia o schválení vozidla na prepravu určitých nebezpečných vecí ..... | 10 eur.
+      - alebo technického osvedčenia vozidla, a to za každý duplikát
 
-  - Oslobodenie Poplatok za vyradenie vozidla z evidencie sa nevyberie pri trvalom vyradení vozidla z evidencie vozidiel, ak bolo vozidlo odcudzené. |
+      - osvedčenia o evidencii časti II alebo technického osvedčenia vozidla,
 
-  - Poznámky 1. Poplatok podľa písmen a) a b) tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z premávky na pozemných komunikáciách. 2. Pri predĺžení dočasného vyradenia vozidla z premávky na pozemných komunikáciách sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z premávky na pozemných komunikáciách. |
+      - o ktorý sa žiada ................................................................................... 10 eur
+
+    - Poznámky
+
+      - 1. Poplatok podľa tejto položky zahŕňa aj vydanie príslušných dokladov.
+
+      - 2. Pri predĺžení dočasného vyradenia vozidla sa poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum začiatku predchádzajúceho dočasného vyradenia vozidla.
 
     - Položka 73a
 
@@ -1728,7 +1956,11 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - | 6. | nad 10 rokov ..... | 350 eur,
 
-  - b) | opätovné zaradenie vozidla do evidencie vozidiel pred ukončením lehoty dočasného vyradenia vozidla z evidencie vozidiel ..... | | 5 eur.
+  - b) | opätovné zaradenie vozidla do evidencie vozidiel pred ukončením lehoty dočasného vyradenia vozidla z evidencie vozidiel ..... | | 5 eur,
+
+  - c) | trvalé vyradenie vozidla z evidencie vozidiel, ktoré nepodlieha spracovaniu podľa osobitného predpisu<sup>38</sup>) ............... | | 5 eur.
+
+  - Oslobodenie Poplatok za vyradenie vozidla z evidencie vozidiel sa nevyberie pri trvalom vyradení vozidla z evidencie vozidiel, ak bolo vozidlo odcudzené. | | |
 
   - Poznámky 1. Poplatok podľa tejto položky zahŕňa aj vydanie dokladov pri dočasnom vyradení vozidla z evidencie vozidiel a pri opätovnom zaradení vozidla do evidencie. 2. Pri predĺžení dočasného vyradenia vozidla z evidencie vozidiel sa správny poplatok vyberie podľa písmena a), pričom za začiatok lehoty sa počíta dátum predchádzajúceho vyradenia vozidla z evidencie vozidiel. | | |
 
@@ -1888,85 +2120,143 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 78
 
-  - a) Podanie žiadosti o udelenie povolenia na zriadenie |
+    - Podanie návrhu o
 
-  - 1. stanice technickej kontroly ..... | 200 eur,
+      - a) povolenie na zriadenie
 
-  - 2. pracoviska emisnej kontroly ..... | 200 eur,
+        - 1. stanice technickej kontroly ........................................................... 600 eur
 
-  - 3. pracoviska kontroly originality ..... | 200 eur,
+        - 2. pracoviska emisnej kontroly ......................................................... 600 eur
 
-  - 4. pracoviska montáže plynových zariadení | 50 eur.
+        - 3. pracoviska kontroly originality ..................................................... 600 eur
 
-  - b) Podanie žiadosti o udelenie oprávnenia na vykonávanie |
+      - b) udelenie oprávnenia
 
-  - 1. technických kontrol vozidiel ..... | 200 eur,
+        - 1. na vykonávanie technickej kontroly ............................................. 600 eur
 
-  - 2. emisných kontrol motorových vozidiel ..... | 200 eur,
+        - 2. na vykonávanie emisnej kontroly ................................................. 600 eur
 
-  - 3. kontrol originality vozidiel ..... | 200 eur,
+        - 3. na vykonávanie kontroly originality ............................................. 600 eur
 
-  - 4. montáže plynových zariadení ..... | 50 eur.
+        - 4. na montáž plynových zariadení ...................................................... 20 eur
 
-  - c) Podanie žiadosti o zmenu údajov v udelenom oprávnení podľa písmena b) ..... | 50 eur.
+      - c) zmenu rozsahu udeleného oprávnenia
 
-  - Poznámky |
+        - 1. na vykonávanie technickej kontroly ............................................. 300 eur
 
-  - 1. Ak žiadateľ jednou žiadosťou podľa písmen a) a b) tejto položky požaduje viac povolení alebo oprávnení, poplatky sa sčítavajú. |
+        - 2. na vykonávanie emisnej kontroly ................................................. 300 eur
 
-  - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+        - 3. na vykonávanie kontroly originality ............................................. 300 eur
+
+        - 4. na montáž plynových zariadení ...................................................... 20 eur
+
+      - d) zmenu udeleného oprávnenia inú ako podľa písmena c) ................. 20 eur
+
+      - e) povolenie na zriadenie
+
+        - 1. stanice technickej kontroly nad rámec
+
+        - existujúcej siete ...................................................................... 3 000 eur
+
+        - 2. pracoviska emisnej kontroly nad rámec
+
+        - existujúcej siete ....................................................................... 1 000 eur
+
+        - 3. pracoviska kontroly originality nad rámec
+
+        - existujúcej siete ...................................................................... 1 000 eur
+
+    - Poznámky
+
+      - 1. Ak sa jedným návrhom podľa tejto položky požaduje viac povolení, oprávnení alebo zmien, poplatky sa sčítavajú.
+
+      - 2. Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 78a
 
-  - a) Podanie žiadosti o vykonanie skúšky na získanie osvedčenia o odbornej spôsobilosti alebo predĺženia platnosti osvedčenia o odbornej spôsobilosti |
+    - Podanie
 
-  - 1. kontrolného technika ..... | 100 eur,
+      - a) prihlášky o vykonanie skúšky z odbornej spôsobilosti na získanie osvedčenia
 
-  - 2. technika emisnej kontroly ..... | 100 eur,
+        - 1. technika technickej kontroly ......................................................... 100 eur
 
-  - 3. technika kontroly originality ..... | 100 eur,
+        - 2. technika emisnej kontroly ............................................................. 100 eur
 
-  - 4. technika montáže plynových zariadení ..... | 80 eur.
+        - 3. technika kontroly originality ......................................................... 100 eur
 
-  - b) Vydanie osvedčenia o odbornej spôsobilosti |
+        - 4. technika montáže plynových zariadení ........................................... 50 eur
 
-  - 1. kontrolného technika ..... | 10 eur,
+      - b) návrhu o vydanie osvedčenia
 
-  - 2. technika emisnej kontroly ..... | 10 eur,
+        - 1. technika technickej kontroly .......................................................... 50 eur
 
-  - 3. technika kontroly originality ..... | 10 eur,
+        - 2. technika emisnej kontroly .............................................................. 50 eur
 
-  - 4. technika montáže plynových zariadení ..... | 10 eur.
+        - 3. technika kontroly originality .......................................................... 50 eur
 
-  - c) Podanie žiadosti o zmenu údajov v udelenom osvedčení o odbornej spôsobilosti podľa písmena b) ..... | 10 eur.
+        - 4. technika montáže plynových zariadení .......................................... 10 eur
 
-  - Splnomocnenie |
+      - c) návrhu na zmenu rozsahu osvedčenia
 
-  - Pri podaní žiadosti o opakovanú skúšku podľa písmena a) sa vyberie správny poplatok vo výške 50 % príslušnej sadzby. |
+        - 1. technika technickej kontroly .......................................................... 50 eur
 
-  - Poznámka |
+        - 2. technika emisnej kontroly .............................................................. 50 eur
 
-  - Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+        - 3. technika kontroly originality .......................................................... 50 eur
+
+        - 4. technika montáže plynových zariadení .......................................... 10 eur
+
+      - d) návrhu na inú zmenu ako podľa písmena c) vydaného osvedčenia
+
+        - 1. technika technickej kontroly ......................................................... 25 eur
+
+        - 2. technika emisnej kontroly ............................................................. 25 eur
+
+        - 3. technika kontroly originality ......................................................... 25 eur
+
+        - 4. technika montáže plynových zariadení ..........................................10 eur
+
+    - Splnomocnenie
+
+      - Pri podaní návrhu na opakovanú skúšku podľa písmen a) sa vyberie poplatok
+
+        - a) v sadzbe určenej v písmene a) tejto položky, ak sa opakovaná skúška vykonáva v plnom rozsahu alebo
+
+        - b) v 50 % sadzbe určenej v písmene a) tejto položky, ak sa opakovaná skúška vykonáva v čiastočnom rozsahu.
+
+    - Poznámka
+
+      - Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 78b
 
-  - Podanie žiadosti o |
+    - Podanie návrhu o
 
-  - a) schválenie vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 100 eur,
+      - a) schválenie vhodnosti zariadenia používaného pri technickej
 
-  - b) predĺženie platnosti v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 100 eur,
+      - kontrole, emisnej kontrole alebo kontrole originality .......................... 100 eur
 
-  - c) zmenu v osvedčení o schválení vhodnosti meradiel a prístrojov používaných pri technických kontrolách, emisných kontrolách a kontrolách originality ..... | 50 eur.
+      - b) zmenu alebo predĺženie platnosti osvedčenia o schválení
 
-  - d) schválenie vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 100 eur,
+      - zariadenia používaného pri technickej kontrole,
 
-  - e) predĺženie platnosti v osvedčení o schválení vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 100 eur,
+      - emisnej kontrole alebo kontrole originality ......................................... 100 eur
 
-  - f) zmenu v osvedčení o schválení vhodnosti monitorovacieho záznamového zariadenia používaného pri technických kontrolách a emisných kontrolách ..... | 50 eur.
+      - c) udelenie osvedčenia odborne spôsobilej osoby na kalibráciu
 
-  - Poznámka |
+      - zariadení, ak návrh podalo kalibračné laboratórium ........................... 100 eur
 
-  - Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne. |
+      - d) zmenu osvedčenia odborne spôsobilej osoby na kalibráciu
+
+      - zariadení, ak návrh podalo kalibračné laboratórium ........................... 100 eur
+
+    - Splnomocnenie
+
+    - Správny orgán môže v prípade ukončenia výroby zariadenia upustiť od vybratia poplatku podľa písmena a) alebo b).
+
+    - Poznámka
+
+    - Poplatok podľa tejto položky sa nevyberie, ak ide o zmenu z úradného príkazu, napríklad zmenu názvu ulice a podobne.
 
     - Položka 79
 
@@ -2042,95 +2332,135 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 80
 
-  - Vydanie povolenia na zvláštne užívanie diaľnic, ciest a miestnych komunikácií na prepravu nadmerne ťažkých alebo rozmerných predmetov a vozidiel alebo na prepravu, pri ktorej vozidlá prekračujú hmotnosť pripadajúcu na jednu nápravu nad mieru povolenú osobitným predpisom (ďalej len „nadmerná preprava“ a „nadrozmerná preprava“),
+    - Vydanie povolenia na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pri nadrozmernej doprave alebo nadmernej doprave
 
-  - a) | za každú jednotlivú prepravnú trasu a prepravný zámer | | |
+      - a) za každú jednotlivú dopravu
 
-  - | 1. | nadrozmerná preprava | |
+        - 1. nadrozmerná doprava pri prekročení najväčšej povolenej šírky,
 
-  - | | 1.1. | pri prekročení prípustnej šírky<sup>24)</sup>vrátane nákladu (vyjadrené v cm) je |
+        - najväčšej povolenej výšky alebo najväčšej povolenej dĺžky
 
-  - | | | do 300,0 ..... | 20 eur
+        - vrátane nákladu .............................................................................. 60 eur
 
-  - | | | od 300,1 do 350,0 ..... | 30 eur
+        - 2. nadmerná doprava
 
-  - | | | od 350,1 do 400,0 ..... | 40 eur
+          - 2a. pri prekročení najväčšej povolenej celkovej hmotnosti,
 
-  - | | | od 400,1 do 500,0 ..... | 75 eur
+          - ak hmotnosť vrátane nákladu (vyjadrené v tonách) je
 
-  - | | | a za každých ďalších aj začatých 10 cm ..... | 20 eur
+          - do 40 vrátane............................................................................. 150 eur
 
-  - | | 1.2. | pri prekročení prípustnej výšky<sup>24)</sup>vrátane nákladu (vyjadrené v cm) je |
+          - nad 40 do 60 vrátane................................................................. 250 eur
 
-  - | | | do 400,0 ..... | 20 eur
+          - nad 60 do 120 vrátane................................................................ 350 eur
 
-  - | | | od 400,1 do 450,0 ..... | 40 eur
+          - nad 120 ..................................................................................... 700 eur
 
-  - | | | od 450,1 do 500,0 ..... | 115 eur
+          - 2b. pri prekročení najväčšej povolenej hmotnosti
 
-  - | | | a za každých ďalších aj začatých 10 cm ..... | 20 eur
+          - pripadajúcej na nápravu (nápravové zaťaženie) bez rozdielu,
 
-  - | | 1.3. | pri prekročení prípustnej celkovej dĺžky<sup>24)</sup>vrátane nákladu, ak celková dĺžka jednotlivého vozidla alebo jazdnej súpravy (vyjadrené v m) je |
+          - o akú nápravu ide, ak zaťaženie nápravy (vyjadrené v %) je
 
-  - | | | do 12,00 ..... | 20 eur
+          - do 10 vrátane ............................................................................ 100 eur
 
-  - | | | od 12,01 do 22,00 ..... | 115 eur
+          - nad 10 do 11,50 vrátane ........................................................... 150 eur
 
-  - | | | nad 22,01 ..... | 190 eur
+          - nad 11,50 do 12,50 vrátane....................................................... 200 eur
 
-  - | | | a za každých ďalších aj začatých 5,0 m ..... | 55 eur
+          - nad 12,50 .................................................................................. 500 eur
 
-  - | 2. | nadmerná preprava | |
+      - b) za nadmernú dopravu, ak najväčšia povolená celková hmotnosť motorového vozidla alebo jazdnej súpravy neprekročí 60 t, alebo nadrozmernú dopravu viacnásobne opakovanú po jednej alebo viacerých trasách na dobu najviac šesť mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na päťnásobok
 
-  - | | 2.1. | pri prekročení prípustnej celkovej hmotnosti,<sup>25)</sup>ak celková hmotnosť vrátane nákladu (vyjadrené v t) je |
+      - c) za nadmernú dopravu, ak najväčšia povolená celková hmotnosť motorového vozidla alebo jazdnej súpravy prekročí 60 t, alebo nadrozmernú dopravu viacnásobne opakovanú po jednej alebo viacerých trasách na dobu najviac troch mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na dva a pol násobok
 
-  - | | | do 20,00 ..... | 115 eur
+      - d) za dopravu nadmerného alebo nadrozmerného stavebného mechanizmu po vlastnej osi alebo na podvozku
 
-  - | | | od 20,01 do 30,00 ..... | 190 eur
+        - 1. za každú jednotlivú trasu, ak najväčšia povolená celková hmotnosť
 
-  - | | | od 30,01 do 50,00 ..... | 300 eur
+        - stavebného mechanizmu vrátane podvozku a ťahača
 
-  - | | | a za každých ďalších aj začatých 10 t ..... | 75 eur
+          - 1a. neprekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m
 
-  - | | 2.2. | pri prekročení prípustnej hmotnosti na nápravu<sup>25a)</sup> (nápravové zaťaženie) bez rozdielu, o akú nápravu ide, ak preťaženie (vyjadrené v %) je |
+          - a nie sú prekročené najväčšie povolené hmotnosti
 
-  - | | | od 3,01 do 5,00 ..... | 95 eur
+          - pripadajúce na nápravu ........................................................... 100 eur
 
-  - | | | od 5,01 do 10,00 ..... | 150 eur
+          - 1b. prekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m
 
-  - | | | od 10,01 do 15,00 ..... | 270 eur
+          - alebo sú prekročené najväčšie povolené hmotnosti
 
-  - | | | od 15,01 do 20,00 ..... | 380 eur
+          - pripadajúce na nápravu ........................................................... 200 eur
 
-  - | | | a za každých ďalších aj začatých 5 % | 190 eur
+        - 2. za dopravu viacnásobne opakovanú po jednej alebo viacerých
 
-  - b) | za každú jednotlivú tranzitnú prepravu cez územie Slovenskej republiky | | |
+        - trasách na dobu najviac troch mesiacov
 
-  - | 1. | nadrozmerná preprava ..... | | 190 eur
+          - 2a. pri splnení podmienok podľa bodu 1a. ................................... 500 eur
 
-  - | 2. | ostatné prípady ..... | | 380 eur
+          - 2b. pri splnení podmienok podľa bodu 1b. ................................ 1 000 eur
 
-  - c) | | za nadmernú prepravu, ak celková hmotnosť motorového vozidla alebo jazdnej súpravy neprekročí 60 t, alebo nadrozmernú prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac šesť mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na päťnásobok | |
+        - 3. za dopravu viacnásobne opakovanú po jednej alebo viacerých
 
-  - d) | | za nadmernú prepravu, ak celková hmotnosť motorového vozidla alebo jazdnej súpravy prekročí 60 t, alebo nadrozmernú prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac troch mesiacov sa poplatok vypočítaný podľa písmena a) zvýši na dva a pol násobok | |
+        - trasách na dobu najviac šiestich mesiacov
 
-  - e) | za prepravu nadmerného alebo nadrozmerného stavebného mechanizmu po vlastnej osi alebo na podvozku | | |
+          - 3a. pri splnení podmienok podľa bodu 1a. ................................... 1 000 eur
 
-  - | 1. | za každú jednotlivú prepravnú trasu a prepravný zámer, ak celková hmotnosť stavebného mechanizmu vrátane podvozku a ťahača | |
+          - 3b. pri splnení podmienok podľa bodu 1b. ................................... 2 000 eur
 
-  - | | 1.1. | neprekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m a nie sú prekročené prípustné hmotnosti na nápravu ..... | 115 eur
+    - Splnomocnenie
 
-  - | | 1.2. | prekročí 60 t alebo šírku 3,1 m, alebo výšku 4,5 m alebo sú prekročené hmotnosti na jednu nápravu ..... | 230 eur
+      - 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti.
 
-  - | 2. | za prepravu viacnásobne opakovanú po jednej alebo viacerých prepravných trasách na dobu najviac troch mesiacov | |
+      - 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu za nadrozmernú dopravu sa zvýši na trojnásobok, ak sa už táto doprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu.
 
-  - | | 2.1. | pri splnení podmienok podľa bodu 1.1 ..... | 570 eur
+      - 3. Pri určení poplatku vyberaného dodatočne rozhodnutím cestného správneho orgánu za nadmernú dopravu, ak sa už táto doprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu, sa čiastkové sadzby podľa písmena a) bodov 2a. a 2b. posudzujú jednotlivo podľa toho, o aké percentuálne preťaženie najväčšej povolenej celkovej hmotnosti vrátane nákladu alebo nápravového zaťaženia ide
 
-  - | | 2.2. | pri splnení podmienok podľa bodu 1.2 ..... | 1 150 eur
+        - 3a. pri prekročení najväčšej povolenej celkovej hmotnosti vrátane nákladu, ak preťaženie (vyjadrené v %) je
 
-  - Oslobodenie Od poplatku podľa tejto položky sú oslobodené povolenia na dopravu poľnohospodárskych strojov v súvislosti s poľnohospodárskymi prácami. Splnomocnenie 1. Správny orgán zníži poplatok alebo upustí od jeho vybratia na základe vzájomnosti. 2. Poplatok vyberaný dodatočne rozhodnutím cestného správneho orgánu za nadrozmernú prepravu sa zvýši na trojnásobok, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu. 3. Pri určení poplatku vyberaného dodatočne rozhodnutím cestného správneho orgánu za nadmernú prepravu, ak sa už táto preprava čiastočne alebo celkom vykonala bez predchádzajúceho povolenia cestného správneho orgánu, sa čiastkové sadzby podľa písmena a) bodov 2.1 a 2.2 posudzujú jednotlivo podľa toho, o aké percentuálne preťaženie celkovej hmotnosti vrátane nákladu alebo nápravového zaťaženia ide 3.1 pri prekročení prípustnej celkovej hmotnosti vrátane nákladu, ak preťaženie (vyjadrené v %) je od 3,01 % do 6 % ........................ sadzba určená podľa písmena a) bodu 2.1 od 6,01 % do 9 % ....................... dvojnásobok sadzby určenej podľa písmena a) bodu 2.1 nad 9,01 % .................................. trojnásobok sadzby určenej podľa písmena a) bodu 2.1 3.2 pri prekročení prípustnej hmotnosti na nápravu bez rozdielu, o akú nápravu ide, ak preťaženie (vyjadrené v %) je od 3,01 % do 6 % ........................ sadzba určená podľa písmena a) bodu 2.2 od 6,01 % do 9 % ...................... dvojnásobok sadzby určenej podľa písmena a) bodu 2.2 nad 9,01 % ............................. trojnásobok sadzby určenej podľa písmena a) bodu 2.2 Výsledný poplatok pri dodržaní bodov 6 a 8 časti Poznámky sa určí ako súčet čiastkových sadzieb bodov 3.1 a 3.2. 4. Správny orgán môže pri nadmerných alebo nadrozmerných prepravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku. | | | |
+        - do 10 % vrátane ........... päťnásobok sadzby určenej podľa písmena a) bodu 2a,
 
-  - Poznámky 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán. 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci prepravu vozidlom alebo jazdnou súpravou, ktoré prekračujú prípustné miery.<sup>24</sup>), <sup>25</sup>), <sup>25a</sup>) 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke. 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych obtiažnych úsekov prepravnej cesty. 5. Pri preprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatkov určí ako súčet sadzieb uvedených v písmene a) bode 1 (1.1 až 1.3). 6. Prekročenie celkovej prípustnej hmotnosti sa posudzuje ako u jazdnej súpravy, tak aj u jednotlivého vozidla v súprave, s výnimkou návesovej súpravy. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie prípustnej celkovej hmotnosti do 3,0 % sa poplatok nevyberá. 7. Pri nadmernej preprave sa celková hmotnosť vozidla určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel. 8. Pri určení poplatku za prekročenie prípustnej hmotnosti na nápravu sa každá náprava posudzuje samostatne a poplatok sa určí len za najviac prekročenú nápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá. 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy súvisle za sebou, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. 10. Pri preprave, pri ktorej je súčasne prekročená prípustná celková hmotnosť a prípustné nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2.1 a 2.2. 11. Ak ide o prepravu, pri ktorej sú prekročené prípustné rozmery<sup>24</sup>) aj prípustná hmotnosť,<sup>25</sup>),<sup>25a</sup>) poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2. 12. Ak ide o tranzitnú prepravu cez územie Slovenskej republiky, pripočíta sa k sadzbe vypočítanej podľa písmena a), c) alebo d) ešte sadzba podľa písmena b). Pri poplatku vyberanom podľa Splnomocnenia bodu 2 sa sadzba podľa písmena b) pripočíta len raz a to len vtedy, ak má cestný správny orgán preukázané, že k tranzitu došlo. 13. Poplatky podľa písmena e) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o prepravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania vo vzdialenosti 30 km. 14. Poplatok podľa písmena d) sa použije, ak dopravca preukáže, že nie je technicky možné znížiť hmotnosť prepravy ani použiť iný spôsob prepravy a že zaťažiteľnosť mostov a nosnosť vozoviek overená štatistickým posúdením umožní realizáciu prepravy. 15. Ak sa už čiastočne alebo celkom vykonala preprava podľa písmena c) alebo d) a meraním hmotnosti, nápravových tlakov a rozmerov sa zistí, že boli porušené podmienky povolenia na zvláštne užívanie, takáto preprava sa posudzuje ako preprava bez povolenia na zvláštne užívanie. 16. Ak sa už čiastočne alebo celkom vykonala preprava podľa písmena e) bez povolenia na zvláštne užívanie, dodatočne rozhodnutím cestného správneho orgánu podľa Splnomocnenia bodu 3 sa posudzuje suma z čiastkových sadzieb uvedených v písmene a). | | | |
+        - nad 10 % ................ desaťnásobok sadzby určenej podľa písmena a) bodu 2a,
+
+        - 3b. pri prekročení prípustnej hmotnosti na nápravu bez rozdielu, o akú nápravu ide, ak preťaženie (vyjadrené v %) je
+
+        - do 10 % vrátane ........... päťnásobok sadzby určenej podľa písmena a) bodu 2b,
+
+        - nad 10 % ..................... desaťnásobok sadzby určenej podľa písmena a) bodu 2b.
+
+        - Výsledný poplatok pri dodržaní bodov 6 a 8 časti Poznámky sa určí ako súčet čiastkových sadzieb bodov 3a. a 3b.
+
+      - 4. Správny orgán môže pri nadmerných dopravách alebo nadrozmerných dopravách organizovaných tuzemskou alebo zahraničnou inštitúciou na účel humanitnej pomoci alebo poskytnutia daru štátu upustiť od vybratia poplatku.
+
+    - Poznámky
+
+      - 1. Poplatok podľa tejto položky na hraničných priechodoch vonkajších hraníc Európskej únie vyberá správca priľahlého úseku cesty vedúcej k hraničnému priechodu. Poplatok podľa tejto položky vyberaný dodatočne rozhodnutím cestného správneho orgánu vyberá cestný správny orgán.
+
+      - 2. Poplatníkom podľa tejto položky je dopravca vykonávajúci dopravu vozidlom alebo jazdnou súpravou, ktoré prekračujú najväčšie povolené rozmery alebo najväčšie povolené hmotnosti alebo iný subjekt.
+
+      - 3. Za základ výpočtu poplatku za nadrozmernosť sa berie najväčší rozmer vozidla alebo jazdnej súpravy, ktorý prekračuje prípustnú mieru v šírke alebo vo výške alebo v dĺžke.
+
+      - 4. Do základu dĺžky súpravy a celkovej hmotnosti súpravy sa započítavajú aj motorové vozidlá určené na tlačenie súpravy alebo aj ostatné pomocné motorové vozidlá zapojené v súprave, ktoré sú do súpravy zapojené hoci len na prekonanie krátkych náročných úsekov trasy.
+
+      - 5. Pri doprave, pri ktorej sú prekročené dva alebo všetky tri prípustné celkové rozmery [písmeno a) bod 1], sa celková výška poplatku určí ako dvojnásobok sadzby uvedenej v písmene a) bode 1.
+
+      - 6. Prekročenie najväčšej povolenej hmotnosti sa posudzuje tak pri jazdnej súprave, ako aj pri jednotlivom vozidle v súprave okrem návesovej súpravy. Poplatok sa určí z tých hmotností, z ktorých je vyššia sadzba. Za prekročenie najväčšej povolenej celkovej hmotnosti do 3,0 % sa poplatok nevyberá.
+
+      - 7. Pri nadmernej doprave sa hmotnosť jazdnej súpravy určí ako hmotnosť celej súpravy sčítaním hmotností jednotlivých motorových vozidiel a prípojných vozidiel.
+
+      - 8. Pri určení poplatku za prekročenie najväčšej povolenej hmotnosti pripadajúcej na nápravu sa každá náprava posudzuje samostatne so zohľadnením dvojnáprav a trojnáprav a poplatok sa určí len za najviac prekročenú nápravu, dvojnápravu alebo trojnápravu. Za prekročenie prípustného zaťaženia nápravy do 3,0 % sa poplatok nevyberá.
+
+      - 9. Pri špeciálnych prívesoch a návesoch, ktoré majú viac ako tri nápravy, sa každá náprava posudzuje ako jednoduchá náprava s prípustným zaťažením 9,5 tony. Dvojnápravy a trojnápravy sa v tomto prípade nezohľadňujú.
+
+      - 10. Pri doprave, pri ktorej je súčasne prekročená najväčšia povolená celková hmotnosť a najväčšie povolené nápravové zaťaženie, sa poplatok určí ako súčet čiastkových sadzieb podľa písmena a) bodov 2a. a 2b.
+
+      - 11. Ak ide o dopravu, pri ktorej sú prekročené najväčšie povolené rozmery aj najväčšia povolená hmotnosť, poplatok sa určí ako súčet sadzieb podľa písmena a) bodov 1 a 2.
+
+      - 12. Poplatky podľa písmena d) sa použijú, ak dopravcom je vlastník alebo užívateľ stavebného mechanizmu alebo právnická osoba, fyzická osoba oprávnená na podnikanie v doprave a ide o dopravu mechanizmu na stavbu alebo zo stavby do miesta jeho parkovania.
+
+      - 13. Ak sa už čiastočne alebo celkom vykonala doprava podľa písmena b) alebo c) a meraním celkovej hmotnosti, hmotnosti pripadajúcej na nápravu a rozmerov sa zistí, že boli porušené podmienky povolenia na zvláštne užívanie, taká doprava sa posudzuje ako doprava bez povolenia na zvláštne užívanie.
+
+      - 14. Ak sa už čiastočne alebo celkom vykonala doprava podľa písmena d) bez povolenia na zvláštne užívanie, dodatočne rozhodnutím cestného správneho orgánu podľa Splnomocnenia bodu 3 sa posudzuje suma z čiastkových sadzieb uvedených v písmene a).
 
     - Položka 80a
 
