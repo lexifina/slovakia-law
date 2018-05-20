@@ -1,0 +1,3 @@
+# § 7a
+
+Vozidlo typovo schválené ES alebo typovo schválené od 6. júla 2008 do 6. júla 2010 podlieha testu ustanovenému v prílohe 10 k predpisu EHK OSN č. 51 na účely monitorovania. Výsledky testu sa pripoja k dokumentom ustanoveným v doplnkoch 1 a 2 prílohy I smernice v súlade s prílohou 9 k predpisu EHK OSN č. 51 a zasielajú sa Európskej komisii;<sup>17</sup>) to neplatí, ak ide o predĺženie platnosti udeleného typového schválenia ES alebo typového schválenia. Vozidlo sa nepovažuje za nový typ vozidla na účely postupu monitorovania, ak sa odlišuje v bodoch 2.2.1 a 2.2.2 predpisu EHK OSN č. 51.

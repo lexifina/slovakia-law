@@ -1,0 +1,13 @@
+Príloha k nariadeniu vlády č. 309/2006 Z. z.
+
+- ZOZNAM PREBERANÝCH A VYKONÁVANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+
+  - 1. Smernica Rady 70/157/EHS zo 6. februára 1970 o aproximácii právnych predpisov členských štátov o prípustnej hladine hluku a o výfukových systémoch motorových vozidiel (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 1.) v znení Aktu o podmienkach pristúpenia a o úpravách zmlúv – pristúpenie Dánskeho kráľovstva, Írska a Spojeného kráľovstva Veľkej Británie a Severného Írska (Ú. v. ES L 73, 27. 3. 1972), smernice Komisie 73/350/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 2.), smernice Rady 77/212/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 4.), smernice Komisie 81/334/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 6.), smernice Komisie 84/372/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 7.), smernice Rady 84/424/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 7.), Aktu o podmienkach pristúpenia a o úpravách zmlúv – pristúpenie Španielskeho kráľovstva a Portugalskej republiky (Ú. v. ES L 302, 15. 11. 1985), smernice Rady 87/354/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 8.), smernice Komisie 89/491/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 10.), smernice Rady 92/97/EHS (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 1.), Aktu o podmienkach pristúpenia a o úpravách zmlúv – pristúpenie Rakúskej republiky, Fínskej republiky a Švédskeho kráľovstva (Ú. v. ES C 241, 29. 8. 1994), smernice Komisie 96/20/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 15.), smernice Komisie 1999/101/ES (Mimoriadne vydanie Ú. v. EÚ, 13/zv. 24.) a Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii prílohy II (Ú. v. EÚ L 236, 23. 9. 2003).
+
+  - 2. Smernica Rady 2006/96/ES z 20. novembra 2006, ktorou sa z dôvodu pristúpenia Bulharska a Rumunska upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 363, 20. 12. 2006).
+
+  - 3. Smernica Komisie 2007/34/ES zo 14. júna 2007, ktorou sa na účely prispôsobenia sa technickému pokroku mení a dopĺňa smernica Rady 70/157/EHS týkajúca sa prípustnej hladiny hluku a výfukových systémov motorových vozidiel (Ú. v. EÚ L 155, 15. 6. 2007).
+
+  - 4. Smernica Rady 2013/15/EÚ z 13. mája 2013, ktorou sa z dôvodu pristúpenia Chorvátskej republiky upravujú určité smernice v oblasti voľného pohybu tovaru (Ú. v. EÚ L 158, 10. 6. 2013).
+
+  - 5. Nariadenie Európskeho parlamentu a Rady (EÚ) č. 540/2014 zo 16. apríla 2014 o hladine zvuku motorových vozidiel a o náhradných systémoch tlmenia hluku a zmene smernice 2007/46/ES a o zrušení smernice 70/157/EHS (Ú. v. EÚ L 158, 27. 5. 2014) v znení delegovaného nariadenia Komisie (EÚ) 2017/1576 z 26. júna 2017 (Ú. v. EÚ L 239, 19. 9. 2017).
