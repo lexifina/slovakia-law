@@ -10,7 +10,7 @@ Príloha č. 4 k nariadeniu vlády č. 140/2009 Z. z.
 
 - Závody/prevádzky: | | [napríklad motorový závod 1 (Spojené kráľovstvo) automobilový závod 2 (Nemecko)]
 
-- Rozsah vozidiel/komponentov: | | (napríklad všetky modely kategórie M<sub>1</sub>)
+- Rozsah vozidiel/komponentov: | | (napríklad všetky modely kategórie M1)
 
 - Posudzované oblasti: | | (napríklad montáž motora, lisovanie karosérie a montáž, montáž vozidla)
 

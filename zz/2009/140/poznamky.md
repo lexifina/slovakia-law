@@ -1,26 +1,24 @@
 - 1) Dohoda o prijatí jednotných podmienok pre homologáciu (overovanie zhodnosti) a o vzájomnom uznávaní homologácie výstroja a súčastí motorových vozidiel v znení neskorších predpisov (vyhláška ministra zahraničných vecí č. 176/1960 Zb.).
 
-- 2) Nariadenie vlády Slovenskej republiky č. 335/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES poľnohospodárskych traktorov a lesných traktorov, ich prípojných vozidiel a ťahaných vymeniteľných strojov, systémov, komponentov a samostatných technických jednotiek v znení nariadenia vlády Slovenskej republiky č. 180/2007 Z. z.
+- 2) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 167/2013 z 5. februára 2013 o schvaľovaní poľnohospodárskych a lesných vozidiel a o dohľade nad trhom s týmito vozidlami (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
 
-- 3) Nariadenie vlády Slovenskej republiky č. 71/2006 Z. z., ktorým sa ustanovujú podrobnosti o typovom schválení ES dvojkolesových motorových vozidiel, trojkolesových motorových vozidiel a štvorkoliek v znení nariadenia vlády Slovenskej republiky č. 139/2007 Z. z.
+- 3) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 168/2013 z 15. januára 2013 o schvaľovaní a dohľade nad trhom dvoj- alebo trojkolesových vozidiel a štvorkoliek (Ú. v. EÚ L 60, 2. 3. 2013) v platnom znení.
 
-- 4) Nariadenie vlády Slovenskej republiky č. 310/2004 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia.
+- 4) Nariadenie vlády Slovenskej republiky č. 436/2008 Z. z., ktorým sa ustanovujú podrobnosti o technických požiadavkách a postupoch posudzovania zhody na strojové zariadenia v znení nariadenia vlády Slovenskej republiky č. 140/2011 Z. z.
 
-- 5) § 2 písm. f) zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 5) § 2 ods. 3 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 6) § 2 písm. g) zákona č. 725/2004 Z. z.
+- 6) § 2 ods. 4 zákona č. 106/2018 Z. z.
 
-- 7) § 2 písm. t) zákona č. 725/2004 Z. z.
+- 7) § 2 ods. 17 zákona č. 106/2018 Z. z.
 
-- 8) § 99 písm. o) zákona č. 725/2004 Z. z.
+- 8) § 136 ods. 2 písm. a) zákona č. 106/2018 Z. z.
 
 - 8a) STN EN ISO/IEC 17025 Všeobecné požiadavky na kompetentnosť skúšobných a kalibračných laboratórií (ISO/IEC17025 : 2005).
 
 - 8b) Zákon č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 9) Nariadenie vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách v znení nariadenia vlády Slovenskej republiky č. 141/2007 Z. z.
-
-- 10) § 25 ods. 1 písm. a) a § 29 zákona č. 725/2004 Z. z.
+- 10) § 70 ods. 3 a § 73 zákona č. 106/2018 Z. z.
 
 - 11) STN EN ISO 19011 Návod na auditovanie systému manažérstva kvality a/alebo systému environmentálneho manažérstva (ISO 19011: 2002) (01 3030).
 
@@ -28,9 +26,9 @@
 
 - 13) STN EN ISO/IEC 17021 Posudzovanie zhody. Požiadavky na orgány vykonávajúce audit a certifikáciu systémov manažérstva (ISO/IEC 17021: 2006) (01 5257).
 
-- 14) § 101 písm. c) zákona č. 725/2004 Z. z.
+- 14) § 138 písm. a) zákona č. 106/2018 Z. z.
 
-- 15) Príloha č.1 k vyhláške Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 614/2006 Z. z. o osvedčení o evidencii a technickom osvedčení vozidla v znení neskorších predpisov.
+- 15) § 39 ods. 16 zákona č. 106/2018 Z. z.
 
 - 16) Nariadenie vlády Slovenskej republiky č. 404/2007 Z. z. o všeobecnej bezpečnosti výrobkov.
 
@@ -38,12 +36,12 @@
 
 - 18) Napríklad STN EN ISO/IEC 17011:2005 Posudzovanie zhody. Všeobecné požiadavky na akreditačné orgány akreditujúce orgány posudzovania zhody (ISO/IEC 17011: 2004).
 
-- 19) Smernica Európskeho parlamentu a Rady 2001/85/ES z 20. novembra 2001 týkajúca sa osobitných ustanovení pre vozidlá používané na prepravu cestujúcich, v ktorých sa nachádza viac ako osem sedadiel okrem sedadla pre vodiča a ktorou sa mení a dopĺňa smernica 70/156/EHS a smernica 97/27/ES (Ú. v. EÚ L 42, 13. 2. 2002).
+- 19) Nariadenie (EÚ) č. 19/2011 z 11. januára 2011 týkajúce sa požiadaviek na typové schválenie povinného štítku výrobcu a identifikačného čísla motorových vozidiel a ich prípojných vozidiel, ktorým sa vykonáva nariadenie Európskeho parlamentu a Rady (ES) č. 661/2009 o požiadavkách na typové schválenie motorových vozidiel, ich prípojných vozidiel a systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá z hľadiska všeobecnej bezpečnosti (Ú. v. EÚ L 8, 12. 1. 2011) v platnom znení.
 
-- 20) Smernica Európskeho parlamentu a Rady 97/27/ES z 22. júla 1997 týkajúca sa hmotností a rozmerov určitých kategórií motorových a ich prípojných vozidiel, ktorou sa mení a dopĺňa smernica 70/156/EHS (Ú. v. EÚ L 233, 25. 8. 1997).
+- 20) Prílohy I a II nariadenia (EÚ) č. 19/2011 v platnom znení.
 
 - 22) STN EN ISO/IEC 17020 Všeobecné kritériá činnosti orgánov rozličných typov vykonávajúcich inšpekciu (ISO/IEC 17020: 1998).
 
 - 23) STN EN ISO/IEC 17021 Posudzovanie zhody. Požiadavky na orgány vykonávajúce audit a certifikáciu systémov manažérstva (ISO/IEC 17021: 2006).
 
-- 24) § 26 ods. 1 písm. a), ods. 3 až 6 zákona č. 725/2004 Z. z.
+- 24) § 71 zákona č. 106/2018 Z. z.

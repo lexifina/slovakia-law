@@ -2,7 +2,7 @@ Príloha č. 1 k nariadeniu vlády č. 140/2009 Z. z.
 
 - KATEGORIZÁCIA VOZIDIEL
 
-  - Na účely typového schválenia ES vozidla, typového schválenia vozidla a schválenia jednotlivého vozidla výrobca zaraďuje vozidlá na základe technických podmienok ustanovených v bodoch 1 a 2 prílohy II smernice do kategórií M, N a O. Typový schvaľovací úrad alebo schvaľovací úrad môže od výrobcu požadovať ďalšie informácie na preukázanie, že typ vozidla musí byť zaradený do kategórie vozidla na špeciálne účely v rámci špeciálnej skupiny (kód SG).
+  - Na účely typového schválenia ES vozidla, typového schválenia vozidla a schválenia jednotlivého vozidla výrobca zaraďuje vozidlá na základe technických podmienok ustanovených v bodoch 1 a 2 prílohy II smernice do kategórií M, N a O. Typový schvaľovací orgán alebo schvaľovací orgán môže od výrobcu požadovať ďalšie informácie na preukázanie, že typ vozidla musí byť zaradený do kategórie vozidla na špeciálne účely v rámci špeciálnej skupiny (kód SG).
 
   - Časť A Kritériá na zaradenie vozidiel do kategórií
 
@@ -10,47 +10,49 @@ Príloha č. 1 k nariadeniu vlády č. 140/2009 Z. z.
 
       - 1. Kategória M: Motorové vozidlá projektované a konštruované najmä na prepravu osôb a ich batožiny.
 
-        - a) Kategória M<sub>1</sub>:
+        - a) Kategória M1:
 
-          - Vozidlá kategórie M s najviac s ôsmimi miestami na sedenie okrem miesta na sedenie vodiča. Vozidlá zaradené do kategórie M<sub>1</sub> nemajú priestor pre stojacich cestujúcich a počet miest na sedenie môže byť obmedzený na jedno, t. j. miesto na sedenie vodiča.
+          - Vozidlá kategórie M s najviac s ôsmimi miestami na sedenie okrem miesta na sedenie vodiča. Vozidlá zaradené do kategórie M1
 
-        - b) Kategória M<sub>2</sub>:
+          - nemajú priestor pre stojacich cestujúcich a počet miest na sedenie môže byť obmedzený na jedno, t. j. miesto na sedenie vodiča.
 
-          - Vozidlá kategórie M s viac ako ôsmimi miestami na sedenie okrem miesta na sedenie a s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 5 000 kg. Vozidlá kategórie M<sub>2</sub> môžu mať okrem miest na sedenie priestor pre stojacich cestujúcich.
+        - b) Kategória M2:
 
-        - c) Kategória M<sub>3</sub>:
+          - Vozidlá kategórie M s viac ako ôsmimi miestami na sedenie okrem miesta na sedenie a s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 5 000 kg. Vozidlá kategórie M2 môžu mať okrem miest na sedenie priestor pre stojacich cestujúcich.
 
-          - Vozidlá kategórie M s viac ako ôsmimi miestami na sedenie okrem miesta na sedenie vodiča a s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 5 000 kg. Vozidlá kategórie M<sub>3</sub> môžu mať priestor pre stojacich cestujúcich.
+        - c) Kategória M3:
+
+          - Vozidlá kategórie M s viac ako ôsmimi miestami na sedenie okrem miesta na sedenie vodiča a s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 5 000 kg. Vozidlá kategórie M3 môžu mať priestor pre stojacich cestujúcich.
 
       - 2. Kategória N: Motorové vozidlá projektované a konštruované na prepravu nákladu. Kritériá na zaradenie vozidiel do kategórie N sú ustanovené v bode 3 časti A prílohy II smernice.
 
-        - a) Kategória N<sub>1</sub>:
+        - a) Kategória N1:
 
           - Vozidlá kategórie N s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 3 500 kg.
 
-        - b) Kategória N<sub>2</sub>:
+        - b) Kategória N2:
 
           - Vozidlá kategórie N s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 3 500 kg, ale neprevyšujúcou 12 000 kg.
 
-        - c) Kategória N<sub>3</sub>:
+        - c) Kategória N3:
 
           - Vozidlá kategórie N s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 12 000 kg.
 
       - 3. Kategória O: Prípojné vozidlá projektované a konštruované na prepravu nákladu alebo osôb ako aj na ubytovanie osôb.
 
-        - a) Kategória O<sub>1</sub>:
+        - a) Kategória O1:
 
           - Vozidlá kategórie O s najväčšou prípustnou celkovou hmotnosťou neprevyšujúcou 750 kg.
 
-        - b) Kategória O<sub>2</sub>:
+        - b) Kategória O2:
 
           - Vozidlá kategórie O s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 750 kg, ale neprevyšujúcou 3 500 kg.
 
-        - c) Kategória O<sub>3</sub>:
+        - c) Kategória O3:
 
           - Vozidlá kategórie O s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 3 500 kg, ale neprevyšujúcou 10 000 kg.
 
-        - d) Kategória O<sub>4</sub>:
+        - d) Kategória O4:
 
           - Vozidlá kategórie O s najväčšou prípustnou celkovou hmotnosťou prevyšujúcou 10 000 kg.
 

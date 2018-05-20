@@ -2,44 +2,46 @@ Príloha č. 3 k nariadeniu vlády č. 140/2009 Z. z.
 
 - IDENTIFIKÁCIA VOZIDLA A VZOR DOPLNKOVÉHO ŠTÍTKU VÝROBCU
 
-  - IDENTIFIKÁCIA VOZIDLA
+  - A. IDENTIFIKÁCIA VOZIDLA
 
-  - Doplnkový štítok musí byť pevne pripevnený na viditeľnom a ľahko prístupnom mieste na časti, ktorá sa pri používaní vozidla nevymieňa. Štítok musí zreteľne a nezmazateľne udávať v uvedenom poradí tieto informácie:
+    - (1) Identifikačné číslo základného vozidla VIN podľa osobitného predpisu<sup>19</sup>) sa zachová počas každého nasledujúceho stupňa procesu typového schvaľovania, aby sa zabezpečila vysledovateľnosť procesu.
 
-  - a) meno výrobcu,
+    - (2) Každý výrobca musí dodatočne k povinnému štítku podľa osobitného predpisu<sup>19</sup>) v druhom stupni a ďalších stupňoch upevniť na vozidlo doplnkový štítok, ktorého vzor je uvedený v časti B tejto prílohy. Doplnkový štítok musí byť pevne pripevnený na viditeľnom a ľahko prístupnom mieste na časti, ktorá sa pri používaní vozidla nevymieňa. Štítok musí zreteľne a nezmazateľne obsahovať v tomto poradí:
 
-  - b) časti 1, 3 a 4 typového schvaľovacieho čísla ES,
+      - a) názov výrobcu,
 
-  - c) stupeň schválenia,
+      - b) časti 1, 3 a 4 čísla typového schválenia ES,
 
-  - d) identifikačné číslo vozidla VIN,
+      - c) stupeň schválenia,
 
-  - e) najväčšiu prípustnú celkovú hmotnosť naloženého vozidla, len keď bola hodnota v priebehu vykonávaného stupňa schválenia zmenená,
+      - d) identifikačné číslo vozidla základného vozidla,
 
-  - f) najväčšiu prípustnú hmotnosť naloženej jazdnej súpravy, ak môže vozidlo ťahať prípojné vozidlo, len keď bola hodnota v priebehu vykonávaného stupňa schválenia zmenená,
+      - e) najväčšiu prípustnú celkovú hmotnosť naloženého vozidla, ak sa táto hodnota zmenila v priebehu vykonávaného stupňa schválenia,
 
-  - g) najväčšiu prípustnú hmotnosť pripadajúcu na nápravy uvedené v poradí spredu dozadu, len keď bola hodnota v priebehu vykonávaného stupňa schválenia zmenená,
+      - f) najväčšiu prípustnú celkovú hmotnosť jazdnej súpravy, ak sa táto hodnota zmenila v priebehu vykonávaného stupňa schválenia a ak vozidlo má povolené ťahať prípojné vozidlo; ak vozidlo nemá povolené ťahať prípojné vozidlo, uvedie sa „0“,
 
-  - h) v prípade návesu alebo prívesu so stredovou nápravou najväčšiu prípustnú hmotnosť v bode spojenia, len keď bola hodnota v priebehu vykonávaného stupňa schválenia zmenená.
+      - g) najväčšiu prípustnú celkovú hmotnosť pripadajúcu na každú nápravu uvedenú v poradí spredu dozadu, ak sa táto hodnota zmenila v priebehu vykonávaného stupňa schválenia,
 
-  - VZOR DOPLNKOVÉHO ŠTÍTKU VÝROBCU
+      - h) najväčšiu prípustnú celkovú hmotnosť v bode spojenia, ak sa táto hodnota zmenila v priebehu vykonávaného stupňa schválenia a ide o náves alebo príves so stredovou nápravou.
 
-  - Príklad:
+    - (3) Ak v odsekoch 1 a 2 nie je ustanovené inak, doplnkový štítok musí spĺňať technické požiadavky podľa osobitného predpisu.<sup>20</sup>)
 
-- MENO VÝROBCU (stupeň 3)
+  - B. VZOR DOPLNKOVÉHO ŠTÍTKU VÝROBCU
 
-- e2*98/14*2609
+    - Príklad:
 
-- Stupeň 3
+  - NÁZOV VÝROBCU (stupeň 3)
 
-- WD9VD58D98D234560
+  - e2*2007/46*2609
 
-- 1 500 kg
+  - Stupeň 3
 
-- 2 500 kg
+  - WD9VD58D98D234560
 
-- 1 – 700 kg
+  - 1 500 kg
 
-- 2 – 800 kg
+  - 2 500 kg
 
-  - Pokiaľ nie je ustanovené inak, štítok musí spĺňať požiadavky ustanovené nariadením vlády Slovenskej republiky č. 394/2005 Z. z. o technických požiadavkách na povinné štítky a nápisy, ich umiestnenie a spôsob pripevnenia na motorových vozidlách a ich prípojných vozidlách v znení nariadenia vlády Slovenskej republiky č. 141/2007 Z. z.
+  - 1 – 700 kg
+
+  - 2 – 810 kg

@@ -6,9 +6,9 @@ Príloha č. 6 k nariadeniu vlády č. 140/2009 Z. z.
 
     - 1.1 Táto príloha ustanovuje podmienky, podľa ktorých príslušný orgán vykonáva posúdenie technických služieb.
 
-    - 1.2 Tieto požiadavky sa obdobne uplatňujú na všetky technické služby bez ohľadu na ich právne postavenie (nezávislá organizácia, výrobca alebo typový schvaľovací úrad konajúci ako technická služba).
+    - 1.2 Tieto požiadavky sa obdobne uplatňujú na všetky technické služby bez ohľadu na ich právne postavenie (nezávislá organizácia, výrobca alebo typový schvaľovací orgán konajúci ako technická služba).
 
-    - 1.3 Príslušný orgán na účely tejto prílohy je akreditujúca osoba alebo typový schvaľovací úrad.
+    - 1.3 Príslušný orgán na účely tejto prílohy je akreditujúca osoba alebo typový schvaľovací orgán.
 
   - 2. ZÁSADY POSÚDENIA
 
@@ -110,11 +110,11 @@ Príloha č. 6 k nariadeniu vlády č. 140/2009 Z. z.
 
   - 10. UDELENIE POVERENIA A POTVRDENIE URČENIA TECHNICKEJ SLUŽBY
 
-    - 10.1. Typový schvaľovací úrad na základe správy (správ) o posúdení a splnenia ďalších požiadaviek ustanovených osobitným predpisom<sup>24</sup>) rozhodne o udelení poverenia na vykonávanie činnosti technickej služby, potvrdení alebo rozšírení udeleného poverenia.
+    - 10.1. Typový schvaľovací orgán na základe správy (správ) o posúdení a splnenia ďalších požiadaviek ustanovených osobitným predpisom<sup>24</sup>) rozhodne o udelení poverenia na vykonávanie činnosti technickej služby, potvrdení alebo rozšírení udeleného poverenia.
 
     - 10.2. Poverenie na vykonávanie činnosti technickej služby musí obsahovať
 
-      - a) označenie typového schvaľovacieho úradu,
+      - a) označenie typového schvaľovacieho orgánu,
 
       - b) jednoznačnú identifikáciu určenej technickej služby,
 
@@ -140,9 +140,9 @@ Príloha č. 6 k nariadeniu vlády č. 140/2009 Z. z.
 
   - 12. ZÁZNAMY O URČENÝCH TECHNICKÝCH SLUŽBÁCH
 
-    - 12.1. Typový schvaľovací úrad vedie záznamy o technických službách na preukázanie, že boli účinne splnené požiadavky na určenie vrátane spôsobilosti.
+    - 12.1. Typový schvaľovací orgán vedie záznamy o technických službách na preukázanie, že boli účinne splnené požiadavky na určenie vrátane spôsobilosti.
 
-    - 12.2. Typový schvaľovací úrad musí záznamy o technických službách uchovávať bezpečne, aby sa zaistila dôvernosť.
+    - 12.2. Typový schvaľovací orgán musí záznamy o technických službách uchovávať bezpečne, aby sa zaistila dôvernosť.
 
     - 12.3. Záznamy o technických službách musia obsahovať aspoň
 
