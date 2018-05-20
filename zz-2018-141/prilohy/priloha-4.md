@@ -1,0 +1,1 @@
+Príloha č. 4 k vyhláške č. 141/2018 Z. z. [VZOR POTVRDENIA O PREVZATÍ DOKLADOV](../assets/bccca5457f5fe01eae33a73b1217dd5f0684e846167795c70d22614cc21027eb.pdf)

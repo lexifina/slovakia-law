@@ -1,0 +1,1 @@
+Príloha č. 5 k vyhláške č. 141/2018 Z. z. [VZOR PROTOKOLU O KONTROLE](../assets/19263c64858a3ab08464f1038ebea7e31ac34b88e526b0569b37948e4366e167.pdf)
