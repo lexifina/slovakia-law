@@ -56,8 +56,6 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - 21. | Inštruktor autoškoly | inštruktorský preukaz | § 10 zákona č. 93/2005 Z. z. |
 
-- 22. | Vykonávanie montáže plynových zariadení | rozhodnutie o udelení oprávnenia na montáž plynových zariadení | § 88 ods. 7 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov |
-
 - 23. | Vyučovanie v odbore cudzích jazykov alebo Prekladateľské a tlmočnícke služby*) | – dokončené štúdium príslušných jazykov na vysokej škole alebo vysvedčenie o zložení štátnej jazykovej skúšky alebo – preukázanie aspoň 10-ročného pobytu v štáte s úradným jazykom, ktorý sa má vyučovať, prekladať alebo tlmočiť | *) nevzťahuje sa na výkon činnosti tlmočníkov a prekladateľov podľa zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
 
 - 24. | Vyučovanie v odbore umenia | – dokončené štúdium na príslušnej umeleckej škole alebo – spôsobilosť preukázaná 10-ročnou praktickou činnosťou v odbore | |

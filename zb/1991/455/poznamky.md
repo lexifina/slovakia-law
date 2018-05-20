@@ -134,31 +134,33 @@
 
 - 23j) Zákon Národnej rady Slovenskej republiky č. 277/1994 Z. z. o zdravotnej starostlivosti v znení neskorších predpisov.
 
-- 23k) § 39 zákona č. 725/2004 Z. z. o podmienkach prevádzky vozidiel v premávke na pozemných komunikáciách a o zmene a doplnení niektorých zákonov.
+- 23k) § 84 ods. 4 a 5 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
 
-- 23l) § 57 zákona č. 725/2004 Z. z.
+- 23l) § 84 ods. 4 a 6 zákona č. 106/2018 Z. z.
 
 - 23m) § 11 ods. 3 zákona č. 309/1991 Zb. o ochrane ovzdušia pred znečisťujúcimi látkami (zákon o ovzduší) v znení zákona Národnej rady Slovenskej republiky č. 148/1994 Z. z.
 
 - 23n) § 7 ods. 1 zákona č. 76/1998 Z. z. o ochrane ozónovej vrstvy Zeme a o doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 23pb) § 29 zákona č. 725/2004 Z. z.
+- 23pb) § 73 zákona č. 106/2018 Z. z.
 
-- 23pc) § 30 zákona č. 725/2004 Z. z.
+- 23pc) § 74 zákona č. 106/2018 Z. z.
 
-- 23pd) § 31 zákona č. 725/2004 Z. z.
+- 23pd) § 75 zákona č. 106/2018 Z. z.
 
-- 23pe) § 32 zákona č. 725/2004 Z. z.
+- 23pe) § 76 zákona č. 106/2018 Z. z.
 
-- 23pf) § 33 zákona č. 725/2004 Z. z.
+- 23pf) § 77 zákona č. 106/2018 Z. z.
 
-- 23pg) § 74 zákona č. 725/2004 Z. z.
+- 23pg) § 84 ods. 4 a 7 zákona č. 106/2018 Z. z.
 
 - 23ph) § 88 zákona č. 725/2004 Z. z.
 
 - 23q) Zákon č. 8 /2005 Z. z. o správcoch a zmene a doplnení niektorých zákonov.
 
 - 23qa) § 10 zákona č. 56/2018 Z. z. o posudzovaní zhody výrobku, sprístupňovaní určeného výrobku na trhu a o zmene a doplnení niektorých zákonov.
+
+- 23qb) § 84 ods. 4 a 8 zákona č. 106/2018 Z. z.
 
 - 23r) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení zákona č. 219/1991 Zb.
 
@@ -232,7 +234,7 @@
 
 - 36j) § 23 ods. 7 zákona č. 218/2013 o núdzových zásobách ropy a ropných výrobkov a o riešení stavu ropnej núdze a o zmene a doplnení niektorých zákonov.
 
-- 36ja) § 108e ods. 6 zákona č. 725/2004 Z. z. v znení zákona č. 412/2015 Z. z.
+- 36ja) § 154 ods. 8 zákona č. 106/2018 Z. z.
 
 - 36k) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
