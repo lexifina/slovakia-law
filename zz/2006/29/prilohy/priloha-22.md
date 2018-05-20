@@ -1,3 +1,0 @@
-Príloha č. 22 k vyhláške č. 29/2006 Z. z.
-
-- VZOR OZNAČENIA PRACOVISKA EMISNEJ KONTROLY [Vzor 22](../assets/1236af991480c8a6df0b57c9cb1748c77541a5e686bb5224bce6537cf8a9c931.pdf)

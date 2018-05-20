@@ -1,3 +1,0 @@
-Príloha č. 24 k vyhláške č. 29/2006 Z. z.
-
-- VZOR OZNAČENIA PRACOVISKA MONTÁŽE PLYNOVÝCH ZARIADENÍ LPG [Vzor 24](../assets/3aef41b5d835d6df1ae1351d4f7ffdf2f6a91384c93f11f37dc0666bf4582a30.pdf)

@@ -1,3 +1,0 @@
-Príloha č. 14 k vyhláške č. 29/2006 Z. z.
-
-- VZOR PEČIATKY POUŽÍVANEJ PRI KONTROLÁCH ORIGINALITY, JEJ NÁLEŽITOSTI A ŠPECIFIKÁCIA [Vzor 14](../assets/cbf17b4459c858c98b300b4f5bf5711ad5b9b6a6aa032bd8ba530b5641ccd8bf.pdf)
