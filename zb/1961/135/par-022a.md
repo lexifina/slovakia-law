@@ -8,7 +8,7 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33
 
 - a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 
-  - 1. užíva diaľnicu, cestu alebo miestnu komunikáciu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadmerných a nadrozmerných prepráv (zvláštne užívanie),
+  - 1. užíva diaľnicu, cestu alebo miestnu komunikáciu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadrozmerných dopráv a nadmerných dopráv (zvláštne užívanie),
 
   - 2. vykoná uzávierku diaľnice, cesty alebo miestnej komunikácie alebo nedodrží povolený termín uzávierky a obchádzky,
 
@@ -32,7 +32,7 @@ Cestný správny orgán a obec v rozsahu svojej pôsobnosti uložia pokutu do 33
 
 - g) neplní úlohy správy a údržby diaľnice, cesty alebo miestnej komunikácie, ktoré pre ňu vyplývajú z tohto zákona,
 
-- h) nedodrží podmienky uvedené v povolení na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pre nadmernú a nadrozmernú prepravu,
+- h) nedodrží podmienky uvedené v povolení na zvláštne užívanie diaľnic, ciest a miestnych komunikácií pre nadrozmernú dopravu a nadmernú dopravu,
 
 - ch) umiestni v rozhľadovom poli vodiča na križovatke skládky materiálov, reklamné stavby alebo iné zariadenie, ktoré neslúži na správu pozemnej komunikácie, na riadenie cestnej premávky ani na prevádzku dopravy, ktoré bránia v rozhľade vodičovi,
 

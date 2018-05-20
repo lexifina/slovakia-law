@@ -2,7 +2,7 @@
 
 (1) Štátny odborný dozor nad pozemnými komunikáciami vykonávajú:
 
-- a) nad diaľnicami a cestami pre motorové vozidlá ministerstvo,
+- a) nad diaľnicami a rýchlostnými cestami ministerstvo,
 
 - b) nad cestami I. triedy okresné úrady v sídle kraja,
 

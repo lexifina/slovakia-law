@@ -4,7 +4,7 @@
 
 - a) bez povolenia cestného správneho orgánu alebo v rozpore s vydaným povolením
 
-  - 1. užíva diaľnicu, cestu alebo miestnu komunikáciu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadmerných a nadrozmerných prepráv (zvláštne užívanie),
+  - 1. užíva diaľnicu, cestu alebo miestnu komunikáciu iným spôsobom než zvyčajným alebo na iné účely, než na ktoré sú určené, s výnimkou nadrozmerných dopráv a nadmerných dopráv (zvláštne užívanie),
 
   - 2. vykoná uzávierku cesty alebo miestnej komunikácie alebo nedodrží povolený termín uzávierky a obchádzky,
 
