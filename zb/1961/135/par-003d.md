@@ -1,6 +1,6 @@
 # § 3d Vlastníctvo a správa pozemných komunikácií
 
-(1) Diaľnice, cesty pre motorové vozidlá a cesty I. triedy vrátane ich prejazdných úsekov cez colné priestory a obce sú vo vlastníctve štátu, ak osobitný predpis<sup>2a</sup>) neustanovuje inak. Diaľnice, cesty pre motorové vozidlá a cesty I. triedy, ktorých verejným obstarávateľom je Slovenská republika na základe koncesnej zmluvy podľa osobitného predpisu<sup>2cba</sup>) (ďalej len „koncesné cesty"), sú vo vlastníctve štátu.
+(1) Diaľnice, rýchlostné cesty a cesty I. triedy vrátane ich prejazdných úsekov cez colné priestory a obce sú vo vlastníctve štátu, ak osobitný predpis<sup>2a</sup>) neustanovuje inak. Diaľnice, rýchlostné cesty a cesty I. triedy, ktorých verejným obstarávateľom je Slovenská republika na základe koncesnej zmluvy podľa osobitného predpisu<sup>2cba</sup>) (ďalej len „koncesné cesty"), sú vo vlastníctve štátu.
 
 (2) Cesty II. triedy a III. triedy vrátane ich prejazdných úsekov cez obce sú vo vlastníctve samosprávneho kraja, ak osobitný predpis<sup>2a</sup>) neustanovuje inak. Prejazdné úseky ciest II. a III. triedy cez colné priestory sú vo vlastníctve štátu.
 
@@ -10,11 +10,11 @@
 
 (5) Správu pozemných komunikácií vykonávajú,
 
-- a) ak ide o diaľnice, cesty pre motorové vozidlá a cesty podľa schváleného plánu rozvoja diaľnic a ciest vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory a koncesných ciest – Národná diaľničná spoločnosť,<sup>2ba</sup>)
+- a) ak ide o diaľnice, rýchlostné cesty a cesty podľa schváleného plánu rozvoja diaľnic a ciest vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory a koncesných ciest – Národná diaľničná spoločnosť,<sup>2ba</sup>)
 
 - b) ak ide o cesty vo vlastníctve štátu okrem ich prejazdných úsekov cez colné priestory – právnické osoby na tento účel zriadené ministerstvom,<sup>2c</sup>)
 
-- c) ak ide o cesty vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
+- c) ak ide o cesty a miestnych komunikácií pre cestnú nemotorovú dopravu vo vlastníctve samosprávneho kraja, samosprávny kraj, prípadne právnické osoby ním na tento účel založené alebo zriadené,
 
 - d) ak ide o prejazdné úseky ciest vo vlastníctve obce, o miestne komunikácie a účelové komunikácie vo vlastníctve obce – obce, prípadne právnické osoby nimi na tento účel založené alebo zriadené,
 

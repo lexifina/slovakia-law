@@ -1,12 +1,12 @@
 - 1) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
-- 1a) § 6 a 8 vyhlášky Ministerstva dopravy, pôšt a telekomunikácií Slovenskej republiky č. 116/1997 Z. z. o podmienkach premávky na pozemných komunikáciách.
-
 - 1c) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 1d) § 20 až 23 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 1e) § 20 až 22 zákona č. 50/1976 Zb. v znení neskorších predpisov.
+
+- 1f) Napríklad zákon č. 8/2009 Z. z. o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vyhláška Ministerstva vnútra Slovenskej republiky č. 9/2009 Z. z., ktorou sa vykonáva zákon o cestnej premávke a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 2) § 120 zákona č. 50/1976 Zb. o územnom konaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -85,6 +85,16 @@
 - 2s) Zákon Slovenskej národnej rady č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov.
 
 - 3) § 43 ods. 2 zákona č. 50/1976 Zb. v znení zákona č. 293/2014 Z. z.
+
+- 3a) § 69 ods. 1 písm. f) zákona č. 8/2009 Z. z. v znení zákona č. 144/2010 Z. z.
+
+- 3b) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 3c) § 44 ods. 12 a 13 a § 69 ods. 2 a 7 zákona č. 106/2018 Z. z. o prevádzke vozidiel v cestnej premávke a o zmene a doplnení niektorých zákonov.
+
+- 3d) Čl. 18 nariadenia Európskeho parlamentu a Rady (ES) č. 1071/2009 z 21. októbra 2009, ktorým sa ustanovujú spoločné pravidlá týkajúce sa podmienok, ktoré je potrebné dodržiavať pri výkone povolania prevádzkovateľa cestnej dopravy, a ktorým sa zrušuje smernica Rady 96/26/ES (Ú. v. EÚ L 300, 14. 11. 2009) v platnom znení.
+
+- 3e) Nariadenie Európskeho parlamentu a Rady (ES) č. 1100/2008 z 22. októbra 2008 o odstránení kontrol vykonávaných na hraniciach členských štátov v cestnej a vnútrozemskej vodnej doprave (kodifikované znenie) (Ú. v. EÚ L 304, 14. 11. 2008).
 
 - 4) § 6 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
 
