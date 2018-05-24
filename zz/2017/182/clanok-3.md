@@ -149,3 +149,5 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 - 17. V § 114 ods. 3 sa vypúšťajú slová „riaditeľ školského zariadenia alebo“.
 
 - 18. V § 130 ods. 6 druhej vete sa za slovo „preskúma“ vkladajú slová „osobný spis dieťaťa vedený v poradenskom zariadení a“.
+
+- 20. V prílohe sa slová „Smernica Rady 2004/114/ES z 13. decembra 2004 o podmienkach prijatia štátnych príslušníkov tretích krajín na účely štúdia, výmen žiakov, neplateného odborného vzdelávania alebo dobrovoľnej služby (Ú. v. EÚ, L 375, 23. 12. 2004)“ nahrádzajú slovami „Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016)“.

@@ -65,3 +65,9 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 - (2)
 
 - Od 1. septembra 2017 do 31. decembra 2018 sa do siete nezaraďujú školské zariadenia výchovného poradenstva a prevencie. O žiadostiach o zaradení školského zariadenia výchovného poradenstva a prevencie do siete, ktoré boli podané a o ktorých sa právoplatne nerozhodlo pred 1. septembrom 2017, sa rozhodne podľa predpisov účinných do 31. augusta 2017.“.
+
+- 13. Doterajší text prílohy sa označuje ako prvý bod a dopĺňa sa druhým bodom, ktorý znie:
+
+- „2.
+
+- Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016).“.
