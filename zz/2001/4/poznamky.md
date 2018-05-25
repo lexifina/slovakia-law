@@ -100,13 +100,11 @@
 
 - § 63 zákona č. 221/2006 Z. z. v znení zákona č. 371/2013 Z. z.
 
-- 17i) § 4 ods. 3 písm. a) šiesty bod zákona č. 122/2013 Z. z.
+- 17i) § 5 písm. f) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 18) § 4 ods. 4 zákona č. 154/2010 Z. z. o európskom zatýkacom rozkaze.
 
 - 18a) § 6 ods. 5 zákona č. 122/2013 Z. z.
-
-- 18b) § 31 zákona č. 122/2013 Z. z.
 
 - 18ba) Napríklad Občiansky súdny poriadok v znení neskorších predpisov, Trestný poriadok v znení neskorších predpisov, § 18 zákona č. 153/2001 Z. z. o prokuratúre a zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
 
