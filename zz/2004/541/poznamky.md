@@ -136,9 +136,11 @@
 
 - 37a) Prílohy č. 1 a 2 vyhlášky Úradu jadrového dozoru Slovenskej republiky č. 51/2006 Z. z., ktorou sa ustanovujú podrobnosti o požiadavkách na zabezpečenie fyzickej ochrany, Príloha II Dohovoru o fyzickej ochrane jadrových materiálov (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 329/2001 Z. z. o prijatí Dohovoru o fyzickej ochrane jadrových materiálov).
 
-- 37b) § 4 ods. 1 písm. n) zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+- 37b) Čl. 9 ods. 2 písm. g) nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
-- 37c) Zákon č. 482/2002 Z. z. v znení neskorších predpisov.
+- 37c) Čl. 6 ods. 1 písm. c) nariadenia (EÚ) 2016/679.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 37d) § 50 zákona č. 215/2004 Z. z.
 
@@ -163,6 +165,10 @@
 - Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
 
 - 41) § 8 až 13 zákona Národnej rady Slovenskej republiky č. 10/1996 Z. z.
+
+- 41a) Čl. 6 ods. 1 písm. e) nariadenia (EÚ) 2016/679.
+
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 42) Článok 35 Zmluvy o založení Európskeho spoločenstva pre atómovú energiu.
 
