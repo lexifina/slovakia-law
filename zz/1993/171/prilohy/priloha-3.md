@@ -1,9 +1,61 @@
-Príloha č. 3 k zákonu Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov
+Príloha č. 3 k zákonu č. 171/1993 Z. z.
 
-- ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
+- KATEGÓRIE TRESTNÝCH ČINOV
 
-  - 1. Rámcové rozhodnutie Rady 2006/960/SVV z 18. decembra 2006 o zjednodušení výmeny informácií a spravodajských informácií medzi orgánmi členských štátov Európskej únie činnými v trestnom konaní (Ú. v. EÚ L 386, 29. 12. 2006).
+  - (1) Kategórie trestných činov podľa § 69h ods. 1 sú:
 
-  - 2. Smernica Európskeho parlamentu a Rady 2004/38/ES z 29. apríla 2004 o práve občanov Únie a ich rodinných príslušníkov voľne sa pohybovať a zdržiavať sa v rámci územia členských štátov, ktorá mení a dopĺňa nariadenie (EHS) č. 1612/68 a ruší smernice 64/221/EHS, 68/360/EHS, 72/194/EHS, 73/148/EHS, 75/34/EHS, 75/35/EHS, 90/364/EHS, 90/365/EHS a 93/96/EHS (Ú. v. EÚ L 158, 30. 4. 2004).
+    - a) terorizmus a niektoré formy účasti na terorizme,
 
-  - 3. Rámcové rozhodnutie Rady 2008/977/SVV z 27. novembra 2008 o ochrane osobných údajov spracúvaných v rámci policajnej a justičnej spolupráce v trestných veciach (Ú. v. EÚ, L 350, 30. 12. 2008).
+    - b) vražda, ublíženie na zdraví,
+
+    - c) nedovolené odoberanie orgánov, tkanív a buniek,
+
+    - d) nedovolená výroba omamných a psychotropných látok, jedov alebo prekurzorov, ich držanie a obchodovanie s nimi,
+
+    - e) nedovolené zaobchádzanie s látkami s anabolickým alebo iným hormonálnym účinkom,
+
+    - f) obchodovanie s ľuďmi,
+
+    - g) únos, obmedzovanie osobnej slobody a branie rukojemníka,
+
+    - h) lúpež,
+
+    - i) znásilnenie,
+
+    - j) sexuálne zneužívanie a výroba detskej pornografie,
+
+    - k) obchodovanie s odcudzenými vozidlami,
+
+    - l) podvod vrátane podvodu týkajúceho sa finančných záujmov Európskej únie, poškodzovanie finančných záujmov Európskej únie,
+
+    - m) legalizácia príjmu z trestnej činnosti a falšovanie, pozmeňovanie a neoprávnená výroba peňazí a cenných papierov,
+
+    - n) počítačová kriminalita,
+
+    - o) poškodzovanie a znehodnocovanie kultúrnej pamiatky, poškodzovanie a znehodnocovanie archeologického dedičstva, falšovanie predmetov kultúrnej hodnoty a nedovolené obchodovanie s kultúrnymi objektmi vrátane starožitností a umeleckých diel,
+
+    - p) falšovanie a pozmeňovanie výrobkov vrátane konaní porušujúcich práva duševného vlastníctva alebo ich distribúcia,
+
+    - q) priemyselná špionáž a trestné činy proti priemyselným právam,
+
+    - r) nezákonné ovládnutie lietadla alebo plavidla,
+
+    - s) nedovolené obchodovanie so zbraňami, strelivom a výbušninami,
+
+    - t) účasť na zločinnom spolčení,
+
+    - u) nedovolená výroba a držanie jadrových materiálov, rádioaktívnych látok, vysoko rizikových chemických látok a vysoko rizikových biologických agensov a toxínov,
+
+    - v) trestné činy proti životnému prostrediu,
+
+    - w) sabotáž,
+
+    - x) korupcia,
+
+    - y) falšovanie a pozmeňovanie verejnej listiny a obchodovanie s takými listinami,
+
+    - z) uľahčenie neoprávneného prekročenia štátnej hranice a neoprávneného pobytu, prevádzačstvo,
+
+    - aa) trestné činy podliehajúce právomoci Medzinárodného trestného súdu.
+
+  - (2) Na priradenie trestného činu k niektorej z vyššie uvedených kategórií trestných činov sa nevyžaduje, aby sa pomenovanie alebo znaky trestného činu podľa právneho poriadku iného štátu a Slovenskej republiky zhodovali.

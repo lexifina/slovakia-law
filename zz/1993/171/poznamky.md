@@ -138,8 +138,6 @@
 
 - 27d) § 22 a 23 Trestného zákona.
 
-- 27da) Čl. 31 ods. 1 rozhodnutia Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
-
 - 27db) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. v znení neskorších predpisov.
 
 - 27dc) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
@@ -150,7 +148,29 @@
 
 - 27ea) Napríklad Dohoda medzi Radou Európskej únie a Islandskou republikou a Nórskym kráľovstvom o pridružení týchto dvoch štátov pri vykonávaní, uplatňovaní a rozvoji schengenského acquis (Mimoriadne vydanie Ú. v. EÚ, kap. 11/zv. 32).
 
-- 27eb) Napríklad rozhodnutie Rady 2009/371/SVV zo 6. apríla 2009 o zriadení Európskeho policajného úradu (Europol) (Ú. v. EÚ L 121, 15. 5. 2009,), rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+- 27eb) Napríklad nariadenie Európskeho parlamentu a Rady (EÚ) 2016/794 z 11. mája 2016 o Agentúre Európskej únie pre spoluprácu v oblasti presadzovania práva (Europol), ktorým sa nahrádzajú a zrušujú rozhodnutia Rady 2009/371/SVV, 2009/934/SVV, 2009/935/SVV, 2009/936/SVV a 2009/968/SVV (Ú. v. EÚ L 135, 24. 5. 2016),
+
+- rozhodnutie Rady 2008/615/SVV z 23. júna 2008 o zintenzívnení cezhraničnej spolupráce, najmä v boji proti terorizmu a cezhraničnej trestnej činnosti (Ú. v. EÚ L 210, 6. 8. 2008).
+
+- 27ec) Čl. 3 písm. g) nariadenia Európskeho parlamentu a Rady (ES) č. 785/2004 z 21. apríla 2004 o požiadavkách na poistenie leteckých dopravcov a prevádzkovateľov lietadiel (Ú. v. ES L 138, 30. 4. 2004) v platnom znení.
+
+- 27ed) § 2 písm. g) zákona č. 143/1998 Z. z. v znení neskorších predpisov.
+
+- Čl. 2 ods. 10 a 11 nariadenia Európskeho parlamentu a Rady (ES) č. 1008/2008 z 24. septembra 2008 o spoločných pravidlách prevádzky leteckých dopravných služieb v Spoločenstve (prepracované znenie) (Ú. v. EÚ L 293, 31. 10. 2008).
+
+- 27ee) Nariadenie (ES) č. 1008/2008.
+
+- 27ef) Čl. 2 ods. 13 vykonávacieho nariadenia Komisie (EÚ) č. 923/2012 z 26. septembra 2012, ktorým sa stanovujú spoločné pravidlá lietania a prevádzkové ustanovenia týkajúce sa služieb a postupov v letovej prevádzke a ktorým sa mení a dopĺňa vykonávacie nariadenie (EÚ) č. 1035/2011 a nariadenia (ES) č. 1265/2007, (ES) č. 1794/2006, (ES) č. 730/2006, (ES) č. 1033/2006 a (EÚ) č. 255/2010 (Ú. v. EÚ L 281, 13. 10. 2012) v platnom znení.
+
+- Príloha č. 15 k Dohovoru o medzinárodnom civilnom letectve (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 196/1995 Z. z.).
+
+- 27eg) Vykonávacie rozhodnutie Komisie (EÚ) 2017/759 z 28. apríla 2017 o spoločných protokoloch a formátoch údajov, ktoré majú používať leteckí dopravcovia pri prenose údajov zo záznamov o cestujúcich útvarom informácií o cestujúcich (Ú. v. EÚ L 113, 29. 4. 2017).
+
+- 27eh) § 73 až 77 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 27ei) § 44 až 46 zákona č. 18/2018 Z. z.
+
+- 27ej) Čl. 2 ods. 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/399 z 9. marca 2016, ktorým sa ustanovuje kódex Únie o pravidlách upravujúcich pohyb osôb cez hranice (Kódex schengenských hraníc) (kodifikované znenie) (Ú. v. EÚ L 77, 23. 3. 2016) v platnom znení.
 
 - 27f) Čl. 1 ods. 3 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu v znení neskorších predpisov.
 
@@ -187,3 +207,5 @@
 - 28je) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
 
 - 28k) Napríklad Trestný poriadok v znení neskorších predpisov, zákon č. 71/1967 Zb. v znení neskorších predpisov, zákon č. 4/2001 Z. z. o Zbore väzenskej a justičnej stráže v znení neskorších predpisov, zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
+
+- 28l) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
