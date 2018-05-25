@@ -12,7 +12,7 @@
 
 - e) vymedzený v súhlase členského štátu Európskej únie, ktorý osobné údaje poskytuje, alebo vymedzený v súhlase dotknutej fyzickej osoby,
 
-- f) ich ďalšieho historického, vedeckého alebo štatistického spracúvania.<sup>42d</sup>)
+- f) ich ďalšieho historického, vedeckého alebo štatistického spracúvania.
 
 (2) Ak príslušný orgán poskytne alebo sprístupní osobné údaje bez požiadania, ministerstvo alebo súd preverí, či sú tieto údaje potrebné na účel, na ktorý boli poskytnuté alebo sprístupnené. Ak príslušný orgán poskytne nepravdivé, neúplné alebo neaktuálne osobné údaje, musia sa tieto bezodkladne opraviť, zlikvidovať alebo zablokovať.
 
