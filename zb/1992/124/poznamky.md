@@ -76,12 +76,6 @@
 
 - Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5l) Napríklad zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení zákona č. 445/2008 Z. z.
-
-- 5m) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
-
-- 5n) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
-
 - 7) § 181 až 190 zákona č. 346/ 2005 Z. z. v znení zákona č. 253/2007 Z. z.
 
 - 7a) Napríklad zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, Obchodný zákonník v znení neskorších predpisov.
