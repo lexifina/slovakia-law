@@ -18,8 +18,6 @@
 
 (3) Vojenská polícia je oprávnená pri spracúvaní osobných údajov pri plnení úloh Vojenskej polície na účely trestného konania spracúvať všeobecne použiteľný identifikátor ustanovený osobitným zákonom<sup>5g</sup>) a biometrické údaje,<sup>5h</sup>) ak je to vzhľadom na účely trestného konania nevyhnutné.
 
-(4) Vojenská polícia je oprávnená spracúvať osobné údaje pri plnení úloh Vojenskej polície na účely trestného konania aj bez súhlasu osoby, ktorej sa týkajú, pričom je povinná dbať na ochranu jej súkromia. Ak nie je predpoklad ohrozenia plnenia úloh Vojenskej polície na účely trestného konania, Vojenská polícia zlikviduje osobné údaje; ak také osobné údaje neboli zlikvidované, Vojenská polícia dotknutej osobe oznámi, že o nej vedie osobné údaje.
+(4) Vojenská polícia nezlikviduje osobné údaje, ktoré sa uchovávajú v spisovom materiáli a nespracúvajú sa automatizovane.
 
-(5) Vojenská polícia nezlikviduje osobné údaje, ktoré sa uchovávajú v spisovom materiáli a nespracúvajú sa automatizovane.
-
-(6) Vojenská polícia spracúva podľa odsekov 1 až 4 aj osobné údaje získavané pri odhaľovaní a zisťovaní páchateľa činu inak trestného,<sup>5i</sup>) ktorého sa dopustila osoba, ktorá nie je trestne zodpovedná pre nedostatok veku alebo pre nepríčetnosť.
+(5) Vojenská polícia spracúva podľa odsekov 1 až 3 aj osobné údaje získavané pri odhaľovaní a zisťovaní páchateľa činu inak trestného,<sup>5i</sup>) ktorého sa dopustila osoba, ktorá nie je trestne zodpovedná pre nedostatok veku alebo pre nepríčetnosť.
