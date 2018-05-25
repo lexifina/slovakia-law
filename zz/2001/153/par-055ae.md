@@ -12,7 +12,7 @@
 
 - e) vymedzený v súhlase členského štátu, ktorý osobné údaje poskytuje alebo vymedzený v súhlase dotknutej fyzickej osoby,
 
-- f) ich ďalšieho historického, vedeckého alebo štatistického spracúvania.<sup>36b</sup>)
+- f) ich ďalšieho historického, vedeckého alebo štatistického spracúvania.
 
 (2) Ak príslušný orgán poskytne osobné údaje bez požiadania, prokuratúra preverí, či sú tieto údaje potrebné na účel, na ktorý boli poskytnuté alebo sprístupnené. Ak príslušný orgán poskytne nepravdivé, neúplné alebo neaktuálne osobné údaje, musia sa tieto bezodkladne opraviť, zlikvidovať alebo zablokovať.
 

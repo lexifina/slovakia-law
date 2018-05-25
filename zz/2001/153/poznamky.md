@@ -120,15 +120,15 @@
 
 - 34) § 28 ods. 2 zákona č. 335/1991 Zb. o súdoch a sudcoch v znení neskorších predpisov.
 
-- 35) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 428/2002 Z. z. v znení neskorších predpisov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 757/2004 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 35) Napríklad zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. v znení neskorších predpisov, zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov, zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 757/2004 Z. z. v znení neskorších predpisov, zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 36) Zákon č. 428/2002 Z. z. v znení neskorších predpisov.
+- 35a) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016),
+
+- Zákon č. 18/2018 Z. z. ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 36) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 36a) § 4 ods. 1 písm. f) zákona č. 428/2002 Z. z.
-
-- 36b) § 6 ods. 3 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
-
-- 36c) § 23 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 37) § 24a až 24e zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry v znení zákona č. 458/2003 Z. z.
 
