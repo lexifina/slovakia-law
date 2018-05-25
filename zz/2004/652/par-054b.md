@@ -16,7 +16,7 @@
 
 (3) Finančná správa môže požiadať príjemcu osobných údajov, ktorému poskytla osobné údaje podľa § 54a ods. 3, aby ju oboznámil s ich spracúvaním. Ak orgán členského štátu, ktorý finančnej správe poskytol osobné údaje podľa § 54a ods. 1, požiada finančnú správu, aby ho oboznámila so spracúvaním takýchto osobných údajov, finančná správa je povinná jeho žiadosti vyhovieť.
 
-(4) Finančná správa je oprávnená pri poskytnutí osobných údajov podľa § 54a ods. 3 požiadať orgán členského štátu, aby neinformoval dotknutú osobu o spracúvaní týchto osobných údajov, ak ide o prípady uvedené v § 55 ods. 4.
+(4) Finančná správa je oprávnená pri poskytnutí osobných údajov podľa § 54a ods. 3 požiadať orgán členského štátu, aby neinformoval dotknutú osobu o spracúvaní týchto osobných údajov, ak ide o prípady podľa osobitného predpisu.<sup>46ba</sup>)
 
 (5) Ak tento zákon alebo osobitný predpis ustanoví podmienky osobitného spôsobu spracúvania osobných údajov, finančná správa tieto podmienky uvedie pri ich poskytnutí podľa § 54a ods. 3.
 

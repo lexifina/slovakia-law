@@ -156,13 +156,13 @@
 
 - 46b) § 4 ods. 8 zákona č. 403/2004 Z. z. o európskom zatýkacom rozkaze a o zmene a doplnení niektorých zákonov.
 
+- 46ba) § 64 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 46c) § 4 ods. 1 písm. k) zákona č. 428/2002 Z. z.
 
 - 46d) Napríklad zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 224/2006 Z. z. o občianskych preukazoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 647/2007 Z. z. o cestovných dokladoch a o zmene a doplnení niektorých zákonov v znení zákona č. 445/2008 Z. z.
 
 - 46e) Zákon Národnej rady Slovenskej republiky č. 46/1993 Z. z. o Slovenskej informačnej službe v znení neskorších predpisov.
-
-- 46f) § 45 zákona č. 428/2002 Z. z. v znení zákona č. 90/2005 Z. z.
 
 - 47) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
