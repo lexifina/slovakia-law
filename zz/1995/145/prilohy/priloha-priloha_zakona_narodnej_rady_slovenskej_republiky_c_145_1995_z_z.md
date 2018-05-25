@@ -5732,9 +5732,19 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
     - Položka 273
 
-  - Osobitná registrácia informačného systému alebo jej zmena ..... | 50,- eur
+    - a) Konanie o schválení kódexu správania ..............................................................1 000 eur
 
-  - Poznámka: Poplatok podľa tejto položky vyberá Úrad na ochranu osobných údajov Slovenskej republiky. |
+    - b) Konanie o zmene kódexu správania ..................................................................1 000 eur
+
+    - c) Konanie o rozšírení kódexu správania ...............................................................1 000 eur
+
+    - d) Konanie o vydaní certifikátu ................................................................................5 000 eur
+
+    - e) Konanie o obnove certifikátu ............................................................................... 5 000 eur
+
+    - Konanie o udelení akreditácie ................................................................................. 7 000 eur
+
+    - g) Konanie o povolení pre certifikačný subjekt ........................................................... 250 eur.
 
   - XXIV. ČASŤ VÝKON VEREJNEJ MOCI ELEKTRONICKY
 
