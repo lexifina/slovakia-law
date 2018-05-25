@@ -1,1 +1,0 @@
-Eleonóra Kročianová v. r.
