@@ -36,7 +36,13 @@
 
 - 12a) Zákon č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
-- 12b) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+- 12b) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- 12c) Čl. 4 ods. 7 nariadenia (EÚ) 2016/679.
+
+- 12d) Čl. 14 ods. 5 písm. d), čl. 15 ods. 4 a čl. 20 ods. 4 nariadenia (EÚ) 2016/679.
+
+- 12e) Čl. 23, čl. 40 a čl. 90 nariadenia (EÚ) 2016/679.
 
 - 13) Napríklad § 30 a 31 Občianskeho súdneho poriadku, § 38 až 40a Trestného poriadku.
 
