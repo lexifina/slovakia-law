@@ -6,6 +6,8 @@
 
 - 1c) § 9 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
+- 1d) § 2 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 2) Napríklad zákon Slovenskej národnej rady č. 80/1990 Zb. o voľbách do Slovenskej národnej rady v znení neskorších predpisov, zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 564/1992 Zb. o spôsobe vykonania referenda a zákon č. 46/1999 Z. z. o spôsobe voľby prezidenta Slovenskej republiky, o ľudovom hlasovaní o jeho odvolaní a o doplnení niektorých ďalších zákonov.
 
 - 2a) § 38 ods. 1 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácií ústrednej štátnej správy v znení neskorších predpisov.
@@ -24,7 +26,7 @@
 
 - 3d) Nariadenie Európskeho parlamentu a Rady (ES) č. 808/2004 z 21. apríla 2004 o štatistikách Spoločenstva o informačnej spoločnosti (Mimoriadne vydanie Ú. v. EÚ, kap. 16/zv. 2; Ú. v. EÚ L 143, 30. 4. 2004) v platnom znení.
 
-- 4) Napríklad zákon č. 165/1998 Z. z. o sčítaní obyvateľov, domov a bytov v roku 2001.
+- 4) Napríklad zákon č. 165/1998 Z. z. o sčítaní obyvateľov, domov a bytov v roku 2001, zákon č. 263/2008 Z. z. o sčítaní obyvateľov, domov a bytov v roku 2011 a ktorým sa mení a dopĺňa zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
@@ -66,6 +68,14 @@
 
 - 9f) Napríklad § 26a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 233/2008 Z. z.
 
-- 10) Zákon č. 52/1998 Z. z. o ochrane osobných údajov v informačných systémoch.
+- 10) § 6 a nasl. zákona č. 18/2018 Z. z.
+
+- 10a) § 21 zákona č. 18/2018 Z. z., čl. 15 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
+
+- 10b) § 22 zákona č. 18/2018 Z. z., čl. 16 nariadenia (EÚ) 2016/679.
+
+- 10c) § 24 zákona č. 18/2018 Z. z., čl. 18 nariadenia (EÚ) 2016/679.
+
+- 10d) § 27 zákona č. 18/2018 Z. z., čl. 21 nariadenia (EÚ) 2016/679.
 
 - 11) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.
