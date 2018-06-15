@@ -22,7 +22,7 @@
 
 - 9) Napríklad § 23 a body 9 a 9a prílohy č. 2 zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
-- 9a) § 3 ods. 1 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov.
+- 9a) § 6 ods. 1 písm. c) a ods. 4 zákona č. 362/2011 Z. z. v znení zákona 156/2018.
 
 - 9b) § 9a zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
@@ -230,9 +230,9 @@
 
 - 55) § 3 ods. 5 zákona č. 577/2004 Z. z.
 
-- 55aa) § 47d ods. 7 a 9 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+- 55aa) § 47da ods. 2 a 4 zákona č. 581/2004 Z. z. v znení zákona č. 156/2018 Z. z.
 
-- 55ab) § 47d ods. 13 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+- 55ab) § 47da ods. 8 písm. c) zákona č. 581/2004 Z. z. v znení zákona č. 156/2018 Z. z.
 
 - 55ac) § 47c ods. 2 a 3 zákona č. 581/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
