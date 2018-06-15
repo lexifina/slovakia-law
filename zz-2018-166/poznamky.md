@@ -1,0 +1,1 @@
+- 1) § 2 ods. 2 vyhlášky Národného bezpečnostného úradu č. 165/2018, ktorou sa určujú identifikačné kritériá pre jednotlivé kategórie závažných kybernetických bezpečnostných incidentov a podrobnosti hlásenia kybernetických bezpečnostných incidentov.
