@@ -230,6 +230,8 @@
 
 - 53ad) § 61f ods. 2 písm. a) zákona č. 581/2004 Z. z. v znení zákona č. 250/2011 Z. z.
 
+- 53ae) § 67 ods. 6 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
 - 53b) § 267 zákona č. 73/1998 Z. z.
 
 - § 192 zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov.
