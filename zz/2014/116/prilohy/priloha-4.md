@@ -1,3 +1,0 @@
-Príloha č. 4 k vyhláške č. 116/2014 Z. z.
-
-- ÚDAJE POTREBNÉ NA VÝPOČET ROČNÉHO ZÚČTOVANIA POISTNÉHO ZA ROK 2013 [príloha 04](../assets/6ff491e6331ccb19f8f72e0d02a4753d88dca567772751e2b06d5c1368416334.pdf)
