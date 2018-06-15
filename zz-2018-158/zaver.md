@@ -1,0 +1,1 @@
+Soňa Pőtheová v. r.
