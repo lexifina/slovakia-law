@@ -42,6 +42,12 @@
 
 - 6aa) § 3 ods. 8 zákona č. 131/2010 Z. z. o pohrebníctve.
 
+- 6ab) § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
+- 6ac) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
+- 6ad) § 79 ods. 14 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.
+
 - 6b) § 102 ods. 1 písm. b) zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
 - § 137 ods. 2, § 141 a § 145 Civilného mimosporového poriadku.
@@ -165,8 +171,6 @@
 - § 69 zákona č. 195/1998 Z. z.
 
 - 31a) § 30 ods. 12 zákona č. 355/2007 Z. z. v znení zákona č. 140/2008 Z. z.
-
-- 31b) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
 
 - 32) § 115 Občianskeho zákonníka.
 

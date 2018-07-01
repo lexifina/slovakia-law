@@ -10,7 +10,7 @@
 
 (3) Poskytovanie ambulantnej pohotovostnej služby zabezpečuje organizátor podľa osobitného predpisu<sup>7e</sup>) prostredníctvom lekára s profesijným titulom
 
-- a) všeobecný lekár alebo lekára s profesijným titulom internista, ak sa zabezpečuje poskytovanie ambulantnej pohotovostnej služby pre dospelých,
+- a) všeobecný lekár alebo lekár s profesijným titulom internista alebo lekár zaradený do špecializačného štúdia v internistických špecializačných odboroch s najmenej trojročnou odbornou praxou v zariadení ústavnej zdravotnej starostlivosti, ak sa zabezpečuje poskytovanie ambulantnej pohotovostnej služby pre dospelých,
 
 - b) pediater, ak sa zabezpečuje poskytovanie ambulantnej pohotovostnej služby pre deti a dorast.
 
