@@ -740,7 +740,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - 4. záujmového združenia právnických osôb ...... | 16,50 eura
 
-  - 5. pozemkového spoločenstva ..... | 65 eur
+  - 5. pozemkového spoločenstva ..... | 16 eur
 
   - 6. spoločenstva vlastníkov bytových a nebytových priestorov ..... | 13 eur
 
@@ -793,6 +793,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - 7. neinvestičného fondu z registra neinvestičných fondov ..... | 16,50 eura
 
   - 8. neziskovej organizácie poskytujúcej všeobecne prospešné služby z registra neziskových organizácií poskytujúcich všeobecne prospešné služby ..... | 33 eur
+
+  - Poznámka Poplatok podľa písmena b) piateho bodu tejto položky sa nevyberie, ak ide o zmenu informatívneho údaju o listoch vlastníctva podľa zoznamu nehnuteľností, ktorá nastala v dôsledku prechodu práv a povinností k nehnuteľnostiam alebo v dôsledku zápisu rozhodnutia o schválení projektu pozemkových úpravy do katastra nehnuteľností. |
 
     - Položka 34a
 
@@ -5381,6 +5383,14 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
     - Poznámka
 
     - Sadzba poplatku podľa tejto položky sa neznižuje podľa § 6 ods. 2.
+
+    - Položka 238
+
+      - a) Žiadosť o autorizáciu na výkon overovania určeného meradla alebo na výkon úradného merania podľa osobitného predpisu<sup>47aa</sup>).......................................................................330 eur
+
+      - b) Žiadosť o zmenu autorizácie na výkon overovania určeného meradla alebo na výkon úradného merania podľa osobitného predpisu<sup>47aa</sup>).........................................................33 eur
+
+      - c) Žiadosť o predĺženie autorizácie na výkon overovania určeného meradla alebo na výkon úradného merania podľa osobitného predpisu<sup>47aa</sup>)....................................................165 eur.
 
     - Položka 239
 

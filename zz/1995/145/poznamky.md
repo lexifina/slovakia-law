@@ -560,7 +560,7 @@
 
 - 47a) § 7 až 9 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
-- 47aa) Zákon č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 47aa) Zákon č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
 - 47ab) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
