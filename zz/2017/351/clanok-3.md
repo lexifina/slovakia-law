@@ -140,6 +140,20 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
   - „<sup>55jaw</sup>) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
 
+- 13. § 79 sa dopĺňa odsekom 14, ktorý znie:
+
+- „(14)
+
+- Poskytovateľ, ktorý je držiteľom povolenia alebo držiteľom licencie na výkon samostatnej zdravotníckej praxe, je povinný zaslať národnému centru hlásenie o pacientovi s diagnostikovanou chorobou patologického hráčstva<sup>55d</sup>) na účely evidencie tohto pacienta v registri fyzických osôb vylúčených z hrania hazardných hier podľa osobitného predpisu.<sup>55l</sup>) Ak by pacient chcel odmietnuť liečbu z dôvodu evidencie v tomto registri, poskytovateľ hlásenie o pacientovi s diagnostikovanou chorobou patologického hráčstva podľa prvej vety nezašle, ale túto skutočnosť písomne zaznamená v zdravotnej dokumentácii; povinnosť tohto poskytovateľa podľa osobitných predpisov<sup>55m</sup>) a povinnosť podľa prvej vety sa týmto považuje za splnenú.“.
+
+  - Poznámky pod čiarou k odkazom 55l a 55m znejú:
+
+  - „<sup>55l</sup>) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
+  - <sup>55m</sup>) § 35a zákona č. 171/2005 Z. z. v znení zákona č. 386/2016 Z. z.
+
+  - § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.“.
+
 - 14. § 79b sa dopĺňa odsekom 7, ktorý znie:
 
 - „(7)
@@ -149,6 +163,16 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
   - Poznámka pod čiarou k odkazu 58cf znie:
 
   - „<sup>58cf</sup>) § 27c ods. 3 zákona č. 480/2002 Z. z. v znení neskorších predpisov.“.
+
+- 15. § 80ab sa dopĺňa odsekom 4, ktorý znie:
+
+- „(4)
+
+- Základná zložka mzdy<sup>60aab</sup>) sestry [§ 27 ods. 1 písm. d)], ktorá získala odbornú spôsobilosť na výkon povolania sestry nadobudnutím vysokoškolského vzdelania I. stupňa v študijnom odbore ošetrovateľstvo a II. stupňa v študijnom odbore ošetrovateľstvo, odbornú spôsobilosť na výkon špecializovaných činností v špecializačnom odbore podľa osobitného predpisu<sup>60aab</sup>) a vykonáva najmenej 5 rokov prax v tomto špecializačnom odbore v pracovnom pomere na ustanovený týždenný pracovný čas v zdravotníckom zariadení podľa § 7 ods. 2 u poskytovateľa, ktorý prevádzkuje zariadenie ústavnej zdravotnej starostlivosti, je najmenej 1,00-násobok priemernej mesačnej mzdy zamestnanca v hospodárstve Slovenskej republiky zistenej Štatistickým úradom Slovenskej republiky za kalendárny rok, ktorý dva roky predchádza kalendárnemu roku, v ktorom sa priznáva základná zložka mzdy.“.
+
+  - Poznámka pod čiarou k odkazu 60aab znie:
+
+  - „<sup>60aab</sup>) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.“.
 
 - 16. V § 81 ods. 1 písm. a) sa za slová „okrem § 79 ods. 1 písm. g),“ vkladá slovo „w),“.
 
@@ -224,7 +248,13 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - (2)
 
-- Povinnosť poskytovateľa vytvoriť príslušný elektronický zdravotný záznam podľa § 79 ods. 1 písm. zh) sa do 31. decembra 2020 nevzťahuje na elektronický záznam návrhu na zaradenie do zoznamu poistencov čakajúcich na poskytnutie plánovanej zdravotnej starostlivosti.<sup>83</sup>)“.
+- Povinnosť poskytovateľa vytvoriť príslušný elektronický zdravotný záznam podľa § 79 ods. 1 písm. zh) sa do 31. decembra 2020 nevzťahuje na elektronický záznam návrhu na zaradenie do zoznamu poistencov čakajúcich na poskytnutie plánovanej zdravotnej starostlivosti.<sup>83</sup>)
+
+- § 102ae
+
+- Prechodné ustanovenie k úpravám účinným od 1. júla 2018
+
+- Poskytovateľ je povinný najneskôr do 30. októbra 2018 poskytnúť údaje podľa § 79 ods. 14 vo vzťahu k fyzickej osobe, ktorej bola diagnostikovaná choroba patologického hráčstva pred 30. júnom 2018 a k uvedenému dňu neukončila liečbu choroby patologického hráčstva.“.
 
   - Poznámky pod čiarou k odkazom 82 a 83 znejú:
 

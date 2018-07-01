@@ -88,6 +88,20 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - 5. V § 4 ods. 6 sa za slová „a sociálnej kurately<sup>4ab</sup>)“ vkladajú slová „(ďalej len „zariadenie sociálnej pomoci“)“ a slová „so štandardnými ošetrovateľskými postupmi“ sa nahrádzajú slovami „v súlade so štandardnými postupmi na výkon prevencie, štandardnými diagnostickými postupmi a štandardnými terapeutickými postupmi“.
 
+- 6. § 6 sa dopĺňa odsekom 12, ktorý znie:
+
+- „(12)
+
+- Ošetrujúci zdravotnícky pracovník, ktorý diagnostikoval osobe chorobu patologického hráčstva, je povinný informovať túto osobu o tom, že poskytovateľ je povinný zaslať hlásenie o osobe s diagnostikovanou chorobou patologického hráčstva podľa osobitného predpisu<sup>6ab</sup>) do národného centra zdravotníckych informácií a že na základe tohto hlásenia bude zapísaný do registra fyzických osôb vylúčených z hrania hazardných hier podľa osobitného predpisu,<sup>6ac</sup>) ak osobitný predpis neustanovuje inak.<sup>6ad</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 6ab až 6ad znejú:
+
+  - „<sup>6ab</sup>) § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
+
+  - <sup>6ac</sup>) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
+  - <sup>6ad</sup>) § 79 ods. 14 zákona č. 578/2004 Z. z. v znení zákona č. 351/2017 Z. z.“.
+
 - 7. V § 7 ods. 1 písmeno d) znie:
 
 - „d)
@@ -272,6 +286,10 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
 
 - Ak sa má poskytnúť zdravotná starostlivosť v doplnkových ordinačných hodinách alebo ako domáca starostlivosť na žiadosť osoby mimo ordinačných hodín, zdravotná dokumentácia osoby musí obsahovať aj zápis, v ktorom sa uvedie poučenie osoby v čase poskytnutia zdravotnej starostlivosti, že ide o zdravotnú starostlivosť uhrádzanú touto osobou podľa cenníka všetkých zdravotných výkonov, ktoré poskytuje poskytovateľ, výšku úhrady za poskytnutie tejto zdravotnej starostlivosti a poučenie o možnosti poskytnutia zdravotnej starostlivosti uhrádzanej z verejného zdravotného poistenia mimo doplnkových ordinačných hodín. Tento zápis musí osoba potvrdiť ošetrujúcemu zdravotníckemu pracovníkovi svojím podpisom.“.
 
+- 23. V § 24 sa odseky 5 až 7 vypúšťajú.
+
+  - Poznámka pod čiarou k odkazu 31b sa vypúšťa.
+
 - 24. V § 41 odsek 1 znie:
 
 - „(1)
@@ -335,6 +353,8 @@ Zákon č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s
   - Doterajšie písmená ad) až al) sa označujú ako písmená ac) až ak).
 
 - 31. V § 46 ods. 1 písm. m) sa za slovo „hodiny“ vkladajú slová „a doplnkové ordinačné hodiny“.
+
+- 32. § 49g sa vypúšťa.
 
 - 33. Zákon sa dopĺňa prílohou č. 1, ktorá vrátane nadpisu znie:
 

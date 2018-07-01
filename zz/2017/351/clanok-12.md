@@ -98,6 +98,22 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 
 - identifikačné číslo elektronického preukazu zdravotníckeho pracovníka.“.
 
+- 19. V § 10 sa odsek 1 dopĺňa písmenami m) a n), ktoré znejú:
+
+- „m)
+
+- hlásení o pacientovi s diagnostikovanou chorobou patologického hráčstva,
+
+- n)
+
+- hlásení o tom, že pacient s diagnostikovanou chorobou patologického hráčstva sa považuje za vyliečeného.“.
+
+- 20. V § 10 ods. 4 sa za tretiu vetu vkladá nová štvrtá veta, ktorá znie: „Spracúvané osobné údaje zo zisťovaní udalostí charakterizujúcich zdravotný stav populácie podľa odseku 1 písm. m) a n) sa poskytujú v neanonymizovanej podobe správcovi registra fyzických osôb vylúčených z hrania hazardných hier na účely podľa osobitného predpisu<sup>34aa</sup>) bezodplatne do 20. dňa kalendárneho mesiaca.“.
+
+  - Poznámka pod čiarou k odkazu 34aa znie:
+
+  - „<sup>34aa</sup>) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.“.
+
 - 21. § 11 vrátane nadpisu znie:
 
 - „§ 11
@@ -369,3 +385,49 @@ Zákon č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o z
 - 33. V prílohe č. 3 piatom bode písm. a) sa slová „ekonomická aktivita“ nahrádzajú slovami „pracovný stav“ a za slová „vnútromaternicová antikoncepcia,“ sa vkladajú slová „spôsob vzniku terajšieho tehotenstva,“.
 
 - 34. V prílohe č. 3 ôsmom bode písm. a) sa za slovo „zamestnanie“ vkladá čiarka a slová „zamestnanecký status“ a za slová „zoznamu chorôb z povolania,“ sa vkladajú slová „kategória práce,“.
+
+- 35. Príloha č. 3 sa dopĺňa trinástym a štrnástym bodom, ktoré znejú:
+
+- „13.
+
+- Hlásenie o pacientovi s diagnostikovanou chorobou patologického hráčstva
+
+- a)
+
+- Zoznam spracúvaných osobných údajov
+
+- Údaje o osobe (meno a priezvisko, titul, rodné číslo, ak je pridelené, alebo dátum narodenia, ak rodné číslo pridelené nie je), dátum diagnostikovania choroby.
+
+- b)
+
+- Účel spracúvania osobných údajov
+
+- Účelom spracúvania osobných údajov je získať informácie o osobách, ktorým bola diagnostikovaná choroba patologického hráčstva na účel vylúčenia ich účasti na hazardných hrách podľa osobitného predpisu.<sup>34aa</sup>)
+
+- c)
+
+- Okruh dotknutých osôb
+
+- Osoby, ktorým bola diagnostikovaná choroba patologického hráčstva podľa medzinárodnej klasifikácie chorôb.
+
+- 14.
+
+- Hlásenie o tom, že pacient s diagnostikovanou chorobou patologického hráčstva sa považuje za vyliečeného
+
+- a)
+
+- Zoznam spracúvaných osobných údajov
+
+- Údaje o osobe (meno a priezvisko, titul, rodné číslo, ak je pridelené, alebo dátum narodenia, ak rodné číslo pridelené nie je), dátum ukončenia liečby.
+
+- b)
+
+- Účel spracúvania osobných údajov
+
+- Účelom spracúvania osobných údajov je získať informácie o osobách, u ktorých bola ukončená liečba choroby patologického hráčstva na účel ich výmazu z registra fyzických osôb vylúčených z hrania hazardných hier podľa osobitného predpisu.<sup>34aa</sup>)
+
+- c)
+
+- Okruh dotknutých osôb
+
+- Osoby, u ktorých bola ukončená liečba choroby patologického hráčstva.“.
