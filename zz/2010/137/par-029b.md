@@ -2,7 +2,11 @@
 
 (1) Ak osoby vykonávajúce odborný štátny dozor a štátny dozor pri výkone dozoru u kontrolovanej osoby
 
-- a) nezistia nedostatky, vypracujú záznam o výsledku kontroly, pri vypracovaní ktorého postupujú podľa odseku 7, a doručia ho kontrolovanej osobe bez zbytočného odkladu,
+- a) nezistia nedostatky, vypracujú
+
+  - 1. záznam o výsledku kontroly, pri vypracovaní ktorého postupujú podľa odseku 7 a doručia ho kontrolovanej osobe bez zbytočného odkladu,
+
+  - 2. oznámenie o výsledku kontroly pri odberoch palív, regulovaných výrobkov, vlastných kontrolných diskontinuálnych meraniach emisií alebo kontrolách plnenia požiadaviek na automatizované meracie systémy emisií vlastnými kontrolnými skúškami a inšpekciou zhody a doručia ho kontrolovanej osobe,
 
 - b) zistia nedostatky
 
@@ -24,7 +28,9 @@
 
 - a) doručením záznamu o vykonanom dozore kontrolovanej osobe,
 
-- b) vyhotovením zápisnice z prerokovania protokolu o výsledku kontroly.
+- b) doručením oznámenia o výsledku kontroly kvality palív, regulovaných výrobkov, výsledkoch vlastných kontrolných diskontinuálnych meraní emisií alebo výsledkoch kontrol plnenia požiadaviek na automatizované meracie systémy emisií vlastnými kontrolnými skúškami a inšpekciou zhody kontrolovanej osobe,
+
+- c) vyhotovením zápisnice z prerokovania protokolu o výsledku kontroly.
 
 (6) Písomnosť podľa odseku 1 písm. a) a b) druhého bodu a tretieho bodu sa považuje za doručenú do siedmich pracovných dní od jej uloženia u poštového prepravcu, aj keď ju adresát neprevzal.
 

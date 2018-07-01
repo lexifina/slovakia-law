@@ -1,6 +1,4 @@
-- 1) § 45 ods. 5 zákona č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov.
-
-- § 5 nariadenia vlády Slovenskej republiky č. 345/2006 Z. z. o základných bezpečnostných požiadavkách na ochranu zdravia pracovníkov a obyvateľov pred ionizujúcim žiarením.
+- 1) § 91 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
 
 - 1a) Nariadenie vlády Slovenskej republiky č. 391/2006 Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na pracovisko.
 
@@ -23,6 +21,12 @@
 - 5) § 2 písm. o) zákona č. 39/2013 Z. z. o integrovanej prevencii a kontrole znečisťovania životného prostredia a o zmene a doplnení niektorých zákonov.
 
 - 5a) § 2 písm. d) zákona č. 39/2013 Z. z.
+
+- 5b) § 2 písm. o) zákona č. 250/2012 o regulácii v sieťových odvetviach v znení neskorších predpisov.
+
+- 5c) Protokol k Dohovoru o diaľkovom znečisťovaní ovzdušia prechádzajúcom hranicami štátov z roku 1979, o dlhodobom financovaní Programu spolupráce pre monitorovanie a vyhodnocovanie diaľkového šírenia látok znečisťujúcich ovzdušie v Európe (EMEP), (Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 53/1994 Z. z. a oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 249/2006 Z. z.).
+
+- 5d) Napríklad § 4 ods. 2 písm. c) a d) a § 4b ods. 4 zákona č. 364/2004 Z. z. o vodách a o zmene zákona Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov (vodný zákon) v znení neskorších predpisov.
 
 - 6) § 5 a 6 zákona č. 355/2007 Z. z. v znení neskorších predpisov.
 
@@ -52,7 +56,7 @@
 
 - 12c) Zákon č. 3/2010 Z. z. o národnej infraštruktúre pre priestorové informácie v znení zákona č. 362/2015 Z. z.
 
-- 13) § 8 ods. 1 zákona č. 245/2003 Z. z .
+- 13) § 3 ods. 1 zákona č. 39/2013 Z. z.
 
 - 14) Napríklad § 16 ods. 3 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov, § 18 zákona č. 261/2002 Z. z. o prevencii závažných priemyselných havárií a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -124,9 +128,11 @@
 
 - 36) Zákon č. 71/1967 Zb. v znení neskorších predpisov.
 
-- 37) § 12 ods. 4 zákona č. 245/2003 Z. z. v znení zákona č. 532/2005 Z. z.
+- 37) § 9 ods. 4 písm. a) zákona č. 39/2013 Z. z.
 
 - 38) § 29 ods. 2 zákona č. 245/2003 Z. z.
+
+- 38a) STN EN 12341 Ochrana ovzdušia. Vonkajšie ovzdušie. Stanovenie hmotnostnej koncentrácie suspendovaných častíc PM<sub>10</sub> alebo PM<sub>2,5</sub> štandardnou gravimetrickou metódou merania (83 4602).
 
 - 39) § 3 ods. 2 zákona Národnej rady Slovenskej republiky č. 42/1994 Z. z. o civilnej ochrane obyvateľstva v znení neskorších predpisov.
 

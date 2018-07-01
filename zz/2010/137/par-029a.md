@@ -18,6 +18,6 @@
 
 - b) na vrátenie úplných materiálov prevzatých podľa § 29 ods. 5 písm. b) orgánom dozoru, najneskôr po skončení dozoru,
 
-- c) na oboznámenie s protokolom o kontrole pred jeho prerokovaním a podanie námietok k zneniu protokolu v určenej lehote,
+- c) na oboznámenie s protokolom o kontrole pred jeho prerokovaním a podanie námietok ku kontrolným zisteniam uvedeným v protokole v určenej lehote,
 
 - d) na prerokovanie protokolu o výsledku kontroly.
