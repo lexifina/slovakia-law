@@ -40,6 +40,16 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
 
   - <sup>8d</sup>) § 43b ods. 3 až 6 zákona č. 50/1976 Zb. v znení zákona č. 237/2000 Z. z.“.
 
+- 4. V § 5 sa odsek 7 dopĺňa písmenom o), ktoré znie:
+
+- „o)
+
+- názve referenčnej hodnoty a jej správcovi, ak je dostupná zmluva o úvere na bývanie, ktorá odkazuje na referenčnú hodnotu podľa osobitného predpisu<sup>22a</sup>) a informácie o dôsledkoch zmeny referenčnej hodnoty pre spotrebiteľa.“.
+
+  - Poznámka pod čiarou k odkazu 22a znie:
+
+  - „<sup>22a</sup>) Čl. 3 ods. 1 tretí bod nariadenia Európskeho parlamentu a Rady č. 2016/1011 z 8. júna 2016 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov, ktorým sa menia smernice 2008/48/ES a 2014/17/EÚ a nariadenie (EÚ) č. 596/2014 (Ú. v. EÚ L 171, 29. 6. 2016).“.
+
 - 5. V § 7 sa vypúšťa odsek 5.
 
   - Doterajšie odseky 6 až 9 sa označujú ako odseky 5 až 8.
@@ -152,4 +162,4 @@ Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorýc
 
 - k zákonu č. 90/2016 Z. z.
 
-- [Vzor](assets/3328a113f117d7c079e1461cb6f1913ae32a5fa593bdac78a4e834257fb8a7f0.pdf)“.
+- [Vzor](assets/d1b5089a97a66027531a920570bec87ca6949b56c20015c7bc5c5458d4fe4cb8.pdf)“.

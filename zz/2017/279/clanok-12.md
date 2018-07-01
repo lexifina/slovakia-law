@@ -18,6 +18,16 @@ Zákon č. 129/2010 Z. z. o spotrebiteľských úveroch a o iných úveroch a p�
 
 - 4. V § 4 ods. 1 písm. d) sa vypúšťajú slová „a termíne konečnej splatnosti spotrebiteľského úveru“.
 
+- 5. § 4 sa dopĺňa odsekom 15, ktorý znie:
+
+- „(15)
+
+- Ak ide o zmluvu o spotrebiteľskom úvere, ktorá odkazuje na referenčnú hodnotu podľa osobitného predpisu,<sup>15aa</sup>) názov referenčnej hodnoty a jej správcu a informáciu o dôsledkoch zmeny referenčnej hodnoty pre spotrebiteľa poskytne veriteľ alebo finančný agent spotrebiteľovi v samostatnom dokumente, ktorý môže byť pripojený k formuláru pre štandardné informácie o spotrebiteľskom úvere podľa odseku 2.“.
+
+  - Poznámka pod čiarou k odkazu 15aa znie:
+
+  - „<sup>15aa</sup>) Čl. 3 ods. 1 tretí bod nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/1011 z 8. júna 2016 o indexoch používaných ako referenčné hodnoty vo finančných nástrojoch a finančných zmluvách alebo na meranie výkonnosti investičných fondov, ktorým sa menia smernice 2008/48/ES a 2014/17/EÚ a nariadenie (EÚ) č. 596/2014 (Ú. v. EÚ L 171, 29. 6. 2016).“.
+
 - 6. V § 5 ods. 2 sa číslo „5“ nahrádza číslom „6“ a slovo „termínoch“ sa nahrádza slovom „frekvencii“.
 
 - 7. V § 7 ods. 4 sa za slovo „úveroch“ vkladajú slová „a úveroch na bývanie podľa osobitného predpisu<sup>1d</sup>)“ a slová „16 a 17“ sa nahrádzajú slovami „17 a 18“.
