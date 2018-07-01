@@ -150,7 +150,113 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 
 - 29. V § 45 písm. a) sa slová „v prílohe č. 2, pričom ak neexistujú obsahovo vhodné dátové prvky, použijú sa vlastné dátové prvky,“ nahrádzajú slovami „v Centrálnom modeli údajov, pričom ak neexistujú obsahovo vhodné dátové prvky v Centrálnom modeli údajov použijú sa dátové prvky uvedené v prílohe č. 2; v ostatných prípadoch sa použijú vlastné dátové prvky,“.
 
+- 30. V § 45 písm. b) sa vypúšťa slovo „spravidla“ a slovo „ministerstva“ sa nahrádza slovom „úradu“.
+
 - 31. V § 45 písm. c) sa slová „podľa prílohy č. 2“ nahrádzajú slovami „Centrálneho modelu údajov“.
+
+- 32. § 46 vrátane nadpisu znie:
+
+- „§ 46
+
+- Referencovateľný identifikátor
+
+- Štandardom pre referencovateľný identifikátor je
+
+- a)
+
+- používanie referencovateľného identifikátora v štruktúre „{protokol}://{doména}/{typ}/{trieda}/{podtrieda1/podtrieda2/...}/{referencia}/{verzia}/{cesta_k_súboru}“, pričom
+
+- 1.
+
+- protokol tvorí „https“,
+
+- 2.
+
+- doménu pre jednotné referencovateľné identifikátory tvorí „data.gov.sk“ a pre ostatné ľubovoľná iná platná doména zaregistrovaná v Centrálnom metainformačnom systéme
+
+- 3.
+
+- typ tvorí jeden z reťazcov, ktorými sú:
+
+- 3a.
+
+- „id“, ak referencovateľný identifikátor reprezentuje indivíduum,
+
+- 3b.
+
+- „doc“, ak referencovateľný identifikátor reprezentuje jednoznačný identifikátor pre úložisko elektronických dokumentov,
+
+- 3c.
+
+- „def“, ak referencovateľný identifikátor reprezentuje definičnú entitu v len sémantickom svete (ontológia, entita ontológie, pravidlá, abstraktný číselníkový typ),
+
+- 3d.
+
+- „set“, ak sa identifikuje súbor údajov,
+
+- 4.
+
+- triedu tvorí slovo alebo reťazec, ktoré zachytávajú podstatu identifikovanej entity skutočného sveta,
+
+- 5.
+
+- podtriedu tvorí slovo alebo reťazec sekundárnej klasifikácie triedy, ak je to potrebné; podtrieda nemusí byť použitá a môže vytvárať aj viacnásobnú štruktúru sekundárnych klasifikácií pre presnejšie a jednoznačnejšie zadefinovanie referencovateľného identifikátora,
+
+- 6.
+
+- referenciu tvorí číselný alebo textový reťazec, ktorý sa používa na identifikáciu jednotlivých inštancií konceptu, obvykle identifikátor pridelený systémom, ktorý vlastní šablónu referencovateľného identifikátora,
+
+- 7.
+
+- verzia je nepovinnou časťou referencovateľného identifikátora; v centrálnom metainformačnom systéme sa zapisuje ako regulárny výraz,
+
+- 8.
+
+- cesta k súboru je tvorená relatívnou cestou k súboru v danom úložisku; používa sa len pre typ „doc“ podľa písm. a) bod 3b,
+
+- b)
+
+- používanie anglického jazyka pre vytváranie triedy, referencie a verzie podľa písm. a); to neplatí, ak je pre referenciu nevyhnutné použitie slovenského jazyka bez diakritiky, napríklad skratky zo slov v slovenskom jazyku,
+
+- c)
+
+- nepoužívanie znaku interpunkcie lomka pre vytváranie triedy, identifikátora entity a verzie podľa § 46 písm. a); tento znak slúži ako oddeľovač jednotlivých štruktúr referencovateľného identifikátora,
+
+- d)
+
+- zaregistrovanie šablóny jednotného referencovateľného identifikátora v centrálnom metainformačnom systéme príslušným gestorom údaja; šablónu tvoria časti štruktúry uvedené v § 46 písm. a) bod 1 až 5,
+
+- e)
+
+- zaregistrovanie jednotného referencovateľného identifikátora v centrálnom metainformačnom systéme príslušným gestorom údaja, ak nie je používaný v šablóne podľa § 46 písm. d),
+
+- f)
+
+- poskytovanie dereferenciácie pre jednotný referencovateľný identifikátor,
+
+- g)
+
+- používanie jednotného referencovateľného identifikátora len pre údaje stotožnené s referenčnými údajmi podľa osobitného predpisu<sup>11aa</sup>), pre základné číselníky, položky základných číselníkov, elektronické formuláre a dátové prvky Centrálneho modelu údajov,
+
+- h)
+
+- používanie znaku mriežka „#“ na určenie podriadeného prvku v rámci údaja reprezentovaného referencovateľným identifikátorom, napríklad konkrétnej kapitoly dokumentu,
+
+- i)
+
+- používanie jednotného referencovateľného identifikátora na rozhraniach informačných systémov verejnej správy, pre údaje, ktorým je priradený podľa § 46 písm. d) a e),
+
+- j)
+
+- používanie referencovateľného identifikátora na identifikáciu údajov, pri sprístupňovaní údajov medzi orgánmi verejnej správy prostredníctvom modulu procesnej integrácie a integrácie údajov, ak týmto údajom nie je pridelený jednotný referencovateľný identifikátor,
+
+- k)
+
+- zverejňovanie referencovateľných identifikátorov používaných do 30. júna 2018 s priradením k zaregistrovaným jednotným referencovateľným identifikátorom, ak sú nimi nahrádzané, a to prostredníctvom centrálneho metainformačného systému.“.
+
+  - Poznámka pod čiarou k odkazu 11aa znie:
+
+  - „<sup>11aa</sup>) § 54a zákona č. 305/2013 Z. z.“.
 
 - 33. Za § 46 sa vkladá § 46a, ktorý vrátane nadpisu znie:
 
@@ -211,6 +317,50 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - „h)
 
 - zaregistrovanie elektronickej služby v centrálnom metainformačnom systéme.“.
+
+- 35. Za § 47 sa vkladá § 47a, ktorý vrátane nadpisu znie:
+
+- „§ 47a
+
+- Verejne dostupné aplikačné rozhrania
+
+- Štandardom pre verejne dostupné aplikačné rozhrania je
+
+- a)
+
+- poskytovanie verejne dostupného aplikačného rozhrania pre elektronické služby potrebné pre výkon verejnej moci elektronicky
+
+- b)
+
+- poskytovanie kvality elektronickej služby a podpory pre elektronickú službu na rovnakej úrovni ako pre povinné osoby,
+
+- c)
+
+- zverejnenie úplných podmienok prevádzky a používania verejného aplikačného rozhrania v centrálnom metainformačnom systéme,
+
+- d)
+
+- poskytovanie úplnej štruktúrovanej dokumentácie rozhrania v centrálnom metainformačnom systéme, a to v štruktúre údajov zverejnenej v centrálnom metainformačnom systéme,
+
+- e)
+
+- umožnenie udelenia a odobratia oprávnenia na delegovaný prístup k elektronickým službám pre aplikácie poskytované tretími stranami; oprávnenia udeľuje autentifikovaný používateľ,
+
+- f)
+
+- umožnenie časového ohraničenia delegovaného prístupu podľa písmena e) a k údajom používateľa, ak sa možnosť časového ohraničenia poskytuje,
+
+- g)
+
+- zabezpečenie oprávnení pre prístup k elektronickej službe podľa písmena e) prostredníctvom centrálneho modulu alebo iným spôsobom po dohode s úradom podľa § 4 ods. 1 písm. c) zákona,
+
+- h)
+
+- registrácia elektronickej služby v centrálnom metainformačnom systéme,
+
+- i)
+
+- poskytovanie testovacieho verejného aplikačného rozhrania.“.
 
 - 36. V § 49 písmeno a) znie:
 
@@ -315,6 +465,16 @@ Výnos Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandard
 - „d)
 
 - vytváranie formátov podľa písmena a) v súlade s validáciami podľa § 57e, ak je to preukázateľne a objektívne možné.“.
+
+- 49. V § 57d odsek 3 znie:
+
+- „(3)
+
+- Štandardom pre identifikovanie podpísaného elektronického dokumentu je identifikátor podľa technickej špecifikácie<sup>11m</sup>) obsahujúci hash hodnotu z podpísaného elektronického dokumentu alebo pri viacerých podpisoch podľa § 57a písm. f) alebo vo formáte podľa § 57b písm. a) nepriamy identifikátor podľa technickej špecifikácie<sup>11m</sup>) obsahujúci hash hodnotu z digitálneho podpisu, DER kódovaného výsledku asymetrickej funkcie, podpísaného elektronického dokumentu.“.
+
+  - Poznámka pod čiarou k odkazu 11m znie:
+
+  - „<sup>11m</sup>) MessageImprint, kapitola 2.4.1, IETF RFC 3161, X.509 Internet Public Key Infrastructure, Time-Stamp Protocol (TSP).“.
 
 - 50. § 57e vrátane nadpisu znie:
 
