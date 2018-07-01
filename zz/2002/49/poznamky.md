@@ -10,13 +10,15 @@
 
 - 7) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
-- 8) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona č. 348/1999 Z. z.
+- 8) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 9) § 5 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 10) § 4 ods. 2 písm. b) zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov.
 
 - 10a) § 7 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 10aa) § 2 ods. 4 zákona č. 207/2009 Z. z. o podmienkach vývozu a dovozu predmetu kultúrnej hodnoty a o doplnení zákona č. 652/2004 Z. z. o orgánoch štátnej správy v colníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v znení zákona č. 160/2018 Z. z.
 
 - 10b) Čl. 1 ods. 4 ústavného zákona č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu.
 

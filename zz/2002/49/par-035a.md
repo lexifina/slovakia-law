@@ -1,6 +1,6 @@
 # § 35a Osobitná odborná spôsobilosť na vykonávanie pamiatkového výskumu
 
-(1) Pamiatkový výskum podľa tohto zákona, okrem archeologického výskumu, môže vykonávať fyzická osoba, ktorá má osvedčenie o osobitnej odbornej spôsobilosti na vykonávanie pamiatkového výskumu (ďalej len „osvedčenie o odbornej spôsobilosti“) a pamiatkový úrad prostredníctvom fyzických osôb s osvedčením o odbornej spôsobilosti. Osvedčenie o odbornej spôsobilosti vydáva ministerstvo na obdobie piatich rokov; platnosť osvedčenia o odbornej spôsobilosti možno na základe žiadosti predĺžiť o ďalších päť rokov, a to aj opakovane.
+(1) Pamiatkový výskum podľa tohto zákona, okrem archeologického výskumu, môže vykonávať fyzická osoba, ktorá má osvedčenie o osobitnej odbornej spôsobilosti na vykonávanie pamiatkového výskumu (ďalej len „osvedčenie o odbornej spôsobilosti“) a pamiatkový úrad alebo ním zriadená právnická osoba prostredníctvom fyzickej osoby, ktorá je v pracovnoprávnom vzťahu s pamiatkovým úradom alebo ním zriadenou právnickou osobou, spĺňa kvalifikačné predpoklady podľa odseku 3 písm. a) a c) a má poverenie od pamiatkového úradu alebo ním zriadenej právnickej osoby na vykonávanie pamiatkového výskumu. Osvedčenie o odbornej spôsobilosti vydáva ministerstvo na obdobie piatich rokov; platnosť osvedčenia o odbornej spôsobilosti možno na základe žiadosti predĺžiť o ďalších päť rokov, a to aj opakovane.
 
 (2) Osvedčenie o odbornej spôsobilosti sa získava v týchto odboroch pamiatkového výskumu:
 
