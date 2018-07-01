@@ -100,7 +100,7 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 10. V prílohe č. 3 časti A písm. a) tabuľky č. 1 a 2 znejú:
 
-- „[tabuľka1](assets/059520c35232ec2ab3e78ad4d5f300ae328f5ca452efe87f73920d6aa4ab1931.pdf)“.
+- „[tabuľka1](assets/299568ec65bd0bff5165cd9e15740f2b4e61ac482b7ad2fb2707630d219ae464.pdf)“.
 
 - 11. V prílohe č. 3 časti A písm. b) desiaty bod znie:
 
@@ -142,12 +142,12 @@ Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotn
 
 - 12. V prílohe č. 3 časti A písm. c) tabuľka č. 3 znie:
 
-- „[tabuľka2](assets/8b1ea03973ad3476cc1b8cb7398c33957c6f2f6ab9bbb6ee65c8e4a58520a909.pdf)“.
+- „[tabuľka2](assets/9777e0880db87ff529091dcd839689c1dae8e5af8a5383ff356ea0a7df9db33c.pdf)“.
 
 - 13. V prílohe č. 3 časti B písm. a) tabuľka č. 1 znie:
 
-- „[tabuľka3](assets/63a34e6493e03ca26e14d41e5509f088d1f92542db0ce42c26d91b6cb18b2bea.pdf)“.
+- „[tabuľka3](assets/2f75d96de2829d59a61757750a933cc1c572754a943f09e183246adc92845675.pdf)“.
 
 - 14. V prílohe č. 3 časti B písm. b) tabuľka č. 2 znie:
 
-- „[tabuľka4](assets/48224a19a44e7c2ec03189079a5733e11aff5f214a2370e5cec3c806c1b772c7.pdf)“.
+- „[tabuľka4](assets/19c0c59ce50fdba7b135be98bddac0aa4f8f9bb0a1aea303f31bd8b86c323a07.pdf)“.
