@@ -1,10 +1,10 @@
-- 1) § 21 ods. 1 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
+- 1) § 21 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) § 22 ods. 4 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 2) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
 
 - 3) Zákon č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
 
-- 4) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+- 4) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 
 - 5) Napríklad § 54 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
 
@@ -14,37 +14,23 @@
 
 - Vyhláška Československej akadémie vied č. 55/1977 Zb. o ďalšom zvyšovaní kvalifikácie a o hodnotení tvorivej spôsobilosti vedeckých pracovníkov.
 
-- 8) § 2 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 8) § 9 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 9) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 9) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
-- 10) Zákon č. 313/2001 Z. z. o verejnej službe.
+- 10) Zákon č. 552/2003 Z. z. o výkone práce vo verejnom záujme v znení neskorších predpisov.
 
-- 11) § 2 ods. 2 zákona č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
-
-- 12) § 21, 22 a 23 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- Zákon č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13) Článok 102 Ústavy Slovenskej republiky.
 
-- 14) § 16 a 46 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 13a) § 25 ods. 1 a 2 zákona č. 243/2017 Z. z.
 
 - 15) Zákon Národnej rady Slovenskej republiky č. 10/1996 Z. z. o kontrole v štátnej správe v znení zákona č. 502/2001 Z. z.
 
-- 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
+- 16) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov,
 
-- 17) § 16 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. v znení neskorších predpisov.
-
-- 17a) § 8a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení zákona č. 40/2011 Z. z.
-
-- 18) § 36 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z.
-
-- 19) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu.
-
-- 20) Zákon č. 131/2002 Z. z.
-
-- 21) § 1 ods. 5 zákona č. 313/2001 Z. z.
-
-- 22) § 4 ods. 3 vyhlášky Československej akadémie vied č. 55/1977 Zb.
+- zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
 - 23) § 4 ods. 2 písm. a) až f) a h) zákona č. 243/2017 Z. z.
 
