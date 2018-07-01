@@ -1,3 +1,3 @@
 Príloha č. 4 k výnosu č. 55/2014 Z. z.
 
-- Štandard pre riadenie informačno-technologických projektov [príloha 04](../assets/dd9d287637662a2558fb085f8ebb83bdcaa3a3e28990d4117540f823c29872a9.pdf)
+- Štandard pre riadenie informačno-technologických projektov [príloha 04](../assets/0f670bedc701a519fe06c8b17652ce995a227853e5b34a761676bf15e23f4de6.pdf)

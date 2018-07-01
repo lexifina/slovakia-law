@@ -28,6 +28,8 @@
 
 - 11a) § 31 ods. 1 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č. 84/2014 Z. z.
 
+- 11aa) § 54a zákona č. 305/2013 Z. z.
+
 - 11ab) RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests.
 
 - 11ac) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -59,5 +61,7 @@
 - 11k) ISO 9362 Bankovníctvo. Bankové telekomunikačné správy. Bankové identifikačné kódy (BIC).
 
 - 11l) RFC 5646: Značky pre identifikáciu jazykov. STN ISO 639-1 Kódy názvov jazykov. Časť 1: Dvojmiestne abecedné kódy (01 0400). STN ISO 639-2 Kódy názvov jazykov. Časť 2: Trojmiestne abecedné kódy (01 0400).
+
+- 11m) MessageImprint, kapitola 2.4.1, IETF RFC 3161, X.509 Internet Public Key Infrastructure, Time-Stamp Protocol (TSP).
 
 - 21) RFC 3061: Menný priestor vo formáte Uniform Resource Name (URN) pre identifikátory objektov.
