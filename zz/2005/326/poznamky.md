@@ -180,6 +180,8 @@
 
 - 60) § 3 ods. 2 písm. h) zákona č. 543/2007 Z. z. o pôsobnosti orgánov štátnej správy pri poskytovaní podpory v pôdohospodárstve a rozvoji vidieka v znení neskorších predpisov.
 
+- 60a) Napríklad § 24 ods. 2 písm. f), h) a i) zákona č. 138/2010 Z. z. v znení neskorších predpisov, § 22 ods. 1 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách v znení zákona č. 110/2018 Z. z.
+
 - 61) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
