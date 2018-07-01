@@ -142,6 +142,10 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - zvýšený tlak vzduchu,
 
+- k)
+
+- oznámiť každoročne do 15. januára v elektronickej podobe príslušnému orgánu verejného zdravotníctva údaje týkajúce sa zamestnancov vykonávajúcich prácu zaradenú do druhej kategórie v rozsahu podľa odseku 3 k 31. decembru predchádzajúceho kalendárneho roka; údaje poskytne zamestnávateľ aj zástupcom zamestnancov,
+
 - l)
 
 - predkladať príslušnému orgánu verejného zdravotníctva v spolupráci s pracovnou zdravotnou službou návrhy na zaradenie prác do tretej kategórie alebo štvrtej kategórie a návrhy na zmenu alebo vyradenie prác z tretej kategórie alebo štvrtej kategórie podľa
@@ -952,4 +956,4 @@ Zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zm
 
 - 41. Príloha č. 3c vrátane nadpisu znie:
 
-- „[príloha č. 3c](assets/a24366c91df24db6dfed78ad4a3bb9947726c88da7ace2d691677330fa067415.pdf)“.
+- „[príloha č. 3c](assets/241b28c0a476b6163e5d887f0249575ea3b68be66dd271cbb6975ada75efe2f5.pdf)“.
