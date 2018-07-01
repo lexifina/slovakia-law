@@ -88,7 +88,7 @@ Príloha č. 1 k vyhláške č. 231/2013 Z. z.
 
     - 1) Nomenklatúra na podávanie správ podľa osobitného predpisu.<sup>11a</sup>)
 
-    - 2) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v príručke EMEP/EEA pre emisnú inventúru znečisťujúcich látok. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
+    - 2) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v príručke EMEP/EEA pre emisnú inventúru znečisťujúcich látok (ďalej len „príručka EMEP/EEA“), kde EMEP predstavuje Program spolupráce pre monitorovanie a vyhodnocovanie diaľkového šírenia látok znečisťujúcich ovzdušie v Európe a EEA – Európsku environmentálnu agentúru. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
 
     - 3) Cd (kadmium), Hg (ortuť), Pb (olovo).
 
@@ -114,7 +114,7 @@ Príloha č. 1 k vyhláške č. 231/2013 Z. z.
 
     - Vysvetlivky:
 
-    - 1) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v EMEP/EEA príručke pre emisnú inventúru znečisťujúcich látok. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
+    - 1) Prírodné emisie sa nahlasujú podľa metodík uvedených v osobitnom predpise<sup>11a</sup>) a v príručke EMEP/EEA. Nahlasujú sa osobitne a nezahŕňajú sa do celkových národných emisií.
 
     - 2) As (arzén), Cr (chróm), Cu (meď), Ni (nikel), Se (selén), Zn (zinok).
 

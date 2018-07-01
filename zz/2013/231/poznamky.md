@@ -28,6 +28,8 @@
 
 - 14) Vyhláška Ministerstva pôdohospodárstva životného prostredia a regionálneho rozvoja Slovenskej republiky č. 360/2010 Z. z. o kvalite ovzdušia.
 
+- 14a) Nariadenie Európskeho parlamentu a Rady (EÚ) č. 525/2013 z 21. mája 2013 o mechanizme monitorovania a nahlasovania emisií skleníkových plynov a nahlasovania ďalších informácií na úrovni členských štátov a Únie relevantných z hľadiska zmeny klímy a o zrušení rozhodnutia č. 280/2004/ES (Ú. v. EÚ L 165/13, 18. 6. 2013) v platnom znení.
+
 - 15) Článok 31 Nariadenia Európskeho parlamentu a Rady (ES) č. 1907/2006/ES z 18. decembra 2006 o registrácii, hodnotení, autorizácii a obmedzovaní chemických látok (REACH) a o zriadení Európskej chemickej agentúry, o zmene a doplnení smernice 1999/45/ES a o zrušení nariadenia Rady (EHS) č. 793/93 a nariadenia Komisie (ES) č. 1488/94, smernice Rady 76/769/EHS a smerníc Komisie 91/155/EHS, 93/67/EHS, 93/105/ES a2000/21/ES (Ú. v. EÚ L 396, 30. 12. 2006) v platnom znení.
 
 - 16) Príloha č. 2 k vyhláške Ministerstva životného prostredia Slovenskej republiky č. 411/2012 Z. z.
