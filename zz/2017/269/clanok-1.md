@@ -24,6 +24,8 @@ Zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení zá
 
 - 7. V § 9 ods. 7 sa na konci pripája táto veta: „Na označenie spotrebiteľského balenia cigár uvedených v § 4 ods. 3 písm. b) prvom bode uvedeného do daňového voľného obehu sa pri zmene sadzby dane môže použiť len kontrolná známka, na ktorej je uvedený znak pre platnosť novej sadzby spotrebnej dane tvorený dvomi veľkými písmenami abecedy rovnakými, ako má znak pre platnosť sadzby spotrebnej dane pred účinnosťou novej sadzby dane.“.
 
+- 8. V § 9 ods. 9 sa za druhú vetu vkladá nová tretia veta, ktorá znie: „Ak kratší z rozmerov bočnej strany spotrebiteľského balenia cigariet je menší ako kratší z rozmerov kontrolnej známky, kontrolná známka musí byť na spotrebiteľskom balení cigariet viditeľne umiestnená, pričom pri otvorení tohto spotrebiteľského balenia cigariet musí ostať nepoškodená aspoň jedna časť kontrolnej známky, kde je uvedená cena cigariet.“.
+
 - 9. V § 9 ods. 12 písm. o) sa za slovo „cigary“ vkladajú slová „uvedené v § 4 ods. 3 písm. b) prvom bode“.
 
 - 10. V § 9 ods. 13 sa za slovo „cigár“ vkladajú slová „uvedených v § 4 ods. 3 písm. b) prvom bode“.
