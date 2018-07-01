@@ -12,9 +12,7 @@
 
 - 3) Zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov.
 
-- 4) § 8 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov, vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 210/2000 Z. z. o meradlách a metrologickej kontrole v znení neskorších predpisov.
-
-- 5) Vyhláška Úradu pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky č. 207/2000 Z. z. o označenom spotrebiteľskom balení.
+- 4) § 11 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov.
 
 - 6) Zákon č. 281/2001 Z. z. o zájazdoch, podmienkach podnikania cestovných kancelárií a cestovných agentúr a o zmene a doplnení Občianskeho zákonníka v znení neskorších predpisov.
 
