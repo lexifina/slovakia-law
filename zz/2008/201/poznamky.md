@@ -2,9 +2,13 @@
 
 - 2) § 62 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
 
+- 2a) § 27a zákona č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 3) § 2 zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 4) § 34 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+- 4a) § 5 ods. 11 a 12 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5) Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
