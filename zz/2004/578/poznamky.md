@@ -74,6 +74,8 @@
 
 - 17e) § 2 ods. 31 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 17ea) § 8a ods. 13 zákona č. 576/2004 Z. z.
+
 - 17f) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 19) § 116 Občianskeho zákonníka.
@@ -87,6 +89,8 @@
 - 21) Zákon č. 455/1991 Zb. v znení neskorších predpisov.
 
 - 21a) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
+
+- 21aa) § 8a ods. 3 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 22) § 50 ods. 3 písm. b) zákona č. 581/2004 Z. z. v znení zákona č. 353/2005 Z. z.
 
@@ -120,7 +124,7 @@
 
 - 27) § 2 ods. 6 a § 21 zákona č. 576/2004 Z. z.
 
-- 27a) § 49 ods. 1 písm. d) zákona č. 422/2015 Z. z.
+- 27a) § 49 ods. 1 písm. a) a písm. d) štvrtý bod zákona č. 422/2015 Z. z.
 
 - 27b) § 45 ods. 1 písm. ad) zákona č. 576/2004 Z. z. v znení zákona č. 422/2015 Z. z.
 
@@ -156,6 +160,12 @@
 
 - 31c) Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 31d) § 140 ods. 2 a ods. 3 písm. a) až c) Zákonníka práce.
+
+- 31e) Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
+- Zákon č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z.z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 32) § 4 ods. 1 zákona č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení zákona č. 567/2001 Z. z.
 
 - 32a) § 11 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
@@ -167,6 +177,8 @@
 - 33a) Zákon č. 131/2002 Z. z. v znení neskorších predpisov.
 
 - Zákon č. 245/2008 Z. z. v znení neskorších predpisov.
+
+- 33aa) § 17 ods. 1 vyhlášky Ministerstva zdravotníctva slovenskej republiky č. 84/2016 Z. z., ktorou sa ustanovujú určujúce znaky jednotlivých druhov zdravotníckych zariadení.
 
 - 34) Zákon č. 219/2002 Z. z. o povolaní lekára, o Slovenskej lekárskej komore, o povolaní zubného lekára, o Slovenskej komore zubných lekárov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -310,6 +322,8 @@
 
 - 55jawc) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 55jawd) Čl. 10 ods. 1,4 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/852 zo 17. mája 2017 o ortuti a o zrušení nariadenia (ES) č. 1102/2008 (Ú. v. EÚ L 137, 24. 5. 2017).
+
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 55jc) § 201, 201a, 201b a 202 Trestného zákona.
@@ -335,6 +349,12 @@
 - 55jm) Napríklad § 155 až 158, 171 až 174, 176, 207, 209 a 210 Trestného zákona.
 
 - 55k) § 20 ods. 1 písm. d) zákona č. 581/2004 Z. z.
+
+- 55l) § 35a zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení zákona č. 386/2016 Z. z.
+
+- 55m) § 35a zákona č. 171/2005 Z. z. v znení zákona č. 386/2016 Z. z.
+
+- § 10 ods. 1 písm. m) a n) zákona č. 153/2013 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 56) § 25a zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
@@ -377,6 +397,8 @@
 - 60aa) § 119 ods. 3 Zákonníka práce.
 
 - 60aaa) § 118 Zákonníka práce.
+
+- 60aab) Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania, spôsobe ďalšieho vzdelávania zdravotníckych pracovníkov, sústave špecializačných odborov a sústave certifikovaných pracovných činností v znení neskorších predpisov.
 
 - 60ab) § 85 Zákonníka práce.
 

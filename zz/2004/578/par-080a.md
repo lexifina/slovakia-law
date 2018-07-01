@@ -10,10 +10,4 @@
 
 (4) Odmena za hodinu poskytovania pevnej ambulantnej pohotovostnej služby je najmenej vo výške celkových mzdových nákladov zodpovedajúcich mzde lekára podľa odseku 3 prvej vety, ak ide o odmenu pre poskytovateľa zdravotnej starostlivosti poskytujúceho zdravotnú starostlivosť v ambulancii pevnej ambulantnej pohotovostnej služby na základe iného vzťahu, ako je uvedený v odseku 3.
 
-(5) Odmena za poskytovanie pevnej ambulantnej pohotovostnej služby na základe rozpisu zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby vo výške podľa odseku 4 sa poskytovateľovi zdravotnej starostlivosti určenému v rozpise zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby v kalendárnom mesiaci, v ktorom nebolo zabezpečené poskytovanie pevnej ambulantnej pohotovostnej služby, znižuje o
-
-- a) 2 %, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené menej ako 7 hodín alebo 7 hodín,
-
-- b) 2,5 % za každé začaté 4 hodiny, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené viac ako 7 hodín a menej ako 49 hodín alebo 49 hodín,
-
-- c) 40 %, ak poskytovanie pevnej ambulantnej pohotovostnej služby nebolo zabezpečené viac ako 49 hodín.
+(5) Odmena za poskytovanie pevnej ambulantnej pohotovostnej služby na základe rozpisu zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby vo výške podľa odseku 4 sa poskytovateľovi zdravotnej starostlivosti určenému v rozpise zabezpečenia poskytovania pevnej ambulantnej pohotovostnej služby v kalendárnom mesiaci, v ktorom nebolo zabezpečené poskytovanie pevnej ambulantnej pohotovostnej služby, znižuje o 25 %.
