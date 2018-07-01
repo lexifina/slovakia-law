@@ -10,6 +10,14 @@ Nariadenie vlády Slovenskej republiky č. 640/2008 Z. z. o verejnej minimálnej
 
 - 2. typu, sú uvedené v prílohe č. 8.“.
 
+- 2. § 9 vrátane nadpisu znie:
+
+- „§ 9
+
+- Zubno-lekárska pohotovostná služba
+
+- Verejná minimálna sieť poskytovateľov zubno-lekárskej pohotovostnej služby, ktorí poskytujú špecializovanú zubno-lekársku ambulantnú zdravotnú starostlivosť, je ustanovená najmenej jedným poskytovateľom na 400 000 obyvateľov.“.
+
 - 3. Nariadenie vlády sa dopĺňa prílohou č. 8, ktorá vrátane nadpisu znie:
 
 - „Príloha č. 8
