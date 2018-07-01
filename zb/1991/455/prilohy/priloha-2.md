@@ -18,9 +18,7 @@ Príloha č. 2 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA 204 – Výroba zdravotníckych výrobkov, presných a optických prístrojov a hodín | | | |
 
-- 6. | Opravy a montáž určených meradiel | osvedčenie o skúške | § 29 ods. 2 zákona č. 142/2000 Z. z. o metrológii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov |
-
-- 7. | Overovanie určených meradiel alebo Úradné meranie | rozhodnutie o autorizácii | § 24 zákona č. 142/2000 Z. z. |
+- 6. | Opravy a montáž určených meradiel | doklad o spôsobilosti v oblasti metrológie | § 29 zákona č. 157/2018 Z. z. o metrológii a o zmene a doplnení niektorých zákonov |
 
 - 8. | Očná optika | – vyššie odborné vzdelanie na I strednej zdravotníckej škole v študijnom odbore diplomovaný optometrista alebo – úplné stredné odborné vzdelanie na strednej zdravotníckej škole v študijnom odbore očný optik a päťročná odborná prax – súhlasný posudok Štátneho ústavu pre kontrolu liečiv | § 33 ods. 2 zákona č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov § 118 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene a doplnení niektorých zákonov |
 
