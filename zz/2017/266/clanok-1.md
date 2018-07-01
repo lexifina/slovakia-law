@@ -2,6 +2,34 @@
 
 Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z. z., zákona č. 600/2003 Z. z., zákona č. 5/2004 Z. z., zákona č. 43/2004 Z. z., zákona č. 186/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 391/2004 Z. z., zákona č. 439/2004 Z. z., zákona č. 523/2004 Z. z., zákona č. 721/2004 Z. z., zákona č. 82/2005 Z. z., zákona č. 244/2005 Z. z., zákona č. 351/2005 Z. z., zákona č. 534/2005 Z. z., zákona č. 584/2005 Z. z., zákona č. 310/2006 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 460/2006 Z. z., zákona č. 529/2006 Z. z., zákona č. 592/2006 Z. z., zákona č. 677/2006 Z. z., zákona č. 274/2007 Z. z., zákona č. 519/2007 Z. z., zákona č. 555/2007 Z. z., zákona č. 659/2007 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 204/2008 Z. z., zákona č. 434/2008 Z. z., zákona č. 449/2008 Z. z., zákona č. 599/2008 Z. z., zákona č. 108/2009 Z. z., zákona č. 192/2009 Z. z., zákona č. 200/2009 Z. z., zákona č. 285/2009 Z. z., zákona č. 571/2009 Z. z., zákona č. 572/2009 Z. z., zákona č. 52/2010 Z. z., zákona č. 151/2010 Z. z., zákona č. 403/2010 Z. z., zákona č. 543/2010 Z. z., zákona č. 125/2011 Z. z., zákona č. 223/2011 Z. z., zákona č. 250/2011 Z. z., zákona č. 334/2011 Z. z., zákona č. 348/2011 Z. z., zákona č. 521/2011 Z. z., zákona č. 69/2012 Z. z., zákona č. 252/2012 Z. z., zákona č. 413/2012 Z. z., zákona č. 96/2013 Z. z., zákona č. 338/2013 Z. z., zákona č. 352/2013 Z. z., zákona č. 183/2014 Z. z., zákona č. 195/2014 Z. z., zákona č. 204/2014 Z. z., zákona č. 240/2014 Z. z., zákona č. 298/2014 Z. z., zákona č. 25/2015 Z. z., zákona č. 32/2015 Z. z., zákona č. 61/2015 Z. z., zákona č. 77/2015 Z. z., zákona č. 87/2015 Z. z., zákona č. 112/2015 Z. z., zákona č. 140/2015 Z. z., zákona č. 176/2015 Z. z., zákona č. 336/2015 Z. z., zákona č. 378/2015 Z. z., zákona č. 407/2015 Z. z., zákona č. 440/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 285/2016 Z. z., zákona č. 310/2016 Z. z., zákona č. 355/2016 Z. z., zákona č. 2/2017 Z. z., zákona č. 85/2017 Z. z., zákona č. 184/2017 Z. z. a zákona č. 264/2017 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 4 ods. 1 písm. b) sa za prvý bod vkladá nový druhý bod, ktorý znie:
+
+- „2.
+
+- predčasného starobného dôchodku,“.
+
+  - Doterajší druhý bod až štvrtý bod sa označujú ako tretí bod až piaty bod.
+
+- 2. V § 4 ods. 2 prvej vete sa vypúšťajú slová „o brigádnickej práci študentov“.
+
+- 3. V § 4 ods. 2 písm. a) sa slová „dohody o brigádnickej práci študentov podľa § 227a“ nahrádzajú slovami „dohody podľa § 227a“.
+
+- 4. V § 4 ods. 2 písmeno b) znie:
+
+- „b)
+
+- fyzická osoba v právnom vzťahu na základe dohody o vykonaní práce alebo dohody o pracovnej činnosti, ktorý jej zakladá právo na pravidelný mesačný príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3, ak je fyzickou osobou uvedenou v odseku 1 písm. b), okrem fyzickej osoby v právnom vzťahu na základe ňou určenej dohody podľa § 227a, ak mesačný príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3 z tejto dohody nepresiahne sumu podľa odseku 5,“.
+
+- 5. V § 4 ods. 5 a v § 7 ods. 3 sa vypúšťajú slová „o brigádnickej práci študentov“.
+
+- 6. V § 7 ods. 4 písm. c) sa za prvý bod vkladá nový druhý bod, ktorý znie:
+
+- „2.
+
+- predčasného starobného dôchodku,“.
+
+  - Doterajší druhý bod až štvrtý bod sa označujú ako tretí bod až piaty bod.
+
 - 7. V § 15 ods. 1 písm. d) sa slová „dôchodok, nedovŕšila dôchodkový vek a podala prihlášku na dôchodkové poistenie z dôvodu tejto starostlivosti“ nahrádzajú slovami „dôchodok a nedovŕšila dôchodkový vek“.
 
 - 8. V § 15 ods. 1 písm. e) sa slová „dôchodok, nedovŕšila dôchodkový vek a podala prihlášku na dôchodkové poistenie z dôvodu tohto opatrovania alebo výkonu osobnej asistencie“ nahrádzajú slovami „dôchodok a nedovŕšila dôchodkový vek“.
@@ -15,6 +43,10 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
   - Doterajšie odseky 2 až 5 sa označujú ako odseky 3 až 6.
 
 - 10. V § 15 ods. 6 sa slová „odsekoch 1 a 4“ nahrádzajú slovami „odsekoch 1 a 5“.
+
+- 11. V § 20 ods. 2 druhá veta znie: „Povinné dôchodkové poistenie zamestnanca v právnom vzťahu na základe ním určenej dohody podľa § 227a vzniká od prvého dňa kalendárneho mesiaca, v ktorom nadobudol postavenie zamestnanca na účely dôchodkového poistenia, najskôr od vzniku právneho vzťahu na základe tejto dohody, a zaniká od prvého dňa kalendárneho mesiaca, v ktorom stratil postavenie zamestnanca na účely dôchodkového poistenia, alebo dňom zániku právneho vzťahu na základe tejto dohody.“.
+
+- 12. V § 20 ods. 3 písm. a) sa za slová „starobného dôchodku,“ vkladajú slová „predčasného starobného dôchodku,“.
 
 - 13. § 22 vrátane nadpisu znie:
 
@@ -82,6 +114,28 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 17. V § 65a ods. 3 sa slovo „ministerstvo“ nahrádza slovami „Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky (ďalej len „ministerstvo“)“ a za slová „Zbierke zákonov“ sa vkladajú slová „Slovenskej republiky (ďalej len „Zbierka zákonov“)“.
 
+- 18. V § 67 sa za odsek 5 vkladá nový odsek 6, ktorý znie:
+
+- „(6)
+
+- Nárok na výplatu predčasného starobného dôchodku fyzickej osoby v právnom vzťahu na základe dohody určenej podľa § 227a zaniká odo dňa jeho splátky splatnej v kalendárnom mesiaci nasledujúcom po kalendárnom mesiaci, v ktorom úhrn príjmu z tejto dohody v príslušnom kalendárnom roku presiahol sumu 2 400 eur; na určenie príjmu sa primerane použije § 139c. Nárok na výplatu predčasného starobného dôchodku opätovne vzniká odo dňa jeho splátky splatnej v januári kalendárneho roka nasledujúceho po kalendárnom roku, v ktorom zanikol nárok na jeho výplatu podľa prvej vety.“.
+
+  - Doterajší odsek 6 sa označuje ako odsek 7.
+
+- 19. V § 67 ods. 7 sa na konci pripája táto veta: „Sumy vyplatené na predčasnom starobnom dôchodku po zániku nároku na výplatu predčasného starobného dôchodku podľa odseku 6 prvej vety sa zúčtujú so sumami predčasného starobného dôchodku, na ktorého výplatu opätovne vznikne nárok alebo so sumami starobného dôchodku podľa § 69a ods. 1.“.
+
+- 20. V § 68 sa za odsek 1 vkladá nový odsek 2, ktorý znie:
+
+- „(2)
+
+- Ak poistenec bol dôchodkovo poistený z dôvodu právneho vzťahu na základe dohody určenej podľa § 227a počas poberania predčasného starobného dôchodku alebo jeho časti, suma predčasného starobného dôchodku sa od 1. januára kalendárneho roka, v ktorom sa určuje suma predčasného starobného dôchodku, určí tak, že k sume predčasného starobného dôchodku vyplácanej k 1. januáru kalendárneho roka sa pripočíta suma určená ako súčin súčtu jednej polovice osobných mzdových bodov získaných za obdobie dôchodkového poistenia poistenca v právnom vzťahu na základe dohody určenej podľa § 227a v predchádzajúcom kalendárnom roku a aktuálnej dôchodkovej hodnoty; o určení sumy predčasného starobného dôchodku sa rozhodne do 31. marca kalendárneho roka, v ktorom sa určuje suma predčasného starobného dôchodku. Ak poistencovi podľa prvej vety zaniklo dôchodkové poistenie v kalendárnom roku, v ktorom sa určila suma predčasného starobného dôchodku podľa prvej vety alebo sa neurčila suma predčasného starobného dôchodku podľa prvej vety z dôvodu, že v predchádzajúcom kalendárnom roku nezískal obdobie dôchodkového poistenia v právnom vzťahu na základe dohody určenej podľa § 227a, suma predčasného starobného dôchodku sa na základe žiadosti o určenie sumy predčasného starobného dôchodku tohto poistenca určí tak, že k sume predčasného starobného dôchodku vyplácanej ku dňu zániku dôchodkového poistenia v právnom vzťahu na základe dohody určenej podľa § 227a sa pripočíta suma určená ako súčin súčtu jednej polovice osobných mzdových bodov získaných za obdobie dôchodkového poistenia v kalendárnom roku, v ktorom zaniklo dôchodkové poistenie, a aktuálnej dôchodkovej hodnoty.“.
+
+  - Doterajšie odseky 2 až 6 sa označujú ako odseky 3 až 7.
+
+- 21. V § 68 ods. 4 a 7 sa slová „odseku 2“ nahrádzajú slovami „odsekov 2 a 3“.
+
+- 22. V § 69a ods. 2 druhej vete sa za slová „ods. 2“ vkladajú slová „a 3“.
+
 - 23. V § 69a ods. 2 druhej vete sa slová „ods. 16“ nahrádzajú slovami „ods. 5“.
 
 - 24. V § 69b ods. 1 úvodnej vete sa za slovo „dôchodok“ vkladajú slová „alebo predčasný starobný dôchodok“.
@@ -103,6 +157,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - 30. V § 69c ods. 2 prvej vete sa za slová „starobného dôchodku“ vkladajú slová „alebo predčasného starobného dôchodku“.
 
 - 31. V § 69c ods. 3 prvej vete a v § 69d sa za slová ,,výplatu starobného dôchodku“ vkladajú slová „alebo predčasného starobného dôchodku“.
+
+- 32. V § 75 ods. 3 prvej vete a v § 77 ods. 3 prvej vete sa za slová „ods. 2“ vkladajú slová „a 3“.
 
 - 33. V § 81 ods. 7 písm. b) sa za slovo „dôchodku“ vkladajú slová „alebo predčasného starobného dôchodku“.
 
@@ -147,6 +203,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - (9)
 
 - Zvýšenie dôchodkových dávok sa zlučuje s dôchodkovou dávkou.“.
+
+- 35. V § 84 ods. 5 písm. b) sa vypúšťajú slová „o brigádnickej práci študentov“.
 
 - 36. V § 89 odseky 8 a 9 znejú:
 
@@ -228,7 +286,11 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 56. § 134 sa vypúšťa.
 
+- 57. V § 138 ods. 8 písm. a) a v § 139c ods. 2 a 3 sa vypúšťajú slová „o brigádnickej práci študentov“.
+
 - 58. V § 142 ods. 3 písm. c) sa slová „nezamestnaných občanov“ nahrádzajú slovami „uchádzačov o zamestnanie“.
+
+- 59. V § 143 ods. 1 tretej vete a štvrtej vete sa vypúšťajú slová „o brigádnickej práci študentov“.
 
 - 60. V § 144 ods. 1 sa suma „3,32 eura“ nahrádza sumou „5 eur“.
 
@@ -296,6 +358,16 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 
 - 73. V § 226 ods. 1 písm. o) piatom bode sa slová „ods. 9“ nahrádzajú slovami „ods. 8“.
 
+- 74. V § 227a odsek 1 znie:
+
+- „(1)
+
+- Fyzická osoba v právnom vzťahu na základe dohody o brigádnickej práci študentov a fyzická osoba v právnom vzťahu na základe dohody o vykonaní práce alebo dohody o pracovnej činnosti, ktorá je fyzickou osobou uvedenou v § 4 ods. 1 písm. b), má právo na účely § 4 ods. 2 určiť dohodu, na základe ktorej nebude mať postavenie zamestnanca na účely dôchodkového poistenia, ak mesačný príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3 z ňou určenej dohody nepresiahne sumu podľa § 4 ods. 5, ak jej právny vzťah zakladá právo na pravidelný mesačný príjem alebo ak priemerný mesačný príjem podľa § 3 ods. 1 písm. a) a ods. 2 a 3 z ňou určenej dohody nepresiahne sumu podľa § 4 ods. 5, ak jej právny vzťah zakladá právo na nepravidelný príjem. Fyzická osoba, ktorá si chce uplatniť právo na určenie dohody podľa prvej vety, je povinná určiť v jednom kalendárnom mesiaci najviac jednu dohodu.“.
+
+- 75. V § 227a ods. 2 úvodnej vete sa slová „o brigádnickej práci študentov“ nahrádzajú slovami „podľa odseku 1“.
+
+- 76. V § 227a ods. 4 sa vypúšťajú slová „o brigádnickej práci študentov“.
+
 - 77. V § 229 odsek 1 znie:
 
 - „(1)
@@ -305,6 +377,8 @@ Zákon č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 551/2003 Z
 - 78. V § 229 ods. 5 sa za slová „písm. c) až e)“ vkladajú slová „a h)“.
 
 - 79. V § 231 ods. 1 písm. a) sa slová „do ôsmich dní odo dňa, v ktorom začal“ nahrádzajú slovami „najneskôr v deň predchádzajúci dňu, v ktorom začne“.
+
+- 80. V § 231 ods. 1 písm. b) prvom bode až piatom bode sa vypúšťajú slová „o brigádnickej práci študentov“.
 
 - 81. V § 231 ods. 1 písm. b) prvom bode a druhom bode sa slová „najneskôr v deň nasledujúci po“ nahrádzajú slovami „do ôsmich dní od“.
 
