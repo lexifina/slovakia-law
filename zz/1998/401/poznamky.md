@@ -12,6 +12,8 @@
 
 - 4) § 19 ods. 1 písm. b) a d) zákona č. 478/2002 Z. z. v znení zákona č. 525/2003 Z. z.
 
+- 5) § 15 ods. 1 písm. e) zákona č. 137/2010 Z. z. o ovzduší v znení neskorších predpisov.
+
 - 6) § 19 ods. 1 písm. d) zákona č. 478/2002 Z. z.
 
 - 8) § 18 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
