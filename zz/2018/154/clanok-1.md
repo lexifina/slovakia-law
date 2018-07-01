@@ -2,6 +2,16 @@
 
 Nariadenie vlády Slovenskej republiky č. 238/2010 Z. z., ktorým sa ustanovujú podrobnosti o podmienkach prenajímania, predaja, zámeny a nadobúdania nehnuteľností Slovenským pozemkovým fondom v znení nariadenia vlády Slovenskej republiky č. 168/2011 Z. z., nariadenia vlády Slovenskej republiky č. 363/2012 Z. z., nariadenia vlády Slovenskej republiky č. 416/2014 Z. z. a nariadenia vlády Slovenskej republiky č. 7/2016 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 odsek 3 znie:
+
+- „(3)
+
+- Pozemok, ktorý tvorí podiel spoločne obhospodarovanej nehnuteľnosti, fond prenajíma pozemkovému spoločenstvu, ktorého členovia vlastnia podiel na tejto spoločne obhospodarovanej nehnuteľnosti, alebo osobe, ktorá má pozemok od členov pozemkového spoločenstva prenajatý na účely poľnohospodárstva a lesného hospodárstva.<sup>2</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 2 znie:
+
+  - „<sup>2</sup>) § 12 ods. 2 zákona č. 97/2013 z. z. o pozemkových spoločenstvách v znení zákona č. 110/2018 Z. z.“.
+
 - 2. V § 2 ods. 4 sa vypúšťa slovo „celkovou“ a za slovo „plochy“ sa vkladá čiarka a slová „najviac však so spoločnou výmerou 5 ha,“.
 
 - 3. V § 2 odsek 6 znie:
