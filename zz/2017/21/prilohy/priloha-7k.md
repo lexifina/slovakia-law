@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 21/2017 Z. z. [17](../assets/f10cf5e524e2e31219f281af277db2768bc8fd34a59922fd81a44db95847379a.pdf)
+Príloha č. 7 k vyhláške č. 21/2017 Z. z. [Príloha č. 7 k vyhláške č. 21/2017 Z. z.](../assets/10ae70c48dc297cca79a9e69e2fce3ae5829d80f47d698e727d3062c019db585.pdf)

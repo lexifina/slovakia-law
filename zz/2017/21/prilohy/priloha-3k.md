@@ -1,1 +1,1 @@
-Príloha č. 3 k vyhláške č. 21/2017 Z. z. [13](../assets/e0eb27c048aa1c3370fbe9030d148bfcd422be2c1c277a524a9f265ad5a1b0c6.pdf)
+Príloha č. 3 k vyhláške č. 21/2017 Z. z. [13](../assets/c0d9d1deb0f74f819459c8736edec2a9eecd16a99512343b91d9ca6b578b92d2.pdf)

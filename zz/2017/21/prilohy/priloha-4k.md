@@ -1,1 +1,1 @@
-Príloha č. 4 k vyhláške č. 21/2017 Z. z. [14](../assets/59d1510409295c97aea3e5548fa38f17f67f993f8377a9ba0f36a4bef24e12d4.pdf)
+Príloha č. 4 k vyhláške č. 21/2017 Z. z. [14](../assets/fa8953c28c7b7ab94f157972a7265e667ddac0ce8fb9911555dd1ad85d80b853.pdf)

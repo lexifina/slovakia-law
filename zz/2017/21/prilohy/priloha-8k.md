@@ -1,1 +1,1 @@
-Príloha č. 8 k vyhláške č. 21/2017 Z. z. [18](../assets/1db02bea65fb7a2b2cbce6895c1990fb1ecd805d9687afedcf3ac684e2bcb549.pdf)
+Príloha č. 8 k vyhláške č. 21/2017 Z. z. [Príloha č. 8 k vyhláške č. 21/2017 Z. z.](../assets/7e72cc9431eb8152130f0e927f8ac141a5c4f663657b5ed066ff84e8a1e4acf4.pdf)

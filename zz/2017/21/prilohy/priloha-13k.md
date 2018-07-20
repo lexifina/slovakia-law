@@ -1,1 +1,1 @@
-Príloha č. 13 k vyhláške č. 21/2017 Z. z. [23](../assets/e4667aabb78352ca4dd43ebd7ca7890714845e0f32a0ea306ce30e354b2e8d51.pdf)
+Príloha č. 13 k vyhláške č. 21/2017 Z. z. [23](../assets/0d5e42474a860ff2d0fd7080afb6a808099ca35f86a3439ad25645fd20127751.pdf)
