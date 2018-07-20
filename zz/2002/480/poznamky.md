@@ -36,7 +36,7 @@
 
 - 8e) § 56 ods. 7 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov.
 
-- 9) § 9 zákona č. 312/2001 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 9) § 20 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 11a) Napríklad Trestný poriadok.
 
@@ -45,6 +45,8 @@
 - 11ac) § 3 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11b) § 17 vyhlášky Ministerstva zdravotníctva Slovenskej republiky č. 79/1997 Z. z.
+
+- 11c) § 3 ods. 3 písm. a) zákona č. 580/2004 Z. z. v znení neskorších predpisov.
 
 - 12) Napríklad Zákonník práce.
 

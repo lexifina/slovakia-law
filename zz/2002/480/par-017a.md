@@ -1,5 +1,5 @@
 # § 17a
 
-(1) Účastník konania, jeho zákonný zástupca a opatrovník sa môže dať zastupovať advokátom alebo iným zástupcom, ktorého si zvolí; iným zástupcom môže byť len fyzická osoba s plnou spôsobilosťou na právne úkony alebo Centrum právnej pomoci.<sup>8c</sup>) V tej istej veci môže mať osoba uvedená v prvej vete len jedného zvoleného zástupcu.
+(1) Účastník konania, jeho zákonný zástupca alebo opatrovník sa môže dať zastupovať advokátom alebo iným zástupcom, ktorého si zvolí; iným zástupcom môže byť len fyzická osoba s plnou spôsobilosťou na právne úkony, Centrum právnej pomoci<sup>8c</sup>) alebo mimovládna organizácia, ktorá poskytuje právnu pomoc cudzincom. V tej istej veci môže mať osoba uvedená v prvej vete len jedného zvoleného zástupcu. Za mimovládnu organizáciu koná jej poverený zamestnanec alebo člen, ktorý má vysokoškolské právnické vzdelanie druhého stupňa.
 
 (2) Splnomocnenie na zastupovanie je potrebné preukázať písomným plnomocenstvom.

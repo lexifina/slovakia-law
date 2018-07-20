@@ -10,4 +10,6 @@
 
 (2) Ministerstvo v konaní o zrušenie doplnkovej ochrany z dôvodu podľa odseku 1 písm. a) prihliadne na to, či zmena okolností je podstatná a nemá len dočasný charakter.
 
-(3) Ak sa začalo konanie o zrušenie doplnkovej ochrany, doplnková ochrana trvá až do rozhodnutia o jej zrušení.
+(3) Ministerstvo zruší doplnkovú ochranu, ktorá bola poskytnutá podľa § 13b, ak cudzincovi, ktorému sa poskytla doplnková ochrana, udelil pobyt bez časového obmedzenia iný štát.
+
+(4) Ak sa začalo konanie o zrušenie doplnkovej ochrany, doplnková ochrana trvá až do rozhodnutia o jej zrušení.

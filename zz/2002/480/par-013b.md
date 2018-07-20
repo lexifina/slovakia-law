@@ -8,6 +8,6 @@
 
 - c) rodičom slobodného cudzinca, ktorému sa poskytla doplnková ochrana podľa § 13a, mladšieho ako 18 rokov alebo osobe, ktorej bol zverený do osobnej starostlivosti, ak s tým cudzinec, ktorému sa poskytla doplnková ochrana, vopred písomne súhlasí.
 
-(2) Žiadatelia uvedení v odseku 1 sa počas konania o udelenie azylu musia zdržiavať na území Slovenskej republiky a nesmú mať na území Slovenskej republiky udelený trvalý pobyt podľa osobitného zákona.<sup>6a</sup>)
+(2) Žiadatelia uvedení v odseku 1 sa musia zdržiavať na území Slovenskej republiky a nesmú mať na území Slovenskej republiky udelený trvalý pobyt podľa osobitného zákona.<sup>6a</sup>)
 
 (3) Ministerstvo poskytne doplnkovú ochranu aj dieťaťu narodenému na území Slovenskej republiky cudzinke, ktorej sa poskytla doplnková ochrana, ak je splnená povinnosť podľa § 4 ods. 5.

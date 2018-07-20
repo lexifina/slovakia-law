@@ -8,7 +8,7 @@ Cudzinec, ktorému sa poskytla doplnková ochrana, je povinný
 
 - c) oznámiť bezodkladne ministerstvu vznik, zmenu alebo skončenie pracovnoprávneho vzťahu,
 
-- d) odovzdať bezodkladne po vzniku pracovnoprávneho vzťahu ministerstvu doklad o oprávnení na poskytnutie zdravotnej starostlivosti,
+- d) odovzdať bezodkladne po vzniku pracovnoprávneho vzťahu ministerstvu doklad o oprávnení na poskytnutie zdravotnej starostlivosti, ak mu na základe vzniku pracovnoprávneho vzťahu vzniklo verejné zdravotné poistenie,<sup>11c</sup>)
 
 - e) dodržiavať vnútorný poriadok počas pobytu v pobytovom tábore,
 
@@ -16,4 +16,10 @@ Cudzinec, ktorému sa poskytla doplnková ochrana, je povinný
 
 - g) oznámiť písomne policajnému útvaru, že sa bude nepretržite viac ako 90 dní zdržiavať mimo územia Slovenskej republiky,
 
-- h) odovzdať ministerstvu doklad o oprávnení na poskytnutie zdravotnej starostlivosti, ak doplnková ochrana zanikla podľa § 15a ods. 1 písm. a) až c), e) a f).
+- h) oznámiť bezodkladne ministerstvu
+
+  - 1. nadobudnutie štátneho občianstva,
+
+  - 2. udelenie azylu<sup>2</sup>) alebo poskytnutie doplnkovej ochrany z dôvodu vážneho bezprávia iným členským štátom Európskej únie,
+
+  - 3. udelenie pobytu bez časového obmedzenia v inom štáte.

@@ -14,11 +14,13 @@
 
 - f) zrušením doplnkovej ochrany,
 
-- g) nadobudnutím štátneho občianstva Slovenskej republiky cudzincom, ktorému sa poskytla doplnková ochrana,
+- g) nadobudnutím štátneho občianstva Slovenskej republiky alebo štátneho občianstva iného členského štátu Európskej únie cudzincom, ktorému sa poskytla doplnková ochrana,
 
-- h) zastavením konania z dôvodu späťvzatia žiadosti o predĺženie doplnkovej ochrany, alebo
+- h) zastavením konania z dôvodu späťvzatia žiadosti o predĺženie doplnkovej ochrany,
 
-- i) uplynutím času, na ktorý bola doplnková ochrana poskytnutá, ak cudzinec, ktorému sa poskytla doplnková ochrana, nepodal v lehote podľa § 20 ods. 3 žiadosť o predĺženie doplnkovej ochrany.
+- i) uplynutím času, na ktorý bola doplnková ochrana poskytnutá, ak cudzinec, ktorému sa poskytla doplnková ochrana, nepodal v lehote podľa § 20 ods. 3 žiadosť o predĺženie doplnkovej ochrany, alebo
+
+- j) udelením azylu<sup>2</sup>) alebo poskytnutím doplnkovej ochrany z dôvodu vážneho bezprávia iným členským štátom Európskej únie.
 
 (2) Ak bola doplnková ochrana poskytnutá podľa § 13a zrušená, nepredĺžená alebo zanikla podľa odseku 1 písm. c), h) alebo písm. i), táto ochrana zaniká aj cudzincovi, ktorému sa poskytla na účel zlúčenia rodiny.
 
