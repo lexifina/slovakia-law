@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 248/2016 Z. z. [príloha](../assets/ac766b4fe7caaf7e347fff6bcd2473b16d41cef4131e04976dacc77542c14102.pdf)
+Príloha č. 2 k vyhláške č. 248/2016 Z. z. [príloha](../assets/3c0171525485c6df02ebe757a282022be23d114ea3609848106e8059dad7a326.pdf)

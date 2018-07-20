@@ -24,8 +24,6 @@
 
 - 13) § 23 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
-- 14) Zákon č. 650/2004 Z. z. v znení neskorších predpisov.
-
 - 15) § 76 a 76a Zákonníka práce v znení neskorších predpisov.
 
 - 16) § 152 Zákonníka práce v znení neskorších predpisov.

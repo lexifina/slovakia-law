@@ -1,1 +1,1 @@
-Príloha č. 11 k vyhláške č. 248/2016 Z. z. [príloha](../assets/77d4052df058e4bc9ded4b5e5a9b592c576aa654116484e90699d89568ad212f.pdf)
+Príloha č. 11 k vyhláške č. 248/2016 Z. z. [príloha](../assets/fe08edf6363162ed3a2fe9c36b90dc1fc7e0430c282258c63ca97c960a6a5406.pdf)

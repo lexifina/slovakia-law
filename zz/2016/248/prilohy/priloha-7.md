@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 248/2016 Z. z. [príloha](../assets/ed773efb9756ad28b23a981c76fca4d06cedffb13caf30f7b40cad78d16545a9.pdf)
+Príloha č. 7 k vyhláške č. 248/2016 Z. z. [príloha](../assets/f3410484cad514b17612e07937978168741c3b28333c210979c0d0813e014745.pdf)
