@@ -58,6 +58,8 @@
 
 - 28) § 47 ods. 3 a 4 vyhlášky Úradu pre reguláciu sieťových odvetví č. 24/2013 Z. z., ktorou sa ustanovujú pravidlá pre fungovanie vnútorného trhu s elektrinou a pravidlá pre fungovanie vnútorného trhu s plynom.
 
+- 28a) Napríklad čl. 107 a 108 Zmluvy o fungovaní Európskej únie (Ú. v. EÚ C 326, 26. 10. 2012), nariadenie Komisie (EÚ) č. 1407/2013 z 18. decembra 2013 o uplatňovaní článkov 107 a 108 Zmluvy o fungovaní Európskej únie na pomoc de minimis (Ú. v. EÚ L 352/1, 24. 12. 2013), nariadenie Komisie (EÚ) č. 651/2014 zo 17. júna 2014 o vyhlásení určitých kategórií pomoci za zlučiteľné s vnútorným trhom podľa článkov 107 a 108 zmluvy (Ú. v. EÚ L 187/1, 26. 6. 2014), oznámenie Komisie – Usmernenia o štátnej pomoci v oblasti ochrany životného prostredia a energetiky na roky 2014 – 2020 (Ú. v. EÚ C 200, 28. 6. 2014) a zákon č. 358/2015 Z. z. o úprave niektorých vzťahov v oblasti štátnej pomoci a minimálnej pomoci a o zmene a doplnení niektorých zákonov (zákon o štátnej pomoci).
+
 - 29) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
 
 - 30) Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č. 508/2009 Z. z., ktorou sa ustanovujú podrobnosti na zaistenie bezpečnosti a ochrany zdravia pri práci s technickými zariadeniami tlakovými, zdvíhacími, elektrickými a plynovými a ktorou sa ustanovujú technické zariadenia, ktoré sa považujú za vyhradené technické zariadenia.

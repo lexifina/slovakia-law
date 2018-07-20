@@ -1,1 +1,1 @@
-Príloha č. 1 k vyhláške č. 223/2016 Z. z. [Príloha č. 1 k vyhláške č. 223/2016 Z. z.](../assets/1a7faf8ba505d4090966f013764a242d44c0ecf52824544adc9917240848db2c.pdf)
+Príloha č. 1 k vyhláške č. 223/2016 Z. z. [Príloha č. 1 k vyhláške č. 223/2016 Z. z.](../assets/efafc1aa3cd867c489ff69fd38648cfaddacfba98fc8744a461ea9853c524dc5.pdf)

@@ -1,1 +1,1 @@
-Príloha č. 17 k vyhláške č. 223/2016 Z. z. [Príloha č. 17 k vyhláške č. 223/2016 Z. z.](../assets/e0aae1b12844c44f117177abe97bdb0ccc0f935df63977ccf74890f0915876c6.pdf)
+Príloha č. 17 k vyhláške č. 223/2016 Z. z. [Príloha č. 17 k vyhláške č. 223/2016 Z. z.](../assets/a59a14b4e93de782068c82cf0dedb5c91b52fcd094032e40037ff03c1cf2c992.pdf)
