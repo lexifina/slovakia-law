@@ -22,6 +22,14 @@
 
 - 9) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 9a) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+
+- 9b) § 8 zákona č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
+
+- 9c) Čl. 3 ods. 27 nariadenia (EÚ) č. 910/2014.
+
+- 9d) Čl. 3 ods. 34 nariadenia (EÚ) č. 910/2014.
+
 - 10) § 2 ods. 14 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 11) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
@@ -53,6 +61,8 @@
 - 20) § 6 ods. 2 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov.
 
 - 21) § 10 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+
+- 21a) § 11 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení zákona č. 273/2015 Z. z.
 
 - 22) § 8 ods. 1 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
