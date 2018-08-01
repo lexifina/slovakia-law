@@ -48,8 +48,6 @@
 
 - 19) Čl. 1 ods. 2 vykonávacieho nariadenia Komisie (EÚ) 2017/39 z 3. novembra 2016 o pravidlách uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ) č. 1308/2013 v súvislosti s pomocou Únie na dodávanie ovocia, zeleniny, banánov a mlieka vo vzdelávacích zariadeniach (Ú. v. EÚ L 5, 10. 1. 2017).
 
-- 20) § 7 ods. 3 až 5 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
-
 - 21) Čl. 26 nariadenia Európskeho parlamentu a Rady (EÚ) č. 1169/2011 z 25. októbra 2011 o poskytovaní informácií o potravinách spotrebiteľom, ktorým sa menia a dopĺňajú nariadenia Európskeho parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a ktorým sa zrušuje smernica Komisie 87/250/EHS, smernica Rady 90/496/EHS, smernica Komisie 1999/10/ES, smernica Európskeho parlamentu a Rady 2000/13/ES, smernice Komisie 2002/67/ES a 2008/5/ES a nariadenie Komisie (ES) č. 608/2004 (Ú. v. EÚ L 304, 22. 11. 2011) v platnom znení.
 
 - 22) Čl. 3 ods. 2 písm. a) nariadenia (ES) č. 1333/2008 zo 16. decembra 2008 o prídavných látkach v potravinách (Ú. v. EÚ
@@ -67,10 +65,6 @@
 - 26) Čl. 9 ods. 1 písm. h) nariadenia (EÚ) č. 1169/2011 v platnom znení.
 
 - 27) Čl. 6 ods. 1 písm. a), c), e) a f) delegovaného nariadenia (EÚ) 2017/40.
-
-- 28) § 20i ods. 2 Občianskeho zákonníka v znení neskorších predpisov.
-
-- 29) § 9 ods. 1 zákona č. 83/1990 Zb. o združovaní občanov.
 
 - 30) Čl. 6 ods. 1 písm. b), d), e) a f) delegovaného nariadenia (EÚ) 2017/40.
 
@@ -91,6 +85,8 @@
 - 37) Čl. 5 ods. 2 nariadenia Rady (EÚ) č. 1370/2013 v platnom znení.
 
 - 38) Čl. 11 delegovaného nariadenia (EÚ) 2017/40.
+
+- 38a) § 22 ods. 1 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
 
 - 39) Čl. 4 ods. 4 vykonávacieho nariadenia (EÚ) 2017/39.
 
