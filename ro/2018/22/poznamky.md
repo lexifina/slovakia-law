@@ -1,0 +1,1 @@
+- 1) Vyhláška Štatistického úradu Slovenskej republiky č. 323/2010 Z. z., ktorou sa vydáva Štatistická klasifikácia stavieb.
