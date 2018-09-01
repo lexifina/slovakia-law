@@ -1,0 +1,7 @@
+# Čl. II
+
+Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., zákona č. 600/1992 Zb., zákona Národnej rady Slovenskej republiky č. 278/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 106/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 171/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 58/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 317/1996 Z. z., zákona Národnej rady Slovenskej republiky č. 373/1996 Z. z., zákona č. 11/1998 Z. z., zákona č. 127/1999 Z. z., zákona č. 263/1999 Z. z., zákona č. 238/2000 Z. z., zákona č. 147/2001 Z. z., zákona č. 500/2001 Z. z., zákona č. 426/2002 Z. z., zákona č. 510/2002 Z. z., zákona č. 526/2002 Z. z., zákona č. 530/2003 Z. z., zákona č. 432/2004 Z. z., zákona č. 315/2005 Z. z., zákona č. 19/2007 Z. z., zákona č. 84/2007 Z. z., zákona č. 657/2007 Z. z., zákona č. 659/2007 Z. z., zákona č. 429/2008 Z. z., zákona č. 454/2008 Z. z. a zákona č. 477/2008 Z. z. sa dopĺňa takto:
+
+- 1. V § 204a ods. 5 druhej vete sa na konci pripájajú tieto slová: „alebo ak to vyžaduje osobitný predpis“.
+
+- 2. V § 408a ods. 8 sa na konci pripája táto veta: „Záväzok podriadenosti však v celom rozsahu prechádza na postupníka pri postúpení pohľadávky, s ktorou je spojený záväzok podriadenosti; rovnako záväzok podriadenosti v celom rozsahu prechádza na nadobúdateľa pohľadávky pri inom odplatnom alebo bezodplatnom prevode alebo prechode pohľadávky, s ktorou je spojený záväzok podriadenosti.“.
