@@ -26,7 +26,7 @@
 
 - a) spôsob výberu nadobúdateľa,
 
-- b) nadobúdateľa prevádzaného majetku s uvedením jeho identifikačného alebo rodného čísla, ak je nadobúdateľom obchodná spoločnosť, k rozhodnutiu musí byť okrem výpisu z obchodného registra priložená aj spoločenská, resp. zakladateľská zmluva alebo zakladateľská listina,
+- b) označenie nadobúdateľa prevádzaného majetku s uvedením jeho identifikačného čísla organizácie alebo rodného čísla,
 
 - c) spôsob určenia kúpnej ceny; ak je kúpna cena určená dohodou, uvedie sa absolútna suma,
 
