@@ -76,8 +76,6 @@
 
 - 24) Napríklad zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov.
 
-- 24a) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
-
 - 25) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
 - 26) § 32 zákona č. 364/2004 Z. z. v znení zákona č. 230/2005 Z. z.
