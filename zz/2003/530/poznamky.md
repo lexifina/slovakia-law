@@ -54,6 +54,10 @@
 
 - 11) § 108 ods. 1, § 109 ods. 1 a 2 a § 111 Obchodného zákonníka.
 
+- 11a) § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 11b) § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
+
 - 12) § 226 ods. 1 Obchodného zákonníka.
 
 - 13) § 221 ods. 3 Obchodného zákonníka.
