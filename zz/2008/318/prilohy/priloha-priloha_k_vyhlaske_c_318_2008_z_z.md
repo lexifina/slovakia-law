@@ -56,7 +56,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
   - 15 | slovenský jazyk a literatúra | | 100´ | 150´ | 20´ | 20´
 
-  - 16 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 100´ | 150´ | 20´ | 20´
+  - 16 | slovenský jazyk a slovenská literatúra<sup>4</sup>) | | 100´ | 90´ | 20´ | 20´
 
   - 17 | španielsky jazyk | C1 | 150´ | 90´ | 20´ | 20´
 
@@ -132,9 +132,9 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
       - Test z cudzieho jazyka alebo z druhého vyučovacieho jazyka pre žiakov so sluchovým postihnutím neobsahuje úlohy na počúvanie s porozumením.
 
-      - Písomnou formou internej časti maturitnej skúšky je vypracovanie centrálne zadanej témy v určenej žánrovej forme. Písomná forma internej časti maturitnej skúšky sa zadáva vo všetkých školách v rovnakom čase, koná sa pod externým dozorom a vyhodnocuje sa interne na základe centrálnych pokynov.
+      - Písomnou formou internej časti maturitnej skúšky je vypracovanie štruktúrovaného centrálneho zadania v určenej žánrovej forme. Písomná forma internej časti maturitnej skúšky sa zadáva vo všetkých školách v rovnakom čase, koná sa pod externým dozorom a vyhodnocuje sa interne na základe centrálnych pokynov.
 
-      - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň C1:
+      - Charakteristika zadania písomnej formy internej časti maturitnej skúšky pre úroveň C1:
 
         - a) napísať jasný, detailný a správne kompozične a syntakticky členený text na zložité témy so spoločenskou alebo s odbornou tematikou,
 
@@ -154,7 +154,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - i) vedieť aplikovať štylistické a kompozičné postupy náučného a populárno-náučného štýlu.
 
-      - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň B2:
+      - Charakteristika zadania písomnej formy internej časti maturitnej skúšky pre úroveň B2:
 
         - a) napísať jasný a detailný text na rôzne témy, ktoré žiaka zaujímajú,
 
@@ -172,7 +172,7 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
         - h) napísať referát, diskusný príspevok, správu, rozprávanie.
 
-      - Charakteristika témy písomnej formy internej časti maturitnej skúšky pre úroveň B1:
+      - Charakteristika zadania písomnej formy internej časti maturitnej skúšky pre úroveň B1:
 
         - a) písať jednoducho a jasne o témach, ktoré sú žiakovi známe a zaujímajú ho,
 
@@ -224,9 +224,13 @@ Príloha k vyhláške č. 318/2008 Z. z.
 
     - 5. Slovenský jazyk a slovenská literatúra
 
-      - Externá časť maturitnej skúšky zo slovenského jazyka a slovenskej literatúry sa skladá z centrálne vypracovanej, vo všetkých školách v rovnakom čase zadanej, pod externým dozorom konanej a externe vyhodnotenej písomnej skúšky – testu. Test sa skladá len z úloh s výberom odpovede a z úloh s krátkou odpoveďou.
+      - Externá časť maturitnej skúšky zo slovenského jazyka a slovenskej literatúry sa skladá z centrálne vypracovanej, vo všetkých školách v rovnakom čase zadanej, pod externým dozorom konanej a externe vyhodnotenej písomnej skúšky – testu. Test overuje komunikačné kompetencie v častiach počúvanie s porozumením, čítanie s porozumením a jazyk a literatúra. V rámci počúvania s porozumením sa preveruje, ako vedia žiaci efektívne počúvať hovorený prejav v slovenskom jazyku, porozumieť mu a získať z neho informácie, ktoré sú potrebné na splnenie úloh v teste. Test sa skladá len z úloh s výberom odpovede a z úloh s krátkou odpoveďou.
 
-      - Písomnou formou internej časti sú centrálne pripravené súbory štyroch tém, prípadne východiskové texty a určené žánrové formy. Žiak si vyberie a vypracuje iba jednu tému. Písomná práca sa vo všetkých školách zadáva v rovnakom čase, koná sa pod externým dozorom a vyhodnocuje sa interne na základe centrálnych pokynov.
+      - Písomnou formou internej časti maturitnej skúšky sú centrálne pripravené štyri témy s osnovou a určené žánrové formy podľa vzdelávacieho štandardu štátneho vzdelávacieho programu zo slovenského jazyka a slovenskej literatúry. Žiak si vyberie a vypracuje iba jednu tému. Písomná práca sa vo všetkých školách zadáva v rovnakom čase, koná sa pod externým dozorom a vyhodnocuje sa interne na základe centrálnych pokynov.
+
+      - Úpravy pre žiakov so zdravotným znevýhodnením:
+
+      - Test zo slovenského jazyka a slovenskej literatúry pre žiakov so sluchovým postihnutím neobsahuje úlohy na počúvanie s porozumením.
 
       - Charakteristika úloh písomnej práce:
 
