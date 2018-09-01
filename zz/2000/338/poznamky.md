@@ -150,6 +150,8 @@
 
 - 17a) Príloha č. 2 Skupina 214 – Ostatné zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov.
 
+- 17aa) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 17b) § 12 ods. 7 zákona č. 576/2004 Z. z. o zdravotnej starostlivosti, službách súvisiacich s poskytovaním zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 17c) § 2 ods. 6 a § 21 zákona č. 576/2004 Z. z.
