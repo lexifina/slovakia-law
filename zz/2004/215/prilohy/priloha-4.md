@@ -2,7 +2,7 @@ Príloha č. 4 k zákonu č. 215/2004 Z. z.
 
 - ÚDAJE POŽADOVANÉ V BEZPEČNOSTNOM DOTAZNÍKU PODNIKATEĽA Bezpečnostný dotazník podnikateľa obsahuje:
 
-  - a) identifikačné údaje podnikateľa, najmä názov, sídlo, identifikačné číslo, rok vzniku, predchádzajúce sídla, právnu formu podnikania, živnostenský list, výpis z obchodného registra, daňové identifikačné číslo, počet zamestnancov,
+  - a) identifikačné údaje podnikateľa, najmä názov, sídlo, identifikačné číslo, rok vzniku, predchádzajúce sídla, právnu formu podnikania, daňové identifikačné číslo, počet zamestnancov,
 
   - b) hospodárske údaje podnikateľa, najmä ročné účtovné závierky za posledných päť rokov, audítorské správy, predmet podnikania,
 
