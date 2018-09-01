@@ -14,6 +14,8 @@
 
 - 8) Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 272/1994 Z. z., zákon Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane v znení neskorších predpisov.
 
+- 8a) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 9) Zákon č. 30/1968 Zb. o štátnom skúšobníctve v znení neskorších predpisov.
 
 - 9a) § 23 zákona č. 431/2002 Z. z. v znení zákona č. 547/2011 Z. z.
