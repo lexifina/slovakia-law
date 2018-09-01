@@ -10,6 +10,8 @@
 
 - 10) § 16 ods. 2 zákona č. 313/1999 Z. z. v znení neskorších predpisov.
 
+- 10a) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 11) Napríklad § 50 zákona č. 326/2005 Z. z. o lesoch, § 17 zákona č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
 - 12) § 21 ods. 1 písm. c) zákona č. 364/2004 Z. z. v znení neskorších predpisov.
