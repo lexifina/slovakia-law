@@ -2,7 +2,7 @@
 
 - Nariadenie Rady (ES) č. 834/2007 z 28. júna 2007 o ekologickej výrobe a označovaní ekologických produktov, ktorým sa zrušuje nariadenie (EHS) č. 2092/91 (Ú. v. EÚ L 189, 20. 7. 2007).
 
-- 2) § 69 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+- 2) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 3) Napríklad § 663 až 670 Občianskeho zákonníka.
 
