@@ -22,4 +22,4 @@
 
 - c) prehľadný, dôveryhodný a zákonný pôvod finančných prostriedkov predstavujúcich finančnú zábezpeku uvedením skutočností o pôvode týchto finančných prostriedkov.
 
-(5) Žiadateľ k žiadosti o udelenie individuálnej licencie podľa odseku 1 priloží výpis z obchodného registra nie starší ako tri mesiace odo dňa podania žiadosti o udelenie individuálnej licencie podľa odseku 1, zakladaciu listinu a doklady podľa § 20 ods. 6 písm. c), d) a f) až l) a ods. 10.
+(5) Žiadateľ k žiadosti o udelenie individuálnej licencie podľa odseku 1 priloží zakladaciu listinu a doklady podľa § 20 ods. 6 písm. c), d) a f) až l) a ods. 10.

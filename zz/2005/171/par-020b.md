@@ -28,20 +28,18 @@
 
 (4) Nadácia alebo záujmové združenie k žiadosti o udelenie individuálnej licencie podľa odseku 1 priloží
 
-- a) výpis z registra nadácií alebo výpis z registra záujmových združení, ktorý v čase predloženia žiadosti o udelenie individuálnej licencie podľa odseku 1 nesmie byť starší ako tri mesiace,
+- a) nadačnú listinu, zakladateľskú zmluvu alebo zápisnicu o ustanovujúcej členskej schôdzi, ak ide o záujmové združenie,
 
-- b) nadačnú listinu, zakladateľskú zmluvu alebo zápisnicu o ustanovujúcej členskej schôdzi, ak ide o záujmové združenie,
+- b) písomné vyhlásenie štatutárneho zástupcu nadácie, že na majetok nadácie alebo na majetok záujmového združenia nebol vyhlásený konkurz a ani návrh na konkurz nebol zamietnutý pre nedostatok majetku,
 
-- c) písomné vyhlásenie štatutárneho zástupcu nadácie, že na majetok nadácie alebo na majetok záujmového združenia nebol vyhlásený konkurz a ani návrh na konkurz nebol zamietnutý pre nedostatok majetku,
+- c) doklady podľa § 20 ods. 6 písm. c), d) a f) až l) a ods. 10,
 
-- d) doklady podľa § 20 ods. 6 písm. c), d) a f) až l) a ods. 10,
+- d) popis vrátane názvu charitatívnej lotérie,
 
-- e) popis vrátane názvu charitatívnej lotérie,
+- e) charakteristiku cieľa charitatívnej lotérie,
 
-- f) charakteristiku cieľa charitatívnej lotérie,
+- f) popis spôsobu určenia stávky a popis spôsobu preukazovania vykonanej stávky,
 
-- g) popis spôsobu určenia stávky a popis spôsobu preukazovania vykonanej stávky,
+- g) popis, označenie a adresu umiestnenia zariadenia, ktoré sa bude používať pri prevádzkovaní hazardnej hry,
 
-- h) popis, označenie a adresu umiestnenia zariadenia, ktoré sa bude používať pri prevádzkovaní hazardnej hry,
-
-- i) doklady o splnení skutočností podľa odseku 1 písm. b) a c) a odseku 3 písm. c).
+- h) doklady o splnení skutočností podľa odseku 1 písm. b) a c) a odseku 3 písm. c).
