@@ -2,7 +2,7 @@
 
 (1) Jednorazovú finančnú výpomoc (ďalej len „výpomoc“) možno poskytnúť fyzickej osobe, ak v dôsledku mimoriadnej udalosti došlo k poškodeniu alebo zničeniu rodinného domu,<sup>31</sup>) bytu<sup>31a</sup>) alebo iného obydlia vrátane jeho zariadenia (ďalej len „obydlie“), ktoré užívala v čase vzniku mimoriadnej udalosti.
 
-(2) Výpomoc možno poskytnúť na základe písomnej žiadosti. Žiadateľom o poskytnutie výpomoci je osoba uvedená v odseku 1. Prílohou žiadosti je výpis z listu vlastníctva, kópia listu vlastníctva, kópia nájomnej zmluvy alebo iný doklad, ktorým sa preukazuje užívacie právo k obydliu. Žiadosť spolu s prílohou sa predkladá obci, na ktorej území sa obydlie nachádza, do 30 dní od odvolania mimoriadnej situácie.
+(2) Výpomoc možno poskytnúť na základe písomnej žiadosti. Žiadateľom o poskytnutie výpomoci je osoba uvedená v odseku 1. Prílohou žiadosti sú údaje podľa osobitného predpisu<sup>31aa</sup>) potrebné na účel overenia vlastníckeho práva k obydliu; ak žiadateľom o poskytnutie výpomoci nie je vlastník obydlia, prílohou žiadosti je kópia nájomnej zmluvy alebo iný doklad, ktorým sa preukazuje užívacie právo k obydliu. Žiadosť spolu s prílohou sa predkladá obci, na ktorej území sa obydlie nachádza, do 30 dní od odvolania mimoriadnej situácie.
 
 (3) Obec na základe žiadosti posúdi v súčinnosti s
 
