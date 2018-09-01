@@ -64,6 +64,10 @@
 
 - 18b) § 7a ods. 1 písm. b) zákona č. 82/2005 Z. z. v znení zákona č. 223/2011 Z. z.
 
+- 18ba) Čl. 11 nariadenia Európskeho parlamentu a Rady (EÚ) 2016/589 z 13. apríla 2016 o Európskej sieti služieb zamestnanosti (EURES), prístupe pracovníkov k službám v oblasti mobility a o ďalšej integrácii trhov práce a o zmene nariadenia (EÚ) č. 492/2011 a (EÚ) č. 1296/2013 (Ú. v. EÚ L 107, 22. 4. 2016).
+
+- 18bb) Čl. 10 ods. 1 nariadenia (EÚ) 2016/589.
+
 - 18c) § 66 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
 
 - § 50 zákona č. 400/2009 Z. z.
@@ -182,6 +186,8 @@
 
 - 32) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 32a) § 10 ods. 4 zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
+
 - 33) Zákon Slovenskej národnej rady č. 511/1992 Zb. o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších predpisov.
 
 - 33a) § 149 a 239 zákona č. 311/2001 Z. z. v znení neskorších predpisov.
@@ -191,6 +197,8 @@
 - 35d) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 - 35da) § 12 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
+- 35db) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 35e) Zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
 

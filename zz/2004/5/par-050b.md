@@ -14,13 +14,25 @@
 
 (2) Na účely poskytovania podpory a pomoci zamestnancom nájsť zamestnanie na otvorenom trhu práce, zamestnávateľ prechodného zamestnania spolupracuje s úradom, právnickými osobami alebo fyzickými osobami, ktoré podporujú alebo vykonávajú integráciu znevýhodnených uchádzačov o zamestnanie na trhu práce.
 
-(3) Právnickej osobe alebo fyzickej osobe môže byť priznané postavenie zamestnávateľa prechodného zamestnania, ak je bezúhonná. U právnickej osoby musí podmienku bezúhonnosti spĺňať aj osoba, ktorá koná v mene právnickej osoby; bezúhonnosť sa preukazuje výpisom z registra trestov<sup>32</sup>) nie starším ako tri mesiace.
+(3) Podmienkou na priznanie postavenia zamestnávateľa prechodného zamestnania je, že osoba
 
-(4) Postavenie zamestnávateľa prechodného zamestnania prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Na účely priznania postavenia zamestnávateľa prechodného zamestnania sa podmienka ustanovená v odseku 1 písm. c), a ak ide o právnickú osobu alebo fyzickú osobu, ktorá má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) aj podmienky ustanovené v odseku 1 písm. a) a b) považujú za splnené. Ústredie neprizná postavenie zamestnávateľa prechodného zamestnania právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
+- a) je bezúhonná; u právnickej osoby musí podmienku bezúhonnosti spĺňať aj osoba, ktorá koná v mene právnickej osoby,
 
-(5) Ústredie prizná postavenie zamestnávateľa prechodného zamestnania na dobu neurčitú. Na základe písomnej žiadosti zamestnávateľa prechodného zamestnania alebo písomného návrhu úradu ústredie rozhodnutie o priznaní postavenia zamestnávateľa prechodného zamestnania zmení, pozastaví alebo zruší, alebo vydá duplikát rozhodnutia. Duplikát vydá ústredie pri strate, odcudzení, znehodnotení rozhodnutia o priznaní postavenia zamestnávateľa prechodného zamestnania alebo pri strate rozhodnutia o zmene, pozastavení alebo zrušení postavenia sociálneho podniku pracovnej integrácie.
+- b) má oprávnenie na podnikanie alebo na vykonávanie predmetu činnosti,
 
-(6) Žiadosť o priznanie postavenia zamestnávateľa prechodného zamestnania obsahuje
+- c) vlastní priestory alebo má v nájme priestory,
+
+- d) má vypracovaný podnikateľský plán vrátane kalkulácie predpokladaných príjmov, výdavkov a zisku pred rozdelením,
+
+- e) má materiálne vybavenie na vykonávanie predmetu činnosti zamestnávateľa prechodného zamestnania.
+
+(4) Splnenie podmienok podľa odseku 3 písm. a) až c) zisťuje ústredie. Bezúhonnosť sa preukazuje výpisom z registra trestov. Údaje potrebné na vyžiadanie výpisu z registra trestov podľa odseku 8 písm. b) ústredie bezodkladne zašle v elektronickej podobe Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
+
+(5) Postavenie zamestnávateľa prechodného zamestnania prizná ústredie rozhodnutím na základe písomnej žiadosti právnickej osoby alebo fyzickej osoby, ak spĺňa podmienky ustanovené v odseku 1 písm. a) až c) a odseku 3. Na účely priznania postavenia zamestnávateľa prechodného zamestnania sa podmienka ustanovená v odseku 1 písm. c), a ak ide o právnickú osobu alebo fyzickú osobu, ktorá má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) aj podmienky ustanovené v odseku 1 písm. a) a b) považujú za splnené. Ústredie neprizná postavenie zamestnávateľa prechodného zamestnania právnickej osobe alebo fyzickej osobe, ktorá má vydané povolenie na vykonávanie činnosti agentúry dočasného zamestnávania podľa § 29.
+
+(6) Ústredie prizná postavenie zamestnávateľa prechodného zamestnania na dobu neurčitú. Na základe písomnej žiadosti zamestnávateľa prechodného zamestnania alebo písomného návrhu úradu ústredie rozhodnutie o priznaní postavenia zamestnávateľa prechodného zamestnania zmení, pozastaví alebo zruší, alebo vydá duplikát rozhodnutia. Duplikát vydá ústredie pri strate, odcudzení, znehodnotení rozhodnutia o priznaní postavenia zamestnávateľa prechodného zamestnania alebo pri strate rozhodnutia o zmene, pozastavení alebo zrušení postavenia sociálneho podniku pracovnej integrácie.
+
+(7) Žiadosť o priznanie postavenia zamestnávateľa prechodného zamestnania obsahuje
 
 - a) názov, sídlo, identifikačné číslo právnickej osoby alebo meno, priezvisko, rodné číslo a adresu trvalého pobytu fyzickej osoby,
 
@@ -28,23 +40,21 @@
 
 - c) dátum, ku ktorému právnická osoba alebo fyzická osoba žiada o priznanie postavenia zamestnávateľa prechodného zamestnania.
 
-(7) Súčasťou žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania je
+(8) Súčasťou žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania je
 
 - a) podnikateľský plán vrátane kalkulácie predpokladaných príjmov, výdavkov a zisku pred rozdelením,
 
-- b) doklady preukazujúce splnenie podmienok ustanovených v odseku 1 písm. a) a b) a odseku 3, a ak žiadateľom je právnická osoba alebo fyzická osoba, ktorá má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) doklady preukazujúce splnenie podmienky ustanovenej v odseku 3,
+- b) doklady preukazujúce splnenie podmienok ustanovených v odseku 1 písm. a) a b), ak žiadateľom nie je osoba podľa odseku 5 druhej vety, a údaje potrebné na vyžiadanie výpisu z registra trestov,<sup>32a</sup>)
 
-- c) výpis z obchodného registra alebo iný doklad oprávňujúci na podnikanie a na vykonávanie predmetu činnosti,
+- c) údaje podľa osobitného predpisu<sup>35db</sup>) potrebné na overenie vlastníckeho práva priestorov, ak žiadateľ je vlastníkom priestorov, alebo zmluva o nájme priestorov, ak žiadateľ nie je vlastníkom priestorov,
 
-- d) doklad o vlastníctve priestorov alebo o prenájme priestorov,
+- d) preukázanie materiálneho vybavenia na vykonávanie predmetu činnosti zamestnávateľa prechodného zamestnania,
 
-- e) preukázanie materiálneho vybavenia na vykonávanie predmetu činnosti zamestnávateľa prechodného zamestnania,
+- e) okruh spolupracujúcich subjektov.
 
-- f) okruh spolupracujúcich subjektov.
+(9) Register zamestnávateľov prechodného zamestnania vedie ústredie. Zápis do registra zamestnávateľov prechodného zamestnania vykoná ústredie ku dňu uvedenému v žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania. Ak žiadosť neobsahuje deň, ku ktorému právnická osoba alebo fyzická osoba žiada priznať postavenie zamestnávateľa prechodného zamestnania alebo ak rozhodnutie o priznaní postavenia zamestnávateľa prechodného zamestnania je vydané neskôr ako je deň uvedený v žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania, ústredie vykoná zápis do registra zamestnávateľov prechodného zamestnania dňom uvedeným v rozhodnutí o priznaní postavenia zamestnávateľa prechodného zamestnania. Register zamestnávateľov prechodného zamestnania ústredie zverejňuje na svojej internetovej stránke.
 
-(8) Register zamestnávateľov prechodného zamestnania vedie ústredie. Zápis do registra zamestnávateľov prechodného zamestnania vykoná ústredie ku dňu uvedenému v žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania. Ak žiadosť neobsahuje deň, ku ktorému právnická osoba alebo fyzická osoba žiada priznať postavenie zamestnávateľa prechodného zamestnania alebo ak rozhodnutie o priznaní postavenia zamestnávateľa prechodného zamestnania je vydané neskôr ako je deň uvedený v žiadosti o priznanie postavenia zamestnávateľa prechodného zamestnania, ústredie vykoná zápis do registra zamestnávateľov prechodného zamestnania dňom uvedeným v rozhodnutí o priznaní postavenia zamestnávateľa prechodného zamestnania. Register zamestnávateľov prechodného zamestnania ústredie zverejňuje na svojej internetovej stránke.
-
-(9) Register zamestnávateľov prechodného zamestnania obsahuje
+(10) Register zamestnávateľov prechodného zamestnania obsahuje
 
 - a) názov, sídlo a identifikačné číslo právnickej osoby alebo meno a priezvisko a adresu trvalého pobytu fyzickej osoby,
 
@@ -52,9 +62,9 @@
 
 - c) zmeny alebo zánik skutočností zapísaných v rozhodnutí o priznaní postavenia zamestnávateľa prechodného zamestnania.
 
-(10) Zamestnávateľovi prechodného zamestnania, ktorý najmenej 12 kalendárnych mesiacov neplní podmienky podľa tohto zákona alebo ktorý nesplnil povinnosť ustanovenú v odseku 11 písm. a), ústredie priznané postavenie zamestnávateľa prechodného zamestnania zruší. Ústredie opätovne prizná postavenie zamestnávateľa prechodného zamestnania najskôr po uplynutí dvoch rokov od zrušenia predchádzajúceho postavenia zamestnávateľa prechodného zamestnania. Priznané postavenie zamestnávateľa prechodného zamestnania zaniká dňom, keď bol právnickej osobe alebo fyzickej osobe priznaný štatút integračného podniku.
+(11) Zamestnávateľovi prechodného zamestnania, ktorý najmenej 12 kalendárnych mesiacov neplní podmienky podľa tohto zákona alebo ktorý nesplnil povinnosť ustanovenú v odseku 12 písm. a), ústredie priznané postavenie zamestnávateľa prechodného zamestnania zruší. Ústredie opätovne prizná postavenie zamestnávateľa prechodného zamestnania najskôr po uplynutí dvoch rokov od zrušenia predchádzajúceho postavenia zamestnávateľa prechodného zamestnania. Priznané postavenie zamestnávateľa prechodného zamestnania zaniká dňom, keď bol právnickej osobe alebo fyzickej osobe priznaný štatút integračného podniku.
 
-(11) Zamestnávateľ prechodného zamestnania je povinný
+(12) Zamestnávateľ prechodného zamestnania je povinný
 
 - a) do štyroch mesiacov odo dňa priznania postavenia sociálneho podniku splniť podmienky ustanovené v odseku 1 písm. a) a b), ak ide o sociálny podnik, ktorý má sídlo alebo trvalý pobyt v najmenej rozvinutom okrese podľa osobitného predpisu,<sup>47</sup>) a predložiť ústrediu doklady preukazujúce splnenie týchto podmienok,
 
