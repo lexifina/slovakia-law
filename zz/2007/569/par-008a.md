@@ -14,7 +14,7 @@
 
 - c) osobné údaje vedúceho podniku alebo vedúceho organizačnej zložky podniku.
 
-(5) Žiadosť o vydanie geologického oprávnenia sa predkladá v štátnom jazyku; k žiadosti sa prikladajú neoverené preklady dokladov podľa odsekov 1 a 2 do štátneho jazyka, ak ich zahraničný poskytovateľ má. K žiadosti podľa odseku 4 sa pripojí originál výpisu z obchodného registra nie starší ako tri mesiace alebo jeho úradne osvedčená kópia, alebo doklad o zriadení podniku alebo organizačnej zložky podniku na území Slovenskej republiky.
+(5) Žiadosť o vydanie geologického oprávnenia sa predkladá v štátnom jazyku; k žiadosti sa prikladajú neoverené preklady dokladov podľa odsekov 1 a 2 do štátneho jazyka, ak ich zahraničný poskytovateľ má.
 
 (6) Pri posudzovaní žiadosti zahraničného poskytovateľa ministerstvo zohľadní oprávnenia na vykonávanie geologických prác a iné obdobné autorizácie vydané podľa predpisu iného členského štátu Európskej únie (ďalej len „zahraničné geologické oprávnenie“).
 

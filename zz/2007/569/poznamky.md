@@ -24,8 +24,6 @@
 
 - 10) § 300 až 310 zákona č. 300/2005 Z. z. Trestný zákon.
 
-- 11) § 57 Obchodného zákonníka.
-
 - 11a) § 27 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov.
 
 - 11b) § 11 zákona č. 136/2010 Z. z.,
@@ -119,6 +117,8 @@
 - 37) § 139 ods. 1 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 37a) Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty majetku v znení neskorších predpisov.
+
+- 37b) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
 - 38) Zákon č. 213/1997 Z. z. v znení neskorších predpisov.
 
