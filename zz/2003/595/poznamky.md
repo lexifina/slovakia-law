@@ -442,7 +442,11 @@
 
 - 86a) Napríklad § 152 Zákonníka práce.
 
-- 86aa) § 27 zákona č. 61/2015 Z. z.
+- 86aa) § 27 ods. 1 zákona č. 61/2015 Z. z. v znení zákona č. 209/2018 Z. z.
+
+- 86ab) § 27 ods. 6 zákona č. 61/2015 Z. z.
+
+- 86ac) § 4, § 6 a 6a zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov.
 
 - 87) Zákon č. 283/2002 Z. z.
 
@@ -457,6 +461,10 @@
 - 88aa) § 4 ods. 6 zákona č. 171/2005 Z. z.
 
 - 88aaa) § 61n ods. 1 písm. a), c) a d) zákona č. 233/1995 Z. z. v znení zákona č. 2/2017 Z. z.
+
+- 88b) § 8 ods. 2 a § 16 zákona č. 61/2015 Z. z.
+
+- 88c) § 24a zákona č. 61/2015 Z. z. v znení zákona č. 209/2018 Z. z.
 
 - 89) Zákonník práce.
 
