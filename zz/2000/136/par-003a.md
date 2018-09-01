@@ -8,15 +8,13 @@
 
 - a) meno, priezvisko, adresu trvalého pobytu alebo adresu miesta podnikania, ak je miesto podnikania odlišné od trvalého pobytu, a identifikačné číslo organizácie, ak je žiadateľom fyzická osoba – podnikateľ alebo obchodné meno, sídlo a identifikačné číslo organizácie, ak je žiadateľom právnická osoba,
 
-- b) výpis z obchodného registra alebo iného obdobného registra alebo evidencie,
+- b) údaj o vyprodukovanom množstve a deklarovanej dávke sekundárneho zdroja živín alebo kompostu,
 
-- c) údaj o vyprodukovanom množstve a deklarovanej dávke sekundárneho zdroja živín alebo kompostu,
+- c) údaj o obsahu sušiny a organického podielu v sekundárnom zdroji živín alebo v komposte,
 
-- d) údaj o obsahu sušiny a organického podielu v sekundárnom zdroji živín alebo v komposte,
+- d) hodnotu pH, celkový obsah dusíka, fosforu, draslíka a horčíka v sekundárnom zdroji živín alebo v komposte,
 
-- e) hodnotu pH, celkový obsah dusíka, fosforu, draslíka a horčíka v sekundárnom zdroji živín alebo v komposte,
-
-- f) hodnoty obsahu rizikových prvkov ako sú kadmium, olovo, chróm, arzén, nikel a ortuť a mikrobiologických parametrov v sekundárnom zdroji živín alebo v komposte.
+- e) hodnoty obsahu rizikových prvkov ako sú kadmium, olovo, chróm, arzén, nikel a ortuť a mikrobiologických parametrov v sekundárnom zdroji živín alebo v komposte.
 
 (4) Producent sekundárneho zdroja živín alebo producent kompostu je povinný
 
