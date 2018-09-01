@@ -36,13 +36,11 @@
 
 (11) Právnická osoba alebo fyzická osoba – podnikateľ v súvislosti s preukázaním podmienok na získanie oprávnenia na vykonávanie odbornej prípravy a vydávanie osobitných oprávnení výrobcu požiarnotechnického zariadenia alebo zhotoviteľa požiarnotechnického zariadenia, ktorý zanikol alebo prestal pôsobiť v tejto oblasti, predloží ministerstvu
 
-- a) výpis z obchodného registra alebo živnostenský list,
+- a) zoznam stavebných objektov s adresou umiestnenia preukazujúci realizáciu činnosti výrobcu požiarnotechnického zariadenia alebo zhotoviteľa požiarnotechnického zariadenia za posledných päť po sebe nasledujúcich rokov,
 
-- b) zoznam stavebných objektov s adresou umiestnenia preukazujúci realizáciu činnosti výrobcu požiarnotechnického zariadenia alebo zhotoviteľa požiarnotechnického zariadenia za posledných päť po sebe nasledujúcich rokov,
+- b) dokumentáciu, na základe ktorej výrobca požiarnotechnického zariadenia alebo zhotoviteľ požiarnotechnického zariadenia vykonával v priebehu posledných piatich rokov odbornú prípravu pre vydanie osobitných oprávnení,
 
-- c) dokumentáciu, na základe ktorej výrobca požiarnotechnického zariadenia alebo zhotoviteľ požiarnotechnického zariadenia vykonával v priebehu posledných piatich rokov odbornú prípravu pre vydanie osobitných oprávnení,
-
-- d) zoznam fyzických osôb, ktoré majú vydané osobitné oprávnenie s uvedením ich mena a priezviska, dátumu a miesta narodenia a adresy trvalého bydliska.
+- c) zoznam fyzických osôb, ktoré majú vydané osobitné oprávnenie s uvedením ich mena a priezviska, dátumu a miesta narodenia a adresy trvalého bydliska.
 
 (12) Ministerstvo po splnení podmienok uvedených v odsekoch 10 a 11 určí právnickú osobu alebo fyzickú osobu – podnikateľa ako oprávnenú na vydávanie osobitných oprávnení.
 
