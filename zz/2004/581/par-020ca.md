@@ -16,11 +16,9 @@
 
 (3) Žiadateľ o osvedčenie zhody je povinný spolu so žiadosťou podľa odseku 2 predložiť centru pre klasifikačný systém
 
-- a) výpis z obchodného registra nie starší ako tri mesiace, ak je žiadateľ o osvedčenie zhody zapísaný v obchodnom registri,
+- a) technickú dokumentáciu,
 
-- b) technickú dokumentáciu,
-
-- c) počítačový program.
+- b) počítačový program.
 
 (4) Žiadosť sa považuje za úplnú, ak obsahuje náležitosti podľa odsekov 2 a 3. Ak žiadosť nie je úplná, centrum pre klasifikačný systém vyzve žiadateľa o osvedčenie zhody, aby žiadosť najneskôr do 15 dní od doručenia výzvy doplnil. Ak žiadateľ o osvedčenie zhody žiadosť do 15 dní odo dňa doručenia výzvy nedoplní, centrum pre klasifikačný systém konanie zastaví.
 
