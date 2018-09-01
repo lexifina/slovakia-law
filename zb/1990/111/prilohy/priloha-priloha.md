@@ -64,7 +64,7 @@ Príloha
 
     - (1) Záujemca o dražbu je povinný
 
-      - a) preukázať totožnosť a dať sa zapísať do zoznamu dražiteľov; ak je záujemca o dražbu právnická osoba, je ten, kto je oprávnený v jej mene konať, povinný predložiť splnomocnenie, preukázať svoju totožnosť a predložiť výpis z obchodného registra,
+      - a) preukázať totožnosť a dať sa zapísať do zoznamu dražiteľov; ak je záujemca o dražbu právnická osoba, je ten, kto je oprávnený v jej mene konať, povinný predložiť splnomocnenie a preukázať svoju totožnosť,
 
       - b) preukázať zloženie dražobnej zábezpeky vo výške určenej v oznámení,
 
@@ -74,13 +74,11 @@ Príloha
 
     - (3) Záujemca sa pri vstupe do dražobnej miestnosti zapíše do zápisného hárka a svojím podpisom potvrdí súhlas s dražobným poriadkom. V zápisnom hárku sa uvedú tieto údaje:
 
-      - a) meno a priezvisko fyzickej osoby alebo obchodný názov právnickej osoby, prípadne meno a priezvisko osoby splnomocnenej zúčastniť sa ako dražiteľ na dražbe a predložiť výpis z obchodného registra,
+      - a) meno a priezvisko fyzickej osoby alebo obchodný názov právnickej osoby, prípadne meno a priezvisko osoby splnomocnenej zúčastniť sa ako dražiteľ na dražbe,
 
       - b) identifikačné číslo dokladu totožnosti,
 
-      - c) číslo a dátum výpisu z obchodného registra,
-
-      - d) číslo a dátum dokladu o zložení dražobnej zábezpeky.
+      - c) číslo a dátum dokladu o zložení dražobnej zábezpeky.
 
     - (4) Záujemcovi, ktorý sa preukázal požadovanými dokladmi, zaplatil dražobný poplatok a zapísal sa do zápisného hárka, pridelí likvidátor tabuľku s dražobným číslom.
 
