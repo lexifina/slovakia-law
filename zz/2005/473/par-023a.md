@@ -12,8 +12,6 @@
 
 - e) druh, značku, obchodný názov, evidenčné číslo vozidla uvedeného v § 11a ods. 1 písm. j) a jeho vybavenie z hľadiska splnenia jednej z podmienok uvedenej v osobitnom predpise.<sup>8a</sup>)
 
-- f) prehľad svojich podnikateľských činností.
-
 (2) Právnická osoba k žiadosti o udelenie licencie na prevádzkovanie bezpečnostnej služby podľa § 2 ods. 1 písm. b) pripojí
 
 - a) doklady uvedené v § 22a ods. 2 písm. a) až c) týkajúce sa fyzickej osoby alebo fyzických osôb, ktoré sú štatutárnym orgánom právnickej osoby alebo jeho členmi,
@@ -22,19 +20,17 @@
 
 - c) zmluvu alebo listinu o založení právnickej osoby,
 
-- d) výpis z obchodného registra nie starší ako tri mesiace u osôb zapísaných v obchodnom registri,
+- d) doklad o pridelení identifikačného čísla, ak je pridelené,
 
-- e) doklad o pridelení identifikačného čísla, ak je pridelené,
+- e) doklad o zaplatení správneho poplatku,
 
-- f) doklad o zaplatení správneho poplatku,
+- f) opis a farebné vyobrazenie rovnošaty, nášiviek, znaku alebo iného vonkajšieho označenia, ak sa majú používať pri poskytovaní bezpečnostnej služby,
 
-- g) opis a farebné vyobrazenie rovnošaty, nášiviek, znaku alebo iného vonkajšieho označenia, ak sa majú používať pri poskytovaní bezpečnostnej služby,
+- g) osvedčený doklad preukazujúci, že v posledných 24 mesiacoch vykonávala prepravu peňažnej hotovosti podľa tohto zákona,
 
-- h) osvedčený doklad preukazujúci, že v posledných 24 mesiacoch vykonávala prepravu peňažnej hotovosti podľa tohto zákona,
+- h) doklad preukazujúci, že má uzavreté poistenie zodpovednosti za škodu pri prevádzkovaní bezpečnostnej služby,
 
-- i) doklad preukazujúci, že má uzavreté poistenie zodpovednosti za škodu pri prevádzkovaní bezpečnostnej služby,
-
-- j) doklad preukazujúci držbu vozidla uvedeného v § 11a ods. 1 písm. j) a doklad preukazujúci, že toto vozidlo spĺňa niektorú z podmienok uvedených v osobitnom predpise.<sup>8a</sup>)
+- i) doklad preukazujúci držbu vozidla uvedeného v § 11a ods. 1 písm. j) a doklad preukazujúci, že toto vozidlo spĺňa niektorú z podmienok uvedených v osobitnom predpise.<sup>8a</sup>)
 
 (3) Ustanovenia odseku 1 písm. b) a odseku 2 písm. a) sa primerane vzťahujú aj na prokuristu, zodpovedného zástupcu, vedúceho organizačnej zložky podniku, vedúceho podniku zahraničnej osoby a splnomocnenca prevádzkovateľa.
 
