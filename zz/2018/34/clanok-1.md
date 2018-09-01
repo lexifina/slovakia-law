@@ -390,6 +390,10 @@ Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilos
 
 - 31. V § 69 ods. 3 prvá veta znie: „Praktickú časť špecializačného štúdia absolvuje zdravotnícky pracovník v rozsahu ustanoveného týždenného pracovného času pod dohľadom zdravotníckeho pracovníka s odbornou spôsobilosťou na výkon špecializovaných pracovných činností v príslušnom špecializačnom odbore s rozsahom a odborným zameraním odbornej praxe podľa akreditovaného špecializačného študijného programu v príslušnom špecializačnom odbore (ďalej len „školiteľ“).“.
 
+- 32. V § 70 ods. 1 sa slová „so Slovenskou zdravotníckou univerzitou v Bratislave (ďalej len „Slovenská zdravotnícka univerzita“) a stavovskými organizáciami v zdravotníctve<sup>18</sup>) (ďalej len „komora“)“ nahrádzajú slovami „s Ministerstvom zdravotníctva Slovenskej republiky (ďalej len „ministerstvo zdravotníctva“)“.
+
+  - Poznámka pod čiarou k odkazu 18 sa vypúšťa.
+
 - 33. V § 70 ods. 8 sa na konci pripája táto veta: „Zmena špecializačného odboru počas špecializačného štúdia sa môže uskutočniť najviac jedenkrát.“.
 
 - 34. V § 71 ods. 2 sa slová „rodičovskej dovolenky<sup>28</sup>) a pracovného voľna bez náhrady mzdy.<sup>29</sup>)“ nahrádzajú slovami „rodičovskej dovolenky,<sup>28</sup>) pracovného voľna bez náhrady mzdy<sup>29</sup>) a výkonu špecializovaných pracovných činností nad rozsah ustanoveného týždenného pracovného času.“.
@@ -411,6 +415,8 @@ Nariadenie vlády Slovenskej republiky č. 296/2010 Z. z. o odbornej spôsobilos
 - 38. V § 75 ods. 2 písm. e) sa slovo „komory“ nahrádza slovami „stavovskej organizácie v zdravotníctve“.
 
 - 39. V § 76 ods. 1 sa slová „Ministerstvo zdravotníctva Slovenskej republiky (ďalej len „ministerstvo zdravotníctva“)“ nahrádzajú slovami „ministerstvo zdravotníctva“.
+
+- 40. V § 76 ods. 2 sa vypúšťa posledná veta.
 
 - 41. V § 76 ods. 3 písm. c) sa slová „zaradenia do špecializačného štúdia“ nahrádzajú slovami „špecializačného odboru“.
 
