@@ -130,8 +130,6 @@
 
 - 24ba) § 29 ods. 2 písm. a) a b) zákona č. 61/2015 Z. z.
 
-- 24bb) § 10 ods. 5 zákona č. 61/2015 Z. z.
-
 - 24c) § 19 ods. 2 písm. a), b) a d) zákona č. 596/2003 Z. z. v znení zákona č. 325/2012 Z. z.
 
 - 24ca) § 19 ods. 2 písm. c) až e) zákona č. 596/2003 Z. z.

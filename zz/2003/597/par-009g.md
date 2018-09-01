@@ -1,0 +1,3 @@
+# § 9g Prechodné ustanovenie k úpravám účinným od 1. septembra 2018
+
+Pri financovaní žiakov v triedach, ktoré boli otvorené nad rozsah počtu tried prvého ročníka v dennej forme štúdia v členení na jednotlivé študijné odbory alebo na jednotlivé učebné odbory a nad rozsah počtu spoločných tried prvého ročníka v členení na jednotlivé príbuzné študijné odbory alebo na jednotlivé príbuzné učebné odbory určený samosprávnym krajom všeobecne záväzným nariadením pre stredné školy vo svojej územnej pôsobnosti podľa predpisov účinných do 31. augusta 2018, sa postupuje podľa predpisov účinných do 31. augusta 2018.
