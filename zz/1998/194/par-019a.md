@@ -10,9 +10,9 @@
 
 (3) Prílohu žiadosti podľa odseku 1 tvorí
 
-- a) kópia živnostenského listu, výpisu z obchodného registra alebo iného dokladu, ktorý oprávňuje na vykonávanie chovu rýb,
+- a) kópia dokladu, ktorý oprávňuje na vykonávanie chovu rýb, ak žiadateľ nie je zapísaný v registri právnických osôb, podnikateľov a orgánov verejnej moci,
 
-- b) doklad o vlastníctve alebo kópia zmluvy o prenájme vodnej plochy,
+- b) údaje podľa osobitného predpisu<sup>5aa</sup>) potrebné na účel overenia vlastníckeho práva k vodnej ploche a ak žiadateľ nie je vlastníkom vodnej plochy, aj kópia zmluvy o prenájme vodnej plochy,
 
 - c) doklad o odbornom vzdelaní žiadateľa alebo ním poverenej osoby, ktorá bude vykonávať odborný dozor so zameraním na chov rýb,
 

@@ -36,6 +36,8 @@
 
 - 5a) Zákon č. 39/2007 Z. z. o veterinárnej starostlivosti.
 
+- 5aa) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 5b) Zákon č. 139/2002 Z. z. o rybárstve v znení neskorších predpisov.
 
 - 6) Zákon č. 488/2002 Z. z.
