@@ -62,6 +62,8 @@
 
 - 23) § 2 písm. q) zákona č. 326/2005 Z. z.
 
+- 23a) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 24) Napríklad § 62 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
 - 25) § 27 zákona č. 50/1976 Zb. v znení neskorších predpisov.
