@@ -366,6 +366,12 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 
 - člen štatutárneho orgánu, zamestnanec v priamej riadiacej pôsobnosti štatutárneho orgánu, prokurista, vedúci organizačnej zložky podniku, člen dozornej rady,“.
 
+- 18. V § 68 odsek 11 znie:
+
+- „(11)
+
+- Ak návrh na výmaz z obchodného registra podáva spoločnosť a nejde o zrušenie spoločnosti bez likvidácie s právnym nástupcom, je povinná doložiť súhlas príslušného správcu dane, ktorým je daňový úrad alebo colný úrad, a súhlas Sociálnej poisťovne. Súhlas príslušného správcu dane je spoločnosť povinná si od správcu dane vyžiadať. Súhlas Sociálnej poisťovne sa nevyžaduje, ak spoločnosť nie je vedená v zozname dlžníkov Sociálnej poisťovne.“.
+
 - 19. V § 69 ods. 6 písm. d) sa na konci pripájajú tieto slová: „pričom tento deň môže byť určený najskôr spätne k prvému dňu účtovného obdobia, v ktorom je vypracovaný návrh zmluvy o splynutí alebo zmluvy o zlúčení spoločností alebo návrh projektu rozdelenia spoločnosti za predpokladu, že účtovná závierka zostavená ku dňu, ktorý predchádza tomuto dňu, nebola schválená príslušným orgánom,“.
 
 - 20. V § 69 sa za odsek 10 vkladajú nové odseky 11 až 15, ktoré znejú:
@@ -421,6 +427,32 @@ Zákon č. 513/1991 Zb. Obchodný zákonník v znení zákona č. 264/1992 Zb., 
 - 22. V § 71 ods. 4 sa na konci pripája táto veta: „Takto vymenovaný likvidátor má pri zisťovaní majetku spoločnosti rovnaké oprávnenia ako správca konkurznej podstaty pri zisťovaní majetku úpadcu podľa osobitného predpisu.“.
 
 - 23. V § 97 ods. 4 sa slová „ods. 1 až 4“ nahrádzajú slovami „ods. 1 až 5“.
+
+- 24. V § 105b odsek 1 znie:
+
+- „(1)
+
+- Spoločnosť s ručením obmedzeným nemôže založiť osoba, ktorá je vedená v zozname daňových dlžníkov podľa osobitného predpisu alebo v zozname dlžníkov Sociálnej poisťovne; to neplatí, ak mu príslušný správca dane, ktorým je daňový úrad alebo colný úrad, alebo Sociálna poisťovňa na založenie spoločnosti udelí súhlas. Súhlas sa prikladá k návrhu na zápis do obchodného registra.“.
+
+- 25. V § 115 sa za odsek 2 vkladá nový odsek 3, ktorý znie:
+
+- „(3)
+
+- Spoločník nemôže previesť svoj obchodný podiel na iného spoločníka alebo inú osobu, ak sa voči spoločnosti vedie konanie o jej zrušení, ak je spoločnosť zrušená súdom alebo na základe rozhodnutia súdu, alebo ak voči spoločnosti pôsobia účinky vyhlásenia konkurzu alebo povolenia reštrukturalizácie.“.
+
+  - Doterajšie odseky 3 až 10 sa označujú ako odseky 4 až 11.
+
+- 26. V § 115 ods. 5 sa slová „odseku 10“ nahrádzajú slovami „odseku 11“.
+
+- 27. V § 115 ods. 7 prvá veta znie: „Povinnosť podľa odseku 6 má spoločnosť len vtedy, ak ide o prevod väčšinového obchodného podielu a spoločník alebo nadobúdateľ je vedený v zozname daňových dlžníkov podľa osobitného predpisu.“.
+
+- 28. V § 115 ods. 8 sa slová „odsekov 6, 8 a 9“ nahrádzajú slovami „odsekov 7, 9 a 10“.
+
+- 29. V § 115 ods. 9 sa slová „odseku 5“ nahrádzajú slovami „odseku 6“.
+
+- 30. V § 117 ods. 4 sa slová „§ 115 ods. 5 až 7 a 9“ nahrádzajú slovami „§ 115 ods. 6 až 8 a 10“ a slová „§ 115 ods. 7“ sa nahrádzajú slovami „§ 115 ods. 8“.
+
+- 31. V § 117 ods. 5 sa slová „§ 115 ods. 7“ nahrádzajú slovami „§ 115 ods. 8“.
 
 - 32. V § 123 ods. 2 sa za slovo „zisku“ vkladajú slová „alebo rozdeliť iné vlastné zdroje“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Na tvorbu kapitálového fondu príspevkami spoločníkov a ich použitie na rozdelenie medzi spoločníkov platí § 217a rovnako.“.
 

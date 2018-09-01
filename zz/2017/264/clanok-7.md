@@ -40,6 +40,24 @@ Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých
 
 - v ktorom sú uvedené údaje v rozpore s odsekom 2.“.
 
+- 7. V § 7 sa odsek 3 dopĺňa písmenom g), ktoré znie:
+
+- „g)
+
+- k návrhu na zápis bol pripojený súhlas správcu dane podľa osobitného zákona alebo Sociálnej poisťovne, ak osoba, ktorá má byť zapísaná ako spoločník, je vedená v zozname daňových dlžníkov podľa osobitného zákona<sup>11a</sup>) alebo v zozname dlžníkov Sociálnej poisťovne.<sup>11b</sup>)“.
+
+  - Poznámky pod čiarou k odkazom 11a a 11b znejú:
+
+  - „<sup>11a</sup>) § 52 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+  - <sup>11b</sup>) § 171 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.“.
+
+- 8. § 7 sa dopĺňa odsekom 18, ktorý znie:
+
+- „(18)
+
+- Pred zápisom zmeny spoločníka v spoločnosti s ručením obmedzeným registrový súd preverí, či sa voči spoločnosti vedie konanie o jej zrušení, či je spoločnosť zrušená súdom alebo na základe rozhodnutia súdu alebo či voči spoločnosti pôsobia účinky vyhlásenia konkurzu alebo povolenia reštrukturalizácie a ak ide o prevod väčšinového obchodného podielu, preverí, či spoločník alebo nadobúdateľ väčšinového obchodného podielu nie je vedený v zozname daňových dlžníkov podľa osobitného zákona.<sup>11a</sup>)“.
+
 - 9. V § 8 ods. 4 prvej vete sa vypúšťajú slová „má listinnú podobu a“ a za prvú vetu sa vkladá nová druhá veta, ktorá znie: „Ak sa návrh odmietol z dôvodu podľa § 6 ods. 3 písm. e), v oznámení sa uvedú hodnoty referenčných údajov, pre ktoré nebolo možné vykonať zápis.“.
 
 - 10. V § 11 sa odsek 2 dopĺňa písmenom d), ktoré znie:
