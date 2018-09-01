@@ -120,10 +120,6 @@
 
 - 57) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona č. 465/2002 Z. z.
 
-- 58) § 27 Obchodného zákonníka.
-
-- Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov.
-
 - 58a) § 4 ods. 2 písm. a) zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
 - 58b) § 4 ods. 1 zákona č. 122/2013 Z. z.
