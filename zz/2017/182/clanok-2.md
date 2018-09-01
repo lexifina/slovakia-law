@@ -20,6 +20,12 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 
   - „<sup>30a</sup>) Zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
+- 6. V § 6 ods. 12 písmeno k) znie:
+
+- „k)
+
+- poskytuje finančné prostriedky na deti školského klubu detí, ktorý je súčasťou základnej školy zriadenej na území obce.“.
+
 - 7. V § 8 sa vypúšťajú odseky 6 až 9.
 
 - 8. V § 14 sa odsek 6 dopĺňa písmenami p) a q), ktoré znejú:
@@ -49,6 +55,12 @@ Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráv
 - 3.
 
 - škola alebo školské zariadenie neposkytuje výchovu a vzdelávanie, poradenstvo alebo služby spojené s výchovou a vzdelávaním žiadnemu dieťaťu alebo žiakovi,“.
+
+- 10. V § 23a odsek 9 znie:
+
+- „(9)
+
+- Povinnosť podľa odsekov 6 a 8 plní zriaďovateľ priamym vložením údajov do centrálneho registra alebo synchronizáciou údajov s údajmi v Centrálnom registri detí, žiakov a poslucháčov, Centrálnom registri pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení alebo v referenčných registroch.“.
 
 - 11. V § 38 ods. 4 sa za slová „písm. b)“ vkladajú slová „a f)“.
 

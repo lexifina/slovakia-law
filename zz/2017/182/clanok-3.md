@@ -150,4 +150,10 @@ Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene
 
 - 18. V § 130 ods. 6 druhej vete sa za slovo „preskúma“ vkladajú slová „osobný spis dieťaťa vedený v poradenskom zariadení a“.
 
+- 19. V § 158 odsek 3 znie:
+
+- „(3)
+
+- Povinnosť podľa odseku 1 plní škola a školské zariadenie priamym vložením údajov do centrálneho registra alebo synchronizáciou údajov s údajmi v Centrálnom registri škôl, školských zariadení, elokovaných pracovísk a zriaďovateľov, Centrálnom registri pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení alebo v referenčných registroch.“.
+
 - 20. V prílohe sa slová „Smernica Rady 2004/114/ES z 13. decembra 2004 o podmienkach prijatia štátnych príslušníkov tretích krajín na účely štúdia, výmen žiakov, neplateného odborného vzdelávania alebo dobrovoľnej služby (Ú. v. EÚ, L 375, 23. 12. 2004)“ nahrádzajú slovami „Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016)“.

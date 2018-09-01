@@ -562,6 +562,12 @@ Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl 
 
   - Doterajšie odseky 14 až 19 sa označujú ako odseky 15 až 20.
 
+- 29. V § 7 odsek 4 znie:
+
+- „(4)
+
+- Zriaďovatelia škôl, školy alebo školské zariadenia sú povinní poskytnúť do 30. septembra kalendárneho roka počty detí alebo žiakov podľa stavu k 15. septembru začínajúceho školského roka a ďalšie údaje potrebné na rozpis finančných prostriedkov z kapitoly ministerstva a ministerstva vnútra pre školy a školské zariadenia a na účely rozdeľovania a poukazovania výnosu dane z príjmov obciam. Tieto údaje poskytujú priamym vložením do Centrálneho registra detí, žiakov a poslucháčov, Centrálneho registra škôl, školských zariadení, elokovaných pracovísk a zriaďovateľov alebo do Centrálneho registra pedagogických zamestnancov, odborných zamestnancov a ďalších zamestnancov škôl a školských zariadení alebo synchronizáciou údajov s údajmi v týchto registroch alebo v referenčných registroch.“.
+
 - 30. V § 7 sa vypúšťa odsek 8.
 
   - Doterajšie odseky 9 až 19 sa označujú ako odseky 8 až 18.
