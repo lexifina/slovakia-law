@@ -24,6 +24,8 @@
 
 - 5a) § 3 zákona Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
+- 5aa) § 7 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
 - 5b) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
 - 6) Článok 4 nariadenia Európskeho parlamentu a Rady (ES) č. 1082/2006.
