@@ -40,9 +40,7 @@ Príloha č. 8a k zákonu č. 24/2006 Z. z.
 
     - 2. Mapy širších vzťahov s označením umiestnenia zmeny navrhovanej činnosti v danej obci a vo vzťahu k okolitej zástavbe
 
-    - 3. Výpis z katastra nehnuteľností
-
-    - 4. Dokumentácia k zmene navrhovanej činnosti:
+    - 3. Dokumentácia k zmene navrhovanej činnosti:
 
   - VII. Dátum spracovania
 
