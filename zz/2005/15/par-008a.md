@@ -4,7 +4,7 @@
 
 (2) Žiadosť o udelenie licencie (ďalej len „žiadosť") obsahuje najmä
 
-- a) identifikačné údaje o žiadateľovi vrátane čísla faxu a telefónu, výpis z obchodného registra alebo živnostenského registra,
+- a) identifikačné údaje o žiadateľovi vrátane čísla faxu a telefónu,
 
 - b) miesto prevádzky a ďalších prevádzok, ak ich žiadateľ zriadi.
 
