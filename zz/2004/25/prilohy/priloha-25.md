@@ -1,1 +1,1 @@
-Príloha č. 25 k vyhláške č. 25/2004 Z. z. [príloha](../assets/5ec1f840842583e275403e9a658717504db88b01856941c559d47835039353ba.pdf)
+Príloha č. 25 k vyhláške č. 25/2004 Z. z. [príloha](../assets/e14c34e87d60ed6167d1c587d84235569116b7b27196770690819a73c63ac85e.pdf)

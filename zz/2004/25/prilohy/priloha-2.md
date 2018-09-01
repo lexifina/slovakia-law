@@ -1,1 +1,1 @@
-Príloha č. 2 k vyhláške č. 25/2004 Z. z. [príloha](../assets/e7e665b169c1d46331d049d9485949cf4fd84345e51dee5a5de83f26b6b87ae4.pdf)
+Príloha č. 2 k vyhláške č. 25/2004 Z. z. [príloha](../assets/bb63d4a6dcd281821a95f402cf94e0fe567bfa4944fd014d12b53c8d47f0039f.pdf)

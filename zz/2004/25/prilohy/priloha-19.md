@@ -1,1 +1,1 @@
-Príloha č. 19 k vyhláške č. 25/2004 Z. z. [príloha](../assets/a45366f132e209f68e1c5e0562ff4e542ab4382448d42108da5df115a393e95a.pdf)
+Príloha č. 19 k vyhláške č. 25/2004 Z. z. [príloha](../assets/3058f113f43fdfedbbd85ef12b9bb0e28632a090dcab95aa65197a879a524341.pdf)

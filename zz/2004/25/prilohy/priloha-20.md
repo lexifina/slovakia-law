@@ -1,1 +1,1 @@
-Príloha č. 20 k vyhláške č. 25/2004 Z. z. [príloha](../assets/509197146add11d4b53ec612fafafb4a67251e05ab50c56142b7c1121fd56463.pdf)
+Príloha č. 20 k vyhláške č. 25/2004 Z. z. [príloha](../assets/be9faedfff22a8b02b484b39c0578688cb6cfccb8f312dd706138d305f4e662a.pdf)

@@ -10,11 +10,17 @@
 
 - 2a) § 54 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení zákona č. 246/2012 Z. z.
 
-- 2aa) Napríklad zákon č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov, zákon č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov, zákon č. 104/2004 Z. z. o spotrebnej dani z vína v znení neskorších predpisov, zákon č. 105/2004 Z. z. o spotrebnej dani z liehu a o zmene a doplnení zákona č. 467/2002 Z. z. o výrobe a uvádzaní liehu na trh v znení zákona č. 211/2003 Z. z. v znení neskorších predpisov, zákon č. 106/2004 Z. z. o spotrebnej dani z tabakových výrobkov v znení neskorších predpisov, zákon č. 107/2004 Z. z. o spotrebnej dani z piva v znení neskorších predpisov, zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z minerálneho oleja v znení neskorších predpisov v znení neskorších predpisov, zákon č. 530/2011 Z. z. o spotrebnej dani z alkoholických nápojov v znení neskorších predpisov.
+- 2aa) § 52 zákona č. 563/2009 Z. z. v znení neskorších predpisov.
+
+- 2aaa) § 171 ods. 3 zákona č. 461/2003 Z. z. o sociálnom poistení v znení zákona č. 266/2017 Z. z.
+
+- 2aab) § 171 ods. 1 a 2 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+
+- 2aac) § 115 ods. 10 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
 
 - 2ab) § 59b ods. 3 Obchodného zákonníka.
 
-- 2ac) § 115 ods. 5 až 7 a § 117 ods. 4 Obchodného zákonníka v znení zákona č. 246/2012 Z. z.
+- 2ac) § 115 ods. 6 až 8 a § 117 ods. 4 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
 
 - 2ad) Článok 14 nariadenia Rady (EHS) č. 2137/85 z 25. júla 1985 o európskom zoskupení hospodárskych záujmov (EZHZ) (Mimoriadne vydanie Ú. v. EÚ, kap. 17/zv. 1).
 
@@ -84,6 +90,6 @@
 
 - 7a) § 75 ods. 2 Obchodného zákonníka.
 
-- 8) § 68 ods. 10 Obchodného zákonníka.
+- 8) § 68 ods. 11 Obchodného zákonníka v znení zákona č. 264/2017 Z. z.
 
 - 9) § 768l ods. 1 Obchodného zákonníka.

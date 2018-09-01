@@ -1,1 +1,1 @@
-Príloha č. 24 k vyhláške č. 25/2004 Z. z. [príloha](../assets/5f58297fe82908c930b88eadd9386d266e67d8484019d493f7b8d5df624e2249.pdf)
+Príloha č. 24 k vyhláške č. 25/2004 Z. z. [príloha](../assets/f8656bfdbb84b6177c67096d3a2850ac4ad9842b271af6680ac222fbbf3a2df9.pdf)
