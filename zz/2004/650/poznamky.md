@@ -68,8 +68,6 @@
 
 - 23) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
-- 24) § 2 zákona č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
-
 - 24a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 - 24aa) § 5 ods. 3 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
