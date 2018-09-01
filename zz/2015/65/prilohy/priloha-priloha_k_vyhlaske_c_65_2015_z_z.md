@@ -1,43 +1,29 @@
 Príloha k vyhláške č. 65/2015 Z. z.
 
-- ZOZNAM ŠTUDIJNÝCH ODBOROV A UČEBNÝCH ODBOROV, V KTORÝCH SA VYŽADUJE OVERENIE ŠPECIÁLNYCH SCHOPNOSTÍ, ZRUČNOSTÍ ALEBO NADANIA Študijné odbory a učebné odbory, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania, sú
+- ZOZNAM ŠTUDIJNÝCH ODBOROV A UČEBNÝCH ODBOROV, V KTORÝCH SA VYŽADUJE OVERENIE ŠPECIÁLNYCH SCHOPNOSTÍ, ZRUČNOSTÍ ALEBO NADANIA
 
-- a)
+  - Študijné odbory a učebné odbory, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania, sú
 
-- 5310 N zubný technik,
+    - a) 3348 M tvorba nábytku a interiéru,
 
-- b)
+    - b) 5310 N zubný technik,
 
-- 5315 N zdravotnícky záchranár,
+    - c) 5315 N zdravotnícky záchranár,
 
-- c)
+    - d) 5317 Q diplomovaný fyzioterapeut,
 
-- 5317 Q diplomovaný fyzioterapeut,
+    - e) 5370 M masér,
 
-- d)
+    - f) 6317 M 74 obchodná akadémia – bilingválne štúdium,
 
-- 5370 M masér,
+    - g) 7649 M učiteľstvo pre materské školy a vychovávateľstvo,
 
-- e)
+    - h) 7902 J 74 gymnázium – bilingválne štúdium,
 
-- 6317 M 74 obchodná akadémia – bilingválne štúdium,
+    - i) 9245 M ochrana osôb a majetku,
 
-- f)
+    - k) študijné odbory v konzervatóriu,
 
-- 7649 M učiteľstvo pre materské školy a vychovávateľstvo,
+    - m) skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
 
-- g)
-
-- 7902 J 74 gymnázium – bilingválne štúdium,
-
-- h)
-
-- 7902 J 77 gymnázium – šport,
-
-- i)
-
-- skupina študijných odborov 82 Umenie a umeleckoremeselná tvorba I,
-
-- j)
-
-- skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II.
+    - n) skupina študijných odborov a skupina učebných odborov 85 Umenie a umeleckoremeselná tvorba II.
