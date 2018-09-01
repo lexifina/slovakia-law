@@ -12,4 +12,4 @@
 
 (3) Ak je rodinný dom v bezpodielovom spoluvlastníctve manželov, žiadosť o príspevok môže podať ktorýkoľvek z manželov, pričom musí byť druhým manželom splnomocnený na zastupovanie v konaní o poskytnutí príspevku a prijímanie doručovaných písomností týkajúcich sa konania. Podpis druhého manžela na písomnom plnomocenstve musí byť úradne osvedčený.
 
-(4) Ak dôjde k prechodu vlastníckeho práva k rodinnému domu na oprávnených dedičov, títo preukazujú splnenie podmienky uvedenej v odseku 1 písm. c) predložením výpisu z listu vlastníctva, na ktorom je vedený rodinný dom.
+(4) Ak dôjde k prechodu vlastníckeho práva k rodinnému domu na oprávnených dedičov, poskytnú títo oprávnení dediči údaje podľa osobitného predpisu<sup>5ca</sup>) potrebné na účel overenia podmienky podľa odseku 1 písm. c).
