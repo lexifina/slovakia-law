@@ -58,6 +58,8 @@
 
 - 14a) § 8 ods. 1 písm. a) zákona č. 579/2004 Z. z.
 
+- 14b) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 15) § 13 ods. 4 písm. a) zákona č. 355/2007 Z. z.
 
 - 16) Zákon č. 530/2003 Z. z. o obchodnom registri a o zmene a doplnení niektorých zákonov v znení zákona č. 432/2004 Z. z.
