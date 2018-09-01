@@ -14,8 +14,6 @@
 
 - 6aa) Zákon č. 61/2015 Z. z.
 
-- 6ab) § 20 zákona č. 61/2015 Z. z.
-
 - 7) § 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 8) § 16 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
