@@ -50,6 +50,8 @@
 
 - 10a) § 29 a 37 zákona č. 24/2006 Z. z. v znení neskorších predpisov.
 
+- 10c) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 11) § 66, 76, 83 a 84 zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 11aa) § 8 ods. 1 zákona č. 54/2015 Z. z.
