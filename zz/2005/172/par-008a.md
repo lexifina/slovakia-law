@@ -92,17 +92,13 @@
 
 - a) preukázanie splnenia podmienok podľa osobitného predpisu,<sup>12e</sup>)
 
-- b) doklad osvedčujúci oprávnenie žiadateľa na podnikanie nie starší ako tri mesiace,
+- b) pri právnickej osobe výpis z registra trestov štatutárnych zástupcov a pri fyzickej osobe - podnikateľovi výpis z registra trestov fyzickej osoby nie starší ako tri mesiace,
 
-- c) pri právnickej osobe spoločenská zmluva alebo zakladateľská listina a pri fyzickej osobe - podnikateľovi osvedčenie o živnostenskom oprávnení,
+- c) prínosy poskytnutej dotácie pre rozvoj žiadateľa a pre Slovenskú republiku,
 
-- d) pri právnickej osobe výpis z registra trestov štatutárnych zástupcov a pri fyzickej osobe - podnikateľovi výpis z registra trestov fyzickej osoby nie starší ako tri mesiace,
+- d) čestné vyhlásenie žiadateľa, že všetky ním poskytnuté údaje sú úplné,
 
-- e) prínosy poskytnutej dotácie pre rozvoj žiadateľa a pre Slovenskú republiku,
-
-- f) čestné vyhlásenie žiadateľa, že všetky ním poskytnuté údaje sú úplné,
-
-- g) potvrdenie o zabezpečení spolufinancovania zo zdrojov žiadateľa, ak je spolufinancovanie požadované.
+- e) potvrdenie o zabezpečení spolufinancovania zo zdrojov žiadateľa, ak je spolufinancovanie požadované.
 
 (13) Ak je žiadateľ povinný vypracúvať účtovnú závierku alebo výročnú správu, uloží ich znenie za posledné účtovné obdobie najneskôr 15 pracovných dní pred termínom podania žiadosti do verejnej časti registra účtovných závierok,<sup>12ea</sup>) ak taká účtovná závierka alebo výročná správa nie je v registri účtovných závierok uložená.
 
