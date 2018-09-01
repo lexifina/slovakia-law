@@ -26,6 +26,8 @@
 
 - 9a) § 9 ods. 1 a 2 a § 68 zákona č. 543/2002 Z. z. v znení neskorších predpisov.
 
+- 9aa) § 60 ods. 3 vyhlášky Úradu geodézie, kartografie a katastra Slovenskej republiky č. 461/2009 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
+
 - 9b) § 56 ods. 1 písm. c) zákona č. 326/2005 Z. z.
 
 - 9c) § 26 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení zákona č. 527/2003 Z. z.

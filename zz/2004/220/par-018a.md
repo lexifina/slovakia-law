@@ -4,7 +4,7 @@
 
 (2) Osoba, ktorá navrhuje založenie porastu rýchlorastúcej dreviny na poľnohospodárskej pôde je povinná podať žiadosť o registráciu do registra plôch rýchlorastúcich drevín, ktorý vedie obvodný pozemkový úrad. K žiadosti na zápis do registra prikladá
 
-- a) výpis z listu vlastníctva; ak vlastnícke právo k pozemku nie je evidované v liste vlastníctva, iný doklad preukazujúci vlastníctvo k pozemku,
+- a) údaje podľa osobitného predpisu<sup>9aa</sup>) potrebné na účel overenia vlastníckeho práva k pozemku; ak vlastnícke právo k pozemku nie je evidované v liste vlastníctva, iný doklad preukazujúci vlastníctvo k pozemku,
 
 - b) doklad preukazujúci nájomný vzťah k pozemku alebo doklad preukazujúci nájomný vzťah a súhlas vlastníka pozemku s využívaním pozemku na účely pestovania rýchlorastúcich drevín, ak zakladateľ nie je vlastníkom pozemku,
 
