@@ -1,10 +1,8 @@
 - 1) § 2 ods. 3 a 4 Obchodného zákonníka.
 
-- 2) Zákon č. 135/1982 Zb. o hlásení a evidencii pobytu občanov v znení zákona č. 441/2001 Z. z.
+- 2) Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
 
-- Zákon č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších predpisov.
-
-- Zákon č. 48/2002 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- Zákon č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 3) § 2 ods. 5 a 8 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov.
 
