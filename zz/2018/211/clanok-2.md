@@ -68,6 +68,18 @@ Zákon č. 284/2014 Z. z. o Fonde na podporu umenia a o zmene a doplnení zákon
 
 - 13. V § 19 ods. 4 písm. b) sa vypúšťajú slová „alebo im blízka osoba“.
 
+- 14. V § 20 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- doklad o právnej subjektivite žiadateľa, ak je žiadateľom právnická osoba, ktorá sa nezapisuje do verejného registra,“.
+
+  - Doterajšie písmená c) až m) sa označujú ako písmená d) až n).
+
+- 15. V § 20 ods. 3 sa slová „Prílohy podľa odseku 2 písm. c) a d)“ nahrádzajú slovami „Prílohu podľa odseku 2 písm. c)“.
+
+- 16. V § 20 ods. 7 sa slová „f), g), i), k) až m) a o)“ nahrádzajú slovami „e), f), h), j) až l) a n)“.
+
 - 17. V § 22 ods. 4 prvá veta znie:
 
 - „Fond do 30 pracovných dní odo dňa doručenia všetkých náležitostí podľa odseku 3 písm. j) od žiadateľa potrebných pre vyhotovenie návrhu zmluvy podľa odseku 1 doručí žiadateľovi návrh zmluvy.“.

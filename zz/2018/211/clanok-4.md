@@ -58,6 +58,22 @@ Zákon č. 138/2017 Z. z. o Fonde na podporu kultúry národnostných menšín a
 
   - Doterajšie odseky 8 a 9 sa označujú ako odseky 9 a 10.
 
+- 13. V § 17 ods. 2 sa za písmeno b) vkladá nové písmeno c), ktoré znie:
+
+- „c)
+
+- doklad o právnej subjektivite žiadateľa, ak je žiadateľom právnická osoba, ktorá sa nezapisuje do verejného registra,“.
+
+  - Doterajšie písmená c) až g) sa označujú ako písmená d) až h).
+
+- 14. V § 17 odsek 3 znie:
+
+- „(3)
+
+- Prílohu podľa odseku 2 písm. c) je žiadateľ povinný predložiť k prvej žiadosti, ktorú podáva v kalendárnom roku fondu ako originál alebo ako úradne osvedčenú kópiu Ak nenastali žiadne zmeny v doklade podľa prvej vety, je žiadateľ oprávnený v ďalších žiadostiach uviesť len odkaz na žiadosť, ku ktorej doklad predložil. Ak nastala zmena v doklade podľa prvej vety, je žiadateľ povinný priložiť zmenený doklad k najbližšej žiadosti podávanej po zmene dokladu.“.
+
+- 15. V § 17 ods. 7 sa slová „f), g) a i)“ nahrádzajú slovami „e), f) a h)“.
+
 - 16. § 20 vrátane nadpisu znie:
 
 - „§ 20
