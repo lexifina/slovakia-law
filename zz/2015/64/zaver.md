@@ -1,1 +1,0 @@
-Juraj Draxler v. r.
