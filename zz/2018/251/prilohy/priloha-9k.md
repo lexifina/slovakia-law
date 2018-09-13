@@ -1,0 +1,1 @@
+Príloha č. 9 k vyhláške č. 251/2018 Z. z. [Vecná pôsobnosť príslušnej stavovskej organizácie alebo príslušnej profesijnej organizácie k jednotlivým študijným odborom a jednotlivým učebným odborom](../assets/62684635c39d5b7383cad7d8b320979f74a88718ada921dce0d47fdd066ff136.pdf)
