@@ -32,6 +32,22 @@
 
 - zákon č. 523/2004 Z. z. v znení neskorších predpisov.
 
+- 16a) Zákon č. 243/2017 Z. z.
+
+- 17) Zákon č. 523/2004 Z. z. v znení neskorších predpisov.
+
+- 17a) § 8a zákona č. 172/2005 Z. z. o organizácii štátnej podpory výskumu a vývoja a o doplnení zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov v znení neskorších predpisov.
+
+- 18) § 28 zákona č. 243/2017 Z. z. v znení neskorších predpisov.
+
+- 19) Napríklad zákon č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
+
+- 20) § 54 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
+
+- 21) § 1 ods. 4 zákona č. 552/2003 Z. z. v znení zákona č. 257/2011 Z. z.
+
+- 22) § 4 ods. 3 vyhlášky Československej akadémie vied č. 55/1977 Zb.
+
 - 23) § 4 ods. 2 písm. a) až f) a h) zákona č. 243/2017 Z. z.
 
 - 24) § 2 ods. 5 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
@@ -59,3 +75,5 @@
 - § 12 a 21 zákona č. 517/2007 Z. z. o úžitkových vzoroch a o zmene a doplnení niektorých zákonov,
 
 - § 18 zákona č. 506/2009 Z. z. o ochranných známkach.
+
+- 31) § 3 až 5 zákona č. 243/2017 Z. z.
