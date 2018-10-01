@@ -1,0 +1,1 @@
+Mária Frindrichová v. r.
