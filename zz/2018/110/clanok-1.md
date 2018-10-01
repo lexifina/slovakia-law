@@ -426,6 +426,16 @@ Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení zákona č. 34
 
 - Spoločenstvo môže od člena spoločenstva, fondu alebo správcu požadovať úhradu skutočných nákladov nevyhnutných na vyhotovenie kópií dokladov podľa odseku 2; to sa primerane vzťahuje aj na vyhotovenie výpisu zo zoznamu členov a zo zoznamu nehnuteľností podľa § 18 ods. 4 písm. b).“.
 
+- 49. V § 22 odsek 1 znie:
+
+- „(1)
+
+- Okresný úrad zapisuje do registra údaje podľa § 23 prostredníctvom informačného systému lesného hospodárstva.<sup>32a</sup>)“.
+
+  - Poznámka pod čiarou k odkazu 32a znie:
+
+  - „<sup>32a</sup>) § 45 zákona č. 326/2005 Z. z. v znení zákona č. 182/2014 Z. z.“.
+
 - 50. V § 22 ods. 2 sa na konci pripája táto veta: „Na zápis zmeny údajov v registri a zápis zrušenia spoločenstva je miestne príslušný okresný úrad, ktorý vykonal zápis spoločenstva do registra.“.
 
 - 51. V § 22 ods. 3 sa vypúšťa slovo „organizácie“.
@@ -496,7 +506,11 @@ Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách v znení zákona č. 34
 
 - c)
 
-- dátum výmazu spoločenstva z registra.“.
+- dátum výmazu spoločenstva z registra.
+
+- (3)
+
+- Register je verejne prístupný prostredníctvom informačného systému lesného hospodárstva. Okresný úrad, bez ohľadu na jeho miestnu príslušnosť podľa § 22 ods. 2, je povinný vydať žiadateľovi výpis z registra.“.
 
   - Poznámka pod čiarou k odkazu 34 sa vypúšťa.
 
