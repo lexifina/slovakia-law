@@ -274,7 +274,7 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Oslobodenie | | |
 
-  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností. | | |
+  - 1. Od poplatkov podľa tejto položky sú oslobodené obce a vyššie územné celky, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemným komunikáciám a ku školám, ktoré prešli do ich pôsobnosti podľa osobitných predpisov. 2. Od poplatkov podľa tejto položky je oslobodená Slovenská správa ciest a Národná diaľničná spoločnosť, a. s., ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely usporiadania vlastníckych práv k pozemkom pod pozemnými komunikáciami – diaľnicami a rýchlostnými komunikáciami a cestami prvej triedy. 3. Od poplatkov podľa tejto položky sú oslobodené orgány štátnej správy, ich rozpočtové a príspevkové organizácie, ak žiadajú o vykonanie týchto spoplatňovaných úkonov na účely vyhotovenia dokumentácie ochrany prírody a krajiny a zápisu osobitne chránených častí prírody a krajiny do katastra nehnuteľností. 4. Od poplatkov podľa tejto položky sú oslobodené orgány verejnej moci na účely výkonu verejnej moci elektronicky podľa osobitného predpisu.<sup>10g</sup>) | | |
 
   - Poznámky | | |
 
@@ -305,12 +305,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
   - Poznámka |
 
   - Ak sú predmetom návrhu na vklad do katastra nehnuteľností právne vzťahy z viacerých druhov právnych úkonov, poplatok sa vyberie za každý právny úkon osobitne podľa tejto položky. |
-
-    - Položka 11a
-
-  - a) | Vydanie preukazu oprávnenia na vstup na cudzie nehnuteľnosti osobám, ktoré vykonávajú alebo kontrolujú geodetické činnosti ................................................. | 33 eur
-
-  - b) | Predĺženie platnosti preukazu vydaného podľa písmena a) ......................................... | 10 eur
 
     - Položka 12
 

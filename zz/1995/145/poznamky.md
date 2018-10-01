@@ -114,6 +114,8 @@
 
 - 10f) § 11c ods. 12 zákona č. 314/2001 Z. z. v znení zákona č. 129/2015 Z. z.
 
+- 10g) § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
 - 11) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
 - 12) § 2 ods. 3 písm. a) a § 3 zákona č. 213/1997 Z. z. o neziskových organizáciách poskytujúcich všeobecne prospešné služby.
