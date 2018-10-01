@@ -4,4 +4,4 @@
 
 (2) Súčasťou nového súboru geodetických informácií je mapa veľkej mierky, ktorá sa po skončení obnovy katastrálneho operátu stane katastrálnou mapou.
 
-(3) Vyhotovenie duplikátu platného stavu súboru geodetických informácií a súboru popisných informácií alebo ich častí nenadväzuje na zisťovanie priebehu hraníc ani na vykonávanie geodetických činností v teréne.
+(3) Vyhotovenie duplikátu platného stavu súboru geodetických informácií a súboru popisných informácií alebo ich častí nenadväzuje na zisťovanie priebehu hraníc.

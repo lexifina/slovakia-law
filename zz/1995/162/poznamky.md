@@ -1,6 +1,10 @@
-- 1) Napríklad § 37 zákona Národnej rady Slovenskej republiky č. 287/1994 Z. z. o ochrane prírody a krajiny, § 7 ods. 4 zákona Slovenskej národnej rady č. 27/1987 Zb. o štátnej pamiatkovej starostlivosti.
+- 1) § 13 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
 
 - 1a) § 21 až 23 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov.
+
+- 1aa) Napríklad § 51 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov,
+
+- § 15 ods. 5 zákona č. 49/2002 Z. z. o ochrane pamiatkového fondu v znení neskorších predpisov.
 
 - 1b) § 43a ods. 3 a § 139b ods. 6 a 7 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
@@ -12,13 +16,25 @@
 
 - 5a) § 8 ods. 1 zákona č. 281/1997 Z. z. o vojenských obvodoch a zákon, ktorým sa mení zákon Národnej rady Slovenskej republiky č. 222/1996 Z. z. o organizácii miestnej štátnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 5b) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. o niektorých opatreniach na usporiadanie vlastníctva k pozemkom v znení neskorších predpisov.
+- 5b) Zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
+
+- 5c) Napríklad § 6 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- 5d) § 1 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
+
+- 5e) Príloha č. 1 šiesty bod k zákonu č. 3/2010 Z. z. o národnej infraštruktúre pre priestorové informácie.
+
+- 5f) Napríklad zákon Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov, zákon Národnej rady Slovenskej republiky č. 215/1995 Z. z. v znení neskorších predpisov.
 
 - 6) § 2 zákona č. 169/1949 Zb. o vojenských obvodoch.
+
+- 6a) Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov.
 
 - 7) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 7a) § 40 ods. 4 a 5 Občianskeho zákonníka a § 9 zákona č. 215/2002 Z. z. o elektronickom podpise a o zmene a doplnení niektorých zákonov v znení zákona č. 214/2008 Z. z.
+
+- 7b) § 5 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
 
 - 8) Napríklad § 133 ods. 2 Občianskeho zákonníka, § 60 ods. 1 Obchodného zákonníka.
 
@@ -44,7 +60,7 @@
 
 - 10eb) § 228 Civilného sporového poriadku.
 
-- 11) § 2 ods. 1 zákona Slovenskej národnej rady č. 293/1992 Zb. o úprave niektorých vlastníckych vzťahov k nehnuteľnostiam v znení neskorších predpisov.§ 63 zákona Slovenskej národnej rady č. 323/1992 Zb.
+- 11) § 43 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb.
 
 - 12) Napríklad zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -54,7 +70,7 @@
 
 - 16) § 82 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
-- 17) Nariadenie Zboru povereníkov č. 128/1945 Zb. SNR o výstavbe miest a obcí na Slovensku.
+- 17) § 7 ods. 6 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
 - 19) § 21 až 24 zákona Národnej rady Slovenskej republiky č. 180/1995 Z. z. v znení neskorších predpisov.
 
@@ -64,9 +80,11 @@
 
 - Vyhláška Slovenského úradu geodézie a kartografie č. 82/1973 Zb. o overovaní geometrických plánov a iných výsledkov geodetických prác.
 
-- 21a) § 8 zákona č. 428/2002 Z. z. o ochrane osobných údajov.
+- 21a) § 2 ods. 1 zákona č. 8/2005 Z. z. o správcoch a o zmene a doplnení niektorých zákonov.
 
-- 21b) § 7 ods. 2 zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+- 21b) § 7 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
+
+- 21c) § 17 ods. 6 zákona č. 305/2013 Z. z. v znení neskorších predpisov.
 
 - 22) Zákon Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch.
 
