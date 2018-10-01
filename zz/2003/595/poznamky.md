@@ -360,6 +360,8 @@
 
 - 77b) § 35 a 36 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 77ba) § 25 ods. 1 písm. h) prvý bod a § 27 ods. 13 zákona č. 431/2002 Z. z. v znení zákona č. 213/2018 Z. z.
+
 - 77c) § 4 ods. 3 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
 - 78) § 54 až 54b zákona č. 222/2004 Z. z. v znení neskorších predpisov.
@@ -403,6 +405,8 @@
 - 80aca) Položka 65 písm. d) sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení zákona č. 342/2016 Z. z.
 
 - 80acb) Šiesty bod poznámok k položke 65 sadzobníka správnych poplatkov zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. v znení zákona č. 342/2016 Z. z.
+
+- 80acc) § 27 ods. 13 zákona č. 431/2002 Z. z. v znení zákona č. 213/2018 Z. z.
 
 - 80ad) § 25 ods. 1 písm. d) prvý bod zákona č. 431/2002 Z. z.
 
@@ -583,6 +587,10 @@
 - 119) Vyhláška Ministerstva financií Slovenskej republiky č. 465/1991 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a náhradách za dočasné užívanie pozemkov v znení neskorších predpisov.
 
 - 119a) § 25 ods. 1 písm. e) a f) a ods. 8 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 119b) § 25 ods. 1 písm. h) štvrtý bod a § 27 ods. 13 zákona č. 431/2002 Z. z. v znení zákona č. 213/2018 Z. z.
+
+- 119c) § 25 ods. 1 písm. h) tretí bod a § 27 ods. 13 zákona č. 431/2002 Z. z. v znení zákona č. 213/2018 Z. z.
 
 - 120) Nariadenie Európskeho parlamentu a Rady (ES) č. 451/2008 z 23. apríla 2008, ktorým sa zavádza nová štatistická klasifikácia produktov podľa činností (CPA) a ktorým sa zrušuje nariadenie Rady (EHS) č. 3696/93 (Ú. v. EÚ L 145, 4. 6. 2008).
 
