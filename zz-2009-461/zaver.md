@@ -1,0 +1,1 @@
+Štefan Moyzes v. r.
