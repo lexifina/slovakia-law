@@ -1,4 +1,4 @@
-Príloha k zákonu č. 215/1995 Z. z.
+Príloha č. 1 k zákonu č. 215/1995 Z. z.
 
 - ZOZNAM PREBERANÝCH PRÁVNYCH AKTOV EURÓPSKYCH SPOLOČENSTIEV A EURÓPSKEJ ÚNIE
 
