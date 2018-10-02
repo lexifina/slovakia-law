@@ -116,6 +116,8 @@
 
 - 42a) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
+- 42aa) § 63 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
+
 - 42b) § 8 až 12 zákona č. 211/2000 Z. z. v znení neskorších predpisov.
 
 - 42c) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
