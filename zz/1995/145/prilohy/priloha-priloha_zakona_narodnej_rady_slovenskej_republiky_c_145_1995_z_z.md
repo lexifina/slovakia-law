@@ -306,12 +306,6 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Ak sú predmetom návrhu na vklad do katastra nehnuteľností právne vzťahy z viacerých druhov právnych úkonov, poplatok sa vyberie za každý právny úkon osobitne podľa tejto položky. |
 
-    - Položka 12
-
-  - a) Zápis do zoznamu periodickej tlače<sup>13</sup>) .............................................................................................. | 9,50 eura |
-
-  - b) Zápis zmeny v zozname periodickej tlače<sup>13</sup>) pri zmene vydavateľa periodickej tlače alebo názvu periodickej tlače, za každý úkon ......................................................................................... | 6,50 eura |
-
     - Položka 13
 
   - a) Udelenie licencie na vysielanie<sup>14</sup>) |

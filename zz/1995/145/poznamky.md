@@ -122,8 +122,6 @@
 
 - 12a) Zákon č. 229/1991 Zb. o úprave vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších predpisov.
 
-- 13) § 11 zákona č. 167/2008 Z. z. o periodickej tlači a agentúrnom spravodajstve a o zmene a doplnení niektorých zákonov (tlačový zákon).
-
 - 14) Napríklad § 45 až 52, § 55 a § 56 až 60 zákona č. 308/2000 Z. z. o vysielaní a retransmisii a o zmene zákona č. 195/2000 Z. z. o telekomunikáciách.
 
 - 14a) § 27 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
