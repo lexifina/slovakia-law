@@ -1,6 +1,10 @@
-- 1) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+- 1) § 6a ods. 1 písm. c) zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
 
-- 1a) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+- 1a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
+- 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
+
+- 1c) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
 
 - 2) § 68 až 75 Obchodného zákonníka.
 
