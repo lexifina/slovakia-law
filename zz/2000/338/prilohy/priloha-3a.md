@@ -4,4 +4,4 @@ Príloha č. 3a k zákonu č. 338/2000 Z. z.
 
   - Palubný denník sa označuje poradovým číslom, názvom plavidla a jednotným európskym identifikačným číslom plavidla (ENI). Zápisy v palubnom denníku musia byť čitateľné.
 
-- [príloha](../assets/a01bf1b5d8dcb49f608a20788f16d80afc974de2feb0da3eeddfb0e3b15fd3bd.pdf)
+- [príloha](../assets/3c736d417df20c0bf3159bda13c68d5c05c637f4f3615d1a9e71b67af2488819.pdf)

@@ -1,10 +1,6 @@
-# § 38a Agentúra rozvoja vodnej dopravy
+# § 38a
 
-(1) Zriaďuje sa Agentúra rozvoja vodnej dopravy (ďalej len „agentúra“). Agentúra je rozpočtová organizácia so sídlom v Bratislave.
-
-(2) Agentúru riadi a za jej činnosť zodpovedá riaditeľ agentúry, ktorého vymenováva a odvoláva minister dopravy, výstavby a regionálneho rozvoja Slovenskej republiky. Agentúra je zapojená na rozpočet Slovenskej republiky prostredníctvom kapitoly ministerstva.
-
-(3) Agentúra
+(1) Ministerstvo
 
 - a) zabezpečuje
 
@@ -22,12 +18,8 @@
 
 - d) realizuje pilotné projekty rozvoja intermodálnych dopravných osí,
 
-- e) podieľa sa na vývoji a implementácii a vykonáva správu nových dopravných technológií a riadiacich systémov vodnej dopravy; na nakladanie s týmito dopravnými technológiami a riadiacimi systémami sa vyžaduje súhlas ministerstva,
+- e) podieľa sa na vývoji a implementácii a vykonáva správu nových dopravných technológií a riadiacich systémov vodnej dopravy,
 
 - f) vykonáva vo vzájomnej súčinnosti s príslušnými orgánmi štátnej správy činnosti podľa písmen a) až e).
 
-- g) plní úlohy určené ministerstvom, ktoré k nej vykonáva zriaďovateľskú funkciu,
-
-- h) je povinná zaslať na základe žiadosti ministerstva vyjadrenie vo veci podľa § 38 písm. m) a n).
-
-(4) Agentúra je povinná pred začatím výstavby súčastí vodných ciest a ďalších stavieb potrebných na prevádzku vodnej dopravy na vodných cestách dohodnúť zmluvne budúceho správcu. Dňom vydania kolaudačného rozhodnutia prechádza bezodplatne správa stavby na príslušného správcu.
+(2) Ministerstvo je povinné pred obstaraním majetku, ktorý nadobudne činnosťou podľa odseku 1 písm. a) prvého bodu alebo druhého bodu, písm. d) alebo písm. e) a pred začatím výstavby súčastí vodných ciest a ďalších stavieb potrebných na prevádzku vodnej dopravy na vodných cestách dohodnúť zmluvne budúceho správcu majetku štátu, ktorý bude využívať majetok na plnenie úloh v rámci predmetu jeho činnosti. Dňom nadobudnutia právoplatnosti kolaudačného rozhodnutia, ak ide o stavbu podľa predchádzajúcej vety alebo dňom prevzatia ďalšieho obstaraného majetku prechádza bezodplatne správa stavby alebo ďalšieho majetku na zmluvne dohodnutého správcu.
