@@ -1,3 +1,1 @@
 - 1) § 5 ods. 1 zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov.
-
-- 2) § 2 ods. 13 a 14 zákona č. 131/2002 Z. z.
