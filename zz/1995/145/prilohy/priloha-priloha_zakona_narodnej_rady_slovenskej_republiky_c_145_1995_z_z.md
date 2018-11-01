@@ -784,6 +784,8 @@ Príloha zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z.
 
   - Poznámka Poplatok podľa písmena b) piateho bodu tejto položky sa nevyberie, ak ide o zmenu informatívneho údaju o listoch vlastníctva podľa zoznamu nehnuteľností, ktorá nastala v dôsledku prechodu práv a povinností k nehnuteľnostiam alebo v dôsledku zápisu rozhodnutia o schválení projektu pozemkových úpravy do katastra nehnuteľností. |
 
+  - Oslobodenie Od poplatku podľa písmena b) tejto položky sú oslobodené nadácie, neinvestičné fondy a neziskové organizácie poskytujúce všeobecne prospešné služby pri zápise údajov o konečnom užívateľovi výhod alebo pri zmene zapísaných údajov o konečnom užívateľovi výhod. |
+
     - Položka 34a
 
   - a) | Zápis do registra poskytovateľov sociálnych služieb ..... | 66 eur
