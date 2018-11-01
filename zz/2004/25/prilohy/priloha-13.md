@@ -1,1 +1,1 @@
-Príloha č. 13 k vyhláške č. 25/2004 Z. z. [príloha](../assets/c3f9430c278a67207b8596d48a34b5905d1d283fd3273ede491052845446db66.pdf)
+Príloha č. 13 k vyhláške č. 25/2004 Z. z. [Príloha č. 13 k vyhláške č. 25/2004 Z. z.](../assets/db904d19b2ce3ea5fc12aeaba31f1217d542849deabdae4b8021538841c31434.pdf)

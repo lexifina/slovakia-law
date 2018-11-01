@@ -1,1 +1,1 @@
-Príloha č. 7 k vyhláške č. 25/2004 Z. z. [príloha](../assets/f3e87ba5f7e9e1b73db8c6667133cf87fd1af410960818da1611601b88687b86.pdf)
+Príloha č. 7 k vyhláške č. 25/2004 Z. z. [Príloha č. 7 k vyhláške č. 25/2004 Z. z.](../assets/3eb1c6846e3b454f2469e5b4ac9f1661ed09ce28ec4e1052ae6c493f2a3b3e00.pdf)

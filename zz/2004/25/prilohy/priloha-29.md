@@ -1,1 +1,1 @@
-Príloha č. 29 k vyhláške č. 25/2004 Z. z. [príloha](../assets/90f841339884da687599bb781cf9420cac90d90f94dd5839e7daa1b9dbaa2676.pdf)
+Príloha č. 29 k vyhláške č. 25/2004 Z. z. [Príloha č. 29 k vyhláške č. 25/2004 Z. z.](../assets/358951d336704241cc66ce88fdb8e01ca21814abcddcc728dfa5d08c459fdfb3.pdf)

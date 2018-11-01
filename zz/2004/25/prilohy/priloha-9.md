@@ -1,1 +1,1 @@
-Príloha č. 9 k vyhláške č. 25/2004 Z. z. [Vzor 09 - Návrh na zápis akciovej spoločnosti do obchodného registra](../assets/31dd0ed53696f57ab14c4c2ef1b09d96487dca9f91650b530127d6b8f240f831.pdf)
+Príloha č. 9 k vyhláške č. 25/2004 Z. z. [Príloha č. 9 k vyhláške č. 25/2004 Z. z.](../assets/be2dd667f62541f5c480fe27606dfeb5cbb5c29958c177a153c4f0372152923e.pdf)
