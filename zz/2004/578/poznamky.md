@@ -38,10 +38,6 @@
 
 - 12b) § 35 ods. 1 písm. c) zákona č. 131/2002 Z. z. v znení neskorších predpisov.
 
-- 12c) § 2 ods. 13 písm. a) a ods. 14 zákona č. 131/2002 Z. z. v znení zákona č. 363/2007 Z. z.
-
-- 12d) § 2 ods. 13 písm. b) a ods. 16 zákona č. 131/2002 Z. z. v znení zákona č. 363/2007 Z. z.
-
 - 12e) Zákon č. 447/2008 Z. z. o peňažných príspevkoch na kompenzáciu ťažkého zdravotného postihnutia a o zmene a doplnení niektorých zákonov.
 
 - Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení zákona č. 317/2009 Z. z.
