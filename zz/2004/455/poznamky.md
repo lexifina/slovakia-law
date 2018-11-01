@@ -1,7 +1,5 @@
 - 1) § 2 ods. 2 písm. a) zákona č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 2) § 2 ods. 16 zákona č. 131/2002 Z. z. v znení neskorších predpisov.
-
 - 3) § 5 ods. 3 zákona č. 131/2002 Z. z.
 
 - 10) § 5 ods. 4 zákona č. 131/2002 Z. z.
