@@ -56,6 +56,8 @@
 
 - 12e) § 106, 112 a 113 Civilného sporového poriadku.
 
+- 12f) Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 13) Napr. § 54 a nasl. zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení zákona č. 103/1990 Zb. a zákona č. 262/1992 Zb.
 
 - 14) § 115 Občianskeho zákonníka.
@@ -87,6 +89,8 @@
 - 22) Napríklad zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov, zákon č. 13/2002 Z. z. o podmienkach premeny niektorých rozpočtových organizácií a príspevkových organizácií na neziskové organizácie poskytujúce všeobecne prospešné služby (transformačný zákon) a ktorým sa mení a dopĺňa zákon č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby v znení neskorších predpisov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 541/2005 Z. z. o transformácii niektorých štátnych podnikov na akciové spoločnosti.
 
 - 22a) Napríklad zákon č. 109/1964 Zb. Hospodársky zákonník v znení neskorších predpisov, vyhláška Ministerstva financií č. 86/1968 Zb. o združovaní prostriedkov socialistických organizácií.
+
+- 22ac) § 38 a 39 zákona Národnej rady Slovenskej republiky č. 162/1995 Z. z. v znení neskorších predpisov.
 
 - 22b) Zákon č. 104/1990 Zb. o akciových spoločnostiach.
 

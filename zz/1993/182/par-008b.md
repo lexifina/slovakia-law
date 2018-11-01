@@ -1,8 +1,6 @@
 # § 8b
 
-(1) Správca je povinný vykonávať správu domu samostatne v mene vlastníkov bytov a nebytových priestorov v dome a na ich účet a je oprávnený konať pri správe domu za vlastníkov bytov a nebytových priestorov v dome pred súdom. Správca zastupuje v konaní na súde vlastníkov bytov a nebytových priestorov v dome, proti ktorým smeruje návrh na začatie konania podaný prehlasovaným vlastníkom bytu a nebytového priestoru v dome, návrh na začatie konania o určenie platnosti zmluvy o výkone správy podaný iným vlastníkom bytu a nebytového priestoru v dome alebo návrh na začatie konania o zdržanie sa výkonu záložného práva alebo zákaz výkonu záložného práva podaný iným vlastníkom bytu a nebytového priestoru v dome; toto zastupovanie trvá, kým sa v konaní pred súdom nepreukáže rozpor záujmov správcu so záujmom zastupovaných vlastníkov bytov a nebytových priestorov v dome.
-
-(2) Pri správe domu je správca povinný
+(1) Pri správe domu je správca povinný
 
 - a) hospodáriť s majetkom vlastníkov bytov a nebytových priestorov v dome s odbornou starostlivosťou v súlade s podmienkami zmluvy o výkone správy,
 
@@ -14,20 +12,16 @@
 
 - e) sledovať úhrady za plnenia a úhrady preddavkov do fondu prevádzky údržby a opráv od vlastníkov bytov a nebytových priestorov v dome a vymáhať vzniknuté nedoplatky,
 
-- f) umožniť vlastníkovi bytu alebo nebytového priestoru v dome na požiadanie nahliadnuť do dokladov týkajúcich sa správy domu alebo čerpania fondu prevádzky, údržby a opráv,
+- f) zvolať schôdzu vlastníkov podľa potreby, najmenej raz za rok, alebo keď o to požiada najmenej štvrtina vlastníkov bytov a nebytových priestorov v dome,
 
-- g) zvolať schôdzu vlastníkov podľa potreby, najmenej raz za rok, alebo keď o to požiada najmenej štvrtina vlastníkov bytov a nebytových priestorov v dome,
+- g) vypracovať a každoročne do 30. novembra vlastníkom bytov a nebytových priestorov v dome predložiť plán opráv na nasledujúci kalendárny rok, ktorý zohľadní najmä opotrebenie materiálu a stav spoločných častí domu a spoločných zariadení domu a navrhnúť výšku tvorby fondu prevádzky údržby a opráv domu na kalendárny rok,
 
-- h) vypracúvať ročný plán opráv, ktorý zohľadní najmä opotrebenie materiálu a stav spoločných častí domu a spoločných zariadení domu a navrhnúť výšku tvorby fondu prevádzky údržby a opráv domu na kalendárny rok,
+- h) podať návrh na vykonanie dobrovoľnej dražby<sup>12ac</sup>) bytu alebo nebytového priestoru v dome na uspokojenie pohľadávok podľa § 15 na základe rozhodnutia podľa § 14b ods. 1 písm. o),
 
-- i) podať návrh na vykonanie dobrovoľnej dražby<sup>12ac</sup>) bytu alebo nebytového priestoru v dome na uspokojenie pohľadávok podľa § 15, ak je schválený nadpolovičnou väčšinou hlasov všetkých vlastníkov bytov a nebytových priestorov v dome,
+- i) podať návrh na exekučné konanie,<sup>12ab</sup>)
 
-- j) podať návrh na exekučné konanie,<sup>12ab</sup>)
+- j) zabezpečovať všetky ďalšie činnosti potrebné na riadny výkon správy domu v súlade so zmluvou o výkone správy a s týmto zákonom,
 
-- k) zabezpečovať všetky ďalšie činnosti potrebné na riadny výkon správy domu v súlade so zmluvou o výkone správy a s týmto zákonom,
+- k) priebežne zverejňovať na mieste v dome obvyklom v spoločných častiach domu alebo na webovom sídle správcu, ak ho má zriadené, postup pri obstarávaní tovarov a služieb, v rámci zabezpečovania prevádzky, údržby, opravy, rekonštrukcie a modernizácie a pri všetkých iných činnostiach spojených so správou domu, vrátane jednotlivých cenových ponúk.
 
-- l) priebežne zverejňovať na mieste v dome obvyklom v spoločných častiach domu alebo na webovom sídle správcu, ak ho má zriadené, postup pri obstarávaní tovarov a služieb, v rámci zabezpečovania prevádzky, údržby, opravy, rekonštrukcie a modernizácie a pri všetkých iných činnostiach spojených so správou domu, vrátane jednotlivých cenových ponúk.
-
-(3) Pri obstarávaní služieb a tovaru je správca povinný dojednať čo najvýhodnejšie podmienky, aké sa dali dojednať v prospech vlastníkov bytov a nebytových priestorov v dome. Správca je povinný riadiť sa rozhodnutím nadpolovičnej väčšiny vlastníkov bytov a nebytových priestorov v dome o výbere dodávateľa.
-
-(4) Správca zodpovedá za záväzky vlastníkov bytov a nebytových priestorov v dome vzniknuté pri výkone správy až do výšky splatených úhrad za plnenia alebo do výšky zostatku fondu prevádzky, údržby a opráv v príslušnom dome. Zodpovednosť za úhradu záväzkov voči dodávateľom služieb a tovaru, ktoré obstaráva správca v rámci zmluvy o výkone správy, nesie vlastník bytu alebo nebytového priestoru v dome, iba ak nie sú kryté úhradami za plnenia alebo úhradami preddavkov do fondu prevádzky, údržby a opráv správcovi.
+(2) Pri obstarávaní služieb a tovaru je správca povinný dojednať čo najvýhodnejšie podmienky, aké sa dali dojednať v prospech vlastníkov bytov a nebytových priestorov v dome. Správca je povinný riadiť sa rozhodnutím vlastníkov bytov a nebytových priestorov v dome o výbere dodávateľa, ak nejde o zabezpečenie odborných prehliadok a skúšok technického zariadenia,<sup>5a</sup>) ktoré je správca povinný vykonávať pri správe domu.

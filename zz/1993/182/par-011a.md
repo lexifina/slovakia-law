@@ -1,3 +1,0 @@
-# § 11a
-
-Štvrtina vlastníkov bytov a nebytových priestorov v dome má právo zvolať schôdzu vlastníkov alebo zhromaždenie, ak na ich žiadosť nezvolal schôdzu vlastníkov alebo zhromaždenie správca alebo rada do 15 dní od doručenia žiadosti. Oznámenie o schôdzi vlastníkov alebo o zhromaždení spolu s programom musí byť v písomnej forme doručené každému vlastníkovi bytu a nebytového priestoru v dome minimálne päť dní pred dňom konania schôdze vlastníkov alebo zhromaždenia. Oznámenie o schôdzi vlastníkov alebo o zhromaždení spolu s programom sa doručuje aj správcovi alebo predsedovi, ak má schôdza vlastníkov alebo zhromaždenie rozhodovať o úlohách pre správcu alebo predsedu.
