@@ -4,13 +4,13 @@
 
 (2) Akademický senát súkromnej vysokej školy
 
-- a) vyjadruje sa k návrhom na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla fakulty súkromnej vysokej školy po predchádzajúcom vyjadrení Akreditačnej komisie [§ 82 ods. 2 písm. d)],
+- a) vyjadruje sa k návrhom na zriadenie, zlúčenie, splynutie, rozdelenie, zrušenie, zmenu názvu alebo zmenu sídla fakulty súkromnej vysokej školy,
 
-- b) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 ods. 1 písm. b), i), j) a k) predložených rektorom súkromnej vysokej školy a schvaľuje na návrh predsedu akademického senátu súkromnej vysokej školy vnútorné predpisy podľa § 48 ods. 1 písm. f) a g),
+- b) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 ods. 1 písm. b), c), j), k) a l) predložených rektorom súkromnej vysokej školy a schvaľuje na návrh predsedu akademického senátu súkromnej vysokej školy vnútorné predpisy podľa § 48 ods. 1 písm. g) a h),
 
-- c) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 písm. a), c) až e) a k návrhu vnútorných predpisov fakulty podľa § 33 ods. 2 písm. a), § 33 ods. 3 písm. a),
+- c) vyjadruje sa k návrhom vnútorných predpisov súkromnej vysokej školy podľa § 48 písm. a), d) až f) a k návrhu vnútorných predpisov fakulty podľa § 33 ods. 2 písm. a), § 33 ods. 3 písm. a),
 
-- d) navrhuje kandidáta na rektora správnej rade súkromnej vysokej školy a navrhuje odvolanie rektora z funkcie správnej rade súkromnej vysokej školy. Správna rada súkromnej vysokej školy do 15 dní návrh kandidáta na rektora potvrdí a predloží ho ministrovi alebo návrh kandidáta zamietne,
+- d) navrhuje kandidáta na rektora správnej rade súkromnej vysokej školy a navrhuje odvolanie rektora z funkcie správnej rade súkromnej vysokej školy. Správna rada súkromnej vysokej školy do 15 dní návrh kandidáta na rektora potvrdí a predloží ho ministrovi školstva alebo návrh kandidáta zamietne,
 
 - e) vyjadruje sa k návrhu rektora na vymenovanie a odvolanie prorektorov,
 
@@ -22,9 +22,9 @@
 
 - i) schvaľuje výročnú správu o činnosti a výročnú správu o hospodárení,
 
-- j) pred schválením vo vedeckej rade vysokej školy prerokúva návrh študijných programov, ktoré sa nebudú uskutočňovať na fakulte, ale na vysokej škole, predložený rektorom,
+- j) schvaľuje podmienky prijatia na štúdium predložené rektorom, ak ich schválenie nepatrí do pôsobnosti akademického senátu fakulty,
 
-- k) schvaľuje podmienky prijatia na štúdium predložené rektorom, ak ich schválenie nepatrí do pôsobnosti akademického senátu fakulty,
+- k) vyjadruje sa k návrhu vnútorného systému súkromnej vysokej školy na návrh rektora súkromnej vysokej školy pred jeho predložením vedeckej rade súkromnej vysokej školy,
 
 - l) vyjadruje sa k návrhu štatutárneho orgánu na zriadenie, zmenu názvu, zlúčenie, splynutie, rozdelenie alebo zrušenie súčastí súkromnej vysokej školy, ktoré nie sú fakultami,
 

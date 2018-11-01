@@ -1,6 +1,6 @@
 # § 49a Pôsobenie zahraničných vysokých škôl
 
-(1) Zahraničná vysoká škola môže požiadať ministerstvo o udelenie oprávnenia na poskytovanie vysokoškolského vzdelávania na území Slovenskej republiky podľa právnych predpisov štátu jej sídla (ďalej len „oprávnenie").
+(1) Zahraničná vysoká škola môže požiadať ministerstvo školstva o udelenie oprávnenia na poskytovanie vysokoškolského vzdelávania na území Slovenskej republiky podľa právnych predpisov štátu jej sídla (ďalej len „oprávnenie").
 
 (2) Zahraničná vysoká škola spolu so žiadosťou o udelenie oprávnenia predloží
 
@@ -14,13 +14,13 @@
 
 (3) Žiadosť a informácie podľa odseku 2 písm. d) sa predkladajú v štátnom jazyku. Doklady podľa odseku 2 písm. a) až c) sa predkladajú spolu s úradne osvedčeným prekladom týchto dokladov do štátneho jazyka.
 
-(4) Ak sú nedostatky žiadosti podľa odsekov 2 a 3 odstrániteľné, ministerstvo vyzve zahraničnú vysokú školu, aby ich v primeranej lehote odstránila, a konanie preruší.
+(4) Ak sú nedostatky žiadosti podľa odsekov 2 a 3 odstrániteľné, ministerstvo školstva vyzve zahraničnú vysokú školu, aby ich v primeranej lehote odstránila, a konanie preruší.
 
-(5) Ministerstvo pred rozhodnutím o udelení oprávnenia požiada o informácie k žiadosti o udelenie oprávnenia podľa odseku 2 príslušný orgán členského štátu, v ktorom má zahraničná vysoká škola sídlo, najmä, či jej pôsobenie na území Slovenskej republiky nie je v rozpore s právnymi predpismi členského štátu jej sídla a či doklad o štúdiu vydaný zahraničnou vysokou školou absolventom štúdia v Slovenskej republike bude rovnocenný s dokladom o vzdelaní vydávaným absolventom v členskom štáte jej sídla. Ak doklad o vzdelaní nevydáva v tomto členskom štáte zahraničná vysoká škola, ale iný na to oprávnený orgán podľa právnych predpisov príslušného štátu, ministerstvo preskúma, či na vydanie dokladu o vzdelaní budú mať nárok aj absolventi štúdia poskytovaného na území Slovenskej republiky. Do získania písomného stanoviska ministerstvo konanie o žiadosti preruší.
+(5) Ministerstvo školstva pred rozhodnutím o udelení oprávnenia požiada o informácie k žiadosti o udelenie oprávnenia podľa odseku 2 príslušný orgán členského štátu, v ktorom má zahraničná vysoká škola sídlo, najmä, či jej pôsobenie na území Slovenskej republiky nie je v rozpore s právnymi predpismi členského štátu jej sídla a či doklad o štúdiu vydaný zahraničnou vysokou školou absolventom štúdia v Slovenskej republike bude rovnocenný s dokladom o vzdelaní vydávaným absolventom v členskom štáte jej sídla. Ak doklad o vzdelaní nevydáva v tomto členskom štáte zahraničná vysoká škola, ale iný na to oprávnený orgán podľa právnych predpisov príslušného štátu, ministerstvo školstva preskúma, či na vydanie dokladu o vzdelaní budú mať nárok aj absolventi štúdia poskytovaného na území Slovenskej republiky. Do získania písomného stanoviska ministerstvo školstva konanie o žiadosti preruší.
 
-(6) Ak uplatnenie absolventov štúdia na zahraničnej vysokej škole má byť v zdravotníckych povolaniach, ministerstvo požiada ministerstvo zdravotníctva o stanovisko, či absolventi štúdia zahraničnej vysokej školy spĺňajú podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>35</sup>)
+(6) Ak uplatnenie absolventov štúdia na zahraničnej vysokej škole má byť v zdravotníckych povolaniach, ministerstvo školstva požiada ministerstvo zdravotníctva o stanovisko, či absolventi štúdia zahraničnej vysokej školy spĺňajú podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>35</sup>)
 
-(7) Ministerstvo oprávnenie neudelí, ak
+(7) Ministerstvo školstva oprávnenie neudelí, ak
 
 - a) zistí, že skutočnosti uvedené zahraničnou vysokou školou v žiadosti sú nepravdivé alebo neúplné,
 
@@ -32,16 +32,16 @@
 
 - e) má štúdium pripravovať na výkon zdravotníckeho povolania a podľa stanoviska ministerstva zdravotníctva by jeho absolventi nespĺňali podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.<sup>35</sup>)
 
-(8) Ministerstvo rozhodne o žiadosti o udelenie oprávnenia v lehote 90 dní od jej doručenia.
+(8) Ministerstvo školstva rozhodne o žiadosti o udelenie oprávnenia v lehote 90 dní od jej doručenia.
 
 (9) Rozhodnutie o udelení oprávnenia obsahuje názvy študijných programov, ktoré je zahraničná vysoká škola oprávnená poskytovať, názov členského štátu, ktorého právnymi predpismi sa poskytované vzdelávanie upravuje, a aký akademický titul sa absolventom udeľuje.
 
-(10) Ministerstvo preskúma najmenej raz za šesť rokov, či zahraničná vysoká škola spĺňa podmienky, na základe ktorých jej bolo udelené oprávnenie.
+(10) Ministerstvo školstva preskúma najmenej raz za šesť rokov, či zahraničná vysoká škola spĺňa podmienky, na základe ktorých jej bolo udelené oprávnenie.
 
-(11) Ak ministerstvo zistí, že zahraničná vysoká škola nepôsobí v súlade s oprávnením, vyzve zahraničnú vysokú školu, aby nedostatky odstránila v lehote do 90 dní. Ak zahraničná vysoká škola nedostatky neodstráni, ministerstvo vydá rozhodnutie o odňatí oprávnenia. Odvolanie proti rozhodnutiu o odňatí oprávnenia má odkladný účinok.
+(11) Ak ministerstvo školstva zistí, že zahraničná vysoká škola nepôsobí v súlade s oprávnením, vyzve zahraničnú vysokú školu, aby nedostatky odstránila v lehote do 90 dní. Ak zahraničná vysoká škola nedostatky neodstráni, ministerstvo školstva vydá rozhodnutie o odňatí oprávnenia. Odvolanie proti rozhodnutiu o odňatí oprávnenia má odkladný účinok.
 
-(12) Na zamestnancov zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 74 ods. 3, § 80a a 80b. Na študenta zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 73. Na zahraničné vysoké školy sa tento zákon nevzťahuje, ak nie je uvedené inak. Ak zahraničná vysoká škola uskutočňuje akreditovaný študijný program podľa tohto zákona, na zamestnanca, ktorý vzdeláva v akreditovanom študijnom programe podľa tohto zákona, na študenta, ktorý študuje v študijnom programe akreditovanom podľa tohto zákona, a na uskutočňovanie akreditovaného študijného programu sa vzťahujú ustanovenia tohto zákona okrem § 2 ods. 3, ods. 13 až 16, § 5, § 14, § 15 ods. 1 písm. a), f) až h), § 15 ods. 2, § 16 až 19, § 20 ods. 1 písm. a) až e) a g), § 35, § 37 až 49, § 84 ods. 3 písm. e), § 84 ods. 4 písm. e), § 85, § 86; ustanovenia § 2 ods. 7 a 10, § 3, § 4 ods. 1 písm. e), § 6 až 13, § 21 až 33 a § 104 ods. 2 písm. a) sa vzťahujú primerane.
+(12) Na zamestnancov zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 74 ods. 4, § 80a a 80b. Na študenta zahraničnej vysokej školy sa ustanovenia tohto zákona nevzťahujú okrem § 73. Na zahraničné vysoké školy sa tento zákon nevzťahuje, ak nie je uvedené inak.
 
-(13) Ministerstvo na svojom webovom sídle zverejňuje informácie o udelení oprávnenia podľa odseku 1 a informácie o odňatí oprávnenia podľa odseku 1, ktoré sa stali právoplatné.
+(13) Ministerstvo školstva na svojom webovom sídle zverejňuje informácie o udelení oprávnenia podľa odseku 1 a informácie o odňatí oprávnenia podľa odseku 1, ktoré sa stali právoplatné.
 
-(14) Oprávnenie udelené ministerstvom nie je prenosné na inú právnickú osobu a neprechádza na právnych nástupcov zahraničnej vysokej školy.
+(14) Oprávnenie udelené ministerstvom školstva nie je prenosné na inú právnickú osobu a neprechádza na právnych nástupcov zahraničnej vysokej školy.

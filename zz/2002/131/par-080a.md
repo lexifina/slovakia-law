@@ -11,3 +11,5 @@
 - c) názov vysokej školy a názov jej súčasti, na ktorej je zamestnanec zaradený,
 
 - d) dátum skončenia pracovného pomeru s vysokou školou.
+
+(3) Na informačné účely a na účely prezentácie vedúcich zamestnancov je vysoká škola oprávnená sprístupniť alebo zverejniť podobizne rektora, prorektorov, dekanov, prodekanov, vedúcich zamestnancov vysokej školy a vedúcich zamestnancov fakulty.
