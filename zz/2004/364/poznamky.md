@@ -182,7 +182,7 @@
 
 - 56) Zákon Národnej rady Slovenskej republiky č. 162/1995 Z. z. o katastri nehnuteľností a o zápise vlastníckych a iných práv k nehnuteľnostiam (katastrálny zákon) v znení neskorších predpisov.
 
-- 56a) § 38a ods. 4 zákona č. 338/2000 Z. z. v znení zákona č. 556/2010 Z. z.
+- 56a) § 38a ods. 2 zákona č. 338/2000 Z. z. v znení neskorších predpisov.
 
 - 57) Zákon č. 7/2010 Z. z. v znení neskorších predpisov.
 
