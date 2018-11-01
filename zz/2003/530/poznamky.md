@@ -4,6 +4,12 @@
 
 - 1b) § 69aa ods. 1 písm. d) Obchodného zákonníka.
 
+- 1c) Zákon č. 566/2001 Z. z. o cenných papieroch a investičných službách a o zmene a doplnení niektorých zákonov (zákon o cenných papieroch) v znení neskorších predpisov.
+
+- 1d) § 6a ods. 1 písm. a) zákona č. 297/2008 Z. z. v znení zákona č. 315/2016 Z. z.
+
+- 1e) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+
 - 2) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
 - 2a) § 52 ods. 1, 3, 5 a 6 zákona č. 305/2013 Z. z. v znení zákona č. 273/2015 Z. z.
@@ -129,6 +135,8 @@
 - 21a) § 7 a 8 zákona č. 275/2006 Z. z.
 
 - 21aa) Čl. 3 ods. 27 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014) v platnom znení.
+
+- 21b) § 7a zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018.
 
 - 22) § 10 a nasl. zákona č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov v znení zákona č. 70/2008 Z. z.
 
