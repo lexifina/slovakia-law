@@ -1,8 +1,8 @@
 - 1) § 3 písm. j) zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
 
-- 2) ISO/IEC 10646:2012 Univerzálny kódovaný súbor znakov (UCS).
+- 2) STN EN 301 549 Požiadavky na prístupnosť produktov a služieb IKT (871549).
 
-- 3) Napríklad § 5 až 5b a § 14 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+- 3) Napríklad § 5 až 5b zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
 
 - 4) Napríklad zákon č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov.
 

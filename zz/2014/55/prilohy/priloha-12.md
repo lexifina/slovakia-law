@@ -1,1 +1,1 @@
-Príloha č. 12 k výnosu č. 55/2014 Z. z. [Príloha č. 12 k výnosu č. 55/2014 Z. z.](../assets/a04919b4284ca4da58be41fdc2ba512f304480405d4c32d699e27faf627c65d8.pdf)
+Príloha č. 12 k výnosu č. 55/2014 Z. z. [Príloha č. 12 k výnosu č. 55/2014 Z. z.](../assets/82558639ad5411938617988df4307be5ce4e4ab5ac191751ed94edd755121b98.pdf)

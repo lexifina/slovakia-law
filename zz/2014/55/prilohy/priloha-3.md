@@ -1,1 +1,1 @@
-Príloha č. 3 k výnosu č. 55/2014 Z. z. [Príloha č. 3 k výnosu č. 55/2014 Z. z.](../assets/2a013fcb8eb3eb69ef723edf281fa0d4bcff81c51c0fb19c2ce768b22f240c05.pdf)
+Príloha č. 3 k výnosu č. 55/2014 Z. z. [Príloha č. 3 k výnosu č. 55/2014 Z. z.](../assets/a51d3a918e41b2a2cb6a5e9d7fa559ee8548130b8bf097ea7d26a43bdd5c7cf8.pdf)

@@ -8,13 +8,13 @@
 
   - 1. textových súborov Portable Document Format podľa rozhodnutia Komisie EÚ<sup>11b</sup>) vo verzii A-1 (PDF/A-1) a A-2 (PDF/A-2) najmä podľa technickej normy<sup>11c</sup>),
 
-  - 2. textových súborov podľa § 19 písm. a) druhý bod , ak nejde o použitie na zaručenú konverziu podľa osobitného predpisu,<sup>11ca</sup>)
+  - 2. textových súborov podľa § 19 písm. a) druhého bodu, ak nejde o použitie na zaručenú konverziu podľa osobitného predpisu,<sup>11ca</sup>)
 
 - b) externe podpísaných elektronických dokumentov vo formáte
 
   - 1. textových súborov Portable Document Format vo verzii A-1 (PDF/A-1) a A-2 (PDF/A-2) najmä podľa technickej normy<sup>11c</sup>),
 
-  - 2. textových súborov podľa § 19 písm. a) druhý bod, ak nejde o použitie na zaručenú konverziu podľa osobitného predpisu<sup>11ca</sup>),
+  - 2. textových súborov podľa § 19 písm. a) druhého bodu, ak nejde o použitie na zaručenú konverziu podľa osobitného predpisu<sup>11ca</sup>),
 
   - 3. textových súborov podľa § 19 písm. a) tretieho bodu,
 
