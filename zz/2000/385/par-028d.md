@@ -4,7 +4,7 @@
 
 (2) Voľné miesto sudcu na okresnom súde v obvode krajského súdu možno obsadiť len z databázy kandidátov na funkciu sudcu vytvorenej pre obvod tohto krajského súdu. Ak postupom podľa predchádzajúcej vety nemožno voľné miesto sudcu obsadiť z dôvodu, že do databázy nie je zaradený žiaden kandidát na funkciu sudcu, možno voľné miesto sudcu obsadiť aj z kandidátov na funkciu sudcu vytvorenej pre obvod iného krajského súdu; ustanovenie odseku 3 sa použije primerane.
 
-(3) V databázach podľa odseku 1 sa kandidáti na funkciu sudcu zoradia podľa úspešnosti v hromadnom výberovom konaní; takto určené poradie je určujúce pre obsadzovanie voľných miest sudcov. Databázy podľa odseku 1 sa na základe výsledkov ďalších hromadných výberových konaní aktualizujú, a to podľa úspešnosti kandidátov na funkciu sudcu v hromadnom výberovom konaní; v prípade rovnosti poradia kandidátov na funkciu sudcu sa považuje za vyššie umiestneného v poradí kandidát, ktorý bol v databáze zaradený skôr.
+(3) V databázach podľa odseku 1 sa kandidáti na funkciu sudcu zoradia podľa úspešnosti v hromadnom výberovom konaní. Databázy podľa odseku 1 sa na základe výsledkov ďalšieho hromadného výberového konania dopĺňajú podľa poradia úspešnosti o kandidátov na funkciu sudcu z ďalšieho hromadného výberového konania ich zaradením do databázy za kandidátov na funkciu sudcu zaradených do databázy skôr. Voľné miesta sudcov sa obsadzujú z kandidátov na funkciu sudcu podľa úspešnosti v hromadnom výberovom konaní, ktoré je v databáze podľa odseku 1 uvedené ako prvé v poradí.
 
 (4) Kandidát na funkciu sudcu je povinný absolvovať prípravné vzdelávanie zamerané na osvojenie si praktických zručností potrebných na výkon funkcie sudcu a oznámiť ministerstvu absolvovanie prípravného vzdelávania.
 

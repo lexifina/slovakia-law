@@ -2,7 +2,7 @@
 
 (1) Hromadné výberové konanie vyhlasuje predseda súdnej rady aspoň raz ročne v jarnom období alebo jesennom období s územnou pôsobnosťou pre obvod každého krajského súdu tak, aby sa hromadné výberové konania uskutočnili v tom istom termíne. Výberové konanie podľa § 28 ods. 3 vyhlasuje predseda súdu, na ktorom sa obsadzuje voľné miesto sudcu.
 
-(2) Výberové konanie sa vyhlasuje verejne na webovom sídle súdnej rady a ministerstva, v periodickej tlači s celoštátnou pôsobnosťou a v iných verejnosti všeobecne prístupných prostriedkoch komunikácie najmenej 60 dní pred jeho konaním.
+(2) Výberové konanie sa vyhlasuje verejne na webovom sídle súdnej rady a ministerstva, v periodickej tlači s celoštátnou pôsobnosťou a v iných verejnosti všeobecne prístupných prostriedkoch komunikácie s odkazom na podrobnosti uvedené vo vyhlásení výberového konania zverejnenom na webovom sídle súdnej rady a ministerstva najmenej 60 dní pred jeho konaním.
 
 (3) Výberové konanie administratívne a organizačne zabezpečuje
 
