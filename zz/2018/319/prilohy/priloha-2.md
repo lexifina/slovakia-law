@@ -1,0 +1,1 @@
+[MARITIME LABOUR CONVENTION](../assets/8dd8cb9cfbddba57cfa458278de86d1ef7422bd130eb207953541bea1b9ea335.pdf)
