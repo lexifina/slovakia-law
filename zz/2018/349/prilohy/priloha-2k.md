@@ -1,0 +1,1 @@
+Príloha č. 2 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 349/2018 Z. z. [Lehoty na vykonanie volieb do orgánov samosprávy obcí 13. apríla 2019](../assets/7b47db0461340116777fc7bb1b1995643ae2bc95457310e79563cbcc0ffae7f0.pdf)

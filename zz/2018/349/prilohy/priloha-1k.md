@@ -1,0 +1,1 @@
+Príloha č. 1 k rozhodnutiu predsedu Národnej rady Slovenskej republiky č. 349/2018 Z. z. [Zoznam obcí, v ktorých sa vyhlasujú voľby do orgánov samosprávy obcí na 13. apríla 2019](../assets/451ef7a6f2ee3055603988c4d47bcbe0a31589797a5f7f501d5cc21a2920e7cc.pdf)
