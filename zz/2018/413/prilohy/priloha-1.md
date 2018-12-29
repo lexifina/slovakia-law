@@ -1,0 +1,115 @@
+- ZMENY DOPLNENIA Zmluvy medzi Slovenskou republikou a Zväzovou republikou Juhosláviou o zamedzení dvojitého zdanenia v odbore daní z príjmov a z majetku (oznámenie č. 269/2002 Z. z.) vo vzťahu k Srbskej republike v súvislosti s nadobudnutím platnosti Mnohostranného dohovoru na zavedenie opatrení na zamedzenie narúšania základov dane a presunov zisku súvisiacich s daňovými zmluvami (oznámenie č. 339/2018 Z. z.)
+
+  - 1. Existujúci text preambuly zmluvy „želajúc si uzavrieť zmluvu o zamedzení dvojitého zdanenia v odbore daní z príjmov a z majetku“ sa nahrádza nasledovným znením článku 6 ods. 1 a 3 dohovoru:
+
+  - „želajúc si ďalej rozvíjať ekonomické vzťahy a posilniť spoluprácu v daňových záležitostiach s cieľom zamedziť dvojitému zdaneniu v súvislosti s daňami, na ktoré sa táto zmluva vzťahuje, bez toho, aby sa vytvárali príležitosti na nezdaňovanie alebo znížené zdanenie prostredníctvom daňových únikov alebo vyhýbania sa daňovej povinnosti (vrátane schém hľadania najvýhodnejších daňových podmienok formou tzv. treaty shopping s cieľom získať úľavy, ktoré takáto zmluva poskytuje ako nepriamu výhodu pre rezidentov tretích krajín),“.
+
+  - 2. Článok 4 ods. 3 zmluvy sa nahrádza nasledovným znením článku 4 ods. 1 dohovoru:
+
+  - „Ak v dôsledku ustanovení článku 4 ods. 1 zmluvy osoba, ktorá nie je fyzickou osobou, je rezidentom viac ako jedného zmluvného štátu, potom príslušné úrady týchto zmluvných štátov sa vynasnažia určiť vzájomnou dohodou, v ktorom zmluvnom štáte sa takáto osoba bude považovať za daňového rezidenta na účely zmluvy, pričom sa bude prihliadať na miesto jej skutočného vedenia, miesto jej vzniku alebo miesto, kde bola osoba inak založená, a na akékoľvek iné relevantné faktory. Ak neexistuje takáto dohoda, nebude mať takáto osoba nárok na žiadne úľavy alebo oslobodenie od dane podľa ustanovení zmluvy okrem prípadov, a to v takom rozsahu a spôsobom, na akom sa môžu dohodnúť príslušné úrady zmluvných štátov.“.
+
+  - 3. Článok 5 ods. 4 zmluvy sa nahrádza nasledovným znením článku 13 ods. 2 dohovoru:
+
+  - „Bez ohľadu na článok 5 ods. 1, 2 a 3 zmluvy má sa za to, že výraz „stála prevádzkareň“ sa nevzťahuje na
+
+  - 1.
+
+  - zariadenie, ktoré sa využíva iba na účely uskladnenia, vystavenia alebo dodania tovaru patriaceho podniku,
+
+  - 2.
+
+  - zásobu tovaru patriaceho podniku, ktorá sa udržiava iba na účely uskladnenia, vystavenia alebo dodania,
+
+  - 3.
+
+  - zásobu tovaru patriaceho podniku, ktorá sa udržiava iba na účely spracovania iným podnikom,
+
+  - 4.
+
+  - trvalé zariadenie na podnikanie, ktoré sa využíva iba na účely nákupu tovaru alebo zhromažďovania informácií pre podnik,
+
+  - 5.
+
+  - trvalé zariadenie na podnikanie, ktoré sa udržiava iba na účely reklamy, poskytovania informácií, vedeckého výskumu alebo podobných činností, ktoré majú pre podnik prípravný alebo pomocný charakter,
+
+  - 6.
+
+  - udržiavanie trvalého miesta výkonu činnosti výlučne na účely vykonávania akejkoľvek činnosti v mene podniku,
+
+  - 7.
+
+  - udržiavanie trvalého miesta výkonu činnosti výlučne na akúkoľvek kombináciu činností uvedených v bodoch 1 až 6, za predpokladu, že takáto činnosť alebo v prípade bodu 7 celková činnosť trvalého miesta výkonu činnosti predstavuje činnosti prípravného alebo pomocného charakteru.“.
+
+  - 4. Článok 5 ods. 5 a 6 zmluvy sa nahrádzajú nasledovným znením článku 12 ods. 1 a 2 dohovoru:
+
+  - „1.
+
+  - Bez ohľadu na článok 5 ods. 1, 2 a 3 zmluvy, ale s výhradou odseku 2 tohto bodu, ak osoba koná v zmluvnom štáte v mene podniku a pritom v rámci tejto činnosti obvykle uzatvára zmluvy alebo zohráva hlavnú úlohu pri uzatváraní zmlúv bez významných úprav zo strany podniku, pričom sa tieto zmluvy uzatvárajú
+
+  - a)
+
+  - v mene podniku, alebo
+
+  - b)
+
+  - o prevode vlastníckych práv k majetku alebo na udelenie práv na používanie majetku, ktorý podnik vlastní alebo ktorý má podnik právo používať, alebo
+
+  - c)
+
+  - na poskytovanie služieb týmto podnikom,
+
+  - bude sa takýto podnik považovať za podnik, ktorý má stálu prevádzkareň v tomto zmluvnom štáte v súvislosti s akýmikoľvek činnosťami, ktoré takáto osoba vykoná pre podnik okrem prípadov, keď tieto činnosti, ak boli vykonané podnikom prostredníctvom trvalého miesta výkonu činnosti tohto podniku v tomto zmluvnom štáte, nebudú dôvodom na to, aby sa toto trvalé miesto výkonu činnosti považovalo za zakladajúce stálu prevádzkareň podľa definície stálej prevádzkarne uvedenej v článku 5 zmluvy (v znení úprav podľa dohovoru).
+
+  - 2.
+
+  - Odsek 1 sa nepoužije, pokiaľ osoba, ktorá koná v jednom zmluvnom štáte v mene podniku druhého zmluvného štátu, vykonáva činnosť v prvom zmluvnom štáte ako nezávislý zástupca a koná v mene tohto podniku v rámci riadneho výkonu tejto činnosti. Pokiaľ však osoba koná výlučne alebo takmer výlučne v mene jedného alebo viacerých podnikov, s ktorými je úzko prepojená, takáto osoba sa nebude považovať za nezávislého zástupcu v zmysle tohto odseku, a to vo vzťahu k akémukoľvek takémuto podniku.“.
+
+  - 5. K existujúcim ustanoveniam článku 5 zmluvy sa dopĺňa nasledovné znenie článku 13 ods. 4 dohovoru:
+
+  - „Článok 5 ods. 4 zmluvy (v znení úprav podľa dohovoru) sa neuplatní na trvalé miesto výkonu činnosti, ktoré podnik používa alebo udržiava, ak tento podnik alebo s ním úzko prepojený podnik vykonáva činnosť na tom istom mieste alebo na inom mieste v rámci toho istého zmluvného štátu, a
+
+  - a)
+
+  - toto miesto alebo iné miesto predstavuje stálu prevádzkareň pre daný podnik alebo s ním úzko prepojený podnik podľa ustanovení článku 5 zmluvy, alebo
+
+  - b)
+
+  - celková činnosť, ktorá je výsledkom kombinácie činností vykonávaných týmito dvomi podnikmi na tom istom mieste alebo tým istým podnikom, alebo jeho úzko prepojeným podnikom na dvoch miestach, nemá prípravný alebo pomocný charakter,
+
+  - za predpokladu, že tieto činnosti vykonávané týmito dvomi podnikmi na tom istom mieste alebo tým istým podnikom, alebo jeho úzko prepojeným podnikom na dvoch miestach, predstavujú doplňujúce funkcie, ktoré sú súčasťou ucelenej činnosti podniku.“.
+
+  - 6. K existujúcim ustanoveniam článku 5 zmluvy sa dopĺňa nasledovné znenie článku 14 ods. 1 dohovoru:
+
+  - „Výlučne na účely určenia toho, či už uplynulo obdobie (alebo obdobia) uvedené v ustanovení článku 5 ods. 3 zmluvy
+
+  - a)
+
+  - pokiaľ podnik jedného zmluvného štátu vykonáva činnosti v druhom zmluvnom štáte na mieste, ktoré zakladá stavenisko alebo stavbu, alebo inštalačný projekt uvedený v ustanovení článku 5 ods. 3 zmluvy a tieto činnosti sa vykonávajú počas jedného alebo viacerých časových období, ktoré v úhrne presahujú 30 dní, ale nepresahujú dĺžku obdobia, alebo období uvedených v ustanoveniach článku 5 ods. 3 zmluvy, a
+
+  - b)
+
+  - pokiaľ sa súvisiace činnosti vykonávajú v tomto druhom zmluvnom štáte na tom istom stavenisku alebo stavbe, alebo inštalačnom projekte podľa ustanovenia článku 5 ods. 3 zmluvy počas rôznych období, z ktorých každé presahuje 30 dní vykonávané podnikmi úzko prepojenými s prvým uvedeným podnikom, potom sa tieto rôzne časové obdobia pripočítajú k celkovému časovému obdobiu, počas ktorého prvý uvedený podnik vykonával činnosť na tomto stavenisku alebo stavbe, alebo inštalačnom projekte uvedenom v ustanovení článku 5 ods. 3 zmluvy.“.
+
+  - 7. K existujúcim ustanoveniam článku 5 zmluvy sa dopĺňa nasledovné znenie článku 15 ods. 1 dohovoru:
+
+  - „Na účely článku 5 zmluvy (v znení úprav podľa dohovoru) osoba je úzko prepojená s podnikom, ak na základe všetkých relevantných skutočností a okolností jedna osoba ovláda druhú alebo ak sú obidve ovládané tými istými osobami alebo podnikmi. V každom prípade sa osoba bude považovať za úzko prepojenú s podnikom, pokiaľ má jeden v držbe, či už priamo, alebo nepriamo, viac ako 50-percentný podiel (beneficial interest) na druhom (alebo, v prípade spoločnosti, viac ako 50 percent celkových hlasovacích práv a hodnoty akcií spoločnosti alebo podiel na vlastnom imaní spoločnosti (beneficial equity interest)), alebo ak iná osoba má v držbe, či už priamo, alebo nepriamo, viac ako 50-percentný podiel (alebo, v prípade spoločnosti, viac ako 50 percent celkových hlasovacích práv a hodnoty akcií spoločnosti alebo podiel na vlastnom imaní spoločnosti) na osobe a podniku.“.
+
+  - 8. K existujúcim ustanoveniam článku 9 zmluvy sa dopĺňa nasledovné znenie článku 17 ods. 1 dohovoru:
+
+  - „Ak jeden zmluvný štát zahrnie do ziskov podniku tohto zmluvného štátu a následne zdaní zisky, z ktorých bol podnik druhého zmluvného štátu zdanený v tomto druhom zmluvnom štáte a zisky takto zahrnuté sú zisky, ktoré by bol dosiahol podnik prvého uvedeného zmluvného štátu, ak by podmienky dohodnuté medzi týmito dvomi podnikmi boli také, aké by sa dohodli medzi nezávislými podnikmi, potom druhý zmluvný štát primerane upraví sumu dane uloženej z týchto ziskov. Pri stanovení takejto úpravy sa postupuje s náležitým ohľadom na iné ustanovenia zmluvy a príslušné úrady zmluvných štátov sa v prípade potreby spolu poradia.“.
+
+  - 9. K existujúcim ustanoveniam článku 10 ods. 2 bodu 1 zmluvy sa uplatňuje nasledovné znenie článku 8 ods. 1 dohovoru:
+
+  - „Ustanovenia článku 10 ods. 2 bodu 1 zmluvy sa uplatnia, len ak sú podmienky vlastníctva uvedené v týchto ustanoveniach splnené počas celého obdobia 365 dní, ktoré zahŕňa deň výplaty dividend (na účely výpočtu tohto obdobia sa neprihliada na zmeny vlastníctva, ktoré by priamo vyplývali z reorganizácie podniku, ako napríklad zlúčenie alebo rozdelenie spoločnosti, ktorý má v držbe akcie alebo ktorý vypláca dividendy).“.
+
+  - 10. K existujúcim ustanoveniam článku 13 zmluvy sa dopĺňa nasledovné znenie článku 9 ods. 4 dohovoru:
+
+  - „Na účely zmluvy zisky, ktoré plynú rezidentovi jedného zmluvného štátu zo scudzenia akcií alebo porovnateľných podielov, ako napríklad podiely v osobnej obchodnej spoločnosti alebo truste, môžu byť zdanené v druhom zmluvnom štáte, ak kedykoľvek počas obdobia 365 dní predchádzajúcich scudzeniu viac ako 50 percent hodnoty týchto akcií alebo porovnateľných podielov priamo alebo nepriamo predstavuje nehnuteľný majetok nachádzajúci sa v druhom zmluvnom štáte.“.
+
+  - 11. K existujúcim ustanoveniam článku 26 ods. 2 zmluvy sa dopĺňa nasledovné znenie článku 16 ods. 2 druhej vety dohovoru:
+
+  - „Dosiahnutá dohoda sa uplatní bez ohľadu na časové lehoty podľa vnútroštátnych právnych predpisov zmluvných štátov.“.
+
+  - 12. K existujúcim ustanoveniam zmluvy sa dopĺňa nasledovné znenie článku 7 ods. 1 dohovoru:
+
+  - „Ak je možné usúdiť, a to s ohľadom na všetky relevantné skutočnosti a okolnosti, že získanie výhody zo zmluvy bolo jedným z hlavných účelov akéhokoľvek opatrenia alebo akejkoľvek transakcie priamo alebo nepriamo vedúceho k tejto výhode, táto výhoda bez ohľadu na ktorékoľvek iné ustanovenia zmluvy, nebude poskytnutá vo vzťahu k časti príjmu, pokiaľ sa nepreukáže, že poskytnutie tejto výhody v danej situácii by bolo v súlade s účelom a cieľom príslušných ustanovení zmluvy.“.
