@@ -8,7 +8,7 @@
 
 - b) počet poistencov zaradených do jednotlivých farmaceuticko-nákladových skupín podľa § 27b ods. 2 a 3 za rozhodujúce obdobie.
 
-(3) Základom ročného prerozdeľovania poistného je 95 % povinného poistného podľa odseku 2 písm. a) po odpočítaní nadlimitnej sumy podľa § 27aa ods. 1 za všetkých poistencov (ďalej len „základ ročného prerozdeľovania”).
+(3) Základom ročného prerozdeľovania poistného je 95 % povinného poistného podľa odseku 2 písm. a) (ďalej len „základ ročného prerozdeľovania”).
 
 (4) Štandardizovaný príjem na účely ročného prerozdeľovania na jedného prepočítaného poistenca (§ 28 ods. 1) je podiel celkového základu ročného prerozdeľovania a celkového počtu prepočítaných poistencov. Celkový základ ročného prerozdeľovania je súčet základov ročného prerozdeľovania za všetky zdravotné poisťovne. Celkový počet prepočítaných poistencov je súčet prepočítaných poistencov všetkých zdravotných poisťovní.
 
@@ -34,12 +34,6 @@
 
   - 3. počet prepočítaných poistencov podľa § 28 ods. 1,
 
-  - 4. počet poistencov s nenulovou nadlimitnou sumou podľa § 27aa ods. 1,
-
-  - 5. celkovú sumu, ktorá predstavuje súčet nadlimitných súm za všetkých poistencov (bod 4),
-
-  - 6. celkové priemerné náklady na jedného poistenca (§ 27aa ods. 3),
-
 - b) rozhodne o
 
   - 1. výške štandardizovaného príjmu na jedného prepočítaného poistenca podľa odseku 4,
@@ -54,11 +48,7 @@
 
   - 6. povinnosti zaplatiť poplatok z omeškania podľa § 28 ods. 15.
 
-  - 7. podiele na nadlimitnej sume podľa § 27aa ods. 4 za každú zdravotnú poisťovňu,
-
-  - 8. upravenom podiele na nadlimitnej sume podľa § 27aa ods. 5 za každú zdravotnú poisťovňu.
-
-(10) V rozhodnutí podľa odseku 9 úrad určí každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a) upraveného o upravený podiel na nadlimitnej sume podľa § 27aa ods. 5. Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
+(10) V rozhodnutí podľa odseku 9 úrad určí každej zdravotnej poisťovni podľa odseku 8 písm. b) výšku jej záväzku voči každej zdravotnej poisťovni podľa odseku 8 písm. a). Výška záväzku sa vypočíta ako súčin koeficientu zdravotnej poisťovne podľa odseku 8 písm. a) a upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. b). Koeficient zdravotnej poisťovne podľa odseku 8 písm. a) sa vypočíta ako podiel upraveného výsledku ročného prerozdeľovania pre zdravotnú poisťovňu podľa odseku 8 písm. a) a súčtu upravených výsledkov ročného prerozdeľovania pre všetky zdravotné poisťovne podľa odseku 8 písm. a). Zdravotná poisťovňa podľa odseku 8 písm. b) je povinná uhradiť záväzky voči zdravotným poisťovniam podľa odseku 8 písm. a) do 31. decembra kalendárneho roka.
 
 (11) Príslušnosť zdravotnej poisťovne na ročné prerozdeľovanie poistného pri prevode poistného kmeňa upravuje osobitný predpis.<sup>57b</sup>)
 

@@ -4,7 +4,7 @@
 
 (2) Odpočítateľná položka podľa § 13a tohto zákona v znení účinnom od 1. januára 2018 sa prvýkrát použije pri vykonaní ročného zúčtovania za rok 2017.
 
-(3) Výška mesačného preddavku na nadlimitnú sumu v mesačnom prerozdeľovaní podľa § 27 ods. 11 v rokoch 2018 a 2019 sa určí ako jedna dvanástina z nadlimitnej sumy za obdobie, ktoré dva roky predchádza kalendárnemu roku, za ktorý sa mesačné prerozdeľovanie vykonáva.
+(3) Výška mesačného preddavku na nadlimitnú sumu v mesačnom prerozdeľovaní podľa § 27 ods. 11 v roku 2018 sa určí ako jedna dvanástina z nadlimitnej sumy za obdobie, ktoré dva roky predchádza kalendárnemu roku, za ktorý sa mesačné prerozdeľovanie vykonáva.
 
 (4) Na výpočet hodnoty nadlimitnej sumy za obdobia podľa odseku 1 sa použije postup ustanovený v § 27aa s indexmi rizika nákladov, ktoré boli platné v príslušnom období, ktorého sa výpočet týka.
 

@@ -18,7 +18,7 @@
 
 - g) dobu platnosti preukazu poistenca,
 
-- h) označenie preukazu „EU“ podľa § 9c ods. 7 alebo označenie preukazu „P“ pre dôchodcov poistených v Slovenskej republike s bydliskom v inom členskom štáte, ktorí majú v Slovenskej republike nárok na potrebnú zdravotnú starostlivosť,
+- h) označenie preukazu „EU“ podľa § 9c ods. 7,
 
 - i) identifikačné číslo poistenca.
 

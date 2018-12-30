@@ -2,7 +2,7 @@
 
 (1) Odpočítateľná položka podľa § 13a tohto zákona v znení účinnom od 1. januára 2017 sa prvýkrát použije pri vykonaní ročného zúčtovania poistného za rok 2016.
 
-(2) Zamestnanec na účely tohto zákona nie je v období od 1. januára 2017 do 31. decembra 2018 fyzická osoba, ktorá odplatne vykonáva šport za športovú organizáciu na základe zmluvy o profesionálnom vykonávaní športu podľa osobitného predpisu.<sup>64</sup>)
+(2) Zamestnanec na účely tohto zákona nie je v období od 1. januára 2017 do 31. decembra 2021 fyzická osoba, ktorá odplatne vykonáva šport za športovú organizáciu na základe zmluvy o profesionálnom vykonávaní športu podľa osobitného predpisu.<sup>64</sup>)
 
 (3) Od 1. januára 2017 do 31. decembra 2017 je sadzba poistného pre štát 3,78 % z vymeriavacieho základu.
 

@@ -38,6 +38,8 @@
 
 - 8aaa) Zákon č. 404/2011 Z. z. v znení neskorších predpisov.
 
+- 8aab) § 62 ods. 4 zákona č. 404/2011 Z. z.
+
 - 8ab) § 65 zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.
 
 - 8b) Napríklad článok 1 písm. e) nariadenia (ES) č. 883/2004 v znení nariadenia (ES) č. 988/2009.
@@ -172,7 +174,7 @@
 
 - 44b) § 4 ods. 1 písm. d) zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 45) Zákon č. 599/2003 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 45) Zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 46) Zákon č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -194,6 +196,8 @@
 
 - 49) § 2 ods. 3 zákona č. 447/2008 Z. z.
 
+- 49a) § 81b ods. 2 zákona Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení zákona č. 444/2015 Z. z.
+
 - 50) § 11 zákona č. 595/2003 Z. z. v znení neskorších predpisov.
 
 - 50a) § 5 ods. 7 písm. n) a o) zákona č. 595/2003 Z. z. v znení zákona č. 63/2018 Z. z.
@@ -203,6 +207,8 @@
 - 51c) Zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti (Exekučný poriadok) a o zmene a doplnení ďalších zákonov v znení neskorších predpisov.
 
 - 51d) § 23a až 23c zákona č. 253/1998 Z. z. v znení neskorších predpisov.
+
+- 51da) § 61k a § 61n ods. 1 písm. a), c) a d) zákona Národnej rady Slovenskej republiky č. 233/1995 Z. z.
 
 - 51e) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
