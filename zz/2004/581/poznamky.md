@@ -24,8 +24,6 @@
 
 - 11ab) § 73 a 73a zákona č. 404/2011 Z. z. o pobyte cudzincov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 11ac) Čl. 1 písm. k) nariadenia (ES) č. 883/2004 v platnom znení.
-
 - 12) § 17 ods. 7, § 18 a § 19 ods. 12 zákona č. 580/2004 Z. z.
 
 - 13) § 9 ods. 7 zákona č. 580/2004 Z. z.
@@ -69,6 +67,8 @@
 - 17a) § 11 zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov.
 
 - 17b) § 7a zákona č. 363/2011 Z. z. v znení zákona č. 336/2017.
+
+- 17c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 18) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení zákona č. 270/2008 Z. z.
 
@@ -224,15 +224,15 @@
 
 - 35c) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
-- 35ca) § 23 ods. 18 zákona č. 580/2004 Z. z. v znení zákona č. 77/2015 Z. z.
+- 35ca) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
-- 35cb) § 9c ods. 6 zákon č. 580/2004 Z. z. v znení zákona č. 220/2013 Z. z.
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
 
-- 35cc) § 29b ods. 6 až 14 a ods. 16 až 19 zákona č. 580/2004 Z. z. v znení neskorších predpisov.
+- 35cb) § 9 ods. 7 písm. c) zákona č. 580/2004 Z. z. v znení zákona č. 356/2016 Z. z.
 
-- 35cd) Zákon č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
+- 35cc) Napríklad zákon č. 576/2004 Z. z. v znení neskorších predpisov, zákon č. 578/2004 Z. z. v znení neskorších predpisov, zákon č. 580/2004 Z. z. v znení neskorších predpisov, zákon č. 362/2011 Z. z. v znení neskorších predpisov, zákon č. 153/2013 Z. z. v znení neskorších predpisov.
 
-- 35ce) § 8 ods. 6 zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+- 35cd) Civilný sporový poriadok, Civilný mimosporový poriadok, Správny súdny poriadok, Správny poriadok.
 
 - 35cf) § 4 ods. 2 písm. a) zákona č. 122/2013 Z. z.
 
@@ -536,7 +536,7 @@
 
 - 98d) § 524 až 530 Občianskeho zákonníka.
 
-- 98e) Zákon č. 278/1993 Z. z. v znení neskorších predpisov.
+- 98e) § 8 zákona č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov.
 
 - 99) Zákon č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 282/2006 Z. z.
 
