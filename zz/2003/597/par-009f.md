@@ -4,4 +4,4 @@
 
 (2) Príspevok na kurz pohybových aktivít v prírode v stredných školách s osemročným vzdelávacím programom podľa § 4ab ods. 2 druhej vety sa prvýkrát poskytne od 1. januára 2018.
 
-(3) Na účely poskytovania príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia sa od 1. septembra 2017 do 31. decembra 2018 považuje za žiaka zo sociálne znevýhodneného prostredia aj žiak, ktorý je členom domácnosti,<sup>5b</sup>) ktorej členovi sa poskytuje pomoc v hmotnej núdzi<sup>5c</sup>) a zákonný zástupca žiaka túto skutočnosť preukáže riaditeľovi základnej školy.
+(3) Na účely poskytovania príspevku na skvalitnenie podmienok na výchovu a vzdelávanie žiakov zo sociálne znevýhodneného prostredia sa od 1. septembra 2017 do 31. decembra 2019 považuje za žiaka zo sociálne znevýhodneného prostredia aj žiak, ktorý je členom domácnosti,<sup>5b</sup>) ktorej členovi sa poskytuje pomoc v hmotnej núdzi<sup>5c</sup>) a zákonný zástupca žiaka túto skutočnosť preukáže riaditeľovi základnej školy.
