@@ -1,0 +1,1 @@
+Príloha č. 6 k opatreniu č. 34/2018 Z. z. [príloha](../assets/d0ae5e7e1af627c529a65743a464a6b6ad80a0201cf15a171b89fd695a4e1c4f.pdf) [príloha](../assets/6354fe4c32ec6c3fafdc415df30d2c21ba8db0628a0931692c35dbcdccb98162.pdf)
