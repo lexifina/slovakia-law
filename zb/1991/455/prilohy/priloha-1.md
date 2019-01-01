@@ -34,4 +34,4 @@ Príloha č. 1 k zákonu č. 455/1991 Zb. v znení neskorších predpisov
 
 - SKUPINA | 114 - Ostatné |
 
-- 30. 31. 32. 33. 34. 35. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál pre výdajne Čistenie a kontrola komínov Manikúra Pedikúra | I III III III III
+- 30. 31. 32. 33. 34. 35. | Pánske, dámske a detské kaderníctvo Kozmetické služby Pohostinská činnosť a výroba hotových jedál určených na priamu spotrebu mimo prevádzkových priestorov Čistenie a kontrola komínov Manikúra Pedikúra | I III III III III
