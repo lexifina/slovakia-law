@@ -202,6 +202,8 @@
 
 - 28jc) Rozhodnutie Rady 2008/615/SVV (Ú. v. EÚ L 210, 6. 8. 2008). Rozhodnutie Rady 2008/617/SVV z 23. júna 2008 o zlepšení spolupráce medzi osobitnými zásahovými jednotkami členských štátov Európskej únie v krízových situáciách (Ú. v. EÚ L 210, 6. 8. 2008).
 
+- 28jca) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 28jd) Zákon č. 514/2003 Z. z. o zodpovednosti za škodu spôsobenú pri výkone verejnej moci a o zmene niektorých zákonov v znení neskorších predpisov.
 
 - 28je) § 3 písm. b) a c) zákona č. 583/2008 Z. z. o prevencii kriminality a inej protispoločenskej činnosti a o zmene a doplnení niektorých zákonov.
