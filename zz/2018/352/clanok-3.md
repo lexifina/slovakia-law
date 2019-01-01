@@ -1,0 +1,3 @@
+# Čl. III
+
+Tento zákon nadobúda účinnosť 1. januára 2019 okrem čl. I bodu 4 § 9 ods. 1 až 5 a ods. 6 písm. b) až d), ktorý nadobúda účinnosť 1. marca 2019, čl. II bodov 1 až 9 a 11 až 16, ktoré nadobúdajú účinnosť 1. mája 2019, a čl. I bodu 4 § 8, § 9 ods. 6 písm. a), § 9b a 9c a bodov 5, 6, 15, 16, 21, 22, 23, 26 až 31 a 33, ktoré nadobúdajú účinnosť prvým dňom kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom finančné riaditeľstvo uverejnilo na svojom webovom sídle oznámenie o začatí označovania minerálneho oleja uvedeného v § 6 ods. 1 písm. a) a d) alebo v § 7 ods. 1 a 2 identifikačnou látkou.
