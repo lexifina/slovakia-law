@@ -46,7 +46,7 @@
 
 - 12ac) Zákon č. 527/2002 Z. z. o dobrovoľných dražbách a o doplnení zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok) v znení neskorších predpisov.
 
-- 12b) Zákon č. 311/1999 Z. z. o registri trestov v znení neskorších predpisov.
+- 12b) § 10 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
 
 - 12c) § 68 až 75 Obchodného zákonníka.
 
