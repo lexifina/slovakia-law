@@ -32,6 +32,8 @@
 
 - 13aa) Napríklad čl. 74 ods. 2, čl. 103 ods. 1, čl. 134 ods. 3 a čl. 145 ods. 2 Ústavy Slovenskej republiky, § 192 ods. 1 písm. g) zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície, § 183 ods. 1 písm. g) zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov, § 15 ods. 2 písm. b) zákona č. 154/2001 Z. z. o prokurátoroch a právnych čakateľoch prokuratúry, § 60 ods. 1 písm. a) zákona č. 315/2001 Z. z. o Hasičskom a záchrannom zbore, § 70 ods. 1 písm. g) zákona č. 346/2005 Z. z. o štátnej službe profesionálnych vojakov ozbrojených síl Slovenskej republiky a o zmene a doplnení niektorých zákonov, § 3 ods. 3 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
+- 13aaa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 13ab) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 13b) Zákon č. 48/2002 Z. z. v znení neskorších predpisov.
