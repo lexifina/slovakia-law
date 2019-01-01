@@ -182,6 +182,10 @@ Zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a 
 
 - Úrad na žiadosť záložného veriteľa alebo na žiadosť záložcu vykoná zápis záložného práva do registra.
 
+- (4)
+
+- Odseky 1 až 3 sa primerane použijú aj na záložné právo k prihláške a na záložné právo k patentu, ktorý bude udelený v budúcnosti<sup>10</sup>) (ďalej len „záložné právo k prihláške“). Udelením patentu nie je zápis záložného práva k prihláške dotknutý a považuje sa za zápis záložného práva k patentu, ak v zmluve o zriadení záložného práva nie je dohodnuté inak alebo ak z rozhodnutia, ktorým bolo záložné právo zriadené, nevyplýva inak. Úpravou alebo rozdelením prihlášky (§ 45) nie je zápis záložného práva k prihláške dotknutý; ak ide o rozdelenie prihlášky (§ 45 ods. 2), úrad zapíše záložné právo aj k vylúčeným prihláškam.
+
 - (5)
 
 - Na vznik, zánik a výkon záložného práva k patentu sa použijú ustanovenia Občianskeho zákonníka,<sup>11</sup>) ak v odsekoch 1 až 4 nie je ustanovené inak.
@@ -221,6 +225,10 @@ Zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a 
 - (8)
 
 - Ak nie je dohodnuté inak, pri neoprávnenom zásahu do výlučných práv podľa § 15 môže nadobúdateľ nevýlučnej licencie vo svojom mene a na vlastný účet uplatniť nároky podľa § 32 žalobou podľa Civilného sporového poriadku alebo návrhom podľa osobitného predpisu<sup>8b</sup>) len so súhlasom majiteľa patentu; nadobúdateľ výlučnej licencie tak môže urobiť, ak majiteľ patentu po písomnom oznámení sám v primeranej lehote žalobou podľa Civilného sporového poriadku neuplatní nároky podľa § 32 ods. 1. Ustanovením predchádzajúcej vety nie sú dotknuté práva a povinnosti majiteľa patentu a nadobúdateľa licencie podľa Obchodného zákonníka<sup>12</sup>) ani právo nadobúdateľa licencie vstúpiť do konania začatého majiteľom patentu ako intervenient.
+
+- (9)
+
+- Odseky 1 až 8 sa primerane použijú aj na licenčnú zmluvu, ktorou prihlasovateľ udeľuje oprávnenie na využívanie vynálezu, ktorý je predmetom prihlášky (ďalej len „licencia na prihlášku“). Udelením patentu nie je zápis licencie na prihlášku dotknutý a považuje sa za zápis licencie podľa odseku 2, ak v licenčnej zmluve nie je dohodnuté inak. Úpravou alebo rozdelením prihlášky (§ 45) nie je zápis licencie na prihlášku dotknutý; ak ide o rozdelenie prihlášky (§ 45 ods. 2), úrad zapíše licenciu aj na vylúčené prihlášky.
 
 - (10)
 
@@ -655,6 +663,30 @@ Zákon č. 435/2001 Z. z. o patentoch, dodatkových ochranných osvedčeniach a 
 - (5)
 
 - Spolu so žiadosťou o určenie je žiadateľ povinný zaplatiť správny poplatok (§ 79 ods. 13).
+
+- § 50
+
+- Zápis licencie, záložného práva, prevodu patentu, prechodu patentu, exekúcie alebo súdneho sporu do registra
+
+- (1)
+
+- Ak žiadosť o zápis licencie, záložného práva, prevodu patentu, prechodu patentu alebo súdneho sporu do registra neobsahuje náležitosti ustanovené všeobecne záväzným právnym predpisom vydaným podľa § 80, úrad vyzve žiadateľa, aby zistené nedostatky v určenej lehote odstránil. Ak žiadateľ zistené nedostatky v určenej lehote neodstráni, úrad konanie o žiadosti zastaví. Úrad o tomto následku žiadateľa vo výzve upovedomí.
+
+- (2)
+
+- Na nútenú licenciu, ktorú úrad zapíše do registra z úradnej moci po doručení právoplatného rozhodnutia súdu o jej udelení, sa nevzťahuje odsek 1.
+
+- (3)
+
+- Na základe exekučného príkazu<sup>15c</sup>) doloženého upovedomením o začatí exekúcie a súpisom práv, ktorého súčasťou je aj konkrétna prihláška alebo konkrétny patent, úrad zapíše do registra skutočnosť, že táto prihláška alebo patent je postihnutá exekúciou s účinnosťou dňom doručenia exekučného príkazu na úrad. Udelením patentu nie je zápis exekúcie postihnutím práv z prihlášky dotknutý a považuje sa za zápis exekúcie postihnutím práv z patentu, ak z exekučného príkazu nevyplýva inak. Úpravou alebo rozdelením prihlášky (§ 45) nie je zápis exekúcie práv z prihlášky dotknutý; ak ide o rozdelenie prihlášky (§ 45 ods. 2), úrad zapíše do registra aj exekúciu postihnutím práv z vylúčených prihlášok.
+
+- (4)
+
+- Ak prebieha na súde konanie o spore, ktorého predmetom je právo chránené týmto zákonom, úrad na žiadosť niektorej zo strán súdneho sporu zapíše do registra skutočnosť, že prebieha súdny spor, ako aj predmet konania s účinnosťou zápisu dňom doručenia žiadosti na úrad. K žiadosti o zápis súdneho sporu žiadateľ priloží rovnopis žaloby potvrdený súdom. Udelením patentu nie je zápis súdneho sporu vo vzťahu k prihláške dotknutý a považuje sa za zápis súdneho sporu vo vzťahu k patentu. Úpravou alebo rozdelením prihlášky (§ 45) nie je zápis súdneho sporu vo vzťahu k prihláške dotknutý; ak ide o rozdelenie prihlášky (§ 45 ods. 2), úrad zapíše do registra súdny spor aj vo vzťahu k vylúčeným prihláškam.
+
+- (5)
+
+- Spolu s podaním žiadosti podľa odsekov 1 a 4 je žiadateľ povinný zaplatiť správny poplatok (§ 79 ods. 13).
 
 - § 51
 

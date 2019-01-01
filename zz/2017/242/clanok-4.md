@@ -206,6 +206,10 @@ Zákon č. 506/2009 Z. z. o ochranných známkach v znení zákona č. 125/2016 
 
 - Ak nie je dohodnuté inak, pri neoprávnenom zásahu do výlučných práv podľa § 8 môže nadobúdateľ nevýlučnej licencie vo svojom mene a na vlastný účet uplatniť nároky podľa § 8a žalobou podľa Civilného sporového poriadku alebo návrhom podľa osobitného predpisu<sup>10a</sup>) len so súhlasom majiteľa ochrannej známky; nadobúdateľ výlučnej licencie tak môže urobiť, ak majiteľ ochrannej známky po písomnom oznámení sám v primeranej lehote žalobou podľa Civilného sporového poriadku neuplatní nároky podľa § 8a ods. 1. Ustanovením predchádzajúcej vety nie sú dotknuté práva a povinnosti majiteľa ochrannej známky a nadobúdateľa licencie podľa Obchodného zákonníka<sup>15a</sup>) ani právo nadobúdateľa licencie vstúpiť do konania začatého majiteľom ochrannej známky ako intervenient.
 
+- (9)
+
+- Odseky 1 až 8 sa primerane použijú aj na licenčnú zmluvu, ktorou prihlasovateľ udeľuje oprávnenie na používanie označenia, ktoré je predmetom prihlášky (ďalej len „licencia na prihlášku“). Zápisom ochrannej známky nie je zápis licencie na prihlášku dotknutý a považuje sa za zápis licencie podľa odseku 2, ak v licenčnej zmluve nie je dohodnuté inak. Úpravou označenia, zúžením zoznamu tovarov alebo služieb alebo rozdelením prihlášky (§ 27) nie je zápis licencie na prihlášku dotknutý; ak ide o rozdelenie prihlášky (§ 27 ods. 3), úrad zapíše licenciu aj na vylúčenú prihlášku.
+
 - (10)
 
 - Majiteľ ochrannej známky sa môže domáhať svojich práv z ochrannej známky voči nadobúdateľovi licencie, iba ak nadobúdateľ licencie poruší ustanovenia licenčnej zmluvy o jej trvaní, o podobe, v ktorej sa môže ochranná známka používať, o rozsahu tovarov alebo služieb, pre ktoré bola licencia poskytnutá, o území, na ktorom môže byť ochranná známka používaná, alebo o kvalite tovarov alebo kvalite služieb vyrobených alebo poskytnutých nadobúdateľom licencie.
@@ -229,6 +233,10 @@ Zákon č. 506/2009 Z. z. o ochranných známkach v znení zákona č. 125/2016 
 - (3)
 
 - Úrad na žiadosť záložného veriteľa alebo záložcu vykoná zápis záložného práva do registra.
+
+- (4)
+
+- Odseky 1 až 3 sa primerane použijú aj na záložné právo k prihláške a na záložné právo k ochrannej známke, ktorá by bola zapísaná v budúcnosti<sup>15c</sup>) (ďalej len „záložné právo k prihláške“). Zápisom ochrannej známky nie je zápis záložného práva k prihláške dotknutý a považuje sa za zápis záložného práva k ochrannej známke, ak v zmluve o zriadení záložného práva nie je dohodnuté inak alebo ak z rozhodnutia, ktorým bolo záložné právo zriadené, nevyplýva inak. Úpravou označenia, zúžením zoznamu tovarov alebo služieb alebo rozdelením prihlášky (§ 27) nie je zápis záložného práva k prihláške dotknutý; ak ide o rozdelenie prihlášky (§ 27 ods. 3), úrad zapíše záložné právo aj na vylúčenú prihlášku.
 
 - (5)
 
@@ -271,6 +279,20 @@ Zákon č. 506/2009 Z. z. o ochranných známkach v znení zákona č. 125/2016 
 - „(5)
 
 - Podanie rozkladu len proti odôvodneniu rozhodnutia nie je prípustné.“.
+
+- 24. Za § 41 sa vkladá § 41a, ktorý vrátane nadpisu znie:
+
+- „§ 41a
+
+- Zápis exekúcie do registra
+
+- Na základe exekučného príkazu<sup>19a</sup>) doloženého upovedomením o začatí exekúcie a súpisom práv, ktorého súčasťou je aj konkrétna prihláška alebo konkrétna ochranná známka, úrad zapíše do registra skutočnosť, že táto prihláška alebo ochranná známka je postihnutá exekúciou podľa osobitných predpisov s účinnosťou dňom doručenia exekučného príkazu na úrad. Zápisom ochrannej známky do registra nie je zápis exekúcie postihnutím práv z prihlášky dotknutý a považuje sa za zápis exekúcie postihnutím práv z ochrannej známky. Úpravou označenia, zúžením zoznamu tovarov alebo služieb alebo rozdelením prihlášky (§ 27) nie je zápis exekúcie postihnutím práv z prihlášky dotknutý; ak ide o rozdelenie prihlášky
+
+- (§ 27 ods. 3), úrad zapíše exekúciu postihnutím práv z vylúčených prihlášok.“.
+
+  - Poznámka pod čiarou k odkazu 19a znie:
+
+  - „<sup>19a</sup>) § 52 a 113a Exekučného poriadku.“.
 
 - 25. Nadpis piatej časti znie: „MEDZINÁRODNÁ OCHRANNÁ ZNÁMKA A OCHRANNÁ ZNÁMKA EURÓPSKEJ ÚNIE“.
 

@@ -194,6 +194,10 @@ Zákon č. 444/2002 Z. z. o dizajnoch v znení zákona č. 344/2004 Z. z., záko
 
 - Úrad na žiadosť záložného veriteľa alebo na žiadosť záložcu vykoná zápis záložného práva do registra.
 
+- (4)
+
+- Odseky 1 až 3 sa primerane použijú aj na záložné právo k prihláške a na záložné právo k dizajnu, ktorý bude zapísaný v budúcnosti<sup>3a</sup>) (ďalej len „záložné právo k prihláške“). Zápisom dizajnu nie je zápis záložného práva k prihláške dotknutý a považuje sa za zápis záložného práva k zapísanému dizajnu, ak v zmluve o zriadení záložného práva nie je dohodnuté inak alebo ak z rozhodnutia, ktorým bolo záložné právo zriadené, nevyplýva inak. Rozdelením hromadnej prihlášky (§ 34 ods. 4) nie je zápis záložného práva k pôvodnej prihláške dotknutý a úrad zapíše záložné právo aj k vylúčenej prihláške.
+
 - (5)
 
 - Na vznik, zánik a výkon záložného práva sa použijú ustanovenia Občianskeho zákonníka,<sup>4</sup>) ak v odsekoch 1 až 4 nie je ustanovené inak.
@@ -233,6 +237,10 @@ Zákon č. 444/2002 Z. z. o dizajnoch v znení zákona č. 344/2004 Z. z., záko
 - (8)
 
 - Ak nie je dohodnuté inak, pri neoprávnenom zásahu do výlučných práv podľa § 17 môže nadobúdateľ nevýlučnej licencie vo svojom mene a na vlastný účet uplatniť nároky podľa § 27 žalobou podľa Civilného sporového poriadku alebo návrhom podľa osobitného predpisu<sup>2a</sup>) len so súhlasom majiteľa zapísaného dizajnu; nadobúdateľ výlučnej licencie tak môže urobiť, ak majiteľ zapísaného dizajnu po písomnom oznámení sám v primeranej lehote žalobou podľa Civilného sporového poriadku neuplatní nároky podľa § 27 ods. 1. Ustanovením predchádzajúcej vety nie sú dotknuté práva a povinnosti majiteľa zapísaného dizajnu a nadobúdateľa licencie podľa Obchodného zákonníka<sup>4a</sup>) ani právo nadobúdateľa licencie vstúpiť do konania začatého majiteľom zapísaného dizajnu ako intervenient.
+
+- (9)
+
+- Odseky 1 až 8 sa primerane použijú aj na licenčnú zmluvu, ktorou prihlasovateľ udeľuje oprávnenie na využívanie dizajnu, ktorý je predmetom prihlášky (ďalej len „licencia na prihlášku“). Zápisom dizajnu nie je zápis licencie na prihlášku dotknutý, ak v licenčnej zmluve nie je dohodnuté inak. Rozdelením hromadnej prihlášky (§ 34 ods. 4) nie je zápis licencie na pôvodnú prihlášku dotknutý a úrad zapíše licenciu aj na vylúčenú prihlášku.
 
 - (10)
 
@@ -553,6 +561,28 @@ Zákon č. 444/2002 Z. z. o dizajnoch v znení zákona č. 344/2004 Z. z., záko
 - Na prepis práv z prihlášky sa primerane použijú odseky 1 až 3. Ak nedôjde k prepisu práv z prihlášky podľa odseku 3, úrad prihlášku zamietne.“.
 
 - 38. § 41 sa vypúšťa.
+
+- 39. § 42 vrátane nadpisu znie:
+
+- „§ 42
+
+- Zápis licencie, záložného práva, prevodu zapísaného dizajnu, prechodu zapísaného dizajnu, exekúcie alebo súdneho sporu do registra
+
+- (1)
+
+- Ak žiadosť o zápis licencie, záložného práva, prevodu zapísaného dizajnu, prechodu zapísaného dizajnu alebo súdneho sporu do registra neobsahuje náležitosti ustanovené všeobecne záväzným právnym predpisom vydaným podľa § 50, úrad vyzve žiadateľa, aby zistené nedostatky v určenej lehote odstránil. Ak žiadateľ zistené nedostatky v určenej lehote neodstráni, úrad konanie o žiadosti zastaví. Úrad o tomto následku žiadateľa vo výzve upovedomí.
+
+- (2)
+
+- Na základe exekučného príkazu<sup>12a</sup>) doloženého upovedomením o začatí exekúcie a súpisom práv, ktorého súčasťou je aj konkrétna prihláška alebo konkrétny zapísaný dizajn, úrad zapíše do registra skutočnosť, že táto prihláška alebo zapísaný dizajn je postihnutá exekúciou s účinnosťou dňom doručenia exekučného príkazu na úrad. Zapísaním dizajnu nie je zápis exekúcie postihnutím práv z prihlášky dotknutý a považuje sa za zápis exekúcie postihnutím práv zo zapísaného dizajnu, ak z exekučného príkazu nevyplýva inak. Rozdelením hromadnej prihlášky (§ 34 ods. 4) nie je zápis exekúcie práv z prihlášky dotknutý a úrad zapíše do registra aj exekúciu postihnutím práv z vylúčenej prihlášky.
+
+- (3)
+
+- Ak prebieha na súde konanie o spore, ktorého predmetom je právo chránené týmto zákonom, úrad na žiadosť niektorej zo strán súdneho sporu zapíše do registra skutočnosť, že prebieha súdny spor, ako aj predmet konania s účinnosťou zápisu dňom doručenia žiadosti na úrad. K žiadosti o zápis súdneho sporu žiadateľ priloží rovnopis žaloby potvrdený súdom. Zapísaním dizajnu nie je zápis súdneho sporu vo vzťahu k prihláške dotknutý a považuje sa za zápis súdneho sporu vo vzťahu k zapísanému dizajnu. Rozdelením hromadnej prihlášky (§ 34 ods. 4) nie je zápis súdneho sporu vo vzťahu k prihláške dotknutý a úrad zapíše do registra súdny spor aj vo vzťahu k vylúčenej prihláške.“.
+
+  - Poznámka pod čiarou k odkazu 12a znie:
+
+  - „<sup>12a</sup>) § 52 a 113a Exekučného poriadku.“.
 
 - 40. § 43 a 44 vrátane nadpisov znejú:
 
