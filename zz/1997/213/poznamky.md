@@ -4,13 +4,13 @@
 
 - 2) Napríklad zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov, zákon č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2a) Zákon č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
+
 - 3) Zákon Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
 - 3a) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
-- 3aa) § 6a ods. 1 písm. c) zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
-
-- 3ab) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+- 3aaa) § 3 zákona č. 346/2018 Z. z.
 
 - 4) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
 
@@ -21,6 +21,8 @@
 - 7) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
 
 - 8) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
+- 8a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 9) Zákon č. 563/1991 Zb. o účtovníctve v znení zákona Národnej rady Slovenskej republiky č. 272/1996 Z. z.
 
@@ -35,5 +37,7 @@
 - 12b) § 2 ods. 4 písm. f) zákona č. 431/2002 Z. z.
 
 - 12c) § 19 ods. 4 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- 12d) § 7 zákona č. 346/2018 Z. z.
 
 - 13) § 100b a 100c zákona č. 578/2004 Z. z. v znení zákona č. 8/2010 Z. z.
