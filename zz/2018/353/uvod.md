@@ -1,0 +1,9 @@
+## 353
+
+ZÁKON
+
+zo 4. decembra 2018,
+
+## ktorým sa mení a dopĺňa zákon č. 569/2007 Z. z. o geologických prácach (geologický zákon) v znení neskorších predpisov
+
+Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
