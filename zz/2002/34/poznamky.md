@@ -1,8 +1,10 @@
-- 1) § 6a ods. 1 písm. c) zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
+- 1) Zákon č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
 - 1a) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
-- 1aa) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+- 1aa) § 3 zákona č. 346/2018 Z. z.
+
+- 1aaa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
@@ -33,3 +35,5 @@
 - Zákon Národnej rady Slovenskej republiky č. 171/1993 Z. z. o Policajnom zbore v znení neskorších predpisov.
 
 - 9) Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
+
+- 10) § 7 zákona č. 346/2018 Z. z.
