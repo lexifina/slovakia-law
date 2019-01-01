@@ -106,7 +106,7 @@
 
 - 36c) § 11 ods. 11 zákona č. 576/2004 Z. z.
 
-- 36d) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 36d) § 13 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 36e) Zákon č. 330/2007 Z. z.
 
