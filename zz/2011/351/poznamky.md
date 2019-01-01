@@ -72,6 +72,8 @@
 
 - 26) § 18 až 23 zákona č. 220/2007 Z. z. o digitálnom vysielaní programových služieb a poskytovaní iných obsahových služieb prostredníctvom digitálneho prenosu a o zmene a doplnení niektorých zákonov (zákon o digitálnom vysielaní).
 
+- 26a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 27) § 116 Občianskeho zákonníka.
 
 - 28) § 20 zákona č. 220/2007 Z. z.
