@@ -20,6 +20,8 @@
 
 - Vyhláška Ministerstva životného prostredia Slovenskej republiky č. 55/2004 Z. z., ktorou sa ustanovujú náležitosti prevádzkových poriadkov verejných vodovodov a verejných kanalizácií.
 
+- 12a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 13) Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
 
 - 14) Zákon č. 264/1999 Z. z. o technických požiadavkách na výrobky a o posudzovaní zhody a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
