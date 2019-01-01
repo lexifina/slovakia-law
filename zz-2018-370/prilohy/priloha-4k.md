@@ -1,0 +1,1 @@
+Príloha č. 4 k zákonu č. 370/2018 Z. z. [Výdavky štátneho rozpočtu na realizáciu programov vlády SR a častí programov vlády SR na rok 2019](../assets/16c5ab0840a13091766e8b667500a6f8d5dc319e13bd86de4136effbc90dbd9a.pdf)
