@@ -18,6 +18,8 @@
 
 - 10) § 2 ods. 1 písm. e) zákona č. 178/1998 Z. z. o podmienkach predaja výrobkov a poskytovania služieb na trhových miestach a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
+- 10a) Zákon č. 170/2018 Z. z. o zájazdoch, spojených službách cestovného ruchu, niektorých podmienkach podnikania v cestovnom ruchu a o zmene a doplnení niektorých zákonov.
+
 - 11) § 5 ods. 1 zákona č. 351/2011 Z. z. o elektronických komunikáciách v znení neskorších predpisov.
 
 - 12) § 3 ods. 2 zákona č. 171/2005 Z. z. o hazardných hrách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
