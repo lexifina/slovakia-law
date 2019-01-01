@@ -38,6 +38,8 @@
 
 - 19) § 24, 25 a 28 zákona č. 308/2000 Z. z. v znení zákona č. 220/2007 Z. z.
 
+- 19a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 20) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. v znení neskorších predpisov.
 
 - 21) § 42 ods. 1 až 3 a § 43 zákona č. 308/2000 Z. z.
