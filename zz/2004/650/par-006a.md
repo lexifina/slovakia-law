@@ -4,7 +4,7 @@ Zamestnanecká dôchodková spoločnosť je zahraničná spoločnosť, ktorá
 
 - a) vykonáva činnosť, ktorej účel zodpovedá účelu doplnkového dôchodkového sporenia podľa tohto zákona,
 
-- b) je zriadená oddelene od zamestnávateľa z členského štátu Európskej únie, Islandu, Lichtenštajnska a Nórska,
+- b) je zriadená oddelene od zamestnávateľa z členského štátu Európskej únie, Islandskej republiky, Lichtenštajnského kniežatstva a Nórskeho kráľovstva,
 
 - c) je zriadená na účely zabezpečenia dôchodkových dávok v súvislosti s vykonávaním činnosti zamestnanca a
 

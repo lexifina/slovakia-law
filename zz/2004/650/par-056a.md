@@ -2,7 +2,7 @@
 
 (1) Depozitár vykonáva činnosť na základe písomnej zmluvy s doplnkovou dôchodkovou spoločnosťou o výkone činnosti depozitára (ďalej len „depozitárska zmluva“).
 
-(2) V depozitárskej zmluve musia byť dohodnuté činnosti depozitára, a to najmenej v rozsahu podľa § 56c ods. 2 a výška odplaty za výkon činnosti depozitára.
+(2) V depozitárskej zmluve musia byť dohodnuté činnosti depozitára, a to najmenej v rozsahu podľa § 56c ods. 2, prostriedky a postupy, prostredníctvom ktorých má depozitár právo získavať všetky dôležité informácie, ktoré potrebuje na vykonávanie svojich povinností, a výška odplaty za výkon činnosti depozitára.
 
 (3) Depozitárska zmluva sa uzatvára na neurčitý čas. Depozitársku zmluvu môžu zmluvné strany vypovedať. Výpovedná lehota je tri mesiace, ak sa v depozitárskej zmluve nedohodla kratšia výpovedná lehota. Výpovedná lehota začína plynúť od prvého dňa kalendárneho mesiaca, ktorý nasleduje po kalendárnom mesiaci, v ktorom bola výpoveď doručená druhej zmluvnej strane.
 

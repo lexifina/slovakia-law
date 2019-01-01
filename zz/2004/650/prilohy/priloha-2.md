@@ -8,12 +8,12 @@ Príloha č. 2 k zákonu č. 650/2004 Z. z. v znení zákona č. 318/2013 Z. z.
 
   - 3. Smernica Rady 2001/23/ES z 12. marca 2001 o aproximácii zákonov členských štátov týkajúcich sa zachovania práv zamestnancov pri prevodoch podnikov, závodov alebo častí podnikov alebo závodov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. ES L 82, 22. 3. 2001).
 
-  - 4. Smernica Európskeho parlamentu a Rady 2003/41/ES z 3. júna 2003 o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 4; Ú. v. EÚ L 235, 23. 9. 2003) v znení smernice Európskeho parlamentu a Rady 2010/78/EÚ z 24. novembra 2010 (Ú. v. EÚ L 331, 15. 12. 2010) a smernice Európskeho parlamentu a Rady 2011/61/EÚ z 8. júna 2011 (Ú. v. EÚ L 174, 1. 7. 2011).
+  - 4. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnania a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
 
-  - 5. Smernica Európskeho parlamentu a Rady 2006/54/ES z 5. júla 2006 o vykonávaní zásady rovnosti príležitostí a rovnakého zaobchádzania s mužmi a ženami vo veciach zamestnania a povolania (prepracované znenie) (Ú. v. EÚ L 204, 26. 7. 2006).
+  - 5. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
 
-  - 6. Smernica Európskeho parlamentu a Rady 2008/94/ES z 22. októbra 2008 o ochrane zamestnancov pri platobnej neschopnosti ich zamestnávateľa (kodifikované znenie) (Ú. v. EÚ L 283, 28. 10. 2008).
-
-  - 7. Smernica Európskeho parlamentu a Rady 2013/14/EÚ z 21. mája 2013, ktorou sa mení a dopĺňa smernica 2003/41/ES o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia, smernica 2009/65/ES o koordinácii zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa podnikov kolektívneho investovania do prevoditeľných cenných papierov (PKIPCP) a smernica 2011/61/EÚ o správcoch alternatívnych investičných fondov v súvislosti s nadmerným spoliehaním sa na úverové ratingy (Ú. v. EÚ L 145, 31. 5. 2013).
+  - 6. Smernica Európskeho parlamentu a Rady 2013/14/EÚ z 21. mája 2013, ktorou sa mení a dopĺňa smernica 2003/41/ES o činnostiach a dohľade nad inštitúciami zamestnaneckého dôchodkového zabezpečenia, smernica 2009/65/ES o koordinácii zákonov, iných právnych predpisov a správnych opatrení týkajúcich sa podnikov kolektívneho investovania do prevoditeľných cenných papierov (PKIPCP) a smernica 2011/61/EÚ o správcoch alternatívnych investičných fondov v súvislosti s nadmerným spoliehaním sa na úverové ratingy (Ú. v. EÚ L 145, 31. 5. 2013).
 
   - 7. Smernica Európskeho parlamentu a Rady 2014/50/EÚ zo 16. apríla 2014 o minimálnych požiadavkách na posilnenie mobility pracovníkov medzi členskými štátmi zlepšením nadobúdania a zachovávania doplnkových dôchodkových práv (Ú. v. EÚ L 128, 30. 4. 2014).
+
+  - 8. Smernica Európskeho parlamentu a Rady (EÚ) 2016/2341 zo 14. decembra 2016 o činnostiach inštitúcií zamestnaneckého dôchodkového zabezpečenia (IZDZ) a o dohľade nad nimi (prepracované znenie) (Ú. v. EÚ L 354, 23. 12. 2016).

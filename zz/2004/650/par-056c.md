@@ -1,6 +1,6 @@
 # § 56c
 
-(1) Pri výkone svojej činnosti koná depozitár samostatne, s odbornou starostlivosťou, v súlade s depozitárskou zmluvou a výlučne v záujme účastníkov a poberateľov dávok.
+(1) Pri výkone svojej činnosti koná depozitár samostatne, čestne, s odbornou starostlivosťou, v súlade s depozitárskou zmluvou a výlučne v záujme účastníkov a poberateľov dávok.
 
 (2) Depozitár je pri výkone svojej činnosti povinný najmä
 
@@ -29,3 +29,5 @@
 (8) Depozitár nesmie údaje a doklady získané pri výkone činnosti depozitára poskytnúť tretej osobe, ak tento zákon neustanovuje inak, ani využiť na iné účely, než je výkon činnosti depozitára.
 
 (9) Člen predstavenstva, člen dozornej rady, prokurista alebo zamestnanec depozitára je povinný zachovávať mlčanlivosť o skutočnostiach, o ktorých sa dozvedel pri výkone činnosti depozitára, a to aj po skončení výkonu tejto činnosti, ak tento zákon alebo osobitný predpis neustanovuje inak.
+
+(10) Ak depozitár funkčne a hierarchicky neoddelil výkon činnosti depozitára od svojich ostatných činností, ktoré môžu vytvárať konflikt záujmov, ak možné konflikty záujmov nie sú riadne identifikované, riadené, monitorované a oznámené účastníkom, poberateľom dávok a predstavenstvu doplnkovej dôchodkovej spoločnosti alebo dozornej rade doplnkovej dôchodkovej spoločnosti, nemôže vykonávať činnosti týkajúce sa doplnkového dôchodkového fondu alebo doplnkovej dôchodkovej spoločnosti, ktoré môžu vytvárať konflikty záujmov medzi ním a doplnkovou dôchodkovou spoločnosťou, doplnkovými dôchodkovými fondmi, účastníkmi alebo poberateľmi dávok.

@@ -26,9 +26,9 @@
 
 - 5a) § 67 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 6) § 70 a 263 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
+- 5b) § 65a ods. 1 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
-- 7) Zákon č. 8/2008 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7) Zákon č. 39/2015 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 8) § 788 a nasl. Občianskeho zákonníka.
 
@@ -44,9 +44,13 @@
 
 - 15) § 8 písm. e) zákona č. 566/2001 Z. z.
 
-- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 15a) § 5 ods. 3 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
 
-- 17) § 48 ods. 10 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov.
+- 15b) § 21 zákona č. 186/2009 Z. z. v znení neskorších predpisov.
+
+- 15c) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 16) Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 18) § 50 ods. 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -54,27 +58,25 @@
 
 - § 60 ods. 3 zákona č. 429/2002 Z. z. o burze cenných papierov v znení zákona č. 747/2004 Z. z.
 
-- § 67 ods. 6 zákona č. 8/2008 Z. z.
+- § 139 ods. 7 zákona č. 39/2015 Z. z.
 
-- 19) § 48 ods. 12 zákona č. 43/2004 Z. z. v znení zákona č. 186/2004 Z. z.
+- 18a) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení neskorších predpisov.
 
-- 20) § 48 ods. 14 zákona č. 43/2004 Z. z. v znení zákona č. 186/2004 Z. z.
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- 20) § 48 ods. 14 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 20a) § 7 ods. 14 a 15 zákona č. 483/2001 Z. z. v znení neskorších predpisov.
 
 - 21) § 27 ods. 1 až 5 zákona č. 747/2004 Z. z.
 
-- 22) § 66b Obchodného zákonníka.
+- 22) § 28 ods. 12 zákona č. 483/2001 Z. z. v znení zákona č. 279/2017 Z. z.
 
 - 23) Zákon č. 136/2001 Z. z. o ochrane hospodárskej súťaže a o zmene a doplnení zákona Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení neskorších predpisov v znení neskorších predpisov.
 
 - 24a) § 4 ods. 5 a § 7 ods. 3 zákona č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
-
-- 24aa) § 5 ods. 3 zákona č. 186/2009 Z. z. o finančnom sprostredkovaní a finančnom poradenstve a o zmene a doplnení niektorých zákonov.
-
-- 24ab) § 21 ods. 3 písm. a) zákona č. 186/2009 Z. z.
-
-- 24ac) § 22 zákona č. 186/2009 Z. z.
 
 - 24b) § 3 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
@@ -86,6 +88,8 @@
 
 - 24f) § 23 a 55 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
+- 24g) § 3 ods. 1 zákona č. 429/2002 Z. z. v znení neskorších predpisov.
+
 - 25) § 17 až 22 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 561/2004 Z. z.
 
 - 27) § 116 Občianskeho zákonníka.
@@ -93,6 +97,8 @@
 - 27a) § 8 písm. h) zákona č. 566/2001 Z. z.
 
 - 29) Napríklad § 133 zákona č. 566/2001 Z. z., § 25 zákona č. 483/2001 Z. z. v znení zákona č. 603/2003 Z. z.
+
+- 29a) Napríklad zákon č. 566/2001 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov, zákon č. 39/2015 Z. z. v znení neskorších predpisov.
 
 - 30) § 131a zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -104,9 +110,11 @@
 
 - 33a) § 5 zákona č. 566/2001 Z. z.
 
+- 33aa) Čl. 31 písm. c) nariadenia Európskeho parlamentu a Rady (EÚ) č. 1094/2010 z 24. novembra 2010, ktorým sa zriaďuje Európsky orgán dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov), a ktorým sa mení a dopĺňa rozhodnutie č. 716/2009/ES a zrušuje rozhodnutie Komisie 2009/79/ES (Ú. v. EÚ L 331, 15. 12. 2010) v platnom znení.
+
 - 33b) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
-- 34) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov
+- 34) Zákon č. 203/2011 Z. z. v znení neskorších predpisov
 
 - 35) Zákon č. 43/2004 Z. z. v znení neskorších predpisov.
 
@@ -152,6 +160,10 @@
 
 - 41h) § 23 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
 
+- 41i) § 15 písm. a) zákona č. 297/2008 Z. z.
+
+- 41j) Čl. 8 nariadenia (EÚ) č. 1094/2010 v platnom znení.
+
 - 41k) Zákon č. 186/2009 Z. z. v znení neskorších predpisov.
 
 - 42) § 6 zákona č. 186/2009 Z. z. v znení zákona č. 129/2010 Z. z.
@@ -163,6 +175,8 @@
 - 45) Zákon č. 244/2002 Z. z. o rozhodcovskom konaní.
 
 - 45a) Napríklad zákon č. 367/2000 Z. z. v znení neskorších predpisov, zákon č. 659/2007 Z. z. o zavedení meny euro v Slovenskej republike a o zmene a doplnení niektorých zákonov.
+
+- 45aa) Čl. 19 nariadenia (EÚ) č. 1094/2010 v platnom znení.
 
 - 45b) § 19 ods. 4 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 

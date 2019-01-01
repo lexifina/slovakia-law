@@ -1,0 +1,7 @@
+# § 64b Prevod sumy zodpovedajúcej aktuálnej hodnote osobného účtu účastníka do zamestnaneckej dôchodkovej spoločnosti
+
+(1) Ak odchádzajúci zamestnanec, ktorému nie je vyplácaná dávka z výplatného doplnkového dôchodkového fondu, písomne požiada o prevod sumy zodpovedajúcej aktuálnej hodnote jeho osobného účtu do zamestnaneckej dôchodkovej spoločnosti uvedenej v zozname registrovaných zamestnaneckých dôchodkových spoločností zverejnenom na webovom sídle Európskeho orgánu dohľadu (Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov) podľa osobitného predpisu,<sup>41j</sup>) doplnková dôchodková spoločnosť je povinná previesť sumu zodpovedajúcu aktuálnej hodnote osobného účtu účastníka zníženú o náklady a poplatky podľa odseku 3 na účet zamestnaneckej dôchodkovej spoločnosti do 30 dní odo dňa, kedy boli doplnkovej dôchodkovej spoločnosti dostatočne preukázané všetky náležitosti tohto prevodu.
+
+(2) V deň prevodu sumy zodpovedajúcej aktuálnej hodnote osobného účtu účastníka z doplnkovej dôchodkovej spoločnosti do zamestnaneckej dôchodkovej spoločnosti odpíše doplnková dôchodková spoločnosť z osobného účtu účastníka všetky doplnkové dôchodkové jednotky doplnkového dôchodkového fondu a zruší osobný účet účastníka.
+
+(3) Náklady a poplatky spojené s prevodom sumy zodpovedajúcej aktuálnej hodnote osobného účtu účastníka z doplnkovej dôchodkovej spoločnosti do zamestnaneckej dôchodkovej spoločnosti znáša účastník.

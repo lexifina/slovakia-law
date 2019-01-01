@@ -24,6 +24,8 @@
 
 - e) poskytovanie pravidelných správ predstavenstvu, prokuristovi a vedúcemu zamestnancovi v priamej riadiacej pôsobnosti predstavenstva o aktuálnej úrovni rizika, ktoré podstupuje každý spravovaný doplnkový dôchodkový fond, a o každom skutočnom alebo predvídateľnom porušení limitov obmedzenia a rozloženia rizika s cieľom zabezpečiť prijatie včasných a primeraných opatrení,
 
-- f) preskúmanie a podpora opatrení a postupov na oceňovanie finančných derivátov uzatvorených mimo regulovaného trhu podľa § 55e.
+- f) preskúmanie a podpora opatrení a postupov na oceňovanie finančných derivátov uzatvorených mimo regulovaného trhu<sup>24g</sup>) podľa § 55e,
+
+- g) preskúmanie a vymedzenie environmentálneho faktora, sociálneho faktora a faktora organizácie a riadenia, ak doplnková dôchodková spoločnosť takéto faktory pri investičných rozhodnutiach týkajúcich sa jej majetku alebo majetku v doplnkovom dôchodkovom fonde zohľadňuje.
 
 (5) Doplnková dôchodková spoločnosť je povinná zabezpečiť osobe alebo osobám vykonávajúcim funkciu riadenia rizík primerané právomoci a prístup k všetkým potrebným informáciám nevyhnutným na plnenie úloh podľa odseku 4.
