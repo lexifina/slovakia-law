@@ -12,6 +12,8 @@
 
 - 3) § 137 až 142 Občianskeho zákonníka.
 
+- 3a) § 151d ods. 4 Občianskeho zákonníka.
+
 - 4) § 151a až 151md a § 552 Občianskeho zákonníka.
 
 - 4a) Napríklad § 514 Obchodného zákonníka.
@@ -35,6 +37,8 @@
 - 10) Dohoda o založení Svetovej obchodnej organizácie (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 152/2000 Z. z.).
 
 - 12) Čl. 6 ter Parížskeho dohovoru na ochranu priemyslového vlastníctva z 20. marca 1883, revidovaného v Bruseli 14. decembra 1900, vo Washingtone 2. júna 1911, v Haagu 6. novembra 1925, v Londýne 2. júna 1934, v Lisabone 31. októbra 1958 a v Štokholme 14. júla 1967 (vyhláška ministra zahraničných vecí č. 64/1975 Zb. v znení vyhlášky č. 81/1985 Zb.).
+
+- 12a) § 52 a 113a Exekučného poriadku.
 
 - 12b) Zákon č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.
 
