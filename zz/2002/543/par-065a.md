@@ -6,15 +6,15 @@
 
 - a) obstaráva a zabezpečuje starostlivosť o osobitne chránené časti prírody a krajiny vrátane vykonávania ich revízií,
 
-- b) plní funkciu chovnej stanice a rehabilitačnej stanice a uhrádza výdavky spojené so starostlivosťou o choré, zranené alebo poškodené chránené živočíchy,
+- b) plní funkciu chovnej stanice a rehabilitačnej stanice a uhrádza výdavky spojené so starostlivosťou o hendikepované chránené živočíchy,
 
-- c) prijíma oznámenia o nájdených chránených živočíchoch podľa § 35 ods. 6, určuje nakladanie s nimi a vedie o nich evidenciu,
+- c) prijíma oznámenia o nájdených hendikepovaných, uhynutých alebo náhodne odchytených, zranených alebo usmrtených chránených živočíchoch podľa § 35 ods. 6, určuje nakladanie s nimi a vedie o nich evidenciu; podrobnosti o evidencii ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo,
 
 - d) vedie evidenciu chránených živočíchov a chránených rastlín, ktoré sú v držbe právnických osôb a fyzických osôb mimo prirodzeného výskytu v biotopoch,
 
 - e) určuje držiteľom chránených živočíchov a chránených rastlín evidenčné číslo,
 
-- f) vedie evidenciu o nájdených chorých, zranených, poškodených, uhynutých a náhodne odchytených, zranených a usmrtených celoročne chránených živočíchov,
+- f) prijíma nájdené chránené živočíchy podľa § 103 ods. 3 a určuje ďalšie nakladanie s nimi,
 
 - g) vedie evidenciu škôd spôsobených určenými živočíchmi,
 

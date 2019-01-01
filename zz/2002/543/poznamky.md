@@ -170,6 +170,8 @@
 
 - 72) § 181b Trestného zákona.
 
+- 72a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 73) Napríklad vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 231/1998 Z. z. o chove spoločenských zvierat, divých zvierat a nebezpečných živočíchov a o ochrane pokusných zvierat.
 
 - 74) § 21 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.
@@ -343,6 +345,10 @@
 - 115a) Napríklad § 20h Občianskeho zákonníka, § 6 ods. 2 písm. c) zákona č. 83/1990 Zb.
 
 - 115b) § 28 zákona č. 326/2005 Z. z. v znení zákona č. 360/2007 Z. z.
+
+- 115c) § 305 Trestného zákona.
+
+- 115d) Príloha A nariadenia (ES) č. 338/97 v platnom znení.
 
 - 116) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
