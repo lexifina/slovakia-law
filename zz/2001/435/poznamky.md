@@ -54,6 +54,8 @@
 
 - 15b) Dohoda o Vyšehradskom patentovom inštitúte (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 369/2015 Z. z.).
 
+- 15c) § 52 a 113aExekučného poriadku.
+
 - 20) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 21) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
