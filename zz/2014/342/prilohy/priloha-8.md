@@ -47,3 +47,5 @@ Príloha č. 8 k nariadeniu vlády č. 342/2014 Z. z.
   - – vykonávacieho nariadenia Komisie (EÚ) 2017/1172 z 30. júna 2017 (Ú. v. EÚ L 170, 1. 7. 2017),
 
   - – vykonávacieho nariadenia Komisie (EÚ) 2017/1242 z 10. júla 2017 (Ú. v. EÚ L 178, 11. 7. 2017).
+
+  - 6. Vykonávacie nariadenie Komisie (EÚ) 2018/709 zo 14. mája 2018, ktorým sa mení vykonávacie nariadenie (EÚ) č. 809/2014, pokiaľ ide o požiadavky na návesky v súvislosti s žiadosťami o pomoc týkajúcimi sa plôch využívaných na pestovanie konopy (Ú. v. EÚ L 119, 15. 5. 2018).

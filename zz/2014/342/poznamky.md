@@ -70,7 +70,7 @@
 
 - 39) Hlava II, kapitola II vykonávacieho nariadenia (EÚ) č. 809/2014.
 
-- 39a) Čl. 17 vykonávacieho nariadenia (EÚ) č. 809/2014 v platnom znení.
+- 39a) Čl. 17 ods. 1 vykonávacieho nariadenia (EÚ) č. 809/2014 v platnom znení.
 
 - 40) Čl. 13 ods. 1 prvý pododsek delegovaného nariadenia (EÚ) č. 640/2014.
 
@@ -81,6 +81,8 @@
 - 43) Napríklad § 9 a 12 nariadenia vlády Slovenskej republiky č. 51/2007 Z. z., ktorým sa ustanovujú požiadavky na uvádzanie osiva olejnín a priadnych rastlín na trh v znení v znení nariadenia vlády Slovenskej republiky č. 175/2011 Z. z.
 
 - 44) Čl. 17 ods. 7 vykonávacieho nariadenia (EÚ) č. 809/2014.
+
+- 44a) Zákon č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov.
 
 - 45) Čl. 72 ods. 2 nariadenia (EÚ) č. 1306/2013 v platnom znení.
 
