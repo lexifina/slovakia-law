@@ -98,6 +98,8 @@
 
 - 38) § 300 až 310 Trestného zákona.
 
+- 39) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 40) § 19b zákona č. 50/1976 Zb. v znení neskorších predpisov.
 
 - 40a) Napríklad zákon č. 50/1976 Zb. v znení neskorších predpisov, zákon č. 223/2001 Z. z. v znení neskorších predpisov, zákon č. 543/2002 Z. z. v znení neskorších predpisov, zákon č. 245/2003 Z. z. v znení neskorších predpisov, zákon č. 364/2004 Z. z. v znení neskorších predpisov, zákon č. 137/2010 Z. z. o ovzduší.
