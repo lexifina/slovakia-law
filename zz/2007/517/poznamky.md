@@ -16,6 +16,8 @@
 
 - 8) § 137 až 142 Občianskeho zákonníka.
 
+- 8a) § 151d ods. 4 Občianskeho zákonníka.
+
 - 9) § 151a až 151md a § 552 Občianskeho zákonníka.
 
 - 9a) Napríklad § 514 Obchodného zákonníka.
@@ -43,6 +45,8 @@
 - 14a) Čl. 15 ods. 5 písm. c) prvá veta Zmluvy o patentovej spolupráci.
 
 - 14b) Dohoda o Vyšehradskom patentovom inštitúte (oznámenie Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky č. 369/2015 Z. z.).
+
+- 14c) § 52 a 113a Exekučného poriadku.
 
 - 15) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
 
