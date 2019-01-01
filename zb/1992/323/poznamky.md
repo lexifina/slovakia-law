@@ -20,6 +20,8 @@
 
 - 2c) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 2ca) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2d) Napríklad § 48 zákona č. 366/1999 Z. z. o daniach z príjmov v znení zákona č. 561/2001 Z. z.
 
 - 2da) Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
