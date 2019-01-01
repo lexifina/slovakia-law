@@ -92,6 +92,8 @@
 
 - 30a) Zákon č. 578/2004 Z. z. o poskytovateľoch zdravotnej starostlivosti, zdravotníckych pracovníkoch, stavovských organizáciách v zdravotníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 30aa) § 30 ods. 1 písm. j) zákona č. 355/2007 Z. z. v znení neskorších predpisov.
+
 - 30b) Zákon č. 317/2009 Z. z.
 
 - 30c) § 46 a 47 zákona č. 317/2009 Z. z.
@@ -126,7 +128,7 @@
 
 - 33e) Dohovor, ktorým sa definuje štatút európskych škôl (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 597/2004 Z. z.).
 
-- 34) § 103 zákona č. 400/2009 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
+- 34) § 149 zákona č. 55/2017 Z. z. o štátnej službe a o zmene a doplnení niektorých zákonov.
 
 - 35) Zákon č. 321/2002 Z. z. o ozbrojených silách Slovenskej republiky v znení neskorších predpisov.
 
