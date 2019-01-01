@@ -46,10 +46,6 @@
 
 - 19) § 6 ods. 3 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z.
 
-- 19a) § 2 písm. a) zákona č. 182/2011 Z. z. o štítkovaní energeticky významných výrobkov a o zmene a doplnení niektorých zákonov.
-
-- 19b) Napríklad delegované nariadenie Komisie (EÚ) č. 1059/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie umývačiek riadu pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1060/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie chladiacich spotrebičov pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010), delegované nariadenie Komisie (EÚ) č. 1061/2010 z 28. septembra 2010, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2010/30/EÚ, pokiaľ ide o označovanie práčok pre domácnosť energetickými štítkami (Ú. v. EÚ L 314, 30. 11. 2010).
-
 - 20) § 23 zákona Národnej rady Slovenskej republiky č. 152/1995 Z. z. o potravinách v znení neskorších predpisov.
 
 - 21) Zákon č. 362/2011 Z. z.
