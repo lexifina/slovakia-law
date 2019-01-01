@@ -4,8 +4,6 @@
 
 - 3) Napríklad § 829 Občianskeho zákonníka.
 
-- 4) § 476 až 488 Obchodného zákonníka.
-
 - 4a) § 66a Obchodného zákonníka.
 
 - 4b) § 2 zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -48,6 +46,12 @@
 
 - 6ac) § 116 Občianskeho zákonníka.
 
+- 6ad) § 3 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.
+
+- 6ae) § 5 ods. 2 zákona č. 112/2018 Z. z.
+
+- 6af) § 4 zákona č. 112/2018 Z. z.
+
 - 6b) Čl. 12 nariadenia Rady (EHS) č. 2913/92 z 12.10.1992, ktorým sa ustanovuje Colný kódex Spoločenstva (Ú. v. ES L 302,19.10. 1992).
 
 - § 16 až 18 zákona č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
@@ -75,6 +79,8 @@
 - 18) Zákon Národnej rady Slovenskej republiky č. 273/1994 Z. z. o zdravotnom poistení, financovaní zdravotného poistenia, o zriadení Všeobecnej zdravotnej poisťovne a o zriaďovaní rezortných, odvetvových, podnikových a občianskych zdravotných poisťovní v znení neskorších predpisov.
 
 - 19) § 43h zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov.
+
+- 19a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. o vlastníctve bytov a nebytových priestorov v znení neskorších predpisov.
 
 - 20) Zákon č. 203/2011 Z. z. o kolektívnom investovaní v znení neskorších predpisov.
 

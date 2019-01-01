@@ -2,11 +2,11 @@
 
 (1) Na účely tohto ustanovenia sa rozumie
 
-- a) zdaniteľnou osobou neusadenou na území Európskej únie zdaniteľná osoba, ktorá nemá sídlo ani prevádzkareň na území Európskej únie a nie je identifikovaná pre daň v tuzemsku ani v inom členskom štáte,
+- a) zdaniteľnou osobou neusadenou na území Európskej únie zdaniteľná osoba, ktorá nemá sídlo ani prevádzkareň na území Európskej únie,
 
 - b) členským štátom identifikácie členský štát, ktorý si zdaniteľná osoba neusadená na území Európskej únie zvolí pre oznámenie, že začala na území Európskej únie dodávať telekomunikačné služby, služby rozhlasového vysielania a televízneho vysielania alebo elektronické služby podľa tejto osobitnej úpravy.
 
-(2) Ak sa zdaniteľná osoba neusadená na území Európskej únie, ktorá dodáva služby podľa § 68 písm. a) až c) osobe, ktorá nie je zdaniteľnou osobou a má sídlo, bydlisko alebo sa obvykle zdržiava na území Európskej únie, rozhodne pre uplatňovanie osobitnej úpravy v tuzemsku ako členskom štáte identifikácie, oznámi Daňovému úradu Bratislava začatie tejto činnosti. Oznámenie o začatí činnosti musí obsahovať obchodné meno, adresu, elektronickú adresu vrátane webových sídiel, národné daňové číslo, ak jej bolo pridelené, a vyhlásenie, že nie je identifikovaná pre daň v rámci Európskej únie. Daňový úrad Bratislava oznámi tejto zdaniteľnej osobe, že jej povoľuje uplatňovanie osobitnej úpravy, a súčasne jej pridelí identifikačné číslo pre daň.
+(2) Ak sa zdaniteľná osoba neusadená na území Európskej únie, ktorá dodáva služby podľa § 68 písm. a) až c) osobe, ktorá nie je zdaniteľnou osobou a má sídlo, bydlisko alebo sa obvykle zdržiava na území Európskej únie, rozhodne pre uplatňovanie osobitnej úpravy v tuzemsku ako členskom štáte identifikácie, oznámi Daňovému úradu Bratislava začatie tejto činnosti. Oznámenie o začatí činnosti musí obsahovať obchodné meno, adresu, elektronickú adresu vrátane webových sídiel, národné daňové číslo, ak jej bolo pridelené, a vyhlásenie, že nemá sídlo ani prevádzkareň na území Európskej únie. Daňový úrad Bratislava oznámi tejto zdaniteľnej osobe, že jej povoľuje uplatňovanie osobitnej úpravy, a súčasne jej pridelí identifikačné číslo pre daň.
 
 (3) Ak zdaniteľná osoba nespĺňa podmienky na uplatňovanie osobitnej úpravy v tuzemsku, Daňový úrad Bratislava vydá rozhodnutie o tom, že jej nepovoľuje uplatňovanie osobitnej úpravy; proti tomuto rozhodnutiu môže zdaniteľná osoba podať odvolanie elektronickými prostriedkami. Na odvolanie sa primerane použije osobitný predpis.<sup>33</sup>)
 

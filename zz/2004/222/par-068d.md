@@ -14,7 +14,7 @@
 
 (5) Právo odpočítať daň z tovarov a služieb, ktorú voči platiteľovi podľa odseku 2 uplatnil iný platiteľ, vzniká dňom zaplatenia za tovar alebo službu platiteľom podľa odseku 2 dodávateľovi; ak platiteľ zaplatí za tovar alebo službu inej osobe ako dodávateľovi z dôvodu postúpenia pohľadávky, právo odpočítať daň vznikne dňom zaplatenia tejto inej osobe. Ak platiteľ podľa odseku 2 zaplatí len časť protihodnoty za tovar alebo službu, právo odpočítať daň vzniká pomerne podľa výšky sumy, ktorú zaplatil.
 
-(6) Ak platiteľ podľa odseku 2 uplatňuje odpočítanie dane pri investičnom majetku uvedenom v § 54 ods. 2 až po skončení kalendárneho roka, v ktorom začalo plynúť obdobie na úpravu odpočítanej dane podľa § 54 alebo § 54a, je povinný pri odpočítaní dane a prípadnom vysporiadaní pomerného odpočítania dane zohľadniť zmenu alebo zmeny účelu použitia investičného majetku a zmenu alebo zmeny rozsahu použitia investičného majetku, ak k týmto zmenám došlo v období od začiatku plynutia obdobia na úpravu odpočítanej dane do konca kalendárneho roka, v ktorom uplatňuje odpočítanie dane.
+(6) Ak platiteľ podľa odseku 2 uplatňuje odpočítanie dane pri investičnom majetku uvedenom v § 54 ods. 2 až po skončení kalendárneho roka, v ktorom začalo plynúť obdobie na úpravu odpočítanej dane podľa § 54, § 54a alebo § 54d, je povinný pri odpočítaní dane a prípadnom vysporiadaní pomerného odpočítania dane zohľadniť zmenu alebo zmeny účelu použitia investičného majetku a zmenu alebo zmeny rozsahu použitia investičného majetku, ak k týmto zmenám došlo v období od začiatku plynutia obdobia na úpravu odpočítanej dane do konca kalendárneho roka, v ktorom uplatňuje odpočítanie dane.
 
 (7) Odpočítanie dane podľa § 55 môže platiteľ podľa odseku 2 uplatniť pri tovaroch a službách, za ktoré zaplatil dodávateľovi. Ak platiteľ zaplatil len časť protihodnoty, odpočítanie dane môže uplatniť len pomerne podľa výšky sumy, ktorú zaplatil.
 
@@ -52,6 +52,6 @@
 
 (15) Pri určení výšky pokuty podľa odseku 14 prihliadne daňový úrad na závažnosť a dĺžku trvania protiprávneho stavu.
 
-(16) Finančné riaditeľstvo Slovenskej republiky zverejní na portáli Finančnej správy Slovenskej republiky zoznam platiteľov, ktorí písomne oznámili začatie uplatňovania osobitnej úpravy, platiteľov, ktorí písomne oznámili skončenie uplatňovania osobitnej úpravy, a platiteľov, ktorí uplatňovali osobitnú úpravu a ich registrácia pre daň bola zrušená.
+(16) Finančné riaditeľstvo zverejní na portáli Finančnej správy zoznam platiteľov, ktorí písomne oznámili začatie uplatňovania osobitnej úpravy, platiteľov, ktorí písomne oznámili skončenie uplatňovania osobitnej úpravy, a platiteľov, ktorí uplatňovali osobitnú úpravu a ich registrácia pre daň bola zrušená.
 
-(17) Oznámenie podľa odsekov 2, 10 a 12 sa podáva na tlačive, ktorého vzor zverejní Finančné riaditeľstvo Slovenskej republiky na portáli Finančnej správy Slovenskej republiky.
+(17) Oznámenie podľa odsekov 2, 10 a 12 sa podáva na tlačive, ktorého vzor zverejní finančné riaditeľstvo na portáli Finančnej správy.
