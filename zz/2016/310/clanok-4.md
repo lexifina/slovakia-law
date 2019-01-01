@@ -2,6 +2,8 @@
 
 Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení zákona č. 611/2005 Z. z., zákona č. 324/2007 Z. z., zákona č. 54/2009 Z. z., zákona č. 426/2013 Z. z., zákona č. 361/2014 Z. z., zákona č. 171/2015 Z. z., zákona č. 357/2015 Z. z. a zákona č. 91/2016 Z. z. sa mení a dopĺňa takto:
 
+- 1. V § 2 písm. a) sa na konci čiarka nahrádza bodkočiarkou a pripájajú sa tieto slová: „na účely ustanovenia § 17 ods. 2 sa za návratné zdroje financovania považujú aj dodávateľské úvery<sup>21a</sup>) prijaté obcou alebo vyšším územným celkom,“.
+
 - 2. V § 8 ods. 5 sa za slová „na území vyššieho územného celku“ vkladá čiarka a slová „alebo ktorí pôsobia, vykonávajú činnosť na území vyššieho územného celku, alebo poskytujú služby obyvateľom vyššieho územného celku“.
 
 - 3. V § 12 ods. 4 prvej vete sa na konci bodka nahrádza čiarkou a pripájajú sa tieto slová: „ktoré je ministerstvo financií oprávnené zverejňovať na svojom webovom sídle.“.
@@ -13,6 +15,8 @@ Zákon č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o 
 - Pri používaní prostriedkov poskytnutých zo štátnych finančných aktív sa ustanovenie odseku 2 neuplatňuje. Na vydávanie komunálnych obligácií sa vzťahuje osobitný predpis.<sup>21</sup>)“.
 
 - 5. V § 17 ods. 12 sa slová „ods. 24“ nahrádzajú slovami „ods. 25“.
+
+- 6. V § 18 ods. 2 prvá veta znie: „Ak obec alebo vyšší územný celok vykonáva podnikateľskú činnosť, príjmy a výdavky na túto činnosť sa rozpočtujú a sledujú sa na samostatnom účte.“.
 
 - 7. V § 19 ods. 1 sa slová „odseku 9“ nahrádzajú slovami „odseku 10“.
 
