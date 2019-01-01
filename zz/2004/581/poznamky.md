@@ -368,6 +368,8 @@
 
 - 57a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
 
+- 57aa) § 10 ods. 4 zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
+
 - 57b) § 3 ods. 3 zákona č. 315/2016 Z. z.
 
 - 58) § 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
@@ -507,6 +509,8 @@
 - 95a) Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 309/2007 Z. z.
 
 - 95b) Napríklad zákon Slovenskej národnej rady č. 51/1988 Zb. o banskej činnosti, výbušninách a o štátnej banskej správe v znení neskorších predpisov, zákon č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov, zákon č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení neskorších predpisov.
+
+- 95ba) Zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 95c) § 153 zákona č. 461/2003 Z. z. v znení neskorších predpisov.
 
