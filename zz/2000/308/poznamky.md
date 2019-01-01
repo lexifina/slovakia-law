@@ -114,6 +114,8 @@
 
 - 36) § 3 ods. 1 vyhlášky Ministerstva kultúry Slovenskej republiky č. 589/2007 Z. z., ktorou sa ustanovujú podrobnosti o jednotnom systéme označovania audiovizuálnych diel, zvukových záznamov umeleckých výkonov, multimediálnych diel, programov alebo iných zložiek programovej služby a spôsobe jeho uplatňovania.
 
+- 36a) § 10 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 37) § 4 zákona č. 220/2007 Z. z.
 
 - 38) § 23 zákona č. 431/2002 Z. z. o účtovníctve v znení zákona č. 547/2011 Z. z.
