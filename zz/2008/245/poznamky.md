@@ -96,6 +96,8 @@
 
 - 34) § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
+- 34a) § 16 ods. 2 písm. c) zákona č. 440/2015 Z. z. o športe a o zmene a doplnení niektorých zákonov.
+
 - 35) § 5 ods. 4 písm. a) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 - 36) § 5 ods. 4 písm. i) zákona č. 596/2003 Z. z. v znení neskorších predpisov.
