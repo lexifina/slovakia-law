@@ -1,3 +1,0 @@
-Príloha č. 3 k zákonu č. 17/2004 Z. z.
-
-- HLÁSENIE O MNOŽSTVÁCH ULOŽENÝCH ODPADOV A VYBRATÝCH A ODVEDENÝCH POPLATKOCH ZA ULOŽENIE ODPADOV ZA ... ŠTVRŤROK ... v eurách [Vzor 03](../assets/18d2b6e1d6309c56b2a4273e1b614b1099b2f68c596d7f3ceae28db0d2a39df4.pdf)
