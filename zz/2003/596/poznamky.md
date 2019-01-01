@@ -142,6 +142,8 @@
 
 - 47d) § 154 ods. 7 písm. b) zákona č. 245/2008 Z. z.
 
+- 47e) § 104 ods. 1 zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
 - 48) § 8 zákona č. 597/2003 Z. z.
 
 - 49) Napríklad zákon č. 312/2001 Z. z. v znení neskorších predpisov, zákon č. 552/2003 Z. z.

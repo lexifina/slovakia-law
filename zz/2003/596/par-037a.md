@@ -2,11 +2,7 @@
 
 (1) Obec uloží pokutu do 331,50 eura zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý ohrozil jeho výchovu a vzdelávanie alebo zanedbal starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlásil na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechalo viac ako 60 vyučovacích hodín v príslušnom školskom roku.
 
-(2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý
-
-- a) nevytvoril podmienky na výkon školskej inšpekcie,
-
-- b) neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
+(2) Školský inšpektor uloží pokutu do 331,50 eura zodpovednému zamestnancovi, ktorý neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
 
 (3) Hlavný školský inšpektor uloží pokutu do 663,50 eura zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
 
@@ -43,6 +39,8 @@
   - 1. nespracuje alebo spracuje nesprávne, nepravdivé alebo neúplné údaje podľa § 23a ods. 3 písm. d), g) až k) a ods. 4 písm. c) alebo
 
   - 2. nesplní povinnosť oznámiť údaje podľa § 23a ods. 10,
+
+- e) od 1 000 eur do 10 000 eur zriaďovateľovi, ktorý neodvolá riaditeľa v lehote podľa § 3 ods. 17.
 
 (6) Ministerstvo uloží pokutu do 3 000 eur škole alebo školskému zariadeniu, ak
 
