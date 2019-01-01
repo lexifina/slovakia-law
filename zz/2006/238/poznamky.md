@@ -34,6 +34,8 @@
 
 - 13a) § 3 ods. 9 zákona č. 541/2004 Z. z. v znení neskorších predpisov.
 
+- 13aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 13b) § 5 ods. 3 a § 8 ods. 3 zákona č. 541/2004 Z. z. v znení zákona č. 21/2007 Z. z.
 
 - 13c) Článok 7 ods. 4 Ústavy Slovenskej republiky v znení ústavného zákona č. 90/2001 Z. z.
