@@ -12,9 +12,13 @@
 
 - 3a) Napríklad § 253 ods. 2 Civilného sporového poriadku, § 165 Správneho súdneho poriadku.
 
+- 3aa) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 3b) § 4 ods. 1 zákona č. 136/2010 Z. z. o službách na vnútornom trhu a o zmene a doplnení niektorých zákonov.
 
 - 4) § 47 ods. 7 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+- 4a) § 10 ods. 4 zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
 
 - 5) § 6 zákona Národnej rady Slovenskej republiky č. 63/1993 Z. z. o štátnych symboloch Slovenskej republiky a ich používaní v znení zákona č. 273/1996 Z. z.
 
