@@ -56,6 +56,8 @@
 
 - 26) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
+- 26a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 27) § 7 zákona č. 308/2000 Z. z. v znení zákona č. 498/2009 Z. z.
 
 - 28) § 5 zákona č. 516/2008 Z. z. o Audiovizuálnom fonde a o zmene a doplnení niektorých zákonov.
