@@ -4,6 +4,8 @@
 
 - 1b) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
+- 1c) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
 - 2) Čl. 141a ods. 4 písm. g) Ústavy Slovenskej republiky.
 
 - 2a) § 6 ods. 1 zákona č. 548/2003 Z. z. o Justičnej akadémii a o zmene a doplnení niektorých zákonov.

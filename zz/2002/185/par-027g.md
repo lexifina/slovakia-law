@@ -28,9 +28,11 @@
 
 - b) doklad o tom, že kandidát zložil odbornú justičnú skúšku, advokátsku skúšku, prokurátorskú skúšku alebo notársku skúšku a že aspoň päť rokov vykonával právnickú prax,
 
-- c) písomný súhlas kandidáta s kandidatúrou,
+- c) údaje potrebné na vyžiadanie odpisu registra trestov,<sup>1c</sup>)
 
-- d) v prípade návrhu podľa odseku 1 písm. c) a d) aj doklad o prerokovaní návrhu v príslušných orgánoch.
+- d) písomný súhlas kandidáta s kandidatúrou,
+
+- e) v prípade návrhu podľa odseku 1 písm. c) a d) aj doklad o prerokovaní návrhu v príslušných orgánoch.
 
 Na návrhy, ktoré nemajú všetky náležitosti ustanovené týmto zákonom, sa neprihliada.
 
