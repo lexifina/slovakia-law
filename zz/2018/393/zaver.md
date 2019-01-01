@@ -1,0 +1,1 @@
+Miroslav Lajčák v. r.
