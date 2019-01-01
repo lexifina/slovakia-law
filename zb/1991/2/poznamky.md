@@ -26,7 +26,9 @@
 
 - 4aj) § 3 zákona č. 103/2007 Z. z. o trojstranných konzultáciách na celoštátnej úrovni a o zmene a doplnení niektorých zákonov (zákon o tripartite).
 
-- 4b) Zákon č. 311/1999 Z. z. o registri trestov.
+- 4b) Zákon č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 4c) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. v znení zákona č. 91/2016 Z. z.
 
 - 4d) Zákon č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.
 

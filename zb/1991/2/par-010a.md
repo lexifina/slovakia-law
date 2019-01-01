@@ -14,7 +14,7 @@
 
 - e) je odborne spôsobilý.
 
-(3) Bezúhonný občan na účely tohto zákona je občan, ktorý nebol právoplatne odsúdený za úmyselný trestný čin. Občan preukazuje svoju bezúhonnosť výpisom z registra trestov<sup>4b</sup>)nie starším ako tri mesiace.
+(3) Bezúhonný občan na účely tohto zákona je občan, ktorý nebol právoplatne odsúdený za úmyselný trestný čin. Bezúhonnosť sa preukazuje výpisom z registra trestov.<sup>4b</sup>) Na účel preukázania bezúhonnosti občan poskytne ministerstvu údaje potrebné na vyžiadanie výpisu z registra trestov.<sup>4c</sup>) Údaje podľa tretej vety ministerstvo bezodkladne zašle v elektronickej podobe prostredníctvom elektronickej komunikácie Generálnej prokuratúre Slovenskej republiky na vydanie výpisu z registra trestov.
 
 (4) Odborne spôsobilý občan na účely tohto zákona je občan, ktorý má odborné vedomosti najmä z pracovnoprávnej oblasti a sociálnej oblasti a má schopnosti, ktoré sú nevyhnutné na vykonávanie sprostredkovateľskej činnosti a rozhodcovskej činnosti.
 
