@@ -12,7 +12,7 @@
 
 - 4) § 31 ods. 2 zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení zákona č. 149/2001 Z. z.
 
-- 5) Napríklad zákon č. 594/2003 Z. z. o kolektívnom investovaní a o zmene a doplnení niektorých zákonov.
+- 5) Zákon č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 5a) Čl. 4 ods. 1 bod 42 nariadenia (EÚ) č. 575/2013.
 
@@ -140,13 +140,21 @@
 
 - 24) § 13 ods. 1 až 6 a § 14 ods. 3 písm. f) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
-- 24a) Napríklad § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. o starobnom dôchodkovom sporení a o zmene a doplnení niektorých zákonov v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
+- 24a) Napríklad § 8 písm. b) zákona č. 566/2001 Z. z. v znení neskorších predpisov, § 4 ods. 11 zákona č. 429/2002 Z. z. v znení zákona č. 747/2004 Z. z., § 48 ods. 11 zákona č. 43/2004 Z. z. v znení zákona č. 747/2004 Z. z., § 23 ods. 11 zákona č. 650/2004 Z. z. o doplnkovom dôchodkovom sporení a o zmene a doplnení niektorých zákonov, § 3 písm. a) zákona č. 8/2008 Z. z. v znení neskorších predpisov, § 23 ods. 1 zákona č. 186/2009 Z. z. v znení neskorších predpisov, § 2 ods. 31 zákona č. 492/2009 Z. z. v znení zákona č. 394/2011 Z. z., § 28 ods. 10 zákona č. 203/2011 Z. z. o kolektívnom investovaní.
 
 - 24aa) § 3 zákona č. 7/2005 Z. z. o konkurze a reštrukturalizácii a o zmene a doplnení niektorých zákonov v znení zákona č. 520/2005 Z. z.
 
 - 24aaa) Čl. 4 ods. 1 bod 16 nariadenia (EÚ) č. 575/2013.
 
 - § 22 ods. 4 zákona č. 431/2002 Z. z. v znení zákona č. 561/2004 Z. z.
+
+- 24aaaa) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
+- 24aaab) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
+
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
 
 - 24aab) Čl. 4 ods. 1 bod 15 nariadenia (EÚ) č. 575/2013.
 
@@ -159,6 +167,8 @@
 - 24b) § 36 ods. 1 a 2 Občianskeho zákonníka.
 
 - 24c) § 1 ods. 2, § 6 ods. 3 a § 8 ods. 3 nariadenia vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
+
+- 24ca) Napríklad zákon č. 43/2004 Z. z. v znení neskorších predpisov, zákon č. 650/2004 Z. z. v znení neskorších predpisov, § 35a až 35k zákona č. 747/2004 Z. z. v znení neskorších predpisov, zákon č. 203/2011 Z. z. v znení neskorších predpisov.
 
 - 24d) § 29 ods. 3 zákona č. 297/2008 Z. z.
 
@@ -428,6 +438,8 @@
 
 - 37aba) Napríklad § 27 Obchodného zákonníka v znení neskorších predpisov, § 60 až 60b zákona č. 455/1991 Zb. v znení neskorších predpisov, § 20 a 21 zákona č. 540/2001 Z. z. o štátnej štatistike v znení neskorších predpisov, § 170 ods. 3 a § 226 ods. 1 písm. e) zákona č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov, zákon č. 530/2003 Z. z. v znení neskorších predpisov.
 
+- 37abb) § 7b ods. 6 a § 8b ods. 1 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+
 - 37ac) Čl. 4 ods. 1 bod 86 nariadenia (EÚ) č. 575/2013.
 
 - 38) § 2 ods. 4 písm. a) a b) a § 24 až 29 zákona č. 431/2002 Z. z.
@@ -443,6 +455,10 @@
 - 42) § 19 zákona č. 466/2002 Z. z.
 
 - 43) § 3 ods. 3 zákona č. 7/2005 Z. z. v znení zákona č. 520/2005 Z. z.
+
+- 43a) Napríklad § 35 ods. 2 zákona č. 747/2004 Z. z., opatrenie Národnej banky Slovenska z 2. septembra 2014 č. 17/2014 o predkladaní výkazov bankami, pobočkami zahraničných bánk, obchodníkmi s cennými papiermi alebo pobočkami zahraničných obchodníkov s cennými papiermi na štatistické účely (oznámenie č. 246/2014 Z. z.) v znení neskorších predpisov, opatrenie Národnej banky Slovenska z 20. júna 2017 č. 3/2017 o predkladaní výkazov bankami, pobočkami zahraničných bánk a obchodníkmi s cennými papiermi na účely zabezpečenia zberu údajov podľa osobitného predpisu (oznámenie č. 168/2017 Z. z.), opatrenie Národnej banky Slovenska z 12. decembra 2017 č. 13/2017 o predkladaní výkazov, hlásení a iných správ bankami a pobočkami zahraničných bánk na účely vykonávania dohľadu (oznámenie č. 337/2017 Z. z.).
+
+- 43b) Napríklad § 7 ods. 2 zákona č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov.
 
 - 44) Čl. 11 nariadenia (EÚ) č. 575/2013.
 
@@ -500,13 +516,19 @@
 
 - 48c) § 37 ods. 3 zákona č. 747/2004 Z. z. v znení zákona č. 276/2009 Z. z.
 
-- 48d) § 27 ods. 7 zákona č. 747/2004 Z. z.
+- 48d) § 27 ods. 7 zákona č. 747/2004 Z. z. v znení neskorších predpisov.
 
-- Zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+- Zákon č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+
+- Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4. 5. 2016).
 
 - 48e) Napríklad Trestný poriadok v znení neskorších predpisov.
 
-- 48f) § 53 zákona č. 371/2014 Z. z.
+- 48f) § 10 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
+
+- 48g) § 34 ods. 6 zákona č. 371/2014 Z. z. v znení zákona č. 373/2018 Z. z.
+
+- 48h) § 8 a § 54 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
 - 49) Zákon č. 566/2001 Z. z. v znení neskorších predpisov.
 
@@ -540,9 +562,9 @@
 
 - 56) § 8 ods. 6 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení zákona č. 154/1999 Z. z.
 
-- 57) § 6, 7 a § 12 ods. 4, 5 a 7 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
+- 57) § 6, § 7 a § 12 ods. 4, 5 a 7 zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
-- § 98 ods. 2 písm. b) zákona č. 371/2014 Z. z.
+- § 98 ods. 2 zákona č. 371/2014 Z. z. v znení zákona č. 437/2015 Z. z.
 
 - 58) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
@@ -618,7 +640,7 @@
 
 - Zákon č. 480/2002 Z. z. o azyle a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- 73a) § 6 ods. 1 a 2, § 8 až 8b a § 10 ods. 4 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
+- 73a) § 6 ods. 1 a 2, § 7 až 7d, § 8 až 8b a § 10 ods. 4 zákona Národnej rady Slovenskej republiky č. 182/1993 Z. z. v znení neskorších predpisov.
 
 - 74a) Zákon č. 266/2005 Z. z. o ochrane spotrebiteľa pri finančných službách na diaľku a o zmene a doplnení niektorých zákonov.
 
@@ -641,10 +663,6 @@
 - Správny súdny poriadok.
 
 - 80) Trestný poriadok v znení neskorších predpisov.
-
-- 80a) Zákon č. 150/2001 Z. z. o daňových orgánoch a ktorým sa mení a dopĺňa zákon č. 440/2000 Z. z. o správach finančnej kontroly v znení neskorších predpisov.
-
-- 80b) Zákon č. 199/2004 Z. z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 80c) Napríklad § 4 ods. 3 písm. c) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení zákona č. 453/2001 Z. z.
 
@@ -696,6 +714,8 @@
 
 - 86dh) § 225j zákona č. 461/2003 Z. z. v znení zákona č. 2/2017 Z. z.
 
+- 86di) § 167 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 345/2018 Z. z.
+
 - 86e) Zákon č. 126/2011 Z. z.
 
 - 86f) § 20f až 20j Občianskeho zákonníka.
@@ -740,7 +760,9 @@
 
 - 88f) § 2 zákona Národnej rady Slovenskej republiky č. 301/1995 Z. z. o rodnom čísle.
 
-- 88g) § 7 ods. 6 zákona č. 428/2002 Z. z.
+- 88g) Zákon č. 18/2018 Z. z.
+
+- Nariadenie (EÚ) 2016/679.
 
 - 88h) Napríklad § 12 ods. 1 a 2 a § 22b zákona Národnej rady Slovenskej republiky č. 118/1996 Z. z. v znení neskorších predpisov.
 
@@ -748,15 +770,11 @@
 
 - 88ia) § 10 ods. 7 a § 13 ods. 7 zákona č. 428/2002 Z. z.
 
-- 88j) § 4 ods. 1 a 2 zákona č. 244/2002 Z. z.
+- 88j) § 90 ods. 1 zákona č. 492/2009 Z. z. v znení zákona č. 373/2018 Z. z.
 
-- 88k) § 90 ods. 1 zákona č. 492/2009 Z. z.
+- Zákon č. 391/2015 Z. z. o alternatívnom riešení spotrebiteľských sporov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 244/2002 Z. z. v znení neskorších predpisov.
-
-- 88l) Napríklad Civilný sporový poriadok, zákon Národnej rady Slovenskej republiky č. 233/1995 Z. z. v znení neskorších predpisov.
-
-- 88m) Zákon č. 244/2002 Z. z.
+- 88k) Napríklad zákon č. 244/2002 Z. z. v znení neskorších predpisov, zákon č. 420/2004 Z. z. o mediácii a o doplnení niektorých zákonov v znení neskorších predpisov.
 
 - 89) Zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov.
 

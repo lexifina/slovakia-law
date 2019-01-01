@@ -6,7 +6,7 @@
 
 - b) možno odôvodnene očakávať, že realizácia opatrení uvedených v ozdravnom pláne s prihliadnutím na prípravné kroky, ktoré banka uskutočnila alebo plánuje uskutočniť na uľahčenie realizácie ozdravného plánu, povedie k zachovaniu alebo obnoveniu finančnej stability banky alebo skupiny, ktorej je súčasťou a schopnosti pokračovať v činnosti,
 
-- c) možno odôvodnene očakávať, že ozdravný plán je možné realizovať rýchlo a efektívne, keď sa banka nachádza vo finančnom strese, a pri minimalizácii významných nepriaznivých vplyvov na finančný systém, aj keby ostatné banky realizovali svoje ozdravné plány v tom istom čase.
+- c) možno odôvodnene očakávať, že ozdravný plán je možné realizovať rýchlo a efektívne, keď sa banka nachádza vo finančnom strese, a pri minimalizácii významných nepriaznivých vplyvov na finančný systém, aj keby ostatné banky a obchodníci s cennými papiermi realizovali svoje ozdravné plány v tom istom čase.
 
 (2) Pri posudzovaní ozdravného plánu Národná banka Slovenska prihliada aj na primeranosť štruktúry kapitálu a financovania banky k zložitosti organizačnej štruktúry banky a rizikovému profilu banky.
 

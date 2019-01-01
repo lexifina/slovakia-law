@@ -10,4 +10,4 @@
 
 (3) Ak by sa udelením bankového povolenia banka stala súčasťou konsolidovaného celku podľa § 44 až 49, ktorého súčasťou je aj finančná holdingová spoločnosť, alebo ak by sa stala súčasťou finančného konglomerátu podľa § 49a až 49o, ktorého súčasťou je aj zmiešaná finančná holdingová spoločnosť, podmienkou udelenia bankového povolenia je aj preukázanie odbornej spôsobilosti a dôveryhodnosti fyzických osôb, ktoré sú členmi štatutárneho orgánu tejto finančnej holdingovej spoločnosti alebo tejto zmiešanej finančnej holdingovej spoločnosti.
 
-(4) Odbornou spôsobilosťou osôb uvedených v odseku 3 sa rozumie primeraná znalosť finančného sektora a skúsenosti v oblasti finančného sektora. Na posudzovanie dôveryhodnosti osôb uvedených v odseku 3 sa rovnako vzťahuje § 7 ods. 15.
+(4) Odbornou spôsobilosťou osôb uvedených v odseku 3 sa rozumie primeraná znalosť finančného sektora a skúsenosti v oblasti finančného sektora. Na posudzovanie dôveryhodnosti osôb uvedených v odseku 3 sa rovnako vzťahuje § 7 ods. 15 a 16.

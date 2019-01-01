@@ -8,7 +8,7 @@
 
 - c) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu v banke a pobočke zahraničnej banky zriadený platobný účet okrem vkladového účtu,<sup>27fa</sup>) osobitného účtu dlžníka podľa § 27f, peňažného vkladu potvrdeného vkladnou knižkou alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou, sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov,
 
-- d) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu čistý mesačný príjem vyšší ako 400 eur,
+- d) spotrebiteľ nemá ku dňu podania žiadosti o poskytnutie základného bankového produktu čistý mesačný príjem vyšší ako 1,1-násobok minimálnej mzdy,
 
 - e) banka a pobočka zahraničnej banky poskytujú tieto bankové služby spotrebiteľovi v rámci svojho podnikania a
 
@@ -20,9 +20,9 @@
 
 (4) Spotrebiteľ si v období, počas ktorého mu banka alebo pobočka zahraničnej banky poskytuje základný bankový produkt, nesmie zriadiť žiaden ďalší platobný účet okrem vkladového účtu, osobitného účtu dlžníka podľa § 27f, peňažného vkladu potvrdeného vkladnou knižkou v banke a pobočke zahraničnej banky alebo okrem prijímania vkladov formou sporiaceho programu, a to sporením platobnou kartou alebo sporením jednorazovým alebo pravidelným prevodom finančných prostriedkov.
 
-(5) Ak banka a pobočka zahraničnej banky zistia nepravdivosť čestného vyhlásenia podľa odseku 2 alebo nedodržanie ustanovenia odseku 3, banka a pobočka zahraničnej banky zrušia poskytovanie základného bankového produktu spotrebiteľovi, ak sa banka alebo pobočka zahraničnej banky nedohodnú so spotrebiteľom inak.
+(5) Ak banka a pobočka zahraničnej banky zistia nepravdivosť čestného vyhlásenia podľa odseku 2 alebo nedodržanie ustanovenia odseku 4, banka a pobočka zahraničnej banky zrušia poskytovanie základného bankového produktu spotrebiteľovi, ak sa banka alebo pobočka zahraničnej banky nedohodnú so spotrebiteľom inak.
 
-(6) Ak je súčet súm platobných operácií pripísaných na platobný účet spotrebiteľa v kalendárnom roku v rámci poskytovania základného bankového produktu vyšší ako 5 600 eur, banka a pobočka zahraničnej banky zrušia poskytovanie základného bankového produktu spotrebiteľovi, ak sa banka alebo pobočka zahraničnej banky nedohodnú so spotrebiteľom inak.
+(6) Ak je súčet súm platobných operácií pripísaných na platobný účet spotrebiteľa v kalendárnom roku v rámci poskytovania základného bankového produktu vyšší ako 15-násobok minimálnej mzdy, banka a pobočka zahraničnej banky zrušia poskytovanie základného bankového produktu spotrebiteľovi, ak sa banka alebo pobočka zahraničnej banky nedohodnú so spotrebiteľom inak.
 
 (7) Náležitosti žiadosti o poskytnutie základného bankového produktu sú meno, priezvisko, rodné číslo a adresa trvalého pobytu žiadateľa o poskytnutie základného bankového produktu.
 
@@ -42,7 +42,7 @@
 
 (12) Poskytnutie základného bankového produktu banka a pobočka zahraničnej banky nesmú podmieňovať poskytnutím iného produktu alebo služby.
 
-(13) Banka a pobočka zahraničnej banky sú povinné viesť evidenciu základných bankových produktov najmenej v rozsahu údajov uvedených v odseku 6 vrátane informácie o začatí a ukončení poskytovania základného bankového produktu spotrebiteľovi.
+(13) Banka a pobočka zahraničnej banky sú povinné viesť evidenciu základných bankových produktov najmenej v rozsahu údajov uvedených v odseku 7 vrátane informácie o začatí a ukončení poskytovania základného bankového produktu spotrebiteľovi.
 
 (14) Banka a pobočka zahraničnej banky sú povinné každoročne do 25. januára príslušného kalendárneho roka predložiť ministerstvu informáciu za predchádzajúci kalendárny rok o
 
@@ -52,9 +52,9 @@
 
 - c) výške poplatku za základný bankový produkt.
 
-(15) Ministerstvo informuje Európsku komisiu pravidelne, jedenkrát ročne o základných bankových produktoch v rozsahu informácií podľa odseku 13.
+(15) Ministerstvo informuje Európsku komisiu pravidelne, jedenkrát ročne o základných bankových produktoch v rozsahu informácií podľa odseku 14.
 
-(16) Banka a pobočka zahraničnej banky sú povinné bezplatne sprístupniť informácie podľa odseku 16 na webovom sídle banky a pobočky zahraničnej banky a v prevádzkových priestoroch banky a pobočky zahraničnej banky; na žiadosť spotrebiteľa sú povinné poskytnúť informácie podľa odseku 17 bezplatne v listinnej podobe alebo na trvanlivom médiu.<sup>72d</sup>)
+(16) Banka a pobočka zahraničnej banky sú povinné bezplatne sprístupniť informácie podľa odseku 17 na webovom sídle banky a pobočky zahraničnej banky a v prevádzkových priestoroch banky a pobočky zahraničnej banky; na žiadosť spotrebiteľa sú povinné poskytnúť informácie podľa odseku 17 bezplatne v listinnej podobe alebo na trvanlivom médiu.<sup>72d</sup>)
 
 (17) Informácie o základnom bankovom produkte musia obsahovať
 
