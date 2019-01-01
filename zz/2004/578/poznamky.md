@@ -150,7 +150,7 @@
 
 - 30) § 328 až 336 Trestného zákona.
 
-- 31) § 10 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+- 31) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 31a) § 19 ods. 2 písm. c) tretí bod zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
 
@@ -312,6 +312,8 @@
 
 - 55jau) § 8 ods. 10 zákona č. 581/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
+- 55jav) § 88 ods. 14 zákona č. 363/2011 Z. z. o rozsahu a podmienkach úhrady liekov, zdravotníckych pomôcok a dietetických potravín na základe verejného zdravotného poistenia a o zmene a doplnení niektorých zákonov v znení zákona č. 336/2017 Z. z.
+
 - 55jaw) § 8 ods. 10 zákona č. 576/2004 Z. z. v znení zákona č. 351/2017 Z. z.
 
 - 55jawa) Príloha č. 9 zákona č. 87/2018 Z. z. o radiačnej ochrane a o zmene a doplnení niektorých zákonov.
@@ -321,6 +323,8 @@
 - 55jawc) § 8a ods. 6 zákona č. 576/2004 Z. z. v znení zákona č. 257/2017 Z. z.
 
 - 55jawd) Čl. 10 ods. 1,4 a 6 nariadenia Európskeho parlamentu a Rady (EÚ) 2017/852 zo 17. mája 2017 o ortuti a o zrušení nariadenia (ES) č. 1102/2008 (Ú. v. EÚ L 137, 24. 5. 2017).
+
+- 55jawe) Príloha č. 2 k zákonu č. 577/2004 Z. z. v znení neskorších predpisov.
 
 - 55jb) § 73 ods. 2 zákona č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kuratele a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
@@ -403,6 +407,8 @@
 - 60ac) Zákonník práce.
 
 - 60b) § 18 ods. 1 písm. b) a c) zákona č. 581/2004 Z. z. v znení neskorších predpisov.
+
+- 60ca) § 23 ods. 4 a 5 zákona č. 576/2004 Z. z. v znení zákona č. 374/2018 Z. z.
 
 - 60d) § 64 ods. 5 zákona č. 581/2004 Z. z. v znení neskorších predpisov.
 

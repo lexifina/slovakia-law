@@ -8,6 +8,6 @@
 
 - c) komu bol právoplatným rozhodnutím súdu uložený doživotný zákaz výkonu zdravotníckeho povolania,<sup>41aa</sup>)
 
-- d) kto porušil povinnosť podľa § 80 ods. 1 písm. k) a bola mu uložená pokuta podľa § 82 ods. 5 písm. b).
+- d) kto porušil povinnosť podľa § 80 ods. 1 písm. j) a bola mu uložená pokuta podľa § 82 ods. 5 písm. b).
 
 (2) O zrušení registrácie rozhodne komora do 30 dní odo dňa, keď sa dozvedela o skutočnostiach uvedených v odseku 1. Rozhodnutie o zrušení registrácie sa doručuje zdravotníckemu pracovníkovi a v prípade, že je zamestnancom, aj jeho zamestnávateľovi.
