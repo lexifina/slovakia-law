@@ -12,9 +12,13 @@
 
 - 6) § 3 ods. 2 zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky poriadok).
 
+- 6a) Napríklad § 93b zákona č. 483/2001 Z. z. o bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 88 ods. 9 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+
+- 6b) Napríklad § 93b zákona č. 483/2001 Z. z. v znení neskorších predpisov, zákon č. 747/2004 Z. z. o dohľade nad finančným trhom a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 88 ods. 9 zákona č. 492/2009 Z. z. v znení neskorších predpisov.
+
 - 7b) Napríklad zákon Slovenskej národnej rady č. 9/1992 Zb. o obchodných a priemyselných komorách v znení neskorších predpisov.
 
-- 7c) Napríklad § 90 zákona č. 492/2009 Z. z. o platobných službách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+- 7c) Napríklad § 24 zákona č. 429/2002 Z. z. o burze cenných papierov, § 35 zákona č. 92/2008 Z. z. o komoditnej burze a o doplnení zákona Národnej rady Slovenskej republiky č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov.
 
 - 8) Nariadenie vlády Slovenskej republiky č. 42/2004 Z. z. o Obchodnom vestníku v znení nariadenia vlády Slovenskej republiky č. 76/2005 Z. z.
 
@@ -44,4 +48,4 @@
 
 - 19) Napríklad vyhláška ministra zahraničných vecí č. 74/1959 Zb. o Dohovore o uznaní a výkone cudzích rozhodcovských rozhodnutí, vyhláška ministra zahraničných vecí č. 176/1964 Zb. o Európskom dohovore o medzinárodnej obchodnej arbitráži.
 
-- 20) § 101 Občianskeho zákonníka.
+- 20) Napríklad § 101 a 112 Občianskeho zákonníka, § 397 a 402 až 407 Obchodného zákonníka.
