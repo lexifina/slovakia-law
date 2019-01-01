@@ -16,6 +16,12 @@ Opatrenie Ministerstva financií Slovenskej republiky zo 14. novembra 2007 č. M
 
 - Poznámky pod čiarou k odkazom 34a, 34b a 34c znejú:„34a) § 15 ods. 2 zákona č. 321/2014 Z. z. o energetickej efektívnosti a o zmene a doplnení niektorých zákonov.34b) § 18 ods. 1 zákona č. 321/2014 Z. z. v znení zákona č. .../2018 Z. z.34c) § 29 ods. 1 zákona č. 595/2003 Z. z. v znení neskorších predpisov.“.
 
+- 2. V § 34 ods. 2 druhej vete sa na konci pripájajú tieto slová: „a servisné poukážky.35a)“.
+
+- Poznámka pod čiarou k odkazu 35a znie:
+
+- „35a) § 23 zákona č. 112/2018 Z. z. o sociálnej ekonomike a sociálnych podnikoch a o zmene a doplnení niektorých zákonov.“.
+
 - 3. V § 49 ods. 8 a 9 sa slová „353 – Pohľadávky za upísané vlastné imanie“ nahrádzajú slovami „378 – Iné pohľadávky“.
 
 - 4. Za § 72g sa vkladá § 72h, ktorý vrátane nadpisu znie:
