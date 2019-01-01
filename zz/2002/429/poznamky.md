@@ -34,6 +34,8 @@
 
 - 13a) § 71 až 71n zákona č. 566/2001 Z. z. v znení neskorších predpisov.
 
+- 13b) § 10 ods. 4 a 5 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 14) Zákon č. 328/1991 Zb. o konkurze a vyrovnaní v znení neskorších predpisov.
 
 - 15) § 9 ods. 3 Zákonníka práce.
@@ -43,6 +45,12 @@
 - 16a) § 6 ods. 1 písm. f) zákona č. 566/2001 Z. z. v znení zákona č. 209/2007 Z. z.
 
 - 16aa) Delegované nariadenie Komisie (EÚ) 2017/571 z 2. júna 2016, ktorým sa dopĺňa smernica Európskeho parlamentu a Rady 2014/65/EÚ, pokiaľ ide o regulačné technické predpisy týkajúce sa udeľovania povolenia, organizačných požiadaviek a uverejňovania transakcií pre poskytovateľov služieb vykazovania údajov (Ú. v. EÚ L 87, 31. 3. 2017).
+
+- 16aaa) § 34a ods. 1 a 2 a § 34b zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. v znení neskorších predpisov.
+
+- § 10 ods. 1, 5, 6, 7, 10 a 11 a § 12 zákona č. 330/2007 Z. z. v znení neskorších predpisov.
+
+- Zákon č. 747/2004 Z. z. v znení neskorších predpisov.
 
 - 16ab) § 79i ods. 2 písm. g) a ods. 5 písm. g) zákona č. 566/2001 Z. z. v znení zákona č. 237/2017 Z. z.
 
