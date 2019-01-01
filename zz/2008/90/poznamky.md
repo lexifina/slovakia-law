@@ -51,3 +51,5 @@
 - 11) § 2 ods. 4 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií).
 
 - 11a) Čl. 12 ods. 2a nariadenia (ES) č. 1082/2006 v platnom znení.
+
+- 12) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
