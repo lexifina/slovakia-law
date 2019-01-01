@@ -21,3 +21,15 @@ Opatrenie Ministerstva financií Slovenskej republiky z 1. decembra 2010 č. MF/
 - 6d) § 17 ods. 43 zákona č. 595/2003 Z. z. v znení zákona č. 213/2018 Z. z.
 
 - 6e) Zákon č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v znení neskorších predpisov.“.
+
+- 3. V § 13 ods. 4 sa na konci pripájajú tieto vety: „Ak do konca bezprostredne nasledujúceho účtovného obdobia účtovná jednotka už nie je zamestnávateľom10a) a nevyčerpaný zostatok sociálneho fondu uložený na osobitnom účte v banke sa prevedie na účet v banke, v peňažnom denníku sa účtuje ako príjem podľa § 9 ods. 12 písm. d) 15. bodu. Ak prostriedky sociálneho fondu nie sú uložené na osobitnom účte v banke, nevyčerpaný zostatok sociálneho fondu sa v rámci uzávierkových účtovných operácií účtuje v peňažnom denníku ako príjem podľa § 9 ods. 12 písm. d) 15. bodu. V knihe sociálneho fondu sa nevyčerpaný zostatok sociálneho fondu vysporiada najneskôr do uzavretia účtovných kníh bezprostredne nasledujúceho účtovného obdobia.“.
+
+- Poznámka pod čiarou k odkazu 10a znie:
+
+- „10a) § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 152/1994 Z. z v znení zákona č. 591/2007 Z. z.“.
+
+- 4. V § 21 ods. 1 tretej vete sa za slovo „záväzku“ vkladajú slová „voči poskytovateľovi dotácie“.
+
+- 5. V § 21 ods. 2 sa na konci pripájajú tieto slová: „voči poskytovateľovi dotácie“.
+
+- 6. V § 24 ods. 4 sa na začiatok vkladá nová prvá veta, ktorá znie: „Pri pomerne odpočítanej dani z pridanej hodnoty33) v jednom zdaňovacom období sa časť dane z pridanej hodnoty, na ktorú nie je nárok, účtuje podľa § 9 ods. 12 písm. e) piateho bodu.“.
