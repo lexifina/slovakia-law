@@ -28,6 +28,10 @@
 
 - 3e) Zákon č. 90/2016 Z. z. o úveroch na bývanie a o zmene a doplnení niektorých zákonov.
 
+- 3f) § 5, 6 a 8 zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších predpisov.
+
+- 3g) § 7 a 51e zákona č. 595/2003 Z. z. v znení neskorších predpisov.
+
 - 4) Zákon č. 328/2002 Z. z. o sociálnom zabezpečení policajtov a vojakov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
 - Zákon č. 461/2003 Z. z. o sociálnom poistení v znení neskorších predpisov.

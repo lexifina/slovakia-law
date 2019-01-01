@@ -1,6 +1,6 @@
 # § 10b
 
-(1) Stavebná sporiteľňa je povinná písomne uplatniť nárok na štátnu prémiu za príslušný kalendárny rok do 15 kalendárnych dní po uplynutí príslušného roka. Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky poskytuje prostriedky na štátnu prémiu ročne, a to do 35 kalendárnych dní od uplatnenia nároku na štátnu prémiu stavebnou sporiteľňou za predchádzajúci kalendárny rok.
+(1) Stavebná sporiteľňa je povinná písomne uplatniť nárok na štátnu prémiu za príslušný kalendárny rok do 45 kalendárnych dní po uplynutí príslušného roka. Ministerstvo dopravy a výstavby Slovenskej republiky poskytuje prostriedky na štátnu prémiu ročne, a to do 35 kalendárnych dní od uplatnenia nároku na štátnu prémiu stavebnou sporiteľňou za predchádzajúci kalendárny rok.
 
 (2) Stavebná sporiteľňa pripíše štátnu prémiu za predchádzajúci kalendárny rok na účet stavebného sporiteľa po získaní prostriedkov zo štátneho rozpočtu najneskôr do desiatich kalendárnych dní; účet stavebného sporiteľa založený na základe zmluvy o stavebnom sporení nie je platobným účtom podľa osobitného predpisu.<sup>4aa</sup>)
 
