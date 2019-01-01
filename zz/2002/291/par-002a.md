@@ -30,6 +30,8 @@
 
 - n) verejná výskumná inštitúcia,<sup>9b</sup>)
 
+- o) politická strana a politické hnutie na účely vedenia a používania príspevkov zo štátneho rozpočtu, ak spĺňajú podmienky na poskytovanie príspevku podľa osobitného predpisu.<sup>9c</sup>)
+
 (2) Vstupom do záväzku sa rozumie právny úkon, na ktorého základe sa uskutoční výdavok z rozpočtu klienta, najmä uzavretie zmluvy o dielo na dodávku tovarov alebo služieb, objednávka alebo rozhodnutie o transfere z rozpočtu klienta.
 
 (3) Likviditou Štátnej pokladnice sa rozumie schopnosť Štátnej pokladnice splácať záväzky vyplývajúce zo systému štátnej pokladnice.

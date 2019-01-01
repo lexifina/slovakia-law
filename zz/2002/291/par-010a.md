@@ -2,7 +2,7 @@
 
 # § 10a
 
-(1) Podľa odseku 2 postupuje klient uvedený v § 2a ods. 1 písm. m).
+(1) Podľa odseku 2 postupuje klient uvedený v § 2a ods. 1 písm. m) a o).
 
 (2) Klient predkladá Štátnej pokladnici žiadosť o realizáciu platobnej operácie v lehote dohodnutej so Štátnou pokladnicou. Žiadosť o realizáciu platobnej operácie obsahuje najmä bankové spojenie, sumu prevodu, označenie meny a konštantný symbol. Klient môže od Štátnej pokladnice požadovať realizáciu platobnej operácie, iba ak Štátna pokladnica odsúhlasila žiadosť o realizáciu platobnej operácie. Deň odpísania finančných prostriedkov z účtu v žiadosti o realizáciu platobnej operácie uvádza ako deň splatnosti.
 

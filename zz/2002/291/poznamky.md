@@ -20,9 +20,13 @@
 
 - 9b) Zákon č. 243/2017 Z. z. o verejnej výskumnej inštitúcii a o zmene a doplnení niektorých zákonov.
 
+- 9c) § 25 až 29 zákona č. 85/2005 Z. z. o politických stranách a politických hnutiach v znení zákona č. 344/2018 Z. z.
+
 - 10a) § 13 ods. 1 písm. f) zákona č. 523/2004 Z. z.
 
 - 11) § 21 ods. 5 písm. a) zákona č. 523/2004 Z. z.
+
+- 11a) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 12) Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
