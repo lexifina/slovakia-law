@@ -1916,6 +1916,8 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - 44. V § 73 ods. 2 písm. b) piatom bode sa za slovo „opatrovníka“ vkladá slovo „dieťaťa“.
 
+- 45. V § 73 ods. 2 písm. b) siedmom bode sa vypúšťajú slová „a prípravu na profesionálne vykonávanie náhradnej starostlivosti a na informačné poradenstvo podľa § 56 ods. 8“.
+
 - 46. V § 73 ods. 2 písm. b) ôsmom bode sa slová „ods. 10 a 11“ nahrádzajú slovami „ods. 12 a 13“.
 
 - 47. V § 73 ods. 2 písm. e) druhý bod znie:
@@ -2974,4 +2976,10 @@ Zákon č. 305/2005 Z. z. o sociálnoprávnej ochrane detí a o sociálnej kurat
 
 - § 100z
 
-- Konanie o uložení pokuty začaté pred 1. aprílom 2018, ktoré nebolo právoplatne ukončené, sa dokončí podľa zákona účinného do 31. marca 2018.“.
+- Konanie o uložení pokuty začaté pred 1. aprílom 2018, ktoré nebolo právoplatne ukončené, sa dokončí podľa zákona účinného do 31. marca 2018.
+
+- § 100aa
+
+- Prechodné ustanovenie k úprave účinnej od 1. januára 2019
+
+- Príprava na profesionálne vykonávanie náhradnej starostlivosti, začatá orgánom sociálnoprávnej ochrany detí a sociálnej kurately podľa § 73 ods. 2 pred 1. januárom 2019 sa dokončí podľa zákona účinného do 31. decembra 2018.“.
