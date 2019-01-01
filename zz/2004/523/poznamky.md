@@ -56,6 +56,8 @@
 
 - 14caa) § 5 zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb a o zmene a doplnení niektorých zákonov.
 
+- 14cab) § 10 ods. 4 písm. b) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
+
 - 14cb) § 5 a 6 zákona č. 474/2005 Z. z. o Slovákoch žijúcich v zahraničí a o zmene a doplnení niektorých zákonov.
 
 - 15) Napríklad zákon č. 195/1998 Z. z. o sociálnej pomoci v znení neskorších predpisov.
@@ -120,13 +122,17 @@
 
 - 24aa) Čl. 5 nariadenia Rady (ES, Euratom) č. 1605/2002 z 25. júna 2002 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Európskych spoločenstiev v platnom znení (Mimoriadne vydanie Ú. v. EÚ, kap. 1/zv. 4; Ú. v. ES L 248, 16. 9. 2002).
 
-- 24ab) § 15 zákona č. 25/2006 Z. z. v znení zákona č. 503/2009 Z. z.
+- 24ab) § 4, § 31 a 56 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
 
-- 24ac) § 66 zákona č. 25/2006 Z. z. v znení neskorších predpisov.
+- 24ac) § 5 ods. 7 zákona č. 343/2015 Z. z.
+
+- Vyhláška Úradu pre verejné obstarávanie č. 118/2018 Z. z., ktorou sa ustanovuje finančný limit pre nadlimitnú zákazku, finančný limit pre nadlimitnú koncesiu a finančný limit pri súťaži návrhov.
 
 - 24b) Článok 34 ods. 1 Aktu o podmienkach pristúpenia pripojeného k Zmluve o pristúpení Slovenskej republiky k Európskej únii (oznámenie č. 185/2004 Z. z.).
 
-- 25) Opatrenie Ministerstva financií Slovenskej republiky z 25. februára 2003 č. 1407/2003 – 92, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek účtovnej závierky, termíny a miesto predkladania účtovnej závierky pre rozpočtové organizácie, štátne fondy, obce, vyššie územné celky, príspevkové organizácie a niektoré iné právnické osoby, ktorých hlavným predmetom činnosti nie je podnikanie (oznámenie č. 88/2003 Z. z.) v znení neskorších predpisov.
+- 25) § 4 ods. 2 zákona č. 431/2002 Z. z. v znení neskorších predpisov.
+
+- Opatrenie Ministerstva financií Slovenskej republiky z 5. decembra 2007 č. MF/25755/2007-31, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek individuálnej účtovnej závierky, termíny a miesto predkladania účtovnej závierky pre rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce a vyššie územné celky (oznámenie č. 639/2007 Z. z.) v znení neskorších predpisov.
 
 - 26) Napríklad zákon č. 575/2001 Z. z. v znení neskorších predpisov, zákon č. 302/2001 Z. z. o samospráve vyšších územných celkov (zákon o samosprávnych krajoch) v znení neskorších predpisov.
 
@@ -201,10 +207,6 @@
 - 44) Napríklad § 246 zákona č. 461/2003 Z. z. v znení neskorších predpisov, § 2 zákona č. 357/2015 Z. z. o finančnej kontrole a audite a o zmene a doplnení niektorých zákonov.
 
 - 45) Napríklad zákon Slovenskej národnej rady č. 369/1990 Zb. v znení neskorších predpisov, zákon č. 416/2001 Z. z. o prechode niektorých pôsobností z orgánov štátnej správy na obce a na vyššie územné celky v znení neskorších predpisov, zákon č. 357/2015 Z. z.
-
-- 46) § 4 zákona č. 357/2015 Z. z.
-
-- 46a) Nariadenie Rady (ES) č. 1290/2005 z 21. júna 2005 o financovaní spoločnej poľnohospodárskej politiky (Ú. v. EÚ L 209, 11. 8. 2005).
 
 - 47) Napríklad zákon Národnej rady Slovenskej republiky č. 39/1993 Z. z. o Najvyššom kontrolnom úrade Slovenskej republiky v znení neskorších predpisov, zákon č. 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov.
 
