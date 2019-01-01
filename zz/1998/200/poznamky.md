@@ -20,6 +20,8 @@
 
 - 6) § 14 ods. 3 písm. e) šiesty bod zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
 
+- 6a) § 13 ods. 4 zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov.
+
 - 7) Zákon Národnej rady Slovenskej republiky č. 219/1996 Z. z. o ochrane pred zneužívaním alkoholických nápojov a o zriaďovaní a prevádzke protialkoholických záchytných izieb.
 
 - 8) Zákon č. 139/1998 Z. z. o omamných látkach, psychotropných látkach a prípravkoch v znení neskorších predpisov.
@@ -163,6 +165,8 @@
 - 29) Zákon Národnej rady Slovenskej republiky č. 152/1994 Z. z. o sociálnom fonde a o zmene a doplnení zákona č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov.
 
 - 29a) Napríklad zákon č. 386/1997 Z. z. o ďalšom vzdelávaní a o zmene zákona Národnej rady Slovenskej republiky č. 387/1996 Z. z. o zamestnanosti v znení zákona č. 70/1997 Z. z. v znení neskorších predpisov, zákon č. 131/2002 Z. z. v znení neskorších predpisov, vyhláška Ministerstva školstva Slovenskej republiky č. 581/2007 Z. z. o doplňujúcom pedagogickom štúdiu.
+
+- 29aa) § 152a Zákonníka práce.
 
 - 29b) Nariadenie vlády Slovenskej republiky č. 268/2006 Z. z. o rozsahu zrážok zo mzdy pri výkone rozhodnutia v znení nariadenia vlády Slovenskej republiky č. 469/2008 Z. z.
 
