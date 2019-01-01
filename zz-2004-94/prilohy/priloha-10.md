@@ -1,0 +1,3 @@
+Príloha č. 10 k vyhláške č. 94/2004 Z. z.
+
+- VZÁJOMNÁ VZDIALENOSŤ VÝCHODOV Z MIESTNOSTI ALEBO Z POŽIARNEHO ÚSEKU ![Obrázok 10-1](../assets/64bea1a00293c8d0285426cf02346aa080105d40e5a77207bdf8c1001fed8bfc.tiff)
