@@ -1,6 +1,6 @@
-- 1) § 6a ods. 1 písm. c) zákona č. 297/2008 Z. z. o ochrane pred legalizáciou príjmov z trestnej činnosti a o ochrane pred financovaním terorizmu a o zmene a doplnení niektorých zákonov v znení zákona č. 315/2016 Z. z.
+- 1) § 3 ods. 1 písm. e) zákona č. 346/2018 Z. z. o registri mimovládnych neziskových organizácií a o zmene a doplnení niektorých zákonov.
 
-- 1a) Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov.
+- 1a) § 3 zákona č. 346/2018 Z. z.
 
 - 1b) § 9 ods. 3 zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci a o zmene a doplnení niektorých zákonov.
 
@@ -9,6 +9,8 @@
 - 2) § 68 až 75 Obchodného zákonníka.
 
 - 3) Zákon č. 119/1992 Zb. o cestovných náhradách v znení neskorších predpisov.
+
+- 4) § 10 ods. 4 písm. a) zákona č. 330/2007 Z. z. o registri trestov a o zmene a doplnení niektorých zákonov v znení zákona č. 91/2016 Z. z.
 
 - 5) Zákon Slovenskej národnej rady č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona Slovenskej národnej rady č. 68/1992 Zb., zákona Národnej rady Slovenskej republiky č. 249/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 224/1996 Z. z. a zákona Národnej rady Slovenskej republiky č. 386/1996 Z. z.
 
@@ -29,3 +31,5 @@
 - 10) Napríklad zákon č. 286/1992 Zb. o daniach z príjmov v znení neskorších predpisov, zákon Slovenskej národnej rady č. 317/1992 Zb. o dani z nehnuteľností v znení neskorších predpisov, zákon Slovenskej národnej rady č. 318/1992 Zb. o dani z dedičstva, dani z darovania a dani z prevodu a prechodu nehnuteľností v znení zákona Národnej rady Slovenskej republiky č. 87/1993 Z. z.
 
 - 11) Zákon č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku v znení neskorších predpisov.
+
+- 12) § 7 zákona č. 346/2018 Z. z.
